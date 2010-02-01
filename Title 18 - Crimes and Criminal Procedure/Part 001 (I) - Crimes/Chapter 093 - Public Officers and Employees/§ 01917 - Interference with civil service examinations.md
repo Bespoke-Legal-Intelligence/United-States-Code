@@ -34,7 +34,7 @@ The references to actions in concert with others to violate this section are omi
 
 In paragraph (1), the words “the rules prescribed by the President under title 5 for the administration of the competitive service and the regulations prescribed by the Commission under section 1302(a) of title 5” are substituted for “any such rules or regulations” to provide the basis of reference.
 
-The words “be deemed guilty of a misdemeanor” are omitted as unnecessary in view of the definitive section 1 of this title. (See reviser's note under 18 U.S.C. 212, 1964 ed.)
+The words “be deemed guilty of a misdemeanor” are omitted as unnecessary in view of the definitive section1 of this title. (See reviser's note under 18 U.S.C. 212, 1964 ed.)
 
 The words “and upon conviction thereof” are omitted as unnecessary because punishment can be imposed only after conviction.
 

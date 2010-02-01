@@ -42,7 +42,7 @@ Section 4(12) of the Native American Housing Assistance and Self Determination A
 
 #### Amendments
 
-1999—Par. (4)(D). Pub. L. 106–74, §227(a), as added by Pub. L. 106–113, struck out subpar. (D) which read as follows: “the Native American Housing Assistance and Self-Determination Act.”
+1999—Par. (4)(D). Pub. L. 106–74, §227(a), as added by Pub. L. 106–113, struck out subpar. (D) which read asfollows: “the Native American Housing Assistance and Self-Determination Act.”
 
 1998—Par. (5). Pub. L. 105–276, §586(f), added par. (5) and struck out heading and text of former par. (5). Text read as follows: “The term ‘tribally designated housing entity’ has the meaning given such term in section 4 of the Native American Housing Assistance and Self-Determination Act of 1996.”
 

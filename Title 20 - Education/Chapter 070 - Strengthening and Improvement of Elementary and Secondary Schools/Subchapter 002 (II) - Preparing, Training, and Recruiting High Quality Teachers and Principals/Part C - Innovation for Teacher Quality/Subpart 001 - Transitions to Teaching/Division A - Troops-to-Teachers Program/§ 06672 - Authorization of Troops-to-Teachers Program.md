@@ -30,7 +30,7 @@ The Secretary shall provide to the Secretary of Defense information regarding th
 
 #### (e) Placement assistance and referral services
 
-The Secretary may, with the agreement of the Secretary of Defense, provide placement assistance and referral services to members of the Armed Forces who meet the criteria described in section 6673 of this title, including meeting education qualification requirements under subsection <sup>1</sup> 6673(c)(2) of this title. Such membersshall not be eligible for financial assistance under subsections (c) and (d) of section 6674 of this title.
+The Secretary may, with the agreement of the Secretary of Defense, provide placement assistance and referral services to members of the Armed Forces who meet the criteria described in section 6673 of this title, including meeting education qualification requirements under subsection <sup>1</sup> 6673(c)(2) of this title. Such members shall not be eligible for financial assistance under subsections (c) and (d) of section 6674 of this title.
 
 (Pub. L. 89–10, title II, §2302, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1648.)
 

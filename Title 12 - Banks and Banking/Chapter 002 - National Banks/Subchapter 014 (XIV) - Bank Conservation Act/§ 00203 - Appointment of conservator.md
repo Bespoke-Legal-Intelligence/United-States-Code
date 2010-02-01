@@ -8,7 +8,7 @@ The Comptroller of the Currency may, without prior notice or hearings, appoint a
 
 #### (1) In general
 
-&emsp;Not later than 20 days after the initial appointment of a conservator pursuant to thissection, the bank may bring an action in the United States district court for the judicial district in which the home office of such bank is located, or in the United States District Court for the District of Columbia, for an order requiring the Comptroller to terminate the appointment of the conservator, and the court, upon the merits, shall dismiss such action or shall direct the Comptroller to terminate the appointment of such conservator. The Comptroller's decision to appoint a conservator pursuant to this section shall be set aside only if the court finds that such decision was arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
+&emsp;Not later than 20 days after the initial appointment of a conservator pursuant to this section, the bank may bring an action in the United States district court for the judicial district in which the home office of such bank is located, or in the United States District Court for the District of Columbia, for an order requiring the Comptroller to terminate the appointment of the conservator, and the court, upon the merits, shall dismiss such action or shall direct the Comptroller to terminate the appointment of such conservator. The Comptroller's decision to appoint a conservator pursuant to this section shall be set aside only if the court finds that such decision was arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
 
 #### (2) Stay
 

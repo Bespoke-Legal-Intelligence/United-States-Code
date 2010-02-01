@@ -1,6 +1,6 @@
 ### §3592. Removal from the Senior Executive Service
 
-(a) Except as provided in subsection (b) of this section, a career appointee may be removed from the Senior Executive Service to a civil service position outside of the Senior Executive Service—
+(a) Except as provided in subsection (b) of this section, a career appointee may be removedfrom the Senior Executive Service to a civil service position outside of the Senior Executive Service—
 
 &emsp;(1) during the 1-year period of probation under section 3393(d) of this title, or
 

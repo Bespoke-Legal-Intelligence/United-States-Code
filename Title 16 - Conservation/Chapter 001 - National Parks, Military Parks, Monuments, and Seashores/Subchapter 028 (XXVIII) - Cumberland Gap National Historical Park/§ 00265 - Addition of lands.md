@@ -1,6 +1,6 @@
 ### §265. Addition of lands
 
-The Secretary of the Interior may acquire for addition to Cumberland Gap National Historical Park the following described land and interestsin land, located in Bell County, Kentucky: <i>Provided</i>, That appropriated funds may not be used to pay more than one-half the cost of such acquisition.
+The Secretary of the Interior may acquire for addition to Cumberland Gap National Historical Park the following described land and interests in land, located in Bell County, Kentucky: <i>Provided</i>, That appropriated funds may not be used to pay more than one-half the cost of such acquisition.
 
 Beginning at a concrete marker on the west boundary of Cumberland Gap National Historical Park and being on the south margin of Avondale Avenue in the city of Middlesboro, Kentucky, and also on the south bank of Davis Branch; thence along the park boundary the following courses and distances;
 

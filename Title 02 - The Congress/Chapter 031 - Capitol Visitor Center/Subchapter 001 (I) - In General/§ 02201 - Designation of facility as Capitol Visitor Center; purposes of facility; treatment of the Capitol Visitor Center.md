@@ -48,7 +48,7 @@ The Capitol Visitor Center shall be used—
 
 #### (A) Loan agreements
 
-&emsp;&emsp;Subject to subparagraph (B), the Architect of the Capitol may enter into loan agreements to place historical objects for display in the Exhibition Hall of the Capitol Visitor Center.
+&emsp;&emsp;Subject to subparagraph (B), the Architect of the Capitol may enter into loan agreements to place historical objects for displayin the Exhibition Hall of the Capitol Visitor Center.
 
 #### (B) Consultation and approval
 

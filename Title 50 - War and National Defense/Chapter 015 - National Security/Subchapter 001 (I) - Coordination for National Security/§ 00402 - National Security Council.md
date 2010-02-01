@@ -82,7 +82,7 @@ The President shall establish within the National Security Council a board to be
 
 &emsp;(A) conduct an annual review of the national security interests of the United States;
 
-&emsp;(B) identify on an annual basis, and at such other times as the Council may require, the intelligence required to meet such interests and establish an order of priority for the collection and analysis of such intelligence; and
+&emsp;(B) identify on an annual basis, and at such other times as the Council may require, theintelligence required to meet such interests and establish an order of priority for the collection and analysis of such intelligence; and
 
 &emsp;(C) conduct an annual review of the elements of the intelligence community in order to determine the success of such elements in collecting, analyzing, and disseminating the intelligence identified under subparagraph (B).
 
@@ -160,13 +160,13 @@ In subsec. (c), “chapter 51 and subchapter III of chapter 53 of title 5” sub
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(5) to (8). Pub. L. 110–140 added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
+2007—Subsec. (a)(5) to (8). Pub. L. 110–140 added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
 
 Subsecs. (i), (k). Pub. L. 110–53, §1841(g)(1), redesignated subsec. (i), relating to Special Adviser to the President on International Religious Freedom, as (k).
 
 Subsec. (<i>l</i>). Pub. L. 110–53, §1841(g)(2), added subsec. (<i>l</i>).
 
-<b>2004</b>—Subsec. (h)(2)(A). Pub. L. 108–458, §1071(a)(1)(A), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+2004—Subsec. (h)(2)(A). Pub. L. 108–458, §1071(a)(1)(A), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 Subsec. (h)(5). Pub. L. 108–458, §1071(a)(1)(B), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
@@ -176,27 +176,27 @@ Subsec. (j). Pub. L. 108–458, §1072(a)(1), substituted “Principal Deputy Di
 
 Pub. L. 108–458, §1071(a)(1)(D), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-<b>1998</b>—Subsecs. (f), (g). Pub. L. 105–277 added subsec. (f) and redesignated former subsec. (f) as (g).
+1998—Subsecs. (f), (g). Pub. L. 105–277 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 Subsec. (i). Pub. L. 105–292 added subsec. (i) relating to Special Adviser to the President on International Religious Freedom.
 
-<b>1996</b>—Subsec. (h). Pub. L. 104–293, §802(2), added subsec. (h). Former subsec. (h) redesignated (j).
+1996—Subsec. (h). Pub. L. 104–293, §802(2), added subsec. (h). Former subsec. (h) redesignated (j).
 
 Subsec. (i). Pub. L. 104–293, §804, added subsec. (i).
 
 Subsec. (j). Pub. L. 104–293, §802(1), redesignated subsec. (h) as (j).
 
-<b>1992</b>—Subsec. (h). Pub. L. 102–496 added subsec. (h).
+1992—Subsec. (h). Pub. L. 102–496 added subsec. (h).
 
-<b>1988</b>—Subsecs. (f), (g). Pub. L. 100–690, §§1003(a)(3), 1009, temporarily added subsec. (f), relating to participation by Director of National Drug Control Policy in meetings of National Security Council, and redesignated former subsec. (f) as (g). See Effective and Termination Dates of 1988 Amendment note below.
+1988—Subsecs. (f), (g). Pub. L. 100–690, §§1003(a)(3), 1009, temporarily added subsec. (f), relating to participation by Director of National Drug Control Policy in meetings of National Security Council, and redesignated former subsec. (f) as (g). See Effective and Termination Dates of 1988 Amendment note below.
 
-<b>1986</b>—Subsec. (e). Pub. L. 99–433 added subsec. (e).
+1986—Subsec. (e). Pub. L. 99–433 added subsec. (e).
 
 Subsec. (f). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended section identically adding subsec. (f).
 
-<b>1951</b>—Subsec. (a). Act Oct. 10, 1951, inserted cl. (5) relating to Director for Mutual Security, in fourth paragraph, and renumbered former cls. (5) and (6) thereof as cls. (6) and (7), respectively.
+1951—Subsec. (a). Act Oct. 10, 1951, inserted cl. (5) relating to Director for Mutual Security, in fourth paragraph, and renumbered former cls. (5) and (6) thereof as cls. (6) and (7), respectively.
 
-<b>1949</b>—Subsec. (a). Act Aug. 10, 1949, added the Vice President to the Council, removed the Secretaries of the military departments, to authorize the President to add, with the consent of the Senate, Secretaries and Under Secretaries of other executive departments and of the military department, and the Chairmen of the Munitions Board and the Research and Development Board.
+1949—Subsec. (a). Act Aug. 10, 1949, added the Vice President to the Council, removed the Secretaries of the military departments, to authorize the President to add, with the consent of the Senate, Secretaries and Under Secretaries of other executive departments and of the military department, and the Chairmen of the Munitions Board and the Research and Development Board.
 
 Subsec. (c). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923, as amended”.
 
@@ -226,7 +226,7 @@ National Security Resources Board, together with Office of Chairman, abolished b
 
 Munitions Board, together with office of Chairman, abolished by section 2 of Reorg. Plan No. 6 of 1953, eff. June 30, 1953, 18 F.R. 3743, 67 Stat. 638, set out in the Appendix to Title 5, Government Organization and Employees. All functions vested in Munitions Board transferred to Secretary of Defense by section 1(a) of Reorg. Plan No. 6 of 1953.
 
-Research and Development Board, together with office of Chairman, abolished by section 2 of Reorg. Plan No. 6 of 1953, eff. June 30, 1953, 18 F.R. 3743, 67 Stat. 638, set out in the Appendix to Title 5, Government Organization and Employees. Functions vested in Board transferred to Secretary of Defense by section 1(a) of Reorg. Plan No. 6 of 1953.
+Research and Development Board, together with office of Chairman, abolished by section 2 of Reorg. PlanNo. 6 of 1953, eff. June 30, 1953, 18 F.R. 3743, 67 Stat. 638, set out in the Appendix to Title 5, Government Organization and Employees. Functions vested in Board transferred to Secretary of Defense by section 1(a) of Reorg. Plan No. 6 of 1953.
 
 National Security Council, together with its functions, records, property, personnel, and unexpended balances of appropriations, allocations, and other funds (available or to be made available) transferred to Executive Office of President by Reorg. Plan No. 4 of 1949, eff. Aug. 20, 1949, 14 F.R. 5227, 63 Stat. 1067, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -334,7 +334,7 @@ Sec. 9. (a) Notwithstanding section 322 of the Act of June 30, 1932 (\[former\] 
 
 &emsp;“(3) special retirement accrual in the same manner provided in section 303 of the Central Intelligence Agency Retirement Act (50 U.S.C. 403 note) \[50 U.S.C. 2001 et seq.\] and in section 18 of the Central Intelligence Agency Act of 1949 \[50 U.S.C. 403r\].
 
-“(c) The authority of the Director of the National Security Agency, on behalf of the Secretary of Defense, tomake payments under subsections (a) and (b), and under contracts for leases entered into under subsection (a), is effective for any fiscal year only to the extent that appropriated funds are available for such purpose.
+“(c) The authority of the Director of the National Security Agency, on behalf of the Secretary of Defense, to make payments under subsections (a) and (b), and under contracts for leases entered into under subsection (a), is effective for any fiscal year only to the extent that appropriated funds are available for such purpose.
 
 “(d) Members of the Armed Forces may not receive benefits under both subsection (b)(1) and title 37, United States Code, for the same purpose. The Secretary of Defense shall prescribe such regulations as may be necessary to carry out this subsection.
 
@@ -378,7 +378,7 @@ Sec. 10. (a) The Director of the National Security Agency shall arrange for, and
 
 &emsp;“(A) may pay all or part of the tuition and other expenses related to the training of individuals in the cryptologic linguist reserve who are assigned or detailed for language and language-related training, orientation, or instruction; and
 
-&emsp;“(B) may pay benefits and allowances in accordance with chapters 57 and 59 of title 5, United States Code, to individuals in the cryptologic linguist reserve who are assigned to training at sites away from their homes or regular places of business.
+&emsp;“(B) may pay benefits and allowances in accordance with chapters 57 and 59 of title 5, United States Code,to individuals in the cryptologic linguist reserve who are assigned to training at sites away from their homes or regular places of business.
 
 “(d)(1) The Director, before providing training under this section to any individual, may obtain an agreement with that individual that—
 
@@ -396,7 +396,7 @@ Sec. 10. (a) The Director of the National Security Agency shall arrange for, and
 
 “(g) The authority of the Director to enter into contracts or to make grants under this section is effective for any fiscal year only to the extent that appropriated funds are available for such purpose.
 
-“(h) Regulations issued pursuant to this section shall be submitted to the Permanent Select Committee onIntelligence of the House of Representatives and the Select Committee on Intelligence of the Senate before such regulations take effect.
+“(h) Regulations issued pursuant to this section shall be submitted to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate before such regulations take effect.
 
 “(i) The Director of the National Security Agency, on behalf of the Secretary of Defense, may, without regard to section 4109(a)(2)(B) of title 5, United States Code, pay travel, transportation, storage, and subsistence expenses under chapter 57 of such title to civilian and military personnel of the Department of Defense who are assigned to duty outside the United States for a period of one year or longer which involves cryptologic training, language training, or related disciplines. \[Added Pub. L. 96–450, title IV, §402(a)(1), Oct. 14, 1980, 94 Stat. 1978, and amended Pub. L. 97–89, title VI, §602, Dec. 4, 1981, 95 Stat. 1154.\]
 
@@ -500,7 +500,7 @@ Sec. 16. (a) The purpose of this section is to establish an undergraduate traini
 
 &emsp;“(C) to reimburse the United States for the total cost of education (excluding the employee's pay and allowances) provided under this section to the employee if, prior to the employee's completing the educational course of training for which the employee is assigned, the assignment or the employee's employment with the Agency is terminated either by the Agency due to misconduct by the employee or by the employee voluntarily; and
 
-&emsp;“(D) to reimburse the United States if, after completing the educational course of training for which the employee is assigned, the employee's employment with the Agency is terminated either by the Agency due to misconduct by the employee or by the employee voluntarily, prior to the employee's completion of the service obligation period described in subparagraph (B), in an amount that bears the same ratio to the total cost of the education (excluding the employee's pay and allowances) provided to the employee as the unserved portion of the service obligation period described in subparagraph (B) bears to the total period of the service obligation described in subparagraph (B).
+&emsp;“(D) to reimburse the United States if, after completing the educational course of training for which the employee is assigned, the employee's employment with the Agency is terminated either by the Agencydue to misconduct by the employee or by the employee voluntarily, prior to the employee's completion of the service obligation period described in subparagraph (B), in an amount that bears the same ratio to the total cost of the education (excluding the employee's pay and allowances) provided to the employee as the unserved portion of the service obligation period described in subparagraph (B) bears to the total period of the service obligation described in subparagraph (B).
 
 “(2) Subject to paragraph (3), the obligation to reimburse the United States under an agreement described in paragraph (1), including interest due on such obligation, is for all purposes a debt owing the United States.
 
@@ -512,7 +512,7 @@ Sec. 16. (a) The purpose of this section is to establish an undergraduate traini
 
 “(e)(1) When an employee is assigned under this section to an institution, the Agency shall disclose to the institution to which the employee is assigned that the Agency employs the employee and that the Agency funds the employee's education.
 
-“(2) Agency efforts to recruit individuals at educational institutions for participation in the undergraduate training program established by this section shall be made openly and according to the commonpractices of universities and employers recruiting at such institutions.
+“(2) Agency efforts to recruit individuals at educational institutions for participation in the undergraduate training program established by this section shall be made openly and according to the common practices of universities and employers recruiting at such institutions.
 
 “(f) Chapter 41 of title 5 and subsections (a) and (b) of section 3324 of title 31, United States Code, shall not apply with respect to this section.
 
@@ -566,7 +566,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Establishment</i>. I hereby establish within the Executive Office of the President an Office of Homeland Security (the “Office”) to be headed by the Assistant to the President for Homeland Security.
 
-Sec. 2. <i>Mission</i>. The mission of the Office shall be to develop and coordinate the implementation of a comprehensive national strategy to secure the United States from terrorist threats or attacks. The Office shall perform the functions necessary to carry out this mission, including the functions specified in section 3 of this order.
+Sec. 2. <i>Mission</i>. The mission of the Office shall be to develop and coordinate the implementation of a comprehensive national strategy to secure the United States from terrorist threats or attacks. The Officeshall perform the functions necessary to carry out this mission, including the functions specified in section 3 of this order.
 
 Sec. 3. <i>Functions</i>. The functions of the Office shall be to coordinate the executive branch's efforts to detect, prepare for, prevent, protect against, respond to, and recover from terrorist attacks within the United States.
 
@@ -582,7 +582,7 @@ Sec. 3. <i>Functions</i>. The functions of the Office shall be to coordinate the
 
 &emsp;&emsp;(C) coordinate efforts to ensure that all executive departments and agencies that have intelligence collection responsibilities have sufficient technological capabilities and resources to collect intelligence and data relating to terrorist activities or possible terrorist acts within the United States, working with the Assistant to the President for National Security Affairs, as appropriate;
 
-&emsp;&emsp;(D) coordinate development of monitoring protocols and equipment for use in detecting the releaseof biological, chemical, and radiological hazards; and
+&emsp;&emsp;(D) coordinate development of monitoring protocols and equipment for use in detecting the release of biological, chemical, and radiological hazards; and
 
 &emsp;&emsp;(E) ensure that, to the extent permitted by law, all appropriate and necessary intelligence and law enforcement information relating to homeland security is disseminated to and exchanged among appropriate executive departments and agencies responsible for homeland security and, where appropriate for reasons of homeland security, promote exchange of such information with and among State and local governments and private entities.
 
@@ -640,7 +640,7 @@ Sec. 3. <i>Functions</i>. The functions of the Office shall be to coordinate the
 
 (g) <i>Incident Management</i>. Consistent with applicable law, including the statutory functions of the Secretary of Homeland Security, the Assistant to the President for Homeland Security shall be the official primarily responsible for advising and assisting the President in the coordination of domestic incident management activities of all departments and agencies in the event of a terrorist threat, and during and in the aftermath of terrorist attacks, major disasters, or other emergencies, within the United States. Generally, the Assistant to the President for Homeland Security shall serve as the principal point of contact for and to the President with respect to the coordination of such activities. The Assistant to the President for Homeland Security shall coordinate with the Assistant to the President for National Security Affairs, as appropriate.
 
-(h) <i>Continuity of Government</i>. The Assistant to the President for Homeland Security, in coordination with the Assistant to the President for National Security Affairs, shall review plans and preparations for ensuring the continuity of the Federal Government in the event of a terrorist attack that threatens the safetyand security of the United States Government or its leadership.
+(h) <i>Continuity of Government</i>. The Assistant to the President for Homeland Security, in coordination with the Assistant to the President for National Security Affairs, shall review plans and preparations for ensuring the continuity of the Federal Government in the event of a terrorist attack that threatens the safety and security of the United States Government or its leadership.
 
 (i) <i>Public Affairs</i>. The Office, subject to the direction of the White House Office of Communications, shall coordinate the strategy of the executive branch for communicating with the public in the event of a terrorist threat or attack within the United States. The Office also shall coordinate the development of programs for educating the public about the nature of terrorist threats and appropriate precautions and responses.
 

@@ -174,17 +174,115 @@ For purposes of this section:
 
 #### (2) Availability
 
-&emsp;Any amount paid to a grant recipient for a fiscal year that remains unobligated at the end of the year shall remain available to the recipient for the purposes for which the payment was made for the next fiscal year. TheSecretary shall take such action as may be necessary to recover any amount not obligated by the recipient at the end of the second fiscal year, and shall redistribute the amount to another eligible organization.
+&emsp;Any amount paid to a grant recipient for a fiscal year that remains unobligated at the end of the year shall remain available to the recipient for the purposes for which the payment was made for the next fiscal year. The Secretary shall take such action as may be necessary to recover any amount not obligated by the recipient at the end of the second fiscal year, and shall redistribute the amount to another eligible organization.
 
-(Pub. L. 100–77, title IV, §491, as added Pub. L. 102–550, title XIV, §1408, Oct. 28, 1992, 106 Stat. 4035; amended Pub. L. 104–330, title V, §506(a)(10), Oct. 26, 1996, 110 Stat. 4045.)
+(Pub. L. 100–77, title IV, §491, as added Pub. L. 102–550, title XIV, §1408, Oct. 28, 1992, 106 Stat. 4035; amended Pub. L. 104–330, title V, §506(a)(10), Oct. 26, 1996, 110 Stat. 4045; Pub. L. 111–22, div. B, title IV, §1401(2), May 20, 2009, 123 Stat. 1696.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–22, div. B, title IV, §1401(2), title V, §1503, May 20, 2009, 123 Stat. 1696, 1702, provided that, effective on, and applicable beginning on, the earlier of the expiration of the 18-</i><i>month period beginning on May 20, 2009, or the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 of Pub. L. 111–22, this section is amended as follows:</i>
+
+<i>(1) by striking the section catchline and inserting “Rural housing stability grant program”;</i>
+
+<i>(2) in subsection (a), by substituting “rural housing stability grant program” for “rural homelessness grant program”, inserting “in lieu of grants under part C” after “eligible organizations”, striking paragraphs (1) to (3), and adding the following new paragraphs:</i>
+
+&emsp;<i>“(1) rehousing or improving the housing situations of individuals and families who are homeless or in the worst housing situations in the geographic area;</i>
+
+&emsp;<i>“(2) stabilizing the housing of individuals and families who are in imminent danger of losing housing; and</i>
+
+&emsp;<i>“(3) improving the ability of the lowest-income residents of the community to afford stable housing.”;</i>
+
+<i>(3) in subsection (b)(1), by striking subparagraph (D), redesignating subparagraphs (E) to (G) as (I) to (K), respectively, and adding the following new subparagraphs:</i>
+
+&emsp;&emsp;<i>“(D) construction of new housing units to provide transitional or permanent housing to homeless individuals and families and individuals and families at risk of homelessness;</i>
+
+&emsp;&emsp;<i>“(E) acquisition or rehabilitation of a structure to provide supportive services or to provide transitional or permanent housing, other than emergency shelter, to homeless individuals and families and individuals and families at risk of homelessness;</i>
+
+&emsp;&emsp;<i>“(F) leasing of property, or portions of property, not owned by the recipient or project sponsor involved, for use in providing transitional or permanent housing to homeless individuals and families and individuals and families at risk of homelessness, or providing supportive services to such homeless and at-risk individuals and families;</i>
+
+&emsp;&emsp;<i>“(G) provision of rental assistance to provide transitional or permanent housing to homeless individuals and families and individuals and families at risk of homelessness, such rental assistance may include tenant-based or project-based rental assistance;</i>
+
+&emsp;&emsp;<i>“(H) payment of operating costs for housing units assisted under this subchapter;”;</i>
+
+<i>(4) in subsections (b)(2) and (c)(1)(A), (3), by substituting “transferred” for “appropriated”;</i>
+
+<i>(5) in subsection (d), by substituting a semicolon for “; and” in paragraph (5), by substituting “a description of how individuals and families who are homeless or who have the lowest incomes in the community will be involved by the organization” for “an agreement” and all that follows through “families” and a semicolon for the period at the end in paragraph (6), and by adding the following new paragraphs:</i>
+
+&emsp;<i>“(7) a description of consultations that took place within the community to ascertain the most important uses for funding under this section, including the involvement of potential beneficiaries of the project; and</i>
+
+&emsp;<i>“(8) a description of the extent and nature of homelessness and of the worst housing situations in the community.”;</i>
+
+<i>(6) by striking subsections (f) and (g) and adding the following new subsections:</i>
+
+#### <i>“(f) Matching funding</i>
+
+#### <i>“(1) In general</i>
+
+&emsp;<i>“An organization eligible to receive a grant under subsection (a) shall specify matching contributions from any source other than a grant awarded under this part, that shall be made available in the geographic area in an amount equal to not less than 25 percent of the funds provided for the project or activity, except that grants for leasing shall not be subject to any match requirement.</i>
+
+#### <i>“(2) Limitations on in-kind match</i>
+
+&emsp;<i>“The cash value of services provided to the beneficiaries or clients of an eligible organization by an entity other than the organization may count toward the contributions in paragraph (1) only when documented by a memorandum of understanding between the organization and the other entity that such services will be provided.</i>
+
+#### <i>“(3) Countable activities</i>
+
+&emsp;<i>“The contributions required under paragraph (1) may consist of—</i>
+
+&emsp;&emsp;<i>“(A) funding for any eligible activity described under subsection (b); and</i>
+
+&emsp;&emsp;<i>“(B) subject to paragraph (2), in-kind provision of services of any eligible activity described under subsection (b).</i>
+
+#### <i>“(g) Selection criteria</i>
+
+<i>“The Secretary shall establish criteria for selecting recipients of grants under subsection (a), including—</i>
+
+&emsp;<i>“(1) the participation of potential beneficiaries of the project in assessing the need for, and importance of, the project in the community;</i>
+
+&emsp;<i>“(2) the degree to which the project addresses the most harmful housing situations present in the community;</i>
+
+&emsp;<i>“(3) the degree of collaboration with others in the community to meet the goals described in subsection (a);</i>
+
+&emsp;<i>“(4) the performance of the organization in improving housing situations, taking account of the severity of barriers of individuals and families served by the organization;</i>
+
+&emsp;<i>“(5) for organizations that have previously received funding under this section, the extent of improvement in homelessness and the worst housing situations in the community since such funding began;</i>
+
+&emsp;<i>“(6) the need for such funds, as determined by the formula established under section 11386a(b)(2) of this title; and</i>
+
+&emsp;<i>“(7) any other relevant criteria as determined by the Secretary.”;</i>
+
+<i>(7) in subsection (h)(1), by substituting “Not later than 18 months after funding is first made available pursuant to the amendments made by title IV of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, the” for “The” in introductory provisions,</i><i>“meeting the goals described in subsection (a)” for “providing housing and other assistance to homeless persons” in subparagraph (A), and “meet the goals described in subsection (a) in rural areas” for “address homelessness in rural areas” in subparagraph (B);</i>
+
+<i>(8) in subsection (h)(2), by substituting “Not later than 24 months after funding is first made available pursuant to the amendment made by title IV of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, the” for “The”, by striking “, not later than 18 months after the date on which the Secretary first makes grants under the program,”, and by substituting “meet the goals described in subsection (a)” for “prevent and respond to homelessness”;</i>
+
+<i>(9) in subsection (k)(1), by substituting “rural housing stability grant program” for “rural homelessness grant program”;</i>
+
+<i>(10) in subsection (k)(2), by substituting a semicolon for “; or” in subparagraph (A), by substituting “county where at least 75 percent of the population is rural; or” for “rural census tract.” in subparagraph (B)(ii), and by adding the following new subparagraph:</i>
+
+&emsp;&emsp;<i>“(C) any area or community, respectively, located in a State that has population density of less than 30 persons per square mile (as reported in the most recent decennial census), and of which at least 1.25 percent of the total acreage of such State is under Federal jurisdiction, provided that no metropolitan city (as such term is defined in section 5302 of this title) in such State is the sole beneficiary of the grant amounts awarded under this section.”;</i>
+
+<i>(11) in subsection (l), by striking the heading and inserting “Program funding”, striking paragraph (1), and adding the following new paragraph:</i>
+
+#### <i>“(1) In general</i>
+
+&emsp;<i>“The Secretary shall determine the total amount of funding attributable under section 11386a(b)(2) of this title to meet the needs of any geographic area in the Nation that applies for funding under this section. The Secretary shall transfer any amounts determined under this subsection from the Community Homeless Assistance Program and consolidate such transferred amounts for grants under this section, except that the Secretary shall transfer an amount not less than 5 percent of the amount available under part C for grants under this section. Any amounts so transferred and not used for grants under this section due to an insufficient number of applications shall be transferred to be used for grants under part C.”; and</i>
+
+<i>(12) by adding the following new subsection:</i>
+
+#### <i>“(m) Determination of funding source</i>
+
+<i>“For any fiscal year, in addition to funds awarded under part B, funds under this subchapter to be used in a city or county shall only be awarded under either part C or part D.”</i>
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(2), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+This chapter, referred to in subsec. (c)(2), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 #### Amendments
 
 1996—Subsec. (e). Pub. L. 104–330 struck out “, Indian tribes (as such term is defined in section 5302(a) of this title),” after “nonprofit entities”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–22 effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as a note under section 11302 of this title.
 
 #### Effective Date of 1996 Amendment
 

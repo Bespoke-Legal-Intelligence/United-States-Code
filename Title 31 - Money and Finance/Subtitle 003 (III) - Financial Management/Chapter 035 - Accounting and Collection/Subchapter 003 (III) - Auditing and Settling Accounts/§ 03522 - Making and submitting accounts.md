@@ -6,7 +6,7 @@
 
 (b)(1) A monthly account shall be submitted to the appropriate official in the District of Columbia by the 10th day after the end of the month covered by the account. The official shall submit the account to the Comptroller General by the 20th day after receiving the account.
 
-(2) An account (except a monthly account) shall be submitted to the appropriate official in the District of Columbia by the 20th day after the end of the period covered by the account. The official shall submit the account to the Comptroller General by the 60th day after receiving the account.
+(2) An account (except a monthly account) shall be submitted to the appropriate official in the District of Columbia by the 20th day afterthe end of the period covered by the account. The official shall submit the account to the Comptroller General by the 60th day after receiving the account.
 
 (3) Notwithstanding paragraphs (1) and (2) of this subsection, an account of the armed forces shall be submitted to the Comptroller General by the 60th day after the account is received. However, during a war or national emergency and for 18 months after the war or emergency ends, an account shall be submitted to the Comptroller General by the 90th day after the account is received.
 

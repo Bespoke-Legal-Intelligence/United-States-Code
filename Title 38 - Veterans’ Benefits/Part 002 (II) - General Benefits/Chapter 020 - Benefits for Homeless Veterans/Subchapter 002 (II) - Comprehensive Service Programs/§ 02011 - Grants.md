@@ -68,7 +68,7 @@ Application Requirement.—An entity seeking a grant for a project under this se
 
 (f)
 
-Program Requirements.—The Secretary may not make a grant for a project to an applicant under this section unless the applicant inthe application for the grant agrees to each of the following requirements:
+Program Requirements.—The Secretary may not make a grant for a project to an applicant under this section unless the applicant in the application for the grant agrees to each of the following requirements:
 
 &emsp;(1) To provide the services for which the grant is made at locations accessible to homeless veterans.
 

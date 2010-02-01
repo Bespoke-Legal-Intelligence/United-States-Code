@@ -24,7 +24,7 @@ Conditions.—(1) The Secretary of Defense shall ensure that—
 
 &emsp;(A) to the maximum extent practicable, no cooperative agreement containing a clause under subsection (d) and no transaction entered into under subsection (a) provides for research that duplicates research being conducted under existing programs carried out by the Department of Defense; and
 
-&emsp;(B) to the extent that the Secretary determines practicable, the funds provided by theGovernment under a cooperative agreement containing a clause under subsection (d) or a transaction authorized by subsection (a) do not exceed the total amount provided by other parties to the cooperative agreement or other transaction.
+&emsp;(B) to the extent that the Secretary determines practicable, the funds provided by the Government under a cooperative agreementcontaining a clause under subsection (d) or a transaction authorized by subsection (a) do not exceed the total amount provided by other parties to the cooperative agreement or other transaction.
 
 (2) A cooperative agreement containing a clause under subsection (d) or a transaction authorized by subsection (a) may be used for a research project when the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.
 
@@ -92,7 +92,7 @@ Subsec. (e). Pub. L. 104–201, §267(a), inserted “(1)” before “The Secre
 
 Subsec. (f). Pub. L. 104–201, §1073(e)(1)(B), inserted “Defense” before “Advanced Research Projects Agency”.
 
-Subsec. (h). Pub. L. 104–201, §267(b), reenacted heading without change and amended text generally. Prior toamendment, text read as follows: “Not later than 60 days after the end of each fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on all cooperative agreements entered into under section 2358 of this title during such fiscal year that contain a clause authorized by subsection (d) and on all transactions entered into under subsection (a) during such fiscal year. The report shall contain, with respect to each such cooperative agreement and transaction, the following:
+Subsec. (h). Pub. L. 104–201, §267(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not later than 60days after the end of each fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on all cooperative agreements entered into under section 2358 of this title during such fiscal year that contain a clause authorized by subsection (d) and on all transactions entered into under subsection (a) during such fiscal year. The report shall contain, with respect to each such cooperative agreement and transaction, the following:
 
 &emsp;“(1) A general description of the cooperative agreement or other transaction (as the case may be), including the technologies for which research is provided for under such agreement or transaction.
 
@@ -164,7 +164,7 @@ Pub. L. 103–160, div. A, title VIII, §845, Nov. 30, 1993, 107 Stat. 1721, as 
 
 “(a)
 
-Authority.—(1) Subject to paragraph (2), the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of section 2371 of title 10,United States Code, carry out prototype projects that are directly relevant to weapons or weapon systems proposed to be acquired or developed by the Department of Defense, or to improvement of weapons or weapon systems in use by the Armed Forces.
+Authority.—(1) Subject to paragraph (2), the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of section 2371 of title 10, United States Code, carry out prototype projects thatare directly relevant to weapons or weapon systems proposed to be acquired or developed by the Department of Defense, or to improvement of weapons or weapon systems in use by the Armed Forces.
 
 “(2) The authority of this section—
 
@@ -232,7 +232,7 @@ Pilot Program for Transition to Follow-on Contracts.—(1) The Secretary of Defe
 
 “(2) Under the pilot program—
 
-&emsp;“(A) a qualifying contract for the procurement of such an item or process, or a qualifying subcontract under a contract for the procurement of such an itemor process, may be treated as a contract or subcontract, respectively, for the procurement of commercial items, as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)); and
+&emsp;“(A) a qualifying contract for the procurement of such an item or process, or a qualifying subcontract under a contract for the procurement of such an item or process, may be treated as a contract or subcontract, respectively, for the procurement of commercial items, as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)); and
 
 &emsp;“(B) the item or process may be treated as an item or process, respectively, that is developed in part with Federal funds and in part at private expense for the purposes of section 2320 of title 10, United States Code.
 

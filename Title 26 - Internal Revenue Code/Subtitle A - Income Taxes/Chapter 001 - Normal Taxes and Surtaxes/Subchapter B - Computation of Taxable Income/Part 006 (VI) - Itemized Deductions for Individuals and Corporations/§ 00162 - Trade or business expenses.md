@@ -20,7 +20,7 @@ No deduction shall be allowed under subsection (a) for any contribution or gift 
 
 #### (1) Illegal payments to government officials or employees
 
-&emsp;No deduction shall be allowed under subsection (a) for any payment made, directly or indirectly, to an official or employee of any government, or of any agency or instrumentality of any government, if the payment constitutes an illegal bribe or kickback or, if the payment is to an official or employee of a foreign government, the payment is unlawful under the Foreign Corrupt Practices Act of 1977. The burden of proof in respect of the issue, for the purposes of this paragraph, as to whether a payment constitutes an illegal bribe or kickback (or is unlawful under the Foreign Corrupt Practices Act of 1977) shall be upon the Secretary to the same extent as he bears the burden of proof under section 7454 (concerning the burden of proof when the issue relates to fraud).
+&emsp;No deduction shall be allowed under subsection (a) for any payment made, directly orindirectly, to an official or employee of any government, or of any agency or instrumentality of any government, if the payment constitutes an illegal bribe or kickback or, if the payment is to an official or employee of a foreign government, the payment is unlawful under the Foreign Corrupt Practices Act of 1977. The burden of proof in respect of the issue, for the purposes of this paragraph, as to whether a payment constitutes an illegal bribe or kickback (or is unlawful under the Foreign Corrupt Practices Act of 1977) shall be upon the Secretary to the same extent as he bears the burden of proof under section 7454 (concerning the burden of proof when the issue relates to fraud).
 
 #### (2) Other illegal payments
 
@@ -72,7 +72,7 @@ For purposes of this subtitle, whenever the amount of capital contributions evid
 
 #### (A) In general
 
-&emsp;&emsp;The term “influencing legislation” means any attempt to influence any legislationthrough communication with any member or employee of a legislative body, or with any government official or employee who may participate in the formulation of legislation.
+&emsp;&emsp;The term “influencing legislation” means any attempt to influence any legislation through communication with any member or employee of a legislative body, or withany government official or employee who may participate in the formulation of legislation.
 
 #### (B) Legislation
 
@@ -148,7 +148,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;&emsp;&emsp;(i) the amount generally allowable with respect to such day to employees of the State of which he is a legislator for per diem while away from home, to the extent such amount does not exceed 110 percent of the amount described in clause (ii) with respect to such day, or
 
-&emsp;&emsp;&emsp;(ii) the amount generally allowable with respect to such day to employees of the executive branch of the Federal Governmentfor per diem while away from home but serving in the United States, and
+&emsp;&emsp;&emsp;(ii) the amount generally allowable with respect to such day to employees of the executive branch of the Federal Government for per diem while away from home but serving in the United States, and
 
 &emsp;&emsp;(C) he shall be deemed to be away from home in the pursuit of a trade or business on each legislative day.
 
@@ -384,11 +384,11 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 #### (iii) Employee remains covered executive
 
-&emsp;&emsp;&emsp;If an employee is a covered executive with respect to an applicable employer for any applicable taxable year, such employee shall be treated as a covered executive with respect to such employer for all subsequent applicable taxable years andfor all subsequent taxable years in which deferred deduction executive remuneration with respect to services performed in all such applicable taxable years would (but for this paragraph) be deductible.
+&emsp;&emsp;&emsp;If an employee is a covered executive with respect to an applicable employer for any applicable taxable year, such employee shall be treated as a covered executive with respect to such employer for all subsequent applicable taxable years and for all subsequent taxable years in which deferred deduction executive remuneration with respect to services performed in all such applicable taxable years would (but for this paragraph) be deductible.
 
 #### (E) Executive remuneration
 
-&emsp;&emsp;For purposes of this paragraph, the term “executive remuneration” means the applicable employee remuneration of the covered executive, as determined under paragraph (4) without regard to subparagraphs (B), (C), and (D) thereof. Such term shall not include any deferred deduction executive remuneration with respect to services performed in a prior applicable taxable year.
+&emsp;&emsp;For purposes of this paragraph, the term “executive remuneration” means the applicable employee remuneration of the coveredexecutive, as determined under paragraph (4) without regard to subparagraphs (B), (C), and (D) thereof. Such term shall not include any deferred deduction executive remuneration with respect to services performed in a prior applicable taxable year.
 
 #### (F) Deferred deduction executive remuneration
 
@@ -498,7 +498,7 @@ Subsec. (<i>l</i>)(1)(B). Pub. L. 105–277 amended table in subpar. (B) general
 | &nbsp;&nbsp;&nbsp;2006 | 90&nbsp; |
 | &nbsp;&nbsp;&nbsp;2007 and thereafter | 100\.” |
 
-1997—Subsec. (a). Pub. L. 105–34, §1204(a), inserted at end of concluding provisions “The preceding sentenceshall not apply to any Federal employee during any period for which such employee is certified by the Attorney General (or the designee thereof) as traveling on behalf of the United States in temporary duty status to investigate, or provide support services for the investigation of, a Federal crime.”
+1997—Subsec. (a). Pub. L. 105–34, §1204(a), inserted at end of concluding provisions “The preceding sentence shall not apply to any Federal employee during any period for which such employee is certified by the Attorney General (or the designee thereof) as traveling on behalf of the United States in temporary duty status to investigate, or provide support services for the investigation of, a Federal crime.”
 
 Subsec. (<i>l</i>)(1)(B). Pub. L. 105–34, §934(a), amended table generally. Prior to amendment, table read as follows:
 
@@ -507,7 +507,7 @@ Subsec. (<i>l</i>)(1)(B). Pub. L. 105–34, §934(a), amended table generally. P
 | <b>“For taxable years beginning in calendar year—</b> | <b>The applicable percentage is—</b> |
 | :--- | ---: |
 | &nbsp;&nbsp;&nbsp;1997 | 40 percent&nbsp; |
-| &nbsp;&nbsp;&nbsp;1998 through 2002 | 45 percent&nbsp; |
+| &nbsp;&nbsp;&nbsp;1998 through 2002 | 45 percent  |
 | &nbsp;&nbsp;&nbsp;2003 | 50 percent&nbsp; |
 | &nbsp;&nbsp;&nbsp;2004 | 60 percent&nbsp; |
 | &nbsp;&nbsp;&nbsp;2005 | 70 percent&nbsp; |
@@ -693,7 +693,7 @@ Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out in pars. (1) and (2)
 
 1971—Subsec. (c). Pub. L. 92–178, §310(a)(2), substituted “Illegal bribes, kickbacks, and other payments” for “Bribes and illegal kickbacks” in heading.
 
-Subsec. (c)(2). Pub. L. 92–178, §310(a)(1), substituted provisions respecting “Other illegal payments” for former provisions on “Other bribes or kickbacks” reading “If in a criminal proceeding a taxpayer is convicted of making a payment (other than a payment described in paragraph (1) which is an illegal bribe or kickback, or his plea of guilty or nolo contendere to an indictment or information charging the making of such a payment is entered or accepted in such a proceeding, no deduction shall be allowed under subsection (a) on account of such payment or any related payment made prior to the date of the final judgment in such proceeding.”
+Subsec. (c)(2). Pub. L. 92–178, §310(a)(1), substituted provisions respecting “Other illegal payments” for former provisions on “Other bribes or kickbacks” reading “If in a criminal proceeding a taxpayer is convicted of making a payment (other than a payment describedin paragraph (1) which is an illegal bribe or kickback, or his plea of guilty or nolo contendere to an indictment or information charging the making of such a payment is entered or accepted in such a proceeding, no deduction shall be allowed under subsection (a) on account of such payment or any related payment made prior to the date of the final judgment in such proceeding.”
 
 Subsec. (c)(3). Pub. L. 92–178, §310(a)(1), substituted provisions respecting kickbacks, rebates, and bribes under medicare and medicaid for former statute of limitations provisions.
 
@@ -859,11 +859,11 @@ Treatment of certain bankruptcy proceedings.—Notwithstanding paragraph (1), se
 
 “(3)
 
-Treatment of current retirees.—Section 162(k)(3)(F) of the Internal Revenue Code of 1986 andsection 603(6) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1163(6)\] apply to covered employees who retired before, on, or after the date of the enactment of this Act \[Oct. 21, 1986\].
+Treatment of current retirees.—Section 162(k)(3)(F) of the Internal Revenue Code of 1986 and section 603(6) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1163(6)\] apply to covered employees who retired before, on, or after the date of the enactment of this Act \[Oct. 21, 1986\].
 
 “(4)
 
-Notice.—In the case of a qualifying event described in section 603(6) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1163(6)\] that occurred before the date of the enactment of this Act \[Oct. 21, 1986\], the notice required under section 606(2) of such Act \[29 U.S.C. 1166(2)\] (and under section 162(k)(6)(B) of the Internal Revenue Code of 1986) with respect to such event shall be provided no later than 30 days after the date of the enactment of this Act \[Oct. 21, 1986\].”
+Notice.—In the case of a qualifying event described in section 603(6) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1163(6)\] that occurred before the date of the enactment of this Act \[Oct. 21, 1986\], the notice required under section 606(2)of such Act \[29 U.S.C. 1166(2)\] (and under section 162(k)(6)(B) of the Internal Revenue Code of 1986) with respect to such event shall be provided no later than 30 days after the date of the enactment of this Act \[Oct. 21, 1986\].”
 
 Amendment by Pub. L. 99–272 applicable to plan years beginning on or after July 1, 1986, with special rule for collective bargaining agreements, see section 10001(e) of Pub. L. 99–272, set out as a note under section 106 of this title.
 
@@ -927,7 +927,7 @@ Pub. L. 104–208, div. A, title II, §2711, Sept. 30, 1996, 110 Stat. 3009–49
 
 #### Special Rule for Deductions Under Subsection (<i>l</i>) for Certain Taxable Years
 
-Section 110(a)(2) of Pub. L. 102–227 provided that, in the case of any taxable year beginning in 1992 only amounts paid before July 1, 1992, by the individual for insurance coverage for periods before July 1, 1992, would be taken into account in determining the amount deductible under subsec. (<i>l</i>) of this section with respect to such individual for such taxable year, and that for purposes of subparagraph (A) of subsec. (<i>l</i>)(2) of this section, the amount of the earned income described in such subparagraph taken into account for such taxable year would be the amount which bears the same ratio to the total amount of such earned income as the number of months in such taxable year ending before July 1, 1992, bears to the number of months in such taxable year, prior to repeal by Pub. L. 103–66, title XIII, §13174(a)(2), Aug. 10, 1993, 107 Stat. 457.
+Section 110(a)(2) of Pub. L. 102–227 provided that, in the case of any taxable year beginning in 1992 only amounts paid before July 1, 1992, by the individual for insurance coverage for periods before July 1, 1992, would be taken into account in determining the amount deductible under subsec. (<i>l</i>) of this section with respect to such individual for such taxable year, andthat for purposes of subparagraph (A) of subsec. (<i>l</i>)(2) of this section, the amount of the earned income described in such subparagraph taken into account for such taxable year would be the amount which bears the same ratio to the total amount of such earned income as the number of months in such taxable year ending before July 1, 1992, bears to the number of months in such taxable year, prior to repeal by Pub. L. 103–66, title XIII, §13174(a)(2), Aug. 10, 1993, 107 Stat. 457.
 
 Section 7107(a)(2) of Pub. L. 101–239 provided that, in the case of any taxable year beginning in 1990 only amounts paid before Oct. 1, 1990, by the individual for insurance coverage for periods before Oct. 1, 1990, would be taken into account in determining the amount deductible under subsec. (<i>l</i>) of this section with respect to such individual for such taxable year, and that for purposes of subsec. (<i>l</i>)(2)(A) of this section, the amount of the earned income described in such paragraph taken into account for such taxable year would be the amount which bears the same ratio to the total amount of such earned income as the number of months in such taxable year ending before Oct. 1, 1990, bears to the number of months in such taxable year, prior to repeal by Pub. L. 101–508, title XI, §11410(b), Nov. 5, 1990, 104 Stat. 1388–479.
 

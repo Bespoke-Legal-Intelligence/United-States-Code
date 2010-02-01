@@ -79,10 +79,13 @@
 | 5757\.<sup>1</sup> | Extended assignment incentive. |
 | [5759\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005759%20-%201%20Retention%20and%20relocation%20bonuses%20for%20the%20Federal%20Bureau%20of%20Investigation.md) | Retention and relocation bonuses for the Federal Bureau of Investigation. |
 | [5760\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005760%20-%20Travel%20and%20transportation%20allowances%20transportation%20of%20family%20members%20incident%20to%20the%20repatriation%20of%20employees%20held%20captive.md) | Travel and transportation allowances: transportation of family members incident to the repatriation of employees held captive. |
+| [5761\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005761%20-%20Foreign%20language%20proficiency%20pay%20awards%20for%20the%20Federal%20Bureau%20of%20Investigation.md) | Foreign language proficiency pay awards for the Federal Bureau of Investigation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–117, div. B, title II, §219(b), Dec. 16, 2009, 123 Stat. 3142, added item 5761.
 
 2008—Pub. L. 110–181, div. A, title XI, §1104(b), Jan. 28, 2008, 122 Stat. 347, added item 5737a.
 

@@ -26,7 +26,7 @@ Upon the issuance by the Secretary of a declaration under section 247d–6d(b) o
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall by regulation establish a table identifying covered injuries thatshall be presumed to be directly caused by the administration or use of a covered countermeasure and the time period in which the first symptom or manifestation of onset of each such adverse effect must manifest in order for such presumption to apply. The Secretary may only identify such covered injuries, for purpose of inclusion on the table, where the Secretary determines, based on compelling, reliable, valid, medical and scientific evidence that administration or use of the covered countermeasure directly caused such covered injury.
+&emsp;&emsp;The Secretary shall by regulation establish a table identifying covered injuries that shall be presumed to be directly caused by the administration or use of a covered countermeasure and the time period in which the first symptom or manifestation of onset of each such adverse effect must manifest in order for such presumption to apply. The Secretary may only identify such covered injuries, for purpose of inclusion on the table, where the Secretary determines, based on compelling, reliable, valid, medical and scientific evidence that administration or use of the covered countermeasure directly caused such covered injury.
 
 #### (B) Amendments
 
@@ -48,7 +48,7 @@ Upon the issuance by the Secretary of a declaration under section 247d–6d(b) o
 
 #### (c) Voluntary program
 
-The Secretary shall ensure that a State, local, or Department of Health and Human Services plan to administer or use a covered countermeasure is consistent with any declaration under 247d–6d of this title and any applicable guidelines of the Centers for Disease Control and Prevention and that potential participants are educated with respect to contraindications, the voluntary nature of the program, and the availability of potential benefits and compensation under this part.
+The Secretary shall ensure that a State, local, or Department of Health and Human Services plan to administer or use a covered countermeasure is consistent with any declaration under 247d–6d of this title and any applicableguidelines of the Centers for Disease Control and Prevention and that potential participants are educated with respect to contraindications, the voluntary nature of the program, and the availability of potential benefits and compensation under this part.
 
 #### (d) Exhaustion; exclusivity; election
 

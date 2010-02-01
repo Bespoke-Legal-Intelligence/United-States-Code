@@ -1352,7 +1352,7 @@ Prior to the approval of a drug no active ingredient (including any ester or sal
 
 &emsp;Notwithstanding section 125, or any other provision, of the Food and Drug Administration Modernization Act of 1997, or any other provision of law, and subject to the limitations in paragraphs (1), (2), and (3), the provisions of the Drug Price Competition and Patent Term Restoration Act of 1984 shall apply to any drug subject to paragraph (1) or any drug with respect to which an election is made under paragraph (2)(A).
 
-(June 25, 1938, ch. 675, §505, 52 Stat. 1052; Pub. L. 86–507, §1(18), June 11, 1960, 74 Stat. 201; Pub. L. 87–781, title I, §§102(b)–(d), 103(a), (b), 104(a)–(d)(2), Oct. 10, 1962, 76 Stat. 781–783, 784, 785; Pub. L. 92–387, §4(d), Aug. 16, 1972, 86 Stat. 562; Pub. L. 98–417, title I, §§101, 102(a)–(b)(5), 103, 104, Sept. 24, 1984, 98 Stat. 1585, 1592, 1593, 1597; Pub. L. 102–282, §5, May 13, 1992, 106 Stat. 161; Pub. L. 103–80, §3(n), Aug. 13, 1993, 107 Stat. 777; Pub. L. 105–115, title I, §§115, 117, 119, 120, 124(a), Nov. 21, 1997, 111 Stat. 2313, 2315, 2316, 2318, 2324; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(11)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584; Pub. L. 107–109, §15(c)(1), Jan. 4, 2002, 115 Stat. 1420; Pub. L. 108–155, §2(b)(1), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 108–173, title XI, §§1101(a), (b), 1102(a), 1103(a), Dec. 8, 2003, 117 Stat. 2448, 2452, 2457, 2460; Pub. L. 110–85, title VII, §701(b), title VIII, §801(b)(3)(A), (B), title IX, §§901(a), 903, 905(a), 914(a), 915, 916, 918, 920, 921, title XI, §1113, Sept. 27, 2007, 121 Stat. 903, 921, 922, 943, 944, 953, 957, 958, 960–962, 976; Pub. L. 110–316, title III, §301, Aug. 14, 2008, 122 Stat. 3524; Pub. L. 110–379, §4(a), Oct. 8, 2008, 122 Stat. 4076.)
+(June 25, 1938, ch. 675, §505, 52 Stat. 1052; Pub. L. 86–507, §1(18), June 11, 1960, 74 Stat. 201; Pub. L. 87–781, title I, §§102(b)–(d), 103(a), (b), 104(a)–(d)(2), Oct. 10, 1962, 76 Stat. 781–783, 784, 785; Pub. L. 92–387, §4(d), Aug. 16, 1972, 86 Stat. 562; Pub. L. 98–417, title I, §§101, 102(a)–(b)(5), 103, 104, Sept. 24, 1984, 98 Stat. 1585, 1592, 1593, 1597; Pub. L. 102–282, §5, May 13, 1992, 106 Stat. 161; Pub. L. 103–80, §3(n), Aug. 13, 1993, 107 Stat. 777; Pub. L. 105–115, title I, §§115, 117, 119, 120, 124(a), Nov. 21, 1997, 111 Stat. 2313, 2315, 2316, 2318, 2324; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(11)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584; Pub. L. 107–109, §15(c)(1), Jan. 4, 2002, 115 Stat. 1420; Pub. L. 108–155, §2(b)(1), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 108–173, title XI, §§1101(a), (b), 1102(a), 1103(a), Dec. 8, 2003, 117 Stat. 2448, 2452, 2457, 2460; Pub. L. 110–85, title VII, §701(b), title VIII, §801(b)(3)(A), (B), title IX, §§901(a), 903, 905(a), 914(a), 915, 916, 918, 920, 921, title XI, §1113, Sept. 27, 2007, 121 Stat. 903, 921, 922, 943, 944, 953, 957, 958, 960–962, 976; Pub. L. 110–316, title III, §301, Aug. 14, 2008, 122 Stat. 3524; Pub. L. 110–379, §4(a), Oct. 8, 2008, 122 Stat. 4076; Pub. L. 111–31, div. A, title I, §103(e), June 22, 2009, 123 Stat. 1837.)
 
 #### References in Text
 
@@ -1369,6 +1369,8 @@ The Food and Drug Administration Modernization Act of 1997, referred to in subse
 The Drug Price Competition and Patent Term Restoration Act of 1984, referred to in subsec. (v)(4), is Pub. L. 98–417, Sept. 24, 1984, 98 Stat. 1585. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 301 of this title and Tables.
 
 #### Amendments
+
+2009—Subsec. (n)(2). Pub. L. 111–31 made technical amendment to reference in original act which appears in text as reference to section 394 of this title.
 
 2008—Subsec. (q)(1)(A). Pub. L. 110–316, §301, inserted concluding provisions.
 
@@ -1400,7 +1402,7 @@ Subsec. (t). Pub. L. 110–85, §920, added subsec. (t).
 
 Subsec. (u). Pub. L. 110–85, §1113, added subsec. (u).
 
-2003—Subsec. (b)(1). Pub. L. 108–155, in second sentence, substituted “(F)” for “and (F)” and inserted“, and (G) any assessments required under section 355c of this title” before period at end.
+2003—Subsec. (b)(1). Pub. L. 108–155, in second sentence, substituted “(F)” for “and (F)” and inserted “, and (G) any assessments required under section 355c of this title” before period at end.
 
 Subsec. (b)(3). Pub. L. 108–173, §1101(b)(1)(A), added par. (3) and struck out former par. (3) which, in subpar. (A), required an applicant making a certification under par. (2)(A)(iv) to include statement that applicant will give notice to each owner of the patent which is the subject of the certification and to the holder of the approved application, in subpar. (B), directed that notice state that an application has been submitted and include a detailed statement of the applicant's opinion that the patent is not valid or will not be infringed, and, in subpar. (C), provided that if an application is amended, notice shall be given when the amended application is submitted.
 
@@ -1524,7 +1526,7 @@ Subsecs. (<i>l</i>), (m). Pub. L. 98–417, §104, added subsecs. (<i>l</i>) and
 
 Subsec. (b). Pub. L. 87–781, §102(b), inserted “and whether such drug is effective in use” after “is safe for use”.
 
-Subsec. (c). Pub. L. 87–781, §104(b), substituted provisions requiring the Secretary, within 180 days after filing an application, or such additional period as the Secretary and the applicant agree upon, to either approve the application, if meeting the requirements of subsec. (d) of this section, or give notice of opportunity for hearing on question of whether such application is approvable, and providing that if applicant requests hearing in writing within 30 days, the hearing shall begin within 90 days after expiration of said 30 days, unless the Secretary and applicant agree otherwise, that such hearing shall be expedited, and that the Secretary's order shall be issued within 90 days after date for filing final briefs, for provisions which had an application become effective on the sixtieth day after filingthereof unless prior thereto the Secretary postponed the date by written notice to such time, but not more than 180 days after filing, as the Secretary deemed necessary to study and investigate the application.
+Subsec. (c). Pub. L. 87–781, §104(b), substituted provisions requiring the Secretary, within 180 days after filing an application, or such additional period as the Secretary and the applicant agree upon, to either approve the application, if meeting the requirements of subsec. (d) of this section, or give notice of opportunity for hearing on question of whether such application is approvable, and providing that if applicant requests hearing in writing within 30 days, the hearing shall begin within 90 days after expiration of said 30 days, unless the Secretary and applicant agree otherwise,that such hearing shall be expedited, and that the Secretary's order shall be issued within 90 days after date for filing final briefs, for provisions which had an application become effective on the sixtieth day after filing thereof unless prior thereto the Secretary postponed the date by written notice to such time, but not more than 180 days after filing, as the Secretary deemed necessary to study and investigate the application.
 
 Subsec. (d). Pub. L. 87–781, §102(c), inserted references to subsec. (c), added cls. (5) and (6), provided that if after notice and opportunity for hearing, the Secretary finds that cls. (1) to (6) do not apply, he shall approve the application, and defined “substantial evidence” as used in this subsection and subsec. (e) of this section.
 
@@ -1574,7 +1576,7 @@ Collusive agreements.—If a forfeiture event described in section 505(j)(5)(D)(
 
 “(3)
 
-Decision of a court when the 180-day exclusivity period has not been triggered.—With respect to an application filed before, on, or after the date of the enactment of this Act \[Dec. 8, 2003\] for a listed drug for which a certification under section 505(j)(2)(A)(vii)(IV) of that Act was made before the date of the enactment of this Act and for which neither of the events described in subclause (I) or (II) of section 505(j)(5)(B)(iv)of that Act (as in effect on the day before the date of the enactment of this Act) has occurred on or before the date of the enactment of this Act, the term ‘decision of a court’ as used in clause (iv) of section 505(j)(5)(B) of that Act means a final decision of a court from which no appeal (other than a petition to the Supreme Court for a writ of certiorari) has been or can be taken.”
+Decision of a court when the 180-day exclusivity period has not been triggered.—With respect to an application filed before, on, or after the date of the enactment of this Act \[Dec. 8, 2003\] for a listed drug forwhich a certification under section 505(j)(2)(A)(vii)(IV) of that Act was made before the date of the enactment of this Act and for which neither of the events described in subclause (I) or (II) of section 505(j)(5)(B)(iv) of that Act (as in effect on the day before the date of the enactment of this Act) has occurred on or before the date of the enactment of this Act, the term ‘decision of a court’ as used in clause (iv) of section 505(j)(5)(B) of that Act means a final decision of a court from which no appeal (other than a petition to the Supreme Court for a writ of certiorari) has been or can be taken.”
 
 Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provided, see section 4 of Pub. L. 108–155, set out as an Effective Date note under section 355c of this title.
 
@@ -1650,7 +1652,7 @@ Commission.—The term ‘Commission’ means the Federal Trade Commission.
 
 &emsp;“(6)
 
-Generic drug.—The term ‘generic drug’ means a drug for which an application under section 505(j) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(j)\] is approved.
+Generic drug.—The term ‘generic drug’ means a drug for which an application under section 505(j) ofthe Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(j)\] is approved.
 
 &emsp;“(7)
 
@@ -1846,7 +1848,7 @@ Pub. L. 110–379, §4(b), Oct. 8, 2008, 122 Stat. 4077, provided that:
 
 “(1) With respect to a patent issued on or before the date of the enactment of this Act \[Oct. 8, 2008\], any patent information required to be filed with the Secretary of Health and Human Services under subsection (b)(1) or (c)(2) of section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) to be listed on a drug to which subsection (v)(1) of such section 505 (as added by this section) applies shall be filed with the Secretary not later than 60 days after the date of the enactment of this Act.
 
-“(2) With respect to any patent information referred to in paragraph (1) of this subsection that is filed withthe Secretary within the 60-day period after the date of the enactment of this Act \[Oct. 8, 2008\], the Secretary shall publish such information in the electronic version of the list referred to at section 505(j)(7) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)(7)) as soon as it is received, but in no event later than the date that is 90 days after the enactment of this Act.
+“(2) With respect to any patent information referred to in paragraph (1) of this subsection that is filed with the Secretary within the 60-day period after the date of the enactment of this Act \[Oct. 8, 2008\], the Secretary shall publish such information in the electronic version of the list referred to at section 505(j)(7) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)(7)) as soon as it is received, but in no event later than the date that is 90 days after the enactment of this Act.
 
 “(3) With respect to any patent information referred to in paragraph (1) that is filed with the Secretary within the 60-day period after the date of enactment of this Act \[Oct. 8, 2008\], each applicant that, not later than 120 days after the date of the enactment of this Act, amends an application that is, on or before the date of the enactment of this Act, a substantially complete application (as defined in paragraph (5)(B)(iv) of section 505(j) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j))) to contain a certification described in paragraph (2)(A)(vii)(IV) of such section 505(j) with respect to that patent shall be deemed to be a first applicant (as defined in paragraph (5)(B)(iv) of such section 505(j)).”
 

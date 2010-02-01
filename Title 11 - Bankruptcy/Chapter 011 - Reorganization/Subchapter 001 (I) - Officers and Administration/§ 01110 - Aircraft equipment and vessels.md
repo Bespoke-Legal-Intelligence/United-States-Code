@@ -1,6 +1,6 @@
 ### §1110. Aircraft equipment and vessels
 
-(a)(1) Except as provided in paragraph (2) and subject to subsection (b), the right of a secured party with a security interest in equipment described in paragraph (3), or of a lessor or conditional vendor of such equipment, to take possession of such equipment in compliance with a security agreement, lease, or conditional sale contract, and to enforce any of its other rights or remedies, under such security agreement, lease, or conditional sale contract, to sell, lease, or otherwise retain or dispose of such equipment, is not limited or otherwise affected by any other provision of this title or by any power of the court.
+(a)(1) Except as provided in paragraph (2) and subject to subsection (b), the right of a secured party with a security interest in equipment described in paragraph (3), or of a lessor or conditional vendor of such equipment, to take possession of such equipment in compliance with a security agreement, lease, or conditional sale contract, and to enforce any of its other rights or remedies, under such security agreement, lease, or conditional sale contract, to sell, lease, or otherwise retain or dispose of such equipment, isnot limited or otherwise affected by any other provision of this title or by any power of the court.
 
 (2) The right to take possession and to enforce the other rights and remedies described in paragraph (1) shall be subject to section 362 if—
 
@@ -38,7 +38,7 @@
 
 (d) With respect to equipment first placed in service on or before October 22, 1994, for purposes of this section—
 
-&emsp;(1) the term “lease” includes any written agreement with respect to which the lessor and the debtor, as lessee, have expressed in theagreement or in a substantially contemporaneous writing that the agreement is to be treated as a lease for Federal income tax purposes; and
+&emsp;(1) the term “lease” includes any written agreement with respect to which the lessor and the debtor, as lessee, have expressed in the agreement or in a substantially contemporaneous writing that the agreement is to be treated as a lease for Federal income tax purposes; and
 
 &emsp;(2) the term “security interest” means a purchase-money equipment security interest.
 
@@ -54,7 +54,7 @@ During this time the automatic stay will apply and may not be lifted prior to th
 
 #### senate report no. 95–989
 
-This section, to a large degree, preserves the protection given lessors and conditional vendors of aircraft to a certificated air carrier or of vessels to a certificated water carrier under section 116(5) and 116(6) of present Chapter X \[section 516(5) and (6) of former title 11\]. It is modified to conform with the consolidation of Chapters X and XI \[chapters 10 and 11 of former title 11\] and with the new chapter 11 generally. It is also modified to give the trustee in a reorganization case an opportunity to continue in possession of the equipment in question by curing defaults and by making the required lease or purchase payments. This removes the absolute veto power over a reorganization that lessors and conditional vendors have under present law, while entitling them to protection of their investment.
+This section, to a large degree, preserves the protection given lessors and conditional vendors of aircraft to a certificated air carrier or of vessels to a certificated water carrier under section 116(5) and 116(6) of presentChapter X \[section 516(5) and (6) of former title 11\]. It is modified to conform with the consolidation of Chapters X and XI \[chapters 10 and 11 of former title 11\] and with the new chapter 11 generally. It is also modified to give the trustee in a reorganization case an opportunity to continue in possession of the equipment in question by curing defaults and by making the required lease or purchase payments. This removes the absolute veto power over a reorganization that lessors and conditional vendors have under present law, while entitling them to protection of their investment.
 
 The section overrides the automatic stay or any power of the court to enjoin taking of possession of certain leased, conditionally sold, or liened equipment, unless, the trustee agrees to perform the debtor's obligations and cures all prior defaults (other than defaults under ipso facto or bankruptcy clauses) within 60 days after the order for relief. The trustee and the equipment financer are permitted to extend the 60-day period by agreement. During the first 60 days, the automatic stay will apply to prevent foreclosure unless the creditor gets relief from the stay.
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, with this section, as am
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwiseprovided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 #### Aircraft Equipment Settlement Leases
 

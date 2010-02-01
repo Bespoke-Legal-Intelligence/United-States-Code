@@ -6,7 +6,7 @@ Each boxer shall register with—
 
 &emsp;(1) the boxing commission of the State in which such boxer resides; or
 
-&emsp;(2) in the case of a boxer who is a resident of a foreign country, or a State in which there is no boxing commission, the boxing commission of any State that has such a commission.
+&emsp;(2) in the case of a boxer who is a resident of a foreign country, or a State in which there isno boxing commission, the boxing commission of any State that has such a commission.
 
 #### (b) Identification card
 

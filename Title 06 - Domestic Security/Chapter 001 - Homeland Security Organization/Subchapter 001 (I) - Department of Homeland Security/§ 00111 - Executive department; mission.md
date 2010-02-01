@@ -56,13 +56,13 @@ Pub. L. 108–334, title V, §518, Oct. 18, 2004, 118 Stat. 1318.
 
 Ex. Ord. No. 13286, Feb. 28, 2003, 68 F.R. 10619, as amended by Ex. Ord. No. 13442, §1, Aug. 13, 2007, 72 F.R. 45877, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Homeland Security Act of 2002 (Public Law 107–296) \[see Tables for classification\] and section 301 of title 3, United States Code, and in order to reflect the transfer of certain functions to, and otherresponsibilities vested in, the Secretary of Homeland Security, the transfer of certain agencies and agency components to the Department of Homeland Security, and the delegation of appropriate responsibilities to the Secretary of Homeland Security, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Homeland Security Act of 2002 (Public Law 107–296) \[see Tables for classification\] and section 301 of title 3, United States Code, and in order to reflect the transfer of certain functions to, and other responsibilities vested in, the Secretary of Homeland Security, the transfer of certain agencies and agency components to the Department of Homeland Security, and the delegation of appropriate responsibilities to the Secretary of Homeland Security, it is hereby ordered as follows:
 
 Section 1. \[Amended Ex. Ord. No. 13276, set out as a note under section 1182 of Title 8, Aliens and Nationality.\]
 
 Sec. 2. \[Amended Ex. Ord. No. 13274, set out as a note under section 301 of Title 49, Transportation.\]
 
-Sec. 3. \[Amended Ex. Ord. No. 13271, set out as a note under section 509 of Title 28, Judiciary and Judicial Procedure.\]
+Sec. 3. \[Amended Ex. Ord. No. 13271, formerly set out as a note under section 509 of Title 28, Judiciary and Judicial Procedure.\]
 
 Sec. 4. \[Amended and revoked Ex. Ord. No. 13260, set out as a note under section 402 of Title 50, War and National Defense.\]
 

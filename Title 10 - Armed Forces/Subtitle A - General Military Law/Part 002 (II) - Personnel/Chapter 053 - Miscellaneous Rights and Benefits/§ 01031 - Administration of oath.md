@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 May 22, 1950, ch. 193, §1, 64 Stat. 187.
 
-The words “(including the reserve component)” are omitted, since the words “any component of an armedforce” include the reserve components. The words “any oath required for the enlistment or appointment of any person” are substituted for the words “the oath required for the enlistment of any person, the oath required for the appointment of any person to commissioned or warrant officer grade, and any other oath required by law in connection with the enlistment or appointment of any person”.
+The words “(including the reserve component)” are omitted, since the words “any component of an armed force” include the reserve components. The words “any oath required for the enlistment or appointment of any person” are substituted for the words “the oath required for the enlistment of any person, the oath required for the appointment of any person to commissioned or warrant officer grade, and any other oath required by law in connection with the enlistment or appointment of any person”.
 
 #### Amendments
 

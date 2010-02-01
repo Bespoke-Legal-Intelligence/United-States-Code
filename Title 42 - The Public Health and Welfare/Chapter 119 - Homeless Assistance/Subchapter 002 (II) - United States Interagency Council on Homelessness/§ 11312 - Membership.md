@@ -34,7 +34,17 @@ The Council shall be composed of the following members:
 
 &emsp;(15) The Postmaster General of the United States, or the designee of the Postmaster General.
 
-&emsp;(16) The heads of such other Federal agencies as the Council considers appropriate, or their designees.
+&emsp;(16) The Commissioner of Social Security, or the designee of the Commissioner.
+
+&emsp;(17) The Attorney General of the United States, or the designee of the Attorney General.
+
+&emsp;(18) The Director of the Office of Management and Budget, or the designee of the Director.
+
+&emsp;(19) The Director of the Office of Faith-Based and Community Initiatives, or the designee of the Director.
+
+&emsp;(20) The Director of USA FreedomCorps, or the designee of the Director.
+
+&emsp;(22) <sup>1</sup> The heads of such other Federal agencies as the Council considers appropriate, or their designees.
 
 #### (b) Chairperson
 
@@ -42,15 +52,25 @@ The Council shall elect a Chairperson and a Vice Chairperson from among its memb
 
 #### (c) Meetings
 
-The Council shall meet at the call of its Chairperson or a majority of its members, but not less often than annually.
+The Council shall meet at the call of its Chairperson or a majority of its members, but not less often than four times each year, and the rotation of the positions of Chairperson and Vice Chairperson required under subsection (b) shall occur at the first meeting of each year.
 
 #### (d) Prohibition of additional pay
 
 Members of the Council shall receive no additional pay, allowances, or benefits by reason of their service on the Council.
 
-(Pub. L. 100–77, title II, §202, July 22, 1987, 101 Stat. 486; Pub. L. 101–645, title I, §101, Nov. 29, 1990, 104 Stat. 4674; Pub. L. 103–82, title IV, §405(m), Sept. 21, 1993, 107 Stat. 922; Pub. L. 106–377, §1(a)(1) \[title II, §231(1)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–31; Pub. L. 107–95, §11, Dec. 21, 2001, 115 Stat. 920; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+#### (e) Administration
+
+The Executive Director of the Council shall report to the Chairman of the Council.
+
+(Pub. L. 100–77, title II, §202, July 22, 1987, 101 Stat. 486; Pub. L. 101–645, title I, §101, Nov. 29, 1990, 104 Stat. 4674; Pub. L. 103–82, title IV, §405(m), Sept. 21, 1993, 107 Stat. 922; Pub. L. 106–377, §1(a)(1) \[title II, §231(1)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–31; Pub. L. 107–95, §11, Dec. 21, 2001, 115 Stat. 920; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 111–22, div. B, §1004(a)(2), May 20, 2009, 123 Stat. 1666.)
 
 #### Amendments
+
+2009—Subsec. (a)(16) to (20), (22). Pub. L. 111–22, §1004(a)(2)(A), added pars. (16) to (20) and redesignated former par. (16) as (22).
+
+Subsec. (c). Pub. L. 111–22, §1004(a)(2)(B), substituted “four times each year, and the rotation of the positions of Chairperson and Vice Chairperson required under subsection (b) shall occur at the first meeting of each year” for “annually”.
+
+Subsec. (e). Pub. L. 111–22, §1004(a)(2)(C), added subsec. (e).
 
 2001—Subsec. (c). Pub. L. 107–95 amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The Council shall meet at the call of its Chairperson or a majority of its members. The first meeting of the Council shall be held not later than 30 days after July 22, 1987.”
 
@@ -62,7 +82,11 @@ Members of the Council shall receive no additional pay, allowances, or benefits 
 
 #### Change of Name
 
-“Administrator of the Federal Emergency Management Agency” and “Administrator” substituted for “Director of the Federal Emergency Management Agency” and “Director”, respectively, in subsec. (a)(13) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+“Administrator of the Federal Emergency Management Agency” and “Administrator” substituted for “Director of the Federal Emergency Management Agency” and “Director”, respectively, in subsec. (a)(13) on authority of section 612(c) of Pub. L. 109–295, set outas a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–22 effective on, and applicable beginning on, May 20, 2009, see section 1004(b) of Pub. L. 111–22, set out as a note under section 11311 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -70,7 +94,9 @@ Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub.
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+<i><sup>1</sup></i><i> So in original. No par. (21) has been enacted.</i>
 

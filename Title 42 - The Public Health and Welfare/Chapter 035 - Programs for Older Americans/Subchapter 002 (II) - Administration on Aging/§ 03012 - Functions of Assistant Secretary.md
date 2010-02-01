@@ -190,7 +190,7 @@ To promote the development and implementation of comprehensive, coordinated syst
 
 &emsp;&emsp;(D) to help individuals to plan ahead for their future long-term care needs; and
 
-&emsp;&emsp;(E) to assist (in coordination with the entities carrying out the health insurance information, counseling, and assistance program (receiving funding under section 1395b–4 ofthis title) in the States) beneficiaries, and prospective beneficiaries, under the Medicare program established under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) in understanding and accessing prescription drug and preventative health benefits under the provisions of, and amendments made by, the Medicare Prescription Drug, Improvement, and Modernization Act of 2003;
+&emsp;&emsp;(E) to assist (in coordination with the entities carrying out the health insurance information, counseling, and assistance program (receiving funding under section 1395b–4 of this title) in the States) beneficiaries, and prospective beneficiaries, under the Medicare program established under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) in understanding and accessing prescription drug and preventative health benefits under the provisions of, and amendments made by, the Medicare Prescription Drug, Improvement, and Modernization Act of 2003;
 
 &emsp;(9) establish, either directly or through grants or contracts, national technical assistance programs to assist State agencies, area agencies on aging, and community-based service providers funded under this chapter in implementing—
 
@@ -254,7 +254,7 @@ The Assistant Secretary, in consultation with the Chief Executive Officer of the
 
 &emsp;&emsp;(III) data from other Federal agencies on the health, social, and economic status of older individuals and on the services provided to older individuals;
 
-&emsp;(iii) biennially compile, analyze, publish, and disseminate statistical data collected on the functions, staffing patterns, and fundingsources of State agencies and area agencies on aging;
+&emsp;(iii) biennially compile, analyze, publish, and disseminate statistical data collected onthe functions, staffing patterns, and funding sources of State agencies and area agencies on aging;
 
 &emsp;(iv) analyze the information collected under section 3011(c)(3)(F) of this title by the Director of the Office for American Indian, Alaskan Native, and Native Hawaiian Aging;
 

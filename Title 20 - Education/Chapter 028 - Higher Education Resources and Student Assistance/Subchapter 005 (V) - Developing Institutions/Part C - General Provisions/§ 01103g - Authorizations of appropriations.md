@@ -8,7 +8,7 @@
 
 #### (2) Part B
 
-&emsp;There are authorized to be appropriated to carry out part B $100,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
+&emsp;There are authorized to be appropriated to carry out part B $100,000,000 for fiscal year 2009and such sums as may be necessary for each of the five succeeding fiscal years.
 
 #### (b) Use of multiple year awards
 
@@ -64,7 +64,7 @@ A prior section 1105a, Pub. L. 89–329, title V, §522, as added Pub. L. 99–4
 
 Section 1105b, Pub. L. 89–329, title V, §533, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 684, related to award and use of Christa McAuliffe fellowships.
 
-A prior section 1105b, Pub. L. 89–329, title V, §523, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1498, related to grants to encourage partnershipsbetween institutions of higher education and secondary schools serving low-income students, prior to the general amendment of this subchapter by Pub. L. 102–325.
+A prior section 1105b, Pub. L. 89–329, title V, §523, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1498, related to grants to encourage partnerships between institutions of higher education and secondary schools serving low-income students, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 Section 1105c, Pub. L. 89–329, title V, §534, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 685, related to selection of Christa McAuliffe fellows.
 
@@ -268,7 +268,7 @@ Section 1115, Pub. L. 89–329, title V, §591, as added Pub. L. 102–325, titl
 
 A prior section 1115, Pub. L. 89–329, title V, §571, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1512, related to State task forces on teacher training, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
-Another prior section 1115, Pub. L. 89–329, title V, §525, Nov. 8, 1965, 79 Stat. 1260; Pub. L. 90–35, §5(f), June29, 1967, 81 Stat. 91; Pub. L. 90–575, title II, §238, Oct. 16, 1968, 82 Stat. 1040; Pub. L. 92–318, title I, §141(c)(3), June 23, 1972, 86 Stat. 285, authorized Commissioner to pay stipends to individuals awarded fellowships and additional amounts to institutions of higher education for support of programs, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
+Another prior section 1115, Pub. L. 89–329, title V, §525, Nov. 8, 1965, 79 Stat. 1260; Pub. L. 90–35, §5(f), June 29, 1967, 81 Stat. 91; Pub. L. 90–575, title II, §238, Oct. 16, 1968, 82 Stat. 1040; Pub. L. 92–318, title I, §141(c)(3), June 23, 1972, 86 Stat. 285, authorized Commissioner to pay stipends to individuals awarded fellowships and additional amounts to institutions of higher education for support of programs, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
 
 Section 1116, Pub. L. 89–329, title V, §593, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 715, authorized grants for development of model programs of development and training of faculty who teach students with disabilities.
 
@@ -334,7 +334,7 @@ Another prior section 1119c–2, Pub. L. 89–329, title V, §553, as added Pub.
 
 Section 1119c–3, Pub. L. 89–329, title V, §554, as added Pub. L. 90–576, title II, §201, Oct. 16, 1968, 82 Stat. 1094, related to familiarizing teachers with new curricular methods, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(C), title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2152, 2215.
 
-Section 1119c–4, Pub. L. 89–329, title V, §555, as added Pub. L. 94–482, title I, §151(a)(4)(B), Oct. 12, 1976, 90 Stat. 2152, authorized appropriation for the fiscal years ending prior to Oct. 1, 1977, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(C), title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2152, 2215.
+Section 1119c–4, Pub. L. 89–329, title V, §555, as added Pub. L. 94–482, title I, §151(a)(4)(B), Oct. 12, 1976, 90 Stat.2152, authorized appropriation for the fiscal years ending prior to Oct. 1, 1977, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(C), title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2152, 2215.
 
 An identical section 555 of Pub. L. 89–329, as added Pub. L. 94–482, title II, §201(q), Oct. 12, 1976, 90 Stat. 2169, was also classified to section 1119c–4, and was repealed by Pub. L. 94–482, title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2215.
 

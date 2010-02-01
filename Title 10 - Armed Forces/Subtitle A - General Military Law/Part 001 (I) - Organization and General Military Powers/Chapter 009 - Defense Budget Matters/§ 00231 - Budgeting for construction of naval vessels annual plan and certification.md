@@ -2,7 +2,7 @@
 
 (a)
 
-Annual Naval Vessel Construction Plan and Certification.—The Secretary of Defense shall include with the defense budget materials for a fiscal year—
+Annual Naval Vessel Construction Plan and Certification.—The Secretary of Defenseshall include with the defense budget materials for a fiscal year—
 
 &emsp;(1) a plan for the construction of combatant and support vessels for the Navy developed in accordance with this section; and
 

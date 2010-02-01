@@ -2,7 +2,7 @@
 
 (a)
 
-Per Diem Payments for Furnishing Services to Homeless Veterans.—(1) Subject to the availability of appropriations provided for such purpose, the Secretary, pursuant to such criteria as the Secretary shall prescribe, shall provide to a recipient of a grant under section 2011 of this title (or an entity eligible to receive a grant under that section which after November 10, 1992, establishes a program that the Secretary determines carries out the purposes described in that section) per diem payments for services furnished to any homeless veteran—
+Per Diem Payments for Furnishing Services to Homeless Veterans.—(1) Subject to the availability of appropriations provided for such purpose, the Secretary, pursuant to such criteria as the Secretary shall prescribe, shall provide to a recipient of a grant under section 2011 of this title (or an entity eligible to receive a grant under that section which after November10, 1992, establishes a program that the Secretary determines carries out the purposes described in that section) per diem payments for services furnished to any homeless veteran—
 
 &emsp;(A) whom the Secretary has referred to the grant recipient (or entity eligible for such a grant); or
 

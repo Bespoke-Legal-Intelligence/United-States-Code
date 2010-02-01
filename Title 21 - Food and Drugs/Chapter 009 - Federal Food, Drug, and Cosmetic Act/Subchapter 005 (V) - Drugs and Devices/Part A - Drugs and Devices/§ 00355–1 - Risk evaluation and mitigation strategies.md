@@ -26,7 +26,7 @@
 
 #### (B) Submission of proposed strategy
 
-&emsp;&emsp;Not later than 120 days after the Secretary notifies the holder of an approved covered application that the Secretary has made a determination under subparagraph (A) with respect to the drug involved, or within such other reasonable time as the Secretary requires to protect the public health, the holder shall submit to the Secretary a proposed risk evaluation and mitigation strategy.
+&emsp;&emsp;Not later than 120 days after the Secretary notifies the holder of an approved covered application that the Secretary has made a determination under subparagraph (A) withrespect to the drug involved, or within such other reasonable time as the Secretary requires to protect the public health, the holder shall submit to the Secretary a proposed risk evaluation and mitigation strategy.
 
 #### (3) Abbreviated new drug applications
 
@@ -210,7 +210,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (4) Implementation system
 
-&emsp;The elements to assure safe use under paragraph (1) that are described in subparagraphs\(B), (C), and (D) of paragraph (3) may include a system through which the applicant is able to take reasonable steps to—
+&emsp;The elements to assure safe use under paragraph (1) that are described in subparagraphs (B), (C), and (D) of paragraph (3) may include a system through which the applicant is able to take reasonable steps to—
 
 &emsp;&emsp;(A) monitor and evaluate implementation of such elements by health care providers, pharmacists, and other parties in the health care system who are responsible for implementing such elements; and
 
@@ -276,7 +276,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;&emsp;&emsp;(ii) an element under subsection (f) should be modified or included in the strategy; or
 
-&emsp;&emsp;(D) within 15 days when ordered by the Secretary, in consultation with the offices described in subsection (c)(2), if the Secretary determines that there may be a cause for action by the Secretary under section 355(e) of this title.
+&emsp;&emsp;(D) within 15 days when ordered by the Secretary, in consultation with the offices described in subsection (c)(2), if the Secretary determines that there may be a causefor action by the Secretary under section 355(e) of this title.
 
 #### (3) Requirements for assessments
 
@@ -422,7 +422,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (A) In general
 
-&emsp;&emsp;When a concern about a serious risk of a drug may be related to the pharmacologicalclass of the drug, the Secretary, in consultation with the offices described in subsection (c)(2), may defer assessments of the approved risk evaluation and mitigation strategies for such drugs until the Secretary has convened 1 or more public meetings to consider possible responses to such concern.
+&emsp;&emsp;When a concern about a serious risk of a drug may be related to the pharmacological class of the drug, the Secretary, in consultation with the offices described in subsection (c)(2), may defer assessments of the approved risk evaluation and mitigation strategies for such drugs until the Secretary has convened 1 or more public meetings to consider possible responses to such concern.
 
 #### (B) Notice
 
@@ -476,7 +476,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;&emsp;&emsp;(ii) an aspect of the elements to assure safe use for the applicable listed drug is claimed by a patent that has not expired or is a method or process that, as a trade secret, is entitled to protection, and the applicant for the abbreviated new drug application certifies that it has sought a license for use of an aspect of the elements to assure safe use for the applicable listed drug and that it was unable to obtain a license.
 
-> &emsp;&emsp;A certification under clause (ii) shall include a description of the efforts made by the applicant for the abbreviated new drug application to obtain a license. In a case described in clause (ii), the Secretary may seek to negotiate a voluntary agreement with the owner of the patent, method, or process for a license under which the applicant for such abbreviated new drug application may use an aspect of the elements to assure safe use, if required under subsection (f) for the applicable listed drug, that is claimed by a patent that has not expired or is a method or process that as a trade secret is entitled to protection.
+> &emsp;&emsp;A certification under clause (ii) shall include a description of the efforts made by the applicant for the abbreviated new drug application to obtain a license. In a case described in clause (ii), the Secretary may seek to negotiate a voluntary agreement with the owner of the patent, method, or process for a license under which the applicant for such abbreviated new drug application may usean aspect of the elements to assure safe use, if required under subsection (f) for the applicable listed drug, that is claimed by a patent that has not expired or is a method or process that as a trade secret is entitled to protection.
 
 #### (2) Action by Secretary
 

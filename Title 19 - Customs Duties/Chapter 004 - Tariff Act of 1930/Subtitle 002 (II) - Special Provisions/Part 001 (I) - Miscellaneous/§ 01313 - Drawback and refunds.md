@@ -30,7 +30,7 @@ If imported duty-paid merchandise and any other merchandise (whether imported or
 
 #### (2) Designation of import entries
 
-&emsp;For purposes of paragraph (1)(C)(ii), drawback may be claimed by designating an entryof merchandise that was imported within 1 year before the date of exportation or destruction of the merchandise described in paragraph (1)(A) and (B) under the supervision of the Customs Service. The merchandise designated for drawback must be identified in the import documentation with the same eight-digit classification number and specific product identifier (such as part number, SKU, or product code) as the returned merchandise.
+&emsp;For purposes of paragraph (1)(C)(ii), drawback may be claimed by designating an entry of merchandise that was imported within 1 year before the date of exportation or destruction of the merchandise described in paragraph (1)(A) and (B) under the supervision of the Customs Service. The merchandise designated for drawback must be identified in the import documentation with the same eight-digit classification number and specific product identifier (such as part number, SKU, or product code) as the returned merchandise.
 
 #### (3) When drawback certificates not required
 
@@ -138,7 +138,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;(B) the total amount of customs duties paid on the good to the NAFTA country.
 
-(3) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreementthereafter terminates, then for purposes of subsections (a), (b), (f), (h), (j)(2), and (q) of this section, the shipment to Canada during the period such Agreement is in operation of an article made from or substituted for, as appropriate, a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988 does not constitute an exportation.
+(3) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsections (a), (b), (f), (h), (j)(2), and (q) of this section, the shipment to Canada during the period such Agreement is in operation of an article made from or substituted for, as appropriate, a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988 does not constitute an exportation.
 
 (4)(A) For purposes of subsections (a), (b), (f), (h), (j)(2), (p), and (q) of this section, if an article that is exported to Chile is a good subject to Chile FTA drawback, no customs duties on the good may be refunded, waived, or reduced, except as provided in subparagraph (B).
 
@@ -264,7 +264,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 #### (1) Packaging material under subsections (c) and (j)
 
-&emsp;Packaging material, whether imported and duty paid, and claimed for drawback under either subsection (c) or (j)(1) of this section, or imported and duty paid, or substituted, and claimed for drawback under subsection (j)(2) of this section, shall be eligible for drawback, upon exportation, of 99 percent of any duty, tax, or fee imposed under Federal law on such imported material.
+&emsp;Packaging material, whether imported and duty paid, and claimed for drawback under either subsection (c) or (j)(1) of this section, or imported and duty paid, or substituted, and claimed for drawback under subsection (j)(2) ofthis section, shall be eligible for drawback, upon exportation, of 99 percent of any duty, tax, or fee imposed under Federal law on such imported material.
 
 #### (2) Packaging material under subsections (a) and (b)
 
@@ -276,7 +276,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 #### (4) Employing packaging material for its intended purpose prior to exportation
 
-&emsp;The use of any packaging material for its intended purpose prior to exportation shall notbe treated as a use of such material prior to exportation for purposes of applying subsection (a), (b), or (c) of this section, or paragraph (1)(B) or (2)(C)(i) of subsection (j) of this section.
+&emsp;The use of any packaging material for its intended purpose prior to exportation shall not be treated as a use of such material prior to exportation for purposes of applying subsection (a), (b), or (c) of this section, or paragraph (1)(B) or (2)(C)(i) of subsection (j) of this section.
 
 #### (r) Filing drawback claims
 
@@ -330,7 +330,7 @@ Any person who issues a certificate which would enable another person to claim d
 
 #### (u) Eligibility of entered or withdrawn merchandise
 
-Imported merchandise that has not been regularly entered or withdrawn for consumption shall not satisfy any requirement for use, exportation, or destruction under this section.
+Imported merchandise that has not been regularly entered or withdrawn for consumptionshall not satisfy any requirement for use, exportation, or destruction under this section.
 
 #### (v) Multiple drawback claims
 
@@ -384,7 +384,7 @@ The provisions of section IV, O, of the act of 1913, similar to subdivision (g) 
 
 The provisions of subsec. (e) of this section concerning imported salt used in curing fish superseded somewhat similar provisions in R.S. §3022, which was repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
-Section 642 of the act of Sept. 21, 1922, also repealed sections 3015 to 3026, inclusive, 3028 to 3047, inclusive, and 3049 to 3057, inclusive of the Revised Statutes, which were concerned with the subject of drawback.
+Section 642 of the act of Sept. 21, 1922, also repealed sections 3015 to 3026, inclusive, 3028 to 3047, inclusive,and 3049 to 3057, inclusive of the Revised Statutes, which were concerned with the subject of drawback.
 
 R.S. §3048, which was not repealed, read as follows: “So much money as may be necessary for the payment of debentures or drawbacks and allowances which may be authorized and payable, is hereby appropriated for that purpose out of any money in the Treasury, to be expended under the direction of the Secretary of that Department, according to the laws authorizing debentures or drawbacks and allowances. The collectors of the customs shall be the disbursing agents to pay such debentures, drawbacks, and allowances. All debenture certificates issued according to law shall be received in payment of duties at the customhouse where the same have been issued, the laws regulating drawbacks having been complied with.”
 
@@ -478,7 +478,7 @@ Pub. L. 103–465, §404(e)(5)(A), added subsec. (w).
 
 Subsec. (b). Pub. L. 103–182, §632(a)(2), substituted “any other merchandise (whether imported or domestic)” for “duty-free or domestic merchandise”, inserted “, or destruction under customs supervision,” after “there shall be allowed upon the exportation”, substituted “production of the exported or destroyed articles” for “production of the exported articles”, inserted “, but only if those articles have not been used prior to such exportation or destruction” after “merchandise used therein been imported” and “or destruction under customs supervision” after “but the total amount of drawback allowed upon the exportation”.
 
-Subsec. (c). Pub. L. 103–182, §632(a)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Upon the exportation of merchandise not conforming to sample or specifications or shipped without the consent of the consignee upon which the duties have been paid and which have been entered or withdrawn for consumption and, within ninety days afterrelease from customs custody, unless the Secretary authorizes in writing a longer time, returned to customs custody for exportation, the full amount of the duties paid upon such merchandise shall be refunded as drawback, less 1 per centum of such duties.”
+Subsec. (c). Pub. L. 103–182, §632(a)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Upon the exportation of merchandise not conforming to sample or specifications or shipped without the consent of the consignee upon which the duties have been paid and which have been entered or withdrawn for consumption and, within ninety days after release from customs custody, unless the Secretary authorizes in writing a longer time, returned to customs custody for exportation, the full amount of the duties paid upon such merchandise shall be refunded as drawback, less 1 per centum of such duties.”
 
 Subsec. (j). Pub. L. 103–182, §203(c)(1), (2), substituted “Subject to paragraph (4), if” for “If” in par. (2) and added par. (4). See Construction of 1993 Amendment note below.
 
@@ -538,7 +538,7 @@ Subsec. (i). Act Aug. 8, 1953, §12(c), broadened the authority of the Secretary
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title XV, §15334(b), May 22, 2008, 122 Stat. 1517, and Pub. L. 110–246, §4(a), title XV, §15334(b), June 18, 2008, 122 Stat. 1664, 2279, provided that: “The amendment made by this section \[amending this section\] applies with respect to—
+Pub. L. 110–234, title XV, §15334(b), May 22, 2008, 122 Stat. 1517, and Pub. L. 110–246, §4(a), title XV, §15334(b),June 18, 2008, 122 Stat. 1664, 2279, provided that: “The amendment made by this section \[amending this section\] applies with respect to—
 
 &emsp;“(1) imports of ethyl alcohol or a mixture of ethyl alcohol entered for consumption, or withdrawn from warehouse for consumption, on or after October 1, 2008; and
 
@@ -598,7 +598,7 @@ Pub. L. 103–465, title IV, §422(e), Dec. 8, 1994, 108 Stat. 4965, provided th
 
 Amendment by section 203(b)(3) of Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
 
-Amendment by section 203(c) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
+Amendment by section 203(c) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 213(b) of Pub. L.103–182, set out as an Effective Date note under section 3331 of this title.
 
 Section 632(b) of Pub. L. 103–182 provided that: “Notwithstanding section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) or any other provision of law, the amendment made by paragraph (6) of subsection (a) \[amending this section\] shall apply to—
 

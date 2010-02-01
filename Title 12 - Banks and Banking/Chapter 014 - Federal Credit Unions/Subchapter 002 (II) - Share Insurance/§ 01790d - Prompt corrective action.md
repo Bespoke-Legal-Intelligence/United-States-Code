@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(i) to carry out the purpose of this section;
 
-&emsp;&emsp;&emsp;(ii) to recognize that credit unions (as cooperatives that do not issue capital stock) initially have no net worth, and give new credit unions reasonable time to accumulate net worth;
+&emsp;&emsp;&emsp;(ii) to recognize that credit unions (as cooperatives that do not issue capital stock) initially have no net worth, andgive new credit unions reasonable time to accumulate net worth;
 
 &emsp;&emsp;&emsp;(iii) to create adequate incentives for new credit unions to become adequately capitalized by the time that they either—
 
@@ -110,7 +110,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If, for purposes of section 1831<i>o</i>(c) of this title, the Federal banking agencies increaseor decrease the required minimum level for the leverage limit (as those terms are used in section 1831<i>o</i> of this title), the Board may, by regulation, and subject to subparagraph (B) of this paragraph, correspondingly increase or decrease 1 or more of the net worth ratios specified in subparagraphs (A) through (D) of paragraph (1) of this subsection in an amount that is equal to not more than the difference between the required minimum level most recently established by the Federal banking agencies and 4 percent of total assets (with respect to institutions regulated by those agencies).
+&emsp;&emsp;If, for purposes of section 1831<i>o</i>(c) of this title, the Federal banking agencies increase or decrease the required minimum level for the leverage limit (as those terms are used in section 1831<i>o</i> of this title), the Board may, by regulation, and subject to subparagraph (B) of this paragraph, correspondingly increase or decrease 1 or more of the net worth ratios specified in subparagraphs (A) through (D) of paragraph (1) of this subsection in an amount that is equal to not more than the difference between the required minimum level most recently established by the Federal banking agencies and 4 percent of total assets (with respect to institutions regulated by those agencies).
 
 #### (B) Determinations required
 

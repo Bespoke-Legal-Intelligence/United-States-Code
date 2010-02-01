@@ -18,7 +18,7 @@ Subsec. (c). Pub. L. 87–301, §§3(b), 10, substituted “section 1101(b)(1)(E
 
 1959—Subsec. (b). Pub. L. 86–363, §5(a), authorized filing of petitions by any United States citizen claiming that an immigrant is his unmarried son or unmarried daughter, by any alien lawfully admitted for permanent residence claiming that an immigrant is his unmarried son or unmarried daughter instead of child, or by any United States citizen claiming that an immigrant is his married son or married daughter instead of son or daughter, and prohibited approval of petition for quota immigrant status or preference of alien without proof of parent relationship of the petitioner to such alien.
 
-Subsec. (c). Pub. L. 86–363, §5(b), limited approval to two petitions for one petitioner in behalf of a child asdefined in section 1101(b)(1)(E) of this title unless necessary to prevent separation of brothers and sisters.
+Subsec. (c). Pub. L. 86–363, §5(b), limited approval to two petitions for one petitioner in behalf of a child as defined in section 1101(b)(1)(E) of this title unless necessary to prevent separation of brothers and sisters.
 
 #### Effective Date of 2004 Amendment
 

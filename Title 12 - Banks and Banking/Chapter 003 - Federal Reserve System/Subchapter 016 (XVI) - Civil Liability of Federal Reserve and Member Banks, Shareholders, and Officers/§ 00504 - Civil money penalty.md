@@ -38,7 +38,7 @@ Notwithstanding subsections (a) and (b) of this section, any member bank which, 
 
 &emsp;(2) knowingly or recklessly causes a substantial loss to such credit union <sup>2</sup> or a substantial pecuniary gain or other benefit to such party by reason of such violation, practice, or breach,
 
-> shall forfeit and pay a civil penalty in an amount not to exceed the applicable maximumamount determined under subsection (d) of this section for each day during which such violation, practice, or breach continues.
+> shall forfeit and pay a civil penalty in an amount not to exceed the applicable maximum amount determined under subsection (d) of this section for each day during which such violation, practice, or breach continues.
 
 #### (d) Maximum amounts of penalties for any violation described in subsection (c)
 
@@ -76,7 +76,7 @@ For purposes of this section, the term “violate” includes any action (alone 
 
 #### (i) Regulations
 
-The Comptroller of the Currency and the Board shall prescribe regulations establishing such procedures as may be necessary to carry out this section.
+The Comptroller of the Currency and the Board shall prescribe regulations establishingsuch procedures as may be necessary to carry out this section.
 
 #### (m) <sup>4</sup> Notice under this section after separation from service
 

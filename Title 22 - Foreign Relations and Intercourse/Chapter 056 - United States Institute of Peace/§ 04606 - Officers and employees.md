@@ -6,7 +6,7 @@ The Board shall appoint the president of the Institute and such other officers a
 
 #### (b) Authorization of activities
 
-Subject to the provisions of section 4604(h)(3) of this title, the Board shall authorize the president and any other officials or employees it designates to receive and disburse public moneys, obtain and make grants, enter into contracts, establish and collect fees, and undertake all other activities necessary for the efficient and proper functioning of the Institute.
+Subject to the provisions of section 4604(h)(3) of this title, the Board shall authorize the president and any other officials or employees it designates to receive and disburse public moneys, obtain and make grants, enter into contracts,establish and collect fees, and undertake all other activities necessary for the efficient and proper functioning of the Institute.
 
 #### (c) Appointment, compensation and status of personnel
 
@@ -14,7 +14,7 @@ The president, subject to Institute's bylaws and general policies established by
 
 #### (d) Assignment of Federal officers or employees to the Institute
 
-(1) The president may request the assignment of any Federal officer or employee to the Institute by an appropriate department, agency, or congressional official or Member of Congressand may enter into an agreement for such assignment, if the affected officer or employee agrees to such assignment and such assignment causes no prejudice to the salary, benefits, status, or advancement within the department, agency, or congressional staff of such officer or employee.
+(1) The president may request the assignment of any Federal officer or employee to the Institute by an appropriate department, agency, or congressional official or Member of Congress and may enter into an agreement for such assignment, if the affected officer or employee agrees to such assignment and such assignment causes no prejudice to the salary, benefits, status, or advancement within the department, agency, or congressional staff of such officer or employee.
 
 (2) The Secretary of State, the Secretary of Defense, and the Director of Central Intelligence each may assign officers and employees of his respective department or agency, on a rotating basis to be determined by the Board, to the Institute if the affected officer or employee agrees to such assignment and such assignment causes no prejudice to the salary, benefits, status, or advancement within the respective department or agency of such officer or employee.
 

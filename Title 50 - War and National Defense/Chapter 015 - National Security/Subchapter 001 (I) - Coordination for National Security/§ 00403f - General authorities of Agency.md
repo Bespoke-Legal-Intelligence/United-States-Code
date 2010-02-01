@@ -56,27 +56,27 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–177 substituted “(c)(7)” for “(c)(6)”.
+2003—Subsec. (a)(1). Pub. L. 108–177 substituted “(c)(7)” for “(c)(6)”.
 
-<b>2002</b>—Subsec. (c)(2). Pub. L. 107–306 substituted “a report on the transfer of sums described in paragraph (1) each time that authority is exercised.” for “an annual report on the transfers of sums described in paragraph (1).”
+2002—Subsec. (c)(2). Pub. L. 107–306 substituted “a report on the transfer of sums described in paragraph (1) each time that authority is exercised.” for “an annual report on the transfers of sums described in paragraph (1).”
 
-<b>2000</b>—Pub. L. 106–567 added subsec. (a) and (b) headings and subsec. (c).
+2000—Pub. L. 106–567 added subsec. (a) and (b) headings and subsec. (c).
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–272, §403(a)(1), substituted “paragraphs (2) and (3) of section 403(a)” for “subparagraphs (B) and (C) of section 403(a)(2)” and “(c)(6)” for “(c)(5)” and made technical amendments to references in original act which appear in text as references to sections 403, 403–3, 403–4 of this title.
+1998—Subsec. (a)(1). Pub. L. 105–272, §403(a)(1), substituted “paragraphs (2) and (3) of section 403(a)” for “subparagraphs (B) and (C) of section 403(a)(2)” and “(c)(6)” for “(c)(5)” and made technical amendments to references in original act which appear in text as references to sections 403, 403–3, 403–4 of this title.
 
 Subsec. (a)(4). Pub. L. 105–272, §401, substituted “and the protection of current and former Agency personnel and their immediate families, defectors and their immediate families,” for “and the protection of Agency personnel and of defectors, their families,”.
 
-<b>1997</b>—Pub. L. 105–107 designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (f) as pars. (1) to (6), respectively, of subsec. (a), in par. (5) substituted semicolon for “without regard to limitations on expenditures contained in the Act of June 30, 1932, as amended: <i>Provided</i>, That in each case the Director shall certify that exception from such limitations is necessary to the successful performance of the Agency's functions or to the security of its activities; and”, and added par. (7) and subsec. (b).
+1997—Pub. L. 105–107 designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (f) as pars. (1) to (6), respectively, of subsec. (a), in par. (5) substituted semicolon for “without regard to limitations on expenditures contained in the Act of June 30, 1932, as amended: <i>Provided</i>, That in each case the Director shall certify that exception from such limitations is necessary to the successful performance of the Agency's functions or to the security of its activities; and”, and added par. (7) and subsec. (b).
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–178 substituted “Office of Management and Budget” for “Bureau of the Budget” and “subparagraphs (B) and (C) of section 403(a)(2) of this title, subsections (c)(5) and (d) of section 403–3 of this title, subsections (a) and (g) of section 403–4 of this title, and section 405 of this title” for “sections 403 and 405 of this title”.
+1993—Subsec. (a). Pub. L. 103–178 substituted “Office of Management and Budget” for “Bureau of the Budget” and “subparagraphs (B) and (C) of section 403(a)(2) of this title, subsections (c)(5) and (d) of section 403–3 of this title, subsections (a) and (g) of section 403–4 of this title, and section 405 of this title” for “sections 403 and 405 of this title”.
 
-<b>1983</b>—Subsec. (f). Pub. L. 98–215 added subsec. (f).
+1983—Subsec. (f). Pub. L. 98–215 added subsec. (f).
 
-<b>1981</b>—Subsec. (d). Pub. L. 97–89 substituted “Authorize personnel designated by the Director to carry firearms to the extent necessary for the performance of the Agency's authorized functions, except that, within the United States, such authority shall be limited to the purposes of protection of classified materials and information, the training of Agency personnel and other authorized persons in the use of firearms, the protection of Agency installations and property, and the protection of Agency personnel and of defectors, their families, and other persons in the United States under Agency auspices; and” for “Authorize couriers and guards designated by the Director to carry firearms when engaged in transportation of confidential documents and materials affecting the national defense and security;”.
+1981—Subsec. (d). Pub. L. 97–89 substituted “Authorize personnel designated by the Director to carry firearms to the extent necessary for the performance of the Agency's authorized functions, except that, within the United States, such authority shall be limited to the purposes of protection of classified materials and information, the training of Agency personnel and other authorized persons in the use of firearms, the protection of Agency installations and property, and the protection of Agency personnel and of defectors, their families, and other persons in the United States under Agency auspices; and” for “Authorize couriers and guards designated by the Director to carry firearms when engaged in transportation of confidential documents and materials affecting the national defense and security;”.
 
-<b>1964</b>—Subsec. (f). Pub. L. 88–448 repealed subsec. (f) which authorized employment of not more than fifteen retired officers who must elect between civilian salary and retired pay. See section 3101 et seq. of Title 5, Government Organization and Employees.
+1964—Subsec. (f). Pub. L. 88–448 repealed subsec. (f) which authorized employment of not more than fifteen retired officers who must elect between civilian salary and retired pay. See section 3101 et seq. of Title 5, Government Organization and Employees.
 
-<b>1951</b>—Subsec. (f). Act June 26, 1951, added subsec. (f).
+1951—Subsec. (f). Act June 26, 1951, added subsec. (f).
 
 #### Effective Date of 2000 Amendment
 
@@ -96,9 +96,11 @@ Amendment by Pub. L. 88–448 effective on first day of first month which begins
 
 #### Restriction on Transfer of Funds Available to Central Intelligence Agency for Drug Interdiction and Counter-Drug Activities
 
-Pub. L. 110–329, div. C, title VIII, §8047(b), Sept. 30, 2008, 122 Stat. 3632, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction and counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 111–118, div. A, title VIII, §8047(b), Dec. 19, 2009, 123 Stat. 3439, provided that: “None of the fundsavailable to the Central Intelligence Agency for any fiscal year for drug interdiction and counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 110–329, div. C, title VIII, §8047(b), Sept. 30, 2008, 122 Stat. 3632.
 
 Pub. L. 110–116, div. A, title VIII, §8048(b), Nov. 13, 2007, 121 Stat. 1325.
 

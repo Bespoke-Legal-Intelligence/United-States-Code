@@ -90,7 +90,7 @@ This chapter shall not apply to the examination by or disclosure to the Resoluti
 
 #### (<i>o</i>) Disclosure to, or examination by, Federal Housing Finance Board or Federal home loan banks
 
-This chapter shall not apply to the examination by or disclosure to the Federal Housing Finance Agency or any of the Federal home loan banks of financial records or information in the exercise of the Federal Housing Finance Agency's authority to extend credit (either directly or through a Federal home loan bank) to financial institutions or others.
+This chapter shall not apply to the examination by or disclosure to the Federal Housing Finance Agency or any of the Federal home loan banks of financial records or information in theexercise of the Federal Housing Finance Agency's authority to extend credit (either directly or through a Federal home loan bank) to financial institutions or others.
 
 #### (p) Access to information necessary for administration of certain veteran benefits laws
 

@@ -42,7 +42,7 @@ Amount to be withheld.—If a State is subject to a penalty under paragraph (1),
 
 &emsp;(3)
 
-Failure to comply.—If, within 4 years from the date that an apportionment for a State is withheld in accordance with this subsection, the Secretary determines that the State has enacted and is enforcing a law described in subsection (a), the apportionment of the State shall be increased by an amount equal to the amount withheld. If, at the end of such 4-year period, any State has not enacted or is not enforcing a law described in subsection (a) any amounts so withheld from such State shall lapse.
+Failure to comply.—If, within 4 years from the date that an apportionment for a State is withheld in accordance with this subsection, the Secretary determines that the State has enacted and is enforcing a law described in subsection (a), the apportionment of the State shall be increased by an amountequal to the amount withheld. If, at the end of such 4-year period, any State has not enacted or is not enforcing a law described in subsection (a) any amounts so withheld from such State shall lapse.
 
 (f)
 

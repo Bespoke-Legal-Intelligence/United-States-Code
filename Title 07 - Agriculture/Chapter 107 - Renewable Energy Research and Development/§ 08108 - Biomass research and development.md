@@ -190,7 +190,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the development of diverse cost-effective technologies for the use of cellulosic biomass in the production of biofuels and biobased products; and
 
-&emsp;&emsp;&emsp;(ii) product diversification through technologies relevant to production of a range of biobased products (including chemicals, animal feeds, and cogenerated power) thatpotentially can increase the feasibility of fuel production in a biorefinery.
+&emsp;&emsp;&emsp;(ii) product diversification through technologies relevant to production of a range of biobased products (including chemicals, animal feeds, and cogenerated power) that potentially can increase the feasibility of fuel production in a biorefinery.
 
 #### (C) Biofuels development analysis
 

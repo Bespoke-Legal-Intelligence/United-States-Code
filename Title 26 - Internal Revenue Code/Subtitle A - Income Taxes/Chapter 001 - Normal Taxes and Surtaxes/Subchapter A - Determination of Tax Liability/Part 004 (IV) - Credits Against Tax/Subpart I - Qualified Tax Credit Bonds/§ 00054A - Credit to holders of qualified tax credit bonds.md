@@ -34,7 +34,7 @@ If a taxpayer holds a qualified tax credit bond on one or more credit allowance 
 
 &emsp;&emsp;(A) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;&emsp;(B) the sum of the credits allowable under this part (other than subpart C and this subpart).
+&emsp;&emsp;(B) the sum of the credits allowable under this part (other than subparts C and J and this subpart).
 
 #### (2) Carryover of unused credit
 
@@ -52,9 +52,11 @@ For purposes of this section—
 
 &emsp;&emsp;(B) a new clean renewable energy bond,
 
-&emsp;&emsp;(C) a qualified energy conservation bond, or
+&emsp;&emsp;(C) a qualified energy conservation bond,
 
-&emsp;&emsp;(D) a qualified zone academy bond,
+&emsp;&emsp;(D) a qualified zone academy bond, or
+
+&emsp;&emsp;(E) a qualified school construction bond,
 
 > &emsp;which is part of an issue that meets requirements of paragraphs (2), (3), (4), (5), and (6).
 
@@ -90,9 +92,11 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) in the case of a new clean renewable energy bond, a purpose specified in section 54C(a)(1),
 
-&emsp;&emsp;&emsp;(iii) in the case of a qualified energy conservation bond, a purpose specified in section 54D(a)(1), and
+&emsp;&emsp;&emsp;(iii) in the case of a qualified energy conservation bond, a purpose specified in section 54D(a)(1),
 
-&emsp;&emsp;&emsp;(iv) in the case of a qualified zone academy bond, a purpose specified in section 54E(a)(1).
+&emsp;&emsp;&emsp;(iv) in the case of a qualified zone academy bond, a purpose specified in section 54E(a)(1), and
+
+&emsp;&emsp;&emsp;(v) in the case of a qualified school construction bond, a purpose specified in section 54F(a)(1).
 
 #### (D) Reimbursement
 
@@ -192,9 +196,9 @@ For purposes of this subtitle, the credit determined under subsection (a) shall 
 
 In the case of a tax credit bond held by an S corporation or partnership, the allocation of the credit allowed by this section to the shareholders of such corporation or partners of such partnership shall be treated as a distribution.
 
-#### (h) Bonds held by regulated investment companies and real estate investment trusts
+#### (h) Bonds held by real estate investment trusts
 
-If any qualified tax credit bond is held by a regulated investment company or a real estate investment trust, the credit determined under subsection (a) shall be allowed to shareholders of such company or beneficiaries of such trust (and any gross income included under subsection (f) with respect to such credit shall be treated as distributed to such shareholders or beneficiaries) under procedures prescribed by the Secretary.
+If any qualified tax credit bond is held by a real estate investment trust, the credit determined under subsection (a) shall be allowed to beneficiaries of such trust (and any gross income included under subsection (f) with respect to such credit shall be distributed to such beneficiaries) under procedures prescribed by the Secretary.
 
 #### (i) Credits may be stripped
 
@@ -208,13 +212,21 @@ Under regulations prescribed by the Secretary—
 
 &emsp;In the case of a separation described in paragraph (1), the rules of section 1286 shall apply to the qualified tax credit bond as if it were a stripped bond and to the credit under this section as if it were a stripped coupon.
 
-(Added Pub. L. 110–234, title XV, §15316(a), May 22, 2008, 122 Stat. 1505, and Pub. L. 110–246, §4(a), title XV, §15316(a), June 18, 2008, 122 Stat. 1664, 2267; amended Pub. L. 110–343, div. B, title I, §107(b)(1), (2), title III, §301(b)(1), (2), div. C, title III, §313(b)(1), (2), Oct. 3, 2008, 122 Stat. 3818, 3819, 3843, 3844, 3872.)
+(Added Pub. L. 110–234, title XV, §15316(a), May 22, 2008, 122 Stat. 1505, and Pub. L. 110–246, §4(a), title XV, §15316(a), June 18, 2008, 122 Stat. 1664, 2267; amended Pub. L. 110–343, div. B, title I, §107(b)(1), (2), title III, §301(b)(1), (2), div. C, title III, §313(b)(1), (2), Oct. 3, 2008, 122 Stat. 3818, 3819, 3843, 3844, 3872; Pub. L. 111–5, div. B, title I, §§1521(b)(1), (2), 1531(c)(2), 1541(b)(2), Feb. 17, 2009, 123 Stat. 357, 360, 362.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2009—Subsec. (c)(1)(B). Pub. L. 111–5, §1531(c)(2), substituted “subparts C and J” for “subpart C”.
+
+Subsec. (d)(1)(E). Pub. L. 111–5, §1521(b)(1), added subpar. (E).
+
+Subsec. (d)(2)(C)(v). Pub. L. 111–5, §1521(b)(2), added cl. (v).
+
+Subsec. (h). Pub. L. 111–5, §1541(b)(2), amended subsec. (h) generally. Prior to amendment, text read as follows: “If any qualified tax credit bond is held by a regulated investment company or a real estate investment trust, the credit determined under subsection (a) shall be allowed to shareholders of such company or beneficiaries of such trust (and any gross income included under subsection (f) with respect to such credit shall be treated as distributed to such shareholders or beneficiaries) under procedures prescribed by the Secretary.”
 
 2008—Subsec. (d)(1). Pub. L. 110–343, §301(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualified tax credit bond’ means—
 
@@ -237,6 +249,14 @@ Subsec. (d)(2)(C). Pub. L. 110–343, §301(b)(2), reenacted heading without cha
 Pub. L. 110–343, §107(b)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this paragraph, the term ‘qualified purpose’ means a purpose specified in section 54B(e).”
 
 Subsec. (d)(2)(C)(iv). Pub. L. 110–343, §313(b)(2), added cl. (iv).
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–5, div. B, title I, §1521(c), Feb. 17, 2009, 123 Stat. 357, provided that: “The amendments made by this section \[enacting section 54F of this title and amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Feb. 17, 2009\].”
+
+Amendment by section 1531(c)(2) of Pub. L. 111–5 applicable to obligations issued after Feb. 17, 2009, see section 1531(e) of Pub. L. 111–5, set out as a note under section 54 of this title.
+
+Amendment by section 1541(b)(2) of Pub. L. 111–5 applicable to taxable years ending after Feb. 17, 2009, see section 1541(c) of Pub. L. 111–5, set out as a note under section 54 of this title.
 
 #### Effective Date of 2008 Amendment
 

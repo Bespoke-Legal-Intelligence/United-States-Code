@@ -8,5 +8,5 @@ Section 404(a) of Pub. L. 104–99 provided in part that this section is repeale
 
 #### Economic Independence
 
-Pub. L. 102–550, title IX, §923, Oct. 28, 1992, 106 Stat. 3884, which provided that Secretary of Housing and Urban Development was to immediately implement section 12714 of this title and that other Federal agencies authorized to assist low-income families were to take similar steps to encourage economic independenceand the accumulation of assets, was repealed retroactive to Oct. 28, 1992, by Pub. L. 104–99, title IV, §404(b), Jan. 26, 1996, 110 Stat. 44, which further provided that section 923 of Pub. L. 102–550 was to be of no effect.
+Pub. L. 102–550, title IX, §923, Oct. 28, 1992, 106 Stat. 3884, which provided that Secretary of Housing and Urban Development was to immediately implement section 12714 of this title and that other Federal agencies authorized to assist low-income families were to take similar steps to encourage economic independence and the accumulation of assets, was repealed retroactive to Oct. 28, 1992, by Pub. L. 104–99, title IV, §404(b), Jan. 26, 1996, 110 Stat. 44, which further provided that section 923 of Pub. L. 102–550 was to be of no effect.
 

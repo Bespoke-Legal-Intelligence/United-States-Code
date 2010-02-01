@@ -9,11 +9,13 @@
 | [2114\.](%C2%A7%2002114%20-%20Students%20selection%3B%20status%3B%20obligation.md) | Students: selection; status; obligation. |
 | [2115\.](%C2%A7%2002115%20-%20Graduates%20limitation%20on%20number%20permitted%20to%20perform%20civilian%20Federal%20service.md) | Graduates: limitation on number permitted to perform civilian Federal service. |
 | [2116\.](%C2%A7%2002116%20-%20Military%20nursing%20research.md) | Military nursing research. |
-| [2117\.](%C2%A7%2002117%20-%20School%20of%20Nursing.md) | School of Nursing. |
+| \[2117. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. A, title V, §525(a)(3)(A), Oct. 28, 2009, 123 Stat. 2286, struck out item 2117 “School of Nursing”.
 
 2008—Pub. L. 110–181, div. A, title IX, §955(g)(2), Jan. 28, 2008, 122 Stat. 296, added item 2117.
 
@@ -41,4 +43,4 @@ Pub. L. 104–106, div. A, title VII, §741(b), title X, §1072(c)(2), Feb. 10, 
 - [&sect; 02114 - Students selection; status; obligation](%C2%A7%2002114%20-%20Students%20selection%3B%20status%3B%20obligation.md)
 - [&sect; 02115 - Graduates limitation on number permitted to perform civilian Federal service](%C2%A7%2002115%20-%20Graduates%20limitation%20on%20number%20permitted%20to%20perform%20civilian%20Federal%20service.md)
 - [&sect; 02116 - Military nursing research](%C2%A7%2002116%20-%20Military%20nursing%20research.md)
-- [&sect; 02117 - School of Nursing](%C2%A7%2002117%20-%20School%20of%20Nursing.md)
+- [&sect; 02117 - Repealed. Pub. L. 111&#8211;84, div. A, title V, &sect;525(a)(1), Oct. 28, 2009, 123 Stat. 2286](%C2%A7%2002117%20-%20Repealed.%20Pub.%20L.%20111%E2%80%9384%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7525%28a%29%281%29%2C%20Oct.%2028%2C%202009%2C%20123%20Stat.%202286.md)

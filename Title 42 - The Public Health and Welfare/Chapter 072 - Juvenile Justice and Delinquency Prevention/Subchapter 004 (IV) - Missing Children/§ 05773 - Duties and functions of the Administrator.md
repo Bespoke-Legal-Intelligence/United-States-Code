@@ -112,7 +112,7 @@ The Administrator shall—
 
 &emsp;&emsp;(R) operate a child victim identification program in order to assist the efforts of law enforcement agencies in identifying victims of child pornography and other sexual crimes; and
 
-&emsp;&emsp;(S) develop and disseminate programs and information to the general public, schools, public officials, youth-serving organizations, and nonprofit organizations, directly or through grants or contracts with publicagencies and public and private nonprofit organizations, on—
+&emsp;&emsp;(S) develop and disseminate programs and information to the general public, schools, public officials, youth-serving organizations, and nonprofit organizations, directly or through grants or contracts with public agencies and public and private nonprofit organizations, on—
 
 &emsp;&emsp;&emsp;(i) the prevention of child abduction and sexual exploitation; and
 
@@ -194,7 +194,7 @@ Amendment by Pub. L. 100–690 effective Oct. 1, 1988, with the report required 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (a)(5) of this section relating to submittal ofannual report to the Speaker of the House of Representatives and the President pro tempore of the Senate, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 2nd item on page 122 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (a)(5) of this section relating to submittal of annual report to the Speaker of the House of Representatives and the President pro tempore of the Senate, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 2nd item on page 122 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “case.”</i>
 

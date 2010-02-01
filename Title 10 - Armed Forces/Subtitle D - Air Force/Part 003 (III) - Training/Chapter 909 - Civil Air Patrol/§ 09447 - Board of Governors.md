@@ -22,7 +22,7 @@ Appointments From Interested Organizations.—(1) Subject to paragraph (2), the 
 
 (d)
 
-Chairman.—The Chairman of the Board of Governors shall be chosen by the members of the Board of Governors from among the members of the Board referred to in paragraphs (1) and (2) of subsection (b) and shall serve for a term of two years. The position of Chairman shall be held on a rotating basis between members of the Board appointed by the Secretary of the Air Force under paragraph (1) of subsection\(b) and members of the Board selected under paragraph (2) of that subsection.
+Chairman.—The Chairman of the Board of Governors shall be chosen by the members of the Board of Governors from among the members of the Board referred to in paragraphs (1) and (2) of subsection (b) and shall serve for a term of two years. The position of Chairman shall be held on a rotating basis between members of the Board appointed by the Secretary of the Air Force under paragraph (1) of subsection (b) and members of the Board selected under paragraph (2) of that subsection.
 
 (e)
 

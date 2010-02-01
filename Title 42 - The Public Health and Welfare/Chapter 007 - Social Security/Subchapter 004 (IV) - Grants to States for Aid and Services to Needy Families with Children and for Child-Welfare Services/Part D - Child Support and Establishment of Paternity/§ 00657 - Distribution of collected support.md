@@ -2,125 +2,59 @@
 
 #### (a) In general
 
-Subject to subsections (d) and (e) of this section, an amount collected on behalf of a family as support by a State pursuant to a plan approved under this part shall be distributed as follows:
+Subject to subsections (d) and (e), the amounts collected on behalf of a family as support by a State pursuant to a plan approved under this part shall be distributed as follows:
 
 #### (1) Families receiving assistance
 
 &emsp;In the case of a family receiving assistance from the State, the State shall—
 
-&emsp;&emsp;(A) pay to the Federal Government the Federal share of the amount so collected; and
+&emsp;&emsp;(A) pay to the Federal Government the Federal share of the amount collected, subject to paragraph (3)(A);
 
-&emsp;&emsp;(B) retain, or distribute to the family, the State share of the amount so collected.
+&emsp;&emsp;(B) retain, or pay to the family, the State share of the amount collected, subject to paragraph (3)(B); and
 
-> &emsp;In no event shall the total of the amounts paid to the Federal Government and retained by the State exceed the total of the amounts that have been paid to the family as assistance by the State.
+&emsp;&emsp;(C) pay to the family any remaining amount.
 
 #### (2) Families that formerly received assistance
 
 &emsp;In the case of a family that formerly received assistance from the State:
 
-#### (A) Current support payments
+#### (A) Current support
 
-&emsp;&emsp;To the extent that the amount so collected does not exceed the amount required to be paid to the family for the month in which collected, the State shall distribute the amount so collected to the family.
+&emsp;&emsp;To the extent that the amount collected does not exceed the current support amount, the State shall pay the amount to the family.
 
-#### (B) Payments of arrearages
+#### (B) Arrearages
 
-&emsp;&emsp;To the extent that the amount so collected exceeds the amount required to be paid to the family for the month in which collected, the State shall distribute the amount so collected as follows:
+&emsp;&emsp;Except as otherwise provided in an election made under section 654(34) of this title, to the extent that the amount collected exceeds the current support amount, the State—
 
-#### (i) Distribution of arrearages that accrued after the family ceased to receive assistance
+&emsp;&emsp;&emsp;(i) shall first pay to the family the excess amount, to the extent necessary to satisfy support arrearages not assigned pursuant to section 608(a)(3) of this title;
 
-#### (I) Pre-October 1997
+&emsp;&emsp;&emsp;(ii) if the amount collected exceeds the amount required to be paid to the family under clause (i), shall—
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), the provisions of this section as in effect and applied on the day before August 22, 1996 (other than subsection (b)(1) (as so in effect)), shall apply with respect to the distribution of support arrearages that—
+&emsp;&emsp;&emsp;&emsp;(I) pay to the Federal Government the Federal share of the excess amount described in this clause, subject to paragraph (3)(A); and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) accrued after the family ceased to receive assistance, and
+&emsp;&emsp;&emsp;&emsp;(II) retain, or pay to the family, the State share of the excess amount described in this clause, subject to paragraph (3)(B); and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) are collected before October 1, 1997.
+&emsp;&emsp;&emsp;(iii) shall pay to the family any remaining amount.
 
-#### (II) Post-September 1997
+#### (3) Limitations
 
-&emsp;&emsp;&emsp;&emsp;With respect to the amount so collected on or after October 1, 1997 (or before such date, at the option of the State)—
+#### (A) Federal reimbursements
 
-#### (aa) In general
+&emsp;&emsp;The total of the amounts paid by the State to the Federal Government under paragraphs (1) and (2) of this subsection with respect to a family shall not exceed the Federal share of the amount assigned with respect to the family pursuant to section 608(a)(3) of this title.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;The State shall first distribute the amount so collected (other than any amount described in clause (iv)) to the family to the extent necessary to satisfy any support arrearages with respect to the family that accrued after the family ceased to receive assistance from the State.
+#### (B) State reimbursements
 
-#### (bb) Reimbursement of governments for assistance provided to the family
+&emsp;&emsp;The total of the amounts retained by the State under paragraphs (1) and (2) of this subsection with respect to a family shall not exceed the State share of the amount assigned with respect to the family pursuant to section 608(a)(3) of this title.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;After the application of division (aa) and clause (ii)(II)(aa) with respect to the amount so collected, the State shall retain the State share of the amount so collected, and pay to the Federal Government the Federal share (as defined in subsection (c)(2) of this section) of the amount so collected, but only to the extent necessary to reimburse amounts paid to the family as assistance by the State.
-
-#### (cc) Distribution of the remainder to the family
-
-&emsp;&emsp;&emsp;&emsp;&emsp;To the extent that neither division (aa) nor division (bb) applies to the amount so collected, the State shall distribute the amount to the family.
-
-#### (ii) Distribution of arrearages that accrued before the family received assistance
-
-#### (I) Pre-October 2000
-
-&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), the provisions of this section as in effect and applied on the day before August 22, 1996 (other than subsection (b)(1) (as so in effect)), shall apply with respect to the distribution of support arrearages that—
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) accrued before the family received assistance, and
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) are collected before October 1, 2000.
-
-#### (II) Post-September 2000
-
-&emsp;&emsp;&emsp;&emsp;Unless, based on the report required by paragraph (5), the Congress determines otherwise, with respect to the amount so collected on or after October 1, 2000 (or before such date, at the option of the State)—
-
-#### (aa) In general
-
-&emsp;&emsp;&emsp;&emsp;&emsp;The State shall first distribute the amount so collected (other than any amount described in clause (iv)) to the family to the extent necessary to satisfy any support arrearages with respect to the family that accrued before the family received assistance from the State.
-
-#### (bb) Reimbursement of governments for assistance provided to the family
-
-&emsp;&emsp;&emsp;&emsp;&emsp;After the application of clause (i)(II)(aa) and division (aa) with respectto the amount so collected, the State shall retain the State share of the amount so collected, and pay to the Federal Government the Federal share (as defined in subsection (c)(2) of this section) of the amount so collected, but only to the extent necessary to reimburse amounts paid to the family as assistance by the State.
-
-#### (cc) Distribution of the remainder to the family
-
-&emsp;&emsp;&emsp;&emsp;&emsp;To the extent that neither division (aa) nor division (bb) applies to the amount so collected, the State shall distribute the amount to the family.
-
-#### (iii) Distribution of arrearages that accrued while the family received assistance
-
-&emsp;&emsp;&emsp;In the case of a family described in this subparagraph, the provisions of paragraph (1) shall apply with respect to the distribution of support arrearages that accrued while the family received assistance.
-
-#### (iv) Amounts collected pursuant to section 664
-
-&emsp;&emsp;&emsp;Notwithstanding any other provision of this section, any amount of support collected pursuant to section 664 of this title shall be retained by the State to the extent past-due support has been assigned to the State as a condition of receiving assistance from the State, up to the amount necessary to reimburse the State for amounts paid to the family as assistance by the State. The State shall pay to the Federal Government the Federal share of the amounts so retained. To the extent the amount collected pursuant to section 664 of this title exceeds the amount so retained, the State shall distribute the excess to the family.
-
-#### (v) Ordering rules for distributions
-
-&emsp;&emsp;&emsp;For purposes of this subparagraph, unless an earlier effective date is required by this section, effective October 1, 2000, the State shall treat any support arrearages collected, except for amounts collected pursuant to section 664 of this title, as accruing in the following order:
-
-&emsp;&emsp;&emsp;&emsp;(I) To the period after the family ceased to receive assistance.
-
-&emsp;&emsp;&emsp;&emsp;(II) To the period before the family received assistance.
-
-&emsp;&emsp;&emsp;&emsp;(III) To the period while the family was receiving assistance.
-
-#### (3) Families that never received assistance
+#### (4) Families that never received assistance
 
 &emsp;In the case of any other family, the State shall distribute to the family the portion of the amount so collected that remains after withholding any fee pursuant to section 654(6)(B)(ii) of this title.
 
-#### (4) Families under certain agreements
+#### (5) Families under certain agreements
 
-&emsp;In the case of an amount collected for a family in accordance with a cooperative agreement under section 654(33) of this title, distribute the amount so collected pursuant to the terms of the agreement.
+&emsp;Notwithstanding paragraphs (1) through (3), in the case of an amount collected for a family in accordance with a cooperative agreement under section 654(33) of this title, the State shall distribute the amount collected pursuant to the terms of the agreement.
 
-#### (5) Study and report
-
-&emsp;Not later than October 1, 1999, the Secretary shall report to the Congress the Secretary's findings with respect to—
-
-&emsp;&emsp;(A) whether the distribution of post-assistance arrearages to families has been effective in moving people off of welfare and keeping them off of welfare;
-
-&emsp;&emsp;(B) whether early implementation of a pre-assistance arrearage program by some States has been effective in moving people off of welfare and keeping them off of welfare;
-
-&emsp;&emsp;(C) what the overall impact has been of the amendments made by the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 with respect to child support enforcement in moving people off of welfare and keeping them off of welfare; and
-
-&emsp;&emsp;(D) based on the information and data the Secretary has obtained, what changes, if any, should be made in the policies related to the distribution of child support arrearages.
-
-#### (6) State option for applicability
-
-&emsp;Notwithstanding any other provision of this subsection, a State may elect to apply the rules described in clauses (i)(II), (ii)(II), and (v) of paragraph (2)(B) to support arrearages collected on and after October 1, 1998, and, if the State makes such an election, shall apply the provisions of this section, as in effect and applied on the day before August 22, 1996, other than subsection (b)(1) (as so in effect), to amounts collected before October 1, 1998.
-
-#### (7) State option to pass through additional support with Federal financial participation
+#### (6) State option to pass through additional support with Federal financial participation
 
 #### (A) Families that formerly received assistance
 
@@ -142,7 +76,25 @@ Subject to subsections (d) and (e) of this section, an amount collected on behal
 
 #### (b) Continuation of assignments
 
-Any rights to support obligations, assigned to a State as a condition of receiving assistance from the State under part A of this subchapter and in effect on September 30, 1997 (or such earlier date, on or after August 22, 1996, as the State may choose), shall remain assigned after such date.
+#### (1) State option to discontinue pre-1997 support assignments
+
+#### (A) In general
+
+&emsp;&emsp;Any rights to support obligations assigned to a State as a condition of receiving assistance from the State under part A and in effect on September 30, 1997 (or such earlier date on or after August 22, 1996, as the State may choose), may remain assigned after such date.
+
+#### (B) Distribution of amounts after assignment discontinuation
+
+&emsp;&emsp;If a State chooses to discontinue the assignment of a support obligation described in subparagraph (A), the State may treat amounts collected pursuant to the assignment as if the amounts had never been assigned and may distribute the amounts to the family in accordance with subsection (a)(4).
+
+#### (2) State option to discontinue post-1997 assignments
+
+#### (A) In general
+
+&emsp;&emsp;Any rights to support obligations accruing before the date on which a family first receives assistance under part A that are assigned to a State under that part and in effect before the implementation date of this section may remain assigned after such date.
+
+#### (B) Distribution of amounts after assignment discontinuation
+
+&emsp;&emsp;If a State chooses to discontinue the assignment of a support obligation described in subparagraph (A), the State may treat amounts collected pursuant to the assignment as if the amounts had never been assigned and may distribute the amounts to the family in accordance with subsection (a)(4).
 
 #### (c) Definitions
 
@@ -172,6 +124,10 @@ As used in subsection (a) of this section:
 
 &emsp;The term “State share” means 100 percent minus the Federal share.
 
+#### (5) Current support amount
+
+&emsp;The term “current support amount” means, with respect to amounts collected as support on behalf of a family, the amount designated as the monthly support obligation of the noncustodial parent in the order requiring the support or calculated by the State based on the order.
+
 #### (d) Gap payments not subject to distribution under this section
 
 At State option, this section shall not apply to any amount collected on behalf of a family as support by the State (and paid to the family in addition to the amount of assistance otherwise payable to the family) pursuant to a plan approved under this part if such amount would have been paid to the family by the State under section 602(a)(28) of this title, as in effect and applied on the day before August 22, 1996.
@@ -190,111 +146,25 @@ Notwithstanding the preceding provisions of this section, amounts collected by a
 
 (Aug. 14, 1935, ch. 531, title IV, §457, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2356; amended Pub. L. 95–171, §11, Nov. 12, 1977, 91 Stat. 1357; Pub. L. 97–35, title XXIII, §2332(e), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2640(b), July 18, 1984, 98 Stat. 1145; Pub. L. 98–378, §§7(a), 11(a), Aug. 16, 1984, 98 Stat. 1315, 1317; Pub. L. 99–514, title XVIII, §§1883(b)(6), 1899(a), Oct. 22, 1986, 100 Stat. 2917, 2957; Pub. L. 100–203, title IX, §9141(a)(1), Dec. 22, 1987, 101 Stat. 1330–321; Pub. L. 100–485, title I, §102(b), Oct. 13, 1988, 102 Stat. 2346; Pub. L. 104–193, title III, §302(a), Aug. 22, 1996, 110 Stat. 2200; Pub. L. 105–33, title V, §§5532(a), (b)(1), (c)–(h), 5547, Aug. 5, 1997, 111 Stat. 626, 627, 632; Pub. L. 106–169, title III, §301(a), (c), title IV, §401(j), (k), Dec. 14, 1999, 113 Stat. 1857, 1858; Pub. L. 109–171, title VII, §§7301(b)(1)(A), (B)(i), (iii), (2), (c), 7310(b), Feb. 8, 2006, 120 Stat. 141–143, 147.)
 
-#### Amendment of Section
-
-<i>Pub. L. 109–171, title VII, §7301(b)(1)(A), (2), (c), (e), Feb. 8, 2006, 120 Stat. 141, 143, 144, provided that, effective Oct. 1, 2009, and applicable to payments under parts A and D of this subchapter for calendar quarters beginning on or after such date, subject to certain State options, this section is amended as follows:</i>
-
-<i>(1) by amending subsection (a) to read as follows:</i>
-
-#### <i>“(a) In general</i>
-
-<i>“Subject to subsections (d) and (e), the amounts collected on behalf of a family as support by a State</i><i>pursuant to a plan approved under this part shall be distributed as follows:</i>
-
-#### <i>“(1) Families receiving assistance</i>
-
-&emsp;<i>“In the case of a family receiving assistance from the State, the State shall—</i>
-
-&emsp;&emsp;<i>“(A) pay to the Federal Government the Federal share of the amount collected, subject to paragraph (3)(A);</i>
-
-&emsp;&emsp;<i>“(B) retain, or pay to the family, the State share of the amount collected, subject to paragraph (3)(B); and</i>
-
-&emsp;&emsp;<i>“(C) pay to the family any remaining amount.</i>
-
-#### <i>“(2) Families that formerly received assistance</i>
-
-&emsp;<i>“In the case of a family that formerly received assistance from the State:</i>
-
-#### <i>“(A) Current support</i>
-
-&emsp;&emsp;<i>“To the extent that the amount collected does not exceed the current support amount, the State shall pay the amount to the family.</i>
-
-#### <i>“(B) Arrearages</i>
-
-&emsp;&emsp;<i>“Except as otherwise provided in an election made under section 654(34) of this title, to the extent that the amount collected exceeds the current support amount, the State—</i>
-
-&emsp;&emsp;&emsp;<i>“(i) shall first pay to the family the excess amount, to the extent necessary to satisfy support arrearages not assigned pursuant to section 608(a)(3) of this title;</i>
-
-&emsp;&emsp;&emsp;<i>“(ii) if the amount collected exceeds the amount required to be paid to the family under clause (i), shall—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(I) pay to the Federal Government the Federal share of the excess amount described in this clause, subject to paragraph (3)(A); and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(II) retain, or pay to the family, the State share of the excess amount described in this clause, subject to paragraph (3)(B); and</i>
-
-&emsp;&emsp;&emsp;<i>“(iii) shall pay to the family any remaining amount.</i>
-
-#### <i>“(3) Limitations</i>
-
-#### <i>“(A) Federal reimbursements</i>
-
-&emsp;&emsp;<i>“The total of the amounts paid by the State to the Federal Government under paragraphs (1) and (2) of this subsection with respect to a family shall not exceed the Federal share of the amount assigned with respect to the family pursuant to section 608(a)(3) of this title.</i>
-
-#### <i>“(B) State reimbursements</i>
-
-&emsp;&emsp;<i>“The total of the amounts retained by the State under paragraphs (1) and (2) of this subsection with respect to a family shall not exceed the State share of the amount assigned with respect to the family pursuant to section 608(a)(3) of this title.</i>
-
-#### <i>“(4) Families that never received assistance</i>
-
-&emsp;<i>“In the case of any other family, the State shall distribute to the family the portion of the amount so collected that remains after withholding any fee pursuant to section 654(6)(B)(ii) of this title.</i>
-
-#### <i>“(5) Families under certain agreements</i>
-
-&emsp;<i>“Notwithstanding paragraphs (1) through (3), in the case of an amount collected for a family in accordance with a cooperative agreement under section 654(33) of this title, the State shall distribute the amount collected pursuant to the terms of the agreement.”;</i>
-
-<i>(2) by amending subsection (b) to read as follows:</i>
-
-#### <i>“(b) Continuation of assignments</i>
-
-#### <i>“(1) State option to discontinue pre-1997 support assignments</i>
-
-#### <i>“(A) In general</i>
-
-&emsp;&emsp;<i>“Any rights to support obligations assigned to a State as a condition of receiving assistance from the State under part A and in effect on September 30, 1997 (or such earlier date on or after August 22, 1996, as the State may choose), may remain assigned after such date.</i>
-
-#### <i>“(B) Distribution of amounts after assignment discontinuation</i>
-
-&emsp;&emsp;<i>“If a State chooses to discontinue the assignment of a support obligation described in subparagraph (A), the State may treat amounts collected pursuant to the assignment as if the amounts had never been assigned and may distribute the amounts to the family in accordance with subsection (a)(4).</i>
-
-#### <i>“(2) State option to discontinue post-1997 assignments</i>
-
-#### <i>“(A) In general</i>
-
-&emsp;&emsp;<i>“Any rights to support obligations accruing before the date on which a family first receives assistance under part A that are assigned to a State under that part and in effect before the implementation date of this section may remain assigned after such date.</i>
-
-#### <i>“(B) Distribution of amounts after assignment discontinuation</i>
-
-&emsp;&emsp;<i>“If a State chooses to discontinue the assignment of a support obligation described in subparagraph (A), the State may treat amounts collected pursuant to the assignment as if the amounts had never been assigned and may distribute the amounts to the family in accordance with subsection (a)(4).”; and</i>
-
-<i>(3) by amending subsection (c) to add a new paragraph (5) at the end to read as follows:</i>
-
-#### <i>“(5) Current support amount</i>
-
-&emsp;<i>“The term ‘current support amount’ means, with respect to amounts collected as support on behalf of a family, the amount designated as the monthly support obligation of the noncustodial parent in the order requiring the support or calculated by the State based on the order.”</i>
-
-#### Amendment of Subsection (a)(7)
-
-<i>Pub. L. 109–171, title VII, §7301(b)(1)(B)(iii), Feb. 8, 2006, 120 Stat. 143, provided that, effective Oct. 1, 2009, paragraph (7) of subsection (a) of this section is redesignated as paragraph (6).</i>
-
 #### References in Text
 
-The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(5)(C), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1305 of this title and Tables.
-
-Parts A and E of this subchapter, referred to in subsecs. (b), (c)(1), and (e), are classified to sections 601 et seq. and 670 et seq., respectively, of this title.
+Parts A and E of this subchapter, referred to in subsecs. (b)(1)(A), (2)(A), (c)(1), and (e), are classified to sections 601 et seq. and 670 et seq., respectively, of this title.
 
 #### Amendments
 
-2006—Subsec. (a)(3). Pub. L. 109–171, §7310(b), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In the case of any other family, the State shall distribute the amount so collected to the family.”
+2006—Subsec. (a). Pub. L. 109–171, §7301(b)(1)(A), which directed general amendment of subsec. (a), was executed by adding pars. (1) to (5) and striking out former pars. (1) to (6), to reflect the probable intent of Congress and the amendment by Pub. L. 109–171, §7301(b)(1)(B)(iii). See below. Prior to amendment, pars. (1) to (6) related to families receiving assistance, families that formerly received assistance, families that never received assistance, families under certain agreements, the Secretary's report to Congress, and a State option for applicability, respectively.
 
-Subsec. (a)(7). Pub. L. 109–171, §7301(b)(1)(B)(i), added par. (7).
+Subsec. (a)(3). Pub. L. 109–171, §7310(b), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In the case of any other family, the State shall distribute the amount so collected to the family.”
+
+Subsec. (a)(6). Pub. L. 109–171, §7301(b)(1)(B)(iii), redesignated par. (7) as (6).
+
+Subsec. (a)(7). Pub. L. 109–171, §7301(b)(1)(B)(iii), redesignated par. (7) as (6).
+
+Pub. L. 109–171, §7301(b)(1)(B)(i), added par. (7).
+
+Subsec. (b). Pub. L. 109–171, §7301(c), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Any rights to support obligations, assigned to a State as a condition of receiving assistance from the State under part A of this subchapter and in effect on September 30, 1997 (or such earlier date, on or after August 22, 1996, as the State may choose), shall remain assigned after such date.”
+
+Subsec. (c)(5). Pub. L. 109–171, §7301(b)(2), added par. (5).
 
 1999—Subsec. (a). Pub. L. 106–169, §301(c)(1), substituted “subsections (d) and (e)” for “subsections (e) and (f)” in introductory provisions.
 

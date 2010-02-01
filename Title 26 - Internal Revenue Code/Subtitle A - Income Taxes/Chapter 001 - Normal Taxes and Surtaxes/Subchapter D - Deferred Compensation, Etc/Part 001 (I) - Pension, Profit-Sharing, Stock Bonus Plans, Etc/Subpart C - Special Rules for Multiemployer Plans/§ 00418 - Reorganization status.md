@@ -44,7 +44,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;&emsp;&emsp;(II) at the election of the plan sponsor, actuarial valuation of the plan as of the adjustment date or any later date not later than the last day of the plan year for which the determination is being made,
 
-&emsp;&emsp;&emsp;(ii) any change in benefits under the plan which is not otherwise taken into accountunder this subparagraph and which is pursuant to any amendment—
+&emsp;&emsp;&emsp;(ii) any change in benefits under the plan which is not otherwise taken into account under this subparagraph and which is pursuant to any amendment—
 
 &emsp;&emsp;&emsp;&emsp;(I) adopted before the end of the plan year for which the determination is being made, and
 
@@ -144,7 +144,7 @@ Except as provided in regulations prescribed by the Pension Benefit Guaranty Cor
 
 #### (d) Terminated plans
 
-Any multiemployer plan which terminates under section 4041A(a)(2) of the Employee Retirement Income Security Act of 1974 shall notbe considered in reorganization after the last day of the plan year in which the plan is treated as having terminated.
+Any multiemployer plan which terminates under section 4041A(a)(2) of the Employee Retirement Income Security Act of 1974 shall not be considered in reorganization after the last day of the plan year in which the plan is treated as having terminated.
 
 (Added Pub. L. 96–364, title II, §202(a), Sept. 26, 1980, 94 Stat. 1271.)
 
@@ -162,7 +162,7 @@ Section 210 of title II of Pub. L. 96–364 provided that:
 
 “(a) Except as otherwise provided in this section, the amendments made by this title \[amending sections 401, 404, 411 to 414, 4971, and 4975 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 26, 1980\].
 
-“(b) Subpart C of part I of subchapter D of chapter 1 of such Code (as added by this Act) \[sections 418 to 418E of this title\] shall take effect, with respect to each plan, on the first day of the first plan year beginning on or after the earlier of—
+“(b) Subpart C of part I of subchapter D of chapter 1 of such Code (as added by this Act) \[sections 418 to 418E of this title\] shall take effect, with respect to eachplan, on the first day of the first plan year beginning on or after the earlier of—
 
 &emsp;“(1) the date on which the last collective-bargaining agreement providing for employer contributions under the plan, which was in effect on the date of the enactment of this Act \[Sept. 26, 1980\], expires, without regard to extensions agreed to after such date of enactment, or
 

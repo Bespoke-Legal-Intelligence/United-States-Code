@@ -126,7 +126,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 #### (3) Specialized centers
 
-&emsp;The centers and sites described in paragraph (2) may have a specialization in addressing special needs, such as the needs of dislocated workers.
+&emsp;The centers and sites described in paragraph (2) may have a specialization in addressingspecial needs, such as the needs of dislocated workers.
 
 #### (d) Required local employment and training activities
 
@@ -282,7 +282,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 #### (E) Priority
 
-&emsp;&emsp;In the event that funds allocated to a local area for adult employment and training activities under paragraph (2)(A) or (3) of section 2863(b) of this title are limited, priority shall be given to recipients of public assistance and other low-income individuals for intensive services and training services. The appropriate local board and the Governor shall direct the one-stop operators in the local area with regard to making determinations related to such priority.
+&emsp;&emsp;In the event that funds allocated to a local area for adult employment and training activities under paragraph (2)(A) or (3) of section 2863(b) of this title are limited, priority shall be given to recipients of public assistance and other low-income individuals for intensive services and training services. The appropriate local board and the Governor shall direct the one-stop operators in thelocal area with regard to making determinations related to such priority.
 
 #### (F) Consumer choice requirements
 

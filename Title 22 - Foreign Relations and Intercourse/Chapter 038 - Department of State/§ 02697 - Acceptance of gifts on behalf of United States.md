@@ -32,7 +32,7 @@ The authorities available to the Secretary of State under this section with resp
 
 1998—Subsec. (f). Pub. L. 105–277, §1422(b)(3)(A), substituted “Administrator of the Agency for International Development” for “Director of the United States International Development Cooperation Agency”.
 
-Pub. L. 105–277, §1335(<i>l</i>)(2), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency” and “with respect to the Boardand the Agency” for “with respect to their respective agencies”.
+Pub. L. 105–277, §1335(<i>l</i>)(2), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency” and “with respect to the Board and the Agency” for “with respect to their respective agencies”.
 
 1987—Subsec. (b). Pub. L. 100–204 inserted “, but shall not be expended for representational purposes at United States missions except in accordance with the conditions that apply to appropriated funds” before period at end of last sentence.
 

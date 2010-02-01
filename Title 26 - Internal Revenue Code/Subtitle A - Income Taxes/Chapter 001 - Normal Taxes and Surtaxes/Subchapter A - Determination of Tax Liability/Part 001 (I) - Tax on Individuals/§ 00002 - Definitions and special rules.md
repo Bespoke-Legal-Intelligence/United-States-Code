@@ -22,7 +22,7 @@
 
 #### (3) Special rule where deceased spouse was in missing status
 
-&emsp;If an individual was in a missing status (within the meaning of section 6013(f)(3)) as a result of service in a combat zone (as determined for purposes of section 112) and if such individual remains in such status until the date referred to in subparagraph (A) or (B), then, for purposes of paragraph (1)(A), the date on which such individual died shall be treated as the earlier of the date determined under subparagraph (A) or the date determined under subparagraph (B):
+&emsp;If an individual was in a missing status (within the meaning of section 6013(f)(3)) as aresult of service in a combat zone (as determined for purposes of section 112) and if such individual remains in such status until the date referred to in subparagraph (A) or (B), then, for purposes of paragraph (1)(A), the date on which such individual died shall be treated as the earlier of the date determined under subparagraph (A) or the date determined under subparagraph (B):
 
 &emsp;&emsp;(A) the date on which the determination is made under section 556 of title 37 of the United States Code or under section 5566 of title 5 of such Code (whichever is applicable) that such individual died while in such missing status, or
 
@@ -164,7 +164,7 @@ Amendment by Pub. L. 93–597 applicable to taxable years ending on or after Feb
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1970, except that subsec.\(c) is applicable to taxable years beginning after Dec. 31, 1969, see section 803(f) of Pub. L. 91–172, set out as a note under section 1 of this title.
+Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1970, except that subsec. (c) is applicable to taxable years beginning after Dec. 31, 1969, see section 803(f) of Pub. L. 91–172, set out as a note under section 1 of this title.
 
 #### Effective Date of 1964 Amendment
 

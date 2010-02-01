@@ -6,7 +6,7 @@ There is established within the Department an independent regulatory commission 
 
 #### (b) Composition; term of office; conflict of interest; expiration of terms
 
-(1) The Commission shall be composed of five members appointed by the President, by and with the advice and consent of the Senate. One of the members shall be designated by the President as Chairman. Members shall hold office for a term of 5 years and may be removed by the President only for inefficiency, neglect of duty, or malfeasance in office. Not more than three members of the Commission shall be members of the same political party. Any Commissioner appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A Commissioner may continue to serve after the expiration of his term until his successor is appointed and has been confirmed and taken the oath of Office, except that such Commissioner shall not serve beyond the end of the session of the Congress in which such term expires. Members of the Commission shall not engage in any other business, vocation, or employment while serving on the Commission.
+(1) The Commission shall be composed of five members appointed by the President, by and with the advice and consent of the Senate. One of the members shall be designated by the President as Chairman. Members shall hold office for a term of 5 years and may be removed by the President only for inefficiency, neglect of duty, or malfeasance in office. Not more than three members of the Commission shall be members of the same political party. Any Commissioner appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A Commissioner may continue to serve after the expiration of his term until his successor is appointed and has beenconfirmed and taken the oath of Office, except that such Commissioner shall not serve beyond the end of the session of the Congress in which such term expires. Members of the Commission shall not engage in any other business, vocation, or employment while serving on the Commission.
 
 (2) Notwithstanding the third sentence of paragraph (1), the terms of members first taking office after April 11, 1990, shall expire as follows:
 
@@ -52,7 +52,7 @@ In each annual authorization and appropriation request under this chapter, the S
 
 #### References in Text
 
-This chapter, referred to in subsecs. (i) and (j), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+This chapter, referred to in subsecs. (i) and (j), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4,1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### Amendments
 
@@ -87,6 +87,10 @@ Report.—The Commission shall transmit the study and the model regulations to C
 Pub. L. 99–500, §101(e) \[title III\], Oct. 18, 1986, 100 Stat. 1783–194, 1783–208, and Pub. L. 99–591, §101(e) \[title III\], Oct. 30, 1986, 100 Stat. 3341–194, 3341–208, provided in part: “That hereafter and notwithstanding any other provision of law revenues from licensing fees, inspection services, and other services and collections, estimated at $78,754,000 in fiscal year 1987, may be retained and used for necessary expenses in this account, and may remain available until expended: <i>Provided further</i>, That the sum herein appropriated shall be reduced as revenues are received during fiscal year 1987, so as to result in a final fiscal year 1987 appropriation estimated at not more than $20,325,000.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 111–85, title III, Oct. 28, 2009, 123 Stat. 2871.
+
+Pub. L. 111–8, div. C, title III, Mar. 11, 2009, 123 Stat. 625.
 
 Pub. L. 110–161, div. C, title III, Dec. 26, 2007, 121 Stat. 1966.
 

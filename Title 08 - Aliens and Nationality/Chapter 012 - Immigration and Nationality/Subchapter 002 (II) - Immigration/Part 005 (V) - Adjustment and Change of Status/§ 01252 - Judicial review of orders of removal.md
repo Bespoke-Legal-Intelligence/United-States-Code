@@ -92,7 +92,7 @@ With respect to review of an order of removal under subsection (a)(1) of this se
 
 #### (A) Court determination if no issue of fact
 
-&emsp;&emsp;If the petitioner claims to be a national of the United States and the court of appealsfinds from the pleadings and affidavits that no genuine issue of material fact about the petitioner's nationality is presented, the court shall decide the nationality claim.
+&emsp;&emsp;If the petitioner claims to be a national of the United States and the court of appeals finds from the pleadings and affidavits that no genuine issue of material fact about the petitioner's nationality is presented, the court shall decide the nationality claim.
 
 #### (B) Transfer if issue of fact
 
@@ -142,7 +142,7 @@ With respect to review of an order of removal under subsection (a)(1) of this se
 
 #### (9) Consolidation of questions for judicial review
 
-&emsp;Judicial review of all questions of law and fact, including interpretation and application of constitutional and statutory provisions, arising from any action taken or proceeding brought to remove an alien from the United States under this subchapter shall be available only in judicial review of a final order under this section. Except as otherwise provided in this section, no court shall have jurisdiction, by habeas corpus under section 2241 of title 28 or any other habeas corpus provision, by section 1361 or 1651 of such title, or by any other provision of law (statutory or nonstatutory), to review such an order or such questions of law or fact.
+&emsp;Judicial review of all questions of law and fact, including interpretation and application of constitutional and statutory provisions, arising from any action taken or proceedingbrought to remove an alien from the United States under this subchapter shall be available only in judicial review of a final order under this section. Except as otherwise provided in this section, no court shall have jurisdiction, by habeas corpus under section 2241 of title 28 or any other habeas corpus provision, by section 1361 or 1651 of such title, or by any other provision of law (statutory or nonstatutory), to review such an order or such questions of law or fact.
 
 #### (c) Requirements for petition
 
@@ -166,7 +166,7 @@ A court may review a final order of removal only if—
 
 &emsp;Without regard to the nature of the action or claim and without regard to the identity of the party or parties bringing the action, no court may—
 
-&emsp;&emsp;(A) enter declaratory, injunctive, or other equitable relief in any action pertaining to an order to exclude an alien in accordancewith section 1225(b)(1) of this title except as specifically authorized in a subsequent paragraph of this subsection, or
+&emsp;&emsp;(A) enter declaratory, injunctive, or other equitable relief in any action pertaining to an order to exclude an alien in accordance with section 1225(b)(1) of this title except as specifically authorized in a subsequent paragraph of this subsection, or
 
 &emsp;&emsp;(B) certify a class under Rule 23 of the Federal Rules of Civil Procedure in any action for which judicial review is authorized under a subsequent paragraph of this subsection.
 
@@ -228,7 +228,7 @@ A court may review a final order of removal only if—
 
 Except as provided in this section and notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, no court shall have jurisdiction to hear any cause or claim by or on behalf of any alien arising from the decision or action by the Attorney General to commence proceedings, adjudicate cases, or execute removal orders against any alien under this chapter.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §242, 66 Stat. 208; Sept. 3, 1954, ch. 1263, §17, 68 Stat. 1232; Pub. L. 97–116, §18(h)(1), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 98–473, title II, §220(b), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–603, title VII, §701, Nov. 6, 1986, 100 Stat. 3445; Pub. L. 100–525, §9(n), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 100–690, title VII, §7343(a), Nov. 18, 1988, 102 Stat. 4470; Pub. L.101–649, title V, §§504(a), 545(e), title VI, §603(b)(2), Nov. 29, 1990, 104 Stat. 5049, 5066, 5085; Pub. L. 102–232, title III, §§306(a)(4), (c)(7), 307(m)(2), 309(b)(9), Dec. 12, 1991, 105 Stat. 1751, 1753, 1757, 1759; Pub. L. 103–322, title II, §20301(a), title XIII, §130001(a), Sept. 13, 1994, 108 Stat. 1823, 2023; Pub. L. 103–416, title II, §§219(h), 224(b), Oct. 25, 1994, 108 Stat. 4317, 4324; Pub. L. 104–132, title IV, §§436(a), (b)(1), 438(a), 440(c), (h), Apr. 24, 1996, 110 Stat. 1275, 1277, 1279; Pub. L. 104–208, div. C, title III, §§306(a), (d), 308(g)(10)(H), 371(b)(6), Sept. 30, 1996, 110 Stat. 3009–607, 3009–612, 3009–625, 3009–645; Pub. L. 109–13, div. B, title I, §§101(e), (f), 106(a), May 11, 2005, 119 Stat. 305, 310.)
+(June 27, 1952, ch. 477, title II, ch. 5, §242, 66 Stat. 208; Sept. 3, 1954, ch. 1263, §17, 68 Stat. 1232; Pub. L. 97–116, §18(h)(1), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 98–473, title II, §220(b), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–603, title VII, §701, Nov. 6, 1986, 100 Stat. 3445; Pub. L. 100–525, §9(n), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 100–690, title VII, §7343(a), Nov. 18, 1988, 102 Stat. 4470; Pub. L. 101–649, title V, §§504(a), 545(e), title VI, §603(b)(2), Nov. 29, 1990, 104 Stat. 5049, 5066, 5085; Pub. L. 102–232, title III, §§306(a)(4), (c)(7), 307(m)(2), 309(b)(9), Dec. 12, 1991, 105 Stat. 1751, 1753, 1757, 1759; Pub. L. 103–322, title II, §20301(a), title XIII, §130001(a), Sept. 13, 1994, 108 Stat. 1823, 2023; Pub. L. 103–416, title II, §§219(h), 224(b), Oct. 25, 1994, 108 Stat. 4317, 4324; Pub. L. 104–132, title IV, §§436(a), (b)(1), 438(a), 440(c), (h), Apr. 24, 1996, 110 Stat. 1275, 1277, 1279; Pub. L. 104–208, div. C, title III, §§306(a), (d), 308(g)(10)(H), 371(b)(6), Sept. 30, 1996, 110 Stat. 3009–607, 3009–612, 3009–625, 3009–645; Pub. L. 109–13, div. B, title I, §§101(e), (f), 106(a), May 11, 2005, 119 Stat. 305, 310.)
 
 #### References in Text
 
@@ -374,7 +374,7 @@ Section 20301(b) of Pub. L. 103–322 provided that: “The amendment made by su
 
 #### Effective Date of 1991 Amendment
 
-Amendment by section 306(a)(4), (c)(7) of Pub. L. 102–232 effective as if included in the enactment of theImmigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by section 306(a)(4), (c)(7) of Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 Section 307(m)(2) of Pub. L. 102–232 provided that the amendment made by that section is effective as if included in section 603(b) of the Immigration Act of 1990, Pub. L. 101–649.
 
@@ -434,7 +434,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Transfer of Cases
 
-Pub. L. 109–13, div. B, title I, §106(c), May 11, 2005, 119 Stat. 311, provided that: “If an alien's case, brought under section 2241 of title 28, United States Code, and challenging a final administrative order of removal, deportation, or exclusion, is pending in a district court on the date of the enactment of this division \[May 11, 2005\], then the district court shall transfer the case (or the part of the case that challenges the order of removal, deportation, or exclusion) to the court of appeals for the circuit in which a petition for review could have been properly filed under section 242(b)(2) of the Immigration and Nationality Act (8 U.S.C. 1252), as amended by this section, or under section 309(c)(4)(D) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208, div. C\] (8 U.S.C. 1101 note). The court of appeals shall treat the transferred case as if it had been filed pursuant to a petition for review under such section 242, except that subsection (b)(1) of such section shall not apply.”
+Pub. L. 109–13, div. B, title I, §106(c), May 11, 2005, 119 Stat. 311, provided that: “If an alien's case, broughtunder section 2241 of title 28, United States Code, and challenging a final administrative order of removal, deportation, or exclusion, is pending in a district court on the date of the enactment of this division \[May 11, 2005\], then the district court shall transfer the case (or the part of the case that challenges the order of removal, deportation, or exclusion) to the court of appeals for the circuit in which a petition for review could have been properly filed under section 242(b)(2) of the Immigration and Nationality Act (8 U.S.C. 1252), as amended by this section, or under section 309(c)(4)(D) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208, div. C\] (8 U.S.C. 1101 note). The court of appeals shall treat the transferred case as if it had been filed pursuant to a petition for review under such section 242, except that subsection (b)(1) of such section shall not apply.”
 
 #### Transitional Rule Cases
 
@@ -450,7 +450,7 @@ Section 130008 of Pub. L. 103–322 provided that:
 
 “(a)
 
-In General.—Subject to subsection (b) and notwithstanding any other provision of law, the Attorney General, in the discretion of the Attorney General, may accept, hold, administer, and utilize gifts of propertyand services (which may not include cash assistance) from State and local governments for the purpose of assisting the Immigration and Naturalization Service in the transportation of deportable aliens who are arrested for misdemeanor or felony crimes under State or Federal law and who are either unlawfully within the United States or willing to submit to voluntary departure under safeguards. Any property acquired pursuant to this section shall be acquired in the name of the United States.
+In General.—Subject to subsection (b) and notwithstanding any other provision of law, the Attorney General, in the discretion of the Attorney General, may accept, hold, administer, and utilize gifts of property and services (which may not include cash assistance) from State and local governments for the purpose of assisting the Immigration and Naturalization Service in the transportation of deportable aliens who are arrested for misdemeanor or felony crimes under State or Federal law and who are either unlawfully within the United States or willing to submit to voluntary departure under safeguards. Any property acquired pursuant to this section shall be acquired in the name of the United States.
 
 “(b)
 

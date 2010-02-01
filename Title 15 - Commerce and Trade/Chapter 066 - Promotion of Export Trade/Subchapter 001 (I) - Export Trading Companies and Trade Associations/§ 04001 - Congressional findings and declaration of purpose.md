@@ -4,7 +4,7 @@
 
 &emsp;(1) United States exports are responsible for creating and maintaining one out of every nine manufacturing jobs in the United States and for generating one out of every seven dollars of total United States goods produced;
 
-&emsp;(2) the rapidly growing service-related industries are vital to the well-being of the UnitedStates economy inasmuch as they create jobs for seven out of every ten Americans, provide 65 per centum of the Nation's gross national product, and offer the greatest potential for significantly increased industrial trade involving finished products;
+&emsp;(2) the rapidly growing service-related industries are vital to the well-being of the United States economy inasmuch as they create jobs for seven out of every ten Americans, provide 65 per centum of the Nation's gross national product, and offer the greatest potential for significantly increased industrial trade involving finished products;
 
 &emsp;(3) trade deficits contribute to the decline of the dollar on international currency markets and have an inflationary impact on the United States economy;
 

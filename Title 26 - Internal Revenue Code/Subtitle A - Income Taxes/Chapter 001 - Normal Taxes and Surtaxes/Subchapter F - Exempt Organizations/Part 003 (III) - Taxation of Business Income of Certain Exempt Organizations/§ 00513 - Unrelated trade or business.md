@@ -50,7 +50,7 @@ For purposes of this section, the term “trade or business” includes any acti
 
 #### (C) Qualifying organization
 
-&emsp;&emsp;For purposes of this paragraph, the term “qualifying organization” means an organization which is described in section 501(c) (3), (4), or (5) which regularly conducts, as one of its substantial exempt purposes, an agricultural and educational fair or exposition.
+&emsp;&emsp;For purposes of this paragraph, the term “qualifying organization” means an organization which is described in section 501(c) (3), (4), or (5) which regularly conducts, as one of its substantial exempt purposes, anagricultural and educational fair or exposition.
 
 #### (3) Qualified convention and trade show activities
 
@@ -206,7 +206,7 @@ The term “unrelated trade or business” includes the provision of debt manage
 
 1993—Subsec. (h)(2)(C)(ii). Pub. L. 103–66 substituted “calendar year 1992” for “calendar year 1989”.
 
-1990—Subsec. (h)(2)(C)(ii). Pub. L. 101–508 inserted before period at end “, by substituting ‘calendar year 1987’ for ‘calendar year 1989’ in subparagraph (B) thereof”.
+1990—Subsec. (h)(2)(C)(ii). Pub. L. 101–508 inserted before period at end “, by substituting ‘calendar year1987’ for ‘calendar year 1989’ in subparagraph (B) thereof”.
 
 1986—Subsec. (d)(3)(B). Pub. L. 99–514, §1602(a), inserted “or to educate persons in attendance regarding new developments or products and services related to the exempt activities of the organization”.
 

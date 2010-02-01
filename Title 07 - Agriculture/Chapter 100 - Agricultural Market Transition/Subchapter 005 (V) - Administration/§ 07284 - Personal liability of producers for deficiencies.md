@@ -12,7 +12,7 @@ Subsection (a) of this section shall not prevent the Commodity Credit Corporatio
 
 &emsp;(2) a failure to properly care for and preserve a commodity; or
 
-&emsp;(3) a failure or refusal to deliver a commodity in accordance with a program established under this chapter <sup>1</sup> title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7901 et seq.\], and title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\].
+&emsp;(3) a failure or refusal to deliver a commodity in accordance with a program establishedunder this chapter <sup>1</sup> title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7901 et seq.\], and title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\].
 
 #### (c) Acquisition of collateral
 
@@ -20,7 +20,7 @@ In the case of a nonrecourse loan made under this chapter <sup>1</sup> title I 
 
 #### (d) Sugarcane and sugar beets
 
-A security interest obtained by the Commodity Credit Corporation as a result of the execution of a security agreement by the processor of sugarcane or sugar beets shall be superior to allstatutory and common law liens on raw cane sugar and refined beet sugar in favor of the producers of sugarcane and sugar beets and all prior recorded and unrecorded liens on the crops of sugarcane and sugar beets from which the sugar was derived.
+A security interest obtained by the Commodity Credit Corporation as a result of the execution of a security agreement by the processor of sugarcane or sugar beets shall be superior to all statutory and common law liens on raw cane sugar and refined beet sugar in favor of the producers of sugarcane and sugar beets and all prior recorded and unrecorded liens on the crops of sugarcane and sugar beets from which the sugar was derived.
 
 (Pub. L. 104–127, title I, §164, Apr. 4, 1996, 110 Stat. 935; Pub. L. 107–171, title I, §1607, May 13, 2002, 116 Stat. 218; Pub. L. 110–234, title I, §1606, May 22, 2008, 122 Stat. 1017; Pub. L. 110–246, §4(a), title I, §1606, June 18, 2008, 122 Stat. 1664, 1746.)
 

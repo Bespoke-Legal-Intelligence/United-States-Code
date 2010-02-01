@@ -4,7 +4,7 @@ Subpart B—Other Credits
 | :--- | ---: |
 | [27\.](%C2%A7%2000027%20-%20Taxes%20of%20foreign%20countries%20and%20possessions%20of%20the%20United%20States%3B%20possession%20tax%20credit.md) | Taxes of foreign countries and possessions of the United States; possession tax credit. |
 | \[28, 29. | Renumbered.\] |
-| [30\.](%C2%A7%2000030%20-%20Credit%20for%20qualified%20electric%20vehicles.md) | Credit for qualified electric vehicles. |
+| [30\.](%C2%A7%2000030%20-%20Certain%20plug-in%20electric%20vehicles.md) | Certain plug-in electric vehicles. |
 | [30A.](%C2%A7%2000030A%20-%20Puerto%20Rico%20economic%20activity%20credit.md) | Puerto Rico economic activity credit. |
 | [30B.](%C2%A7%2000030B%20-%20Alternative%20motor%20vehicle%20credit.md) | Alternative motor vehicle credit. |
 | [30C.](%C2%A7%2000030C%20-%20Alternative%20fuel%20vehicle%20refueling%20property%20credit.md) | Alternative fuel vehicle refueling property credit. |
@@ -13,6 +13,8 @@ Subpart B—Other Credits
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–5, div. B, title I, §1142(b)(8), Feb. 17, 2009, 123 Stat. 331, substituted “Certain plug-in electric vehicles” for “Credit for qualified electric vehicles” in item 30.
 
 2008—Pub. L. 110–343, div. B, title II, §205(d)(4), Oct. 3, 2008, 122 Stat. 3839, added item 30D.
 
@@ -40,7 +42,7 @@ Pub. L. 109–58, title XIII, §§1322(a)(3)(K), 1341(b)(5), 1342(b)(5), Aug. 8,
 - [&sect; 00027 - Taxes of foreign countries and possessions of the United States; possession tax credit](%C2%A7%2000027%20-%20Taxes%20of%20foreign%20countries%20and%20possessions%20of%20the%20United%20States%3B%20possession%20tax%20credit.md)
 - [&sect; 00028 - Renumbered &sect;45C](%C2%A7%2000028%20-%20Renumbered%20%C2%A745C.md)
 - [&sect; 00029 - Renumbered &sect;45K](%C2%A7%2000029%20-%20Renumbered%20%C2%A745K.md)
-- [&sect; 00030 - Credit for qualified electric vehicles](%C2%A7%2000030%20-%20Credit%20for%20qualified%20electric%20vehicles.md)
+- [&sect; 00030 - Certain plug-in electric vehicles](%C2%A7%2000030%20-%20Certain%20plug-in%20electric%20vehicles.md)
 - [&sect; 00030A - Puerto Rico economic activity credit](%C2%A7%2000030A%20-%20Puerto%20Rico%20economic%20activity%20credit.md)
 - [&sect; 00030B - Alternative motor vehicle credit](%C2%A7%2000030B%20-%20Alternative%20motor%20vehicle%20credit.md)
 - [&sect; 00030C - Alternative fuel vehicle refueling property credit](%C2%A7%2000030C%20-%20Alternative%20fuel%20vehicle%20refueling%20property%20credit.md)

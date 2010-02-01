@@ -14,11 +14,23 @@ The Board may authorize the Secretary of the Treasury to invest and reinvest suc
 
 #### (d) Loans to fund, limitation and terms; interest accrual; determination of interest rate
 
-(1) If, in the judgment of the Board, a loan to the fund is required at any time for carrying out the purposes of this subchapter, the Secretary of the Treasury shall make the loan, but loans under this paragraph shall not exceed in the aggregate $100,000,000 outstanding at any one time. Except as otherwise provided in this subsection and in subsection (e) of this section, each loan under this paragraph shall be made on such terms as may be fixed by agreement between the Board and the Secretary of the Treasury.
+(1) If, in the judgment of the Board, a loan to the insurance fund, or to the stabilization fund described in section 1790e of this title, is required at any time for purposes of this subchapter,<sup>1</sup> the Secretary of the Treasury shall make the loan, but loans under this paragraph shall not exceed in the aggregate $6,000,000,000 outstanding at any one time. Except as otherwise provided in this subsection, section 1790e of this title, and in subsection (e) of this section, each loan under this paragraph shall be made on such terms as may be fixed by agreement between the Board and the Secretary of the Treasury.
 
-(2) Interest shall accrue to the Treasury on the amount of any outstanding loans made to the fund pursuant to paragraph (1) of this subsection on the basis of the average daily amount of such outstanding loans determined at the close of each fiscal year with respect to such year, and the Board shall pay the interest so accruing intothe Treasury as miscellaneous receipts annually from the fund. The Secretary of the Treasury shall determine the applicable interest rate in advance by calculating the average yield to maturity (on the basis of daily closing market bid quotations during the month of September of the preceding fiscal year) on outstanding marketable public debt obligations of the United States having a maturity date of five or less years from the first day of such month of September and by adjusting such yield to the nearest one-eighth of 1 per centum.
+(2) Interest shall accrue to the Treasury on the amount of any outstanding loans made to the fund pursuant to paragraph (1) of this subsection on the basis of the average daily amount of such outstanding loans determined at the close of each fiscal year with respect to such year, and the Board shall pay the interest so accruing into the Treasury as miscellaneous receipts annually from the fund. The Secretary of the Treasury shall determine the applicable interest rate in advance by calculating the average yield to maturity (on the basis of daily closing market bid quotations during the month of September of the preceding fiscal year) on outstanding marketable public debt obligations of the United States having a maturity date of five or less years from the first day of such month of September and by adjusting such yield to the nearest one-eighth of 1 per centum.
 
 (3) For the purpose of making loans under paragraph (1) of this subsection, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are hereby extended to include such loans. All loans and repayments under this section shall be treated as public debt transactions of the United States.
+
+(4)
+
+Temporary increases authorized.—
+
+&emsp;(A)
+
+Recommendations for increase.—During the period beginning on May 20, 2009, and ending on December 31, 2010, if, upon the written recommendation of the Board (upon a vote of not less than two-thirds of the members of the Board) and the Board of Governors of the Federal Reserve System (upon a vote of not less than two-thirds of the members of such Board), the Secretary of the Treasury (in consultation with the President) determines that additional amounts above the $6,000,000,000 amount specified in paragraph (1) are necessary, such amount shall be increased to the amount so determined to be necessary, not to exceed $30,000,000,000.
+
+&emsp;(B)
+
+Report required.—If the borrowing authority of the Board is increased above $6,000,000,000 pursuant to subparagraph (A), the Board shall promptly submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives describing the reasons and need for the additional borrowing authority and its intended uses.
 
 #### (e) Excess funds credited against loans
 
@@ -28,13 +40,21 @@ So long as any loans to the fund are outstanding, the Board shall from time to t
 
 In addition to the authority to borrow from the Secretary of the Treasury provided in subsection (d) of this section, if in the judgment of the Board, a loan to the fund is required at any time for carrying out the purposes of this subchapter, the fund is authorized to borrow from the National Credit Union Administration Central Liquidity Facility.
 
-(June 26, 1934, ch. 750, title II, §203, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 999; amended Pub. L. 94–273, §2(4), Apr. 21, 1976, 90 Stat. 375; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, §530, Oct. 15, 1982, 96 Stat. 1535; Pub. L. 98–369, div. B, title VIII, §2811, July 18, 1984, 98 Stat. 1206.)
+(June 26, 1934, ch. 750, title II, §203, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 999; amended Pub. L. 94–273, §2(4), Apr. 21, 1976, 90 Stat. 375; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, §530, Oct. 15, 1982, 96 Stat. 1535; Pub. L. 98–369, div. B, title VIII, §2811, July 18, 1984, 98 Stat. 1206; Pub. L. 111–22, div. A, title II, §204(c)(2), (3), May 20, 2009, 123 Stat. 1650.)
+
+#### References in Text
+
+This subchapter, referred to in subsec. (d)(1), probably should have been a reference to this title in the original, meaning title II of act June 26, 1934, ch. 750, which is classified generally to this subchapter.
 
 #### Codification
 
 In subsec. (d)(3), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+2009—Subsec. (d)(1). Pub. L. 111–22, §204(c)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “If, in the judgment of the Board, a loan to the fund is required at any time for carrying out the purposes of this subchapter, the Secretary of the Treasuryshall make the loan, but loans under this paragraph shall not exceed in the aggregate $100,000,000 outstanding at any one time. Except as otherwise provided in this subsection and in subsection (e) of this section, each loan under this paragraph shall be made on such terms as may be fixed by agreement between the Board and the Secretary of the Treasury.”
+
+Subsec. (d)(4). Pub. L. 111–22, §204(c)(3), added par. (4).
 
 1984—Subsec. (b). Pub. L. 98–369 inserted “deposits and” and provisions relating to annual reporting requirements by the Board.
 
@@ -51,4 +71,6 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

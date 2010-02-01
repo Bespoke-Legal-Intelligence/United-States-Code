@@ -50,7 +50,7 @@ Alternatives to Live In-Court Testimony.—
 
 Child's live testimony by 2-way closed circuit television.—
 
-&emsp;&emsp;(A) In a proceeding involving an alleged offense against a child, the attorney for the Government, the child's attorney, or a guardian ad litem appointed under subsection (h) may apply for an order that the child's testimony be taken in a room outside the courtroom and be televised by 2-way closed circuit television. The person seeking such an order shall apply for such an order at least 5 days before the trial date, unless the court finds on the record that the need for such an order was not reasonably foreseeable.
+&emsp;&emsp;(A) In a proceeding involving an alleged offense against a child, the attorney for the Government, the child's attorney, or a guardian ad litem appointed under subsection (h) may apply for an order that the child's testimony be taken in a room outside the courtroom and be televised by 2-way closed circuit television. The person seeking such an order shall apply for such an order at least 7 days before the trial date, unless the court finds on the record that the need for such an order was not reasonably foreseeable.
 
 &emsp;&emsp;(B) The court may order that the testimony of the child be taken by closed-circuit television as provided in subparagraph (A) if the court finds that the child is unable to testify in open court in the presence of the defendant, for any of the following reasons:
 
@@ -230,7 +230,7 @@ Use of Multidisciplinary Child Abuse Teams.—
 
 &emsp;(1)
 
-In general.—A multidisciplinary child abuse team shall be used when it is feasible to do so. The court shall work with State and local governments that have established multidisciplinary child abuse teams designed to assist child victims and child witnesses, and the court and the attorney for the Government shall consult with the multidisciplinary child abuse team as appropriate.
+In general.—A multidisciplinary child abuse team shall be used when it is feasible todo so. The court shall work with State and local governments that have established multidisciplinary child abuse teams designed to assist child victims and child witnesses, and the court and the attorney for the Government shall consult with the multidisciplinary child abuse team as appropriate.
 
 &emsp;(2)
 
@@ -260,7 +260,7 @@ In general.—The court may appoint, and provide reasonable compensation and pay
 
 &emsp;(2)
 
-Duties of guardian ad litem.—A guardian ad litem may attend all the depositions, hearings, and trial proceedings in which a child participates, and make recommendations to the court concerning the welfare of the child. The guardian ad litem may have access to all reports, evaluations and records, except attorney's work product, necessary to effectively advocate for the child. (The extent of access to grand jury materials is limited to the access routinely provided to victims and their representatives.) A guardian ad litemshall marshal and coordinate the delivery of resources and special services to the child. A guardian ad litem shall not be compelled to testify in any court action or proceeding concerning any information or opinion received from the child in the course of serving as a guardian ad litem.
+Duties of guardian ad litem.—A guardian ad litem may attend all the depositions, hearings, and trial proceedings in which a child participates, and make recommendations to the court concerning the welfare of the child. The guardian ad litem may have access to all reports, evaluations and records, except attorney's work product, necessary to effectively advocate for the child. (The extent of access to grand jury materials is limited to the access routinely provided to victims and their representatives.) A guardian ad litem shall marshal and coordinate the delivery of resources and special services to the child. A guardian ad litem shall not be compelled to testify in any court action or proceeding concerning any information or opinion received from the child in the course of serving as a guardian ad litem.
 
 &emsp;(3)
 
@@ -288,11 +288,11 @@ Prohibition on Reproduction of Child Pornography.—
 
 &emsp;(1) In any criminal proceeding, any property or material that constitutes child pornography (as defined by section 2256 of this title) shall remain in the care, custody, and control of either the Government or the court.
 
-&emsp;(2)(A) Notwithstanding Rule 16 of the Federal Rules of Criminal Procedure, a court shall deny, in any criminal proceeding, any request by the defendant to copy, photograph, duplicate, or otherwise reproduce any property or material that constitutes child pornography (as defined by section 2256 of this title), so long as the Government makes the property or material reasonably available to the defendant.
+&emsp;(2)(A) Notwithstanding Rule 16 of the Federal Rules of Criminal Procedure, a court shall deny, in any criminal proceeding, any request by the defendant to copy, photograph, duplicate, or otherwise reproduce any property or material that constitutes child pornography\(as defined by section 2256 of this title), so long as the Government makes the property or material reasonably available to the defendant.
 
 &emsp;(B) For the purposes of subparagraph (A), property or material shall be deemed to be reasonably available to the defendant if the Government provides ample opportunity for inspection, viewing, and examination at a Government facility of the property or material by the defendant, his or her attorney, and any individual the defendant may seek to qualify to furnish expert testimony at trial.
 
-(Added Pub. L. 101–647, title II, §225(a), Nov. 29, 1990, 104 Stat. 4798; amended Pub. L. 103–322, title XXXIII, §§330010(6), (7), 330011(e), 330018(b), Sept. 13, 1994, 108 Stat. 2143, 2145, 2149; Pub. L. 104–294, title VI, §605(h), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 109–248, title V, §§504, 507, July 27, 2006, 120 Stat. 629, 631.)
+(Added Pub. L. 101–647, title II, §225(a), Nov. 29, 1990, 104 Stat. 4798; amended Pub. L. 103–322, title XXXIII, §§330010(6), (7), 330011(e), 330018(b), Sept. 13, 1994, 108 Stat. 2143, 2145, 2149; Pub. L. 104–294, title VI, §605(h), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 109–248, title V, §§504, 507, July 27, 2006, 120 Stat. 629, 631; Pub. L. 111–16, §3(11), May 7, 2009, 123 Stat. 1608.)
 
 #### References in Text
 
@@ -301,6 +301,8 @@ The Federal Rules of Evidence, referred to in subsec. (c)(1), are set out in the
 The Federal Rules of Criminal Procedure, referred to in subsecs. (f) and (m)(2)(A), are set out in the Appendix to this title.
 
 #### Amendments
+
+2009—Subsec. (b)(1)(A). Pub. L. 111–16 substituted “7 days” for “5 days”.
 
 2006—Subsec. (h)(1). Pub. L. 109–248, §507, inserted “, and provide reasonable compensation and payment of expenses for,” after “The court may appoint”.
 
@@ -319,6 +321,10 @@ Pub. L. 103–322, §330010(7)(A), substituted “subsection” for “subdivisi
 Subsec. (a)(11) to (13). Pub. L. 103–322, §330010(6), redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11) which read as follows: “the term ‘exploitation’ means child pornography or child prostitution;”.
 
 Subsec. (k). Pub. L. 103–322, §330018(b), substituted heading for one which read “Extension of Child Statute of Limitations” and struck out first sentence which read as follows: “No statute of limitation that would otherwise preclude prosecution for an offense involving the sexual or physical abuse of a child under the age of 18 years shall preclude such prosecution before the child reaches the age of 25 years.”
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 111–16, set out as a note under section 109 of Title 11, Bankruptcy.
 
 #### Effective Date of 1994 Amendment
 

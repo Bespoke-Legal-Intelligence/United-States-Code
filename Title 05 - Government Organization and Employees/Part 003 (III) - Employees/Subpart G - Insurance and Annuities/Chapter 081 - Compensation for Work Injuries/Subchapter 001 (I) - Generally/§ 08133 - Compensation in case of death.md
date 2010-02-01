@@ -50,7 +50,7 @@
 
 (f) Notwithstanding any funeral and burial expenses paid under section 8134, there shall be paid a sum of $200 to the personal representative of a deceased employee within the meaning of section 8101(1) of this title for reimbursement of the costs of termination of the decedent's status as an employee of the United States.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 547; Pub. L. 90–83, §1(62), Sept. 11, 1967, 81 Stat. 211; Pub. L. 93–416, §§16(a), 17, 18, Sept. 7, 1974, 88 Stat. 1147, 1149; Pub. L. 101–303, §3(1), May 29, 1990, 104 Stat. 251.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 547; Pub. L. 90–83, §1(62), Sept. 11, 1967, 81 Stat. 211; Pub. L. 93–416, §§16(a), 17, 18, Sept. 7, 1974, 88 Stat. 1147,1149; Pub. L. 101–303, §3(1), May 29, 1990, 104 Stat. 251.)
 
 Historical and Revision Notes<br>1966
 
@@ -132,7 +132,7 @@ Subsec. (f). Pub. L. 93–416, §18, added subsec. (f).
 
 #### Effective Date of 1974 Amendment
 
-Amendment by sections 16(a) and 17 of Pub. L. 93–416 applicable to cases where injury or death occurredprior to Sept. 7, 1974 but only to a period beginning on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
+Amendment by sections 16(a) and 17 of Pub. L. 93–416 applicable to cases where injury or death occurred prior to Sept. 7, 1974 but only to a period beginning on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
 
 Amendment by section 18 of Pub. L. 93–416 effective on Sept. 7, 1974, and applicable to any injury or death occurring on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
 

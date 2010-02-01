@@ -8,7 +8,7 @@
 
 #### (2) Conduct of programs
 
-&emsp;Programs supported under this section may be conducted through grants and contractswith public agencies and private nonprofit organizations, including recipients of Federal assistance under other provisions of this chapter, that the Secretary determines have an understanding of the unemployment problems of veterans described in paragraph (1), familiarity with the area to be served, and the capability to administer effectively a program of workforce investment activities for such veterans.
+&emsp;Programs supported under this section may be conducted through grants and contracts with public agencies and private nonprofit organizations, including recipients of Federal assistance under other provisions of this chapter, that the Secretary determines have an understanding of the unemployment problems of veterans described in paragraph (1), familiarity with the area to be served, and the capability to administer effectively a program of workforce investment activities for such veterans.
 
 #### (3) Required activities
 
@@ -88,7 +88,7 @@ Covered Services and Benefits.—This section applies with respect to the follow
 
 &emsp;“(2) Employment and training activities for dislocated workers under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
 
-&emsp;“(3) Employment assistance and unemployment compensation under the trade adjustment assistance program provided in chapter 2 of title II of the Trade Act of 1974 (29 \[19\] U.S.C. 2271 et seq.) and under any other program administered by the Employment and Training Administration of the Department of Labor.
+&emsp;“(3) Employment assistance and unemployment compensation under the trade adjustment assistance program provided in chapter 2 of title II of the TradeAct of 1974 (29 \[19\] U.S.C. 2271 et seq.) and under any other program administered by the Employment and Training Administration of the Department of Labor.
 
 &emsp;“(4) Educational assistance under—
 
@@ -176,7 +176,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 #### “employer job training programs
 
-“Sec. 6. (a)(1) Except as provided in paragraph (2), in order to be approved as a program of job training under this Act, a program of job training of an employer approved under section 7 must provide training for a period of not less than six months in an occupation in a growth industry, in an occupation requiring the use of new technological skills, or in an occupation for which demand for labor exceeds supply.
+“Sec. 6. (a)(1) Except as provided in paragraph (2), in order to be approved as a program of job training under this Act, a program of job training of an employer approved under section 7 must provide training for a period of not less than six months in an occupation in agrowth industry, in an occupation requiring the use of new technological skills, or in an occupation for which demand for labor exceeds supply.
 
 “(2) A program of job training providing training for a period of at least three but less than six months may be approved if the Administrator determines (in accordance with standards which the Administrator shall prescribe) that the purpose of this Act would be met through that program.
 
@@ -252,7 +252,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 #### “payments to employers; overpayment
 
-“Sec. 8. (a)(1) Except as provided in paragraph (3) and subsection (b) and subject to the provisions of section9, the Administrator shall make quarterly payments to an employer of a veteran participating in an approved program of job training under this Act. Subject to section 5(c) and paragraph (2), the amount paid to an employer on behalf of a veteran for any period of time shall be 50 percent of the product of (A) the starting hourly rate of wages paid to the veteran by the employer (without regard to overtime or premium pay), and (B) the number of hours worked by the veteran during that period.
+“Sec. 8. (a)(1) Except as provided in paragraph (3) and subsection (b) and subject to the provisions of section 9, the Administrator shall make quarterly payments to an employer of a veteran participating in an approved program of job training under this Act. Subject to section 5(c) and paragraph (2), the amount paid to an employer on behalf of a veteran for any period of time shall be 50 percent of the product of (A) the starting hourly rate of wages paid to the veteran by the employer (without regard to overtime or premium pay), and (B) the number of hours worked by the veteran during that period.
 
 “(2) The total amount that may be paid to an employer on behalf of a veteran participating in a program of job training under this Act is $10,000.
 
@@ -304,7 +304,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 #### “inspection of records; investigations
 
-“Sec. 12. (a) The records and accounts of employers pertaining to veterans on behalf of whom assistance has been paid under this Act, as well as other recordsthat the Administrator determines to be necessary to ascertain compliance with the requirements established under this Act, shall be available at reasonable times for examination by authorized representatives of the Federal Government.
+“Sec. 12. (a) The records and accounts of employers pertaining to veterans on behalf of whom assistancehas been paid under this Act, as well as other records that the Administrator determines to be necessary to ascertain compliance with the requirements established under this Act, shall be available at reasonable times for examination by authorized representatives of the Federal Government.
 
 “(b) The Administrator may monitor employers and veterans participating in programs of job training under this Act to determine compliance with the requirements established under this Act.
 

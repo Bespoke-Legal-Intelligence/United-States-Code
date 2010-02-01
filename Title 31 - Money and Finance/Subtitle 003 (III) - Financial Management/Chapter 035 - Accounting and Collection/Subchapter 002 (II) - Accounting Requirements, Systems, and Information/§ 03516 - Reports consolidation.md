@@ -1,6 +1,6 @@
 ### §3516. Reports consolidation
 
-(a)(1) With the concurrence of the Director of the Office of Management and Budget, the head of an executive agency may adjust the frequency and due dates of, and consolidate into an annual report to the President, the Director of the Office of Management and Budget, and Congress any statutorily required reports described inparagraph (2). Such a consolidated report shall be submitted to the President, the Director of the Office of Management and Budget, and to appropriate committees and subcommittees of Congress not later than 150 days after the end of the agency's fiscal year.
+(a)(1) With the concurrence of the Director of the Office of Management and Budget, the head of an executive agency may adjust the frequency and due dates of, and consolidate into an annual report to the President, the Director of the Office of Management and Budget, and Congress any statutorily required reports described in paragraph (2). Such a consolidated report shall be submitted to the President, the Director of the Office of Management and Budget, and to appropriate committees and subcommittees of Congress not later than 150 days after the end of the agency's fiscal year.
 
 (2) The following reports may be consolidated into the report referred to in paragraph (1):
 
@@ -20,7 +20,7 @@
 
 (b) A report under subsection (a) that incorporates the agency's program performance report under section 1116 shall be referred to as a performance and accountability report.
 
-(c) A report under subsection (a) that does not incorporate the agency's program performance report under section 1116 shall contain a summary of the most significant portions of the agency's program performance report, including the agency's success in achieving key performance goals for the applicable year.
+(c) A report under subsection (a) that does not incorporate the agency's program performance report under section 1116 shall contain a summary of the most significant portions of the agency's program performance report, includingthe agency's success in achieving key performance goals for the applicable year.
 
 (d) A report under subsection (a) shall include a statement prepared by the agency's inspector general that summarizes what the inspector general considers to be the most serious management and performance challenges facing the agency and briefly assesses the agency's progress in addressing those challenges. The inspector general shall provide such statement to the agency head at least 30 days before the due date of the report under subsection (a). The agency head may comment on the inspector general's statement, but may not modify the statement.
 

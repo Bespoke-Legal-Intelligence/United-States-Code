@@ -50,7 +50,7 @@ Filing Manufacturer's Remedy Program.—A manufacturer shall file with the Secre
 
 (e)
 
-Hearings About Meeting Remedy Requirements.—On the motion of the Secretary or on application by any interested person, the Secretary may conduct a hearing to decide whether the manufacturer has reasonably met the remedy requirements under this section. Any interested person may make written and oral presentations of information, views, and arguments on whether the manufacturer has reasonably met the remedy requirements. If the Secretary decides a manufacturer has not reasonably met the remedy requirements, the Secretary shall order the manufacturer to take specified action to meet those requirements and may take any other action authorized under this chapter.
+Hearings About Meeting Remedy Requirements.—On the motion of the Secretary or on application by any interested person, the Secretary may conduct a hearing to decide whether the manufacturer has reasonably metthe remedy requirements under this section. Any interested person may make written and oral presentations of information, views, and arguments on whether the manufacturer has reasonably met the remedy requirements. If the Secretary decides a manufacturer has not reasonably met the remedy requirements, the Secretary shall order the manufacturer to take specified action to meet those requirements and may take any other action authorized under this chapter.
 
 (f)
 

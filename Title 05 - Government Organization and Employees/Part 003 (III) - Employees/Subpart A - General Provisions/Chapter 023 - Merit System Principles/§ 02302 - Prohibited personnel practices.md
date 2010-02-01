@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(viii) a performance evaluation under chapter 43 of this title;
 
-&emsp;&emsp;(ix) a decision concerning pay, benefits, or awards, concerning education or training if the education or training may reasonably be expected to lead to an appointment, promotion, performance evaluation, or other action described in this subparagraph;
+&emsp;&emsp;(ix) a decision concerning pay, benefits, or awards, or concerning education or training if the education or training may reasonably be expected to lead to an appointment, promotion, performance evaluation, or other action described in this subparagraph;
 
 &emsp;&emsp;(x) a decision to order psychiatric testing or examination; and
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(i) a Government corporation, except in the case of an alleged prohibited personnel practice described under subsection (b)(8);
 
-&emsp;&emsp;(ii) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, and, as determined by the President, any Executive agency or unitthereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or
+&emsp;&emsp;(ii) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or
 
 &emsp;&emsp;(iii) the Government Accountability Office.
 
@@ -84,7 +84,7 @@
 
 > &emsp;&emsp;if such disclosure is not specifically prohibited by law and if such information is not specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs; or
 
-&emsp;&emsp;(B) any disclosure to the Special Counsel, or to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures, of information which the employee or applicant reasonably believes evidences—
+&emsp;&emsp;(B) any disclosure to the Special Counsel, or to the Inspector General of an agency or another employee designated by the head ofthe agency to receive such disclosures, of information which the employee or applicant reasonably believes evidences—
 
 &emsp;&emsp;&emsp;(i) a violation of any law, rule, or regulation, or
 
@@ -106,7 +106,7 @@
 
 &emsp;(B) knowingly fail to take, recommend, or approve any personnel action if the failure to take such action would violate a veterans’ preference requirement; or
 
-&emsp;(12) take or fail to take any other personnel action if the taking of or failure to take suchaction violates any law, rule, or regulation implementing, or directly concerning, the merit system principles contained in section 2301 of this title.
+&emsp;(12) take or fail to take any other personnel action if the taking of or failure to take such action violates any law, rule, or regulation implementing, or directly concerning, the merit system principles contained in section 2301 of this title.
 
 > This subsection shall not be construed to authorize the withholding of information from the Congress or the taking of any personnel action against an employee who discloses information to the Congress.
 
@@ -144,7 +144,7 @@
 
 (2) Notwithstanding any other provision of this title, no authority to order corrective action shall be available in connection with a prohibited personnel practice described in subsection (b)(11). Nothing in this paragraph shall be considered to affect any authority under section 1215 (relating to disciplinary action).
 
-(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, §315(b)(2), Sept. 16, 1996, 110 Stat. 2416, Pub. L. 104–201, div. A, title XI, §1122(a)(1), title XVI, §1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741; Pub. L. 105–339, §6(a), (b), (c)(2), Oct. 31, 1998, 112 Stat. 3187, 3188; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
+(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, §315(b)(2), Sept. 16, 1996, 110Stat. 2416, Pub. L. 104–201, div. A, title XI, §1122(a)(1), title XVI, §1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741; Pub. L. 105–339, §6(a), (b), (c)(2), Oct. 31, 1998, 112 Stat. 3187, 3188; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
 
 #### References in Text
 
@@ -227,6 +227,36 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 #### Savings Provision
 
 Pub. L. 105–339, §6(d), Oct. 31, 1998, 112 Stat. 3188, provided that: “This section \[amending this section and repealing section 1599c of Title 10, Armed Forces\] shall be treated as if it had never been enacted for purposes of any personnel action (within the meaning of section 2302 of title 5, United States Code) preceding the date of enactment of this Act \[Oct. 31, 1998\].”
+
+#### Federal Benefits and Non-Discrimination
+
+Memorandum of President of the United States, June 17, 2009, 74 F.R. 29393, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+Millions of hard-working, dedicated, and patriotic public servants are employed by the Federal Government as part of the civilian workforce, and many of these devoted Americans have same-sex domestic partners. Leading companies in the private sector are free to provide to same-sex domestic partners the same benefits they provide to married people of the opposite sex. Executive departments and agencies, however, may only provide benefits on that basis if they have legal authorization to do so. My Administration is not authorized by Federal law to extend a number of available Federal benefits to the same-sex partners of Federal employees. Within existing law, however, my Administration, in consultation with the Secretary of State, who oversees our Foreign Service employees, and the Director of the Office of Personnel Management, who oversees human resource management for our civil service employees, has identified areas in which statutory authority exists to achieve greater equality for the Federal workforce through extension to same-sex domestic partners of benefits currently available to married people of the opposite sex. Extending available benefits will help the Federal Government compete with the private sector to recruit and retain the best and the brightest employees.
+
+I hereby request the following:
+
+Section 1. <i>Extension of Identified Benefits</i>. The Secretary of State and the Director of the Office of Personnel Management shall, in consultation with the Department of Justice, extend the benefits they have respectively identified to qualified same-sex domestic partners of Federal employees where doing so can be achieved and is consistent with Federal law.
+
+Sec. 2. <i>Review of Governmentwide Benefits</i>. The heads of all other executive departments and agencies, in consultation with the Office of Personnel Management, shall conduct a review of the benefits provided by their respective departments and agencies to determine what authority they have to extend such benefits to same-sex domestic partners of Federal employees. The results of this review shall be reported within 90 days to the Director of the Office of Personnel Management, who, in consultation with the Department of Justice, shall recommend to me any additional measures that can be taken, consistent with existing law, to provide benefits to the same-sex domestic partners of Federal Government employees.
+
+Sec. 3. <i>Promoting Compliance with Existing Law Requiring Federal Workplaces to be Free of Discrimination Based on Non-Merit Factors</i>. The Office of Personnel Management shall issue guidance within 90 days to all executive departments and agencies regarding compliance with, and implementation of, the civil service laws, rules, and regulations, including 5 U.S.C. 2302(b)(10), which make it unlawful to discriminate against Federal employees or applicants for Federal employment on the basis of factors not related to job performance.
+
+Sec. 4. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+&emsp;(i) Authority granted by law or Executive Order to an agency, or the head thereof; or
+
+&emsp;(ii) Functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 5. <i>Publication</i>. The Director of the Office of Personnel Management is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. The word “for” probably should not appear.</i>
 

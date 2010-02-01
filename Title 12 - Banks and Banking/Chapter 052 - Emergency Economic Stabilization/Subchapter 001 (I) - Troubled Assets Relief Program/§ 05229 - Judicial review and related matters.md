@@ -10,7 +10,7 @@
 
 #### (A) Injunction
 
-&emsp;&emsp;No injunction or other form of equitable relief shall be issued against the Secretary for actions pursuant to section <sup>1</sup> 5211, 5212,5216, and 5219 of this title, other than to remedy a violation of the Constitution.
+&emsp;&emsp;No injunction or other form of equitable relief shall be issued against the Secretaryfor actions pursuant to section <sup>1</sup> 5211, 5212, 5216, and 5219 of this title, other than to remedy a violation of the Constitution.
 
 #### (B) Temporary restraining order
 

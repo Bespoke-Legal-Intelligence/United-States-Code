@@ -120,7 +120,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (A) Personal casualty gain
 
-&emsp;&emsp;The term “personal casualty gain” means the recognized gain from any involuntaryconversion of property which is described in subsection (c)(3) arising from fire, storm, shipwreck, or other casualty, or from theft.
+&emsp;&emsp;The term “personal casualty gain” means the recognized gain from any involuntary conversion of property which is described in subsection (c)(3) arising from fire, storm, shipwreck, or other casualty, or from theft.
 
 #### (B) Personal casualty loss
 
@@ -196,7 +196,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 &emsp;&emsp;(D) such person promptly surrenders the obligation to the issuer for the issuance of a new obligation in registered form,
 
-> &emsp;but only if such obligations are held under arrangements provided in regulations or otherwise which are designed to assure that such obligations are not delivered to any UnitedStates person other than a person described in subparagraph (A), (B), or (C).
+> &emsp;but only if such obligations are held under arrangements provided in regulations or otherwise which are designed to assure that such obligations are not delivered to any United States person other than a person described in subparagraph (A), (B), or (C).
 
 #### (k) Treatment as disaster loss where taxpayer ordered to demolish or relocate residence in disaster area because of disaster
 
@@ -268,7 +268,7 @@ In the case of a taxpayer whose residence is located in an area which has been d
 
 &emsp;Any election by the taxpayer under this subsection for any taxable year—
 
-&emsp;&emsp;(A) shall apply to all losses for such taxable year of the taxpayer on deposits in the institution with respect to which such election was made, and
+&emsp;&emsp;(A) shall apply to all losses for such taxable year of the taxpayer on deposits in theinstitution with respect to which such election was made, and
 
 &emsp;&emsp;(B) may be revoked only with the consent of the Secretary.
 
@@ -288,7 +288,7 @@ In the case of a taxpayer whose residence is located in an area which has been d
 
 &emsp;&emsp;<b>(5) For special rule for losses on small business stock, see section 1244.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 49; Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), Sept. 2, 1958, 72 Stat. 1608, 1646, 1676; Pub. L. 87–426, §2(a), Mar. 31, 1962, 76 Stat. 51; Pub. L. 88–272, title II, §§208(a), 238, Feb. 26, 1964, 78 Stat. 43, 128; Pub. L. 88–348, §3(a), June 30, 1964, 78 Stat. 237; Pub. L. 91–606, title III, §301(h), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–677, §1(a), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 91–687, §1, Jan. 12, 1971, 84 Stat. 2071;Pub. L. 92–336, §2(a), July 1, 1972, 86 Stat. 406; Pub. L. 92–418, §2(a), Aug. 29, 1972, 86 Stat. 656, 657; Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(h), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1901(a)(26), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), Sept. 3, 1982, 96 Stat. 422, 598; Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), July 18, 1984, 98 Stat. 556, 943, 1044; Pub. L. 99–514, title IX, §905(a), title X, §1004(a), Oct. 22, 1986, 100 Stat. 2385, 2388; Pub. L. 100–647, title I, §1009(d)(1), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 100–707, title I, §109(<i>l</i>), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 105–34, title IX, §912(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–311, title IV, §408(a)(7)(A), (B), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 110–343, div. C, title VII, §706(a)(1), (2)(A)–(C), (c), Oct. 3, 2008, 122 Stat. 3921–3923.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 49; Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), Sept. 2, 1958, 72 Stat. 1608, 1646, 1676; Pub. L. 87–426, §2(a), Mar. 31, 1962, 76 Stat. 51; Pub. L. 88–272, title II, §§208(a), 238, Feb. 26, 1964, 78 Stat. 43, 128; Pub. L. 88–348, §3(a), June 30, 1964, 78 Stat. 237; Pub. L. 91–606, title III, §301(h), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–677, §1(a), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 91–687, §1, Jan. 12, 1971, 84 Stat. 2071; Pub. L. 92–336, §2(a), July 1, 1972, 86 Stat. 406; Pub. L. 92–418, §2(a), Aug. 29, 1972, 86 Stat. 656, 657; Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(h), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1901(a)(26), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), Sept. 3, 1982, 96 Stat. 422, 598; Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), July 18, 1984, 98 Stat. 556, 943, 1044; Pub. L. 99–514, title IX, §905(a), title X, §1004(a), Oct. 22, 1986, 100 Stat. 2385, 2388; Pub. L. 100–647, title I, §1009(d)(1), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 100–707, title I, §109(<i>l</i>), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 105–34, title IX, §912(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–311, title IV, §408(a)(7)(A), (B), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 110–343, div. C, title VII, §706(a)(1), (2)(A)–(C), (c), Oct. 3, 2008, 122 Stat. 3921–3923.)
 
 #### References in Text
 
@@ -422,7 +422,7 @@ Amendment by section 711(c)(1) of Pub. L. 98–369 effective as if included in t
 
 Section 711(c)(2)(A)(v) of Pub. L. 98–369 provided that: “The amendments made by this subparagraph \[amending this section and sections 873, 931, and 1231 of this title\] shall apply to taxable years beginning after December 31, 1983.”
 
-Section 1051(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1981, with respect to residences in areas determined by the President of the United States, after such date, to warrant assistance by the Federal Governmentunder the Disaster Relief Act of 1974 \[42 U.S.C. 5121 et seq.\].”
+Section 1051(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1981, with respect to residences in areas determined by the President of the United States, after such date, to warrant assistance by the Federal Government under the Disaster Relief Act of 1974 \[42 U.S.C. 5121 et seq.\].”
 
 #### Effective Date of 1982 Amendment
 
@@ -478,7 +478,7 @@ Amendment by section 57(c)(1) of Pub. L. 85–866 applicable with respect to tax
 
 Section 711(c)(2)(B) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of taxable years beginning before January 1, 1984—
 
-&emsp;“(i) For purposes of paragraph (1)(B) of section 165(h) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], adjusted gross income shall be determined without regard to the application of section 1231 of such Code to any gain or loss from an involuntary conversion of property described in subsection (c)(3) of section 165 of such Code arising from fire, storm, shipwreck, or other casualty or from theft.
+&emsp;“(i) For purposes of paragraph (1)(B) of section 165(h) of the Internal Revenue Code of 1986 \[formerlyI.R.C. 1954\], adjusted gross income shall be determined without regard to the application of section 1231 of such Code to any gain or loss from an involuntary conversion of property described in subsection (c)(3) of section 165 of such Code arising from fire, storm, shipwreck, or other casualty or from theft.
 
 &emsp;“(ii) Section 1231 of such Code shall be applied after the application of paragraph (1) of section 165(h) of such Code.”
 
@@ -496,7 +496,7 @@ General Rule.—For purposes of chapter 1 of the Internal Revenue Code of 1986�
 
 “(b)
 
-FSLIC Assistance.—For purposes of this section, the term ‘FSLIC assistance’ means any assistance (or right to assistance) with respect to a domesticbuilding and loan association (as defined in section 7701(a)(19) of such Code without regard to subparagraph (C) thereof) under section 406(f) of the National Housing Act \[former 12 U.S.C. 1729(f)\] or section 21A of the Federal Home Loan Bank Act \[12 U.S.C. 1441a\] (or under any similar provision of law).
+FSLIC Assistance.—For purposes of this section, the term ‘FSLIC assistance’ means any assistance (or right to assistance) with respect to a domestic building and loan association (as defined in section 7701(a)(19) of such Code without regard to subparagraph (C) thereof) under section 406(f) of the National Housing Act \[former 12 U.S.C. 1729(f)\] or section 21A of the Federal Home Loan Bank Act \[12 U.S.C. 1441a\] (or under any similar provision of law).
 
 “(c)
 
@@ -584,7 +584,7 @@ Deregulation month.—For purposes of this section, the term ‘deregulation mon
 
 “(c)
 
-Special Rule for Motor Carrier Operating Authority.—In the case of a corporation which was incorporated on December 29, 1969, in the State of Delaware, notwithstanding any other provision of law, there shall be allowed as a deduction for the taxable year of the taxpayer beginning in 1980 an amount equal to $2,705,188 for its entire loss due to a decline in value of its motor carrier operating authority by reason of deregulation.
+Special Rule for Motor Carrier Operating Authority.—In the case of a corporation which was incorporated on December 29, 1969, in the State of Delaware, notwithstanding any other provision of law,there shall be allowed as a deduction for the taxable year of the taxpayer beginning in 1980 an amount equal to $2,705,188 for its entire loss due to a decline in value of its motor carrier operating authority by reason of deregulation.
 
 “(d)
 
@@ -612,7 +612,7 @@ Freight forwarder operating authority.—Subsection (b) shall apply to taxable y
 
 #### Deduction for Motor Carrier Operating Authority
 
-Pub. L. 97–34, title II, §266, Aug. 13, 1981, 95 Stat. 265, as amended by Pub. L. 97–424, title V, §517(a), Jan. 6,1983, 96 Stat. 2183; Pub. L. 97–448, title I, §102(n), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–34, title II, §266, Aug. 13, 1981, 95 Stat. 265, as amended by Pub. L. 97–424, title V, §517(a), Jan. 6, 1983, 96 Stat. 2183; Pub. L. 97–448, title I, §102(n), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 
@@ -684,7 +684,7 @@ Application of Section.—This section shall apply to any individual—
 
 &emsp;&emsp;“(B) received income in the form of compensation (not taken into account in computing the amount of the deduction) for such loss in settlement of any claim of the taxpayer against a person for that person's liability in tort for the damage or destruction of that taxpayer's property in connection with the disaster, and
 
-&emsp;“(3) who elects (at such time and in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe) to take the benefits of this section.
+&emsp;“(3) who elects (at such time and in such manner as the Secretary of the Treasury or his delegate may byregulations prescribe) to take the benefits of this section.
 
 “(b)
 
@@ -702,7 +702,7 @@ Income Taken Into Account.—For purposes of this section, the income taken into
 
 &emsp;“(1) in the case of an individual described in subsection (a)(2)(A), the amount of income (not in excess of $5,000) attributable to the cancellation of a disaster loan under section 7 of the Small Business Act or an emergency loan under subtitle C of the Consolidated Farm and Rural Development Act received by reason of the disaster described in subsection (a)(1), or
 
-&emsp;“(2) in the case of an individual described in subsection (a)(2)(B), the amount of compensation (not inexcess of $5,000) for the loss in settlement of any claim of the taxpayer against a person for that person's liability in tort for the damage or destruction of that taxpayer's property in connection with the disaster described in subsection (a)(1).
+&emsp;“(2) in the case of an individual described in subsection (a)(2)(B), the amount of compensation (not in excess of $5,000) for the loss in settlement of any claim of the taxpayer against a person for that person's liability in tort for the damage or destruction of that taxpayer's property in connection with the disaster described in subsection (a)(1).
 
 “(d)
 

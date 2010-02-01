@@ -50,5 +50,5 @@ Amendment by Pub. L. 109–303 effective as if included in the Copyright Royalty
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–419 effective 6 months after Nov. 30, 2004, subject to transition provisions, seesection 6 of Pub. L. 108–419, set out as an Effective Date; Transition Provisions note under section 801 of this title.
+Amendment by Pub. L. 108–419 effective 6 months after Nov. 30, 2004, subject to transition provisions, see section 6 of Pub. L. 108–419, set out as an Effective Date; Transition Provisions note under section 801 of this title.
 

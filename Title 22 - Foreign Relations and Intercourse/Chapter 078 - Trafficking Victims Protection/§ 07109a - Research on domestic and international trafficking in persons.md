@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President, acting through the Council of Economic Advisors, the National ResearchCouncil of the National Academies, the Secretary of Labor, the Secretary of Health and Human Services, the Attorney General, the Secretary of State, the Administrator of the United States Agency for International Development, and the Director of National Intelligence, shall carry out research, including by providing grants to nongovernmental organizations, as well as relevant United States Government agencies and international organizations, which furthers the purposes of this chapter and provides data to address the problems identified in the findings of this chapter. Such research initiatives shall, to the maximum extent practicable, include, but not be limited to, the following:
+The President, acting through the Council of Economic Advisors, the National Research Council of the National Academies, the Secretary of Labor, the Secretary of Health and Human Services, the Attorney General, the Secretary of State, the Administrator of the United States Agency for International Development, and the Director of National Intelligence, shall carry out research, including by providing grants to nongovernmental organizations, as well as relevant United States Government agencies and international organizations, which furthers the purposes of this chapter and provides data to address the problems identified in the findings of this chapter. Such research initiatives shall, to the maximum extent practicable, include, but not be limited to, the following:
 
 &emsp;(1) The economic causes and consequences of trafficking in persons.
 
@@ -26,7 +26,7 @@ The President, acting through the Council of Economic Advisors, the National Res
 
 &emsp;The database described in subsection (a)(5) shall be established by combining all applicable data collected by each Federal department and agency represented on the Interagency Task Force to Monitor and Combat Trafficking, consistent with the protection of sources and methods, and, to the maximum extent practicable, applicable data from relevant international organizations, to—
 
-&emsp;&emsp;(A) improve the coordination of the collection of data related to trafficking in persons by each agency of the United States Government that collects such data;
+&emsp;&emsp;(A) improve the coordination of the collection of data related to trafficking in personsby each agency of the United States Government that collects such data;
 
 &emsp;&emsp;(B) promote uniformity of such data collection and standards and systems related to such collection;
 
@@ -76,5 +76,5 @@ Subsec. (b). Pub. L. 110–457, §108(a)(2), amended subsec. (b) generally. Prio
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see section 6 of Ex. Ord. No. 13257, Feb. 13, 2002,67 F.R. 7259, as amended, set out as a note under section 7103 of this title.
+For delegation of functions of President under this section, see section 6 of Ex. Ord. No. 13257, Feb. 13, 2002, 67 F.R. 7259, as amended, set out as a note under section 7103 of this title.
 

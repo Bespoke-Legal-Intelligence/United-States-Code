@@ -62,7 +62,7 @@ Authorization of appropriations.—There are authorized to be appropriated from 
 
 &emsp;(2)
 
-Use of funds.—The funds authorized by this subsection shall be used for personnel costs; administrative infrastructure; rent; information technology; programs for research and technology, information management, regulatory development, the administration of the performance and registration information system management, and outreach and education; other operating expenses; and such other expenses as may from time to time become necessary to implement statutory mandates of the Administration not funded from other sources.
+Use of funds.—The funds authorized by this subsection shall be used for personnel costs; administrative infrastructure; rent; information technology; programs for research and technology, information management, regulatory development, the administration of the performance and registration informationsystem management, and outreach and education; other operating expenses; and such other expenses as may from time to time become necessary to implement statutory mandates of the Administration not funded from other sources.
 
 (j)
 

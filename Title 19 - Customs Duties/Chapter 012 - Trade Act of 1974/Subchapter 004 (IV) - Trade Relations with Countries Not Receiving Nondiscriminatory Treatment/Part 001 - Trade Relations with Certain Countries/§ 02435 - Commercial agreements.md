@@ -44,7 +44,7 @@ This chapter, referred to in subsecs. (a) and (b)(10), was in the original “th
 
 #### Amendments
 
-1990—Subsec. (c). Pub. L. 101–382 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “An agreement referred to in subsection (a) of this section, and a proclamation referred to in section2434(a) of this title implementing such agreement, shall take effect only if (1) approved by the Congress by the adoption of a concurrent resolution referred to in section 2191 of this title, or (2) in the case of an agreement entered into before January 3, 1975, and a proclamation implementing such agreement, a resolution of disapproval referred to in section 2192 of this title is not adopted during the 90-day period specified by section 2437(c)(2) of this title.”
+1990—Subsec. (c). Pub. L. 101–382 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “An agreement referred to in subsection (a) of this section, and a proclamation referred to in section 2434(a) of this title implementing such agreement, shall take effect only if (1) approved by the Congress by the adoption of a concurrent resolution referred to in section 2191 of this title, or (2) in the case of an agreement entered into before January 3, 1975, and a proclamation implementing such agreement, a resolution of disapproval referred to in section 2192 of this title is not adopted during the 90-day period specified by section 2437(c)(2) of this title.”
 
 1979—Subsec. (b)(8). Pub. L. 96–39 substituted “may include arrangements” for “may include those”.
 

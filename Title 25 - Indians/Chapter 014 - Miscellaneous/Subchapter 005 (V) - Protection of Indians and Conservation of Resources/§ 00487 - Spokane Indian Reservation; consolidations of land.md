@@ -2,7 +2,7 @@
 
 #### (a) Purchase, sale, and exchange
 
-For the purpose of effecting consolidations of land situated within the Spokane Indian Reservation in the State of Washington into the ownership of the tribe and of individual tribal members and for the purpose of attaining and preserving an economic land base for Indian use, alleviating problems of Indian heirship and assisting in the productive leasing, disposition,and other use of tribal lands, the Secretary of the Interior is authorized in his discretion to:
+For the purpose of effecting consolidations of land situated within the Spokane Indian Reservation in the State of Washington into the ownership of the tribe and of individual tribal members and for the purpose of attaining and preserving an economic land base for Indian use, alleviating problems of Indian heirship and assisting in the productive leasing, disposition, and other use of tribal lands, the Secretary of the Interior is authorized in his discretion to:
 
 (1) Purchase for the Spokane Tribe of Indians with any funds of such tribe and to otherwise acquire by gift, exchange, or relinquishment any lands or interest in lands or improvements thereon within the Spokane Indian Reservation.
 
@@ -24,7 +24,7 @@ That any tribal land that may be sold pursuant to this Act may, with the approva
 
 #### (e) Acquisition and sale procedures; land purchase and consolidation program
 
-The acquisition and sale of lands for the Spokane Tribe pursuant to this Act shall be upon request of the business council of the Spokane Tribe, evidenced by a resolution adopted in accordance with the constitution and bylaws of the tribe, and shall be in accordance with a land purchase and consolidation plan approved by the Secretary of the Interior, and except as it may otherwise be authorized or prescribed by the Secretary, shall be limited to lands situated within the boundary of the Spokane Reservation. Such acquisition by the Spokane Tribe, or individual members thereof, may be achieved by exchange of lands with Indians or non-Indians as well as outright purchase, with adjusting payments to approximate equal value. Moneys or credits received by the tribe in the sale of lands shall be used for the purchase of other lands, or for such other purpose as may be consistent with the land purchase and consolidation program, approved by the Secretary of the Interior.
+The acquisition and sale of lands for the Spokane Tribe pursuant to this Act shall be upon request of the business council of the Spokane Tribe, evidenced by a resolution adopted in accordance with the constitution and bylaws of the tribe, and shall be in accordance with a land purchase and consolidation plan approved by the Secretary of the Interior, and except as it may otherwise be authorized or prescribed by the Secretary, shall be limited to lands situated within the boundary of the Spokane Reservation. Such acquisition by the Spokane Tribe, or individual members thereof, may be achieved by exchange of lands with Indians or non-Indians as well as outright purchase, with adjusting payments to approximate equal value. Moneys or credits received by the tribe in the sale of lands shall be used for the purchase of other lands, orfor such other purpose as may be consistent with the land purchase and consolidation program, approved by the Secretary of the Interior.
 
 (Pub. L. 90–335, §1(a)–(e), June 10, 1968, 82 Stat. 174; Pub. L. 93–286, May 21, 1974, 88 Stat. 142.)
 

@@ -6,7 +6,7 @@ The Secretary is authorized and directed to accept the transfer to the United St
 
 #### (b) Jurisdiction of State of Florida
 
-(1) Notwithstanding the conveyance of any lands by the State of Florida to the United States in trust for the Miccosukee Tribe of Indians of Florida, the assumption of jurisdiction in favor of the State of Florida contained in section 285.16, Florida Statutes, pursuant to section 7 of the Act of August 15, 1953 (67 Stat. 588), as in effect prior to its repeal, shall continue in fullforce and effect on such lands unless the State shall retrocede such civil or criminal jurisdiction in whole or in part.
+(1) Notwithstanding the conveyance of any lands by the State of Florida to the United States in trust for the Miccosukee Tribe of Indians of Florida, the assumption of jurisdiction in favor of the State of Florida contained in section 285.16, Florida Statutes, pursuant to section 7 of the Act of August 15, 1953 (67 Stat. 588), as in effect prior to its repeal, shall continue in full force and effect on such lands unless the State shall retrocede such civil or criminal jurisdiction in whole or in part.
 
 (2)(A) The laws of Florida relating to alcoholic beverages (chapters 561, 562, 563, 564, and 565, Florida Statutes), gambling (chapter 849, Florida Statutes), sale of cigarettes (chapter 210, Florida Statutes), and their successor laws, shall have the same force and effect within said transferred lands as they have elsewhere within the State and the State shall have jurisdiction over offenses committed by or against Indians under said laws to the same extent the State has jurisdiction over said offenses committed elsewhere within the State.
 

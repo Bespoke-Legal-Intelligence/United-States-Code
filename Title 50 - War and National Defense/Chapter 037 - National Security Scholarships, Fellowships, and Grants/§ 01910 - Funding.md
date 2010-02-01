@@ -16,5 +16,5 @@ In addition to amounts that may be made available to the Secretary under the Fun
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–487 added subsec. (c).
+2004—Subsec. (c). Pub. L. 108–487 added subsec. (c).
 

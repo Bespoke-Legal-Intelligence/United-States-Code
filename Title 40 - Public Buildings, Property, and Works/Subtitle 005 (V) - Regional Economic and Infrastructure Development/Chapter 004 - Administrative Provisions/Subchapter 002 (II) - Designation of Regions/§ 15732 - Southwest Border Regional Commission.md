@@ -4,7 +4,7 @@ The region of the Southwest Border Regional Commission shall consist of the foll
 
 &emsp;(1)
 
-Arizona.—The counties of Cochise, Gila, Graham, Greenlee, La Paz, Maricopa, Pima,Pinal, Santa Cruz, and Yuma in the State of Arizona.
+Arizona.—The counties of Cochise, Gila, Graham, Greenlee, La Paz, Maricopa, Pima, Pinal, Santa Cruz, and Yuma in the State of Arizona.
 
 &emsp;(2)
 

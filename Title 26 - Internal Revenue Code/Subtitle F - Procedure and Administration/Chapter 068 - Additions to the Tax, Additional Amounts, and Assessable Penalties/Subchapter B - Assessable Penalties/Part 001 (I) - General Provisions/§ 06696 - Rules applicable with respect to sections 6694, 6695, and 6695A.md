@@ -10,7 +10,7 @@ Subchapter B of chapter 63 (relating to deficiency procedures for income, estate
 
 #### (c) Procedure for claiming refund
 
-Any claim for credit or refund of any penalty paid under section 6694, 6695, or 6695A shall be filed in accordance with regulations prescribed by the Secretary.
+Any claim for credit or refund of any penalty paid under section 6694, 6695, or 6695A shall befiled in accordance with regulations prescribed by the Secretary.
 
 #### (d) Periods of limitation
 

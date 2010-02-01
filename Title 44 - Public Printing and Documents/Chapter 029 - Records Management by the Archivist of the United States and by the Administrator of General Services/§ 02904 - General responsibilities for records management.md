@@ -16,7 +16,7 @@
 
 &emsp;(5) to direct the continuing attention of Federal agencies and the Congress on the need for adequate policies governing records management;
 
-&emsp;(6) to conduct records management studies and, in his discretion, designate the heads of executive agencies to conduct records management studies with respect to establishing systems and techniques designed to save time and effort in records management;
+&emsp;(6) to conduct records management studies and, in his discretion, designate the heads ofexecutive agencies to conduct records management studies with respect to establishing systems and techniques designed to save time and effort in records management;
 
 &emsp;(7) to conduct inspections or surveys of the records and the records management programs and practices within and between Federal agencies;
 
@@ -36,7 +36,7 @@
 
 A prior section 2904, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1296, contained provisions similar to those comprising pars. (1) and (2) of this section, prior to repeal by Pub. L. 94–575, §2(a)(2).
 
-Provisions similar to those comprising pars. (8) to (10) of this section were contained in section 2902, Pub.L. 90–620, Oct. 22, 1968, 82 Stat. 1296, prior to repeal by Pub. L. 94–575, §2(a)(1).
+Provisions similar to those comprising pars. (8) to (10) of this section were contained in section 2902, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1296, prior to repeal by Pub. L. 94–575, §2(a)(1).
 
 #### Amendments
 

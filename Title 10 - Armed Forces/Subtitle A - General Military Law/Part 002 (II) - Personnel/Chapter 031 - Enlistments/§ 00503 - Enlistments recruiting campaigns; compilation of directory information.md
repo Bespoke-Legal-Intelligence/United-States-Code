@@ -4,7 +4,7 @@
 
 Recruiting Campaigns.—(1) The Secretary concerned shall conduct intensive recruiting campaigns to obtain enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, and Regular Coast Guard.
 
-(2) The Secretary of Defense shall act on a continuing basis to enhance the effectiveness of recruitment programs of the Department of Defense (including programs conducted jointly and programs conducted by the separate armedforces) through an aggressive program of advertising and market research targeted at prospective recruits for the armed forces and those who may influence prospective recruits. Subchapter I of chapter 35 of title 44 shall not apply to actions taken as part of that program.
+(2) The Secretary of Defense shall act on a continuing basis to enhance the effectiveness of recruitment programs of the Department of Defense (including programs conducted jointly and programs conducted by the separate armed forces) through an aggressive program of advertising and market research targeted at prospective recruits for the armed forces and those who may influence prospective recruits. Subchapter I of chapter 35 of title 44 shall not apply to actions taken as part of that program.
 
 (b)
 
@@ -32,7 +32,7 @@ Access to Secondary Schools.—(1)(A) Each local educational agency receiving as
 
 (2) If a local educational agency denies a request by the Department of Defense for recruiting access, the Secretary of Defense, in cooperation with the Secretary of the military department concerned, shall designate an officer in a grade not below the grade of colonel or, in the case of the Navy, captain, or a senior executive of that military department to meet with representatives of that local educational agency in person, at the offices of that agency, for the purpose of arranging for recruiting access. The designated officer or senior executive shall seek to have that meeting within 120 days of the date of the denial of the request for recruiting access.
 
-(3) If, after a meeting under paragraph (2) with representatives of a local educational agency that has denied a request for recruiting access or (if the educational agency declines a request for the meeting) after the end of such 120-day period, the Secretary of Defense determines that the agency continues to deny recruiting access, the Secretary shall transmit to the chief executive of the State in which the agency is located a notification of the denial of recruiting access and a request for assistance in obtaining that access. The notification shall be transmitted within 60 days after the date of the determination. The Secretary shall provide to the Secretary of Education a copy of such notification and any other communication between the Secretary and that chief executive with respect to such access.
+(3) If, after a meeting under paragraph (2) with representatives of a local educational agency that has denied a request for recruiting access or (if the educational agency declines a request for the meeting) after the end of such 120-day period, the Secretary of Defense determines that the agency continues to deny recruiting access, the Secretary shall transmit to the chief executive of the State in which the agency is located a notification of the denial of recruiting access and a request for assistance in obtaining that access. The notification shall be transmitted within 60 days after the date of the determination. The Secretary shall provide to the Secretary of Education a copy of such notificationand any other communication between the Secretary and that chief executive with respect to such access.
 
 (4) If a local educational agency continues to deny recruiting access one year after the date of the transmittal of a notification regarding that agency under paragraph (3), the Secretary—
 
@@ -169,6 +169,86 @@ Home School Graduates.—In prescribing the policy under subsection (a), the Sec
 “(d)
 
 Secretary Concerned Defined.—In this section, the term ‘Secretary concerned’ has the meaning given such term in section 101(a)(9) of title 10, United States Code.”
+
+#### Temporary Army Authority To Provide Additional Recruitment Incentives
+
+Pub. L. 109–163, div. A, title VI, §681, Jan. 6, 2006, 119 Stat. 3320, as amended by Pub. L. 111–84, div. A, title VI, §621, Oct. 28, 2009, 123 Stat. 2358, provided that:
+
+“(a)
+
+Authority to Develop and Provide Recruitment Incentives.—The Secretary of the Army may develop and provide incentives not otherwise authorized by law to encourage individuals to accept commissions as officers or to enlist in the Army.
+
+“(b)
+
+Relation to Other Personnel Authorities.—A recruitment incentive developed under subsection (a) may be provided—
+
+&emsp;“(1) without regard to the lack of specific authority for the incentive under title 10 or 37, United States Code; and
+
+&emsp;“(2) notwithstanding any provision of such titles, or any rule or regulation prescribed under such provision, relating to methods of—
+
+&emsp;&emsp;“(A) determining requirements for, and the compensation of, members of the Army who are assigned duty as military recruiters; or
+
+&emsp;&emsp;“(B) providing incentives to individuals to accept commissions or enlist in the Army, including the provision of group or individual bonuses, pay, or other incentives.
+
+“(c)
+
+Waiver of Otherwise Applicable Laws.—A provision of title 10 or 37, United States Code, may not be waived with respect to, or otherwise determined to be inapplicable to, the provision of a recruitment incentive developed under subsection (a) without the approval of the Secretary of Defense.
+
+“(d)
+
+Notice and Wait Requirement.—A recruitment incentive developed under subsection (a) may not be provided to individuals until—
+
+&emsp;“(1) the Secretary of the Army submits to Congress, the appropriate elements of the Department of Defense, and the Comptroller General a plan that includes—
+
+&emsp;&emsp;“(A) a description of the incentive, including the purpose of the incentive and the potential recruits to be addressed by the incentive;
+
+&emsp;&emsp;“(B) a description of the provisions of titles 10 and 37, United States Code, from which the incentive would require a waiver and the rationale to support the waiver;
+
+&emsp;&emsp;“(C) a statement of the anticipated outcomes as a result of providing the incentive; and
+
+&emsp;&emsp;“(D) the method to be used to evaluate the effectiveness of the incentive; and
+
+&emsp;“(2) a 45-day period beginning on the date on which the plan was received by Congress expires.
+
+“(e)
+
+Limitation on Number of Incentives.—Not more than four recruitment incentives may be provided at the same time under the authority of this section.
+
+“(f)
+
+Limitation on Number of Individuals Receiving Incentives.—The number of individuals who receive one or more of the recruitment incentives provided under subsection (a) during a fiscal year may not exceed the number of individuals equal to 20 percent of the accession mission of the Army for that fiscal year.
+
+“(g)
+
+Duration of Developed Incentive.—A recruitment incentive developed under subsection (a) may be provided for not longer than a three-year period beginning on the date on which the incentive is first provided, except that the Secretary of the Army may extend the period if the Secretary determines that additional time is needed to fully evaluate the effectiveness of the incentive.
+
+“(h)
+
+Reporting Requirements.—
+
+&emsp;“(1)
+
+Secretary of the army report.—The Secretary of the Army shall submit to Congress an annual report on the recruitment incentives provided under subsection (a) during the preceding year, including—
+
+&emsp;&emsp;“(A) a description of the incentives provided under subsection (a) during that fiscal year; and
+
+&emsp;&emsp;“(B) an assessment of the impact of the incentives on the recruitment of individuals as officers or enlisted members.
+
+&emsp;“(2)
+
+Comptroller general report.—As soon as practicable after receipt of each plan under subsection (d), the Comptroller General shall submit to Congress a report evaluating the expected outcomes of the recruitment incentive covered by the plan in terms of cost effectiveness and mission achievement.
+
+“(i)
+
+Duration of Authority.—
+
+&emsp;“(1)
+
+In general.—The Secretary may not develop an incentive under this section, or first provide an incentive developed under this section to an individual, after December 31, 2012.
+
+&emsp;“(2)
+
+Continuation of incentives.—Nothing in paragraph (1) shall be construed to prohibit or limit the continuing provision to an individual after the date specified in that paragraph of an incentive first provided the individual under this section before that date.”
 
 #### Enhanced Screening Methods and Process Improvements for Recruitment of Home Schooled and National Guard Challenge Program GED Recipients
 
@@ -312,7 +392,7 @@ Reports.—Not later than February 1, 2008, the Secretary of the Army shall subm
 
 #### Pilot Program To Enhance Military Recruiting by Improving Military Awareness of School Counselors and Educators
 
-Pub. L. 106–398, §1 \[\[div. A\], title V, §564\], Oct. 30, 2000, 114 Stat. 1654, 1654A–133, as amended by Pub. L. 109–364, div. A, title X, §1046(d), Oct. 17, 2006, 120 Stat. 2394, directed the Secretary of Defense to conduct a three-year pilot program in a qualifying interactive Internet site beginning not later than 180 days after Oct. 30, 2000, to determine if cooperation with military recruiters bylocal educational agencies and by institutions of higher education could be enhanced by improving the understanding of school counselors and educators about military recruiting and military career opportunities.
+Pub. L. 106–398, §1 \[\[div. A\], title V, §564\], Oct. 30, 2000, 114 Stat. 1654, 1654A–133, as amended by Pub. L. 109–364, div. A, title X, §1046(d), Oct. 17, 2006, 120 Stat. 2394, directed the Secretary of Defense to conduct a three-year pilot program in a qualifying interactive Internet site beginning not later than 180 days after Oct. 30, 2000, to determine if cooperation with military recruiters by local educational agencies and by institutions of higher education could be enhanced by improving the understanding of school counselors and educators about military recruiting and military career opportunities.
 
 #### Measures To Improve Recruit Quality and Reduce Recruit Attrition
 
@@ -326,7 +406,7 @@ In General.—The Secretary of Defense shall carry out reforms in the recruiting
 
 “(b)
 
-Specific Reforms.—As part of the reforms in military recruiting systems to be undertaken under subsection (a), the Secretary shall take the following steps:
+Specific Reforms.—As part of the reforms in military recruiting systems to be undertaken undersubsection (a), the Secretary shall take the following steps:
 
 &emsp;“(1) Improve the system of pre-enlistment waivers and separation codes used for recruits by (A) revising and updating those waivers and codes to allow more accurate and useful data collection about those separations, and (B) prescribing regulations to ensure that those waivers and codes are interpreted in a uniform manner by the military services.
 
@@ -384,7 +464,7 @@ Pub. L. 104–208, div. A, title I, §101(e) \[title V, §514\], Sept. 30, 1996,
 
 #### Military Recruiting on Campus
 
-Pub. L. 103–337, div. A, title V, §558, Oct. 5, 1994, 108 Stat. 2776, as amended by Pub. L. 104–324, title II, §206(a), Oct. 19, 1996, 110 Stat. 3908, which provided that no funds available to the Department of Defense or theDepartment of Transportation could be provided by grant or contract to any institution of higher education that had a policy of denying or preventing the Secretary of Defense or the Secretary of Transportation from obtaining for military recruiting purposes entry to campuses or access to students on campuses or access to directory information pertaining to students, was repealed and restated in section 983 of this title by Pub. L. 106–65, div. A, title V, §549(a)(1), (b)(1), Oct. 5, 1999, 113 Stat. 609, 611.
+Pub. L. 103–337, div. A, title V, §558, Oct. 5, 1994, 108 Stat. 2776, as amended by Pub. L. 104–324, title II, §206(a), Oct. 19, 1996, 110 Stat. 3908, which provided that no funds available to the Department of Defense or the Department of Transportation could be provided by grant or contract to any institution of higher education that had a policy of denying or preventing the Secretary of Defense or the Secretary of Transportation from obtaining for military recruiting purposes entry to campuses or access to students on campuses or access to directory information pertaining to students, was repealed and restated in section 983 of this title by Pub. L. 106–65, div. A, title V, §549(a)(1), (b)(1), Oct. 5, 1999, 113 Stat. 609, 611.
 
 #### Military Recruiting Information
 

@@ -14,7 +14,7 @@ In the agreement between the Secretary and an owner or operator, the owner or op
 
 &emsp;(6) not to adopt any practice specified by the Secretary in the agreement as a practice which would tend to defeat the purposes of the agreement; and
 
-&emsp;(7) to such additional provisions as the Secretary determines are desirable and includes in the agreement to effectuate the purposes of the program or to facilitate its administration.
+&emsp;(7) to such additional provisions as the Secretary determines are desirable and includesin the agreement to effectuate the purposes of the program or to facilitate its administration.
 
 (Pub. L. 91–559, §4, Dec. 19, 1970, 84 Stat. 1470.)
 

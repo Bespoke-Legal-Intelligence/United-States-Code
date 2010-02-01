@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), the President, in consultation with the Secretary of State, the Ambassador at Large, the SpecialAdviser, and the Commission, shall, as expeditiously as practicable in response to the violations described in subsection (a) of this section by the government of a foreign country—
+&emsp;Subject to paragraphs (2) and (3), the President, in consultation with the Secretary of State, the Ambassador at Large, the Special Adviser, and the Commission, shall, as expeditiously as practicable in response to the violations described in subsection (a) of this section by the government of a foreign country—
 
 &emsp;&emsp;(A) take one or more of the actions described in paragraphs (1) through (15) of section 6445(a) of this title (or commensurate action in substitution thereto) with respect to such country; or
 

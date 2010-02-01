@@ -40,7 +40,7 @@ Testing and Laboratory Requirements.—In carrying out subsection (b) of this se
 
 &emsp;(7) provide for the confidentiality of test results and medical information (except information about alcohol or a controlled substance) of employees, except that this clause does not prevent the use of test results for the orderly imposition of appropriate sanctions under this section; and
 
-&emsp;(8) ensure that employees are selected for tests by nondiscriminatory and impartialmethods, so that no employee is harassed by being treated differently from other employees in similar circumstances.
+&emsp;(8) ensure that employees are selected for tests by nondiscriminatory and impartial methods, so that no employee is harassed by being treated differently from other employees in similar circumstances.
 
 (d)
 

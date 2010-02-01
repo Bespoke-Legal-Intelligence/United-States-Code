@@ -30,7 +30,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 2002—Subsec. (a). Pub. L. 107–292, §7(1), inserted “and housing related community development activity as consistent with the purposes of this chapter” after “section 4132 of this title”.
 
-Subsecs. (b) to (d). Pub. L. 107–292, §7(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out heading and text of former subsec. (b). Text read as follows: “A guarantee under this subchapter may be used to assist an Indian tribe or housing entity in obtaining financing only if the Indian tribe or housing entity has made efforts to obtain such financing without the use of such guarantee and cannot complete such financing consistent with the timely execution of the program plans without such guarantee.”
+Subsecs. (b) to (d). Pub. L. 107–292, §7(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively,and struck out heading and text of former subsec. (b). Text read as follows: “A guarantee under this subchapter may be used to assist an Indian tribe or housing entity in obtaining financing only if the Indian tribe or housing entity has made efforts to obtain such financing without the use of such guarantee and cannot complete such financing consistent with the timely execution of the program plans without such guarantee.”
 
 #### Effective Date
 

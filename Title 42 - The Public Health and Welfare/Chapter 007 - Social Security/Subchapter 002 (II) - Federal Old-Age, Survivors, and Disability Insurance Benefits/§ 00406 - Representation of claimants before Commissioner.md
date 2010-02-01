@@ -28,7 +28,7 @@
 
 > the Commissioner of Social Security may approve such agreement only if the total fee or fees specified in such agreement does not exceed, in the aggregate, the dollar amount in effect under subparagraph (A)(ii)(II).
 
-(D) In the case of a claim with respect to which the Commissioner of Social Security has approved an agreement pursuant to subparagraph (A), the Commissioner of Social Security shall provide the claimant and the person representing the claimant a written notice of—
+(D) In the case of a claim with respect to which the Commissioner of Social Security hasapproved an agreement pursuant to subparagraph (A), the Commissioner of Social Security shall provide the claimant and the person representing the claimant a written notice of—
 
 &emsp;(i) the dollar amount of the past-due benefits (as determined before any applicable reduction under section 1320a–6(a) of this title) and the dollar amount of the past-due benefits payable to the claimant,
 
@@ -110,7 +110,7 @@ Section 301 of the Social Security Protection Act of 2003, referred to in subsec
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–203, §205, inserted “Notwithstanding the preceding sentences, the Commissioner, after due notice and opportunity for hearing, (A) may refuse to recognize as a representative, and may disqualify a representative already recognized, any attorney who has been disbarred or suspended from any court or bar to which he or she was previously admitted to practice or who has been disqualified from participating in or appearing before any Federal program or agency, and (B) may refuse to recognize, and may disqualify, as a non-attorney representative any attorney who has been disbarred or suspended from any court or bar to which he or she was previously admitted to practice. A representative whohas been disqualified or suspended pursuant to this section from appearing before the Social Security Administration as a result of collecting or receiving a fee in excess of the amount authorized shall be barred from appearing before the Social Security Administration as a representative until full restitution is made to the claimant and, thereafter, may be considered for reinstatement only under such rules as the Commissioner may prescribe.” after “claimants before the Commissioner of Social Security.”.
+2004—Subsec. (a)(1). Pub. L. 108–203, §205, inserted “Notwithstanding the preceding sentences, the Commissioner, after due notice and opportunity for hearing, (A) may refuse to recognize as a representative, and may disqualify a representative already recognized, any attorney who has been disbarred or suspended from any court or bar to which he or she was previously admitted to practice or who has been disqualified from participating in or appearing before any Federal program or agency, and (B) may refuse to recognize, and may disqualify, as a non-attorney representative any attorney who has been disbarred or suspended from any court or bar to which he or she was previously admitted to practice. A representative who has been disqualified or suspended pursuant to this section from appearing before the Social Security Administration as a result of collecting or receiving a fee in excess of the amount authorized shall be barred from appearing before the Social Security Administration as a representative until full restitution is made to the claimant and, thereafter, may be considered for reinstatement only under such rules as the Commissioner may prescribe.” after “claimants before the Commissioner of Social Security.”.
 
 Subsec. (d)(2)(A). Pub. L. 108–203, §301(a), inserted “, except that the maximum amount of the assessment may not exceed the greater of $75 or the adjusted amount as provided pursuant to the following two sentences” after “subparagraph (B)” and inserted at end “In the case of any calendar year beginning after the amendments made by section 301 of the Social Security Protection Act of 2003 take effect, the dollar amount specified in the preceding sentence (including a previously adjusted amount) shall be adjusted annually under the procedures used to adjust benefit amounts under section 415(i)(2)(A)(ii) of this title, except such adjustment shall be based on the higher of $75 or the previously adjusted amount that would have been in effect for December of the preceding year, but for the rounding of such amount pursuant to the following sentence. Any amount so adjusted that is not a multiple of $1 shall be rounded to the next lowest multiple of $1, but in no case less than $75.”
 
@@ -180,11 +180,11 @@ Amendment by section 321(f)(3)(B)(i), (4) of Pub. L. 103–296 effective as if i
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to determinations made on or after July 1, 1991,and to reimbursement for travel expenses incurred on or after Apr. 1, 1991, see section 5106(d) of Pub. L. 101–508, set out as a note under section 401 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to determinations made on or after July 1, 1991, and to reimbursement for travel expenses incurred on or after Apr. 1, 1991, see section 5106(d) of Pub. L. 101–508, set out as a note under section 401 of this title.
 
 #### Effective Date of 1989 Amendment
 
-Section 10307(a)(3) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section and section 1383 of this title\] shall take effect June 1, 1991.”
+Section 10307(a)(3) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amendingthis section and section 1383 of this title\] shall take effect June 1, 1991.”
 
 Section 10307(b)(3) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section and section 1383 of this title\] shall apply with respect to adverse determinations made on or after January 1, 1991.”
 

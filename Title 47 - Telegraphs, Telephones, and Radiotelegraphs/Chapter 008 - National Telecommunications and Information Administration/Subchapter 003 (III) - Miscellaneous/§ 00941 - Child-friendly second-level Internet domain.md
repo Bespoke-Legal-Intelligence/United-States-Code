@@ -50,7 +50,7 @@ The NTIA shall grant the initial registry the option periods available under the
 
 #### (1) In general
 
-&emsp;Only to the extent that such entities carry out functions under this section, the followingentities are deemed to be interactive computer services for purposes of section 230(c) of the Communications Act of 1934 (47 U.S.C. 230(c)):
+&emsp;Only to the extent that such entities carry out functions under this section, the following entities are deemed to be interactive computer services for purposes of section 230(c) of the Communications Act of 1934 (47 U.S.C. 230(c)):
 
 &emsp;&emsp;(A) The registry that operates and maintains the new domain.
 
@@ -82,7 +82,7 @@ The registry shall prepare, on an annual basis, a report on the registry's monit
 
 #### (i) Suspension of new domain
 
-If the NTIA finds, pursuant to its own review or upon a good faith petition by the registry, that the new domain is not serving its intended purpose, the NTIA shall instruct the registry to suspend operation of the new domain until such time as the NTIA determines that the new domain can be operated as intended.
+If the NTIA finds, pursuant to its own review or upon a good faith petition by the registry,that the new domain is not serving its intended purpose, the NTIA shall instruct the registry to suspend operation of the new domain until such time as the NTIA determines that the new domain can be operated as intended.
 
 #### (j) Definitions
 
@@ -166,5 +166,5 @@ Purposes.—The purposes of this Act \[see Short Title of 2002 Amendment note se
 
 &emsp;“(1) to facilitate the creation of a second-level domain within the United States country code Internet domain for the location of material that is suitable for minors and not harmful to minors; and
 
-&emsp;“(2) to ensure that the National Telecommunications and Information Administration oversees the creation of such a second-level domain and ensures the effective and efficient establishment and operation of the new domain.”
+&emsp;“(2) to ensure that the National Telecommunications and Information Administration oversees the creation of such a second-level domain and ensuresthe effective and efficient establishment and operation of the new domain.”
 

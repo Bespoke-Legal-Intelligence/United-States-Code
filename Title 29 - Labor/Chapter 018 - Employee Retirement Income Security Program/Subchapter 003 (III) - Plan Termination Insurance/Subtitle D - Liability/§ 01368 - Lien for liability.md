@@ -64,7 +64,7 @@ A former subsec. (f) of this section was originally subsec. (e) of section 1362 
 
 Pub. L. 101–239, §7881(f)(3)(B), struck out at end “The preceding provisions of this subsection shall be applied in a manner consistent with the provisions of section 1364(d) of this title relating to treatment of multiple controlled groups.”
 
-Subsec. (c). Pub. L. 101–239, §7891(a)(1), in pars. (1), (3), and (4), substituted “Internal Revenue Code of 1986” for“Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (c). Pub. L. 101–239, §7891(a)(1), in pars. (1), (3), and (4), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (c)(2). Pub. L. 101–239, §7894(g)(4)(A), substituted “section 3713 of title 31” for “section 3466 of the Revised Statutes (31 U.S.C. 191)”.
 

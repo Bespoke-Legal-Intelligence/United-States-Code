@@ -1,6 +1,6 @@
 ### §3161. Time limits and exclusions
 
-(a) In any case involving a defendant charged with an offense, the appropriate judicial officer, at the earliest practicable time, shall, after consultation with the counsel for the defendant andthe attorney for the Government, set the case for trial on a day certain, or list it for trial on a weekly or other short-term trial calendar at a place within the judicial district, so as to assure a speedy trial.
+(a) In any case involving a defendant charged with an offense, the appropriate judicial officer, at the earliest practicable time, shall, after consultation with the counsel for the defendant and the attorney for the Government, set the case for trial on a day certain, or list it for trial on a weekly or other short-term trial calendar at a place within the judicial district, so as to assure a speedy trial.
 
 (b) Any information or indictment charging an individual with the commission of an offense shall be filed within thirty days from the date on which such individual was arrested or served with a summons in connection with such charges. If an individual has been charged with a felony in a district in which no grand jury has been in session during such thirty-day period, the period of time for filing of the indictment shall be extended an additional thirty days.
 
@@ -22,7 +22,7 @@
 
 &emsp;(1) Any period of delay resulting from other proceedings concerning the defendant, including but not limited to—
 
-&emsp;&emsp;(A) delay resulting from any proceeding, including any examinations, to determine the mental competency or physical capacity of the defendant;
+&emsp;&emsp;(A) delay resulting from any proceeding, including any examinations, to determinethe mental competency or physical capacity of the defendant;
 
 &emsp;&emsp;(B) delay resulting from trial with respect to other charges against the defendant;
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(E) delay resulting from any proceeding relating to the transfer of a case or the removal of any defendant from another district under the Federal Rules of Criminal Procedure;
 
-&emsp;&emsp;(F) delay resulting from transportation of any defendant from another district, or to and from places of examination or hospitalization, except that any time consumed in excess of ten days from the date an order of removal or an order directing such transportation, and the defendant's arrival at thedestination shall be presumed to be unreasonable;
+&emsp;&emsp;(F) delay resulting from transportation of any defendant from another district, or to and from places of examination or hospitalization, except that any time consumed in excess of ten days from the date an order of removal or an order directing such transportation, and the defendant's arrival at the destination shall be presumed to be unreasonable;
 
 &emsp;&emsp;(G) delay resulting from consideration by the court of a proposed plea agreement to be entered into by the defendant and the attorney for the Government; and
 
@@ -132,5 +132,5 @@ Section 1 of Pub. L. 96–43 provided: “That this Act \[amending this section 
 
 #### Short Title
 
-Section 1 of Pub. L. 93–619 provided: “That this Act \[enacting this chapter and sections 3153 to 3156 of this title, and amending section 3152 of this title, and section 604 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Speedy Trial Act of 1974’.”
+Section 1 of Pub. L. 93–619 provided: “That this Act \[enacting this chapter and sections 3153 to 3156 of thistitle, and amending section 3152 of this title, and section 604 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Speedy Trial Act of 1974’.”
 

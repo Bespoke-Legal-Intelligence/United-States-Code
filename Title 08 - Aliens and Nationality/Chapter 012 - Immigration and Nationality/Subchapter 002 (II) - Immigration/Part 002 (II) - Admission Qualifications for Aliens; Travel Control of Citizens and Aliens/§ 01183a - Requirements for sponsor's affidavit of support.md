@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) in which the sponsor agrees to provide support to maintain the sponsored alien at an annual income that is not less than 125 percent of the Federal poverty line during the period in which the affidavit is enforceable;
 
-&emsp;&emsp;(B) that is legally enforceable against the sponsor by the sponsored alien, the Federal Government, any State (or any political subdivision of such State), or by any other entity that provides any means-tested publicbenefit (as defined in subsection (e) <sup>1</sup> of this section), consistent with the provisions of this section; and
+&emsp;&emsp;(B) that is legally enforceable against the sponsor by the sponsored alien, the Federal Government, any State (or any political subdivision of such State), or by any other entity that provides any means-tested public benefit (as defined in subsection (e) <sup>1</sup> of this section), consistent with the provisions of this section; and
 
 &emsp;&emsp;(C) in which the sponsor agrees to submit to the jurisdiction of any Federal or State court for the purpose of actions brought under subsection (b)(2) of this section.
 
@@ -136,9 +136,9 @@ An action to enforce an affidavit of support executed under subsection (a) of th
 
 &emsp;&emsp;(B) is a spouse, parent, mother-in-law, father-in-law, sibling, child (if at least 18 years of age), son, daughter, son-in-law, daughter-in-law, sister-in-law, brother-in-law, grandparent, or grandchild of a sponsored alien or a legal guardian of a sponsored alien, meets the requirements of paragraph (1) (other than subparagraph (D)), and executes an affidavit of support with respect to such alien in a case in which—
 
-&emsp;&emsp;&emsp;(i) the individual petitioning under section 1154 of this title for the classification of such alien died after the approval of such petition; and
+&emsp;&emsp;&emsp;(i) the individual petitioning under section 1154 of this title for the classification of such alien died after the approval of such petition, and the Secretary of Homeland Security has determined for humanitarian reasons that revocation of such petition under section 1155 of this title would be inappropriate; or
 
-&emsp;&emsp;&emsp;(ii) the Attorney General has determined for humanitarian reasons that revocation of such petition under section 1155 of this title would be inappropriate.
+&emsp;&emsp;&emsp;(ii) the alien's petition is being adjudicated pursuant to section 1154(<i>l</i>) of this title (surviving relative consideration).
 
 #### (6) Demonstration of means to maintain income
 
@@ -146,7 +146,7 @@ An action to enforce an affidavit of support executed under subsection (a) of th
 
 #### (i) Method of demonstration
 
-&emsp;&emsp;&emsp;For purposes of this section, a demonstration of the means to maintain income shall include provision of a certified copy of the individual's Federal income tax return for the individual's 3 most recent taxable years and a written statement, executed under oath or as permitted under penalty of perjury under section 1746 of title 28 that the copies are certified copies of such returns.
+&emsp;&emsp;&emsp;For purposes of this section, a demonstration of the means to maintain income shall include provision of a certified copy of the individual's Federal income tax return for the individual's 3 most recent taxable years and a written statement, executed under oath or as permitted under penalty of perjury under section 1746 of title 28, that the copies are certified copies of such returns.
 
 #### (ii) Flexibility
 
@@ -154,7 +154,7 @@ An action to enforce an affidavit of support executed under subsection (a) of th
 
 #### (iii) Percent of poverty
 
-&emsp;&emsp;&emsp;For purposes of this section, a reference to an annual income equal to at least aparticular percentage of the Federal poverty line means an annual income equal to at least such percentage of the Federal poverty line for a family unit of a size equal to the number of members of the sponsor's household (including family and non-family dependents) plus the total number of other dependents and aliens sponsored by that sponsor.
+&emsp;&emsp;&emsp;For purposes of this section, a reference to an annual income equal to at least a particular percentage of the Federal poverty line means an annual income equal to at least such percentage of the Federal poverty line for a family unit of a size equal to the number of members of the sponsor's household (including family and non-family dependents) plus the total number of other dependents and aliens sponsored by that sponsor.
 
 #### (B) Limitation
 
@@ -176,7 +176,7 @@ For purposes of this section, the term “Federal poverty line” means the leve
 
 &emsp;(B) a comparison of such numbers with the numbers of such sponsors for the preceding fiscal year.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §213A, as added Pub. L. 104–193, title IV, §423(a), Aug. 22, 1996, 110 Stat. 2271; amended Pub. L. 104–208, div. C, title V, §551(a), Sept. 30, 1996, 110 Stat. 3009–675; Pub. L. 107–150, §2(a)(1), (3), Mar. 13, 2002, 116 Stat. 74, 75.)
+(June 27, 1952, ch. 477, title II, ch. 2, §213A, as added Pub. L. 104–193, title IV, §423(a), Aug. 22, 1996, 110 Stat. 2271; amended Pub. L. 104–208, div. C, title V, §551(a), Sept. 30, 1996, 110 Stat. 3009–675; Pub. L. 107–150, §2(a)(1), (3), Mar. 13, 2002, 116 Stat. 74, 75; Pub. L. 111–83, title V, §568(e), Oct. 28, 2009, 123 Stat. 2187.)
 
 #### References in Text
 
@@ -186,6 +186,12 @@ The Social Security Act, referred to in subsec. (a)(3)(A), (B), is act Aug. 14, 
 
 #### Amendments
 
+2009—Subsec. (f)(5)(B)(i), (ii). Pub. L. 111–83, added cls. (i) and (ii) and struck out former cls. (i) and (ii), which read as follows:
+
+“(i) the individual petitioning under section 1154 of this title for the classification of such alien died after the approval of such petition; and
+
+“(ii) the Attorney General has determined for humanitarian reasons that revocation of such petition under section 1155 of this title would be inappropriate.”
+
 2002—Subsec. (f)(2), (4)(B)(ii). Pub. L. 107–150, §2(a)(3), substituted “paragraph (5)(A)” for “paragraph (5)”.
 
 Subsec. (f)(5). Pub. L. 107–150, §2(a)(1), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “Such term also includes an individual who does not meet the requirement of paragraph (1)(D) but who accepts joint and several liability with a petitioning sponsor under paragraph (2) or relative of an employment-based immigrant under paragraph (4) and who demonstrates (as provided under paragraph (6)) the means to maintain an annual income equal to at least 125 percent of the Federal poverty line.”
@@ -194,7 +200,7 @@ Subsec. (f)(5). Pub. L. 107–150, §2(a)(1), amended heading and text of par. (
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–150 applicable with respect to deaths occurring before, on, or after Mar. 13, 2002, except that, in case of death occurring before such date, such amendments shall apply only if (1) the sponsored alien requests Attorney General to reinstate the classification petition that was filed with respect to the alien by deceased and approved under section 1154 of this title before such death and demonstrates that he or she is able to satisfy requirement of section 1182(a)(4)(C)(ii) of this title by reason of such amendments; and (2) Attorney General reinstates such petition after making the determination described in subsec. (f)(5)(B)(ii) of this section, see section 2(b) of Pub. L. 107–150, set out as a note under section 1182 of this title.
+Amendment by Pub. L. 107–150 applicable with respect to deaths occurring before, on, or after Mar. 13, 2002, except that, in case of death occurring before suchdate, such amendments shall apply only if (1) the sponsored alien requests Attorney General to reinstate the classification petition that was filed with respect to the alien by deceased and approved under section 1154 of this title before such death and demonstrates that he or she is able to satisfy requirement of section 1182(a)(4)(C)(ii) of this title by reason of such amendments; and (2) Attorney General reinstates such petition after making the determination described in subsec. (f)(5)(B)(ii) of this section, see section 2(b) of Pub. L. 107–150, set out as a note under section 1182 of this title.
 
 #### Effective Date of 1996 Amendments; Promulgation of Form
 
@@ -220,7 +226,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §232\], Nov. 29, 19
 
 “(a)
 
-Authority To Charge Fee.—The Secretary of State may charge and retain a fee or surcharge for services provided by the Department of State to any sponsor who provides an affidavit of support under section 213A of the Immigration and Nationality Act (8 U.S.C. 1183a) to ensure that such affidavit is properly completed before it is forwarded to a consular post foradjudication by a consular officer in connection with the adjudication of an immigrant visa. Such fee or surcharge shall be in addition to and separate from any fee imposed for immigrant visa application processing and issuance, and shall recover only the costs of such services not recovered by such fee.
+Authority To Charge Fee.—The Secretary of State may charge and retain a fee or surcharge for services provided by the Department of State to any sponsor who provides an affidavit of support under section 213A of the Immigration and Nationality Act (8 U.S.C. 1183a) to ensure that such affidavit is properly completed before it is forwarded to a consular post for adjudication by a consular officer in connection with the adjudication of an immigrant visa. Such fee or surcharge shall be in addition to and separate from any fee imposed for immigrant visa application processing and issuance, and shall recover only the costs of such services not recovered by such fee.
 
 “(b)
 
@@ -282,7 +288,7 @@ Section 423(d) of Pub. L. 104–193, as amended by Pub. L. 105–277, div. A, §
 
 &emsp;“(4) Assistance or benefits under the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\].
 
-&emsp;“(5) Public health assistance for immunizations (not including any assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\]) with respect to immunizable diseases and for testing and treatment of symptoms of communicable diseases whether or not such symptoms are caused by a communicable disease.
+&emsp;“(5) Public health assistance for immunizations (not including any assistance under title XIX of theSocial Security Act \[42 U.S.C. 1396 et seq.\]) with respect to immunizable diseases and for testing and treatment of symptoms of communicable diseases whether or not such symptoms are caused by a communicable disease.
 
 &emsp;“(6) Payments for foster care and adoption assistance under parts B and E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] for a parent or a child, but only if the foster or adoptive parent (or parents) of such child is a qualified alien (as defined in section 431 \[8 U.S.C. 1641\]).
 

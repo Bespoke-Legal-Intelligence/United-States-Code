@@ -6,7 +6,7 @@ In providing technical and financial assistance under sections 1913 and 1914 <s
 
 #### References in Text
 
-Sections 1913 and 1914 of this title, referred to in text, were repealed by Pub. L. 93–618, title VI, §602(e), Jan. 3, 1975, 88 Stat. 2072. See sections 2343 and 2344 of this title, respectively.
+Sections 1913 and 1914 of this title, referred to in text, were repealed by Pub. L. 93–618, title VI, §602(e), Jan. 3, 1975, 88 Stat. 2072.
 
 #### Codification
 

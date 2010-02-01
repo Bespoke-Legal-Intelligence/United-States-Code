@@ -10,7 +10,7 @@
 
 &emsp;(4) upon reporting for the first period of active duty required by section 2121(c) of title 10 as a member of the Armed Forces Health Professions Scholarship program.
 
-(b) An officer who has received an initial uniform reimbursement or allowance under anyother law is not entitled to an initial allowance under subsection (a).
+(b) An officer who has received an initial uniform reimbursement or allowance under any other law is not entitled to an initial allowance under subsection (a).
 
 (c) An allowance of $250 for uniforms and equipment may be paid to each commissioned officer of the Public Health Service who is—
 
@@ -82,7 +82,7 @@ In subsection (e), the words “as a temporary officer” are inserted for clari
 
 Subsec. (a)(4). Pub. L. 97–60 added par. (4).
 
-1980—Subsec. (a). Pub. L. 96–513, §412(1), (2), substituted “an officer of an armed force is entitled” for “a reserve officer of an armed force, an officer of the Army or the Air Force without specification of component, or a regular officer of an armed force appointed under section 2106 or 2107 of title 10 is entitled”.
+1980—Subsec. (a). Pub. L. 96–513, §412(1), (2), substituted “an officer of an armed force is entitled” for “a reserve officer of an armed force, an officer of theArmy or the Air Force without specification of component, or a regular officer of an armed force appointed under section 2106 or 2107 of title 10 is entitled”.
 
 Subsecs. (c), (d). Pub. L. 96–513, §412(3), (4), redesignated subsec. (d) as (c). Former subsec. (c), relating to limitations on qualifications for initial allowances by certain officers, was struck out.
 

@@ -46,5 +46,5 @@ Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352, provided:
 
 The United States of America hereby withdraws and surrenders all rights of possession, supervision, jurisdiction, control, or sovereignty now existing and exercised by the United States of America in and over the territory and people of the Philippines; and,
 
-On behalf of the United States of America, I do hereby recognize the independence of the Philippines as a separate and self-governing nation and acknowledgethe authority and control over the same of the government instituted by the people thereof, under the constitution now in force.
+On behalf of the United States of America, I do hereby recognize the independence of the Philippines as a separate and self-governing nation and acknowledge the authority and control over the same of the government instituted by the people thereof, under the constitution now in force.
 

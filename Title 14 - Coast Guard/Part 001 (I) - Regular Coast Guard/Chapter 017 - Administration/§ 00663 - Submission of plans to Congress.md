@@ -94,9 +94,11 @@ Independent Analysis of Revised Deepwater Plan.—The Secretary may periodically
 
 #### Revised Deepwater Implementation Plan
 
-Pub. L. 110–329, div. D, title II, Sept. 30, 2008, 122 Stat. 3665, provided in part: “That the Secretary \[of Homeland Security\] shall submit to the Committees on Appropriations of the Senate and the House of Representatives a comprehensive review of the Revised Deepwater Implementation Plan every 5 years, beginning in fiscal year 2011, that includes a complete projection of the acquisition costs and schedule for the duration of the plan through fiscal year 2027”.
+Pub. L. 111–83, title II, Oct. 28, 2009, 123 Stat. 2153, provided in part: “That the Secretary \[of Homeland Security\] shall submit to the Committees on Appropriations of the Senate and the House of Representatives, in conjunction with the fiscal year 2011 budget request, a comprehensive review of the Revised Deepwater Implementation Plan, and every 5 years thereafter, that includes a complete projection of the acquisition costs and schedule for the duration of the plan”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 110–329, div. D, title II, Sept. 30, 2008, 122 Stat. 3665.
 
 Pub. L. 110–161, div. E, title II, Dec. 26, 2007, 121 Stat. 2056.
 
@@ -106,7 +108,7 @@ Pub. L. 109–90, title II, Oct. 18, 2005, 119 Stat. 2072.
 
 #### Future-Years Capital Investment Plan
 
-Pub. L. 110–329, div. D, title II, Sept. 30, 2008, 122 Stat. 3665, provided in part: “That the Secretary \[of Homeland Security\] shall annually submit to the Committees on Appropriations of the Senate and the House of Representatives, at the time that the President's budget is submitted under section 1105(a) of title 31, United States Code, a future-years capital investment plan for the Coast Guard that identifies for each capital budget line item—
+Pub. L. 111–83, title II, Oct. 28, 2009, 123 Stat. 2153, provided in part: “That the Secretary \[of Homeland Security\] shall annually submit to the Committees on Appropriations of the Senate and the House of Representatives, at the time that the President's budget is submitted under section 1105(a) of title 31, United States Code, a future-years capital investment plan for the Coast Guard that identifies for each capital budget line item—
 
 &emsp;“(1) the proposed appropriation included in that budget;
 
@@ -118,9 +120,11 @@ Pub. L. 110–329, div. D, title II, Sept. 30, 2008, 122 Stat. 3665, provided in
 
 &emsp;“(5) changes, if any, in the total estimated cost of completion or estimated completion date from previous future-years capital investment plans submitted to the Committees on Appropriations of the Senate and the House of Representatives:
 
-> <i>Provided further</i>, That the Secretary shall ensure that amounts specified in the future-years capital investment plan are consistent to the maximum extent practicable with proposed appropriations necessary to support the programs, projects, and activities of the Coast Guard in the President's budget as submitted under section 1105(a) of title 31, United States Code, for that fiscal year: <i>Provided further</i>, That any inconsistencies between the capital investment plan and proposed appropriations shall be identified and justified”.
+> <i>Provided further</i>, That the Secretary shall ensure that amounts specified in the future-years capital investment plan are consistent, to the maximum extent practicable, with proposed appropriations necessary to support the programs, projects, and activities of the Coast Guard in the President's budget as submitted under section 1105(a) of title 31, United States Code, for that fiscal year: <i>Provided further</i>, That any inconsistencies between the capital investment plan and proposed appropriations shall be identified and justified”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 110–329, div. D, title II, Sept. 30, 2008, 122 Stat. 3665.
 
 Pub. L. 110–161, div. E, title II, Dec. 26, 2007, 121 Stat. 2056.
 

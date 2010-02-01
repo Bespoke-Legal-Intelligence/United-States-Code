@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(iii) an alien employee who occupies a position outside the several States, the District of Columbia, and the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979);
 
-&emsp;&emsp;(iv) an employee who is subject to subchapter III of chapter 83 of this title or any other retirement statute or retirement system applicable to an employee as defined by section 2105 of this title or a member of a uniformed service and, who, at the time of separation from the service, has fulfilled the requirements for immediate annuity under such a statute or system;
+&emsp;&emsp;(iv) an employee who is subject to subchapter III of chapter 83 of this title or any other retirement statute or retirement system applicable to an employee as defined by section 2105 of this title or a member of a uniformed service and who, at the time of separation from the service, has fulfilled the requirements for immediate annuity under such a statute or system;
 
 &emsp;&emsp;(v) an employee who, at the time of separation from the service, is receiving compensation under subchapter I of chapter 81 of this title, other than one receiving this compensation concurrently with pay or on account of the death of another individual;
 
@@ -126,7 +126,7 @@
 
 (3) If an employee fails to repay to the Department of Energy an amount required to be repaid under paragraph (2)(A), that amount is recoverable from the employee as a debt due the United States.
 
-(Added Pub. L. 90–83, §1(34)(C), Sept. 11, 1967, 81 Stat. 201; amended Pub. L. 95–454, title IV, §408(a)(3), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 96–70, title I, §1231(d), Sept. 27, 1979, 93 Stat. 470; Pub. L. 96–465, title II, §2305, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–325, §2(i)(2), May 30, 1988, 102 Stat. 582; Pub. L. 101–474, §5(k), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(J)\], Nov. 5, 1990, 104 Stat. 1427, 1442; Pub. L. 103–337, div. A, title III, §343(a), Oct. 5, 1994, 108 Stat. 2721; Pub. L. 104–106, div. A, title X, §1035, Feb. 10, 1996, 110 Stat. 430; Pub. L. 105–55, title III, §310(a), Oct. 7, 1997, 111 Stat. 1199; Pub. L. 105–275, title III, §§308(a), 309(a), Oct. 21, 1998, 112 Stat. 2452, 2454; Pub. L. 106–31, title V, §5006, May 21, 1999, 113 Stat. 112; Pub. L. 106–65, div. A, title XI, §1104(a), div. C, title XXXII, §3243, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 107–314, div. A, title XI, §1102(a), Dec. 2, 2002, 116 Stat. 2660; Pub. L. 109–163, div. A, title XI, §1103, Jan. 6, 2006, 119 Stat. 3448; Pub. L. 109–241, title IX, §902(a)(3), July 11, 2006, 120 Stat. 566; Pub. L. 110–417, \[div. A\], title XI, §1104, Oct. 14, 2008, 122 Stat. 4617.)
+(Added Pub. L. 90–83, §1(34)(C), Sept. 11, 1967, 81 Stat. 201; amended Pub. L. 95–454, title IV, §408(a)(3), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 96–70, title I, §1231(d), Sept. 27, 1979, 93 Stat. 470; Pub. L. 96–465, title II, §2305, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–325, §2(i)(2), May 30, 1988, 102 Stat. 582; Pub. L. 101–474, §5(k), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(J)\], Nov. 5, 1990, 104 Stat. 1427, 1442; Pub. L. 103–337, div. A, title III, §343(a), Oct. 5, 1994, 108 Stat. 2721; Pub. L. 104–106, div. A, title X, §1035, Feb. 10, 1996, 110 Stat. 430; Pub. L. 105–55, title III, §310(a), Oct. 7, 1997, 111 Stat. 1199; Pub. L. 105–275, title III, §§308(a), 309(a), Oct. 21, 1998, 112 Stat. 2452, 2454; Pub. L. 106–31, title V, §5006, May 21, 1999, 113 Stat. 112; Pub. L. 106–65, div. A, title XI, §1104(a), div. C, title XXXII, §3243, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 107–314, div. A, title XI, §1102(a), Dec. 2, 2002,116 Stat. 2660; Pub. L. 109–163, div. A, title XI, §1103, Jan. 6, 2006, 119 Stat. 3448; Pub. L. 109–241, title IX, §902(a)(3), July 11, 2006, 120 Stat. 566; Pub. L. 110–417, \[div. A\], title XI, §1104, Oct. 14, 2008, 122 Stat. 4617.)
 
 Historical and Revision Notes
 
@@ -228,7 +228,7 @@ Section 343(b) of Pub. L. 103–337 provided that: “Subsection (h) of section 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990,see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 #### Effective Date of 1980 Amendment
 

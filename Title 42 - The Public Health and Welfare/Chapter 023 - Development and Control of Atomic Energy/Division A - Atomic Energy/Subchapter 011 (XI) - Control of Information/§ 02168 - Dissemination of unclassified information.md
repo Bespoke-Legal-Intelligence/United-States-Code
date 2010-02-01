@@ -50,7 +50,7 @@ The Secretary shall prepare on a quarterly basis a report to be made available u
 
 #### Amendments
 
-1983—Subsec. (a)(1). Pub. L. 97–415, §17(a), inserted “, with respect to atomic energy defense programs,” after “(hereinafter in this section referred to as the ‘Secretary’)”.
+1983—Subsec. (a)(1). Pub. L. 97–415, §17(a), inserted “, with respect to atomic energy defense programs,”after “(hereinafter in this section referred to as the ‘Secretary’)”.
 
 Subsecs. (d), (e). Pub. L. 97–415, §17(b), added subsecs. (d) and (e).
 

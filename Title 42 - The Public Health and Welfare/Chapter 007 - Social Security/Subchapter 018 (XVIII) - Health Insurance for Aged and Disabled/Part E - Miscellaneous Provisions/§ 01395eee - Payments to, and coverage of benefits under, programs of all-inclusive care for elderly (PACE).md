@@ -78,7 +78,7 @@
 
 #### (8) “State administering agency” defined
 
-&emsp;For purposes of this section, the term “State administering agency” means, with respect to the operation of a PACE program in a State, the agency of that State (which may be the single agency responsible for administration of the State plan under subchapter XIX of this chapter in the State) responsible for administering PACE program agreements under this section and section 1396u–4 of this title in the State.
+&emsp;For purposes of this section, the term “State administering agency” means, with respect to the operation of a PACE program in a State, the agency of that State (which may be the single agency responsible for administration of the State plan under subchapter XIX of thischapter in the State) responsible for administering PACE program agreements under this section and section 1396u–4 of this title in the State.
 
 #### (9) “Trial period” defined
 
@@ -146,7 +146,7 @@
 
 #### (2) Condition
 
-&emsp;An individual is not a PACE program eligible individual (with respect to payment under this section) unless the individual's health status has been determined by the Secretary or the State administering agency, in accordance with regulations, to be comparable to the health status of individuals who have participated in the PACE demonstration waiver programs. Such determination shall be based upon information on health status and related indicators (such as medical diagnoses and measures of activities of daily living, instrumental activities of daily living, and cognitive impairment) that are part of a uniform minimum data set collected by PACE providers on potential PACE program eligible individuals.
+&emsp;An individual is not a PACE program eligible individual (with respect to payment under this section) unless the individual's healthstatus has been determined by the Secretary or the State administering agency, in accordance with regulations, to be comparable to the health status of individuals who have participated in the PACE demonstration waiver programs. Such determination shall be based upon information on health status and related indicators (such as medical diagnoses and measures of activities of daily living, instrumental activities of daily living, and cognitive impairment) that are part of a uniform minimum data set collected by PACE providers on potential PACE program eligible individuals.
 
 #### (3) Annual eligibility recertifications
 
@@ -180,7 +180,7 @@
 
 #### (ii) No disenrollment for noncompliant behavior
 
-&emsp;&emsp;&emsp;Except as allowed under regulations promulgated to carry out clause (i)(II), aPACE program may not disenroll a PACE program eligible individual on the ground that the individual has engaged in noncompliant behavior if such behavior is related to a mental or physical condition of the individual. For purposes of the preceding sentence, the term “noncompliant behavior” includes repeated noncompliance with medical advice and repeated failure to appear for appointments.
+&emsp;&emsp;&emsp;Except as allowed under regulations promulgated to carry out clause (i)(II), a PACE program may not disenroll a PACE program eligible individual on the ground that the individual has engaged in noncompliant behavior if such behavior is related to a mental or physical condition of the individual. For purposes of the preceding sentence, the term “noncompliant behavior” includes repeated noncompliance with medical advice and repeated failure to appear for appointments.
 
 #### (iii) Timely review of proposed nonvoluntary disenrollment
 
@@ -324,7 +324,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Under regulations, if the Secretary determines (after consultation with the State administering agency) that a PACE provider is failing substantially to comply with the requirements of this section and regulations, the Secretary (and the State administeringagency) may take any or all of the following actions:
+&emsp;&emsp;Under regulations, if the Secretary determines (after consultation with the State administering agency) that a PACE provider is failing substantially to comply with the requirements of this section and regulations, the Secretary (and the State administering agency) may take any or all of the following actions:
 
 &emsp;&emsp;&emsp;(i) Condition the continuation of the PACE program agreement upon timely execution of a corrective action plan.
 
@@ -426,7 +426,7 @@ With respect to carrying out a PACE program under this section, the following re
 
 #### (i) Miscellaneous provisions
 
-Nothing in this section or section 1396u–4 of this title shall be construed as preventing a PACE provider from entering into contracts with other governmental or nongovernmental payers for the care of PACE program eligible individuals who are not eligible for benefits under part A of this subchapter, or enrolled under part B of this subchapter, or eligible for medical assistance under subchapter XIX of this title.
+Nothing in this section or section 1396u–4 of this title shall be construed as preventing aPACE provider from entering into contracts with other governmental or nongovernmental payers for the care of PACE program eligible individuals who are not eligible for benefits under part A of this subchapter, or enrolled under part B of this subchapter, or eligible for medical assistance under subchapter XIX of this title.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1894, as added Pub. L. 105–33, title IV, §4801, Aug. 5, 1997, 111 Stat. 528; amended Pub. L. 106–554, §1(a)(6) \[title IX, §902(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 108–173, title II, §236(a)(2), Dec. 8, 2003, 117 Stat. 2210; Pub. L. 110–275, title I, §161(c), July 15, 2008, 122 Stat. 2569.)
 
@@ -464,7 +464,7 @@ Amendment by Pub. L. 108–173 applicable to services furnished on or after Jan.
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(6) \[title IX, §902(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583, provided that: “The amendments made by this section \[amending this section and section 1396u–4 of this title\] shall be effectiveas \[if\] included in the enactment of BBA \[Pub. L. 105–33\].”
+Pub. L. 106–554, §1(a)(6) \[title IX, §902(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583, provided that: “The amendments made by this section \[amending this section and section 1396u–4 of this title\] shall be effective as \[if\] included in the enactment of BBA \[Pub. L. 105–33\].”
 
 #### Rural PACE Provider Grant Program
 
@@ -616,7 +616,7 @@ Limitation of outlier cost reimbursement period.—A rural PACE pilot site shall
 
 &emsp;“(5)
 
-Requirement to access risk reserves prior to payment.—A rural PACE pilot site shall access and exhaust any risk reserves held or arranged for the provider (other than revenue or reserves maintained to satisfy the requirements of section 460.80(c) of title 42, Code of Federal Regulations) and anyworking capital established through a site development grant awarded under subsection (b)(1), prior to receiving any payment from the outlier fund.
+Requirement to access risk reserves prior to payment.—A rural PACE pilot site shall access and exhaust any risk reserves held or arranged for the provider (other than revenue or reserves maintained to satisfy the requirements of section 460.80(c) of title 42, Code of Federal Regulations) and any working capital established through a site development grant awarded under subsection (b)(1), prior to receiving any payment from the outlier fund.
 
 &emsp;“(6)
 
@@ -672,7 +672,7 @@ Expansion and Transition for PACE Demonstration Project Waivers.—
 
 Expansion in current number and extension of demonstration projects.—Section 9412(b) of the Omnibus Budget Reconciliation Act of 1986 \[see subsec. (d) below\], as amended by section 4118(g) of the Omnibus Budget Reconciliation Act of 1987, is amended—
 
-&emsp;&emsp;“(A) in paragraph (1), by inserting before the period at the end the following: ‘, except that the Secretary shall grant waivers of such requirements to up to the applicable numerical limitation specified in sections 1894(e)(1)(B) and 1934(e)(1)(B) of the Social Security Act’ \[subsec. (e)(1)(B) of this section and section 1396u–4(e)(1)(B) of this title\]; and
+&emsp;&emsp;“(A) in paragraph (1), by inserting before the period at the end the following: ‘, except that theSecretary shall grant waivers of such requirements to up to the applicable numerical limitation specified in sections 1894(e)(1)(B) and 1934(e)(1)(B) of the Social Security Act’ \[subsec. (e)(1)(B) of this section and section 1396u–4(e)(1)(B) of this title\]; and
 
 &emsp;&emsp;“(B) in paragraph (2)—
 

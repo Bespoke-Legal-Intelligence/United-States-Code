@@ -2,7 +2,7 @@
 
 #### (a) Grants to public and nonprofit private entities
 
-The Secretary, through the Director of the Prevention Center, shall make grants to public and nonprofit private entities for projects to demonstrate effective models for the prevention, treatment, and rehabilitation of drug abuse and alcohol abuse among high risk youth.
+The Secretary, through the Director of the Prevention Center, shall make grants to publicand nonprofit private entities for projects to demonstrate effective models for the prevention, treatment, and rehabilitation of drug abuse and alcohol abuse among high risk youth.
 
 #### (b) Priority of projects
 
@@ -10,7 +10,7 @@ The Secretary, through the Director of the Prevention Center, shall make grants 
 
 (2) In making grants for drug abuse and alcohol abuse treatment and rehabilitation projects under this section, the Secretary shall give priority to projects which address the relationship between drug abuse or alcohol abuse and physical child abuse, sexual child abuse, emotional child abuse, dropping out of school, unemployment, delinquency, pregnancy, violence, suicide, or mental health problems.
 
-(3) In making grants under this section, the Secretary shall give priority to applications from community based organizations for projects to develop innovative models with multiple, coordinated services for the prevention orfor the treatment and rehabilitation of drug abuse or alcohol abuse by high risk youth.
+(3) In making grants under this section, the Secretary shall give priority to applications from community based organizations for projects to develop innovative models with multiple, coordinated services for the prevention or for the treatment and rehabilitation of drug abuse or alcohol abuse by high risk youth.
 
 (4) In making grants under this section, the Secretary shall give priority to applications for projects to demonstrate effective models with multiple, coordinated services which may be replicated and which are for the prevention or for the treatment and rehabilitation of drug abuse or alcohol abuse by high risk youth.
 

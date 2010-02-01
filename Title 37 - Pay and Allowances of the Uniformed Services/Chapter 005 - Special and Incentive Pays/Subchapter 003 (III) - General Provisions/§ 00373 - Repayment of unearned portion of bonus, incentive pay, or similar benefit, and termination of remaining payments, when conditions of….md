@@ -14,7 +14,7 @@ Discretion to provide exception to termination and repayment requirements.—Pur
 
 &emsp;(2)
 
-Mandatory payment of unpaid amounts under certain circumstances; no repayment of unearned amounts.—(A) If a member of the uniformed services dies or is retired or separated with a combat-related disability, the Secretary concerned—
+Special rule for deceased and disabled members.—(A) If a member of the uniformed services dies or is retired or separated with a combat-related disability, the Secretary concerned—
 
 &emsp;&emsp;(i) shall not require repayment by the member or the member's estate of the unearned portion of any bonus, incentive pay, or similar benefit previously paid to the member; and
 
@@ -27,6 +27,24 @@ Mandatory payment of unpaid amounts under certain circumstances; no repayment of
 &emsp;(D) Amounts to be paid to a member or the member's estate under subparagraph (A)(ii) shall be paid in a lump sum not later than 90 days after the date of the death, retirement, or separation of the member, whichever applies.
 
 &emsp;(E) In this paragraph, the term “combat-related disability” has the meaning given that term in section 1413a(e) of title 10.
+
+&emsp;(3)
+
+Special rule for members who receive sole survivorship discharge.—(A) If a member of the uniformed services receives a sole survivorship discharge, the Secretary concerned—
+
+&emsp;&emsp;(i) shall not require repayment by the member of the unearned portion of any bonus, incentive pay, or similar benefit previously paid to the member; and
+
+&emsp;&emsp;(ii) may grant an exception to the requirement to terminate the payment of any unpaid amounts of a bonus, incentive pay, or similar benefit if the Secretary concerned determines that termination of the payment of the unpaid amounts would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States.
+
+&emsp;(B) In this paragraph, the term “sole survivorship discharge” means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—
+
+&emsp;&emsp;(i) the father or mother or one or more siblings—
+
+&emsp;&emsp;&emsp;(I) served in the Armed Forces; and
+
+&emsp;&emsp;&emsp;(II) was killed, died as a result of wounds, accident, or disease, is in a captured or missing in action status, or is permanently 100 percent disabled or hospitalized on a continuing basis (and is not employed gainfully because of the disability or hospitalization); and
+
+&emsp;&emsp;(ii) the death, status, or disability did not result from the intentional misconduct or willful neglect of the parent or sibling and was not incurred during a period of unauthorized absence.
 
 (c)
 
@@ -52,9 +70,13 @@ Definitions.—In this section:
 
 &emsp;&emsp;(D) to perform duty for a specified period of time.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 177; amended Pub. L. 110–417, \[div. A\], title VI, §651(c)(1), (2)(A), Oct. 14, 2008, 122 Stat. 4496, 4497.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 177; amended Pub. L. 110–417, \[div. A\], title VI, §651(c)(1), (2)(A), Oct. 14, 2008, 122 Stat. 4496, 4497; Pub. L. 111–84, div. A, title VI, §617(b), Oct. 28, 2009, 123 Stat. 2355.)
 
 #### Amendments
+
+2009—Subsec. (b)(2). Pub. L. 111–84, §617(b)(1), substituted “Special rule for deceased and disabled members” for “Mandatory payment of unpaid amounts under certain circumstances; no repayment of unearned amounts” in heading.
+
+Subsec. (b)(3). Pub. L. 111–84, §617(b)(2), added par. (3).
 
 2008—Pub. L. 110–417, §651(c)(2)(A), substituted “Repayment of unearned portion of bonus, incentive pay, or similar benefit, and termination of remaining payments, when conditions of payment not met” for “Repayment of unearned portion of bonus, incentive pay, or similar benefit when conditions of payment not met” in section catchline.
 

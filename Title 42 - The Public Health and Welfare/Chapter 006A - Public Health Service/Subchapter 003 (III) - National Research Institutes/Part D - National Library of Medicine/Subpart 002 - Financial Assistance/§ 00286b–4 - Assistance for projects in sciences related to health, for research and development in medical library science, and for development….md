@@ -22,7 +22,7 @@ The Secretary shall make grants to appropriate public or private nonprofit insti
 
 &emsp;(D) the testing of new technologies for training health care professionals.
 
-(3) The Secretary may not make a grant under paragraph (1) unless the applicant for the grantagrees to make the projects available with respect to—
+(3) The Secretary may not make a grant under paragraph (1) unless the applicant for the grant agrees to make the projects available with respect to—
 
 &emsp;(A) assisting in the training of health professions students; and
 

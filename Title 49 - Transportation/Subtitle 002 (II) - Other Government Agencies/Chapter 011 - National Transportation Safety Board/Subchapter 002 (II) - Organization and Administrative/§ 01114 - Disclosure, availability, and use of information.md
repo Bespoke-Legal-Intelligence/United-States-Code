@@ -140,7 +140,7 @@ In subsection (d)(3), the words “laboratory record made available under paragr
 
 #### References in Text
 
-Section 503(e) of the Supplemental Appropriations Act, 1987, referred to in subsec. (e)(1), is section 503(e) of Pub. L. 100–71, which is set out as a note under section 7301 of Title 5, Government Organization and Employees.
+Section 503(e) of the Supplemental Appropriations Act, 1987, referred to in subsec. (e)(1), is section 503(e)of Pub. L. 100–71, which is set out as a note under section 7301 of Title 5, Government Organization and Employees.
 
 #### Amendments
 

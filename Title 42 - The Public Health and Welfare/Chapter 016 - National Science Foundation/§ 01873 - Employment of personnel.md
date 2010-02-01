@@ -6,7 +6,7 @@
 
 (2) The Director may, under the authority provided by paragraph (1) of this subsection and in accordance with such policies as the Board chooses to prescribe, appoint for a limited term, or on a temporary basis, scientists, engineers, and other technical and professional personnel on leave of absence from academic, industrial, or research institutions to work for the Foundation.
 
-(3) The Foundation may pay, to the extent authorized for certain other Federal employees by section 5723 of title 5, travel expenses for any individual appointed for a limited term or on a temporary basis and transportation expenses of his or her immediate family and his or her household goods and personal effects from that individual's residence at the time of selection or assignment to his or her duty station. The Foundation may pay such travel expenses and transportation expenses to the same extent for such an individual's return to the former place of residence from his or her duty station, upon separation from the Federal service following an agreed period of service. The Foundation may also pay a per diem allowance at a rate not to exceed the daily amounts prescribed under section 5702 of title 5 to such an individual, in lieu of transportation expenses of the immediate family and household goods and personal effects, for the period of his or her employment with the Foundation. Notwithstanding any other provision of law, the employer's contribution to any retirement, life insurance, or health benefit plan for an individual appointed for a term of one year or less, which could be extended for no more than one additional year, may be made orreimbursed from appropriations available to the Foundation.
+(3) The Foundation may pay, to the extent authorized for certain other Federal employees by section 5723 of title 5, travel expenses for any individual appointed for a limited term or on a temporary basis and transportation expenses of his or her immediate family and his or her household goods and personal effects from that individual's residence at the time of selection or assignment to his or her duty station. The Foundation may pay such travel expenses and transportation expenses to the same extent for such an individual's return to the former place of residence from his or her duty station, upon separation from the Federal service following an agreed period of service. The Foundation may also pay a per diem allowance at a rate not to exceed the daily amounts prescribed under section 5702 of title 5 to such an individual, in lieu of transportation expenses of the immediate family and household goods and personal effects, for the period of his or her employment with the Foundation. Notwithstanding any other provision of law, the employer's contribution to any retirement, life insurance, or health benefit plan for an individual appointed for a term of one year or less, which could be extended for no more than one additional year, may be made or reimbursed from appropriations available to the Foundation.
 
 #### (b) Operation of laboratories and pilot plants
 
@@ -30,7 +30,7 @@ Funds available to any department or agency of the Government for scientific or 
 
 #### (g) “United States” defined
 
-For purposes of this chapter, the term “United States” when used in a geographical sense means the States, the District of Columbia, the Commonwealth of Puerto Rico, and all territories and possessions of the United States.
+For purposes of this chapter, the term “United States” when used in a geographical sensemeans the States, the District of Columbia, the Commonwealth of Puerto Rico, and all territories and possessions of the United States.
 
 #### (h) Expiration of authorization
 
@@ -54,7 +54,7 @@ Notwithstanding any other provision of law, the authorization of any appropriati
 
 (3) Violation of this subsection is punishable by a fine of not more than $10,000, imprisonment for not more than 5 years, or both.
 
-(May 10, 1950, ch. 171, §14, 64 Stat. 154; renumbered §15, Pub. L. 85–510, §2, July 11, 1958, 72Stat. 353; amended Pub. L. 86–232, §8, Sept. 8, 1959, 73 Stat. 469; renumbered §14 and amended Pub. L. 90–407, §§11(2), 12, July 18, 1968, 82 Stat. 365, 366; Pub. L. 91–120, §3, Nov. 18, 1969, 83 Stat. 203; Pub. L. 95–99, §12(c), formerly §14(c), Aug. 15, 1977, 91 Stat. 835, renumbered §12(c), Pub. L. 99–159, title I, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 99–159, title I, §§109(e)(1), 110(a)(18), Nov. 22, 1985, 99 Stat. 889, 891; Pub. L. 100–570, title I, §§106, 107, Oct. 31, 1988, 102 Stat. 2868, 2869; Pub. L. 101–589, title II, §251, Nov. 16, 1990, 104 Stat. 2894; Pub. L. 102–139, title III, Oct. 28, 1991, 105 Stat. 774; Pub. L. 104–66, title II, §2141(b), Dec. 21, 1995, 109 Stat. 731; Pub. L. 105–207, title II, §202(a)(3), July 29, 1998, 112 Stat. 873; Pub. L. 107–368, §15(b), Dec. 19, 2002, 116 Stat. 3058.)
+(May 10, 1950, ch. 171, §14, 64 Stat. 154; renumbered §15, Pub. L. 85–510, §2, July 11, 1958, 72 Stat. 353; amended Pub. L. 86–232, §8, Sept. 8, 1959, 73 Stat. 469; renumbered §14 and amended Pub. L. 90–407, §§11(2), 12, July 18, 1968, 82 Stat. 365, 366; Pub. L. 91–120, §3, Nov. 18, 1969, 83 Stat. 203; Pub. L. 95–99, §12(c), formerly §14(c), Aug. 15, 1977, 91 Stat. 835, renumbered §12(c), Pub. L. 99–159, title I, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 99–159, title I, §§109(e)(1), 110(a)(18), Nov. 22, 1985, 99 Stat. 889, 891; Pub. L. 100–570, title I, §§106, 107, Oct. 31, 1988, 102 Stat. 2868, 2869; Pub. L. 101–589, title II, §251, Nov. 16, 1990, 104 Stat. 2894; Pub. L. 102–139, title III, Oct. 28, 1991, 105 Stat. 774; Pub. L. 104–66, title II, §2141(b), Dec. 21, 1995, 109 Stat. 731; Pub. L. 105–207, title II, §202(a)(3), July 29, 1998, 112 Stat. 873; Pub. L. 107–368, §15(b), Dec. 19, 2002, 116 Stat. 3058.)
 
 #### References of Text
 
@@ -116,7 +116,7 @@ Subsec. (i). Pub. L. 90–407, §12, struck out subsec. (i) which provided for t
 
 #### Transfer of Functions
 
-Authority of Director of National Science Foundation, from time to time, to make appropriate provisions authorizing performance by any other officer, orby any agency or employee, of National Science Foundation of any of his functions (including functions delegated to him by National Science Board), see Reorg. Plan No. 5 of 1965, eff. July 27, 1965, 30 F.R. 9355, 79 Stat. 1323, set out in the Appendix to Title 5, Government Organization and Employees.
+Authority of Director of National Science Foundation, from time to time, to make appropriate provisions authorizing performance by any other officer, or by any agency or employee, of National Science Foundation of any of his functions (including functions delegated to him by National Science Board), see Reorg. Plan No. 5 of 1965, eff. July 27, 1965, 30 F.R. 9355, 79 Stat. 1323, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References to Maximum Rate Under 5 U.S.C. 5376
 

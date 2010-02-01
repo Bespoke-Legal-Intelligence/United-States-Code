@@ -6,7 +6,7 @@
 
 &emsp;&emsp;<b>(3) For determination of marital status, see section 7703.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 45, §154; Pub. L. 89–809, title I, §103(c)(2), Nov. 13, 1966, 80 Stat. 1551; renumbered §153 and amended Pub. L. 94–455, title XIX, §1901(b)(7)(A)(i), (C), Oct. 4, 1976, 90 Stat. 1794; Pub. L. 99–514, title XII, §1272(d)(7), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2594, 2658; Pub. L. 108–311, title II, §207(14), Oct. 4, 2004, 118 Stat. 1177.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 45, §154; Pub. L. 89–809, title I, §103(c)(2), Nov. 13, 1966, 80 Stat.1551; renumbered §153 and amended Pub. L. 94–455, title XIX, §1901(b)(7)(A)(i), (C), Oct. 4, 1976, 90 Stat. 1794; Pub. L. 99–514, title XII, §1272(d)(7), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2594, 2658; Pub. L. 108–311, title II, §207(14), Oct. 4, 2004, 118 Stat. 1177.)
 
 #### Prior Provisions
 

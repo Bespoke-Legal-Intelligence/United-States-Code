@@ -22,7 +22,7 @@ Section 1704(b) of this title, referred to in subsec. (a), was amended generally
 
 1959—Subsec. (a). Pub. L. 86–341 authorized acquisition of strategic and critical materials for national stockpile to meet requirements of Government agencies.
 
-1958—Subsec. (a). Pub. L. 85–931 limited acquisition of strategic and critical materials for national stockpile, supplemental stockpile, foreign economic or military aid or assistance programs and offshore construction programs.
+1958—Subsec. (a). Pub. L. 85–931 limited acquisition of strategic and critical materials for national stockpile, supplemental stockpile, foreign economic or militaryaid or assistance programs and offshore construction programs.
 
 #### Effective Date of 2008 Amendment
 

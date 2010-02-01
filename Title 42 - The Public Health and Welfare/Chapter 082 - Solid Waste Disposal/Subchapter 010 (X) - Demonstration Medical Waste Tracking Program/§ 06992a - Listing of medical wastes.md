@@ -2,7 +2,7 @@
 
 #### (a) List
 
-Not later than 6 months after November 1, 1988, the Administrator shall promulgate regulations listing the types of medical waste to be tracked under the demonstration program. Except as provided in subsection (b) of this section, such list shall include, but need not be limited to, each of the following types of solid waste:
+Not later than 6 months after November 1, 1988, the Administrator shall promulgate regulations listing the types of medical waste to be tracked under the demonstration program. Except as provided in subsection (b) of this section,such list shall include, but need not be limited to, each of the following types of solid waste:
 
 &emsp;(1) Cultures and stocks of infectious agents and associated biologicals, including cultures from medical and pathological laboratories, cultures and stocks of infectious agents from research and industrial laboratories, wastes from the production of biologicals, discarded live and attenuated vaccines, and culture dishes and devices used to transfer, inoculate, and mix cultures.
 

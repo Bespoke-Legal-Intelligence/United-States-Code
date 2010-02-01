@@ -54,7 +54,7 @@ Effective date.—Paragraph (1) shall take effect as if such paragraph had becom
 
 #### Mandatory Merger of System Institutions
 
-Pub. L. 100–233, title IV, §410, Jan. 6, 1988, 101 Stat. 1637, as amended by Pub. L. 100–399, title IV, §402, Aug.17, 1988, 102 Stat. 999; Pub. L. 102–552, title IV, §401(a), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 110–234, title V, §5407(c)(2), May 22, 2008, 122 Stat. 1160; Pub. L. 110–246, §4(a), title V, §5407(c)(2), June 18, 2008, 122 Stat. 1664, 1922, provided that:
+Pub. L. 100–233, title IV, §410, Jan. 6, 1988, 101 Stat. 1637, as amended by Pub. L. 100–399, title IV, §402, Aug. 17, 1988, 102 Stat. 999; Pub. L. 102–552, title IV, §401(a), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 110–234, title V, §5407(c)(2), May 22, 2008, 122 Stat. 1160; Pub. L. 110–246, §4(a), title V, §5407(c)(2), June 18, 2008, 122 Stat. 1664, 1922, provided that:
 
 “(a)
 
@@ -126,7 +126,7 @@ Limitation on authority to merge.—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I)
 
-In general.—Notwithstanding clause (i), the authority of the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank as provided under clause (i) shall expire, and the Farm Credit Administration shall revoke the Bank's charter, immediately on the Bank's merger with a Farm Credit Bank under this subsection, or July 1, 1994, whichever is sooner.
+In general.—Notwithstanding clause (i), the authority of the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank as provided under clause (i) shall expire, and the Farm Credit Administration shall revoke the Bank's charter, immediately on the Bank's merger with a Farm Credit Bank underthis subsection, or July 1, 1994, whichever is sooner.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
 
@@ -194,7 +194,7 @@ In general.—Not later than 100 days after the issuance of an order by the Farm
 
 &emsp;&emsp;&emsp;“(ii)
 
-Submission of views and information.—The arbitrator shall receive from affected and interested parties written submissions, in accordance with fair and reasonable procedures established by the arbitrator, regarding the terms and conditions of an appropriate plan for the merger of the two banks required under this paragraph. The Federal Intermediate Credit Bank of Jackson, the Farm Credit Bank of Texas, and their affiliated associations shall make available all books, records, financial information, and other material that the arbitrator determines is necessary to the development of the plan or the fulfillment of any other requirement under this paragraph. A copy of any submission or information provided to the arbitrator by any party under this paragraph shall be furnished to the Federal Intermediate Credit Bank of Jackson or the Farm Credit Bank of Texas on the written request of the bank and at the bank's expense. The arbitrator shall provide both banks with a reasonable opportunity to review and respond to any submission or information provided by any party.
+Submission of views and information.—The arbitrator shall receive from affected and interested parties written submissions, in accordance with fair and reasonable procedures established by the arbitrator, regarding the terms and conditions of an appropriate plan for the merger of the two banks required under this paragraph. The Federal Intermediate Credit Bank of Jackson, the Farm Credit Bank of Texas, and their affiliated associations shall make available allbooks, records, financial information, and other material that the arbitrator determines is necessary to the development of the plan or the fulfillment of any other requirement under this paragraph. A copy of any submission or information provided to the arbitrator by any party under this paragraph shall be furnished to the Federal Intermediate Credit Bank of Jackson or the Farm Credit Bank of Texas on the written request of the bank and at the bank's expense. The arbitrator shall provide both banks with a reasonable opportunity to review and respond to any submission or information provided by any party.
 
 &emsp;&emsp;&emsp;“(iii)
 

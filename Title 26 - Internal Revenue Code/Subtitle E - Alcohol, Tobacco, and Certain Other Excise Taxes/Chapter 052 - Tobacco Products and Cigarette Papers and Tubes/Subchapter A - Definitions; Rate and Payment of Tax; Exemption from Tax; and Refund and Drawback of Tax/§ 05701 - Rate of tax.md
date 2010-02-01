@@ -6,11 +6,11 @@ On cigars, manufactured in or imported into the United States, there shall be im
 
 #### (1) Small cigars
 
-&emsp;On cigars, weighing not more than 3 pounds per thousand, $1.828 cents per thousand ($1.594 cents per thousand on cigars removed during 2000 or 2001);
+&emsp;On cigars, weighing not more than 3 pounds per thousand, $50.33 per thousand;
 
 #### (2) Large cigars
 
-&emsp;On cigars weighing more than 3 pounds per thousand, a tax equal to 20.719 percent (18.063 percent on cigars removed during 2000 or 2001) of the price for which sold but not more than $48.75 per thousand ($42.50 per thousand on cigars removed during 2000 or 2001).
+&emsp;On cigars weighing more than 3 pounds per thousand, a tax equal to 52.75 percent of the price for which sold but not more than 40.26 cents per cigar.
 
 > Cigars not exempt from tax under this chapter which are removed but not intended for sale shall be taxed at the same rate as similar cigars removed for sale.
 
@@ -20,19 +20,19 @@ On cigarettes, manufactured in or imported into the United States, there shall b
 
 #### (1) Small cigarettes
 
-&emsp;On cigarettes, weighing not more than 3 pounds per thousand, $19.50 per thousand ($17 per thousand on cigarettes removed during 2000 or 2001);
+&emsp;On cigarettes, weighing not more than 3 pounds per thousand, $50.33 per thousand;
 
 #### (2) Large cigarettes
 
-&emsp;On cigarettes, weighing more than 3 pounds per thousand, $40.95 per thousand ($35.70 per thousand on cigarettes removed during 2000 or 2001); except that, if more than 61/2 inches in length, they shall be taxable at the rate prescribed for cigarettes weighing not more than 3 pounds per thousand, counting each 23/4 inches, or fraction thereof, of the length of each as one cigarette.
+&emsp;On cigarettes, weighing more than 3 pounds per thousand, $105.69 per thousand; except that, if more than 61/2 inches in length, they shall be taxable at the rate prescribed for cigarettes weighing not more than 3 pounds per thousand, counting each 23/4 inches, or fraction thereof, of the length of each as one cigarette.
 
 #### (c) Cigarette papers
 
-On cigarette papers, manufactured in or imported into the United States, there shall be imposed a tax of 1.22 cents (1.06 cents on cigarette papers removed during 2000 or 2001) for each 50 papers or fractional part thereof; except that, if cigarette papers measure more than 61/2 inches in length, they shall be taxable at the rate prescribed, counting each 23/4 inches, or fraction thereof, of the length of each as one cigarette paper.
+On cigarette papers, manufactured in or imported into the United States, there shall be imposed a tax of 3.15 cents for each 50 papers or fractional part thereof; except that, if cigarette papers measure more than 61/2 inches in length, they shall be taxable at the rate prescribed, counting each 23/4 inches, or fraction thereof, of the length of each as one cigarette paper.
 
 #### (d) Cigarette tubes
 
-On cigarette tubes, manufactured in or imported into the United States, there shall be imposed a tax of 2.44 cents (2.13 cents on cigarette tubes removed during 2000 or 2001) for each 50 tubes or fractional part thereof, except that if cigarette tubes measure more than 61/2 inches in length, they shall be taxable at the rate prescribed, counting each 23/4 inches, or fraction thereof, of the length of each as one cigarette tube.
+On cigarette tubes, manufactured in or imported into the United States, there shall be imposed a tax of 6.30 cents for each 50 tubes or fractional part thereof, except that if cigarette tubes measure more than 61/2 inches in length, they shall be taxable at the rate prescribed, counting each 23/4 inches, or fraction thereof, of the length of each as one cigarette tube.
 
 #### (e) Smokeless tobacco
 
@@ -40,27 +40,47 @@ On smokeless tobacco, manufacturered <sup>1</sup> in or imported into the Unite
 
 #### (1) Snuff
 
-&emsp;On snuff, 58.5 cents (51 cents on snuff removed during 2000 or 2001) per pound and a proportionate tax at the like rate on all fractional parts of a pound.
+&emsp;On snuff, $1.51 per pound and a proportionate tax at the like rate on all fractional parts of a pound.
 
 #### (2) Chewing tobacco
 
-&emsp;On chewing tobacco, 19.5 cents (17 cents on chewing tobacco removed during 2000 or 2001) per pound and a proportionate tax at the like rate on all fractional parts of a pound.
+&emsp;On chewing tobacco, 50.33 cents per pound and a proportionate tax at the like rate on all fractional parts of a pound.
 
 #### (f) Pipe tobacco
 
-On pipe tobacco, manufactured in or imported into the United States, there shall be imposed a tax of $1.0969 cents (95.67 cents on pipe tobacco removed during 2000 or 2001) per pound (and a proportionate tax at the like rate on all fractional parts of a pound).
+On pipe tobacco, manufactured in or imported into the United States, there shall be imposed a tax of $2.8311 cents per pound (and a proportionate tax at the like rate on all fractional parts of a pound).
 
 #### (g) Roll-your-own tobacco
 
-On roll-your-own tobacco, manufactured in or imported into the United States, there shall be imposed a tax of $1.0969 cents (95.67 cents on roll-your-own tobacco removed during 2000 or 2001) per pound (and a proportionate tax at the like rate on all fractional parts of a pound).
+On roll-your-own tobacco, manufactured in or imported into the United States, there shall be imposed a tax of $24.78 per pound (and a proportionate tax at the like rate on all fractional parts of a pound).
 
 #### (h) Imported tobacco products and cigarette papers and tubes
 
 The taxes imposed by this section on tobacco products and cigarette papers and tubes imported into the United States shall be in addition to any import duties imposed on such articles, unless such import duties are imposed in lieu of internal revenue tax.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 705; Mar. 30, 1955, ch. 18, §3(a)(9), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(9), 70 Stat. 66; Pub. L. 85–12, §3(a)(7), Mar. 29, 1957, 71 Stat. 9; Pub. L. 85–475, §3(a)(7), June 30, 1958, 72 Stat. 259; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1414; Pub. L. 86–75, §3(a)(7), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(9), June 30, 1960, 74 Stat. 290; Pub. L. 86–779, §1, Sept. 14, 1960, 74 Stat. 998; Pub. L. 87–72, §3(a)(9), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(8), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(9), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(9), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §§501(f), 502(a), June 21, 1965, 79 Stat. 150; Pub. L. 90–240, §4(a), Jan. 2, 1968, 81 Stat. 776; Pub. L. 94–455, title XIX, §1905(a)(24), title XXI, §2128(a), Oct. 4, 1976, 90 Stat. 1821, 1921; Pub. L. 97–248, title II, §283(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 99–272, title XIII, §13202(a), Apr. 7, 1986, 100 Stat. 311; Pub. L. 100–647, title V, §5061(a), Nov. 10, 1988, 102 Stat. 3679; Pub. L. 101–508, title XI, §11202(a)–(f), Nov. 5, 1990, 104 Stat. 1388–419; Pub. L. 105–33, title IX, §9302(a)–(g)(1), (h)(3), Aug. 5, 1997, 111 Stat. 671, 672, 674.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 705; Mar. 30, 1955, ch. 18, §3(a)(9), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(9), 70 Stat. 66; Pub. L. 85–12, §3(a)(7), Mar. 29, 1957, 71 Stat. 9; Pub. L. 85–475, §3(a)(7), June 30, 1958, 72 Stat. 259; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1414; Pub. L. 86–75, §3(a)(7), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(9), June 30, 1960, 74 Stat. 290; Pub. L. 86–779, §1, Sept. 14, 1960, 74 Stat. 998; Pub. L. 87–72, §3(a)(9), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(8), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(9), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(9), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §§501(f), 502(a), June 21, 1965, 79 Stat. 150; Pub. L. 90–240, §4(a), Jan. 2, 1968, 81 Stat. 776; Pub. L. 94–455, title XIX, §1905(a)(24), title XXI, §2128(a), Oct. 4, 1976, 90 Stat. 1821, 1921; Pub. L. 97–248, title II, §283(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 99–272, title XIII, §13202(a), Apr. 7, 1986, 100 Stat. 311; Pub. L. 100–647, title V, §5061(a), Nov. 10, 1988, 102 Stat. 3679; Pub. L. 101–508, title XI, §11202(a)–(f), Nov. 5, 1990, 104 Stat. 1388–419; Pub. L. 105–33, title IX, §9302(a)–(g)(1), (h)(3), Aug. 5, 1997, 111 Stat. 671, 672, 674; Pub. L. 111–3, title VII, §701(a)–(g), Feb. 4, 2009, 123 Stat. 106, 107.)
 
 #### Amendments
+
+2009—Subsec. (a)(1). Pub. L. 111–3, §701(a)(1), substituted “$50.33 per thousand” for “$1.828 cents per thousand ($1.594 cents per thousand on cigars removed during 2000 or 2001)”.
+
+Subsec. (a)(2). Pub. L. 111–3, §701(a)(2), (3), substituted “52.75 percent” for “20.719 percent (18.063 percent on cigars removed during 2000 or 2001)” and “40.26 cents per cigar” for “$48.75 per thousand ($42.50 per thousand on cigars removed during 2000 or 2001)”.
+
+Subsec. (b)(1). Pub. L. 111–3, §701(b)(1), substituted “$50.33 per thousand” for “$19.50 per thousand ($17 per thousand on cigarettes removed during 2000 or 2001)”.
+
+Subsec. (b)(2). Pub. L. 111–3, §701(b)(2), substituted “$105.69 per thousand” for “$40.95 per thousand ($35.70 per thousand on cigarettes removed during 2000 or 2001)”.
+
+Subsec. (c). Pub. L. 111–3, §701(c), substituted “3.15 cents” for “1.22 cents (1.06 cents on cigarette papers removed during 2000 or 2001)”.
+
+Subsec. (d). Pub. L. 111–3, §701(d), substituted “6.30 cents” for “2.44 cents (2.13 cents on cigarette tubes removed during 2000 or 2001)”.
+
+Subsec. (e)(1). Pub. L. 111–3, §701(e)(1), substituted “$1.51” for “58.5 cents (51 cents on snuff removed during 2000 or 2001)”.
+
+Subsec. (e)(2). Pub. L. 111–3, §701(e)(2), substituted “50.33 cents” for “19.5 cents (17 cents on chewing tobacco removed during 2000 or 2001)”.
+
+Subsec. (f). Pub. L. 111–3, §701(f), substituted “$2.8311 cents” for “$1.0969 cents (95.67 cents on pipe tobacco removed during 2000 or 2001)”.
+
+Subsec. (g). Pub. L. 111–3, §701(g), substituted “$24.78” for “$1.0969 cents (95.67 cents on roll-your-own tobacco removed during 2000 or 2001)”.
 
 1997—Subsec. (a)(1). Pub. L. 105–33, §9302(b)(1), substituted “$1.828 cents per thousand ($1.594 cents per thousand on cigars removed during 2000 or 2001)” for “$1.125 cents per thousand (93.75 cents per thousand on cigars removed during 1991 or 1992)”.
 
@@ -142,7 +162,7 @@ Subsec. (c)(1). Pub. L. 86–564 substituted “July 1, 1961” for “July 1, 1
 
 Subsec. (c)(1). Pub. L. 85–475 substituted “July 1, 1959” for “July 1, 1958” in two places.
 
-Subsec. (d). Pub. L. 85–859 substituted “On each book or set of cigarette papers containing more than 25 papers, manufactured in or imported into the United States, there shall be imposed” for “On cigarette papers, manufactured in or imported into the UnitedStates, there shall be imposed, on each package, book, or set containing more than 25 papers”.
+Subsec. (d). Pub. L. 85–859 substituted “On each book or set of cigarette papers containing more than 25 papers, manufactured in or imported into the United States, there shall be imposed” for “On cigarette papers, manufactured in or imported into the United States, there shall be imposed, on each package, book, or set containing more than 25 papers”.
 
 Subsec. (f). Pub. L. 85–859 substituted “imposed by this section on tobacco products and cigarette papers and tubes imported into the United States” for “imposed on articles by this section”.
 
@@ -151,6 +171,10 @@ Subsec. (f). Pub. L. 85–859 substituted “imposed by this section on tobacco 
 1956—Subsec. (c)(1). Act Mar. 29, 1956, substituted “April 1, 1957” for “April 1, 1956” in two places.
 
 1955—Subsec. (c)(1). Act Mar. 30, 1955, substituted “April 1, 1956” for “April 1, 1955” in two places.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–3, title VII, §701(i), Feb. 4, 2009, 123 Stat. 108, provided that: “The amendments made by this section \[amending this section\] shall apply to articles removed (as defined in section 5702(j) of the Internal Revenue Code of 1986) after March 31, 2009.”
 
 #### Effective Date of 1997 Amendment
 
@@ -240,9 +264,67 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 
 #### Coordination With Tobacco Industry Settlement Agreement
 
-Section 9302(k) of Pub. L. 105–33, as added by Pub. L. 105–34, title XVI, §1604(f)(3), Aug. 5, 1997, 111 Stat. 1099,which provided that the increase in excise taxes collected as a result of the amendments made by subsections (a), (e), and (g) of section 9302 of Pub. L. 105–33 (amending this section and section 5702 of this title) were to be credited against the total payments made by parties pursuant to Federal legislation implementing the tobacco industry settlement agreement of June 20, 1997, was repealed by Pub. L. 105–78, title V, §519, Nov. 13, 1997, 111 Stat. 1519.
+Section 9302(k) of Pub. L. 105–33, as added by Pub. L. 105–34, title XVI, §1604(f)(3), Aug. 5, 1997, 111 Stat. 1099, which provided that the increase in excise taxes collected as a result of the amendments made by subsections (a), (e), and (g) of section 9302 of Pub. L. 105–33 (amending this section and section 5702 of this title) were to be credited against the total payments made by parties pursuant to Federal legislation implementing the tobacco industry settlement agreement of June 20, 1997, was repealed by Pub. L. 105–78, title V, §519, Nov. 13, 1997, 111 Stat. 1519.
 
 #### Floor Stocks Taxes
+
+Pub. L. 111–3, title VII, §701(h), Feb. 4, 2009, 123 Stat. 107, provided that:
+
+“(1)
+
+Imposition of tax.—On tobacco products (other than cigars described in section 5701(a)(2) of the Internal Revenue Code of 1986) and cigarette papers and tubes manufactured in or imported into the United States which are removed before April 1, 2009, and held on such date for sale by any person, there is hereby imposed a tax in an amount equal to the excess of—
+
+&emsp;“(A) the tax which would be imposed under section 5701 of such Code on the article if the article had been removed on such date, over
+
+&emsp;“(B) the prior tax (if any) imposed under section 5701 of such Code on such article.
+
+“(2)
+
+Credit against tax.—Each person shall be allowed as a credit against the taxes imposed by paragraph (1) an amount equal to $500. Such credit shall not exceed the amount of taxes imposed by paragraph (1) on April 1, 2009, for which such person is liable.
+
+“(3)
+
+Liability for tax and method of payment.—
+
+&emsp;“(A)
+
+Liability for tax.—A person holding tobacco products, cigarette papers, or cigarette tubes on April 1, 2009, to which any tax imposed by paragraph (1) applies shall be liable for such tax.
+
+&emsp;“(B)
+
+Method of payment.—The tax imposed by paragraph (1) shall be paid in such manner as the Secretary shall prescribe by regulations.
+
+&emsp;“(C)
+
+Time for payment.—The tax imposed by paragraph (1) shall be paid on or before August 1, 2009.
+
+“(4)
+
+Articles in foreign trade zones.—Notwithstanding the Act of June 18, 1934 (commonly known as the Foreign Trade Zone Act, 48 Stat. 998, 19 U.S.C. 81a et seq.) or any other provision of law, any article which is located in a foreign trade zone on April 1, 2009, shall be subject to the tax imposed by paragraph (1) if—
+
+&emsp;“(A) internal revenue taxes have been determined, or customs duties liquidated, with respect to such article before such date pursuant to a request made under the 1st proviso of section 3(a) of such Act \[19 U.S.C. 81c(a)\], or
+
+&emsp;“(B) such article is held on such date under the supervision of an officer of the United States Customs and Border Protection of the Department of Homeland Security pursuant to the 2d proviso of such section 3(a).
+
+“(5)
+
+Definitions.—For purposes of this subsection—
+
+&emsp;“(A)
+
+In general.—Any term used in this subsection which is also used in section 5702 of the Internal Revenue Code of 1986 shall have the same meaning as such term has in such section.
+
+&emsp;“(B)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the Treasury or the Secretary's delegate.
+
+“(6)
+
+Controlled groups.—Rules similar to the rules of section 5061(e)(3) of such Code shall apply for purposes of this subsection.
+
+“(7)
+
+Other laws applicable.—All provisions of law, including penalties, applicable with respect to the taxes imposed by section 5701 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1), to the same extent as if such taxes were imposed by such section 5701. The Secretary may treat any person who bore the ultimate burden of the tax imposed by paragraph (1) as the person to whom a credit or refund under such provisions may be allowed or made.”
 
 Section 9302(j) of Pub. L. 105–33, as amended by Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643, provided that:
 

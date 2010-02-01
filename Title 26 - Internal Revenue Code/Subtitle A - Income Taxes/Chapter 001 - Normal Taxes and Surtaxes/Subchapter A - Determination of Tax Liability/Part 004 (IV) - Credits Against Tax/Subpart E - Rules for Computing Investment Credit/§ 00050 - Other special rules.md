@@ -8,7 +8,7 @@ Under regulations prescribed by the Secretary—
 
 #### (A) General rule
 
-&emsp;&emsp;If, during any taxable year, investment credit property is disposed of, or otherwise ceases to be investment credit property with respect to the taxpayer, before the close of the recapture period, then the tax under this chapter for such taxable year shall be increased by the recapture percentage of the aggregate decrease in the credits allowed under section 38 for all prior taxable years which would have resulted solely from reducing to zero any credit determined under this subpart with respect to such property.
+&emsp;&emsp;If, during any taxable year, investment credit property is disposed of, or otherwiseceases to be investment credit property with respect to the taxpayer, before the close of the recapture period, then the tax under this chapter for such taxable year shall be increased by the recapture percentage of the aggregate decrease in the credits allowed under section 38 for all prior taxable years which would have resulted solely from reducing to zero any credit determined under this subpart with respect to such property.
 
 #### (B) Recapture percentage
 

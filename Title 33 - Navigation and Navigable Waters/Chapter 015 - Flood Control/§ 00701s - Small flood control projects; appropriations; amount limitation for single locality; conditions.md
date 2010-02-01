@@ -18,7 +18,7 @@ The Secretary of the Army is authorized to allot from any appropriations heretof
 
 1976—Pub. L. 94–587 increased limitation on allotment for a project at a single locality from $1,000,000 to $2,000,000 and for such a project protecting a major disaster area from $2,000,000 to $3,000,000.
 
-1974—Pub. L. 93–251, in revising provisions, increased fiscal year allotment to $30,000,000 from $25,000,000 and required allotment of $2,000,000 for a project at a single locality if such locality protects an area declared to be a major-disaster area pursuant to Disaster Relief Act of 1966 or Disaster Relief Act of 1970 in five-year period immediately preceding the date the Chief of Engineers deems such work advisable.
+1974—Pub. L. 93–251, in revising provisions, increased fiscal year allotment to $30,000,000 from $25,000,000 andrequired allotment of $2,000,000 for a project at a single locality if such locality protects an area declared to be a major-disaster area pursuant to Disaster Relief Act of 1966 or Disaster Relief Act of 1970 in five-year period immediately preceding the date the Chief of Engineers deems such work advisable.
 
 1962—Pub. L. 87–874 substituted “$25,000,000” for “$10,000,000”, “projects for flood control and related purposes” for “flood control projects”, and provisions limiting the allotment for a single project to $1,000,000 and providing that such allotment shall be sufficient to complete Federal participation, for provisions limiting the allotment for any single project to $400,000 from the appropriations for any fiscal year.
 

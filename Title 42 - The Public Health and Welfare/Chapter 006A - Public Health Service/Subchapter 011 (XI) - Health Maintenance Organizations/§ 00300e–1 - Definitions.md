@@ -84,7 +84,7 @@ Section 300e–9(d) of this title, referred to in par. (4)(C), was redesignated 
 
 #### Amendments
 
-1988—Par. (8)(C). Pub. L. 100–517, §6(b)(1), amended third sentence generally. Prior to amendment, third sentence read as follows: “If a health maintenance organization is to fix rates of payment for individuals and families by groups, it shall—
+1988—Par. (8)(C). Pub. L. 100–517, §6(b)(1), amended third sentence generally. Prior to amendment, thirdsentence read as follows: “If a health maintenance organization is to fix rates of payment for individuals and families by groups, it shall—
 
 &emsp;“(i) classify all of the members of the organization into classes based on factors which the health maintenance organization determines predict the differences in the use of health services by the individuals or families in each class and which have not been disapproved by the Secretary,
 
@@ -144,7 +144,7 @@ Section 815 of title VIII of Pub. L. 99–660 provided that:
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–460 effective Oct. 8, 1976, except that amendment of pars. (1) and (2) of this section by section 104 of Pub. L. 94–460 and the amendment of pars. (4)(C) and (5)(B) of this section by sections 102 and 106 of Pub. L. 94–460 applicable with respect to grants, contracts, loans, and loan guarantees made under sections 300e–2, 300e–3, and 300e–4 of this title for fiscal years beginning after Sept. 30, 1976, applicable with respect to health benefit plans offered under section 300e–9 of this title after Sept. 30, 1976, and effective for purposes of section 300e–11 of this title on Oct. 1, 1976, see section 118 of Pub. L. 94–460, set out as a note under section 300e of this title.
+Amendment by Pub. L. 94–460 effective Oct. 8, 1976, except that amendment of pars. (1) and (2) of this section by section 104 of Pub. L. 94–460 and the amendment of pars. (4)(C) and (5)(B) of this section by sections 102 and 106 of Pub. L. 94–460 applicable with respect to grants, contracts, loans, and loan guarantees made under sections 300e–2, 300e–3, and 300e–4 of this title for fiscal years beginning after Sept. 30, 1976, applicablewith respect to health benefit plans offered under section 300e–9 of this title after Sept. 30, 1976, and effective for purposes of section 300e–11 of this title on Oct. 1, 1976, see section 118 of Pub. L. 94–460, set out as a note under section 300e of this title.
 
 #### Construction
 

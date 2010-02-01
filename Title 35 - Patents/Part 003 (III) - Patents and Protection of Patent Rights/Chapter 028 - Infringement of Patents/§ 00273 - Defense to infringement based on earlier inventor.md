@@ -26,7 +26,7 @@ In general.—It shall be a defense to an action for infringement under section 
 
 &emsp;(2)
 
-Exhaustion of right.—The sale or other disposition of a useful end product produced by a patented method, by a person entitled to assert a defense under this section with respect to that useful end result shall exhaust the patent owner's rights under the patent to the extent such rights would have been exhausted had such sale or other disposition been made by the patent owner.
+Exhaustion of right.—The sale or other disposition of a useful end product producedby a patented method, by a person entitled to assert a defense under this section with respect to that useful end result shall exhaust the patent owner's rights under the patent to the extent such rights would have been exhausted had such sale or other disposition been made by the patent owner.
 
 &emsp;(3)
 
@@ -62,7 +62,7 @@ Limitation on sites.—A defense under this section, when acquired as part of a 
 
 &emsp;(8)
 
-Unsuccessful assertion of defense.—If the defense under this section is pleaded by a person who is found to infringe the patent and who subsequently fails to demonstrate a reasonable basis for asserting the defense, the court shall find the case exceptional for thepurpose of awarding attorney fees under section 285 of this title.
+Unsuccessful assertion of defense.—If the defense under this section is pleaded by a person who is found to infringe the patent and who subsequently fails to demonstrate a reasonable basis for asserting the defense, the court shall find the case exceptional for the purpose of awarding attorney fees under section 285 of this title.
 
 &emsp;(9)
 

@@ -10,7 +10,7 @@ A parent who is a citizen of the United States (or, if the citizen parent has di
 
 &emsp;&emsp;(A) has (or, at the time of his or her death, had) been physically present in the United States or its outlying possessions for a period or periods totaling not less than five years, at least two of which were after attaining the age of fourteen years; or
 
-&emsp;&emsp;(B) has (or, at the time of his or her death, had) a citizen parent who has been physically present in the United States or itsoutlying possessions for a period or periods totaling not less than five years, at least two of which were after attaining the age of fourteen years.
+&emsp;&emsp;(B) has (or, at the time of his or her death, had) a citizen parent who has been physically present in the United States or its outlying possessions for a period or periods totaling not less than five years, at least two of which were after attaining the age of fourteen years.
 
 &emsp;(3) The child is under the age of eighteen years.
 
@@ -30,7 +30,7 @@ Subsections (a) and (b) of this section shall apply to a child adopted by a Unit
 
 In the case of a child of a member of the Armed Forces of the United States who is authorized to accompany such member and reside abroad with the member pursuant to the member's official orders, and is so accompanying and residing with the member—
 
-&emsp;(1) any period of time during which the member of the Armed Forces is residing abroad pursuant to official orders shall be treated, for purposes of subsection (a)(2)(A), as physical presence in the United States;
+&emsp;(1) any period of time during which the member of the Armed Forces is residingabroad pursuant to official orders shall be treated, for purposes of subsection (a)(2)(A), as physical presence in the United States;
 
 &emsp;(2) subsection (a)(5) shall not apply; and
 

@@ -186,7 +186,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(xv) a detailed budget and a description of the system of fiscal controls, and auditing and accountability procedures, that will be used to ensure fiscal soundness for the proposed program;
 
-&emsp;&emsp;&emsp;(xvi) a description of the commitments for any additional resources (in addition to the funds made available through the grant) to be made available to the proposed program from—
+&emsp;&emsp;&emsp;(xvi) a description of the commitments for any additional resources (in addition to the funds made available through thegrant) to be made available to the proposed program from—
 
 &emsp;&emsp;&emsp;&emsp;(I) the applicant;
 
@@ -208,7 +208,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(xx) a certification, by a public official responsible for the housing strategy for the State or unit of general local government within which the proposed program is located, that the proposed program is consistent with the housing strategy; and
 
-&emsp;&emsp;&emsp;(xxi) a certification that the applicant will comply with the requirements of theFair Housing Act (42 U.S.C. 3601 et seq.) and will affirmatively further fair housing.
+&emsp;&emsp;&emsp;(xxi) a certification that the applicant will comply with the requirements of the Fair Housing Act (42 U.S.C. 3601 et seq.) and will affirmatively further fair housing.
 
 #### (4) Selection criteria
 
@@ -336,7 +336,7 @@ Each recipient of a grant under subsection (c) to carry out a YouthBuild program
 
 #### (2) Fiscal year
 
-&emsp;Notwithstanding section 2939(g) of this title, appropriations for any fiscal year for programs and activities carried out under this section shall be available for obligation only on the basis of a fiscal year.
+&emsp;Notwithstanding section 2939(g) of this title, appropriations for any fiscal year for programs and activities carried out under thissection shall be available for obligation only on the basis of a fiscal year.
 
 (Pub. L. 105–220, title I, §173A, as added Pub. L. 109–281, §2(a), Sept. 22, 2006, 120 Stat. 1173.)
 

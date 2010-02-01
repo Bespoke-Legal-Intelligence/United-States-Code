@@ -14,7 +14,7 @@ Supportive services may include such activities as (A) establishing and operatin
 
 #### (d) Provision of services
 
-Services provided pursuant to this section may be provided directly by the recipient or by contract with other public or private service providers. Such services may be provided to homeless individuals who do not reside in supportive housing.
+Services provided pursuant to this section may be provided directly by the recipient or bycontract with other public or private service providers. Such services may be provided to homeless individuals who do not reside in supportive housing.
 
 #### (e) Coordination with Secretary of Health and Human Services
 

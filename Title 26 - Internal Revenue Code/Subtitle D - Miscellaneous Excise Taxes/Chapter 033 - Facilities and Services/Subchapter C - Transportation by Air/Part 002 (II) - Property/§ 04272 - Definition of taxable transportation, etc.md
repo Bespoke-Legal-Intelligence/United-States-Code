@@ -10,7 +10,7 @@ For purposes of this part, the term “taxable transportation” does not includ
 
 &emsp;(1) that portion of any transportation which meets the requirements of paragraphs (1), (2), (3), and (4) of section 4262(b), or
 
-&emsp;(2) under regulations prescribed by the Secretary, transportation of property in thecourse of exportation (including shipment to a possession of the United States) by continuous movement, and in due course so exported.
+&emsp;(2) under regulations prescribed by the Secretary, transportation of property in the course of exportation (including shipment to a possession of the United States) by continuous movement, and in due course so exported.
 
 #### (c) Excess baggage of passengers
 

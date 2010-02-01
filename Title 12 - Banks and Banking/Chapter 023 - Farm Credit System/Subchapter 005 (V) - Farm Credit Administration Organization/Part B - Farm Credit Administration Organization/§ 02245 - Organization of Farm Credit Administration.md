@@ -34,13 +34,13 @@ The Chairman of the Board shall appoint such personnel as may be necessary to ca
 
 #### (3) Delegation
 
-&emsp;The powers of the Chairman as chief executive officer necessary for day to day management may be exercised and performed by the Chairman through such other officers and employees of the Administration as the Chairman shall designate, except that the Chairman may not delegate powers specifically reserved to the Chairman by this chapter without Board approval.
+&emsp;The powers of the Chairman as chief executive officer necessary for day to day management may be exercised and performed by theChairman through such other officers and employees of the Administration as the Chairman shall designate, except that the Chairman may not delegate powers specifically reserved to the Chairman by this chapter without Board approval.
 
 #### (d) Funding
 
 The operations of the Farm Credit Administration, and the salaries of members of the Board and employees of the Administration, shall be funded and paid for from the fund created under section 2250 of this title.
 
-(Pub. L. 92–181, title V, §5.11, Dec. 10, 1971, 85 Stat. 620; Pub. L. 99–205, title II, §201(1), Dec. 23,1985, 99 Stat. 1690; Pub. L. 100–233, title IV, §431(c), title VIII, §805(x), Jan. 6, 1988, 101 Stat. 1659, 1716; Pub. L. 100–399, title IV, §415(a), title VII, §702(b), Aug. 17, 1988, 102 Stat. 1004, 1006; Pub. L. 101–73, title XII, §1210, Aug. 9, 1989, 103 Stat. 523.)
+(Pub. L. 92–181, title V, §5.11, Dec. 10, 1971, 85 Stat. 620; Pub. L. 99–205, title II, §201(1), Dec. 23, 1985, 99 Stat. 1690; Pub. L. 100–233, title IV, §431(c), title VIII, §805(x), Jan. 6, 1988, 101 Stat. 1659, 1716; Pub. L. 100–399, title IV, §415(a), title VII, §702(b), Aug. 17, 1988, 102 Stat. 1004, 1006; Pub. L. 101–73, title XII, §1210, Aug. 9, 1989, 103 Stat. 523.)
 
 #### References in Text
 

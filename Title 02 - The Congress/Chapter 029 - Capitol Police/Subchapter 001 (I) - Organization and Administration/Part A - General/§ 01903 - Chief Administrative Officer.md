@@ -4,7 +4,7 @@
 
 There shall be within the Capitol Police an Office of Administration to be headed by a Chief Administrative Officer as follows:
 
-&emsp;(1) Not later than 60 days after December 21, 2000, the Chief Administrative Officer shall be appointed by the Chief of the Capitol Police after consultation with the Capitol Police Board and the Comptroller General, and shall report to and serve at the pleasure of the Chief of the Capitol Police.
+&emsp;(1) Not later than 60 days after December 21, 2000, the Chief Administrative Officer shall beappointed by the Chief of the Capitol Police after consultation with the Capitol Police Board and the Comptroller General, and shall report to and serve at the pleasure of the Chief of the Capitol Police.
 
 &emsp;(2) The Comptroller General shall evaluate the performance of the Chief Administrative Officer in carrying out the duties and responsibilities of the Office of Administration as outlined in this section. The Comptroller General shall meet with the Chief of the Capitol Police and the Capitol Police Board at least quarterly to provide an analysis of the performance of the Chief Administrative Officer. The Comptroller General shall report the results of the evaluation to the Chief of the Capitol Police, the Capitol Police Board, the Committees on Appropriations of the House of Representatives and Senate, the Committee on House Administration of the House of Representatives, and the Committee on Rules and Administration of the Senate.
 
@@ -108,7 +108,7 @@ The Chief of the Capitol Police shall submit the plan required in subsection (d)
 
 As of October 1, 2002, the role of the Comptroller General, as established by this section, will cease.
 
-(Pub. L. 106–554, §1(a)(2) \[title I, §108\], Dec. 21, 2000, 114 Stat. 2763, 2763A–104; Pub. L. 106–346,§101(a) \[title V, §507(a)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–55; Pub. L. 107–68, title I, §122(a), Nov. 12, 2001, 115 Stat. 576; Pub. L. 108–7, div. H, title I, §1013(c), Feb. 20, 2003, 117 Stat. 361; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–55, title I, §1004(g), Aug. 2, 2005, 119 Stat. 575.)
+(Pub. L. 106–554, §1(a)(2) \[title I, §108\], Dec. 21, 2000, 114 Stat. 2763, 2763A–104; Pub. L. 106–346, §101(a) \[title V, §507(a)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–55; Pub. L. 107–68, title I, §122(a), Nov. 12, 2001, 115 Stat. 576; Pub. L. 108–7, div. H, title I, §1013(c), Feb. 20, 2003, 117 Stat. 361; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–55, title I, §1004(g), Aug. 2, 2005, 119 Stat. 575.)
 
 #### Codification
 

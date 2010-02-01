@@ -6,7 +6,7 @@ In General.—Except to the extent expressly prohibited by another provision of 
 
 (b)
 
-Procurements For or With Other Agencies.—Subject to subsection (a), to facilitate the procurement of property and services covered by this chapter by each agency named in section2303 of this title for any other agency, and to facilitate joint procurement by those agencies—
+Procurements For or With Other Agencies.—Subject to subsection (a), to facilitate the procurement of property and services covered by this chapter by each agency named in section 2303 of this title for any other agency, and to facilitate joint procurement by those agencies—
 
 &emsp;(1) the head of an agency may delegate functions and assign responsibilities relating to procurement to any officer or employee within such agency;
 

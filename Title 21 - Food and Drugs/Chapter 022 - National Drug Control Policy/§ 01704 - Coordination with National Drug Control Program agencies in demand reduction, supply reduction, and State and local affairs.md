@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The authorities conferred on the Office and the Director by this chapter shall be exercised in a manner consistent with provisions of the National Security Act of 1947 (50 U.S.C. 401 et seq.). The Director of National Intelligence shall prescribe such regulationsas may be necessary to protect information provided pursuant to this chapter regarding intelligence sources and methods.
+&emsp;&emsp;The authorities conferred on the Office and the Director by this chapter shall be exercised in a manner consistent with provisions of the National Security Act of 1947 (50 U.S.C. 401 et seq.). The Director of National Intelligence shall prescribe such regulations as may be necessary to protect information provided pursuant to this chapter regarding intelligence sources and methods.
 
 #### (B) Duties of Director
 

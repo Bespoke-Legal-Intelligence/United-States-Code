@@ -14,7 +14,7 @@ Annual appropriation for hispanic-serving agricultural colleges and universities
 
 &emsp;(A)
 
-Authorization of appropriations.—There are authorized to be appropriated to the Secretary for payments to Hispanic-serving agricultural colleges and universities (as defined in section 3103 of this title) such sums as are necessary to carry out this paragraph for fiscal year 2008 and each fiscal year thereafter, to remain available until expended.
+Authorization of appropriations.—There are authorized to be appropriated to the Secretary for payments to Hispanic-servingagricultural colleges and universities (as defined in section 3103 of this title) such sums as are necessary to carry out this paragraph for fiscal year 2008 and each fiscal year thereafter, to remain available until expended.
 
 &emsp;(B)
 
@@ -34,7 +34,7 @@ Administration.—Amounts made available under this paragraph shall be—
 
 &emsp;(1) Four per centum of the sum so appropriated for each fiscal year shall be allotted to the Secretary of Agriculture for administrative, technical, and other services, and for coordinating the extension work of the Department and the several States, Territories, and possessions.
 
-&emsp;(2) Of the remainder so appropriated for each fiscal year 20 per centum shall be paid to the several States in equal proportions, 40 per centum shall be paid to the several States in the proportion that the rural population of each bears to the total rural population of the several States as determined by the census, and the balance shall be paid to the several Statesin the proportion that the farm population of each bears to the total farm population of the several States as determined by the census. Any appropriation made hereunder shall be allotted in the first and succeeding years on the basis of the decennial census current at the time such appropriation is first made, and as to any increase, on the basis of decennial census current at the time such increase is first appropriated.
+&emsp;(2) Of the remainder so appropriated for each fiscal year 20 per centum shall be paid to the several States in equal proportions, 40 per centum shall be paid to the several States in the proportion that the rural population of each bears to the total rural population of the several States as determined by the census, and the balance shall be paid to the several States in the proportion that the farm population of each bears to the total farm population of the several States as determined by the census. Any appropriation made hereunder shall be allotted in the first and succeeding years on the basis of the decennial census current at the time such appropriation is first made, and as to any increase, on the basis of decennial census current at the time such increase is first appropriated.
 
 (d) The Secretary of Agriculture shall receive such additional amounts as Congress shall determine for administration, technical, and other services and for coordinating the extension work of the Department and the several States, Territories, and possessions. A college or university eligible to receive funds under subchapter II of this chapter, including Tuskegee University, may compete for and receive funds directly from the Secretary of Agriculture.
 
@@ -94,7 +94,7 @@ Multistate Cooperative Extension Activities.—
 
 &emsp;(1)
 
-In general.—Not less than the applicable percentage specified under paragraph (2) of the amounts that are paid to a State under subsections (b) and (c) of this section during a fiscal year shall be expended by States for cooperative extension activities in which 2 or more States cooperate to solve problems that concern more than 1 State (referred to in this subsection as “multistate activities”).
+In general.—Not less than the applicable percentage specified under paragraph (2) of theamounts that are paid to a State under subsections (b) and (c) of this section during a fiscal year shall be expended by States for cooperative extension activities in which 2 or more States cooperate to solve problems that concern more than 1 State (referred to in this subsection as “multistate activities”).
 
 &emsp;(2)
 
@@ -140,7 +140,7 @@ Review required.—Effective October 1, 1999, extension activity carried out und
 
 &emsp;(2)
 
-Other requirements.—An extension activity for which merit review is conducted under paragraph (1) shall be considered to have satisfied the requirements for review under section 7613 of this title.
+Other requirements.—An extension activity for which merit review is conducted under paragraph (1) shall be considered to have satisfied the requirements for review under section 7613(e) of this title.
 
 (j)
 

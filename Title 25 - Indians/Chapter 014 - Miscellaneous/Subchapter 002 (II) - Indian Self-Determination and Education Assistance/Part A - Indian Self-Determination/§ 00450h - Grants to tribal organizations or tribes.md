@@ -16,7 +16,7 @@ The Secretary of Health and Human Services may, in accordance with regulations a
 
 &emsp;(1) the development, construction, operation, provision, or maintenance of adequate health facilities or services including the training of personnel for such work, from funds appropriated to the Indian Health Service for Indian health services or Indian health facilities; or
 
-&emsp;(2) planning, training, evaluation or other activities designed to improve the capacity ofa tribal organization to enter into a contract or contracts pursuant to section 450g <sup>2</sup> of this title.
+&emsp;(2) planning, training, evaluation or other activities designed to improve the capacity of a tribal organization to enter into a contract or contracts pursuant to section 450g <sup>2</sup> of this title.
 
 #### (c) Use as matching shares for other similar Federal grant programs
 
@@ -48,7 +48,7 @@ Section 450g of this title, referred to in subsec. (b)(2), was in the original �
 
 #### Prior Provisions
 
-A prior section 103 of Pub. L. 93–638 was classified to section 450g of this title and was repealed in part and transferred in part by section 201(b)(1) of Pub. L. 100–472.
+A prior section 103 of Pub. L. 93–638 was classified to section 450g of this title and was repealed in part andtransferred in part by section 201(b)(1) of Pub. L. 100–472.
 
 #### Amendments
 

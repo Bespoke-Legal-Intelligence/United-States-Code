@@ -36,7 +36,7 @@ In general.—Sections 11313, 11315, and 11316 of this title apply to national s
 
 &emsp;(2)
 
-Capital planning and investment control.—The heads of executive agencies shallapply sections 11302 and 11312 of this title to national security systems to the extent practicable.
+Capital planning and investment control.—The heads of executive agencies shall apply sections 11302 and 11312 of this title to national security systems to the extent practicable.
 
 &emsp;(3)
 

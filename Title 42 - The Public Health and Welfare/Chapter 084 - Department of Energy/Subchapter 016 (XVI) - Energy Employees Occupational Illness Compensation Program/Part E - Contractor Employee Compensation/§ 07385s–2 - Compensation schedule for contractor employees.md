@@ -12,7 +12,7 @@ The amount of contractor employee compensation under this part for a covered DOE
 
 &emsp;&emsp;(ii) the number of those points that are the result of any covered illness contracted by that employee through exposure to a toxic substance at a Department of Energy facility.
 
-&emsp;(B) The employee shall receive an amount under this paragraph equal to $2,500 multipliedby the number referred to in clause (ii) of subparagraph (A).
+&emsp;(B) The employee shall receive an amount under this paragraph equal to $2,500 multiplied by the number referred to in clause (ii) of subparagraph (A).
 
 #### (2) Wage loss
 

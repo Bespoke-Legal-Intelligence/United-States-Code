@@ -24,7 +24,7 @@ The Secretary of Education (referred to in this section as the “Secretary”),
 
 &emsp;&emsp;(C) submit to the Secretary an application at such time, in such manner, and containing such information; and
 
-&emsp;&emsp;(D) demonstrate an interest in working in the field of mining and performing an internship with the Mine Safety and Health Administration or the National Institute forOccupational Safety and Health Office of Mine Safety.
+&emsp;&emsp;(D) demonstrate an interest in working in the field of mining and performing an internship with the Mine Safety and Health Administration or the National Institute for Occupational Safety and Health Office of Mine Safety.
 
 #### (c) Mine safety inspector scholarships
 

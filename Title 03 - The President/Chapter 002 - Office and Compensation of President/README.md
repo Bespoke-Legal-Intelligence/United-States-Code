@@ -448,7 +448,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 12859. Establishment of Domestic Policy Council
 
-Ex. Ord. No. 12859, Aug. 16, 1993, 58 F.R. 44101, as amended by Ex. Ord. No. 13284, §10, Jan. 23, 2003, 68 F.R. 4076, provided:
+Ex. Ord. No. 12859, Aug. 16, 1993, 58 F.R. 44101, as amended by Ex. Ord. No. 13284, §10, Jan. 23, 2003, 68 F.R. 4076; Ex. Ord. No. 13500, Feb. 5, 2009, 74 F.R. 6981, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 105, 107, and 301 of title 3, United States Code, it is hereby ordered as follows:
 
@@ -496,17 +496,21 @@ Sec. 2. <i>Membership</i>. The Council shall comprise the:
 
 (t) Assistant to the President for Domestic Policy;
 
-(u) Assistant to the President and Director of the Office of National Service;
+(u) Senior Advisor and Assistant to the President for Intergovernmental Affairs and Public Liaison;
 
-(v) Senior Advisor to the President for Policy Development;
+(v) Assistant to the President for Energy and Climate Change;
 
 (w) Director, Office of National Drug Control Policy;
 
-(x) AIDS Policy Coordinator; and
+(x) Assistant to the President and Chief Technology Officer;
 
-(y) Such other officials of Executive departments and agencies as the President may, from time to time, designate.
+(y) Chief Executive Officer, Corporation for National and Community Service\[;\]
 
-Sec. 3. <i>Meeting of the Council</i>. The President, or upon his direction, the Assistant to the President for Domestic Policy (“the Assistant”), may convene meetings of the Council. The President shall preside over the meetings of the Council, provided that in his absence the Vice President, and in his absence the Assistant, will preside.
+(z) Director of the Office of Science and Technology Policy; and
+
+(aa) Such other officials of Executive departments and agencies as the President may, from time to time, designate.
+
+Sec. 3. <i>Meeting of the Council</i>. The President, or upon his direction, the Assistant to the President for Domestic Policy (“the Assistant”), may convene meetings ofthe Council. The President shall preside over the meetings of the Council, provided that in his absence the Vice President, and in his absence the Assistant, will preside.
 
 Sec. 4. <i>Functions</i>. (a) The principal functions of the Council are: (1) to coordinate the domestic policy-making process; (2) to coordinate domestic policy advice to the President; (3) to ensure that domestic policy decisions and programs are consistent with the President's stated goals, and to ensure that those goals are being effectively pursued; and (4) to monitor implementation of the President's domestic policy agenda. The Assistant may take such actions, including drafting a Charter, as may be necessary or appropriate to implement such functions.
 
@@ -520,57 +524,341 @@ Sec. 5. <i>Administration</i>. (a) The Council may function through established 
 
 (c) All executive departments and agencies shall cooperate with the Council and provide such assistance, information, and advice to the Council as the Council may request, to the extent permitted by law.
 
-#### Ex. Ord. No. 13199. Establishment of White House Office of Faith-Based and Community Initiatives
+#### Ex. Ord. No. 13199. Establishment of White House Office of Faith-Based and Neighborhood Partnerships
 
-Ex. Ord. No. 13199, Jan. 29, 2001, 66 F.R. 8499, provided:
+Ex. Ord. No. 13199, Jan. 29, 2001, 66 F.R. 8499, as amended by Ex. Ord. No. 13498, §1, Feb. 5, 2009, 74 F.R. 6533, provided:
 
 By the authority vested in me as President of the United States by the Constitution and the laws of the United States of America, and in order to help the Federal Government coordinate a national effort to expand opportunities for faith-based and other community organizations and to strengthen their capacity to better meet social needs in America's communities, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. Faith-based and other community organizations are indispensable in meeting the needs of poor Americans and distressed neighborhoods. Government cannot be replaced by such organizations, but it can and should welcome them as partners. The paramount goal is compassionate results, and private and charitable community groups, including religious ones, should have the fullest opportunity permitted by law to compete on a level playing field, so long as they achieve valid public purposes, such as curbing crime, conquering addiction, strengthening families and neighborhoods, and overcoming poverty. This delivery of social services must be results oriented and should value the bedrock principles of pluralism, nondiscrimination, evenhandedness, and neutrality.
+Section 1. <i>Policy</i>. Faith-based and other neighborhood organizations are vital to our Nation's ability to address the needs of low-income and other underserved persons and communities. The American people are key drivers of fundamental change in our country, and few institutions are closer to the people than our faith-based and other neighborhood organizations. It is critical that the Federal Government strengthen the ability of such organizations and other nonprofit providers in our neighborhoods to deliver services effectively in partnership with Federal, State, and local governments and with other private organizations, while preserving our fundamental constitutional commitments guaranteeing the equal protection of the laws and the free exercise of religion and forbidding the establishment of religion. The Federal Government can preserve these fundamental commitments while empowering faith-based and neighborhood organizations to deliver vital services in our communities, from providing mentors and tutors to school children to giving ex-offenders a second chance at work and a responsible life to ensuring that families are fed. The Federal Government must also ensure that any organization receiving taxpayers’ dollars must be held accountable for its performance. Through rigorous evaluation, and by offering technical assistance, the Federal Government must ensure that organizations receiving Federal funds achieve measurable results in furtherance of valid public purposes.
 
-Sec. 2. <i>Establishment</i>. There is established a White House Office of Faith-Based and Community Initiatives (White House OFBCI) within the Executive Office of the President that will have lead responsibility in the executive branch to establish policies, priorities, and objectives for the Federal Government's comprehensive effort to enlist, equip, enable, empower, and expand the work of faith-based and other community organizations to the extent permitted by law.
+Sec. 2. <i>Establishment</i>. There is established a White House Office of Faith-Based and Neighborhood Partnerships (Office) within the Executive Office of the President that will have lead responsibility in the executive branch to establish policies, priorities, and objectives for the Federal Government's comprehensive effort to enlist, equip, enable, empower, and expand the work of faith-based and other community organizations to the extent permitted by law.
 
-Sec. 3. <i>Functions</i>. The principal functions of the White House OFBCI are, to the extent permitted by law: (a) to develop, lead, and coordinate the Administration's policy agenda affecting faith-based and other community programs and initiatives, expand the role of such efforts in communities, and increase their capacity through executive action, legislation, Federal and private funding, and regulatory relief;
+Sec. 3. <i>Functions</i>. The principal functions of the Office are, to the extent permitted by law: (a) to develop, lead, and coordinate the Administration's policy agenda affecting faith-based and other community programs and initiatives, expand the role of such efforts in communities, and increase their capacity through executive action, legislation, Federal and private funding, and regulatory relief;
 
 (b) to ensure that Administration and Federal Government policy decisions and programs are consistent with the President's stated goals with respect to faith-based and other community initiatives;
 
-(c) to help integrate the President's policy agenda affecting faith-based and other community organizations across the Federal Government;
+(c) to ensure that services paid for with Federal Government funds are provided in a manner consistent with fundamental constitutional commitments guaranteeing the equal protection of the laws and the free exercise of religion and prohibiting laws respecting an establishment of religion;
 
-(d) to coordinate public education activities designed to mobilize public support for faith-based and community nonprofit initiatives through volunteerism, special projects, demonstration pilots, and public-private partnerships;
+(d) to promote effective training for persons providing federally funded social services in faith-based and neighborhood organizations;
 
-(e) to encourage private charitable giving to support faith-based and community initiatives;
+(e) to promote the better use of program evaluation and research, in order to ensure that organizations deliver services as specified in grant agreements, contracts, memoranda of understanding, and other arrangements;
 
-(f) to bring concerns, ideas, and policy options to the President for assisting, strengthening, and replicating successful faith-based and other community programs;
+(f) to help integrate the President's policy agenda affecting faith-based and other community organizations across the Federal Government;
 
-(g) to provide policy and legal education to State, local, and community policymakers and public officials seeking ways to empower faith-based and other community organizations and to improve the opportunities, capacity, and expertise of such groups;
+(g) to coordinate public education activities designed to mobilize public support for faith-based and community nonprofit initiatives through volunteerism, special projects, demonstration pilots, and public-private partnerships;
 
-(h) to develop and implement strategic initiatives under the President's agenda to strengthen the institutions of civil society and America's families and communities;
+(h) to encourage private charitable giving to support faith-based and community initiatives;
 
-(i) to showcase and herald innovative grassroots nonprofit organizations and civic initiatives;
+(i) to bring concerns, ideas, and policy options to the President for assisting, strengthening, and replicating successful faith-based and other community programs;
 
-(j) to eliminate unnecessary legislative, regulatory, and other bureaucratic barriers that impede effective faith-based and other community efforts to solve social problems;
+(j) to provide policy and legal education to State, local, and community policymakers and public officials seeking ways to empower faith-based and other community organizations and to improve the opportunities, capacity, and expertise of such groups;
 
-(k) to monitor implementation of the President's agenda affecting faith-based and other community organizations; and
+(k) to develop and implement strategic initiatives under the President's agenda to strengthen the institutions of civil society and America's families and communities;
 
-(<i>l</i>) to ensure that the efforts of faith-based and other community organizations meet high standards of excellence and accountability.
+(<i>l</i>) to showcase and herald innovative grassroots nonprofit organizations and civic initiatives;
 
-Sec. 4. <i>Administration</i>. (a) The White House OFBCI may function through established or ad hoc committees, task forces, or interagency groups.
+(m) to eliminate unnecessary legislative, regulatory, and other bureaucratic barriers that impede effective faith-based and other community efforts to solve social problems;
 
-(b) The White House OFBCI shall have a staff to be headed by the Assistant to the President for Faith-Based and Community Initiatives. The White House OFBCI shall have such staff and other assistance, to the extent permitted by law, as may be necessary to carry out the provisions of this order. The White House OFBCI operations shall begin no later than 30 days from the date of this order.
+(n) to monitor implementation of the President's agenda affecting faith-based and other community organizations; and
 
-(c) The White House OFBCI shall coordinate with the liaison and point of contact designated by each executive department and agency with respect to this initiative.
+(<i>o</i>) to ensure that the efforts of faith-based and other community organizations meet high standards of excellence and accountability.
 
-(d) All executive departments and agencies (agencies) shall cooperate with the White House OFBCI and provide such information, support, and assistance to the White House OFBCI as it may request, to the extent permitted by law.
+Sec. 4. <i>Administration</i>. (a) The Office may function through established or ad hoc committees, task forces, or interagency groups.
+
+(b) The Office shall have a staff to be headed by the Special Assistant to the President and Executive Director of the White House Office of Faith-Based and Neighborhood Partnerships (Executive Director). The Office shall have such staff and other assistance, to the extent permitted by law, as may be necessary to carry out the provisions of this order. The Office operations shall begin no later than 30 days from the date of this order.
+
+(c) The Office shall coordinate with the liaison and point of contact designated by each executive department and agency with respect to this initiative.
+
+(d) All executive departments and agencies (agencies) shall cooperate with the Office and provide such information, support, and assistance to the Office as it may request, to the extent permitted by law.
 
 (e) The agencies’ actions directed by this Executive Order shall be carried out subject to the availability of appropriations and to the extent permitted by law.
 
 Sec. 5. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 #### Executive Order No. 13283
 
 Ex. Ord. No. 13283, Jan. 21, 2003, 68 F.R. 3371, which established the Office of Global Communications in the White House Office, was revoked by Ex. Ord. No. 13385, §9, Sept. 29, 2005, 70 F.R. 57991, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+#### Ex. Ord. No. 13498. Amendments to Executive Order 13199 and Establishment of the President's Advisory Council for Faith-Based and Neighborhood Partnerships
+
+Ex. Ord. No. 13498, Feb. 5, 2009, 74 F.R. 6533, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to strengthen the ability of faith-based and other neighborhood organizations to deliver services effectively in partnership with Federal, State, and local governments and with other private organizations, while preserving our fundamental constitutional commitments, it is hereby ordered:
+
+Section 1. \[Amended Ex. Ord. No. 13199, set out as a note above.\]
+
+Sec. 2. <i>President's Advisory Council on Faith-Based and Neighborhood Partnerships</i>. (a) <i>Establishment</i>. There is established within the Executive Office of the President the President's Advisory Council on Faith-Based and Neighborhood Partnerships (Council).
+
+(b) <i>Mission</i>. The Council shall bring together leaders and experts in fields related to the work of faith-based and neighborhood organizations in order to: identify best practices and successful modes of delivering social services; evaluate the need for improvements in the implementation and coordination of public policies relating to faith-based and other neighborhood organizations; and make recommendations to the President, through the Executive Director, for changes in policies, programs, and practices that affect the delivery of services by such organizations and the needs of low-income and other underserved persons in communities at home and around the world.
+
+(c) <i>Membership</i>. (1) The Council shall be composed of not more than 25 members appointed by the President from among individuals who are not officers or employees of the Federal Government. The members shall be persons with experience and expertise in fields related to the provision of social services by faith-based and other neighborhood organizations.
+
+&emsp;(2) Members of the Council shall serve for terms of 1 year, and may continue to serve after the expiration of their terms until the President appoints a successor. Members shall be eligible for reappointment and serve at the pleasure of the President during their terms.
+
+&emsp;(3) The President shall designate a member of the Council to serve as Chair for a term of 1 year at the pleasure of the President. The Chair may continue to serve after the expiration of the Chair's term and shall be eligible for redesignation by the President.
+
+&emsp;(4) The Executive Director of the White House Office of Faith-Based and Neighborhood Partnerships shall also serve as Executive Director of the Council.
+
+&emsp;(5) The Council shall have a staff headed by the Executive Director.
+
+(d) <i>Administration</i>. (1) Upon the request of the Chair, with the approval of the Executive Director, the heads of executive departments and agencies shall, to the extent permitted by law, provide the Council with information it needs for purposes of carrying out its mission.
+
+&emsp;(2) With the approval of the Executive Director, the Council may request and collect information, hold hearings, establish subcommittees, and establish task forces consisting of members of the Council or other individuals who are not officers or employees of the Federal Government, as necessary to carry out its mission.
+
+&emsp;(3) With the approval of the Executive Director, the Council may conduct analyses and develop reports or other materials as necessary to perform its mission.
+
+&emsp;(4) Members of the Council shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service (5 U.S.C. 5701–5707) to the extent funds are available.
+
+&emsp;(5) To the extent permitted by law, and subject to the availability of appropriations, the Department of Health and Human Services shall provide the Council with administrative support and with such funds as may be necessary for the performance of the Council's functions.
+
+(e) <i>General Provisions</i>. (1) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the Council, any functions of the President under that Act, except for those in section 6 of the Act, shall be performed by the Secretary of Health and Human Services in accordance with guidelines issued by the Administrator of General Services.
+
+&emsp;(2) The Council shall terminate 2 years from the date of this order unless extended by the President.
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+&emsp;(1) authority granted by law to a department, agency, or the head thereof; or
+
+&emsp;(2) functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) In order to ensure that Federal programs and practices involving grants or contracts to faith-based organizations are consistent with law, the Executive Director, acting through the Counsel to the President, may seek the opinion of the Attorney General on any constitutional and statutory questions involving existing or prospective programs and practices.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13503. Establishment of the White House Office of Urban Affairs
+
+Ex. Ord. No. 13503, Feb. 19, 2009, 74 F.R. 8139, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to take a coordinated and comprehensive approach to developing and implementing an effective strategy concerning urban America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. About 80 percent of Americans live in urban areas, and the economic health and social vitality of our urban communities are critically important to the prosperity and quality of life for Americans. Vibrant cities spawn innovation, economic growth, and cultural enrichment through the businesses, universities, and civic, cultural, religious, and nonprofit institutions they attract. Forward-looking policies that encourage wise investment and development in our urban areas will create employment and housing opportunities and make our country more competitive, prosperous, and strong. In the past, insufficient attention has been paid to the problems faced by urban areas and to coordinating the many Federal programs that affect our cities. A more comprehensive approach is needed, both to develop an effective strategy for urban America and to coordinate the actions of the many executive departments and agencies whose actions impact urban life.
+
+Sec. 2. <i>Establishment</i>. There is established within the Executive Office of the President the White House Office of Urban Affairs (the “Office”).
+
+Sec. 3. <i>Functions</i>. The principal functions of the Office are, to the extent permitted by law:
+
+(a) to provide leadership for and coordinate the development of the policy agenda for urban America across executive departments and agencies;
+
+(b) to coordinate all aspects of urban policy;
+
+(c) to work with executive departments and agencies to ensure that appropriate consideration is given by such departments and agencies to the potential impact of their actions on urban areas;
+
+(d) to work with executive departments and agencies, including the Office of Management and Budget, to ensure that Federal Government dollars targeted to urban areas are effectively spent on the highest-impact programs; and
+
+(e) to engage in outreach and work closely with State and local officials, with nonprofit organizations, and with the private sector, both in seeking input regarding the development of a comprehensive urban policy and in ensuring that the implementation of Federal programs advances the objectives of that policy.
+
+Sec. 4. <i>Coordination</i>. In performing its functions, the Office shall work closely with all relevant executive departments and agencies, and offices and councils within the Executive Office of the President, including but not limited to:
+
+(a) the Department of the Treasury;
+
+(b) the Department of Justice;
+
+(c) the Department of Commerce;
+
+(d) the Department of Labor;
+
+(e) the Department of Health and Human Services;
+
+(f) the Department of Housing and Urban Development;
+
+(g) the Department of Transportation;
+
+(h) the Department of Energy;
+
+(i) the Department of Education; and
+
+(j) the Environmental Protection Agency.
+
+Sec. 5. <i>Administration</i>. (a) The Office may work with established or ad hoc committees, task forces, and interagency groups.
+
+(b) The Office shall have a staff headed by the Deputy Assistant to the President and Director of Urban Affairs (Director). The Director shall report jointly to the Assistant to the President for Intergovernmental Affairs and Public Liaison and to the Assistant to the President for Domestic Policy. The Office shall have such staff and other assistance as may be necessary to carry out the provisions of this order.
+
+(c) All executive departments and agencies shall cooperate with the Office and provide such information, support, and assistance to the Office as the Director may request, to the extent permitted by law.
+
+Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+&emsp;(i) authority granted by law to a department, agency, or the head thereof; or
+
+&emsp;(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13509. Establishing a White House Council on Automotive Communities and Workers
+
+Ex. Ord. No. 13509, June 23, 2009, 74 F.R. 30903, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. Over the last decade, the United States has experienced a decline in employment in the auto industry and among part suppliers. This decline has accelerated dramatically over the past year, with more than 400,000 jobs being lost in the industry. Unemployment in the automotive sector in towns and cities across the country has reached levels not seen in decades, with resulting increases in poverty and high home foreclosure rates.
+
+The purpose of this order is to establish a coordinated Federal response to issues that particularly impact automotive communities and workers and to ensure that Federal programs and policies address and take into account these concerns.
+
+Sec. 2. <i>White House Council on Automotive Communities and Workers</i>. There is established within the Executive Office of the President the White House Council on Automotive Communities and Workers (Council).
+
+(a) <i>Membership</i>. The Council shall consist of the following members:
+
+&emsp;(1) the Secretary of Labor and the Assistant to the President for Economic Policy and Director of the National Economic Council, who shall serve as Co-Chairs of the Council;
+
+&emsp;(2) the Secretary of the Treasury;
+
+&emsp;(3) the Secretary of Defense;
+
+&emsp;(4) the Attorney General;
+
+&emsp;(5) the Secretary of the Interior;
+
+&emsp;(6) the Secretary of Agriculture;
+
+&emsp;(7) the Secretary of Commerce;
+
+&emsp;(8) the Secretary of Health and Human Services;
+
+&emsp;(9) the Secretary of Housing and Urban Development;
+
+&emsp;(10) the Secretary of Transportation;
+
+&emsp;(11) the Secretary of Energy;
+
+&emsp;(12) the Secretary of Education;
+
+&emsp;(13) the Secretary of Veterans Affairs;
+
+&emsp;(14) the Chair of the Council of Economic Advisers;
+
+&emsp;(15) the Administrator of the Environmental Protection Agency;
+
+&emsp;(16) the Director of the Office of Management and Budget;
+
+&emsp;(17) the United States Trade Representative;
+
+&emsp;(18) the Administrator of General Services;
+
+&emsp;(19) the Administrator of the Small Business Administration;
+
+&emsp;(20) the Senior Advisor and Assistant to the President for Intergovernmental Affairs and Public Engagement;
+
+&emsp;(21) the Assistant to the President and Cabinet Secretary;
+
+&emsp;(22) the Assistant to the President and Director of the Domestic Policy Council;
+
+&emsp;(23) the Chair of the Council on Environmental Quality;
+
+&emsp;(24) the Assistant to the President for Energy and Climate Change; and
+
+&emsp;(25) the heads of such other executive departments, agencies, and offices as the President may, from time to time, designate.
+
+A member of the Council may designate, to perform the Council functions of the member, a senior-level official who is a part of the member's department, agency, or office, and who is a full-time officer or employee of the Federal Government.
+
+(b) <i>Administration</i>. The Co-Chairs shall convene regular meetings of the Council, determine its agenda, and direct its work. The Director for Recovery of Auto Communities and Workers (Director of Recovery) shall serve as Executive Director of the Council and shall coordinate the Council's activities. At the direction of the Co-Chairs, the Council may establish subgroupsconsisting exclusively of Council members or their designees, as appropriate.
+
+Sec. 3. <i>Mission and Functions</i>. The Council shall perform the following functions, to the extent permitted by law:
+
+(a) Provide leadership and coordinate the development of policies and programs across executive departments and agencies to ensure a coordinated Federal response to issues that have a distinct impact on automotive communities and workers;
+
+(b) Advise the President on the effects of pending legislation and executive branch policy proposals on automotive communities and workers;
+
+(c) Provide recommendations to the President on changes to Federal policies and programs to address issues of special importance to automotive communities and workers; and
+
+(d) Help ensure that officials across the executive branch, including officials on existing committees or task forces addressing automotive issues, advance the President's agenda for automotive communities and support the Director of Recovery's coordination of Federal economic adjustment assistance activities. Such support may include the use of personnel, technical expertise, and available financial resources. It may be used to provide a coordinated Federal response to the needs of individual States, regions, municipalities, and communities adversely affected by auto industry changes.
+
+Sec. 4. <i>Outreach</i>. Consistent with the objectives set forth in this order, the Council, in accordance with applicable law, in addition to regular meetings, shall conduct outreach to representatives of nonprofit organizations, business, labor, State and local government agencies, elected officials, and other interested persons that will assist in bringing to the President's attention concerns, ideas, and policy options for expanding and improving efforts to revitalize automotive communities.
+
+Sec. 5. <i>Termination</i>. The Council shall terminate 2 years after the date of this order unless extended by the President.
+
+Sec. 6. <i>General Provisions</i>. (a) The heads of executive departments and agencies shall assist and provide information to the Council, consistent with applicable law, as may be necessary to carry out the functions of the Council. Each executive department and agency shall bear its own expense for participating in the Council.
+
+(b) Executive departments and agencies shall afford consideration to requests from automotive communities for Federal technical assistance, financial resources, excess or surplus property, or other resources.
+
+(c) Nothing in this order shall be construed to impair or otherwise affect:
+
+&emsp;(i) authority granted by law to an executive department, agency, or the head thereof; or
+
+&emsp;(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(d) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(e) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### White House Task Force on Middle-Class Working Families
+
+Memorandum of President of the United States, Jan. 30, 2009, 74 F.R. 5979, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+For many years, middle-class Americans have been working harder, yet not enjoying their fair share of the fruits of a growing economy. While the productivity of the American workforce grew during the decade ending in 2007, middle-income workers saw their real incomes fall. The current economic situation has exacerbated the challenges facing middle-class Americans, with health care coverage, safe and steady employment opportunities, effective and affordable education, owning a home, and saving for retirement slipping out of reach. It is a high priority of my Administration to achieve a secure future for middle-class working families, one in which they share in prosperous times and are cushioned during hard times. To these ends, I hereby direct the following:
+
+Section 1. <i>White House Task Force on Middle-Class Working Families</i>. There is established within the Office of the Vice President, a White House Task Force on Middle-Class Working Families (Task Force) to focus on raising the living standards of middle-class working families in the United States of America. The Vice President shall serve as Chair of the Task Force.
+
+(a)
+
+Membership of the Task Force. In addition to the Vice President, the Task Force shall consist exclusively of the heads of the executive branch departments, agencies, and offices listed below:
+
+(1) the Department of Commerce;
+
+(2) the Department of Labor;
+
+(3) the Department of Health and Human Services;
+
+(4) the Department of Education;
+
+(5) the Office of Management and Budget;
+
+(6) the National Economic Council;
+
+(7) the Domestic Policy Council;
+
+(8) the Council of Economic Advisers; and
+
+(9) such other executive branch departments, agencies, or offices as the President may designate.
+
+A member of the Task Force may designate, to perform the Task Force functions of the member, any person who is a part of the member's department, agency, or office, and who is a full-time officer or employee of the Federal Government. At the direction of the Chair, the Task Force may establish subgroups consisting exclusively of Task Force members or their designees under this section, as appropriate.
+
+(b)
+
+Administration of the Task Force. The Department of Labor shall provide funding and administrative support for the Task Force to the extent permitted by law and within existing appropriations. The Vice President shall designate an Executive Director of the Task Force, who shall coordinate the work of the Task Force.
+
+Sec. 2. <i>Mission and Functions of the Task Force</i>. The Task Force shall work with a wide array of executive departments and agencies that have responsibility for key issues facing middle-class working families, expedite administrative reforms, propose Executive Orders, and develop legislative and policy proposals that can be of special importance to middle-class working families. The functions of the Task Force are advisory only and shall include, but shall not be limited to, producing a detailed set of recommendations to:
+
+(a) expand education and lifelong training opportunities;
+
+(b) improve work and family balance;
+
+(c) restore labor standards, including workplace safety;
+
+(d) protect the incomes of middle-class working families; and
+
+(e) protect retirement security.
+
+Sec. 3. <i>Outreach</i>. Consistent with the objectives set out in section 2 of this memorandum, the Task Force, in accordance with applicable law, in addition to regular meetings, shall conduct outreach with representatives of labor, business, nonprofit organizations, State and local government agencies, and other interested persons that will assist with the Task Force's development of a detailed set of recommendations.
+
+Sec. 4. <i>Transparency and Reports</i>. The Task Force shall facilitate the posting on the Internet of submissions by outside parties and engage in an open, two-way dialogue with the American people. The Task Force shall present to the President annual reports, beginning 1 year from the date of this memorandum, onits findings and recommendations, which shall be made available to the public and posted on the Internet.
+
+Sec. 5. <i>General Provisions</i>. (a) The heads of executive departments and agencies shall assist and provide information to the Task Force, consistent with applicable law, as may be necessary to carry out the functions of the Task Force. Each executive department and agency shall bear its own expense for participating in the Task Force.
+
+(b) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 6. <i>Publication</i>. The Secretary of Labor is authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> As amended Sept. 15, 1977.</i>
 

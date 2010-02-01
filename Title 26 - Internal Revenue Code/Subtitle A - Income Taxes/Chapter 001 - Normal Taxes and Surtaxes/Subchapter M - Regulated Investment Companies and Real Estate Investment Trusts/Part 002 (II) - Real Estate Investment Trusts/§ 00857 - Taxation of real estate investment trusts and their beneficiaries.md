@@ -122,7 +122,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;&emsp;(ii) the amount of such gross income which is derived from sources referred to in section 856(c)(3),
 
-> &emsp;&emsp;multiplied by a fraction the numerator of which is the real estate investment trusttaxable income for the taxable year (determined without regard to the deductions provided in paragraphs (2)(B) and (2)(E), without regard to any net operating loss deduction, and by excluding any net capital gain) and the denominator of which is the gross income for the taxable year (excluding gross income from prohibited transactions; gross income and gain from foreclosure property (as defined in section 856(e), but only to the extent such gross income and gain is not described in subparagraph (A), (B), (C), (D), (E), or (G) of section 856(c)(3)); long-term capital gain; and short-term capital gain to the extent of any short-term capital loss).
+> &emsp;&emsp;multiplied by a fraction the numerator of which is the real estate investment trust taxable income for the taxable year (determined without regard to the deductions provided in paragraphs (2)(B) and (2)(E), without regard to any net operating loss deduction, and by excluding any net capital gain) and the denominator of which is the gross income for the taxable year (excluding gross income from prohibited transactions; gross income and gain from foreclosure property (as defined in section 856(e), but only to the extent such gross income and gain is not described in subparagraph (A), (B), (C), (D), (E), or (G) of section 856(c)(3)); long-term capital gain; and short-term capital gain to the extent of any short-term capital loss).
 
 #### (6) Income from prohibited transactions
 
@@ -178,7 +178,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;&emsp;(iv)(I) during the taxable year the trust does not make more than 7 sales of property (other than sales of foreclosure property or sales to which section 1033 applies), or
 
-&emsp;&emsp;&emsp;(II) the aggregate adjusted bases (as determined for purposes of computing earnings and profits) of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent ofthe aggregate bases (as so determined) of all of the assets of the trust as of the beginning of the taxable year, or
+&emsp;&emsp;&emsp;(II) the aggregate adjusted bases (as determined for purposes of computing earnings and profits) of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the aggregate bases (as so determined) of all of the assets of the trust as of the beginning of the taxable year, or
 
 &emsp;&emsp;&emsp;(III) the fair market value of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the fair market value of all of the assets of the trust as of the beginning of the taxable year,
 
@@ -238,7 +238,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;&emsp;&emsp;(I) such subsidiary renders a significant amount of similar services to persons other than such trust and tenants of such trust who are unrelated (within the meaning of section 856(d)(8)(F)) to such subsidiary, trust, and tenants, but
 
-&emsp;&emsp;&emsp;&emsp;(II) only to the extent the charge for such service so rendered is substantiallycomparable to the charge for the similar services rendered to persons referred to in subclause (I).
+&emsp;&emsp;&emsp;&emsp;(II) only to the extent the charge for such service so rendered is substantially comparable to the charge for the similar services rendered to persons referred to in subclause (I).
 
 #### (iv) Exception for certain separately charged services
 
@@ -290,7 +290,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;&emsp;(i) the rules of paragraphs (3) and (4) of section 246(c) shall apply, and
 
-&emsp;&emsp;&emsp;(ii) there shall not be taken into account any day which is more than 6 months after the date on which such share or interest becomes ex-dividend.
+&emsp;&emsp;&emsp;(ii) there shall not be taken into account any day which is more than 6 months afterthe date on which such share or interest becomes ex-dividend.
 
 #### (C) Exception for losses incurred under periodic liquidation plans
 
@@ -458,7 +458,7 @@ Subsec. (b)(6)(C)(iii)(III). Pub. L. 110–289, §3052(1), added subcl. (III).
 
 Subsec. (b)(6)(C)(iv). Pub. L. 110–289, §3051(a)(1), substituted “2 years” for “4 years”.
 
-Subsec. (b)(6)(D). Pub. L. 110–289, §3051(a)(3), substituted “real estate asset (as defined in section 856(c)(5)(B)) and which is described in section 1221(a)(1)if” for “real estate asset (as defined in section 856(c)(5)(B)) if” in introductory provisions.
+Subsec. (b)(6)(D). Pub. L. 110–289, §3051(a)(3), substituted “real estate asset (as defined in section 856(c)(5)(B)) and which is described in section 1221(a)(1) if” for “real estate asset (as defined in section 856(c)(5)(B)) if” in introductory provisions.
 
 Subsec. (b)(6)(D)(i). Pub. L. 110–289, §3051(a)(1), substituted “2 years” for “4 years”.
 
@@ -550,7 +550,7 @@ Subsec. (b)(7)(A)(i). Pub. L. 105–34, §1254(b)(1), substituted “subparagrap
 
 Subsec. (d)(3). Pub. L. 105–34, §1256, added par. (3).
 
-Subsec. (e)(2)(B) to (D). Pub. L. 105–34, §1259, redesignated subpar. (C) as (B) and substituted a comma for period at end, added subpars. (C) and (D), and struckout former subpar. (B) which read as follows: “in the case of a real estate investment trust using the cash receipts and disbursements method of accounting, the amount (if any) by which—
+Subsec. (e)(2)(B) to (D). Pub. L. 105–34, §1259, redesignated subpar. (C) as (B) and substituted a comma for period at end, added subpars. (C) and (D), and struck out former subpar. (B) which read as follows: “in the case of a real estate investment trust using the cash receipts and disbursements method of accounting, the amount (if any) by which—
 
 &emsp;“(i) the amounts includible in gross income with respect to instruments to which section 1274 (relating to certain debt instruments issued for property) applies, exceed
 
@@ -616,7 +616,7 @@ Subsec. (c). Pub. L. 98–369, §16(a), repealed amendments made by Pub. L. 97�
 
 Subsec. (c). Pub. L. 96–223 temporarily substituted “Limitations applicable to dividends received from real estate investment trusts” for “Restrictions applicable to dividends received from real estate investment trusts” in heading, designated existing provisions as par. (1), substituted “(1)
 
-Capital gain dividend.—For purposes of section 116 (relating to exclusion for dividends and interest received by individuals), a capitalgain dividend (as defined in subsection (b)(3)(C)) received from a real estate investment trust shall not be considered a dividend” for “For purposes of section 116 (relating to an exclusion for dividends received by individuals) and section 243 (relating to deductions for dividends received by corporations), a dividend received from a real estate investment trust which meets the requirements of this part shall not be considered as a dividend” in par. (1) as so designated, and added pars. (2) to (6).
+Capital gain dividend.—For purposes of section 116 (relating to exclusion for dividends and interest received by individuals), a capital gain dividend (as defined in subsection (b)(3)(C)) received from a real estate investment trust shall not be considered a dividend” for “For purposes of section 116 (relating to an exclusion for dividends received by individuals) and section 243 (relating to deductions for dividends received by corporations), a dividend received from a real estate investment trust which meets the requirements of this part shall not be considered as a dividend” in par. (1) as so designated, and added pars. (2) to (6).
 
 1978—Subsec. (b)(1). Pub. L. 95–600, §301(b)(12), substituted “a tax” for “a normal tax and surtax”.
 
@@ -730,7 +730,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to taxable years beginning after Aug. 5, 1997, see section 1263 of Pub. L. 105–34, set out as a note under section 852 of this title.
+Amendment by Pub. L. 105–34 applicable to taxable years beginning after Aug. 5, 1997, see section 1263 ofPub. L. 105–34, set out as a note under section 852 of this title.
 
 #### Effective Date of 1988 Amendment
 

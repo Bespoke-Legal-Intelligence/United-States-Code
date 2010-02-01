@@ -72,7 +72,7 @@ Consultation.—In developing the report, the Transportation Research Board shal
 
 &emsp;(4)
 
-Submission.—Not later than February 1, 2009, the report shall be submitted to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+Submission.—Not later than February 1, 2009, the report shall be submitted to the Committee on Environment and Public Works ofthe Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 (f)
 

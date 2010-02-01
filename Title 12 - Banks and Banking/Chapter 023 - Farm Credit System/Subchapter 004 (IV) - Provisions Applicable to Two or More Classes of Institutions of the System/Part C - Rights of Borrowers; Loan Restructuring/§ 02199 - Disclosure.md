@@ -34,7 +34,7 @@ The Truth in Lending Act, referred to in subsec. (a), is title I of Pub. L. 90�
 
 #### Prior Provisions
 
-A prior section 4.13 of Pub. L. 92–181, title IV, Dec. 10, 1971, 85 Stat. 613, was renumbered section 4.13B by Pub. L. 99–205, title III, §301(a), Dec. 23, 1985, 99 Stat. 1707, and is classified to section 2201 of this title.
+A prior section 4.13 of Pub. L. 92–181, title IV, Dec. 10, 1971, 85 Stat. 613, was renumbered section 4.13B by Pub.L. 99–205, title III, §301(a), Dec. 23, 1985, 99 Stat. 1707, and is classified to section 2201 of this title.
 
 #### Amendments
 

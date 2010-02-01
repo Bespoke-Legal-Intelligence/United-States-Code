@@ -22,7 +22,7 @@
 
 &emsp;&emsp;For purposes of paragraph (1), the amount referred to in this paragraph for a State (including a territory) for a fiscal year is, subject to subparagraphs (E) and (F)—
 
-&emsp;&emsp;&emsp;(i) an amount equal to the amount made available under section 300ff–31b of this title for the fiscal year involved for grants pursuant to paragraph (1), subject to subparagraph (G); <sup>1</sup> and
+&emsp;&emsp;&emsp;(i) an amount equal to the amount made available under section 300ff–31b of this title for the fiscal year involved for grants pursuant to paragraph (1), subject to subparagraph (F); and
 
 &emsp;&emsp;&emsp;(ii) the percentage constituted by the sum of—
 
@@ -38,13 +38,13 @@
 
 #### (C) Non-EMA distribution factor
 
-&emsp;&emsp;For purposes of subparagraph (A)(ii)(II), the term “non-ema <sup>2</sup> distribution factor” means an amount equal to the sum of—
+&emsp;&emsp;For purposes of subparagraph (A)(ii)(II), the term “non-ema <sup>1</sup> distribution factor” means an amount equal to the sum of—
 
 &emsp;&emsp;&emsp;(i) the number of living cases of HIV/AIDS in the State involved, as determined under subparagraph (D); less
 
 &emsp;&emsp;&emsp;(ii) a number equal to the sum of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the total number of living cases of HIV/AIDS that are within areas in such State that are eligible areas under subpart I of part A for the fiscal year involved, which individual number for an area is the number that applies undersection 300ff–11 of this title for the area for such fiscal year; and
+&emsp;&emsp;&emsp;&emsp;(I) the total number of living cases of HIV/AIDS that are within areas in such State that are eligible areas under subpart I of part A for the fiscal year involved, which individual number for an area is the number that applies under section 300ff–11 of this title for the area for such fiscal year; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the total number of such cases that are within areas in such State that are transitional areas under section 300ff–19 of this title for such fiscal year, which individual number for an area is the number that applies under such section for the fiscal year.
 
@@ -56,11 +56,11 @@
 
 #### (ii) Transition period; exemption regarding non-AIDS cases
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2009, a State is, subject to clauses (iii) through (v), exempt from the requirement under clause (i) that living non-AIDS names-based cases of HIV be reported unless—
+&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2012, a State is, subject to clauses (iii) through (v), exempt from the requirement under clause (i) that living non-AIDS names-based cases of HIV be reported unless—
 
 &emsp;&emsp;&emsp;&emsp;(I) a system was in operation as of December 31, 2005, that provides sufficiently accurate and reliable names-based reporting of such cases throughout the State, subject to clause (vii); or
 
-&emsp;&emsp;&emsp;&emsp;(II) no later than the beginning of fiscal year 2008 or 2009, the Secretary, after consultation with the chief executive of the State, determines that a system has become operational in the State that provides sufficiently accurate and reliable names-based reporting of such cases throughout the State.
+&emsp;&emsp;&emsp;&emsp;(II) no later than the beginning of fiscal year 2008 or a subsequent fiscal year through fiscal year 2012, the Secretary, after consultation with the chief executive of the State, determines that a system has become operational in the State that provides sufficiently accurate and reliable names-based reporting of such cases throughout the State.
 
 #### (iii) Requirements for exemption for fiscal year 2007
 
@@ -70,15 +70,15 @@
 
 &emsp;&emsp;&emsp;&emsp;(bb) all statutory changes necessary to provide for sufficiently accurate and reliable reporting of such cases had been made; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the State had agreed that, by April 1, 2008, the State will begin accurate and reliable names-based reporting of such cases, except that such agreement is not required to provide that, as of such date, the system for such reporting be fully sufficient with respect to accuracy and reliability throughout the area.
+&emsp;&emsp;&emsp;&emsp;(II) the State had agreed that, by April 1, 2008, the State will begin accurate andreliable names-based reporting of such cases, except that such agreement is not required to provide that, as of such date, the system for such reporting be fully sufficient with respect to accuracy and reliability throughout the area.
 
 #### (iv) Requirement for exemption as of fiscal year 2008
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2008 through 2010, an exemption under clause (ii) for a State applies only if, as of April 1, 2008, the State is substantially in compliance with the agreement under clause (iii)(II).
+&emsp;&emsp;&emsp;For each of the fiscal years 2008 through 2012, an exemption under clause (ii) for a State applies only if, as of April 1, 2008, the State is substantially in compliance with the agreement under clause (iii)(II).
 
 #### (v) Progress toward names-based reporting
 
-&emsp;&emsp;&emsp;For fiscal year 2009, the Secretary may terminate an exemption under clause (ii) for a State if the State submitted a plan under clause (iii)(I)(aa) and the Secretary determines that the State is not substantially following the plan.
+&emsp;&emsp;&emsp;For fiscal year 2009 or a subsequent fiscal year, the Secretary may terminate an exemption under clause (ii) for a State if the State submitted a plan under clause (iii)(I)(aa) and the Secretary determines that the State is not substantially following the plan.
 
 #### (vi) Counting of cases in areas with exemptions
 
@@ -88,7 +88,17 @@
 
 #### (II) Adjustment rate
 
-&emsp;&emsp;&emsp;&emsp;The adjustment rate under subclause (I) for a State shall be a reduction of 5 percent in the number of living non-AIDS cases of HIV reported for the State.
+&emsp;&emsp;&emsp;&emsp;The adjustment rate under subclause (I) for a State shall be a reduction of 5 percent for fiscal years before fiscal year 2012 (and 6 percent for fiscal year 2012) in the number of living non-AIDS cases of HIV reported for the State.
+
+#### (III) Increased adjustment for certain States previously using code-based reporting
+
+&emsp;&emsp;&emsp;&emsp;For purposes of this subparagraph for each of fiscal years 2010 through 2012, the Secretary shall deem the applicable number of living cases of HIV/AIDS in a State that were reported to and confirmed by the Centers for Disease Control and Prevention to be 3 percent higher than the actual number if—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) there is an area in such State that satisfies all of the conditions described in items (aa) through (cc) of section 300ff–13(a)(3)(C)(vi)(III) of this title; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb)(AA) fiscal year 2007 was the first year in which the count of living non-AIDS cases of HIV in such area, for purposes of this part, was based on a names-based reporting system; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(BB) the amount of funding that such State received under this part for fiscal year 2007 was less than 70 percent of the amount of funding that such State received under such part for fiscal year 2006.
 
 #### (vii) List of States meeting standard regarding December 31, 2005
 
@@ -108,21 +118,25 @@
 
 #### (II) Applicability of exemption requirements
 
-&emsp;&emsp;&emsp;&emsp;The provisions of clauses (ii) through (vii) may not be construed as having anylegal effect for fiscal year 2010 or any subsequent fiscal year, and accordingly, the status of a State for purposes of such clauses may not be considered after fiscal year 2009.
+&emsp;&emsp;&emsp;&emsp;The provisions of clauses (ii) through (vii) may not be construed as having any legal effect for fiscal year 2013 or any subsequent fiscal year, and accordingly, the status of a State for purposes of such clauses may not be considered after fiscal year 2012.
 
 #### (ix) Program for detecting inaccurate or fraudulent counting
 
 &emsp;&emsp;&emsp;The Secretary shall carry out a program to monitor the reporting of names-based cases for purposes of this subparagraph and to detect instances of inaccurate reporting, including fraudulent reporting.
 
+#### (x) Future fiscal years
+
+&emsp;&emsp;&emsp;For fiscal years beginning with fiscal year 2013, determinations under this paragraph shall be based only on living names-based cases of HIV/AIDS with respect to the State involved.
+
 #### (E) Code-based States; limitation on increase in grant
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2009, if code-based reporting (within the meaning of subparagraph (D)(vi)) applies in a State as of the beginning of the fiscal year involved, then notwithstanding any other provision of this paragraph, the amount of the grant pursuant to paragraph (1) for the State may not for the fiscal year involved exceed by more than 5 percent the amount of the grant pursuant to this paragraph for the State for the preceding fiscal year, except that the limitation under this clause may not result in a grant pursuant to paragraph (1) for a fiscal year that is less than the minimum amount that applies to the State under such paragraph for such fiscal year.
+&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2012, if code-based reporting (within the meaning of subparagraph (D)(vi)) applies in a State as of the beginning of the fiscal year involved, then notwithstanding any other provision of this paragraph, the amount of the grant pursuant to paragraph (1) for the State may not for the fiscal year involved exceed by more than 5 percent the amount of the grant pursuant to this paragraph for the State for the preceding fiscal year, except that the limitation under this clause may not result in a grant pursuant to paragraph (1) for a fiscal year that is less than the minimum amount that applies to the State under such paragraph for such fiscal year.
 
 #### (ii) Use of amounts involved
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2009, amounts available as a result of the limitation under clause (i) shall be made available by the Secretary as additional amounts for grants pursuant to section 300ff–29a of this title, subject to subparagraph (H).
+&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2012, amounts available as a result of the limitation under clause (i) shall be made available by the Secretary as additional amounts for grants pursuant to section 300ff–29a of this title, subject to subparagraph (H).
 
 #### (F) Appropriations for treatment drug program
 
@@ -156,7 +170,7 @@
 
 #### (V) Funding
 
-&emsp;&emsp;&emsp;&emsp;For the purpose of making grants under this clause, the Secretary shall each fiscal year reserve 5 percent of the amount referred to in clause (i) with respect to section 300ff–26 of this title, subject to subclause (VI).
+&emsp;&emsp;&emsp;&emsp;For the purpose of making grants under this clause, the Secretary shall each fiscal year reserve 5 percent of the amount referred to in clause (i) with respect to section 300ff–26 of this title.
 
 #### (iii) Code-based States; limitation on increase in formula grant
 
@@ -170,19 +184,19 @@
 
 #### (I) General rule
 
-&emsp;&emsp;&emsp;&emsp;For fiscal year 2007, the Secretary shall ensure, subject to clauses (ii) through (iv), that the total for a State of the grant pursuant to paragraph (1) and the grant pursuant to subparagraph (G) <sup>3</sup> is not less than 95 percent of such total for the State for fiscal year 2006.
+&emsp;&emsp;&emsp;&emsp;For fiscal year 2010, the Secretary shall ensure, subject to clauses (ii) through (iv), that the total for a State of the grant pursuant to paragraph (1) and the grant pursuant to subparagraph (F) is not less than 95 percent of such total for the State for fiscal year 2009.
 
 #### (II) Rule of construction
 
-&emsp;&emsp;&emsp;&emsp;With respect to the application of subclause (I), the 95 percent requirement under such subclause shall apply with respect to each grant awarded under paragraph (1) and with respect to each grant awarded under subparagraph (G).<sup>3</sup>
+&emsp;&emsp;&emsp;&emsp;With respect to the application of subclause (I), the 95 percent requirement under such subclause shall apply with respect to each grant awarded under paragraph (1) and with respect to each grant awarded under subparagraph (F).
 
-#### (ii) Fiscal year 2007
+#### (ii) Fiscal years 2011 and 2012
 
-&emsp;&emsp;&emsp;For purposes of clause (i) as applied for fiscal year 2007, the references in such clause to subparagraph (G) <sup>3</sup> are deemed to be references to subparagraph (I) as such subparagraph was in effect for fiscal year 2006.
+&emsp;&emsp;&emsp;For each of the fiscal years 2011 and 2012, the Secretary shall ensure that the totalfor a State of the grant pursuant to paragraph (1) and the grant pursuant to subparagraph (F) is not less than 100 percent of such total for the State for fiscal year 2010.
 
-#### (iii) Fiscal years 2008 and 2009
+#### (iii) Fiscal year 2013
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2008 and 2009, the Secretary shall ensure that the total for a State of the grant pursuant to paragraph (1) and the grant pursuant to subparagraph (G) <sup>3</sup> is not less than 100 percent of such total for the State for fiscal year 2007.
+&emsp;&emsp;&emsp;For fiscal year 2013, the Secretary shall ensure that the total for a State of the grant pursuant to paragraph (1) and the grant pursuant to subparagraph (F) is not less than 92.5 percent of such total for the State for fiscal year 2012.
 
 #### (iv) Source of funds for increase
 
@@ -196,7 +210,7 @@
 
 #### (v) Applicability
 
-&emsp;&emsp;&emsp;This paragraph may not be construed as having any applicability after fiscal year 2009.
+&emsp;&emsp;&emsp;This paragraph may not be construed as having any applicability after fiscal year 2013.
 
 #### (b) Allocation of assistance by States
 
@@ -254,7 +268,7 @@
 
 #### (4) Limitation on use of funds
 
-&emsp;Except as provided in paragraph (5), a State may not use more than a total of 15 percent of amounts received under a grant awarded under section 300ff–21 of this title for the purposes described in paragraphs (2) and (3).
+&emsp;Except as provided in paragraph (5), a State may not use more than a total of 15 percent of amounts received under a grant awarded undersection 300ff–21 of this title for the purposes described in paragraphs (2) and (3).
 
 #### (5) Exception
 
@@ -282,15 +296,47 @@
 
 Any portion of a grant made to a State under section 300ff–21 of this title for a fiscal year that has not been obligated as described in subsection (c) ceases to be available to the State and shall be made available by the Secretary for grants under section 300ff–29a of this title, in addition to amounts made available for such grants under section 300ff–31b(b)(2) of this title.
 
-(July 1, 1944, ch. 373, title XXVI, §2618, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 595; amended Pub. L. 102–531, title III, §312(d)(30), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(c)(5), (g)(2), 5, 6(c)(3), May 20, 1996, 110 Stat. 1355, 1363, 1365, 1368; Pub. L. 105–392, title IV, §417, Nov. 13, 1998, 112 Stat. 3591; Pub. L. 106–345, title II, §206, Oct. 20, 2000, 114 Stat. 1334; Pub. L. 109–415, title II, §§203, 204(a), title VII, §702(1), Dec. 19, 2006, 120 Stat. 2789, 2796, 2819.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2618, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 595; amended Pub. L. 102–531, title III, §312(d)(30), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(c)(5), (g)(2), 5, 6(c)(3), May 20, 1996, 110 Stat. 1355, 1363, 1365, 1368; Pub. L. 105–392, title IV, §417, Nov. 13, 1998, 112 Stat. 3591; Pub. L. 106–345, title II, §206, Oct. 20, 2000, 114 Stat. 1334; Pub. L. 109–415, title II, §§203, 204(a), title VII, §§702(1), 703, Dec. 19, 2006, 120 Stat. 2789, 2796, 2819, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 3(b), 5(b), (c)(1), 7(b), 10(b), Oct. 30, 2009, 123 Stat. 2885, 2888, 2890, 2891, 2893, 2895.)
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–415, §204(a), substituted “section 300ff–21 of this title” for “this part” in introductory provisions.
+2009—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+Subsec. (a)(2)(A)(i). Pub. L. 111–87, §5(c)(1), substituted “subparagraph (F)” for “subparagraph (G)”.
+
+Subsec. (a)(2)(D)(ii). Pub. L. 111–87, §3(b)(1)(A)(i), substituted “2012” for “2009” in introductory provisions.
+
+Subsec. (a)(2)(D)(ii)(II). Pub. L. 111–87, §3(b)(1)(A)(ii), substituted “or a subsequent fiscal year through fiscal year 2012” for “or 2009”.
+
+Subsec. (a)(2)(D)(iv). Pub. L. 111–87, §3(b)(1)(B), substituted “2012” for “2010”.
+
+Subsec. (a)(2)(D)(v). Pub. L. 111–87, §3(b)(1)(C), inserted “or a subsequent fiscal year” after “2009”.
+
+Subsec. (a)(2)(D)(vi)(II). Pub. L. 111–87, §3(b)(1)(D), inserted “for fiscal years before fiscal year 2012 (and 6 percent for fiscal year 2012)” after “5 percent”.
+
+Subsec. (a)(2)(D)(vi)(III). Pub. L. 111–87, §7(b), added subcl. (III).
+
+Subsec. (a)(2)(D)(viii)(II). Pub. L. 111–87, §3(b)(1)(E), substituted “2013” for “2010” and “2012” for “2009”.
+
+Subsec. (a)(2)(D)(x). Pub. L. 111–87, §3(b)(1)(F), added cl. (x).
+
+Subsec. (a)(2)(E)(i), (ii). Pub. L. 111–87, §3(b)(2), substituted “2012” for “2009”.
+
+Subsec. (a)(2)(F)(ii)(V). Pub. L. 111–87, §10(b), struck out “, subject to subclause (VI)” before period.
+
+Subsec. (a)(2)(H)(i). Pub. L. 111–87, §5(b)(1), (c)(1), substituted “2010” for “2007” and “2009” for “2006” and substituted “subparagraph (F)” for “subparagraph (G)” in two places.
+
+Subsec. (a)(2)(H)(ii). Pub. L. 111–87, §5(b)(3), (c)(1), in heading, substituted “2011 and 2012” for “2008 and 2009” and, in text, substituted “2011 and 2012” for “2008 and 2009”, “subparagraph (F)” for “subparagraph (G)”, and “2010” for “2007”.
+
+Pub. L. 111–87, §5(b)(2), redesignated cl. (iii) as (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “For purposes of clause (i) as applied for fiscal year 2007, the references in such clause to subparagraph (G) are deemed to be references to subparagraph (I) as such subparagraph was in effect for fiscal year 2006.”
+
+Subsec. (a)(2)(H)(iii). Pub. L. 111–87, §5(b)(4), added cl. (iii). Former cl. (iii) redesignated (ii).
+
+Subsec. (a)(2)(H)(v). Pub. L. 111–87, §5(b)(5), substituted “2013” for “2009”.
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+Subsec. (a)(1). Pub. L. 109–415, §204(a), substituted “section 300ff–21 of this title” for “this part” in introductory provisions.
 
 Pub. L. 109–415, §203(g)(1), substituted “section 300ff–31b of this title” for “section 300ff–77 of this title” in introductory provisions.
 
@@ -306,7 +352,7 @@ Pub. L. 109–415, §203(g)(2)(B)(ii), substituted “covered State” for “St
 
 Subsec. (a)(1)(B). Pub. L. 109–415, §203(g)(3), substituted “each territory other than Guam and the Virgin Islands” for “each territory of the United States, as defined in paragraph (3),”.
 
-Subsec. (a)(2)(A). Pub. L. 109–415, §203(b)(1)(A), in introductory provisions substituted “For purposes of paragraph (1), the amount referred to in this paragraph for a State (including a territory) for a fiscal year is, subject to subparagraphs (E) and (F)” for “The amount referred to in paragraph (1)(A)(ii) for a State and paragraph (1)(B) for a territory of the United States shall be the product of”, added cl. (i), and struck out former cl. (i) which read as follows:
+Subsec. (a)(2)(A). Pub. L. 109–415, §203(b)(1)(A), in introductory provisions substituted “For purposes of paragraph (1), the amount referred to in this paragraph for a State (including a territory) for a fiscal year is,subject to subparagraphs (E) and (F)” for “The amount referred to in paragraph (1)(A)(ii) for a State and paragraph (1)(B) for a territory of the United States shall be the product of”, added cl. (i), and struck out former cl. (i) which read as follows:
 
 “(i) an amount equal to the amount appropriated under section 300ff–77 of this title for the fiscal year involved for grants under this part, subject to subparagraphs (H) and (I); and”.
 
@@ -394,7 +440,7 @@ Subsec. (a)(1)(B). Pub. L. 106–345, §206(d), inserted “the greater of $50,0
 
 Subsec. (a)(2)(A)(i). Pub. L. 106–345, §206(c)(2)(A), substituted “subparagraphs (H) and (I)” for “subparagraph (H)”.
 
-Subsec. (a)(2)(D)(i). Pub. L. 106–345, §206(b)(1), inserted before semicolon “, except that (subject to subparagraph (E)), for grants made pursuant to this paragraph or section 300ff–30 of this title for fiscal year 2005 andsubsequent fiscal years, the cases counted for each 12-month period beginning on or after July 1, 2004, shall be cases of HIV disease (as reported to and confirmed by such Director) rather than cases of acquired immune deficiency syndrome”.
+Subsec. (a)(2)(D)(i). Pub. L. 106–345, §206(b)(1), inserted before semicolon “, except that (subject to subparagraph (E)), for grants made pursuant to this paragraph or section 300ff–30 of this title for fiscal year 2005 and subsequent fiscal years, the cases counted for each 12-month period beginning on or after July 1, 2004, shall be cases of HIV disease (as reported to and confirmed by such Director) rather than cases of acquired immune deficiency syndrome”.
 
 Subsec. (a)(2)(E) to (G). Pub. L. 106–345, §206(b)(2), (3), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively. Former subpar. (G) redesignated (H).
 
@@ -448,13 +494,13 @@ Subsec. (c)(5) to (7). Pub. L. 104–146, §3(c)(5)(C), (D), added pars. (5) and
 
 1992—Subsec. (c)(1). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by sections 3(b), 5(b), (c)(1), 7(b), and 10(b) of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by sections 3(c)(5), (g)(2) and 6(c)(3)(A) of Pub. L. 104–146 effective Oct. 1, 1996, and amendment by sections 5 and 6(c)(3)(B) of Pub. L. 104–146 effective May 20, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
 
-<i><sup>1</sup></i><i> So in original. There is no subparagraph (G).</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “ ‘non-EMA”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be a reference to subparagraph (F).</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “ ‘non-EMA”.</i>
 

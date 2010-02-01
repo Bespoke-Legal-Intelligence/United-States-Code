@@ -20,7 +20,7 @@ Periodic Audits by GAO.—The Comptroller General of the United States shall mak
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, §9008, Nov. 21, 1989, 103 Stat. 1130, which was set out as a note under section 2341 of this title, prior to repeal by Pub. L. 101–510, §1451(c).
+Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, §9008, Nov. 21, 1989,103 Stat. 1130, which was set out as a note under section 2341 of this title, prior to repeal by Pub. L. 101–510, §1451(c).
 
 #### Amendments
 

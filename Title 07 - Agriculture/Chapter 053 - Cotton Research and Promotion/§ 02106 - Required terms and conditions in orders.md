@@ -34,7 +34,7 @@ Orders issued pursuant to this chapter shall contain the following terms and con
 
 &emsp;(B) for administrative costs incurred by the Secretary for supervisory work up to 5 employee years after an order or amendment to an order has been issued and made effective.
 
-> There shall also be included in the order a provision for reimbursing any agency of the FederalGovernment that assists in administering the import provisions of the order for a reasonable amount of the expenses incurred by that agency in connection therewith.
+> There shall also be included in the order a provision for reimbursing any agency of the Federal Government that assists in administering the import provisions of the order for a reasonable amount of the expenses incurred by that agency in connection therewith.
 
 (3) To facilitate the collection and payment of such assessments, the Cotton Board may designate different handlers or importers or classes of handlers or importers to recognize differences in marketing practices or procedures utilized in any State or area, except that no more than one such assessment shall be made on any bale of cotton, unless specifically authorized by provisions of this subsection.
 
@@ -66,7 +66,7 @@ Subsec. (b). Pub. L. 101–624, §1992(2), inserted “(1)”, and substituted �
 
 Subsec. (e). Pub. L. 101–624, §1992(3), amended subsec. (e) generally, substituting present provisions for provisions relating to a producer-paid assessment at a rate of $1 per bale, with a possible per-bale supplement not to exceed 1 per centum of the value of the cotton, along with other provisions relating to use of assessment funds, referendums and procedures concerning any supplemental assessments, and judicial action to collect assessments.
 
-1976—Subsec. (b). Pub. L. 94–366, §3, inserted provisions which authorized Secretary to appoint consumeradvisors up to 15 per centum of the membership of the Cotton Board, and authorized reimbursing such advisors for expenses incurred in attending the Board meetings.
+1976—Subsec. (b). Pub. L. 94–366, §3, inserted provisions which authorized Secretary to appoint consumer advisors up to 15 per centum of the membership of the Cotton Board, and authorized reimbursing such advisors for expenses incurred in attending the Board meetings.
 
 Subsec. (e). Pub. L. 94–366, §2, inserted provisions authorizing reimbursement of the Secretary up to $200,000 for expenses incurred in conducting a referendum pursuant to section 2107 of this title and for administrative costs incurred by him for supervisory work up to five employee years after an order or an amendment to an order has been issued and made effective, inserted provisions authorizing assessment of a bale of cotton more than once if called for by a provision in this subsection, and inserted provisions authorizing Secretary to amend the rate order to supplement the rate in each marketing year by an additional per bale amount not to exceed 1 per centum of the value of the cotton as determined by the Cotton Board and the Secretary.
 

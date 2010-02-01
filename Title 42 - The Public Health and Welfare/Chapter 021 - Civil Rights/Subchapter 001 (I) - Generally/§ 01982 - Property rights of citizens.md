@@ -14,7 +14,7 @@ Section was formerly classified to section 42 of Title 8, Aliens and Nationality
 
 Ex. Ord. No. 11063, Nov. 20, 1962, 27 F.R. 11527, as amended by Ex. Ord. No. 12259, Dec. 31, 1980, 46 F.R. 1253; Ex. Ord. No. 12892, §6–604, Jan. 17, 1994, 59 F.R. 2939, provided:
 
-WHEREAS the granting of Federal assistance for the provision, rehabilitation, or operation of housing andrelated facilities from which Americans are excluded because of their race, color, creed, or national origin is unfair, unjust, and inconsistent with the public policy of the United States as manifested in its Constitution and laws; and
+WHEREAS the granting of Federal assistance for the provision, rehabilitation, or operation of housing and related facilities from which Americans are excluded because of their race, color, creed, or national origin is unfair, unjust, and inconsistent with the public policy of the United States as manifested in its Constitution and laws; and
 
 WHEREAS the Congress in the Housing Act of 1949 \[see Short Title note set out under section 1441 of this title\] has declared that the general welfare and security of the Nation and the health and living standards of its people require the realization as soon as feasible of the goal of a decent home and a suitable living environment for every American family; and
 
@@ -48,7 +48,7 @@ Sec. 102. I hereby direct the Department of Housing and Urban Development and al
 
 Sec. 201. Each executive department and agency subject to this order is directed to submit to the President's Committee on Equal Opportunity in Housing established pursuant to Part IV of this order (hereinafter sometimes referred to as the Committee), within thirty days from the date of this order, a report outlining all current programs administered by it which are affected by this order.
 
-Sec. 202. Each such department and agency shall be primarily responsible for obtaining compliance with the purposes of this order as the order applies to programs administered by it; and is directed to cooperate with the Committee, to furnish it, in accordance with law, such information and assistance as it may request in the performance of its functions, and to report to it at such intervals as the Committee may require.
+Sec. 202. Each such department and agency shall be primarily responsible for obtaining compliance withthe purposes of this order as the order applies to programs administered by it; and is directed to cooperate with the Committee, to furnish it, in accordance with law, such information and assistance as it may request in the performance of its functions, and to report to it at such intervals as the Committee may require.
 
 Sec. 203. Each such department and agency shall, within thirty days from the date of this order, issue such rules and regulations, adopt such procedures and policies, and make such exemptions and exceptions as may be consistent with law and necessary or appropriate to effectuate the purposes of this order. Each such department and agency shall consult with the Committee in order to achieve such consistency and uniformity as may be feasible.
 

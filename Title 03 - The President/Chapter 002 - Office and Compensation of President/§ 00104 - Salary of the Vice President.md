@@ -1,6 +1,6 @@
 ### §104. Salary of the Vice President
 
-(a) The per annum rate of salary of the Vice President of the United States shall be the ratedetermined for such position under chapter 11 of title 2, as adjusted under this section. Subject to subsection (b), effective at the beginning of the first month in which an adjustment takes effect under section 5303 of title 5 in the rates of pay under the General Schedule, the salary of the Vice President shall be adjusted by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the nearest higher multiple of $100), equal to the percentage of such per annum rate which corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.
+(a) The per annum rate of salary of the Vice President of the United States shall be the rate determined for such position under chapter 11 of title 2, as adjusted under this section. Subject to subsection (b), effective at the beginning of the first month in which an adjustment takes effect under section 5303 of title 5 in the rates of pay under the General Schedule, the salary of the Vice President shall be adjusted by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the nearest higher multiple of $100), equal to the percentage of such per annum rate which corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.
 
 (b) In no event shall the percentage adjustment taking effect under the second and third sentences of subsection (a) in any calendar year (before rounding) exceed the percentage adjustment taking effect in such calendar year under section 5303 of title 5 in the rates of pay under the General Schedule.
 
@@ -46,7 +46,7 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 704(b) of Pub
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–257 effective in the case of compensation payable for months after December 1981, see section 105(c) of Pub. L. 97–257, set out as a note under section 60c–1 of Title 2, The Congress.
+Amendment by Pub. L. 97–257 effective in the case of compensation payable for months after December 1981,see section 105(c) of Pub. L. 97–257, set out as a note under section 60c–1 of Title 2, The Congress.
 
 #### Effective Date of 1969 Amendment
 

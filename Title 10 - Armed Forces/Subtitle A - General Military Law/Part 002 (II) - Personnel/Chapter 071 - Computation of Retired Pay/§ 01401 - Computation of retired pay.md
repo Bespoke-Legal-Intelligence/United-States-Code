@@ -108,7 +108,7 @@ In formula No. 1, the words “whichever is earlier”, in 37:272(d) (clause (2)
 
 In formula No. 3, the computation is based on monthly pay instead of annual pay to conform to the other formulas of the revised section. The words “basic pay” are substituted for the words “base and longevity pay” to conform to the terminology of the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.). The words “which he would receive if serving, at the time granted such pay, on active duty” are omitted as surplusage and to conform to the other formulas of the revised section, since the effect of these words is covered by footnote 1. The words “at any time” are substituted for the words “during his entire period of service”.
 
-Footnotes 1 and 2 reflect the long-standing construction of those provisions dealing with computation of retired pay which do not specifically provide that the member is entitled to compute his retired pay on the basis of the monthly basic pay to which he would be entitled if he were on active duty in his retired grade. The pertinent basic computation provisions for such retirement either provide for computation of retired pay on the same basis as the provisions dealing with higher retired grade, or the basic retirement provisions were enacted after the provisions authorizing higher retired grade. The words “at rates applicable on date of retirement \* \* \* and adjust to reflect later changes in permanent rates”, in footnote 1; and all of footnote 2; are based on the source statutes incorporated in the formulas to which footnotes 1 and 2 apply, as interpreted in an opinion of the Judge Advocate General of the Army (1953/4120, 14 May 1953).
+Footnotes 1 and 2 reflect the long-standing construction of those provisions dealing with computation of retired pay which do not specifically provide that the member is entitled to compute his retired pay on the basis of the monthly basic pay to which he would be entitled if he were on active duty in his retired grade. The pertinent basic computation provisions for such retirement either provide for computation of retired pay on the same basis as the provisions dealing with higher retired grade, or the basic retirement provisions were enacted after the provisions authorizing higher retired grade. The words “at rates applicable on date of retirement and adjust to reflect later changes in permanent rates”, in footnote 1; and all of footnote 2; are based on the source statutes incorporated in the formulas to which footnotes 1 and 2 apply, as interpreted in an opinion of the Judge Advocate General of the Army (1953/4120, 14 May 1953).
 
 In footnote 3, the words “and disregard a part of a year that is less than six months” are made applicable to formulas Nos. 1 and 2. The legislative history of the Career Compensation Act of 1949 (Hearings before the Committee on Armed Services of the Senate on H.R. 5007, 81st Congress, First Session, page 313, July 6, 1949) indicates that the provisions, upon which formulas Nos. 1 and 2 are based, should be construed to require that a fraction of less than one-half of a year be disregarded. It also indicates that other retirement laws that are also silent on this point should be similarly construed.
 
@@ -148,7 +148,7 @@ Pub. L. 96–513, §511(49), in formula 4 table of sections struck out reference
 
 Pub. L. 96–342 in heading for column 1 of table inserted provisions respecting applicability to persons becoming members after the date of the enactment of the Department of Defense Authorization Act, 1981.
 
-1972—Pub. L. 92–455 substituted in second sentence of footnote 4 of table “chief master sergeant of the Air Force, sergeant major of the Marine Corps, or master chief petty officer of the Coast Guard,” for “chief master sergeant of the Air Force, or sergeant major of the Marine Corps,”.
+1972—Pub. L. 92–455 substituted in second sentence of footnote 4 of table “chief master sergeant of the AirForce, sergeant major of the Marine Corps, or master chief petty officer of the Coast Guard,” for “chief master sergeant of the Air Force, or sergeant major of the Marine Corps,”.
 
 1967—Pub. L. 90–207 inserted sentence to footnote 4 of table requiring the computation of retired pay for an enlisted person who has served as senior noncommissioned officer of his service at the highest rate of basic pay applicable to him while he so served, if that rate is higher than the rate authorized by the table.
 
@@ -204,9 +204,29 @@ Section 1(a) of Pub. L. 99–348 provided that: “This Act \[enacting sections 
 
 Pub. L. 97–252, title X, §1001, Sept. 8, 1982, 96 Stat. 730, provided that: “This title \[enacting section 1408 of this title, amending sections 1072, 1076, 1086, 1447, 1448, and 1450 of this title, and enacting provisions set out as notes under sections 1408 and 2208 of this title\] may be cited as the ‘Uniformed Services Former Spouses’ Protection Act’.”
 
+#### Treatment as Active Service for Retired Pay Purposes of Service as Member of Alaska Territorial Guard During World War II
+
+Pub. L. 111–84, div. A, title VI, §645, Oct. 28, 2009, 123 Stat. 2368, provided that:
+
+“(a)
+
+In General.—Service as a member of the Alaska Territorial Guard during World War II of any individual who was honorably discharged therefrom under section 8147 of the Department of Defense Appropriations Act, 2001 (Public Law 106–259; 114 Stat. 705) \[amending section 106 of Title 38, Veterans’ Benefits, and enacting provisions set out as a note under section 106 of Title 38\] shall be treated as active service for purposes of the computation under chapter 61, 71, 371, 571, 871, or 1223 of title 10, United States Code, as applicable, of the retired pay to which such individual may be entitled under title 10, United States Code.
+
+“(b)
+
+Applicability.—Subsection (a) shall apply with respect to amounts of retired pay payable under title 10, United States Code, for months beginning on or after the date of the enactment of this Act \[Oct. 28, 2009\]. No retired pay shall be paid to any individual by reason of subsection (a) for any period before that date.
+
+“(c)
+
+World War II Defined.—In this section, the term ‘World War II’ has the meaning given that term in section 101(8) of title 38, United States Code.”
+
+Similar provisions were contained in the following appropriation act:
+
+Pub. L. 111–118, div. A, title VIII, §8055, Dec. 19, 2009, 123 Stat. 3441.
+
 #### Recomputation of Retired Pay for Certain Recently Retired Officers
 
-Pub. L. 106–65, div. A, title VI, §601(e), Oct. 5, 1999, 113 Stat. 648, provided that: “In the case of a commissioned officer of the uniformed services who retired during the period beginning on April 30, 1999, through December 31, 1999, and who, at the time of retirement, was in pay grade O–7, O–8, O–9, or O–10, the retired pay of that officer shall be recomputed, effective as of January 1, 2000, using the rate of basic pay that would have been applicable to the computation of that officer's retired pay if the provisions of paragraph (2) of section 203(a) of title 37, United States Code, as added by subsection (d), had taken effect on April 30, 1999.”
+Pub. L. 106–65, div. A, title VI, §601(e), Oct. 5, 1999, 113 Stat. 648, provided that: “In the case of a commissioned officer of the uniformed services who retired during the period beginning on April 30, 1999, through December 31, 1999, and who, at the time of retirement, was in pay grade O–7, O–8, O–9, or O–10, the retired pay of that officer shall be recomputed, effective as of January 1, 2000, using the rate of basic pay that would have been applicable to the computation of that officer's retired pay ifthe provisions of paragraph (2) of section 203(a) of title 37, United States Code, as added by subsection (d), had taken effect on April 30, 1999.”
 
 #### Six-Month Rounding Rule
 
@@ -240,7 +260,7 @@ Cross reference.—For the effective date of October 1, 1983, for provisions mak
 
 #### Limitation on Payment of Retired or Retainer Pay To Reflect Fractional Year Adjustments
 
-Pub. L. 98–473, title I, §101(h) \[title VIII, §8054\], Oct. 12, 1984, 98 Stat. 1904, 1933, prohibited, with certain exceptions, payment of retired pay or retainer pay of a member of the Armed Forces for any month who, on or after January 1, 1982, became entitled to retired or retainer pay, in an amount greater than the amount otherwise determined payable after reductions necessary to reflect adjusting the computation of retired pay or retainer pay that includes credit for part of a year of service to permit credit for a part of a year ofservice only for such month or months actually served, prior to repeal by Pub. L. 99–348, title III, §305(b)(4), July 1, 1986, 100 Stat. 705.
+Pub. L. 98–473, title I, §101(h) \[title VIII, §8054\], Oct. 12, 1984, 98 Stat. 1904, 1933, prohibited, with certain exceptions, payment of retired pay or retainer pay of a member of the Armed Forces for any month who, on or after January 1, 1982, became entitled to retired or retainer pay, in an amount greater than the amount otherwise determined payable after reductions necessary to reflect adjusting the computation of retired pay or retainer pay that includes credit for part of a year of service to permit credit for a part of a year of service only for such month or months actually served, prior to repeal by Pub. L. 99–348, title III, §305(b)(4), July 1, 1986, 100 Stat. 705.
 
 #### Increase in Pay and Allowances of Certain Persons Who Served as Generals of the Army, Fleet Admirals of the Navy, General of the Marine Corps, or Admiral in the Coast Guard
 
@@ -280,7 +300,7 @@ Section 4 of Pub. L. 85–422, as amended by Pub. L. 85–855, §1(a), Aug. 28, 
 
 “(a) Except for members covered by section 7 of this Act, members and former members of the uniformed services who are entitled to retired pay, retirement pay, retainer pay, or equivalent pay, on the day before the effective date of this Act \[June 1, 1958\], shall be entitled to an increase of 6 per centum of that pay to which they were entitled on that date.
 
-“(b) Notwithstanding any other provision of law, a member of a uniformed service retired under any provision of law, or transferred to the Fleet Reserve or Fleet Marine Corps Reserve, on the effective date of this Act \[June 1, 1958\] shall have his retired pay or retainer pay computed on the basis of the rates of basic pay set forth in the Career Compensation Act of 1949, as amended by this Act, or on the rates of basic pay set forth in the Career Compensation Act of 1949 on the day before the effective date of this Act, plus 6 per centum of that pay, whichever is greater.
+“(b) Notwithstanding any other provision of law, a member of a uniformed service retired under any provision of law, or transferred to the Fleet Reserve or Fleet Marine Corps Reserve, on the effective date of this Act \[June 1, 1958\] shall have his retired pay or retainer pay computed on the basis of the rates of basic pay setforth in the Career Compensation Act of 1949, as amended by this Act, or on the rates of basic pay set forth in the Career Compensation Act of 1949 on the day before the effective date of this Act, plus 6 per centum of that pay, whichever is greater.
 
 “(c) Section 5 of the Career Incentive Act of 1955 (69 Stat. 22) does not apply to any person who is retired, or to whom retired pay, retirement pay, retainer pay, or equivalent pay (including temporary disability retired pay) is granted, on or after the effective date of this Act \[June 1, 1958\]”.
 

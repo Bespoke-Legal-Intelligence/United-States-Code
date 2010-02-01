@@ -100,7 +100,7 @@ In subsection (c)(3), before subclause (A), the words “only by a dependent chi
 
 In subsection (d), before clause (1), the words “of a Comptroller General or retired Comptroller General who has elected to bring himself within the purview of this section” are omitted as surplus. In clauses (1) and (2), the word “pay” is substituted for “salary” for consistency in the revised title and with other titles of the Code. In clause (1), before subclause (A), the words “by him for service . . . service in which his” are omitted as surplus. In subclause (A)(i), the words “member of Congress” are substituted for “Senator, Representative, Delegate, or Resident Commissioner in the Congress of the United States” for consistency and to eliminate unnecessary words. The words “his years of service as” and “of the United States” are omitted as surplus.
 
-In subsection (e), the words “and shall be further reduced in accordance with subsection (d) of this section if applicable” are omitted because of the restatement. The words “or a retired Comptroller General” are omitted as executed. The words “during which a deposit was not made” are substituted for “rendered” for clarity. The word “unpaid” is added for clarity.
+In subsection (e), the words “and shall be further reduced in accordance with subsection (d) of this sectionif applicable” are omitted because of the restatement. The words “or a retired Comptroller General” are omitted as executed. The words “during which a deposit was not made” are substituted for “rendered” for clarity. The word “unpaid” is added for clarity.
 
 #### Amendments
 

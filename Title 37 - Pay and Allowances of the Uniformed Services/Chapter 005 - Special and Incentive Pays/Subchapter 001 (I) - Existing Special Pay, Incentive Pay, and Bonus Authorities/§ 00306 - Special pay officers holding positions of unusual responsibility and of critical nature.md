@@ -90,7 +90,7 @@ Subsec. (c). Pub. L. 102–587, §5205(b), substituted “in each of the pay gra
 
 1980—Subsec. (e). Pub. L. 96–284 made section inapplicable to a person entitled to special pay under section 302a or 302b of this title.
 
-Subsec. (f). Pub. L. 96–470 substituted provision requiring the Secretary of Defense to report by Mar. 1 of each year following a calendar year in which special pay is disbursed under this section and providing thatnegative reports need not be submitted for provision requiring the Secretary of Defense to report by Mar. 1 of each year on the administration of this section within each military department during the preceding calendar year.
+Subsec. (f). Pub. L. 96–470 substituted provision requiring the Secretary of Defense to report by Mar. 1 of each year following a calendar year in which special pay is disbursed under this section and providing that negative reports need not be submitted for provision requiring the Secretary of Defense to report by Mar. 1 of each year on the administration of this section within each military department during the preceding calendar year.
 
 1968—Subsecs. (d), (f). Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 

@@ -14,7 +14,7 @@ Consistent with the provisions of this section, the Comptroller General may subm
 
 &emsp;(3) making recommendations for improving the collection by respective Federal agencies of data on foreign direct investment in the United States, including use of private sector data, and improving survey questionnaires to obtain useful and consistent information that avoids unnecessary redundancy among Federal agencies;
 
-&emsp;(4) reviewing the status and processes for reconciliation of data exchanged as required by this Act and the amendments made by thisAct, and making any recommendations for improving and augmenting international financial data;
+&emsp;(4) reviewing the status and processes for reconciliation of data exchanged as required by this Act and the amendments made by this Act, and making any recommendations for improving and augmenting international financial data;
 
 &emsp;(5) making recommendations for possible additional policy coordination within the executive branch affecting foreign direct investment in the United States; and
 
@@ -44,7 +44,7 @@ The access by the Comptroller General to information under this Act shall be in 
 
 #### References in Text
 
-This Act and the amendments made by this Act, referred to in subsecs. (b)(4) and (e), is Pub. L. 101–533, Nov. 7, 1990, 104 Stat. 2344, known as the Foreign Direct Investment and International Financial Data Improvements Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3141 of this title and Tables.
+This Act and the amendments made by this Act, referred to in subsecs. (b)(4) and (e), is Pub. L. 101–533, Nov. 7, 1990, 104 Stat. 2344, known as the Foreign DirectInvestment and International Financial Data Improvements Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3141 of this title and Tables.
 
 #### Amendments
 

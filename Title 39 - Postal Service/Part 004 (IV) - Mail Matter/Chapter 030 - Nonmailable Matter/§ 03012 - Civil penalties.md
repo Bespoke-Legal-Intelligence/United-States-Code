@@ -22,7 +22,7 @@
 
 (e) All penalties collected under authority of this section shall be paid into the Treasury of the United States.
 
-(f) In any proceeding at any time under this section, the defendant shall be entitled as a defense or counterclaim to seek judicial review, if not already had, pursuant to chapter 7 of title 5, of the order issued under section 3005 of this title. However, nothing in this section shall be construed to preclude independent judicial review otherwise available pursuant to chapter 7 of title 5 of an order issued under section 3005 of this title.
+(f) In any proceeding at any time under this section, the defendant shall be entitled as a defense or counterclaim to seek judicial review, if not already had, pursuant to chapter 7 of title 5,of the order issued under section 3005 of this title. However, nothing in this section shall be construed to preclude independent judicial review otherwise available pursuant to chapter 7 of title 5 of an order issued under section 3005 of this title.
 
 (Added Pub. L. 98–186, §3(a), Nov. 30, 1983, 97 Stat. 1316; amended Pub. L. 106–168, title I, §106, Dec. 12, 1999, 113 Stat. 1811.)
 

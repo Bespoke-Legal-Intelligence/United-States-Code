@@ -44,7 +44,7 @@
 
 #### (1) In general
 
-&emsp;Each local educational agency receiving assistance under this part shall ensure that all paraprofessionals hired after January 8, 2002, and working in a program supported with funds under this part shall have—
+&emsp;Each local educational agency receiving assistance under this part shall ensure that allparaprofessionals hired after January 8, 2002, and working in a program supported with funds under this part shall have—
 
 &emsp;&emsp;(A) completed at least 2 years of study at an institution of higher education;
 
@@ -110,7 +110,7 @@ Each local educational agency receiving assistance under this part shall ensure 
 
 #### (h) Use of funds
 
-A local educational agency receiving funds under this part may use such funds to supportongoing training and professional development to assist teachers and paraprofessionals in satisfying the requirements of this section.
+A local educational agency receiving funds under this part may use such funds to support ongoing training and professional development to assist teachers and paraprofessionals in satisfying the requirements of this section.
 
 #### (i) Verification of compliance
 
@@ -136,7 +136,7 @@ Except as provided in subsection (<i>l</i>) of this section, no State educationa
 
 #### (<i>l</i>) Minimum expenditures
 
-Each local educational agency that receives funds under this part shall use not less than 5 percent, or more than 10 percent, of such funds for each of fiscal years 2002 and 2003, and not less than 5 percent of the funds for each subsequent fiscal year, for professional development activities to ensure that teachers who are not highly qualified become highly qualified not later than the end of the 2005–2006 school year.
+Each local educational agency that receives funds under this part shall use not less than 5percent, or more than 10 percent, of such funds for each of fiscal years 2002 and 2003, and not less than 5 percent of the funds for each subsequent fiscal year, for professional development activities to ensure that teachers who are not highly qualified become highly qualified not later than the end of the 2005–2006 school year.
 
 (Pub. L. 89–10, title I, §1119, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1505.)
 

@@ -194,7 +194,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (6) Qualified electric utility
 
-&emsp;For purposes of this subsection, the term “qualified electric utility” means a person that, as of the date of the qualifying electric transmission transaction, is vertically integrated, in that it is both—
+&emsp;For purposes of this subsection, the term “qualified electric utility” means a personthat, as of the date of the qualifying electric transmission transaction, is vertically integrated, in that it is both—
 
 &emsp;&emsp;(A) a transmitting utility (as defined in section 3(23) of the Federal Power Act (16 U.S.C. 796(23))) with respect to the transmission facilities to which the election under this subsection applies, and
 
@@ -264,7 +264,7 @@ Subsecs. (f), (g). Pub. L. 100–647, §1009(d)(3), redesignated subsec. (f), re
 
 Pub. L. 99–514, §821(a), added subsec. (f) relating to special rule for utility services.
 
-1976—Subsec. (d). Pub. L. 94–455, §§1906(b)(13)(A), 2102(a), (b), inserted reference to disaster payments inheading, provided that payments received under the Agricultural Act of 1949, as amended, be treated as insurance proceeds received as a result of destruction or damage to crops if the payments are received as the result of destruction or damage from drought, flood, or other natural disaster, or as the result of inability to plant crops because of drought, flood, or other natural disaster, and struck out “or his delegate” after “Secretary”.
+1976—Subsec. (d). Pub. L. 94–455, §§1906(b)(13)(A), 2102(a), (b), inserted reference to disaster payments in heading, provided that payments received under the Agricultural Act of 1949, as amended, be treated as insurance proceeds received as a result of destruction or damage to crops if the payments are received as the result of destruction or damage from drought, flood, or other natural disaster, or as the result of inability to plant crops because of drought, flood, or other natural disaster, and struck out “or his delegate” after “Secretary”.
 
 Subsec. (e). Pub. L. 94–455, §2141(a), added subsec. (e).
 

@@ -2,11 +2,11 @@
 
 #### (a) Performance report
 
-Beginning with fiscal year 2008, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007 during such fiscal yearand the future plans of the Food and Drug Administration for meeting the goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all human drug applications and supplements in the cohort.
+Beginning with fiscal year 2008, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all human drug applications and supplements in the cohort.
 
 #### (b) Fiscal report
 
-Beginning with fiscal year 2008, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
+Beginning with fiscal year 2008, not later than 120 days after the end of each fiscal year forwhich fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
 
 #### (c) Public availability
 

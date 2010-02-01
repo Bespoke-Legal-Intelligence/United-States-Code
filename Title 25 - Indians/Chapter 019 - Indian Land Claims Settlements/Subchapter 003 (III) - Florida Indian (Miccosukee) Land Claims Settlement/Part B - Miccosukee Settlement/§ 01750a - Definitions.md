@@ -4,7 +4,7 @@ In this part:
 
 #### (1) Board of Trustees of the Internal Improvements Trust Fund
 
-&emsp;The term “Board of Trustees of the Internal Improvements Trust Fund” means the agency of the State of Florida holding legal title toand responsible for trust administration of certain lands of the State of Florida, consisting of the Governor, Attorney General, Commissioner of Agriculture, Commissioner of Education, Controller, Secretary of State, and Treasurer of the State of Florida, who are Trustees of the Board.
+&emsp;The term “Board of Trustees of the Internal Improvements Trust Fund” means the agency of the State of Florida holding legal title to and responsible for trust administration of certain lands of the State of Florida, consisting of the Governor, Attorney General, Commissioner of Agriculture, Commissioner of Education, Controller, Secretary of State, and Treasurer of the State of Florida, who are Trustees of the Board.
 
 #### (2) Florida Department of Transportation
 

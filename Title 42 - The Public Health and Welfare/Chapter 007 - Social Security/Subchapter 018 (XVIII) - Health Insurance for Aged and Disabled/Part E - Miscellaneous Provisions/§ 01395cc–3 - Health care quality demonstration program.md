@@ -94,7 +94,7 @@ With respect to the 5-year period of the demonstration program under subsection 
 
 #### (g) Notice requirements
 
-In the case of an individual that receives health care items or services under a demonstration program carried out under this section, the Secretary shall ensure that such individual is notified of any waivers of coverage or payment rules that are applicable to such individual under this subchapter as a result of the participation of the individual in such program.
+In the case of an individual that receives health care items or services under a demonstration program carried out under this section, the Secretary shall ensure that such individual isnotified of any waivers of coverage or payment rules that are applicable to such individual under this subchapter as a result of the participation of the individual in such program.
 
 #### (h) Participation and support by Federal agencies
 

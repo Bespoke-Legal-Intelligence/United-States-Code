@@ -80,7 +80,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) such testing is conducted outside the United States because there is an insufficient testing population in the United States, and
 
-&emsp;&emsp;&emsp;(ii) such testing is conducted by a United States person or by any other person whois not related to the taxpayer to whom the designation under section 526 of the Federal Food, Drug, and Cosmetic Act applies.
+&emsp;&emsp;&emsp;(ii) such testing is conducted by a United States person or by any other person who is not related to the taxpayer to whom the designation under section 526 of the Federal Food, Drug, and Cosmetic Act applies.
 
 #### (B) Special limitation for corporations to which section 936 applies
 
@@ -172,7 +172,7 @@ Subsec. (b)(2)(A)(ii)(II). Pub. L. 99–514, §1879(b)(1)(B), inserted “or, if
 
 Subsec. (c). Pub. L. 99–514, §231(d)(3)(A)(i), (ii), substituted “41” for “30” in pars. (1) and (2) and “41(b)” for “30(b)” in par. (2).
 
-Subsec. (d)(1). Pub. L. 99–514, §1879(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For purposes of this section, the term ‘rare disease or condition’ means any disease or condition which occurs so infrequently in the United States that there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug. Determinations under the preceding sentence with respect toany drug shall be made on the basis of the facts and circumstances as of the date such drug is designated under section 526 of the Federal Food, Drug, and Cosmetic Act.”
+Subsec. (d)(1). Pub. L. 99–514, §1879(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For purposes of this section, the term ‘rare disease or condition’ means any disease or condition which occurs so infrequently in the United States that there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug. Determinations under the preceding sentence with respect to any drug shall be made on the basis of the facts and circumstances as of the date such drug is designated under section 526 of the Federal Food, Drug, and Cosmetic Act.”
 
 Subsec. (d)(2). Pub. L. 99–514, §701(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The credit allowed by this section for any taxable year shall not exceed the taxpayer's tax liability for the taxable year (as defined in section 26(b)), reduced by the sum of the credits allowable under subpart A and section 27.”
 
@@ -260,13 +260,13 @@ Section 1879(b)(3) of Pub. L. 99–514 provided that: “The amendments made by 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 474(g) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, andto carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by section 474(g) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 Amendment by section 612(e)(1) of Pub. L. 98–369, applicable to interest paid or accrued after December 31, 1984, on indebtedness incurred after December 31, 1984, see section 612(g) of Pub. L. 98–369, set out as an Effective Date note under section 25 of this title.
 
 #### Effective Date
 
-Section 4(d) of Pub. L. 97–414 provided that: “The amendments made by this section \[enacting this section and amending sections 280C and 6096 of this title\] shall apply to amounts paid or incurred after December 31, 1982, in taxable years ending after such date.”
+Section 4(d) of Pub. L. 97–414 provided that: “The amendments made by this section \[enacting this section and amending sections 280C and 6096 of this title\]shall apply to amounts paid or incurred after December 31, 1982, in taxable years ending after such date.”
 
 #### Applicability of Certain Amendments by Public Law 99–514 in Relation to Treaty Obligations of United States
 

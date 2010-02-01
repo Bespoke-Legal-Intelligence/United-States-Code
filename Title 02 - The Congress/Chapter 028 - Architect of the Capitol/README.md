@@ -26,15 +26,18 @@
 | [1816\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001816%20-%20Construction%20contracts.md) | Construction contracts. |
 | [1816a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001816a%20-%20Design-build%20contracts.md) | Design-build contracts. |
 | [1817\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001817%20-%20Transfer%20of%20discontinued%20apparatus%20to%20other%20branches.md) | Transfer of discontinued apparatus to other branches. |
+| [1817a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001817a%20-%20Disposition%20of%20surplus%20or%20obsolete%20personal%20property.md) | Disposition of surplus or obsolete personal property. |
 | [1818\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001818%20-%20Rental%20or%20lease%20of%20storage%20space.md) | Rental or lease of storage space. |
 | [1819\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001819%20-%20Computer%20backup%20facilities%20for%20legislative%20offices.md) | Computer backup facilities for legislative offices. |
 | 1820\. | Acquisition of real property for Capitol Police. |
 | [1821\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001821%20-%20Small%20purchase%20contracting%20authority.md) | Small purchase contracting authority. |
 | [1822\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001822%20-%20Leasing%20of%20space.md) | Leasing of space. |
 | [1823\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001823%20-%20Acquisition%20of%20real%20property%20for%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20the%20Senate.md) | Acquisition of real property for Sergeant at Arms and Doorkeeper of the Senate. |
+| [1823a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001823a%20-%20Acquisition%20of%20real%20property%20for%20Library%20of%20Congress.md) | Acquisition of real property for Library of Congress. |
 | [1824\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001824%20-%20Energy%20and%20environmental%20measures%20in%20Capitol%20Complex%20Master%20Plan.md) | Energy and environmental measures in Capitol Complex Master Plan. |
 | [1825\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001825%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93437%2C%20title%20V%2C%20%C2%A7501%28b%29%282%29%2C%20Oct.%2020%2C%202008%2C%20122%20Stat.%204997.md) | Repealed. |
 | [1826\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001826%20-%20Easements%20for%20rights-of-way.md) | Easements for rights-of-way. |
+| [1827\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001827%20-%20Support%20and%20maintenance%20during%20emergencies.md) | Support and maintenance during emergencies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -83,6 +86,7 @@
 | [1867\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001867%20-%20Advancement%20and%20reimbursement%20of%20expenses%20for%20flying%20American%20flags%20and%20providing%20certification%20services%20therefor.md) | Advancement and reimbursement of expenses for flying American flags and providing certification services therefor. |
 | [1868\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001868%20-%20Semiannual%20compilation%20and%20report%20of%20expenditures.md) | Semiannual compilation and report of expenditures. |
 | [1869\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001869%20-%20Advance%20payments.md) | Advance payments. |
+| [1870\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001870%20-%20House%20Historic%20Buildings%20Revitalization%20Trust%20Fund.md) | House Historic Buildings Revitalization Trust Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -98,7 +98,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (3) Statutory construction
 
-&emsp;Except as expressly provided, nothing in this section shall be construed as conferring upon local school boards authority over, or control of, educators at Bureau-funded schools or the authority to issue management decisions.
+&emsp;Except as expressly provided, nothing in this section shall be construed as conferring uponlocal school boards authority over, or control of, educators at Bureau-funded schools or the authority to issue management decisions.
 
 #### (4) Appeals
 
@@ -212,7 +212,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any provision of the Indian preference laws, such laws shall not apply in the case of any personnel action carried out under this section with respect to an applicant or employee not entitled toan Indian preference if each tribal organization concerned—
+&emsp;&emsp;Notwithstanding any provision of the Indian preference laws, such laws shall not apply in the case of any personnel action carried out under this section with respect to an applicant or employee not entitled to an Indian preference if each tribal organization concerned—
 
 &emsp;&emsp;&emsp;(i) grants a written waiver of the application of those laws with respect to the personnel action; and
 
@@ -274,7 +274,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (ii) Consistent rates
 
-&emsp;&emsp;&emsp;The rates established under clause (i) shall be consistent with the rates paid for individuals in the same positions, with the same tenure and training, as the teachers and counselors, in any other school within whose boundaries the Bureau school is located.
+&emsp;&emsp;&emsp;The rates established under clause (i) shall be consistent with the rates paid forindividuals in the same positions, with the same tenure and training, as the teachers and counselors, in any other school within whose boundaries the Bureau school is located.
 
 #### (iii) Decreases
 
@@ -292,7 +292,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 &emsp;&emsp;The establishment of rates of basic compensation and annual salary rates under subparagraphs (B) and (C) shall not—
 
-&emsp;&emsp;&emsp;(i) preclude the use of regulations and procedures used by the Bureau prior toApril 28, 1988, in making determinations regarding promotions and advancements through levels of pay that are based on the merit, education, experience, or tenure of the educator; or
+&emsp;&emsp;&emsp;(i) preclude the use of regulations and procedures used by the Bureau prior to April 28, 1988, in making determinations regarding promotions and advancements through levels of pay that are based on the merit, education, experience, or tenure of the educator; or
 
 &emsp;&emsp;&emsp;(ii) affect the continued employment or compensation of an educator who was employed in an education position on October 31, 1979, and who did not make an election under subsection (p) <sup>3</sup> as in effect on January 1, 1990.
 
@@ -340,7 +340,7 @@ Upon termination of employment with the Bureau, any annual leave remaining to th
 
 #### (i) Transfer of remaining sick leave upon transfer, promotion, or reemployment
 
-In the case of any educator who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remaining leave to the credit of such person earned or credited under the regulations promulgated pursuant to subsection (b)(10) of this section shall be transferred to such person's credit in the employing agency on an adjusted basis in accordance with regulations which shall be promulgated by the Office of Personnel Management.
+In the case of any educator who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remainingleave to the credit of such person earned or credited under the regulations promulgated pursuant to subsection (b)(10) of this section shall be transferred to such person's credit in the employing agency on an adjusted basis in accordance with regulations which shall be promulgated by the Office of Personnel Management.
 
 #### (j) Ineligibility for employment of voluntarily terminated educators
 
@@ -442,7 +442,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(I) classroom or other instruction or the supervision or direction of classroom or other instruction;
 
-&emsp;&emsp;&emsp;(II) any activity (other than teaching) which requires academic credits in educational theory and practice equal to the academic credits in educational theory and practice required for a bachelor's degree in education from an accredited institution of higher education;
+&emsp;&emsp;&emsp;(II) any activity (other than teaching) which requires academic credits in educational theory and practice equal to theacademic credits in educational theory and practice required for a bachelor's degree in education from an accredited institution of higher education;
 
 &emsp;&emsp;&emsp;(III) any activity in or related to the field of education notwithstanding that academic credits in educational theory and practice are not a formal requirement for the conduct of such activity; or
 
@@ -504,7 +504,7 @@ Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 104–134, title I, §101(c) \[title I\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–171; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
-Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1555, provided in part: “That beginning in fiscal year 1998 and thereafter and notwithstanding \[former\] 25 U.S.C. 2012(h)(1)(B) \[see now 25 U.S.C. 2012(g)(1)(B)\], when the rates of basic compensation for teachers and counselors at Bureau-operated schools are established at the ratesof basic compensation applicable to comparable positions in overseas schools under the Defense Department Overseas Teachers Pay and Personnel Practices Act \[20 U.S.C. 901 et seq.\], such rates shall become effective with the start of the next academic year following the issuance of the Department of Defense salary schedule and shall not be effected retroactively”.
+Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1555, provided in part: “That beginning in fiscal year 1998 and thereafter and notwithstanding \[former\] 25 U.S.C. 2012(h)(1)(B) \[see now 25 U.S.C. 2012(g)(1)(B)\], when the rates of basic compensation for teachers and counselors at Bureau-operated schools are established at the rates of basic compensation applicable to comparable positions in overseas schools under the Defense Department Overseas Teachers Pay and Personnel Practices Act \[20 U.S.C. 901 et seq.\], such rates shall become effective with the start of the next academic year following the issuance of the Department of Defense salary schedule and shall not be effected retroactively”.
 
 Similar provisions were contained in the following prior appropriation act:
 

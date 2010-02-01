@@ -20,7 +20,7 @@ Every individual who—
 
 (1) An individual may enroll under this section only in such manner and form as may be prescribed in regulations, and only during an enrollment period prescribed in or under this section.
 
-(2) The individual's initial enrollment period shall begin with the month in which the individual receives notice that the individual's entitlement to benefits under section 426(b) of this title will end due solely to the individual having earnings that exceed the substantial gainful activity amount (as defined in section 423(d)(4) of this title and shall end 7 months later.
+(2) The individual's initial enrollment period shall begin with the month in which the individual receives notice that the individual's entitlement to benefits under section 426(b) of this title will end due solely to the individual havingearnings that exceed the substantial gainful activity amount (as defined in section 423(d)(4) of this title and shall end 7 months later.
 
 (3) There shall be a general enrollment period during the period beginning on January 1 and ending on March 31 of each year (beginning with 1990).
 
@@ -62,7 +62,7 @@ Every individual who—
 
 (2) The provisions of subsections (d) through (f) of section 1395i–2 of this title (relating to premiums) shall apply to individuals enrolled under this section in the same manner as they apply to individuals enrolled under that section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1818A, as added Pub. L. 101–239, title VI, §6012(a)(2), Dec. 19, 1989, 103 Stat. 2161; amended Pub. L. 101–508,title IV, §4008(m)(3)(C), Nov. 5, 1990, 104 Stat. 1388–54.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1818A, as added Pub. L. 101–239, title VI, §6012(a)(2), Dec. 19, 1989, 103 Stat. 2161; amended Pub. L. 101–508, title IV, §4008(m)(3)(C), Nov. 5, 1990, 104 Stat. 1388–54.)
 
 #### Amendments
 

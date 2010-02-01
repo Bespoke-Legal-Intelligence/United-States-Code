@@ -74,7 +74,7 @@ Not later than 3 full fiscal years after November 12, 1996, the Secretary of the
 
 &emsp;&emsp;(C) procedures for the excavation and collection of fossil remains, including botanical fossils, and the use of motorized and mechanical equipment to the minimum extent necessary to accomplish an individual scientific project; and
 
-&emsp;&emsp;(D) mitigation and reclamation standards for activities that disturb the surface to the detriment of scenic and environmental values.
+&emsp;&emsp;(D) mitigation and reclamation standards for activities that disturb the surface to thedetriment of scenic and environmental values.
 
 (Pub. L. 98–603, title I, §103, Oct. 30, 1984, 98 Stat. 3156; Pub. L. 104–333, div. I, title X, §1022(e), Nov. 12, 1996, 110 Stat. 4213; Pub. L. 106–176, title I, §124, Mar. 10, 2000, 114 Stat. 30.)
 

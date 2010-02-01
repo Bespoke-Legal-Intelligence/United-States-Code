@@ -1,6 +1,6 @@
 ### §526. Protection of patent rights
 
-The Secretary of the Army and the Secretary of the Navy shall in all contracts or agreements for the sale of such mate�AE1riel fully protect the rights of all citizens of the United States who have patent rights in and to any such mate�AE1rielwhich is authorized to be sold and the funds collected for royalties on such patents shall be paid to the owners and holders of such patents.
+The Secretary of the Army and the Secretary of the Navy shall in all contracts or agreements for the sale of such mate�AE1riel fully protect the rights of all citizens of the United States who have patent rights in and to any such mate�AE1riel which is authorized to be sold and the funds collected for royalties on such patents shall be paid to the owners and holders of such patents.
 
 (June 15, 1940, ch. 365, §6, 54 Stat. 397; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 

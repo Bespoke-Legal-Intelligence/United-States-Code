@@ -28,13 +28,13 @@ An application submitted under section 12582 of this title shall also include an
 
 &emsp;(1) provide in the design, recruitment, and operation of the program for broad-based input from—
 
-&emsp;&emsp;(A) the community served and potential participants in the program; and
+&emsp;&emsp;(A) the community served, the municipality and government of the county (if appropriate) in which the community is located, and potential participants in the program; and
 
-&emsp;&emsp;(B) community-based agencies with a demonstrated record of experience in providing services and local labor organizations representing employees of service sponsors, if these entities exist in the area to be served by the program;
+&emsp;&emsp;(B) community-based agencies with a demonstrated record of experience in providing services and local labor organizations representing employees of service sponsors, ifthese entities exist in the area to be served by the program;
 
 &emsp;(2) prior to the placement of participants, consult with the appropriate local labor organization, if any, representing employees in the area who are engaged in the same or similar work as that proposed to be carried out by such program to ensure compliance with the nondisplacement requirements specified in section 12637 of this title; and
 
-&emsp;(3) in the case of a program that is not funded through a State, consult with and coordinate activities with the State Commission for the State in which the program operates.
+&emsp;(3) in the case of a program that is not funded through a State (including a national service program that a nonprofit organization seeks to operate in 2 or more States), consult with and coordinate activities with the State Commission for each State in which the program will operate, and the Corporation shall obtain confirmation from the State Commission that the applicant seeking assistance under this chapter has consulted with and coordinated with the State Commission when seeking to operate the program in that State.
 
 #### (d) Evaluation and performance goals
 
@@ -74,9 +74,23 @@ Except as provided in section 12594(c) of this title, an application submitted u
 
 The Corporation may also require an assurance by the applicant that any national service program carried out by the applicant using assistance provided under section 12571 of this title and any national service program supported by a grant made by the applicant using such assistance will select a portion of the participants for the program from among prospective participants recruited by the Corporation or State Commissions under section 12592(d) of this title. The Corporation may specify a minimum percentage of participants to be selected from the national leadership pool established under section 12592(e) of this title and may vary the percentage for different types of national service programs.
 
-(Pub. L. 101–610, title I, §131, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 803.)
+(Pub. L. 101–610, title I, §131, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 803; amended Pub. L. 111–13, title I, §1309, Apr. 21, 2009, 123 Stat. 1507.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (c)(3), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 131 of Pub. L. 101–610 was renumbered section 199J and is classified to section 12655j of this title.
+
+#### Amendments
+
+2009—Subsec. (c)(1)(A). Pub. L. 111–13, §1309(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “the community served and potential participants in the program; and”.
+
+Subsec. (c)(3). Pub. L. 111–13, §1309(2), added par. (3) and struck out former par. (3) which read as follows: “in the case of a program that is not funded through a State, consult with and coordinate activities with the State Commission for the State in which the program operates.”
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 

@@ -14,7 +14,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 &emsp;The Administration may designate a certified development company as a premier certified lender—
 
-&emsp;&emsp;(A) if the company is an active certified development company in good standing andhas been an active participant in the accredited lenders program during the entire 12-month period preceding the date on which the company submits an application under paragraph (1), except that the Administration may waive this requirement if the company is qualified to participate in the accredited lenders program;
+&emsp;&emsp;(A) if the company is an active certified development company in good standing and has been an active participant in the accredited lenders program during the entire 12-month period preceding the date on which the company submits an application under paragraph (1), except that the Administration may waive this requirement if the company is qualified to participate in the accredited lenders program;
 
 &emsp;&emsp;(B) if the company has a history of—
 
@@ -72,7 +72,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (B) Temporary reduction based on outstanding balance
 
-&emsp;&emsp;Notwithstanding subparagraph (A), during the 2-year period beginning on the date that is 90 days after May 28, 2004, the Administration shall allow the certified development company to withdraw from the loss reserve such amounts as are in excess of 1 percent of the aggregate outstanding balances of debentures to which such loss reserve relates. The preceding sentence shall not apply with respect to any debenture before 100 percent of the contribution described in paragraph (4) with respect to such debenture has been made.
+&emsp;&emsp;Notwithstanding subparagraph (A), during the 2-year period beginning on the date thatis 90 days after May 28, 2004, the Administration shall allow the certified development company to withdraw from the loss reserve such amounts as are in excess of 1 percent of the aggregate outstanding balances of debentures to which such loss reserve relates. The preceding sentence shall not apply with respect to any debenture before 100 percent of the contribution described in paragraph (4) with respect to such debenture has been made.
 
 #### (7) Alternative loss reserve
 
@@ -88,7 +88,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (ii) Based on loss
 
-&emsp;&emsp;&emsp;A qualified high loss reserve PCL that makes the election described in subparagraph (A) with respect to any calendar quarter shall, before the last day of such quarter, make such contributions to itsloss reserve as are necessary to ensure that the amount of the loss reserve of the PCL is—
+&emsp;&emsp;&emsp;A qualified high loss reserve PCL that makes the election described in subparagraph (A) with respect to any calendar quarter shall, before the last day of such quarter, make such contributions to its loss reserve as are necessary to ensure that the amount of the loss reserve of the PCL is—
 
 &emsp;&emsp;&emsp;&emsp;(I) not less than $100,000; and
 
@@ -230,7 +230,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (f) Review
 
-After the issuance and sale of debentures under this section, the Administration, at intervals not greater than 12 months, shall review the financings made by each premier certified lender. The review shall include the lender's credit decisions and general compliance with the eligibility requirements for each financing approved under the program authorized under this section. The Administration shall consider the findings of the review in carrying out its responsibilities under subsection (g) of this section, but such review shall not affect any outstanding debenture guarantee.
+After the issuance and sale of debentures under this section, the Administration, at intervals not greater than 12 months, shall review the financings made by each premier certified lender. The review shall include the lender's credit decisions and general compliance with the eligibility requirements for each financing approved under the program authorized under thissection. The Administration shall consider the findings of the review in carrying out its responsibilities under subsection (g) of this section, but such review shall not affect any outstanding debenture guarantee.
 
 #### (g) Suspension or revocation
 

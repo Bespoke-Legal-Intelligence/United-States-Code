@@ -8,11 +8,15 @@ This chapter may be cited as the “Communications Act of 1934.”
 
 This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, known as the Communications Act of 1934, which enacted this chapter, amended section 35 of this title, section 21 of Title 15, Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
 
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–4, §1, Feb. 11, 2009, 123 Stat. 112, provided that: “This Act \[amending sections 309 and 337 of this title and enacting and amending provisions set out as notes under section 309 of this title\] may be cited as the ‘DTV Delay Act’.”
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–295, §1, July 30, 2008, 122 Stat. 2972, provided that: “This Act \[amending provisions set out as a note under section 309 of this title\] may be cited as the ‘DTV Transition Assistance Act’.”
 
-Pub. L. 110–283, §1, July 23, 2008, 122 Stat. 2620, provided that: “This Act \[enacting section 615a–1 of thistitle and amending sections 222, 615a, 615b, and 942 of this title\] may be cited as the ‘New and Emerging Technologies 911 Improvement Act of 2008’ or the ‘NET 911 Improvement Act of 2008’.”
+Pub. L. 110–283, §1, July 23, 2008, 122 Stat. 2620, provided that: “This Act \[enacting section 615a–1 of this title and amending sections 222, 615a, 615b, and 942 of this title\] may be cited as the ‘New and Emerging Technologies 911 Improvement Act of 2008’ or the ‘NET 911 Improvement Act of 2008’.”
 
 #### Short Title of 2007 Amendment
 
@@ -108,7 +112,7 @@ Pub. L. 97–259, title I, §101, Sept. 13, 1982, 96 Stat. 1087, provided that: 
 
 Pub. L. 97–130, §1, Dec 29, 1981, 95 Stat. 1687, provided that: “This Act \[amending section 222 of this title and section 1017 of Title 45, Railroads, and enacting provisions set out as notes under section 222 of this title and section 1017 of Title 45\] may be referred to as the ‘Record Carrier Competition Act of 1981’.”
 
-Pub. L. 97–35, title XII, §1221, Aug. 13, 1981, 95 Stat. 725, provided that: “This chapter \[chapter 1 (§§1221–1234) of subtitle B of title XII of Pub. L. 97–35, enacting sections 399a and 399b of this title, amending sections 391, 392, 396, 397, and 399 of this title, and enacting provisions set out as notes under section 396 of this title\] may be cited as the ‘Public Broadcasting Amendments Act of 1981’.”
+Pub. L. 97–35, title XII, §1221, Aug. 13, 1981, 95 Stat. 725, provided that: “This chapter \[chapter 1 (§§1221–1234) of subtitle B of title XII of Pub. L. 97–35, enacting sections 399a and 399b of this title, amendingsections 391, 392, 396, 397, and 399 of this title, and enacting provisions set out as notes under section 396 of this title\] may be cited as the ‘Public Broadcasting Amendments Act of 1981’.”
 
 #### Short Title of 1978 Amendments
 

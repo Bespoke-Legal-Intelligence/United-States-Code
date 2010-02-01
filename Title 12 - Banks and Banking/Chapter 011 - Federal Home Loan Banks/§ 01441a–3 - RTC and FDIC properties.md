@@ -26,7 +26,7 @@
 
 #### (4) Offers and permitted transfer
 
-&emsp;If a notice of serious interest in a covered property is timely submitted pursuant to paragraph (2), the corporation concerned may not sell or otherwise transfer such covered property during the 90-day period beginning upon the expiration of the period under paragraph (2) except to a governmental agency or qualified organization for use primarily for wildlife refuge, sanctuary, open space, recreational, historical, cultural, or natural resource conservation purposes, unless all notices of serious interest under paragraph (2) have been withdrawn.
+&emsp;If a notice of serious interest in a covered property is timely submitted pursuant toparagraph (2), the corporation concerned may not sell or otherwise transfer such covered property during the 90-day period beginning upon the expiration of the period under paragraph (2) except to a governmental agency or qualified organization for use primarily for wildlife refuge, sanctuary, open space, recreational, historical, cultural, or natural resource conservation purposes, unless all notices of serious interest under paragraph (2) have been withdrawn.
 
 #### (c) Definitions
 

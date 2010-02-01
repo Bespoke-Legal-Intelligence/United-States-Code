@@ -16,7 +16,7 @@
 
 (d) The Board is authorized and empowered to execute any and all functions and perform any and all duties vested in it hereby, through such persons as it shall designate or employ; and it may delegate to any person or persons, including any institution operating under the general supervision of the Administration, the performance and discharge of any authority, power, or function vested in it by this chapter.
 
-(e) All books and records of Federal credit unions shall be kept and reports shall be made in accordance with forms approved by the Board.
+(e) All books and records of Federal credit unions shall be kept and reports shall be madein accordance with forms approved by the Board.
 
 (f)(1) The Board is authorized to make investigations and to conduct researches and studies of the problems of persons of small means in obtaining credit at reasonable rates of interest, and of the methods and benefits of cooperative saving and lending among such persons. It is further authorized to make reports of such investigations and to publish and disseminate the same.
 
@@ -48,7 +48,7 @@ Appointment and compensation.—The Board shall fix the compensation and number 
 
 &emsp;(2)
 
-Additional compensation and benefits.—The Board may provide additional compensation and benefits to employees of the Board if the same type of compensation or benefits are then being provided by any other Federal bank regulatory agency or, if not then being provided, could be provided by such an agency under applicable provisions of law, rule, or regulation. In setting and adjusting the total amount of compensation and benefits for employees of the Board, the Board shallseek to maintain comparability with other Federal bank regulatory agencies.
+Additional compensation and benefits.—The Board may provide additional compensation and benefits to employees of the Board if the same type of compensation or benefits are then being provided by any other Federal bank regulatory agency or, if not then being provided, could be provided by such an agency under applicable provisions of law, rule, or regulation. In setting and adjustingthe total amount of compensation and benefits for employees of the Board, the Board shall seek to maintain comparability with other Federal bank regulatory agencies.
 
 &emsp;(3)
 

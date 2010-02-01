@@ -36,7 +36,7 @@ In the case of any clinical trial in which women or members of minority groups w
 
 &emsp;&emsp;(A) the circumstances under which the inclusion of women and minorities as subjects in projects of clinical research is inappropriate for purposes of subsection (b) of this section;
 
-&emsp;&emsp;(B) the manner in which clinical trials are required to be designed and carried out forpurposes of subsection (c) of this section; and
+&emsp;&emsp;(B) the manner in which clinical trials are required to be designed and carried out for purposes of subsection (c) of this section; and
 
 &emsp;&emsp;(C) the operation of outreach programs under subsection (a) of this section.
 

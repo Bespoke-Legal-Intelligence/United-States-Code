@@ -24,7 +24,7 @@ Legal Status Verification for Licensed United States Commercial Drivers.—Not l
 
 “(b)
 
-Commercial Driver's License Antifraud Programs.—Not later than 18 months after the date of the enactment of this Act \[Oct. 13, 2006\], the Secretary of Transportation, in cooperation with the Secretary \[of Homeland Security\], shall issue a regulation to implement the recommendations contained in the Report on Federal Motor Carrier Safety Administration Oversightof the Commercial Driver's License Program (MH–2006–037).
+Commercial Driver's License Antifraud Programs.—Not later than 18 months after the date of the enactment of this Act \[Oct. 13, 2006\], the Secretary of Transportation, in cooperation with the Secretary \[of Homeland Security\], shall issue a regulation to implement the recommendations contained in the Report on Federal Motor Carrier Safety Administration Oversight of the Commercial Driver's License Program (MH–2006–037).
 
 “(c)
 
@@ -70,7 +70,7 @@ Funding.—From amounts made available under section 31104(i) of title 49, Unite
 
 “(f)
 
-Study.—The Comptroller General shall update the Government Accountability Office's evaluation of the ‘Share the Road Safely’ program to determine if it has achieved reductions in the number and severity of commercial motor vehicle crashes, including reductions in the number of deaths and the severity of injuries sustained in these crashes and shall report its updated evaluation to Congress no later than June 30, 2006.”
+Study.—The Comptroller General shall update the Government Accountability Office's evaluation ofthe ‘Share the Road Safely’ program to determine if it has achieved reductions in the number and severity of commercial motor vehicle crashes, including reductions in the number of deaths and the severity of injuries sustained in these crashes and shall report its updated evaluation to Congress no later than June 30, 2006.”
 
 #### Safety Data Improvement Program
 

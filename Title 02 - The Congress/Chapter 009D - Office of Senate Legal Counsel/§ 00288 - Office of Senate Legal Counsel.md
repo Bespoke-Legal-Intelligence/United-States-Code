@@ -42,7 +42,7 @@ This chapter, referred to in subsecs. (b)(1), (d), and (e), was in the original 
 
 #### Effective Date
 
-Section 717 of title VII of Pub. L. 95–521 provided that: “This title \[enacting this chapter, section 118a of thistitle, section 1364 of Title 28, Judiciary and Judicial Procedure, amending sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under this section\] shall take effect on January 3, 1979.”
+Section 717 of title VII of Pub. L. 95–521 provided that: “This title \[enacting this chapter, section 118a of this title, section 1364 of Title 28, Judiciary and Judicial Procedure, amending sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under this section\] shall take effect on January 3, 1979.”
 
 #### Separability
 

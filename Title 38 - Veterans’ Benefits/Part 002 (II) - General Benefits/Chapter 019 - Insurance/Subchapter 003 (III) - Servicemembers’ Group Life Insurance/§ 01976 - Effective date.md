@@ -16,7 +16,7 @@ Section 3 of Pub. L. 89–214, as amended by Pub. L. 89–730, §6(a)–(d), Nov
 
 Pub. L. 89–730, §6(e), Nov. 2, 1966, 80 Stat. 1159, provided that any waiver of future benefits executed by any person under section 3(a) of Pub. L. 89–214 (see above), as in effect prior to Nov. 2, 1966, was to have no effect.
 
-Pub. L. 89–730, §6(f), Nov. 2, 1966, 80 Stat. 1159, provided that in any case in which the death gratuity paid to any person under section 3 of Pub. L. 89–214 (see above), was reduced pursuant to clause (B) of subsection (c)(1) of such section, as in effect prior to Nov. 2, 1966, the Administrator of Veterans’ Affairs was to pay to such person an amount equal to the amount by which such death gratuity was reduced.
+Pub. L. 89–730, §6(f), Nov. 2, 1966, 80 Stat. 1159, provided that in any case in which the death gratuity paidto any person under section 3 of Pub. L. 89–214 (see above), was reduced pursuant to clause (B) of subsection (c)(1) of such section, as in effect prior to Nov. 2, 1966, the Administrator of Veterans’ Affairs was to pay to such person an amount equal to the amount by which such death gratuity was reduced.
 
 Pub. L. 89–730, §6(g), Nov. 2, 1966, 80 Stat. 1159, provided that notwithstanding the time limitation prescribed in section 3(a) of Pub. L. 89–214 (see above), any application for death gratuity filed under such section shall be valid if filed within one year after Nov. 2, 1966.
 

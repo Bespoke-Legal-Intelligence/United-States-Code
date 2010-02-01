@@ -62,7 +62,7 @@ Lead Agencies.—
 
 &emsp;(1)
 
-Federal lead agency.—The Department of Transportation shall be the Federal lead agency in the environmental review process for a project.
+Federal lead agency.—The Department of Transportation shall be the Federal leadagency in the environmental review process for a project.
 
 &emsp;(2)
 
@@ -230,7 +230,7 @@ Modification.—The lead agency may—
 
 Dissemination.—A copy of a schedule under subparagraph (B), and of any modifications to the schedule, shall be—
 
-&emsp;&emsp;&emsp;(i) provided to all participating agencies and to the State transportation department of the State in which the project islocated (and, if the State is not the project sponsor, to the project sponsor); and
+&emsp;&emsp;&emsp;(i) provided to all participating agencies and to the State transportation department of the State in which the project is located (and, if the State is not the project sponsor, to the project sponsor); and
 
 &emsp;&emsp;&emsp;(ii) made available to the public.
 
@@ -336,7 +336,7 @@ Limitations.—Nothing in this section shall preempt or interfere with—
 
 &emsp;&emsp;(A) any practice of seeking, considering, or responding to public comment; or
 
-&emsp;&emsp;(B) any power, jurisdiction, responsibility, or authority that a Federal, State, or local government agency, metropolitan planning organization, Indian tribe, or project sponsor has with respect to carrying out a project or any other provisions of law applicable to projects, plans, or programs.
+&emsp;&emsp;(B) any power, jurisdiction, responsibility, or authority that a Federal, State, or localgovernment agency, metropolitan planning organization, Indian tribe, or project sponsor has with respect to carrying out a project or any other provisions of law applicable to projects, plans, or programs.
 
 (<i>l</i>)
 

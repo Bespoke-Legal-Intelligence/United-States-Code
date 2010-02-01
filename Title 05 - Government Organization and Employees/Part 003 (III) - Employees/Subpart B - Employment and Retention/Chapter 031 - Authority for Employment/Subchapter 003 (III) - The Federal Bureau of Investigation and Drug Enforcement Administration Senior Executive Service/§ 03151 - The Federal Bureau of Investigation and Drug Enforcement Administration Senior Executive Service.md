@@ -72,7 +72,7 @@ Provisions of this title governing appointments and other personnel actions in t
 
 #### Effective Date of 1989 Amendment
 
-Section 506(d) of Pub. L. 101–194 provided that: “The amendments made by this section \[enacting section 3393a of this title and amending this section, sections3393, 3592 to 3594, 7701, 8336, 8339, 8414, and 8421 of this title, section 1601 of Title 10, Armed Forces, section 3945 of Title 22, Foreign Relations and Intercourse, and provisions set out as a note under section 402 of Title 50, War and National Defense\] shall take effect on January 1, 1991.”
+Section 506(d) of Pub. L. 101–194 provided that: “The amendments made by this section \[enacting section 3393a of this title and amending this section, sections 3393, 3592 to 3594, 7701, 8336, 8339, 8414, and 8421 of this title, section 1601 of Title 10, Armed Forces, section 3945 of Title 22, Foreign Relations and Intercourse, and provisions set out as a note under section 402 of Title 50, War and National Defense\] shall take effect on January 1, 1991.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

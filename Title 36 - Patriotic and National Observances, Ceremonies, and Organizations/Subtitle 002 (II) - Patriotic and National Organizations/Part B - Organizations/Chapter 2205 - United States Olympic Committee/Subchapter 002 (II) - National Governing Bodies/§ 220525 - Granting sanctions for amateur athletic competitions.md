@@ -4,7 +4,7 @@
 
 Prompt Review and Decision.—For the sport that it governs, a national governing body promptly shall—
 
-&emsp;(1) review a request by an amateur sports organization or person for a sanction to hold an international amateur athletic competition in the United States or to sponsor United States amateur athletes to compete in international amateur athletic competition outside the United States; and
+&emsp;(1) review a request by an amateur sports organization or person for a sanction to hold an international amateur athletic competition inthe United States or to sponsor United States amateur athletes to compete in international amateur athletic competition outside the United States; and
 
 &emsp;(2) grant the sanction if—
 

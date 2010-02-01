@@ -8,5 +8,5 @@ The purpose of this chapter is to establish the Christopher Columbus Fellowship 
 
 Section 400 of title IV of Pub. L. 102–281 provided that: “This title \[enacting this chapter and provisions set out as a note under section 5112 of Title 31, Money and Finance\] may be cited as the ‘Frank Annunzio Act’.”
 
-Section 421 of Pub. L. 102–281 provided that: “This subtitle \[subtitle B (§§421–429) of title IV of Pub. L. 102–281, enacting this chapter\] may be cited as the ‘Christopher Columbus Fellowship Act’.”
+Section 421 of Pub. L. 102–281 provided that: “This subtitle \[subtitle B (§§421–430) of title IV of Pub. L. 102–281, enacting this chapter\] may be cited as the ‘Christopher Columbus Fellowship Act’.”
 

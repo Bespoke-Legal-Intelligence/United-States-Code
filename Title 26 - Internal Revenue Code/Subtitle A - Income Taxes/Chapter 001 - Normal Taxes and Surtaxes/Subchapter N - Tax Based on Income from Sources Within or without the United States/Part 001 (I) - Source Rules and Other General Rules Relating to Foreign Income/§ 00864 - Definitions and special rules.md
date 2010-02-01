@@ -54,7 +54,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;For purposes of this title—
 
-&emsp;&emsp;(A) In the case of a nonresident alien individual or a foreign corporation engaged in trade or business within the United States during the taxable year, the rules set forth in paragraphs (2), (3), (4), (6), and (7) shall apply in determining the income, gain, or loss which shall be treated as effectively connected with the conduct of a trade or business within the United States.
+&emsp;&emsp;(A) In the case of a nonresident alien individual or a foreign corporation engaged in trade or business within the United States during the taxable year, the rules set forthin paragraphs (2), (3), (4), (6), and (7) shall apply in determining the income, gain, or loss which shall be treated as effectively connected with the conduct of a trade or business within the United States.
 
 &emsp;&emsp;(B) Except as provided in paragraph (6) or (7) or in section 871(d) or sections 882(d) and (e), in the case of a nonresident alien individual or a foreign corporation not engaged in trade or business within the United States during the taxable year, no income, gain, or loss shall be treated as effectively connected with the conduct of a trade or business within the United States.
 
@@ -102,7 +102,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;&emsp;(B) income, gain, or loss shall not be considered as attributable to an office or other fixed place of business within the United States unless such office or fixed place of business is a material factor in the production of such income, gain, or loss and such office or fixed place of business regularly carries on activities of the type from which such income, gain, or loss is derived, and
 
-&emsp;&emsp;(C) the income, gain, or loss which shall be attributable to an office or other fixed place of business within the United States shall be the income, gain, or loss property allocable thereto, but, in the case of a sale or exchange described in clause (iii) of such subparagraph, the income which shall be treated as attributable to an office or other fixed place of business within the United States shall not exceed the income which would be derived from sources within the United States if the sale or exchange were made in the United States.
+&emsp;&emsp;(C) the income, gain, or loss which shall be attributable to an office or other fixed placeof business within the United States shall be the income, gain, or loss property allocable thereto, but, in the case of a sale or exchange described in clause (iii) of such subparagraph, the income which shall be treated as attributable to an office or other fixed place of business within the United States shall not exceed the income which would be derived from sources within the United States if the sale or exchange were made in the United States.
 
 #### (6) Treatment of certain deferred payments, etc.
 
@@ -128,7 +128,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 #### (1) In general
 
-&emsp;For purposes of the provisions set forth in paragraph (2), if any person acquires (directlyor indirectly) a trade or service receivable from a related person, any income of such person from the trade or service receivable so acquired shall be treated as if it were interest on a loan to the obligor under the receivable.
+&emsp;For purposes of the provisions set forth in paragraph (2), if any person acquires (directly or indirectly) a trade or service receivable from a related person, any income of such person from the trade or service receivable so acquired shall be treated as if it were interest on a loan to the obligor under the receivable.
 
 #### (2) Provisions to which paragraph (1) applies
 
@@ -188,7 +188,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;&emsp;(A) the person acquiring such receivable and such related person are created or organized under the laws of the same foreign country and such related person has a substantial part of its assets used in its trade or business located in such same foreign country, and
 
-&emsp;&emsp;(B) such related person would not have derived any foreign base company income (as defined in section 954(a), determined without regard to section 954(b)(3)(A)), or any income effectively connected with the conduct of a trade or business within the United States, from such receivable if it had been collected by such related person.
+&emsp;&emsp;(B) such related person would not have derived any foreign base company income (as defined in section 954(a), determined withoutregard to section 954(b)(3)(A)), or any income effectively connected with the conduct of a trade or business within the United States, from such receivable if it had been collected by such related person.
 
 #### (8) Regulations
 
@@ -492,7 +492,11 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 &emsp;This subsection shall apply to the taxpayer's first taxable year (beginning on or before August 1, 1994) following the taxpayer's last taxable year to which Revenue Procedure 92–56 applies or would apply if the taxpayer elected the benefits of such Revenue Procedure.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 89–809, title I, §102(d), Nov. 13, 1966, 80 Stat. 1544; Pub. L. 94–455, title XIX, §1901(a)(113), Oct. 4, 1976, 90 Stat. 1783; Pub. L. 98–369, div. A, title I, §§123(a), 127(c), July 18, 1984, 98 Stat. 644, 651; Pub. L. 99–514, title XII, §§1201(d)(4), 1211(b)(2), 1215(a), (b)(1), 1221(a)(2), 1223(b)(1), 1242(a), (b), 1275(c)(7), title XVIII, §§1810(c)(2), (3), 1899A(21), Oct. 22, 1986, 100 Stat. 2525, 2536, 2544, 2545, 2550, 2558, 2580, 2599, 2824, 2959; Pub. L. 100–203, title X, §10242(b), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L. 100–647, title I, §1012(a)(1)(B), (d)(7), (10), (g)(5), (h)(1), (2)(A), (3)–(6), (p)(30), (r), Nov. 10, 1988, 102 Stat. 3494, 3498, 3499, 3501–3503, 3521, 3525; Pub. L. 101–239, title VII, §7111, Dec. 19, 1989, 103 Stat. 2326; Pub. L. 101–508, title XI, §11401(a), Nov. 5, 1990, 104 Stat. 1388–472; Pub. L. 102–227, title I, §101(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §13234, Aug. 10, 1993, 107 Stat. 504; Pub. L. 105–34, title XI, §1162(a), Aug. 5, 1997, 111 Stat. 987; Pub. L. 106–170, title V, §532(c)(2)(N)–(P), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 106–519, §4(3), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 108–357, title I, §101(b)(6), title IV, §§401(a), (b), 403(b)(6), 413(c)(12), title VIII, §894(a), Oct. 22, 2004, 118 Stat. 1423, 1488, 1491, 1494, 1507, 1647; Pub. L. 110–289, div. C, title III, §3093(a), (b), July 30, 2008, 122 Stat. 2912.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 89–809, title I, §102(d), Nov. 13, 1966, 80 Stat. 1544; Pub. L. 94–455, title XIX, §1901(a)(113), Oct. 4, 1976, 90 Stat. 1783; Pub. L. 98–369, div. A, title I, §§123(a), 127(c), July 18, 1984, 98 Stat. 644, 651; Pub. L. 99–514, title XII, §§1201(d)(4), 1211(b)(2), 1215(a), (b)(1), 1221(a)(2), 1223(b)(1), 1242(a), (b), 1275(c)(7), title XVIII, §§1810(c)(2), (3), 1899A(21), Oct. 22, 1986, 100 Stat. 2525, 2536, 2544, 2545, 2550, 2558, 2580, 2599, 2824, 2959; Pub. L. 100–203, title X, §10242(b), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L. 100–647, title I, §1012(a)(1)(B), (d)(7), (10), (g)(5), (h)(1), (2)(A), (3)–(6), (p)(30), (r), Nov. 10, 1988, 102 Stat. 3494, 3498, 3499, 3501–3503, 3521, 3525; Pub. L. 101–239, title VII, §7111, Dec. 19, 1989, 103 Stat. 2326; Pub. L. 101–508, title XI, §11401(a), Nov. 5, 1990, 104 Stat. 1388–472; Pub. L. 102–227, title I, §101(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §13234, Aug. 10, 1993, 107 Stat. 504; Pub. L. 105–34, title XI, §1162(a), Aug. 5, 1997, 111 Stat. 987; Pub. L. 106–170, title V, §532(c)(2)(N)–(P), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 106–519, §4(3), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 108–357, title I, §101(b)(6), title IV, §§401(a), (b), 403(b)(6), 413(c)(12), title VIII, §894(a), Oct. 22, 2004, 118 Stat. 1423, 1488, 1491, 1494, 1507, 1647; Pub. L. 110–289, div. C, title III, §3093(a), (b), July 30, 2008, 122 Stat. 2912; Pub. L. 111–92, §15(a), (b), Nov. 6, 2009, 123 Stat. 2996.)
+
+#### Amendment of Subsection (f)
+
+<i>Pub. L. 111–92, §15, Nov. 6, 2009, 123 Stat. 2996, provided that, applicable to taxable years beginning after Dec. 31, 2010, subsection (f) of this section is amended (1) by substituting “December 31, 2017” for “December 31, 2010” in paragraphs (5)(D) and (6); and (2) by striking out paragraph (7).</i>
 
 #### References in Text
 
@@ -568,7 +572,7 @@ Subsec. (c)(4)(B)(i), (ii). Pub. L. 100–647, §1012(d)(10), struck out “(inc
 
 Subsec. (c)(4)(B)(iii). Pub. L. 100–647, §1012(d)(7), added cl. (iii).
 
-Subsec. (c)(6). Pub. L. 100–647, §1012(r)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “For purposes of this title, any income or gain of a nonresident alien individual or a foreign corporation for any taxable year which is attributable to a sale or exchange of property or the performance of services (or any other transaction) in any other taxable year shall be treated as effectively connected with the conduct of a trade or business within the United States ifit would have been so treated if such income or gain were taken into account in such other taxable year.”
+Subsec. (c)(6). Pub. L. 100–647, §1012(r)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “For purposes of this title, any income or gain of a nonresident alien individual or a foreign corporation for any taxable year which is attributable to a sale or exchange of property or the performance of services (or any other transaction) in any other taxable year shall be treated as effectively connected with the conduct of a trade or business within the United States if it would have been so treated if such income or gain were taken into account in such other taxable year.”
 
 Subsec. (c)(7). Pub. L. 100–647, §1012(r)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “For purposes of this title, if any property ceases to be used or held for use in connection with the conduct of a trade or business within the United States, the determination of whether any income or gain attributable to a sale or exchange of such property occurring within 10 years after such cessation is effectively connected with the conduct of a trade or business within the United States shall be made as if such sale or exchange occurred immediately before such cessation.”
 
@@ -638,6 +642,10 @@ Subsec. (c)(5)(C). Pub. L. 94–455, §1901(a)(113)(B), substituted “sale or e
 
 1966—Pub. L. 89–809 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–92, §15(c), Nov. 6, 2009, 123 Stat. 2996, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2010.”
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–289, div. C, title III, §3093(c), July 30, 2008, 122 Stat. 2912, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008.”
@@ -650,7 +658,7 @@ Pub. L. 108–357, title IV, §401(c), Oct. 22, 2004, 118 Stat. 1491, provided t
 
 Pub. L. 108–357, title IV, §403(c), Oct. 22, 2004, 118 Stat. 1494, provided that: “The amendments made by this section \[amending this section and section 904 of this title\] shall apply to taxable years beginning after December 31, 2002.”
 
-Pub. L. 108–357, title IV, §403(d), as added by Pub. L. 109–135, title IV, §403(<i>l</i>), Dec. 21, 2005, 119 Stat. 2625, provided that: “If the taxpayer elects (at such time and in such form and manner as the Secretary of the Treasurymay prescribe) to have the rules of this subsection apply—
+Pub. L. 108–357, title IV, §403(d), as added by Pub. L. 109–135, title IV, §403(<i>l</i>), Dec. 21, 2005, 119 Stat. 2625, provided that: “If the taxpayer elects (at such time and in such form and manner as the Secretary of the Treasury may prescribe) to have the rules of this subsection apply—
 
 &emsp;“(1) the amendments made by this section \[amending this section and section 904 of this title\] shall not apply to taxable years beginning after December 31, 2002, and before January 1, 2005, and
 
@@ -692,7 +700,7 @@ Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1201(d)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, except as otherwise provided, see section 1201(e) of Pub. L. 99–514, set out as a note under section 904 of this title.
+Amendment by section 1201(d)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,except as otherwise provided, see section 1201(e) of Pub. L. 99–514, set out as a note under section 904 of this title.
 
 Amendment by section 1211(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, except as otherwise provided, see section 1211(c) of Pub. L. 99–514, set out as an Effective Date note under section 865 of this title.
 
@@ -828,7 +836,7 @@ Coordination of subparagraphs (a) and (b).—In applying subparagraph (B), there
 
 Special rules.—
 
-&emsp;&emsp;“(i) In the case of the 1st 9 taxable years of the taxpayer beginning after December 31, 1986, the amendments made by this section shall not apply to interest expenses paid or accrued by the taxpayer during the taxable year with respect to an aggregate amount of indebtedness which does not exceed the applicable percentage (determined under the following table) of the indebtedness described in clause (iii) or (iv):
+&emsp;&emsp;“(i) In the case of the 1st 9 taxable years of the taxpayer beginning after December 31, 1986, the amendments made by this section shall not apply to interest expenses paid or accrued by the taxpayer during the taxable year with respect to an aggregate amount of indebtedness which does notexceed the applicable percentage (determined under the following table) of the indebtedness described in clause (iii) or (iv):
 
 > &emsp;&nbsp;
 
@@ -922,7 +930,7 @@ Qualified corporation.—For purposes of subparagraph (A), the term ‘qualified
 
 “(4)
 
-Special rules for subsidiary.—The amendments made by this section shall not apply to interest on up to the applicable dollar amount of indebtednessof a subsidiary incorporated on February 11, 1975, the indebtedness of which on May 6, 1986, included—
+Special rules for subsidiary.—The amendments made by this section shall not apply to interest on up to the applicable dollar amount of indebtedness of a subsidiary incorporated on February 11, 1975, the indebtedness of which on May 6, 1986, included—
 
 &emsp;“(A) $100,000,000 face amount of 113/4 percent notes due in 1990,
 

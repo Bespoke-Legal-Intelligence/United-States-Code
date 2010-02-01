@@ -12,7 +12,7 @@ From funds appropriated under subsection (f) of this section the Secretary is au
 
 &emsp;&emsp;Except as provided in subparagraph (B), funds appropriated pursuant to subsection (f) of this section shall be allotted to each State based upon the number of children counted under section 6333(c) of this title in such State multiplied by the product of—
 
-&emsp;&emsp;&emsp;(i) the amount in section 6333(a)(1)(B) of this title for all States other than theCommonwealth of Puerto Rico, except that the amount determined under that subparagraph shall not be less that 34 percent or more than 46 percent of the average per pupil expenditure in the United States, and the amount in section 6333(a)(4) of this title for the Commonwealth of Puerto Rico, except that the amount in section 6333(a)(4)(A)(ii) of this title shall be 34 percent of the average per pupil expenditure in the United States; multiplied by
+&emsp;&emsp;&emsp;(i) the amount in section 6333(a)(1)(B) of this title for all States other than the Commonwealth of Puerto Rico, except that the amount determined under that subparagraph shall not be less that 34 percent or more than 46 percent of the average per pupil expenditure in the United States, and the amount in section 6333(a)(4) of this title for the Commonwealth of Puerto Rico, except that the amount in section 6333(a)(4)(A)(ii) of this title shall be 34 percent of the average per pupil expenditure in the United States; multiplied by
 
 &emsp;&emsp;&emsp;(ii) such State's effort factor described in paragraph (2); multiplied by
 
@@ -82,7 +82,7 @@ All funds awarded to each State under this section shall be allocated to local e
 
 #### (d) Allocation of funds to eligible local educational agencies
 
-Funds received by States under this section shall be allocated within States to eligible localeducational agencies on the basis of weighted child counts calculated in accordance with paragraph (1), (2), or (3), as appropriate for each State.
+Funds received by States under this section shall be allocated within States to eligible local educational agencies on the basis of weighted child counts calculated in accordance with paragraph (1), (2), or (3), as appropriate for each State.
 
 #### (1) States with an equity factor less than .10
 
@@ -332,7 +332,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 &emsp;For each fiscal year, if sufficient funds are available, the amount made available to each local educational agency under this section shall be
 
-&emsp;&emsp;(A) not less than 95 percent of the amount made available for the preceding fiscal year if the number of children counted for grants under section 6333 of this title is not lessthan 30 percent of the total number of children aged 5 to 17 years, inclusive, in the local educational agency;
+&emsp;&emsp;(A) not less than 95 percent of the amount made available for the preceding fiscal year if the number of children counted for grants under section 6333 of this title is not less than 30 percent of the total number of children aged 5 to 17 years, inclusive, in the local educational agency;
 
 &emsp;&emsp;(B) not less than 90 percent of the amount made available for the preceding fiscal year if the percentage described in subparagraph (A) is between 15 percent and 30 percent; and
 

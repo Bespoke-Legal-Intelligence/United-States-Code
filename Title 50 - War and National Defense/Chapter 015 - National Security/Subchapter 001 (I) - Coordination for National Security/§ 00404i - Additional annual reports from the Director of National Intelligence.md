@@ -24,7 +24,7 @@
 
 &emsp;(A) Of all individuals employed in the element during the fiscal year involved, the aggregate percentage of such individuals who are covered persons.
 
-&emsp;(B) Of all individuals employed in the element during the fiscal year involved at thelevels referred to in clauses (i) and (ii), the percentage of covered persons employed at such levels:
+&emsp;(B) Of all individuals employed in the element during the fiscal year involved at the levels referred to in clauses (i) and (ii), the percentage of covered persons employed at such levels:
 
 &emsp;&emsp;(i) Positions at levels 1 through 15 of the General Schedule.
 
@@ -74,7 +74,7 @@ The General Schedule, referred to in subsec. (b)(2)(B), is set out under section
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–458, §1071(a)(7), substituted “Additional annual reports from the Director of National Intelligence” for “Additional annual reports from the Director of Central Intelligence” in section catchline.
+2004—Pub. L. 108–458, §1071(a)(7), substituted “Additional annual reports from the Director of National Intelligence” for “Additional annual reports from the Director of Central Intelligence” in section catchline.
 
 Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(N), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
@@ -82,7 +82,7 @@ Subsec. (b)(1). Pub. L. 108–458, §1071(a)(1)(O), substituted “Director of N
 
 Subsec. (c)(1). Pub. L. 108–458, §1071(a)(3)(A), substituted “Director of National Intelligence” for “Director”.
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–177, §361(c), redesignated subsec. (b) as (a) and struck out former subsec. (a), which related to annual reports on intelligence community cooperation with Federal law enforcement agencies.
+2003—Subsec. (a). Pub. L. 108–177, §361(c), redesignated subsec. (b) as (a) and struck out former subsec. (a), which related to annual reports on intelligence community cooperation with Federal law enforcement agencies.
 
 Subsecs. (b), (c). Pub. L. 108–177, §361(c)(2), redesignated subsecs. (c) and (d) as (b) and (c), respectively. Former subsec. (b) redesignated (a).
 
@@ -96,7 +96,7 @@ Pub. L. 108–177, §361(c)(2), redesignated subsec. (f) as (e). Former subsec. 
 
 Subsec. (f). Pub. L. 108–177, §361(c)(2), redesignated subsec. (f) as (e).
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–306, §811(b)(1)(D)(i)(I), struck out “the congressional intelligence committees and” before “the congressional leadership”.
+2002—Subsec. (a)(1). Pub. L. 107–306, §811(b)(1)(D)(i)(I), struck out “the congressional intelligence committees and” before “the congressional leadership”.
 
 Subsec. (a)(2) to (4). Pub. L. 107–306, §811(b)(1)(D)(i)(II), (III), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
@@ -126,7 +126,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Effective Date of 2004 Amendment
 
-For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005,70 F.R. 23925, set out as a note under section 401 of this title.
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

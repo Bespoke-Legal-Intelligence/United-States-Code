@@ -26,7 +26,7 @@ Whenever the Secretary determines that any item or class of items on account of 
 
 #### (e) Disallowance of items covered under subchapter XIX
 
-(1) Whenever the Secretary determines that any item or class of items on account of which Federal financial participation is claimed under subchapter XIX shall be disallowed for such participation, the State shall be entitled to and upon request shall receive a reconsideration of the disallowance, provided that such request is made during the 60-day period that begins on the date the State receives notice of the disallowance.
+(1) Whenever the Secretary determines that any item or class of items on account of which Federal financial participation is claimed under subchapter XIX shall be disallowed for such participation, the State shall be entitled to andupon request shall receive a reconsideration of the disallowance, provided that such request is made during the 60-day period that begins on the date the State receives notice of the disallowance.
 
 (2)(A) A State may appeal a disallowance of a claim for federal <sup>2</sup> financial participation under subchapter XIX by the Secretary, or an unfavorable reconsideration of a disallowance, during the 60-day period that begins on the date the State receives notice of the disallowance or of the unfavorable reconsideration, in whole or in part, to the Departmental Appeals Board, established in the Department of Health and Human Services (in this paragraph referred to as the “Board”), by filing a notice of appeal with the Board.
 

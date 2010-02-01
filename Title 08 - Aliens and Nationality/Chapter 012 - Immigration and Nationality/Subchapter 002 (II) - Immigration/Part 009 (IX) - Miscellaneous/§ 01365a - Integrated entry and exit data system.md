@@ -270,7 +270,7 @@ Detail of government employees.—Any Federal Government employee, with the appr
 
 &emsp;“(4)
 
-Procurement of temporary and intermittent services.—The Attorney General may procure temporary and intermittent services for the Task Force under section 3109(b) of title 5, United States Code, at rates for individuals not to exceed the daily equivalent of the annual rate of basic pay prescribed forlevel V of the Executive Schedule under section 5316 of such title.
+Procurement of temporary and intermittent services.—The Attorney General may procure temporary and intermittent services for the Task Force under section 3109(b) of title 5, United States Code, at rates for individuals not to exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
 
 &emsp;“(5)
 

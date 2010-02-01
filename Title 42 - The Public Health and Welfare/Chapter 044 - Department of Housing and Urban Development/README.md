@@ -21,6 +21,7 @@
 | [3543\.](%C2%A7%2003543%20-%20Preventing%20fraud%20and%20abuse%20in%20Department%20of%20Housing%20and%20Urban%20Development%20programs.md) | Preventing fraud and abuse in Department of Housing and Urban Development programs. |
 | [3544\.](%C2%A7%2003544%20-%20Preventing%20fraud%20and%20abuse%20in%20housing%20and%20urban%20development%20programs.md) | Preventing fraud and abuse in housing and urban development programs. |
 | [3545\.](%C2%A7%2003545%20-%20HUD%20accountability.md) | HUD accountability. |
+| [3545a.](%C2%A7%2003545a%20-%20Notification%20of%20issuance%20of%20electronic%20notice%20of%20availability%20of%20assistance%20or%20funding%20to%20be%20competitively%20awarded%20for%20certain%20programs%E2%80%A6.md) | Notification of issuance of electronic notice of availability of assistance or funding to be competitively awarded for certain programs or discretionary funds. |
 | [3546\.](%C2%A7%2003546%20-%20Use%20of%20domestic%20products.md) | Use of domestic products. |
 | [3547\.](%C2%A7%2003547%20-%20Special%20projects.md) | Special projects. |
 | [3548\.](%C2%A7%2003548%20-%20Semiannual%20report%20on%20contracts%20and%20task%20orders.md) | Semiannual report on contracts and task orders. |
@@ -52,6 +53,7 @@
 - [&sect; 03543 - Preventing fraud and abuse in Department of Housing and Urban Development programs](%C2%A7%2003543%20-%20Preventing%20fraud%20and%20abuse%20in%20Department%20of%20Housing%20and%20Urban%20Development%20programs.md)
 - [&sect; 03544 - Preventing fraud and abuse in housing and urban development programs](%C2%A7%2003544%20-%20Preventing%20fraud%20and%20abuse%20in%20housing%20and%20urban%20development%20programs.md)
 - [&sect; 03545 - HUD accountability](%C2%A7%2003545%20-%20HUD%20accountability.md)
+- [&sect; 03545a - Notification of issuance of electronic notice of availability of assistance or funding to be competitively awarded for certain programs&#8230;](%C2%A7%2003545a%20-%20Notification%20of%20issuance%20of%20electronic%20notice%20of%20availability%20of%20assistance%20or%20funding%20to%20be%20competitively%20awarded%20for%20certain%20programs%E2%80%A6.md)
 - [&sect; 03546 - Use of domestic products](%C2%A7%2003546%20-%20Use%20of%20domestic%20products.md)
 - [&sect; 03547 - Special projects](%C2%A7%2003547%20-%20Special%20projects.md)
 - [&sect; 03548 - Semiannual report on contracts and task orders](%C2%A7%2003548%20-%20Semiannual%20report%20on%20contracts%20and%20task%20orders.md)

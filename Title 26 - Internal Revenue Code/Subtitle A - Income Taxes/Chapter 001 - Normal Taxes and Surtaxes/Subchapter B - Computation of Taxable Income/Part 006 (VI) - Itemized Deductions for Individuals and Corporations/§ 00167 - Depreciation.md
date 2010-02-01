@@ -82,7 +82,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (6) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations preventing avoidance of this subsection through cross-ownership arrangements or otherwise.
+&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out thepurposes of this subsection, including regulations preventing avoidance of this subsection through cross-ownership arrangements or otherwise.
 
 #### (f) Treatment of certain property excluded from section 197
 
@@ -98,7 +98,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (C) Tax-exempt use property subject to lease
 
-&emsp;&emsp;In the case of computer software which would be tax-exempt use property as defined in subsection (h) of section 168 if such section applied to computer software, the useful life under subparagraph (A) shall not beless than 125 percent of the lease term (within the meaning of section 168(i)(3)).
+&emsp;&emsp;In the case of computer software which would be tax-exempt use property as defined in subsection (h) of section 168 if such section applied to computer software, the useful life under subparagraph (A) shall not be less than 125 percent of the lease term (within the meaning of section 168(i)(3)).
 
 #### (2) Certain interests or rights acquired separately
 
@@ -250,7 +250,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “applicable musical property” means any musical composition (includingany accompanying words), or any copyright with respect to a musical composition, which is property to which this subsection applies without regard to this paragraph.
+&emsp;&emsp;&emsp;The term “applicable musical property” means any musical composition (including any accompanying words), or any copyright with respect to a musical composition, which is property to which this subsection applies without regard to this paragraph.
 
 #### (ii) Exceptions
 
@@ -316,7 +316,7 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;<b>(2) For amortization of goodwill and certain other intangibles, see section 197.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 51; Pub. L. 85–866, title I, §89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 87–834, §13(b), (c)(1), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 89–800, §2, Nov. 8, 1966, 80 Stat. 1513; Pub. L. 90–26, §§1, 2(b), June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title IV, §441(a), title V, §521(a), (d), Dec. 30, 1969, 83 Stat. 625, 649, 653; Pub. L. 92–178, title I, §109(a), Dec. 10, 1971, 85 Stat. 508; Pub. L. 93–625, §3(c), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title II, §§202(c)(3), 203(a), title XIX, §§1901(a)(27), 1906(b)(13)(A), title XXI, §2124(c)(1), (d)(1), Oct. 4, 1976, 90 Stat. 1530, 1768, 1834, 1918; Pub. L. 95–171, §4(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 95–600, title III, §§312(c)(4), 367, title VII, §701(f)(4), (6), Nov. 6, 1978, 92 Stat. 2826, 2857, 2901, 2902; Pub. L. 95–615, §7(a), Nov. 8, 1978, 92 Stat. 3098; Pub. L. 95–618, title III, §301(d)(3), (e)(1), Nov. 9, 1978, 92 Stat. 3200, 3201; Pub. L. 96–541, §§2(c), (d), 3, Dec. 17, 1980, 94 Stat. 3204, 3205; Pub. L. 96–613, §2(a), Dec. 28, 1980, 94 Stat. 3579; Pub. L. 97–34, title II, §§203(a)–(c)(1), (d), 209(d)(3), 212(d)(1), 264(a), Aug. 13, 1981, 95 Stat. 221, 222, 227, 239, 264; Pub. L. 97–424, title V, §541(a)(2), Jan. 6, 1983, 96 Stat. 2192; Pub. L. 98–369, div. A, title X, §1064, July 18, 1984, 98 Stat. 1047; Pub. L. 99–514, title II, §201(d)(1), title XV, §1511(c)(4), title XVIII, §1809(d)(1), Oct. 22, 1986, 100 Stat. 2139, 2745, 2821; Pub. L. 100–647, title I, §1002(a)(22), (24), (31), (i)(1), Nov. 10, 1988, 102 Stat. 3356, 3357, 3370; Pub. L. 101–239, title VII, §§7622(b)(1) \[(d)(1)\], 7645(a), Dec. 19, 1989, 103 Stat. 2378, 2381; Pub. L. 101–508, title XI, §11812(a), (b)(1), Nov. 5, 1990, 104 Stat. 1388–534; Pub. L. 103–66, title XIII, §§13206(c)(2), 13261(b), (f)(1), Aug. 10, 1993, 107 Stat. 466, 538, 539; Pub. L. 104–188, title I, §1604(a), Aug. 20, 1996, 110 Stat. 1836; Pub. L. 105–34, title X, §1086(a), Aug. 5, 1997, 111 Stat. 957; Pub. L. 108–357, title II, §242(a), (b), title VIII, §847(b)(1), (2), Oct. 22, 2004, 118 Stat.1438, 1439, 1601; Pub. L. 109–58, title XIII, §1329(a), Aug. 8, 2005, 119 Stat. 1020; Pub. L. 109–135, title IV, §412(r), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–222, title II, §207(a), title V, §503(a), May 17, 2006, 120 Stat. 350, 354; Pub. L. 110–140, title XV, §1502(a), Dec. 19, 2007, 121 Stat. 1800; Pub. L. 110–172, §11(a)(13), Dec. 29, 2007, 121 Stat. 2485.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 51; Pub. L. 85–866, title I, §89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 87–834, §13(b), (c)(1), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 89–800, §2, Nov. 8, 1966, 80 Stat. 1513; Pub. L. 90–26, §§1, 2(b), June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title IV, §441(a), title V, §521(a),\(d), Dec. 30, 1969, 83 Stat. 625, 649, 653; Pub. L. 92–178, title I, §109(a), Dec. 10, 1971, 85 Stat. 508; Pub. L. 93–625, §3(c), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title II, §§202(c)(3), 203(a), title XIX, §§1901(a)(27), 1906(b)(13)(A), title XXI, §2124(c)(1), (d)(1), Oct. 4, 1976, 90 Stat. 1530, 1768, 1834, 1918; Pub. L. 95–171, §4(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 95–600, title III, §§312(c)(4), 367, title VII, §701(f)(4), (6), Nov. 6, 1978, 92 Stat. 2826, 2857, 2901, 2902; Pub. L. 95–615, §7(a), Nov. 8, 1978, 92 Stat. 3098; Pub. L. 95–618, title III, §301(d)(3), (e)(1), Nov. 9, 1978, 92 Stat. 3200, 3201; Pub. L. 96–541, §§2(c), (d), 3, Dec. 17, 1980, 94 Stat. 3204, 3205; Pub. L. 96–613, §2(a), Dec. 28, 1980, 94 Stat. 3579; Pub. L. 97–34, title II, §§203(a)–(c)(1), (d), 209(d)(3), 212(d)(1), 264(a), Aug. 13, 1981, 95 Stat. 221, 222, 227, 239, 264; Pub. L. 97–424, title V, §541(a)(2), Jan. 6, 1983, 96 Stat. 2192; Pub. L. 98–369, div. A, title X, §1064, July 18, 1984, 98 Stat. 1047; Pub. L. 99–514, title II, §201(d)(1), title XV, §1511(c)(4), title XVIII, §1809(d)(1), Oct. 22, 1986, 100 Stat. 2139, 2745, 2821; Pub. L. 100–647, title I, §1002(a)(22), (24), (31), (i)(1), Nov. 10, 1988, 102 Stat. 3356, 3357, 3370; Pub. L. 101–239, title VII, §§7622(b)(1) \[(d)(1)\], 7645(a), Dec. 19, 1989, 103 Stat. 2378, 2381; Pub. L. 101–508, title XI, §11812(a), (b)(1), Nov. 5, 1990, 104 Stat. 1388–534; Pub. L. 103–66, title XIII, §§13206(c)(2), 13261(b), (f)(1), Aug. 10, 1993, 107 Stat. 466, 538, 539; Pub. L. 104–188, title I, §1604(a), Aug. 20, 1996, 110 Stat. 1836; Pub. L. 105–34, title X, §1086(a), Aug. 5, 1997, 111 Stat. 957; Pub. L. 108–357, title II, §242(a), (b), title VIII, §847(b)(1), (2), Oct. 22, 2004, 118 Stat. 1438, 1439, 1601; Pub. L. 109–58, title XIII, §1329(a), Aug. 8, 2005, 119 Stat. 1020; Pub. L. 109–135, title IV, §412(r), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–222, title II, §207(a), title V, §503(a), May 17, 2006, 120 Stat. 350, 354; Pub. L. 110–140, title XV, §1502(a), Dec. 19, 2007, 121 Stat. 1800; Pub. L. 110–172, §11(a)(13), Dec. 29, 2007, 121 Stat. 2485.)
 
 #### Amendments
 
@@ -494,7 +494,7 @@ Subsec. (k)(3)(D). Pub. L. 94–455, §203(a)(4), added subpar. (D).
 
 Subsec. (<i>l</i>)(3)(F). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (<i>l</i>)(4)(A). Pub. L. 94–455, §§1901(a)(27)(C), 1906(b)(13)(A), substituted “before June 29, 1970,” for“within 180 days after the date of the enactment of this subparagraph” and struck out “or his delegate” after “Secretary”.
+Subsec. (<i>l</i>)(4)(A). Pub. L. 94–455, §§1901(a)(27)(C), 1906(b)(13)(A), substituted “before June 29, 1970,” for “within 180 days after the date of the enactment of this subparagraph” and struck out “or his delegate” after “Secretary”.
 
 Subsec. (<i>l</i>)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -570,7 +570,7 @@ Binding contracts.—The amendment made by subsection (a) shall not apply to any
 
 “(3)
 
-Underpayments of income tax.—No addition to tax shall be made under section 6662 of the Internal Revenue Code of 1986 as a result of the application of subsection (d) of that section (relating to substantial understatements of income tax) with respect to any underpayment of income tax for any taxable year ending before the date of the enactment of this Act \[Aug. 20, 1996\], to the extent such underpayment was created or increased by the amendments made by subsection (a).”
+Underpayments of income tax.—No addition to tax shall be made under section 6662 of the Internal Revenue Code of 1986 as a result of the application of subsection (d) of that section (relating to substantial understatements of income tax) with respect to any underpayment of income tax for any taxable year ending before the date of the enactment of this Act \[Aug. 20, 1996\], to the extent such underpayment was createdor increased by the amendments made by subsection (a).”
 
 #### Effective Date of 1993 Amendment
 
@@ -666,7 +666,7 @@ Section 521(g) of Pub. L. 91–172 provided that: “The amendments made by this
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–26 applicable with respect to taxable years ending after March 9, 1967, see section4 of Pub. L. 90–26, set out as a note under section 48 of this title.
+Amendment by Pub. L. 90–26 applicable with respect to taxable years ending after March 9, 1967, see section 4 of Pub. L. 90–26, set out as a note under section 48 of this title.
 
 #### Effective Date of 1966 Amendment
 

@@ -1,11 +1,5 @@
 Part L—Student Safety and Campus Emergency Management
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by an article.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “used”.</i>
-
 
 ---
 

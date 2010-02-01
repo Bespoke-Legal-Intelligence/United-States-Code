@@ -46,7 +46,7 @@ There is a rebuttable presumption at trial that any property of a person convict
 
 > <i>Provided, however</i>, That an order entered pursuant to subparagraph (B) shall be effective for not more than ninety days, unless extended by the court for good cause shown or unless an indictment or information described in subparagraph (A) has been filed.
 
-(2) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than ten days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
+(2) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than fourteen days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
 
 (3) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 
@@ -128,7 +128,7 @@ In order to facilitate the identification and location of property declared forf
 
 > the court shall amend the order of forfeiture in accordance with its determination.
 
-(7) Following the court's disposition of all petitions filed under this subsection, or if no such petitions are filed following the expiration of the period provided in paragraph (2) for the filing of such petitions, the United States shall have clear title to property that is the subject of the order of forfeiture and may warrant good title to any subsequent purchaser or transferee.
+(7) Following the court's disposition of all petitions filed under this subsection, or if no suchpetitions are filed following the expiration of the period provided in paragraph (2) for the filing of such petitions, the United States shall have clear title to property that is the subject of the order of forfeiture and may warrant good title to any subsequent purchaser or transferee.
 
 #### (<i>o</i>) Construction
 
@@ -168,7 +168,7 @@ The court, when sentencing a defendant convicted of an offense under this subcha
 
 &emsp;(3) order restitution to any person injured as a result of the offense as provided in section 3663A of title 18.
 
-(Pub. L. 91–513, title II, §413, as added and amended Pub. L. 98–473, title II, §§303, 2301(d)–(f), Oct. 12, 1984, 98 Stat. 2044, 2192, 2193; Pub. L. 99–570, title I, §§1153(b), 1864, Oct. 27, 1986, 100 Stat. 3207–13, 3207–54; Pub. L. 104–237, title II, §207, Oct. 3, 1996, 110 Stat. 3104; Pub. L. 106–310, div. B, title XXXVI, §3613(a), Oct. 17, 2000, 114 Stat. 1229; Pub. L. 107–56, title III, §319(d), Oct. 26, 2001, 115 Stat. 314; Pub. L. 109–177, title VII, §743(a), Mar. 9, 2006, 120 Stat. 272.)
+(Pub. L. 91–513, title II, §413, as added and amended Pub. L. 98–473, title II, §§303, 2301(d)–(f), Oct. 12, 1984, 98 Stat. 2044, 2192, 2193; Pub. L. 99–570, title I, §§1153(b), 1864, Oct. 27, 1986, 100 Stat. 3207–13, 3207–54; Pub. L. 104–237, title II, §207, Oct. 3, 1996, 110 Stat. 3104; Pub. L. 106–310, div. B, title XXXVI, §3613(a), Oct. 17, 2000, 114 Stat. 1229; Pub. L. 107–56, title III, §319(d), Oct. 26, 2001, 115 Stat. 314; Pub. L. 109–177, title VII, §743(a), Mar. 9, 2006, 120 Stat. 272; Pub. L. 111–16, §5, May 7, 2009, 123 Stat. 1608.)
 
 #### References in Text
 
@@ -177,6 +177,8 @@ The Federal Rules of Evidence, referred to in subsec. (e)(3), are set out in the
 The Federal Rules of Criminal Procedure, referred to in subsec. (m), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
+
+2009—Subsec. (e)(2). Pub. L. 111–16 substituted “fourteen days” for “ten days”.
 
 2006—Subsec. (q). Pub. L. 109–177, §743(a)(1), inserted “, the possession, or the possession with intent to distribute,” after “manufacture” in introductory provisions.
 
@@ -214,7 +216,7 @@ Subsec. (i)(1). Pub. L. 99–570, §1864(3), substituted “this subchapter” f
 
 Subsec. (k). Pub. L. 99–570, §1864(1), (4), which directed the substitution of “subsection (n)” for “subsection (<i>o</i>)” in “the second subsection (h)”, and directed the redesignation of “the second subsection (h)” as subsection (k), were executed to this subsection because the “second subsection (h)” had been editorially redesignated subsec. (k) to reflect the probable intent of Congress. See 1984 Amendment note below.
 
-Subsec. (p). Pub. L. 99–570, §1153(b), which directed that “section 413 of title II of the Comprehensive Drug Abuse Prevention and Control Act of 1975” be amended “by redesignating subsection ‘(p)’ as subsection ‘(q)’ ” and adding subsec. (p) was executed to this section, which is section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970, as the probable intent of Congress, by adding a subsec. (p) in view of the prior redesignation of subsec. (p) as (<i>o</i>) by Pub. L. 98–473, §2301(e)(2). See 1984 Amendment note below.
+Subsec. (p). Pub. L. 99–570, §1153(b), which directed that “section 413 of title II of the Comprehensive DrugAbuse Prevention and Control Act of 1975” be amended “by redesignating subsection ‘(p)’ as subsection ‘(q)’ ” and adding subsec. (p) was executed to this section, which is section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970, as the probable intent of Congress, by adding a subsec. (p) in view of the prior redesignation of subsec. (p) as (<i>o</i>) by Pub. L. 98–473, §2301(e)(2). See 1984 Amendment note below.
 
 1984—Subsec. (a). Pub. L. 98–473, §2301(d), inserted “In lieu of a fine otherwise authorized by this part, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.”
 
@@ -223,6 +225,10 @@ Subsec. (d). Pub. L. 98–473, §2301(e), struck out subsec. (d) which related t
 Subsecs. (e) to (p). Pub. L. 98–473, §2301(e)(2), which directed that this section be amended by redesignating subsecs. (e), (f), (g), (h), (i), (<i>l</i>), (m), (n), (<i>o</i>), and (p) as subsecs. (d), (e), (f), (g), (h), (i), (j), (h), (<i>l</i>), (m), (n), and (<i>o</i>), respectively, was executed by redesignating subsecs. (e) to (p) as (d) to (<i>o</i>), respectively, to give effect to the probable intent of Congress.
 
 Subsec. (n)(1). Pub. L. 98–473, §2301(f), struck out “for at least seven successive court days” after “to dispose of the property”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 111–16, set out as a note under section 109 of Title 11, Bankruptcy.
 
 #### Savings Clause
 

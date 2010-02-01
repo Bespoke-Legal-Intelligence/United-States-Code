@@ -192,7 +192,7 @@ In this section:
 
 &emsp;&emsp;(A) any maritime security, maritime safety, or environmental protection mission or activity of the Coast Guard;
 
-&emsp;&emsp;(B) any border security operation or law enforcement activity by the Department of Homeland Security or the Department of Justice; or
+&emsp;&emsp;(B) any border security operation or law enforcement activity by the Department ofHomeland Security or the Department of Justice; or
 
 &emsp;&emsp;(C) any law enforcement activity of any Federal, State, or local law enforcement agency in the Outstanding Natural Area.
 

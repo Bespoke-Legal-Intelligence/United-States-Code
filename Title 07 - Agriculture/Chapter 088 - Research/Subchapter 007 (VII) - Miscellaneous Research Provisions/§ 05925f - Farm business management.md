@@ -28,7 +28,7 @@ Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 450i of this 
 
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-(Pub. L. 101–624, title XVI, §1672D, as added Pub. L. 110–234, title VII, §7208, May 22, 2008, 122 Stat. 1268; Pub. L. 110–246, §4(a), title VII, §7208, June 18, 2008, 122 Stat. 1664, 2002.)
+(Pub. L. 101–624, title XVI, §1672D, as added Pub. L. 110–234, title VII, §7208, May 22, 2008, 122 Stat. 1241; Pub. L. 110–246, §4(a), title VII, §7208, June 18, 2008, 122 Stat. 1664, 2002.)
 
 #### Codification
 

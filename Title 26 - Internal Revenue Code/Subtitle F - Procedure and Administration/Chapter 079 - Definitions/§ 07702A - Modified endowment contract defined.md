@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (B) Treatment of certain premiums returned
 
-&emsp;&emsp;If, in order to comply with the requirements of subsection (b), any portion of any premium paid during any contract year is returned by the insurance company (with interest) within 60 days after the end of such contract year, the amount so returned (excluding interest) shall be deemed to reduce the sum of the premiums paid under the contract during such contract year.
+&emsp;&emsp;If, in order to comply with the requirements of subsection (b), any portion of anypremium paid during any contract year is returned by the insurance company (with interest) within 60 days after the end of such contract year, the amount so returned (excluding interest) shall be deemed to reduce the sum of the premiums paid under the contract during such contract year.
 
 #### (C) Interest returned includible in gross income
 

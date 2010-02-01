@@ -158,7 +158,7 @@ Pars. (26) to (29). Pub. L. 109–58, §1291(b)(2), added pars. (26) to (29).
 
 Pars. (23) to (25). Pub. L. 102–486, §726(a), added pars. (23) to (25).
 
-1991—Par. (17)(E). Pub. L. 102–46 struck out “, and which would otherwise not qualify as a small powerproduction facility because of the power production capacity limitation contained in subparagraph (A)(ii)” after “geothermal resources” in introductory provisions.
+1991—Par. (17)(E). Pub. L. 102–46 struck out “, and which would otherwise not qualify as a small power production facility because of the power production capacity limitation contained in subparagraph (A)(ii)” after “geothermal resources” in introductory provisions.
 
 1990—Par. (17)(A). Pub. L. 101–575, §3(a), inserted “a facility which is an eligible solar, wind, waste, or geothermal facility, or”.
 

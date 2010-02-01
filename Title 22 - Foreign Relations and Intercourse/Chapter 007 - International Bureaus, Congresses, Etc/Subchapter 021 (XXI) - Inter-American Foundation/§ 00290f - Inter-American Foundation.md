@@ -44,7 +44,7 @@ The Foundation, as a corporation—
 
 &emsp;(7) shall be entitled to the use of the United States mails in the same manner and on the same conditions as the executive departments of the Government;
 
-&emsp;(8) may, with the consent of any board, corporation, commission, independent establishment, or executive department of the Government, including any field service thereof, availitself of the use of information, services, facilities, officers, and employees thereof in carrying out the provisions of this section;
+&emsp;(8) may, with the consent of any board, corporation, commission, independent establishment, or executive department of the Government, including any field service thereof, avail itself of the use of information, services, facilities, officers, and employees thereof in carrying out the provisions of this section;
 
 &emsp;(9) may accept money, funds, property, and services of every kind by gift, device,<sup>1</sup> bequest, grant, or otherwise, and make advances, grants, and loans to any individual, corporation, or other body of persons, whether within or without the United States of America, or to any government or governmental agency, domestic or foreign, when deemed advisable by the Foundation in furtherance of its purposes;
 
@@ -88,7 +88,7 @@ In order to further the purposes of the Foundation there shall be established a 
 
 #### (n) Nonprofit nature of the Foundation; conflict of interests
 
-The Foundation shall be a nonprofit corporation and shall have no capital stock. No part of its revenue earnings, or other income or property shall inure to the benefit of its directors, officers, and employees and such revenue, earnings, or other income, or property shall be used for the carrying out of the corporate purposes set forth in this section. No director, officer, or employee of the corporation shall in any manner directly or indirectly participate in the deliberation upon or the determination of any question affecting his personal interests or the interests of any corporation, partnership, or organization in which he is directly or indirectly interested.
+The Foundation shall be a nonprofit corporation and shall have no capital stock. No part of its revenue earnings, or other income or property shall inure to the benefit of its directors,officers, and employees and such revenue, earnings, or other income, or property shall be used for the carrying out of the corporate purposes set forth in this section. No director, officer, or employee of the corporation shall in any manner directly or indirectly participate in the deliberation upon or the determination of any question affecting his personal interests or the interests of any corporation, partnership, or organization in which he is directly or indirectly interested.
 
 #### (<i>o</i>) Personnel; service in foreign governments or agencies
 

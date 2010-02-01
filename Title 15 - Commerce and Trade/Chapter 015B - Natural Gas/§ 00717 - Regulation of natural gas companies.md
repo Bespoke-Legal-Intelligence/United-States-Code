@@ -50,7 +50,7 @@ Pub. L. 95–2, Feb. 2, 1977, 91 Stat. 4, authorized President to declare a natu
 
 #### Executive Order No. 11969
 
-Ex. Ord. No. 11969, Feb. 2, 1977, 42 F.R. 6791, as amended by Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, whichdelegated to the Secretary of Energy the authority vested in the President by the Emergency Natural Gas Act of 1977 except the authority to declare and terminate a natural gas emergency, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 11969, Feb. 2, 1977, 42 F.R. 6791, as amended by Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, which delegated to the Secretary of Energy the authority vested in the President by the Emergency Natural Gas Act of 1977 except the authority to declare and terminate a natural gas emergency, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
 #### Proclamation No. 4485
 

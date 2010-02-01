@@ -52,7 +52,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 &emsp;(A) Within 2 years after November 15, 1990, the State shall submit a revision to require that gasoline sold, supplied, offered for sale or supply, dispensed, transported or introduced into commerce in the larger of—
 
-&emsp;&emsp;(i) the Consolidated Metropolitan Statistical Area (as defined by the United StatesOffice of Management and Budget) (CMSA) in which the area is located, or
+&emsp;&emsp;(i) the Consolidated Metropolitan Statistical Area (as defined by the United States Office of Management and Budget) (CMSA) in which the area is located, or
 
 &emsp;&emsp;(ii) if the area is not located in a CMSA, the Metropolitan Statistical Area (as defined by the United States Office of Management and Budget) in which the area is located,
 

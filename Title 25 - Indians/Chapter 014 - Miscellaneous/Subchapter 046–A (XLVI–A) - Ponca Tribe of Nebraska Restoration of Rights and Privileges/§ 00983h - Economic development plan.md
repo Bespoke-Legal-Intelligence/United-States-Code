@@ -32,7 +32,7 @@ Any economic development plan established by the Secretary under subsection (a) 
 
 #### (d) Statement regarding individuals consulted, and testimony or comments received by Secretary
 
-The Secretary shall append to the economic development plan submitted to the Congress under subsection (a) of this section a detailed statement—
+The Secretary shall append to the economic development plan submitted to the Congressunder subsection (a) of this section a detailed statement—
 
 &emsp;(1) naming each individual consulted in accordance with subsection (b) of this section;
 

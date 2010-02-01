@@ -82,7 +82,7 @@ Notwithstanding any other provision of this chapter, the Secretary shall carry o
 
 #### (c) Eligibility determinations
 
-The Secretary shall establish procedures for annually determining the borrower's eligibility for income-based repayment, including verification of a borrower's annual income and the annual amount due on the total amount of loans made, insured, or guaranteed under part B or C\(other than an excepted PLUS loan or excepted consolidation loan), and such other procedures as are necessary to effectively implement income-based repayment under this section. The Secretary shall consider, but is not limited to, the procedures established in accordance with section 1087e(e)(1) of this title or in connection with income sensitive repayment schedules under section 1078(b)(9)(A)(iii) or 1078–3(b)(1)(E) of this title.
+The Secretary shall establish procedures for annually determining the borrower's eligibility for income-based repayment, including verification of a borrower's annual income and the annual amount due on the total amount of loans made, insured, or guaranteed under part B or C (other than an excepted PLUS loan or excepted consolidation loan), and such other procedures as are necessary to effectively implement income-based repayment under this section. The Secretary shall consider, but is not limited to, the procedures established in accordance with section 1087e(e)(1) of this title or in connection with income sensitive repayment schedules under section 1078(b)(9)(A)(iii) or 1078–3(b)(1)(E) of this title.
 
 #### (d) Special rule for married borrowers filing separately
 

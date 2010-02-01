@@ -46,7 +46,7 @@ Matters To Be Specified in Policy.—The policy on sexual harassment and sexual 
 
 &emsp;“(4) any other sanction authorized to be imposed in a substantiated case of sexual harassment or sexual violence involving a cadet or other Academy personnel in rape, acquaintance rape, or any other criminal sexual offense, whether forcible or nonforcible; and
 
-&emsp;“(5) required training on the policy for all cadets and other Academy personnel, including the specific training required for personnel who process allegations of sexual harassment or sexual violence involving Academy personnel.
+&emsp;“(5) required training on the policy for all cadets and other Academy personnel, including the specifictraining required for personnel who process allegations of sexual harassment or sexual violence involving Academy personnel.
 
 “(c)
 

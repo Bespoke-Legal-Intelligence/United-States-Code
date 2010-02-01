@@ -20,7 +20,7 @@ For the purpose of carrying out this section, the Secretary may combine NIAAA al
 
 The Secretary shall evaluate and report to the Congress on the activities of programs funded under this section at least every 5 years.
 
-(Pub. L. 94–437, title V, §513, as added Pub. L. 102–573, title V, §504, Oct. 29, 1992, 106 Stat. 4570;amended Pub. L. 105–362, title VI, §602(a), Nov. 10, 1998, 112 Stat. 3286.)
+(Pub. L. 94–437, title V, §513, as added Pub. L. 102–573, title V, §504, Oct. 29, 1992, 106 Stat. 4570; amended Pub. L. 105–362, title VI, §602(a), Nov. 10, 1998, 112 Stat. 3286.)
 
 #### Amendments
 

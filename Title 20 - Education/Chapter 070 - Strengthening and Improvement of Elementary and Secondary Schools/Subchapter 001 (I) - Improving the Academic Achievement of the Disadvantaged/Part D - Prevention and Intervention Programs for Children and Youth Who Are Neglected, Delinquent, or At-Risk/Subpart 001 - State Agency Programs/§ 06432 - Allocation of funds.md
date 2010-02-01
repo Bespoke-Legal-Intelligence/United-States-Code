@@ -58,7 +58,7 @@
 
 #### (c) Ratable reductions in case of insufficient appropriations
 
-If the amount appropriated for any fiscal year for subgrants under subsections (a) and (b) of this section is insufficient to pay the full amount for which all State agencies are eligible under such subsections, the Secretary shall ratably reduce each such amount.
+If the amount appropriated for any fiscal year for subgrants under subsections (a) and (b) ofthis section is insufficient to pay the full amount for which all State agencies are eligible under such subsections, the Secretary shall ratably reduce each such amount.
 
 (Pub. L. 89–10, title I, §1412, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1581.)
 

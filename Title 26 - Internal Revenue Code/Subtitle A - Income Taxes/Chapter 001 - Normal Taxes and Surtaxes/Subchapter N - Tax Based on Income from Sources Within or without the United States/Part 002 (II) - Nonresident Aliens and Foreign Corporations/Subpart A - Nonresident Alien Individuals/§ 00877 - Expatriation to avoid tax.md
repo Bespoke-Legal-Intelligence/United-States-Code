@@ -112,7 +112,7 @@ For purposes of subsection (b)—
 
 #### (C) Exception
 
-&emsp;&emsp;Subparagraph (A) shall not apply if the individual enters into an agreement with the Secretary which specifies that any income or gain derived from the property acquired in the exchange (or any other property which has a basis determined in whole or part by reference to such property) during such 10-year period shall be treated as from sources within the United States. If the property transferred in the exchange is disposed of by the person acquiring such property, such agreement shall terminate and any gain which was not recognized by reason of such agreement shall be recognized as of the date of such disposition.
+&emsp;&emsp;Subparagraph (A) shall not apply if the individual enters into an agreement with theSecretary which specifies that any income or gain derived from the property acquired in the exchange (or any other property which has a basis determined in whole or part by reference to such property) during such 10-year period shall be treated as from sources within the United States. If the property transferred in the exchange is disposed of by the person acquiring such property, such agreement shall terminate and any gain which was not recognized by reason of such agreement shall be recognized as of the date of such disposition.
 
 #### (D) Secretary may extend period
 
@@ -146,7 +146,7 @@ For purposes of subsection (b)—
 
 &emsp;&emsp;&emsp;(i) an individual losing United States citizenship contributes property during the 10-year period beginning on the date the individual loses United States citizenship to any corporation which, at the time of the contribution, is described in subparagraph (B), and
 
-&emsp;&emsp;&emsp;(ii) income derived from such property immediately before such contribution was from sources within the United States (or,if no income was so derived, would have been from such sources),
+&emsp;&emsp;&emsp;(ii) income derived from such property immediately before such contribution was from sources within the United States (or, if no income was so derived, would have been from such sources),
 
 > &emsp;&emsp;any income or gain on such property (or any other property which has a basis determined in whole or part by reference to such property) received or accrued by the corporation shall be treated as received or accrued directly by such individual and not by such corporation. The preceding sentence shall not apply to the extent the property has been treated under subparagraph (C) as having been sold by such corporation.
 
@@ -182,7 +182,7 @@ For purposes of subsection (b)—
 
 #### (2) Long-term resident
 
-&emsp;For purposes of this subsection, the term “long-term resident” means any individual (other than a citizen of the United States) who is a lawful permanent resident of the United States in at least 8 taxable years during the period of 15 taxable years ending with the taxable year during which the event described in subparagraph (A) or (B) of paragraph (1) occurs. For purposes of the preceding sentence, an individual shall not be treated as a lawful permanent resident for any taxable year if such individual is treated as a resident of a foreign country for the taxable year under the provisions of a tax treaty between the United States and the foreign country and does not waive the benefits of such treaty applicable to residents of the foreign country.
+&emsp;For purposes of this subsection, the term “long-term resident” means any individual (other than a citizen of the United States) whois a lawful permanent resident of the United States in at least 8 taxable years during the period of 15 taxable years ending with the taxable year during which the event described in subparagraph (A) or (B) of paragraph (1) occurs. For purposes of the preceding sentence, an individual shall not be treated as a lawful permanent resident for any taxable year if such individual is treated as a resident of a foreign country for the taxable year under the provisions of a tax treaty between the United States and the foreign country and does not waive the benefits of such treaty applicable to residents of the foreign country.
 
 #### (3) Special rules
 
@@ -210,7 +210,7 @@ If the Secretary establishes that it is reasonable to believe that an individual
 
 #### (1) In general
 
-&emsp;This section shall not apply to any individual to whom this section would otherwise apply for any taxable year during the 10-year period referred to in subsection (a) in which such individual is physically present in the United States at any time on more than 30 days in the calendar year ending in such taxable year, and such individual shall be treatedfor purposes of this title as a citizen or resident of the United States, as the case may be, for such taxable year.
+&emsp;This section shall not apply to any individual to whom this section would otherwise apply for any taxable year during the 10-year period referred to in subsection (a) in which such individual is physically present in the United States at any time on more than 30 days in the calendar year ending in such taxable year, and such individual shall be treated for purposes of this title as a citizen or resident of the United States, as the case may be, for such taxable year.
 
 #### (2) Exception
 
@@ -246,7 +246,7 @@ If the Secretary establishes that it is reasonable to believe that an individual
 
 This section shall not apply to any individual whose expatriation date (as defined in section 877A(g)(3)) is on or after the date of the enactment of this subsection.
 
-(Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098; Pub. L. 105–34, title XVI, §1602(g)(1)–(4), (h)(3), Aug. 5, 1997, 111 Stat. 1095, 1096; Pub. L. 108–357, title VIII, §804(a)(1), (2), (c), Oct. 22, 2004, 118 Stat. 1569, 1570; Pub. L. 109–135, title IV, §403(v)(1), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 110–245, title III, §301(c)(2)(A), (d), June 17, 2008, 122 Stat. 1646.)
+(Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098; Pub. L. 105–34, title XVI, §1602(g)(1)–(4), (h)(3), Aug. 5, 1997, 111 Stat. 1095, 1096; Pub. L. 108–357, title VIII, §804(a)(1), (2), (c),Oct. 22, 2004, 118 Stat. 1569, 1570; Pub. L. 109–135, title IV, §403(v)(1), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 110–245, title III, §301(c)(2)(A), (d), June 17, 2008, 122 Stat. 1646.)
 
 #### Inflation Adjusted Items for Certain Years
 

@@ -226,7 +226,7 @@ Initial date of availability.—Amounts authorized to be appropriated from the H
 
 &emsp;“(3)
 
-Contract authority.—Approval by the Secretary of a grant with funds made available undersubsection (d) imposes upon the United States a contractual obligation for payment of the Government's share of costs incurred in carrying out the objectives of the grant.”
+Contract authority.—Approval by the Secretary of a grant with funds made available under subsection (d) imposes upon the United States a contractual obligation for payment of the Government's share of costs incurred in carrying out the objectives of the grant.”
 
 #### Improved Flow of Driver History Pilot Program
 

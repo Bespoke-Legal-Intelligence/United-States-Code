@@ -18,7 +18,7 @@ Authorized Activities.—Activities for which funds may be provided under subsec
 
 &emsp;(5) Joint exercises (including activities of participating foreign countries).
 
-&emsp;(6) Humanitarian and civic assistance, to include urgent and unanticipated humanitarian relief and reconstruction assistance.
+&emsp;(6) Humanitarian and civic assistance, in coordination with the relevant chief of mission to the extent practicable, to include urgent and unanticipated humanitarian relief and reconstruction assistance.
 
 &emsp;(7) Military education and training to military and related civilian personnel of foreign countries (including transportation, translation, and administrative expenses).
 
@@ -46,7 +46,7 @@ Relationship to Other Funding.—Any amount provided by the Chairman of the Join
 
 Limitations.—(1) Of funds made available under this section for any fiscal year—
 
-&emsp;(A) not more than $10,000,000 may be used to purchase items with a unit cost in excess of $15,000;
+&emsp;(A) not more than $20,000,000 may be used to purchase items with a unit cost in excess of the investment unit cost threshold in effect under section 2245a of this title;
 
 &emsp;(B) not more than $10,000,000 may be used to pay for any expenses of foreign countries participating in joint exercises as authorized by subsection (b)(5); and
 
@@ -58,9 +58,13 @@ Limitations.—(1) Of funds made available under this section for any fiscal yea
 
 Inclusion of NORAD.—For purposes of this section, the Commander, United States Element, North American Aerospace Defense Command shall be considered to be a commander of a combatant command.
 
-(Added Pub. L. 102–190, div. A, title IX, §902(a), Dec. 5, 1991, 105 Stat. 1450; amended Pub. L. 102–396, title IX, §9128, Oct. 6, 1992, 106 Stat. 1935; Pub. L. 102–484, div. A, title IX, §934, Oct. 23, 1992, 106 Stat. 2477; Pub. L. 103–35, title II, §201(a), May 31, 1993, 107 Stat. 97; Pub. L. 105–85, div. A, title IX, §902, Nov. 18, 1997, 111 Stat. 1854; Pub. L. 108–136, div. A, title IX, §902(a)(2), (b), (c), Nov. 24, 2003, 117 Stat. 1558; Pub. L. 109–364, div. A, title IX, §902, Oct. 17, 2006, 120 Stat. 2351.)
+(Added Pub. L. 102–190, div. A, title IX, §902(a), Dec. 5, 1991, 105 Stat. 1450; amended Pub. L. 102–396, title IX, §9128, Oct. 6, 1992, 106 Stat. 1935; Pub. L. 102–484, div. A, title IX, §934, Oct. 23, 1992, 106 Stat. 2477; Pub. L. 103–35, title II, §201(a), May 31, 1993, 107 Stat. 97; Pub. L. 105–85, div. A, title IX, §902, Nov. 18, 1997, 111 Stat. 1854; Pub. L. 108–136, div. A, title IX, §902(a)(2), (b), (c), Nov. 24, 2003, 117 Stat. 1558; Pub. L. 109–364, div. A, title IX, §902, Oct. 17, 2006, 120 Stat. 2351; Pub. L. 111–84, div. A, title IX, §904, Oct. 28, 2009, 123 Stat. 2424.)
 
 #### Amendments
+
+2009—Subsec. (b)(6). Pub. L. 111–84, §904(b), inserted “in coordination with the relevant chief of mission to the extent practicable,” after “assistance,”.
+
+Subsec. (e)(1)(A). Pub. L. 111–84, §904(a), substituted “$20,000,000” for “$10,000,000” and “the investment unit cost threshold in effect under section 2245a of this title” for “$15,000”.
 
 2006—Subsec. (b)(6). Pub. L. 109–364, §902(a), substituted “civic assistance, to include urgent and unanticipated humanitarian relief and reconstruction assistance” for “civil assistance”.
 
@@ -68,7 +72,7 @@ Subsec. (c)(3). Pub. L. 109–364, §902(b), added par. (3).
 
 2003—Subsec. (a). Pub. L. 108–136, §902(a)(2), substituted “
 
-Combatant Commander Initiative Fund” for“
+Combatant Commander Initiative Fund” for “
 
 CINC Initiative Fund” in heading and “Combatant Commander Initiative Fund” for “CINC Initiative Fund” in first sentence.
 

@@ -16,7 +16,7 @@ Minor changes of phraseology were made.
 
 #### 1949 Act
 
-This section \[section 50\] strikes the second sentence of section 3240 of title 18, U.S.C., as unnecessary. Section “119” of title 28, U.S.C., referred to in such sentence, became section 1404 of title 28 upon its revision and enactment into positive law in 1948, but reference to the latter, in said section 3240 of title 18, U.S.C., is surplusage in view of rule 19 et seq. of the FederalRules of Criminal Procedure and the remainder of such section 3240.
+This section \[section 50\] strikes the second sentence of section 3240 of title 18, U.S.C., as unnecessary. Section “119” of title 28, U.S.C., referred to in such sentence, became section 1404 of title 28 upon its revision and enactment into positive law in 1948, but reference to the latter, in said section 3240 of title 18, U.S.C., is surplusage in view of rule 19 et seq. of the Federal Rules of Criminal Procedure and the remainder of such section 3240.
 
 #### Amendments
 

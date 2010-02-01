@@ -12,7 +12,7 @@ Any person who—
 
 #### (b) Loss causation
 
-In an action described in subsection (a)(2) of this section, if the person who offered or soldsuch security proves that any portion or all of the amount recoverable under subsection (a)(2) of this section represents other than the depreciation in value of the subject security resulting from such part of the prospectus or oral communication, with respect to which the liability of that person is asserted, not being true or omitting to state a material fact required to be stated therein or necessary to make the statement not misleading, then such portion or amount, as the case may be, shall not be recoverable.
+In an action described in subsection (a)(2) of this section, if the person who offered or sold such security proves that any portion or all of the amount recoverable under subsection (a)(2) of this section represents other than the depreciation in value of the subject security resulting from such part of the prospectus or oral communication, with respect to which the liability of that person is asserted, not being true or omitting to state a material fact required to be stated therein or necessary to make the statement not misleading, then such portion or amount, as the case may be, shall not be recoverable.
 
 (May 27, 1933, ch. 38, title I, §12, 48 Stat. 84; Aug. 10, 1954, ch. 667, title I, §9, 68 Stat. 686; Pub. L. 104–67, title I, §105, Dec. 22, 1995, 109 Stat. 757; Pub. L. 106–554, §1(a)(5) \[title II, §208(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–435.)
 

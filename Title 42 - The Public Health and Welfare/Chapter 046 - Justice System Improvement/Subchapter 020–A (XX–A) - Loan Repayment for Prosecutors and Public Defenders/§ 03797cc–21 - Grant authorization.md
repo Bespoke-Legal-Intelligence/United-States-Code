@@ -50,7 +50,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) A Federal Direct PLUS Loan made to the parents of a dependent student.
 
-&emsp;&emsp;&emsp;(iii) A loan made under section 428C or 455(g) of the Higher Education Act of 1965 (20 U.S.C. 1078–3 and 1087e(g)) to the extentthat such loan was used to repay a loan described in clause (i) or (ii).
+&emsp;&emsp;&emsp;(iii) A loan made under section 428C or 455(g) of the Higher Education Act of 1965 (20 U.S.C. 1078–3 and 1087e(g)) to the extent that such loan was used to repay a loan described in clause (i) or (ii).
 
 #### (c) Program authorized
 
@@ -146,7 +146,7 @@ Not later than one year after August 14, 2008, the Comptroller General shall con
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $25,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
+There are authorized to be appropriated to carry out this section $25,000,000 for fiscal year2009 and such sums as may be necessary for each of the five succeeding fiscal years.
 
 (Pub. L. 90–351, title I, §3001, as added Pub. L. 110–315, title IX, §952, Aug. 14, 2008, 122 Stat. 3470.)
 

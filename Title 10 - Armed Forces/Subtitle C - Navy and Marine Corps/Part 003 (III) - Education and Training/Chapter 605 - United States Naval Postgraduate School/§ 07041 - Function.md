@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 July 31, 1947, ch. 420, §1, 61 Stat. 705.
 
-The words “There is a” are substituted for the words “That the Secretary of the Navy is hereby authorized and directed to establish the”, as the PostgraduateSchool is in operation. The words “technical education” are substituted for the word “training” to describe more aptly the higher level of instruction at the Postgraduate School. The words “naval service” are substituted for the words “Regular Navy and Marine Corps and the reserve components thereof”. The word “their” is substituted for the words “of commissioned officers”.
+The words “There is a” are substituted for the words “That the Secretary of the Navy is hereby authorized and directed to establish the”, as the Postgraduate School is in operation. The words “technical education” are substituted for the word “training” to describe more aptly the higher level of instruction at the Postgraduate School. The words “naval service” are substituted for the words “Regular Navy and Marine Corps and the reserve components thereof”. The word “their” is substituted for the words “of commissioned officers”.
 
 #### Amendments
 

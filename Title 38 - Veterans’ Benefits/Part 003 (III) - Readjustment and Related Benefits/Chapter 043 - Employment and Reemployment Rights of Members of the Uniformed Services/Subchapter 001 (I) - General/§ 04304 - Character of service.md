@@ -14,7 +14,7 @@ A person's entitlement to the benefits of this chapter by reason of the service 
 
 #### Prior Provisions
 
-Prior sections 4304 to 4306 were omitted in the general amendment of this chapter by Pub. L. 103–353. Thosesections, as in effect on the day before Oct. 13, 1994, continue to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date under section 4301 of this title.
+Prior sections 4304 to 4306 were omitted in the general amendment of this chapter by Pub. L. 103–353. Those sections, as in effect on the day before Oct. 13, 1994, continue to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date under section 4301 of this title.
 
 Section 4304, added Pub. L. 93–508, title IV, §404(a), Dec. 3, 1974, 88 Stat. 1598, §2024; amended Pub. L. 94–286, §2, May 14, 1976, 90 Stat. 518; Pub. L. 94–502, title VI, §608(3), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 96–466, title V, §511, Oct. 17, 1980, 94 Stat. 2207; Pub. L. 99–576, title VII, §701(60), Oct. 28, 1986, 100 Stat. 3296; Pub. L. 102–12, §8(a)(1), (b)(1), Mar. 18, 1991, 105 Stat. 38; renumbered §4304 and amended Pub. L. 102–568, title V, §506(a), (c)(3), Oct. 29, 1992, 106 Stat. 4340, 4341, related to reemployment rights of persons who enlist in the Armed Forces or enter upon active duty.
 

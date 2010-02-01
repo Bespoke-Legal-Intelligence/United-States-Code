@@ -36,7 +36,7 @@ Congress makes the following findings:
 
 &emsp;(17) Traditional arms control efforts assume large state efforts with detectable manufacturing programs and weapons production programs, but are ineffective in monitoring and controlling smaller, though potentially more dangerous, unconventional proliferation efforts.
 
-&emsp;(18) Conventional counterproliferation efforts would do little to detect or prevent the rapid development of a capability to suddenly manufacture several hundred chemical or biological weapons with nothing but commercial supplies and equipment.
+&emsp;(18) Conventional counterproliferation efforts would do little to detect or prevent therapid development of a capability to suddenly manufacture several hundred chemical or biological weapons with nothing but commercial supplies and equipment.
 
 &emsp;(19) The United States lacks adequate planning and countermeasures to address the threat of nuclear, radiological, biological, and chemical terrorism.
 
@@ -64,7 +64,7 @@ Pub. L. 104–293, title VII, §701, Oct. 11, 1996, 110 Stat. 3470, provided tha
 
 Section 1401 of title XIV of div. A of Pub. L. 104–201 provided that: “This title \[enacting this chapter, section 382 of Title 10, Armed Forces, and sections 175a and 2332d of Title 18, Crimes and Criminal Procedure, amending section 1705 of this title, section 372 of Title 10, and provisions set out as a note under section 5955 of Title 22, Foreign Relations and Intercourse\] may be cited as the ‘Defense Against Weapons of Mass Destruction Act of 1996’.”
 
-Pub. L. 107–228, div. B, title XIII, §1331, Sept. 30, 2002, 116 Stat. 1448, provided that: “This subtitle \[subtitle C (§§1331–1339) of title XIII of div. B of Pub. L. 107–228, enacting subchapter IV–A of this chapter\] may be cited asthe ‘Nonproliferation Assistance Coordination Act of 2002’.”
+Pub. L. 107–228, div. B, title XIII, §1331, Sept. 30, 2002, 116 Stat. 1448, provided that: “This subtitle \[subtitle C (§§1331–1339) of title XIII of div. B of Pub. L. 107–228, enacting subchapter IV–A of this chapter\] may be cited as the ‘Nonproliferation Assistance Coordination Act of 2002’.”
 
 #### Utilization of Contributions to International Nuclear Materials Protection and Cooperation Program and Russian Plutonium Disposition Program
 
@@ -192,7 +192,7 @@ Initial Meeting of the Panel.—The panel shall conduct its first meeting not la
 
 Reports.—(1) Not later than 6 months after the date of the first meeting of the panel, the panel shall submit to the President and to Congress an initial report setting forth its findings, conclusions, and recommendations for improving Federal, State, and local domestic emergency preparedness to respond to incidents involving weapons of mass destruction.
 
-“(2) Not later than December 15 of each year, beginning in 1999 and ending in 2003, the panel shall submit to the President and to the Congress a report setting forth its findings, conclusions, and recommendations for improving Federal, State, and local domestic emergency preparedness to respond to incidents involving weapons of mass destruction.
+“(2) Not later than December 15 of each year, beginning in 1999 and ending in 2003, the panel shall submit to the President and to the Congress a report settingforth its findings, conclusions, and recommendations for improving Federal, State, and local domestic emergency preparedness to respond to incidents involving weapons of mass destruction.
 
 “(i)
 

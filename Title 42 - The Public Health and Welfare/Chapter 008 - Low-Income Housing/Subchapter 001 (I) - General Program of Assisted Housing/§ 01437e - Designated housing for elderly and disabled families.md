@@ -120,11 +120,11 @@ Subsec. (a)(2). Pub. L. 104–99, which directed the temporary amendment of par.
 
 1988—Pub. L. 100–242 struck out “annual” before “contributions” in proviso.
 
-1978—Pub. L. 95–557 substituted “(1) low-rent housing which, as of January 1, 1979, was built or under construction, with which there is connected a central dining facility where wholesome and economical meals can be served to such occupants; or (2) low-rent housing constructed after, but not under construction prior to, January 1, 1979, connected with which there is a central dining facility to provide wholesome and economical meals for such occupants. Such occupants of congregate housing may also be provided with other supportive services appropriate to their needs under title IV of the Housing and Community Development Amendments of 1978” for “low-income housing (A) in which some or all of the dwelling units do not have kitchen facilities, and (B) connected with which there is a central dining facility to provide wholesome and economical meals for elderly and displaced families under terms and conditions prescribed by the public housing agency to permit a generally self-supporting operation”.
+1978—Pub. L. 95–557 substituted “(1) low-rent housing which, as of January 1, 1979, was built or under construction, with which there is connected a central dining facility where wholesome and economical meals can be served to such occupants; or (2) low-rent housing constructed after, but not under construction prior to, January 1, 1979, connected with which there is a central dining facility to provide wholesome and economical meals for such occupants. Such occupants of congregate housing may also be provided with other supportive services appropriate to their needs under title IV of the Housing and Community DevelopmentAmendments of 1978” for “low-income housing (A) in which some or all of the dwelling units do not have kitchen facilities, and (B) connected with which there is a central dining facility to provide wholesome and economical meals for elderly and displaced families under terms and conditions prescribed by the public housing agency to permit a generally self-supporting operation”.
 
 #### Effective and Termination Dates of 1996 Amendments
 
-Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
 
 Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 1995, notwithstanding the effective date of any regulations issued by Secretary of Housing and Urban Development to implement amendments by sections 9 and 10 of Pub. L. 104–120 or any failure by Secretary to issue any such regulations, see section 13 of Pub. L. 104–120, set out as a note under section 1437d of this title.
 
@@ -137,8 +137,6 @@ Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102�
 #### Inapplicability of Certain 1992 Amendments to Indian Public Housing
 
 Amendment by Pub. L. 102–550 not applicable with respect to lower income housing developed or operated pursuant to contract between Secretary of Housing and Urban Development and Indian housing authority, see section 626 of Pub. L. 102–550, set out as a note under section 1437a of this title.
-
-f
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

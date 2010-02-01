@@ -60,7 +60,7 @@ In this section, the term “Restricted Data” has the meaning given that term 
 
 #### References in Text
 
-Executive Order No. 12958, referred to in subsec. (f)(2), is set out as a note under section 435 of this title.
+Executive Order No. 12958, referred to in subsecs. (a), (b)(1), and (f), which was formerly set out as a note under section 435 of this title, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 #### Codification
 
@@ -68,19 +68,19 @@ Section was formerly set out as a note under section 435 of this title prior to 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (e). Pub. L. 110–417, §3121(a)(1), (b), substituted “in each even-numbered year” for “on a periodic basis” and “subsection (b)(5)” for “subsection (b)(4)”.
+2008—Subsec. (e). Pub. L. 110–417, §3121(a)(1), (b), substituted “in each even-numbered year” for “on a periodic basis” and “subsection (b)(5)” for “subsection (b)(4)”.
 
 Subsec. (f). Pub. L. 110–417, §3123(a)(2), added par. (2) and struck out former par. (2) which read as follows: “Commencing with inadvertent releases discovered on or after October 30, 2000, the Secretary of Energy shall, on a quarterly basis, submit a report to the committees and Assistant to the President specified in subsection (d). The report shall state whether any inadvertent releases described in paragraph (1) occurred during the immediately preceding quarter and, if so, shall identify each such release.”
 
-<b>2003</b>—Subsec. (c)(1). Pub. L. 108–136, §3141(h)(12)(D)(i), substituted “October 17, 1998,” for “the date of the enactment of this Act”.
+2003—Subsec. (c)(1). Pub. L. 108–136, §3141(h)(12)(D)(i), substituted “October 17, 1998,” for “the date of the enactment of this Act”.
 
 Subsec. (f)(1). Pub. L. 108–136, §3141(h)(12)(D)(ii), substituted “October 17, 1998” for “the date of the enactment of this Act”.
 
 Subsec. (f)(2). Pub. L. 108–136, §3141(h)(12)(D)(iii), substituted “Commencing with inadvertent releases discovered on or after October 30, 2000, the Secretary” for “The Secretary”.
 
-<b>2000</b>—Subsec. (f)(2). Pub. L. 106–398 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Not later than 30 days after any such inadvertent release occurring after the date of the enactment of this Act, the Secretary of Energy shall notify the committees and Assistant to the President specified in subsection (d) of such releases.”
+2000—Subsec. (f)(2). Pub. L. 106–398 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Not later than 30 days after any such inadvertent release occurring after the date of the enactment of this Act, the Secretary of Energy shall notify the committees and Assistant to the President specified in subsection (d) of such releases.”
 
-<b>1999</b>—Subsec. (d)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+1999—Subsec. (d)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
 #### Effective Date of 2000 Amendment
 

@@ -10,7 +10,7 @@ The Public Health Service in the Department of Health and Human Services shall b
 
 #### Transfer of Functions
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretaryand Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### International Health Administration
 
@@ -62,7 +62,7 @@ I transmit herewith Reorganization Plan No. 3 of 1966, prepared in accordance wi
 
 #### I
 
-Today we face new challenges and unparalleled opportunities in the field of health. Building on the progress of the past several years, we have truly begun to match the achievements of our medicine to the needs of our people.
+Today we face new challenges and unparalleled opportunities in the field of health. Building on theprogress of the past several years, we have truly begun to match the achievements of our medicine to the needs of our people.
 
 The task ahead is immense. As a nation, we will unceasingly pursue our research and learning, our training and building, our testing and treatment. But now our concern must also turn to the organization of our Federal health programs.
 

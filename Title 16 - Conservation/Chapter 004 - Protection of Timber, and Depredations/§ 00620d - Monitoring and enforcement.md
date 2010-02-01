@@ -108,7 +108,7 @@ Contractural <sup>1</sup> remedies.—In the case of a minor violation of secti
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;No person may be debarred from bidding for or entering into a contract for the purchase of unprocessed timber from Federal lands under subparagraph (A) unless the head of the appropriate Federal department or agency first finds, on the record and after an opportunity for a hearing, that debarment is warranted.
+&emsp;&emsp;&emsp;No person may be debarred from bidding for or entering into a contract for the purchase of unprocessed timber from Federal lands under subparagraph (A) unless the head of the appropriate Federal department or agency first finds, on the recordand after an opportunity for a hearing, that debarment is warranted.
 
 #### (ii) Withholding of awards during debarment proceedings
 

@@ -10,6 +10,10 @@ To the maximum extent practicable, the Secretary shall reserve not less than 50 
 
 (Pub. L. 100–77, title IV, §452, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4367; amended Pub. L. 102–550, title XIV, §1406(g)(2), Oct. 28, 1992, 106 Stat. 4034.)
 
+#### Repeal of Section
+
+<i>Pub. L. 111–22, div. B, title V, §§1501, 1503, May 20, 2009, 123 Stat. 1701, 1702, provided that, effective on, and applicable beginning on, the earlier of the expiration of the 18-month period beginning on May 20, 2009, or the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 of Pub. L. 111–22, this section is repealed.</i>
+
 #### Amendments
 
 1992—Subsec. (a). Pub. L. 102–550 substituted “IV, and V” for “and IV”.

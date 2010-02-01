@@ -2,7 +2,7 @@
 
 #### (a) General authorization; uses of funds
 
-From amounts available under section 1068h(a)(2) of this title in any fiscal year the Secretary shall make grants (under section 1063 of this title) to institutions which have applications approved by the Secretary (under section 1063a of this title) for any of the following uses:
+From amounts available under section 1068h(a)(2) of this title for any fiscal year, the Secretary shall make grants (under section 1063 of this title) to institutions which have applications approved by the Secretary (under section 1063a of this title) for any of the following uses:
 
 &emsp;(1) Purchase, rental, or lease of scientific or laboratory equipment for educational purposes, including instructional and research purposes.
 
@@ -58,7 +58,7 @@ From amounts available under section 1068h(a)(2) of this title in any fiscal yea
 
 (2) Not more than 50 percent of the allotment of any institution may be available for the purpose of constructing or maintaining a classroom, library, laboratory, or other instructional facility.
 
-(Pub. L. 89–329, title III, §323, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1295; amended Pub. L. 100–50, §2(a)(7), June 3, 1987, 101 Stat. 335; Pub. L. 100–369, §10(b), July 18, 1988, 102 Stat. 838; Pub. L. 102–325, title III, §303(a), (b), July 23, 1992, 106 Stat. 474, 475; Pub.L. 103–208, §2(a)(8), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 105–244, title III, §304(a), Oct. 7, 1998, 112 Stat. 1642; Pub. L. 110–315, title III, §309, Aug. 14, 2008, 122 Stat. 3177.)
+(Pub. L. 89–329, title III, §323, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1295; amended Pub. L. 100–50, §2(a)(7), June 3, 1987, 101 Stat. 335; Pub. L. 100–369, §10(b), July 18, 1988, 102 Stat. 838; Pub. L. 102–325, title III, §303(a), (b), July 23, 1992, 106 Stat. 474, 475; Pub. L. 103–208, §2(a)(8), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 105–244, title III, §304(a), Oct. 7, 1998, 112 Stat. 1642; Pub. L. 110–315, title III, §309, Aug. 14, 2008, 122 Stat. 3177; Pub. L. 111–39, title III, §301(3), July 1, 2009, 123 Stat. 1937.)
 
 #### References in Text
 
@@ -71,6 +71,8 @@ A prior section 1062, Pub. L. 89–329, title III, §323, as added Pub. L. 96–
 Another prior section 1062, Pub. L. 89–329, title IV, §402, Nov. 8, 1965, 79 Stat. 1232; Pub. L. 90–575, title I, §102, Oct. 16, 1968, 82 Stat. 1017, related to determination of amount of grant and establishment of basic criteria or schedules, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–39 substituted “for any fiscal year,” for “in any fiscal year” in introductory provisions.
 
 2008—Subsec. (a). Pub. L. 110–315, §309(1), substituted “section 1068h(a)(2)” for “section 1069f(a)(2)” in introductory provisions.
 
@@ -95,6 +97,10 @@ Subsec. (b)(3). Pub. L. 102–325, §303(b), added par. (3).
 Subsec. (a)(7), (8). Pub. L. 100–369, §10(b)(2), added pars. (7) and (8).
 
 1987—Subsec. (a). Pub. L. 100–50 substituted “section 1069f(a)(2) of this title” for “section 1069d(a)(2) of this title”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1998 Amendment
 

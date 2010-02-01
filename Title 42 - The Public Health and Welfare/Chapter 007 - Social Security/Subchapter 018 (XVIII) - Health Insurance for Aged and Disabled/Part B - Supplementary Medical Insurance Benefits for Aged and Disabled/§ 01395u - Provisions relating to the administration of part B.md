@@ -172,7 +172,7 @@ The administration of this part shall be conducted through contracts with medica
 
 (B) The Secretary may make a determination under this subparagraph that would result in an increase or decrease under subparagraph (A) of more than 15 percent of the payment amount for a year, but only if—
 
-&emsp;(i) the Secretary's determination takes into account the factors described in subparagraph (C) and any additional factors the Secretary determines appropriate,
+&emsp;(i) the Secretary's determination takes into account the factors described in subparagraph\(C) and any additional factors the Secretary determines appropriate,
 
 &emsp;(ii) the Secretary's determination takes into account the potential impacts described in subparagraph (D), and
 
@@ -234,7 +234,7 @@ The administration of this part shall be conducted through contracts with medica
 
 (B)(i) In determining the reasonable charge under paragraph (3) for a cataract surgical procedure, subject to clause (ii), the prevailing charge for such procedure otherwise recognized for participating and nonparticipating physicians shall be reduced by 10 percent with respect to procedures performed in 1987.
 
-(ii) In no case shall the reduction under clause (i) for a surgical procedure result in a prevailing charge in a locality for a year which is less than 75 percent of the weighted national average of such prevailing charges for such procedure for all the localities in the United States for 1986.
+(ii) In no case shall the reduction under clause (i) for a surgical procedure result in a prevailingcharge in a locality for a year which is less than 75 percent of the weighted national average of such prevailing charges for such procedure for all the localities in the United States for 1986.
 
 (C)(i) The prevailing charge level determined with respect to A-mode ophthalmic ultrasound procedures may not exceed 5 percent of the prevailing charge level established with respect to extracapsular cataract removal with lens insertion.
 
@@ -278,9 +278,9 @@ The administration of this part shall be conducted through contracts with medica
 
 &emsp;(iv) The geographic practice cost index value specified in this clause for a locality is the Geographic Overhead Costs Index specified for the locality in table 1 of the September 1989 Supplement to the Geographic Medicare Economic Index: Alternative Approaches (prepared by the Urban Institute and the Center for Health Economics Research).
 
-(D) In the case of a reduction in the prevailing charge for a physicians’ service under subparagraph (A), if a nonparticipating physician furnishes the service to an individual entitled to benefits under this part, after the effective date of such reduction, the physician's actual charge is subject to a limit under subsection (j)(1)(D) of this section.
+(D) In the case of a reduction in the prevailing charge for a physicians’ service under subparagraph (A), if a nonparticipating physician furnishes the service to an individual entitled to benefits under this part, after the effective date of such reduction, the physician's actual chargeis subject to a limit under subsection (j)(1)(D) of this section.
 
-(15)(A) In determining the reasonable charge for surgery, radiology, and diagnostic physicians’ services which the Secretary shall designate (based on their high volume of expenditures under this part) and for which the prevailing charge (but for this paragraph) differs by physician specialty, the prevailing charge for such a service may not exceed the prevailing charge or fee schedule amount for that specialtyof physicians that furnish the service most frequently nationally.
+(15)(A) In determining the reasonable charge for surgery, radiology, and diagnostic physicians’ services which the Secretary shall designate (based on their high volume of expenditures under this part) and for which the prevailing charge (but for this paragraph) differs by physician specialty, the prevailing charge for such a service may not exceed the prevailing charge or fee schedule amount for that specialty of physicians that furnish the service most frequently nationally.
 
 (B) In the case of a reduction in the prevailing charge for a physician's service under subparagraph (A), if a nonparticipating physician furnishes the service to an individual entitled to benefits under this part, after the effective date of the reduction, the physician's actual charge is subject to a limit under subsection (j)(1)(D) of this section.
 
@@ -332,7 +332,7 @@ The administration of this part shall be conducted through contracts with medica
 
 (B) In this paragraph:
 
-&emsp;(i) The term “clean claim” means a claim that has no defect or impropriety (including any lack of any required substantiating documentation) or particular circumstance requiring special treatment that prevents timely payment from being made on the claim under this part.
+&emsp;(i) The term “clean claim” means a claim that has no defect or impropriety (includingany lack of any required substantiating documentation) or particular circumstance requiring special treatment that prevents timely payment from being made on the claim under this part.
 
 &emsp;(ii) The term “applicable number of calendar days” means—
 
@@ -422,7 +422,7 @@ For purposes of this subchapter:
 
 &emsp;(3) The term “percentage increase in the MEI” means, with respect to physicians’ services furnished in a year, the percentage increase in the medicare economic index (referred to in the fourth sentence of subsection (b)(3) of this section) applicable to such services furnished as of the first day of that year.
 
-&emsp;(4) The term “primary care services” means physicians’ services which constitute office medical services, emergency department services, home medical services, skilled nursing, intermediate care, and long-term care medical services, or nursing home, boarding home, domiciliary, or custodial care medical services.
+&emsp;(4) The term “primary care services” means physicians’ services which constitute officemedical services, emergency department services, home medical services, skilled nursing, intermediate care, and long-term care medical services, or nursing home, boarding home, domiciliary, or custodial care medical services.
 
 #### (j) Monitoring of charges of nonparticipating physicians; sanctions; restitution
 
@@ -462,7 +462,7 @@ For purposes of this subchapter:
 
 (ix) If there is a reduction under subsection (b)(13) of this section in the reasonable charge for medical direction furnished by a nonparticipating physician, the maximum allowable actual charge otherwise permitted under this subsection for such services shall be reduced in the same manner and in the same percentage as the reduction in such reasonable charge.
 
-(D)(i) If an action described in clause (ii) results in a reduction in a reasonable charge for a physicians’ service or item and a nonparticipating physician furnishes the service or item to an individual entitled to benefits under this part after the effective date of such action, the physician may not charge the individual more than 125 percent of the reduced payment allowance (as defined in clause (iii)) plus (for services or items furnished during the 12-month period (or 9-month period in the case of an action described in clause (ii)(II)) beginning on the effective date of the action) 1/2 of the amount bywhich the physician's maximum allowable actual charge for the service or item for the previous 12-month period exceeds such 125 percent level.
+(D)(i) If an action described in clause (ii) results in a reduction in a reasonable charge for aphysicians’ service or item and a nonparticipating physician furnishes the service or item to an individual entitled to benefits under this part after the effective date of such action, the physician may not charge the individual more than 125 percent of the reduced payment allowance (as defined in clause (iii)) plus (for services or items furnished during the 12-month period (or 9-month period in the case of an action described in clause (ii)(II)) beginning on the effective date of the action) 1/2 of the amount by which the physician's maximum allowable actual charge for the service or item for the previous 12-month period exceeds such 125 percent level.
 
 (ii) The first sentence of clause (i) shall apply to—
 
@@ -526,7 +526,7 @@ For purposes of this subchapter:
 
 (B) A refund under subparagraph (A) is considered to be on a timely basis only if—
 
-&emsp;(i) in the case of a physician who does not request reconsideration or seek appeal on a timely basis, the refund is made within 30 daysafter the date the physician receives a denial notice under paragraph (2), or
+&emsp;(i) in the case of a physician who does not request reconsideration or seek appeal on a timely basis, the refund is made within 30 days after the date the physician receives a denial notice under paragraph (2), or
 
 &emsp;(ii) in the case in which such a reconsideration or appeal is taken, the refund is made within 15 days after the date the physician receives notice of an adverse determination on reconsideration or appeal.
 
@@ -730,7 +730,7 @@ Each request for payment, or bill submitted, for an item or service furnished to
 
 Each request for payment, or bill submitted, for a drug furnished to an individual for the treatment of anemia in connection with the treatment of cancer shall include (in a form and manner specified by the Secretary) information on the hemoglobin or hematocrit levels for the individual.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1842, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 309; amended Pub. L. 90–248, title I, §§125(a), 154(d), Jan. 2, 1968, 81 Stat. 845, 863; Pub. L. 92–603, title II, §§211(c)(3), 224(a), 227(e)(3), 236(a), 258(a), 262(a), 263(d)(5), 281(d), Oct. 30, 1972, 86 Stat. 1384, 1395, 1407, 1414, 1447–1449, 1455; Pub. L. 93–445, title III, §307, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 94–182, title I, §101(a), Dec. 31, 1975, 89 Stat. 1051; Pub. L. 94–368, §§2, 3(a), (b), July 16, 1976, 90 Stat. 997; Pub. L. 95–142, §2(a)(1), Oct. 25, 1977, 91 Stat. 1175; Pub. L. 95–216, title V, §501(b), Dec. 20, 1977, 91 Stat. 1565; Pub. L. 96–499, title IX, §§918(a)(1), 946(a), (b), 948(b), Dec. 5, 1980, 94 Stat. 2625, 2642, 2643; Pub. L. 97–35, title XXI, §2142(b), Aug. 13, 1981, 95 Stat. 798; Pub. L. 97–248, title I, §§104(a), 113(a), 128(d)(1), Sept. 3, 1982, 96 Stat. 336, 340, 367; Pub. L. 98–369, div. B, title III, §§2303(e), 2306(a), (b)(1), (c), 2307(a)(1), (2), 2326(c)(2), (d)(2), 2339, 2354(b)(13), (14), title VI, 2663(j)(2)(F)(iv), July 18, 1984, 98 Stat. 1066, 1070, 1071, 1073, 1087, 1088, 1093, 1101, 1170; Pub. L. 98–617, §3(a)(1), (b)(5), (6), Nov. 8, 1984, 98 Stat. 3295, 3296; Pub. L. 99–272, title IX, §§9219(b)(1)(A), (2)(A), 9301(b)(1), (2), (c)(2)–(4), (d)(1)–(3), 9304(a), 9306(a), 9307(c), Apr. 7, 1986, 100 Stat. 182–188, 190, 193, 194; Pub. L. 99–509, title IX, §§9307(c)(2)(A), 9311(c), 9320(e)(3), 9331(a)(1)–(3), (b)(1)–(3), (c)(3)(A), 9332(a)(1), (b)(1), (2), (c)(1), (d)(1), 9333(a), (b), 9334(a), 9338(b), (c), 9341(a)(2), Oct. 21, 1986, 100 Stat. 1995, 1998, 2015, 2018–2026, 2028, 2035, 2038; Pub. L. 99–514, title XVIII, §1895(b)(14)(A), (15), (16)(A), Oct. 22, 1986, 100 Stat. 2934; Pub. L. 100–93, §8(c)(2), Aug. 18, 1987, 101 Stat. 692; Pub. L. 100–203, title IV, §§4031(a)(2), 4035(a)(2), 4041(a)(1), (3)(A), 4042(a), (b)(1), (2)(A), (c), 4044(a), 4045(a), (c)(1), (2)(B), (D), 4046(a), 4047(a), 4048(a), (e), 4051(a), 4053(a), formerly 4052(a), 4054(a), formerly 4053(a), 4063(a), 4081(a), 4082(c), 4085(g)(1), (i)(5)–(7), (22)(C), (24)–(27), 4096(a)(1), Dec. 22, 1987, 101 Stat. 1330–76, 1330–78, 1330–83 to 1330–89, 1330–93, 1330–97, 1330–109, 1330–126, 1330–128, 1330–131, 1330–132, 1330–139, as amended Pub. L. 100–360, title IV, §411(f)(1)(A), (2)(C), (D), (F), (3)(A), (4)(B), (7)(B), (11)(A), (14), (g)(2)(C), (i)(2), (4)(C)(vi), (j)(4)(A), July 1, 1988, 102 Stat. 776–779, 781, 783, 788, 789, 791; Pub. L. 100–360, title II, §§201(c), 202(c)(1), (e)(1)–(3)(A), (C), (4)(A), (5), (g), 223(b), (c), title IV, §411(a)(3)(A), (C)(i), (f)(1)(B), (2)(A), (B), (E), (3)(B), (4)(A), (C), (5), (6)(B), (7)(A), (9), (g)(2)(A), (B), (i)(1)(A), July 1, 1988, 102 Stat. 702, 713, 716–718, 747, 768, 776–780, 783, 787; Pub. L. 100–485, title VI, §608(d)(5)(A)–(D), (F)–(H), (17), (21)(A), (B), (D), (24)(B), Oct. 13, 1988, 102 Stat. 2414, 2418, 2420, 2421; Pub. L. 101–234, title II, §201(a), title III, §301(b)(2), (6), (c)(2), (d)(3), Dec. 13, 1989, 103 Stat. 1981, 1985, 1986; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(ix), 6102(b), (e)(2)–(4), (9), 6104, 6106(a), 6107(b), 6108(a)(1), (b)(1), (2), 6114(b), (c), 6202(d)(2), Dec. 19, 1989, 103 Stat. 2153, 2184, 2187, 2188, 2208, 2210, 2212, 2213, 2218, 2234; Pub. L. 101–508, title IV, §§4101(a), (b)(1), 4103, 4105(a)(1), (2), (b)(1), 4106(a)(1), (b)(2), 4108(a), 4110(a), 4118(a)(1), (2), (f)(2)(A)–(C), (i)(1), (j)(2), 4155(c), Nov. 5, 1990, 104 Stat. 1388–54, 1388–58 to 1388–63, 1388–66, 1388–67,1388–69 to 1388–71, 1388–87; Pub. L. 101–597, title IV, §401(c)(2), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–66, title XIII, §§13515(a)(2), 13516(a)(2), 13517(b), 13568(a), (b), Aug. 10, 1993, 107 Stat. 583–585, 608; Pub. L. 103–432, title I, §§123(b)(1), (2)(B), (c), 125(a), (b)(1), 126(a)(1), (c), (e), (g)(9), (h)(2), 135(b)(2), 151(b)(1)(B), (2)(B), Oct. 31, 1994, 108 Stat. 4411–4416, 4423, 4434; Pub. L. 104–191, title II, §§202(b)(2), 221(b), Aug. 21, 1996, 110 Stat. 1998, 2011; Pub. L. 105–33, title IV, §§4201(c)(1), 4205(d)(3)(B), 4302(b), 4315(a), 4316(a), 4317(a), (b), 4432(b)(2), (4), 4512(b)(2), (c), 4531(a)(2), 4556(a), 4603(c)(2)(B)(i), 4611(d), Aug. 5, 1997, 111 Stat. 373, 377, 382, 390, 392, 421, 444, 450, 462, 471, 473; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §223(c), title III, §§305(a), 321(k)(4)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–353, 1501A–361, 1501A–366; Pub. L. 106–554, §1(a)(6) \[title I, §§105(d), 114(a), title II, §222(a), title III, §313(b)(1), (2), title IV, §432(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–472, 2763A–473, 2763A–487, 2763A–499, 2763A–526; Pub. L. 108–173, title III, §§302(d)(3), 303(b), (e), (g)(1), (i)(1), 305(a), title VI, §627(b)(2), title VII, §736(b)(8), (9), title IX, §§911(c), 952(a), (b), Dec. 8, 2003, 117 Stat. 2233, 2238, 2252–2255, 2321, 2356, 2383, 2427; Pub. L. 109–171, title V, §§5114(a)(2), 5202(a)(2), Feb. 8, 2006, 120 Stat. 45, 47; Pub. L. 109–432, div. B, title I, §110(a), title II, §205(b)(2), title IV, §405(c)(2)(A)(i), Dec. 20, 2006, 120 Stat. 2985, 2989, 2999; Pub. L. 110–54, §1(a), Aug. 3, 2007, 121 Stat. 551; Pub. L. 110–173, title I, §116, Dec. 29, 2007, 121 Stat. 2507; Pub. L. 110–275, title I, §§137, 154(a)(2)(B), July 15, 2008, 122 Stat. 2540, 2563.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1842, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 309; amended Pub. L. 90–248, title I, §§125(a), 154(d), Jan. 2, 1968, 81 Stat. 845, 863; Pub. L. 92–603, title II, §§211(c)(3), 224(a), 227(e)(3), 236(a), 258(a), 262(a), 263(d)(5), 281(d), Oct. 30, 1972, 86 Stat. 1384, 1395, 1407, 1414, 1447–1449, 1455; Pub. L. 93–445, title III, §307, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 94–182, title I, §101(a), Dec. 31, 1975, 89 Stat. 1051; Pub. L. 94–368, §§2, 3(a), (b), July 16, 1976, 90 Stat. 997; Pub. L. 95–142, §2(a)(1), Oct. 25, 1977, 91 Stat. 1175; Pub. L. 95–216, title V, §501(b), Dec. 20, 1977, 91 Stat. 1565; Pub. L. 96–499, title IX, §§918(a)(1), 946(a), (b), 948(b), Dec. 5, 1980, 94 Stat. 2625, 2642, 2643; Pub. L. 97–35, title XXI, §2142(b), Aug. 13, 1981, 95 Stat. 798; Pub. L. 97–248, title I, §§104(a), 113(a), 128(d)(1), Sept. 3, 1982, 96 Stat. 336, 340, 367; Pub. L. 98–369, div. B, title III, §§2303(e), 2306(a), (b)(1), (c), 2307(a)(1), (2), 2326(c)(2), (d)(2), 2339, 2354(b)(13), (14), title VI, 2663(j)(2)(F)(iv), July 18, 1984, 98 Stat. 1066, 1070, 1071, 1073, 1087, 1088, 1093, 1101, 1170; Pub. L. 98–617, §3(a)(1), (b)(5), (6), Nov. 8, 1984, 98 Stat. 3295, 3296; Pub. L. 99–272, title IX, §§9219(b)(1)(A), (2)(A), 9301(b)(1), (2), (c)(2)–(4), (d)(1)–(3), 9304(a), 9306(a), 9307(c), Apr. 7, 1986, 100 Stat. 182–188, 190, 193, 194; Pub. L. 99–509, title IX, §§9307(c)(2)(A), 9311(c), 9320(e)(3), 9331(a)(1)–(3), (b)(1)–(3), (c)(3)(A), 9332(a)(1), (b)(1), (2), (c)(1), (d)(1), 9333(a), (b), 9334(a), 9338(b), (c), 9341(a)(2), Oct. 21, 1986, 100 Stat. 1995, 1998, 2015, 2018–2026, 2028, 2035, 2038; Pub. L. 99–514, title XVIII, §1895(b)(14)(A), (15), (16)(A), Oct. 22, 1986, 100 Stat. 2934; Pub. L. 100–93, §8(c)(2), Aug. 18, 1987, 101 Stat. 692; Pub. L. 100–203, title IV, §§4031(a)(2), 4035(a)(2), 4041(a)(1), (3)(A), 4042(a), (b)(1), (2)(A), (c), 4044(a), 4045(a), (c)(1), (2)(B), (D), 4046(a), 4047(a), 4048(a), (e), 4051(a), 4053(a), formerly 4052(a), 4054(a), formerly 4053(a), 4063(a), 4081(a), 4082(c), 4085(g)(1), (i)(5)–(7), (22)(C), (24)–(27), 4096(a)(1), Dec. 22, 1987, 101 Stat. 1330–76, 1330–78, 1330–83 to 1330–89, 1330–93, 1330–97, 1330–109, 1330–126, 1330–128, 1330–131, 1330–132, 1330–139, as amended Pub. L. 100–360, title IV, §411(f)(1)(A), (2)(C), (D), (F), (3)(A), (4)(B), (7)(B), (11)(A), (14), (g)(2)(C), (i)(2), (4)(C)(vi), (j)(4)(A), July 1, 1988, 102 Stat. 776–779, 781, 783, 788, 789, 791; Pub. L. 100–360, title II, §§201(c), 202(c)(1), (e)(1)–(3)(A), (C), (4)(A), (5), (g), 223(b), (c), title IV, §411(a)(3)(A), (C)(i), (f)(1)(B), (2)(A), (B), (E), (3)(B), (4)(A), (C), (5), (6)(B), (7)(A), (9), (g)(2)(A), (B), (i)(1)(A), July 1, 1988, 102 Stat. 702, 713, 716–718, 747, 768, 776–780, 783, 787; Pub. L. 100–485, title VI, §608(d)(5)(A)–(D), (F)–(H), (17), (21)(A), (B), (D), (24)(B), Oct. 13, 1988, 102 Stat. 2414, 2418, 2420, 2421; Pub. L. 101–234, title II, §201(a), title III, §301(b)(2), (6), (c)(2), (d)(3), Dec. 13, 1989, 103 Stat. 1981, 1985,1986; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(ix), 6102(b), (e)(2)–(4), (9), 6104, 6106(a), 6107(b), 6108(a)(1), (b)(1), (2), 6114(b), (c), 6202(d)(2), Dec. 19, 1989, 103 Stat. 2153, 2184, 2187, 2188, 2208, 2210, 2212, 2213, 2218, 2234; Pub. L. 101–508, title IV, §§4101(a), (b)(1), 4103, 4105(a)(1), (2), (b)(1), 4106(a)(1), (b)(2), 4108(a), 4110(a), 4118(a)(1), (2), (f)(2)(A)–(C), (i)(1), (j)(2), 4155(c), Nov. 5, 1990, 104 Stat. 1388–54, 1388–58 to 1388–63, 1388–66, 1388–67, 1388–69 to 1388–71, 1388–87; Pub. L. 101–597, title IV, §401(c)(2), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–66, title XIII, §§13515(a)(2), 13516(a)(2), 13517(b), 13568(a), (b), Aug. 10, 1993, 107 Stat. 583–585, 608; Pub. L. 103–432, title I, §§123(b)(1), (2)(B), (c), 125(a), (b)(1), 126(a)(1), (c), (e), (g)(9), (h)(2), 135(b)(2), 151(b)(1)(B), (2)(B), Oct. 31, 1994, 108 Stat. 4411–4416, 4423, 4434; Pub. L. 104–191, title II, §§202(b)(2), 221(b), Aug. 21, 1996, 110 Stat. 1998, 2011; Pub. L. 105–33, title IV, §§4201(c)(1), 4205(d)(3)(B), 4302(b), 4315(a), 4316(a), 4317(a), (b), 4432(b)(2), (4), 4512(b)(2), (c), 4531(a)(2), 4556(a), 4603(c)(2)(B)(i), 4611(d), Aug. 5, 1997, 111 Stat. 373, 377, 382, 390, 392, 421, 444, 450, 462, 471, 473; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §223(c), title III, §§305(a), 321(k)(4)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–353, 1501A–361, 1501A–366; Pub. L. 106–554, §1(a)(6) \[title I, §§105(d), 114(a), title II, §222(a), title III, §313(b)(1), (2), title IV, §432(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–472, 2763A–473, 2763A–487, 2763A–499, 2763A–526; Pub. L. 108–173, title III, §§302(d)(3), 303(b), (e), (g)(1), (i)(1), 305(a), title VI, §627(b)(2), title VII, §736(b)(8), (9), title IX, §§911(c), 952(a), (b), Dec. 8, 2003, 117 Stat. 2233, 2238, 2252–2255, 2321, 2356, 2383, 2427; Pub. L. 109–171, title V, §§5114(a)(2), 5202(a)(2), Feb. 8, 2006, 120 Stat. 45, 47; Pub. L. 109–432, div. B, title I, §110(a), title II, §205(b)(2), title IV, §405(c)(2)(A)(i), Dec. 20, 2006, 120 Stat. 2985, 2989, 2999; Pub. L. 110–54, §1(a), Aug. 3, 2007, 121 Stat. 551; Pub. L. 110–173, title I, §116, Dec. 29, 2007, 121 Stat. 2507; Pub. L. 110–275, title I, §§137, 154(a)(2)(B), July 15, 2008, 122 Stat. 2540, 2563.)
 
 #### References in Text
 
@@ -782,7 +782,7 @@ Subsec. (b)(3)(B). Pub. L. 108–173, §911(c)(3)(C)(iii), substituted “to the
 
 Pub. L. 108–173, §911(c)(3)(C)(ii), substituted “shall take such action” for “will take such action” in introductory provisions.
 
-Subsec. (b)(3)(C) to (E). Pub. L. 108–173, §911(c)(3)(C)(iv), struck out subpars. (C) to (E), which directed that each contract provide that the carrier would establish and maintain procedures for a fair hearing in any case where the amount in controversy was between $100 and $500, that the carrier would furnish to the Secretary such information and reports as he would find necessary in performing his functions under this part, and that the carrier would maintain such records and afford such access thereto as the Secretary would find necessary to assure the correctness and verification of the information and reports under former subpar. (D) and otherwise to carry out the purposes of this part.
+Subsec. (b)(3)(C) to (E). Pub. L. 108–173, §911(c)(3)(C)(iv), struck out subpars. (C) to (E), which directed that each contract provide that the carrier would establish and maintain procedures for a fair hearing in any case where the amount in controversy was between $100 and $500, that the carrier would furnish to the Secretary such information and reports as he would find necessary in performing his functions under this part, and that the carrier would maintain such records and afford such access thereto as the Secretary would find necessary to assure the correctnessand verification of the information and reports under former subpar. (D) and otherwise to carry out the purposes of this part.
 
 Subsec. (b)(3)(F). Pub. L. 108–173, §911(c)(3)(C)(ii), substituted “shall take such action” for “will take such action”.
 
@@ -866,7 +866,7 @@ Subsec. (s)(3). Pub. L. 108–173, §302(d)(3)(B), added par. (3).
 
 2000—Subsec. (b)(6)(C). Pub. L. 106–554, §1(a)(6) \[title II, §222(a)\], struck out “for such services provided before January 1, 2003,” before “payment may be made” and substituted comma for semicolon at end.
 
-Subsec. (b)(6)(E). Pub. L. 106–554, §1(a)(6) \[title III, §313(b)(1)\], inserted “by, or under arrangements madeby, a skilled nursing facility” before “to an individual who” and struck out “or of a part of a facility that includes a skilled nursing facility (as determined under regulations)” before “, payment shall be made” and “(without regard to whether or not the item or service was furnished by the facility, by others under arrangement with them made by the facility, under any other contracting or consulting arrangement, or otherwise)” after “to the facility”.
+Subsec. (b)(6)(E). Pub. L. 106–554, §1(a)(6) \[title III, §313(b)(1)\], inserted “by, or under arrangements made by, a skilled nursing facility” before “to an individual who” and struck out “or of a part of a facility that includes a skilled nursing facility (as determined under regulations)” before “, payment shall be made” and “(without regard to whether or not the item or service was furnished by the facility, by others under arrangement with them made by the facility, under any other contracting or consulting arrangement, or otherwise)” after “to the facility”.
 
 Subsec. (b)(6)(G). Pub. L. 106–554, §1(a)(6) \[title IV, §432(b)(2)\], added subpar. (G).
 
@@ -946,7 +946,7 @@ Subsec. (b)(3)(I). Pub. L. 103–432, §151(b)(1)(B)(iii), added subpar. (I).
 
 Subsec. (b)(6)(D). Pub. L. 103–432, §125(b)(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “payment may be made to a physician who arranges for visit services (including emergency visits and related services) to be provided to an individual by a second physician on an occasional, reciprocal basis if (i) the first physician is unavailable to provide the visit services, (ii) the individual has arranged or seeks to receive the visit services from the first physician, (iii) the claim form submitted to the carrier includes the second physician's unique identifier (provided under the system established under subsection (r) of this section) and indicates that the claim is for such a ‘covered visit service (and related services)’, and (iv) the visit services are not provided by the second physician over a continuous period of longer than 60 days.”
 
-Subsec. (b)(12)(C). Pub. L. 103–432, §123(b)(2)(B), struck out subpar. (C). Prior to amendment, subpar. (C) read as follows: “Except for deductible and coinsurance amounts applicable under section 1395<i>l</i> of this title, any person who knowingly and willfully presents, or causes to be presented, to an individual enrolled under this part a bill or request for payment for services described in clauses (i), (ii), or (iv) of section 1395x(s)(2)(K) of this title in violation of subparagraph (A)(i) is subject to a civil money penalty of not to exceed $2,000 for each such bill or request. The provisions of section 1320a–7aof this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.”
+Subsec. (b)(12)(C). Pub. L. 103–432, §123(b)(2)(B), struck out subpar. (C). Prior to amendment, subpar. (C) readas follows: “Except for deductible and coinsurance amounts applicable under section 1395<i>l</i> of this title, any person who knowingly and willfully presents, or causes to be presented, to an individual enrolled under this part a bill or request for payment for services described in clauses (i), (ii), or (iv) of section 1395x(s)(2)(K) of this title in violation of subparagraph (A)(i) is subject to a civil money penalty of not to exceed $2,000 for each such bill or request. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.”
 
 Subsec. (b)(16)(B)(iii). Pub. L. 103–432, §126(a)(1), struck out “, simple and subcutaneous” after “Partial”, substituted “injections and small joint” for “injections; small joint” and “femoral fracture and” for “femoral fracture treatments;”, struck out “lobectomy;” after “thoracostomy;” and “enterectomy; colectomy; cholecystectomy;” after “aneurysm repair;”, substituted “fulguration and resection” for “fulguration; transurerethral resection”, and struck out “sacral laminectomy;” before “tympanoplasty”.
 
@@ -1574,7 +1574,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Effective Date of 2008 Amendment
 
-Amendment by section 154(a)(2)(B) of Pub. L. 110–275 effective June 30, 2008, see section 154(e) of Pub. L.110–275, set out as a note under section 1395m of this title.
+Amendment by section 154(a)(2)(B) of Pub. L. 110–275 effective June 30, 2008, see section 154(e) of Pub. L. 110–275, set out as a note under section 1395m of this title.
 
 #### Effective Date of 2007 Amendment
 
@@ -1636,7 +1636,7 @@ Amendment by section 4432(b)(2), (4) of Pub. L. 105–33 applicable to items and
 
 Amendment by section 4512(b)(2), (c) of Pub. L. 105–33 applicable with respect to services furnished and supplies provided on and after Jan. 1, 1998, see section 4512(d) of Pub. L. 105–33, set out as a note under section 1395<i>l</i> of this title.
 
-Amendment by section 4556(a) of Pub. L. 105–33 applicable to drugs and biologicals furnished on or after Jan. 1, 1998, see section 4556(d) of Pub. L. 105–33, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 4556(a) of Pub. L. 105–33 applicable to drugs and biologicals furnished on or after Jan.1, 1998, see section 4556(d) of Pub. L. 105–33, set out as a note under section 1395<i>l</i> of this title.
 
 Amendment by section 4603(c)(2)(B)(i) of Pub. L. 105–33 applicable to cost reporting periods beginning on or after Oct. 1, 1999, except as otherwise provided, see section 4603(d) of Pub. L. 105–33, set out as an Effective Date note under section 1395fff of this title.
 
@@ -1644,7 +1644,7 @@ Amendment by section 4611(d) of Pub. L. 105–33 applicable to services furnishe
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 123(b)(1), (2)(B) of Pub. L. 103–432 applicable to services furnished on or after Jan.1, 1995, see section 123(f)(2) of Pub. L. 103–432, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 123(b)(1), (2)(B) of Pub. L. 103–432 applicable to services furnished on or after Jan. 1, 1995, see section 123(f)(2) of Pub. L. 103–432, set out as a note under section 1395<i>l</i> of this title.
 
 Section 123(f)(3), (4) of Pub. L. 103–432 provided that:
 
@@ -1720,7 +1720,7 @@ Amendment by section 201(a) of Pub. L. 101–234 effective Jan. 1, 1990, see sec
 
 Section 301(e) of Pub. L. 101–234 provided that: “The provisions of this section \[amending this section and sections 1395m, 1395cc, 1395<i>ll</i>, and 1395ww of this title, enacting provisions set out as notes under section 1395m of this title, and repealing provisions set out as notes under sections 1395b, 1395b–1, 1395b–2, and 1395h of this title and section 8902 of Title 5, Government Organization and Employees\] (other than subsections (c) and (d) \[amending this section and sections 1395m, 1395cc, 1395<i>ll</i>, and 1395ww of this title and enacting provisions set out as a note under section 1395m of this title\]) shall take effect January 1, 1990, except that—
 
-&emsp;“(1) the repeal of section 421 of MCCA \[Pub. L. 100–360, set out as a note under section 1395b of this title\] shall not apply to duplicative part A benefits for periods before January 1, 1990, and
+&emsp;“(1) the repeal of section 421 of MCCA \[Pub. L. 100–360, set out as a note under section 1395b of thistitle\] shall not apply to duplicative part A benefits for periods before January 1, 1990, and
 
 &emsp;“(2) the amendments made by subsection (b) \[amending this section and sections 1395m, 1395cc, 1395<i>ll</i>, and 1395ww of this title\] shall take effect on the date of the enactment of this Act \[Dec. 13, 1989\].”
 
@@ -1800,13 +1800,13 @@ Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning 
 
 #### Effective Date of 1986 Amendments
 
-Section 1895(b)(16)(B) of Pub. L. 99–514 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to claims presented after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Section 1895(b)(16)(B) of Pub. L. 99–514 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall apply to claims presented after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 Amendment by section 1895(b)(14)(A), (15) of Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
 
 Section 9307(c)(2) of Pub. L. 99–509 provided that the amendment made by section 9307(c)(2)(A) of Pub. L. 99–509 \[amending directory language of section 1895(b)(14)(A)(ii) of Pub. L. 99–514 which amended this section\] is effective as if included in the enactment of the Tax Reform Act of 1986, Pub. L. 99–514.
 
-Amendment by section 9311(c) of Pub. L. 99–509 applicable to claims received on or after Nov. 1, 1986, withsubsec. (c)(2)(C) of this section applicable to claims received on or after Apr. 1, 1987, see section 9311(d) of Pub. L. 99–509, set out as a note under section 1395h of this title.
+Amendment by section 9311(c) of Pub. L. 99–509 applicable to claims received on or after Nov. 1, 1986, with subsec. (c)(2)(C) of this section applicable to claims received on or after Apr. 1, 1987, see section 9311(d) of Pub. L. 99–509, set out as a note under section 1395h of this title.
 
 Amendment by section 9320(e)(3) of Pub. L. 99–509 applicable to services furnished on or after Jan. 1, 1989, with exceptions for hospitals located in rural areas which meet certain requirements related to certified registered nurse anesthetists, see section 9320(i), (k) of Pub. L. 99–509, as amended, set out as notes under section 1395k of this title.
 
@@ -1930,9 +1930,9 @@ Pub. L. 108–173, title III, §303(i)(5), Dec. 8, 2003, 117 Stat. 2255, provide
 
 #### Application of 2003 Amendment to Physician Specialties
 
-Pub. L. 108–173, title III, §303(j), Dec. 8, 2003, 117 Stat. 2255, provided that: “Insofar as the amendments made by this section \[enacting sections 1395w–3a and 1395w–3b of this title, amending this section and sections 1395<i>l</i>, 1395w–4, 1395x, 1395y, and 1396r–8 of this title, and repealing provisions set out as a note under this section\] apply to payments for drugs or biologicals and drug administration services furnished by physicians, such amendments shall only apply to physicians in the specialties of hematology, hematology/oncology, and medical oncology under title XVIII of the Social Security Act \[this subchapter\].”
+Pub. L. 108–173, title III, §303(j), Dec. 8, 2003, 117 Stat. 2255, provided that: “Insofar as the amendments madeby this section \[enacting sections 1395w–3a and 1395w–3b of this title, amending this section and sections 1395<i>l</i>, 1395w–4, 1395x, 1395y, and 1396r–8 of this title, and repealing provisions set out as a note under this section\] apply to payments for drugs or biologicals and drug administration services furnished by physicians, such amendments shall only apply to physicians in the specialties of hematology, hematology/oncology, and medical oncology under title XVIII of the Social Security Act \[this subchapter\].”
 
-Pub. L. 108–173, title III, §304, Dec. 8, 2003, 117 Stat. 2255, provided that: “Notwithstanding section 303(j) \[set out above\], the amendments made by section 303 \[enacting sections 1395w–3a and 1395w–3b of this title,amending this section and sections 1395<i>l</i>, 1395w–4, 1395x, 1395y, and 1396r–8 of this title, and repealing provisions set out as a note under this section\] shall also apply to payments for drugs or biologicals and drug administration services furnished by physicians in specialties other than the specialties of hematology, hematology/oncology, and medical oncology.”
+Pub. L. 108–173, title III, §304, Dec. 8, 2003, 117 Stat. 2255, provided that: “Notwithstanding section 303(j) \[set out above\], the amendments made by section 303 \[enacting sections 1395w–3a and 1395w–3b of this title, amending this section and sections 1395<i>l</i>, 1395w–4, 1395x, 1395y, and 1396r–8 of this title, and repealing provisions set out as a note under this section\] shall also apply to payments for drugs or biologicals and drug administration services furnished by physicians in specialties other than the specialties of hematology, hematology/oncology, and medical oncology.”
 
 #### Issuance of Temporary National Codes
 
@@ -2020,11 +2020,11 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §223(a), (b)\], Nov. 29, 19
 
 “(a)
 
-Limitation on Use.—The Secretary of Health and Human Services may not use, or permit fiscal intermediaries or carriers to use, the inherent reasonableness authority provided under section 1842(b)(8) of the Social Security Act (42 U.S.C. 1395u(b)(8)) until after—
+Limitation on Use.—The Secretary of Health and Human Services may not use, or permit fiscalintermediaries or carriers to use, the inherent reasonableness authority provided under section 1842(b)(8) of the Social Security Act (42 U.S.C. 1395u(b)(8)) until after—
 
 &emsp;“(1) the Comptroller General of the United States releases a report pursuant to the request for such a report made on March 1, 1999, regarding the impact of the Secretary's, fiscal intermediaries’, and carriers’ use of such authority; and
 
-&emsp;“(2) the Secretary has published a notice of final rulemaking in the Federal Register that relates to such authority and that responds to such report and to comments received in response to the Secretary's interim final regulation relating to such authoritythat was published in the Federal Register on January 7, 1998.
+&emsp;“(2) the Secretary has published a notice of final rulemaking in the Federal Register that relates to such authority and that responds to such report and to comments received in response to the Secretary's interim final regulation relating to such authority that was published in the Federal Register on January 7, 1998.
 
 “(b)
 
@@ -2122,7 +2122,7 @@ Requirement and notice.—The Secretary shall ensure that any policies adopted u
 
 “(c)
 
-Inclusion of Laboratory Representative on Carrier Advisory Committees.—The Secretary shall direct that any advisory committee established by a carrier to advise such carrier with respect to coverage and administrative policies under part B of title XVIII of the Social Security Act \[this part\] shall include anindividual to represent the independent clinical laboratories and such other laboratories as the Secretary deems appropriate. The Secretary shall consider recommendations from national and local organizations that represent independent clinical laboratories in such selection.”
+Inclusion of Laboratory Representative on Carrier Advisory Committees.—The Secretary shall direct that any advisory committee established by a carrier to advise such carrier with respect to coverage and administrative policies under part B of title XVIII of the Social Security Act \[this part\] shall include an individual to represent the independent clinical laboratories and such other laboratories as the Secretary deems appropriate. The Secretary shall consider recommendations from national and local organizations that represent independent clinical laboratories in such selection.”
 
 #### Wholesale Price Study and Report
 
@@ -2300,11 +2300,11 @@ Transition.—The provisions of section 4041(a)(2) (other than subparagraph (D) 
 
 #### Special Rule With Respect to Payment for Intraocular Lenses
 
-Section 4063(d) of Pub. L. 100–203 provided that: “With respect to the establishment of a reasonable charge limit under section 1842(b)(11)(C)(ii) of the Social Security Act \[subsec. (b)(11)(C)(ii) of this section\], in applying section 1842(j)(1)(D)(i) of such Act, the matter beginning with ‘plus’ shall be considered to have been deleted.”
+Section 4063(d) of Pub. L. 100–203 provided that: “With respect to the establishment of a reasonable chargelimit under section 1842(b)(11)(C)(ii) of the Social Security Act \[subsec. (b)(11)(C)(ii) of this section\], in applying section 1842(j)(1)(D)(i) of such Act, the matter beginning with ‘plus’ shall be considered to have been deleted.”
 
 #### Study on Cost Effectiveness of Hearing Prior to Hearing by Administrative Law Judge on Carrier Determinations; Report to Congress
 
-Section 4082(d) of Pub. L. 100–203 provided that: “The Comptroller General shall conduct a study concerning the cost effectiveness of requiring hearings with a carrier under part B of title XVIII of the Social Security Act \[this part\] before having a hearing before an administrative law judge respecting carrier determinations under that part. The Comptroller General shallreport to the Congress on the results of such study by not later than June 30, 1989.”
+Section 4082(d) of Pub. L. 100–203 provided that: “The Comptroller General shall conduct a study concerning the cost effectiveness of requiring hearings with a carrier under part B of title XVIII of the Social Security Act \[this part\] before having a hearing before an administrative law judge respecting carrier determinations under that part. The Comptroller General shall report to the Congress on the results of such study by not later than June 30, 1989.”
 
 #### Capacity To Set Geographic Payment Limits
 
@@ -2362,13 +2362,13 @@ Section 9331(d) of Pub. L. 99–509 provided that:
 
 #### Measuring Carrier Performance; Carrier Bonuses for Good Performance
 
-Section 9332(a)(2), (3) of Pub. L. 99–509, as amended by Pub. L. 100–203, title IV, §4085(i)(21)(B), Dec. 22, 1987, 101 Stat. 1330–133, which provided that the Secretary of Health and Human Services was to provide, in the standards and criteria established under section 1842(b)(2) of the Social Security Act \[subsec. (b)(2) of this section\] for contracts under that section, a system to measure a carrier's performance of the responsibilities described in sections 1842(b)(3)(H) and 1842(h) of such Act and that, of the amounts appropriated for administrative activities to carry out part B of title XVIII of the Social Security Act \[this part\], the Secretary of Health and Human Services was to provide payments, totaling 1 percent of the total payments to carriers for claims processing in any fiscal year, to carriers under section 1842 of such Act, to reward such carriers for their success in increasing the proportion of physicians in the carrier's service area who were participating physicians or in increasing the proportion of total payments for physicians’ services which were payments for such services rendered by participating physicians, was repealed by Pub. L. 100–203, title IV, §4041(a)(3)(B)(i), Dec. 22, 1987, 101 Stat. 1330–84.
+Section 9332(a)(2), (3) of Pub. L. 99–509, as amended by Pub. L. 100–203, title IV, §4085(i)(21)(B), Dec. 22, 1987, 101 Stat. 1330–133, which provided that the Secretary of Health and Human Services was to provide, in the standards and criteria established under section 1842(b)(2) of the Social Security Act \[subsec. (b)(2) of this section\] for contracts under that section, a system to measure a carrier's performance of the responsibilities described in sections 1842(b)(3)(H) and 1842(h) of such Act and that, of the amounts appropriated for administrative activities to carry out part B of title XVIII of the Social Security Act \[this part\], the Secretary of Health and Human Services was to provide payments, totaling 1 percent of the total payments tocarriers for claims processing in any fiscal year, to carriers under section 1842 of such Act, to reward such carriers for their success in increasing the proportion of physicians in the carrier's service area who were participating physicians or in increasing the proportion of total payments for physicians’ services which were payments for such services rendered by participating physicians, was repealed by Pub. L. 100–203, title IV, §4041(a)(3)(B)(i), Dec. 22, 1987, 101 Stat. 1330–84.
 
 Section 9332(a)(4)(B), (C) of Pub. L. 99–509, as amended by Pub. L. 100–203, title IV, §4041(a)(3)(B)(ii), (iii), Dec. 22, 1987, 101 Stat. 1330–84; Pub. L. 100–360, title IV, §411(f)(1)(C), July 1, 1988, 102 Stat. 776, provided that:
 
 “(B)
 
-Performance measures.—The Secretary of Health and Human Services shall provide for the establishment of the standards and criteria required underthe last sentence of section 1842(b)(2) of the Social Security Act \[subsec. (b)(2) of this section\] by not later than October 1, 1987, which shall apply to contracts as of October 1, 1987.
+Performance measures.—The Secretary of Health and Human Services shall provide for the establishment of the standards and criteria required under the last sentence of section 1842(b)(2) of the Social Security Act \[subsec. (b)(2) of this section\] by not later than October 1, 1987, which shall apply to contracts as of October 1, 1987.
 
 “(C)
 
@@ -2430,7 +2430,7 @@ Period of 15 months referred to in subsec. (j)(1) of this section for monitoring
 
 #### Simplification of Procedures With Respect to Claims and Payments for Clinical Diagnostic Laboratory Tests
 
-Section 2303(h) of Pub. L. 98–369 provided that: “The Secretary of Health and Human Services shall simplify the procedures under section 1842 of the Social SecurityAct \[this section\] with respect to claims and payments for clinical diagnostic laboratory tests so as to reduce unnecessary paperwork while assuring that sufficient information is supplied to identify instances of fraud and abuse.”
+Section 2303(h) of Pub. L. 98–369 provided that: “The Secretary of Health and Human Services shall simplify the procedures under section 1842 of the Social Security Act \[this section\] with respect to claims and payments for clinical diagnostic laboratory tests so as to reduce unnecessary paperwork while assuring that sufficient information is supplied to identify instances of fraud and abuse.”
 
 #### Study of Amounts Billed for Physician Services and Paid by Carriers Under Subsection (b)(7) of This Section; Report to Congress
 

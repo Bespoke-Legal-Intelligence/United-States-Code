@@ -134,7 +134,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the transferor or a person who bears a relationship to the transferor described in section 267(b) or 707(b), and
 
-&emsp;&emsp;&emsp;(ii) which were accumulated during the period or periods such stock was owned bysuch person while the acquiring corporation was a controlled foreign corporation.
+&emsp;&emsp;&emsp;(ii) which were accumulated during the period or periods such stock was owned by such person while the acquiring corporation was a controlled foreign corporation.
 
 #### (B) Regulations
 
@@ -232,7 +232,7 @@ Section 1013(d) of Pub. L. 105–34 provided that:
 
 “(1)
 
-In general.—The amendments made by this section \[amending this section and section 1059 of this title\] shall apply to distributions and acquisitions after June 8, 1997.
+In general.—The amendments made by this section \[amending this section and section 1059 of thistitle\] shall apply to distributions and acquisitions after June 8, 1997.
 
 “(2)
 
@@ -352,7 +352,7 @@ Approval by federal reserve board.—The amendments made by this section shall n
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes of this section and section 302 of this title, such amendments shall not apply to distributions in payment for stock acquisitions or redemptions, if such acquisition or redemption occurred before Aug. 31, 1964, see section 4(c) of Pub. L. 88–554, set out as a note under section 318 of this title.
+Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes of this section and section 302of this title, such amendments shall not apply to distributions in payment for stock acquisitions or redemptions, if such acquisition or redemption occurred before Aug. 31, 1964, see section 4(c) of Pub. L. 88–554, set out as a note under section 318 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

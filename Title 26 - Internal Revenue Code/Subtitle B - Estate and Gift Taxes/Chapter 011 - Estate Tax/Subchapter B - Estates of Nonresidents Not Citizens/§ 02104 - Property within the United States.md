@@ -58,5 +58,5 @@ Amendment by Pub. L. 89–809 applicable with respect to estates of decedents dy
 
 #### Short Title of 1973 Amendment
 
-Section 1(a) of Pub. L. 93–17 provided that: “This Act \[enacting sections 4922 and 6689 of this title, amendingthis section and sections 4911, 4912, 4914, 4915, 4916, 4918, 4919, 4920, and 6611 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Interest Equalization Tax Extension Act of 1973’.”
+Section 1(a) of Pub. L. 93–17 provided that: “This Act \[enacting sections 4922 and 6689 of this title, amending this section and sections 4911, 4912, 4914, 4915, 4916, 4918, 4919, 4920, and 6611 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Interest Equalization Tax Extension Act of 1973’.”
 

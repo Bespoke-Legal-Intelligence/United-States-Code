@@ -68,7 +68,7 @@ Subsec. (h). Pub. L. 95–164, §303(c)(2), substituted “$10,000,000” for �
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L.96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1977 Amendment
 

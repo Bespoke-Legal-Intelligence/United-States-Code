@@ -268,7 +268,7 @@ Pub. L. 96–343, §7, Sept. 8, 1980, 94 Stat. 1128, provided that: “Effective
 
 #### Regulations Relating to Subsistence Allowance
 
-Regulations relating to basic allowance for subsistence, see Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973,formerly set out as a note under section 301 of this title.
+Regulations relating to basic allowance for subsistence, see Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under section 301 of this title.
 
 #### Executive Order No. 10119
 

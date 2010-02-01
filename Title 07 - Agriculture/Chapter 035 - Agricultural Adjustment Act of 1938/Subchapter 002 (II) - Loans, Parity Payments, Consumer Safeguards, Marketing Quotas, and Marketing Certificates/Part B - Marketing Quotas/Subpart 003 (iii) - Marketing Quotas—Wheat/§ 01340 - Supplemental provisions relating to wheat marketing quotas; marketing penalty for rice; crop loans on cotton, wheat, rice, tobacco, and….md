@@ -22,7 +22,7 @@ Notwithstanding the other provisions of this chapter—
 
 &emsp;(10) The provisions of this section are amendatory of and supplementary to this chapter, and all provisions of law applicable in respect of marketing quotas and loans under such chapter as so amended and supplemented shall be applicable, but nothing in this section shall be construed to amend or repeal sections 1301(b)(6), 1323(b), or 1335(d) of this title.
 
-&emsp;(11) The persons liable for the payment or collection of the penalty or any amount of wheat shall be liable also for interest thereon at the rate of 6 per centum per annum from the date the penalty becomes due until the date of payment of such penalty.
+&emsp;(11) The persons liable for the payment or collection of the penalty on any amount of wheat shall be liable also for interest thereon at the rate of 6 per centum per annum from the date the penalty becomes due until the date of payment of such penalty.
 
 &emsp;(12) If marketing quotas for wheat are not in effect for any marketing year, all previous marketing quotas applicable to wheat shall be terminated, effective as of the first day of such marketing year. Such termination shall not abate any penalty previously incurred by a producer or relieve any buyer of the duty to remit penalties previously collected by him.
 

@@ -64,7 +64,7 @@ Section 2302(b)(2) of div. A of Pub. L. 104–208 provided that:
 
 “(A)
 
-In general.—Not later than 6 months after the date of enactment of this Act \[Sept. 30, 1996\], in consultation with the Board and after providing notice and an opportunity for public comment, the Secretary of Housing and Urban Development shall prescribe finalregulations to implement section 814A of the Fair Housing Act \[42 U.S.C. 3614–1\], as added by this section.
+In general.—Not later than 6 months after the date of enactment of this Act \[Sept. 30, 1996\], in consultation with the Board and after providing notice and an opportunity for public comment, the Secretary of Housing and Urban Development shall prescribe final regulations to implement section 814A of the Fair Housing Act \[42 U.S.C. 3614–1\], as added by this section.
 
 “(B)
 

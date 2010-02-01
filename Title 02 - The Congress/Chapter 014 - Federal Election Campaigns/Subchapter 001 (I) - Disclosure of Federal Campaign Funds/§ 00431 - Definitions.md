@@ -30,7 +30,7 @@ When used in this Act:
 
 (5) The term “principal campaign committee” means a political committee designated and authorized by a candidate under section 432(e)(1) of this title.
 
-(6) The term “authorized committee” means the principal campaign committee or any other political committee authorized by a candidate under section 432(e)(1) of this title to receive contributions or make expenditures on behalf of such candidate.
+(6) The term “authorized committee” means the principal campaign committee or any otherpolitical committee authorized by a candidate under section 432(e)(1) of this title to receive contributions or make expenditures on behalf of such candidate.
 
 (7) The term “connected organization” means any organization which is not a political committee but which directly or indirectly establishes, administers or financially supports a political committee.
 
@@ -50,7 +50,7 @@ When used in this Act:
 
 &emsp;(iv) any unreimbursed payment for travel expenses made by any individual on behalf of any candidate or any political committee of a political party, to the extent that the cumulative value of such activity by such individual on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
 
-&emsp;(v) the payment by a State or local committee of a political party of the costs of preparation, display, or mailing or other distribution incurred by such committee with respect to a printed slate card or sample ballot, or other printed listing, of 3 or more candidates for anypublic office for which an election is held in the State in which such committee is organized, except that this clause shall not apply to any cost incurred by such committee with respect to a display of any such listing made on broadcasting stations, or in newspapers, magazines, or similar types of general public political advertising;
+&emsp;(v) the payment by a State or local committee of a political party of the costs of preparation, display, or mailing or other distribution incurred by such committee with respect to a printed slate card or sample ballot, or other printed listing, of 3 or more candidates for any public office for which an election is held in the State in which such committee is organized, except that this clause shall not apply to any cost incurred by such committee with respect to a display of any such listing made on broadcasting stations, or in newspapers, magazines, or similar types of general public political advertising;
 
 &emsp;(vi) any payment made or obligation incurred by a corporation or a labor organization which, under section 441b(b) of this title, would not constitute an expenditure by such corporation or labor organization;
 
@@ -118,7 +118,7 @@ When used in this Act:
 
 &emsp;&emsp;(I) rendered to or on behalf of any political committee of a political party if the person paying for such services is the regular employer of the individual rendering such services, and if such services are not attributable to activities which directly further the election of any designated candidate to Federal office; or
 
-&emsp;&emsp;(II) rendered to or on behalf of a candidate or political committee if the person paying for such services is the regular employer of the individual rendering such services, and if such services are solely for the purpose of ensuring compliance with this Act or chapter 95 or chapter 96 of title 26,
+&emsp;&emsp;(II) rendered to or on behalf of a candidate or political committee if the person paying for such services is the regular employer of the individual rendering such services, and ifsuch services are solely for the purpose of ensuring compliance with this Act or chapter 95 or chapter 96 of title 26,
 
 > &emsp;but amounts paid or incurred by the regular employer for such legal or accounting services shall be reported in accordance with section 434(b) of this title by the committee receiving such services;
 
@@ -194,7 +194,7 @@ In general.—The term “Federal election activity” means—
 
 &emsp;(B)
 
-Excluded activity.—The term “Federal election activity” does not include an amount expended or disbursed by a State, district, or local committee of a political party for—
+Excluded activity.—The term “Federal election activity” does not include an amountexpended or disbursed by a State, district, or local committee of a political party for—
 
 &emsp;&emsp;(i) a public communication that refers solely to a clearly identified candidate for State or local office, if the communication is not a Federal election activity described in subparagraph (A)(i) or (ii);
 
@@ -482,5 +482,5 @@ Report.—Not later than 1 year after the date of enactment of this Act \[Mar. 2
 
 #### Voting System Study; Report to Congress; Cost of Study
 
-Section 302 of Pub. L. 96–187, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433, provided that: “The Federal Election Commission with the cooperation and assistance of the National Institute of Standards and Technology, shall conduct a preliminary study with respect to the future development of voluntary engineering and procedural performance standards for voting systems used in the United States. The Commission shall report to the Congress the results of the study, and such report shall include recommendations, if any, for the implementation of a program of such standards (including estimates of the costs and time requirements of implementing such a program). The cost of the study shall be paid out of anyfunds otherwise available to defray the expenses of the Commission.”
+Section 302 of Pub. L. 96–187, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433, provided that: “The Federal Election Commission with the cooperation and assistance of the National Institute of Standards and Technology, shall conduct a preliminary study with respect to the future development of voluntary engineering and procedural performance standards for voting systems used in the United States. The Commission shall report to the Congress the results of the study, and such report shall include recommendations, if any, for the implementation of a program of such standards (including estimates of the costs and time requirements of implementing such a program). The cost of the study shall be paid out of any funds otherwise available to defray the expenses of the Commission.”
 

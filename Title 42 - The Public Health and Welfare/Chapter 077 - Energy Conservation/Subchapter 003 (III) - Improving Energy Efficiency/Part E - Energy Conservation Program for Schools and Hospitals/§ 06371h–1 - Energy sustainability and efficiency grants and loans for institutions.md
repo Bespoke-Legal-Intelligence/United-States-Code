@@ -278,7 +278,7 @@ In this section:
 
 #### (B) Authority and functions
 
-&emsp;&emsp;The Secretary of Labor shall have, with respect to the labor standards specified in paragraph (1), the authority and functions set forth in Reorganization Plan Number 14 of 1950 (15 Fed. Reg. 3176; 64 Stat. 1267) and section 3145 of title 40.
+&emsp;&emsp;The Secretary of Labor shall have, with respect to the labor standards specified inparagraph (1), the authority and functions set forth in Reorganization Plan Number 14 of 1950 (15 Fed. Reg. 3176; 64 Stat. 1267) and section 3145 of title 40.
 
 #### (h) Program procedures
 

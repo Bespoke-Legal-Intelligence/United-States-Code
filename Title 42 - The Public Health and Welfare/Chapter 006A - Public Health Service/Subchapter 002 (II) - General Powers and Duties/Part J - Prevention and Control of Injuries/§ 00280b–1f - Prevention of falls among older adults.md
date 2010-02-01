@@ -6,7 +6,7 @@ The Secretary may—
 
 &emsp;(1) oversee and support a national education campaign to be carried out by a nonprofit organization with experience in designing and implementing national injury prevention programs, that is directed principally to older adults, their families, and health care providers, and that focuses on reducing falls among older adults and preventing repeat falls; and
 
-&emsp;(2) award grants, contracts, or cooperative agreements to qualified organizations, institutions, or consortia of qualified organizations and institutions, specializing, or demonstrating expertise, in falls or fall prevention, for the purpose of organizing State-level coalitions of appropriate State and local agencies, safety, health, senior citizen, and other organizations to design and carry out local education campaigns, focusing on reducing fallsamong older adults and preventing repeat falls.
+&emsp;(2) award grants, contracts, or cooperative agreements to qualified organizations, institutions, or consortia of qualified organizations and institutions, specializing, or demonstrating expertise, in falls or fall prevention, for the purpose of organizing State-level coalitions of appropriate State and local agencies, safety, health, senior citizen, and other organizations to design and carry out local education campaigns, focusing on reducing falls among older adults and preventing repeat falls.
 
 #### (b) Research
 
@@ -82,7 +82,7 @@ In awarding grants, contracts, or cooperative agreements under this section, the
 
 #### (1) In general
 
-&emsp;The Secretary may conduct a review of the effects of falls on health care costs, the potential for reducing falls, and the most effectivestrategies for reducing health care costs associated with falls.
+&emsp;The Secretary may conduct a review of the effects of falls on health care costs, the potential for reducing falls, and the most effective strategies for reducing health care costs associated with falls.
 
 #### (2) Report
 

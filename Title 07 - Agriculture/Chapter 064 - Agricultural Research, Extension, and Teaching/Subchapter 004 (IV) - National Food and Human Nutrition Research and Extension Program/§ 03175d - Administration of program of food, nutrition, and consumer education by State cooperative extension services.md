@@ -2,17 +2,13 @@
 
 #### (a) Administration by Secretary of Agriculture
 
-The program provided for under section 3175c of this title shall be administered by the Secretary of Agriculture through the Extension Service, in consultation with the Food and Nutrition Service and the Human Nutrition Information Service. The Secretary shall ensure that the Extension Service coordinates activities carried out under this subtitle with the ongoing food, nutrition, and consumer education activities of other agencies of the Department of Agriculture.
+The program provided for under section 3175c of this title shall be administered by the Secretary of Agriculture through the National Institute of Food and Agriculture, in consultation with the Food and Nutrition Service and the Human Nutrition Information Service. The Secretary shall ensure that the National Institute of Food and Agriculture coordinates activities carried out under this subtitle with the ongoing food, nutrition, and consumer education activities of other agencies of the Department of Agriculture.
 
 #### (b) Evaluation and report
 
 The Secretary of Agriculture, not later than April 1, 1989, shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report evaluating the effectiveness of the program provided for under section 3175c of this title.
 
 (Pub. L. 99–198, title XV, §1587, Dec. 23, 1985, 99 Stat. 1596; Pub. L. 110–234, title VII, §7511(c)(11), May 22, 2008, 122 Stat. 1268; Pub. L. 110–246, §4(a), title VII, §7511(c)(11), June 18, 2008, 122 Stat. 1664, 2029.)
-
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2029, provided that, effective Oct. 1, 2009, subsection (a) of this section is amended by substituting “National Institute of Food and Agriculture” for “Extension Service” each place it appears.</i>
 
 #### References in Text
 
@@ -23,6 +19,10 @@ This subtitle, referred to in subsec. (a), is subtitle C (§§1581–1589) of ti
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–246, §7511(c)(11), substituted “National Institute of Food and Agriculture” for “Extension Service” in two places.
 
 #### Effective Date of 2008 Amendment
 

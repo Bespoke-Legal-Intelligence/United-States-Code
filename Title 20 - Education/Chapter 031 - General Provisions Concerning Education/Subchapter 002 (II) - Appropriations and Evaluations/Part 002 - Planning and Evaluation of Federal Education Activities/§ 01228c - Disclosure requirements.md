@@ -18,7 +18,7 @@ Each educational organization, prior to enrolling a minor and prior to accepting
 
 #### (2) Cost and fees
 
-&emsp;Information regarding the cost of the educational program and information regarding the distribution of any enrollment fee, including—
+&emsp;Information regarding the cost of the educational program and information regardingthe distribution of any enrollment fee, including—
 
 &emsp;&emsp;(A) the amount paid for, and the percentage of the total educational program cost of, each feature of the educational program, including—
 

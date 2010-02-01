@@ -6,11 +6,11 @@ In General.—There is a Legal Counsel to the Chairman of the Joint Chiefs of St
 
 (b)
 
-Selection for Appointment.—Under regulations prescribed by the Secretary of Defense, the officer selected for appointment to serve as Legal Counsel to the Chairman of the Joint Chiefs of Staff shall be recommended by a board of officers convened by the Secretary of Defense that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
+Selection for Appointment.—Under regulations prescribed by the Secretary of Defense, the officer selected for appointment to serve as Legal Counsel to the Chairman of the Joint Chiefs of Staff shall be recommended by a board of officers convened by the Secretary of Defense that, insofar as practicable, is subject to theprocedures applicable to selection boards convened under chapter 36 of this title.
 
 (c)
 
-Grade.—An officer appointed to serve as Legal Counsel to the Chairman of the Joint Chiefs of Staff shall, while so serving, hold the grade of brigadier general or rear admiral (lower half).
+Grade.—An officer appointed to serve as Legal Counsel to the Chairman of the Joint Chiefs of Staff shall be appointed in the regular grade of brigadier general or rear admiral (lower half).
 
 (d)
 
@@ -18,9 +18,15 @@ Duties.—(1) The Legal Counsel of the Chairman of the Joint Chiefs of Staff sha
 
 (2) No officer or employee of the Department of Defense may interfere with the ability of the Legal Counsel to give independent legal advice to the Chairman of the Joint Chiefs of Staff and to the Joint Chiefs of Staff.
 
-(Added Pub. L. 110–181, div. A, title V, §543(e)(1), Jan. 28, 2008, 122 Stat. 115; amended Pub. L. 110–417, \[div. A\], title V, §591, Oct. 14, 2008, 122 Stat. 4474.)
+(Added Pub. L. 110–181, div. A, title V, §543(e)(1), Jan. 28, 2008, 122 Stat. 115; amended Pub. L. 110–417, \[div. A\], title V, §591, Oct. 14, 2008, 122 Stat. 4474; Pub. L. 111–84, div. A, title V, §501(a), Oct. 28, 2009, 123 Stat. 2272.)
 
 #### Amendments
 
+2009—Subsec. (c). Pub. L. 111–84 substituted “be appointed in the regular” for “, while so serving, hold the”.
+
 2008—Subsec. (d). Pub. L. 110–417 designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–84, div. A, title V, §501(b), Oct. 28, 2009, 123 Stat. 2272, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 28, 2009\], and shall apply with respect to individuals appointed as Legal Counsel to the Chairman of the Joint Chiefs of Staff on or after that date.”
 

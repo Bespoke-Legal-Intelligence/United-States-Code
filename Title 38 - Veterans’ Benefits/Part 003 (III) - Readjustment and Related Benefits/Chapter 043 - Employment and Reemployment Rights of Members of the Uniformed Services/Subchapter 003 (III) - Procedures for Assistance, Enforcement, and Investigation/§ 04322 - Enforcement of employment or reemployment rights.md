@@ -28,7 +28,7 @@
 
 (g) This subchapter does not apply to any action relating to benefits to be provided under the Thrift Savings Plan under title 5.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3164; amended Pub. L. 104–275, title III, §311(9), Oct. 9, 1996, 110 Stat. 3335; Pub. L. 110–389, title III, §311(a)–(c), Oct. 10, 2008, 122 Stat. 4162.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3164; amended Pub. L. 104–275, title III,§311(9), Oct. 9, 1996, 110 Stat. 3335; Pub. L. 110–389, title III, §311(a)–(c), Oct. 10, 2008, 122 Stat. 4162.)
 
 #### Prior Provisions
 

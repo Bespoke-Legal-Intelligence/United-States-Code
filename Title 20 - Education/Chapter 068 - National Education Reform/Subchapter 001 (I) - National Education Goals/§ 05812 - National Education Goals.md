@@ -8,7 +8,7 @@ The Congress declares that the National Education Goals are the following:
 
 &emsp;(B) The objectives for this goal are that—
 
-&emsp;&emsp;(i) all children will have access to high-quality and developmentally appropriatepreschool programs that help prepare children for school;
+&emsp;&emsp;(i) all children will have access to high-quality and developmentally appropriate preschool programs that help prepare children for school;
 
 &emsp;&emsp;(ii) every parent in the United States will be a child's first teacher and devote time each day to helping such parent's preschool child learn, and parents will have access to the training and support parents need; and
 
@@ -32,7 +32,7 @@ The Congress declares that the National Education Goals are the following:
 
 &emsp;&emsp;(i) the academic performance of all students at the elementary and secondary level will increase significantly in every quartile, and the distribution of minority students in each quartile will more closely reflect the student population as a whole;
 
-&emsp;&emsp;(ii) the percentage of all students who demonstrate the ability to reason, solve problems, apply knowledge, and write and communicate effectively will increase substantially;
+&emsp;&emsp;(ii) the percentage of all students who demonstrate the ability to reason, solve problems, apply knowledge, and write andcommunicate effectively will increase substantially;
 
 &emsp;&emsp;(iii) all students will be involved in activities that promote and demonstrate good citizenship, good health, community service, and personal responsibility;
 
@@ -78,7 +78,7 @@ The Congress declares that the National Education Goals are the following:
 
 &emsp;&emsp;(ii) all workers will have the opportunity to acquire the knowledge and skills, from basic to highly technical, needed to adapt to emerging new technologies, work methods, and markets through public and private educational, vocational, technical, workplace, or other programs;
 
-&emsp;&emsp;(iii) the number of quality programs, including those at libraries, that are designedto serve more effectively the needs of the growing number of part-time and midcareer students will increase substantially;
+&emsp;&emsp;(iii) the number of quality programs, including those at libraries, that are designed to serve more effectively the needs of the growing number of part-time and midcareer students will increase substantially;
 
 &emsp;&emsp;(iv) the proportion of the qualified students, especially minorities, who enter college, who complete at least two years, and who complete their degree programs will increase substantially;
 

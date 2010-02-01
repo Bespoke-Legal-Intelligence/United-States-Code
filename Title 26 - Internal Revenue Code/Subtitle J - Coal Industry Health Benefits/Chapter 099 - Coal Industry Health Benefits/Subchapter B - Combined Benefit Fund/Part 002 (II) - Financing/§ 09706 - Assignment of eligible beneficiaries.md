@@ -40,7 +40,7 @@ For purposes of subsection (a)—
 
 #### (2) Reassignment upon purchase
 
-&emsp;If a person becomes a successor of an assigned operator after the enactment date, the assigned operator may transfer the assignment of an eligible beneficiary under subsection (a) to such successor, and such successor shall be treated as the assigned operator with respect to such eligible beneficiary for purposes of this chapter. Notwithstanding the preceding sentence, the assigned operator transferring such assignment (and any related person) shall remain the guarantor of the benefits provided to the eligible beneficiary under this chapter. An assigned operator shall notify the trustees of the Combined Fund of any transfer described in this paragraph.
+&emsp;If a person becomes a successor of an assigned operator after the enactment date, the assigned operator may transfer the assignment of an eligible beneficiary under subsection (a) to such successor, and such successor shall be treated as the assigned operator with respect to such eligible beneficiary for purposes of this chapter. Notwithstanding the preceding sentence, the assigned operator transferring such assignment (and any relatedperson) shall remain the guarantor of the benefits provided to the eligible beneficiary under this chapter. An assigned operator shall notify the trustees of the Combined Fund of any transfer described in this paragraph.
 
 #### (c) Identification of eligible beneficiaries
 
@@ -114,7 +114,7 @@ The 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan shall, by the later of
 
 #### (g) Confidentiality of information
 
-Any person to which information is provided by the Commissioner of Social Security underthis section shall not disclose such information except in any proceedings related to this section. Any civil or criminal penalty which is applicable to an unauthorized disclosure under section 6103 shall apply to any unauthorized disclosure under this section.
+Any person to which information is provided by the Commissioner of Social Security under this section shall not disclose such information except in any proceedings related to this section. Any civil or criminal penalty which is applicable to an unauthorized disclosure under section 6103 shall apply to any unauthorized disclosure under this section.
 
 #### (h) Assignments as of October 1, 2007
 

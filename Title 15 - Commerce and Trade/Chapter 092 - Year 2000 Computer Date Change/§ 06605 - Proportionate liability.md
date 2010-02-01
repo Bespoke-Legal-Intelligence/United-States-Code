@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except in a Y2K action that is a contract action, and except as provided in subsections (b) through (g) of this section, a person against whom a final judgment is entered in a Y2K action shall be liable solely for the portion of the judgment that corresponds to the relative andproportionate responsibility of that person. In determining the percentage of responsibility of any defendant, the trier of fact shall determine that percentage as a percentage of the total fault of all persons, including the plaintiff, who caused or contributed to the total loss incurred by the plaintiff.
+Except in a Y2K action that is a contract action, and except as provided in subsections (b) through (g) of this section, a person against whom a final judgment is entered in a Y2K action shall be liable solely for the portion of the judgment that corresponds to the relative and proportionate responsibility of that person. In determining the percentage of responsibility of any defendant, the trier of fact shall determine that percentage as a percentage of the total fault of all persons, including the plaintiff, who caused or contributed to the total loss incurred by the plaintiff.
 
 #### (b) Proportionate liability
 
@@ -66,7 +66,7 @@ Except in a Y2K action that is a contract action, and except as provided in subs
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding subsection (a) of this section, if, upon motion made not later than 6 months after a final judgment is entered in any Y2K action that is not a contract action, the court determines that all or part of the share of the judgment against a defendant for compensatory damages is not collectible against that defendant, then each other defendant in the action is liable for the uncollectible share as follows:
+&emsp;&emsp;Notwithstanding subsection (a) of this section, if, upon motion made not later than 6months after a final judgment is entered in any Y2K action that is not a contract action, the court determines that all or part of the share of the judgment against a defendant for compensatory damages is not collectible against that defendant, then each other defendant in the action is liable for the uncollectible share as follows:
 
 #### (i) Percentage of net worth
 
@@ -86,7 +86,7 @@ Except in a Y2K action that is a contract action, and except as provided in subs
 
 #### (B) Overall limit
 
-&emsp;&emsp;The total payments required under subparagraph (A) from all defendants may notexceed the amount of the uncollectible share.
+&emsp;&emsp;The total payments required under subparagraph (A) from all defendants may not exceed the amount of the uncollectible share.
 
 #### (C) Subject to contribution
 
@@ -150,7 +150,7 @@ Except in a Y2K action that is a contract action, and except as provided in subs
 
 #### (1) In general
 
-&emsp;A defendant who is jointly and severally liable for damages in any Y2K action that is not a contract action may recover contribution from any other person who, if joined in the original action, would have been liable for the same damages. A claim for contribution shall be determined based on the percentage of responsibility of the claimant and of each person against whom a claim for contribution is made.
+&emsp;A defendant who is jointly and severally liable for damages in any Y2K action that is nota contract action may recover contribution from any other person who, if joined in the original action, would have been liable for the same damages. A claim for contribution shall be determined based on the percentage of responsibility of the claimant and of each person against whom a claim for contribution is made.
 
 #### (2) Statute of limitations for contribution
 

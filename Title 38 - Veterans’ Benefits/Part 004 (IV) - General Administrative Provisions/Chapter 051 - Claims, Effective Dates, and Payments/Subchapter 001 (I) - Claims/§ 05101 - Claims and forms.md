@@ -8,7 +8,7 @@
 
 (c)(1) Any person who applies for or is in receipt of any compensation or pension benefit under laws administered by the Secretary shall, if requested by the Secretary, furnish the Secretary with the social security number of such person and the social security number of any dependent or beneficiary on whose behalf, or based upon whom, such person applies for or is in receipt of such benefit. A person is not required to furnish the Secretary with a social security number for any person to whom a social security number has not been assigned.
 
-(2) The Secretary shall deny the application of or terminate the payment of compensation or pension to a person who fails to furnish the Secretary with a social security number required to be furnished pursuant to paragraph (1) of this subsection. The Secretary may thereafter reconsider the application or reinstate payment of compensation or pension, as the case may be, if such person furnishes the Secretary with such social security number.
+(2) The Secretary shall deny the application of or terminate the payment of compensation or pension to a person who fails to furnish the Secretary with a social security number required to be furnished pursuant to paragraph (1) of this subsection. The Secretary may thereafter reconsider the application or reinstate payment of compensation or pension, as the case may be, ifsuch person furnishes the Secretary with such social security number.
 
 (3) The costs of administering this subsection shall be paid for from amounts available to the Department of Veterans Affairs for the payment of compensation and pension.
 
@@ -126,7 +126,7 @@ Elements of interim reports.—The reports required by paragraphs (1) and (2) sh
 
 &emsp;“(4)
 
-Final report.—Not later than 180 days after the completion of each pilot program carried out under this section, the Secretary shall submit to Congress a final report on the feasibility and advisability of continuing or expanding the respective pilot program.”
+Final report.—Not later than 180 days after the completion of each pilot program carried out under this section, the Secretary shall submit to Congress a final report on the feasibility and advisabilityof continuing or expanding the respective pilot program.”
 
 #### Study of Performance Measures for Claims Adjudications of the Veterans Benefits Administration
 

@@ -62,7 +62,7 @@ Pub. L. 108–7, div. B, title II, §210, Feb. 20, 2003, 117 Stat. 78, provided 
 
 Section 3 of Pub. L. 102–372 provided that: “The Secretary of Commerce, to the extent available resources permit, shall improve the survey of international air travelers conducted to provide the data needed to estimate the Nation's balance of payments in international travel by—
 
-&emsp;“(1) expanding the survey to cover travel to and from the Middle East, Africa, South America, and the Caribbean and enhancing coverage for Mexico, Oceania, the Far East, and Europe; and
+&emsp;“(1) expanding the survey to cover travel to and from the Middle East, Africa, South America, and theCaribbean and enhancing coverage for Mexico, Oceania, the Far East, and Europe; and
 
 &emsp;“(2) improving the methodology for conducting on-board surveys by (A) enhancing communications, training, and liaison activities in cooperation with participating air carriers, (B) providing for the continuation of needed data bases, and (C) utilizing improved sampling procedures.
 

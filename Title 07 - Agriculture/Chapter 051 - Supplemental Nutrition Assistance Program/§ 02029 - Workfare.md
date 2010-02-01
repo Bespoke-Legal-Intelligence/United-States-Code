@@ -2,7 +2,7 @@
 
 #### (a) Program plan; guidelines; compliance
 
-(1) The Secretary shall permit any political subdivision, in any State, that applies and submits a plan to the Secretary in compliance with guidelines promulgated by the Secretary to operate a workfare program pursuant to which every member of a household participating in the supplemental nutrition assistance program who is not exempt by virtue of the provisions of subsection (b) of this section shall accept an offer from such subdivision to perform work on its behalf, or may seek an offer to perform work, in return for compensation consisting of the allotment to which the household is entitled under section 2017(a) of this title, with each hour of such work entitling that household to a portion of its allotment equal in value to 100 percentum of the higher of the applicable State minimum wage or the Federal minimum hourly rate under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\].
+(1) The Secretary shall permit any political subdivision, in any State, that applies and submits a plan to the Secretary in compliance with guidelines promulgated by the Secretary to operate a workfare program pursuant to which every member of a household participating in the supplemental nutrition assistance program who is not exempt by virtue of the provisions of subsection (b) of this section shall accept an offer from such subdivision to perform work on its behalf, or may seek an offer to perform work, in return for compensation consisting of the allotment to which the household is entitled under section 2017(a) of this title, with each hour of such work entitling that household to a portion of its allotment equal in value to 100 per centum of the higher of the applicable State minimum wage or the Federal minimum hourly rate under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\].
 
 (2)(A) The Secretary shall promulgate guidelines pursuant to paragraph (1) which, to the maximum extent practicable, enable a political subdivision to design and operate a workfare program under this section which is compatible and consistent with similar workfare programs operated by the subdivision.
 
@@ -44,7 +44,7 @@ The operating agency may allow a job search period, prior to making workfare ass
 
 #### (f) Disqualification
 
-An individual or a household may become ineligible under section 2015(d)(1) of this title to participate in the supplemental nutrition assistance program for failing to comply with this section.
+An individual or a household may become ineligible under section 2015(d)(1) of this title toparticipate in the supplemental nutrition assistance program for failing to comply with this section.
 
 #### (g) Payment of administrative expenses
 
@@ -110,7 +110,7 @@ Subsec. (g)(2), (3). Pub. L. 97–253, §188, added par. (2) and redesignated fo
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Amendment by section 4001(b) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

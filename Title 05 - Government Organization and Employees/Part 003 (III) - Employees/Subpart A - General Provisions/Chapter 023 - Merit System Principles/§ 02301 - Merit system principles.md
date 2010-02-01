@@ -288,7 +288,7 @@ Study on Ascertainment of Certain Costs of the Department of Justice in Defendin
 
 &emsp;“(1)
 
-Study.—Not later than 180 days after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office \[now Government Accountability Office\] shall conduct a study of the methods thatcould be used for, and the extent of any administrative burden that would be imposed on, the Department of Justice to ascertain the personnel and administrative costs incurred in defending in each case arising from a proceeding identified under section 201(a)(1) and (2).
+Study.—Not later than 180 days after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office \[now Government Accountability Office\] shall conduct a study of the methods that could be used for, and the extent of any administrative burden that would be imposed on, the Department of Justice to ascertain the personnel and administrative costs incurred in defending in each case arising from a proceeding identified under section 201(a)(1) and (2).
 
 &emsp;“(2)
 

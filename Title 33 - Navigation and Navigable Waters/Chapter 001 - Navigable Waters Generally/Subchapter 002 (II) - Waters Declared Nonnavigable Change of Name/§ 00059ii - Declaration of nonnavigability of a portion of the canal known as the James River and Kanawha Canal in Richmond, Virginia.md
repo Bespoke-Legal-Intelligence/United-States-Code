@@ -12,7 +12,7 @@ The Secretary of Transportation shall provide such technical advice, information
 
 #### (1) In general
 
-&emsp;The Secretary of Transportation may terminate the effectiveness of the declaration made by subsection (a) of this section by publishing a determination that vessels operating on the waters declared nonnavigable by subsection (a) of this section have not been built, maintained, and operated in a manner consistent with protecting public safety.
+&emsp;The Secretary of Transportation may terminate the effectiveness of the declaration made by subsection (a) of this section by publishing a determination that vessels operating on the waters declared nonnavigable by subsection\(a) of this section have not been built, maintained, and operated in a manner consistent with protecting public safety.
 
 #### (2) Public input
 

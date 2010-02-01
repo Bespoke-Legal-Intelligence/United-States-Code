@@ -6,7 +6,7 @@ Not later than 12 months after November 16, 1990, the head of each Federal agenc
 
 #### (b) Certification
 
-The head of each Federal agency affected by this chapter shall report and certify that each such agency is in compliance with the provisions of this chapter. Such reports and certifications shall be submitted annually to the Committees and the Secretary.
+The head of each Federal agency affected by this chapter shall report and certify that eachsuch agency is in compliance with the provisions of this chapter. Such reports and certifications shall be submitted annually to the Committees and the Secretary.
 
 (Pub. L. 97–348, §7, Oct. 18, 1982, 96 Stat. 1657; Pub. L. 101–591, §14, Nov. 16, 1990, 104 Stat. 2941.)
 

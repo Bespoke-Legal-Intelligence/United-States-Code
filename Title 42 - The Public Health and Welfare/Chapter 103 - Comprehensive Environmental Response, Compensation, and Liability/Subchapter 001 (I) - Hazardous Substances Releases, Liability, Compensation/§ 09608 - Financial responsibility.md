@@ -6,7 +6,7 @@
 
 (2) The Secretary of the Treasury shall withhold or revoke the clearance required by section 60105 of title 46 of any vessel subject to this subsection that does not have certification furnished by the President that the financial responsibility provisions of paragraph (1) of this subsection have been complied with.
 
-(3) The Secretary of Transportation, in accordance with regulations issued by him, shall (A) deny entry to any port or place in the United States or navigable waters to, and (B) detain at the port or place in the United States fromwhich it is about to depart for any other port or place in the United States, any vessel subject to this subsection that, upon request, does not produce certification furnished by the President that the financial responsibility provisions of paragraph (1) of this subsection have been complied with.
+(3) The Secretary of Transportation, in accordance with regulations issued by him, shall (A) deny entry to any port or place in the United States or navigable waters to, and (B) detain at the port or place in the United States from which it is about to depart for any other port or place in the United States, any vessel subject to this subsection that, upon request, does not produce certification furnished by the President that the financial responsibility provisions of paragraph (1) of this subsection have been complied with.
 
 (4) In addition to the financial responsibility provisions of paragraph (1) of this subsection, the President shall require additional evidence of financial responsibility for incineration vessels in such amounts, and to cover such liabilities recognized by law, as the President deems appropriate, taking into account the potential risks posed by incineration and transport for incineration, and any other factors deemed relevant.
 
@@ -36,7 +36,7 @@
 
 #### (1) Total liability
 
-&emsp;The total liability of any guarantor in a direct action suit brought under this section shall be limited to the aggregate amount of the monetary limits of the policy of insurance, guarantee, surety bond, letter of credit, orsimilar instrument obtained from the guarantor by the person subject to liability under section 9607 of this title for the purpose of satisfying the requirement for evidence of financial responsibility.
+&emsp;The total liability of any guarantor in a direct action suit brought under this section shall be limited to the aggregate amount of the monetary limits of the policy of insurance, guarantee, surety bond, letter of credit, or similar instrument obtained from the guarantor by the person subject to liability under section 9607 of this title for the purpose of satisfying the requirement for evidence of financial responsibility.
 
 #### (2) Other liability
 

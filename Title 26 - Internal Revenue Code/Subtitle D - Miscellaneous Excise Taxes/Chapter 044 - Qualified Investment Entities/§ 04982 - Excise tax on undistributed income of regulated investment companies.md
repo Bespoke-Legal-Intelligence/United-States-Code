@@ -152,7 +152,7 @@ This section shall not apply to any regulated investment company for any calenda
 
 > For purposes of the preceding sentence, any shares attributable to an investment in the regulated investment company (not exceeding $250,000) made in connection with the organization of such company shall not be taken into account.
 
-(Added Pub. L. 99–514, title VI, §651(a), Oct. 22, 1986, 100 Stat. 2294; amended Pub. L. 100–203, title X, §10104(b)(1), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §1006(<i>l</i>)(2), (5), (6), Nov. 10, 1988, 102 Stat. 3413, 3414; Pub. L. 101–239, title VII, §7204(a)(1), Dec. 19, 1989, 103 Stat. 2334; Pub. L. 105–34, title XI, §1122(c)(1), Aug. 5, 1997, 111 Stat. 976.)
+(Added Pub. L. 99–514, title VI, §651(a), Oct. 22, 1986, 100 Stat. 2294; amended Pub. L. 100–203, title X, §10104(b)(1), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §1006(<i>l</i>)(2), (5), (6), Nov. 10, 1988, 102 Stat. 3413, 3414; Pub. L. 101–239, titleVII, §7204(a)(1), Dec. 19, 1989, 103 Stat. 2334; Pub. L. 105–34, title XI, §1122(c)(1), Aug. 5, 1997, 111 Stat. 976.)
 
 #### Amendments
 

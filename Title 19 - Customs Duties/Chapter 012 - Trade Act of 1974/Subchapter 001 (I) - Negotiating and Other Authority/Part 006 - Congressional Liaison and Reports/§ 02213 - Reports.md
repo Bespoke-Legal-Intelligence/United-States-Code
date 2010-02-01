@@ -42,7 +42,7 @@
 
 &emsp;(iv) the progress that was made during the preceding year in achieving the trade policy objectives and priorities included in the statement provided for that year under this paragraph.
 
-(B) The President may separately submit any information referred to in subparagraph (A) tothe Congress in confidence if the President considers confidentiality appropriate.
+(B) The President may separately submit any information referred to in subparagraph (A) to the Congress in confidence if the President considers confidentiality appropriate.
 
 (C) Before submitting the national trade policy agenda for any year, the President shall seek advice from the appropriate advisory committees established under section 2155 of this title and shall consult with the appropriate committees of the Congress.
 
@@ -130,7 +130,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(2) Economic forecasts anticipate continued growth in such deficits in the next few years.
 
-&emsp;“(3) The positive net international asset position that the United States built up over many years waseliminated in the 1980s. The United States today has become the world's largest debtor nation.
+&emsp;“(3) The positive net international asset position that the United States built up over many years was eliminated in the 1980s. The United States today has become the world's largest debtor nation.
 
 &emsp;“(4) The United States merchandise trade deficit is characterized by large bilateral trade imbalances with a handful of countries.
 
@@ -224,7 +224,7 @@ Duties of the Commission.—
 
 &emsp;“(1)
 
-In general.—The Commission shall be responsible for examining the nature, causes, and consequences of, and the accuracy of available data on, the United States merchandise trade and current account deficits.
+In general.—The Commission shall be responsible for examining the nature, causes, and consequences of, and the accuracy of available data on, theUnited States merchandise trade and current account deficits.
 
 &emsp;“(2)
 
@@ -328,7 +328,7 @@ Staff.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Chairperson of the Commission may, without regard to the civil service laws and regulations, appoint and terminate an executive director and such other additional personnel as may be necessary to enable the Commission to perform its duties. The employment of an executive director shall be subject to confirmation by the Commission.
+In general.—The Chairperson of the Commission may, without regard to the civil service laws and regulations, appoint and terminate an executive director and such other additional personnel as may be necessary to enable the Commissionto perform its duties. The employment of an executive director shall be subject to confirmation by the Commission.
 
 &emsp;&emsp;“(B)
 

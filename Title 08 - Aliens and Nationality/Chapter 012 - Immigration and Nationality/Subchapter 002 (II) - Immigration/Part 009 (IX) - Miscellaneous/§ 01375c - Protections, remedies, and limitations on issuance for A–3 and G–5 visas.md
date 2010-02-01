@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(A) establishing a system to monitor the treatment of nonimmigrants holding an A–3 visa or a G–5 visa who have been admitted to the United States;
 
-&emsp;&emsp;(B) a range of compensation approaches, such as a bond program, compensation fund, or insurance scheme, to ensure that such nonimmigrants receive appropriate compensation if their employers violate the terms of their employment contracts; and
+&emsp;&emsp;(B) a range of compensation approaches, such as a bond program, compensation fund,or insurance scheme, to ensure that such nonimmigrants receive appropriate compensation if their employers violate the terms of their employment contracts; and
 
 &emsp;&emsp;(C) with respect to each proposed compensation approach described in subparagraph (B), an evaluation and proposal describing the proposed processes for—
 

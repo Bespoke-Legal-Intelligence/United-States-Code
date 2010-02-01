@@ -8,7 +8,7 @@
 
 #### (2) Contents
 
-&emsp;The best practices developed under paragraph (1) shall include information related to policies, procedures, and programs that may be used by States to address—
+&emsp;The best practices developed under paragraph (1) shall include information related topolicies, procedures, and programs that may be used by States to address—
 
 &emsp;&emsp;(A) maintenance of the parent-child bond during incarceration;
 

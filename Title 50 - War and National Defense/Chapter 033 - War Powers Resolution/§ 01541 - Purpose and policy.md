@@ -22,6 +22,44 @@ Section 10 of Pub. L. 93–148 provided that: “This joint resolution \[enactin
 
 Section 1 of Pub. L. 93–148 provided that: “This joint resolution \[enacting this chapter\] may be cited as the ‘War Powers Resolution’.”
 
+#### Report on Responsible Redeployment of United States Armed Forces From Iraq
+
+Pub. L. 111–84, div. A, title XII, §1227, Oct. 28, 2009, 123 Stat. 2525, provided that:
+
+“(a)
+
+Report Required.—Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 2009\], or December 31, 2009, whichever occurs later, and every 90 days thereafter, the Secretary of Defense shall submit to the appropriate congressional committees a report concerning the responsible redeployment of United States Armed Forces from Iraq in accordance with the policy announced by the President on February 27, 2009, and the Agreement Between the United States of America and the Republic of Iraq On the Withdrawal of United States Forces From Iraq and the Organization of Their Activities During Their Temporary Presence in Iraq.
+
+“(b)
+
+Elements.—The report required under subsection (a) shall include the following elements:
+
+&emsp;“(1) The number of United States military personnel in Iraq by service and component for each month of the preceding 90-day period and an estimate of the personnel levels in Iraq for the 90-day period following submission of the report.
+
+&emsp;“(2) The number and type of military installations in Iraq occupied by 100 or more United States military personnel and the number of such military installations closed, consolidated, or transferred to the Government of Iraq in the preceding 90-day period.
+
+&emsp;“(3) An estimate of the number of military vehicles, containers of equipment, tons of ammunition, or other significant items belonging to the Department of Defense removed from Iraq during the preceding 90-day period, an estimate of the remaining amount of such items belonging to the Department of Defense, and an assessment of the likelihood of successfully removing, demilitarizing, or otherwise transferring all items belonging to the Department of Defense from Iraq on or before December 31, 2011.
+
+&emsp;“(4) An assessment of United States detainee operations and releases. Such assessment should include the total number of detainees held by the United States in Iraq, the number of detainees in each threat level category, the number of detainees who are not nationals of Iraq, the number of detainees transferredto Iraqi authorities, the number of detainees who were released from United States custody and the reasons for their release, and the number of detainees who having been released in the past were recaptured or had their remains identified planning or after carrying out attacks on United States or Coalition forces.
+
+&emsp;“(5) A listing of the objective and subjective factors utilized by the commander of Multi-National Force–Iraq, including any changes to that list in the case of an update to the report, to determine risk levels associated with the drawdown of United States Armed Forces, and the process and timing that will be utilized by the commander of Multi-National Force–Iraq and the Secretary of Defense to assess risk and make recommendations to the President about either continuing the redeployment of United States Armed Forces from Iraq in accordance with the schedule announced by the President or modifying the pace or timing of that redeployment.
+
+“(c)
+
+Inclusion in Other Reports.—The report required under subsection (a) and any updates to the report may be included in any other required report on Iraq submitted to Congress by the Secretary of Defense.
+
+“(d)
+
+Form.—The report required under subsection (a), whether or not included in another report on Iraq submitted to Congress by the Secretary of Defense, may include a classified annex.
+
+“(e)
+
+Appropriate Congressional Committees.—In this section, the term ‘appropriate congressional committees’ means—
+
+&emsp;“(1) the Committee on Armed Services, the Committee on Foreign Relations, the Select Committee on Intelligence, and the Committee on Appropriations of the Senate; and
+
+&emsp;“(2) the Committee on Armed Services, the Committee on Foreign Affairs, the Permanent Select Committee on Intelligence, and the Committee on Appropriations of the House of Representatives.”
+
 #### United States Policy on Iraq
 
 Pub. L. 109–163, div. A, title XII, §1227, Jan. 6, 2006, 119 Stat. 3465, as amended by Pub. L. 110–181, div. A, title XII, §1223(a)(1), (b), Jan. 28, 2008, 122 Stat. 373, 374, provided that:
@@ -110,7 +148,7 @@ Reports to Congress on United States Policy and Military Operations in Iraq.—N
 
 Congressional Briefings Required.—Not later than 30 days after the submission of the first report under subsection (c) on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 \[Jan. 28, 2008\], the Secretary of Defense and the Chairman of the Joint Chiefs of Staff shall meet with the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] to brief such committees on the matters described in paragraphs (7) and (8) of subsection (c) contained in the report. Not later than 30 days after the submission of each subsequent report under subsection (c), appropriate senior officials of the Department of Defense shall meet with the congressional defense committees to brief such committees on the matters described in paragraphs (7) and (8) of subsection (c) contained in the report.”
 
-\[Pub. L. 110–181, div. A, title XII, §1223(a)(2), Jan. 28, 2008, 122 Stat. 374, provided that: “The amendments made by paragraph (1) \[amending section 1227 of Pub. L.109–163, set out above\] shall apply with respect to each report required to be submitted to Congress under section 1227(c) of the National Defense Authorization Act for Fiscal Year 2006 \[Pub. L. 109–163\] on or after the date of the enactment of this Act \[Jan. 28, 2008\].”\]
+\[Pub. L. 110–181, div. A, title XII, §1223(a)(2), Jan. 28, 2008, 122 Stat. 374, provided that: “The amendments made by paragraph (1) \[amending section 1227 of Pub. L. 109–163, set out above\] shall apply with respect to each report required to be submitted to Congress under section 1227(c) of the National Defense Authorization Act for Fiscal Year 2006 \[Pub. L. 109–163\] on or after the date of the enactment of this Act \[Jan. 28, 2008\].”\]
 
 \[Memorandum of President of the United States, Apr. 6, 2006, 71 F.R. 19427, assigned to the Secretary of State the functions of the President under section 1227(c) of Pub. L. 109–163, set out above.\]
 
@@ -142,7 +180,7 @@ Pub. L. 107–243, Oct. 16, 2002, 116 Stat. 1498, provided that:
 
 “Whereas the attacks on the United States of September 11, 2001, underscored the gravity of the threat posed by the acquisition of weapons of mass destruction by international terrorist organizations;
 
-“Whereas Iraq's demonstrated capability and willingness to use weapons of mass destruction, the risk that the current Iraqi regime will either employ those weapons to launch a surprise attack against the United States or its Armed Forces or provide them to international terrorists who would do so, and the extreme magnitude of harm that would result to the United States and its citizens from such an attack, combine to justify action by the United States to defend itself;
+“Whereas Iraq's demonstrated capability and willingness to use weapons of mass destruction, the risk that the current Iraqi regime will either employ those weapons to launch a surprise attack against the United States or its Armed Forces or provide them to international terrorists who would do so, and the extreme magnitude of harm that would result tothe United States and its citizens from such an attack, combine to justify action by the United States to defend itself;
 
 “Whereas United Nations Security Council Resolution 678 (1990) authorizes the use of all necessary means to enforce United Nations Security Council Resolution 660 (1990) and subsequent relevant resolutions and to compel Iraq to cease certain activities that threaten international peace and security, including the development of weapons of mass destruction and refusal or obstruction of United Nations weapons inspections in violation of United Nations Security Council Resolution 687 (1991), repression of its civilian population in violation of United Nations Security Council Resolution 688 (1991), and threatening its neighbors or United Nations operations in Iraq in violation of United Nations Security Council Resolution 949 (1994);
 
@@ -254,7 +292,7 @@ War Powers Resolution Requirements.—
 
 &emsp;“(1)
 
-Specific statutory authorization.—Consistent with section 8(a)(1) of the War Powers Resolution \[50 U.S.C. 1547(a)(1)\], the Congress declares that thissection is intended to constitute specific statutory authorization within the meaning of section 5(b) of the War Powers Resolution \[50 U.S.C. 1544(b)\].
+Specific statutory authorization.—Consistent with section 8(a)(1) of the War Powers Resolution \[50 U.S.C. 1547(a)(1)\], the Congress declares that this section is intended to constitute specific statutory authorization within the meaning of section 5(b) of the War Powers Resolution \[50 U.S.C. 1544(b)\].
 
 &emsp;“(2)
 
@@ -344,7 +382,7 @@ Pub. L. 103–423, Oct. 25, 1994, 108 Stat. 4358, provided that:
 
 #### “SEC. 5. REPORT ON UNITED STATES AGREEMENTS.
 
-“Not later than November 15, 1994, the Secretary of State shall provide a comprehensive report to Congress on all agreements the United States has entered into with other nations, including any assistance pledged or provided, in connection with United States efforts in Haiti. Such report shall also include information onany agreements or commitments relating to United Nations Security Council actions concerning Haiti since 1992.
+“Not later than November 15, 1994, the Secretary of State shall provide a comprehensive report to Congress on all agreements the United States has entered into with other nations, including any assistance pledged or provided, in connection with United States efforts in Haiti. Such report shall also include information on any agreements or commitments relating to United Nations Security Council actions concerning Haiti since 1992.
 
 #### “SEC. 6. TRANSITION TO UNITED NATIONS MISSION IN HAITI.
 
@@ -574,7 +612,7 @@ Sec. 5. (a) The Congress declares that the participation of the armed forces of 
 
 “
 
-Sec. 6. The participation of United States Armed Forces in the Multinational Force in Lebanon shall be authorized for purposes of the War Powers Resolution \[50 U.S.C. 1541 et seq.\] until the end of the eighteen-month period beginning on the date of enactment of this resolution \[Oct. 12, 1983\] unless the Congress extends such authorization, except that such authorization shall terminate sooner upon the occurrence of any one of the following:
+Sec. 6. The participation of United States Armed Forces in the Multinational Force in Lebanon shall be authorized for purposes of the War Powers Resolution \[50 U.S.C. 1541 et seq.\] until the end of the eighteen-month period beginning on the date of enactment ofthis resolution \[Oct. 12, 1983\] unless the Congress extends such authorization, except that such authorization shall terminate sooner upon the occurrence of any one of the following:
 
 &emsp;“(1) the withdrawal of all foreign forces from Lebanon, unless the President determines and certifies to the Congress that continued United States Armed Forces participation in the Multinational Force in Lebanon is required after such withdrawal in order to accomplish the purposes specified in the September 25, 1982, exchange of letters providing for the establishment of the Multinational Force in Lebanon; or
 
@@ -602,7 +640,7 @@ Sec. 8. (a) Any joint resolution or bill introduced to amend or repeal this Act 
 
 “(c) Such a joint resolution or bill passed by one House shall be referred to the committee of the other House named in subsection (a) and shall be reported out by such committee together with its recommendations within fifteen calendar days and shall thereupon become the pending business of such House and shall be voted upon within three calendar days, unless such House shall otherwise determine by the yeas and nays.
 
-“(d) In the case of any disagreement between the two Houses of Congress with respect to a joint resolution orbill passed by both Houses, conferees shall be promptly appointed and the committee of conference shall make and file a report with respect to such joint resolution within six calendar days after the legislation is referred to the committee of conference. Notwithstanding any rule in either House concerning the printing of conference reports in the Record or concerning any delay in the consideration of such reports, such report shall be acted on by both Houses not later than six calendar days after the conference report is filed. In the event the conferees are unable to agree within forty-eight hours, they shall report back to their respective Houses in disagreement.”
+“(d) In the case of any disagreement between the two Houses of Congress with respect to a joint resolution or bill passed by both Houses, conferees shall be promptly appointed and the committee of conference shall make and file a report with respect to such joint resolution within six calendar days after the legislation is referred to the committee of conference. Notwithstanding any rule in either House concerning the printing of conference reports in the Record or concerning any delay in the consideration of such reports, such report shall be acted on by both Houses not later than six calendar days after the conference report is filed. In the event the conferees are unable to agree within forty-eight hours, they shall report back to their respective Houses in disagreement.”
 
 #### Adherence to War Powers Resolution
 

@@ -10,7 +10,7 @@ The Secretary, whenever he determines such action is necessary for the protectio
 
 #### (c) Use of trade names; false or misleading marking or labeling; misleading form or size of container
 
-No article subject to this chapter shall be sold or offered for sale by any person in commerce, under any name or other marking or labeling which is false or misleading, or in any container of a misleading form or size, but established trade names and other marking and labeling and containers which are not false or misleading and which are approved by the Secretary are permitted.
+No article subject to this chapter shall be sold or offered for sale by any person in commerce, under any name or other marking or labeling which is false or misleading, or in any container of a misleading form or size, but establishedtrade names and other marking and labeling and containers which are not false or misleading and which are approved by the Secretary are permitted.
 
 #### (d) Withholding use of false or misleading mark, label, or container size or form; modification; hearing; conclusiveness of determination; appeal
 

@@ -28,7 +28,7 @@ Evidentiary Weight of Notice.—If a notice of copyright in the form and positio
 
 I74house report no. 94–1476
 
-A requirement that the public be given formal notice of every work in which copyright is claimed was a part of the first U.S. copyright statute enacted in 1790, and since 1802 our copyright laws have always provided that the published copies of copyrighted works must bear a specified notice as a condition of protection. Under the present law the copyright notice serves four principal functions:
+A requirement that the public be given formal notice of every work in which copyright is claimed was a part of the first U.S. copyright statute enacted in 1790, and since 1802 our copyright laws have always provided that the published copies of copyrighted works must bear aspecified notice as a condition of protection. Under the present law the copyright notice serves four principal functions:
 
 &emsp;(1) It has the effect of placing in the public domain a substantial body of published material that no one is interested in copyrighting;
 
@@ -38,7 +38,7 @@ A requirement that the public be given formal notice of every work in which copy
 
 &emsp;(4) It shows the date of publication.
 
-Ranged against these values of a notice requirement are its burdens and unfairness to copyright owners. Oneof the strongest arguments for revision of the present statute has been the need to avoid the arbitrary and unjust forfeitures now resulting from unintentional or relatively unimportant omissions or errors in the copyright notice. It has been contended that the disadvantages of the notice requirement outweigh its values and that it should therefore be eliminated or substantially liberalized.
+Ranged against these values of a notice requirement are its burdens and unfairness to copyright owners. One of the strongest arguments for revision of the present statute has been the need to avoid the arbitrary and unjust forfeitures now resulting from unintentional or relatively unimportant omissions or errors in the copyright notice. It has been contended that the disadvantages of the notice requirement outweigh its values and that it should therefore be eliminated or substantially liberalized.
 
 The fundamental principle underlying the notice provisions of the bill is that the copyright notice has real values which should be preserved, and that this should be done by inducing use of notice without causing outright forfeiture for errors or omissions. Subject to certain safeguards for innocent infringers, protection would not be lost by the complete omission of copyright notice from large numbers of copies or from a whole edition, if registration for the work is made before or within 5 years after publication. Errors in the name or date in the notice could be corrected without forfeiture of copyright.
 

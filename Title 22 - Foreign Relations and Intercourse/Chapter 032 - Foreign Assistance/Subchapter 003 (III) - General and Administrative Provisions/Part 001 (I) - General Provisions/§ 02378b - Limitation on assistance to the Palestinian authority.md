@@ -176,7 +176,7 @@ Audits by inspector general of usaid.—Of the amounts available for each of the
 
 “(a)
 
-In General.—Except as provided in subsection (b), a visa should not be issued to any alien who is anofficial of, under the control of, or serving as a representative of the Hamas-led Palestinian Authority during any period for which a certification described in section 620K(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2378b(b)\] (as added by section 2(b)(2) of this Act) is not in effect with respect to the Palestinian Authority.
+In General.—Except as provided in subsection (b), a visa should not be issued to any alien who is an official of, under the control of, or serving as a representative of the Hamas-led Palestinian Authority during any period for which a certification described in section 620K(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2378b(b)\] (as added by section 2(b)(2) of this Act) is not in effect with respect to the Palestinian Authority.
 
 “(b)
 

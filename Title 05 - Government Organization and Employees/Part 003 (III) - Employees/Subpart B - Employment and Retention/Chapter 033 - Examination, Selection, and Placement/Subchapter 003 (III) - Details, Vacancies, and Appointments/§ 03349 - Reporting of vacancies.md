@@ -2,7 +2,7 @@
 
 (a) The head of each Executive agency (including the Executive Office of the President, and other than the Government Accountability Office) shall submit to the Comptroller General of the United States and to each House of Congress—
 
-&emsp;(1) notification of a vacancy in an office to which this section and sections 3345, 3346, 3347,3348, 3349a, 3349b, 3349c, and 3349d apply and the date such vacancy occurred immediately upon the occurrence of the vacancy;
+&emsp;(1) notification of a vacancy in an office to which this section and sections 3345, 3346, 3347, 3348, 3349a, 3349b, 3349c, and 3349d apply and the date such vacancy occurred immediately upon the occurrence of the vacancy;
 
 &emsp;(2) the name of any person serving in an acting capacity and the date such service began immediately upon the designation;
 

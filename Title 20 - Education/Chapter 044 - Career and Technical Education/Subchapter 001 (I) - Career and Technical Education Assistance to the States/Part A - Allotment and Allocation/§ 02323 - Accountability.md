@@ -76,7 +76,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each eligible agency, with input from eligible recipients, shall establish in theState plan submitted under section 2342 of this title, levels of performance for each of the core indicators of performance described in subparagraphs (A) and (B) of paragraph (2) for career and technical education activities authorized under this subchapter. The levels of performance established under this subparagraph shall, at a minimum—
+&emsp;&emsp;&emsp;Each eligible agency, with input from eligible recipients, shall establish in the State plan submitted under section 2342 of this title, levels of performance for each of the core indicators of performance described in subparagraphs (A) and (B) of paragraph (2) for career and technical education activities authorized under this subchapter. The levels of performance established under this subparagraph shall, at a minimum—
 
 &emsp;&emsp;&emsp;&emsp;(I) be expressed in a percentage or numerical form, so as to be objective, quantifiable, and measurable; and
 
@@ -226,5 +226,5 @@ This section (as amended by such Act), referred to in subsec. (b)(2)(D), is this
 
 A prior section 2323, Pub. L. 88–210, title I, §113, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3087, related to accountability, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2323, Pub. L. 88–210, title I, §113, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2445; amended Pub. L. 99–159, title VII, §§704, 713(a)(1), (2), Nov. 22, 1985, 99 Stat. 905, 907; Pub. L. 101–392, title I, §113, Sept. 25, 1990, 104 Stat. 766; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–382, title III, §391(s)(2), Oct. 20, 1994, 108 Stat. 4024, required submission of State plans, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2323, Pub. L. 88–210, title I, §113, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2445; amended Pub. L. 99–159, title VII, §§704, 713(a)(1), (2), Nov. 22, 1985, 99 Stat. 905, 907; Pub. L. 101–392, title I, §113, Sept. 25, 1990, 104 Stat. 766; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–382, title III, §391(s)(2), Oct. 20, 1994, 108 Stat. 4024,required submission of State plans, prior to the general amendment of this chapter by Pub. L. 105–332.
 

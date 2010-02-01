@@ -108,7 +108,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Certification by Secretary
 
-Pub. L. 107–210, div. A, title III, §344(b), Aug. 6, 2002, 116 Stat. 987, provided that: “Not later than 3 months after the date of enactment of this section \[Aug. 6, 2002\], the Secretary of State shall determine whether the application of section 583 of the Tariff Act of 1930 \[this section\] to foreign mail transiting the United States that is imported or exported by the United States Postal Service is being handled in a manner consistent with international law and any international obligation of the United States. Section 583 of such Act shall not apply to such foreign mail unless the Secretary certifies to Congress that the application of such section 583 is consistent with international law and any international obligation of the United States.”
+Pub. L. 107–210, div. A, title III, §344(b), Aug. 6, 2002, 116 Stat. 987, provided that: “Not later than 3 monthsafter the date of enactment of this section \[Aug. 6, 2002\], the Secretary of State shall determine whether the application of section 583 of the Tariff Act of 1930 \[this section\] to foreign mail transiting the United States that is imported or exported by the United States Postal Service is being handled in a manner consistent with international law and any international obligation of the United States. Section 583 of such Act shall not apply to such foreign mail unless the Secretary certifies to Congress that the application of such section 583 is consistent with international law and any international obligation of the United States.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

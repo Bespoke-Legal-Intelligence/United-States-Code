@@ -60,7 +60,7 @@ Subsec. (c)(3). Pub. L. 110–394, §9(d), substituted “The Director may exten
 
 Subsec. (c)(8). Pub. L. 110–394, §9(e), added par. (8).
 
-2002—Subsec. (c)(2). Pub. L. 107–299 inserted first and second sentences and struck out former first sentence which read as follows: “The term of office of a voting member of the panel shall be 3 years, except that of the original appointees, five shall be appointed for a term of 1 year, five shall be appointed for a term of 2 years, and five shall be appointed for a term of 3 years.”
+2002—Subsec. (c)(2). Pub. L. 107–299 inserted first and second sentences and struck out former first sentence which read as follows: “The term of office of a votingmember of the panel shall be 3 years, except that of the original appointees, five shall be appointed for a term of 1 year, five shall be appointed for a term of 2 years, and five shall be appointed for a term of 3 years.”
 
 1998—Subsec. (a). Pub. L. 105–160, §8(a), struck out at end “The panel shall, on the 60th day after October 8, 1976, supersede the sea grant advisory panel in existence before October 8, 1976.”
 

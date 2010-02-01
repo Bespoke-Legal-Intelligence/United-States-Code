@@ -50,7 +50,7 @@ Subsec. (b)(4). Pub. L. 104–66, §1052(d)(2)–(4), added par. (4).
 
 Subsec. (b). Pub. L. 102–486, §152(i)(1)(B), substituted “, not later than April 2 of each year,” for “annually,”.
 
-Subsec. (b)(1). Pub. L. 102–486, §152(g)(1), substituted “including—” and subpars. (A) and (B) for “including acopy of the list of the exclusions made under section 8253(a)(2) of this title;”.
+Subsec. (b)(1). Pub. L. 102–486, §152(g)(1), substituted “including—” and subpars. (A) and (B) for “including a copy of the list of the exclusions made under section 8253(a)(2) of this title;”.
 
 Subsec. (c). Pub. L. 102–486, §152(g)(2), added subsec. (c).
 

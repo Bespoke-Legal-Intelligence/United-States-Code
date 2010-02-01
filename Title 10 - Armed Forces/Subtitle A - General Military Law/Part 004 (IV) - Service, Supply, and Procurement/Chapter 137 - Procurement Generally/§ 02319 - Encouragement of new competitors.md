@@ -18,7 +18,7 @@
 
 (c)(1) Subsection (b) of this section does not apply with respect to a qualification requirement established by statute or administrative action before October 19, 1984, unless such requirement is a qualified products list.
 
-(2)(A) Except as provided in subparagraph (B), if it is unreasonable to specify the standards for qualification which a prospective offeror or its product must satisfy, a determination to that effect shall be submitted to the advocate for competition of the procuring activity responsible for the purchase of the item subject to the qualification requirement. After considering anycomments of the advocate for competition reviewing such determination, the head of the purchasing office may waive the requirements of clauses (2) through (6) of subsection (b) for up to two years with respect to the item subject to the qualification requirement.
+(2)(A) Except as provided in subparagraph (B), if it is unreasonable to specify the standards for qualification which a prospective offeror or its product must satisfy, a determination to that effect shall be submitted to the advocate for competition of the procuring activity responsible for the purchase of the item subject to the qualification requirement. After considering any comments of the advocate for competition reviewing such determination, the head of the purchasing office may waive the requirements of clauses (2) through (6) of subsection (b) for up to two years with respect to the item subject to the qualification requirement.
 
 (B) The waiver authority provided in this paragraph does not apply with respect to a qualified products list.
 
@@ -36,7 +36,7 @@
 
 &emsp;(B) bear the cost of conducting the specified testing and evaluation (excluding the costs associated with producing the item or establishing the production, quality control, or other system to be tested and evaluated) for a small business concern or a product manufactured by a small business concern which has met the standards specified for qualification and which could reasonably be expected to compete for a contract for that requirement, but such costs may be borne only if the head of the agency determines that such additional qualified sources or products are likely to result in cost savings from increased competition for future requirements sufficient to amortize the costs incurred by the agency within a reasonable period of time considering the duration and dollar value of anticipated future requirements.
 
-(2) The head of an agency shall require a prospective contractor requesting the United States to bear testing and evaluation costs under paragraph (1)(B) to certify as to its status as a small business concern under section 3 of the Small Business Act (15 U.S.C. 632).
+(2) The head of an agency shall require a prospective contractor requesting the United States to bear testing and evaluation costsunder paragraph (1)(B) to certify as to its status as a small business concern under section 3 of the Small Business Act (15 U.S.C. 632).
 
 (e) Within seven years after the establishment of a qualification requirement under subsection (b) or within seven years following an agency's enforcement of a qualified products list, qualified manufacturers list, or qualified bidders list, any such qualification requirement shall be examined and revalidated in accordance with the requirements of subsection (b). The preceding sentence does not apply in the case of a qualification requirement for which a waiver is in effect under subsection (c)(2).
 

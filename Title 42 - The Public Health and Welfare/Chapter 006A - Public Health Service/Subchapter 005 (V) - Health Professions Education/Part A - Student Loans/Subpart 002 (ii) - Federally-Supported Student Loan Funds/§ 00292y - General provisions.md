@@ -42,7 +42,7 @@ Allotments to a loan fund of a school shall be paid to it from time to time in s
 
 &emsp;(B) For purposes of subparagraph (A), the conditions referred to in such subparagraph shall be applied with respect to graduates of the school involved whose date of graduation occurred approximately 3 years before June 30 of the fiscal year preceding the fiscal year for which the Federal capital contribution involved is made.
 
-(July 1, 1944, ch. 373, title VII, §735, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2021; amended Pub. L. 102–531, title III, §313(a)(1), Oct. 27, 1992, 106 Stat. 3507; Pub. L. 103–43, title XX, §2014(d), June 10, 1993, 107 Stat. 217; Pub. L. 105–392, title I, §134(c), Nov. 13, 1998, 112 Stat. 3578.)
+(July 1, 1944, ch. 373, title VII, §735, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106Stat. 2021; amended Pub. L. 102–531, title III, §313(a)(1), Oct. 27, 1992, 106 Stat. 3507; Pub. L. 103–43, title XX, §2014(d), June 10, 1993, 107 Stat. 217; Pub. L. 105–392, title I, §134(c), Nov. 13, 1998, 112 Stat. 3578.)
 
 #### Prior Provisions
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Commission, in consultation with the Postal Service, shall conduct a study on the feasibility and advisability of the establishment of a program under which the Postal Service shall waive or otherwise reduce the amount of postage applicable with respect to absentee ballots submitted by voters in general elections for Federal office (other than balloting materials mailed under section 3406 of title 39) that does not apply with respect to the postage required to send the absentee ballots to voters.
+&emsp;The Commission, in consultation with the Postal Service, shall conduct a study on thefeasibility and advisability of the establishment of a program under which the Postal Service shall waive or otherwise reduce the amount of postage applicable with respect to absentee ballots submitted by voters in general elections for Federal office (other than balloting materials mailed under section 3406 of title 39) that does not apply with respect to the postage required to send the absentee ballots to voters.
 
 #### (2) Public survey
 

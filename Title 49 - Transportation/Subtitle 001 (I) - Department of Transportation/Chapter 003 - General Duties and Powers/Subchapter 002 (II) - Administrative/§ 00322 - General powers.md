@@ -114,7 +114,7 @@ Pub. L. 104–205, title III, §344, Sept. 30, 1996, 110 Stat. 2976.
 
 #### Executive Order No. 11382
 
-Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247, as amended by Ex. Ord. No. 11428, Sept. 5, 1968, 32 F.R.12719, upon establishment of Department of Transportation amended and revoked certain executive orders relating to transportation, and, in addition to any other authority, authorized Secretary of Transportation and Federal Aviation Administrator to redelegate and authorize successive redelegations of any authority conferred in the order or the orders amended by it.
+Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247, as amended by Ex. Ord. No. 11428, Sept. 5, 1968, 32 F.R. 12719, upon establishment of Department of Transportation amended and revoked certain executive orders relating to transportation, and, in addition to any other authority, authorized Secretary of Transportation and Federal Aviation Administrator to redelegate and authorize successive redelegations of any authority conferred in the order or the orders amended by it.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

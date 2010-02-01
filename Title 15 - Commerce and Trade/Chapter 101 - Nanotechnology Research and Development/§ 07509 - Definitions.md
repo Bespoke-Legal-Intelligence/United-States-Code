@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Advisory Panel
 
-&emsp;The term “Advisory Panel” means the President's National Nanotechnology AdvisoryPanel established or designated under section 7503 of this title.
+&emsp;The term “Advisory Panel” means the President's National Nanotechnology Advisory Panel established or designated under section 7503 of this title.
 
 #### (2) Nanotechnology
 

@@ -120,7 +120,7 @@ In carrying out subsection (a) of this section, the Director may not prescribe o
 
 #### (6) Certain commercial insurance coverage not treated as covered benefit payment
 
-&emsp;No provision of this subsection shall be construed as prohibiting any regulated entity from purchasing any commercial insurancepolicy or fidelity bond, except that, subject to any requirement described in paragraph (5)(A)(iii), such insurance policy or bond shall not cover any legal or liability expense of the regulated entity which is described in paragraph (5)(A).
+&emsp;No provision of this subsection shall be construed as prohibiting any regulated entity from purchasing any commercial insurance policy or fidelity bond, except that, subject to any requirement described in paragraph (5)(A)(iii), such insurance policy or bond shall not cover any legal or liability expense of the regulated entity which is described in paragraph (5)(A).
 
 (Pub. L. 102–550, title XIII, §1318, Oct. 28, 1992, 106 Stat. 3949; Pub. L. 110–289, div. A, title I, §§1113(a), 1114, July 30, 2008, 122 Stat. 2678, 2679.)
 

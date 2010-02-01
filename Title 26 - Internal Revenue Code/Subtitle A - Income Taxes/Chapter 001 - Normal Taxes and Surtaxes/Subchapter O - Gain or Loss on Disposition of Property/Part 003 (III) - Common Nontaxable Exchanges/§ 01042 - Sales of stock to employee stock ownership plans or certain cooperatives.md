@@ -98,7 +98,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “qualified replacement property” means any security issued by a domestic operating corporation which—
 
-&emsp;&emsp;&emsp;(i) did not, for the taxable year preceding the taxable year in which such security was purchased, have passive investment income (as defined in section 1362(d)(3)(C)) in excess of 25 percent of the gross receiptsof such corporation for such preceding taxable year, and
+&emsp;&emsp;&emsp;(i) did not, for the taxable year preceding the taxable year in which such security was purchased, have passive investment income (as defined in section 1362(d)(3)(C)) in excess of 25 percent of the gross receipts of such corporation for such preceding taxable year, and
 
 &emsp;&emsp;&emsp;(ii) is not the corporation which issued the qualified securities which such security is replacing or a member of the same controlled group of corporations (within the meaning of section 1563(a)(1)) as such corporation.
 
@@ -184,7 +184,7 @@ The basis of the taxpayer in qualified replacement property purchased by the tax
 
 &emsp;Paragraph (1) shall not apply to any transfer of qualified replacement property—
 
-&emsp;&emsp;(A) in any reorganization (within the meaning of section 368) unless the person making the election under subsection (a)(1) owns stock representing control in the acquiring or acquired corporation and suchproperty is substituted basis property in the hands of the transferee,
+&emsp;&emsp;(A) in any reorganization (within the meaning of section 368) unless the person making the election under subsection (a)(1) owns stock representing control in the acquiring or acquired corporation and such property is substituted basis property in the hands of the transferee,
 
 &emsp;&emsp;(B) by reason of the death of the person making such election,
 
@@ -286,7 +286,7 @@ Subsec. (b)(4). Pub. L. 99–514, §1854(a)(3)(B), as amended by Pub. L. 100–6
 
 Subsec. (c). Pub. L. 99–514, §1899A(26), substituted “this section—” for “this section.—” in introductory provision.
 
-Subsec. (c)(1). Pub. L. 99–514, §1854(a)(4), substituted “stock outstanding that is” for “securities outstanding that are” in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “at the time of the sale described in subsection (a)(1), have been held by the taxpayer for more than 1 year, and”.
+Subsec. (c)(1). Pub. L. 99–514, §1854(a)(4), substituted “stock outstanding that is” for “securities outstanding that are” in subpar. (A), redesignated subpar. (C) as (B),and struck out former subpar. (B) which read as follows: “at the time of the sale described in subsection (a)(1), have been held by the taxpayer for more than 1 year, and”.
 
 Subsec. (c)(4). Pub. L. 99–514, §1854(a)(5)(A), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The term ‘qualified replacement property’ means any securities (as defined in section 165(g)(2)) issued by a domestic corporation which does not, for the taxable year in which such stock is issued, have passive investment income (as defined in section 1362(d)(3)(D)) that exceeds 25 percent of the gross receipts of such corporation for such taxable year.”
 
@@ -352,7 +352,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Line Item Veto
 
-Section 968 of Pub. L. 105–34, amending this section and enacting provisions set out as a note above, was subject to line item veto by the President, CancellationNo. 97–2, signed Aug. 11, 1997, 62 F.R. 43267, Aug. 12, 1997. For decision holding line item veto unconstitutional, see <i>Clinton v. City of New York</i>, 524 U.S. 417, 118 S.Ct. 2091, 141 L.Ed.2d 393 (1998).
+Section 968 of Pub. L. 105–34, amending this section and enacting provisions set out as a note above, was subject to line item veto by the President, Cancellation No. 97–2, signed Aug. 11, 1997, 62 F.R. 43267, Aug. 12, 1997. For decision holding line item veto unconstitutional, see <i>Clinton v. City of New York</i>, 524 U.S. 417, 118 S.Ct. 2091, 141 L.Ed.2d 393 (1998).
 
 #### Plan Amendments Not Required Until January 1, 1989
 

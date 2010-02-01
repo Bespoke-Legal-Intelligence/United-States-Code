@@ -30,7 +30,7 @@ The Director shall not exclude part-time students from eligibility for scholarsh
 
 #### Codification
 
-Section is comprised of section 15 of Pub. L. 107–368. Subsecs. (a)(1) and (c) of section 15 of Pub. L. 107–368amended section 1863 of this title, and subsec. (b) of section 15 of Pub. L. 107–368 amended section 1873 of this title.
+Section is comprised of section 15 of Pub. L. 107–368. Subsecs. (a)(1) and (c) of section 15 of Pub. L. 107–368 amended section 1863 of this title, and subsec. (b) of section 15 of Pub. L. 107–368 amended section 1873 of this title.
 
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 

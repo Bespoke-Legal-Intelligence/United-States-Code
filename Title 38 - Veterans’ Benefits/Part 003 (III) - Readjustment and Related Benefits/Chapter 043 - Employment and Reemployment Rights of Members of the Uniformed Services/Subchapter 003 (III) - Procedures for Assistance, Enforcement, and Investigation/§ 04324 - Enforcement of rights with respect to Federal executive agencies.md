@@ -42,7 +42,7 @@ A prior section 4324 was renumbered section 7624 of this title.
 
 2008—Subsec. (a)(1). Pub. L. 110–389, §311(d)(2), substituted “Not later than 60 days after the date the Secretary receives such a request, the Secretary shall refer” for “The Secretary shall refer”.
 
-Subsec. (a)(2)(B). Pub. L. 110–389, §311(e)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: “If the Special Counsel declines to initiate an action and represent a person before the Merit Systems Protection Board under subparagraph (A), the Special Counsel shall notify such person of that decision.”
+Subsec. (a)(2)(B). Pub. L. 110–389, §311(e)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “If the Special Counsel declines to initiate an action and represent a person before the Merit Systems Protection Board under subparagraph (A), the Special Counsel shall notify such person of that decision.”
 
 1998—Subsec. (c)(1). Pub. L. 105–368 inserted “, without regard as to whether the complaint accrued before, on, or after October 13, 1994” before period at end of first sentence.
 

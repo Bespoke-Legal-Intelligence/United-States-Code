@@ -32,7 +32,7 @@
 
 #### (4) Availability for funding section 4713 of this title
 
-&emsp;331/3 percent of the amounts appropriated to the Fund for any fiscal year pursuant to theauthorization in paragraph (1) shall be available for use in carrying out section 4713 of this title.
+&emsp;331/3 percent of the amounts appropriated to the Fund for any fiscal year pursuant to the authorization in paragraph (1) shall be available for use in carrying out section 4713 of this title.
 
 #### (5) Support of community development financial institutions
 

@@ -72,7 +72,7 @@ With respect to a covered person the database shall include information (in the 
 
 #### (B) Documentation in contract file
 
-&emsp;&emsp;The contract file for each contract of a Federal agency in excess of the simplifiedacquisition threshold shall document the manner in which the material in the database was considered in any responsibility determination or past performance evaluation.
+&emsp;&emsp;The contract file for each contract of a Federal agency in excess of the simplified acquisition threshold shall document the manner in which the material in the database was considered in any responsibility determination or past performance evaluation.
 
 #### (f) Disclosure in applications
 

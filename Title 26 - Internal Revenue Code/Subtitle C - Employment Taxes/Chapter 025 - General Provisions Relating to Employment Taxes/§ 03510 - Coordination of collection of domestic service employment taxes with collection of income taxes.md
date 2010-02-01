@@ -6,7 +6,7 @@ Except as otherwise provided in this section—
 
 &emsp;(1) returns with respect to domestic service employment taxes shall be made on a calendar year basis,
 
-&emsp;(2) any such return for any calendar year shall be filed on or before the 15th day of the fourth month following the close of the employer's taxable year which begins in such calendar year, and
+&emsp;(2) any such return for any calendar year shall be filed on or before the 15th day of thefourth month following the close of the employer's taxable year which begins in such calendar year, and
 
 &emsp;(3) no requirement to make deposits (or to pay installments under section 6157) shall apply with respect to such taxes.
 
@@ -76,7 +76,7 @@ A prior section 3510, added Pub. L. 98–21, title I, §123(b)(1), Apr. 20, 1983
 
 #### Effective Date
 
-Section 2(b)(3) of Pub. L. 103–387 provided that: “The amendments made by this subsection \[enacting thissection\] shall apply to remuneration paid in calendar years beginning after December 31, 1994.”
+Section 2(b)(3) of Pub. L. 103–387 provided that: “The amendments made by this subsection \[enacting this section\] shall apply to remuneration paid in calendar years beginning after December 31, 1994.”
 
 #### Expanded Information to Employers
 

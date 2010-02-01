@@ -2,7 +2,7 @@
 
 #### (a) Preservation and protection of security, lien, or priority of lien securing loan
 
-The Secretary is authorized and empowered to make advances, without regard to any loan or total indebtedness limitation, to preserve and protect the security for or the lien or priority of the lien securing any loan or other indebtedness owing to, insured by, or acquired by the Secretary under this chapter or under any other programs administered by the Farmers Home Administration or the Rural Development Administration; to bid for and purchase at any execution, foreclosure, or other sale or otherwise to acquire property upon which the United States has a lien by reason of a judgment or execution arising from, or which is pledged, mortgaged, conveyed, attached, or levied upon to secure the payment of, any such indebtedness whether or not such property is subject to other liens, to accept title to any property so purchased or acquired; and to sell, manage, or otherwise dispose of such property as hereinafter provided.
+The Secretary is authorized and empowered to make advances, without regard to any loan or total indebtedness limitation, to preserve andprotect the security for or the lien or priority of the lien securing any loan or other indebtedness owing to, insured by, or acquired by the Secretary under this chapter or under any other programs administered by the Farmers Home Administration or the Rural Development Administration; to bid for and purchase at any execution, foreclosure, or other sale or otherwise to acquire property upon which the United States has a lien by reason of a judgment or execution arising from, or which is pledged, mortgaged, conveyed, attached, or levied upon to secure the payment of, any such indebtedness whether or not such property is subject to other liens, to accept title to any property so purchased or acquired; and to sell, manage, or otherwise dispose of such property as hereinafter provided.
 
 #### (b) Operation or lease of realty
 
@@ -144,7 +144,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 &emsp;(II) such time as the lands are transferred into trust pursuant to clause (viii).
 
-(vi) At any time any real property is transferred to the Secretary of the Interior under clause (v), the Secretary of Agriculture shall be deemed to have no further responsibility under this Act for collection of any amounts with regard to the farm program loan which had been secured by such real property, nor with regard to any lien arising out of such loan transaction, nor for repayments of any amount with regard to such loan transactions or liens to the Treasury of the United States, and the Secretary of the Interior shall be deemed to have succeeded to all right, title and interest of the Secretaryof Agriculture in such real estate arising from the farm program loan transaction, including the obligation to remit to the Treasury of the United States, in repayment of the original loan, those amounts provided in clause (vii).
+(vi) At any time any real property is transferred to the Secretary of the Interior under clause (v), the Secretary of Agriculture shall be deemed to have no further responsibility under this Act for collection of any amounts with regard to the farm program loan which had been secured by such real property, nor with regard to any lien arising out of such loan transaction, nor for repayments of any amount with regard to such loan transactions or liens to the Treasury of the United States, and the Secretary of the Interior shall be deemed to have succeeded to all right, title and interest of the Secretary of Agriculture in such real estate arising from the farm program loan transaction, including the obligation to remit to the Treasury of the United States, in repayment of the original loan, those amounts provided in clause (vii).
 
 (vii) After the payment of any taxes which are required to be paid under clause (v), all remaining rental income derived from the lease of the real property transferred to the Secretary of the Interior under clause (v), and all other income generated from the real property transferred to the Secretary of the Interior under clause (v), shall be deposited as miscellaneous receipts in the Treasury of the United States until the amount deposited is equal to the lesser of—
 
@@ -200,7 +200,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 &emsp;&emsp;(dd) the property may be purchased by another party; and
 
-&emsp;&emsp;(ee) if the property is purchased by another party, the property will not be placed in the inventory of the Secretary and theborrower-owner will forfeit the rights and protections provided under this chapter; and
+&emsp;&emsp;(ee) if the property is purchased by another party, the property will not be placed in the inventory of the Secretary and the borrower-owner will forfeit the rights and protections provided under this chapter; and
 
 &emsp;(III) the opportunity of the borrower-owner to consult with the Indian tribe that has jurisdiction over the reservation in which the real property is located or counsel to determine if State or tribal law provides rights and protections that are more beneficial than those provided the borrower-owner under this chapter.
 
@@ -266,7 +266,7 @@ Assumed loans.—If an Indian tribe assumes a loan under subclause (I)—
 
 (2) The Secretary shall release from the normal income security provided for such loan an amount sufficient to pay for the essential household and farm operating expenses of the borrower, until such time as the Secretary accelerates such loan.
 
-(3) A borrower whose account was accelerated on or after November 1, 1985, and on or before May 7, 1987, but not thereafter foreclosed on orliquidated, shall be entitled to the release of security income for a period of 12 months, to pay the essential household and farm operating expenses of such borrower in an amount not to exceed $18,000 over 12 months, if such borrower—
+(3) A borrower whose account was accelerated on or after November 1, 1985, and on or before May 7, 1987, but not thereafter foreclosed on or liquidated, shall be entitled to the release of security income for a period of 12 months, to pay the essential household and farm operating expenses of such borrower in an amount not to exceed $18,000 over 12 months, if such borrower—
 
 &emsp;(A) as of October 30, 1987, continued to be actively engaged in the farming operations for which the Secretary had made the farmer program loan; and
 
@@ -314,7 +314,7 @@ Assumed loans.—If an Indian tribe assumes a loan under subclause (I)—
 
 &emsp;The appraised value of the farm shall reflect the value of the land due to the placement of wetland conservation easements.
 
-(Pub. L. 87–128, title III, §335, Aug. 8, 1961, 75 Stat. 315; Pub. L. 92–419, title I, §127, Aug. 30, 1972, 86 Stat. 666; Pub. L. 99–198, title XIII, §§1314(a), 1315, 1318(b)(1), Dec. 23, 1985, 99 Stat. 1526, 1528, 1531; Pub. L. 100–233, title VI, §§610, 611, Jan. 6, 1988, 101 Stat. 1669, 1673; Pub. L. 101–624, title XVIII, §§1813(a)–(h)(1), 1816(e), title XXIII, §§2303(c), 2388(g), Nov. 28, 1990, 104 Stat. 3821–3823, 3827, 3981, 4053; Pub. L. 102–237, title V, §501(f), Dec. 13, 1991, 105 Stat. 1867; Pub. L. 102–552, title V, §516(h)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 102–554, §§16, 17, Oct. 28, 1992, 106 Stat. 4154; Pub. L. 104–127, title VI, §§638, 639, Apr. 4, 1996, 110 Stat. 1093, 1097; Pub. L. 107–171, title V, §5308, May 13, 2002, 116 Stat. 345; Pub. L. 110–234, title V, §5302(a), May 22, 2008, 122 Stat. 1151; Pub. L. 110–246, §4(a), title V, §5302(a), June 18, 2008, 122 Stat. 1664, 1913.)
+(Pub. L. 87–128, title III, §335, Aug. 8, 1961, 75 Stat. 315; Pub. L. 92–419, title I, §127, Aug. 30, 1972, 86 Stat. 666; Pub. L. 99–198, title XIII, §§1314(a), 1315, 1318(b)(1), Dec. 23, 1985, 99 Stat. 1526, 1528, 1531; Pub. L. 100–233, title VI, §§610, 611, Jan. 6, 1988, 101 Stat. 1669, 1673; Pub. L. 101–624, title XVIII, §§1813(a)–(h)(1), 1816(e), title XXIII, §§2303(c), 2388(g), Nov. 28, 1990, 104 Stat. 3821–3823, 3827, 3981, 4053; Pub. L. 102–237, title V, §501(f), Dec. 13, 1991, 105 Stat. 1867; Pub. L. 102–552, title V, §516(h)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 102–554, §§16, 17, Oct. 28, 1992, 106Stat. 4154; Pub. L. 104–127, title VI, §§638, 639, Apr. 4, 1996, 110 Stat. 1093, 1097; Pub. L. 107–171, title V, §5308, May 13, 2002, 116 Stat. 345; Pub. L. 110–234, title V, §5302(a), May 22, 2008, 122 Stat. 1151; Pub. L. 110–246, §4(a), title V, §5302(a), June 18, 2008, 122 Stat. 1664, 1913.)
 
 #### References in Text
 
@@ -332,7 +332,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (c)(1)(B). Pub. L. 110–246, §5302(a)(1)(A), in heading, inserted “; socially disadvantaged farmeror rancher” at end, in cls. (i) and (iii), inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”, in cl. (ii), inserted “or socially disadvantaged farmer or rancher” after “beginning farmer or rancher”, and, in cl. (iv), substituted “beginning farmers or ranchers and socially disadvantaged farmers or ranchers” for “beginning farmers and ranchers”.
+2008—Subsec. (c)(1)(B). Pub. L. 110–246, §5302(a)(1)(A), in heading, inserted “; socially disadvantaged farmer or rancher” at end, in cls. (i) and (iii), inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”, in cl. (ii), inserted “or socially disadvantaged farmer or rancher” after “beginning farmer or rancher”, and, in cl. (iv), substituted “beginning farmers or ranchers and socially disadvantaged farmers or ranchers” for “beginning farmers and ranchers”.
 
 Subsec. (c)(1)(C). Pub. L. 110–246, §5302(a)(1)(B), inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”.
 
@@ -454,7 +454,7 @@ Subsec. (c)(2)(A), (B). Pub. L. 101–624, §1813(e)(1), added subpar. (A) and s
 
 Subsec. (c)(2)(B)(ii). Pub. L. 101–624, §1813(g)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “offer suitable land at a price not greater than that which reflects the appraised market value of such land;”.
 
-Subsec. (c)(2)(B)(iii). Pub. L. 101–624, §1813(b)(1), inserted before semicolon “, except that if the committeedetermines that two or more applicants meet the loan eligibility criteria, the committee shall select between the qualified applicants on a random basis”.
+Subsec. (c)(2)(B)(iii). Pub. L. 101–624, §1813(b)(1), inserted before semicolon “, except that if the committee determines that two or more applicants meet the loan eligibility criteria, the committee shall select between the qualified applicants on a random basis”.
 
 Subsec. (c)(2)(B)(iv). Pub. L. 101–624, §2388(g), substituted “cause” for “caused”.
 
@@ -526,7 +526,7 @@ Section 516(h)(2) of Pub. L. 102–552 provided that: “The amendments made by 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 1816 of Pub. L. 101–624 applicable to new applications submitted under section 2001 of this title on or after Nov. 28, 1990, see section 1861 ofPub. L. 101–624, set out as a note under section 2001 of this title.
+Amendment by section 1816 of Pub. L. 101–624 applicable to new applications submitted under section 2001 of this title on or after Nov. 28, 1990, see section 1861 of Pub. L. 101–624, set out as a note under section 2001 of this title.
 
 #### Effective Date of 1985 Amendment
 

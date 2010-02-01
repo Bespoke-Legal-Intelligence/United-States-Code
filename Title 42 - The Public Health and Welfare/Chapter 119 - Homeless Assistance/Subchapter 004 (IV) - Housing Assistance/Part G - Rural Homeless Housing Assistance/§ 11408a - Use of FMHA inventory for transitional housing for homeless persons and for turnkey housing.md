@@ -30,7 +30,7 @@ The priority uses of inventory property under this section shall not have a high
 
 #### (1) Identification of property
 
-&emsp;Upon receipt by the Secretary of written notification from a public agency or nonprofit organization that it proposes to lease a property for the purpose of providing transitional housing or for the purpose of providing transitional housing and turnkey housing opportunities, the Secretary shall—
+&emsp;Upon receipt by the Secretary of written notification from a public agency or nonprofitorganization that it proposes to lease a property for the purpose of providing transitional housing or for the purpose of providing transitional housing and turnkey housing opportunities, the Secretary shall—
 
 &emsp;&emsp;(A) withdraw the property from the market for not more than 30 days for the purpose of negotiations under subparagraph (B);
 
@@ -70,7 +70,7 @@ The priority uses of inventory property under this section shall not have a high
 
 #### (f) Employment of homeless individuals
 
-A public agency or nonprofit organization may lease or purchase property under this section only if the agency or organization, to the maximum extent practicable, involves homeless individuals and families, through employment, volunteer services, or otherwise, in maintaining, operating, and renovating any properties leased or acquired under this section and in providingany services for occupants of properties assisted under this section.
+A public agency or nonprofit organization may lease or purchase property under this section only if the agency or organization, to the maximum extent practicable, involves homeless individuals and families, through employment, volunteer services, or otherwise, in maintaining, operating, and renovating any properties leased or acquired under this section and in providing any services for occupants of properties assisted under this section.
 
 #### (g) Participation of homeless individuals
 

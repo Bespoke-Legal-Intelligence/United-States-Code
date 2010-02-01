@@ -2,7 +2,7 @@
 
 #### (a) Associate Administrator for Acquisition Workforce Programs
 
-The Administrator for Federal Procurement Policy shall designate a member of the Senior Executive Service as the Associate Administrator for Acquisition Workforce Programs. The Associate Administrator for Acquisition Workforce Programs shall be located in the Federal Acquisition Institute (or its successor). The Associate Administrator shall be responsible for—
+The Administrator for Federal Procurement Policy shall designate a member of the Senior Executive Service as the Associate Administrator for Acquisition Workforce Programs. TheAssociate Administrator for Acquisition Workforce Programs shall be located in the Federal Acquisition Institute (or its successor). The Associate Administrator shall be responsible for—
 
 &emsp;(1) supervising the acquisition workforce training fund established under section 433(h)(3) of this title;
 
@@ -82,7 +82,7 @@ In this section:
 
 #### Codification
 
-Section was enacted as part of the Acquisition Improvement and Accountability Act of 2007, and also as part of the National Defense Authorization Act for Fiscal Year 2008, and not as part of the Office of Federal Procurement Policy Act which comprises this chapter.
+Section was enacted as part of the Acquisition Improvement and Accountability Act of 2007, and also aspart of the National Defense Authorization Act for Fiscal Year 2008, and not as part of the Office of Federal Procurement Policy Act which comprises this chapter.
 
 #### Acquisition Workforce Development Strategic Plan
 

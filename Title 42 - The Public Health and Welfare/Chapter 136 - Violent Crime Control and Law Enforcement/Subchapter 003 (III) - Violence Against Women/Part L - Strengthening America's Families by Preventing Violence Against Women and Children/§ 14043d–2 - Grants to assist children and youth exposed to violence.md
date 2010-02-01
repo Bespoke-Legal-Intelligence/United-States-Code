@@ -32,7 +32,7 @@ The funds appropriated under this section shall be used for—
 
 &emsp;(1) programs that provide services for children exposed to domestic violence, dating violence, sexual assault, or stalking, which may include direct counseling, advocacy, or mentoring, and must include support for the nonabusing parent or the child's caretaker; or
 
-&emsp;(2) training, coordination, and advocacy for programs that serve children and youth (such as Head Start, child care, and after-school programs) on how to safely and confidentially identify children and families experiencing domestic violence and properly refer them to programs that can provide direct services to the family and children, and coordination with other domestic violence or other programs serving children exposed to domestic violence,dating violence, sexual assault, or stalking that can provide the training and direct services referenced in this subsection.
+&emsp;(2) training, coordination, and advocacy for programs that serve children and youth (such as Head Start, child care, and after-school programs) on how to safely and confidentially identify children and families experiencing domestic violence and properly refer them to programs that can provide direct services to the family and children, and coordination with other domestic violence or other programs serving children exposed to domestic violence, dating violence, sexual assault, or stalking that can provide the training and direct services referenced in this subsection.
 
 #### (d) Eligible entities
 

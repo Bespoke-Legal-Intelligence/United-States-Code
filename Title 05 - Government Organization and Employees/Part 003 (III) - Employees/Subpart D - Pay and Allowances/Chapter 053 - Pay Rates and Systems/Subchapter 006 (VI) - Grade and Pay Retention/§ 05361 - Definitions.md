@@ -28,7 +28,7 @@ For the purpose of this subchapter—
 
 &emsp;(8) “retained rate” means the rate of basic pay to which an employee is entitled under section 5363(b)(2).
 
-(Added Pub. L. 95–454, title VIII, §801(a)(1), Oct. 13, 1978, 92 Stat. 1218; amended Pub. L. 98–615, title II, §204(a)(2), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 101–509, title V, §529 \[title I, §105(b)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1448; Pub. L. 103–89, §3(b)(1)(J), Sept. 30, 1993, 107 Stat. 982; Pub. L. 108–411, title III, §301(a)(4), Oct. 30, 2004, 118 Stat. 2315.)
+(Added Pub. L. 95–454, title VIII, §801(a)(1), Oct. 13, 1978, 92 Stat. 1218; amended Pub. L. 98–615, title II, §204(a)(2), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 101–509, title V, §529 \[title I, §105(b)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1448; Pub. L. 103–89,§3(b)(1)(J), Sept. 30, 1993, 107 Stat. 982; Pub. L. 108–411, title III, §301(a)(4), Oct. 30, 2004, 118 Stat. 2315.)
 
 #### Prior Provisions
 

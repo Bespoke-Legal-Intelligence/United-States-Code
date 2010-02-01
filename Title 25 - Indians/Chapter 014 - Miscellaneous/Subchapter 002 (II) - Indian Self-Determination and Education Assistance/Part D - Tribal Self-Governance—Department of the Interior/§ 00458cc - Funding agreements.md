@@ -26,7 +26,7 @@ Each funding agreement shall—
 
 &emsp;&emsp;(B) for elementary and secondary schools under the formula developed pursuant to section 2008 of this title; and
 
-&emsp;&emsp;(C) the Flathead Agency Irrigation Division or the Flathead Agency Power Division, except that nothing in this section shall affect the contract authority of such divisions under section 450f of this title;
+&emsp;&emsp;(C) the Flathead Agency Irrigation Division or the Flathead Agency Power Division,except that nothing in this section shall affect the contract authority of such divisions under section 450f of this title;
 
 &emsp;(5) specify the services to be provided, the functions to be performed, and the responsibilities of the tribe and the Secretary pursuant to the agreement;
 
@@ -94,7 +94,7 @@ Not later than 90 days before the proposed effective date of an agreement entere
 
 &emsp;(B) the implementation of agreements entered into under this section.
 
-(2)(A) A tribe may submit a written request for a waiver to the Secretary identifying the regulation sought to be waived and the basis for the request.
+(2)(A) A tribe may submit a written request for a waiver to the Secretary identifying theregulation sought to be waived and the basis for the request.
 
 (B) Not later than 60 days after receipt by the Secretary of a written request by a tribe to waive application of a Federal regulation for an agreement entered into under this section, the Secretary shall either approve or deny the requested waiver in writing to the tribe. A denial may be made only upon a specific finding by the Secretary that identified language in the regulation may not be waived because such waiver is prohibited by Federal law. The Secretary's decision shall be final for the Department.
 
@@ -118,7 +118,7 @@ Act of April 16, 1934, referred to in subsec. (b)(1)(A), is act Apr. 16, 1934, c
 
 The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsec. (b)(4)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Office of Federal Procurement Policy Act, referred to in subsec. (e)(1), is Pub. L. 93–400, Aug. 30, 1974,88 Stat. 796, which is classified principally to chapter 7 (§401 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 41 and Tables.
+The Office of Federal Procurement Policy Act, referred to in subsec. (e)(1), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, which is classified principally to chapter 7 (§401 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 41 and Tables.
 
 This subchapter, referred to in subsecs. (e)(1), (g)(3), and (j), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter (§450 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 

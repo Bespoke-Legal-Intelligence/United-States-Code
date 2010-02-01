@@ -25,7 +25,8 @@
 | [1076a.](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md) | TRICARE dental program. |
 | \[1076b. | Repealed.\] |
 | [1076c.](%C2%A7%2001076c%20-%20Dental%20insurance%20plan%20certain%20retirees%20and%20their%20surviving%20spouses%20and%20other%20dependents.md) | Dental insurance plan: certain retirees and their surviving spouses and other dependents. |
-| [1076d.](%C2%A7%2001076d%20-%20TRICARE%20program%20TRICARE%20standard%201%20coverage%20for%20members%20of%20the%20Selected%20Reserve.md) | TRICARE program: TRICARE Standard coverage for members of the Selected Reserve. |
+| [1076d.](%C2%A7%2001076d%20-%20TRICARE%20program%20TRICARE%20Standard%20coverage%20for%20members%20of%20the%20Selected%20Reserve.md) | TRICARE program: TRICARE Standard coverage for members of the Selected Reserve. |
+| [1076e.](%C2%A7%2001076e%20-%20TRICARE%20program%20TRICARE%20Standard%20coverage%20for%20certain%20members%20of%20the%20Retired%20Reserve%20who%20are%20qualified%20for%20a%20non-regular%20retirement%20but%E2%80%A6.md) | TRICARE program: TRICARE Standard coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but are not yet age 60. |
 | [1077\.](%C2%A7%2001077%20-%20Medical%20care%20for%20dependents%20authorized%20care%20in%20facilities%20of%20uniformed%20services.md) | Medical care for dependents: authorized care in facilities of uniformed services. |
 | [1078\.](%C2%A7%2001078%20-%20Medical%20and%20dental%20care%20for%20dependents%20charges.md) | Medical and dental care for dependents: charges. |
 | [1078a.](%C2%A7%2001078a%20-%20Continued%20health%20benefits%20coverage.md) | Continued health benefits coverage. |
@@ -77,10 +78,13 @@
 | [1108\.](%C2%A7%2001108%20-%20Health%20care%20coverage%20through%20Federal%20Employees%20Health%20Benefits%20program%20demonstration%20project.md) | Health care coverage through Federal Employees Health Benefits program: demonstration project. |
 | [1109\.](%C2%A7%2001109%20-%20Organ%20and%20tissue%20donor%20program.md) | Organ and tissue donor program. |
 | [1110\.](%C2%A7%2001110%20-%20Anthrax%20vaccine%20immunization%20program%3B%20procedures%20for%20exemptions%20and%20monitoring%20reactions.md) | Anthrax vaccine immunization program; procedures for exemptions and monitoring reactions. |
+| [1110a.](%C2%A7%2001110a%20-%20Notification%20of%20certain%20individuals%20regarding%20options%20for%20enrollment%20under%20Medicare%20part%20B.md) | Notification of certain individuals regarding options for enrollment under Medicare part B. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. A, title VII, §§705(b), 707(b), Oct. 28, 2009, 123 Stat. 2375, 2376, added items 1076e and 1110a.
 
 2008—Pub. L. 110–181, div. A, title XVI, §1617(b), Jan. 28, 2008, 122 Stat. 449, as amended by Pub. L. 110–417, \[div. A\], title X, §1061(b)(14), Oct. 14, 2008, 122 Stat. 4613, added item 1074<i>l</i>.
 
@@ -88,7 +92,7 @@
 
 Pub. L. 109–364, div. A, title VII, §706(e), Oct. 17, 2006, 120 Stat. 2282, struck out item 1076b “TRICARE program: TRICARE Standard coverage for members of the Selected Reserve” and substituted “TRICARE program: TRICARE Standard coverage for members of the Selected Reserve” for “TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation” in item 1076d, effective Oct. 1, 2007.
 
-Pub. L. 109–163, div. A, title VII, §§701(f)(2), 702(a)(2), Jan. 6, 2006, 119 Stat. 3340, 3342, substituted “TRICARE program: TRICARE Standard coverage for members of the Selected Reserve” for “TRICARE program: coverage for members of the Ready Reserve” in item 1076b and “TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation” for “TRICARE program: coverage for members of reserve componentswho commit to continued service in the Selected Reserve after release from active duty” in item 1076d.
+Pub. L. 109–163, div. A, title VII, §§701(f)(2), 702(a)(2), Jan. 6, 2006, 119 Stat. 3340, 3342, substituted “TRICARE program: TRICARE Standard coverage for members of the Selected Reserve” for “TRICARE program: coverage for members of the Ready Reserve” in item 1076b and “TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation” for “TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty” in item 1076d.
 
 2004—Pub. L. 108–375, div. A, title V, §555(a)(2), title VI, §607(a)(2), title VII, §§701(a)(2), 733(a)(2), 739(a)(2), title X, §1084(d)(7), Oct. 28, 2004, 118 Stat. 1914, 1946, 1981, 1998, 2002, 2061, added items 1073b, 1074b, 1076d, and 1092a, reenacted item 1076b without change, and struck out item 1075 “Officers and certain enlisted members: subsistence charges”.
 
@@ -116,7 +120,7 @@ Pub. L. 104–106, div. A, title VII, §§705(a)(2), 735(d)(2), 738(b)(2), Feb. 
 
 1991—Pub. L. 102–190, div. A, title VI, §640(b), title VII, §§715(b), 716(a)(2), Dec. 5, 1991, 105 Stat. 1385, 1403, 1404, added item 1074b, redesignated former item 1074b as 1074c, and added items 1105 and 1106.
 
-1990—Pub. L. 101–510, div. A, title VII, §713(d)(2)\[(3)\], Nov. 5, 1990, 104 Stat. 1584, substituted “Health care services incurred on behalf of covered beneficiaries: collection from third-party payers” for “Collection from third-party payers of reasonable inpatient hospital care costs incurred on behalf of retirees and dependents” in item 1095.
+1990—Pub. L. 101–510, div. A, title VII, §713(d)(2)\[(3)\], Nov. 5, 1990, 104 Stat. 1584, substituted “Health care services incurred on behalf of covered beneficiaries: collection from third-party payers” for “Collection from third-party payers of reasonable inpatient hospital carecosts incurred on behalf of retirees and dependents” in item 1095.
 
 1989—Pub. L. 101–189, div. A, title VII, §§722(b), 731(b)(2), Nov. 29, 1989, 103 Stat. 1478, 1482, added items 1086a and 1104.
 
@@ -178,7 +182,8 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 - [&sect; 01076a - TRICARE dental program](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md)
 - [&sect; 01076b - Repealed. Pub. L. 109&#8211;364, div. A, title VII, &sect;706(d), Oct. 17, 2006, 120 Stat. 2282](%C2%A7%2001076b%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93364%2C%20div.%20A%2C%20title%20VII%2C%20%C2%A7706%28d%29%2C%20Oct.%2017%2C%202006%2C%20120%20Stat.%202282.md)
 - [&sect; 01076c - Dental insurance plan certain retirees and their surviving spouses and other dependents](%C2%A7%2001076c%20-%20Dental%20insurance%20plan%20certain%20retirees%20and%20their%20surviving%20spouses%20and%20other%20dependents.md)
-- [&sect; 01076d - TRICARE program TRICARE standard 1 coverage for members of the Selected Reserve](%C2%A7%2001076d%20-%20TRICARE%20program%20TRICARE%20standard%201%20coverage%20for%20members%20of%20the%20Selected%20Reserve.md)
+- [&sect; 01076d - TRICARE program TRICARE Standard coverage for members of the Selected Reserve](%C2%A7%2001076d%20-%20TRICARE%20program%20TRICARE%20Standard%20coverage%20for%20members%20of%20the%20Selected%20Reserve.md)
+- [&sect; 01076e - TRICARE program TRICARE Standard coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but&#8230;](%C2%A7%2001076e%20-%20TRICARE%20program%20TRICARE%20Standard%20coverage%20for%20certain%20members%20of%20the%20Retired%20Reserve%20who%20are%20qualified%20for%20a%20non-regular%20retirement%20but%E2%80%A6.md)
 - [&sect; 01077 - Medical care for dependents authorized care in facilities of uniformed services](%C2%A7%2001077%20-%20Medical%20care%20for%20dependents%20authorized%20care%20in%20facilities%20of%20uniformed%20services.md)
 - [&sect; 01078 - Medical and dental care for dependents charges](%C2%A7%2001078%20-%20Medical%20and%20dental%20care%20for%20dependents%20charges.md)
 - [&sect; 01078a - Continued health benefits coverage](%C2%A7%2001078a%20-%20Continued%20health%20benefits%20coverage.md)
@@ -230,3 +235,4 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 - [&sect; 01108 - Health care coverage through Federal Employees Health Benefits program demonstration project](%C2%A7%2001108%20-%20Health%20care%20coverage%20through%20Federal%20Employees%20Health%20Benefits%20program%20demonstration%20project.md)
 - [&sect; 01109 - Organ and tissue donor program](%C2%A7%2001109%20-%20Organ%20and%20tissue%20donor%20program.md)
 - [&sect; 01110 - Anthrax vaccine immunization program; procedures for exemptions and monitoring reactions](%C2%A7%2001110%20-%20Anthrax%20vaccine%20immunization%20program%3B%20procedures%20for%20exemptions%20and%20monitoring%20reactions.md)
+- [&sect; 01110a - Notification of certain individuals regarding options for enrollment under Medicare part B](%C2%A7%2001110a%20-%20Notification%20of%20certain%20individuals%20regarding%20options%20for%20enrollment%20under%20Medicare%20part%20B.md)

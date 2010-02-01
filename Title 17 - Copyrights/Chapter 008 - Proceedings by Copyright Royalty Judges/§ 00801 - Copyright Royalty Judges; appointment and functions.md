@@ -92,7 +92,7 @@ Location in Library of Congress.—The offices of the Copyright Royalty Judges a
 
 (f)
 
-Effective Date of Actions.—On and after the date of the enactment of the Copyright Royalty and Distribution Reform Act of 2004, in any case in which time limits are prescribed under this title for performance of an action with or by the Copyright Royalty Judges, and in which the last day of the prescribed period falls on a Saturday, Sunday, holiday, or other nonbusiness day within the District of Columbia or the Federal Government, the action may be taken on the next succeeding business day, and is effective as of the date when the period expired.
+Effective Date of Actions.—On and after the date of the enactment of the Copyright Royalty and Distribution Reform Act of 2004, in anycase in which time limits are prescribed under this title for performance of an action with or by the Copyright Royalty Judges, and in which the last day of the prescribed period falls on a Saturday, Sunday, holiday, or other nonbusiness day within the District of Columbia or the Federal Government, the action may be taken on the next succeeding business day, and is effective as of the date when the period expired.
 
 (Added Pub. L. 108–419, §3(a), Nov. 30, 2004, 118 Stat. 2341; amended Pub. L. 109–303, §§3(1), (2), 5, Oct. 6, 2006, 120 Stat. 1478, 1483.)
 
@@ -144,9 +144,9 @@ Pending proceedings.—Notwithstanding paragraph (1), any proceedings to establi
 
 &emsp;“(4)
 
-Interim proceedings.—Notwithstanding subsection (a), as soon as practicable after the date of enactment of this Act, the Copyright Royalty Judges or interim Copyright Royalty Judges shall publish the notice described in section 803(b)(1)(A) of title 17, United States Code, as amended by this Act, to initiate a proceeding to establish or adjust rates and terms for the statutory licenses under section 114(f)(2) or 112(e) of title 17, United States Code, for new subscription services and eligible nonsubscription services for the period commencing January 1, 2006. The Copyright Royalty Judges or Interim Copyright Royalty Judges are authorized to cause that proceeding to take place as provided in subsection (b) of section 803 of that title within the time periods set forth in that subsection. Notwithstanding section 803(c)(1) of that title, the Copyright Royalty Judges shall not be required to issue their determination in that proceeding before the expiration of the statutory rates and terms in effect on December 31, 2004.
+Interim proceedings.—Notwithstanding subsection (a), as soon as practicable after the date of enactment of this Act, the Copyright Royalty Judges or interim Copyright Royalty Judges shall publish the notice described in section 803(b)(1)(A) of title 17, United States Code, as amended by this Act, to initiate a proceeding to establish or adjust rates andterms for the statutory licenses under section 114(f)(2) or 112(e) of title 17, United States Code, for new subscription services and eligible nonsubscription services for the period commencing January 1, 2006. The Copyright Royalty Judges or Interim Copyright Royalty Judges are authorized to cause that proceeding to take place as provided in subsection (b) of section 803 of that title within the time periods set forth in that subsection. Notwithstanding section 803(c)(1) of that title, the Copyright Royalty Judges shall not be required to issue their determination in that proceeding before the expiration of the statutory rates and terms in effect on December 31, 2004.
 
 “(c)
 
-Existing Appropriations.—Any funds made available in an appropriations Act to carry out chapter8 of title 17, United States Code, shall be available to the extent necessary to carry out this section.”
+Existing Appropriations.—Any funds made available in an appropriations Act to carry out chapter 8 of title 17, United States Code, shall be available to the extent necessary to carry out this section.”
 

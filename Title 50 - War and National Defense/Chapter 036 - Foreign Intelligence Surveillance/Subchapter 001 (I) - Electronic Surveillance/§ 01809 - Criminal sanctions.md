@@ -28,7 +28,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–261 substituted “authorized by this chapter, chapter 119, 121, or 206 of title 18, or any express statutory authorization that is an additional exclusive means for conducting electronic surveillance under section 1812 of this title.” for “authorized by statute” in pars. (1) and (2).
+2008—Subsec. (a). Pub. L. 110–261 substituted “authorized by this chapter, chapter 119, 121, or 206 of title 18, or any express statutory authorization that is an additional exclusive means for conducting electronic surveillance under section 1812 of this title.” for “authorized by statute” in pars. (1) and (2).
 
 #### Effective Date of 2008 Amendment
 

@@ -24,7 +24,7 @@ Shall be subject to the penalties set forth in section 216 of this title.
 
 (c)(1) For the purpose of paragraph (1) of subsection (b), in the case of class A and B directors of Federal Reserve banks, the Board of Governors of the Federal Reserve System shall be deemed to be the Government official responsible for appointment.
 
-(2) The potential availability of an exemption under any particular paragraph of subsection (b) does not preclude an exemption being granted pursuant to another paragraph of subsection (b).
+(2) The potential availability of an exemption under any particular paragraph of subsection (b)does not preclude an exemption being granted pursuant to another paragraph of subsection (b).
 
 (d)(1) Upon request, a copy of any determination granting an exemption under subsection (b)(1) or (b)(3) shall be made available to the public by the agency granting the exemption pursuant to the procedures set forth in section 105 of the Ethics in Government Act of 1978. In making such determination available, the agency may withhold from disclosure any information contained in the determination that would be exempt from disclosure under section 552 of title 5. For purposes of determinations under subsection (b)(3), the information describing each financial interest shall be no more extensive than that required of the individual in his or her financial disclosure report under the Ethics in Government Act of 1978.
 
@@ -84,7 +84,7 @@ Exemptions from former section 434 of this title deemed to be exemptions from th
 
 #### Regulations
 
-Responsibility of Office of Government Ethics for promulgating regulations and interpreting this section, see section 201(c) of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
+Responsibility of Office of Government Ethics for promulgating regulations and interpreting this section, see section 201(c) of Ex. Ord. No. 12674, Apr. 12, 1989, 54F.R. 15159, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
 
 #### Delegation of Authority
 

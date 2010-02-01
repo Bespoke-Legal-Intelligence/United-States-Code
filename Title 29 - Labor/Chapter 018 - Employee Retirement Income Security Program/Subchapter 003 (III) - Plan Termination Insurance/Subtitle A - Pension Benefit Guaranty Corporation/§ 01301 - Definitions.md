@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(ii) for purposes of this subparagraph, the term—
 
-&emsp;&emsp;&emsp;(I) “affected air carrier” means an air carrier, as defined in section 40102(a)(2) of title 49, that holds a certificate of public convenience and necessity under section 41102 of title 49 for route number 147, as of November 12, 1991;
+&emsp;&emsp;&emsp;(I) “affected air carrier” means an air carrier, as defined in section 40102(a)(2) of title 49, that holds a certificate of public convenience and necessity under section41102 of title 49 for route number 147, as of November 12, 1991;
 
 &emsp;&emsp;&emsp;(II) “related person” means any person which was under common control (as determined under subparagraph (B)) with an affected air carrier on October 10, 1991, or any successor to such related person;
 
@@ -116,7 +116,7 @@
 
 (2) For purposes of subtitle E of this subchapter—
 
-&emsp;(A) except as otherwise provided in subtitle E of this subchapter, contributions or other payments shall be considered made under aplan for a plan year if they are made within the period prescribed under section 412(c)(10) <sup>3</sup> of title 26 (determined, in the case of a terminated plan, as if the plan had continued beyond the termination date), and
+&emsp;(A) except as otherwise provided in subtitle E of this subchapter, contributions or other payments shall be considered made under a plan for a plan year if they are made within the period prescribed under section 412(c)(10) <sup>3</sup> of title 26 (determined, in the case of a terminated plan, as if the plan had continued beyond the termination date), and
 
 &emsp;(B) the term “Secretary of the Treasury” means the Secretary of the Treasury or such Secretary's delegate.
 
@@ -182,7 +182,7 @@ Subsec. (a)(14). Pub. L. 99–272, §11004(a)(2)–(4), added par. (14).
 
 Subsec. (a)(15) to (21). Pub. L. 99–272, §11004(a)(2)–(4), added pars. (15) to (21).
 
-Subsec. (b). Pub. L. 99–272, §11004(b), designated existing provisions as par. (1), added par. (2), and struck outamendments by Pub. L. 96–364, §402(a)(1)(F), which had been executed by designating existing provisions as par. (1) and adding pars. (2) to (4). See 1980 Amendment note below. For successor provisions to former pars. (2), (3), and (4), see subsecs. (a)(15), (b)(2)(A), and (b)(2)(B), respectively.
+Subsec. (b). Pub. L. 99–272, §11004(b), designated existing provisions as par. (1), added par. (2), and struck out amendments by Pub. L. 96–364, §402(a)(1)(F), which had been executed by designating existing provisions as par. (1) and adding pars. (2) to (4). See 1980 Amendment note below. For successor provisions to former pars. (2), (3), and (4), see subsecs. (a)(15), (b)(2)(A), and (b)(2)(B), respectively.
 
 1980—Subsec. (a)(2). Pub. L. 96–364, §402(a)(1)(A), inserted provision excepting multiemployer plan.
 

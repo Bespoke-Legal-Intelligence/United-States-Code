@@ -20,7 +20,7 @@ As used in this subchapter:
 
 &emsp;(5) The term “irrigation water” means water made available for agricultural purposes from the operation of reclamation project facilities pursuant to a contract with the Secretary.
 
-&emsp;(6) The term “landholding” means total irrigable acreage of one or more tracts of land situated in one or more districts owned or operated under a lease which is served with irrigation water pursuant to a contract with the Secretary. In determining the extent of a landholding the Secretary shall add to any landholding held directly by a qualified or limited recipient that portion of any landholding held indirectly by such qualified or limited recipient which benefits that qualified or limited recipient in proportion to that landholding.
+&emsp;(6) The term “landholding” means total irrigable acreage of one or more tracts of land situated in one or more districts owned or operated under a lease which is served with irrigation water pursuant to a contract with the Secretary. In determining the extent of alandholding the Secretary shall add to any landholding held directly by a qualified or limited recipient that portion of any landholding held indirectly by such qualified or limited recipient which benefits that qualified or limited recipient in proportion to that landholding.
 
 &emsp;(7) The term “limited recipient” means any legal entity established under State or Federal law benefiting more than twenty-five natural persons.
 

@@ -6,7 +6,7 @@
 
 (2) If performance goals are specified in an alternative form under section 1115(b), the results of such program shall be described in relation to such specifications, including whether the performance failed to meet the criteria of a minimally effective or successful program.
 
-(c) The report for fiscal year 2000 shall include actual results for the preceding fiscal year, the report for fiscal year 2001 shall include actual results for the two preceding fiscal years, and the report for fiscal year 2002 and all subsequent reports shall include actual results for the three preceding fiscal years.
+(c) The report for fiscal year 2000 shall include actual results for the preceding fiscal year, thereport for fiscal year 2001 shall include actual results for the two preceding fiscal years, and the report for fiscal year 2002 and all subsequent reports shall include actual results for the three preceding fiscal years.
 
 (d) Each report shall—
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Construction
 
-No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity,and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a note under section 1115 of this title.
+No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a note under section 1115 of this title.
 
 #### Special Rule for Fiscal Years 2000 and 2001
 

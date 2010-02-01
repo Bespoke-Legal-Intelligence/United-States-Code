@@ -18,7 +18,7 @@ Upon the request of the Chairman, the head of any Federal agency is authorized t
 
 #### (e) Administrative support services
 
-The Secretary or Administrator of General Services shall provide to the Commission on areimbursable basis such administrative support services as the Commission may request.
+The Secretary or Administrator of General Services shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request.
 
 (Pub. L. 100–497, §8, Oct. 17, 1988, 102 Stat. 2471.)
 

@@ -3,6 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [2241\.](%C2%A7%2002241%20-%20Availability%20of%20appropriations%20for%20certain%20purposes.md) | Availability of appropriations for certain purposes. |
+| [2241a.](%C2%A7%2002241a%20-%20Prohibition%20on%20use%20of%20funds%20for%20publicity%20or%20propaganda%20purposes%20within%20the%20United%20States.md) | Prohibition on use of funds for publicity or propaganda purposes within the United States. |
 | [2242\.](%C2%A7%2002242%20-%20Authority%20to%20use%20appropriated%20funds%20for%20certain%20investigations%20and%20security%20services.md) | Authority to use appropriated funds for certain investigations and security services. |
 | [2243\.](%C2%A7%2002243%20-%20Authority%20to%20use%20appropriated%20funds%20to%20support%20student%20meal%20programs%20in%20overseas%20dependents%E2%80%99%20schools.md) | Authority to use appropriated funds to support student meal programs in overseas dependents’ schools. |
 | [2244\.](%C2%A7%2002244%20-%20Security%20investigations.md) | Security investigations. |
@@ -19,6 +20,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. A, title X, §1031(a)(2), Oct. 28, 2009, 123 Stat. 2448, which directed amendment of table of sections for this subchapter by adding item 2241a at the end, was executed by adding item 2241a after item 2241 to reflect the probable intent of Congress.
 
 2008—Pub. L. 110–417, \[div. A\], title XII, §1205(a)(2), Oct. 14, 2008, 122 Stat. 4624, added item 2249d.
 
@@ -54,6 +57,7 @@ Pub. L. 101–510, div. A, title IX, §904(b), Nov. 5, 1990, 104 Stat. 1621, add
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 02241 - Availability of appropriations for certain purposes](%C2%A7%2002241%20-%20Availability%20of%20appropriations%20for%20certain%20purposes.md)
+- [&sect; 02241a - Prohibition on use of funds for publicity or propaganda purposes within the United States](%C2%A7%2002241a%20-%20Prohibition%20on%20use%20of%20funds%20for%20publicity%20or%20propaganda%20purposes%20within%20the%20United%20States.md)
 - [&sect; 02242 - Authority to use appropriated funds for certain investigations and security services](%C2%A7%2002242%20-%20Authority%20to%20use%20appropriated%20funds%20for%20certain%20investigations%20and%20security%20services.md)
 - [&sect; 02243 - Authority to use appropriated funds to support student meal programs in overseas dependents&#8217; schools](%C2%A7%2002243%20-%20Authority%20to%20use%20appropriated%20funds%20to%20support%20student%20meal%20programs%20in%20overseas%20dependents%E2%80%99%20schools.md)
 - [&sect; 02244 - Security investigations](%C2%A7%2002244%20-%20Security%20investigations.md)

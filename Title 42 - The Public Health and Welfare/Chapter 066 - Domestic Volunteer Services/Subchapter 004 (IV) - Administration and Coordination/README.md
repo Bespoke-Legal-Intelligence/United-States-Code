@@ -29,3 +29,4 @@
 - [&sect; 05063 - Reduction of paperwork](%C2%A7%2005063%20-%20Reduction%20of%20paperwork.md)
 - [&sect; 05064 - Review of project renewals](%C2%A7%2005064%20-%20Review%20of%20project%20renewals.md)
 - [&sect; 05065 - Protection against improper use](%C2%A7%2005065%20-%20Protection%20against%20improper%20use.md)
+- [&sect; 05066 - Provisions under the National and Community Service Act of 1990](%C2%A7%2005066%20-%20Provisions%20under%20the%20National%20and%20Community%20Service%20Act%20of%201990.md)

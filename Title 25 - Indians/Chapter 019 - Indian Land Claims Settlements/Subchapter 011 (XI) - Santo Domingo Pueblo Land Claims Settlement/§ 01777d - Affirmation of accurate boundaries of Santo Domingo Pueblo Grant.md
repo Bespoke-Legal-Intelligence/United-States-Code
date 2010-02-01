@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The boundaries of the Santo Domingo Pueblo Grant, as determined by the 1907 Hall-Joy Survey, confirmed in the Report of the Pueblo Lands Board, dated December 28, 1927, are hereby declared to be the current boundaries of the Grant and any lands currently owned by or on behalf of the Pueblo within such boundaries, or any lands hereinafter acquired by the Pueblowithin the Grant in fee simple absolute, shall be considered to be Indian country within the meaning of section 1151 of title 18.
+The boundaries of the Santo Domingo Pueblo Grant, as determined by the 1907 Hall-Joy Survey, confirmed in the Report of the Pueblo Lands Board, dated December 28, 1927, are hereby declared to be the current boundaries of the Grant and any lands currently owned by or on behalf of the Pueblo within such boundaries, or any lands hereinafter acquired by the Pueblo within the Grant in fee simple absolute, shall be considered to be Indian country within the meaning of section 1151 of title 18.
 
 #### (b) Limitation
 

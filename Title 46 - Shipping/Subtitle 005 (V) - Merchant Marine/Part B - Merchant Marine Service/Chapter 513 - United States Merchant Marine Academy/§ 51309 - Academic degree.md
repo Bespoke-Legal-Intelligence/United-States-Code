@@ -18,13 +18,13 @@ Effect of physical disqualification.—An individual not allowed to take the exa
 
 (b)
 
-Master's Degree.—The Superintendent of the Academy may confer a master's degree on an individual who has met the conditions prescribed by the Secretary. A master's degree program may be funded through non-appropriated funds. To maintain the appropriate academic standards, the program shall be accredited by the appropriate accreditation body. The Secretary may prescribe regulations necessary to administer such a program.
+Master's Degree.—The Superintendent of the Academy may confer a master's degree on an individual who has met the conditions prescribed by the Secretary. A master's degree program may be funded through non-appropriated funds. To maintain the appropriate academic standards, the program shall be accredited by the appropriate accreditation body. Nonappropriated funds received for this purpose shall be credited to the Maritime Administration's Operations and Training appropriation, to remain available until expended, for those expenses directly related to the purpose of such receipts. The Superintendent shall maintain a separate and detailed accounting of nonappropriated fund receipts and all associated expenses. The Secretary may prescribe regulations necessary to administer such a program.
 
 (c)
 
 Graduation Not Entitlement To Hold License.—Graduation from the Academy does not entitle an individual to hold a license authorizing service on a merchant vessel.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1574.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1574; Pub. L. 111–84, div. C, title XXXV, §3514, Oct. 28, 2009, 123 Stat. 2724.)
 
 Historical and Revision Notes
 
@@ -51,4 +51,8 @@ June 29, 1936, ch. 858, title XIII, §1303(g), as added Pub. L. 96–453, §2, O
 46 App.:1295b(b)(8).
 
 June 29, 1936, ch. 858, title XIII, §1303(b)(8), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 1997; Pub. L. 99–368, §5, Aug. 1, 1986, 100 Stat. 776.
+
+#### Amendments
+
+2009—Subsec. (b). Pub. L. 111–84 inserted before last sentence “Nonappropriated funds received for this purpose shall be credited to the Maritime Administration'sOperations and Training appropriation, to remain available until expended, for those expenses directly related to the purpose of such receipts. The Superintendent shall maintain a separate and detailed accounting of nonappropriated fund receipts and all associated expenses.”
 

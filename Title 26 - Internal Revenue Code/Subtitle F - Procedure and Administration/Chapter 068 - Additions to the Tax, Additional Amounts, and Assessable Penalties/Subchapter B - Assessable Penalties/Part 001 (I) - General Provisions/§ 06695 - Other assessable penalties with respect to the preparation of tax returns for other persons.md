@@ -28,7 +28,7 @@ Any person required to make a return under section 6060 who fails to comply with
 
 #### (f) Negotiation of check
 
-Any person who is a tax return preparer who endorses or otherwise negotiates (directly orthrough an agent) any check made in respect of the taxes imposed by this title which is issued to a taxpayer (other than the tax return preparer) shall pay a penalty of $500 with respect to each such check. The preceding sentence shall not apply with respect to the deposit by a bank (within the meaning of section 581) of the full amount of the check in the taxpayer's account in such bank for the benefit of the taxpayer.
+Any person who is a tax return preparer who endorses or otherwise negotiates (directly or through an agent) any check made in respect of the taxes imposed by this title which is issued to a taxpayer (other than the tax return preparer) shall pay a penalty of $500 with respect to each such check. The preceding sentence shall not apply with respect to the deposit by a bank (within the meaning of section 581) of the full amount of the check in the taxpayer's account in such bank for the benefit of the taxpayer.
 
 #### (g) Failure to be diligent in determining eligibility for earned income credit
 
@@ -60,7 +60,7 @@ Subsec. (e). Pub. L. 101–239, §7733(d), substituted “returns” for “retu
 
 1985—Subsec. (b). Pub. L. 99–44 repealed Pub. L. 98–369, §179(b)(2), which amended subsec. (b), and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered as if section 179(b)(2) (and the amendments made by such section) had not been enacted. See 1984 Amendment note and Effective Date of 1985 Amendment note below.
 
-1984—Subsec. (b). Pub. L. 98–369 amended subsec. (b) generally, substituting provisions dealing with failure to inform taxpayer of certain recordkeeping requirements of section 274(d) of this title or to sign returns, for provisions dealing with failure to sign returns. See 1985 Amendment note above.
+1984—Subsec. (b). Pub. L. 98–369 amended subsec. (b) generally, substituting provisions dealing with failure to inform taxpayer of certain recordkeeping requirements of section 274(d) of this title or to sign returns,for provisions dealing with failure to sign returns. See 1985 Amendment note above.
 
 1978—Subsec. (f). Pub. L. 95–600 inserted provision relating to deposits by a bank.
 

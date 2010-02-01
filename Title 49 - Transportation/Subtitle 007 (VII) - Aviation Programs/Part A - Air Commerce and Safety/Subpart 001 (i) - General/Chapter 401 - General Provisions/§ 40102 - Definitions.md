@@ -52,7 +52,7 @@ General Definitions.—In this part—
 
 &emsp;&emsp;(B) a partnership each of whose partners is an individual who is a citizen of the United States; or
 
-&emsp;&emsp;(C) a corporation or association organized under the laws of the United States or a State, the District of Columbia, or a territory or possession of the United States, of which the president and at least two-thirds of the board of directors and other managing officers are citizens of the United States, which is under the actual control of citizens of the United States, and in which at least 75percent of the voting interest is owned or controlled by persons that are citizens of the United States.
+&emsp;&emsp;(C) a corporation or association organized under the laws of the United States or a State, the District of Columbia, or a territory or possession of the United States, of which the president and at least two-thirds of the board of directors and other managing officers are citizens of the United States, which is under the actual control of citizens of the United States, and in which at least 75 percent of the voting interest is owned or controlled by persons that are citizens of the United States.
 
 &emsp;(16) “civil aircraft” means an aircraft except a public aircraft.
 
@@ -500,7 +500,7 @@ Pub. L. 107–71, title I, §133, Nov. 19, 2001, 115 Stat. 636, provided that: �
 
 #### Definitions Applicable to Pub. L. 106–181
 
-Pub. L. 106–181, §4, Apr. 5, 2000, 114 Stat. 64, provided that: “Except as otherwise provided in this Act \[seeTables for classification\], the following definitions apply:
+Pub. L. 106–181, §4, Apr. 5, 2000, 114 Stat. 64, provided that: “Except as otherwise provided in this Act \[see Tables for classification\], the following definitions apply:
 
 &emsp;“(1)
 

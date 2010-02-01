@@ -100,6 +100,62 @@ Subsec. (g)(3). Pub. L. 104–201, §822(3), struck out par. (3) which read as f
 
 For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of this title.
 
+#### Justification and Approval of Sole-Source Contracts
+
+Pub. L. 111–84, div. A, title VIII, §811, Oct. 28, 2009, 123 Stat. 2405, provided that:
+
+“(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Federal Acquisition Regulation shall be revised to provide that the head of an agency may not award a sole-source contract in a covered procurement for an amount exceeding $20,000,000 unless—
+
+&emsp;“(1) the contracting officer for the contract justifies the use of a sole-source contract in writing;
+
+&emsp;“(2) the justification is approved by the appropriate official designated to approve contract awards for dollar amounts that are comparable to the amount of the sole-source contract; and
+
+&emsp;“(3) the justification and related information are made public as provided in sections 2304(f)(1)(C) and 2304(<i>l</i>) of title 10, United States Code, or sections 303(f)(1)(C) and 303(j) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f)(1)(C) and 253(j)), as applicable.
+
+“(b)
+
+Elements of Justification.—The justification of a sole-source contract required pursuant to subsection (a) shall include the following:
+
+&emsp;“(1) A description of the needs of the agency concerned for the matters covered by the contract.
+
+&emsp;“(2) A specification of the statutory provision providing the exception from the requirement to use competitive procedures in entering into the contract.
+
+&emsp;“(3) A determination that the use of a sole-source contract is in the best interest of the agency concerned.
+
+&emsp;“(4) A determination that the anticipated cost of the contract will be fair and reasonable.
+
+&emsp;“(5) Such other matters as the head of the agency concerned shall specify for purposes of this section.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Covered procurement.—The term ‘covered procurement’ means either of the following:
+
+&emsp;&emsp;“(A) A procurement described in section 2304(f)(2)(D)(ii) of title 10, United States Code.
+
+&emsp;&emsp;“(B) A procurement described in section 303(f)(2)(D)(ii) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f)(2)(D)(ii)).
+
+&emsp;“(2)
+
+Head of an agency.—The term ‘head of an agency’—
+
+&emsp;&emsp;“(A) in the case of a covered procurement as defined in paragraph (1)(A), has the meaning provided in section 2302(1) of title 10, United States Code; and
+
+&emsp;&emsp;“(B) in the case of a covered procurement as defined in paragraph (1)(B), has the meaning provided the term ‘agency head’ in section 309(a) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 259(a)).
+
+&emsp;“(3)
+
+Appropriate official.—The term ‘appropriate official’ means—
+
+&emsp;&emsp;“(A) in the case of a covered procurement as defined in paragraph (1)(A), an official designated in section 2304(f)(1)(B) of title 10, United States Code; and
+
+&emsp;&emsp;“(B) in the case of a covered procurement as defined in paragraph (1)(B), an official designated in section 303(f)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f)(1)(B)).”
+
 #### Status of Director of Defense Procurement
 
 Pub. L. 102–190, div. A, title VIII, §809, Dec. 5, 1991, 105 Stat. 1423, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that: “For the purposes of the amendment made by section 807 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1593) to section 25(b)(2) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(b)(2)), the Director of Defense Procurement of the Department of Defense shall be considered to be an official at an organizational level of an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics.”

@@ -42,7 +42,7 @@ Certain Members Ineligible.—(1) A retention bonus may not be provided under su
 
 &emsp;(B) is qualified for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
 
-(4) The Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may waive the limitations in paragraph (1) with respect to a member who, during the period of active duty or service in an active status in a reserve component for which the bonus is being offered, is assigned duties in a skill designated as critical under subsection (b)(1). The authority to grant a waiver under this paragraph may not be delegated below the Under Secretary of Defense for Personnel and Readiness or the Deputy Secretary of the Department of Homeland Security.
+(4) The Secretary of Defense, or the Secretary of Homeland Security with respect to the CoastGuard when it is not operating as a service in the Navy, may waive the limitations in paragraph (1) with respect to a member who, during the period of active duty or service in an active status in a reserve component for which the bonus is being offered, is assigned duties in a skill designated as critical under subsection (b)(1). The authority to grant a waiver under this paragraph may not be delegated below the Under Secretary of Defense for Personnel and Readiness or the Deputy Secretary of the Department of Homeland Security.
 
 (f)
 
@@ -62,11 +62,13 @@ Annual Report.—Not later than February 15 of each year, the Secretary of Defen
 
 (i)
 
-Termination of Bonus Authority.—No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2009, and no agreement under this section may be entered into after that date.
+Termination of Bonus Authority.—No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2010, and no agreement under this section may be entered into after that date.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §633(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–157, §323; amended Pub. L. 107–107, div. A, title VI, §614(d), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §§614(d), 618, Dec. 2, 2002, 116 Stat. 2568, 2570; Pub. L. 108–136, div. A, title VI, §§614(d), 622, title X, §1045(b)(1), Nov. 24, 2003, 117 Stat. 1501, 1505, 1612; Pub. L. 108–375, div. A, title VI, §§614(e), 621, title X, §1084(e)(2), Oct. 28, 2004, 118 Stat. 1948, 1954, 2064; Pub. L. 109–163, div. A, title VI, §§624(e), 640(a)–(f)(1), 687(b)(31), Jan. 6, 2006, 119 Stat. 3295, 3302, 3303, 3332; Pub. L. 109–364, div. A, title VI, §614(e), Oct. 17, 2006, 120 Stat. 2248; renumbered §355 and amended Pub. L. 110–181, div. A, title VI, §§614(d), 622, 661(c), Jan. 28, 2008, 122 Stat. 149, 152, 178; Pub. L. 110–417, \[div. A\], title VI, §614(h), Oct. 14, 2008, 122 Stat. 4485.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §633(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–157, §323; amended Pub. L. 107–107, div. A, title VI, §614(d), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §§614(d), 618, Dec. 2, 2002, 116 Stat. 2568, 2570; Pub. L. 108–136, div. A, title VI, §§614(d), 622, title X, §1045(b)(1), Nov. 24, 2003, 117 Stat. 1501, 1505, 1612; Pub. L. 108–375, div. A, title VI, §§614(e), 621, title X, §1084(e)(2), Oct. 28, 2004, 118 Stat. 1948, 1954, 2064; Pub. L. 109–163, div. A, title VI, §§624(e), 640(a)–(f)(1), 687(b)(31), Jan. 6, 2006, 119 Stat. 3295, 3302, 3303, 3332; Pub. L. 109–364, div. A, title VI, §614(e), Oct. 17, 2006, 120 Stat. 2248; renumbered §355 and amended Pub. L. 110–181, div. A, title VI, §§614(d), 622, 661(c), Jan. 28, 2008, 122 Stat. 149, 152, 178; Pub. L. 110–417, \[div. A\], title VI, §614(h), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §614(9), Oct. 28, 2009, 123 Stat. 2354.)
 
 #### Amendments
+
+2009—Subsec. (i). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 
 2008—Pub. L. 110–181, §661(c)(1), renumbered section 323 of this title as this section.
 
@@ -86,7 +88,7 @@ Subsec. (a)(1). Pub. L. 109–163, §640(a)(1)(B), inserted “or to remain in a
 
 Subsec. (a)(3). Pub. L. 109–163, §640(a)(1)(C), inserted “or to remain in an active status in a reserve component for a period of at least one year” before period.
 
-Subsec. (b). Pub. L. 109–163, §640(b)(2), substituted “Eligibility Criteria” for “Designation of CriticalSkills” in heading, designated existing provisions as par. (1), and added par. (2).
+Subsec. (b). Pub. L. 109–163, §640(b)(2), substituted “Eligibility Criteria” for “Designation of Critical Skills” in heading, designated existing provisions as par. (1), and added par. (2).
 
 Subsec. (d)(1). Pub. L. 109–163, §640(c), inserted “(or $100,000 in the case of a reserve component member)” after “$200,000”.
 

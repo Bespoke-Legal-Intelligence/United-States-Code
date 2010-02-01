@@ -20,7 +20,7 @@ In this subsection: <sup>1</sup>
 
 &emsp;&emsp;(B) Mickey Leland Hunger Fellow.
 
-#### (3) Fellowship programs
+#### (3) Fellowship Programs
 
 &emsp;The term “Fellowship Programs” means the Bill Emerson National Hunger Fellowship Program and the Mickey Leland International Hunger Fellowship Program established under subsection (c)(1).
 
@@ -166,7 +166,7 @@ In this subsection: <sup>1</sup>
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), in carrying out this section, the Director may solicit, accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of facilitating the work of the Fellowship Programs.
+&emsp;Subject to paragraph (2), in carrying out this section, the Director may solicit, accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal,for the purpose of facilitating the work of the Fellowship Programs.
 
 #### (2) Limitation
 
@@ -200,7 +200,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title IV, §4407, May 22, 2008, 122 Stat. 1142, and Pub. L. 110–246, title IV, §4407, June 18, 2008, 122 Stat. 1903, provided that: “Except as otherwise provided in this title \[see Tables for classification\], this title and the amendments made by this title take effect on October 1, 2008.”
+Pub. L. 110–234, title IV, §4407, May 22, 2008, 122 Stat. 1142, and Pub. L. 110–246, §4(a), title IV, §4407, June 18, 2008, 122 Stat. 1664, 1903, provided that: “Except as otherwise provided in this title \[see Tables for classification\], this title and the amendments made by this title take effect on October 1, 2008.”
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 

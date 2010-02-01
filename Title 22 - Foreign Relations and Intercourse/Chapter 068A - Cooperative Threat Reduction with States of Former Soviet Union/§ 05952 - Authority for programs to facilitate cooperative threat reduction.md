@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law, the President may conduct programs described in subsection (b) of this section to assist the independent states of the former Soviet Union in the demilitarization of the former Soviet Union. Any such program may be carried out only to the extent that the President determines that the program will directly contribute to the national security interests of the United States.
+Notwithstanding any other provision of law, the President may conduct programs describedin subsection (b) of this section to assist the independent states of the former Soviet Union in the demilitarization of the former Soviet Union. Any such program may be carried out only to the extent that the President determines that the program will directly contribute to the national security interests of the United States.
 
 #### (b) Authorized programs
 
@@ -37,6 +37,84 @@ The programs described in subsection (b) of this section should, to the extent f
 2007—Subsec. (d). Pub. L. 110–53 struck out subsec. (d) which prohibited assistance unless the President had certified to Congress that the proposed recipient state was committed to meeting specified conditions relating to elimination of weapons of mass destruction, compliance with arms control agreements, and observation of internationally recognized human rights.
 
 2002—Subsec. (d). Pub. L. 107–314, §1306(c), formerly §1306(e), as renumbered by Pub. L. 109–163, in introductory provisions, substituted “any fiscal year” for “any year” and “such fiscal year” for “that year”.
+
+#### Utilization of Contributions to the Cooperative Threat Reduction Program
+
+Pub. L. 111–84, div. A, title XIII, §1303, Oct. 28, 2009, 123 Stat. 2557, provided that:
+
+“(a)
+
+In General.—The Secretary of Defense, with the concurrence of the Secretary of State, may enter into one or more agreements with any person (including a foreign government, international organization, multinational entity, or any other entity) that the Secretary of Defense considers appropriate under which the person contributes funds for activities conducted under the Cooperative Threat Reduction Program of the Department of Defense.
+
+“(b)
+
+Retention and Use of Amounts.—Notwithstanding section 3302 of title 31, United States Code, and subject to subsections (c) and (d), the Secretary of Defense may retain and obligate or expend amounts contributed pursuant to subsection (a) for purposes of the Cooperative Threat Reduction Program of the Department of Defense. Amounts so contributed shall be retained in a separate fund established in the Treasury for such purposes and shall be available to be obligated or expended without further appropriation.
+
+“(c)
+
+Return of Amounts Not Obligated or Expended Within Three Years.—If the Secretary of Defense does not obligate or expend an amount contributed pursuant to subsection (a) by the date that is three years after the date on which the contribution was made, the Secretary shall return the amount to the person who made the contribution.
+
+“(d)
+
+Notice to Congressional Defense Committees.—
+
+&emsp;“(1)
+
+In general.—Not later than 30 days after receiving an amount contributed pursuant to subsection (a), the Secretary shall submit to the appropriate congressional committees a notice—
+
+&emsp;&emsp;“(A) specifying the value of the contribution and the purpose for which the contribution was made; and
+
+&emsp;&emsp;“(B) identifying the person who made the contribution.
+
+&emsp;“(2)
+
+Limitation on use of amounts.—The Secretary may not obligate or expend an amount contributed pursuant to subsection (a) until the date that is 15 days after the date on which the Secretary submits the notice required by paragraph (1).
+
+“(e)
+
+Annual Report.—Not later than October 31 each year, the Secretary of Defense shall submit to the appropriate congressional committees a report on amounts contributed pursuant to subsection (a) during the preceding fiscal year. Each such report shall include, for the fiscal year covered by the report, the following:
+
+&emsp;“(1) A statement of any amounts contributed pursuant to subsection (a), including, for each such amount, the value of the contribution and the identity of the person who made the contribution.
+
+&emsp;“(2) A statement of any amounts so contributed that were obligated or expended by the Secretary, including, for each such amount, the purposes for which the amount was obligated or expended.
+
+&emsp;“(3) A statement of any amounts so contributed that were retained but not obligated or expended, including, for each such amount, the purposes (if known) for which the Secretary intends to obligate or expend the amount.
+
+“(f)
+
+Implementation Plan.—The Secretary of Defense shall submit to the appropriate congressional committees an implementation plan for the authority provided under this section prior to obligating or expending any amounts contributed pursuant to subsection (a). The Secretary shall submit updates to such plan as needed.
+
+“(g)
+
+Termination.—The authority provided under this section shall terminate on December 31, 2015.
+
+“(h)
+
+Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—
+
+&emsp;“(1) the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Affairs of the House of Representatives; and
+
+&emsp;“(2) the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate.”
+
+\[For definition of Cooperative Threat Reduction programs for purposes of section 1303 of Pub. L. 111–84, set out above, see section 1301(a) of Pub. L. 111–84, set out as a note under section 5964 of this title.\]
+
+#### Cooperative Threat Reduction Defense and Military Contacts Program
+
+Pub. L. 111–84, div. A, title XIII, §1306(a), Oct. 28, 2009, 123 Stat. 2560, provided that: “The Secretary of Defense shall ensure that the Defense and Military Contacts Program under the Cooperative Threat Reduction Program of the Department of Defense—
+
+&emsp;“(1) is executed pursuant to a well-developed strategy for advancing the mission of the Cooperative Threat Reduction Program;
+
+&emsp;“(2) is focused and expanded to support specific relationship-building opportunities, which could lead to Cooperative Threat Reduction Program development in new geographic areas and achieve other Cooperative Threat Reduction Program benefits;
+
+&emsp;“(3) is directly administered as part of the Cooperative Threat Reduction Program; and
+
+&emsp;“(4) includes cooperation and coordination with—
+
+&emsp;&emsp;“(A) the unified combatant commands that operate in areas in which Cooperative Threat Reduction activities are carried out; and
+
+&emsp;&emsp;“(B) related diplomatic efforts.”
+
+\[For definition of Cooperative Threat Reduction programs for purposes of section 1306(a) of Pub. L. 111–84, set out above, see section 1301(a) of Pub. L. 111–84, set out as a note under section 5964 of this title.\]
 
 #### Study and Report Relating to Weapons-grade Uranium and Plutonium of the Independent States of the Former Soviet Union
 
@@ -91,10 +169,6 @@ Definition.—In this section, the term ‘country of proliferation concern’ m
 \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 
 \[Functions of President under section 1206 of Pub. L. 107–314, set out above, delegated to Secretary of State by section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46074, set out as a note under section 301 of Title 3, The President.\]
-
-#### Specification of Cooperative Threat Reduction Programs for Purposes of Pub. L. 107–314
-
-Pub. L. 107–314, div. A, title XIII, §1301(a), Dec. 2, 2002, 116 Stat. 2670, provided that: “For purposes of section301 \[116 Stat. 2505\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note).”
 
 #### Limited Waiver of Restrictions on Use of Funds for Threat Reduction in States of the Former Soviet Union
 
@@ -274,7 +348,7 @@ Findings.—Congress finds the following:
 
 &emsp;&emsp;“(A) all stocks of nuclear weapons and weapons-usable nuclear material in the Russian Federation are secure and accounted for;
 
-&emsp;&emsp;“(B) stocks of nuclear weapons and weapons-usable nuclear material that are excess to militaryneeds in the Russian Federation are monitored and reduced;
+&emsp;&emsp;“(B) stocks of nuclear weapons and weapons-usable nuclear material that are excess to military needs in the Russian Federation are monitored and reduced;
 
 &emsp;&emsp;“(C) any chemical or biological weapons, related materials, and facilities in the Russian Federation are destroyed;
 
@@ -284,7 +358,7 @@ Findings.—Congress finds the following:
 
 &emsp;&emsp;“(F) these objectives are accomplished with sufficient monitoring and transparency to provide confidence that they have in fact been accomplished and that the funds provided to accomplish these objectives have been spent efficiently and effectively.
 
-&emsp;“(3) United States programs should be designed to accomplish these vital objectives in the Russian Federation as rapidly as possible, and the President should develop and present to Congress a plan for doing so.
+&emsp;“(3) United States programs should be designed to accomplish these vital objectives in the Russian Federation as rapidly as possible, and the Presidentshould develop and present to Congress a plan for doing so.
 
 &emsp;“(4) Substantial progress has been made in United States-Russian Federation cooperative programs to achieve these objectives, but much more remains to be done to reduce the urgent risks to United States national security posed by the current state of the Russian Federation's weapons of mass destruction stockpiles and complexes.
 
@@ -384,7 +458,7 @@ Implementation.—In exercising the authority of subsection (a), the President�
 
 &emsp;&emsp;&emsp;“(i) the Department of State, with respect to obligations of the former Soviet Union under the Lend Lease Act of 1941 \[former 22 U.S.C. 411 et seq.\]; and
 
-&emsp;&emsp;&emsp;“(ii) the Commodity Credit Corporation, with respect to obligations of the former Soviet Union under the Commodity Credit Corporation Act \[15 U.S.C. 713a et seq.\];
+&emsp;&emsp;&emsp;“(ii) the Commodity Credit Corporation, with respect to obligations of the former Soviet Unionunder the Commodity Credit Corporation Act \[15 U.S.C. 713a et seq.\];
 
 &emsp;&emsp;“(B) shall direct the cancellation of old obligations and the substitution of new obligations consistent with the Russian Federation Nonproliferation Investment Agreement; and
 
@@ -572,21 +646,7 @@ Annual Report on Implementation of Plan.—(1) Not later than January 31, 2003, 
 
 &emsp;“(D) any recommendations that the President considers appropriate regarding modifications to law or regulations, or to the administration or organization of any Federal department or agency, in order to improve the effectiveness of any programs carried out during such year in the implementation of the plan.”
 
-\[Functions of President under section 1205(d) of Pub. L. 107–107, set out above, delegated to Secretary ofState by Memorandum of President of the United States, Nov. 2, 2005, 70 F.R. 72055.\]
-
-#### Cooperative Threat Reduction Programs and Funds Defined for Purposes of Pub. L. 107–107
-
-Pub. L. 107–107, div. A, title XIII, §1301(a), (b), Dec. 28, 2001, 115 Stat. 1254, provided that:
-
-“(a)
-
-Specification of CTR Programs.—For purposes of section 301 \[115 Stat. 1046\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note).
-
-“(b)
-
-Fiscal Year 2002
-
-Cooperative Threat Reduction Funds Defined.—As used in this title \[amending section 5959 of this title and enacting and amending provisions set out as notes under this section\], the term ‘fiscal year 2002 Cooperative Threat Reduction funds’ means the funds appropriated pursuant to the authorization of appropriations in section 301 for Cooperative Threat Reduction programs.”
+\[Functions of President under section 1205(d) of Pub. L. 107–107, set out above, delegated to Secretary of State by Memorandum of President of the United States, Nov. 2, 2005, 70 F.R. 72055.\]
 
 #### Requirement To Consider Use of Revenue Generated by Activities Carried Out Under Cooperative Threat Reduction Programs
 
@@ -599,20 +659,6 @@ Pub. L. 107–107, div. A, title XIII, §1305(a), Dec. 28, 2001, 115 Stat. 1255,
 #### Annual Report on Status of Nuclear Materials Protection, Control, and Accounting Program
 
 Pub. L. 106–398, §1 \[div. C, title XXXI, §3171\], Oct. 30, 2000, 114 Stat. 1654, 1654A–475, as amended by Pub. L. 107–314, div. C, title XXXI, §3153, Dec. 2, 2002, 116 Stat. 2738, which was formerly set out as a note under this section, was renumbered section 4303 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(f)(4)(A)–(C), Nov. 24, 2003, 117 Stat. 1763, and is classified to section 2563 of Title 50, War and National Defense.
-
-#### Specification of Cooperative Threat Reduction Programs and Funds for Purposes of Pub. L. 106–65
-
-Pub. L. 106–65, div. A, title XIII, §1301(a), (b), Oct. 5, 1999, 113 Stat. 792, provided that:
-
-“(a)
-
-Specification of CTR Programs.—For purposes of section 301 \[113 Stat. 556\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note).
-
-“(b)
-
-Fiscal Year 2000
-
-Cooperative Threat Reduction Funds Defined.—As used in this title \[enacting provisions set out as notes under this section and section 5955 of this title\], the term ‘fiscal year 2000 Cooperative Threat Reduction funds’ means the funds appropriated pursuant to the authorization of appropriations in section 301 for Cooperative Threat Reduction programs.”
 
 #### Limitation on Use of Funds for Certain Purposes
 
@@ -644,7 +690,7 @@ Pub. L. 106–65, div. A, title XIII, §§1303–1305, Oct. 5, 1999, 113 Stat. 7
 
 “(a)
 
-In General.—No fiscal year 2000 Cooperative Threat Reduction funds, and no funds appropriated for Cooperative Threat Reduction programs after the dateof the enactment of this Act \[Oct. 5, 1999\], may be obligated or expended for any of the following purposes:
+In General.—No fiscal year 2000 Cooperative Threat Reduction funds, and no funds appropriated for Cooperative Threat Reduction programs after the date of the enactment of this Act \[Oct. 5, 1999\], may be obligated or expended for any of the following purposes:
 
 &emsp;“(1) Conducting with Russia any peacekeeping exercise or other peacekeeping-related activity.
 
@@ -696,10 +742,6 @@ Pub. L. 104–201, div. A, title XV, §1503, Sept. 23, 1996, 110 Stat. 2732.
 
 Pub. L. 104–106, div. A, title XII, §1203, Feb. 10, 1996, 110 Stat. 470.
 
-#### Definition of Cooperative Threat Reduction Programs for Purposes of Pub. L. 105–261
-
-Pub. L. 105–261, div. A, title XIII, §1301(a)(1), Oct. 17, 1998, 112 Stat. 2161, provided that: “For purposes of section 301 \[112 Stat. 1960\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note) (as amended by paragraph (2)).”
-
 #### Limitation on Use of Funds for Chemical Weapons Destruction Activities in Russia
 
 Pub. L. 105–261, div. A, title XIII, §1304, Oct. 17, 1998, 112 Stat. 2163, provided that:
@@ -748,7 +790,7 @@ Summary Required.—The Secretary of Defense shall submit to Congress in the mat
 
 &emsp;“(1) a descriptive summary, with respect to the appropriations requested for Cooperative Threat Reduction programs for the fiscal year after the fiscal year in which the summary is submitted, of the amounts requested for each project category under each Cooperative Threat Reduction program element; and
 
-&emsp;“(2) a descriptive summary, with respect to appropriations for Cooperative Threat Reduction programsfor the fiscal year in which the list is submitted and the previous fiscal year, of the amounts obligated or expended, or planned to be obligated or expended, for each project category under each Cooperative Threat Reduction program element.
+&emsp;“(2) a descriptive summary, with respect to appropriations for Cooperative Threat Reduction programs for the fiscal year in which the list is submitted and the previous fiscal year, of the amounts obligated or expended, or planned to be obligated or expended, for each project category under each Cooperative Threat Reduction program element.
 
 “(b)
 
@@ -765,10 +807,6 @@ Inclusion in Certain Materials Submitted to Congress.—The summary required to 
 #### Authority To Conduct Program Relating to Fissile Materials
 
 Pub. L. 104–106, div. C, title XXXI, §3131, Feb. 10, 1996, 110 Stat. 617, as amended by Pub. L. 107–314, div. C, title XXXI, §3152, Dec. 2, 2002, 116 Stat. 2738, which was formerly set out as a note under this section, was renumbered section 4305 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(f)(6), Nov. 24, 2004, 117 Stat. 1763, and is classified to section 2565 of Title 50, War and National Defense.
-
-#### Definition of Cooperative Threat Reduction Programs for Purposes of Pub. L. 103–337
-
-Pub. L. 103–337, div. A, title XII, §1201, Oct. 5, 1994, 108 Stat. 2882, provided that: “For purposes of section 301 \[108 Stat. 2706\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs described in section 1203(b) of the Cooperative Threat Reduction Act of 1993 (title XII of Public Law 103–160; 107 Stat. 1778; 22 U.S.C. 5952(b)).”
 
 #### Multiyear Planning and Allied Support
 
@@ -891,4 +929,44 @@ The Secretary of State shall consult the Secretary of Defense prior to making a 
 The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Definition of Cooperative Threat Reduction Programs for Purposes of Pub. L. 107–314
+
+Pub. L. 107–314, div. A, title XIII, §1301(a), Dec. 2, 2002, 116 Stat. 2670, provided that: “For purposes of section 301 \[116 Stat. 2505\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note).”
+
+#### Definition of Cooperative Threat Reduction Programs and Funds for Purposes of Pub. L. 107–107
+
+Pub. L. 107–107, div. A, title XIII, §1301(a), (b), Dec. 28, 2001, 115 Stat. 1254, provided that:
+
+“(a)
+
+Specification of CTR Programs.—For purposes of section 301 \[115 Stat. 1046\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note).
+
+“(b)
+
+Fiscal Year 2002
+
+Cooperative Threat Reduction Funds Defined.—As used in this title \[amending section 5959 of this title and enacting and amending provisions set out as notes under this section\], the term ‘fiscal year 2002 Cooperative Threat Reduction funds’ means the funds appropriated pursuant to the authorization of appropriations in section 301 for Cooperative Threat Reduction programs.”
+
+#### Definiton of Cooperative Threat Reduction Programs and Funds for Purposes of Pub. L. 106–65
+
+Pub. L. 106–65, div. A, title XIII, §1301(a), (b), Oct. 5, 1999, 113 Stat. 792, provided that:
+
+“(a)
+
+Specification of CTR Programs.—For purposes of section 301 \[113 Stat. 556\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note).
+
+“(b)
+
+Fiscal Year 2000
+
+Cooperative Threat Reduction Funds Defined.—As used in this title \[enacting provisions set out as notes under this section and section 5955 of this title\], the term ‘fiscal year 2000 Cooperative Threat Reduction funds’ means the funds appropriated pursuant to the authorization of appropriations in section 301 for Cooperative Threat Reduction programs.”
+
+#### Definition of Cooperative Threat Reduction Programs for Purposes of Pub. L. 105–261
+
+Pub. L. 105–261, div. A, title XIII, §1301(a)(1), Oct. 17, 1998, 112 Stat. 2161, provided that: “For purposes of section 301 \[112 Stat. 1960\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note) (as amended by paragraph (2)).”
+
+#### Definition of Cooperative Threat Reduction Programs for Purposes of Pub. L. 103–337
+
+Pub. L. 103–337, div. A, title XII, §1201, Oct. 5, 1994, 108 Stat. 2882, provided that: “For purposes of section 301 \[108 Stat. 2706\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs described in section 1203(b) of the Cooperative Threat Reduction Act of 1993 (title XII of Public Law 103–160; 107 Stat. 1778; 22 U.S.C. 5952(b)).”
 

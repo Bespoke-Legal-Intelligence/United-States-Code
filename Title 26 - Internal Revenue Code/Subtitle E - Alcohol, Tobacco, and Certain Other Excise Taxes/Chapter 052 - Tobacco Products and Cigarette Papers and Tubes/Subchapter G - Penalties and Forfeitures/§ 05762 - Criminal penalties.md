@@ -6,7 +6,7 @@ Whoever, with intent to defraud the United States—
 
 #### (1) Engaging in business unlawfully
 
-&emsp;Engages in business as a manufacturer or importer of tobacco products or cigarette papers and tubes, or as an export warehouse proprietor, without filing the bond and obtainingthe permit where required by this chapter or regulations thereunder; or
+&emsp;Engages in business as a manufacturer or importer of tobacco products or cigarette papers and tubes, or as an export warehouse proprietor, without filing the bond and obtaining the permit where required by this chapter or regulations thereunder; or
 
 #### (2) Failing to furnish information or furnishing false information
 

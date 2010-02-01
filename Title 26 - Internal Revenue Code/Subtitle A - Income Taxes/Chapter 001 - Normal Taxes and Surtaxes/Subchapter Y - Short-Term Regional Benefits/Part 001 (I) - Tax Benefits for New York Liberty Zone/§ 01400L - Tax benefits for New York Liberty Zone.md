@@ -62,7 +62,7 @@
 
 #### (II) Only first $6,000 of wages per calendar year taken into account
 
-&emsp;&emsp;&emsp;&emsp;The amount of the qualified wages which may be taken into account with respect to any individual shall not exceed $6,000 per calendar year.
+&emsp;&emsp;&emsp;&emsp;The amount of the qualified wages which may be taken into account withrespect to any individual shall not exceed $6,000 per calendar year.
 
 #### (b) Special allowance for certain property acquired after September 10, 2001
 
@@ -120,7 +120,7 @@
 
 #### (D) Special rules
 
-&emsp;&emsp;For purposes of this subsection, rules similar to the rules of section 168(k)(2)(E) shallapply, except that clause (i) thereof shall be applied without regard to “and before January 1, 2010”, and clause (iv) thereof shall be applied by substituting “qualified New York Liberty Zone property” for “qualified property”.
+&emsp;&emsp;For purposes of this subsection, rules similar to the rules of section 168(k)(2)(E) shall apply, except that clause (i) thereof shall be applied without regard to “and before January 1, 2010”, and clause (iv) thereof shall be applied by substituting “qualified New York Liberty Zone property” for “qualified property”.
 
 #### (E) Allowance against alternative minimum tax
 
@@ -296,7 +296,7 @@ Notwithstanding subsections (g) and (h) of section 1033, clause (i) of section 1
 
 #### (h) New York Liberty Zone
 
-For purposes of this section, the term “New York Liberty Zone” means the area located onor south of Canal Street, East Broadway (east of its intersection with Canal Street), or Grand Street (east of its intersection with East Broadway) in the Borough of Manhattan in the City of New York, New York.
+For purposes of this section, the term “New York Liberty Zone” means the area located on or south of Canal Street, East Broadway (east of its intersection with Canal Street), or Grand Street (east of its intersection with East Broadway) in the Borough of Manhattan in the City of New York, New York.
 
 #### (i) References to Governor and Mayor
 

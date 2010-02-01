@@ -2,7 +2,7 @@
 
 For purposes of this subchapter:
 
-(1) The terms “employee welfare benefit plan” and “welfare plan” mean any plan, fund, or program which was heretofore or is hereafter established or maintained by an employer or by an employee organization, or by both, to the extent that such plan, fund, or program was established or is maintained for the purpose of providing for its participants or their beneficiaries, through the purchase of insurance or otherwise, (A) medical, surgical, or hospital care or benefits, or benefits in the event of sickness, accident, disability, death or unemployment, or vacation benefits, apprenticeship or other training programs, or day care centers, scholarship funds, or prepaid legal services, or (B) any benefit described in section 186(c) of this title (other than pensions on retirement or death, and insurance to provide such pensions).
+(1) The terms “employee welfare benefit plan” and “welfare plan” mean any plan, fund, or program which was heretofore or is hereafter established or maintained by an employer or by an employee organization, or by both, to the extent that such plan, fund, or program was established or is maintained for the purpose of providing for its participants or their beneficiaries, through the purchase of insurance or otherwise, (A) medical, surgical, or hospital care or benefits, or benefits in the event of sickness, accident, disability, death or unemployment, or vacation benefits, apprenticeship or other training programs, or day care centers, scholarship funds, orprepaid legal services, or (B) any benefit described in section 186(c) of this title (other than pensions on retirement or death, and insurance to provide such pensions).
 
 (2)(A) Except as provided in subparagraph (B), the terms “employee pension benefit plan” and “pension plan” mean any plan, fund, or program which was heretofore or is hereafter established or maintained by an employer or by an employee organization, or by both, to the extent that by its express terms or as a result of surrounding circumstances such plan, fund, or program—
 
@@ -54,7 +54,7 @@ For purposes of this subchapter:
 
 &emsp;(E) an owner, direct or indirect, of 50 percent or more of—
 
-&emsp;&emsp;(i) the combined voting power of all classes of stock entitled to vote or the total value of shares of all classes of stock of a corporation.<sup>1</sup>
+&emsp;&emsp;(i) the combined voting power of all classes of stock entitled to vote or the total value ofshares of all classes of stock of a corporation.<sup>1</sup>
 
 &emsp;&emsp;(ii) the capital interest or the profits interest of a partnership, or
 
@@ -100,9 +100,9 @@ For purposes of this subchapter:
 
 (20) The term “security” has the same meaning as such term has under section 77b(1) <sup>2</sup> of title 15.
 
-(21)(A) Except as otherwise provided in subparagraph (B), a person is a fiduciary with respect to a plan to the extent (i) he exercises any discretionary authority or discretionary controlrespecting management of such plan or exercises any authority or control respecting management or disposition of its assets, (ii) he renders investment advice for a fee or other compensation, direct or indirect, with respect to any moneys or other property of such plan, or has any authority or responsibility to do so, or (iii) he has any discretionary authority or discretionary responsibility in the administration of such plan. Such term includes any person designated under section 1105(c)(1)(B) of this title.
+(21)(A) Except as otherwise provided in subparagraph (B), a person is a fiduciary with respect to a plan to the extent (i) he exercises any discretionary authority or discretionary control respecting management of such plan or exercises any authority or control respecting management or disposition of its assets, (ii) he renders investment advice for a fee or other compensation, direct or indirect, with respect to any moneys or other property of such plan, or has any authority or responsibility to do so, or (iii) he has any discretionary authority or discretionary responsibility in the administration of such plan. Such term includes any person designated under section 1105(c)(1)(B) of this title.
 
-(B) If any money or other property of an employee benefit plan is invested in securities issued by an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], such investment shall not by itself cause such investment company or such investment company's investment adviser or principal underwriter to be deemed to be a fiduciary or a party in interest as those terms are defined in this subchapter, except insofar as such investment company or its investment adviser or principal underwriter acts in connection with an employee benefit plan covering employees of the investment company, the investment adviser, or its principal underwriter. Nothing contained in this subparagraph shall limit the duties imposed on such investment company, investment adviser, or principal underwriter by any other law.
+(B) If any money or other property of an employee benefit plan is invested in securities issued by an investment company registeredunder the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], such investment shall not by itself cause such investment company or such investment company's investment adviser or principal underwriter to be deemed to be a fiduciary or a party in interest as those terms are defined in this subchapter, except insofar as such investment company or its investment adviser or principal underwriter acts in connection with an employee benefit plan covering employees of the investment company, the investment adviser, or its principal underwriter. Nothing contained in this subparagraph shall limit the duties imposed on such investment company, investment adviser, or principal underwriter by any other law.
 
 (22) The term “normal retirement benefit” means the greater of the early retirement benefit under the plan, or the benefit under the plan commencing at normal retirement age. The normal retirement benefit shall be determined without regard to—
 
@@ -144,7 +144,7 @@ For purposes of this subchapter:
 
 (31) The term “advance funding actuarial cost method” or “actuarial cost method” means a recognized actuarial technique utilized for establishing the amount and incidence of the annual actuarial cost of pension plan benefits and expenses. Acceptable actuarial cost methods shall include the accrued benefit cost method (unit credit method), the entry age normal cost method, the individual level premium cost method, the aggregate cost method, the attained age normal cost method, and the frozen initial liability cost method. The terminal funding cost method and the current funding (pay-as-you-go) cost method are not acceptable actuarial cost methods. The Secretary of the Treasury shall issue regulations to further define acceptable actuarial cost methods.
 
-(32) The term “governmental plan” means a plan established or maintained for its employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any of the foregoing. The term “governmental plan” also includes any plan to which the Railroad Retirement Act of 1935, or 1937 \[45 U.S.C. 231 et seq.\] applies, and which is financed bycontributions required under that Act and any plan of an international organization which is exempt from taxation under the provisions of the International Organizations Immunities Act \[22 U.S.C. 288 et seq.\]. The term “governmental plan” includes a plan which is established and maintained by an Indian tribal government (as defined in section 7701(a)(40) of title 26), a subdivision of an Indian tribal government (determined in accordance with section 7871(d) of title 26), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function) <sup>3</sup>
+(32) The term “governmental plan” means a plan established or maintained for its employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any of the foregoing. The term “governmental plan” also includes any plan to which the Railroad Retirement Act of 1935, or 1937 \[45 U.S.C. 231 et seq.\] applies, and which is financed by contributions required under that Act and any plan of an international organization which is exempt from taxation under the provisions of the International Organizations Immunities Act \[22 U.S.C. 288 et seq.\]. The term “governmental plan” includes a plan which is established and maintained by an Indian tribal government (as defined in section 7701(a)(40) of title 26), a subdivision of an Indian tribal government (determined in accordance with section 7871(d) of title 26), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whoseservices as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function) <sup>3</sup>
 
 (33)(A) The term “church plan” means a plan established and maintained (to the extent required in clause (ii) of subparagraph (B)) for its employees (or their beneficiaries) by a church or by a convention or association of churches which is exempt from tax under section 501 of title 26.
 
@@ -192,7 +192,7 @@ For purposes of this subchapter:
 
 (34) The term “individual account plan” or “defined contribution plan” means a pension plan which provides for an individual account for each participant and for benefits based solely upon the amount contributed to the participant's account, and any income, expenses, gains and losses, and any forfeitures of accounts of other participants which may be allocated to such participant's account.
 
-(35) The term “defined benefit plan” means a pension plan other than an individual account plan; except that a pension plan which is not an individual account plan and which provides a benefit derived from employer contributions which is based partly on the balance of the separate account of a participant—
+(35) The term “defined benefit plan” means a pension plan other than an individual account plan; except that a pension plan which is not anindividual account plan and which provides a benefit derived from employer contributions which is based partly on the balance of the separate account of a participant—
 
 &emsp;(A) for the purposes of section 1052 of this title, shall be treated as an individual account plan, and
 
@@ -294,7 +294,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(II) any organization described in paragraph (4) or (6) of section 501(c) of title 26 which is exempt from tax under section 501(a) of title 26 and at least 80 percent of the members of which are organizations described in subclause (I), and
 
-&emsp;(v) the term “rural telephone cooperative association” means an organization described in paragraph (4) or (6) of section 501(c) of title 26 which is exempt from tax under section 501(a)of title 26 and at least 80 percent of the members of which are organizations engaged primarily in providing telephone service to rural areas of the United States on a mutual, cooperative, or other basis.
+&emsp;(v) the term “rural telephone cooperative association” means an organization described in paragraph (4) or (6) of section 501(c) of title 26 which is exempt from tax under section 501(a) of title 26 and at least 80 percent of the members of which are organizations engaged primarily in providing telephone service to rural areas of the United States on a mutual, cooperative, or other basis.
 
 (41) <sup>4</sup>
 
@@ -334,13 +334,13 @@ The Investment Advisers Act of 1940, referred to in par. (38)(B), is title II of
 
 #### Amendments
 
-2008—Par. (37)(G). Pub. L. 110–458 substituted “subparagraph” for “paragraph” in cls. (ii), (iii), and (v)(I),“clause (i)(II)” for “subclause (i)(II)” in cl. (iii), “clause” for “subparagraph” in cl. (v)(II), and “section 1021(b)(1)” for “section 1021(b)(4)” in cl. (v)(III).
+2008—Par. (37)(G). Pub. L. 110–458 substituted “subparagraph” for “paragraph” in cls. (ii), (iii), and (v)(I), “clause (i)(II)” for “subclause (i)(II)” in cl. (iii), “clause” for “subparagraph” in cl. (v)(II), and “section 1021(b)(1)” for “section 1021(b)(4)” in cl. (v)(III).
 
 2007—Par. (37)(G)(i)(II)(aa). Pub. L. 110–28, §6611(a)(1)(A), substituted “for each of the 3 plan years immediately preceding the first plan year for which the election under this paragraph is effective with respect to the plan,” for “for each of the 3 plan years immediately before August 17, 2006,”.
 
 Par. (37)(G)(ii). Pub. L. 110–28, §6611(a)(1)(B), substituted “starting with any plan year beginning on or after January 1, 1999, and ending before January 1, 2008, as designated by the plan in the election made under clause (i)(II)” for “starting with the first plan year ending after August 17, 2006”.
 
-Par. (37)(G)(vi). Pub. L. 110–28, §6611(b)(1), substituted “if it is a plan sponsored by an organization which is described in section 501(c)(5) of title 26 and exempt from tax under section 501(a) of such title and which was established in Chicago, Illinois, on August 12, 1881.” for “if it is a plan—
+Par. (37)(G)(vi). Pub. L. 110–28, §6611(b)(1), substituted “if it is a plan sponsored by an organization which isdescribed in section 501(c)(5) of title 26 and exempt from tax under section 501(a) of such title and which was established in Chicago, Illinois, on August 12, 1881.” for “if it is a plan—
 
 &emsp;“(I) that was established in Chicago, Illinois, on August 12, 1881; and
 
@@ -422,7 +422,7 @@ Amendment by Pub. L. 110–28 effective as if included in section 1106 of the Pe
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 611(f) of Pub. L. 109–280 applicable to transactions occurring after Aug. 17, 2006, see section 611(h)(1) of Pub. L. 109–280, set out as a note under section 4975 of Title 26, Internal Revenue Code.
+Amendment by section 611(f) of Pub. L. 109–280 applicable to transactions occurring after Aug. 17, 2006, seesection 611(h)(1) of Pub. L. 109–280, set out as a note under section 4975 of Title 26, Internal Revenue Code.
 
 Amendment by section 905(a) of Pub. L. 109–280 applicable to distributions in plan years beginning after Dec. 31, 2006, see section 905(c) of Pub. L. 109–280, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
@@ -472,7 +472,7 @@ Section 136(b) of Pub. L. 100–202 provided that: “The amendment made by this
 
 Amendment by section 1879(u)(3) of Pub. L. 99–514 effective as if such provisions were included in the enactment of the Single-Employer Pension Plan Amendments Act of 1986 \[Pub. L. 99–272\], see section 1879(u)(4)(A) of Pub. L. 99–514, set out as a note under section 1054 of this title.
 
-Amendment by Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988,and only with respect to service performed on or after such date, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendments note under section 623 of this title.
+Amendment by Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988, and only with respect to service performed on or after such date, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendments note under section 623 of this title.
 
 Amendment by Pub. L. 99–272 effective Jan. 1, 1986, with certain exceptions, see section 11019 of Pub. L. 99–272, set out as a note under section 1341 of this title.
 

@@ -14,7 +14,7 @@
 
 #### (1) Proprietary data
 
-&emsp;Except as provided in paragraph (2), the Director may not make available to the publicdata that the Director determines pursuant to section 4546 of this title are proprietary information.
+&emsp;Except as provided in paragraph (2), the Director may not make available to the public data that the Director determines pursuant to section 4546 of this title are proprietary information.
 
 #### (2) Exception
 

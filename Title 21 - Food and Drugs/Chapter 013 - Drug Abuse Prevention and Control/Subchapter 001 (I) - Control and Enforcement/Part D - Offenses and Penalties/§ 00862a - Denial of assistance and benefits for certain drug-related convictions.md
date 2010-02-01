@@ -16,7 +16,7 @@ An individual convicted (under Federal or State law) of any offense which is cla
 
 #### (2) Benefits under the Food Stamp Act of 1977
 
-&emsp;The amount of benefits otherwise required to be provided to a household under the foodstamp program (as defined in section 3(<i>l</i>) of the Food Stamp Act of 1977 \[7 U.S.C. 2012(<i>l</i>)\]), or any State program carried out under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\], shall be determined by considering the individual to whom subsection (a) of this section applies not to be a member of such household, except that the income and resources of the individual shall be considered to be income and resources of the household.
+&emsp;The amount of benefits otherwise required to be provided to a household under the food stamp program (as defined in section 3(<i>l</i>) of the Food Stamp Act of 1977 \[7 U.S.C. 2012(<i>l</i>)\]), or any State program carried out under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\], shall be determined by considering the individual to whom subsection (a) of this section applies not to be a member of such household, except that the income and resources of the individual shall be considered to be income and resources of the household.
 
 #### (c) Enforcement
 
@@ -98,7 +98,7 @@ Amendment by section 4115(c)(2)(C) of Pub. L. 110–246 effective Oct. 1, 2008, 
 
 #### Effective Date of 1997 Amendment
 
-Section 5518(d) of title V of Pub. L. 105–33 provided that: “The amendments made by this chapter to a provision of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\] that have not become part of another statute \[chapter 1\(§§5501–5518) of subtitle F of title V of Pub. L. 105–33, amending this section, sections 601 to 603, 604 to 608, 609 to 611, and 612 to 617 of Title 42, The Public Health and Welfare, and provisions set out as notes under section 612c of Title 7, Agriculture, and sections 601 and 613 of Title 42\] shall take effect as if the amendments had been included in the provision at the time the provision became law.”
+Section 5518(d) of title V of Pub. L. 105–33 provided that: “The amendments made by this chapter to a provision of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\] that have not become part of another statute \[chapter 1 (§§5501–5518) of subtitle F of title V of Pub. L. 105–33, amending this section, sections 601 to 603, 604 to 608, 609 to 611, and 612 to 617 of Title 42, The Public Health and Welfare, and provisions set out as notes under section 612c of Title 7, Agriculture, and sections 601 and 613 of Title 42\] shall take effect as if the amendments had been included in the provision at the time the provision became law.”
 
 #### Effective Date
 

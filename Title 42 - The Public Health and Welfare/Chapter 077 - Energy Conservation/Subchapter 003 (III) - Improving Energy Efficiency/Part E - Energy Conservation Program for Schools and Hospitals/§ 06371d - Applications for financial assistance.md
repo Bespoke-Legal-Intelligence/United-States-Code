@@ -24,7 +24,7 @@ The Secretary shall approve such applications submitted by a State energy agency
 
 #### (e) Suspension of further assistance for failure to comply
 
-Whenever the Secretary, after reasonable notice and opportunity for hearing to any State,school, or hospital receiving assistance under this part, finds that there has been a failure to comply substantially with the provisions set forth in the application approved under this section, the Secretary shall notify the State, school, or hospital that further assistance will not be made available to such State, school or hospital under this part until he is satisfied that there is no longer any such failure to comply. Until he is so satisfied no further assistance shall be made to such State, school, or hospital under this part.
+Whenever the Secretary, after reasonable notice and opportunity for hearing to any State, school, or hospital receiving assistance under this part, finds that there has been a failure to comply substantially with the provisions set forth in the application approved under this section, the Secretary shall notify the State, school, or hospital that further assistance will not be made available to such State, school or hospital under this part until he is satisfied that there is no longer any such failure to comply. Until he is so satisfied no further assistance shall be made to such State, school, or hospital under this part.
 
 (Pub. L. 94–163, title III, §395, as added Pub. L. 95–619, title III, §302(a), Nov. 9, 1978, 92 Stat. 3244.)
 

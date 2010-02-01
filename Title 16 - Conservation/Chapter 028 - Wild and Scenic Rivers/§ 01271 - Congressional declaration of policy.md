@@ -8,9 +8,13 @@ It is hereby declared to be the policy of the United States that certain selecte
 
 Section consists of subsec. (b) of section 1 of Pub. L. 90–542. Subsecs. (a) and (c) of section 1 are classified to section 1272 of this title and as a note under this section, respectively.
 
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–11, title V, §5002(a), Mar. 30, 2009, 123 Stat. 1147, provided that: “This section \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Craig Thomas Snake Headwaters Legacy Act of 2008’.”
+
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–452, §1, Dec. 22, 2006, 120 Stat. 3363, provided that: “This Act \[amending section 1274 of this title and enacting provisions set out as a note under section 1274 of this title\] may be cited as the ‘Musconetcong Wild and Scenic Rivers Act’.”
+Pub. L. 109–452, §1, Dec. 22, 2006, 120 Stat. 3363, provided that: “This Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Musconetcong Wild and Scenic Rivers Act’.”
 
 Pub. L. 109–370, §1, Nov. 27, 2006, 120 Stat. 2643, provided that: “This Act \[amending section 1276 of this title\] may be cited as the ‘Lower Farmington River and Salmon Brook Wild and Scenic River Study Act of 2005’.”
 
@@ -20,7 +24,7 @@ Pub. L. 109–44, §1, Aug. 2, 2005, 119 Stat. 443, provided that: “This Act \
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–365, §1, Dec. 19, 2002, 116 Stat. 3027, provided that: “This Act \[amending section 1274 of this title and enacting provisions set out as a note under section 1274 of this title\] may be cited as the ‘Caribbean National Forest Wild and Scenic Rivers Act of 2002’.”
+Pub. L. 107–365, §1, Dec. 19, 2002, 116 Stat. 3027, provided that: “This Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Caribbean National Forest Wild and Scenic Rivers Act of 2002’.”
 
 #### Short Title of 2001 Amendment
 
@@ -44,7 +48,7 @@ Pub. L. 106–20, §1, Apr. 9, 1999, 113 Stat. 30, provided that: “This Act \[
 
 #### Short Title of 1994 Amendments
 
-Pub. L. 103–313, §1, Aug. 26, 1994, 108 Stat. 1699, provided that: “This Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Farmington Wild and Scenic River Act’.”
+Pub. L. 103–313, §1, Aug. 26, 1994, 108 Stat. 1699, provided that: “This Act \[amending section 1274 of this title and enacting provisions classified as a note undersection 1274 of this title\] may be cited as the ‘Farmington Wild and Scenic River Act’.”
 
 Pub. L. 103–242, §1, May 4, 1994, 108 Stat. 611, provided that: “This Act \[amending sections 1274 and 1276 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Rio Grande Designation Act of 1994’.”
 

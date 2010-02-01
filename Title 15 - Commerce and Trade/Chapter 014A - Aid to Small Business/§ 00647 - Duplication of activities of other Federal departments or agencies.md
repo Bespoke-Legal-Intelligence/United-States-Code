@@ -8,7 +8,7 @@ The Administration shall not duplicate the work or activity of any other departm
 
 As used in this chapter—
 
-&emsp;(1) “agricultural enterprises” means those businesses engaged in the production of foodand fiber, ranching, and raising of livestock, aquaculture, and all other farming and agricultural related industries; and
+&emsp;(1) “agricultural enterprises” means those businesses engaged in the production of food and fiber, ranching, and raising of livestock, aquaculture, and all other farming and agricultural related industries; and
 
 &emsp;(2) “credit elsewhere” means the availability of sufficient credit from non-Federal sources at reasonable rates and terms, taking into consideration prevailing private rates and terms in the community in or near where the concern transacts business for similar purposes and periods of time.
 

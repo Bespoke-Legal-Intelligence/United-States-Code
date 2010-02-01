@@ -28,7 +28,7 @@ In connection with the cooperative endeavors authorized by subsection (a) of thi
 
 &emsp;(8) enter into contracts with individuals for the provision of services (as defined in section 104 of part 37 of title 48, Code of Federal Regulations (48 CFR 37.104)) in participating foreign countries, which individuals may not be deemed employees of the United States for the purpose of any law administered by the Office of Personnel Management;
 
-&emsp;(9) provide such funds by advance or reimbursement to the Secretary of State, as maybe necessary, to pay the costs of acquisition, lease, construction, alteration, equipping, furnishing or management of facilities outside of the United States; and
+&emsp;(9) provide such funds by advance or reimbursement to the Secretary of State, as may be necessary, to pay the costs of acquisition, lease, construction, alteration, equipping, furnishing or management of facilities outside of the United States; and
 
 &emsp;(10) in consultation with the Secretary of State, through grant or cooperative agreement, make funds available to public or nonprofit private institutions or agencies in foreign countries in which the Secretary is participating in activities described under subsection (a) to acquire, lease, construct, alter, or renovate facilities in those countries.
 

@@ -26,7 +26,7 @@ The General Schedule, referred to in subsec. (b), is set out under section 5332 
 
 #### Prior Provisions
 
-A prior section 3319, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 421, related to prohibitions on employment of members of same family in the competitive service, prior to repeal by Pub. L. 95–454, title III, §307(h)(1), title IX, §907, Oct. 13, 1978, 92 Stat. 1149, 1227, effective 90 days after Oct. 13, 1978.
+A prior section 3319, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 421, related to prohibitions on employment of members of same family in the competitive service,prior to repeal by Pub. L. 95–454, title III, §307(h)(1), title IX, §907, Oct. 13, 1978, 92 Stat. 1149, 1227, effective 90 days after Oct. 13, 1978.
 
 #### Effective Date
 

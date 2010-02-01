@@ -106,7 +106,7 @@
 
 #### (ii) Producers who are importers
 
-&emsp;&emsp;&emsp;The administering authority may disregard the position of domestic producers of a domestic like product who are importers of the subject merchandise.
+&emsp;&emsp;&emsp;The administering authority may disregard the position of domestic producersof a domestic like product who are importers of the subject merchandise.
 
 #### (C) Special rule for regional industries
 
@@ -134,7 +134,7 @@ The administering authority shall—
 
 &emsp;(1) notify the Commission immediately of any determination it makes under subsection (a) or (c) of this section, and
 
-&emsp;(2) if the determination is affirmative, make available to the Commission such information as it may have relating to the matter underinvestigation, under such procedures as the administering authority and the Commission may establish to prevent disclosure, other than with the consent of the party providing it or under protective order, of any information to which confidential treatment has been given by the administering authority.
+&emsp;(2) if the determination is affirmative, make available to the Commission such information as it may have relating to the matter under investigation, under such procedures as the administering authority and the Commission may establish to prevent disclosure, other than with the consent of the party providing it or under protective order, of any information to which confidential treatment has been given by the administering authority.
 
 #### (e) Information regarding critical circumstances
 
@@ -176,7 +176,7 @@ Subsec. (c). Pub. L. 103–465, §212(a)(2), amended heading and text of subsec.
 
 Subsec. (e). Pub. L. 103–465, §233(a)(5)(R), in concluding provisions, substituted “subject merchandise” for “class or kind of merchandise that is the subject of the investigation” in two places.
 
-Subsec. (e)(1). Pub. L. 103–465, §233(a)(5)(P), substituted “the subject merchandise” for “class or kind of the merchandise which is the subject of the investigation”.
+Subsec. (e)(1). Pub. L. 103–465, §233(a)(5)(P), substituted “the subject merchandise” for “class or kindof the merchandise which is the subject of the investigation”.
 
 Subsec. (e)(2). Pub. L. 103–465, §233(a)(5)(Q), substituted “subject merchandise” for “merchandise which is the subject of the investigation”.
 
@@ -206,5 +206,5 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 

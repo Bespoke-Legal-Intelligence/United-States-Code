@@ -16,15 +16,15 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–458, §1072(b), substituted “section 403–1(i)” for “section 403–3(c)(7)”.
+2004—Pub. L. 108–458, §1072(b), substituted “section 403–1(i)” for “section 403–3(c)(7)”.
 
 Pub. L. 108–458, §1071(b)(1)(A), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-<b>2003</b>—Pub. L. 108–177 substituted “section 403–3(c)(7) of this title” for “section 403–3(c)(6) of this title”.
+2003—Pub. L. 108–177 substituted “section 403–3(c)(7) of this title” for “section 403–3(c)(6) of this title”.
 
-<b>1998</b>—Pub. L. 105–272 substituted “403–3(c)(6)” for “403–3(c)(5)”.
+1998—Pub. L. 105–272 substituted “403–3(c)(6)” for “403–3(c)(5)”.
 
-<b>1993</b>—Pub. L. 103–178 substituted “section 403–3(c)(5) of this title” for “the proviso of section 403(d)(3) of this title” and “Office of Management and Budget” for “Bureau of the Budget”.
+1993—Pub. L. 103–178 substituted “section 403–3(c)(5) of this title” for “the proviso of section 403(d)(3) of this title” and “Office of Management and Budget” for “Bureau of the Budget”.
 
 #### Effective Date of 2004 Amendment
 

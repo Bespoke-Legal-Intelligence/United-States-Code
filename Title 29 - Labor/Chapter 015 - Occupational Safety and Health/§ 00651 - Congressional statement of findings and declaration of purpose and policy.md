@@ -24,7 +24,7 @@
 
 &emsp;(10) by providing an effective enforcement program which shall include a prohibition against giving advance notice of any inspection and sanctions for any individual violating this prohibition;
 
-&emsp;(11) by encouraging the States to assume the fullest responsibility for the administration and enforcement of their occupational safety and health laws by providing grants to the States to assist in identifying their needs and responsibilities in the area of occupationalsafety and health, to develop plans in accordance with the provisions of this chapter, to improve the administration and enforcement of State occupational safety and health laws, and to conduct experimental and demonstration projects in connection therewith;
+&emsp;(11) by encouraging the States to assume the fullest responsibility for the administration and enforcement of their occupational safety and health laws by providing grants to the States to assist in identifying their needs and responsibilities in the area of occupational safety and health, to develop plans in accordance with the provisions of this chapter, to improve the administration and enforcement of State occupational safety and health laws, and to conduct experimental and demonstration projects in connection therewith;
 
 &emsp;(12) by providing for appropriate reporting procedures with respect to occupational safety and health which procedures will help achieve the objectives of this chapter and accurately describe the nature of the occupational safety and health problem;
 
@@ -38,7 +38,7 @@ This chapter, referred to in subsec. (b)(3), (11), and (12), was in the original
 
 #### Effective Date
 
-Section 34 of Pub. L. 91–596 provided that: “This Act \[enacting this chapter and section 3142–1 of Title 42, The Public Health and Welfare, amending section 553 of this title, sections 5108, 5314, 5315, and 7902 of Title 5, Government Organization and Employees, sections 633 and 636 of Title 15, Commerce and Trade, section 1114 of Title 18, Crimes and Criminal Procedure, and section 1421 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 1114 of Title 18\] shall take effect one hundred and twenty days after the date of its enactment \[Dec. 29, 1970\].”
+Section 34 of Pub. L. 91–596 provided that: “This Act \[enacting this chapter and section 3142–1 of Title 42,The Public Health and Welfare, amending section 553 of this title, sections 5108, 5314, 5315, and 7902 of Title 5, Government Organization and Employees, sections 633 and 636 of Title 15, Commerce and Trade, section 1114 of Title 18, Crimes and Criminal Procedure, and section 1421 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 1114 of Title 18\] shall take effect one hundred and twenty days after the date of its enactment \[Dec. 29, 1970\].”
 
 #### Short Title of 1998 Amendment
 

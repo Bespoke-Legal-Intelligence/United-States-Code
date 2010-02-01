@@ -166,7 +166,7 @@ Certification.—Before exchanging diplomatic notes pursuant to Article 16(1) of
 
 “(b)
 
-Peaceful Use Assurances for Certain By-Product Material.—The President shall seek to achieve, by the earliest possible date, either within the NSG or with relevant NSG Participating Governments, the adoption of principles, reporting, and exchanges of information as may be appropriate to assure peaceful use and accounting of by-product material in a manner that is substantially equivalent to the relevant provisions of the Agreement.
+Peaceful Use Assurances for Certain By-Product Material.—The President shall seek toachieve, by the earliest possible date, either within the NSG or with relevant NSG Participating Governments, the adoption of principles, reporting, and exchanges of information as may be appropriate to assure peaceful use and accounting of by-product material in a manner that is substantially equivalent to the relevant provisions of the Agreement.
 
 “(c)
 

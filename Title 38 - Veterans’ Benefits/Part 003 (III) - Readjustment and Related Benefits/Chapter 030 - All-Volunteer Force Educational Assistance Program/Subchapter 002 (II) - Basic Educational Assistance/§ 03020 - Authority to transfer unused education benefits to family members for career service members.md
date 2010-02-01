@@ -72,7 +72,7 @@ Additional Administrative Matters.—(1) The use of any entitlement to basic edu
 
 (3)(A) Subject to subparagraph (B), the monthly rate of educational assistance payable to a dependent to whom entitlement is transferred under this section shall be the monthly amount payable under sections 3015 and 3022 of this title to the individual making the transfer.
 
-(B) The monthly rate of assistance payable to a dependent under subparagraph (A) shall be subject to the provisions of section 3032 of this title, except that the provisions of subsection (a)(1) of that section shall not apply even if the individual making the transfer to the dependentunder this section is on active duty during all or any part of enrollment period of the dependent in which such entitlement is used.
+(B) The monthly rate of assistance payable to a dependent under subparagraph (A) shall be subject to the provisions of section 3032 of this title, except that the provisions of subsection (a)(1) of that section shall not apply even if the individual making the transfer to the dependent under this section is on active duty during all or any part of enrollment period of the dependent in which such entitlement is used.
 
 (4) The death of an individual transferring an entitlement under this section shall not affect the use of the entitlement by the dependent to whom the entitlement is transferred.
 
@@ -112,7 +112,7 @@ Regulations.—The Secretary of Defense, in coordination with the Secretary of V
 
 (<i>l</i>)
 
-Annual Report.—(1) Not later than January 31 each year (beginning in 2003), the Secretary of Defense shall submit to the Committees on Armed Services and the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the transfers of entitlement to basic educational assistance under this section that were approved by each Secretary concerned during the preceding fiscal year.
+Annual Report.—(1) Not later than January 31 each year (beginning in 2003), the Secretary of Defense shall submit to the Committees on Armed Services and the Committees onVeterans’ Affairs of the Senate and House of Representatives a report on the transfers of entitlement to basic educational assistance under this section that were approved by each Secretary concerned during the preceding fiscal year.
 
 (2) Each report shall set forth—
 

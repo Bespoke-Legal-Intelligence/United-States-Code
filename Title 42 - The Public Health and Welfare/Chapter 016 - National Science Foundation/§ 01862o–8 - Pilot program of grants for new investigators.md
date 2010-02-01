@@ -10,7 +10,7 @@ To be eligible to receive a grant under this section, an individual—
 
 &emsp;(1) may not have previously received funding as the principal investigator of a research grant from the Foundation; and
 
-&emsp;(2) shall have submitted a proposal to the Foundation, which may include a proposal submitted to the Research in Undergraduate Institutions program, that was rated excellent under the Foundation's competitive merit review process.
+&emsp;(2) shall have submitted a proposal to the Foundation, which may include a proposalsubmitted to the Research in Undergraduate Institutions program, that was rated excellent under the Foundation's competitive merit review process.
 
 #### (c) Selection process
 

@@ -58,7 +58,7 @@ Subsec. (d). Pub. L. 102–484, §505(a)(3), added subsec. (d).
 
 Subsec. (c). Pub. L. 102–190, §551(a)(3), substituted “four assistant chiefs” for “three assistant chiefs” in first sentence.
 
-1967—Subsec. (a). Pub. L. 90–130 removed limitation restricting membership in the Corps to officers ingrades of second lieutenant through colonel and inserted provisions authorizing the Secretary of the Army to prescribe the grades of officers comprising the Corps.
+1967—Subsec. (a). Pub. L. 90–130 removed limitation restricting membership in the Corps to officers in grades of second lieutenant through colonel and inserted provisions authorizing the Secretary of the Army to prescribe the grades of officers comprising the Corps.
 
 Subsec. (b). Pub. L. 90–130 struck out provision entitling the Chief to the temporary grade of colonel while serving, ranking above all other colonels in the Corps.
 

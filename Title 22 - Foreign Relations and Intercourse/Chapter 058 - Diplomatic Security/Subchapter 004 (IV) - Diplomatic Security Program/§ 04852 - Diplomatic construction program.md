@@ -42,7 +42,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(G) has the existing technical and financial resources in the United States to perform the contract; and
 
-&emsp;(3) the term “qualified United States joint venture person” means a joint venture in which a United States person or persons owns at least 51 percent of the assets of the joint venture.
+&emsp;(3) the term “qualified United States joint venture person” means a joint venture in which a United States person or persons ownsat least 51 percent of the assets of the joint venture.
 
 #### (d) American minority contractors
 
@@ -56,7 +56,7 @@ Not less than 10 percent of the amount appropriated pursuant to section 4851(a) 
 
 With respect to a diplomatic construction project, a prime contractor may not subcontract more than 50 percent of the total value of its contract for that project.
 
-(Pub. L. 99–399, title IV, §402, Aug. 27, 1986, 100 Stat. 864; Pub. L. 101–246, title I, §132, Feb. 16, 1990, 104 Stat. 32; Pub. L. 102–138, title I, §131, Oct. 28, 1991, 105 Stat. 662; Pub. L. 103–236, title I, §162(g)(10), Apr. 30, 1994, 108 Stat. 407; Pub. L.107–228, div. A, title II, §206(b), Sept. 30, 2002, 116 Stat. 1364.)
+(Pub. L. 99–399, title IV, §402, Aug. 27, 1986, 100 Stat. 864; Pub. L. 101–246, title I, §132, Feb. 16, 1990, 104 Stat. 32; Pub. L. 102–138, title I, §131, Oct. 28, 1991, 105 Stat. 662; Pub. L. 103–236, title I, §162(g)(10), Apr. 30, 1994, 108 Stat. 407; Pub. L. 107–228, div. A, title II, §206(b), Sept. 30, 2002, 116 Stat. 1364.)
 
 #### References in Text
 

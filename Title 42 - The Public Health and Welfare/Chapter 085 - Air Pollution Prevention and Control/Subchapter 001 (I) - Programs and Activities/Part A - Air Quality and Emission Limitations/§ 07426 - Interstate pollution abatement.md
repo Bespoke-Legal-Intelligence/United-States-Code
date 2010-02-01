@@ -16,7 +16,7 @@ Each applicable implementation plan shall—
 
 #### (b) Petition for finding that major sources emit or would emit prohibited air pollutants
 
-Any State or political subdivision may petition the Administrator for a finding that any major source or group of stationary sources emits or would emit any air pollutant in violation of the prohibition of section 7410(a)(2)(D)(ii) of this title or this section. Within 60 days after receipt of any petition under this subsection and after public hearing, the Administrator shall make such a finding or deny the petition.
+Any State or political subdivision may petition the Administrator for a finding that any major source or group of stationary sources emits or would emit any air pollutant in violation of the prohibition of section 7410(a)(2)(D)(ii) of this title or this section. Within 60 days afterreceipt of any petition under this subsection and after public hearing, the Administrator shall make such a finding or deny the petition.
 
 #### (c) Violations; allowable continued operation
 

@@ -30,7 +30,7 @@
 
 (d) The privileges prescribed by subsections (a) and (c) do not, unless authorized by the copyright owner, extend to any person who has acquired possession of the copy or phonorecord from the copyright owner, by rental, lease, loan, or otherwise, without acquiring ownership of it.
 
-(e) Notwithstanding the provisions of sections 106(4) and 106(5), in the case of an electronic audiovisual game intended for use in coin-operated equipment, the owner of a particular copy of such a game lawfully made under this title, is entitled, without the authority of the copyright owner of the game, to publicly perform or display that game in coin-operated equipment, except that this subsection shall not apply to any work of authorship embodied in the audiovisual game if the copyright owner of the electronicaudiovisual game is not also the copyright owner of the work of authorship.
+(e) Notwithstanding the provisions of sections 106(4) and 106(5), in the case of an electronicaudiovisual game intended for use in coin-operated equipment, the owner of a particular copy of such a game lawfully made under this title, is entitled, without the authority of the copyright owner of the game, to publicly perform or display that game in coin-operated equipment, except that this subsection shall not apply to any work of authorship embodied in the audiovisual game if the copyright owner of the electronic audiovisual game is not also the copyright owner of the work of authorship.
 
 (Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2548; Pub. L. 98–450, §2, Oct. 4, 1984, 98 Stat. 1727; Pub. L. 100–617, §2, Nov. 5, 1988, 102 Stat. 3194; Pub. L. 101–650, title VIII, §§802, 803, Dec. 1, 1990, 104 Stat. 5134, 5135; Pub. L. 103–465, title V, §514(b), Dec. 8, 1994, 108 Stat. 4981; Pub. L. 105–80, §12(a)(5), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 110–403, title II, §209(a)(1), Oct. 13, 2008, 122 Stat. 4264.)
 
@@ -62,7 +62,7 @@ The committee's intention is to preserve the traditional privilege of the owner 
 
 #### References in Text
 
-The date of the enactment of the Computer Software Rental Amendments Act of 1990, referred to in subsec.\(b)(2)(B), is the date of enactment of Pub. L. 101–650, which was approved Dec. 1, 1990.
+The date of the enactment of the Computer Software Rental Amendments Act of 1990, referred to in subsec. (b)(2)(B), is the date of enactment of Pub. L. 101–650, which was approved Dec. 1, 1990.
 
 The first section of the Clayton Act, referred to in subsec. (b)(3), is classified to section 12 of Title 15, Commerce and Trade.
 

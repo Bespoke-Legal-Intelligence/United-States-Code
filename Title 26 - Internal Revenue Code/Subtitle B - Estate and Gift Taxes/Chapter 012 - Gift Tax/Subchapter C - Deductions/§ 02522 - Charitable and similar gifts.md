@@ -6,11 +6,11 @@ In computing taxable gifts for the calendar year, there shall be allowed as a de
 
 &emsp;(1) the United States, any State, or any political subdivision thereof, or the District of Columbia, for exclusively public purposes;
 
-&emsp;(2) a corporation, or trust, or community chest, fund, or foundation, organized and operated exclusively for religious, charitable, scientific, literary, or educational purposes, or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment), including the encouragement of art and the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private shareholder or individual, which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation, and which does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office;
+&emsp;(2) a corporation, or trust, or community chest, fund, or foundation, organized and operated exclusively for religious, charitable, scientific, literary, or educational purposes, or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment), including the encouragement of art and the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private shareholder or individual, which is not disqualified for tax exemption under section501(c)(3) by reason of attempting to influence legislation, and which does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office;
 
 &emsp;(3) a fraternal society, order, or association, operating under the lodge system, but only if such gifts are to be used exclusively for religious, charitable, scientific, literary, or educational purposes, including the encouragement of art and the prevention of cruelty to children or animals;
 
-&emsp;(4) posts or organizations of war veterans, or auxiliary units or societies of any such posts or organizations, if such posts, organizations, units, or societies are organized in the United States or any of its possessions, and if no partof their net earnings insures to the benefit of any private shareholder or individual.
+&emsp;(4) posts or organizations of war veterans, or auxiliary units or societies of any such posts or organizations, if such posts, organizations, units, or societies are organized in the United States or any of its possessions, and if no part of their net earnings insures to the benefit of any private shareholder or individual.
 
 > Rules similar to the rules of section 501(j) shall apply for purposes of paragraph (2).
 
@@ -60,7 +60,7 @@ In the case of a nonresident not a citizen of the United States, there shall be 
 
 &emsp;&emsp;&emsp;(ii) a type III supporting organization (as defined in section 4943(f)(5)(A)) which is not a functionally integrated type III supporting organization (as defined in section 4943(f)(5)(B)), and
 
-&emsp;&emsp;(B) the taxpayer obtains a contemporaneous written acknowledgment (determined under rules similar to the rules of section 170(f)(8)(C)) from the sponsoring organization (as so defined) of such donor advised fund that such organization has exclusive legal control over the assets contributed.
+&emsp;&emsp;(B) the taxpayer obtains a contemporaneous written acknowledgment (determinedunder rules similar to the rules of section 170(f)(8)(C)) from the sponsoring organization (as so defined) of such donor advised fund that such organization has exclusive legal control over the assets contributed.
 
 #### (d) Special rule for irrevocable transfers of easements in real property
 
@@ -238,7 +238,7 @@ Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 3
 
 #### Effective Date of 1969 Amendment
 
-Amendment by section 201(d)(3) of Pub. L. 91–172 applicable to gifts made after Dec. 31, 1969, except that the amendment of par. (2) of subsec. (c) applicable to gifts made after July 31, 1969, see section 201(g)(4)(D) of Pub. L. 91–172, set out as a note under section 170 of this title.
+Amendment by section 201(d)(3) of Pub. L. 91–172 applicable to gifts made after Dec. 31, 1969, except thatthe amendment of par. (2) of subsec. (c) applicable to gifts made after July 31, 1969, see section 201(g)(4)(D) of Pub. L. 91–172, set out as a note under section 170 of this title.
 
 Amendment by section 201(d)(4)(C), (D) of Pub. L. 91–172 applicable to gifts and transfers made after Dec. 31, 1969, see section 201(g)(4)(E) of Pub. L. 91–172, set out as a note under section 170 of this title.
 

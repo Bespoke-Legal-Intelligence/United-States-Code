@@ -20,7 +20,7 @@
 
 > For purposes of subsection (d)(2) of this section, in the case of a penalty assessed with respect to a source referred to in clause (iii) of this subparagraph, the costs referred to in such subsection (d)(2) shall be the economic value of noncompliance with the interim emission control requirement or the remaining steps in the schedule of compliance referred to in such clause.
 
-(B) Notwithstanding the requirements of subparagraph (A)(i) and (ii), the owner or operatorof any source shall be exempted from the duty to pay a noncompliance penalty under such requirements with respect to that source if, in accordance with the procedures in subsection (b)(5) of this section, the owner or operator demonstrates that the failure of such source to comply with any such requirement is due solely to—
+(B) Notwithstanding the requirements of subparagraph (A)(i) and (ii), the owner or operator of any source shall be exempted from the duty to pay a noncompliance penalty under such requirements with respect to that source if, in accordance with the procedures in subsection (b)(5) of this section, the owner or operator demonstrates that the failure of such source to comply with any such requirement is due solely to—
 
 &emsp;(i) a conversion by such source from the burning of petroleum products or natural gas, or both, as the permanent primary energy source to the burning of coal pursuant to an order under section 7413(d)(5) <sup>1</sup> of this title or section 1857c–10 <sup>1</sup> of this title (as in effect before August 7, 1977);
 
@@ -62,7 +62,7 @@ Regulations under subsection (a) of this section shall—
 
 &emsp;(7) require payment, in accordance with subsection (d) of this section, of the penalty by each person to whom notice of noncompliance is given under paragraph (3) with respect to each noncomplying source for which such notice is given unless there has been a final determination granting a petition under paragraph (4)(B) with respect to such source;
 
-&emsp;(8) authorize the State or the Administrator to adjust (and from time to time to readjust) the amount of the penalty assessment calculated or the payment schedule proposed by such owner or operator under paragraph (4), ifthe Administrator finds after notice and opportunity for a hearing on the record that the penalty or schedule does not meet the requirements of this section; and
+&emsp;(8) authorize the State or the Administrator to adjust (and from time to time to readjust) the amount of the penalty assessment calculated or the payment schedule proposed by such owner or operator under paragraph (4), if the Administrator finds after notice and opportunity for a hearing on the record that the penalty or schedule does not meet the requirements of this section; and
 
 &emsp;(9) require a final adjustment of the penalty within 180 days after such source comes into compliance in accordance with subsection (d)(4) of this section.
 
@@ -108,7 +108,7 @@ If the owner or operator of any stationary source to whom a notice is issued und
 
 &emsp;(B) assess and collect an additional payment with interest at appropriate prevailing rates (as determined by the Secretary of the Treasury) for any underpayment by such person.
 
-(5) Any person who fails to pay the amount of any penalty with respect to any source under this section on a timely basis shall be requiredto pay in addition a quarterly nonpayment penalty for each quarter during which such failure to pay persists. Such nonpayment penalty shall be in an amount equal to 20 percent of the aggregate amount of such person's penalties and nonpayment penalties with respect to such source which are unpaid as of the beginning of such quarter.
+(5) Any person who fails to pay the amount of any penalty with respect to any source under this section on a timely basis shall be required to pay in addition a quarterly nonpayment penalty for each quarter during which such failure to pay persists. Such nonpayment penalty shall be in an amount equal to 20 percent of the aggregate amount of such person's penalties and nonpayment penalties with respect to such source which are unpaid as of the beginning of such quarter.
 
 #### (e) Judicial review
 

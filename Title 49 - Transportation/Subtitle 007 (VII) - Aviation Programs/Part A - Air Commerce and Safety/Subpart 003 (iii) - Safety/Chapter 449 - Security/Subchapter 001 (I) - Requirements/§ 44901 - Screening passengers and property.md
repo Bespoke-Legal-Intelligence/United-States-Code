@@ -66,7 +66,7 @@ Reports.—Until the Transportation Security Administration has met the requirem
 
 (e)
 
-Mandatory Screening Where EDS Not Yet Available.—As soon as practicable but not later than the 60th day following the date of enactment of the Aviation and Transportation Security Act and until the requirements of subsection (b)(1)(A) are met, the Under Secretary shall require alternative means for screening any piece of checked baggage that is not screened by an explosive detection system. Such alternative means may include 1 or more of the following:
+Mandatory Screening Where EDS Not Yet Available.—As soon as practicable but notlater than the 60th day following the date of enactment of the Aviation and Transportation Security Act and until the requirements of subsection (b)(1)(A) are met, the Under Secretary shall require alternative means for screening any piece of checked baggage that is not screened by an explosive detection system. Such alternative means may include 1 or more of the following:
 
 &emsp;(1) A bag-match program that ensures that no checked baggage is placed aboard an aircraft unless the passenger who checked the baggage is aboard the aircraft.
 
@@ -110,7 +110,7 @@ Final rule.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—If the Secretary issues an interim final rule under subparagraph\(A), the Secretary shall issue, not later than one year after the effective date of the interim final rule, a final rule as a permanent regulation to implement this subsection in accordance with the provisions of chapter 5 of title 5.
+In general.—If the Secretary issues an interim final rule under subparagraph (A), the Secretary shall issue, not later than one year after the effective date of the interim final rule, a final rule as a permanent regulation to implement this subsection in accordance with the provisions of chapter 5 of title 5.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -138,7 +138,7 @@ In general.—The Under Secretary shall order the deployment of law enforcement 
 
 &emsp;(2)
 
-Minimum requirements.—Except at airports required to enter into agreements under subsection (c), the Under Secretary shall order the deployment of at least 1 law enforcement officer at each airport security screening location. At the 100 largest airports in the United States, in terms of annual passenger enplanements for the most recent calendar year for which data are available, the Under Secretary shall order the deployment of additional law enforcement personnel at airport security screening locations if the Under Secretary determines that the additional deployment is necessary to ensure passenger safety and national security.
+Minimum requirements.—Except at airports required to enter into agreements under subsection (c), the Under Secretary shall orderthe deployment of at least 1 law enforcement officer at each airport security screening location. At the 100 largest airports in the United States, in terms of annual passenger enplanements for the most recent calendar year for which data are available, the Under Secretary shall order the deployment of additional law enforcement personnel at airport security screening locations if the Under Secretary determines that the additional deployment is necessary to ensure passenger safety and national security.
 
 (i)
 
@@ -180,7 +180,7 @@ General Aviation Airport Security Program.—
 
 &emsp;(1)
 
-In general.—Not later than one year after the date of enactment of this subsection,the Administrator of the Transportation Security Administration shall—
+In general.—Not later than one year after the date of enactment of this subsection, the Administrator of the Transportation Security Administration shall—
 
 &emsp;&emsp;(A) develop a standardized threat and vulnerability assessment program for general aviation airports (as defined in section 47134(m)); and
 
@@ -364,7 +364,7 @@ In general.—Upon request of the Under Secretary, an air carrier or foreign air
 
 &emsp;“(B)
 
-Schedule.—The Under Secretary may enter into an agreement under subparagraph (A) as soon as possible, but not later than 90 days after the date of enactment of this Act \[Nov. 19, 2001\]. The Under Secretary may enter into such an agreement for one 180-day period and may extend such agreement for one90-day period if the Under Secretary determines it necessary.
+Schedule.—The Under Secretary may enter into an agreement under subparagraph (A) as soon as possible, but not later than 90 days after the date of enactment of this Act \[Nov. 19, 2001\]. The Under Secretary may enter into such an agreement for one 180-day period and may extend such agreement for one 90-day period if the Under Secretary determines it necessary.
 
 “(4)
 
@@ -416,7 +416,7 @@ Pub. L. 108–458, title IV, §4019(a), (b), Dec. 17, 2004, 118 Stat. 3721, prov
 
 “(a)
 
-In-Line Baggage Screening Equipment.—The Assistant Secretary of Homeland Security (Transportation Security Administration) shall take such action as may be necessary to expedite the installation and use of in-line baggage screening equipment at airports at which screening is required by section 44901 of title 49, United States Code.
+In-Line Baggage Screening Equipment.—The Assistant Secretary of Homeland Security (Transportation Security Administration) shall take such action as may be necessary to expedite the installation anduse of in-line baggage screening equipment at airports at which screening is required by section 44901 of title 49, United States Code.
 
 “(b)
 
@@ -682,7 +682,7 @@ Pub. L. 104–264, title III, §308, Oct. 9, 1996, 110 Stat. 3253, which provide
 
 #### Installation and Use of Explosive Detection Equipment
 
-Pub. L. 101–45, title I, June 30, 1989, 103 Stat. 110, provided in part that: “Not later than thirty days after the date of the enactment of this Act \[June 30, 1989\], the Federal Aviation Administrator shall initiate action,including such rulemaking or other actions as necessary, to require the use of explosive detection equipment that meets minimum performance standards requiring application of technology equivalent to or better than thermal neutron analysis technology at such airports (whether located within or outside the United States) as the Administrator determines that the installation and use of such equipment is necessary to ensure the safety of air commerce. The Administrator shall complete these actions within sixty days of enactment of this Act”.
+Pub. L. 101–45, title I, June 30, 1989, 103 Stat. 110, provided in part that: “Not later than thirty days after the date of the enactment of this Act \[June 30, 1989\], the Federal Aviation Administrator shall initiate action, including such rulemaking or other actions as necessary, to require the use of explosive detection equipment that meets minimum performance standards requiring application of technology equivalent to or better than thermal neutron analysis technology at such airports (whether located within or outside the United States) as the Administrator determines that the installation and use of such equipment is necessary to ensure the safety of air commerce. The Administrator shall complete these actions within sixty days of enactment of this Act”.
 
 #### Research and Development of Improved Airport Security Systems
 

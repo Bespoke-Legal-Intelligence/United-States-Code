@@ -24,7 +24,7 @@ Section was not enacted as part of the Federal Cave Resources Protection Act of 
 
 #### National Cave and Karst Research Institute
 
-Pub. L. 105–325, Oct. 30, 1998, 112 Stat. 3038, provided that:
+Pub. L. 105–325, Oct. 30, 1998, 112 Stat. 3038, as amended by Pub. L. 111–11, title VII, §7305, Mar. 30, 2009, 123 Stat. 1219, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -94,15 +94,9 @@ Acceptance of Grants and Transfers.—To carry out this Act, the Secretary may a
 
 &emsp;“(2) a transfer of funds from another Federal agency.
 
-#### “SEC. 5. FUNDING.
+#### “SEC. 5. AUTHORIZATION OF APPROPRIATIONS.
 
-“(a)
-
-Matching Funds.—The Secretary may spend only such amount of Federal funds to carry out this Act as is matched by an equal amount of funds from non-Federal sources.
-
-“(b)
-
-Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this Act.”
+“There are authorized to be appropriated such sums as are necessary to carry out this Act.”
 
 #### Congressional Findings
 

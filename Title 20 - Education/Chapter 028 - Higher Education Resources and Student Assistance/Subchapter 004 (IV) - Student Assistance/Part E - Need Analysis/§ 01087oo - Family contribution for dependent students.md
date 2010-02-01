@@ -327,9 +327,11 @@ For periods of enrollment other than 9 months, the parents’ contribution from 
 
 For periods of enrollment of less than 9 months, the student's contribution from adjusted available income (as determined under subsection (g) of this section) is determined, for purposes other than subpart 2 of part A of this subchapter, by dividing the amount determined under such subsection by 9, and multiplying the result by the number of months in the period of enrollment.
 
-(Pub. L. 89–329, title IV, §475, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1456; amended Pub. L. 100–50, §14(1)–(12), June 3, 1987, 101 Stat. 349, 350; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 587; Pub. L. 103–208, §2(g)(2)–(5), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(g), Nov. 13, 1997, 111 Stat. 1523; Pub. L. 105–244, title IV, §473, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 109–171, title VIII, §8017(a)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(a), Sept. 27, 2007, 121 Stat. 801.)
+(Pub. L. 89–329, title IV, §475, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1456; amended Pub. L. 100–50, §14(1)–(12), June 3, 1987, 101 Stat. 349, 350; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 587; Pub. L. 103–208, §2(g)(2)–(5), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(g), Nov. 13, 1997, 111 Stat. 1523; Pub. L. 105–244, title IV, §473, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 109–171, title VIII, §8017(a)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(a), Sept. 27, 2007, 121 Stat. 801; Pub. L. 111–39, title IV, §406(a)(2), July 1, 2009, 123 Stat. 1948.)
 
 #### Amendments
+
+2009—Subsec. (c)(5)(B). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to section 2 of title 26.
 
 2007—Subsec. (g)(2)(D). Pub. L. 110–84 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “an income protection allowance of $3,000 (or a successor amount prescribed by the Secretary under section 1087rr of this title);”.
 
@@ -400,6 +402,10 @@ Subsec. (h). Pub. L. 100–50, §14(11), added subsec. (h) and struck out former
 &emsp;“(2) the net value of investments and real estate, including the net value in the principal place of residence except in the case of a dislocated worker (certified in accordance with title III of the Job Training Partnership Act) or a dislocated homemaker (as defined in section 1087vv(e) of this title).”
 
 Subsec. (i). Pub. L. 100–50, §14(12), added subsec. (i).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2007 Amendment
 

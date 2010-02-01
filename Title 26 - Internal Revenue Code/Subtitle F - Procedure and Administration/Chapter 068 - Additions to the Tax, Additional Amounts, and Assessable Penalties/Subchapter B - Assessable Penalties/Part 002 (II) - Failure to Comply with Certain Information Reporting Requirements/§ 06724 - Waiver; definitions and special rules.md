@@ -412,7 +412,7 @@ Pub. L. 104–188, §1704(j)(3), substituted “section 6109(h)” for “sectio
 
 Subsec. (d)(2)(K). Pub. L. 103–322, §20415(b)(2), amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: “section 6050I(e) (relating to returns relating to cash received in trade or business),”.
 
-1993—Subsec. (d)(1)(B)(viii) to (xiv). Pub. L. 103–66, §13252(b)(1), which directed amendment of subsec. (d)(1)(B) by adding a new cl. (viii) after cl. (vii) and redesignating the following cls. accordingly, was executed by adding cl. (viii) and redesignating former cls.\(viii), (ix), (x), (xi), (xii) (relating to section 4101(d)), and (xii) (relating to subpar. (C) of section 338(h)(10)) as (ix), (x), (xi), (xii), (xiii), and (xiv), respectively, to reflect the probable intent of Congress.
+1993—Subsec. (d)(1)(B)(viii) to (xiv). Pub. L. 103–66, §13252(b)(1), which directed amendment of subsec. (d)(1)(B) by adding a new cl. (viii) after cl. (vii) and redesignating the following cls. accordingly, was executed by adding cl. (viii) and redesignating former cls. (viii), (ix), (x), (xi), (xii) (relating to section 4101(d)), and (xii) (relating to subpar. (C) of section 338(h)(10)) as (ix), (x), (xi), (xii), (xiii), and (xiv), respectively, to reflect the probable intent of Congress.
 
 Subsec. (d)(2)(P) to (T). Pub. L. 103–66, §13252(b)(2), added subpar. (P) and redesignated former subpars. (P) through (S) as (Q) through (T), respectively.
 

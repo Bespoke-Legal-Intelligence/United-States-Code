@@ -47,7 +47,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the number of families receiving such assistance during the month that include an adult or a minor child head of household receiving such assistance; exceeds
 
-&emsp;&emsp;&emsp;&emsp;(II) the number of families receiving such assistance that are subject in such month to a penalty described in subsection (e)(1) of this section but have notbeen subject to such penalty for more than 3 months within the preceding 12-month period (whether or not consecutive).
+&emsp;&emsp;&emsp;&emsp;(II) the number of families receiving such assistance that are subject in such month to a penalty described in subsection (e)(1) of this section but have not been subject to such penalty for more than 3 months within the preceding 12-month period (whether or not consecutive).
 
 #### (2) 2-parent families
 
@@ -69,7 +69,7 @@
 
 &emsp;&emsp;The Secretary shall prescribe regulations for reducing the minimum participation rate otherwise required by this section for a fiscal year by the number of percentage points equal to the number of percentage points (if any) by which—
 
-&emsp;&emsp;&emsp;(i) the average monthly number of families receiving assistance during the immediately preceding fiscal year under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) is less than
+&emsp;&emsp;&emsp;(i) the average monthly number of families receiving assistance during the immediately preceding fiscal year (or if the immediately preceding fiscal year is fiscalyear 2008, 2009, or 2010, then, at State option, during the emergency fund base year of the State with respect to the average monthly assistance caseload of the State (within the meaning of section 603(c)(9) of this title), except that, if a State elects such option for fiscal year 2008, the emergency fund base year of the State with respect to such caseload shall be fiscal year 2007)) <sup>1</sup> under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) is less than
 
 &emsp;&emsp;&emsp;(ii) the average monthly number of families that received assistance under any State program referred to in clause (i) during fiscal year 2005.
 
@@ -271,13 +271,19 @@ It is the sense of the Congress that the States should require noncustodial, non
 
 &emsp;Not later than September 30, 2006, a State to which a grant is made under section 603 of this title shall establish procedures for determining, with respect to recipients of assistance under the State program funded under this part or under any State programs funded with qualified State expenditures (as so defined), whether activities may be counted as work activities, how to count and verify reported hours of work, and who is a work-eligible individual, in accordance with the regulations promulgated pursuant to paragraph (1)(A)(i) and shall establish internal controls to ensure compliance with the procedures.
 
-(Aug. 14, 1935, ch. 531, title IV, §407, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2129; amended Pub. L. 105–33, title V, §§5003(a), 5504, 5514(c), Aug. 5, 1997, 111 Stat. 594, 609, 620; Pub. L. 109–171, title VII, §7102(a), (b)(1), (c)(1), Feb. 8, 2006, 120 Stat. 136.)
+(Aug. 14, 1935, ch. 531, title IV, §407, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2129; amended Pub. L. 105–33, title V, §§5003(a), 5504, 5514(c), Aug. 5, 1997, 111 Stat. 594, 609, 620; Pub. L. 109–171, title VII, §7102(a), (b)(1), (c)(1), Feb. 8, 2006, 120 Stat. 136; Pub. L. 111–5, div. B, title II, §2101(b), (d)(2), Feb. 17, 2009, 123 Stat. 448, 449.)
+
+#### Amendment of Subsection (b)(3)(A)(i)
+
+<i>Pub. L. 111–5, div. B, title II, §2101(d)(2), Feb. 17, 2009, 123 Stat. 449, provided that, effective Oct. 1, 2011, subsection (b)(3)(A)(i) of this section is amended by striking “(or if the immediately preceding fiscal year is fiscal year 2008, 2009, or 2010, then, at State option, during the emergency fund base year of the State with respect to the average monthly assistance caseload of the State (within the meaning of section 603(c)(9) of this title), except that, if a State elects such option for fiscal year 2008, the emergency fund base year of the State with respect to such caseload shall be fiscal year 2007))”.</i>
 
 #### Prior Provisions
 
-A prior section 607, act Aug. 14, 1935, ch. 531, title IV, §407, as added May 8, 1961, Pub. L. 87–31, §1, 75 Stat. 75; amended July 25, 1962, Pub. L. 87–543, title I, §§104(a)(3)(E), 131(a), 134, 76 Stat. 185, 193, 196; Oct. 13, 1964, Pub. L. 88–641, §2(b), 78 Stat. 1042; June 29, 1967, Pub. L. 90–36, §2, 81 Stat. 94; Jan. 2, 1968, Pub. L. 90–248, title II, §203(a), 81 Stat. 882; June 28, 1968, Pub. L. 90–364, title III, §302, 82 Stat. 273; Dec. 28, 1971, Pub. L. 92–223, §3(a)(10), (11), 85 Stat. 805; Oct. 20, 1976, Pub. L. 94–566, title V, §507(a), (b), (d), 90 Stat. 2688; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §§2313(a), (c)(2), 2353(q), 95 Stat. 853, 854, 874; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(4), (j)(3)(B)(ii), 98 Stat. 1166, 1171; Oct. 13, 1988, Pub. L. 100–485, title II, §202(b)(7)–(11), title IV, §401(a)(2)(B), (C), (b)(1), (3), (c), (h), 102 Stat. 2377, 2378, 2394–2396; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8105(1)–(3), (5), 102 Stat. 3797; Dec. 19, 1989, Pub. L. 101–239, title X, §10403(a)(1)(A)(i), (2), 103 Stat. 2487, 2488; Nov. 5, 1990, Pub. L. 101–508, title V, §§5061(a), 5062(a), 104 Stat. 1388–231, 1388–232, related to dependent children of unemployed parents, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
+A prior section 607, act Aug. 14, 1935, ch. 531, title IV, §407, as added May 8, 1961, Pub. L. 87–31, §1, 75 Stat. 75; amended July 25, 1962, Pub. L. 87–543, title I, §§104(a)(3)(E), 131(a), 134, 76 Stat. 185, 193, 196; Oct. 13, 1964, Pub. L. 88–641, §2(b), 78 Stat. 1042; June 29, 1967, Pub. L. 90–36, §2, 81 Stat. 94; Jan. 2, 1968, Pub. L. 90–248, title II, §203(a), 81 Stat. 882; June 28, 1968, Pub. L. 90–364, title III, §302, 82 Stat. 273; Dec. 28, 1971, Pub. L. 92–223, §3(a)(10), (11), 85 Stat. 805; Oct. 20, 1976, Pub. L.94–566, title V, §507(a), (b), (d), 90 Stat. 2688; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §§2313(a), (c)(2), 2353(q), 95 Stat. 853, 854, 874; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(4), (j)(3)(B)(ii), 98 Stat. 1166, 1171; Oct. 13, 1988, Pub. L. 100–485, title II, §202(b)(7)–(11), title IV, §401(a)(2)(B), (C), (b)(1), (3), (c), (h), 102 Stat. 2377, 2378, 2394–2396; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8105(1)–(3), (5), 102 Stat. 3797; Dec. 19, 1989, Pub. L. 101–239, title X, §10403(a)(1)(A)(i), (2), 103 Stat. 2487, 2488; Nov. 5, 1990, Pub. L. 101–508, title V, §§5061(a), 5062(a), 104 Stat. 1388–231, 1388–232, related to dependent children of unemployed parents, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
+
+2009—Subsec. (b)(3)(A)(i). Pub. L. 111–5, §2101(b), inserted “(or if the immediately preceding fiscal year is fiscal year 2008, 2009, or 2010, then, at State option, during the emergency fund base year of the State with respect to the average monthly assistance caseload of the State (within the meaning of section 603(c)(9) of this title), except that, if a State elects such option for fiscal year 2008, the emergency fund base year of the State with respect to such caseload shall be fiscal year 2007))” before “under the State”.
 
 2006—Subsecs. (a)(1), (2), (b)(1)(B)(i). Pub. L. 109–171, §7102(b)(1), inserted “or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)” after “this part”.
 
@@ -317,6 +323,10 @@ Subsec. (c)(2)(D). Pub. L. 105–33, §5003(a), amended heading and text of subp
 
 Subsec. (e)(2). Pub. L. 105–33, §5504(j), substituted “engage in work required in accordance with this section” for “work” in introductory provisions.
 
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–5, div. B, title II, §2101(d)(2), Feb. 17, 2009, 123 Stat. 449, provided that the amendment by section 2101(d)(2) of Pub. L. 111–5 is effective Oct. 1, 2011.
+
 #### Effective Date of 2006 Amendment
 
 Amendment by section 7102(c)(1) of Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section 7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
@@ -329,9 +339,11 @@ Section 5003(b) of Pub. L. 105–33 provided that: “The amendment made by subs
 
 Amendment by section 5504 of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
 
-Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the provision of Pub. L. 104–193amended at the time the provision became law, see section 5518(d) of Pub. L. 105–33, set out as a note under section 862a of Title 21, Food and Drugs.
+Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the provision of Pub. L. 104–193 amended at the time the provision became law, see section 5518(d) of Pub. L. 105–33, set out as a note under section 862a of Title 21, Food and Drugs.
 
 #### Effective Date
 
 Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+
+<i><sup>1</sup></i><i> So in original. The second parenthesis probably should not appear.</i>
 

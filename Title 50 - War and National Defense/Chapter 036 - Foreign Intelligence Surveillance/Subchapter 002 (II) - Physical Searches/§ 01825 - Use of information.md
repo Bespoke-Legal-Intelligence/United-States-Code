@@ -18,7 +18,7 @@ Whenever the United States intends to enter into evidence or otherwise use or di
 
 #### (e) Notification by States or political subdivisions
 
-Whenever any State or political subdivision thereof intends to enter into evidence or otherwise use or disclose in any trial, hearing, or other proceeding in or before any court, department, officer, agency, regulatory body, or other authority of a State or a political subdivision thereof against an aggrieved person any information obtained or derived from a physical search pursuant to the authority of this subchapter, the State or political subdivision thereof shall notify the aggrieved person, the court or other authority in which the information is to be disclosed or used, and the Attorney General that the State or political subdivision thereof intends to so disclose or so use such information.
+Whenever any State or political subdivision thereof intends to enter into evidence or otherwise use or disclose in any trial, hearing, or other proceeding in or before any court, department, officer, agency, regulatory body, or other authority of a State or a political subdivision thereof against an aggrieved person any information obtained or derived from a physical search pursuant to the authority of this subchapter, the State or political subdivision thereof shall notify the aggrieved person, the court orother authority in which the information is to be disclosed or used, and the Attorney General that the State or political subdivision thereof intends to so disclose or so use such information.
 
 #### (f) Motion to suppress
 
@@ -28,7 +28,7 @@ Whenever any State or political subdivision thereof intends to enter into eviden
 
 &emsp;(B) the physical search was not made in conformity with an order of authorization or approval.
 
-(2) Such a motion shall be made before the trial, hearing, or other proceeding unless there was no opportunity to make such a motion orthe person was not aware of the grounds of the motion.
+(2) Such a motion shall be made before the trial, hearing, or other proceeding unless there was no opportunity to make such a motion or the person was not aware of the grounds of the motion.
 
 #### (g) In camera and ex parte review by district court
 
@@ -72,17 +72,17 @@ Orders granting motions or requests under subsection (h) of this section, decisi
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-Section 1824(d) of this title, referred to in subsec. (j)(1), was redesignated section 1824(e) of this title byPub. L. 106–567, title VI, §603(b)(1), Dec. 27, 2000, 114 Stat. 2853.
+Section 1824(d) of this title, referred to in subsec. (j)(1), was redesignated section 1824(e) of this title by Pub. L. 106–567, title VI, §603(b)(1), Dec. 27, 2000, 114 Stat. 2853.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (k)(1)(B). Pub. L. 110–261, §110(b)(2), substituted “sabotage, international terrorism, or the international proliferation of weapons of mass destruction” for “sabotage or international terrorism”.
+2008—Subsec. (k)(1)(B). Pub. L. 110–261, §110(b)(2), substituted “sabotage, international terrorism, or the international proliferation of weapons of mass destruction” for “sabotage or international terrorism”.
 
 Subsec. (k)(2). Pub. L. 110–261, §107(c)(2), substituted “1823(a)(6)” for “1823(a)(7)”.
 
-<b>2002</b>—Subsec. (k)(1). Pub. L. 107–296, in introductory provision, inserted “or law enforcement personnel of a State or political subdivision of a State (including the chief executive officer of that State or political subdivision who has the authority to appoint or direct the chief law enforcement officer of that State or political subdivision)” after “law enforcement officers”.
+2002—Subsec. (k)(1). Pub. L. 107–296, in introductory provision, inserted “or law enforcement personnel of a State or political subdivision of a State (including the chief executive officer of that State or political subdivision who has the authority to appoint or direct the chief law enforcement officer of that State or political subdivision)” after “law enforcement officers”.
 
-<b>2001</b>—Subsec. (k). Pub. L. 107–56 added subsec. (k).
+2001—Subsec. (k). Pub. L. 107–56 added subsec. (k).
 
 #### Effective Date of 2008 Amendment
 

@@ -44,13 +44,7 @@
 | [<b>1403.</b>](Part%20003%20%28III%29%20-%20Promotion%20and%20Retention%20of%20Officers%20on%20the%20Reserve%20Active-Status%20List/Chapter%201403%20-%20Selection%20Boards/README.md) | <b>Selection Boards</b> | <b>14101</b> |
 | [<b>1405.</b>](Part%20003%20%28III%29%20-%20Promotion%20and%20Retention%20of%20Officers%20on%20the%20Reserve%20Active-Status%20List/Chapter%201405%20-%20Promotions/README.md) | <b>Promotions</b> | <b>14301</b> |
 | [<b>1407.</b>](Part%20003%20%28III%29%20-%20Promotion%20and%20Retention%20of%20Officers%20on%20the%20Reserve%20Active-Status%20List/Chapter%201407%20-%20Failure%20of%20Selection%20for%20Promotion%20and%20Involuntary%20Separation/README.md) | <b>Failure of Selection for Promotion and Involuntary Separation</b> | <b>14501</b> |
-| [<b>1409.</b>](Part%20003%20%28III%29%20-%20Promotion%20and%20Retention%20of%20Officers%20on%20the%20Reserve%20Active-Status%20List/Chapter%201409%20-%20Continuation%20of%20Officers%20on%20the%20Reserve%20Active-Status%20List%20and%20Selective%20Early%20Removal/README.md) | <b>Continuation of Officers on the Reserve-Active Status List and Selective Early Removal </b><b><sup>1</sup></b> |  |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| ---: | :---: | ---: |
-|  |  | <b>14701</b> |
+| [<b>1409.</b>](Part%20003%20%28III%29%20-%20Promotion%20and%20Retention%20of%20Officers%20on%20the%20Reserve%20Active-Status%20List/Chapter%201409%20-%20Continuation%20of%20Officers%20on%20the%20Reserve%20Active-Status%20List%20and%20Selective%20Early%20Removal/README.md) | <b>Continuation of Officers on the Reserve Active-Status List and Selective Early Removal</b> | <b>14701</b> |
 | [<b>1411.</b>](Part%20003%20%28III%29%20-%20Promotion%20and%20Retention%20of%20Officers%20on%20the%20Reserve%20Active-Status%20List/Chapter%201411%20-%20Additional%20Provisions%20Relating%20to%20Involuntary%20Separation/README.md) | <b>Additional Provisions Relating to Involuntary Separation</b> | <b>14901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -79,6 +73,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. A, title X, §1073(a)(33), Oct. 28, 2009, 123 Stat. 2474, substituted “Reserve Active-Status List” for “Reserve-Active Status List” in item for chapter 1409.
 
 2004—Pub. L. 108–375, div. A, title V, §527(c), Oct. 28, 2004, 118 Stat. 1894, added item for chapter 1607.
 

@@ -4,7 +4,7 @@
 
 #### (1) Establishment of system
 
-&emsp;There is a retirement and disability system for certain employees of the Central Intelligence Agency known as the Central Intelligence Agency Retirement and Disability System (hereinafter in this chapter referred to as the “system”), originally established pursuant to title II of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees.
+&emsp;There is a retirement and disability system for certain employees of the Central Intelligence Agency known as the Central Intelligence Agency Retirement and DisabilitySystem (hereinafter in this chapter referred to as the “system”), originally established pursuant to title II of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees.
 
 #### (2) DCI regulations
 
@@ -26,15 +26,15 @@ The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, re
 
 #### Prior Provisions
 
-A prior section 201 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1043; Pub. L. 98–618, title III, §302, Nov. 8, 1984, 98 Stat. 3300; Pub. L. 99–335, title V, §501(1), June 6, 1986, 100 Stat. 622, related to rules and regulations and was set out as a note under section 403 of this titleprior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 201 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1043; Pub. L. 98–618, title III, §302, Nov. 8, 1984, 98 Stat. 3300; Pub. L. 99–335, title V, §501(1), June 6, 1986, 100 Stat. 622, related to rules and regulations and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–458 substituted “section 403–1(i) of this title that the Director of National Intelligence” for “paragraph (6) of section 403–3(c) of this title that the Director of Central Intelligence”.
+2004—Subsec. (c). Pub. L. 108–458 substituted “section 403–1(i) of this title that the Director of National Intelligence” for “paragraph (6) of section 403–3(c) of this title that the Director of Central Intelligence”.
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–272 substituted “paragraph (6) of section 403–3(c) of this title” for “section 403–3(c)(5) of this title”.
+1998—Subsec. (c). Pub. L. 105–272 substituted “paragraph (6) of section 403–3(c) of this title” for “section 403–3(c)(5) of this title”.
 
-<b>1993</b>—Subsec. (c). Pub. L. 103–178 substituted “section 403–3(c)(5) of this title” for “the proviso of section 403(d)(3) of this title”.
+1993—Subsec. (c). Pub. L. 103–178 substituted “section 403–3(c)(5) of this title” for “the proviso of section 403(d)(3) of this title”.
 
 #### Effective Date of 2004 Amendment
 

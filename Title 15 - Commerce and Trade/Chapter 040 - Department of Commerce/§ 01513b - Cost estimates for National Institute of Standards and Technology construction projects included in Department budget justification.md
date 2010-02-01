@@ -4,9 +4,17 @@ Beginning in fiscal year 2007 and for each fiscal year thereafter, the Secretary
 
 (Pub. L. 109–108, title II, Nov. 22, 2005, 119 Stat. 2311.)
 
+#### Codification
+
+Section is from the Department of Commerce and Related Agencies Appropriations Act, 2006, which is title II of the Science, State, Justice, Commerce, and Related Agencies Appropriations Act, 2006.
+
 #### Similar Provisions
 
-Similar provisions were contained in the following appropriations act:
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 111–117, div. B, title I, Dec. 16, 2009, 123 Stat. 3117.
+
+Pub. L. 111–8, div. B, title I, Mar. 11, 2009, 123 Stat. 564.
 
 Pub. L. 110–161, div. B, title I, Dec. 26, 2007, 121 Stat. 1889.
 

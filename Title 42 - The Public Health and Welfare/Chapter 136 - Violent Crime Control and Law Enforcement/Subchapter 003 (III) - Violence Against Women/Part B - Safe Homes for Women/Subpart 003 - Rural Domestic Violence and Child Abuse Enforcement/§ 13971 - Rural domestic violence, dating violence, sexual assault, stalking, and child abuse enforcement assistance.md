@@ -22,7 +22,7 @@ The purposes of this section are—
 
 &emsp;&emsp;(H) health care providers;
 
-&emsp;(2) to establish and expand nonprofit, nongovernmental, State, tribal, territorial, andlocal government victim services in rural communities to child, youth, and adult victims; and
+&emsp;(2) to establish and expand nonprofit, nongovernmental, State, tribal, territorial, and local government victim services in rural communities to child, youth, and adult victims; and
 
 &emsp;(3) to increase the safety and well-being of women and children in rural communities, by—
 
@@ -50,7 +50,7 @@ Funds appropriated pursuant to this section shall be used only for specific prog
 
 #### (A) In general
 
-&emsp;&emsp;Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized by section 3796gg–10 of this title.
+&emsp;&emsp;Not less than 10 percent of the total amount available under this section for eachfiscal year shall be available for grants under the program authorized by section 3796gg–10 of this title.
 
 #### (B) Applicability of part <sup>1</sup>
 

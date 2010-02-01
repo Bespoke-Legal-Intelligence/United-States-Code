@@ -24,7 +24,7 @@ Upon receipt of a complaint filed under section 107d–1 of this title, the Secr
 
 &emsp;(C) one individual, not employed by the Federal department, agency, or instrumentality controlling the Federal property over which the dispute arose, who shall serve as chairman, jointly designated by the members appointed under subparagraphs (A) and (B).
 
-> If any party fails to designate a member under subparagraph (2)(A), (B), or (C), the Secretary shall designate such member on behalf of such party. If the panel appointed pursuant to paragraph (2) finds that the acts or practices of anysuch department, agency, or instrumentality are in violation of this chapter, or any regulation issued thereunder, the head of any such department, agency, or instrumentality shall cause such acts or practices to be terminated promptly and shall take such other action as may be necessary to carry out the decision of the panel.
+> If any party fails to designate a member under subparagraph (2)(A), (B), or (C), the Secretary shall designate such member on behalf of such party. If the panel appointed pursuant to paragraph (2) finds that the acts or practices of any such department, agency, or instrumentality are in violation of this chapter, or any regulation issued thereunder, the head of any such department, agency, or instrumentality shall cause such acts or practices to be terminated promptly and shall take such other action as may be necessary to carry out the decision of the panel.
 
 #### (c) Publication of decisions in Federal Register
 
@@ -40,7 +40,7 @@ The Secretary shall pay all reasonable costs of arbitration under this section i
 
 The content of Pub. L. 93–516, including provisions of section 206 thereof which enacted this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 
-Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, §206, Nov. 21, 1974, 89 Stat. 2–11, in exactly the same manner as it was enacted by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the Presidenton Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, §206, Nov. 21, 1974, 89 Stat. 2–11, in exactly the same manner as it was enacted by Pub. L. 93–516.
 
 #### Prior Provisions
 

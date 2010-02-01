@@ -20,7 +20,7 @@ Pub. L. 105–368, title I, §103, Nov. 11, 1998, 112 Stat. 3322, provided that:
 
 Assessment.—The Secretary of Veterans Affairs shall seek to enter into an agreement with the National Academy of Sciences, or another appropriate independent organization, under which such entity shall assist in developing a plan for the establishment of a national center or national centers for the study of war-related illnesses and post-deployment health issues. The purposes of such a center may include—
 
-&emsp;“(1) carrying out and promoting research regarding the etiologies, diagnosis, treatment, and prevention of war-related illnesses and post-deployment health issues; and
+&emsp;“(1) carrying out and promoting research regarding the etiologies, diagnosis, treatment, and preventionof war-related illnesses and post-deployment health issues; and
 
 &emsp;“(2) promoting the development of appropriate health policies, including monitoring, medical recordkeeping, risk communication, and use of new technologies.
 
@@ -84,7 +84,7 @@ Report on Feasibility.—If the Secretary of Veterans Affairs or the Secretary o
 
 #### Information and Training Concerning AIDS Prevention
 
-Pub. L. 100–322, title I, §123, May 20, 1988, 102 Stat. 504, as amended by Pub. L. 102–83, §6(j)(2), Aug. 6, 1991, 105Stat. 409; Pub. L. 102–531, title III, §312(c), Oct. 27, 1992, 106 Stat. 3504, provided that:
+Pub. L. 100–322, title I, §123, May 20, 1988, 102 Stat. 504, as amended by Pub. L. 102–83, §6(j)(2), Aug. 6, 1991, 105 Stat. 409; Pub. L. 102–531, title III, §312(c), Oct. 27, 1992, 106 Stat. 3504, provided that:
 
 “(a)
 

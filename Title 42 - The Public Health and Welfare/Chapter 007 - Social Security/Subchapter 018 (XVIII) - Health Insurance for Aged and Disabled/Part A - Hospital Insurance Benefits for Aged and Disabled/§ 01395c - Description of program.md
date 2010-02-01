@@ -36,7 +36,7 @@ Amendment by Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provi
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–272 effective after Mar. 31, 1986, with no individual to be considered under disability for any period beginning before Apr. 1, 1986, for purposes of hospital insurance benefits, see section13205(d)(2) of Pub. L. 99–272, set out as a note under section 410 of this title.
+Amendment by Pub. L. 99–272 effective after Mar. 31, 1986, with no individual to be considered under disability for any period beginning before Apr. 1, 1986, for purposes of hospital insurance benefits, see section 13205(d)(2) of Pub. L. 99–272, set out as a note under section 410 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 96–265 applicable with respect to hospital insurance or s
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–292 effective with respect to services, supplies, and equipment furnished after the third calendar month beginning after June 13, 1978, except that provisions for the implementation of an incentive reimbursement system for dialysis services furnished in facilities and providers to become effective with respect to a facility's or provider's first accounting period beginning after the last day of the twelfth month following the month of June 1978, and except that provisions for reimbursement rates for home dialysis to become effective on Apr. 1, 1979, see section 6 of Pub. L. 95–292, set out as a note under section 426 of this title.
+Amendment by Pub. L. 95–292 effective with respect to services, supplies, and equipment furnished after the third calendar month beginning after June 13, 1978, except that provisions for the implementation of an incentive reimbursement system for dialysis services furnished in facilities and providers to become effective with respect to a facility's or provider's first accounting period beginning after the last day of the twelfthmonth following the month of June 1978, and except that provisions for reimbursement rates for home dialysis to become effective on Apr. 1, 1979, see section 6 of Pub. L. 95–292, set out as a note under section 426 of this title.
 
 #### Advisory Council To Study Coverage of Disabled Under This Subchapter
 

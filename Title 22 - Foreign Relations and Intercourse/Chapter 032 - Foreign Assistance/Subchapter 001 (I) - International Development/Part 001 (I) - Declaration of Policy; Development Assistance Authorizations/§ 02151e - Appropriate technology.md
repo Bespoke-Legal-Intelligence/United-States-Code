@@ -4,7 +4,7 @@
 
 (b) Funds made available to carry out this part should be used to the extent practicable for activities in the field of appropriate technology, including support of an expanded and coordinated private effort to promote the development and dissemination of appropriate technology in developing countries.
 
-(Pub. L. 87–195, pt. I, §107, as added Pub. L. 94–161, title III, §306(2), Dec. 20, 1975, 89 Stat. 859;amended Pub. L. 95–424, title I, §107, Oct. 6, 1978, 92 Stat. 947.)
+(Pub. L. 87–195, pt. I, §107, as added Pub. L. 94–161, title III, §306(2), Dec. 20, 1975, 89 Stat. 859; amended Pub. L. 95–424, title I, §107, Oct. 6, 1978, 92 Stat. 947.)
 
 #### Prior Provisions
 

@@ -18,10 +18,13 @@
 | [51314\.](%C2%A7%2051314%20-%20Limitation%20on%20charges%20and%20fees%20for%20attendance.md) | Limitation on charges and fees for attendance. |
 | [51315\.](%C2%A7%2051315%20-%20Gifts%20to%20the%20Merchant%20Marine%20Academy.md) | Gifts to the Merchant Marine Academy. |
 | [51316\.](%C2%A7%2051316%20-%20Temporary%20appointments%20to%20the%20Academy.md) | Temporary appointments to the Academy. |
+| [51317\.](%C2%A7%2051317%20-%20Adjunct%20professors.md) | Adjunct professors. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. C, title XXXV, §3503(b)(1), Oct. 28, 2009, 123 Stat. 2719, added item 51317.
 
 2008—Pub. L. 110–417, div. C, title XXXV, §3506(g)(2), (h)(2), Oct. 14, 2008, 122 Stat. 4765, added items 51315 and 51316.
 
@@ -48,3 +51,4 @@ Pub. L. 110–181, div. C, title XXXV, §3523(a)(1), Jan. 28, 2008, 122 Stat. 59
 - [&sect; 51314 - Limitation on charges and fees for attendance](%C2%A7%2051314%20-%20Limitation%20on%20charges%20and%20fees%20for%20attendance.md)
 - [&sect; 51315 - Gifts to the Merchant Marine Academy](%C2%A7%2051315%20-%20Gifts%20to%20the%20Merchant%20Marine%20Academy.md)
 - [&sect; 51316 - Temporary appointments to the Academy](%C2%A7%2051316%20-%20Temporary%20appointments%20to%20the%20Academy.md)
+- [&sect; 51317 - Adjunct professors](%C2%A7%2051317%20-%20Adjunct%20professors.md)

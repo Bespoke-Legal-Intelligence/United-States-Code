@@ -8,7 +8,7 @@ Restrictions.—
 
 In General.—Except as otherwise provided in this section, section 12119 of this title, or section 611 of the Merchant Marine Act, 1936, a person may not, without the approval of the Secretary of Transportation—
 
-&emsp;&emsp;(A) sell, lease, charter, deliver, or in any other manner transfer, or agree to sell,lease, charter, deliver, or in any other manner transfer, to a person not a citizen of the United States, an interest in or control of—
+&emsp;&emsp;(A) sell, lease, charter, deliver, or in any other manner transfer, or agree to sell, lease, charter, deliver, or in any other manner transfer, to a person not a citizen of the United States, an interest in or control of—
 
 &emsp;&emsp;&emsp;(i) a documented vessel owned by a citizen of the United States; or
 
@@ -104,7 +104,7 @@ Sept. 7, 1916, ch. 451, §9(e), as added Pub. L. 104–239, §6, Oct. 8, 1996, 1
 
 In subsection (a), the text of 46 App. U.S.C. 808a is omitted as unnecessary. In paragraph (1), the words “owned by a citizen of the United States” are omitted as unnecessary because ownership by a citizen is a requirement for documentation. See section 12103 as revised by the bill.
 
-In subsection (c), before paragraph (1), the words “Notwithstanding any other provision of this subtitle, the Merchant Marine Act, 1936, or any contract with the Secretary made under this subtitle or that Act” are substituted for “Notwithstanding subsection (c)(2) of this section, the Merchant Marine Act, 1936 \[46 App. U.S.C. 1101 et seq.\], or any contract entered into with the Secretary of Transportation under that Act” because the Merchant Marine Act, 1936, is restated principally in this subtitle, but other provisions of that Act are being neither restated nor repealed.
+In subsection (c), before paragraph (1), the words “Notwithstanding any other provision of this subtitle, the Merchant Marine Act, 1936, or any contract with the Secretary made under this subtitle or that Act” are substituted for “Notwithstanding subsection (c)(2) ofthis section, the Merchant Marine Act, 1936 \[46 App. U.S.C. 1101 et seq.\], or any contract entered into with the Secretary of Transportation under that Act” because the Merchant Marine Act, 1936, is restated principally in this subtitle, but other provisions of that Act are being neither restated nor repealed.
 
 #### References in Text
 

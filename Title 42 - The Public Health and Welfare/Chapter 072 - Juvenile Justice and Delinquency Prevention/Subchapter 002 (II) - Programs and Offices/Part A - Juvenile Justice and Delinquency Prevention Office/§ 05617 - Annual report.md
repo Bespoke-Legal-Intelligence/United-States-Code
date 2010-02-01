@@ -52,7 +52,7 @@ Section effective Oct. 1, 1988, with the report required by this section with re
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in this section relating to submittal to the Speaker of the House of Representatives and the President pro tempore of the Senate of an annual report, see section 3003 of Pub. L. 104–66, as amended, set out as a noteunder section 1113 of Title 31, Money and Finance, and item 10 on page 177 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in this section relating to submittal to the Speaker of the House of Representatives and the President pro tempore of the Senate of an annual report, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and item 10 on page 177 of House Document No. 103–7.
 
 #### Use of Court Orders To Place Juveniles in Secure Facilities, Jails and Lockups for Adults; Investigation and Report
 

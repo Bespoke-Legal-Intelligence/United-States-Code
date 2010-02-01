@@ -20,7 +20,7 @@ In this chapter:
 
 &emsp;(7) The term “Fund” means the Reserve Mobilization Income Insurance Fund established by section 12528(a) of this title.
 
-(Added Pub. L. 104–106, div. A, title V, §512(a)(1), Feb. 10, 1996, 110 Stat. 299; Pub. L. 110–181, div. A, title IX, §906(c)(4), Jan. 28, 2008, 122 Stat. 277.)
+(Added Pub. L. 104–106, div. A, title V, §512(a)(1), Feb. 10, 1996, 110 Stat. 299; amended Pub. L. 110–181, div. A, title IX, §906(c)(4), Jan. 28, 2008, 122 Stat. 277.)
 
 #### Amendments
 

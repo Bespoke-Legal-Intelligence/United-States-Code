@@ -24,7 +24,7 @@ Not later than 180 days after the date of establishment of the renewable energy 
 
 #### (e) Consultation
 
-In carrying out the duties described in subsection (b), the renewable energy committeeshall consult with the Biomass Research and Development Technical Advisory Committee established under section 8605 <sup>1</sup> of this title.
+In carrying out the duties described in subsection (b), the renewable energy committee shall consult with the Biomass Research and Development Technical Advisory Committee established under section 8605 <sup>1</sup> of this title.
 
 #### (f) Matters to be considered in budget recommendation
 

@@ -2,15 +2,15 @@
 
 For purposes of this part—
 
-&emsp;(1) The term “adversely affected employment” means employment in a firm or appropriate subdivision of a firm, if workers of such firm or subdivision are eligible to apply for adjustment assistance under this part.
+&emsp;(1) The term “adversely affected employment” means employment in a firm, if workers of such firm are eligible to apply for adjustment assistance under this part.
 
-&emsp;(2) The term “adversely affected worker” means an individual who, because of lack of work in adversely affected employment—
+&emsp;(2) The term “adversely affected worker” means an individual who, because of lack of work in adversely affected employment, has been totally or partially separated from such employment.
 
-&emsp;&emsp;(A) has been totally or partially separated from such employment, or
+&emsp;(3) Subject to section 2272(d)(5) of this title, the term “firm” means—
 
-&emsp;&emsp;(B) has been totally separated from employment with the firm in a subdivision of which such adversely affected employment exists.
+&emsp;&emsp;(A) a firm, including an agricultural firm, service sector firm, or public agency; or
 
-&emsp;(3) Repealed. Pub. L. 97–35, title XXV, §2511(1), Aug. 13, 1981, 95 Stat. 888.
+&emsp;&emsp;(B) an appropriate subdivision thereof.
 
 &emsp;(4) The term “average weekly wage” means one-thirteenth of the total wages paid to an individual in the high quarter. For purposes of this computation, the high quarter shall be that quarter in which the individual's total wages were highest among the first 4 of the last 5 completed calendar quarters immediately before the quarter in which occurs the week with respect to which the computation is made. Such week shall be the week in which total separation occurred, or, in cases where partial separation is claimed, an appropriate week, as defined in regulations prescribed by the Secretary.
 
@@ -22,7 +22,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B) his wages reduced to 80 percent or less of his average weekly wage in such adversely affected employment.
 
-&emsp;(7) Repealed. Pub. L. 97–35, title XXV, §2511(1), Aug. 13, 1981, 95 Stat. 888.
+&emsp;(7) The term “public agency” means a department or agency of a State or local government or of the Federal Government, or a subdivision thereof.
 
 &emsp;(8) The term “State” includes the District of Columbia and the Commonwealth of Puerto Rico; and the term “United States” when used in the geographical sense includes such Commonwealth.
 
@@ -30,7 +30,7 @@ For purposes of this part—
 
 &emsp;(10) The term “State law” means the unemployment insurance law of the State approved by the Secretary of Labor under section 3304 of title 26.
 
-&emsp;(11) The term “total separation” means the layoff or severance of an individual from employment with a firm in which, or in a subdivision of which, adversely affected employment exists.
+&emsp;(11) The term “total separation” means the layoff or severance of an individual from employment with a firm in which adversely affected employment exists.
 
 &emsp;(12) The term “unemployment insurance” means the unemployment compensation payable to an individual under any State law or Federal unemployment compensation law, including chapter 85 of title 5 and the Railroad Unemployment Insurance Act \[45 U.S.C. 351 et seq.\]. The terms “regular compensation”, “additional compensation”, and “extended compensation” have the same respective meanings that are given them in section 205(2), (3), and (4) of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note).
 
@@ -52,13 +52,43 @@ For purposes of this part—
 
 &emsp;(C) The term “job finding club” means a job search workshop which includes a period (1 to 2 weeks) of structured, supervised activity in which participants attempt to obtain jobs.
 
-(Pub. L. 93–618, title II, §247, Jan. 3, 1975, 88 Stat. 2028; Pub. L. 97–35, title XXV, §2511, Aug. 13, 1981, 95 Stat. 888; Pub. L. 99–272, title XIII, §§13004(b), 13005(b), Apr. 7, 1986, 100 Stat. 303.)
+&emsp;(18) The term “service sector firm” means a firm engaged in the business of supplying services.
+
+&emsp;(19) The term “adversely affected incumbent worker” means a worker who—
+
+&emsp;&emsp;(A) is a member of a group of workers who have been certified as eligible to apply for adjustment assistance under subpart A;
+
+&emsp;&emsp;(B) has not been totally or partially separated from adversely affected employment; and
+
+&emsp;&emsp;(C) the Secretary determines, on an individual basis, is threatened with total or partial separation.
+
+(Pub. L. 93–618, title II, §247, Jan. 3, 1975, 88 Stat. 2028; Pub. L. 97–35, title XXV, §2511, Aug. 13, 1981, 95 Stat. 888; Pub. L. 99–272, title XIII, §§13004(b), 13005(b), Apr. 7, 1986, 100 Stat. 303; Pub. L. 111–5, div. B, title I, §§1801(a), 1830(a)(2), Feb. 17, 2009, 123 Stat. 367, 384.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
 
 #### References in Text
 
-The Railroad Unemployment Insurance Act, referred to in par. (12), is act June 25, 1938, ch. 680, 52 Stat. 1094,as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
+The Railroad Unemployment Insurance Act, referred to in par. (12), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2009—Par. (1). Pub. L. 111–5, §§1801(a)(1), 1893, temporarily struck out “or appropriate subdivision of a firm” after “employment in a firm” and “or subdivision” after “workers of such firm”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Par. (2). Pub. L. 111–5, §§1801(a)(2), 1893, temporarily substituted “employment, has been totally or partially separated from such employment.” for “employment—
+
+&emsp;“(A) has been totally or partially separated from such employment, or
+
+&emsp;“(B) has been totally separated from employment with the firm in a subdivision of which such adversely affected employment exists.”
+
+> See Effective and Termination Dates of 2009 Amendment note below.
+
+Pars. (3), (7). Pub. L. 111–5, §§1801(a)(3), (4), 1893, temporarily added pars. (3) and (7). See Effective and Termination Dates of 2009 Amendment note below.
+
+Par. (11). Pub. L. 111–5, §§1801(a)(5), 1893, temporarily struck out “, or in a subdivision of which,” after “firm in which”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Pars. (18), (19). Pub. L. 111–5, §§1801(a)(6), 1830(a)(2), 1893, temporarily added pars. (18) and (19). See Effective and Termination Dates of 2009 Amendment note below.
 
 1986—Pars. (16), (17). Pub. L. 99–272 added pars. (16) and (17).
 
@@ -72,11 +102,17 @@ Par. (14). Pub. L. 97–35, §2511(3), substituted provisions requiring determin
 
 Par. (15). Pub. L. 97–35, §2511(4), added par. (15).
 
+#### Effective and Termination Dates of 2009 Amendment
+
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
+
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never beenenacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+
 #### Effective Date of 1981 Amendment and Transition Provisions
 
 Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemployment which begin after Sept. 30, 1981, with transition provisions applicable, see section 2514 of Pub. L. 97–35, set out as a note under section 2291 of this title.
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

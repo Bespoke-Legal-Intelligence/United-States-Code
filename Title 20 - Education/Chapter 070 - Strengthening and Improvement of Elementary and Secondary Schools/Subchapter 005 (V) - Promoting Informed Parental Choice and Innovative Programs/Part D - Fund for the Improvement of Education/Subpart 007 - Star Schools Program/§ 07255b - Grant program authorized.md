@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Secretary, in conjunction with the Office of Educational Technology, is authorized to make grants, in accordance with the provisionsof this subpart, to eligible entities to pay the Federal share of the cost of the following:
+The Secretary, in conjunction with the Office of Educational Technology, is authorized to make grants, in accordance with the provisions of this subpart, to eligible entities to pay the Federal share of the cost of the following:
 
 &emsp;(1) Development, construction, acquisition, maintenance, and operation of telecommunications facilities and equipment.
 

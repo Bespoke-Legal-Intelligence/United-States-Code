@@ -30,7 +30,7 @@ It shall be unlawful for an employer to discriminate against any of his employee
 
 #### (e) Printing or publication of notice or advertisement indicating preference, limitation, etc.
 
-It shall be unlawful for an employer, labor organization, or employment agency to print or publish, or cause to be printed or published, any notice or advertisement relating to employment by such an employer or membership in or any classification or referral for employment by such a labor organization, or relating to any classification or referral for employment by such an employment agency, indicating any preference, limitation, specification, or discrimination, based on age.
+It shall be unlawful for an employer, labor organization, or employment agency to print or publish, or cause to be printed or published, any notice or advertisement relating to employment by such an employer or membership in or any classification or referral for employment by such a labor organization, or relating to any classification or referral for employment bysuch an employment agency, indicating any preference, limitation, specification, or discrimination, based on age.
 
 #### (f) Lawful practices; age an occupational qualification; other reasonable factors; laws of foreign workplace; seniority system; employee benefit plans; discharge or discipline for good cause
 
@@ -56,7 +56,7 @@ It shall not be unlawful for an employer, employment agency, or labor organizati
 
 #### (h) Practices of foreign corporations controlled by American employers; foreign employers not controlled by American employers; factors determining control
 
-(1) If an employer controls a corporation whose place of incorporation is in a foreigncountry, any practice by such corporation prohibited under this section shall be presumed to be such practice by such employer.
+(1) If an employer controls a corporation whose place of incorporation is in a foreign country, any practice by such corporation prohibited under this section shall be presumed to be such practice by such employer.
 
 (2) The prohibitions of this section shall not apply where the employer is a foreign person not controlled by an American employer.
 
@@ -86,7 +86,7 @@ It shall not be unlawful for an employer, employment agency, or labor organizati
 
 &emsp;(A) if distribution of benefits under such plan with respect to such employee has commenced as of the end of such plan year, then any requirement of this subsection for continued accrual of benefits under such plan with respect to such employee during such plan year shall be treated as satisfied to the extent of the actuarial equivalent of in-service distribution of benefits, and
 
-&emsp;(B) if distribution of benefits under such plan with respect to such employee has not commenced as of the end of such year in accordance with section 1056(a)(3) of this title and section 401(a)(14)(C) of title 26, and the payment of benefits under such plan with respect to such employee is not suspended during such plan year pursuant to section 1053(a)(3)(B) of this title or section 411(a)(3)(B) of title 26, then any requirement of this subsection for continued accrual of benefits under such plan with respect to such employee during such plan year shall be treated as satisfied to the extent of any adjustment in the benefit payable under the plan during such plan year attributable to the delay in the distribution of benefits after the attainment of normal retirement age.
+&emsp;(B) if distribution of benefits under such plan with respect to such employee has not commenced as of the end of such year in accordance with section 1056(a)(3) of this title and section 401(a)(14)(C) of title 26, and the payment of benefits under such plan with respect to such employee is not suspended during such plan year pursuant to section 1053(a)(3)(B) of this title or section 411(a)(3)(B) of title 26, then any requirement of this subsection for continued accrual of benefits undersuch plan with respect to such employee during such plan year shall be treated as satisfied to the extent of any adjustment in the benefit payable under the plan during such plan year attributable to the delay in the distribution of benefits after the attainment of normal retirement age.
 
 > The provisions of this paragraph shall apply in accordance with regulations of the Secretary of the Treasury. Such regulations shall provide for the application of the preceding provisions of this paragraph to all employee pension benefit plans subject to this subsection and may provide for the application of such provisions, in the case of any such employee, with respect to any period of time within a plan year.
 
@@ -152,7 +152,7 @@ Market rate of return.—The Secretary of the Treasury may provide by regulation
 
 &emsp;&emsp;(ii)
 
-Special rule for plan conversions.—If, after June 29, 2005, an applicable plan amendment is adopted, the plan shall be treated as failing to meet the requirements of paragraph (1)(H) unless the requirements of clause (iii) are met with respect to each individual who was a participant in the plan immediately before the adoption of the amendment.
+Special rule for plan conversions.—If, after June 29, 2005, an applicable planamendment is adopted, the plan shall be treated as failing to meet the requirements of paragraph (1)(H) unless the requirements of clause (iii) are met with respect to each individual who was a participant in the plan immediately before the adoption of the amendment.
 
 &emsp;&emsp;(iii)
 
@@ -268,7 +268,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
 
 &emsp;&emsp;&emsp;(I) a local educational agency (as defined in section 7801 of title 20,<sup>4</sup> or
 
-&emsp;&emsp;&emsp;(II) an education association which principally represents employees of 1 or more agencies described in subclause (I) andwhich is described in section 501(c)(5) or (6) of title 26 and exempt from taxation under section 501(a) of title 26, and
+&emsp;&emsp;&emsp;(II) an education association which principally represents employees of 1 or more agencies described in subclause (I) and which is described in section 501(c)(5) or (6) of title 26 and exempt from taxation under section 501(a) of title 26, and
 
 &emsp;&emsp;(ii) makes payments or supplements described in subclauses (I) and (II) of subparagraph (A)(ii) in coordination with a defined benefit plan (as so defined) maintained by an eligible employer described in section 457(e)(1)(A) of title 26 or by an education association described in clause (i)(II),
 
@@ -298,7 +298,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
 
 &emsp;&emsp;(i) the package of benefits provided by the employer for the retirees who are below age 65 is at least comparable to benefits provided under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.);
 
-&emsp;&emsp;(ii) the package of benefits provided by the employer for the retirees who are age 65 and above is at least comparable to that offered under a plan that provides a benefit package with one-fourth the value of benefits provided under title XVIII of such Act; or
+&emsp;&emsp;(ii) the package of benefits provided by the employer for the retirees who are age 65 andabove is at least comparable to that offered under a plan that provides a benefit package with one-fourth the value of benefits provided under title XVIII of such Act; or
 
 &emsp;&emsp;(iii) the package of benefits provided by the employer is as described in clauses (i) and (ii).
 
@@ -342,7 +342,7 @@ The Social Security Act, referred to in subsec. (<i>l</i>)(1)(A)(ii)(II), (2)(D)
 
 #### Amendments
 
-2008—Subsec. (i)(10)(B)(i)(III). Pub. L. 110–458 inserted at end “In the case of a governmental plan (as defined in the first sentence of section 414(d) of title 26), a rate of return or a method of crediting interest established pursuant to any provision of Federal, State, or local law (including any administrative rule or policy adopted in accordance with any such law) shall be treated as a market rate of return for purposes of subclause (I) and a permissible method of crediting interest for purposes of meeting the requirements of subclause (I), except that this sentence shall only apply to a rate of return or method of crediting interest if such rate or method does not violate any other requirement of this chapter.”
+2008—Subsec. (i)(10)(B)(i)(III). Pub. L. 110–458 inserted at end “In the case of a governmental plan (as defined in the first sentence of section 414(d) of title 26), a rate of return or a method of crediting interest establishedpursuant to any provision of Federal, State, or local law (including any administrative rule or policy adopted in accordance with any such law) shall be treated as a market rate of return for purposes of subclause (I) and a permissible method of crediting interest for purposes of meeting the requirements of subclause (I), except that this sentence shall only apply to a rate of return or method of crediting interest if such rate or method does not violate any other requirement of this chapter.”
 
 2006—Subsec. (i)(10). Pub. L. 109–280, §701(c), added par. (10).
 
@@ -422,7 +422,7 @@ Pub. L. 105–244, title IX, §941(d), Oct. 7, 1998, 112 Stat. 1835, provided th
 
 “(1)
 
-In general.—This section \[amending this section and enacting provisions set out as a note below\] shall take effect on the date of enactment of this Act \[Oct. 7, 1998\].
+In general.—This section \[amending this section and enacting provisions set out as a note below\] shalltake effect on the date of enactment of this Act \[Oct. 7, 1998\].
 
 “(2)
 
@@ -476,7 +476,7 @@ In general.—With respect to any employee benefits provided by an employer—
 
 &emsp;&emsp;“(A) that is a State or political subdivision of a State or any agency or instrumentality of a State or political subdivision of a State; and
 
-&emsp;&emsp;“(B) that maintained an employee benefit plan at any time between June 23, 1989, and the date of enactment of this Act \[Oct. 16, 1990\] that would be superseded (in whole or part) by this title \[amending this section and section 630 of this title and enacting provisions set out as notes under this sectionand section 621 of this title\] and the amendments made by this title but for the operation of this subsection, and which plan may be modified only through a change in applicable State or local law,
+&emsp;&emsp;“(B) that maintained an employee benefit plan at any time between June 23, 1989, and the date of enactment of this Act \[Oct. 16, 1990\] that would be superseded (in whole or part) by this title \[amending this section and section 630 of this title and enacting provisions set out as notes under this section and section 621 of this title\] and the amendments made by this title but for the operation of this subsection, and which plan may be modified only through a change in applicable State or local law,
 
 > &emsp;this title and the amendments made by this title shall not apply until the date that is 2 years after the date of enactment of this Act.
 
@@ -622,7 +622,7 @@ Section 116(c) of Pub. L. 97–248 provided that: “The amendment made by subse
 
 #### Effective Date of 1978 Amendment
 
-Section 2(b) of Pub. L. 95–256 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect on the date of enactment of this Act \[Apr. 6, 1978\], except that, in the case of employees covered by a collective bargaining agreement which is in effect on September 1, 1977, which was entered into by a labor organization (as defined by section 6(d)(4) of the Fair Labor Standards Act of 1938 \[section 206(d)(4) of this title\]), and which would otherwise be prohibited by the amendment made by section 3(a) of this Act \[amending section 631 of this title\], the amendment made by subsection (a) of this section \[amending this section\] shall take effect upon the termination of such agreement or on January 1, 1980, whichever occurs first.”
+Section 2(b) of Pub. L. 95–256 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect on the date of enactment of this Act \[Apr. 6, 1978\], except that, in the case of employees covered by a collective bargainingagreement which is in effect on September 1, 1977, which was entered into by a labor organization (as defined by section 6(d)(4) of the Fair Labor Standards Act of 1938 \[section 206(d)(4) of this title\]), and which would otherwise be prohibited by the amendment made by section 3(a) of this Act \[amending section 631 of this title\], the amendment made by subsection (a) of this section \[amending this section\] shall take effect upon the termination of such agreement or on January 1, 1980, whichever occurs first.”
 
 #### Regulations
 

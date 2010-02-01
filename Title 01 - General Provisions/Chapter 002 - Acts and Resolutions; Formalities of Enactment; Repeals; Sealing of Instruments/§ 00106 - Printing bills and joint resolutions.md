@@ -36,7 +36,7 @@ Footnote corrections.—(i) With respect to the reference to which footnote 28 r
 
 Clarifications of illegible matter.—(i) Section 1842(n)(1)(A) of the Social Security Act, as added by section 4051(a) of OBRA (101 Stat. 1330–93) \[42 U.S.C. 1395m(n)(1)(A)\], is deemed to have the phrase ‘the supplier's reasonable charge to individuals enrolled under this part for the test’ immediately after ‘or, if lower, the’.
 
-&emsp;“(ii) Section 1834(a)(7)(B)(i) of the Social Security Act, as inserted by section 4062(b) of OBRA (101 Stat. 1330–103) \[42 U.S.C. 1395m(a)(7)(B)(i)\], is deemed to have a reference to ‘1987’ immediately after ‘December’.”
+&emsp;“(ii) Section 1834(a)(7)(B)(i) of the Social Security Act, as inserted by section 4062(b) of OBRA (101 Stat. 1330–103) \[42 U.S.C. 1395m(a)(7)(B)(i)\], is deemed tohave a reference to ‘1987’ immediately after ‘December’.”
 
 #### Printed Enrollments Prepared After Enactment
 
@@ -44,7 +44,7 @@ Pub. L. 106–93, Nov. 10, 1999, 113 Stat. 1310, provided: “That the provision
 
 Pub. L. 105–253, Oct. 12, 1998, 112 Stat. 1887, provided: “That the provisions of sections 106 and 107 of title 1, United States Code, are waived for the remainder of the One Hundred Fifth Congress with respect to the printing (on parchment or otherwise) of the enrollment of any bill or joint resolution making general appropriations or continuing appropriations for the fiscal year ending September 30, 1999. The enrollment of any such bill or joint resolution shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment.”
 
-Pub. L. 105–120, Nov. 26, 1997, 111 Stat. 2527, provided: “That the provisions of sections 106 and 107 of title 1,United States Code, are waived for the balance of the first session of the One Hundred Fifth Congress with respect to the printing (on parchment or otherwise) of the enrollment of any bill or joint resolution making general appropriations for the fiscal year ending on September 30, 1998, or continuing appropriations for the fiscal year ending on September 30, 1998. The enrollment of any such bill or joint resolution shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment.”
+Pub. L. 105–120, Nov. 26, 1997, 111 Stat. 2527, provided: “That the provisions of sections 106 and 107 of title 1, United States Code, are waived for the balance of the first session of the One Hundred Fifth Congress with respect to the printing (on parchment or otherwise) of the enrollment of any bill or joint resolution making general appropriations for the fiscal year ending on September 30, 1998, or continuing appropriations for the fiscal year ending on September 30, 1998. The enrollment of any such bill or joint resolution shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment.”
 
 Pub. L. 105–32, Aug. 1, 1997, 111 Stat. 250, provided: “That the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of H.R. 2014 \[Pub. L. 105–34, Aug. 5, 1997, 111 Stat. 788\] and of H.R. 2015 \[Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251\] of the One Hundred Fifth Congress. The enrollment of each of those bills shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment.”
 
@@ -120,7 +120,7 @@ Pub. L. 101–497, Oct. 31, 1990, 104 Stat. 1205, provided that:
 
 “(a)
 
-Waiver.—The provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of S. 2830 \[Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359\].
+Waiver.—The provisions of sections 106 and 107 of title 1, United States Code, are waived with respectto the printing (on parchment or otherwise) of the enrollment of S. 2830 \[Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359\].
 
 “(b)
 
@@ -238,7 +238,7 @@ Preparation.—
 
 &emsp;“(1)
 
-In general.—Upon the enactment of a bill following presentment of such bill to the President in the form of a hand enrollment pursuant to the authority of section 1 of this resolution, the Clerk of the House of Representatives shall prepare a printed enrollment of that bill as in the case of a bill to which sections 106 and 107 of title 1, United States Code, apply.
+In general.—Upon the enactment of a bill following presentment of such bill to the President in the form of a hand enrollment pursuant to the authority of section 1 of this resolution, the Clerk of the House of Representatives shall prepare a printed enrollment of that bill as in the case of a bill towhich sections 106 and 107 of title 1, United States Code, apply.
 
 &emsp;“(2)
 
@@ -254,7 +254,7 @@ Certification by President; Legal Effect.—Upon certification by the President 
 
 “(d)
 
-Archives.—A printed enrollment certified by the President under subsection (c) shall be transmitted to the Archivist of the United States, who shall preserve it with the hand enrollment. In preparing the bill concerned for publication in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the UnitedStates shall use the printed enrollment certified by the President under subsection (c) in lieu of the hand enrollment.
+Archives.—A printed enrollment certified by the President under subsection (c) shall be transmitted to the Archivist of the United States, who shall preserve it with the hand enrollment. In preparing the bill concerned for publication in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall use the printed enrollment certified by the President under subsection (c) in lieu of the hand enrollment.
 
 “(e)
 

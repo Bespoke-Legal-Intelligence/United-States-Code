@@ -31,7 +31,7 @@
 
 (3) With respect to any fiscal year beginning on or after October 1, 1995, the Secretary shall continue to pay, in lieu of the rates payable under paragraph (1) of this subsection, the monthly rates payable under this subsection for the previous fiscal year and shall provide, for any such fiscal year, a percentage increase in such rates equal to the percentage by which—
 
-&emsp;(A) the Consumer Price Index (all items, United States city average) for the 12-month period ending on June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
+&emsp;(A) the Consumer Price Index (all items, United States city average) for the 12-monthperiod ending on June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
 
 &emsp;(B) such Consumer Price Index for the 12-month period preceding the 12-month period described in subparagraph (A).
 
@@ -109,7 +109,7 @@ Subsec. (i). Pub. L. 102–83, §5(c)(1), substituted “3680(d)” for “1780(
 
 Subsec. (b). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator”.
 
-Pub. L. 101–237, §402(a), increased the monthly rehabilitation subsistence allowance for eligible veterans in column II from $310, $233, $155, $271, $310, $310, $233, and $155 to $333, $250, $167, $291, $333, $333, $250, and $167; in column III from $384, $288, $193, $327, $384, $384, $288, and $193 to $413, $310, $207, $352, $413, $413, $310, and $207; incolumn IV from $452, $339, $227, $377, $452, $452, $339, and $227 to $486, $364, $244, $405, $486, $486, $364, and $244; in column V from $33, $25, $17, $24, $33, $33, $25, and $17 to $35, $27, $18, $26, $35, $35, $27, and $18, respectively.
+Pub. L. 101–237, §402(a), increased the monthly rehabilitation subsistence allowance for eligible veterans in column II from $310, $233, $155, $271, $310, $310, $233, and $155 to $333, $250, $167, $291, $333, $333, $250, and $167; in column III from $384, $288, $193, $327, $384, $384, $288, and $193 to $413, $310, $207, $352, $413, $413, $310, and $207; in column IV from $452, $339, $227, $377, $452, $452, $339, and $227 to $486, $364, $244, $405, $486, $486, $364, and $244; in column V from $33, $25, $17, $24, $33, $33, $25, and $17 to $35, $27, $18, $26, $35, $35, $27, and $18, respectively.
 
 Subsecs. (c)(1) to (f)(1)(A). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 

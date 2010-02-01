@@ -10,7 +10,7 @@ A person filing an application under subsection (a) of this section shall comply
 
 &emsp;(1) no residence within a State or district of the Service in the United States shall be required;
 
-&emsp;(2) notwithstanding section 1429 of this title insofar as it relates to deportability, such applicant may be naturalized immediately if the applicant be then actually in the Armed Forces of the United States, and if prior to the filing of the application, the applicant shall have appeared before and been examined by a representative of the Service;
+&emsp;(2) notwithstanding section 1429 of this title insofar as it relates to deportability, such applicant may be naturalized immediately if the applicant be then actually in the Armed Forces of the United States, and if prior to thefiling of the application, the applicant shall have appeared before and been examined by a representative of the Service;
 
 &emsp;(3) the applicant shall furnish to the Secretary of Homeland Security, prior to any hearing upon his application, a certified statement from the proper executive department for each period of his service upon which he relies for the benefits of this section, clearly showing that such service was honorable and that no discharges from service, including periods of service not relied upon by him for the benefits of this section, were other than honorable (the certificate or certificates herein provided for shall be conclusive evidence of such service and discharge); and
 
@@ -36,7 +36,7 @@ Citizenship granted pursuant to this section may be revoked in accordance with s
 
 Not later than 6 months after receiving an application for naturalization filed by a current member of the Armed Forces under subsection (a), section 1440(a) of this title, or section 1440–1 of this title, by the spouse of such member under section 1430(b) of this title, or by a surviving spouse or child under section 1430(d) of this title, United States Citizenship and Immigration Services shall—
 
-&emsp;(1) process and adjudicate the application, including completing all required backgroundchecks to the satisfaction of the Secretary of Homeland Security; or
+&emsp;(1) process and adjudicate the application, including completing all required background checks to the satisfaction of the Secretary of Homeland Security; or
 
 &emsp;(2) provide the applicant with—
 

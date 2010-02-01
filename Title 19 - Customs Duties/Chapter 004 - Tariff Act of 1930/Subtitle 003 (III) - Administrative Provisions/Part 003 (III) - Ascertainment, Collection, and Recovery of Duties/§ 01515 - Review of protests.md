@@ -50,7 +50,7 @@ Amendment by Pub. L. 104–295 applicable as of Dec. 8, 1993, see section 3(b) o
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending onor commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1979 Amendment
 

@@ -6,7 +6,7 @@ The Director may issue permits which authorize acts otherwise prohibited by sect
 
 #### (b) Applications for permits
 
-(1) Applications for permits under this section shall be made in such manner and form, and shall contain such information, as the Director shall by regulation prescribe.
+(1) Applications for permits under this section shall be made in such manner and form, andshall contain such information, as the Director shall by regulation prescribe.
 
 (2) The Director shall publish notice in the Federal Register of each application which is made for a permit under this section. The notice shall invite the submission by interested parties, within 30 days after the date of publication of the notice, of written data, comments, or views with respect to the application. Information received by the Director as a part of any application shall be available to the public as a matter of public record.
 
@@ -98,7 +98,7 @@ Any applicant for a permit may obtain judicial review of the terms and condition
 
 #### (g) Permit fees
 
-The Director may establish and charge fees for processing applications for permits under thissection. The amount of such fees shall be commensurate with the administrative costs incurred by the Director in undertaking such processing.
+The Director may establish and charge fees for processing applications for permits under this section. The amount of such fees shall be commensurate with the administrative costs incurred by the Director in undertaking such processing.
 
 (Pub. L. 95–541, §5, Oct. 28, 1978, 92 Stat. 2050; Pub. L. 104–227, title I, §105, Oct. 2, 1996, 110 Stat. 3040.)
 

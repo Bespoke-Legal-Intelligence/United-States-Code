@@ -6,7 +6,7 @@ There is established within the United States Geological Survey a post-earthquak
 
 &emsp;(2) analysis by the National Science Foundation and the National Institute of Standards and Technology of the behavior of structures and lifelines, both those that were damaged and those that were undamaged; and
 
-&emsp;(3) analysis by each of the Program agencies of the effectiveness of the earthquake hazardsmitigation programs and actions relating to its area of responsibility under the Program, and how those programs and actions could be strengthened.
+&emsp;(3) analysis by each of the Program agencies of the effectiveness of the earthquake hazards mitigation programs and actions relating to its area of responsibility under the Program, and how those programs and actions could be strengthened.
 
 (Pub. L. 95–124, §11, as added Pub. L. 101–614, §11(a), Nov. 16, 1990, 104 Stat. 3239.)
 

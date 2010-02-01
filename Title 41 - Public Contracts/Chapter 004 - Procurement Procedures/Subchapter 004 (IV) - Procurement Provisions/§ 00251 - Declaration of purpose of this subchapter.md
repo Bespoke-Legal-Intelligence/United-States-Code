@@ -320,49 +320,113 @@ Sec. 7. <i>Judicial Review</i>. This Executive order does not create any right o
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 13202. Preservation of Open Competition and Government Neutrality Towards Government Contractors’ Labor Relations on Federal and Federally Funded Construction Projects
+#### Executive Order No. 13202
 
-Ex. Ord. No. 13202, Feb. 17, 2001, 66 F.R. 11225, as amended by Ex. Ord. No. 13208, Apr. 6, 2001, 66 F.R. 18717, provided:
+Ex. Ord. No. 13202, Feb. 17, 2001, 66 F.R. 11225, as amended by Ex. Ord. No. 13208, Apr. 6, 2001, 66 F.R. 18717, which promoted preservation of open competition and Government neutrality towards Government contractors’ labor relations on Federal and Federally funded construction projects, was revoked by Ex. Ord. No. 13502, §8, Feb. 6, 2009, 74 F.R. 6986, set out below.
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Property and Administrative Services Act, 40 U.S.C. 471 <i>et seq</i>. \[now chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and title III of the Act of June 30, 1949 (41 U.S.C. 251 et seq.)\], and in order to (1) promote and ensure open competition on Federal and federally funded or assisted construction projects; (2) maintain Government neutrality towards Government contractors’ labor relations on Federal and federally funded or assisted construction projects; (3) reduce construction costs to the Federal Government and to the taxpayers; (4) expand job opportunities, especially for small and disadvantaged businesses; and (5) prevent discrimination against Government contractors or their employees based upon labor affiliation or lack thereof; thereby promoting the economical, nondiscriminatory, and efficient administration and completion of Federal and federally funded or assisted construction projects, it is hereby ordered that:
+#### Ex. Ord. No. 13502. Use of Project Labor Agreements for Federal Construction Projects
 
-Section 1. To the extent permitted by law, any executive agency awarding any construction contract afterthe date of this order, or obligating funds pursuant to such a contract, shall ensure that neither the awarding Government authority nor any construction manager acting on behalf of the Government shall, in its bid specifications, project agreements, or other controlling documents:
+Ex. Ord. No. 13502, Feb. 6, 2009, 74 F.R. 6985, provided:
 
-(a) Require or prohibit bidders, offerors, contractors, or subcontractors to enter into or adhere to agreements with one or more labor organizations, on the same or other related construction project(s); or
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act, 40 U.S.C. 101 <i>et seq</i>., and in order to promote the efficient administration and completion of Federal construction projects, it is hereby ordered that:
 
-(b) Otherwise discriminate against bidders, offerors, contractors, or subcontractors for becoming or refusing to become or remain signatories or otherwise to adhere to agreements with one or more labor organizations, on the same or other related construction project(s).
+Section 1. <i>Policy</i>. (a) Large-scale construction projects pose special challenges to efficient and timely procurement by the Federal Government. Construction employers typically do not have a permanent workforce, which makes it difficult for them to predict labor costs when bidding on contracts and to ensure a steady supply of labor on contracts being performed. Challenges also arise due to the fact that construction projects typically involve multiple employers at a single location. A labor dispute involving one employer can delay the entire project. A lack of coordinationamong various employers, or uncertainty about the terms and conditions of employment of various groups of workers, can create frictions and disputes in the absence of an agreed-upon resolution mechanism. These problems threaten the efficient and timely completion of construction projects undertaken by Federal contractors. On larger projects, which are generally more complex and of longer duration, these problems tend to be more pronounced.
 
-(c) Nothing in this section shall prohibit contractors or subcontractors from voluntarily entering into agreements described in subsection (a).
+(b) The use of a project labor agreement may prevent these problems from developing by providing structure and stability to large-scale construction projects, thereby promoting the efficient and expeditious completion of Federal construction contracts. Accordingly, it is the policy of the Federal Government to encourage executive agencies to consider requiring the use of project labor agreements in connection with large-scale construction projects in order to promote economy and efficiency in Federal procurement.
 
-Sec. 2. Contracts awarded before the date of this order, and subcontracts awarded pursuant to such contracts, whenever awarded, shall not be governed by this order.
+Sec. 2. <i>Definitions</i>.
 
-Sec. 3. To the extent permitted by law, any executive agency issuing grants, providing financial assistance, or entering into cooperative agreements for construction projects, shall ensure that neither the bid specifications, project agreements, nor other controlling documents for construction contracts awarded after the date of this order by recipients of grants or financial assistance or by parties to cooperative agreements, nor those of any construction manager acting on their behalf, shall contain any of the requirements or prohibitions set forth in section 1(a) or (b) of this order.
+(a) The term “labor organization” as used in this order means a labor organization as defined in 29 U.S.C. 152(5).
 
-Sec. 4. In the event that an awarding authority, a recipient of grants or financial assistance, a party to a cooperative agreement, or a construction manager acting on behalf of the foregoing, performs in a manner contrary to the provisions of sections 1 or 3 of this order, the executive agency awarding the contract, grant, or assistance shall take such action, consistent with law and regulation, as the agency determines may be appropriate.
+(b) The term “construction” as used in this order means construction, rehabilitation, alteration, conversion, extension, repair, or improvement of buildings, highways, or other real property.
 
-Sec. 5. (a) The head of an executive agency may exempt a particular project, contract, subcontract, grant, or cooperative agreement from the requirements of any or all of the provisions of sections 1 and 3 of this order, if the agency head finds that special circumstances require an exemption in order to avert an imminent threat to public health or safety or to serve the national security.
+(c) The term “large-scale construction project” as used in this order means a construction project where the total cost to the Federal Government is $25 million or more.
 
-(b) A finding of “special circumstances” under section 5(a) may not be based on the possibility or presence of a labor dispute concerning the use of contractors or subcontractors who are nonsignatories to, or otherwise do not adhere to, agreements with one or more labor organizations, or concerning employees on the project who are not members of or affiliated with a labor organization.
+(d) The term “executive agency” as used in this order has the same meaning as in 5 U.S.C. 105, but excludes the Government Accountability Office.
 
-(c) The head of an executive agency, upon application of an awarding authority, a recipient of grants or financial assistance, a party to a cooperative agreement, or a construction manager acting on behalf of the foregoing, may exempt a particular project from the requirements of any or all of the provisions of sections 1 and 3 of this order, if the agency head finds: (i) that the awarding authority, recipient of grants or financial assistance, party to a cooperative agreement, or construction manager acting on behalf of the foregoing had issued or was a party to, as of the date of this order, bid specifications, project agreements, agreements with one or more labor organizations, or other controlling documents with respect to that particular project, which contained any of the requirements or prohibitions set forth in sections 1(a) or (b) of this order; and (ii) that one or more construction contracts subject to such requirements or prohibitions had been awarded as of the date of this order.
+(e) The term “project labor agreement” as used in this order means a pre-hire collective bargaining agreement with one or more labor organizations that establishes the terms and conditions of employment for a specific construction project and is an agreement described in 29 U.S.C. 158(f).
 
-Sec. 6. (a) The term “construction contract” as used in this order means any contract for the construction, rehabilitation, alteration, conversion, extension, or repair of buildings, highways, or other improvements to real property.
+Sec. 3. (a) In awarding any contract in connection with a large-scale construction project, or obligating funds pursuant to such a contract, executive agencies may, on a project-by-project basis, require the use of a project labor agreement by a contractor where use of such an agreement will (i) advance the Federal Government's interest in achieving economy and efficiency in Federal procurement, producing labor-management stability, and ensuring compliance with laws and regulations governing safety and health, equal employment opportunity, labor and employment standards, and other matters, and (ii) be consistent with law.
 
-(b) The term “executive agency” as used in this order shall have the same meaning it has in 5 U.S.C. 105, excluding the General Accounting Office \[now Government Accountability Office\].
+(b) If an executive agency determines under subsection (a) that the use of a project labor agreement will satisfy the criteria in clauses (i) and (ii) of that subsection, the agency may, if appropriate, require that every contractor or subcontractor on the project agree, for that project, to negotiate or become a party to a project labor agreement with one or more appropriate labor organizations.
 
-(c) The term “labor organization” as used in this order shall have the same meaning it has in 42 U.S.C. 2000e(d).
+Sec. 4. Any project labor agreement reached pursuant to this order shall:
 
-Sec. 7. With respect to Federal contracts, within 60 days of the issuance of this order, the Federal Acquisition Regulatory Council shall take whatever action is required to amend the Federal Acquisition Regulation in order to implement the provisions of this order.
+(a) bind all contractors and subcontractors on the Construction project through the inclusion of appropriate specifications in all relevant solicitation provisions and contract documents;
 
-Sec. 8. As it relates to project agreements, Executive Order 12836 of February 1, 1993, which, among other things, revoked Executive Order 12818 of October 23, 1992, is revoked.
+(b) allow all contractors and subcontractors to compete for contracts and subcontracts without regard to whether they are otherwise parties to collective bargaining agreements;
 
-Sec. 9. The Presidential Memorandum of June 5, 1997, entitled “Use of Project Labor Agreements for Federal Construction Projects” (the “Memorandum”), is also revoked.
+(c) contain guarantees against strikes, lockouts, and similar job disruptions;
 
-Sec. 10. The heads of executive departments and agencies shall revoke expeditiously any orders, rules, regulations, guidelines, or policies implementing or enforcing the Memorandum or Executive Order 12836 of February 1, 1993, as it relates to project agreements, to the extent consistent with law.
+(d) set forth effective, prompt, and mutually binding procedures for resolving labor disputes arising during the project labor agreement;
 
-Sec. 11. This order is intended only to improve the internal management of the executive branch and is not intended to, nor does it, create any right to administrative or judicial review, or any right, whether substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+(e) provide other mechanisms for labor-management cooperation on matters of mutual interest and concern, including productivity, quality of work, safety, and health; and
 
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(f) fully conform to all statutes, regulations, and Executive Orders.
+
+Sec. 5. This order does not require an executive agency to use a project labor agreement on any construction project, nor does it preclude the use of a project labor agreement in circumstances not covered by this order, including leasehold arrangements and projects receiving Federal financial assistance. This order also does not require contractors or subcontractors to enter into a project labor agreement with any particular labor organization.
+
+Sec. 6. Within 120 days of the date of this order, the Federal Acquisition Regulatory Council (FAR Council), to the extent permitted by law, shall take whatever action is required to amend the Federal Acquisition Regulation to implement the provisions of this order.
+
+Sec. 7. The Director of OMB, in consultation with the Secretary of Labor and with other officials as appropriate, shall provide the President within 180 days of this order, recommendations about whether broader use of project labor agreements, with respect to both construction projects undertaken under Federal contracts and construction projects receiving Federal financial assistance, would help to promote the economical, efficient, and timely completion of such projects.
+
+Sec. 8. <i>Revocation of Prior Orders, Rules, and Regulations</i>. Executive Order 13202 of February 17, 2001, and Executive Order 13208 of April 6, 2001, are revoked. The heads of executive agencies shall, to the extent permitted by law, revoke expeditiously any orders, rules, or regulations implementing Executive Orders 13202 and 13208.
+
+Sec. 9. <i>Severability</i>. If any provision of this order, or the application of such provision to any person or circumstance, is held to be invalid, the remainder of this order and the application of the provisions of such to any person or circumstance shall not be affected thereby.
+
+Sec. 10. <i>General</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+&emsp;(i) authority granted by law to an executive department, agency, or the head thereof; or
+
+&emsp;(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 11. <i>Effective Date</i>. This order shall be effective immediately and shall apply to all solicitations for contracts issued on or after the effective date of the action taken by the FAR Council under section 6 of this order.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Government Contracting
+
+Memorandum of President of the United States, Mar. 4, 2009, 74 F.R. 9755, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+The Federal Government has an overriding obligation to American taxpayers. It should perform its functions efficiently and effectively while ensuring that its actions result in the best value for the taxpayers.
+
+Since 2001, spending on Government contracts has more than doubled, reaching over $500 billion in 2008. During this same period, there has been a significant increase in the dollars awarded without full and open competition and an increase in the dollars obligated through cost-reimbursement contracts. Between fiscal years 2000 and 2008, for example, dollars obligated under cost-reimbursement contracts nearly doubled, from $71 billion in 2000 to $135 billion in 2008. Reversing these trends away from full and open competition and toward cost-reimbursement contracts could result in savings of billions of dollars each year for the American taxpayer.
+
+Excessive reliance by executive agencies on sole-source contracts (or contracts with a limited number of sources) and cost-reimbursement contracts creates a risk that taxpayer funds will be spent on contracts that are wasteful, inefficient, subject to misuse, or otherwise not well designed to serve the needs of the Federal Government or the interests of the American taxpayer. Reports by agency Inspectors General, the Government Accountability Office (GAO), and other independent reviewing bodies have shown that noncompetitive and cost-reimbursement contracts have been misused, resulting in wasted taxpayer resources, poor contractor performance, and inadequate accountability for results.
+
+When awarding Government contracts, the Federal Government must strive for an open and competitive process. However, executive agencies must have the flexibility to tailor contracts to carry out their missions and achieve the policy goals of the Government. In certain exigent circumstances, agencies may need to consider whether a competitive process will not accomplish the agency's mission. In such cases, the agency must ensure that the risks associated with noncompetitive contracts are minimized.
+
+Moreover, it is essential that the Federal Government have the capacity to carry out robust and thorough management and oversight of its contracts in order to achieve programmatic goals, avoid significant overcharges, and curb wasteful spending. A GAO study last year of 95 major defense acquisitions projects found cost overruns of 26 percent, totaling $295 billion over the life of the projects. Improved contract oversight could reduce such sums significantly.
+
+Government outsourcing for services also raises special concerns. For decades, the Federal Government has relied on the private sector for necessary commercial services used by the Government, such as transportation, food, and maintenance. Office of Management and Budget Circular A–76, first issued in 1966, was based on the reasonable premise that while inherently governmental activities should be performed by Government employees, taxpayers may receive more value for their dollars if non-inherently governmental activities that can be provided commercially are subject to the forces of competition.
+
+However, the line between inherently governmental activities that should not be outsourced and commercial activities that may be subject to private sector competition has been blurred and inadequately defined. As a result, contractors may be performing inherently governmental functions. Agencies and departments must operate under clear rules prescribing when outsourcing is and is not appropriate.
+
+It is the policy of the Federal Government that executive agencies shall not engage in noncompetitive contracts except in those circumstances where their use can be fully justified and where appropriate safeguards have been put in place to protect the taxpayer. In addition, there shall be a preference for fixed-price type contracts. Cost-reimbursement contracts shall be used only when circumstances do not allow the agency to define its requirements sufficiently to allow for a fixed-price type contract. Moreover, the Federal Government shall ensure that taxpayer dollars are not spent on contracts that are wasteful, inefficient, subject to misuse, or otherwise not well designed to serve the Federal Government's needs and to manage the risk associated with the goods and services being procured. The Federal Government must have sufficient capacity to manage and oversee the contracting process from start to finish, so as to ensure that taxpayer funds are spent wisely and are not subject to excessive risk. Finally, the Federal Government must ensure that those functions that are inherently governmental in nature are performed by executive agencies and are not outsourced.
+
+I hereby direct the Director of the Office of Management and Budget (OMB), in collaboration with the Secretary of Defense, the Administrator of the National Aeronautics and Space Administration, the Administrator of General Services, the Director of the Office of Personnel Management, and the heads of such other agencies as the Director of OMB determines to be appropriate, and with the participation of appropriate management councils and program management officials, to develop and issue by July 1, 2009, Government-wide guidance to assist agencies in reviewing, and creating processes for ongoing review of, existing contracts in order to identify contracts that are wasteful, inefficient, or not otherwise likely to meet the agency's needs, and to formulate appropriate corrective action in a timely manner. Such corrective action may include modifying or canceling such contracts in a manner and to the extent consistent with applicable laws, regulations, and policy.
+
+I further direct the Director of OMB, in collaboration with the aforementioned officials and councils, and with input from the public, to develop and issue by September 30, 2009, Government-wide guidance to:
+
+(1) govern the appropriate use and oversight of sole-source and other types of noncompetitive contracts and to maximize the use of full and open competition and other competitive procurement processes;
+
+(2) govern the appropriate use and oversight of all contract types, in full consideration of the agency's needs, and to minimize risk and maximize the value of Government contracts generally, consistent with the regulations to be promulgated pursuant to section 864 of Public Law 110–417;
+
+(3) assist agencies in assessing the capacity and ability of the Federal acquisition workforce to develop, manage, and oversee acquisitions appropriately; and
+
+(4) clarify when governmental outsourcing for services is and is not appropriate, consistent with section 321 of Public Law 110–417 (31 U.S.C. 501 note).
+
+Executive departments and agencies shall carry out the provisions of this memorandum to the extent permitted by law. This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+The Director of OMB is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Definitions
 

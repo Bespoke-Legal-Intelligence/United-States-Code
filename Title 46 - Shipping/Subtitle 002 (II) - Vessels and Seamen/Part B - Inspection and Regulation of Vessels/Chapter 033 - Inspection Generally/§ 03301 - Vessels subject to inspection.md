@@ -32,7 +32,7 @@ The following categories of vessels are subject to inspection under this part:
 
 &emsp;(15) towing vessels.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(2), July 17, 1984, 98 Stat. 445; Pub. L. 102–587, title V, §5208(b), Nov. 4, 1992, 106 Stat. 5076; Pub. L. 104–324, title XI, §1104(g), Oct. 19, 1996, 110 Stat. 3967; Pub. L. 108–293, title IV, §415(a), Aug. 9, 2004, 118 Stat. 1047.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(2), July 17, 1984, 98 Stat. 445; Pub. L. 102–587, title V, §5208(b), Nov. 4, 1992, 106 Stat. 5076; Pub. L. 104–324, title XI, §1104(g), Oct.19, 1996, 110 Stat. 3967; Pub. L. 108–293, title IV, §415(a), Aug. 9, 2004, 118 Stat. 1047.)
 
 Historical and Revision Notes
 

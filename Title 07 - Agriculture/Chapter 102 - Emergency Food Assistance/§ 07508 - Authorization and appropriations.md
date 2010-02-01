@@ -28,7 +28,7 @@
 
 (b) The value of the commodities made available under this chapter and the funds of the Corporation used to pay the costs of initial processing, packaging (including forms suitable for home use), and delivering commodities to the States shall not be charged against appropriations made or authorized under this section.
 
-(Pub. L. 98–8, title II, §204, Mar. 24, 1983, 97 Stat. 35; Pub. L. 98–92, §2(6), Sept. 2, 1983, 97 Stat. 610; Pub. L. 99–198, title XV, §1569, Dec. 23, 1985, 99 Stat. 1592; Pub. L. 100–77, title VIII, §813, July 22, 1987, 101 Stat. 537; Pub. L. 100–435, title I, §§103(a)–(c), 105(a), Sept. 19, 1988, 102 Stat. 1647, 1650; Pub. L. 101–624, title XVII, §1772(c), (d), Nov. 28, 1990, 104 Stat. 3808, 3809; Pub. L. 104–127, title IV, §403(a), Apr. 4, 1996, 110 Stat. 1029; Pub. L. 104–193, title VIII, §871(c), (e)(2), Aug. 22, 1996, 110 Stat. 2345; Pub. L. 107–171, title IV, §4204, May 13, 2002, 116 Stat. 330; Pub. L. 110–234, titleIV, §§4201(c), 4406(b)(1), May 22, 2008, 122 Stat. 1121, 1141; Pub. L. 110–246, §4(a), title IV, §§4201(c), 4406(b)(1), June 18, 2008, 122 Stat. 1664, 1882, 1902.)
+(Pub. L. 98–8, title II, §204, Mar. 24, 1983, 97 Stat. 35; Pub. L. 98–92, §2(6), Sept. 2, 1983, 97 Stat. 610; Pub. L. 99–198, title XV, §1569, Dec. 23, 1985, 99 Stat. 1592; Pub. L. 100–77, title VIII, §813, July 22, 1987, 101 Stat. 537; Pub. L. 100–435, title I, §§103(a)–(c), 105(a), Sept. 19, 1988, 102 Stat. 1647, 1650; Pub. L. 101–624, title XVII, §1772(c), (d), Nov. 28, 1990, 104 Stat. 3808, 3809; Pub. L. 104–127, title IV, §403(a), Apr. 4, 1996, 110 Stat. 1029; Pub. L. 104–193, title VIII, §871(c), (e)(2), Aug. 22, 1996, 110 Stat. 2345; Pub. L. 107–171, title IV, §4204, May 13, 2002, 116 Stat. 330; Pub. L. 110–234, title IV, §§4201(c), 4406(b)(1), May 22, 2008, 122 Stat. 1121, 1141; Pub. L. 110–246, §4(a), title IV, §§4201(c), 4406(b)(1), June 18, 2008, 122 Stat. 1664, 1882, 1902.)
 
 #### Codification
 
@@ -78,7 +78,7 @@ Amendment by sections 4201(c) and 4406(b)(1) of Pub. L. 110–246 effective Oct.
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
+Amendment by Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L.107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 1990 Amendment
 

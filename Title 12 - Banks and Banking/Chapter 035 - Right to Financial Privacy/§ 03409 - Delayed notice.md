@@ -18,7 +18,7 @@ Upon application of the Government authority, the customer notice required under
 
 &emsp;&emsp;(D) intimidation of potential witnesses; or
 
-&emsp;&emsp;(E) otherwise seriously jeopardizing an investigation or official proceeding or undulydelaying a trial or ongoing official proceeding to the same extent as the circumstances in the preceeding <sup>1</sup> subparagraphs.
+&emsp;&emsp;(E) otherwise seriously jeopardizing an investigation or official proceeding or unduly delaying a trial or ongoing official proceeding to the same extent as the circumstances in the preceeding <sup>1</sup> subparagraphs.
 
 > An application for delay must be made with reasonable specificity.
 

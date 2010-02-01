@@ -32,11 +32,13 @@ Regulations.—The Secretaries concerned shall prescribe regulations to carry ou
 
 (g)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2009.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2010.
 
-(Added Pub. L. 108–136, div. A, title VI, §625(a), Nov. 24, 2003, 117 Stat. 1506; amended Pub. L. 108–375, div. A, title VI, §622, Oct. 28, 2004, 118 Stat. 1955; Pub. L. 109–163, div. A, title VI, §687(b)(34), Jan. 6, 2006, 119 Stat. 3333; Pub. L. 109–364, div. A, title VI, §614(g), Oct. 17, 2006, 120 Stat. 2249; Pub. L. 110–181, div. A, title VI, §614(f), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §614(f), Oct. 14, 2008, 122 Stat. 4485.)
+(Added Pub. L. 108–136, div. A, title VI, §625(a), Nov. 24, 2003, 117 Stat. 1506; amended Pub. L. 108–375, div. A, title VI, §622, Oct. 28, 2004, 118 Stat. 1955; Pub. L. 109–163, div. A, title VI, §687(b)(34), Jan. 6, 2006, 119 Stat. 3333; Pub. L. 109–364, div. A, title VI, §614(g), Oct. 17, 2006, 120 Stat. 2249; Pub. L. 110–181, div. A, title VI, §614(f), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §614(f), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(6), Oct. 28, 2009, 123 Stat. 2354.)
 
 #### Amendments
+
+2009—Subsec. (g). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 
 2008—Subsec. (g). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
 

@@ -30,7 +30,7 @@ No more than one assessment may be assessed under subsection (a) of this section
 
 #### (B) Grower-shellers
 
-&emsp;&emsp;Each first handler who is a grower-sheller and who is required to remit an assessment under paragraph (1) shall remit such assessment to the Board, to the extent practicable, in payments of one-third of the total annual amount of such assessment due to the Board on January 31, March 31, and May 10, or such dates as may be recommended by the Board and approved by the Secretary, during the fiscal year that the pecans being assessed were harvested.
+&emsp;&emsp;Each first handler who is a grower-sheller and who is required to remit an assessment under paragraph (1) shall remit such assessment to the Board, to the extent practicable, in payments of one-third of the total annual amount of such assessment due tothe Board on January 31, March 31, and May 10, or such dates as may be recommended by the Board and approved by the Secretary, during the fiscal year that the pecans being assessed were harvested.
 
 #### (C) Importers
 
@@ -54,7 +54,7 @@ No more than one assessment may be assessed under subsection (a) of this section
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of this chapter, with the approval of the Secretary and if authorized by State law and requested by such State, a special assessment of one-quarter cent per pound for in-shell pecans, and an appropriate per-pound assessment for shelled pecans as adjusted under paragraph (2), shall be remitted to the Board for the purpose of utilizing such funds by a State pecan marketing board for researchprojects to promote pecans pursuant to State law.
+&emsp;&emsp;Notwithstanding any other provision of this chapter, with the approval of the Secretary and if authorized by State law and requested by such State, a special assessment of one-quarter cent per pound for in-shell pecans, and an appropriate per-pound assessment for shelled pecans as adjusted under paragraph (2), shall be remitted to the Board for the purpose of utilizing such funds by a State pecan marketing board for research projects to promote pecans pursuant to State law.
 
 #### (B) Collection and remittance
 

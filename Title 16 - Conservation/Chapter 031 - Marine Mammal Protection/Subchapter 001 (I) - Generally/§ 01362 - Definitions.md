@@ -16,7 +16,7 @@ For the purposes of this chapter—
 
 (4) The term “humane” in the context of the taking of a marine mammal means that method of taking which involves the least possible degree of pain and suffering practicable to the mammal involved.
 
-(5) The term “intermediary nation” means a nation that exports yellowfin tuna or yellowfin tuna products to the United States and that imports yellowfin tuna or yellowfin tuna products that are subject to a direct ban on importationinto the United States pursuant to section 1371(a)(2)(B) of this title.
+(5) The term “intermediary nation” means a nation that exports yellowfin tuna or yellowfin tuna products to the United States and that imports yellowfin tuna or yellowfin tuna products that are subject to a direct ban on importation into the United States pursuant to section 1371(a)(2)(B) of this title.
 
 (6) The term “marine mammal” means any mammal which (A) is morphologically adapted to the marine environment (including sea otters and members of the orders Sirenia, Pinnipedia and Cetacea), or (B) primarily inhabits the marine environment (such as the polar bear); and, for the purposes of this chapter, includes any part of any such marine mammal, including its raw, dressed, or dyed fur or skin.
 
@@ -28,7 +28,7 @@ For the purposes of this chapter—
 
 (10) The term “person” includes (A) any private person or entity, and (B) any officer, employee, agent, department, or instrumentality of the Federal Government, of any State or political subdivision thereof, or of any foreign government.
 
-(11) The term “population stock” or “stock” means a group of marine mammals of the same species or smaller taxa in a common spatial arrangement, that interbreed when mature.
+(11) The term “population stock” or “stock” means a group of marine mammals of the samespecies or smaller taxa in a common spatial arrangement, that interbreed when mature.
 
 (12)(A) Except as provided in subparagraph (B), the term “Secretary” means—
 
@@ -72,7 +72,7 @@ For the purposes of this chapter—
 
 &emsp;(i) any act that injures or has the significant potential to injure a marine mammal or marine mammal stock in the wild; or
 
-&emsp;(ii) any act that disturbs or is likely to disturb a marine mammal or marine mammal stock in the wild by causing disruption of natural behavioral patterns, including, but notlimited to, migration, surfacing, nursing, breeding, feeding, or sheltering, to a point where such behavioral patterns are abandoned or significantly altered.
+&emsp;(ii) any act that disturbs or is likely to disturb a marine mammal or marine mammal stock in the wild by causing disruption of natural behavioral patterns, including, but not limited to, migration, surfacing, nursing, breeding, feeding, or sheltering, to a point where such behavioral patterns are abandoned or significantly altered.
 
 (C) The term “Level A harassment” means harassment described in subparagraph (A)(i) or, in the case of a military readiness activity or scientific research activity described in subparagraph (B), harassment described in subparagraph (B)(i).
 
@@ -168,7 +168,7 @@ Par. (15). Pub. L. 102–582 redesignated par. (14), defining waters under the j
 
 Pub. L. 102–523 added par. (15) defining fishery.
 
-Pub. L. 102–251, §304, which directed the general amendment of par. (15) by reenacting the introductory provisions and subpars. (A) and (B) without substantial change and adding subpar. (C) which read “the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.”, was repealed by Pub. L. 104–297, §405(b)(2).
+Pub. L. 102–251, §304, which directed the general amendment of par. (15) by reenacting the introductory provisions and subpars. (A) and (B) without substantial change and adding subpar. (C) which read “the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in thatAgreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.”, was repealed by Pub. L. 104–297, §405(b)(2).
 
 Pars. (16), (17). Pub. L. 102–523 added pars. (16) and (17).
 
@@ -254,7 +254,7 @@ For termination of the United States District Court for the District of the Cana
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Territorial Sea and Contiguous Zone of United States
 

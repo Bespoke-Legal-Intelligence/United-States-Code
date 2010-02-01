@@ -4,13 +4,13 @@
 
 Congress finds the following:
 
-&emsp;(1) Although medical researchers in recent years have demonstrated that there are several naturally occurring compounds in many vegetables and fruits that can aid in the prevention of certain forms of cancer, coronary heart disease, stroke, and atherosclerosis, there has been almost no research conducted to enhance these compounds in food plants by modern breeding and molecular genetic methods.
+&emsp;(1) Although medical researchers in recent years have demonstrated that there are several naturally occurring compounds in many vegetables and fruits that can aid in the prevention of certain forms of cancer, coronary heart disease, stroke, and atherosclerosis, there has been almost no research conducted to enhance these compounds in food plants bymodern breeding and molecular genetic methods.
 
 &emsp;(2) By linking the appropriate medical and agricultural research scientists in a highly-focused, targeted research program, it should be possible to develop new varieties of vegetables and fruits that would provide greater prevention of diet-related diseases that are a major cause of death in the United States.
 
 #### (b) Pilot research program
 
-The Secretary shall conduct, through the Cooperative State Research, Education, and Extension Service, a pilot research program to link major cancer and heart and other circulatory disease research efforts with agricultural research efforts to identify compounds in vegetables and fruits that prevent these diseases. Using information derived from such combined research efforts, the Secretary shall assist in the development of new varieties of vegetables and fruits having enhanced therapeutic properties for disease prevention.
+The Secretary shall conduct, through the National Institute of Food and Agriculture, a pilot research program to link major cancer and heart and other circulatory disease research efforts with agricultural research efforts to identify compounds in vegetables and fruits that prevent these diseases. Using information derived from such combined research efforts, the Secretary shall assist in the development of new varieties of vegetables and fruits having enhanced therapeutic properties for disease prevention.
 
 #### (c) Agreements
 
@@ -22,17 +22,15 @@ There are authorized to be appropriated $10,000,000 for each of fiscal years 199
 
 (Pub. L. 95–113, title XIV, §1424A, as added Pub. L. 104–127, title VIII, §808, Apr. 4, 1996, 110 Stat. 1163; amended Pub. L. 105–185, title III, §301(a)(5), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7105, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §§7115, 7511(c)(10)(A), May 22, 2008, 122 Stat. 1220, 1268; Pub. L. 110–246, §4(a), title VII, §§7115, 7511(c)(10)(A), June 18, 2008, 122 Stat. 1664, 1981, 2029.)
 
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2029, provided that, effective Oct. 1, 2009, subsection (b) of this section is amended by substituting “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service”.</i>
-
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–246, §7115, substituted “2012” for “2007”.
+2008—Subsec. (b). Pub. L. 110–246, §7511(c)(10)(A), substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.
+
+Subsec. (d). Pub. L. 110–246, §7115, substituted “2012” for “2007”.
 
 2002—Subsec. (d). Pub. L. 107–171 substituted “2007” for “2002”.
 

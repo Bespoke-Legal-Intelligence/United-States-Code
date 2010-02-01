@@ -8,7 +8,7 @@
 
 &emsp;(3) Officers of the commissioned corps of the Public Health Service who are on active duty or entitled to retired or equivalent pay.
 
-&emsp;(4) Members of reserve components not covered by paragraph (1) or (2) following release from active duty under a call or order to active duty for more than 30 days issued under a mobilization authority (as determined by the Secretary of Defense), for a period of time, prescribed by the Secretary of Defense, that begins on the date of the release and is not less than twice the length of the period served on active duty under that call or order to active duty.
+&emsp;(4) Members of reserve components not covered by paragraph (1) or (2) following release from active duty under a call or order to active duty for more than 30 days issued under a mobilization authority (as determined by the Secretary), for a period of time (prescribed by the Secretary) that begins on the date of the release and is not less than twice the length of the period served on active duty under that call or order to active duty.
 
 &emsp;(5) Dependents of members and former members described in paragraphs (1), (2), (3), and (4).
 
@@ -16,7 +16,7 @@
 
 &emsp;(7) Civilian employees of the Federal Government serving in locations where legal assistance from non-military legal assistance providers is not reasonably available, except that the eligibility of civilian employees shall be determined pursuant to regulations prescribed by the Secretary concerned.
 
-(b) Under such regulations as may be prescribed by the Secretary concerned, the JudgeAdvocate General (as defined in section 801(1) of this title) under the jurisdiction of the Secretary is responsible for the establishment and supervision of legal assistance programs under this section.
+(b) Under such regulations as may be prescribed by the Secretary concerned, the Judge Advocate General (as defined in section 801(1) of this title) under the jurisdiction of the Secretary is responsible for the establishment and supervision of legal assistance programs under this section.
 
 (c) This section does not authorize legal counsel to be provided to represent a member or former member of the uniformed services described in subsection (a), or the dependent of such a member or former member, in a legal proceeding if the member or former member can afford legal fees for such representation without undue hardship.
 
@@ -32,9 +32,11 @@
 
 (e) The Secretary concerned shall define “dependent” for the purposes of this section.
 
-(Added Pub. L. 98–525, title VI, §651(a), Oct. 19, 1984, 98 Stat. 2549; amended Pub. L. 104–201, div. A, title V, §583, Sept. 23, 1996, 110 Stat. 2538; Pub. L. 106–398, §1 \[\[div. A\], title V, §524(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 109–163, div. A, title V, §555, Jan. 6, 2006, 119 Stat. 3265; Pub. L. 110–181, div. A, title V, §541, Jan. 28, 2008, 122 Stat. 114.)
+(Added Pub. L. 98–525, title VI, §651(a), Oct. 19, 1984, 98 Stat. 2549; amended Pub. L. 104–201, div. A, title V, §583, Sept. 23, 1996, 110 Stat. 2538; Pub. L. 106–398, §1 \[\[div. A\], title V, §524(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 109–163, div. A, title V, §555, Jan. 6, 2006, 119 Stat. 3265; Pub. L. 110–181, div. A, title V, §541, Jan. 28, 2008, 122 Stat. 114; Pub. L. 111–84, div. A, title V, §513, Oct. 28, 2009, 123 Stat. 2282.)
 
 #### Amendments
+
+2009—Subsec. (a)(4). Pub. L. 111–84 substituted “the Secretary), for a period of time (prescribed by the Secretary)” for “the Secretary of Defense), for a period of time, prescribed by the Secretary of Defense,”.
 
 2008—Subsec. (a)(6), (7). Pub. L. 110–181 added pars. (6) and (7).
 

@@ -16,7 +16,7 @@ This section shall apply only to a foreign country which the Administrator deter
 
 Recommendations issued following any abatement conference conducted prior to August 7, 1977, shall remain in effect with respect to any pollutant for which no national ambient air quality standard has been established under section 7409 of this title unless the Administrator, after consultation with all agencies which were party to the conference, rescinds any such recommendation on grounds of obsolescence.
 
-(July 14, 1955, ch. 360, title I, §115, formerly §5, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat.396; renumbered §105 and amended Pub. L. 89–272, title I, §§101(2), (3), 102, Oct. 20, 1965, 79 Stat. 992, 995, renumbered §108 and amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 491, renumbered §115 and amended Pub. L. 91–604, §§4(a), (b)(2)–(10), 15(c)(2), Dec. 31, 1970, 84 Stat. 1678, 1688, 1689, 1713; Pub. L. 95–95, title I, §114, Aug. 7, 1977, 91 Stat. 710.)
+(July 14, 1955, ch. 360, title I, §115, formerly §5, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 396; renumbered §105 and amended Pub. L. 89–272, title I, §§101(2), (3), 102, Oct. 20, 1965, 79 Stat. 992, 995, renumbered §108 and amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 491, renumbered §115 and amended Pub. L. 91–604, §§4(a), (b)(2)–(10), 15(c)(2), Dec. 31, 1970, 84 Stat. 1678, 1688, 1689, 1713; Pub. L. 95–95, title I, §114, Aug. 7, 1977, 91 Stat. 710.)
 
 #### Codification
 
@@ -28,7 +28,7 @@ Section was formerly classified to section 1857d of this title.
 
 1970—Subsec. (a). Pub. L. 91–604, §4(b)(2), inserted “and which is covered by subsection (b) or (c) of this section” after “persons”.
 
-Subsec. (b). Pub. L. 91–604, §§4(b)(3), (4), (5), 15(c)(2), redesignated former subsec. (d)(1)(A), (B), and (C) as (b)(1), (2), and (3), substituted “Administrator” for “Secretary” wherever appearing, and added subsec. (b)(4). Former subsec. (b), which related to the encouragement of municipal, State, and interstate action to abate air pollution, was struck out.
+Subsec. (b). Pub. L. 91–604, §§4(b)(3), (4), (5), 15(c)(2), redesignated former subsec. (d)(1)(A), (B), and (C) as\(b)(1), (2), and (3), substituted “Administrator” for “Secretary” wherever appearing, and added subsec. (b)(4). Former subsec. (b), which related to the encouragement of municipal, State, and interstate action to abate air pollution, was struck out.
 
 Subsec. (c). Pub. L. 91–604, §§4(b)(3), (6), 15(c)(2), redesignated former subsec. (d)(1)(D) as (c) and substituted “Administrator” for “Secretary” and “Secretary of Health, Education, and Welfare” wherever appearing and “subsection” for “subparagraph” wherever appearing. Former subsec. (c), which related to the procedure for the promulgation of State air quality standards, was struck out.
 

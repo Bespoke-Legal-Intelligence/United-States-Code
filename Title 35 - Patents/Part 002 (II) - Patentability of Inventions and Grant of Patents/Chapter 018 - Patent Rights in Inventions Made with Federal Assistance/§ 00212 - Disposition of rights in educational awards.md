@@ -1,6 +1,6 @@
 ### §212. Disposition of rights in educational awards
 
-No scholarship, fellowship, training grant, or other funding agreement made by a Federal agency primarily to an awardee for educationalpurposes will contain any provision giving the Federal agency any rights to inventions made by the awardee.
+No scholarship, fellowship, training grant, or other funding agreement made by a Federal agency primarily to an awardee for educational purposes will contain any provision giving the Federal agency any rights to inventions made by the awardee.
 
 (Added Pub. L. 98–620, title V, §501(14), Nov. 8, 1984, 98 Stat. 3368.)
 

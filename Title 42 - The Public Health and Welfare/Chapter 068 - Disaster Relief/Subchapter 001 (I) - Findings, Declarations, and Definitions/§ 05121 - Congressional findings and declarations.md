@@ -48,7 +48,7 @@ Pub. L. 109–139, §1, Dec. 22, 2005, 119 Stat. 2649, provided that: “This Ac
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–390, §1(a), Oct. 30, 2000, 114 Stat. 1552, provided that: “This Act \[enacting sections 5133, 5134, 5165to 5165c, 5205, and 5206 of this title, amending sections 3796b, 5122, 5154, 5170c, 5172, 5174, 5184, 5187, and 5192 of this title, repealing sections 5176 and 5178 of this title, and enacting provisions set out as notes under this section and sections 3796b, 5133, 5165b, 5172, 5174, and 5187 of this title\] may be cited as the ‘Disaster Mitigation Act of 2000’.”
+Pub. L. 106–390, §1(a), Oct. 30, 2000, 114 Stat. 1552, provided that: “This Act \[enacting sections 5133, 5134, 5165 to 5165c, 5205, and 5206 of this title, amending sections 3796b, 5122, 5154, 5170c, 5172, 5174, 5184, 5187, and 5192 of this title, repealing sections 5176 and 5178 of this title, and enacting provisions set out as notes under this section and sections 3796b, 5133, 5165b, 5172, 5174, and 5187 of this title\] may be cited as the ‘Disaster Mitigation Act of 2000’.”
 
 #### Short Title of 1993 Amendment
 
@@ -56,7 +56,7 @@ Pub. L. 103–181, §1, Dec. 3, 1993, 107 Stat. 2054, provided that: “This Act
 
 #### Short Title of 1988 Amendment
 
-Section 101(a) of title I of Pub. L. 100–707 provided that: “This title \[enacting sections 5141, 5153 to 5157, 5159 to 5164, 5170 to 5170c, 5172, 5174, 5178, 5189 to 5189b, and 5191 to 5193 of this title, amending this section, sections 1382a, 3030, 3231, 3232, 3539, 4003, 4013, 5122, 5131, 5143, 5144, 5147 to 5152, 5158, 5171, 5173, 5176, 5177, 5179 to 5188, 5201, 7704, and 9601 of this title, sections 1421, 1427, 1427a, 1961, 1964, and 2014 of Title 7, Agriculture, sections 1706c, 1709, and 1715<i>l</i> of Title 12, Banks and Banking, section 636 of Title 15, Commerce and Trade, sections 1536 and 3505 of Title 16, Conservation, sections 241–1 and 646 of Title 20, Education, section 125 of Title 23, Highways, sections 165, 5064, and 5708 of Title 26, Internal Revenue Code, section 701n of Title 33, Navigation and Navigable Waters, and section 1820 \[now 3720\] of Title 38, Veterans’ Benefits, repealing sections 5142, 5145, 5146, 5175, and 5202 of this title and former sections 5141, 5153 to 5157, 5172, 5174, 5178, and 5189 of this title, enacting provisions set out as notes under this section and sections 3231, 5122, and 5201 of this title, amending provisions set out as a note under this section and section 1681 of Title 48, Territories and Insular Possessions, and repealing provisions set out as notes under this section and former section 5178 of this title\] may be cited as ‘The Disaster Relief and Emergency Assistance Amendments of 1988’.”
+Section 101(a) of title I of Pub. L. 100–707 provided that: “This title \[enacting sections 5141, 5153 to 5157, 5159 to 5164, 5170 to 5170c, 5172, 5174, 5178, 5189 to 5189b, and 5191 to 5193 of this title, amending this section, sections 1382a, 3030, 3231, 3232, 3539, 4003, 4013, 5122, 5131, 5143, 5144, 5147 to 5152, 5158, 5171, 5173, 5176, 5177, 5179 to 5188, 5201, 7704, and 9601 of this title, sections 1421, 1427, 1427a, 1961, 1964, and 2014 of Title 7, Agriculture, sections 1706c, 1709, and 1715<i>l</i> of Title 12, Banks and Banking, section 636 of Title 15, Commerce and Trade, sections 1536 and 3505 of Title 16, Conservation, sections 241–1 and 646 of Title 20, Education, section 125 of Title 23, Highways, sections 165, 5064, and 5708 of Title 26, Internal Revenue Code, section 701n of Title 33, Navigation and Navigable Waters, and section 1820 \[now 3720\] of Title 38, Veterans’ Benefits, repealing sections 5142, 5145, 5146, 5175, and 5202 of this title and former sections 5141, 5153 to 5157, 5172, 5174, 5178, and 5189 of this title,enacting provisions set out as notes under this section and sections 3231, 5122, and 5201 of this title, amending provisions set out as a note under this section and section 1681 of Title 48, Territories and Insular Possessions, and repealing provisions set out as notes under this section and former section 5178 of this title\] may be cited as ‘The Disaster Relief and Emergency Assistance Amendments of 1988’.”
 
 #### Short Title of 1980 Amendment
 
@@ -102,7 +102,7 @@ Pub. L. 106–390, title III, §308, Oct. 30, 2000, 114 Stat. 1575, required the
 
 #### National Drought Policy
 
-Pub. L. 105–199, July 16, 1998, 112 Stat. 641, as amended by Pub. L. 106–78, title VII, §753, Oct. 22, 1999, 113 Stat.1170, known as the “National Drought Policy Act of 1998”, established the National Drought Policy Commission to study and submit a report on national drought policy and terminated the Commission 90 days after the submission of the report.
+Pub. L. 105–199, July 16, 1998, 112 Stat. 641, as amended by Pub. L. 106–78, title VII, §753, Oct. 22, 1999, 113 Stat. 1170, known as the “National Drought Policy Act of 1998”, established the National Drought Policy Commission to study and submit a report on national drought policy and terminated the Commission 90 days after the submission of the report.
 
 #### Recommendations Concerning Improvement of Relationships Among Disaster Management Officials
 
@@ -131,6 +131,8 @@ Sec. 3. The Secretary of Agriculture is designated and empowered to exercise, wi
 \[
 
 Sec. 4. Revoked by Ex. Ord. No. 12148, §5–111, July 20, 1979, 44 F.R. 43239.\]
+
+\[References to a “coupon” provided under the Food and Nutrition Act of 2008 considered to refer to a “benefit” under that Act, see section 4115(d) of Pub. L. 110–246, set out as a note under section 2012 of Title 7, Agriculture.\]
 
 #### Seismic Safety of Federal and Federally Assisted or Regulated New Building Construction
 

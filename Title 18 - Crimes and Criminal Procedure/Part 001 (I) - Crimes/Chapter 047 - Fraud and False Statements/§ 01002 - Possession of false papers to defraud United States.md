@@ -10,7 +10,7 @@ Based on title 18, U.S.C., 1940 ed., §74 (Mar. 4, 1909, ch. 321, §30, 35 Stat.
 
 Words “or any agency thereof” after “United States” and word “agency” after “any” and before “officer,” were inserted to eliminate any possible ambiguity as to scope of section. (See definition of “agency” in section 6 of this title.)
 
-The maximum fine of “$10,000” was substituted for “$500” in order to conform punishment provisions tothose of comparable sections. (See section 1001 of this title.)
+The maximum fine of “$10,000” was substituted for “$500” in order to conform punishment provisions to those of comparable sections. (See section 1001 of this title.)
 
 Minor verbal change was made.
 

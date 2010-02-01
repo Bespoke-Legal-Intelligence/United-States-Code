@@ -42,7 +42,7 @@ If an exchange would be within the provisions of subsection (a), of section 1035
 
 #### (c) Loss from exchanges not solely in kind
 
-If an exchange would be within the provisions of subsection (a), of section 1035(a), of section1036(a), or of section 1037(a), if it were not for the fact that the property received in exchange consists not only of property permitted by such provisions to be received without the recognition of gain or loss, but also of other property or money, then no loss from the exchange shall be recognized.
+If an exchange would be within the provisions of subsection (a), of section 1035(a), of section 1036(a), or of section 1037(a), if it were not for the fact that the property received in exchange consists not only of property permitted by such provisions to be received without the recognition of gain or loss, but also of other property or money, then no loss from the exchange shall be recognized.
 
 #### (d) Basis
 
@@ -226,7 +226,7 @@ Binding contract.—The amendments made by this section shall not apply to any t
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions ofthe Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -36,7 +36,7 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 #### (d) Branch of Criminal Investigations; establishment, responsibilities, regulations, personnel, etc.
 
-(1) The Secretary shall establish within the Division of Law Enforcement Services a separate Branch of Criminal Investigations which, under such inter-agency agreement as may be reached between the Secretary and appropriate agencies or officials of the Department of Justice and subject to such guidelines as may be adopted by relevant United States attorneys, shall be responsible for the investigation, and presentation for prosecution, of cases involvingviolations of sections 1152 and 1153 of title 18 within Indian country.
+(1) The Secretary shall establish within the Division of Law Enforcement Services a separate Branch of Criminal Investigations which, under such inter-agency agreement as may be reached between the Secretary and appropriate agencies or officials of the Department of Justice and subject to such guidelines as may be adopted by relevant United States attorneys, shall be responsible for the investigation, and presentation for prosecution, of cases involving violations of sections 1152 and 1153 of title 18 within Indian country.
 
 (2) The Branch of Criminal Investigations shall not be primarily responsible for the routine law enforcement and police operations of the Bureau in Indian country.
 

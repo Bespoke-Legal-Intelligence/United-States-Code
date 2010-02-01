@@ -12,10 +12,13 @@ Subpart I—Qualified Tax Credit Bonds
 | :--- | ---: |
 | [54D.](%C2%A7%2000054D%20-%20Qualified%20energy%20conservation%20bonds.md) | Qualified energy conservation bonds. |
 | [54E.](%C2%A7%2000054E%20-%20Qualified%20zone%20academy%20bonds.md) | Qualified zone academy bonds. |
+| [54F.](%C2%A7%2000054F%20-%20Qualified%20school%20construction%20bonds.md) | Qualified school construction bonds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–5, div. B, title I, §1521(b)(3), Feb. 17, 2009, 123 Stat. 357, added item 54F.
 
 2008—Pub. L. 110–343, div. B, title I, §107(b)(3), title III, §301(b)(3), div. C, title III, §313(b)(4), Oct. 3, 2008, 122 Stat. 3819, 3844, 3872, added items 54C to 54E.
 
@@ -31,3 +34,4 @@ Subpart I—Qualified Tax Credit Bonds
 - [&sect; 00054C - New clean renewable energy bonds](%C2%A7%2000054C%20-%20New%20clean%20renewable%20energy%20bonds.md)
 - [&sect; 00054D - Qualified energy conservation bonds](%C2%A7%2000054D%20-%20Qualified%20energy%20conservation%20bonds.md)
 - [&sect; 00054E - Qualified zone academy bonds](%C2%A7%2000054E%20-%20Qualified%20zone%20academy%20bonds.md)
+- [&sect; 00054F - Qualified school construction bonds](%C2%A7%2000054F%20-%20Qualified%20school%20construction%20bonds.md)

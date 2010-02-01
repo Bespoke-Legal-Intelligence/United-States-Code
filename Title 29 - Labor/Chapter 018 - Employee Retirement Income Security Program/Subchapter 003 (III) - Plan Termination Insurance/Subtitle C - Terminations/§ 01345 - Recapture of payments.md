@@ -12,7 +12,7 @@ For purposes of subsection (a) of this section the recoverable amount is the exc
 
 &emsp;(2) The amount determined under this paragraph is the sum of—
 
-&emsp;&emsp;(A) the sum of the amount such participant would have received during each consecutive 12-month period within the 3 yearsif the participant received the benefit in the form described in paragraph (3),
+&emsp;&emsp;(A) the sum of the amount such participant would have received during each consecutive 12-month period within the 3 years if the participant received the benefit in the form described in paragraph (3),
 
 &emsp;&emsp;(B) the sum for each of the consecutive 12-month periods of the lesser of—
 

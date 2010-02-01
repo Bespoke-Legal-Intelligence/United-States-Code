@@ -8,7 +8,7 @@
 
 #### (2) Contributions to budget
 
-&emsp;There are authorized to be appropriated to the President (or such agency as the President may designate) $2,000,000 for each of fiscal years 1994 and 1995 for United States contributions to the annual budget of the Commission for Labor Cooperation pursuant to Article 47 of the North American Agreement on Labor Cooperation. Funds authorized to be appropriated for such contributions by this paragraph are in addition to any funds otherwise available for such contributions. Funds authorized to be appropriated by this paragraph are authorized to be made available until expended.
+&emsp;There are authorized to be appropriated to the President (or such agency as the Presidentmay designate) $2,000,000 for each of fiscal years 1994 and 1995 for United States contributions to the annual budget of the Commission for Labor Cooperation pursuant to Article 47 of the North American Agreement on Labor Cooperation. Funds authorized to be appropriated for such contributions by this paragraph are in addition to any funds otherwise available for such contributions. Funds authorized to be appropriated by this paragraph are authorized to be made available until expended.
 
 #### (b) Definitions
 
@@ -16,7 +16,7 @@ As used in this section—
 
 &emsp;(1) the term “Commission for Labor Cooperation” means the commission established by Part Three of the North American Agreement on Labor Cooperation; and
 
-&emsp;(2) the term “North American Agreement on Labor Cooperation” means the North American Agreement on Labor Cooperation Between the Government of the United States of America, the Government of Canada, and the Government of the United Mexican States\(signed at Mexico City, Washington, and Ottawa on September 8, 9, 12, and 14, 1993).
+&emsp;(2) the term “North American Agreement on Labor Cooperation” means the North American Agreement on Labor Cooperation Between the Government of the United States of America, the Government of Canada, and the Government of the United Mexican States (signed at Mexico City, Washington, and Ottawa on September 8, 9, 12, and 14, 1993).
 
 (Pub. L. 103–182, title V, §531, Dec. 8, 1993, 107 Stat. 2163.)
 

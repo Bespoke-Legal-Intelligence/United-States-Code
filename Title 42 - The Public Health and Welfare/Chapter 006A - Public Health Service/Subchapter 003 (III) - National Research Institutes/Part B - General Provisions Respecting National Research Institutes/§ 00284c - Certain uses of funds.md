@@ -20,7 +20,7 @@
 
 1988—Subsec. (a)(1), (2). Pub. L. 100–607, §118(a), amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
-“(1)(A) For the National Cancer Institute (other than its programs under section 285a–1 of this title), there are authorized to be appropriated $1,194,000,000 for fiscalyear 1986, $1,270,000,000 for fiscal year 1987, and $1,344,000,000 for fiscal year 1988.
+“(1)(A) For the National Cancer Institute (other than its programs under section 285a–1 of this title), there are authorized to be appropriated $1,194,000,000 for fiscal year 1986, $1,270,000,000 for fiscal year 1987, and $1,344,000,000 for fiscal year 1988.
 
 “(B) For the programs under section 285a–1 of this title, there are authorized to be appropriated $68,000,000 for fiscal year 1986, $74,000,000 for fiscal year 1987, and $80,000,000 for fiscal year 1988.
 

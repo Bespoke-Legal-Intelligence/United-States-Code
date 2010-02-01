@@ -12,7 +12,7 @@ If the Secretary of the Interior determines that such action will facilitate sus
 
 Section 1181c of this title, referred to in first par., was repealed by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787.
 
-Acts of June 9, 1916, and February 26, 1919, referred to in text, are acts June 9, 1916, ch. 137, 39 Stat. 218 and Feb. 26, 1919, ch. 47, 40 Stat. 1179, respectively, which are not classified to the Code.
+Acts of June 9, 1916, and February 26, 1919, referred to in text, are acts June 9, 1916, ch. 137, 39 Stat. 218 andFeb. 26, 1919, ch. 47, 40 Stat. 1179, respectively, which are not classified to the Code.
 
 #### Repeals
 

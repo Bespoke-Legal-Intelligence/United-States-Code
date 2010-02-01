@@ -14,7 +14,7 @@ Notwithstanding any other provision of this chapter inconsistent with this secti
 
 #### (c) Required contract provisions
 
-Any contract for risk-sharing under this section shall contain such provisions relating to the sharing of premiums received by the Secretary with a private mortgage insurer or insured community development financial institution on a sound actuarial basis, establishment of loss reserves, manner of calculating claims on such risk-sharing contract, conditions with respect to foreclosure, handling and disposition of property prior to claim or settlement, rights of assignees, and other similar matters as the Secretary may prescribe pursuant to regulations. Pursuant to a contract under this section, a private mortgage insurance company or insured community development financial institution shall endorse loans for risk-sharing and take such other actions on behalf of the Secretary and in the Secretary's name as the Secretary may authorize.
+Any contract for risk-sharing under this section shall contain such provisions relating tothe sharing of premiums received by the Secretary with a private mortgage insurer or insured community development financial institution on a sound actuarial basis, establishment of loss reserves, manner of calculating claims on such risk-sharing contract, conditions with respect to foreclosure, handling and disposition of property prior to claim or settlement, rights of assignees, and other similar matters as the Secretary may prescribe pursuant to regulations. Pursuant to a contract under this section, a private mortgage insurance company or insured community development financial institution shall endorse loans for risk-sharing and take such other actions on behalf of the Secretary and in the Secretary's name as the Secretary may authorize.
 
 #### (d) Mortgages offered for inclusion by Secretary
 
@@ -78,7 +78,7 @@ Pub. L. 99–120 substituted “November 14, 1985” for “September 30, 1985�
 
 #### Evaluation of Reinsurance Program; Report to Congress
 
-Section 428(b) of Pub. L. 98–181 provided that: “The Secretary of Housing and Urban Development shall evaluate the reinsurance program under section 249 of the National Housing Act \[this section\] and, not later than March 1, 1985, submit to the Congress a report setting forth the results of such evaluation. Such report shall include an evaluation of the possible effect of a reinsurance program on the characteristics of the pool of mortgages remaining wholly under the applicable insurance funds and the actuarial soundness of such funds under such conditions.”
+Section 428(b) of Pub. L. 98–181 provided that: “The Secretary of Housing and Urban Development shall evaluate the reinsurance program under section 249 ofthe National Housing Act \[this section\] and, not later than March 1, 1985, submit to the Congress a report setting forth the results of such evaluation. Such report shall include an evaluation of the possible effect of a reinsurance program on the characteristics of the pool of mortgages remaining wholly under the applicable insurance funds and the actuarial soundness of such funds under such conditions.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -38,11 +38,11 @@ Participants in State Police Corps programs shall be selected on a competitive b
 
 #### (c) Recruitment of minorities
 
-Each State participating in the Police Corps program shall make special efforts to seek and recruit applicants from among members of all racial, ethnic or gender groups. This subsectiondoes not authorize an exception from the competitive standards for admission established pursuant to subsections (a) and (b) of this section.
+Each State participating in the Police Corps program shall make special efforts to seek and recruit applicants from among members of all racial, ethnic or gender groups. This subsection does not authorize an exception from the competitive standards for admission established pursuant to subsections (a) and (b) of this section.
 
 #### (d) Enrollment of applicant
 
-(1) An applicant shall be accepted into a State Police Corps program on the condition that the applicant will be matriculated in, or accepted for admission at, a 4-year institution of higher education—
+(1) An applicant shall be accepted into a State Police Corps program on the condition that the applicant will be matriculated in, or acceptedfor admission at, a 4-year institution of higher education—
 
 &emsp;(A) as a full-time student in an undergraduate program; or
 

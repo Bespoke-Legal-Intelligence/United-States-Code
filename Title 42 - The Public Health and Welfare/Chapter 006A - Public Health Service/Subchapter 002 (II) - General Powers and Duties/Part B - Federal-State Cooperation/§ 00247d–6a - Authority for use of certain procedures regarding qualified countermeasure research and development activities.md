@@ -12,7 +12,7 @@
 
 #### (A) Qualified countermeasure
 
-&emsp;&emsp;The term “qualified countermeasure” means a drug (as that term is defined by section 321(g)(1) of title 21), biological product (as that term is defined by section 262(i) of this title), or device (as that term is defined by section 321(h) of title 21), that the Secretary determines to be a priority (consistent with sections 182(2) and 184(a) of title 6) to—
+&emsp;&emsp;The term “qualified countermeasure” means a drug (as that term is defined by section 321(g)(1) of title 21), biological product (as that term is defined by section 262(i) ofthis title), or device (as that term is defined by section 321(h) of title 21), that the Secretary determines to be a priority (consistent with sections 182(2) and 184(a) of title 6) to—
 
 &emsp;&emsp;&emsp;(i) diagnose, mitigate, prevent, or treat harm from any biological agent (including organisms that cause an infectious disease) or toxin, chemical, radiological, or nuclear agent that may cause a public health emergency affecting national security; or
 
@@ -54,7 +54,7 @@
 
 #### (B) Application of certain provisions
 
-&emsp;&emsp;Notwithstanding subparagraph (A) and the provision of law and regulations referred toin such subparagraph, each of the following provisions shall apply to procurements described in this paragraph to the same extent that such provisions would apply to such procurements in the absence of subparagraph (A):
+&emsp;&emsp;Notwithstanding subparagraph (A) and the provision of law and regulations referred to in such subparagraph, each of the following provisions shall apply to procurements described in this paragraph to the same extent that such provisions would apply to such procurements in the absence of subparagraph (A):
 
 &emsp;&emsp;&emsp;(i) Chapter 37 of title 40 (relating to contract work hours and safety standards).
 
@@ -82,7 +82,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In using the authority provided in section 253(c)(1) of title 41 to use procedures other than competitive procedures in the case of a procurement described in paragraph (1) of this subsection, the phrase “available from only one responsible source” in such section 253(c)(1) shall be deemed to mean “available from only one responsible source or only from a limited number of responsible sources”.
+&emsp;&emsp;In using the authority provided in section 253(c)(1) of title 41 to use procedures other than competitive procedures in the case of a procurement described in paragraph (1) of this subsection, the phrase “available fromonly one responsible source” in such section 253(c)(1) shall be deemed to mean “available from only one responsible source or only from a limited number of responsible sources”.
 
 #### (B) Relation to other authorities
 
@@ -148,7 +148,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A person carrying out a contract under paragraph (1), and an officer, employee, or governing board member of such person, shall, subject to a determination by the Secretary, be deemed to be an employee of the Department of Health and Human Services for purposes of claims under sections 1346(b) and 2672 of title 28 for money damages for personal injury, including death, resulting from performance of functions under such contract.
+&emsp;&emsp;A person carrying out a contract under paragraph (1), and an officer, employee, or governing board member of such person, shall, subject to a determination by the Secretary, be deemed to be an employee of theDepartment of Health and Human Services for purposes of claims under sections 1346(b) and 2672 of title 28 for money damages for personal injury, including death, resulting from performance of functions under such contract.
 
 #### (B) Exclusivity of remedy
 
@@ -212,7 +212,7 @@ Actions by the Secretary under the authority of this section are committed to ag
 
 The Project BioShield Act of 2004, referred to in subsec. (b)(1)(D), is Pub. L. 108–276, July 21, 2004, 118 Stat. 835. For complete classification of this Act to the Code, see Short Title of 2004 Amendments note set out under section 201 of this title and Tables.
 
-The Federal Tort Claims Act, referred to in subsec. (d)(2), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (d)(2), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. Forcomplete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (e)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
@@ -264,7 +264,7 @@ Limitation.—The Secretary may not require participants to disclose confidentia
 
 &emsp;&emsp;“(D)
 
-Transcript.—The Secretary shall maintain a complete verbatim transcript of each meeting orconsultation conducted under this subsection. Such transcript (or a portion thereof) shall not be disclosed under section 552 of title 5, United States Code, to the extent that the Secretary, in consultation with the Attorney General and the Secretary of Homeland Security, determines that disclosure of such transcript (or portion thereof) would pose a threat to national security. The transcript (or portion thereof) with respect to which the Secretary has made such a determination shall be deemed to be information described in subsection (b)(3) of such section 552.
+Transcript.—The Secretary shall maintain a complete verbatim transcript of each meeting or consultation conducted under this subsection. Such transcript (or a portion thereof) shall not be disclosed under section 552 of title 5, United States Code, to the extent that the Secretary, in consultation with the Attorney General and the Secretary of Homeland Security, determines that disclosure of such transcript (or portion thereof) would pose a threat to national security. The transcript (or portion thereof) with respect to which the Secretary has made such a determination shall be deemed to be information described in subsection (b)(3) of such section 552.
 
 &emsp;&emsp;“(E)
 
@@ -310,7 +310,7 @@ Extension.—The Attorney General may extend the 15-day period referred to in su
 
 &emsp;&emsp;“(C)
 
-Determination.—An exemption shall be granted regarding a written agreement submitted in accordance with paragraph (2) only to the extent that the Attorney General, in consultation with the Chairman and the Secretary, finds that the conduct that will be exempted will not have any substantial anticompetitive effect that is not reasonably necessary for ensuring the availability of the countermeasure or product involved.
+Determination.—An exemption shall be granted regarding a written agreement submitted in accordance with paragraph (2) only to the extentthat the Attorney General, in consultation with the Chairman and the Secretary, finds that the conduct that will be exempted will not have any substantial anticompetitive effect that is not reasonably necessary for ensuring the availability of the countermeasure or product involved.
 
 &emsp;“(5)
 

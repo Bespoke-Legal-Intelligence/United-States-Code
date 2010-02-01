@@ -56,7 +56,7 @@ Any proceeding conducted with respect to an initial determination on a claim und
 
 #### (i) Judicial review
 
-Any claimant or other person who suffers a legal wrong or who is adversely affected or aggrieved by a final determination of the Secretary under subsection (d) of this section, may, no later than 30 days after such determination is made, seek judicial review of the determination in the United States district court for such United States judicial district as may be mutually agreeable to the parties concerned or, if no agreement can be reached, in the United States district court for the United States judicial district in which is located the home port of the claimant.
+Any claimant or other person who suffers a legal wrong or who is adversely affected or aggrieved by a final determination of the Secretary under subsection (d) of this section, may, no later than 30 days after such determination is made, seek judicial review of the determination in the United States district court for such United States judicial district as may be mutually agreeable to the parties concerned or, if noagreement can be reached, in the United States district court for the United States judicial district in which is located the home port of the claimant.
 
 (Pub. L. 95–372, title IV, §405, Sept. 18, 1978, 92 Stat. 688; Pub. L. 97–212, §5, June 30, 1982, 96 Stat. 145; Pub. L. 98–498, title IV, §420(3), (4), Oct. 19, 1984, 98 Stat. 2309, 2310.)
 
@@ -66,7 +66,7 @@ Section 1847 of this title, referred to in subsec. (f)(2), was repealed by Pub. 
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–498 substituted “under subsection (d)(1) of this section” for “, except that nosuch claim may be filed more than 60 days after the date of discovery of the damages with respect to which such claim is made”.
+1984—Subsec. (a). Pub. L. 98–498 substituted “under subsection (d)(1) of this section” for “, except that no such claim may be filed more than 60 days after the date of discovery of the damages with respect to which such claim is made”.
 
 Subsec. (d)(1). Pub. L. 98–498 inserted “time,” before “form”.
 

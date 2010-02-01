@@ -26,11 +26,11 @@ Of the amounts appropriated under subsection (a) of this section for each fiscal
 
 Federal funds made available to a State under this chapter shall be used to supplement and not supplant other Federal, State, and local public funds expended to provide services and activities that promote the purposes of this chapter.
 
-(Pub. L. 98–457, title III, §310, Oct. 9, 1984, 98 Stat. 1763; Pub. L. 100–294, title III, §301, Apr. 25, 1988, 102 Stat. 124; Pub. L. 102–295, title III, §316, May 28, 1992, 106 Stat. 206; Pub. L. 103–322, title IV, §40241, Sept. 13, 1994, 108 Stat. 1934; Pub. L. 104–235, title II, §203, Oct. 3, 1996, 110 Stat. 3089; Pub. L. 106–386, div. B, title II, §1202(a), Oct. 28, 2000, 114 Stat. 1505; Pub. L. 108–36, title IV, §406(a), (b), June 25, 2003, 117 Stat. 827.)
+(Pub. L. 98–457, title III, §310, Oct. 9, 1984, 98 Stat. 1763; Pub. L. 100–294, title III, §301, Apr. 25, 1988, 102 Stat. 124; Pub. L. 102–295, title III, §316,May 28, 1992, 106 Stat. 206; Pub. L. 103–322, title IV, §40241, Sept. 13, 1994, 108 Stat. 1934; Pub. L. 104–235, title II, §203, Oct. 3, 1996, 110 Stat. 3089; Pub. L. 106–386, div. B, title II, §1202(a), Oct. 28, 2000, 114 Stat. 1505; Pub. L. 108–36, title IV, §406(a), (b), June 25, 2003, 117 Stat. 827.)
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–36, §406(a), reenacted heading without change and amended text of subsec. (a)generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this chapter $175,000,000 for each of fiscal years 2001 through 2005.”
+2003—Subsec. (a). Pub. L. 108–36, §406(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this chapter $175,000,000 for each of fiscal years 2001 through 2005.”
 
 Subsecs. (b) to (d). Pub. L. 108–36, §406(b), inserted “(and not reserved under subsection (a)(2) of this section)” after “each fiscal year”.
 

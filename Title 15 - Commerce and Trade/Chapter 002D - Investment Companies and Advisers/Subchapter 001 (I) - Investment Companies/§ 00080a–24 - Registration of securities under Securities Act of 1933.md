@@ -2,7 +2,7 @@
 
 #### (a) Registration statement; contents
 
-In registering under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], any security of which itis the issuer, a registered investment company, in lieu of furnishing a registration statement containing the information and documents specified in schedule A of said Act \[15 U.S.C. 77aa\], may file a registration statement containing the following information and documents:
+In registering under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], any security of which it is the issuer, a registered investment company, in lieu of furnishing a registration statement containing the information and documents specified in schedule A of said Act \[15 U.S.C. 77aa\], may file a registration statement containing the following information and documents:
 
 &emsp;(1) such copies of the registration statement filed by such company under this subchapter, and of such reports filed by such company pursuant to section 80a–29 of this title or such copies of portions of such registration statement and reports, as the Commission shall designate by rules and regulations; and
 
@@ -104,5 +104,5 @@ Amendment by act Aug. 10, 1954, effective sixty days after Aug. 10, 1954, see no
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

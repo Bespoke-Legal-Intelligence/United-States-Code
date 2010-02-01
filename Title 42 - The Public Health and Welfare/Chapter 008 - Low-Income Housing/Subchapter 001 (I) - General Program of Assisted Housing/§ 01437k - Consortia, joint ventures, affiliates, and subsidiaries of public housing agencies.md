@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) any assistance made available under this subchapter to each of the public housing agencies participating in the consortium shall be paid to the consortium; and
 
-&emsp;&emsp;(B) all planning and reporting requirements imposed upon each public housing agency participating in the consortium with respect to the programs operated by the consortium shall be consolidated.
+&emsp;&emsp;(B) all planning and reporting requirements imposed upon each public housingagency participating in the consortium with respect to the programs operated by the consortium shall be consolidated.
 
 #### (3) Restrictions
 
@@ -58,7 +58,7 @@ A prior section 13 of act Sept. 1, 1937, ch. 896, 50 Stat. 894, as amended, enum
 
 #### Amendments
 
-1998—Pub. L. 105–276 amended section catchline and text of section generally. Prior to amendment, textread as follows: “The Secretary shall, to the maximum extent practicable, require that newly constructed and substantially rehabilitated projects assisted under this chapter with authority provided on or after October 1, 1979, shall be equipped with heating and cooling systems selected on the basis of criteria which include a life-cycle cost analysis of such systems.”
+1998—Pub. L. 105–276 amended section catchline and text of section generally. Prior to amendment, text read as follows: “The Secretary shall, to the maximum extent practicable, require that newly constructed and substantially rehabilitated projects assisted under this chapter with authority provided on or after October 1, 1979, shall be equipped with heating and cooling systems selected on the basis of criteria which include a life-cycle cost analysis of such systems.”
 
 1980—Pub. L. 96–399 struck out subsec. (a) which related to consideration by the Secretary, in utilizing contract authority, of projects which will be modernized to a substantial extent with weatherization materials as defined in section 6862(9) of this title, and redesignated former subsec. (b) as entire section.
 

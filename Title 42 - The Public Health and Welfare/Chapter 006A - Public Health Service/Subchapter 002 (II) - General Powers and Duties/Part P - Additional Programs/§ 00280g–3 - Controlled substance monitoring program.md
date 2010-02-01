@@ -118,7 +118,7 @@ In implementing or improving a controlled substance monitoring program under thi
 
 &emsp;&emsp;(J) Such other information as may be required by State law to be reported under this subsection.
 
-&emsp;(4) The State shall require dispensers to report information under this section in accordance with the electronic format specified by the Secretary under subsection (h) of this section, except that the State may waive the requirement of such format with respect to anindividual dispenser that is unable to submit such information by electronic means.
+&emsp;(4) The State shall require dispensers to report information under this section in accordance with the electronic format specified by the Secretary under subsection (h) of this section, except that the State may waive the requirement of such format with respect to an individual dispenser that is unable to submit such information by electronic means.
 
 #### (e) Database
 
@@ -226,7 +226,7 @@ The Secretary shall specify a uniform electronic format for the reporting, shari
 
 &emsp;&emsp;&emsp;(iv) determines the feasibility of implementing a real-time electronic controlled substance monitoring program, including the costs associated with establishing such a program;
 
-&emsp;&emsp;&emsp;(v) provides an analysis of the privacy protections in place for the information reported to the controlled substance monitoring program in each State receiving a grant for the establishment or operation of such program, and any recommendations for additional requirements for protection of this information;
+&emsp;&emsp;&emsp;(v) provides an analysis of the privacy protections in place for the informationreported to the controlled substance monitoring program in each State receiving a grant for the establishment or operation of such program, and any recommendations for additional requirements for protection of this information;
 
 &emsp;&emsp;&emsp;(vi) determines the feasibility of implementing technological alternatives to centralized data storage, such as peer-to-peer file sharing or data pointer systems, in controlled substance monitoring programs and the potential for such alternatives to enhance the privacy and security of individually identifiable data; and
 
@@ -264,7 +264,7 @@ For purposes of this section:
 
 &emsp;(4) The term “dispenser” means a physician, pharmacist, or other person that dispenses a controlled substance to an ultimate user.
 
-&emsp;(5) The term “interoperability” with respect to a State controlled substance monitoringprogram means the ability of the program to electronically share reported information, including each of the required report components described in subsection (d) of this section, with another State if the information concerns either the dispensing of a controlled substance to an ultimate user who resides in such other State, or the dispensing of a controlled substance prescribed by a practitioner whose principal place of business is located in such other State.
+&emsp;(5) The term “interoperability” with respect to a State controlled substance monitoring program means the ability of the program to electronically share reported information, including each of the required report components described in subsection (d) of this section, with another State if the information concerns either the dispensing of a controlled substance to an ultimate user who resides in such other State, or the dispensing of a controlled substance prescribed by a practitioner whose principal place of business is located in such other State.
 
 &emsp;(6) The term “nonidentifiable information” means information that does not identify a practitioner, dispenser, or an ultimate user and with respect to which there is no reasonable basis to believe that the information can be used to identify a practitioner, dispenser, or an ultimate user.
 

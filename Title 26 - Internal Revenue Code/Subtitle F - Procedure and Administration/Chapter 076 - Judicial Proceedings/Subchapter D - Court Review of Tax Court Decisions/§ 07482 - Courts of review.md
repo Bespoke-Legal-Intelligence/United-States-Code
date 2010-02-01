@@ -32,11 +32,11 @@
 
 &emsp;&emsp;(A) in the case of a petitioner seeking redetermination of tax liability other than a corporation, the legal residence of the petitioner,
 
-&emsp;&emsp;(B) in the case of a corporation seeking redetermination of tax liability, the principal place of business or principal office or agency of the corporation, or, if it has no principal place of business or principal office or agency in any judicial circuit, then the office to which was made the return of the tax in respect of which the liability arises,
+&emsp;&emsp;(B) in the case of a corporation seeking redetermination of tax liability, the principalplace of business or principal office or agency of the corporation, or, if it has no principal place of business or principal office or agency in any judicial circuit, then the office to which was made the return of the tax in respect of which the liability arises,
 
 &emsp;&emsp;(C) in the case of a person seeking a declaratory decision under section 7476, the principal place of business, or principal office or agency of the employer,
 
-&emsp;&emsp;(D) in the case of an organization seeking a declaratory decision under section 7428,the principal office or agency of the organization,
+&emsp;&emsp;(D) in the case of an organization seeking a declaratory decision under section 7428, the principal office or agency of the organization,
 
 &emsp;&emsp;(E) in the case of a petition under section 6226, 6228(a), 6247, or 6252, the principal place of business of the partnership, or
 
@@ -112,7 +112,7 @@ Subsec. (b)(1). Pub. L. 94–455, §§1042(d)(2)(B), 1306(b)(5), in provisions f
 
 Subsec. (b)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1974—Subsec. (b)(1). Pub. L. 93–406 added subpar. (C) and, in provisions following subpar. (C), substituted “If for any reason subparagraph (A), (B), and (C) do notapply” for “If for any reason neither subparagraph (A) nor (B) applies”, and inserted provisions referring to the time the petition seeking a declaratory decision under section 7476 was filed with the Tax Court.
+1974—Subsec. (b)(1). Pub. L. 93–406 added subpar. (C) and, in provisions following subpar. (C), substituted “If for any reason subparagraph (A), (B), and (C) do not apply” for “If for any reason neither subparagraph (A) nor (B) applies”, and inserted provisions referring to the time the petition seeking a declaratory decision under section 7476 was filed with the Tax Court.
 
 1969—Subsec. (c). Pub. L. 91–172 substituted “section 2072 of title 28” for “section 2074 of title 28” in par. (2) and struck out provision for the applicability of rules adopted under authority of section 1141(c)(2) of the Internal Revenue Act of 1939 until such time as rules prescribed by the Supreme Court under section 2072 of title 28 become effective and, in par. (4), substituted “notice of appeal” for “petition”.
 

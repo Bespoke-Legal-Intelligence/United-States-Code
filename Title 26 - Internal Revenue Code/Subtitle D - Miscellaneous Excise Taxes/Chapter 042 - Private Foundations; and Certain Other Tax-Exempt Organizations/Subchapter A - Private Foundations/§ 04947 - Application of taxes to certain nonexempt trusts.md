@@ -10,7 +10,7 @@
 
 &emsp;In the case of a trust which is not exempt from tax under section 501(a), not all of the unexpired interests in which are devoted to one or more of the purposes described in section 170(c)(2)(B), and which has amounts in trust for which a deduction was allowed under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522, section 507 (relating to termination of private foundation status), section 508(e) (relating to governing instruments) to the extent applicable to a trust described in this paragraph, section 4941 (relating to taxes on self-dealing), section 4943 (relating to taxes on excess business holdings) except as provided in subsection (b)(3), section 4944 (relating to investments which jeopardize charitable purpose) except as provided in subsection (b)(3), and section 4945 (relating to taxes on taxable expenditures) shall apply as if such trust were a private foundation. This paragraph shall not apply with respect to—
 
-&emsp;&emsp;(A) any amounts payable under the terms of such trust to income beneficiaries, unless a deduction was allowed under section 170(f)(2)(B), 2055(e)(2)(B), or 2522(c)(2)(B),
+&emsp;&emsp;(A) any amounts payable under the terms of such trust to income beneficiaries, unless a deduction was allowed under section 170(f)(2)(B), 642(c), 2055(e)(2)(B), or 2522(c)(2)(B),
 
 &emsp;&emsp;(B) any amounts in trust other than amounts for which a deduction was allowed under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522, if such other amounts are segregated from amounts for which no deduction was allowable, or
 
@@ -34,7 +34,7 @@
 
 &emsp;Sections 4943 and 4944 shall not apply to a trust which is described in subsection (a)(2) if—
 
-&emsp;&emsp;(A) all the income interest (and none of the remainder interest) of such trust is devoted solely to one or more of the purposes described in section 170(c)(2)(B), and allamounts in such trust for which a deduction was allowed under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522 have an aggregate value not more than 60 percent of the aggregate fair market value of all amounts in such trusts, or
+&emsp;&emsp;(A) all the income interest (and none of the remainder interest) of such trust is devoted solely to one or more of the purposes described in section 170(c)(2)(B), and all amounts in such trust for which a deduction was allowed under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522 have an aggregate value not more than 60 percent of the aggregate fair market value of all amounts in such trusts, or
 
 &emsp;&emsp;(B) a deduction was allowed under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522 for amounts payable under the terms of such trust to every remainder beneficiary but not to any income beneficiary.
 
@@ -44,13 +44,15 @@
 
 (Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 517; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XV, §1530(c)(9), Aug. 5, 1997, 111 Stat. 1079; Pub. L. 107–16, title V, §542(e)(4), June 7, 2001, 115 Stat. 85; Pub. L. 108–357, title IV, §413(c)(30), Oct. 22, 2004, 118 Stat. 1509.)
 
-#### Amendment of Subsection (a)(2)(A)
+#### Amendment of Section
 
-<i>Pub. L. 107–16, title V, §542(e)(4), (f)(3), title IX, §901, June 7, 2001, 115 Stat. 85, 86, 150, provided that, applicable to deductions for taxable years beginning after Dec. 31, 2009, subsection (a)(2)(A) of this section is temporarily amended by inserting “642(c),” after “170(f)(2)(B),”. See Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
 2004—Subsecs. (a)(1), (2), (b)(3). Pub. L. 108–357 struck out “556(b)(2),” after “545(b)(2),” wherever appearing.
+
+2001—Subsec. (a)(2)(A). Pub. L. 107–16, §§542(e)(4), 901, temporarily inserted “642(c),” after “170(f)(2)(B),”. See Effective and Termination Dates of 2001 Amendment note below.
 
 1997—Subsec. (b)(4). Pub. L. 105–34 added par. (4).
 

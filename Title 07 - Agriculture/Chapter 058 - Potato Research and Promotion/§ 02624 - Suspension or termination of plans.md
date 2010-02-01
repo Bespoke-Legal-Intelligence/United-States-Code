@@ -20,7 +20,7 @@ This chapter, referred to in subsec. (c), was in the original “this part”, a
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–624, §1945(1), inserted “, or of the total number of producers and importers when importers are subject to a plan,” after first reference to “potato producers”, “and importers” after second reference to “potato producers”, and “and import” after “produce”, and substituted “and imported by those voting in the referendum” for “by the potato producers voting in the referendum”.
+1990—Subsec. (b). Pub. L. 101–624, §1945(1), inserted “, or of the total number of producers and importers when importers are subject to a plan,” after first reference to “potato producers”, “and importers” aftersecond reference to “potato producers”, and “and import” after “produce”, and substituted “and imported by those voting in the referendum” for “by the potato producers voting in the referendum”.
 
 Subsec. (c). Pub. L. 101–624, §1945(2), added subsec. (c).
 

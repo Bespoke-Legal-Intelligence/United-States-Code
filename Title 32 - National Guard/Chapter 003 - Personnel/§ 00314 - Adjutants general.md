@@ -8,7 +8,7 @@
 
 (d) The adjutant general of each State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands, and officers of the National Guard, shall make such returns and reports as the Secretary of the Army or the Secretary of the Air Force may prescribe, and shall make those returns and reports to the Secretary concerned or to any officer designated by him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 604; Pub. L. 85–894, Sept. 2, 1958, 72 Stat. 1713; Pub. L. 100–456, div. A, title XII, §1234(b)(1), (5), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XIII, §1322(b), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–190, div. A, title V, §553, Dec. 5, 1991, 105 Stat. 1371; Pub. L. 109–163, div. A, title X, §1057(b)(2), Jan. 6, 2006, 119 Stat. 3441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 604; Pub. L. 85–894, Sept. 2, 1958, 72 Stat. 1713; Pub. L. 100–456,div. A, title XII, §1234(b)(1), (5), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XIII, §1322(b), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–190, div. A, title V, §553, Dec. 5, 1991, 105 Stat. 1371; Pub. L. 109–163, div. A, title X, §1057(b)(2), Jan. 6, 2006, 119 Stat. 3441.)
 
 Historical and Revision Notes
 

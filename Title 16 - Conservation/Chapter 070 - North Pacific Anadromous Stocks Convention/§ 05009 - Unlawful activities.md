@@ -10,7 +10,7 @@ It is unlawful for any person or fishing vessel subject to the jurisdiction of t
 
 &emsp;(4) to ship, transport, offer for sale, sell, purchase, import, export, or have custody, control, or possession of, any anadromous fish taken or retained in violation of the Convention, this chapter, or any regulation issued under this chapter;
 
-&emsp;(5) to refuse to permit any enforcement officer to board a fishing vessel subject to such person's control for purposes of conducting any search or inspection in connection with the enforcement of the Convention, this chapter, or any regulation issued under this chapter;
+&emsp;(5) to refuse to permit any enforcement officer to board a fishing vessel subject to suchperson's control for purposes of conducting any search or inspection in connection with the enforcement of the Convention, this chapter, or any regulation issued under this chapter;
 
 &emsp;(6) to forcibly assault, resist, oppose, impede, intimidate, or interfere with any enforcement officer in the conduct of any search or inspection described in paragraph (5);
 

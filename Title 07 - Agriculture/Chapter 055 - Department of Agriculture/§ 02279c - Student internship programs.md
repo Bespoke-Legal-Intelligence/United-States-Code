@@ -48,7 +48,7 @@
 
 #### (5) Cost reimbursement
 
-&emsp;From such amounts as the Secretary determines are available each fiscal year for internship programs, and subject to such regulationsas the Secretary may issue, the Secretary may reimburse a cooperating association for the Department share of all direct and indirect costs of an internship program, including student stipends, transportation costs to the internship site, and other costs of an internship program.
+&emsp;From such amounts as the Secretary determines are available each fiscal year for internship programs, and subject to such regulations as the Secretary may issue, the Secretary may reimburse a cooperating association for the Department share of all direct and indirect costs of an internship program, including student stipends, transportation costs to the internship site, and other costs of an internship program.
 
 #### (6) Lead agency
 

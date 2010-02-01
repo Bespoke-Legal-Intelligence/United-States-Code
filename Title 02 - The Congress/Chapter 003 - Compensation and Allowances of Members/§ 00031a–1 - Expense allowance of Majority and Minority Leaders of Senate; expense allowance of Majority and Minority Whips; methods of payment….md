@@ -18,7 +18,7 @@ Section is based on the three provisos in paragraph under heading “Expense All
 
 1983—Pub. L. 98–63 substituted provisions increasing allowances for each Whip to $5,000 each fiscal year, effective fiscal year 1983 and each fiscal year thereafter, for provisions authorizing not to exceed $2,500 each fiscal year for each Whip, effective Apr. 1, 1977.
 
-1978—Pub. L. 95–355 substituted provisions increasing allowances for each leader to $10,000 each fiscal year, effective fiscal year 1978 and each fiscal year thereafter, for provisions authorizing not to exceed $5,000 each fiscal year for each leader, effective with fiscal year 1977 and each fiscal year thereafter.
+1978—Pub. L. 95–355 substituted provisions increasing allowances for each leader to $10,000 each fiscal year,effective fiscal year 1978 and each fiscal year thereafter, for provisions authorizing not to exceed $5,000 each fiscal year for each leader, effective with fiscal year 1977 and each fiscal year thereafter.
 
 #### Effective Date of 2004 Amendment
 

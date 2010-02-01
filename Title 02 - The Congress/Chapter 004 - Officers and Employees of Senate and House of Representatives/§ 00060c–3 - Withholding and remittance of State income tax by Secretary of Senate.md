@@ -8,7 +8,7 @@ Whenever—
 
 &emsp;(2) such duty to withhold is imposed generally with respect to the compensation of employees who are residents of such State;
 
-> then the Secretary of the Senate is authorized, in accordance with the provisions of this section to enter into an agreement with the appropriate official of that State to provide for the withholding and remittance of sums for individuals—
+> then the Secretary of the Senate is authorized, in accordance with the provisions of this section, to enter into an agreement with the appropriate official of that State to provide for the withholding and remittance of sums for individuals—
 
 &emsp;(A) whose pay is disbursed by the Secretary; and
 

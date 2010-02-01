@@ -50,7 +50,7 @@ The Secretary is authorized to accept non-Federal funds to finance education act
 
 #### Amendments
 
-2005—Subsec. (a)(14) to (17). Pub. L. 109–58, which directed amendment of this section by adding pars. (14) to (17) at the end, was executed by making the addition at the end of subsec. (a), to reflect the probable intent of Congress.
+2005—Subsec. (a)(14) to (17). Pub. L. 109–58, which directed amendment of this section by adding pars. (14)to (17) at the end, was executed by making the addition at the end of subsec. (a), to reflect the probable intent of Congress.
 
 1991—Subsec. (a). Pub. L. 102–25, §704(d)(1), redesignated subpars. (J) to (M) as pars. (10) to (13), respectively.
 

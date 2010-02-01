@@ -11,6 +11,7 @@ subpart ii—block grants for prevention and treatment of substance abuse
 - [&sect; 00300x&#8211;24 - Requirements regarding tuberculosis and human immunodeficiency virus](%C2%A7%2000300x%E2%80%9324%20-%20Requirements%20regarding%20tuberculosis%20and%20human%20immunodeficiency%20virus.md)
 - [&sect; 00300x&#8211;25 - Group homes for recovering substance abusers](%C2%A7%2000300x%E2%80%9325%20-%20Group%20homes%20for%20recovering%20substance%20abusers.md)
 - [&sect; 00300x&#8211;26 - State law regarding sale of tobacco products to individuals under age of 18](%C2%A7%2000300x%E2%80%9326%20-%20State%20law%20regarding%20sale%20of%20tobacco%20products%20to%20individuals%20under%20age%20of%2018.md)
+- [&sect; 00300x&#8211;26a - Withholding of substance abuse funding under section 300x&#8211;26](%C2%A7%2000300x%E2%80%9326a%20-%20Withholding%20of%20substance%20abuse%20funding%20under%20section%20300x%E2%80%9326.md)
 - [&sect; 00300x&#8211;27 - Treatment services for pregnant women](%C2%A7%2000300x%E2%80%9327%20-%20Treatment%20services%20for%20pregnant%20women.md)
 - [&sect; 00300x&#8211;28 - Additional agreements](%C2%A7%2000300x%E2%80%9328%20-%20Additional%20agreements.md)
 - [&sect; 00300x&#8211;29 - Submission to Secretary of statewide assessment of needs](%C2%A7%2000300x%E2%80%9329%20-%20Submission%20to%20Secretary%20of%20statewide%20assessment%20of%20needs.md)

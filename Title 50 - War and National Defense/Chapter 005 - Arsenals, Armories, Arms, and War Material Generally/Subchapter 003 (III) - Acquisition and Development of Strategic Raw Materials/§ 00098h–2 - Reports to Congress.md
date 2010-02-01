@@ -30,9 +30,9 @@ Provisions similar to those in this section were contained in former section 98c
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a)(1). Pub. L. 103–35 substituted “fiscal year” for “six-month period”.
+1993—Subsec. (a)(1). Pub. L. 103–35 substituted “fiscal year” for “six-month period”.
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–190, §3313(a)(1), substituted “Not later than January 15 of each year, the President” for “The President” and “an annual” for “every six months a”.
+1991—Subsec. (a). Pub. L. 102–190, §3313(a)(1), substituted “Not later than January 15 of each year, the President” for “The President” and “an annual” for “every six months a”.
 
 Subsec. (a)(1). Pub. L. 102–190, §3313(a)(2), which directed the substitution of “fiscal year” for “6-month period”, could not be executed because the words “6-month period” did not appear in text.
 
@@ -46,17 +46,17 @@ Subsec. (b)(2). Pub. L. 102–190, §3311(b), designated second sentence of subs
 
 Subsec. (b)(3). Pub. L. 102–190, §3311(b)(1), designated third sentence of subsec. (b) relating to resubmission of proposed expenditures and disposals not obligated or executed as par. (3).
 
-<b>1989</b>—Subsec. (a)(5). Pub. L. 101–189 substituted “made to the fund, and obligations to be made from the fund,” for “made from the fund”.
+1989—Subsec. (a)(5). Pub. L. 101–189 substituted “made to the fund, and obligations to be made from the fund,” for “made from the fund”.
 
-<b>1988</b>—Subsec. (a)(3) to (6). Pub. L. 100–456, §1503(a), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
+1988—Subsec. (a)(3) to (6). Pub. L. 100–456, §1503(a), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
 
 Subsec. (b). Pub. L. 100–456, §1503(b), substituted “the next fiscal year” for “such fiscal year” and “all planned expenditures from the National Defense Stockpile Transaction Fund” for “planned expenditures for acquisition of strategic and critical materials” and inserted at end “Any proposed expenditure or disposal detailed in the annual materials plan for any such fiscal year, and any expenditure or disposal proposed in connection with any transaction submitted for such fiscal year to the appropriate committees of Congress pursuant to section 98d(a)(2) of this title, that is not obligated or executed in that fiscal year may not be obligated or executed until such proposed expenditure or disposal is resubmitted in a subsequent annual materials plan or is resubmitted to the appropriate committees of Congress in accordance with section 98d(a)(2) of this title, as appropriate.”
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–180 substituted “Not later than February 15 of each year, the President” for “The President” and struck out “each year, at the time that the Budget is submitted to Congress pursuant to section 1105 of title 31 for the next fiscal year,” after “Congress”.
+1987—Subsec. (b). Pub. L. 100–180 substituted “Not later than February 15 of each year, the President” for “The President” and struck out “each year, at the time that the Budget is submitted to Congress pursuant to section 1105 of title 31 for the next fiscal year,” after “Congress”.
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–661 substituted “each year, at the time that the Budget is submitted to Congress pursuant to section 1105 of title 31 for the next fiscal year,” for each year with the Budget submitted to Congress pursuant to section 201a of the Budget and Accounting Act, 1921 (31 U.S.C. 11(a)), for the next fiscal year”.
+1986—Subsec. (b). Pub. L. 99–661 substituted “each year, at the time that the Budget is submitted to Congress pursuant to section 1105 of title 31 for the next fiscal year,” for each year with the Budget submitted to Congress pursuant to section 201a of the Budget and Accounting Act, 1921 (31 U.S.C. 11(a)), for the next fiscal year”.
 
-<b>1981</b>—Pub. L. 97–35 designated existing provisions as subsec. (a) and added subsec. (b).
+1981—Pub. L. 97–35 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Delegation of Functions
 

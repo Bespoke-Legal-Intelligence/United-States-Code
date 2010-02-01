@@ -22,5 +22,5 @@ Section effective Aug. 7, 1977, except as otherwise expressly provided, see sect
 
 #### Study on Suspended Particulate Matter
 
-Section 403(a) of Pub. L. 95–95 directed Administrator of EPA, not later than 18 months after Aug. 7, 1977, incooperation with National Academy of Sciences, to study and report to Congress on relationship between size, weight, and chemical composition of suspended particulate matter and nature and degree of endangerment to public health or welfare presented by such particulate matter and availability of technology for controlling such particulate matter.
+Section 403(a) of Pub. L. 95–95 directed Administrator of EPA, not later than 18 months after Aug. 7, 1977, in cooperation with National Academy of Sciences, to study and report to Congress on relationship between size, weight, and chemical composition of suspended particulate matter and nature and degree of endangerment to public health or welfare presented by such particulate matter and availability of technology for controlling such particulate matter.
 

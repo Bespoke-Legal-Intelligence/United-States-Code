@@ -4,7 +4,7 @@ When the United States is at war or Congress has enacted a specific authorizatio
 
 Definitions of terms in section 103 of title 41 shall apply to similar terms used in this section. For purposes of applying such definitions in this section, the term “war” includes a specific authorization for the use of the Armed Forces, as described in section 5(b) of the War Powers Resolution (50 U.S.C. 1544(b)).
 
-(June 25, 1948, ch. 645, 62 Stat. 828; Pub. L. 110–329, div. C, title VIII, §8117, Sept. 30, 2008, 122 Stat. 3647; Pub. L. 110–417, \[div. A\], title VIII, §855, Oct. 14, 2008, 122 Stat. 4545.)
+(June 25, 1948, ch. 645, 62 Stat. 828; Pub. L. 110–329, div. C, title VIII, §8117, Sept. 30, 2008, 122 Stat. 3647; Pub. L. 110–417, \[div. A\], title VIII, §855, Oct. 14, 2008, 122 Stat. 4545; Pub. L. 111–84, div. A, title X, §1073(c)(7), Oct. 28, 2009, 123 Stat. 2475.)
 
 #### Historical and Revision Notes
 
@@ -24,5 +24,13 @@ Changes were made in phraseology.
 
 #### Amendments
 
-2008—Pub. L. 110–329 and Pub. L. 110–417 amended section identically, in first par., inserting “or Congress has enacted a specific authorization for the use of the Armed Forces, as described in section 5(b) of the War Powers Resolution (50 U.S.C. 1544(b)),” after “is at war” and “or directly connected with or related to the authorized use of the Armed Forces” after “prosecution of the war” and substituting “5 years” for “three years” and “proclaimed by a Presidential proclamation, with notice to Congress,” for “proclaimed by the President”, and, in second par., inserting last sentence.
+2009—Pub. L. 111–84 repealed Pub. L. 110–417, §855. See 2008 Amendment note below.
+
+2008—Pub. L. 110–417, §855, which amended this section identically to amendment by Pub. L. 110–329, was repealed by Pub. L. 111–84. See 2008 Amendment note below.
+
+Pub. L. 110–329, in first par., inserted “or Congress has enacted a specific authorization for the use of the Armed Forces, as described in section 5(b) of the War Powers Resolution (50 U.S.C. 1544(b)),” after “is at war” and “or directly connected with or related to the authorized use of the Armed Forces” after “prosecution of the war” and substituted “5 years” for “three years” and “proclaimed by a Presidential proclamation, with notice to Congress,” for “proclaimed by the President”, and, in second par., inserted last sentence.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided in part that the amendment made by section 1073(c)(7) of Pub. L. 111–84 is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 

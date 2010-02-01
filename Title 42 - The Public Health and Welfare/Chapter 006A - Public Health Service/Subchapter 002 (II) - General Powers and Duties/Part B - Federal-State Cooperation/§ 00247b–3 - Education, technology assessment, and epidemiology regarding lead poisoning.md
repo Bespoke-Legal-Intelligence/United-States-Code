@@ -54,7 +54,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;(4) provide for any applied research necessary to improve the effectiveness of programs for the prevention of lead poisoning in infants and children.
 
-(July 1, 1944, ch. 373, title III, §317B, as added Pub. L. 102–531, title III, §303(b), Oct. 27, 1992, 106Stat. 3488; amended Pub. L. 103–43, title XX, §2008(i)(1)(B)(i), June 10, 1993, 107 Stat. 212.)
+(July 1, 1944, ch. 373, title III, §317B, as added Pub. L. 102–531, title III, §303(b), Oct. 27, 1992, 106 Stat. 3488; amended Pub. L. 103–43, title XX, §2008(i)(1)(B)(i), June 10, 1993, 107 Stat. 212.)
 
 #### Amendments
 

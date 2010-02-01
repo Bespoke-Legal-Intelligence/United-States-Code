@@ -30,7 +30,7 @@ Pub. L. 107–276, §6(h)(3), Nov. 2, 2002, 116 Stat. 1934, provided that: “Th
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 applicable to requests made after the later of Dec. 31, 1998, or the 60th day after the Secretary of the Treasury first issues the regulations referred to in section 6104(d)(4) of this title, see section 1004(b)(3) of Pub. L. 105–277, set out as a note under section 6104 of this title.
+Amendment by Pub. L. 105–277 applicable to requests made after the later of Dec. 31, 1998, or the 60th dayafter the Secretary of the Treasury first issues the regulations referred to in section 6104(d)(4) of this title, see section 1004(b)(3) of Pub. L. 105–277, set out as a note under section 6104 of this title.
 
 #### Effective Date of 1987 Amendment
 

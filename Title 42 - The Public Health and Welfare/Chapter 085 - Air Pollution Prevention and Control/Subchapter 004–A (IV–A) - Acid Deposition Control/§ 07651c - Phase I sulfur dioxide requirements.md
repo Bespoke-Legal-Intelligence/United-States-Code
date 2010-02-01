@@ -10,7 +10,7 @@
 
 &emsp;(B) the product of each unit's baseline multiplied by 2.50 lbs/mmBtu divided by 2,000,
 
-> and sum the computations. The Administrator shall adjust the foregoing calculation to reflect projected calendar year 1995 utilization of the units subject to the emissions limitations of this subchapter that the Administrator findswould have occurred in the absence of the imposition of such requirements. Pursuant to subsection (d) of this section, the Administrator shall allocate allowances from the reserve established hereinunder until the earlier of such time as all such allowances in the reserve are allocated or December 31, 1999.
+> and sum the computations. The Administrator shall adjust the foregoing calculation to reflect projected calendar year 1995 utilization of the units subject to the emissions limitations of this subchapter that the Administrator finds would have occurred in the absence of the imposition of such requirements. Pursuant to subsection (d) of this section, the Administrator shall allocate allowances from the reserve established hereinunder until the earlier of such time as all such allowances in the reserve are allocated or December 31, 1999.
 
 (3) In addition to allowances allocated pursuant to paragraph (1), in each calendar year beginning in 1995 and ending in 1999, inclusive, the Administrator shall allocate for each unit on Table A that is located in the States of Illinois, Indiana, or Ohio (other than units at Kyger Creek, Clifty Creek and Joppa Steam), allowances in an amount equal to 200,000 multiplied by the unit's pro rata share of the total number of allowances allocated for all units on Table A in the 3 States (other than units at Kyger Creek, Clifty Creek, and Joppa Steam) pursuant to paragraph (1). Such allowances shall be excluded from the calculation of the reserve under paragraph (2).
 
@@ -32,7 +32,7 @@ The owner or operator of an affected unit under subsection (a) of this section m
 
 #### (c) Administrator's action on substitution proposals
 
-(1) The Administrator shall take final action on such substitution proposal in accordance with section 7651g(c) of this title if the substitution proposal fulfills the requirements of this subsection. The Administrator may approve a substitution proposal in whole or in part and with such modifications or conditions as may be consistent with the orderly functioning of the allowance system and which will ensure the emissions reductions contemplated by this subchapter. If a proposal does not meet the requirements of subsection (b) of this section, the Administrator shall disapprove it. The owner or operator of a unit listed in table A shall not substitute another unit or units without the prior approval of the Administrator.
+(1) The Administrator shall take final action on such substitution proposal in accordance with section 7651g(c) of this title if the substitution proposal fulfills the requirements of this subsection. The Administrator may approve asubstitution proposal in whole or in part and with such modifications or conditions as may be consistent with the orderly functioning of the allowance system and which will ensure the emissions reductions contemplated by this subchapter. If a proposal does not meet the requirements of subsection (b) of this section, the Administrator shall disapprove it. The owner or operator of a unit listed in table A shall not substitute another unit or units without the prior approval of the Administrator.
 
 (2) Upon approval of a substitution proposal, each substitute unit, and each source with such unit, shall be deemed affected under this subchapter, and the Administrator shall issue a permit to the original and substitute affected source and unit in accordance with the approved substitution plan and section 7651g of this title. The Administrator shall allocate allowances for the original and substitute affected units in accordance with the approved substitution proposal pursuant to section 7651b of this title. It shall be unlawful for any source or unit that is allocated allowances pursuant to this section to emit sulfur dioxide in excess of the emissions limitation provided for in the approved substitution permit and plan unless the owner or operator of each unit governed by the permit and approved substitution plan holds allowances to emit not less than the units <sup>2</sup> total annual emissions. The owner or operator of any original or substitute affected unit operated in violation of this subsection shall be fully liable for such violation, including liability for fulfilling the obligations specified in section 7651j of this title. If a substitution proposal is disapproved, the Administrator shall allocate allowances to the original affected unit or units in accordance with subsection (a) of this section.
 
@@ -44,7 +44,7 @@ The owner or operator of an affected unit under subsection (a) of this section m
 
 &emsp;(A) specify the unit or units proposed for designation as an eligible phase I extension unit;
 
-&emsp;(B) provide a copy of an executed contract, which may be contingent upon the Administrator approving the proposal, for the designengineering, and construction of the qualifying phase I technology for the extension unit, or for the unit or units to which the extension unit's emission reduction obligation is to be transferred;
+&emsp;(B) provide a copy of an executed contract, which may be contingent upon the Administrator approving the proposal, for the design engineering, and construction of the qualifying phase I technology for the extension unit, or for the unit or units to which the extension unit's emission reduction obligation is to be transferred;
 
 &emsp;(C) specify the unit's or units’ baseline, actual 1985 emissions rate, allowable 1985 emissions rate, and projected utilization for calendar years 1995 through 1999;
 
@@ -1614,7 +1614,7 @@ S. Oak Creek
 
 #### (C) Period of applicability
 
-&emsp;&emsp;Allowances under this subsection shall be allocated only with respect to kilowatthours of electric energy saved by qualified energy conservation measures or generated by qualified renewable energy after January 1, 1992 and before the earlier of (i) December 31, 2000, or (ii) the date on which any electric utility steam generating unit owned or operated by the electric utility to which the allowances are allocated becomes subject to this subchapter (including those sources that elect to become affected by this subchapter, pursuant to section 7651i of this title).
+&emsp;&emsp;Allowances under this subsection shall be allocated only with respect to kilowatt hours of electric energy saved by qualified energy conservation measures or generated by qualified renewable energy after January 1, 1992 and before the earlier of (i) December 31, 2000, or (ii) the date on which any electric utility steam generating unit owned or operated by the electric utility to which the allowances are allocated becomes subject to this subchapter (including those sources that elect to become affected by this subchapter, pursuant to section 7651i of this title).
 
 #### (D) Determination of avoided emissions
 

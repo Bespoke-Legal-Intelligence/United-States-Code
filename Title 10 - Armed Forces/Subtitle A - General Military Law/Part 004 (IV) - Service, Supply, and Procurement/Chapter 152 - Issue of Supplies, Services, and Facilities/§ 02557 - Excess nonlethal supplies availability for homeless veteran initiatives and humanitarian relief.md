@@ -1,6 +1,6 @@
 ### §2557. Excess nonlethal supplies: availability for homeless veteran initiatives and humanitarian relief
 
-(a)(1) The Secretary of Defense may make available for humanitarian relief purposes anynonlethal excess supplies of the Department of Defense.
+(a)(1) The Secretary of Defense may make available for humanitarian relief purposes any nonlethal excess supplies of the Department of Defense.
 
 (2) The Secretary of Defense may make excess clothing, shoes, sleeping bags, and related nonlethal excess supplies available to the Secretary of Veterans Affairs for distribution to homeless veterans and programs assisting homeless veterans. The transfer of nonlethal excess supplies to the Secretary of Veterans Affairs under this paragraph shall be without reimbursement.
 

@@ -60,7 +60,7 @@ Each insured depository institution shall adopt policies for closings of branche
 
 #### (3) No effect on closing
 
-&emsp;No action by the appropriate Federal banking agency under paragraph (2) shall affect the authority of an interstate bank to close a branch (including the timing of such closing) if the requirements of subsections (a) and (b) of this section have been met by such bank with respect to the branch being closed.
+&emsp;No action by the appropriate Federal banking agency under paragraph (2) shall affect the authority of an interstate bank to close a branch (including the timing of such closing) if the requirements of subsections (a) and (b)of this section have been met by such bank with respect to the branch being closed.
 
 #### (4) Definitions
 
@@ -74,7 +74,7 @@ Each insured depository institution shall adopt policies for closings of branche
 
 &emsp;&emsp;The term “low- or moderate-income area” means a census tract for which the median family income is—
 
-&emsp;&emsp;&emsp;(i) less than 80 percent of the median family income for the metropolitan statistical area (as designated by the Director ofthe Office of Management and Budget) in which the census tract is located; or
+&emsp;&emsp;&emsp;(i) less than 80 percent of the median family income for the metropolitan statistical area (as designated by the Director of the Office of Management and Budget) in which the census tract is located; or
 
 &emsp;&emsp;&emsp;(ii) in the case of a census tract which is not located in a metropolitan statistical area, less than 80 percent of the median family income for the State in which the census tract is located, as determined without taking into account family income in metropolitan statistical areas in such State.
 

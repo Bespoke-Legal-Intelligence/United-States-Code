@@ -156,7 +156,7 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 <i>For termination of amendment by section 106(f)(3) of div. B of Pub. L. 110–343, see Effective and Termination Dates of 2008 Amendment note below.</i>
 
-<i>For termination of amendment by section 402(i)(3)(H) of Pub. L. 109–135, see Effective and</i><i>Termination Dates of 2005 Amendment note below.</i>
+<i>For termination of amendment by section 402(i)(3)(H) of Pub. L. 109–135, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
@@ -170,7 +170,7 @@ A prior section 23, added Pub. L. 95–618, title I, §101(a), Nov. 9, 1978, 92 
 
 2005—Subsec. (b)(4). Pub. L. 109–135, §402(i)(3)(A)(i), (H), temporarily substituted “In the case of a taxable year to which section 26(a)(2) does not apply, the credit” for “The credit” in introductory provisions. See Effective and Termination Dates of 2005 Amendment note below.
 
-Subsec. (c). Pub. L. 109–135, §402(i)(3)(A)(ii), (H), temporarily reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the credit allowable under subsection (a) for any taxable year exceeds the limitation imposed by subsection (b)(4) for such taxable year, such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year. No credit may be carried forward under this subsection to any taxable year following the fifth taxable year after the taxable year in which the credit arose. For purposes of the preceding sentence, credits shall be treated as used on a first-in first-out basis.” See Effective and Termination Dates of 2005 Amendment note below.
+Subsec. (c). Pub. L. 109–135, §402(i)(3)(A)(ii), (H), temporarily reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the credit allowable under subsection (a) for any taxable year exceeds the limitation imposed by subsection (b)(4) for such taxable year, such excessshall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year. No credit may be carried forward under this subsection to any taxable year following the fifth taxable year after the taxable year in which the credit arose. For purposes of the preceding sentence, credits shall be treated as used on a first-in first-out basis.” See Effective and Termination Dates of 2005 Amendment note below.
 
 Pub. L. 109–58, §1335(b)(1), which directed amendment of subsec. (c) by substituting “this section, section 25D, and section 1400C” for “this section and section 1400C”, was repealed by Pub. L. 109–135, §402(i)(4). See Effective and Termination Dates of 2005 Amendment notes below.
 
@@ -244,7 +244,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Solar electric property limitation.—The amendments made by subsection (b) \[amending section25D of this title\] shall apply to taxable years beginning after December 31, 2008.
+Solar electric property limitation.—The amendments made by subsection (b) \[amending section 25D of this title\] shall apply to taxable years beginning after December 31, 2008.
 
 “(3)
 

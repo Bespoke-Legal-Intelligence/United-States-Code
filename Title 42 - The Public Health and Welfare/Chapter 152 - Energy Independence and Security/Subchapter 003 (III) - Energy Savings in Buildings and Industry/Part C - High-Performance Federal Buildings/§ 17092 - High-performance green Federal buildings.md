@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Office
 
-Not later than 60 days after December 19, 2007, the Administrator shall establish within the General Services Administration an Office of Federal High-Performance Green Buildings, and appoint an individual to serve as Federal Director in, a position in the career-reserved Senior Executive service, to—
+Not later than 60 days after December 19, 2007, the Administrator shall establish within theGeneral Services Administration an Office of Federal High-Performance Green Buildings, and appoint an individual to serve as Federal Director in, a position in the career-reserved Senior Executive service, to—
 
 &emsp;(1) establish and manage the Office of Federal High-Performance Green Buildings; and
 

@@ -8,11 +8,35 @@
 
 &emsp;(3) both of these factors.
 
-> The allowance may not exceed 25 percent of the rate of basic pay. Except as otherwise specifically authorized by statute, the allowance is paid only in accordance with regulations prescribed by the President establishing the rates and defining the area, groups of positions, and classes of employees to which each rate applies.
+> The allowance may not exceed 25 percent of the rate of basic pay. Except as otherwise specifically authorized by statute, the allowance is paid only in accordance with regulations prescribed by the President establishing the rates and defining the area, groups of positions, and classes of employees to which each rate applies. Notwithstanding any preceding provision of this subsection, the cost-of-living allowance rate based on paragraph (1) shall be the cost-of-living allowance rate in effect on the date of enactment of the Non-Foreign Area Retirement Equity Assurance Act of 2009, except as adjusted under subsection (c).
 
-(b) An employee entitled to a cost-of-living allowance under section 5924 of this title may not be paid an allowance under subsection (a) of this section based on living costs substantially higher than in the District of Columbia.
+(b) This section shall apply only to areas that are designated as cost-of-living allowance areas as in effect on December 31, 2009.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 512.)
+(c)(1) The cost-of-living allowance rate payable under this section shall be adjusted on the first day of the first applicable pay period beginning on or after—
+
+&emsp;(A) January 1, 2010; and
+
+&emsp;(B) January 1 of each calendar year in which a locality-based comparability adjustment takes effect under paragraphs (2) and (3), respectively, of section 1914 of the Non-Foreign Area Retirement Equity Assurance Act of 2009.
+
+(2)(A) In this paragraph, the term “applicable locality-based comparability pay percentage” means, with respect to calendar year 2010 and each calendar year thereafter, the applicable percentage under paragraph (1), (2), or (3) of section 1914 of Non-Foreign Area Retirement Equity Assurance Act of 2009.
+
+(B) Each adjusted cost-of-living allowance rate under paragraph (1) shall be computed by—
+
+&emsp;(i) subtracting 65 percent of the applicable locality-based comparability pay percentage from the cost-of-living allowance percentage rate in effect on December 31, 2009; and
+
+&emsp;(ii) dividing the resulting percentage determined under clause (i) by the sum of—
+
+&emsp;&emsp;(I) one; and
+
+&emsp;&emsp;(II) the applicable locality-based comparability payment percentage expressed as a numeral.
+
+(3) No allowance rate computed under paragraph (2) may be less than zero.
+
+(4) Each allowance rate computed under paragraph (2) shall be paid as a percentage of basic pay (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law).
+
+(d) An employee entitled to a cost-of-living allowance under section 5924 of this title may not be paid an allowance under subsection (a) of this section based on living costs substantially higher than in the District of Columbia.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 512; Pub. L. 111–84, div. A, title XIX, §1912(b), Oct. 28, 2009, 123 Stat. 2620.)
 
 Historical and Revision Notes
 
@@ -43,6 +67,22 @@ Subsection (b) is based on the second proviso of former section 118h and is rest
 The last proviso of former section 118h which provided the effective date of the section is omitted as executed.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### References in Text
+
+The date of enactment of the Non-Foreign Area Retirement Equity Assurance Act of 2009, referred to in subsec. (a), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
+
+Section 1914 of the Non-Foreign Area Retirement Equity Assurance Act of 2009, referred to in subsec. (c)(1)(B), (2)(A), is section 1914 of Pub. L. 111–84, which is set out in a Non-Foreign Area Retirement Equity Assurance note under section 5304 of this title.
+
+#### Amendments
+
+2009—Subsec. (a). Pub. L. 111–84, §1912(b)(1), inserted at end “Notwithstanding any preceding provision of this subsection, the cost-of-living allowance rate based on paragraph (1) shall be the cost-of-living allowance rate in effect on the date of enactment of the Non-Foreign Area Retirement Equity Assurance Act of 2009, except as adjusted under subsection (c).”
+
+Subsecs. (b) to (d). Pub. L. 111–84, §1912(b)(2), (3), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–84 effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2010, with transition and savings provisions, see sections 1914, 1915, and 1919(b) of Pub. L. 111–84, set out in a Non-Foreign Area Retirement Equity Assurance note under section 5304 of this title.
 
 #### Prohibition of Reduction of Allowance; Study and Report on Adjusting Calculation of Geographic Factors
 
@@ -112,7 +152,7 @@ Persons Serving Under Contract. Any other provision of this Part notwithstanding
 
 Sec. 108.
 
-Periodic Review. The Secretary of State shall periodically, but at least annually, review the places designated, the rates fixed, and the regulations prescribed pursuant to section 102 hereof, with a viewto making such changes therein as will insure that the payment of additional compensation under the provisions of this Part shall continue only during the continuance of conditions justifying such payment and shall not in any instance exceed the amount justified.
+Periodic Review. The Secretary of State shall periodically, but at least annually, review the places designated, the rates fixed, and the regulations prescribed pursuant to section 102 hereof, with a view to making such changes therein as will insure that the payment of additional compensation under the provisions of this Part shall continue only during the continuance of conditions justifying such payment and shall not in any instance exceed the amount justified.
 
 Sec. 109.
 
@@ -182,7 +222,7 @@ Periodic Review. The Office of Personnel Management shall periodically review th
 
 Sec. 301.
 
-Temporary Regulations. During the period commencing with the date of this order or the effectivedate of section 207 of the Act (as defined in section 101 hereof), whichever shall occur earlier, and ending on a date or dates fixed by the Secretary of State and the Office of Personnel Management, respectively, as the effective dates of the designation of places and of the fixing of additional rates of compensation, under Parts I and II of this order, but in no event later than January 1, 1949, and notwithstanding the provisions of Parts I and II of this order, the payment of salaries and compensation (including the payment of additional compensation) of persons subject to the provisions of said section 207 shall be governed by the regulations and practices in effect in the respective Executive departments, independent establishments, and wholly owned government corporations immediately prior to April 20, 1948. Executive Order No. 9962 of May 24, 1948 is hereby revoked.
+Temporary Regulations. During the period commencing with the date of this order or the effective date of section 207 of the Act (as defined in section 101 hereof), whichever shall occur earlier, and ending on a date or dates fixed by the Secretary of State and the Office of Personnel Management, respectively, as the effective dates of the designation of places and of the fixing of additional rates of compensation, under Parts I and II of this order, but in no event later than January 1, 1949, and notwithstanding the provisions of Parts I and II of this order, the payment of salaries and compensation (including the payment of additional compensation) of persons subject to the provisions of said section 207 shall be governed by the regulations and practices in effect in the respective Executive departments, independent establishments, and wholly owned government corporations immediately prior to April 20, 1948. Executive Order No. 9962 of May 24, 1948 is hereby revoked.
 
 #### Part IV—Foreign Service Salary Differentials
 
@@ -196,7 +236,7 @@ Temporary Regulations. During the period commencing with the date of this order 
 
 Sec. 601.
 
-Publication. This order, and the places designated, the rates fixed, and the regulations prescribed by the Secretary of State and the Office of Personnel Management pursuant to Parts I and II of this order, shall be published in the Federal Register.
+Publication. This order, and the places designated, the rates fixed, and the regulations prescribedby the Secretary of State and the Office of Personnel Management pursuant to Parts I and II of this order, shall be published in the Federal Register.
 
 #### Executive Order No. 12070
 

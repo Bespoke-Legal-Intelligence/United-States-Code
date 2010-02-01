@@ -2,7 +2,7 @@
 
 (a) Wheat is basic to the American diet and the American economy. It is grown by thousands of farmers and consumed, in various forms, by millions of people in the United States.
 
-(b) The size of the American wheat crop and how it is marketed and ultimately consumed determines whether many Americans receive adequate nourishment. Wheat has a strong impact on the Nation's well-being. Additional research on the optimal use of wheat products can improve the American diet. Consumer education about the nutritional value and economic use of wheat products can enhance the national welfare.
+(b) The size of the American wheat crop and how it is marketed and ultimately consumed determines whether many Americans receive adequate nourishment. Wheat has a strong impacton the Nation's well-being. Additional research on the optimal use of wheat products can improve the American diet. Consumer education about the nutritional value and economic use of wheat products can enhance the national welfare.
 
 (c) It has long been recognized that it is in the national interest to have a regular, adequate, and high quality wheat supply. It would be extremely difficult, without an effective coordinated research and nutrition education effort, to accomplish this objective. A programed effort of research and nutrition education is of great importance to wheat producers, processors, end product manufacturers, and consumers.
 

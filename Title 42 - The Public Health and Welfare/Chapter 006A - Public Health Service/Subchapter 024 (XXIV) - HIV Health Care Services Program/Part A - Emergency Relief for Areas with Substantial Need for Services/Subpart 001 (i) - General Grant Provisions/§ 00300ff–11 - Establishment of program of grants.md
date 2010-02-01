@@ -20,11 +20,7 @@ For purposes of determining eligibility under this subpart—
 
 &emsp;(2) with respect to a metropolitan area that becomes eligible to receive funding under this subpart in any fiscal year after fiscal year 2006, the boundaries of such metropolitan area shall be the boundaries that are in effect for such area when such area initially receives funding under this subpart.
 
-(July 1, 1944, ch. 373, title XXVI, §2601, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 576; amended Pub. L. 102–531, title III, §312(d)(25), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 104–146, §§3(a)(1), (2), 12(c)(1), May 20, 1996, 110 Stat. 1346, 1373; Pub. L. 109–415, title I, §§101(a), (b), 106(a), 107(b), title VII, §702(1), Dec. 19, 2006, 120 Stat. 2768, 2780, 2783, 2819.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2601, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 576; amended Pub. L. 102–531, title III, §312(d)(25), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 104–146, §§3(a)(1), (2), 12(c)(1), May 20, 1996, 110 Stat. 1346, 1373; Pub. L. 109–415, title I, §§101(a), (b), 106(a), 107(b), title VII, §§702(1), 703, Dec. 19, 2006, 120 Stat. 2768, 2780, 2783, 2819, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### Prior Provisions
 
@@ -32,7 +28,11 @@ A prior section 2601 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–415, §702(1), substituted “AIDS” for “acquired immune deficiency syndrome”.
+2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+Subsec. (a). Pub. L. 109–415, §702(1), substituted “AIDS” for “acquired immune deficiency syndrome”.
 
 Pub. L. 109–415, §106(a), substituted “during the most recent period” for “for the most recent period”.
 
@@ -54,9 +54,25 @@ Subsecs. (c), (d). Pub. L. 104–146, §3(a)(2), added subsecs. (c) and (d).
 
 1992—Subsecs. (a)(1), (b). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
+#### Effective Date of 2009 Amendment; Revival of Section
+
+Pub. L. 111–87, §2(a)(2), (3), Oct. 30, 2009, 123 Stat. 2885, provided that:
+
+“(2)
+
+Effective Date.—Paragraph (1) \[repealing section 703 of Pub. L. 109–415, formerly set out as an Effective Date of Repeal note below\] shall take effect as if enacted on September 30, 2009.
+
+“(3)
+
+Contingency Provisions.—Notwithstanding section 703 of the Ryan White HIV/AIDS Treatment Modernization Act of 2006 (Public Law 109–415; 120 Stat. 2767 \[2820\]) \[repealing this subchapter, formerly set out as an Effective Date of Repeal note below\] and section 139 of the Continuing Appropriations Resolution, 2010 \[123 Stat. 2048\]—
+
+&emsp;“(A) the provisions of title XXVI of the Public Health Service Act (42 U.S.C. 300ff et seq.), as in effect on September 30, 2009, are hereby revived; and
+
+&emsp;“(B) the amendments made by this Act to title XXVI of the Public Health Service Act (42 U.S.C. 300ff et seq.) \[see Tables for classification\] shall apply to such title as so revived and shall take effect as if enacted on September 30, 2009.”
+
 #### Effective Date of Repeal
 
-Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that the repeal of this subchapter by section 703 is effective Oct. 1, 2009.
+Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, which provided for the repeal of this subchapter effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), Oct. 30, 2009, 123 Stat. 2885.
 
 #### Effective Date of 1996 Amendment
 

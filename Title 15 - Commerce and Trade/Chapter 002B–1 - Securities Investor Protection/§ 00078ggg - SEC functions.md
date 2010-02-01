@@ -12,7 +12,7 @@ In the event of the refusal of SIPC to commit its funds or otherwise to act for 
 
 #### (1) Examination of SIPC, etc.
 
-&emsp;The Commission may make such examinations and inspections of SIPC and requireSIPC to furnish it with such reports and records or copies thereof as the Commission may consider necessary or appropriate in the public interest or to effectuate the purposes of this chapter.
+&emsp;The Commission may make such examinations and inspections of SIPC and require SIPC to furnish it with such reports and records or copies thereof as the Commission may consider necessary or appropriate in the public interest or to effectuate the purposes of this chapter.
 
 #### (2) Reports from SIPC
 

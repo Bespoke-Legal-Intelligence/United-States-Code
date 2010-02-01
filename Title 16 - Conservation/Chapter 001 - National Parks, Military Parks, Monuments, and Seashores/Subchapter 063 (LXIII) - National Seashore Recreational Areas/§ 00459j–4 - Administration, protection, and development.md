@@ -24,7 +24,7 @@ The National Wildlife Refuge System Administration Act, as amended, referred to 
 
 #### Clothing-Optional Areas Prohibited
 
-Pub. L. 108–108, title I, §126, Nov. 10, 2003, 117 Stat. 1269, provided that: “None of the funds made availablein this or any other Act for any fiscal year may be used to designate, or to post any sign designating, any portion of Canaveral National Seashore in Brevard County, Florida, as a clothing-optional area or as an area in which public nudity is permitted, if such designation would be contrary to county ordinance.”
+Pub. L. 108–108, title I, §126, Nov. 10, 2003, 117 Stat. 1269, provided that: “None of the funds made available in this or any other Act for any fiscal year may be used to designate, or to post any sign designating, any portion of Canaveral National Seashore in Brevard County, Florida, as a clothing-optional area or as an area in which public nudity is permitted, if such designation would be contrary to county ordinance.”
 
 Similar provisions were contained in the following prior appropriation acts:
 

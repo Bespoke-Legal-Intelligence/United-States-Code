@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;From amounts appropriated under subsection (h) for a fiscal year, the Secretary is authorized to award grants to four State educational agencies to enable the State educational agencies to pay the administrative expenses incurred in participating in the demonstration program under this section by carrying out a demonstration project under which eighth grade students described in subsection (b)(1)(B) receive a commitment early in the students’ academic careers to receive a Federal Pell Grant.
+&emsp;&emsp;From amounts appropriated under subsection (h) for a fiscal year, the Secretary is authorized to award grants to four Stateeducational agencies to enable the State educational agencies to pay the administrative expenses incurred in participating in the demonstration program under this section by carrying out a demonstration project under which eighth grade students described in subsection (b)(1)(B) receive a commitment early in the students’ academic careers to receive a Federal Pell Grant.
 
 #### (B) Equal amounts
 
@@ -40,7 +40,7 @@ Each of the four demonstration projects assisted under this section shall meet t
 
 #### (2) Student data
 
-&emsp;The State educational agency shall ensure that student data from local educational agencies serving students who participate in the demonstration project, as well as student data from local educational agencies serving a comparable group of students who do not participate in the demonstration project, are available for evaluation of the demonstration project, and are made available in accordance with the requirements of section 1232g of this title (the Family Educational Rights and Privacy Act of 1974).
+&emsp;The State educational agency shall ensure that student data from local educational agencies serving students who participate in the demonstration project, as well as student data from local educational agencies serving a comparable group of students who do not participate in the demonstration project, are available for evaluation of the demonstration project, and are made available in accordance with the requirements of section 1232g of this title (commonly known as the “Family Educational Rights and Privacy Act of 1974”).
 
 #### (3) Federal Pell Grant commitment
 
@@ -206,7 +206,7 @@ Each of the four demonstration projects assisted under this section shall meet t
 
 #### (3) Cohorts
 
-&emsp;The information described in paragraph (2)(C) shall be provided annually to the two successive cohorts of students described in subsection (b)(1)(A) for the duration of the students’ participation in the demonstration project.
+&emsp;The information described in paragraph (2)(C) shall be provided annually to the twosuccessive cohorts of students described in subsection (b)(1)(A) for the duration of the students’ participation in the demonstration project.
 
 #### (4) Reservation
 
@@ -220,7 +220,7 @@ A State educational agency shall use grant funds received under this section onl
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-(Pub. L. 89–329, title VIII, §894, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3440.)
+(Pub. L. 89–329, title VIII, §894, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3440; amended Pub. L. 111–39, title VIII, §801(14), July 1, 2009, 123 Stat. 1956.)
 
 #### References in Text
 
@@ -229,4 +229,12 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(1)(
 The Child Nutrition Act of 1966, referred to in subsec. (b)(1)(B), (5), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(1)(B)(iii), (2)(B)(iii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+
+#### Amendments
+
+2009—Subsec. (b)(2). Pub. L. 111–39 substituted “commonly known as the ‘Family Educational Rights and Privacy Act of 1974’ ” for “the Family Educational Rights and Privacy Act of 1974”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

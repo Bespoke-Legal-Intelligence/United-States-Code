@@ -2,9 +2,9 @@
 
 (a)
 
-Transitional Health Care.—(1) For the time period described in paragraph (3), a member of the armed forces who is separated from active duty as described in paragraph (2) (and the dependents of the member) shall be entitled to receive—
+Transitional Health Care.—(1) For the time period described in paragraph (4), a member of the armed forces who is separated from active duty as described in paragraph (2) (and the dependents of the member) shall be entitled to receive—
 
-&emsp;(A) medical and dental care under section 1076 of this title in the same manner as a dependent described in subsection (a)(2) of such section; and
+&emsp;(A) except as provided in paragraph (3), medical and dental care under section 1076 of this title in the same manner as a dependent described in subsection (a)(2) of such section; and
 
 &emsp;(B) health benefits contracted under the authority of section 1079(a) of this title and subject to the same rates and conditions as apply to persons covered under that section.
 
@@ -22,13 +22,15 @@ Transitional Health Care.—(1) For the time period described in paragraph (3), 
 
 &emsp;(F) A member who is separated from active duty who agrees to become a member of the Selected Reserve of the Ready Reserve of a reserve component.
 
-(3) Except as provided in paragraph (6), transitional health care for a member under subsection (a) shall be available for 180 days beginning on the date on which the member is separated from active duty.
+(3) In the case of a member described in paragraph (2)(B), the dental care to which the member is entitled under this subsection shall be the dental care to which a member of the uniformed services on active duty for more than 30 days is entitled under section 1074 of this title.
 
-(4)(A) The Secretary concerned shall require a member of the armed forces scheduled to be separated from active duty as described in paragraph (2) to undergo a physical examination immediately before that separation. The physical examination shall be conducted in accordance with regulations prescribed by the Secretary of Defense.
+(4) Except as provided in paragraph (7), transitional health care for a member under subsection (a) shall be available for 180 days beginning on the date on which the member is separated from active duty.
 
-(B) Notwithstanding subparagraph (A), if a member of the armed forces scheduled to be separated from active duty as described in paragraph (2) has otherwise undergone a physical examination within 12 months before the scheduled date of separation from active duty, the requirement for a physical examination under subparagraph (A) may be waived in accordance with regulations prescribed under this paragraph. Such regulations shall require that such a waiver may be granted only with the consent of themember and with the concurrence of the member's unit commander.
+(5)(A) The Secretary concerned shall require a member of the armed forces scheduled to be separated from active duty as described in paragraph (2) to undergo a physical examination immediately before that separation. The physical examination shall be conducted in accordance with regulations prescribed by the Secretary of Defense.
 
-(5)(A) The Secretary of Defense shall, in consultation with the Secretary of Veterans Affairs, ensure that appropriate actions are taken to assist a member of the armed forces who, as a result of a medical examination under paragraph (4), receives an indication for a referral for follow up treatment from the health care provider who performs the examination.
+(B) Notwithstanding subparagraph (A), if a member of the armed forces scheduled to be separated from active duty as described in paragraph (2) has otherwise undergone a physical examination within 12 months before the scheduled date of separation from active duty, the requirement for a physical examination under subparagraph (A) may be waived in accordance with regulations prescribed under this paragraph. Such regulations shall require that such a waiver may be granted only with the consent of the member and with the concurrence of the member's unit commander.
+
+(6)(A) The Secretary of Defense shall, in consultation with the Secretary of Veterans Affairs, ensure that appropriate actions are taken to assist a member of the armed forces who, as a result of a medical examination under paragraph (5), receives an indication for a referral for follow up treatment from the health care provider who performs the examination.
 
 (B) Assistance provided to a member under paragraph (1) shall include the following:
 
@@ -42,7 +44,7 @@ Transitional Health Care.—(1) For the time period described in paragraph (3), 
 
 &emsp;(iii) Assistance to enroll in the health care system of the Department of Veterans Affairs for health care benefits for which the member is eligible under laws administered by the Secretary of Veterans Affairs.
 
-(6)(A) A member who has a medical condition relating to service on active duty that warrants further medical care that has been identified during the member's 180-day transition period, which condition can be resolved within 180 days as determined by a Department of Defense physician, shall be entitled to receive medical and dental care for that medical condition, and that medical condition only, as if the member were a member of the armed forces on active duty for 180 days following the diagnosis of the condition.
+(7)(A) A member who has a medical condition relating to service on active duty that warrants further medical care that has been identified during the member's 180-day transition period, which condition can be resolved within 180 days as determined by a Department of Defense physician, shall be entitled to receive medical and dental care for that medical condition, and that medical condition only, as if the member were a member of the armed forces on active duty for 180 days following the diagnosis of the condition.
 
 (B) The Secretary concerned shall ensure that the Defense Enrollment and Eligibility Reporting System (DEERS) is continually updated in order to reflect the continuing entitlement of members covered by subparagraph (A) to the medical and dental care referred to in that subparagraph.
 
@@ -70,7 +72,7 @@ Conversion Health Policies.—(1) The Secretary of Defense shall inform each mem
 
 (c)
 
-Health Care For Certain Separated Members Not Otherwise Eligible.—(1) Consistent with the authority of the Secretary concerned to designate certain classes of persons as eligible to receive health care at a military medical facility, the Secretary concerned should consider authorizing, on an individual basis in cases of hardship, the provision of that care for a member who is separated from the armed forces, and is ineligible for transitional health care under subsection (a) or does not obtain a conversion health policy (or a dependent of the member).
+Health Care For Certain Separated Members Not Otherwise Eligible.—(1) Consistent with the authority of the Secretary concerned to designate certain classes of persons as eligible to receive health care at a military medical facility, the Secretary concerned should consider authorizing, on an individual basis in cases of hardship, the provision of that care for a member who is separated from the armed forces, and is ineligible for transitional health care under subsection (a) or does not obtain aconversion health policy (or a dependent of the member).
 
 (2) The Secretary concerned shall give special consideration to requests for such care in cases in which the condition for which treatment is required was incurred or aggravated by the member or the dependent before the date of the separation of the member, particularly if the condition is a result of the particular circumstances of the service of the member.
 
@@ -80,11 +82,17 @@ Definition.—In this section, the term “conversion health policy” means a h
 
 (e)
 
-Coast Guard.—The Secretary of Homeland Security shall implement this section for themembers of the Coast Guard and their dependents.
+Coast Guard.—The Secretary of Homeland Security shall implement this section for the members of the Coast Guard and their dependents.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, §4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(4), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(h), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title VII, §736(a), (b), Dec. 28, 2001, 115 Stat. 1172; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §706(a), (b), Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–375, div. A, title VII, §706(a)(1), (3), (b), Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §749, Jan. 6, 2006, 119 Stat. 3364; Pub. L. 110–181, div. A, title XVI, §1637, Jan. 28, 2008, 122 Stat. 464; Pub. L. 110–317, §4, Aug. 29, 2008, 122 Stat. 3528; Pub. L. 110–417, \[div. A\], title VII, §734(a), Oct. 14, 2008, 122 Stat. 4513.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, §4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(4), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(h), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title VII, §736(a), (b), Dec. 28, 2001, 115 Stat. 1172; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §706(a), (b), Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–375, div. A, title VII, §706(a)(1), (3), (b), Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §749, Jan. 6, 2006, 119 Stat. 3364; Pub. L. 110–181, div. A, title XVI, §1637, Jan. 28, 2008, 122 Stat. 464; Pub. L. 110–317, §4, Aug. 29, 2008, 122 Stat. 3528; Pub. L. 110–417, \[div. A\], title VII, §734(a), Oct. 14, 2008, 122 Stat. 4513; Pub. L. 111–84, div. A, title VII, §703, Oct. 28, 2009, 123 Stat. 2373.)
 
 #### Amendments
+
+2009—Subsec. (a)(1). Pub. L. 111–84, §703(1)(A), substituted “paragraph (4)” for “paragraph (3)” in introductory provisions.
+
+Subsec. (a)(1)(A). Pub. L. 111–84, §703(1)(B), inserted “except as provided in paragraph (3),” before “medical and dental care”.
+
+Subsec. (a)(3) to (7). Pub. L. 111–84, §703(2)–(5), added par. (3), redesignated former pars. (3) to (6) as (4) to (7), respectively, in par. (4) substituted “paragraph (7)” for “paragraph (6)”, and in par. (6)(A) substituted “paragraph (5)” for “paragraph (4)”.
 
 2008—Subsec. (a)(2)(E). Pub. L. 110–317 added subpar. (E).
 
@@ -146,7 +154,7 @@ Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship 
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–314, div. A, title VII, §706(c), Dec. 2, 2002, 116 Stat. 2585, provided that: “The amendments made by this section \[amending this section\] shall take effect as of December 28, 2001, and as if included in the National Defense Authorization Act for Fiscal Year 2002 \[Pub. L. 107–107\] as enacted.”
+Pub. L. 107–314, div. A, title VII, §706(c), Dec. 2, 2002, 116 Stat. 2585, provided that: “The amendments made by this section \[amending this section\] shall take effectas of December 28, 2001, and as if included in the National Defense Authorization Act for Fiscal Year 2002 \[Pub. L. 107–107\] as enacted.”
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 

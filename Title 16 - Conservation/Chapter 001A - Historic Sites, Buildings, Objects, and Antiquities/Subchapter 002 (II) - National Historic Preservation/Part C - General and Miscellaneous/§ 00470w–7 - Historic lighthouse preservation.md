@@ -22,7 +22,7 @@ In order to provide a national historic light station program, the Secretary sha
 
 #### (2) Application review
 
-&emsp;The Secretary shall review all applications for the conveyance of a historic light station, when the agency with administrative jurisdiction over the historic light station has determined the property to be “excess property” as that term is defined in the Federal Property Administrative Services Act of 1949 <sup>1</sup> (40 U.S.C. 472(e)), and forward to the Administrator a single approved application for the conveyanceof the historic light station. When selecting an eligible entity, the Secretary shall consult with the State Historic Preservation Officer of the State in which the historic light station is located.
+&emsp;The Secretary shall review all applications for the conveyance of a historic light station, when the agency with administrative jurisdiction over the historic light station has determined the property to be “excess property” as that term is defined in the Federal Property Administrative Services Act of 1949 <sup>1</sup> (40 U.S.C. 472(e)), and forward to the Administrator a single approved application for the conveyance of the historic light station. When selecting an eligible entity, the Secretary shall consult with the State Historic Preservation Officer of the State in which the historic light station is located.
 
 #### (3) Conveyance of historic light stations
 
@@ -60,7 +60,7 @@ In order to provide a national historic light station program, the Secretary sha
 
 #### (2) Maintenance of aid to navigation
 
-&emsp;Any eligible entity to which a historic light station is conveyed under this section shall not be required to maintain any Federal aid to navigation associated with a historic lightstation, except any private aids to navigation permitted under section 83 of title 14 to the eligible entity.
+&emsp;Any eligible entity to which a historic light station is conveyed under this section shall not be required to maintain any Federal aid to navigation associated with a historic light station, except any private aids to navigation permitted under section 83 of title 14 to the eligible entity.
 
 #### (3) Reversion
 
@@ -124,7 +124,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) any department or agency of the Federal Government; or
 
-&emsp;&emsp;(B) any department or agency of the State in which the historic light station is located,the local government of the community in which the historic light station is located, nonprofit corporation, educational agency, or community development organization that—
+&emsp;&emsp;(B) any department or agency of the State in which the historic light station is located, the local government of the community in which the historic light station is located, nonprofit corporation, educational agency, or community development organization that—
 
 &emsp;&emsp;&emsp;(i) has agreed to comply with the conditions set forth in subsection (c) of this section and to have such conditions recorded with the deed of title to the historic light station; and
 

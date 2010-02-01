@@ -14,7 +14,7 @@ An order shall become effective on a date that is not more than 90 days followin
 
 #### (d) Terms and conditions
 
-An order shall contain such terms and conditions as are required in sections 4806 through4809 of this title and, except as provided in section 4810 of this title, no others.
+An order shall contain such terms and conditions as are required in sections 4806 through 4809 of this title and, except as provided in section 4810 of this title, no others.
 
 (Pub. L. 99–198, title XVI, §1616, Dec. 23, 1985, 99 Stat. 1609.)
 

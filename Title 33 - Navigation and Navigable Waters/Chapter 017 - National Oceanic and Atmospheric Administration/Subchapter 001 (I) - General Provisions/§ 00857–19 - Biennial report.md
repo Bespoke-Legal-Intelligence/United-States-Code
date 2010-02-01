@@ -44,7 +44,7 @@ Pub. L. 106–256, Aug. 7, 2000, 114 Stat. 644, as amended by Pub. L. 107–206,
 
 “(a)
 
-Establishment.—There is hereby established the Commission on Ocean Policy. The Federal AdvisoryCommittee Act (5 U.S.C. App.), except for sections 3, 7, and 12, does not apply to the Commission.
+Establishment.—There is hereby established the Commission on Ocean Policy. The Federal Advisory Committee Act (5 U.S.C. App.), except for sections 3, 7, and 12, does not apply to the Commission.
 
 “(b)
 
@@ -106,7 +106,7 @@ Notice; Minutes; Public Availability of Documents.—
 
 &emsp;&emsp;“(A) All open meetings of the Commission shall be preceded by timely public notice in the Federal Register of the time, place, and subject of the meeting.
 
-&emsp;&emsp;“(B) Minutes of each meeting shall be kept and shall contain a record of the people present, a description of the discussion that occurred, and copies of all statements filed. Subject to section 552 of title 5, United States Code, the minutes and records of all meetings and other documents that were made available to or prepared for the Commission shall be available for public inspection and copying at a single location in the offices of the Commission.
+&emsp;&emsp;“(B) Minutes of each meeting shall be kept and shall contain a record of the people present, a description of the discussion that occurred, and copiesof all statements filed. Subject to section 552 of title 5, United States Code, the minutes and records of all meetings and other documents that were made available to or prepared for the Commission shall be available for public inspection and copying at a single location in the offices of the Commission.
 
 &emsp;“(3)
 

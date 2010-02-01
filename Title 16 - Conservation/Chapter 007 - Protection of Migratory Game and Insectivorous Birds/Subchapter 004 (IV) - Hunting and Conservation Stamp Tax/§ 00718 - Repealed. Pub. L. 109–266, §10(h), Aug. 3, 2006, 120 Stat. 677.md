@@ -94,7 +94,7 @@ Consultation.—The Secretary shall carry out the program in consultation with S
 
 “(a)
 
-Approval of Application Required.—A State may not participate in the pilot program under this Act unless the Secretary has received and approved an application submitted by the State in accordance with this section.
+Approval of Application Required.—A State may not participate in the pilot program under thisAct unless the Secretary has received and approved an application submitted by the State in accordance with this section.
 
 “(b)
 

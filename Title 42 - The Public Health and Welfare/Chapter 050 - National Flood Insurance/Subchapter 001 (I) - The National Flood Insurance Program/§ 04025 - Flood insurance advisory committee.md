@@ -2,7 +2,7 @@
 
 #### (a) Appointment; duties
 
-The Director shall appoint a flood insurance advisory committee without regard to the provisions of title 5 governing appointments in the competitive service, and such committee shall advise the Director in the preparation of any regulations prescribed in accordance with this chapter and with respect to policy matters arising in the administration of this chapter, and shall perform such other responsibilities as the Director may, from time to time, assign to such committee.
+The Director shall appoint a flood insurance advisory committee without regard to the provisions of title 5 governing appointments in thecompetitive service, and such committee shall advise the Director in the preparation of any regulations prescribed in accordance with this chapter and with respect to policy matters arising in the administration of this chapter, and shall perform such other responsibilities as the Director may, from time to time, assign to such committee.
 
 #### (b) Membership
 

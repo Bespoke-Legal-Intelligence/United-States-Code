@@ -8,7 +8,7 @@ Unless and until otherwise provided by Congress, water from the Central Arizona 
 
 (1) Irrigation and municipal and industrial water supply under the Central Arizona Project within the State of Arizona may, in the event the Secretary determines that it is necessary to effect repayment, be pursuant to master contracts with organizations which have power to levy assessments against all taxable real property within their boundaries. The terms and conditions of contracts or other arrangements whereby each such organization makes water from the Central Arizona Project available to users within its boundaries shall be subject to the Secretary's approval, and the United States shall, if the Secretary determines such action is desirable to facilitate carrying out the provisions of this chapter, have the right to require that it be a party to such contracts or that contracts subsidiary to the master contracts be entered into between the United States and any user. The provisions of this clause (1) shall not apply to the supplying of water to an Indian tribe for use within the boundaries of an Indian reservation.
 
-(2) Any obligation assumed pursuant to section 485h(d) of this title with respect to any project contract unit or irrigation block shall be repaid over a basic period of not more than fifty years; any water service provided pursuant to section 485h(e) of this title may be on the basis of delivery of water for a period of fifty years and for the delivery of such water at an identical price per acre-foot for water of the same class at the several points of delivery from the main canals and conduits and from such other points of delivery as the Secretary may designate; and long-term contracts relating to irrigation water supply shall provide that water made available thereunder may be made available by the Secretary for municipal or industrial purposes if and to the extent that such water is not required by the contractor for irrigation purposes.
+(2) Any obligation assumed pursuant to section 485h(d) of this title with respect to any project contract unit or irrigation block shall be repaid over a basic period of not more than fifty years; any water service provided pursuant to section 485h(e) of this title may be on the basis of delivery of water for a period of fifty years and for the delivery of such water at an identical price per acre-foot for water of the same class at the several points of delivery from themain canals and conduits and from such other points of delivery as the Secretary may designate; and long-term contracts relating to irrigation water supply shall provide that water made available thereunder may be made available by the Secretary for municipal or industrial purposes if and to the extent that such water is not required by the contractor for irrigation purposes.
 
 (3) Contracts relating to municipal and industrial water supply under the Central Arizona Project may be made without regard to the limitations of the last sentence of section 485h(c) of this title; may provide for the delivery of such water at an identical price per acre-foot for water of the same class at the several points of delivery from the main canals and conduits; and may provide for repayment over a period of fifty years if made pursuant to clause (1) of said section and for the delivery of water over a period of fifty years if made pursuant to clause (2) thereof.
 
@@ -22,7 +22,7 @@ The Secretary may require in any contract under which water is provided from the
 
 #### (e) Water shortage priorities
 
-In times of shortage or reduction of main stream Colorado River water for the Central Arizona Project, as determined by the Secretary, users which have yielded water from other sources in exchange for main stream water supplied by that project shall have a first priority to receive main stream water, as against other users supplied by that project which have not so yielded water from othersources, but only in quantities adequate to replace the water so yielded.
+In times of shortage or reduction of main stream Colorado River water for the Central Arizona Project, as determined by the Secretary, users which have yielded water from other sources in exchange for main stream water supplied by that project shall have a first priority to receive main stream water, as against other users supplied by that project which have not so yielded water from other sources, but only in quantities adequate to replace the water so yielded.
 
 #### (f) New Mexico users; water exchange contracts
 
@@ -40,7 +40,7 @@ The Boulder Canyon Project Act, referred to in subsec. (c), is act Dec. 21, 1928
 
 #### Codification
 
-Subsec. (g) of this section, which restricted the use of water from the projects authorized by this chapter for the production of basic agricultural commodities on newly irrigated lands for a period of ten years from Sept. 30, 1968, was omitted.
+Subsec. (g) of this section, which restricted the use of water from the projects authorized by this chapter forthe production of basic agricultural commodities on newly irrigated lands for a period of ten years from Sept. 30, 1968, was omitted.
 
 #### Amendments
 

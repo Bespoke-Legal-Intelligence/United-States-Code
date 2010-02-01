@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(4) decisions affecting imports, exports, and interstate movement of products regulated under this chapter shall be based on sound science;
 
-&emsp;(5) the smooth movement of enterable plants, plant products, biological control organisms, or other articles into, out of, or within the United States is vital to the United State's economy and should be facilitated to the extent possible;
+&emsp;(5) the smooth movement of enterable plants, plant products, biological control organisms, or other articles into, out of, or within the United States is vital to the United State's <sup>1</sup> economy and should be facilitated to the extent possible;
 
 &emsp;(6) export markets could be severely impacted by the introduction or spread of plant pests or noxious weeds into or within the United States;
 
@@ -99,4 +99,6 @@ Consideration.—In carrying out subsection (a), the Secretary shall consider—
 &emsp;&emsp;“(G) to submit reports as the Secretary considers to be appropriate.”
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
+
+<i><sup>1</sup></i><i> So in original.</i>
 

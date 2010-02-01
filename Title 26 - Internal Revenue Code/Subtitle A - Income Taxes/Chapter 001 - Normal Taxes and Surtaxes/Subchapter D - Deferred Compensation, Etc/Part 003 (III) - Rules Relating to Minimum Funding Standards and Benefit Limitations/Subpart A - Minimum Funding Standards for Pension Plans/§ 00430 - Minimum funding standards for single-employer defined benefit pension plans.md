@@ -2,7 +2,7 @@
 
 #### (a) Minimum required contribution
 
-For purposes of this section and section 412(a)(2)(A), except as provided in subsection (f), the term “minimum required contribution” means, with respect to any plan year of a defined benefit plan which is not a multiemployer plan—
+For purposes of this section and section 412(a)(2)(A), except as provided in subsection (f),the term “minimum required contribution” means, with respect to any plan year of a defined benefit plan which is not a multiemployer plan—
 
 &emsp;(1) in any case in which the value of plan assets of the plan (as reduced under subsection (f)(4)(B)) is less than the funding target of the plan for the plan year, the sum of—
 
@@ -414,7 +414,7 @@ For purposes of this section—
 
 #### (i) First segment rate
 
-&emsp;&emsp;&emsp;The term “first segment rate” means, with respect to any month, the single rate of interest which shall be determined by the Secretary for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based onbonds maturing during the 5-year period commencing with such month.
+&emsp;&emsp;&emsp;The term “first segment rate” means, with respect to any month, the single rate of interest which shall be determined by the Secretary for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during the 5-year period commencing with such month.
 
 #### (ii) Second segment rate
 
@@ -480,7 +480,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Upon request by the plan sponsor and approval by the Secretary, a mortality tablewhich meets the requirements of clause (iii) shall be used in determining any present value or making any computation under this section during the period of consecutive plan years (not to exceed 10) specified in the request.
+&emsp;&emsp;&emsp;Upon request by the plan sponsor and approval by the Secretary, a mortality table which meets the requirements of clause (iii) shall be used in determining any present value or making any computation under this section during the period of consecutive plan years (not to exceed 10) specified in the request.
 
 #### (ii) Early termination of period
 
@@ -496,7 +496,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) there is a sufficient number of plan participants, and the pension plans have been maintained for a sufficient period of time, to have credible information necessary for purposes of subclause (II), and
 
-&emsp;&emsp;&emsp;&emsp;(II) such table reflects the actual experience of the pension plans maintained by the sponsor and projected trends in general mortality experience.
+&emsp;&emsp;&emsp;&emsp;(II) such table reflects the actual experience of the pension plans maintainedby the sponsor and projected trends in general mortality experience.
 
 #### (iv) All plans in controlled group must use separate table
 
@@ -552,7 +552,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the plan is a defined benefit plan (other than a multiemployer plan) to which title IV of the Employee Retirement Income Security Act of 1974 applies,
 
-&emsp;&emsp;&emsp;(ii) the aggregate unfunded vested benefits as of the close of the preceding planyear (as determined under section 4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974) of such plan and all other plans maintained by the contributing sponsors (as defined in section 4001(a)(13) of such Act) and members of such sponsors’ controlled groups (as defined in section 4001(a)(14) of such Act) which are covered by title IV (disregarding plans with no unfunded vested benefits) exceed $50,000,000, and
+&emsp;&emsp;&emsp;(ii) the aggregate unfunded vested benefits as of the close of the preceding plan year (as determined under section 4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974) of such plan and all other plans maintained by the contributing sponsors (as defined in section 4001(a)(13) of such Act) and members of such sponsors’ controlled groups (as defined in section 4001(a)(14) of such Act) which are covered by title IV (disregarding plans with no unfunded vested benefits) exceed $50,000,000, and
 
 &emsp;&emsp;&emsp;(iii) the change in assumptions (determined after taking into account any changes in interest rate and mortality table) results in a decrease in the funding shortfall of the plan for the current plan year that exceeds $50,000,000, or that exceeds $5,000,000 and that is 5 percent or more of the funding target of the plan before such change.
 
@@ -564,7 +564,7 @@ For purposes of this section—
 
 &emsp;&emsp;In the case of a plan which is in at-risk status for a plan year, the funding target of the plan for the plan year shall be equal to the sum of—
 
-&emsp;&emsp;&emsp;(i) the present value of all benefits accrued or earned under the plan as of the beginning of the plan year, as determined by using the additional actuarial assumptions described in subparagraph (B), and
+&emsp;&emsp;&emsp;(i) the present value of all benefits accrued or earned under the plan as of the beginning of the plan year, as determinedby using the additional actuarial assumptions described in subparagraph (B), and
 
 &emsp;&emsp;&emsp;(ii) in the case of a plan which also has been in at-risk status for at least 2 of the 4 preceding plan years, a loading factor determined under subparagraph (C).
 
@@ -652,7 +652,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) any manufacturer of automobiles, and
 
-&emsp;&emsp;&emsp;&emsp;(II) any manufacturer of automobile parts which supplies such parts directly to a manufacturer of automobiles and which, after a transaction or series of transactions ending in 1999, ceased to be a member of a controlled group which included such manufacturer of automobiles.
+&emsp;&emsp;&emsp;&emsp;(II) any manufacturer of automobile parts which supplies such parts directly to a manufacturer of automobiles and which, after a transaction or series of transactions ending in 1999, ceased to bea member of a controlled group which included such manufacturer of automobiles.
 
 #### (5) Transition between applicable funding targets and between applicable target normal costs
 
@@ -857,7 +857,7 @@ For purposes of this section—
 
 #### (vi) Quarter
 
-&emsp;&emsp;&emsp;The term “quarter” means, with respect to any required installment, the 3-month period preceding the month in which the due date for such installment occurs.
+&emsp;&emsp;&emsp;The term “quarter” means, with respect to any required installment, the 3-monthperiod preceding the month in which the due date for such installment occurs.
 
 #### (F) Regulations
 
@@ -925,7 +925,7 @@ In the case of a qualified transfer (as defined in section 420), any assets so t
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsecs. (h)(5)(B)(i), (ii) and (k)(2), (4)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29, Labor. Sections 4001, 4006, 4021, and 4068 of the Act are classified to sections 1301, 1306, 1321, and 1368, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
@@ -999,7 +999,7 @@ Pub. L. 109–280, title I, §112(b), Aug. 17, 2006, 120 Stat. 846, provided tha
 
 #### Applicability of Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
+For special rules on applicability of subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
 
 #### Modification of Transition Rule to Pension Funding Requirements
 

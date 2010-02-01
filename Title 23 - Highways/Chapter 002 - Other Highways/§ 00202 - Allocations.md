@@ -76,7 +76,7 @@ Negotiated rulemaking committee.—In establishing a negotiated rulemaking commi
 
 &emsp;&emsp;(D)
 
-Basis for funding formula.—The funding formula established for fiscal year2000 and each subsequent fiscal year under this paragraph shall be based on factors that reflect—
+Basis for funding formula.—The funding formula established for fiscal year 2000 and each subsequent fiscal year under this paragraph shall be based on factors that reflect—
 
 &emsp;&emsp;&emsp;(i) the relative needs of the Indian tribes, and reservation or tribal communities, for transportation assistance; and
 
@@ -104,7 +104,7 @@ In general.—Of the funds authorized to be appropriated for Indian reservation 
 
 &emsp;&emsp;&emsp;(ii)
 
-Health and safety assurances.—Notwithstanding any other provision of law, an Indian tribal government may approve plans, specifications, and estimates and commence road and bridge construction with funds made available for Indian reservation roads under the Transportation Equity Act for the 21st Century (Public Law 105–178) and SAFETEA–LU through a contract or agreement under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b et seq.) <sup>1</sup> if the Indian tribal government—
+Health and safety assurances.—Notwithstanding any other provision of law, an Indian tribal government may approve plans, specifications, and estimates and commence road and bridge construction with funds made available for Indian reservation roads under the Transportation Equity Act for the 21st Century (Public Law 105–178) and SAFETEA–LU through a contract or agreement under the Indian Self-Determination and EducationAssistance Act (25 U.S.C. 450b et seq.) <sup>1</sup> if the Indian tribal government—
 
 &emsp;&emsp;&emsp;&emsp;(I) provides assurances in the contract or agreement that the construction will meet or exceed applicable health and safety standards;
 
@@ -172,7 +172,7 @@ Funding.—
 
 &emsp;&emsp;&emsp;(i)
 
-Authorization of appropriations.—In addition to any other funds made available for Indian reservation roads for each fiscal year, there is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) $14,000,000 for each of fiscal years 2005 through 2009 to carry out planning, design, engineering, preconstruction, construction, and inspection of projects to replace, rehabilitate, seismically retrofit, paint, apply calcium magnesium acetate, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and de-icing compositions or install scour countermeasures for deficient Indian reservation road bridges, including multiple-pipe culverts.
+Authorization of appropriations.—In addition to any other funds made available for Indian reservation roads for each fiscal year, there is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) $14,000,000 for each of fiscal years 2005 through 2009 to carry out planning, design, engineering, preconstruction, construction, and inspection of projects to replace, rehabilitate, seismically retrofit, paint, apply calcium magnesium acetate, sodium acetate/formate, or other environmentallyacceptable, minimally corrosive anti-icing and de-icing compositions or install scour countermeasures for deficient Indian reservation road bridges, including multiple-pipe culverts.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -224,7 +224,7 @@ Secretary as signatory.—Notwithstanding any other provision of law, the Secret
 
 &emsp;&emsp;(E)
 
-Funding.—The amount an Indian tribal government receives for a program or project under subparagraph (A) shall equalthe sum of the funding that the Indian tribal government would otherwise receive for the program or project in accordance with the funding formula established under this subsection and such additional amounts as the Secretary determines equal the amounts that would have been withheld for the costs of the Bureau of Indian Affairs for administration of the program or project.
+Funding.—The amount an Indian tribal government receives for a program or project under subparagraph (A) shall equal the sum of the funding that the Indian tribal government would otherwise receive for the program or project in accordance with the funding formula established under this subsection and such additional amounts as the Secretary determines equal the amounts that would have been withheld for the costs of the Bureau of Indian Affairs for administration of the program or project.
 
 &emsp;&emsp;(F)
 
@@ -244,7 +244,7 @@ Assumption of functions and duties.—An Indian tribal government receiving fund
 
 &emsp;&emsp;(H)
 
-Powers.—An Indian tribal government receiving funding under subparagraph (A) for a program or project shall have all powers that the Secretary of the Interior would have exercised in administering the funds transferred to the Indian tribal government for such program or project under this section if the funds had not been transferred, except to the extent that such powers are powers that inherently cannot be legally transferred under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b et seq.).<sup>1</sup>
+Powers.—An Indian tribal government receiving funding under subparagraph (A) for a program or project shall have all powers that the Secretary of the Interior would have exercised in administering the funds transferred to the Indian tribal government for such program or project under this section if the funds had not been transferred,except to the extent that such powers are powers that inherently cannot be legally transferred under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b et seq.).<sup>1</sup>
 
 &emsp;&emsp;(I)
 
@@ -280,7 +280,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 2005—Subsec. (a). Pub. L. 109–59, §1119(c)(1), inserted subsec. heading, substituted par. (1) for “On October 1 of each fiscal year, the Secretary shall allocate the sums authorized to be appropriated for such fiscal year for forest development roads and trails according to the relative needs of the various national forests.”, inserted par. (2) designation and heading, and substituted “The allocation under paragraph (1)” for “Such allocation”.
 
-Subsec. (b). Pub. L. 109–59, §1119(d), added subsec. (b) and struck out former subsec. (b) which read as follows: “On October 1 of each fiscal year, the Secretary shall allocate 34 percent of the sums authorized to be appropriated for such fiscal year for public lands highwaysamong those States having unappropriated or unreserved public lands, nontaxable Indian lands or other Federal reservations, on the basis of need in such States, respectively, as determined by the Secretary upon application of the State transportation departments of the respective States. The Secretary shall give preference to those projects which are significantly impacted by Federal land and resource management activities which are proposed by a State which contains at least 3 percent of the total public lands in the Nation. The Secretary shall allocate 66 percent of the remainder of the authorization for public lands highways for each fiscal year as is provided in section 134 of the Federal-Aid Highway Act of 1987, and with respect to these allocations the Secretary shall give equal consideration to projects that provide access to and within the National Forest System, as identified by the Secretary of Agriculture through renewable resources and land use planning and the impact of such planning on existing transportation facilities.”
+Subsec. (b). Pub. L. 109–59, §1119(d), added subsec. (b) and struck out former subsec. (b) which read as follows: “On October 1 of each fiscal year, the Secretary shall allocate 34 percent of the sums authorized to be appropriated for such fiscal year for public lands highways among those States having unappropriated or unreserved public lands, nontaxable Indian lands or other Federal reservations, on the basis of need in such States, respectively, as determined by the Secretary upon application of the State transportation departments of the respective States. The Secretary shall give preference to those projects which are significantly impacted by Federal land and resource management activities which are proposed by a State which contains at least 3 percent of the total public lands in the Nation. The Secretary shall allocate 66 percent of the remainder of the authorization for public lands highways for each fiscal year as is provided in section 134 of the Federal-Aid Highway Act of 1987, and with respect to these allocations the Secretary shall give equal consideration to projects that provide access to and within the National Forest System, as identified by the Secretary of Agriculture through renewable resources and land use planning and the impact of such planning on existing transportation facilities.”
 
 Subsec. (d)(2)(E). Pub. L. 109–59, §1119(c)(2)(A), added subpar. (E).
 

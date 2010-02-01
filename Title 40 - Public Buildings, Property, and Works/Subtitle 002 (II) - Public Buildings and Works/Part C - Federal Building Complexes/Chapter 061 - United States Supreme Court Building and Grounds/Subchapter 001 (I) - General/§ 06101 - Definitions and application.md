@@ -54,7 +54,7 @@ Aug. 18, 1949, ch. 479, §11, 63 Stat. 617; Pub. L. 97–390, §1(d), Dec. 29, 1
 
 In subsection (a), the definition of “United States” is omitted as unnecessary because, within 40:13f–13p, the words “United States” are used in the geographical sense only in 40:13n(a)(2) and (c) and the restatement of those provisions, in section 6121 of the revised title, substitutes the words “any State” for “any part of the United States”.
 
-Before clause (1), the words “In this chapter, the following definitions apply” are substituted for “As usedin sections 13f to 13p of this title, the term—” for clarity. The terms are not used in 40:13a–13e, so using them chapter-wide does not expand their scope.
+Before clause (1), the words “In this chapter, the following definitions apply” are substituted for “As used in sections 13f to 13p of this title, the term—” for clarity. The terms are not used in 40:13a–13e, so using them chapter-wide does not expand their scope.
 
 In clause (2), the words “the Virgin Islands, Guam, the Northern Mariana Islands, the Federal States of Micronesia, the Marshall Islands, Palau, and any territory or possession of the United States” are substituted for “any territory or possession of the United States” to clarify that the provisions of the source law apply to those jurisdictions.
 

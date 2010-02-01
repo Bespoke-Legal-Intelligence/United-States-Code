@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) The head of a Federal agency may enter into contracts under this subchapter solely forthe purpose of achieving energy savings and benefits ancillary to that purpose. Each such contract may, notwithstanding any other provision of law, be for a period not to exceed 25 years. Such contract shall provide that the contractor shall incur costs of implementing energy savings measures, including at least the costs (if any) incurred in making energy audits, acquiring and installing equipment, and training personnel, in exchange for a share of any energy savings directly resulting from implementation of such measures during the term of the contract.
+(1) The head of a Federal agency may enter into contracts under this subchapter solely for the purpose of achieving energy savings and benefits ancillary to that purpose. Each such contract may, notwithstanding any other provision of law, be for a period not to exceed 25 years. Such contract shall provide that the contractor shall incur costs of implementing energy savings measures, including at least the costs (if any) incurred in making energy audits, acquiring and installing equipment, and training personnel, in exchange for a share of any energy savings directly resulting from implementation of such measures during the term of the contract.
 
 (2)(A) Contracts under this subchapter shall be energy savings performance contracts and shall require an annual energy audit and specify the terms and conditions of any Government payments and performance guarantees. Any such performance guarantee shall provide that the contractor is responsible for maintenance and repair services for any energy related equipment, including computer software systems.
 
@@ -84,7 +84,7 @@ The Energy Independence and Security Act of 2007, referred to in subsec. (a)(2)(
 
 2007—Subsec. (a)(2)(D). Pub. L. 110–140, §513(1), inserted “beginning on the date of the delivery order” after “25 years” in introductory provisions.
 
-Subsec. (a)(2)(D)(iii), (iv). Pub. L. 110–140, §511(a), redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “30 days before the award of any such contract that contains a clause setting forth a cancellation ceiling in excess of $10,000,000, the head of such agency gives written notification of such proposed contract and of the proposed cancellation ceiling for such contract to the appropriate authorizing and appropriating committees of the Congress; and”.
+Subsec. (a)(2)(D)(iii), (iv). Pub. L. 110–140, §511(a), redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “30 days before the award of any such contract that contains a clause setting forth a cancellation ceiling in excess of $10,000,000, the head of such agency gives written notification of such proposedcontract and of the proposed cancellation ceiling for such contract to the appropriate authorizing and appropriating committees of the Congress; and”.
 
 Subsec. (a)(2)(E). Pub. L. 110–140, §512, added subpar. (E).
 

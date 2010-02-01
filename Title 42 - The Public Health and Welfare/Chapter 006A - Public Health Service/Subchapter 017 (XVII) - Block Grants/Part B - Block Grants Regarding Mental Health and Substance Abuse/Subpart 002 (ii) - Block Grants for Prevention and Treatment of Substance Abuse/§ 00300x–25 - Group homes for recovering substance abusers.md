@@ -32,7 +32,7 @@ The Secretary shall ensure that there are in effect guidelines under this subpar
 
 The requirements established in subsection (a) of this section shall not apply to any territory of the United States other than the Commonwealth of Puerto Rico.
 
-(July 1, 1944, ch. 373, title XIX, §1925, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 393; amended Pub. L. 106–310, div. B, title XXXIII, §3303(b), Oct. 17, 2000, 114 Stat. 1210.)
+(July 1, 1944, ch. 373, title XIX, §1925, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106Stat. 393; amended Pub. L. 106–310, div. B, title XXXIII, §3303(b), Oct. 17, 2000, 114 Stat. 1210.)
 
 #### Prior Provisions
 

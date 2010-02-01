@@ -8,7 +8,7 @@ Congress makes the following findings:
 
 &emsp;(3)(A) At the end of 2002, an estimated 42,000,000 individuals were infected with HIV or living with AIDS, of which more than 75 percent live in Africa or the Caribbean. Of these individuals, more than 3,200,000 were children under the age of 15 and more than 19,200,000 were women.
 
-&emsp;(B) Women are four times more vulnerable to infection than are men and are becoming infected at increasingly high rates, in part because many societies do not provide poorwomen and young girls with the social, legal, and cultural protections against high risk activities that expose them to HIV/AIDS.
+&emsp;(B) Women are four times more vulnerable to infection than are men and are becoming infected at increasingly high rates, in part because many societies do not provide poor women and young girls with the social, legal, and cultural protections against high risk activities that expose them to HIV/AIDS.
 
 &emsp;(C) Women and children who are refugees or are internally displaced persons are especially vulnerable to sexual exploitation and violence, thereby increasing the possibility of HIV infection.
 
@@ -42,7 +42,7 @@ Congress makes the following findings:
 
 &emsp;(15) HIV/AIDS is first and foremost a health problem. Successful strategies to stem the spread of the HIV/AIDS pandemic will require clinical medical interventions, the strengthening of health care delivery systems and infrastructure, and determined national leadership and increased budgetary allocations for the health sector in countries affected by the epidemic as well as measures to address the social and behavioral causes of the problem and its impact on families, communities, and societal sectors.
 
-&emsp;(16) Basic interventions to prevent new HIV infections and to bring care and treatment to people living with AIDS, such as voluntary counseling and testing and mother-to-child transmission programs, are achieving meaningful results and are cost-effective. The challenge is to expand these interventions from apilot program basis to a national basis in a coherent and sustainable manner.
+&emsp;(16) Basic interventions to prevent new HIV infections and to bring care and treatment to people living with AIDS, such as voluntary counseling and testing and mother-to-child transmission programs, are achieving meaningful results and are cost-effective. The challenge is to expand these interventions from a pilot program basis to a national basis in a coherent and sustainable manner.
 
 &emsp;(17) Appropriate treatment of individuals with HIV/AIDS can prolong the lives of such individuals, preserve their families, prevent children from becoming orphans, and increase productivity of such individuals by allowing them to lead active lives and reduce the need for costly hospitalization for treatment of opportunistic infections caused by HIV.
 
@@ -56,7 +56,7 @@ Congress makes the following findings:
 
 &emsp;(C) Uganda's successful AIDS treatment and prevention program is referred to as the ABC model: “Abstain, Be faithful, use Condoms”, in order of priority. Jamaica, Zambia, Ethiopia and Senegal have also successfully used the ABC model. Beginning in 1986, Uganda brought about a fundamental change in sexual behavior by developing a low-cost program with the message: “Stop having multiple partners. Be faithful. Teenagers, wait until you are married before you begin sex.”.
 
-&emsp;(D) By 1995, 95 percent of Ugandans were reporting either one or zero sexual partners in the past year, and the proportion of sexually active youth declined significantly from the late 1980s to the mid-1990s. The greatest percentage decline in HIV infections and the greatest degree of behavioral change occurred in those 15 to 19 years old. Uganda's success shows that behavior change, through the use of the ABC model, is a very successful way to prevent the spread of HIV.
+&emsp;(D) By 1995, 95 percent of Ugandans were reporting either one or zero sexual partners in the past year, and the proportion of sexually active youth declined significantly from the late 1980s to the mid-1990s. The greatest percentage decline in HIV infections and the greatest degree of behavioral change occurred in those 15 to 19 years old. Uganda's success shows that behavior change, through the useof the ABC model, is a very successful way to prevent the spread of HIV.
 
 &emsp;(21) The magnitude and scope of the HIV/AIDS crisis demands a comprehensive, long-term, international response focused upon addressing the causes, reducing the spread, and ameliorating the consequences of the HIV/AIDS pandemic, including—
 
@@ -94,7 +94,7 @@ Congress makes the following findings:
 
 &emsp;(28) Finally, the President stated that “\[w\]e have confronted, and will continue to confront, HIV/AIDS in our own country”, proposing now that the United States should lead the world in sparing innocent people from a plague of nature, and asking Congress “to commit $15,000,000,000 over the next five years, including nearly $10,000,000,000 in new money, to turn the tide against AIDS in the most afflicted nations of Africa and the Caribbean”.
 
-&emsp;(29) On May 27, 2003, the President signed this chapter into law, launching the largest international public health program of its kind ever created.
+&emsp;(29) On May 27, 2003, the President signed this chapter into law, launching the largestinternational public health program of its kind ever created.
 
 &emsp;(30) Between 2003 and 2008, the United States, through the President's Emergency Plan for AIDS Relief (PEPFAR) and in conjunction with other bilateral programs and the multilateral Global Fund has helped to—
 
@@ -130,7 +130,7 @@ Congress makes the following findings:
 
 &emsp;(38) Lack of health capacity, including insufficient personnel and inadequate infrastructure, in sub-Saharan Africa and other regions of the world is a critical barrier that limits the effectiveness of efforts to combat HIV/AIDS, tuberculosis, and malaria, and to achieve other global health goals.
 
-&emsp;(39) On March 30, 2007, the Institute of Medicine of the National Academies released a report entitled “PEPFAR Implementation: Progress and Promise”, which found that budget allocations setting percentage levelsfor spending on prevention, care, and treatment and for certain subsets of activities within the prevention category—
+&emsp;(39) On March 30, 2007, the Institute of Medicine of the National Academies released a report entitled “PEPFAR Implementation: Progress and Promise”, which found that budget allocations setting percentage levels for spending on prevention, care, and treatment and for certain subsets of activities within the prevention category—
 
 &emsp;&emsp;(A) have “adversely affected implementation of the U.S. Global AIDS Initiative”;
 

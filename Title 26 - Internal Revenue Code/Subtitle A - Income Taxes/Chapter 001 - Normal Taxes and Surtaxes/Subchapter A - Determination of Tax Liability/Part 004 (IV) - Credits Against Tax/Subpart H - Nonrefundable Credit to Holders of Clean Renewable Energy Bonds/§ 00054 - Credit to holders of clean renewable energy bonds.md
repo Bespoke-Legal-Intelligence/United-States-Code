@@ -46,7 +46,7 @@ The credit allowed under subsection (a) for any taxable year shall not exceed th
 
 &emsp;(1) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;(2) the sum of the credits allowable under this part (other than subparts C and I, section 1400N(<i>l</i>), and this section).
+&emsp;(2) the sum of the credits allowable under this part (other than subparts C, I, and J, section 1400N(<i>l</i>), and this section).
 
 #### (d) Clean renewable energy bond
 
@@ -116,7 +116,7 @@ Gross income includes the amount of the credit allowed to the taxpayer under thi
 
 #### (1) In general
 
-&emsp;An issue shall be treated as meeting the requirements of this subsection if, as of the dateof issuance, the qualified issuer reasonably expects—
+&emsp;An issue shall be treated as meeting the requirements of this subsection if, as of the date of issuance, the qualified issuer reasonably expects—
 
 &emsp;&emsp;(A) at least 95 percent of the proceeds of such issue are to be spent for one or more qualified projects within the 5-year period beginning on the date of issuance of the clean energy bond,
 
@@ -196,15 +196,11 @@ For purposes of this section—
 
 &emsp;&emsp;In the case of a bond held by a partnership or an S corporation, rules similar to the rules under section 1397E(<i>l</i>) shall apply.
 
-#### (4) Bonds held by regulated investment companies
-
-&emsp;If any clean renewable energy bond is held by a regulated investment company, the credit determined under subsection (a) shall be allowed to shareholders of such company under procedures prescribed by the Secretary.
-
-#### (5) Ratable principal amortization required
+#### (4) Ratable principal amortization required
 
 &emsp;A bond shall not be treated as a clean renewable energy bond unless it is part of an issue which provides for an equal amount of principal to be paid by the qualified issuer during each calendar year that the issue is outstanding.
 
-#### (6) Reporting
+#### (5) Reporting
 
 &emsp;Issuers of clean renewable energy bonds shall submit reports similar to the reports required under section 149(e).
 
@@ -212,7 +208,7 @@ For purposes of this section—
 
 This section shall not apply with respect to any bond issued after December 31, 2009.
 
-(Added Pub. L. 109–58, title XIII, §1303(a), Aug. 8, 2005, 119 Stat. 992; amended Pub. L. 109–135, title I, §101(b)(1), title IV, §402(c)(1), Dec. 21, 2005, 119 Stat. 2593, 2610; Pub. L. 109–222, title V, §508(d)(3), May 17, 2006, 120 Stat. 362; Pub. L. 109–432, div. A, title I, §107(b)(2), title II, §202(a), Dec. 20, 2006, 120 Stat. 2939, 2944; Pub. L. 110–234, title XV, §15316(c)(1), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(1), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–343, div. B, title I, §107(c), Oct. 3, 2008, 122 Stat. 3819.)
+(Added Pub. L. 109–58, title XIII, §1303(a), Aug. 8, 2005, 119 Stat. 992; amended Pub. L. 109–135, title I, §101(b)(1), title IV, §402(c)(1), Dec. 21, 2005, 119 Stat. 2593, 2610; Pub. L. 109–222, title V, §508(d)(3), May 17, 2006, 120 Stat. 362; Pub. L. 109–432, div. A, title I, §107(b)(2), title II, §202(a), Dec. 20, 2006, 120 Stat. 2939, 2944; Pub. L. 110–234, title XV, §15316(c)(1), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(1), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–343, div. B, title I, §107(c), Oct. 3, 2008, 122 Stat. 3819; Pub. L. 111–5, div. B, title I, §§1531(c)(3), 1541(b)(1), Feb. 17, 2009, 123 Stat. 360, 362.)
 
 #### References in Text
 
@@ -225,6 +221,10 @@ The Rural Electrification Act, referred to in subsec. (j)(1), probably means the
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2009—Subsec. (c)(2). Pub. L. 111–5, §1531(c)(3), substituted “, I, and J” for “and I”.
+
+Subsec. (<i>l</i>)(4) to (6). Pub. L. 111–5, §1541(b)(1), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4). Prior to amendment, text read as follows: “If any clean renewable energy bond is held by a regulated investment company, the credit determined under subsection (a) shall be allowed to shareholders of such company under procedures prescribed by the Secretary.”
 
 2008—Subsec. (c)(2). Pub. L. 110–246, §15316(c)(1), substituted “subparts C and I” for “subpart C”.
 
@@ -243,6 +243,12 @@ Subsec. (m). Pub. L. 109–432, §202(a)(3), substituted “2008” for “2007�
 2005—Subsec. (c)(2). Pub. L. 109–135, §101(b)(1), inserted “, section 1400N(<i>l</i>),” after “subpart C”.
 
 Subsec. (<i>l</i>)(5) to (7). Pub. L. 109–135, §402(c)(1), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out heading and text of former par. (5). Text read as follows: “Solely for purposes of sections 6654 and 6655, the credit allowed by this section (determined without regard to subsection (c)) to a taxpayer by reason of holding a clean renewable energy bond on a credit allowance date shall be treated as if it were a payment of estimated tax made by the taxpayer on such date.”
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–5, div. B, title I, §1531(e), Feb. 17, 2009, 123 Stat. 360, provided that: “The amendments made by this section \[enacting subpart J of this part and section 6431 of this title and amending this section, sections 54A, 1397E, 1400N, 6211, and 6401 of this title, and section 1324 of Title 31, Money and Finance\] shall apply to obligations issued after the date of the enactment of this Act \[Feb. 17, 2009\].”
+
+Pub. L. 111–5, div. B, title I, §1541(c), Feb. 17, 2009, 123 Stat. 362, provided that: “The amendments made by this section \[enacting section 853A of this title and amending this section and section 54A of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
 #### Effective Date of 2008 Amendment
 

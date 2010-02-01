@@ -30,7 +30,7 @@ Pub. L. 108–159, §3, Dec. 4, 2003, 117 Stat. 1953, provided that: “Except a
 
 #### Effective Date
 
-Section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §602, Oct. 26, 1970, 84 Stat. 1136, provided that: “Title VI \[enacting this subchapter\] takes effect upon the expiration of one hundred and eighty days following the date of its enactment \[Oct. 26, 1970\].”
+Section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §602, Oct. 26, 1970, 84 Stat. 1136, providedthat: “Title VI \[enacting this subchapter\] takes effect upon the expiration of one hundred and eighty days following the date of its enactment \[Oct. 26, 1970\].”
 
 #### Short Title
 
@@ -102,7 +102,7 @@ Areas for study.—In conducting the study under paragraph (1), the Commission s
 
 &emsp;&emsp;&emsp;“(ii) the potential impact of such notification on the ability of consumers to remove fraudulent information from their credit reports;
 
-&emsp;&emsp;“(C) the effects of requiring that a consumer who has experienced an adverse action based on a creditreport receives a copy of the same credit report that the creditor relied on in taking the adverse action, including—
+&emsp;&emsp;“(C) the effects of requiring that a consumer who has experienced an adverse action based on a credit report receives a copy of the same credit report that the creditor relied on in taking the adverse action, including—
 
 &emsp;&emsp;&emsp;“(i) the extent to which providing such reports to consumers would increase the ability of consumers to identify errors in their credit reports; and
 

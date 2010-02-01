@@ -6,7 +6,7 @@ Subject to subsections (g) and (h) of this section and after receipt by the Secr
 
 #### (b) Response by Secretary
 
-(1) The Secretary of Energy shall transmit to the Board, in writing, a statement on whether the Secretary accepts or rejects, in whole or in part, the recommendations submitted to him by the Board under section 2286a of this title, a description of the actions to be taken in response to the recommendations, and his views on such recommendations. The Secretary of Energy shall transmit his response to the Board within 45 days after the date of the publication, under subsection (a) of this section, of the notice with respect to such recommendations or within such additional period, not to exceed 45 days, as the Board may grant.
+(1) The Secretary of Energy shall transmit to the Board, in writing, a statement on whetherthe Secretary accepts or rejects, in whole or in part, the recommendations submitted to him by the Board under section 2286a of this title, a description of the actions to be taken in response to the recommendations, and his views on such recommendations. The Secretary of Energy shall transmit his response to the Board within 45 days after the date of the publication, under subsection (a) of this section, of the notice with respect to such recommendations or within such additional period, not to exceed 45 days, as the Board may grant.
 
 (2) At the same time as the Secretary of Energy transmits his response to the Board under paragraph (1), the Secretary, subject to subsection (h) of this section, shall publish such response, together with a request for public comment on his response, in the Federal Register.
 
@@ -36,7 +36,7 @@ The Secretary of Energy shall prepare a plan for the implementation of each Boar
 
 (1) In any case in which the Board determines that a recommendation submitted to the Secretary of Energy under section 2286a of this title relates to an imminent or severe threat to public health and safety, the Board and the Secretary of Energy shall proceed under this subsection in lieu of subsections (a) through (d) of this section.
 
-(2) At the same time that the Board transmits a recommendation relating to an imminent or severe threat to the Secretary of Energy, the Board shall also transmit the recommendation to the President and for information purposes to the Secretary of Defense. The Secretary of Energy shall submit his recommendation to the President. The President shall review the Secretary of Energy's recommendation and shallmake the decision concerning acceptance or rejection of the Board's recommendation.
+(2) At the same time that the Board transmits a recommendation relating to an imminent or severe threat to the Secretary of Energy, the Board shall also transmit the recommendation to the President and for information purposes to the Secretary of Defense. The Secretary of Energy shall submit his recommendation to the President. The President shall review the Secretary of Energy's recommendation and shall make the decision concerning acceptance or rejection of the Board's recommendation.
 
 (3) After receipt by the President of the recommendation from the Board under this subsection, the Board promptly shall make such recommendation available to the public and shall transmit such recommendation to the Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives. The President shall promptly notify such committees and the Speaker of his decision and the reasons for that decision.
 

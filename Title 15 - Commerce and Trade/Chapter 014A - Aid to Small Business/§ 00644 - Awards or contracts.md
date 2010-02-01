@@ -36,7 +36,7 @@ With respect to any work to be performed the amount of which would exceed the ma
 
 #### (d) Priority
 
-For purposes of this section priority shall be given to the awarding of contracts and the placement of subcontracts to small business concerns which shall perform a substantial proportion of the production on those contracts and subcontracts within areas of concentrated unemployment or underemployment or within labor surplus areas. Notwithstanding any other provision of law, total labor surplus area set-asides pursuant to Defense Manpower Policy Number 4 (32A C.F.R. Chapter 1) or any successor policy shall be authorized if the Secretary or his designee specifically determines that there is a reasonable expectation that offers will be obtained from a sufficient number of eligibleconcerns so that awards will be made at reasonable prices. As soon as practicable and to the extent possible, in determining labor surplus areas, consideration shall be given to those persons who would be available for employment were suitable employment available. Until such definition reflects such number, the present criteria of such policy shall govern.
+For purposes of this section priority shall be given to the awarding of contracts and the placement of subcontracts to small business concerns which shall perform a substantial proportion of the production on those contracts and subcontracts within areas of concentrated unemployment or underemployment or within labor surplus areas. Notwithstanding any other provision of law, total labor surplus area set-asides pursuant to Defense Manpower Policy Number 4 (32A C.F.R. Chapter 1) or any successor policy shall be authorized if the Secretary or his designee specifically determines that there is a reasonable expectation that offers will be obtained from a sufficient number of eligible concerns so that awards will be made at reasonable prices. As soon as practicable and to the extent possible, in determining labor surplus areas, consideration shall be given to those persons who would be available for employment were suitable employment available. Until such definition reflects such number, the present criteria of such policy shall govern.
 
 #### (e) Procurement strategies; contract bundling
 
@@ -196,7 +196,7 @@ This subsection shall not apply to the Administration.
 
 &emsp;(ii) fully qualified, technically trained, and familiar with the supplies and services procured by the major procurement center to which they are assigned.
 
-(B) In addition to the requirements of subparagraph (A), each breakout procurement center representative, and at least one technical adviser assigned to such representative, shall be an accredited engineer.
+(B) In addition to the requirements of subparagraph (A), each breakout procurement centerrepresentative, and at least one technical adviser assigned to such representative, shall be an accredited engineer.
 
 (C) The Administration shall establish personnel positions for breakout procurement representatives and advisers assigned pursuant to this subsection, which are classified at a grade level of the General Schedule sufficient to attract and retain highly qualified personnel.
 
@@ -216,7 +216,7 @@ This subsection shall not apply to the Administration.
 
 (2) All procurement center representatives (including those referred to in subsection (k)(6) of this section), in addition to such other duties as may be assigned by the Administrator, shall—
 
-&emsp;(A) monitor the performance of the procurement activities to which they are assigned toascertain the degree of compliance with the requirements of paragraph (1);
+&emsp;(A) monitor the performance of the procurement activities to which they are assigned to ascertain the degree of compliance with the requirements of paragraph (1);
 
 &emsp;(B) report to their immediate supervisors all instances of noncompliance with such requirements; and
 
@@ -316,7 +316,7 @@ Prior similar provisions were contained in section 214 of act July 30, 1953, ch.
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–554, §1(a)(9) \[title VIII, §806(a)\], in eighth sentence, substituted “definition of a ‘United States industry’ under the North American Industry Classification System, as established” for “four-digit standard industrial classification codes contained in the Standard Industrial Classification Manual published”.
+2000—Subsec. (a). Pub. L. 106–554, §1(a)(9) \[title VIII, §806(a)\], in eighth sentence, substituted “definition of a‘United States industry’ under the North American Industry Classification System, as established” for “four-digit standard industrial classification codes contained in the Standard Industrial Classification Manual published”.
 
 Subsec. (p). Pub. L. 106–554, §1(a)(9) \[title VIII, §810\], added subsec. (p).
 
@@ -342,7 +342,7 @@ Subsec. (h)(2)(A), (D), (E). Pub. L. 106–50, §601(b)(2), inserted “small bu
 
 Subsec. (e). Pub. L. 105–135, §413(a), added subsec. (e).
 
-Subsec. (g)(1). Pub. L. 105–135, §603(b)(1), inserted “qualified HUBZone small business concerns,” after “small business concerns,” in two places, substituted “not less than 23 percent of the total value” for “not less than 20 percent of the total value”, and inserted after second sentence “The Governmentwide goal for participation by qualified HUBZone small business concerns shall be established at not less than 1 percent of the total value of all prime contract awards for fiscal year 1999, not less than 1.5 percent of the total value ofall prime contract awards for fiscal year 2000, not less than 2 percent of the total value of all prime contract awards for fiscal year 2001, not less than 2.5 percent of the total value of all prime contract awards for fiscal year 2002, and not less than 3 percent of the total value of all prime contract awards for fiscal year 2003 and each fiscal year thereafter.”
+Subsec. (g)(1). Pub. L. 105–135, §603(b)(1), inserted “qualified HUBZone small business concerns,” after “small business concerns,” in two places, substituted “not less than 23 percent of the total value” for “not less than 20 percent of the total value”, and inserted after second sentence “The Governmentwide goal for participation by qualified HUBZone small business concerns shall be established at not less than 1 percent of the total value of all prime contract awards for fiscal year 1999, not less than 1.5 percent of the total value of all prime contract awards for fiscal year 2000, not less than 2 percent of the total value of all prime contract awards for fiscal year 2001, not less than 2.5 percent of the total value of all prime contract awards for fiscal year 2002, and not less than 3 percent of the total value of all prime contract awards for fiscal year 2003 and each fiscal year thereafter.”
 
 Subsec. (g)(2). Pub. L. 105–135, §603(b)(2)(B), (C), inserted “qualified HUBZone small business concerns,” after “small business concerns,” in second sentence and substituted “by qualified HUBZone small business concerns, by small business concerns owned and controlled by socially and economically disadvantaged individuals, and by small business concerns owned and controlled by women” for “by small business concerns from each industry category in procurement contracts of the agency, including participation by small business concerns owned and controlled by socially and economically disadvantaged individuals and participation by small business concerns owned and controlled by women” before period at end of fourth sentence.
 
@@ -406,7 +406,7 @@ Subsec. (m)(1). Pub. L. 102–484, §801(h)(8)(B), substituted “section 2323 o
 
 Subsec. (m)(2)(B). Pub. L. 102–366, §232(b)(4), substituted “requirements” for “requirement”.
 
-Subsec. (m)(2)(C). Pub. L. 102–484, §801(h)(8)(C), substituted “section 2323 of title 10” for “section 1207 ofthe National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)”.
+Subsec. (m)(2)(C). Pub. L. 102–484, §801(h)(8)(C), substituted “section 2323 of title 10” for “section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)”.
 
 1991—Subsec. (k)(5). Pub. L. 102–190 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “assist small business concerns to obtain payments, late payment interest penalties, or information due to such concerns, in conformity with chapter 39 of title 31;”.
 
@@ -784,7 +784,7 @@ Pub. L. 100–656, title VII, §§701–722, Nov. 15, 1988, 102 Stat. 3889–389
 
 “The Congress finds that—
 
-&emsp;“(1) many small business concerns have repeatedly demonstrated their ability to fulfill a broad range ofGovernment requirements for products, services (including research, development, technical, and professional services), and construction, through the Federal procurement process;
+&emsp;“(1) many small business concerns have repeatedly demonstrated their ability to fulfill a broad range of Government requirements for products, services (including research, development, technical, and professional services), and construction, through the Federal procurement process;
 
 &emsp;“(2) various Congressional mandated reforms to the Federal procurement process, including the Competition in Contracting Act of 1984 \[Pub. L. 98–369, div. B, title VII, see Tables for classification\], the Defense Procurement Reform Act of 1984 \[Pub. L. 98–525, title XII, see Tables for classification\], and the Small Business and Federal Procurement Competition Enhancement Act of 1984 \[Pub. L. 98–577, see Tables for classification\], were designed to eliminate obstacles to competition and thereby to broaden small business participation; and
 
@@ -1116,7 +1116,7 @@ Contract Award Procedures.—(1) Except as provided in paragraphs (3) and (4), t
 
 “(3) Contracting opportunities for dredging shall be reserved for competition among emerging small business concerns if their estimated award value is below an amount to be specified by the Administrator for Federal Procurement Policy (hereafter in this section referred to as the ‘Administrator’), upon the recommendation of the Secretary. Such reserve amount shall be established by the Administrator at the start of the program at a level which can reasonably be expected to result in the Department attaining the applicable participation goal for emerging small business concerns. Such reserve threshold shall be reviewed by the Secretary and adjusted by the Administrator to the extent necessary on a semiannual basis beginning after the end of the second quarter of fiscal year 1989 on the basis of the aggregate of contract awards for the four fiscal year quarters preceding the date of the review.
 
-“(4) The Secretary shall restrict for competition among all eligible small business concerns such additional contracting opportunities for dredging in such numbers and at such estimated award values as can reasonably be expected to result in the Department exceeding the applicable participation goal for small business concerns generally.
+“(4) The Secretary shall restrict for competition among all eligible small business concerns such additional contracting opportunities for dredging in such numbers and at such estimated award values as canreasonably be expected to result in the Department exceeding the applicable participation goal for small business concerns generally.
 
 “(d)
 
@@ -1236,7 +1236,7 @@ Ex. Ord. No. 13170, Oct. 6, 2000, 65 F.R. 60827, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Small Business Act (15 U.S.C. 631 <i>et seq</i>.), section 7102 of the Federal Acquisition Streamlining Act of 1994 (Public Law 103–355, 15 U.S.C. 644 note), the Office of Federal Procurement Policy Act (41 U.S.C. 403 <i>et seq</i>.), Executive Order 11625 \[15 U.S.C. 631 note\], and to provide for increased access for disadvantaged businesses to Federal contracting opportunities, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. It is the policy of the executive branch to ensure nondiscrimination in Federal procurement opportunities for businesses in the Small Disadvantaged Business Program (SDBs), businesses in the section 8(a) Business Development program of the Small Business Administration (8(a)s), and Minority Business Enterprises (MBEs) as defined in section 6 of Executive Order 11625, of October 13, 1971, and to take affirmative action to ensure inclusion of these businesses in Federal contracting. These businesses are of vital importance to job growth and the economic strength of the United States but have faced historic exclusion and underutilization in Federal procurement. All agencies within the executive branch with procurement authority are required to take all necessary steps, as permitted by law, to increase contracting between the Federal Government and SDBs, 8(a)s, and MBEs.
+Section 1. <i>Policy</i>. It is the policy of the executive branch to ensure nondiscrimination in Federal procurement opportunities for businesses in the Small Disadvantaged Business Program (SDBs), businesses in the section 8(a) Business Development program of the Small Business Administration (8(a)s), and Minority Business Enterprises (MBEs) as defined in section 6 of Executive Order 11625, of October 13, 1971, and to take affirmative action to ensure inclusion of these businesses in Federal contracting. These businesses are of vital importance to job growth and the economic strength of the United States but have faced historic exclusion and underutilization in Federal procurement.All agencies within the executive branch with procurement authority are required to take all necessary steps, as permitted by law, to increase contracting between the Federal Government and SDBs, 8(a)s, and MBEs.
 
 Sec. 2. <i>Responsibilities of Executive Departments and Agencies with Procurement Authority</i>. The head of each executive department and agency shall carry out the terms of this order and shall designate, where appropriate, his or her Deputy Secretary or equivalent to implement the terms of this order.
 
@@ -1256,7 +1256,7 @@ Sec. 2. <i>Responsibilities of Executive Departments and Agencies with Procureme
 
 &emsp;(vii) offer information, training, and technical assistance programs for 8(a)s and SDBs including, where appropriate, Government acquisition forecasts in order to assist 8(a)s and SDBs in developing their products, skills, business planning practices, and marketing techniques;
 
-&emsp;(viii) train program and procurement officials regarding the policy of including 8(a)s and SDBs in Federal procurement. This includes prescribing procedures to ensure that acquisition planners, to the maximum extent practicable, structure acquisitionsto facilitate competition by SDBs and 8(a)s, including their participation in the competition of multiple award requirements;
+&emsp;(viii) train program and procurement officials regarding the policy of including 8(a)s and SDBs in Federal procurement. This includes prescribing procedures to ensure that acquisition planners, to the maximum extent practicable, structure acquisitions to facilitate competition by SDBs and 8(a)s, including their participation in the competition of multiple award requirements;
 
 &emsp;(ix) provide the information required by the Department of Commerce when it requests data to develop the benchmarks used in the price evaluation preference programs authorized by the Federal Acquisition Streamlining Act of 1994;
 

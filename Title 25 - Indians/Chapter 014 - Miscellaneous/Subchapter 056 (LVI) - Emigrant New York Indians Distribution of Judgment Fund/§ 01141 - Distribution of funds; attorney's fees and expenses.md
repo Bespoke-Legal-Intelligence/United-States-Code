@@ -1,6 +1,6 @@
 ### §1141. Distribution of funds; attorney's fees and expenses
 
-The funds on deposit in the Treasury of the United States to the credit of the Emigrant NewYork Indians that were appropriated by the Act of May 29, 1967 (81 Stat. 50), to pay a judgment by the Indian Claims Commission in Docket Numbered 75, and the interest thereon, after payment of attorney fees and expenses, shall be distributed as determined in sections 1144 and 1145 of this title.
+The funds on deposit in the Treasury of the United States to the credit of the Emigrant New York Indians that were appropriated by the Act of May 29, 1967 (81 Stat. 50), to pay a judgment by the Indian Claims Commission in Docket Numbered 75, and the interest thereon, after payment of attorney fees and expenses, shall be distributed as determined in sections 1144 and 1145 of this title.
 
 (Pub. L. 90–93, §1, Sept. 27, 1967, 81 Stat. 229.)
 

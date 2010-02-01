@@ -88,7 +88,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 #### (C) For timber manufacturing facilities located in States other than Idaho
 
-&emsp;&emsp;Except as provided in subparagraph (D), in making the determination referred to in subparagraph (A), the Secretary concerned shall consider the private timber export and the Federal timber sourcing patterns for the applicant's timber manufacturing facilities, as well as the Federal timber sourcing patterns for the timber manufacturing facilities of other persons in the same local vicinity of the applicant, and the relative similarity of such Federal timber sourcing patterns. Private timber sourcing patterns shall not be a factor in such determinations in States other than Idaho.
+&emsp;&emsp;Except as provided in subparagraph (D), in making the determination referred to in subparagraph (A), the Secretary concerned shall consider the private timber export andthe Federal timber sourcing patterns for the applicant's timber manufacturing facilities, as well as the Federal timber sourcing patterns for the timber manufacturing facilities of other persons in the same local vicinity of the applicant, and the relative similarity of such Federal timber sourcing patterns. Private timber sourcing patterns shall not be a factor in such determinations in States other than Idaho.
 
 #### (D) Area not included
 
@@ -138,7 +138,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 #### (B) Transition
 
-&emsp;&emsp;With respect to a portion of a sourcing area established before November 14, 1997,that contains Federal timber under contract before November 14, 1997, and is outside the boundary of a new sourcing area established under subparagraph (A)—
+&emsp;&emsp;With respect to a portion of a sourcing area established before November 14, 1997, that contains Federal timber under contract before November 14, 1997, and is outside the boundary of a new sourcing area established under subparagraph (A)—
 
 &emsp;&emsp;&emsp;(i) that portion shall continue to be a sourcing area only until unprocessed Federal timber from the portion is no longer in the possession of the sourcing area holder; and
 

@@ -66,7 +66,7 @@ As originally enacted, subsec. (e) contained the phrase “, together with the 
 
 1982—Subsec. (b)(1). Pub. L. 97–375 struck out “and from time to time make to Congress such recommendations as he may deem proper as to the best means of preventing such injuries” after “by this chapter”.
 
-1958—Pub. L. 85–742 amended section generally and, among other changes, empowered the Secretary of Labor to prescribe, by regulation or order, safety rulesfor the furnishing and maintenance of safe places of employment and for the installation, furnishing and maintenance of safety devices and safeguards, authorized the Secretary to provide for the establishment and supervision of safety programs, permitted the inspection of places of employment and investigation of employment conditions and practices, granted jurisdiction to the district courts to restrain violations of this section or of any rules, regulations or orders of the Secretary, and to prescribe penalties for violations.
+1958—Pub. L. 85–742 amended section generally and, among other changes, empowered the Secretary of Labor to prescribe, by regulation or order, safety rules for the furnishing and maintenance of safe places of employment and for the installation, furnishing and maintenance of safety devices and safeguards, authorized the Secretary to provide for the establishment and supervision of safety programs, permitted the inspection of places of employment and investigation of employment conditions and practices, granted jurisdiction to the district courts to restrain violations of this section or of any rules, regulations or orders of the Secretary, and to prescribe penalties for violations.
 
 #### “Secretary” Defined
 

@@ -6,7 +6,7 @@ It is the purpose of this subchapter to facilitate protection and provide interp
 
 #### Amendments
 
-1992—Pub. L. 102–576, which directed the insertion of “and in the States of Oregon, Washington, Montana,and Wyoming” after “the Nez Perce Country of Idaho”, was executed by making the insertion after “the Nez Perce country of Idaho” to reflect the probable intent of Congress.
+1992—Pub. L. 102–576, which directed the insertion of “and in the States of Oregon, Washington, Montana, and Wyoming” after “the Nez Perce Country of Idaho”, was executed by making the insertion after “the Nez Perce country of Idaho” to reflect the probable intent of Congress.
 
 #### Short Title of 1992 Amendment
 

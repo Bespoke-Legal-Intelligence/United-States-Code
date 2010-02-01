@@ -112,7 +112,7 @@ Sec. 3. The following shall be included among the objectives sought in carrying 
 
 Sec. 4. Regulations and orders issued pursuant to Section 1 hereof shall be signed by the Director. When so signed, such regulations and orders shall require no further approval and shall be adhered to by all agencies in the executive branch. Any such regulation or order may pertain to a single agency, a group of agencies, or all agencies in the executive branch.
 
-Sec. 5. In the development of programs and the preparation of regulations and orders for issuance pursuant to Section 1 hereof, the Director shall consult Federal agencies whose activities will be substantially affected, and may consult non-Federal groups to the extent he finds it necessary to carry out the purposes of this order.
+Sec. 5. In the development of programs and the preparation of regulations and orders for issuance pursuant to Section 1 hereof, the Director shall consult Federal agencies whose activities will be substantially affected,and may consult non-Federal groups to the extent he finds it necessary to carry out the purposes of this order.
 
 Sec. 6. The authority outlined in this order is in addition to and not in substitution for the existing authority of the Director, or of the Office of Management and Budget, with respect to statistical and reporting activities. To the extent, however, that this order conflicts with any previous Executive order affecting statistical or reporting activities, the provisions of this order shall control.
 

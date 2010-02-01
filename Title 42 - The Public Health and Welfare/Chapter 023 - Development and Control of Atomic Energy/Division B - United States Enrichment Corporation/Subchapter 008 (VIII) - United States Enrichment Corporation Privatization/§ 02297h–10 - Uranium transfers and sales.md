@@ -6,7 +6,7 @@ The Secretary shall not provide enrichment services or transfer or sell any uran
 
 #### (b) Russian HEU
 
-(1) On or before December 31, 1996, the United States Executive Agent under the Russian HEU Agreement shall transfer to the Secretary without charge title to an amount of uranium hexafluoride equivalent to the natural uranium component of low-enriched uranium derived from at least 18 metric tons of highly enriched uranium purchased from the Russian Executive Agent under the Russian HEU Agreement. The quantity of such uranium hexafluoride delivered to the Secretary shall be based on a tails assay of 0.30 U<sup>235</sup>. Uranium hexafluoride transferred to the Secretary pursuant to this paragraph shall be deemed under United States law for all purposes to be of Russian origin.
+(1) On or before December 31, 1996, the United States Executive Agent under the Russian HEUAgreement shall transfer to the Secretary without charge title to an amount of uranium hexafluoride equivalent to the natural uranium component of low-enriched uranium derived from at least 18 metric tons of highly enriched uranium purchased from the Russian Executive Agent under the Russian HEU Agreement. The quantity of such uranium hexafluoride delivered to the Secretary shall be based on a tails assay of 0.30 U<sup>235</sup>. Uranium hexafluoride transferred to the Secretary pursuant to this paragraph shall be deemed under United States law for all purposes to be of Russian origin.
 
 (2) Within 7 years of April 26, 1996, the Secretary shall sell, and receive payment for, the uranium hexafluoride transferred to the Secretary pursuant to paragraph (1). Such uranium hexafluoride shall be sold—
 
@@ -38,7 +38,7 @@ The Secretary shall not provide enrichment services or transfer or sell any uran
 | 2004 | 14&nbsp;&nbsp; |
 | 2005 | 16&nbsp;&nbsp; |
 | 2006 | 17&nbsp;&nbsp; |
-| 2007 | 18   |
+| 2007 | 18&nbsp;&nbsp; |
 | 2008 | 19&nbsp;&nbsp; |
 | 2009 and each year thereafter | 20\. |
 

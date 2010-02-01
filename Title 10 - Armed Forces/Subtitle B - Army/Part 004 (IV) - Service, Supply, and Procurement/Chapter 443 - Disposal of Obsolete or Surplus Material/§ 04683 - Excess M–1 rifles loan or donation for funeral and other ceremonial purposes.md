@@ -8,7 +8,7 @@ Authority To Lend or Donate.—(1) The Secretary of the Army, under regulations 
 
 (b)
 
-Relief From Liability.—The Secretary may relieve an eligible organization to which materials are lent or donated under subsection (a), and the surety on its bond, from liability for loss or destruction of the material lent or donated, if there is conclusive evidence that the loss or destruction did not result from negligence.
+Relief From Liability.—The Secretary may relieve an eligible organization to whichmaterials are lent or donated under subsection (a), and the surety on its bond, from liability for loss or destruction of the material lent or donated, if there is conclusive evidence that the loss or destruction did not result from negligence.
 
 (c)
 

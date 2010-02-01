@@ -68,7 +68,7 @@ Written opinion.—Not later than 30 days after receiving a request by an offici
 
 &emsp;“(4)
 
-Contractor requirement.—A Department of Defense contractor may not knowingly provide compensation to a former Department of Defense official described in subsection (c) within two years after such former official leaves service in the Department of Defense, without first determining that the former official has sought and received (or has not received after 30 days of seeking) a written opinion from the appropriate ethics counselor regarding the applicability of post-employment restrictions to the activities that the former official is expected to undertake on behalf of the contractor.
+Contractor requirement.—A Department of Defense contractor may not knowingly provide compensation to a former Department of Defense official described in subsection (c) within two years after such former official leaves service in the Department of Defense, without first determining that the former official has sought and received (or has not received after 30 days of seeking) a written opinion from the appropriate ethics counselor regarding the applicability of post-employment restrictions to the activitiesthat the former official is expected to undertake on behalf of the contractor.
 
 &emsp;“(5)
 
@@ -112,7 +112,7 @@ Definition.—In this section, the term ‘post-employment restrictions’ inclu
 
 #### Government Performance of Critical Acquisition Functions
 
-Pub. L. 109–364, div. A, title VIII, §820, Oct. 17, 2006, 120 Stat. 2330, provided that:
+Pub. L. 109–364, div. A, title VIII, §820, Oct. 17, 2006, 120 Stat. 2330, as amended by Pub. L. 111–84, div. A, title VIII, §805(c), Oct. 28, 2009, 123 Stat. 2403, provided that:
 
 “(a)
 
@@ -122,11 +122,13 @@ Goal.—It shall be the goal of the Department of Defense and each of the milita
 
 &emsp;“(2) Deputy program manager.
 
-&emsp;“(3) Chief engineer.
+&emsp;“(3) Product support manager.
 
-&emsp;“(4) Systems engineer.
+&emsp;“(4) Chief engineer.
 
-&emsp;“(5) Cost estimator.
+&emsp;“(5) Systems engineer.
+
+&emsp;“(6) Cost estimator.
 
 “(b)
 

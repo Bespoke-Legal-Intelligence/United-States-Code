@@ -4,7 +4,7 @@
 
 (b) The function of the Office and its Director is to fund and administer (directly or through arrangements with other Federal agencies), in consultation with the Secretary of State, programs of the Federal Government under this subchapter.
 
-(June 27, 1952, ch. 477, title IV, ch. 2, §411, as added Pub. L. 96–212, title III, §311(a)(2), Mar. 17,1980, 94 Stat. 110; amended Pub. L. 103–236, title I, §162(n)(1), Apr. 30, 1994, 108 Stat. 409.)
+(June 27, 1952, ch. 477, title IV, ch. 2, §411, as added Pub. L. 96–212, title III, §311(a)(2), Mar. 17, 1980, 94 Stat. 110; amended Pub. L. 103–236, title I, §162(n)(1), Apr. 30, 1994, 108 Stat. 409.)
 
 #### Amendments
 

@@ -34,5 +34,5 @@ The responsibilities of the Administrator shall include, but not be limited toâ€
 
 #### Transfer of Functions
 
-Energy Research and Development Administration and Federal Energy Administration terminated and functions vested by law in their respective Administrators transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
+Energy Research and Development Administration and Federal Energy Administration terminated andfunctions vested by law in their respective Administrators transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
 

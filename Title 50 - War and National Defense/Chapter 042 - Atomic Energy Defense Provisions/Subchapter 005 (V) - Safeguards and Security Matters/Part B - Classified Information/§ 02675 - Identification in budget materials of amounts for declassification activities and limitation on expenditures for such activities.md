@@ -20,11 +20,15 @@ Not later than February 1, 2001, the Secretary of Energy shall submit to the Com
 
 (Pub. L. 107–314, div. D, title XLV, §4525, formerly Pub. L. 106–65, div. C, title XXXI, §3173, Oct. 5, 1999, 113 Stat. 949; renumbered Pub. L. 107–314, div. D, title XLV, §4525, and amended Pub. L. 108–136, div. C, title XXXI, §3141(h)(15), Nov. 24, 2003, 117 Stat. 1775.)
 
+#### References in Text
+
+Executive Order No. 12958, referred to in subsec. (a), which was formerly set out as a note under section 435 of this title, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
+
 #### Codification
 
 Section was formerly set out as a note under section 435 of this title prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–136, §3141(h)(15)(D), substituted “October 5, 1999,” for “the date of the enactment of this Act”.
+2003—Subsec. (b). Pub. L. 108–136, §3141(h)(15)(D), substituted “October 5, 1999,” for “the date of the enactment of this Act”.
 

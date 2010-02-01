@@ -14,7 +14,7 @@
 
 &emsp;(5) give a preference to an individual eligible for a preference in the executive branch of the United States Government in a way and to an extent consistent with a preference given an individual in the executive branch; and
 
-&emsp;(6) provide that the Comptroller General shall fix the basic pay of officers and employees of the Office not fixed by law, consistent with section 5301 of title 5, except as provided under subsection (c)(3) of this section and section 733(a)(3)(B) of this title.
+&emsp;(6) provide that the Comptroller General shall fix the basic pay of officers and employees of the Office not fixed by law, consistent with section 5301 of title 5, except as providedunder subsection (c)(3) of this section and section 733(a)(3)(B) of this title.
 
 (c) Under the personnel management system—
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(E) the appropriate distribution of agency funds between annual adjustments under this section and performance-based compensation; and
 
-&emsp;&emsp;(F) such other criteria as the Comptroller General considers appropriate, including, but not limited to, the funding level for theOffice, amounts allocated for performance-based compensation, and the extent to which the Office is succeeding in fulfilling its mission and accomplishing its strategic plan;
+&emsp;&emsp;(F) such other criteria as the Comptroller General considers appropriate, including, but not limited to, the funding level for the Office, amounts allocated for performance-based compensation, and the extent to which the Office is succeeding in fulfilling its mission and accomplishing its strategic plan;
 
 > &emsp;notwithstanding any other provision of this paragraph, an adjustment under this paragraph shall not be applied in the case of any officer or employee whose performance is not at a satisfactory level, as determined by the Comptroller General for purposes of such adjustment;
 
@@ -130,7 +130,7 @@
 
 (j)(1) For purposes of this subsection—
 
-&emsp;(A) the term “pay increase”, as used with respect to an officer or employee in connection with a year, means the total increase in the rate of basic pay (expressed as a percentage) of such officer or employee, taking effect under section 731(b) and subsection (c)(3) in such year;
+&emsp;(A) the term “pay increase”, as used with respect to an officer or employee in connection with a year, means the total increase in the rate of basic pay (expressed as a percentage) ofsuch officer or employee, taking effect under section 731(b) and subsection (c)(3) in such year;
 
 &emsp;(B) the term “required minimum percentage”, as used with respect to an officer or employee in connection with a year, means the percentage equal to the total increase in rates of basic pay (expressed as a percentage) taking effect under sections 5303 and 5304–5304a of title 5 in such year with respect to General Schedule positions within the pay locality (as defined by section 5302(5) of title 5) in which the position of such officer or employee is located;
 
@@ -142,7 +142,7 @@
 
 &emsp;(D) the term “nonpermanent merit pay” means any amount payable under section 731(b) which does not constitute basic pay.
 
-(2)(A) Notwithstanding any other provision of this chapter, if (disregarding this subsection) the pay increase that would otherwise take effect with respect to a covered officer or employee in a year would be less than the required minimum percentage for such officer or employee in such year, the Comptroller Generalshall provide for a further increase in the rate of basic pay of such officer or employee.
+(2)(A) Notwithstanding any other provision of this chapter, if (disregarding this subsection) the pay increase that would otherwise take effect with respect to a covered officer or employee in a year would be less than the required minimum percentage for such officer or employee in such year, the Comptroller General shall provide for a further increase in the rate of basic pay of such officer or employee.
 
 (B) The further increase under this subsection—
 
@@ -314,7 +314,7 @@ Pub. L. 110–323, §3, Sept. 22, 2008, 122 Stat. 3540, provided that:
 
 “(a)
 
-Applicability.—This section applies in the case of any individual who, as of the date of the enactment of this Act \[Sept. 22, 2008\], is an officer or employee of the Government Accountability Office, excluding—
+Applicability.—This section applies in the case of any individual who, as of the date of the enactmentof this Act \[Sept. 22, 2008\], is an officer or employee of the Government Accountability Office, excluding—
 
 &emsp;“(1) an officer or employee described in subparagraph (A), (B), or (C) of section 4(c)(1) \[set out as a note below\]; and
 

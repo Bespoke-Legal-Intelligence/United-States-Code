@@ -56,7 +56,7 @@ Covered Individuals.—An individual described in this subsection is any individ
 
 &emsp;(6) An individual who—
 
-&emsp;&emsp;(A) commencing on or after September 11, 2001, serves an aggregate of at least 12 months, but less than 18 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
+&emsp;&emsp;(A) commencing on or after September 11, 2001, serves an aggregate of at least 12 months, but less than 18 months, on active duty in the Armed Forces (excluding serviceon active duty in entry level and skill training); and
 
 &emsp;&emsp;(B) after completion of service described in subparagraph (A)—
 
@@ -84,13 +84,15 @@ Covered Individuals.—An individual described in this subsection is any individ
 
 &emsp;&emsp;&emsp;(ii) before completion of service on active duty of an aggregate of 6 months, is discharged or released from active duty as described in subsection (c).
 
+&emsp;(9) An individual who is the child of a person who, on or after September 11, 2001, dies in line of duty while serving on active duty as a member of the Armed Forces.
+
 (c)
 
 Covered Discharges and Releases.—A discharge or release from active duty of an individual described in this subsection is a discharge or release as follows:
 
 &emsp;(1) A discharge from active duty in the Armed Forces with an honorable discharge.
 
-&emsp;(2) A release after service on active duty in the Armed Forces characterized by the Secretary concerned as honorable service and placement on the retired list, transfer to theFleet Reserve or Fleet Marine Corps Reserve, or placement on the temporary disability retired list.
+&emsp;(2) A release after service on active duty in the Armed Forces characterized by the Secretary concerned as honorable service and placement on the retired list, transfer to the Fleet Reserve or Fleet Marine Corps Reserve, or placement on the temporary disability retired list.
 
 &emsp;(3) A release from active duty in the Armed Forces for further service in a reserve component of the Armed Forces after service on active duty characterized by the Secretary concerned as honorable service.
 
@@ -122,5 +124,35 @@ Prohibition on Treatment of Certain Service as Period of Active Duty.—The foll
 
 Treatment of Individuals Entitled Under Multiple Provisions.—In the event an individual entitled to educational assistance under this chapter is entitled by reason of both paragraphs (4) and (5) of subsection (b), the individual shall be treated as being entitled to educational assistance under this chapter by reason of paragraph (5) of subsection (b).
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359.)
+(f)
+
+Marine Gunnery Sergeant John David Fry Scholarship.—
+
+&emsp;(1)
+
+In general.—Educational assistance payable by reason of paragraph (9) of subsection (b) shall be known as the “Marine Gunnery Sergeant John David Fry scholarship”.
+
+&emsp;(2)
+
+Definition of child.—For purposes of that paragraph, the term “child” includes a married individual or an individual who is above the age of twenty-three years.
+
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32, title X, §1002(a), June 24, 2009, 123 Stat. 1889.)
+
+#### Amendments
+
+2009—Subsec. (b)(9). Pub. L. 111–32, §1002(a)(1), added par. (9).
+
+Subsec. (f). Pub. L. 111–32, §1002(a)(2), added subsec. (f).
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–32, title X, §1002(d), June 24, 2009, 123 Stat. 1890, provided that:
+
+“(1)
+
+Effective date.—The amendments made by this section \[amending this section and sections 3313 and 3321 of this title\] shall take effect on August 1, 2009.
+
+“(2)
+
+Applicability.—The Secretary of Veterans Affairs shall begin making payments to individuals entitled to educational assistance by reason of paragraph (9) of section 3311(b) of title 38, United States Code, as added by subsection (a), by not later than August 1, 2010. In the case of an individual entitled to educational assistance by reason of such paragraph for the period beginning on August 1, 2009, and ending on July 31, 2010, the Secretary shall make retroactive payments to such individual for such period by not later than August 1, 2010.”
 

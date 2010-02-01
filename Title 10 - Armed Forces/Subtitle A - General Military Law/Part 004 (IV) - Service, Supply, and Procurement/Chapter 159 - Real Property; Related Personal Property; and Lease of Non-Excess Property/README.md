@@ -31,6 +31,7 @@
 | [2685\.](%C2%A7%2002685%20-%20Adjustment%20of%20or%20surcharge%20on%20selling%20prices%20in%20commissary%20stores%20to%20provide%20funds%20for%20construction%20and%20improvement%20of%20commissary%20store%E2%80%A6.md) | Adjustment of or surcharge on selling prices in commissary stores to provide funds for construction and improvement of commissary store facilities. |
 | [2686\.](%C2%A7%2002686%20-%20Utilities%20and%20services%20sale%3B%20expansion%20and%20extension%20of%20systems%20and%20facilities.md) | Utilities and services: sale; expansion and extension of systems and facilities. |
 | [2687\.](%C2%A7%2002687%20-%20Base%20closures%20and%20realignments.md) | Base closures and realignments. |
+| [2687a.](%C2%A7%2002687a%20-%20Overseas%20base%20closures%20and%20realignments%20and%20basing%20master%20plans.md) | Overseas base closures and realignments and basing master plans. |
 | [2688\.](%C2%A7%2002688%20-%20Utility%20systems%20conveyance%20authority.md) | Utility systems: conveyance authority. |
 | \[2689, 2690. Repealed.\] |  |
 | [2691\.](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20lease.md) | Restoration of land used by permit or lease. |
@@ -53,6 +54,8 @@ This section makes necessary clerical amendments to chapter analysis.
 
 #### Amendments
 
+2009—Pub. L. 111–84, div. B, title XXVIII, §2822(a)(2), Oct. 28, 2009, 123 Stat. 2666, added item 2687a.
+
 2008—Pub. L. 110–417, \[div. A\], title III, §311(b), div. B, title XXVIII, §2812(f)(2), Oct. 14, 2008, 122 Stat. 4409, 4728, added items 2667 and 2694c and struck out former items 2667 “Leases: non-excess property of military departments” and 2667a “Leases: non-excess property of Defense agencies”.
 
 Pub. L. 110–181, div. B, title XXVIII, §2822(b)(2), Jan. 28, 2008, 122 Stat. 544, struck out item 2677 “Options: property required for military construction projects”.
@@ -71,7 +74,7 @@ Pub. L. 109–163, div. B, title XXVIII, §2821(g), Jan. 6, 2006, 119 Stat. 3513
 
 1998—Pub. L. 105–261, div. B, title XXVIII, §2812(b)(2), Oct. 17, 1998, 112 Stat. 2206, struck out “from other agencies” after “lease” in item 2691.
 
-1997—Pub. L. 105–85, div. A, title III, §§343(g)(3), 371(c)(2), title X, §§1061(c)(2), 1062(b), div. B, title XXVIII, §§2811(b)(2), 2812(b), 2813(b), 2814(a)(2), Nov. 18, 1997, 111 Stat. 1688, 1705, 1891, 1892, 1992–1995, inserted “of military departments” after “property” in item 2667, added item 2667a, substituted “$500,000” for “$200,000” in item 2672, added items 2686 and 2688, substituted “Storage, treatment, and” for “Storage and” in item 2692, and added items 2695 and 2696.
+1997—Pub. L. 105–85, div. A, title III, §§343(g)(3), 371(c)(2), title X, §§1061(c)(2), 1062(b), div. B, title XXVIII, §§2811(b)(2), 2812(b), 2813(b), 2814(a)(2), Nov. 18, 1997, 111 Stat. 1688, 1705, 1891, 1892, 1992–1995, inserted “of military departments” after “property” in item 2667, added item 2667a, substituted “$500,000” for“$200,000” in item 2672, added items 2686 and 2688, substituted “Storage, treatment, and” for “Storage and” in item 2692, and added items 2695 and 2696.
 
 1996—Pub. L. 104–201, div. A, title III, §§332(a)(2), 369(b)(2), div. B, title XXVIII, §2862(b), Sept. 23, 1996, 110 Stat. 2485, 2498, 2805, substituted “of Pentagon Reservation and defense facilities in National Capital Region” for “of the Pentagon Reservation” in item 2674 and added items 2684 and 2694.
 
@@ -175,6 +178,7 @@ Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 - [&sect; 02685 - Adjustment of or surcharge on selling prices in commissary stores to provide funds for construction and improvement of commissary store&#8230;](%C2%A7%2002685%20-%20Adjustment%20of%20or%20surcharge%20on%20selling%20prices%20in%20commissary%20stores%20to%20provide%20funds%20for%20construction%20and%20improvement%20of%20commissary%20store%E2%80%A6.md)
 - [&sect; 02686 - Utilities and services sale; expansion and extension of systems and facilities](%C2%A7%2002686%20-%20Utilities%20and%20services%20sale%3B%20expansion%20and%20extension%20of%20systems%20and%20facilities.md)
 - [&sect; 02687 - Base closures and realignments](%C2%A7%2002687%20-%20Base%20closures%20and%20realignments.md)
+- [&sect; 02687a - Overseas base closures and realignments and basing master plans](%C2%A7%2002687a%20-%20Overseas%20base%20closures%20and%20realignments%20and%20basing%20master%20plans.md)
 - [&sect; 02688 - Utility systems conveyance authority](%C2%A7%2002688%20-%20Utility%20systems%20conveyance%20authority.md)
 - [&sect; 02689 - Renumbered &sect;2917](%C2%A7%2002689%20-%20Renumbered%20%C2%A72917.md)
 - [&sect; 02690 - Renumbered &sect;2918](%C2%A7%2002690%20-%20Renumbered%20%C2%A72918.md)

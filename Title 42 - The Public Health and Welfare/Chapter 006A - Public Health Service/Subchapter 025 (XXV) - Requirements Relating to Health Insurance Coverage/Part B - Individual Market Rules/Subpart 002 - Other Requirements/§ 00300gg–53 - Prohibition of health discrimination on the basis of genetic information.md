@@ -18,7 +18,7 @@
 
 #### (2) Rule of construction
 
-&emsp;Nothing in paragraph (1) or in paragraphs (1) and (2) of subsection (e) shall be construed to preclude a health insurance issuer from adjusting premium or contribution amounts for an individual on the basis of a manifestation of a disease or disorder in that individual, or in a family member of such individual where such family member is covered under the policy that covers such individual. In such case, the manifestation of a disease or disorder in one individual cannot also be used as genetic information about other individuals covered under the policy issued to such individual and to further increase premiums or contribution amounts.
+&emsp;Nothing in paragraph (1) or in paragraphs (1) and (2) of subsection (e) shall be construed to preclude a health insurance issuer from adjusting premium or contribution amounts for an individual on the basis of a manifestation of a disease or disorder in that individual, or in a family member of such individual where such family member is covered under the policy that covers such individual. In such case,the manifestation of a disease or disorder in one individual cannot also be used as genetic information about other individuals covered under the policy issued to such individual and to further increase premiums or contribution amounts.
 
 #### (c) Prohibition on genetic information as preexisting condition
 
@@ -88,7 +88,7 @@ Any reference in this part to genetic information concerning an individual or fa
 
 &emsp;(1) with respect to such an individual or family member of an individual who is a pregnant woman, include genetic information of any fetus carried by such pregnant woman; and
 
-&emsp;(2) with respect to an individual or family member utilizing an assisted reproductive technology, include genetic information of any embryo legally held by the individual or family member.
+&emsp;(2) with respect to an individual or family member utilizing an assisted reproductive technology, include genetic information ofany embryo legally held by the individual or family member.
 
 (July 1, 1944, ch. 373, title XXVII, §2753, as added Pub. L. 110–233, title I, §102(b)(1)(B), May 21, 2008, 122 Stat. 893.)
 
@@ -104,7 +104,7 @@ Another section 2753 of act July 1, 1944, is classified to section 300gg–54 of
 
 #### Effective Date
 
-Section applicable, with respect to group health plans and health insurance coverage offered in connection with group health plans, for plan years beginning afterthe date that is one year after May 21, 2008, and, with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market, after the date that is one year after May 21, 2008, see section 102(d)(2) of Pub. L. 110–233, set out as an Effective Date of 2008 Amendment note under section 300gg–1 of this title.
+Section applicable, with respect to group health plans and health insurance coverage offered in connection with group health plans, for plan years beginning after the date that is one year after May 21, 2008, and, with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market, after the date that is one year after May 21, 2008, see section 102(d)(2) of Pub. L. 110–233, set out as an Effective Date of 2008 Amendment note under section 300gg–1 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsections”.</i>
 

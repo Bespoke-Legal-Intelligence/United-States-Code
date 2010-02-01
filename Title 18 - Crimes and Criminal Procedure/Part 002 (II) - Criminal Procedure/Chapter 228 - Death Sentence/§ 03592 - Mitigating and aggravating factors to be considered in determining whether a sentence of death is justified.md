@@ -46,7 +46,7 @@ Prior espionage or treason offense.—The defendant has previously been convicte
 
 &emsp;(2)
 
-Grave risk to national security.—In the commission of the offense the defendantknowingly created a grave risk of substantial danger to the national security.
+Grave risk to national security.—In the commission of the offense the defendant knowingly created a grave risk of substantial danger to the national security.
 
 &emsp;(3)
 
@@ -178,7 +178,7 @@ Lethal adulterant.—The offense involved the importation, manufacture, or distr
 
 > The jury, or if there is no jury, the court, may consider whether any other aggravating factor for which notice has been given exists.
 
-(Added and amended Pub. L. 103–322, title VI, §60002(a), title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1960, 2150; Pub. L. 104–132, title VII, §728, Apr. 24, 1996, 110 Stat. 1302; Pub. L. 104–294, title VI, §§601(b)(7), 604(b)(35), Oct. 11, 1996, 110 Stat. 3499, 3508; Pub. L. 107–273, div. B, title IV, §4002(e)(2), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 109–248, title II, §206(a)(4), July 27, 2006, 120 Stat. 614.)
+(Added and amended Pub. L. 103–322, title VI, §60002(a), title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1960, 2150; Pub. L. 104–132, title VII,§728, Apr. 24, 1996, 110 Stat. 1302; Pub. L. 104–294, title VI, §§601(b)(7), 604(b)(35), Oct. 11, 1996, 110 Stat. 3499, 3508; Pub. L. 107–273, div. B, title IV, §4002(e)(2), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 109–248, title II, §206(a)(4), July 27, 2006, 120 Stat. 614.)
 
 #### References in Text
 

@@ -24,7 +24,7 @@ Regional Centers Specified.—(1) A Department of Defense Regional Center for Se
 
 &emsp;(E) The Near East South Asia Center for Strategic Studies, established in 2000 and located in Washington, D.C.
 
-(3) No institution or element of the Department of Defense may be designated as a Department of Defense Regional Center for Security Studies for purposes of this section, other than the institutions specified in paragraph (2), except as specifically provided by law after the date of the enactment of this section.
+(3) No institution or element of the Department of Defense may be designated as a Department of Defense Regional Center for Security Studies for purposes of this section, other than the institutions specified in paragraph (2), except as specifically provided by law after October 17, 2006.
 
 (c)
 
@@ -62,7 +62,7 @@ Support to Other Agencies.—The Director of a Regional Center may enter into ag
 
 (h)
 
-Annual Report.—Not later than February 1 of each year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the operation of the Regional Centers for security studies during the preceding fiscal year. The annual report shall include, for each Regional Center, the following information:
+Annual Report.—Not later than February 1 of each year, the Secretary of Defense shallsubmit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the operation of the Regional Centers for security studies during the preceding fiscal year. The annual report shall include, for each Regional Center, the following information:
 
 &emsp;(1) The status and objectives of the center.
 
@@ -72,13 +72,11 @@ Annual Report.—Not later than February 1 of each year, the Secretary of Defens
 
 &emsp;(4) A description of the foreign gifts and donations, if any, accepted under section 2611 of this title.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §912(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–228; amended Pub. L. 107–107, div. A, title X, §1048(c)(2), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title IX, §931(b)(2), Nov. 24, 2003, 117 Stat. 1581; Pub. L. 109–163, div. A, title IX, §903(b), Jan. 6, 2006, 119 Stat. 3399; Pub. L. 109–364, div. A, title IX, §904(a)(1), Oct. 17, 2006, 120 Stat. 2351; Pub. L. 110–417, \[div. A\], title IX, §941(a)(1), Oct. 14, 2008, 122 Stat. 4576.)
-
-#### References in Text
-
-The date of the enactment of this section, referred to in subsec. (b)(3), probably means the date of enactment of Pub. L. 109–364, which amended this section generally and was approved Oct. 17, 2006.
+(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §912(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–228; amended Pub. L. 107–107, div. A, title X, §1048(c)(2), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title IX, §931(b)(2), Nov. 24, 2003, 117 Stat. 1581; Pub. L. 109–163, div. A, title IX, §903(b), Jan. 6, 2006, 119 Stat. 3399; Pub. L. 109–364, div. A, title IX, §904(a)(1), Oct. 17, 2006, 120 Stat. 2351; Pub. L. 110–417, \[div. A\], title IX, §941(a)(1), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(a)(3), Oct. 28, 2009, 123 Stat. 2472.)
 
 #### Amendments
+
+2009—Subsec. (b)(3). Pub. L. 111–84 substituted “October 17, 2006” for “the date of the enactment of this section”.
 
 2008—Subsec. (f)(6). Pub. L. 110–417 added par. (6).
 

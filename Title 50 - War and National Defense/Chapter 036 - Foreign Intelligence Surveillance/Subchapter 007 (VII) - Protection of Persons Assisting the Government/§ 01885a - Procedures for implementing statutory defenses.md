@@ -58,7 +58,7 @@ The courts of appeals shall have jurisdiction of appeals from interlocutory orde
 
 #### (g) Removal
 
-A civil action against a person for providing assistance to an element of the intelligence community that is brought in a State courtshall be deemed to arise under the Constitution and laws of the United States and shall be removable under section 1441 of title 28.
+A civil action against a person for providing assistance to an element of the intelligence community that is brought in a State court shall be deemed to arise under the Constitution and laws of the United States and shall be removable under section 1441 of title 28.
 
 #### (h) Relationship to other laws
 

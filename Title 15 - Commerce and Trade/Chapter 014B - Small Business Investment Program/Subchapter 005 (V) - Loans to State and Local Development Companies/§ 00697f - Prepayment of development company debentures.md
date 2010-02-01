@@ -64,7 +64,7 @@ No fees or penalties other than those specified in this section may be imposed o
 
 &emsp;&emsp;(A) shall not exceed the amount necessary to prepay existing debentures, including all costs associated with the refinancing and any applicable prepayment penalty or repurchase premium; and
 
-&emsp;&emsp;(B) except as provided in paragraphs (2) and (3), shall be subject to the provisions of sections 697a and 697b of this title and the rules and regulations promulgated thereunder, including rules and regulations governing payment of authorized expenses, commissions, fees, and discounts to brokers anddealers in trust certificates issued pursuant to section 697b of this title.
+&emsp;&emsp;(B) except as provided in paragraphs (2) and (3), shall be subject to the provisions of sections 697a and 697b of this title and the rules and regulations promulgated thereunder, including rules and regulations governing payment of authorized expenses, commissions, fees, and discounts to brokers and dealers in trust certificates issued pursuant to section 697b of this title.
 
 #### (2) Job creation
 
@@ -118,7 +118,7 @@ There are authorized to be appropriated $30,000,000 to carry out the provisions 
 
 For definition of “this chapter”, referred to in subsec. (a)(1), see References in Text note set out under section 661 of this title.
 
-Public Law 103–317, referred to in subsec. (a)(2)(B)(iii), is Pub. L. 103–317, Aug. 26, 1994, 108 Stat. 1724, known as the Departments of Commerce, Justice, and State, The Judiciary, and Related Agencies Appropriations Act, 1995. For complete classification of this Act to the Code, see Tables.
+Public Law 103–317, referred to in subsec. (a)(2)(B)(iii), is Pub. L. 103–317, Aug. 26, 1994, 108 Stat. 1724, known asthe Departments of Commerce, Justice, and State, The Judiciary, and Related Agencies Appropriations Act, 1995. For complete classification of this Act to the Code, see Tables.
 
 The Small Business Prepayment Penalty Relief Act of 1994, referred to in subsec. (g), is title V of Pub. L. 103–403, Oct. 22, 1994, 108 Stat. 4198, which enacted this section and provisions set out as notes under this section and section 661 of this title. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 661 of this title and Tables.
 

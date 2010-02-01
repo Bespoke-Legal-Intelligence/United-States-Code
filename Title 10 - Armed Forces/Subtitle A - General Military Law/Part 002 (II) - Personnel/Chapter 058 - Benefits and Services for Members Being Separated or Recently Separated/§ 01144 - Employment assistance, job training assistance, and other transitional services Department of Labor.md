@@ -48,7 +48,7 @@ Use of Personnel and Organizations.—In carrying out the program established un
 
 &emsp;(6) take other necessary action to develop and furnish the information and services to be provided under this section.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752;Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, §302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, §1048(e)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, §302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, §1048(e)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### References in Text
 

@@ -58,7 +58,7 @@ Subsec. (b)(3). Pub. L. 103–236, §181(a)(4), made technical amendment to refe
 
 1991—Subsec. (a)(1)(H). Pub. L. 102–138, §153(a)(1), added subpar. (H).
 
-Subsec. (b). Pub. L. 102–138, §153(a)(2), in par. (4), substituted “section 4139(a)(2)” for “section 4139(b)” and inserted at end “Nothing in this subsection shall exclude any act, omission, or condition alleged to violateany law, rule, regulation, or policy directive referred to in subsection (a)(1)(H) of this section from such term.”
+Subsec. (b). Pub. L. 102–138, §153(a)(2), in par. (4), substituted “section 4139(a)(2)” for “section 4139(b)” and inserted at end “Nothing in this subsection shall exclude any act, omission, or condition alleged to violate any law, rule, regulation, or policy directive referred to in subsection (a)(1)(H) of this section from such term.”
 
 #### Change of Name
 

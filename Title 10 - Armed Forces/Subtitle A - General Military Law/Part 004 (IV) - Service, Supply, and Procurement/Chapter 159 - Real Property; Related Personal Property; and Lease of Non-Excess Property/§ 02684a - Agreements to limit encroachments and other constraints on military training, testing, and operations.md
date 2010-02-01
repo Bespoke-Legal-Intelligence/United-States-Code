@@ -82,7 +82,7 @@ Additional Terms and Conditions.—The Secretary concerned may require such addi
 
 Annual Reports.—(1) Not later than March 1, 2007, and annually thereafter, the Secretary of Defense shall, in coordination with the Secretaries of the military departments and the Director of the Department of Defense Test Resource Management Center, submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the projects undertaken under agreements under this section.
 
-(2) Each report under paragraph (1) shall include the following the following: <sup>1</sup>
+(2) Each report under paragraph (1) shall include the following:
 
 &emsp;(A) A description of the status of the projects undertaken under agreements under this section.
 
@@ -108,9 +108,11 @@ Definitions.—In this section:
 
 &emsp;(2) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Marianas, and the territories and possessions of the United States.
 
-(Added Pub. L. 107–314, div. B, title XXVIII, §2811(a), Dec. 2, 2002, 116 Stat. 2705; amended Pub. L. 109–163, div. B, title XXVIII, §2822, Jan. 6, 2006, 119 Stat. 3513; Pub. L. 109–364, div. B, title XXVIII, §2811(g), Oct. 17, 2006, 120 Stat. 2473; Pub. L. 110–181, div. B, title XXVIII, §2825, Jan. 28, 2008, 122 Stat. 545.)
+(Added Pub. L. 107–314, div. B, title XXVIII, §2811(a), Dec. 2, 2002, 116 Stat. 2705; amended Pub. L. 109–163, div. B, title XXVIII, §2822, Jan. 6, 2006, 119 Stat. 3513; Pub. L. 109–364, div. B, title XXVIII, §2811(g), Oct. 17, 2006, 120 Stat. 2473; Pub. L. 110–181, div. B, title XXVIII, §2825, Jan. 28, 2008, 122 Stat. 545; Pub. L. 111–84, div. A, title X, §1073(a)(27), Oct. 28, 2009, 123 Stat. 2474.)
 
 #### Amendments
+
+2009—Subsec. (g)(2). Pub. L. 111–84 substituted “the following” for “the following the following” in introductory provisions.
 
 2008—Subsec. (d)(3), (4). Pub. L. 110–181, §2825(a), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
 
@@ -137,6 +139,4 @@ Pub. L. 109–163, §2822(a)(2)(B), inserted “or entities” after “the enti
 Subsec. (d)(4) to (6). Pub. L. 109–163, §2822(b)(2), redesignated pars. (3) to (5) as (4) to (6), respectively.
 
 Subsecs. (g) to (i). Pub. L. 109–163, §2822(c), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

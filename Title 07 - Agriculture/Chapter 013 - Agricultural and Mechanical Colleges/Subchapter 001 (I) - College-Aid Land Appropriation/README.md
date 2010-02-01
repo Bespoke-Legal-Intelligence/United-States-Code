@@ -13,3 +13,4 @@
 - [&sect; 00306 - Repealed. Dec. 16, 1930, ch. 14, &sect;1, 46 Stat. 1028](%C2%A7%2000306%20-%20Repealed.%20Dec.%2016%2C%201930%2C%20ch.%2014%2C%20%C2%A71%2C%2046%20Stat.%201028.md)
 - [&sect; 00307 - Fees for locating land scrip](%C2%A7%2000307%20-%20Fees%20for%20locating%20land%20scrip.md)
 - [&sect; 00308 - Reports by State governors of sale of scrip](%C2%A7%2000308%20-%20Reports%20by%20State%20governors%20of%20sale%20of%20scrip.md)
+- [&sect; 00309 - Land grants in the State of North Dakota](%C2%A7%2000309%20-%20Land%20grants%20in%20the%20State%20of%20North%20Dakota.md)

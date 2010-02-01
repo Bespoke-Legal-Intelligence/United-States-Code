@@ -10,7 +10,7 @@ A nonresident alien individual or a foreign corporation engaged in trade or busi
 
 &emsp;(A) in the case of a nonresident alien individual, such individual is a citizen or resident of such foreign country or possession, or
 
-&emsp;(B) in the case of a foreign corporation, such corporation was created or organized underthe law of such foreign country or possession or is domiciled for tax purposes in such country or possession.
+&emsp;(B) in the case of a foreign corporation, such corporation was created or organized under the law of such foreign country or possession or is domiciled for tax purposes in such country or possession.
 
 (2) For purposes of subsection (a), in applying section 904 the taxpayer's taxable income shall be treated as consisting only of the taxable income effectively connected with the taxpayer's conduct of a trade or business within the United States.
 

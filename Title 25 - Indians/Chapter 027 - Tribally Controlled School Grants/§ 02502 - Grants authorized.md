@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) operate other tribally controlled schools eligible for assistance under this chapter and submit applications (which are approved by their tribal governing bodies) to the Secretary for such grants; or
 
-&emsp;&emsp;(C) elect to assume operation of Bureau-funded schools with the assistance underthis chapter and submit applications (which are approved by their tribal governing bodies) to the Secretary for such grants.
+&emsp;&emsp;(C) elect to assume operation of Bureau-funded schools with the assistance under this chapter and submit applications (which are approved by their tribal governing bodies) to the Secretary for such grants.
 
 #### (2) Deposit of funds
 

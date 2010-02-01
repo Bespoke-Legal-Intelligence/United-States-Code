@@ -6,7 +6,7 @@ The Secretary shall conduct a comprehensive 5-year program, in accordance with s
 
 #### (b) Program plan
 
-Within 180 days after October 24, 1992, the Secretary shall prepare and submit to the Congress a 5-year program plan to guide the activitiesunder this section. In preparing the program plan, the Secretary shall consult with appropriate representatives of industry, institutions of higher education, Federal agencies, including national laboratories, and professional and technical societies.
+Within 180 days after October 24, 1992, the Secretary shall prepare and submit to the Congress a 5-year program plan to guide the activities under this section. In preparing the program plan, the Secretary shall consult with appropriate representatives of industry, institutions of higher education, Federal agencies, including national laboratories, and professional and technical societies.
 
 #### (c) Authorization of appropriations
 

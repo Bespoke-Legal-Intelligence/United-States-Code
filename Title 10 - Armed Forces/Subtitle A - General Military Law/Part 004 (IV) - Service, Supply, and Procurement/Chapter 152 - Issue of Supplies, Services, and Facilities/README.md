@@ -39,7 +39,7 @@ Chapter was comprised of subchapter I, former section 2540, and subchapter II, s
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(2), title XII, §1203(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260, 1654A–325, renumbered items 2541 to 2554 as 2551 to 2564, respectively, and added item 2555 “Nuclear test monitoring equipment: furnishing to foreign governments” at end.
 
-1997—Pub. L. 105–85, div. A, title X, §1073(c)(2)(B), Nov. 18, 1997, 111 Stat. 1904, amended directory languageof Pub. L. 104–201, §367(b). See 1996 Amendment note below.
+1997—Pub. L. 105–85, div. A, title X, §1073(c)(2)(B), Nov. 18, 1997, 111 Stat. 1904, amended directory language of Pub. L. 104–201, §367(b). See 1996 Amendment note below.
 
 1996—Pub. L. 104–201, div. A, title III, §367(b), Sept. 23, 1996, 110 Stat. 2497, as amended by Pub. L. 105–85, div. A, title X, §1073(c)(2)(B), Nov. 18, 1997, 111 Stat. 1904, added item 2554.
 

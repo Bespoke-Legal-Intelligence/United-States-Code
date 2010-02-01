@@ -64,7 +64,7 @@ The Advisory Committee shall—
 
 &emsp;&emsp;(F) medical, technical, or scientific professionals with special expertise in heritable disorders, or in providing screening, counseling, testing or specialty services for newborns and children at risk for heritable disorders;
 
-&emsp;&emsp;(G) individuals with expertise in ethics and infectious diseases who have worked and published material in the area of newborn screening;
+&emsp;&emsp;(G) individuals with expertise in ethics and infectious diseases who have worked andpublished material in the area of newborn screening;
 
 &emsp;&emsp;(H) members of the public having special expertise about or concern with heritable disorders; and
 

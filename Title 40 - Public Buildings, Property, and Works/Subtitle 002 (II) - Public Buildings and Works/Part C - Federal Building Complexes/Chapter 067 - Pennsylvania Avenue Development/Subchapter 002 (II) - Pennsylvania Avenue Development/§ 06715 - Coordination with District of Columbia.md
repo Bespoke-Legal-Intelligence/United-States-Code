@@ -6,7 +6,7 @@ Local Needs, Initiative, and Participation.—In carrying out the purposes of th
 
 &emsp;(1) consult and cooperate with District of Columbia officials and community leaders at the earliest practicable time;
 
-&emsp;(2) give primary consideration to local needs and desires and to local and regional goals andpolicies as expressed in urban renewal, community renewal, and comprehensive land use plans and regional plans; and
+&emsp;(2) give primary consideration to local needs and desires and to local and regional goals and policies as expressed in urban renewal, community renewal, and comprehensive land use plans and regional plans; and
 
 &emsp;(3) foster local initiative and participation in connection with the planning and development of projects.
 

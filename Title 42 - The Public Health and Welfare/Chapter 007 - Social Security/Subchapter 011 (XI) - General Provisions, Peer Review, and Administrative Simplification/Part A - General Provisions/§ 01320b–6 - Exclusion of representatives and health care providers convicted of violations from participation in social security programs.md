@@ -106,7 +106,7 @@ For purposes of this section:
 
 #### References in Text
 
-Section 212(b) of Public Law 93–66, referred to in subsec. (j)(2), is section 212(b) of Pub. L. 93–66, title II, July9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
+Section 212(b) of Public Law 93–66, referred to in subsec. (j)(2), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
 
 #### Prior Provisions
 

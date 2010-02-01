@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) CITES
 
-&emsp;The term “CITES” means the Convention on International Trade in Endangered Species ofWild Fauna and Flora, done at Washington March 3, 1973 (27 UST 1087; TIAS 8249), including its appendices.
+&emsp;The term “CITES” means the Convention on International Trade in Endangered Species of Wild Fauna and Flora, done at Washington March 3, 1973 (27 UST 1087; TIAS 8249), including its appendices.
 
 #### (2) Conservation
 
@@ -46,7 +46,7 @@ In this chapter:
 
 #### (5) Multinational Species Conservation Fund
 
-&emsp;The term “Multinational Species Conservation Fund” means such fund as established in title I of the Department of the Interior and Related Agencies Appropriations Act, 1999, under the heading “
+&emsp;The term “Multinational Species Conservation Fund” means such fund as established intitle I of the Department of the Interior and Related Agencies Appropriations Act, 1999, under the heading “
 
 multinational species conservation fund” \[16 U.S.C. 4246\].
 

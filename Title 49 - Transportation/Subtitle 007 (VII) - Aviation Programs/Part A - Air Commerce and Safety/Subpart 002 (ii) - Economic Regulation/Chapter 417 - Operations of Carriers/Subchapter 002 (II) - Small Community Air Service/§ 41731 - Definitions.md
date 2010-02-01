@@ -102,7 +102,7 @@ Limitation.—The Secretary may not require air carriers to participate in the p
 
 #### Measurement of Highway Miles for Purposes of Determining Eligibility of Essential Air Service Subsidies
 
-Pub. L. 108–176, title IV, §409, Dec. 12, 2003, 117 Stat. 2547, as amended by Pub. L. 110–190, §4(d)(1), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–330, §5(k), Sept. 30, 2008, 122 Stat. 3719, provided that:
+Pub. L. 108–176, title IV, §409, Dec. 12, 2003, 117 Stat. 2547, as amended by Pub. L. 110–190, §4(d)(1), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–330, §5(k), Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–69, §5(k), Oct. 1, 2009, 123 Stat. 2055, provided that:
 
 “(a)
 
@@ -126,7 +126,7 @@ Eligibility Determination.—Not later than 60 days after receiving a request un
 
 “(d)
 
-Limitation on Period of Final Order.—A final order issued under subsection (c) shall terminate on September 30, 2009.”
+Limitation on Period of Final Order.—A final order issued under subsection (c) shall terminate on September 30, 2010.”
 
 \[Pub. L. 110–190, §4(d)(2), Feb. 28, 2008, 122 Stat. 644, provided that: “The amendment made by paragraph (1) \[amending section 409(d) of Pub. L. 108–176, set out above\] shall take effect on September 29, 2007, and shall apply with respect to any final order issued under section 409(c) of such Act \[section 409(c) of Pub. L. 108–176, set out above\] that was in effect on such date.”\]
 

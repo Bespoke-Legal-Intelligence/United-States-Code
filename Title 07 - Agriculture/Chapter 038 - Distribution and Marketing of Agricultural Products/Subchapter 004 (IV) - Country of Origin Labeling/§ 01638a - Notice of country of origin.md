@@ -78,7 +78,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A retailer of a covered commodity that is a perishable agricultural commodity, ginseng, peanut, pecan, or macadamia nut may designate the covered commodity as having a United States country of origin only if the covered commodity is exclusively produced in the United States.
+&emsp;&emsp;A retailer of a covered commodity that is a perishable agricultural commodity, ginseng, peanut, pecan, or macadamia nut maydesignate the covered commodity as having a United States country of origin only if the covered commodity is exclusively produced in the United States.
 
 #### (B) State, region, locality of the United States
 
@@ -134,9 +134,9 @@ Any person engaged in the business of supplying a covered commodity to a retaile
 
 &emsp;To certify the country of origin of a covered commodity, the Secretary may use as a model certification programs in existence on May 13, 2002, including—
 
-&emsp;&emsp;(A) the carcass grading and certification system carried out under this chapter;
+&emsp;&emsp;(A) the carcass grading and certification system carried out under this Act;
 
-&emsp;&emsp;(B) the voluntary country of origin beef labeling system carried out under this chapter;
+&emsp;&emsp;(B) the voluntary country of origin beef labeling system carried out under this Act;
 
 &emsp;&emsp;(C) voluntary programs established to certify certain premium beef cuts;
 
@@ -148,7 +148,7 @@ Any person engaged in the business of supplying a covered commodity to a retaile
 
 #### References in Text
 
-This chapter, referred to in subsec. (f)(2)(A), (B), was in the original “this Act”, and was translated as reading “this title”, meaning title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, as amended, known as the Agricultural Marketing Act of 1946, which is classified generally to this chapter, to reflect the probable intent of Congress.
+This Act, referred to in subsec. (f)(2)(A), (B), is act Aug. 14, 1946, ch. 966, 60 Stat. 1082, which enacted this chapter and sections 427h to 427j of this title and amended section 427 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -160,7 +160,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2008—Subsec. (a)(2) to (4). Pub. L. 110–246, §11002(2)(A), added pars. (2) to (4) and struck out former pars. (2) and (3) which related to designation of United States as country of origin for beef, lamb, pork, fish, perishable agricultural commodities, and peanuts, and requirement that notice of country of origin for fish shall distinguish between wild and farm-raised fish.
 
-Subsec. (d). Pub. L. 110–246, §11002(2)(B), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary may require that any person that prepares, stores, handles, or distributes a covered commodity for retail sale maintain a verifiable recordkeeping audit trail that will permit the Secretary to verify compliance with this subchapter (including the regulations promulgated under section 1638c(b) of this title).”
+Subsec. (d). Pub. L. 110–246, §11002(2)(B), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary may require that any person that prepares, stores, handles, or distributes a covered commodity for retail sale maintain a verifiable recordkeeping audit trail that will permitthe Secretary to verify compliance with this subchapter (including the regulations promulgated under section 1638c(b) of this title).”
 
 2002—Subsec. (a)(2)(D). Pub. L. 107–206 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “in the case of wild fish, is—
 

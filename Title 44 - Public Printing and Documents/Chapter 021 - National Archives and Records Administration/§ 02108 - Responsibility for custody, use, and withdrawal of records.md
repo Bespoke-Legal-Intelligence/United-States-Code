@@ -24,7 +24,7 @@ A prior section 2108 was renumbered section 2112 of this title.
 
 Subsec. (b). Pub. L. 98–497, §107(a)(2)(D), substituted “Archivist” for “Administrator of General Services”.
 
-1978—Pub. L. 95–416 designated existing provisions as subsec. (a), inserted provisions permitting the Administrator to relax, remove, or impose restrictions in the public interest of records of agencies which have been terminated and requiring the Administrator with regard to duration of restrictions to consult with the Archivist and the head of the transferring Federal agency or his successor in function, and substituted “thirty years” for “fifty years”, and added subsec. (b).
+1978—Pub. L. 95–416 designated existing provisions as subsec. (a), inserted provisions permitting the Administrator to relax, remove, or impose restrictions in the public interest of records of agencies which have been terminated and requiring the Administrator with regard to duration of restrictions to consult with the Archivist and the head of the transferring Federal agencyor his successor in function, and substituted “thirty years” for “fifty years”, and added subsec. (b).
 
 #### Effective Date of 1984 Amendment
 

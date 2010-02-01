@@ -4,7 +4,7 @@ For purposes of this part, the following definitions apply:
 
 #### (1) Qualified anti-terrorism technology
 
-&emsp;For purposes of this part, the term “qualified anti-terrorism technology” means any product, equipment, service (including support services), device, or technology (including information technology) designed, developed, modified, or procured for the specific purpose of preventing, detecting, identifying, or deterring acts of terrorism or limiting the harm such acts might otherwise cause, that is designated as such by the Secretary.
+&emsp;For purposes of this part, the term “qualified anti-terrorism technology” means anyproduct, equipment, service (including support services), device, or technology (including information technology) designed, developed, modified, or procured for the specific purpose of preventing, detecting, identifying, or deterring acts of terrorism or limiting the harm such acts might otherwise cause, that is designated as such by the Secretary.
 
 #### (2) Act of terrorism
 

@@ -134,7 +134,7 @@ Section 604(g) of Pub. L. 99–661 provided that: “The amendments made by this
 
 #### Effective Date of 1984 Amendment
 
-Section 631(c) of Pub. L. 98–525 provided that: “The amendments made by this section \[amending this section and section 6148 of this title\] shall apply only with respect to injuries incurred or aggravated and diseases or illnesses contracted or aggravated after September 30, 1984.”
+Section 631(c) of Pub. L. 98–525 provided that: “The amendments made by this section \[amending this section and section 6148 of this title\] shall apply only with respect to injuries incurred or aggravated and diseasesor illnesses contracted or aggravated after September 30, 1984.”
 
 #### Effective Date
 

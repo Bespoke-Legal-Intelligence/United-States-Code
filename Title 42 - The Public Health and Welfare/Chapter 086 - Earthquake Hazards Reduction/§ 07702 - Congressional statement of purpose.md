@@ -4,7 +4,7 @@ It is the purpose of the Congress in this chapter to reduce the risks of life an
 
 &emsp;(1) the education of the public, including State and local officials, as to earthquake phenomena, the identification of locations and structures which are especially susceptible to earthquake damage, ways to reduce the adverse consequences of an earthquake, and related matters;
 
-&emsp;(2) the development of technologically and economically feasible design and construction methods and procedures to make new and existing structures, in areas of seismic risk, earthquake resistant, giving priority to the development of such methods and procedures for power generating plants, dams, hospitals, schools, public utilities and other lifelines, public safety structures, high occupancy buildings, and other structures which are especially needed in time of disaster;
+&emsp;(2) the development of technologically and economically feasible design and construction methods and procedures to make new and existing structures, in areas of seismic risk,earthquake resistant, giving priority to the development of such methods and procedures for power generating plants, dams, hospitals, schools, public utilities and other lifelines, public safety structures, high occupancy buildings, and other structures which are especially needed in time of disaster;
 
 &emsp;(3) the implementation to the greatest extent practicable, in all areas of high or moderate seismic risk, of a system (including personnel, technology, and procedures) for predicting damaging earthquakes and for identifying, evaluating, and accurately characterizing seismic hazards;
 

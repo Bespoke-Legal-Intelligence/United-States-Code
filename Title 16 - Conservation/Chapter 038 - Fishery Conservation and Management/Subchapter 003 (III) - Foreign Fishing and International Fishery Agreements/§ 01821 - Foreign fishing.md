@@ -204,7 +204,7 @@ Notwithstanding any other provision of this subchapter, foreign fishing vessels 
 
 <i>(2) in subsection (e)(1)(E)(IV)\[iv\], by inserting “or special areas” immediately after “exclusive economic zone”;</i>
 
-<i>(3) in subsection (i), (A) by inserting “or special areas” immediately before the period at the end of paragraph (1)(A), (B) by inserting “or special areas” immediately after “exclusive economic zone” in paragraph (2)(A), and (C) by inserting “or special areas” immediately after “exclusive economic zone” in paragraph (2)(B); and</i>
+<i>(3) in subsection (i), (A) by inserting “or special areas” immediately before the period at the</i><i>end of paragraph (1)(A), (B) by inserting “or special areas” immediately after “exclusive economic zone” in paragraph (2)(A), and (C) by inserting “or special areas” immediately after “exclusive economic zone” in paragraph (2)(B); and</i>
 
 <i>(4) in subsection (j), (A) by inserting “, special areas,” immediately after “exclusive economic zone”, and (B) by inserting “, areas,” immediately after “such zone”.</i>
 
@@ -312,7 +312,7 @@ Section 2(b) of Pub. L. 97–453 provided that: “The amendments made by subsec
 
 Sections 231(b), 238(b) of Pub. L. 96–561, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to the 1981 harvesting season and harvesting seasons thereafter (as defined in section 201(d)(1) of the Magnuson-Stevens Fishery Conservation and Management Act, as amended by section 301) \[subsec. (d)(1) of this section\].”
 
-Sections 237, 238(b) of Pub. L. 96–561, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “The amendment made by section 236 \[amending this section\] shall take effect October 1, 1981, and shall apply with respect to permits issued under section 204 of theMagnuson-Stevens Fishery Conservation and Management Act \[section 1824 of this title\] after December 31, 1981.”
+Sections 237, 238(b) of Pub. L. 96–561, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “The amendment made by section 236 \[amending this section\] shall take effect October 1, 1981, and shall apply with respect to permits issued under section 204 of the Magnuson-Stevens Fishery Conservation and Management Act \[section 1824 of this title\] after December 31, 1981.”
 
 #### Transfer of Functions
 
@@ -352,7 +352,7 @@ Regulations.—The regulations promulgated under subsection (b), shall be enforc
 
 #### Foreign Fishing for Atlantic Herring and Mackerel
 
-Pub. L. 104–43, title VIII, §802, Nov. 3, 1995, 109 Stat. 396, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Notwithstanding any other provision of law—
+Pub. L. 104–43, title VIII, §802, Nov. 3, 1995, 109 Stat. 396, as amended by Pub. L. 104–208, div. A, title I,§101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Notwithstanding any other provision of law—
 
 &emsp;“(1) no allocation may be made to any foreign nation or vessel under section 201 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) \[16 U.S.C. 1821\] in any fishery for which there is not a fishery management plan implemented in accordance with that Act \[16 U.S.C. 1801 et seq.\]; and
 

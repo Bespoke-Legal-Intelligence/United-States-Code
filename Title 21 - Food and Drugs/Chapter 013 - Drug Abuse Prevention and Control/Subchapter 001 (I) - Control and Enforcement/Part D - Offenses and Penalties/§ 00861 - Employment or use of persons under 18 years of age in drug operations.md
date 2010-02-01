@@ -26,7 +26,7 @@ Any person who violates subsection (a)(1) or (2) of this section <sup>1</sup>
 
 &emsp;(2) if the person employed, hired, or used is fourteen years of age or younger,
 
-> shall be subject to a term of imprisonment for not more than five years or a fine of not morethan $50,000, or both, in addition to any other punishment authorized by this section.
+> shall be subject to a term of imprisonment for not more than five years or a fine of not more than $50,000, or both, in addition to any other punishment authorized by this section.
 
 #### (e) Suspension of sentence; probation; parole
 
@@ -40,7 +40,7 @@ Except as authorized by this subchapter, it shall be unlawful for any person to 
 
 #### References in Text
 
-Section 4202 of title 18, referred to in subsec. (e), which, as originally enacted in Title 18, Crimes and Criminal Procedure, related to eligibility of prisoners for parole, was repealed and a new section 4202 enacted as part of the repeal and enactment of a new chapter 311 (§4201 et seq.) of Title 18, by Pub. L. 94–233, §2, Mar. 15, 1976, 90 Stat. 219. For provisions relating to the eligibility of prisoners for parole, see section 4205 of Title 18. Pub. L. 98–473, title II, §§218(a)(5), 235(a)(1), (b)(1), Oct. 12, 1984, 98 Stat. 2027, 2031, 2032, as amended, provided that, effective on the first day of the first calendar month beginning 36 months after Oct. 12, 1984 (Nov. 1, 1987), chapter 311 of Title 18 is repealed, subject to remaining effective for five years after Nov. 1, 1987, in certain circumstances. See Effective Date note set out under section 3551 of Title 18.
+Section 4202 of title 18, referred to in subsec. (e), which, as originally enacted in Title 18, Crimes and Criminal Procedure, related to eligibility of prisoners for parole, was repealed and a new section 4202 enactedas part of the repeal and enactment of a new chapter 311 (§4201 et seq.) of Title 18, by Pub. L. 94–233, §2, Mar. 15, 1976, 90 Stat. 219. For provisions relating to the eligibility of prisoners for parole, see section 4205 of Title 18. Pub. L. 98–473, title II, §§218(a)(5), 235(a)(1), (b)(1), Oct. 12, 1984, 98 Stat. 2027, 2031, 2032, as amended, provided that, effective on the first day of the first calendar month beginning 36 months after Oct. 12, 1984 (Nov. 1, 1987), chapter 311 of Title 18 is repealed, subject to remaining effective for five years after Nov. 1, 1987, in certain circumstances. See Effective Date note set out under section 3551 of Title 18.
 
 #### Codification
 

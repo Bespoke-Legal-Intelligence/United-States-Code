@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(B) any member who was appointed from among persons who are not or have not been directors or officers of any financial institution or entity becomes a director or an officer of any financial institution or entity;
 
-> &emsp;such member may continue as a member for not longer than the 45-day period beginning on the date such member ceases to be such a representative or becomes such a director or officer, as the case may be.
+> &emsp;such member may continue as a member for not longer than the 45-day period beginning onthe date such member ceases to be such a representative or becomes such a director or officer, as the case may be.
 
 #### (5) Terms
 
@@ -126,7 +126,7 @@
 
 #### (B) Elected members
 
-&emsp;&emsp;The members elected under subparagraphs (A) and (B) of subsection (b)(2) of this section shall each be elected annually for a term ending on the date of the next annual meeting of the common stockholders of the Corporation and shall serve until their successors are elected and qualified. Any seat on the permanent board that becomes vacant after the annual election of the directors shall be filled by the members of the permanent board from the same category of directors, but only for the unexpired portion of the term.
+&emsp;&emsp;The members elected under subparagraphs (A) and (B) of subsection (b)(2) of this section shall each be elected annually for aterm ending on the date of the next annual meeting of the common stockholders of the Corporation and shall serve until their successors are elected and qualified. Any seat on the permanent board that becomes vacant after the annual election of the directors shall be filled by the members of the permanent board from the same category of directors, but only for the unexpired portion of the term.
 
 #### (C) Vacancy appointment
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) To comply with such additional provisions as the Secretary determines are desirable and are included in the easement to carry out this part or to facilitate the practical administration thereof.
 
-&emsp;&emsp;(D) To specify the location of any timber harvesting on land subject to the easement. Harvesting and commercial sales of Christmas trees and nuts shall be prohibited on such land, except that no such easement or related agreement shall prohibit activities consistent with customary forestry practices, such as pruning, thinning, or tree stand improvement on lands converted to forestry uses.
+&emsp;&emsp;(D) To specify the location of any timber harvesting on land subject to the easement. Harvesting and commercial sales of Christmas trees and nuts shall be prohibited on such land, except that no such easement or related agreement shall prohibit activities consistent with customary forestry practices, such as pruning, thinning, or treestand improvement on lands converted to forestry uses.
 
 &emsp;&emsp;(E) To limit the production of any agricultural commodity on such lands only to production for the benefit of wildlife.
 

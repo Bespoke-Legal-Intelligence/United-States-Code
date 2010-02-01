@@ -2,7 +2,7 @@
 
 #### (a) Establishment and administration
 
-There is hereby established in the United States Treasury an account to be known as the Mashantucket Pequot Settlement Fund (hereinafter referred to in this section as the “Fund”).The Fund shall be held in trust by the Secretary for the benefit of the Tribe and administered in accordance with this subchapter.
+There is hereby established in the United States Treasury an account to be known as the Mashantucket Pequot Settlement Fund (hereinafter referred to in this section as the “Fund”). The Fund shall be held in trust by the Secretary for the benefit of the Tribe and administered in accordance with this subchapter.
 
 #### (b) Expenditure of Fund; private settlement lands; economic development plan; acquisition of land and natural resources
 

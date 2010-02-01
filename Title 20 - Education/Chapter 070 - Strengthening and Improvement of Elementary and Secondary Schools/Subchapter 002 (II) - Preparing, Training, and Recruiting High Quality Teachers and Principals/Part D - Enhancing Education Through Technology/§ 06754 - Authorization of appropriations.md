@@ -18,7 +18,7 @@ Of the total amount of funds allocated under subsection (b)(2) of this section f
 
 #### (d) Limitation
 
-Of the amount of funds made available to a recipient of funds under this part for a fiscal year,not more than 5 percent may be used by the recipient for administrative costs or technical assistance, of which not more than 60 percent may be used by the recipient for administrative costs.
+Of the amount of funds made available to a recipient of funds under this part for a fiscal year, not more than 5 percent may be used by the recipient for administrative costs or technical assistance, of which not more than 60 percent may be used by the recipient for administrative costs.
 
 (Pub. L. 89–10, title II, §2404, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1673.)
 

@@ -40,7 +40,7 @@ There shall be established an Interim Council of the Yurok Tribe to be composed 
 
 (4) The Interim Council shall appoint, as soon as practical, a drafting committee which shall be responsible, in consultation with the Interim Council, the Secretary and members of the tribe, for the preparation of a draft constitution for submission to the Secretary pursuant to subsection (e) of this section.
 
-(5) The Interim Council shall be dissolved effective with the election and installation of the initial tribe <sup>1</sup> governing body elected pursuant to the constitution adopted under subsection (e) of this section or at the end of two years after such installation, whichever occurs first.
+(5) The Interim Council shall be dissolved effective with the election and installation of the initial tribe <sup>1</sup> governing body elected pursuant to the constitution adopted under subsection (e) ofthis section or at the end of two years after such installation, whichever occurs first.
 
 #### (e) Organization of Yurok Tribe
 

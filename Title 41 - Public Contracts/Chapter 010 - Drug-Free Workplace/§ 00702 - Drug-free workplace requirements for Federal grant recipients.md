@@ -48,7 +48,7 @@
 
 #### (2) Conduct of suspension, termination, and debarment proceedings
 
-&emsp;A suspension of payments, termination, or suspension or debarment proceeding subject to this subsection shall be conducted in accordance with applicable law, including Executive Order 12549 or any superseding Executive order and any regulations promulgated to implement such law or Executive order.
+&emsp;A suspension of payments, termination, or suspension or debarment proceeding subject tothis subsection shall be conducted in accordance with applicable law, including Executive Order 12549 or any superseding Executive order and any regulations promulgated to implement such law or Executive order.
 
 #### (3) Effect of debarment
 

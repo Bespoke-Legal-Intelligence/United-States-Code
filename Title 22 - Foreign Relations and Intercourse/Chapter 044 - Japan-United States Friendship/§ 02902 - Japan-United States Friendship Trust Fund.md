@@ -34,7 +34,7 @@ There is authorized to be appropriated to the Fund, for fiscal year 1976, an amo
 
 (2) The amount authorized to be appropriated by paragraph (1) of this subsection shall not include any amount required by law to be applied to United States participation in the International Ocean Exposition to be held in Okinawa, Japan.
 
-(3) Any unappropriated portion of the amount authorized to be appropriated by subsection (d) of this section and paragraph (1) of this subsection for fiscal year 1976 may be appropriated in any subsequent fiscal year.
+(3) Any unappropriated portion of the amount authorized to be appropriated by subsection (d)of this section and paragraph (1) of this subsection for fiscal year 1976 may be appropriated in any subsequent fiscal year.
 
 (Pub. L. 94–118, §3, Oct. 20, 1975, 89 Stat. 603; Pub. L. 94–350, title IV, §401(2), (3)(A), July 12, 1976, 90 Stat. 833.)
 

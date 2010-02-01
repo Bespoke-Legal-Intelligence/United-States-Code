@@ -78,7 +78,7 @@ Training.—
 
 &emsp;&emsp;(A)
 
-In general.—The Under Secretary shall base the requirements for the training of Federal flight deck officers under subsection (b) on the training standards applicable to Federal air marshals; except that the Under Secretary shall take into account the differing roles and responsibilities of Federal flight deck officers and Federal air marshals.
+In general.—The Under Secretary shall base the requirements for the trainingof Federal flight deck officers under subsection (b) on the training standards applicable to Federal air marshals; except that the Under Secretary shall take into account the differing roles and responsibilities of Federal flight deck officers and Federal air marshals.
 
 &emsp;&emsp;(B)
 
@@ -134,7 +134,7 @@ Revocation.—The Under Secretary may,<sup>1</sup> (in the Under Secretary's dis
 
 (e)
 
-Compensation.—Pilots participating in the program under this section shall not be eligible for compensation from the Federal Government for services provided as a Federal flight deck officer. The Federal Government and air carriersshall not be obligated to compensate a pilot for participating in the program or for the pilot's training or qualification and requalification to carry firearms under the program.
+Compensation.—Pilots participating in the program under this section shall not be eligible for compensation from the Federal Government for services provided as a Federal flight deck officer. The Federal Government and air carriers shall not be obligated to compensate a pilot for participating in the program or for the pilot's training or qualification and requalification to carry firearms under the program.
 
 (f)
 

@@ -6,7 +6,7 @@ The civilian employees of the Department of Defense, including the civilian empl
 
 #### Codification
 
-The text of section 2466(b) of this title, which was transferred to this section and redesignated subsec. (a) by Pub. L. 104–106, §312(b), was based on Pub. L. 102–190,div. A, title III, §314(a)(1), Dec. 5, 1991, 105 Stat. 1336; Pub. L. 103–337, div. A, title III, §332(b), Oct. 5, 1994, 108 Stat. 2715.
+The text of section 2466(b) of this title, which was transferred to this section and redesignated subsec. (a) by Pub. L. 104–106, §312(b), was based on Pub. L. 102–190, div. A, title III, §314(a)(1), Dec. 5, 1991, 105 Stat. 1336; Pub. L. 103–337, div. A, title III, §332(b), Oct. 5, 1994, 108 Stat. 2715.
 
 #### Amendments
 

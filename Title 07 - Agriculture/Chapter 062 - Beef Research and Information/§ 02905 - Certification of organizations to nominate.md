@@ -2,7 +2,7 @@
 
 #### (a) Eligibility of State organization certified by Secretary; eligibility criteria
 
-The eligibility of any State organization to represent producers and to participate in themaking of nominations under section 2904(1) of this title shall be certified by the Secretary. The Secretary shall certify any State organization that the Secretary determines meets the eligibility criteria established under subsection (b) of this section and such determination as to eligibility shall be final.
+The eligibility of any State organization to represent producers and to participate in the making of nominations under section 2904(1) of this title shall be certified by the Secretary. The Secretary shall certify any State organization that the Secretary determines meets the eligibility criteria established under subsection (b) of this section and such determination as to eligibility shall be final.
 
 #### (b) State cattle association or State general farm organization
 

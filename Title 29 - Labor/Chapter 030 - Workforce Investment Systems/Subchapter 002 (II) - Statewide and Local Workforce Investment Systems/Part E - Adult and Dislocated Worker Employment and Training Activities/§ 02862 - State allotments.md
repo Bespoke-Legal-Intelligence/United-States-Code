@@ -8,7 +8,7 @@ The Secretary shall—
 
 &emsp;(2)(A) reserve 20 percent of the amount appropriated under section 2872(c) of this title for a fiscal year for use under subsection (b)(2)(A) of this section, and under sections 2915(b) (relating to dislocated worker technical assistance), 2916(d) (relating to dislocated worker projects), and 2918 (relating to national emergency grants, other than under subsection <sup>1</sup> (a)(4), (f), and (g)) of this title; and
 
-&emsp;(B) make allotments from 80 percent of the amount appropriated under section 2872(c) of this title for a fiscal year in accordance with subsection (b)(2)(B) of this section.
+&emsp;(B) make allotments from 80 percent of the amount appropriated under section 2872(c) ofthis title for a fiscal year in accordance with subsection (b)(2)(B) of this section.
 
 #### (b) Allotment among States
 
@@ -142,7 +142,7 @@ The Secretary shall—
 
 #### (iii) Definition
 
-&emsp;&emsp;&emsp;In this subparagraph, the term “excess number” means, used with respect to theexcess number of unemployed individuals within a State, the number that represents the number of unemployed individuals in excess of 4.5 percent of the civilian labor force in the State.
+&emsp;&emsp;&emsp;In this subparagraph, the term “excess number” means, used with respect to the excess number of unemployed individuals within a State, the number that represents the number of unemployed individuals in excess of 4.5 percent of the civilian labor force in the State.
 
 #### (3) Definitions
 
@@ -160,7 +160,7 @@ The Secretary shall—
 
 #### (1) In general
 
-&emsp;The Secretary shall, in accordance with this subsection, reallot to eligible States amounts that are allotted under this section for employment and training activities and statewide workforce investment activities and that are available for reallotment.
+&emsp;The Secretary shall, in accordance with this subsection, reallot to eligible States amountsthat are allotted under this section for employment and training activities and statewide workforce investment activities and that are available for reallotment.
 
 #### (2) Amount
 

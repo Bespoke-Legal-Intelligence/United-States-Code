@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(4) overlapping Federal, State, and local jurisdictions, inadequate enforcement of fishery harvest regulations, and ineffective fishery management have historically hampered fishery conservation efforts and prevented the Federal Government and the State of California from fulfilling their responsibilities to protect the rivers’ anadromous fishery values;
 
-&emsp;(5) the Klamath-Trinity fall chinook salmon populations have declined by 80 percent fromhistoric levels and steelhead trout have also undergone significant reductions;
+&emsp;(5) the Klamath-Trinity fall chinook salmon populations have declined by 80 percent from historic levels and steelhead trout have also undergone significant reductions;
 
 &emsp;(6) Klamath River Basin Fisheries Resource Plan has been developed by the Secretary acting through the Bureau of Indian Affairs;
 

@@ -8,7 +8,7 @@ Prices.—All maps, charts, and other publications offered for sale by the Natio
 
 Use of Proceeds To Pay Foreign Licensing Fees.—(1) The Secretary of Defense may pay any NGA foreign data acquisition fee out of the proceeds of the sale of maps, charts, and other publications of the Agency, and those proceeds are hereby made available for that purpose.
 
-(2) In this subsection, the term “NGA foreign data acquisition fee” means any licensing or other fee imposed by a foreign country or international organization for the acquisition or use of data or products by the National Geospatial-Intelligence Agency.
+(2) In this subsection, the term “NGA foreign data acquisition fee” means any licensing orother fee imposed by a foreign country or international organization for the acquisition or use of data or products by the National Geospatial-Intelligence Agency.
 
 (Added Pub. L. 97–295, §1(50)(C), Oct. 12, 1982, 96 Stat. 1299, §2794; renumbered §453 and amended Pub. L. 104–201, div. A, title XI, §1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 106–65, div. A, title X, §1010(a), Oct. 5, 1999, 113 Stat. 739; Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), (B), Nov. 24, 2003, 117 Stat. 1568.)
 

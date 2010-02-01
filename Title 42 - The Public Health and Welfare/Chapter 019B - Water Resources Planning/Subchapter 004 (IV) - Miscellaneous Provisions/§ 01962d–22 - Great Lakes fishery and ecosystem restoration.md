@@ -72,7 +72,7 @@ In this section, the following definitions apply:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall develop a program to evaluate the success of the projects carriedout under paragraph (3) in meeting fishery and ecosystem restoration goals.
+&emsp;&emsp;The Secretary shall develop a program to evaluate the success of the projects carried out under paragraph (3) in meeting fishery and ecosystem restoration goals.
 
 #### (B) Studies
 

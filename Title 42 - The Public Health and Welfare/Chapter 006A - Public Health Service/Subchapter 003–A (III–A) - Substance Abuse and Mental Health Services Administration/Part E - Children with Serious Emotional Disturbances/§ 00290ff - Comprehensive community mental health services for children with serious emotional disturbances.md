@@ -64,7 +64,7 @@
 
 #### (2) Determination of amount contributed
 
-&emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
+&emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized toany significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
 &emsp;(B) In making a determination of the amount of non-Federal contributions for purposes of subparagraph (A), the Secretary may include only non-Federal contributions in excess of the average amount of non-Federal contributions made by the public entity involved toward the purpose described in subsection (a) of this section for the 2-year period preceding the first fiscal year for which the entity receives a grant under such section.
 
@@ -74,7 +74,7 @@
 
 Subsections (b) and (c) of section 450b of title 25, referred to in subsec. (a)(2), do not contain definitions of the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in section 450b of Title 25, Indians.
 
-The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title.For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 

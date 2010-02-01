@@ -52,7 +52,7 @@ Purposes.—The purposes of this chapter are—
 
 &emsp;(4) to facilitate the strengthening and expansion of the United States space transportation infrastructure, including the enhancement of United States launch sites and launch-site support facilities, and development of reentry sites, with Government, State, and private sector involvement, to support the full range of United States space-related activities.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1330; Pub. L. 105–303, title I, §102(a)(2), Oct. 28, 1998, 112 Stat. 2846; Pub. L. 108–492, §2(a), Dec. 23, 2004, 118 Stat. 3974.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1330; Pub. L. 105–303, title I, §102(a)(2), Oct. 28, 1998,112 Stat. 2846; Pub. L. 108–492, §2(a), Dec. 23, 2004, 118 Stat. 3974.)
 
 Historical and Revision Notes
 

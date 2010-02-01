@@ -16,7 +16,7 @@ No firearms, pistols, revolvers, shells, and cartridges purchased with funds app
 
 #### (2) Controlled groups
 
-&emsp;All persons treated as a single employer for purposes of subsection (a) or (b) of section 52 shall be treated as one person for purposes of paragraph (1).
+&emsp;All persons treated as a single employer for purposes of subsection (a) or (b) of section 52shall be treated as one person for purposes of paragraph (1).
 
 #### (d) Records
 

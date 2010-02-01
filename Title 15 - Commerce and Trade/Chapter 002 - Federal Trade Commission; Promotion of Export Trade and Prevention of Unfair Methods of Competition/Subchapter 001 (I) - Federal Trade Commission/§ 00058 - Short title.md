@@ -6,7 +6,7 @@ This subchapter may be cited as the “Federal Trade Commission Act”.
 
 #### Amendment of Section
 
-<i>For termination of amendment renumbering this section by section 13 of Pub. L. 109–455, see</i><i>Termination Date of 2006 Amendment note below.</i>
+<i>For termination of amendment renumbering this section by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.</i>
 
 #### Termination Date of 2006 Amendment
 

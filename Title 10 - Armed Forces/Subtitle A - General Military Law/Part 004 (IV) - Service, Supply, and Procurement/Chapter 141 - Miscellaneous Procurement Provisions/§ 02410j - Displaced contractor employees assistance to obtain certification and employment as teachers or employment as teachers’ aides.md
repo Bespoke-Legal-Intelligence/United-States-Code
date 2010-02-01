@@ -52,7 +52,7 @@ Eligible Scientists and Engineers.—An individual shall be eligible for selecti
 
 &emsp;&emsp;(A) in the case of an individual applying for assistance for placement as an elementary or secondary school teacher, a baccalaureate or advanced degree from an accredited institution of higher education; or
 
-&emsp;&emsp;(B) in the case of an individual applying for assistance for placement as a teacher'saide in an elementary or secondary school, an associate, baccalaureate, or advanced degree from an accredited institution of higher education or a junior or community college; and
+&emsp;&emsp;(B) in the case of an individual applying for assistance for placement as a teacher's aide in an elementary or secondary school, an associate, baccalaureate, or advanced degree from an accredited institution of higher education or a junior or community college; and
 
 &emsp;(3) has been terminated or laid off (or received notice of termination or lay off) as a result of the completion or termination of a defense contract or program or reductions in defense spending; and
 

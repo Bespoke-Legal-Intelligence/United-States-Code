@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—To maintain a safe and efficient nationwide system of public-use airports that meets the present and future needs of civil aeronautics, the Secretary of Transportation may make project grants under this subchapter from the Airport and Airway Trust Fund.
+General Authority.—To maintain a safe and efficient nationwide system of public-use airports that meets the present and future needsof civil aeronautics, the Secretary of Transportation may make project grants under this subchapter from the Airport and Airway Trust Fund.
 
 (b)
 
@@ -10,13 +10,13 @@ Incurring Obligations.—The Secretary may incur obligations to make grants from
 
 (c)
 
-Expiration of Authority.—After March 31, 2009, the Secretary may not incur obligations under subsection (b) of this section, except for obligations of amounts—
+Expiration of Authority.—After March 31, 2010, the Secretary may not incur obligations under subsection (b) of this section, except for obligations of amounts—
 
 &emsp;(1) remaining available after that date under section 47117(b) of this title; or
 
 &emsp;(2) recovered by the United States Government from grants made under this chapter if the amounts are obligated only for increases under section 47108(b)(2) and (3) of this title in the maximum amount of obligations of the Government for any other grant made under this title.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1252; Pub. L. 103–305, title I, §101(b), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 103–429, §6(63), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §101(b), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 105–277, div. C, title I, §110(b)(2), Oct. 21, 1998, 112 Stat. 2681–587; Pub. L. 106–6, §2(b), Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(b), May 21, 1999, 113 Stat. 113; Pub. L. 106–59, §1(b), Sept. 29, 1999, 113 Stat. 482; Pub. L. 106–181, title I, §101(b), Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §101(b), Dec. 12, 2003, 117 Stat. 2494; Pub. L. 110–190, §4(b), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–253, §4(b), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §4(b), Sept. 30, 2008, 122 Stat. 3718.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1252; Pub. L. 103–305, title I, §101(b), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 103–429, §6(63), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §101(b), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 105–277, div. C, title I, §110(b)(2), Oct. 21, 1998, 112 Stat. 2681–587; Pub. L. 106–6, §2(b), Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(b), May 21, 1999, 113 Stat. 113; Pub. L. 106–59, §1(b), Sept. 29, 1999, 113 Stat. 482; Pub. L. 106–181, title I, §101(b), Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §101(b), Dec. 12, 2003, 117 Stat. 2494; Pub. L. 110–190, §4(b), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–253, §4(b), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §4(b), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §4(b), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §4(b), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §4(b), Dec. 16, 2009, 123 Stat. 3032.)
 
 Historical and Revision Notes
 
@@ -80,6 +80,12 @@ In subsection (c), the text of section 109(b) of the Airport Improvement Program
 
 #### Amendments
 
+2009—Subsec. (c). Pub. L. 111–116 substituted “March 31, 2010,” for “December 31, 2009,” in introductory provisions.
+
+Pub. L. 111–69 substituted “December 31, 2009,” for “September 30, 2009,” in introductory provisions.
+
+Pub. L. 111–12 substituted “September 30, 2009,” for “March 31, 2009,” in introductory provisions.
+
 2008—Subsec. (c). Pub. L. 110–330 substituted “March 31, 2009,” for “September 30, 2008,” in introductory provisions.
 
 Pub. L. 110–253 substituted “September 30, 2008,” for “June 30, 2008,” in introductory provisions.
@@ -118,7 +124,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Design-Build Contracting
 

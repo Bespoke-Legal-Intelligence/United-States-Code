@@ -14,7 +14,7 @@ It shall be the obligation of any health care practitioner and any other person 
 
 (1) If after reasonable notice and opportunity for discussion with the practitioner or person concerned, and, if appropriate, after the practitioner or person has been given a reasonable opportunity to enter into and complete a corrective action plan (which may include remedial education) agreed to by the organization, and has failed successfully to complete such plan, any organization having a contract with the Secretary under this part determines that such practitioner or person has—
 
-&emsp;(A) failed in a substantial number of cases substantially to comply with any obligation imposed on him under subsection (a) of this section, or
+&emsp;(A) failed in a substantial number of cases substantially to comply with any obligationimposed on him under subsection (a) of this section, or
 
 &emsp;(B) grossly and flagrantly violated any such obligation in one or more instances,
 
@@ -44,7 +44,7 @@ A prior section 1320c–5, act Aug. 14, 1935, ch. 531, title XI, §1156, as adde
 
 1996—Subsec. (b)(1). Pub. L. 104–191, §214(b)(2), struck out in concluding provisions “In determining whether a practitioner or person has demonstrated an unwillingness or lack of ability substantially to comply with such obligations, the Secretary shall consider the practitioner's or person's willingness or lack of ability, during the period before the organization submits its report and recommendations, to enter into and successfully complete a corrective action plan.” after “chapter on a reimbursable basis.”
 
-Pub. L. 104–191, §214(b)(1), struck out in concluding provisions “and determines that such practitioner or person, in providing health care services over which such organization has review responsibility and for which payment (in whole or in part) may be made under this chapter, has demonstrated an unwillingness or a lack of ability substantially to comply with such obligations,” after “agrees with such determination,”.
+Pub. L. 104–191, §214(b)(1), struck out in concluding provisions “and determines that such practitioner or person, in providing health care services over which such organization has review responsibility and forwhich payment (in whole or in part) may be made under this chapter, has demonstrated an unwillingness or a lack of ability substantially to comply with such obligations,” after “agrees with such determination,”.
 
 Pub. L. 104–191, §214(a)(1), substituted “may prescribe, except that such period may not be less than 1 year)” for “may prescribe)” in concluding provisions.
 
@@ -54,7 +54,7 @@ Subsec. (b)(3). Pub. L. 104–191, §231(f), substituted “up to $10,000 for ea
 
 1994—Subsec. (b)(1). Pub. L. 103–432 substituted “whether” for “whehter” in third sentence.
 
-1990—Subsec. (b)(1). Pub. L. 101–508, §4205(a)(1), inserted “and, if appropriate, after the practitioner or person has been given a reasonable opportunity to enter into and complete a corrective action plan (which may include remedial education) agreed to by the organization, and has failed successfully to complete such plan,” after “concerned,” in introductory provisions and inserted after second sentence “In determining whehter \[sic\] a practitioner or person has demonstrated an unwillingness or lack of ability substantially to comply with such obligations, the Secretary shall consider the practitioner's or person's willingness or lack of ability, during the period before the organizationsubmits its report and recommendations, to enter into and successfully complete a corrective action plan.”
+1990—Subsec. (b)(1). Pub. L. 101–508, §4205(a)(1), inserted “and, if appropriate, after the practitioner or person has been given a reasonable opportunity to enter into and complete a corrective action plan (which may include remedial education) agreed to by the organization, and has failed successfully to complete such plan,” after “concerned,” in introductory provisions and inserted after second sentence “In determining whehter \[sic\] a practitioner or person has demonstrated an unwillingness or lack of ability substantially to comply with such obligations, the Secretary shall consider the practitioner's or person's willingness or lack of ability, during the period before the organization submits its report and recommendations, to enter into and successfully complete a corrective action plan.”
 
 Subsec. (b)(5). Pub. L. 101–597 substituted “health professional shortage area” for “health manpower shortage area (HMSA)”.
 

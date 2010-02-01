@@ -72,7 +72,7 @@ June 29, 1948, ch. 714, §5, 62 Stat. 1094.
 
 June 29, 1948, ch. 714, §6, 62 Stat. 1094.
 
-In subsection (a) the words “A Board of Visitors to the Naval Academy is constituted annually” are substituted for the words “There shall be appointed \* \* \* every year a Board of Visitors”, since appointments, in the strict sense, are not involved.
+In subsection (a) the words “A Board of Visitors to the Naval Academy is constituted annually” are substituted for the words “There shall be appointed every year a Board of Visitors”, since appointments, in the strict sense, are not involved.
 
 In subsection (b) the language establishing staggered terms is eliminated as executed, and the existence of such terms is recognized by the use of the words “two persons shall be designated by him each year to succeed the members whose terms expire that year”. No effect is given to the language “the nine Presidential appointees”. The hearings indicate that one of the bills considered provided for nine such “appointees”, and it appears that the number nine was inadvertently retained. The provision specifically authorizes only six Presidential designees.
 

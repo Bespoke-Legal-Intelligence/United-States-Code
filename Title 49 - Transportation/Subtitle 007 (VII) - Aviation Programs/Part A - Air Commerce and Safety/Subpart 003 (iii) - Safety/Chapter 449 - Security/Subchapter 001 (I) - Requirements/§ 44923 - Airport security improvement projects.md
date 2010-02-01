@@ -86,7 +86,7 @@ Discretionary grants.—Of the amount made available under paragraph (1) for a f
 
 (i)
 
-Leveraged Funding.—For purposes of this section, a grant under subsection (a) to an airport sponsor to service an obligation issued by or on behalf of that sponsor to fund a project described in subsection (a) shall be considered to be a grant for that project.
+Leveraged Funding.—For purposes of this section, a grant under subsection (a) to an airport sponsor to service an obligation issued byor on behalf of that sponsor to fund a project described in subsection (a) shall be considered to be a grant for that project.
 
 (j)
 
@@ -138,7 +138,7 @@ In general.—The Administrator of the Transportation Security Administration sh
 
 “(2)
 
-Airports that have incurred eligible costs.—The schedule shall include airports that have incurred eligible costs associated with development of partial or completed in-line baggage systems before the date ofenactment of this Act \[Aug. 3, 2007\] in reasonable anticipation of receiving a grant under section 44923 of title 49, United States Code, in reimbursement of those costs but that have not received such a grant.
+Airports that have incurred eligible costs.—The schedule shall include airports that have incurred eligible costs associated with development of partial or completed in-line baggage systems before the date of enactment of this Act \[Aug. 3, 2007\] in reasonable anticipation of receiving a grant under section 44923 of title 49, United States Code, in reimbursement of those costs but that have not received such a grant.
 
 “(3)
 

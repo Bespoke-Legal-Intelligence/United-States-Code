@@ -10,7 +10,7 @@ Negotiated Licenses.—
 
 &emsp;(1)
 
-Authority for negotiations.—Any owners of copyright in works to which this section applies and any operators of coin-operated phonorecord players may negotiate and agree upon the terms and rates of royalty payments for the performance of such works and the proportionate division of fees paid among copyright owners, and may designate common agents to negotiate, agree to, pay, or receive such royalty payments.
+Authority for negotiations.—Any owners of copyright in works to which this sectionapplies and any operators of coin-operated phonorecord players may negotiate and agree upon the terms and rates of royalty payments for the performance of such works and the proportionate division of fees paid among copyright owners, and may designate common agents to negotiate, agree to, pay, or receive such royalty payments.
 
 &emsp;(2)
 

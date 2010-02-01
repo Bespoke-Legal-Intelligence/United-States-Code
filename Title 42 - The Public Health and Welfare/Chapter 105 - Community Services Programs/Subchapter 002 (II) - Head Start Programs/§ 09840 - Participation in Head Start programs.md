@@ -88,7 +88,7 @@
 
 (C) In approving such applications, the Secretary shall take into account the costs of serving persons under section 9840a of this title.
 
-(D) Any Head Start agency with an application approved under subparagraph (B) shall be considered to be an Early Head Start agency and shall be subject to the same rules, regulations,and conditions as apply to recipients of grants under section 9840a of this title, with respect to activities carried out under this paragraph.
+(D) Any Head Start agency with an application approved under subparagraph (B) shall be considered to be an Early Head Start agency and shall be subject to the same rules, regulations, and conditions as apply to recipients of grants under section 9840a of this title, with respect to activities carried out under this paragraph.
 
 #### (b) Establishment of fee schedule or charging of fees; payment by families willing and able to pay
 
@@ -112,7 +112,7 @@ Each Head Start program operated in a community shall be permitted to provide mo
 
 (2) The Indian tribe shall enroll the children in the Head Start program in accordance with such requirements as the Secretary may specify by regulation promulgated after consultation with Indian tribes.
 
-(3) Notwithstanding any other provision of this Act, an Indian tribe or tribes that operates both an Early Head Start program under section 9840a of this title and a Head Start program may, at its discretion, at any time during the grant period involved, reallocate funds between the Early Head Start program and the Head Start program in order to address fluctuations in client populations, including pregnant women and children from birth to compulsory school age. The reallocation of such funds between programs by an Indian tribe or tribes during a year shall not serve as the basis for the Secretary to reduce a base grant (as defined in section 9835(a)(7) of this title) for either program in succeeding years.
+(3) Notwithstanding any other provision of this Act, an Indian tribe or tribes that operates both an Early Head Start program under section 9840a of this title and a Head Start program may, at its discretion, at any time during the grant period involved, reallocate funds between the Early Head Start program and the Head Start program in order to address fluctuations in client populations, including pregnant women and children from birth to compulsory schoolage. The reallocation of such funds between programs by an Indian tribe or tribes during a year shall not serve as the basis for the Secretary to reduce a base grant (as defined in section 9835(a)(7) of this title) for either program in succeeding years.
 
 (Pub. L. 97–35, title VI, §645, Aug. 13, 1981, 95 Stat. 504; Pub. L. 98–558, title I, §105, Oct. 30, 1984, 98 Stat. 2879; Pub. L. 99–425, title I, §104, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–501, title I, §§113, 114, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 101–597, title IV, §401(e), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–252, title I, §111, May 18, 1994, 108 Stat. 637; Pub. L. 105–285, title I, §112, Oct. 27, 1998, 112 Stat. 2718; Pub. L. 110–134, §14, Dec. 12, 2007, 121 Stat. 1415.)
 

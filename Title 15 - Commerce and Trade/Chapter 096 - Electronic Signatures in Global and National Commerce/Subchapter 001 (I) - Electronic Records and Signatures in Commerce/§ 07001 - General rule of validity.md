@@ -38,7 +38,7 @@ This subchapter does not—
 
 &emsp;&emsp;&emsp;(i) prior to consenting, is provided with a statement of the hardware and software requirements for access to and retention of the electronic records; and
 
-&emsp;&emsp;&emsp;(ii) consents electronically, or confirms his or her consent electronically, in a manner that reasonably demonstrates that the consumer can access information in the electronic form that will be used to provide the information that is the subject of the consent; and
+&emsp;&emsp;&emsp;(ii) consents electronically, or confirms his or her consent electronically, in amanner that reasonably demonstrates that the consumer can access information in the electronic form that will be used to provide the information that is the subject of the consent; and
 
 &emsp;&emsp;(D) after the consent of a consumer in accordance with subparagraph (A), if a change in the hardware or software requirements needed to access or retain electronic records creates a material risk that the consumer will not be able to access or retain a subsequent electronic record that was the subject of the consent, the person providing the electronic record—
 
@@ -54,7 +54,7 @@ This subchapter does not—
 
 #### (B) Verification or acknowledgment
 
-&emsp;&emsp;If a law that was enacted prior to this chapter expressly requires a record to beprovided or made available by a specified method that requires verification or acknowledgment of receipt, the record may be provided or made available electronically only if the method used provides verification or acknowledgment of receipt (whichever is required).
+&emsp;&emsp;If a law that was enacted prior to this chapter expressly requires a record to be provided or made available by a specified method that requires verification or acknowledgment of receipt, the record may be provided or made available electronically only if the method used provides verification or acknowledgment of receipt (whichever is required).
 
 #### (3) Effect of failure to obtain electronic consent or confirmation of consent
 
@@ -116,7 +116,7 @@ It is the specific intent of the Congress that this subchapter and subchapter II
 
 #### (j) Insurance agents and brokers
 
-An insurance agent or broker acting under the direction of a party that enters into a contractby means of an electronic record or electronic signature may not be held liable for any deficiency in the electronic procedures agreed to by the parties under that contract if—
+An insurance agent or broker acting under the direction of a party that enters into a contract by means of an electronic record or electronic signature may not be held liable for any deficiency in the electronic procedures agreed to by the parties under that contract if—
 
 &emsp;(1) the agent or broker has not engaged in negligent, reckless, or intentional tortious conduct;
 

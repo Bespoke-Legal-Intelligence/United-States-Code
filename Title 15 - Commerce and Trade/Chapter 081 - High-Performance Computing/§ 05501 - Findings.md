@@ -42,7 +42,7 @@ Pub. L. 108–423, §1, Nov. 30, 2004, 118 Stat. 2400, provided that: “This Ac
 
 Pub. L. 105–305, §2(a), Oct. 28, 1998, 112 Stat. 2919, provided that: “The Congress finds that—
 
-&emsp;“(1) United States leadership in science and technology has been vital to the Nation's prosperity, national and economic security, and international competitiveness, and there is every reason to believe that maintaining this tradition will lead to long-term continuation of United States strategic advantages in information technology;
+&emsp;“(1) United States leadership in science and technology has been vital to the Nation's prosperity, national and economic security, and international competitiveness, and there is every reason to believe thatmaintaining this tradition will lead to long-term continuation of United States strategic advantages in information technology;
 
 &emsp;“(2) the United States investment in science and technology has yielded a scientific and engineering enterprise without peer, and that Federal investment in research is critical to the maintenance of United States leadership;
 

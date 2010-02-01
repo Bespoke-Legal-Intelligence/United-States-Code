@@ -12,7 +12,7 @@ The Secretary shall consult with a representative group of guaranty agencies, el
 
 &emsp;(4) the institution of higher education or organization responsible for loans made under parts C and D of this subchapter;
 
-&emsp;(5) the exact amount of loans partially or totally canceled or in deferment for service under the Peace Corps Act (22 U.S.C. 2501 et seq.)),<sup>1</sup> for service under the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\], and for comparable full-time service as a volunteer for a tax-exempt organization of demonstrated effectiveness;
+&emsp;(5) the exact amount of loans partially or totally canceled or in deferment for service under the Peace Corps Act (22 U.S.C. 2501 et seq.), for service under the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\], and for comparable full-time service as a volunteer for a tax-exempt organization of demonstrated effectiveness;
 
 &emsp;(6) the eligible institution in which the student was enrolled or accepted for enrollment at the time the loan was made, and any additional institutions attended by the borrower;
 
@@ -30,7 +30,7 @@ The Secretary shall consult with a representative group of guaranty agencies, el
 
 For the purposes of research and policy analysis, the proposal shall also contain provisions for obtaining additional data concerning the characteristics of borrowers and the extent of student loan indebtedness on a statistically valid sample of borrowers under part B of this subchapter. Such data shall include—
 
-&emsp;(1) information concerning the income level of the borrower and his family and the extentof the borrower's need for student financial assistance, including loans;
+&emsp;(1) information concerning the income level of the borrower and his family and the extent of the borrower's need for student financial assistance, including loans;
 
 &emsp;(2) information concerning the type of institution attended by the borrower and the year of the program of education for which the loan was obtained;
 
@@ -58,7 +58,7 @@ In managing the National Student Loan Data System, the Secretary shall take acti
 
 &emsp;&emsp;(C) defines and explains the categories of information included in the data system;
 
-&emsp;&emsp;(D) provides a summary of the provisions of section 1232g of this title (the Family Educational Rights and Privacy Act of 1974) and other applicable Federal privacy statutes, and a statement of the students’ rights and responsibilities with respect to such statutes;
+&emsp;&emsp;(D) provides a summary of the provisions of section 1232g of this title (commonly known as the “Family Educational Rights and Privacy Act of 1974”) and other applicable Federal privacy statutes, and a statement of the students’ rights and responsibilities with respect to such statutes;
 
 &emsp;&emsp;(E) explains the measures taken by the Department to safeguard the students’ data; and
 
@@ -112,7 +112,7 @@ In managing the National Student Loan Data System, the Secretary shall take acti
 
 #### (B) Submission of study
 
-&emsp;&emsp;Not later than three years after August 14, 2008, the Secretary shall prepare and submita report on the findings of the study under subparagraph (A) to the authorizing committees.
+&emsp;&emsp;Not later than three years after August 14, 2008, the Secretary shall prepare and submit a report on the findings of the study under subparagraph (A) to the authorizing committees.
 
 #### (f) Standardization of data reporting
 
@@ -142,7 +142,7 @@ The Secretary shall, not later than July 1, 1993—
 
 The Secretary shall integrate the National Student Loan Data System with the Pell Grant applicant and recipient databases as of January 1, 1994, and any other databases containing information on participation in programs under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
-(Pub. L. 89–329, title IV, §485B, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1486; amended Pub. L. 100–50, §15(13), June 3, 1987, 101 Stat. 357; Pub. L. 101–239, title II, §2008, Dec. 19, 1989, 103 Stat. 2121; Pub. L. 101–610, title II, §204, Nov. 16, 1990, 104 Stat. 3172; Pub. L. 102–325, title IV, §487, July 23, 1992, 106 Stat. 623; Pub. L. 103–208, §2(h)(38)–(41), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §487, Oct. 7, 1998, 112 Stat. 1746; Pub. L. 110–315, title IV, §489, Aug. 14, 2008, 122 Stat. 3303.)
+(Pub. L. 89–329, title IV, §485B, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1486; amended Pub. L. 100–50, §15(13), June 3, 1987, 101 Stat. 357; Pub. L. 101–239, title II, §2008, Dec. 19, 1989, 103 Stat. 2121; Pub. L. 101–610, title II, §204, Nov. 16, 1990, 104 Stat. 3172; Pub. L. 102–325, title IV, §487, July 23, 1992, 106 Stat. 623; Pub. L. 103–208, §2(h)(38)–(41), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §487, Oct. 7, 1998, 112 Stat. 1746; Pub. L. 110–315, title IV, §489, Aug. 14, 2008, 122 Stat. 3303; Pub. L. 111–39, title IV, §407(b)(7), July 1, 2009, 123 Stat. 1952.)
 
 #### References in Text
 
@@ -153,6 +153,10 @@ The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(5), is Pu
 Title IV, referred to in subsec. (d)(3)(A), means title IV of the Higher Education Act of 1965, Pub. L. 89–329, which is classified generally to this subchapter and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of title IV to the Code, see Tables.
 
 #### Amendments
+
+2009—Subsec. (a)(5). Pub. L. 111–39, §407(b)(7)(A), substituted “2501 et seq.)” for “2501 et seq.))”.
+
+Subsec. (d)(3)(D). Pub. L. 111–39, §407(b)(7)(B), substituted “commonly known as the ‘Family Educational Rights and Privacy Act of 1974’ ” for “the Family Educational Rights and Privacy Act of 1974”.
 
 2008—Subsec. (a)(5). Pub. L. 110–315, §489(1)(C), which directed redesignation of par. (5) “as added by Pub. L. 101–234” as (6), was executed by redesignating par. (5) relating to eligible institutions as (6) to reflect the probable intent of Congress. Par. (5) relating to eligible institutions was added by Pub. L. 101–239.
 
@@ -180,7 +184,7 @@ Subsec. (c). Pub. L. 103–208, §2(h)(40), substituted “part B, C, or D of th
 
 Subsec. (e)(1), (2)(C). Pub. L. 103–208, §2(h)(41), substituted “under this subchapter and part C of subchapter I of chapter 34 of title 42” for “under this part”.
 
-1992—Subsec. (a). Pub. L. 102–325, §487(a), inserted “, and for allowing the electronic exchange of data between program participants and the system. In establishing such data system, the Secretary shall place a priority on providing for the monitoring of enrollment, student status, information about current loan holders and servicers, and internship and residency information. Such data system shall also permit borrowers to use the system to identify the current loan holders andservicers of such borrower's loan.” after “part D of this subchapter”.
+1992—Subsec. (a). Pub. L. 102–325, §487(a), inserted “, and for allowing the electronic exchange of data between program participants and the system. In establishing such data system, the Secretary shall place a priority on providing for the monitoring of enrollment, student status, information about current loan holders and servicers, and internship and residency information. Such data system shall also permit borrowers to use the system to identify the current loan holders and servicers of such borrower's loan.” after “part D of this subchapter”.
 
 Subsecs. (e) to (g). Pub. L. 102–325, §487(b), added subsecs. (e) to (g).
 
@@ -194,6 +198,10 @@ Subsec. (b)(2)(D). Pub. L. 100–50, §15(13)(B), substituted “of any borrower
 
 Subsec. (b)(3). Pub. L. 100–50, §15(13)(C), substituted “public agency” for “Federal agency”.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
@@ -205,6 +213,4 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
-
-<i><sup>1</sup></i><i> So in original. There probably should be only one closing parenthesis.</i>
 

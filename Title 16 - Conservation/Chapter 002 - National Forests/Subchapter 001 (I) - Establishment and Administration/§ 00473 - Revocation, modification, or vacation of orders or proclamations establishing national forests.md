@@ -16,5 +16,13 @@ The first sentence is a portion of the third paragraph and was prefaced by the w
 
 The second sentence is a portion of the seventh paragraph the whole of which reads as follows: “The President is hereby authorized at any time to modify any Executive order that has been or may hereafter be made establishing any forest reserve, and by such modification may reduce the area or change the boundary lines of such reserve, or may vacate altogether any order creating such reserve.”
 
+#### Short Title
+
+Certain provisions of act June 4, 1897, ch. 2, 30 Stat. 34, under the headings “
+
+under the department of the interior.” and “
+
+surveying the public lands.”, which enacted sections 473 to 478, 479 to 482, and 551 of this title, are popularly known as the Organic Administration Act.
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,7 @@
 
 The Secretary shall, by rule, within 60 days after December 22, 1975, prescribe guidelines for the preparation of a State energy conservation feasibility report. The Secretary shall invite the Governor of each State to submit, within 3 months after the effective date of such guidelines, such a report. Such report shall include—
 
-&emsp;(1) an assessment of the feasibility of establishing a State energy conservation goal, which goal shall consist of a reduction, as a result of the implementation of the State energy conservation plan described in this section, of 5 percent or more in the total amount of energy consumed in such State in the year 1980 from the projected energy consumption for such State in the year 1980, and
+&emsp;(1) an assessment of the feasibility of establishing a State energy conservation goal, which goal shall consist of a reduction, as a result of the implementation of the State energy conservation plan described in this section, of 5 percent or more in the total amountof energy consumed in such State in the year 1980 from the projected energy consumption for such State in the year 1980, and
 
 &emsp;(2) a proposal by such State for the development of a State energy conservation plan to achieve such goal.
 
@@ -30,7 +30,7 @@ Each proposed State energy conservation plan to be eligible for Federal assistan
 
 &emsp;(5) a traffic law or regulation which, to the maximum extent practicable consistent with safety, permits the operator of a motor vehicle to turn such vehicle right at a red stop light after stopping and to turn such vehicle left from a one-way street onto a one-way street at a red light after stopping; and
 
-&emsp;(6) procedures for ensuring effective coordination among various local, State, and Federal energy conservation programs within the State, including any program administered within the Office of Technical and Financial Assistance of the Department of Energy andthe Low Income Home Energy Assistance Program administered by the Department of Health and Human Services.
+&emsp;(6) procedures for ensuring effective coordination among various local, State, and Federal energy conservation programs within the State, including any program administered within the Office of Technical and Financial Assistance of the Department of Energy and the Low Income Home Energy Assistance Program administered by the Department of Health and Human Services.
 
 #### (d) Optional features of plans
 
@@ -96,7 +96,7 @@ The Governor of any State may submit to the Secretary a State energy conservatio
 
 &emsp;(C) foster greater assistance to small and start-up businesses in dealing with the Federal Government on energy technology related matters.
 
-(2) The programs to implement the functions of the Energy Technology CommercializationServices Program, as provided for by subsection (d)(12) of this section, shall—
+(2) The programs to implement the functions of the Energy Technology Commercialization Services Program, as provided for by subsection (d)(12) of this section, shall—
 
 &emsp;(A) aid small and start-up businesses in discovering useful and practical information relating to manufacturing and commercial production techniques and costs associated with new energy technologies;
 
@@ -126,7 +126,7 @@ The Governor of any State may submit to the Secretary a State energy conservatio
 
 The Secretary shall, at least once every 3 years, invite the Governor of each State to review and, if necessary, revise the energy conservation plan of such State submitted under subsection (b) or (e) of this section. Such reviews should consider the energy conservation plans of other States within the region, and identify opportunities and actions carried out in pursuit of common energy conservation goals.
 
-(Pub. L. 94–163, title III, §362, Dec. 22, 1975, 89 Stat. 933; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 101–440, §§3(a), 4(a), (b), Oct. 18, 1990, 104 Stat. 1006–1008; Pub. L. 102–486, title I, §141(b), (c)(1), Oct. 24, 1992, 106 Stat. 2841; Pub. L. 105–244, title I, §102(a)(13)(E), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–388, §5(a)(8), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §123(a), Aug. 8, 2005, 119 Stat. 616.)
+(Pub. L. 94–163, title III, §362, Dec. 22, 1975, 89 Stat. 933; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 101–440, §§3(a), 4(a), (b), Oct. 18, 1990, 104 Stat. 1006–1008; Pub. L. 102–486, title I, §141(b), (c)(1), Oct. 24, 1992, 106Stat. 2841; Pub. L. 105–244, title I, §102(a)(13)(E), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–388, §5(a)(8), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §123(a), Aug. 8, 2005, 119 Stat. 616.)
 
 #### Amendments
 

@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(A) shall be conducted among Federal, State, local, and tribal government leaders on electronic Government in the executive, legislative, and judicial branches, as well as leaders in the private and nonprofit sectors, to encourage collaboration and enhance understanding of best practices and innovative approaches in acquiring, using, and managing information resources;
 
-&emsp;&emsp;(B) is intended to improve the performance of governments in collaborating on the use of information technology to improve the delivery of Government information and services; and
+&emsp;&emsp;(B) is intended to improve the performance of governments in collaborating on the use of information technology to improve thedelivery of Government information and services; and
 
 &emsp;&emsp;(C) may include—
 
@@ -84,7 +84,7 @@
 
 &emsp;&emsp;&emsp;(iv) identification of opportunities for public, private, and intergovernmental collaboration in addressing the disparities in access to the Internet and information technology.
 
-&emsp;(10) Sponsor activities to engage the general public in the development and implementation of policies and programs, particularly activities aimed at fulfilling the goal of using the most effective citizen-centered strategies andthose activities which engage multiple agencies providing similar or related information and services.
+&emsp;(10) Sponsor activities to engage the general public in the development and implementation of policies and programs, particularly activities aimed at fulfilling the goal of using the most effective citizen-centered strategies and those activities which engage multiple agencies providing similar or related information and services.
 
 &emsp;(11) Oversee the work of the General Services Administration and other agencies in developing the integrated Internet-based system under section 204 of the E-Government Act of 2002.
 

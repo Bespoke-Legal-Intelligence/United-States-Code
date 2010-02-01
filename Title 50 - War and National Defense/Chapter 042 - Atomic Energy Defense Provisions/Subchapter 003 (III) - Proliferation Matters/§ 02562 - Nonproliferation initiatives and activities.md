@@ -36,7 +36,7 @@
 
 (6) Funds appropriated for the Initiatives for Proliferation Prevention program may not be used to pay any tax or customs duty levied by the government of the Russian Federation. In the event payment of such a tax or customs duty with such funds is unavoidable, the Secretary of Energy shall—
 
-&emsp;(A) after such payment, submit a report to the congressional defense committees explaining the particular circumstances making suchpayment under the Initiatives for Proliferation Prevention program with such funds unavoidable; and
+&emsp;(A) after such payment, submit a report to the congressional defense committees explaining the particular circumstances making such payment under the Initiatives for Proliferation Prevention program with such funds unavoidable; and
 
 &emsp;(B) ensure that sufficient additional funds are provided to the Initiatives for Proliferation Prevention Program <sup>1</sup> to offset the amount of such payment.
 
@@ -82,7 +82,7 @@ This title, referred to in subsec. (b)(2), probably means title XXXI of Pub. L. 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §3141(f)(3)(D), substituted “title XXXI of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65)” for “this title”.
+2003—Subsec. (b)(1). Pub. L. 108–136, §3141(f)(3)(D), substituted “title XXXI of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65)” for “this title”.
 
 <i><sup>1</sup></i><i> So in original. Initial letter probably should be lower case.</i>
 

@@ -30,7 +30,7 @@
 
 #### (4) Executive Coordinator for Technology and Innovation
 
-&emsp;The Secretary shall appoint (or designate) a noncareer appointee (as defined in section3132(a)(7) of title 5) who shall serve as the Executive Coordinator for Technology and Innovation. Such executive coordinator shall report to the Administrator of CMS, shall chair the Council, shall oversee the execution of its duties, and shall serve as a single point of contact for outside groups and entities regarding the coverage, coding, and payment processes under this subchapter.
+&emsp;The Secretary shall appoint (or designate) a noncareer appointee (as defined in section 3132(a)(7) of title 5) who shall serve as the Executive Coordinator for Technology and Innovation. Such executive coordinator shall report to the Administrator of CMS, shall chair the Council, shall oversee the execution of its duties, and shall serve as a single point of contact for outside groups and entities regarding the coverage, coding, and payment processes under this subchapter.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1868, as added Pub. L. 101–508, title IV, §4112, Nov. 5, 1990, 104 Stat. 1388–64; amended Pub. L. 108–173, title IX, §942(a), Dec. 8, 2003, 117 Stat. 2420.)
 

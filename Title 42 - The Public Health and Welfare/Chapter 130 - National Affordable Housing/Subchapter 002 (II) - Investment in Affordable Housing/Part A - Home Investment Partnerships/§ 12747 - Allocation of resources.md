@@ -10,7 +10,7 @@
 
 #### (3) <sup>1</sup> Insular areas
 
-&emsp;For each fiscal year, of any amounts approved in appropriation Acts to carry out this subchapter, the Secretary shall reserve for grants to the insular areas the greater of (A) $750,000, or (B) 0.2 percent of the amounts appropriated under such Acts. The Secretary shall provide for the distribution of amountsreserved under this paragraph among the insular areas pursuant to specific criteria for such distribution, which shall be contained in a regulation issued by the Secretary.
+&emsp;For each fiscal year, of any amounts approved in appropriation Acts to carry out this subchapter, the Secretary shall reserve for grants to the insular areas the greater of (A) $750,000, or (B) 0.2 percent of the amounts appropriated under such Acts. The Secretary shall provide for the distribution of amounts reserved under this paragraph among the insular areas pursuant to specific criteria for such distribution, which shall be contained in a regulation issued by the Secretary.
 
 #### (b) Formula allocation
 
@@ -66,7 +66,7 @@ The Secretary shall establish objective criteria for making direct reallocations
 
 &emsp;(2) the applicant's actions that—
 
-&emsp;&emsp;(A) direct funds made available under this part to benefit very low-income families, with a range of incomes, in amounts that exceed the income targeting requirements of section 12744 of this title, with extra consideration given for activities that expand the supply of affordable housing for very low-income families whose incomes do not exceed 30 percent of the median family income for the area, as determined by the Secretary;
+&emsp;&emsp;(A) direct funds made available under this part to benefit very low-income families,with a range of incomes, in amounts that exceed the income targeting requirements of section 12744 of this title, with extra consideration given for activities that expand the supply of affordable housing for very low-income families whose incomes do not exceed 30 percent of the median family income for the area, as determined by the Secretary;
 
 &emsp;&emsp;(B) apply the tenant selection preference categories applicable under section 1437f of this title to the selection of tenants for housing assisted under this part;
 
@@ -108,7 +108,7 @@ The Secretary shall establish objective criteria for making direct reallocations
 
 1996—Subsec. (a)(1). Pub. L. 104–330, §505(a)(1)(A), struck out “reserving amounts under paragraph (2) for Indian tribes and after” after “After”.
 
-Subsec. (a)(2). Pub. L. 104–330, §505(a)(1)(B), struck out heading and text of par. (2). Text read as follows: “For each fiscal year, of the amount approved in an appropriations Act to carry out this subchapter, the Secretary shall reserve for grants to Indian tribes 1 percent of the amount appropriated under such section. The Secretary shall provide for distribution of amounts under this paragraph to Indian tribes on the basis of acompetition conducted pursuant to specific criteria for the selection of Indian tribes to receive such amounts. The criteria shall be contained in a regulation promulgated by the Secretary after notice and public comment.”
+Subsec. (a)(2). Pub. L. 104–330, §505(a)(1)(B), struck out heading and text of par. (2). Text read as follows: “For each fiscal year, of the amount approved in an appropriations Act to carry out this subchapter, the Secretary shall reserve for grants to Indian tribes 1 percent of the amount appropriated under such section. The Secretary shall provide for distribution of amounts under this paragraph to Indian tribes on the basis of a competition conducted pursuant to specific criteria for the selection of Indian tribes to receive such amounts. The criteria shall be contained in a regulation promulgated by the Secretary after notice and public comment.”
 
 1992—Subsec. (a)(1). Pub. L. 102–550, §211(a)(2)(A), added first sentence and struck out former first sentence which read as follows: “After reserving amounts for Indian tribes as required by paragraph (2) of this subsection and after reserving amounts for the insular areas under paragraph (3), the Secretary shall allocate funds approved in an appropriations Act to carry out this subchapter by formula as provided in subsection (b) of this section.”
 
@@ -124,7 +124,7 @@ In general.—For each fiscal year, of any amount approved in an appropriations 
 
 &emsp;“(i) their share of the total population of eligible jurisdictions; and
 
-&emsp;“(ii) any adjustments that the Secretary determines are reasonable in light of available data that are related to factors set forth in subsection (b)(1)(B) of this section.
+&emsp;“(ii) any adjustments that the Secretary determines are reasonable in light of available data thatare related to factors set forth in subsection (b)(1)(B) of this section.
 
 “(B)
 

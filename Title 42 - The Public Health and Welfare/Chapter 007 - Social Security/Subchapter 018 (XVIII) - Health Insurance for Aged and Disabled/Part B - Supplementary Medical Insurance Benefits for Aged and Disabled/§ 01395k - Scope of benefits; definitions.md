@@ -50,7 +50,7 @@ The benefits provided to an individual by the insurance program established by t
 
 &emsp;&emsp;(I) prosthetic devices and orthotics and prosthetics (described in section 1395m(h)(4) of this title) furnished by a provider of services or by others under arrangements with them made by a provider of services; and
 
-&emsp;&emsp;(J) partial hospitalization services provided by a community mental health center (as described in section 1395x(ff)(2)(B) of this title).
+&emsp;&emsp;(J) partial hospitalization services provided by a community mental health center\(as described in section 1395x(ff)(2)(B) of this title).
 
 #### (b) Definitions
 
@@ -272,7 +272,7 @@ Section 205(e)(2) of Pub. L. 100–360 directed Secretary of Health and Human Se
 
 #### Study of Alternative Out-of-Home Services
 
-Section 205(g) of Pub. L. 100–360, which required Secretary of Health and Human Services to study, and report to Congress, not later than 18 months after July 1, 1988, on advisability of providing, to chronically dependent individuals eligible for in-home care under amendments made by section 205 of Pub. L. 100–360 \[amending this section and sections 1395<i>l</i>, 1395n, 1395x, and 1395y of this title\], out-of-home services as alternative services to in-home care, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
+Section 205(g) of Pub. L. 100–360, which required Secretary of Health and Human Services to study, and report to Congress, not later than 18 months after July 1, 1988, on advisability of providing, to chronically dependent individuals eligible for in-home care under amendments made by section 205 of Pub. L. 100–360\[amending this section and sections 1395<i>l</i>, 1395n, 1395x, and 1395y of this title\], out-of-home services as alternative services to in-home care, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
 
 #### Continuation of Cost Pass-Through for Certified Registered Nurse Anesthetists
 

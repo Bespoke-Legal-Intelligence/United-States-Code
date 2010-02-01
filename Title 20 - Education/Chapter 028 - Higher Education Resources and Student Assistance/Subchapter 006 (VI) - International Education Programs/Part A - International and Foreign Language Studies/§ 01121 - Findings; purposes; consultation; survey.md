@@ -78,7 +78,7 @@ Subsecs. (c), (d). Pub. L. 110–315, §601(4), added subsecs. (c) and (d).
 
 #### Effective Date
 
-Part effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244,set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
+Part effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
 
 #### National Endowment for International Studies
 

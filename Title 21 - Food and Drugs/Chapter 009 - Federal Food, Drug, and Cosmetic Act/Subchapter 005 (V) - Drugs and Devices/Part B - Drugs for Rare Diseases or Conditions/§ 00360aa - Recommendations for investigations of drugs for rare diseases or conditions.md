@@ -2,7 +2,7 @@
 
 #### (a) Request by sponsor; response by Secretary
 
-The sponsor of a drug for a disease or condition which is rare in the States may request theSecretary to provide written recommendations for the non-clinical and clinical investigations which must be conducted with the drug before—
+The sponsor of a drug for a disease or condition which is rare in the States may request the Secretary to provide written recommendations for the non-clinical and clinical investigations which must be conducted with the drug before—
 
 &emsp;(1) it may be approved for such disease or condition under section 355 of this title, or
 
@@ -35,6 +35,22 @@ General Rule.—Except as provided in subsection (b), this Act and the amendment
 “(b)
 
 Exception.—The amendments made by sections 2, 3, and 6(a) \[amending this section and sections 360bb and 360cc of this title\] shall take effect on the date of the enactment of this Act \[Aug. 15, 1985\]. The amendment made by section 6(b) \[amending section 6022 of Title 42\] shall take effect October 19, 1984. The amendments made by section 7 \[amending section 295g–1 of Title 42\] shall take effect October 1, 1984 and shall cease to be in effect after September 30, 1985.”
+
+#### Review Groups on Rare Diseases and Neglected Diseases of the Developing World; Report; Guidance; Standards
+
+Pub. L. 111–80, title VII, §740, Oct. 21, 2009, 123 Stat. 2127, provided that:
+
+“(a) The Commissioner of Food and Drugs shall establish within the Food and Drug Administration a review group which shall recommend to the Commissioner of Food and Drugs appropriate preclinical, trial design, and regulatory paradigms and optimal solutions for the prevention, diagnosis, and treatment of rare diseases: <i>Provided</i>, That the Commissioner of Food and Drugs shall appoint individuals employed by the Food and Drug Administration to serve on the review group: <i>Provided further</i>, That members of the review group shall have specific expertise relating to the development of articles for use in the prevention, diagnosis, or treatment of rare diseases, including specific expertise in developing or carrying out clinical trials.
+
+“(b) The Commissioner of Food and Drugs shall establish within the Food and Drug Administration a review group which shall recommend to the Commissioner of Food and Drugs appropriate preclinical, trial design, and regulatory paradigms and optimal solutions for the prevention, diagnosis, and treatment of neglected diseases of the developing world: <i>Provided</i>, That the Commissioner of Food and Drugs shall appoint individuals employed by the Food and Drug Administration to serve on the review group: <i>Provided further</i>, That members of the review group shall have specific expertise relating to the development of articles for use in the prevention, diagnosis, or treatment of neglected diseases of the developing world, including specific expertise in developing or carrying out clinical trials: <i>Provided further</i>, That for the purposes of this section the term ‘neglected disease of the developing world’ means a tropical disease, as defined in section 524(a)(3) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360n(a)(3)).
+
+“(c) The Commissioner of Food and Drugs shall—
+
+&emsp;“(1) submit, not later than 1 year after the date of the establishment of review groups under subsections (a) and (b), a report to Congress that describes both the findings and recommendations made by the review groups under subsections (a) and (b);
+
+&emsp;“(2) issue, not later than 180 days after submission of the report to Congress under paragraph (1), guidance based on such recommendations for articles for use in the prevention, diagnosis, and treatment of rare diseases and for such uses in neglected diseases of the developing world; and
+
+&emsp;“(3) develop, not later than 180 days after submission of the report to Congress under paragraph (1), internal review standards based on such recommendations for articles for use in the prevention, diagnosis, and treatment of rare diseases and for such uses in neglected diseases of the developing world.”
 
 #### Study
 

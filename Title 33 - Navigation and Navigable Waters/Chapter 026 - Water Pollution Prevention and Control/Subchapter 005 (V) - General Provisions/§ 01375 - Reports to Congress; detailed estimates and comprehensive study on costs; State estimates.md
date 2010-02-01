@@ -46,7 +46,7 @@ The Administrator, in cooperation with the States, including water pollution con
 
 2002—Subsecs. (a) to (e). Pub. L. 107–303 repealed Pub. L. 105–362, §501(d)(1). See 1998 Amendment notes below.
 
-1998—Subsec. (a). Pub. L. 105–362, §501(d)(1)(A), which directed the striking out of subsec. (a), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+1998—Subsec. (a). Pub. L. 105–362, §501(d)(1)(A), which directed the striking out of subsec. (a), was repealed byPub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
 Subsec. (b). Pub. L. 105–362, §501(d), which directed the striking out of par. (1) designation, redesignation of subpars. (A) to (D) as pars. (1) to (4), respectively, and striking out of par. (2), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 

@@ -44,7 +44,7 @@ Grant award requirements.—
 
 &emsp;&emsp;“(i)
 
-Geographic diversity.—The Administrator shall, to the extent practicable, award grants under this section \[probably means this subsection\] to eligible entities located in different regions of the United States.
+Geographic diversity.—The Administrator shall, to the extent practicable, award grants underthis section \[probably means this subsection\] to eligible entities located in different regions of the United States.
 
 &emsp;&emsp;“(ii)
 
@@ -90,7 +90,7 @@ Activities described.—The National Coordinating Center shall—
 
 &emsp;&emsp;“(iii) develop educational materials regarding the prevention and treatment of Sickle Cell Disease; and
 
-&emsp;&emsp;“(iv) prepare and submit to Congress a final report that includes recommendations regarding theeffectiveness of the demonstration program conducted under this subsection and such direct outcome measures as—
+&emsp;&emsp;“(iv) prepare and submit to Congress a final report that includes recommendations regarding the effectiveness of the demonstration program conducted under this subsection and such direct outcome measures as—
 
 &emsp;&emsp;&emsp;“(I) the number and type of health care resources utilized (such as emergency room visits, hospital visits, length of stay, and physician visits for individuals with Sickle Cell Disease); and
 

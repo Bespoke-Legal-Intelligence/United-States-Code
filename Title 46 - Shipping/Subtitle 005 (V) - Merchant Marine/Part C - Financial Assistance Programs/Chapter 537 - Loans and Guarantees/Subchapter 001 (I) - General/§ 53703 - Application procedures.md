@@ -10,7 +10,7 @@ In general.—The Secretary or Administrator shall approve or deny an applicatio
 
 &emsp;(2)
 
-Extension.—On request by an applicant, the Secretary or Administrator may extendthe 270-day period in paragraph (1) to a date not later than 2 years after the date on which the signed application was received by the Secretary or Administrator.
+Extension.—On request by an applicant, the Secretary or Administrator may extend the 270-day period in paragraph (1) to a date not later than 2 years after the date on which the signed application was received by the Secretary or Administrator.
 
 (b)
 

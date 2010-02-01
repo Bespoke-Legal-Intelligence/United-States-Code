@@ -32,5 +32,5 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 A prior section 206 of Pub. L. 89–329 was classified to section 1026 of this title, prior to repeal by Pub. L. 110–315.
 
-Another prior section 1026 of Pub. L. 89–329 was classified to section 1026 of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
+Another prior section 206 of Pub. L. 89–329 was classified to section 1026 of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
 

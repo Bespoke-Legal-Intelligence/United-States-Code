@@ -52,7 +52,7 @@ Nothing in this chapter supersedes any provision of the Year 2000 Information an
 
 #### (ii) State
 
-&emsp;&emsp;&emsp;The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth ofPuerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;&emsp;&emsp;The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (iii) Local government
 
@@ -102,7 +102,7 @@ Nothing in this chapter supersedes any provision of the Year 2000 Information an
 
 #### (5) Length of Y2K upset
 
-&emsp;The maximum allowable length of the Y2K upset shall be not more than 15 days beginning on the date of the upset unless specific relief by the appropriate regulatory authority is granted.
+&emsp;The maximum allowable length of the Y2K upset shall be not more than 15 days beginningon the date of the upset unless specific relief by the appropriate regulatory authority is granted.
 
 #### (6) Fraudulent invocation of Y2K upset defense
 

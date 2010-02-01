@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each Federal, State, and local law enforcement agency shall report each case of a missingchild under the age of 21 reported to such agency to the National Crime Information Center of the Department of Justice.
+Each Federal, State, and local law enforcement agency shall report each case of a missing child under the age of 21 reported to such agency to the National Crime Information Center of the Department of Justice.
 
 #### (b) Guidelines
 

@@ -56,7 +56,7 @@ An eligible trade organization shall be—
 
 #### (1) Multi-year basis
 
-&emsp;The Secretary may provide assistance under this section on a multi-year basis, subject toannual review by the Secretary for compliance with the approved marketing plan.
+&emsp;The Secretary may provide assistance under this section on a multi-year basis, subject to annual review by the Secretary for compliance with the approved marketing plan.
 
 #### (2) Termination of assistance
 
@@ -106,7 +106,7 @@ An eligible trade organization shall be—
 
 #### (2) Limitation
 
-&emsp;Assistance provided under this section for activities described in subsection (e)(4) of this section shall not exceed 50 percent of the cost of implementing the marketing plan, except that the Secretary may determine not to apply such limitation in the case of agricultural commodities with respect to which there has been a favorable decision by the United States Trade Representative under section 2411 of title 19. Criteria for determining that the limitation shall not apply shall be consistent and documented.
+&emsp;Assistance provided under this section for activities described in subsection (e)(4) of this section shall not exceed 50 percent of the cost of implementing the marketing plan, exceptthat the Secretary may determine not to apply such limitation in the case of agricultural commodities with respect to which there has been a favorable decision by the United States Trade Representative under section 2411 of title 19. Criteria for determining that the limitation shall not apply shall be consistent and documented.
 
 #### (3) Staged reduction in assistance
 

@@ -12,7 +12,7 @@
 
 (3) No such contract shall provide for the receipt of more State or territory prisoners by the United States than are transferred to that State or territory by such contract.
 
-(b) Funds received under such contract may be deposited in the Treasury to the credit of the appropriation or appropriations from which the payments for such service were originally made.
+(b) Funds received under such contract may be deposited in the Treasury to the credit of theappropriation or appropriations from which the payments for such service were originally made.
 
 (c) Unless otherwise specifically provided in the contract, a person committed to the Attorney General hereunder shall be subject to all the provisions of law and regulations applicable to persons committed for violations of laws of the United States not inconsistent with the sentence imposed.
 

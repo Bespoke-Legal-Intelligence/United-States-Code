@@ -42,7 +42,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (i) Amounts in excess
 
-&emsp;&emsp;&emsp;Notwithstanding clauses (ii) and (iii) of subparagraph (A), for any fiscal year for which the allocation received by a local educational agency under section 1411(f) of this title exceeds the amount the local educational agency received for the previous fiscal year, the local educational agency may reduce the level of expenditures otherwise required by subparagraph (A)(iii) by not more than 50 percent of the amount of such excess.
+&emsp;&emsp;&emsp;Notwithstanding clauses (ii) and (iii) of subparagraph (A), for any fiscal year forwhich the allocation received by a local educational agency under section 1411(f) of this title exceeds the amount the local educational agency received for the previous fiscal year, the local educational agency may reduce the level of expenditures otherwise required by subparagraph (A)(iii) by not more than 50 percent of the amount of such excess.
 
 #### (ii) Use of amounts to carry out activities under ESEA
 
@@ -74,7 +74,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (A) Uses
 
-&emsp;&emsp;Notwithstanding paragraph (2)(A) or section 1412(a)(17)(B) of this title (relating tocommingled funds), funds provided to the local educational agency under this subchapter may be used for the following activities:
+&emsp;&emsp;Notwithstanding paragraph (2)(A) or section 1412(a)(17)(B) of this title (relating to commingled funds), funds provided to the local educational agency under this subchapter may be used for the following activities:
 
 #### (i) Services and aids that also benefit nondisabled children
 
@@ -230,7 +230,7 @@ If the State educational agency determines that a local educational agency or St
 
 #### (1) In general
 
-&emsp;A State educational agency shall use the payments that would otherwise have been available to a local educational agency or to a State agency to provide special education and related services directly to children with disabilities residing in the area served by that local educational agency, or for whom that State agency is responsible, if the State educational agency determines that the local educational agency or State agency, as the case may be—
+&emsp;A State educational agency shall use the payments that would otherwise have beenavailable to a local educational agency or to a State agency to provide special education and related services directly to children with disabilities residing in the area served by that local educational agency, or for whom that State agency is responsible, if the State educational agency determines that the local educational agency or State agency, as the case may be—
 
 &emsp;&emsp;(A) has not provided the information needed to establish the eligibility of such local educational agency or State agency under this section;
 

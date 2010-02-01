@@ -6,7 +6,7 @@
 
 &emsp;(2) to obtain money or property by means of false or fraudulent pretenses, representations, or promises,
 
-> in any procurement of property or services as a prime contractor with the United States or as a subcontractor or supplier on a contract in which there is a prime contract with the United States, if the value of the contract, subcontract, or any constituent part thereof, for such property or services is $1,000,000 or more shall, subject to the applicability of subsection (c) of this section, be fined not more than $1,000,000, or imprisoned not more than 10 years, or both.
+> in any grant, contract, subcontract, subsidy, loan, guarantee, insurance, or other form of Federal assistance, including through the Troubled Asset Relief Program, an economic stimulus, recovery or rescue plan provided by the Government, or the Government's purchase of any troubled asset as defined in the Emergency Economic Stabilization Act of 2008, or in any procurement of property or services as a prime contractor with the United States or as a subcontractor or supplier on a contract in which there is a prime contract with the United States, if the value of such grant, contract, subcontract, subsidy, loan, guarantee, insurance, or other form of Federal assistance, or any constituent part thereof, is $1,000,000 or more shall, subject to the applicability of subsection (c) of this section, be fined not more than $1,000,000, or imprisoned not more than 10 years, or both.
 
 (b) The fine imposed for an offense under this section may exceed the maximum otherwise provided by law, if such fine does not exceed $5,000,000 and—
 
@@ -48,9 +48,15 @@
 
 &emsp;(2) was not a participant in the unlawful activity that is the subject of said prosecution, may, in a civil action, obtain all relief necessary to make such individual whole. Such relief shall include reinstatement with the same seniority status such individual would have had but for the discrimination, 2 times the amount of back pay, interest on the back pay, and compensation for any special damages sustained as a result of the discrimination, including litigation costs and reasonable attorney's fees.
 
-(Added Pub. L. 100–700, §2(a), Nov. 19, 1988, 102 Stat. 4631; amended Pub. L. 101–123, §2(a), Oct. 23, 1989, 103 Stat. 759; Pub. L. 103–322, title XXXIII, §330002(a), (f), Sept. 13, 1994, 108 Stat. 2140.)
+(Added Pub. L. 100–700, §2(a), Nov. 19, 1988, 102 Stat. 4631; amended Pub. L. 101–123, §2(a), Oct.23, 1989, 103 Stat. 759; Pub. L. 103–322, title XXXIII, §330002(a), (f), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 111–21, §2(d), May 20, 2009, 123 Stat. 1618.)
+
+#### References in Text
+
+The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–21, in concluding provisions, inserted “any grant, contract, subcontract, subsidy, loan, guarantee, insurance, or other form of Federal assistance, including through the Troubled Asset Relief Program, an economic stimulus, recovery or rescue plan provided by the Government, or the Government's purchase of any troubled asset as defined in the Emergency Economic Stabilization Act of 2008, or in” before “any procurement”, substituted “such grant, contract, subcontract, subsidy, loan, guarantee, insurance, or other form of Federal assistance” for “the contract, subcontract”, and struck out “for such property or services” before “is $1,000,000”.
 
 1994—Subsec. (g). Pub. L. 103–322, §330002(f), redesignated second subsec. (g) as (h).
 

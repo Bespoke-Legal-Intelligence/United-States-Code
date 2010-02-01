@@ -10,11 +10,23 @@ In this part:
 
 &emsp;&emsp;(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
 
-&emsp;(3) The term “minor construction threshold” means $5,000,000.
+&emsp;(3) The term “minor construction threshold” means $10,000,000.
 
-(Pub. L. 107–314, div. D, title XLVII, §4701, formerly div. C, title XXXVI, §3620, Dec. 2, 2002, 116 Stat. 2756; renumbered div. D, title XLVII, §4701, by Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), Nov. 24, 2003, 117 Stat. 1781.)
+(Pub. L. 107–314, div. D, title XLVII, §4701, formerly div. C, title XXXVI, §3620, Dec. 2, 2002, 116 Stat. 2756; renumbered div. D, title XLVII, §4701, by Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 111–84, div. C, title XXXI, §3118(a), (b), Oct. 28, 2009, 123 Stat. 2709.)
+
+#### Amendment of Paragraph (3)
+
+<i>Pub. L. 111–84, div. C, title XXXI, §3118(b), Oct. 28, 2009, 123 Stat. 2709, provided that, effective Sept. 30, 2010, paragraph (3) of this section is amended by substituting “$5,000,000” for “$10,000,000”.</i>
 
 #### Codification
 
 Section was formerly classified to section 7386 of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
+
+#### Amendments
+
+2009—Par. (3). Pub. L. 111–84, §3118(a), substituted “$10,000,000” for “$5,000,000”.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–84, div. C, title XXXI, §3118(b), Oct. 28, 2009, 123 Stat. 2709, provided that the amendment made by section 3118(b) is effective Sept. 30, 2010.
 

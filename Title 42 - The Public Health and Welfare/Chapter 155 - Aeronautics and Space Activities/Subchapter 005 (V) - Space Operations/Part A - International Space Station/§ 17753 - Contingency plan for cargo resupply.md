@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The International Space Station represents a significant investment of national resources,and it is a facility that embodies a cooperative international approach to the exploration and utilization of space. As such, it is important that its continued viability and productivity be ensured, to the maximum extent possible, after the Space Shuttle is retired.
+The International Space Station represents a significant investment of national resources, and it is a facility that embodies a cooperative international approach to the exploration and utilization of space. As such, it is important that its continued viability and productivity be ensured, to the maximum extent possible, after the Space Shuttle is retired.
 
 #### (b) Contingency plan
 

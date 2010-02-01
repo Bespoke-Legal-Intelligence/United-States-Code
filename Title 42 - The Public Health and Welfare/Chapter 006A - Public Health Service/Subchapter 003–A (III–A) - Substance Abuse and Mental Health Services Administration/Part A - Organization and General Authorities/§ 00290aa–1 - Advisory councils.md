@@ -68,7 +68,7 @@
 
 #### (1) In general
 
-&emsp;The term of office of a member of an advisory council appointed under subsection (b) ofthis section shall be 4 years, except that any member appointed to fill a vacancy for an unexpired term shall serve for the remainder of such term. The Secretary shall make appointments to an advisory council in such a manner as to ensure that the terms of the members not all expire in the same year. A member of an advisory council may serve after the expiration of such member's term until a successor has been appointed and taken office.
+&emsp;The term of office of a member of an advisory council appointed under subsection (b) of this section shall be 4 years, except that any member appointed to fill a vacancy for an unexpired term shall serve for the remainder of such term. The Secretary shall make appointments to an advisory council in such a manner as to ensure that the terms of the members not all expire in the same year. A member of an advisory council may serve after the expiration of such member's term until a successor has been appointed and taken office.
 
 #### (2) Reappointments
 

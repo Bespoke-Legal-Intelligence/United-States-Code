@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §125 (less 1st and last pars.), 39 Stat. 216; Apr. 15, 1948, ch. 188, 62 Stat. 172; June 25, 1948, ch. 645, §21 (as applicable to §125 of the Act of June 3, 1916, ch. 134), 62 Stat. 864; May 24, 1949, ch. 139, §§15(b) (less last par.), 142 (as applicable to the Act of Apr. 15, 1948, ch. 188), 63 Stat. 91, 110.
 
-The words “the Canal Zone, Guam, American Samoa, and the Virgin Islands as well as to \* \* \* other” are omitted as covered by the words “possessions, and all other places under its jurisdiction”.
+The words “the Canal Zone, Guam, American Samoa, and the Virgin Islands as well as to other” are omitted as covered by the words “possessions, and all other places under its jurisdiction”.
 
 #### Amendments
 

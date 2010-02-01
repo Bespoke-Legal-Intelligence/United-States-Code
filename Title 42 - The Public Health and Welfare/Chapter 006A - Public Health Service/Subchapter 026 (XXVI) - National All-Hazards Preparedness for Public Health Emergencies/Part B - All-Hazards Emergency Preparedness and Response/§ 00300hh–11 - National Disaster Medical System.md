@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The National Disaster Medical System shall be a coordinated effort by the Federal agencies specified in subparagraph (B), working in collaboration with the States and other appropriate public or private entities, to carry out the purposes described in paragraph (3).
+&emsp;&emsp;The National Disaster Medical System shall be a coordinated effort by the Federal agencies specified in subparagraph (B), working in collaboration with the Statesand other appropriate public or private entities, to carry out the purposes described in paragraph (3).
 
 #### (B) Participating Federal agencies
 

@@ -272,7 +272,7 @@ Title 5.—The provision of assistance under this chapter shall not be construed
 
 Treatment.—For the purposes of this section, the United States Virgin Islands shall be treated as an urbanized area, as defined in section 5302.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 795; Pub. L. 103–429, §6(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–287, §5(11), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title III, §3007(a)(1), (b)–(h), June 9, 1998, 112 Stat. 347, 348; Pub. L. 105–206, title IX, §9009(e), July 22, 1998, 112 Stat. 855; Pub. L. 107–232, §1, Oct. 1, 2002, 116 Stat. 1478; Pub. L. 108–88, §8(n), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, §9(n), Feb. 29, 2004, 118 Stat. 488; Pub. L. 108–224, §7(n), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(n), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(n), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, §8(n), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(m), May 31, 2005, 119 Stat. 333; Pub. L. 109–20, §7(m), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(m), July 20, 2005, 119 Stat. 389; Pub.L. 109–37, §7(m), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(m), July 28, 2005, 119 Stat. 420; Pub. L. 109–59, title III, §§3002(b)(4), 3009(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1568–1571; Pub. L. 110–244, title II, §201(c), June 6, 2008, 122 Stat. 1609.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 795; Pub. L. 103–429, §6(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–287, §5(11), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title III, §3007(a)(1), (b)–(h), June 9, 1998, 112 Stat. 347, 348; Pub. L. 105–206, title IX, §9009(e), July 22, 1998, 112 Stat. 855; Pub. L. 107–232, §1, Oct. 1, 2002, 116 Stat. 1478; Pub. L. 108–88, §8(n), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, §9(n), Feb. 29, 2004, 118 Stat. 488; Pub. L. 108–224, §7(n), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(n), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(n), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, §8(n), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(m), May 31, 2005, 119 Stat. 333; Pub. L. 109–20, §7(m), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(m), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(m), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(m), July 28, 2005, 119 Stat. 420; Pub. L. 109–59, title III, §§3002(b)(4), 3009(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1568–1571; Pub. L. 110–244, title II, §201(c), June 6, 2008, 122 Stat. 1609.)
 
 Historical and Revision Notes
 
@@ -540,7 +540,7 @@ Pub. L. 109–14, §7(m)(2), substituted “June 30, 2005” for “May 31, 2005
 
 Subsec. (b)(3)(A). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation”.
 
-Subsec. (b)(4). Pub. L. 109–59, §3009(c)(3), struck out par. (4) which read as follows: “A project for the reconstruction of equipment and material, each of which after reconstruction will have a fair market value of at least .5 percent of the current fair market value of rolling stock comparable to the rolling stock for which theequipment and material will be used, is a capital project for an associated capital maintenance item under this section.”
+Subsec. (b)(4). Pub. L. 109–59, §3009(c)(3), struck out par. (4) which read as follows: “A project for the reconstruction of equipment and material, each of which after reconstruction will have a fair market value of at least .5 percent of the current fair market value of rolling stock comparable to the rolling stock for which the equipment and material will be used, is a capital project for an associated capital maintenance item under this section.”
 
 Subsec. (c)(5). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation”.
 
@@ -558,7 +558,7 @@ Subsec. (e). Pub. L. 109–59, §3009(e), reenacted heading without change and a
 
 Subsec. (f)(1). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation”.
 
-Subsec. (g)(4). Pub. L. 109–59, §3009(f), struck out par. (4) which read as follows: “The Secretary shall consider changes in capital project cost indices when determining the estimated cost under paragraph (3) of this subsection.”
+Subsec. (g)(4). Pub. L. 109–59, §3009(f), struck out par. (4) which read as follows: “The Secretary shall considerchanges in capital project cost indices when determining the estimated cost under paragraph (3) of this subsection.”
 
 Subsecs. (h), (i). Pub. L. 109–59, §3009(a), redesignated subsecs. (i) and (<i>l</i>) as (h) and (i), respectively, and struck out heading and text of former subsec. (h). Text read as follows: “The Secretary shall prescribe streamlined administrative procedures for complying with the certification requirement under subsection (d)(1)(B) and (C) of this section for track and signal equipment used in existing operations.”
 
@@ -642,7 +642,7 @@ Subsec. (a)(2). Pub. L. 105–178, §3007(b)(3), inserted “
 
 Designated recipient.—The term” after “(2)”.
 
-Subsec. (b)(1). Pub. L. 105–178, §3007(h)(1), as added by Pub. L. 105–206, §9009(e), inserted at end “The Secretarymay make grants under this section from funds made available for fiscal year 1998 to finance the operating costs of equipment and facilities for use in mass transportation in an urbanized area with a population of at least 200,000.”
+Subsec. (b)(1). Pub. L. 105–178, §3007(h)(1), as added by Pub. L. 105–206, §9009(e), inserted at end “The Secretary may make grants under this section from funds made available for fiscal year 1998 to finance the operating costs of equipment and facilities for use in mass transportation in an urbanized area with a population of at least 200,000.”
 
 Pub. L. 105–178, §3007(c)(1), substituted “and improvement costs of equipment” for “, improvement, and operating costs of equipment” and inserted at end “The Secretary may also make grants under this section to finance the operating cost of equipment and facilities for use in mass transportation in an urbanized area with a population of less than 200,000.”
 
@@ -714,7 +714,7 @@ Best and final offers.—The cost of evaluating best and final offers either by 
 
 “(d)
 
-Technology.—To the extent feasible, cooperative procurements under this section shall maximize use of Internet-based software technology designed specifically for transit buses and other major capital equipment to develop specifications; aggregate equipment requirements with other transit agencies; generate cooperative request for proposal packages; createcooperative specifications; and automate the request for approved equals process.
+Technology.—To the extent feasible, cooperative procurements under this section shall maximize use of Internet-based software technology designed specifically for transit buses and other major capital equipment to develop specifications; aggregate equipment requirements with other transit agencies; generate cooperative request for proposal packages; create cooperative specifications; and automate the request for approved equals process.
 
 “(e)
 
@@ -738,7 +738,7 @@ Pub. L. 105–178, title III, §3011, June 9, 1998, 112 Stat. 357, as amended by
 
 “(a)
 
-In General.—Notwithstanding any other provision of law, for fiscal years 1999 through 2004 and for the period of October 1, 2004, through July 30, 2005, a recipient of assistance under section 5307 or 5309 of title 49, United States Code, may use, as part of the local matching funds for a capital project (as defined in section 5302(a) of title 49, United States Code), the proceeds from the issuance of revenue bonds.
+In General.—Notwithstanding any other provision of law, for fiscal years 1999 through 2004 and for the period of October 1, 2004, through July 30, 2005, a recipient of assistance under section 5307 or 5309 of title 49, United States Code, may use, as part of the localmatching funds for a capital project (as defined in section 5302(a) of title 49, United States Code), the proceeds from the issuance of revenue bonds.
 
 “(b)
 

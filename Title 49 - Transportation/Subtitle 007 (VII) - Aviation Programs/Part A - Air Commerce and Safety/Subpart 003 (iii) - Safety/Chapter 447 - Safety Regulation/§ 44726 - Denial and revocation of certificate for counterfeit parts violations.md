@@ -28,7 +28,7 @@ In general.—Except as provided in subsections (f) and (g), the Administrator s
 
 &emsp;&emsp;(A) was convicted in a court of law of a violation of a law of the United States relating to the installation, production, repair, or sale of a counterfeit or fraudulently-represented aviation part or material; or
 
-&emsp;&emsp;(B) knowingly, and with the intent to defraud, carried out or facilitated an activity punishable under a law described in paragraph (1)(A).
+&emsp;&emsp;(B) knowingly, and with the intent to defraud, carried out or facilitated an activitypunishable under a law described in paragraph (1)(A).
 
 &emsp;(2)
 
@@ -80,7 +80,7 @@ Amendment of Certificate.—If the holder of a certificate issued under this cha
 
 &emsp;(2) the holder satisfies the requirements for the certificate without regard to that individual,
 
-> then the Administrator may amend the certificate to impose a limitation that the certificatewill not be valid if that individual has a controlling or ownership interest in the holder. A decision by the Administrator under this subsection is not reviewable by the Board.
+> then the Administrator may amend the certificate to impose a limitation that the certificate will not be valid if that individual has a controlling or ownership interest in the holder. A decision by the Administrator under this subsection is not reviewable by the Board.
 
 (Added Pub. L. 106–181, title V, §505(a)(1), Apr. 5, 2000, 114 Stat. 134; amended Pub. L. 108–176, title V, §501, Dec. 12, 2003, 117 Stat. 2556.)
 

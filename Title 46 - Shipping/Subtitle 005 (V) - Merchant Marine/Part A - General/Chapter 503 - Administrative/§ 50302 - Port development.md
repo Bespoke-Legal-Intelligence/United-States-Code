@@ -20,7 +20,93 @@ General Requirements.—With the objective of promoting, encouraging, and develo
 
 Submission of Findings to Surface Transportation Board.—After an investigation under subsection (a), if the Secretary of Transportation believes that the rates or practices of a rail carrier subject to the jurisdiction of the Surface Transportation Board are detrimental to the objective specified in subsection (a), or that new rates or practices, new or additional port terminal facilities, or affirmative action by a rail carrier is necessary to promote that objective, the Secretary may submit findings to the Board for action the Board considers appropriate under existing law.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1564.)
+(c)
+
+Port Infrastructure Development Program.—
+
+&emsp;(1)
+
+Establishment of program.—The Secretary of Transportation, through the Maritime Administrator, shall establish a port infrastructure development program for the improvement of port facilities as provided in this subsection.
+
+&emsp;(2)
+
+Authority of the administrator.—In order to carry out any project under the program established under paragraph (1), the Administrator may—
+
+&emsp;&emsp;(A) receive funds provided for the project from Federal, non-Federal, and private entities that have a specific agreement or contract with the Administrator to further the purposes of this subsection;
+
+&emsp;&emsp;(B) coordinate with other Federal agencies to expedite the process established under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) for the improvement of port facilities to improve the efficiency of the transportation system, to increase port security, or to provide greater access to port facilities;
+
+&emsp;&emsp;(C) seek to coordinate all reviews or requirements with appropriate local, State, and Federal agencies; and
+
+&emsp;&emsp;(D) provide such technical assistance to port authorities or commissions or theirsubdivisions and agents as needed for project planning, design, and construction.
+
+&emsp;(3)
+
+Port infrastructure development fund.—
+
+&emsp;&emsp;(A)
+
+Establishment.—There is a Port Infrastructure Development Fund for use by the Administrator in carrying out projects under the port infrastructure development program. The Fund shall be available to the Administrator—
+
+&emsp;&emsp;&emsp;(i) to administer and carry out projects under the program;
+
+&emsp;&emsp;&emsp;(ii) to receive Federal, non-Federal, and private funds from entities which have specific agreements or contracts with the Administrator; and
+
+&emsp;&emsp;&emsp;(iii) to make refunds for projects that will not be completed.
+
+&emsp;&emsp;(B)
+
+Credits.—There may be deposited into the Fund—
+
+&emsp;&emsp;&emsp;(i) funds from Federal, non-Federal, and private entities which have agreements or contracts with the Administrator and which shall remain in the Fund until expended or refunded; and
+
+&emsp;&emsp;&emsp;(ii) such amounts as may be appropriated or transferred, subject to subparagraph (C), to the Fund under this subsection.
+
+&emsp;&emsp;(C)
+
+Transfers.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Subject to clauses (ii) and (iii), amounts appropriated or otherwise made available for any fiscal year for a marine facility or intermodal facility that includes maritime transportation may be transferred, at the option of the recipient of such amounts, to the Fund and administered by the Administrator as a component of a project under the program.
+
+&emsp;&emsp;&emsp;(ii)
+
+Prohibition on transfers.—Except as provided in clause (iii), no funds appropriated or made available under title 23 or chapter 53 of title 49, United States Code, including funds from the Highway Trust Fund (section 9503(c) of the Internal Revenue Code of 1986), funds from the Mass Transit Account of the Highway Trust Fund (section 9503(e) of Internal Revenue Code of 1986), and funds provided for public transportation programs within the mass transit category (as defined in section 250(c)(4)(C) of the Balanced Budget and Emergency Deficit Control Act of 1985), shall be transferred into the Fund.
+
+&emsp;&emsp;&emsp;(iii)
+
+Exception.—
+
+&emsp;&emsp;&emsp;&emsp;(I)
+
+In general.—Amounts described in subclause (II) are eligible for transfer into the Fund if—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the recipient of the amounts has a specific agreement or contract with the Administrator;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the Department of Transportation agency that administers the amounts to be transferred has granted project approval for each component of the project that is to be funded using such amounts;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the Department of Transportation agency that administers the amounts to be transferred and the Maritime Administration agree to the transfer through a signed Memorandum of Understanding; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) the amounts will be used only to carry out the project for which funds were approved, and in accordance with any conditions governing the amounts under title 23 or chapter 53 of title 49, United States Code.
+
+&emsp;&emsp;&emsp;&emsp;(II)
+
+Amounts described.—The amounts referred to in subclause (I) are amounts appropriated or made available—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) for loans, loan guarantees, or lines of credit under chapter 6 of title 23, United States Code, for a project eligible under such chapter to facilitate direct intermodal exchange, transfer, and access into and out of a port as defined under section 601(a)(8)(D)(iii) of such title, as in effect on the date of enactment of this subsection; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) for projects under title XII of division A of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5).
+
+&emsp;&emsp;(D)
+
+Limitation on statutory construction.—Nothing in this section shall be construed to alter or otherwise affect existing authorities to conduct port infrastructure programs in Hawaii (as authorized by section 9008 of Public Law 109–59), Alaska (as authorized by section 10205 of Public Law 109–59), or Guam (as authorized by section 3512 of Public Law 110–417).
+
+&emsp;(4)
+
+Authorization of appropriations.—There are authorized to be appropriated to the Fund such sums as may be necessary to carry out the program, taking into account amounts received under paragraph (3)(A)(ii).
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1564; Pub. L. 111–84, div. C, title XXXV, §3512, Oct. 28, 2009, 123 Stat. 2722.)
 
 Historical and Revision Notes
 
@@ -45,4 +131,26 @@ June 5, 1920, ch. 250, §8, 41 Stat. 992; Exec. Order No. 6166, June 10, 1933, �
 In subsection (a), before paragraph (1), the words “Secretary of the Army” are substituted for “Secretary of War” in section 8 of the Merchant Marine Act, 1920 (ch. 250, 41 Stat. 992) because of section 205(a) of the National Security Act of 1947 (ch. 343, 61 Stat. 501). See 10 U.S.C. 3011 et seq. In paragraph (3), the words “apparatus” and “appliances” are omitted as unnecessary. In paragraph (4), the words “consult with” are substituted for “advise with” as being more grammatical.
 
 In subsection (b), the words “rates or practices” are substituted for “rates, charges, rules, or regulations” for consistency in the revised title and with other titles of the United States Code.
+
+#### References in Text
+
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(2)(B), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+Section 9503 of the Internal Revenue Code of 1986, referred to in subsec. (c)(3)(C)(ii), is classified to section 9503 of Title 26, Internal Revenue Code.
+
+Section 250 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (c)(3)(C)(ii), is classified to section 900 of Title 2, The Congress.
+
+The date of enactment of this subsection, referred to in subsec. (c)(3)(C)(iii)(II)(aa), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
+
+The American Recovery and Reinvestment Act of 2009, referred to in subsec. (c)(3)(C)(iii)(II)(bb), is Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 115. The provisions of title XII of div. A of the Act making appropriations are not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
+
+Section 9008 of Public Law 109–59, referred to in subsec. (c)(3)(D), is section 9008 of Pub. L. 109–59, title IX, Aug. 10, 2005, 119 Stat. 1926, which is not classified to the Code.
+
+Section 10205 of Public Law 109–59, referred to in subsec. (c)(3)(D), is section 10205 of Pub. L. 109–59, title X, Aug. 10, 2005, 119 Stat. 1934, which is not classified to the Code.
+
+Section 3512 of Public Law 110–417, referred to in subsec. (c)(3)(D), is classified to section 1421r of Title 48, Territories and Insular Possessions.
+
+#### Amendments
+
+2009—Subsec. (c). Pub. L. 111–84 added subsec. (c).
 

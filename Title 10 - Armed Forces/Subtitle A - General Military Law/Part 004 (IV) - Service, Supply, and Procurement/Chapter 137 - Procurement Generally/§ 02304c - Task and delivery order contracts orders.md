@@ -26,7 +26,7 @@ Statement of Work.—A task or delivery order shall include a statement of work 
 
 (d)
 
-Enhanced Competition for Orders in Excess of $5,000,000.—In the case of a task or delivery order in excess of $5,000,000, the requirement to provide all contractors a fair opportunity to be considered under subsection (b) is not metunless all such contractors are provided, at a minimum—
+Enhanced Competition for Orders in Excess of $5,000,000.—In the case of a task or delivery order in excess of $5,000,000, the requirement to provide all contractors a fair opportunity to be considered under subsection (b) is not met unless all such contractors are provided, at a minimum—
 
 &emsp;(1) a notice of the task or delivery order that includes a clear statement of the agency's requirements;
 

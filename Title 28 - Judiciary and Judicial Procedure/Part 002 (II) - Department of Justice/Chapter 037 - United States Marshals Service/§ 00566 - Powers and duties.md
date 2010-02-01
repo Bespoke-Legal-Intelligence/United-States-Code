@@ -1,6 +1,6 @@
 ### §566. Powers and duties
 
-(a) It is the primary role and mission of the United States Marshals Service to provide forthe security and to obey, execute, and enforce all orders of the United States District Courts, the United States Courts of Appeals, the Court of International Trade, and the United States Tax Court, as provided by law.
+(a) It is the primary role and mission of the United States Marshals Service to provide for the security and to obey, execute, and enforce all orders of the United States District Courts, the United States Courts of Appeals, the Court of International Trade, and the United States Tax Court, as provided by law.
 
 (b) The United States marshal of each district is the marshal of the district court and of the court of appeals when sitting in that district, and of the Court of International Trade holding sessions in that district, and may, in the discretion of the respective courts, be required to attend any session of court.
 
@@ -26,7 +26,7 @@
 
 (h) The United States marshals shall pay such office expenses of United States Attorneys as may be directed by the Attorney General.
 
-(i) The Director of the United States Marshals Service shall consult with the Judicial Conference of the United States on a continuing basis regarding the security requirements for the judicial branch of the United States Government, to ensure that the views of the Judicial Conference regarding the security requirements for the judicial branch of the Federal Government are taken into account when determining staffing levels, setting priorities for programs regarding judicial security, and allocating judicial security resources. In this paragraph, the term “judicial security” includes the security of buildings housing the judiciary, the personal security of judicial officers, the assessment of threats made to judicial officers, and the protection of all other judicial personnel. The United States Marshals Service retains final authority regarding security requirements for the judicial branch of the Federal Government.
+(i) The Director of the United States Marshals Service shall consult with the Judicial Conference of the United States on a continuing basis regarding the security requirements for the judicial branch of the United States Government, to ensure that the views of the Judicial Conference regarding the security requirementsfor the judicial branch of the Federal Government are taken into account when determining staffing levels, setting priorities for programs regarding judicial security, and allocating judicial security resources. In this paragraph, the term “judicial security” includes the security of buildings housing the judiciary, the personal security of judicial officers, the assessment of threats made to judicial officers, and the protection of all other judicial personnel. The United States Marshals Service retains final authority regarding security requirements for the judicial branch of the Federal Government.
 
 (Added Pub. L. 100–690, title VII, §7608(a)(1), Nov. 18, 1988, 102 Stat. 4514; amended Pub. L. 110–177, title I, §§101(a), 102(a), Jan. 7, 2008, 121 Stat. 2534, 2535.)
 

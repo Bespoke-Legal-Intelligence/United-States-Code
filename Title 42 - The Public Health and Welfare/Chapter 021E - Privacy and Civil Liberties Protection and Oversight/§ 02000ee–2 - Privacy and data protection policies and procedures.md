@@ -40,7 +40,7 @@ The Inspector General of each agency shall periodically conduct a review of the 
 
 #### (1) In general
 
-&emsp;Upon completion of a review, the Inspector General of an agency shall submit to the head of that agency a detailed report on the review,including recommendations for improvements or enhancements to management of information in identifiable form, and the privacy and data protection procedures of the agency.
+&emsp;Upon completion of a review, the Inspector General of an agency shall submit to the head of that agency a detailed report on the review, including recommendations for improvements or enhancements to management of information in identifiable form, and the privacy and data protection procedures of the agency.
 
 #### (2) Internet availability
 
@@ -56,7 +56,7 @@ In this section, the definition of “identifiable form” is consistent with Pu
 
 The Privacy Act of 1974, referred to in subsecs. (a)(3) and (b)(1), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 552a of Title 5 and Tables.
 
-The Federal Information Security Management Act of 2002, referred to in subsec. (d), is the statutory short title for title III of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2946, and for title X of Pub. L. 107–296, Nov. 25, 116 Stat. 2259. For complete classification of these Acts to the Code, see Short Title of 2002 Amendments note set out under section 101 of Title 44, Public Printing and Documents, Short Title note set out under section 101 of Title 6, Domestic Security, and Tables.
+The Federal Information Security Management Act of 2002, referred to in subsec. (d), is the statutory short title for title III of Pub. L. 107–347, Dec. 17, 2002, 116Stat. 2946, and for title X of Pub. L. 107–296, Nov. 25, 116 Stat. 2259. For complete classification of these Acts to the Code, see Short Title of 2002 Amendments note set out under section 101 of Title 44, Public Printing and Documents, Short Title note set out under section 101 of Title 6, Domestic Security, and Tables.
 
 The E-Government Act of 2002, referred to in subsec. (f), is Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2899. Section 208 of the Act is set out as a note under section 3501 of Title 44, Public Printing and Documents. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under section 101 of Title 44 and Tables.
 

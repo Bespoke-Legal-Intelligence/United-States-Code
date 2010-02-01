@@ -12,7 +12,7 @@ A taxpayer may file an application for a tentative carryback adjustment of the t
 
 &emsp;(4) The unpaid amount of such tax, not including any amount required to be shown under paragraph (5);
 
-&emsp;(5) The amount, with respect to the tax for the taxable year immediately preceding the taxable year from which the carryback ismade, as to which an extension of time for payment under section 6164 is in effect; and
+&emsp;(5) The amount, with respect to the tax for the taxable year immediately preceding the taxable year from which the carryback is made, as to which an extension of time for payment under section 6164 is in effect; and
 
 &emsp;(6) Such other information for purposes of carrying out the provisions of this section as may be required by such regulations.
 
@@ -120,7 +120,7 @@ Subsecs. (b), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his dele
 
 Subsec. (a). Pub. L. 92–178, §601(e)(1)(B) and (C), inserted “by a work incentive program carryback provided in section 50A(b),” after “section 46(b),” in first sentence, and “or a work incentive program carryback” after “investment credit carryback” in second sentence, respectively.
 
-1969—Subsec. (a). Pub. L. 91–172, §512(d)(1), (2), provided quick refund procedure, presently available incase of net operating loss carrybacks, to be made available in the case of the 3-year capital loss carryback, and substituted “net operating loss, net capital loss, or unused investment credit” for “net operating loss or unused investment credit” in par. (1).
+1969—Subsec. (a). Pub. L. 91–172, §512(d)(1), (2), provided quick refund procedure, presently available in case of net operating loss carrybacks, to be made available in the case of the 3-year capital loss carryback, and substituted “net operating loss, net capital loss, or unused investment credit” for “net operating loss or unused investment credit” in par. (1).
 
 Subsec. (b). Pub. L. 91–172, §512(d)(2), substituted “net operating loss, net capital loss, or unused investment credit” for “net operating loss or unused investment credit” wherever such term appears.
 
@@ -196,5 +196,5 @@ Section 2(g) of Pub. L. 89–721, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

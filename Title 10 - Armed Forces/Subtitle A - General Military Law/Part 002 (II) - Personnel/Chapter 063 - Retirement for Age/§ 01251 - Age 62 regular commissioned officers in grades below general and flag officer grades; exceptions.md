@@ -48,7 +48,7 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 #### Deferral of Retirement Date for Chairman of the Joint Chiefs of Staff
 
-Pub. L. 100–456, div. A, title VII, §704, Sept. 29, 1988, 102 Stat. 1996, provided that the President could defer until Oct. 1, 1989, the retirement of the officer serving as Chairman of the Joint Chiefs of Staff for the term which began on October 1, 1987, notwithstanding the limitation contained in former section 1251(b) of this title.
+Pub. L. 100–456, div. A, title VII, §704, Sept. 29, 1988, 102 Stat. 1996, provided that the President could defer until Oct. 1, 1989, the retirement of the officer serving as Chairman of the Joint Chiefs of Staff for the termwhich began on October 1, 1987, notwithstanding the limitation contained in former section 1251(b) of this title.
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 

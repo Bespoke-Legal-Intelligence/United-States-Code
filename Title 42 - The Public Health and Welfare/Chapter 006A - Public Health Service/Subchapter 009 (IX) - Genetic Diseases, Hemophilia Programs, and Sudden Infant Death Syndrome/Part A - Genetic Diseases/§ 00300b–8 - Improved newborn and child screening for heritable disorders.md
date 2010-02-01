@@ -74,7 +74,7 @@ There are authorized to be appropriated—
 
 &emsp;(1) to provide grants for the purpose of carrying out activities under subsection (a)(1), $15,000,000 for fiscal year 2009; <sup>2</sup> $15,187,500 for fiscal year 2010, $15,375,000 for fiscal year 2011, $15,562,500 for fiscal year 2012, and $15,750,000 for fiscal year 2013; and
 
-&emsp;(2) to provide grants for the purpose of carrying out activities under paragraphs (2), (3), and (4) of subsection (a), $15,000,000 for fiscalyear 2009, $15,187,500 for fiscal year 2010, $15,375,000 for fiscal year 2011, $15,562,500 for fiscal year 2012, and $15,750,000 for fiscal year 2013.
+&emsp;(2) to provide grants for the purpose of carrying out activities under paragraphs (2), (3), and (4) of subsection (a), $15,000,000 for fiscal year 2009, $15,187,500 for fiscal year 2010, $15,375,000 for fiscal year 2011, $15,562,500 for fiscal year 2012, and $15,750,000 for fiscal year 2013.
 
 (July 1, 1944, ch. 373, title XI, §1109, as added Pub. L. 106–310, div. A, title XXVI, §2601, Oct. 17, 2000, 114 Stat. 1164; amended Pub. L. 110–204, §2, Apr. 24, 2008, 122 Stat. 705; Pub. L. 110–237, §1(a)(1), May 27, 2008, 122 Stat. 1556.)
 

@@ -178,7 +178,7 @@
 
 #### (ii) Disclosure of non-creditable coverage
 
-&emsp;&emsp;&emsp;In the case of such coverage that does not meet such requirement, the disclosure to part D eligible individuals under this subparagraph shall include information regarding the fact that because such coverage does not meet such requirement there are limitations on the periods in a year in which the individuals may enroll under a prescription drug plan or an MA–PD plan and that any such enrollment is subject to a late enrollment penalty under this subsection.
+&emsp;&emsp;&emsp;In the case of such coverage that does not meet such requirement, the disclosureto part D eligible individuals under this subparagraph shall include information regarding the fact that because such coverage does not meet such requirement there are limitations on the periods in a year in which the individuals may enroll under a prescription drug plan or an MA–PD plan and that any such enrollment is subject to a late enrollment penalty under this subsection.
 
 #### (C) Waiver of requirement
 

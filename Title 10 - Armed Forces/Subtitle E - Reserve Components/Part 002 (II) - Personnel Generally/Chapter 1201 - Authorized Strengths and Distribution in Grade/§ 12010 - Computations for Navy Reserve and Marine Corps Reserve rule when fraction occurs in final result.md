@@ -1,6 +1,6 @@
 ### §12010. Computations for Navy Reserve and Marine Corps Reserve: rule when fraction occurs in final result
 
-When there is a fraction in the final result of any computation under this chapter for the Navy Reserve or the Marine Corps Reserve, a fraction of one-half or more is counted as one, and a fraction of less than one-half is disregarded.
+When there is a fraction in the final result of any computation under this chapter for theNavy Reserve or the Marine Corps Reserve, a fraction of one-half or more is counted as one, and a fraction of less than one-half is disregarded.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2987; amended Pub. L. 109–163, div. A, title V, §515(b)(1)(GG), (3)(I), Jan. 6, 2006, 119 Stat. 3233, 3234.)
 

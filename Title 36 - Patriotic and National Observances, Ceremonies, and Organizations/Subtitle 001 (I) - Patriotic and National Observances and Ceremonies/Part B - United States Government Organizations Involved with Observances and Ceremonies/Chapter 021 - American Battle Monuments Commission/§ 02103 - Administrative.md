@@ -52,7 +52,7 @@ Financial Statements and Audits.—(1) The Commission shall have a system of fin
 
 &emsp;(A) by March 1 of each year (beginning with 1998)—
 
-&emsp;&emsp;(i) prepare a financial statement which covers all accounts and associated activities of the Commission for the prior fiscal year and is consistent with the requirements of section 3515 of title 31; and
+&emsp;&emsp;(i) prepare a financial statement which covers all accounts and associated activitiesof the Commission for the prior fiscal year and is consistent with the requirements of section 3515 of title 31; and
 
 &emsp;&emsp;(ii) submit the financial statement, together with a narrative summary, to the Committees on Veterans’ Affairs of the Senate and House of Representatives; and
 
@@ -60,7 +60,7 @@ Financial Statements and Audits.—(1) The Commission shall have a system of fin
 
 (i)
 
-Disposition of Records and Archives.—When no longer required by the Commission, therecords and archives of the Commission shall be deposited with the National Archives in accordance with section 2107 of title 44.
+Disposition of Records and Archives.—When no longer required by the Commission, the records and archives of the Commission shall be deposited with the National Archives in accordance with section 2107 of title 44.
 
 (j)
 

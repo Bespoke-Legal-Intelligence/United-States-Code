@@ -50,7 +50,7 @@ Subsec. (c)(7). Pub. L. 88–279, §2(b), added par. (7).
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–279 effective upon appropriation and availability of funds to pay salaries andother expenses of the clerk's office, see section 4 of Pub. L. 88–279, set out as a note under section 671 of this title.
+Amendment by Pub. L. 88–279 effective upon appropriation and availability of funds to pay salaries and other expenses of the clerk's office, see section 4 of Pub. L. 88–279, set out as a note under section 671 of this title.
 
 #### Appropriations
 

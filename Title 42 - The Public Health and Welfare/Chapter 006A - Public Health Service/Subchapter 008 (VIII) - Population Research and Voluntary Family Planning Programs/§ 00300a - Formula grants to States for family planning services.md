@@ -14,7 +14,7 @@ For the purposes of this section, the term “State” includes the Commonwealth
 
 #### (d) Authorization of appropriations
 
-For the purpose of making grants under this section, there are authorized to be appropriated$10,000,000 for the fiscal year ending June 30, 1971; $15,000,000 for the fiscal year ending June 30, 1972; and $20,000,000 for the fiscal year ending June 30, 1973.
+For the purpose of making grants under this section, there are authorized to be appropriated $10,000,000 for the fiscal year ending June 30, 1971; $15,000,000 for the fiscal year ending June 30, 1972; and $20,000,000 for the fiscal year ending June 30, 1973.
 
 (July 1, 1944, ch. 373, title X, §1002, as added Pub. L. 91–572, §6(c), Dec. 24, 1970, 84 Stat. 1506; amended Pub. L. 94–484, title IX, §905(b)(1), Oct. 12, 1976, 90 Stat. 2325.)
 

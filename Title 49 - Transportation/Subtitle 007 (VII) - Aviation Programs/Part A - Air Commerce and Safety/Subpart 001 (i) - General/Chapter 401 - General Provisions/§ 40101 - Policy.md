@@ -2,7 +2,7 @@
 
 (a)
 
-Economic Regulation.—In carrying out subpart II of this part and those provisions of subpart IV applicable in carrying out subpart II, the Secretary of Transportation shall consider the following matters, among others, as being in the public interest and consistent with public convenience and necessity:
+Economic Regulation.—In carrying out subpart II of this part and those provisions of subpart IV applicable in carrying out subpart II,the Secretary of Transportation shall consider the following matters, among others, as being in the public interest and consistent with public convenience and necessity:
 
 &emsp;(1) assigning and maintaining safety as the highest priority in air commerce.
 
@@ -262,7 +262,7 @@ Pub. L. 110–113, §1, Nov. 8, 2007, 121 Stat. 1039, provided that: “This Act
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–297, §1, Aug. 9, 2004, 118 Stat. 1095, provided that: “This Act \[enacting section 44113 of thistitle, amending sections 44107 and 44108 of this title, and enacting provisions set out as notes under section 44101 of this title\] may be cited as ‘Cape Town Treaty Implementation Act of 2004’.”
+Pub. L. 108–297, §1, Aug. 9, 2004, 118 Stat. 1095, provided that: “This Act \[enacting section 44113 of this title, amending sections 44107 and 44108 of this title, and enacting provisions set out as notes under section 44101 of this title\] may be cited as ‘Cape Town Treaty Implementation Act of 2004’.”
 
 #### Short Title of 2003 Amendment
 
@@ -290,7 +290,7 @@ Pub. L. 106–6, §1, Mar. 31, 1999, 113 Stat. 10, provided that: “This Act \[
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–155, §1, Feb. 11, 1998, 112 Stat. 5, provided that: “This Act \[amending section 48102 of this title and enacting provisions set out as a note under section 48102 of this title\] may be cited as the ‘FAA Research, Engineering, and Development Authorization Act of 1998’.”
+Pub. L. 105–155, §1, Feb. 11, 1998, 112 Stat. 5, provided that: “This Act \[amending section 48102 of this title and enacting provisions set out as a note under section48102 of this title\] may be cited as the ‘FAA Research, Engineering, and Development Authorization Act of 1998’.”
 
 #### Short Title of 1997 Amendment
 
@@ -326,7 +326,7 @@ Pub. L. 110–113, §2, Nov. 8, 2007, 121 Stat. 1039, provided that: “Congress
 
 &emsp;“(1) The September 11th Victims Compensation Fund of 2001 \[title IV of Pub. L. 107–42\] (49 U.S.C. 40101 note) establishes a Federal cause of action in the United States District Court for the Southern District of New York as the exclusive remedy for damages arising out of the hijacking and subsequent crash of American Airlines flights 11 and 77, and United Airlines flights 93 and 175, on September 11, 2001.
 
-&emsp;“(2) Rules 45(b)(2) and 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure \[28 U.S.C. App.\] effectively limit service of a subpoena to any place within, or within 100 miles of, the district of the court by whichit is issued, unless a statute of the United States expressly provides that the court, upon proper application and cause shown, may authorize the service of a subpoena at any other place.
+&emsp;“(2) Rules 45(b)(2) and 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure \[28 U.S.C. App.\] effectively limit service of a subpoena to any place within, or within 100 miles of, the district of the court by which it is issued, unless a statute of the United States expressly provides that the court, upon proper application and cause shown, may authorize the service of a subpoena at any other place.
 
 &emsp;“(3) Litigating a Federal cause of action under the September 11 Victims Compensation Fund of 2001 is likely to involve the testimony and the production of other documents and tangible things by a substantial number of witnesses, many of whom may not reside, be employed, or regularly transact business in, or within 100 miles of, the Southern District of New York.”
 
@@ -556,7 +556,7 @@ General Aviation Entity Defined.—In this section, the term ‘general aviation
 
 &emsp;&emsp;“(A) is listed in the national plan of integrated airport systems developed by the Federal Aviation Administration under section 47103 of such title; or
 
-&emsp;&emsp;“(B) is normally open to the public, is located within the confines of enhanced class B airspace (as defined by the Federal Aviation Administration in Notice to Airmen FDC 1/0618), and was closed as a result of an order issued by the Federal Aviation Administration in the period beginning September 11, 2001, and ending January 1, 2002, and remained closed as a result of that order on January 1, 2002.
+&emsp;&emsp;“(B) is normally open to the public, is located within the confines of enhanced class B airspace (as defined by the Federal Aviation Administration in Notice to Airmen FDC 1/0618), and was closed as a result of an order issued by the Federal AviationAdministration in the period beginning September 11, 2001, and ending January 1, 2002, and remained closed as a result of that order on January 1, 2002.
 
 > Such term includes fixed based operators, flight schools, manufacturers of general aviation aircraft and products, persons engaged in nonscheduled aviation enterprises, and general aviation independent contractors.
 
@@ -642,7 +642,7 @@ Emergency Designation.—Congress designates the amount of new budget authority 
 
 “(a)
 
-Documentation.—Subject to subsection (b), the amount of compensation payable to an air carrier under section 101(a)(2) may not exceed the amount of losses described in section 101(a)(2) that the air carrier demonstrates to the satisfaction of the President, using sworn financial statements or other appropriate data, that the air carrier incurred. The Secretary of Transportation and the Comptroller General of the United States may audit such statements and may request any information that the Secretary and the Comptroller General deems necessary to conduct such audit.
+Documentation.—Subject to subsection (b), the amount of compensation payable to an air carrier under section 101(a)(2) may not exceed the amount oflosses described in section 101(a)(2) that the air carrier demonstrates to the satisfaction of the President, using sworn financial statements or other appropriate data, that the air carrier incurred. The Secretary of Transportation and the Comptroller General of the United States may audit such statements and may request any information that the Secretary and the Comptroller General deems necessary to conduct such audit.
 
 “(b)
 
@@ -716,7 +716,7 @@ Agreements.—In applying paragraph (1), the Secretary may require air carriers 
 
 “(a)
 
-Report.—Not later than February 1, 2002, the President shall transmit to the Committee on Transportation and Infrastructure, the Committee on Appropriations, and the Committee on the Budget of the House of Representatives and the Committee on Commerce, Science, and Transportation, the Committee on Appropriations, and the Committee on the Budget ofthe Senate a report on the financial status of the air carrier industry and the amounts of assistance provided under this title to each air carrier.
+Report.—Not later than February 1, 2002, the President shall transmit to the Committee on Transportation and Infrastructure, the Committee on Appropriations, and the Committee on the Budget of the House of Representatives and the Committee on Commerce, Science, and Transportation, the Committee on Appropriations, and the Committee on the Budget of the Senate a report on the financial status of the air carrier industry and the amounts of assistance provided under this title to each air carrier.
 
 “(b)
 
@@ -780,7 +780,7 @@ Extension of Due Date for Excise Tax Deposits.—
 
 &emsp;“(1)
 
-In general.—In the case of an eligible air carrier, any airline-related deposit required under section 6302 of the Internal Revenue Code of 1986 \[26 U.S.C. 6302\] to be made after September 10, 2001, and before November 15, 2001, shall be treated for purposes of such Code \[26 U.S.C. 1 et seq.\] as timely made if such deposit is made on or before November 15, 2001. If the Secretary of the Treasury so prescribes, the preceding sentence shall be applied by substituting for ‘November 15, 2001’ each place it appears—
+In general.—In the case of an eligible air carrier, any airline-related deposit required under section 6302 of the Internal Revenue Code of 1986 \[26 U.S.C. 6302\] to be made after September 10, 2001, andbefore November 15, 2001, shall be treated for purposes of such Code \[26 U.S.C. 1 et seq.\] as timely made if such deposit is made on or before November 15, 2001. If the Secretary of the Treasury so prescribes, the preceding sentence shall be applied by substituting for ‘November 15, 2001’ each place it appears—
 
 &emsp;&emsp;“(A) ‘January 15, 2002’; or
 
@@ -914,7 +914,7 @@ Review.—The Special Master shall review a claim submitted under subsection (a)
 
 &emsp;&emsp;&emsp;“(i) the extent of the harm to the claimant, including any economic and noneconomic losses; and
 
-&emsp;&emsp;&emsp;“(ii) the amount of compensation to which the claimant is entitled based on the harm to the claimant, the facts of the claim, and the individual circumstances of the claimant.
+&emsp;&emsp;&emsp;“(ii) the amount of compensation to which the claimant is entitled based on the harm to theclaimant, the facts of the claim, and the individual circumstances of the claimant.
 
 &emsp;“(2)
 
@@ -1004,7 +1004,7 @@ In general.—The Attorney General is authorized to accept such amounts as may b
 
 &emsp;“(2)
 
-Use of separate account.—In making payments under this section, amounts contained in anyaccount containing funds provided under paragraph (1) shall be used prior to using appropriated amounts.
+Use of separate account.—In making payments under this section, amounts contained in any account containing funds provided under paragraph (1) shall be used prior to using appropriated amounts.
 
 #### “SEC. 407. REGULATIONS.
 
@@ -1342,7 +1342,7 @@ Recommendations.—The aviation funding task force shall make such recommendatio
 
 &emsp;&emsp;&emsp;“(iii) modifications to existing levels of Airport and Airways Trust Fund receipts and taxes for each type of tax;
 
-&emsp;&emsp;&emsp;“(iv) establishment of a cost-based user fee system based on, but not limited to, criteria under subparagraph (F) and methods to ensure thatcosts are borne by users on a fair and equitable basis;
+&emsp;&emsp;&emsp;“(iv) establishment of a cost-based user fee system based on, but not limited to, criteria under subparagraph (F) and methods to ensure that costs are borne by users on a fair and equitable basis;
 
 &emsp;&emsp;&emsp;“(v) methods to ensure that funds collected from the aviation community are able to meet the needs of the agency;
 
@@ -1496,7 +1496,7 @@ Pub. L. 103–305, title III, §303, Aug. 23, 1994, 108 Stat. 1590, provided tha
 
 “(a)
 
-Establishment.—The Administrator \[of the Federal Aviation Administration\], in consultation with the heads of other appropriate Federal agencies, shall jointly establish a program to conduct research on aviation technologies that enhance United States competitiveness. The program shall include—
+Establishment.—The Administrator \[of the Federal Aviation Administration\], in consultation with the heads of other appropriate Federal agencies, shalljointly establish a program to conduct research on aviation technologies that enhance United States competitiveness. The program shall include—
 
 &emsp;“(1) next-generation satellite communications, including global positioning satellites;
 

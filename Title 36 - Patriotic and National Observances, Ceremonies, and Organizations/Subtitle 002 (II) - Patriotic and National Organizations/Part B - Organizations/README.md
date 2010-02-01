@@ -54,6 +54,7 @@ Part B—Organizations
 - [Chapter 1305 - Little League Baseball, Incorporated](Chapter%201305%20-%20Little%20League%20Baseball%2C%20Incorporated/README.md)
 - [Chapter 1401 - Marine Corps League](Chapter%201401%20-%20Marine%20Corps%20League/README.md)
 - [Chapter 1403 - The Military Chaplains Association of the United States of America](Chapter%201403%20-%20The%20Military%20Chaplains%20Association%20of%20the%20United%20States%20of%20America/README.md)
+- [Chapter 1404 - Military Officers Association of America](Chapter%201404%20-%20Military%20Officers%20Association%20of%20America/README.md)
 - [Chapter 1405 - Military Order of the Purple Heart of the United States of America, Incorporated](Chapter%201405%20-%20Military%20Order%20of%20the%20Purple%20Heart%20of%20the%20United%20States%20of%20America%2C%20Incorporated/README.md)
 - [Chapter 1407 - Military Order of the World Wars](Chapter%201407%20-%20Military%20Order%20of%20the%20World%20Wars/README.md)
 - [Chapter 1501 - National Academy of Public Administration](Chapter%201501%20-%20National%20Academy%20of%20Public%20Administration/README.md)

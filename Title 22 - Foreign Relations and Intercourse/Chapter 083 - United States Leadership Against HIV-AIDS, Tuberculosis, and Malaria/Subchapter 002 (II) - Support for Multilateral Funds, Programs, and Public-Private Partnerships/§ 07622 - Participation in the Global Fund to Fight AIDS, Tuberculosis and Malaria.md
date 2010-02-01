@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(C) the provision of sufficient resources and authority to the Office of the Inspector General for the Global Fund to ensure that office has the staff and independence necessary to carry out its mandate will be a measure of the commitment of the Global Fund to transparency and accountability;
 
-&emsp;&emsp;(D) regular, publicly published financial, programmatic, and reporting audits of theFund, its grantees, and Local Fund Agents are also important benchmarks of transparency;
+&emsp;&emsp;(D) regular, publicly published financial, programmatic, and reporting audits of the Fund, its grantees, and Local Fund Agents are also important benchmarks of transparency;
 
 &emsp;&emsp;(E) the Global Fund should establish and maintain a system to track—
 
@@ -190,7 +190,7 @@ Not later than 1 year after May 27, 2003, and annually thereafter for the durati
 
 &emsp;&emsp;(A) periodically reviewing all proposals received by the Global Fund; and
 
-&emsp;&emsp;(B) providing guidance to the United States persons who are representatives on the panels, committees, and boards of the Global Fund, on the technical efficacy, suitability, and appropriateness of the proposals, and ensuring that such persons are fully informed of technical inadequacies or other aspects of the proposals that are inconsistent with the purposes of this chapter or any other Act relating to the provision of foreign assistance in the area of AIDS.
+&emsp;&emsp;(B) providing guidance to the United States persons who are representatives onthe panels, committees, and boards of the Global Fund, on the technical efficacy, suitability, and appropriateness of the proposals, and ensuring that such persons are fully informed of technical inadequacies or other aspects of the proposals that are inconsistent with the purposes of this chapter or any other Act relating to the provision of foreign assistance in the area of AIDS.
 
 #### (3) Membership
 
@@ -276,7 +276,7 @@ Subsec. (d)(4)(B)(iv). Pub. L. 108–199, §595(2), added cl. (iv).
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title, and Memorandum of President of Feb. 23, 2004, 69 F.R. 9509, set out as a note under section 7611 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title, and Memorandum of President of Feb. 23, 2004, 69 F.R. 9509, set out as a note under section 7611 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

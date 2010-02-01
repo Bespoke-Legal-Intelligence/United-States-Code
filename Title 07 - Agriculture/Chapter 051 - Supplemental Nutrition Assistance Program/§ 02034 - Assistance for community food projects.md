@@ -262,7 +262,7 @@ In selecting community food projects to receive assistance under subsection (b) 
 
 &emsp;Not later than 90 days after May 13, 2002, and on October 1 of each fiscal year thereafter, the Secretary shall allocate to carry out this subsection $200,000 of the funds made available under subsection (b) of this section, to remain available until expended.
 
-(Pub. L. 88–525, §25, as added Pub. L. 104–127, title IV, §401(h), Apr. 4, 1996, 110 Stat. 1027; amended Pub. L. 107–171, title IV, §4125(a), May 13, 2002, 116 Stat. 326; Pub. L. 110–234, title IV, §§4402, 4406(a)(7), May 22, 2008, 122 Stat. 1135, 1141; Pub. L. 110–246, §4(a), title IV, §§4402, 4406(a)(7), June 18, 2008, 122 Stat. 1664, 1896, 1902; Pub. L. 110–380, §1(a), Oct. 8, 2008, 122 Stat. 4080.)
+(Pub. L. 88–525, §25, as added Pub. L. 104–127, title IV, §401(h), Apr. 4, 1996, 110 Stat. 1027;amended Pub. L. 107–171, title IV, §4125(a), May 13, 2002, 116 Stat. 326; Pub. L. 110–234, title IV, §§4402, 4406(a)(7), May 22, 2008, 122 Stat. 1135, 1141; Pub. L. 110–246, §4(a), title IV, §§4402, 4406(a)(7), June 18, 2008, 122 Stat. 1664, 1896, 1902; Pub. L. 110–380, §1(a), Oct. 8, 2008, 122 Stat. 4080.)
 
 #### Codification
 

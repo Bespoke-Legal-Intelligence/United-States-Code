@@ -12,7 +12,7 @@ Except as provided in subsection (b) of this section, cigarettes or smokeless to
 
 &emsp;&emsp;(B) any other pack, box, carton, or container of any kind in which those cigarettes or smokeless tobacco products are to be offered for sale or otherwise distributed to consumers;
 
-&emsp;(3) the manufacturer or importer of those cigarettes or smokeless tobacco products is in compliance with respect to those cigarettes or smokeless tobacco products being imported into the United States with a rotation plan approved by the Federal Trade Commission pursuant to section 1333(c) of title 15 or section 4402(d) of title 15, as the case may be;
+&emsp;(3) the manufacturer or importer of those cigarettes or smokeless tobacco products is in compliance with respect to those cigarettes or smokeless tobacco products being imported into the United States with a rotation plan approved by the Federal Trade Commission pursuant to section 1333(c) <sup>1</sup> of title 15 or section 4402(d) <sup>1</sup> of title 15, as the case may be;
 
 &emsp;(4) if such cigarettes or smokeless tobacco products bear a United States trademark registered for such cigarettes or smokeless tobacco products, the owner of such United States trademark registration for cigarettes or smokeless tobacco products (or a person authorized to act on behalf of such owner) has consented to the importation of such cigarettes or smokeless tobacco products into the United States; and
 
@@ -36,7 +36,7 @@ Cigarettes or smokeless tobacco products satisfying the conditions of any of the
 
 &emsp;&emsp;(A) for which the owner of such United States trademark registration for cigarettes or smokeless tobacco products (or a person authorized to act on behalf of such owner) has consented to the importation of such cigarettes or smokeless tobacco products into the United States; and
 
-&emsp;&emsp;(B) for which the importer submits a certificate signed by the manufacturer or export warehouse (or a person authorized by such manufacturer or export warehouse) to which such cigarettes or smokeless tobacco products are to be delivered (as provided insubparagraph (A)) stating, under penalties of perjury, with respect to those cigarettes or smokeless tobacco products, that it will not distribute those cigarettes or smokeless tobacco products into domestic commerce unless prior to such distribution all steps have been taken to comply with paragraphs (1), (2), and (3) of subsection (a) of this section, and, to the extent applicable, section 5754(a)(1)(B) and (C) of title 26.
+&emsp;&emsp;(B) for which the importer submits a certificate signed by the manufacturer or export warehouse (or a person authorized by such manufacturer or export warehouse) to which such cigarettes or smokeless tobacco products are to be delivered (as provided in subparagraph (A)) stating, under penalties of perjury, with respect to those cigarettes or smokeless tobacco products, that it will not distribute those cigarettes or smokeless tobacco products into domestic commerce unless prior to such distribution all steps have been taken to comply with paragraphs (1), (2), and (3) of subsection (a) of this section, and, to the extent applicable, section 5754(a)(1)(B) and (C) of title 26.
 
 > For purposes of this section, a trademark is registered in the United States if it is registered in the United States Patent and Trademark Office under the provisions of title I of the Act of July 5, 1946 \[15 U.S.C. 1051 et seq.\] (popularly known as the “Trademark Act of 1946”), and a copy of the certificate of registration of such mark has been filed with the Secretary. The Secretary shall make available to interested parties a current list of the marks so filed.
 
@@ -54,7 +54,7 @@ The certificates that must be submitted by the importer of cigarettes or smokele
 
 &emsp;&emsp;&emsp;(ii) any other pack, box, carton, or container of any kind in which those cigarettes or smokeless tobacco products are to be offered for sale or otherwise distributed to consumers; and
 
-&emsp;&emsp;(B) with respect to those cigarettes or smokeless tobacco products being imported into the United States, such importer has complied, and will continue to comply, with a rotation plan approved by the Federal Trade Commission pursuant to section 1333(c) of title 15 or section 4402(d) of title 15, as the case may be; and
+&emsp;&emsp;(B) with respect to those cigarettes or smokeless tobacco products being imported into the United States, such importer has complied, and will continue to comply, with a rotation plan approved by the Federal Trade Commission pursuant to section 1333(c) <sup>1</sup> of title 15 or section 4402(d) <sup>1</sup> of title 15, as the case may be; and
 
 &emsp;(3)(A) if such cigarettes or smokeless tobacco products bear a United States trademark registered for cigarettes or smokeless tobacco products, a certificate signed by the owner of such United States trademark registration for cigarettes or smokeless tobacco products (or a person authorized to act on behalf of such owner) stating under penalties of perjury that such owner (or authorized person) consents to the importation of such cigarettes or smokeless tobacco products into the United States; and
 
@@ -77,6 +77,12 @@ A State, through its Attorney General, shall be entitled to obtain copies of any
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(1), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 The Trademark Act of 1946, referred to in subsec. (b), is act July 5, 1946, ch. 540, 60 Stat. 427, as amended, also popularly known as the Lanham Act. Title I of the Act is classified generally to subchapter I (§1051 et seq.) of chapter 22 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
+
+Sections 1333 and 4402 of title 15, referred to in subsecs. (a)(3) and (c)(2)(B), were amended by Pub. L. 111–31, div. A, title II, §§201(a), 202(b), 204(a), 205(a), 206, June 22, 2009, 123 Stat. 1842, 1845, 1846, 1848, 1849, and, as so amended, sections 1333(c) and 4402(d) no longer relate to the Federal Trade Commission's approval of a rotation plan.
+
+#### Codification
+
+Another section 802 of act June 17, 1930, is classified to section 1683 of this title.
 
 #### Amendments
 
@@ -133,4 +139,6 @@ Subsec. (d). Pub. L. 109–432, §401(c), added subsec. (d).
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–432 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Dec. 20, 2006, see section 401(g) of Pub. L. 109–432, set out as a note under section 1681 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

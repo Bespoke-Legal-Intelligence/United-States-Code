@@ -2,7 +2,7 @@
 
 #### (a) Establishment of economic development and global marketing program
 
-The Secretary of Agriculture, acting through the Extension Service and the Cooperative Extension System, and in consultation with the Forest Service, shall establish and implement educational programs and provide technical assistance to assist businesses, industries, and policymakers to create jobs, raise incomes, and increase public revenues in manners consistent with environmental concerns.
+The Secretary of Agriculture, acting through the National Institute of Food and Agriculture and the Cooperative Extension System, and in consultation with the Forest Service, shall establish and implement educational programs and provide technical assistance to assist businesses, industries, and policymakers to create jobs, raise incomes, and increase public revenues in manners consistent with environmental concerns.
 
 #### (b) Activities
 
@@ -22,13 +22,13 @@ The Secretary of Agriculture shall establish specific programs under subsection 
 
 &emsp;(2) use Cooperative Extension System databases and analytical tools to help communities diversify their economic bases, add value locally to raw forest product materials, and retain revenues by helping to develop local businesses and industries to supply forest products locally; and
 
-&emsp;(3) use the full resources of the Cooperative Extension Service, including land-grant universities and county offices, to promote economic development that is sustainable and environmentally sound.
+&emsp;(3) use the full resources of the Cooperative Extension System, including land-grant universities and county offices, to promote economic development that is sustainable and environmentally sound.
 
 #### (d) Rural revitalization technologies
 
 #### (1) In general
 
-&emsp;The Secretary of Agriculture, acting through the Chief of the Forest Service, in consultation with the State and Private Forestry Technology Marketing Unit at the Forest Products Laboratory, and in collaboration with eligible institutions, may carry out a program—
+&emsp;The Secretary of Agriculture, acting through the Chief of the Forest Service, inconsultation with the State and Private Forestry Technology Marketing Unit at the Forest Products Laboratory, and in collaboration with eligible institutions, may carry out a program—
 
 &emsp;&emsp;(A) to accelerate adoption of technologies using biomass and small-diameter materials;
 
@@ -42,23 +42,23 @@ The Secretary of Agriculture shall establish specific programs under subsection 
 
 (Pub. L. 101–624, title XXIII, §2371, Nov. 28, 1990, 104 Stat. 4045; Pub. L. 108–148, title II, §202, Dec. 3, 2003, 117 Stat. 1902; Pub. L. 110–234, title VII, §7511(c)(25), title VIII, §8201, May 22, 2008, 122 Stat. 1269, 1290; Pub. L. 110–246, §4(a), title VII, §7511(c)(25), title VIII, §8201, June 18, 2008, 122 Stat. 1664, 2031, 2051.)
 
-#### Amendment of Subsections (a) and (c)(3)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2031, provided that, effective Oct. 1, 2009, subsection (a) of this section is amended by substituting “National Institute of Food and Agriculture” for “Extension Service” and subsection (c)(3) of this section is amended by substituting “System” for “Service”.</i>
-
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-2008—Subsec. (d)(2). Pub. L. 110–246, §8201, substituted “2008 through 2012” for “2004 through 2008”.
+2008—Subsec. (a). Pub. L. 110–246, §7511(c)(25)(A), substituted “National Institute of Food and Agriculture” for “Extension Service”.
+
+Subsec. (c)(3). Pub. L. 110–246, §7511(c)(25)(B), substituted “System” for “Service”.
+
+Subsec. (d)(2). Pub. L. 110–246, §8201, substituted “2008 through 2012” for “2004 through 2008”.
 
 2003—Subsec. (d). Pub. L. 108–148 added subsec. (d).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Amendment by section 7511(c)(25) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 

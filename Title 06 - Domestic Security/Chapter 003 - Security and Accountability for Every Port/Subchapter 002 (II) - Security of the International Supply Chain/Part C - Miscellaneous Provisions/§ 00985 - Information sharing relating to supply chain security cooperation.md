@@ -18,7 +18,7 @@ In developing the system under subsection (b), the Secretary shall consult with 
 
 #### (d) Independently obtained information
 
-Nothing in this section shall be construed to limit or otherwise affect the ability of a Federal, State, or local government entity, under applicable law, to obtain supply chain security information, including any information lawfully and properly disclosed generally or broadly to the public and to use such information in any manner permitted by law.
+Nothing in this section shall be construed to limit or otherwise affect the ability of a Federal, State, or local government entity, under applicable law, to obtain supply chain securityinformation, including any information lawfully and properly disclosed generally or broadly to the public and to use such information in any manner permitted by law.
 
 #### (e) Authority to issue warnings
 

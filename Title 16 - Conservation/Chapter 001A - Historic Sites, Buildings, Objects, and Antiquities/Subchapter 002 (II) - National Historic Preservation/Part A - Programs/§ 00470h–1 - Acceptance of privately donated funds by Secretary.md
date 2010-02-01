@@ -10,7 +10,7 @@ In expending said funds, the Secretary shall give due consideration to the follo
 
 #### (c) Transfer of unobligated funds
 
-The Secretary is hereby authorized to transfer unobligated funds previously donated to theSecretary for the purposes of the National Park Service, with the consent of the donor, and any funds so transferred shall be used or expended in accordance with the provisions of this subchapter.
+The Secretary is hereby authorized to transfer unobligated funds previously donated to the Secretary for the purposes of the National Park Service, with the consent of the donor, and any funds so transferred shall be used or expended in accordance with the provisions of this subchapter.
 
 (Pub. L. 89–665, title I, §109, as added Pub. L. 96–244, §1, May 19, 1980, 94 Stat. 346.)
 

@@ -20,7 +20,7 @@
 
 &emsp;(B) a water quality standard submitted by such State under subsection (a) of this section is determined by the Administrator not to be consistent with the applicable requirements of subsection (a) of this section.
 
-(2) The Administrator shall promulgate any water quality standard published in a proposedregulation not later than one hundred and ninety days after the date he publishes any such proposed standard, unless prior to such promulgation, such State has adopted a water quality standard which the Administrator determines to be in accordance with subsection (a) of this section.
+(2) The Administrator shall promulgate any water quality standard published in a proposed regulation not later than one hundred and ninety days after the date he publishes any such proposed standard, unless prior to such promulgation, such State has adopted a water quality standard which the Administrator determines to be in accordance with subsection (a) of this section.
 
 #### (c) Review; revised standards; publication
 
@@ -44,7 +44,7 @@
 
 (1)(A) Each State shall identify those waters within its boundaries for which the effluent limitations required by section 1311(b)(1)(A) and section 1311(b)(1)(B) of this title are not stringent enough to implement any water quality standard applicable to such waters. The State shall establish a priority ranking for such waters, taking into account the severity of the pollution and the uses to be made of such waters.
 
-(B) Each State shall identify those waters or parts thereof within its boundaries for which controls on thermal discharges under section 1311 of this title are not stringent enough to assure protection and propagation of a balanced indigenous population of shellfish, fish, and wildlife.
+(B) Each State shall identify those waters or parts thereof within its boundaries for whichcontrols on thermal discharges under section 1311 of this title are not stringent enough to assure protection and propagation of a balanced indigenous population of shellfish, fish, and wildlife.
 
 (C) Each State shall establish for the waters identified in paragraph (1)(A) of this subsection, and in accordance with the priority ranking, the total maximum daily load, for those pollutants which the Administrator identifies under section 1314(a)(2) of this title as suitable for such calculation. Such load shall be established at a level necessary to implement the applicable water quality standards with seasonal variations and a margin of safety which takes into account any lack of knowledge concerning the relationship between effluent limitations and water quality.
 

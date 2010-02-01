@@ -10,7 +10,7 @@ For purposes of this part, except as provided in subsection (b), the term “tax
 
 #### (b) Exclusion of certain travel
 
-For purposes of this part, the term “taxable transportation” does not include that portion of any transportation by air which meets all 4 of the following requirements:
+For purposes of this part, the term “taxable transportation” does not include that portion ofany transportation by air which meets all 4 of the following requirements:
 
 &emsp;(1) such portion is outside the United States;
 

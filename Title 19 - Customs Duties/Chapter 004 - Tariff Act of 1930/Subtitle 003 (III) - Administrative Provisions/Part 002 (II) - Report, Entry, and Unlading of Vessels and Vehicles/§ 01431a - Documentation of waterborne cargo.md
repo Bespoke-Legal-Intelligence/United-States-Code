@@ -40,7 +40,7 @@ This section shall apply to all cargo to be exported that is moved by a vessel c
 
 #### (4) Multiple containers
 
-&emsp;If a single shipment is comprised of multiple containers, the 48-hour period described in paragraph (1) shall begin to run from the time the last container of the shipment is delivered to the marine terminal operator. It shall be the responsibility of the person tendering the cargo to inform the carrier that the shipment consists of multiple containers that will be delivered to the marine terminal operator at different times as part of a single shipment.
+&emsp;If a single shipment is comprised of multiple containers, the 48-hour period described in paragraph (1) shall begin to run from the timethe last container of the shipment is delivered to the marine terminal operator. It shall be the responsibility of the person tendering the cargo to inform the carrier that the shipment consists of multiple containers that will be delivered to the marine terminal operator at different times as part of a single shipment.
 
 #### (e) Assessment of penalties
 

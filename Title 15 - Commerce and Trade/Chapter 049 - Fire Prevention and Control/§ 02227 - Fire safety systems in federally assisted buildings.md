@@ -64,7 +64,7 @@ For purposes of this section, the following definitions apply:
 
 (3) No Federal funds may be used for the renovation of a Federal employee office building of 6 or more stories that is owned by the Federal Government unless after that renovation the Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the renovation of any other Federal employee office building that is owned by the Federal Government unless after that renovation the hazardous areas of the Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
 
-(4) No Federal funds may be used for entering into or renewing a lease of a Federal employee office building of 6 or more stories that is renovated after October 26, 1992, where at least some portion of the federally leased space is on the sixth floor or above and at least 35,000 square feet of space is federally occupied, unless after that renovation the Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for entering into or renewing a lease of any other Federal employee office building that is renovated after October 26, 1992, unless after that renovation the hazardous areas of the Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
+(4) No Federal funds may be used for entering into or renewing a lease of a Federal employee office building of 6 or more stories that is renovated after October 26, 1992, where at least some portion of the federally leased space is on the sixth floor or above and at least 35,000 square feet of space is federally occupied, unless after that renovation the Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. NoFederal funds may be used for entering into or renewing a lease of any other Federal employee office building that is renovated after October 26, 1992, unless after that renovation the hazardous areas of the Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
 
 #### (c) Housing
 
@@ -118,7 +118,7 @@ Nothing in this section shall be construed to limit the power of any State or po
 
 #### (f) Prefire plan
 
-The head of any Federal agency that owns, leases, or operates a building or housing unit with Federal funds shall invite the local agency or voluntary organization having responsibility for fire protection in the jurisdiction where the building or housing unit is located to prepare, and biennially review, a prefire plan for the building or housing unit.
+The head of any Federal agency that owns, leases, or operates a building or housing unitwith Federal funds shall invite the local agency or voluntary organization having responsibility for fire protection in the jurisdiction where the building or housing unit is located to prepare, and biennially review, a prefire plan for the building or housing unit.
 
 #### (g) Reports to Congress
 

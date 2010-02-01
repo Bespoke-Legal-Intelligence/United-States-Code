@@ -16,13 +16,13 @@
 
 #### (B) Banking business of United States branch of foreign corporation
 
-&emsp;&emsp;The term “bank” also includes any corporation to which subparagraph (A) wouldapply except for the fact that it is a foreign corporation. In the case of any such foreign corporation, this section shall apply only with respect to loans outstanding the interest on which is effectively connected with the conduct of a banking business within the United States.
+&emsp;&emsp;The term “bank” also includes any corporation to which subparagraph (A) would apply except for the fact that it is a foreign corporation. In the case of any such foreign corporation, this section shall apply only with respect to loans outstanding the interest on which is effectively connected with the conduct of a banking business within the United States.
 
 #### (b) Addition to reserves for bad debts
 
 #### (1) General rule
 
-&emsp;For purposes of subsection (a), the reasonable addition to the reserve for bad debts of any financial institution to which this section applies shall be an amount determined by the taxpayer which shall not exceed the addition to the reserve for losses on loans determined under the experience method as provided in paragraph (2).
+&emsp;For purposes of subsection (a), the reasonable addition to the reserve for bad debts ofany financial institution to which this section applies shall be an amount determined by the taxpayer which shall not exceed the addition to the reserve for losses on loans determined under the experience method as provided in paragraph (2).
 
 #### (2) Experience method
 
@@ -98,7 +98,7 @@
 
 #### (iii) Financially troubled bank
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “financially troubled bank” means any bankif, for the taxable year, the nonperforming loan percentage of such bank exceeds 75 percent.
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “financially troubled bank” means any bank if, for the taxable year, the nonperforming loan percentage of such bank exceeds 75 percent.
 
 #### (iv) Nonperforming loan percentage
 

@@ -4,7 +4,7 @@ It is unlawful for any person who is a United States citizen or national, or a f
 
 &emsp;(1) to violate any provision of this chapter; or any rule, regulation, or order issued pursuant to this chapter; or any term or condition of any license issued to such person pursuant to this chapter;
 
-&emsp;(2) to refuse to permit any Federal officer or employee authorized to monitor or enforce the provisions of sections 9120 and 9153 of this title to enter or board an ocean thermal energy conversion facility or plantship or any vessel documented or numbered under the laws of the United States, for purposes of conducting any search or inspection in connection with the monitoring or enforcement of this chapter or any rule, regulation, order, term, or condition referred to in paragraph (1) of this section;
+&emsp;(2) to refuse to permit any Federal officer or employee authorized to monitor or enforce theprovisions of sections 9120 and 9153 of this title to enter or board an ocean thermal energy conversion facility or plantship or any vessel documented or numbered under the laws of the United States, for purposes of conducting any search or inspection in connection with the monitoring or enforcement of this chapter or any rule, regulation, order, term, or condition referred to in paragraph (1) of this section;
 
 &emsp;(3) to forcibly assault, resist, oppose, impede, intimidate, or interfere with any such authorized officer or employee in the conduct of any search or inspection described in paragraph (2) of this section;
 

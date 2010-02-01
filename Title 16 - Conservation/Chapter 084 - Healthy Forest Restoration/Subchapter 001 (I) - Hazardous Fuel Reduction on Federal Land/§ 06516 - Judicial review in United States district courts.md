@@ -26,7 +26,7 @@ In the judicial review of an action challenging an authorized hazardous fuel red
 
 #### (3) Balancing of short- and long-term effects
 
-&emsp;As part of its weighing the equities while considering any request for an injunction that applies to an agency action under an authorized hazardous fuel reduction project, the court reviewing the project shall balance the impact to the ecosystem likely affected by the project of—
+&emsp;As part of its weighing the equities while considering any request for an injunction that applies to an agency action under an authorized hazardous fuel reduction project, thecourt reviewing the project shall balance the impact to the ecosystem likely affected by the project of—
 
 &emsp;&emsp;(A) the short- and long-term effects of undertaking the agency action; against
 

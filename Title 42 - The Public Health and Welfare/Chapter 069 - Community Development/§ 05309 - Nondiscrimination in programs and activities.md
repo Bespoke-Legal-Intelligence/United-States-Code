@@ -10,7 +10,7 @@ Whenever the Secretary determines that a State or unit of general local governme
 
 #### (c) Civil action by Attorney General
 
-When a matter is referred to the Attorney General pursuant to subsection (b) of this section, or whenever he has reason to believe that a State government or unit of general local government is engaged in a pattern or practice in violation of the provisions of this section, the Attorney General may bring a civil action in any appropriate United States district court for such relief as may be appropriate, including injunctive relief.
+When a matter is referred to the Attorney General pursuant to subsection (b) of this section, or whenever he has reason to believe that a State government or unit of general local government is engaged in a pattern or practice in violation of the provisions of this section, the Attorney General may bring a civil action in any appropriate United States district court forsuch relief as may be appropriate, including injunctive relief.
 
 #### (d) Waiver of race discrimination prohibitions regarding assistance to Hawaiian Home Lands
 

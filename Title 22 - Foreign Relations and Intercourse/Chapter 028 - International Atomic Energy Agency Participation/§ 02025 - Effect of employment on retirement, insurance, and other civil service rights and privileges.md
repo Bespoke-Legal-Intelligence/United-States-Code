@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, Executive order or regulation, a Fed
 
 #### (b) Presidential appointees or elected officers
 
-Notwithstanding any other provision of law, Executive order or regulation, any Presidentialappointee or elected officer who leaves his position to enter, or who within ninety days after the termination of his position enters, the employ of the Agency, shall be entitled to the coverage and benefits of subchapter III of chapter 83 of title 5, and chapter 87 of title 5, but not beyond the earlier of either the termination of his employment with the Agency or the expiration of three years from the date he entered employment with the Agency: <i>Provided</i>, (1) That he shall pay to the Director of the Office of Personnel Management within ninety days from the date he is separated without prejudice from the Agency all necessary deductions and agency contributions for coverage under subchapter III of chapter 83 of title 5 for the period of his employment by the Agency, and (2) That all deductions and agency contributions necessary for continued coverage under chapter 87 of title 5, shall be made during the term of his employment with the Agency.
+Notwithstanding any other provision of law, Executive order or regulation, any Presidential appointee or elected officer who leaves his position to enter, or who within ninety days after the termination of his position enters, the employ of the Agency, shall be entitled to the coverage and benefits of subchapter III of chapter 83 of title 5, and chapter 87 of title 5, but not beyond the earlier of either the termination of his employment with the Agency or the expiration of three years from the date he entered employment with the Agency: <i>Provided</i>, (1) That he shall pay to the Director of the Office of Personnel Management within ninety days from the date he is separated without prejudice from the Agency all necessary deductions and agency contributions for coverage under subchapter III of chapter 83 of title 5 for the period of his employment by the Agency, and (2) That all deductions and agency contributions necessary for continued coverage under chapter 87 of title 5, shall be made during the term of his employment with the Agency.
 
 #### (c) Regulations
 
@@ -22,7 +22,7 @@ The President is authorized to prescribe such regulations as may be necessary to
 
 #### Codification
 
-In subsecs. (a) and (b), “subchapter III of chapter 83 of title 5” substituted for “the Civil Service Retirement Act, as amended” and “the Civil Service Retirement Act” in each subsection and “chapter 87 of title 5” substituted for “the Federal Employees’ Group Life Insurance Act of 1954, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsecs. (a) and (b), “subchapter III of chapter 83 of title 5” substituted for “the Civil Service Retirement Act, as amended” and “the Civil Service Retirement Act” in each subsection and “chapter 87 of title 5” substituted for “the Federal Employees’ Group Life Insurance Act of 1954, as amended” on authority ofPub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Transfer of Functions
 

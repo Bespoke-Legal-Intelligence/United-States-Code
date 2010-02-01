@@ -198,7 +198,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Par. (4). Pub. L. 110–246, §7101(a)(1), inserted par. heading, designated existing provisions as subpar. (A),inserted subpar. heading, redesignated former subpars. (A) to (E) as cls. (i) to (v), respectively, of subpar. (A), and added subpar. (B).
+2008—Par. (4). Pub. L. 110–246, §7101(a)(1), inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, redesignated former subpars. (A) to (E) as cls. (i) to (v), respectively, of subpar. (A), and added subpar. (B).
 
 Pars. (5) to (8). Pub. L. 110–246, §7101(a)(2), designated pars. (16) and (5) to (7) as (5) to (8), respectively. Former par. (8) redesignated (9).
 

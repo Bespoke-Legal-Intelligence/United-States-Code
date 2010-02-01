@@ -2,7 +2,7 @@
 
 #### (a) Authority to seek injunction
 
-A civil action in the name of the United States to enjoin any person who is a tax returnpreparer from further engaging in any conduct described in subsection (b) or from further action as a tax return preparer may be commenced at the request of the Secretary. Any action under this section shall be brought in the District Court of the United States for the district in which the tax return preparer resides or has his principal place of business or in which the taxpayer with respect to whose tax return the action is brought resides. The court may exercise its jurisdiction over such action (as provided in section 7402(a)) separate and apart from any other action brought by the United States against such tax return preparer or any taxpayer.
+A civil action in the name of the United States to enjoin any person who is a tax return preparer from further engaging in any conduct described in subsection (b) or from further action as a tax return preparer may be commenced at the request of the Secretary. Any action under this section shall be brought in the District Court of the United States for the district in which the tax return preparer resides or has his principal place of business or in which the taxpayer with respect to whose tax return the action is brought resides. The court may exercise its jurisdiction over such action (as provided in section 7402(a)) separate and apart from any other action brought by the United States against such tax return preparer or any taxpayer.
 
 #### (b) Adjudication and decrees
 
@@ -12,7 +12,7 @@ In any action under subsection (a), if the court finds—
 
 &emsp;&emsp;(A) engaged in any conduct subject to penalty under section 6694 or 6695, or subject to any criminal penalty provided by this title,
 
-&emsp;&emsp;(B) misrepresented his eligibility to practice before the Internal Revenue Service, or otherwise misrepresented his experience or education as a tax return preparer,
+&emsp;&emsp;(B) misrepresented his eligibility to practice before the Internal Revenue Service, orotherwise misrepresented his experience or education as a tax return preparer,
 
 &emsp;&emsp;(C) guaranteed the payment of any tax refund or the allowance of any tax credit, or
 

@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title13",
- "package": "USCODE-2008-title13",
+ "package": "USCODE-2009-title13",
  "pieces": [
   {
    "id": "13_",
@@ -114,10 +114,14 @@
    "id": "13_6",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 5]",
-     true
+     "I",
+     14,
+     [
+      [
+       434,
+       "[Page 5]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Administration/Subchapter 001 (I) - General Provisions/§ 00006 - Information from other Federal departments and agencies; acquisition of reports from other governmental and private sources.md",
@@ -140,7 +144,7 @@
    "marks": [
     [
      "L",
-     26,
+     20,
      "[Page 6]",
      true
     ]
@@ -155,14 +159,10 @@
    "id": "13_9",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       223,
-       "[Page 7]"
-      ]
-     ]
+     "L",
+     32,
+     "[Page 7]",
+     true
     ]
    ],
    "path": "Chapter 001 - Administration/Subchapter 001 (I) - General Provisions/§ 00009 - Information as confidential; exception.md",
@@ -221,7 +221,7 @@
    "marks": [
     [
      "L",
-     10,
+     6,
      "[Page 8]",
      true
     ]
@@ -264,7 +264,7 @@
    "marks": [
     [
      "L",
-     12,
+     6,
      "[Page 9]",
      true
     ]
@@ -279,10 +279,14 @@
    "id": "13_23",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 10]",
-     true
+     "I",
+     32,
+     [
+      [
+       116,
+       "[Page 10]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Administration/Subchapter 002 (II) - Officers and Employees/§ 00023 - Additional officers and employees.md",
@@ -299,7 +303,7 @@
      2,
      [
       [
-       466,
+       133,
        "[Page 11]"
       ]
      ]
@@ -309,7 +313,7 @@
      48,
      [
       [
-       587,
+       155,
        "[Page 12]"
       ]
      ]
@@ -362,7 +366,7 @@
    "marks": [
     [
      "L",
-     22,
+     14,
      "[Page 13]",
      true
     ]
@@ -404,14 +408,10 @@
    "id": "13_45",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       106,
-       "[Page 14]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 14]",
+     true
     ]
    ],
    "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 001 (I) - Cotton/§ 00045 - Simultaneous publication of cotton reports.md",
@@ -476,40 +476,33 @@
   },
   {
    "id": "13_-ch3-scIV",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 15]",
+     true
+    ]
+   ],
    "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 004 (IV) - Quarterly Financial Statistics/README.md",
    "printed_pages": [
     14,
-    14
+    15
    ]
   },
   {
    "id": "13_91",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       135,
-       "[Page 15]"
-      ]
-     ]
-    ],
-    [
-     "I",
+     "L",
      88,
-     [
-      [
-       323,
-       "[Page 16]"
-      ]
-     ]
+     "[Page 16]",
+     true
     ]
    ],
    "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 004 (IV) - Quarterly Financial Statistics/§ 00091 - Collection and publication.md",
    "printed_pages": [
-    14,
+    15,
     16
    ]
   },
@@ -544,14 +537,10 @@
    "id": "13_103",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       120,
-       "[Page 17]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 17]",
+     true
     ]
    ],
    "path": "Chapter 003 - Collection and Publication of Statistics/Subchapter 005 (V) - Miscellaneous/§ 00103 - Designation of reports.md",
@@ -586,7 +575,7 @@
      12,
      [
       [
-       539,
+       104,
        "[Page 18]"
       ]
      ]
@@ -620,30 +609,34 @@
    "id": "13_141",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 19]",
-     true
+     "I",
+     6,
+     [
+      [
+       1573,
+       "[Page 19]"
+      ]
+     ]
     ],
     [
      "L",
-     72,
+     68,
      "[Page 20]",
      true
     ],
     [
      "I",
-     132,
+     130,
      [
       [
-       107,
+       105,
        "[Page 21]"
       ]
      ]
     ],
     [
      "L",
-     206,
+     204,
      "[Page 22]",
      true
     ],
@@ -652,7 +645,7 @@
      298,
      [
       [
-       491,
+       274,
        "[Page 23]"
       ]
      ]
@@ -731,14 +724,10 @@
    "id": "13_181",
    "marks": [
     [
-     "I",
+     "L",
      4,
-     [
-      [
-       237,
-       "[Page 24]"
-      ]
-     ]
+     "[Page 24]",
+     true
     ]
    ],
    "path": "Chapter 005 - Censuses/Subchapter 004 (IV) - Interim Current Data/§ 00181 - Population.md",
@@ -791,7 +780,7 @@
      24,
      [
       [
-       338,
+       111,
        "[Page 25]"
       ]
      ]
@@ -852,14 +841,10 @@
    "id": "13_211",
    "marks": [
     [
-     "I",
+     "L",
      16,
-     [
-      [
-       110,
-       "[Page 26]"
-      ]
-     ]
+     "[Page 26]",
+     true
     ]
    ],
    "path": "Chapter 007 - Offenses and Penalties/Subchapter 001 (I) - Officers and Employees/§ 00211 - Receiving or securing compensation for appointment of employees.md",
@@ -885,7 +870,7 @@
      22,
      [
       [
-       165,
+       110,
        "[Page 27]"
       ]
      ]
@@ -919,10 +904,14 @@
    "id": "13_221",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 28]",
-     true
+     "I",
+     16,
+     [
+      [
+       432,
+       "[Page 28]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 007 - Offenses and Penalties/Subchapter 002 (II) - Other Persons/§ 00221 - Refusal or neglect to answer questions; false answers.md",
@@ -944,14 +933,10 @@
    "id": "13_223",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       114,
-       "[Page 29]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 29]",
+     true
     ]
    ],
    "path": "Chapter 007 - Offenses and Penalties/Subchapter 002 (II) - Other Persons/§ 00223 - Refusal, by owners, proprietors, etc., to assist census employees.md",
@@ -964,10 +949,14 @@
    "id": "13_224",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 30]",
-     true
+     "I",
+     12,
+     [
+      [
+       671,
+       "[Page 30]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 007 - Offenses and Penalties/Subchapter 002 (II) - Other Persons/§ 00224 - Failure to answer questions affecting companies, businesses, religious bodies, and other organizations; false answers.md",
@@ -981,10 +970,10 @@
    "marks": [
     [
      "I",
-     22,
+     20,
      [
       [
-       219,
+       356,
        "[Page 31]"
       ]
      ]
@@ -1031,24 +1020,20 @@
      2,
      [
       [
-       651,
+       371,
        "[Page 32]"
       ]
      ]
     ],
     [
-     "I",
-     60,
-     [
-      [
-       208,
-       "[Page 33]"
-      ]
-     ]
+     "L",
+     58,
+     "[Page 33]",
+     true
     ],
     [
      "L",
-     140,
+     136,
      "[Page 34]",
      true
     ]
@@ -1082,10 +1067,10 @@
    "marks": [
     [
      "I",
-     4,
+     2,
      [
       [
-       188,
+       1178,
        "[Page 35]"
       ]
      ]
@@ -1101,10 +1086,14 @@
    "id": "13_305",
    "marks": [
     [
-     "L",
-     68,
-     "[Page 36]",
-     true
+     "I",
+     66,
+     [
+      [
+       78,
+       "[Page 36]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Collection and Publication of Foreign Commerce and Trade Statistics/§ 00305 - Penalties for unlawful export information activities.md",
@@ -1151,14 +1140,25 @@
   },
   {
    "id": "13_402",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       278,
+       "[Page 37]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 010 - Exchange of Census Information/§ 00402 - Providing business data to Designated Statistical Agencies.md",
    "printed_pages": [
     36,
-    36
+    37
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2008-title13 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2009-title13 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 13 - Census"
 }

@@ -6,7 +6,7 @@
 
 &emsp;(2) require each agency to establish and maintain an agency information locator service as a component of, and to support the establishment and operation of the Service;
 
-&emsp;(3) in cooperation with the Archivist of the United States, the Administrator of General Services, the Public Printer, and the Librarian of Congress, establish an interagency committee to advise the Secretary of Commerce on the development of technical standards for the Service to ensure compatibility, promote information sharing, and uniform access by the public;
+&emsp;(3) in cooperation with the Archivist of the United States, the Administrator of General Services, the Public Printer, and the Librarian of Congress, establish an interagency committee to advise the Secretary of Commerce onthe development of technical standards for the Service to ensure compatibility, promote information sharing, and uniform access by the public;
 
 &emsp;(4) consider public access and other user needs in the establishment and operation of the Service;
 
@@ -24,7 +24,7 @@ The Central Intelligence Agency Information Act, referred to in subsec. (b), is 
 
 #### Prior Provisions
 
-A prior section 3511, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2822; amended Pub. L. 99–500, §101(m)\[title VIII, §818\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–339, and Pub. L. 99–591, §101(m) \[title VIII, §818\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–339, related to establishment and operation of a Federal Information Locator System prior to the general amendment of this chapter by Pub. L. 104–13.
+A prior section 3511, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2822; amended Pub. L. 99–500, §101(m) \[title VIII, §818\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–339, and Pub. L. 99–591, §101(m) \[title VIII, §818\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–339, related to establishment and operation of a Federal Information Locator System prior to the general amendment of this chapter by Pub. L. 104–13.
 
 Another prior section 3511, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1305, provided for penalty for failure to furnish information, prior to the general amendment of this chapter by Pub. L. 96–511.
 

@@ -44,7 +44,7 @@
 
 #### (C) Exception
 
-&emsp;&emsp;Nothing in this section affects the availability of payment information (including payment amounts and the names and addresses of recipients of payments) under section 552 of title 5.
+&emsp;&emsp;Nothing in this section affects the availability of payment information (includingpayment amounts and the names and addresses of recipients of payments) under section 552 of title 5.
 
 #### (2) Exceptions
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;(A) affects any procedure for data collection or disclosure through the National Resources Inventory; or
 
-&emsp;&emsp;(B) limits the authority of Congress or the Government Accountability Office to reviewinformation collected or disclosed under this subsection.
+&emsp;&emsp;(B) limits the authority of Congress or the Government Accountability Office to review information collected or disclosed under this subsection.
 
 #### (c) Plans
 
@@ -140,7 +140,7 @@ In the preparation and application of a conservation compliance plan under subch
 
 #### (3) Waiver to exclude certain acreage
 
-&emsp;The Secretary may grant a waiver to exclude acreage enrolled under subsection (c)(2)(B) or (f)(4) of section 3834 of this title from the limitations in paragraph (1)(A) with the concurrence of the county government of the county involved.
+&emsp;The Secretary may grant a waiver to exclude acreage enrolled under subsection\(c)(2)(B) or (f)(4) of section 3834 of this title from the limitations in paragraph (1)(A) with the concurrence of the county government of the county involved.
 
 #### (4) Shelterbelts and windbreaks
 

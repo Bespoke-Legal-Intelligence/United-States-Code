@@ -22,7 +22,7 @@ A unique partnership arrangement exists in food and agricultural research, exten
 
 &emsp;&emsp;(B) the Act of August 30, 1890 (7 U.S.C. 321 et seq.), commonly known as the Second Morrill Act; and
 
-&emsp;&emsp;(C) the Act of June 29, 1935 (7 U.S.C. 329, commonly known as the Bankhead-Jones Act; and
+&emsp;&emsp;(C) the Act of June 29, 1935 (7 U.S.C. 329), commonly known as the Bankhead-Jones Act; and
 
 &emsp;(4) international agricultural programs under title XII of the Foreign Assistance Act of 1961 (22 U.S.C. 2220a et seq.).
 
@@ -86,6 +86,8 @@ Act of July 2, 1862, referred to in subsec. (a)(3)(A), is act July 2, 1862, ch. 
 
 Act of August 30, 1890, referred to in subsec. (a)(3)(B), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
+Act of June 29, 1935, referred to in subsec. (a)(3)(C), is act June 29, 1935, ch. 338, 49 Stat. 436, popularly known as the Bankhead-Jones Act and as the Agricultural Research Act, which was classified principally to sections 329 and 427 to 427j of this title, and was repealed by act Aug. 11, 1966, ch. 790, §2, 69 Stat. 674, except for sections 1, 10, and 22 of the Act, which are classified to sections 427, 427i, and 329, respectively, of this title. For complete classification of this Act to the Code, see Short Title note under section 427 of this title and Tables.
+
 The Foreign Assistance Act of 1961, referred to in subsec. (a)(4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Title XII of the Foreign Assistance Act of 1961 probably means title XII of chapter 2 of part I of the Act, which is classified generally to subpart XII (§2220a et seq.) of part II of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (e)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -96,7 +98,7 @@ Title XVIII of this Act, referred to in subsec. (e)(2), is title XVIII of the Fo
 
 1996—Subsec. (e). Pub. L. 104–127 added subsec. (e).
 
-1990—Subsecs. (c) to (e). Pub. L. 101–624 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which read as follows: “In order to meet the increasing needs of consumers and to promote the health and welfare of people, the Secretary shall ensure that the cooperative research, extension, and teaching programs of the various Statesadequately address the challenges described in paragraph (10) of section 3101 of this title. The Secretary may implement new cooperative initiatives in home economics and related disciplines to address such challenges.”
+1990—Subsecs. (c) to (e). Pub. L. 101–624 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which read as follows: “In order to meet the increasing needs of consumers and to promote the health and welfare of people, the Secretary shall ensure that the cooperative research, extension, and teaching programs of the various States adequately address the challenges described in paragraph (10) of section 3101 of this title. The Secretary may implement new cooperative initiatives in home economics and related disciplines to address such challenges.”
 
 1985—Subsec. (a)(4). Pub. L. 99–198, §1407(a), added par. (4).
 

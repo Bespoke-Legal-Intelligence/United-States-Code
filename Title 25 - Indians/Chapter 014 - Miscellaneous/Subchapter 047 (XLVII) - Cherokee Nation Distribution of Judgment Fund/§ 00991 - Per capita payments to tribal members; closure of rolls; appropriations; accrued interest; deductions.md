@@ -8,7 +8,7 @@ The Secretary of the Interior is authorized and directed to distribute per capit
 
 Act of April 26, 1906, referred to in text, is act Apr. 26, 1906, ch. 1876, 34 Stat. 137, which is set out as a note under section 355 of this title.
 
-Act of September 30, 1961, referred to in text, is act Sept. 30, 1961, Pub. L. 87–322, 75 Stat. 733. That portionof the act which appropriated the funds referred to was not classified to the Code.
+Act of September 30, 1961, referred to in text, is act Sept. 30, 1961, Pub. L. 87–322, 75 Stat. 733. That portion of the act which appropriated the funds referred to was not classified to the Code.
 
 The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
 

@@ -8,7 +8,7 @@
 
 #### (2) Advance notice
 
-&emsp;The Secretary shall, to the extent practicable, provide broad public notice in advance of any referendum. The notice shall be provided, without advertising expenses, by means of newspapers, county newsletters, the electronic media, and press releases, through the use of notices posted in State and county Cooperative State Research, Education, and Extension Service offices and county Consolidated Farm Service Agency offices, and by other appropriate means specified in the order. The notice shall contain information on when the referendum will be held, registration and voting requirements, rules regarding absentee voting, and other pertinent information.
+&emsp;The Secretary shall, to the extent practicable, provide broad public notice in advance of any referendum. The notice shall be provided, without advertising expenses, by means of newspapers, county newsletters, the electronic media, and press releases, through the use of notices posted in State and county cooperative extension offices and county Consolidated Farm Service Agency offices, and by other appropriate means specified in the order. The notice shall contain information on when the referendum will be held, registration and voting requirements, rules regarding absentee voting, and other pertinent information.
 
 #### (3) Approval of order
 
@@ -48,7 +48,7 @@
 
 #### (i) In-person requests
 
-&emsp;&emsp;&emsp;To carry out subparagraph (A), the Secretary shall establish a procedure under which a producer may make a request for a reconfirmation referendum in person at a county Cooperative State Research, Education, and Extension Service office or a county Consolidated Farm Service Agency office during a period established by the Secretary, or as provided in clause (ii).
+&emsp;&emsp;&emsp;To carry out subparagraph (A), the Secretary shall establish a procedure under which a producer may make a request for a reconfirmation referendum in person at a county cooperative extension office or a county Consolidated Farm Service Agency office during a period established by the Secretary, or as provided in clause (ii).
 
 #### (ii) Mail-in requests
 
@@ -82,13 +82,13 @@
 
 (Pub. L. 104–127, title V, §537, Apr. 4, 1996, 110 Stat. 1058; Pub. L. 110–234, title VII, §7511(c)(28), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, §4(a), title VII, §7511(c)(28), June 18, 2008, 122 Stat. 1664, 2031.)
 
-#### Amendment of Subsections (a)(2) and (b)(3)(B)(i)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2031, provided that, effective Oct. 1, 2009, subsections (a)(2) and (b)(3)(B)(i) of this section are amended by sub</i><i>stituting “cooperative extension” for “Cooperative State Research, Education, and Extension Service”.</i>
-
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsecs. (a)(2), (b)(3)(B)(i). Pub. L. 110–246, §7511(c)(28), substituted “cooperative extension” for “Cooperative State Research, Education, and Extension Service”.
 
 #### Effective Date of 2008 Amendment
 

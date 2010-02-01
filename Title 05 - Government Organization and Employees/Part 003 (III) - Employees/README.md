@@ -145,7 +145,7 @@ Pub. L. 106–265, title I, §1002(b), Sept. 19, 2000, 114 Stat. 769, added item
 
 1984—Pub. L. 98–615, title II, §201(b), Nov. 8, 1984, 98 Stat. 3214, substituted “Performance Management and Recognition System” for “Merit Pay and Cash Awards” in item for chapter 54.
 
-1978—Pub. L. 95–454, title I, §101(b)(1), title II, §203(b), title V, §503(i), title VI, §601(b), title VII, §703(b), title IX, §906(c)(5), Oct. 13, 1978, 92 Stat. 1118, 1134, 1184, 1188,1217, 1227, added items for chapters 23, 34, 47, 54, and 72, substituted in item for chapter 43 “Appraisal” for “Rating” and in item for chapter 71 “Labor-Management Relations” for “Policies”, and inserted in heading of subpart F “Labor-Management and” before “Employee”.
+1978—Pub. L. 95–454, title I, §101(b)(1), title II, §203(b), title V, §503(i), title VI, §601(b), title VII, §703(b), title IX, §906(c)(5), Oct. 13, 1978, 92 Stat. 1118, 1134, 1184, 1188, 1217, 1227, added items for chapters 23, 34, 47, 54, and 72, substituted in item for chapter 43 “Appraisal” for “Rating” and in item for chapter 71 “Labor-Management Relations” for “Policies”, and inserted in heading of subpart F “Labor-Management and” before “Employee”.
 
 
 ---

@@ -26,7 +26,7 @@ In order to pay for the increase in the United States subscription to the Bank p
 
 &emsp;(B) the President and the Secretary of State should express support of Taiwan, Republic of China, making it clear that the United States will not countenance attempts to expel Taiwan, Republic of China, from the Asian Development Bank; and
 
-&emsp;(C) the Secretary of the Senate and Clerk of the House shall transmit a copy of this resolution to the President with the request that hetransmit such copy to the Board of Governors of the Asian Development Bank.
+&emsp;(C) the Secretary of the Senate and Clerk of the House shall transmit a copy of this resolution to the President with the request that he transmit such copy to the Board of Governors of the Asian Development Bank.
 
 (Pub. L. 89–369, §27, as added Pub. L. 98–181, title X, §1002, Nov. 30, 1983, 97 Stat. 1285.)
 

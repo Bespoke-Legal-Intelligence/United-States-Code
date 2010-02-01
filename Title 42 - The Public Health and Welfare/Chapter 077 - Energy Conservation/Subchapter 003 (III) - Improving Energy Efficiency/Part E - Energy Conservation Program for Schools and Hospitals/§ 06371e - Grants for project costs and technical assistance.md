@@ -18,7 +18,7 @@ Grants made under this section in any State in any year shall be made in accorda
 
 (1) The Secretary may make grants to States for paying technical assistance costs. Schools in any State shall not be allocated less than 30 percent of the funds for energy conservation projects within such State and hospitals in any State shall not be allocated less than 30 percent of such funds.
 
-(2) A State may utilize up to 100 percent of the funds provided by the Secretary under this part for any fiscal year for program and technical assistance and up to 50 percent of such funds for marketing and other costs associated with leveraging of non-Federal funds for carrying out this part and may administer a continuous and consecutive application and award procedure for providing program and technical assistance under this part in accordance with regulations that the Secretary shall establish, if the State—
+(2) A State may utilize up to 100 percent of the funds provided by the Secretary under this part for any fiscal year for program and technical assistance and up to 50 percent of such funds for marketing and other costs associated with leveraging of non-Federal funds for carrying outthis part and may administer a continuous and consecutive application and award procedure for providing program and technical assistance under this part in accordance with regulations that the Secretary shall establish, if the State—
 
 &emsp;(A) has adopted a State plan in accordance with section 6371c of this title, the administration of which is in accordance with applicable regulations; and
 

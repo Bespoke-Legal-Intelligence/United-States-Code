@@ -30,7 +30,7 @@ The purpose of this section is to encourage increased resident management of pub
 
 #### (5) Annual audit
 
-&emsp;The books and records of a resident management corporation operating a public housing project shall be audited annually by a certified public accountant. A written report of eachaudit shall be forwarded to the public housing agency and the Secretary.
+&emsp;The books and records of a resident management corporation operating a public housing project shall be audited annually by a certified public accountant. A written report of each audit shall be forwarded to the public housing agency and the Secretary.
 
 #### (c) Assistance amounts
 
@@ -56,7 +56,7 @@ A contract under this section for management of a public housing project by a re
 
 #### (3) Exceptions
 
-&emsp;The Secretary may not waive under this subsection any requirement with respect to income eligibility for purposes of section 1437n of this title, rental payments under section 1437a(a) of this title, tenant or applicant protections, employee organizing rights, or rights of employees under collective bargaining agreements.
+&emsp;The Secretary may not waive under this subsection any requirement with respect to income eligibility for purposes of section 1437nof this title, rental payments under section 1437a(a) of this title, tenant or applicant protections, employee organizing rights, or rights of employees under collective bargaining agreements.
 
 #### (e) Direct provision of operating and capital assistance
 

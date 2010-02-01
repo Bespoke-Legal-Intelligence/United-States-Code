@@ -22,7 +22,7 @@ The Secretary is also authorized to make project grants to States and, in consul
 
 &emsp;(1) sexually transmitted diseases surveillance activities, including the reporting, screening, and followup of diagnostic tests for, and diagnosed cases of, sexually transmitted diseases;
 
-&emsp;(2) casefinding and case followup activities respecting sexually transmitted diseases, including contact tracing of infectious cases of sexually transmitted diseases and routinetesting, including laboratory tests and followup systems;
+&emsp;(2) casefinding and case followup activities respecting sexually transmitted diseases, including contact tracing of infectious cases of sexually transmitted diseases and routine testing, including laboratory tests and followup systems;
 
 &emsp;(3) interstate epidemiologic referral and followup activities respecting sexually transmitted diseases; and
 
@@ -40,7 +40,7 @@ The Secretary may make grants to States and political subdivisions of States for
 
 (3) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients of grants under this section that are pertinent to such grants.
 
-(4) The Secretary, at the request of a recipient of a grant under this section, may reduce such grant by the fair market value of any supplies or equipment furnished to such recipient and by the amount of pay, allowances, travel expenses, and any other costs in connection with the detail of an officer or employee of the United States to the recipient when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such recipient and for the purpose of carrying out the program with respect to which the grant under this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies, equipment, or personal services on which the reduction of such grant is based.
+(4) The Secretary, at the request of a recipient of a grant under this section, may reduce suchgrant by the fair market value of any supplies or equipment furnished to such recipient and by the amount of pay, allowances, travel expenses, and any other costs in connection with the detail of an officer or employee of the United States to the recipient when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such recipient and for the purpose of carrying out the program with respect to which the grant under this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies, equipment, or personal services on which the reduction of such grant is based.
 
 (5) All information obtained in connection with the examination, care, or treatment of any individual under any program which is being carried out with a grant made under this section shall not, without such individual's consent, be disclosed except as may be necessary to provide service to him or as may be required by a law of a state or political subdivision of a State. Information derived from any such program may be disclosed—
 
@@ -92,7 +92,7 @@ Subsecs. (e) to (g). Pub. L. 100–607, §311(2), (3), struck out subsec. (f) wh
 
 Subsec. (b). Pub. L. 98–555, §3(b)(2), in amending subsec. (b) generally, designated existing provisions as pars. (1) to (3), added par. (4), and substituted references to sexually transmitted diseases for reference to venereal disease.
 
-Subsec. (c). Pub. L. 98–555, §3(b)(3), (6)(A), substituted “sexually transmitted diseases” for “venereal disease” wherever appearing, struck out par. (4) relating to professional venereal disease education, training and clinical skills improvement activities, and redesignated par. (5) as (4).
+Subsec. (c). Pub. L. 98–555, §3(b)(3), (6)(A), substituted “sexually transmitted diseases” for “venereal disease”wherever appearing, struck out par. (4) relating to professional venereal disease education, training and clinical skills improvement activities, and redesignated par. (5) as (4).
 
 Subsec. (d). Pub. L. 98–555, §3(b)(5)(A), added subsec. (d). Former subsec. (d) redesignated (e).
 

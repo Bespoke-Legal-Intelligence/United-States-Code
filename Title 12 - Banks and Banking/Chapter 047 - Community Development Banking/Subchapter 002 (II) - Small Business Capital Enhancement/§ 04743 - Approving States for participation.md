@@ -12,7 +12,7 @@ The Fund shall approve a State to be a participating State, if—
 
 &emsp;(2) all legal actions necessary to enable such designated department or agency to implement the Program have been accomplished;
 
-&emsp;(3) funds in the amount of at least $1 for every 2 people residing in the State (as of the last decennial census for which data have been released) are available and have been legally committed to contributions by the State to reserve funds, with such funds being available without time limit and without requiring additional legal action, except that such requirements shall not be construed to limit the authority of the State to take action at a later time that results in the termination of its obligation to enroll loans and make contributions to reserve funds;
+&emsp;(3) funds in the amount of at least $1 for every 2 people residing in the State (as of thelast decennial census for which data have been released) are available and have been legally committed to contributions by the State to reserve funds, with such funds being available without time limit and without requiring additional legal action, except that such requirements shall not be construed to limit the authority of the State to take action at a later time that results in the termination of its obligation to enroll loans and make contributions to reserve funds;
 
 &emsp;(4) the State has prescribed a form of participation agreement to be entered into between it and each participating financial institution that is consistent with the requirements and purposes of this subchapter; and
 
@@ -40,7 +40,7 @@ The Fund shall approve a State to be a participating State, if—
 
 #### (C) Use of accumulated reserve funds
 
-&emsp;&emsp;A State that is approved for participation in accordance with this subsection may continue to implement the program <sup>2</sup> utilizingthe reserve funds accumulated under the State program.
+&emsp;&emsp;A State that is approved for participation in accordance with this subsection may continue to implement the program <sup>2</sup> utilizing the reserve funds accumulated under the State program.
 
 #### (d) Prior appropriations requirement
 

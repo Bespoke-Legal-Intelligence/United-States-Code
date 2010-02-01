@@ -58,7 +58,7 @@ Pub. L. 95–239, §1, Mar. 1, 1978, 92 Stat. 95, provided that: “This Act \[e
 
 #### Short Title of 1977 Amendment
 
-Section 1 of Pub. L. 95–164 provided: “That this Act \[enacting sections 822 to 825 and 961 of this title andsection 557a of Title 29, Labor, amending this section, sections 802 to 804, 811 to 821, 842, 861, 878, 951 to 955, 958, and 959 of this title, and sections 5314 and 5315 of Title 5, Government Organization and Employees, repealing sections 721 to 740 of this title and section 1456a of Title 43, Public Lands, and enacting provisions set out as notes under this section, section 954 of this title and section 11 of former Title 31, Money and Finance\] may be cited as the ‘Federal Mine Safety and Health Amendments Act of 1977’.”
+Section 1 of Pub. L. 95–164 provided: “That this Act \[enacting sections 822 to 825 and 961 of this title and section 557a of Title 29, Labor, amending this section, sections 802 to 804, 811 to 821, 842, 861, 878, 951 to 955, 958, and 959 of this title, and sections 5314 and 5315 of Title 5, Government Organization and Employees, repealing sections 721 to 740 of this title and section 1456a of Title 43, Public Lands, and enacting provisions set out as notes under this section, section 954 of this title and section 11 of former Title 31, Money and Finance\] may be cited as the ‘Federal Mine Safety and Health Amendments Act of 1977’.”
 
 #### Short Title of 1972 Amendment
 

@@ -24,5 +24,5 @@ Provision of Meals and Refreshments.—” before “Under regulations”, and s
 
 Subsec. (a)(5). Pub. L. 107–107, §545(b)(2), substituted “presence at recruiting functions” for “presence at recruiting efforts”.
 
-Subsec. (c). Pub. L. 107–107, §545(a), struck out heading and text of subsec. (c). Text read as follows: “Theauthority in subsection (a) may not be exercised after September 30, 2001.”
+Subsec. (c). Pub. L. 107–107, §545(a), struck out heading and text of subsec. (c). Text read as follows: “The authority in subsection (a) may not be exercised after September 30, 2001.”
 

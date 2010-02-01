@@ -28,11 +28,11 @@
 
 (2) Each report under this subsection shall be submitted in unclassified form.
 
-(Pub. L. 95–511, title V, §502, as added Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 288; amended Pub. L. 107–108, title III, §314(a)(7), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 109–177, title I, §§102(b)(1), 106(h), Mar. 9, 2006, 120 Stat. 195, 199.)
+(Pub. L. 95–511, title V, §502, as added Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 288; amended Pub. L. 107–108, title III, §314(a)(7), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 109–177, title I, §§102(b)(1), 106(h), Mar. 9, 2006, 120 Stat. 195, 199; Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470.)
 
 #### Amendment of Section
 
-<i>Pub. L. 109–177, title I, §102(b), Mar. 9, 2006, 120 Stat. 195, provided that, effective Dec. 31, 2009, with certain exceptions, this section is amended to read as it read on Oct. 25, 2001:</i>
+<i>Pub. L. 109–177, title I, §102(b), Mar. 9, 2006, 120 Stat. 195, as amended by Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470, provided that, effective Feb. 28, 2010, with certain exceptions, this section is amended to read as it read on Oct. 25, 2001:</i>
 
 #### §1862. Access to certain business records for foreign intelligence and international terrorism investigations
 
@@ -66,7 +66,7 @@
 
 <i>(1) Any common carrier, public accommodation facility, physical storage facility, or vehicle rental facility shall comply with an order under subsection (c).</i>
 
-<i>(2) No common carrier, public accommodation facility, physical storage facility, or vehicle rental facility, or officer, employee, or agent thereof, shall disclose to any person (other than those officers, agents, or employees of such common carrier, public accommodation facility, physical storage facility, or vehicle rental facility necessary to fulfill the requirement to disclose information to the Federal Bureau of Investigation under this section) that the Federal Bureau of Investigation has sought or obtained records pursuant to an order under this section.</i>
+<i>(2) No common carrier, public accommodation facility, physical storage facility, or vehicle rental facility, or officer, employee, or agent thereof, shall disclose to any person (other than those officers, agents, or employees of such common carrier, public accommodation facility, physical storage facility, or vehicle rental facility necessary to fulfill the requirement to disclose information to the Federal Bu</i><i>reau of Investigation under this section) that the Federal Bureau of Investigation has sought or obtained records pursuant to an order under this section.</i>
 
 #### Prior Provisions
 
@@ -74,7 +74,7 @@ A prior section 1862, Pub. L. 95–511, title V, §502, as added Pub. L. 105–2
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–177, §106(h)(1), substituted “annual basis” for “semiannual basis” and inserted “and the Committee on the Judiciary” after “and the Select Committee on Intelligence”.
+2006—Subsec. (a). Pub. L. 109–177, §106(h)(1), substituted “annual basis” for “semiannual basis” and inserted “and the Committee on the Judiciary” after “and the Select Committee on Intelligence”.
 
 Subsec. (b). Pub. L. 109–177, §106(h)(2)(A), in introductory provisions, substituted “In April of each year, the Attorney General shall submit to the House and Senate Committees on the Judiciary and the House Permanent Select Committee on Intelligence and the Senate Select Committee on Intelligence a report setting forth with respect to the preceding calendar year” for “On a semiannual basis, the Attorney General shall provide to the Committees on the Judiciary of the House of Representatives and the Senate a report setting forth with respect to the preceding 6-month period”.
 
@@ -82,11 +82,11 @@ Subsec. (b)(3). Pub. L. 109–177, §106(h)(2)(B)–(D), added par. (3).
 
 Subsec. (c). Pub. L. 109–177, §106(h)(3), added subsec. (c).
 
-<b>2001</b>—Subsecs. (a), (b)(1). Pub. L. 107–108 substituted “section 1861 of this title” for “section 1842 of this title”.
+2001—Subsecs. (a), (b)(1). Pub. L. 107–108 substituted “section 1861 of this title” for “section 1842 of this title”.
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 102(b)(1) of Pub. L. 109–177 effective Dec. 31, 2009, except that former provisions to continue in effect with respect to any particular foreign intelligence investigation that began before Dec. 31, 2009, or with respect to any particular offense or potential offense that began or occurred before Dec. 31, 2009, see section 102(b) of Pub. L. 109–177, set out as a note under section 1805 of this title.
+Amendment by section 102(b)(1) of Pub. L. 109–177 effective Feb. 28, 2010, except that former provisions to continue in effect with respect to any particular foreign intelligence investigation that began before Feb. 28, 2010, or with respect to any particular offense or potential offense that began or occurred before Feb. 28, 2010, see section 102(b) of Pub. L. 109–177, set out as a note under section 1805 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

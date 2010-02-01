@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 12 months after September 30, 1996, and once every 60 months thereafter, the Board, in consultation with the Director of the Office of Thrift Supervision, the Comptroller of the Currency, the Board of Directors of the Corporation, the Administrator of the National Credit Union Administration, the Administrator of the Small Business Administration, and the Secretary of Commerce, shall conduct a study and submit a report to the Congress detailing the extent of small business lending by all creditors.
+&emsp;Not later than 12 months after September 30, 1996, and once every 60 months thereafter, theBoard, in consultation with the Director of the Office of Thrift Supervision, the Comptroller of the Currency, the Board of Directors of the Corporation, the Administrator of the National Credit Union Administration, the Administrator of the Small Business Administration, and the Secretary of Commerce, shall conduct a study and submit a report to the Congress detailing the extent of small business lending by all creditors.
 
 #### (2) Contents of study
 
@@ -72,7 +72,7 @@ Corporation.—The term ‘Corporation’ means the Federal Deposit Insurance Co
 
 &emsp;“(5)
 
-Council.—The term ‘Council’ means the Financial Institutions Examination Council establishedunder section 1004 of the Federal Financial Institutions Examination Council Act of 1978 \[12 U.S.C. 3303\].
+Council.—The term ‘Council’ means the Financial Institutions Examination Council established under section 1004 of the Federal Financial Institutions Examination Council Act of 1978 \[12 U.S.C. 3303\].
 
 &emsp;“(6)
 

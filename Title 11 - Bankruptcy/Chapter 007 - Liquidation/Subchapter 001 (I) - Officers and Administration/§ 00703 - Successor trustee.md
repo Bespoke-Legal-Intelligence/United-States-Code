@@ -1,6 +1,6 @@
 ### §703. Successor trustee
 
-(a) If a trustee dies or resigns during a case, fails to qualify under section 322 of this title, or is removed under section 324 of this title, creditors may elect, in the manner specified in section 702 of this title, a person to fill the vacancy in the office of trustee.
+(a) If a trustee dies or resigns during a case, fails to qualify under section 322 of this title, oris removed under section 324 of this title, creditors may elect, in the manner specified in section 702 of this title, a person to fill the vacancy in the office of trustee.
 
 (b) Pending election of a trustee under subsection (a) of this section, if necessary to preserve or prevent loss to the estate, the United States trustee may appoint an interim trustee in the manner specified in section 701(a).
 
@@ -24,7 +24,7 @@ If the office of trustee becomes vacant during the case, this section makes prov
 
 Subsec. (c). Pub. L. 99–554 amended subsec. (c) generally, substituting “this section or” for “this section, or”, “then the United States trustee” for “then the court”, designating part of existing provisions as par. (1), and, as so designated, substituting “586(a)(1)” for “604(f)”, “in the case; or” for “in the case.”, and adding par. (2).
 
-1984—Subsec. (b). Pub. L. 98–353 substituted “and subject to the provisions of section 701 of this title” for“specified in section 701(a) of this title. Sections 701(b) and 701(c) of this title apply to such interim trustee”.
+1984—Subsec. (b). Pub. L. 98–353 substituted “and subject to the provisions of section 701 of this title” for “specified in section 701(a) of this title. Sections 701(b) and 701(c) of this title apply to such interim trustee”.
 
 #### Effective Date of 1986 Amendment
 

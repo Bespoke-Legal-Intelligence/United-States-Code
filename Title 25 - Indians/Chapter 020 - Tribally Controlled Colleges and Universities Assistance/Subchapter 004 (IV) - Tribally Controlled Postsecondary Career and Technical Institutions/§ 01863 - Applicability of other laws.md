@@ -10,7 +10,7 @@ Funds made available pursuant to this subchapter shall be subject to the Indian 
 
 #### (c) Election to receive
 
-A tribally controlled postsecondary career and technical institution selected for a fiscal year under section 1862(b) of this title may elect to receive funds pursuant to section 1862 of this title in accordance with an agreement between the tribally controlled postsecondary career and technical institution and the Secretary under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) if the agreement is in existence on August 14, 2008.
+A tribally controlled postsecondary career and technical institution selected for a fiscal yearunder section 1862(b) of this title may elect to receive funds pursuant to section 1862 of this title in accordance with an agreement between the tribally controlled postsecondary career and technical institution and the Secretary under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) if the agreement is in existence on August 14, 2008.
 
 #### (d) Other assistance
 
@@ -34,7 +34,7 @@ Eligibility for, or receipt of, assistance under this subchapter shall not precl
 
 Title II, referred to in subsec. (a), is title II of Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1329, known as the Navajo Community College Assistance Act of 1978, which enacted section 640c–1 of this title, amended section 640c of this title, and enacted provisions set out as notes under sections 640a and 640c–1 of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 640a of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (b) and (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (b) and (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (d)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 

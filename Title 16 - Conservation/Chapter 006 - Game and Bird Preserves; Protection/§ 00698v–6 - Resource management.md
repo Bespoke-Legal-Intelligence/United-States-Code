@@ -62,7 +62,7 @@ Upon assumption of management of the Preserve under subsection (a) of this secti
 
 #### (d) Management program
 
-Within two years after assumption of management responsibilities for the Preserve, the Trust shall, in accordance with subsection (f) of thissection, develop a comprehensive program for the management of lands, resources, and facilities within the Preserve to carry out the purposes under section 698v–3(b) of this title. To the extent consistent with such purposes, such program shall provide for—
+Within two years after assumption of management responsibilities for the Preserve, the Trust shall, in accordance with subsection (f) of this section, develop a comprehensive program for the management of lands, resources, and facilities within the Preserve to carry out the purposes under section 698v–3(b) of this title. To the extent consistent with such purposes, such program shall provide for—
 
 &emsp;(1) operation of the Preserve as a working ranch, consistent with paragraphs (2) through (4);
 
@@ -116,7 +116,7 @@ Within two years after assumption of management responsibilities for the Preserv
 
 #### (5) Consultation with tribes and Pueblos
 
-&emsp;The Trust is authorized and directed to cooperate and consult with Indian tribes and Pueblos on management policies and practices for the Preserve which may affect them. The Trust is authorized to allow the use of lands within the Preserve for religious and cultural uses by Native Americans and, in so doing, may set aside places and times of exclusive use consistent with the American Indian Religious Freedom Act \[42 U.S.C. 1996, 1996a\] and other applicable statutes.
+&emsp;The Trust is authorized and directed to cooperate and consult with Indian tribes and Pueblos on management policies and practices for the Preserve which may affect them. The Trust is authorized to allow the use of lands within the Preserve for religious and cultural uses by Native Americans and, in so doing, may set aside places and times of exclusiveuse consistent with the American Indian Religious Freedom Act \[42 U.S.C. 1996, 1996a\] and other applicable statutes.
 
 #### (6) No administrative appeal
 

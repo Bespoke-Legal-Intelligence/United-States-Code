@@ -10,7 +10,7 @@
 
 &emsp;Paragraph (1) shall apply if—
 
-&emsp;&emsp;(A) a State or district attorney establishes, within the jurisdiction of such State or district attorney and with respect to alleged bad check violations that do not involve a check described in subsection (b), a pretrial diversion program for alleged bad check offenders who agree to participate voluntarily in such program to avoid criminal prosecution;
+&emsp;&emsp;(A) a State or district attorney establishes, within the jurisdiction of such State or district attorney and with respect to alleged bad check violations that do not involve a check described in subsection (b), apretrial diversion program for alleged bad check offenders who agree to participate voluntarily in such program to avoid criminal prosecution;
 
 &emsp;&emsp;(B) a private entity, that is subject to an administrative support services contract with a State or district attorney and operates under the direction, supervision, and control of such State or district attorney, operates the pretrial diversion program described in subparagraph (A); and
 
@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(iv) contacts any alleged offender referred to in subparagraph (A) for purposes of participating in a program referred to in such paragraph—
 
-&emsp;&emsp;&emsp;&emsp;(I) only as a result of any determination by the State or district attorney that probable cause of a bad check violation under State penal law exists, andthat contact with the alleged offender for purposes of participation in the program is appropriate; and
+&emsp;&emsp;&emsp;&emsp;(I) only as a result of any determination by the State or district attorney that probable cause of a bad check violation under State penal law exists, and that contact with the alleged offender for purposes of participation in the program is appropriate; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the alleged offender has failed to pay the bad check after demand for payment, pursuant to State law, is made for payment of the check amount;
 

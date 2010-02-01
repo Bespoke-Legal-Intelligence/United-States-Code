@@ -62,11 +62,11 @@ Members of the Board shall serve without pay but may be compensated for reasonab
 
 #### (f) Meetings
 
-The Board shall meet at least twice a year at the call of the Chairman (with at least onemeeting in the District of Columbia) and at such other times as the Chairman may determine to be appropriate. The Chairman shall call a meeting of the Board whenever one-third of the members of the Board submit written requests for such a meeting.
+The Board shall meet at least twice a year at the call of the Chairman (with at least one meeting in the District of Columbia) and at such other times as the Chairman may determine to be appropriate. The Chairman shall call a meeting of the Board whenever one-third of the members of the Board submit written requests for such a meeting.
 
 #### (g) Chairman and Vice Chairman
 
-The Chairman and the Vice Chairman of the Board shall be elected from among the members of the Board by a majority vote of the Board for such terms as the Board determines. The Vice Chairman shall perform the duties of the Chairman in his absence.
+The Chairman and the Vice Chairman of the Board shall be elected from among the membersof the Board by a majority vote of the Board for such terms as the Board determines. The Vice Chairman shall perform the duties of the Chairman in his absence.
 
 #### (h) Appointment, functions, etc., of committees; membership
 
@@ -126,7 +126,7 @@ Subsec. (b). Pub. L. 98–33, §1(b), designated existing provisions as par. (1)
 
 #### Transition Provisions
 
-Section 3 of Pub. L. 100–674 provided that: “Not later than 120 days after the date of the enactment of this Act \[Nov. 17, 1988\], the congressional leadership shall appoint members to fill vacancies on the Congressional Award Board in accordance with section 4(a) of the Congressional Award Act \[2 U.S.C. 803(a)\] (as amended by section 2(b)). In filling such vacancies, the congressional leadership shall first appoint members from the Congressional Award Association and local Congressional Award Councils in accordance with section 4(a) of the Congressional Award Act (as amended by section 2(b)).”
+Section 3 of Pub. L. 100–674 provided that: “Not later than 120 days after the date of the enactment of this Act \[Nov. 17, 1988\], the congressional leadership shall appoint members to fill vacancies on the CongressionalAward Board in accordance with section 4(a) of the Congressional Award Act \[2 U.S.C. 803(a)\] (as amended by section 2(b)). In filling such vacancies, the congressional leadership shall first appoint members from the Congressional Award Association and local Congressional Award Councils in accordance with section 4(a) of the Congressional Award Act (as amended by section 2(b)).”
 
 #### Exceptional Terms for Certain Board Members
 

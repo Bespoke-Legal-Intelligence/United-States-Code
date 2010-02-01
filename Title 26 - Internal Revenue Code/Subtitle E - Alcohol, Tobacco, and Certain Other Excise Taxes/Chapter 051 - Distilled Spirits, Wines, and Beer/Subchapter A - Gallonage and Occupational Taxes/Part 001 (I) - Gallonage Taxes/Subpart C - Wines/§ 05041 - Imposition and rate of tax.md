@@ -66,7 +66,7 @@ There is hereby imposed on all wines (including imitation, substandard, or artif
 
 #### (d) Wine gallon
 
-For the purpose of this chapter, the term “wine gallon” means a United States gallon of liquid measure equivalent to the volume of 231 cubic inches. On lesser quantities the tax shall be paid proportionately (fractions of less than one-tenth gallon being converted to the nearest one-tenth gallon, and five-hundredths gallon being converted to the next full one-tenth gallon).
+For the purpose of this chapter, the term “wine gallon” means a United States gallon of liquid measure equivalent to the volume of 231 cubic inches. On lesser quantities the tax shall be paid proportionately (fractions of less than one-tenth gallon being converted to the nearest one-tenth gallon, and five-hundredths gallonbeing converted to the next full one-tenth gallon).
 
 #### (e) Tolerances
 

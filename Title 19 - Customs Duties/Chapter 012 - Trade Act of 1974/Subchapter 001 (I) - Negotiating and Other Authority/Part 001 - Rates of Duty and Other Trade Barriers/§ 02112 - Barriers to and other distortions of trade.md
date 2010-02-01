@@ -6,7 +6,7 @@ The Congress finds that barriers to (and other distortions of) international tra
 
 #### (b) Presidential determinations prerequisite to entry into trade agreements; trade with Israel
 
-(1) Whenever the President determines that any barriers to (or other distortions of) international trade of any foreign country or the United States unduly burden and restrict the foreign trade of the United States or adversely affect the United States economy, or that the imposition of such barriers is likely to result in such a burden, restriction, or effect, and that the purposes of this chapter will be promoted thereby, the President, during the 13-year period beginning on January 3, 1975, may enter into trade agreements with foreign countries or instrumentalities providing for the harmonization, reduction, or elimination of such barriers (or other distortions) or providing for the prohibition of or limitations on the imposition of such barriers (or other distortions).
+(1) Whenever the President determines that any barriers to (or other distortions of) international trade of any foreign country or the United States unduly burden and restrict theforeign trade of the United States or adversely affect the United States economy, or that the imposition of such barriers is likely to result in such a burden, restriction, or effect, and that the purposes of this chapter will be promoted thereby, the President, during the 13-year period beginning on January 3, 1975, may enter into trade agreements with foreign countries or instrumentalities providing for the harmonization, reduction, or elimination of such barriers (or other distortions) or providing for the prohibition of or limitations on the imposition of such barriers (or other distortions).
 
 (2)(A) Trade agreements that provide for the elimination or reduction of any duty imposed by the United States may be entered into under paragraph (1) only with Israel.
 
@@ -16,7 +16,7 @@ The Congress finds that barriers to (and other distortions of) international tra
 
 (3) Notwithstanding any other provision of law, no trade benefit shall be extended to any country by reason of the extension of any trade benefit to another country under a trade agreement entered into under paragraph (1) with such other country that provides for the elimination or reduction of any duty imposed by the United States.
 
-(4)(A) Notwithstanding paragraph (2), a trade agreement that provides for the elimination orreduction of any duty imposed by the United States may be entered into under paragraph (1) with any country other than Israel if—
+(4)(A) Notwithstanding paragraph (2), a trade agreement that provides for the elimination or reduction of any duty imposed by the United States may be entered into under paragraph (1) with any country other than Israel if—
 
 &emsp;(i) such country requested the negotiation of such an agreement, and
 
@@ -566,7 +566,7 @@ Termination of the Agreement.—On the date on which the Agreement ceases to be 
 
 #### United States-Canada Free-Trade Agreement Implementation
 
-Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, as amended by Pub. L. 101–207, §1(b), Dec. 7, 1989, 103 Stat. 1833;Pub. L. 101–382, title I, §§103(b), 134(b), Aug. 20, 1990, 104 Stat. 635, 651; Pub. L. 103–182, title I, §107, title III, §308(a), title IV, §413, Dec. 8, 1993, 107 Stat. 2065, 2104, 2147; Pub. L. 104–66, title I, §1021(d), Dec. 21, 1995, 109 Stat. 712; Pub. L. 105–206, title V, §5003(b)(3), July 22, 1998, 112 Stat. 789, provided that:
+Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, as amended by Pub. L. 101–207, §1(b), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §§103(b), 134(b), Aug. 20, 1990, 104 Stat. 635, 651; Pub. L. 103–182, title I, §107, title III, §308(a), title IV, §413, Dec. 8, 1993, 107 Stat. 2065, 2104, 2147; Pub. L. 104–66, title I, §1021(d), Dec. 21, 1995, 109 Stat. 712; Pub. L. 105–206, title V, §5003(b)(3), July 22, 1998, 112 Stat. 789, provided that:
 
 #### “SECTION 1. SHORT TITLE AND TABLE OF CONTENTS.
 
@@ -638,7 +638,7 @@ Relationship of Agreement to State and Local Law.—
 
 > &emsp;to the extent of the conflict.
 
-&emsp;“(2) Upon the enactment of this Act, the President shall, in accordance with section 306(c)(2)(A) of the Trade and Tariff Act of 1984 (19 U.S.C. 2114c), initiate consultations with the State governments on the implementation of the obligations of the United States under the Agreement. Such consultations shall be held—
+&emsp;“(2) Upon the enactment of this Act, the President shall, in accordance with section 306(c)(2)(A) of theTrade and Tariff Act of 1984 (19 U.S.C. 2114c), initiate consultations with the State governments on the implementation of the obligations of the United States under the Agreement. Such consultations shall be held—
 
 &emsp;&emsp;“(A) through the intergovernmental policy advisory committees on trade established under such section for the purpose of achieving conformity of State laws and practices with the Agreement; and
 
@@ -666,7 +666,7 @@ Initial Implementing Regulations.—Initial regulations necessary or appropriate
 
 “(e)
 
-Changes in Statutes To Implement a Requirement, Amendment, or Recommendation.—The provisions of section 3(c) of the Trade Agreements Act of 1979 (19 U.S.C. 2504(c)) shall apply as if the Agreement were an agreement approved under section 2(a) of that Act \[19 U.S.C. 2503(a)\] whenever the President determines that it is necessary or appropriate to amend, repeal, or enact a statute of the United States in order to implement any requirement of, amendment to, or recommendation, finding or opinion under, the Agreement; but such provisions shall not apply to any bill toimplement any such requirement, amendment, recommendation, finding, or opinion that is submitted to the Congress after the close of the 30th month after the month in which the Agreement enters into force \[January 1989\].
+Changes in Statutes To Implement a Requirement, Amendment, or Recommendation.—The provisions of section 3(c) of the Trade Agreements Act of 1979 (19 U.S.C. 2504(c)) shall apply as if the Agreement were an agreement approved under section 2(a) of that Act \[19 U.S.C. 2503(a)\] whenever the President determines that it is necessary or appropriate to amend, repeal, or enact a statute of the United States in order to implement any requirement of, amendment to, or recommendation, finding or opinion under, the Agreement; but such provisions shall not apply to any bill to implement any such requirement, amendment, recommendation, finding, or opinion that is submitted to the Congress after the close of the 30th month after the month in which the Agreement enters into force \[January 1989\].
 
 #### “SEC. 103. CONSULTATION AND LAY-OVER REQUIREMENTS FOR, AND EFFECTIVE DATE OF, PROCLAIMED ACTIONS.
 
@@ -724,7 +724,7 @@ Restrictions.—
 
 &emsp;“(2) other appropriate officers of the United States Government may issue such regulations;
 
-> as may be necessary to ensure that any provision of this Act, or amendment made by this Act, that takes effect on the date the Agreement enters into force \[Jan. 1, 1989\] is appropriately implemented on such date, but no such proclamation or regulation may have an effective date earlier than the date of entry into force.
+> as may be necessary to ensure that any provision of this Act, or amendment made by this Act, that takes effect on the date the Agreement enters into force \[Jan. 1, 1989\] is appropriately implemented on such date, butno such proclamation or regulation may have an effective date earlier than the date of entry into force.
 
 #### “TITLE II—TARIFF MODIFICATIONS, RULES OF ORIGIN, USER FEES, DRAWBACK, ENFORCEMENT, AND OTHER CUSTOMS PROVISIONS
 
@@ -1090,7 +1090,7 @@ Special Tariff Provisions for Fresh Fruits and Vegetables.—
 
 &emsp;“(3) In determining whether to recommend the imposition of a temporary duty to the President under paragraph (1), the Secretary shall consider whether the conditions in subparagraphs (A) and (B) of such paragraph have led to a distortion in trade between the United States and Canada of the fresh fruit or vegetable and, if so, whether the imposition of the duty is appropriate, including consideration of whether it would significantly correct this distortion.
 
-&emsp;“(4) Not later than 7 days after receipt of a recommendation of the Secretary under paragraph (1), the President, after taking into account the national economic interests of the United States, shall determine whether to impose a temporary duty on the Canadian fresh fruit or vegetable concerned. If the determination is affirmative, the President shall proclaim the imposition and the rate of the temporary duty, butsuch duty shall not apply to the entry of articles that were in transit to the United States on the first day on which the temporary duty is in effect.
+&emsp;“(4) Not later than 7 days after receipt of a recommendation of the Secretary under paragraph (1), the President, after taking into account the national economic interests of the United States, shall determine whether to impose a temporary duty on the Canadian fresh fruit or vegetable concerned. If the determination is affirmative, the President shall proclaim the imposition and the rate of the temporary duty, but such duty shall not apply to the entry of articles that were in transit to the United States on the first day on which the temporary duty is in effect.
 
 &emsp;“(5) A temporary duty imposed under paragraph (4) shall cease to apply with respect to articles that are entered on or after the earlier of—
 
@@ -1204,7 +1204,7 @@ Relief From Imports of Canadian Articles.—
 
 &emsp;“(D) If the determination made by the Commission under subparagraph (A) with respect to imports of an article is affirmative, the Commission shall find and recommend to the President the amount of import relief that is necessary to remedy the injury found by the Commission in such affirmative determination, which shall be limited to that set forth in paragraph (3)(C).
 
-&emsp;“(E)(i) By no later than the date that is 30 days after the date on which a determination is madeunder subparagraph (A) with respect to an investigation, the Commission shall submit to the President a report on the determination and the basis for the determination. The report shall include any dissenting or separate views and a transcript of the hearings and any briefs which were submitted to the Commission in the course of the investigation initiated under subparagraph (A).
+&emsp;“(E)(i) By no later than the date that is 30 days after the date on which a determination is made under subparagraph (A) with respect to an investigation, the Commission shall submit to the President a report on the determination and the basis for the determination. The report shall include any dissenting or separate views and a transcript of the hearings and any briefs which were submitted to the Commission in the course of the investigation initiated under subparagraph (A).
 
 &emsp;“(ii) Any finding made under subparagraph (D) shall be included in the report submitted to the President under clause (i).
 
@@ -1242,7 +1242,7 @@ Relief From Imports of Canadian Articles.—
 
 Relief From Imports From All Countries.—
 
-&emsp;“(1)(A) If, in any investigation initiated under chapter 1 of title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\], the Commission makes an affirmative determination (or a determination which is treated as an affirmative determination under such chapter by reason of section 330(d) of the Tariff Act of 1930 \[19 U.S.C. 1330(d)\]) that an article is being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry, the Commission shall also find (and report to the President at the time such injury determination is submitted to the President), whether imports from Canada of the article that is the subject of such investigation are substantial and are contributing importantly to such injury or threat thereof.
+&emsp;“(1)(A) If, in any investigation initiated under chapter 1 of title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\], the Commission makes an affirmative determination (or a determination which is treated as an affirmative determination under such chapter by reason of section 330(d) of the Tariff Act of 1930 \[19 U.S.C. 1330(d)\]) that an article is being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threatthereof, to the domestic industry, the Commission shall also find (and report to the President at the time such injury determination is submitted to the President), whether imports from Canada of the article that is the subject of such investigation are substantial and are contributing importantly to such injury or threat thereof.
 
 &emsp;“(B)(i) In determining under subparagraph (A) whether imports of an article from Canada are substantial, the Commission shall not normally consider imports from Canada in the range of 5 to 10 percent or less of total imports of such article to be substantial.
 
@@ -1622,7 +1622,7 @@ Panels and Committees.—
 
 &emsp;“(3) Funds appropriated for the payment of expenses described in paragraph (1) during any fiscal year may be expended only to the extent such funds do not exceed the amount authorized to be appropriated under paragraph (1) for such fiscal year. This paragraph shall apply, notwithstanding any law enacted after the date of enactment of this Act \[Sept. 28, 1988\], unless such subsequent law specifically provides that this paragraph shall not apply and specifically cites this paragraph.
 
-&emsp;“(4) If the Canadian Secretariat described in chapter 19 of the Agreement provides funds during any fiscal year for the purpose of paying, in accordance with Annex 1901.2 of the Agreement, the Canadian share of the expenses of binational panels, the United StatesSecretariat established under section 405(e)(1) may hereafter retain and use such funds for such purposes.
+&emsp;“(4) If the Canadian Secretariat described in chapter 19 of the Agreement provides funds during any fiscal year for the purpose of paying, in accordance with Annex 1901.2 of the Agreement, the Canadian share of the expenses of binational panels, the United States Secretariat established under section 405(e)(1) may hereafter retain and use such funds for such purposes.
 
 #### “SEC. 407. TESTIMONY AND PRODUCTION OF PAPERS IN EXTRAORDINARY CHALLENGES.
 
@@ -1736,7 +1736,7 @@ Identification of Industries Facing Subsidized Imports.—
 
 &emsp;&emsp;“(iv) may ask the President to request advice from the United States International Trade Commission.
 
-&emsp;“(C) In the event an investigation is initiated under section 302(c) of the Trade Act of 1974 \[19 U.S.C. 2412(c)\] as a result of a review under this paragraph and the President, following such investigation (including any applicable dispute settlement proceedings under the Agreement or any other trade agreement), determines to take action under section 301(a) of such Act \[19 U.S.C. 2411(a)\], the President shall give preference to actions that most directly affect the products that benefit from governmental subsidies and were the subject of the investigation, unless there are no significant imports of such products or the President otherwise determines that application of the action to other products would be more effective.
+&emsp;“(C) In the event an investigation is initiated under section 302(c) of the Trade Act of 1974 \[19 U.S.C. 2412(c)\] as a result of a review under this paragraphand the President, following such investigation (including any applicable dispute settlement proceedings under the Agreement or any other trade agreement), determines to take action under section 301(a) of such Act \[19 U.S.C. 2411(a)\], the President shall give preference to actions that most directly affect the products that benefit from governmental subsidies and were the subject of the investigation, unless there are no significant imports of such products or the President otherwise determines that application of the action to other products would be more effective.
 
 &emsp;“(5) Any decision, whether positive or negative, or any action by the Trade Representative or the Secretary of Commerce under this section shall not in any way—
 
@@ -1814,7 +1814,7 @@ Suspension resulting from nafta.—On the date the United States and Canada agre
 
 \[Section 308(b) of Pub. L. 103–182 provided that: “The amendments made by subsection (a) \[amending section 301(a) of Pub. L. 100–449, set out above\] take effect on the date of the enactment of this Act \[Dec. 8, 1993\].”\]
 
-\[Amendment by section 413 of Pub. L. 103–182 to section 410(a) of Pub. L. 100–449, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i) to (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of this title, notice of which is received by the Government of Canada before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or any extraordinary challenge arising out of such review, that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under section 3431 of this title.\]
+\[Amendment by section 413 of Pub. L. 103–182 to section 410(a) of Pub. L. 100–449, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i) to (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of this title, notice of which is received by the Government of Canada before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or any extraordinary challenge arising out of such review,that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under section 3431 of this title.\]
 
 \[For provisions relating to effect of termination of NAFTA country status on the provisions of sections 401 to 416 of Pub. L. 103–182, see section 3451 of this title.\]
 
@@ -1976,7 +1976,7 @@ Cost or value of materials.—(A) For purposes of this section, the cost or valu
 
 &emsp;&emsp;“(i) the manufacturer's actual cost for the materials;
 
-&emsp;&emsp;“(ii) when not included in the manufacturer's actual cost for the materials, the freight, insurance,packing, and all other costs incurred in transporting the materials to the manufacturer's plant;
+&emsp;&emsp;“(ii) when not included in the manufacturer's actual cost for the materials, the freight, insurance, packing, and all other costs incurred in transporting the materials to the manufacturer's plant;
 
 &emsp;&emsp;“(iii) the actual cost of waste or spoilage, less the value of recoverable scrap; and
 
@@ -2038,7 +2038,7 @@ Documentation required.—An article is eligible for the duty exemption under th
 
 &emsp;&emsp;&emsp;“(i) A description of the article, quantity, numbers, and marks of packages, invoice numbers, and bills of lading.
 
-&emsp;&emsp;&emsp;“(ii) A description of the operations performed in the production of the article in the West Bank, the Gaza Strip, a qualifying industrial zone, or Israel and identification of the direct costs of processing operations.
+&emsp;&emsp;&emsp;“(ii) A description of the operations performed in the production of the article in the West Bank,the Gaza Strip, a qualifying industrial zone, or Israel and identification of the direct costs of processing operations.
 
 &emsp;&emsp;&emsp;“(iii) A description of any materials used in production of the article which are wholly the growth, product, or manufacture of the West Bank, the Gaza Strip, a qualifying industrial zone, Israel or United States, and a statement as to the cost or value of such materials.
 
@@ -2118,7 +2118,7 @@ ITC Reports.—In any report by the United States International Trade Commission
 
 “(c) For purposes of section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\], the suspension of the reduction or elimination of a duty under subsection (a) shall be treated as an increase in duty.
 
-“(d) No proclamation which provides solely for a suspension referred to in subsection (a) with respect to any article shall be made under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\], unless the Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the Trade Act of 1974 \[19 U.S.C. 2252(b)\], determines in the course of its investigation under that section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the reduction or elimination of any duty provided under any trade agreement provision entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\].
+“(d) No proclamation which provides solely for a suspension referred to in subsection (a) with respect to any article shall be made under section 203 of the TradeAct of 1974 \[19 U.S.C. 2253\], unless the Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the Trade Act of 1974 \[19 U.S.C. 2252(b)\], determines in the course of its investigation under that section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the reduction or elimination of any duty provided under any trade agreement provision entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\].
 
 “(e)(1) Any proclamation issued under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] that is in effect when an agreement with Israel is entered into under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] shall remain in effect until modified or terminated.
 

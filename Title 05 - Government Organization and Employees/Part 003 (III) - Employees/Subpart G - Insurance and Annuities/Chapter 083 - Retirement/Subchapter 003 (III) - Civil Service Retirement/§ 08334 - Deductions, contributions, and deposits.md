@@ -2,7 +2,7 @@
 
 (a)(1)(A) The employing agency shall deduct and withhold from the basic pay of an employee, Member, Congressional employee, law enforcement officer, firefighter, bankruptcy judge, judge of the United States Court of Appeals for the Armed Forces, United States magistrate,<sup>1</sup> Court of Federal Claims judge, member of the Capitol Police, member of the Supreme Court Police, nuclear materials courier, or customs and border protection officer, as the case may be, the percentage of basic pay applicable under subsection (c).
 
-(B)(i) Except as provided in clause (ii), an equal amount shall be contributed from the appropriation or fund used to pay the employee or, in the case of an elected official, from an appropriation or fund available for payment of other salaries of the same office or establishment. When an employee in the legislative branch ispaid by the Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts of the House of Representatives the contribution that otherwise would be contributed from the appropriation or fund used to pay the employee.
+(B)(i) Except as provided in clause (ii), an equal amount shall be contributed from the appropriation or fund used to pay the employee or, in the case of an elected official, from an appropriation or fund available for payment of other salaries of the same office or establishment. When an employee in the legislative branch is paid by the Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts of the House of Representatives the contribution that otherwise would be contributed from the appropriation or fund used to pay the employee.
 
 (ii) In the case of an employee of the United States Postal Service, no amount shall be contributed under this subparagraph.
 
@@ -98,7 +98,7 @@
 
 (2)(A) This paragraph applies with respect to any employee or Member who—
 
-&emsp;(i) separates before October 1, 1990, and receives (or elects, in accordance with applicable provisions of this subchapter, to receive) a refund (described in paragraph (1)) which relates to a period of service ending before October 1, 1990;
+&emsp;(i) separates before March 1, 1991, and receives (or elects, in accordance with applicable provisions of this subchapter, to receive) a refund (described in paragraph (1)) which relates to a period of service ending before March 1, 1991;
 
 &emsp;(ii) is entitled to an annuity under this subchapter (other than a disability annuity) which is based on service of such employee or Member, and which commences on or after December 2, 1990; and
 
@@ -120,7 +120,7 @@
 
 &emsp;(1) service before August 1, 1920;
 
-&emsp;(2) military service, except to the extent provided under section 8332(c) or 8334(j) of this title;
+&emsp;(2) military service, except to the extent provided under section 8332(c) or section 8334(j) of this title;
 
 &emsp;(3) service for the Panama Railroad Company before January 1, 1924;
 
@@ -134,7 +134,7 @@
 
 (i)(1) The Director of the Administrative Office of the United States Courts shall pay to the Fund the amount which an employee may deposit under subsection (c) of this section for service creditable under section 8332(b)(12) of this title if such creditable service immediately precedes service as an employee subject to this subchapter with a break in service of no more than ninety working days. The Director shall pay such amount from any appropriation available to him as a necessary expense of the appropriation concerned.
 
-(2) The amount the Director pays in accordance with paragraph (1) of this subsection shall be reduced by the amount of any refund to the employee under section 376 of title 28. Except tothe extent of such reduction, the amount the Director pays to the Fund shall satisfy the deposit requirement of subsection (c) of this section.
+(2) The amount the Director pays in accordance with paragraph (1) of this subsection shall be reduced by the amount of any refund to the employee under section 376 of title 28. Except to the extent of such reduction, the amount the Director pays to the Fund shall satisfy the deposit requirement of subsection (c) of this section.
 
 (3) Notwithstanding any other provision of law, the amount the Director pays under this subsection shall constitute an employer contribution to the Fund, excludable under section 402 of the Internal Revenue Code of 1986 from the employee's gross income until such time as the contribution is distributed or made available to the employee, and shall not be subject to refund or to lump-sum payment to the employee.
 
@@ -198,7 +198,7 @@
 
 &emsp;(B) the term “Federal wages”, as applied with respect to any individual to whom this subsection applies as a result of subparagraph (A), means basic pay for any employment referred to in subparagraph (A)(ii).
 
-(<i>l</i>)(1) Each employee or Member who has performed service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act before the date of the separation on which the entitlement to any annuity under this subchapter is based may pay, in accordance with such regulations as the Office of Personnel Management shall issue, an amount equal to 7 percent of the readjustment allowance paid to the employee or Member under title VIII of the Economic Opportunity Act of 1964 or section 5(c) or 6(1) of the Peace Corps Act or the stipend paid to the employee or Member under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973, for each period of service as such a volunteer or volunteer leader. This paragraph shall be subject to paragraph (4).
+(<i>l</i>)(1) Each employee or Member who has performed service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B,<sup>3</sup> or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act before the date of the separation on which the entitlement to any annuity under this subchapter is based may pay, in accordance with such regulations as the Office of Personnel Management shall issue, an amount equal to 7 percent of the readjustment allowance paid to the employee or Member under title VIII of the Economic Opportunity Act of 1964 or section 5(c) or 6(1) of the Peace Corps Act or the stipend paid to the employee or Member under part A, B,<sup>3</sup> or C of title I of the Domestic Volunteer Service Act of 1973, for each period of service as such a volunteer or volunteer leader. This paragraph shall be subject to paragraph (4).
 
 (2) Any deposit made under paragraph (1) more than 2 years after the later of—
 
@@ -210,13 +210,13 @@
 
 (3) The Director of the Peace Corps and the Chief Executive Officer of the Corporation for National and Community Service shall furnish such information to the Office of Personnel Management as the Office may determine to be necessary for the administration of this subsection.
 
-(4) Effective with respect to any period of service after December 31, 1998, the percentage of the readjustment allowance or stipend (as the case may be) payable under paragraph (1) shall be equal to the same percentage as would be applicable under subsection (c) of this section for the same period for service as an employee.
+(4) Effective with respect to any period of service after December 31, 1998, the percentage of thereadjustment allowance or stipend (as the case may be) payable under paragraph (1) shall be equal to the same percentage as would be applicable under subsection (c) of this section for the same period for service as an employee.
 
 (m) A Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, or the survivor of such a Member, may deposit to the credit of the Fund an amount equal to the difference between the amount deducted from the basic pay of the Member during that period of service and the amount that would have been deducted if the rate of basic pay which would otherwise have been in effect during that period had been in effect, plus interest computed under subsection (e).
 
 (n) Notwithstanding subsection (c), no deposit may be made with respect to service credited under section 8332(b)(17).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 569; Pub. L. 90–83, §1(74), Sept. 11, 1967, 81 Stat. 214; Pub. L. 90–486, §5(b), Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–93, title I, §102(a), title II, §202, Oct. 20, 1969, 83 Stat. 136, 138; Pub. L. 92–297, §7(2), May 16, 1972, 86 Stat. 144; Pub. L. 93–350, §3, July 12, 1974, 88 Stat. 356; Pub. L. 94–126, §§1(a), 2(a), Nov. 12, 1975, 89 Stat. 679; Pub. L. 95–382, §1(b), Sept. 22, 1978, 92 Stat. 727; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–598, title III, §338(b), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 97–164, title II, §207(b), Apr. 2, 1982, 96 Stat. 54; Pub. L. 97–253, title III, §§303(a)(1), 306(d), (e), Sept. 8, 1982, 96 Stat. 793, 796, 797; Pub. L. 97–346, §3(a), (c)–(e)(1), Oct. 15, 1982, 96 Stat. 1647, 1648; Pub. L. 98–94, title XII, §§1256(a), 1257, Sept. 24, 1983, 97 Stat. 701, 702; Pub. L. 89–702, title II, §209(f), as added Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 843; Pub. L. 98–353, title I, §116(b), July 10, 1984, 98 Stat. 344; Pub. L. 98–615, §2(2), Nov. 8, 1984, 98 Stat. 3195; Pub. L. 99–335,title II, §201(a), (c), June 6, 1986, 100 Stat. 588, 591; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–53, §2(b), June 18, 1987, 101 Stat. 367; Pub. L. 100–238, title I, §§102, 108(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1748; Pub. L. 100–659, §6(b), Nov. 15, 1988, 102 Stat. 3919; Pub. L. 101–94, title I, §102(a), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–508, title VII, §7001(b)(1), (2)(A), (B), Nov. 5, 1990, 104 Stat. 1388–328, 1388–329; Pub. L. 101–650, title III, §§306(c)(2), (e)(2), 321, Dec. 1, 1990, 104 Stat. 5110, 5112, 5117; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–378, §2(59), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XI, §11004(a)(3), Aug. 10, 1993, 107 Stat. 412; Pub. L. 103–82, title III, §371(a)(2), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 103–353, §5(b), Oct. 13, 1994, 108 Stat. 3173; Pub. L. 104–186, title II, §215(12), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(a)(3), (4), Aug. 5, 1997, 111 Stat. 653, 657; Pub. L. 105–61, title V, §516(a)(1), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 105–261, div. C, title XXXI, §3154(c)(1), (2), Oct. 17, 1998, 112 Stat. 2254; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–346, §101(a) \[title V, §505(a)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–50; Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(1)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–86; Pub. L. 107–107, div. A, title XI, §1132(a)(2), Dec. 28, 2001, 115 Stat. 1243; Pub. L. 108–18, §2(b), Apr. 23, 2003, 117 Stat. 624; Pub. L. 109–435, title VIII, §802(a)(1), Dec. 20, 2006, 120 Stat. 3249; Pub. L. 110–161, div. E, title V, §535(a)(2), Dec. 26, 2007, 121 Stat. 2075.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 569; Pub. L. 90–83, §1(74), Sept. 11, 1967, 81 Stat. 214; Pub. L. 90–486, §5(b), Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–93, title I, §102(a), title II, §202, Oct. 20, 1969, 83 Stat. 136, 138; Pub. L. 92–297, §7(2), May 16, 1972, 86 Stat. 144; Pub. L. 93–350, §3, July 12, 1974, 88 Stat. 356; Pub. L. 94–126, §§1(a), 2(a), Nov. 12, 1975, 89 Stat. 679; Pub. L. 95–382, §1(b), Sept. 22, 1978, 92 Stat. 727; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–598, title III, §338(b), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 97–164, title II, §207(b), Apr. 2, 1982, 96 Stat. 54; Pub. L. 97–253, title III, §§303(a)(1), 306(d), (e), Sept. 8, 1982, 96 Stat. 793, 796, 797; Pub. L. 97–346, §3(a), (c)–(e)(1), Oct. 15, 1982, 96 Stat. 1647, 1648; Pub. L. 98–94, title XII, §§1256(a), 1257, Sept. 24, 1983, 97 Stat. 701, 702; Pub. L. 89–702, title II, §209(f), as added Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 843; Pub. L. 98–353, title I, §116(b), July 10, 1984, 98 Stat. 344; Pub. L. 98–615, §2(2), Nov. 8, 1984, 98 Stat. 3195; Pub. L. 99–335, title II, §201(a), (c), June 6, 1986, 100 Stat. 588, 591; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–53, §2(b), June 18, 1987, 101 Stat. 367; Pub. L. 100–238, title I, §§102, 108(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1748; Pub. L. 100–659, §6(b), Nov. 15, 1988, 102 Stat. 3919; Pub. L. 101–94, title I, §102(a), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–508, title VII, §7001(b)(1), (2)(A), (B), Nov. 5, 1990, 104 Stat. 1388–328, 1388–329; Pub. L. 101–650, title III, §§306(c)(2), (e)(2), 321, Dec. 1, 1990, 104 Stat. 5110, 5112, 5117; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–378, §2(59), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XI, §11004(a)(3), Aug. 10, 1993, 107 Stat. 412; Pub. L. 103–82, title III, §371(a)(2), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 103–353, §5(b), Oct. 13, 1994, 108 Stat. 3173; Pub. L. 104–186, title II, §215(12), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(a)(3), (4), Aug. 5, 1997, 111 Stat. 653, 657; Pub. L. 105–61, title V, §516(a)(1), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 105–261, div. C, title XXXI, §3154(c)(1), (2), Oct. 17, 1998, 112 Stat. 2254; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–346, §101(a) \[title V, §505(a)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–50; Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(1)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–86; Pub. L. 107–107, div. A, title XI, §1132(a)(2), Dec. 28, 2001, 115 Stat. 1243; Pub. L. 108–18, §2(b), Apr. 23, 2003, 117 Stat. 624; Pub. L. 109–435, title VIII, §802(a)(1), Dec. 20, 2006, 120 Stat. 3249; Pub. L. 110–161, div. E, title V, §535(a)(2), Dec. 26, 2007, 121 Stat. 2075; Pub. L. 111–84, div. A, title XIX, §1902(a), Oct. 28, 2009, 123 Stat. 2615.)
 
 Historical and Revision Notes<br>1966
 
@@ -282,15 +282,17 @@ Sections 402 and 3101(a) and chapter 21 of the Internal Revenue Code of 1986, re
 
 Section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988, referred to in subsec. (i)(4), is section 2(c) of Pub. L. 100–659, which is set out as a note under section 377 of Title 28, Judiciary and Judicial Procedure.
 
-The Social Security Act, referred to in subsec. (k)(2)(C)(ii), (4)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 230 of the Social Security Act is classified to section 430 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (k)(2)(C)(ii), (4)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 230 of the Social Security Act is classified to section 430 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Economic Opportunity Act of 1964, referred to in subsec. (<i>l</i>)(1), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Title VIII of the Act probably means title VIII of Pub. L. 88–452 as added by Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80 Stat. 1472, and generally revised and amended by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452 as added by Pub. L. 90–222, §110, which was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, §603. See sections 4951 et seq. and 5055 of Title 42. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in subsec. (<i>l</i>)(1), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Title VIII of the Act probably means title VIII of Pub. L. 88–452 as added by Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80 Stat. 1472, and generally revised and amended by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452 as added by Pub. L. 90–222, §110, which was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, §603. See sections 4951 et seq. and 5055 of Title 42. For complete classification of this Act to the Code, see Tables.
 
-Parts A, B, and C of title I of the Domestic Volunteer Service Act of 1973, referred to in subsec. (<i>l</i>)(1), are classified to part A (§4951 et seq.), part B (§4971 et seq.), and part C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (<i>l</i>)(1), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Parts A and C of title I of the Act are classified generally to parts A (§4951 et seq.) and C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which was classified generally to part B (§4971 et seq.) of subchapter I of chapter 66 of Title 42, was repealed by Pub. L. 111–13, title II, §2121, Apr. 21, 2009, 123 Stat. 1584. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
-The Peace Corps Act, referred to in subsec. (<i>l</i>)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in subsec. (<i>l</i>)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 #### Amendments
+
+2009—Subsec. (d)(2)(A)(i). Pub. L. 111–84 substituted “March 1, 1991” for “October 1, 1990” in two places.
 
 2007—Subsec. (a)(1)(A). Pub. L. 110–161, §535(a)(2)(A), substituted “nuclear materials courier, or customs and border protection officer,” for “or nuclear materials courier,”.
 
@@ -472,7 +474,7 @@ Subsec. (c). Pub. L. 93–350, §3(b), inserted schedule for law enforcement off
 
 Subsec. (a)(2). Pub. L. 91–93, §102(a)(1), designated third and fourth sentences of subsec. (a) as subsec. (a)(2), deleting “under this section” after “Member”.
 
-Subsec. (c). Pub. L. 91–93, §102(a)(2), substituted service period Nov. 1, 1956, to Dec. 31, 1969, for prior serviceperiod after Oct. 31, 1956, for deductions of 61/2 percent of basic pay of an employee, inserted provision for 7 percent deduction from basic pay of an employee for service period after Dec. 31, 1969, inserted percentage of basic pay and service period provisions for Member or employee for Congressional employee service, substituted service period Nov. 1, 1956; to Dec. 31, 1969, for prior service period after Oct. 31, 1956, for deduction of 71/2 percent of basic pay of Member for Member service, inserted provision for 8 percent deduction from basic pay of Member for Member service after Dec. 31, 1969, and inserted provision for amount of deposit for period of service performed before Jan. 1, 1969.
+Subsec. (c). Pub. L. 91–93, §102(a)(2), substituted service period Nov. 1, 1956, to Dec. 31, 1969, for prior service period after Oct. 31, 1956, for deductions of 61/2 percent of basic pay of an employee, inserted provision for 7 percent deduction from basic pay of an employee for service period after Dec. 31, 1969, inserted percentage of basic pay and service period provisions for Member or employee for Congressional employee service, substituted service period Nov. 1, 1956; to Dec. 31, 1969, for prior service period after Oct. 31, 1956, for deduction of 71/2 percent of basic pay of Member for Member service, inserted provision for 8 percent deduction from basic pay of Member for Member service after Dec. 31, 1969, and inserted provision for amount of deposit for period of service performed before Jan. 1, 1969.
 
 Subsec. (g)(5). Pub. L. 91–93, §202, added par. (5).
 
@@ -481,6 +483,10 @@ Subsec. (g)(5). Pub. L. 91–93, §202, added par. (5).
 #### Change of Name
 
 “United States magistrate judge” and “magistrate judge” substituted for “United States magistrate” and “magistrate”, respectively, wherever appearing in subsecs. (c) and (i)(4) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–84, div. A, title XIX, §1902(b), Oct. 28, 2009, 123 Stat. 2615, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to any annuity, entitlement to which is based on a separation from service occurring on or after the date of enactment of this Act \[Oct. 28, 2009\].”
 
 #### Effective Date of 2007 Amendment; Transition Rules
 
@@ -514,7 +520,7 @@ Pub. L. 106–346, §101(a) \[title V, §505(i)\], Oct. 23, 2000, 114 Stat. 1356
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
+Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17,1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
 
 #### Effective Date of 1997 Amendments
 
@@ -550,7 +556,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Effective Date of 1990 Amendments
 
-Amendment by Pub. L. 101–650 applicable to judges of, and senior judges in active service with, the UnitedStates Court of Federal Claims on or after Dec. 1, 1990, see section 306(f) of Pub. L. 101–650, set out as a note under section 8331 of this title.
+Amendment by Pub. L. 101–650 applicable to judges of, and senior judges in active service with, the United States Court of Federal Claims on or after Dec. 1, 1990, see section 306(f) of Pub. L. 101–650, set out as a note under section 8331 of this title.
 
 Section 7001(b)(3) of Pub. L. 101–508 provided that: “The amendments made by this subsection \[amending this section and sections 8339 and 8342 of this title\] shall be effective with respect to any annuity having a commencement date later than December 1, 1990.”
 
@@ -584,7 +590,7 @@ Section 303(d)(1) of Pub. L. 97–253, as amended by Pub. L. 97–346, §3(j)(1)
 
 “The amendments made by subsections (a) and (b) \[amending this section and sections 8339 and 8343 of this title\] shall apply with respect to deposits for service performed on or after October 1, 1982, and with respect to refunds for which application is received by either the employing agency or the Office of Personnel Management on or after such date. The provisions of section 8334 and section 8339(i) of title 5, United States Code, as in effect the day before the date of the enactment of this Act \[Sept. 7, 1982\], shall continue to apply with respect to periods of service and refunds occurring on or before September 30, 1982. Notwithstanding the preceding two sentences, the amendments made by subsection (a) shall apply in the case of any deposit for military service under section 8334(j) of title 5, United States Code (as added by section 306(d) of this Act), regardless of whether such military service was performed before or after October 1, 1982.”
 
-Amendment by section 306(d), (e) of Pub. L. 97–253 effective Oct. 1, 1982, except that any employee or Member who retired after Sept. 8, 1982, and before Oct. 1, 1985, or is entitled to an annuity under chapter 83 of this title based on a separation from service occurring during such period, or a survivor of such individual, may make a payment under section 8334(j)(1) of this title, and regulations required to be issued under section 8334(j)(1) of this title, to be issued by the Office of Personnel Management within 90 days after such effective date, see section 306(g) of Pub. L. 97–253, as amended, set out as a note under section 8331 of this title.
+Amendment by section 306(d), (e) of Pub. L. 97–253 effective Oct. 1, 1982, except that any employee or Member who retired after Sept. 8, 1982, and before Oct. 1, 1985, or is entitled to an annuity under chapter 83 of this title based on a separation from service occurring during such period, or a survivor of such individual, may make a payment under section 8334(j)(1) of this title, and regulations required to be issued under section 8334(j)(1) of this title, to be issued by the Office ofPersonnel Management within 90 days after such effective date, see section 306(g) of Pub. L. 97–253, as amended, set out as a note under section 8331 of this title.
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
@@ -616,7 +622,7 @@ Amendment by Pub. L. 91–93 inapplicable in cases of persons retired or otherwi
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–486 effective Jan. 1, 1969, except that no deductions or withholding from salarywhich result therefrom shall commence before first day of first pay period that begins on or after Jan. 1, 1968, see section 11 of Pub. L. 90–486, set out as a note under section 709 of Title 32, National Guard.
+Amendment by Pub. L. 90–486 effective Jan. 1, 1969, except that no deductions or withholding from salary which result therefrom shall commence before first day of first pay period that begins on or after Jan. 1, 1968, see section 11 of Pub. L. 90–486, set out as a note under section 709 of Title 32, National Guard.
 
 #### Contributions to Federal Civil Service Retirement System
 
@@ -713,4 +719,6 @@ Amendment by Pub. L. 90–486 not applicable to persons employed prior to Jan. 1
 <i><sup>1</sup></i><i> So in original. Probably should be “United States magistrate judge,”.</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

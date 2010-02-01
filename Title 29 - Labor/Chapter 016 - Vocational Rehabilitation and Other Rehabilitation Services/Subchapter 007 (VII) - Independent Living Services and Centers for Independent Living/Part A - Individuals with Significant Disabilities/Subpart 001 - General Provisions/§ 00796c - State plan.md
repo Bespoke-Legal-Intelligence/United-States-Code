@@ -58,7 +58,7 @@ The plan shall—
 
 #### (e) Independent living services
 
-The plan shall provide that the State will provide independent living services under this part to individuals with significant disabilities, and will provide the services to such an individual inaccordance with an independent living plan mutually agreed upon by an appropriate staff member of the service provider and the individual, unless the individual signs a waiver stating that such a plan is unnecessary.
+The plan shall provide that the State will provide independent living services under this part to individuals with significant disabilities, and will provide the services to such an individual in accordance with an independent living plan mutually agreed upon by an appropriate staff member of the service provider and the individual, unless the individual signs a waiver stating that such a plan is unnecessary.
 
 #### (f) Scope and arrangements
 
@@ -70,7 +70,7 @@ The plan shall set forth a design for the establishment of a statewide network o
 
 #### (h) Centers
 
-In States in which State funding for centers for independent living equals or exceeds the amount of funds allotted to the State under subpart 3, as provided in section 796f–2 of this title, the plan shall include policies, practices, and procedures governing the awarding of grants to centers for independent living and oversight of such centers consistent with section 796f–2 of this title.
+In States in which State funding for centers for independent living equals or exceeds theamount of funds allotted to the State under subpart 3, as provided in section 796f–2 of this title, the plan shall include policies, practices, and procedures governing the awarding of grants to centers for independent living and oversight of such centers consistent with section 796f–2 of this title.
 
 #### (i) Cooperation, coordination, and working relationships among various entities
 

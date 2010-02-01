@@ -12,7 +12,7 @@ Not later than 60 days after November 25, 2002, the Secretary of the Treasury sh
 
 #### References in Text
 
-The effective date of this chapter and the effective date of this section, referred to in text, is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
+The effective date of this chapter and the effective date of this section, referred to in text, is 60 days afterNov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
 
 #### Change of Name
 

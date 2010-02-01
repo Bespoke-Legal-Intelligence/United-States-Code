@@ -24,7 +24,7 @@ The interest on, and the proceeds from the sale or redemption of, any obligation
 
 #### (e) Payments for implementation of programs and necessary expenses of Commission; appropriation of amounts; exceptions
 
-In accordance with section 2905(4) of this title, the Secretary shall pay out of the Fund such amounts, including expenses of the Commission, as the Commission considers necessary to carry out the provisions of this chapter; except that amounts in the Fund, other than amounts which have been appropriated and amounts received (including amounts earned as interest on, and proceeds from the sale or redemption of, obligations purchased with amounts received) by the Commission pursuant to sections 2905(2) and (3) of this title, shall be subject to the appropriation process.
+In accordance with section 2905(4) of this title, the Secretary shall pay out of the Fund such amounts, including expenses of the Commission, as the Commission considers necessary to carryout the provisions of this chapter; except that amounts in the Fund, other than amounts which have been appropriated and amounts received (including amounts earned as interest on, and proceeds from the sale or redemption of, obligations purchased with amounts received) by the Commission pursuant to sections 2905(2) and (3) of this title, shall be subject to the appropriation process.
 
 (Pub. L. 94–118, §7, Oct. 20, 1975, 89 Stat. 606; Pub. L. 94–350, title IV, §401(3)(B), July 12, 1976, 90 Stat. 833; Pub. L. 97–241, title V, §503(b), Aug. 24, 1982, 96 Stat. 298; Pub. L. 105–277, div. A, §101(b) \[title IV, §404(b)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–101.)
 

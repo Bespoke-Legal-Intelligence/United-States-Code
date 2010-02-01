@@ -1,0 +1,72 @@
+### §2322. Office of Trade Adjustment Assistance
+
+#### (a) Establishment
+
+There is established in the Department of Labor an office to be known as the Office of Trade Adjustment Assistance (in this section referred to as the “Office”).
+
+#### (b) Head of Office
+
+The head of the Office shall be an administrator, who shall report directly to the Deputy Assistant Secretary for Employment and Training.
+
+#### (c) Principal functions
+
+The principal functions of the administrator of the Office shall be—
+
+&emsp;(1) to oversee and implement the administration of trade adjustment assistance program under this part; and
+
+&emsp;(2) to carry out functions delegated to the Secretary of Labor under this part, including—
+
+&emsp;&emsp;(A) making determinations under section 2273 of this title;
+
+&emsp;&emsp;(B) providing information under section 2275 of this title about trade adjustment assistance to workers and assisting such workers to prepare petitions or applications for program benefits;
+
+&emsp;&emsp;(C) providing assistance to employers of groups of workers that have filed petitions under section 2271 of this title in submitting information required by the Secretary relating to the petitions;
+
+&emsp;&emsp;(D) ensuring workers covered by a certification of eligibility under subpart A receive the employment and case management services described in section 2295 of this title;
+
+&emsp;&emsp;(E) ensuring that States fully comply with agreements entered into under section 2311 of this title;
+
+&emsp;&emsp;(F) advocating for workers applying for benefits available under this part;
+
+&emsp;&emsp;(G) establishing and overseeing a hotline that workers, employers, and other entities may call to obtain information regarding eligibility criteria, procedural requirements, and benefits available under this part; and
+
+&emsp;&emsp;(H) carrying out such other duties with respect to this part as the Secretary specifies for purposes of this section.
+
+#### (d) Administration
+
+#### (1) Designation
+
+&emsp;The administrator shall designate an employee of the Department of Labor with appropriate experience and expertise to carry out the duties described in paragraph (2).
+
+#### (2) Duties
+
+&emsp;The employee designated under paragraph (1) shall—
+
+&emsp;&emsp;(A) receive complaints and requests for assistance related to the trade adjustment assistance program under this part;
+
+&emsp;&emsp;(B) resolve such complaints and requests for assistance, in coordination with other employees of the Office;
+
+&emsp;&emsp;(C) compile basic information concerning such complaints and requests for assistance; and
+
+&emsp;&emsp;(D) carry out such other duties with respect to this part as the Secretary specifies for purposes of this section.
+
+(Pub. L. 93–618, title II, §249A, as added Pub. L. 111–5, div. B, title I, §1851(a), Feb. 17, 2009, 123 Stat. 389.)
+
+#### Termination of Section
+
+<i>For termination of section by section 1893 of Pub. L. 111–5, see Effective and Termination Dates note below.</i>
+
+#### Prior Provisions
+
+A prior section 2322, Pub. L. 93–618, title II, §249A, as added Pub. L. 103–182, title V, §503(c), Dec. 8, 1993, 107 Stat. 2151, prohibited assistance relating to a separation pursuant to certifications under subparts A and D of this part, prior to repeal by Pub. L. 107–210, div. A, title I, §123(b)(2), (c), Aug. 6, 2002, 116 Stat. 944, applicable with respect to petitions filed under this part on or after the date that was 90 days after Aug. 6, 2002, except with respect to certain workers.
+
+Another prior section 2322, Pub. L. 93–618, title II, §250, Jan. 3, 1975, 88 Stat. 2029, provided for judicial review for workers or groups aggrieved by a final determination by the Secretary under section 2273 of this title, prior to repeal by Pub. L. 96–417, title VI, §612, title VII, §701(a), Oct. 10, 1980, 94 Stat. 1746, 1747, effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date. See section 2395 of this title.
+
+#### Effective and Termination Dates
+
+Except as otherwise provided and subject to certain applicability provisions, section effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of this title.
+
+Except as otherwise provided, section not applicable on or after Jan. 1, 2011, and this part to be applied and administered beginning Jan. 1, 2011, as if this section had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a Termination Date note preceding section 2271 of this title.
+

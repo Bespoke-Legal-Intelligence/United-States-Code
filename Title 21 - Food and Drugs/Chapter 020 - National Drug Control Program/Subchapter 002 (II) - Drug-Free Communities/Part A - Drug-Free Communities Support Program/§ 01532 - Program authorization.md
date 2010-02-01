@@ -124,7 +124,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (iv), for a fiscal year, the Administrator may grant to an eligible coalition under this paragraph, an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year.
+&emsp;&emsp;&emsp;Subject to clause (iv), for a fiscal year, the Administrator may grant to an eligiblecoalition under this paragraph, an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year.
 
 #### (ii) Suspension of grants
 
@@ -170,7 +170,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (B) Renewal grants
 
-&emsp;&emsp;The Administrator may award a renewal grant to an eligible coalition that is a grantrecipient under this paragraph for each fiscal year following the fiscal year for which an initial grant is awarded, in an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, during the 4-year period following the period of the initial grant.
+&emsp;&emsp;The Administrator may award a renewal grant to an eligible coalition that is a grant recipient under this paragraph for each fiscal year following the fiscal year for which an initial grant is awarded, in an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, during the 4-year period following the period of the initial grant.
 
 #### (C) Limitations
 
@@ -198,7 +198,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (D) Renewal grants
 
-&emsp;&emsp;Subject to subparagraph (F), the Administrator may award a renewal grant to a grant recipient under this paragraph for each of the fiscal years of the 4-fiscal-year period following the fiscal year for which the initial additional grant under subparagraph (A) is awarded in an amount not to exceed amounts as follows:
+&emsp;&emsp;Subject to subparagraph (F), the Administrator may award a renewal grant to a grant recipient under this paragraph for each of the fiscal years of the 4-fiscal-year period following the fiscal year for which the initial additional grant under subparagraph (A)is awarded in an amount not to exceed amounts as follows:
 
 &emsp;&emsp;&emsp;(i) For the first and second fiscal years of that 4-fiscal-year period, the amount equal to 80 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year.
 

@@ -52,7 +52,7 @@ Subsec. (c). Pub. L. 99–514, §1273(b)(2)(B), amended subsec. (c) generally, s
 
 1984—Subsec. (a). Pub. L. 98–369, §474(r)(29)(I), struck out “or section 1451” after “provided in section 1441” and struck out “; except that, in the case of interest described in section 1451 (relating to tax-free covenant bonds), the deduction and withholding shall be at the rate specified therein” after “a tax equal to 30 percent thereof”.
 
-Pub. L. 98–369, §127(e)(2), struck out “and” after “section 881(a)(4),” and inserted “, and the references in section 1449(c)(9) to sections 871(h)(2) and 871(h)(3) shall be treated as referring to sections 881(c)(2) and 881(c)(3)”.
+Pub. L. 98–369, §127(e)(2), struck out “and” after “section 881(a)(4),” and inserted “, and the references in section 1449(c)(9) to sections 871(h)(2) and 871(h)(3) shallbe treated as referring to sections 881(c)(2) and 881(c)(3)”.
 
 Subsec. (c). Pub. L. 98–369, §130(b), substituted provision relating to exception for certain Guam and Virgin Islands corporations for provision relating to exception for Guam corporations.
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1273(b)(2)(B) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, seesection 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
+Amendment by section 1273(b)(2)(B) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
 Amendment by section 1810(d)(3)(E) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

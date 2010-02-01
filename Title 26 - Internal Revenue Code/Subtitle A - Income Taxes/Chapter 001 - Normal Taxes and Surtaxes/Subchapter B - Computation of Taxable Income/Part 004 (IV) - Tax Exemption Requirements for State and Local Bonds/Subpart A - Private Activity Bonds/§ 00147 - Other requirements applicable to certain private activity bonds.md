@@ -160,7 +160,7 @@
 
 &emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2007” for “calendar year 1992” in subparagraph (B) thereof.
 
-> &emsp;&emsp;If any amount as increased under the preceding sentence is not a multiple of $100, suchamount shall be rounded to the nearest multiple of $100.
+> &emsp;&emsp;If any amount as increased under the preceding sentence is not a multiple of $100, such amount shall be rounded to the nearest multiple of $100.
 
 #### (3) Exception for certain land acquired for environmental purposes, etc.
 
@@ -320,7 +320,7 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 &emsp;Subsection (c) shall not apply to any exempt facility bond issued as part of an issue described in section 142(a)(13) (relating to qualified public educational facilities).
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2635; amended Pub. L. 100–647, title I, §1013(a)(11)–(13)(B), (29), (36), title VI, §6180(b)(4), (5), Nov. 10, 1988, 102 Stat. 3539, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(3),Dec. 19, 1989, 103 Stat. 2423; Pub. L. 101–508, title XI, §11813(b)(8), Nov. 5, 1990, 104 Stat. 1388–552; Pub. L. 104–188, title I, §1117(a), (b), Aug. 20, 1996, 110 Stat. 1764; Pub. L. 107–16, title IV, §422(d), (e), June 7, 2001, 115 Stat. 66; Pub. L. 110–234, title XV, §15341(a)–(d), May 22, 2008, 122 Stat. 1517; Pub. L. 110–246, §4(a), title XV, §15341(a)–(d), June 18, 2008, 122 Stat. 1664, 2279.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2635; amended Pub. L. 100–647, title I, §1013(a)(11)–(13)(B), (29), (36), title VI, §6180(b)(4), (5), Nov. 10, 1988, 102 Stat. 3539, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(3), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 101–508, title XI, §11813(b)(8), Nov. 5, 1990, 104 Stat. 1388–552; Pub. L. 104–188, title I, §1117(a), (b), Aug. 20, 1996, 110 Stat. 1764; Pub. L. 107–16, title IV, §422(d), (e), June 7, 2001, 115 Stat. 66; Pub. L. 110–234, title XV, §15341(a)–(d), May 22, 2008, 122 Stat. 1517; Pub. L. 110–246, §4(a), title XV, §15341(a)–(d), June 18, 2008, 122 Stat. 1664, 2279.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -408,7 +408,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Section 1013(a)(13)(C) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amendingthis section\] shall apply to bonds issued after June 30, 1987.”
+Section 1013(a)(13)(C) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amending this section\] shall apply to bonds issued after June 30, 1987.”
 
 Amendment by section 1013(a)(11), (12), (29), (36) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -420,5 +420,5 @@ Subsec. (f) applicable to bonds issued after Dec. 31, 1986, see section 1311(d) 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

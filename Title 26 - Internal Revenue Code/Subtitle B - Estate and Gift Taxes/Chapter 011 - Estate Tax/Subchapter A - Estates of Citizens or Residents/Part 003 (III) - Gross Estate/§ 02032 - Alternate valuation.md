@@ -18,7 +18,7 @@ No deduction under this chapter of any item shall be allowed if allowance for su
 
 &emsp;(2) for the purpose of the marital deduction under section 2056, any interest in property passing to the surviving spouse,
 
-> shall be valued as of the date of the decedent's death with adjustment for any difference in value (not due to mere lapse of time or the occurrence or nonoccurrence of a contingency) of the property as of the date 6 months after the decedent's death (substituting, in the case of property distributed by the executor or trustee, or sold, exchanged, or otherwise disposed of, during such 6-month period, the date thereof).
+> shall be valued as of the date of the decedent's death with adjustment for any difference in value (not due to mere lapse of time or the occurrence or nonoccurrence of a contingency) of the property as of the date 6 months after the decedent's death (substituting, in the case ofproperty distributed by the executor or trustee, or sold, exchanged, or otherwise disposed of, during such 6-month period, the date thereof).
 
 #### (c) Election must decrease gross estate and estate tax
 
@@ -38,7 +38,7 @@ No election may be made under this section with respect to an estate unless such
 
 &emsp;No election may be made under this section if such return is filed more than 1 year after the time prescribed by law (including extensions) for filing such return.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 381; Pub. L. 91–614, title I, §101(a), Dec. 31, 1970, 84 Stat. 1836;Pub. L. 98–369, div. A, title X, §§1023(a), 1024(a), July 18, 1984, 98 Stat. 1030; Pub. L. 99–514, title XIV, §1432(c)(1), Oct. 22, 1986, 100 Stat. 2730.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 381; Pub. L. 91–614, title I, §101(a), Dec. 31, 1970, 84 Stat. 1836; Pub. L. 98–369, div. A, title X, §§1023(a), 1024(a), July 18, 1984, 98 Stat. 1030; Pub. L. 99–514, title XIV, §1432(c)(1), Oct. 22, 1986, 100 Stat. 2730.)
 
 #### Amendments
 

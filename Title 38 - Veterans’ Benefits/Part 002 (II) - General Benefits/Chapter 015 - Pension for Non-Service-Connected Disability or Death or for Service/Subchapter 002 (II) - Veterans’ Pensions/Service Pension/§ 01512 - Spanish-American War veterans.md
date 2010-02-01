@@ -14,7 +14,7 @@
 
 &emsp;(C) for a period of ninety consecutive days or more and such period began or ended during the Spanish-American War.
 
-(3)(A) Any veteran eligible for pension under this subsection shall, if such veteran so elects, be paid pension at the rates prescribed by section 1521 of this title (except the rate provided under subsection (g) of such section), and under the conditions (other than the service requirements) applicable to pension paid under that section to veterans of a period of war. If pension is paid pursuant to such an election, the election shall be irrevocable.
+(3)(A) Any veteran eligible for pension under this subsection shall, if such veteran so elects,be paid pension at the rates prescribed by section 1521 of this title (except the rate provided under subsection (g) of such section), and under the conditions (other than the service requirements) applicable to pension paid under that section to veterans of a period of war. If pension is paid pursuant to such an election, the election shall be irrevocable.
 
 (B) The Secretary shall pay each month to each Spanish-American War veteran who is receiving, or entitled to receive, pension based on a need of regular aid and attendance, whichever amount is greater (i) that provided by subparagraph (B) of subsection (a)(1) of this section, or (ii) that which is payable to the veteran under section 1521 of this title as in effect on December 31, 1978, under regulations which the Secretary shall prescribe. Each change in the amount of pension payment required by this subparagraph shall be effective as of the first day of the month during which the facts of the particular case warrant such change, and shall be made without specific application therefor.
 

@@ -72,7 +72,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) after the close of the testing period and before the date of issuance of the issue, the utility owned by a governmental unit enters into a contract to supply natural gas (other than for resale) for a business use at a property within the service area of such utility, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the utility did not supply natural gas to such property during the testing period or the ratable amount of natural gas to be supplied under the contract is significantly greater than the ratableamount of gas supplied to such property during the testing period,
+&emsp;&emsp;&emsp;&emsp;(II) the utility did not supply natural gas to such property during the testing period or the ratable amount of natural gas to be supplied under the contract is significantly greater than the ratable amount of gas supplied to such property during the testing period,
 
 &emsp;&emsp;&nbsp;then a contract shall not fail to be treated as a qualified natural gas supply contract by reason of supplying the additional natural gas under the contract referred to in subclause (I).
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (E) Ruling requests
 
-&emsp;&emsp;The Secretary may increase the average under subparagraph (B)(i) for any period if the utility owned by the governmental unit establishes to the satisfaction of the Secretary that, based on objective evidence of growth in natural gas consumption or population, such average would otherwise be insufficient for such period.
+&emsp;&emsp;The Secretary may increase the average under subparagraph (B)(i) for any period ifthe utility owned by the governmental unit establishes to the satisfaction of the Secretary that, based on objective evidence of growth in natural gas consumption or population, such average would otherwise be insufficient for such period.
 
 #### (F) Adjustment for natural gas otherwise on hand
 
@@ -156,11 +156,11 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a), a bond shall not be treated as an arbitrage bond solely byreason of the fact that an amount of the proceeds of the issue of which such bond is a part may be invested in higher yielding investments which are part of a reasonably required reserve or replacement fund. The amount referred to in the preceding sentence shall not exceed 10 percent of the proceeds of such issue unless the issuer establishes to the satisfaction of the Secretary that a higher amount is necessary.
+&emsp;For purposes of subsection (a), a bond shall not be treated as an arbitrage bond solely by reason of the fact that an amount of the proceeds of the issue of which such bond is a part may be invested in higher yielding investments which are part of a reasonably required reserve or replacement fund. The amount referred to in the preceding sentence shall not exceed 10 percent of the proceeds of such issue unless the issuer establishes to the satisfaction of the Secretary that a higher amount is necessary.
 
 #### (2) Limitation on amount in reserve or replacement fund which may be financed by issue
 
-&emsp;A bond issued as part of an issue shall be treated as an arbitrage bond if the amount of the proceeds from the sale of such issue which is part of any reserve or replacement fund exceeds 10 percent of the proceeds of the issue (or such higher amount which the issuer establishes is necessary to the satisfaction of the Secretary).
+&emsp;A bond issued as part of an issue shall be treated as an arbitrage bond if the amount of the proceeds from the sale of such issue which is part of any reserve or replacement fund exceeds 10 percent of the proceeds of the issue\(or such higher amount which the issuer establishes is necessary to the satisfaction of the Secretary).
 
 #### (e) Minor portion may be invested in higher yielding investments
 
@@ -304,7 +304,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (II) Earnings on reserve included only for certain periods
 
-&emsp;&emsp;&emsp;&emsp;The term “available construction proceeds” shall not include amounts earned on any reasonably required reserve or replacement fund after the earlier of the close of the 2-year period described in clause (ii) or the date the construction is substantially completed.
+&emsp;&emsp;&emsp;&emsp;The term “available construction proceeds” shall not include amounts earnedon any reasonably required reserve or replacement fund after the earlier of the close of the 2-year period described in clause (ii) or the date the construction is substantially completed.
 
 #### (III) Payments on acquired purpose obligations excluded
 
@@ -434,7 +434,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (iii) Certain refunding bonds not taken into account in determining small issuer status
 
-&emsp;&emsp;&emsp;There shall not be taken into account under subclause (IV) of clause (i) any bond issued to refund (other than to advance refund) any bond to the extent the amountof the refunding bond does not exceed the outstanding amount of the refunded bond.
+&emsp;&emsp;&emsp;There shall not be taken into account under subclause (IV) of clause (i) any bond issued to refund (other than to advance refund) any bond to the extent the amount of the refunding bond does not exceed the outstanding amount of the refunded bond.
 
 #### (iv) Certain issues issued by subordinate governmental units, etc., exempt from rebate requirement
 
@@ -512,7 +512,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;(i) 50 percent of the amount which was not paid in accordance with paragraphs (2) and (3), plus
 
-&emsp;&emsp;&emsp;(ii) interest (at the underpayment rate established under section 6621) on the portion of the amount which was not paid on the date required under paragraph (3) for the period beginning on such date.
+&emsp;&emsp;&emsp;(ii) interest (at the underpayment rate established under section 6621) on the portion of the amount which was not paid onthe date required under paragraph (3) for the period beginning on such date.
 
 > &emsp;The Secretary may waive all or any portion of the penalty under this paragraph.
 
@@ -662,7 +662,7 @@ Section 1013(a)(43)(C) of Pub. L. 100–647 provided that: “The amendments mad
 
 Amendment by section 1013(a)(14), (15), (18), (19) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Amendment by section 4005(d)(2) of Pub. L. 100–647 applicable to bonds issued, and nonissued bond amounts elected, after Dec. 31, 1988, see section 4005(h)(1) of Pub. L. 100–647, set out as a note under section 143 of this title.
+Amendment by section 4005(d)(2) of Pub. L. 100–647 applicable to bonds issued, and nonissued bond amountselected, after Dec. 31, 1988, see section 4005(h)(1) of Pub. L. 100–647, set out as a note under section 143 of this title.
 
 Amendment by section 5053(b) of Pub. L. 100–647 applicable, with certain exceptions, to obligations issued after Oct. 21, 1988, see section 5053(c) of Pub. L. 100–647, set out as a note under section 145 of this title.
 

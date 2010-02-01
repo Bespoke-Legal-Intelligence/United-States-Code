@@ -18,7 +18,7 @@ Punitive and Other Adverse Actions Covered.—This section applies in the case o
 
 (c)
 
-Dependent-Abuse Offenses.—For purposes of this section, a dependent-abuse offenseis conduct by an individual while a member of the armed forces on active duty for a period of more than 30 days—
+Dependent-Abuse Offenses.—For purposes of this section, a dependent-abuse offense is conduct by an individual while a member of the armed forces on active duty for a period of more than 30 days—
 
 &emsp;(1) that involves abuse of the spouse or a dependent child of the member; and
 
@@ -66,7 +66,7 @@ Amount of Payment.—(1) Payment to a spouse or former spouse under this section
 
 (g)
 
-Spouse and Former Spouse Forfeiture Provisions.—(1) If a former spouse receivingcompensation under this section remarries, the Secretary shall terminate payment of such compensation, effective as of the date of such marriage. The Secretary may not renew payment of compensation under this section to such former spouse in the event of the termination of such subsequent marriage.
+Spouse and Former Spouse Forfeiture Provisions.—(1) If a former spouse receiving compensation under this section remarries, the Secretary shall terminate payment of such compensation, effective as of the date of such marriage. The Secretary may not renew payment of compensation under this section to such former spouse in the event of the termination of such subsequent marriage.
 
 (2) If after a punitive or other adverse action is executed in the case of a former member as described in subsection (b) the former member resides in the same household as the spouse or former spouse, or dependent child, to whom compensation is otherwise payable under this section, the Secretary shall terminate payment of such compensation, effective as of the time the former member begins residing in such household. Compensation paid for a period after the former member's separation, but before the former member resides in the household, shall not be recouped. If the former member subsequently ceases to reside in such household before the end of the period of eligibility for such payments, the Secretary may not resume such payments.
 
@@ -88,7 +88,7 @@ Coordination of Benefits.—The Secretary concerned may not make payments to a s
 
 Commissary and Exchange Benefits.—(1) A dependent or former dependent entitled to payment of monthly transitional compensation under this section shall, while receiving payments in accordance with this section, be entitled to use commissary and exchange stores to the same extent and in the same manner as a dependent of a member of the armed forces on active duty for a period of more than 30 days.
 
-(2) If a dependent or former dependent eligible or entitled to use commissary and exchange stores under paragraph (1) is eligible or entitled to use commissary and exchange stores under another provision of law, the eligibility or entitlement of that dependent or former dependent to use commissary and exchange stores shall be determined under such other provision of law rather than under paragraph (1).
+(2) If a dependent or former dependent eligible or entitled to use commissary and exchange stores under paragraph (1) is eligible or entitledto use commissary and exchange stores under another provision of law, the eligibility or entitlement of that dependent or former dependent to use commissary and exchange stores shall be determined under such other provision of law rather than under paragraph (1).
 
 (k)
 
@@ -184,7 +184,7 @@ Pub. L. 108–136, div. A, title V, §573(b), Nov. 24, 2003, 117 Stat. 1485, pro
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1998 Amendment
 

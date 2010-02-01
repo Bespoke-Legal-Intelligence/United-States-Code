@@ -92,7 +92,7 @@ Section 702(f)(2) of Pub. L. 95–600 provided that: “The amendment made by pa
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, but not to transfersmade before Jan. 1, 1977, see section 2001(d)(1) of Pub. L. 94–455, set out as a note under section 2001 of this title.
+Amendment by Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, but not to transfers made before Jan. 1, 1977, see section 2001(d)(1) of Pub. L. 94–455, set out as a note under section 2001 of this title.
 
 #### Effective Date of 1962 Amendment
 

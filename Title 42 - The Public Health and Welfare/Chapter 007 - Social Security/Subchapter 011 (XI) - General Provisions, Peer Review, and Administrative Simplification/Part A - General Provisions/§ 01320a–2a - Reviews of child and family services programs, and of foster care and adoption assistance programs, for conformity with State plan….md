@@ -80,5 +80,5 @@ Section 203(c)(1) of Pub. L. 103–432 provided that: “The amendment made by s
 
 #### Regulations
 
-Section 203(c)(3) of Pub. L. 103–432 provided that: “The Secretary shall promulgate the regulations referred to in section 1123(a) \[now 1123A(a)\] of the Social Security Act \[subsec. (a) of this section\] (as added by this section) not later than July 1, 1995, to take effect on April 1, 1996.”
+Section 203(c)(3) of Pub. L. 103–432 provided that: “The Secretary shall promulgate the regulations referred to in section 1123(a) \[now 1123A(a)\] of the Social Security Act \[subsec. (a) of this section\] (as added bythis section) not later than July 1, 1995, to take effect on April 1, 1996.”
 

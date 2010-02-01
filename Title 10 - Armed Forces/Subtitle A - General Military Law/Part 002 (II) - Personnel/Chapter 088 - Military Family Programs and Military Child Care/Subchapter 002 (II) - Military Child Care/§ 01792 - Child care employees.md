@@ -36,7 +36,7 @@ Training and Curriculum Specialists.—(1) The Secretary of Defense shall requir
 
 (c)
 
-Competitive Rates of Pay.—For the purpose of providing military child development centers with a qualified and stable civilianworkforce, employees at a military installation who are directly involved in providing child care and are paid from nonappropriated funds—
+Competitive Rates of Pay.—For the purpose of providing military child development centers with a qualified and stable civilian workforce, employees at a military installation who are directly involved in providing child care and are paid from nonappropriated funds—
 
 &emsp;(1) in the case of entry-level employees, shall be paid at rates of pay competitive with the rates of pay paid to other entry-level employees at that installation who are drawn from the same labor pool; and
 

@@ -36,5 +36,5 @@ Subsec. (b). Pub. L. 95–454 substituted “Office of Personnel Management” a
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-Amendment by Pub. L. 95–366 applicable to payments made from Civil Service Retirement and DisabilityFund after Sept. 15, 1978, see section 2 of Pub. L. 95–366, set out as a note under section 8345 of this title.
+Amendment by Pub. L. 95–366 applicable to payments made from Civil Service Retirement and Disability Fund after Sept. 15, 1978, see section 2 of Pub. L. 95–366, set out as a note under section 8345 of this title.
 

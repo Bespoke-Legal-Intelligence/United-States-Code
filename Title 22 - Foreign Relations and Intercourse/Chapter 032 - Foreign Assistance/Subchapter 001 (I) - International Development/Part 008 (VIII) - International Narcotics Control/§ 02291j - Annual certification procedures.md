@@ -16,7 +16,7 @@
 
 &emsp;Subject to subsection (d) of this section, the assistance withheld from a country pursuant to subsection (a)(1) of this section may be obligated and expended, and the requirement of subsection (a)(2) of this section to vote against multilateral development bank assistance to a country shall not apply, if the President determines and certifies to the Congress, at the time of the submission of the report required by section 2291h(a) of this title, that—
 
-&emsp;&emsp;(A) during the previous year the country has cooperated fully with the United States, or has taken adequate steps on its own, to achieve full compliance with the goals and objectives established by the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances; or
+&emsp;&emsp;(A) during the previous year the country has cooperated fully with the United States, or has taken adequate steps on its own, toachieve full compliance with the goals and objectives established by the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances; or
 
 &emsp;&emsp;(B) for a country that would not otherwise qualify for certification under subparagraph (A), the vital national interests of the United States require that the assistance withheld pursuant to subsection (a)(1) of this section be provided and that the United States not vote against multilateral development bank assistance for that country pursuant to subsection (a)(2) of this section.
 
@@ -40,7 +40,7 @@
 
 #### (c) Licit opium producing countries
 
-The President may make a certification under subsection (b)(1)(A) of this section with respect to a major illicit drug producing country, or major drug-transit country, that is a producer of licit opium only if the President determines that such country maintains licit production and stockpiles at levels no higher than those consistent with licit market demand, and has taken adequate steps to prevent significant diversion of its licit cultivation and productioninto the illicit markets and to prevent illicit cultivation and production.
+The President may make a certification under subsection (b)(1)(A) of this section with respect to a major illicit drug producing country, or major drug-transit country, that is a producer of licit opium only if the President determines that such country maintains licit production and stockpiles at levels no higher than those consistent with licit market demand, and has taken adequate steps to prevent significant diversion of its licit cultivation and production into the illicit markets and to prevent illicit cultivation and production.
 
 #### (d) Congressional review
 
@@ -78,7 +78,7 @@ Subsection (e) of this section shall apply to a country described in that subsec
 
 #### (g) Senate procedures
 
-Any joint resolution under this section shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
+Any joint resolution under this section shall be considered in the Senate in accordance withthe provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
 #### (h) Determining major drug-transit and major illicit drug producing countries
 

@@ -36,7 +36,7 @@ Subsec. (b)(6). Pub. L. 98–457, §101(b), amended par. (6) generally. Prior to
 
 Subsec. (b)(7). Pub. L. 98–457, §101(b), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “in consultation with Federal agencies serving on the Advisory Board on Child Abuse and Neglect (established by section 5105 of this title), prepare a comprehensive plan for seeking to bring about maximum coordination of the goals, objectives, and activities of all agencies and organizations which have responsibilities for programs and activities related to child abuse and neglect, and submit such plan to such Advisory Board not later than twelve months after April 24, 1978.”
 
-Subsec. (c). Pub. L. 98–457, §101(c), substituted “The functions of the Secretary under subsection (b) of thissection may be carried out” for “The Secretary may carry out his functions under subsection (b) of this section”.
+Subsec. (c). Pub. L. 98–457, §101(c), substituted “The functions of the Secretary under subsection (b) of this section may be carried out” for “The Secretary may carry out his functions under subsection (b) of this section”.
 
 Subsec. (e). Pub. L. 98–457, §101(d), added subsec. (e).
 
@@ -66,7 +66,7 @@ Section 1(a) of Pub. L. 104–235 provided that: “This Act \[enacting sections
 
 #### Short Title of 1994 Amendment
 
-For short title of subpart 1 of part E of title V of Pub. L. 103–381, which enacted section 5115a of this title, as the “Howard M. Metzenbaum Multiethnic Placement Act of 1994”, see section 551 of Pub. L. 103–382, set out as a note under section 1305 of this title.
+For short title of subpart 1 of part E of title V of Pub. L. 103–381, which enacted section 5115a of this title, asthe “Howard M. Metzenbaum Multiethnic Placement Act of 1994”, see section 551 of Pub. L. 103–382, set out as a note under section 1305 of this title.
 
 #### Short Title of 1992 Amendment
 
@@ -144,7 +144,7 @@ and 1988.—The Attorney General shall acquire from criminal justice agencies st
 
 “(b)
 
-Modification of Uniform Crime Reporting Program.—(1) As soon as practicable, but in no case later than January 1, 1989, the Attorney General shall modify the uniform crime reporting program in the Federal Bureau of Investigation to include data on the age of the victim of the offense and the relationship, if any, of the victim to the offender, for types of offenses that may involve child abuse, including child sexual abuse.
+Modification of Uniform Crime Reporting Program.—(1) As soon as practicable, but in no case later than January 1, 1989, the Attorney General shall modify the uniform crime reporting program in the FederalBureau of Investigation to include data on the age of the victim of the offense and the relationship, if any, of the victim to the offender, for types of offenses that may involve child abuse, including child sexual abuse.
 
 “(2) The modification, once made, shall remain in effect until the later of—
 

@@ -10,9 +10,9 @@ For purposes of this section, the term “transitional area” means, subject to
 
 #### (c) Certain eligibility rules
 
-#### (1) Fiscal year 2007
+#### (1) Fiscal year 2011
 
-&emsp;With respect to grants under subsection (a) for fiscal year 2007, a metropolitan area that received funding under subpart I for fiscal year 2006 but does not for fiscal year 2007 qualify under such subpart as an eligible area and does not qualify under subsection (b) as a transitional area shall, notwithstanding subsection (b), be considered a transitional area.
+&emsp;With respect to grants under subsection (a) for fiscal year 2011, a metropolitan area that received funding under subpart I for fiscal year 2010 but does not for fiscal year 2011 qualify under such subpart as an eligible area and does not qualify under subsection (b) as a transitional area shall, notwithstanding subsection (b), be considered a transitional area.
 
 #### (2) Continued status as transitional area
 
@@ -22,11 +22,15 @@ For purposes of this section, the term “transitional area” means, subject to
 
 &emsp;&emsp;&emsp;(i) to qualify under such subsection as a transitional area; and
 
-&emsp;&emsp;&emsp;(ii) to have a cumulative total of 1,500 or more living cases of AIDS (reported to and confirmed by the Director of the Centers for Disease Control and Prevention) as of December 31 of the most recent calendar year for which such data is available.
+&emsp;&emsp;&emsp;(ii) subject to subparagraphs (B) and (C), to have a cumulative total of 1,500 or more living cases of AIDS (reported to and confirmed by the Director of the Centers for Disease Control and Prevention) as of December 31 of the most recent calendar year for which such data is available.
 
-#### (B) Exception regarding status as eligible area
+#### (B) Permitting margin of error applicable to certain metropolitan areas
 
-&emsp;&emsp;Subparagraph (A) does not apply for a fiscal year if the metropolitan area involved qualifies under subpart I as an eligible area.
+&emsp;&emsp;In applying subparagraph (A)(ii) for a fiscal year after fiscal year 2008, in the case of a metropolitan area that has a cumulative total of at least 1,400 (and fewer than 1,500) living cases of AIDS as of December 31 of the most recent calendar year for which such data is available, such area shall be treated as having met the criteria of such subparagraph if not more than 5 percent of the total from grants awarded to such area under this part is unobligated as of the end of the most recent fiscal year for which such data is available.
+
+#### (C) Exception regarding status as eligible area
+
+&emsp;&emsp;Subparagraphs (A) and (B) do not apply for a fiscal year if the metropolitan area involved qualifies under subpart I as an eligible area.
 
 #### (d) Application of certain provisions of subpart I
 
@@ -38,7 +42,7 @@ For purposes of this section, the term “transitional area” means, subject to
 
 #### (B) Exception
 
-&emsp;&emsp;For each of the fiscal years 2007 through 2009, the exception described in subparagraph (A) does not apply if the transitional area involved received funding under subpart I for fiscal year 2006.
+&emsp;&emsp;For each of the fiscal years 2007 through 2013, the exception described in subparagraph (A) does not apply if the transitional area involved received funding under subpart I for fiscal year 2006.
 
 #### (2) Type and distribution of grants; timeframe for obligation and expenditure of grant funds
 
@@ -64,9 +68,25 @@ For purposes of this section, the term “transitional area” means, subject to
 
 &emsp;The provisions of sections 300ff–15, 300ff–16, and 300ff–17 of this title apply with respect to grants under subsection (a) to the same extent and in the same manner as such provisions apply with respect to grants under subpart I.
 
-(July 1, 1944, ch. 373, title XXVI, §2609, as added Pub. L. 109–415, title I, §107(a)(2), Dec. 19, 2006, 120 Stat. 2781.)
+(July 1, 1944, ch. 373, title XXVI, §2609, as added and amended Pub. L. 109–415, title I, §107(a)(2), title VII, §703, Dec. 19, 2006, 120 Stat. 2781, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 4(a), Oct. 30, 2009, 123 Stat. 2885, 2889.)
 
-#### Repeal of Section
+#### Amendments
 
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+2009—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+Subsec. (c)(1). Pub. L. 111–87, §4(a)(1), in heading substituted “2011” for “2007” and in text substituted “2011” for “2007” in two places and “2010” for “2006”.
+
+Subsec. (c)(2)(A)(ii). Pub. L. 111–87, §4(a)(2)(A), substituted “subject to subparagraphs (B) and (C), to have a” for “to have a”.
+
+Subsec. (c)(2)(B). Pub. L. 111–87, §4(a)(2)(B), (C), added subpar. (B). Former subpar. (B) redesignated (C).
+
+Subsec. (c)(2)(C). Pub. L. 111–87, §4(a)(2)(B), (D), redesignated subpar. (B) as (C) and substituted “Subparagraphs (A) and (B) do not apply” for “Subparagraph (A) does not apply”.
+
+Subsec. (d)(1)(B). Pub. L. 111–87, §4(a)(3), substituted “2013” for “2009”.
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by section 4(a) of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 

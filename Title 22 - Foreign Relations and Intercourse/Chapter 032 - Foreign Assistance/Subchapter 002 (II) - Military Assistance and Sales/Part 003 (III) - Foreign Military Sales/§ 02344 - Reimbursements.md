@@ -8,7 +8,7 @@ Whenever funds made available for use under subchapter II of this chapter have b
 
 (1) The special fund account established under subsection (a) of this section shall terminate as of the end of June 30, 1968, or on such earlier date as may be selected by the President.
 
-(2) Upon the termination of such fund account pursuant to paragraph (1), all of the assets of such fund account (including loans and other payments receivable) shall be transferred to a special account in the Treasury, which special account shall be available solely for the purpose of discharging outstanding liabilities and obligations of the United States arising out of credit sales agreements entered into, and guaranties issued, under subchapter II of this chapter prior to June 30, 1968. Any moneys in such special account in excess of the aggregate United States dollar amount of such liabilities and obligations shall be transferred from time to time to the general fund of the Treasury.
+(2) Upon the termination of such fund account pursuant to paragraph (1), all of the assets of such fund account (including loans and other payments receivable) shall be transferred to aspecial account in the Treasury, which special account shall be available solely for the purpose of discharging outstanding liabilities and obligations of the United States arising out of credit sales agreements entered into, and guaranties issued, under subchapter II of this chapter prior to June 30, 1968. Any moneys in such special account in excess of the aggregate United States dollar amount of such liabilities and obligations shall be transferred from time to time to the general fund of the Treasury.
 
 (Pub. L. 87–195, pt. II, §524, formerly §508, Sept. 4, 1961, 75 Stat. 437; Pub. L. 89–171, pt. II, §201(e), Sept. 6, 1965, 79 Stat. 657; Pub. L. 89–583, pt. II, §201(c), Sept. 19, 1966, 80 Stat. 803; renumbered §524 and amended Pub. L. 90–137, pt. II, §201(h), Nov. 14, 1967, 81 Stat. 456; Pub. L. 90–629, ch. 4, §45(a), Oct. 22, 1968, 82 Stat. 1327.)
 
@@ -50,7 +50,7 @@ Similar provisions were contained in Pub. L. 90–249, title I, §100, Jan. 2, 1
 
 #### Expenditures by Underdeveloped Countries for Weapons Systems; Presidential Determination; Report to Congress
 
-Pub. L. 91–194, title I, §119, Feb. 9, 1970, 84 Stat. 10, directed the President to withhold economic assistance in an amount equivalent to the amount spent by any underdeveloped country for the purchase of sophisticated weapons systems from any country other thancertain enumerated countries, unless the President determined that such a purchase was important to the national security of the United States and reported such determination to Congress within thirty days after each such determination.
+Pub. L. 91–194, title I, §119, Feb. 9, 1970, 84 Stat. 10, directed the President to withhold economic assistance in an amount equivalent to the amount spent by any underdeveloped country for the purchase of sophisticated weapons systems from any country other than certain enumerated countries, unless the President determined that such a purchase was important to the national security of the United States and reported such determination to Congress within thirty days after each such determination.
 
 Similar provisions were contained in Pub. L. 90–249, title I, §119, Jan. 2, 1968, 81 Stat. 940; Pub. L. 90–581, title I, §119, Oct. 17, 1968, 82 Stat. 1141.
 

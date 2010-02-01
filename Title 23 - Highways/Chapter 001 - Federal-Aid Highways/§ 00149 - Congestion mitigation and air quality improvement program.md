@@ -154,7 +154,7 @@ No effect on authority or restrictions.—Nothing in this subsection modifies or
 
 (g)
 
-Interagency Consultation.—The Secretary shall encourage States and metropolitanplanning organizations to consult with State and local air quality agencies in nonattainment and maintenance areas on the estimated emission reductions from proposed congestion mitigation and air quality improvement programs and projects.
+Interagency Consultation.—The Secretary shall encourage States and metropolitan planning organizations to consult with State and local air quality agencies in nonattainment and maintenance areas on the estimated emission reductions from proposed congestion mitigation and air quality improvement programs and projects.
 
 (h)
 
@@ -266,7 +266,7 @@ Pub. L. 105–178, title I, §1110(e), June 9, 1998, 112 Stat. 144, provided tha
 
 “(1)
 
-In general.—The Secretary and the Administrator of the Environmental Protection Agency shall enter into arrangements with the National Academy of Sciences to complete, by not later than January 1, 2001, a study of the congestion mitigation and air quality improvement program under section 149 of title 23, United States Code. The study shall, at a minimum—
+In general.—The Secretary and the Administrator of the Environmental Protection Agency shall enter into arrangements with the National Academy of Sciences to complete, by not later than January 1, 2001, a study of the congestion mitigation and air qualityimprovement program under section 149 of title 23, United States Code. The study shall, at a minimum—
 
 &emsp;“(A) evaluate the air quality impacts of emissions from motor vehicles;
 

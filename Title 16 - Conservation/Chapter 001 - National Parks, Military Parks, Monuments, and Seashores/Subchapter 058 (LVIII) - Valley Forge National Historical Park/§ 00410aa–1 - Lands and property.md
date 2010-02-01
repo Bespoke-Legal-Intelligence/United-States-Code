@@ -6,7 +6,7 @@ The park shall comprise the area generally depicted on the map entitled “Valle
 
 #### (b) Acquisition of lands
 
-Within the boundaries of the park, the Secretary may acquire lands and interests therein by donation, purchase with donated or appropriated funds, exchange, or transfer. Any property owned by the Commonwealth of Pennsylvania or any political subdivision thereof maybe acquired only by donation. The effective date of such donation shall not be prior to October 1, 1976.
+Within the boundaries of the park, the Secretary may acquire lands and interests therein by donation, purchase with donated or appropriated funds, exchange, or transfer. Any property owned by the Commonwealth of Pennsylvania or any political subdivision thereof may be acquired only by donation. The effective date of such donation shall not be prior to October 1, 1976.
 
 #### (c) Reservation of rights by grantors; compensation for land
 

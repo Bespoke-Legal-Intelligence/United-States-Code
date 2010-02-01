@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(B) an amount determined by the agency head, not to exceed $25,000;
 
-&emsp;(4) may be made only in the case of an employee who voluntarily separates (whether by retirement or resignation) under this subchapter;
+&emsp;(4) may be made only in the case of an employee who voluntarily separates (whether byretirement or resignation) under this subchapter;
 
 &emsp;(5) shall not be a basis for payment, and shall not be included in the computation, of any other type of Government benefit;
 

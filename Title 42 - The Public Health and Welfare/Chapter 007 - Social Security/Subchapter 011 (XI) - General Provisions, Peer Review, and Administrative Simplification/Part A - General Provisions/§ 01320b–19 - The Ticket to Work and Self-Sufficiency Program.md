@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, under which a disabled beneficiary may use a ticket to work and self-sufficiency issued by the Commissioner in accordance with this section to obtain employment services, vocational rehabilitation services, or other support services from an employment network which is of the beneficiary's choice and which is willing to provide such services to such beneficiary.
+The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, under which a disabled beneficiary may use a ticket towork and self-sufficiency issued by the Commissioner in accordance with this section to obtain employment services, vocational rehabilitation services, or other support services from an employment network which is of the beneficiary's choice and which is willing to provide such services to such beneficiary.
 
 #### (b) Ticket system
 
@@ -162,7 +162,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 &emsp;&emsp;&emsp;(iii) a statement of any terms and conditions related to the provision of such services and supports; and
 
-&emsp;&emsp;&emsp;(iv) a statement of understanding regarding the beneficiary's rights under the Program (such as the right to retrieve the ticket to work and self-sufficiency if the beneficiary is dissatisfied with the services being provided by the employment network) and remedies available to the individual, including information on the availability of advocacy services and assistance in resolving disputes through the Stategrant program authorized under section 1320b–21 of this title;
+&emsp;&emsp;&emsp;(iv) a statement of understanding regarding the beneficiary's rights under the Program (such as the right to retrieve the ticket to work and self-sufficiency if the beneficiary is dissatisfied with the services being provided by the employment network) and remedies available to the individual, including information on the availability of advocacy services and assistance in resolving disputes through the State grant program authorized under section 1320b–21 of this title;
 
 &emsp;&emsp;(D) provide a beneficiary the opportunity to amend the individual work plan if a change in circumstances necessitates a change in the plan; and
 
@@ -232,7 +232,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (B) Outcome payment period
 
-&emsp;&emsp;The term “outcome payment period” means, in connection with any individual who had assigned a ticket to work and self-sufficiency to an employment network under the Program, a period—
+&emsp;&emsp;The term “outcome payment period” means, in connection with any individualwho had assigned a ticket to work and self-sufficiency to an employment network under the Program, a period—
 
 &emsp;&emsp;&emsp;(i) beginning with the first month, ending after the date on which such ticket was assigned to the employment network, for which benefits (described in paragraphs (3) and (4) of subsection (k) of this section) are not payable to such individual by reason of engagement in substantial gainful activity or by reason of earnings from work activity; and
 
@@ -642,7 +642,7 @@ Experts and consultants.—Subject to rules prescribed by the Commissioner of So
 
 &emsp;“(D)
 
-Staff of federal agencies.—Upon request of the Panel, the head of any Federal department oragency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Panel to assist it in carrying out its duties under this Act \[see Tables for classification\].
+Staff of federal agencies.—Upon request of the Panel, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Panel to assist it in carrying out its duties under this Act \[see Tables for classification\].
 
 “(5)
 

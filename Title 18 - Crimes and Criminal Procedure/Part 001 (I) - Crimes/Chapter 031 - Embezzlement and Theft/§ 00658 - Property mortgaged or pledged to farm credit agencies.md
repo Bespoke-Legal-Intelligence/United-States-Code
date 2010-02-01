@@ -38,7 +38,7 @@ Sections 1131b and 1131g–1 of Title 12, included within the reference to secti
 
 1996—Pub. L. 104–294 substituted “$1,000” for “$100”.
 
-1994—Pub. L. 103–322, §330016(1)(H), (K), substituted “fined under this title” for “fined not more than $5,000” after “cooperatives, shall be” and for “fined not more than $1,000” after “he shall be”.
+1994—Pub. L. 103–322, §330016(1)(H), (K), substituted “fined under this title” for “fined not more than$5,000” after “cooperatives, shall be” and for “fined not more than $1,000” after “he shall be”.
 
 Pub. L. 103–322, §330004(7), struck out “Farmers’ Home Corporation,” after “Crop Insurance Corporation,”.
 

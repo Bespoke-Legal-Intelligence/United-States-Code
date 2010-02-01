@@ -2,7 +2,7 @@
 
 #### (a) Basis of apportionment
 
-After deducting the amount authorized in section 1300d of this title, the funds derived from the judgment awarded in Indian Claims Commission docket numbered 142 and the one-half remaining from the amount awarded in docket numbered 359 <sup>1</sup> plus interest received (other than funds otherwise distributed to the Sisseton and Wahpeton Tribes of Sioux Indians in accordance with the Mississippi Sioux Tribes Judgment Fund Distribution Act of 1998 \[25 U.S.C. 1300d–21 et seq.\]), shall be apportioned on the basis of reservation residence and other residence shown on the 1909 McLaughlin annuity roll, as follows:
+After deducting the amount authorized in section 1300d of this title, the funds derived from the judgment awarded in Indian Claims Commission docket numbered 142 and the one-half remaining from the amount awarded in docketnumbered 359 <sup>1</sup> plus interest received (other than funds otherwise distributed to the Sisseton and Wahpeton Tribes of Sioux Indians in accordance with the Mississippi Sioux Tribes Judgment Fund Distribution Act of 1998 \[25 U.S.C. 1300d–21 et seq.\]), shall be apportioned on the basis of reservation residence and other residence shown on the 1909 McLaughlin annuity roll, as follows:
 
 &nbsp;
 

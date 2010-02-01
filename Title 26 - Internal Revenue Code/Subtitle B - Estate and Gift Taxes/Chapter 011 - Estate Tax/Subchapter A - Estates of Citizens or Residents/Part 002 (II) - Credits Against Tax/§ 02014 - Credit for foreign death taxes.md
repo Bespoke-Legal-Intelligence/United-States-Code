@@ -32,7 +32,7 @@ The credit provided in this section with respect to such taxes paid to any forei
 
 (1) The values referred to in the ratio stated in subsection (b)(1) are the values determined for purposes of the tax imposed by such foreign country.
 
-(2) The values referred to in the ratio stated in subsection (b)(2) are the values determined under this chapter; but, in applying such ratio, the value of any property described in subparagraphs (A), (B), and (C) thereof shall be reduced by such amount as will properly reflect, in accordance with regulations prescribed by the Secretary, the deductions allowed in respect of such property under sections 2055 and 2056 (relating to charitable and marital deductions).
+(2) The values referred to in the ratio stated in subsection (b)(2) are the values determined under this chapter; but, in applying such ratio, the value of any property described in subparagraphs (A), (B), and (C) thereof shall be reducedby such amount as will properly reflect, in accordance with regulations prescribed by the Secretary, the deductions allowed in respect of such property under sections 2055 and 2056 (relating to charitable and marital deductions).
 
 #### (d) Proof of credit
 
@@ -50,7 +50,7 @@ The credit provided in this section shall be allowed only if the taxpayer establ
 
 The credit provided in this section shall be allowed only for such taxes as were actually paid and credit therefor claimed within 4 years after the filing of the return required by section 6018, except that—
 
-&emsp;(1) If a petition for redetermination of a deficiency has been filed with the Tax Court within the time prescribed in section 6213(a), thenwithin such 4-year period or before the expiration of 60 days after the decision of the Tax Court becomes final.
+&emsp;(1) If a petition for redetermination of a deficiency has been filed with the Tax Court within the time prescribed in section 6213(a), then within such 4-year period or before the expiration of 60 days after the decision of the Tax Court becomes final.
 
 &emsp;(2) If, under section 6161, an extension of time has been granted for payment of the tax shown on the return, or of a deficiency, then within such 4-year period or before the date of the expiration of the period of the extension.
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 89–809 applicable with respect to estates of decedents dy
 
 #### Effective Date of 1959 Amendment
 
-Amendment by Pub. L. 86–175 applicable with respect to estates of decedents dying on or after July 1, 1955, see section 4 of Pub. L. 86–175, set out as a note under section 2053 of this title.
+Amendment by Pub. L. 86–175 applicable with respect to estates of decedents dying on or after July 1, 1955,see section 4 of Pub. L. 86–175, set out as a note under section 2053 of this title.
 
 #### Effective Date of 1958 Amendment
 

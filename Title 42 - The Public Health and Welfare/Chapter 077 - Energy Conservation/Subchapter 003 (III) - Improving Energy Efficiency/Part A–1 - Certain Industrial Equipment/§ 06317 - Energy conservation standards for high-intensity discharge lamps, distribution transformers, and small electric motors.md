@@ -18,7 +18,7 @@
 
 #### (c) Consideration of criteria under other law
 
-In establishing any standard under this section, the Secretary shall take into consideration the criteria contained in section 6295(n) of this title.
+In establishing any standard under this section, the Secretary shall take into considerationthe criteria contained in section 6295(n) of this title.
 
 #### (d) Prescription of labeling requirements by Secretary
 

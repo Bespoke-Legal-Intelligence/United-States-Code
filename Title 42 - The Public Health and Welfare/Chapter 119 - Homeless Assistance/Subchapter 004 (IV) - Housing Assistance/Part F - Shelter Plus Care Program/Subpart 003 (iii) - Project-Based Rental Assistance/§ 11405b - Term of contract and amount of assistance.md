@@ -6,9 +6,13 @@ Each contract with a recipient for assistance under this subpart shall be for a 
 
 #### (b) Amount of assistance
 
-Each contract shall provide that the recipient shall receive aggregate amounts not to exceed the appropriate existing housing fair market rental under section 1437f(c)(1) of this title in effect at the time the application is approved. Any amounts not needed for a year may be used to increase the amount available in subsequent years.
+Each contract shall provide that the recipient shall receive aggregate amounts not to exceed the appropriate existing housing fair market rental under section 1437f(c)(1) of this title in effect at the time the application is approved. Any amounts not needed for a year may be used toincrease the amount available in subsequent years.
 
 (Pub. L. 100–77, title IV, §478, as added Pub. L. 102–550, title XIV, §1406(f), Oct. 28, 1992, 106 Stat. 4032; amended Pub. L. 110–289, div. B, title VIII, §2835(c)(2), July 30, 2008, 122 Stat. 2874.)
+
+#### Repeal of Section
+
+<i>Pub. L. 111–22, div. B, title V, §§1501, 1503, May 20, 2009, 123 Stat. 1701, 1702, provided that, effective on, and applicable beginning on, the earlier of the expiration of the 18-month period beginning on May 20, 2009, or the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 of Pub. L. 111–22, this section is repealed.</i>
 
 #### Prior Provisions
 

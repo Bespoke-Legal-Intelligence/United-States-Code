@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 90 days after October 15, 2008, the Administrator shall submit to Congress a plan describing the process for the disposition of the remaining Space Shuttle Orbiters and other Space Shuttle program-related hardware after the retirement of the Space Shuttle fleet.
+&emsp;Not later than 90 days after October 15, 2008, the Administrator shall submit to Congress aplan describing the process for the disposition of the remaining Space Shuttle Orbiters and other Space Shuttle program-related hardware after the retirement of the Space Shuttle fleet.
 
 #### (2) Plan requirements
 

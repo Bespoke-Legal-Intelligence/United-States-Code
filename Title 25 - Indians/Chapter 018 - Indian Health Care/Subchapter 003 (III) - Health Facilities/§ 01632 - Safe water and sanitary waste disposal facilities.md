@@ -72,7 +72,7 @@ Programs administered by Indian tribes or tribal organizations under the authori
 
 &emsp;(E) the amount of funds necessary to raise all Indian tribes and communities to zero sanitation deficiency.
 
-(2) In preparing each report required under paragraph (1) (other than the initial report), the Secretary shall consult with Indian tribes andtribal organizations (including those tribes or tribal organizations operating health care programs or facilities under any contract entered into with the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\]) to determine the sanitation needs of each tribe.
+(2) In preparing each report required under paragraph (1) (other than the initial report), the Secretary shall consult with Indian tribes and tribal organizations (including those tribes or tribal organizations operating health care programs or facilities under any contract entered into with the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\]) to determine the sanitation needs of each tribe.
 
 (3) The methodology used by the Secretary in determining sanitation deficiencies for purposes of paragraph (1) shall be applied uniformly to all Indian tribes and communities.
 
@@ -118,7 +118,7 @@ Subsec. (f)(1). Pub. L. 102–573, §302(2), substituted “this section” for 
 
 Subsec. (g)(1). Pub. L. 102–573, §302(3)(A), substituted “The Secretary shall submit to the President, for inclusion in each report required to be transmitted to the Congress under section 1671 of this title, a report” for “The Secretary shall submit to the Congress an annual report”.
 
-Subsec. (g)(2) to (6). Pub. L. 102–573, §302(3)(B), redesignated pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: “The first report required under paragraph (1) shall be submitted by no later than the date that is 180 days after November 23, 1988, and, beginning in 1990, each subsequent annual report shall be submitted by the date that is 60 days after the date on which the President submits the budget to the Congress under section 1105 of title 31.”
+Subsec. (g)(2) to (6). Pub. L. 102–573, §302(3)(B), redesignated pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: “The first report required under paragraph (1) shall be submitted by no later than the date that is 180 days after November 23, 1988, and, beginning in 1990, each subsequent annual report shall be submitted by the datethat is 60 days after the date on which the President submits the budget to the Congress under section 1105 of title 31.”
 
 Subsec. (h). Pub. L. 102–573, §307(b)(1), struck out subsec. (h) which authorized appropriations to carry out subsec. (b)(2) for fiscal years 1990 to 1992.
 

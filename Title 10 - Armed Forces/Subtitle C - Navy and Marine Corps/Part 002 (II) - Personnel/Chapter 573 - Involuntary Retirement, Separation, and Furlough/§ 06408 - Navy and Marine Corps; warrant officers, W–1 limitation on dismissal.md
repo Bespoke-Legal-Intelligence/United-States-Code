@@ -1,6 +1,6 @@
 ### §6408. Navy and Marine Corps; warrant officers, W–1: limitation on dismissal
 
-(a) No officer who holds the grade of warrant officer, W–1, may be dismissed from the Navy orthe Marine Corps except in time of war, by order of the President.
+(a) No officer who holds the grade of warrant officer, W–1, may be dismissed from the Navy or the Marine Corps except in time of war, by order of the President.
 
 (b) The President may drop from the rolls of the Navy or the Marine Corps any officer who holds the grade of warrant officer, W–1, who—
 

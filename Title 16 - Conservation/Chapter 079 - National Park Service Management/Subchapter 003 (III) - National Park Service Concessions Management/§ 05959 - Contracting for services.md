@@ -22,7 +22,7 @@
 
 #### (b) Other management elements
 
-The Secretary shall also consider, taking into account the recommendations of the AdvisoryBoard, contracting out other elements of the concessions management program, as appropriate.
+The Secretary shall also consider, taking into account the recommendations of the Advisory Board, contracting out other elements of the concessions management program, as appropriate.
 
 #### (c) Condition
 

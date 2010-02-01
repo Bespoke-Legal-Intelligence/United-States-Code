@@ -20,7 +20,7 @@ The President may accept and use in furtherance of the purposes of this chapter,
 
 (1) Any agency of the United States Government is authorized to pay the cost of health and accident insurance for foreign participants in any program of furnishing technical information and assistance administered by such agency while such participants are absent from their homes for the purpose of participation in such program.
 
-(2) Any agency of the United States Government is authorized to pay the cost of health and accident insurance for foreign employees of that agency while those employees are absent fromtheir place of employment abroad for purposes of training or other official duties.
+(2) Any agency of the United States Government is authorized to pay the cost of health and accident insurance for foreign employees of that agency while those employees are absent from their place of employment abroad for purposes of training or other official duties.
 
 #### (f) Admission of alien participants
 
@@ -34,7 +34,7 @@ In making loans under this chapter, the President—
 
 &emsp;(2) may collect or compromise any obligations assigned to, or held by, and any legal or equitable rights accruing to him, and, as he may determine, refer any such obligations or rights to the Attorney General for suit or collection;
 
-&emsp;(3) may acquire and dispose of, upon such terms and conditions as he may determine, any property, including any instrument evidencing indebtedness or ownership (provided that equity securities may not be directly purchased although such securities may be acquired by other means such as by exercise of conversion rights or through enforcement of liens or pledges or otherwise to satisfy a previously incurred indebtedness), and guarantee payment against any such instrument;
+&emsp;(3) may acquire and dispose of, upon such terms and conditions as he may determine,any property, including any instrument evidencing indebtedness or ownership (provided that equity securities may not be directly purchased although such securities may be acquired by other means such as by exercise of conversion rights or through enforcement of liens or pledges or otherwise to satisfy a previously incurred indebtedness), and guarantee payment against any such instrument;
 
 &emsp;(4) may determine the character of, and necessity for, obligations and expenditures of funds used in making such loans and the manner in which they shall be incurred, allowed, and paid, subject to provisions of law specifically applicable to corporations of the United States Government; and
 
@@ -80,7 +80,7 @@ The Administrator of the agency primarily responsible for administering subchapt
 
 (3) The fund shall be reimbursed or credited with advance payments for services, equipment, or supplies provided from the fund from applicable appropriations and funds of the Agency, other Federal agencies and other sources authorized by section 2357 of this title at rates that will recover total expenses of operation, including accrual of annual leave and depreciation. Receipts from the disposal of, or payments for the loss or damage to, property held in the fund, rebates, reimbursements, refunds and other credits applicable to the operation of the fund may be deposited in the fund.
 
-(4) At the close of each fiscal year the Administrator of the Agency shall transfer out of the fund to the miscellaneous receipts account of the Treasury of the United States such amountsas the Administrator determines to be in excess of the needs of the fund.
+(4) At the close of each fiscal year the Administrator of the Agency shall transfer out of the fund to the miscellaneous receipts account of the Treasury of the United States such amounts as the Administrator determines to be in excess of the needs of the fund.
 
 (5) The fund may be charged with the current value of supplies and equipment returned to the working capital of the fund by a post, activity, or agency, and the proceeds shall he <sup>1</sup> credited to current applicable appropriations.
 
@@ -88,7 +88,7 @@ The Administrator of the agency primarily responsible for administering subchapt
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (d), (g), and (j), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsecs. (a) to (d), (g), and (j), was in the original “this Act”, meaning Pub. L.87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
 

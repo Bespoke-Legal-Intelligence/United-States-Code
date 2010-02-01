@@ -16,7 +16,7 @@ The Secretary shall, in close cooperation and coordination with the Commission a
 
 (1) The Secretary shall, not later than one year after October 24, 1992, issue recommendations to the States for establishing State and local incentive programs designed to encourage the acceleration of voluntary replacement, by consumers, of existing showerheads, faucets, water closets, and urinals with those products that meet the standards established for such products pursuant to subsections (j) and (k) of section 6295 of this title.
 
-(2) In developing such recommendations, the Secretary shall consult with the heads of otherfederal <sup>1</sup> agencies, including the Administrator of the Environmental Protection Agency; State officials; manufacturers, suppliers, and installers of plumbing products; and other interested parties.
+(2) In developing such recommendations, the Secretary shall consult with the heads of other federal <sup>1</sup> agencies, including the Administrator of the Environmental Protection Agency; State officials; manufacturers, suppliers, and installers of plumbing products; and other interested parties.
 
 #### (c) HVAC maintenance
 
@@ -44,7 +44,7 @@ The Secretary shall, in close cooperation and coordination with the Commission a
 
 (3) The Secretary, on a cost shared basis in cooperation with the Administrator of the Environmental Protection Agency, shall provide to the Small Business Administration all advertising, marketing, and other written materials necessary for the dissemination of information under paragraph (2).
 
-(4) The Secretary, the Administrator of the Environmental Protection Agency, and the Administrator of the Small Business Administration, as part of the outreach to small business concerns under the Energy Star Program for Small Business Program, may enter into cooperative agreements with qualified resources partners (including the National Center for Appropriate Technology) to establish, maintain, and promote a Small Business Energy Clearinghouse (in this subsection referred to as the “Clearinghouse”).
+(4) The Secretary, the Administrator of the Environmental Protection Agency, and the Administrator of the Small Business Administration, as part of the outreach to small businessconcerns under the Energy Star Program for Small Business Program, may enter into cooperative agreements with qualified resources partners (including the National Center for Appropriate Technology) to establish, maintain, and promote a Small Business Energy Clearinghouse (in this subsection referred to as the “Clearinghouse”).
 
 (5) The Secretary, the Administrator of the Environmental Protection Agency, and the Administrator of the Small Business Administration shall ensure that the Clearinghouse provides a centralized resource where small business concerns may access, telephonically and electronically, technical information and advice to help increase energy efficiency and reduce energy costs.
 

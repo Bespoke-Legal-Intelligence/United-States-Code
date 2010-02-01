@@ -46,7 +46,7 @@
 
 &emsp;(C) any negotiations for the purpose of settlement of alleged violations not delay the commencement of a civil enforcement action; and
 
-&emsp;(D) the Department of Justice cooperate in ensuring that activities necessary, includingthe enforcement of subpoenas, to commence civil enforcement actions are carried out in a timely manner.
+&emsp;(D) the Department of Justice cooperate in ensuring that activities necessary, including the enforcement of subpoenas, to commence civil enforcement actions are carried out in a timely manner.
 
 (2) Any failure to comply with the time frames described in paragraph (1)(A) shall not be considered for any purpose in any administrative or judicial proceeding subsequently commenced.
 
@@ -96,5 +96,5 @@ This chapter, referred to in subsec. (b)(3), was in the original “this Act”,
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, andjurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

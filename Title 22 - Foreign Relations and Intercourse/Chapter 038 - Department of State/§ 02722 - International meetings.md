@@ -2,7 +2,7 @@
 
 #### (a) Authority to pay expenses
 
-If the United States Government hosts an international meeting or conference in the United States, the Secretary of State is authorized to pay all reasonable expenses of such meeting or conference. Such expenses may include rental of quarters (by contract or otherwise) and personal services.
+If the United States Government hosts an international meeting or conference in the United States, the Secretary of State is authorized to pay all reasonable expenses of such meeting or conference. Such expenses may includerental of quarters (by contract or otherwise) and personal services.
 
 #### (b) Retention of reimbursements
 

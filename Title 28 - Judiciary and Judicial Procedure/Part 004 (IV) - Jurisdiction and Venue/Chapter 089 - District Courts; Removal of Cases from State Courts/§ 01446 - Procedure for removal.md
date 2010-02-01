@@ -12,13 +12,13 @@ If the case stated by the initial pleading is not removable, a notice of removal
 
 (3) The filing of a notice of removal of a criminal prosecution shall not prevent the State court in which such prosecution is pending from proceeding further, except that a judgment of conviction shall not be entered unless the prosecution is first remanded.
 
-(4) The United States district court in which such notice is filed shall examine the notice promptly. If it clearly appears on the face of thenotice and any exhibits annexed thereto that removal should not be permitted, the court shall make an order for summary remand.
+(4) The United States district court in which such notice is filed shall examine the notice promptly. If it clearly appears on the face of the notice and any exhibits annexed thereto that removal should not be permitted, the court shall make an order for summary remand.
 
 (5) If the United States district court does not order the summary remand of such prosecution, it shall order an evidentiary hearing to be held promptly and after such hearing shall make such disposition of the prosecution as justice shall require. If the United States district court determines that removal shall be permitted, it shall so notify the State court in which prosecution is pending, which shall proceed no further.
 
 (d) Promptly after the filing of such notice of removal of a civil action the defendant or defendants shall give written notice thereof to all adverse parties and shall file a copy of the notice with the clerk of such State court, which shall effect the removal and the State court shall proceed no further unless and until the case is remanded.
 
-(e) If the defendant or defendants are in actual custody on process issued by the State court, the district court shall issue its writ of habeas corpus, and the marshal shall thereupon take such defendant or defendants into his custody and deliver a copy of the writ to the clerk of such State court.
+(e) If the defendant or defendants are in actual custody on process issued by the State court, the district court shall issue its writ of habeas corpus, and the marshal shall thereupon take such defendant or defendants into his custodyand deliver a copy of the writ to the clerk of such State court.
 
 (f) With respect to any counterclaim removed to a district court pursuant to section 337(c) of the Tariff Act of 1930, the district court shall resolve such counterclaim in the same manner as an original complaint under the Federal Rules of Civil Procedure, except that the payment of a filing fee shall not be required in such cases and the counterclaim shall relate back to the date of the original complaint in the proceeding before the International Trade Commission under section 337 of that Act.
 
@@ -62,7 +62,7 @@ Subsection (b) of section 1446 of title 28, U.S.C., as revised, has been found t
 
 The first paragraph of the amendment to subsection (b) corrects this situation by providing that the petition for removal need not be filed until 20 days after the defendant has received a copy of the plaintiff's initial pleading.
 
-This provision, however, without more, would create further difficulty in those States, such as Kentucky, where suit is commenced by the filing of the plaintiff'sinitial pleading and the issuance and service of a summons without any requirement that a copy of the pleading be served upon or otherwise furnished to the defendant. Accordingly the first paragraph of the amendment provides that in such cases the petition for removal shall be filed within 20 days after the service of the summons.
+This provision, however, without more, would create further difficulty in those States, such as Kentucky, where suit is commenced by the filing of the plaintiff's initial pleading and the issuance and service of a summons without any requirement that a copy of the pleading be served upon or otherwise furnished to the defendant. Accordingly the first paragraph of the amendment provides that in such cases the petition for removal shall be filed within 20 days after the service of the summons.
 
 The first paragraph of the amendment conforms to the amendment of rule 81(c) of the Federal Rules of Civil Procedure, relating to removed actions, adopted by the Supreme Court on December 29, 1948, and reported by the Court to the present session of Congress.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) For purposes of this section and any other provision of law, a militarytechnician (dual status) is a Federal civilian employee who—
+In General.—(1) For purposes of this section and any other provision of law, a military technician (dual status) is a Federal civilian employee who—
 
 &emsp;(A) is employed under section 3101 of title 5 or section 709(b) of title 32;
 
@@ -132,7 +132,7 @@ Subsec. (a). Pub. L. 105–85, §522(a), amended subsec. (a) generally. Prior to
 
 “(a)
 
-In General.—Military technicians are Federal civilian employees hired under title 5 and title 32 who are required to maintain dual-status as drilling reserve component members as a condition of their Federal civilian employment. Such employees shall be authorized and accounted for as a separate category of dual-status civilian employees, exempt as specified in subsection (b)(3) from any general or regulatory requirement for adjustments in Department of Defense civilian personnel.”
+In General.—Military technicians are Federal civilian employees hired under title 5 and title 32 who are required to maintain dual-status as drilling reservecomponent members as a condition of their Federal civilian employment. Such employees shall be authorized and accounted for as a separate category of dual-status civilian employees, exempt as specified in subsection (b)(3) from any general or regulatory requirement for adjustments in Department of Defense civilian personnel.”
 
 Subsec. (b). Pub. L. 105–85, §522(g)(1), inserted “(
 

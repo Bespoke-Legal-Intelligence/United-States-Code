@@ -12,7 +12,7 @@ A local educational agency may receive funds under this part for any fiscal year
 
 #### (2) Special rule
 
-&emsp;No local educational agency shall be required to provide services under this part through a particular instructional method or in a particular instructional setting in order to demonstrate such agency's compliance with paragraph (1).
+&emsp;No local educational agency shall be required to provide services under this partthrough a particular instructional method or in a particular instructional setting in order to demonstrate such agency's compliance with paragraph (1).
 
 #### (c) Comparability of services
 
@@ -78,7 +78,7 @@ For the purpose of complying with subsections (b) and (c) of this section, a Sta
 
 #### Prior Provisions
 
-A prior section 6321, Pub. L. 89–10, title I, §1120, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3557, related to participation of children enrolled in private schools, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6320 of this title.
+A prior section 6321, Pub. L. 89–10, title I, §1120, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3557, related to participation of children enrolled in private schools, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6320 of this title.
 
 A prior section 1120A of Pub. L. 89–10 was classified to section 6322 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 

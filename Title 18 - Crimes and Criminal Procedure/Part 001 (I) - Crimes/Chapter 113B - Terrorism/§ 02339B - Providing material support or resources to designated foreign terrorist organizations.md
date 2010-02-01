@@ -164,17 +164,17 @@ In general.—An appeal taken pursuant to this paragraph, either before or durin
 
 &emsp;&emsp;&emsp;(ii)
 
-Appeals prior to trial.—If an appeal is of an order made prior to trial, an appeal shall be taken not later than 10 days after the decision or order appealed from, and the trial shall not commence until the appeal is resolved.
+Appeals prior to trial.—If an appeal is of an order made prior to trial, an appeal shall be taken not later than 14 days after the decision or order appealed from, and the trial shall not commence until the appeal is resolved.
 
 &emsp;&emsp;&emsp;(iii)
 
 Appeals during trial.—If an appeal is taken during trial, the trial court shall adjourn the trial until the appeal is resolved, and the court of appeals—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall hear argument on such appeal not later than 4 days after the adjournment of the trial;
+&emsp;&emsp;&emsp;&emsp;(I) shall hear argument on such appeal not later than 4 days after the adjournment of the trial, excluding intermediate weekends and holidays;
 
 &emsp;&emsp;&emsp;&emsp;(II) may dispense with written briefs other than the supporting materials previously submitted to the trial court;
 
-&emsp;&emsp;&emsp;&emsp;(III) shall render its decision not later than 4 days after argument on appeal; and
+&emsp;&emsp;&emsp;&emsp;(III) shall render its decision not later than 4 days after argument on appeal, excluding intermediate weekends and holidays; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) may dispense with the issuance of a written opinion in rendering its decision.
 
@@ -214,7 +214,7 @@ Rule of Construction.—Nothing in this section shall be construed or applied so
 
 Exception.—No person may be prosecuted under this section in connection with the term “personnel”, “training”, or “expert advice or assistance” if the provision of that material support or resources to a foreign terrorist organization was approved by the Secretary of State with the concurrence of the Attorney General. The Secretary of State may not approve the provision of any material support that may be used to carry out terrorist activity (as defined in section 212(a)(3)(B)(iii) of the Immigration and Nationality Act).
 
-(Added Pub. L. 104–132, title III, §303(a), Apr. 24, 1996, 110 Stat. 1250; amended Pub. L. 107–56, title VIII, §810(d), Oct. 26, 2001, 115 Stat. 380; Pub. L. 108–458, title VI, §6603(c)–(f), Dec. 17, 2004, 118 Stat. 3762, 3763.)
+(Added Pub. L. 104–132, title III, §303(a), Apr. 24, 1996, 110 Stat. 1250; amended Pub. L. 107–56, title VIII, §810(d), Oct. 26, 2001, 115 Stat. 380; Pub. L. 108–458, title VI, §6603(c)–(f), Dec. 17, 2004, 118 Stat. 3762, 3763; Pub. L. 111–16, §3(6)–(8), May 7, 2009, 123 Stat. 1608.)
 
 #### References in Text
 
@@ -230,6 +230,12 @@ Section 219 of the Immigration and Nationality Act, referred to in subsec. (g)(6
 
 #### Amendments
 
+2009—Subsec. (f)(5)(B)(ii). Pub. L. 111–16, §3(6), substituted “14 days” for “10 days”.
+
+Subsec. (f)(5)(B)(iii)(I). Pub. L. 111–16, §3(7), inserted “, excluding intermediate weekends and holidays” after “trial”.
+
+Subsec. (f)(5)(B)(iii)(III). Pub. L. 111–16, §3(8), inserted “, excluding intermediate weekends and holidays” for “appeal”.
+
 2004—Subsec. (a)(1). Pub. L. 108–458, §6603(c), struck out “, within the United States or subject to the jurisdiction of the United States,” after “Whoever” and inserted at end “To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).”
 
 Subsec. (d). Pub. L. 108–458, §6603(d), designated existing provisions as par. (2), inserted par. (2) heading, and added par. (1).
@@ -239,6 +245,10 @@ Subsec. (g)(4). Pub. L. 108–458, §6603(e), amended par. (4) generally. Prior 
 Subsecs. (h) to (j). Pub. L. 108–458, §6603(f), added subsecs. (h) to (j).
 
 2001—Subsec. (a)(1). Pub. L. 107–56 substituted “15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life” for “10 years, or both”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 111–16, set out as a note under section 109 of Title 11, Bankruptcy.
 
 #### Findings and Purpose
 

@@ -54,7 +54,7 @@ Pub. L. 105–323, title II, Oct. 30, 1998, 112 Stat. 3033, provided that:
 
 #### Judicial Assistance to International Tribunal for Yugoslavia and International Tribunal for Rwanda
 
-Pub. L. 104–106, div. A, title XIII, §1342, Feb. 10, 1996, 110 Stat. 486, provided that:
+Pub. L. 104–106, div. A, title XIII, §1342, Feb. 10, 1996, 110 Stat. 486, as amended by Pub. L. 111–117, div. F, title VII, §7034(t), Dec. 16, 2009, 123 Stat. 3364, provided that:
 
 “(a)
 
@@ -96,11 +96,11 @@ International tribunal for yugoslavia.—The term ‘International Tribunal for 
 
 &emsp;“(2)
 
-International tribunal for rwanda.—The term ‘International Tribunal for Rwanda’ means theInternational Tribunal for the Prosecution of Persons Responsible for Genocide and Other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan Citizens Responsible for Genocide and Other Such Violations Committed in the Territory of Neighboring States, as established by United Nations Security Council Resolution 955 of November 8, 1994.
+International tribunal for rwanda.—The term ‘International Tribunal for Rwanda’ means the International Tribunal for the Prosecution of Persons Responsible for Genocide and Other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan Citizens Responsible for Genocide and Other Such Violations Committed in the Territory of Neighboring States, as established by United Nations Security Council Resolution 955 of November 8, 1994.
 
 &emsp;“(3)
 
-Agreement between the united states and the international tribunal for yugoslavia.—The term ‘Agreement Between the United States and the International Tribunal for Yugoslavia’ means the Agreement on Surrender of Persons Between the Government of the United States and the International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Law in the Territory of the Former Yugoslavia, signed at The Hague, October 5, 1994.
+Agreement between the united states and the international tribunal for yugoslavia.—The term ‘Agreement Between the United States and the International Tribunal for Yugoslavia’ means the Agreement on Surrender of Persons Between the Government of the United States and the International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Law in the Territory of the Former Yugoslavia, signed at The Hague, October 5, 1994, as amended.
 
 &emsp;“(4)
 
@@ -118,30 +118,31 @@ Pub. L. 100–204, title VIII, §803, Dec. 22, 1987, 101 Stat. 1397, provided th
 
 Pub. L. 99–93, title I, §133, Aug. 16, 1985, 99 Stat. 420, provided that: “The Secretary of State, with the assistance of the National Drug Enforcement Policy Board, shall increase United States efforts to negotiate updated extradition treaties relating to narcotics offenses with each major drug-producing country, particularly those in Latin America.”
 
-#### TREATIES OF EXTRADITION
+#### EXTRADITION AGREEMENTS
 
-The United States currently has bilateral extradition treaties with the following countries:
+The United States currently has bilateral extradition agreements with the following countries:
 
 &nbsp;
 
 | Country | Date signed | Entered into force | Citation |
 | :--- | :---: | :---: | ---: |
 | Albania | Mar. 1, 1933 | Nov. 14, 1935 | 49 Stat. 3313. |
-| Antigua and Barbuda | June 3, 1996 | July 1, 1999 | &nbsp; |
-| Argentina | June 10, 1997 | June 15, 2000 | &nbsp; |
-| Australia DMay 14, 1974 DMay 8, 1976 D27 UST 957. |  |  |  |
-| &nbsp; | Sept. 4, 1990 | Dec. 21, 1992 | &nbsp; |
-| Austria DJan. 8, 1998 DJan. 1, 2000 D&nbsp; |  |  |  |
-| &nbsp; | May 19, 1934 | Sept. 5, 1934 | 49 Stat. 2710. |
+| Antigua and Barbuda | June 3, 1996 | July 1, 1999 | TIAS. |
+| Argentina | June 10, 1997 | June 15, 2000 | TIAS 12866. |
+| Australia DDec. 22, 1931 DAug. 30, 1935 D47 Stat. 2122. |  |  |  |
+| &nbsp; | May 14, 1974 | May 8, 1976 | 27 UST 957. |
+| &nbsp; | Sept. 4, 1990 | Dec. 21, 1992 | 1736 UNTS 344. |
+| Austria | Jan. 8, 1998 | Jan. 1, 2000 | TIAS 12916. |
 | Bahamas | Mar. 9, 1990 | Sept. 22, 1994 | TIAS. |
-| Barbados | Feb. 28, 1996 | Mar. 3, 2000 | &nbsp; |
-| Belgium | Apr. 27, 1987 | Sept. 1, 1997 | &nbsp; |
-| Belize | Mar. 30, 2000 | Mar. 27, 2001 | &nbsp; |
-| Bolivia | June 27, 1995 | Nov. 21, 1996 | &nbsp; |
+| Barbados | Feb. 28, 1996 | Mar. 3, 2000 | TIAS. |
+| Belgium | Apr. 27, 1987 | Sept. 1, 1997 | TIAS. |
+| Belize | Mar. 30, 2000 | Mar. 27, 2001 | TIAS. |
+| Bolivia | June 27, 1995 | Nov. 21, 1996 | TIAS. |
 | Brazil DJan. 13, 1961 DDec. 17, 1964 D15 UST 2093. |  |  |  |
 | &nbsp; | June 18, 1962 | Dec. 17, 1964 | 15 UST 2112. |
 | Bulgaria DMar. 19, 1924 DJune 24, 1924 D43 Stat. 1886. |  |  |  |
 | &nbsp; | June 8, 1934 | Aug. 15, 1935 | 49 Stat. 3250. |
+| &nbsp; | Sept. 19, 2007 | May 21, 2009 | &nbsp; |
 | Burma | Dec. 22, 1931 | Nov. 1, 1941 | 47 Stat. 2122. |
 | Canada DDec. 3, 1971 DMar. 22, 1976 D27 UST 983. |  |  |  |
 | &nbsp; | June 28, July 9, 1974 | Mar. 22, 1976 | 27 UST 1017. |
@@ -149,18 +150,17 @@ The United States currently has bilateral extradition treaties with the followin
 | &nbsp; | Jan. 12, 2001 | Apr. 30, 2003 | &nbsp; |
 | Chile | Apr. 17, 1900 | June 26, 1902 | 32 Stat. 1850. |
 | Colombia | Sept. 14, 1979 | Mar. 4, 1982 | TIAS. |
-| Congo DJan. 6, 1909 DJuly 27, 1911 D37 Stat. 1526. |  |  |  |
+| Congo (Brazzaville) DJan. 6, 1909 DJuly 27, 1911 D37 Stat. 1526. |  |  |  |
 | &nbsp; | Jan. 15, 1929 | May 19, 1929 | 46 Stat. 2276. |
 | &nbsp; | Apr. 23, 1936 | Sept. 24, 1936 | 50 Stat. 1117. |
-| &nbsp; |  | Aug. 5, 1961 | 13 UST 2065. |
 | Costa Rica | Dec. 4, 1982 | Oct. 11, 1991 | TIAS. |
 | Cuba DApr. 6, 1904 DMar. 2, 1905 D33 Stat. 2265. |  |  |  |
 | &nbsp; | Dec. 6, 1904 | Mar. 2, 1905 | 33 Stat. 2273. |
 |  | Jan. 14, 1926 | June 18, 1926 | 44 Stat. 2392. |
-| Cyprus | June 17, 1996 | Sept. 14, 1999 | &nbsp; |
-| Czech Republic | July 2, 1925Apr. 29, 1935 | Mar. 29, 1926Aug. 28, 1935 | 44 Stat. 2367.49 Stat. 3253. |
+| Cyprus | June 17, 1996 | Sept. 14, 1999 | TIAS. |
+| Czech Republic <sup>1</sup> | July 2, 1925Apr. 29, 1935 | Mar. 29, 1926Aug. 28, 1935 | 44 Stat. 2367.49 Stat. 3253. |
 | Denmark | June 22, 1972 | July 31, 1974 | 25 UST 1293. |
-| Dominica | Oct. 10, 1996 | May 25, 2000 | &nbsp; |
+| Dominica | Oct. 10, 1996 | May 25, 2000 | TIAS. |
 | Dominican Republic | June 19, 1909 | Aug. 2, 1910 | 36 Stat. 2468. |
 | Ecuador DJune 28, 1872 DNov. 12, 1873 D18 Stat. 199. |  |  |  |
 | &nbsp; | Sept. 22, 1939 | May 29, 1941 | 55 Stat. 1196. |
@@ -168,115 +168,121 @@ The United States currently has bilateral extradition treaties with the followin
 | El Salvador | Apr. 18, 1911 | July 10, 1911 | 37 Stat. 1516. |
 | Estonia DNov. 8, 1923 DNov. 15, 1924 D43 Stat. 1849. |  |  |  |
 | &nbsp; | Oct. 10, 1934 | May 7, 1935 | 49 Stat. 3190. |
+| &nbsp; | Feb. 8, 2006 | Apr. 7, 2009 | &nbsp; |
 | Fiji DDec. 22, 1931 DJune 24, 1935 D47 Stat. 2122. |  |  |  |
-| &nbsp; |  | Aug. 17, 1973 | 24 UST 1965. |
+| &nbsp; | July 14, 1972, Aug. 17, 1973 | Aug. 17, 1973 | 24 UST 1965. |
 | Finland | June 11, 1976 | May 11, 1980 | 31 UST 944. |
-| France | Apr. 23, 1996 | Feb. 1, 2002 | &nbsp; |
+| France | Apr. 23, 1996 | Feb. 1, 2002 | TIAS. |
 | Gambia | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
 | Germany DJune 20, 1978 DAug. 29, 1980 D32 UST 1485. |  |  |  |
-| &nbsp; | Oct. 21, 1986 | Mar. 11, 1993 | &nbsp; |
+| &nbsp; | Oct. 21, 1986 | Mar. 11, 1993 | TIAS. |
 | Ghana | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
 | Greece DMay 6, 1931 DNov. 1, 1932 D47 Stat. 2185. |  |  |  |
 | &nbsp; | Sept. 2, 1937 | Sept. 2, 1937 | 51 Stat. 357. |
-| Grenada | May 30, 1996 | Sept. 14, 1999 | &nbsp; |
+| Grenada | May 30, 1996 | Sept. 14, 1999 | TIAS. |
 | Guatemala DFeb. 27, 1903 DAug. 15, 1903 D33 Stat. 2147. |  |  |  |
 | &nbsp; | Feb. 20, 1940 | Mar. 13, 1941 | 55 Stat. 1097. |
 | Guyana | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
 | Haiti | Aug. 9, 1904 | June 28, 1905 | 34 Stat. 2858. |
 | Honduras DJan. 15, 1909 DJuly 10, 1912 D37 Stat. 1616. |  |  |  |
 | &nbsp; | Feb. 21, 1927 | June 5, 1928 | 45 Stat. 2489. |
-| Hong Kong | Dec. 20, 1996 | Jan. 21, 1998 | &nbsp; |
-| Hungary | Dec. 1, 1994 | Mar. 18, 1997 | &nbsp; |
-| Iceland DJan. 6, 1902 D D32 Stat. 1096. |  |  |  |
+| Hong Kong | Dec. 20, 1996 | Jan. 21, 1998 | TIAS. |
+| Hungary | Dec. 1, 1994 | Mar. 18, 1997 | TIAS. |
+| Iceland DJan. 6, 1902 DMay 16, 1902 D32 Stat. 1096. |  |  |  |
 | &nbsp; | Nov. 6, 1905 | Feb. 19, 1906 | 34 Stat. 2887. |
-| India | June 25, 1997 | July 21, 1999 | &nbsp; |
+| India | June 25, 1997 | July 21, 1999 | TIAS 12873. |
 | Iraq | June 7, 1934 | Apr. 23, 1936 | 49 Stat. 3380. |
 | Ireland | July 13, 1983 | Dec. 15, 1984 | TIAS 10813. |
-| Israel DDec. 10, 1962 DDec. 5, 1963 D14 UST 1707. |  |  |  |
-| &nbsp; |  | Apr. 11, 1967 | 18 UST 382. |
+| Israel DDec. 10, 1962 DDec. 5, 1963 D14 UST 1707.<sup>2</sup> |  |  |  |
 | &nbsp; | July 6, 2005 | Jan. 10, 2007 | &nbsp; |
-| Italy | Oct. 13, 1983 | Sept. 24, 1984 | TIAS 10837. |
-| Jamaica | June 14, 1983 | July 7, 1991 | &nbsp; |
+| Italy | Oct. 13, 1983 | Sept. 24, 1984 | 35 UST 3023. |
+| Jamaica | June 14, 1983 | July 7, 1991 | TIAS. |
 | Japan | Mar. 3, 1978 | Mar. 26, 1980 | 31 UST 892. |
-| Jordan | Mar. 28, 1995 | July 29, 1995 |  |
+| Jordan | Mar. 28, 1995 | July 29, 1995 | TIAS. |
 | Kenya DDec. 22, 1931 DJune 24, 1935 D47 Stat. 2122. |  |  |  |
-| &nbsp; |  | Aug. 19, 1965 | 16 UST 1866. |
+| &nbsp; | May 14, Aug. 19, 1965 | Aug. 19, 1965 | 16 UST 1866. |
 | Kiribati | June 8, 1972 | Jan. 21, 1977 | 28 UST 227. |
-| Korea | June 9, 1998 | Dec. 20, 1999 | &nbsp; |
 | Latvia DOct. 16, 1923 DMar. 1, 1924 D43 Stat. 1738. |  |  |  |
 | &nbsp; | Oct. 10, 1934 | Mar. 29, 1935 | 49 Stat. 3131. |
+| &nbsp; | Dec. 7, 2005 | Apr. 15, 2009 | &nbsp; |
 | Lesotho | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
 | Liberia | Nov. 1, 1937 | Nov. 21, 1939 | 54 Stat. 1733. |
 | Liechtenstein | May 20, 1936 | June 28, 1937 | 50 Stat. 1337. |
-| Lithuania DOct. 23, 2001 DMar. 31, 2003 D&nbsp; |  |  |  |
-| Luxembourg | Oct. 1, 1996 | Feb. 1, 2002 | &nbsp; |
+| Lithuania DOct. 23, 2001 DMar. 31, 2003 DTIAS 13166. |  |  |  |
+| Luxembourg | Oct. 1, 1996 | Feb. 1, 2002 | TIAS 12804. |
 | Malawi DDec. 22, 1931 DJune 24, 1935 D47 Stat. 2122. |  |  |  |
-| &nbsp; |  | Apr. 4, 1967 | 18 UST 1822. |
-| Malaysia | Aug. 3, 1995 | June 2, 1997 | &nbsp; |
-| Malta | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
+| &nbsp; | Dec. 17, 1966, Jan. 6, Apr. 4, 1967 | Apr. 4, 1967 | 18 UST 1822. |
+| Malaysia | Aug. 3, 1995 | June 2, 1997 | TIAS. |
+| Malta DDec. 22, 1931 DJune 24, 1935 D47 Stat. 2122. |  |  |  |
+| &nbsp; | May 18, 2006 | July 1, 2009 | &nbsp; |
+| Marshall Islands | Apr. 30, 2003 | May 1, 2004 | &nbsp; |
 | Mauritius | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
 | Mexico DMay 4, 1978 DJan. 25, 1980 D31 UST 5059. |  |  |  |
-| &nbsp; | Nov. 13, 1997 | May 21, 2001 | &nbsp; |
+| &nbsp; | Nov. 13, 1997 | May 21, 2001 | TIAS 12897. |
+| Micronesia, Federated States of | May 14, 2003 | June 25, 2004 | &nbsp; |
 | Monaco | Feb. 15, 1939 | Mar. 28, 1940 | 54 Stat. 1780. |
 | Nauru | Dec. 22, 1931 | Aug. 30, 1935 | 47 Stat. 2122. |
-| Netherlands | June 24, 1980 | Sept. 15, 1983 | TIAS 10733. |
-| New Zealand | Jan. 12, 1970. | Dec. 8, 1970 | 22 UST 1. |
+| Netherlands | June 24, 1980 | Sept. 15, 1983 | 35 UST 1334. |
+| New Zealand | Jan. 12, 1970 | Dec. 8, 1970 | 22 UST 1. |
 | Nicaragua | Mar. 1, 1905 | July 14, 1907 | 35 Stat. 1869. |
 | Nigeria | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
 | Norway | June 9, 1977 | Mar. 7, 1980 | 31 UST 5619. |
 | Pakistan | Dec. 22, 1931 | Mar. 9, 1942 | 47 Stat. 2122. |
 | Panama | May 25, 1904 | May 8, 1905 | 34 Stat. 2851. |
-| Papua New Guinea | Dec. 22, 1931 | Aug. 30, 1935 | 47 Stat. 2122. |
-| Paraguay | Nov. 9, 1998 | Mar. 9, 2001 | &nbsp; |
+| Papua New Guinea DDec. 22, 1931 DAug. 30, 1935 D47 Stat. 2122. |  |  |  |
+| &nbsp; | Feb. 2, 23, 1988 | Feb. 23, 1988 | TIAS. |
+| Paraguay | Nov. 9, 1998 | Mar. 9, 2001 | TIAS 12995. |
 | Peru | July 26, 2001 | Aug. 25, 2003 | &nbsp; |
-| Philippines | Nov. 13, 1994 | Nov. 22, 1996 | &nbsp; |
-| Poland DJuly 10, 1996 DSept. 17, 1999 D&nbsp; |  |  |  |
-| &nbsp; | Apr. 5, 1935 | June 5, 1936 | 49 Stat. 3394. |
+| Philippines | Nov. 13, 1994 | Nov. 22, 1996 | TIAS. |
+| Poland | July 10, 1996 | Sept. 17, 1999 | TIAS. |
 | Portugal | May 7, 1908 | Nov. 14, 1908 | 35 Stat. 2071. |
 | Romania DJuly 23, 1924 DApr. 7, 1925 D44 Stat. 2020. |  |  |  |
 | &nbsp; | Nov. 10, 1936 | July 27, 1937 | 50 Stat. 1349. |
-| Saint Christopher and Nevis | Sept. 18, 1996 | Feb. 23, 2000 | &nbsp; |
-| Saint Lucia | Apr. 18, 1996 | Feb. 2, 2000 | &nbsp; |
-| Saint Vincent and the Grenadines | Aug. 15, 1996 | Sept. 8, 1999 | &nbsp; |
+| &nbsp; | Sept. 10, 2007 | May 8, 2009 | &nbsp; |
+| Saint Kitts and Nevis | Sept. 18, 1996 | Feb. 23, 2000 | TIAS 12805. |
+| Saint Lucia | Apr. 18, 1996 | Feb. 2, 2000 | TIAS. |
+| Saint Vincent and the Grenadines | Aug. 15, 1996 | Sept. 8, 1999 | TIAS. |
 | San Marino DJan. 10, 1906 DJuly 8, 1908 D35 Stat. 1971. |  |  |  |
 | &nbsp; | Oct. 10, 1934 | June 28, 1935 | 49 Stat. 3198. |
 | Seychelles | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
 | Sierra Leone | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
 | Singapore DDec. 22, 1931 DJune 24, 1935 D47 Stat. 2122. |  |  |  |
-| &nbsp; |  | June 10, 1969 | 20 UST 2764. |
-| Slovac Republic DJuly 2, 1925Apr. 29, 1935 DMar. 29, 1926Aug. 28, 1935 D44 Stat. 236749 Stat. 3253. |  |  |  |
+| &nbsp; | Apr. 23, June 10, 1969 | June 10, 1969 | 20 UST 2764. |
+| Slovakia <sup>1</sup>DJuly 2, 1925Apr. 29, 1935DMar. 29, 1926Aug. 28, 1935D44 Stat. 2367.49 Stat. 3253. |  |  |  |
 | Solomon Islands | June 8, 1972 | Jan. 21, 1977 | 28 UST 277. |
-| South Africa | Sept. 16, 1999 | June 25, 2001 | &nbsp; |
+| South Africa | Sept. 16, 1999 | June 25, 2001 | TIAS. |
+| South Korea | June 9, 1998 | Dec. 20, 1999 | TIAS 12962. |
 | Spain DMay 29, 1970 DJune 16, 1971 D22 UST 737. |  |  |  |
 | &nbsp; | Jan. 25, 1975 | June 2, 1978 | 29 UST 2283. |
-| &nbsp; | Feb. 9, 1988 | July 2, 1993 | &nbsp; |
-| &nbsp; | Mar. 12, 1996 | July 25, 1999 | &nbsp; |
-| Sri Lanka | Sept. 30, 1999 | Jan. 12, 2001 | &nbsp; |
+| &nbsp; | Feb. 9, 1988 | July 2, 1993 | TIAS. |
+| &nbsp; | Mar. 12, 1996 | July 25, 1999 | TIAS. |
+| Sri Lanka | Sept. 30, 1999 | Jan. 12, 2001 | TIAS. |
 | Suriname DJune 2, 1887 DJuly 11, 1889 D26 Stat. 1481. |  |  |  |
 | &nbsp; | Jan. 18, 1904 | Aug. 28, 1904 | 33 Stat. 2257. |
 | Swaziland DDec. 22, 1931 DJune 24, 1935 D47 Stat. 2122. |  |  |  |
-| &nbsp; |  | July 28, 1970 | 21 UST 1930. |
+| &nbsp; | May 13, July 28, 1970 | July 28, 1970 | 21 UST 1930. |
 | Sweden DOct. 24, 1961 DDec. 3, 1963 D14 UST 1845. |  |  |  |
-| &nbsp; | Mar. 14, 1983 | Sept. 24, 1984 | TIAS 10812. |
-| Switzerland | Nov. 14, 1990 | Sept. 10, 1997 | &nbsp; |
+| &nbsp; | Mar. 14, 1983 | Sept. 24, 1984 | 35 UST 2501. |
+| Switzerland | Nov. 14, 1990 | Sept. 10, 1997 | TIAS. |
 | Tanzania DDec. 22, 1931 DJune 24, 1935 D47 Stat. 2122. |  |  |  |
-| &nbsp; |  | Dec. 6, 1965 | 16 UST 2066. |
-| Thailand | Dec. 30, 1922 | Mar. 24, 1924 | 43 Stat. 1749. |
+| &nbsp; | Nov. 30, Dec. 6, 1965 | Dec. 6, 1965 | 16 UST 2066. |
+| Thailand | Dec. 14, 1983 | May 17, 1991 | TIAS. |
 | Tonga DDec. 22, 1931 DAug. 1, 1966 D47 Stat. 2122. |  |  |  |
-| &nbsp; |  | Apr. 13, 1977 | 28 UST 5290. |
-| Trinidad and Tobago | Mar. 4, 1996 | Nov. 29, 1999 | &nbsp; |
+| &nbsp; | Mar. 14, Apr. 13, 1977 | Apr. 13, 1977 | 28 UST 5290. |
+| Trinidad and Tobago | Mar. 4, 1996 | Nov. 29, 1999 | TIAS. |
 | Turkey | June 7, 1979 | Jan. 1, 1981 | 32 UST 3111. |
 | Tuvalu DJune 8, 1972 DJan. 21, 1977 D28 UST 227. |  |  |  |
 | &nbsp; |  | Apr. 25, 1980 | 32 UST 1310. |
-| United Kingdom | June 8, 1972June 25, 1985 | Jan. 21, 1977Dec. 23, 1986 | 28 UST 227.TIAS. |
-| &nbsp; | Mar. 31, 2003 | Apr. 26, 2007 |  |
-| Uruguay | Apr. 6, 1973 | Apr. 11, 1984 | TIAS 10850. |
+| United Kingdom | Mar. 31, 2003 | Apr. 26, 2007 | &nbsp; |
+| Uruguay | Apr. 6, 1973 | Apr. 11, 1984 | 35 UST 3197. |
 | Venezuela | Jan. 19, 21, 1922 | Apr. 14, 1923 | 43 Stat. 1698. |
 | Yugoslavia <sup>1</sup> | Oct. 25, 1901 | June 12, 1902 | 32 Stat. 1890. |
 | Zambia | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
 | Zimbabwe | July 25, 1997 | Apr. 26, 2000 | &nbsp; |
 
-<sup>1</sup> For the successor States of Yugoslavia, inquire of the Treaty Office of the United States Department of State.
+<sup>1</sup> Status of agreements with successor states of Czechoslovakia and Yugoslavia is under review; inquire of the Treaty Office of the United States Department of State.
+
+<sup>2</sup> Typographical error corrected by diplomatic notes exchanged Apr. 4 and 11, 1967. See 18 UST 382, 383.
 
 #### Convention on Extradition
 

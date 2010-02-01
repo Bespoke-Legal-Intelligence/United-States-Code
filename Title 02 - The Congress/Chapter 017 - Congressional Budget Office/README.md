@@ -13,6 +13,7 @@
 | [609\.](%C2%A7%2000609%20-%20Employee%20training.md) | Employee training. |
 | [610\.](%C2%A7%2000610%20-%20Repayment%20of%20student%20loan%20on%20behalf%20of%20employee.md) | Repayment of student loan on behalf of employee. |
 | [611\.](%C2%A7%2000611%20-%20Employee%20development%20program.md) | Employee development program. |
+| [612\.](%C2%A7%2000612%20-%20Executive%20exchange%20program.md) | Executive exchange program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -32,3 +33,4 @@
 - [&sect; 00609 - Employee training](%C2%A7%2000609%20-%20Employee%20training.md)
 - [&sect; 00610 - Repayment of student loan on behalf of employee](%C2%A7%2000610%20-%20Repayment%20of%20student%20loan%20on%20behalf%20of%20employee.md)
 - [&sect; 00611 - Employee development program](%C2%A7%2000611%20-%20Employee%20development%20program.md)
+- [&sect; 00612 - Executive exchange program](%C2%A7%2000612%20-%20Executive%20exchange%20program.md)

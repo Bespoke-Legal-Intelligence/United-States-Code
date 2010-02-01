@@ -42,7 +42,7 @@ Except to the extent that enforcement of the requirements imposed under this sub
 
 The authority of the Board to issue regulations under this subchapter does not impair the authority of any other agency designated in this section to make rules respecting its own procedures in enforcing compliance with requirements imposed under this subchapter.
 
-(Pub. L. 90–321, title VII, §704, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1522; amended Pub. L. 94–239, §4, Mar. 23, 1976, 90 Stat. 253; Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(m), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(d), Dec. 19, 1991, 105 Stat. 2300; Pub. L.102–550, title XVI, §1604(a)(7), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §315, Dec. 29, 1995, 109 Stat. 948.)
+(Pub. L. 90–321, title VII, §704, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1522; amended Pub. L. 94–239, §4, Mar. 23, 1976, 90 Stat. 253; Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(m), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(d), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, §1604(a)(7), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §315, Dec. 29, 1995, 109 Stat. 948.)
 
 #### References in Text
 

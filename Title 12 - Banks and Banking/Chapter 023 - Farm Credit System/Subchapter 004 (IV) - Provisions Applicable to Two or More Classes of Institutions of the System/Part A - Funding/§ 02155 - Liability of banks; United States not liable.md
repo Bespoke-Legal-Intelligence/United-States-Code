@@ -12,7 +12,7 @@
 
 (D) If the Farm Credit Administration makes any such call and the available collateral of all such banks does not fully satisfy the liability necessitating such calls, such calls shall be made on all nondefaulting banks in proportion to each such bank's remaining assets.
 
-(E) Any System bank that, pursuant to a call by the Farm Credit Administration, makes a payment of principal or interest to the holder of any consolidated or System-wide obligation issued on behalf of another System bank shall be subrogated to all rights of the holder against such other bank to the extent of such payment.
+(E) Any System bank that, pursuant to a call by the Farm Credit Administration, makes apayment of principal or interest to the holder of any consolidated or System-wide obligation issued on behalf of another System bank shall be subrogated to all rights of the holder against such other bank to the extent of such payment.
 
 (F) On making such a call with respect to obligations issued on behalf of a System bank, the Farm Credit Administration shall appoint a receiver for the bank, which shall expeditiously liquidate or otherwise wind up the affairs of the bank.
 

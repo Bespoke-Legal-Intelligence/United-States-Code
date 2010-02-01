@@ -4,7 +4,7 @@
 
 (b)(1) Except as provided in subsection (a) of this section, an official may make, and the head of an executive agency may request, an apportionment under section 1512 of this title that would indicate a necessity for a deficiency or supplemental appropriation only when the official or agency head decides that the action is required because of—
 
-&emsp;(A) a law enacted after submission to Congress of the estimates for an appropriationthat requires an expenditure beyond administrative control; or
+&emsp;(A) a law enacted after submission to Congress of the estimates for an appropriation that requires an expenditure beyond administrative control; or
 
 &emsp;(B) an emergency involving the safety of human life, the protection of property, or the immediate welfare of individuals when an appropriation that would allow the United States Government to pay, or contribute to, amounts required to be paid to individuals in specific amounts fixed by law or under formulas prescribed by law, is insufficient.
 

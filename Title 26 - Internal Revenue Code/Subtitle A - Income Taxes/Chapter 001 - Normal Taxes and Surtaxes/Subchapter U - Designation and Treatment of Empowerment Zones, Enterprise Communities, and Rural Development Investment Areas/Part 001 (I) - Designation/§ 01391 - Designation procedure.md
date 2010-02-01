@@ -12,7 +12,7 @@ From among the areas nominated for designation under this section, the appropria
 
 #### (2) Empowerment zones
 
-&emsp;The appropriate Secretaries may designate in the aggregate 11 nominated areas as empowerment zones under this section, subject to the availability of eligible nominated areas. Of that number, not more than 8 may be designated in urban areas and not more than 3 may be designated in rural areas. If 6 empowerment zones are designated in urban areas, no less than 1 shall be designated in an urban area the most populous city of which has a population of 500,000 or less and no less than 1 shall be a nominated area which includes areas in 2 States and which has a population of 50,000 or less. The Secretary of Housing and Urban Development shall designate empowerment zones located in urban areas in such a manner that the aggregate population of all such zones does not exceed 1,000,000.
+&emsp;The appropriate Secretaries may designate in the aggregate 11 nominated areas as empowerment zones under this section, subject to the availability of eligible nominated areas. Of that number, not more than 8 may be designated in urban areas and not more than 3 may be designated in rural areas. If 6 empowerment zones are designated in urbanareas, no less than 1 shall be designated in an urban area the most populous city of which has a population of 500,000 or less and no less than 1 shall be a nominated area which includes areas in 2 States and which has a population of 50,000 or less. The Secretary of Housing and Urban Development shall designate empowerment zones located in urban areas in such a manner that the aggregate population of all such zones does not exceed 1,000,000.
 
 #### (c) Period designations may be made
 
@@ -34,7 +34,7 @@ A designation may be made under subsection (a) only after 1993 and before 1996.
 
 #### (2) Revocation of designation
 
-&emsp;The appropriate Secretary may revoke the designation under this section of an area ifsuch Secretary determines that the local government or the State in which it is located—
+&emsp;The appropriate Secretary may revoke the designation under this section of an area if such Secretary determines that the local government or the State in which it is located—
 
 &emsp;&emsp;(A) has modified the boundaries of the area, or
 
@@ -112,7 +112,7 @@ No area may be designated under this section unless the application for such des
 
 #### (iii) Exception for developable sites
 
-&emsp;&emsp;&emsp;Clause (i) shall not apply to up to 3 noncontiguous parcels in a nominated areawhich may be developed for commercial or industrial purposes. The aggregate area of noncontiguous parcels to which the preceding sentence applies with respect to any nominated area shall not exceed 2,000 acres.
+&emsp;&emsp;&emsp;Clause (i) shall not apply to up to 3 noncontiguous parcels in a nominated area which may be developed for commercial or industrial purposes. The aggregate area of noncontiguous parcels to which the preceding sentence applies with respect to any nominated area shall not exceed 2,000 acres.
 
 #### (iv) Certain provisions not to apply
 

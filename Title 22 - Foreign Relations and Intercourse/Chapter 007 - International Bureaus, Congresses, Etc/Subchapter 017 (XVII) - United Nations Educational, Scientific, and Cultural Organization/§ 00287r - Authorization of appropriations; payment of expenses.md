@@ -10,7 +10,7 @@ Article IX of the constitution of the Organization, referred to in text, is arti
 
 The civil-service laws, referred to in clause (a), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
 
-The Subsistence Expenses Act of 1926, as amended, referred to in clause (b), was repealed and superseded by the Travel Expense Act of 1949, which is now covered by subchapter I of chapter 57 of Title 5. Section 9(a) of the 1949 Act provided in part: “All Acts . . . applicable to civilian officers or employees of the departments and establishments, providing for reimbursement of actual travel or transportation expense, and all other Acts, general or special, which are in conflict with the provisions of this Act . . . are hereby modified, but only tothe extent of inconsistency or conflict with the provisions of this Act . . .”
+The Subsistence Expenses Act of 1926, as amended, referred to in clause (b), was repealed and superseded bythe Travel Expense Act of 1949, which is now covered by subchapter I of chapter 57 of Title 5. Section 9(a) of the 1949 Act provided in part: “All Acts . . . applicable to civilian officers or employees of the departments and establishments, providing for reimbursement of actual travel or transportation expense, and all other Acts, general or special, which are in conflict with the provisions of this Act . . . are hereby modified, but only to the extent of inconsistency or conflict with the provisions of this Act . . .”
 
 #### Codification
 

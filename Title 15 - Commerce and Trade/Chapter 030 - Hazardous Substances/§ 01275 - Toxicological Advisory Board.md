@@ -18,7 +18,7 @@
 
 #### (b) Membership; appointment; qualifications; Chairman; term of office; reappointment; vacancies; meetings; compensation and travel expenses; Federal nonemployee status
 
-(1) The Board shall be composed of nine members appointed by the Commission. Each member of the Board shall be qualified by training and experience in one or more fields applicable to the duties of the Board, and at least three of the members of the Board shall be members of the American Board of Medical Toxicology. The Chairman of the Board shall be elected by the Board from among its members.
+(1) The Board shall be composed of nine members appointed by the Commission. Each member of the Board shall be qualified by trainingand experience in one or more fields applicable to the duties of the Board, and at least three of the members of the Board shall be members of the American Board of Medical Toxicology. The Chairman of the Board shall be elected by the Board from among its members.
 
 (2) The members of the Board shall be appointed for terms of three years. Members of the Board may be reappointed.
 

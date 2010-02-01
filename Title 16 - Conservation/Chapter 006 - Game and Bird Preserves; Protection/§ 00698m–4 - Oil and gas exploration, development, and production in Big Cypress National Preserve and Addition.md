@@ -14,7 +14,7 @@ Any rule or regulation promulgated by the Secretary under subsection (a) of this
 
 &emsp;&emsp;(A) the National Park Service and the applicant agree that such final action shall occur within a shorter or longer period of time; or
 
-&emsp;&emsp;(B) the National Park Service determines that an additional period of time is requiredto ensure that the National Park Service has, in reviewing the application, complied with other applicable law, Executive orders and regulations; or
+&emsp;&emsp;(B) the National Park Service determines that an additional period of time is required to ensure that the National Park Service has, in reviewing the application, complied with other applicable law, Executive orders and regulations; or
 
 &emsp;&emsp;(C) the National Park Service, within 30 days from the date of submission of such application, notifies the applicant that such application does not contain all information reasonably necessary to allow the National Park Service to consider such application and requests that such additional information be provided. After receipt of such notification to the applicant, the applicant shall supply any reasonably necessary additional information and shall advise the National Park Service that the applicant believes that the application contains all reasonably necessary information and is therefore complete, whereupon the National Park Service may—
 

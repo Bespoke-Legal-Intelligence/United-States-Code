@@ -20,7 +20,7 @@ The Federal entities for lending regulation shall by regulation require the use 
 
 #### (d) Guarantees regarding information
 
-In providing information regarding special flood hazards on the form developed under this section, any lender (or other person required to use the form) who makes, increases, extends, or renews a loan secured by improved real estate or a mobile home may provide for the acquisition or determination of such information to be made by a person other than such lender (or other person), only to the extent such person guarantees the accuracy of the information.
+In providing information regarding special flood hazards on the form developed under thissection, any lender (or other person required to use the form) who makes, increases, extends, or renews a loan secured by improved real estate or a mobile home may provide for the acquisition or determination of such information to be made by a person other than such lender (or other person), only to the extent such person guarantees the accuracy of the information.
 
 #### (e) Reliance on previous determination
 

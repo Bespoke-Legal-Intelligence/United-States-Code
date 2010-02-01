@@ -24,7 +24,7 @@ A prior section 305 of act July 10, 1954, ch. 469, title III, 68 Stat. 459, enac
 
 #### Amendments
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing deposit of funds generated from sale of commodities into special account, providing that disbursements shall be considered payment by recipient government or as full forgiveness of repayment obligations, consideration of disbursements as payment with respect to credit obligations or annual repayment obligations, and application of dollar sales value of commodities against repayment obligations.
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing deposit of funds generated from sale of commodities into special account, providing that disbursements shall be considered payment by recipient governmentor as full forgiveness of repayment obligations, consideration of disbursements as payment with respect to credit obligations or annual repayment obligations, and application of dollar sales value of commodities against repayment obligations.
 
 1979—Subsec. (a). Pub. L. 96–53, §206, inserted provisions relating to disbursements from the special account equal to the dollar value of credit furnished by the Commodity Credit Corporation under section 1727c(a) of this title.
 

@@ -38,7 +38,7 @@ Without altering in any way the meaning of the following terms as used in any ot
 
 (m) The term “department” means a unit of the executive branch of the Federal Government which is headed by a member of the President's Cabinet and the term “agency” means a unit of the executive branch of the Federal Government which is not under the jurisdiction of a head of a department.
 
-(n) The term “Bureau means the Bureau of Land Management.
+(n) The term “Bureau <sup>2</sup> means the Bureau of Land Management.
 
 (<i>o</i>) The term “eleven contiguous Western States” means the States of Arizona, California, Colorado, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, and Wyoming.
 

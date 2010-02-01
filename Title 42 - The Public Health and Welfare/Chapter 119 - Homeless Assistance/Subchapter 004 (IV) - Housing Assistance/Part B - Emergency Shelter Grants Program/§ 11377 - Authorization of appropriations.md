@@ -4,6 +4,10 @@ There are authorized to be appropriated to carry out this part $138,000,000 for 
 
 (Pub. L. 100–77, title IV, §417, July 22, 1987, 101 Stat. 498; Pub. L. 100–628, title IV, §425, Nov. 7, 1988, 102 Stat. 3232; Pub. L. 101–625, title VIII, §832(a), Nov. 28, 1990, 104 Stat. 4359; Pub. L. 102–550, title XIV, §1402(a), Oct. 28, 1992, 106 Stat. 4012.)
 
+#### Repeal of Section
+
+<i>Pub. L. 111–22, div. B, title II, §1201(2), title V, §1503, May 20, 2009, 123 Stat. 1678, 1702, provided that, effective on, and applicable beginning on, the earlier of the expiration of the 18-month period beginning on May 20, 2009, or the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 of Pub. L. 111–22, this section is repealed.</i>
+
 #### Amendments
 
 1992—Pub. L. 102–550 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to carry out this part $125,000,000 for fiscal year 1991 and $138,000,000 for fiscal year 1992.”

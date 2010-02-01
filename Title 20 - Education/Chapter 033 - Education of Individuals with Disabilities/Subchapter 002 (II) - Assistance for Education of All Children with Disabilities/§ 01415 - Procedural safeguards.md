@@ -256,7 +256,7 @@ Mediation discussions.—Discussions that occur during the mediation process sha
 
 #### (ii) Hearing
 
-&emsp;&emsp;&emsp;If the local educational agency has not resolved the complaint to the satisfactionof the parents within 30 days of the receipt of the complaint, the due process hearing may occur, and all of the applicable timelines for a due process hearing under this subchapter shall commence.
+&emsp;&emsp;&emsp;If the local educational agency has not resolved the complaint to the satisfaction of the parents within 30 days of the receipt of the complaint, the due process hearing may occur, and all of the applicable timelines for a due process hearing under this subchapter shall commence.
 
 #### (iii) Written settlement agreement
 
@@ -300,7 +300,7 @@ Mediation discussions.—Discussions that occur during the mediation process sha
 
 #### (B) Subject matter of hearing
 
-&emsp;&emsp;The party requesting the due process hearing shall not be allowed to raise issues at the due process hearing that were not raised in the notice filed under subsection (b)(7), unless the other party agrees otherwise.
+&emsp;&emsp;The party requesting the due process hearing shall not be allowed to raise issues at the due process hearing that were not raised inthe notice filed under subsection (b)(7), unless the other party agrees otherwise.
 
 #### (C) Timeline for requesting hearing
 
@@ -500,7 +500,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (B), within 10 school days of any decision tochange the placement of a child with a disability because of a violation of a code of student conduct, the local educational agency, the parent, and relevant members of the IEP Team (as determined by the parent and the local educational agency) shall review all relevant information in the student's file, including the child's IEP, any teacher observations, and any relevant information provided by the parents to determine—
+&emsp;&emsp;&emsp;Except as provided in subparagraph (B), within 10 school days of any decision to change the placement of a child with a disability because of a violation of a code of student conduct, the local educational agency, the parent, and relevant members of the IEP Team (as determined by the parent and the local educational agency) shall review all relevant information in the student's file, including the child's IEP, any teacher observations, and any relevant information provided by the parents to determine—
 
 &emsp;&emsp;&emsp;&emsp;(I) if the conduct in question was caused by, or had a direct and substantial relationship to, the child's disability; or
 
@@ -594,7 +594,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (ii) Limitations
 
-&emsp;&emsp;&emsp;If a request is made for an evaluation of a child during the time period in which the child is subjected to disciplinary measures under this subsection, the evaluation shall be conducted in an expedited manner. If the child is determined to be a child with a disability, taking into consideration information from the evaluation conducted by the agency and information provided by the parents, the agency shall provide special education and related services in accordance with this subchapter, except that, pending the results of the evaluation, the child shall remain in the educational placement determined by school authorities.
+&emsp;&emsp;&emsp;If a request is made for an evaluation of a child during the time period in which the child is subjected to disciplinary measures under this subsection, the evaluation shall be conducted in an expedited manner. If the child is determined to be a child with a disability, taking into consideration information from the evaluation conductedby the agency and information provided by the parents, the agency shall provide special education and related services in accordance with this subchapter, except that, pending the results of the evaluation, the child shall remain in the educational placement determined by school authorities.
 
 #### (6) Referral to and action by law enforcement and judicial authorities
 

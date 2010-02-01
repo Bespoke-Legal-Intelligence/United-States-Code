@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The President shall be entitled, by regulation, subpoena, or otherwise, to obtain such information from, require such reports and the keeping of such records by, make such inspection of the books, records, and other writings, premises or property of, and take the sworn testimony of, and administer oaths and affirmations to, any person as may be necessary or appropriate, in the President's discretion, to the enforcement or the administration of this chapter and the regulations issued under this chapter.
+Authority.—The President shall be entitled, by regulation, subpoena, or otherwise, toobtain such information from, require such reports and the keeping of such records by, make such inspection of the books, records, and other writings, premises or property of, and take the sworn testimony of, and administer oaths and affirmations to, any person as may be necessary or appropriate, in the President's discretion, to the enforcement or the administration of this chapter and the regulations issued under this chapter.
 
 (b)
 

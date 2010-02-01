@@ -102,7 +102,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 &emsp;(1) the qualifications and capacity of applicants and networks of organizations to effectively carry out a mentoring program under this section;
 
-&emsp;(2) the comparative severity of need for mentoring services in local areas, taking into consideration data on the numbers of children (and in particular of low-income children) with an incarcerated parents <sup>1</sup> (or parents) in the areas;
+&emsp;(2) the comparative severity of need for mentoring services in local areas, taking into consideration data on the numbers of children\(and in particular of low-income children) with an incarcerated parents <sup>1</sup> (or parents) in the areas;
 
 &emsp;(3) evidence of consultation with existing youth and family service programs, as appropriate; and
 
@@ -270,7 +270,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall enter into a contract with an independent, private organization to evaluate and prepare a report on the first 2 fiscal years in which the demonstration project is conducted under this subsection.
+&emsp;&emsp;The Secretary shall enter into a contract with an independent, private organization to evaluate and prepare a report on the first 2fiscal years in which the demonstration project is conducted under this subsection.
 
 #### (B) Deadline for report
 
@@ -330,7 +330,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 &emsp;&emsp;&emsp;With respect to any fiscal year, no funds may be awarded for a cooperative agreement under subsection (g), unless at least $25,000,000 of the amount appropriated under paragraph (1) for that fiscal year is used by the Secretary for making grants under this section for that fiscal year.
 
-(Aug. 14, 1935, ch. 531, title IV, §439, as added Pub. L. 107–133, title I, §121, Jan. 17, 2002, 115Stat. 2419; amended Pub. L. 109–288, §8, Sept. 28, 2006, 120 Stat. 1249.)
+(Aug. 14, 1935, ch. 531, title IV, §439, as added Pub. L. 107–133, title I, §121, Jan. 17, 2002, 115 Stat. 2419; amended Pub. L. 109–288, §8, Sept. 28, 2006, 120 Stat. 1249.)
 
 #### Codification
 

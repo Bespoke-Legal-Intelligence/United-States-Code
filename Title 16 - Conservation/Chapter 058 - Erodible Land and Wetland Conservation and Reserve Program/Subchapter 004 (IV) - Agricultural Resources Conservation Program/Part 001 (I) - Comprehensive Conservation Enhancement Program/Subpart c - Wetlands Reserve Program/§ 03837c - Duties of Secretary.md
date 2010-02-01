@@ -82,7 +82,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effect of 1996 Amendments on Existing Agreements
 
-Amendments made by section 333 of Pub. L. 104–127 not to affect validity or terms of agreements entered into by Secretary of Agriculture under this subpart before Apr. 4, 1996, or payments required to be made in connection with such agreements, see section 333(f) of Pub. L. 104–127, set out as a note under section 3837 of this title.
+Amendments made by section 333 of Pub. L. 104–127 not to affect validity or terms of agreements enteredinto by Secretary of Agriculture under this subpart before Apr. 4, 1996, or payments required to be made in connection with such agreements, see section 333(f) of Pub. L. 104–127, set out as a note under section 3837 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

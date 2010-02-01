@@ -8,7 +8,7 @@ The Secretary of Education shall provide, either directly or by grant or contrac
 
 &emsp;(2) the ongoing analysis of career trends and options in the United States, using information from both the public and private sectors, including such sources as the Bureau of Labor Statistics, the Department of Commerce, the United States International Trade Commission, economic analysts, labor unions, and private industry;
 
-&emsp;(3) the publication of periodic reports and reference works using analysis prepared pursuant to this section and containing exemplarymaterials from the career education field, including research findings, results, and techniques from successful projects and programs, and highlights of ongoing analyses of career trends in the United States; and
+&emsp;(3) the publication of periodic reports and reference works using analysis prepared pursuant to this section and containing exemplary materials from the career education field, including research findings, results, and techniques from successful projects and programs, and highlights of ongoing analyses of career trends in the United States; and
 
 &emsp;(4) the conduct of seminars, workshops, and career information sessions for the purpose of disseminating to teachers, guidance counselors, other career educators, administrators, other education personnel, and the general public information compiled and analyzed under this section.
 

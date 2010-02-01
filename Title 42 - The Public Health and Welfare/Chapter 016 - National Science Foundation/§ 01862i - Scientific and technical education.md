@@ -28,7 +28,7 @@ The Director shall award grants for the establishment of centers of excellence, 
 
 &emsp;(2) Excellence in undergraduate education in mathematics and science.
 
-> The centers shall serve as national and regional clearinghouses and models for the benefit ofboth colleges and secondary schools, and shall provide seminars and programs to disseminate model curricula and model teaching methods and instructional materials to other associate-degree-granting colleges in the geographic region served by the center.
+> The centers shall serve as national and regional clearinghouses and models for the benefit of both colleges and secondary schools, and shall provide seminars and programs to disseminate model curricula and model teaching methods and instructional materials to other associate-degree-granting colleges in the geographic region served by the center.
 
 #### (c) Articulation partnerships
 
@@ -58,7 +58,7 @@ The Director shall award grants for the establishment of centers of excellence, 
 
 #### (2) Outreach grants
 
-&emsp;The Director shall make grants to associate-degree-granting colleges with outstanding mathematics and science programs to strengthen relationships with secondary schools in the community served by the college by improving mathematics and science education and encouraging the interest and aptitude of secondary school students for careers in science and advanced-technology fields through such means as developing agreements with local educational agencies to enable students to satisfy entrance and course requirements at the associate-degree-granting college.
+&emsp;The Director shall make grants to associate-degree-granting colleges with outstandingmathematics and science programs to strengthen relationships with secondary schools in the community served by the college by improving mathematics and science education and encouraging the interest and aptitude of secondary school students for careers in science and advanced-technology fields through such means as developing agreements with local educational agencies to enable students to satisfy entrance and course requirements at the associate-degree-granting college.
 
 #### (3) Mentor training grants
 
@@ -88,7 +88,7 @@ In carrying out sections 1862h to 1862j of this title, the Director shall—
 
 &emsp;(4) establish and maintain a readily accessible inventory of the programs assisted under sections 1862h to 1862j of this title; and
 
-&emsp;(5) designate an officer of the National Science Foundation to serve as a liaison withassociate-degree-granting institutions for the purpose of enhancing the role of such institutions in the activities of the Foundation.
+&emsp;(5) designate an officer of the National Science Foundation to serve as a liaison with associate-degree-granting institutions for the purpose of enhancing the role of such institutions in the activities of the Foundation.
 
 #### (g) Definitions
 

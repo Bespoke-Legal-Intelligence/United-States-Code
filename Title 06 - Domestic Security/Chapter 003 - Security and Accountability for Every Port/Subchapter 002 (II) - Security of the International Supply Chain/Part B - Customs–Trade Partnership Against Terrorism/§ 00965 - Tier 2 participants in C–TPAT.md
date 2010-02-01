@@ -16,7 +16,7 @@ The Secretary, acting through the Commissioner, shall extend benefits to each C�
 
 #### (c) Guidelines
 
-Not later than 180 days after October 13, 2006, the Secretary, acting through the Commissioner, shall develop a schedule and update the guidelines for validating a participant's security measures and supply chain security practices under this section.
+Not later than 180 days after October 13, 2006, the Secretary, acting through the Commissioner, shall develop a schedule and update theguidelines for validating a participant's security measures and supply chain security practices under this section.
 
 (Pub. L. 109–347, title II, §215, Oct. 13, 2006, 120 Stat. 1910.)
 

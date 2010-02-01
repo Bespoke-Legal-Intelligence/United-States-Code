@@ -4,53 +4,61 @@
 
 #### (1) Volunteers in Service to America
 
-&emsp;There are authorized to be appropriated to carry out parts A and B of subchapter I of this chapter, excluding section 4959 of this title, $56,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
+&emsp;There are authorized to be appropriated to carry out part A of subchapter I $100,000,000 for fiscal year 2010 and such sums as may be necessary for each of the fiscal years 2011 through 2014.
 
-#### (2) Literacy activities
+#### (2) Special volunteer programs
 
-&emsp;There are authorized to be appropriated to carry out section 4959 of this title, $5,600,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
+&emsp;There are authorized to be appropriated to carry out part C of subchapter I such sums as may be necessary for each of fiscal years 2010 through 2014.
 
-#### (3) Special volunteer programs
-
-&emsp;There are authorized to be appropriated to carry out part C of subchapter I of this chapter, excluding section 4995 <sup>1</sup> of this title, such sums as may be necessary for each of the fiscal years 1994 through 1996.
-
-#### (4) Literacy challenge grants
-
-&emsp;There are authorized to be appropriated to carry out section 4995 <sup>1</sup> of this title, such sums as may be necessary for each of the fiscal years 1994 through 1996.
-
-#### (5) Specification of budget function
+#### (3) Specification of budget function
 
 &emsp;The authorizations of appropriations contained in this subsection shall be considered to be a component of budget function 500 as used by the Office of Management and Budget to cover education, training, employment, and social services, and, as such, shall be considered to be related to the programs of the Departments of Labor, Health and Human Services, and Education for budgetary purposes.
 
 #### (b) Subsistence
 
-The minimum level of an allowance for subsistence required under section 4955(b)(2) of this title, to be provided to each volunteer under subchapter I of this chapter, may not be reduced or limited in order to provide for an increase in the number of volunteer service years under part A of subchapter I of this chapter.
+The minimum level of an allowance for subsistence required under section 4955(b)(2) of this title, to be provided to each volunteer under subchapter I, may not be reduced or limited in order to provide for an increase in the number of volunteer service years under part A of subchapter I.
 
 #### (c) Limitation
 
-No part of the funds appropriated to carry out part A of subchapter I of this chapter may be used to provide volunteers or assistance to any program or project authorized under part B or C of subchapter I of this chapter, or under subchapter II of this chapter, unless the program or project meets the antipoverty criteria of part A of subchapter I of this chapter.
+No part of the funds appropriated to carry out part A of subchapter I may be used to provide volunteers or assistance to any program or project authorized under part C of subchapter I, or under subchapter II, unless the program orproject meets the antipoverty criteria of part A of subchapter I.
 
 #### (d) Availability
 
-Amounts appropriated for part A of subchapter I of this chapter shall remain available for obligation until the end of the fiscal year following the fiscal year for which the amounts were appropriated.
+Amounts appropriated for part A of subchapter I shall remain available for obligation until the end of the fiscal year following the fiscal year for which the amounts were appropriated.
 
-#### (e) Volunteer service requirement
-
-#### (1) Volunteer service years
-
-&emsp;Of the amounts appropriated under this section for parts A, B, and C of subchapter I of this chapter, including section 4995 of this title, there shall first be available for part A of subchapter I of this chapter, including sections 4954(e) and 4959 of this title, an amount not less than the amount necessary to provide 3,700 volunteer service years in fiscal year 1994, 4,000 volunteer service years in fiscal year 1995, and 4,500 volunteer service years in fiscal year 1996.
-
-#### (2) Plan
-
-&emsp;If the Director determines that funds appropriated to carry out part A, B, or C of subchapter I of this chapter are insufficient to provide for the years of volunteer service required by paragraph (1), the Director shall submit a plan to the relevant authorizing and appropriations committees of Congress that will detail what is necessary to fully meet this requirement.
-
-(Pub. L. 93–113, title V, §501, Oct. 1, 1973, 87 Stat. 415; Pub. L. 94–293, §6(a), May 27, 1976, 90 Stat. 526; Pub. L. 96–143, §15(a), (b), Dec. 13, 1979, 93 Stat. 1082; Pub. L. 97–35, title VI, §607(a), Aug. 13, 1981, 95 Stat. 486; Pub. L. 98–288, §27(a), May 21, 1984, 98 Stat. 196; Pub. L. 99–551, §9(a), Oct. 27, 1986, 100 Stat. 3076; Pub. L. 99–570, title IV, §4301(2), Oct. 27, 1986, 100 Stat. 3207–153; Pub. L. 100–690, title III, §3402, Nov. 18, 1988, 102 Stat. 4253; Pub. L. 101–204, title VIII, §§801, 802, Dec. 7, 1989, 103 Stat. 1823, 1824; Pub. L. 102–73, title VII, §701(b), July 25, 1991, 105 Stat. 359; Pub. L. 103–82, title III, §381, Sept. 21, 1993, 107 Stat. 913.)
-
-#### References in Text
-
-Section 4995 of this title, referred to in subsec. (a)(3), (4), was in the original a reference to section 125, meaning section 125 of Pub. L. 93–113, which has been translated as reading section 124 of Pub. L. 93–113 to reflect the probable intent of Congress and the renumbering of section 125 of Pub. L. 93–113 as section 124 by Pub. L. 103–82, title III, §333(2), Sept. 21, 1993, 107 Stat. 903. Pub. L. 93–113 does not contain a section 125.
+(Pub. L. 93–113, title V, §501, Oct. 1, 1973, 87 Stat. 415; Pub. L. 94–293, §6(a), May 27, 1976, 90 Stat. 526; Pub. L. 96–143, §15(a), (b), Dec. 13, 1979, 93 Stat. 1082; Pub. L. 97–35, title VI, §607(a), Aug. 13, 1981, 95 Stat. 486; Pub. L. 98–288, §27(a), May 21, 1984, 98 Stat. 196; Pub. L. 99–551, §9(a), Oct. 27, 1986, 100 Stat. 3076; Pub. L. 99–570, title IV, §4301(2), Oct. 27, 1986, 100 Stat. 3207–153; Pub. L. 100–690, title III, §3402, Nov. 18, 1988, 102 Stat. 4253; Pub. L. 101–204, title VIII, §§801, 802, Dec. 7, 1989, 103 Stat. 1823, 1824; Pub. L. 102–73, title VII, §701(b), July 25, 1991, 105 Stat. 359; Pub. L. 103–82, title III, §381, Sept. 21, 1993, 107 Stat. 913; Pub. L. 111–13, title II, §2161(a), Apr. 21, 2009, 123 Stat. 1592.)
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–13, §2161(a)(1), added pars. (1) and (2), redesignated par. (5) as (3), and struck out former pars. (1) to (4), which read as follows:
+
+“(1)
+
+Volunteers in Service to America.—There are authorized to be appropriated to carry out parts A and B of subchapter I of this chapter, excluding section 4959 of this title, $56,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
+
+“(2)
+
+Literacy activities.—There are authorized to be appropriated to carry out section 4959 of this title, $5,600,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
+
+“(3)
+
+Special volunteer programs.—There are authorized to be appropriated to carry out part C of subchapter I of this chapter, excluding section 4995 of this title, such sums as may be necessary for each of the fiscal years 1994 through 1996.
+
+“(4)
+
+Literacy challenge grants.—There are authorized to be appropriated to carry out section 4995 of this title, such sums as may be necessary for each of the fiscal years 1994 through 1996.”
+
+Subsec. (c). Pub. L. 111–13, §2161(a)(2), substituted “part C” for “part B or C”.
+
+Subsec. (e). Pub. L. 111–13, §2161(a)(3), struck out subsec. (e). Text read as follows:
+
+“(1)
+
+Volunteer service years.—Of the amounts appropriated under this section for parts A, B, and C of subchapter I of this chapter, including section 4995 of this title, there shall first be available for part A of subchapter I of this chapter, including sections 4954(e) and 4959 of this title, an amount not less than the amount necessary to provide 3,700 volunteer service years in fiscal year 1994, 4,000 volunteer service years in fiscal year 1995, and 4,500 volunteer service years in fiscal year 1996.
+
+“(2)
+
+Plan.—If the Director determines that funds appropriated to carry out part A, B, or C of subchapter I of this chapter are insufficient to provide for the years of volunteer service required by paragraph (1), the Director shall submit a plan to the relevant authorizing and appropriations committees of Congress that will detail what is necessary to fully meet this requirement.”
 
 1993—Pub. L. 103–82 amended section generally, substituting provisions authorizing appropriations for parts A, B, and C of subchapter I of this chapter for fiscal years 1994 through 1996 for provisions authorizing appropriations for such parts for fiscal years 1987 through 1993.
 
@@ -94,7 +102,7 @@ Subsec. (d)(1). Pub. L. 99–551 added par. (1) and struck out former par. (1) w
 
 &emsp;“(C) 2,400 years of volunteer service in fiscal year 1986.”
 
-1984—Pub. L. 98–288 designated existing provisions as subsec. (a), substituted “There is authorized to be appropriated to carry out part A of subchapter I of this chapter $17,000,000 for fiscal year 1984, $20,000,000 for fiscal year 1985, and $25,000,000 for fiscal year 1986” for “There is authorized to be appropriated to carry out subchapter I of this chapter $25,763,000 for fiscal year 1982 and $15,391,000 for fiscal year 1983. Of the amounts appropriated under this section, not less than $16,000,000 shall first be available for carrying out part A of subchapter I of this chapter for fiscal year 1982, and not less than $8,000,000 shall first be available for carrying out part A of subchapter I of this chapter for fiscal year 1983”, and added subsecs. (b) to (e).
+1984—Pub. L. 98–288 designated existing provisions as subsec. (a), substituted “There is authorized to be appropriated to carry out part A of subchapter I of this chapter $17,000,000 for fiscal year 1984, $20,000,000 for fiscal year 1985, and $25,000,000 for fiscal year 1986” for “There is authorized to be appropriated to carry out subchapter I of this chapter $25,763,000 for fiscal year 1982 and $15,391,000 for fiscal year 1983. Of the amounts appropriated under this section, not less than $16,000,000 shall first be available for carrying out part A of subchapter I of this chapter for fiscal year 1982, and not less than $8,000,000 shall first be available forcarrying out part A of subchapter I of this chapter for fiscal year 1983”, and added subsecs. (b) to (e).
 
 1981—Pub. L. 97–35 substituted provisions relating to authorization and availability of funds for fiscal years 1982 and 1983, for provisions relating to authorization and availability of funds for fiscal year ending June 30, 1974, through fiscal year ending Sept. 30, 1981.
 
@@ -103,6 +111,10 @@ Subsec. (d)(1). Pub. L. 99–551 added par. (1) and struck out former par. (1) w
 Subsec. (c). Pub. L. 96–143, §15(b), added subsec. (c).
 
 1976—Subsec. (a). Pub. L. 94–293 inserted “September 30, 1977, and September 30, 1978,” after “June 30, 1976”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -115,6 +127,4 @@ Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provid
 #### Additional Appropriations Authorization
 
 Additional appropriations authorization for meeting increase in stipend to volunteers under section 4955(a)(1) of this title, see section 5(b) of Pub. L. 94–130, set out as a note under section 4955 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

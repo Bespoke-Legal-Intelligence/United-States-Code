@@ -14,7 +14,7 @@ In this section:
 
 #### (2) Coastal population
 
-&emsp;The term “coastal population” means the population, as determined by the most recent official data of the Census Bureau, of each political subdivision any part of which lies within the designated coastal boundary of a State (as defined in a State's coastal zone management program under the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.)).
+&emsp;The term “coastal population” means the population, as determined by the most recentofficial data of the Census Bureau, of each political subdivision any part of which lies within the designated coastal boundary of a State (as defined in a State's coastal zone management program under the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.)).
 
 #### (3) Coastal State
 
@@ -102,7 +102,7 @@ In this section:
 
 #### (C) Multiple producing States
 
-&emsp;&emsp;In a case in which more than one producing State is located within 200 nautical miles of any portion of a leased tract, the amount allocated to each producing State for the leased tract shall be inversely proportional to the distance between—
+&emsp;&emsp;In a case in which more than one producing State is located within 200 nauticalmiles of any portion of a leased tract, the amount allocated to each producing State for the leased tract shall be inversely proportional to the distance between—
 
 &emsp;&emsp;&emsp;(i) the nearest point on the coastline of the producing State; and
 

@@ -18,7 +18,7 @@ The amount included under section 810(a) or 832(c)(10) (as the case may be) by r
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Added Pub. L. 91–172, title IX, §907(c)(1), Dec. 30, 1969, 83 Stat. 716; amended Pub. L. 94–455, titleXIX, §§1901(b)(25), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1798, 1834; Pub. L. 98–369, div. A, title II, §211(b)(11), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, §1024(c)(12), title XVIII, §1899A(20), Oct. 22, 1986, 100 Stat. 2408, 2959; Pub. L. 101–239, title VII, §7841(d)(16), Dec. 19, 1989, 103 Stat. 2429.)
+(Added Pub. L. 91–172, title IX, §907(c)(1), Dec. 30, 1969, 83 Stat. 716; amended Pub. L. 94–455, title XIX, §§1901(b)(25), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1798, 1834; Pub. L. 98–369, div. A, title II, §211(b)(11), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, §1024(c)(12), title XVIII, §1899A(20), Oct. 22, 1986, 100 Stat. 2408, 2959; Pub. L. 101–239, title VII, §7841(d)(16), Dec. 19, 1989, 103 Stat. 2429.)
 
 #### Amendments
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(b)(25) of Pub. L. 94–455, effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(b)(25) of Pub. L. 94–455, effective for taxable years beginning after Dec. 31, 1976,see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date
 

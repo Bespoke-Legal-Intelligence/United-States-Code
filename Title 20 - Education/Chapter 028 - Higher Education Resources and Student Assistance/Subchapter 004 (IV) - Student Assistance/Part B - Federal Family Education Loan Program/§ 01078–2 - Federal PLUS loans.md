@@ -14,7 +14,7 @@
 
 #### (2) Terms, conditions, and benefits
 
-&emsp;Except as provided in subsections (c), (d), and (e) of this section, loans made under thissection shall have the same terms, conditions, and benefits as all other loans made under this part.
+&emsp;Except as provided in subsections (c), (d), and (e) of this section, loans made under this section shall have the same terms, conditions, and benefits as all other loans made under this part.
 
 #### (3) Special rules
 
@@ -116,7 +116,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 &emsp;&emsp;(A) shall bear interest at the applicable rate of interest provided under section 1077a(c)(4) of this title;
 
-&emsp;&emsp;(B) shall not result in the extension of the duration of the note (other than as permitted under subsection (c)(5)(B) of this section);
+&emsp;&emsp;(B) shall not result in the extension of the duration of the note (other than as permitted under subsection (d)(5)(B) of this section);
 
 &emsp;&emsp;(C) may be subject to an additional insurance fee but shall not be subject to the administrative cost charge permitted by paragraph (2) of this subsection; and
 
@@ -126,16 +126,6 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 &emsp;Each new lender may accept certification from the original lender of the borrower's original loan in lieu of presentation of the original promissory note.
 
-#### (5) Notification to borrowers of availability of refinancing options
-
-&emsp;Each holder of a loan made under this section or under this section as in effect prior to October 17, 1986, shall, not later than October 1, 1987, in the case of loans made before October 17, 1986, notify the borrower of such loan—
-
-&emsp;&emsp;(A) of the refinancing options for which the borrower is eligible under this subsection;
-
-&emsp;&emsp;(B) of those options which will be made available by the holder and of the practical consequences of such options in terms of interest rates and monthly and total payments for a set of loan examples; and
-
-&emsp;&emsp;(C) that, with respect to any option that the holder will not make available, the holder will, to the extent practicable, refer the borrower to an eligible lender offering such option.
-
 #### (f) Verification of immigration status and social security number
 
 A parent who wishes to borrow funds under this section shall be subject to verification of the parent's—
@@ -144,17 +134,17 @@ A parent who wishes to borrow funds under this section shall be subject to verif
 
 &emsp;(2) social security number in the same manner as social security numbers are verified for students under section 1091(p) of this title.
 
-(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(<i>o</i>), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g), Feb. 8, 2006, 120 Stat. 158, 171; Pub. L. 110–227, §§3(a), 4, May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title IV, §424(a), Aug. 14, 2008, 122 Stat. 3232.)
-
-#### Codification
-
-October 17, 1986, referred to in subsec. (e)(5), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 99–498 which enacted this section in the general revision of this part, to reflect the probable intent of Congress.
+(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(<i>o</i>), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g), Feb. 8, 2006, 120 Stat. 158, 171; Pub. L. 110–227, §§3(a), 4, May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title IV, §424(a), Aug. 14, 2008, 122 Stat. 3232; Pub. L. 111–39, title IV, §402(f)(2), July 1, 2009, 123 Stat. 1943.)
 
 #### Prior Provisions
 
-A prior section 1078–2, Pub. L. 89–329, title IV, §428B, as added Pub. L. 96–374, title IV, §419, Oct. 3, 1980, 94Stat. 1424; amended Pub. L. 97–35, title V, §§532(b)(3), 534(a)(2), (c)(1), (2), Aug. 13, 1981, 95 Stat. 452, 454; Pub. L. 98–79, §12, Aug. 15, 1983, 97 Stat. 484, related to auxiliary loans to assist students, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1078–2, Pub. L. 89–329, title IV, §428B, as added Pub. L. 96–374, title IV, §419, Oct. 3, 1980, 94 Stat. 1424; amended Pub. L. 97–35, title V, §§532(b)(3), 534(a)(2), (c)(1), (2), Aug. 13, 1981, 95 Stat. 452, 454; Pub. L. 98–79, §12, Aug. 15, 1983, 97 Stat. 484, related to auxiliary loans to assist students, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2009—Subsec. (e)(3)(B). Pub. L. 111–39, §402(f)(2)(A), substituted “subsection (d)(5)(B)” for “subsection (c)(5)(B)”.
+
+Subsec. (e)(5). Pub. L. 111–39, §402(f)(2)(B), struck out par. (5) which related to notification to borrowers of availability of refinancing options for certain loans made before Oct. 17, 1986.
 
 2008—Subsec. (a)(3). Pub. L. 110–227, §4, amended par. (3) generally. Prior to amendment, text read as follows: “Whenever necessary to carry out the provisions of this section, the terms ‘student’ and ‘borrower’ as used in this part shall include a parent borrower under this section.”
 
@@ -225,6 +215,10 @@ Subsec. (d)(1). Pub. L. 100–50, §10(r)(1)(A), inserted “at any time” afte
 Subsec. (d)(2). Pub. L. 100–50, §10(r)(1)(B), inserted “under this section before July 1, 1987, or” before “under this section” and substituted “to reissue a loan or loans” for “to reissue a loan” and “reissuing such loan or loans” for “reissuing such loan”.
 
 Subsec. (d)(5). Pub. L. 100–50, §10(r)(1)(C), substituted “October 1, 1987” for “January 1, 1987” and, in subpar. (B), inserted “and of the practical consequences of such options in terms of interest rates and monthly and total payments for a set of loan examples” before semicolon at end.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2008 Amendment
 

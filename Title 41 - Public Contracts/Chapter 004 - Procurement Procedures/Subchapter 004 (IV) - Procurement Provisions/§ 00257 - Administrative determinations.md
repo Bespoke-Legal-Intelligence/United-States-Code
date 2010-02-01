@@ -8,7 +8,7 @@ Determinations and decisions provided in this Act to be made by the Administrato
 
 Each determination or decision required by section 254 or by section 255(d) of this title shall be based upon written findings made by the official making such determination, which findings shall be final and shall be available within the agency for a period of at least six years following the date of the determination.
 
-(June 30, 1949, ch. 288, title III, §307, 63 Stat. 396; Pub. L. 85–800, §5, Aug. 28, 1958, 72 Stat. 967; Pub. L. 89–343, §§3, 4, Nov. 8, 1965, 79 Stat. 1303; Pub. L. 98–369, div. B, title VII, §2714(a)(4), July 18, 1984, 98 Stat. 1184; Pub. L. 104–106, div. D, title XLIII, §4321(e)(6), Feb. 10, 1996, 110 Stat. 675; Pub.L. 104–316, title I, §121(c), Oct. 19, 1996, 110 Stat. 3836.)
+(June 30, 1949, ch. 288, title III, §307, 63 Stat. 396; Pub. L. 85–800, §5, Aug. 28, 1958, 72 Stat. 967; Pub. L. 89–343, §§3, 4, Nov. 8, 1965, 79 Stat. 1303; Pub. L. 98–369, div. B, title VII, §2714(a)(4), July 18, 1984, 98 Stat. 1184; Pub. L. 104–106, div. D, title XLIII, §4321(e)(6), Feb. 10, 1996, 110 Stat. 675; Pub. L. 104–316, title I, §121(c), Oct. 19, 1996, 110 Stat. 3836.)
 
 #### References in Text
 
@@ -32,7 +32,7 @@ Subsec. (d). Pub. L. 98–369, §2714(a)(4)(G), struck out subsec. (d) which rel
 
 1965—Subsec. (a). Pub. L. 89–343, §3, inserted “and except as provided in section 486(d) of title 40 with respect to the Administrator”.
 
-Subsec. (b). Pub. L. 89–343, §4, struck out provisions which made the power of Administrator to make the delegations and determinations specified in section 252(a) of this title delegable only to Deputy Administrator or to chief official of any principal organizational unit of General Services Administration.
+Subsec. (b). Pub. L. 89–343, §4, struck out provisions which made the power of Administrator to make the delegations and determinations specified in section252(a) of this title delegable only to Deputy Administrator or to chief official of any principal organizational unit of General Services Administration.
 
 1958—Subsec. (b). Pub. L. 85–800, §5(a), (b), substituted “(12)” for “(11)”, “(13)” for “(12)”, and “(11)” for “(10)” and struck out “and in section 255(a) of this title” before “shall not be delegable” in first sentence.
 

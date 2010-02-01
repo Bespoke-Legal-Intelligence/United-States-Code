@@ -74,6 +74,22 @@ Another prior section 3013 was renumbered section 3014 of this title and subsequ
 
 1986—Subsec. (a)(2). Pub. L. 99–661 substituted “five years” for “10 years”.
 
+#### Expansion of First Sergeants Barracks Initiative
+
+Pub. L. 111–84, div. B, title XXVIII, §2807, Oct. 28, 2009, 123 Stat. 2663, provided that:
+
+“(a)
+
+Expansion of Initiative.—Not later than September 30, 2011, the Secretary of the Army shall expand the First Sergeants Barracks Initiative (FSBI) to include all Army installations in order to improve the quality of life and living environments for single soldiers.
+
+“(b)
+
+Progress Reports.—Not later than February 15, 2010, and February 15, 2011, the Secretary of the Army shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report describing the progress made in expanding the First Sergeants Barracks Initiative to all Army installations.”
+
+#### Selection of Military Installations To Serve as Locations of Brigade Combat Teams
+
+Pub. L. 111–84, div. B, title XXVIII, §2825, Oct. 28, 2009, 123 Stat. 2668, provided that: “In selecting the military installations at which brigade combat teams will be stationed, the Secretary of the Army shall take into consideration the availability and proximity of training spaces for the units and the capacity of the installations to support the units.”
+
 #### Army Training Strategy for Brigade-Based Combat Teams and Functional Supporting Brigades
 
 Pub. L. 109–163, div. A, title III, §353, Jan. 6, 2006, 119 Stat. 3203, provided that:
@@ -120,7 +136,7 @@ Elements.—The report under paragraph (1) shall include the following:
 
 &emsp;&emsp;“(B) A discussion and description of the training ranges and other essential elements required to support the training strategy.
 
-&emsp;&emsp;“(C) A list of the funding requirements, shown by fiscal year and set forth in a format consistent with the future-years defense program to accompany the budget of the President under section 221 of title 10, United States Code, necessary to meet the requirements of the training ranges and other essential elements described under subparagraph (B).
+&emsp;&emsp;“(C) A list of the funding requirements, shown by fiscal year and set forth in a format consistent with the future-years defense program to accompany thebudget of the President under section 221 of title 10, United States Code, necessary to meet the requirements of the training ranges and other essential elements described under subparagraph (B).
 
 &emsp;&emsp;“(D) A schedule for the implementation of the training strategy.
 
@@ -138,7 +154,7 @@ Report.—Not later than 180 days after the date on which the Secretary of the A
 
 #### Army Transformation to Brigade Structure
 
-Pub. L. 108–375, div. A, title V, §595(c), Oct. 28, 2004, 118 Stat. 1937, provided that: “The Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an annual reporton the status of the internal transformation of the Army from a division-orientated force to a brigade-orientated force. Such report shall be submitted not later than March 31 of each year, except that the requirement to submit such annual report shall terminate when the Secretary of the Army submits to those committees the Secretary's certification that the transformation of the Army to a brigade-orientated force has been completed. Upon the submission of such certification, the Secretary shall publish in the Federal Register notice of that certification and that the statutory requirement to submit an annual report under this subsection has terminated.”
+Pub. L. 108–375, div. A, title V, §595(c), Oct. 28, 2004, 118 Stat. 1937, provided that: “The Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an annual report on the status of the internal transformation of the Army from a division-orientated force to a brigade-orientated force. Such report shall be submitted not later than March 31 of each year, except that the requirement to submit such annual report shall terminate when the Secretary of the Army submits to those committees the Secretary's certification that the transformation of the Army to a brigade-orientated force has been completed. Upon the submission of such certification, the Secretary shall publish in the Federal Register notice of that certification and that the statutory requirement to submit an annual report under this subsection has terminated.”
 
 #### Demonstration Project for Use of Army Installations To Provide Prerelease Employment Training to Nonviolent Offenders in State Penal Systems
 

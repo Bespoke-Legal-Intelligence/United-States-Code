@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 110–314, §201(c), redesignated subsec. (c) as (b).
 
 1994—Subsec. (b)(1). Pub. L. 103–437 in introductory provisions substituted “Committee on Energy and Commerce of the House of Representatives, and by the Committee on Commerce, Science, and Transportation of the Senate” for “Committee on Interstate and Foreign Commerce of the House of Representatives, and by the Committee on Commerce of the Senate”.
 
-1990—Subsec. (a). Pub. L. 101–608 added pars. (1) and (2) and struck out former pars. (1) to (9) which specifiedmaximum appropriations authorized for fiscal year ending June 30, 1976, to fiscal year ending Sept. 30, 1983.
+1990—Subsec. (a). Pub. L. 101–608 added pars. (1) and (2) and struck out former pars. (1) to (9) which specified maximum appropriations authorized for fiscal year ending June 30, 1976, to fiscal year ending Sept. 30, 1983.
 
 1981—Subsec. (a). Pub. L. 97–35 added pars. (8) and (9) and provision following par. (9) relating to payment of accumulated or accrued leave, severance pay, and any other expenses related to a reduction in force in the Commission.
 

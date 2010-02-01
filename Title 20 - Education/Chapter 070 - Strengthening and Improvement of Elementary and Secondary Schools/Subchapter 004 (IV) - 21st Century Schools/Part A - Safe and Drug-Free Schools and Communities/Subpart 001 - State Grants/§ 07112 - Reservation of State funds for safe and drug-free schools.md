@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;(i) truancy rates;
 
-&emsp;&emsp;&emsp;(ii) the frequency, seriousness, and incidence of violence and drug-related offensesresulting in suspensions and expulsions in elementary schools and secondary schools in the State;
+&emsp;&emsp;&emsp;(ii) the frequency, seriousness, and incidence of violence and drug-related offenses resulting in suspensions and expulsions in elementary schools and secondary schools in the State;
 
 &emsp;&emsp;&emsp;(iii) the types of curricula, programs, and services provided by the chief executive officer, the State educational agency, local educational agencies, and other recipients of funds under this subpart; and
 
@@ -100,7 +100,7 @@
 
 #### (C) Compilation of statistics
 
-&emsp;&emsp;In compiling the statistics required for the uniform management information and reporting system, the offenses described in subparagraph (B)(ii) shall be defined pursuant to the State's criminal code, but shall not identify victims of crimes or persons accused of crimes. The collected data shall include incident reports by school officials, anonymous student surveys, and anonymous teacher surveys.
+&emsp;&emsp;In compiling the statistics required for the uniform management information and reporting system, the offenses described insubparagraph (B)(ii) shall be defined pursuant to the State's criminal code, but shall not identify victims of crimes or persons accused of crimes. The collected data shall include incident reports by school officials, anonymous student surveys, and anonymous teacher surveys.
 
 #### (D) Reporting
 

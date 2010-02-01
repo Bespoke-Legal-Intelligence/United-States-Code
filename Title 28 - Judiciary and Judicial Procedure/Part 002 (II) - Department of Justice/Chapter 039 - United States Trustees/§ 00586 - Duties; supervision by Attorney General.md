@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(F) notifying the appropriate United States attorney of matters which relate to the occurrence of any action which may constitute a crime under the laws of the United States and, on the request of the United States attorney, assisting the United States attorney in carrying out prosecutions based on such action;
 
-&emsp;&emsp;(G) monitoring the progress of cases under title 11 and taking such actions as theUnited States trustee deems to be appropriate to prevent undue delay in such progress;
+&emsp;&emsp;(G) monitoring the progress of cases under title 11 and taking such actions as the United States trustee deems to be appropriate to prevent undue delay in such progress;
 
 &emsp;&emsp;(H) in small business cases (as defined in section 101 of title 11), performing the additional duties specified in title 11 pertaining to such cases; and
 
@@ -56,7 +56,7 @@
 
 (b) If the number of cases under chapter 12 or 13 of title 11 commenced in a particular region so warrants, the United States trustee for such region may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistant United States trustees to serve in cases under such chapter. The United States trustee for such region shall supervise any such individual appointed as standing trustee in the performance of the duties of standing trustee.
 
-(c) Each United States trustee shall be under the general supervision of the Attorney General, who shall provide general coordination and assistance to the United States trustees.
+(c) Each United States trustee shall be under the general supervision of the Attorney General,who shall provide general coordination and assistance to the United States trustees.
 
 (d)(1) The Attorney General shall prescribe by rule qualifications for membership on the panels established by United States trustees under paragraph (a)(1) of this section, and qualifications for appointment under subsection (b) of this section to serve as standing trustee in cases under chapter 12 or 13 of title 11. The Attorney General may not require that an individual be an attorney in order to qualify for appointment under subsection (b) of this section to serve as standing trustee in cases under chapter 12 or 13 of title 11.
 
@@ -144,7 +144,7 @@ Subsec. (a)(3). Pub. L. 99–554, §113(a)(2), substituted “title 11 by, whene
 
 Subsec. (a)(5). Pub. L. 99–554, §113(a)(3), inserted “and this title, and such duties consistent with title 11 and this title as the Attorney General may prescribe” after “title 11”.
 
-Subsec. (b). Pub. L. 99–554, §113(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the number of cases under chapter 13 of title 11 commenced in a particular judicial district sowarrant, the United States trustee for such district may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistant United States trustee, in cases under such chapter. The United States trustee for such district shall supervise any such individual appointed as standing trustee in the performance of the duties of standing trustee.”
+Subsec. (b). Pub. L. 99–554, §113(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the number of cases under chapter 13 of title 11 commenced in a particular judicial district so warrant, the United States trustee for such district may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistant United States trustee, in cases under such chapter. The United States trustee for such district shall supervise any such individual appointed as standing trustee in the performance of the duties of standing trustee.”
 
 Subsec. (d). Pub. L. 99–554, §113(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Attorney General shall prescribe by rule qualifications for membership on the panels established by United States trustees under subsection (a)(1) of this section, and qualifications for appointment under subsection (b) of this section to serve as standing trustee in cases under chapter 13 of title 11. The Attorney General may not require that an individual be an attorney in order to qualify for appointment under subsection (b) of this section to serve as standing trustee in cases under chapter 13 of title 11.”
 

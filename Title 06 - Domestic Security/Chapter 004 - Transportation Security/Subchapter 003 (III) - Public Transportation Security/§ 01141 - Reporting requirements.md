@@ -22,7 +22,7 @@
 
 #### (3) Format
 
-&emsp;The Secretary may submit the report in both classified and redacted formats if the Secretary determines that such action is appropriate or necessary.
+&emsp;The Secretary may submit the report in both classified and redacted formats if theSecretary determines that such action is appropriate or necessary.
 
 #### (b) Annual report to Governors
 

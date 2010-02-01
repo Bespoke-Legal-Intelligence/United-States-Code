@@ -16,7 +16,7 @@ In this chapter:
 
 #### (2) American Indian consortium
 
-&emsp;The term “American Indian consortium” means an entity that is an American Indian Consortium (as defined in section 102 of Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15002)), and that is established to provide protection and advocacy services for purposes of receiving fundingunder subtitle C of title I of such Act (42 U.S.C. 15041 et seq.).
+&emsp;The term “American Indian consortium” means an entity that is an American Indian Consortium (as defined in section 102 of Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15002)), and that is established to provide protection and advocacy services for purposes of receiving funding under subtitle C of title I of such Act (42 U.S.C. 15041 et seq.).
 
 #### (3) Assistive technology
 
@@ -50,7 +50,7 @@ In this chapter:
 
 &emsp;&emsp;(A) result in laws, regulations, policies, practices, procedures, or organizational structures that promote consumer-responsive programs or entities; and
 
-&emsp;&emsp;(B) facilitate and increase access to, provision of, and funding for, assistive technology devices and assistive technology services, in order to empower individuals with disabilities to achieve greater independence, productivity, and integration and inclusion within the community and the workforce.
+&emsp;&emsp;(B) facilitate and increase access to, provision of, and funding for, assistive technologydevices and assistive technology services, in order to empower individuals with disabilities to achieve greater independence, productivity, and integration and inclusion within the community and the workforce.
 
 #### (7) Comprehensive statewide program of technology-related assistance
 
@@ -176,7 +176,7 @@ In this chapter:
 
 &emsp;The term “universal design” means a concept or philosophy for designing and delivering products and services that are usable by people with the widest possible range of functional capabilities, which include products and services that are directly accessible (without requiring assistive technologies) and products and services that are interoperable with assistive technologies.
 
-(Pub. L. 105–394, §3, Nov. 13, 1998, 112 Stat. 3631; Pub. L. 106–402, title IV, §401(b)(4)(A), Oct. 30,2000, 114 Stat. 1738; Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1709; Pub. L. 110–315, title IX, §941(k)(2)(K), Aug. 14, 2008, 122 Stat. 3467.)
+(Pub. L. 105–394, §3, Nov. 13, 1998, 112 Stat. 3631; Pub. L. 106–402, title IV, §401(b)(4)(A), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1709; Pub. L. 110–315, title IX, §941(k)(2)(K), Aug. 14, 2008, 122 Stat. 3467.)
 
 #### References in Text
 

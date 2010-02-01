@@ -20,7 +20,7 @@ Persons Required to File.—(1) A person shall file a registration statement wit
 
 &emsp;(B) a person designing, manufacturing, fabricating, inspecting, marking, maintaining, reconditioning, repairing, or testing a package, container, or packaging component that is represented, marked, certified, or sold as qualified for use in transporting hazardous material in commerce.
 
-(3) A person required to file a registration statement under this subsection may transport or cause to be transported, or design, manufacture, fabricate, inspect, mark, maintain, recondition, repair, or test a package, container packaging component, or container for use in transporting, hazardous material, only if the person has a statement on file as required by this subsection.
+(3) A person required to file a registration statement under this subsection may transportor cause to be transported, or design, manufacture, fabricate, inspect, mark, maintain, recondition, repair, or test a package, container packaging component, or container for use in transporting, hazardous material, only if the person has a statement on file as required by this subsection.
 
 (4) The Secretary may waive the filing of a registration statement, or the payment of a fee, required under this subsection, or both, for any person not domiciled in the United States who solely offers hazardous materials for transportation to the United States from a place outside the United States if the country of which such person is a domiciliary does not require persons domiciled in the United States who solely offer hazardous materials for transportation to the foreign country from places in the United States to file registration statements, or to pay fees, for making such an offer.
 
@@ -238,5 +238,5 @@ Subsec. (g)(2)(A)(viii). Pub. L. 103–311, §119(d)(1), struck out “5107(e),�
 
 #### Registration
 
-Pub. L. 109–59, title VII, §7109(d), Aug. 10, 2005, 119 Stat. 1898, provided that: “As soon as practicable, the Administrator of the Pipeline and Hazardous Materials Safety Administration shall transmit to the Federal Motor Carrier Safety Administration hazardous material registrant information obtained before, on, or after the date of enactment of this Act \[Aug. 10, 2005\] under section 5108 of title 49, United States Code, together with any Department of Transportation identification number for each registrant.”
+Pub. L. 109–59, title VII, §7109(d), Aug. 10, 2005, 119 Stat. 1898, provided that: “As soon as practicable, theAdministrator of the Pipeline and Hazardous Materials Safety Administration shall transmit to the Federal Motor Carrier Safety Administration hazardous material registrant information obtained before, on, or after the date of enactment of this Act \[Aug. 10, 2005\] under section 5108 of title 49, United States Code, together with any Department of Transportation identification number for each registrant.”
 

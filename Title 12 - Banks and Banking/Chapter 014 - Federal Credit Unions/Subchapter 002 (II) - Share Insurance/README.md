@@ -21,3 +21,4 @@
 - [&sect; 01790b - Credit union employee protection remedy](%C2%A7%2001790b%20-%20Credit%20union%20employee%20protection%20remedy.md)
 - [&sect; 01790c - Reward for information leading to recoveries or civil penalties](%C2%A7%2001790c%20-%20Reward%20for%20information%20leading%20to%20recoveries%20or%20civil%20penalties.md)
 - [&sect; 01790d - Prompt corrective action](%C2%A7%2001790d%20-%20Prompt%20corrective%20action.md)
+- [&sect; 01790e - Temporary Corporate Credit Union Stabilization Fund](%C2%A7%2001790e%20-%20Temporary%20Corporate%20Credit%20Union%20Stabilization%20Fund.md)

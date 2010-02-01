@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Director may make supplemental grants as provided in 10601(d)(5) <sup>1</sup> of this title toStates, victim service organizations, and public agencies (including Federal, State, or local governments) and nongovernmental organizations that provide assistance to victims of crime, which shall be used to provide emergency relief, including crisis response efforts, assistance, training, and technical assistance, and ongoing assistance, including during any investigation or prosecution, to victims of terrorist acts or mass violence occurring outside the United States.
+&emsp;The Director may make supplemental grants as provided in 10601(d)(5) <sup>1</sup> of this title to States, victim service organizations, and public agencies (including Federal, State, or local governments) and nongovernmental organizations that provide assistance to victims of crime, which shall be used to provide emergency relief, including crisis response efforts, assistance, training, and technical assistance, and ongoing assistance, including during any investigation or prosecution, to victims of terrorist acts or mass violence occurring outside the United States.
 
 #### (2) Victim defined
 

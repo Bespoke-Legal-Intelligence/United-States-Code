@@ -182,7 +182,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) other early childhood education and development programs, personnel management, financial accountability, and systems development and monitoring; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the diverse (including linguistic and cultural) needs of eligible children (including children with disabilities, homeless children, children in foster care, and limited English proficient children) and their families;
+&emsp;&emsp;&emsp;&emsp;(II) the diverse (including linguistic and cultural) needs of eligible children (including children with disabilities,homeless children, children in foster care, and limited English proficient children) and their families;
 
 &emsp;&emsp;&emsp;(ii) include, to the maximum extent practicable, current or former employees of the Department of Health and Human Services who are knowledgeable about Head Start programs; and
 
@@ -482,7 +482,7 @@ Subsec. (a)(1)(A). Pub. L. 105–285, §108(a)(1)(B), struck out “education,�
 
 Subsec. (a)(1)(B) to (E). Pub. L. 105–285, §108(a)(1)(C), (D), added subpar. (B) and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
 
-Subsec. (a)(2). Pub. L. 105–285, §108(a)(2), (3), redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “The regulations promulgated under this subsection shall establish the minimum levels of overall accomplishment that a Head Start agency shall achieve in order to meet the standards specified in paragraph (1).”
+Subsec. (a)(2). Pub. L. 105–285, §108(a)(2), (3), redesignated par. (3) as (2) and struck out heading and text offormer par. (2). Text read as follows: “The regulations promulgated under this subsection shall establish the minimum levels of overall accomplishment that a Head Start agency shall achieve in order to meet the standards specified in paragraph (1).”
 
 Subsec. (a)(2)(B)(iii). Pub. L. 105–285, §108(a)(4)(A), substituted “early childhood education and” for “child”.
 
@@ -528,7 +528,7 @@ Subsec. (d)(1)(B). Pub. L. 105–285, §108(d)(1)(B), amended subpar. (B) genera
 
 &emsp;“(ii) at the discretion of the Secretary (taking into consideration the seriousness of the deficiency and the time reasonably required to correct the deficiency), to comply with the requirements of paragraph (2) concerning a quality improvement plan; and”.
 
-Subsec. (d)(2)(A). Pub. L. 105–285, §108(d)(2), substituted “required to correct a deficiency immediatelyor during a 90-day period under clause (i) or (ii) of paragraph (1)(B)” for “able to correct a deficiency immediately” in introductory provisions.
+Subsec. (d)(2)(A). Pub. L. 105–285, §108(d)(2), substituted “required to correct a deficiency immediately or during a 90-day period under clause (i) or (ii) of paragraph (1)(B)” for “able to correct a deficiency immediately” in introductory provisions.
 
 Subsec. (e). Pub. L. 105–285, §108(e), inserted at end “Such report shall be widely disseminated and available for public review in both written and electronic formats.”
 

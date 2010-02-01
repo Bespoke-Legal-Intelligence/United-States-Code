@@ -2,7 +2,7 @@
 
 #### (a) Interim guidelines
 
-(1) <sup>1</sup> Within one hundred eighty days after November 17, 1986, the Secretary shall develop interim guidelines for the scenic area outside urban areas to identify land use activities which are inconsistent with sections 544 to 544p of this title and to govern the authority to acquire land without the consent of the owner provided by subsection (b) of this section. The Secretary shall promptly notify the public of adoption of the interim guidelines and transmit the guidelines to each county. Guidelines adopted by the Secretary pursuant to this subsection shall remain in effect for each county until the Secretary has developed guidelines for the special management areas pursuant to section 544f of this title and the land use ordinances prescribed by section 544e of this title are in effect.
+(1) <sup>1</sup> Within one hundred eighty days after November 17, 1986, the Secretary shall develop interim guidelines for the scenic area outside urban areas to identify land use activities which are inconsistent with sections 544 to 544p of this title and to govern the authority to acquire land without the consent of the owner provided bysubsection (b) of this section. The Secretary shall promptly notify the public of adoption of the interim guidelines and transmit the guidelines to each county. Guidelines adopted by the Secretary pursuant to this subsection shall remain in effect for each county until the Secretary has developed guidelines for the special management areas pursuant to section 544f of this title and the land use ordinances prescribed by section 544e of this title are in effect.
 
 #### (b) Interim acquisition authority and injunctive relief
 
@@ -14,7 +14,7 @@ Prior to the concurrence by the Secretary of land use ordinances prescribed by s
 
 #### (c) Review of development action
 
-Prior to the effective date of a land use ordinance for each county pursuant to section 544e of this title, and concurrence of the Secretary on a land use ordinance for each county pursuant to section 544f of this title, the Commission shall review all proposals for major development actions and new residential development in suchcounty in the scenic area, except urban areas. The Commission shall allow major development actions and new residential development only if it determines that such development is consistent with the standards contained in section 544d of this title and the purposes of sections 544 to 544p of this title.
+Prior to the effective date of a land use ordinance for each county pursuant to section 544e of this title, and concurrence of the Secretary on a land use ordinance for each county pursuant to section 544f of this title, the Commission shall review all proposals for major development actions and new residential development in such county in the scenic area, except urban areas. The Commission shall allow major development actions and new residential development only if it determines that such development is consistent with the standards contained in section 544d of this title and the purposes of sections 544 to 544p of this title.
 
 (Pub. L. 99–663, §10, Nov. 17, 1986, 100 Stat. 4291.)
 

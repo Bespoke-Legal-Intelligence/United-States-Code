@@ -52,7 +52,7 @@
 
 (g) To further the policy stated in subsection (a) of this section, the Secretary may give preference to qualified covered veterans for employment in the Department as veterans’ benefits counselors and veterans’ claims examiners and in positions to provide the outreach services required under section 6303 of this title, to serve as veterans’ representatives at certain educational institutions as provided in section 6305 of this title, or to provide readjustment counseling under section 1712A of this title.
 
-(Added Pub. L. 93–508, title IV, §403(a), Dec. 3, 1974, 88 Stat. 1593, §2014; amended Pub. L. 95–202,title III, §308, Nov. 23, 1977, 91 Stat. 1445; Pub. L. 95–520, §6(b), Oct. 26, 1978, 92 Stat. 1821; Pub. L. 96–466, title V, §510, title VIII, §801(<i>l</i>), Oct. 17, 1980, 94 Stat. 2207, 2217; Pub. L. 97–72, title II, §202(a), Nov. 3, 1981, 95 Stat. 1054; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–543, title II, §211, Oct. 24, 1984, 98 Stat. 2743; Pub. L. 99–576, title III, §332, Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §407(a)(1), (b), Dec. 18, 1989, 103 Stat. 2082; Pub. L. 102–16, §9(a), (b), Mar. 22, 1991, 105 Stat. 54; renumbered §4214 and amended Pub. L. 102–83, §§2(c)(5), 4(a)(1), (3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 102–127, §4, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title V, §505, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 107–288, §2(c)(1)–(3), Nov. 7, 2002, 116 Stat. 2036; Pub. L. 109–233, title IV, §402(e)(3), June 15, 2006, 120 Stat. 411.)
+(Added Pub. L. 93–508, title IV, §403(a), Dec. 3, 1974, 88 Stat. 1593, §2014; amended Pub. L. 95–202, title III, §308, Nov. 23, 1977, 91 Stat. 1445; Pub. L. 95–520, §6(b), Oct. 26, 1978, 92 Stat. 1821; Pub. L. 96–466, title V, §510, title VIII, §801(<i>l</i>), Oct. 17, 1980, 94 Stat. 2207, 2217; Pub. L. 97–72, title II, §202(a), Nov. 3, 1981, 95 Stat. 1054; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–543, title II, §211, Oct. 24, 1984, 98 Stat. 2743; Pub. L. 99–576, title III, §332, Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §407(a)(1), (b), Dec. 18, 1989, 103 Stat. 2082; Pub. L. 102–16, §9(a), (b), Mar. 22, 1991, 105 Stat. 54; renumbered §4214 and amended Pub. L. 102–83, §§2(c)(5), 4(a)(1), (3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 102–127, §4, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title V, §505, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 107–288, §2(c)(1)–(3), Nov. 7, 2002, 116 Stat. 2036; Pub. L. 109–233, title IV, §402(e)(3), June 15, 2006, 120 Stat. 411.)
 
 #### References in Text
 
@@ -84,7 +84,7 @@ Subsec. (b)(3). Pub. L. 107–288, §2(c)(2)(C), amended par. (3) generally, sub
 
 Subsec. (e)(2)(B)(i). Pub. L. 107–288, §2(c)(3)(B), struck out “of the Vietnam era” after “veterans”.
 
-Subsec. (g). Pub. L. 107–288, §2(c)(3)(C), substituted “qualified covered veterans” for “qualified special disabled veterans and qualified veterans of the Vietnam era” and “under section 1712A of this title” for “under section 1712A of this title to veterans of the Vietnam era”.
+Subsec. (g). Pub. L. 107–288, §2(c)(3)(C), substituted “qualified covered veterans” for “qualified special disabled veterans and qualified veterans of the Vietnamera” and “under section 1712A of this title” for “under section 1712A of this title to veterans of the Vietnam era”.
 
 1992—Subsec. (b)(2)(A). Pub. L. 102–568, §505(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a veteran of the Vietnam era who—
 
@@ -166,7 +166,7 @@ Subsec. (c). Pub. L. 98–543, §211(c), substituted “agency” for “departm
 
 Subsec. (d). Pub. L. 98–543, §211(d), substituted “annual” for “semiannual” in second sentence and struck out provisions listing information to be included in the report.
 
-Subsec. (e). Pub. L. 98–543, §211(d), substituted provisions listing information to be included with respect to each agency and setting forth to whom the information shall be shown for provisions which set forth reporting requirements regarding the employment of the handicapped.
+Subsec. (e). Pub. L. 98–543, §211(d), substituted provisions listing information to be included with respect toeach agency and setting forth to whom the information shall be shown for provisions which set forth reporting requirements regarding the employment of the handicapped.
 
 1982—Subsec. (c). Pub. L. 97–295 substituted “Health and Human Services” for “Health, Education, and Welfare”.
 

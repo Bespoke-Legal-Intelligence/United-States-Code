@@ -40,7 +40,7 @@ Section 300m of this title, referred to in subsec. (c), was in the original a re
 
 #### Prior Provisions
 
-A prior section 1320a, act Aug. 14, 1935, ch. 531, title XI, §1121, as added Jan. 2, 1968, Pub. L. 90–248, title II, §250(a), 81 Stat. 920, provided for assistance in the form of institutional services in intermediate care facilities, the subsecs. providing as follows: subsec. (a), modification of certain plans to include such benefit; subsec. (b), eligible individuals; subsec. (c), payments and Federal medical assistance percentage; subsec. (d), conditions, limitations, rights, and obligations applicable to modified plans; and subsec. (e), definition of “intermediate care facility”, which is covered in section 1396d(c) of this title, prior to repeal by Pub. L. 92–223, §4(c), Dec. 28, 1971, 85 Stat. 810.
+A prior section 1320a, act Aug. 14, 1935, ch. 531, title XI, §1121, as added Jan. 2, 1968, Pub. L. 90–248, title II, §250(a), 81 Stat. 920, provided for assistance in the form of institutional services in intermediate care facilities,the subsecs. providing as follows: subsec. (a), modification of certain plans to include such benefit; subsec. (b), eligible individuals; subsec. (c), payments and Federal medical assistance percentage; subsec. (d), conditions, limitations, rights, and obligations applicable to modified plans; and subsec. (e), definition of “intermediate care facility”, which is covered in section 1396d(c) of this title, prior to repeal by Pub. L. 92–223, §4(c), Dec. 28, 1971, 85 Stat. 810.
 
 Section was additionally amended by Pub. L. 92–603, title II, §278(a)(24), Oct. 30, 1972, 86 Stat. 1453, without reference to the earlier repeal of this section by Pub. L. 92–223.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Members of the Advisory Commission who are officers or employees of the United States shall not receive any additional compensation for service on the Advisory Commission. The remaining members of the Advisory Commission shall receive, for each day (including travel time) that they are engaged in the performance of the functions of the Advisory Commission, compensation at rates not to exceed the daily equivalent to the annual rate of basic pay payable for grade GS–10 of the General Schedule.
+Members of the Advisory Commission who are officers or employees of the United States shall not receive any additional compensation for service on the Advisory Commission. The remaining members of the Advisory Commission shall receive, for each day (including travel time) that they are engaged in the performance of the functions of the Advisory Commission,compensation at rates not to exceed the daily equivalent to the annual rate of basic pay payable for grade GS–10 of the General Schedule.
 
 #### (b) Travel expenses
 

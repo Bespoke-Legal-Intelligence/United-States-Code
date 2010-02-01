@@ -18,7 +18,7 @@ Congress finds the following:
 
 &emsp;&emsp;(E) enjoy full inclusion and integration in the economic, political, social, cultural, and educational mainstream of society in the United States.
 
-&emsp;(3) Technology is one of the primary engines for economic activity, education, and innovation in the Nation, and throughout the world. The commitment of the United States to the development and utilization of technology is one of the main factors underlying the strength and vibrancy of the economy of the United States.
+&emsp;(3) Technology is one of the primary engines for economic activity, education, and innovation in the Nation, and throughout the world. The commitment of the United States to thedevelopment and utilization of technology is one of the main factors underlying the strength and vibrancy of the economy of the United States.
 
 &emsp;(4) As technology has come to play an increasingly important role in the lives of all persons in the United States, in the conduct of business, in the functioning of government, in the fostering of communication, in the conduct of commerce, and in the provision of education, its impact upon the lives of individuals with disabilities in the United States has been comparable to its impact upon the remainder of the citizens of the United States. Any development in mainstream technology will have profound implications for individuals with disabilities in the United States.
 
@@ -28,7 +28,7 @@ Congress finds the following:
 
 &emsp;(7) Despite the success of the Federal-State partnership in providing access to assistive technology devices and assistive technology services, there is a continued need to provide information about the availability of assistive technology, advances in improving accessibility and functionality of assistive technology, and appropriate methods to secure and utilize assistive technology in order to maximize the independence and participation of individuals with disabilities in society.
 
-&emsp;(8) The combination of significant recent changes in Federal policy (including changes to section 794d of this title, accessibility provisions of the Help America Vote Act of 2002 (42 U.S.C. 15301 et seq.), and the amendments made to the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) by the No Child Left Behind Act of 2001) and the rapid and unending evolution of technology require a Federal-State investment in State assistivetechnology systems to continue to ensure that individuals with disabilities reap the benefits of the technological revolution and participate fully in life in their communities.
+&emsp;(8) The combination of significant recent changes in Federal policy (including changes to section 794d of this title, accessibility provisions of the Help America Vote Act of 2002 (42 U.S.C. 15301 et seq.), and the amendments made to the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) by the No Child Left Behind Act of 2001) and the rapid and unending evolution of technology require a Federal-State investment in State assistive technology systems to continue to ensure that individuals with disabilities reap the benefits of the technological revolution and participate fully in life in their communities.
 
 #### (b) Purposes
 
@@ -56,7 +56,7 @@ The purposes of this chapter are—
 
 #### References in Text
 
-The Help America Vote Act of 2002, referred to in subsec. (a)(8), is Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which is classified principally to chapter 146 (§15301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of Title 42 and Tables.
+The Help America Vote Act of 2002, referred to in subsec. (a)(8), is Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which is classified principally to chapter 146 (§15301 et seq.) of Title 42, The Public Health and Welfare. Forcomplete classification of this Act to the Code, see Short Title note set out under section 15301 of Title 42 and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(8), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 

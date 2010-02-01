@@ -96,7 +96,7 @@ In this section, the term “firefighting personnel” means individuals, includ
 
 #### (iv) Other Federal support
 
-&emsp;&emsp;&emsp;A list of other sources of Federal funding received by the applicant. The Director, in coordination with the Secretary of Homeland Security, shall use such list to prevent unnecessary duplication of grant funds.
+&emsp;&emsp;&emsp;A list of other sources of Federal funding received by the applicant. The Director, incoordination with the Secretary of Homeland Security, shall use such list to prevent unnecessary duplication of grant funds.
 
 #### (v) Other information
 
@@ -106,7 +106,7 @@ In this section, the term “firefighting personnel” means individuals, includ
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), the Director may provide assistance under thissubsection only if the applicant for such assistance agrees to match 20 percent of such assistance for any fiscal year with an equal amount of non-Federal funds.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), the Director may provide assistance under this subsection only if the applicant for such assistance agrees to match 20 percent of such assistance for any fiscal year with an equal amount of non-Federal funds.
 
 #### (B) Requirement for small community organizations
 

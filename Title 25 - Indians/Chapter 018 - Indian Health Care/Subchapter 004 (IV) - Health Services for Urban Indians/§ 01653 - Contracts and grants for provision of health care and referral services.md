@@ -90,7 +90,7 @@ The Secretary, acting through the Service, shall facilitate access to, or provid
 
 #### (f) Grants for prevention and treatment of child abuse
 
-(1) The Secretary, acting through the Service, shall facilitate access to, or provide, services for urban Indians through grants to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a) of this section to preventand treat child abuse (including sexual abuse) among urban Indians.
+(1) The Secretary, acting through the Service, shall facilitate access to, or provide, services for urban Indians through grants to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a) of this section to prevent and treat child abuse (including sexual abuse) among urban Indians.
 
 (2) A grant may not be made under this subsection to an urban Indian organization until that organization has prepared, and the Service has approved, an assessment that documents the prevalence of child abuse in the urban Indian population concerned and specifies the services and programs (which may not duplicate existing services and programs) for which the grant is requested.
 

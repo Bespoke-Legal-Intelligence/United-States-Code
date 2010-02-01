@@ -86,7 +86,7 @@ The Secretary shall annually establish the maximum fellowship to be awarded, and
 
 There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 2009 and each of the five succeeding fiscal years.
 
-(Pub. L. 89–329, title VII, §721, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1794; amended Pub. L. 110–315, title VII, §704(a)–(h), Aug. 14, 2008, 122 Stat. 3347, 3348.)
+(Pub. L. 89–329, title VII, §721, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1794; amended Pub. L. 110–315, title VII, §704(a)–(h), Aug. 14, 2008, 122 Stat. 3347, 3348; Pub. L. 111–39, title VII, §701(1), July 1, 2009, 123 Stat. 1954.)
 
 #### Prior Provisions
 
@@ -107,6 +107,8 @@ Another prior section 721 of Pub. L. 89–329 was classified to section 1132c of
 Another prior section 721 of Pub. L. 89–329 was classified to section 1132b of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 #### Amendments
+
+2009—Subsec. (d). Pub. L. 111–39 substituted “services through pre-college programs, undergraduate prelawinformation resource centers” for “services through” and all that followed through “resource centers”, resulting in text identical to that after execution of the amendment by Pub. L. 110–315, §704(d)(1). See 2008 Amendment note below.
 
 2008—Subsec. (a). Pub. L. 110–315, §704(a)(1), inserted “secondary school and” after “disadvantaged” and “and admission to law practice” before period at end.
 
@@ -133,4 +135,8 @@ Subsec. (f). Pub. L. 110–315, §704(f), inserted “national and State bar ass
 Subsec. (g). Pub. L. 110–315, §704(g), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Secretary shall annually establish the maximum stipend to be paid (including allowances for participant travel and for the travel of the dependents of the participant) to Thurgood Marshall Fellows for the period of participation in summer institutes and midyear seminars. A Fellow may be eligible for such a stipend only if the Thurgood Marshall Fellow maintains satisfactory academic progress toward the Juris Doctor or Bachelor of Laws degree, as determined by the respective institutions.”
 
 Subsec. (h). Pub. L. 110–315, §704(h), substituted “fiscal year 2009 and each of the five succeeding fiscal years” for “fiscal year 1999 and each of the 4 succeeding fiscal years”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

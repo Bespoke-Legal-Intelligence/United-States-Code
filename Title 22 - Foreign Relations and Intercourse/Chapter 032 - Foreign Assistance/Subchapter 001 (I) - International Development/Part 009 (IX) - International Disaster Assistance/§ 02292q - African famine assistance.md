@@ -16,7 +16,7 @@ The President is authorized to provide assistance for famine relief, rehabilitat
 
 #### (2) Emergency health projects
 
-&emsp;A significant portion of the funds authorized to be appropriated by this section shall be used for emergency health projects pursuant to subsection (a)(2) of this section.
+&emsp;A significant portion of the funds authorized to be appropriated by this section shall beused for emergency health projects pursuant to subsection (a)(2) of this section.
 
 #### (3) Management support activities
 

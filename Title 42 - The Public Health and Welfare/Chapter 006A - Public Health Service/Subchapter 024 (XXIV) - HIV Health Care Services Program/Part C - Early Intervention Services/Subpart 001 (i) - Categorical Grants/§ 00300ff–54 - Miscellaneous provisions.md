@@ -46,15 +46,15 @@ The Secretary may, directly or through grants or contracts, provide technical as
 
 &emsp;Not to exceed 5 percent of the amount appropriated for a fiscal year under section 300ff–55 of this title may be used to carry out this section.
 
-(July 1, 1944, ch. 373, title XXVI, §2654, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 608; amended Pub. L. 104–146, §3(d)(3), May 20, 1996, 110 Stat. 1357; Pub. L. 106–345, title III, §312, Oct. 20, 2000, 114 Stat. 1345; Pub. L. 109–415, title III, §302(c), Dec. 19, 2006, 120 Stat. 2807.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2654, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 608; amended Pub. L. 104–146, §3(d)(3), May 20, 1996, 110 Stat. 1357; Pub. L. 106–345, title III, §312, Oct. 20, 2000, 114 Stat. 1345; Pub. L. 109–415, title III, §302(c), title VII, §703, Dec. 19, 2006, 120 Stat. 2807, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### Amendments
 
-2006—Subsec. (c)(1)(A). Pub. L. 109–415, §302(c)(1)(A), struck out “HIV” after “provide”.
+2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+Subsec. (c)(1)(A). Pub. L. 109–415, §302(c)(1)(A), struck out “HIV” after “provide”.
 
 Subsec. (c)(1)(B). Pub. L. 109–415, §302(c)(1)(B), substituted “HIV/AIDS-related” for “HIV-related”.
 
@@ -67,6 +67,10 @@ Subsec. (c)(4). Pub. L. 106–345, §312(b)(2), added par. (4). Former par. (4) 
 Subsec. (c)(5). Pub. L. 106–345, §312(b)(1), (c), redesignated par. (4) as (5) and substituted “5 percent” for “1 percent”.
 
 1996—Subsec. (c). Pub. L. 104–146 added subsec. (c).
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 1996 Amendment
 

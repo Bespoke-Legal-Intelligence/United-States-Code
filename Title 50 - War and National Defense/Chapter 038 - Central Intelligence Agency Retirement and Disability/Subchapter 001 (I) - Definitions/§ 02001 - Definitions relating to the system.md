@@ -60,9 +60,9 @@ A prior section 101 of Pub. L. 88–643, title I, Oct. 13, 1964, 78 Stat. 1043, 
 
 #### Amendments
 
-<b>2004</b>—Par. (2). Pub. L. 108–458 added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The term ‘Director’ means the Director of Central Intelligence.”
+2004—Par. (2). Pub. L. 108–458 added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The term ‘Director’ means the Director of Central Intelligence.”
 
-<b>1993</b>—Par. (7). Pub. L. 103–178 substituted “basic pay and amounts deposited” for “basic pay, amounts deposited” and struck out “, and interest determined under section 2121 of this title” after “section 2082(h) of this title”.
+1993—Par. (7). Pub. L. 103–178 substituted “basic pay and amounts deposited” for “basic pay, amounts deposited” and struck out “, and interest determined under section 2121 of this title” after “section 2082(h) of this title”.
 
 #### Effective Date of 2004 Amendment
 
@@ -98,7 +98,7 @@ Pub. L. 102–183, title III, §306(c), Dec. 4, 1991, 105 Stat. 1265, provided t
 
 “(2) The amendments made by subsections (a)(2) and (a)(3) \[amending section 226(a) of Pub. L. 88–643\] shall be deemed to have become effective as of September 29, 1988.”
 
-Pub. L. 102–183, title III, §309(b), Dec. 4, 1991, 105 Stat. 1266, provided that: “Subsection (h) of section 304 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees \[Pub. L. 88–643\], as added by subsection (a), shall be deemed to have become effective as of December 2, 1987.”
+Pub. L. 102–183, title III, §309(b), Dec. 4, 1991, 105 Stat. 1266, provided that: “Subsection (h) of section 304 of theCentral Intelligence Agency Retirement Act of 1964 for Certain Employees \[Pub. L. 88–643\], as added by subsection (a), shall be deemed to have become effective as of December 2, 1987.”
 
 Pub. L. 102–183, title III, §310(b), Dec. 4, 1991, 105 Stat. 1267, provided that: “The amendment made by subsection (a) \[amending section 204(b)(4) of Pub. L. 88–643\] shall apply only to a former husband or wife of a participant or former participant whose divorce from the participant or former participant becomes final after the date of the enactment of this Act \[Dec. 4, 1991\].”
 

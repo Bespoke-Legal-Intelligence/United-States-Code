@@ -88,7 +88,7 @@ The Secretary, acting through the Under Secretary for Science and Technology, sh
 
 &emsp;&emsp;(D) Select a laboratory or site on the basis of the criteria.
 
-&emsp;&emsp;(E) Report to the appropriate congressional committees on which laboratory was selected, how the selected laboratory meets the published criteria, and what duties the headquarters laboratory shall perform.
+&emsp;&emsp;(E) Report to the appropriate congressional committees on which laboratory wasselected, how the selected laboratory meets the published criteria, and what duties the headquarters laboratory shall perform.
 
 #### (4) Limitation on operation of laboratories
 

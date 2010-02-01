@@ -30,7 +30,7 @@ If the President determines, after appropriate consultation, that (1) an unfores
 
 (1) Before the start of each fiscal year the President shall report to the Committees on the Judiciary of the House of Representatives and of the Senate regarding the foreseeable number of refugees who will be in need of resettlement during the fiscal year and the anticipated allocation of refugee admissions during the fiscal year. The President shall provide for periodic discussions between designated representatives of the President and members of such committees regarding changes in the worldwide refugee situation, the progress of refugee admissions, and the possible need for adjustments in the allocation of admissions among refugees.
 
-(2) As soon as possible after representatives of the President initiate appropriate consultation with respect to the number of refugee admissions under subsection (a) of this section or with respect to the admission of refugees in response to an emergency refugee situation under subsection (b) of this section, the Committees on the Judiciary of the House of Representatives and of the Senate shall cause to have printed in the Congressional Record the substance of such consultation.
+(2) As soon as possible after representatives of the President initiate appropriate consultation with respect to the number of refugee admissions under subsection (a) of this section or with respect to the admission of refugees in response to an emergency refugee situation under subsection (b) of this section, the Committees on the Judiciary of the House of Representativesand of the Senate shall cause to have printed in the Congressional Record the substance of such consultation.
 
 (3)(A) After the President initiates appropriate consultation prior to making a determination under subsection (a) of this section, a hearing to review the proposed determination shall be held unless public disclosure of the details of the proposal would jeopardize the lives or safety of individuals.
 
@@ -118,7 +118,7 @@ For delegation of Congressional reporting functions of President under subsec. (
 
 #### Iraq Refugee Crisis
 
-Pub. L. 110–181, div. A, title XII, subtitle C, Jan. 28, 2008, 122 Stat. 395, as amended by Pub. L. 110–242, §1, June 3, 2008, 122 Stat. 1567, provided that:
+Pub. L. 110–181, div. A, title XII, subtitle C, Jan. 28, 2008, 122 Stat. 395, as amended by Pub. L. 110–242, §1, June 3, 2008, 122 Stat. 1567; Pub. L. 111–84, div. A, title VIII, §813(d), Oct. 28, 2009, 123 Stat. 2407; Pub. L. 111–118, div. A, title VIII, §8120(a), Dec. 19, 2009, 123 Stat. 3457, provided that:
 
 #### “SEC. 1241. SHORT TITLE.
 
@@ -258,7 +258,7 @@ Carry forward.—
 
 &emsp;&emsp;“(A)
 
-Fiscal years 2008 through 2011.—If the numerical limitation specified in paragraph (1) is not reached during a given fiscal year referred to in such paragraph (with respect to fiscal years 2008 through 2011), the numerical limitation specified insuch paragraph for the following fiscal year shall be increased by a number equal to the difference between—
+Fiscal years 2008 through 2011.—If the numerical limitation specified in paragraph (1) is not reached during a given fiscal year referred to in such paragraph (with respect to fiscal years 2008 through 2011), the numerical limitation specified in such paragraph for the following fiscal year shall be increased by a number equal to the difference between—
 
 &emsp;&emsp;&emsp;“(i) the numerical limitation specified in paragraph (1) for the given fiscal year; and
 
@@ -286,7 +286,7 @@ Eligibility for Admission Under Other Classification.—No alien shall be denied
 
 “(g)
 
-Resettlement Support.—Iraqi aliens granted special immigrant status described in section 101(a)(27) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)) shall be eligible for resettlement assistance, entitlement programs, and other benefits available to refugees admitted under section 207 of such Act (8 U.S.C. 1157) for a period not to exceed eight months.
+Resettlement Support.—Iraqi aliens granted special immigrant status described in section 101(a)(27) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)) shall be eligible for resettlement assistance, entitlement programs, and other benefits available to refugees admitted under section 207 of such Act (8 U.S.C. 1157) to the same extent, and for the same periods of time, as such refugees.
 
 “(h)
 
@@ -304,7 +304,7 @@ Responsibilities.—The Senior Coordinator shall be responsible for the oversigh
 
 “(c)
 
-Designation of Additional Senior Coordinators.—The Secretary of State shall designate in the embassies of the United States in Cairo, Egypt, Amman, Jordan, Damascus, Syria, and Beirut, Lebanon, a Senior Coordinator to oversee resettlement in the United States of refugees of special humanitarian concern in those countries to ensure their applications to the United States refugee resettlement program are processed in an orderly manner and without delay.
+Designation of Additional Senior Coordinators.—The Secretary of State shall designate in the embassies of the United States in Cairo, Egypt,Amman, Jordan, Damascus, Syria, and Beirut, Lebanon, a Senior Coordinator to oversee resettlement in the United States of refugees of special humanitarian concern in those countries to ensure their applications to the United States refugee resettlement program are processed in an orderly manner and without delay.
 
 #### “SEC. 1246. COUNTRIES WITH SIGNIFICANT POPULATIONS OF IRAQI REFUGEES.
 
@@ -360,7 +360,7 @@ In general.—Not later than 120 days after the date of the enactment of this Ac
 
 &emsp;&emsp;“(A) review internal records and databases of their respective agencies for information that can be used to verify employment of Iraqi nationals by the United States Government; and
 
-&emsp;&emsp;“(B) request from each prime contractor or grantee that has performed work in Iraq since March 20, 2003, under a contract, grant, or cooperative agreement with their respective agencies that is valued in excess of $25,000 information that can be used to verify the employment of Iraqi nationals by such contractor or grantee.
+&emsp;&emsp;“(B) request from each prime contractor or grantee that has performed work in Iraq since March 20, 2003, under a contract, grant, or cooperative agreement with their respective agencies that is valued in excess of $100,000 information that can be used to verify the employment of Iraqi nationals by such contractor or grantee.
 
 &emsp;“(2)
 
@@ -612,7 +612,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[No
 
 #### Establishing Categories of Aliens for Purposes of Refugee Determinations
 
-Pub. L. 101–167, title V, §599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, §598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, §582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(1)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(1), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(1), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(1), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, §213(1), Feb. 20, 2003, 117 Stat. 324; Pub. L. 108–199, div. E, title II, §213(1), Jan. 23, 2004, 118 Stat. 253; Pub. L. 108–447, div. F, title II, §213(1), Dec. 8, 2004, 118 Stat. 3139; Pub. L. 109–102, title V, §534(m)(1), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 109–289, div. B, title II, §20412(b)(1), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 25; Pub. L. 110–161, div. J, title VI, §634(k)(1), Dec. 26, 2007, 121 Stat. 2329, provided that:
+Pub. L. 101–167, title V, §599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, §598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, §582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(1)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(1), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(1), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(1), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, §213(1), Feb. 20, 2003, 117 Stat. 324; Pub. L. 108–199, div. E, title II, §213(1), Jan. 23, 2004, 118 Stat. 253; Pub. L. 108–447, div. F, title II, §213(1), Dec. 8, 2004, 118 Stat. 3139; Pub. L. 109–102, title V, §534(m)(1), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 109–289, div. B, title II, §20412(b)(1), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 25; Pub. L. 110–161, div. J, title VI, §634(k)(1), Dec. 26, 2007, 121 Stat. 2329; Pub. L. 111–8, div. H, title VII, §7034(g)(1), Mar. 11, 2009, 123 Stat. 878; Pub. L. 111–117, div. F, title VII, §7034(f)(1), Dec. 16, 2009, 123 Stat. 3361, provided that:
 
 “(a)
 
@@ -632,11 +632,11 @@ Establishment of Categories.—
 
 &emsp;“(2)(A) Aliens who are (or were) nationals and residents of an independent state of the former Soviet Union or of Estonia, Latvia, or Lithuania and who are Jews or Evangelical Christians shall be deemed a category of alien established under paragraph (1)(A).
 
-&emsp;“(B) Aliens who are (or were) nationals of an independent state of the former Soviet Union or of Estonia, Latvia, or Lithuania and who are current members of, and demonstrate public, active, and continuous participation (or attempted participation) in the religious activities of, the Ukrainian Catholic Church or the Ukrainian Orthodox Church, shall be deemed a category of alien established under paragraph (1)(A).
+&emsp;“(B) Aliens who are (or were) nationals of an independent state of the former Soviet Union or of Estonia, Latvia, or Lithuania and who are current members of, and demonstrate public, active, and continuous participation (or attempted participation) in thereligious activities of, the Ukrainian Catholic Church or the Ukrainian Orthodox Church, shall be deemed a category of alien established under paragraph (1)(A).
 
 &emsp;“(C) Aliens who are (or were) nationals and residents of Vietnam, Laos, or Cambodia and who are members of categories of individuals determined, by the Attorney General in accordance with ‘Immigration and Naturalization Service Worldwide Guidelines for Overseas Refugee Processing’ (issued by the Immigration and Naturalization Service in August 1983) shall be deemed a category of alien established under paragraph (1)(B).
 
-&emsp;“(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, and 2008 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
+&emsp;“(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, and 2010 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
 
 “(c)
 
@@ -650,11 +650,11 @@ Permitting Certain Aliens Within Categories to Reapply for Refugee Status.—Eac
 
 Period of Application.—
 
-&emsp;“(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 2008.
+&emsp;“(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 2010.
 
-&emsp;“(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 2008.
+&emsp;“(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 2010.
 
-&emsp;“(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 2008.”
+&emsp;“(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 2010.”
 
 \[Pub. L. 109–102, §534(m)(1)(A), which directed amendment of section 599D(b)(3) of Pub. L. 101–167, set out above, by substituting “2005, and 2006” for “and 2005”, could not be executed.\]
 
@@ -677,6 +677,8 @@ Section 204(d)(1) of Pub. L. 96–212 provided that: “Notwithstanding section 
 #### Presidential Determination Concerning Admission and Adjustment of Status of Refugees
 
 Determinations by the President pursuant to this section concerning the admission and adjustment of status of refugees for particular fiscal years were contained in the following Presidential Determinations:
+
+Presidential Determination No. 2009–32, Sept. 30, 2009, 74 F.R. 52385.
 
 Presidential Determination No. 2008–29, Sept. 30, 2008, 73 F.R. 58865.
 

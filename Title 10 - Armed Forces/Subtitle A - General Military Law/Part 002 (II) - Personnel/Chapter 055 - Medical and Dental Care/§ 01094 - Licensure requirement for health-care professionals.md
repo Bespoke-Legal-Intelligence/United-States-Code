@@ -26,7 +26,7 @@
 
 &emsp;(1) The term “license”—
 
-&emsp;&emsp;(A) means a grant of permission by an official agency of a State, the District of Columbia, or a Commonwealth, territory, or possession of the United States to provide health care independently as a health-care professional; and
+&emsp;&emsp;(A) means a grant of permission by an official agency of a State, the District of Columbia, or a Commonwealth, territory, or possession of the United States to providehealth care independently as a health-care professional; and
 
 &emsp;&emsp;(B) includes, in the case of such care furnished in a foreign country by any person who is not a national of the United States, a grant of permission by an official agency of that foreign country for that person to provide health care independently as a health-care professional.
 

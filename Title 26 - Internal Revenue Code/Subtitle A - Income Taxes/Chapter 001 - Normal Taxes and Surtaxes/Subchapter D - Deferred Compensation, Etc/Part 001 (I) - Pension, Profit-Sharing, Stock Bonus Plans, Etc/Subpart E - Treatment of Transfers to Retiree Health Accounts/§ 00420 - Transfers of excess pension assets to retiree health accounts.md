@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Any assets transferred to a health benefits account in a qualified transfer (and any income allocable thereto) shall be used only to pay qualified current retiree health liabilities (other than liabilities of key employees not taken into account under subsection (e)(1)(D)) for the taxable year of the transfer (whether directly or through reimbursement). In the case of a qualified future transfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C).
+&emsp;&emsp;Any assets transferred to a health benefits account in a qualified transfer (and any income allocable thereto) shall be used only to pay qualified current retiree health liabilities (other than liabilities of key employees not taken into account under subsection (e)(1)(D)) for the taxable year of the transfer (whether directly or through reimbursement). In the case of a qualified futuretransfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C).
 
 #### (B) Amounts not used to pay for health benefits
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary to prevent anemployer who significantly reduces retiree health coverage during the cost maintenance period from being treated as satisfying the minimum cost requirement of this subsection.
+&emsp;&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary to prevent an employer who significantly reduces retiree health coverage during the cost maintenance period from being treated as satisfying the minimum cost requirement of this subsection.
 
 #### (ii) Insignificant cost reductions permitted
 
@@ -312,7 +312,7 @@ For purposes of this section—
 
 #### (iii) Collectively bargained employer cost
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “collectively bargained employer cost” means the average cost per covered individual of providing collectively bargained retiree health benefits as determined in accordance with the applicable collective bargaining agreement. Such agreement may provide for an appropriate reduction in the collectively bargained employer cost to take into account any portion of the collectively bargained retiree health benefits that is provided or financed by a government program or other source.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “collectively bargained employer cost” means the average cost per covered individual of providing collectively bargained retiree health benefits as determined in accordance with the applicablecollective bargaining agreement. Such agreement may provide for an appropriate reduction in the collectively bargained employer cost to take into account any portion of the collectively bargained retiree health benefits that is provided or financed by a government program or other source.
 
 #### (E) Special rules for collectively bargained transfers
 

@@ -56,7 +56,7 @@ The Secretary may enter into agreements with any State for the administration an
 
 &emsp;(D) the potential for restoring endangered species and threatened species within a State;
 
-&emsp;(E) the relative urgency to initiate a program to restore and protect an endangeredspecies or threatened species in terms of survival of the species;
+&emsp;(E) the relative urgency to initiate a program to restore and protect an endangered species or threatened species in terms of survival of the species;
 
 &emsp;(F) the importance of monitoring the status of candidate species within a State to prevent a significant risk to the well being of any such species; and
 
@@ -100,7 +100,7 @@ The Secretary is authorized to promulgate such regulations as may be appropriate
 
 #### (i) Appropriations
 
-(1) To carry out the provisions of this section for fiscal years after September 30, 1988, there shall be deposited into a special fund known as the cooperative endangered species conservation fund, to be administered by the Secretary, an amount equal to 5 percent of the combined amounts covered each fiscal year into the Federal aid to wildlife restoration fund under section 669b of this title, and paid, transferred, or otherwise credited each fiscal year to the SportFishing Restoration Account established under 1016 of the Act of July 18, 1984.
+(1) To carry out the provisions of this section for fiscal years after September 30, 1988, there shall be deposited into a special fund known as the cooperative endangered species conservation fund, to be administered by the Secretary, an amount equal to 5 percent of the combined amounts covered each fiscal year into the Federal aid to wildlife restoration fund under section 669b of this title, and paid, transferred, or otherwise credited each fiscal year to the Sport Fishing Restoration Account established under 1016 of the Act of July 18, 1984.
 
 (2) Amounts deposited into the special fund are authorized to be appropriated annually and allocated in accordance with subsection (d) of this section.
 

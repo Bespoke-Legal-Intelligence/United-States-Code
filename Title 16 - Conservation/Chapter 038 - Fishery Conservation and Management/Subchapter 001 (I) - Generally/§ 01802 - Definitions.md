@@ -198,7 +198,7 @@ Sponges
 
 &emsp;(37) The term “recreational fishing” means fishing for sport or pleasure.
 
-&emsp;(38) The term “regulatory discards” means fish harvested in a fishery which fishermen are required by regulation to discard whenevercaught, or are required by regulation to retain but not sell.
+&emsp;(38) The term “regulatory discards” means fish harvested in a fishery which fishermen are required by regulation to discard whenever caught, or are required by regulation to retain but not sell.
 
 &emsp;(39) The term “Secretary” means the Secretary of Commerce or his designee.
 
@@ -224,7 +224,7 @@ Sponges
 
 &emsp;(45) The term “United States”, when used in a geographical context, means all the States thereof.
 
-&emsp;(46) The term “United States fish processors” means facilities located within the United States for, and vessels of the United States used or equipped for, the processing of fish for commercial use or consumption.
+&emsp;(46) The term “United States fish processors” means facilities located within the United States for, and vessels of the UnitedStates used or equipped for, the processing of fish for commercial use or consumption.
 
 &emsp;(47) The term “United States harvested fish” means fish caught, taken, or harvested by vessels of the United States within any fishery regulated under this chapter.
 

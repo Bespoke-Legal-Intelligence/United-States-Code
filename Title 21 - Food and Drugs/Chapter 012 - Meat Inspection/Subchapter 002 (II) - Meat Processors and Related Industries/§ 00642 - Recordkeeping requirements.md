@@ -12,7 +12,7 @@ The following classes of persons, firms, and corporations shall keep such record
 
 #### (b) Period of maintenance
 
-Any record required to be maintained by this section shall be maintained for such period oftime as the Secretary may by regulations prescribe.
+Any record required to be maintained by this section shall be maintained for such period of time as the Secretary may by regulations prescribe.
 
 (Mar. 4, 1907, ch. 2907, title II, §202, as added Pub. L. 90–201, §14, Dec. 15, 1967, 81 Stat. 593.)
 

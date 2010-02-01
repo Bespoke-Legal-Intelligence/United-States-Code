@@ -46,7 +46,7 @@
 
 #### (c) Publication of findings and decision
 
-The President shall make available to the public at the time of issuance of a decision under this section a written statement setting forth findings with respect to each of the criteria specified in subsection (b) of this section and describing the nature and route of crude oil transportation systems, if any, which are approved in the decision. If the President's decision is to approve a system, each statement shall set forth his reasons for approving such system over other proposed systems (if any) eligible for consideration under this chapter. Such statement along with notification of such decision shall be published in the Federal Register.
+The President shall make available to the public at the time of issuance of a decision under this section a written statement setting forth findings with respect to each of the criteria specified in subsection (b) of this section and describing the nature and route of crude oil transportation systems, if any, which are approved inthe decision. If the President's decision is to approve a system, each statement shall set forth his reasons for approving such system over other proposed systems (if any) eligible for consideration under this chapter. Such statement along with notification of such decision shall be published in the Federal Register.
 
 (Pub. L. 95–617, title V, §507, Nov. 9, 1978, 92 Stat. 3160.)
 

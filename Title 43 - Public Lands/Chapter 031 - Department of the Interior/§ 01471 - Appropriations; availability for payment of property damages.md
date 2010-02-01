@@ -1,6 +1,6 @@
 ### §1471. Appropriations; availability for payment of property damages
 
-Appropriations for contingent expenses of the Department of the Interior shall be available, tothe extent specified therein, for the payment of damages to private property (not to exceed $500 in any one case) caused by the negligent operation of motor vehicles under such appropriations.
+Appropriations for contingent expenses of the Department of the Interior shall be available, to the extent specified therein, for the payment of damages to private property (not to exceed $500 in any one case) caused by the negligent operation of motor vehicles under such appropriations.
 
 (June 25, 1946, ch. 472, §2, 60 Stat. 306.)
 

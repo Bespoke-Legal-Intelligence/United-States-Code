@@ -1,6 +1,6 @@
 ### §2518. Procedure for interception of wire, oral, or electronic communications
 
-(1) Each application for an order authorizing or approving the interception of a wire, oral, or electronic communication under this chapter shall be made in writing upon oath or affirmation to a judge of competent jurisdiction and shall state the applicant's authority to make such application. Each application shall include the following information:
+(1) Each application for an order authorizing or approving the interception of a wire, oral, orelectronic communication under this chapter shall be made in writing upon oath or affirmation to a judge of competent jurisdiction and shall state the applicant's authority to make such application. Each application shall include the following information:
 
 &emsp;(a) the identity of the investigative or law enforcement officer making the application, and the officer authorizing the application;
 
@@ -74,7 +74,7 @@
 
 &emsp;(3) the fact that during the period wire, oral, or electronic communications were or were not intercepted.
 
-> The judge, upon the filing of a motion, may in his discretion make available to such person or his counsel for inspection such portions of the intercepted communications, applications and orders as the judge determines to be in the interest of justice. On an ex parte showing of good cause to a judge of competent jurisdiction the serving of the inventory required by this subsection may be postponed.
+> The judge, upon the filing of a motion, may in his discretion make available to such person or his counsel for inspection such portions of the intercepted communications, applications and orders as the judge determines to be in the interest of justice. On an ex parte showing of goodcause to a judge of competent jurisdiction the serving of the inventory required by this subsection may be postponed.
 
 (9) The contents of any wire, oral, or electronic communication intercepted pursuant to this chapter or evidence derived therefrom shall not be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in a Federal or State court unless each party, not less than ten days before the trial, hearing, or proceeding, has been furnished with a copy of the court order, and accompanying application, under which the interception was authorized or approved. This ten-day period may be waived by the judge if he finds that it was not possible to furnish the party with the above information ten days before the trial, hearing, or proceeding and that the party will not be prejudiced by the delay in receiving such information.
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in cas
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–511 effective Oct. 25, 1978, except as specifically provided, see section 401 of Pub. L. 95–511, set out as an Effective Date note under section 1801 of Title 50, War and National Defense.
+Amendment by Pub. L. 95–511 effective Oct. 25, 1978, except as specifically provided, see section 401 of Pub. L. 95–511, formerly set out as an Effective Date note under section 1801 of Title 50, War and National Defense.
 
 #### Effective Date of 1970 Amendment
 

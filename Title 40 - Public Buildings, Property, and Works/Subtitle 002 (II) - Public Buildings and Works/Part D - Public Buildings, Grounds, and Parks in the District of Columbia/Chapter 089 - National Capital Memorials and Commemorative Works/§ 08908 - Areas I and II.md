@@ -10,7 +10,7 @@ Specific Conditions Applicable to Area I and Area II.—
 
 &emsp;(1)
 
-Area i.—After seeking the advice of the National Capital Memorial Commission, the Secretary or Administrator, as appropriate, may recommend the location of a commemorative work in Area I only if the Secretary or Administrator decides that the subject of the commemorative work is of preeminent historical and lasting significance to the United States. The Secretary or Administrator shall notify the Commission, the Committee on House Administration of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate of the recommendation that a commemorative work should be located in Area I. The location of a commemorative work in Area I is deemed to be authorized only if the recommendation is approved by law not later than 150 calendar days after the notification.
+Area i.—After seeking the advice of the National Capital Memorial Advisory Commission, the Secretary or Administrator, as appropriate, may recommend the location of a commemorative work in Area I only if the Secretary or Administrator decides that the subject of the commemorative work is of preeminent historical and lasting significance to the United States. The Secretary or Administrator shall notify the Commission, the Committee on Natural Resources of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate of the recommendation that a commemorative work should be located in Area I. The location of a commemorative work in Area I is deemed to be authorized only if the recommendation is approved by law not later than 150 calendar days after the notification.
 
 &emsp;(2)
 
@@ -20,7 +20,7 @@ Area ii.—Commemorative works of subjects of lasting historical significance to
 
 Reserve.—After the date of enactment of the Commemorative Works Clarification and Revision Act of 2003, no commemorative work or visitor center shall be located within the Reserve.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1231; Pub. L. 108–126, title II, §§202(b), 203(g), Nov. 17, 2003, 117 Stat. 1349, 1352.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1231; Pub. L. 108–126, title II, §§202(b), 203(g), Nov. 17, 2003, 117 Stat. 1349, 1352; Pub. L. 111–11, title VII, §7116(e)(3), Mar. 30, 2009, 123 Stat. 1203.)
 
 Historical and Revision Notes
 
@@ -51,6 +51,8 @@ In subsection (b)(1), the words “the Committee on House Administration of the 
 The date of enactment of the Commemorative Works Clarification and Revision Act of 2003, referred to in subsec. (c), is the date of enactment of Pub. L. 108–126, which was approved Nov. 17, 2003.
 
 #### Amendments
+
+2009—Subsec. (b)(1). Pub. L. 111–11 inserted “Advisory” before “Commission” in first sentence and substituted “Natural Resources of the House” for “House Administration of the House” in second sentence.
 
 2003—Subsec. (a). Pub. L. 108–126, §203(g)(2), which directed substitution of “entitled ‘Commemorative Areas Washington, DC and Environs’, numbered 869/86501 B, and dated June 24, 2003” for “numbered 869/86581, and dated May 1, 1986”, was executed by making the substitution for “numbered 869/86501, and dated May 1, 1986” to reflect the probable intent of Congress.
 

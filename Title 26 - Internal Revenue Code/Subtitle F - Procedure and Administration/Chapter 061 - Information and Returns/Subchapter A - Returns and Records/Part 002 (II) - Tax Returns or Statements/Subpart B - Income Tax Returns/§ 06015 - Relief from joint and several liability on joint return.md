@@ -30,7 +30,7 @@ Notwithstanding section 6013(d)(3)—
 
 #### (2) Apportionment of relief
 
-&emsp;If an individual who, but for paragraph (1)(C), would be relieved of liability under paragraph (1), establishes that in signing the return such individual did not know, and had no reason to know, the extent of such understatement, then such individual shall be relieved of liability for tax (including interest, penalties, and other amounts) for such taxable year to the extent that such liability is attributable to the portion of such understatement of which such individual did not know and had no reason to know.
+&emsp;If an individual who, but for paragraph (1)(C), would be relieved of liability under paragraph (1), establishes that in signing the return such individual did not know, and had no reason to know, the extent of such understatement, then such individual shall be relieved of liability for tax (including interest, penalties, and other amounts) for such taxableyear to the extent that such liability is attributable to the portion of such understatement of which such individual did not know and had no reason to know.
 
 #### (3) Understatement
 
@@ -68,7 +68,7 @@ Notwithstanding section 6013(d)(3)—
 
 #### (C) Election not valid with respect to certain deficiencies
 
-&emsp;&emsp;If the Secretary demonstrates that an individual making an election under this subsection had actual knowledge, at the time such individual signed the return, of anyitem giving rise to a deficiency (or portion thereof) which is not allocable to such individual under subsection (d), such election shall not apply to such deficiency (or portion). This subparagraph shall not apply where the individual with actual knowledge establishes that such individual signed the return under duress.
+&emsp;&emsp;If the Secretary demonstrates that an individual making an election under this subsection had actual knowledge, at the time such individual signed the return, of any item giving rise to a deficiency (or portion thereof) which is not allocable to such individual under subsection (d), such election shall not apply to such deficiency (or portion). This subparagraph shall not apply where the individual with actual knowledge establishes that such individual signed the return under duress.
 
 #### (4) Liability increased by reason of transfers of property to avoid tax
 
@@ -280,7 +280,7 @@ Pub. L. 105–206, title III, §3201(g), July 22, 1998, 112 Stat. 740, provided 
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section, amending sections 66, 6013, 6230, and 7421 of this title, and enacting provisions set out as notes under this section and section 6013 of this title\] shall apply to any liability for tax arising after the date of the enactment of this Act \[July 22, 1998\] and any liability for taxarising on or before such date but remaining unpaid as of such date.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section, amending sections 66, 6013, 6230, and 7421 of this title, and enacting provisions set out as notes under this section and section 6013 of this title\] shall apply to any liability for tax arising after the date of the enactment of this Act \[July 22, 1998\] and any liability for tax arising on or before such date but remaining unpaid as of such date.
 
 “(2) 2-
 

@@ -24,7 +24,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;(7) The institution will comply with the requirements of section 1092 of this title.
 
-&emsp;(8) In the case of an institution that advertises job placement rates as a means of attracting students to enroll in the institution, the institution will make available to prospective students, at or before the time of application (A) the most recent available data concerning employment statistics, graduation statistics, and any other information necessary to substantiate the truthfulness of the advertisements, and (B) relevant State licensing requirements of the State in which such institution is located for any job for which the course of instruction is designed to prepare such prospective students.
+&emsp;(8) In the case of an institution that advertises job placement rates as a means of attracting students to enroll in the institution, the institution will make available to prospective students, at or before the time of application (A) the most recent available data concerning employment statistics, graduationstatistics, and any other information necessary to substantiate the truthfulness of the advertisements, and (B) relevant State licensing requirements of the State in which such institution is located for any job for which the course of instruction is designed to prepare such prospective students.
 
 &emsp;(9) In the case of an institution participating in a program under part B or C of this subchapter, the institution will inform all eligible borrowers enrolled in the institution about the availability and eligibility of such borrowers for State grant assistance from the State in which the institution is located, and will inform such borrowers from another State of the source for further information concerning such assistance from that State.
 
@@ -68,11 +68,11 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;(22) The institution will comply with the refund policy established pursuant to section 1091b of this title.
 
-&emsp;(23)(A) The institution, if located in a State to which section 1973gg–2(b) <sup>1</sup> of title 42 does not apply, will make a good faith effort to distribute a mail voter registration form, requested and received from the State, to each student enrolled in a degree or certificate program and physically in attendance at the institution, and to make such forms widely available to students at the institution.
+&emsp;(23)(A) The institution, if located in a State to which section 1973gg–2(b) of title 42 does not apply, will make a good faith effort to distribute a mail voter registration form, requested and received from the State, to each student enrolled in a degree or certificate program and physically in attendance at the institution, and to make such forms widely available to students at the institution.
 
-&emsp;(B) The institution shall request the forms from the State 120 days prior to the deadline for registering to vote within the State. If aninstitution has not received a sufficient quantity of forms to fulfill this section from the State within 60 days prior to the deadline for registering to vote in the State, the institution shall not be held liable for not meeting the requirements of this section during that election year.
+&emsp;(B) The institution shall request the forms from the State 120 days prior to the deadline for registering to vote within the State. If an institution has not received a sufficient quantity of forms to fulfill this section from the State within 60 days prior to the deadline for registering to vote in the State, the institution shall not be held liable for not meeting the requirements of this section during that election year.
 
-&emsp;(C) This paragraph shall apply to general and special elections for Federal office, as defined in section 431(3) of title 2, and to the elections for Governor or other chief executive within such State).<sup>2</sup>
+&emsp;(C) This paragraph shall apply to general and special elections for Federal office, as defined in section 431(3) of title 2, and to the elections for Governor or other chief executive within such State).<sup>1</sup>
 
 &emsp;(D) The institution shall be considered in compliance with the requirements of subparagraph (A) for each student to whom the institution electronically transmits a message containing a voter registration form acceptable for use in the State in which the institution is located, or an Internet address where such a form can be downloaded, if such information is in an electronic message devoted exclusively to voter registration.
 
@@ -114,7 +114,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 (1) Notwithstanding any other provisions of this subchapter and part C of subchapter I of chapter 34 of title 42, the Secretary shall prescribe such regulations as may be necessary to provide for—
 
-&emsp;(A)(i) except as provided in clauses (ii) and (iii), a financial audit of an eligible institution with regard to the financial condition of the institution in its entirety, and a compliance audit of such institution with regard to any funds obtained by it under this subchapter and part C of subchapter I of chapter 34 of title 42 or obtained from a student or a parent who has a loan insured or guaranteed by the Secretary under this subchapter and part C of subchapter I of chapter 34 of title 42, on at least an annual basis and covering the period since the most recent audit, conducted by a qualified, independent organization or person in accordance with standards established by the Comptroller General for the audit of governmental organizations, programs, and functions, and as prescribed in regulations of the Secretary, the results of which shall be submitted to the Secretary and shall be available to cognizant guaranty agencies, eligible lenders, State agencies, and the appropriate State agency notifying the Secretary under subpart 1 of part G of this subchapter, except that the Secretary may modify the requirements of this clause with respect to institutions of higher education that are foreign institutions, and may waive such requirements with respect to a foreign institution whose students receives <sup>3</sup> less than $500,000 in loans under this subchapter and part C of subchapter I of chapter 34 of title 42 during the award year preceding the audit period;
+&emsp;(A)(i) except as provided in clauses (ii) and (iii), a financial audit of an eligible institution with regard to the financial condition of the institution in its entirety, and a compliance audit of such institution with regard to any funds obtained by it under this subchapter and part C of subchapter I of chapter 34 of title 42 or obtained from a student or a parent who has a loan insured or guaranteed by the Secretary under this subchapter and part C of subchapter I of chapter 34 of title 42, on at least an annual basis and covering the period since the most recent audit, conducted by a qualified, independent organization or person in accordance with standards established by the Comptroller General for the audit of governmental organizations, programs, and functions, and as prescribed in regulations of the Secretary, the results of which shall be submitted to the Secretary and shall be available to cognizant guaranty agencies, eligible lenders, State agencies, and the appropriate State agency notifying the Secretary under subpart 1 of part G of this subchapter, except that the Secretary may modify the requirements of this clause with respect to institutions of higher education that are foreign institutions, and may waive such requirements with respect to a foreign institution whose students receive less than $500,000 in loans under this subchapter and part C of subchapter I of chapter 34 of title 42 during the award year preceding the audit period;
 
 &emsp;(ii) with regard to an eligible institution which is audited under chapter 75 of title 31, deeming such audit to satisfy the requirements of clause (i) for the period covered by such audit; or
 
@@ -130,11 +130,11 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;(ii) with regard to a secondary market that is audited under chapter 75 of title 31, such audit shall be deemed to satisfy the requirements of clause (i) for the period covered by the audit;
 
-&emsp;(E) the establishment, by each eligible institution under part B of this subchapter responsible for furnishing to the lender the statement required by section 1078(a)(2)(A)(i) of this title, of policies and procedures by which the latest known address and enrollment status of any student who has had a loan insured under this part and who has either formally terminated his enrollment, or failed to re-enroll on at least a half-time basis, at such institution, shall be furnished either to the holder (or if unknown, the insurer) of the note, not later than 60 days after such termination or failure to re-enroll;
+&emsp;(E) the establishment, by each eligible institution under part B of this subchapter responsible for furnishing to the lender the statement required by section 1078(a)(2)(A)(i) of this title, of policies and procedures by which the latest known address and enrollment status of any student who has had a loan insured under this part and who has either formally terminated his enrollment, or failed to re-enroll on at least a half-time basis, at such institution, shall be furnished either to the holder (or ifunknown, the insurer) of the note, not later than 60 days after such termination or failure to re-enroll;
 
-&emsp;(F) the limitation, suspension, or termination of the participation in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 of an eligible institution, or the imposition of a civil penalty under paragraph (2)(B) whenever the Secretary has determined, after reasonable notice and opportunity for hearing, that such institution has violated or failed to carry out any provision of this subchapter and part C of subchapter I of chapter 34 of title 42, any regulation prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, or any applicable special arrangement, agreement, or limitation, except that no period of suspension under this section shall exceed 60 days unless the institution and the Secretary agree to an extension or unless limitation or termination proceedings are initiated by the Secretary within that period of time;
+&emsp;(F) the limitation, suspension, or termination of the participation in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 of an eligible institution, or the imposition of a civil penalty under paragraph (3)(B) whenever the Secretary has determined, after reasonable notice and opportunity for hearing, that such institution has violated or failed to carry out any provision of this subchapter and part C of subchapter I of chapter 34 of title 42, any regulation prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, or any applicable special arrangement, agreement, or limitation, except that no period of suspension under this section shall exceed 60 days unless the institution and the Secretary agree to an extension or unless limitation or termination proceedings are initiated by the Secretary within that period of time;
 
-&emsp;(G) an emergency action against an institution, under which the Secretary shall, effective on the date on which a notice and statement of the basis of the action is mailed to theinstitution (by registered mail, return receipt requested), withhold funds from the institution or its students and withdraw the institution's authority to obligate funds under any program under this subchapter and part C of subchapter I of chapter 34 of title 42, if the Secretary—
+&emsp;(G) an emergency action against an institution, under which the Secretary shall, effective on the date on which a notice and statement of the basis of the action is mailed to the institution (by registered mail, return receipt requested), withhold funds from the institution or its students and withdraw the institution's authority to obligate funds under any program under this subchapter and part C of subchapter I of chapter 34 of title 42, if the Secretary—
 
 &emsp;&emsp;(i) receives information, determined by the Secretary to be reliable, that the institution is violating any provision of this subchapter and part C of subchapter I of chapter 34 of title 42, any regulation prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, or any applicable special arrangement, agreement, or limitation,
 
@@ -144,7 +144,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 > &emsp;except that an emergency action shall not exceed 30 days unless limitation, suspension, or termination proceedings are initiated by the Secretary against the institution within that period of time, and except that the Secretary shall provide the institution an opportunity to show cause, if it so requests, that the emergency action is unwarranted;
 
-&emsp;(H) the limitation, suspension, or termination of the eligibility of a third party servicer to contract with any institution to administer any aspect of an institution's student assistance program under this subchapter and part C of subchapter I of chapter 34 of title 42, or the imposition of a civil penalty under paragraph (2)(B), whenever the Secretary has determined, after reasonable notice and opportunity for a hearing, that such organization, acting on behalf of an institution, has violated or failed to carry out any provision of this subchapter and part C of subchapter I of chapter 34 of title 42, any regulation prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, or any applicable special arrangement, agreement, or limitation, except that no period of suspension under this subparagraph shall exceed 60 days unless the organization and the Secretary agree to an extension, or unless limitation or termination proceedings are initiated by the Secretary against the individual or organization within that period of time; and
+&emsp;(H) the limitation, suspension, or termination of the eligibility of a third party servicer to contract with any institution to administer any aspect of an institution's student assistance program under this subchapter and part C of subchapter I of chapter 34 of title 42, or the imposition of a civil penalty under paragraph (3)(B), whenever the Secretary has determined, after reasonable notice and opportunity for a hearing, that such organization, acting on behalf of an institution, has violated or failed to carry out any provision of this subchapter and part C of subchapter I of chapter 34 of title 42, any regulation prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, or any applicable special arrangement, agreement, or limitation, except that no period of suspension under this subparagraph shall exceed 60 days unless the organization and the Secretary agree to an extension, or unless limitation or termination proceedings are initiated by the Secretary against the individual or organization within that period of time; and
 
 &emsp;(I) an emergency action against a third party servicer that has contracted with an institution to administer any aspect of the institution's student assistance program under this subchapter and part C of subchapter I of chapter 34 of title 42, under which the Secretary shall, effective on the date on which a notice and statement of the basis of the action is mailed to such individual or organization (by registered mail, return receipt requested), withhold funds from the individual or organization and withdraw the individual or organization's authority to act on behalf of an institution under any program under this subchapter and part C of subchapter I of chapter 34 of title 42, if the Secretary—
 
@@ -218,7 +218,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;&emsp;(D) include institutional aid as revenue to the school only as follows:
 
-&emsp;&emsp;&emsp;(i) in the case of loans made by a proprietary institution of higher education on or after July 1, 2008 <sup>4</sup> and prior to July 1, 2012, the net present value of such loans made by the institution during the applicable institutional fiscal year accounted for on an accrual basis and estimated in accordance with generally accepted accounting principles and related standards and guidance, if the loans—
+&emsp;&emsp;&emsp;(i) in the case of loans made by a proprietary institution of higher education on or after July 1, 2008 and prior to July 1, 2012, the net present value of such loans made by the institution during the applicable institutional fiscal year accounted for on an accrual basis and estimated in accordance with generally accepted accounting principles and related standards and guidance, if the loans—
 
 &emsp;&emsp;&emsp;&emsp;(I) are bona fide as evidenced by enforceable promissory notes;
 
@@ -248,7 +248,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 #### (A) Ineligibility
 
-&emsp;&emsp;A proprietary institution of higher education that fails to meet a requirement of subsection (a)(24) for two consecutive institutional fiscal years shall be ineligible to participate in the programs authorized by this subchapter and part C of subchapter I of chapter 34 of title 42 for a period of not less than two institutional fiscal years. To regain eligibility to participate in the programs authorized by this subchapter and part C of subchapter I of chapter 34 of title 42, a proprietary institution of higher education shall demonstrate compliance with all eligibility and certification requirements under section 1099C of this title for a minimum of two institutional fiscal years after the institutional fiscal year in which the institution became ineligible.
+&emsp;&emsp;A proprietary institution of higher education that fails to meet a requirement of subsection (a)(24) for two consecutive institutional fiscal years shall be ineligible to participate in the programs authorized by this subchapter and part C of subchapter I of chapter 34 of title 42 for a period of not less than two institutional fiscal years. To regain eligibility to participate in the programs authorized by this subchapter and part C of subchapter I of chapter 34 of title 42, a proprietary institution of higher education shall demonstrate compliance with all eligibility and certification requirements under section 1099c of this title for a minimum of two institutional fiscal years after the institutional fiscal year in which the institution became ineligible.
 
 #### (B) Additional enforcement
 
@@ -336,13 +336,13 @@ An institution of higher education's code of conduct, as required under subsecti
 
 #### (A) Prohibition
 
-&emsp;&emsp;An officer or employee who is employed in the financial aid office of the institution or who otherwise has responsibilities with respect to education loans, or an agent who has responsibilities with respect to education loans, shall not accept from any lender or affiliate of any lender any fee, payment, or other financial benefit (including the opportunity to purchase stock) as compensation for any type of consulting arrangement or other contract to provide services to a lender or on behalf of a lender relating to education loans.
+&emsp;&emsp;An officer or employee who is employed in the financial aid office of the institution orwho otherwise has responsibilities with respect to education loans, or an agent who has responsibilities with respect to education loans, shall not accept from any lender or affiliate of any lender any fee, payment, or other financial benefit (including the opportunity to purchase stock) as compensation for any type of consulting arrangement or other contract to provide services to a lender or on behalf of a lender relating to education loans.
 
 #### (B) Exceptions
 
 &emsp;&emsp;Nothing in this subsection shall be construed as prohibiting—
 
-&emsp;&emsp;&emsp;(i) an officer or employee of an institution who is not employed in the institution's financial aid office and who does not otherwise have responsibilities with respect to education loans, or an agent whodoes not have responsibilities with respect to education loans, from performing paid or unpaid service on a board of directors of a lender, guarantor, or servicer of education loans;
+&emsp;&emsp;&emsp;(i) an officer or employee of an institution who is not employed in the institution's financial aid office and who does not otherwise have responsibilities with respect to education loans, or an agent who does not have responsibilities with respect to education loans, from performing paid or unpaid service on a board of directors of a lender, guarantor, or servicer of education loans;
 
 &emsp;&emsp;&emsp;(ii) an officer or employee of the institution who is not employed in the institution's financial aid office but who has responsibility with respect to education loans as a result of a position held at the institution, or an agent who has responsibility with respect to education loans, from performing paid or unpaid service on a board of directors of a lender, guarantor, or servicer of education loans, if the institution has a written conflict of interest policy that clearly sets forth that officers, employees, or agents must recuse themselves from participating in any decision of the board regarding education loans at the institution; or
 
@@ -396,17 +396,17 @@ An institution of higher education's code of conduct, as required under subsecti
 
 #### (1) In general
 
-&emsp;In the event the Secretary initiates the limitation, suspension, or termination of the participation of an institution of higher education in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 under the authority of subsection (c)(1)(F) or initiates an emergency action under the authority of subsection (c)(1)(G) and its prescribed regulations, the Secretary shall require that institution to prepare a teach-out plan for submission to the institution's accrediting agency or association in compliance with section 1099b(c)(4) of this title, the Secretary's regulations on teach-out plans, and the standards of the institution's accrediting agency or association.
+&emsp;In the event the Secretary initiates the limitation, suspension, or termination of the participation of an institution of higher education in any program under this subchapterand part C of subchapter I of chapter 34 of title 42 under the authority of subsection (c)(1)(F) or initiates an emergency action under the authority of subsection (c)(1)(G) and its prescribed regulations, the Secretary shall require that institution to prepare a teach-out plan for submission to the institution's accrediting agency or association in compliance with section 1099b(c)(3) of this title, the Secretary's regulations on teach-out plans, and the standards of the institution's accrediting agency or association.
 
 #### (2) Teach-out plan defined
 
-&emsp;In this subsection, the term “teach-out plan” means a written plan that provides for the equitable treatment of students if an institution of higher education ceases to operate before all students have completed their program of study, and may include, if required bythe institution's accrediting agency or association, an agreement between institutions for such a teach-out plan.
+&emsp;In this subsection, the term “teach-out plan” means a written plan that provides for the equitable treatment of students if an institution of higher education ceases to operate before all students have completed their program of study, and may include, if required by the institution's accrediting agency or association, an agreement between institutions for such a teach-out plan.
 
 #### (g) Inspector General report on gift ban violations
 
 The Inspector General of the Department shall—
 
-&emsp;(1) submit an annual report to the authorizing committees identifying all violations of an institution's code of conduct that the Inspector General has substantiated during the preceding year relating to the gift ban provisions described in subsection (f)(2); and
+&emsp;(1) submit an annual report to the authorizing committees identifying all violations of an institution's code of conduct that the Inspector General has substantiated during the preceding year relating to the gift ban provisions described in subsection (e)(2); and
 
 &emsp;(2) make the report available to the public through the Department's website.
 
@@ -472,7 +472,7 @@ For the purpose of this section:
 
 &emsp;The term “affiliate” means a person that controls, is controlled by, or is under common control with another person. A person controls, is controlled by, or is under common control with another person if—
 
-&emsp;&emsp;(A) the person directly or indirectly, or acting through one or more others, owns, controls, or has the power to vote five percent or more of any class of voting securities of such other person;
+&emsp;&emsp;(A) the person directly or indirectly, or acting through one or more others, owns,controls, or has the power to vote five percent or more of any class of voting securities of such other person;
 
 &emsp;&emsp;(B) the person controls, in any manner, the election of a majority of the directors or trustees of such other person; or
 
@@ -498,11 +498,9 @@ For the purpose of this section:
 
 Nothing in the amendments made by the Higher Education Amendments of 1992 shall be construed to prohibit an institution from recording, at the cost of the institution, a hearing referred to in subsection (b)(2), subsection (c)(1)(D), or subparagraph (A) or (B)(i) of subsection (c)(2), of this section to create a record of the hearing, except the unavailability of a recording shall not serve to delay the completion of the proceeding. The Secretary shall allow the institution to use any reasonable means, including stenographers, of recording the hearing.
 
-(Pub. L. 89–329, title IV, §487, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1488; amended Pub. L. 101–239, title II, §§2003(c)(2), 2006(c), Dec. 19, 1989, 103 Stat. 2114, 2118; Pub. L. 101–542, title II, §205, Nov. 8, 1990, 104 Stat. 2387; Pub. L. 102–26, §2(c)(3), Apr. 9, 1991, 105 Stat. 124; Pub. L. 102–325, title IV, §490, July 23, 1992, 106 Stat. 625; Pub. L. 103–208, §2(h)(42), (43), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title I, §102(b)(4), title IV, §489(a), (b)(1), (c), Oct. 7, 1998, 112 Stat. 1622, 1750, 1751; Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §314\], Nov. 29, 1999, 113 Stat. 1535, 1501A–266; Pub. L. 110–315, title IV, §493(a)(1)(A), (b)–(d), Aug. 14, 2008, 122 Stat. 3308, 3309–3317.)
+(Pub. L. 89–329, title IV, §487, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1488; amended Pub. L. 101–239, title II, §§2003(c)(2), 2006(c), Dec. 19, 1989, 103 Stat. 2114, 2118; Pub. L. 101–542, title II, §205, Nov. 8, 1990, 104 Stat. 2387; Pub. L. 102–26, §2(c)(3), Apr. 9, 1991, 105 Stat. 124; Pub. L. 102–325, title IV, §490, July 23, 1992, 106 Stat. 625; Pub. L. 103–208, §2(h)(42), (43), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title I, §102(b)(4), title IV, §489(a), (b)(1), (c), Oct. 7, 1998, 112 Stat. 1622, 1750, 1751; Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §314\], Nov. 29, 1999, 113 Stat. 1535, 1501A–266; Pub. L. 110–315, title IV, §493(a)(1)(A), (b)–(d), Aug. 14, 2008, 122 Stat. 3308, 3309–3317; Pub. L. 111–39, title IV, §407(b)(8), July 1, 2009, 123 Stat. 1952.)
 
 #### References in Text
-
-Section 1973gg–2(b) of title 42, referred to in subsec. (a)(23)(A), was in the original a reference to section 4(b) of the National Voter Registration Act (42 U.S.C. 1973gg–2(b)), and has been translated as if it referred to section 4(b) of the National Voter Registration Act of 1993, Pub. L. 103–31, to reflect the probable intent of Congress.
 
 Title IV, referred to in subsec. (d), means title IV of the Higher Education Act of 1965, Pub. L. 89–329, which is classified generally to this subchapter and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of title IV to the Code, see Tables.
 
@@ -513,6 +511,14 @@ The Higher Education Amendments of 1992, referred to in subsec. (j), is Pub. L. 
 A prior section 1094, Pub. L. 89–329, title IV, §487, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1451; amended Pub. L. 99–272, title XVI, §16034, Apr. 7, 1986, 100 Stat. 356, related to program participation agreements, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2009—Subsec. (a)(23)(A). Pub. L. 111–39, §407(b)(8)(A), made technical amendment to reference in original act which appears in text as reference to section 1973gg–2(b) of title 42.
+
+Subsec. (c)(1)(A)(i), (F), (H). Pub. L. 111–39, §407(b)(8)(B), substituted “students receive” for “students receives” in subpar. (A)(i) and “paragraph (3)(B)” for “paragraph (2)(B)” in subpars. (F) and (H).
+
+Subsec. (f)(1). Pub. L. 111–39, §407(b)(8)(C), substituted “1099b(c)(3)” for “1099b(c)(4)”.
+
+Subsec. (g)(1). Pub. L. 111–39, §407(b)(8)(D), substituted “subsection (e)(2)” for “subsection (f)(2)”.
 
 2008—Subsec. (a)(23)(C), (D). Pub. L. 110–315, §493(a)(1)(A)(i), realigned margins of subpar. (C) and added subpar. (D).
 
@@ -622,7 +628,11 @@ Subsec. (c)(1)(D). Pub. L. 101–239, §2006(c)(2), substituted “, any regula
 
 Subsec. (c)(1)(E) to (G). Pub. L. 101–239, §2006(c)(3), added subpars. (E) to (G).
 
-#### Effective Date of This Title
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+
+#### Effective Date of 2008 Amendment
 
 Pub. L. 110–315, title IV, §493(a)(1)(B), Aug. 14, 2008, 122 Stat. 3309, provided that: “The amendment made by subparagraph (A) \[amending this section\] with respect to section 487(a)(26) of the Higher Education Act of 1965 \[20 U.S.C. 1094(a)(26\] (as added by subparagraph (A)) shall apply with respect to any disciplinary proceeding conducted by an institution on or after the day that is one year after the date of enactment of this Act \[Aug. 14, 2008\].”
 
@@ -652,11 +662,5 @@ Subsec. (a)(10) of this section applicable only to periods of enrollment beginni
 
 Pub. L. 105–244, title IV, §489(b)(2), Oct. 7, 1998, 112 Stat. 1751, provided that: “No officer of the executive branch is authorized to instruct the institution in the manner in which the amendment made by this subsection \[amending this section\] is carried out.”
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “receive”.</i>
-
-<i><sup>4</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>1</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
 

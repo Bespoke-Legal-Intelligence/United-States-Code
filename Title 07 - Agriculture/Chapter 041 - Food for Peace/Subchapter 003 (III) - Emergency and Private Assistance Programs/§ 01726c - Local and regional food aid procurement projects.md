@@ -40,7 +40,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 30 days after June 18, 2008, the Secretary shall initiate a study of priorlocal and regional procurements for food aid programs conducted by—
+&emsp;&emsp;Not later than 30 days after June 18, 2008, the Secretary shall initiate a study of prior local and regional procurements for food aid programs conducted by—
 
 &emsp;&emsp;&emsp;(i) other donor countries;
 
@@ -234,7 +234,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(V) implementation costs; and
 
-&emsp;&emsp;&emsp;(iv) to the extent adequate information is available (including the results of the report required under subsection (b)(1)(B)), a comparison of the different methodologies used by other donor countries to make local and regional procurements.
+&emsp;&emsp;&emsp;(iv) to the extent adequate information is available (including the results of the report required under subsection (b)(1)(B)),a comparison of the different methodologies used by other donor countries to make local and regional procurements.
 
 #### (C) Independent third party access to records and reports
 
@@ -246,7 +246,7 @@ In this section:
 
 #### (2) Report
 
-&emsp;Not later than 4 years after June 18, 2008, the Secretary shall submit to the appropriatecommittees of Congress a report that contains the analysis and findings of the independent evaluation conducted under paragraph (1)(A).
+&emsp;Not later than 4 years after June 18, 2008, the Secretary shall submit to the appropriate committees of Congress a report that contains the analysis and findings of the independent evaluation conducted under paragraph (1)(A).
 
 #### (g) Funding
 

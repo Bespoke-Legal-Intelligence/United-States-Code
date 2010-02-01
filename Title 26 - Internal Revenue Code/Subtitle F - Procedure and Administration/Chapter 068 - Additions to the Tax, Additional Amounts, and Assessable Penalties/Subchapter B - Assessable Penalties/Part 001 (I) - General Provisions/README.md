@@ -67,10 +67,13 @@
 | [6720\.](%C2%A7%2006720%20-%20Fraudulent%20acknowledgments%20with%20respect%20to%20donations%20of%20motor%20vehicles%2C%20boats%2C%20and%20airplanes.md) | Fraudulent acknowledgments with respect to donations of motor vehicles, boats, and airplanes. |
 | [6720A.](%C2%A7%2006720A%20-%20Penalty%20with%20respect%20to%20certain%20adulterated%20fuels.md) | Penalty with respect to certain adulterated fuels. |
 | [6720B.](%C2%A7%2006720B%20-%20Fraudulent%20identification%20of%20exempt%20use%20property.md) | Fraudulent identification of exempt use property. |
+| [6720C.](%C2%A7%2006720C%20-%20Penalty%20for%20failure%20to%20notify%20health%20plan%20of%20cessation%20of%20eligibility%20for%20COBRA%20premium%20assistance.md) | Penalty for failure to notify health plan of cessation of eligibility for COBRA premium assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–5, div. B, title III, §3001(a)(13)(B), Feb. 17, 2009, 123 Stat. 465, added item 6720C.
 
 2007—Pub. L. 110–142, §9(b), Dec. 20, 2007, 121 Stat. 1807, which directed amendment of the analysis for this part by adding item 6699 at the end, was executed by inserting item 6699 after item 6698, to reflect the probable intent of Congress.
 
@@ -124,7 +127,7 @@ Pub. L. 97–424, title V, §515(b)(11)(D), Jan. 6, 1983, 96 Stat. 2182, struck 
 
 1980—Pub. L. 96–603, §§1(e)(3), 2(d)(2), Dec. 28, 1980, 94 Stat. 3505, 3510, substituted “returns” for “reports” in item 6685 and added item 6689.
 
-Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. L. 94–455, §2005(e)(4), and Pub. L. 95–600, §702(r)(1)(C), and the amendments made thereby, which resulted in striking out item 6698A “Failure tofile information with respect to carryover basis property”, which had been added as item 6694 in 1976 and redesignated as item 6698 in 1978. Pub. L. 96–222, §§107(a)(2)(E), 201, redesignated item 6698 as 6698A, effective as if included in Pub. L. 95–600.
+Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. L. 94–455, §2005(e)(4), and Pub. L. 95–600, §702(r)(1)(C), and the amendments made thereby, which resulted in striking out item 6698A “Failure to file information with respect to carryover basis property”, which had been added as item 6694 in 1976 and redesignated as item 6698 in 1978. Pub. L. 96–222, §§107(a)(2)(E), 201, redesignated item 6698 as 6698A, effective as if included in Pub. L. 95–600.
 
 Pub. L. 96–222, title I, §§101(a)(7)(L)(v)(X), 107(a)(2)(E), Apr. 1, 1980, 94 Stat. 201, 223, redesignated item 6698, relating to failure to file information with respect to carry-over basis property, as 6698A and substituted “tax credit employee stock ownership plan” for “ESOP” in item 6699.
 
@@ -229,3 +232,4 @@ Act Apr. 2, 1956, ch. 160, §4(g), 70 Stat. 91, added item 6675.
 - [&sect; 06720 - Fraudulent acknowledgments with respect to donations of motor vehicles, boats, and airplanes](%C2%A7%2006720%20-%20Fraudulent%20acknowledgments%20with%20respect%20to%20donations%20of%20motor%20vehicles%2C%20boats%2C%20and%20airplanes.md)
 - [&sect; 06720A - Penalty with respect to certain adulterated fuels](%C2%A7%2006720A%20-%20Penalty%20with%20respect%20to%20certain%20adulterated%20fuels.md)
 - [&sect; 06720B - Fraudulent identification of exempt use property](%C2%A7%2006720B%20-%20Fraudulent%20identification%20of%20exempt%20use%20property.md)
+- [&sect; 06720C - Penalty for failure to notify health plan of cessation of eligibility for COBRA premium assistance](%C2%A7%2006720C%20-%20Penalty%20for%20failure%20to%20notify%20health%20plan%20of%20cessation%20of%20eligibility%20for%20COBRA%20premium%20assistance.md)

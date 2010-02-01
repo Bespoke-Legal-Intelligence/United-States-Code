@@ -36,7 +36,7 @@ The President may provide to a country assistance otherwise prohibited under sub
 
 #### (1) In general
 
-&emsp;The President may provide assistance to a country for international military education,training, and nonlethal supplies (as defined in section 2557(d)(1)(B) of title 10) otherwise prohibited under subsection (a) upon certifying to the appropriate congressional committees that—
+&emsp;The President may provide assistance to a country for international military education, training, and nonlethal supplies (as defined in section 2557(d)(1)(B) of title 10) otherwise prohibited under subsection (a) upon certifying to the appropriate congressional committees that—
 
 &emsp;&emsp;(A) the government of such country is taking reasonable steps to implement effective measures to demobilize child soldiers in its forces or in government-supported paramilitaries and is taking reasonable steps within the context of its national resources to provide demobilization, rehabilitation, and reintegration assistance to those former child soldiers; and
 

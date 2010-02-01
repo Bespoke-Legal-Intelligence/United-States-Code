@@ -10,7 +10,7 @@ Section was formerly set out as a note under section 7274m of Title 42, The Publ
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–136, §3141(h)(7)(D), which directed the amendment of subsec. (b) by inserting “of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 2048; 42 U.S.C. 7251 note)” after “section 3161”, could not be executed because of the repeal of subsec. (b) by Pub. L. 106–65. See 1999 Amendment note below.
+2003—Subsec. (b). Pub. L. 108–136, §3141(h)(7)(D), which directed the amendment of subsec. (b) by inserting “of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 2048; 42 U.S.C. 7251 note)” after “section 3161”, could not be executed because of the repeal of subsec. (b) by Pub. L. 106–65. See 1999 Amendment note below.
 
-<b>1999</b>—Pub. L. 106–65 struck out subsec. (a) designation and heading and struck out heading and text of subsec. (b). Text read as follows: “The Secretary shall include with each report submitted under subsection (a) in fiscal years 1998 through 2000 any comments on such report by the members of the Department of Energy Security Management Board established under section 3161 that such members consider appropriate.”
+1999—Pub. L. 106–65 struck out subsec. (a) designation and heading and struck out heading and text of subsec. (b). Text read as follows: “The Secretary shall include with each report submitted under subsection (a) in fiscal years 1998 through 2000 any comments on such report by the members of the Department of Energy Security Management Board established under section 3161 that such members consider appropriate.”
 

@@ -22,7 +22,7 @@ The research program established under this subpart shall encompass the social, 
 
 &emsp;&emsp;(D) the relationship between the abuse of alcohol and other drugs,
 
-&emsp;&emsp;(E) the effect on the incidence of alcohol abuse and alcoholism of social pressures, legal requirements respecting the use of alcoholic beverages, the cost of such beverages, and the economic status and education of users of such beverages,
+&emsp;&emsp;(E) the effect on the incidence of alcohol abuse and alcoholism of social pressures,legal requirements respecting the use of alcoholic beverages, the cost of such beverages, and the economic status and education of users of such beverages,
 
 &emsp;&emsp;(F) the interrelationship between alcohol use and other health problems,
 
@@ -50,7 +50,7 @@ The research program established under this subpart shall encompass the social, 
 
 #### (c) Collaboration
 
-The Director of the Institute shall collaborate with the Administrator of the Substance Abuse and Mental Health Services Administration infocusing the services research activities of the Institute and in disseminating the results of such research to health professionals and the general public.
+The Director of the Institute shall collaborate with the Administrator of the Substance Abuse and Mental Health Services Administration in focusing the services research activities of the Institute and in disseminating the results of such research to health professionals and the general public.
 
 (July 1, 1944, ch. 373, title IV, §464H, as added and amended Pub. L. 102–321, title I, §122(a), (b), July 10, 1992, 106 Stat. 358, 359; Pub. L. 102–352, §2(a)(1), Aug. 26, 1992, 106 Stat. 938; Pub. L. 109–482, title I, §103(b)(32), Jan. 15, 2007, 120 Stat. 3688.)
 

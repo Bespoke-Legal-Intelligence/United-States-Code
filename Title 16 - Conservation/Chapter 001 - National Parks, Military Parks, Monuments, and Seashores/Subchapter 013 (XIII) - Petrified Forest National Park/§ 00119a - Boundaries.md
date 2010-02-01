@@ -1,6 +1,6 @@
 ### §119a. Boundaries
 
-The Petrified Forest National Park, authorized to be established pursuant to section 119 of this title, shall comprise the following described lands:
+The Petrified Forest National Park, authorized to be established pursuant to section 119 ofthis title, shall comprise the following described lands:
 
 gila and salt river meridian
 

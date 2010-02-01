@@ -40,7 +40,7 @@
 
 &emsp;&emsp;In the case of a subscriber of a satellite carrier who is eligible to receive the analog signal of a network station under this section (in this subparagraph referred to as a “distant analog signal”), other than subscribers to whom subparagraph (A) applies, the following shall apply:
 
-&emsp;&emsp;&emsp;(i) In a case in which the satellite carrier makes available to that subscriber, on January 1, 2005, the analog signal of a local network station affiliated with the same television network pursuant to section 338 of this title, the carrier may only provide the secondary transmissions of the distant analog signal of a station affiliate with the same network to that subscriber if the subscriber's satellite carrier, not later than March 1, 2005, submits to that television network the list and statement required by subparagraph (F)(i).
+&emsp;&emsp;&emsp;(i) In a case in which the satellite carrier makes available to that subscriber, onJanuary 1, 2005, the analog signal of a local network station affiliated with the same television network pursuant to section 338 of this title, the carrier may only provide the secondary transmissions of the distant analog signal of a station affiliate with the same network to that subscriber if the subscriber's satellite carrier, not later than March 1, 2005, submits to that television network the list and statement required by subparagraph (F)(i).
 
 &emsp;&emsp;&emsp;(ii) In a case in which the satellite carrier does not make available to that subscriber, on January 1, 2005, the analog signal of a local network station pursuant to section 338 of this title, the carrier may only provide the secondary transmissions of the distant analog signal of a station affiliated with the same network to that subscriber if—
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) is, after the date on which the conditions required by clause (vii) are met with respect to such station, determined under clause (vi) of this subparagraph to be unable to receive a digital signal of such local network station that exceeds the signal intensity standard specified in such clause;
 
-&emsp;&emsp;&nbsp;such subscriber is eligible to receive the digital signal of a distant network stationaffiliated with the same network under this section (in this subparagraph referred to as a “distant digital signal”) subject to the provisions of this subparagraph.
+&emsp;&emsp;&nbsp;such subscriber is eligible to receive the digital signal of a distant network station affiliated with the same network under this section (in this subparagraph referred to as a “distant digital signal”) subject to the provisions of this subparagraph.
 
 #### (ii) Pre-enactment distant digital signal subscribers
 
@@ -136,7 +136,7 @@
 
 #### (viii) Testing waivers
 
-&emsp;&emsp;&emsp;Upon request by a local network station, the Commission may grant a waiver with respect to such station to the beginning of testing under clause (vii), and prohibit subscribers from receiving digital signal strength testing with respect to such station. Such a request shall be filed not less than 5 months prior to the implementation deadline specified in such clause, and the Commission shall act on such request by such implementation deadline. Such a waiver shall expire at the end of not more than 6 months, except that a waiver may be renewed upon a proper showing. The Commission may only grant such a request upon submission of clear and convincing evidence that the station's digital signal coverage is limited due to the unremediable presence of one or more of the following:
+&emsp;&emsp;&emsp;Upon request by a local network station, the Commission may grant a waiver with respect to such station to the beginning of testing under clause (vii), and prohibit subscribers from receiving digital signal strength testing with respect to such station. Such a request shall be filed not less than 5 months prior to the implementation deadline specified in such clause, and the Commission shall act on such request by such implementation deadline. Such a waiver shall expire at the end of not morethan 6 months, except that a waiver may be renewed upon a proper showing. The Commission may only grant such a request upon submission of clear and convincing evidence that the station's digital signal coverage is limited due to the unremediable presence of one or more of the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) the need for international coordination or approvals;
 
@@ -170,7 +170,7 @@
 
 #### (E) Authority to grant station-specific waivers
 
-&emsp;&emsp;This paragraph shall not prohibit a retransmission of a distant analog signal or distant digital signal (within the meaning of subparagraph (A), (B), or (D)) of any distant network station to any subscriber to whom the signal of a local network station affiliated with the same network is available, if and to the extent that such local networkstation has affirmatively granted a waiver from the requirements of this paragraph to such satellite carrier with respect to retransmission of such distant network station to such subscriber.
+&emsp;&emsp;This paragraph shall not prohibit a retransmission of a distant analog signal or distant digital signal (within the meaning of subparagraph (A), (B), or (D)) of any distant network station to any subscriber to whom the signal of a local network station affiliated with the same network is available, if and to the extent that such local network station has affirmatively granted a waiver from the requirements of this paragraph to such satellite carrier with respect to retransmission of such distant network station to such subscriber.
 
 #### (F) Notices to networks of distant signal subscribers
 
@@ -240,7 +240,7 @@
 
 &emsp;&emsp;&emsp;(ii) section 73.686(d) of title 47, Code of Federal Regulations, should be amended to create different procedures for determining if the requisite digital signal strength is present than for determining if the requisite analog signal strength is present;
 
-&emsp;&emsp;&emsp;(iii) a standard should be used other than the presence of a signal of a certain strength to ensure that a household canreceive a high-quality picture using antennas of reasonable cost and ease of installation;
+&emsp;&emsp;&emsp;(iii) a standard should be used other than the presence of a signal of a certain strength to ensure that a household can receive a high-quality picture using antennas of reasonable cost and ease of installation;
 
 &emsp;&emsp;&emsp;(iv) to develop a predictive methodology for determining whether a household is unserved by an adequate digital signal under section 119(d)(10) of title 17;
 
@@ -262,7 +262,7 @@
 
 #### (3) Establishment of improved predictive model required
 
-&emsp;Within 180 days after November 29, 1999, the Commission shall take all actions necessary, including any reconsideration, to develop and prescribe by rule a point-to-point predictive model for reliably and presumptively determining the ability of individual locations to receive signals in accordance with the signal intensity standard in effect under section 119(d)(10)(A) of title 17. In prescribing such model, the Commission shall rely on the Individual Location Longley-Rice model set forth by the Federal Communications Commission in Docket No. 98–201 and ensure that such model takes into account terrain, building structures, and other land cover variations. The Commission shall establish procedures for the continued refinement in the application of the model by the use of additional data as it becomes available.
+&emsp;Within 180 days after November 29, 1999, the Commission shall take all actions necessary, including any reconsideration, to develop and prescribe by rule a point-to-point predictive model for reliably and presumptively determining the ability of individual locations toreceive signals in accordance with the signal intensity standard in effect under section 119(d)(10)(A) of title 17. In prescribing such model, the Commission shall rely on the Individual Location Longley-Rice model set forth by the Federal Communications Commission in Docket No. 98–201 and ensure that such model takes into account terrain, building structures, and other land cover variations. The Commission shall establish procedures for the continued refinement in the application of the model by the use of additional data as it becomes available.
 
 #### (4) Objective verification
 

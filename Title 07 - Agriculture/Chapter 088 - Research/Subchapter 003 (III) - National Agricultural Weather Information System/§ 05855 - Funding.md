@@ -8,7 +8,7 @@
 
 #### (2) Competitive grants program
 
-&emsp;Not less than 15 percent and not more than 25 percent of such funds shall be used by the Cooperative State Research Service for a competitive grants program under section 5852(c) of this title.
+&emsp;Not less than 15 percent and not more than 25 percent of such funds shall be used by the National Institute of Food and Agriculture for a competitive grants program under section 5852(c) of this title.
 
 #### (3) Weather information systems
 
@@ -16,7 +16,7 @@
 
 #### (4) Other purposes
 
-&emsp;The remaining funds shall be allocated for use by the Agricultural Weather Office and the Extension Service in carrying out generally the provisions of this subchapter.
+&emsp;The remaining funds shall be allocated for use by the Agricultural Weather Office and the National Institute of Food and Agriculture in carrying out generally the provisions of this subchapter.
 
 #### (b) Limitations on use of funds
 
@@ -28,17 +28,17 @@ There are authorized to be appropriated $5,000,000 to carry out this subchapter 
 
 (Pub. L. 101–624, title XVI, §1641, Nov. 28, 1990, 104 Stat. 3750; Pub. L. 104–127, title VIII, §833, Apr. 4, 1996, 110 Stat. 1168; Pub. L. 110–234, title VII, §§7202, 7511(c)(20), May 22, 2008, 122 Stat. 1233, 1269; Pub. L. 110–246, §4(a), title VII, §§7202, 7511(c)(20), June 18, 2008, 122 Stat. 1664, 1994, 2030.)
 
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2031, provided that, effective Oct. 1, 2009, subsection (a) of this section is amended by substituting “National Institute of Food and Agriculture” for “Cooperative State Research Service” in paragraph (2) and for “Extension Service” in paragraph (4).</i>
-
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–246, §7202, substituted “2008 through 2012” for “1991 through 1997”.
+2008—Subsec. (a)(2). Pub. L. 110–246, §7511(c)(20)(A), substituted “National Institute of Food and Agriculture” for “Cooperative State Research Service”.
+
+Subsec. (a)(4). Pub. L. 110–246, §7511(c)(20)(B), substituted “National Institute of Food and Agriculture” for “Extension Service”.
+
+Subsec. (c). Pub. L. 110–246, §7202, substituted “2008 through 2012” for “1991 through 1997”.
 
 1996—Subsec. (c). Pub. L. 104–127 substituted “1997” for “1995”.
 

@@ -20,7 +20,7 @@ The Secretary shall carry out a 5-year program, in accordance with sections 1354
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary for carrying out this section$21,900,000 for fiscal year 1993 and such sums as may be necessary for subsequent fiscal years, to be derived from sums authorized under section 13471(c) of this title.
+There are authorized to be appropriated to the Secretary for carrying out this section $21,900,000 for fiscal year 1993 and such sums as may be necessary for subsequent fiscal years, to be derived from sums authorized under section 13471(c) of this title.
 
 (Pub. L. 102–486, title XXI, §2117, Oct. 24, 1992, 106 Stat. 3075.)
 

@@ -76,7 +76,7 @@ The Corporation may withhold payment of such portion of the insured deposit of a
 
 #### (2) Regulations concerning employee conduct
 
-&emsp;The officers and employees of the Corporation and those individuals under contract tothe Corporation who are deemed, under paragraph (1)(B), to be employees of the Corporation for purposes of title 18 shall be subject to the ethics and conflict of interest rules and regulations issued by the Office of Government Ethics, including those concerning employee conduct, financial disclosure, and post-employment activities. The Board of Directors may prescribe regulations that supplement such rules and regulations only with the concurrence of that Office.
+&emsp;The officers and employees of the Corporation and those individuals under contract to the Corporation who are deemed, under paragraph (1)(B), to be employees of the Corporation for purposes of title 18 shall be subject to the ethics and conflict of interest rules and regulations issued by the Office of Government Ethics, including those concerning employee conduct, financial disclosure, and post-employment activities. The Board of Directors may prescribe regulations that supplement such rules and regulations only with the concurrence of that Office.
 
 #### (3) Regulations concerning independent contractors
 
@@ -146,7 +146,7 @@ The Corporation may withhold payment of such portion of the insured deposit of a
 
 &emsp;To the extent that the regulations under this subsection conflict with rules of other agencies or Government corporations, officers, directors, employees, and independent contractors of the Corporation who are also subject to the conflict of interest or ethical rules of another agency or Government corporation, shall be governed by the regulations prescribed by the Board of Directors under this subsection when acting for or on behalf of the Corporation. Notwithstanding the preceding sentence, the rules of the Corporation shall not take priority over the ethics and conflict of interest rules and regulations promulgated by the Office of Government Ethics unless specifically authorized by that Office.
 
-(Sept. 21, 1950, ch. 967, §2\[12\], 64 Stat. 887; Pub. L. 95–369, §6(c)(23), Sept. 17, 1978, 92 Stat. 619; Pub. L. 97–320, title I, §113(<i>l</i>), Oct. 15, 1982, 96 Stat. 1474; Pub. L. 101–73, title II, §§201(a), 216, Aug. 9, 1989, 103 Stat. 187, 254; Pub. L. 103–44, §1, June 28, 1993, 107 Stat. 220; Pub. L. 103–204, §19(a), Dec. 17, 1993, 107 Stat. 2402; Pub. L. 104–179, §4(b)(1), Aug. 6, 1996, 110 Stat. 1567; Pub. L. 109–173, §8(a)(18), Feb. 15, 2006, 119 Stat. 3613; Pub. L. 110–289, div.A, title VI, §1604(b)(1)(C), July 30, 2008, 122 Stat. 2829.)
+(Sept. 21, 1950, ch. 967, §2\[12\], 64 Stat. 887; Pub. L. 95–369, §6(c)(23), Sept. 17, 1978, 92 Stat. 619; Pub. L. 97–320, title I, §113(<i>l</i>), Oct. 15, 1982, 96 Stat. 1474; Pub. L. 101–73, title II, §§201(a), 216, Aug. 9, 1989, 103 Stat. 187, 254; Pub. L. 103–44, §1, June 28, 1993, 107 Stat. 220; Pub. L. 103–204, §19(a), Dec. 17, 1993, 107 Stat. 2402; Pub. L. 104–179, §4(b)(1), Aug. 6, 1996, 110 Stat. 1567; Pub. L. 109–173, §8(a)(18), Feb. 15, 2006, 119 Stat. 3613; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(C), July 30, 2008, 122 Stat. 2829.)
 
 #### Prior Provisions
 

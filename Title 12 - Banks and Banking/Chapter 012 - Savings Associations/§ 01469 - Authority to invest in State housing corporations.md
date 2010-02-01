@@ -14,5 +14,5 @@ Section was not enacted as part of the Home Owners’ Loan Act of 1933 which com
 
 #### Effective Date
 
-Section 8 of Pub. L. 93–100 provided that: “The provisions of this Act \[enacting this section and sections 1470 and 1832 of this title, amending sections 24, 461 note, 1464, 1725, 1727 and 1828 of this title, and enacting provisions set out as notes under section 548 of this title\] shall take effect on the thirtieth day after the date of its enactment \[Aug. 16, 1973\], except that the amendments made by sections 1 and 5 \[enacting thissection and section 1470 of this title and amending sections 24, 461 note, and 1464 of this title\] shall take effect on the date of enactment of this Act \[Aug. 16, 1973\].”
+Section 8 of Pub. L. 93–100 provided that: “The provisions of this Act \[enacting this section and sections 1470 and 1832 of this title, amending sections 24, 461 note, 1464, 1725, 1727 and 1828 of this title, and enacting provisions set out as notes under section 548 of this title\] shall take effect on the thirtieth day after the date of its enactment \[Aug. 16, 1973\], except that the amendments made by sections 1 and 5 \[enacting this section and section 1470 of this title and amending sections 24, 461 note, and 1464 of this title\] shall take effect on the date of enactment of this Act \[Aug. 16, 1973\].”
 

@@ -22,7 +22,7 @@ Section constitutes subsections (a) to (c) of section 139 of act Aug. 2, 1946. S
 
 #### Amendments
 
-1970—Subsec. (a). Pub. L. 91–510 repealed prohibition against consideration of any general appropriation bill in either House unless prior to such consideration printed committee hearings and reports on the bill have been available for at least three calendar days for the Members of the House considering the bill, which was incorporated in section 190a(f) of this title.
+1970—Subsec. (a). Pub. L. 91–510 repealed prohibition against consideration of any general appropriation bill in either House unless prior to such consideration printed committee hearings and reports on the bill have been available for at least three calendar days forthe Members of the House considering the bill, which was incorporated in section 190a(f) of this title.
 
 #### Effective Date of 1970 Amendment
 

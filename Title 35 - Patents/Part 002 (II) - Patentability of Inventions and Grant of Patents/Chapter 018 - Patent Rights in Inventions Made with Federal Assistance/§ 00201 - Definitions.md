@@ -4,7 +4,7 @@ As used in this chapter—
 
 &emsp;(a) The term “Federal agency” means any executive agency as defined in section 105 of title 5, and the military departments as defined by section 102 of title 5.
 
-&emsp;(b) The term “funding agreement” means any contract, grant, or cooperative agreement entered into between any Federal agency, other than the Tennessee Valley Authority, and any contractor for the performance of experimental, developmental, or research work funded in whole or in part by the Federal Government. Such term includes any assignment, substitution of parties, or subcontractof any type entered into for the performance of experimental, developmental, or research work under a funding agreement as herein defined.
+&emsp;(b) The term “funding agreement” means any contract, grant, or cooperative agreement entered into between any Federal agency, other than the Tennessee Valley Authority, and any contractor for the performance of experimental, developmental, or research work funded in whole or in part by the Federal Government. Such term includes any assignment, substitution of parties, or subcontract of any type entered into for the performance of experimental, developmental, or research work under a funding agreement as herein defined.
 
 &emsp;(c) The term “contractor” means any person, small business firm, or nonprofit organization that is a party to a funding agreement.
 

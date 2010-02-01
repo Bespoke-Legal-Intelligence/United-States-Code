@@ -6,7 +6,7 @@ The Administrator shall promulgate rules and regulations as necessary to impleme
 
 #### (b) Procedures
 
-The Administrator also shall establish procedures to be used by local educational agencies, in programs for which financial assistance is made available under section 4014 of this title, for—
+The Administrator also shall establish procedures to be used by local educational agencies,in programs for which financial assistance is made available under section 4014 of this title, for—
 
 &emsp;(1) abating asbestos materials in school buildings;
 

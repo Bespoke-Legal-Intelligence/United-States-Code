@@ -1,6 +1,6 @@
 ### §3423b. Office of Non-Public Education
 
-There shall be in the Department an Office of Non-Public Education to ensure the maximumpotential participation of non-public school students in all Federal educational programs for which such students are eligible.
+There shall be in the Department an Office of Non-Public Education to ensure the maximum potential participation of non-public school students in all Federal educational programs for which such students are eligible.
 
 (Pub. L. 96–88, title II, §214, as added Pub. L. 103–382, title II, §271(c), Oct. 20, 1994, 108 Stat. 3929.)
 

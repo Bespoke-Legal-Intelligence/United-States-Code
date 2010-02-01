@@ -18,7 +18,7 @@ The purposes of this subchapter are to—
 
 #### Effective Date
 
-Section 9(a) of Pub. L. 98–549 provided that: “Except where otherwise expressly provided, the provisions of this Act \[enacting this subchapter and section 611 of this title, amending sections 152, 224, 309, and 605 of this title, section 2511 of Title 18, Crimes and Criminal Procedure, and section 1805 of Title 50, War and National Defense, and enacting provisions set out as notes under this section and sections 543, 605, and 609 of this title\] and the amendments made thereby shall take effect 60 days after the date of enactment of this Act \[Oct. 30, 1984\].”
+Section 9(a) of Pub. L. 98–549 provided that: “Except where otherwise expressly provided, the provisions of this Act \[enacting this subchapter and section 611 of this title, amending sections 152, 224, 309, and 605 of this title, section 2511 of Title 18, Crimes and Criminal Procedure, and section 1805 of Title 50, War and National Defense, and enacting provisions set out as notes under this section and sections 543, 605, and 609 of this title\]and the amendments made thereby shall take effect 60 days after the date of enactment of this Act \[Oct. 30, 1984\].”
 
 #### Short Title
 
@@ -44,7 +44,7 @@ Findings.—The Congress finds and declares the following:
 
 &emsp;“(6) There is a substantial governmental and First Amendment interest in promoting a diversity of views provided through multiple technology media.
 
-&emsp;“(7) There is a substantial governmental and First Amendment interest in ensuring that cable subscribers have access to local noncommercial educational stations which Congress has authorized, as expressed in section 396(a)(5) of the Communications Act of 1934\[47 U.S.C. 396(a)(5)\]. The distribution of unique noncommercial, educational programming services advances that interest.
+&emsp;“(7) There is a substantial governmental and First Amendment interest in ensuring that cable subscribers have access to local noncommercial educational stations which Congress has authorized, as expressed in section 396(a)(5) of the Communications Act of 1934 \[47 U.S.C. 396(a)(5)\]. The distribution of unique noncommercial, educational programming services advances that interest.
 
 &emsp;“(8) The Federal Government has a substantial interest in making all nonduplicative local public television services available on cable systems because—
 

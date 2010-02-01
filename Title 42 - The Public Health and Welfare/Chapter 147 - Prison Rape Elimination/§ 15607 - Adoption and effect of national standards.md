@@ -44,7 +44,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 &emsp;&emsp;(A) a certification that the State has adopted, and is in full compliance with, the national standards described in subsection (a); or
 
-&emsp;&emsp;(B) an assurance that not less than 5 percent of such amount shall be used only forthe purpose of enabling the State to adopt, and achieve full compliance with, those national standards, so as to ensure that a certification under subparagraph (A) may be submitted in future years.
+&emsp;&emsp;(B) an assurance that not less than 5 percent of such amount shall be used only for the purpose of enabling the State to adopt, and achieve full compliance with, those national standards, so as to ensure that a certification under subparagraph (A) may be submitted in future years.
 
 #### (3) Report on noncompliance
 
@@ -56,7 +56,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 #### (5) Redistribution of amounts
 
-&emsp;Amounts under a grant program not granted by reason of a reduction under paragraph (2), or returned by reason of the prohibition in paragraph (4), shall be granted to one or more entities not subject to such reduction or such prohibition, subject to the other laws governing that program.
+&emsp;Amounts under a grant program not granted by reason of a reduction under paragraph (2),or returned by reason of the prohibition in paragraph (4), shall be granted to one or more entities not subject to such reduction or such prohibition, subject to the other laws governing that program.
 
 #### (6) Implementation
 

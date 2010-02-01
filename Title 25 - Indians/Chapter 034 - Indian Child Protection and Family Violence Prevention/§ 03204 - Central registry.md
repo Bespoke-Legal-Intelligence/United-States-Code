@@ -22,7 +22,7 @@ The study conducted pursuant to subsection (a) of this section shall include, bu
 
 #### (c) Submission to Congress
 
-The Secretary shall complete the study conducted pursuant to this section and shall submitsuch study, together with recommendations and draft legislation to implement such recommendations, to the Congress within 180 days after November 28, 1990.
+The Secretary shall complete the study conducted pursuant to this section and shall submit such study, together with recommendations and draft legislation to implement such recommendations, to the Congress within 180 days after November 28, 1990.
 
 (Pub. L. 101–630, title IV, §405, Nov. 28, 1990, 104 Stat. 4549.)
 

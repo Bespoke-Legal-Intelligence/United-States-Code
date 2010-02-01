@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary concerned shall have power to subpoena the attendance and testimony of anywitness, and the production of all documentary evidence relating to the enforcement of section 2279e of this title or any matter under investigation in connection with this section and section 2279e of this title.
+The Secretary concerned shall have power to subpoena the attendance and testimony of any witness, and the production of all documentary evidence relating to the enforcement of section 2279e of this title or any matter under investigation in connection with this section and section 2279e of this title.
 
 #### (b) Location of production
 
@@ -22,7 +22,7 @@ The Secretary concerned shall publish procedures for the issuance of subpoenas u
 
 #### (f) Scope of subpoena
 
-Subpoenas for witnesses to attend court in any judicial district or testify or produce evidence at an administrative hearing in any judicial district in any action or proceeding arising under section 2279e of this title may run to any other judicial district.
+Subpoenas for witnesses to attend court in any judicial district or testify or produce evidence atan administrative hearing in any judicial district in any action or proceeding arising under section 2279e of this title may run to any other judicial district.
 
 (Pub. L. 106–224, title V, §502, June 20, 2000, 114 Stat. 455; Pub. L. 107–296, title IV, §421(h)(2), Nov. 25, 2002, 116 Stat. 2184.)
 

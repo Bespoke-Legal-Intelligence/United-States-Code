@@ -8,5 +8,5 @@ Pub. L. 103–325, title V, §551(c), Sept. 23, 1994, 108 Stat. 2269, required t
 
 #### Transition Phase
 
-Pub. L. 103–325, title V, §551(b), Sept. 23, 1994, 108 Stat. 2269, permitted the Director of the Federal Emergency Management Agency to enter into loan and purchase commitments as provided under this section (asin effect immediately before the enactment of Pub. L. 103–325) during the 1-year period beginning on Sept. 23, 1994.
+Pub. L. 103–325, title V, §551(b), Sept. 23, 1994, 108 Stat. 2269, permitted the Director of the Federal Emergency Management Agency to enter into loan and purchase commitments as provided under this section (as in effect immediately before the enactment of Pub. L. 103–325) during the 1-year period beginning on Sept. 23, 1994.
 

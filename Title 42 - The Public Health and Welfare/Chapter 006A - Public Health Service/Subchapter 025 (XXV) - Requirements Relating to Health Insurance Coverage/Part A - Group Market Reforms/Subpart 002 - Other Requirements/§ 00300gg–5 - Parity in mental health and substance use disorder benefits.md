@@ -74,7 +74,7 @@
 
 #### (5) Out-of-network providers
 
-&emsp;In the case of a plan or coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits, if the plan or coverage provides coverage for medical or surgical benefits provided by out-of-network providers, the plan or coverage shall provide coverage for mental health or substance use disorder benefits provided by out-of-network providers in a manner that is consistent with the requirements of this section.
+&emsp;In the case of a plan or coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits, if the plan or coverage provides coverage for medical or surgical benefits provided by out-of-network providers, the plan or coverage shall provide coverage for mental health or substance use disorder benefits provided byout-of-network providers in a manner that is consistent with the requirements of this section.
 
 #### (b) Construction
 
@@ -88,7 +88,7 @@ Nothing in this section shall be construed—
 
 #### (1) Small employer exemption
 
-&emsp;This section shall not apply to any group health plan (and group health insurance coverage offered in connection with a group health plan) for any plan year of a small employer (as defined in section 300gg–91(e)(4) of this title, except that for purposes of this paragraph such term shall include employerswith 1 employee in the case of an employer residing in a State that permits small groups to include a single individual).
+&emsp;This section shall not apply to any group health plan (and group health insurance coverage offered in connection with a group health plan) for any plan year of a small employer (as defined in section 300gg–91(e)(4) of this title, except that for purposes of this paragraph such term shall include employers with 1 employee in the case of an employer residing in a State that permits small groups to include a single individual).
 
 #### (2) Cost exemption
 
@@ -138,7 +138,7 @@ Nothing in this section shall be construed—
 
 #### (F) Audits by appropriate agencies
 
-&emsp;&emsp;To determine compliance with this paragraph, the Secretary may audit the books and records of a group health plan or health insurance issuer relating to an exemption, including any actuarial reports prepared pursuant to subparagraph (C), during the 6 year period following the notification of such exemption under subparagraph (E). A State agency receiving a notification under subparagraph (E) may also conduct such an audit with respect to an exemption covered by such notification.
+&emsp;&emsp;To determine compliance with this paragraph, the Secretary may audit the booksand records of a group health plan or health insurance issuer relating to an exemption, including any actuarial reports prepared pursuant to subparagraph (C), during the 6 year period following the notification of such exemption under subparagraph (E). A State agency receiving a notification under subparagraph (E) may also conduct such an audit with respect to an exemption covered by such notification.
 
 #### (d) Separate application to each option offered
 

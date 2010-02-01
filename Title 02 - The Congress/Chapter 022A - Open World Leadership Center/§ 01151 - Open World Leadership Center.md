@@ -10,9 +10,9 @@
 
 &emsp;The Center shall be subject to the supervision and direction of a Board of Trustees (the “Board”) which shall be composed of 11 members as follows:
 
-&emsp;&emsp;(A) Two members appointed by the Speaker of the House of Representatives, one of whom shall be designated by the Majority Leader of the House of Representatives and one of whom shall be designated by the Minority Leader of the House of Representatives.
+&emsp;&emsp;(A) Two Members of the House of Representatives appointed by the Speaker of the House of Representatives, one of whom shall be designated by the Majority Leader of the House of Representatives and one of whom shall be designated by the Minority Leader of the House of Representatives.
 
-&emsp;&emsp;(B) Two members appointed by the President pro tempore of the Senate, one of whom shall be designated by the Majority Leader of the Senate and one of whom shall be designated by the Minority Leader of the Senate.
+&emsp;&emsp;(B) Two Senators appointed by the President pro tempore of the Senate, one of whom shall be designated by the Majority Leader of the Senate and one of whom shall be designated by the Minority Leader of the Senate.
 
 &emsp;&emsp;(C) The Librarian of Congress.
 
@@ -92,7 +92,7 @@
 
 #### (d) Executive Director
 
-The Board shall appoint an Executive Director who shall be the chief executive officer of the Center and who shall carry out the functions of the Center subject to the supervision and direction of the Board of Trustees. The Executive Director of the Center shall be compensated at the annual rate specified by the Board, but in no event shall such rate exceed level III of the Executive Schedule under section 5314 of title 5.
+On behalf of the Board, the Librarian of Congress shall appoint an Executive Director who shall be the chief executive officer of the Center and who shall carry out the functions of the Center subject to the supervision and direction of the Board of Trustees. The Executive Director of the Center shall be compensated at the annual rate specified by the Board, but in no event shall such rate exceed level III of the Executive Schedule under section 5314 of title 5.
 
 #### (e) Administrative provisions
 
@@ -132,13 +132,19 @@ In this section, the term “eligible foreign state” means—
 
 &emsp;(3) any other country that is designated by the Board, except that the Board shall notify the Committees on Appropriations of the Senate and the House of Representatives of the designation at least 90 days before the designation is to take effect.
 
-(Pub. L. 106–554, §1(a)(2) \[title III, §313\], Dec. 21, 2000, 114 Stat. 2763, 2763A–120; Pub. L. 108–7, div. H, title I, §1401(a), Feb. 20, 2003, 117 Stat. 382; Pub. L. 108–447, div. G, title I, §§1501, 1502, Dec. 8, 2004, 118 Stat. 3192; Pub. L. 109–13, div. A, title III, §3402(b), May 11, 2005, 119 Stat. 272; Pub. L. 109–289, div. B, title II, §20703(d)(6), as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 39.)
+(Pub. L. 106–554, §1(a)(2) \[title III, §313\], Dec. 21, 2000, 114 Stat. 2763, 2763A–120; Pub. L. 108–7, div. H, title I, §1401(a), Feb. 20, 2003, 117 Stat. 382; Pub. L. 108–447, div. G, title I, §§1501, 1502, Dec. 8, 2004, 118 Stat. 3192; Pub. L. 109–13, div. A, title III, §3402(b), May 11, 2005, 119 Stat. 272; Pub. L. 109–289, div. B, title II, §20703(d)(6), as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 39; Pub. L. 111–68, div. A, title I, §1601(a), (b), Oct. 1, 2009, 123 Stat. 2041.)
 
 #### References in Text
 
 Section 3011 of the 1999 Emergency Supplemental Appropriations Act, referred to in subsec. (g), is section 3011 of Pub. L. 106–31, which is set out as a note below.
 
 #### Amendments
+
+2009—Subsec. (a)(2)(A). Pub. L. 111–68, §1601(a)(1), substituted “Members of the House of Representatives” for “members”.
+
+Subsec. (a)(2)(B). Pub. L. 111–68, §1601(a)(2), substituted “Senators” for “members”.
+
+Subsec. (d). Pub. L. 111–68, §1601(b), substituted “On behalf of the Board, the Librarian of Congress shall appoint” for “The Board shall appoint”.
 
 2007—Subsec. (a)(2)(E). Pub. L. 109–289, §20703(d)(6), as added by Pub. L. 110–5, repealed Pub. L. 109–13, §3402(b), and amended this section to read as if Pub. L. 109–13, §3402(b), had not been enacted. See 2005 Amendment note below.
 
@@ -152,7 +158,7 @@ Subsec. (j)(3). Pub. L. 108–447, §1501, added par. (3).
 
 2003—Pub. L. 108–7, §1401(a)(1), substituted “Open World Leadership Center” for “Center for Russian Leadership Development” in section catchline.
 
-Subsec. (a)(1). Pub. L. 108–7, §1401(a)(2)(A), substituted “a center to be known as the ‘Open WorldLeadership Center (the ‘Center’)” for “a center to be known as the ‘Center for Russian Leadership Development’ (the ‘Center’)”.
+Subsec. (a)(1). Pub. L. 108–7, §1401(a)(2)(A), substituted “a center to be known as the ‘Open World Leadership Center (the ‘Center’)” for “a center to be known as the ‘Center for Russian Leadership Development’ (the ‘Center’)”.
 
 Subsec. (a)(2). Pub. L. 108–7, §1401(a)(2)(B)(i), inserted “(the ‘Board’)” after “Board of Trustees” in introductory provisions.
 
@@ -173,6 +179,14 @@ Subsec. (c)(3)(B). Pub. L. 108–7, §1401(a)(4)(B), struck out “of Trustees o
 Subsec. (h)(2). Pub. L. 108–7, §1401(a)(5), struck out “of Trustees of the Center” after “Board”.
 
 Subsec. (j). Pub. L. 108–7, §1401(a)(6), added subsec. (j).
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–68, div. A, title I, §1601(c), Oct. 1, 2009, 123 Stat. 2041, provided that: “The amendments made by this subsection \[probably means section 1601 of Pub. L. 111–68, which amended this section\] shall apply with respect to—
+
+&emsp;“(1) appointments made on and after the date of enactment of this Act \[Oct. 1, 2009\]; and
+
+&emsp;“(2) the remainder of the fiscal year in which enacted, and each fiscal year thereafter.”
 
 #### Effective Date of 2003 Amendment
 
@@ -276,7 +290,7 @@ Membership.—The Advisory Board under paragraph (1) shall consist of—
 
 &emsp;&emsp;“(A) two members appointed by the Speaker of the House of Representatives, of whom one shall be designated by the Majority Leader of the House of Representatives and one shall be designated by the Minority Leader of the House of Representatives;
 
-&emsp;&emsp;“(B) two members appointed by the President pro tempore of the Senate, of whom one shall be designated by the Majority Leader of the Senate andone shall be designated by the Minority Leader of the Senate;
+&emsp;&emsp;“(B) two members appointed by the President pro tempore of the Senate, of whom one shall be designated by the Majority Leader of the Senate and one shall be designated by the Minority Leader of the Senate;
 
 &emsp;&emsp;“(C) the Librarian of Congress;
 

@@ -12,7 +12,7 @@ The Secretary is authorized—
 
 &emsp;(4) to coordinate gender equity programs and activities with other Federal agencies with jurisdiction over education and related programs;
 
-&emsp;(5) to assist the Director of the Institute of Education Sciences in identifying research priorities related to education equity for women and girls; and
+&emsp;(5) to assist the Director of the Institute of Education Sciences in identifying researchpriorities related to education equity for women and girls; and
 
 &emsp;(6) to perform any other activities consistent with achieving the purposes of this subpart.
 

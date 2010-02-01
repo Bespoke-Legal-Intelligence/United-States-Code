@@ -16,7 +16,7 @@ The Congress finds and declares that:
 
 &emsp;&emsp;(D) the Act of September 30, 1890 (26 Stat. 558), amended the 1875 Act by substituting a renewal term of “not exceeding ninety-nine years” for the original renewal term of twelve years; and
 
-&emsp;&emsp;(E) in 1952 the Seneca Nation filed a claim with the Indian Claims Commission against the United States for use of improper lease fees, and in 1977 a settlement was reached regarding such claim, providing for the payment of $600,000 to the Seneca Nation covering the period beginning in 1870 to the end of 1946.
+&emsp;&emsp;(E) in 1952 the Seneca Nation filed a claim with the Indian Claims Commission against the United States for use of improper leasefees, and in 1977 a settlement was reached regarding such claim, providing for the payment of $600,000 to the Seneca Nation covering the period beginning in 1870 to the end of 1946.
 
 &emsp;(3) An analysis of historic land values indicates that the payments made under the original lease agreement and under the settlement described in paragraph (2)(E) were well below the actual lease value of the property.
 

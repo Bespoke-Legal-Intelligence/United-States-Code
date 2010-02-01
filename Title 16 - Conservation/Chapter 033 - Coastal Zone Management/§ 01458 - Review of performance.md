@@ -10,7 +10,7 @@ In evaluating a coastal state's performance, the Secretary shall conduct the eva
 
 #### (c) Suspension of financial assistance for noncompliance; notification of Governor; length of suspension
 
-(1) The Secretary may suspend payment of any portion of financial assistance extended to any coastal state under this chapter, and may withdraw any unexpended portion of such assistance, if the Secretary determines that the coastal state is failing to adhere to (A) the management program or a State plan developed to manage anational estuarine reserve established under section 1461 of this title, or a portion of the program or plan approved by the Secretary, or (B) the terms of any grant or cooperative agreement funded under this chapter.
+(1) The Secretary may suspend payment of any portion of financial assistance extended to any coastal state under this chapter, and may withdraw any unexpended portion of such assistance, if the Secretary determines that the coastal state is failing to adhere to (A) the management program or a State plan developed to manage a national estuarine reserve established under section 1461 of this title, or a portion of the program or plan approved by the Secretary, or (B) the terms of any grant or cooperative agreement funded under this chapter.
 
 (2) Financial assistance may not be suspended under paragraph (1) unless the Secretary provides the Governor of the coastal state with—
 
@@ -22,7 +22,7 @@ In evaluating a coastal state's performance, the Secretary shall conduct the eva
 
 #### (d) Withdrawal of approval of program
 
-The Secretary shall withdraw approval of the management program of any coastal state and shall withdraw financial assistance available to that State under this chapter as well as any unexpended portion of such assistance, if the Secretary determines that the coastal state has failed to take the actions referred to in subsection (c)(2)(A) of this section.
+The Secretary shall withdraw approval of the management program of any coastal state and shall withdraw financial assistance available to that State under this chapter as well as any unexpended portion of such assistance, if the Secretary determines that the coastal state hasfailed to take the actions referred to in subsection (c)(2)(A) of this section.
 
 #### (e) Notice and hearing
 

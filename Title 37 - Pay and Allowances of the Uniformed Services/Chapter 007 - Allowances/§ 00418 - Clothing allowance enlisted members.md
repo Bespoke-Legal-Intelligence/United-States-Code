@@ -1,6 +1,6 @@
 ### §418. Clothing allowance: enlisted members
 
-(a) The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may prescribe the quantity and kind of clothing to be furnished annually to an enlisted member of the armed forces or the National Guard, and may prescribe the amount of a cash allowance to be paid to such a member if clothing is not so furnished to him.
+(a) The Secretary of Defense and the Secretary of Homeland Security, with respect to the CoastGuard when it is not operating as a service in the Navy, may prescribe the quantity and kind of clothing to be furnished annually to an enlisted member of the armed forces or the National Guard, and may prescribe the amount of a cash allowance to be paid to such a member if clothing is not so furnished to him.
 
 (b) In determining the quantity and kind of clothing or allowances to be furnished pursuant to regulations prescribed under this section to persons employed as National Guard technicians under section 709 of title 32, the Secretary of Defense shall take into account the requirement under subsection (b) of such section for such persons to wear a uniform.
 
@@ -28,7 +28,7 @@ The words “the armed forces” are substituted for the words “the Army, the 
 
 2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §611(1)\], substituted “The Secretary of Defense and theSecretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy,” for “The President”.
+2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §611(1)\], substituted “The Secretary of Defense and the Secretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy,” for “The President”.
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §611(2)\], substituted “the Secretary of Defense” for “the President”.
 

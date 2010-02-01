@@ -30,7 +30,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### (b) Publication of position statement
 
-The Secretary of the Treasury shall, beginning thirty days after November 14, 2005, and within sixty calendar days of the meeting of the respective bank's Board of Directors at which such decisions are made, publish on the Department of the Treasury website a statement or explanation of the United States position on decisions related to: (1) operational policies; and (2) any proposal which would result or be likely to result in a significant effect on the environment.
+The Secretary of the Treasury shall, beginning thirty days after November 14, 2005, and withinsixty calendar days of the meeting of the respective bank's Board of Directors at which such decisions are made, publish on the Department of the Treasury website a statement or explanation of the United States position on decisions related to: (1) operational policies; and (2) any proposal which would result or be likely to result in a significant effect on the environment.
 
 #### (c) “Multilateral development bank” defined
 
@@ -41,4 +41,8 @@ In this section the term “multilateral development bank” has the meaning giv
 #### Codification
 
 November 14, 2005, referred to in subsec. (b), was in the original “the enactment of this Act” which was translated as meaning the date of enactment of Pub. L. 109–102, which enacted this section, to reflect the probable intent of Congress.
+
+#### Definitions
+
+The definitions in section 262p–5 of this title apply to this section.
 

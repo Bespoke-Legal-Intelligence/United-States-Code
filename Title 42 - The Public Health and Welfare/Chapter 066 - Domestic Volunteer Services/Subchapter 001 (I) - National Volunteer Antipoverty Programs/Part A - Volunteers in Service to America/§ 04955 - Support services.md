@@ -4,11 +4,11 @@
 
 (1)(A) The Director may provide a stipend to volunteers, while they are in training and during their assignments, enrolled for periods of service of not less than one year under this part, except that the Director may, on an individual basis, make an exception to provide a stipend to a volunteer enrolled under this part for an extended period of service not totaling one year.
 
-(B) Such stipend shall not exceed $95 per month in fiscal year 1994, but shall be set at a minimum of $100 per month, and a maximum of $125 per month assuming the availability of funds to accomplish such maximum, during the service of the volunteer after October 1, 1994. The Director may provide a stipend of a maximum of $200 per month in the case of persons who have served as volunteers under this part for at least 1 year and who, in accordance with standards established in such regulations as the Director shall prescribe, have been designated volunteer leaders on the basis of experience and special skills and a demonstrated leadership among volunteers.
+(B) Such stipend shall be set at a rate that is not less than a minimum of $125 per month and not more than a maximum of $150 per month, subject to the availability of funds to provide such a maximum rate. The Director may provide a stipend set at a rate that is not more than a maximum of $250 per month in the case of persons who have served as volunteers under this part for at least 1 year and who, in accordance with standards established in such regulations as the Director shall prescribe, have been designated volunteer leaders on the basis of experience and special skills and a demonstrated leadership among volunteers.
 
 (C) The Director shall not provide a stipend under this subsection to an individual who elects to receive a national service educational award under subtitle D of title I of the National and Community Service Act of 1990 \[42 U.S.C. 12601 et seq.\].
 
-(2) Stipends shall be payable only upon completion of a period of service, except that under such circumstances as the Director shall determine, in accordance with regulations which the Director shall prescribe, the accrued stipend, or any part of the accrued stipend, may be paid tothe volunteer, or, on behalf of the volunteer, to members of the volunteer's family or others during the period of the volunteer's service. In the event of the death of a volunteer during service, the amount of any unpaid stipend shall be paid in accordance with the provisions of section 5582 of title 5.
+(2) Stipends shall be payable only upon completion of a period of service, except that undersuch circumstances as the Director shall determine, in accordance with regulations which the Director shall prescribe, the accrued stipend, or any part of the accrued stipend, may be paid to the volunteer, or, on behalf of the volunteer, to members of the volunteer's family or others during the period of the volunteer's service. In the event of the death of a volunteer during service, the amount of any unpaid stipend shall be paid in accordance with the provisions of section 5582 of title 5.
 
 #### (b) Description of allowances and support services; determination of allowance; adjustments; methodology
 
@@ -32,13 +32,15 @@
 
 (2) The Corporation shall establish guidelines regarding the circumstances under which child care shall be made available under this subsection and the value of any child care allowance to be provided.
 
-(Pub. L. 93–113, title I, §105, Oct. 1, 1973, 87 Stat. 398; Pub. L. 94–130, §5(a), Nov. 14, 1975, 89 Stat. 684; Pub. L. 96–143, §3, Dec. 13, 1979, 93 Stat. 1074; Pub. L. 98–288, §6, May 21, 1984, 98 Stat. 191; Pub. L. 99–551, §10(i)(1), Oct. 27, 1986, 100 Stat. 3078; Pub. L. 101–204, title I, §102, Dec. 7, 1989, 103 Stat. 1811; Pub. L. 103–82, title III, §325, Sept. 21, 1993, 107 Stat. 901.)
+(Pub. L. 93–113, title I, §105, Oct. 1, 1973, 87 Stat. 398; Pub. L. 94–130, §5(a), Nov. 14, 1975, 89 Stat. 684; Pub. L. 96–143, §3, Dec. 13, 1979, 93 Stat. 1074; Pub. L. 98–288, §6, May 21, 1984, 98 Stat. 191; Pub. L. 99–551, §10(i)(1), Oct. 27, 1986, 100 Stat. 3078; Pub. L. 101–204, title I, §102, Dec. 7, 1989, 103 Stat. 1811; Pub. L. 103–82, title III, §325, Sept. 21, 1993, 107 Stat. 901; Pub. L. 111–13, title II, §2103, Apr. 21, 2009, 123 Stat. 1583.)
 
 #### References in Text
 
-The National and Community Service Act of 1990, referred to in subsec. (a)(1)(C), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D (§12601 et seq.) of subchapter I of chapter 129 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (a)(1)(C), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Subtitle D of title I of the Act is classified generally to division D (§12601 et seq.) of subchapter I of chapter 129 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 #### Amendments
+
+2009—Subsec. (a)(1)(B). Pub. L. 111–13 substituted “Such stipend shall be set at a rate that is not less than a minimum of $125 per month and not more than a maximum of $150 per month, subject to the availability of funds to provide such a maximum rate.” for “Such stipend shall not exceed $95 per month in fiscal year 1994, but shall be set at a minimum of $100 per month, and a maximum of $125 per month assuming the availability of funds to accomplish such maximum, during the service of the volunteer after October 1, 1994.” and “stipend set at a rate that is not more than a maximum of $250 per month” for “stipend of a maximum of $200 per month”.
 
 1993—Subsec. (a)(1). Pub. L. 103–82, §325(a), designated first sentence as subpar. (A), added subpars. (B) and (C), and struck out former second sentence which read as follows: “Such stipend shall not exceed $75 per month in fiscal year 1990, $90 per month in fiscal year 1991, and $95 per month in subsequent fiscal years during the volunteer's service, except that the Director may provide a stipend not to exceed $75 per month in fiscal year 1990, $90 per month in fiscal year 1991, and $95 per month in subsequent fiscal years in the case of persons who have served for at least one year and who, in accordance with standards established in regulations which the Director shall prescribe, have been designated volunteer leaders on the basis of experience and special skills and a demonstrated leadership among volunteers.”
 
@@ -56,9 +58,13 @@ Subsec. (b). Pub. L. 101–204, §102(2), designated existing provisions as par.
 
 1984—Subsec. (b). Pub. L. 98–288 inserted “pre-service training and where appropriate in-service training,”.
 
-1979—Subsec. (a)(2). Pub. L. 96–143 substituted “under such circumstances as the Director shall determine, in accordance with regulations which the director shall prescribe, the accrued stipend, or any part of the accrued stipend, may be paid to the volunteer, or, on behalf of the volunteer, to members of the volunteer's family or others during the period of the volunteer's service” for “in extraordinary circumstances the Director may from time to time advance all or a portion of the accrued stipend to or on behalf of a volunteer”.
+1979—Subsec. (a)(2). Pub. L. 96–143 substituted “under such circumstances as the Director shall determine, inaccordance with regulations which the director shall prescribe, the accrued stipend, or any part of the accrued stipend, may be paid to the volunteer, or, on behalf of the volunteer, to members of the volunteer's family or others during the period of the volunteer's service” for “in extraordinary circumstances the Director may from time to time advance all or a portion of the accrued stipend to or on behalf of a volunteer”.
 
 1975—Subsec. (a)(1). Pub. L. 94–130 substituted “shall not exceed $75” for “shall not exceed $50”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -66,7 +72,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 392 of Pub. L.
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provided, see section 11 of Pub. L.99–551, set out as an Effective Date note under section 4950 of this title.
+Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provided, see section 11 of Pub. L. 99–551, set out as an Effective Date note under section 4950 of this title.
 
 #### Additional Appropriations Authorization
 

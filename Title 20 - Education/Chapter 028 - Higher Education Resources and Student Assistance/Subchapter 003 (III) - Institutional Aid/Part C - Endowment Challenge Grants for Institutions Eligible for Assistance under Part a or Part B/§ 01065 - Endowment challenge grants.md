@@ -56,7 +56,7 @@
 
 #### (c) Grant agreement; endowment fund provisions
 
-(1) An institution awarded a grant under this section shall enter into an agreement with the Secretary containing satisfactory assurances that it will (A) immediately comply with the matching requirements of subsection (b)(2) of this section, (B) establish an endowment fund independent of any other such fund of the institution, (C) invest the endowment fund corpus, and (D) meet the other requirements of this section.
+(1) An institution awarded a grant under this section shall enter into an agreement with theSecretary containing satisfactory assurances that it will (A) immediately comply with the matching requirements of subsection (b)(2) of this section, (B) establish an endowment fund independent of any other such fund of the institution, (C) invest the endowment fund corpus, and (D) meet the other requirements of this section.
 
 (2)(A) An institution shall invest the endowment fund corpus and endowment fund income in low-risk securities in which a regulated insurance company may invest under the law of the State in which the institution is located such as a federally insured bank savings account or comparable interest-bearing account, certificate of deposit, money market fund, mutual fund, or obligations of the United States.
 

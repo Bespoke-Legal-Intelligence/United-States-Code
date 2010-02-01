@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Whenever the International Trade Commission (in this part referred to as the “Commission”) begins an investigation under section 2252 of this title with respect to an agricultural commodity,the Commission shall immediately notify the Secretary of the investigation. Upon receipt of the notification, the Secretary shall immediately conduct a study of—
+Whenever the International Trade Commission (in this part referred to as the “Commission”) begins an investigation under section 2252 of this title with respect to an agricultural commodity, the Commission shall immediately notify the Secretary of the investigation. Upon receipt of the notification, the Secretary shall immediately conduct a study of—
 
 &emsp;(1) the number of agricultural commodity producers producing a like or directly competitive agricultural commodity who have been or are likely to be certified as eligible for adjustment assistance under this part, and
 
@@ -16,5 +16,5 @@ Not later than 15 days after the day on which the Commission makes its report un
 
 #### Termination Date
 
-No adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and financial assistance may not be provided under this part after Dec. 31, 2010, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

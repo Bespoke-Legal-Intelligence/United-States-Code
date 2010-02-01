@@ -48,7 +48,7 @@ Presentation of Flag of the United States.—(1) In the case of a decedent cover
 
 &emsp;(B) The parents or parent of the decedent, if the person to be presented a flag under subparagraph (A) is other than a parent of the decedent.
 
-&emsp;(C) The surviving spouse of the decedent (including a surviving spouse who remarries afterthe decedent's death), if the person to be presented a flag under subparagraph (A) is other than the surviving spouse.
+&emsp;(C) The surviving spouse of the decedent (including a surviving spouse who remarries after the decedent's death), if the person to be presented a flag under subparagraph (A) is other than the surviving spouse.
 
 &emsp;(D) Each child of the decedent, regardless of whether the person to be presented a flag under subparagraph (A) is a child of the decedent.
 
@@ -116,7 +116,7 @@ In subsection (a)(8), the word “place” is substituted for the words “town 
 
 In subsection (a)(10), the words “other than honorable” are omitted, since a person cannot be sentenced to an honorable discharge.
 
-In subsection (b), the words “If an individual pays” are substituted for the words “In any case where expenses \* \* \* are borne by individuals”. The second sentence of 5:2161 is omitted as executed. The last sentence is substituted for the last sentence of 5:2161.
+In subsection (b), the words “If an individual pays” are substituted for the words “In any case where expenses are borne by individuals”. The second sentence of 5:2161 is omitted as executed. The last sentence is substituted for the last sentence of 5:2161.
 
 In subsection (c), 5:2162 (1st sentence) is omitted since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The introductory language is substituted for 5:2162 (1st 22 words of 2d sentence). The words “ascertained and” are omitted as surplusage.
 
@@ -169,6 +169,30 @@ Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that se
 Amendment by section 652(a)(2) of Pub. L. 103–337 applicable with respect to remains of, and incidental expenses incident to recovery, care, and disposition of, an individual who dies after Oct. 5, 1994, see section 652(a)(3) of Pub. L. 103–337, set out as a note under section 1481 of this title.
 
 Amendment by section 1671(c)(8) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+
+#### Department of Defense Policy and Procedures on Media Access at Ceremonies for Dignified Transfer of Remains of Members of the Armed Forces Who Die Overseas
+
+Pub. L. 111–84, div. A, title V, §542(a), Oct. 28, 2009, 123 Stat. 2299, provided that:
+
+“(1)
+
+Policy required.—Not later than April 1, 2010, the Secretary of Defense shall prescribe a policy guaranteeing media access at ceremonies for the dignified transfer of remains of members of the Armed Forces who die while located or serving overseas (in this section referred to as ‘military decedents’) when approved by the primary next of kin of such military decedents.
+
+“(2)
+
+Procedures.—The policy developed under paragraph (1) shall include procedures to be followed by the military departments in conducting appropriate ceremonies for the dignified transfer of remains of military decedents. The procedures shall be uniform across the military departments except to the extent necessary to reflect the traditional practices or customs of a particular military department.
+
+“(3)
+
+Elements.—The policy developed under paragraph (1) shall include, but not be limited to, the following:
+
+&emsp;“(A) Provision for access by media representatives to transfers described in paragraph (1) if approved in advance by the primary next of kin of the military decedent or their designee.
+
+&emsp;“(B) Procedures for designating with certainty who is authorized to make the decision to approve media access at transfer ceremonies described in that paragraph under reasonable, foreseeable circumstances.
+
+&emsp;“(C) Conditions for coverage that media representatives must comply with during such transfer ceremonies, and procedures for ensuring agreement in advance by media representatives with the conditions for coverage prescribed by military authorities.
+
+&emsp;“(D) Procedures for the waiver by the primary next of kin or other designees of Departmental polices relating to delays in release of casualty information to the media and general public, when such waiver is required.”
 
 #### Transportation of Remains of Casualties Dying in a Theater of Combat Operations
 
@@ -234,7 +258,7 @@ Duties.—Except to the extent that the person designated to direct disposition 
 
 &emsp;&emsp;“(B) shall provide appropriate honors at the arrival of the remains referred to in subparagraph (A)(ii) (unless airline or other security requirements do not permit such honors to be provided); and
 
-&emsp;&emsp;“(C) shall participate in the transfer of the remains from an aircraft, when airport and airline security requirements permit, by carrying out the remains with a flag draped over the casket to a hearse or other form of ground transportation for travel to a funeral home or other place designatedby the person designated to direct disposition of such remains.
+&emsp;&emsp;“(C) shall participate in the transfer of the remains from an aircraft, when airport and airline security requirements permit, by carrying out the remains with a flag draped over the casket to a hearse or other form of ground transportation for travel to a funeral home or other place designated by the person designated to direct disposition of such remains.
 
 “(f)
 

@@ -192,6 +192,8 @@ Special rule for significant expansion of projects.—For purposes of section 43
 
 Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
 
+2009—Internal Revenue Notice 2009–73.
+
 2008—Internal Revenue Notice 2008–72.
 
 2007—Internal Revenue Notice 2007–64.

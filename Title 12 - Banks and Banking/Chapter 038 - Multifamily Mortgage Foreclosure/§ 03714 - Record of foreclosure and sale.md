@@ -4,7 +4,7 @@
 
 &emsp;(1) that the mortgage was held by the Secretary;
 
-&emsp;(2) the particulars of the foreclosure commissioner's service of notice of default and foreclosure sale in accordance with sections 3708 and 3710 of this title;
+&emsp;(2) the particulars of the foreclosure commissioner's service of notice of default andforeclosure sale in accordance with sections 3708 and 3710 of this title;
 
 &emsp;(3) that the foreclosure was conducted in accordance with the provisions of this chapter and with the terms of the notice of default and foreclosure sale;
 

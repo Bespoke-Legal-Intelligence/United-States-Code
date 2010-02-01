@@ -20,7 +20,7 @@ Any annuity treated as a charitable gift annuity, or any trust treated as a char
 
 #### (d) Limitation
 
-Subsections (a) and (b) of this section shall not apply with respect to the enforcement of a State law similar to any of the antitrust laws, with respect to charitable gift annuities, or charitable remainder trusts, created after the State enacts a statute, not later than December 8, 1998, that expressly provides that subsections (a) and (b) of this section shall not apply with respect to such charitable gift annuities and such charitable remainder trusts.
+Subsections (a) and (b) of this section shall not apply with respect to the enforcement of a State law similar to any of the antitrust laws, with respect to charitable gift annuities, or charitable remainder trusts, created after theState enacts a statute, not later than December 8, 1998, that expressly provides that subsections (a) and (b) of this section shall not apply with respect to such charitable gift annuities and such charitable remainder trusts.
 
 (Pub. L. 104–63, §2, Dec. 8, 1995, 109 Stat. 687; Pub. L. 105–26, §2(1), July 3, 1997, 111 Stat. 241.)
 
@@ -34,7 +34,7 @@ For definition of “antitrust laws”, referred to in text, see section 37a(1) 
 
 #### Effective Date of 1997 Amendment
 
-Section 3 of Pub. L. 105–26 provided that: “This Act \[see Short Title of 1997 Amendments note set out undersection 1 of this title\], and the amendments made by this Act, shall apply with respect to all conduct occurring before, on, or after the date of the enactment of this Act \[July 3, 1997\] and shall apply in all administrative and judicial actions pending on or commenced after the date of the enactment of this Act.”
+Section 3 of Pub. L. 105–26 provided that: “This Act \[see Short Title of 1997 Amendments note set out under section 1 of this title\], and the amendments made by this Act, shall apply with respect to all conduct occurring before, on, or after the date of the enactment of this Act \[July 3, 1997\] and shall apply in all administrative and judicial actions pending on or commenced after the date of the enactment of this Act.”
 
 #### Effective Date
 

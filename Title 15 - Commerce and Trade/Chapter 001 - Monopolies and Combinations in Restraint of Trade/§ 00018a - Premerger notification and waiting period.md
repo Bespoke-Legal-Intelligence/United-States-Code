@@ -56,7 +56,7 @@ The following classes of transactions are exempt from the requirements of this s
 
 &emsp;(5) transactions specifically exempted from the antitrust laws by Federal statute;
 
-&emsp;(6) transactions specifically exempted from the antitrust laws by Federal statute if approved by a Federal agency, if copies of all information and documentary material filed with such agency are contemporaneously filedwith the Federal Trade Commission and the Assistant Attorney General;
+&emsp;(6) transactions specifically exempted from the antitrust laws by Federal statute if approved by a Federal agency, if copies of all information and documentary material filed with such agency are contemporaneously filed with the Federal Trade Commission and the Assistant Attorney General;
 
 &emsp;(7) transactions which require agency approval under section 1467a(e) of title 12, section 1828(c) of title 12, or section 1842 of title 12, except that a portion of a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to section 1843(k) of title 12; and (B) does not require agency approval under section 1842 of title 12;
 
@@ -108,7 +108,7 @@ The Federal Trade Commission, with the concurrence of the Assistant Attorney Gen
 
 &emsp;(III) the effects of such reforms.
 
-(2) The Federal Trade Commission or the Assistant Attorney General, in its or his discretion, may extend the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section for an additional period of not more than 30 days (or in the case of a cash tender offer, 10 days) after the date on which the Federal Trade Commission or the Assistant Attorney General, as the case may be, receives from any person to whom a request is made under paragraph (1), or in the case of tender offers, theacquiring person, (A) all the information and documentary material required to be submitted pursuant to such a request, or (B) if such request is not fully complied with, the information and documentary material submitted and a statement of the reasons for such noncompliance. Such additional period may be further extended only by the United States district court, upon an application by the Federal Trade Commission or the Assistant Attorney General pursuant to subsection (g)(2) of this section.
+(2) The Federal Trade Commission or the Assistant Attorney General, in its or his discretion, may extend the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section for an additional period of not more than 30 days (or in the case of a cash tender offer, 10 days) after the date on which the Federal Trade Commission or the Assistant Attorney General, as the case may be, receives from any person to whom a request is made under paragraph (1), or in the case of tender offers, the acquiring person, (A) all the information and documentary material required to be submitted pursuant to such a request, or (B) if such request is not fully complied with, the information and documentary material submitted and a statement of the reasons for such noncompliance. Such additional period may be further extended only by the United States district court, upon an application by the Federal Trade Commission or the Assistant Attorney General pursuant to subsection (g)(2) of this section.
 
 #### (f) Preliminary injunctions; hearings
 
@@ -150,11 +150,11 @@ If the end of any period of time provided in this section falls on a Saturday, S
 
 The antitrust laws, referred to in subsecs. (c), (d), are defined in section 12 of this title.
 
-This Act, referred to in subsec. (i)(1), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
+This Act, referred to in subsec. (i)(1), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, known as theClayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
 
 The Federal Trade Commission Act, referred to in subsec. (i)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-The Antitrust Civil Process Act, referred to in subsec. (i)(2), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, as amended, which is classified generally to chapter 34\(§1311 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
+The Antitrust Civil Process Act, referred to in subsec. (i)(2), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, as amended, which is classified generally to chapter 34 (§1311 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
 
 #### Codification
 
@@ -218,7 +218,7 @@ Pub. L. 101–162, title VI, §605, Nov. 21, 1989, 103 Stat. 1031, as amended by
 
 “(b) The filing fees referred to in subsection (a) are—
 
-&emsp;“(1) $45,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is less than $100,000,000 (as adjusted and published for each fiscal year beginning after September 30, 2004, in the same manner as provided in section 8(a)(5) of the Clayton Act (15 U.S.C. 19(a)(5)) to reflect the percentage change in the gross national product for such fiscal year compared to the gross national product for the year ending September 30, 2003);
+&emsp;“(1) $45,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is less than $100,000,000 (as adjusted and published for each fiscal year beginning after September 30, 2004, in the same manner as provided insection 8(a)(5) of the Clayton Act (15 U.S.C. 19(a)(5)) to reflect the percentage change in the gross national product for such fiscal year compared to the gross national product for the year ending September 30, 2003);
 
 &emsp;“(2) $125,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is not less than $100,000,000 (as so adjusted and published) but less than $500,000,000 (as so adjusted and published); and
 

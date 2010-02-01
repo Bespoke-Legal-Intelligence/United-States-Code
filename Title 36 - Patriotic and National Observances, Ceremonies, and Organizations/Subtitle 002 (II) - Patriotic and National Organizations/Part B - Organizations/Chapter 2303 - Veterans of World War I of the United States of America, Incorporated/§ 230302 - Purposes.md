@@ -6,7 +6,7 @@ The purposes of the corporation are patriotic, fraternal, historical, and educat
 
 &emsp;(2) to cooperate to the fullest extent and in a harmonious manner with all veterans’ organizations so that the best interests of all veterans of all wars in which the United States has participated, and the widows and orphans of deceased veterans of those wars, may best be served;
 
-&emsp;(3) to stimulate communities and political subdivisions into taking more interest in veterans of World War I, the widows and orphansof those deceased veterans, and the problems of those veterans and their widows and orphans;
+&emsp;(3) to stimulate communities and political subdivisions into taking more interest in veterans of World War I, the widows and orphans of those deceased veterans, and the problems of those veterans and their widows and orphans;
 
 &emsp;(4) to collate, preserve, and encourage the study of historical episodes, chronicles, mementos, and events pertaining to World War I;
 

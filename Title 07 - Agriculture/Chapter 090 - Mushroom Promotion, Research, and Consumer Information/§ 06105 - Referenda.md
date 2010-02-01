@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Within the 60-day period immediately preceding the effective date of an order issuedunder section 6103(b) of this title, the Secretary shall conduct a referendum among mushroom producers and importers to ascertain whether the order shall go into effect.
+&emsp;Within the 60-day period immediately preceding the effective date of an order issued under section 6103(b) of this title, the Secretary shall conduct a referendum among mushroom producers and importers to ascertain whether the order shall go into effect.
 
 #### (2) Approval of order
 

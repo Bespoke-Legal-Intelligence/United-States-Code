@@ -8,7 +8,7 @@ There is hereby established the Office of the Special Inspector General for the 
 
 (1) The head of the Office of the Special Inspector General for the Troubled Asset Relief Program is the Special Inspector General for the Troubled Asset Relief Program (in this section referred to as the “Special Inspector General”), who shall be appointed by the President, by and with the advice and consent of the Senate.
 
-(2) The appointment of the Special Inspector General shall be made on the basis of integrityand demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations.
+(2) The appointment of the Special Inspector General shall be made on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations.
 
 (3) The nomination of an individual as Special Inspector General shall be made as soon as practicable after the establishment of any program under sections 5211 and 5212 of this title.
 
@@ -40,15 +40,31 @@ There is hereby established the Office of the Special Inspector General for the 
 
 (3) In addition to the duties specified in paragraphs (1) and (2), the Inspector General shall also have the duties and responsibilities of inspectors general under the Inspector General Act of 1978.
 
+(4)(A) Except as provided under subparagraph (B) and in addition to the duties specified in paragraphs (1), (2), and (3), the Special Inspector General shall have the authority to conduct, supervise, and coordinate an audit or investigation of any action taken under this subchapter as the Special Inspector General determines appropriate.
+
+(B) Subparagraph (A) shall not apply to any action taken under section 5225, 5226, 5227, or 5233 of this title.
+
 #### (d) Powers and authorities
 
 (1) In carrying out the duties specified in subsection (c), the Special Inspector General shall have the authorities provided in section 6 of the Inspector General Act of 1978.
 
-(2) The Special Inspector General shall carry out the duties specified in subsection (c)(1) in accordance with section 4(b)(1) of the Inspector General Act of 1978.
+(2) The Special Inspector General shall carry out the duties specified in subsection (c)(1) and (4) in accordance with section 4(b)(1) of the Inspector General Act of 1978.
+
+(3) The Office of the Special Inspector General for the Troubled Asset Relief Program shall be treated as an office included under section 6(e)(3) of the Inspector General Act of 1978 (5 U.S.C. App.) relating to the exemption from the initial determination of eligibility by the Attorney General.
 
 #### (e) Personnel, facilities, and other resources
 
-(1) The Special Inspector General may select, appoint, and employ such officers and employees as may be necessary for carrying out the duties of the Special Inspector General, subject to the provisions of title 5 governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates.
+(1)(A) The Special Inspector General may select, appoint, and employ such officers and employees as may be necessary for carrying out the duties of the Special Inspector General, subject to the provisions of title 5 governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates.
+
+(B)(i) Subject to clause (ii), the Special Inspector General may exercise the authorities of subsections (b) through (i) of section 3161 of title 5 (without regard to subsection (a) of that section).
+
+(ii) In exercising the employment authorities under subsection (b) of section 3161 of title 5, as provided under clause (i) of this subparagraph—
+
+&emsp;(I) the Special Inspector General may not make any appointment on and after the date occurring 6 months after April 24, 2009;
+
+&emsp;(II) paragraph (2) of that subsection (relating to periods of appointments) shall not apply; and
+
+&emsp;(III) no period of appointment may exceed the date on which the Office of the Special Inspector General terminates under subsection (k).
 
 (2) The Special Inspector General may obtain services as authorized by section 3109 of title 5 at daily rates not to exceed the equivalent rate prescribed for grade GS–15 of the General Schedule by section 5332 of such title.
 
@@ -58,11 +74,49 @@ There is hereby established the Office of the Special Inspector General for the 
 
 (B) Whenever information or assistance requested by the Special Inspector General is, in the judgment of the Special Inspector General, unreasonably refused or not provided, the Special Inspector General shall report the circumstances to the appropriate committees of Congress without delay.
 
-#### (f) Reports
+(5)(A) Except as provided under subparagraph (B), if an annuitant receiving an annuity from the Civil Service Retirement and Disability Fund becomes employed in a position within the Office of the Special Inspector General for the Troubled Asset Relief Program, his annuity shall continue. An annuitant so reemployed shall not be considered an employee for purposes of chapter 83 or 84.<sup>1</sup>
 
-(1) Not later than 60 days after the confirmation of the Special Inspector General, and every calendar quarter thereafter, the Special Inspector General shall submit to the appropriate committees of Congress a report summarizing the activities of the Special Inspector General during the 120-day period ending on the date of such report. Each report shall include, for the period covered by such report, a detailed statement of all purchases, obligations, expenditures, and revenues associated with any program established by the Secretary of the Treasury under sections 5211 and 5212 of this title, as well as the information collected under subsection (c)(1).
+(B) Subparagraph (A) shall apply to—
 
-(2) Nothing in this subsection shall be construed to authorize the public disclosure of information that is—
+&emsp;(i) not more than 25 employees at any time as designated by the Special Inspector General; and
+
+&emsp;(ii) pay periods beginning after April 24, 2009.
+
+#### (f) Corrective responses to audit problems
+
+The Secretary shall—
+
+&emsp;(1) take action to address deficiencies identified by a report or investigation of the Special Inspector General or other auditor engaged by the TARP; or
+
+&emsp;(2) certify to appropriate committees of Congress that no action is necessary or appropriate.
+
+#### (g) Cooperation and coordination with other entities
+
+In carrying out the duties, responsibilities, and authorities of the Special Inspector General under this section, the Special Inspector General shall work with each of the following entities, with a view toward avoiding duplication of effort and ensuring comprehensive oversight of the Troubled Asset Relief Program through effective cooperation and coordination:
+
+&emsp;(1) The Inspector General of the Department of Treasury.
+
+&emsp;(2) The Inspector General of the Federal Deposit Insurance Corporation.
+
+&emsp;(3) The Inspector General of the Securities and Exchange Commission.
+
+&emsp;(4) The Inspector General of the Federal Reserve Board.
+
+&emsp;(5) The Inspector General of the Federal Housing Finance Board.
+
+&emsp;(6) The Inspector General of any other entity as appropriate.
+
+#### (h) Council of the Inspectors General on integrity and efficiency
+
+The Special Inspector General shall be a member of the Council of the Inspectors General on Integrity and Efficiency established under section 11 of the Inspector General Act of 1978 (5 U.S.C. App.) until the date of termination of the Office of the Special Inspector General for the Troubled Asset Relief Program.
+
+#### (i) Reports
+
+(1) Not later than 60 days after the confirmation of the Special Inspector General, and not later than 30 days following the end of each fiscal quarter, the Special Inspector General shall submit to the appropriate committees of Congress a report summarizing the activities of the Special Inspector General during that fiscal quarter. Each report shall include, for the period covered by such report, a detailed statement of all purchases, obligations, expenditures, and revenues associated with any program established by the Secretary of the Treasury under sections 5211 and 5212 of this title, as well as the information collected under subsection (c)(1).
+
+(2) Not later than September 1, 2009, the Special Inspector General shall submit a report to Congress assessing use of any funds, to the extent practical, received by a financial institution under the TARP and make the report available to the public, including posting the report on the home page of the website of the Special Inspector General within 24 hours after the submission of the report.
+
+(3) Nothing in this subsection shall be construed to authorize the public disclosure of information that is—
 
 &emsp;(A) specifically prohibited from disclosure by any other provision of law;
 
@@ -70,15 +124,17 @@ There is hereby established the Office of the Special Inspector General for the 
 
 &emsp;(C) a part of an ongoing criminal investigation.
 
-(3) Any reports required under this section shall also be submitted to the CongressionalOversight Panel established under section 5233 of this title.
+(4) Any reports required under this section shall also be submitted to the Congressional Oversight Panel established under section 5233 of this title.
 
-#### (g) Funding
+(5) Except as provided under paragraph (3), all reports submitted under this subsection shall be available to the public.
 
-(1) Of the amounts made available to the Secretary of the Treasury under section 5228 of this title, $50,000,000 shall be available to the Special Inspector General to carry out this section.
+#### (j) Funding
+
+(1) Of the amounts made available to the Secretary of the Treasury under section 5228 of this title, $50,000,000 shall be available to the Special Inspector General to carry out this section, not later than 7 days after April 24, 2009.
 
 (2) The amount available under paragraph (1) shall remain available until expended.
 
-#### (h) Termination
+#### (k) Termination
 
 The Office of the Special Inspector General shall terminate on the later of—
 
@@ -86,9 +142,41 @@ The Office of the Special Inspector General shall terminate on the later of—
 
 &emsp;(2) the date of expiration of the last insurance contract issued under section 5212 of this title.
 
-(Pub. L. 110–343, div. A, title I, §121, Oct. 3, 2008, 122 Stat. 3788.)
+(Pub. L. 110–343, div. A, title I, §121, Oct. 3, 2008, 122 Stat. 3788; Pub. L. 111–15, §§2–6, Apr. 24, 2009, 123 Stat. 1603–1605.)
 
 #### References in Text
 
-The Inspector General Act of 1978, referred to in subsecs. (b)(4), (6), (c)(3), and (d), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsecs. (b)(4), (6), (c)(3), (d), and (h), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+Chapter 83 or 84, referred to in subsec. (e)(5)(A), probably means chapter 83 or 84 of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2009—Subsec. (c)(4). Pub. L. 111–15, §2(1), added par. (4).
+
+Subsec. (d)(2). Pub. L. 111–15, §2(2)(A), substituted “subsection (c)(1) and (4)” for “subsection (c)(1)”.
+
+Subsec. (d)(3). Pub. L. 111–15, §2(2)(B), added par. (3).
+
+Subsec. (e)(1). Pub. L. 111–15, §3(1), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (e)(5). Pub. L. 111–15, §3(2), added par. (5).
+
+Subsecs. (f) to (h). Pub. L. 111–15, §4(2), added subsecs. (f) to (h). Former subsecs. (f) to (h) redesignated (i) to (k), respectively.
+
+Subsec. (i). Pub. L. 111–15, §4(1), redesignated subsec. (f) as (i).
+
+Subsec. (i)(1). Pub. L. 111–15, §5(1), substituted “Not later than 60 days after the confirmation of the Special Inspector General, and not later than 30 days following the end of each fiscal quarter, the Special Inspector General shall submit to the appropriate committees of Congress a report summarizing the activities of the Special Inspector General during that fiscal quarter.” for “Not later than 60 days after the confirmation of the Special Inspector General, and every calendar quarter thereafter, the Special Inspector General shall submit to the appropriate committees of Congress a report summarizing the activities of the Special Inspector General during the 120-day period ending on the date of such report.”
+
+Subsec. (i)(2) to (4). Pub. L. 111–15, §5(2), (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+Subsec. (i)(5). Pub. L. 111–15, §5(4), added par. (5).
+
+Subsec. (j). Pub. L. 111–15, §4(1), redesignated subsec. (g) as (j).
+
+Subsec. (j)(1). Pub. L. 111–15, §6, inserted “, not later than 7 days after April 24, 2009” before period at end.
+
+Subsec. (k). Pub. L. 111–15, §4(1), redesignated subsec. (h) as (k).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

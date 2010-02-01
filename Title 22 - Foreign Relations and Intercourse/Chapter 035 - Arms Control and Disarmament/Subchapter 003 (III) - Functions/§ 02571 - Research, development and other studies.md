@@ -16,7 +16,7 @@ the analysis of national budgets, levels of industrial production, and economic 
 
 #### (d) Space, earth's surface and underwater regions
 
-the control, reduction, and elimination of armed forces and armaments in space, in areason and beneath the earth's surface, and in underwater regions;
+the control, reduction, and elimination of armed forces and armaments in space, in areas on and beneath the earth's surface, and in underwater regions;
 
 #### (e) Structure and operation of international control
 

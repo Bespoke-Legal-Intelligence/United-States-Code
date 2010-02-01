@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall award a grant to enhance and expand infrastructure to track the epidemiology of pediatric cancer into a comprehensive nationwide registry of actual occurrences of pediatric cancer. Such registry shall be updated to include an actual occurrence within weeks of the date of such occurrence.
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention,shall award a grant to enhance and expand infrastructure to track the epidemiology of pediatric cancer into a comprehensive nationwide registry of actual occurrences of pediatric cancer. Such registry shall be updated to include an actual occurrence within weeks of the date of such occurrence.
 
 #### (b) Informed consent and privacy requirements and coordination with existing programs
 

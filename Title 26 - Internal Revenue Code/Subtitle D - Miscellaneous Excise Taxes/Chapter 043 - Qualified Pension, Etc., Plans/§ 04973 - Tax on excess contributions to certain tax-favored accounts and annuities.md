@@ -34,7 +34,7 @@ For purposes of this section, in the case of individual retirement accounts or i
 
 &emsp;&emsp;(C) the excess (if any) of the maximum amount allowable as a deduction under section 219 for the taxable year over the amount contributed (determined without regard to section 219(f)(6)) to the accounts or for the annuities (including the amount contributed to a Roth IRA) for the taxable year.
 
-> For purposes of this subsection, any contribution which is distributed from the individual retirement account or the individual retirement annuity in a distribution to which section 408(d)(4) applies shall be treated as an amountnot contributed. For purposes of paragraphs (1)(B) and (2)(C), the amount allowable as a deduction under section 219 shall be computed without regard to section 219(g).
+> For purposes of this subsection, any contribution which is distributed from the individual retirement account or the individual retirement annuity in a distribution to which section 408(d)(4) applies shall be treated as an amount not contributed. For purposes of paragraphs (1)(B) and (2)(C), the amount allowable as a deduction under section 219 shall be computed without regard to section 219(g).
 
 #### (c) Section 403(b) contracts
 

@@ -12,7 +12,7 @@ The Director of the National Institute of Justice may award new grants, enter in
 
 #### (c) Obligation by Director of Bureau of Justice Statistics of pre-fiscal year 1980 appropriated funds for statistical projects or purposes of this chapter
 
-The Director of the Bureau of Justice Statistics may award new grants, enter into new contracts or cooperative agreements or otherwise obligate funds appropriated for fiscal years before 1980 for statistical projects to be expended in accordance with the provisions of this chapter, as in effect on the day before December 27, 1979, based upon applications received under this chapter before December 27, 1979, or for purposes consistent with provisions of this chapter.
+The Director of the Bureau of Justice Statistics may award new grants, enter into new contracts or cooperative agreements or otherwise obligate funds appropriated for fiscal years before 1980 for statistical projects to be expended in accordance with the provisions of this chapter, as in effect on the day before December 27, 1979, based upon applications received under thischapter before December 27, 1979, or for purposes consistent with provisions of this chapter.
 
 #### (d) Obligation by Administrator of Law Enforcement Assistance Administration of previously appropriated unused or reversionary funds or presently appropriated funds for continuation of projects or purposes of this chapter
 
@@ -48,7 +48,7 @@ Notwithstanding the provisions of section 3744(c)(3) <sup>1</sup> of this title
 
 The Justice System Improvement Act of 1979, referred to in subsec. (e), is Pub. L. 96–157, Dec. 27, 1979, 93 Stat. 1167, as amended, which is classified principally to this chapter (§3701 et seq.). For complete classification of this Act to the Code, see Short Title of 1979 Amendment note under section 3711 of this title and Tables.
 
-Subchapter V of this chapter, referred to in subsec. (h), was repealed and former subchapter VI was redesignated as V by Pub. L. 98–473, title II, §§607, 608(e), Oct. 12, 1984, 98 Stat. 2086, 2087, which was also repealed anda new subchapter V enacted by Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4328.
+Subchapter V of this chapter, referred to in subsec. (h), was repealed and former subchapter VI was redesignated as V by Pub. L. 98–473, title II, §§607, 608(e), Oct. 12, 1984, 98 Stat. 2086, 2087, which was also repealed and a new subchapter V enacted by Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4328.
 
 The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (i), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§5601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note under section 5601 of this title and Tables.
 

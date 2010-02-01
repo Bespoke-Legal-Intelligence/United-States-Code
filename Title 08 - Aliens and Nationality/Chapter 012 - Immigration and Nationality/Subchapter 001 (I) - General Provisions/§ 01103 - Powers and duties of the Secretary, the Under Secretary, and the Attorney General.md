@@ -8,7 +8,7 @@
 
 (3) He shall establish such regulations; prescribe such forms of bond, reports, entries, and other papers; issue such instructions; and perform such other acts as he deems necessary for carrying out his authority under the provisions of this chapter.
 
-(4) He may require or authorize any employee of the Service or the Department of Justice to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon any other employee of the Service.
+(4) He may require or authorize any employee of the Service or the Department of Justice toperform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon any other employee of the Service.
 
 (5) He shall have the power and duty to control and guard the boundaries and borders of the United States against the illegal entry of aliens and shall, in his discretion, appoint for that purpose such number of employees of the Service as to him shall appear necessary and proper.
 
@@ -46,7 +46,7 @@ The Commissioner shall be a citizen of the United States and shall be appointed 
 
 (1) The Commissioner, in consultation with interested academicians, government agencies, and other parties, shall provide for a system for collection and dissemination, to Congress and the public, of information (not in individually identifiable form) useful in evaluating the social, economic, environmental, and demographic impact of immigration laws.
 
-(2) Such information shall include information on the alien population in the United States, on the rates of naturalization and emigration of resident aliens, on aliens who have been admitted, paroled, or granted asylum, on nonimmigrants in the United States (by occupation, basis for admission, and duration of stay), on aliens who have not been admitted or have been removed from the United States, on the numberof applications filed and granted for cancellation of removal, and on the number of aliens estimated to be present unlawfully in the United States in each fiscal year.
+(2) Such information shall include information on the alien population in the United States, on the rates of naturalization and emigration of resident aliens, on aliens who have been admitted, paroled, or granted asylum, on nonimmigrants in the United States (by occupation, basis for admission, and duration of stay), on aliens who have not been admitted or have been removed from the United States, on the number of applications filed and granted for cancellation of removal, and on the number of aliens estimated to be present unlawfully in the United States in each fiscal year.
 
 (3) Such system shall provide for the collection and dissemination of such information not less often than annually.
 
@@ -70,19 +70,7 @@ The Attorney General shall allocate to each State not fewer than 10 full-time ac
 
 &emsp;The Attorney General shall establish such regulations, prescribe such forms of bond, reports, entries, and other papers, issue such instructions, review such administrative determinations in immigration proceedings, delegate such authority, and perform such other acts as the Attorney General determines to be necessary for carrying out this section.
 
-#### (h) Office of Special Investigations
-
-(1) The Attorney General shall establish within the Criminal Division of the Department of Justice an Office of Special Investigations with the authority to detect and investigate, and, where appropriate, to take legal action to denaturalize any alien described in section 1182(a)(3)(E) of this title.
-
-(2) The Attorney General shall consult with the Secretary of Homeland Security in making determinations concerning the criminal prosecution or extradition of aliens described in section 1182(a)(3)(E) of this title.
-
-(3) In determining the appropriate legal action to take against an alien described in section 1182(a)(3)(E) of this title, consideration shall be given to—
-
-&emsp;(A) the availability of criminal prosecution under the laws of the United States for any conduct that may form the basis for removal and denaturalization; or
-
-&emsp;(B) the availability of extradition of the alien to a foreign jurisdiction that is prepared to undertake a prosecution for such conduct.
-
-(June 27, 1952, ch. 477, title I, §103, 66 Stat. 173; Pub. L. 100–525, §9(c), Oct. 24, 1988, 102 Stat. 2619; Pub. L. 101–649, title I, §142, Nov. 29, 1990, 104 Stat. 5004; Pub. L. 104–208, div. C, title I, §§102(d), 125, 134(a), title III, §§308(d)(4)(C), (e)(4), 372, 373, Sept. 30, 1996, 110 Stat. 3009–555, 3009–562, 3009–564, 3009–618, 3009–620, 3009–646, 3009–647; Pub. L. 107–296, title XI, §1102, Nov. 25, 2002, 116 Stat. 2273; Pub. L. 108–7, div. L, §105(a)(1), (2), Feb. 20, 2003, 117 Stat. 531; Pub. L. 108–458, title V, §5505(a), Dec. 17, 2004, 118 Stat. 3741.)
+(June 27, 1952, ch. 477, title I, §103, 66 Stat. 173; Pub. L. 100–525, §9(c), Oct. 24, 1988, 102 Stat. 2619; Pub. L. 101–649, title I, §142, Nov. 29, 1990, 104 Stat. 5004; Pub. L. 104–208, div. C, title I, §§102(d), 125, 134(a), title III, §§308(d)(4)(C), (e)(4), 372, 373, Sept. 30, 1996, 110 Stat. 3009–555, 3009–562, 3009–564, 3009–618, 3009–620, 3009–646, 3009–647; Pub. L. 107–296, title XI, §1102, Nov. 25, 2002, 116 Stat. 2273; Pub. L. 108–7, div. L, §105(a)(1), (2), Feb. 20, 2003, 117 Stat. 531; Pub. L. 108–458, title V, §5505(a), Dec. 17, 2004, 118 Stat. 3741; Pub. L. 111–122, §2(a), Dec. 22, 2009, 123 Stat. 3480.)
 
 #### References in Text
 
@@ -93,6 +81,8 @@ The Immigration Reform, Accountability and Security Enhancement Act of 2002, ref
 “Section 3113 of title 40” substituted in subsec. (b)(3) for “the Act of August 1, 1888 (Chapter 728; 25 Stat. 357)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+2009—Subsec. (h). Pub. L. 111–122 struck out subsec. (h), which directed the Attorney General to establish within the Criminal Division of the Department of Justice an Office of Special Investigations and to consult with the Secretary of Homeland Security concerning the prosecution or extradition of certain aliens.
 
 2004—Subsec. (h). Pub. L. 108–458 added subsec. (h).
 
@@ -114,7 +104,7 @@ Subsec. (g). Pub. L. 107–296, §1102(3), added subsec. (g).
 
 1996—Subsec. (a). Pub. L. 104–208, §372(1), (2), inserted “(1)” before first sentence and designated each sentence after the first sentence, which included second through ninth sentences, as a separate par. with appropriate consecutive numbering and initial indentation.
 
-Pub. L. 104–208, §125, inserted at end “After consultation with the Secretary of State, the Attorney General may authorize officers of a foreign country to be stationed at preclearance facilities in the United States for the purpose of ensuring that persons traveling from or through the United States to that foreign country comply with that country's immigration and relatedlaws. Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and they shall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers.”
+Pub. L. 104–208, §125, inserted at end “After consultation with the Secretary of State, the Attorney General may authorize officers of a foreign country to be stationed at preclearance facilities in the United States for the purpose of ensuring that persons traveling from or through the United States to that foreign country comply with that country's immigration and related laws. Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and they shall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers.”
 
 Subsec. (a)(8). Pub. L. 104–208, §372(3), added at end par. (8) relating to Attorney General authorization of State and local law enforcement officers in event of mass influx of aliens arriving.
 
@@ -190,7 +180,7 @@ Reinforced fencing.—In carrying out subsection (a), the Secretary of Homeland 
 
 Priority areas.—In carrying out this section \[amending this section\], the Secretary of Homeland Security shall—
 
-&emsp;&emsp;&emsp;“(i) identify the 370 miles, or other mileage determined by the Secretary, whose authority to determine other mileage shall expire on December 31, 2008, along the southwest border where fencing would be most practical and effective indeterring smugglers and aliens attempting to gain illegal entry into the United States; and
+&emsp;&emsp;&emsp;“(i) identify the 370 miles, or other mileage determined by the Secretary, whose authority to determine other mileage shall expire on December 31, 2008, along the southwest border where fencing would be most practical and effective in deterring smugglers and aliens attempting to gain illegal entry into the United States; and
 
 &emsp;&emsp;&emsp;“(ii) not later than December 31, 2008, complete construction of reinforced fencing along the miles identified under clause (i).
 
@@ -206,9 +196,9 @@ In general.—In carrying out this section, the Secretary of Homeland Security s
 
 Savings provision.—Nothing in this subparagraph may be construed to—
 
-“(I) create or negate any right of action for a State, local government, or other person or entity affected by this subsection; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) create or negate any right of action for a State, local government, or other person or entity affected by this subsection; or
 
-“(II) affect the eminent domain laws of the United States or of any State.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) affect the eminent domain laws of the United States or of any State.
 
 &emsp;&emsp;“(D)
 

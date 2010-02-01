@@ -70,7 +70,11 @@ Repayment.—A person or officer who receives a bonus under this section and who
 
 (g)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2009.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2010.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 164.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 164; amended Pub. L. 111–84, div. A, title VI, §614(2), Oct. 28, 2009, 123 Stat. 2353.)
+
+#### Amendments
+
+2009—Subsec. (g). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 

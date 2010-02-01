@@ -1,6 +1,6 @@
 ### §6601. Congressional findings; priority goals
 
-(a) The Congress, recognizing the profound impact of science and technology on society, and the interrelations of scientific, technological, economic, social, political, and institutional factors, hereby finds and declares that—
+(a) The Congress, recognizing the profound impact of science and technology on society, andthe interrelations of scientific, technological, economic, social, political, and institutional factors, hereby finds and declares that—
 
 &emsp;(1) the general welfare, the security, the economic health and stability of the Nation, the conservation and efficient utilization of its natural and human resources, and the effective functioning of government and society require vigorous, perceptive support and employment of science and technology in achieving national objectives;
 
@@ -16,7 +16,7 @@
 
 (b) As a consequence, the Congress finds and declares that science and technology should contribute to the following priority goals without being limited thereto:
 
-&emsp;(1) fostering leadership in the quest for international peace and progress toward human freedom, dignity, and well-being by enlarging the contributions of American scientists and engineers to the knowledge of man and his universe, by making discoveries of basic science widely available at home and abroad, and by utilizing technology in supportof United States national and foreign policy goals;
+&emsp;(1) fostering leadership in the quest for international peace and progress toward human freedom, dignity, and well-being by enlarging the contributions of American scientists and engineers to the knowledge of man and his universe, by making discoveries of basic science widely available at home and abroad, and by utilizing technology in support of United States national and foreign policy goals;
 
 &emsp;(2) increasing the efficient use of essential materials and products, and generally contributing to economic opportunity, stability, and appropriate growth;
 
@@ -58,7 +58,7 @@ By virtue of the authority vested in me by the Constitution and laws of the Unit
 
 Section 1. (a) The transfer, provided by Section 5A of Reorganization Plan No. 1 of 1977 (42 FR 56101) \[set out in Appendix of Title 5, Government Organization and Employees\], of certain functions under the National Science and Technology Policy, Organization, and Priorities Act of 1976, hereinafter referred to as the Act (90 Stat. 459, 42 U.S.C. 6601 et seq.), from the Office of Science and Technology Policy and its Director to the Director of the National Science Foundation is hereby effective.
 
-(b) The abolition of the Intergovernmental Science, Engineering, and Technology Advisory Panel, the President's Committee on Science and Technology, and the Federal Coordinating Council for Science, Engineering and Technology (established in accordance with Titles II, III, and IV of the Act) \[sections 6611 et seq., 6631 et seq., and 6651 of this title\] and the transfer of their functions (Sections 205(b)(1), 303(a) and (b)(1), and 401 of the Act, 42 U.S.C. 6614(b)(1), 6633 (a) and (b)(1), and 6651(e)) to the President of the United States of America, provided by Section 5A of Reorganization Plan No. 1 of 1977 \[set out in Appendix of Title 5, Government Organization and Employees\], are hereby effective.
+(b) The abolition of the Intergovernmental Science, Engineering, and Technology Advisory Panel, the President's Committee on Science and Technology, and the Federal Coordinating Council for Science, Engineering and Technology (established in accordance with Titles II, III, and IV of the Act) \[sections 6611 et seq., 6631 et seq., and 6651 of this title\] and the transfer of their functions (Sections 205(b)(1), 303(a) and (b)(1),and 401 of the Act, 42 U.S.C. 6614(b)(1), 6633 (a) and (b)(1), and 6651(e)) to the President of the United States of America, provided by Section 5A of Reorganization Plan No. 1 of 1977 \[set out in Appendix of Title 5, Government Organization and Employees\], are hereby effective.
 
 Sec. 2. (a) The intergovernmental science, engineering, and technology functions under Section 205(b)(1) of the Act (42 U.S.C. 6614(b)(1)), which were transferred to the President (see Section 1(b) of this Order), are delegated to the Director of the Office of Science and Technology Policy; <i>Except that</i>, the responsibility for fostering any policies to facilitate the transfer and utilization of research and development results is delegated to the Director of the Office of Management and Budget.
 
@@ -74,13 +74,11 @@ Sec. 4. The science, engineering, and technology and related activities function
 
 Sec. 5. There is hereby established the Federal Coordinating Council for Science, Engineering, and Technology. The Council shall be composed of the Director of the Office of Science and Technology Policy, who shall be Chairman, and representatives of such other Executive agencies designated by the Chairman. The head of an agency so designated shall designate an appropriate individual to serve on the Council. The Council shall advise and assist the Director of the Office of Science and Technology Policy in the performance of those functions delegated under Section 4 of this Order.
 
-Sec. 6. The records, property, personnel, and unexpended balances of appropriations, available or to bemade available, which relate to the functions transferred, reassigned, or redelegated by this Order are hereby transferred to the Director of the Office of Management and Budget, the Director of the Office of Science and Technology Policy, or the Director of the National Science Foundation, as appropriate.
+Sec. 6. The records, property, personnel, and unexpended balances of appropriations, available or to be made available, which relate to the functions transferred, reassigned, or redelegated by this Order are hereby transferred to the Director of the Office of Management and Budget, the Director of the Office of Science and Technology Policy, or the Director of the National Science Foundation, as appropriate.
 
 Sec. 7. The Director of the Office of Management and Budget shall make such determinations, issue such orders, and take all actions necessary or appropriate to effectuate the transfers or reassignments provided by this Order, including the transfer of funds, records, property, and personnel.
 
 Sec. 8. This Order shall be effective on February 26, 1978.
-
-Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 12700
 
@@ -164,7 +162,7 @@ Ex. Ord. No. 13226, Sept. 30, 2001, 66 F.R. 50523, as amended by Ex. Ord. No. 13
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to establish an advisory committee on science and technology, it is hereby ordered as follows:
 
-Section 1. <i>Establishment</i>. There is established the President's Council of Advisors on Science and Technology (PCAST). The PCAST shall be composed of notmore than 45 members, one of whom shall be a Federal Government official designated by the President (the “Official”), and 44 of whom shall be nonfederal members appointed by the President and have diverse perspectives and expertise in science, technology, and the impact of science and technology on the Nation. The Official shall co-chair PCAST with a nonfederal member designated by the President.
+Section 1. <i>Establishment</i>. There is established the President's Council of Advisors on Science and Technology (PCAST). The PCAST shall be composed of not more than 45 members, one of whom shall be a Federal Government official designated by the President (the “Official”), and 44 of whom shall be nonfederal members appointed by the President and have diverse perspectives and expertise in science, technology, and the impact of science and technology on the Nation. The Official shall co-chair PCAST with a nonfederal member designated by the President.
 
 Sec. 2. <i>Functions</i>. (a) The PCAST shall advise the President, through the Official, on matters involving science and technology policy.
 
@@ -196,79 +194,87 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-#### Ex. Ord. No. 13237. Creation of the President's Council on Bioethics
+Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Ex. Ord. No. 13237, Nov. 28, 2001, 66 F.R. 59851, provided:
+#### Executive Order No. 13237
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. <i>Establishment</i>. There is established the President's Council on Bioethics (the “Council”).
-
-Sec. 2. <i>Mission.</i>
-
-(a) The Council shall advise the President on bioethical issues that may emerge as a consequence of advances in biomedical science and technology. In connection with its advisory role, the mission of the Council includes the following functions:
-
-&emsp;(1) to undertake fundamental inquiry into the human and moral significance of developments in biomedical and behavioral science and technology;
-
-&emsp;(2) to explore specific ethical and policy questions related to these developments;
-
-&emsp;(3) to provide a forum for a national discussion of bioethical issues;
-
-&emsp;(4) to facilitate a greater understanding of bioethical issues; and
-
-&emsp;(5) to explore possibilities for useful international collaboration on bioethical issues.
-
-(b) In support of its mission, the Council may study ethical issues connected with specific technological activities, such as embryo and stem cell research, assisted reproduction, cloning, uses of knowledge and techniques derived from human genetics or the neurosciences, and end of life issues. The Council may also study broader ethical and social issues not tied to a specific technology, such as questions regarding the protection of human subjects in research, the appropriate uses of biomedical technologies, the moral implications of biomedical technologies, and the consequences of limiting scientific research.
-
-(c) The Council shall strive to develop a deep and comprehensive understanding of the issues that it considers. In pursuit of this goal, the Council shall be guided by the need to articulate fully the complex and often competing moral positions on any given issue, rather than by an overriding concern to find consensus. The Council may therefore choose to proceed by offering a variety of views on a particular issue, rather than attempt to reach a single consensus position.
-
-(d) The Council shall not be responsible for the review and approval of specific projects or for devising and overseeing regulations for specific government agencies.
-
-(e) In support of its mission, the Council may accept suggestions of issues for consideration from the heads of other Government agencies and other sources, as it deems appropriate.
-
-(f) In establishing priorities for its activities, the Council shall consider the urgency and gravity of the particular issue; the need for policy guidance and public education on the particular issue; the connection of the bioethical issue to the goal of Federal advancement of science and technology; and the existence of another entity available to deliberate appropriately on the bioethical issue.
-
-Sec. 3. <i>Membership.</i>
-
-(a) The Council shall be composed of not more than 18 members appointed by the President from among individuals who are not officers or employees of the Federal Government. The Council shall include members drawn from the fields of science and medicine, law and government, philosophy and theology, and other areas of the humanities and social sciences.
-
-(b) The President shall designate a member of the Council to serve as Chairperson.
-
-(c) The term of office of a member shall be 2 years, and members shall be eligible for reappointment. Members may continue to serve after the expiration of their terms until the President appoints a successor. A member appointed to fill a vacancy shall serve only for the unexpired term of such vacancy.
-
-Sec. 4. <i>Administration.</i>
-
-(a) Upon the request of the Chairperson, the heads of executive departments and agencies shall, to the extent permitted by law, provide the Council with information it needs for purposes of carrying out its functions.
-
-(b) The Council may conduct inquiries, hold hearings, and establish subcommittees, as necessary.
-
-(c) The Council is authorized to conduct analyses and develop reports or other materials.
-
-(d) Members of the Council may be compensated to the extent permitted by Federal law for their work on the Council. Members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service (5 U.S.C. 5701–5707), to the extent funds are available.
-
-(e) To the extent permitted by law, and subject to the availability of appropriations, the Department of Health and Human Services shall provide the Council with administrative support and with such funds as may be necessary for the performance of the Council's functions.
-
-(f) The Council shall have a staff headed by an Executive Director, who shall be appointed by the Secretary of Health and Human Services in consultation with the Chairperson. To the extent permitted by law, office space, analytical support, and additional staff support for the Council shall be provided by the Department of Health and Human Services or other executive branch departments and agencies as directed by the President.
-
-Sec. 5. <i>General Provisions.</i>
-
-(a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the Council, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary of Health and Human Services in accordance with the guidelines that have been issued by the Administrator of General Services.
-
-(b) The Council shall terminate 2 years from the date of this order unless extended by the President prior to that date.
-
-(c) This order is intended only to improve the internal management of the executive branch and it is not intended to create any right, benefit, trust, or responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13237, Nov. 28, 2001, 66 F.R. 59851, which created the President's Council on Bioethics, was superseded by Ex. Ord. No. 13521, §6(a), Nov. 24, 2009, 74 F.R. 62672, set out below.
 
 #### Extension of Term of President's Council on Bioethics
 
-Term of President's Council on Bioethics extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Council on Bioethics extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003,68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Term of President's Council on Bioethics extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of President's Council on Bioethics extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+#### Ex. Ord. No. 13521. Establishing the Presidential Commission for the Study of Bioethical Issues
+
+Ex. Ord. No. 13521, Nov. 24, 2009, 74 F.R. 62671, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Establishment</i>. There is established within the Department of Health and Human Services the Presidential Commission for the Study of Bioethical Issues (Commission).
+
+Sec. 2. <i>Mission</i>.
+
+(a) The Commission shall advise the President on bioethical issues that may emerge as a consequence of advances in biomedicine and related areas of science and technology. The Commission shall pursue its work with the goal of identifying and promoting policies and practices that ensure scientific research, healthcare delivery, and technological innovation are conducted in an ethically responsible manner. To achieve this goal, the Commission shall:
+
+(i) identify and examine specific bioethical, legal, and social issues related to the potential impacts of advances in biomedical and behavioral research, healthcare delivery, or other areas of science and technology;
+
+(ii) recommend any legal, regulatory, or policy actions it deems appropriate to address these issues; and
+
+(iii) critically examine diverse perspectives and explore possibilities for useful international collaboration on these issues.
+
+(b) In support of its mission, the Commission may examine issues linked to specific technologies, including but not limited to the creation of stem cells by novel means; intellectual property issues involving genetic sequencing, biomarkers, and other screening tests used for risk assessment; and the application of neuro- and robotic sciences. It may also examine broader issues not linked to specific technologies, including but not limited to the protection of human research participants; scientific integrity and conflicts of interest in research; and the intersection of science and human rights.
+
+(c) The Commission shall not be responsible for the review and approval of specific projects.
+
+(d) The Commission may accept suggestions of issues for consideration from executive departments and agencies and the public as it deems appropriate in support of its mission.
+
+(e) In establishing priorities for its activities, the Commission shall consider, among other things, the significance of particular issues; the need for legal, regulatory, and policy guidance with respect to such issues; the connection of the issues to the goal of Federal advancement of science and technology; and the availability of other appropriate entities or fora for deliberating on the issues.
+
+(f) The Commission is authorized to conduct original empirical and conceptual research, commission papers and studies, hold hearings, and establish committees and subcommittees, as necessary. The Commission is authorized to develop reports or other materials.
+
+Sec. 3. <i>Membership</i>.
+
+(a) The Commission shall be an expert panel composed of not more than 13 members appointed by the President, drawn from the fields of bioethics, science, medicine, technology, engineering, law, philosophy, theology, or other areas of the humanities or social sciences, at least one and not more than three of whom may be bioethicists or scientists drawn from the executive branch, as designated by the President.
+
+(b) The President shall designate a Chair and Vice Chair from among the members of the Commission. The Chair shall convene and preside at meetings of the Commission, determine its agenda, and direct its work. The Vice Chair shall perform the duties of the Chair in the absence or disability of the Chair and shall perform such other functions as the Chair may from time to time assign.
+
+(c) Members shall serve for a term of 2 years and shall be eligible for reappointment. Members may continue to serve after the expiration of their terms until the appointment of a successor.
+
+Sec. 4. <i>Administration</i>.
+
+(a) The Department of Health and Human Services shall provide funding and administrative support for the Commission to the extent permitted by law and within existing appropriations.
+
+(b) All executive departments and agencies and all entities within the Executive Office of the President shall provide information and assistance to the Commission as the Chair may request for purposes of carrying out the Commission's functions, to the extent permitted by law.
+
+(c) The Commission shall have a staff headed by an Executive Director, who shall be appointed by the Secretary of Health and Human Services in consultation with the Chair and Vice Chair.
+
+(d) Members of the Commission shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service (5 U.S.C. 5701–5707), consistent with the availability of funds.
+
+Sec. 5. <i>Termination</i>. The Commission shall terminate 2 years after the date of this order unless extended by the President.
+
+Sec. 6. <i>General Provisions</i>.
+
+(a) This order supersedes Executive Order 13237 of November 28, 2001.
+
+(b) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the Commission, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary of Health and Human Services in accordance with the guidelines that have been issued by the Administrator of General Services.
+
+(c) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(d) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(e) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Strengthened Protections for Human Subjects of Classified Research
 
@@ -296,7 +302,7 @@ This memorandum implements these recommendations with some modifications. For cl
 
 The memorandum also responds to the Advisory Committee's call for a special review process for classified human subjects research. It requires that institutional review boards for secret projects include a nongovernmental member, and establishes an appeals process so that any member of a review board who believes a project should not go forward can appeal the boards’ decision to approve it.
 
-Finally, this memorandum sets forth additional steps to ensure that classified human research is rare. It requires the heads of Federal agencies to disclose annually the number of secret human research projectsundertaken by their agency. It also prohibits any agency from conducting secret human research without first promulgating a final rule applying the Federal Policy for the Protection of Human Subjects, as modified in this memorandum, to the agency.
+Finally, this memorandum sets forth additional steps to ensure that classified human research is rare. It requires the heads of Federal agencies to disclose annually the number of secret human research projects undertaken by their agency. It also prohibits any agency from conducting secret human research without first promulgating a final rule applying the Federal Policy for the Protection of Human Subjects, as modified in this memorandum, to the agency.
 
 These steps, set forth in detail below, will preserve the government's ability to conduct any necessary classified research involving human subjects while ensuring adequate protection of research participants.
 

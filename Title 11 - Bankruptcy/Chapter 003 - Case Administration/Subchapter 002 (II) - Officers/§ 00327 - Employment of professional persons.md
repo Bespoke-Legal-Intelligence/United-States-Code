@@ -18,7 +18,7 @@
 
 I74legislative statements
 
-Section 327(a) of the House amendment contains a technical amendment indicating that attorneys, and perhaps other officers enumerated therein, represent,rather than assist, the trustee in carrying out the trustee's duties.
+Section 327(a) of the House amendment contains a technical amendment indicating that attorneys, and perhaps other officers enumerated therein, represent, rather than assist, the trustee in carrying out the trustee's duties.
 
 Section 327(c) represents a compromise between H.R. 8200 as passed by the House and the Senate amendment. The provision states that former representation of a creditor, whether secured or unsecured, will not automatically disqualify a person from being employed by a trustee, but if such person is employed by the trustee, the person may no longer represent the creditor in connection with the case.
 

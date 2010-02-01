@@ -40,7 +40,7 @@ To carry out subsection (b) during the period specified in that subsection, the 
 
 #### (3) Cheese inventories in excess of 400,000,000 pounds
 
-&emsp;If net removals for a period of 12 consecutive months exceed 400,000,000 pounds of cheese, theSecretary may reduce the purchase prices under paragraphs (1) and (2) of subsection (c) during the immediately following month by not more than 20 cents per pound.
+&emsp;If net removals for a period of 12 consecutive months exceed 400,000,000 pounds of cheese, the Secretary may reduce the purchase prices under paragraphs (1) and (2) of subsection (c) during the immediately following month by not more than 20 cents per pound.
 
 #### (4) Butter inventories in excess of 450,000,000 pounds
 
@@ -56,7 +56,7 @@ To carry out subsection (b) during the period specified in that subsection, the 
 
 #### (7) Nonfat dry milk inventories in excess of 800,000,000 pounds
 
-&emsp;If net removals for a period of 12 consecutive months exceed 800,000,000 pounds of nonfat dry milk, the Secretary may reduce the purchase price under subsection (c)(4) during the immediately following month by not more than 10 cents per pound.
+&emsp;If net removals for a period of 12 consecutive months exceed 800,000,000 pounds of nonfat drymilk, the Secretary may reduce the purchase price under subsection (c)(4) during the immediately following month by not more than 10 cents per pound.
 
 #### (e) Uniform purchase price
 

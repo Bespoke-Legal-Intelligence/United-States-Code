@@ -40,5 +40,5 @@ A prior section 108 of Pub. L. 93–247 was classified to section 5106b of this 
 
 2003—Subsecs. (d), (e). Pub. L. 108–36 added subsecs. (d) and (e).
 
-1996—Subsecs. (c), (d). Pub. L. 104–235 redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “The Secretary, in consultation with the task force and the board, shall ensure that a majority share of assistance under this subchapter and subchapters III and V of thischapter is available for discretionary research and demonstration grants.”
+1996—Subsecs. (c), (d). Pub. L. 104–235 redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “The Secretary, in consultation with the task force and the board, shall ensure that a majority share of assistance under this subchapter and subchapters III and V of this chapter is available for discretionary research and demonstration grants.”
 

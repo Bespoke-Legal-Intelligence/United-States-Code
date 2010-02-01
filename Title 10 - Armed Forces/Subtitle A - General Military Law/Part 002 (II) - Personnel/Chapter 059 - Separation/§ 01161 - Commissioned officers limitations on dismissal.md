@@ -32,7 +32,7 @@ May 5, 1950, ch. 169, §10 (less applicability to Navy and Marine Corps warrant 
 
 In subsections (a) and (b), the word “commissioned” is inserted since, for the Army and the Air Force, the term “officer” is intended to have the same meaning in 50:739 as it has in the Uniform Code of Military Justice (article 4). For Navy warrant officers see section 6408 of this title.
 
-In subsection (b), the words “from his place of duty” are omitted as surplusage. The words “at least” are substituted for the words “or more”. The words “by a court other than a court-martial or other militarycourt” are substituted for the words “by the civil authorities”.
+In subsection (b), the words “from his place of duty” are omitted as surplusage. The words “at least” are substituted for the words “or more”. The words “by a court other than a court-martial or other military court” are substituted for the words “by the civil authorities”.
 
 #### Amendments
 

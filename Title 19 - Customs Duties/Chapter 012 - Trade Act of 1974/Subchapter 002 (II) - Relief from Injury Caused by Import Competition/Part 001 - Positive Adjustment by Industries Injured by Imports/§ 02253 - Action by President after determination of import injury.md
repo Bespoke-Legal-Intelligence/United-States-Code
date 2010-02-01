@@ -94,7 +94,7 @@ If the President reports under subsection (b)(1) or (2) of this section that—
 
 #### (e) Limitations on actions
 
-(1)(A) Subject to subparagraph (B), the duration of the period in which an action taken under this section may be in effect shall not exceed 4 years. Such period shall include the period, if any, in which provisional relief under section 2252(d) of this title was in effect.
+(1)(A) Subject to subparagraph (B), the duration of the period in which an action takenunder this section may be in effect shall not exceed 4 years. Such period shall include the period, if any, in which provisional relief under section 2252(d) of this title was in effect.
 
 (B)(i) Subject to clause (ii), the President, after receiving an affirmative determination from the Commission under section 2254(c) of this title (or, if the Commission is equally divided in its determination, a determination which the President considers to be an affirmative determination of the Commission), may extend the effective period of any action under this section if the President determines that—
 
@@ -120,7 +120,7 @@ If the President reports under subsection (b)(1) or (2) of this section that—
 
 > shall be treated as an increase in duty.
 
-(B) No proclamation providing for a suspension referred to in subparagraph (A) with respectto any article may be made by the President, nor may any such suspension be recommended by the Commission under section 2252(e) of this title, unless the Commission, in addition to making an affirmative determination under section 2252(b)(1) of this title, determines in the course of its investigation under section 2252(b) of this title that the serious injury, or threat thereof, substantially caused by imports to the domestic industry producing a like or directly competitive article results from, as the case may be—
+(B) No proclamation providing for a suspension referred to in subparagraph (A) with respect to any article may be made by the President, nor may any such suspension be recommended by the Commission under section 2252(e) of this title, unless the Commission, in addition to making an affirmative determination under section 2252(b)(1) of this title, determines in the course of its investigation under section 2252(b) of this title that the serious injury, or threat thereof, substantially caused by imports to the domestic industry producing a like or directly competitive article results from, as the case may be—
 
 &emsp;(i) the application of subheading 9802.00.60 or subheading 9802.00.80 of the Harmonized Tariff Schedule of the United States; or
 
@@ -150,7 +150,7 @@ If the President reports under subsection (b)(1) or (2) of this section that—
 
 (1) The President shall by regulation provide for the efficient and fair administration of all actions taken for the purpose of providing import relief under this part.
 
-(2) In order to carry out an international agreement concluded under this part, the President may prescribe regulations governing the entry or withdrawal from warehouse of articles covered by such agreement. In addition, in order to carry out any agreement of the type described in subsection (a)(3)(E) of this section that is concluded under this part with one or more countries accounting for a major part of United States imports of the article covered by such agreement, including imports into a major geographic area of the United States, the President may issue regulations governing the entry or withdrawal from warehouse of like articles which are the product of countries not parties to such agreement.
+(2) In order to carry out an international agreement concluded under this part, the President may prescribe regulations governing the entry or withdrawal from warehouse of articles covered by such agreement. In addition, in order to carry out any agreement of the type described in subsection (a)(3)(E) of this section that is concluded under this part with one or more countries accounting for a major part of United States imports of the article covered bysuch agreement, including imports into a major geographic area of the United States, the President may issue regulations governing the entry or withdrawal from warehouse of like articles which are the product of countries not parties to such agreement.
 
 (3) Regulations prescribed under this subsection shall, to the extent practicable and consistent with efficient and fair administration, insure against inequitable sharing of imports by a relatively small number of the larger importers.
 
@@ -178,7 +178,7 @@ Subsec. (e)(1). Pub. L. 103–465, §302(b)(1), amended par. (1) generally. Prio
 
 “(B) If the initial effective period for action taken under this section is less than 8 years, the President may extend the effective period once, but the aggregate of the initial period and the extension may not exceed 8 years.”
 
-Subsec. (e)(2). Pub. L. 103–465, §303(9), substituted “of a type described in subsection (a)(3)(A), (B), or (C) of this section may be taken under subsection (a)(1) of this section, under section 2252(d)(1)(G) of this title, or under section 2252(d)(2)(D) of this title” for “may be taken under subsection (a)(1)(A), (B), or (C) of this section or under section 2252(d)(2)(B) of this title” andstruck out “or threat thereof” after “the serious injury”.
+Subsec. (e)(2). Pub. L. 103–465, §303(9), substituted “of a type described in subsection (a)(3)(A), (B), or (C) of this section may be taken under subsection (a)(1) of this section, under section 2252(d)(1)(G) of this title, or under section 2252(d)(2)(D) of this title” for “may be taken under subsection (a)(1)(A), (B), or (C) of this section or under section 2252(d)(2)(B) of this title” and struck out “or threat thereof” after “the serious injury”.
 
 Subsec. (e)(4), (5). Pub. L. 103–465, §302(b)(2), (3), amended pars. (4) and (5) generally. Prior to amendment, pars. (4) and (5) read as follows:
 
@@ -246,7 +246,7 @@ Amendment by Pub. L. 96–39 effective July 26, 1979, see section 1114 of Pub. L
 
 #### Steel Import Stabilization
 
-Title VIII of Pub. L. 98–573, as amended by Pub. L. 100–418, title I, §1322, Aug. 23, 1988, 102 Stat. 1195; Pub. L. 101–221, §§2, 3(a), 4–6(a), Dec. 12, 1989, 103 Stat. 1886–1889, known as the Steel Import Stabilization Act, endorsed principles and goals of steel trade liberalization program as announced by the President on July 25, 1989, and provided for its implementation, granted specific enforcement powers to President to carry out terms and conditions of bilateral arrangements entered into for purposes of implementing that program, made continuation of those powers subject to condition that steel industry continue to modernize its plant andequipment and provide for appropriate worker retraining, directed Secretary of Labor to prepare and submit to Congress plan of action for assisting workers in communities adversely affected by imports of steel products, and provided that section 805 which provided enforcement authority for President would terminate Mar. 31, 1992.
+Title VIII of Pub. L. 98–573, as amended by Pub. L. 100–418, title I, §1322, Aug. 23, 1988, 102 Stat. 1195; Pub. L. 101–221, §§2, 3(a), 4–6(a), Dec. 12, 1989, 103 Stat. 1886–1889, known as the Steel Import Stabilization Act, endorsed principles and goals of steel trade liberalization program as announced by the President on July 25, 1989, and provided for its implementation, granted specific enforcement powers to President to carry out terms and conditions of bilateral arrangements entered into for purposes of implementing that program, made continuation of those powers subject to condition that steel industry continue to modernize its plant and equipment and provide for appropriate worker retraining, directed Secretary of Labor to prepare and submit to Congress plan of action for assisting workers in communities adversely affected by imports of steel products, and provided that section 805 which provided enforcement authority for President would terminate Mar. 31, 1992.
 
 #### Limitation on Meat Imports
 

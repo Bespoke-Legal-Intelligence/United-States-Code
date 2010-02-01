@@ -74,13 +74,13 @@ This section shall not apply with respect to—
 
 #### (2) Designated delivery service
 
-&emsp;For purposes of this subsection, the term “designated delivery service” means any delivery service provided by a trade or business if such service is designated by the Secretary for purposes of this section. The Secretary may designate a delivery service under the preceding sentence only if the Secretary determines that such service—
+&emsp;For purposes of this subsection, the term “designated delivery service” means any delivery service provided by a trade or business if such service is designated by the Secretary for purposes of this section. The Secretarymay designate a delivery service under the preceding sentence only if the Secretary determines that such service—
 
 &emsp;&emsp;(A) is available to the general public,
 
 &emsp;&emsp;(B) is at least as timely and reliable on a regular basis as the United States mail,
 
-&emsp;&emsp;(C) records electronically to its data base, kept in the regular course of its business, or marks on the cover in which any item referred to in this section is to be delivered,the date on which such item was given to such trade or business for delivery, and
+&emsp;&emsp;(C) records electronically to its data base, kept in the regular course of its business, or marks on the cover in which any item referred to in this section is to be delivered, the date on which such item was given to such trade or business for delivery, and
 
 &emsp;&emsp;(D) meets such other criteria as the Secretary may prescribe.
 

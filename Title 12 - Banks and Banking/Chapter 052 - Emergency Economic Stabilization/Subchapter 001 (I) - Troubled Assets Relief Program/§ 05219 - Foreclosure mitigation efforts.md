@@ -2,7 +2,13 @@
 
 #### (a) Residential mortgage loan servicing standards
 
-To the extent that the Secretary acquires mortgages, mortgage backed <sup>1</sup> securities, and other assets secured by residential real estate, including multifamily housing, the Secretary shall implement a plan that seeks to maximize assistance for homeowners and use the authority of the Secretary to encourage the servicers of the underlying mortgages, considering net present value to the taxpayer, to take advantage of the HOPE for Homeowners Program under section 1715z–23 <sup>2</sup> of this title or other available programs to minimize foreclosures. In addition, the Secretary may use loan guaranteesand credit enhancements to facilitate loan modifications to prevent avoidable foreclosures.
+#### (1) In general
+
+&emsp;To the extent that the Secretary acquires mortgages, mortgage backed <sup>1</sup> securities, and other assets secured by residential real estate, including multifamily housing, the Secretary shall implement a plan that seeks to maximize assistance for homeowners and use the authority of the Secretary to encourage the servicers of the underlying mortgages, considering net present value to the taxpayer, to take advantage of the HOPE for Homeowners Program under section 1715z–23 of this title or other available programs to minimize foreclosures. In addition, the Secretary may use loan guarantees and credit enhancements to facilitate loan modifications to prevent avoidable foreclosures.
+
+#### (2) Waiver of certain provisions in connection with loan modifications
+
+&emsp;The Secretary shall not be required to apply executive compensation restrictions under section 5221 of this title, or to receive warrants or debt instruments under section 5223 of this title, solely in connection with any loan modification under this section.
 
 #### (b) Coordination
 
@@ -12,13 +18,11 @@ The Secretary shall coordinate with the Corporation, the Board (with respect to 
 
 Upon any request arising under existing investment contracts, the Secretary shall consent, where appropriate, and considering net present value to the taxpayer, to reasonable requests for loss mitigation measures, including term extensions, rate reductions, principal write downs, increases in the proportion of loans within a trust or other structure allowed to be modified, or removal of other limitation on modifications.
 
-(Pub. L. 110–343, div. A, title I, §109, Oct. 3, 2008, 122 Stat. 3774.)
+(Pub. L. 110–343, div. A, title I, §109, Oct. 3, 2008, 122 Stat. 3774; Pub. L. 111–5, div. B, title VII, §7002, Feb. 17, 2009, 123 Stat. 521.)
 
-#### References in Text
+#### Amendments
 
-Section 1715z–23 of this title, referred to in subsec. (a), was in the original “section 257 of the National Housing Act”, and was translated as meaning the section 257 of the National Housing Act as added by Pub. L. 110–289, div. A, title IV, §1402, July 30, 2008, 122 Stat. 2800, relating to HOPE for Homeowners Program, to reflect the probable intent of Congress. Another section 257 of the National Housing Act, relating to pilot program for automated process for borrowers without sufficient credit history, is classified to section 1715z–24 of this title.
+2009—Subsec. (a). Pub. L. 111–5 designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 
 <i><sup>1</sup></i><i> So in original. Probably should be “mortgage-backed”.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -1,6 +1,6 @@
 ### §300ii–3. Report
 
-Not later than January 1, 2009, the Secretary shall report to the Congress on the activitiesundertaken under this subchapter. Such report shall evaluate—
+Not later than January 1, 2009, the Secretary shall report to the Congress on the activities undertaken under this subchapter. Such report shall evaluate—
 
 &emsp;(1) the number of States that have lifespan respite care programs;
 

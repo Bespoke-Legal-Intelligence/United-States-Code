@@ -36,7 +36,7 @@ Nothing in this chapter shall be construed to negate or to reduce the statutory 
 
 #### (f) Authorization of appropriations for DTS-PO
 
-For each of the fiscal years 2002 through 2006, there are authorized to be appropriated directly to DTS-PO such sums as may be necessary to carry out the management, oversight, and security requirements of this chapter.
+For each of the fiscal years 2002 through 2006, there are authorized to be appropriated directlyto DTS-PO such sums as may be necessary to carry out the management, oversight, and security requirements of this chapter.
 
 (Pub. L. 106–567, title III, §324, Dec. 27, 2000, 114 Stat. 2846.)
 

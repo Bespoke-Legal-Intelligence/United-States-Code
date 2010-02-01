@@ -74,7 +74,7 @@ Requirements.—
 
 &emsp;“(1)
 
-In general.—Notwithstanding chapter 5 of subtitle I of title 40, United States Code, the Secretary may lease real property at the Beltsville Agricultural Research Center or the National Agricultural Library in accordance with such terms and conditions as the Secretary may prescribe, if the Secretary determines that the lease—
+In general.—Notwithstanding chapter 5 of subtitle I of title 40, United States Code, the Secretary may lease real property at the Beltsville Agricultural Research Center or the National Agricultural Libraryin accordance with such terms and conditions as the Secretary may prescribe, if the Secretary determines that the lease—
 
 &emsp;&emsp;“(A) is consistent with, and will not adversely affect, the mission of the Department agency administering the property;
 
@@ -172,5 +172,5 @@ Reports.—Not later than 1, 3, and 5 years after the date of enactment of this 
 
 &emsp;&emsp;“(B) an assessment by the Secretary of the success of the program using the management objectives and performance measurements developed by the Secretary.”
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

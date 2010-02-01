@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) to encourage States and nonprofit private institutions and organizations to establish adequate loan insurance programs for students in eligible institutions (as defined in section 1085 of this title),
 
-&emsp;&emsp;(B) to provide a Federal program of student loan insurance for students or lenders who do not have reasonable access to a State or private nonprofit program of student loaninsurance covered by an agreement under section 1078(b) of this title,
+&emsp;&emsp;(B) to provide a Federal program of student loan insurance for students or lenders who do not have reasonable access to a State or private nonprofit program of student loan insurance covered by an agreement under section 1078(b) of this title,
 
 &emsp;&emsp;(C) to pay a portion of the interest on loans to qualified students which are insured under this part, and
 
@@ -76,7 +76,7 @@ Pub. L. 110–227, §6(b), May 7, 2008, 122 Stat. 746, provided that: “The ame
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub.L. 109–171, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1992 Amendment
 

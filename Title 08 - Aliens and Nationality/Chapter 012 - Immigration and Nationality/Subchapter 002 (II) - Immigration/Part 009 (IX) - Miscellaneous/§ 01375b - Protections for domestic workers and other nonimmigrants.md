@@ -34,7 +34,7 @@ The information pamphlet developed under subsection (a) shall include informatio
 
 &emsp;&emsp;(F) an explanation of the rights and protections included in the contract described in subparagraph (E); and
 
-&emsp;(5) information about nongovernmental organizations that provide services for victimsof trafficking in persons and worker exploitation, including—
+&emsp;(5) information about nongovernmental organizations that provide services for victims of trafficking in persons and worker exploitation, including—
 
 &emsp;&emsp;(A) anti-trafficking in persons telephone hotlines operated by the Federal Government;
 

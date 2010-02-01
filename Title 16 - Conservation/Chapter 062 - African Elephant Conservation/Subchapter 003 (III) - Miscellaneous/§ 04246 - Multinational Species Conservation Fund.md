@@ -10,7 +10,7 @@ The African Elephant Conservation Act, referred to in text, is title II of Pub. 
 
 #### Codification
 
-Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1999, and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the African Elephant Conservation Act which comprises this chapter.
+Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1999,and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the African Elephant Conservation Act which comprises this chapter.
 
 #### Amendments
 

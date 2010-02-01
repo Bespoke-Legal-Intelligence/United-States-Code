@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Any person who, in a circumstance described in subsection (d), knowingly produces, distributes, receives, or possesses withintent to distribute, a visual depiction of any kind, including a drawing, cartoon, sculpture, or painting, that—
+In General.—Any person who, in a circumstance described in subsection (d), knowingly produces, distributes, receives, or possesses with intent to distribute, a visual depiction of any kind, including a drawing, cartoon, sculpture, or painting, that—
 
 &emsp;(1)(A) depicts a minor engaging in sexually explicit conduct; and
 
@@ -52,7 +52,7 @@ Affirmative Defense.—It shall be an affirmative defense to a charge of violati
 
 &emsp;(1) possessed less than 3 such visual depictions; and
 
-&emsp;(2) promptly and in good faith, and without retaining or allowing any person, other than a law enforcement agency, to access any such visual depiction—
+&emsp;(2) promptly and in good faith, and without retaining or allowing any person, other than alaw enforcement agency, to access any such visual depiction—
 
 &emsp;&emsp;(A) took reasonable steps to destroy each such visual depiction; or
 

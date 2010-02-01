@@ -4,7 +4,7 @@ It shall be the duty of the Commission to study problems and questions with resp
 
 &emsp;(1) whether the historical practice regarding the records and documents produced by or on behalf of Presidents of the United States should be rejected or accepted and whether such practice should be made applicable with respect to all Federal officials;
 
-&emsp;(2) the relationship of the findings of the Commission to the provisions of chapter 19 of this title, section 2101 through section 2108 <sup>1</sup> ofthis title, and other Federal laws relating to the control, disposition, and preservation of records and documents of Federal officials;
+&emsp;(2) the relationship of the findings of the Commission to the provisions of chapter 19 of this title, section 2101 through section 2108 <sup>1</sup> of this title, and other Federal laws relating to the control, disposition, and preservation of records and documents of Federal officials;
 
 &emsp;(3) whether the findings of the Commission should affect the control, disposition, and preservation of records and documents of agencies within the Executive Office of the President created for short-term purposes by the President;
 

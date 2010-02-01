@@ -16,7 +16,7 @@ The Board and the standard setting body referred to in subsection (a) of this se
 
 #### (2) Funds generated from the collection of monetary penalties
 
-&emsp;Subject to the availability in advance in an appropriations Act, and notwithstanding subsection (i) of this section, all funds collected by the Board as a result of the assessment of monetary penalties shall be used to fund a merit scholarship program for undergraduate and graduate students enrolled in accredited accounting degree programs, which program is to be administered by the Board or by an entity or agent identified by the Board.
+&emsp;Subject to the availability in advance in an appropriations Act, and notwithstanding subsection (i) of this section, all funds collected by the Board as a result of the assessment of monetary penalties shall be used to fund a merit scholarship program for undergraduate and graduate students enrolled in accreditedaccounting degree programs, which program is to be administered by the Board or by an entity or agent identified by the Board.
 
 #### (d) Annual accounting support fee for the Board
 
@@ -32,7 +32,7 @@ The Board and the standard setting body referred to in subsection (a) of this se
 
 The annual accounting support fee for the standard setting body referred to in subsection (a) of this section—
 
-&emsp;(1) shall be allocated in accordance with subsection (g) of this section, and assessed andcollected against each issuer, on behalf of the standard setting body, by 1 or more appropriate designated collection agents, as may be necessary or appropriate to pay for the budget and provide for the expenses of that standard setting body, and to provide for an independent, stable source of funding for such body, subject to review by the Commission; and
+&emsp;(1) shall be allocated in accordance with subsection (g) of this section, and assessed and collected against each issuer, on behalf of the standard setting body, by 1 or more appropriate designated collection agents, as may be necessary or appropriate to pay for the budget and provide for the expenses of that standard setting body, and to provide for an independent, stable source of funding for such body, subject to review by the Commission; and
 
 &emsp;(2) may differentiate among different classes of issuers.
 

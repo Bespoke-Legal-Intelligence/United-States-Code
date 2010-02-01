@@ -42,7 +42,7 @@ The purposes of this section are—
 
 &emsp;A State may use funds reserved as described in sections 2853(a) and 2863(a)(1) of this title (regardless of whether the funds were allotted to the State under section 2852(b)(1) of this title or paragraph (1) or (2) of section 2862(b) of this title) to carry out additional statewide youth activities, which may include—
 
-&emsp;&emsp;(A) carrying out activities described in clauses (i), (ii), (iii), (iv)(II), and (vi)(II) of section 2864(a)(3)(A) of this title, except thatreferences in such clauses to activities authorized under section 2864 of this title shall be considered to be references to activities authorized under this section; and
+&emsp;&emsp;(A) carrying out activities described in clauses (i), (ii), (iii), (iv)(II), and (vi)(II) of section 2864(a)(3)(A) of this title, except that references in such clauses to activities authorized under section 2864 of this title shall be considered to be references to activities authorized under this section; and
 
 &emsp;&emsp;(B) carrying out, on a statewide basis, activities described in subsection (c) of this section.
 
@@ -56,7 +56,7 @@ The purposes of this section are—
 
 &emsp;Funds allocated to a local area for eligible youth under paragraph (2)(A) or (3), as appropriate, of section 2853(b) of this title shall be used to carry out, for eligible youth, programs that—
 
-&emsp;&emsp;(A) provide an objective assessment of the academic levels, skill levels, and service needs of each participant, which assessment shall include a review of basic skills, occupational skills, prior work experience, employability, interests, aptitudes (including interests and aptitudes for nontraditional jobs), supportive service needs, and developmental needs of such participant, except that a new assessment of a participant is not required if the provider carrying out such a program determines it is appropriate to use a recent assessment of the participant conducted pursuant to another education or training program;
+&emsp;&emsp;(A) provide an objective assessment of the academic levels, skill levels, and service needs of each participant, which assessment shall include a review of basic skills, occupational skills, prior work experience, employability, interests, aptitudes (including interests and aptitudes for nontraditional jobs), supportive service needs, and developmental needs of such participant, except that a newassessment of a participant is not required if the provider carrying out such a program determines it is appropriate to use a recent assessment of the participant conducted pursuant to another education or training program;
 
 &emsp;&emsp;(B) develop service strategies for each participant that shall identify an employment goal (including, in appropriate circumstances, nontraditional employment), appropriate achievement objectives, and appropriate services for the participant taking into account the assessment conducted pursuant to subparagraph (A), except that a new service strategy for a participant is not required if the provider carrying out such a program determines it is appropriate to use a recent service strategy developed for the participant under another education or training program; and
 
@@ -124,7 +124,7 @@ The purposes of this section are—
 
 #### (B) Exception
 
-&emsp;&emsp;A State that receives a minimum allotment under section 2852(b)(1) of this title inaccordance with section 2852(b)(1)(C)(iv)(II) of this title or under section 2862(b)(1) of this title in accordance with section 2862(b)(1)(B)(iv)(II) of this title may reduce the percentage described in subparagraph (A) for a local area in the State, if—
+&emsp;&emsp;A State that receives a minimum allotment under section 2852(b)(1) of this title in accordance with section 2852(b)(1)(C)(iv)(II) of this title or under section 2862(b)(1) of this title in accordance with section 2862(b)(1)(B)(iv)(II) of this title may reduce the percentage described in subparagraph (A) for a local area in the State, if—
 
 &emsp;&emsp;&emsp;(i) after an analysis of the eligible youth population in the local area, the State determines that the local area will be unable to meet the percentage described in subparagraph (A) due to a low number of out-of-school youth; and
 

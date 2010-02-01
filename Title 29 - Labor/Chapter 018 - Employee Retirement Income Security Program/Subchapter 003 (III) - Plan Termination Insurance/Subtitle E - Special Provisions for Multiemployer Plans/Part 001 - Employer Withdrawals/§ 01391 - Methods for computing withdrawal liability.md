@@ -70,7 +70,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;(iii) any amount which the plan sponsor determines to be uncollectible or unassessable in that plan year for other reasons under standards not inconsistent with regulations prescribed by the corporation.
 
-(C) The unamortized amount of the reallocated unfunded vested benefits with respect to a plan year is the reallocated unfunded vested benefits for the plan year, reduced by 5 percent of such reallocated unfunded vested benefits for each succeeding plan year.
+(C) The unamortized amount of the reallocated unfunded vested benefits with respect to a plan year is the reallocated unfunded vested benefits for the plan year, reduced by 5 percentof such reallocated unfunded vested benefits for each succeeding plan year.
 
 (D) An employer's proportional share of the unamortized amount of the reallocated unfunded vested benefits with respect to a plan year is the product of—
 
@@ -112,7 +112,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 (3) The amount of the unfunded vested benefits allocable to an employer under this paragraph is the product of—
 
-&emsp;(A) the plan's unfunded vested benefits as of the end of the plan year preceding the planyear in which the employer withdraws, less the value as of the end of such year of all outstanding claims for withdrawal liability which can reasonably be expected to be collected from employers withdrawing before such year; multiplied by
+&emsp;(A) the plan's unfunded vested benefits as of the end of the plan year preceding the plan year in which the employer withdraws, less the value as of the end of such year of all outstanding claims for withdrawal liability which can reasonably be expected to be collected from employers withdrawing before such year; multiplied by
 
 &emsp;(B) a fraction—
 
@@ -178,7 +178,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 (F) The employer's proportional share described in subparagraph (A)(ii) for a plan year is the amount determined under subparagraph (E) for the employer, but not in excess of an amount which bears the same ratio to the sum of the amounts determined under subparagraph (E) for all employers under the plan as the amount determined under subparagraph (C) for the employer bears to the sum of the amounts determined under subparagraph (C) for all employers under the plan.
 
-(G) The corporation may prescribe by regulation other methods which a plan may adopt for allocating assets to determine the amount of the unfunded vested benefits attributable to service with the employer and to determine the employer's share of unfunded vested benefits not attributable to service with employers who have an obligation to contribute under the plan in the plan year in which the employer withdraws.
+(G) The corporation may prescribe by regulation other methods which a plan may adopt for allocating assets to determine the amount of the unfunded vested benefits attributable to service with the employer and to determine the employer's share of unfunded vested benefits notattributable to service with employers who have an obligation to contribute under the plan in the plan year in which the employer withdraws.
 
 (5)(A) The corporation shall prescribe by regulation a procedure by which a plan may, by amendment, adopt any other alternative method for determining an employer's allocable share of unfunded vested benefits under this section, subject to the approval of the corporation based on its determination that adoption of the method by the plan would not significantly increase the risk of loss to plan participants and beneficiaries or to the corporation.
 
@@ -216,7 +216,7 @@ In the case of a withdrawal following a merger of multiemployer plans, subsectio
 
 1984—Subsec. (b). Pub. L. 98–369, §558(b)(1)(A), (B), substituted “September 25, 1980” for “April 28, 1980” in pars. (1)(A) and (2)(A), (B)(ii)(II), and “September 26, 1980” for “April 29, 1980” in pars. (1)(B) and (2)(B)(ii)(I), (D), and in par. (3) in provisions preceding subpar. (A) and in subpar. (B)(i), (ii).
 
-Subsec. (c)(2). Pub. L. 98–369, §558(b)(1)(A), (B), substituted “September 25, 1980” for “April 28, 1980” insubpars. (B)(ii)(II) and (C)(i)(II) and “September 26, 1980” for “April 29, 1980” in subpar. (B)(i), (ii)(I), (II).
+Subsec. (c)(2). Pub. L. 98–369, §558(b)(1)(A), (B), substituted “September 25, 1980” for “April 28, 1980” in subpars. (B)(ii)(II) and (C)(i)(II) and “September 26, 1980” for “April 29, 1980” in subpar. (B)(i), (ii)(I), (II).
 
 #### Effective Date of 2006 Amendment
 

@@ -18,7 +18,7 @@ Conversion of Employment Positions.—(1) The Secretary of Defense may identify 
 
 (4) In this subsection, the term “an employee of a nonappropriated fund instrumentality” means an employee described in section 2105(c) of title 5.
 
-(Added Pub. L. 107–314, div. A, title III, §323(a), Dec. 2, 2002, 116 Stat. 2510, §2494; renumbered §2491, Pub. L. 108–375, div. A, title VI, §651(c)(2), Oct. 28, 2004, 118 Stat. 1972.)
+(Added Pub. L. 107–314, div. A, title III, §323(a), Dec. 2, 2002, 116 Stat. 2510, §2494; renumbered§2491, Pub. L. 108–375, div. A, title VI, §651(c)(2), Oct. 28, 2004, 118 Stat. 1972.)
 
 #### Prior Provisions
 

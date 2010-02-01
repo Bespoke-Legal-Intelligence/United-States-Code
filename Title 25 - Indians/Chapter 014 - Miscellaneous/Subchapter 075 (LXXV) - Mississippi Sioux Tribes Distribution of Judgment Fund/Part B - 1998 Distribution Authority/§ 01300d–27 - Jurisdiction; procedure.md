@@ -36,7 +36,7 @@ No action raising a claim referred to in subsection (a) of this section may be f
 
 #### (A) In general
 
-&emsp;&emsp;If an action that raises a claim referred to in subsection (a) of this section is brought, and a final judgment is entered in favor of 1 or more lineal descendants referred to in that subsection, section 1300d–23(a) of this title and subsections (a) and (b) of section 1300d–26 of this title shall not apply to the distribution of the funds described in subparagraph (B).
+&emsp;&emsp;If an action that raises a claim referred to in subsection (a) of this section is brought,and a final judgment is entered in favor of 1 or more lineal descendants referred to in that subsection, section 1300d–23(a) of this title and subsections (a) and (b) of section 1300d–26 of this title shall not apply to the distribution of the funds described in subparagraph (B).
 
 #### (B) Distribution of funds
 
@@ -54,7 +54,7 @@ No action raising a claim referred to in subsection (a) of this section may be f
 
 #### (B) Distribution of funds
 
-&emsp;&emsp;Not later than 180 days after the date of the issuance of a final judgment referred to in subparagraph (A), the Secretary shall distribute 100 percent of the funds described in section 1300d–22 of this title to each covered Indian tribe in accordance with the judgment and the percentages for distributioncontained in section 1300d–23(a)(2) of this title.
+&emsp;&emsp;Not later than 180 days after the date of the issuance of a final judgment referred to in subparagraph (A), the Secretary shall distribute 100 percent of the funds described in section 1300d–22 of this title to each covered Indian tribe in accordance with the judgment and the percentages for distribution contained in section 1300d–23(a)(2) of this title.
 
 #### (f) Limitation on claims by a covered Indian tribe
 

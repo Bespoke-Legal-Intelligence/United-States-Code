@@ -34,7 +34,7 @@
 
 #### (B) Adjustment
 
-&emsp;&emsp;In determining for a year the ratio described in subparagraph (A)(iii), the Secretary shall not include in the numerator class III devices that the Secretary reclassified into class II, and the Secretary shall include in the denominator class II devices for which reports under section 360(k) of this title were not required to be submitted by reason of the operation of section 360(m) of this title.
+&emsp;&emsp;In determining for a year the ratio described in subparagraph (A)(iii), the Secretary shall not include in the numerator class III devices that the Secretary reclassified into class II, and the Secretary shall include in the denominator class II devices for which reports under section 360(k) of this title were not required to be submitted byreason of the operation of section 360(m) of this title.
 
 #### (b) Accreditation
 
@@ -112,11 +112,11 @@ Not later than January 10, 2007, the Secretary shall conduct a study based on th
 
 &emsp;(4) the average time period for a review under this section (including the time it takes for the Secretary to review a recommendation of an accredited person under subsection (a) of this section and determine the initial device classification);
 
-&emsp;(5) the average time period identified in paragraph (4) compared to the average time period for review of devices solely by the Secretary pursuant to section 360(k) of this title;
+&emsp;(5) the average time period identified in paragraph (4) compared to the average timeperiod for review of devices solely by the Secretary pursuant to section 360(k) of this title;
 
 &emsp;(6) if there is a difference in the average time period under paragraph (4) and the average time period under paragraph (5), the reasons for such difference;
 
-&emsp;(7) whether the quality of reviews under this section for devices for which no guidance hasbeen issued is qualitatively inferior to reviews by the Secretary for devices for which no guidance has been issued;
+&emsp;(7) whether the quality of reviews under this section for devices for which no guidance has been issued is qualitatively inferior to reviews by the Secretary for devices for which no guidance has been issued;
 
 &emsp;(8) whether the quality of reviews under this section of devices for which no guidance has been issued is qualitatively inferior to reviews under this section of devices for which guidance has been issued;
 
@@ -126,9 +126,11 @@ Not later than January 10, 2007, the Secretary shall conduct a study based on th
 
 &emsp;(11) any suggestions for continuation, modification (including contraction or expansion of device eligibility), or termination of this section that the Secretary determines to be appropriate.
 
-(June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342; amended Pub. L. 107–250, title II, §202, Oct. 26, 2002, 116 Stat. 1609; Pub. L. 110–85, title II, §221, Sept. 27, 2007, 121 Stat. 852.)
+(June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342; amended Pub. L. 107–250, title II, §202, Oct. 26, 2002, 116 Stat. 1609; Pub. L. 110–85, title II, §221, Sept. 27, 2007, 121 Stat. 852; Pub. L. 111–31, div. A, title I, §103(f), June 22, 2009, 123 Stat. 1837.)
 
 #### Amendments
+
+2009—Subsec. (b)(2)(D). Pub. L. 111–31 made technical amendment to reference in original act which appears in text as reference to section 393(g) of this title.
 
 2007—Subsec. (c). Pub. L. 110–85 substituted “2012” for “2007”.
 

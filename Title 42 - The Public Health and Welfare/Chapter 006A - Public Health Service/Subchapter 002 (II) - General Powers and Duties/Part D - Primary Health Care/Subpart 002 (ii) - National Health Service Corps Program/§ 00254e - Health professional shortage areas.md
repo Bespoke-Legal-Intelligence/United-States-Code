@@ -14,7 +14,7 @@
 
 &emsp;(D) a Federal medical facility.
 
-(3) Homeless individuals (as defined in section 254b(h)(5) of this title), seasonal agricultural workers (as defined in section 254b(g)(3) of this title) and migratory agricultural workers (as so defined)), and residents of public housing (as defined in section 1437a(b)(1) of this title) may be population groups under paragraph (1).
+(3) Homeless individuals (as defined in section 254b(h)(5) of this title), seasonal agricultural workers (as defined in section 254b(g)(3) of thistitle) and migratory agricultural workers (as so defined)), and residents of public housing (as defined in section 1437a(b)(1) of this title) may be population groups under paragraph (1).
 
 #### (b) Criteria for designation of health professional shortage areas; promulgation of regulations
 
@@ -42,7 +42,7 @@ In determining whether to make a designation, the Secretary shall take into cons
 
 #### (e) Notice of proposed designation of areas and facilities; time for comment
 
-(1) Prior to the designation of a public facility, including a Federal medical facility, as a healthprofessional shortage area, the Secretary shall give written notice of such proposed designation to the chief administrative officer of such facility and request comments within 30 days with respect to such designation.
+(1) Prior to the designation of a public facility, including a Federal medical facility, as a health professional shortage area, the Secretary shall give written notice of such proposed designation to the chief administrative officer of such facility and request comments within 30 days with respect to such designation.
 
 (2) Prior to the designation of a health professional shortage area under this section, the Secretary shall, to the extent practicable, give written notice of the proposed designation of such area to appropriate public or private nonprofit entities which are located or have a demonstrated interest in such area and request comments from such entities with respect to the proposed designation of such area.
 

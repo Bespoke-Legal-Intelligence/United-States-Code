@@ -78,7 +78,7 @@ A consumer reporting agency shall not impose any charge on a consumer for provid
 
 #### (1) In general
 
-&emsp;In the case of a request from a consumer other than a request that is covered by any ofsubsections (a) through (d) of this section, a consumer reporting agency may impose a reasonable charge on a consumer—
+&emsp;In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d) of this section, a consumer reporting agency may impose a reasonable charge on a consumer—
 
 &emsp;&emsp;(A) for making a disclosure to the consumer pursuant to section 1681g of this title, which charge—
 
@@ -94,15 +94,29 @@ A consumer reporting agency shall not impose any charge on a consumer for provid
 
 #### (2) Modification of amount
 
-&emsp;The Federal Trade Commission shall increase the amount referred to in paragraph (1)(A)(i) on January 1 of each year, based proportionally on changes in the Consumer Price Index, with fractional changes rounded to the nearest fifty cents.
+&emsp;The Federal Trade Commission shall increase the amount referred to in paragraph\(1)(A)(i) on January 1 of each year, based proportionally on changes in the Consumer Price Index, with fractional changes rounded to the nearest fifty cents.
 
-(Pub. L. 90–321, title VI, §612, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2410, Sept. 30, 1996, 110 Stat. 3009–442; Pub. L. 108–159, title II, §211(a), Dec. 4, 2003, 117 Stat. 1968.)
+#### (g) Prevention of deceptive marketing of credit reports
+
+#### (1) In general
+
+&emsp;Subject to rulemaking pursuant to section 205(b) of the Credit CARD Act of 2009, any advertisement for a free credit report in any medium shall prominently disclose in such advertisement that free credit reports are available under Federal law at: “AnnualCreditReport.com” (or such other source as may be authorized under Federal law).
+
+#### (2) Television and radio advertisement
+
+&emsp;In the case of an advertisement broadcast by television, the disclosures required under paragraph (1) shall be included in the audio and visual part of such advertisement. In the case of an advertisement broadcast by televison <sup>2</sup> or radio, the disclosure required under paragraph (1) shall consist only of the following: “This is not the free credit report provided for by Federal law”.
+
+(Pub. L. 90–321, title VI, §612, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2410, Sept. 30, 1996, 110 Stat. 3009–442; Pub. L. 108–159, title II, §211(a), Dec. 4, 2003, 117 Stat. 1968; Pub. L. 111–24, title II, §205(a), May 22, 2009, 123 Stat. 1747.)
 
 #### References in Text
 
 Section 211(c) of the Fair and Accurate Credit Transactions Act of 2003, referred to in subsec. (a)(1)(B), probably means section 211(d) of Pub. L. 108–159, which is set out as a note below and relates to the establishment of a centralized source. Section 211(c) of Pub. L. 108–159 amended section 1681g of this title.
 
+Section 205(b) of the Credit CARD Act of 2009, referred to in subsec. (g), is section 205(b) of Pub. L. 111–24, which is set out as a note below.
+
 #### Amendments
+
+2009—Subsec. (g). Pub. L. 111–24 added subsec. (g).
 
 2003—Subsec. (a). Pub. L. 108–159, §211(a)(2), added subsec. (a). Former subsec. (a) redesignated (f).
 
@@ -114,6 +128,10 @@ Subsec. (f). Pub. L. 108–159, §211(a)(1), (6), redesignated subsec. (a) as (f
 
 1996—Pub. L. 104–208 amended section generally. Prior to amendment, section read as follows: “A consumer reporting agency shall make all disclosures pursuant to section 1681g of this title and furnish all consumer reports pursuant to section 1681i(d) of this title without charge to the consumer if, within thirty days after receipt by such consumer of a notification pursuant to section 1681m of this title or notification from a debt collection agency affiliated with such consumer reporting agency stating that the consumer's credit rating may be or has been adversely affected, the consumer makes a request under section 1681g or 1681i(d) of this title. Otherwise, the consumer reporting agency may impose a reasonable charge on the consumer for making disclosure to such consumer pursuant to section 1681g of this title, the charge for which shall be indicated to the consumer prior to making disclosure; and for furnishing notifications, statements, summaries, or codifications to person designated by the consumer pursuant to section 1681i(d) of this title, the charge for which shall be indicated to the consumer prior to furnishing such information and shall not exceed the charge that the consumer reporting agency would impose on each designated recipient for a consumer report except that no charge may be made for notifying such persons of the deletion of information which is found to be inaccurate or which can no longer be verified.”
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–24 effective 9 months after May 22, 2009, except as otherwise specifically provided, see section 3 of Pub. L. 111–24, set out as a note under section 1602 of this title.
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
@@ -123,6 +141,24 @@ Amendment by Pub. L. 108–159 subject to joint regulations establishing effecti
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
 
 #### Regulations
+
+Pub. L. 111–24, title II, §205(b), May 22, 2009, 123 Stat. 1747, provided that:
+
+“(1)
+
+In general.—Not later than 9 months after the date of enactment of this Act \[May 22, 2009\], the Federal Trade Commission shall issue a final rule to carry out this section.
+
+“(2)
+
+Content.—The rule required by this subsection—
+
+&emsp;“(A) shall include specific wording to be used in advertisements in accordance with this section; and
+
+&emsp;“(B) for advertisements on the Internet, shall include whether the disclosure required under section 612(g)(1) of the Fair Credit Reporting Act \[15 U.S.C. 1681j(g)(1)\] (as added by this section) shall appear on the advertisement or the website on which the free credit report is made available.
+
+“(3)
+
+Interim disclosures.—If an advertisement subject to section 612(g) of the Fair Credit Reporting Act \[15 U.S.C. 1681j(g)\], as added by this section, is made public after the 9-month deadline specified in paragraph (1), but before the rule required by paragraph (1) is finalized, such advertisement shall include the disclosure: ‘Free credit reports are available under Federal law at: “AnnualCreditReport.com”.’ ”
 
 Pub. L. 108–159, title II, §211(d), Dec. 4, 2003, 117 Stat. 1972, provided that:
 
@@ -195,4 +231,6 @@ Considerations.—Before making any determination under subparagraph (A), the Co
 \[For definitions of terms used in section 211(d) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “television”.</i>
 

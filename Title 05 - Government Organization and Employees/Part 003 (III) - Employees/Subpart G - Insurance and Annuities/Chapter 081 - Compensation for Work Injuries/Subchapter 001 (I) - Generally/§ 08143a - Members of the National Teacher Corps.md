@@ -8,7 +8,7 @@ Subject to the provisions of this section, this subchapter applies to a member o
 
 &emsp;&emsp;(B) absent from his assigned post of duty, except while participating in an activity authorized by or under the direction or supervision of the Commissioner of Education; and
 
-&emsp;(2) In computing compensation for disability or death, the monthly pay of a member is deemed his actual pay or that received at the minimum rate for GS–6, whichever is greater.
+&emsp;(2) in computing compensation for disability or death, the monthly pay of a member is deemed his actual pay or that received at the minimum rate for GS–6, whichever is greater.
 
 (Added Pub. L. 90–83, §1(66)(A), Sept. 11, 1967, 81 Stat. 212.)
 

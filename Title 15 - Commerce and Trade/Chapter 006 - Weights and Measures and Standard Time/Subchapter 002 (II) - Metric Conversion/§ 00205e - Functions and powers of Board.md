@@ -8,13 +8,13 @@ It shall be the function of the Board to devise and carry out a broad program of
 
 &emsp;(3) publicize, in an appropriate manner, proposed programs and provide an opportunity for interested groups or individuals to submit comments on such programs. At the request of interested parties, the Board, in its discretion, may hold hearings with regard to such programs. Such comments and hearings may be considered by the Board;
 
-&emsp;(4) encourage activities of standardization organizations to develop or revise, as rapidly as practicable, engineering standards on a metric measurement basis, and to take advantage of opportunities to promote (A) rationalization or simplification of relationships, (B) improvements of design, (C) reduction of size variations, (D) increases in economy, and (E) where feasible, the efficient use of energy and the conservation of natural resources;
+&emsp;(4) encourage activities of standardization organizations to develop or revise, as rapidly as practicable, engineering standards on a metric measurement basis, and to take advantage of opportunities to promote (A) rationalization or simplification of relationships, (B)improvements of design, (C) reduction of size variations, (D) increases in economy, and (E) where feasible, the efficient use of energy and the conservation of natural resources;
 
 &emsp;(5) encourage the retention, in new metric language standards, of those United States engineering designs, practices, and conventions that are internationally accepted or that embody superior technology;
 
 &emsp;(6) consult and cooperate with foreign governments, and intergovernmental organizations, in collaboration with the Department of State, and, through appropriate member bodies, with private international organizations, which are or become concerned with the encouragement and coordination of increased use of metric measurement units or engineering standards based on such units, or both. Such consultation shall include efforts, where appropriate, to gain international recognition for metric standards proposed by the United States, and, during the United States conversion, to encourage retention of equivalent customary units, usually by way of dual dimensions, in international standards or recommendations;
 
-&emsp;(7) assist the public through information and education programs, to become familiar withthe meaning and applicability of metric terms and measures in daily life. Such programs shall include—
+&emsp;(7) assist the public through information and education programs, to become familiar with the meaning and applicability of metric terms and measures in daily life. Such programs shall include—
 
 &emsp;&emsp;(A) public information programs conducted by the Board, through the use of newspapers, magazines, radio, television, and other media, and through talks before appropriate citizens’ groups, and trade and public organizations;
 

@@ -32,7 +32,7 @@ The Director shall not finally disapprove any application, or any amendment ther
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–322, §40156(c)(4)(A)(i), (vii), substituted “An applicant is eligible to receive a grant under this subchapter if—” for “The Bureau shallprovide financial assistance to each State applicant under section 3796aa–1 of this title to provide equipment and personnel training for the closed-circuit televising and video taping of the testimony of children in criminal proceedings for the violation of laws relating to the abuse of children, upon determining that” in introductory provisions and designated concluding provisions as subsec. (b). See below.
+1994—Subsec. (a). Pub. L. 103–322, §40156(c)(4)(A)(i), (vii), substituted “An applicant is eligible to receive a grant under this subchapter if—” for “The Bureau shall provide financial assistance to each State applicant under section 3796aa–1 of this title to provide equipment and personnel training for the closed-circuit televising and video taping of the testimony of children in criminal proceedings for the violation of laws relating to the abuse of children, upon determining that” in introductory provisions and designated concluding provisions as subsec. (b). See below.
 
 Subsec. (a)(1). Pub. L. 103–322, §40156(c)(4)(A)(ii), substituted “the applicant certifies and the Director determines that there is in effect in the State” for “there is in effect in such State”.
 

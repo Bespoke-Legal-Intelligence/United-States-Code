@@ -164,7 +164,7 @@
 
 #### (7) Criteria relating to foreign supervision
 
-&emsp;Not later than 1 year after December 19, 1991, the Board, in consultation with the Secretary of the Treasury, shall develop and publish criteria to be used in evaluating the operation of any foreign bank in the United States that the Board has determined is not subject to comprehensive supervision or regulation on a consolidated basis. In developing such criteria, the Board shall allow reasonable opportunity for public review and comment.
+&emsp;Not later than 1 year after December 19, 1991, the Board, in consultation with the Secretary of the Treasury, shall develop and publish criteria to be used in evaluating the operation of any foreign bank in the United States that the Board has determined is not subject to comprehensive supervision or regulation ona consolidated basis. In developing such criteria, the Board shall allow reasonable opportunity for public review and comment.
 
 #### (f) Judicial review
 
@@ -228,7 +228,7 @@ The Board shall request and consider any views of the appropriate State bank sup
 
 #### (A) Insured branch
 
-&emsp;&emsp;The term “insured branch” has the meaning given such term in section 3(s) of theFederal Deposit Insurance Act \[12 U.S.C. 1813(s)\].
+&emsp;&emsp;The term “insured branch” has the meaning given such term in section 3(s) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(s)\].
 
 #### (B) Money laundering offense defined
 
@@ -248,7 +248,7 @@ Not later than 180 days after December 19, 1991, the Board and the Secretary of 
 
 #### (1) Transactions prohibited
 
-&emsp;A branch or agency of a foreign bank shall not manage, through an office of the foreign bank which is located outside the United States and is managed or controlled by such branch or agency, any type of activity that a bank organized under the laws of the United States, any State, or the District of Columbia is not permitted to manage at any branch or subsidiary of such bank which is located outside the United States.
+&emsp;A branch or agency of a foreign bank shall not manage, through an office of the foreign bank which is located outside the United States and is managed or controlled by such branch or agency, any type of activity that abank organized under the laws of the United States, any State, or the District of Columbia is not permitted to manage at any branch or subsidiary of such bank which is located outside the United States.
 
 #### (2) Regulations
 

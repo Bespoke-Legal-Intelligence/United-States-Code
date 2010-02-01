@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;(iii) is of such width as the Secretary determines is necessary to protect such land, taking into consideration and accommodating the farming practices (including the straightening of boundaries to accommodate machinery) used with respect to the cropland that surrounds such land; and
 
-&emsp;&emsp;(B) with respect to land described in subparagraph (D) of paragraph (1), enhances a wildlife benefit to the extent practicable in terms of upland to wetland ratios, as determined by the Secretary.
+&emsp;&emsp;(B) with respect to land described in subparagraph (D) of paragraph (1), enhances a wildlife benefit to the extent practicable interms of upland to wetland ratios, as determined by the Secretary.
 
 #### (c) Program limitations
 
@@ -90,7 +90,7 @@
 
 #### (3) Tracts
 
-&emsp;Except for land described in subsection (b)(1)(C) and buffer acreage related to suchland, the maximum size of any eligible acreage described in subsection (b)(1) in a tract of an owner or operator enrolled in the conservation reserve under this section shall be 40 acres.
+&emsp;Except for land described in subsection (b)(1)(C) and buffer acreage related to such land, the maximum size of any eligible acreage described in subsection (b)(1) in a tract of an owner or operator enrolled in the conservation reserve under this section shall be 40 acres.
 
 #### (e) Duties of owners and operators
 

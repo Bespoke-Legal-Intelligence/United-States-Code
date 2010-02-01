@@ -8,13 +8,21 @@ Authority.—The Secretary of Defense may authorize the use of the Department of
 
 &emsp;(2) For military airlift services provided to the Department of State for the transportation of armored motor vehicles to a foreign country to meet requirements of the Department of State for armored motor vehicles associated with the overseas travel of the Secretary of State in that country.
 
+&emsp;(3) During the five-year period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010, for military airlift services provided to any element of the Federal Government outside the Department of Defense in circumstances other than those specified in paragraphs (1) and (2), but only if the Secretary of Defense determines that the provision of such services will promote the improved use of airlift capacity without any negative effect on the national security objectives or the national security interests contained within the United States commercial air industry.
+
 (b)
 
-Definition.—In this section, the term “Department of Defense reimbursement rate” means the amount charged a component of theDepartment of Defense by another component of the Department of Defense.
+Definition.—In this section, the term “Department of Defense reimbursement rate” means the amount charged a component of the Department of Defense by another component of the Department of Defense.
 
-(Added Pub. L. 102–88, title V, §501(a), Aug. 14, 1991, 105 Stat. 435; amended Pub. L. 108–136, div. A, title X, §1006(a), (b)(1), Nov. 24, 2003, 117 Stat. 1585.)
+(Added Pub. L. 102–88, title V, §501(a), Aug. 14, 1991, 105 Stat. 435; amended Pub. L. 108–136, div. A, title X, §1006(a), (b)(1), Nov. 24, 2003, 117 Stat. 1585; Pub. L. 111–84, div. A, title III, §351(a), Oct. 28, 2009, 123 Stat. 2262.)
+
+#### References in Text
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (a)(3), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
 
 #### Amendments
+
+2009—Subsec. (a)(3). Pub. L. 111–84 added par. (3).
 
 2003—Pub. L. 108–136, §1006(b)(1), substituted “Airlift services provided to certain other agencies: use of Department of Defense reimbursement rate” for “Reimbursement rate for airlift services provided to Central Intelligence Agency” as section catchline.
 

@@ -82,7 +82,7 @@ Pub. L. 104–304, §17, Oct. 12, 1996, 110 Stat. 3803, provided that:
 
 In General.—Not later than 1 year after the date of the enactment of this Act \[Oct. 12, 1996\], the Secretary of Transportation shall transmit to the Congress a report analyzing the present assessment of pipeline safety user fees solely on the basis of mileage to determine whether—
 
-&emsp;“(1) that measure of the resources of the Department of Transportation is the most appropriatemeasure of the resources used by the Department of Transportation in the regulation of pipeline transportation; or
+&emsp;“(1) that measure of the resources of the Department of Transportation is the most appropriate measure of the resources used by the Department of Transportation in the regulation of pipeline transportation; or
 
 &emsp;“(2) another basis of assessment would be a more appropriate measure of those resources.
 

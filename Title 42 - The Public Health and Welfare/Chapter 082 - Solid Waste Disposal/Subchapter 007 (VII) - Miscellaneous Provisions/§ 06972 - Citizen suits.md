@@ -6,7 +6,7 @@ Except as provided in subsection (b) or (c) of this section, any person may comm
 
 &emsp;(1)(A) against any person (including (a) the United States, and (b) any other governmental instrumentality or agency, to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any permit, standard, regulation, condition, requirement, prohibition, or order which has become effective pursuant to this chapter; or
 
-&emsp;(B) against any person, including the United States and any other governmental instrumentality or agency, to the extent permitted by the eleventh amendment to the Constitution, and including any past or present generator, past or present transporter, or past or present owner or operator of a treatment,storage, or disposal facility, who has contributed or who is contributing to the past or present handling, storage, treatment, transportation, or disposal of any solid or hazardous waste which may present an imminent and substantial endangerment to health or the environment; or
+&emsp;(B) against any person, including the United States and any other governmental instrumentality or agency, to the extent permitted by the eleventh amendment to the Constitution, and including any past or present generator, past or present transporter, or past or present owner or operator of a treatment, storage, or disposal facility, who has contributed or who is contributing to the past or present handling, storage, treatment, transportation, or disposal of any solid or hazardous waste which may present an imminent and substantial endangerment to health or the environment; or
 
 &emsp;(2) against the Administrator where there is alleged a failure of the Administrator to perform any act or duty under this chapter which is not discretionary with the Administrator.
 
@@ -36,7 +36,7 @@ Except as provided in subsection (b) or (c) of this section, any person may comm
 
 &emsp;(ii) the State in which the alleged endangerment may occur;
 
-&emsp;(iii) any person alleged to have contributed or to be contributing to the past or present handling, storage, treatment, transportation, or disposal of any solid or hazardous waste referred to in subsection (a)(1)(B) of this section,
+&emsp;(iii) any person alleged to have contributed or to be contributing to the past or present handling, storage, treatment, transportation,or disposal of any solid or hazardous waste referred to in subsection (a)(1)(B) of this section,
 
 > except that such action may be brought immediately after such notification in the case of an action under this section respecting a violation of subchapter III of this chapter.
 

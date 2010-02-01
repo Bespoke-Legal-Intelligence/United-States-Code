@@ -6,13 +6,13 @@
 
 (c) The term “Indian country” as used in this section does not include fee-patented lands in non-Indian communities or rights-of-way through Indian reservations, and this section does not apply to such lands or rights-of-way in the absence of a treaty or statute extending the Indian liquor laws thereto.
 
-(June 25, 1948, ch. 645, 62 Stat. 758; May 24, 1949, ch. 139, §27, 63 Stat. 94; Pub. L. 103–322, titleXXXIII, §330016(1)(G), (I), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 758; May 24, 1949, ch. 139, §27, 63 Stat. 94; Pub. L. 103–322, title XXXIII, §330016(1)(G), (I), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
 #### 1948 Act
 
-Based on sections 241, 242, 244a, 249, 254 of title 25, U.S.C., 1940 ed., Indians (R.S. §2139; Feb. 27, 1877, ch. 69, §1, 19 Stat. 244; July 4, 1884, ch. 180, §1, 23 Stat. 94; July 23, 1892, ch. 234, 27 Stat. 260; Mar. 2, 1917, ch. 146, §17, 39 Stat. 983; June 13, 1932, ch. 245, 47 Stat. 302; Mar. 5, 1934, ch. 43, 48 Stat. 396; June 27, 1934, ch. 846, 48 Stat. 1245; June 15, 1938, ch. 435, §1, 52 Stat. 696).
+Based on sections 241, 242, 244a, 249, 254 of title 25, U.S.C., 1940 ed., Indians (R.S. §2139; Feb. 27, 1877, ch. 69, §1, 19 Stat. 244; July 4, 1884, ch. 180, §1, 23 Stat. 94; July 23, 1892, ch. 234, 27 Stat. 260; Mar. 2, 1917, ch. 146, §17, 39 Stat. 983; June 13, 1932, ch. 245, 47 Stat. 302; Mar. 5, 1934,ch. 43, 48 Stat. 396; June 27, 1934, ch. 846, 48 Stat. 1245; June 15, 1938, ch. 435, §1, 52 Stat. 696).
 
 Section consolidates sections 241, 242, 244a, and 249 of title 25, U.S.C., 1940 ed., Indians. The portion of section 241 of said title which defined the substantive offense became subsection (a); the portion relating to the scope of the term “Indian country” was omitted as unnecessary in view of definition of “Indian country” in section 1151 of this title; the portion of section 241 of said title excepting liquors introduced by the War Department became subsection (c), as limited by section 249 of said title; the portion respecting making complaint in county of offense, and with reference to arraignment, was omitted as covered by rule 5 of the Federal Rules of Criminal Procedure; and the remainder of section 241 of said title was incorporated in section 1156 of this title.
 

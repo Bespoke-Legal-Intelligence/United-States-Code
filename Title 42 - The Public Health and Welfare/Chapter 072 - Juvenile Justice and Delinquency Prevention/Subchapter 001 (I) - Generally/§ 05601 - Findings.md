@@ -2,7 +2,7 @@
 
 (a) The Congress finds the following:
 
-&emsp;(1) Although the juvenile violent crime arrest rate in 1999 was the lowest in the decade, there remains a consensus that the number of crimes and the rate of offending by juveniles nationwide is still too high.
+&emsp;(1) Although the juvenile violent crime arrest rate in 1999 was the lowest in the decade,there remains a consensus that the number of crimes and the rate of offending by juveniles nationwide is still too high.
 
 &emsp;(2) According to the Office of Juvenile Justice and Delinquency Prevention, allowing 1 youth to leave school for a life of crime and of drug abuse costs society $1,700,000 to $2,300,000 annually.
 
@@ -148,7 +148,7 @@ Pub. L. 110–240, §1, June 3, 2008, 122 Stat. 1560, provided that: “This Act
 
 #### Short Title of 2003 Amendments
 
-Pub. L. 108–96, §1, Oct. 10, 2003, 117 Stat. 1167, provided that: “This Act \[enacting section 5752 of this title, amending sections 5701, 5711, 5712, 5714–2, 5714–21, 5714–23, 5714–24, 5732a, 5751, 5771, 5773, and 5777 of this title, repealing section 5714–25 of this title, and enacting provisions set out as notes under sections 5701 and 5714–1 of this title\] may be cited as the ‘Runaway, Homeless, and Missing Children Protection Act’.”
+Pub. L. 108–96, §1, Oct. 10, 2003, 117 Stat. 1167, provided that: “This Act \[enacting section 5752 of this title,amending sections 5701, 5711, 5712, 5714–2, 5714–21, 5714–23, 5714–24, 5732a, 5751, 5771, 5773, and 5777 of this title, repealing section 5714–25 of this title, and enacting provisions set out as notes under sections 5701 and 5714–1 of this title\] may be cited as the ‘Runaway, Homeless, and Missing Children Protection Act’.”
 
 #### Short Title of 2002 Amendment
 
@@ -172,7 +172,7 @@ Section 610 of Pub. L. 98–473 provided that: “This Division \[division II (�
 
 #### Short Title of 1980 Amendment
 
-Section 1 of Pub. L. 96–509 provided that: “This Act \[enacting section 5617 of this title, amending this section and sections 5602, 5603, 5611, 5612, 5614 to 5616, 5632to 5634, 5637, 5638, 5651, 5654 to 5656, 5659 to 5661, 5671, 5672, 5711 to 5713, 5715, and 5751 of this title, repealing former section 5617 and sections 5618 and 5619 of this title, and enacting provisions set out as notes under this section and section 5633 of this title\] may be cited as the ‘Juvenile Justice Amendments of 1980’.”
+Section 1 of Pub. L. 96–509 provided that: “This Act \[enacting section 5617 of this title, amending this section and sections 5602, 5603, 5611, 5612, 5614 to 5616, 5632 to 5634, 5637, 5638, 5651, 5654 to 5656, 5659 to 5661, 5671, 5672, 5711 to 5713, 5715, and 5751 of this title, repealing former section 5617 and sections 5618 and 5619 of this title, and enacting provisions set out as notes under this section and section 5633 of this title\] may be cited as the ‘Juvenile Justice Amendments of 1980’.”
 
 #### Short Title of 1977 Amendment
 

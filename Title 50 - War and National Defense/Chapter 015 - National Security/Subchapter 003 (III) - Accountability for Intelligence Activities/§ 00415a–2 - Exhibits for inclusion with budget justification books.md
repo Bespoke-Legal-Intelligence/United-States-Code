@@ -12,5 +12,11 @@ Beginning with the fiscal year 2010 budget request, the Director of National Int
 
 Section was enacted as part of the Department of Defense Appropriations Act, 2009, and also as part of the Consolidated Security, Disaster Assistance, and Continuing Appropriations Act, 2009, and not as part of the National Security Act of 1947 which comprises this chapter.
 
+#### Similar Provisions
+
+Provisions similar to those in this section were contained in the following appropriation act:
+
+Pub. L. 111–118, div. A, title VIII, §8100, Dec. 19, 2009, 123 Stat. 3450.
+
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

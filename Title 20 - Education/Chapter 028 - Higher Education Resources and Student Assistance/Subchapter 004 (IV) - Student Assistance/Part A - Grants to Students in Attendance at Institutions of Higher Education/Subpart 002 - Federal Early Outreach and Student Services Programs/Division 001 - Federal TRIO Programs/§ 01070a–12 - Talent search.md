@@ -58,7 +58,7 @@ Any project assisted under this section may provide services such as—
 
 In approving applications for projects under this section for any fiscal year the Secretary shall—
 
-&emsp;(1) require an assurance that not less than two-thirds of the individuals participating inthe project proposed to be carried out under any application be low-income individuals who are first generation college students;
+&emsp;(1) require an assurance that not less than two-thirds of the individuals participating in the project proposed to be carried out under any application be low-income individuals who are first generation college students;
 
 &emsp;(2) require that such participants be persons who either have completed 5 years of elementary education or are at least 11 years of age but not more than 27 years of age, unless the imposition of any such limitation with respect to any person would defeat the purposes of this section or the purposes of section 1070a–16 of this title;
 

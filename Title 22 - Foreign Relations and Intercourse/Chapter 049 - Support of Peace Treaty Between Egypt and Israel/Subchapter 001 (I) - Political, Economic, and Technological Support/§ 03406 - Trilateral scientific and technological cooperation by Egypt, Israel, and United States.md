@@ -18,5 +18,5 @@ Therefore, the President shall develop a plan to guide the participation of both
 
 #### Amendments
 
-1981—Subsec. (c). Pub. L. 97–113 struck out subsec. (c) which required Presidential report to Congress no later than twelve months after July 20, 1979, respecting trilateral cooperative projects between Egypt, Israel, and the United States.
+1981—Subsec. (c). Pub. L. 97–113 struck out subsec. (c) which required Presidential report to Congress no laterthan twelve months after July 20, 1979, respecting trilateral cooperative projects between Egypt, Israel, and the United States.
 

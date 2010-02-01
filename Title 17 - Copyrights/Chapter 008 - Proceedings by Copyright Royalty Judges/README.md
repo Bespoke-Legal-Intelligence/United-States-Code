@@ -16,7 +16,7 @@ This chapter consisted of sections 801 to 803, related to proceedings by copyrig
 
 #### Amendments
 
-2004—Pub. L. 108–419, §3(a), Nov. 30, 2004, 118 Stat. 2341, amended chapter heading and analysis generally,substituting chapter heading and items 801 to 805 for chapter heading “COPYRIGHT ARBITRATION ROYALTY PANELS”, and items 801 “Copyright arbitration royalty panels: Establishment and purpose”, 802 “Membership and proceedings of copyright arbitration royalty panels”, and 803 “Institution and conclusion of proceedings”.
+2004—Pub. L. 108–419, §3(a), Nov. 30, 2004, 118 Stat. 2341, amended chapter heading and analysis generally, substituting chapter heading and items 801 to 805 for chapter heading “COPYRIGHT ARBITRATION ROYALTY PANELS”, and items 801 “Copyright arbitration royalty panels: Establishment and purpose”, 802 “Membership and proceedings of copyright arbitration royalty panels”, and 803 “Institution and conclusion of proceedings”.
 
 1997—Pub. L. 105–80, §12(a)(18), Nov. 13, 1997, 111 Stat. 1535, substituted “Establishment” for “establishment” in item 801.
 

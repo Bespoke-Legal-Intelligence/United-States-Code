@@ -2,7 +2,7 @@
 
 #### (a) Method of promotion
 
-Career members of the Senior Foreign Service are promoted by appointment under section 3942(a) of this title to a higher salary class in the Senior Foreign Service. Members of the Senior Foreign Service serving under career candidate appointments or noncareer appointments are promoted by appointment under section 3943 of this title to a higher salary class in the Senior Foreign Service. Foreign Service officers, and Foreign Service personnel who are assigned to a class in the Foreign Service Schedule, are promoted by appointment under section 3942(a) of this title as career members of the Senior Foreign Service or by assignment under section 3964 of this title to a higher salary class in the Foreign Service Schedule.
+Career members of the Senior Foreign Service are promoted by appointment under section 3942(a) of this title to a higher salary class in the Senior Foreign Service. Members of the Senior Foreign Service serving under career candidate appointments or noncareer appointmentsare promoted by appointment under section 3943 of this title to a higher salary class in the Senior Foreign Service. Foreign Service officers, and Foreign Service personnel who are assigned to a class in the Foreign Service Schedule, are promoted by appointment under section 3942(a) of this title as career members of the Senior Foreign Service or by assignment under section 3964 of this title to a higher salary class in the Foreign Service Schedule.
 
 #### (b) Recommendations and rankings of selection boards
 
@@ -44,7 +44,7 @@ Except as provided in section 4006(a) of this title, promotions of—
 
 #### Amendments
 
-1999—Subsec. (c)(4), (5). Pub. L. 106–113 added pars. (4) and (5) and struck out former par. (4), which required report not later than Mar. 1 of each year, describing steps taken and planned in furtherance of compatibility and development of uniform procedures and consolidated personnel functions, specifying upper and lowerlimits planned for recruitment, retention, and advancement of members, and specifying numbers of members assigned to positions more than one grade higher or lower than the member.
+1999—Subsec. (c)(4), (5). Pub. L. 106–113 added pars. (4) and (5) and struck out former par. (4), which required report not later than Mar. 1 of each year, describing steps taken and planned in furtherance of compatibility and development of uniform procedures and consolidated personnel functions, specifying upper and lower limits planned for recruitment, retention, and advancement of members, and specifying numbers of members assigned to positions more than one grade higher or lower than the member.
 
 1994—Subsec. (b). Pub. L. 103–236, which directed amendment of par. (2) by striking “and” the last place it appears and by inserting “and other members of the Service” after “categories of career candidates,”, was executed by striking “and” after “categories of career members,” and making the insertion in concluding provisions below par. (2), to reflect the probable intent of Congress.
 
@@ -56,7 +56,7 @@ Pub. L. 104–66, title II, §2241, Dec. 21, 1995, 109 Stat. 733, which provided
 
 #### Language Training in Foreign Service
 
-Pub. L. 102–138, title I, §155, Oct. 28, 1991, 105 Stat. 675, as amended by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(q), Oct. 21, 1998, 112 Stat. 2681–789, provided that: “The Department of State and the Department of Commerce shall ensure that the precepts for promotion of Foreign Service employees provide that end-of-training reports for employees in full-time language training shall be weighed as heavily as the annual employee efficiency reports, in order to ensure that employees in language training are not disadvantaged in the promotion process.”
+Pub. L. 102–138, title I, §155, Oct. 28, 1991, 105 Stat. 675, as amended by Pub. L. 105–277, div. G, subdiv. A, titleXIII, §1335(q), Oct. 21, 1998, 112 Stat. 2681–789, provided that: “The Department of State and the Department of Commerce shall ensure that the precepts for promotion of Foreign Service employees provide that end-of-training reports for employees in full-time language training shall be weighed as heavily as the annual employee efficiency reports, in order to ensure that employees in language training are not disadvantaged in the promotion process.”
 
 #### Foreign Service Promotion Panels
 

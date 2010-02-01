@@ -114,7 +114,7 @@ For purposes of this part and part C of this subchapter, the term “standard pr
 
 #### (ii) Adjustment of amount
 
-&emsp;&emsp;&emsp;For a year after 2006, the dollar amounts specified in clause (i)(I) shall be equal to the dollar amounts specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved. Any amount established under this clause that is not a multiple of a 5 centsshall be rounded to the nearest multiple of 5 cents.
+&emsp;&emsp;&emsp;For a year after 2006, the dollar amounts specified in clause (i)(I) shall be equal to the dollar amounts specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved. Any amount established under this clause that is not a multiple of a 5 cents shall be rounded to the nearest multiple of 5 cents.
 
 #### (B) Annual out-of-pocket threshold
 
@@ -176,7 +176,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 #### (C) Assuring standard payment for costs at initial coverage limit
 
-&emsp;&emsp;The coverage is designed, based upon an actuarially representative pattern of utilization, to provide for the payment, with respect to costs incurred that are equal to the initial coverage limit under subsection (b)(3)of this section for the year, of an amount equal to at least the product of—
+&emsp;&emsp;The coverage is designed, based upon an actuarially representative pattern of utilization, to provide for the payment, with respect to costs incurred that are equal to the initial coverage limit under subsection (b)(3) of this section for the year, of an amount equal to at least the product of—
 
 &emsp;&emsp;&emsp;(i) the amount by which the initial coverage limit described in subsection (b)(3) of this section for the year exceeds the deductible described in subsection (b)(1) of this section for the year; and
 
@@ -208,7 +208,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 #### (2) Disclosure
 
-&emsp;A PDP sponsor offering a prescription drug plan or an MA organization offering an MA–PD plan shall disclose to the Secretary (in a manner specified by the Secretary) the aggregate negotiated price concessions described in paragraph (1)(B) made available to the sponsor or organization by a manufacturer which are passed through in the form of lower subsidies, lower monthly beneficiary prescription drug premiums, and lower prices through pharmacies and other dispensers. The provisions of section 1396r–8(b)(3)(D) of this title apply to information disclosed to the Secretary under this paragraph.
+&emsp;A PDP sponsor offering a prescription drug plan or an MA organization offering an MA–PD plan shall disclose to the Secretary (ina manner specified by the Secretary) the aggregate negotiated price concessions described in paragraph (1)(B) made available to the sponsor or organization by a manufacturer which are passed through in the form of lower subsidies, lower monthly beneficiary prescription drug premiums, and lower prices through pharmacies and other dispensers. The provisions of section 1396r–8(b)(3)(D) of this title apply to information disclosed to the Secretary under this paragraph.
 
 #### (3) Audits
 
@@ -268,7 +268,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 &emsp;&emsp;For purposes of applying subparagraph (A)(ii), the Secretary shall revise the list of compendia described in section 1396r–8(g)(1)(B)(i) of this title as is appropriate for identifying medically accepted indications for drugs. Any such revision shall be done in a manner consistent with the process for revising compendia under section 1395x(t)(2)(B) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–2, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2075; amended Pub. L. 109–91, title I, §103(a), Oct. 20, 2005, 119 Stat. 2092; Pub. L. 109–432, div. B, title II, §202(b), Dec. 20, 2006, 120 Stat. 2986; Pub. L. 110–275, title I, §§175(a), 182(a)(1), July 15, 2008, 122 Stat. 2581, 2583.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–2, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2075; amended Pub. L. 109–91, titleI, §103(a), Oct. 20, 2005, 119 Stat. 2092; Pub. L. 109–432, div. B, title II, §202(b), Dec. 20, 2006, 120 Stat. 2986; Pub. L. 110–275, title I, §§175(a), 182(a)(1), July 15, 2008, 122 Stat. 2581, 2583.)
 
 #### References in Text
 

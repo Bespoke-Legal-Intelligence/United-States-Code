@@ -42,7 +42,7 @@
 
 &emsp;(9) the debtor has filed all applicable Federal, State, and local tax returns as required by section 1308.
 
-> For purposes of paragraph (5), section 506 shall not apply to a claim described in that paragraph if the creditor has a purchase money security interest securing the debt that is the subject of the claim, the debt was incurred within the 910-day preceding the date of the filing of the petition, and the collateral for that debt consists of a motor vehicle (as defined in section 30102 oftitle 49) acquired for the personal use of the debtor, or if collateral for that debt consists of any other thing of value, if the debt was incurred during the 1-year period preceding that filing.
+> For purposes of paragraph (5), section 506 shall not apply to a claim described in that paragraph if the creditor has a purchase money security interest securing the debt that is the subject of the claim, the debt was incurred within the 910-day preceding the date of the filing of the petition, and the collateral for that debt consists of a motor vehicle (as defined in section 30102 of title 49) acquired for the personal use of the debtor, or if collateral for that debt consists of any other thing of value, if the debt was incurred during the 1-year period preceding that filing.
 
 (b)(1) If the trustee or the holder of an allowed unsecured claim objects to the confirmation of the plan, then the court may not approve the plan unless, as of the effective date of the plan—
 
@@ -50,7 +50,7 @@
 
 &emsp;(B) the plan provides that all of the debtor's projected disposable income to be received in the applicable commitment period beginning on the date that the first payment is due under the plan will be applied to make payments to unsecured creditors under the plan.
 
-(2) For purposes of this subsection, the term “disposable income” means current monthly income received by the debtor (other than child support payments, foster care payments, or disability payments for a dependent child made in accordance with applicable nonbankruptcy law to the extent reasonably necessary to be expended for such child) less amounts reasonably necessary to be expended—
+(2) For purposes of this subsection, the term “disposable income” means current monthly income received by the debtor (other than child support payments, foster care payments, or disability payments for a dependent child made in accordance with applicable nonbankruptcy lawto the extent reasonably necessary to be expended for such child) less amounts reasonably necessary to be expended—
 
 &emsp;(A)(i) for the maintenance or support of the debtor or a dependent of the debtor, or for a domestic support obligation, that first becomes payable after the date the petition is filed; and
 
@@ -94,7 +94,7 @@ Section 1325(a)(5)(B) of the House amendment modifies the House bill and Senate 
 
 #### senate report no. 95–989
 
-The bankruptcy court must confirm a plan if (1) the plan satisfies the provisions of chapter 13 and other applicable provisions of title 11; (2) it is proposed in goodfaith; (3) it is in the best interests of creditors, and defined by subsection (a)(4) of Section 1325; (4) it has been accepted by the holder of each allowed secured claim provided for the plan or where the holder of any such secured claim is to receive value under the plan not less than the amount of the allowed secured claim, or where the debtor surrenders to the holder the collateral securing any such allowed secured claim; (5) the plan is feasible; and (6) the requisite fees and charges have been paid.
+The bankruptcy court must confirm a plan if (1) the plan satisfies the provisions of chapter 13 and other applicable provisions of title 11; (2) it is proposed in good faith; (3) it is in the best interests of creditors, and defined by subsection (a)(4) of Section 1325; (4) it has been accepted by the holder of each allowed secured claim provided for the plan or where the holder of any such secured claim is to receive value under the plan not less than the amount of the allowed secured claim, or where the debtor surrenders to the holder the collateral securing any such allowed secured claim; (5) the plan is feasible; and (6) the requisite fees and charges have been paid.
 
 Subsection (b) authorizes the court to order an entity, as defined by Section 101(15), to pay any income of the debtor to the trustee. Any governmental unit is an entity subject to such an order.
 

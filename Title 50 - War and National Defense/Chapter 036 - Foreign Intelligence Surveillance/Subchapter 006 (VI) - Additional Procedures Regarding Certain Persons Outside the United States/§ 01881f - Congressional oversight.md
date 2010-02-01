@@ -26,7 +26,7 @@ Each report under subsection (a) shall include—
 
 &emsp;&emsp;&emsp;(i) with a directive issued by the Attorney General and the Director of National Intelligence under section 1881a(h) of this title, including incidents of noncompliance by a specified person to whom the Attorney General and Director of National Intelligence issued a directive under section 1881a(h) of this title; and
 
-&emsp;&emsp;&emsp;(ii) by an element of the intelligence community with procedures and guidelines adopted in accordance with subsections (d), (e), and (f) of section 1881a of this title; and
+&emsp;&emsp;&emsp;(ii) by an element of the intelligence community with procedures and guidelines adopted in accordance with subsections\(d), (e), and (f) of section 1881a of this title; and
 
 &emsp;&emsp;(H) any procedures implementing section 1881a of this title;
 

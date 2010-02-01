@@ -6,7 +6,7 @@ For purposes of this chapter—
 
 &emsp;(1) if it bears or contains any poisonous or deleterious substance which may render it injurious to health; but in case the substance is not an added substance, such article shall not be considered adulterated under this clause if the quantity of such substance in or on such article does not ordinarily render it injurious to health;
 
-&emsp;(2)(A) if it bears or contains any added poisonous or added deleterious substance (other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a foodadditive; or (iii) a color additive) which may, in the judgment of the Secretary, make such article unfit for human food;
+&emsp;(2)(A) if it bears or contains any added poisonous or added deleterious substance (other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive) which may, in the judgment of the Secretary, make such article unfit for human food;
 
 &emsp;(B) if it is, in whole or in part, a raw agricultural commodity and such commodity bears or contains a pesticide chemical which is unsafe within the meaning of section 346a of this title;
 
@@ -24,7 +24,7 @@ For purposes of this chapter—
 
 &emsp;(7) if it has been intentionally subjected to radiation, unless the use of the radiation was in conformity with a regulation or exemption in effect pursuant to section 348 of this title; or
 
-&emsp;(8) if any valuable constituent has been in whole or in part omitted or abstracted therefrom; or if any substance has been substituted, wholly or in part therefor; or if damage or inferiority has been concealed in any manner; or if any substance has been added thereto or mixed or packed therewith so as to increase its bulk or weight, or reduce its quality or strength, or make it appear better or of greater value than it is.
+&emsp;(8) if any valuable constituent has been in whole or in part omitted or abstracted therefrom; or if any substance has been substituted,wholly or in part therefor; or if damage or inferiority has been concealed in any manner; or if any substance has been added thereto or mixed or packed therewith so as to increase its bulk or weight, or reduce its quality or strength, or make it appear better or of greater value than it is.
 
 (b) The term “capable of use as human food” shall apply to any egg or egg product, unless it is denatured, or otherwise identified, as required by regulations prescribed by the Secretary to deter its use as human food.
 
@@ -66,7 +66,7 @@ For purposes of this chapter—
 
 (k) The term “inspector” means:
 
-&emsp;(1) any employee or official of the United States Government authorized to inspect eggsor egg products under the authority of this chapter; or
+&emsp;(1) any employee or official of the United States Government authorized to inspect eggs or egg products under the authority of this chapter; or
 
 &emsp;(2) any employee or official of the government of any State or local jurisdiction authorized by the Secretary to inspect eggs or egg products under the authority of this chapter, under an agreement entered into between the Secretary and the appropriate State or other agency.
 
@@ -84,7 +84,7 @@ For purposes of this chapter—
 
 (r) The term “official standards” means the standards of quality, grades, and weight classes for eggs, in effect upon the effective date of this chapter, or as thereafter amended, under the Agricultural Marketing Act of 1946 (60 Stat. 1087, as amended; 7 U.S.C. 1621 et seq.).
 
-(s) The term “pasteurize” means the subjecting of each particle of egg products to heat or other treatments to destroy harmful viable micro-organisms by such processes as may be prescribed by regulations of the Secretary.
+(s) The term “pasteurize” means the subjecting of each particle of egg products to heat orother treatments to destroy harmful viable micro-organisms by such processes as may be prescribed by regulations of the Secretary.
 
 (t) The term “person” means any individual, partnership, corporation, association, or other business unit.
 

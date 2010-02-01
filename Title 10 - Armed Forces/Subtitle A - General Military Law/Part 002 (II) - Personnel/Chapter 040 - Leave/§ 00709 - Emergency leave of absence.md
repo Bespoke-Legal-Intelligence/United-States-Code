@@ -16,7 +16,7 @@ Limitations.—An emergency leave of absence under this section—
 
 (c)
 
-Qualifying Emergency.—In this section, the term “qualifying emergency”, with respectto a member of the armed forces, means a circumstance that—
+Qualifying Emergency.—In this section, the term “qualifying emergency”, with respect to a member of the armed forces, means a circumstance that—
 
 &emsp;(1) is due to—
 
@@ -28,7 +28,7 @@ Qualifying Emergency.—In this section, the term “qualifying emergency”, wi
 
 (d)
 
-Military Department Regulations.—Regulations prescribed under this section by the Secretaries of the military department shall be as uniform as practicable and shall be subject to approval by the Secretary of Defense.
+Military Department Regulations.—Regulations prescribed under this section by the Secretaries of the military department shall beas uniform as practicable and shall be subject to approval by the Secretary of Defense.
 
 (e)
 

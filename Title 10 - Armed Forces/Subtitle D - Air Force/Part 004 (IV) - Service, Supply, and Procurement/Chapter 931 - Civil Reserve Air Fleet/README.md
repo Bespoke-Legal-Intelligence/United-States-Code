@@ -30,7 +30,7 @@ Prior section 9507, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale 
 
 #### Amendments
 
-2008—Pub. L. 110–417, \[div. A\], title X, §1033(b), Oct. 14, 2008, 122 Stat. 4593, which directed amendment of the analysis for chapter 941 of this title by adding item 9515 at end, was executed by adding item 9515 at end of this analysis to reflect the probable intent of Congress.
+2009—Pub. L. 111–84, div. A, title X, §1073(a)(32), Oct. 28, 2009, 123 Stat. 2474, transferred item 9515 from chapter 941 of this title to this chapter.
 
 1996—Pub. L. 104–201, div. A, title X, §1079(a)(2), Sept. 23, 1996, 110 Stat. 2669, added item 9514.
 

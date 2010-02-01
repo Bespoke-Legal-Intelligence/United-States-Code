@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish and maintain a program by which he may, upon application of a private lender, insure loans (including loansmade in accordance with a mortgage) made by such lender to finance any project for the preservation of a property included on the National Register.
+The Secretary shall establish and maintain a program by which he may, upon application of a private lender, insure loans (including loans made in accordance with a mortgage) made by such lender to finance any project for the preservation of a property included on the National Register.
 
 #### (b) Loan qualifications
 
@@ -48,7 +48,7 @@ In entering into any contract to insure a loan under this section, the Secretary
 
 (1) In any case in which a historic property is obtained pursuant to subsection (f) of this section, the Secretary shall attempt to convey such property to any governmental or nongovernmental entity under such conditions as will ensure the property's continued preservation and use; except that if, after a reasonable time, the Secretary, in consultation with the Advisory Council on Historic Preservation, determines that there is no feasible and prudent means to convey such property and to ensure its continued preservation and use, then the Secretary may convey the property at the fair market value of its interest in such property to any entity without restriction.
 
-(2) Any funds obtained by the Secretary in connection with the conveyance of any property pursuant to paragraph (1) shall be covered into the historic preservation fund, in addition to the amounts covered into such fund pursuant to section 470h of this title and subsection (i) of this section, and shall remain available in such fund until appropriated by the Congress to carry out the purposes of this subchapter.
+(2) Any funds obtained by the Secretary in connection with the conveyance of any propertypursuant to paragraph (1) shall be covered into the historic preservation fund, in addition to the amounts covered into such fund pursuant to section 470h of this title and subsection (i) of this section, and shall remain available in such fund until appropriated by the Congress to carry out the purposes of this subchapter.
 
 #### (h) Assessment of fees in connection with loans
 

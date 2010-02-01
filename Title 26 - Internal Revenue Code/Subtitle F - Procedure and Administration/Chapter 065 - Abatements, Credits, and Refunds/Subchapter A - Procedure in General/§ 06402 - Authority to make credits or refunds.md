@@ -10,7 +10,7 @@ The Secretary is authorized to prescribe regulations providing for the crediting
 
 #### (c) Offset of past-due support against overpayments
 
-The amount of any overpayment to be refunded to the person making the overpayment shall be reduced by the amount of any past-due support (as defined in section 464(c) of the Social Security Act) owed by that person of which the Secretary has been notified by a State in accordance with section 464 of the Social Security Act. The Secretary shall remit the amount by which the overpayment is so reduced to the State collecting such support and notify the person making the overpayment that so much of the overpayment as was necessary to satisfy his obligation for past-due support has been paid to the State. A reduction under this subsection shall be applied first to satisfy any past-due support which has been assigned to the State under section 402(a)(26) <sup>2</sup> or 471(a)(17) of the Social Security Act, and shall be applied to satisfy any other past-due support after any other reductions allowed by law (but before a credit against future liability for an internal revenue tax) have been made. This subsection shall be applied to an overpayment prior to its being credited to a person's future liability for an internal revenue tax.
+The amount of any overpayment to be refunded to the person making the overpayment shall be reduced by the amount of any past-due support (as defined in section 464(c) of the Social Security Act) owed by that person of which the Secretary has been notified by a State in accordance with section 464 of of <sup>2</sup> such Act. The Secretary shall remit the amount by which the overpayment is so reduced to the State collecting such support and notify the person making the overpayment that so much of the overpayment as was necessary to satisfy his obligation for past-due support has been paid to the State. The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law. This subsection shall be applied to an overpayment prior to its being credited to a person's future liability for an internal revenue tax.
 
 #### (d) Collection of debts owed to Federal agencies
 
@@ -26,7 +26,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 #### (2) Priorities for offset
 
-&emsp;Any overpayment by a person shall be reduced pursuant to this subsection after such overpayment is reduced pursuant to subsection (c) with respect to past-due support collected pursuant to an assignment under section 402(a)(26) <sup>2</sup> of the Social Security Act and before such overpayment is reduced pursuant to subsections (e) and (f) and before such overpayment is credited to the future liability for tax of such person pursuant to subsection (b). If the Secretary receives notice from a Federal agency or agencies of more than one debt subject to paragraph (1) that is owed by a person to such agency or agencies, any overpayment by such person shall be applied against such debts in the order in which such debts accrued.
+&emsp;Any overpayment by a person shall be reduced pursuant to this subsection after such overpayment is reduced pursuant to subsection (c) with respect to past-due support collected pursuant to an assignment under section 402(a)(26) <sup>3</sup> of the Social Security Act and before such overpayment is reduced pursuant to subsections (e) and (f) and before such overpayment is credited to the future liability for tax of such person pursuant to subsection (b). If the Secretary receives notice from a Federal agency or agencies of more than one debt subject to paragraph (1) that is owed by a person to such agency or agencies, any overpayment by such person shall be applied against such debts in the order in which such debts accrued.
 
 #### (3) Treatment of OASDI overpayments
 
@@ -186,7 +186,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may issue regulations prescribing the time and manner in which States must submit notices of covered unemployment compensation debt and the necessary information that must be containedin or accompany such notices. The regulations may specify the minimum amount of debt to which the reduction procedure established by paragraph (1) may be applied.
+&emsp;&emsp;The Secretary may issue regulations prescribing the time and manner in which States must submit notices of covered unemployment compensation debt and the necessary information that must be contained in or accompany such notices. The regulations may specify the minimum amount of debt to which the reduction procedure established by paragraph (1) may be applied.
 
 #### (B) Fee payable to Secretary
 
@@ -230,17 +230,9 @@ In the case of a disallowance of a claim for refund, the Secretary shall provide
 
 (Aug. 6, 1954, ch. 736, 68A Stat. 791; Pub. L. 94–455, title XIX, §1906(b)(13) (A), (K), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 97–35, title XXIII, §2331(c), Aug. 13, 1981, 95 Stat. 861; Pub. L. 98–369, div. B, title VI, §2653(b)(1), (2), July 18, 1984, 98 Stat. 1154, 1155; Pub. L. 98–378, §21(e), Aug. 16, 1984, 98 Stat. 1325; Pub. L. 100–647, title VI, §6276, Nov. 10, 1988, 102 Stat. 3753; Pub. L. 101–508, title V, §5129(c), Nov. 5, 1990, 104 Stat. 1388–288; Pub. L. 103–296, title I, §108(h)(7), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–134, title III, §31001(u)(2), Apr. 26, 1996, 110 Stat. 1321–375; Pub. L. 104–193, title I, §110(<i>l</i>)(7), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–206, title III, §§3505(a), 3711(a), (c), July 22, 1998, 112 Stat. 771, 779, 781; Pub. L. 109–171, title VII, §7301(d), Feb. 8, 2006, 120 Stat. 144; Pub. L. 110–328, §3(a), (d), Sept. 30, 2008, 122 Stat. 3570, 3573.)
 
-#### Amendment of Subsection (c)
-
-<i>Pub. L. 109–171, title VII, §7301(d), (e), Feb. 8, 2006, 120 Stat. 144, provided that, effective Oct. 1, 2009, and applicable to payments under parts A and D of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare, for calendar quarters beginning on or after such date, subject to certain State options, subsection (c) of this section is amended as follows:</i>
-
-<i>(1) in the first sentence, by striking “the Social Security Act.” and inserting “of such Act.”; and</i>
-
-<i>(2) by striking the third sentence and inserting the following: “The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due sup</i><i>port under section 464 of the Social Security Act before any other reductions allowed by law.”</i>
-
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (c), (d)(2), (3)(D), and (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 204, 464, and 471(a)(17) of the Act are classified to sections 404, 664, and 671(a)(17) of Title 42. Section 402 of the Act, which was classified to section 602 of Title 42, was repealed and a new section 402 enacted by Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112. As so enacted section 402 does not contain a subsec. (a)(26). For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c), (d)(2), (3)(D), and (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 204, 464, and 471(a)(17) of the Act are classified to sections 404, 664, and 671(a)(17) of Title 42. Section 402 of the Act, whichwas classified to section 602 of Title 42, was repealed and a new section 402 enacted by Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112. As so enacted section 402 does not contain a subsec. (a)(26). For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The date of the enactment of this subsection, referred to in subsec. (f)(8), is the date of enactment of Pub. L. 110–328, which was approved Sept. 30, 2008.
 
@@ -261,6 +253,8 @@ Subsec. (h). Pub. L. 110–328, §3(a), redesignated subsec. (g) as (h). Former 
 Subsec. (i). Pub. L. 110–328, §3(a), (d)(5), redesignated subsec. (h) as (i) and substituted “subsection (c), (e), or (f)” for “subsection (c) or (e)”. Former subsec. (i) redesignated (j).
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 110–328, §3(a), redesignated subsecs. (i) to (k) as (j) to (<i>l</i>), respectively.
+
+2006—Subsec. (c). Pub. L. 109–171 substituted “of such Act.” for “the Social Security Act.” in first sentence and “The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law.” for “A reduction under this subsection shall be applied first to satisfy any past-due support which has been assigned to the State under section 402(a)(26) or 471(a)(17) of the Social Security Act, and shall be applied to satisfy any other past-due support after any other reductions allowed by law (but before a credit against future liability for an internal revenue tax) have been made.” in third sentence.
 
 1998—Subsec. (a). Pub. L. 105–206, §3711(c)(1), substituted “(c), (d), and (e)” for “(c) and (d)”.
 
@@ -330,7 +324,7 @@ Amendment by Pub. L. 110–328 applicable to refunds payable under section 6402 
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective Oct. 1, 2009, and applicable to payments under parts A and D of subchapter IV of chapter 7 of Title 42, The Public Healthand Welfare, for calendar quarters beginning on or after such date, subject to certain State options, see section 7301(e) of Pub. L. 109–171, set out as a note under section 608 of Title 42.
+Amendment by Pub. L. 109–171 effective Oct. 1, 2009, and applicable to payments under parts A and D of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare, for calendar quarters beginning on or after such date, subject to certain State options, see section 7301(e) of Pub. L. 109–171, set out as a note under section 608 of Title 42.
 
 #### Effective Date of 1998 Amendment
 
@@ -410,5 +404,7 @@ Pub. L. 100–203, title IX, §9402(c), Dec. 22, 1987, 101 Stat. 1330–376, req
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

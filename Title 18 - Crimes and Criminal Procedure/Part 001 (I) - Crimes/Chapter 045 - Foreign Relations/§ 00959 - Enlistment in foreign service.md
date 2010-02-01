@@ -1,6 +1,6 @@
 ### §959. Enlistment in foreign service
 
-(a) Whoever, within the United States, enlists or enters himself, or hires or retains another to enlist or enter himself, or to go beyond the jurisdiction of the United States with intent to be enlisted or entered in the service of any foreign prince, state, colony, district, or people as a soldier or as a marine or seaman on board any vessel of war, letter of marque, or privateer, shall be fined under this title or imprisoned not more than three years, or both.
+(a) Whoever, within the United States, enlists or enters himself, or hires or retains another toenlist or enter himself, or to go beyond the jurisdiction of the United States with intent to be enlisted or entered in the service of any foreign prince, state, colony, district, or people as a soldier or as a marine or seaman on board any vessel of war, letter of marque, or privateer, shall be fined under this title or imprisoned not more than three years, or both.
 
 (b) This section shall not apply to citizens or subjects of any country engaged in war with a country with which the United States is at war, unless such citizen or subject of such foreign country shall hire or solicit a citizen of the United States to enlist or go beyond the jurisdiction of the United States with intent to enlist or enter the service of a foreign country. Enlistments under this subsection shall be under regulations prescribed by the Secretary of the Army.
 

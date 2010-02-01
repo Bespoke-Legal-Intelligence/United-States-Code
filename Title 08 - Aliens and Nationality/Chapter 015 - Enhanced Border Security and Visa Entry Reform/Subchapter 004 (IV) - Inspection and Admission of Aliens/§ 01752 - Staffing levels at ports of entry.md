@@ -1,6 +1,6 @@
 ### §1752. Staffing levels at ports of entry
 
-The Immigration and Naturalization Service shall staff ports of entry at such levels that would be adequate to meet traffic flow and inspection time objectives efficiently without compromising the safety and security of the United States. Estimated staffing levels under workforce models for the Immigration and Naturalization Service shall be based on the goal of providing immigration services described in section 1356(g) of this title within 45 minutes of a passenger's presentation for inspection.
+The Immigration and Naturalization Service shall staff ports of entry at such levels thatwould be adequate to meet traffic flow and inspection time objectives efficiently without compromising the safety and security of the United States. Estimated staffing levels under workforce models for the Immigration and Naturalization Service shall be based on the goal of providing immigration services described in section 1356(g) of this title within 45 minutes of a passenger's presentation for inspection.
 
 (Pub. L. 107–173, title IV, §403(b), May 14, 2002, 116 Stat. 559.)
 

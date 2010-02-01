@@ -114,7 +114,7 @@ Boundaries.—The National Capital Service Area is in the District of Columbia a
 
 &emsp;(2)
 
-Streets and sidewalks included.—Where the area in paragraph (1) is bounded bya street, the street, and any sidewalk of the street, are included in the area.
+Streets and sidewalks included.—Where the area in paragraph (1) is bounded by a street, the street, and any sidewalk of the street, are included in the area.
 
 &emsp;(3)
 
@@ -198,7 +198,7 @@ In subsection (c), the words “Notwithstanding the foregoing provisions of this
 
 #### References in Text
 
-Sections 9, 9A, 9B, 9C, and 14 of the Act of July 31, 1946, referred to in subsec. (b)(1)(B)(i), are classified tosections 1961, 1966, 1967, 1922, and 1969, respectively, of Title 2, The Congress.
+Sections 9, 9A, 9B, 9C, and 14 of the Act of July 31, 1946, referred to in subsec. (b)(1)(B)(i), are classified to sections 1961, 1966, 1967, 1922, and 1969, respectively, of Title 2, The Congress.
 
 The District of Columbia Home Rule Act, referred to in subsec. (c), is Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 774, as amended. For complete classification of this Act to the Code, see Tables.
 

@@ -30,7 +30,7 @@ Substantive Differences.—(1) Except as provided in subsection (c) of this sect
 
 Compliance With Section 5112(b)
 
-Regulations.—(1) Except as provided in paragraph (2) of this subsection, after the last day of the 2-year period beginning on the date a regulation is prescribed under section 5112(b) of this title, a State or Indian tribe may establish, maintain, or enforce a highway routing designation over which hazardous material may or may not be transported by motor vehicles, or a limitation or requirement related to highway routing, only if the designation, limitation, or requirement complies with section 5112(b).
+Regulations.—(1) Except as provided in paragraph (2) ofthis subsection, after the last day of the 2-year period beginning on the date a regulation is prescribed under section 5112(b) of this title, a State or Indian tribe may establish, maintain, or enforce a highway routing designation over which hazardous material may or may not be transported by motor vehicles, or a limitation or requirement related to highway routing, only if the designation, limitation, or requirement complies with section 5112(b).
 
 (2)(A) A highway routing designation, limitation, or requirement established before the date a regulation is prescribed under section 5112(b) of this title does not have to comply with section 5112(b)(1)(B), (C), and (F).
 
@@ -74,7 +74,7 @@ Application of Each Preemption Standard.—Each standard for preemption in subse
 
 (h)
 
-Non-Federal Enforcement Standards.—This section does not apply to any procedure,penalty, required mental state, or other standard utilized by a State, political subdivision of a State, or Indian tribe to enforce a requirement applicable to the transportation of hazardous material.
+Non-Federal Enforcement Standards.—This section does not apply to any procedure, penalty, required mental state, or other standard utilized by a State, political subdivision of a State, or Indian tribe to enforce a requirement applicable to the transportation of hazardous material.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 781; Pub. L. 103–311, title I, §§107, 117(a)(2), 120(b), Aug. 26, 1994, 108 Stat. 1674, 1678, 1681; Pub. L. 103–429, §6(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 107–296, title XVII, §1711(b), Nov. 25, 2002, 116 Stat. 2320; Pub. L. 109–59, title VII, §§7122, 7123(a), 7126, Aug. 10, 2005, 119 Stat. 1907, 1909; Pub. L. 110–244, title III, §302(c), June 6, 2008, 122 Stat. 1618.)
 

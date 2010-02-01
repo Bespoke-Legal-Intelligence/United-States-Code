@@ -46,7 +46,7 @@ Section 5 of Pub. L. 89–808 provided that: “This Act \[enacting sections 170
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–385, §1(a), Nov. 13, 1998, 112 Stat. 3460, provided that: “This Act \[amending sections 1736f–1 and 4001 of this title and section 1241f of Title 46, Appendix, Shipping, enacting provisions set out as notes under this section, section 1721 of this title, and section 2293 of Title 22, Foreign Relations and Intercourse, and amending provisions set out as a note under section 1736f–1 of this title\] may be cited as the ‘Africa: Seeds of Hope Act of 1998’.”
+Pub. L. 105–385, §1(a), Nov. 13, 1998, 112 Stat. 3460, provided that: “This Act \[amending sections 1736f–1 and 4001 of this title and section 1241f of Title 46, Appendix, Shipping, enacting provisions set out as notes under this section, section 1721 of this title, and section 2293 of Title 22, Foreign Relations and Intercourse, and amending provisions set out as a note under section1736f–1 of this title\] may be cited as the ‘Africa: Seeds of Hope Act of 1998’.”
 
 Pub. L. 105–385, title II, §211, Nov. 13, 1998, 112 Stat. 3465, provided that: “This subtitle \[subtitle B (§§211, 212) of title II of Pub. L. 105–385, amending sections 1736f–1 and 4001 of this title and section 1241f of Title 46, Appendix, Shipping, and amending provisions set out as a note under section 1736f–1 of this title\] may be cited as the ‘Bill Emerson Humanitarian Trust Act of 1998’.”
 
@@ -58,7 +58,7 @@ Pub. L. 102–532, §2, Oct. 27, 1992, 106 Stat. 3509, which enacted sections 17
 
 #### Short Title of 1990 Amendment
 
-Section 1501 of title XV of Pub. L. 101–624 provided that: “This title \[see Tables for classification\] may becited as the ‘Agricultural Development and Trade Act of 1990’.”
+Section 1501 of title XV of Pub. L. 101–624 provided that: “This title \[see Tables for classification\] may be cited as the ‘Agricultural Development and Trade Act of 1990’.”
 
 Section 1511 of Pub. L. 101–624 provided that: “This subtitle \[subtitle A (§§1511–1517) of title XV of Pub. L. 101–624, enacting sections 1706, 1736g–1 and 1737 to 1738m of this title and sections 1241g to 1241v of Appendix to Title 46, Shipping, amending this section and sections 1431, 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736g, 1736<i>o</i>, 1736bb–6 of this title, and section 1241f of Appendix to Title 46, and enacting provisions set out as notes under this section\] may be cited as the ‘Mickey Leland Food for Peace Act’.”
 
@@ -112,11 +112,11 @@ Subtitle C (§§1217–1224) of title XII of Pub. L. 97–98, as added Pub. L. 9
 
 #### Use of Nonprice-Supported Commodities
 
-Pub. L. 95–113, title XII, §1209, Sept. 29, 1977, 91 Stat. 957, provided that: “It is the sense of Congress that there be no discrimination between ‘price-supported’ and ‘nonprice-supported’ commodities in the programming of commodities under the Agricultural Trade Development and Assistance Act of 1954, as amended (Public Law 480) \[which enacted this chapter and amended sections 1427 and 1431 of this title\].”
+Pub. L. 95–113, title XII, §1209, Sept. 29, 1977, 91 Stat. 957, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that: “It is the sense of Congress that there be no discrimination between ‘price-supported’ and ‘nonprice-supported’ commodities in the programming of commodities under the Food for Peace Act, as amended (Public Law 480) \[which enacted this chapter and amended sections 1427 and 1431 of this title\].”
 
 #### Special Task Force
 
-Pub. L. 95–113, title XII, §1210, Sept. 29, 1977, 91 Stat. 957, required the Secretary of Agriculture, not later than eighteen months after Sept. 29, 1977, to appoint a special task force to review and report to Congress upon the administration of the Agricultural Trade Development and Assistance Act of 1954, 7 U.S.C. 1961 et seq.
+Pub. L. 95–113, title XII, §1210, Sept. 29, 1977, 91 Stat. 957, required the Secretary of Agriculture, not later than eighteen months after Sept. 29, 1977, to appoint a special task force to review and report to Congress upon the administration of the Agricultural Trade Development and Assistance Act of 1954 (now Food for Peace Act), 7 U.S.C. 1961 et seq.
 
 #### Executive Order No. 10560
 
@@ -124,7 +124,7 @@ Ex. Ord. No. 10560, Sept. 13, 1954, 19 F.R. 5927, as amended by Ex. Ord. No. 105
 
 #### Executive Order No. 10685
 
-Ex. Ord. No. 10685, Oct. 29, 1956, 21 F.R. 8261, which designated the International Cooperation Administration as the Federal agency to which funds required for ocean freight costs could be transferred by the Commodity Credit Corporation, was superseded by Ex. Ord.No. 10900, Jan. 5, 1961, 26 F.R. 143, formerly set out as a note under this section, and was revoked by section 1–502(b) of Ex. Ord. No. 12220, June 27, 1980, 45 F.R. 44247, formerly set out below.
+Ex. Ord. No. 10685, Oct. 29, 1956, 21 F.R. 8261, which designated the International Cooperation Administration as the Federal agency to which funds required for ocean freight costs could be transferred by the Commodity Credit Corporation, was superseded by Ex. Ord. No. 10900, Jan. 5, 1961, 26 F.R. 143, formerly set out as a note under this section, and was revoked by section 1–502(b) of Ex. Ord. No. 12220, June 27, 1980, 45 F.R. 44247, formerly set out below.
 
 #### Executive Order No. 10900
 
@@ -172,7 +172,7 @@ Sec. 4. <i>Delegation of Responsibilities</i>. (a) The function conferred upon t
 
 (b) The functions conferred upon the President by section 411 of the Agricultural Trade Development Act \[7 U.S.C. 1736e\] are hereby delegated to the Secretary, in consultation with the Council and the Department of the Treasury.
 
-(c) The functions conferred upon the President by section 412(c) of the Agricultural Trade Development Act \[7 U.S.C. 1736f(c)\] are hereby delegated to the Director, who shall consult with the Council on these functions.
+(c) The functions conferred upon the President by section 412(c) of the Agricultural Trade DevelopmentAct \[7 U.S.C. 1736f(c)\] are hereby delegated to the Director, who shall consult with the Council on these functions.
 
 (d) The functions conferred upon the President by title V of the Agricultural Trade Development Act \[7 U.S.C. 1737\] are hereby delegated to the Administrator.
 

@@ -84,7 +84,7 @@ Pub. L. 97–229, §1, Aug. 3, 1982, 96 Stat. 248, provided that: “This Act \[
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–35, title X, §1031, Aug. 13, 1981, 95 Stat. 618, provided that: “This subtitle \[subtitle C (§§1031–1038) oftitle X of Pub. L. 97–35, enacting section 6247 of this title, amending sections 6240, 6245, and 6246 of this title, and enacting provisions set out as notes under sections 6231, 6240, and 6247 of this title\] may be cited as the ‘Strategic Petroleum Reserve Amendments Act of 1981’.”
+Pub. L. 97–35, title X, §1031, Aug. 13, 1981, 95 Stat. 618, provided that: “This subtitle \[subtitle C (§§1031–1038) of title X of Pub. L. 97–35, enacting section 6247 of this title, amending sections 6240, 6245, and 6246 of this title, and enacting provisions set out as notes under sections 6231, 6240, and 6247 of this title\] may be cited as the ‘Strategic Petroleum Reserve Amendments Act of 1981’.”
 
 #### Short Title
 
@@ -134,7 +134,7 @@ Exchange.—The term ‘exchange’ means an agreement that—
 
 &emsp;“(4)
 
-Industry trade association.—The term ‘industry trade association’ means an organization described in paragraph (3) or (6) of section 501(c) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3), (6)\] that is exempt from taxation under section 501(a) of that Code and is organized for the purpose of representing the oilheat industry.
+Industry trade association.—The term ‘industry trade association’ means an organization described in paragraph (3) or (6) of section 501(c) of theInternal Revenue Code of 1986 \[26 U.S.C. 501(c)(3), (6)\] that is exempt from taxation under section 501(a) of that Code and is organized for the purpose of representing the oilheat industry.
 
 &emsp;“(5)
 
@@ -712,7 +712,7 @@ In general.—A public utility that is aggrieved by a violation described in sub
 
 &emsp;“(2)
 
-Transmittal to qualified state association.—A complaint shall be transmitted concurrently to any qualified State association undertaking theconsumer education activity with respect to which the complaint is made.
+Transmittal to qualified state association.—A complaint shall be transmitted concurrently to any qualified State association undertaking the consumer education activity with respect to which the complaint is made.
 
 &emsp;“(3)
 
@@ -794,7 +794,7 @@ Sec. 5. The Secretary of State is hereby delegated the authority vested in the P
 
 Sec. 6. The Secretary of Energy is designated and empowered to perform without approval, ratification, or other action by the President, the functions vested in the President by:
 
-(a) Section 251 of the Energy Policy and Conservation Act (89 Stat. 894, 42 U.S.C. 6271), except the making of the findings provided by subparagraph (b)(1)(B) thereof; however, in performing these functions, the Secretaryshall consult with the Secretary of Commerce with respect to the international allocation of petroleum products which are within the territorial jurisdiction of the United States; and <i>provided that</i> the Secretary of Commerce shall promulgate rules, pursuant to the procedures established by the Export Administration Act of 1969, as amended \[50 U.S.C. App. former 2401 et seq.\], to authorize the export of petroleum and petroleum products, as may be necessary for implementation of the obligations of the United States under the International Energy Program, and in accordance with the rules promulgated under Section 251 of the Energy Policy and Conservation Act by the Secretary pursuant to this subsection.
+(a) Section 251 of the Energy Policy and Conservation Act (89 Stat. 894, 42 U.S.C. 6271), except the making of the findings provided by subparagraph (b)(1)(B) thereof; however, in performing these functions, the Secretary shall consult with the Secretary of Commerce with respect to the international allocation of petroleum products which are within the territorial jurisdiction of the United States; and <i>provided that</i> the Secretary of Commerce shall promulgate rules, pursuant to the procedures established by the Export Administration Act of 1969, as amended \[50 U.S.C. App. former 2401 et seq.\], to authorize the export of petroleum and petroleum products, as may be necessary for implementation of the obligations of the United States under the International Energy Program, and in accordance with the rules promulgated under Section 251 of the Energy Policy and Conservation Act by the Secretary pursuant to this subsection.
 
 (b) Section 253(c) of the Energy Policy and Conservation Act (89 Stat. 898, 42 U.S.C. 6273);
 

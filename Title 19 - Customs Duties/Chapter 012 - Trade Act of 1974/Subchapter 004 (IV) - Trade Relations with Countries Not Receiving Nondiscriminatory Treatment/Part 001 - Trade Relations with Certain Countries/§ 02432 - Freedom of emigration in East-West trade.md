@@ -42,11 +42,11 @@ After January 3, 1975, (A) products of a nonmarket economy country may be eligib
 
 &emsp;(C) include, for each country with respect to which a waiver granted under subsection (c) of this section is in effect, a determination that continuation of the waiver applicable to that country will substantially promote the objectives of this section, and a statement setting forth his reasons for such determination.
 
-> If the President recommends the further extension of such authority, such authority shall continue in effect until the end of the 12-month period following the end of the previous 12-month extension with respect to any country (except for any country with respect to which such authority has not been extended under this subsection), unless a joint resolution described in section 2193(a) of this title is enacted into law pursuant to the provisions of paragraph (2).
+> If the President recommends the further extension of such authority, such authority shall continue in effect until the end of the 12-month period following the end of the previous 12-monthextension with respect to any country (except for any country with respect to which such authority has not been extended under this subsection), unless a joint resolution described in section 2193(a) of this title is enacted into law pursuant to the provisions of paragraph (2).
 
 (2)(A) The requirements of this paragraph are met if the joint resolution is enacted under the procedures set forth in section 2193 of this title, and—
 
-&emsp;(i) the Congress adopts and transmits the joint resolution to the President before theend of the 60-day period beginning on the date the waiver authority would expire but for an extension under paragraph (1), and
+&emsp;(i) the Congress adopts and transmits the joint resolution to the President before the end of the 60-day period beginning on the date the waiver authority would expire but for an extension under paragraph (1), and
 
 &emsp;(ii) if the President vetoes the joint resolution, each House of Congress votes to override such veto on or before the later of the last day of the 60-day period referred to in clause (i) or the last day of the 15-day period (excluding any day described in section 2194(b) of this title) beginning on the date the Congress receives the veto message from the President.
 
@@ -96,11 +96,11 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Extension of waiver authority.—
 
-&emsp;“(A) The amendments made by subsections (a) and (c)(4) and (5) \[amending this section and sections 2192 and 2193 of this title\] apply with respect to recommendations made under section 402(d) of the Trade Act of 1974 \[subsec. (d) of this section\] by the President after May 23, 1990.
+&emsp;“(A) The amendments made by subsections (a) and (c)(4) and (5) \[amending this section and sections 2192 and 2193 of this title\] apply with respect to recommendations made under section 402(d) of the TradeAct of 1974 \[subsec. (d) of this section\] by the President after May 23, 1990.
 
 &emsp;“(B) Solely for purposes of applying the applicable provisions of the Trade Act of 1974 \[this chapter\] with respect to the recommendations made by the President to the House of Representatives and the Senate under subsection (d) of section 402 of the Trade Act of 1974 after May 23, 1990, and on or before the date of the enactment of this Act—
 
-&emsp;&emsp;“(i) in paragraph (2)(A)(i) of subsection (d) of such section 402 (as amended by subsection (a)), the date on which the waiver authority granted under subsection (c) of such section 402 would expire but foran extension under paragraph (1) of such subsection (d) is the date of the enactment of this Act;
+&emsp;&emsp;“(i) in paragraph (2)(A)(i) of subsection (d) of such section 402 (as amended by subsection (a)), the date on which the waiver authority granted under subsection (c) of such section 402 would expire but for an extension under paragraph (1) of such subsection (d) is the date of the enactment of this Act;
 
 &emsp;&emsp;“(ii) paragraph (2)(A)(ii) of subsection (d) of such section 402 (as amended by subsection (a)) shall be treated as reading as follows:
 
@@ -158,6 +158,8 @@ Ex. Ord. No. 13314, Aug. 8, 2003, 68 F.R. 48249.—Turkmenistan.
 
 Ex. Ord. No. 13437, June 28, 2007, 72 F.R. 36339.—Turkmenistan.
 
+Ex. Ord. No. 13510, July 1, 2009, 74 F.R. 32047.—Republic of Belarus.
+
 #### Presidential Determinations Relating to Waivers
 
 The following Presidential Determinations related to waivers or continuation of waivers for the countries listed:
@@ -212,7 +214,7 @@ Determination No. 92–31, June 3, 1992, 57 F.R. 24931.—Tajikistan and Turkmen
 
 Determination No. 93–23, May 28, 1993, 58 F.R. 31329.—People's Republic of China.
 
-Determination No. 93–25, June 2, 1993, 58 F.R. 33005.—Albania, Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Mongolia, Romania, Russia, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan.
+Determination No. 93–25, June 2, 1993, 58 F.R. 33005.—Albania, Armenia, Azerbaijan, Belarus, Georgia,Kazakhstan, Kyrgyzstan, Moldova, Mongolia, Romania, Russia, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan.
 
 Determination No. 94–26, June 2, 1994, 59 F.R. 31103.—People's Republic of China.
 
@@ -273,4 +275,6 @@ Determination No. 2004–33, June 3, 2004, 69 F.R. 32431.—Republic of Belarus.
 Determination No. 2004–34, June 3, 2004, 69 F.R. 32433.—Vietnam.
 
 Determination No. 2007–24, June 28, 2007, 72 F.R. 37421.—Turkmenistan.
+
+Determination No. 2009–22, July 1, 2009, 74 F.R. 32785.—Republic of Belarus.
 

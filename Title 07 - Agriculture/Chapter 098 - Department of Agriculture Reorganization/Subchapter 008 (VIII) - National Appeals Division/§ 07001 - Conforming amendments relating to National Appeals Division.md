@@ -26,7 +26,7 @@
 
 #### (3) Recovery of amounts
 
-&emsp;If the decision of the State, county, or area committee has become final under paragraph (2), no action may be taken by the Farm Service Agency, the Commodity Credit Corporation, or a State, county, or area committee to recover amounts found to have been disbursed as a result of a decision in error unless the participant had reason to believe that the decision was erroneous.
+&emsp;If the decision of the State, county, or area committee has become final under paragraph (2), no action may be taken by the Farm Service Agency, the Commodity Credit Corporation, or a State, county, or area committee to recover amounts found to have been disbursedas a result of a decision in error unless the participant had reason to believe that the decision was erroneous.
 
 #### (4) Savings provision
 

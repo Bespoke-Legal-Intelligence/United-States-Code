@@ -18,7 +18,7 @@ A hearing officer may dismiss any claim that the hearing officer finds to be fri
 
 #### (1) Appointment
 
-&emsp;Upon the filing of a complaint, the Executive Director shall appoint an independent hearing officer to consider the complaint and render a decision. No Member of the House of Representatives, Senator, officer of either the House of Representatives or the Senate, head of an employing office, member of the Board, or covered employee may be appointed to be a hearing officer. The Executive Director shall select hearing officers on a rotational or random basis from the lists developed under paragraph (2). Nothing in this section shall prevent the appointment of hearing officers as full-time employees of the Office or the selection of hearing officers on the basis of specialized expertise needed for particular matters.
+&emsp;Upon the filing of a complaint, the Executive Director shall appoint an independent hearing officer to consider the complaint and render a decision. No Member of the House of Representatives, Senator, officer of either the House of Representatives or the Senate, head of an employing office, member of the Board, or covered employee may be appointed to be a hearing officer. The Executive Director shall select hearing officers on a rotational or random basis from the lists developed under paragraph (2). Nothing in this section shall prevent the appointment of hearing officers as full-time employees of the Office or the selectionof hearing officers on the basis of specialized expertise needed for particular matters.
 
 #### (2) Lists
 

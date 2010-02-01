@@ -40,7 +40,7 @@ The President is authorized to furnish assistance, on such terms and conditions 
 
 &emsp;(4) programs designed to help solve special development problems in the poorest countries and to make possible proper utilization of infrastructure and related projects funded with earlier United States assistance; and
 
-&emsp;(5) programs of urban development, with particular emphasis on small, labor intensiveenterprises, marketing systems for small producers, and financial and other institutions which enable the urban poor to participate in the economic and social development of their country.
+&emsp;(5) programs of urban development, with particular emphasis on small, labor intensive enterprises, marketing systems for small producers, and financial and other institutions which enable the urban poor to participate in the economic and social development of their country.
 
 #### (e) Authorization of appropriations
 
@@ -52,7 +52,7 @@ The President is authorized to furnish assistance, on such terms and conditions 
 
 Of the amounts authorized to be appropriated to carry out this part, $5,000,000 for fiscal year 1986 and $5,000,000 for fiscal year 1987 shall be used to finance cooperative projects among the United States, Israel, and developing countries.
 
-(Pub. L. 87–195, pt. I, §106, as added Pub. L. 94–161, title III, §306(2), Dec. 20, 1975, 89 Stat. 858; amended Pub. L. 95–88, title I, §105, Aug. 3, 1977, 91 Stat. 535; Pub. L. 95–424, title I, §106, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §§104(b), 105, Aug. 14, 1979, 93 Stat. 360, 362; Pub. L. 96–533, title III, §304(b)–(f), Dec. 16, 1980, 94 Stat. 3146; Pub. L. 97–113, title III, §304, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 99–83, title III, §307, title XII, §1211(a)(2), Aug. 8, 1985, 99 Stat. 215, 279.)
+(Pub. L. 87–195, pt. I, §106, as added Pub. L. 94–161, title III, §306(2), Dec. 20, 1975, 89 Stat. 858;amended Pub. L. 95–88, title I, §105, Aug. 3, 1977, 91 Stat. 535; Pub. L. 95–424, title I, §106, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §§104(b), 105, Aug. 14, 1979, 93 Stat. 360, 362; Pub. L. 96–533, title III, §304(b)–(f), Dec. 16, 1980, 94 Stat. 3146; Pub. L. 97–113, title III, §304, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 99–83, title III, §307, title XII, §1211(a)(2), Aug. 8, 1985, 99 Stat. 215, 279.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 

@@ -90,7 +90,7 @@ An action of an executive agency under subsection (a) or (b) of this section—
 
 &emsp;(ii) whether the executive agency will consider granting such a waiver, and, if the executive agency will consider granting a waiver, the criteria to be used in granting the waiver.
 
-(C) An executive agency shall make the final determination regarding whether to grant awaiver under subparagraph (A) with respect to a covered contract before award of the contract.
+(C) An executive agency shall make the final determination regarding whether to grant a waiver under subparagraph (A) with respect to a covered contract before award of the contract.
 
 (3) The provisions of the Federal Acquisition Regulation implementing this section may establish appropriate definitions, exclusions, limitations, and qualifications. Any submission by a contractor of costs which are incurred by the contractor and which are claimed to be allowable under Department of Energy management and operating contracts shall be considered a “proposal for settlement of indirect costs incurred by the contractor for any period after such costs have been accrued”, as used in this section.
 
@@ -170,7 +170,7 @@ In a proceeding before a board of contract appeals, the United States Court of F
 
 (2) A disposition referred to in paragraph (1)(B) is any of the following:
 
-&emsp;(A) In the case of a criminal proceeding, a conviction (including a conviction pursuant to a plea of nolo contendere) by reason of the violation or failure referred to in paragraph (1).
+&emsp;(A) In the case of a criminal proceeding, a conviction (including a conviction pursuant toa plea of nolo contendere) by reason of the violation or failure referred to in paragraph (1).
 
 &emsp;(B) In the case of a civil or administrative proceeding involving an allegation of fraud or similar misconduct, a determination of contractor liability on the basis of the violation or failure referred to in paragraph (1).
 
@@ -299,4 +299,38 @@ Definitions.—In this section:
 “(c)
 
 Effective Date.—Any amendments to the Federal Acquisition Regulation made pursuant to subsection (a) shall apply with respect to costs incurred after the date on which the amendments made by section 2101 apply (as provided in section 10001) \[set out as an Effective Date of 1994 Amendment note under section 251 of this title\]) or the date on which the amendments made by section 2151 apply (as provided in section 10001), whichever is later.”
+
+#### Ex. Ord. No. 13494. Economy in Government Contracting
+
+Ex. Ord. No. 13494, Jan. 30, 2009, 74 F.R. 6101, as amended by Ex. Ord. No. 13517, §2, Oct. 30, 2009, 74 F.R. 57239, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act, 40 U.S.C. 101 <i>et seq</i>., it is hereby ordered that:
+
+Section 1. To promote economy and efficiency in Government contracting, certain costs that are not directly related to the contractors’ provision of goods and services to the Government shall be unallowable for payment, thereby directly reducing Government expenditures. This order is also consistent with the policy of the United States to remain impartial concerning any labor-management dispute involving Government contractors. This order does not restrict the manner in which recipients of Federal funds may expend those funds.
+
+Sec. 2. It is the policy of the executive branch in procuring goods and services that, to ensure the economical and efficient administration of Government contracts, contracting departments and agencies, when they enter into, receive proposals for, or make disbursements pursuant to a contract as to which certain costs are treated as unallowable, shall treat as unallowable the costs of any activities undertaken to persuade employees—whether employees of the recipient of the Federal disbursements or of any other entity—to exercise or not to exercise, or concerning the manner of exercising, the right to organize and bargain collectively through representatives of the employees’ own choosing. Such unallowable costs shall be excluded from any billing, claim, proposal, or disbursement applicable to any such Federal Government contract.
+
+Sec. 3. Contracting departments and agencies shall treat as allowable costs incurred in maintaining satisfactory relations between the contractor and its employees (other than the costs of any activities undertaken to persuade employees to exercise or not to exercise, or concerning the manner of exercising, the right to organize and bargain collectively), including costs of labor management committees, employee publications, and other related activities. See 48 C.F.R. 31.205–21.
+
+Sec. 4. Examples of costs unallowable under section 2 of this order include the costs of the following activities, when they are undertaken to persuade employees to exercise or not to exercise, or concern the manner of exercising, rights to organize and bargain collectively:
+
+(a) preparing and distributing materials;
+
+(b) hiring or consulting legal counsel or consultants;
+
+(c) holding meetings (including paying the salaries of the attendees at meetings held for this purpose); and
+
+(d) planning or conducting activities by managers, supervisors, or union representatives during work hours.
+
+Sec. 5. Within 150 days of the effective date of this order, the Federal Acquisition Regulatory Council (FAR Council) shall adopt such rules and regulations and issue such orders as are deemed necessary and appropriate to carry out this order. Such rules, regulations, and orders shall minimize the costs of compliance for contractors and shall not interfere with the ability of contractors to engage in advocacy through activities for which they do not claim reimbursement.
+
+Sec. 6. Each contracting department or agency shall cooperate with the FAR Council and provide such information and assistance as the FAR Council may require in the performance of its functions under this order.
+
+Sec. 7. (a) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 8. This order shall become effective immediately, and shall apply to contracts resulting from solicitations issued on or after the effective date of the action taken by the FAR Council under section 5 of this order.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

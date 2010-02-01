@@ -26,7 +26,7 @@ Punishment.—The punishment for an offense under this section is—
 
 (d)
 
-Mandatory Restitution.—Upon a conviction under this section, the court shall orderrestitution under section 3663A in an amount equal to the total unpaid support obligation as it exists at the time of sentencing.
+Mandatory Restitution.—Upon a conviction under this section, the court shall order restitution under section 3663A in an amount equal to the total unpaid support obligation as it exists at the time of sentencing.
 
 (e)
 

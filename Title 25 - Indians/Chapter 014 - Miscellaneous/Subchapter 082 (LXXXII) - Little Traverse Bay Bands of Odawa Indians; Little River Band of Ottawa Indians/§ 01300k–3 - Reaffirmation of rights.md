@@ -6,7 +6,7 @@ All rights and privileges of the Bands, and their members thereof, which may hav
 
 #### (b) Existing rights of Bands
 
-Nothing in this subchapter shall be construed to diminish any right or privilege of the Bands, or of their members, that existed prior to September 21, 1994. Except as otherwise specifically provided in any other provision of this subchapter, nothing in this subchapter shall be construed as altering or affecting any legal or equitable claim the Bands might have to enforce any right or privilege reserved by or granted to the Bands which were wrongfully denied to or taken from the Bands prior to September 21, 1994.
+Nothing in this subchapter shall be construed to diminish any right or privilege of the Bands,or of their members, that existed prior to September 21, 1994. Except as otherwise specifically provided in any other provision of this subchapter, nothing in this subchapter shall be construed as altering or affecting any legal or equitable claim the Bands might have to enforce any right or privilege reserved by or granted to the Bands which were wrongfully denied to or taken from the Bands prior to September 21, 1994.
 
 (Pub. L. 103–324, §5, Sept. 21, 1994, 108 Stat. 2158; Pub. L. 104–109, §2(a), Feb. 12, 1996, 110 Stat. 763.)
 

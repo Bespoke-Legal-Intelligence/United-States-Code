@@ -100,7 +100,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of subtitle A, in the case of a gift loan directly between individuals, the amount treated as retransferred by the borrower to the lender as of the close of any year shall not exceed the borrower's net investment income for such year.
+&emsp;&emsp;For purposes of subtitle A, in the case of a gift loan directly between individuals, theamount treated as retransferred by the borrower to the lender as of the close of any year shall not exceed the borrower's net investment income for such year.
 
 #### (B) Limitation not to apply where 1 of principal purposes is tax avoidance
 
@@ -108,7 +108,7 @@
 
 #### (C) Special rule where more than 1 gift loan outstanding
 
-&emsp;&emsp;For purposes of subparagraph (A), in any case in which a borrower has outstandingmore than 1 gift loan, the net investment income of such borrower shall be allocated among such loans in proportion to the respective amounts which would be treated as retransferred by the borrower without regard to this paragraph.
+&emsp;&emsp;For purposes of subparagraph (A), in any case in which a borrower has outstanding more than 1 gift loan, the net investment income of such borrower shall be allocated among such loans in proportion to the respective amounts which would be treated as retransferred by the borrower without regard to this paragraph.
 
 #### (D) Limitation not to apply where aggregate amount of loans exceed $100,000
 
@@ -214,7 +214,7 @@ For purposes of this section—
 
 #### (10) Special rule for term loans
 
-&emsp;If this section applies to any term loan on any day, this section shall continue to applyto such loan notwithstanding paragraphs (2) and (3) of subsection (c). In the case of a gift loan, the preceding sentence shall only apply for purposes of chapter 12.
+&emsp;If this section applies to any term loan on any day, this section shall continue to apply to such loan notwithstanding paragraphs (2) and (3) of subsection (c). In the case of a gift loan, the preceding sentence shall only apply for purposes of chapter 12.
 
 #### (11) Time for determining rate applicable to employee relocation loans
 
@@ -384,7 +384,7 @@ Subsec. (f)(11), (12). Pub. L. 100–647, §1018(u)(48), redesignated former par
 
 Subsec. (f)(2)(B). Pub. L. 99–514, §1812(b)(4), inserted “, compounded semiannually” before the period at end.
 
-Subsec. (f)(5). Pub. L. 99–514, §1812(b)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘demand loan’ means any loan which is payable in full at any time on the demand of the lender. Such term also includes (for purposes other than determining the applicable Federal rate under paragraph (2)) any loan which is not transferable and the benefits of the interest arrangements of which isconditioned on the future performance of substantial services by an individual.”
+Subsec. (f)(5). Pub. L. 99–514, §1812(b)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘demand loan’ means any loan which is payable in full at any time on the demand of the lender. Such term also includes (for purposes other than determining the applicable Federal rate under paragraph (2)) any loan which is not transferable and the benefits of the interest arrangements of which is conditioned on the future performance of substantial services by an individual.”
 
 Subsec. (f)(9). Pub. L. 99–514, §1812(b)(2), amended par. (9) generally, inserting the subpar. (A) designation and adding subpar. (B).
 
@@ -488,11 +488,11 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Certain Israel or Polish Bonds Not Subject to Rules Relating to Below-Market Loans
 
-Section 1812(b)(5) of Pub. L. 99–514, as amended by Pub. L. 101–179, title III, §307(a), Nov. 28, 1989, 103 Stat. 1314, provided that: “Section 7872 of the Internal Revenue Code of 1954 \[now 1986\] (relating to treatment of loans with below-market interest rates) shall not apply to any obligation issued by Israel or Poland if—
+Section 1812(b)(5) of Pub. L. 99–514, as amended by Pub. L. 101–179, title III, §307(a), Nov. 28, 1989, 103 Stat.1314, provided that: “Section 7872 of the Internal Revenue Code of 1954 \[now 1986\] (relating to treatment of loans with below-market interest rates) shall not apply to any obligation issued by Israel or Poland if—
 
 &emsp;“(A) the obligation is payable in United States dollars, and
 
 &emsp;“(B) the obligation bears interest at an annual rate of not less than 4 percent.”
 
-\[Section 307(b) of Pub. L. 101–179 provided that: “The amendments made by this section \[amending section1812(b)(5) of Pub. L. 99–514, set out above\] shall apply to obligations issued after the date of the enactment of this Act \[Nov. 28, 1989\].”\]
+\[Section 307(b) of Pub. L. 101–179 provided that: “The amendments made by this section \[amending section 1812(b)(5) of Pub. L. 99–514, set out above\] shall apply to obligations issued after the date of the enactment of this Act \[Nov. 28, 1989\].”\]
 

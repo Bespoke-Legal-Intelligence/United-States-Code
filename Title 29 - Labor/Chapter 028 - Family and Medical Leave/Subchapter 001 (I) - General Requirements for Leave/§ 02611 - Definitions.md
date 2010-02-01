@@ -22,11 +22,35 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(i) any Federal officer or employee covered under subchapter V of chapter 63 of title 5; or
 
-&emsp;&emsp;&emsp;(ii) any employee of an employer who is employed at a worksite at which such employer employs less than 50 employees if the total number of employees employed by that employer within 75 miles of that worksite is less than 50.
+&emsp;&emsp;&emsp;(ii) any employee of an employer who is employed at a worksite at which such employer employs less than 50 employees if the total number of employees employedby that employer within 75 miles of that worksite is less than 50.
 
 #### (C) Determination
 
 &emsp;&emsp;For purposes of determining whether an employee meets the hours of service requirement specified in subparagraph (A)(ii), the legal standards established under section 207 of this title shall apply.
+
+#### (D) Airline flight crews
+
+#### (i) Determination
+
+&emsp;&emsp;&emsp;For purposes of determining whether an employee who is a flight attendant or flight crewmember (as such terms are defined in regulations of the Federal Aviation Administration) meets the hours of service requirement specified in subparagraph (A)(ii), the employee will be considered to meet the requirement if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the employee has worked or been paid for not less than 60 percent of the applicable total monthly guarantee, or the equivalent, for the previous 12-month period, for or by the employer with respect to whom leave is requested under section 2612 of this title; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the employee has worked or been paid for not less than 504 hours (not counting personal commute time or time spent on vacation leave or medical or sick leave) during the previous 12-month period, for or by that employer.
+
+#### (ii) File
+
+&emsp;&emsp;&emsp;Each employer of an employee described in clause (i) shall maintain on file with the Secretary (in accordance with such regulations as the Secretary may prescribe) containing information specifying the applicable monthly guarantee with respect to each category of employee to which such guarantee applies.
+
+#### (iii) Definition
+
+&emsp;&emsp;&emsp;In this subparagraph, the term “applicable monthly guarantee” means—
+
+&emsp;&emsp;&emsp;&emsp;(I) for an employee described in clause (i) other than an employee on reserve status, the minimum number of hours for which an employer has agreed to schedule such employee for any given month; and
+
+&emsp;&emsp;&emsp;&emsp;(II) for an employee described in clause (i) who is on reserve status, the number of hours for which an employer has agreed to pay such employee on reserve status for any given month,
+
+&emsp;&emsp;&nbsp;as established in the applicable collective bargaining agreement or, if none exists, in the employer's policies.
 
 #### (3) Employ; employee; State
 
@@ -92,7 +116,7 @@ As used in this subchapter:
 
 #### (12) Son or daughter
 
-&emsp;The term “son or daughter” means a biological, adopted, or foster child, a stepchild, a legal ward, or a child of a person standing in loco parentis, who is—
+&emsp;The term “son or daughter” means a biological, adopted, or foster child, a stepchild, alegal ward, or a child of a person standing in loco parentis, who is—
 
 &emsp;&emsp;(A) under 18 years of age; or
 
@@ -102,19 +126,23 @@ As used in this subchapter:
 
 &emsp;The term “spouse” means a husband or wife, as the case may be.
 
-#### (14) Active duty
+#### (14) Covered active duty
 
-&emsp;The term “active duty” means duty under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10.
+&emsp;The term “covered active duty” means—
 
-#### (15) Contingency operation
+&emsp;&emsp;(A) in the case of a member of a regular component of the Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country; and
 
-&emsp;The term “contingency operation” has the same meaning given such term in section 101(a)(13) of title 10.
+&emsp;&emsp;(B) in the case of a member of a reserve component of the Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10.
 
-#### (16) Covered servicemember
+#### (15) Covered servicemember
 
-&emsp;The term “covered servicemember” means a member of the Armed Forces, including a member of the National Guard or Reserves, who is undergoing medical treatment, recuperation, or therapy, is otherwise in outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness.
+&emsp;The term “covered servicemember” means—
 
-#### (17) Outpatient status
+&emsp;&emsp;(A) a member of the Armed Forces (including a member of the National Guard or Reserves) who is undergoing medical treatment, recuperation, or therapy, is otherwise in outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness; or
+
+&emsp;&emsp;(B) a veteran who is undergoing medical treatment, recuperation, or therapy, for a serious injury or illness and who was a member of the Armed Forces (including a member of the National Guard or Reserves) at any time during the period of 5 years preceding the date on which the veteran undergoes that medical treatment, recuperation, or therapy.
+
+#### (16) Outpatient status
 
 &emsp;The term “outpatient status”, with respect to a covered servicemember, means the status of a member of the Armed Forces assigned to—
 
@@ -122,17 +150,43 @@ As used in this subchapter:
 
 &emsp;&emsp;(B) a unit established for the purpose of providing command and control of members of the Armed Forces receiving medical care as outpatients.
 
-#### (18) Next of kin
+#### (17) Next of kin
 
 &emsp;The term “next of kin”, used with respect to an individual, means the nearest blood relative of that individual.
 
-#### (19) Serious injury or illness
+#### (18) Serious injury or illness
 
-&emsp;The term “serious injury or illness”, in the case of a member of the Armed Forces, including a member of the National Guard or Reserves, means an injury or illness incurred by the member in line of duty on active duty in the Armed Forces that may render the member medically unfit to perform the duties of the member's office, grade, rank, or rating.
+&emsp;The term “serious injury or illness”—
 
-(Pub. L. 103–3, title I, §101, Feb. 5, 1993, 107 Stat. 7; Pub. L. 104–1, title II, §202(c)(1)(A), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–181, div. A, title V, §585(a)(1), Jan. 28, 2008, 122 Stat. 128.)
+&emsp;&emsp;(A) in the case of a member of the Armed Forces (including a member of the National Guard or Reserves), means an injury or illness that was incurred by the member in line of duty on active duty in the Armed Forces (or existed before the beginning of the member's active duty and was aggravated by service in line of duty on active duty in the Armed Forces) and that may render the member medically unfit to perform the duties of the member's office, grade, rank, or rating; and
+
+&emsp;&emsp;(B) in the case of a veteran who was a member of the Armed Forces (including a member of the National Guard or Reserves) at any time during a period described in paragraph (15)(B), means a qualifying (as defined by the Secretary of Labor) injury or illness that was incurred by the member in line of duty on active duty in the Armed Forces (or existed before the beginning of the member's active duty and was aggravated by service in line of duty on active duty in the Armed Forces) and that manifested itself before or after the member became a veteran.
+
+#### (19) Veteran
+
+&emsp;The term “veteran” has the meaning given the term in section 101 of title 38.
+
+(Pub. L. 103–3, title I, §101, Feb. 5, 1993, 107 Stat. 7; Pub. L. 104–1, title II, §202(c)(1)(A), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–181, div. A, title V, §585(a)(1), Jan. 28, 2008, 122 Stat. 128; Pub. L. 111–84, div. A, title V, §565(a)(1)(A), (2), (3), Oct. 28, 2009, 123 Stat. 2309, 2310; Pub. L. 111–119, §2(a), Dec. 21, 2009, 123 Stat. 3476.)
 
 #### Amendments
+
+2009—Par. (2)(D). Pub. L. 111–119 added subpar. (D).
+
+Par. (14). Pub. L. 111–84, §565(a)(1)(A)(i), added par. (14) and struck out former par. (14). Prior to amendment, text read as follows: “The term ‘active duty’ means duty under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10.”
+
+Par. (15). Pub. L. 111–84, §565(a)(2), amended par. (15) generally. Prior to amendment, text read as follows: “The term ‘covered servicemember’ means a member of the Armed Forces, including a member of the National Guard or Reserves, who is undergoing medical treatment, recuperation, or therapy, is otherwise in outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness.”
+
+Pub. L. 111–84, §565(a)(1)(A)(ii), redesignated par. (16) as (15) and struck out former par. (15). Prior to amendment, text read as follows: “The term ‘contingency operation’ has the same meaning given such term in section 101(a)(13) of title 10.”
+
+Pars. (16), (17). Pub. L. 111–84, §565(a)(1)(A)(ii), redesignated pars. (17) and (18) as (16) and (17), respectively. Former par. (16) redesignated (15).
+
+Par. (18). Pub. L. 111–84, §565(a)(3), added par. (18) and struck out former par. (18). Prior to amendment, text read as follows: “The term ‘serious injury or illness’, in the case of a member of the Armed Forces, including a member of the National Guard or Reserves, means an injury or illness incurred by the member in line of duty on active duty in the Armed Forces that may render the member medically unfit to perform the duties of the member's office, grade, rank, or rating.”
+
+Pub. L. 111–84, §565(a)(1)(A)(ii), redesignated par. (19) as (18). Former par. (18) redesignated (17).
+
+Par. (19). Pub. L. 111–84, §565(a)(3), added par. (19).
+
+Pub. L. 111–84, §565(a)(1)(A)(ii), redesignated par. (19) as (18).
 
 2008—Pars. (14) to (19). Pub. L. 110–181 added pars. (14) to (19).
 
@@ -142,9 +196,13 @@ As used in this subchapter:
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–1 effective one year after transmission to Congress of the study under section 1371 of Title 2, The Congress, see section 1312(e)(2) of Title 2. The study required under section 1371 of Title 2, dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
+Amendment by Pub. L. 104–1 effective one year after transmission to Congress of the study under section1371 of Title 2, The Congress, see section 1312(e)(2) of Title 2. The study required under section 1371 of Title 2, dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
 
 #### Effective Date
 
 Subchapter effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, subchapter applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under section 2601 of this title.
+
+#### Regulations
+
+Pub. L. 111–84, div. A, title V, §565(a)(5), Oct. 28, 2009, 123 Stat. 2311, provided that: “In prescribing regulations to carry out the amendments made by this subsection \[amending this section and sections 2612 and 2613 of this title\], the Secretary of Labor shall consult with the Secretary of Defense and the Secretary of Veterans Affairs, as applicable.”
 

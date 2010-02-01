@@ -16,7 +16,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### (3) Reviewability
 
-&emsp;The action of any officer, employee, or agent of the Secretary in carrying out this section (including determining the amount of and making any payment authorized to be made under this chapter) shall not be subject to review by any officer or employee of the FederalGovernment other than the Secretary or the designee of the Secretary.
+&emsp;The action of any officer, employee, or agent of the Secretary in carrying out this section (including determining the amount of and making any payment authorized to be made under this chapter) shall not be subject to review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
 
 #### (c) Use of funds
 

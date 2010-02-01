@@ -20,35 +20,21 @@ With respect to any individual subject to relocation, the Secretary shall take s
 
 (1) <sup>1</sup> Lands partitioned pursuant to this subchapter, whether or not the partition order is subject to appeal, shall be subject to the jurisdiction of the tribe to whom partitioned and the laws of such tribe shall apply to such partitioned lands under the following schedule:
 
-&emsp;(A) Effective ninety days after July 8, 1980, all conservation practices, including grazing control and range restoration activities, shall be coordinated and executed with the concurrence of the tribe to whom the particular lands in question have been partitioned, and all such grazing and range restoration matters on the Navajo Reservation lands shall be administered by the Bureau of Indian Affairs Navajo Area Office and on the Hopi Reservation lands by the Bureau of Indian Affairs Phoenix Area Office, under applicable laws and regulations.
+&emsp;(A) Effective ninety days after July 8, 1980, all conservation practices, including grazing control and range restoration activities, shall be coordinated and executed with the concurrence of the tribe to whom the particular lands in question have been partitioned, and all such grazing and range restoration matterson the Navajo Reservation lands shall be administered by the Bureau of Indian Affairs Navajo Area Office and on the Hopi Reservation lands by the Bureau of Indian Affairs Phoenix Area Office, under applicable laws and regulations.
 
 &emsp;(B) Notwithstanding any provision of law to the contrary, each tribe shall have such jurisdiction and authority over any lands partitioned to it and all persons located thereon, not in conflict with the laws and regulations referred to in paragraph (A) above, to the same extent as is applicable to those other portions of its reservation. Such jurisdiction and authority over partitioned lands shall become effective April 18, 1981.
 
 > The provisions of this subsection shall be subject to the responsibility of the Secretary to protect the rights and property of life tenants and persons awaiting relocation as provided in subsections (c) and (d) of this section.
 
-#### (f) Development of lands in litigation; exception
-
-(1) Any development of lands in litigation pursuant to section 640d–7 of this title and further defined as “that portion of the Navajo Reservation lying west of the Executive Order Reservation of 1882 and bounded on the north and south by westerly extensions, to the reservation line, of the northern and southern boundaries of said Executive Order Reservation,” shall be carried out only upon the written consent of each tribe except for the limited areas around the village of Moenkopi and around Tuba City. Each such area has been heretofore designated by the Secretary. “Development” as used herein shall mean any new construction or improvement to the property and further includes public work projects, power and water lines, public agency improvements, and associated rights-of-way.
-
-(2) Each Indian tribe which receives a written request for the consent of the Indian tribe to a particular improvement, construction, or other development on the lands to which paragraph (1) applies shall respond in writing to such request by no later than the date that is 30 days after the date on which the Indian tribe receives the request. If the Indian tribe refuse to consent to the improvement, construction, or other development, the response shall include the reasons why consent is being refused.
-
-(3)(A) Paragraph (1) shall not apply to any improvement, construction, or other development if—
-
-&emsp;(i) such improvement, construction, or development does not involve new housing construction, and
-
-&emsp;(ii) after the Navajo Tribe or Hopi Tribe has refused to consent to such improvement, construction, or development (or after the close of the 30-day period described in paragraph (2), if the Indian tribe does not respond within such period in writing to a written request for such consent), the Secretary of the Interior determines that such improvement, construction, or development is necessary for the health or safety of the Navajo Tribe, the Hopi Tribe, or any individual who is a member of either tribe.
-
-(B) If a written request for a determination described in subparagraph (A)(ii) is submitted tothe Secretary of the Interior after the Navajo Tribe or Hopi Tribe has refused to consent to any improvement, construction, or development (or after the close of the 30-day period described in paragraph (2), if the Indian tribe does not respond within such period in writing to a written request for such consent), the Secretary shall, by no later than the date that is 45 days after the date on which such request is submitted to the Secretary, determine whether such improvement, construction, or development is necessary for the health or safety of the Navajo Tribe, the Hopi Tribe, or any individual who is a member of either Tribe.
-
-(C) Any development that is undertaken pursuant to this section shall be without prejudice to the rights of the parties in the civil action pending before the United States District Court for the District of Arizona commenced pursuant to section 640d–7 of this title, as amended.
-
-(Pub. L. 93–531, §10, Dec. 22, 1974, 88 Stat. 1716; Pub. L. 96–305, §3, July 8, 1980, 94 Stat. 929; Pub. L. 100–666, §6, Nov. 16, 1988, 102 Stat. 3932.)
+(Pub. L. 93–531, §10, Dec. 22, 1974, 88 Stat. 1716; Pub. L. 96–305, §3, July 8, 1980, 94 Stat. 929; Pub. L. 100–666, §6, Nov. 16, 1988, 102 Stat. 3932; Pub. L. 111–18, §1, May 8, 2009, 123 Stat. 1611.)
 
 #### References in Text
 
 Act of June 14, 1934, referred to in subsec. (a), is act June 14, 1934, ch. 521, 48 Stat. 960, which was not classified to the Code.
 
 #### Amendments
+
+2009—Subsec. (f). Pub. L. 111–18 struck out subsec. (f), which related to development of lands in litigation.
 
 1988—Subsec. (f). Pub. L. 100–666 designated existing provisions as par. (1) and added pars. (2) and (3).
 

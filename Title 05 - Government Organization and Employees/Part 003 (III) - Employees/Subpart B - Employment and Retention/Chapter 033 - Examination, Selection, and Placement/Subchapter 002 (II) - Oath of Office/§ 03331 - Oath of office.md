@@ -20,7 +20,7 @@ R.S. §1757.
 
 May 13, 1884, ch. 46, §§2, 3, 23 Stat. 22.
 
-All but the quoted language in R.S. §1757 is omitted as obsolete since R.S. §1757 was originally an alternative oath to the oath prescribed in R.S. §1756 whichoath was repealed by the Act of May 13, 1884, ch. 46, §2, 23 Stat. 22. The words “An individual, except the President, . . . in the civil service or uniformed services” are substituted for “any person . . . either in the civil, military, or naval service, except the President of the United States”. The second sentence of former section 16 is changed to read, “This section does not affect other oaths required by law.”.
+All but the quoted language in R.S. §1757 is omitted as obsolete since R.S. §1757 was originally an alternative oath to the oath prescribed in R.S. §1756 which oath was repealed by the Act of May 13, 1884, ch. 46, §2, 23 Stat. 22. The words “An individual, except the President, . . . in the civil service or uniformed services” are substituted for “any person . . . either in the civil, military, or naval service, except the President of the United States”. The second sentence of former section 16 is changed to read, “This section does not affect other oaths required by law.”.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

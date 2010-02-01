@@ -22,7 +22,7 @@ The Secretary may—
 
 1975—Subsec. (a). Pub. L. 94–63, §202(c), revised structure of provisions, inserted authorization for Secretary to conduct research, and struck out authority for grants and contracts in research training in specified fields.
 
-Subsec. (b). Pub. L. 94–63, §§202(c), 701(d), revised structure of provisions and substituted provisions relating to authorization of appropriations for fiscalyears 1976 and 1977 and availability of appropriated funds, for provisions authorizing appropriations for fiscal years ending June 30, 1971, through fiscal year ending June 30, 1975.
+Subsec. (b). Pub. L. 94–63, §§202(c), 701(d), revised structure of provisions and substituted provisions relating to authorization of appropriations for fiscal years 1976 and 1977 and availability of appropriated funds, for provisions authorizing appropriations for fiscal years ending June 30, 1971, through fiscal year ending June 30, 1975.
 
 1973—Subsec. (b). Pub. L. 93–45 inserted provisions authorizing appropriations for fiscal year ending June 30, 1974.
 

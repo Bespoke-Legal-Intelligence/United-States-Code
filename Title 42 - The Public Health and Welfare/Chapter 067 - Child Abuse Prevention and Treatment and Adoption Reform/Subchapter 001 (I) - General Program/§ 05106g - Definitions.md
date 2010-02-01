@@ -14,7 +14,7 @@ For purposes of this subchapter—
 
 &emsp;(4) the term “sexual abuse” includes—
 
-&emsp;&emsp;(A) the employment, use, persuasion, inducement, enticement, or coercion of anychild to engage in, or assist any other person to engage in, any sexually explicit conduct or simulation of such conduct for the purpose of producing a visual depiction of such conduct; or
+&emsp;&emsp;(A) the employment, use, persuasion, inducement, enticement, or coercion of any child to engage in, or assist any other person to engage in, any sexually explicit conduct or simulation of such conduct for the purpose of producing a visual depiction of such conduct; or
 
 &emsp;&emsp;(B) the rape, and in cases of caretaker or inter-familial relationships, statutory rape, molestation, prostitution, or other form of sexual exploitation of children, or incest with children;
 

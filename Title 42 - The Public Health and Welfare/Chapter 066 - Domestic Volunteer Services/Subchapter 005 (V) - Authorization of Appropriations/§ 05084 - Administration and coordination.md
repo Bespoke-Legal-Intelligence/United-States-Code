@@ -2,15 +2,17 @@
 
 #### (a) In general
 
-For each of the fiscal years 1994 through 1996, there are authorized to be appropriated for the administration of this chapter as provided for in subchapter IV of this chapter, 18 percent of the total amount appropriated under sections 5081 and 5082 of this title with respect to such year.
+For each of the fiscal years 2010 through 2014, there are authorized to be appropriated for the administration of this chapter as provided for in subchapter IV of this chapter, 18 percent of the total amount appropriated under sections 5081 and 5082 of this title with respect to such year.
 
 #### (b) Evaluation
 
-For each of the fiscal years 1994 through 1996, the Director is authorized to expend not less than 21/2 percent, and not more than 5 percent, of the amount appropriated under subsection (a) of this section, for the purposes prescribed in section 5056 of this title.
+For each of the fiscal years 2010 through 2014, the Director is authorized to expend not less than 21/2 percent, and not more than 5 percent, of the amount appropriated under subsection (a) of this section, for the purposes prescribed in section 5056 of this title.
 
-(Pub. L. 93–113, title V, §504, Oct. 1, 1973, 87 Stat. 416; Pub. L. 94–293, §6(c), May 27, 1976, 90 Stat. 526; Pub. L. 96–143, §15(c), Dec. 13, 1979, 93 Stat. 1082; Pub. L. 97–35, title VI, §607(c), Aug. 13, 1981, 95 Stat. 487; Pub. L. 98–288, §29, May 21, 1984, 98 Stat. 197; Pub. L. 99–551, §9(e), Oct. 27, 1986, 100 Stat. 3077; Pub. L. 99–570, title IV, §4301(3), Oct. 27, 1986, 100 Stat. 3207–153; Pub. L. 101–204, title VIII, §803, Dec. 7, 1989, 103 Stat. 1824; Pub. L. 103–82, title III, §383, Sept. 21, 1993, 107 Stat. 915.)
+(Pub. L. 93–113, title V, §504, Oct. 1, 1973, 87 Stat. 416; Pub. L. 94–293, §6(c), May 27, 1976, 90 Stat. 526; Pub. L. 96–143, §15(c), Dec. 13, 1979, 93 Stat. 1082; Pub. L. 97–35, title VI, §607(c), Aug. 13, 1981, 95 Stat. 487; Pub. L. 98–288, §29, May 21, 1984, 98 Stat. 197; Pub. L. 99–551, §9(e), Oct. 27, 1986, 100 Stat. 3077; Pub. L. 99–570, title IV, §4301(3), Oct. 27, 1986, 100 Stat. 3207–153; Pub. L. 101–204, title VIII, §803, Dec. 7, 1989, 103 Stat. 1824; Pub. L. 103–82, title III, §383, Sept. 21, 1993, 107 Stat. 915; Pub. L. 111–13, title II, §2161(c), Apr. 21, 2009, 123 Stat. 1593.)
 
 #### Amendments
+
+2009—Pub. L. 111–13 substituted “fiscal years 2010 through 2014” for “fiscal years 1994 through 1996” in subsecs. (a) and (b).
 
 1993—Pub. L. 103–82 amended section generally. Prior to amendment, section read as follows:
 
@@ -31,6 +33,10 @@ Pub. L. 99–551 substituted “$25,312,000 for each of the fiscal years 1987, 1
 1979—Pub. L. 96–143 inserted “September 30, 1979, September 30, 1980, and September 30, 1981,” after “September 30, 1978,”.
 
 1976—Pub. L. 94–293 inserted “September 30, 1977, and September 30, 1978,” after “June 30, 1976,”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 
 #### Effective Date of 1993 Amendment
 

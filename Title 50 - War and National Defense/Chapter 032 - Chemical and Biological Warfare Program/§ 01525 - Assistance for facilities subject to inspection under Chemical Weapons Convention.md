@@ -12,7 +12,7 @@ The Secretary may provide assistance under subsection (a) of this section only t
 
 In this section:
 
-&emsp;(1) The terms “Chemical Weapons Convention” and “Convention” mean the Conventionon the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, ratified by the United States on April 25, 1997, and entered into force on April 29, 1997.
+&emsp;(1) The terms “Chemical Weapons Convention” and “Convention” mean the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, ratified by the United States on April 25, 1997, and entered into force on April 29, 1997.
 
 &emsp;(2) The term “facility that is subject to a routine inspection” means a declared facility, as defined in paragraph 15 of part X of the Annex on Implementation and Verification of the Convention.
 
@@ -24,5 +24,5 @@ In this section:
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1998, and not as part of Pub. L. 91–121, title IV, §409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1998, and not as partof Pub. L. 91–121, title IV, §409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 

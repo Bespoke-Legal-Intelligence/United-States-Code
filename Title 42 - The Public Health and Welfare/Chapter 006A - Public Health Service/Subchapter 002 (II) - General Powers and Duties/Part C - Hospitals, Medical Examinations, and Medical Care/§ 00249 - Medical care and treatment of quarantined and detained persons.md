@@ -62,7 +62,7 @@ Section 988 of Pub. L. 97–35 provided that:
 
 &emsp;“(2) the end of the first 60-day consecutive period (beginning after September 30, 1981) during the entire period of which the individual is not an inpatient of a hospital.
 
-“(c) Notwithstanding any other provision of law, the head of any Federal department or agency which provides, under other authority of law and through federal facilities, inpatient hospital services or outpatient services, or both, is authorized to provide inpatient hospital services (and related outpatient services) to individuals under contract or other arrangement with the Secretary pursuant to this section.”
+“(c) Notwithstanding any other provision of law, the head of any Federal department or agency which provides, under other authority of law and through federalfacilities, inpatient hospital services or outpatient services, or both, is authorized to provide inpatient hospital services (and related outpatient services) to individuals under contract or other arrangement with the Secretary pursuant to this section.”
 
 #### Foreign Seamen
 

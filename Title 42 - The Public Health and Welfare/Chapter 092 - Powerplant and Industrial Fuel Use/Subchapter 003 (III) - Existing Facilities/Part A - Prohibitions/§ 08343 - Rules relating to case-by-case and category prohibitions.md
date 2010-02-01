@@ -36,5 +36,5 @@ Subsec. (b)(1). Pub. L. 100–42, §1(c)(9)(D), amended par. (1) generally. Prio
 
 Subsec. (b)(2). Pub. L. 100–42, §1(c)(9)(A), struck out “or installation” after “powerplant”.
 
-Subsec. (b)(3). Pub. L. 100–42, §1(c)(9)(A), (E), struck out “or installations” after “powerplants” in two places in introductory provisions, and amended last sentence generally. Prior to amendment, last sentence read as follows: “Any such rules shall not apply in thecase of any existing electric powerplant with respect to which a comparable prohibition was issued by order.”
+Subsec. (b)(3). Pub. L. 100–42, §1(c)(9)(A), (E), struck out “or installations” after “powerplants” in two places in introductory provisions, and amended last sentence generally. Prior to amendment, last sentence read as follows: “Any such rules shall not apply in the case of any existing electric powerplant with respect to which a comparable prohibition was issued by order.”
 

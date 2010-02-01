@@ -38,7 +38,7 @@
 
 &emsp;(B) Within 90 days of November 16, 1990, and as appropriate thereafter, the Administrator shall publish in the Federal Register an announcement of appointments of Directors of the Board. At the same time, the Administrator shall transmit a copy of such announcement to the Education and Labor Committee and the Committee on Energy and Commerce of the House of Representatives and the Committee on Environment and Public Works of the United States Senate. Such appointments shall become final and effective 90 days after publication in the Federal Register.
 
-&emsp;(C) The directors shall be appointed for terms of 4 years, except that the Administrator, in making the initial appointments to the Board, shall appoint 5 directors to a term of 2 years, 4 directors to a term of 3 years, and 4 directors to a term of 4 years. The Administrator shall appoint an individual to serve as a director in the event of a vacancy on the Board within 60 days of said vacancy in the manner in which the original appointment was made. No individual may serve more than 2 consecutive terms as a director.
+&emsp;(C) The directors shall be appointed for terms of 4 years, except that the Administrator, in making the initial appointments to the Board, shall appoint 5 directors to a term of 2 years, 4 directors to a term of 3 years, and 4 directors to a term of 4 years. The Administrator shall appoint an individual to serve asa director in the event of a vacancy on the Board within 60 days of said vacancy in the manner in which the original appointment was made. No individual may serve more than 2 consecutive terms as a director.
 
 #### (3) Chair
 
@@ -98,7 +98,7 @@
 
 #### (3) Powers
 
-&emsp;To carry out its purposes under subsection (a) of this section, the Foundation shall have,in addition to the powers otherwise given it under this section, the usual powers of a corporation acting as a trustee, including the power—
+&emsp;To carry out its purposes under subsection (a) of this section, the Foundation shall have, in addition to the powers otherwise given it under this section, the usual powers of a corporation acting as a trustee, including the power—
 
 &emsp;&emsp;(A) to accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, either absolutely or in trust, of real or personal property or any income therefrom or other interest therein;
 
@@ -120,7 +120,7 @@
 
 &emsp;(A) is contingent upon the transmission by the Foundation of materials or information prepared by the donor or a third party in such a fashion as to convey a particular point of view favorable to the economic interests of the donor or its constituents or associates; or
 
-&emsp;(B) in the judgment of the Board carries with it an explicit or implied requirement on the part of the Foundation to do a specific act or make general representations which are to the benefit of the donor and which are not consistent with the environmental and education goals and policies of the Environmental Protection Agency and with the intents and purposes of this chapter.
+&emsp;(B) in the judgment of the Board carries with it an explicit or implied requirement on the part of the Foundation to do a specific actor make general representations which are to the benefit of the donor and which are not consistent with the environmental and education goals and policies of the Environmental Protection Agency and with the intents and purposes of this chapter.
 
 (3) No materials bearing “logos”, letterhead or other means of identification associated with a donor or third party may be transmitted by the Foundation, for use in environmental education and training except as required pursuant to subsection (f) of this section.
 
@@ -160,7 +160,7 @@ In subsec. (h), “section 10101 of title 36” substituted for “the Act entit
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

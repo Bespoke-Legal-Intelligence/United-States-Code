@@ -26,7 +26,7 @@ The Congress finds and declares that—
 
 &emsp;&emsp;(G) other international agreements; and
 
-&emsp;(5) encouraging the States and other interested parties, through Federal financial assistance and a system of incentives, to develop and maintain conservation programs which meet national and international standards is a key to meeting the Nation's international commitments and to better safeguarding, for the benefit of all citizens, the Nation's heritage in fish, wildlife, and plants.
+&emsp;(5) encouraging the States and other interested parties, through Federal financial assistance and a system of incentives, to develop and maintain conservation programs which meet national and international standards is a key to meeting the Nation's internationalcommitments and to better safeguarding, for the benefit of all citizens, the Nation's heritage in fish, wildlife, and plants.
 
 #### (b) Purposes
 

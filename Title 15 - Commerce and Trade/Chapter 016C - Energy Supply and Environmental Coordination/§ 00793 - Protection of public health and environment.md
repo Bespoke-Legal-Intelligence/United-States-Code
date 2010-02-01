@@ -2,7 +2,7 @@
 
 #### (a) Distribution of low sulfur fuel
 
-Any allocation program provided for in section 792 of this title or in the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\],<sup>1</sup> shall, to the maximum extent practicable,include measures to assure that available low sulfur fuel will be distributed on a priority basis to those areas of the United States designated by the Administrator of the Environmental Protection Agency as requiring low sulfur fuel to avoid or minimize adverse impact on public health.
+Any allocation program provided for in section 792 of this title or in the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\],<sup>1</sup> shall, to the maximum extent practicable, include measures to assure that available low sulfur fuel will be distributed on a priority basis to those areas of the United States designated by the Administrator of the Environmental Protection Agency as requiring low sulfur fuel to avoid or minimize adverse impact on public health.
 
 #### (b) Study of chronic effects of sulfur oxide emissions among exposed populations
 
@@ -22,7 +22,7 @@ In order to expedite the prompt construction of facilities for the importation o
 
 #### References in Text
 
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of this title, was omittedfrom the Code pursuant to section 760g of this title, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
 
 Section 119 of the Clean Air Act \[42 U.S.C. 1857c–10\], referred to in subsec. (b), was repealed by Pub. L. 95–95, §112(b)(1), Aug. 7, 1977, 91 Stat. 709, which is set out as a Compliance Orders note under section 792 of this title. A new section 119 of the Clean Air Act was added by Pub. L. 95–95, §117(b), and is classified to section 7419 of Title 42, The Public Health and Welfare.
 

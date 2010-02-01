@@ -16,7 +16,7 @@ Factors for Secretary To Consider.—(1) Factors to be considered by the Secreta
 
 (2) For purposes of paragraph (1)(B), an appropriate educational program is a program that, as determined by the Secretary, is comparable to a program of free public education provided for children by the following local educational agencies:
 
-&emsp;(A) In the case of a military installation located in a State (other than an installation referred to in subparagraph (B)), local educational agencies in the State that are similarto the local educational agency referred to in paragraph (1)(B).
+&emsp;(A) In the case of a military installation located in a State (other than an installation referred to in subparagraph (B)), local educational agencies in the State that are similar to the local educational agency referred to in paragraph (1)(B).
 
 &emsp;(B) In the case of a military installation with boundaries contiguous to two or more States, local educational agencies in the contiguous States that are similar to the local educational agency referred to in paragraph (1)(B).
 
@@ -38,7 +38,7 @@ Eligibility of Dependents of Federal Employees.—(1)(A) A dependent of a Federa
 
 (d)
 
-School Boards.—(1) The Secretary of Defense shall provide for the establishment of a school board for Department of Defense elementary and secondary schools established at each military installation under this section. The Secretary may provide for the establishment of one school board for all such schools in the Commonwealth of Puerto Rico and one school board for all such schools in Guam instead of one school board for each military installation in those locations.
+School Boards.—(1) The Secretary of Defense shall provide for the establishment of a school board for Department of Defense elementary and secondary schools established at each military installation under this section. TheSecretary may provide for the establishment of one school board for all such schools in the Commonwealth of Puerto Rico and one school board for all such schools in Guam instead of one school board for each military installation in those locations.
 
 (2) The school board shall be composed of the number of members, not fewer than three, prescribed by the Secretary.
 
@@ -72,7 +72,7 @@ Administration and Staff.—(1) The Secretary of Defense may enter into such arr
 
 &emsp;(ii) the compensation of comparable employees in the local educational agency that provides public education to students who reside adjacent to the military installation; and
 
-&emsp;(iii) the average compensation for similar positions in not more than three other localeducational agencies in the State in which the military installation is located.
+&emsp;(iii) the average compensation for similar positions in not more than three other local educational agencies in the State in which the military installation is located.
 
 (B) In fixing the compensation of employees in schools established in the territories, commonwealths, and possessions pursuant to the authority of this section, the Secretary shall determine the level of compensation required to attract qualified employees. For employees in such schools, the Secretary, without regard to the provisions of title 5, may provide for the tenure, leave, hours of work, and other incidents of employment to be similar to that provided for comparable positions in the public schools of the District of Columbia. For purposes of the first sentence, a school established before the effective date of this section pursuant to authority similar to the authority in this section shall be considered to have been established pursuant to the authority of this section.
 
@@ -130,7 +130,7 @@ Continuation of Enrollment Despite Change in Status.—(1) The Secretary of Defe
 
 (i)
 
-American Red Cross Employee Dependents in Puerto Rico.—(1) The Secretary may authorize the dependent of an American Red Cross employee described in paragraph (2) to enroll in an education program provided by the Secretary pursuant to subsection (a) in PuertoRico if the American Red Cross agrees to reimburse the Secretary for the educational services so provided.
+American Red Cross Employee Dependents in Puerto Rico.—(1) The Secretary may authorize the dependent of an American Red Cross employee described in paragraph (2) to enroll in an education program provided by the Secretary pursuant to subsection (a) in Puerto Rico if the American Red Cross agrees to reimburse the Secretary for the educational services so provided.
 
 (2) An employee referred to in paragraph (1) is an American Red Cross employee who—
 
@@ -142,7 +142,17 @@ American Red Cross Employee Dependents in Puerto Rico.—(1) The Secretary may a
 
 (4) Subsection (g) shall apply with respect to determining the reimbursement rates for educational services provided pursuant to this subsection. Amounts received as reimbursement for such educational services shall be treated in the same manner as amounts received under subsection (g).
 
-(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L. 104–106, div. A, title X, §1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, §1608, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–261, div. A, title III, §371(a)–(c)(2), Oct. 17, 1998, 112 Stat. 1988, 1989; Pub. L. 106–65, div. A, title III, §§352, 353, Oct. 5, 1999, 113 Stat. 572; Pub. L. 106–398, §1 \[\[div. A\], title III, §361\], Oct. 30, 2000, 114 Stat. 1654, 1654A–76; Pub. L. 108–446, title III, §305(a), Dec. 3, 2004, 118 Stat. 2804.)
+(j)
+
+Tuition-free Enrollment of Dependents of Foreign Military Personnel Residing on Domestic Military Installations and Dependents of Certain Deceased Members of the Armed Forces.—(1) The Secretary may authorize the enrollment in a Department of Defense education program provided by the Secretary pursuant to subsection (a) of a dependent not otherwise eligible for such enrollment who is the dependent of an individual described in paragraph (2). Enrollment of such a dependent shall be on a tuition-free basis.
+
+(2) An individual referred to in paragraph (1) is any of the following:
+
+&emsp;(A) A member of a foreign armed force residing on a military installation in the United States (including territories, commonwealths, and possessions of the United States).
+
+&emsp;(B) A deceased member of the armed forces who died in the line of duty in a combat-related operation, as designated by the Secretary.
+
+(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L. 104–106, div. A, title X, §1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, §1608, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–261, div. A, title III, §371(a)–(c)(2), Oct. 17, 1998, 112 Stat. 1988, 1989; Pub. L. 106–65, div. A, title III, §§352, 353, Oct. 5, 1999, 113 Stat. 572; Pub. L. 106–398, §1 \[\[div. A\], title III, §361\], Oct. 30, 2000, 114 Stat. 1654, 1654A–76; Pub. L. 108–446, title III, §305(a), Dec. 3, 2004, 118 Stat. 2804; Pub. L. 111–84, div. A, title V, §534, Oct. 28, 2009, 123 Stat. 2292.)
 
 #### References in Text
 
@@ -155,6 +165,8 @@ The Individuals with Disabilities Education Act, referred to in subsec. (f)(1), 
 Section 6(a) of Public Law 81–874 (20 U.S.C. 241(a)), referred to in subsec. (f)(2), was repealed by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
 
 #### Amendments
+
+2009—Subsec. (j). Pub. L. 111–84 added subsec. (j).
 
 2004—Subsec. (f)(1)(B). Pub. L. 108–446, §305(a)(1), substituted “infants or toddlers” for “infants and toddlers” in two places, “part C” for “part H”, and “1431 et seq.” for “1471 et seq.”.
 

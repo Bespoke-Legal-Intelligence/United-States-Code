@@ -30,7 +30,7 @@
 
 #### (4) No payments from special funds
 
-&emsp;Notwithstanding section 1880(c) of the Social Security Act (42 U.S.C. 1395qq(c)) or section 1642(a) of this title, no payment may be made out of the special funds described in such sections for the benefit of any hospital or clinic during the period that the hospital or clinic participates in the program established under this section.
+&emsp;Notwithstanding section 1880(c) of the Social Security Act (42 U.S.C. 1395qq(c)) or section 1642(a) of this title, no payment may be made out of the special funds described in such sections for the benefit of any hospital or clinicduring the period that the hospital or clinic participates in the program established under this section.
 
 #### (c) Requirements for participation
 
@@ -62,7 +62,7 @@
 
 #### (C) Duration
 
-&emsp;&emsp;An approval by the Secretary of a qualified application under subparagraph (A), or adeemed approval of a demonstration program under subparagraph (B), shall continue in effect as long as the approved applicant or the deemed approved demonstration program meets the requirements of this section.
+&emsp;&emsp;An approval by the Secretary of a qualified application under subparagraph (A), or a deemed approval of a demonstration program under subparagraph (B), shall continue in effect as long as the approved applicant or the deemed approved demonstration program meets the requirements of this section.
 
 #### (d) Examination and implementation of changes
 
@@ -94,7 +94,7 @@ The Indian Self-Determination Act, referred to in subsecs. (b)(1)(B) and (e), is
 
 #### Codification
 
-November 1, 2000, referred to in subsecs. (c)(2)(B) and (d)(2), was in the original “the date of enactment of the Alaska Native and American Indian Direct Reimbursement Act of 1999”, which was translated as meaning the date of enactment of Pub. L. 106–417, the Alaska Native and American Indian Direct Reimbursement Act of 2000, to reflect the probable intent of Congress.
+November 1, 2000, referred to in subsecs. (c)(2)(B) and (d)(2), was in the original “the date of enactment of theAlaska Native and American Indian Direct Reimbursement Act of 1999”, which was translated as meaning the date of enactment of Pub. L. 106–417, the Alaska Native and American Indian Direct Reimbursement Act of 2000, to reflect the probable intent of Congress.
 
 Section was formerly set out as a note under section 1395qq of Title 42, The Public Health and Welfare.
 
@@ -156,7 +156,7 @@ Subsec. (c)(2). Pub. L. 105–277 substituted “2000” for “1998”.
 
 1996—Subsec. (c)(2). Pub. L. 104–313 substituted “1998” for “1996”.
 
-1992—Subsec. (b)(1). Pub. L. 102–573, §701(c)(3)(A), substituted “sections 1642(a)” for “sections 402(c)” and made technical amendment to reference to section 1680c(b)(2)(A) to reflect renumbering of corresponding section of original act.
+1992—Subsec. (b)(1). Pub. L. 102–573, §701(c)(3)(A), substituted “sections 1642(a)” for “sections 402(c)” andmade technical amendment to reference to section 1680c(b)(2)(A) to reflect renumbering of corresponding section of original act.
 
 Subsec. (b)(4). Pub. L. 102–573, §701(c)(3)(B), substituted “section 1642(a)” for “section 402(c)” in two places.
 
@@ -182,7 +182,7 @@ Pub. L. 106–417, §2, Nov. 1, 2000, 114 Stat. 1812, provided that: “Congress
 
 &emsp;“(3) The success of the demonstration program confirms that the direct involvement of tribes and tribal organizations in the direct billing of, and collection of payments from, the medicare and medicaid programs, and other third party payor reimbursements, is more beneficial to Indian tribes than the current system of Indian Health Service-managed collections.
 
-&emsp;“(4) Allowing tribes and tribal organizations to directly manage their medicare and medicaid billingsand collections, rather than channeling all activities through the Indian Health Service, will enable the Indian Health Service to reduce its administrative costs, is consistent with the provisions of the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], and furthers the commitment of the Secretary to enable tribes and tribal organizations to manage and operate their health care programs.
+&emsp;“(4) Allowing tribes and tribal organizations to directly manage their medicare and medicaid billings and collections, rather than channeling all activities through the Indian Health Service, will enable the Indian Health Service to reduce its administrative costs, is consistent with the provisions of the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], and furthers the commitment of the Secretary to enable tribes and tribal organizations to manage and operate their health care programs.
 
 &emsp;“(5) The demonstration program was originally to expire on September 30, 1996, but was extended by Congress, so that the current participants would not experience an interruption in the program while Congress awaited a recommendation from the Secretary of Health and Human Services on whether to make the program permanent.
 

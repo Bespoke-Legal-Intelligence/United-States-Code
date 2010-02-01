@@ -18,7 +18,7 @@ In the case of a vacancy, the President may designate an officer or employee who
 
 #### (d) Compensation
 
-The Director shall be compensated at a rate of pay not to exceed the rate payable for level V ofthe Executive Schedule under section 5316 of title 5.
+The Director shall be compensated at a rate of pay not to exceed the rate payable for level V of the Executive Schedule under section 5316 of title 5.
 
 (Pub. L. 90–351, title I, §2003, as added Pub. L. 107–273, div. A, title IV, §402(3), Nov. 2, 2002, 116 Stat. 1789.)
 
@@ -26,7 +26,7 @@ The Director shall be compensated at a rate of pay not to exceed the rate payabl
 
 This subchapter, referred to in subsec. (a), was in the original “this title”, and was translated as reading “this part”, meaning part T of title I of Pub. L. 90–351, to reflect the probable intent of Congress.
 
-The Violence Against Women Act of 1994, referred to in subsec. (b)(2), is title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1902, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 13701 of this title and Tables.
+The Violence Against Women Act of 1994, referred to in subsec. (b)(2), is title IV of Pub. L. 103–322, Sept. 13,1994, 108 Stat. 1902, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 13701 of this title and Tables.
 
 The Violence Against Women Act of 2000, referred to in (b)(2), is div. B of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1491. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under section 13701 of this title and Tables.
 

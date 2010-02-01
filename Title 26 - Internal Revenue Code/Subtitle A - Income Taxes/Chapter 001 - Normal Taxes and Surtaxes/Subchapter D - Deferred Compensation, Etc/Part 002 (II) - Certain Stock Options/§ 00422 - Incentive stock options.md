@@ -84,7 +84,7 @@ For purposes of this part, the term “incentive stock option” means an option
 
 &emsp;For purposes of paragraph (1), the fair market value of any stock shall be determined as of the time the option with respect to such stock is granted.
 
-(Added Pub. L. 97–34, title II, §251(a), Aug. 13, 1981, 95 Stat. 256, §422A; amended Pub. L. 97–448, title I, §102(j)(1)–(4), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 98–369, div. A, title V, §555(a)(1), div. B, title VI, §2662(f)(1), July 18, 1984, 98 Stat. 897, 1159; Pub. L. 99–514, title III, §321(a), (b), title XVIII, §1847(b)(5), Oct. 22, 1986, 100 Stat. 2220, 2856; Pub. L. 100–647, title I, §1003(d)(1)(A), (2), Nov. 10, 1988, 102 Stat. 3384; renumbered §422 and amended Pub. L. 101–508, title XI, §11801(c)(9)(A)(i), (C), Nov. 5, 1990, 104 Stat. 1388–524, 1388–525.)
+(Added Pub. L. 97–34, title II, §251(a), Aug. 13, 1981, 95 Stat. 256, §422A; amended Pub. L. 97–448,title I, §102(j)(1)–(4), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 98–369, div. A, title V, §555(a)(1), div. B, title VI, §2662(f)(1), July 18, 1984, 98 Stat. 897, 1159; Pub. L. 99–514, title III, §321(a), (b), title XVIII, §1847(b)(5), Oct. 22, 1986, 100 Stat. 2220, 2856; Pub. L. 100–647, title I, §1003(d)(1)(A), (2), Nov. 10, 1988, 102 Stat. 3384; renumbered §422 and amended Pub. L. 101–508, title XI, §11801(c)(9)(A)(i), (C), Nov. 5, 1990, 104 Stat. 1388–524, 1388–525.)
 
 #### Prior Provisions
 

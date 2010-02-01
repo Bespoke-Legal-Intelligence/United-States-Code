@@ -84,7 +84,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 Section 940, Pub. L. 93–203, title IV, §467, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2000, set out administrative provisions in connection with Job Corps program.
 
-Provisions similar to those comprising this section were contained in former section 929 of this title priorto the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+Provisions similar to those comprising this section were contained in former section 929 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Section 941, Pub. L. 93–203, title IV, §468, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2001, related to utilization of funds for Job Corps program.
 

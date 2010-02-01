@@ -46,7 +46,7 @@ Submission of report to the congress.—For the purposes of paragraph (1), a rep
 
 &emsp;&emsp;(B) the Speaker, majority leader, and minority leader of the House of Representatives;
 
-&emsp;&emsp;(C) the chairman and ranking minority member of the Committee on the Judiciary of the House of Representatives and the chairman and ranking minority member of the Committee on the Judiciary of the Senate; and
+&emsp;&emsp;(C) the chairman and ranking minority member of the Committee on the Judiciaryof the House of Representatives and the chairman and ranking minority member of the Committee on the Judiciary of the Senate; and
 
 &emsp;&emsp;(D) the Senate Legal Counsel and the General Counsel of the House of Representatives.
 

@@ -8,7 +8,7 @@
 
 &emsp;(B) the computation of such firefighter's daily, weekly, or biweekly rate shall be based on the hourly rate under subparagraph (A);
 
-(2) For the purpose of sections 5595(c), 5941, 8331(3), and 8704(c), and for such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe, the basic pay of a firefighter subject to this subsection shall include an amount equal to the firefighter's basic hourly rate (as computed under paragraph (1)(A)) for all hours in such firefighter's regular tour of duty (including overtime hours).
+(2) For the purpose of sections 5595(c), 5941, 8331(3), and 8704(c), and for such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe, the basic pay of a firefighter subject to this subsection shall include an amount equal to the firefighter's basic hourly rate (as computed under paragraph (1)(A)) for allhours in such firefighter's regular tour of duty (including overtime hours).
 
 (c)(1) If the regular tour of duty of a firefighter subject to this section includes a basic 40-hour workweek (as determined under regulations prescribed by the Office of Personnel Management), section 5504(b) shall be applied as follows in computing pay—
 
@@ -52,7 +52,7 @@ Section effective on first day of first applicable pay period which begins on or
 
 #### Regulations
 
-Pub. L. 105–277, div. A, §101(h) \[title VI, §628(f)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521, provided that: “Under regulations prescribed by the Office of Personnel Management, a firefighter subject to section 5545b of title 5, United States Code, as added by this section, whose regular tours of duty average 60 hours or less per workweek and do not include a basic 40-hour workweek, shall, upon implementation of this section, be granted an increase in basic pay equal to 2 step-increases of the applicable General Schedule grade, and such increase shall not be an equivalent increase in pay. If such increase results in a change to a longer waiting period for the firefighter's next step increase,the firefighter shall be credited with an additional year of service for the purpose of such waiting period. If such increase results in a rate of basic pay which is above the maximum rate of the applicable grade, such resulting pay rate shall be treated as a retained rate of basic pay in accordance with section 5363 of title 5, United States Code.”
+Pub. L. 105–277, div. A, §101(h) \[title VI, §628(f)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521, provided that: “Under regulations prescribed by the Office of Personnel Management, a firefighter subject to section 5545b of title 5, United States Code, as added by this section, whose regular tours of duty average 60 hours or less per workweek and do not include a basic 40-hour workweek, shall, upon implementation of this section, be granted an increase in basic pay equal to 2 step-increases of the applicable General Schedule grade, and such increase shall not be an equivalent increase in pay. If such increase results in a change to a longer waiting period for the firefighter's next step increase, the firefighter shall be credited with an additional year of service for the purpose of such waiting period. If such increase results in a rate of basic pay which is above the maximum rate of the applicable grade, such resulting pay rate shall be treated as a retained rate of basic pay in accordance with section 5363 of title 5, United States Code.”
 
 #### Eligibility for Pay Increase
 
@@ -78,5 +78,5 @@ Pub. L. 106–31, title III, §3032, May 21, 1999, 113 Stat. 104, provided that:
 
 #### No Reduction in Regular Pay
 
-Pub. L. 105–277, div. A, §101(h) \[title VI, §628(g)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521, provided that: “Under regulations prescribed by the Office of Personnel Management, the regular pay (over the established work scheduling cycle) of a firefighter subject to section 5545b of title 5, United States Code, as added by this section, shall not be reduced as a result of the implementation of this section.”
+Pub. L. 105–277, div. A, §101(h) \[title VI, §628(g)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521, provided that:“Under regulations prescribed by the Office of Personnel Management, the regular pay (over the established work scheduling cycle) of a firefighter subject to section 5545b of title 5, United States Code, as added by this section, shall not be reduced as a result of the implementation of this section.”
 

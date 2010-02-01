@@ -98,7 +98,7 @@ Polygraph Research Program.—The Secretary shall carry out a continuing researc
 
 #### References in Text
 
-Executive Order No. 12958, referred to in subsec. (c)(1)(B), is set out as a note under section 435 of Title 50, War and National Defense.
+Executive Order No. 12958, referred to in subsec. (c)(1)(B), which was formerly set out as a note under section 435 of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 #### Prior Provisions
 

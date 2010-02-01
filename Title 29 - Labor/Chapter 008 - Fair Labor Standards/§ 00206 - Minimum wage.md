@@ -218,7 +218,7 @@ Functions of all other officers of Department of Labor and functions of all agen
 
 #### Applicability of Minimum Wage to American Samoa and the Commonwealth of the Northern Mariana Islands
 
-Pub. L. 110–28, title VIII, §8103(a), (b), May 25, 2007, 121 Stat. 188, 189, provided that:
+Pub. L. 110–28, title VIII, §8103(a), (b), May 25, 2007, 121 Stat. 188, 189, as amended by Pub. L. 111–117, div. D, title V, §520, Dec. 16, 2009, 123 Stat. 3283, provided that:
 
 “(a)
 
@@ -232,7 +232,7 @@ Transition.—Notwithstanding subsection (a)—
 
 &emsp;&emsp;“(A) $3.55 an hour, beginning on the 60th day after the date of enactment of this Act \[May 25, 2007\]; and
 
-&emsp;&emsp;“(B) increased by $0.50 an hour (or such lesser amount as may be necessary to equal the minimum wage under section 6(a)(1) of such Act), beginning 1 year after the date of enactment of this Act and each year thereafter until the minimum wage applicable to the Commonwealth of the Northern Mariana Islands under this paragraph is equal to the minimum wage set forth in such section; and
+&emsp;&emsp;“(B) increased by $0.50 an hour (or such lesser amount as may be necessary to equal the minimum wage under section 6(a)(1) of such Act), beginning 1 year after the date of enactment of this Act and each year thereafter until the minimum wage applicable to the Commonwealth of the Northern Mariana Islands under this paragraph is equal to the minimum wage set forth in such section, except that, beginning in 2010 and each year thereafter, such increase shall occur on September 30; and
 
 &emsp;“(2) the minimum wage applicable to American Samoa under section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) shall be—
 
@@ -240,7 +240,29 @@ Transition.—Notwithstanding subsection (a)—
 
 &emsp;&emsp;“(B) increased by $0.50 an hour, beginning on the 60th day after the date of enactment of this Act; and
 
-&emsp;&emsp;“(C) increased by $0.50 an hour (or such lesser amount as may be necessary to equal the minimum wage under section 6(a)(1) of such Act), beginning 1 year after the date of enactment of this Act and each year thereafter until the minimum wage applicable to American Samoa under this paragraph is equal to the minimum wage set forth in such section.”
+&emsp;&emsp;“(C) increased by $0.50 an hour (or such lesser amount as may be necessary to equal the minimum wage under section 6(a)(1) of such Act), beginning 1 year after the date of enactment of this Act and each year thereafter until the minimum wage applicable to American Samoa under this paragraph is equal to the minimum wage set forth in such section, except that, beginning in 2010 and each year thereafter, such increase shall occur on September 30.”
+
+#### Report on the Impact of Past and Future Minimum Wage Increases
+
+Pub. L. 110–28, title VIII, §8104, May 25, 2007, 121 Stat. 189, as amended by Pub. L. 111–5, div. A, title VIII, §802(a), Feb. 17, 2009, 123 Stat. 186, provided that:
+
+“(a)
+
+Study.—Beginning on the date that is 60 days after the date of enactment of this Act \[May 25, 2007\], and every year thereafter until the minimum wage in the respective territory is $7.25 per hour, the Government Accountability Office shall conduct a study to—
+
+&emsp;“(1) assess the impact of the minimum wage increases that occurred in American Samoa and the Commonwealth of the Northern Mariana Islands in 2007 and 2008, as required under Public Law 110–28 \[see Tables for classification\], on the rates of employment and the living standards of workers, with full consideration of the other factors that impact rates of employment and the living standards of workers such as inflation in the cost of food, energy, and other commodities; and
+
+&emsp;“(2) estimate the impact of any further wage increases on rates of employment and the living standards of workers in American Samoa and the Commonwealth of the Northern Mariana Islands, with full consideration of the other factors that may impact the rates of employment and the living standards of workers, including assessing how the profitability of major private sector firms may be impacted by wage increases in comparison to other factors such as energy costs and the value of tax benefits.
+
+“(b)
+
+Report.—No earlier than March 15, 2010, and not later than April 15, 2010, the Government Accountability Office shall transmit its first report to Congress concerning the findings of the study required under subsection (a). The Government Accountability Office shall transmit any subsequent reports to Congress concerning the findings of a study required by subsection (a) between March 15 and April 15 of each year.
+
+“(c)
+
+Economic Information.—To provide sufficient economic data for the conduct of the study under subsection (a) the Bureau of the Census of the Department of Commerce shall include and separately report on American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the Virgin Islands in its County Business Patterns data with the same regularity and to the same extent as each Bureau collects and reports such data for the 50 States. In the event that the inclusion of American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the Virgin Islands in such surveys and data compilations requires time to structure and implement, the Bureau of the Census shall in the interim annually report the best available data that can feasibly be secured with respect to such territories. Such interim report shall describe the steps the Bureau will take to improve future data collection in the territories to achieve comparability with the data collected in the United States. The Bureau of the Census, together with the Department of the Interior, shall coordinate their efforts to achieve such improvements.”
+
+\[Pub. L. 111–5, div. A, title VIII, §802(b), Feb. 17, 2009, 123 Stat. 187, provided that: “The amendment made by this section \[amending section 8104 of Pub. L. 110–28, set out above\] shall take effect on the date of enactment of this Act \[Feb. 17, 2009\].”\]
 
 #### Training Wage
 

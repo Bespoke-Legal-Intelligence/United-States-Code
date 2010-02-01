@@ -38,7 +38,7 @@ In subsection (a), the first sentence is substituted for 50:951(a). The words �
 
 In subsections (a) and (b), the word “hereafter” is omitted as surplusage. The words “the expiration of” are inserted for clarity.
 
-In subsection (b), the word “continues” is substituted for the words “shall \* \* \* be extended”.
+In subsection (b), the word “continues” is substituted for the words “shall be extended”.
 
 1958
 

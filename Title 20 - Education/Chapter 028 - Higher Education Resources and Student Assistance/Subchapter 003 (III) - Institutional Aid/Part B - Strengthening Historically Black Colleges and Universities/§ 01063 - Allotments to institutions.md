@@ -6,7 +6,7 @@ From the amounts appropriated to carry out this part for any fiscal year, the Se
 
 #### (b) Allotment; graduates basis
 
-From the amounts appropriated to carry out this part for any fiscal year, the Secretary shall allot to each part B institution a sum which bears the same ratio to one-fourth that amount as the number of graduates for such school year at such institution bears to the total number of graduates for such school year at all part B institutions.
+From the amounts appropriated to carry out this part for any fiscal year, the Secretary shallallot to each part B institution a sum which bears the same ratio to one-fourth that amount as the number of graduates for such school year at such institution bears to the total number of graduates for such school year at all part B institutions.
 
 #### (c) Allotment; graduate and professional student basis
 
@@ -14,11 +14,13 @@ From the amounts appropriated to carry out this part for any fiscal year, the Se
 
 #### (d) Minimum allotment
 
-Notwithstanding subsections (a) through (c), and subject to subsection (h), if the amount of an award under this section for a part B institution, based on the data provided by the part B institution and the formula under subsections (a) through (c), would be—
+(1) Notwithstanding subsections (a) through (c), and subject to subsection (h), if the amount of an award under this section for a part B institution, based on the data provided by the part B institution and the formula under subsections (a) through (c), would be—
 
-&emsp;(1) an amount that is greater than $250,000 but less than $500,000, the Secretary shall award the part B institution an allotment in the amount of $500,000; and
+&emsp;(A) an amount that is greater than $250,000 but less than $500,000, the Secretary shall award the part B institution an allotment in the amount of $500,000; and
 
-&emsp;(2) an amount that is equal to or less than $250,000, the Secretary shall award the part B institution an allotment in the amount of $250,000.
+&emsp;(B) an amount that is equal to or less than $250,000, the Secretary shall award the part B institution an allotment in the amount of $250,000.
+
+(2) If the amount appropriated pursuant to section 1068h(a)(2)(A) of this title for any fiscal year is not sufficient to pay the minimum allotment required by paragraph (1) to all part B institutions, the amount of such minimum allotments shall be ratably reduced. If additional sums become available for such fiscal year, such reduced allocations shall be increased on the same basis as the basis on which they were reduced (until the amount allotted equals the minimum allotment required by paragraph (1)).
 
 #### (e) Reallotment
 
@@ -32,7 +34,7 @@ The amount of any part B institution's allotment under subsection (a), (b), (c),
 
 #### (g) Special rule for certain District of Columbia eligible institutions
 
-In any fiscal year that the Secretary determines that Howard University or the University of the District of Columbia will receive an allotment under subsections (b) and (c) of this section which is not in excess of amounts received by Howard University under section 123 of this title, relating to annual authorization of appropriations for Howard University, or by the University of the District of Columbia under the District of Columbia Home Rule Act (87 Stat. 774) for such fiscal year, then Howard University and the University of the District of Columbia, as the case may be, shall be ineligible to receive an allotment under this section.
+In any fiscal year that the Secretary determines that Howard University or the University of the District of Columbia will receive an allotment under subsections (b) and (c) of this section which is not in excess of amounts received by Howard University under the Act of March 2, 1867 (14 Stat. 438; 20 U.S.C. 123), relating to annual authorization of appropriations for Howard University, or by the University of the District of Columbia under the District of Columbia Home Rule Act (87 Stat. 774) for such fiscal year, then Howard University and the University of the District of Columbia, as the case may be, shall be ineligible to receive an allotment under this section.
 
 #### (h) Conditions for allotments
 
@@ -56,9 +58,11 @@ In any fiscal year that the Secretary determines that Howard University or the U
 
 &emsp;&emsp;(C) where appropriate, the percentage of students who, within 5 years of graduation from the part B institution, were admitted to and in attendance at a graduate or professional school in a degree program in disciplines in which Blacks are underrepresented in the academic year preceding such fiscal year.
 
-(Pub. L. 89–329, title III, §324, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1296; amended Pub. L. 99–509, title VII, §7007, Oct. 21, 1986, 100 Stat. 1950; Pub. L. 102–325, title III, §303(c), (d), July 23, 1992, 106 Stat. 475; Pub. L. 105–33, title XI, §11717(b), Aug. 5, 1997, 111 Stat. 786; Pub. L. 110–315, title III, §310, Aug. 14, 2008, 122 Stat. 3177.)
+(Pub. L. 89–329, title III, §324, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1296; amended Pub. L. 99–509, title VII, §7007, Oct. 21, 1986, 100 Stat. 1950; Pub. L. 102–325, title III, §303(c), (d), July 23, 1992, 106 Stat. 475; Pub. L. 105–33, title XI, §11717(b), Aug. 5, 1997, 111 Stat. 786; Pub. L. 110–315, title III, §310, Aug. 14,2008, 122 Stat. 3177; Pub. L. 111–39, title III, §301(4), July 1, 2009, 123 Stat. 1937.)
 
 #### References in Text
+
+The Act of March 2, 1867, referred to in subsec. (g), is act Mar. 2, 1867, ch. 162, 14 Stat. 438. Provisions relating to authorization of appropriations are contained in section 8 of the Act, which is classified to section 123 of this title. For complete classification of this Act to the Code, see Tables.
 
 The District of Columbia Home Rule Act, referred to in subsec. (g), is Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 774, as amended. For classification of this Act to the Code, see Tables.
 
@@ -69,6 +73,8 @@ A prior section 1063, Pub. L. 89–329, title III, §324, as added Pub. L. 96–
 Another prior section 1063, Pub. L. 89–329, title IV, §403, Nov. 8, 1965, 79 Stat. 1233, related to duration of grant and eligibility for payments, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
 
 #### Amendments
+
+2009—Subsec. (d). Pub. L. 111–39 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
 2008—Subsec. (d). Pub. L. 110–315, §310(a), amended subsec. (d) generally. Prior to amendment, text read as follows:
 
@@ -92,9 +98,13 @@ Subsec. (e). Pub. L. 99–509, §7007(1), (3), redesignated former subsec. (d) a
 
 Subsecs. (f), (g). Pub. L. 99–509, §7007(1), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L.105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L. 105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 1992 Amendment
 

@@ -10,10 +10,13 @@
 | [1386\.](%C2%A7%2001386%20-%20Keys%20and%20keyways%20used%20in%20security%20applications%20by%20the%20Department%20of%20Defense.md) | Keys and keyways used in security applications by the Department of Defense. |
 | [1387\.](%C2%A7%2001387%20-%20Demonstrations%20at%20cemeteries%20under%20the%20control%20of%20the%20National%20Cemetery%20Administration%20and%20at%20Arlington%20National%20Cemetery.md) | Demonstrations at cemeteries under the control of the National Cemetery Administration and at Arlington National Cemetery. |
 | [1388\.](%C2%A7%2001388%20-%20Prohibition%20on%20disruptions%20of%20funerals%20of%20members%20or%20former%20members%20of%20the%20Armed%20Forces.md) | Prohibition on disruptions of funerals of members or former members of the Armed Forces. |
+| [1389\.](%C2%A7%2001389%20-%20Prohibition%20on%20attacks%20on%20United%20States%20servicemen%20on%20account%20of%20service.md) | Prohibition on attacks on United States servicemen on account of service. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. E, §4712(b), Oct. 28, 2009, 123 Stat. 2843, added item 1389.
 
 2006—Pub. L. 109–464, §1(b), Dec. 22, 2006, 120 Stat. 3481, added item 1388.
 
@@ -38,3 +41,4 @@ Pub. L. 109–228, §3(b), May 29, 2006, 120 Stat. 389, added item 1387.
 - [&sect; 01386 - Keys and keyways used in security applications by the Department of Defense](%C2%A7%2001386%20-%20Keys%20and%20keyways%20used%20in%20security%20applications%20by%20the%20Department%20of%20Defense.md)
 - [&sect; 01387 - Demonstrations at cemeteries under the control of the National Cemetery Administration and at Arlington National Cemetery](%C2%A7%2001387%20-%20Demonstrations%20at%20cemeteries%20under%20the%20control%20of%20the%20National%20Cemetery%20Administration%20and%20at%20Arlington%20National%20Cemetery.md)
 - [&sect; 01388 - Prohibition on disruptions of funerals of members or former members of the Armed Forces](%C2%A7%2001388%20-%20Prohibition%20on%20disruptions%20of%20funerals%20of%20members%20or%20former%20members%20of%20the%20Armed%20Forces.md)
+- [&sect; 01389 - Prohibition on attacks on United States servicemen on account of service](%C2%A7%2001389%20-%20Prohibition%20on%20attacks%20on%20United%20States%20servicemen%20on%20account%20of%20service.md)

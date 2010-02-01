@@ -68,7 +68,7 @@ The Secretary shall use the database established under subsection (a)(1) in the 
 
 &emsp;&emsp;(D) Any significant changes from the preceding report in the systems and assets included on such list or in such database.
 
-&emsp;&emsp;(E) If appropriate, the extent to which such database and such list have been used, individually or jointly, for allocating funds by the Federal Government to prevent, reduce, mitigate, or respond to acts of terrorism.
+&emsp;&emsp;(E) If appropriate, the extent to which such database and such list have been used, individually or jointly, for allocating fundsby the Federal Government to prevent, reduce, mitigate, or respond to acts of terrorism.
 
 &emsp;&emsp;(F) The amount of coordination between the Department and the private sector, through any entity of the Department that meets with representatives of private sector industries for purposes of such coordination, for the purpose of ensuring the accuracy of such database and such list.
 

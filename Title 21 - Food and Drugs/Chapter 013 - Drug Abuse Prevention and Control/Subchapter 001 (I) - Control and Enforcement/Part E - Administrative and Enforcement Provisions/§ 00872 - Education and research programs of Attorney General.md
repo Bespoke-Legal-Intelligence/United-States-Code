@@ -12,7 +12,7 @@ The Attorney General is authorized to carry out educational and research program
 
 &emsp;(4) studies or special projects designed to evaluate the nature and sources of the supply of illegal drugs throughout the country;
 
-&emsp;(5) studies or special projects to develop more effective methods to prevent diversion of controlled substances into illegal channels; and
+&emsp;(5) studies or special projects to develop more effective methods to prevent diversion ofcontrolled substances into illegal channels; and
 
 &emsp;(6) studies or special projects to develop information necessary to carry out his functions under section 811 of this title.
 

@@ -1,5 +1,5 @@
 
-38 U.S.C.<br>United States Code, 2008 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
+38 U.S.C.<br>United States Code, 2009 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 38—VETERANS’ BENEFITS
 
@@ -5596,7 +5596,7 @@ Pub. L. 85–857, §12, Sept. 2, 1958, 72 Stat. 1264, as amended by Pub. L. 89�
 
 “(b) Nothing in this Act or any amendment or repeal made by it, shall affect any right, liability, penalty, authorization or requirement pertaining to World War adjusted compensation authorized or prescribed under the provisions of the World War Adjusted Compensation Act, or the Adjusted Compensation Payment Act, 1936, or any related Act, which was in effect on December 31, 1958.
 
-“(c) \[Repealed by Pub. 89–50, effective July 1, 1966. Prior to such repeal, subsec. (c) read as follows: “Nothing in this Act, or any amendment or repeal made by it, shall deprive any person of benefits under the Mustering-Out Payment Act of 1944 to which he would have been entitled if this Act had not been enacted.”\]
+“(c) \[Repealed by Pub. L. 89–50, effective July 1, 1966. Prior to such repeal, subsec. (c) read as follows: “Nothing in this Act, or any amendment or repeal made by it, shall deprive any person of benefits under the Mustering-Out Payment Act of 1944 to which he would have been entitled if this Act had not been enacted.”\]
 
 “(d) Nothing in this Act, or any amendment or repeal made by it, shall affect any right of any person based on a contract entered into before the effective date of this Act, or affect the manner in which such right could have been enforced or obtained but for this Act, or such amendment or repeal.
 

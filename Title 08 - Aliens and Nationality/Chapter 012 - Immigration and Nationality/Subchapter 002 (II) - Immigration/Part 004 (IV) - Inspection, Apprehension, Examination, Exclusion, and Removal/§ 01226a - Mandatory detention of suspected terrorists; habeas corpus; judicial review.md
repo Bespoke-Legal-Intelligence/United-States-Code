@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;Judicial review of any action or decision relating to this section (including judicial review of the merits of a determination made under subsection (a)(3) or (a)(6) of this section) is available exclusively in habeas corpus proceedings consistent with this subsection. Except as provided in the preceding sentence, no court shall have jurisdiction to review, by habeas corpus petition or otherwise, any such action or decision.
+&emsp;Judicial review of any action or decision relating to this section (including judicial review of the merits of a determination made under subsection (a)(3) or (a)(6) of this section)is available exclusively in habeas corpus proceedings consistent with this subsection. Except as provided in the preceding sentence, no court shall have jurisdiction to review, by habeas corpus petition or otherwise, any such action or decision.
 
 #### (2) Application
 
@@ -60,7 +60,7 @@
 
 #### (3) Appeals
 
-&emsp;Notwithstanding any other provision of law, including section 2253 of title 28, in habeas corpus proceedings described in paragraph (1) before a circuit or district judge, the final order shall be subject to review, on appeal, by the United States Court of Appeals for the Districtof Columbia Circuit. There shall be no right of appeal in such proceedings to any other circuit court of appeals.
+&emsp;Notwithstanding any other provision of law, including section 2253 of title 28, in habeas corpus proceedings described in paragraph (1) before a circuit or district judge, the final order shall be subject to review, on appeal, by the United States Court of Appeals for the District of Columbia Circuit. There shall be no right of appeal in such proceedings to any other circuit court of appeals.
 
 #### (4) Rule of decision
 

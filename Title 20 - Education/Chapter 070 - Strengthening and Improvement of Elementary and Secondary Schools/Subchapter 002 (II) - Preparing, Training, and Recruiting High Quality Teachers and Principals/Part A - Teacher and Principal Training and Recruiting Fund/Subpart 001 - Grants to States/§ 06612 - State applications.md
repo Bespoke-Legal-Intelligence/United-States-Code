@@ -14,7 +14,7 @@ Each application submitted under this section shall include the following:
 
 &emsp;(3) A description of how the State educational agency will ensure that activities assisted under this subpart are aligned with challenging State academic content and student academic achievement standards, State assessments, and State and local curricula.
 
-&emsp;(4) A description of how the State educational agency will use funds under this partto improve the quality of the State's teachers and principals.
+&emsp;(4) A description of how the State educational agency will use funds under this part to improve the quality of the State's teachers and principals.
 
 &emsp;(5)(A) A description of how the State educational agency will coordinate professional development activities authorized under this part with professional development activities provided under other Federal, State, and local programs.
 
@@ -22,7 +22,7 @@ Each application submitted under this section shall include the following:
 
 &emsp;(6) A description of how the State educational agency will encourage the development of proven, innovative strategies to deliver intensive professional development programs that are both cost-effective and easily accessible, such as strategies that involve delivery through the use of technology, peer networks, and distance learning.
 
-&emsp;(7)(A) A description of how the State educational agency will ensure compliance with the requirements for professional development activities described in section 7801 of this title and how the activities to be carried out under the grant will be developed collaboratively and based on the input of teachers, principals, parents, administrators, paraprofessionals, and other school personnel.
+&emsp;(7)(A) A description of how the State educational agency will ensure compliance withthe requirements for professional development activities described in section 7801 of this title and how the activities to be carried out under the grant will be developed collaboratively and based on the input of teachers, principals, parents, administrators, paraprofessionals, and other school personnel.
 
 &emsp;(B) In the case of a State in which the State educational agency is not the entity responsible for teacher professional standards, certification, and licensing, an assurance that the State activities carried out under this subpart are carried out in conjunction with the entity responsible for such standards, certification, and licensing under State law.
 

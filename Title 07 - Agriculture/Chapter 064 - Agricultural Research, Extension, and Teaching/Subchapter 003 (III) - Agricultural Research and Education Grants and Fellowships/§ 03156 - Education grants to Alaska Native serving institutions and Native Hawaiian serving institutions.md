@@ -4,7 +4,7 @@
 
 #### (1) Grant authority
 
-&emsp;The Secretary of Agriculture may make competitive grants (or grants without regard to any requirement for competition) to Alaska Native serving institutions for the purpose of promoting and strengthening the ability of Alaska Native serving institutions to carry out education, applied research, and related community development programs.
+&emsp;The Secretary of Agriculture may make competitive grants (or grants without regard to any requirement for competition) to Alaska Native serving institutions for the purpose of promoting and strengthening the ability ofAlaska Native serving institutions to carry out education, applied research, and related community development programs.
 
 #### (2) Use of grant funds
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(C) to attract and support undergraduate and graduate students from under represented groups in order to prepare them for careers related to the food, agricultural, and natural resource systems of the United States, beginning with the mentoring of students at the high school level and continuing with the provision of financial support for students through their attainment of a doctoral degree; and
 
-&emsp;&emsp;(D) to facilitate cooperative initiatives between two or more Native Hawaiian serving institutions, or between Native Hawaiianserving institutions and units of State government or the private sector, to maximize the development and use of resources, such as faculty, facilities, and equipment, to improve food and agricultural sciences teaching programs.
+&emsp;&emsp;(D) to facilitate cooperative initiatives between two or more Native Hawaiian serving institutions, or between Native Hawaiian serving institutions and units of State government or the private sector, to maximize the development and use of resources, such as faculty, facilities, and equipment, to improve food and agricultural sciences teaching programs.
 
 #### (3) Authorization of appropriations
 

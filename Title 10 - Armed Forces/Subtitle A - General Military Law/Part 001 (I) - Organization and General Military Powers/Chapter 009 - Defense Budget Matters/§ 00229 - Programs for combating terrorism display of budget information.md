@@ -18,7 +18,7 @@ Explanation of Inconsistencies.—As part of the budget display under subsection
 
 &emsp;(1) any inconsistencies between (A) the information submitted under subsection (b) for that fiscal year, and (B) the information provided to the Director of the Office of Management and Budget in support of the annual report of the President to Congress on funding for executive branch counterterrorism and antiterrorism programs and activities for that fiscal year in accordance with section 1051(b) of the National Defense Authorization Act for Fiscal Year 1998 (31 U.S.C. 1113 note); and
 
-&emsp;(2) any inconsistencies between (A) the execution, during the previous fiscal year and the current fiscal year, of programs and activities of the Department of Defense combating terrorism program, and (B) the funding and specification for such programs and activities for those fiscal years in the manner provided byCongress (both in statutes and in relevant legislative history).
+&emsp;(2) any inconsistencies between (A) the execution, during the previous fiscal year and the current fiscal year, of programs and activities of the Department of Defense combating terrorism program, and (B) the funding and specification for such programs and activities for those fiscal years in the manner provided by Congress (both in statutes and in relevant legislative history).
 
 (d)
 
@@ -68,7 +68,7 @@ Submission of information.—As part of the budget justification materials submi
 
 &emsp;&emsp;“(A) The information described in paragraph (2) for the fiscal year for which the budget justification materials are submitted, the fiscal year during which the materials are submitted, and the preceding fiscal year.
 
-&emsp;&emsp;“(B) The information described in paragraph (2) for each of the fiscal years covered by the future-years defense program for the fiscal year in which the report is submitted based on estimates of any amounts required to meet each of the requirements under subsection (a) that are not met for that fiscal year and are deferred to the future-years defense program.
+&emsp;&emsp;“(B) The information described in paragraph (2) for each of the fiscal years covered by the future-years defense program for the fiscal year in which the report is submitted based on estimates of any amounts required to meet each of the requirementsunder subsection (a) that are not met for that fiscal year and are deferred to the future-years defense program.
 
 &emsp;&emsp;“(C) A consolidated budget justification summary of the information submitted under subparagraphs (A) and (B).
 
@@ -98,7 +98,7 @@ Annual Report on Army Progress.—On the date on which the President submits to 
 
 &emsp;“(2) A list of any shortfalls that exist between available funding, equipment, supplies, and industrial capacity and required funding, equipment, supplies, and industrial capacity in accordance with the funding priorities in subsection (a).
 
-&emsp;“(3) A list of the requirements for the funding priorities in subsection (a) that the Army has included in the budget for that fiscal year, including a detailedlisting of the type, quantity, and cost of the equipment the Army plans to repair, recapitalize, or procure, set forth by appropriations account and Army component.
+&emsp;“(3) A list of the requirements for the funding priorities in subsection (a) that the Army has included in the budget for that fiscal year, including a detailed listing of the type, quantity, and cost of the equipment the Army plans to repair, recapitalize, or procure, set forth by appropriations account and Army component.
 
 &emsp;“(4) An assessment of the progress made during that fiscal year toward meeting the overall requirements of the funding priorities in subsection (a).
 

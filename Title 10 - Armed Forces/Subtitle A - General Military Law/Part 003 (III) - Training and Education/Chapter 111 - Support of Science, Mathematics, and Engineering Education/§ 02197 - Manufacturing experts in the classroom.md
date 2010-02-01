@@ -4,7 +4,7 @@
 
 Establishment of Program.—The Secretary of Defense, in consultation with the Secretary of Education and the Secretary of Commerce, shall conduct a program to support the following activities of one or more manufacturing experts at institutions of higher education:
 
-&emsp;(1) Identifying the education and training requirements of United States manufacturingfirms located in the same geographic region as an institution participating in the program.
+&emsp;(1) Identifying the education and training requirements of United States manufacturing firms located in the same geographic region as an institution participating in the program.
 
 &emsp;(2) Assisting in the development of teaching curricula for classroom and in-factory education and training classes at such an institution.
 

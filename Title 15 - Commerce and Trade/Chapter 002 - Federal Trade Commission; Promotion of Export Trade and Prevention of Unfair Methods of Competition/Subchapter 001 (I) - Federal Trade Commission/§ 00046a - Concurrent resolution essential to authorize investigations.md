@@ -1,6 +1,6 @@
 ### §46a. Concurrent resolution essential to authorize investigations
 
-After June 16, 1933, no new investigations shall be initiated by the Commission as the result of a legislative resolution, except the same be aconcurrent resolution of the two Houses of Congress.
+After June 16, 1933, no new investigations shall be initiated by the Commission as the result of a legislative resolution, except the same be a concurrent resolution of the two Houses of Congress.
 
 (June 16, 1933, ch. 101, §1, 48 Stat. 291.)
 

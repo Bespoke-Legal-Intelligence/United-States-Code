@@ -2,7 +2,7 @@
 
 (a)
 
-General.—The appropriate court of appeals of the United States or the United States Court of Appeals for the District of Columbia Circuit may review a final order of the National Transportation Safety Board under this chapter. A person disclosing a substantial interest in the order may apply for review by filing a petition not later than 60 days after the order of the Board is issued.
+General.—The appropriate court of appeals of the United States or the United States Court of Appeals for the District of Columbia Circuit may review a final order of the National Transportation Safety Board under this chapter. A person disclosing a substantial interest in theorder may apply for review by filing a petition not later than 60 days after the order of the Board is issued.
 
 (b)
 
@@ -112,7 +112,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §901(a) (3)(D)(v) (related to Ad
 
 Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
 
-In subsection (a), the text of 49 App.:1903(d) (last sentence) is omitted as unnecessary because 5:ch. 7 applies by its own terms. The words “final order” are substituted for “order, affirmative or negative” in 49 App.:1903(d) and “Decisions of the National Transportation Safety Board made pursuant to the exercise of the functions, powers, and duties enumerated in thissubsection shall be administratively final” in 49 App.:1655(d) to eliminate unnecessary words. The words “is issued” are substituted for “after the entry” for consistency in the revised title and with other titles of the United States Code. The text of 49 App.:1655(d) (last sentence words after last comma) is omitted as unnecessary because of 49 App.:1903(d).
+In subsection (a), the text of 49 App.:1903(d) (last sentence) is omitted as unnecessary because 5:ch. 7 applies by its own terms. The words “final order” are substituted for “order, affirmative or negative” in 49 App.:1903(d) and “Decisions of the National Transportation Safety Board made pursuant to the exercise of the functions, powers, and duties enumerated in this subsection shall be administratively final” in 49 App.:1655(d) to eliminate unnecessary words. The words “is issued” are substituted for “after the entry” for consistency in the revised title and with other titles of the United States Code. The text of 49 App.:1655(d) (last sentence words after last comma) is omitted as unnecessary because of 49 App.:1903(d).
 
 In subsection (b)(1), the words “affirmative or negative” are omitted as surplus. The words “related to an aviation matter” are added because the source provisions being restated only apply to aviation matters. The words “is issued” are substituted for “the entry of” for consistency in the revised title and with other titles of the Code.
 

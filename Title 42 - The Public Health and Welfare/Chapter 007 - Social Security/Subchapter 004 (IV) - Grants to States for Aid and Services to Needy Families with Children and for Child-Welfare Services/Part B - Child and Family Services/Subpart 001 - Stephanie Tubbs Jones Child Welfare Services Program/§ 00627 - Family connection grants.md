@@ -100,7 +100,7 @@ A grantee under this section shall use the grant in accordance with the approved
 
 #### (h) Appropriation
 
-Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Secretary for purposes of making grants under this section $15,000,000 for each of fiscal years 2009 through 2013.
+Out of any money in the Treasury of the United States not otherwise appropriated, thereare appropriated to the Secretary for purposes of making grants under this section $15,000,000 for each of fiscal years 2009 through 2013.
 
 (Aug. 14, 1935, ch. 531, title IV, §427, as added Pub. L. 110–351, title I, §102(a), Oct. 7, 2008, 122 Stat. 3953.)
 

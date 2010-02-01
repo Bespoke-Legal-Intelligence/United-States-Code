@@ -12,7 +12,7 @@ The Surgeon General, with the approval of the Federal Hospital Council and the S
 
 &emsp;&emsp;(3) in the case of projects for modernization of facilities, to facilities serving densely populated areas;
 
-&emsp;&emsp;(4) in the case of projects for construction or modernization of outpatient facilities, to any outpatient facility that will be located in, and provide services for residents of, anarea determined by the Secretary to be a rural or urban poverty area;
+&emsp;&emsp;(4) in the case of projects for construction or modernization of outpatient facilities, to any outpatient facility that will be located in, and provide services for residents of, an area determined by the Secretary to be a rural or urban poverty area;
 
 &emsp;&emsp;(5) to projects for facilities which, alone or in conjunction with other facilities, will provide comprehensive health care, including outpatient and preventive care as well as hospitalization;
 

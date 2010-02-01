@@ -134,7 +134,7 @@ Pub. L. 108–357, title VIII, §858(b), Oct. 22, 2004, 118 Stat. 1617, provided
 
 Pub. L. 108–357, title VIII, §859(c), Oct. 22, 2004, 118 Stat. 1618, provided that: “The amendments made by this section \[enacting section 6717 of this title and amending this section\] shall take effect on January 1, 2005.”
 
-Pub. L. 108–357, title VIII, §870(c), Oct. 22, 2004, 118 Stat. 1624, provided that: “The amendment made by this section \[amending this section and section 6427 ofthis title\] shall apply to fuel removed, sold, or used after December 31, 2004.”
+Pub. L. 108–357, title VIII, §870(c), Oct. 22, 2004, 118 Stat. 1624, provided that: “The amendment made by this section \[amending this section and section 6427 of this title\] shall apply to fuel removed, sold, or used after December 31, 2004.”
 
 #### Effective Date of 1998 Amendment
 

@@ -98,7 +98,7 @@ Study.—The Attorney General shall annually conduct a study of the cases under 
 
 &emsp;&emsp;“(B) the number of new cases opened pursuant to this Act since the previous year's study;
 
-&emsp;&emsp;“(C) the number of unsealed Federal cases charged within the study period, including the casenames, the jurisdiction in which the charges were brought, and the date the charges were filed;
+&emsp;&emsp;“(C) the number of unsealed Federal cases charged within the study period, including the case names, the jurisdiction in which the charges were brought, and the date the charges were filed;
 
 &emsp;&emsp;“(D) the number of cases referred by the Department to a State or local law enforcement agency or prosecutor within the study period, the number of such cases that resulted in State charges being filed, the jurisdiction in which such charges were filed, the date the charges were filed, and if a jurisdiction declines to prosecute or participate in an investigation of a case so referred, the fact it did so;
 
@@ -300,7 +300,7 @@ Pub. L. 107–56, title VIII, §816, Oct. 26, 2001, 115 Stat. 385, provided that
 
 “(a)
 
-In General.—The Attorney General shall establish such regional computer forensic laboratories as theAttorney General considers appropriate, and provide support to existing computer forensic laboratories, in order that all such computer forensic laboratories have the capability—
+In General.—The Attorney General shall establish such regional computer forensic laboratories as the Attorney General considers appropriate, and provide support to existing computer forensic laboratories, in order that all such computer forensic laboratories have the capability—
 
 &emsp;“(1) to provide forensic examinations with respect to seized or intercepted computer evidence relating to criminal activity (including cyberterrorism);
 
@@ -414,11 +414,11 @@ Authorization of Appropriations.—There are authorized to be appropriated $25,0
 
 #### Reimbursement of Employees Traveling on Behalf of United States in Temporary Duty Status
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title I, §115\], Sept. 30, 1996, 110 Stat. 3009, 3009–22, provided that: “Effective with the enactment of this Act \[Sept. 30, 1996\] and in any fiscal year hereafter, under policies established by the Attorney General, the Department of Justice may reimburse employees who are paid by an appropriation account within the Department of Justice and are traveling on behalf of the United States in temporary duty status to investigate, prosecute, or litigate\(including the provision of support therefor) a criminal or civil matter, or for other similar special circumstances, for Federal, State, and local taxes heretofore and hereafter resulting from any reimbursement of travel expenses from an appropriation account within the Department of Justice: <i>Provided</i>, That such reimbursement may include an amount equal to all income taxes for which the employee would be liable due to such reimbursement.”
+Pub. L. 104–208, div. A, title I, §101(a) \[title I, §115\], Sept. 30, 1996, 110 Stat. 3009, 3009–22, provided that: “Effective with the enactment of this Act \[Sept. 30, 1996\] and in any fiscal year hereafter, under policies established by the Attorney General, the Department of Justice may reimburse employees who are paid by an appropriation account within the Department of Justice and are traveling on behalf of the United States in temporary duty status to investigate, prosecute, or litigate (including the provision of support therefor) a criminal or civil matter, or for other similar special circumstances, for Federal, State, and local taxes heretofore and hereafter resulting from any reimbursement of travel expenses from an appropriation account within the Department of Justice: <i>Provided</i>, That such reimbursement may include an amount equal to all income taxes for which the employee would be liable due to such reimbursement.”
 
 #### Overseas Law Enforcement Training Activities
 
-Pub. L. 104–132, title VIII, §801, Apr. 24, 1996, 110 Stat. 1304, provided that: “The Attorney General and the Secretary of the Treasury are authorized to support law enforcement training activities in foreign countries, in consultation with the Secretary of State, for the purpose of improving the effectiveness of the United States in investigating and prosecuting transnational offenses.”
+Pub. L. 104–132, title VIII, §801, Apr. 24, 1996, 110 Stat. 1304, provided that: “The Attorney General and theSecretary of the Treasury are authorized to support law enforcement training activities in foreign countries, in consultation with the Secretary of State, for the purpose of improving the effectiveness of the United States in investigating and prosecuting transnational offenses.”
 
 #### Reimbursement by Other Government Agencies of Department of Justice Salaries and Expenses in High-Cost Litigation
 
@@ -518,7 +518,7 @@ Duties.—This senior interagency group shall enhance interagency coordination a
 
 #### Authorization of Appropriations for Humanitarian Expenses Incurred by Federal Bureau of Investigation and Drug Enforcement Administration
 
-Pub. L. 101–647, title XXXII, §3201, Nov. 29, 1990, 104 Stat. 4916, as amended by Pub. L. 105–277, div. A, §101(b) \[title I, §109(a)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67, provided that: “Appropriations in this or any other Act hereafter for the Federal Bureau of Investigation, the Drug Enforcement Administration, or the Immigration and Naturalization Service are available, in an amount of not to exceed $25,000 each per fiscal year, to pay humanitarian expenses incurred by or for any employee thereof (or any member of the employee's immediate family) that results from or is incident to serious illness, serious injury, or death occurring to the employee while on official duty or business.”
+Pub. L. 101–647, title XXXII, §3201, Nov. 29, 1990, 104 Stat. 4916, as amended by Pub. L. 105–277, div. A, §101(b) \[title I, §109(a)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67, provided that: “Appropriations in this or any other Act hereafter for the Federal Bureau of Investigation, the Drug Enforcement Administration, or the Immigrationand Naturalization Service are available, in an amount of not to exceed $25,000 each per fiscal year, to pay humanitarian expenses incurred by or for any employee thereof (or any member of the employee's immediate family) that results from or is incident to serious illness, serious injury, or death occurring to the employee while on official duty or business.”
 
 \[For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.\]
 
@@ -664,7 +664,7 @@ Report to Congress.—The Comptroller General shall report the results and recom
 
 #### Federal Environmental or Natural Resource Laws; Investigations Respecting, Etc.
 
-Pub. L. 96–132, §12, Nov. 30, 1979, 93 Stat. 1048, provided that: “The Attorney General may, with the concurrence of any agency or Department with primary enforcement responsibility for an environmental or natural resource law, investigate any violation, of anenvironmental or natural resource law of the United States, and bring such actions as are necessary to enforce such laws. This section does not affect the criminal law enforcement authority of the Attorney General.”
+Pub. L. 96–132, §12, Nov. 30, 1979, 93 Stat. 1048, provided that: “The Attorney General may, with the concurrence of any agency or Department with primary enforcement responsibility for an environmental or natural resource law, investigate any violation, of an environmental or natural resource law of the United States, and bring such actions as are necessary to enforce such laws. This section does not affect the criminal law enforcement authority of the Attorney General.”
 
 #### Positions in Drug Enforcement Administration; Grades Excepted From Competitive Service; Vacancies; Removal, Suspension, or Reduction in Rank or Pay; Rate of Pay
 
@@ -830,7 +830,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. Transfers to the Attorney General
 
-There are hereby transferred from the Secretary of the Treasury, the Department of the Treasury, and any other officer or any agency of the Department of the Treasury, to the Attorney General all intelligence, investigative, and law enforcement functions, vested by law in the Secretary, the Department, officers, or agencies which relate to the suppression of illicit traffic in narcotics, dangerous drugs, or marihuana, except that the Secretary shall retain, and continue to perform, those functions, to the extent that they relate to searches and seizures of illicit narcotics, dangerous drugs, or marihuana or to the apprehension or detention of persons in connection therewith, at regular inspection locations at ports of entry or anywhere along the land or water borders of the United States: <i>Provided</i>, that any illicit narcotics, dangerous drugs, marihuana, or related evidence seized, and any person apprehended or detained by the Secretary or any officer of the Department of the Treasury, pursuant to the authority retained in them by virtue of this section, shall be turned over forthwith to the jurisdiction of the Attorney General: <i>Provided further</i>, that nothing in this section shall be construed as limiting in any way any authority vested by law in the Secretary of the Treasury, the Department of the Treasury, or any other officer or any agency of that Department on the effective date of this Plan with respect to contraband other than illicit narcotics, dangerous drugs, and marihuana: and <i>Provided further</i>, that nothing in this section shall be construed as limiting in any way any authority the Attorney General, the Department of Justice, or any other officer or any agency of that Department may otherwise have to make investigations or engage in law enforcement activities, including activities relating to the suppression of illicit traffic in narcotics, dangerous drugs, and marihuana, at ports of entry or along the land and water borders of the United States.
+There are hereby transferred from the Secretary of the Treasury, the Department of the Treasury, and any other officer or any agency of the Department of the Treasury, to the Attorney General all intelligence, investigative, and law enforcement functions, vested by law in the Secretary, the Department, officers, or agencies which relate to the suppression of illicit traffic in narcotics, dangerous drugs, or marihuana, except that the Secretary shall retain, and continue to perform, those functions, to the extent that they relate tosearches and seizures of illicit narcotics, dangerous drugs, or marihuana or to the apprehension or detention of persons in connection therewith, at regular inspection locations at ports of entry or anywhere along the land or water borders of the United States: <i>Provided</i>, that any illicit narcotics, dangerous drugs, marihuana, or related evidence seized, and any person apprehended or detained by the Secretary or any officer of the Department of the Treasury, pursuant to the authority retained in them by virtue of this section, shall be turned over forthwith to the jurisdiction of the Attorney General: <i>Provided further</i>, that nothing in this section shall be construed as limiting in any way any authority vested by law in the Secretary of the Treasury, the Department of the Treasury, or any other officer or any agency of that Department on the effective date of this Plan with respect to contraband other than illicit narcotics, dangerous drugs, and marihuana: and <i>Provided further</i>, that nothing in this section shall be construed as limiting in any way any authority the Attorney General, the Department of Justice, or any other officer or any agency of that Department may otherwise have to make investigations or engage in law enforcement activities, including activities relating to the suppression of illicit traffic in narcotics, dangerous drugs, and marihuana, at ports of entry or along the land and water borders of the United States.
 
 #### Sec. 2. Transfers to the Secretary of the Treasury
 
@@ -944,7 +944,7 @@ The Attorney General, working closely with the Administrator of this new agency,
 
 My proposals would make possible a more effective antidrug role for the FBI, especially in dealing with the relationship between drug trafficking and organized crime. I intend to see that the resources of the FBI are fully committed to assist in supporting the new Drug Enforcement Administration.
 
-The consolidation effected under Reorganization Plan No. 2 would reinforce the basic law enforcement and criminal justice mission of the Department of Justice. With worldwide drug law enforcement responsibilities no longer divided among several organizations in two different Cabinet departments, more complete and cumulative drug law enforcement intelligence could be compiled. Patterns of international and domestic illicit drug production, distribution, and sale could be more directly compared and interpreted. Case-by-case drug law enforcement activities could be more comprehensively linked, cross-referenced, and coordinated into a single, organic enforcement operation. In short, drug law enforcement officers would be able to spend more time going after the traffickers and less time coordinating with one another.
+The consolidation effected under Reorganization Plan No. 2 would reinforce the basic law enforcement and criminal justice mission of the Department of Justice. With worldwide drug law enforcement responsibilities no longer divided among several organizations in two different Cabinet departments, more complete and cumulative drug law enforcement intelligence could becompiled. Patterns of international and domestic illicit drug production, distribution, and sale could be more directly compared and interpreted. Case-by-case drug law enforcement activities could be more comprehensively linked, cross-referenced, and coordinated into a single, organic enforcement operation. In short, drug law enforcement officers would be able to spend more time going after the traffickers and less time coordinating with one another.
 
 Such progress could be especially helpful on the international front. Narcotics control action plans, developed under the leadership of the Cabinet Committee on International Narcotics Control, are now being carried out by U.S. officials in cooperation with host governments in 59 countries around the world. This wide-ranging effort to cut off drug supplies before they ever reach U.S. borders or streets is just now beginning to bear fruit. We can enhance its effectiveness, with little disruption of ongoing enforcement activities, by merging both the highly effective narcotics force of overseas Customs agents and the rapidly developing international activities of the Bureau of Narcotics and Dangerous Drugs into the Drug Enforcement Administration. The new agency would work closely with the Cabinet Committee under the active leadership of the U.S. Ambassador in each country where anti-drug programs are underway.
 
@@ -1110,77 +1110,9 @@ Responsibilities of the Agencies
 
 1–702. To the extent permitted by law, each agency shall furnish the Federal Legal Council and the Attorney General with reports, information and assistance as requested to carry out the provisions of this Order.
 
-#### Ex. Ord. 13271. Establishment of the Corporate Fraud Task Force
+#### Executive Order No. 13271
 
-Ex. Ord. No. 13271, July 9, 2002, 67 F.R. 46091, as amended by Ex. Ord. No. 13286, §3, Feb. 28, 2003, 68 F.R. 10619, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to strengthen the efforts of the Department of Justice and Federal, State, and local agencies to investigate and prosecute significant financial crimes, recover the proceeds of such crimes, and ensure just and effective punishment of those who perpetrate financial crimes, it is hereby ordered as follows:
-
-Section 1. <i>Establishment</i>. The Attorney General shall immediately establish within the Department of Justice a Corporate Fraud Task Force (Task Force). Without regard to any other provision of this order, the Task Force shall be subject to the authority of the Attorney General under applicable law.
-
-Sec. 2. <i>Membership and Operation</i>. Subject to section 4 of this order, the Task Force shall have the following members:
-
-(a) the Deputy Attorney General, who shall serve as Chair;
-
-(b) the Assistant Attorney General (Criminal Division);
-
-(c) the Assistant Attorney General (Tax Division);
-
-(d) the Director of the Federal Bureau of Investigation;
-
-(e) the United States Attorney for the Southern District of New York;
-
-(f) the United States Attorney for the Eastern District of New York;
-
-(g) the United States Attorney for the Northern District of Illinois;
-
-(h) the United States Attorney for the Eastern District of Pennsylvania;
-
-(i) the United States Attorney for the Central District of California;
-
-(j) the United States Attorney for the Northern District of California;
-
-(k) the United States Attorney for the Southern District of Texas; and
-
-(<i>l</i>) such other officers or employees of the Department of Justice as the Attorney General may from time to time designate.
-
-The Deputy Attorney General shall convene and direct the work of the Task Force in fulfilling all its functions under this order. The Deputy Attorney General may permit, when he deems it appropriate, the designee of a member of the Task Force, including those designated under section 4 of this order, to participate in lieu of the member. The Deputy Attorney General shall convene the first meeting of the Task Force within 10 days of the date of this order and shall thereafter convene the Task Force at such times as he deems appropriate.
-
-Sec. 3. <i>Functions</i>. Consistent with the constitutional authority of the President, the authorities assigned to the Attorney General by law, and other applicable law, the Task Force shall:
-
-(a) provide direction for the investigation and prosecution of cases of securities fraud, accounting fraud, mail and wire fraud, money laundering, tax fraud based on such predicate offenses, and other related financial crimes committed by commercial entities and directors, officers, professional advisers, and employees thereof (hereinafter “financial crimes”), when such cases are determined by the Deputy Attorney General, for purposes of this order, to be significant;
-
-(b) provide recommendations to the Attorney General for allocation and reallocation of resources of the Department of Justice for investigation and prosecution of significant financial crimes, recovery of proceeds from such crimes to the extent permitted by law, and other matters determined by the Task Force from time to time to be of the highest priority in the investigation and prosecution of such crimes; and
-
-(c) make recommendations to the President, through the Attorney General, from time to time for:
-
-&emsp;(i) action to enhance cooperation among departments, agencies, and entities of the Federal Government in the investigation and prosecution of significant financial crimes;
-
-&emsp;(ii) action to enhance cooperation among Federal, State, and local authorities responsible for the investigation and prosecution of significant financial crimes;
-
-&emsp;(iii) changes in rules, regulations, or policy to improve the effective investigation and prosecution of significant financial crimes; and
-
-&emsp;(iv) recommendations to the Congress regarding such measures as the President may judge necessary and expedient relating to significant financial crimes, or the investigation or prosecution thereof.
-
-Sec. 4. <i>Additional Participation for Specified Functions</i>. In the Task Force's performance of the functions set forth in subsection 3(c) of this order, and to the extent permitted by law, the following officers of the executive branch shall be members of the Task Force in addition to such other officers of the Federal Government as the Deputy Attorney General deems appropriate:
-
-(a) the Secretary of the Treasury;
-
-(b) the Secretary of Homeland Security;
-
-(c) the Chairman of the Securities and Exchange Commission;
-
-(d) the Chairman of the Commodities Futures Trading Commission;
-
-(e) the Chairman of the Federal Energy Regulatory Commission; and
-
-(f) the Chairman of the Federal Communications Commission.
-
-Sec. 5. <i>Internal Management Purpose</i>. This order is intended to improve the internal management of the Federal Government. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity or otherwise against the United States, its departments, agencies, entities, instrumentalities, officers, or employees, or any other person.
-
-Sec. 6. <i>Termination</i>. The Task Force shall terminate when directed by the President or, with the approval of the President, by the Attorney General.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13271, July 9, 2002, 67 F.R. 46091, as amended by Ex. Ord. No. 13286, §3, Feb. 28, 2003, 68 F.R. 10619, which established within the Department of Justice a Corporate Fraud Task Force, was terminated by Ex. Ord. No. 13519, §7(b), Nov. 17, 2009, 74 F.R. 60125, set out below.
 
 #### Ex. Ord. No. 13402. Strengthening Federal Efforts To Protect Against Identity Theft
 
@@ -1273,4 +1205,102 @@ Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 Sec. 6. <i>Termination</i>. Unless the Task Force is sooner terminated by the President, the Attorney General may terminate the Task Force by a written notice of its termination published in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13519. Establishment of the Financial Fraud Enforcement Task Force
+
+Ex. Ord. No. 13519, Nov. 17, 2009, 74 F.R. 60123, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, and in order to strengthen the efforts of the Department of Justice, in conjunction with Federal, State, tribal, territorial, and local agencies, to investigate and prosecute significant financial crimes and other violations relating to the current financial crisis and economic recovery efforts, recover the proceeds of such crimes and violations, and ensure just and effective punishment of those who perpetrate financial crimes and violations, it is hereby ordered as follows:
+
+Section 1. <i>Establishment</i>. There is hereby established an interagency Financial Fraud Enforcement Task Force (Task Force) led by the Department of Justice.
+
+Sec. 2. <i>Membership and Operation</i>. The Task Force shall be chaired by the Attorney General and consist of senior-level officials from the following departments, agencies, and offices, selected by the heads of the respective departments, agencies, and offices in consultation with the Attorney General:
+
+(a) the Department of Justice;
+
+(b) the Department of the Treasury;
+
+(c) the Department of Commerce;
+
+(d) the Department of Labor;
+
+(e) the Department of Housing and Urban Development;
+
+(f) the Department of Education;
+
+(g) the Department of Homeland Security;
+
+(h) the Securities and Exchange Commission;
+
+(i) the Commodity Futures Trading Commission;
+
+(j) the Federal Trade Commission;
+
+(k) the Federal Deposit Insurance Corporation;
+
+(l) the Board of Governors of the Federal Reserve System;
+
+(m) the Federal Housing Finance Agency;
+
+(n) the Office of Thrift Supervision;
+
+(o) the Office of the Comptroller of the Currency;
+
+(p) the Small Business Administration;
+
+(q) the Federal Bureau of Investigation;
+
+(r) the Social Security Administration;
+
+(s) the Internal Revenue Service, Criminal Investigations;
+
+(t) the Financial Crimes Enforcement Network;
+
+(u) the United States Postal Inspection Service;
+
+(v) the United States Secret Service;
+
+(w) the United States Immigration and Customs Enforcement;
+
+(x) relevant Offices of Inspectors General and related Federal entities, including without limitation the Office of the Inspector General for the Department of Housing and Urban Development, the Recovery Accountability and Transparency Board, and the Office of the Special Inspector General for the Troubled Asset Relief Program; and
+
+(y) such other executive branch departments, agencies, or offices as the President may, from time to time, designate or that the Attorney General may invite.
+
+The Attorney General shall convene and, through the Deputy Attorney General, direct the work of the Task Force in fulfilling all its functions under this order. The Attorney General shall convene the first meeting of the Task Force within 30 days of the date of this order and shall thereafter convene the Task Force at such times as he deems appropriate. At the direction of the Attorney General, the Task Force may establish subgroups consisting exclusively of Task Force members or their designees under this section, including but not limited to a Steering Committee chaired by the Deputy Attorney General, and subcommittees addressing enforcement efforts, training and information sharing, and victims’ rights, as the Attorney General deems appropriate.
+
+Sec. 3. <i>Mission and Functions</i>. Consistent with the authorities assigned to the Attorney General by law, and other applicable law, the Task Force shall:
+
+(a) provide advice to the Attorney General for the investigation and prosecution of cases of bank, mortgage, loan, and lending fraud; securities and commodities fraud; retirement plan fraud; mail and wire fraud; tax crimes; money laundering; False Claims Act violations; unfair competition; discrimination; and other financial crimes and violations (hereinafter financial crimes and violations), when such cases are determined by the Attorney General, for purposes of this order, to be significant;
+
+(b) make recommendations to the Attorney General, from time to time, for action to enhance cooperation among Federal, State, local, tribal, and territorial authorities responsible for the investigation and prosecution of significant financial crimes and violations; and
+
+(c) coordinate law enforcement operations with representatives of State, local, tribal, and territorial law enforcement.
+
+Sec. 4. <i>Coordination with State, Local, Tribal, and Territorial Law Enforcement</i>. Consistent with the objectives set out in this order, and to the extent permitted by law, the Attorney General is encouraged to invite the following representatives of State, local, tribal, and territorial law enforcement to participate in the Task Force's subcommittee addressing enforcement efforts in the subcommittee's performance of the functions set forth in section 3(c) of this order relating to the coordination of Federal, State, local, tribal, and territorial law enforcement operations involving financial crimes and violations:
+
+(a) the National Association of Attorneys General;
+
+(b) the National District Attorneys Association; and
+
+(c) such other representatives of State, local, tribal, and territorial law enforcement as the Attorney General deems appropriate.
+
+Sec. 5. <i>Outreach</i>. Consistent with the law enforcement objectives set out in this order, the Task Force, in accordance with applicable law, in addition to regular meetings, shall conduct outreach with representatives of financial institutions, corporate entities, nonprofit organizations, State, local, tribal, and territorial governments and agencies, and other interested persons to foster greater coordination and participation in the detection and prosecution of financial fraud and financial crimes, and in the enforcement of antitrust and antidiscrimination laws.
+
+Sec. 6. <i>Administration</i>. The Department of Justice, to the extent permitted by law and subject to the availability of appropriations, shall provide administrative support and funding for the Task Force.
+
+Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+&emsp;(i) authority granted by law to an executive department, agency, or the head thereof, or the status of that department or agency within the Federal Government; or
+
+&emsp;(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This Task Force shall replace, and continue the work of, the Corporate Fraud Task Force created by Executive Order 13271 of July 9, 2002. Executive Order 13271 is hereby terminated pursuant to section 6 of that order.
+
+(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 8. <i>Termination</i>. The Task Force shall terminate when directed by the President or, with the approval of the President, by the Attorney General.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

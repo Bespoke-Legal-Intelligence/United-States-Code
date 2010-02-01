@@ -12,7 +12,7 @@ For purposes of section 1441a–2 of this title:
 
 #### (2) Nonprofit entity
 
-&emsp;The term “nonprofit entity” means any not-for-profit corporation chartered under State law that is exempt from Federal taxation under section 501(c) of title 26 and no part of the net earnings of which inures to the benefit of any member, founder, contributor, or individual (including any nonprofit entity established by the corporation established under title IX of the Housing and Urban Development Act of 1968 \[42 U.S.C. 3931 et seq.\]).
+&emsp;The term “nonprofit entity” means any not-for-profit corporation chartered under Statelaw that is exempt from Federal taxation under section 501(c) of title 26 and no part of the net earnings of which inures to the benefit of any member, founder, contributor, or individual (including any nonprofit entity established by the corporation established under title IX of the Housing and Urban Development Act of 1968 \[42 U.S.C. 3931 et seq.\]).
 
 #### (3) Mortgage-related assets
 

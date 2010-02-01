@@ -4,7 +4,7 @@
 
 #### (1) Authority for grants
 
-&emsp;Subject to subsections (b) and (c) of this section, the Commissioner may make grants toStates for the purpose of providing the services described in subsection (d) of this section to older individuals who are blind.
+&emsp;Subject to subsections (b) and (c) of this section, the Commissioner may make grants to States for the purpose of providing the services described in subsection (d) of this section to older individuals who are blind.
 
 #### (2) Designated State agency
 
@@ -190,5 +190,5 @@ Part C of this subchapter, as in effect on the day before October 29, 1992, refe
 
 #### Prior Provisions
 
-A prior section 796k, Pub. L. 93–112, title VII, §752, as added Pub. L. 102–569, title VII, §703(a), Oct. 29, 1992, 106Stat. 4465; amended Pub. L. 103–73, title I, §114(m), Aug. 11, 1993, 107 Stat. 732, authorized grants to provide independent living services for older individuals who are blind, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796k, Pub. L. 93–112, title VII, §752, as added Pub. L. 102–569, title VII, §703(a), Oct. 29, 1992, 106 Stat. 4465; amended Pub. L. 103–73, title I, §114(m), Aug. 11, 1993, 107 Stat. 732, authorized grants to provide independent living services for older individuals who are blind, prior to the general amendment of this subchapter by Pub. L. 105–220.
 

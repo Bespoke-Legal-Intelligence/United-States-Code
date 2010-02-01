@@ -62,7 +62,7 @@ Special rule for short-term disability retirees.—In the case of a member who i
 
 &emsp;(4)
 
-High-36 months.—The high-36 months of a member or former member whose retired pay is covered by paragraph (1) or (2) are the 36 months (whether or not consecutive) out of all the months before the member or former member became entitled to retired pay for which the monthly basic pay to which the member or former member was entitled (or would have been entitled if serving on active duty during those months) was the highest. In the case of a former member, only months during which the former member was a member of a uniformed service may be used for purposes of the preceding sentence.
+High-36 months.—The high-36 months of a member or former member whose retired pay is covered by paragraph (1) or (2) are the 36 months (whether or not consecutive) out of all the months before the member or former member became entitled to retired pay or, in the case of a member or former member entitled to retired pay by reason of an election under section 12741(a) of this title, before the member or former member completes the service required under such section 12741(a), for which the monthly basic pay to which the member or former member was entitled (or would have been entitled if serving on active duty during those months) was the highest. In the case of a former member, only months during which the former member was a member of a uniformed service may be used for purposes of the preceding sentence.
 
 (e)
 
@@ -90,13 +90,15 @@ Affected members.—A member or former member referred to in paragraph (1) is a 
 
 Special rule for enlisted members.—In the case of a member who retires within three years after having been reduced in grade as described in paragraph (2)(A), who retires in an enlisted grade that is lower than the grade from which reduced, and who would be subject to paragraph (1) but for a subsequent promotion to a higher enlisted grade or a subsequent appointment to a warrant or commissioned grade, the rates of basic pay used in the computation of the member's high-36 average for the period of the member's service in a grade higher than the grade in which retired shall be the rates of pay that would apply if the member had been serving for that period in the grade in which retired.
 
-(Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 689; amended Pub. L. 101–189, div. A, title VI, §651(a), (b)(2), Nov. 29, 1989, 103 Stat. 1459, 1460; Pub. L. 103–337, div. A, title XVI, §1662(j)(5), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 104–106, div. A, title XV, §1501(c)(15), Feb. 10, 1996, 110 Stat. 499; Pub. L. 106–398, §1 \[\[div. A\], title VI, §651\], Oct. 30, 2000, 114 Stat. 1654, 1654A–163; Pub. L. 107–107, div. A, title X, §1048(c)(8), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–375, div. A, title VI, §641(a), Oct. 28, 2004, 118 Stat. 1957.)
+(Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 689; amended Pub. L. 101–189, div. A, title VI, §651(a), (b)(2), Nov. 29, 1989, 103 Stat. 1459, 1460; Pub. L. 103–337, div. A, title XVI, §1662(j)(5), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 104–106, div. A, title XV, §1501(c)(15), Feb. 10, 1996, 110 Stat. 499; Pub. L. 106–398, §1 \[\[div. A\], title VI, §651\], Oct. 30, 2000, 114 Stat. 1654, 1654A–163; Pub. L. 107–107, div. A, title X, §1048(c)(8), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–375, div. A, title VI, §641(a), Oct. 28, 2004, 118 Stat. 1957; Pub. L. 111–84, div. A, title VI, §643(d)(2), Oct. 28, 2009, 123 Stat. 2367.)
 
 #### Prior Provisions
 
 A prior section 1407, added Pub. L. 96–342, title VIII, §813(a)(1), Sept. 8, 1980, 94 Stat. 1100; amended Pub. L. 96–513, title I, §113(c), title V, §§501(21), 511(53), Dec. 12, 1980, 94 Stat. 2877, 2908, 2925, related to determination of retired base pay, prior to repeal by Pub. L. 99–348, §104(b).
 
 #### Amendments
+
+2009—Subsec. (d)(4). Pub. L. 111–84 inserted “or, in the case of a member or former member entitled to retired pay by reason of an election under section 12741(a) of this title, before the member or former member completes the service required under such section 12741(a),” after “became entitled to retired pay”.
 
 2004—Subsec. (c)(3). Pub. L. 108–375 added par. (3).
 

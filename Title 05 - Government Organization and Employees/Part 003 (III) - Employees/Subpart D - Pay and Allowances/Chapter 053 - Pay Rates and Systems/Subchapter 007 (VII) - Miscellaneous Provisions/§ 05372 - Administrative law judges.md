@@ -10,7 +10,7 @@
 
 (2) The Office of Personnel Management shall determine, in accordance with procedures which the Office shall by regulation prescribe, the level in which each administrative-law-judge position shall be placed and the qualifications to be required for appointment to each level.
 
-(3)(A) Upon appointment to a position in AL–3, an administrative law judge shall be paid at rate A of AL–3, and shall be advanced successively to rates B, C, and D of that level at the beginning of the next pay period following completion of 52 weeks of service in the next lower rate, and to rates E and F of that level at the beginning of the next pay period following completion of 104 weeks of service in the next lower rate.
+(3)(A) Upon appointment to a position in AL–3, an administrative law judge shall be paid at rate A of AL–3, and shall be advanced successively to rates B, C, and D of that level at the beginning of the next pay period following completion of 52weeks of service in the next lower rate, and to rates E and F of that level at the beginning of the next pay period following completion of 104 weeks of service in the next lower rate.
 
 (B) The Office of Personnel Management may provide for appointment of an administrative law judge in AL–3 at an advanced rate under such circumstances as the Office may determine appropriate.
 
@@ -85,7 +85,7 @@ Amendment by section 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 
 
 #### Conversion Rule for Administrative Law Judges
 
-Section 529 \[title I, §104(e)\] of Pub. L. 101–509 provided that: “In making initial pay adjustments for administrative law judges after this section and the amendments made by this section \[enacting section 5372a of this title, amending this section, sections 5102, 5311, and 5335 of this title, section 938 of Title 30, Mineral Lands and Mining, and section 607 of Title 41, Public Contracts\] take effect \[see Effective Date of 1990Amendment note set out under section 5301 of this title\], the rate of basic pay for any such judge shall, upon conversion to the new pay system, be at least equal to the rate which was payable to that individual immediately before such conversion.”
+Section 529 \[title I, §104(e)\] of Pub. L. 101–509 provided that: “In making initial pay adjustments for administrative law judges after this section and the amendments made by this section \[enacting section 5372a of this title, amending this section, sections 5102, 5311, and 5335 of this title, section 938 of Title 30, Mineral Lands and Mining, and section 607 of Title 41, Public Contracts\] take effect \[see Effective Date of 1990 Amendment note set out under section 5301 of this title\], the rate of basic pay for any such judge shall, upon conversion to the new pay system, be at least equal to the rate which was payable to that individual immediately before such conversion.”
 
 #### Pay Increases
 

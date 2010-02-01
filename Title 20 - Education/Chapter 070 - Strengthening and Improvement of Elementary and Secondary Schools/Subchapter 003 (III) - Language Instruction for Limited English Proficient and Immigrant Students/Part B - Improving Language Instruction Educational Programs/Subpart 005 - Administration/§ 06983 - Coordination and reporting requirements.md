@@ -30,7 +30,7 @@ The Director shall prepare and, not later than February 1 of every other year, s
 
 #### Prior Provisions
 
-A prior section 7001, Pub. L. 89–10, title III, §3601, as added Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1711\],Dec. 21, 2000, 114 Stat. 2763, 2763A–337, related to limitation on availability of certain funds for schools, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6777 of this title.
+A prior section 7001, Pub. L. 89–10, title III, §3601, as added Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1711\], Dec. 21, 2000, 114 Stat. 2763, 2763A–337, related to limitation on availability of certain funds for schools, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6777 of this title.
 
 Another prior section 7001 and prior sections 7002 to 7005 were repealed by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(e)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
 
@@ -40,7 +40,7 @@ Section 7002, Pub. L. 89–10, title III, §3602, as added Pub. L. 103–382, ti
 
 Section 7003, Pub. L. 89–10, title III, §3603, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3671, required State plans meeting certain criteria.
 
-Section 7004, Pub. L. 89–10, title III, §3604, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3672, related to distribution of allocations to local educational agencies.
+Section 7004, Pub. L. 89–10, title III, §3604, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3672,related to distribution of allocations to local educational agencies.
 
 Section 7005, Pub. L. 89–10, title III, §3605, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3672, authorized appropriations.
 

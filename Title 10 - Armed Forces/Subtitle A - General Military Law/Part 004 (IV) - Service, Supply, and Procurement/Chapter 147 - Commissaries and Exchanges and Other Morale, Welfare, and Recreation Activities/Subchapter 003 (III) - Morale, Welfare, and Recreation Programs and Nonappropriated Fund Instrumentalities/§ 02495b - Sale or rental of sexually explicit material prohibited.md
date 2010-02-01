@@ -36,7 +36,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term “property under the jurisdiction of the Department of Defense” includes commissaries, all facilities operated by the Army and Air Force Exchange Service, the Navy Exchange Service Command, the Navy Resale and Services Support Office, Marine Corps exchanges, and ships’ stores.
 
-(Added Pub. L. 104–201, div. A, title III, §343(a)(1), Sept. 23, 1996, 110 Stat. 2489, §2489a; renumbered §2495b, Pub. L. 108–375, div. A, title VI, §651(b)(2), (c)(5), Oct. 28, 2004, 118 Stat. 1971, 1972; Pub. L. 110–417, \[div. A\], title VI, §642(a), Oct. 14, 2008, 122 Stat. 4493.)
+(Added Pub. L. 104–201, div. A, title III, §343(a)(1), Sept. 23, 1996, 110 Stat. 2489, §2489a; renumbered §2495b, Pub. L. 108–375, div. A, title VI, §651(b)(2), (c)(5), Oct. 28, 2004, 118 Stat. 1971, 1972; amended Pub. L. 110–417, \[div. A\], title VI, §642(a), Oct. 14, 2008, 122 Stat. 4493.)
 
 #### Amendments
 

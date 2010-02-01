@@ -16,7 +16,7 @@ The Congress finds that:
 
 &emsp;(5) A unified monarchical government of the Hawaiian Islands was established in 1810 under Kamehameha I, the first King of Hawaii.
 
-&emsp;(6) Throughout the 19th century and until 1893, the United States: (A) recognized theindependence of the Hawaiian Nation; (B) extended full and complete diplomatic recognition to the Hawaiian Government; and (C) entered into treaties and conventions with the Hawaiian monarchs to govern commerce and navigation in 1826, 1842, 1849, 1875 and 1887.
+&emsp;(6) Throughout the 19th century and until 1893, the United States: (A) recognized the independence of the Hawaiian Nation; (B) extended full and complete diplomatic recognition to the Hawaiian Government; and (C) entered into treaties and conventions with the Hawaiian monarchs to govern commerce and navigation in 1826, 1842, 1849, 1875 and 1887.
 
 &emsp;(7) In the year 1893, the United States Minister assigned to the sovereign and independent Kingdom of Hawaii, John L. Stevens, conspired with a small group of non-Hawaiian residents of the Kingdom, including citizens of the United States, to overthrow the indigenous and lawful Government of Hawaii.
 
@@ -30,7 +30,7 @@ The Congress finds that:
 
 &emsp;(12) Through the Newlands Resolution and the 1900 Organic Act, the United States Congress received 1.75 million acres of lands formerly owned by the Crown and Government of the Hawaiian Kingdom and exempted the lands from then existing public land laws of the United States by mandating that the revenue and proceeds from these lands be “used solely for the benefit of the inhabitants of the Hawaiian Islands for education and other public purposes”, thereby establishing a special trust relationship between the United States and the inhabitants of Hawaii.
 
-&emsp;(13) In 1921, Congress enacted the Hawaiian Homes Commission Act, 1920 which designated 200,000 acres of the ceded public lands for exclusive homesteading by Native Hawaiians, thereby affirming the trust relationship between the United States and the Native Hawaiians, as expressed by then Secretary of the Interior Franklin K. Lane who was cited in the Committee Report of the United States House of Representatives Committee on Territories as stating, “One thing that impressed me . . . was the fact that the natives of the islands who are our wards, I should say, and for whom in a sense we are trustees, are falling off rapidly in numbers and many of them are in poverty.”.
+&emsp;(13) In 1921, Congress enacted the Hawaiian Homes Commission Act, 1920 which designated 200,000 acres of the ceded public lands for exclusive homesteading by Native Hawaiians, thereby affirming the trust relationship between the United States and the Native Hawaiians, as expressed by then Secretary of the Interior Franklin K. Lane who was cited in the Committee Report of the United States House of Representatives Committee on Territories as stating, “One thing that impressed me . . . was the fact that the natives of the islands who are our wards, I should say, and for whomin a sense we are trustees, are falling off rapidly in numbers and many of them are in poverty.”.
 
 &emsp;(14) In 1938, the United States Congress again acknowledged the unique status of the Hawaiian people by including in the Act of June 20, 1938 (52 Stat. 781 et seq.), a provision to lease lands within the extension to Native Hawaiians and to permit fishing in the area “only by native Hawaiian residents of said area or of adjacent villages and by visitors under their guidance”.
 
@@ -42,7 +42,7 @@ The Congress finds that:
 
 &emsp;(18) In furtherance of the trust responsibility for the betterment of the conditions of Native Hawaiians, the United States has established a program for the provision of comprehensive health promotion and disease prevention services to maintain and improve the health status of the Hawaiian people.
 
-&emsp;(19) This historical and unique legal relationship has been consistently recognized and affirmed by the Congress through the enactment of Federal laws which extend to the Hawaiian people the same rights and privileges accorded to American Indian, Alaska Native, Eskimo, and Aleut communities, including the Native American Programs Act of 1974 \[42 U.S.C. 2991 et seq.\]; the American Indian Religious Freedom Act \[42 U.S.C. 1996, 1996a\]; theNational Museum of the American Indian Act \[20 U.S.C. 80q et seq.\]; and the Native American Graves Protection and Repatriation Act \[25 U.S.C. 3001 et seq.\].
+&emsp;(19) This historical and unique legal relationship has been consistently recognized and affirmed by the Congress through the enactment of Federal laws which extend to the Hawaiian people the same rights and privileges accorded to American Indian, Alaska Native, Eskimo, and Aleut communities, including the Native American Programs Act of 1974 \[42 U.S.C. 2991 et seq.\]; the American Indian Religious Freedom Act \[42 U.S.C. 1996, 1996a\]; the National Museum of the American Indian Act \[20 U.S.C. 80q et seq.\]; and the Native American Graves Protection and Repatriation Act \[25 U.S.C. 3001 et seq.\].
 
 &emsp;(20) The United States has also recognized and reaffirmed the trust relationship to the Hawaiian people through legislation which authorizes the provision of services to Native Hawaiians, specifically, the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\], the Developmental Disabilities Assistance and Bill of Rights Act Amendments of 1987, the Veterans’ Benefits and Services Act of 1988, the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], the Native Hawaiian Health Care Act of 1988, the Health Professions Reauthorization Act of 1988, the Nursing Shortage Reduction and Education Extension Act of 1988, the Handicapped Programs Technical Amendments Act of 1988, the Indian Health Care Amendments of 1988, and the Disadvantaged Minority Health Improvement Act of 1990.
 
@@ -92,7 +92,7 @@ The Indian Health Care Amendments of 1988, referred to in par. (20), is Pub. L. 
 
 The Disadvantaged Minority Health Improvement Act of 1990, referred to in par. (20), is Pub. L. 101–527, Nov. 6, 1990, 104 Stat. 2311. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under section 201 of this title and Tables.
 
-The Anti-Drug Abuse Act of 1986, referred to in par. (21), is Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207, asamended. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 801 of Title 21, Food and Drugs, and Tables.
+The Anti-Drug Abuse Act of 1986, referred to in par. (21), is Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207, as amended. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 801 of Title 21, Food and Drugs, and Tables.
 
 #### Codification
 

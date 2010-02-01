@@ -82,7 +82,7 @@
 
 &emsp;&emsp;&emsp;(i) the Report of the International Joint Commission to the Governments of the United States and Canada under the 1977 reference issued in 1985; and
 
-&emsp;&emsp;&emsp;(ii) the 1993 Report of the International Joint Commission to the Governments of Canada and the United States on Methods of Alleviating Adverse Consequences ofFluctuating Water Levels in the Great Lakes St. Lawrence Basin.
+&emsp;&emsp;&emsp;(ii) the 1993 Report of the International Joint Commission to the Governments of Canada and the United States on Methods of Alleviating Adverse Consequences of Fluctuating Water Levels in the Great Lakes St. Lawrence Basin.
 
 #### (c) Great Lakes recreational boating
 

@@ -10,7 +10,7 @@ Covered Individuals.—A member of the Armed Forces or veteran described in this
 
 (c)
 
-Inapplicability to Housing and Small Business Benefit Programs.—The limitation on authority in subsection (a) shall not apply to any amounts owed the United States under any program carried out under chapter 37 of this title.
+Inapplicability to Housing and Small Business Benefit Programs.—The limitation on authority in subsection (a) shall not apply to any amounts owed the United States under anyprogram carried out under chapter 37 of this title.
 
 (Added Pub. L. 110–252, title I, §1303(a)(1), June 30, 2008, 122 Stat. 2327.)
 

@@ -12,5 +12,5 @@ Section 674, Pub. L. 87–276, §4, Sept. 22, 1961, 75 Stat. 576, authorized Com
 
 Section 675, Pub. L. 87–276, §5, Sept. 22, 1961, 75 Stat. 576, established Advisory Committee on the Training of Teachers of the Deaf to review and otherwise make recommendations in connection with grants-in-aid program.
 
-Section 676, Pub. L. 87–276, §6, Sept. 22, 1961, 75 Stat. 576; Pub. L. 88–164, title III, §301(c), Oct. 31, 1963, 77Stat. 295, authorized appropriations up through fiscal year ending June 30, 1964, and provided for termination of this chapter on June 30, 1964. Pub. L. 91–230, title VI, §662(4), Apr. 13, 1970, 84 Stat. 188, repealed title III of Pub. L. 88–164, cited above.
+Section 676, Pub. L. 87–276, §6, Sept. 22, 1961, 75 Stat. 576; Pub. L. 88–164, title III, §301(c), Oct. 31, 1963, 77 Stat. 295, authorized appropriations up through fiscal year ending June 30, 1964, and provided for termination of this chapter on June 30, 1964. Pub. L. 91–230, title VI, §662(4), Apr. 13, 1970, 84 Stat. 188, repealed title III of Pub. L. 88–164, cited above.
 

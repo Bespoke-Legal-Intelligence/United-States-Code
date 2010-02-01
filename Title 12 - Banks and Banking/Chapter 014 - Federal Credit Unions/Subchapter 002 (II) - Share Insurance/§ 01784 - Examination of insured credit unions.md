@@ -20,7 +20,7 @@ The Administration may accept any report of examination made by or to any commis
 
 #### (1) Examination
 
-&emsp;The Board shall, during each examination conducted under this section, determine whether the insured credit union is complying with the requirements of the national flood insurance program.
+&emsp;The Board shall, during each examination conducted under this section, determine whether the insured credit union is complyingwith the requirements of the national flood insurance program.
 
 #### (2) Report
 

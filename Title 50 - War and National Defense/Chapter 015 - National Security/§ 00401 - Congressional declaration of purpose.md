@@ -10,9 +10,9 @@ This legislation, referred to in text, means act July 26, 1947, ch. 343, 61 Stat
 
 #### Amendments
 
-<b>1958</b>—Pub. L. 85–599 amended section generally, and, among other changes, provided that each military department shall be separately organized, instead of separately administered, under its own Secretary and shallfunction under the direction, authority, and control of the Secretary of Defense, and inserted provisions relating to establishment of unified or specified combatant commands and for elimination of unnecessary duplication.
+1958—Pub. L. 85–599 amended section generally, and, among other changes, provided that each military department shall be separately organized, instead of separately administered, under its own Secretary and shallfunction under the direction, authority, and control of the Secretary of Defense, and inserted provisions relating to establishment of unified or specified combatant commands and for elimination of unnecessary duplication.
 
-<b>1949</b>—Act Aug. 10, 1949, provided that the military departments shall be separately administered but be under the direction of the Secretary of Defense, and that there shall not be a single Chief of Staff over the armed forces nor an armed forces general staff.
+1949—Act Aug. 10, 1949, provided that the military departments shall be separately administered but be under the direction of the Secretary of Defense, and that there shall not be a single Chief of Staff over the armed forces nor an armed forces general staff.
 
 #### Change of Name
 
@@ -256,6 +256,18 @@ Section 309 of act July 26, 1947, provided: “If any provision of this Act \[se
 #### Construction of References to Director of Central Intelligence
 
 Pub. L. 108–487, title VIII, §802, Dec. 23, 2004, 118 Stat. 3962, provided that: “Except as otherwise specifically provided or otherwise provided by context, any reference in this Act \[see Effective Date of 2004 Amendments note set out under section 2656f of Title 22, Foreign Relations and Intercourse\], or in the classified annex to accompany this Act, to the Director of Central Intelligence shall be deemed to be a reference to the Director of Central Intelligence as head of the intelligence community.”
+
+#### Charter for the National Reconnaissance Office
+
+Pub. L. 111–84, div. A, title X, §1035, Oct. 28, 2009, 123 Stat. 2450, provided that: “Not later than February 1, 2010, the Director of National Intelligence and the Secretary of Defense shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate a revised charter for the National Reconnaissance Office (in this section referred to as the ‘NRO’). The charter shall include the following:
+
+&emsp;“(1) The organizational and governance structure of the NRO.
+
+&emsp;“(2) The role of the NRO in the development and generation of requirements and acquisition.
+
+&emsp;“(3) The scope of the capabilities of the NRO.
+
+&emsp;“(4) The roles and responsibilities of the NRO and the relationship of the NRO to other organizations and agencies in the intelligence and defense communities.”
 
 #### Incorporation of Reporting Requirements
 
@@ -541,7 +553,7 @@ Ex. Ord. No. 12036, Jan. 24, 1978, 43 F.R. 3674, as amended by Ex. Ord. No. 1213
 
 #### Ex. Ord. No. 12333. United States Intelligence Activities
 
-Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, as amended by Ex. Ord. No. 13284, §18, Jan. 23, 2003, 68 F.R. 4077; Ex. Ord. No. 13355, §§2, 3, 6, Aug. 27, 2004, 69 F.R.53593; Ex. Ord. No. 13470, §§1–4, July 30, 2008, 73 F.R. 45325, provided:
+Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, as amended by Ex. Ord. No. 13284, §18, Jan. 23, 2003, 68 F.R. 4077; Ex. Ord. No. 13355, §§2, 3, 6, Aug. 27, 2004, 69 F.R. 53593; Ex. Ord. No. 13470, §§1–4, July 30, 2008, 73 F.R. 45325, provided:
 
 #### TABLE OF CONTENTS \[Omitted.\]
 
@@ -593,7 +605,7 @@ Subject to the authority, direction, and control of the President, the Director 
 
 (1) Is hereby assigned the function under section 3(5) of the Act, to determine that intelligence, regardless of the source from which derived and including information gathered within or outside the United States, pertains to more than one United States Government agency; and
 
-(2) Shall develop guidelines for how information or intelligence is provided to or accessed by the Intelligence Community in accordance with section 1.5(a) of this order, and for how the information or intelligence may be used and shared by the Intelligence Community. All guidelines developed in accordance with this section shall be approved by the Attorney General and, where applicable, shall be consistent with guidelines issued pursuant to section 1016 of the Intelligence Reform and Terrorism Protection Act of 2004 (Public Law 108–458) (IRTPA).
+(2) Shall develop guidelines for how information or intelligence is provided to or accessed by the Intelligence Community in accordance with section 1.5(a) ofthis order, and for how the information or intelligence may be used and shared by the Intelligence Community. All guidelines developed in accordance with this section shall be approved by the Attorney General and, where applicable, shall be consistent with guidelines issued pursuant to section 1016 of the Intelligence Reform and Terrorism Protection Act of 2004 (Public Law 108–458) (IRTPA).
 
 (b) In addition to fulfilling the obligations and responsibilities prescribed by the Act, the Director:
 
@@ -653,7 +665,7 @@ Subject to the authority, direction, and control of the President, the Director 
 
 (16) Shall ensure the timely exploitation and dissemination of data gathered by national intelligence collection means, and ensure that the resulting intelligence is disseminated immediately to appropriate government elements, including military commands;
 
-(17) Shall determine requirements and priorities for, and manage and direct the tasking, collection, analysis, production, and dissemination of, national intelligence by elements of the Intelligence Community, including approving requirements for collection and analysis and resolving conflicts in collection requirements and in the tasking of national collection assets of Intelligence Community elements (except when otherwise directed by the President or when the Secretary of Defense exercises collection tasking authority under plans and arrangements approved by the Secretary of Defense and the Director);
+(17) Shall determine requirements and priorities for, and manage and direct the tasking, collection, analysis, production, and dissemination of, national intelligence by elements of the Intelligence Community, including approving requirements for collection and analysis and resolving conflicts in collection requirements and in the tasking of national collection assets of Intelligence Community elements (except whenotherwise directed by the President or when the Secretary of Defense exercises collection tasking authority under plans and arrangements approved by the Secretary of Defense and the Director);
 
 (18) May provide advisory tasking concerning collection and analysis of information or intelligence relevant to national intelligence or national security to departments, agencies, and establishments of the United States Government that are not elements of the Intelligence Community; and shall establish procedures, in consultation with affected heads of departments or agencies and subject to approval by the Attorney General, to implement this authority and to monitor or evaluate the responsiveness of United States Government departments, agencies, and other establishments;
 
@@ -661,7 +673,7 @@ Subject to the authority, direction, and control of the President, the Director 
 
 (20) Shall ensure, through appropriate policies and procedures, the deconfliction, coordination, and integration of all intelligence activities conducted by an Intelligence Community element or funded by the National Intelligence Program. In accordance with these policies and procedures:
 
-&emsp;(A) The Director of the Federal Bureau of Investigation shall coordinate the clandestine collection offoreign intelligence collected through human sources or through human-enabled means and counterintelligence activities inside the United States;
+&emsp;(A) The Director of the Federal Bureau of Investigation shall coordinate the clandestine collection of foreign intelligence collected through human sources or through human-enabled means and counterintelligence activities inside the United States;
 
 &emsp;(B) The Director of the Central Intelligence Agency shall coordinate the clandestine collection of foreign intelligence collected through human sources or through human-enabled means and counterintelligence activities outside the United States;
 
@@ -689,7 +701,7 @@ Subject to the authority, direction, and control of the President, the Director 
 
 (1) Except for the Director of the Central Intelligence Agency, whose removal the Director may recommend to the President, the Director and the relevant department head shall consult on the removal, or recommendation to the President for removal, as the case may be, of: the Director of the National Security Agency, the Director of the National Geospatial-Intelligence Agency, the Director of the Defense Intelligence Agency, the Under Secretary of Homeland Security for Intelligence and Analysis, the Assistant Secretary of State for Intelligence and Research, and the Assistant Secretary for Intelligence and Analysis of the Department of the Treasury. If the Director and the department head do not agree on removal, or recommendation for removal, either may make a recommendation to the President for the removal of the individual.
 
-(2) The Director and the relevant department or bureau head shall consult on the removal of: the Executive Assistant Director for the National Security Branch of the Federal Bureau of Investigation, the Director of the Office of Intelligence and Counterintelligence of the Department of Energy, the Director of the National Reconnaissance Office, the Assistant Commandant of the Coast Guard for Intelligence, and the Under Secretary of Defense for Intelligence. With respect to an individual appointed by a department head, the department head may remove the individual upon the request of the Director; if the department head chooses not to remove the individual, either the Director or the department head may advise the President of the department head's intention to retain the individual. In the case of the Under Secretary of Defense for Intelligence, the Secretary of Defense may recommend to the President either the removal or the retention of the individual. For uniformed heads of the intelligence elements of the Army, the Navy, the Air Force, and the Marine Corps, the Director may make a recommendation for removal to the Secretary of Defense.
+(2) The Director and the relevant department or bureau head shall consult on the removal of: the Executive Assistant Director for the National Security Branch of the Federal Bureau of Investigation, the Director of the Office of Intelligence and Counterintelligence of the Department of Energy, the Director of the National Reconnaissance Office, the Assistant Commandant of the Coast Guard for Intelligence, and the Under Secretary of Defense for Intelligence. With respect to an individual appointed by a department head, the department head may remove the individual upon the request of the Director; if the department head chooses not to remove the individual, either the Director or the department head may advise the President of the department head's intention to retain the individual. In the case of the Under Secretary of Defense for Intelligence, the Secretary of Defense may recommend to the President either the removal or theretention of the individual. For uniformed heads of the intelligence elements of the Army, the Navy, the Air Force, and the Marine Corps, the Director may make a recommendation for removal to the Secretary of Defense.
 
 (3) Nothing in this subsection shall be construed to limit or otherwise affect the authority of the President to nominate, appoint, assign, or terminate the appointment or assignment of any individual, with or without a consultation, recommendation, or concurrence.
 
@@ -919,7 +931,7 @@ The Secretary of Defense shall:
 
 (j) Conduct such administrative and technical support activities within and outside the United States as are necessary to provide for cover and proprietary arrangements, to perform the functions described in \[sub\]sections (a) though \[sic\] (i) above, and to support the Intelligence Community elements of the Department of Defense; and
 
-(k) Use the Intelligence Community elements within the Department of Defense identified in section 1.7(b) through (f) and, when the Coast Guard is operating as part of the Department of Defense, (h) above to carry out the Secretary of Defense's responsibilities assigned in this section or other departments, agencies, or offices within the Department of Defense, as appropriate, to conduct the intelligence missions and responsibilities assigned to the Secretary of Defense.
+(k) Use the Intelligence Community elements within the Department of Defense identified in section 1.7(b)through (f) and, when the Coast Guard is operating as part of the Department of Defense, (h) above to carry out the Secretary of Defense's responsibilities assigned in this section or other departments, agencies, or offices within the Department of Defense, as appropriate, to conduct the intelligence missions and responsibilities assigned to the Secretary of Defense.
 
 #### 1\.11
 
@@ -1003,7 +1015,7 @@ Elements of the Intelligence Community shall use the least intrusive collection 
 
 (c) Physical surveillance of a United States person in the United States by elements of the Intelligence Community other than the FBI, except for:
 
-(1) Physical surveillance of present or former employees, present or former intelligence element contractorsor their present or former employees, or applicants for any such employment or contracting; and
+(1) Physical surveillance of present or former employees, present or former intelligence element contractors or their present or former employees, or applicants for any such employment or contracting; and
 
 (2) Physical surveillance of a military person employed by a nonintelligence element of a military service; and
 
@@ -1081,7 +1093,7 @@ No covert action may be conducted which is intended to influence United States p
 
 Congressional Oversight
 
-The duties and responsibilities of the Director and the heads of other departments, agencies, elements, and entities engaged in intelligence activities to cooperate with the Congress in the conduct of its responsibilities for oversight of intelligence activities shall be implemented in accordance with applicable law, including title V of the Act \[50 U.S.C. 413 et seq.\]. The requirements of applicable law, including title V of the Act, shall apply to all covert action activities as defined in this Order.
+The duties and responsibilities of the Director and the heads of other departments, agencies, elements, and entities engaged in intelligence activities to cooperate with the Congress in the conduct of its responsibilities for oversight of intelligence activities shall beimplemented in accordance with applicable law, including title V of the Act \[50 U.S.C. 413 et seq.\]. The requirements of applicable law, including title V of the Act, shall apply to all covert action activities as defined in this Order.
 
 #### 3\.2
 
@@ -1093,7 +1105,7 @@ The President, supported by the NSC, and the Director shall issue such appropria
 
 Procedures
 
-The activities herein authorized that require procedures shall be conducted in accordance with existing procedures or requirements established under Executive Order 12333. New procedures, as required by Executive Order 12333, as further amended, shall be established as expeditiously as possible. All new procedures promulgated pursuant to Executive Order 12333, asamended, shall be made available to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.
+The activities herein authorized that require procedures shall be conducted in accordance with existing procedures or requirements established under Executive Order 12333. New procedures, as required by Executive Order 12333, as further amended, shall be established as expeditiously as possible. All new procedures promulgated pursuant to Executive Order 12333, as amended, shall be made available to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.
 
 #### 3\.4
 
@@ -1167,7 +1179,7 @@ For the purposes of this Order, the following terms shall have these meanings:
 
 (j) <i>The National Intelligence Program</i> means all programs, projects, and activities of the Intelligence Community, as well as any other programs of the Intelligence Community designated jointly by the Director and the head of a United States department or agency or by the President. Such term does not include programs, projects, or activities of the military departments to acquire intelligence solely for the planning and conduct of tactical military operations by United States Armed Forces.
 
-(k) <i>United States person</i> means a United States citizen, an alien known by the intelligence element concerned to be a permanent resident alien, an unincorporated association substantially composed of United States citizens or permanent resident aliens, or a corporation incorporated in the United States, except for a corporation directed and controlled by a foreign government or governments.
+(k) <i>United States person</i> means a United States citizen, an alien known by the intelligence element concernedto be a permanent resident alien, an unincorporated association substantially composed of United States citizens or permanent resident aliens, or a corporation incorporated in the United States, except for a corporation directed and controlled by a foreign government or governments.
 
 #### 3\.6
 
@@ -1265,7 +1277,7 @@ Sec. 5. <i>Additional Responsibilities</i>. (a) Except for employees excluded by
 
 (c) The Secretary of State shall issue rules or guidance on national security professional development programs for the Foreign Service, including interagency and intergovernmental exchanges and fellowship opportunities, to implement the National Strategy and the plan, as appropriate, and shall coordinate such programs, to the maximum extent practicable, with the Steering Committee;
 
-(d) The Director of National Intelligence, in coordination with the heads of agencies of which elements ofthe intelligence community are a part, shall issue rules or guidance on national security professional development programs for the intelligence community, including interagency and intergovernmental assignments and fellowship opportunities, to implement the National Strategy and the plan, as appropriate, and shall coordinate such programs, to the maximum extent practicable, with the Steering Committee; and
+(d) The Director of National Intelligence, in coordination with the heads of agencies of which elements of the intelligence community are a part, shall issue rules or guidance on national security professional development programs for the intelligence community, including interagency and intergovernmental assignments and fellowship opportunities, to implement the National Strategy and the plan, as appropriate, and shall coordinate such programs, to the maximum extent practicable, with the Steering Committee; and
 
 (e) The Secretary of Homeland Security shall develop a program to provide to Federal, State, local, and tribal government officials education in disaster preparedness, response, and recovery plans and authorities, and training in crisis decision-making skills, consistent with applicable presidential guidance.
 
@@ -1281,7 +1293,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13462. President's Intelligence Advisory Board and Intelligence Oversight Board
 
-Ex. Ord. No. 13462, Feb. 29, 2008, 73 F.R. 11805, provided:
+Ex. Ord. No. 13462, Feb. 29, 2008, 73 F.R. 11805, as amended by Ex. Ord. No. 13516, §1, Oct. 28, 2009, 74 F.R. 56521, 57241, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -1291,15 +1303,15 @@ Sec. 2. <i>Definitions</i>. As used in this order:
 
 (a) “department concerned” means an executive department listed in section 101 of title 5, United States Code, that contains an organization listed in or designated pursuant to section 3(4) of the National Security Act of 1947, as amended (50 U.S.C. 401a(4));
 
-(b) “intelligence activities” has the meaning specified in section 3.4 of Executive Order 12333 of December 4, 1981, as amended; and
+(b) “intelligence activities” has the meaning specified in section 3.5 of Executive Order 12333 of December 4, 1981, as amended; and
 
 (c) “intelligence community” means the organizations listed in or designated pursuant to section 3(4) of the National Security Act of 1947, as amended.
 
 Sec. 3. <i>Establishment of the President's Intelligence Advisory Board</i>. (a) There is hereby established, within the Executive Office of the President and exclusively to advise and assist the President as set forth in this order, the President's Intelligence Advisory Board (PIAB).
 
-(b) The PIAB shall consist of not more than 16 members appointed by the President from among individuals who are not employed by the Federal Government.
+(b) The PIAB shall consist of not more than 16 members appointed by the President from among individuals who are not full-time employees of the Federal Government.
 
-(c) The President shall designate a Chair from among the members of the PIAB, who shall convene and preside at meetings of the PIAB, determine its agenda, and direct its work.
+(c) The President shall designate a Chair or Co-Chairs from among the members of the PIAB, who shall convene and preside at meetings of the PIAB, determine its agenda, and direct its work.
 
 (d) Members of the PIAB and the Intelligence Oversight Board (IOB) established in section 5 of this order:
 
@@ -1323,13 +1335,13 @@ Sec. 5. <i>Establishment of Intelligence Oversight Board.</i>
 
 (a) There is hereby established a committee of the PIAB to be known as the Intelligence Oversight Board.
 
-(b) The IOB shall consist of not more than five members of the PIAB who are designated by the President from among members of the PIAB to serve on the IOB. The IOB shall utilize such full-time professional and administrative staff as authorized by the Chair and approved by the President or the President's designee. Such staff shall be supervised by an Executive Director of the IOB, appointed by the President, whom the President may designate to serve also as the Executive Director of the PIAB.
+(b) The IOB shall consist of not more than five members of the PIAB who are designated by the President from among members of the PIAB to serve on the IOB. The IOB shall utilize such full-time professional and administrative staff as authorized by the Chair and approved by the President or the President's designee. Such staff shall be supervised by an Executive Directorof the IOB, appointed by the President, whom the President may designate to serve also as the Executive Director of the PIAB.
 
 (c) The President shall designate a Chair from among the members of the IOB, who shall convene and preside at meetings of the IOB, determine its agenda, and direct its work.
 
 Sec. 6. <i>Functions of the IOB</i>. Consistent with the policy set forth in section 1 of this order, the IOB shall:
 
-(a) issue criteria on the thresholds for reporting matters to the IOB, to the extent consistent with section 1.7(d) of Executive Order 12333 or the corresponding provision of any successor order;
+(a) issue criteria on the thresholds for reporting matters to the IOB, to the extent consistent with section 1.6(c) of Executive Order 12333, as amended\[,\] or the corresponding provision of any successor order;
 
 (b) inform the President of intelligence activities that the IOB believes:
 
@@ -1339,23 +1351,25 @@ Sec. 6. <i>Functions of the IOB</i>. Consistent with the policy set forth in sec
 
 (ii) should be immediately reported to the President.\[;\]
 
-(c) review and assess the effectiveness, efficiency, and sufficiency of the processes by which the DNI and the heads of departments concerned perform their respective functions under this order and report thereon as necessary, together with any recommendations, to the President and, as appropriate, the DNI and the head of the department concerned;
+(c) forward to the Attorney General information concerning intelligence activities that involve possible violations of Federal criminal laws or otherwise implicate the authority of the Attorney General;
 
-(d) receive and review information submitted by the DNI under subsection 7(c) of this order and make recommendations thereon, including for any needed corrective action, with respect to such information, and the intelligence activities to which the information relates, as necessary, but not less than twice each year, to the President, the DNI, and the head of the department concerned; and
+(d) review and assess the effectiveness, efficiency, and sufficiency of the processes by which the DNI and the heads of departments concerned perform their respective functions under this order and report thereon as necessary, together with any recommendations, to the President and, as appropriate, the DNI and the head of the department concerned;
 
-(e) conduct, or request that the DNI or the head of the department concerned, as appropriate, carry out and report to the IOB the results of, investigations of intelligence activities that the IOB determines are necessary to enable the IOB to carry out its functions under this order.
+(e) receive and review information submitted by the DNI under subsection 7(c) of this order and make recommendations thereon, including for any needed corrective action, with respect to such information, and the intelligence activities to which the information relates, as necessary, but not less than twice each year, to the President, the DNI, and the head of the department concerned; and
+
+(f) conduct, or request that the DNI or the head of the department concerned, as appropriate, carry out and report to the IOB the results of, investigations of intelligence activities that the IOB determines are necessary to enable the IOB to carry out its functions under this order.
 
 Sec. 7. <i>Functions of the Director of National Intelligence</i>. Consistent with the policy set forth in section 1 of this order, the DNI shall:
 
 (a) with respect to guidelines applicable to organizations within the intelligence community that concern reporting of intelligence activities described in subsection 6(b)(i)(A) of this order:
 
-(i) review and ensure that such guidelines are consistent with section 1.7(d) of Executive Order 12333, or a corresponding provision of any successor order, and this order; and
+(i) review and ensure that such guidelines are consistent with section 1.6(c) of Executive Order 12333, as amended, or a corresponding provision of any successor order, and this order; and
 
 (ii) issue for incorporation in such guidelines instructions relating to the format and schedule of such reporting as necessary to implement this order;
 
 (b) with respect to intelligence activities described in subsection 6(b)(i)(A) of this order:
 
-(i) receive reports submitted to the IOB pursuant to section 1.7(d) of Executive Order 12333, or a corresponding provision of any successor order;
+(i) receive reports submitted to the IOB pursuant to section 1.6(c) of Executive Order 12333, as amended, or a corresponding provision of any successor order;
 
 (ii) forward to the Attorney General information in such reports relating to such intelligence activities to the extent that such activities involve possible violations of Federal criminal laws or implicate the authority of the Attorney General unless the DNI or the head of the department concerned has previously provided such information to the Attorney General; and
 
@@ -1371,13 +1385,13 @@ Sec. 7. <i>Functions of the Director of National Intelligence</i>. Consistent wi
 
 Sec. 8. <i>Functions of Heads of Departments Concerned and Additional Functions of the Director of National Intelligence.</i>
 
-(a) To the extent permitted by law, the DNI and the heads of departments concerned shall provide such information and assistance as the PIAB and the IOB may need to perform functions under this order.
+(a) To the extent permitted by law, the DNI and the heads of departments concerned shall provide such information and assistance as the PIAB and the IOB determine is needed to perform their functions under this order.
 
 (b) The heads of departments concerned shall:
 
 (i) ensure that the DNI receives:
 
-(A) copies of reports submitted to the IOB pursuant to section 1.7(d) of Executive Order 12333, or a corresponding provision of any successor order; and
+(A) copies of reports submitted to the IOB pursuant to section 1.6(c) of Executive Order 12333, as amended, or a corresponding provision of any successor order; and
 
 (B) such information and assistance as the DNI may need to perform functions under this order; and
 
@@ -1407,7 +1421,7 @@ Sec. 11. <i>General Provisions.</i>
 
 (ii) functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
 
-(b) Any person who is a member of the PIAB or IOB, or who is granted access to classified national security information in relation to the activities of the PIAB or the IOB, as a condition of access to such information, shall sign and comply with the agreements to protect such information from unauthorized disclosure. This order shall be implemented in a manner consistent with Executive Order 12958 of April 17, 1995, as amended, and Executive Order 12968 of August 2, 1995, as amended.
+(b) Any person who is a member of the PIAB or the IOB, or who is granted access to classified national security information in relation to the activities of the PIAB or the IOB, as a condition of access to such information, shall sign and comply with appropriate agreements to protect such information from unauthorized disclosure. This order shall be implemented in a manner consistent with Executive Order 12958 of April 17, 1995, as amended, and Executive Order 12968 of August 2, 1995, as amended.
 
 (c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
@@ -1421,7 +1435,7 @@ Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, prov
 
 Memorandum for the Secretary of State\[,\] the Secretary of the Treasury\[,\] the Secretary of Defense\[,\] the Attorney General\[,\] the Secretary of Energy\[,\] the Secretary of Homeland Security\[,\] the Director of the Office of Management and Budget\[, and\] the Director of National Intelligence
 
-Subsection 1097(a) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458,December 17, 2004) (the Act) \[set out in a note above\] provides:
+Subsection 1097(a) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458, December 17, 2004) (the Act) \[set out in a note above\] provides:
 
 > &emsp;(a) IN GENERAL- Except as otherwise expressly provided in this Act, this title and the amendments made by this title shall take effect not later than 6 months after the date of the enactment of this Act.
 

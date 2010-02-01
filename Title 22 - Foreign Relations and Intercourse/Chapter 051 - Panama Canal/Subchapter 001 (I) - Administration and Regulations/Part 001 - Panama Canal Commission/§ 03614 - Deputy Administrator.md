@@ -16,7 +16,7 @@ Level IV of the Executive Schedule, referred to in subsec. (b), is set out in se
 
 #### Amendments
 
-1996—Pub. L. 104–201 struck out “and Chief Engineer” after “Deputy Administrator” in section catchline andamended text generally. Prior to amendment, text read as follows:
+1996—Pub. L. 104–201 struck out “and Chief Engineer” after “Deputy Administrator” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) There shall be a Deputy Administrator and a Chief Engineer of the Commission, both of whom shall be appointed by the President. The Deputy Administrator and the Chief Engineer shall perform such duties as may be prescribed by the President.
 

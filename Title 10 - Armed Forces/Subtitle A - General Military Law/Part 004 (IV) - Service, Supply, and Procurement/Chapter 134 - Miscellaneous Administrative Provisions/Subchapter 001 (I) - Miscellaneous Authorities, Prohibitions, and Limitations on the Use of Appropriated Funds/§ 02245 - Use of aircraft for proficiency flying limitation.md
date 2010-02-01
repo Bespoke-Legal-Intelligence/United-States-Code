@@ -8,7 +8,7 @@
 
 &emsp;(2) may not permit proficiency flying in the case of a member who is assigned to a course of instruction of 90 days or more.
 
-(c) In this section, the term “proficiency flying” means flying performed under competent orders by a rated or designated member of the armed forces while serving in a non-aviation assignment or in an assignment in which skillswould normally not be maintained in the performance of assigned duties.
+(c) In this section, the term “proficiency flying” means flying performed under competent orders by a rated or designated member of the armed forces while serving in a non-aviation assignment or in an assignment in which skills would normally not be maintained in the performance of assigned duties.
 
 (Added Pub. L. 101–510, div. A, title XIV, §1481(e)(1), Nov. 5, 1990, 104 Stat. 1706; amended Pub. L. 110–181, div. A, title X, §1077, Jan. 28, 2008, 122 Stat. 333.)
 

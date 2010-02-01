@@ -12,7 +12,7 @@ General Authority.—(1) The Secretary of Defense may establish restrictions on 
 
 (b)
 
-Controlled Item Lists.—For each location outside the United States that is served by the commissary system or the exchange system, the Secretary of Defense may maintain a list of controlled merchandise items, except that, after October 17, 1998, the Secretary may not change the list to add a merchandise item unless, before making the change, the Secretary submits to Congress a notice of the proposed addition and the reasons for the addition of the item.
+Controlled Item Lists.—For each location outside the United States that is served by the commissary system or the exchange system, the Secretary of Defense may maintain a list of controlled merchandise items, except that, after October 17, 1998, the Secretary may not change the list to add a merchandise item unless, beforemaking the change, the Secretary submits to Congress a notice of the proposed addition and the reasons for the addition of the item.
 
 (c)
 

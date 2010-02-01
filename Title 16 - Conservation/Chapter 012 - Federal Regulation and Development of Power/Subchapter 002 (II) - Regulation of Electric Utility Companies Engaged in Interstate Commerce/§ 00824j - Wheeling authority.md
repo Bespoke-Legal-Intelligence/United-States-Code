@@ -22,7 +22,7 @@ No order may be issued under subsection (a) or (b) of this section which require
 
 &emsp;(A) due to changed circumstances, the requirements applicable, under this section and section 824k of this title, to the issuance of an order under subsection (a) or (b) of this section are no longer met, or <sup>1</sup>
 
-&emsp;(B) any transmission capacity of the utility providing transmission services under such order which was, at the time such order was issued, in excess of the capacity necessary to serve its own customers is no longer in excess of the capacity necessary for such purposes, or
+&emsp;(B) any transmission capacity of the utility providing transmission services under such order which was, at the time such order was issued, in excess of the capacity necessary toserve its own customers is no longer in excess of the capacity necessary for such purposes, or
 
 &emsp;(C) the ordered transmission services require enlargement of transmission capacity and the transmitting utility subject to the order has failed, after making a good faith effort, to obtain the necessary approvals or property rights under applicable Federal, State, and local laws.
 

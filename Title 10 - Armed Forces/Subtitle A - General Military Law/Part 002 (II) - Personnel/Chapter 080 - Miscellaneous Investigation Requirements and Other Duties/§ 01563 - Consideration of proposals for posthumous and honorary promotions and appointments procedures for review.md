@@ -16,7 +16,7 @@ Definition.—In this section, the term “Member of Congress” means—
 
 &emsp;(2) a Representative in, or a Delegate or Resident Commissioner to, Congress.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title V, §542(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–114; Pub. L. 108–136, div. A, title X, §1031(a)(11), Nov. 24, 2003, 117 Stat. 1597.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title V, §542(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–114;Pub. L. 108–136, div. A, title X, §1031(a)(11), Nov. 24, 2003, 117 Stat. 1597.)
 
 #### Amendments
 

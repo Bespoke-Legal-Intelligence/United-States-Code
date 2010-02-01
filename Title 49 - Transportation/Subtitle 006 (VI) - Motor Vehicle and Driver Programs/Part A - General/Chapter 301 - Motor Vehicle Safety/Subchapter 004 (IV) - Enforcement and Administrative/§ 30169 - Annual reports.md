@@ -54,3 +54,7 @@ In subsection (a), before clause (1), the words “prepare and”, “comprehens
 
 Section 2(e)(1)(B) of the Imported Vehicle Safety Compliance Act of 1988, referred to in subsec. (b), is section 2(e)(1)(B) of Pub. L. 100–562, which was set out as a note under section 1397 of Title 15, Commerce and Trade, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 1st item on page 135 and the 2nd item on page 134 identify reporting provisions which, as subsequently amended, are contained, respectively, in subsecs. (a) and (b) of this section), see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance.
+

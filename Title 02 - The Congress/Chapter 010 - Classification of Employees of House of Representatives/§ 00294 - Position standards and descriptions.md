@@ -24,7 +24,7 @@
 
 &emsp;(C) govern the placement of such position in its appropriate class.
 
-(c) The Clerk, the Sergeant at Arms, the Chief Administrative Officer, and the Inspector General of the House of Representatives, shall transmit to the committee, at such times and in such form as the committee deems appropriate, all position descriptions required by subsection (b) of this section to be prepared, provided, and currently maintained by them, together with such other pertinent information as the committee may require, in order that the committee shall have, at all times, current information with respect to such position descriptions, the positions to which such descriptions apply, and related personnel matters within the purview of this chapter. Such information so transmitted shall be kept on file in the committee.
+(c) The Clerk, the Sergeant at Arms, the Chief Administrative Officer, and the Inspector General of the House of Representatives, shall transmit to the committee, at such times and in such form as the committee deems appropriate, all position descriptions required by subsection (b) of this section to be prepared, provided, and currently maintained by them, together with such other pertinent information as the committee may require, in order that the committeeshall have, at all times, current information with respect to such position descriptions, the positions to which such descriptions apply, and related personnel matters within the purview of this chapter. Such information so transmitted shall be kept on file in the committee.
 
 (d) Notwithstanding any other provision of this chapter, the committee shall have authority, which may be exercised at any time in its discretion, to—
 

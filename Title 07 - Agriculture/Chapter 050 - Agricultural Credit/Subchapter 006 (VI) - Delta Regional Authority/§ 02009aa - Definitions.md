@@ -70,7 +70,7 @@ Purposes.—The purposes of this title are—
 
 &emsp;“(3) to assist the region in obtaining the transportation and basic infrastructure, skills training, and opportunities for economic development that are essential for strong local economies;
 
-&emsp;“(4) to foster coordination among all levels of government, the private sector, and nonprofit groups incrafting common regional strategies that will lead to broader economic growth;
+&emsp;“(4) to foster coordination among all levels of government, the private sector, and nonprofit groups in crafting common regional strategies that will lead to broader economic growth;
 
 &emsp;“(5) to strengthen efforts that emphasize regional approaches to economic development and planning;
 

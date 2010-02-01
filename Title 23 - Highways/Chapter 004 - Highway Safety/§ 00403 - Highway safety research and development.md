@@ -66,7 +66,7 @@ Applicability of stevenson-wydler technology innovation act.—The research, dev
 
 (g)
 
-International Cooperation.—The Administrator of the National Highway Traffic Safety Administration may participate and cooperate in international activities to enhance highway safety.
+International Cooperation.—The Administrator of the National Highway Traffic SafetyAdministration may participate and cooperate in international activities to enhance highway safety.
 
 (Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 93–87, title II, §§208(a), 220–222, 226(a), Aug. 13, 1973, 87 Stat. 286, 291, 292; Pub. L. 102–240, title II, §2003, Dec. 18, 1991, 105 Stat. 2071; Pub. L. 105–178, title II, §2002(a), (b)(1), June 9, 1998, 112 Stat. 325; Pub. L. 109–59, title II, §§2003(a), (b), 2013(e), Aug. 10, 2005, 119 Stat. 1522, 1540.)
 
@@ -96,7 +96,7 @@ Subsec. (b). Pub. L. 102–240, §2003(a), added subsec. (b) and struck out form
 
 Subsec. (c). Pub. L. 102–240, §2003(c), substituted “subsections (a) and (b)” for “subsection (b)”.
 
-Subsec. (f). Pub. L. 102–240, §2003(b), added subsec. (f) and struck out former subsec. (f) which read as follows:“In addition to the research authorized by subsection (a) of this section, the Secretary shall carry out research, development, and demonstration projects to improve and evaluate the effectiveness of various types of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom. The research, development, and demonstration projects authorized by this subsection may be carried out by the Secretary through grants and contracts with public and private agencies, institutions, and individuals. The Secretary shall report to the Congress by July 1, 1975, and each year thereafter during the continuance of the program, on the research, development, and demonstration projects authorized by this subsection, and shall include in such report an evaluation of the effectiveness of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom.”
+Subsec. (f). Pub. L. 102–240, §2003(b), added subsec. (f) and struck out former subsec. (f) which read as follows: “In addition to the research authorized by subsection (a) of this section, the Secretary shall carry out research, development, and demonstration projects to improve and evaluate the effectiveness of various types of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom. The research, development, and demonstration projects authorized by this subsection may be carried out by the Secretary through grants and contracts with public and private agencies, institutions, and individuals. The Secretary shall report to the Congress by July 1, 1975, and each year thereafter during the continuance of the program, on the research, development, and demonstration projects authorized by this subsection, and shall include in such report an evaluation of the effectiveness of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom.”
 
 1973—Subsec. (a). Pub. L. 93–87, §§208(a), 220, designated existing provisions as subsec. (a); substituted in first sentence “this subsection” for “this section”; substituted in second sentence “for making grants to or contracting with State or local agencies, institutions, and individuals for (1) training or education of highway safety personnel” for “for (1) grants to State or local agencies, institutions, and individuals for training or education of highway safety personnel” and “(6) related activities which the Secretary deems will promote the purposes of this section” for (6) related activities which are deemed by the Secretary to be necessary to carry out the purposes of this section”; and inserted requirement that the Secretary assure that no fees be charged for any meeting or services attendant thereto or other activities relating to training and education of highway safety personnel.
 
@@ -268,7 +268,7 @@ Establishment.—The Secretary, acting through the National Highway Traffic Safe
 
 “(b)
 
-Advisory Committee.—The Secretary shall establish a citizens advisory committee that shall report to Congress annually on the progress of the implementation of subsection (a). Members of the committee shall include 1 member of each of the following: Mothers Against Drunk Driving; a narcotics control organization; American Medical Association; American Bar Association; and such other organizations as the Secretary deems appropriate. The committee shall be subject to the provisions of the \[Federal\] Advisory Committee Act \[5 U.S.C. App.\] and shall terminate 2 years after the date of the enactment of this Act \[Dec. 18, 1991\].
+Advisory Committee.—The Secretary shall establish a citizens advisory committee that shall report to Congress annually on the progress of the implementation of subsection (a). Members of the committee shall include 1 member of each of the following: Mothers Against Drunk Driving; a narcotics control organization; American Medical Association; American BarAssociation; and such other organizations as the Secretary deems appropriate. The committee shall be subject to the provisions of the \[Federal\] Advisory Committee Act \[5 U.S.C. App.\] and shall terminate 2 years after the date of the enactment of this Act \[Dec. 18, 1991\].
 
 “(c)
 
@@ -320,7 +320,7 @@ State Selection Process.—The Secretary shall ensure that the selection made pu
 
 “(d)
 
-Length of Program.—The pilot program authorized by this section shall continue for a period of 1year. The Secretary shall consider alternative methodologies for implementing a system of random testing of such individuals.
+Length of Program.—The pilot program authorized by this section shall continue for a period of 1 year. The Secretary shall consider alternative methodologies for implementing a system of random testing of such individuals.
 
 “(e)
 
@@ -384,7 +384,7 @@ Pub. L. 99–570, title III, §3402, Oct. 27, 1986, 100 Stat. 3207–102, direct
 
 #### National Driver Register Study
 
-Pub. L. 95–599, title II, §204, Nov. 6, 1978, 92 Stat. 2729, directed Secretary of Transportation to make a full and complete investigation and study of the need for, and, if necessary, ways and means to establish, a national driver register to assist States in electronically exchanging information regarding motor vehicle driving records of certain individuals, with Secretary to issue a final report to Congress not later than one year after Nov. 6, 1978.
+Pub. L. 95–599, title II, §204, Nov. 6, 1978, 92 Stat. 2729, directed Secretary of Transportation to make a full and complete investigation and study of the need for, and, if necessary, ways and means to establish, a national driver register to assist States in electronically exchanging information regarding motor vehicle driving records of certain individuals, with Secretary toissue a final report to Congress not later than one year after Nov. 6, 1978.
 
 #### Detection and Prevention of Marijuana and Other Drug Use by Operators of Motor Vehicles
 

@@ -112,7 +112,7 @@ Transfer of Personnel.—(1) If the Director of the Office of Personnel Manageme
 
 &emsp;“(B) the Defense Security Service employees who, as of such time, are first level supervisors of employees transferred under subparagraph (A).
 
-“(2) The Secretary may also transfer to the Office of Personnel Management any Defense Security Serviceemployees (including higher level supervisors) who provide support services for the performance of the functions transferred under subsection (a) or for the personnel (including supervisors) transferred under paragraph (1) if the Director—
+“(2) The Secretary may also transfer to the Office of Personnel Management any Defense Security Service employees (including higher level supervisors) who provide support services for the performance of the functions transferred under subsection (a) or for the personnel (including supervisors) transferred under paragraph (1) if the Director—
 
 &emsp;“(A) determines that the transfer of such additional employees and the positions of such employees to the Office of Personnel Management is necessary in the interest of effective performance of the transferred functions; and
 
@@ -320,7 +320,7 @@ Section 904 of Pub. L. 95–454 provided that:
 
 #### Reorganization Plans No. 1 and 2 of 1978 Superseded by Civil Service Reform Act of 1978
 
-Section 905 of Pub. L. 95–454 provided that: “Any provision in either Reorganization Plan Numbered 1 \[setout in the Appendix to this title\] or 2 \[set out below\] of 1978 inconsistent with any provision in this Act \[see Tables for classification\] is hereby superseded.”
+Section 905 of Pub. L. 95–454 provided that: “Any provision in either Reorganization Plan Numbered 1 \[set out in the Appendix to this title\] or 2 \[set out below\] of 1978 inconsistent with any provision in this Act \[see Tables for classification\] is hereby superseded.”
 
 #### <b>REORGANIZATION PLAN NO. 2 OF 1978</b>
 
@@ -590,7 +590,7 @@ General
 
 Redesignations
 
-2–101. <i>Office of Personnel Management</i>. Each of the Executive orders, as amended, listed in this Section under subsections (a) and (b), as applicable, and any other order which relates to functions or areas of responsibility delegated to the Office of Personnel Management, is amended and revised by substituting the words “Office of Personnel Management” for the words “Civil Service Commission” or “United States Civil Service Commission”; by substituting the word “Office” for the word “Commission” wherever the word “Commission” is used as a reference to United States Civil Service Commission; and by substituting the words “Director, Office of Personnel Management” for the words “Chairman, Civil Service Commission”, “Chairman, United States Civil Service Commission”, “Commissioners” or “Commissioner” wherever they appear.
+2–101. <i>Office of Personnel Management</i>. Each of the Executive orders, as amended, listed in this Section undersubsections (a) and (b), as applicable, and any other order which relates to functions or areas of responsibility delegated to the Office of Personnel Management, is amended and revised by substituting the words “Office of Personnel Management” for the words “Civil Service Commission” or “United States Civil Service Commission”; by substituting the word “Office” for the word “Commission” wherever the word “Commission” is used as a reference to United States Civil Service Commission; and by substituting the words “Director, Office of Personnel Management” for the words “Chairman, Civil Service Commission”, “Chairman, United States Civil Service Commission”, “Commissioners” or “Commissioner” wherever they appear.
 
 (a) Executive orders relating to the Civil Service Rules, ethics and other matters of Presidential interest.
 
@@ -778,7 +778,7 @@ Labor Management Relations in the Federal Service
 
 General Provisions
 
-2–401. <i>Study and Report Provisions.</i> The Director of the Office of Personnel Management is directed to conduct a study of Executive orders listed in Section 2–101(a) and (b) and to coordinate the study with such other agencies as may be named in or affected by these orders. The Director of Personnel Management and the Director of the Office of Management and Budget are directed to submit a report on or before July 1, 1981 to the President concerning the performance of functions specified in these Executive orders and any other Executive orders affecting the functions or responsibilities of the Office of Personnel Management. The report shall contain specific detailed recommendations for the continuation, modification, revision or revocation of each Executive order.
+2–401. <i>Study and Report Provisions.</i> The Director of the Office of Personnel Management is directed to conducta study of Executive orders listed in Section 2–101(a) and (b) and to coordinate the study with such other agencies as may be named in or affected by these orders. The Director of Personnel Management and the Director of the Office of Management and Budget are directed to submit a report on or before July 1, 1981 to the President concerning the performance of functions specified in these Executive orders and any other Executive orders affecting the functions or responsibilities of the Office of Personnel Management. The report shall contain specific detailed recommendations for the continuation, modification, revision or revocation of each Executive order.
 
 2–402. <i>Continuing Effect of this Order.</i> Except as required by the Civil Service Reform Act of 1978 \[Pub. L. 95–454\] as its provisions become effective, in accord with Section 7135 of Title 5, United States Code, as amended, and in accord with Section 902(a) of that Act \[set out as a Savings Provisions note above\], the provisions of this Order shall continue in effect, according to its terms, until modified, terminated or suspended.
 

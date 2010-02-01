@@ -78,7 +78,7 @@ In this subchapter:
 
 &emsp;&emsp;(A) any county, city, town, township, parish, village, or other general-purpose subdivision of a State; and
 
-&emsp;&emsp;(B) any local or regional special district or other limited political subdivision of aState, including any soil conservation district, school district, park authority, and water or sanitary district.
+&emsp;&emsp;(B) any local or regional special district or other limited political subdivision of a State, including any soil conservation district, school district, park authority, and water or sanitary district.
 
 #### (8) Locally led planning process
 

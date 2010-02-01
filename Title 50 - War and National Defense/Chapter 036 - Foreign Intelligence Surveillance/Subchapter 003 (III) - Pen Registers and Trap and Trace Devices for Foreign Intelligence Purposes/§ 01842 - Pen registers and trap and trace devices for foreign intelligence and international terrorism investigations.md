@@ -34,7 +34,7 @@ Each application under this section shall require the approval of the Attorney G
 
 &emsp;&emsp;(ii) the identity, if known, of the person to whom is leased or in whose name is listed the telephone line or other facility to which the pen register or trap and trace device is to be attached or applied; and
 
-&emsp;&emsp;(iii) the attributes of the communications to which the order applies, such as the number or other identifier, and, if known, the location of the telephone line or other facility to which the pen register or trap and trace device is to be attached or applied and, in the case of a trap and trace device, the geographic limits of the trap and trace order;
+&emsp;&emsp;(iii) the attributes of the communications to which the order applies, such as the number or other identifier, and, if known, the location of the telephone line or other facilityto which the pen register or trap and trace device is to be attached or applied and, in the case of a trap and trace device, the geographic limits of the trap and trace order;
 
 &emsp;(B) shall direct that—
 
@@ -100,15 +100,15 @@ Section 1805(b)(2)(C) of this title, referred to in subsec. (d)(2)(B)(ii)(II), w
 
 #### Amendments
 
-<b>2006</b>—Subsec. (d)(2)(A). Pub. L. 109–177, §128(a)(1), inserted “and” at end of cl. (ii) and substituted semicolon for period at end of cl. (iii).
+2006—Subsec. (d)(2)(A). Pub. L. 109–177, §128(a)(1), inserted “and” at end of cl. (ii) and substituted semicolon for period at end of cl. (iii).
 
 Subsec. (d)(2)(C). Pub. L. 109–177, §128(a)(2), (3), added subpar. (C).
 
 Subsec. (e). Pub. L. 109–177, §105(c), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), an order issued” for “An order issued”, and added par. (2).
 
-<b>2004</b>—Subsec. (d)(2)(B)(ii)(II). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+2004—Subsec. (d)(2)(B)(ii)(II). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–56, §214(a)(1), substituted “for any investigation to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “for any investigation to gather foreign intelligence information or information concerning international terrorism”.
+2001—Subsec. (a)(1). Pub. L. 107–56, §214(a)(1), substituted “for any investigation to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “for any investigation to gather foreign intelligence information or information concerning international terrorism”.
 
 Subsec. (c)(1). Pub. L. 107–108, §314(a)(5)(A), inserted “and” after semicolon at end.
 

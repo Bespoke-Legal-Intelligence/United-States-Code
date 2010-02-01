@@ -50,7 +50,7 @@
 
 #### (3) Distributions of income previously taxed in years beginning before October 1, 1993
 
-&emsp;If the taxpayer receives a distribution or amount in a taxable year beginning after September 30, 1993, which is excluded from gross income under section 959(a) and is attributable to any amount included in gross income undersection 951(a) for a taxable year beginning before October 1, 1993, the limitation under section 904 for the taxable year in which such amount or distribution is received shall be increased by the amount determined under this subsection as in effect on the day before the date of the enactment of the Revenue Reconcilation <sup>1</sup> Act of 1993.
+&emsp;If the taxpayer receives a distribution or amount in a taxable year beginning after September 30, 1993, which is excluded from gross income under section 959(a) and is attributable to any amount included in gross income under section 951(a) for a taxable year beginning before October 1, 1993, the limitation under section 904 for the taxable year in which such amount or distribution is received shall be increased by the amount determined under this subsection as in effect on the day before the date of the enactment of the Revenue Reconcilation <sup>1</sup> Act of 1993.
 
 #### (4) Cases in which taxes not to be allowed as deduction
 
@@ -94,7 +94,7 @@ Subsec. (b). Pub. L. 94–455, §1031(b)(1), struck out “applicable” in par.
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable, with special rule, to taxes of foreign corporations for taxable yearsof such corporations beginning after Aug. 5, 1997, see section 1113(c) of Pub. L. 105–34, set out as a note under section 902 of this title.
+Amendment by Pub. L. 105–34 applicable, with special rule, to taxes of foreign corporations for taxable years of such corporations beginning after Aug. 5, 1997, see section 1113(c) of Pub. L. 105–34, set out as a note under section 902 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -110,7 +110,7 @@ Amendment by section 1031(b)(1) of Pub. L. 94–455 applicable to taxable years 
 
 Amendment by section 1033(b)(2) of Pub. L. 94–455 applicable in respect of any distribution received by a domestic corporation after Dec. 31, 1977, and in respect of any distribution received by a domestic corporation before Jan. 1, 1978, in a taxable year of such corporation beginning after Dec. 31, 1975, but only to the extent that such distribution is made out of the accumulated profits of a foreign corporation for a taxable year beginning after Dec. 31, 1975, see section 1033(c) of Pub. L. 94–455, set out as a note under section 902 of this title.
 
-Section 1037(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to earnings and profits of a foreign corporation, included, under section 951(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the gross income of a domestic corporation in taxable years beginning after December 31, 1976.”
+Section 1037(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to earnings and profits of a foreign corporation, included, under section 951(a)of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the gross income of a domestic corporation in taxable years beginning after December 31, 1976.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Reconciliation”.</i>
 

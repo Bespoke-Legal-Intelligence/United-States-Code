@@ -24,7 +24,7 @@
 
 (f) When a participant in a matter before an agency is represented by an individual qualified under subsection (b) or (c) of this section, a notice or other written communication required or permitted to be given the participant in the matter shall be given to the representative in addition to any other service specifically required by statute. When a participant is represented by more than one such qualified representative, service on any one of the representatives is sufficient.
 
-(Added Pub. L. 90–83, §1(1)(A), Sept. 11, 1967, 81 Stat. 195; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+(Added Pub. L. 90–83, §1(1)(A), Sept. 11, 1967, 81 Stat. 195; amended Pub. L. 106–113, div. B,§1000(a)(9) \[title IV, §4732(b)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
 Historical and Revision Notes
 

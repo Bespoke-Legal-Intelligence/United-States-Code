@@ -58,7 +58,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) enrollment in the facility is open to employees of the taxpayer during the taxable year,
 
-&emsp;&emsp;&emsp;(ii) if the facility is the principal trade or business of the taxpayer, at least 30 percent of the enrollees of such facility are dependents of employees of the taxpayer, and
+&emsp;&emsp;&emsp;(ii) if the facility is the principal trade or business of the taxpayer, at least 30 percent of the enrollees of such facility aredependents of employees of the taxpayer, and
 
 &emsp;&emsp;&emsp;(iii) the use of such facility (or the eligibility to use such facility) does not discriminate in favor of employees of the taxpayer who are highly compensated employees (within the meaning of section 414(q)).
 
@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified child care resource and referral expenditure” means anyamount paid or incurred under a contract to provide child care resource and referral services to an employee of the taxpayer.
+&emsp;&emsp;The term “qualified child care resource and referral expenditure” means any amount paid or incurred under a contract to provide child care resource and referral services to an employee of the taxpayer.
 
 #### (B) Nondiscrimination
 
@@ -198,7 +198,7 @@ For purposes of this section—
 
 #### (B) Certain dispositions
 
-&emsp;&emsp;If, during any taxable year, there is a recapture amount determined with respect to any property the basis of which was reduced under subparagraph (A), the basis of such property (immediately before the event resulting in such recapture) shall be increased by an amount equal to such recaptureamount. For purposes of the preceding sentence, the term “recapture amount” means any increase in tax (or adjustment in carrybacks or carryovers) determined under subsection (d).
+&emsp;&emsp;If, during any taxable year, there is a recapture amount determined with respect to any property the basis of which was reduced under subparagraph (A), the basis of such property (immediately before the event resulting in such recapture) shall be increased by an amount equal to such recapture amount. For purposes of the preceding sentence, the term “recapture amount” means any increase in tax (or adjustment in carrybacks or carryovers) determined under subsection (d).
 
 #### (2) Other deductions and credits
 

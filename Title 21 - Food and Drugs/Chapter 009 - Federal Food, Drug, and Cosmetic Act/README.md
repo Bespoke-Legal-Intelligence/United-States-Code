@@ -337,21 +337,52 @@ I74subpart 1—freedom of information fees
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER IX—MISCELLANEOUS
+#### SUBCHAPTER IX—TOBACCO PRODUCTS
 
 |  |  |
 | :--- | ---: |
-| [391\.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2000391%20-%20Separability%20clause.md) | Separability clause. |
-| [392\.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2000392%20-%20Exemption%20of%20meats%20and%20meat%20food%20products.md) | Exemption of meats and meat food products. |
-| [393\.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2000393%20-%20Food%20and%20Drug%20Administration.md) | Food and Drug Administration. |
-| [393a.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2000393a%20-%20Office%20of%20Pediatric%20Therapeutics.md) | Office of Pediatric Therapeutics. |
-| [394\.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2000394%20-%20Scientific%20review%20groups.md) | Scientific review groups. |
-| [395\.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2000395%20-%20Loan%20repayment%20program.md) | Loan repayment program. |
-| [396\.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2000396%20-%20Practice%20of%20medicine.md) | Practice of medicine. |
-| [397\.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2000397%20-%20Contracts%20for%20expert%20review.md) | Contracts for expert review. |
-| [398\.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2000398%20-%20Notices%20to%20States%20regarding%20imported%20food.md) | Notices to States regarding imported food. |
-| [399\.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2000399%20-%20Grants%20to%20States%20for%20inspections.md) | Grants to States for inspections. |
-| [399a.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2000399a%20-%20Office%20of%20the%20Chief%20Scientist.md) | Office of the Chief Scientist. |
+| [387\.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387%20-%20Definitions.md) | Definitions. |
+| [387a.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387a%20-%20FDA%20authority%20over%20tobacco%20products.md) | FDA authority over tobacco products. |
+| 387a–1. | Final rule. |
+| [387b.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387b%20-%20Adulterated%20tobacco%20products.md) | Adulterated tobacco products. |
+| [387c.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387c%20-%20Misbranded%20tobacco%20products.md) | Misbranded tobacco products. |
+| [387d.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387d%20-%20Submission%20of%20health%20information%20to%20the%20Secretary.md) | Submission of health information to the Secretary. |
+| [387e.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387e%20-%20Annual%20registration.md) | Annual registration. |
+| [387f.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387f%20-%20General%20provisions%20respecting%20control%20of%20tobacco%20products.md) | General provisions respecting control of tobacco products. |
+| 387f–1. | Enforcement action plan for advertising and promotion restrictions. |
+| [387g.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387g%20-%20Tobacco%20product%20standards.md) | Tobacco product standards. |
+| [387h.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387h%20-%20Notification%20and%20other%20remedies.md) | Notification and other remedies. |
+| [387i.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387i%20-%20Records%20and%20reports%20on%20tobacco%20products.md) | Records and reports on tobacco products. |
+| [387j.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387j%20-%20Application%20for%20review%20of%20certain%20tobacco%20products.md) | Application for review of certain tobacco products. |
+| [387k.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387k%20-%20Modified%20risk%20tobacco%20products.md) | Modified risk tobacco products. |
+| 387<i>l</i>. | Judicial review. |
+| [387m.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387m%20-%20Equal%20treatment%20of%20retail%20outlets.md) | Equal treatment of retail outlets. |
+| [387n.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387n%20-%20Jurisdiction%20of%20and%20coordination%20with%20the%20Federal%20Trade%20Commission.md) | Jurisdiction of and coordination with the Federal Trade Commission. |
+| 387<i>o</i>. | Regulation requirement. |
+| [387p.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387p%20-%20Preservation%20of%20State%20and%20local%20authority.md) | Preservation of State and local authority. |
+| [387q.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387q%20-%20Tobacco%20Products%20Scientific%20Advisory%20Committee.md) | Tobacco Products Scientific Advisory Committee. |
+| [387r.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387r%20-%20Drug%20products%20used%20to%20treat%20tobacco%20dependence.md) | Drug products used to treat tobacco dependence. |
+| [387s.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387s%20-%20User%20fees.md) | User fees. |
+| [387t.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387t%20-%20Labeling%2C%20recordkeeping%2C%20records%20inspection.md) | Labeling, recordkeeping, records inspection. |
+| [387u.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387u%20-%20Studies%20of%20progress%20and%20effectiveness.md) | Studies of progress and effectiveness. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER X—MISCELLANEOUS
+
+|  |  |
+| :--- | ---: |
+| [391\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000391%20-%20Separability%20clause.md) | Separability clause. |
+| [392\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000392%20-%20Exemption%20of%20meats%20and%20meat%20food%20products.md) | Exemption of meats and meat food products. |
+| [393\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000393%20-%20Food%20and%20Drug%20Administration.md) | Food and Drug Administration. |
+| [393a.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000393a%20-%20Office%20of%20Pediatric%20Therapeutics.md) | Office of Pediatric Therapeutics. |
+| [394\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000394%20-%20Scientific%20review%20groups.md) | Scientific review groups. |
+| [395\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000395%20-%20Loan%20repayment%20program.md) | Loan repayment program. |
+| [396\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000396%20-%20Practice%20of%20medicine.md) | Practice of medicine. |
+| [397\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000397%20-%20Contracts%20for%20expert%20review.md) | Contracts for expert review. |
+| [398\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000398%20-%20Notices%20to%20States%20regarding%20imported%20food.md) | Notices to States regarding imported food. |
+| [399\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399%20-%20Grants%20to%20States%20for%20inspections.md) | Grants to States for inspections. |
+| [399a.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399a%20-%20Office%20of%20the%20Chief%20Scientist.md) | Office of the Chief Scientist. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -368,4 +399,5 @@ I74subpart 1—freedom of information fees
 - [Subchapter 006 (VI) - Cosmetics](Subchapter%20006%20%28VI%29%20-%20Cosmetics/README.md)
 - [Subchapter 007 (VII) - General Authority](Subchapter%20007%20%28VII%29%20-%20General%20Authority/README.md)
 - [Subchapter 008 (VIII) - Imports and Exports](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/README.md)
-- [Subchapter 009 (IX) - Miscellaneous](Subchapter%20009%20%28IX%29%20-%20Miscellaneous/README.md)
+- [Subchapter 009 (IX) - Tobacco Products](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/README.md)
+- [Subchapter 010 (X) - Miscellaneous](Subchapter%20010%20%28X%29%20-%20Miscellaneous/README.md)

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-An eligible entity that receives a grant under this division shall provide certificates, to beknown as 21st Century Scholar Certificates, to all students served by the eligible entity who are participating in a program under this division.
+An eligible entity that receives a grant under this division shall provide certificates, to be known as 21st Century Scholar Certificates, to all students served by the eligible entity who are participating in a program under this division.
 
 #### (b) Information required
 

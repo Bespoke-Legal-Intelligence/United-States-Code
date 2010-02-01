@@ -66,7 +66,7 @@ Subsec. (d). Pub. L. 110–315, §404(b)(3), redesignated subsec. (g) as (d). Fo
 
 Subsec. (d)(1)(B), (C). Pub. L. 110–315, §404(b)(4), inserted “and provide the option of continued services through the student's first year of attendance at an institution of higher education to the extent the provision of such services was described in the eligible entity's application for assistance under this division” after “grade level” in par. (B) and added par. (C).
 
-Subsec. (e). Pub. L. 110–315, §404(b)(2), (5), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “An eligible entitydescribed in section 1070a–21(c)(2) of this title shall have a full-time program coordinator or a part-time program coordinator, whose primary responsibility is a project under section 1070a–23 of this title.”
+Subsec. (e). Pub. L. 110–315, §404(b)(2), (5), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “An eligible entity described in section 1070a–21(c)(2) of this title shall have a full-time program coordinator or a part-time program coordinator, whose primary responsibility is a project under section 1070a–23 of this title.”
 
 Subsec. (f). Pub. L. 110–315, §404(b)(2), struck out subsec. (f). Text read as follows: “An eligible entity described in 1070a–21(c)(2) of this title shall ensure that the activities assisted under this division will not displace an employee or eliminate a position at a school assisted under this division, including a partial displacement such as a reduction in hours, wages or employment benefits.”
 

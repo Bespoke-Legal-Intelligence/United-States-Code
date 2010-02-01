@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) that the plan is projected to be sufficient (as of such proposed date of final distribution) for such benefit liabilities,
 
-&emsp;&emsp;&emsp;(ii) such information as the corporation may prescribe in regulations as necessary to enable the corporation to make determinations under subparagraph (C), and
+&emsp;&emsp;&emsp;(ii) such information as the corporation may prescribe in regulations as necessaryto enable the corporation to make determinations under subparagraph (C), and
 
 &emsp;&emsp;&emsp;(iii) certification by the plan administrator that—
 
@@ -378,7 +378,7 @@ Subsec. (b)(2)(B). Pub. L. 101–239, §7893(c), realigned margin of last senten
 
 Subsec. (b)(3)(B). Pub. L. 101–239, §7881(g)(4), inserted period at end.
 
-Subsec. (c)(2)(A)(ii). Pub. L. 101–239, §7881(g)(3), in introductory provisions, inserted “unless the corporationdetermines the information is not necessary for purposes of paragraph (3)(A) or section 1362 of this title,” before “certification”, in subcl. (I), inserted “and, if applicable, the proposed distribution date” after “termination date”, and in subcls. (II) to (V), substituted “dates” for “date”.
+Subsec. (c)(2)(A)(ii). Pub. L. 101–239, §7881(g)(3), in introductory provisions, inserted “unless the corporation determines the information is not necessary for purposes of paragraph (3)(A) or section 1362 of this title,” before “certification”, in subcl. (I), inserted “and, if applicable, the proposed distribution date” after “termination date”, and in subcls. (II) to (V), substituted “dates” for “date”.
 
 Subsec. (c)(2)(A)(iii)(II). Pub. L. 101–239, §7881(f)(7)(A), (B), struck out “(or its designee under section 1349(b) of this title)” before “to be able” and substituted “section 1322(c) of this title” for “section 1349 of this title”.
 
@@ -394,7 +394,7 @@ Subsec. (c)(3)(D)(ii)(I). Pub. L. 101–239, §7893(d)(2), substituted “under 
 
 Subsec. (d)(1). Pub. L. 101–239, §7881(g)(1), substituted “sufficient for benefit liabilities” for “sufficient for benefit commitments”.
 
-1987—Subsec. (b)(1)(D). Pub. L. 100–203, §9313(a)(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “when the final distribution of assets occurs, the plan is sufficient for benefit commitments (determined as of the termination date).”
+1987—Subsec. (b)(1)(D). Pub. L. 100–203, §9313(a)(1), amended subpar. (D) generally. Prior to amendment,subpar. (D) read as follows: “when the final distribution of assets occurs, the plan is sufficient for benefit commitments (determined as of the termination date).”
 
 Subsec. (b)(2)(A). Pub. L. 100–203, §9314(a)(1)(B), inserted at end “Clause (i) and clause (iii)(I) shall not apply to a plan described in section 412(i) of title 26.”
 
@@ -452,7 +452,7 @@ Subsec. (c)(3)(B)(ii). Pub. L. 100–203, §9313(a)(2)(D), substituted in headin
 
 Pub. L. 100–203, §9312(c)(1), struck out former subcl. (I) designation and substituted comma for dash before “the plan administrator”, substituted period for “, and” after “termination of the plan”, and struck out former subcl. (II) which read as follows: “the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title.”
 
-Subsec. (c)(3)(B)(iii). Pub. L. 100–203, §9312(c)(2), struck out former subcl. (I) designation and substituted comma for dash before “the corporation shall commence”, substituted period for “, and” after “section1342 of this title”, and struck out former subcl. (II) which read as follows: “the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title unless the corporation determines that all benefit commitments under the plan are benefits guaranteed by the corporation under section 1322 of this title.”
+Subsec. (c)(3)(B)(iii). Pub. L. 100–203, §9312(c)(2), struck out former subcl. (I) designation and substituted comma for dash before “the corporation shall commence”, substituted period for “, and” after “section 1342 of this title”, and struck out former subcl. (II) which read as follows: “the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title unless the corporation determines that all benefit commitments under the plan are benefits guaranteed by the corporation under section 1322 of this title.”
 
 Subsec. (c)(3)(C)(i). Pub. L. 100–203, §9313(a)(2)(D), substituted in heading and text “benefit liabilities” for “benefit commitments”.
 
@@ -544,7 +544,7 @@ Deemed compliance with notice requirements.—The requirements of subsections (a
 
 &emsp;&emsp;“(B) the notice of intent to terminate provided to the Pension Benefit Guaranty Corporation in connection with the termination was filed with the Corporation not less than 10 days before the proposed date of termination specified in the notice.
 
-> &emsp;For purposes of section 4041 of such Act (as amended by this title), the proposed date of termination specified in the notice of intent to terminate referred to in subparagraph (B) shall be considered the proposed termination date.
+> &emsp;For purposes of section 4041 of such Act (as amended by this title), the proposed date of termination specified in the notice of intent to terminate referred to insubparagraph (B) shall be considered the proposed termination date.
 
 &emsp;“(3)
 

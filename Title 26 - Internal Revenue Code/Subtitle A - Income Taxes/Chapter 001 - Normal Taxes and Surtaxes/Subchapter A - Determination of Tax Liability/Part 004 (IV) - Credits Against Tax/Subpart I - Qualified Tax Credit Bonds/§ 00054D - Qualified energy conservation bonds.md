@@ -20,7 +20,7 @@ The maximum aggregate face amount of bonds which may be designated under subsect
 
 #### (d) National limitation on amount of bonds designated
 
-There is a national qualified energy conservation bond limitation of $800,000,000.
+There is a national qualified energy conservation bond limitation of $3,200,000,000.
 
 #### (e) Allocations
 
@@ -46,6 +46,10 @@ There is a national qualified energy conservation bond limitation of $800,000,00
 
 &emsp;Any allocation under this subsection to a State or large local government shall be allocated by such State or large local government to issuers within the State in a manner that results in not less than 70 percent of the allocation to such State or large local government being used to designate bonds which are not private activity bonds.
 
+#### (4) Special rules for bonds to implement green community programs
+
+&emsp;In the case of any bond issued for the purpose of providing loans, grants, or other repayment mechanisms for capital expenditures to implement green community programs, such bond shall not be treated as a private activity bond for purposes of paragraph (3).
+
 #### (f) Qualified conservation purpose
 
 For purposes of this section—
@@ -58,7 +62,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) reducing energy consumption in publicly-owned buildings by at least 20 percent,
 
-&emsp;&emsp;&emsp;(ii) implementing green community programs,
+&emsp;&emsp;&emsp;(ii) implementing green community programs (including the use of loans, grants, or other repayment mechanisms to implement such programs),
 
 &emsp;&emsp;&emsp;(iii) rural development involving the production of electricity from renewable energy resources, or
 
@@ -114,11 +118,19 @@ An Indian tribal government shall be treated for purposes of this section in the
 
 &emsp;(2) any bond issued by an Indian tribal government shall be treated as a qualified energy conservation bond only if issued as part of an issue the available project proceeds of which are used for purposes for which such Indian tribal government could issue bonds to which section 103(a) applies.
 
-(Added Pub. L. 110–343, div. B, title III, §301(a), Oct. 3, 2008, 122 Stat. 3841.)
+(Added Pub. L. 110–343, div. B, title III, §301(a), Oct. 3, 2008, 122 Stat. 3841; amended Pub. L. 111–5, div. B, title I, §1112, Feb. 17, 2009, 123 Stat. 322.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (g)(1), is the date of enactment of Pub. L. 110–343, which was approved Oct. 3, 2008.
+
+#### Amendments
+
+2009—Subsec. (d). Pub. L. 111–5, §1112(a), substituted “$3,200,000,000” for “$800,000,000”.
+
+Subsec. (e)(4). Pub. L. 111–5, §1112(b)(2), added par. (4).
+
+Subsec. (f)(1)(A)(ii). Pub. L. 111–5, §1112(b)(1), inserted “(including the use of loans, grants, or other repayment mechanisms to implement such programs)” after “green community programs”.
 
 #### Effective Date
 

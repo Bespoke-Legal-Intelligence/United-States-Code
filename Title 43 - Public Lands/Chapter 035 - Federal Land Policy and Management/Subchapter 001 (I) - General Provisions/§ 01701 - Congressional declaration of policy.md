@@ -20,7 +20,7 @@
 
 &emsp;(9) the United States receive fair market value of the use of the public lands and their resources unless otherwise provided for by statute;
 
-&emsp;(10) uniform procedures for any disposal of public land, acquisition of non-Federal land for public purposes, and the exchange of such lands be established by statute, requiring each disposal, acquisition, and exchange to be consistent with the prescribed mission of the department or agency involved, and reserving to the Congress review of disposals in excess of a specified acreage;
+&emsp;(10) uniform procedures for any disposal of public land, acquisition of non-Federal land for public purposes, and the exchange of such lands be established by statute, requiring each disposal, acquisition, and exchange to be consistent with the prescribed mission of the department or agency involved, and reserving tothe Congress review of disposals in excess of a specified acreage;
 
 &emsp;(11) regulations and plans for the protection of public land areas of critical environmental concern be promptly developed;
 
@@ -38,13 +38,17 @@ This Act, referred to in subsecs. (a)(1), (3) and (b), is Pub. L. 94–579, Oct.
 
 The Mining and Minerals Policy Act of 1970, referred to in subsec. (a)(12), is Pub. L. 91–631, Dec. 31, 1970, 84 Stat. 1876, which is classified to section 21a of Title 30, Mineral Lands and Mining.
 
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–88, div. A, title V, §501, Oct. 30, 2009, 123 Stat. 2968, provided that: “This title \[enacting sections 1748a and 1748b of this title\] may be cited as the ‘Federal Land Assistance, Management, and Enhancement Act of 2009’ or ‘FLAME Act of 2009’.”
+
 #### Short Title of 1988 Amendment
 
 Pub. L. 100–409, §1, Aug. 20, 1988, 102 Stat. 1086, provided that: “This Act \[enacting section 1723 of this title, amending section 1716 of this title and sections 505a, 505b, and 521b of Title 16, Conservation, and enacting provisions set out as notes under sections 751 and 1716 of this title\] may be cited as the ‘Federal Land Exchange Facilitation Act of 1988’.”
 
 #### Short Title
 
-Section 101 of Pub. L. 94–579 provided that: “This Act \[enacting this chapter and amending and repealing numerous other laws, which for complete classification, see Tables\] may be cited as the ‘Federal Land Policy and Management Act of 1976’.”
+Pub. L. 94–579, title I, §101, Oct. 21, 1976, 90 Stat. 2744, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Land Policy and Management Act of 1976’.”
 
 #### Savings Provision
 
@@ -88,7 +92,7 @@ Section 707 of Pub. L. 94–579 provided that: “If any provision of this Act \
 
 #### Cooperative Action and Sharing of Resources by Secretaries of the Interior and Agriculture
 
-Pub. L. 106–291, title III, §330, Oct. 11, 2000, 114 Stat. 996, as amended by Pub. L. 109–54, title IV, §428, Aug. 2, 2005, 119 Stat. 555, provided that: “In fiscal years 2001 through 2008, the Secretaries of the Interior and Agriculture, subject to annual review of Congress, may establish pilot programs involving the land management agencies referred to in this section to conduct projects, planning, permitting, leasing, contracting and other activities, either jointly or on behalf of one another; may co-locate in Federal offices and facilities leased by an agency of either Department; and \[may\] promulgate special rules as needed to test the feasibility of issuing unified permits, applications, and leases. The Secretaries of the Interior and Agriculture may make reciprocal delegations of their respective authorities, duties and responsibilities in support of the ‘Service First’ initiative agency-wide to promote customer service and efficiency. Nothing herein shall alter, expand or limit the applicability of any public law or regulation to lands administered by the Bureau of Land Management, National Park Service, Fish and Wildlife Service, or the Forest Service. To facilitate the sharing of resources under the Service First initiative, the Secretaries of the Interior and Agriculture may make transfers of funds and reimbursement of funds on an annual basis, including transfers and reimbursements for multi-year projects, except that this authority may not be used to circumvent requirements and limitations imposed on the use of funds.”
+Pub. L. 106–291, title III, §330, Oct. 11, 2000, 114 Stat. 996, as amended by Pub. L. 109–54, title IV, §428, Aug. 2, 2005, 119 Stat. 555; Pub. L. 111–8, div. E, title IV, §418,Mar. 11, 2009, 123 Stat. 747, provided that: “In fiscal years 2001 through 2011, the Secretaries of the Interior and Agriculture, subject to annual review of Congress, may establish pilot programs involving the land management agencies referred to in this section to conduct projects, planning, permitting, leasing, contracting and other activities, either jointly or on behalf of one another; may co-locate in Federal offices and facilities leased by an agency of either Department; and \[may\] promulgate special rules as needed to test the feasibility of issuing unified permits, applications, and leases. The Secretaries of the Interior and Agriculture may make reciprocal delegations of their respective authorities, duties and responsibilities in support of the ‘Service First’ initiative agency-wide to promote customer service and efficiency. Nothing herein shall alter, expand or limit the applicability of any public law or regulation to lands administered by the Bureau of Land Management, National Park Service, Fish and Wildlife Service, or the Forest Service. To facilitate the sharing of resources under the Service First initiative, the Secretaries of the Interior and Agriculture may make transfers of funds and reimbursement of funds on an annual basis, including transfers and reimbursements for multi-year projects, except that this authority may not be used to circumvent requirements and limitations imposed on the use of funds.”
 
 #### Existing Rights-of-Way
 

@@ -24,7 +24,7 @@ The requirements of subsection (a)(2) of this section shall be considered satisf
 
 #### (c) Rules relating to notification of qualified beneficiaries by plan administrator
 
-For purposes of subsection (a)(4) of this section, any notification shall be made within 14 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date on which the administrator is notified under paragraph (2) or (3), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
+For purposes of subsection (a)(4) of this section, any notification shall be made within 14days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date on which the administrator is notified under paragraph (2) or (3), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
 
 (Pub. L. 93–406, title I, §606, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 230; amended Pub. L. 99–509, title IX, §9501(d)(2), Oct. 21, 1986, 100 Stat. 2077; Pub. L. 99–514, title XVIII, §1895(d)(6)(B), Oct. 22, 1986, 100 Stat. 2939; Pub. L. 101–239, title VI, §6703(c), title VII, §7891(d)(1)(A), Dec. 19, 1989, 103 Stat. 2296, 2445; Pub. L. 104–191, title IV, §421(b)(2), Aug. 21, 1996, 110 Stat. 2088.)
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 99–509 effective, except as otherwise provided, as if inc
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Notification to Covered Employees
 

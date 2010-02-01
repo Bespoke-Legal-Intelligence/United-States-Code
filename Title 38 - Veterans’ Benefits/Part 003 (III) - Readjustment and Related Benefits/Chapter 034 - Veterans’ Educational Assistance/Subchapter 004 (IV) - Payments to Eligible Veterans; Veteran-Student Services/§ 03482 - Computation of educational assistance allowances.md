@@ -46,13 +46,13 @@
 | Three-quarter time | 228 | 266 | 303 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18 |
 | Half-time | 152 | 178 | 202 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12 |
 
-(d)(1) Notwithstanding the prohibition in section 3471 of this title prohibiting enrollment of an eligible veteran in a program of education in which such veteran has “already qualified,” aveteran shall be allowed up to six months of educational assistance (or the equivalent thereof in part-time assistance) for the pursuit of refresher training to permit such veteran to update such veteran's knowledge and skills and to be instructed in the technological advances which have occurred in such veteran's field of employment during and since the period of such veteran's active military service.
+(d)(1) Notwithstanding the prohibition in section 3471 of this title prohibiting enrollment of an eligible veteran in a program of education in which such veteran has “already qualified,” a veteran shall be allowed up to six months of educational assistance (or the equivalent thereof in part-time assistance) for the pursuit of refresher training to permit such veteran to update such veteran's knowledge and skills and to be instructed in the technological advances which have occurred in such veteran's field of employment during and since the period of such veteran's active military service.
 
 (2) A veteran pursuing refresher training under this subsection shall be paid an educational assistance allowance based upon the rate prescribed in the table in subsection (a)(1) or in subsection (c)(2) of this section, whichever is applicable.
 
 (3) The educational assistance allowance paid under the authority of this subsection shall be charged against the period of entitlement the veteran has earned pursuant to section 3461(a) of this title.
 
-(e) The educational assistance allowance of an eligible veteran pursuing an independent study program which leads to a standard college degree shall be computed at the rate provided in subsection (b) of this section. If the entire training is to be pursued by independent study, the amount of such veteran's entitlement to educational assistance under this chapter shall be charged in accordance with the rate at which the veteran is pursuing the independent study program but at not more than the rate at which such entitlement is charged for pursuit of such program on less than a half-time basis. In any case in which independent study is combined with resident training, the educational assistance allowance shall be paid at the applicable institutional rate based on the total training time determined by adding the number of semester hours (or the equivalent thereof) of resident training to the number of semester hours (or the equivalent thereof) of independent study that do not exceed the number of semester hours (or the equivalent thereof) required for the less than half-time institutional rate, as determined by the Secretary, for resident training. A veteran's entitlement shall be charged for a combination of independent study and resident training on the basis of the applicable monthly training time rate as determined under section 3688 of this title.
+(e) The educational assistance allowance of an eligible veteran pursuing an independent study program which leads to a standard college degree shall be computed at the rate provided in subsection (b) of this section. If the entire training is to be pursued by independent study, the amount of such veteran's entitlement to educational assistance under this chapter shall be charged in accordance with the rate at which the veteran is pursuing the independent study program but at not more than the rate at which such entitlement is charged for pursuit of suchprogram on less than a half-time basis. In any case in which independent study is combined with resident training, the educational assistance allowance shall be paid at the applicable institutional rate based on the total training time determined by adding the number of semester hours (or the equivalent thereof) of resident training to the number of semester hours (or the equivalent thereof) of independent study that do not exceed the number of semester hours (or the equivalent thereof) required for the less than half-time institutional rate, as determined by the Secretary, for resident training. A veteran's entitlement shall be charged for a combination of independent study and resident training on the basis of the applicable monthly training time rate as determined under section 3688 of this title.
 
 (f) The educational assistance allowance of an eligible veteran pursuing a course by open circuit television shall be computed in the same manner that such allowance is computed under subsection (e) of this section for an independent study program.
 
@@ -70,7 +70,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsecs. (a), (b)(2), (c)(1), and (c)(2) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1176, 1180, whichwas classified to former sections 1632(a) and (b), (f), (e), and 1611(c) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
+Provisions similar to those comprising subsecs. (a), (b)(2), (c)(1), and (c)(2) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1176, 1180, which was classified to former sections 1632(a) and (b), (f), (e), and 1611(c) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
 
@@ -206,7 +206,7 @@ Section 802(b) of Pub. L. 96–466 provided that:
 
 Amendment by sections 308 to 310 of Pub. L. 96–466 \[amending this section\] effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(c) of Pub. L. 96–466, set out as a note under section 3452 of this title.
 
-Amendment by section 602(a) of Pub. L. 96–466 \[amending this section\] effective Oct. 1, 1980, except asotherwise specifically provided, see section 802(f) of Pub. L. 96–466, set out as an Effective Date note under section 5314 of this title.
+Amendment by section 602(a) of Pub. L. 96–466 \[amending this section\] effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(f) of Pub. L. 96–466, set out as an Effective Date note under section 5314 of this title.
 
 #### Effective Date of 1977 Amendment
 

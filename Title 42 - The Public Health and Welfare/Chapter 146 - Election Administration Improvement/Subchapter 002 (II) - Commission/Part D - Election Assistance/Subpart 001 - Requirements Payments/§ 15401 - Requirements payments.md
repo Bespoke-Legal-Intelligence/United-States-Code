@@ -8,7 +8,7 @@ The Commission shall make a requirements payment each year in an amount determin
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), a State receiving a requirements payment shall use the payment only to meet the requirements of subchapter III of this chapter.
+&emsp;Except as provided in paragraphs (2) and (3), a State receiving a requirements payment shall use the payment only to meet the requirements of subchapter III of this chapter.
 
 #### (2) Other activities
 
@@ -17,6 +17,10 @@ The Commission shall make a requirements payment each year in an amount determin
 &emsp;&emsp;(A) the State has implemented the requirements of subchapter III of this chapter; or
 
 &emsp;&emsp;(B) the amount expended with respect to such other activities does not exceed an amount equal to the minimum payment amount applicable to the State under section 15402(c) of this title.
+
+#### (3) Activities under Uniformed and Overseas Citizens Absentee Voting Act
+
+&emsp;A State shall use a requirements payment made using funds appropriated pursuant to the authorization under section 15407(a)(4) of this title only to meet the requirements under the Uniformed and Overseas Citizens Absentee Voting Act \[42 U.S.C. 1973ff et seq.\] imposed as a result of the provisions of and amendments made by the Military and Overseas Voter Empowerment Act.
 
 #### (c) Retroactive payments
 
@@ -44,5 +48,17 @@ A State may not use any portion of a requirements payment—
 
 &emsp;(2) for the payment of any judgment.
 
-(Pub. L. 107–252, title II, §251, Oct. 29, 2002, 116 Stat. 1692.)
+(Pub. L. 107–252, title II, §251, Oct. 29, 2002, 116 Stat. 1692; Pub. L. 111–84, div. A, title V, §588(a), Oct. 28, 2009, 123 Stat. 2333.)
+
+#### References in Text
+
+The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (b)(3), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which is classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of this title and Tables.
+
+The Military and Overseas Voter Empowerment Act, referred to in subsec. (b)(3), is subtitle H (§§575–589) of title V of div. A of Pub. L. 111–84, Oct. 28, 2009, 123 Stat. 2318, which enacted sections 1973ff–2a, 1973ff–2b, 1973ff–4a, and 1973ff–7 of this title and section 1566a of Title 10, Armed Forces, amended sections 1973ff to 1973ff–2, 1973ff–3, 1973ff–4, 15401, 15403, 15404, and 15407 of this title, and enacted provisions set out as notes under sections 1971 and 1973ff to 1973ff–2 of this title. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1971 of this title and Tables.
+
+#### Amendments
+
+2009—Subsec. (b)(1). Pub. L. 111–84, §588(a)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+
+Subsec. (b)(3). Pub. L. 111–84, §588(a)(2), added par. (3).
 

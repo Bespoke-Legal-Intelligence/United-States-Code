@@ -36,7 +36,7 @@ In general.—For the purposes of this section, each State shall have in effect 
 
 &emsp;(2)
 
-Motor vehicles designed to transport many passengers.—For the purposes of this section, if a State has in effect a law that makes unlawful the possession of any open alcoholic beverage container by the driver (but not by a passenger)—
+Motor vehicles designed to transport many passengers.—For the purposes of this section, if a State has in effect a law thatmakes unlawful the possession of any open alcoholic beverage container by the driver (but not by a passenger)—
 
 &emsp;&emsp;(A) in the passenger area of a motor vehicle designed, maintained, or used primarily for the transportation of persons for compensation; or
 
@@ -94,7 +94,7 @@ Amount.—The amount of obligation authority referred to in subparagraph (A) sha
 
 &emsp;&emsp;&emsp;(ii) the ratio that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the amount of obligation authority distributed for the fiscal year to theState for Federal-aid highways and highway safety construction programs, bears to
+&emsp;&emsp;&emsp;&emsp;(I) the amount of obligation authority distributed for the fiscal year to the State for Federal-aid highways and highway safety construction programs, bears to
 
 &emsp;&emsp;&emsp;&emsp;(II) the total of the sums apportioned to the State for Federal-aid highways and highway safety construction programs (excluding sums not subject to any obligation limitation) for the fiscal year.
 

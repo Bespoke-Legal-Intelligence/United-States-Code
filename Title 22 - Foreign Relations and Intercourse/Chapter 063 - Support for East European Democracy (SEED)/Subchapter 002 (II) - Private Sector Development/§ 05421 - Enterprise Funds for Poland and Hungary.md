@@ -36,9 +36,9 @@ The funds appropriated under subsection (b) of this section may be made availabl
 
 #### (3) Board of Directors
 
-&emsp;(A) Each Enterprise Fund shall be governed by a Board of Directors comprised of private citizens of the United States, and citizens of the respective host country, who have demonstrated experience and expertise in those areas of private sector development in which the Enterprise Fund is involved.
+&emsp;(A) Each Enterprise Fund shall be governed by a Board of Directors comprised of privatecitizens of the United States, and citizens of the respective host country, who have demonstrated experience and expertise in those areas of private sector development in which the Enterprise Fund is involved.
 
-&emsp;(B) A majority of the members of the Board of Directors of each Enterprise Fund shall be United States citizens.: <sup>1</sup> <i>Provided</i>, That, as to Enterprise Funds established with respect to more than one host country, such Enterprise Fund may, in lieu of the appointment of citizens of the host countries to its Board of Directors, establish an advisory council for the host region comprised of citizens of each of the host countries or establish separate advisory councils for each of the host countries (hereinafter in this section referred to as the“Advisory Councils”), with which the Enterprise Fund's policies and proposed activities and such host country citizens shall satisfy the experience and expertise requirements of this clause.
+&emsp;(B) A majority of the members of the Board of Directors of each Enterprise Fund shall be United States citizens.: <sup>1</sup> <i>Provided</i>, That, as to Enterprise Funds established with respect to more than one host country, such Enterprise Fund may, in lieu of the appointment of citizens of the host countries to its Board of Directors, establish an advisory council for the host region comprised of citizens of each of the host countries or establish separate advisory councils for each of the host countries (hereinafter in this section referred to as the “Advisory Councils”), with which the Enterprise Fund's policies and proposed activities and such host country citizens shall satisfy the experience and expertise requirements of this clause.
 
 &emsp;(C) A host country citizen who is not committed to respect for democracy and a free market economy may not serve as a member of the Board of Directors of an Enterprise Fund.
 
@@ -94,7 +94,7 @@ In order to maximize the effectiveness of the activities of the Enterprise Funds
 
 #### (j) Financial instruments for individual investment in Poland
 
-In order to maximize the effectiveness of the activities of the Polish-American Enterprise Fund, that Enterprise Fund should undertake all possible efforts to establish financial instruments that will enable individuals to invest in the private sectors of Poland and that will thereby have the effect of multiplying the impact of United States grants to that Enterprise Fund.
+In order to maximize the effectiveness of the activities of the Polish-American Enterprise Fund, that Enterprise Fund should undertakeall possible efforts to establish financial instruments that will enable individuals to invest in the private sectors of Poland and that will thereby have the effect of multiplying the impact of United States grants to that Enterprise Fund.
 
 #### (k) Nonapplicability of other laws
 

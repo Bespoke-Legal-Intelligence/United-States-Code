@@ -6,13 +6,15 @@
 
 (c) The Secretary may, in accordance with the priority specified in section 1705 of this title, provide—
 
-&emsp;(1) service dogs trained for the aid of the hearing impaired to veterans who are hearing impaired and are enrolled under section 1705 of this title; and
+&emsp;(1) service dogs trained for the aid of the hearing impaired to veterans who are hearing impaired and are enrolled under section 1705 of this title;
 
-&emsp;(2) service dogs trained for the aid of persons with spinal cord injury or dysfunction or other chronic impairment that substantially limits mobility to veterans with such injury, dysfunction, or impairment who are enrolled under section 1705 of this title.
+&emsp;(2) service dogs trained for the aid of persons with spinal cord injury or dysfunction or other chronic impairment that substantially limits mobility to veterans with such injury, dysfunction, or impairment who are enrolled under section 1705 of this title; and
+
+&emsp;(3) service dogs trained for the aid of persons with mental illnesses, including post-traumatic stress disorder, to veterans with such illnesses who are enrolled under section 1705 of this title.
 
 (d) In the case of a veteran provided a dog under subsection (b) or (c), the Secretary may pay travel and incidental expenses for that veteran under the terms and conditions set forth in section 111 of this title to and from the veteran's home for expenses incurred in becoming adjusted to the dog.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, §614; Pub. L. 93–82, title I, §103(b), Aug. 2, 1973, 87 Stat. 181; Pub. L. 94–581, title II, §210(a)(5), Oct. 21, 1976, 90 Stat. 2862; Pub. L. 96–151, title II, §201(c), Dec. 20, 1979, 93 Stat. 1093; renumbered §1714 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–135, title II, §201(a), (b)(1), Jan. 23, 2002, 115 Stat. 2456, 2457.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, §614; Pub. L. 93–82, title I, §103(b), Aug. 2, 1973, 87 Stat. 181; Pub. L. 94–581, title II, §210(a)(5), Oct. 21, 1976, 90 Stat. 2862; Pub. L. 96–151, title II, §201(c), Dec. 20, 1979, 93 Stat. 1093; renumbered §1714 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–135, title II, §201(a), (b)(1), Jan. 23, 2002, 115 Stat. 2456, 2457; Pub. L. 111–117, div. E, title II, §229, Dec. 16, 2009, 123 Stat. 3307.)
 
 #### Prior Provisions
 
@@ -21,6 +23,8 @@ Prior section 1714 was renumbered section 3514 of this title.
 Provisions similar to those comprising subsec. (a) of this section were classified to section 613 of this title prior to repeal by section 103(b) of Pub. L. 93–82.
 
 #### Amendments
+
+2009—Subsec. (c)(3). Pub. L. 111–117 added par. (3).
 
 2002—Pub. L. 107–135, §201(b)(1), substituted “guide dogs; service dogs” for “seeing-eye dogs” in section catchline.
 

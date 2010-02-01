@@ -6,7 +6,7 @@ It shall be unlawful—
 
 &emsp;(1) for any manufacturer or private labeler to distribute in commerce any new covered product to which a rule under section 6294 of this title applies, unless such covered product is labeled in accordance with such rule;
 
-&emsp;(2) for any manufacturer, distributor, retailer, or private labeler to remove from any new covered product or render illegible any label required to be provided with such product under a rule under section 6294 of this title;
+&emsp;(2) for any manufacturer, distributor, retailer, or private labeler to remove from anynew covered product or render illegible any label required to be provided with such product under a rule under section 6294 of this title;
 
 &emsp;(3) for any manufacturer to fail to permit access to, or copying of, records required to be supplied under this part, or fail to make reports or provide other information required to be supplied under this part;
 

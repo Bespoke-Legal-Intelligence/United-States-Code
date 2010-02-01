@@ -56,7 +56,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Any person who violates any provision of this section or any regulation issued under this section may, in addition to any other civil or criminal penalty that may be imposed under title 18 or any other provision of law, be assessed a civil penalty by the designated authority of not more than—
+&emsp;&emsp;Any person who violates any provision of this section or any regulation issued under this section may, in addition to any othercivil or criminal penalty that may be imposed under title 18 or any other provision of law, be assessed a civil penalty by the designated authority of not more than—
 
 &emsp;&emsp;&emsp;(i) $10,000 for each separate knowing and intentional violation;
 
@@ -124,7 +124,7 @@ In order to enable Congress to engage in active, continuing oversight of this se
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(8), is not set out in the Code.See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(8), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Prior Provisions
 

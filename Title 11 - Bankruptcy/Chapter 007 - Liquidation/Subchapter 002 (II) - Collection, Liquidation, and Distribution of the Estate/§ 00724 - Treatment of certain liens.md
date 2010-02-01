@@ -16,7 +16,7 @@
 
 &emsp;(6) sixth, to the estate.
 
-(c) If more than one holder of a claim is entitled to distribution under a particular paragraph of subsection (b) of this section, distribution to such holders under such paragraph shall be in the same order as distribution to such holders would have been other than under this section.
+(c) If more than one holder of a claim is entitled to distribution under a particular paragraph of subsection (b) of this section, distribution to such holders under such paragraph shall be in the same order as distribution to suchholders would have been other than under this section.
 
 (d) A statutory lien the priority of which is determined in the same manner as the priority of a tax lien under section 6323 of the Internal Revenue Code of 1986 shall be treated under subsection (b) of this section the same as if such lien were a tax lien.
 
@@ -44,7 +44,7 @@ Treatment of certain liens: The House amendment modifies present law by requirin
 
 #### senate report no. 95–989
 
-Subsection (a) of section 724 permits the trustee to avoid a lien that secures a fine, penalty, forfeiture, ormultiple, punitive, or exemplary damages claim to the extent that the claim is not compensation for actual pecuniary loss. The subsection follows the policy found in section 57j of the Bankruptcy Act \[section 93(j) of former title 11\] of protecting unsecured creditors from the debtor's wrongdoing, but expands the protection afforded. The lien is made voidable rather than void in chapter 7, in order to permit the lien to be revived if the case is converted to chapter 11 under which penalty liens are not voidable. To make the lien void would be to permit the filing of a chapter 7, the voiding of the lien, and the conversion to a chapter 11, simply to avoid a penalty lien, which should be valid in a reorganization case.
+Subsection (a) of section 724 permits the trustee to avoid a lien that secures a fine, penalty, forfeiture, or multiple, punitive, or exemplary damages claim to the extent that the claim is not compensation for actual pecuniary loss. The subsection follows the policy found in section 57j of the Bankruptcy Act \[section 93(j) of former title 11\] of protecting unsecured creditors from the debtor's wrongdoing, but expands the protection afforded. The lien is made voidable rather than void in chapter 7, in order to permit the lien to be revived if the case is converted to chapter 11 under which penalty liens are not voidable. To make the lien void would be to permit the filing of a chapter 7, the voiding of the lien, and the conversion to a chapter 11, simply to avoid a penalty lien, which should be valid in a reorganization case.
 
 Subsection (b) governs tax liens. This provision retains the rule of present bankruptcy law (§67(C)(3) of the Bankruptcy Act \[section 107(c)(3) of former title 11\]) that a tax lien on personal property, if not avoidable by the trustee, is subordinated in payment to unsecured claims having a higher priority than unsecured tax claims. Those other claims may be satisfied from the amount that would otherwise have been applied to the tax lien, and any excess of the amount of the lien is then applied to the tax. Any personal property (or sale proceeds) remaining is to be used to satisfy claims secured by liens which are junior to the tax lien. Any proceeds remaining are next applied to pay any unpaid balance of the tax lien.
 
@@ -74,7 +74,7 @@ Subsec. (d). Pub. L. 103–394, §501(d)(23), substituted “Internal Revenue Co
 
 1984—Subsec. (b). Pub. L. 98–353, §477(a)(1), substituted “a tax” for “taxes” in provisions preceding par. (1).
 
-Subsec. (b)(2). Pub. L. 98–353, §477(a)(2), substituted “any holder of a claim of a kind specified” for “claims specified”, “section 507(a)(1)” for “sections 507(a)(1)”, and “or 507(a)(5) of this title” for “and 507(a)(5) of this title”.
+Subsec. (b)(2). Pub. L. 98–353, §477(a)(2), substituted “any holder of a claim of a kind specified” for “claimsspecified”, “section 507(a)(1)” for “sections 507(a)(1)”, and “or 507(a)(5) of this title” for “and 507(a)(5) of this title”.
 
 Subsec. (b)(3). Pub. L. 98–353, §477(a)(3), substituted “allowed tax claim” for “allowed claim”.
 

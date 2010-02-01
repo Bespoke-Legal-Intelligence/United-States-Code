@@ -20,7 +20,7 @@ The Secretary of the Army is authorized to convey to the City <sup>1</sup> of G
 
 #### (3) Partial parcel
 
-&emsp;If the conveyance is 125 acres or less, compensation shall be an amount equal to the fair market value of the parcel to be conveyed, with the fair market value of the parcel being determined in accordance with subsection (d) of this section.
+&emsp;If the conveyance is 125 acres or less, compensation shall be an amount equal to the fair market value of the parcel to be conveyed,with the fair market value of the parcel being determined in accordance with subsection (d) of this section.
 
 #### (c) Disposition of spoil
 

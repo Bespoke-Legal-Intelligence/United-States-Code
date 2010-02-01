@@ -82,7 +82,7 @@ For purposes of this section, the term “lead free”—
 
 #### (1) In general
 
-&emsp;The Administrator shall provide accurate and timely technical information and assistance to qualified third-party certifiers in the development of voluntary standards and testing protocols for the leaching of lead from new plumbing fittings and fixtures that are intended by the manufacturer to dispense water for human ingestion.
+&emsp;The Administrator shall provide accurate and timely technical information and assistance to qualified third-party certifiers in the development of voluntary standards and testing protocols for the leaching of lead from newplumbing fittings and fixtures that are intended by the manufacturer to dispense water for human ingestion.
 
 #### (2) Standards
 

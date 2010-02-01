@@ -38,7 +38,7 @@ Minor verbal changes were also made.
 
 #### 1949 Act
 
-This section \[section 2\] incorporates in section 42 of title 18, U.S.C., with slight changes in phraseology, theprovisions of act of June 29, 1948 (ch. 716, 62 Stat. 1096), which became law subsequent to the enactment of the revision of title 18.
+This section \[section 2\] incorporates in section 42 of title 18, U.S.C., with slight changes in phraseology, the provisions of act of June 29, 1948 (ch. 716, 62 Stat. 1096), which became law subsequent to the enactment of the revision of title 18.
 
 #### References in Text
 

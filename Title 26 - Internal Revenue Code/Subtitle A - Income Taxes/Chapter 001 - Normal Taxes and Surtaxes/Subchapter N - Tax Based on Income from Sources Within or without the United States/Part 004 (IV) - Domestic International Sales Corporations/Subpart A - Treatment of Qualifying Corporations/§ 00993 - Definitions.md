@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) gross receipts from the sale, exchange, or other disposition of qualified export assets (other than export property),
 
-&emsp;&emsp;(E) dividends (or amounts includible in gross income under section 951) with respect to stock of a related foreign export corporation (as defined in subsection (e)),
+&emsp;&emsp;(E) dividends (or amounts includible in gross income under section 951) with respectto stock of a related foreign export corporation (as defined in subsection (e)),
 
 &emsp;&emsp;(F) interest on any obligation which is a qualified export asset,
 
@@ -206,7 +206,7 @@ Sections 3(2)(C) and 7(a) of the Export Administration Act of 1979, referred to 
 
 #### Amendments
 
-1993—Subsec. (c)(2). Pub. L. 103–66, §13239(b)(2), inserted at end “For purposes of subparagraph (E), the term ‘unprocessed timber’ means any log, cant, or similar form of timber.”
+1993—Subsec. (c)(2). Pub. L. 103–66, §13239(b)(2), inserted at end “For purposes of subparagraph (E), theterm ‘unprocessed timber’ means any log, cant, or similar form of timber.”
 
 Subsec. (c)(2)(E). Pub. L. 103–66, §13239(b)(1), added subpar. (E).
 

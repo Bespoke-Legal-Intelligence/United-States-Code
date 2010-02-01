@@ -24,7 +24,7 @@
 
 #### (B) Waiver
 
-&emsp;&emsp;If a State certifies to the Administrator not later than January 1, 2004, that the State will not meet the deadline described in subparagraph (A) for good cause and includes in the certification the reasons for the failure to meet such deadline, the State shall ensure that all of the punch card voting systems or lever voting systems in the qualifying precincts within that State will be replaced in time for the first election for Federal office held after March 1, 2008.
+&emsp;&emsp;If a State certifies to the Administrator not later than January 1, 2004, that the State will not meet the deadline described in subparagraph (A) for good cause and includes in the certification the reasons for the failure to meet such deadline, the State shall ensure that all of the punch card voting systems or lever voting systems in the qualifying precincts within that State will be replaced in time for the first election for Federal office held after November 1, 2010.
 
 #### (b) Eligibility
 
@@ -90,11 +90,17 @@ For purposes of this section, a “punch card voting system” includes any of t
 
 &emsp;(7) Votomatic.
 
-(Pub. L. 107–252, title I, §102, Oct. 29, 2002, 116 Stat. 1670; Pub. L. 110–28, title VI, §6301(a), May 25, 2007, 121 Stat. 171.)
+(Pub. L. 107–252, title I, §102, Oct. 29, 2002, 116 Stat. 1670; Pub. L. 110–28, title VI, §6301(a), May 25, 2007, 121 Stat. 171; Pub. L. 111–8, div. D, title VI, §625(a), Mar. 11, 2009, 123 Stat. 678.)
 
 #### Amendments
 
+2009—Subsec. (a)(3)(B). Pub. L. 111–8 substituted “November 1, 2010” for “March 1, 2008”.
+
 2007—Subsec. (a)(3)(B). Pub. L. 110–28 substituted “March 1, 2008” for “January 1, 2006”.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–8, div. D, title VI, §625(b), Mar. 11, 2009, 123 Stat. 678, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Help America Vote Act of 2002 \[Pub. L. 107–252\].”
 
 #### Effective Date of 2007 Amendment
 

@@ -56,7 +56,7 @@ Pub. L. 107–347, title IV, §402(a), Dec. 17, 2002, 116 Stat. 2961, provided t
 
 “(1)
 
-In general.—Except as provided under paragraph (2), titles I \[enacting this chapter, section 507 of Title 31, Money and Finance, and section 305 of Title 40, Public Buildings, Property, and Works, and amending section 503 of Title 31\] and II \[enacting chapter 37 of Title 5, Government Organization and Employees, section 2332 of Title 10, Armed Forces, and section 266a of Title 41, Public Contracts, amending sections 3111, 4108, and 7353 of Title 5, sections 207, 209, and 1905 of Title 18, Crimes and Criminal Procedure, sections 502, 11501 to 11505 of Title 40, and section 423 of Title 41, repealingsection 11521 of Title 40, directing the renumbering of section 11522 of Title 40 as section 11521, enacting provisions set out as notes under section 3501 of this title, and amending provisions set out as notes under section 8432 of Title 5 and section 1913 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by such titles shall take effect 120 days after the date of enactment of this Act \[Dec. 17, 2002\].
+In general.—Except as provided under paragraph (2), titles I \[enacting this chapter, section 507 of Title 31, Money and Finance, and section 305 of Title 40, Public Buildings, Property, and Works, and amending section 503 of Title 31\] and II \[enacting chapter 37 of Title 5, Government Organization and Employees, section 2332 of Title 10, Armed Forces, and section 266a of Title 41, Public Contracts, amending sections 3111, 4108, and 7353 of Title 5, sections 207, 209, and 1905 of Title 18, Crimes and Criminal Procedure, sections 502, 11501 to 11505 of Title 40, and section 423 of Title 41, repealing section 11521 of Title 40, directing the renumbering of section 11522 of Title 40 as section 11521, enacting provisions set out as notes under section 3501 of this title, and amending provisions set out as notes under section 8432 of Title 5 and section 1913 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by such titles shall take effect 120 days after the date of enactment of this Act \[Dec. 17, 2002\].
 
 “(2)
 
@@ -85,6 +85,8 @@ Pub. L. 110–161, div. D, title VII, §737, Dec. 26, 2007, 121 Stat. 2028, prov
 &emsp;“(3) the sources and distribution of funding by fiscal year and by agency and bureau for each initiative including agency contributions to date and estimated future contributions by agency.
 
 “(e) No funds shall be available for obligation or expenditure for new E-Government initiatives without the explicit approval of the House and Senate Committees on Appropriations.”
+
+\[Provisions similar to subsecs. (a), (d), and (e) of section 737 of Pub. L. 110–161, set out above, were contained in sections of subsequent appropriations acts which are not set out in the Code.\]
 
 #### Findings and Purposes
 

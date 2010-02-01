@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Carbon sequestration
 
-&emsp;The term “carbon sequestration” means the capture of carbon dioxide through terrestrial, geological, biological, or other means, which prevents the release of carbon dioxide into the atmosphere.
+&emsp;The term “carbon sequestration” means the capture of carbon dioxide through terrestrial,geological, biological, or other means, which prevents the release of carbon dioxide into the atmosphere.
 
 #### (3) Committee
 
@@ -126,7 +126,7 @@ Not later than 180 days after the date on which the Committee is established und
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the Committee, may establish under section 7234 of this title a Climate Change Technology Advisory Committee to identify statutory, regulatory, economic, and other barriers to the commercialization and deployment of greenhouse gas intensity reducing technologies and practices in the United States.
+&emsp;The Secretary, in consultation with the Committee, may establish under section 7234of this title a Climate Change Technology Advisory Committee to identify statutory, regulatory, economic, and other barriers to the commercialization and deployment of greenhouse gas intensity reducing technologies and practices in the United States.
 
 #### (2) Composition
 
@@ -220,7 +220,7 @@ The Secretary, in collaboration with the Committee and the National Institute of
 
 #### (j) Cooperative research and development agreements
 
-In carrying out greenhouse gas intensity reduction research and technology deployment activities under this subtitle,<sup>2</sup> the Secretary may enter into cooperative research and development agreements under section 3710a of title 15.
+In carrying out greenhouse gas intensity reduction research and technology deployment activities under this subtitle,<sup>2</sup> the Secretary mayenter into cooperative research and development agreements under section 3710a of title 15.
 
 (Pub. L. 102–486, title XVI, §1610, as added Pub. L. 109–58, title XVI, §1601, Aug. 8, 2005, 119 Stat. 1109.)
 

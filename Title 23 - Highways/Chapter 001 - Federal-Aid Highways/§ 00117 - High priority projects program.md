@@ -68,7 +68,7 @@ Advance Construction.—When a State which has been delegated responsibility for
 
 &emsp;(1) has obligated all funds allocated under this section and section 1602 of the Transportation Equity Act for the 21st Century or section 1701 <sup>1</sup> of the SAFETEA–LU, as the case may be, for such project; and
 
-&emsp;(2) proceeds to construct such project without the aid of Federal funds in accordance with all procedures and all requirements applicable to such project, except insofar as such procedures and requirements limit the State to the construction of projects with the aid of Federal funds previously allocated to it;
+&emsp;(2) proceeds to construct such project without the aid of Federal funds in accordancewith all procedures and all requirements applicable to such project, except insofar as such procedures and requirements limit the State to the construction of projects with the aid of Federal funds previously allocated to it;
 
 > the Secretary, upon the approval of the application of a State, shall pay to the State the Federal share of the cost of construction of the project when additional funds are allocated for such project under this section and such section 1602 or 1702, as the case may be.
 
@@ -78,7 +78,7 @@ Period of Availability.—Funds made available to carry out this section shall r
 
 (h)
 
-Availability of Obligation Limitation.—Obligation authority attributable to funds made available to carry out this section shall only beavailable for the purposes of this section and shall remain available until obligated pursuant to section 1102(g) of the Transportation Equity Act for the 21st Century or section 1102(g) of the SAFETEA–LU, as the case may be.
+Availability of Obligation Limitation.—Obligation authority attributable to funds made available to carry out this section shall only be available for the purposes of this section and shall remain available until obligated pursuant to section 1102(g) of the Transportation Equity Act for the 21st Century or section 1102(g) of the SAFETEA–LU, as the case may be.
 
 (i)
 

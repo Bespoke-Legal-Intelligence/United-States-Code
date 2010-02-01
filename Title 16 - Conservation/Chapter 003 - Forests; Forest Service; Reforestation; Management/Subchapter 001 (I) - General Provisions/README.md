@@ -1,5 +1,7 @@
 ### SUBCHAPTER I—GENERAL PROVISIONS
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 
@@ -9,6 +11,7 @@
 - [&sect; 00551a - Cooperation by Secretary of Agriculture with States and political subdivisions in law enforcement](%C2%A7%2000551a%20-%20Cooperation%20by%20Secretary%20of%20Agriculture%20with%20States%20and%20political%20subdivisions%20in%20law%20enforcement.md)
 - [&sect; 00551b - Omitted](%C2%A7%2000551b%20-%20Omitted.md)
 - [&sect; 00551c - Planning for fire protection](%C2%A7%2000551c%20-%20Planning%20for%20fire%20protection.md)
+- [&sect; 00551d - Wildland firefighter safety](%C2%A7%2000551d%20-%20Wildland%20firefighter%20safety.md)
 - [&sect; 00552 - Consent to agreement by States for conservation of forests and water supply](%C2%A7%2000552%20-%20Consent%20to%20agreement%20by%20States%20for%20conservation%20of%20forests%20and%20water%20supply.md)
 - [&sect; 00552a - Restoration of withdrawn national forest lands to appropriation](%C2%A7%2000552a%20-%20Restoration%20of%20withdrawn%20national%20forest%20lands%20to%20appropriation.md)
 - [&sect; 00552b - Administration of withdrawn lands; rules and regulations](%C2%A7%2000552b%20-%20Administration%20of%20withdrawn%20lands%3B%20rules%20and%20regulations.md)

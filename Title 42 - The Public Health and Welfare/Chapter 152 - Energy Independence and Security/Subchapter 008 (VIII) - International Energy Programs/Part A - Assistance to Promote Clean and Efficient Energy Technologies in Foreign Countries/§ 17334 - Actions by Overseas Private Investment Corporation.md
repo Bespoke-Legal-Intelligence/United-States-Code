@@ -8,7 +8,7 @@ It is the sense of Congress that the Overseas Private Investment Corporation sho
 
 &emsp;(2) giving preferential treatment to the evaluation and awarding of projects that involve the investment or utilization of clean and efficient energy technologies; and
 
-&emsp;(3) providing greater flexibility in supporting projects that involve the investment orutilization of clean and efficient energy technologies, including financing, insurance, and other assistance.
+&emsp;(3) providing greater flexibility in supporting projects that involve the investment or utilization of clean and efficient energy technologies, including financing, insurance, and other assistance.
 
 #### (b) Report
 

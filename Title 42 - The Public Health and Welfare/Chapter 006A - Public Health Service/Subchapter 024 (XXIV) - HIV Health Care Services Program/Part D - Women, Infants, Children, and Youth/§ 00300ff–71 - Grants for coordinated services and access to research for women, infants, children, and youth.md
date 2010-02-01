@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall award grants to public and nonprofit private entities (including a health facility operated by or pursuant to a contract with the Indian Health Service) for the purpose of providing family-centered care involving outpatient or ambulatory care (directly or through contracts) for women, infants, children, and youth with HIV/AIDS.
+The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall award grants to public and nonprofit private entities (including a health facility operated by or pursuant to a contract with the Indian Health Service) for the purpose of providing family-centered care involving outpatient or ambulatory care (directly or through contracts or memoranda of understanding) for women, infants, children, and youth with HIV/AIDS.
 
 #### (b) Additional services for patients and families
 
@@ -64,7 +64,7 @@ A grant may only be awarded to an entity under subsection (a) if an application 
 
 #### (g) Training and technical assistance
 
-From the amounts appropriated under subsection (i) for a fiscal year, the Secretary may use not more than 5 percent to provide, directly or through contracts with public and private entities (which may include grantees under subsection (a)), training and technical assistance to assist applicants and grantees under subsection (a) in complying with the requirements of this section.
+From the amounts appropriated under subsection (j) for a fiscal year, the Secretary may use not more than 5 percent to provide, directly or through contracts with public and private entities (which may include grantees under subsection (a)), training and technical assistance to assist applicants and grantees under subsection (a) in complying with the requirements of this section.
 
 #### (h) Definitions
 
@@ -86,25 +86,25 @@ In this section:
 
 &emsp;&emsp;(B) services that sustain program activity and contribute to or help improve services under subparagraph (A).
 
-#### (i) Authorization of appropriations
+#### (i) Application to primary care services
 
-For the purpose of carrying out this section, there are authorized to be appropriated, $71,800,000 for each of the fiscal years 2007 through 2009.
+Nothing in this part shall be construed as requiring funds under this part to be used for primary care services when payments are available for such services from other sources (including under titles XVIII, XIX, and XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\]).
 
-(July 1, 1944, ch. 373, title XXVI, §2671, as added Pub. L. 109–415, title IV, §401, Dec. 19, 2006, 120 Stat. 2810.)
+#### (j) Authorization of appropriations
 
-#### Repeal of Section
+For the purpose of carrying out this section, there are authorized to be appropriated, $71,800,000 for each of the fiscal years 2007 through 2009, $75,390,000 for fiscal year 2010, $79,160,000 for fiscal year 2011, $83,117,000 for fiscal year 2012, and $87,273,000 for fiscal year 2013.
 
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2671, as added and amended Pub. L. 109–415, title IV, §401, title VII, §703, Dec. 19, 2006, 120 Stat. 2810, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), (e), 11, Oct. 30, 2009, 123 Stat. 2885, 2886, 2895.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title V of the Act is classified generally to subchapter V (§701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (c)(1) and (i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles V, XVIII, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 
 Prior sections 300ff–71 to 300ff–78 were omitted in the general amendment of this part by Pub. L. 109–415.
 
-Section 300ff–71, act July 1, 1944, ch. 373, title XXVI, §2671, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 617; amended Pub. L. 104–146, §3(e), May 20, 1996, 110 Stat. 1358; Pub. L. 106–345, title IV, §401, Oct. 20, 2000, 114 Stat. 1347, related to grants for coordinated services and access to research for women, infants, children, and youth.
+Section 300ff–71, act July 1, 1944, ch. 373, title XXVI, §2671, as added Pub. L. 101–381, title IV, §401, Aug. 18,1990, 104 Stat. 617; amended Pub. L. 104–146, §3(e), May 20, 1996, 110 Stat. 1358; Pub. L. 106–345, title IV, §401, Oct. 20, 2000, 114 Stat. 1347, related to grants for coordinated services and access to research for women, infants, children, and youth.
 
 Section 300ff–72, act July 1, 1944, ch. 373, title XXVI, §2672, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 618, contained provisions relating to blood banks.
 
@@ -123,4 +123,24 @@ Section 300ff–76, act July 1, 1944, ch. 373, title XXVI, §2676, as added Pub.
 Section 300ff–77, act July 1, 1944, ch. 373, title XXVI, §2677, as added Pub. L. 104–146, §6(a), May 20, 1996, 110 Stat. 1367; amended Pub. L. 106–345, title IV, §417, Oct. 20, 2000, 114 Stat. 1352, authorized appropriations.
 
 Section 300ff–78, act July 1, 1944, ch. 373, title XXVI, §2678, as added Pub. L. 104–146, §10, May 20, 1996, 110 Stat. 1373, prohibited promotion of certain activities. See section 300ff–84 of this title.
+
+#### Amendments
+
+2009—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+Subsec. (a). Pub. L. 111–87, §11(b), substituted “(directly or through contracts or memoranda of understanding)” for “(directly or through contracts)”.
+
+Subsec. (g). Pub. L. 111–87, §11(a)(2), substituted “subsection (j)” for “subsection (i)”.
+
+Subsec. (i). Pub. L. 111–87, §11(a)(3), added subsec. (i). Former subsec. (i) redesignated (j).
+
+Pub. L. 111–87, §2(e), inserted “, $75,390,000 for fiscal year 2010, $79,160,000 for fiscal year 2011, $83,117,000 for fiscal year 2012, and $87,273,000 for fiscal year 2013” before period at end.
+
+Subsec. (j). Pub. L. 111–87, §11(a)(1), redesignated subsec. (i) as (j).
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by sections 2(e) and 11 of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 

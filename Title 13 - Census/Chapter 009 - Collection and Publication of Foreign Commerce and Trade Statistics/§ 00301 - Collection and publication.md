@@ -1,6 +1,6 @@
 ### §301. Collection and publication
 
-(a) The Secretary is authorized to collect information from all persons exporting from, or importing into, the United States and the noncontiguous areas over which the United States exercises sovereignty, jurisdiction, or control, and from all persons engaged in trade between the United States and such noncontiguous areas and between those areas, or from the owners, or operators of carriers engaged in such foreign commerce or trade, and shall compile and publish such information pertaining to exports, imports, trade, and transportation relating thereto, as he deems necessary or appropriate to enable him to foster, promote, develop, and furtherthe commerce, domestic and foreign, of the United States and for other lawful purposes.
+(a) The Secretary is authorized to collect information from all persons exporting from, or importing into, the United States and the noncontiguous areas over which the United States exercises sovereignty, jurisdiction, or control, and from all persons engaged in trade between the United States and such noncontiguous areas and between those areas, or from the owners, oroperators of carriers engaged in such foreign commerce or trade, and shall compile and publish such information pertaining to exports, imports, trade, and transportation relating thereto, as he deems necessary or appropriate to enable him to foster, promote, develop, and further the commerce, domestic and foreign, of the United States and for other lawful purposes.
 
 (b) The Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate, on quarterly and cumulative bases, statistics on United States imports for consumption and United States exports by country and by product. Statistics on United States imports shall be submitted in accordance with the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes and general statistical note 1 thereof, in detail as follows:
 
@@ -58,7 +58,7 @@ The Foreign Assistance Act of 1961, referred to in subsecs. (c)(2), (d)(2), is P
 
 1999—Subsec. (h). Pub. L. 106–113 added subsec. (h).
 
-1988—Subsec. (b). Pub. L. 100–418, §1214(a)(2)(A), substituted “Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes and general statistical note 1 thereof” for “TariffSchedules of the United States Annotated and general statistical headnote 1 thereof”.
+1988—Subsec. (b). Pub. L. 100–418, §1214(a)(2)(A), substituted “Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes and general statistical note 1 thereof” for “Tariff Schedules of the United States Annotated and general statistical headnote 1 thereof”.
 
 Subsec. (e). Pub. L. 100–418, §1932, inserted at end “The information required to be reported under this subsection shall be reported in a form that is adjusted for economic inflation or deflation (on a constant dollar basis consistent with the reporting of the National Income and Product Accounts), and in a form that is not so adjusted.”
 

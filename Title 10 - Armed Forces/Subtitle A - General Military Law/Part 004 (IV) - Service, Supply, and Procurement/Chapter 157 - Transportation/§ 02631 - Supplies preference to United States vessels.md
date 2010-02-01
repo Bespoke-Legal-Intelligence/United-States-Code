@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 Apr. 28, 1904, ch. 1766, 33 Stat. 518.
 
-The word “supplies” is substituted for the words “coal, provisions, fodder, or supplies of any description”, in 10:1365 and 34:528. The words “pursuant to law” and “the use of”, in 10:1365 and 34:528, are omitted as surplusage. The words “as otherwise provided by law”, in 10:1365 and 34:528, are used rather than the words “under the law as it now exists”, in section 1 of the Act of April 28, 1904, ch. 1766, 33 Stat. 518. The word “may” is substituted for the word “shall”. The words “However, if” are substituted for the words “unless \* \* \* in which case”. The words “private persons” are substituted for the words “private parties or companies”, in 10:1365 and 34:528. The last sentence is substituted for the proviso of 10:1365 and 34:528.
+The word “supplies” is substituted for the words “coal, provisions, fodder, or supplies of any description”, in 10:1365 and 34:528. The words “pursuant to law” and “the use of”, in 10:1365 and 34:528, are omitted as surplusage. The words “as otherwise provided by law”, in 10:1365 and 34:528, are used rather than the words “under the law as it now exists”, in section 1 of the Act of April 28, 1904, ch. 1766, 33 Stat. 518. The word “may” is substituted for the word “shall”. The words “However, if” are substituted for the words “unless in which case”. The words “private persons” are substituted for the words “private parties or companies”, in 10:1365 and 34:528. The last sentence is substituted for the proviso of 10:1365 and 34:528.
 
 #### Amendments
 
@@ -74,7 +74,7 @@ Interim regulations.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Secretary may prescribe interim regulations as necessary to carry out theacquisition policy. For this purpose, the Secretary is excepted from compliance with the notice and comment requirements of section 553 of title 5, United States Code.
+In general.—The Secretary may prescribe interim regulations as necessary to carry out the acquisition policy. For this purpose, the Secretary is excepted from compliance with the notice and comment requirements of section 553 of title 5, United States Code.
 
 &emsp;&emsp;“(B)
 

@@ -62,7 +62,7 @@ The Secretary shall take such steps as are necessary to assure that medicare-eli
 
 #### (f) Report
 
-The Secretary shall include, in an annual report transmitted to the Congress, a report on the beneficiary assistance program and on other health insurance informational and counseling services made available to medicare-eligible individuals. The Secretary shall include in the report recommendations for such changes as maybe desirable to improve the relationship between the medicare program and medicare-eligible individuals.
+The Secretary shall include, in an annual report transmitted to the Congress, a report on the beneficiary assistance program and on other health insurance informational and counseling services made available to medicare-eligible individuals. The Secretary shall include in the report recommendations for such changes as may be desirable to improve the relationship between the medicare program and medicare-eligible individuals.
 
 (Pub. L. 101–508, title IV, §4359, Nov. 5, 1990, 104 Stat. 1388–137; Pub. L. 108–173, title IX, §900(e)(6)(G), Dec. 8, 2003, 117 Stat. 2374.)
 
@@ -92,7 +92,7 @@ In general.—The Secretary of Health and Human Services (in this section referr
 
 &emsp;&emsp;“(B)
 
-Funding.—For purposes of making grants under this subsection, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in the same proportion as the Secretary determines under section 1853(f) of such Act (42 U.S.C. 1395w–23(f)), of $7,500,000 to the Centers for Medicare \& Medicaid Services Program Management Account for fiscal year 2009, to remain available until expended.
+Funding.—For purposes of making grants under this subsection, the Secretary shall providefor the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in the same proportion as the Secretary determines under section 1853(f) of such Act (42 U.S.C. 1395w–23(f)), of $7,500,000 to the Centers for Medicare \& Medicaid Services Program Management Account for fiscal year 2009, to remain available until expended.
 
 &emsp;“(2)
 
@@ -172,7 +172,7 @@ Coordination of Efforts To Inform Older Americans About Benefits Available Under
 
 &emsp;“(1)
 
-In general.—The Secretary, acting through the Assistant Secretary for Aging, in cooperationwith related Federal agency partners, shall make a grant to, or enter into a contract with, a qualified, experienced entity under which the entity shall—
+In general.—The Secretary, acting through the Assistant Secretary for Aging, in cooperation with related Federal agency partners, shall make a grant to, or enter into a contract with, a qualified, experienced entity under which the entity shall—
 
 &emsp;&emsp;“(A) maintain and update web-based decision support tools, and integrated, person-centered systems, designed to inform older individuals (as defined in section 102 of the Older Americans Act of 1965 (42 U.S.C. 3002)) about the full range of benefits for which the individuals may be eligible under Federal and State programs;
 
@@ -188,7 +188,7 @@ Funding.—For purposes of making a grant or entering into a contract under para
 
 “(e)
 
-Reprogramming Funds From Medicare, Medicaid, and SCHIP Extension Act of 2007.—The Secretary shall only use the $5,000,000 in funds allocated to make grants to States for Area Agencies on Aging and Aging Disability and Resource Centers for the period of fiscal years 2008 through 2009 under section 118 of the Medicare, Medicaid, and SCHIP Extension Act of 2007 (Public Law 110–173) \[121 Stat. 2508\] for the sole purpose of providing outreach to individuals regarding the benefits available under the Medicare prescription drug benefit under part D of title XVIII of the Social Security Act \[part D of this subchapter\]. The Secretary shall republish the request for proposals issued on April 17, 2008, in order to comply with the preceding sentence.
+Reprogramming Funds From Medicare, Medicaid, and SCHIP Extension Act of 2007.—The Secretaryshall only use the $5,000,000 in funds allocated to make grants to States for Area Agencies on Aging and Aging Disability and Resource Centers for the period of fiscal years 2008 through 2009 under section 118 of the Medicare, Medicaid, and SCHIP Extension Act of 2007 (Public Law 110–173) \[121 Stat. 2508\] for the sole purpose of providing outreach to individuals regarding the benefits available under the Medicare prescription drug benefit under part D of title XVIII of the Social Security Act \[part D of this subchapter\]. The Secretary shall republish the request for proposals issued on April 17, 2008, in order to comply with the preceding sentence.
 
 “(f)
 

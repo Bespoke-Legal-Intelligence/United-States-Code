@@ -1,6 +1,6 @@
 ### §3734. Annual submission of information on the Veterans Housing Benefit Program Fund and housing programs
 
-(a) In the documents providing detailed information on the budget for the Department of Veterans Affairs that the Secretary submits to the Congress in conjunction with the President's budget submission for each fiscal year pursuant to section 1105 of title 31, the Secretary shall include—
+(a) In the documents providing detailed information on the budget for the Department of Veterans Affairs that the Secretary submits to the Congress in conjunction with the President's budget submission for each fiscal year pursuantto section 1105 of title 31, the Secretary shall include—
 
 &emsp;(1) a description of the operations of the Veterans Housing Benefit Program Fund during the fiscal year preceding the fiscal year in which such budget is submitted; and
 
@@ -38,7 +38,7 @@
 
 #### Amendments
 
-2002—Subsec. (b)(2)(B) to (F). Pub. L. 107–330 redesignated subpars. (C) to (F) as (B) to (E), respectively, andstruck out former subpar. (B) which read as follows: “Federal Government payments under section 3729(a)(3) of this title.”
+2002—Subsec. (b)(2)(B) to (F). Pub. L. 107–330 redesignated subpars. (C) to (F) as (B) to (E), respectively, and struck out former subpar. (B) which read as follows: “Federal Government payments under section 3729(a)(3) of this title.”
 
 2001—Subsec. (a). Pub. L. 107–14, §8(a)(9)(A), struck out “United States Code,” after “section 1105 of title 31,” in introductory provisions.
 

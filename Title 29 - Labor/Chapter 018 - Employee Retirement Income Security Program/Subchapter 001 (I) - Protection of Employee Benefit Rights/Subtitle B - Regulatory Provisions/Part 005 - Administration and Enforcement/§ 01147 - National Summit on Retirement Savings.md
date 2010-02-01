@@ -30,7 +30,7 @@ The purpose of the National Summit shall be—
 
 &emsp;(5) to identify the barriers which employers, especially small employers, face in assisting their workers in accumulating retirement savings;
 
-&emsp;(6) to examine the impact and effectiveness of individual employers to promote personal savings for retirement among their workers and to promote participation in company savings options;
+&emsp;(6) to examine the impact and effectiveness of individual employers to promote personal savings for retirement among their workersand to promote participation in company savings options;
 
 &emsp;(7) to examine the impact and effectiveness of government programs at the Federal, State, and local levels to educate the public about, and to encourage, retirement income savings;
 
@@ -118,7 +118,7 @@ The scope of the National Summit shall consist of issues relating to individual 
 
 #### (2) Duties
 
-&emsp;The Secretary shall, in carrying out the responsibilities and functions of the Secretary under this section, and as part of the National Summit, ensure that—
+&emsp;The Secretary shall, in carrying out the responsibilities and functions of the Secretaryunder this section, and as part of the National Summit, ensure that—
 
 &emsp;&emsp;(A) the National Summit shall be conducted in a manner that ensures broad participation of Federal, State, and local agencies and private organizations, professionals, and others involved in retirement income savings and provides a strong basis for assistance to be provided under paragraph (1)(B);
 
@@ -136,7 +136,7 @@ The Secretary shall prepare a report describing the activities of the National S
 
 #### (h) “State” defined
 
-For purposes of this section, the term “State” means a State, the District of Columbia, theCommonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, and any other territory or possession of the United States.
+For purposes of this section, the term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, and any other territory or possession of the United States.
 
 #### (i) Authorization of appropriations
 

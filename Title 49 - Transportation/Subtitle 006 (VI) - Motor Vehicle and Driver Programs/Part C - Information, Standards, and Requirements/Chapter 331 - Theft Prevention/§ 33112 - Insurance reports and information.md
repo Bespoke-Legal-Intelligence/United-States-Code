@@ -38,7 +38,7 @@ Annual Information Requirement.—(1) An insurer providing comprehensive coverag
 
 (d)
 
-Reports on Reduced Claims Payments.—An insurer shall report promptly in writing tothe Secretary if the insurer, in paying a claim under an adjustment or negotiation between the insurer and the insured for a stolen motor vehicle—
+Reports on Reduced Claims Payments.—An insurer shall report promptly in writing to the Secretary if the insurer, in paying a claim under an adjustment or negotiation between the insurer and the insured for a stolen motor vehicle—
 
 &emsp;(1) reduces the payment to the insured by the amount of the value, salvage or otherwise, of a recovered part subject to a standard prescribed under section 33102 or 33103 of this title; and
 
@@ -60,7 +60,7 @@ Small Insurer Exemptions.—(1) In this subsection, “small insurer” means an
 
 &emsp;(B) less than 10 percent of the total premiums for all forms of motor vehicle insurance issued by insurers in any State.
 
-(2) The Secretary shall exempt by regulation a small insurer from this section if the Secretary finds that the exemption will not significantly affect the validity or usefulness of the information collected and compiled under this section, nationally or State-by-State. However, the Secretary may not exempt an insurer under this paragraph that is considered an insurer only because of subsection (b)(1) of this section.
+(2) The Secretary shall exempt by regulation a small insurer from this section if the Secretary finds that the exemption will not significantly affect the validity or usefulness of the information collected and compiled under this section, nationally or State-by-State. However, the Secretary may not exempt an insurer under thisparagraph that is considered an insurer only because of subsection (b)(1) of this section.
 
 (3) Regulations under this subsection shall provide that eligibility as a small insurer shall be based on the most recent calendar year for which adequate information is available, and that, once attained, the eligibility shall continue without further demonstration of eligibility for one or more years, as the Secretary considers appropriate.
 

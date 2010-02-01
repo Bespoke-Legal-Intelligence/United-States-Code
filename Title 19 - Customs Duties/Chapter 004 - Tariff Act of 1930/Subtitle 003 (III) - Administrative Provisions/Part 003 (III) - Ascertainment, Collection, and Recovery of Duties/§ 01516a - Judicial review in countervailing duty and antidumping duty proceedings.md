@@ -328,7 +328,7 @@ For purposes of this section—
 
 #### (iv) Judicial review
 
-&emsp;&emsp;&emsp;Any action taken by the administering authority or the United States Customs Service under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
+&emsp;&emsp;&emsp;Any action taken by the administering authority or the United States Customs Service under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on anyquestion of law or fact by an action in the nature of mandamus or otherwise.
 
 #### (6) Injunctive relief
 
@@ -342,7 +342,7 @@ For purposes of this section—
 
 #### (B) Application if subparagraph (A) held unconstitutional
 
-&emsp;&emsp;In the event that the provisions of subparagraph (A) are held unconstitutionalunder the provisions of subparagraphs (A) and (H) of paragraph (4), the provisions of this subparagraph shall take effect. In such event, the President is authorized on behalf of the United States to accept, as a whole, the decision of a binational panel or extraordinary challenge committee remanding the determination to the administering authority or the Commission within the period specified by the panel or committee. Upon acceptance by the President of such a decision, the administering authority or the Commission shall, within the period specified by the panel or committee, take action not inconsistent with such decision. Any action taken by the President, the administering authority, or the Commission under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
+&emsp;&emsp;In the event that the provisions of subparagraph (A) are held unconstitutional under the provisions of subparagraphs (A) and (H) of paragraph (4), the provisions of this subparagraph shall take effect. In such event, the President is authorized on behalf of the United States to accept, as a whole, the decision of a binational panel or extraordinary challenge committee remanding the determination to the administering authority or the Commission within the period specified by the panel or committee. Upon acceptance by the President of such a decision, the administering authority or the Commission shall, within the period specified by the panel or committee, take action not inconsistent with such decision. Any action taken by the President, the administering authority, or the Commission under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
 
 #### (8) Requests for binational panel review
 
@@ -376,7 +376,7 @@ For purposes of this section—
 
 #### (10) Notification of class or kind rulings
 
-&emsp;In the case of a determination which is described in paragraph (2)(B)(vi) of subsection (a) of this section and which is subject to the provisions of paragraph (2), the administering authority, upon request, shall inform any interested person of the date on which the Government of the relevant FTA country received notice of the determination under paragraph 4 of article 1904 of the NAFTA or the Agreement.
+&emsp;In the case of a determination which is described in paragraph (2)(B)(vi) of subsection (a)of this section and which is subject to the provisions of paragraph (2), the administering authority, upon request, shall inform any interested person of the date on which the Government of the relevant FTA country received notice of the determination under paragraph 4 of article 1904 of the NAFTA or the Agreement.
 
 #### (11) Suspension and termination of suspension of article 1904 of the NAFTA
 
@@ -588,7 +588,7 @@ Subsec. (e). Pub. L. 96–417, §601(7), redesignated the United States Customs 
 
 Amendment by section 129(e) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 130 of Pub. L. 103–465, set out as an Effective Date note under section 3531 of this title.
 
-Amendment by sections 220(b), 270(a)(1)(N), and 271(b) of Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by sections 220(b), 270(a)(1)(N), and 271(b) of Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed underspecified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -608,7 +608,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1980 Amendments
 
-Section 3 of Pub. L. 96–542 provided that: “The amendments made by this Act \[amending this sectionand provisions set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure\] shall be effective as of November 1, 1980.”
+Section 3 of Pub. L. 96–542 provided that: “The amendments made by this Act \[amending this section and provisions set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure\] shall be effective as of November 1, 1980.”
 
 Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of title 28.
 
@@ -656,7 +656,7 @@ For provisions relating to effect of termination of NAFTA country status on the 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Acceptance by President of Panel and Committee Decisions
 

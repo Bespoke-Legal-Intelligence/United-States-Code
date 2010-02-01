@@ -1,6 +1,6 @@
 ### §926. Rules and regulations
 
-(a) The Attorney General may prescribe only such rules and regulations as are necessary tocarry out the provisions of this chapter, including—
+(a) The Attorney General may prescribe only such rules and regulations as are necessary to carry out the provisions of this chapter, including—
 
 &emsp;(1) regulations providing that a person licensed under this chapter, when dealing with another person so licensed, shall provide such other licensed person a certified copy of this license;
 

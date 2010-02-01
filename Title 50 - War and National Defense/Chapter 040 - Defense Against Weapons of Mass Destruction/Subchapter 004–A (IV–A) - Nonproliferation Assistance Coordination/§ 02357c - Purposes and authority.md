@@ -30,7 +30,7 @@ In carrying out the responsibilities described in subsection (a) of this section
 
 &emsp;(4) provide guidance on arrangements that will coordinate, deconflict, and maximize the utility of United States public spending on nonproliferation and threat reduction programs, and particularly such efforts in the independent states of the former Soviet Union;
 
-&emsp;(5) encourage companies and nongovernmental organizations involved in nonproliferation efforts of the independent states of theformer Soviet Union or other countries of concern to voluntarily report these efforts to it;
+&emsp;(5) encourage companies and nongovernmental organizations involved in nonproliferation efforts of the independent states of the former Soviet Union or other countries of concern to voluntarily report these efforts to it;
 
 &emsp;(6) direct the preparation of analyses on issues and problems relating to the coordination between the United States and other countries with respect to nonproliferation efforts, and particularly such efforts in the independent states of the former Soviet Union; and
 

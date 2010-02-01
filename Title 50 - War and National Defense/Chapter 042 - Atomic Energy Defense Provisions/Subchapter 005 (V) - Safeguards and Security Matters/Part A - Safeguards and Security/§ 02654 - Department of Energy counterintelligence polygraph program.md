@@ -34,5 +34,5 @@ Section was formerly classified to section 7383h–1 of Title 42, The Public Hea
 
 #### Amendments
 
-<b>2003</b>—Subsec. (c). Pub. L. 108–136, §3141(h)(5)(A)(iv), made technical amendment. See Codification note above.
+2003—Subsec. (c). Pub. L. 108–136, §3141(h)(5)(A)(iv), made technical amendment. See Codification note above.
 

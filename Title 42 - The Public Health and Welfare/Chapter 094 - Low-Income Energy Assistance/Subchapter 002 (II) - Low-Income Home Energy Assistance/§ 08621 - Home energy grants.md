@@ -120,7 +120,7 @@ Section 609 of Pub. L. 98–558 provided that:
 
 “(c) The amendments made by section 606 \[amending section 8626 of this title\] shall apply to amounts held available for fiscal years beginning after September 30, 1985.
 
-“(d) The amendment made by section 607 \[amending section 8629 of this title\] shall apply to data collectedand compiled after the date of the enactment of this Act \[Oct. 30, 1984\]. Section 2610 of the Act \[section 8629 of this title\] as in effect before the date of the enactment of this Act shall apply with respect to the report submitted under such section 2610 for fiscal year 1984.”
+“(d) The amendment made by section 607 \[amending section 8629 of this title\] shall apply to data collected and compiled after the date of the enactment of this Act \[Oct. 30, 1984\]. Section 2610 of the Act \[section 8629 of this title\] as in effect before the date of the enactment of this Act shall apply with respect to the report submitted under such section 2610 for fiscal year 1984.”
 
 #### Short Title of 1998 Amendment
 

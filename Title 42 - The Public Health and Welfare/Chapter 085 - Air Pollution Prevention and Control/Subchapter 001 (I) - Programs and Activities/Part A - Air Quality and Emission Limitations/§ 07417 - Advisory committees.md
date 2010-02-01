@@ -30,7 +30,7 @@ Section 7412(b)(1), referred to in subsec. (c)(2), was amended generally by Pub.
 
 #### Codification
 
-Subsec. (c) was originally enacted as subsec. (f) but has been redesignated (c) for purposes of codification in view of the failure of Pub. L. 95–95 to redesignate subsec. (f) as (c) after repealing former subsecs. (a) and (b) and redesignating former subsecs. (d) and (e) as (a) and (b).
+Subsec. (c) was originally enacted as subsec. (f) but has been redesignated (c) for purposes of codification inview of the failure of Pub. L. 95–95 to redesignate subsec. (f) as (c) after repealing former subsecs. (a) and (b) and redesignating former subsecs. (d) and (e) as (a) and (b).
 
 Section was formerly classified to section 1857e of this title.
 

@@ -12,7 +12,7 @@
 
 &emsp;(D) the required use of coal or any other alternate fuel would not allow the petitioner to obtain adequate capital for the financing of such powerplant.
 
-(2) The demonstration required to be made by a petitioner under paragraph (1) shall be made with respect to the site of such powerplant and reasonable alternative sites.
+(2) The demonstration required to be made by a petitioner under paragraph (1) shall be madewith respect to the site of such powerplant and reasonable alternative sites.
 
 #### (b) Permanent exemption due to certain State or local requirements
 
@@ -42,7 +42,7 @@ After consideration of a petition (and comments thereon) for an exemption for a 
 
 #### (e) Permanent exemption for emergency purposes
 
-After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a powerplant, the Secretary shall, by order, grant a permanent exemption under this subsection withrespect to natural gas or petroleum, if he finds that the petitioner has demonstrated that such powerplant will be maintained and operated only for emergency purposes (as defined by rule by the Secretary).
+After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a powerplant, the Secretary shall, by order, grant a permanent exemption under this subsection with respect to natural gas or petroleum, if he finds that the petitioner has demonstrated that such powerplant will be maintained and operated only for emergency purposes (as defined by rule by the Secretary).
 
 #### (f) Permanent exemption for powerplants necessary to maintain reliability of service
 
@@ -78,7 +78,7 @@ Subsec. (g). Pub. L. 100–42, §1(c)(6)(H), struck out subsec. (g) which relate
 
 Subsec. (h). Pub. L. 100–42, §1(c)(6)(H), struck out subsec. (h) which related to issuance, by order of Secretary of Energy, of permanent exemptions for use of petroleum for intermediate load powerplants.
 
-Subsec. (i). Pub. L. 100–42, §1(c)(6)(H), struck out subsec. (i) which related to issuance, by order of Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for installations based upon product or process requirements.
+Subsec. (i). Pub. L. 100–42, §1(c)(6)(H), struck out subsec. (i) which related to issuance, by order of Secretaryof Energy, of permanent exemptions for use of natural gas or petroleum for installations based upon product or process requirements.
 
 Subsec. (j). Pub. L. 100–42, §1(c)(6)(H), struck out subsec. (j) which related to issuance, by order of Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for installations necessary to meet scheduled equipment outages.
 

@@ -6,5 +6,5 @@ During the current fiscal year and on and after September 30, 1996, funds approp
 
 #### References in Text
 
-This paragraph, referred to in text, contained additional provisions providing appropriations for expenses,not otherwise provided for, necessary for the operation and maintenance of the Army which are not classified to the Code.
+This paragraph, referred to in text, contained additional provisions providing appropriations for expenses, not otherwise provided for, necessary for the operation and maintenance of the Army which are not classified to the Code.
 

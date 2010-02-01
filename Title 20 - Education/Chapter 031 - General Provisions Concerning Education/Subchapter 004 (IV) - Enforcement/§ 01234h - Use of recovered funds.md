@@ -28,7 +28,7 @@ Notwithstanding any other provisions of law, the funds made available under this
 
 #### (d) Publication in Federal Register of notice of intent to enter into repayment arrangement
 
-At least 30 days prior to entering into an arrangement under this section, the Secretary shall publish in the Federal Register a notice of intent to enter into such an arrangement and the terms and conditions under which payments will be made. Interested persons shall have an opportunity for at least 30 days to submit comments to the Secretary regarding the proposed arrangement.
+At least 30 days prior to entering into an arrangement under this section, the Secretaryshall publish in the Federal Register a notice of intent to enter into such an arrangement and the terms and conditions under which payments will be made. Interested persons shall have an opportunity for at least 30 days to submit comments to the Secretary regarding the proposed arrangement.
 
 (Pub. L. 90–247, title IV, §459, as added Pub. L. 100–297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 356; amended Pub. L. 103–382, title II, §250(b), Oct. 20, 1994, 108 Stat. 3927.)
 

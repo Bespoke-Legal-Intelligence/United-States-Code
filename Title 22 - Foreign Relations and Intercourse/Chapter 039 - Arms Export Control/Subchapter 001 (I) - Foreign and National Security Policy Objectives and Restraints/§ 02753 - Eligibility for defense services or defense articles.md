@@ -20,7 +20,7 @@ The consent of the President under paragraph (2) of subsection (a) of this secti
 
 &emsp;(1) such articles constitute components incorporated into foreign defense articles;
 
-&emsp;(2) the recipient is the government of a member country of the North Atlantic TreatyOrganization, the Government of Australia, the Government of Japan, the Government of the Republic of Korea, or the Government of New Zealand;
+&emsp;(2) the recipient is the government of a member country of the North Atlantic Treaty Organization, the Government of Australia, the Government of Japan, the Government of the Republic of Korea, or the Government of New Zealand;
 
 &emsp;(3) the recipient is not a country designated under section 2371 of this title;
 
@@ -68,7 +68,7 @@ The consent of the President under paragraph (2) of subsection (a) of this secti
 
 > Any certification submitted to Congress pursuant to this paragraph shall be unclassified, except that information regarding the dollar value and number of articles or services proposed to be transferred may be classified if public disclosure thereof would be clearly detrimental to the security of the United States.
 
-(2)(A) Except as provided in subparagraph (B), unless the President states in the certification submitted pursuant to paragraph (1) of this subsection that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States, such consent shall not become effective until 30 calendar days afterthe date of such submission and such consent shall become effective then only if the Congress does not enact, within such 30-day period, a joint resolution prohibiting the proposed transfer.
+(2)(A) Except as provided in subparagraph (B), unless the President states in the certification submitted pursuant to paragraph (1) of this subsection that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States, such consent shall not become effective until 30 calendar days after the date of such submission and such consent shall become effective then only if the Congress does not enact, within such 30-day period, a joint resolution prohibiting the proposed transfer.
 
 (B) In the case of a proposed transfer to the North Atlantic Treaty Organization, or any member country of such Organization, Japan, Australia, the Republic of Korea, or New Zealand, unless the President states in the certification submitted pursuant to paragraph (1) of this subsection that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States, such consent shall not become effective until fifteen calendar days after the date of such submission and such consent shall become effective then only if the Congress does not enact, within such fifteen-day period, a joint resolution prohibiting the proposed transfer.
 
@@ -150,7 +150,7 @@ Subsec. (d)(2)(C), (D). Pub. L. 104–164, §141(a)(3), added subpars. (C) and (
 
 Subsec. (d)(3)(A). Pub. L. 104–164, §141(b), designated existing provisions as subpar. (A), struck out “at least 30 calendar days” before “before giving such consent the President”, substituted “a certification” for “a report” after “Committee on Foreign Relations of the Senate”, and substituted “Such certification shall be submitted—
 
-&emsp;“(i) at least 15 calendar days before such consent is given in the case of a transfer to a country which is a member of the North Atlantic Treaty Organization or Australia, Japan, or New Zealand; and
+&emsp;“(i) at least 15 calendar days before such consent is given in the case of a transfer to a country which isa member of the North Atlantic Treaty Organization or Australia, Japan, or New Zealand; and
 
 &emsp;“(ii) at least 30 calendar days before such consent is given in the case of a transfer to any other country,
 
@@ -226,7 +226,7 @@ Section 141(f) of Pub. L. 104–164 provided that: “The amendments made by thi
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set outas an Effective Date note under section 6301 of this title.
+Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
 #### Effective Date of 1985 Amendment
 

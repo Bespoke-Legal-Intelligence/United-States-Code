@@ -16,5 +16,5 @@ Section 613e, act July 30, 1947, ch. 382, §7, 61 Stat. 630, related to powers o
 
 #### Reclamation Law; Amendment of Other Laws
 
-Section 8 of act July 30, 1947, ch. 382, 61 Stat. 630, provided that this subchapter be deemed a supplement to the reclamation law and that nothing in this subchapter be construed to amend subchapter I of chapter 12A of this title.
+Section 8 of act July 30, 1947, ch. 382, 61 Stat. 630, provided that this subchapter be deemed a supplement tothe reclamation law and that nothing in this subchapter be construed to amend subchapter I of chapter 12A of this title.
 

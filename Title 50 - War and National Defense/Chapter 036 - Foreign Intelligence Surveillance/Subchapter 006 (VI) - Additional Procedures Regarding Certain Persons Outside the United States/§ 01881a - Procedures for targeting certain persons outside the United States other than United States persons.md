@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-Notwithstanding any other provision of law, upon the issuance of an order in accordance with subsection (i)(3) or a determination under subsection (c)(2), the Attorney General and the Director of National Intelligence may authorize jointly, for a period of up to 1 year from the effective date of the authorization, the targeting of persons reasonably believed to be located outside the United States to acquire foreign intelligence information.
+Notwithstanding any other provision of law, upon the issuance of an order in accordance withsubsection (i)(3) or a determination under subsection (c)(2), the Attorney General and the Director of National Intelligence may authorize jointly, for a period of up to 1 year from the effective date of the authorization, the targeting of persons reasonably believed to be located outside the United States to acquire foreign intelligence information.
 
 #### (b) Limitations
 
@@ -172,7 +172,7 @@ An acquisition authorized under subsection (a)—
 
 #### (2) Compensation
 
-&emsp;The Government shall compensate, at the prevailing rate, an electronic communication service provider for providing information, facilities, or assistance in accordance with a directive issued pursuant to paragraph (1).
+&emsp;The Government shall compensate, at the prevailing rate, an electronic communicationservice provider for providing information, facilities, or assistance in accordance with a directive issued pursuant to paragraph (1).
 
 #### (3) Release from liability
 
@@ -238,7 +238,7 @@ An acquisition authorized under subsection (a)—
 
 #### (B) Certiorari to the Supreme Court
 
-&emsp;&emsp;The Government or an electronic communication service provider receiving a directive issued pursuant to paragraph (1) may file a petition for a writ of certiorari for review of a decision of the Court of Review issued under subparagraph (A). The record for such review shall be transmitted under seal to the Supreme Court of the United States, which shall have jurisdiction to review such decision.
+&emsp;&emsp;The Government or an electronic communication service provider receiving a directive issued pursuant to paragraph (1) mayfile a petition for a writ of certiorari for review of a decision of the Court of Review issued under subparagraph (A). The record for such review shall be transmitted under seal to the Supreme Court of the United States, which shall have jurisdiction to review such decision.
 
 #### (i) Judicial review of certifications and procedures
 
@@ -310,7 +310,7 @@ An acquisition authorized under subsection (a)—
 
 #### (C) Implementation pending appeal
 
-&emsp;&emsp;Not later than 60 days after the filing of a petition for review of an order under paragraph (3)(B) directing the correction of a deficiency, the Court of Review shall determine, and enter a corresponding order regarding, whether all or any part of the correction order, as issued or modified, shall beimplemented during the pendency of the review.
+&emsp;&emsp;Not later than 60 days after the filing of a petition for review of an order under paragraph (3)(B) directing the correction of a deficiency, the Court of Review shall determine, and enter a corresponding order regarding, whether all or any part of the correction order, as issued or modified, shall be implemented during the pendency of the review.
 
 #### (D) Certiorari to the Supreme Court
 

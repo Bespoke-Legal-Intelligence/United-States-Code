@@ -26,7 +26,7 @@ For purposes of this part, creditable service of a participant includes—
 
 &emsp;(B) a volunteer under part A of title VIII of the Economic Opportunity Act of 1964, or
 
-&emsp;(C) a full-time volunteer for a period of service of at least 1 year's duration under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.),
+&emsp;(C) a full-time volunteer for a period of service of at least 1 year's duration under part A, B,<sup>1</sup> or C of title I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.),
 
 > if the participant makes a payment to the Fund equal to 3 percent of pay received for the volunteer service; except, the amount to be paid for volunteer service beginning on January 1, 1999, through December 31, 2000, shall be as follows:
 
@@ -47,7 +47,7 @@ Credit shall be given under this System to a participant for a period of prior s
 
 A participant who, while on approved leave without pay, serves as a full-time paid employee of a Member or office of the Congress shall continue to make contributions to the Fund based upon the Foreign Service salary rate that would be in effect if the participant were in a pay status. The participant's employing Member or office in the Congress shall make a contribution (from the appropriation or fund which is used for payment of the salary of the participant) determined under section 4071f(a) of this title to the Treasury of the United States to the credit of the Fund. All periods of service for which full contributions to the Fund are made under this subsection shall be counted as creditable service for purposes of this part and shall not, unless all retirement credit is transferred, be counted as creditable service under any other Government retirement system.
 
-(Pub. L. 96–465, title I, §854, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 616; amended Pub. L. 99–556, title IV, §405, Oct. 27, 1986, 100 Stat. 3137; Pub. L. 100–238, title II, §242, Jan. 8, 1988, 101 Stat. 1776; Pub. L. 103–178, title II, §204(b)(2), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–33, title VII, §7001(e)(1)(B), Aug. 5, 1997, 111 Stat. 661; Pub. L. 106–346, §101(a) \[title V, §505(e)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54.)
+(Pub. L. 96–465, title I, §854, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 616; amended Pub. L. 99–556, title IV, §405, Oct. 27, 1986, 100 Stat. 3137; Pub. L. 100–238, title II, §242, Jan. 8, 1988, 101 Stat. 1776; Pub. L. 103–178, titleII, §204(b)(2), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–33, title VII, §7001(e)(1)(B), Aug. 5, 1997, 111 Stat. 661; Pub. L. 106–346, §101(a) \[title V, §505(e)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54.)
 
 #### References in Text
 
@@ -61,7 +61,7 @@ The Peace Corps Act, referred to in subsec. (c)(1)(A), is Pub. L. 87–293, Sept
 
 The Economic Opportunity Act of 1964, referred to in subsec. (c)(1)(B), is Pub. L. 88–452, Aug. 20, 1964, 73 Stat. 508, as amended. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452, as added by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. See sections 4951 et seq., 5042(13)(A), and 5055 of Title 42.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(1)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended. Parts A, B, and C of title I of the Act are classified to Parts A (§4951 et seq.), B (§4971 et seq.), and C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(1)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Parts A and C of title I of the Act are classified generally to parts A (§4951 et seq.) and C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which had been classified generally to part B (§4971 et seq.) of subchapter I of chapter 66 of Title 42, was repealed by Pub. L. 111–13, title II, §2121, Apr. 21, 2009, 123 Stat. 1584. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
 #### Amendments
 
@@ -106,4 +106,6 @@ Amendment by Pub. L. 99–556 effective Jan. 1, 1987, see section 408 of Pub. L.
 #### Impact of Amendments by Pub. L. 105–33 on Agency Contributions
 
 Section 7001(e)(2) of Pub. L. 105–33 provided that: “Agency contributions under section 857 of the Foreign Service Act of 1980 (22 U.S.C. 4071f) shall not be reduced as a result of the amendments made under paragraph (1) of this subsection \[amending this section and section 4071e of this title\].”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -24,7 +24,7 @@ Any abandoned shipwreck in or on the public lands of the United States is the pr
 
 #### (e) Reservation of rights
 
-This section does not affect any right reserved by the United States or by any State (including any right reserved with respect to Indian lands) under—
+This section does not affect any right reserved by the United States or by any State (includingany right reserved with respect to Indian lands) under—
 
 &emsp;(1) section 1311, 1313, or 1314 of this title; or
 

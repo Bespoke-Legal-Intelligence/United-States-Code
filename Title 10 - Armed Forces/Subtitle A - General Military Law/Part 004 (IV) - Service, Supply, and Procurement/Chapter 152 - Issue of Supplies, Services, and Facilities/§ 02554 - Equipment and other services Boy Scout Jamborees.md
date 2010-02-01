@@ -28,7 +28,7 @@
 
 #### Codification
 
-Pub. L. 109–148, §8126(c)(2), and Pub. L. 109–163, §1058(c), amended this section by adding substantially identical subsecs. (i). The subsec. (i) added by Pub. L. 109–148, §8126(c)(2), was subsequently omitted on authority of Pub. L. 109–364, §1071(f)(1), (3), which repealed Pub. L. 109–148, §8126(c)(2), and provided that the amendments by Pub. L. 109–148, §8126(c)(2), and Pub. L. 109–163, §1058(c), to this section be executed so as to appear only once in the law as amended. See Reconciliation of Duplicate Enactments note and 2005 and 2006 Amendment notes below.
+Pub. L. 109–148, §8126(c)(2), and Pub. L. 109–163, §1058(c), amended this section by adding substantially identical subsecs. (i). The subsec. (i) added by Pub. L.109–148, §8126(c)(2), was subsequently omitted on authority of Pub. L. 109–364, §1071(f)(1), (3), which repealed Pub. L. 109–148, §8126(c)(2), and provided that the amendments by Pub. L. 109–148, §8126(c)(2), and Pub. L. 109–163, §1058(c), to this section be executed so as to appear only once in the law as amended. See Reconciliation of Duplicate Enactments note and 2005 and 2006 Amendment notes below.
 
 #### Prior Provisions
 
@@ -58,7 +58,7 @@ See Codification note above.
 
 #### Reconciliation of Duplicate Enactments
 
-Pub. L. 109–364, div. A, title X, §1071(f)(1), Oct. 17, 2006, 120 Stat. 2402, as amended by Pub. L. 110–181, div. A,title X, §1063(c)(10), Jan. 28, 2008, 122 Stat. 323, provided that: “In executing to section 2554 of title 10, United States Code, the amendments made by section 8126(c)(2) of Public Law 109–148 \[adding subsec. (i) to this section\] (119 Stat. 2729) and section 1058(c) of Public Law 109–163 \[adding subsec. (i) to this section\] (119 Stat. 3443), such amendments shall be executed so as to appear only once in the law as amended.”
+Pub. L. 109–364, div. A, title X, §1071(f)(1), Oct. 17, 2006, 120 Stat. 2402, as amended by Pub. L. 110–181, div. A, title X, §1063(c)(10), Jan. 28, 2008, 122 Stat. 323, provided that: “In executing to section 2554 of title 10, United States Code, the amendments made by section 8126(c)(2) of Public Law 109–148 \[adding subsec. (i) to this section\] (119 Stat. 2729) and section 1058(c) of Public Law 109–163 \[adding subsec. (i) to this section\] (119 Stat. 3443), such amendments shall be executed so as to appear only once in the law as amended.”
 
 #### Support for Scout Jamborees
 

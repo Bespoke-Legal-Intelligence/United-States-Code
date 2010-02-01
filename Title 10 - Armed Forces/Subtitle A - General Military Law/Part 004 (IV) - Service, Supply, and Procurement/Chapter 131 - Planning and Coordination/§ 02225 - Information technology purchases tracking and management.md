@@ -78,7 +78,41 @@ Definitions.—In this section:
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note undersection 5334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
+
+#### Implementation of New Acquisition Process for Information Technology Systems
+
+Pub. L. 111–84, div. A, title VIII, §804, Oct. 28, 2009, 123 Stat. 2402, provided that:
+
+“(a)
+
+New Acquisition Process Required.—The Secretary of Defense shall develop and implement a new acquisition process for information technology systems. The acquisition process developed and implemented pursuant to this subsection shall, to the extent determined appropriate by the Secretary—
+
+&emsp;“(1) be based on the recommendations in chapter 6 of the March 2009 report of the Defense Science Board Task Force on Department of Defense Policies and Procedures for the Acquisition of Information Technology; and
+
+&emsp;“(2) be designed to include—
+
+&emsp;&emsp;“(A) early and continual involvement of the user;
+
+&emsp;&emsp;“(B) multiple, rapidly executed increments or releases of capability;
+
+&emsp;&emsp;“(C) early, successive prototyping to support an evolutionary approach; and
+
+&emsp;&emsp;“(D) a modular, open-systems approach.
+
+“(b)
+
+Report to Congress.—Not later than 270 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the new acquisition process developed pursuant to subsection (a). The report required by this subsection shall, at a minimum—
+
+&emsp;“(1) describe the new acquisition process;
+
+&emsp;“(2) provide an explanation for any decision by the Secretary to deviate from the criteria established forsuch process in paragraphs (1) and (2) of subsection (a);
+
+&emsp;“(3) provide a schedule for the implementation of the new acquisition process;
+
+&emsp;“(4) identify the categories of information technology acquisitions to which such process will apply; and
+
+&emsp;“(5) include the Secretary's recommendations for any legislation that may be required to implement the new acquisition process.”
 
 #### Clearinghouse for Rapid Identification and Dissemination of Commercial Information Technologies
 

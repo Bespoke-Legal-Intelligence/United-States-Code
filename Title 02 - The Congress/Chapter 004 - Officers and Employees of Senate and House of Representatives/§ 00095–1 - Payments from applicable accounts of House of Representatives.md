@@ -10,7 +10,7 @@ As used in this section—
 
 &emsp;(1) the term “applicable accounts of the House of Representatives” means accounts for salaries and expenses of committees (other than the Committee on Appropriations), the computer support organization of the House of Representatives, and allowances and expenses of Members of the House of Representatives, officers of the House of Representatives, and administrative and support offices of the House of Representatives; and
 
-&emsp;(2) the term “Member of the House of Representatives” means a Representative in, or aDelegate or Resident Commissioner to, the Congress.
+&emsp;(2) the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress.
 
 (Pub. L. 104–186, title I, §105, Aug. 20, 1996, 110 Stat. 1721.)
 

@@ -30,6 +30,14 @@ The Oversight Panel shall review the current state of the financial markets and 
 
 &emsp;The Oversight Panel shall submit a special report on regulatory reform not later than January 20, 2009, analyzing the current state of the regulatory system and its effectiveness at overseeing the participants in the financial system and protecting consumers, and providing recommendations for improvement, including recommendations regarding whether any participants in the financial markets that are currently outside the regulatory system should become subject to the regulatory system, the rationale underlying such recommendation, and whether there are any gaps in existing consumer protections.
 
+#### (3) Special report on farm loan restructuring
+
+&emsp;Not later than 60 days after May 20, 2009, the Oversight Panel shall submit a special report on farm loan restructuring that—
+
+&emsp;&emsp;(A) analyzes the state of the commercial farm credit markets and the use of loan restructuring as an alternative to foreclosure by recipients of financial assistance under the Troubled Asset Relief Program; and
+
+&emsp;&emsp;(B) includes an examination of and recommendation on the different methods for farm loan restructuring that could be used as part of a foreclosure mitigation program for farm loans made by recipients of financial assistance under the Troubled Asset Relief Program, including any programs for direct loan restructuring or modification carried out by the Farm Service Agency of the Department of Agriculture, the farm credit system, and the Making Home Affordable Program of the Department of the Treasury.
+
 #### (c) Membership
 
 #### (1) In general
@@ -116,13 +124,17 @@ The Oversight Panel shall terminate 6 months after the termination date specifie
 
 &emsp;An amount equal to the expenses of the Oversight Panel shall be promptly transferred by the Secretary, from time to time upon the presentment of a statement of such expenses by the Chairperson of the Oversight Panel, from funds made available to the Secretary under this chapter to the applicable fund of the House of Representatives and the contingent fund of the Senate, as appropriate, as reimbursement for amounts expended from such account and fund under paragraph (1).
 
-(Pub. L. 110–343, div. A, title I, §125, Oct. 3, 2008, 122 Stat. 3791.)
+(Pub. L. 110–343, div. A, title I, §125, Oct. 3, 2008, 122 Stat. 3791; Pub. L. 111–22, div. A, title V, §501, May 20, 2009, 123 Stat. 1658.)
 
 #### References in Text
 
 This chapter and the chapter, referred to in text, were in the original “this Act” and “the Act”, respectively, and were translated as reading “this division” and “the division”, respectively, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
 Level I of the Executive Schedule, referred to in subsec. (c)(2), is set out in section 5312 of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2009—Subsec. (b)(3). Pub. L. 111–22 added par. (3).
 
 <i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
 

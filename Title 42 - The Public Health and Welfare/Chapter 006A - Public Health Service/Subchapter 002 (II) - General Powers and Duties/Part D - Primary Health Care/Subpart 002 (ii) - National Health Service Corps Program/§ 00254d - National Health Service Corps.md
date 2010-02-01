@@ -28,7 +28,7 @@
 
 #### (b) Recruitment and fellowship programs
 
-(1) The Secretary may conduct at schools of medicine, osteopathic medicine, dentistry, and, as appropriate, nursing and other schools of the health professions, including schools at which graduate programs of behavioral and mental health are offered, and at entities which train allied health personnel, recruiting programs for the Corps, the Scholarship Program, and the Loan Repayment Program. Such recruiting programs shall include efforts to recruit individuals who will serve in the Corps other than pursuant to obligated service under the Scholarship or Loan Repayment Program.
+(1) The Secretary may conduct at schools of medicine, osteopathic medicine, dentistry, and, as appropriate, nursing and other schools of the health professions, including schools at which graduate programs of behavioral and mental health are offered, and at entities which trainallied health personnel, recruiting programs for the Corps, the Scholarship Program, and the Loan Repayment Program. Such recruiting programs shall include efforts to recruit individuals who will serve in the Corps other than pursuant to obligated service under the Scholarship or Loan Repayment Program.
 
 (2) In the case of physicians, dentists, behavioral and mental health professionals, certified nurse midwives, certified nurse practitioners, and physician assistants who have an interest and a commitment to providing primary health care, the Secretary may establish fellowship programs to enable such health professionals to gain exposure to and expertise in the delivery of primary health services in health professional shortage areas. To the maximum extent practicable, the Secretary shall ensure that any such programs are established in conjunction with accredited residency programs, and other training programs, regarding such health professions.
 
@@ -44,7 +44,7 @@
 
 (1) The Secretary may, under regulations promulgated by the Secretary, adjust the monthly pay of each member of the Corps (other than a member described in subsection (a)(1)(C) of this section) who is directly engaged in the delivery of health services in a health professional shortage area as follows:
 
-&emsp;(A) During the first 36 months in which such a member is so engaged in the delivery ofhealth services, his monthly pay may be increased by an amount which when added to the member's monthly pay and allowances will provide a monthly income competitive with the average monthly income from a practice of an individual who is a member of the profession of the Corps member, who has equivalent training, and who has been in practice for a period equivalent to the period during which the Corps member has been in practice.
+&emsp;(A) During the first 36 months in which such a member is so engaged in the delivery of health services, his monthly pay may be increased by an amount which when added to the member's monthly pay and allowances will provide a monthly income competitive with the average monthly income from a practice of an individual who is a member of the profession of the Corps member, who has equivalent training, and who has been in practice for a period equivalent to the period during which the Corps member has been in practice.
 
 &emsp;(B) During the period beginning upon the expiration of the 36 months referred to in subparagraph (A) and ending with the month in which the member's monthly pay and allowances are equal to or exceed the monthly income he received for the last of such 36 months, the member may receive in addition to his monthly pay and allowances an amount which when added to such monthly pay and allowances equals the monthly income he received for such last month.
 
@@ -88,7 +88,7 @@ The Secretary shall ensure that adequate staff is provided to the Service with r
 
 &emsp;(B) the Secretary has determined that assignment of a health professional who would serve less than full time would be appropriate for the area where the entity is located;
 
-&emsp;(C) a Corps member who is required to perform obligated service has agreed in writing tobe assigned for less than full-time service to an entity described in subparagraph (A);
+&emsp;(C) a Corps member who is required to perform obligated service has agreed in writing to be assigned for less than full-time service to an entity described in subparagraph (A);
 
 &emsp;(D) the entity and the Corps member agree in writing that the less than full-time service provided by the Corps member will not be less than 16 hours of clinical service per week;
 
@@ -148,7 +148,7 @@ Subsecs. (d)(2), (e). Pub. L. 101–597, §401(b)\[(a)\], substituted reference 
 
 Subsec. (h). Pub. L. 101–597, §101(d), added subsec. (h) and struck out former subsec. (h) which read as follows: “In assigning members of the Corps to health manpower shortage areas, to the extent practicable, the Secretary shall—
 
-&emsp;“(1) give priority to meeting the needs of the Indian Health Service and the needs of health programs orfacilities operated by tribes or tribal organizations under the Indian Self-Determination Act (25 U.S.C. 450f et seq.); and
+&emsp;“(1) give priority to meeting the needs of the Indian Health Service and the needs of health programs or facilities operated by tribes or tribal organizations under the Indian Self-Determination Act (25 U.S.C. 450f et seq.); and
 
 &emsp;“(2) provide special consideration to the homeless populations who do not have access to primary health care services.”
 
@@ -188,7 +188,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Special Report on Present and Future Direction of National Health Service Corps; Submission to Congress Not Later Than February 1, 1979
 
-Pub. L. 95–626, title I, §116(c), Nov. 10, 1978, 92 Stat. 3569, directed Secretary, not later than Feb. 1, 1979, in consultation with National Advisory Council of National Health Service Corps and National Advisory Council on Health Professions Education, to submit to Congress a report on the direction of the National Health Service Corps, particularly its role as a health manpower program and as a health services delivery program, the use of members of the Corps in health manpower shortage areas to meet urban and rural health needs, the types of health professions needed to meet urban and rural health needs, and the projected size, composition, and use of the Corps through 1985.
+Pub. L. 95–626, title I, §116(c), Nov. 10, 1978, 92 Stat. 3569, directed Secretary, not later than Feb. 1, 1979, in consultation with National Advisory Council of National Health Service Corps and National Advisory Council on Health Professions Education, to submit to Congress a report on the direction of the National Health Service Corps, particularly its role as a health manpower program and as a health services delivery program, the use of members of the Corps in health manpower shortage areas to meet urban and ruralhealth needs, the types of health professions needed to meet urban and rural health needs, and the projected size, composition, and use of the Corps through 1985.
 
 #### Effective Date; Other Provisions: Health Manpower Shortage Area; Approval of Applications for Assignment of Corps Personnel; Assignment Period, Commencement; Credit for Months of Prior Health Care and Services for Additional Pay Benefit; National Advisory Council on the National Health Service Corps, Continuation of Council and Appointment of Members
 

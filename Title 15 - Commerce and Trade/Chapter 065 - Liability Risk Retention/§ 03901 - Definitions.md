@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) means legal liability for damages (including costs of defense, legal costs and fees, and other claims expenses) because of injuries to other persons, damage to their property, or other damage or loss to such other persons resulting from or arising out of—
 
-&emsp;&emsp;&emsp;(i) any business (whether profit or nonprofit), trade, product, services (includingprofessional services), premises, or operations, or
+&emsp;&emsp;&emsp;(i) any business (whether profit or nonprofit), trade, product, services (including professional services), premises, or operations, or
 
 &emsp;&emsp;&emsp;(ii) any activity of any State or local government, or any agency or political subdivision thereof; and
 

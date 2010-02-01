@@ -18,7 +18,7 @@ Availability of Amounts To Pay for Testing.—The Secretary shall enter into a c
 
 (e)
 
-Acquiring New Bus Models.—Amounts appropriated or made available under this chapter may be obligated or expended to acquire a new bus model only if a bus of that model has been tested at the facility maintained by the Secretary under subsection (a).
+Acquiring New Bus Models.—Amounts appropriated or made available under this chapter may be obligated or expended to acquire a newbus model only if a bus of that model has been tested at the facility maintained by the Secretary under subsection (a).
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 817; Pub. L. 103–429, §6(8), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–178, title III, §§3018, 3029(b)(8), June 9, 1998, 112 Stat. 361, 372; Pub. L. 109–59, title III, §§3002(b)(4), 3020, Aug. 10, 2005, 119 Stat. 1545, 1608.)
 

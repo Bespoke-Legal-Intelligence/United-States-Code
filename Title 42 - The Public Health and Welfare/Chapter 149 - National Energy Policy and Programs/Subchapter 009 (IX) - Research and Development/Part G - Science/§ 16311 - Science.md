@@ -6,7 +6,7 @@ The Secretary shall conduct, through the Office of Science, programs of research
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary to carry out research, development, demonstration, and commercial application activities of the Office of Science, including activities authorized under this part (including the amounts authorized under the amendment made by section 976(b) <sup>1</sup> and including basic energy sciences, advanced scientific and computing research, biological and environmental research, fusion energy sciences, high energy physics, nuclear physics, research analysis, and infrastructure support)—
+There are authorized to be appropriated to the Secretary to carry out research, development,demonstration, and commercial application activities of the Office of Science, including activities authorized under this part (including the amounts authorized under the amendment made by section 976(b) <sup>1</sup> and including basic energy sciences, advanced scientific and computing research, biological and environmental research, fusion energy sciences, high energy physics, nuclear physics, research analysis, and infrastructure support)—
 
 &emsp;(1) $4,153,000,000 for fiscal year 2007;
 

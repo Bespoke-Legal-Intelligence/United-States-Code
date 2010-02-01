@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Within 75 days after the date of the preliminary determination under section 1671b(b) of this title, the administering authority shall make a final determination of whether or not a countervailable subsidy is being provided with respect to the subject merchandise; except that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the same class or kind of merchandise from the same or other countries, the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
+&emsp;Within 75 days after the date of the preliminary determination under section 1671b(b) of this title, the administering authority shall make a final determination of whether or not a countervailable subsidy is being providedwith respect to the subject merchandise; except that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the same class or kind of merchandise from the same or other countries, the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
 
 #### (2) Critical circumstances determinations
 

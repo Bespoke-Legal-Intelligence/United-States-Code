@@ -16,17 +16,21 @@ Prohibition on New Construction or Additions.—Construction of new facilities o
 
 Congressional Notification.—When a decision is made to carry out a repair project under this section with an estimated cost in excess of $7,500,000, the Secretary concerned shall submit to the appropriate committees of Congress a report containing—
 
-&emsp;(1) the justification for the repair project and the current estimate of the cost of the project, including, in the case of a multi-year repair project to a single facility, the total cost of all phases of the project; and
+&emsp;(1) the justification for the repair project and the current estimate of the cost of the project, including, in the case of a multi-year repair project to a single facility, the total cost of all phases of the project;
 
-&emsp;(2) the justification for carrying out the project under this section.
+&emsp;(2) if the current estimate of the cost of the repair project exceeds 75 percent of the estimated cost of a military construction project to replace the facility, an explanation of the reasons why replacement of the facility is not in the best interest of the Government; and
+
+&emsp;(3) a description of the elements of military construction, including the elements specifiedin section 2802(b) of this title, incorporated into the repair project.
 
 (e)
 
 Repair Project Defined.—In this section, the term “repair project” means a project to restore a real property facility, system, or component to such a condition that it may effectively be used for its designated functional purpose.
 
-(Added Pub. L. 99–661, div. A, title III, §315(a), Nov. 14, 1986, 100 Stat. 3854, §2810; renumbered §2811, Pub. L. 100–26, §7(e)(3), Apr. 21, 1987, 101 Stat. 281; amended Pub. L. 103–337, div. B, title XXVIII, §2801(a), Oct. 5, 1994, 108 Stat. 3050; Pub. L. 105–85, div. B, title XXVIII, §2802, Nov. 18, 1997, 111 Stat. 1990; Pub. L. 108–375, div. B, title XXVIII, §2801, Oct. 28, 2004, 118 Stat. 2119.)
+(Added Pub. L. 99–661, div. A, title III, §315(a), Nov. 14, 1986, 100 Stat. 3854, §2810; renumbered §2811, Pub. L. 100–26, §7(e)(3), Apr. 21, 1987, 101 Stat. 281; amended Pub. L. 103–337, div. B, title XXVIII, §2801(a), Oct. 5, 1994, 108 Stat. 3050; Pub. L. 105–85, div. B, title XXVIII, §2802, Nov. 18, 1997, 111 Stat. 1990; Pub. L. 108–375, div. B, title XXVIII, §2801, Oct. 28, 2004, 118 Stat. 2119; Pub. L. 111–84, div. B, title XXVIII, §2802, Oct. 28, 2009, 123 Stat. 2661.)
 
 #### Amendments
+
+2009—Subsec. (d)(2), (3). Pub. L. 111–84 added pars. (2) and (3) and struck out former par. (2) which read as follows: “the justification for carrying out the project under this section.”
 
 2004—Subsec. (b). Pub. L. 108–375, §2801(a), substituted “$7,500,000” for “$5,000,000”.
 

@@ -12,7 +12,7 @@ A State shall be eligible for a grant under this subchapter for a fiscal year if
 
 &emsp;(2) the chief executive officer of the State provides assurances that the lead entity will provide or will be responsible for providing—
 
-&emsp;&emsp;(A) community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect (through networks where appropriate) composed of local, collaborative, public-private partnerships directed by interdisciplinary structures with balanced representation from private and public sector members, parents, and public and private nonprofit service providers and individuals and organizations experienced inworking in partnership with families with children with disabilities;
+&emsp;&emsp;(A) community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect (through networks where appropriate) composed of local, collaborative, public-private partnerships directed by interdisciplinary structures with balanced representation from private and public sector members, parents, and public and private nonprofit service providers and individuals and organizations experienced in working in partnership with families with children with disabilities;
 
 &emsp;&emsp;(B) direction through an interdisciplinary, collaborative, public-private structure with balanced representation from private and public sector members, parents, and public sector and private nonprofit sector service providers, and parents with disabilities; and
 

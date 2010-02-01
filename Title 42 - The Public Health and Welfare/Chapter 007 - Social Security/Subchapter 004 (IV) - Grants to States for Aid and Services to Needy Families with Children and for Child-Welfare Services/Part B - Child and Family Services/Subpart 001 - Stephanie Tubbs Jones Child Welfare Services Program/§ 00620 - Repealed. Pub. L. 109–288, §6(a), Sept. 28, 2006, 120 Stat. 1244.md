@@ -4,5 +4,5 @@ Section, act Aug. 14, 1935, ch. 531, title IV, §420, as added Pub. L. 90–248,
 
 #### Effective Date of Repeal
 
-Repeal effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter forcalendar quarters beginning on or after such date, see section 12(a) of Pub. L. 109–288, set out as an Effective Date of 2006 Amendment note under section 621 of this title.
+Repeal effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, see section 12(a) of Pub. L. 109–288, set out as an Effective Date of 2006 Amendment note under section 621 of this title.
 

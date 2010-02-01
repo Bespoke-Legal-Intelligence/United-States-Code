@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-To be eligible to receive financial assistance under this part, each State shall establish aStatewide Independent Living Council (referred to in this section as the “Council”). The Council shall not be established as an entity within a State agency.
+To be eligible to receive financial assistance under this part, each State shall establish a Statewide Independent Living Council (referred to in this section as the “Council”). The Council shall not be established as an entity within a State agency.
 
 #### (b) Composition and appointment
 
@@ -108,7 +108,7 @@ The Council shall—
 
 &emsp;(2) monitor, review, and evaluate the implementation of the State plan;
 
-&emsp;(3) coordinate activities with the State Rehabilitation Council established under section 725 of this title, if the State has such a Council, or the commission described in section721(a)(21)(A) of this title, if the State has such a commission, and councils that address the needs of specific disability populations and issues under other Federal law;
+&emsp;(3) coordinate activities with the State Rehabilitation Council established under section 725 of this title, if the State has such a Council, or the commission described in section 721(a)(21)(A) of this title, if the State has such a commission, and councils that address the needs of specific disability populations and issues under other Federal law;
 
 &emsp;(4) ensure that all regularly scheduled meetings of the Statewide Independent Living Council are open to the public and sufficient advance notice is provided; and
 
@@ -122,7 +122,7 @@ The Council is authorized to hold such hearings and forums as the Council may de
 
 #### (1) In general
 
-&emsp;The Council shall prepare, in conjunction with the designated State unit, a plan for the provision of such resources, including such staff and personnel, as may be necessary and sufficient to carry out the functions of the Council under this section, with funds made available under this part, and under section 730 of this title (consistent with section 721(a)(18) of this title), and from other public and private sources. The resource plan shall, to the maximum extent possible, rely on the use of resources in existence during the period of implementation of the plan.
+&emsp;The Council shall prepare, in conjunction with the designated State unit, a plan for theprovision of such resources, including such staff and personnel, as may be necessary and sufficient to carry out the functions of the Council under this section, with funds made available under this part, and under section 730 of this title (consistent with section 721(a)(18) of this title), and from other public and private sources. The resource plan shall, to the maximum extent possible, rely on the use of resources in existence during the period of implementation of the plan.
 
 #### (2) Supervision and evaluation
 

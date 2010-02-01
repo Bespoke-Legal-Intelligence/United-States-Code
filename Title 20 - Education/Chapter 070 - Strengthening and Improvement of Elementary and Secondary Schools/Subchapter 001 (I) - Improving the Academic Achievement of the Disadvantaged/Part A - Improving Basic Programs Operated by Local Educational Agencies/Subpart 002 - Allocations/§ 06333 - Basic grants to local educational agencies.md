@@ -122,7 +122,7 @@ A local educational agency is eligible for a basic grant under this section for 
 
 #### (2) Determination of number of children
 
-&emsp;For the purposes of this section, the Secretary shall determine the number of children aged 5 to 17, inclusive, from families below the poverty level on the basis of the most recentsatisfactory data, described in paragraph (3), available from the Department of Commerce. The District of Columbia and the Commonwealth of Puerto Rico shall be treated as individual local educational agencies. If a local educational agency contains two or more counties in their entirety, then each county will be treated as if such county were a separate local educational agency for purposes of calculating grants under this part. The total of grants for such counties shall be allocated to such a local educational agency, which local educational agency shall distribute to schools in each county within such agency a share of the local educational agency's total grant that is no less than the county's share of the population counts used to calculate the local educational agency's grant.
+&emsp;For the purposes of this section, the Secretary shall determine the number of children aged 5 to 17, inclusive, from families below the poverty level on the basis of the most recent satisfactory data, described in paragraph (3), available from the Department of Commerce. The District of Columbia and the Commonwealth of Puerto Rico shall be treated as individual local educational agencies. If a local educational agency contains two or more counties in their entirety, then each county will be treated as if such county were a separate local educational agency for purposes of calculating grants under this part. The total of grants for such counties shall be allocated to such a local educational agency, which local educational agency shall distribute to schools in each county within such agency a share of the local educational agency's total grant that is no less than the county's share of the population counts used to calculate the local educational agency's grant.
 
 #### (3) Population updates
 
@@ -132,7 +132,7 @@ A local educational agency is eligible for a basic grant under this section for 
 
 #### (B) Inappropriate or unreliable data
 
-&emsp;&emsp;If the Secretary and the Secretary of Commerce determine that some or all of the data referred to in subparagraph (A) are inappropriate or unreliable, the Secretary and the Secretary of Commerce shall publicly disclose their reasons.
+&emsp;&emsp;If the Secretary and the Secretary of Commerce determine that some or all of the datareferred to in subparagraph (A) are inappropriate or unreliable, the Secretary and the Secretary of Commerce shall publicly disclose their reasons.
 
 #### (C) Criteria of poverty
 

@@ -86,7 +86,7 @@ Pub. L. 103–322, title XXXII, §320701, Sept. 13, 1994, 108 Stat. 2121, provid
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–570, title I, §1551, Oct. 27, 1986, 100 Stat. 3207–41, provided that: “This subtitle \[subtitle K\(§§1551, 1552) of title I of Pub. L. 99–570, enacting subchapter XII–A of this chapter and amending sections 3741, 3782, 3783, 3789, 3793, and 3797 of this title\] may be cited as the ‘State and Local Law Enforcement Assistance Act of 1986’.”
+Pub. L. 99–570, title I, §1551, Oct. 27, 1986, 100 Stat. 3207–41, provided that: “This subtitle \[subtitle K (§§1551, 1552) of title I of Pub. L. 99–570, enacting subchapter XII–A of this chapter and amending sections 3741, 3782, 3783, 3789, 3793, and 3797 of this title\] may be cited as the ‘State and Local Law Enforcement Assistance Act of 1986’.”
 
 #### Short Title of 1984 Amendment
 

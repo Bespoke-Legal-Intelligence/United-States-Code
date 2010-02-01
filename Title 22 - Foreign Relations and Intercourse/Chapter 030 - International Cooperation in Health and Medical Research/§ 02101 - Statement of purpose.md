@@ -20,7 +20,7 @@ Pub. L. 86–610 provided that:
 
 “Whereas advances in combating and abating disease and in the positive promotion of human health can be stimulated by supporting and encouraging cooperation among scientists, research workers, and teachers on an international basis, with consequent benefit to the health of our people and of all peoples; and
 
-“Whereas there already exist tested means for international cooperation in matters relating to health, including the World Health Organization, the Pan American Health Organization, and the United Nations Children's Fund (UNICEF), with which the United States is identified and associated, and it is highly desirable that the United States establish domestic machinery for the maximum mobilization of its health research resources, the more efficiently to cooperate with and support the research, research-training and research-planning endeavors of such international organizations: Therefore be it \* \* \*”.
+“Whereas there already exist tested means for international cooperation in matters relating to health, including the World Health Organization, the Pan American Health Organization, and the United Nations Children's Fund (UNICEF), with which the United States is identified and associated, and it is highly desirablethat the United States establish domestic machinery for the maximum mobilization of its health research resources, the more efficiently to cooperate with and support the research, research-training and research-planning endeavors of such international organizations: Therefore be it \* \* \*”.
 
 #### Short Title
 
@@ -60,7 +60,7 @@ Sec. 2. <i>Responsibilities of Federal Departments and Agencies</i>. (a) Tobacco
 
 (b) The Department of Health and Human Services’ (HHS) Role in Tobacco Trade Policy Deliberations. The HHS shall be included in all deliberations of interagency working groups, chaired by the United States Trade Representative (USTR), that address issues relating to trade in tobacco and tobacco products. Through such participation, HHS shall advise the USTR, and other interested Federal agencies, of the potential public health impact of any tobacco-related trade action that is under consideration. Upon conclusion of a trade agreement that includes provisions specifically addressing tobacco or tobacco products, the USTR shall produce and make publicly available a summary describing those provisions.
 
-(c) International Tobacco Control Needs Assessment. The HHS, with the cooperation of the Departments ofState, Commerce, and Agriculture, and in consultation with the appropriate national Ministry of Health, shall conduct a pilot assessment of tobacco use in a country other than the United States. Such assessment will be carried out through a compilation and review of surveys and other needs assessments already available and include:
+(c) International Tobacco Control Needs Assessment. The HHS, with the cooperation of the Departments of State, Commerce, and Agriculture, and in consultation with the appropriate national Ministry of Health, shall conduct a pilot assessment of tobacco use in a country other than the United States. Such assessment will be carried out through a compilation and review of surveys and other needs assessments already available and include:
 
 (1) initial estimates of the burden of disease and other public health consequences of tobacco use;
 

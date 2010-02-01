@@ -42,7 +42,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–176, title VIII, §829(b), Dec. 12, 2003, 117 Stat. 2597, provided that: “The amendment made by subsection (a) \[amending this section\] is effective on and after November 25, 2002.”
+Pub. L. 108–176, title VIII, §829(b), Dec. 12, 2003, 117 Stat. 2597, provided that: “The amendment made bysubsection (a) \[amending this section\] is effective on and after November 25, 2002.”
 
 #### Termination of Board of Engineers for Rivers and Harbors and Reassignment of Duties and Responsibilities
 
@@ -50,5 +50,5 @@ For termination of Board of Engineers for Rivers and Harbors 180 days after Oct.
 
 #### Appropriations
 
-Section 2 of act June 26, 1934, ch. 756, 48 Stat. 1225, which was classified to section 725a of former Title 31,Money and Finance, repealed the permanent appropriation under the title “Operating and care of canals and other works of navigation (8x881)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
+Section 2 of act June 26, 1934, ch. 756, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Operating and care of canals and other works of navigation (8x881)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
 

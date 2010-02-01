@@ -2,7 +2,7 @@
 
 #### (a) Maintenance and operation; admission of children
 
-(1) The Chief Administrative Officer of the House of Representatives shall maintain and operate a child care center (to be known as the “House of Representatives Child Care Center”) to furnish pre-school child care—
+(1) The Chief Administrative Officer of the House of Representatives shall maintain and operate a child care center (to be known as the “House of Representatives Child Care Center”) to furnish pre-school child care and (subject to the approval of regulations by the Committee on House Administration) child care for school agechildren other than during the course of the ordinary school day—
 
 &emsp;(A) for children of individuals whose pay is disbursed by the Chief Administrative Officer of the House of Representatives and children of support personnel of the House of Representatives;
 
@@ -34,7 +34,7 @@ In carrying out subsection (a) of this section, the Chief Administrative Officer
 
 &emsp;(1) to collect fees for child care services;
 
-&emsp;(2) to accept such gifts of money and property as may be approved by the Chairman and the ranking minority party member of theCommittee on House Oversight of the House of Representatives, acting jointly; and
+&emsp;(2) to accept such gifts of money and property as may be approved by the Chairman and the ranking minority party member of the Committee on House Oversight of the House of Representatives, acting jointly; and
 
 &emsp;(3) to employ a director and other employees for the center.
 
@@ -60,7 +60,7 @@ As used in this section—
 
 &emsp;(3) the term “support personnel” means, with respect to the House of Representatives, any employee of a credit union or of the Architect of the Capitol, whose principal duties are to support the functions of the House of Representatives.
 
-(Pub. L. 102–90, title III, §312, Aug. 14, 1991, 105 Stat. 467; Pub. L. 102–392, title III, §319(a), Oct. 6, 1992, 106 Stat. 1725; Pub. L. 104–186, title II, §221(5), (6), Aug. 20, 1996, 110 Stat. 1749; Pub. L. 106–100, §1(a), Nov. 12, 1999, 113 Stat. 1332; Pub. L. 108–7, div. H, title I, §108(a), Feb. 20, 2003, 117 Stat. 355; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 102–90, title III, §312, Aug. 14, 1991, 105 Stat. 467; Pub. L. 102–392, title III, §319(a), Oct. 6, 1992, 106 Stat. 1725; Pub. L. 104–186, title II, §221(5), (6), Aug. 20, 1996, 110 Stat. 1749; Pub. L. 106–100, §1(a), Nov. 12, 1999, 113 Stat. 1332; Pub. L. 108–7, div. H, title I, §108(a), Feb. 20, 2003, 117 Stat. 355; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–8, div. G, title I, §106, Mar. 11, 2009, 123 Stat. 818.)
 
 #### Codification
 
@@ -69,6 +69,8 @@ Section was classified to section 184g of former Title 40, prior to the enactmen
 Section is comprised of section 312 of Pub. L. 102–90. Subsec. (f) of section 312 of Pub. L. 102–90 repealed sections 184b to 184f of former Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+2009—Subsec. (a)(1). Pub. L. 111–8 substituted “pre-school child care and (subject to the approval of regulations by the Committee on House Administration) child care for school age children other than during the course of the ordinary school day” for “pre-school child care” in introductory provisions.
 
 2004—Subsec. (e)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

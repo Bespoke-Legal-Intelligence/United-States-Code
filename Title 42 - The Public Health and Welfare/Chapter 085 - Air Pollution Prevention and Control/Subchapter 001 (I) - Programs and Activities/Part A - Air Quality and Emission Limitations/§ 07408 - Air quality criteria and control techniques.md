@@ -34,7 +34,7 @@ The issuance of air quality criteria and information on air pollution control te
 
 #### (e) Transportation planning and guidelines
 
-The Administrator shall, after consultation with the Secretary of Transportation, and after providing public notice and opportunity for comment, and with State and local officials,within nine months after November 15, 1990,<sup>1</sup> and periodically thereafter as necessary to maintain a continuous transportation-air quality planning process, update the June 1978 Transportation-Air Quality Planning Guidelines and publish guidance on the development and implementation of transportation and other measures necessary to demonstrate and maintain attainment of national ambient air quality standards. Such guidelines shall include information on—
+The Administrator shall, after consultation with the Secretary of Transportation, and after providing public notice and opportunity for comment, and with State and local officials, within nine months after November 15, 1990,<sup>1</sup> and periodically thereafter as necessary to maintain a continuous transportation-air quality planning process, update the June 1978 Transportation-Air Quality Planning Guidelines and publish guidance on the development and implementation of transportation and other measures necessary to demonstrate and maintain attainment of national ambient air quality standards. Such guidelines shall include information on—
 
 &emsp;(1) methods to identify and evaluate alternative planning and control activities;
 
@@ -48,7 +48,7 @@ The Administrator shall, after consultation with the Secretary of Transportation
 
 #### (f) Information regarding processes, procedures, and methods to reduce or control pollutants in transportation; reduction of mobile source related pollutants; reduction of impact on public health
 
-(1) The Administrator shall publish and make available to appropriate Federal, State, and local environmental and transportation agencies not later than one year after November 15, 1990, and from time to time thereafter—
+(1) The Administrator shall publish and make available to appropriate Federal, State, andlocal environmental and transportation agencies not later than one year after November 15, 1990, and from time to time thereafter—
 
 &emsp;(A) information prepared, as appropriate, in consultation with the Secretary of Transportation, and after providing public notice and opportunity for comment, regarding the formulation and emission reduction potential of transportation control measures related to criteria pollutants and their precursors, including, but not limited to—
 
@@ -104,7 +104,7 @@ The Administrator may assess the risks to ecosystems from exposure to criteria a
 
 #### (h) RACT/BACT/LAER clearinghouse
 
-The Administrator shall make information regarding emission control technology availableto the States and to the general public through a central database. Such information shall include all control technology information received pursuant to State plan provisions requiring permits for sources, including operating permits for existing sources.
+The Administrator shall make information regarding emission control technology available to the States and to the general public through a central database. Such information shall include all control technology information received pursuant to State plan provisions requiring permits for sources, including operating permits for existing sources.
 
 (July 14, 1955, ch. 360, title I, §108, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1678; amended Pub. L. 95–95, title I, §§104, 105, title IV, §401(a), Aug. 7, 1977, 91 Stat. 689, 790; Pub. L. 101–549, title I, §§108(a)–(c), (<i>o</i>), 111, Nov. 15, 1990, 104 Stat. 2465, 2466, 2469, 2470; Pub. L. 105–362, title XV, §1501(b), Nov. 10, 1998, 112 Stat. 3294.)
 
@@ -120,7 +120,7 @@ A prior section 108 of act July 14, 1955, was renumbered section 115 by Pub. L. 
 
 #### Amendments
 
-1998—Subsec. (f)(3), (4). Pub. L. 105–362 struck out par. (3), which required reports by the Secretary of Transportation and the Administrator to be submitted to Congress by Jan. 1, 1993, and every 3 years thereafter, reviewing and analyzing existing State and local air quality related transportation programs, evaluating achievement of goals, and recommending changes to existing programs, and par. (4), which required that in each report after the first report the Secretary of Transportation include a description of the actions taken to implement the changes recommended in the preceding report.
+1998—Subsec. (f)(3), (4). Pub. L. 105–362 struck out par. (3), which required reports by the Secretary of Transportation and the Administrator to be submitted to Congress by Jan. 1, 1993, and every 3 years thereafter, reviewing and analyzing existing State and local air quality related transportation programs, evaluatingachievement of goals, and recommending changes to existing programs, and par. (4), which required that in each report after the first report the Secretary of Transportation include a description of the actions taken to implement the changes recommended in the preceding report.
 
 1990—Subsec. (e). Pub. L. 101–549, §108(a), inserted first sentence and struck out former first sentence which read as follows: “The Administrator shall, after consultation with the Secretary of Transportation and the Secretary of Housing and Urban Development and State and local officials and within 180 days after August 7, 1977, and from time to time thereafter, publish guidelines on the basic program elements for the planning process assisted under section 7505 of this title.”
 

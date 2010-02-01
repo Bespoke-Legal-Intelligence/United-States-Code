@@ -22,7 +22,7 @@ In this chapter:
 
 &emsp;(10) The term “Secretary” means the Secretary of the Air Force.
 
-&emsp;(11) The term “defense feature” means equipment or design features included or incorporated in a civil aircraft which ensures the compatibility of such aircraft with the Department of Defense airlift system. Such termincludes any equipment or design feature which enables such aircraft to be readily modified for use as an aeromedical aircraft or a cargo-convertible, cargo-capable, or passenger-cargo combined aircraft.
+&emsp;(11) The term “defense feature” means equipment or design features included or incorporated in a civil aircraft which ensures the compatibility of such aircraft with the Department of Defense airlift system. Such term includes any equipment or design feature which enables such aircraft to be readily modified for use as an aeromedical aircraft or a cargo-convertible, cargo-capable, or passenger-cargo combined aircraft.
 
 (Added Pub. L. 97–86, title IX, §915(2), Dec. 1, 1981, 95 Stat. 1125; amended Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(k)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title XVI, §1636(a), Nov. 29, 1989, 103 Stat. 1609; Pub. L. 103–272, §5(b)(2), July 5, 1994, 108 Stat. 1373; Pub. L. 103–355, title III, §3031, Oct. 13, 1994, 108 Stat. 3334.)
 

@@ -1,6 +1,6 @@
 ### §2305. Injunctions
 
-(a) The district courts of the United States have jurisdiction to enjoin the negligent operation of vessels prohibited by this chapter on the petition of the Attorney General for the United States Government.
+(a) The district courts of the United States have jurisdiction to enjoin the negligent operation of vessels prohibited by this chapter onthe petition of the Attorney General for the United States Government.
 
 (b) When practicable, the Secretary shall—
 

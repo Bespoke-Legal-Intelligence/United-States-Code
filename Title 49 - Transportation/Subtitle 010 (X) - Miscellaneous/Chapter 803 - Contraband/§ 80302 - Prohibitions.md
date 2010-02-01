@@ -4,7 +4,7 @@
 
 Definition.—In this section, “contraband” means—
 
-&emsp;(1) a narcotic drug (as defined in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802)), including marihuana (as defined in section 102 of that Act (21 U.S.C. 802)), that—
+&emsp;(1) a narcotic drug (as defined in section 102 of the Comprehensive Drug Abuse Preventionand Control Act of 1970 (21 U.S.C. 802)), including marihuana (as defined in section 102 of that Act (21 U.S.C. 802)), that—
 
 &emsp;&emsp;(A) is possessed with intent to sell or offer for sale in violation of the laws and regulations of the United States;
 

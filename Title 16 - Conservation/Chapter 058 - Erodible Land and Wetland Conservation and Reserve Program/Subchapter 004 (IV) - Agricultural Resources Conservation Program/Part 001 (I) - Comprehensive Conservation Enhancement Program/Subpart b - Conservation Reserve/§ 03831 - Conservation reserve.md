@@ -78,7 +78,7 @@ The Secretary may maintain up to 39,200,000 acres in the conservation reserve at
 
 #### (B) Hardwood trees
 
-&emsp;&emsp;In the case of land that is devoted to hardwood trees under a contract entered intounder this subpart prior to October 1, 1990, the Secretary may extend the contract for a term of not to exceed 5 years, as agreed to by the owner or operator of such land and the Secretary.
+&emsp;&emsp;In the case of land that is devoted to hardwood trees under a contract entered into under this subpart prior to October 1, 1990, the Secretary may extend the contract for a term of not to exceed 5 years, as agreed to by the owner or operator of such land and the Secretary.
 
 #### (3) 1-year extension
 
@@ -150,7 +150,7 @@ Subsec. (d). Pub. L. 110–246, §2103, substituted “2009 fiscal years” for 
 
 Subsec. (f)(1). Pub. L. 110–246, §2104, substituted “the Chesapeake Bay Region” for “the Chesapeake Bay Region (Pennsylvania, Maryland, and Virginia)”.
 
-Subsec. (g). Pub. L. 110–246, §2105, amended subsec. (g) generally. Prior to amendment, text read as follows:“For purposes of this subpart, alfalfa and other multi-year grasses and legumes in a rotation practice, approved by the Secretary, shall be considered agricultural commodities.”
+Subsec. (g). Pub. L. 110–246, §2105, amended subsec. (g) generally. Prior to amendment, text read as follows: “For purposes of this subpart, alfalfa and other multi-year grasses and legumes in a rotation practice, approved by the Secretary, shall be considered agricultural commodities.”
 
 Subsecs. (h) to (j). Pub. L. 110–246, §2106(a)(2), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) which related to pilot program for enrollment of wetland and buffer acreage in conservation reserve during 2002 through 2007 calendar years.
 

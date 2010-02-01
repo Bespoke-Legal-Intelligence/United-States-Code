@@ -14,7 +14,7 @@ When full legal title to the cotton referred to in this subsection has been acqu
 
 (c) The Secretary of Agriculture is authorized to purchase the cotton specified in subsections (a) and (b) of this section.
 
-(May 12, 1933, ch. 25, title I, §3, 48 Stat. 32; 1933 Ex. Ord. No. 6084, Mar. 22, 1933.)
+(May 12, 1933, ch. 25, title I, §3, 48 Stat. 32; 1933 Ex. Ord. No. 6084, Mar. 27, 1933.)
 
 #### Change of Name
 

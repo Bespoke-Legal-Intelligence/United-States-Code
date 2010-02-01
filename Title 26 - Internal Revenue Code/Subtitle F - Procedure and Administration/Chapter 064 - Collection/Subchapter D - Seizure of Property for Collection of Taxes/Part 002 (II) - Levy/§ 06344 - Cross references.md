@@ -46,11 +46,11 @@ Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see sec
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1307(d)(2)(F)(v) of Pub. L. 94–455 effective on and after Oct. 4, 1976, see section 1307(e) of Pub. L. 94–455, set out as a note under section 501 of this title.
+Amendment by section 1307(d)(2)(F)(v) of Pub. L. 94–455 effective on and after Oct. 4, 1976, see section1307(e) of Pub. L. 94–455, set out as a note under section 501 of this title.
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub.L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
+Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
 
 #### Effective Date of 1969 Amendment
 

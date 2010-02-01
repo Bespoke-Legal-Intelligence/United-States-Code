@@ -38,7 +38,7 @@ Basic Allowance for Housing Inside the United States.—(1) The Secretary of Def
 
 &emsp;(ii) contains one or more military installations that are experiencing a sudden increase in the number of members of the armed forces assigned to the installation.
 
-(B) The Secretary of Defense shall base the amount of the increase to be made in the rates of basic allowance for housing for an area on a determination by the Secretary of the amountby which the costs of adequate housing for civilians have increased in the area by reason of the disaster or the influx of military personnel, except that the increase may not exceed the amount equal to 20 percent of the rate of basic allowance for housing otherwise prescribed for the area.
+(B) The Secretary of Defense shall base the amount of the increase to be made in the rates of basic allowance for housing for an area on a determination by the Secretary of the amount by which the costs of adequate housing for civilians have increased in the area by reason of the disaster or the influx of military personnel, except that the increase may not exceed the amount equal to 20 percent of the rate of basic allowance for housing otherwise prescribed for the area.
 
 (C) A member may be paid a basic allowance for housing at a rate increased under this paragraph only if the member certifies to the Secretary concerned that the member has incurred increased housing costs in the area by reason of the disaster or the influx of military personnel.
 
@@ -78,7 +78,7 @@ Basic Allowance for Housing When Dependents Do Not Accompany Member.—(1) A mem
 
 &emsp;(B) If the member's assignment to duty in that area is under the conditions of a low-cost or no-cost permanent change of station or permanent change of assignment, the amount of the basic allowance for housing for the member shall be based on the member's last duty station if the Secretary concerned determines that it would be inequitable to base the allowance on the cost of housing in the area to which the member is reassigned.
 
-&emsp;(C) If the member is reassigned for a permanent change of station or permanent change of assignment from a duty station in the United States to another duty station in the United States for a period of not more than one year for the purpose of participating in professional military education or training classes, the amount of the basic allowance for housing for the member may be based on whichever of the following areas the Secretary concerned determines will provide the more equitable basis for the allowance:
+&emsp;(C) If the member is reassigned for a permanent change of station or permanent change ofassignment from a duty station in the United States to another duty station in the United States for a period of not more than one year for the purpose of participating in professional military education or training classes, the amount of the basic allowance for housing for the member may be based on whichever of the following areas the Secretary concerned determines will provide the more equitable basis for the allowance:
 
 &emsp;&emsp;(i) The area of the duty station to which the member is reassigned.
 
@@ -120,7 +120,7 @@ Reserve Members.—(1) A member of a reserve component without dependents who is
 
 &emsp;(B) which is owned by the member or for which the member is responsible for rental payments.
 
-(2) The Secretary concerned may provide a basic allowance for housing to a member described in paragraph (1) at a monthly rate equal to the rate of the basic allowance for housing established under subsection (b) or the overseas basic allowance for housing established under subsection (c), whichever applies to the location at which the member is serving, for members in the same grade at that location without dependents. The member may receive both a basic allowance for housing under paragraph (1) and under this paragraph for the same month, but may not receive the portion of the allowance authorized under section 404 of this title, if any, for lodging expenses if a basic allowance for housing is provided under this paragraph.
+(2) The Secretary concerned may provide a basic allowance for housing to a member described in paragraph (1) at a monthly rate equal to the rate of the basic allowance for housing established under subsection (b) or the overseas basic allowance for housing established under subsection (c), whichever applies to the location at which the member is serving, for members inthe same grade at that location without dependents. The member may receive both a basic allowance for housing under paragraph (1) and under this paragraph for the same month, but may not receive the portion of the allowance authorized under section 404 of this title, if any, for lodging expenses if a basic allowance for housing is provided under this paragraph.
 
 (3) Paragraphs (1) and (2) shall not apply if the member is authorized transportation of household goods under section 406 of this title as part of the call or order to active duty described in such paragraph.
 
@@ -551,7 +551,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VI, §605(f)\], Oct. 30, 2000, 114 St
 
 “(1) The amendments made by this section \[amending this section and provisions set out as a note below\] shall take effect on October 1, 2000.
 
-“(2) In the case of the amendment made by subsection (c)(2) \[amending this section\], the amendment shall apply with respect to pay periods beginning on and after October 1, 2000, for a member of the uniformed services covered by the provision of law so amended regardless of the date on which the member was first reassigned to duty under the conditions of a low-cost or no-cost permanent change of station or permanent change of assignment.
+“(2) In the case of the amendment made by subsection (c)(2) \[amending this section\], the amendmentshall apply with respect to pay periods beginning on and after October 1, 2000, for a member of the uniformed services covered by the provision of law so amended regardless of the date on which the member was first reassigned to duty under the conditions of a low-cost or no-cost permanent change of station or permanent change of assignment.
 
 “(3) In the case of the amendment made by subsection (d) \[amending this section\], the amendment shall apply with respect to pay periods beginning on and after October 1, 2000, for a member of the uniformed services covered by the provision of law so amended regardless of the date on which the member was first assigned to duty in an area that is different from the area in which the member's dependents reside.”
 
@@ -623,7 +623,7 @@ Section 604(b) of Pub. L. 98–525 provided that: “The amendment made by subse
 
 #### Effective Date of 1983 Amendment
 
-Section 907(b) of Pub. L. 98–94 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to members called or ordered to active duty after September 30, 1983.”
+Section 907(b) of Pub. L. 98–94 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply only with respect to members called or ordered to active duty after September 30, 1983.”
 
 #### Effective Date of 1981 Amendment
 
@@ -697,7 +697,7 @@ Pub. L. 99–190, §101(b) \[title VIII, §8088\], Dec. 19, 1985, 99 Stat. 1185,
 
 #### Basic Allowance for Quarters and Variable Housing Allowance
 
-Section 602(a) of Pub. L. 98–525, as amended by Pub. L. 99–661, div. A, title XIII, §1341(a), Nov. 14, 1986, 100 Stat. 3990, revised, effective Jan. 1, 1985, the rates of the basic allowance for quarters authorized by subsec.\(a)(1) of this section and provided that, during the period beginning on Jan. 1, 1985, and ending on the effective date of a change made by law in the rates of basic allowance for quarters that increased the rates for such allowance to a level not less than 7 percent greater than the rates in effect on Jan. 1, 1985, the rate of the basic allowance for quarters authorized by subsec. (a)(1) of this section which was payable to a member of the uniformed services who was entitled to that allowance during such period and who was entitled to that allowance on Dec. 31, 1984, was not to be less than the rate of the basic allowance for quarters that was in effect for that member on Dec. 31, 1984, with certain exceptions.
+Section 602(a) of Pub. L. 98–525, as amended by Pub. L. 99–661, div. A, title XIII, §1341(a), Nov. 14, 1986, 100 Stat. 3990, revised, effective Jan. 1, 1985, the rates of the basic allowance for quarters authorized by subsec. (a)(1) of this section and provided that, during the period beginning on Jan. 1, 1985, and ending on the effective date of a change made by law in the rates of basic allowance for quarters that increased the rates for such allowance to a level not less than 7 percent greater than the rates in effect on Jan. 1, 1985, the rate of the basic allowance for quarters authorized by subsec. (a)(1) of this section which was payable to a member of the uniformed services who was entitled to that allowance during such period and who was entitled to that allowance on Dec. 31, 1984, was not to be less than the rate of the basic allowance for quarters that was in effect for that member on Dec. 31, 1984, with certain exceptions.
 
 #### Freeze of Variable Housing Allowance at Fiscal Year 1983 Rates
 

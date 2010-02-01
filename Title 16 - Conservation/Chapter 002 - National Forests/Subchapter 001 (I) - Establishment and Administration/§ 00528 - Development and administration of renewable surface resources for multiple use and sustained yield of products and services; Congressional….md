@@ -10,7 +10,7 @@ Section 5 of Pub. L. 86–517, as added Pub. L. 94–588, §19, Oct. 22, 1976, 9
 
 #### Pilot Program of Charges and Fees for Harvest of Forest Botanical Products
 
-Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §339\], Nov. 29, 1999, 113 Stat. 1535, 1501A–199, as amended by Pub. L. 108–108, title III, §335, Nov. 10, 2003, 117 Stat. 1312, provided that:
+Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §339\], Nov. 29, 1999, 113 Stat. 1535, 1501A–199, as amended by Pub. L. 108–108, title III, §335, Nov. 10, 2003, 117 Stat. 1312; Pub. L. 111–88, div. A, title IV, §420, Oct. 30, 2009, 123 Stat. 2960, provided that:
 
 “(a)
 
@@ -62,7 +62,7 @@ Funds available.—Funds deposited into the special account in accordance with p
 
 &emsp;“(3)
 
-Authorized uses.—The funds made available under paragraph (2) shall be expended at units of the National Forest System in proportion to the fees collected at that unit under subsection (c) to pay for the costs of conducting inventories of forest botanical products, determining sustainable levels of harvest,monitoring and assessing the impacts of harvest levels and methods, conducting restoration activities, including any necessary vegetation, and covering costs of the Department of Agriculture described in subsection (c)(1).
+Authorized uses.—The funds made available under paragraph (2) shall be expended at units of the National Forest System in proportion to the fees collected at that unit under subsection (c) to pay for the costs of conducting inventories of forest botanical products, determining sustainable levels of harvest, monitoring and assessing the impacts of harvest levels and methods, conducting restoration activities, including any necessary vegetation, and covering costs of the Department of Agriculture described in subsection (c)(1).
 
 &emsp;“(4)
 
@@ -100,7 +100,7 @@ Duration of Pilot Program.—
 
 &emsp;“(1)
 
-Collection of fees.—The Secretary of Agriculture may collect fees under the authority of subsection (c) until September 30, 2009.
+Collection of fees.—The Secretary of Agriculture may collect fees under the authority of subsection (c) until September 30, 2014.
 
 &emsp;“(2)
 

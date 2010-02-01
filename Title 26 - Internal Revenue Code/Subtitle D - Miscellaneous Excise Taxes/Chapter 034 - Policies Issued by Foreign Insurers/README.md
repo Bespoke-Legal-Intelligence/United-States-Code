@@ -33,7 +33,7 @@ Subchapter E, section 4381 was repealed by Pub. L. 89–44, title IV, §401(c), 
 
 The subject matter of the prior sections was as follows:
 
-A prior section 4301, acts Aug. 16, 1954, ch. 736, 68A Stat. 513; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72Stat. 1293; Apr. 8, 1960, Pub. L. 86–416, §1, 74 Stat. 36, imposed a tax, based upon the actual value of the certificates or shares, upon each original issue of shares or certificates of stock issued by a corporation.
+A prior section 4301, acts Aug. 16, 1954, ch. 736, 68A Stat. 513; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1293; Apr. 8, 1960, Pub. L. 86–416, §1, 74 Stat. 36, imposed a tax, based upon the actual value of the certificates or shares, upon each original issue of shares or certificates of stock issued by a corporation.
 
 A prior section 4302, acts Aug. 16, 1954, ch. 736, 68A Stat. 513; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1293, made provision for a determination of tax in the case of recapitalization.
 
@@ -77,7 +77,7 @@ A prior section 4344, Pub. L. 85–859, title I, §141(a), Sept. 2, 1958, 72 Sta
 
 A prior section 4345, acts Aug. 16, 1954, ch. 736, 68A Stat. 518, §4345, formerly §4344; renumbered §4345 and amended Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1298, required an exemption certificate setting forth the facts as prescribed by regulations.
 
-A prior section 4346, acts Aug. 16, 1954, ch. 736, 68A Stat. 518, §4346, formerly §4345; renumbered §4346, Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1298, made cross reference to other sections for additional exemptions.
+A prior section 4346, acts Aug. 16, 1954, ch. 736, 68A Stat. 518, §4346, formerly §4345; renumbered §4346, Sept.2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1298, made cross reference to other sections for additional exemptions.
 
 A prior section 4351, acts Aug. 16, 1954, ch. 736, 68A Stat. 518; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1299, defined registered nominee and sale or transfer.
 

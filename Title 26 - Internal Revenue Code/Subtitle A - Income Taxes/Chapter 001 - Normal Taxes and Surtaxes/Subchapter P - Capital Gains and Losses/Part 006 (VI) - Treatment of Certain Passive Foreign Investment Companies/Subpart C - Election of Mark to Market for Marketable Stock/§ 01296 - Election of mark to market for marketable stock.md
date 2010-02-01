@@ -118,9 +118,7 @@ Except as provided in regulations—
 
 For purposes of section 851(b)(2), any amount included in gross income under subsection (a) shall be treated as a dividend.
 
-#### (i) Stock acquired from a decedent
-
-In the case of stock of a passive foreign investment company which is acquired by bequest, devise, or inheritance (or by the decedent's estate) and with respect to which an election under this section was in effect as of the date of the decedent's death, notwithstanding section 1014, the basis of such stock in the hands of the person so acquiring it shall be the adjusted basis of such stock in the hands of the decedent immediately before his death (or, if lesser, the basis which would have been determined under section 1014 without regard to this subsection).
+#### \[(i) Repealed. Pub. L. 107–16, §542(e)(5)(C), June 7, 2001, 115 Stat. 85\]
 
 #### (j) Coordination with section 1291 for first year of election
 
@@ -146,7 +144,7 @@ In the case of stock of a passive foreign investment company which is acquired b
 
 &emsp;&emsp;&emsp;(i) section 1291 shall not apply to such stock with respect to any distribution or disposition during, or amount included in gross income under this section for, such first taxable year, but
 
-&emsp;&emsp;&emsp;(ii) such regulated investment company's tax under this chapter for such firsttaxable year shall be increased by the aggregate amount of interest which would have been determined under section 1291(c)(3) if section 1291 were applied without regard to this subparagraph.
+&emsp;&emsp;&emsp;(ii) such regulated investment company's tax under this chapter for such first taxable year shall be increased by the aggregate amount of interest which would have been determined under section 1291(c)(3) if section 1291 were applied without regard to this subparagraph.
 
 > &emsp;&emsp;Clause (ii) shall not apply if for the preceding taxable year the company elected to mark to market the stock held by such company as of the last day of such preceding taxable year.
 
@@ -170,7 +168,7 @@ If any individual becomes a United States person in a taxable year beginning aft
 
 #### Amendment of Section
 
-<i>Pub. L. 107–16, title V, §542(e)(5)(C), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 85, 86, 150, provided that, applicable to estates of decedents dying after Dec. 31, 2009, this section is temporarily amended by striking out subsection (i). See Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -183,6 +181,8 @@ A prior section 1296 was renumbered section 1297 of this title.
 #### Amendments
 
 2004—Subsec. (h). Pub. L. 108–311 substituted “section 851(b)(2)” for “paragraphs (2) and (3) of section 851(b)”.
+
+2001—Subsec. (i). Pub. L. 107–16, §§542(e)(5)(C), 901, temporarily struck out subsec. (i). Text read as follows: “In the case of stock of a passive foreign investment company which is acquired by bequest, devise, or inheritance (or by the decedent's estate) and with respect to which an election under this section was in effect as of the date of the decedent's death, notwithstanding section 1014, the basis of such stock in the hands of the person so acquiring it shall be the adjusted basis of such stock in the hands of the decedent immediately before his death (or, if lesser, the basis which would have been determined under section 1014 without regard to this subsection).” See Effective and Termination Dates of 2001 Amendment note below.
 
 1998—Subsec. (d). Pub. L. 105–206 inserted at end “In the case of a regulated investment company which elected to mark to market the stock held by such company as of the last day of the taxable year preceding such company's first taxable year for which such company elects the application of this section, the amount referred to in paragraph (1) shall include amounts included in gross income under such mark to market with respect to such stock for prior taxable years.”
 

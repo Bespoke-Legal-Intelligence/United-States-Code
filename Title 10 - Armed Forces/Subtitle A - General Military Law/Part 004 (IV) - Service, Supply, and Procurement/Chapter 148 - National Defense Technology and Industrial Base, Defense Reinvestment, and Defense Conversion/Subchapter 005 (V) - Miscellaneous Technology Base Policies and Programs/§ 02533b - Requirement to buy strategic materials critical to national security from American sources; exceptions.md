@@ -6,7 +6,7 @@ Requirement.—Except as provided in subsections (b) through (m), the acquisitio
 
 &emsp;(1) The following types of end items, or components thereof, containing a specialty metal not melted or produced in the United States: aircraft, missile and space systems, ships, tank and automotive items, weapon systems, or ammunition.
 
-&emsp;(2) A specialty metal that is not melted or produced in the United States and that is to bepurchased directly by the Department of Defense or a prime contractor of the Department.
+&emsp;(2) A specialty metal that is not melted or produced in the United States and that is to be purchased directly by the Department of Defense or a prime contractor of the Department.
 
 (b)
 
@@ -152,11 +152,11 @@ Additional Definitions.—In this section:
 
 &emsp;(10) The term “subcontract” includes a subcontract at any tier.
 
-(Added Pub. L. 109–364, div. A, title VIII, §842(a)(1), Oct. 17, 2006, 120 Stat. 2335; Pub. L. 110–181, div. A, title VIII, §804(a)–(f), Jan. 28, 2008, 122 Stat. 208–211.)
+(Added Pub. L. 109–364, div. A, title VIII, §842(a)(1), Oct. 17, 2006, 120 Stat. 2335; amended Pub. L. 110–181, div. A, title VIII, §804(a)–(f), Jan. 28, 2008, 122 Stat. 208–211.)
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181, §804(a)(1), substituted “Except as provided in subsections (b) through\(m), the acquisition by the Department of Defense of the following items is prohibited:” for “Except as provided in subsections (b) through (j), funds appropriated or otherwise available to the Department of Defense may not be used for procurement of—” in introductory provisions.
+2008—Subsec. (a). Pub. L. 110–181, §804(a)(1), substituted “Except as provided in subsections (b) through (m), the acquisition by the Department of Defense of the following items is prohibited:” for “Except as provided in subsections (b) through (j), funds appropriated or otherwise available to the Department of Defense may not be used for procurement of—” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 110–181, §804(a)(2), substituted “The following” for “the following” and substituted period for “; or” at end.
 
@@ -206,7 +206,7 @@ Notice Requirement.—At least 30 days prior to making a domestic nonavailabilit
 
 “(b)
 
-Determination.—(1) The Secretary shall take into consideration all information submitted pursuant to subsection (a) in making a domestic nonavailability determination pursuant to section 2533b(b) of title 10, United States Code, that would apply to more than one contract of the Department of Defense, and may also consider other relevant information that cannot be made part of the public record consistent with the protection of national security information and confidential business information.
+Determination.—(1) The Secretary shall take into consideration all information submitted pursuant to subsection (a) in making a domestic nonavailability determination pursuant to section 2533b(b) of title 10, United States Code, that would apply to more than onecontract of the Department of Defense, and may also consider other relevant information that cannot be made part of the public record consistent with the protection of national security information and confidential business information.
 
 “(2) The Secretary shall ensure that any such determination and the rationale for such determination is made publicly available to the maximum extent consistent with the protection of national security information and confidential business information.”
 

@@ -50,7 +50,7 @@ Subsec. (b). Pub. L. 93–53 struck out reference to sections 32(2) and 35, and 
 
 Subsec. (c). Pub. L. 93–53 provided that if designation is made at the time of filing the return of the tax imposed by chapter 1 for the taxable year, the designation shall be made either on the first page of the return or on the page bearing the taxpayer's signature.
 
-1971—Subsec. (a). Pub. L. 92–178 substituted “$1 shall be paid over to the Presidential Election CampaignFund for the account of the candidates of any specified political party for President and Vice President of the United States, or if no specific account is designated by such individual, for a general account for all candidates for election to the offices of President and Vice President of the United States, in accordance with the provisions of section 9006(a)(1)” for “$1 shall be paid into the Presidential Election Campaign Fund established by section 303 of the Presidential Election Campaign Fund Act of 1966” and provided, in the case of a joint return of husband and wife having an income tax liability of $2 or more, that each spouse may designate that $1 shall be paid to any such account in the fund.
+1971—Subsec. (a). Pub. L. 92–178 substituted “$1 shall be paid over to the Presidential Election Campaign Fund for the account of the candidates of any specified political party for President and Vice President of the United States, or if no specific account is designated by such individual, for a general account for all candidates for election to the offices of President and Vice President of the United States, in accordance with the provisions of section 9006(a)(1)” for “$1 shall be paid into the Presidential Election Campaign Fund established by section 303 of the Presidential Election Campaign Fund Act of 1966” and provided, in the case of a joint return of husband and wife having an income tax liability of $2 or more, that each spouse may designate that $1 shall be paid to any such account in the fund.
 
 #### Effective Date of 1993 Amendment
 
@@ -92,7 +92,7 @@ Amendment by section 504(c)(2) of Pub. L. 94–455 applicable to taxable years b
 
 #### Effective and Termination Dates of 1975 Amendment
 
-Amendment by Pub. L. 94–12 applicable to taxable years ending after Dec. 31, 1974, and to cease to apply to taxable years ending after Dec. 31, 1975, see section 209(a) of Pub. L. 94–12, set out as a note under section 3 of this title.
+Amendment by Pub. L. 94–12 applicable to taxable years ending after Dec. 31, 1974, and to cease to applyto taxable years ending after Dec. 31, 1975, see section 209(a) of Pub. L. 94–12, set out as a note under section 3 of this title.
 
 #### Effective Date of 1973 Amendment; Designation to the Presidential Election Campaign Fund
 

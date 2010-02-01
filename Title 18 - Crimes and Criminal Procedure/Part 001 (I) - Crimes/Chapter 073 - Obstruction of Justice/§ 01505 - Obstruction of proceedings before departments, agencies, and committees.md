@@ -22,7 +22,7 @@ The Antitrust Civil Process Act, referred to in text, is Pub. L. 87–664, Sept.
 
 #### Amendments
 
-2004—Pub. L. 108–458, which directed amendment of the third undesignated paragraph of this section by substituting “be fined under this title, imprisoned not more than 5 years or, if the offense involves international or domestic terrorism (as defined in section 2331), imprisoned not more than 8 years, or both” for “be fined under this title or imprisoned not more than 5 years, or both”, was executed by making the substitution for “be fined under this title or imprisoned not more than five years, or both”, to reflect the probable intent of Congress.
+2004—Pub. L. 108–458, which directed amendment of the third undesignated paragraph of this section bysubstituting “be fined under this title, imprisoned not more than 5 years or, if the offense involves international or domestic terrorism (as defined in section 2331), imprisoned not more than 8 years, or both” for “be fined under this title or imprisoned not more than 5 years, or both”, was executed by making the substitution for “be fined under this title or imprisoned not more than five years, or both”, to reflect the probable intent of Congress.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
 

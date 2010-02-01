@@ -12,7 +12,7 @@ The Office shall be headed by a Director, who shall be detailed by the Administr
 
 The Office shall assist the Management Conference of the Long Island Sound Study in carrying out its goals. Specifically, the Office shall—
 
-&emsp;(1) assist and support the implementation of the Comprehensive Conservation and Management Plan for Long Island Sound developed pursuant to section 1330 of this title, includingefforts to establish, within the process for granting watershed general permits, a system for promoting innovative methodologies and technologies that are cost-effective and consistent with the goals of the Plan;
+&emsp;(1) assist and support the implementation of the Comprehensive Conservation and Management Plan for Long Island Sound developed pursuant to section 1330 of this title, including efforts to establish, within the process for granting watershed general permits, a system for promoting innovative methodologies and technologies that are cost-effective and consistent with the goals of the Plan;
 
 &emsp;(2) conduct or commission studies deemed necessary for strengthened implementation of the Comprehensive Conservation and Management Plan including, but not limited to—
 
@@ -64,7 +64,7 @@ The Office shall assist the Management Conference of the Long Island Sound Study
 
 #### (1) Eligible communities
 
-&emsp;For the purposes of this subsection, a distressed community is any community that meets affordability criteria established by the State in which the community is located, if such criteria are developed after public review and comment.
+&emsp;For the purposes of this subsection, a distressed community is any community that meets affordability criteria established by the State in which the community is located, ifsuch criteria are developed after public review and comment.
 
 #### (2) Priority
 
@@ -526,7 +526,7 @@ In general.—The Advisory Committee shall recommend that the Administrator awar
 
 &emsp;&emsp;&emsp;“(ii) purchase of relevant property rights to a stewardship site; or
 
-&emsp;&emsp;&emsp;“(iii) entering into any other binding legal arrangement that ensures that the values of a stewardship site are sustained, including entering into an arrangement with a land manager or property owner to develop or implement a management plan that is necessary for the conservation of natural resources.
+&emsp;&emsp;&emsp;“(iii) entering into any other binding legal arrangement that ensures that the values of a stewardship site are sustained, including entering into an arrangement with a land manager or property owner to develop or implement a managementplan that is necessary for the conservation of natural resources.
 
 &emsp;&emsp;“(B)
 

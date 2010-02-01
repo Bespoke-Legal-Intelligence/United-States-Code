@@ -4,7 +4,7 @@ As used in this subchapter, the term “Department of Energy defense nuclear fac
 
 &emsp;(1) A production facility or utilization facility (as defined in section 2014 of this title) that is under the control or jurisdiction of the Secretary of Energy and that is operated for national security purposes, but the term does not include—
 
-&emsp;&emsp;(A) any facility or activity covered by Executive Order No. 12344, dated February 1,1982, pertaining to the Naval nuclear propulsion program;
+&emsp;&emsp;(A) any facility or activity covered by Executive Order No. 12344, dated February 1, 1982, pertaining to the Naval nuclear propulsion program;
 
 &emsp;&emsp;(B) any facility or activity involved with the transportation of nuclear explosives or nuclear material;
 

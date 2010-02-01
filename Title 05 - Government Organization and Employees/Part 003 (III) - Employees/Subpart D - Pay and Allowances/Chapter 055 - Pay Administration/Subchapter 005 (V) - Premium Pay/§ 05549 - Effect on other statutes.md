@@ -14,7 +14,7 @@ This subchapter does not prevent payment for overtime services or for Sunday or 
 
 > However, an employee may not receive premium pay under this subchapter for the same services for which he is paid under one of these statutes.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 488; Pub. L. 98–89, §3(a), Aug. 26, 1983, 97 Stat. 599; Pub. L.107–171, title X, §10703(c)(4), May 13, 2002, 116 Stat. 518.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 488; Pub. L. 98–89, §3(a), Aug. 26, 1983, 97 Stat. 599; Pub. L. 107–171, title X, §10703(c)(4), May 13, 2002, 116 Stat. 518.)
 
 Historical and Revision Notes
 

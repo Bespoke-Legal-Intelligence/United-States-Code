@@ -10,7 +10,7 @@ Technical assistance under this part shall, to the maximum extent feasible, be p
 
 #### (c) Enterprise funds
 
-Activities supported pursuant to this part may include the establishment of and the provision of support for one or more enterprise funds for the independent states of the former Soviet Union. If the President determines that an enterprise fund should be established and supported under this part, the provisions contained in section 201 of the Support for East European Democracy (SEED) Act of 1989 \[22 U.S.C. 5421\] (excluding the authorizations of appropriations provided in subsection (b) of that section) shall be deemed to apply with respect to such enterprise fund and to funds made available to such enterprise fund pursuant to this part.
+Activities supported pursuant to this part may include the establishment of and the provision of support for one or more enterprise funds for the independent states of the former Soviet Union. If the President determines that an enterprise fund should be established and supported under this part, the provisions contained in section 201 of the Support for East European Democracy (SEED) Act of 1989 \[22 U.S.C. 5421\]\(excluding the authorizations of appropriations provided in subsection (b) of that section) shall be deemed to apply with respect to such enterprise fund and to funds made available to such enterprise fund pursuant to this part.
 
 #### (d) Cooperative development and research projects
 
@@ -58,7 +58,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 #### (1) In general
 
-&emsp;Funds authorized to be appropriated for fiscal year 1993 by this part, and any other funds appropriated for fiscal year 1993 that are used under the authority of subsection (f) or (g) of this section, may be used to provide assistanceunder this part notwithstanding any other provision of law, except for—
+&emsp;Funds authorized to be appropriated for fiscal year 1993 by this part, and any other funds appropriated for fiscal year 1993 that are used under the authority of subsection (f) or (g) of this section, may be used to provide assistance under this part notwithstanding any other provision of law, except for—
 
 &emsp;&emsp;(A) this part;
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see sectio
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 Functions of President under subsecs. (c) and (g) of this section delegated to Coordinator by section 2(c) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, set out as a note under section 5812 of this title.
 

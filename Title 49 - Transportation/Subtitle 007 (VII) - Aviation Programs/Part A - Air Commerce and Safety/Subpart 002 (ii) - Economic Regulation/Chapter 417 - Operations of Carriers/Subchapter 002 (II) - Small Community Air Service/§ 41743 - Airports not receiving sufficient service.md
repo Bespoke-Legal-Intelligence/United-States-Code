@@ -70,7 +70,7 @@ In general.—The Secretary may make agreements to provide assistance under this
 
 &emsp;(2)
 
-Authorization of appropriations.—There is authorized to be appropriated to the Secretary $20,000,000 for fiscal year 2001, $27,500,000 for each of fiscal years 2002 and 2003, and $35,000,000 for each of fiscal years 2004 through 2009 to carry out this section. Such sums shall remain available until expended.
+Authorization of appropriations.—There is authorized to be appropriated to the Secretary $20,000,000 for fiscal year 2001, $27,500,000 for each of fiscal years 2002 and 2003, and $35,000,000 for each of fiscal years 2004 through 2010 to carry out this section. Such sums shall remain available until expended.
 
 (f)
 
@@ -94,9 +94,11 @@ Designation of Responsible Official.—The Secretary shall designate an employee
 
 Air Service Development Zone.—The Secretary shall designate an airport in the program as an Air Service Development Zone and work with the community or consortium on means to attract business to the area surrounding the airport, to develop land use options for the area, and provide data, working with the Department of Commerce and other agencies.
 
-(Added Pub. L. 106–181, title II, §203(a), Apr. 5, 2000, 114 Stat. 92; amended Pub. L. 108–11, title II, §2708, Apr. 16, 2003, 117 Stat. 601; Pub. L.108–176, title II, §225(b)(3), title IV, §412, Dec. 12, 2003, 117 Stat. 2529, 2551; Pub. L. 110–330, §5(b), Sept. 30, 2008, 122 Stat. 3718.)
+(Added Pub. L. 106–181, title II, §203(a), Apr. 5, 2000, 114 Stat. 92; amended Pub. L. 108–11, title II, §2708, Apr. 16, 2003, 117 Stat. 601; Pub. L.108–176, title II, §225(b)(3), title IV, §412, Dec. 12, 2003, 117 Stat. 2529, 2551; Pub. L. 110–330, §5(b), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–69, §5(b), Oct. 1, 2009, 123 Stat. 2055.)
 
 #### Amendments
+
+2009—Subsec. (e)(2). Pub. L. 111–69 substituted “2010” for “2009”.
 
 2008—Subsec. (e)(2). Pub. L. 110–330 substituted “2009” for “2008”.
 

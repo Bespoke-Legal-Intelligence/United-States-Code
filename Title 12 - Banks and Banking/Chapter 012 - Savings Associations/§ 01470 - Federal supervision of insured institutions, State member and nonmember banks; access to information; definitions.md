@@ -8,7 +8,7 @@
 
 &emsp;(1) The term “insured institution” has the same meaning as in section 401(a) of the National Housing Act \[12 U.S.C. 1724(a)\].<sup>1</sup>
 
-&emsp;(2) The terms “State member insured banks” and “State nonmember insured banks” have the same meaning as when used in the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\].
+&emsp;(2) The terms “State member insured banks” and “State nonmember insured banks” have the same meaning as when used in theFederal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\].
 
 &emsp;(3) The term “State housing corporation” means a corporation established by a State for the limited purpose of providing housing and incidental services, particularly for families of low or moderate income.
 

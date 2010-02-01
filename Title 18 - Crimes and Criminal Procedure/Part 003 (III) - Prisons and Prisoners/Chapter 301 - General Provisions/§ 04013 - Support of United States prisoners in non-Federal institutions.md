@@ -8,7 +8,7 @@
 
 &emsp;(3) the housing, care, and security of persons held in custody of a United States marshal pursuant to Federal law under agreements with State or local units of government or contracts with private entities.
 
-(b) The Attorney General, in support of Federal prisoner detainees in non-Federal institutions, is authorized to make payments, from funds appropriated for State and local law enforcement assistance, for entering into contracts or cooperative agreements with any State, territory, or political subdivision thereof, for the necessary construction, physical renovation, acquisition of equipment, supplies, or materials required to establish acceptable conditions of confinement and detention services in any State or local jurisdiction which agrees to provide guaranteed bed space for Federal detainees within that correctional system, in accordance with regulations which are issued by the Attorney General and are comparable to the regulations issued under section 4006 of this title, except that—
+(b) The Attorney General, in support of Federal prisoner detainees in non-Federal institutions, is authorized to make payments, from funds appropriated for State and local law enforcement assistance, for entering into contracts or cooperative agreements with any State, territory, or political subdivision thereof, for the necessary construction, physical renovation, acquisition of equipment, supplies, or materials required to establish acceptable conditions of confinement and detention services inany State or local jurisdiction which agrees to provide guaranteed bed space for Federal detainees within that correctional system, in accordance with regulations which are issued by the Attorney General and are comparable to the regulations issued under section 4006 of this title, except that—
 
 &emsp;(1) amounts made available for purposes of this paragraph shall not exceed the average per-inmate cost of constructing similar confinement facilities for the Federal prison population,
 
@@ -22,7 +22,7 @@
 
 &emsp;(B) the availability of appropriate Federal, State, and local government detention facilities.
 
-(2) In order to be eligible for a contract for the housing, care, and security of persons held incustody of the United States Marshals pursuant to Federal law and funding under subsection (a)(3), a private entity shall—
+(2) In order to be eligible for a contract for the housing, care, and security of persons held in custody of the United States Marshals pursuant to Federal law and funding under subsection (a)(3), a private entity shall—
 
 &emsp;(A) be located in a district that has been designated as needing additional Federal detention facilities pursuant to paragraph (1);
 
@@ -88,7 +88,7 @@ Notice before public comment period.—Before the beginning of any period a prop
 
 Comprehensive hiv/aids services required.—Any State or local government assessing or collecting a fee under this subsection shall provide comprehensive coverage for services relating to human immunodeficiency virus (HIV) and acquired immune deficiency syndrome (AIDS) to each Federal prisoner in the custody of such State or local government when medically appropriate. The State or local government may not assess or collect a fee under this subsection for providing such coverage.
 
-(Added Pub. L. 100–690, title VII, §7608(d)(1), Nov. 18, 1988, 102 Stat. 4516; amended Pub. L. 101–647, title XVII, §1701, title XXXV, §3599, Nov. 29, 1990, 104 Stat. 4843, 4931; Pub. L. 103–322, title XXXIII, §330011(<i>o</i>), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 106–294, §3, Oct. 12, 2000, 114 Stat. 1040; Pub. L. 107–273, div. A, title III, §302(2), Nov. 2, 2002, 116 Stat. 1781.)
+(Added Pub. L. 100–690, title VII, §7608(d)(1), Nov. 18, 1988, 102 Stat. 4516; amended Pub. L. 101–647,title XVII, §1701, title XXXV, §3599, Nov. 29, 1990, 104 Stat. 4843, 4931; Pub. L. 103–322, title XXXIII, §330011(<i>o</i>), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 106–294, §3, Oct. 12, 2000, 114 Stat. 1040; Pub. L. 107–273, div. A, title III, §302(2), Nov. 2, 2002, 116 Stat. 1781.)
 
 #### Amendments
 

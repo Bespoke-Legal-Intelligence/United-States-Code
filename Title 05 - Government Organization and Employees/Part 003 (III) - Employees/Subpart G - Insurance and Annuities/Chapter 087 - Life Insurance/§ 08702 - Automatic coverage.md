@@ -40,5 +40,5 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Applicability
 
-Pub. L. 106–398, §1 \[\[div. A\], title XI, §1134(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–318, provided that: “For purposes of section 8702(c) of title 5, United States Code (as added by subsection (a)), an employee of the Department of Defense who is designated as an emergency essential employee under section 1580 of title 10, United States Code, before the date of the enactment of thisAct \[Oct. 30, 2000\] shall be deemed to be so designated on the date of the enactment of this Act.”
+Pub. L. 106–398, §1 \[\[div. A\], title XI, §1134(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–318, provided that: “For purposes of section 8702(c) of title 5, United States Code (as added by subsection (a)), an employee of the Department of Defense who is designated as an emergency essential employee under section 1580 of title 10, United States Code, before the date of the enactment of this Act \[Oct. 30, 2000\] shall be deemed to be so designated on the date of the enactment of this Act.”
 

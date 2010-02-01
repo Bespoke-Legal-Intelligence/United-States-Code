@@ -48,7 +48,7 @@ For purposes of enrolling land in the wetland reserve established under this sub
 
 The Secretary may include in the wetland reserve established under this subpart, together with land that is eligible under subsection (c) of this section, land that maximizes wildlife benefits and that is—
 
-&emsp;(1) farmed wetland and adjoining lands, enrolled in the conservation reserve, with the highest wetland functions and values, and that are likely to return to production after they leave the conservation reserve;
+&emsp;(1) farmed wetland and adjoining lands, enrolled in the conservation reserve, with thehighest wetland functions and values, and that are likely to return to production after they leave the conservation reserve;
 
 &emsp;(2) other wetland of an owner that would not otherwise be eligible if the Secretary determines that the inclusion of such wetland in such easement would significantly add to the functional value of the easement; or
 

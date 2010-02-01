@@ -2,7 +2,7 @@
 
 #### (a) Finality of decisions; return of papers
 
-Except as provided in subsection (b) of this section, section 1501 of this title (relating to voluntary reliquidations), section 1516 of this title (relating to petitions by domestic interested parties), and section 1520 of this title (relating to refunds), any clerical error, mistake of fact, or other inadvertence, whether or not resulting from or contained in an electronic transmission, adverse to the importer, in any entry, liquidation, or reliquidation, and, decisions of the Customs Service, including the legality of all orders and findings entering into the same, as to—
+Except as provided in subsection (b) of this section, section 1501 of this title (relating to voluntary reliquidations), section 1516 of this title (relating to petitions by domestic interested parties), section 1520 of this title (relating to refunds), and section 6501 of title 26 (but only with respect to taxes imposed under chapters 51 and 52 of such title), any clerical error, mistake of fact, or other inadvertence, whether or not resulting from or contained in an electronic transmission, adverse to the importer, in any entry, liquidation, or reliquidation, and, decisions of the Customs Service, including the legality of all orders and findings entering into the same, as to—
 
 &emsp;(1) the appraised value of merchandise;
 
@@ -88,9 +88,9 @@ If the Bureau of Customs and Border Protection or the Bureau of Immigration and 
 
 #### (i) Denial of preferential tariff treatment under the United States-Peru Trade Promotion Agreement
 
-If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement of theDepartment of Homeland Security finds indications of a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the rules of origin provided for in section 203 of the United States-Peru Trade Promotion Agreement Implementation Act, U.S. Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may suspend preferential tariff treatment under the United States-Peru Trade Promotion Agreement to entries of identical goods covered by subsequent representations by that importer, exporter, or producer until U.S. Customs and Border Protection determines that representations of that person are in conformity with such section 203.
+If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement of the Department of Homeland Security finds indications of a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the rules of origin provided for in section 203 of the United States-Peru Trade Promotion Agreement Implementation Act, U.S. Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may suspend preferential tariff treatment under the United States-Peru Trade Promotion Agreement to entries of identical goods covered by subsequent representations by that importer, exporter, or producer until U.S. Customs and Border Protection determines that representations of that person are in conformity with such section 203.
 
-(June 17, 1930, ch. 497, title IV, §514, 46 Stat. 734; Pub. L. 91–271, title II, §207, June 2, 1970, 84 Stat. 284; Pub. L. 96–39, title X, §1001(b)(3), July 26, 1979, 93 Stat. 305; Pub. L. 96–417, title VI, §§601(5), 605, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 98–573, title VI, §612(b)(1), Oct. 30, 1984, 98 Stat. 3034; Pub. L. 99–514, title XVIII, §1888(4), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title IV, §403(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title II, §208, title IV, §412(a), title VI, §645, Dec. 8, 1993, 107 Stat. 2097, 2146, 2206; Pub. L. 104–295, §21(e)(7), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 106–36, title II, §2408(b), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §205(b), Sept. 3, 2003, 117 Stat. 931; Pub. L. 108–429, title II, §2103, Dec. 3, 2004, 118 Stat. 2597; Pub. L. 109–53, title II, §206(b), Aug. 2, 2005, 119 Stat. 484; Pub. L. 109–280, title XIV, §1635(f)(7), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 110–138, title II, §205(b), Dec. 14, 2007, 121 Stat. 1476.)
+(June 17, 1930, ch. 497, title IV, §514, 46 Stat. 734; Pub. L. 91–271, title II, §207, June 2, 1970, 84 Stat. 284; Pub. L. 96–39, title X, §1001(b)(3), July 26, 1979, 93 Stat. 305; Pub. L. 96–417, title VI, §§601(5), 605, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 98–573, title VI, §612(b)(1), Oct. 30, 1984, 98 Stat. 3034; Pub. L. 99–514, title XVIII, §1888(4), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title IV, §403(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title II, §208, title IV, §412(a), title VI, §645, Dec. 8, 1993, 107 Stat. 2097, 2146, 2206; Pub. L. 104–295, §21(e)(7), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 106–36, title II, §2408(b), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §205(b), Sept. 3, 2003, 117 Stat. 931; Pub. L. 108–429, title II, §2103, Dec. 3, 2004, 118 Stat. 2597; Pub. L. 109–53, title II, §206(b), Aug. 2, 2005, 119 Stat. 484; Pub. L. 109–280, title XIV, §1635(f)(7), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 110–138, title II, §205(b), Dec. 14, 2007, 121 Stat. 1476; Pub. L. 111–3, title VII, §702(c)(1), Feb. 4, 2009, 123 Stat. 110.)
 
 #### Amendment of Section
 
@@ -101,8 +101,6 @@ If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcemen
 <i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 #### References in Text
-
-The customs laws, referred to in subsec. (a)(4), are classified generally to this title.
 
 Section 1303 of this title, referred to in subsec. (b), is defined in section 1677(26) of this title to mean section 1303 as in effect on the day before Jan. 1, 1995.
 
@@ -123,6 +121,8 @@ Provisions that the decision of the collector as to duties, including dutiable c
 Provisions relating to decisions of the collector, and appeals therefrom to the Secretary of the Treasury were contained in R.S. §§2931, 2932, prior to repeal by section 29 of the Customs Administrative Act, 26 Stat. 141.
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–3, in introductory provisions, substituted “section 1520 of this title (relating to refunds), and section 6501 of title 26 (but only with respect to taxes imposed under chapters 51 and 52 of such title)” for “and section 1520 of this title (relating to refunds)”.
 
 2007—Subsec. (i). Pub. L. 110–138, §§107(c), 205(b), temporarily added subsec. (i). See Effective and Termination Dates of 2007 Amendment note below.
 
@@ -191,6 +191,10 @@ Subsec. (c)(2). Pub. L. 96–39, §1001(b)(3)(C), (F), redesignated former subse
 Subsec. (d). Pub. L. 96–39, §1001(b)(3)(C), redesignated former subsec. (c) as (d).
 
 1970—Pub. L. 91–271 designated existing provisions as subsec. (a), expanded references to sections excepted from application of this section, substituted decisions of the appropriate customs officer for all decisions of the collector as deemed to be final and conclusive, reorganized the categories of decisions and findings subject to such finality and conclusiveness, and revised the procedures for filing of protests, and added subsecs. (b) and (c).
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–3, title VII, §702(c)(2), Feb. 4, 2009, 123 Stat. 110, provided that: “The amendment made by this subsection \[amending this section\] shall apply to articles imported after the date of the enactment of this Act \[Feb. 4, 2009\].”
 
 #### Effective and Termination Dates of 2007 Amendment
 
@@ -268,7 +272,7 @@ Pub. L. 100–690, title VII, §7361(c), Nov. 18, 1988, 102 Stat. 4474, provided
 
 &emsp;&emsp;“(ii) decisions to conduct intensified inspections or examinations of merchandise at ports of entry, and
 
-&emsp;“(B) establish procedures that allow individuals described in section 514(c)(1) of the Tariff Act of 1930 (19 U.S.C. 1514(c)(1)), any port authority, and any other interested party (within the meaning of section 516(a)(2) of the Tariff Act of 1930 (19 U.S.C. 1516(a)(2))) to petition the Secretary to obtain such uniformity in an expedited and timely fashion.
+&emsp;“(B) establish procedures that allow individuals described in section 514(c)(1) of the Tariff Act of 1930 (19U.S.C. 1514(c)(1)), any port authority, and any other interested party (within the meaning of section 516(a)(2) of the Tariff Act of 1930 (19 U.S.C. 1516(a)(2))) to petition the Secretary to obtain such uniformity in an expedited and timely fashion.
 
 “(2) The Secretary of the Treasury shall publish in the Federal Register and submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives the proposed and final form of the regulations prescribed under paragraph (1) and shall receive and consider comments from the public regarding the proposed form of such regulations during the 60-day period beginning on the date the proposed form of such regulations are published in the Federal Register.
 

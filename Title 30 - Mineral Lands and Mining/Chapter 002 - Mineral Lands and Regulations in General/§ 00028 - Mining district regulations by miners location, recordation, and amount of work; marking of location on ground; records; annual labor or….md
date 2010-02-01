@@ -4,7 +4,7 @@ The miners of each mining district may make regulations not in conflict with the
 
 Where a person or company has or may run a tunnel for the purposes of developing a lode or lodes, owned by said person or company, the money so expended in said tunnel shall be taken and considered as expended on said lode or lodes, whether located prior to or since May 10, 1872;and such person or company shall not be required to perform work on the surface of said lode or lodes in order to hold the same as required by this section. On all such valid claims the annual period ending December 31, 1921, shall continue to 12 o'clock meridian July 1, 1922.
 
-(R.S. §2324; Feb. 11, 1875, ch. 41, 18 Stat. 315; Jan. 22, 1880, ch. 9, §2, 21 Stat. 61; Aug. 24, 1921, ch. 84, 42 Stat. 186; Pub. L. 85–736, §1, Aug. 23, 1958, 72 Stat. 829; Pub. L. 103–66, title X, §10105(b), Aug. 10, 1993, 107 Stat. 406; Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2101.)
+(R.S. §2324; Feb. 11, 1875, ch. 41, 18 Stat. 315; Jan. 22, 1880, ch. 9, §2, 21 Stat. 61; Aug. 24, 1921, ch. 84, 42 Stat. 186; Pub. L. 85–736, §1, Aug. 23, 1958, 72 Stat. 829; Pub. L. 103–66, title X, §10105(b), Aug. 10, 1993, 107 Stat. 406; Pub. L. 110–161, div. F, title I, (1), Dec. 26, 2007, 121 Stat. 2101.)
 
 #### Codification
 

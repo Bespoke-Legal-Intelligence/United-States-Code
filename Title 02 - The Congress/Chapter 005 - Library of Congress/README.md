@@ -72,15 +72,7 @@
 | [164a.](%C2%A7%2000164a%20-%20Official%20distribution%20of%20State%20legislation%20index%20and%20digest.md) | Official distribution of State legislation index and digest. |
 | [165\.](%C2%A7%2000165%20-%20Authorization%20for%20appropriation%20for%20biennial%20index.md) | Authorization for appropriation for biennial index. |
 | [166\.](%C2%A7%2000166%20-%20Congressional%20Research%20Service.md) | Congressional Research Service. |
-| [167\.](%C2%A7%2000167%20-%20Buildings%20and%20grounds%3B%20designation%20of%20employees%20as%20police.md) | Buildings and grounds; designation of employees as police. |
-| [167a.](%C2%A7%2000167a%20-%20Public%20use%20of%20Library%20of%20Congress%20grounds.md) | Public use of Library of Congress grounds. |
-| [167b.](%C2%A7%2000167b%20-%20Sales%2C%20advertisements%2C%20and%20solicitations%20in%20Library%20buildings%20and%20grounds.md) | Sales, advertisements, and solicitations in Library buildings and grounds. |
-| [167c.](%C2%A7%2000167c%20-%20Injuries%20to%20Library%20property.md) | Injuries to Library property. |
-| [167d.](%C2%A7%2000167d%20-%20Firearms%20or%20fireworks%3B%20speeches%3B%20objectionable%20language%20in%20Library%20buildings%20and%20grounds.md) | Firearms or fireworks; speeches; objectionable language in Library buildings and grounds. |
-| [167e.](%C2%A7%2000167e%20-%20Parades%2C%20assemblages%20or%20display%20of%20flags%20in%20Library%20buildings%20and%20grounds.md) | Parades, assemblages or display of flags in Library buildings and grounds. |
-| [167f.](%C2%A7%2000167f%20-%20Regulations%20for%20Library%20buildings%20and%20grounds%3B%20publication%3B%20effective%20date.md) | Regulations for Library buildings and grounds; publication; effective date. |
-| [167g.](%C2%A7%2000167g%20-%20Prosecution%20and%20punishment%20of%20offenses%20in%20Library%20buildings%20and%20grounds.md) | Prosecution and punishment of offenses in Library buildings and grounds. |
-| [167h.](%C2%A7%2000167h%20-%20Jurisdiction%20of%20police%20within%20Library%20buildings%2C%20grounds%2C%20and%20adjacent%20streets.md) | Jurisdiction of police within Library buildings, grounds, and adjacent streets. |
+| 167 to 167h. Repealed. |  |
 | [167i.](%C2%A7%2000167i%20-%20Suspension%20of%20prohibitions%20against%20use%20of%20Library%20buildings%20and%20grounds.md) | Suspension of prohibitions against use of Library buildings and grounds. |
 | [167j.](%C2%A7%2000167j%20-%20Area%20comprising%20Library%20of%20Congress%20grounds%3B%20%E2%80%9Cbuildings%20and%20grounds%E2%80%9D%20defined.md) | Area comprising Library of Congress grounds; “buildings and grounds” defined. |
 | [168\.](%C2%A7%2000168%20-%20Constitution%20of%20the%20United%20States%3B%20preparation%20and%20publication%20of%20revised%20edition%3B%20annotations%3B%20supplements%3B%20decennial%20editions%20and%E2%80%A6.md) | Constitution of the United States; preparation and publication of revised edition; annotations; supplements; decennial editions and supplements. |
@@ -200,15 +192,7 @@
 - [&sect; 00164a - Official distribution of State legislation index and digest](%C2%A7%2000164a%20-%20Official%20distribution%20of%20State%20legislation%20index%20and%20digest.md)
 - [&sect; 00165 - Authorization for appropriation for biennial index](%C2%A7%2000165%20-%20Authorization%20for%20appropriation%20for%20biennial%20index.md)
 - [&sect; 00166 - Congressional Research Service](%C2%A7%2000166%20-%20Congressional%20Research%20Service.md)
-- [&sect; 00167 - Buildings and grounds; designation of employees as police](%C2%A7%2000167%20-%20Buildings%20and%20grounds%3B%20designation%20of%20employees%20as%20police.md)
-- [&sect; 00167a - Public use of Library of Congress grounds](%C2%A7%2000167a%20-%20Public%20use%20of%20Library%20of%20Congress%20grounds.md)
-- [&sect; 00167b - Sales, advertisements, and solicitations in Library buildings and grounds](%C2%A7%2000167b%20-%20Sales%2C%20advertisements%2C%20and%20solicitations%20in%20Library%20buildings%20and%20grounds.md)
-- [&sect; 00167c - Injuries to Library property](%C2%A7%2000167c%20-%20Injuries%20to%20Library%20property.md)
-- [&sect; 00167d - Firearms or fireworks; speeches; objectionable language in Library buildings and grounds](%C2%A7%2000167d%20-%20Firearms%20or%20fireworks%3B%20speeches%3B%20objectionable%20language%20in%20Library%20buildings%20and%20grounds.md)
-- [&sect; 00167e - Parades, assemblages or display of flags in Library buildings and grounds](%C2%A7%2000167e%20-%20Parades%2C%20assemblages%20or%20display%20of%20flags%20in%20Library%20buildings%20and%20grounds.md)
-- [&sect; 00167f - Regulations for Library buildings and grounds; publication; effective date](%C2%A7%2000167f%20-%20Regulations%20for%20Library%20buildings%20and%20grounds%3B%20publication%3B%20effective%20date.md)
-- [&sect; 00167g - Prosecution and punishment of offenses in Library buildings and grounds](%C2%A7%2000167g%20-%20Prosecution%20and%20punishment%20of%20offenses%20in%20Library%20buildings%20and%20grounds.md)
-- [&sect; 00167h - Jurisdiction of police within Library buildings, grounds, and adjacent streets](%C2%A7%2000167h%20-%20Jurisdiction%20of%20police%20within%20Library%20buildings%2C%20grounds%2C%20and%20adjacent%20streets.md)
+- [&sect; 00167 to 167h - Repealed. Pub. L. 110&#8211;161, div. H, title I, &sect;1004(d)(1)(B), (2)(B), Dec. 26, 2007, 121 Stat. 2233, 2234, and Pub. L. 110&#8211;178&#8230;](%C2%A7%2000167%20to%20167h%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93161%2C%20div.%20H%2C%20title%20I%2C%20%C2%A71004%28d%29%281%29%28B%29%2C%20%282%29%28B%29%2C%20Dec.%2026%2C%202007%2C%20121%20Stat.%202233%2C%202234%2C%20and%20Pub.%20L.%20110%E2%80%93178%E2%80%A6.md)
 - [&sect; 00167i - Suspension of prohibitions against use of Library buildings and grounds](%C2%A7%2000167i%20-%20Suspension%20of%20prohibitions%20against%20use%20of%20Library%20buildings%20and%20grounds.md)
 - [&sect; 00167j - Area comprising Library of Congress grounds; &#8220;buildings and grounds&#8221; defined](%C2%A7%2000167j%20-%20Area%20comprising%20Library%20of%20Congress%20grounds%3B%20%E2%80%9Cbuildings%20and%20grounds%E2%80%9D%20defined.md)
 - [&sect; 00168 - Constitution of the United States; preparation and publication of revised edition; annotations; supplements; decennial editions and&#8230;](%C2%A7%2000168%20-%20Constitution%20of%20the%20United%20States%3B%20preparation%20and%20publication%20of%20revised%20edition%3B%20annotations%3B%20supplements%3B%20decennial%20editions%20and%E2%80%A6.md)

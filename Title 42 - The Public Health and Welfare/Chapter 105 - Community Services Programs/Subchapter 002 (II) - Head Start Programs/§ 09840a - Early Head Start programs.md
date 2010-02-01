@@ -136,7 +136,7 @@ The Secretary shall—
 
 &emsp;&emsp;(G) the relationship of health and well-being of pregnant women to prenatal and early child development.
 
-(Pub. L. 97–35, title VI, §645A, as added Pub. L. 103–252, title I, §112(a), May 18, 1994, 108 Stat. 638; amended Pub. L. 105–285, title I, §113, Oct. 27, 1998, 112 Stat. 2719; Pub. L. 110–134, §15, Dec. 12, 2007, 121 Stat. 1418.)
+(Pub. L. 97–35, title VI, §645A, as added Pub. L. 103–252, title I, §112(a), May 18, 1994, 108 Stat. 638;amended Pub. L. 105–285, title I, §113, Oct. 27, 1998, 112 Stat. 2719; Pub. L. 110–134, §15, Dec. 12, 2007, 121 Stat. 1418.)
 
 #### References in Text
 

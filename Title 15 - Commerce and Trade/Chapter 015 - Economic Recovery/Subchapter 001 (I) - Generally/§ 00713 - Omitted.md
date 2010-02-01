@@ -14,7 +14,7 @@ Remainder of section, relating to audit of financial transactions of the Corpora
 
 Act July 1, 1941, ch. 270, §1, 55 Stat. 498, formerly classified to this section, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 651.
 
-Acts July 16, 1943, ch. 241, §1, 57 Stat. 556; Feb. 28, 1944, ch. 71, §1, 58 Stat. 105; Apr. 12, 1945, ch. 54, §5, 59 Stat. 51; June 30, 1947, ch. 164, 61 Stat. 201, formerly classified to this section, were repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 652, 654.
+Acts July 16, 1943, ch. 241, §1, 57 Stat. 556; Feb. 28, 1944, ch. 71, §1, 58 Stat. 105; Apr. 12, 1945, ch. 54, §5, 59 Stat. 51; June 30, 1947, ch. 164, 61 Stat. 201, formerlyclassified to this section, were repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 652, 654.
 
 #### Dissolution of Corporation
 
@@ -38,5 +38,5 @@ Act July 25, 1946, ch. 671, §15, 60 Stat. 677, directed Secretary of Agricultur
 
 #### Purchases of Wheat Prior to April 1, 1947
 
-Act July 25, 1946, ch. 671, §16, 60 Stat. 677, provided that the Commodity Credit Corporation shall offer to purchase the wheat of producers, subject to certainlimitations, which wheat has been required to be sold pursuant to Government order and was delivered to a grain elevator prior to April 1, 1947.
+Act July 25, 1946, ch. 671, §16, 60 Stat. 677, provided that the Commodity Credit Corporation shall offer to purchase the wheat of producers, subject to certain limitations, which wheat has been required to be sold pursuant to Government order and was delivered to a grain elevator prior to April 1, 1947.
 

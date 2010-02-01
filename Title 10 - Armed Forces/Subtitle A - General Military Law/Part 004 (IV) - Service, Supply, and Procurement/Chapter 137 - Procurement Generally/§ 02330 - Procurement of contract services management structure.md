@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement for Management Structure.—The Secretary of Defense shall establishand implement a management structure for the procurement of contract services for the Department of Defense. The management structure shall provide, at a minimum, for the following:
+Requirement for Management Structure.—The Secretary of Defense shall establish and implement a management structure for the procurement of contract services for the Department of Defense. The management structure shall provide, at a minimum, for the following:
 
 &emsp;(1) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall—
 
@@ -66,13 +66,13 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) Issuance of a task order, delivery order, or military interdepartmental purchase request.
 
-&emsp;(2) The term “contract services” includes all services acquired from private sector entities by or for the Department of Defense, other than services relating to research and development or military construction.
+&emsp;(2) The term “contract services” includes all services acquired from private sector entitiesby or for the Department of Defense, other than services relating to research and development or military construction.
 
 (Added Pub. L. 107–107, div. A, title VIII, §801(b)(1), Dec. 28, 2001, 115 Stat. 1174; amended Pub. L. 107–314, div. A, title X, §1062(a)(8), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 109–163, div. A, title VIII, §812(a)(1), Jan. 6, 2006, 119 Stat. 3376.)
 
 #### References in Text
 
-Section 854 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, referredto in subsec. (b)(3)(B), is section 854 of div. A of Pub. L. 108–375, which is set out as a note under section 2304 of this title.
+Section 854 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, referred to in subsec. (b)(3)(B), is section 854 of div. A of Pub. L. 108–375, which is set out as a note under section 2304 of this title.
 
 Section 814 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, referred to in subsec. (b)(3)(B), is section 814 of div. A of Pub. L. 105–261, which was formerly set out as a note under section 1535 of Title 31, Money and Finance.
 

@@ -22,7 +22,7 @@ Immunity under subsection (a) of this section does not apply to a person if—
 
 &emsp;(2) the person is a licensed or certified health professional who used the automated external defibrillator device while acting within the scope of the license or certification of the professional and within the scope of the employment or agency of the professional;
 
-&emsp;(3) the person is a hospital, clinic, or other entity whose purpose is providing health care directly to patients, and the harm was caused by an employee or agent of the entity who used the device while acting within the scope of the employment or agency of the employee or agent; or
+&emsp;(3) the person is a hospital, clinic, or other entity whose purpose is providing health care directly to patients, and the harm was caused by an employee or agent of the entity whoused the device while acting within the scope of the employment or agency of the employee or agent; or
 
 &emsp;(4) the person is an acquirer of the device who leased the device to a health care entity (or who otherwise provided the device to such entity for compensation without selling the device to the entity), and the harm was caused by an employee or agent of the entity who used the device while acting within the scope of the employment or agency of the employee or agent.
 

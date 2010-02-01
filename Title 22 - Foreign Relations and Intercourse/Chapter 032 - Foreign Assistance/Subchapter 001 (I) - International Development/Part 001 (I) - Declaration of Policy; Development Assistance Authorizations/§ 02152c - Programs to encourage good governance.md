@@ -68,7 +68,7 @@ Projects and activities under the programs established pursuant to subsection (a
 
 &emsp;The report required by paragraph (1) shall contain the following information with respect to each country described in paragraph (1):
 
-&emsp;&emsp;(A) A description of all United States Government-funded programs and initiatives to combat corruption and improve transparency and accountability in the country.
+&emsp;&emsp;(A) A description of all United States Government-funded programs and initiatives tocombat corruption and improve transparency and accountability in the country.
 
 &emsp;&emsp;(B) A description of United States diplomatic efforts to combat corruption and improve transparency and accountability in the country.
 
@@ -140,7 +140,7 @@ Findings.—Congress finds the following:
 
 &emsp;“(12) The United States should attempt to improve accountability in foreign countries, including by—
 
-&emsp;&emsp;“(A) promoting transparency and accountability through support for independent media, promoting financial disclosure by public officials, political parties, and candidates for public office, open budgeting processes, adequate and effective internal control systems, suitable financial management systems, and financial and compliance reporting;
+&emsp;&emsp;“(A) promoting transparency and accountability through support for independent media, promoting financial disclosure by public officials, political parties, and candidates for public office, open budgeting processes, adequate and effective internalcontrol systems, suitable financial management systems, and financial and compliance reporting;
 
 &emsp;&emsp;“(B) supporting the establishment of audit offices, inspectors general offices, third party monitoring of government procurement processes, and anti-corruption agencies;
 

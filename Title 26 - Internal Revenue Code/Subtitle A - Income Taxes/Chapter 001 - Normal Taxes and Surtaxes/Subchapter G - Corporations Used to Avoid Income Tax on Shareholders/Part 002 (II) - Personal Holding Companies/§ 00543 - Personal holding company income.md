@@ -80,7 +80,7 @@ For purposes of this subtitle, the term “personal holding company income” me
 
 > &emsp;&emsp;equals or exceeds 25 percent of the amount by which the ordinary gross income exceeds the sum of the royalties paid or accrued and the amounts allowable as deductions under section 167 (relating to depreciation) with respect to copyright royalties.
 
-> &emsp;For purposes of this subsection, the term “copyright royalties” means compensation, however designated, for the use of, or the right to use, copyrights in works protected by copyright issued under title 17 of the United States Code and to which copyright protection is also extended by the laws of any country other than the United States of America by virtue of any international treaty, convention, or agreement, or interests in any such copyrighted works, and includes payments from any person for performing rights in any such copyrighted work and payments (other than produced film rents as defined in paragraph (5)(B)) received for the use of, or right to use, films. For purposes of this paragraph, the term “shareholder” shall include any person whoowns stock within the meaning of section 544. This paragraph shall not apply to active business computer software royalties.
+> &emsp;For purposes of this subsection, the term “copyright royalties” means compensation, however designated, for the use of, or the right to use, copyrights in works protected by copyright issued under title 17 of the United States Code and to which copyright protection is also extended by the laws of any country other than the United States of America by virtue of any international treaty, convention, or agreement, or interests in any such copyrighted works, and includes payments from any person for performing rights in any such copyrighted work and payments (other than produced film rents as defined in paragraph (5)(B)) received for the use of, or right to use, films. For purposes of this paragraph, the term “shareholder” shall include any person who owns stock within the meaning of section 544. This paragraph shall not apply to active business computer software royalties.
 
 #### (5) Produced film rents
 
@@ -168,7 +168,7 @@ For purposes of this part—
 
 #### (D) Certain excluded rents
 
-&emsp;&emsp;From the gross income consisting of compensation described in subparagraph (D) of paragraph (3) subtract the amount allowable as deductions for the items described in clauses (i), (ii), (iii), and (iv) of subparagraph (A) to the extent allocable, under regulations prescribed by the Secretary, to such gross income. The amount subtracted under this subparagraph shall not exceed such gross income.
+&emsp;&emsp;From the gross income consisting of compensation described in subparagraph (D) ofparagraph (3) subtract the amount allowable as deductions for the items described in clauses (i), (ii), (iii), and (iv) of subparagraph (A) to the extent allocable, under regulations prescribed by the Secretary, to such gross income. The amount subtracted under this subparagraph shall not exceed such gross income.
 
 #### (3) Adjusted income from rents
 
@@ -376,7 +376,7 @@ Section 6279(b) of Pub. L. 100–647 provided that: “The amendments made by th
 
 #### Effective Date of 1986 Amendment
 
-Section 645(e) of Pub. L. 99–514 provided that: “The amendments made by subsection (a) \[amending thissection and section 553 of this title\] shall apply to royalties received before, on, and after December 31, 1986.”
+Section 645(e) of Pub. L. 99–514 provided that: “The amendments made by subsection (a) \[amending this section and section 553 of this title\] shall apply to royalties received before, on, and after December 31, 1986.”
 
 #### Effective Date of 1984 Amendment
 
@@ -384,7 +384,7 @@ Amendment by Pub. L. 98–369 effective as if included in the provision of the T
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to distributions after Aug. 31, 1982, with exceptions for certain partial liquidations, see section 222(f) of Pub. L. 97–248, set out as a note under section 302 of this title.
+Amendment by Pub. L. 97–248 applicable to distributions after Aug. 31, 1982, with exceptions for certainpartial liquidations, see section 222(f) of Pub. L. 97–248, set out as a note under section 302 of this title.
 
 #### Effective Date of 1976 Amendments
 
@@ -472,7 +472,7 @@ Special Rule for Treatment of Active Business Computer Royalties for S Corporati
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

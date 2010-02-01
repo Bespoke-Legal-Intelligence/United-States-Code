@@ -28,5 +28,5 @@ Pub. L. 108–447, div. E, title II, Dec. 8, 2004, 118 Stat. 3087, provided in p
 
 #### Extension of Terms of Projects
 
-Pub. L. 105–256, §4(a), Oct. 14, 1998, 112 Stat. 1897, provided that: “The Secretary of the Interior shall take such action as may be necessary to extend the terms of the projects referred to in section 512 of the Indian Health Care Improvement Act (25 U.S.C. 1660b) so that the term of each such project expires on October 1, 2002.”
+Pub. L. 105–256, §4(a), Oct. 14, 1998, 112 Stat. 1897, provided that: “The Secretary of the Interior shall takesuch action as may be necessary to extend the terms of the projects referred to in section 512 of the Indian Health Care Improvement Act (25 U.S.C. 1660b) so that the term of each such project expires on October 1, 2002.”
 

@@ -2,7 +2,7 @@
 
 #### (a) Prohibitions on assistance to countries involved in transfer of nuclear reprocessing equipment, materials, or technology; exceptions; procedures applicable
 
-(1) Except as provided in paragraph (2) of this subsection, no funds made available to carry out the Foreign Assistance Act of 1961 \[22 U.S.C. 2151et seq.\] or this chapter may be used for the purpose of providing economic assistance (including assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346 et seq.\]), providing military assistance or grant military education and training, providing assistance under chapter 6 of part II of that Act \[22 U.S.C. 2348 et seq.\], or extending military credits or making guarantees, to any country which the President determines—
+(1) Except as provided in paragraph (2) of this subsection, no funds made available to carry out the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] or this chapter may be used for the purpose of providing economic assistance (including assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346 et seq.\]), providing military assistance or grant military education and training, providing assistance under chapter 6 of part II of that Act \[22 U.S.C. 2348 et seq.\], or extending military credits or making guarantees, to any country which the President determines—
 
 &emsp;(A) delivers nuclear reprocessing equipment, materials, or technology to any other country on or after August 4, 1977, or receives such equipment, materials, or technology from any other country on or after August 4, 1977 (except for the transfer of reprocessing technology associated with the investigation, under international evaluation programs in which the United States participates, of technologies which are alternatives to pure plutonium reprocessing), or
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(ii) detonates a nuclear explosive device,
 
-&emsp;(C) transfers to a non-nuclear-weapon state any design information or component which is determined by the President to be important to, and known by the transferring country to be intended by the recipient state for use in, the development or manufacture of any nuclear explosive device, or
+&emsp;(C) transfers to a non-nuclear-weapon state any design information or component which isdetermined by the President to be important to, and known by the transferring country to be intended by the recipient state for use in, the development or manufacture of any nuclear explosive device, or
 
 &emsp;(D) is a non-nuclear-weapon state and seeks and receives any design information or component which is determined by the President to be important to, and intended by the recipient state for use in, the development or manufacture of any nuclear explosive device,
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(iii) to any credit, credit guarantee, or financial assistance provided by the Department of Agriculture to support the purchase of food or other agricultural commodity.
 
-&emsp;(E) The United States Government shall oppose, in accordance with section 262d of thistitle, the extension of any loan or financial or technical assistance to that country by any international financial institution.
+&emsp;(E) The United States Government shall oppose, in accordance with section 262d of this title, the extension of any loan or financial or technical assistance to that country by any international financial institution.
 
 &emsp;(F) The United States Government shall prohibit any United States bank from making any loan or providing any credit to the government of that country, except for loans or credits for the purpose of purchasing food or other agricultural commodities, which includes fertilizer.
 
@@ -158,7 +158,7 @@ Limited exception related to certain sanctions and prohibitions.—The authority
 
 Limited exception related to certain activities.—Unless the President determines and certifies to the appropriate congressional committees that using the authority under subsection (a) is vital to the national security interests of the United States, such authority shall not apply with respect to—
 
-&emsp;&emsp;“(A) an activity described in subparagraph (A) of section 102(b)(1) of the Arms Export Control Act \[22 U.S.C. 2799aa–1(b)(1)(A)\] that occurs after September 19, 2005, and before the date of the enactment of this Act \[June 30, 2008\];
+&emsp;&emsp;“(A) an activity described in subparagraph (A) of section 102(b)(1) of the Arms Export Control Act \[22U.S.C. 2799aa–1(b)(1)(A)\] that occurs after September 19, 2005, and before the date of the enactment of this Act \[June 30, 2008\];
 
 &emsp;&emsp;“(B) an activity described in subparagraph (C) of such section that occurs after September 19, 2005; or
 

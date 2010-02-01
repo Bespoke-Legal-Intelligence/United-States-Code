@@ -34,7 +34,7 @@ In order to strengthen the administrative capability and financial responsibilit
 
 #### (b) Special administrative rules
 
-In carrying out paragraphs (1) and (2) of subsection (a) of this section and any other relevant provisions of this subchapter and part C of subchapter I of chapter 34 of title 42, the Secretary shall—
+In carrying out paragraphs (1) and (2) of subsection (a) of this section and any other relevantprovisions of this subchapter and part C of subchapter I of chapter 34 of title 42, the Secretary shall—
 
 &emsp;(1) establish guidelines designed to ensure uniformity of practice in the conduct of program reviews of institutions of higher education;
 

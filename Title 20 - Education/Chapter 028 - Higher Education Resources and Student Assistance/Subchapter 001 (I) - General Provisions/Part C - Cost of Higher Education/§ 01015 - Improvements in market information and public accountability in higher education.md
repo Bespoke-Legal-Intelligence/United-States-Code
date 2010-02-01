@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(iii) average amount of financial assistance received by an undergraduate student who attends an institution of higher education, including—
 
-&emsp;&emsp;&emsp;&emsp;(I) each type of assistance or benefit described in section 1078(a)(2)(C)(i) <sup>1</sup> of this title;
+&emsp;&emsp;&emsp;&emsp;(I) each type of assistance or benefit described in section 1078(a)(2)(C)(ii) of this title;
 
 &emsp;&emsp;&emsp;&emsp;(II) fellowships; and
 
@@ -122,7 +122,7 @@ The Secretary shall display a link to the Federal student financial aid website 
 
 &emsp;&emsp;(A) administered, sponsored, or supported by the Department of Education, the Department of Defense, the Department of Veterans Affairs, or a State; and
 
-&emsp;&emsp;(B) available to members of the Armed Forces (including members of the NationalGuard and Reserves), veterans, or the dependents of such members or veterans.
+&emsp;&emsp;(B) available to members of the Armed Forces (including members of the National Guard and Reserves), veterans, or the dependents of such members or veterans.
 
 #### (g) Promotion of availability of information concerning other student financial aid programs
 
@@ -224,11 +224,7 @@ No fee shall be charged to any individual to access—
 
 &emsp;(2) information about higher education programs or student financial assistance available through a database or website of the Department.
 
-(Pub. L. 89–329, title I, §131, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1602; amended Pub. L. 110–315, title I, §§103(b)(1), 110, Aug. 14, 2008, 122 Stat. 3088, 3094.)
-
-#### References in Text
-
-Section 1078(a)(2)(C) of this title, referred to in subsec. (a)(3)(A)(iii)(I), was amended generally by Pub. L. 105–244, title IV, §417(a)(1)(C), Oct. 7, 1998, 112 Stat. 1682, and, as so amended, provisions formerly appearing in cl. (i) are now contained in cl. (ii).
+(Pub. L. 89–329, title I, §131, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1602; amended Pub. L. 110–315, title I, §§103(b)(1), 110, Aug. 14, 2008, 122 Stat. 3088, 3094; Pub. L. 111–39, title I, §101(b)(3), July 1, 2009, 123 Stat. 1935.)
 
 #### Prior Provisions
 
@@ -244,6 +240,8 @@ A prior section 131 of Pub. L. 89–329, title I, as added Pub. L. 99–498, tit
 
 #### Amendments
 
+2009—Subsec. (a)(3)(A)(iii)(I). Pub. L. 111–39 substituted “section 1078(a)(2)(C)(ii)” for “section 1078(a)(2)(C)(i)”.
+
 2008—Subsec. (a)(3)(B). Pub. L. 110–315, §103(b)(1), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
 
 Subsecs. (d), (e). Pub. L. 110–315, §110(a), added subsecs. (d) and (e) and struck out former subsec. (d), which required the Secretary to survey student aid recipients on a regular cycle, but not less than once every 3 years.
@@ -258,9 +256,11 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+
 #### Student-Related Debt Study Required
 
 Pub. L. 105–244, title VIII, §803, Oct. 7, 1998, 112 Stat. 1805, which required the Secretary of Education to conduct a study to analyze the distribution and increase in student-related debt, submit a report to congressional committees, and include certain information as part of the comparative information provided to families about the costs of higher education, was repealed by Pub. L. 110–315, title IX, §931(1), Aug. 14, 2008, 122 Stat. 3456.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

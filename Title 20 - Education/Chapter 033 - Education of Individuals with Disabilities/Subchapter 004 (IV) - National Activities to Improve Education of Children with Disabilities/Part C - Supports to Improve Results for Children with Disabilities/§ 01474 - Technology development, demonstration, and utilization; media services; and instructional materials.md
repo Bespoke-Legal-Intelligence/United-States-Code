@@ -58,7 +58,7 @@
 
 #### (1) In general
 
-&emsp;Any eligible entity that wishes to receive a grant, or enter into a contract or cooperative agreement, under subsection (b) or (c) shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;Any eligible entity that wishes to receive a grant, or enter into a contract or cooperativeagreement, under subsection (b) or (c) shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (2) Special rule
 
@@ -96,7 +96,7 @@
 
 #### (B) National Instructional Materials Accessibility Standard
 
-&emsp;&emsp;The term “National Instructional Materials Accessibility Standard” means thestandard established by the Secretary to be used in the preparation of electronic files suitable and used solely for efficient conversion into specialized formats.
+&emsp;&emsp;The term “National Instructional Materials Accessibility Standard” means the standard established by the Secretary to be used in the preparation of electronic files suitable and used solely for efficient conversion into specialized formats.
 
 #### (C) Print instructional materials
 

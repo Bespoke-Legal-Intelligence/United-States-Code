@@ -20,7 +20,7 @@
 
 &emsp;(3) when requested, provide assistance to committees and, to the extent practicable, to members of Congress in evaluating the information obtained from the sources in the directory.
 
-(d) To the extent they consider necessary, the Comptroller General and the Director of the Congressional Budget Office individually or jointly shall establish and maintain a file of information to meet recurring needs of Congress for fiscal, budget, and program information to carry out this section and sections 717 and 1112 of this title. The file shall include information on budget requests, congressional authorizations to obligate and expend, apportionment andreserve actions, and obligations and expenditures. The Comptroller General and the Director shall maintain the file and an index to the file so that it is easier for the committees and agencies of Congress to use the file and index through data processing and communications techniques.
+(d) To the extent they consider necessary, the Comptroller General and the Director of the Congressional Budget Office individually or jointly shall establish and maintain a file of information to meet recurring needs of Congress for fiscal, budget, and program information to carry out this section and sections 717 and 1112 of this title. The file shall include information on budget requests, congressional authorizations to obligate and expend, apportionment and reserve actions, and obligations and expenditures. The Comptroller General and the Director shall maintain the file and an index to the file so that it is easier for the committees and agencies of Congress to use the file and index through data processing and communications techniques.
 
 (e)(1) The Comptroller General shall—
 
@@ -284,11 +284,11 @@ Pub. L. 107–74, §1, Nov. 28, 2001, 115 Stat. 701, as amended by Pub. L. 110�
 
 &emsp;“(29) Section 16 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2215).”
 
-Pub. L. 106–569, title XI, §1102, Dec. 27, 2000, 114 Stat. 3029, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) shall not apply to any report required to be submitted under any of the following provisions of law:
+Pub. L. 106–569, title XI, §1102, Dec. 27, 2000, 114 Stat. 3029, as amended by Pub. L. 111–67, §12(b)(2), Sept. 30, 2009, 123 Stat. 2022, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) shall not apply to any report required to be submitted under any of the following provisions of law:
 
 &emsp;“(1) Section 3 of the Employment Act of 1946 (15 U.S.C. 1022).
 
-&emsp;“(2) Section 309 of the Defense Production Act of 1950 (50 U.S.C. App. 2099).
+&emsp;“(2) Section 723 of the Defense Production Act of 1950 \[50 U.S.C. App. 2172\].
 
 &emsp;“(3) Section 603 of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3213).
 

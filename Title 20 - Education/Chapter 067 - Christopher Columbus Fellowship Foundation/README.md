@@ -10,6 +10,7 @@
 | [5706\.](%C2%A7%2005706%20-%20Audits.md) | Audits. |
 | [5707\.](%C2%A7%2005707%20-%20Executive%20Secretary%20of%20Foundation.md) | Executive Secretary of Foundation. |
 | [5708\.](%C2%A7%2005708%20-%20Administrative%20provisions.md) | Administrative provisions. |
+| [5709\.](%C2%A7%2005709%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -26,3 +27,4 @@
 - [&sect; 05706 - Audits](%C2%A7%2005706%20-%20Audits.md)
 - [&sect; 05707 - Executive Secretary of Foundation](%C2%A7%2005707%20-%20Executive%20Secretary%20of%20Foundation.md)
 - [&sect; 05708 - Administrative provisions](%C2%A7%2005708%20-%20Administrative%20provisions.md)
+- [&sect; 05709 - Authorization of appropriations](%C2%A7%2005709%20-%20Authorization%20of%20appropriations.md)

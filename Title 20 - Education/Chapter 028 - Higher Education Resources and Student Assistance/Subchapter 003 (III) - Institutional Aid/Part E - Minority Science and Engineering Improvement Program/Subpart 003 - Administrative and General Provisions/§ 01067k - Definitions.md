@@ -32,7 +32,7 @@ For the purpose of this part—
 
 &emsp;&emsp;&emsp;(ii) provide in-service training for project directors, scientists, and engineers from eligible minority institutions.
 
-(Pub. L. 89–329, title III, §365, formerly title X, §1046, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1566; renumbered title III, §365, and amended Pub. L. 105–244, title III, §§301(a)(5), (7), 307(c), Oct. 7, 1998, 112 Stat. 1636, 1648; Pub. L.110–315, title III, §320(3), Aug. 14, 2008, 122 Stat. 3187.)
+(Pub. L. 89–329, title III, §365, formerly title X, §1046, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1566; renumbered title III, §365, and amended Pub. L. 105–244, title III, §§301(a)(5), (7), 307(c), Oct. 7, 1998, 112 Stat. 1636, 1648; Pub. L. 110–315, title III, §320(3), Aug. 14, 2008, 122 Stat. 3187.)
 
 #### Codification
 

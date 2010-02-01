@@ -84,7 +84,7 @@ Section 2(b)(2) of Pub. L. 103–279 provided that:
 
 “(A)
 
-Superintendent of schools of the district of columbia.—The amendment made by paragraph (1)(C)(i) \[amending this section\] shall take effect on the date of expiration of the term of the Chairman of the District of Columbia Recreation Board serving as a trustee of the John F. Kennedy Center for the Performing Arts on the date of enactment of this Act \[July 21, 1994\].
+Superintendent of schools of the district of columbia.—The amendment made by paragraph (1)(C)(i) \[amending this section\] shall take effect on thedate of expiration of the term of the Chairman of the District of Columbia Recreation Board serving as a trustee of the John F. Kennedy Center for the Performing Arts on the date of enactment of this Act \[July 21, 1994\].
 
 “(B)
 
@@ -112,7 +112,7 @@ Pub. L. 105–95, §1, Nov. 19, 1997, 111 Stat. 2148, provided that: “This Act
 
 #### Short Title of 1994 Amendment
 
-Section 1 of Pub. L. 103–279 provided that: “This Act \[enacting sections 76r and 76s of this title, amending this section, sections 76j, 76k, 76<i>l</i>, and 76p of this title,and sections 193r, 193u, and 193v of former Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under this section, and amending provisions set out as a note under this section\] may be cited as the ‘John F. Kennedy Center Act Amendments of 1994’.”
+Section 1 of Pub. L. 103–279 provided that: “This Act \[enacting sections 76r and 76s of this title, amending this section, sections 76j, 76k, 76<i>l</i>, and 76p of this title, and sections 193r, 193u, and 193v of former Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under this section, and amending provisions set out as a note under this section\] may be cited as the ‘John F. Kennedy Center Act Amendments of 1994’.”
 
 #### Short Title of 1984 Amendment
 

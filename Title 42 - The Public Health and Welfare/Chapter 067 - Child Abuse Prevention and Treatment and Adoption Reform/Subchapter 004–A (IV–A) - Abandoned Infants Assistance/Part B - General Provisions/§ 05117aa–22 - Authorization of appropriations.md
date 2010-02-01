@@ -14,7 +14,7 @@
 
 #### (1) Authorization
 
-&emsp;For the purpose of the administration of this subchapter by the Secretary, there is authorized to be appropriated for each fiscal year specified in subsection (a)(1) an amount equal to 5 percent of the amount authorized in such subsection to be appropriated for the fiscal year. With respect to the amounts appropriated under such subsection, the preceding sentence may not be construed to prohibit the expenditure of the amounts for the purpose described in such sentence.
+&emsp;For the purpose of the administration of this subchapter by the Secretary, there is authorized to be appropriated for each fiscal year specified in subsection (a)(1) an amount equal to 5 percent of the amount authorized in such subsection to be appropriated for the fiscal year. With respect to the amounts appropriated under such subsection, the preceding sentence may not be construed to prohibit theexpenditure of the amounts for the purpose described in such sentence.
 
 #### (2) Limitation
 

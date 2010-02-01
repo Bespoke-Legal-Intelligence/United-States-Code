@@ -74,7 +74,7 @@ In selecting eligible members of the Armed Forces to receive assistance under th
 
 #### (1) Selection subject to funding
 
-&emsp;The Secretary may not select an eligible member of the Armed Forces to participate in the Program under this section and receive financial assistance under section 6674 of this title unless the Secretary has sufficient appropriations for the Program available at the time of the selection to satisfy the obligations to be incurred by the United States under section 6674 of this title with respect to the member.
+&emsp;The Secretary may not select an eligible member of the Armed Forces to participate inthe Program under this section and receive financial assistance under section 6674 of this title unless the Secretary has sufficient appropriations for the Program available at the time of the selection to satisfy the obligations to be incurred by the United States under section 6674 of this title with respect to the member.
 
 #### (2) Reserve commitment agreement
 

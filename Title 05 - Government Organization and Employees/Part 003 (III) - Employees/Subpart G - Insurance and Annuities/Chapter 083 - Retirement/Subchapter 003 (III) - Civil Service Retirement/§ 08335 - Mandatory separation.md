@@ -72,7 +72,7 @@ Subsec. (f). Pub. L. 106–553 redesignated subsec. (e) as (f) and substituted �
 
 1994—Subsec. (d). Pub. L. 103–283 substituted “57” for “55” in first sentence.
 
-1992—Subsec. (b). Pub. L. 102–378 amended first sentence generally. Prior to amendment, first sentence read as follows: “A firefighter who is otherwise eligible for immediate retirement under section 8336(c) of this title shall be separated from the service on the last day of the month in which he becomes 55 years of age or completes 20 years of service if then over that age.”
+1992—Subsec. (b). Pub. L. 102–378 amended first sentence generally. Prior to amendment, first sentence read as follows: “A firefighter who is otherwise eligible for immediate retirement under section 8336(c) of thistitle shall be separated from the service on the last day of the month in which he becomes 55 years of age or completes 20 years of service if then over that age.”
 
 1990—Subsec. (b). Pub. L. 101–509, §529 \[title IV, §409(a)(1)\], which directed that “law enforcement officer of a” be struck out before “firefighter who is”, was executed by striking out “law enforcement officer or a” as the probable intent of Congress.
 
@@ -158,7 +158,7 @@ Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see sect
 
 #### Exemption Process To Delay Mandatory Retirement for Air Traffic Controllers
 
-Pub. L. 108–199, div. F, title I, Jan. 23, 2004, 118 Stat. 282, provided in part: “That not later than March 1, 2004, the Secretary of Transportation, in consultation with the Administrator of the Federal Aviation Administration, shall issue final regulations, pursuant to 5 U.S.C. 8335, establishing an exemption process allowing individual air traffic controllers to delay mandatory retirement until the employee reaches no later than 61 years of age”.
+Pub. L. 108–199, div. F, title I, Jan. 23, 2004, 118 Stat. 282, provided in part: “That not later than March 1, 2004, the Secretary of Transportation, in consultationwith the Administrator of the Federal Aviation Administration, shall issue final regulations, pursuant to 5 U.S.C. 8335, establishing an exemption process allowing individual air traffic controllers to delay mandatory retirement until the employee reaches no later than 61 years of age”.
 
 #### Nonapplicability of Subsection (a) to Air Traffic Controllers Appointed Before January 1, 1987
 

@@ -38,7 +38,7 @@ The Corporation may have preferred stock on such terms and conditions as the Boa
 
 #### (g) Securities exempt from regulation
 
-All securities issued or guaranteed by the Corporation (other than securities guaranteed by the Corporation that are backed by mortgagesnot purchased by the Corporation) shall, to the same extent as securities that are direct obligations of or obligations guaranteed as to principal or interest by the United States, be deemed to be exempt securities within the meaning of the laws administered by the Securities and Exchange Commission.
+All securities issued or guaranteed by the Corporation (other than securities guaranteed by the Corporation that are backed by mortgages not purchased by the Corporation) shall, to the same extent as securities that are direct obligations of or obligations guaranteed as to principal or interest by the United States, be deemed to be exempt securities within the meaning of the laws administered by the Securities and Exchange Commission.
 
 #### (h) Securities backed by mortgages not purchased by Corporation
 
@@ -100,7 +100,7 @@ Except for fees paid pursuant to sections 1452(c) <sup>1</sup> and 1455(c) of t
 
 #### (D) Reports to Congress
 
-&emsp;&emsp;Upon exercise of this authority, the Secretary shall report to the Committees on the Budget, Financial Services, and Ways and Means of the House of Representatives and the Committees on the Budget, Finance, and Banking, Housing, and Urban Affairs of the Senate as to the necessity for the purchase and the determinations made by the Secretary under subparagraph (B) and with respect to the considerations required under subparagraph (C), and the size, terms, and probability of repayment or fulfillment of other terms of such purchase.
+&emsp;&emsp;Upon exercise of this authority, the Secretary shall report to the Committees on the Budget, Financial Services, and Ways and Means of the House of Representatives and the Committees on the Budget, Finance, andBanking, Housing, and Urban Affairs of the Senate as to the necessity for the purchase and the determinations made by the Secretary under subparagraph (B) and with respect to the considerations required under subparagraph (C), and the size, terms, and probability of repayment or fulfillment of other terms of such purchase.
 
 #### (2) Rights; sale of obligations and securities
 
@@ -160,7 +160,7 @@ Subsecs. (j), (k). Pub. L. 101–73, §731(i), added subsecs. (j) and (k).
 
 1988—Subsec. (i). Pub. L. 100–242 added subsec. (i).
 
-1984—Subsec. (f). Pub. L. 98–440, §211, inserted provisions that preferred stock shall not be entitled to vote with respect to the election of any member of the Board of Directors and that such preferred stock, or any class thereof, may have such terms as would be required for listing of preferred stock on the New York Stock Exchange, except for any preferred stock, or class thereof, the initial sale of which is made directlyor indirectly by the Corporation exclusively to any Federal Home Loan Bank or Banks.
+1984—Subsec. (f). Pub. L. 98–440, §211, inserted provisions that preferred stock shall not be entitled to vote with respect to the election of any member of the Board of Directors and that such preferred stock, or any class thereof, may have such terms as would be required for listing of preferred stock on the New York Stock Exchange, except for any preferred stock, or class thereof, the initial sale of which is made directly or indirectly by the Corporation exclusively to any Federal Home Loan Bank or Banks.
 
 Subsec. (h). Pub. L. 98–440, §210, added subsec. (h).
 

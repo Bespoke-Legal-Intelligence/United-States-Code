@@ -80,7 +80,7 @@ Sec. 3. <i>Interagency Task Force</i>. (a) There is established, within the Depa
 
 (c) The Chairman of the Council on Environmental Quality shall chair the Task Force.
 
-(d) Consultation in the implementation of this order with State and local officials and other persons who are not full-time or permanent part-time employees of theFederal Government shall be conducted in a manner that elicits fully the individual views of each official or other person consulted, without deliberations or efforts to achieve consensus on advice or recommendations.
+(d) Consultation in the implementation of this order with State and local officials and other persons who are not full-time or permanent part-time employees of the Federal Government shall be conducted in a manner that elicits fully the individual views of each official or other person consulted, without deliberations or efforts to achieve consensus on advice or recommendations.
 
 (e) This order shall be implemented in a manner consistent with the President's constitutional authority to supervise the unitary executive branch.
 

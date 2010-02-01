@@ -54,7 +54,7 @@ Apr. 1, 1954, ch. 127, §8, 68 Stat. 48.
 
 34:1057–1 (less (a)).
 
-In subsection (a), the words “is entitled \* \* \* to” are substituted for the words “shall \* \* \* be afforded an opportunity to”.
+In subsection (a), the words “is entitled to” are substituted for the words “shall be afforded an opportunity to”.
 
 In subsection (b), the words “is entitled” are substituted for the word “shall”.
 

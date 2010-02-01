@@ -232,7 +232,7 @@ Requirements.—In conducting referenda under subparagraph (B), and in exercisin
 
 &emsp;&emsp;(ii) conduct a referendum of eligible packers, importers, and handlers of honey for the establishment of a marketing board for packers, importers, and handlers of honey;
 
-&emsp;&emsp;(iii) notwithstanding the timing of the referenda required under clauses (i) and (ii) or of the establishment of any 1 or more successor boards pursuant to those referenda,ensure that the rights and interests of honey producers, importers, packers, and handlers of honey are equitably protected in any disposition of the assets, facilities, intellectual property, and programs of the existing Honey Board and in the transition to any 1 or more new successor marketing boards;
+&emsp;&emsp;(iii) notwithstanding the timing of the referenda required under clauses (i) and (ii) or of the establishment of any 1 or more successor boards pursuant to those referenda, ensure that the rights and interests of honey producers, importers, packers, and handlers of honey are equitably protected in any disposition of the assets, facilities, intellectual property, and programs of the existing Honey Board and in the transition to any 1 or more new successor marketing boards;
 
 &emsp;&emsp;(iv) ensure that the existing Honey Board continues in operation until such time as the Secretary determines that—
 
@@ -312,7 +312,7 @@ Inapplicability.—If a person no longer meets the requirements of clause (i) fo
 
 #### (1) Use
 
-&emsp;Funds collected by the Honey Board shall be used by the Honey Board for financing research, promotion, and consumer information, other expenses as described in subsection (d) of this section, such other expenses for the administration, maintenance, and functioning ofthe Honey Board as may be authorized by the Secretary, any reserve established under section 4607(5) of this title, and those administrative costs incurred by the Department of Agriculture pursuant to this chapter after an order has been promulgated under this chapter.
+&emsp;Funds collected by the Honey Board shall be used by the Honey Board for financing research, promotion, and consumer information, other expenses as described in subsection (d) of this section, such other expenses for the administration, maintenance, and functioning of the Honey Board as may be authorized by the Secretary, any reserve established under section 4607(5) of this title, and those administrative costs incurred by the Department of Agriculture pursuant to this chapter after an order has been promulgated under this chapter.
 
 #### (2) Research projects
 
@@ -346,7 +346,7 @@ The Honey Board shall maintain books and records and prepare and submit to the S
 
 #### (k) Honey Board; property interests
 
-Any patent on any product, copyright on any material, or any invention, product formulation or publication developed through the use of funds collected by the Honey Board shall be the property of the Honey Board. The funds generated from any such patent, copyright, invention, product formulation, or publication shall inure to the benefit of the Honey Board.
+Any patent on any product, copyright on any material, or any invention, product formulationor publication developed through the use of funds collected by the Honey Board shall be the property of the Honey Board. The funds generated from any such patent, copyright, invention, product formulation, or publication shall inure to the benefit of the Honey Board.
 
 (Pub. L. 98–590, §7, Oct. 30, 1984, 98 Stat. 3117; Pub. L. 101–624, title XIX, §§1983, 1984(a), Nov. 28, 1990, 104 Stat. 3905; Pub. L. 105–185, title VI, §605(f), June 23, 1998, 112 Stat. 590; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 110–234, title X, §10401, May 22, 2008, 122 Stat. 1348; Pub. L. 110–246, §4(a), title X, §10401, June 18, 2008, 122 Stat. 1664, 2109.)
 

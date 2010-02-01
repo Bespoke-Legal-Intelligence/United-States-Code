@@ -12,7 +12,7 @@ Compliance with the requirements imposed under this subchapter with respect to c
 
 #### (2) Enforcement authority under other law
 
-&emsp;All functions and powers of the Federal Trade Commission under the Federal Trade Commission Act shall be available to the Commission to enforce compliance with this subchapter by any person subject to enforcement by the Federal Trade Commission pursuant to this subsection, including the power to enforce the provisions of this subchapter in the same manner as if the violation had been a violationof any Federal Trade Commission trade regulation rule, without regard to whether the credit repair organization—
+&emsp;All functions and powers of the Federal Trade Commission under the Federal Trade Commission Act shall be available to the Commission to enforce compliance with this subchapter by any person subject to enforcement by the Federal Trade Commission pursuant to this subsection, including the power to enforce the provisions of this subchapter in the same manner as if the violation had been a violation of any Federal Trade Commission trade regulation rule, without regard to whether the credit repair organization—
 
 &emsp;&emsp;(A) is engaged in commerce; or
 

@@ -1,6 +1,6 @@
 ### §1293. Twenty years or more: warrant officers
 
-The Secretary concerned may, upon the warrant officer's request, retire a warrant officer of any armed force under his jurisdiction who hasat least 20 years of active service that could be credited to him under section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114).
+The Secretary concerned may, upon the warrant officer's request, retire a warrant officer of any armed force under his jurisdiction who has at least 20 years of active service that could be credited to him under section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114).
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 101; Pub. L. 87–649, §6(f)(3), Sept. 7, 1962, 76 Stat. 494.)
 
@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 May 29, 1954, ch. 249, §§2(d) (as applicable to §14(a)), 14(a), 68 Stat. 157, 162.
 
-The words, “The Secretary concerned may \* \* \* retire” are substituted for the words “may \* \* \* and in the discretion of the Secretary, be retired”. 10:600<i>l</i>(a) (last 14 words) and 34:430(a) (last 14 words) are omitted as covered by section 1315 of this title.
+The words, “The Secretary concerned may retire” are substituted for the words “may and in the discretion of the Secretary, be retired”. 10:600<i>l</i>(a) (last 14 words) and 34:430(a) (last 14 words) are omitted as covered by section 1315 of this title.
 
 #### References in Text
 
@@ -94,7 +94,7 @@ Years of Service.—(1) During the active force drawdown period, the Secretary o
 
 “(c)
 
-Additional Eligibility Requirement.—In order to be eligible for retirement by reason of the authorityprovided in subsection (b), a member of the Armed Forces shall—
+Additional Eligibility Requirement.—In order to be eligible for retirement by reason of the authority provided in subsection (b), a member of the Armed Forces shall—
 
 &emsp;“(1) register on the registry maintained under section 1143a(b) of title 10, United States Code (as added by section 4462(a)); and
 

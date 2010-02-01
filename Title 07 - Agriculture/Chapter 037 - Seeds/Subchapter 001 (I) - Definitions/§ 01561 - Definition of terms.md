@@ -18,7 +18,7 @@
 
 &emsp;(5) The term “foreign commerce” means commerce between the United States, its possessions, or any Territory of the United States, and any foreign country.
 
-&emsp;(6)(a) The term “district court of the United States” means any court exercising the powers of a district court of the United States,
+&emsp;(6)(a) The term “district court of the United States” means any court exercising the powers of a district court of the United States.
 
 &emsp;(b) Omitted
 
@@ -84,7 +84,7 @@
 
 Section was enacted without a subsec. (b).
 
-Former subsec. (a)(6)(b), which extended the former term “circuit court of appeals,” in case the principal place of business or residence of the person against whom a cease and desist order was issued was in the District of Columbia, to the United States Court of Appeals for the District of Columbia, for purposes of this chapter, has been omitted from the Code as obsolete due to the enactment of act June 25, 1948. The Districtof Columbia is now a judicial circuit under sections 41 and 43 of Title 28, Judiciary and Judicial Procedure. See, also, Change of Name notes under sections 1599, 1600, and 1601 of this title.
+Former subsec. (a)(6)(b), which extended the former term “circuit court of appeals,” in case the principal place of business or residence of the person against whom a cease and desist order was issued was in the District of Columbia, to the United States Court of Appeals for the District of Columbia, for purposes of this chapter, has been omitted from the Code as obsolete due to the enactment of act June 25, 1948. The District of Columbia is now a judicial circuit under sections 41 and 43 of Title 28, Judiciary and Judicial Procedure. See, also, Change of Name notes under sections 1599, 1600, and 1601 of this title.
 
 #### Amendments
 

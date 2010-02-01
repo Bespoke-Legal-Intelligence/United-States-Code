@@ -6,5 +6,5 @@ The Bureau of the Census may provide business data to the Bureau of Economic Ana
 
 #### References in Text
 
-The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in text, is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which enacted this section, amended section 176a of Title 15, Commerce and Trade, and enacted provisions set out as a note under section 3501 of Title 44, Public Printing and Documents. Provisions defining “Designated Statistical Agency” are contained in section 522 of the Act, which is set out in a note under section 3501 of Title 44.
+The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in text, is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which enacted this section, amended section 176a of Title 15, Commerce and Trade, and enacted provisions set out asa note under section 3501 of Title 44, Public Printing and Documents. Provisions defining “Designated Statistical Agency” are contained in section 522 of the Act, which is set out in a note under section 3501 of Title 44.
 

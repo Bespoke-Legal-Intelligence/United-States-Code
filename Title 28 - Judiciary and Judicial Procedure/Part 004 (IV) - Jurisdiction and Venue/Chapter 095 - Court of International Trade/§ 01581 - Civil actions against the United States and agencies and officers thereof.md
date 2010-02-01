@@ -8,11 +8,13 @@
 
 (d) The Court of International Trade shall have exclusive jurisdiction of any civil action commenced to review—
 
-&emsp;(1) any final determination of the Secretary of Labor under section 223 of the Trade Act of 1974 with respect to the eligibility of workers for adjustment assistance under such Act;
+&emsp;(1) any final determination of the Secretary of Labor under section 223 of the Trade Act of1974 with respect to the eligibility of workers for adjustment assistance under such Act;
 
-&emsp;(2) any final determination of the Secretary of Commerce under section 251 of the Trade Act of 1974 with respect to the eligibility of a firm for adjustment assistance under such Act; and
+&emsp;(2) any final determination of the Secretary of Commerce under section 251 of the Trade Act of 1974 with respect to the eligibility of a firm for adjustment assistance under such Act;
 
-&emsp;(3) any final determination of the Secretary of Commerce under section 271 of the Trade Act of 1974 with respect to the eligibility of a community for adjustment assistance under such Act.
+&emsp;(3) any final determination of the Secretary of Commerce under section 273 of the Trade Act of 1974 with respect to the eligibility of a community for adjustment assistance under such Act; and
+
+&emsp;(4) any final determination of the Secretary of Agriculture under section 293 or 296 of the Trade Act of 1974 (19 U.S.C. 2401b) <sup>1</sup> with respect to the eligibility of a group of agricultural commodity producers for adjustment assistance under such Act.
 
 (e) The Court of International Trade shall have exclusive jurisdiction of any civil action commenced to review any final determination of the Secretary of the Treasury under section 305(b)(1) of the Trade Agreements Act of 1979.
 
@@ -42,7 +44,7 @@
 
 (j) The Court of International Trade shall not have jurisdiction of any civil action arising under section 305 of the Tariff Act of 1930.
 
-(Added Pub. L. 96–417, title II, §201, Oct. 10, 1980, 94 Stat. 1728; amended Pub. L. 98–573, title II, §212(b)(1), Oct. 30, 1984, 98 Stat. 2983; Pub. L. 99–514, title XVIII, §1891(1), Oct. 22, 1986, 100 Stat. 2926; Pub. L. 100–449, title IV, §402(a), Sept. 28, 1988, 102 Stat. 1883; Pub. L. 103–182, title IV, §414(a)(1), title VI, §684(a)(1), Dec. 8, 1993, 107 Stat. 2147, 2219.)
+(Added Pub. L. 96–417, title II, §201, Oct. 10, 1980, 94 Stat. 1728; amended Pub. L. 98–573, title II, §212(b)(1), Oct. 30, 1984, 98 Stat. 2983; Pub. L. 99–514, title XVIII, §1891(1), Oct. 22, 1986, 100 Stat. 2926; Pub. L. 100–449, title IV, §402(a), Sept. 28, 1988, 102 Stat. 1883; Pub. L. 103–182, title IV, §414(a)(1), title VI, §684(a)(1), Dec. 8, 1993, 107 Stat. 2147, 2219; Pub. L. 111–5, div. B, title I, §1873(b)(2), Feb. 17, 2009, 123 Stat. 414.)
 
 #### Prior History of Court
 
@@ -52,33 +54,35 @@ The predecessor of the United States Customs Court was the Board of General Appr
 
 From 1890 to 1926, the Board of General Appraisers had jurisdiction over all protests from decisions of the collectors of customs and appeals for reappraisement under sections 13 and 14 of the Customs Administrative Act of June 10, 1890, ch. 407, 26 Stat. 136.
 
-The Customs Court was established by act May 28, 1926, ch. 411, §§1, 2, 44 Stat. 669, sections 405a and 405b of Title 19, Customs Duties, and said act transferred to it all the jurisdiction and powers of the former Board of General Appraisers. The Tariff Act of June 1930, ch.497, title IV, §518, 46 Stat. 737, section 1518 of Title 19, continued the Customs Court as constituted on June 17, 1930 with, however, several important changes.
+The Customs Court was established by act May 28, 1926, ch. 411, §§1, 2, 44 Stat. 669, sections 405a and 405b of Title 19, Customs Duties, and said act transferred to it all the jurisdiction and powers of the former Board of General Appraisers. The Tariff Act of June 1930, ch. 497, title IV, §518, 46 Stat. 737, section 1518 of Title 19, continued the Customs Court as constituted on June 17, 1930 with, however, several important changes.
 
 #### References in Text
 
 Section 515 of the Tariff Act of 1930, referred to in subsec. (a), is classified to section 1515 of Title 19, Customs Duties.
 
-Section 516 of the Tariff Act of 1930, referred to in subsec. (b), is classified to section 1516 of Title 19.
+Section 516 of the Tariff Act of 1930, referred to in subsec. (b), is classified to section 1516 of Title 19, Customs Duties.
 
-Section 516A of the Tariff Act of 1930, referred to in subsecs. (c) and (i), is classified to section 1516a of Title 19.
+Section 516A of the Tariff Act of 1930, referred to in subsecs. (c) and (i), is classified to section 1516a of Title 19, Customs Duties.
 
-The Trade Act of 1974, referred to in subsec. (d)(1) to (3), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter 12 (§2101 et seq.) of Title 19. Sections 223, 251, and 271 of the Trade Act of 1974 are classified to sections 2273, 2341, and 2371, respectively, of Title 19. Section 2371 of Title 19 was omitted from the Code as terminated Sept. 30, 1982. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of Title 19 and Tables.
+The Trade Act of 1974, referred to in subsec. (d), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§2101 et seq.) of Title 19, Customs Duties. Sections 223, 251, 273, 293, and 296 of the Act are classified to sections 2273, 2341, 2371b, 2401b,and 2401e, respectively, of Title 19. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of Title 19 and Tables.
 
-Section 305(b)(1) of the Trade Agreements Act of 1979, referred to in subsec. (e), is classified to section 2515(b)(1) of Title 19.
+Section 305(b)(1) of the Trade Agreements Act of 1979, referred to in subsec. (e), is classified to section 2515(b)(1) of Title 19, Customs Duties.
 
-Section 777(c)(2) of the Tariff Act of 1930, referred to in subsec. (f), is classified to section 1677f(c)(2) of Title 19.
+Section 777(c)(2) of the Tariff Act of 1930, referred to in subsec. (f), is classified to section 1677f(c)(2) of Title 19, Customs Duties.
 
-Section 641 of the Tariff Act of 1930, referred to in subsec. (g)(1), (2), is classified to section 1641 of Title 19.
+Section 641 of the Tariff Act of 1930, referred to in subsec. (g)(1), (2), is classified to section 1641 of Title 19, Customs Duties.
 
-Section 499(b) of the Tariff Act of 1930, referred to in subsec. (g)(3), is classified to section 1499(b) of Title 19.
+Section 499(b) of the Tariff Act of 1930, referred to in subsec. (g)(3), is classified to section 1499(b) of Title 19, Customs Duties.
 
-Section 305 of the Tariff Act of 1930, referred to in subsec. (j), is classified to section 1305 of Title 19.
+Section 305 of the Tariff Act of 1930, referred to in subsec. (j), is classified to section 1305 of Title 19, Customs Duties.
 
 #### Prior Provisions
 
 A prior section 1581, act June 25, 1948, ch. 646, 62 Stat. 943, related to powers of the Customs Court generally, prior to the general revision of this chapter by Pub. L. 96–417. See section 1585 of this title.
 
 #### Amendments
+
+2009—Subsec. (d)(3), (4). Pub. L. 111–5 substituted “273” for “271” in par. (3) and added par. (4).
 
 1993—Subsec. (g)(3). Pub. L. 103–182, §684(a)(1), added par. (3).
 
@@ -91,6 +95,10 @@ Subsec. (i). Pub. L. 103–182, §414(a)(1), inserted “the North American Free
 1984—Subsec. (g)(1). Pub. L. 98–573 amended par. (1) generally, substituting “a customs broker's license under section 641(b)(2) or (3) or (c) of the Tariff Act of 1930, or to deny a customs broker's permit under section 641(c)(1) of such Act, or to revoke a license or permit under section 641(b)(5) or (c)(2) of such Act” for “or revoke a customhouse broker's license under section 641(a) of the Tariff Act of 1930”.
 
 Subsec. (g)(2). Pub. L. 98–573 amended par. (2) generally, substituting “any decision of the Secretary of the Treasury to revoke or suspend a customs broker's license or permit, or impose a monetary penalty in lieu thereof, under section 641(d)(2)(B) of the Tariff Act of 1930” for “any order of the Secretary of the Treasury to revoke or suspend a customhouse broker's license under section 641(b) of the Tariff Act of 1930”.
+
+#### Effective Date of 2009 Amendment
+
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
 
 #### Effective Date of 1993 Amendment
 
@@ -121,4 +129,6 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 #### Effect of Termination of NAFTA Country Status
 
 For provisions relating to effect of termination of NAFTA country status on sections 401 to 416 of Pub. L. 103–182, see section 3451 of Title 19, Customs Duties.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

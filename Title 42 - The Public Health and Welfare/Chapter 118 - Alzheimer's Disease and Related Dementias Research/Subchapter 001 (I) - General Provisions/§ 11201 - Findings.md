@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(3) studies estimate that between one-half and two-thirds of patients in nursing homes meet the clinical and mental status criteria for dementia;
 
-&emsp;(4) the cost of caring for individuals with Alzheimer's disease and related dementias isgreat, and conservative estimates range between $38,000,000,000 and $42,000,000,000 per year solely for direct costs;
+&emsp;(4) the cost of caring for individuals with Alzheimer's disease and related dementias is great, and conservative estimates range between $38,000,000,000 and $42,000,000,000 per year solely for direct costs;
 
 &emsp;(5) progress in the neurosciences and behavioral sciences has demonstrated the interdependence and mutual reinforcement of basic science, clinical research, and services research for Alzheimer's disease and related dementias;
 
@@ -54,7 +54,7 @@ The Social Security Act, referred to in par. (14), is act Aug. 14, 1935, ch. 531
 
 #### Amendments
 
-1992—Pars. (4) to (14). Pub. L. 102–507 added pars. (4) to (8), redesignated former pars. (7) to (12) as (9) to (14), respectively, and struck out former pars. (4) to (6) which read as follows:
+1992—Pars. (4) to (14). Pub. L. 102–507 added pars. (4) to (8), redesignated former pars. (7) to (12) as (9) to (14),respectively, and struck out former pars. (4) to (6) which read as follows:
 
 “(4) the care for individuals with Alzheimer's disease and related dementias falls primarily on their families, and such care is very often financially and emotionally devastating;
 

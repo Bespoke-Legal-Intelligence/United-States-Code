@@ -10,7 +10,7 @@ An award may be made under subsection (a) of this section only if the applicant 
 
 &emsp;(1) to train members of minority health disparity populations or other health disparity populations as professionals in the area of biomedical or behavioral research or both; or
 
-&emsp;(2) to expand, remodel, renovate, or alter existing research facilities or construct new research facilities for the purpose of conductingminority health disparities research and other health disparities research.
+&emsp;(2) to expand, remodel, renovate, or alter existing research facilities or construct new research facilities for the purpose of conducting minority health disparities research and other health disparities research.
 
 #### (c) Centers of excellence
 
@@ -42,7 +42,7 @@ The period during which payments are made under a grant under subsection (a) of 
 
 #### (1) In general
 
-&emsp;With respect to activities for which an award under subsection (a) of this section is authorized to be expended, the Director of the Center may not make such an award to a designated research institution or consortium for any fiscal year unless the institution, or institutions in the consortium, as the case may be, agree to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the institutions involved for the fiscal year preceding the fiscal year for which such institutions receive such an award.
+&emsp;With respect to activities for which an award under subsection (a) of this section is authorized to be expended, the Director of the Center may not make such an award to a designated research institution or consortium for any fiscal year unless the institution, or institutions in the consortium, as the case may be, agree to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the institutions involved forthe fiscal year preceding the fiscal year for which such institutions receive such an award.
 
 #### (2) Use of Federal funds
 

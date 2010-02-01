@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) who makes payments of dividends aggregating $10 or more to any other person during any calendar year, or
 
-&emsp;&emsp;(B) who receives payments of dividends as a nominee and who makes payments aggregating $10 or more during any calendar year to any other person with respect to the dividends so received,
+&emsp;&emsp;(B) who receives payments of dividends as a nominee and who makes payments aggregating $10 or more during any calendar yearto any other person with respect to the dividends so received,
 
 > &emsp;shall make a return according to the forms or regulations prescribed by the Secretary, setting forth the aggregate amount of such payments and the name and address of the person to whom paid.
 
@@ -112,5 +112,5 @@ Dividends and interest.—The amendments made by this section \[enacting section
 
 “(2)
 
-Patronage dividends.—The amendments made by this section shall apply to payments of amounts described in section 6044(b) of the Internal Revenue Codeof 1986 \[formerly I.R.C. 1954\] made on or after January 1, 1963, with respect to patronage occurring on or after the first day of the first taxable year of the cooperative beginning on or after January 1, 1963.”
+Patronage dividends.—The amendments made by this section shall apply to payments of amounts described in section 6044(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] made on or after January 1, 1963, with respect to patronage occurring on or after the first day of the first taxable year of the cooperative beginning on or after January 1, 1963.”
 

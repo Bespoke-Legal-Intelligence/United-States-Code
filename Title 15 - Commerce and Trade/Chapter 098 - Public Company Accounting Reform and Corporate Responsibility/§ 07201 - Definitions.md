@@ -74,7 +74,7 @@ In this Act, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i) relate to the preparation or issuance of audit reports for issuers; and
 
-&emsp;&emsp;&emsp;(ii) are established or adopted by the Board under section 7213(a) of this title, or are promulgated as rules of the Commission.
+&emsp;&emsp;&emsp;(ii) are established or adopted by the Board under section 7213(a) of this title, orare promulgated as rules of the Commission.
 
 #### (11) Public accounting firm
 
@@ -98,7 +98,7 @@ In this Act, the following definitions shall apply:
 
 #### (15) Securities laws
 
-&emsp;The term “securities laws” means the provisions of law referred to in section 78c(a)(47) ofthis title and includes the rules, regulations, and orders issued by the Commission thereunder.
+&emsp;The term “securities laws” means the provisions of law referred to in section 78c(a)(47) of this title and includes the rules, regulations, and orders issued by the Commission thereunder.
 
 #### (16) State
 

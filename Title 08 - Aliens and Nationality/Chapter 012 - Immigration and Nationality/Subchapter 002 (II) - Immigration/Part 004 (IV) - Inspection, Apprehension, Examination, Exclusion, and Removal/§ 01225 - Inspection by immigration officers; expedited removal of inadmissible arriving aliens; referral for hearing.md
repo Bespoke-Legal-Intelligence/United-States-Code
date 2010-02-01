@@ -190,7 +190,7 @@
 
 2008—Subsec. (b)(1)(G). Pub. L. 110–229 added subpar. (G).
 
-1996—Pub. L. 104–208, §302(a), amended section generally, revising and restating former subsecs. (a) to (d) relating to inspection of aliens arriving in the United States, powers of immigration officers, detention of aliens for further inquiry, temporary and permanent exclusion of aliens, and collateral attacks on orders of exclusion and deportation.
+1996—Pub. L. 104–208, §302(a), amended section generally, revising and restating former subsecs. (a) to (d) relating to inspection of aliens arriving in the United States, powers of immigration officers, detention of aliens for further inquiry, temporary and permanentexclusion of aliens, and collateral attacks on orders of exclusion and deportation.
 
 Pub. L. 104–208, §371(b)(4), substituted “an immigration judge” for “a special inquiry officer”, “immigration judge” for “special inquiry officer”, and “immigration judges” for “special inquiry officers”, wherever appearing in subsecs. (a) to (c).
 
@@ -206,7 +206,7 @@ Amendment by Pub. L. 110–229 effective on the transition program effective dat
 
 #### Effective Date of 1996 Amendments
 
-Amendment by section 302(a) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 daysafter Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 302(a) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 Section 308(d)(5) of div. C of Pub. L. 104–208 provided that the amendment made by that section is effective as of Apr. 24, 1996. See Construction of 1996 Amendment note below.
 

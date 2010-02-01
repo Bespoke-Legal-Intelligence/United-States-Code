@@ -1,6 +1,10 @@
 ### §138. Assistant Secretaries of Defense
 
-(a) There are ten Assistant Secretaries of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate.
+(a)(1) There are 12 Assistant Secretaries of Defense.
+
+(2)(A) The Assistant Secretary of Defense referred to in subsection (b)(7) shall be appointed as provided in that subsection.
+
+(B) The other Assistant Secretaries of Defense shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
 (b)(1) The Assistant Secretaries shall perform such duties and exercise such powers as the Secretary of Defense may prescribe.
 
@@ -12,6 +16,10 @@
 
 (5) One of the Assistant Secretaries shall be the Assistant Secretary of Defense for Legislative Affairs. He shall have as his principal duty the overall supervision of legislative affairs of the Department of Defense.
 
+(6) One of the Assistant Secretaries shall be the Assistant Secretary of Defense for Acquisition. The Assistant Secretary of Defense for Acquisition is the principal adviser to the Secretary of Defense and the Under Secretary of Defense for Acquisition, Technology, and Logistics on matters relating to acquisition.
+
+(7) One of the Assistant Secretaries is the Assistant Secretary of Defense for Logistics and Materiel Readiness appointed pursuant to section 138a of this title. In addition to any duties and powers prescribed under paragraph (1), the Assistant Secretary of Defense for Logistics and Materiel Readiness shall have the duties specified in section 138a of this title.
+
 (c) Except as otherwise specifically provided by law, an Assistant Secretary may not issue an order to a military department unless—
 
 &emsp;(1) the Secretary of Defense has specifically delegated that authority to the Assistant Secretary in writing; and
@@ -20,7 +28,7 @@
 
 (d) The Assistant Secretaries take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments, the Under Secretaries of Defense, and the Director of Defense Research and Engineering. The Assistant Secretaries take precedence among themselves in the order prescribed by the Secretary of Defense.
 
-(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §136; amended Pub. L. 90–168, §2(1), (2), Dec. 1, 1967, 81 Stat. 521; Pub. L. 91–121, title IV, §404(a), Nov. 19, 1969, 83 Stat. 207; Pub. L. 92–215, §1, Dec. 22, 1971, 85 Stat. 777; Pub. L. 92–596, §4(2), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §3(a), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 96–107, title VIII, §820(a), Nov. 9, 1979, 93 Stat. 819; Pub. L. 98–94, title XII, §1212(a), Sept. 24, 1983, 97 Stat. 686; Pub. L. 99–433, title I, §§106, 110(d)(9), Oct. 1, 1986, 100 Stat. 997, 1003; Pub. L. 99–500, §101(c) \[title IX, §9115(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(a)\], Oct. 30, 1986, 100 Stat.3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(a), Nov. 14, 1986, 100 Stat. 3983; Pub. L. 100–180, div. A, title XII, §1211(a)(1), Dec. 4, 1987, 101 Stat. 1154; Pub. L. 100–453, title VII, §702, Sept. 29, 1988, 102 Stat. 1912; Pub. L. 100–456, div. A, title VII, §701, Sept. 29, 1988, 102 Stat. 1992; renumbered §138 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(1), (c), 903(c)(1), 905, Nov. 30, 1993, 107 Stat. 1726, 1727, 1729; Pub. L. 103–337, div. A, title IX, §§901(a), 903(b)(2), Oct. 5, 1994, 108 Stat. 2822, 2823; Pub. L. 104–106, div. A, title IX, §§902(a), 903(b), (e)(2), Feb. 10, 1996, 110 Stat. 401, 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 105–261, div. A, title IX, §§901(a), 902, Oct. 17, 1998, 112 Stat. 2091; Pub. L. 106–398, §1 \[\[div. A\], title IX, §901\], Oct. 30, 2000, 114 Stat. 1654, 1654A–223; Pub. L. 107–107, div. A, title IX, §901(c)(1), Dec. 28, 2001, 115 Stat. 1194; Pub. L. 107–314, div. A, title IX, §902(a), (c), (d), Dec. 2, 2002, 116 Stat. 2620, 2621; Pub. L. 109–364, div. A, title IX, §901(a), Oct. 17, 2006, 120 Stat. 2350.)
+(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §136; amended Pub. L. 90–168, §2(1), (2), Dec. 1, 1967, 81 Stat. 521; Pub. L. 91–121, title IV, §404(a), Nov. 19, 1969, 83 Stat. 207; Pub. L. 92–215, §1, Dec. 22, 1971, 85 Stat. 777; Pub. L. 92–596, §4(2), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §3(a), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 96–107, title VIII, §820(a), Nov. 9, 1979, 93 Stat. 819; Pub. L. 98–94, title XII, §1212(a), Sept. 24, 1983, 97 Stat. 686; Pub. L. 99–433, title I, §§106, 110(d)(9), Oct. 1, 1986, 100 Stat. 997, 1003; Pub. L. 99–500, §101(c) \[title IX, §9115(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(a), Nov. 14, 1986, 100 Stat. 3983; Pub. L. 100–180, div. A, title XII, §1211(a)(1), Dec. 4, 1987, 101 Stat. 1154; Pub. L. 100–453, title VII, §702, Sept. 29, 1988, 102 Stat. 1912; Pub. L. 100–456, div. A, title VII, §701, Sept. 29, 1988, 102 Stat. 1992; renumbered §138 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(1), (c), 903(c)(1), 905, Nov. 30, 1993, 107 Stat. 1726, 1727, 1729; Pub. L. 103–337, div. A, title IX, §§901(a), 903(b)(2), Oct. 5, 1994, 108 Stat. 2822, 2823; Pub. L. 104–106, div. A, title IX, §§902(a), 903(b), (e)(2), Feb. 10, 1996, 110 Stat. 401, 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 105–261, div. A, title IX, §§901(a), 902, Oct. 17, 1998, 112 Stat. 2091; Pub. L. 106–398, §1 \[\[div. A\], title IX, §901\], Oct. 30, 2000, 114 Stat. 1654, 1654A–223; Pub. L. 107–107,div. A, title IX, §901(c)(1), Dec. 28, 2001, 115 Stat. 1194; Pub. L. 107–314, div. A, title IX, §902(a), (c), (d), Dec. 2, 2002, 116 Stat. 2620, 2621; Pub. L. 109–364, div. A, title IX, §901(a), Oct. 17, 2006, 120 Stat. 2350; Pub. L. 111–84, div. A, title IX, §906(b)(2), Oct. 28, 2009, 123 Stat. 2426.)
 
 Historical and Revision Notes
 
@@ -124,6 +132,10 @@ Section 138(i) was renumbered successively as section 114(i) and section 114(d) 
 
 #### Amendments
 
+2009—Subsec. (a). Pub. L. 111–84, §906(b)(2)(A), added subsec. (a) and struck out former subsec. (a), which read as follows: “There are ten Assistant Secretaries of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate.”
+
+Subsec. (b)(6), (7). Pub. L. 111–84, §906(b)(2)(B), added pars. (6) and (7).
+
 2006—Subsec. (a). Pub. L. 109–364 substituted “ten” for “nine”.
 
 2002—Subsec. (a). Pub. L. 107–314, §902(d), which directed the repeal of Pub. L. 107–107, §901(c), was executed by substituting “nine” for “eight” to reflect the probable intent of Congress. See 2001 Amendment note below.
@@ -150,7 +162,7 @@ Subsec. (b)(3). Pub. L. 105–261, §902, struck out par. (3) which read as foll
 
 “(B) Notwithstanding subparagraph (A), one of the Assistant Secretaries established by the Secretary of Defense may be an Assistant Secretary of Defense for Intelligence, who shall have as his principal duty the overall supervision of intelligence affairs of the Department of Defense.
 
-“(C) If the Secretary of Defense establishes an Assistant Secretary of Defense for Intelligence, the AssistantSecretary provided for under subparagraph (A) shall be the Assistant Secretary of Defense for Command, Control, and Communications and shall have as his principal duty the overall supervision of command, control, and communications affairs of the Department of Defense.”
+“(C) If the Secretary of Defense establishes an Assistant Secretary of Defense for Intelligence, the Assistant Secretary provided for under subparagraph (A) shall be the Assistant Secretary of Defense for Command, Control, and Communications and shall have as his principal duty the overall supervision of command, control, and communications affairs of the Department of Defense.”
 
 1996—Subsec. (a). Pub. L. 104–106, §902(a), substituted “ten” for “eleven”.
 
@@ -232,7 +244,7 @@ Section 7 of Pub. L. 90–168 provided that: “The provisions of this Act \[see
 
 #### Short Title of 1967 Amendment
 
-Section 1 of Pub. L. 90–168 provided: “That this Act \[amending this section, sections 175, 262, 264, 268, 269, 270, 511 \[now 12103\], 3014, 5034, 8014, and 8850 of this title, section 502 of Title 32, National Guard, and section 404 of Title 37, Pay and Allowances of the Uniformed Services, enacting sections 3021 \[now 10302\], 3038, 8021 \[now 10305\], and 8038 of this title, enacting provisions set out as notes under this section and section 8212 of this title, and amending provisions set out as a note undersection 113 of this title\] may be cited as the ‘Reserve Forces Bill of Rights and Vitalization Act’.”
+Section 1 of Pub. L. 90–168 provided: “That this Act \[amending this section, sections 175, 262, 264, 268, 269, 270, 511 \[now 12103\], 3014, 5034, 8014, and 8850 of this title, section 502 of Title 32, National Guard, and section 404 of Title 37, Pay and Allowances of the Uniformed Services, enacting sections 3021 \[now 10302\], 3038, 8021 \[now 10305\], and 8038 of this title, enacting provisions set out as notes under this section and section 8212 of this title, and amending provisions set out as a note under section 113 of this title\] may be cited as the ‘Reserve Forces Bill of Rights and Vitalization Act’.”
 
 #### Charter of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict
 

@@ -34,7 +34,7 @@ Section was enacted as part of the John Warner National Defense Authorization Ac
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–181, div. A, title X, §1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(11) of Pub. L. 110–181 is effective as of October. 17, 2006, and as if included in Pub. L. 109–364 as enacted.
+Pub. L. 110–181, div. A, title X, §1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(11) of Pub. L. 110–181 is effective as of Oct. 17, 2006, and as if included in Pub. L. 109–364 as enacted.
 
 #### “Congressional Defense Committees” defined
 

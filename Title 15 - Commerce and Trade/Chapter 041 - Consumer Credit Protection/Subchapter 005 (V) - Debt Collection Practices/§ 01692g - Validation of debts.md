@@ -2,7 +2,7 @@
 
 #### (a) Notice of debt; contents
 
-Within five days after the initial communication with a consumer in connection with thecollection of any debt, a debt collector shall, unless the following information is contained in the initial communication or the consumer has paid the debt, send the consumer a written notice containing—
+Within five days after the initial communication with a consumer in connection with the collection of any debt, a debt collector shall, unless the following information is contained in the initial communication or the consumer has paid the debt, send the consumer a written notice containing—
 
 &emsp;(1) the amount of the debt;
 

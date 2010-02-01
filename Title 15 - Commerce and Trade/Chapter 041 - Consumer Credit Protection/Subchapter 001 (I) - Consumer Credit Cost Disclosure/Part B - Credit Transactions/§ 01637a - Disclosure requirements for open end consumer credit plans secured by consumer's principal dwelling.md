@@ -32,7 +32,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 &emsp;&emsp;(D) a statement that the consumer should ask about the current index value and interest rate;
 
-&emsp;&emsp;(E) a statement of the maximum amount by which the annual percentage rate may change in any 1-year period or a statement that no such limit exists;
+&emsp;&emsp;(E) a statement of the maximum amount by which the annual percentage rate maychange in any 1-year period or a statement that no such limit exists;
 
 &emsp;&emsp;(F) a statement of the maximum annual percentage rate that may be imposed at any time under the plan;
 
@@ -84,7 +84,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 &emsp;&emsp;A statement that—
 
-&emsp;&emsp;&emsp;(i) the consumer may elect not to enter into an agreement to open an account under the plan if any term changes (otherthan a change contemplated by a variable feature of the plan) before any such agreement is final; and
+&emsp;&emsp;&emsp;(i) the consumer may elect not to enter into an agreement to open an account under the plan if any term changes (other than a change contemplated by a variable feature of the plan) before any such agreement is final; and
 
 &emsp;&emsp;&emsp;(ii) if the consumer makes an election described in clause (i), the consumer is entitled to a refund of all fees paid in connection with the application.
 
@@ -120,7 +120,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 #### (10) Statement concerning balloon payments
 
-&emsp;If, under any repayment option of the plan, the payment of not more than the minimum periodic payments required under such option over the length of the repayment period—
+&emsp;If, under any repayment option of the plan, the payment of not more than the minimumperiodic payments required under such option over the length of the repayment period—
 
 &emsp;&emsp;(A) would not repay any of the principal balance; or
 
@@ -206,7 +206,7 @@ In the case of an application to open an account under any open end consumer cre
 
 &emsp;(1) such person shall provide such consumer with—
 
-&emsp;&emsp;(A) the disclosures required under subsection (a) of this section with respect to such plan, in accordance with subsection (b) of this section; and
+&emsp;&emsp;(A) the disclosures required under subsection (a) of this section with respect tosuch plan, in accordance with subsection (b) of this section; and
 
 &emsp;&emsp;(B) the pamphlet required under subsection (e) of this section; or
 

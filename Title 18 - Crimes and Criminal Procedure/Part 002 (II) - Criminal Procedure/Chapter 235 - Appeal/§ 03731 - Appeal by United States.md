@@ -38,7 +38,7 @@ This section \[section 58\] corrects a typographical error in the second paragra
 
 Third par. Pub. L. 98–473, §205, inserted third par. relating to appeals from a decision or order, entered by a district court of the United States, granting the release of a person charged with or convicted of an offense, or denying a motion for revocation of, or modification of the conditions of, a decision or order granting release.
 
-1971—First par. Pub. L. 91–644, §14(a)(1), enacted provision for appeal to a court of appeals from decision,judgment, or order of district court dismissing an indictment or information as to any one or more counts, except that no appeal shall lie where double jeopardy prohibits further prosecution.
+1971—First par. Pub. L. 91–644, §14(a)(1), enacted provision for appeal to a court of appeals from decision, judgment, or order of district court dismissing an indictment or information as to any one or more counts, except that no appeal shall lie where double jeopardy prohibits further prosecution.
 
 Second par. Pub. L. 91–644, §14(a)(1), enacted provision for appeal to a court of appeals from decision or order of district court suppressing or excluding evidence or requiring the return of seized property in a criminal proceeding, not made after the defendant has been put in jeopardy and before the verdict or finding on an indictment or information, if the United States attorney certifies to the district court that the appeal is not taken for purpose of delay and that the evidence is a substantial proof of a fact material in the proceeding.
 

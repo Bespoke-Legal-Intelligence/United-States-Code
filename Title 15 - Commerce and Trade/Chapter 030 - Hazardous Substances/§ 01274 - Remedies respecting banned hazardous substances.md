@@ -28,7 +28,7 @@ If any article or substance sold in commerce is defined as a banned hazardous su
 
 > &emsp;whichever first occurs).
 
-> An order under this subsection may also require the person to whom it applies to submit a plan, satisfactory to the Commission, for taking the action which such person has elected to take. The Commission shall specify in the order the persons to whom refunds must be made if the person to whom the order is directed elects to take the action described in paragraph (3). If an order under this subsection is directed to more than one person, the Commission shall specify which person has the election under this subsection. An order under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, with respect to the article or substance with respect to which the order was issued.
+> An order under this subsection may also require the person to whom it applies to submit a plan, satisfactory to the Commission, for taking the action which such person has elected to take.The Commission shall specify in the order the persons to whom refunds must be made if the person to whom the order is directed elects to take the action described in paragraph (3). If an order under this subsection is directed to more than one person, the Commission shall specify which person has the election under this subsection. An order under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, with respect to the article or substance with respect to which the order was issued.
 
 #### (c) Discretionary remedial activities available to Commission; orders; contents
 
@@ -48,7 +48,7 @@ If any article or substance sold in commerce is defined as a banned hazardous su
 
 &emsp;(B) To replace such toy or article with a like or equivalent toy or article which does not contain a defect which creates a substantial risk of injury to children.
 
-&emsp;(C) To refund the purchase price of such toy or article (less a reasonable allowance for use, if such toy or article has been in the possession of the consumer for 1 year or more (i) at the time of public notice under paragraph\(1)(A), or (ii) at the time the consumer receives actual notice that the toy or article contains a defect which creates a substantial risk of injury to children, whichever first occurs).
+&emsp;(C) To refund the purchase price of such toy or article (less a reasonable allowance for use, if such toy or article has been in the possession of the consumer for 1 year or more (i) at the time of public notice under paragraph (1)(A), or (ii) at the time the consumer receives actual notice that the toy or article contains a defect which creates a substantial risk of injury to children, whichever first occurs).
 
 > An order under this paragraph may also require the person to whom it applies to submit a plan, satisfactory to the Commission, for taking the action which such person has elected to take. The Commission shall specify in the order the person to whom refunds must be made if the person to whom the order is directed elects to take the action described in subparagraph (C). If an order under this paragraph is directed to more than one person, the Commission shall specify which person has the election under this paragraph. An order under this paragraph may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, with respect to the toy or article with respect to which the order was issued.
 
@@ -64,7 +64,7 @@ An order under subsection (a), (b), or (c) of this section may be issued only af
 
 #### (f) “Manufacturer” defined
 
-For purposes of this section (1) the term “manufacturer” includes an importer for resale, and (2) a dealer who sells at wholesale an article or substance shall with respect to that sale be considered the distributor of that article or substance.
+For purposes of this section (1) the term “manufacturer” includes an importer for resale,and (2) a dealer who sells at wholesale an article or substance shall with respect to that sale be considered the distributor of that article or substance.
 
 #### (g) Cost-benefit analysis of notification or other action not required
 

@@ -80,7 +80,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(iii) involved larceny, theft, robbery, extortion, forgery, counterfeiting, fraudulent concealment, embezzlement, fraudulent conversion, or misappropriation of funds;
 
-&emsp;&emsp;(C) has violated any provision of any law enforced by the Customs Service or the rules or regulations issued under any such provision;
+&emsp;&emsp;(C) has violated any provision of any law enforced by the Customs Service or the rulesor regulations issued under any such provision;
 
 &emsp;&emsp;(D) has counseled, commanded, induced, procured, or knowingly aided or abetted the violations by any other person of any provision of any law enforced by the Customs Service, or the rules or regulations issued under any such provision;
 
@@ -130,7 +130,7 @@ As used in this section:
 
 #### (6) Failure to appeal
 
-&emsp;If an appeal is not filed within the time limits specified in this section, the decision bythe Secretary shall be final and conclusive. In the case of a monetary penalty imposed under subsection (d)(2)(B) of this section, if the amount is not tendered within 60 days after the decision becomes final, the license shall automatically be suspended until payment is made to the Customs Service.
+&emsp;If an appeal is not filed within the time limits specified in this section, the decision by the Secretary shall be final and conclusive. In the case of a monetary penalty imposed under subsection (d)(2)(B) of this section, if the amount is not tendered within 60 days after the decision becomes final, the license shall automatically be suspended until payment is made to the Customs Service.
 
 #### (f) Regulations by the Secretary
 

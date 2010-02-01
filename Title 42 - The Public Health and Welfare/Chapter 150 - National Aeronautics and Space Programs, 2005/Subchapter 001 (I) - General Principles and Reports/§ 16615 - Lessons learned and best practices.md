@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Administrator shall transmit to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an implementation plan describing NASA's approach for obtaining, implementing, and sharing lessons learned and best practices for its major programs and projects not later than 180 days afterDecember 30, 2005. The implementation plan shall be updated and maintained to ensure that it is current and consistent with the burgeoning culture of learning and safety that is emerging at NASA.
+The Administrator shall transmit to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an implementation plan describing NASA's approach for obtaining, implementing, and sharing lessons learned and best practices for its major programs and projects not later than 180 days after December 30, 2005. The implementation plan shall be updated and maintained to ensure that it is current and consistent with the burgeoning culture of learning and safety that is emerging at NASA.
 
 #### (b) Required content
 

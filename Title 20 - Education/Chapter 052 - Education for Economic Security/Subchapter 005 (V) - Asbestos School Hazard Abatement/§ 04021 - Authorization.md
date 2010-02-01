@@ -2,7 +2,7 @@
 
 #### (a) Amount; availability until expended
 
-(1) There are hereby authorized to be appropriated for the asbestos abatement program notmore than $200,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995. In addition, for such purposes and for each of such fiscal years there are authorized to be appropriated out of the Asbestos Trust Fund established by section 4022 of this title such sums as are contained in such trust fund in each of such fiscal years.
+(1) There are hereby authorized to be appropriated for the asbestos abatement program not more than $200,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995. In addition, for such purposes and for each of such fiscal years there are authorized to be appropriated out of the Asbestos Trust Fund established by section 4022 of this title such sums as are contained in such trust fund in each of such fiscal years.
 
 (2) The sums appropriated under this subchapter shall remain available until expended.
 
@@ -30,7 +30,7 @@
 
 #### References in Text
 
-The Toxic Substances Control Act, referred to in subsec. (b)(2)(A), (3)(A), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended. Title II of the Act, as added by Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2970, is classified generally to subchapter II (§2641 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
+The Toxic Substances Control Act, referred to in subsec. (b)(2)(A), (3)(A), is Pub. L. 94–469, Oct. 11, 1976, 90Stat. 2003, as amended. Title II of the Act, as added by Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2970, is classified generally to subchapter II (§2641 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
 #### Amendments
 

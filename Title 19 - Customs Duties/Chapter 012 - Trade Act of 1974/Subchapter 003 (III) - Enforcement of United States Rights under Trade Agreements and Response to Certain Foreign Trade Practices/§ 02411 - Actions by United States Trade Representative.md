@@ -150,7 +150,7 @@ For purposes of this subchapter—
 
 &emsp;(C)(i) Acts, policies, and practices of a foreign country described in subparagraph (B)(iii) shall not be treated as being unreasonable if the Trade Representative determines that—
 
-&emsp;&emsp;(I) the foreign country has taken, or is taking, actions that demonstrate a significant and tangible overall advancement in providing throughout the foreign country (including any designated zone within the foreign country) the rights and other standards described in the subclauses of subparagraph (B)(iii), or
+&emsp;&emsp;(I) the foreign country has taken, or is taking, actions that demonstrate a significant and tangible overall advancement inproviding throughout the foreign country (including any designated zone within the foreign country) the rights and other standards described in the subclauses of subparagraph (B)(iii), or
 
 &emsp;&emsp;(II) such acts, policies, and practices are not inconsistent with the level of economic development of the foreign country.
 
@@ -268,7 +268,7 @@ Sec. 2. <i>Rationale</i>: (a) This order finds that:
 
 (3) the overriding priority for responding to the crisis of HIV/AIDS in sub-Saharan Africa should be to improve public education and to encourage practices that will prevent further transmission and infection, and to stimulate development of the infrastructure necessary to deliver adequate health care services;
 
-(4) the United States should work with individual countries in sub-Saharan Africa to assist them in development of effective public education campaigns aimed at the prevention of HIV/AIDS transmission and infection, and to improve their health care infrastructure to promote improved access to quality health care for their citizens in general, and particularly with respect to the HIV/AIDS epidemic;
+(4) the United States should work with individual countries in sub-Saharan Africa to assist them in development of effective public education campaigns aimed at the prevention of HIV/AIDS transmission and infection, and to improve their health care infrastructure to promote improved access to quality health carefor their citizens in general, and particularly with respect to the HIV/AIDS epidemic;
 
 (5) an effective United States response to the crisis in sub-Saharan Africa must focus in the short term on preventive programs designed to reduce the frequency of new infections and remove the stigma of the disease, and should place a priority on basic health services that can be used to treat opportunistic infections, sexually transmitted infections, and complications associated with HIV/AIDS so as to prolong the duration and improve the quality of life of those with the disease;
 

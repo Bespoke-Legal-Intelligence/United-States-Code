@@ -18,7 +18,7 @@ There are hereby appropriated to the Inland Waterways Trust Fund amounts equival
 
 &emsp;Not more than 1/2 of the cost of any construction to which section 102(a) of the Water Resources Development Act of 1986 applies (as in effect on the date of the enactment of this section) may be paid from the Inland Waterways Trust Fund.
 
-(Added Pub. L. 99–662, title XIV, §1405(a), Nov. 17, 1986, 100 Stat. 4271; amended Pub. L. 99–499, title V, §521(b)(3), Oct. 17, 1986, 100 Stat. 1778; Pub. L. 100–647, title I, §1018(u)(18), Nov. 10, 1988, 102 Stat. 3591.)
+(Added Pub. L. 99–662, title XIV, §1405(a), Nov. 17, 1986, 100 Stat. 4271; amended Pub. L. 99–499, title V, §521(b)(3), Oct. 17, 1986, 100 Stat. 1778;Pub. L. 100–647, title I, §1018(u)(18), Nov. 10, 1988, 102 Stat. 3591.)
 
 #### References in Text
 

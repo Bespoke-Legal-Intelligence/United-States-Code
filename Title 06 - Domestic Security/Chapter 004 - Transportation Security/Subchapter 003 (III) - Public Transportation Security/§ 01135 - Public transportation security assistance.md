@@ -84,7 +84,7 @@ Not later than 90 days after August 3, 2007, the Secretary and the Secretary of 
 
 #### (e) Subject to certain terms and conditions
 
-Except as otherwise specifically provided in this section, a grant provided under this section shall be subject to the terms and conditions applicable to a grant made under section 5307 of title 49, as in effect on January 1, 2007, and such other terms and conditions as are determined necessary by the Secretary.
+Except as otherwise specifically provided in this section, a grant provided under this sectionshall be subject to the terms and conditions applicable to a grant made under section 5307 of title 49, as in effect on January 1, 2007, and such other terms and conditions as are determined necessary by the Secretary.
 
 #### (f) Limitation on uses of funds
 
@@ -122,7 +122,7 @@ The Secretary shall establish a process to require the return of any misspent gr
 
 &emsp;(B) $650,000,000 for fiscal year 2008, except that not more than 50 percent of such funds may be used for operational costs under subsection (b)(2);
 
-&emsp;(C) $750,000,000 for fiscal year 2009, except that not more than 30 percent of such fundsmay be used for operational costs under subsection (b)(2);
+&emsp;(C) $750,000,000 for fiscal year 2009, except that not more than 30 percent of such funds may be used for operational costs under subsection (b)(2);
 
 &emsp;(D) $900,000,000 for fiscal year 2010, except that not more than 20 percent of such funds may be used for operational costs under subsection (b)(2); and
 

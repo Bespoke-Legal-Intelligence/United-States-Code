@@ -124,11 +124,11 @@ In clause (4)(A) and (B), the word “grant” is substituted for “ ‘grant�
 
 In clause (4)(B), the words “a private, nonprofit community organization eligible to receive amounts under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.)” are substituted for “a community action agency under the Economic Opportunity Act of 1964, as amended” because of section 683(c)(2) of the Omnibus Budget Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 519).
 
-In clause (4)(C), the words “whether public or private” are omitted as surplus. The words “law of the United States” are substituted for “Federal laws” for consistency.
+In clause (4)(C), the words “whether public or private” are omitted as surplus. The words “law of theUnited States” are substituted for “Federal laws” for consistency.
 
 In clause (5), the words “head of a Federal agency” are omitted as unnecessary because heads of Federal agencies already have the authority to delegate.
 
-In clause (6), the words “local government” are substituted for “ ‘political subdivision’ or ‘local government’ ” for consistency in the revised title and to have only one defined term in the chapter. The words “unit of general local government” are substituted for “local unit of government, including specifically a county,municipality, city, town, township” to incorporate the definition in clause (9).
+In clause (6), the words “local government” are substituted for “ ‘political subdivision’ or ‘local government’ ” for consistency in the revised title and to have only one defined term in the chapter. The words “unit of general local government” are substituted for “local unit of government, including specifically a county, municipality, city, town, township” to incorporate the definition in clause (9).
 
 In clause (7), the words “public-purpose local government” are substituted for “public-purpose corporation or other strictly limited purpose political subdivision” to eliminate unnecessary words.
 

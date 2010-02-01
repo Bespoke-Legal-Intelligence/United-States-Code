@@ -48,7 +48,7 @@ The Council shall conduct its first meeting not later than 6 months after Octobe
 
 #### (f) Closed meetings
 
-Where necessary to prevent the public disclosure of non-public information which may be presented by a Council member, the Council may hold, at the discretion of the Chairman, a closed meeting which may exclude any individual who is not an officer or employee of the United States.
+Where necessary to prevent the public disclosure of non-public information which may be presented by a Council member, the Council may hold, at the discretion of the Chairman, aclosed meeting which may exclude any individual who is not an officer or employee of the United States.
 
 #### (g) Annual report
 

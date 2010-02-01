@@ -12,7 +12,7 @@ The following provisions contained in this section as originally enacted were om
 
 A provision that the selection of lands by the Secretary of the Interior should be within four months after the ratification of the agreement aforesaid; a provision, following the words of the present section reading “the two tribal governments” for the disposition of such other lands as might be embraced in a town site at that point; a provision that the deposit in the Treasury to the credit of the two tribes should be within ninety days after the selection of the land; and a provision for the appraisal of and reimbursement for all improvements lawfully upon the lands selected.
 
-A provision of the original text that the land should remain within the jurisdiction of the United States court for the southern district of the Indian Territory was changed to read as set out herein by virtue of sections 13 and 14 of the Oklahoma Enabling Act of June16, 1906, and the Executive Proclamation of Nov. 16, 1907, declaring the admission of Oklahoma to the Union.
+A provision of the original text that the land should remain within the jurisdiction of the United States court for the southern district of the Indian Territory was changed to read as set out herein by virtue of sections 13 and 14 of the Oklahoma Enabling Act of June 16, 1906, and the Executive Proclamation of Nov. 16, 1907, declaring the admission of Oklahoma to the Union.
 
 #### Amendments
 

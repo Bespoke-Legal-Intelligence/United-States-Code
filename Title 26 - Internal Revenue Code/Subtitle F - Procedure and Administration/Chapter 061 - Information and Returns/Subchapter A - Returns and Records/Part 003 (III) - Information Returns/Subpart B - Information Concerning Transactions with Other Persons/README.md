@@ -54,7 +54,7 @@ Subpart B—Information Concerning Transactions With Other Persons
 
 #### Amendments
 
-Pub. L. 110–343, div. B, title IV, §403(c)(3), (d)(3), Oct. 3, 2008, 122 Stat. 3858, 3860, added items 6045A and 6045B.
+2008—Pub. L. 110–343, div. B, title IV, §403(c)(3), (d)(3), Oct. 3, 2008, 122 Stat. 3858, 3860, added items 6045A and 6045B.
 
 Pub. L. 110–289, div. C, title III, §3091(d), July 30, 2008, 122 Stat. 2911, added item 6050W.
 
@@ -110,7 +110,7 @@ Pub. L. 98–21, title I, §121(f)(4), Apr. 20, 1983, 97 Stat. 84, added item 60
 
 1969—Pub. L. 91–172, title I, §121(e)(2), Dec. 30, 1969, 83 Stat. 548, added item 6050.
 
-1962—Pub. 87–834, §§7(i)(2), 19(g)(1), 20(d)(2), Oct. 16, 1962, 76 Stat. 989, 1058, 1063, substituted “payments of dividends and corporate earnings and profits” for “corporate dividends, earnings and profits” in item 6042, substituted “organization or reorganization of foreign corporations and as to acquisitions of their stock” for “creation or organization, or reorganization, of foreign corporations” in item 6046, inserted “payments of” in item 6044, and added items 6048 and 6049.
+1962—Pub. L. 87–834, §§7(i)(2), 19(g)(1), 20(d)(2), Oct. 16, 1962, 76 Stat. 989, 1058, 1063, substituted “payments of dividends and corporate earnings and profits” for “corporate dividends, earnings and profits” in item 6042, substituted “organization or reorganization of foreign corporations and as to acquisitions of their stock” for “creation or organization, or reorganization, of foreign corporations” in item 6046, inserted “payments of” in item 6044, and added items 6048 and 6049.
 
 Pub. L. 87–792, §7(m)(2), Oct. 10, 1962, 76 Stat. 831, added item 6047.
 

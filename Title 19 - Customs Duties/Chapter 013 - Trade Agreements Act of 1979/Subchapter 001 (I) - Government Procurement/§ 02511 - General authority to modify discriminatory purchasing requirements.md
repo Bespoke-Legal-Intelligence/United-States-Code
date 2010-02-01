@@ -264,7 +264,7 @@ Department of Labor
 
 Department of State
 
-Department of Transportation (The national security consideration currently applicable to the Department of Defense under the GATT Government Procurement Code is equally applicable under this Agreement to the Coast Guard)
+Department of Transportation (The national security consideration currently applicable to the Departmentof Defense under the GATT Government Procurement Code is equally applicable under this Agreement to the Coast Guard)
 
 Department of the Treasury
 

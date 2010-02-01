@@ -1,5 +1,9 @@
 ### SUBCHAPTER III—NATIONAL MORTGAGE ASSOCIATIONS
 
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “and” probably should appear instead of the comma.</i>
+
 
 ---
 

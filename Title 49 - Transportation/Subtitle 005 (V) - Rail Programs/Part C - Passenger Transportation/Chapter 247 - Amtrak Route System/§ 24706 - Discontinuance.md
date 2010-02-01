@@ -2,7 +2,7 @@
 
 (a)
 
-Notice of Discontinuance.—(1) Except as provided in subsection (b) of this section, at least 180 days before a discontinuance under section 24704 <sup>1</sup> or or <sup>2</sup> discontinuing service over aroute, Amtrak shall give notice of the discontinuance in the way Amtrak decides will give a State, a regional or local authority, or another person the opportunity to agree to share or assume the cost of any part of the train, route, or service to be discontinued.
+Notice of Discontinuance.—(1) Except as provided in subsection (b) of this section, at least 180 days before a discontinuance under section 24704 <sup>1</sup> or or <sup>2</sup> discontinuing service over a route, Amtrak shall give notice of the discontinuance in the way Amtrak decides will give a State, a regional or local authority, or another person the opportunity to agree to share or assume the cost of any part of the train, route, or service to be discontinued.
 
 (2) Notice of the discontinuance under section 24704 <sup>1</sup> or paragraph (1) shall be posted in all stations served by the train to be discontinued at least 14 days before the discontinuance.
 
@@ -96,7 +96,7 @@ In subsection (a)(1), the words “Except as provided in subsection (b) of this 
 
 In subsection (b)(1), before clause (A), the words “Notwithstanding the provisions of clause (ii)” are omitted as surplus. In clauses (A) and (B), the words “the benefit of” are omitted as surplus. In clause (A), the words “for such fiscal year” are omitted as surplus.
 
-In subsection (c)(1), before clause (A), the words “Amtrak or” are substituted for 45:565(c) (1st sentence words before 2d comma) to eliminate unnecessary words because operations in the basic system have begun. The words “whether occurring before, on, or after January 1, 1975” and “without being limited to, such provisions as may be necessary for” are omitted as surplus. In clause (A), the words “to such employees” are omitted as surplus.
+In subsection (c)(1), before clause (A), the words “Amtrak or” are substituted for 45:565(c) (1st sentencewords before 2d comma) to eliminate unnecessary words because operations in the basic system have begun. The words “whether occurring before, on, or after January 1, 1975” and “without being limited to, such provisions as may be necessary for” are omitted as surplus. In clause (A), the words “to such employees” are omitted as surplus.
 
 In subsection (c)(3), the words “section 11347 of this title” are substituted for and coextensive with “section 5(2)(f) of the Interstate Commerce Act” in section 405(b) of the Rail Passenger Service Act (Public Law 91–518, 84 Stat. 1337) on authority of section 3(b) of the Act of October 17, 1978 (Public Law 95–473, 92 Stat. 1466).
 
@@ -134,7 +134,7 @@ Notices.—Notwithstanding any arrangement in effect before the date of the enac
 
 “(b)
 
-National Mediation Board Efforts.—Except as provided in subsection (c), the National Mediation Board shall complete all efforts, with respect to thedispute described in subsection (a), under section 5 of the Railway Labor Act (45 U.S.C. 155) not later than 120 days after the date of the enactment of this Act \[Dec. 2, 1997\].
+National Mediation Board Efforts.—Except as provided in subsection (c), the National Mediation Board shall complete all efforts, with respect to the dispute described in subsection (a), under section 5 of the Railway Labor Act (45 U.S.C. 155) not later than 120 days after the date of the enactment of this Act \[Dec. 2, 1997\].
 
 “(c)
 

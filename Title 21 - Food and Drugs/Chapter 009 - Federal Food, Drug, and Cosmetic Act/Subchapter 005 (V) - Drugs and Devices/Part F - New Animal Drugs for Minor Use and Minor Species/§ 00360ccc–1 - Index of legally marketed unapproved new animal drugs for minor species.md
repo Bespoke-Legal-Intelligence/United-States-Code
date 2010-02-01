@@ -26,7 +26,7 @@ Any person intending to file a request under this section shall be entitled to o
 
 &emsp;(D) a description of the methods used in, and the facilities and controls used for, the manufacture, processing, and packing of such new animal drug;
 
-&emsp;(E) an environmental assessment that meets the requirements of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\], as amended, and as defined in 21 CFR Part 25, as it appears on August 2, 2004, and amended thereafter or information to support a categorical exclusion from the requirement to prepare an environmental assessment;
+&emsp;(E) an environmental assessment that meets the requirements of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\], as amended, and as defined in 21 CFR Part 25, as it appears on August 2, 2004, and amended thereafter or information to supporta categorical exclusion from the requirement to prepare an environmental assessment;
 
 &emsp;(F) information sufficient to support the conclusion that the proposed use of the new animal drug is safe under section 360b(d) of this title with respect to individuals exposed to the new animal drug through its manufacture or use; and
 

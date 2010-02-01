@@ -68,7 +68,7 @@ Every person making a return under subsection (a) or (b) shall furnish a copy of
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–280, which directed the amendment of section 6050L by adding subpars. (F) and (G) and concluding provisions and substituting “3 years” for “2 years” in introductory provisions without specifying the act to be amended, was executed to this section, which is section 6050L of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+2006—Subsec. (a)(1). Pub. L. 109–280, which directed the amendment of section 6050L by adding subpars. (F)and (G) and concluding provisions and substituting “3 years” for “2 years” in introductory provisions without specifying the act to be amended, was executed to this section, which is section 6050L of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
 2004—Pub. L. 108–357 amended section catchline and text generally, substituting provisions consisting of subsecs. (a) to (c) for provisions which, in subsec. (a) required return to be made by donee and set forth contents requirements, in subsec. (b) defined “charitable deduction property” for purposes of this section, in subsec. (c) required copy of return to be furnished to donor by donee, and in subsec. (d) defined “publicly traded securities”.
 

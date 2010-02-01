@@ -36,13 +36,13 @@ Improvements on leased properties.—The Administrator may make improvements to 
 
 (b)
 
-Certification of Necessity.—Except for Government money expended under this part or for a military purpose, Government money may be expended to acquire, establish, construct, operate, repair, alter, or maintain an air navigation facility only if the Administrator of the Federal Aviation Administration certifies in writing that the facility is reasonably necessary for use in air commerce or for the national defense. An interested person may apply for a certificate for a facility to be acquired, established, constructed, operated, repaired, altered, or maintained by or for the person.
+Certification of Necessity.—Except for Government money expended under this part or for a military purpose, Government money may be expended to acquire, establish, construct, operate, repair, alter, or maintain an air navigation facility only if the Administrator of the Federal Aviation Administration certifies in writing that the facility is reasonably necessary for use in air commerce or for the national defense. An interested person may apply for a certificate for a facility to be acquired, established,constructed, operated, repaired, altered, or maintained by or for the person.
 
 (c)
 
 Ensuring Conformity With Plans and Policies.—(1) To ensure conformity with plans and policies for, and allocation of, airspace by the Administrator of the Federal Aviation Administration under section 40103(b)(1) of this title, a military airport, military landing area, or missile or rocket site may be acquired, established, or constructed, or a runway may be altered substantially, only if the Administrator of the Federal Aviation Administration is given reasonable prior notice so that the Administrator of the Federal Aviation Administration may advise the appropriate committees of Congress and interested departments, agencies, and instrumentalities of the Government on the effect of the acquisition, establishment, construction, or alteration on the use of airspace by aircraft. A disagreement between the Administrator of the Federal Aviation Administration and the Secretary of Defense or the Administrator of the National Aeronautics and Space Administration may be appealed to the President for a final decision.
 
-(2) To ensure conformity, an airport or landing area not involving the expenditure of Government money may be established or constructed, or a runway may be altered substantially, only if the Administrator of the Federal Aviation Administration is given reasonable prior notice so that the Administrator may provide advice onthe effects of the establishment, construction, or alteration on the use of airspace by aircraft.
+(2) To ensure conformity, an airport or landing area not involving the expenditure of Government money may be established or constructed, or a runway may be altered substantially, only if the Administrator of the Federal Aviation Administration is given reasonable prior notice so that the Administrator may provide advice on the effects of the establishment, construction, or alteration on the use of airspace by aircraft.
 
 (d)
 
@@ -205,6 +205,10 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Strategy for Staffing, Hiring, and Training Flight Standards and Aircraft Certification Staff
+
+Pub. L. 111–117, div. A, title I, Dec. 16, 2009, 123 Stat. 3040, provided in part: “That not later than March 31 of each fiscal year hereafter, the Administrator \[of the Federal Aviation Administration\] shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year”.
 
 #### Pilot Program for Innovative Financing of Air Traffic Control Equipment
 

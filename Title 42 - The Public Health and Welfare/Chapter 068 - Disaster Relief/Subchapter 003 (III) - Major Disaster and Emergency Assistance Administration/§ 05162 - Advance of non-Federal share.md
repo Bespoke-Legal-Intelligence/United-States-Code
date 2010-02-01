@@ -10,7 +10,7 @@ The President may lend or advance to an eligible applicant or a State the portio
 
 &emsp;&emsp;(B) after incurring extraordinary costs as a result of a particular disaster; and
 
-&emsp;(2) the damages caused by such disasters or disaster are so overwhelming and severe thatit is not possible for the applicant or the State to assume immediately their financial responsibility under this chapter.
+&emsp;(2) the damages caused by such disasters or disaster are so overwhelming and severe that it is not possible for the applicant or the State to assume immediately their financial responsibility under this chapter.
 
 #### (b) Terms of loans and advances
 

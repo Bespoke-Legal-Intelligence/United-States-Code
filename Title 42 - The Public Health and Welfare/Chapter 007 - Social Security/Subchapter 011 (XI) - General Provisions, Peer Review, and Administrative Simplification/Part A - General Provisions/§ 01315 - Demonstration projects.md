@@ -24,7 +24,7 @@ In the case of any experimental, pilot, or demonstration project undertaken unde
 
 #### (c) Demonstration projects to test alternative definitions of unemployment
 
-(1)(A) The Secretary shall enter into agreements with up to 8 States submitting applications under this subsection for the purpose of conducting demonstration projects in suchStates to test and evaluate the use, with respect to individuals who received aid under part A of subchapter IV of this chapter in the preceding month (on the basis of the unemployment of the parent who is the principal earner), of a number greater than 100 for the number of hours per month that such individuals may work and still be considered to be unemployed for purposes of section 607 of this title. If any State submits an application under this subsection for the purpose of conducting a demonstration project to test and evaluate the total elimination of the 100-hour rule, the Secretary shall approve at least one such application.
+(1)(A) The Secretary shall enter into agreements with up to 8 States submitting applications under this subsection for the purpose of conducting demonstration projects in such States to test and evaluate the use, with respect to individuals who received aid under part A of subchapter IV of this chapter in the preceding month (on the basis of the unemployment of the parent who is the principal earner), of a number greater than 100 for the number of hours per month that such individuals may work and still be considered to be unemployed for purposes of section 607 of this title. If any State submits an application under this subsection for the purpose of conducting a demonstration project to test and evaluate the total elimination of the 100-hour rule, the Secretary shall approve at least one such application.
 
 (B) If any State with an agreement under this subsection so requests, the demonstration project conducted pursuant to such agreement may test and evaluate the complete elimination of the 100-hour rule and of any other durational standard that might be applied in defining unemployment for purposes of determining eligibility under section 607 of this title.
 
@@ -82,7 +82,7 @@ An application by the chief executive officer of a State for an extension of a w
 
 &emsp;(7) An extension of a waiver project under this subsection shall be subject to the final reporting and evaluation requirements of paragraphs (4) and (5) of subsection (e) of this section (taking into account the extension under this subsection with respect to any timing requirements imposed under those paragraphs).
 
-(Aug. 14, 1935, ch. 531, title XI, §1115, as added Pub. L. 87–543, title I, §122, July 25, 1962, 76 Stat. 192; amended Pub. L. 89–97, title I, §121(c)(3), July 30, 1965, 79 Stat. 352; Pub. L. 90–36, §2, June 29, 1967, 81 Stat. 94; Pub. L. 90–248, title II, §§241(c)(4), 247, Jan. 2, 1968, 81 Stat. 917, 918; Pub. L. 93–233, §18(z–2)(1)(B), Dec. 31, 1973, 87 Stat. 973; Pub. L. 93–647, §3(c), Jan. 4, 1975, 88 Stat. 2349; Pub. L. 95–216, title IV, §404, Dec. 20, 1977, 91 Stat. 1562; Pub. L. 97–35, title XXIII, §2353(g), Aug. 13, 1981, 95 Stat. 872; Pub. L. 98–369, div. B, title VI, §2663(e)(5), July 18, 1984, 98 Stat. 1168; Pub. L. 98–378, §10, Aug. 16, 1984, 98 Stat. 1317; Pub. L. 99–272, title XIV, §14001(b)(2), Apr. 7, 1986, 100 Stat. 328; Pub. L. 100–485, title V, §503, Oct. 13, 1988, 102 Stat. 2402; Pub. L. 104–193, title I, §108(g)(2), Aug. 22, 1996, 110 Stat. 2168; Pub. L. 105–33, title IV, §4757(a), Aug. 5, 1997, 111 Stat. 527; Pub. L. 106–554, §1(a)(6) \[title VII, §703(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–574.)
+(Aug. 14, 1935, ch. 531, title XI, §1115, as added Pub. L. 87–543, title I, §122, July 25, 1962, 76 Stat. 192; amended Pub. L. 89–97, title I, §121(c)(3), July 30, 1965, 79 Stat. 352; Pub. L. 90–36, §2, June 29, 1967, 81 Stat. 94; Pub. L. 90–248, title II, §§241(c)(4), 247, Jan. 2, 1968, 81 Stat. 917, 918; Pub. L. 93–233, §18(z–2)(1)(B), Dec. 31, 1973, 87 Stat. 973; Pub. L. 93–647, §3(c), Jan. 4, 1975, 88 Stat. 2349; Pub. L. 95–216, title IV, §404, Dec. 20, 1977, 91 Stat. 1562; Pub. L. 97–35, title XXIII, §2353(g),Aug. 13, 1981, 95 Stat. 872; Pub. L. 98–369, div. B, title VI, §2663(e)(5), July 18, 1984, 98 Stat. 1168; Pub. L. 98–378, §10, Aug. 16, 1984, 98 Stat. 1317; Pub. L. 99–272, title XIV, §14001(b)(2), Apr. 7, 1986, 100 Stat. 328; Pub. L. 100–485, title V, §503, Oct. 13, 1988, 102 Stat. 2402; Pub. L. 104–193, title I, §108(g)(2), Aug. 22, 1996, 110 Stat. 2168; Pub. L. 105–33, title IV, §4757(a), Aug. 5, 1997, 111 Stat. 527; Pub. L. 106–554, §1(a)(6) \[title VII, §703(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–574.)
 
 #### References in Text
 
@@ -230,7 +230,7 @@ Findings and Purpose.—(1) The Congress finds that—
 
 &emsp;“(D) there currently is no Federal program in place to address the unique and significant problems faced by today's teenagers.
 
-“(2) It is the purpose of the demonstration projects conducted under this section to provide programs in which a range of non-academic services (sports, recreation, the arts) and self-image counseling are provided to high-risk teenagers in order to reduce the rates of pregnancy, suicide, substance abuse, and school dropout among such teenagers.
+“(2) It is the purpose of the demonstration projects conducted under this section to provide programs in which a range of non-academic services (sports, recreation, the arts) and self-image counseling are providedto high-risk teenagers in order to reduce the rates of pregnancy, suicide, substance abuse, and school dropout among such teenagers.
 
 “(b)
 
@@ -330,7 +330,7 @@ Section 11 of Pub. L. 93–233 provided that:
 
 &emsp;“(3) such section 301 \[enacting subchapter XVI of this chapter\] had not been enacted, and
 
-&emsp;“(4) such State (for the month of January 1974 and any month thereafter) continued to have in effect the State plan (approved under title XVI \[subchapter XVI of this chapter\]) which was in effect for the month of October 1973, or the State plans (approved under titles I, X, and XIV of the Social Security Act \[subchapters I, X, and XIV of this chapter\]) which were in effect for such month, as the case may be.
+&emsp;“(4) such State (for the month of January 1974 and any month thereafter) continued to have in effect theState plan (approved under title XVI \[subchapter XVI of this chapter\]) which was in effect for the month of October 1973, or the State plans (approved under titles I, X, and XIV of the Social Security Act \[subchapters I, X, and XIV of this chapter\]) which were in effect for such month, as the case may be.
 
 “(b) With respect to individuals—
 

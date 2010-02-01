@@ -48,7 +48,37 @@ Multistate, State and Regional Transportation Planning.—The Secretary, in cons
 
 &emsp;(3) encourage groups of States and multi-State transportation entities to determine how short sea transportation can address congestion, bottlenecks, and other interstate transportation challenges.
 
-(Added Pub. L. 110–140, title XI, §1121(a), Dec. 19, 2007, 121 Stat. 1760.)
+(g)
+
+Grants.—
+
+&emsp;(1)
+
+In general.—The Secretary shall establish and implement a short sea transportation grant program to implement projects or components of a project designated under subsection (d).
+
+&emsp;(2)
+
+Applications.—In order to receive a grant under the program, an applicant shall—
+
+&emsp;&emsp;(A) submit an application to the Secretary, in such form and manner, at such time, and containing such information as the Secretary may require; and
+
+&emsp;&emsp;(B) demonstrate to the satisfaction of the Secretary that—
+
+&emsp;&emsp;&emsp;(i) the project is financially viable;
+
+&emsp;&emsp;&emsp;(ii) the funds received will be spent efficiently and effectively; and
+
+&emsp;&emsp;&emsp;(iii) a market exists for the services of the proposed project as evidenced by contracts or written statements of intent from potential customers.
+
+&emsp;(3)
+
+Non-federal share.—An applicant shall provide at least 20 percent of the project costs from non-Federal sources. In awarding grants under the program, the Secretary shall give a preference to those projects or components that present the most financially viable transportation services and require the lowest percentage Federal share of the costs.
+
+(Added Pub. L. 110–140, title XI, §1121(a), Dec. 19, 2007, 121 Stat. 1760; amended Pub. L. 111–84, div. C, title XXXV, §3515, Oct. 28, 2009, 123 Stat. 2724.)
+
+#### Amendments
+
+2009—Subsec. (g). Pub. L. 111–84 added subsec. (g).
 
 #### Effective Date
 

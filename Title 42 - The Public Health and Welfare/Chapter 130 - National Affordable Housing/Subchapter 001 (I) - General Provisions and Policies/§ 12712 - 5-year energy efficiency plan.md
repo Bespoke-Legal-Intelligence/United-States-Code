@@ -28,7 +28,7 @@ Section was enacted as part of title IX of the Cranston-Gonzalez National Afford
 
 #### Energy Assessment Report
 
-Section 944 of Pub. L. 101–625 directed Secretary of Housing and Urban Development to submit a report toCongress, not later than one year after Nov. 28, 1990, assessing any activity undertaken by the Secretary to increase energy efficiency in housing, such report to include an analysis of the Aug. 15, 1990, DOE-HUD program to expand energy efficiency and increase affordability of federally-assisted housing, and provided that in such report Secretary of Housing and Urban Development (in consultation with Secretary of Energy) was to establish, and include a description of, a standard measure by which changes over time in residential energy efficiency could be compared.
+Section 944 of Pub. L. 101–625 directed Secretary of Housing and Urban Development to submit a report to Congress, not later than one year after Nov. 28, 1990, assessing any activity undertaken by the Secretary to increase energy efficiency in housing, such report to include an analysis of the Aug. 15, 1990, DOE-HUD program to expand energy efficiency and increase affordability of federally-assisted housing, and provided that in such report Secretary of Housing and Urban Development (in consultation with Secretary of Energy) was to establish, and include a description of, a standard measure by which changes over time in residential energy efficiency could be compared.
 
 #### Uniform Mortgage Financing Plan for Energy Efficiency
 

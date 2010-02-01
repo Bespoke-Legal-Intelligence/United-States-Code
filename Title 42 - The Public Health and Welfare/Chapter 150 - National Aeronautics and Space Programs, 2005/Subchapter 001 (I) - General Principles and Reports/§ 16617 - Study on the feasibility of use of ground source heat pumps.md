@@ -16,7 +16,7 @@ The study shall examine—
 
 #### (c) Definition
 
-In this section, the term “ground source heat pump” means an electric-powered system that uses the Earth's relatively constant temperature to provide heating, cooling, or hot water.
+In this section, the term “ground source heat pump” means an electric-powered system thatuses the Earth's relatively constant temperature to provide heating, cooling, or hot water.
 
 (Pub. L. 109–155, title I, §109, Dec. 30, 2005, 119 Stat. 2913.)
 

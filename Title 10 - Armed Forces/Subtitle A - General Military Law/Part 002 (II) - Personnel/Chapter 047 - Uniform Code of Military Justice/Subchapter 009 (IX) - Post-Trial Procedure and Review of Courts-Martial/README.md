@@ -30,7 +30,7 @@
 
 1996—Pub. L. 104–106, div. A, title XI, §1133(a)(2), Feb. 10, 1996, 110 Stat. 466, added item 876b.
 
-1994—Pub. L. 103–337, div. A, title IX, §924(c)(4)(C), Oct. 5, 1994, 108 Stat. 2832, substituted “Court of Criminal Appeals” for “Court of Military Review” in item866 and “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in item 867.
+1994—Pub. L. 103–337, div. A, title IX, §924(c)(4)(C), Oct. 5, 1994, 108 Stat. 2832, substituted “Court of Criminal Appeals” for “Court of Military Review” in item 866 and “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in item 867.
 
 1990—Pub. L. 101–510, div. A, title XIV, §1484(i)(1), Nov. 5, 1990, 104 Stat. 1718, added item 867a.
 

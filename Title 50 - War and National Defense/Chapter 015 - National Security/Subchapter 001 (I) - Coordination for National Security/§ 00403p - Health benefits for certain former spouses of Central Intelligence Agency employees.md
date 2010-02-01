@@ -14,7 +14,7 @@ Except as provided in subsection (e) of this section, any individual—
 
 #### (b) Enrollment for health benefits
 
-(1) Any individual eligible for coverage under subsection (a) of this section may enroll in ahealth benefits plan for self alone or for self and family if, before the expiration of the six-month period beginning on October 1, 1986, and in accordance with such procedures as the Director of the Office of Personnel Management shall by regulation prescribe, such individual—
+(1) Any individual eligible for coverage under subsection (a) of this section may enroll in a health benefits plan for self alone or for self and family if, before the expiration of the six-month period beginning on October 1, 1986, and in accordance with such procedures as the Director of the Office of Personnel Management shall by regulation prescribe, such individual—
 
 &emsp;(A) files an election for such enrollment; and
 
@@ -76,13 +76,13 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(2). Pub. L. 108–458, §1071(b)(3)(B), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence” in introductory provisions.
+2004—Subsec. (b)(2). Pub. L. 108–458, §1071(b)(3)(B), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence” in introductory provisions.
 
 Subsec. (b)(3). Pub. L. 108–458, §1071(b)(3)(C), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence” in two places.
 
 Subsec. (c)(1)(B). Pub. L. 108–458, §1071(b)(2)(B), struck out “of Central Intelligence” after “Director”.
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–178, §203(c)(2)(A), substituted “subsection (e)” for “subsection (c)(1)” in introductory provisions.
+1993—Subsec. (a). Pub. L. 103–178, §203(c)(2)(A), substituted “subsection (e)” for “subsection (c)(1)” in introductory provisions.
 
 Subsecs. (c), (d). Pub. L. 103–178, §203(c)(1), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
 
@@ -92,7 +92,7 @@ Pub. L. 103–178, §203(c)(1)(A), redesignated subsec. (c) as (e). Former subse
 
 Subsecs. (f), (g). Pub. L. 103–178, §203(c)(1)(A), redesignated subsecs. (d) and (e) as (f) and (g), respectively.
 
-<b>1991</b>—Subsec. (c)(3). Pub. L. 102–88 added par. (3).
+1991—Subsec. (c)(3). Pub. L. 102–88 added par. (3).
 
 #### Effective Date of 2004 Amendment
 

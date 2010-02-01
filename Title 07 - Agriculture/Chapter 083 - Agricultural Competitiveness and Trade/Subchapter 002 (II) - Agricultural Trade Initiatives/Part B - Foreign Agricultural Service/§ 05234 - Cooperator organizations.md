@@ -14,7 +14,7 @@ Commodities made available to cooperator organizations under this section shall 
 
 #### (d) Conflicts of interest
 
-The Secretary shall take appropriate action to prevent conflicts of interest among cooperator organizations participating in the cooperator program.
+The Secretary shall take appropriate action to prevent conflicts of interest among cooperatororganizations participating in the cooperator program.
 
 #### (e) Evaluation
 

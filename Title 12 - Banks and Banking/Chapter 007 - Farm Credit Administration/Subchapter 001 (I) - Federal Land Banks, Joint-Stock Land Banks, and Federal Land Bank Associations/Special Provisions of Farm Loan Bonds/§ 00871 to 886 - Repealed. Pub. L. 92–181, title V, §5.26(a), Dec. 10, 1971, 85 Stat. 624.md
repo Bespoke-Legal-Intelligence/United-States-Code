@@ -30,5 +30,5 @@ Section 884, act July 17, 1916, ch. 245, title I, §21 (par.), as added Mar. 4, 
 
 Section 885, act July 17, 1916, ch. 245, title I, §21 (par.), as added Mar. 4, 1923, ch. 252, title III, §308, 42 Stat. 1476, covered proper charging of expenses of bond committee and of sale of bonds.
 
-Section 886, act July 17, 1916, ch. 245, title I, §21 (par.), as added Mar. 4, 1923, ch. 252, title III, §308, 42 Stat.1476, provided for compensation of members of bond committee.
+Section 886, act July 17, 1916, ch. 245, title I, §21 (par.), as added Mar. 4, 1923, ch. 252, title III, §308, 42 Stat. 1476, provided for compensation of members of bond committee.
 

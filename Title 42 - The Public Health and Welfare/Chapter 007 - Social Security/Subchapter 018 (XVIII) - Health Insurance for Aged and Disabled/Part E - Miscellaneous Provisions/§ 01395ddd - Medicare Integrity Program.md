@@ -64,7 +64,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (A) In general
 
-&emsp;&emsp;If the repayment, within 30 days by a provider of services or supplier, of an overpayment under this subchapter would constitute a hardship (as described in subparagraph (B)), subject to subparagraph (C), upon request of the provider of services or supplier the Secretary shall enter into a plan with the provider of services or supplier for the repayment (through offset or otherwise) of such overpayment over a period of at least 6 months but not longer than 3 years (or not longer than 5 years in the case of extreme hardship, as determined by the Secretary).Interest shall accrue on the balance through the period of repayment. Such plan shall meet terms and conditions determined to be appropriate by the Secretary.
+&emsp;&emsp;If the repayment, within 30 days by a provider of services or supplier, of an overpayment under this subchapter would constitute a hardship (as described in subparagraph (B)), subject to subparagraph (C), upon request of the provider of services or supplier the Secretary shall enter into a plan with the provider of services or supplier for the repayment (through offset or otherwise) of such overpayment over a period of at least 6 months but not longer than 3 years (or not longer than 5 years in the case of extreme hardship, as determined by the Secretary). Interest shall accrue on the balance through the period of repayment. Such plan shall meet terms and conditions determined to be appropriate by the Secretary.
 
 #### (B) Hardship
 
@@ -104,7 +104,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a provider of services or supplier that is determined to have received an overpayment under this subchapter and that seeks a reconsideration by a qualified independent contractor on such determination under section 1395ff(b)(1) of this title, the Secretary may not take any action (or authorize any other person, including any medicare contractor, as defined in subparagraph (C)) to recoup the overpayment until the date the decision on the reconsideration has been rendered. If the provisions of section 1395ff(b)(1) of this title (providing for such a reconsideration by a qualified independent contractor) are not in effect, in applying the previous sentence any reference to such a reconsideration shall be treated as a reference to a redetermination by the fiscal intermediary or carrier involved.
+&emsp;&emsp;In the case of a provider of services or supplier that is determined to have received anoverpayment under this subchapter and that seeks a reconsideration by a qualified independent contractor on such determination under section 1395ff(b)(1) of this title, the Secretary may not take any action (or authorize any other person, including any medicare contractor, as defined in subparagraph (C)) to recoup the overpayment until the date the decision on the reconsideration has been rendered. If the provisions of section 1395ff(b)(1) of this title (providing for such a reconsideration by a qualified independent contractor) are not in effect, in applying the previous sentence any reference to such a reconsideration shall be treated as a reference to a redetermination by the fiscal intermediary or carrier involved.
 
 #### (B) Collection with interest
 
@@ -174,7 +174,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (A) Written notice for post-payment audits
 
-&emsp;&emsp;Subject to subparagraph (C), if a medicare contractor decides to conduct a post-payment audit of a provider of services or supplier under this subchapter, the contractor shall provide the provider of services or supplier with written notice (which may be in electronic form) of the intent to conduct such an audit.
+&emsp;&emsp;Subject to subparagraph (C), if a medicare contractor decides to conduct a post-payment audit of a provider of services or supplier under this subchapter, the contractorshall provide the provider of services or supplier with written notice (which may be in electronic form) of the intent to conduct such an audit.
 
 #### (B) Explanation of findings for all audits
 
@@ -208,7 +208,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 &emsp;&emsp;&emsp;(ii) working with States, the Attorney General, and the Inspector General of the Department of Health and Human Services to coordinate appropriate actions to protect the Federal and State share of expenditures under the Medicaid program under subchapter XIX, as well as the program established under this subchapter; and
 
-&emsp;&emsp;&emsp;(iii) increasing the effectiveness and efficiency of both such programs through costavoidance, savings, and recoupments of fraudulent, wasteful, or abusive expenditures.
+&emsp;&emsp;&emsp;(iii) increasing the effectiveness and efficiency of both such programs through cost avoidance, savings, and recoupments of fraudulent, wasteful, or abusive expenditures.
 
 #### (B) Reporting requirements
 
@@ -280,7 +280,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### References in Text
 
-Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec.\(d)(2)(B), is section 202(b) of Pub. L. 104–191, which amended sections 1395h and 1395u of this title.
+Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (d)(2)(B), is section 202(b) of Pub. L. 104–191, which amended sections 1395h and 1395u of this title.
 
 Parts A and B, referred to in subsec. (h)(1), (2), (4), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
 

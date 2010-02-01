@@ -12,7 +12,7 @@ The purpose and duties of DTS-PO shall be to carry out a program for the establi
 
 #### References in Text
 
-Public Law 102–140, referred to in subsec. (a), is Pub. L. 102–140, Oct. 28, 1991, 105 Stat. 782, as amended. Title V of the Act is not classified to the Code. For complete classification of this Act to the Code, see Tables.
+Public Law 102–140, referred to in subsec. (a), is Pub. L. 102–140, Oct. 28, 1991, 105 Stat. 782, as amended. TitleV of the Act is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 #### Suspension of Reorganization of Diplomatic Telecommunications Service Program Office
 
@@ -50,5 +50,5 @@ Funding of DTS-PO.—Funds appropriated for allocation to DTS-PO shall be made a
 
 “(e)
 
-Appropriate Committees of Congress Defined.—In this section, the term ‘appropriate committees of Congress’ means the Committee on International Relations \[now Committee on Foreign Affairs\] and the Permanent Select Committee on Intelligenceof the House of Representatives and the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate.”
+Appropriate Committees of Congress Defined.—In this section, the term ‘appropriate committees of Congress’ means the Committee on International Relations \[now Committee on Foreign Affairs\] and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate.”
 

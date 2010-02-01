@@ -6,7 +6,7 @@ No State may enforce, or attempt to enforce, any State law or regulation relatin
 
 #### (b) Findings prerequisite to transfer of authority; State program; implementation
 
-(1) Subject to paragraph (2) and subsection (f) of this section, the Secretary shall transfer management authority for a species of marine mammal to a State if the Secretary finds, after notice and opportunity for public comment, that the State has developed and will implement a program for the conservation and management of the species that—
+(1) Subject to paragraph (2) and subsection (f) of this section, the Secretary shall transfer management authority for a species of marine mammal to a State if the Secretary finds, afternotice and opportunity for public comment, that the State has developed and will implement a program for the conservation and management of the species that—
 
 &emsp;(A) is consistent with the purposes, policies, and goals of this chapter and with international treaty obligations;
 
@@ -46,7 +46,7 @@ No State may enforce, or attempt to enforce, any State law or regulation relatin
 
 &emsp;&emsp;(i) incidentally in the course of commercial fishing operations (whether provided for under section 1371(a)(2) or (4) of this title), or in the course of other specified activities provided for under section 1371(a)(5) of this title, in the zone described in section 1362(14)(B) <sup>1</sup> of this title, and
 
-&emsp;&emsp;(ii) for scientific research, public display, or enhancing the survival or recovery of a species or stock (other than by, or on behalfof, the State), except that any taking authorized under a permit issued pursuant to section 1371(a)(1) of this title after October 9, 1981, allowing the removal of live animals from habitat within the State shall not be effective if the State agency disapproves, on or before the date of issuance of the permit, such taking as being inconsistent with the State program; and
+&emsp;&emsp;(ii) for scientific research, public display, or enhancing the survival or recovery of a species or stock (other than by, or on behalf of, the State), except that any taking authorized under a permit issued pursuant to section 1371(a)(1) of this title after October 9, 1981, allowing the removal of live animals from habitat within the State shall not be effective if the State agency disapproves, on or before the date of issuance of the permit, such taking as being inconsistent with the State program; and
 
 &emsp;(C) section 1371(b) of this title shall not apply.
 
@@ -62,7 +62,7 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 &emsp;&emsp;(B) cross-examine persons presenting evidence at the hearing.
 
-> &emsp;The State agency must give public notice of the hearing and make available to the public within a reasonable time before commencing the hearing a list of the witnesses for the State and a general description of the documentation and other evidence that will be relied upon by such witnesses.
+> &emsp;The State agency must give public notice of the hearing and make available to the publicwithin a reasonable time before commencing the hearing a list of the witnesses for the State and a general description of the documentation and other evidence that will be relied upon by such witnesses.
 
 &emsp;(3) The State agency, solely on the basis of the record developed at a hearing held pursuant to paragraph (2), must make a decision regarding its initial determination under paragraph (1) and shall include with the record a statement of the findings and conclusions, and the reason or basis therefor, on all material issues.
 
@@ -86,7 +86,7 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 &emsp;&emsp;(I) the Secretary provides opportunity for consultation between him and the State concerning such State actions or failures to act and the remedial measures that should be taken by the State, and
 
-&emsp;&emsp;(II) the State does not take such remedial measures as are necessary, in the judgmentof the Secretary, to bring its conservation and management program, or the administration or enforcement of the program, into compliance with the provisions of this section.
+&emsp;&emsp;(II) the State does not take such remedial measures as are necessary, in the judgment of the Secretary, to bring its conservation and management program, or the administration or enforcement of the program, into compliance with the provisions of this section.
 
 (B) When a revocation by the Secretary of a transfer of management authority to a State becomes final, or the State voluntarily returns management authority to the Secretary, the Secretary shall regulate the taking, and provide for the conservation and management, of the species within the State in accordance with the provisions of this chapter (and in the case of Alaskan Natives, section 1371(b) of this title and subsection (i) of this section shall apply upon such revocation or return of management authority).
 
@@ -108,7 +108,7 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 &emsp;&emsp;&emsp;(III) the availability of alternative resources; and
 
-&emsp;(B) the State has adopted a statute or regulation that requires that any consumptive use of marine mammal species, other than for subsistence uses, will be authorized during a regulatory year only if the appropriate agency first makes findings, based on an administrative record before it, that—
+&emsp;(B) the State has adopted a statute or regulation that requires that any consumptive useof marine mammal species, other than for subsistence uses, will be authorized during a regulatory year only if the appropriate agency first makes findings, based on an administrative record before it, that—
 
 &emsp;&emsp;(i) such use will have no significant adverse impact upon subsistence uses of the species, and
 
@@ -154,7 +154,7 @@ The Secretary may make grants to States to assist them—
 
 &emsp;(2) in administering such programs if management authority for such species is transferred to the State under such subsection.
 
-> Grants made under this subsection may not exceed 50 per centum of the costs of developing aState program before Secretarial approval, or of administering the program thereafter.
+> Grants made under this subsection may not exceed 50 per centum of the costs of developing a State program before Secretarial approval, or of administering the program thereafter.
 
 #### (k) Delegation of administration and enforcement to States
 
@@ -172,7 +172,7 @@ The Secretary is authorized and directed to enter into cooperative arrangements 
 
 Section 1362(14) of this title, referred to in subsecs. (b)(3)(B)(i) and (d), was redesignated section 1362(15) by Pub. L. 102–582, title IV, §401(a), Nov. 2, 1992, 106 Stat. 4909.
 
-The Regulatory Flexibility Act, referred to in subsec. (d)(2), is Pub. L. 96–354, Sept. 19, 1980, 94 Stat. 1164, which is classified generally to chapter 6 (§601 et seq.) of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 5 and Tables.
+The Regulatory Flexibility Act, referred to in subsec. (d)(2), is Pub. L. 96–354, Sept. 19, 1980, 94 Stat. 1164,which is classified generally to chapter 6 (§601 et seq.) of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 5 and Tables.
 
 The Paperwork Reduction Act, referred to in subsec. (d)(2), probably means the Paperwork Reduction Act of 1980, Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which was classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by the Paperwork Reduction Act of 1995, Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
 

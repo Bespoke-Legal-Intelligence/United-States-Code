@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 June 27, 1944, ch. 287, §5 (1st 2 sentences, less so much as relates to promotion, retention, and transfer), 58 Stat. 388.
 
-The section is restated for clarity and conciseness. The words “for which examination is given” and “for which the examination is given” are omitted as surplusage. The application of this section to the excepted service in the executive branch and the government of the District of Columbia is preserved by section 3320.
+The section is restated for clarity and conciseness. The words “for which examination is given” and “for which the examination is given” are omitted as surplusage. The application of this section to the exceptedservice in the executive branch and the government of the District of Columbia is preserved by section 3320.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

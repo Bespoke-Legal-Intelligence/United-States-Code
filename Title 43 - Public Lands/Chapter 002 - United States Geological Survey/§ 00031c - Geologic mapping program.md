@@ -22,11 +22,11 @@
 
 &emsp;The Survey shall be the lead Federal agency responsible for planning, developing national priorities and standards for, coordinating, and managing the geologic mapping program. In carrying out this paragraph, the Secretary, acting through the Director, shall—
 
-&emsp;&emsp;(A) develop a 5-year strategic plan for the geologic mapping program in accordance with section 31e of this title, which plan shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 1 year after December 9, 1999;
+&emsp;&emsp;(A) develop a 5-year strategic plan for the geologic mapping program in accordance with section 31e of this title, which plan shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 1 year after March 30, 2009;
 
-&emsp;&emsp;(B) appoint, with the advice and consultation of the Association, the advisory committee not later than 1 year after December 9, 1999, in accordance with section 31d of this title; and
+&emsp;&emsp;(B) appoint, with the advice and consultation of the Association, the advisory committee not later than 1 year after March 30, 2009, in accordance with section 31d of this title; and
 
-&emsp;&emsp;(C) not later than 3 years after December 9, 1999, and biennially thereafter, submit a report to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Resources of the House of Representatives identifying—
+&emsp;&emsp;(C) submit biennially a report to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Resources of the House of Representatives identifying—
 
 &emsp;&emsp;&emsp;(i) how the Survey and the Association are coordinating the development and implementation of the geologic mapping program;
 
@@ -48,7 +48,7 @@ The objectives of the geologic mapping program shall include—
 
 &emsp;(1) determining the Nation's geologic framework through systematic development of geologic maps at scales appropriate to the geologic setting and the perceived applications, such maps to be contributed to the national geologic map data base;
 
-&emsp;(2) development of a complementary national geophysical-map data base, geochemical-map data base, and a geochronologic and paleontologic data base that provide value-added descriptive and interpretative information to the geologic-map data base;
+&emsp;(2) development of a complementary national geochronologic and paleontologic database that provides value-added descriptive and interpretative information to the geologic-map data base;
 
 &emsp;(3) application of cost-effective mapping techniques that assemble, produce, translate and disseminate geologic-map information and that render such information of greater application and benefit to the public; and
 
@@ -70,9 +70,11 @@ The objectives of the geologic mapping program shall include—
 
 &emsp;&emsp;&emsp;(ii) shall be based on—
 
-&emsp;&emsp;&emsp;&emsp;(I) national requirements for geologic map information in areas of multiple-issue need or areas of compelling single-issue need; and
+&emsp;&emsp;&emsp;&emsp;(I) national requirements for geologic map information in areas of multiple-issue need or areas of compelling single-issue need;
 
-&emsp;&emsp;&emsp;&emsp;(II) national requirements for geologic map information in areas where mapping is required to solve critical earth science problems.
+&emsp;&emsp;&emsp;&emsp;(II) national requirements for geologic map information in areas where mapping is required to solve critical earth science problems; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the needs of land management agencies of the Department of the Interior.
 
 #### (C) Interdisciplinary studies
 
@@ -154,9 +156,19 @@ The objectives of the geologic mapping program shall include—
 
 &emsp;&emsp;The Federal share of the cost of activities under the education component for any fiscal year shall not exceed 50 percent.
 
-(Pub. L. 102–285, §4, May 18, 1992, 106 Stat. 167; Pub. L. 103–437, §16(a)(1), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 105–36, §3(b), Aug. 5, 1997, 111 Stat. 1108; Pub. L. 106–148, §4, Dec. 9, 1999, 113 Stat. 1720.)
+(Pub. L. 102–285, §4, May 18, 1992, 106 Stat. 167; Pub. L. 103–437, §16(a)(1), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 105–36, §3(b), Aug. 5, 1997, 111 Stat. 1108; Pub. L. 106–148, §4, Dec. 9, 1999, 113 Stat. 1720; Pub. L. 111–11, title XI, §11001(c)–(e), Mar. 30, 2009, 123 Stat. 1414, 1415.)
 
 #### Amendments
+
+2009—Subsec. (b)(1)(A). Pub. L. 111–11, §11001(c)(1), substituted “not later than 1 year after March 30, 2009;” for “not later than 1 year after December 9, 1999;”.
+
+Subsec. (b)(1)(B). Pub. L. 111–11, §11001(c)(2), substituted “not later than 1 year after March 30, 2009, in accordance” for “not later than 1 year after December 9, 1999, in accordance”.
+
+Subsec. (b)(1)(C). Pub. L. 111–11, §11001(c)(3), substituted “submit biennially” for “not later than 3 years after December 9, 1999, and biennially thereafter, submit” in introductory provisions.
+
+Subsec. (c)(2). Pub. L. 111–11, §11001(d), struck out “geophysical-map data base, geochemical-map data base, and a” after “national” and substituted “provides” for “provide”.
+
+Subsec. (d)(1)(B)(ii)(III). Pub. L. 111–11, §11001(e), added subcl. (III).
 
 1999—Subsec. (b)(1). Pub. L. 106–148, §4(1)(A), substituted “national priorities and standards for” for “priorities” in first sentence.
 

@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(D) the admission into the United States of the foreign student or exchange visitor program participant;
 
-&emsp;&emsp;(E) the notification to an approved institution of higher education, other approved educational institution, or exchange visitorprogram sponsor that the foreign student or exchange visitor participant has been admitted into the United States;
+&emsp;&emsp;(E) the notification to an approved institution of higher education, other approved educational institution, or exchange visitor program sponsor that the foreign student or exchange visitor participant has been admitted into the United States;
 
 &emsp;&emsp;(F) the registration and enrollment of that foreign student in such approved institution of higher education or other approved educational institution, or the participation of that exchange visitor in such designated exchange visitor program, as the case may be; and
 
@@ -48,7 +48,7 @@ The Attorney General, in consultation with the Secretary of State, shall designa
 
 &emsp;&emsp;(A) the identity and current address in the United States of the alien;
 
-&emsp;&emsp;(B) the nonimmigrant classification of the alien and the date on which a visa under the classification was issued or extended or the date on which a change to such classification was approved by the Attorney General;
+&emsp;&emsp;(B) the nonimmigrant classification of the alien and the date on which a visa under theclassification was issued or extended or the date on which a change to such classification was approved by the Attorney General;
 
 &emsp;&emsp;(C) in the case of a student at an approved institution of higher education, or other approved educational institution,,<sup>1</sup> the current academic status of the alien, including whether the alien is maintaining status as a full-time student or, in the case of a participant in a designated exchange visitor program, whether the alien is satisfying the terms and conditions of such program;
 
@@ -92,7 +92,7 @@ The Attorney General, in consultation with the Secretary of State, shall designa
 
 &emsp;&emsp;(A) in the case of an approved institution of higher education, or other approved educational institution,,<sup>1</sup> the continued approval of the institution under subparagraph (F) or (M) of section 1101(a)(15) of this title; and
 
-&emsp;&emsp;(B) in the case of an approved institution of higher education or a designated exchange visitor program, the granting of authority to issue documents to an alien demonstratingthe alien's eligibility for a visa under subparagraph (F), (J), or (M) of section 1101(a)(15) of this title.
+&emsp;&emsp;(B) in the case of an approved institution of higher education or a designated exchange visitor program, the granting of authority to issue documents to an alien demonstrating the alien's eligibility for a visa under subparagraph (F), (J), or (M) of section 1101(a)(15) of this title.
 
 #### (2) Effect of failure to provide information
 

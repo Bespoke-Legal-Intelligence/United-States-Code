@@ -14,7 +14,7 @@
 
 (3) If any Federal agency does not deposit in the Federal Employees Compensation Account any amount before the date 30 days after the date on which the Secretary of Labor has notified such agency that it is required to so deposit such amount, the Secretary of Labor shall notify the Secretary of the Treasury of the failure to make such deposit and the Secretary of the Treasury shall transfer such amount to the Federal Employees Compensation Account from amounts otherwise appropriated to such Federal agency.
 
-(d) The Secretary of Labor shall certify to the Secretary of the Treasury the amount of the deposit which each employing agency is requiredto make to the Account during any calendar quarter, and the Secretary of the Treasury shall notify the Secretary of Labor as to the date and amount of any deposit made to such Account by any such agency.
+(d) The Secretary of Labor shall certify to the Secretary of the Treasury the amount of the deposit which each employing agency is required to make to the Account during any calendar quarter, and the Secretary of the Treasury shall notify the Secretary of Labor as to the date and amount of any deposit made to such Account by any such agency.
 
 (e) Prior to the beginning of each fiscal year (commencing with the fiscal year which begins October 1, 1981) the Secretary of Labor shall estimate—
 

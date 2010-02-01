@@ -16,7 +16,7 @@
 
 (3) The operator of each coal mine shall maintain in permissible condition all electric face equipment required by this subsection to be permissible which is taken into or used inby the last open crosscut of any such mine.
 
-(4) Each operator of a coal mine shall, within two months after the operative date of this subchapter, file with the Secretary a statement listing all electric face equipment by type and manufacturer being used by such operator inconnection with mining operations in such mine as of the date of such filing, and stating whether such equipment is permissible and maintained in permissible condition or is nonpermissible on such date of filing, and, if nonpermissible, whether such nonpermissible equipment has ever been rated as permissible, and such other information as the Secretary may require.
+(4) Each operator of a coal mine shall, within two months after the operative date of this subchapter, file with the Secretary a statement listing all electric face equipment by type and manufacturer being used by such operator in connection with mining operations in such mine as of the date of such filing, and stating whether such equipment is permissible and maintained in permissible condition or is nonpermissible on such date of filing, and, if nonpermissible, whether such nonpermissible equipment has ever been rated as permissible, and such other information as the Secretary may require.
 
 (5) The Secretary shall promptly conduct a survey as to the total availability of new or rebuilt permissible electric face equipment and replacement parts for such equipment and, within six months after the operative date of this subchapter, publish the results of such survey.
 

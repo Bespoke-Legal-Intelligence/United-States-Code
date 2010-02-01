@@ -46,7 +46,7 @@ Subsec. (b)(6). Pub. L. 109–162, §114(b), added par. (6).
 
 “(1)
 
-Crossing a state line.—A person who travels across a State line or enters or leaves Indian countrywith the intent to injure, harass, or intimidate that person's spouse or intimate partner, and who, in the course of or as a result of such travel, intentionally commits a crime of violence and thereby causes bodily injury to such spouse or intimate partner, shall be punished as provided in subsection (b).
+Crossing a state line.—A person who travels across a State line or enters or leaves Indian country with the intent to injure, harass, or intimidate that person's spouse or intimate partner, and who, in the course of or as a result of such travel, intentionally commits a crime of violence and thereby causes bodily injury to such spouse or intimate partner, shall be punished as provided in subsection (b).
 
 “(2)
 

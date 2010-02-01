@@ -30,7 +30,7 @@ Subsec. (b)(2). Pub. L. 110–315, §461(2), substituted “2015” for “2003�
 
 Subsec. (b)(2). Pub. L. 105–244, §461(2), substituted “2003” for “1997” in two places.
 
-1992—Subsec. (a). Pub. L. 102–325, §461(a)(2), (b), inserted “or while engaged in programs of study abroad approved for credit by such institutions” after “in such institutions” and substituted “Federal Perkins Loans” for “Perkins Loans”.
+1992—Subsec. (a). Pub. L. 102–325, §461(a)(2), (b), inserted “or while engaged in programs of study abroadapproved for credit by such institutions” after “in such institutions” and substituted “Federal Perkins Loans” for “Perkins Loans”.
 
 Subsec. (b). Pub. L. 102–325, §461(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 

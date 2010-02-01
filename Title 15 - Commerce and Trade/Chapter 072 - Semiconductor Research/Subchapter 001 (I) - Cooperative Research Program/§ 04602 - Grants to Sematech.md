@@ -16,7 +16,7 @@ The Secretary of Defense shall enter into a memorandum of understanding with Sem
 
 &emsp;(2) That the total amount of funds made available to Sematech by Federal, State, and local government agencies for any fiscal year for the support of research and development activities of Sematech under this section may not exceed 50 percent of the total cost of such activities.
 
-&emsp;(3) That Sematech, in conducting research and development activities pursuant to the memorandum of understanding, cooperatewith and draw on the expertise of the national laboratories of the Department of Energy and of colleges and universities in the United States in the field of semiconductor manufacturing technology.
+&emsp;(3) That Sematech, in conducting research and development activities pursuant to the memorandum of understanding, cooperate with and draw on the expertise of the national laboratories of the Department of Energy and of colleges and universities in the United States in the field of semiconductor manufacturing technology.
 
 &emsp;(4) That an independent, commercial auditor be retained (A) to determine the extent to which the funds made available to Sematech by the United States for the research and development activities of Sematech have been expended in a manner that is consistent with the purposes of this subchapter, the charter of Sematech, and the annual operating plan of Sematech, and (B) to submit to the Secretary of Defense, Sematech, and the Comptroller General of the United States an annual report containing the findings and determinations of such auditor.
 

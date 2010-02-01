@@ -60,7 +60,7 @@ Not later than 90 days after December 17, 2004, the President shall select a sin
 
 &emsp;(3) serving as the final authority to designate an authorized investigative agency or authorized adjudicative agency;
 
-&emsp;(4) ensuring reciprocal recognition of access to classified information among the agencies of the United States Government, including acting as the final authority to arbitrate and resolve disputes involving the reciprocity ofsecurity clearances and access to highly sensitive programs pursuant to subsection (d) of this section;
+&emsp;(4) ensuring reciprocal recognition of access to classified information among the agencies of the United States Government, including acting as the final authority to arbitrate and resolve disputes involving the reciprocity of security clearances and access to highly sensitive programs pursuant to subsection (d) of this section;
 
 &emsp;(5) ensuring, to the maximum extent practicable, that sufficient resources are available in each agency to achieve clearance and investigative program goals; and
 
@@ -68,7 +68,7 @@ Not later than 90 days after December 17, 2004, the President shall select a sin
 
 #### (c) Performance of security clearance investigations
 
-(1) Notwithstanding any other provision of law, not later than 180 days after December 17, 2004, the President shall, in consultation with the head of the entity selected pursuant to subsection (b) of this section, select a single agency of the executive branch to conduct, to the maximum extent practicable, security clearance investigations of employees and contractor personnel of the United States Government who require access to classified information and to provide and maintain all security clearances of such employees and contractor personnel. The head of the entity selected pursuant to subsection (b) of this section may designate other agencies to conduct such investigations if the head of the entity selected pursuant to subsection (b) of this section considers it appropriate for national security and efficiency purposes.
+(1) Notwithstanding any other provision of law, not later than 180 days after December 17, 2004, the President shall, in consultation with the head of the entity selected pursuant to subsection (b) of this section, select a single agencyof the executive branch to conduct, to the maximum extent practicable, security clearance investigations of employees and contractor personnel of the United States Government who require access to classified information and to provide and maintain all security clearances of such employees and contractor personnel. The head of the entity selected pursuant to subsection (b) of this section may designate other agencies to conduct such investigations if the head of the entity selected pursuant to subsection (b) of this section considers it appropriate for national security and efficiency purposes.
 
 (2) The agency selected under paragraph (1) shall—
 
@@ -170,7 +170,7 @@ There is authorized to be appropriated such sums as may be necessary for fiscal 
 
 Executive Order 12968, referred to in subsec. (a)(3), is set out as a note under section 435 of this title.
 
-Executive Order 12958, referred to in subsec. (a)(4)(A), is set out as a note under section 435 of this title.
+Executive Order 12958, referred to in subsec. (a)(4)(A), which was formerly set out as a note under section 435 of this title, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 #### Codification
 
@@ -178,7 +178,7 @@ Section was enacted as part of the Intelligence Reform and Terrorism Prevention 
 
 #### Change of Name
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight andGovernment Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Security Clearances for Transition Team Members
 

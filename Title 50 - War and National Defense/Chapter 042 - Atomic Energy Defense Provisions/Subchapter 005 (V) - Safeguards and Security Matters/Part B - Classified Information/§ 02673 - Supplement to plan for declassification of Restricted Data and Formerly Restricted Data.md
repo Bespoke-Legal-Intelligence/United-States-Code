@@ -20,7 +20,7 @@ The Secretary of Energy shall submit the supplement required under subsection (a
 
 #### References in Text
 
-Executive Order No. 12958, referred to in subsec. (b), is set out as a note under section 435 of this title.
+Executive Order No. 12958, referred to in subsec. (b), which was formerly set out as a note under section 435 of this title, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 #### Codification
 
@@ -28,7 +28,7 @@ Section was formerly set out as a note under section 435 of this title prior to 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–136, §3141(h)(13)(D)(i), substituted “subsection (a) of section 2672 of this title” for “subsection (a) of section 3161 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 2260; 50 U.S.C. 435 note)”.
+2003—Subsec. (a). Pub. L. 108–136, §3141(h)(13)(D)(i), substituted “subsection (a) of section 2672 of this title” for “subsection (a) of section 3161 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 2260; 50 U.S.C. 435 note)”.
 
 Subsec. (b). Pub. L. 108–136, §3141(h)(13)(D)(ii), substituted “subsection (b)(1) of section 2672 of this title” for “section 3161(b)(1) of that Act” and “October 17, 1998,” for “the date of the enactment of that Act”.
 

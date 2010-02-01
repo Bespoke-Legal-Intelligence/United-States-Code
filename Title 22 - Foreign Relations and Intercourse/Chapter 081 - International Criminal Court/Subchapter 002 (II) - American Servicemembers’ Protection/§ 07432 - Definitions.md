@@ -20,7 +20,7 @@ As used in this subchapter and in section 7402 of this title:
 
 #### (5) Extradition
 
-&emsp;The terms “extradition” and “extradite” mean the extradition of a person in accordance with the provisions of chapter 209 of title 18 (including section 3181(b) of such title) and such terms include both extradition and surrender as those terms are defined in Article 102 of the Rome Statute.
+&emsp;The terms “extradition” and “extradite” mean the extradition of a person in accordance with the provisions of chapter 209 of title 18 (including section 3181(b) of such title) andsuch terms include both extradition and surrender as those terms are defined in Article 102 of the Rome Statute.
 
 #### (6) International Criminal Court
 
@@ -52,13 +52,13 @@ As used in this subchapter and in section 7402 of this title:
 
 #### (12) Support
 
-&emsp;The term “support” means assistance of any kind, including financial support, transfer ofproperty or other material support, services, intelligence sharing, law enforcement cooperation, the training or detail of personnel, and the arrest or detention of individuals.
+&emsp;The term “support” means assistance of any kind, including financial support, transfer of property or other material support, services, intelligence sharing, law enforcement cooperation, the training or detail of personnel, and the arrest or detention of individuals.
 
 (Pub. L. 107–206, title II, §2013, Aug. 2, 2002, 116 Stat. 907; Pub. L. 109–364, div. A, title XII, §1222, Oct. 17, 2006, 120 Stat. 2423; Pub. L. 110–181, div. A, title XII, §1212(b)(2), Jan. 28, 2008, 122 Stat. 371.)
 
 #### References in Text
 
-Executive Order 12958, referred to in par. (2), is set out as a note under section 435 of Title 50, War and National Defense.
+Executive Order 12958, referred to in par. (2), which was set out as a note under section 435 of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 #### Amendments
 

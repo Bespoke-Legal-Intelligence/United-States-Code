@@ -78,7 +78,7 @@ Each State correctional education agency receiving a grant under this section sh
 
 &emsp;&emsp;(A) $3,000 annually for tuition, books, and essential materials; and
 
-&emsp;&emsp;(B) $300 annually for related services such as career development, substance abusecounseling, parenting skills training, and health education.
+&emsp;&emsp;(B) $300 annually for related services such as career development, substance abuse counseling, parenting skills training, and health education.
 
 #### (e) Student eligibility
 
@@ -104,13 +104,19 @@ State correctional education agencies and cooperating institutions shall, to the
 
 #### (h) Allocation of funds
 
-From the funds appropriated pursuant to subsection (i) for each fiscal year, the Secretary shall allot to each State an amount that bears the same relationship to such funds as the total number of students eligible under subsection (e) in such State bears to the total number of such students in all States.
+#### (1) Fiscal year 2009
+
+&emsp;From the funds appropriated pursuant to subsection (i) for fiscal year 2009, the Secretary shall allot to each State an amount that bears the same relationship to such funds as the total number of incarcerated individuals described in paragraphs (1) and (2) of subsection (e) in the State bears to the total number of such individuals in all States.
+
+#### (2) Future fiscal years
+
+&emsp;From the funds appropriated pursuant to subsection (i) for each fiscal year after fiscal year 2009, the Secretary shall allot to each State an amount that bears the same relationship to such funds as the total number of students eligible under subsection (e) in such State bears to the total number of such students in all States.
 
 #### (i) Authorization of appropriations
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years 2009 through 2014.
 
-(Pub. L. 105–244, title VIII, §821, Oct. 7, 1998, 112 Stat. 1813; Pub. L. 110–315, title IX, §932, Aug. 14, 2008, 122 Stat. 3456.)
+(Pub. L. 105–244, title VIII, §821, Oct. 7, 1998, 112 Stat. 1813; Pub. L. 110–315, title IX, §932, Aug. 14,2008, 122 Stat. 3456; Pub. L. 111–39, title VIII, §802(a)(1), July 1, 2009, 123 Stat. 1956.)
 
 #### References in Text
 
@@ -122,5 +128,11 @@ Section was enacted as part of the Higher Education Amendments of 1998, and not 
 
 #### Amendments
 
+2009—Subsec. (h). Pub. L. 111–39 amended subsec. (h) generally. Prior to amendment, text read as follows: “From the funds appropriated pursuant to subsection (i) for each fiscal year, the Secretary shall allot to each State an amount that bears the same relationship to such funds as the total number of students eligible under subsection (e) in such State bears to the total number of such students in all States.”
+
 2008—Pub. L. 110–315 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (j) relating to grants to States for workplace and community transition training for incarcerated youth offenders.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

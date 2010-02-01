@@ -8,7 +8,7 @@
 
 #### (b) Effect of tort cases filed between enactment of original law and enactment of 2001 amendments
 
-(1) Except as provided in paragraph (2), if an otherwise eligible individual filed a tort case specified in subsection (d) of this section during the period beginning on October 30, 2000, and ending on December 28, 2001, such individual shall not be eligible for such compensation or benefits.
+(1) Except as provided in paragraph (2), if an otherwise eligible individual filed a tort casespecified in subsection (d) of this section during the period beginning on October 30, 2000, and ending on December 28, 2001, such individual shall not be eligible for such compensation or benefits.
 
 (2) If such individual dismisses such tort case on or before the last permissible date specified in paragraph (3), such individual shall be eligible for such compensation or benefits.
 

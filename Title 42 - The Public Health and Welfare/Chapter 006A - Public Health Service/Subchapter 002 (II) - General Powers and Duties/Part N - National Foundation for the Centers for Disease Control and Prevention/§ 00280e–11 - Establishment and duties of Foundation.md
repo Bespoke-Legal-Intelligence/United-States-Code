@@ -138,7 +138,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 #### (4) Applicability of certain standards to non-Federal employees
 
-&emsp;In the case of any individual who is not an employee of the Federal Government and who serves in association with the Centers for Disease Control and Prevention pursuant to financial support from the Foundation, the Foundation shall negotiate a memorandum of understanding with the individual and the Director of the Centers for Disease Control and Prevention specifying that the individual—
+&emsp;In the case of any individual who is not an employee of the Federal Government and whoserves in association with the Centers for Disease Control and Prevention pursuant to financial support from the Foundation, the Foundation shall negotiate a memorandum of understanding with the individual and the Director of the Centers for Disease Control and Prevention specifying that the individual—
 
 &emsp;&emsp;(A) shall be subject to the ethical and procedural standards regulating Federal employment, scientific investigation, and research findings (including publications and patents) that are required of individuals employed by the Centers for Disease Control and Prevention, including standards under this chapter, the Ethics in Government Act, and the Technology Transfer Act; <sup>1</sup> and
 
@@ -208,7 +208,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 &emsp;(A) For the purpose of grants under paragraph (1), there is authorized to be appropriated $1,250,000 for each fiscal year.
 
-&emsp;(B) For the purpose of grants under paragraph (1), the Secretary may for each fiscal year make available not less than $500,000, and not more than $1,250,000 from the amounts appropriated for the fiscal year for the programs of the Department of Health and Human Services. Such amounts may be made available without regard to whether amounts have been appropriated under subparagraph (A).
+&emsp;(B) For the purpose of grants under paragraph (1), the Secretary may for each fiscalyear make available not less than $500,000, and not more than $1,250,000 from the amounts appropriated for the fiscal year for the programs of the Department of Health and Human Services. Such amounts may be made available without regard to whether amounts have been appropriated under subparagraph (A).
 
 #### (3) Certain restriction
 

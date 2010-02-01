@@ -12,7 +12,7 @@ Except as provided in subsection (c)(1) of this section, any individual—
 
 #### (b) Prerequisites for enrollment; notification of rights
 
-(1) Any individual eligible for coverage under subsection (a) of this section may enroll in ahealth benefits plan for self alone or for self and family if, before the expiration of the 6-month period beginning on December 22, 1987, and in accordance with such procedures as the Director of the Office of Personnel Management shall by regulation prescribe, such individual—
+(1) Any individual eligible for coverage under subsection (a) of this section may enroll in a health benefits plan for self alone or for self and family if, before the expiration of the 6-month period beginning on December 22, 1987, and in accordance with such procedures as the Director of the Office of Personnel Management shall by regulation prescribe, such individual—
 
 &emsp;(A) files an election for such enrollment; and
 

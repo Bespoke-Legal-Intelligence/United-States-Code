@@ -22,7 +22,7 @@ Waiver of Condition on Eligibility.—In the case of a reenlistment or voluntary
 
 (d)
 
-Payment to Mobilized Members.—A member entitled to a bonus under this section who is called or ordered to active duty shall be paid, during that period of active duty, any amount ofthe bonus that becomes payable to the member during that period of active duty.
+Payment to Mobilized Members.—A member entitled to a bonus under this section who is called or ordered to active duty shall be paid, during that period of active duty, any amount of the bonus that becomes payable to the member during that period of active duty.
 
 (e)
 
@@ -34,11 +34,13 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 (g)
 
-Termination of Authority.—No bonus may be paid under this section to any enlisted member who, after December 31, 2009, reenlists or voluntarily extends his enlistment in a reserve component.
+Termination of Authority.—No bonus may be paid under this section to any enlisted member who, after December 31, 2010, reenlists or voluntarily extends his enlistment in a reserve component.
 
-(Added Pub. L. 95–79, title IV, §403(a)(1), July 30, 1977, 91 Stat. 330; amended Pub. L. 95–485, title IV, §403, Oct. 20, 1978, 92 Stat. 1614; Pub. L. 96–342, title VIII, §805(b), Sept. 8, 1980, 94 Stat. 1095; Pub. L. 97–295, §3(2), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 99–145, title VI, §643(a), Nov. 8, 1985, 99 Stat. 652; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §§613, 652(b)(1), Nov. 29, 1989, 103 Stat. 1446, 1461; Pub. L. 101–510, div. A, title XIII, §1322(c)(4), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(a), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(a), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §611(a), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(b), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(b), 621, Nov. 18, 1997, 111 Stat. 1785, 1790; Pub. L. 105–261, div. A, title VI, §611(b), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(b), Oct. 5, 1999, 113 Stat. 649; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(b), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §611(a), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §§611(a), 617, 626(b), Nov. 24, 2003, 117 Stat. 1500, 1503, 1507; Pub. L. 108–375, div. A, title VI, §§611(a), 618(b), Oct. 28, 2004, 118 Stat. 1946, 1949; Pub. L. 109–163, div. A, title VI, §§621(a), 630, 687(b)(15), Jan. 6, 2006, 119 Stat. 3294, 3297, 3330; Pub. L. 109–364, div. A, title VI, §611(a), title X, §1071(e)(7), Oct. 17, 2006, 120 Stat. 2247, 2401; Pub. L. 110–181, div. A, title VI, §§611(a), 619(a)–(c), Jan. 28, 2008, 122 Stat. 148, 151; Pub. L. 110–417, \[div. A\], title VI, §611(a), Oct. 14, 2008, 122 Stat. 4484.)
+(Added Pub. L. 95–79, title IV, §403(a)(1), July 30, 1977, 91 Stat. 330; amended Pub. L. 95–485, title IV, §403, Oct. 20, 1978, 92 Stat. 1614; Pub. L. 96–342, title VIII, §805(b), Sept. 8, 1980, 94 Stat. 1095; Pub. L. 97–295, §3(2), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 99–145, title VI, §643(a), Nov. 8, 1985, 99 Stat. 652; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §§613, 652(b)(1), Nov. 29, 1989, 103 Stat. 1446, 1461; Pub. L. 101–510, div. A, title XIII, §1322(c)(4), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(a), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(a), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §611(a), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(b), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(b), 621, Nov. 18, 1997, 111 Stat. 1785, 1790; Pub. L. 105–261, div. A, title VI, §611(b), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(b), Oct. 5, 1999, 113 Stat. 649; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(b), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §611(a), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §§611(a), 617, 626(b), Nov. 24, 2003, 117 Stat. 1500, 1503, 1507; Pub. L. 108–375, div. A, title VI, §§611(a), 618(b), Oct. 28, 2004, 118 Stat. 1946, 1949; Pub. L. 109–163, div. A, title VI, §§621(a), 630, 687(b)(15), Jan. 6, 2006, 119 Stat. 3294, 3297, 3330; Pub. L. 109–364, div. A, title VI, §611(a), title X, §1071(e)(7), Oct. 17, 2006, 120 Stat. 2247, 2401; Pub. L. 110–181, div. A, title VI, §§611(a), 619(a)–(c), Jan. 28, 2008, 122 Stat. 148, 151; Pub. L. 110–417, \[div. A\], title VI, §611(a), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §611(1), Oct. 28, 2009, 123 Stat. 2352.)
 
 #### Amendments
+
+2009—Subsec. (g). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 
 2008—Subsec. (a)(2). Pub. L. 110–181, §619(a), substituted “an enlistment for a period of at least three years” for “his enlistment for a period of three years or for a period of six years”.
 
@@ -50,7 +52,7 @@ Subsec. (b)(1). Pub. L. 110–181, §619(b), substituted “may not exceed $15,0
 
 &emsp;“(C) $6,000, in the case of a member who, having received a bonus under this section for a previous three-year reenlistment or extension of an enlistment, reenlists or extends the enlistment for an additional period of three years.”
 
-Subsec. (c). Pub. L. 110–181, §619(c), substituted “Waiver of Condition on Eligibility” for “Condition on Eligibility” in heading, struck out par. (2) designation before “In the case” and “paragraph (1)(B) or” after “may waive so much of”, and struck out par. (1) which read as follows:
+Subsec. (c). Pub. L. 110–181, §619(c), substituted “Waiver of Condition on Eligibility” for “Condition on Eligibility” in heading, struck out par. (2) designationbefore “In the case” and “paragraph (1)(B) or” after “may waive so much of”, and struck out par. (1) which read as follows:
 
 “(1) To be eligible for a second bonus under this section in the amount specified in subsection (b)(1)(C), a member must—
 

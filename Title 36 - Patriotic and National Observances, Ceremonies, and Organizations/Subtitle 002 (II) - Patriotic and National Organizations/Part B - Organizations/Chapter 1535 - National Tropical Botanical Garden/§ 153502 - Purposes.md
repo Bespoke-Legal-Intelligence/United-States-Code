@@ -2,7 +2,7 @@
 
 The purposes of the corporation are—
 
-&emsp;(1) to establish, develop, operate, and maintain for the benefit of the people of the United States an educational and scientific center in the form of one or more tropical botanical gardens, together with facilities such as libraries, herbaria, laboratories, and museums that are appropriate and necessary for encouraging and conducting research in basic and applied tropical botany;
+&emsp;(1) to establish, develop, operate, and maintain for the benefit of the people of the United States an educational and scientific center in the form of one or more tropical botanical gardens, together with facilities such as libraries,herbaria, laboratories, and museums that are appropriate and necessary for encouraging and conducting research in basic and applied tropical botany;
 
 &emsp;(2) to foster and encourage fundamental research about tropical plant life and to encourage research and study of the uses of tropical flora in agriculture, forestry, horticulture, medicine, and other sciences;
 

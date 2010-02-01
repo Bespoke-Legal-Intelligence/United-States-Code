@@ -6,11 +6,11 @@
 
 (B) A temporary restraining order issued without notice under this section shall be endorsed with the date and hour of issuance and be filed forthwith in the office of the clerk of the court issuing the order.
 
-(C) A temporary restraining order issued under this section shall expire at such time, not to exceed 10 days from issuance, as the court directs; the court, for good cause shown before expiration of such order, may extend the expiration date of the order for up to 10 days or for such longer period agreed to by the adverse party.
+(C) A temporary restraining order issued under this section shall expire at such time, not to exceed 14 days from issuance, as the court directs; the court, for good cause shown before expiration of such order, may extend the expiration date of the order for up to 14 days or for such longer period agreed to by the adverse party.
 
-(D) When a temporary restraining order is issued without notice, the motion for a protective order shall be set down for hearing at the earliest possible time and takes precedence over all matters except older matters of the same character, and when such motion comes on for hearing, if the attorney for the Government does not proceed with the application for a protective order, the court shall dissolve the temporary restraining order.
+(D) When a temporary restraining order is issued without notice, the motion for a protective order shall be set down for hearing at the earliest possible time and takes precedence over all matters except older matters of the same character, and when such motion comes on for hearing, if the attorney for the Government does not proceed with the application for a protectiveorder, the court shall dissolve the temporary restraining order.
 
-(E) If on two days notice to the attorney for the Government or on such shorter notice as the court may prescribe, the adverse party appears and moves to dissolve or modify the temporary restraining order, the court shall proceed to hear and determine such motion as expeditiously as the ends of justice require.
+(E) If on two days notice to the attorney for the Government, excluding intermediate weekends and holidays, or on such shorter notice as the court may prescribe, the adverse party appears and moves to dissolve or modify the temporary restraining order, the court shall proceed to hear and determine such motion as expeditiously as the ends of justice require.
 
 (F) A temporary restraining order shall set forth the reasons for the issuance of such order, be specific in terms, and describe in reasonable detail (and not by reference to the complaint or other document) the act or acts being restrained.
 
@@ -32,7 +32,17 @@
 
 &emsp;(2) the term “course of conduct” means a series of acts over a period of time, however short, indicating a continuity of purpose.
 
-(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1250.)
+(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1250; amended Pub. L. 111–16, §3(2), (3), May 7, 2009, 123 Stat. 1607.)
+
+#### Amendments
+
+2009—Subsec. (a)(2)(C). Pub. L. 111–16, §3(2), substituted “14 days” for “10 days” in two places.
+
+Subsec. (a)(2)(E). Pub. L. 111–16, §3(3), inserted “, excluding intermediate weekends and holidays,” after “the Government”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 111–16, set out as a note under section 109 of Title 11, Bankruptcy.
 
 #### Effective Date
 

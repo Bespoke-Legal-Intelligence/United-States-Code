@@ -22,29 +22,69 @@ It is the purpose of this chapter to—
 
 &emsp;(1) meet the unmet human, educational, environmental, and public safety needs of the United States, without displacing existing workers;
 
-&emsp;(2) renew the ethic of civic responsibility and the spirit of community throughout the United States;
+&emsp;(2) renew the ethic of civic responsibility and the spirit of community and service throughout the varied and diverse communities of the United States;
 
 &emsp;(3) expand educational opportunity by rewarding individuals who participate in national service with an increased ability to pursue higher education or job training;
 
-&emsp;(4) encourage citizens of the United States, regardless of age, income, or disability, to engage in full-time or part-time national service;
+&emsp;(4) encourage citizens of the United States, regardless of age, income, geographic location, or disability, to engage in full-time or part-time national service;
 
 &emsp;(5) reinvent government to eliminate duplication, support locally established initiatives, require measurable goals for performance, and offer flexibility in meeting those goals;
 
-&emsp;(6) expand and strengthen existing service programs with demonstrated experience in providing structured service opportunities with visible benefits to the participants and community;
+&emsp;(6) expand and strengthen existing national service programs with demonstrated experience in providing structured service opportunities with visible benefits to the participants and community;
 
-&emsp;(7) build on the existing organizational service infrastructure of Federal, State, and local programs and agencies to expand full-time and part-time service opportunities for all citizens; and
+&emsp;(7) build on the existing organizational service infrastructure of Federal, State, and local programs, agencies, and communities to expand full-time and part-time service opportunities for all citizens;
 
-&emsp;(8) provide tangible benefits to the communities in which national service is performed.
+&emsp;(8) provide tangible benefits to the communities in which national service is performed;
 
-(Pub. L. 101–610, §2, Nov. 16, 1990, 104 Stat. 3129; Pub. L. 103–82, §2(a), Sept. 21, 1993, 107 Stat. 787.)
+&emsp;(9) expand and strengthen service-learning programs through year-round opportunities, including opportunities during the summer months, to improve the education of children and youth and to maximize the benefits of national and community service, in order to renew the ethic of civic responsibility and the spirit of community for children and youth throughout the United States;
+
+&emsp;(10) assist in coordinating and strengthening Federal and other service opportunities, including opportunities for participation in emergency and disaster preparedness, relief, and recovery;
+
+&emsp;(11) increase service opportunities for the Nation's retiring professionals, including such opportunities for those retiring from the science, technical, engineering, and mathematics professions, to improve the education of the Nation's youth and keep America competitive in the global knowledge economy, and to further utilize the experience, knowledge, and skills of older individuals;
+
+&emsp;(12) encourage the continued service of the alumni of the national service programs, including service in times of national need;
+
+&emsp;(13) encourage individuals age 55 or older to partake of service opportunities;
+
+&emsp;(14) focus national service on the areas of national need such service has the capacity to address, such as improving education, increasing energy conservation, improving the health status of economically disadvantaged individuals, and improving economic opportunity for economically disadvantaged individuals;
+
+&emsp;(15) recognize and increase the impact of social entrepreneurs and other nonprofit community organizations in addressing national and local challenges;
+
+&emsp;(16) increase public and private investment in nonprofit community organizations that are effectively addressing national and local challenges and encourage such organizations to replicate and expand successful initiatives;
+
+&emsp;(17) leverage Federal investments to increase State, local, business, and philanthropic resources to address national and local challenges;
+
+&emsp;(18) support institutions of higher education that engage students in community service activities and provide high-quality service-learning opportunities; and
+
+&emsp;(19) recognize the expertise veterans can offer to national service programs, expand the participation of the veterans in the national service programs, and assist the families of veterans and members of the Armed Forces on active duty.
+
+(Pub. L. 101–610, §2, Nov. 16, 1990, 104 Stat. 3129; Pub. L. 103–82, §2(a), Sept. 21, 1993, 107 Stat. 787; Pub. L. 111–13, title I, §1101, Apr. 21, 2009, 123 Stat. 1463.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
+2009—Subsec. (b)(2). Pub. L. 111–13, §1101(1), substituted “community and service throughout the varied and diverse communities of” for “community throughout”.
+
+Subsec. (b)(4). Pub. L. 111–13, §1101(2), inserted “geographic location,” after “income,”.
+
+Subsec. (b)(6). Pub. L. 111–13, §1101(3), inserted “national” after “existing”.
+
+Subsec. (b)(7). Pub. L. 111–13, §1101(4)(A), substituted “programs, agencies, and communities” for “programs and agencies”.
+
+Subsec. (b)(9) to (19). Pub. L. 111–13, §1101(4)(B)–(6), added pars. (9) to (19).
+
 1993—Pub. L. 103–82 amended section generally, substituting provisions relating to findings and purposes for former provisions setting forth the purposes of this chapter.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
+
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–13, §1(a), Apr. 21, 2009, 123 Stat. 1460, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Serve America Act’.”
 
 #### Short Title of 2002 Amendment
 
@@ -72,13 +112,13 @@ Section 1(a) of Pub. L. 101–610 provided that: “This Act \[enacting this cha
 
 Section 110 of subtitle B (§§110–118) of title I of Pub. L. 101–610, which provided that such subtitle (enacting former part B (§§12521–12531) of subchapter I of this chapter) be cited as the “Serve-America: The Community Service, Schools and Service-Learning Act of 1990”, was repealed by Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 825.
 
-Pub. L. 108–45, §1, July 3, 2003, 117 Stat. 844, provided that: “This Act \[enacting section 12605 of this title\] may be cited as the ‘Strengthen AmeriCorps Program Act’.”
+Pub. L. 108–45, §1, July 3, 2003, 117 Stat. 844, which provided that Pub. L. 108–45, enacting section 12605 of this title, could be cited as the “Strengthen AmeriCorps Program Act”, was repealed by Pub. L. 111–13, title I, §1406(b), Apr. 21, 2009, 123 Stat. 1521.
 
 Section 199 \[formerly 120\] of subtitle I (§§199–199O) \[formerly subtitle C (§§120–136)\] of title I of Pub. L. 101–610, as renumbered by Pub. L. 103–82, title I, §101(a), Sept. 21, 1993, 107 Stat. 788, provided that: “This subtitle \[enacting division I (formerly part C) of subchapter I of this chapter\] may be cited as the ‘American Conservation and Youth Service Corps Act of 1990’.”
 
-Section 140 of subtitle D (§§140–150) of title I of Pub. L. 101–610, which provided that such subtitle (enacting former part D (§§12571–12580) of subchapter I of this chapter) be cited as the “National and Community Service Act”, was omitted in the general amendment of part D (now division D) by Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 816.
+Section 140 of subtitle D (§§140–150) of title I of Pub. L. 101–610, which provided that such subtitle (enactingformer part D (§§12571–12580) of subchapter I of this chapter) be cited as the “National and Community Service Act”, was omitted in the general amendment of part D (now division D) by Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 816.
 
-Section 301 of title III of Pub. L. 101–610 provided that: “This title \[enacting subchapter II of this chapter\] may be cited as ‘The Points of Light Foundation Act’.”
+Pub. L. 101–610, title III, §301, Nov. 16, 1990, 104 Stat. 3180, which provided that title III of Pub. L. 101–610, enacting subchapter II of this chapter, could be cited as “The Points of Light Foundation Act”, was repealed by Pub. L. 111–13, title I, §1831(a), Apr. 21, 2009, 123 Stat. 1578.
 
 #### Compliance With Buy American Act
 
@@ -94,7 +134,7 @@ Purchase of American-Made Equipment and Products.—In the case of any equipment
 
 “(b)
 
-Notice to Recipients of Assistance.—In providing financial assistance under this Act (including the amendments made by this Act), the Secretary of Education shall provide to each recipient of the assistancea notice describing the statement made in subsection (a) by the Congress.”
+Notice to Recipients of Assistance.—In providing financial assistance under this Act (including the amendments made by this Act), the Secretary of Education shall provide to each recipient of the assistance a notice describing the statement made in subsection (a) by the Congress.”
 
 #### Prohibition of Contracts With Persons Falsely Labeling Products as Made in America
 
@@ -188,42 +228,6 @@ Sec. 5. <i>General Provisions</i>. (a) The White House Office shall provide the 
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 13317. Volunteers for Prosperity
-
-Ex. Ord. No. 13317, Sept. 25, 2003, 68 F.R. 56515, as amended by Ex. Ord. No. 13418, Dec. 14, 2006, 71 F.R. 75647, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to encourage volunteer service by highly skilled Americans to support major initiatives by the United States for promoting health and prosperity around the world, it is hereby ordered as follows:
-
-Section 1. (a) <i>Policy</i>. A part of USA Freedom Corps, “Volunteers for Prosperity” is a call to service to support major U.S. initiatives that promote health and prosperity around the world. Deploying highly skilled volunteers abroad is an efficient way to use our resources consistent with the objectives of the United States Government's global prosperity agenda. United States volunteers will help to achieve the objectives of the global prosperity agenda, including providing clean water to the poor, promoting democratic governance, developing economic freedom, promoting free and open markets, stemming the spread of HIV/AIDS and controlling malaria.
-
-The investment of Federal resources to enable U.S. volunteers to work with nongovernmental and voluntary service organizations overseas is a preferred use of our resources and also will help leverage private sector resources. United States citizens who are skilled professionals and who volunteer, when matched with organizations working on specific U.S. prosperity initiatives overseas, can provide invaluable support for these initiatives and will supplement and complement the traditions and accomplishments of the Peace Corps.
-
-United States prosperity initiatives that can benefit from volunteer service include, but are not limited to, the Emergency Plan for AIDS Relief, the Digital Freedom Initiative, the Water for the Poor Initiative, the Trade for African Development and Enterprise Initiative, the Middle East Partnership Initiative, and the President's Malaria Initiative.
-
-Volunteer service in support of other initiatives, consistent with U.S. foreign policy, shall be considered as well.
-
-(b) <i>Applicability</i>. The following agencies are subject to the requirements of this order: the United States Agency for International Development (USAID), the Department of State, the Department of Commerce, the Department of Health and Human Services, and such other Federal agencies as the President may designate in the future.
-
-Sec. 2. <i>Establishment</i>. (a) Agencies subject to this order shall each establish within their respective organizations an Office for Volunteers for Prosperity (Office) or, as appropriate, an operating unit within an office.
-
-(b) Each agency subject to this order shall provide its Office or unit with appropriate staff, administrative support, and resources to meet its responsibilities under this order.
-
-(c) Each of these Offices or units shall begin operations no later than 30 days from the date of this order.
-
-(d) Agencies subject to this order shall consider, in evaluating grant applications for assistance activities to be implemented abroad, the applicant's use of highly skilled U.S. volunteers to support U.S. prosperity objectives and initiatives.
-
-Sec. 3. <i>Purpose</i>. To the extent permitted by law, the purpose of the Offices will be to promote, expand, and enhance well-defined volunteer service opportunities for highly skilled U.S. professionals who wish to work with nongovernmental and voluntary service organizations around the world in support of major U.S. prosperity initiatives as identified in section 1 of this order. Such promotion, expansion, and enhancement would include actively participating in the design and selection processes for grants within their agencies, tracking the use of U.S. private volunteer organizations by their agencies, and coordinating with White House Offices including the USA Freedom Corps, the Office of National AIDS Policy, and the Office of Faith-Based and Community Initiatives, as appropriate.
-
-Sec. 4. <i>Funding</i>. Agencies subject to this order are hereby directed to use their best efforts to use funds available for the U.S. prosperity initiatives listed in section 1 of this order to provide appropriate support to organizations that use highly skilled U.S. volunteers to accomplish the objectives identified in those initiatives.
-
-Sec. 5. <i>Coordination</i>. The USAID shall serve as the inter-agency coordinator for the Volunteers for Prosperity initiative. In that capacity, the USAID shall coordinate the activities that fall within the scope of the initiative and report on the progress of the initiative to the USA Freedom Corps Office, within the White House Office. The reports shall be submitted within 180 days after the date of this order and annually thereafter. The USA Freedom Corps Council shall encourage consistency in policies and practices within the agencies subject to this order, as appropriate, for purposes related to the Volunteers for Prosperity initiative.
-
-Sec. 6. <i>Administration</i>. The actions directed by this order shall be carried out subject to the availability of appropriations, to the extent permitted by law, and consistent with the agencies’ missions.
-
-Sec. 7. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch of the Federal Government, and it is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 #### Ex. Ord. No. 13331. National and Community Service Programs
 
 Ex. Ord. No. 13331, Feb. 27, 2004, 69 F.R. 9911, provided:
@@ -238,7 +242,7 @@ Section 1. <i>Definitions</i>. For purposes of this order:
 
 (c) “Policies governing programs authorized under the national service laws” refers to all policies, programs, guidelines, and regulations, including official guidance and internal agency procedures and practices, that are issued by the Corporation for National and Community Service (Corporation) and have significant effects on national and community service programs; and
 
-(d) “Professional corps programs” means those programs described in section 122(a)(8) of the National and Community Service Act of 1990 (42 U.S.C. 12572(a)(8)).
+(d) “Professional corps programs” means those programs described in section 122(a)(8) of the National and Community Service Act of 1990 (42 U.S.C. 12572(a)(8)) \[see 42 U.S.C. 12572(c)(1)(D)\].
 
 Sec. 2. <i>Fundamental Principles and Policymaking Criteria</i>. In formulating and implementing policies governing programs authorized under the national service laws, the Corporation shall, to the extent permitted by law, adhere to the following fundamental principles:
 

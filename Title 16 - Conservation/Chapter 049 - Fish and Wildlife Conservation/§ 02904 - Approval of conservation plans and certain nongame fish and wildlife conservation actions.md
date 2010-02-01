@@ -32,7 +32,7 @@ If the Secretary approves the conservation plan of any State under subsection (a
 
 #### (c) Conservation actions
 
-If the Secretary approves the conservation plan of any State under subsection (a) of thissection, those conservation actions set forth in the plan which pertain to nongame fish and wildlife shall be deemed to be eligible as nongame fish and wildlife projects for which reimbursement is available under section 2905 of this title.
+If the Secretary approves the conservation plan of any State under subsection (a) of this section, those conservation actions set forth in the plan which pertain to nongame fish and wildlife shall be deemed to be eligible as nongame fish and wildlife projects for which reimbursement is available under section 2905 of this title.
 
 #### (d) Nongame conservation actions in the absence of an approved plan
 

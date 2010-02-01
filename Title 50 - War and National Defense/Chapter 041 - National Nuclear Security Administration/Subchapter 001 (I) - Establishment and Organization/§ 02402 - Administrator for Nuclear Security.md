@@ -66,7 +66,7 @@ Except as provided by subsections (b) and (c) of section 2481 of this title:
 
 &emsp;(1) The Administrator may establish, abolish, alter, consolidate, or discontinue any organizational unit or component of the Administration, or transfer any function of the Administration.
 
-&emsp;(2) Such authority does not apply to the abolition of organizational units or components established by law or the transfer of functions vested by law in any organizational unit or component.
+&emsp;(2) Such authority does not apply to the abolition of organizational units or componentsestablished by law or the transfer of functions vested by law in any organizational unit or component.
 
 (Pub. L. 106–65, div. C, title XXXII, §3212, Oct. 5, 1999, 113 Stat. 957; Pub. L. 106–398, §1 \[div. C, title XXXI, §§3152(b), 3159(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464, 1654A–469; Pub. L. 107–107, div. A, title X, §1048(i)(12), Dec. 28, 2001, 115 Stat. 1230; Pub. L. 108–375, div. A, title IX, §902(e), Oct. 28, 2004, 118 Stat. 2025; Pub. L. 110–417, div. C, title XXXI, §3111, Oct. 14, 2008, 122 Stat. 4753.)
 
@@ -76,13 +76,13 @@ Section 414 of title 41, referred to in subsec. (c), was amended generally by Pu
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(18), (19). Pub. L. 110–417 added par. (18) and redesignated former par. (18) as (19).
+2008—Subsec. (b)(18), (19). Pub. L. 110–417 added par. (18) and redesignated former par. (18) as (19).
 
-<b>2004</b>—Subsec. (e). Pub. L. 108–375 struck out “Joint” before “Nuclear” in heading and text.
+2004—Subsec. (e). Pub. L. 108–375 struck out “Joint” before “Nuclear” in heading and text.
 
-<b>2001</b>—Subsecs. (e), (f). Pub. L. 107–107 redesignated subsec. (e), relating to reorganization authority, as (f).
+2001—Subsecs. (e), (f). Pub. L. 107–107 redesignated subsec. (e), relating to reorganization authority, as (f).
 
-<b>2000</b>—Subsec. (e). Pub. L. 106–398, §1 \[div. C, title XXXI, §3159(a)\], added subsec. (e) relating to reorganization authority.
+2000—Subsec. (e). Pub. L. 106–398, §1 \[div. C, title XXXI, §3159(a)\], added subsec. (e) relating to reorganization authority.
 
 Pub. L. 106–398, §1 \[div. C, title XXXI, §3152(b)\], added subsec. (e) relating to membership on Joint Nuclear Weapons Council.
 
@@ -172,7 +172,7 @@ Selection Criteria.—(1) The projects selected for the pilot program shall—
 
 &emsp;“(F) The extent of participation in the project by agencies of State, tribal, or local governments that will make substantive contributions to achieving the goals of the project.
 
-&emsp;“(G) The extent to which the project focuses on promoting the development of technology-related business concerns that are small business concerns or involves small business concerns substantively in the project.
+&emsp;“(G) The extent to which the project focuses on promoting the development of technology-relatedbusiness concerns that are small business concerns or involves small business concerns substantively in the project.
 
 “(f)
 

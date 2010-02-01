@@ -130,7 +130,7 @@ For purposes of this part and other provisions of this chapter relating specific
 
 #### References in Text
 
-The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 1 of the Act was classified principally to subchapter I (§1501 et seq.) of chapter 20 of Title 21, Foodand Drugs, prior to repeal by Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188. For complete classification of this Act to the Code, see Tables.
+The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 1 of the Act was classified principally to subchapter I (§1501 et seq.) of chapter 20 of Title 21, Food and Drugs, prior to repeal by Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188. For complete classification of this Act to the Code, see Tables.
 
 Executive Order Number 12333, referred to in subsec. (b)(2), is set out as a note under section 401 of Title 50, War and National Defense.
 
@@ -266,7 +266,7 @@ Subsec. (h)(2)(B)(v). Pub. L. 101–231, §17(d)(3), substituted “essential pr
 
 Subsec. (h)(3)(D). Pub. L. 101–231, §17(d)(4), substituted “illicit production” for “production”.
 
-Subsec. (i)(2). Pub. L. 101–231, §17(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘major illicit drug producing country’ means a country producing five metric tons or more of opium or opium derivative during a fiscal year or producingfive hundred metric tons or more of coca or marijuana (as the case may be) during a fiscal year;”.
+Subsec. (i)(2). Pub. L. 101–231, §17(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘major illicit drug producing country’ means a country producing five metric tons or more of opium or opium derivative during a fiscal year or producing five hundred metric tons or more of coca or marijuana (as the case may be) during a fiscal year;”.
 
 Subsec. (k)(4). Pub. L. 101–231, §17(f), struck out par. (4) which required that reports under subsec. (e) discuss changes made since notification provided pursuant to subsec. (k)(2) and (3).
 
@@ -366,7 +366,7 @@ Subsecs. (f) to (j). Pub. L. 98–164, §1003(b), added subsecs. (f) to (j).
 
 1981—Subsec. (c)(2). Pub. L. 97–113, §734(a)(1), struck out par. (2) which provided for a Presidential study of multilateral narcotics control activities and transmission of this study to the Speaker of the House and the President of the Senate no later than June 30, 1977.
 
-Subsec. (d). Pub. L. 97–113, §502(a)(1), substituted provisions requiring the Secretary of State to inform the Secretary of Health and Human Services of any use of herbicides to eradicate marihuana in a program receiving assistance under this part, directing the Secretary of Health and Human Services to monitor the impact on the health of persons using such marihuana and if he determines their exposure to the herbicide harms their health, report to Congress such determination with any recommendations, urging the President to use not less than $100,000 to develop a substance that clearly and readily warns potential marihuana users that the marihuana has been sprayed with paraquat or other herbicide harmful to the health of the persons using it, and directing the Secretary of Agriculture, if such a substance is developed, to use such substance in conjunction with the spraying of paraquat or other herbicide for provisions prohibiting the use of funds under this part for spraying a herbicide to eradicate marihuana if that practice is likely to seriously harm the health of users of the sprayed marihuana, except if the substance is used with a substance that will clearly and readily warn potential users of the sprayed marihuana of the use of herbicide, and requiring the Secretary of State to submit a report to Congress not later than January 1 of each year detailing efforts taken to ensure compliance with this subsection.
+Subsec. (d). Pub. L. 97–113, §502(a)(1), substituted provisions requiring the Secretary of State to inform the Secretary of Health and Human Services of any use of herbicides to eradicate marihuana in a program receiving assistance under this part, directing the Secretary of Health and Human Services to monitor the impact on the health of persons using such marihuana and if he determines their exposure to the herbicide harms theirhealth, report to Congress such determination with any recommendations, urging the President to use not less than $100,000 to develop a substance that clearly and readily warns potential marihuana users that the marihuana has been sprayed with paraquat or other herbicide harmful to the health of the persons using it, and directing the Secretary of Agriculture, if such a substance is developed, to use such substance in conjunction with the spraying of paraquat or other herbicide for provisions prohibiting the use of funds under this part for spraying a herbicide to eradicate marihuana if that practice is likely to seriously harm the health of users of the sprayed marihuana, except if the substance is used with a substance that will clearly and readily warn potential users of the sprayed marihuana of the use of herbicide, and requiring the Secretary of State to submit a report to Congress not later than January 1 of each year detailing efforts taken to ensure compliance with this subsection.
 
 Subsec. (e). Pub. L. 97–113, §502(b), added subsec. (e).
 
@@ -470,7 +470,7 @@ Contents.—Each such report shall contain the following:
 
 &emsp;&emsp;“(D) An assessment of the risks to personal safety and potential involvement in hostilities incurred by employees of each such business as a result of their activities in Colombia.
 
-&emsp;&emsp;“(E) A plan to provide for the transfer of the counternarcotics activities carried out by such United States businesses to Colombian nationals, in particular personnel of the Colombian antinarcotics police.
+&emsp;&emsp;“(E) A plan to provide for the transfer of the counternarcotics activities carried out by suchUnited States businesses to Colombian nationals, in particular personnel of the Colombian antinarcotics police.
 
 &emsp;“(4)
 
@@ -506,7 +506,7 @@ Pub. L. 101–513, title V, §599H, Nov. 5, 1990, 104 Stat. 2068, provided that:
 
 “(a)
 
-Negotiations.—(1) The Attorney General shall enter into negotiations with the appropriate law enforcement and judicial agencies and any other officials of any foreign country with jurisdiction over companies who manufacture, market, sell or purchase certain precursor and/or essential chemicals used in the production of illicit narcotics. The priority of negotiations should be determined based on an assessment by the Attorney General which countries have jurisdiction over companies that may be knowingly or unknowinglysupplying chemicals for the illicit manufacture of controlled substances.
+Negotiations.—(1) The Attorney General shall enter into negotiations with the appropriate law enforcement and judicial agencies and any other officials of any foreign country with jurisdiction over companies who manufacture, market, sell or purchase certain precursor and/or essential chemicals used in the production of illicit narcotics. The priority of negotiations should be determined based on an assessment by the Attorney General which countries have jurisdiction over companies that may be knowingly or unknowingly supplying chemicals for the illicit manufacture of controlled substances.
 
 “(2) The purposes of the negotiations shall be to (a) establish a list of precursor and essential chemicals contributing to the illicit manufacture of controlled substances, as defined in section 102 of the Controlled Substances Act (21 USC 802); (b) reach one or more international agreements on a method for maintaining records of transactions of these listed chemicals; (c) establish a procedure by which such records may be made available to (and kept confidential as necessary by) United States law enforcement authorities for the exclusive purpose of conducting an investigation relative to precursor chemicals, essential chemicals and/or controlled substances contributing to the manufacture of illicit narcotics; and (d) encourage chemical source countries to enact national chemical control legislation which would (i) impose specific record keeping and reporting requirements for domestic transactions involving listed chemicals; (ii) establish a system of permits or declarations for imports and exports of listed chemicals; and (iii) authorize government officials to seize or suspend shipments of listed chemicals based on evidence that they may be destined for the illicit manufacture of controlled substances.
 
@@ -650,7 +650,7 @@ Pub. L. 107–68, title I, §103, Nov. 12, 2001, 115 Stat. 568, provided that:
 
 “(b) This section shall apply to pay periods beginning on or after October 1, 2001.”
 
-Pub. L. 99–93, title VIII, §814, Aug. 16, 1985, 99 Stat. 455, as amended by Pub. L. 99–151, title III, §306, Nov. 13, 1985, 99 Stat. 808; Pub. L. 100–202, §101(i) \[title I, §5\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 102–392, title III, §323, Oct. 6, 1992, 106 Stat. 1726; Pub. L. 105–119,title VI, §625, Nov. 26, 1997, 111 Stat. 2522; Pub. L. 106–57, title I, §7, Sept. 29, 1999, 113 Stat. 412; Pub. L. 107–228, div. A, title VI, §684, Sept. 30, 2002, 116 Stat. 1411, provided that:
+Pub. L. 99–93, title VIII, §814, Aug. 16, 1985, 99 Stat. 455, as amended by Pub. L. 99–151, title III, §306, Nov. 13, 1985, 99 Stat. 808; Pub. L. 100–202, §101(i) \[title I, §5\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 102–392, title III, §323, Oct. 6, 1992, 106 Stat. 1726; Pub. L. 105–119, title VI, §625, Nov. 26, 1997, 111 Stat. 2522; Pub. L. 106–57, title I, §7, Sept. 29, 1999, 113 Stat. 412; Pub. L. 107–228, div. A, title VI, §684, Sept. 30, 2002, 116 Stat. 1411, provided that:
 
 “(a)
 
@@ -702,7 +702,7 @@ Termination.—The Caucus shall cease to exist on September 30, 2005.”
 
 Pub. L. 99–151, title III, §306, Nov. 13, 1985, 99 Stat. 808, provided that:
 
-“(a) Notwithstanding the provisions of this or any other Act, the United States International Narcotics Control Commission, established by section 814 of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987 \[section 814 of Pub. L. 99–93, set out as a note above\], is hereby redesignated and shall hereafter be known as the United States Senate Caucus on International Narcotics Control.
+“(a) Notwithstanding the provisions of this or any other Act, the United States International Narcotics Control Commission, established by section 814 of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987 \[section 814 of Pub. L. 99–93, set out as a noteabove\], is hereby redesignated and shall hereafter be known as the United States Senate Caucus on International Narcotics Control.
 
 “(b) Any reference to the United States International Narcotics Control Commission in any law, regulation, document, record, or other official paper of the United States shall be deemed to be a reference to the United States Senate Caucus on International Narcotics Control.”
 

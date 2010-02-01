@@ -20,7 +20,7 @@ Where a licensee or any other person has not complied with any provision of this
 
 #### (c) Order to show cause; contents; hearing; issuance and service
 
-Before revoking or suspending a license pursuant to subsection (a) of this section, or issuinga cease and desist order pursuant to subsection (b) of this section, the Administration shall serve upon the licensee and any other person involved an order to show cause why an order revoking or suspending the license or a cease and desist order should not be issued. Any such order to show cause shall contain a statement of the matters of fact and law asserted by the Administration and the legal authority and jurisdiction under which a hearing is to be held, and shall set forth that a hearing will be held before the Administration at a time and place stated in the order. If after hearing, or a waiver thereof, the Administration determines on the record that an order revoking or suspending the license or a cease and desist order should issue, it shall promptly issue such order, which shall include a statement of the findings of the Administration and the grounds and reasons therefor and specify the effective date of the order, and shall cause the order to be served on the licensee and any other person involved.
+Before revoking or suspending a license pursuant to subsection (a) of this section, or issuing a cease and desist order pursuant to subsection (b) of this section, the Administration shall serve upon the licensee and any other person involved an order to show cause why an order revoking or suspending the license or a cease and desist order should not be issued. Any such order to show cause shall contain a statement of the matters of fact and law asserted by the Administration and the legal authority and jurisdiction under which a hearing is to be held, and shall set forth that a hearing will be held before the Administration at a time and place stated in the order. If after hearing, or a waiver thereof, the Administration determines on the record that an order revoking or suspending the license or a cease and desist order should issue, it shall promptly issue such order, which shall include a statement of the findings of the Administration and the grounds and reasons therefor and specify the effective date of the order, and shall cause the order to be served on the licensee and any other person involved.
 
 #### (d) Subpena of person, and books, papers and documents; fees and mileage; enforcement
 
@@ -48,13 +48,13 @@ Subsec. (f). Pub. L. 98–620, §402(15)(B), struck out provision that the proce
 
 1966—Subsec. (a). Pub. L. 89–779, §4(b), inserted reference to revocation in introductory text preceding par. (1), and, in pars. (1) and (2), deleted restriction which limited the grounds for suspension or revocation for false or misleading statements to the situation in which such statements were made for the purpose of obtaining a license.
 
-Subsec. (b). Pub. L. 89–779, §4(c), expanded the Administration's authority to issue cease and desist orders by authorizing their issuance against individuals who have not complied with provisions of this chapter andagainst both licensees and individuals who have violated or are about to violate this chapter or regulations issued pursuant thereto.
+Subsec. (b). Pub. L. 89–779, §4(c), expanded the Administration's authority to issue cease and desist orders by authorizing their issuance against individuals who have not complied with provisions of this chapter and against both licensees and individuals who have violated or are about to violate this chapter or regulations issued pursuant thereto.
 
 Subsec. (c). Pub. L. 89–779, §4(d), inserted references to persons involved other than the licensee and to the revocation of licenses so as to conform the subsec. to the expansion of the Administration's authority to revoke licenses and to issue cease and desist orders to persons other than licensees under subsecs. (a) and (b).
 
 Subsec. (e). Pub. L. 89–779, §4(e), authorized the appeal from an order issued by the Administration under this section by other persons, besides the licensee, against whom an order is issued.
 
-Subsec. (f). Pub. 89–779, §4(f), provided that individuals as well as licensees are to be affected by subsec. (f).
+Subsec. (f). Pub. L. 89–779, §4(f), provided that individuals as well as licensees are to be affected by subsec. (f).
 
 #### Effective Date of 1984 Amendment
 

@@ -18,7 +18,7 @@
 
 (b) The circumstance referred to in subsection (a) of this section is that the organization, government, or agency receives, in any one year period, benefits in excess of $10,000 under a Federal program involving a grant, contract, subsidy, loan, guarantee, insurance, or other form of Federal assistance.
 
-(c) This section does not apply to bona fide salary, wages, fees, or other compensation paid,or expenses paid or reimbursed, in the usual course of business.
+(c) This section does not apply to bona fide salary, wages, fees, or other compensation paid, or expenses paid or reimbursed, in the usual course of business.
 
 (d) As used in this section—
 

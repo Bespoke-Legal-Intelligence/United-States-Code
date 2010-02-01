@@ -14,7 +14,7 @@ In order to create an independent and objective office—
 
 #### Effective Date
 
-Section 206 of title II of Pub. L. 100–504 provided that: “The provisions of this title and the amendments made by this title \[enacting this chapter and provisions set out as notes under sections 101 and 3901 of this title\]shall take effect 180 days after the date of the enactment of this title \[Oct. 18, 1988\].”
+Section 206 of title II of Pub. L. 100–504 provided that: “The provisions of this title and the amendments made by this title \[enacting this chapter and provisions set out as notes under sections 101 and 3901 of this title\] shall take effect 180 days after the date of the enactment of this title \[Oct. 18, 1988\].”
 
 #### Short Title
 

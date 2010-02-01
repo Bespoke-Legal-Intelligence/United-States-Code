@@ -10,7 +10,7 @@ Act June 8, 1906, ch. 3060, 34 Stat. 225, which is classified generally to secti
 
 #### National Monument Commission
 
-Act Aug. 31, 1954, ch. 1160, 68 Stat. 1029, provided for a Commission to obtain plans and designs for a usefulmonument to the nation symbolizing to the United States and the world the ideals of a democracy as embodied in the five freedoms (speech, religion, press, assembly, and petition) and to submit such plans to Congress for legislative authorization after approval by the Secretary of the Interior, the National Capital Planning Commission, and the Commission of Fine Arts, The Commission terminated 30 days after submission of required report which was submitted in 1957 but audit of business was not completed until September 1964.
+Act Aug. 31, 1954, ch. 1160, 68 Stat. 1029, provided for a Commission to obtain plans and designs for a useful monument to the nation symbolizing to the United States and the world the ideals of a democracy as embodied in the five freedoms (speech, religion, press, assembly, and petition) and to submit such plans to Congress for legislative authorization after approval by the Secretary of the Interior, the National Capital Planning Commission, and the Commission of Fine Arts, The Commission terminated 30 days after submission of required report which was submitted in 1957 but audit of business was not completed until September 1964.
 
 National Monuments Established Under Presidential Proclamation
 
@@ -78,7 +78,7 @@ Carrizo Plain National Monument, California.—Proc. No. 7393, Jan. 17, 2001, 66
 
 Casa Grande National Monument, Arizona.—Proc. No. 1470, Aug. 3, 1918, 40 Stat. 1818.
 
-Cascade-Siskiyou National Monument, Oregon.—Proc. No. 7318, June 9, 2000, 65 F.R. 37249.
+Cascade-Siskiyou National Monument, Oregon.—Proc. No. 7318, June 9, 2000, 65 F.R. 37249; Pub. L. 111–11, title I, §§1401–1406, Mar. 30, 2009, 123 Stat. 1026–1031.
 
 Castillo de San Marcos National Monument, Florida \[Monument changed from Fort Marion National Monument by act June 5, 1942, ch. 337, 56 Stat. 312\].—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968; Pub. L. 108–480, Dec. 23, 2004, 118 Stat. 3907.
 
@@ -116,7 +116,7 @@ Devils Tower National Monument, Wyoming.—Proc. No. 658, Sept. 24, 1906, 34 Sta
 
 Dinosaur National Monument, Utah-Colorado.—Proc. No. 1313, Oct. 4, 1915, 39 Stat. 1752; Proc. No. 2290, July 14, 1938, 53 Stat. 2454; Pub. L. 100–701, §§2–4, Nov. 19, 1988, 102 Stat. 4641.
 
-Edison Laboratory National Monument, New Jersey \[Monument and Edison Home National Historic Site together with certain adjacent lands redesignated Edison National Historic Site by Pub. L. 87–628, §1, Sept. 5, 1962, 76 Stat. 428\].—Proc. No. 3148, July 14, 1956, 70 Stat.
+Edison Laboratory National Monument, New Jersey \[Monument and Edison Home National Historic Site together with certain adjacent lands redesignated Edison National Historic Site by Pub. L. 87–628, §1, Sept. 5, 1962, 76 Stat. 428; Pub. L. 87–628 repealed and references to the Edison National Historic Site deemed to refer to the Thomas Edison National Historical Park by Pub. L. 111–11, title VII, §7110(c)(4), (5), Mar. 30, 2009, 123 Stat. 1198, see section 410mmm of this title\].—Proc. No. 3148, July 14, 1956, 70 Stat.
 
 c49.
 
@@ -208,6 +208,8 @@ Lewis and Clark Cavern National Monument, Montana.—Proc. No. 807, May 11, 1908
 
 Marble Canyon National Monument, Arizona.—Proc. No. 3889, Jan. 20, 1969, 83 Stat. 924.
 
+Marianas Trench Marine National Monument, Northern Mariana Islands and Guam.—Proc. No. 8335, Jan. 6, 2009, 74 F.R. 1557.
+
 Meriwether Lewis National Monument, Tennessee \[Monument included in Natchez Trace Parkway, see section 460–1 of this title\].—Proc. No. 1730, Feb. 6, 1925, 43 Stat. 1986; Proc. No. 1825, Dec. 6, 1927, 45 Stat. 2935.
 
 Minidoka Internment National Monument, Idaho \[Monument abolished and lands incorporated in Minidoka Historic Site by Pub. L. 110–229, title III, §313, May 8, 2008, 122 Stat. 770\].—Proc. No. 7395, Jan. 17, 2001, 66 F.R. 7347.
@@ -244,6 +246,8 @@ Oregon Caves National Monument, Oregon.—Proc. No. 876, July 12, 1909, 36 Stat.
 
 Organ Pipe Cactus National Monument, Arizona.—Proc. No. 2232, Apr. 13, 1937, 50 Stat. 1827; Pub. L. 108–64, July 29, 2003, 117 Stat. 874.
 
+Pacific Remote Islands Marine National Monument, Wake, Baker, Howland, and Jarvis Islands, Johnston Atoll, Kingman Reef, and Palmyra Atoll.—Proc. No. 8336, Jan. 6, 2009, 74 F.R. 1565.
+
 Papago Saguaro National Monument, Arizona \[Monument abolished by act Apr. 7, 1930, ch. 107, 46 Stat. 142, as amended by Pub. L. 109–163, div. B, title XXVIII, §2873, Jan. 6, 2006, 119 Stat. 3535\].—Proc. No. 1262, Jan. 31, 1914, 38 Stat. 1991.
 
 Papaha�AE8naumokua�AE8kea Marine National Monument, Hawaii \[Monument changed from Northwestern Hawaiian Islands Marine National Monument by Proc. No. 8112, Feb. 28, 2007, 72 F.R. 10031\].—Proc. No. 8031, June 15, 2006, 71 F.R. 36443.
@@ -258,11 +262,11 @@ Pipe Spring National Monument, Arizona.—Proc. No. 1663, May 31, 1923, 43 Stat.
 
 Pompeys Pillar National Monument, Montana.—Proc. No. 7396, Jan. 17, 2001, 66 F.R. 7351.
 
-Port Chicago National Memorial, California.—Pub. L. 102–562, title II, Oct. 28, 1992, 106 Stat. 4235.
-
 President Lincoln and Soldiers’ Home National Monument, District of Columbia.—Proc. No. 7329, July 7, 2000, 65 F.R. 43673.
 
 Rainbow Bridge National Monument, Utah.—Proc. No. 1043, May 30, 1910, 36 Stat. 2703.
+
+Rose Atoll Marine National Monument, American Samoa.—Proc. No. 8337, Jan. 6, 2009, 74 F.R. 1577.
 
 Russell Cave National Monument, Alabama.—Proc. No. 3413, May 11, 1961, 75 Stat. 1058.
 
@@ -354,7 +358,7 @@ Little Bighorn Battlefield National Monument, Montana.—Pub. L. 102–201, titl
 
 Mount St. Helens National Volcanic Monument, Washington.—Pub. L. 97–243, Aug. 26, 1982, 96 Stat. 301; Pub. L. 105–279, Oct. 23, 1998, 112 Stat. 2690.
 
-National Military Working Dog Teams Monument, Virginia—Pub. L. 110–181, div. B, title XXVIII, §2877, Jan. 28, 2008, 122 Stat. 563.
+National Military Working Dog Teams Monument, Virginia—Pub. L. 110–181, div. B, title XXVIII, §2877, Jan. 28, 2008, 122 Stat. 563; Pub. L. 111–84, div. B, title XXVIII, §2871, Oct. 28, 2009, 123 Stat. 2696.
 
 Newberry National Volcanic Monument, Oregon.—Pub. L. 101–522, Nov. 5, 1990, 104 Stat. 2288.
 
@@ -364,9 +368,11 @@ Petroglyph National Monument, New Mexico.—Pub. L. 101–313, title I, June 27,
 
 Poverty Point National Monument, Louisiana.—Pub. L. 100–560, Oct. 31, 1988, 102 Stat. 2803.
 
+Prehistoric Trackways National Monument, New Mexico.—Pub. L. 111–11, title II, §§2101–2105, Mar. 30, 2009, 123 Stat. 1096–1099.
+
 Salinas Pueblo Missions National Monument, New Mexico.—Pub. L. 96–550, title VI, §601, Dec. 19, 1980, 94 Stat. 3231, as amended by Pub. L. 100–559, title I, §101, Oct. 28, 1988, 102 Stat. 2797.
 
-Santa Rosa and San Jacinto Mountains National Monument, California.—Pub. L. 106–351, Oct. 24, 2000, 114 Stat. 1362; Pub. L. 106–434, §2, Nov. 6, 2000, 114 Stat. 1913.
+Santa Rosa and San Jacinto Mountains National Monument, California.—Pub. L. 106–351, Oct. 24, 2000, 114 Stat. 1362; Pub. L. 106–434, §2, Nov. 6, 2000, 114 Stat. 1913; Pub. L. 111–11, title I, §1853, Mar. 30, 2009, 123 Stat. 1068.
 
 National Memorials
 
@@ -434,7 +440,11 @@ National Medal of Honor Sites.—Pub. L. 106–83, Oct. 28, 1999, 113 Stat. 1293
 
 Patrick Henry National Memorial, Virginia.—Pub. L. 99–296, May 12, 1986, 100 Stat. 429.
 
+Port Chicago National Memorial, California.—Pub. L. 102–562, title II, Oct. 28, 1992, 106 Stat. 4235; Pub. L. 111–84, div. B, title XXVIII, §2853(a), Oct. 28, 2009, 123 Stat. 2685.
+
 Prisoner of War/Missing in Action National Memorial, California.—Pub. L. 108–454, title VI, §601, Dec. 10, 2004, 118 Stat. 3623.
+
+Richard L. Kohnstamm Memorial Area, Oregon.—Pub. L. 111–11, title I, §1202(b), Mar. 30, 2009, 123 Stat. 1009.
 
 Seabees of the United States Navy Memorial.—Pub. L. 92–422, Sept. 18, 1972, 86 Stat. 678.
 
@@ -468,5 +478,5 @@ Conveyance of property to National Academy of Sciences for erection and maintena
 
 #### Study To Add Alaska and Hawaii to Lincoln National Memorial
 
-Pub. L. 94–556, Oct. 19, 1976, 90 Stat. 2632, directed Secretary of the Interior to study feasibility of and makerecommendations for recognition at an appropriate place at Lincoln National Memorial of the addition to the Union of the States of Alaska and Hawaii, directed that recommendations, after review and approval by Commission of Fine Arts, National Capital Planning Commission, and Advisory Council on Historic Preservation, be submitted to Committees on Interior and Insular Affairs of the Senate and the House of Representatives, and, if neither committee adopted a resolution of disapproval, directed Secretary to carry out recommendations.
+Pub. L. 94–556, Oct. 19, 1976, 90 Stat. 2632, directed Secretary of the Interior to study feasibility of and make recommendations for recognition at an appropriate place at Lincoln National Memorial of the addition to the Union of the States of Alaska and Hawaii, directed that recommendations, after review and approval by Commission of Fine Arts, National Capital Planning Commission, and Advisory Council on Historic Preservation, be submitted to Committees on Interior and Insular Affairs of the Senate and the House of Representatives, and, if neither committee adopted a resolution of disapproval, directed Secretary to carry out recommendations.
 

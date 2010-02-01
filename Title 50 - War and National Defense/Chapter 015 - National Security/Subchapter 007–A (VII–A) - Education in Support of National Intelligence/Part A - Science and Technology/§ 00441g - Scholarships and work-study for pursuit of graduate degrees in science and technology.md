@@ -38,9 +38,9 @@ A prior section 1001 of act July 26, 1947, ch. 343, was renumbered section 1101 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–458, §1071(a)(1)(MM), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+2004—Subsec. (a). Pub. L. 108–458, §1071(a)(1)(MM), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-Subsec. (b). Pub. L. 108–458, §1072(a)(8), substituted “Office of the Director of National Intelligence” for“Assistant Director of Central Intelligence for Administration”.
+Subsec. (b). Pub. L. 108–458, §1072(a)(8), substituted “Office of the Director of National Intelligence” for “Assistant Director of Central Intelligence for Administration”.
 
 Pub. L. 108–458, §1071(a)(3)(C), which directed amendment of subsec. (b) by substituting “Director of National Intelligence” for “Director” each place it appeared, was executed by making the substitution the first two places it appeared to reflect the probable intent of Congress.
 

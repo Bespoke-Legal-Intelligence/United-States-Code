@@ -250,7 +250,7 @@ Subsec. (b)(3). Pub. L. 103–322, §330016(1)(K), substituted “under this tit
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–578, §5, Dec. 28, 2000, 114 Stat. 3077, provided that: “This Act \[amending this section, repealingsection 1738 of this title, and enacting provisions set out as a note below\] and the amendments made by this Act shall take effect 90 days after the date of enactment of this Act \[Dec. 28, 2000\].”
+Pub. L. 106–578, §5, Dec. 28, 2000, 114 Stat. 3077, provided that: “This Act \[amending this section, repealing section 1738 of this title, and enacting provisions set out as a note below\] and the amendments made by this Act shall take effect 90 days after the date of enactment of this Act \[Dec. 28, 2000\].”
 
 #### Effective Date of 1996 Amendment
 

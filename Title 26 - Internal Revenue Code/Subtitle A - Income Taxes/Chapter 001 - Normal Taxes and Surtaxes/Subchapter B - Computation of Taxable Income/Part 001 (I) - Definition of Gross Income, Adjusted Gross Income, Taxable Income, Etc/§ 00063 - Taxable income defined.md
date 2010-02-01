@@ -24,9 +24,11 @@ For purposes of this subtitle—
 
 &emsp;&emsp;(B) the additional standard deduction,
 
-&emsp;&emsp;(C) in the case of any taxable year beginning in 2008 or 2009, the real property tax deduction, and
+&emsp;&emsp;(C) in the case of any taxable year beginning in 2008 or 2009, the real property tax deduction,
 
-&emsp;&emsp;(D) the disaster loss deduction.
+&emsp;&emsp;(D) the disaster loss deduction, and
+
+&emsp;&emsp;(E) the motor vehicle sales tax deduction.
 
 #### (2) Basic standard deduction
 
@@ -94,6 +96,10 @@ For purposes of this subtitle—
 
 &emsp;For the purposes of paragraph (1), the term “disaster loss deduction” means the net disaster loss (as defined in section 165(h)(3)(B)).
 
+#### (9) Motor vehicle sales tax deduction
+
+&emsp;For purposes of paragraph (1), the term “motor vehicle sales tax deduction” means the amount allowable as a deduction under section 164(a)(6). Such term shall not include any amount taken into account under section 62(a).
+
 #### (d) Itemized deductions
 
 For purposes of this subtitle, the term “itemized deductions” means the deductions allowable under this chapter other than—
@@ -106,7 +112,7 @@ For purposes of this subtitle, the term “itemized deductions” means the dedu
 
 #### (1) In general
 
-&emsp;Unless an individual makes an election under this subsection for the taxable year, no itemized deduction shall be allowed for the taxable year. For purposes of this subtitle, the determination of whether a deduction is allowable under this chapter shall be made without regard to the preceding sentence.
+&emsp;Unless an individual makes an election under this subsection for the taxable year, no itemized deduction shall be allowed for thetaxable year. For purposes of this subtitle, the determination of whether a deduction is allowable under this chapter shall be made without regard to the preceding sentence.
 
 #### (2) Time and manner of election
 
@@ -154,7 +160,7 @@ For purposes of this subtitle, the term “itemized deductions” means the dedu
 
 For purposes of this section, marital status shall be determined under section 7703.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993; Pub. L. 107–16, title III, §301(a), (b), (c)(2), June 7, 2001, 115 Stat. 53, 54; Pub. L. 107–147, title IV, §411(e), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–27, title I, §103(a), May 28, 2003, 117 Stat. 754; Pub. L. 108–311, title I, §101(b), Oct. 4, 2004, 118 Stat. 1167; Pub. L. 110–289, div. C, title I, §3012(a), (b), July 30, 2008, 122 Stat. 2891, 2892; Pub. L. 110–343, div. C, title II, §204(a), title VII, §706(b)(1), (2), Oct. 3, 2008, 122 Stat. 3865, 3922.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993; Pub. L. 107–16, title III, §301(a), (b), (c)(2), June 7, 2001, 115 Stat. 53, 54; Pub. L. 107–147, title IV, §411(e), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–27, title I, §103(a), May 28, 2003, 117 Stat. 754; Pub. L. 108–311, title I, §101(b), Oct. 4, 2004, 118 Stat. 1167; Pub. L. 110–289, div. C, title I, §3012(a), (b), July 30, 2008, 122 Stat. 2891, 2892; Pub. L. 110–343, div. C, title II, §204(a), title VII, §706(b)(1), (2), Oct. 3, 2008, 122 Stat. 3865, 3922; Pub. L. 111–5, div. B, title I, §1008(c), Feb. 17, 2009, 123 Stat. 318.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -169,6 +175,10 @@ For purposes of this section, marital status shall be determined under section 7
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2009—Subsec. (c)(1)(E). Pub. L. 111–5, §1008(c)(1), added subpar. (E).
+
+Subsec. (c)(9). Pub. L. 111–5, §1008(c)(2), added par. (9).
 
 2008—Subsec. (c)(1)(C). Pub. L. 110–343, §204(a), inserted “or 2009” after “2008”.
 
@@ -313,6 +323,10 @@ Subsec. (i). Pub. L. 97–34, §121(b)(2), added subsec. (i).
 1978—Pub. L. 95–600 substituted “$3,400” for “$3,200” in par. (1), “$2,300” for “$2,200” in par. (2), and “$1,700” for “$1,600” in par. (3).
 
 1977—Pub. L. 95–30 completely revised definition of taxable income from one using the concept of a standard deduction and consisting of subsecs. (a) and (b) entitled, respectively, “General rule” and “Individuals electing standard deduction” to definition using the concepts of zero bracket amounts and excess itemized deductions and consisting of subsecs. (a) to (h) entitled, respectively, “Corporations”, “Individuals”, “Excess itemized deductions”, “Zero bracket amount”, “Unused zero bracket amount”, “Itemized deductions”, “Election to itemize”, and “Marital status”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–5 applicable to purchases on or after Feb. 17, 2009, in taxable years ending after such date, see section 1008(e) of Pub. L. 111–5, set out as a note under section 56 of this title.
 
 #### Effective Date of 2008 Amendment
 

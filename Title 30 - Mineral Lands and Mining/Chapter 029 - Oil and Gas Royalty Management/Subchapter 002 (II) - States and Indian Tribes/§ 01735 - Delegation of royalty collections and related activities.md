@@ -36,7 +36,7 @@ After notice and opportunity for a hearing, the Secretary is authorized to deleg
 
 #### (c) Ruling as to consistency of State's proposal
 
-After notice and opportunity for hearing, the Secretary shall issue a ruling as to the consistency of a State's proposal with the provisions of this section and regulations under subsection (d) of this section within 90 days after submission of such proposal. In any unfavorable ruling, the Secretary shall set forth the reasons therefor and state whether the Secretary will agree to delegate to the State if the State meets the conditions set forth in such ruling.
+After notice and opportunity for hearing, the Secretary shall issue a ruling as to the consistency of a State's proposal with the provisions of this section and regulations under subsection (d) of this section within 90 days after submission of such proposal. In any unfavorable ruling, theSecretary shall set forth the reasons therefor and state whether the Secretary will agree to delegate to the State if the State meets the conditions set forth in such ruling.
 
 #### (d) Promulgation of standards and regulations with respect to delegation
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 104–185 applicable with respect to production of oil and 
 
 #### Applicability of 1996 Amendment
 
-Amendment by Pub. L. 104–185 not applicable to any privately owned minerals or with respect to Indian lands, see sections 9 and 10 of Pub. L. 104–185, set out as a note under section 1701 of this title.
+Amendment by Pub. L. 104–185 not applicable to any privately owned minerals or with respect to Indianlands, see sections 9 and 10 of Pub. L. 104–185, set out as a note under section 1701 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

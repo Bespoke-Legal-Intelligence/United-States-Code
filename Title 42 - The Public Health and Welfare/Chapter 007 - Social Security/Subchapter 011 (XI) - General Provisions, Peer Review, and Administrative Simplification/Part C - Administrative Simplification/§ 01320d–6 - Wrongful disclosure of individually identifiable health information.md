@@ -10,7 +10,7 @@ A person who knowingly and in violation of this part—
 
 &emsp;(3) discloses individually identifiable health information to another person,
 
-> shall be punished as provided in subsection (b) of this section.
+> shall be punished as provided in subsection (b) of this section. For purposes of the previous sentence, a person (including an employee or other individual) shall be considered to have obtained or disclosed individually identifiable health information in violation of this part if the information is maintained by a covered entity (as defined in the HIPAA privacy regulation described in section 1320d–9(b)(3) of this title) and the individual obtained or disclosed such information without authorization.
 
 #### (b) Penalties
 
@@ -22,5 +22,13 @@ A person described in subsection (a) of this section shall—
 
 &emsp;(3) if the offense is committed with intent to sell, transfer, or use individually identifiable health information for commercial advantage, personal gain, or malicious harm, be fined not more than $250,000, imprisoned not more than 10 years, or both.
 
-(Aug. 14, 1935, ch. 531, title XI, §1177, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2029.)
+(Aug. 14, 1935, ch. 531, title XI, §1177, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2029; amended Pub. L. 111–5, div. A, title XIII, §13409, Feb. 17, 2009, 123 Stat. 271.)
+
+#### Amendments
+
+2009—Subsec. (a). Pub. L. 111–5 inserted at end “For purposes of the previous sentence, a person (including an employee or other individual) shall be considered to have obtained or disclosed individually identifiable health information in violation of this part if the information is maintained by a covered entity (as defined in the HIPAA privacy regulation described in section 1320d–9(b)(3) of this title) and the individual obtained or disclosed such information without authorization.”
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–5 effective 12 months after Feb. 17, 2009, see section 13423 of Pub. L. 111–5, set out as an Effective Date note under section 17931 of this title.
 

@@ -6,7 +6,7 @@ It shall be unlawful for any person, firm, corporation, or association, being a 
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–450, §1, Oct. 1, 1976, 90 Stat. 1501, provided: “That this Act \[amending section 295 of this title andenacting provisions set out as a note under section 295 of this title\] may be cited as the ‘Gold Labeling Act of 1976’.”
+Pub. L. 94–450, §1, Oct. 1, 1976, 90 Stat. 1501, provided: “That this Act \[amending section 295 of this title and enacting provisions set out as a note under section 295 of this title\] may be cited as the ‘Gold Labeling Act of 1976’.”
 
 #### Short Title
 

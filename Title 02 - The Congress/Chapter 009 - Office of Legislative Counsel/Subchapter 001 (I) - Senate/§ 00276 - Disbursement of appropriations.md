@@ -2,7 +2,7 @@
 
 All appropriations for the Office of the Legislative Counsel shall be disbursed by the Secretary of the Senate.
 
-(Feb. 24, 1919, ch. 18, §1303(c), (d), 40 Stat. 1142; June 2, 1924, ch. 234, title XI, §1101, 43 Stat. 353.)
+(Feb. 24, 1919, ch. 18, title XIII, §1303(c), (d), 40 Stat. 1142; June 2, 1924, ch. 234, title XI, §1101, 43 Stat. 353.)
 
 #### Codification
 

@@ -14,7 +14,7 @@ Upon receipt of information that there is hazardous waste at any site which has 
 
 #### (d) Public participation in settlements
 
-Whenever the United States or the Administrator proposes to covenant not to sue or to forbear from suit or to settle any claim arising under this section, notice, and opportunity for a public meeting in the affected area, and a reasonable opportunity to comment on the proposed settlement prior to its final entry shall be afforded to the public. The decision of the United States or the Administrator to enter into or not to enter into such Consent Decree, covenant or agreement shall not constitute a final agency action subject to judicial review under this chapter or chapter 7 of title 5.
+Whenever the United States or the Administrator proposes to covenant not to sue or to forbear from suit or to settle any claim arising under this section, notice, and opportunity for a public meeting in the affected area, and a reasonable opportunity to comment on the proposed settlement prior to its final entry shall be afforded to the public. The decision of theUnited States or the Administrator to enter into or not to enter into such Consent Decree, covenant or agreement shall not constitute a final agency action subject to judicial review under this chapter or chapter 7 of title 5.
 
 (Pub. L. 89–272, title II, §7003, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2826; amended Pub. L. 95–609, §7(q), Nov. 8, 1978, 92 Stat. 3083; Pub. L. 96–482, §25, Oct. 21, 1980, 94 Stat. 2348; Pub. L. 98–616, title IV, §§402, 403(a), 404, Nov. 8, 1984, 98 Stat. 3271, 3273.)
 

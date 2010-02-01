@@ -20,7 +20,7 @@ There are authorized to be appropriated to the President such sums as may be nec
 
 #### Amendments
 
-1985—Subsec. (a). Pub. L. 99–83, §105(a), amended subsec. (a) generally, substituting provisions authorizingappropriations of $37,000,000 for fiscal years 1986 and 1987, for provisions authorizing appropriations of $19,000,000 for fiscal years 1982 and 1983.
+1985—Subsec. (a). Pub. L. 99–83, §105(a), amended subsec. (a) generally, substituting provisions authorizing appropriations of $37,000,000 for fiscal years 1986 and 1987, for provisions authorizing appropriations of $19,000,000 for fiscal years 1982 and 1983.
 
 Subsec. (c). Pub. L. 99–83, §105(b)(1)(A), (B), designated existing provisions as cl. (1) and added cl. (2).
 

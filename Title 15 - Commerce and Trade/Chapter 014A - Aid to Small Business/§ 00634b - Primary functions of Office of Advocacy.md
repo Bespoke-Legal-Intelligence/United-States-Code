@@ -40,7 +40,7 @@ Section was not enacted as part of the Small Business Act which comprises this c
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–481 effective Oct. 1, 1981, and applicable to adversary adjudication as defined in section 504(b)(1)(C) of Title 5, Government Organization and Employees, and to civil actions and adversary adjudications described in section 2412 of Title 28, Judiciary and Judicial Procedure, which are pending on, or commenced on or after Oct. 1, 1981, see section 208 of Pub. L. 96–481, set out as an Effective Date note under section 504 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 96–481 effective Oct. 1, 1981, and applicable to adversary adjudication as defined in section 504(b)(1)(C) of Title 5, Government Organizationand Employees, and to civil actions and adversary adjudications described in section 2412 of Title 28, Judiciary and Judicial Procedure, which are pending on, or commenced on or after Oct. 1, 1981, see section 208 of Pub. L. 96–481, set out as an Effective Date note under section 504 of Title 5, Government Organization and Employees.
 
 #### Termination of Administrative Conference of United States
 

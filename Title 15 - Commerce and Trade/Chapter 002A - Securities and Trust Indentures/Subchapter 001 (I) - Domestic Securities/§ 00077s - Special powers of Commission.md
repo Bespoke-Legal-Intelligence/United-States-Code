@@ -54,7 +54,7 @@ For the purpose of all investigations which, in the opinion of the Commission, a
 
 &emsp;(C) the development of a uniform exemption from registration for small issuers which can be agreed upon among several States or between the States and the Federal Government. The Commission shall have the authority to adopt such an exemption as agreed upon for Federal purposes. Nothing in this chapter shall be construed as authorizing preemption of State law.
 
-(4) In order to carry out these policies and purposes, the Commission shall conduct an annualconference as well as such other meetings as are deemed necessary, to which representatives from such securities associations, securities self-regulatory organizations, agencies, and private organizations involved in capital formation shall be invited to participate.
+(4) In order to carry out these policies and purposes, the Commission shall conduct an annual conference as well as such other meetings as are deemed necessary, to which representatives from such securities associations, securities self-regulatory organizations, agencies, and private organizations involved in capital formation shall be invited to participate.
 
 (5) For fiscal year 1982, and for each of the three succeeding fiscal years, there are authorized to be appropriated such amounts as may be necessary and appropriate to carry out the policies, provisions, and purposes of this subsection. Any sums so appropriated shall remain available until expended.
 

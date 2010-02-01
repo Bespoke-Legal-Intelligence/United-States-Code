@@ -2,7 +2,7 @@
 
 (a)
 
-Periodic Assessment.—Each fiscal year, the Secretary of Defense shall prepare selected assessments of the capability of the national technology and industrial base to attain the national security objectives set forth in section 2501(a) of this title. The Secretary of Defense shall prepare such assessments in consultation with the Secretary of Commerce and the Secretary of Energy.
+Periodic Assessment.—Each fiscal year, the Secretary of Defense shall prepare selectedassessments of the capability of the national technology and industrial base to attain the national security objectives set forth in section 2501(a) of this title. The Secretary of Defense shall prepare such assessments in consultation with the Secretary of Commerce and the Secretary of Energy.
 
 (b)
 
@@ -10,9 +10,11 @@ Assessment Process.—The Secretary of Defense shall ensure that technology and 
 
 &emsp;(1) describe sectors or capabilities, their underlying infrastructure and processes;
 
-&emsp;(2) analyze present and projected financial performance of industries supporting the sectors or capabilities in the assessment; and
+&emsp;(2) analyze present and projected financial performance of industries supporting the sectors or capabilities in the assessment;
 
-&emsp;(3) identify technological and industrial capabilities and processes for which there is potential for the national industrial and technology base not to be able to support the achievement of national security objectives.
+&emsp;(3) identify technological and industrial capabilities and processes for which there is potential for the national industrial and technology base not to be able to support the achievement of national security objectives; and
+
+&emsp;(4) consider the effects of the termination of major defense acquisition programs (as the term is defined in section 2430 of this title) in the previous fiscal year on the sectors and capabilities in the assessment.
 
 (c)
 
@@ -26,13 +28,15 @@ Assessment of Extent of Dependency on Foreign Source Items.—Each assessment un
 
 Integrated Process.—The Secretary of Defense shall ensure that consideration of the technology and industrial base assessments is integrated into the overall budget, acquisition, and logistics support decision processes of the Department of Defense.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4215, Oct. 23, 1992, 106 Stat. 2667; amended Pub. L. 103–35, title II, §201(g)(7), May 31, 1993, 107 Stat. 100; Pub. L. 104–201, div. A, title VIII, §829(c)(1), Sept. 23, 1996, 110 Stat. 2612.)
+(Added Pub. L. 102–484, div. D, title XLII, §4215, Oct. 23, 1992, 106 Stat. 2667; amended Pub. L. 103–35, title II, §201(g)(7), May 31, 1993, 107 Stat. 100; Pub. L. 104–201, div. A, title VIII, §829(c)(1), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, §303(b), May 22, 2009, 123 Stat. 1731.)
 
 #### Prior Provisions
 
 A prior section 2505 was renumbered section 2532 of this title.
 
 #### Amendments
+
+2009—Subsec. (b)(4). Pub. L. 111–23 added par. (4).
 
 1996—Pub. L. 104–201 reenacted section catchline without change and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d) providing for National Defense Technology and Industrial Base Council to prepare, at least annually through fiscal year 1997 and biennially thereafter, a comprehensive assessment of capability of the national technology and industrial base to attain national security objectives.
 

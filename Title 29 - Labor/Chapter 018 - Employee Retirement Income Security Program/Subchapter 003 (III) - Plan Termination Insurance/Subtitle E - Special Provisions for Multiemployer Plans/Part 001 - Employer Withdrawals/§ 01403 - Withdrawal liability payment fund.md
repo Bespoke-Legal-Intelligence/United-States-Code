@@ -80,7 +80,7 @@ Notwithstanding any other provision of this chapter, a fiduciary of the fund sha
 
 #### (g) Prohibition on payments from fund to plan where certain labor negotiations involve employer withdrawn or partially withdrawn from plan and continuity of labor organization representing employees continues
 
-No payments shall be made from a fund to a plan on the occasion of a withdrawal or partial withdrawal of an employer from such plan if the employees representing the withdrawn contribution base units continue, after such withdrawal, to be represented under section 159 of this title (or other applicable labor laws) in negotiations with such employer by the labor organizationwhich represented such employees immediately preceding such withdrawal.
+No payments shall be made from a fund to a plan on the occasion of a withdrawal or partial withdrawal of an employer from such plan if the employees representing the withdrawn contribution base units continue, after such withdrawal, to be represented under section 159 of this title (or other applicable labor laws) in negotiations with such employer by the labor organization which represented such employees immediately preceding such withdrawal.
 
 #### (h) Purchase of insurance by employer
 
@@ -94,7 +94,7 @@ The corporation may provide by regulation rules not inconsistent with this secti
 
 #### References in Text
 
-This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 93–406, known asthe Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
 

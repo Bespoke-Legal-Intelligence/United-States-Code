@@ -76,7 +76,7 @@
 
 &emsp;(i) the injunction is to be implemented in connection with a trust that, pursuant to the plan of reorganization—
 
-&emsp;&emsp;(I) is to assume the liabilities of a debtor which at the time of entry of the order forrelief has been named as a defendant in personal injury, wrongful death, or property-damage actions seeking recovery for damages allegedly caused by the presence of, or exposure to, asbestos or asbestos-containing products;
+&emsp;&emsp;(I) is to assume the liabilities of a debtor which at the time of entry of the order for relief has been named as a defendant in personal injury, wrongful death, or property-damage actions seeking recovery for damages allegedly caused by the presence of, or exposure to, asbestos or asbestos-containing products;
 
 &emsp;&emsp;(II) is to be funded in whole or in part by the securities of 1 or more debtors involved in such plan and by the obligation of such debtor or debtors to make future payments, including dividends;
 
@@ -182,7 +182,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;&emsp;(C) such legal representative did not object to confirmation of such plan or issuance of such injunction; and
 
-&emsp;(2) for purposes of paragraph (1), if a trust described in subsection (g)(2)(B)(i) is subject to a court order on the date of the enactment of this Act staying such trust from settling or paying further claims—
+&emsp;(2) for purposes of paragraph (1), if a trust described in subsection (g)(2)(B)(i) is subject toa court order on the date of the enactment of this Act staying such trust from settling or paying further claims—
 
 &emsp;&emsp;(A) the requirements of subsection (g)(2)(B)(ii)(V) shall not apply with respect to such trust until such stay is lifted or dissolved; and
 
@@ -234,7 +234,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;&emsp;&emsp;(I) the annual percentage rate under section 128(a)(4) of the Truth in Lending Act, as disclosed to the debtor in the most recent disclosure statement given to the debtor prior to the entering into an agreement of the kind specified in subsection (c) with respect to the debt, or, if no such disclosure statement was given to the debtor, the annual percentage rate as it would have been so disclosed at the time the disclosure statement is given to the debtor, or to the extent this annual percentage rate is not readily available or not applicable, then
 
-&emsp;&emsp;&emsp;(II) the simple interest rate applicable to the amount reaffirmed as of the date the disclosure statement is given to the debtor, or if different simple interest rates apply to different balances, the simple interest rate applicable to each such balance, identifying the amount of such balance included in the amount reaffirmed, or
+&emsp;&emsp;&emsp;(II) the simple interest rate applicable to the amount reaffirmed as of the date thedisclosure statement is given to the debtor, or if different simple interest rates apply to different balances, the simple interest rate applicable to each such balance, identifying the amount of such balance included in the amount reaffirmed, or
 
 &emsp;&emsp;&emsp;(III) if the entity making the disclosure elects, to disclose the annual percentage rate under (I) and the simple interest rate under (II).
 
@@ -246,7 +246,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;&emsp;(i) by making the statement: “Your first payment in the amount of $\_\_\_\_\_\_ is due on \_\_\_\_\_\_ but the future payment amount may be different. Consult your reaffirmation agreement or credit agreement, as applicable.”, and stating the amount of the first payment and the due date of that payment in the places provided;
 
-&emsp;&emsp;(ii) by making the statement: “Your payment schedule will be:”, and describing the repayment schedule with the number, amount, and due dates or period of payments scheduled to repay the debts reaffirmed tothe extent then known by the disclosing party; or
+&emsp;&emsp;(ii) by making the statement: “Your payment schedule will be:”, and describing the repayment schedule with the number, amount, and due dates or period of payments scheduled to repay the debts reaffirmed to the extent then known by the disclosing party; or
 
 &emsp;&emsp;(iii) by describing the debtor's repayment obligations with reasonable specificity to the extent then known by the disclosing party.
 
@@ -272,7 +272,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 “Your right to rescind (cancel) your reaffirmation agreement. You may rescind (cancel) your reaffirmation agreement at any time before the bankruptcy court enters a discharge order, or before the expiration of the 60-day period that begins on the date your reaffirmation agreement is filed with the court, whichever occurs later. To rescind (cancel) your reaffirmation agreement, you must notify the creditor that your reaffirmation agreement is rescinded (or canceled).
 
-“What are your obligations if you reaffirm the debt? A reaffirmed debt remains your personal legal obligation. It is not discharged in your bankruptcy case. That means that if you default on your reaffirmed debt after your bankruptcy case is over, your creditor may be able to take your property or your wages. Otherwise, your obligations will be determined by the reaffirmation agreement which may have changed the terms of the original agreement. For example, if you are reaffirming an open end credit agreement, the creditor may be permitted by that agreement or applicable law to change the terms of that agreement in the future under certain conditions.
+“What are your obligations if you reaffirm the debt? A reaffirmed debt remains your personal legal obligation. It is not discharged in your bankruptcy case. That means that if you default on your reaffirmed debt after your bankruptcy case is over, your creditor may be able to take your property or your wages. Otherwise, your obligations will be determined by the reaffirmation agreement which may have changed the terms of the original agreement. For example, if you are reaffirming an open end credit agreement, the creditor may be permitted by thatagreement or applicable law to change the terms of that agreement in the future under certain conditions.
 
 “Are you required to enter into a reaffirmation agreement by any law? No, you are not required to reaffirm a debt by any law. Only agree to reaffirm a debt if it is in your best interest. Be sure you can afford the payments you agree to make.
 

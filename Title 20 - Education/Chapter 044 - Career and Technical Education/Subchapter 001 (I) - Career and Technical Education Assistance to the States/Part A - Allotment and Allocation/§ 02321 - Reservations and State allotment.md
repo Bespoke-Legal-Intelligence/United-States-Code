@@ -160,7 +160,7 @@ For the purpose of this section, the term “State” means each of the several 
 
 Paragraphs (1)(C) and (2), as such paragraphs were in effect on the day before August 12, 2006, referred to in subsec. (a)(4)(B)(ii)(I), (C)(i), (D)(i)(II)(aa), (bb), mean paragraphs (1)(C) and (2) of section 2321(a) of this title, as added by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3083, as amended, prior to the general amendment of this chapter by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 691. See Prior Provisions note below.
 
-Part A of title I of the Carl D. Perkins Vocational and Applied Technology Education Act, as such part was in effect on the day before October 31, 1998, referred to in subsec. (a)(5)(A), means part A of title I of Pub. L. 88–210, as added by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2438, as amended, which was classified to part A (§2311 et seq.) of subchapter I of this chapter prior to the general amendment of this chapter by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
+Part A of title I of the Carl D. Perkins Vocational and Applied Technology Education Act, as such part was in effect on the day before October 31, 1998, referred to in subsec. (a)(5)(A), means part A of title I of Pub. L. 88–210, as added by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2438, as amended, which was classified to part A\(§2311 et seq.) of subchapter I of this chapter prior to the general amendment of this chapter by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
 
 #### Prior Provisions
 

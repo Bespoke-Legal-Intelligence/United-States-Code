@@ -8,7 +8,7 @@ The authority of the Secretary to purchase troubled assets under this chapter sh
 
 &emsp;(2) If at any time, the President submits to the Congress a written certification that the Secretary needs to exercise the authority under this paragraph, effective upon such submission, such authority shall be limited to $350,000,000,000 outstanding at any one time.
 
-&emsp;(3) If, at any time after the certification in paragraph (2) has been made, the President transmits to the Congress a written report detailing the plan of the Secretary to exercise the authority under this paragraph, unless there is enacted, within 15 calendar days of such transmission, a joint resolution described in subsection (c), effective upon the expiration of such 15-day period, such authority shall be limited to $700,000,000,000 outstanding at any one time.
+&emsp;(3) If, at any time after the certification in paragraph (2) has been made, the President transmits to the Congress a written report detailing the plan of the Secretary to exercise the authority under this paragraph, unless there is enacted, within 15 calendar days of such transmission, a joint resolution described in subsection (c), effective upon the expiration of such 15-day period, such authority shall be limited to $700,000,000,000, as such amount is reduced by $1,259,000,000, outstanding at any one time.
 
 #### (b) Aggregation of purchase prices
 
@@ -18,7 +18,7 @@ The amount of troubled assets purchased by the Secretary outstanding at any one 
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this section, the Secretary may not exercise any authority to make purchases under this chapter with regard to any amount in excess of $350,000,000,000 previously obligated, as described in this section if, within 15 calendar days after the date on which Congress receivesa report of the plan of the Secretary described in subsection (a)(3), there is enacted into law a joint resolution disapproving the plan of the Secretary with respect to such additional amount.
+&emsp;Notwithstanding any other provision of this section, the Secretary may not exercise any authority to make purchases under this chapter with regard to any amount in excess of $350,000,000,000 previously obligated, as described in this section if, within 15 calendar days after the date on which Congress receives a report of the plan of the Secretary described in subsection (a)(3), there is enacted into law a joint resolution disapproving the plan of the Secretary with respect to such additional amount.
 
 #### (2) Contents of joint resolution
 
@@ -48,7 +48,7 @@ The amount of troubled assets purchased by the Secretary outstanding at any one 
 
 #### (4) Consideration
 
-&emsp;The joint resolution shall be considered as read. All points of order against the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to its passage without intervening motion except two hours of debate equally divided and controlled by the proponent and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
+&emsp;The joint resolution shall be considered as read. All points of order against the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to its passage without intervening motion except two hours of debate equally divided and controlled by the proponent and an opponent. Amotion to reconsider the vote on passage of the joint resolution shall not be in order.
 
 #### (e) Fast track consideration in Senate
 
@@ -120,15 +120,21 @@ The amount of troubled assets purchased by the Secretary outstanding at any one 
 
 &emsp;&emsp;(A) as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a joint resolution, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
 
-&emsp;&emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
+&emsp;&emsp;(B) with full recognition of the constitutional right of either House to change therules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
 
-(Pub. L. 110–343, div. A, title I, §115, Oct. 3, 2008, 122 Stat. 3780.)
+(Pub. L. 110–343, div. A, title I, §115, Oct. 3, 2008, 122 Stat. 3780; Pub. L. 111–22, div. A, title II, §202(b), title IV, §402(f), May 20, 2009, 123 Stat. 1643, 1658.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (c)(1), was in the original “this Act” and was translated as reading “this division”, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (c)(2)(C), (D), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to this chapter. Paragraphs (1) and (2) of section 115(a) of the Act are classified to paragraphs (1) and (2), respectively, of subsec. (a) of this section. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables.
+
+#### Amendments
+
+2009—Subsec. (a)(3). Pub. L. 111–22, §402(f), which directed that “notwithstanding the amendment made by section 202(b) of” Pub. L. 111–22, par.(3) was to be amended by inserting “, as such amount is reduced by $1,259,000,000,” after “$700,000,000,000”, was executed in lieu of amendment by Pub. L. 111–22, §202(b), to reflect the probable intent of Congress. See below.
+
+Pub. L. 111–22, §202(b), which directed insertion of “, as such amount is reduced by $1,244,000,000,” after “$700,000,000,000”, was not executed to reflect the probable intent of Congress and the subsequent amendment by section 402(f) of Pub. L. 111–22. See above.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

@@ -1,6 +1,6 @@
 ### §2006e. Prohibition on use of loans for certain purposes
 
-The Secretary shall not approve any loan under this chapter to drain, dredge, fill, level, or otherwise manipulate a wetland (as defined in section 3801(a)(16) <sup>1</sup> of title 16), or to engage in any activity that results in impairing or reducing the flow, circulation, or reach of water, except in the case of activity related to the maintenance of previously converted wetlands, or in the case of such activity that is already commenced before November 28, 1990. This section shall not apply to a loan made or guaranteed under this chapter for a utility line.
+The Secretary shall not approve any loan under this chapter to drain, dredge, fill, level, or otherwise manipulate a wetland (as defined in section 3801(a)(16) <sup>1</sup> of title 16), or to engage in any activity that results in impairing or reducing the flow, circulation, or reach of water, except in the case of activity related to the maintenance of previously converted wetlands, or in the case of such activity that is already commenced before November 28, 1990. This sectionshall not apply to a loan made or guaranteed under this chapter for a utility line.
 
 (Pub. L. 87–128, title III, §363, as added Pub. L. 101–624, title XVIII, §1824, Nov. 28, 1990, 104 Stat. 3831; amended Pub. L. 102–237, title V, §501(i), Dec. 13, 1991, 105 Stat. 1868; Pub. L. 104–127, title VII, §751, Apr. 4, 1996, 110 Stat. 1129.)
 

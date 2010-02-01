@@ -8,6 +8,7 @@ Part A—Recurring National Security Authorization Provisions
 - [&sect; 02741 - Definitions](%C2%A7%2002741%20-%20Definitions.md)
 - [&sect; 02742 - Reprogramming](%C2%A7%2002742%20-%20Reprogramming.md)
 - [&sect; 02743 - Minor construction projects](%C2%A7%2002743%20-%20Minor%20construction%20projects.md)
+- [&sect; 02743a - General plant projects](%C2%A7%2002743a%20-%20General%20plant%20projects.md)
 - [&sect; 02744 - Limits on construction projects](%C2%A7%2002744%20-%20Limits%20on%20construction%20projects.md)
 - [&sect; 02745 - Fund transfer authority](%C2%A7%2002745%20-%20Fund%20transfer%20authority.md)
 - [&sect; 02746 - Conceptual and construction design](%C2%A7%2002746%20-%20Conceptual%20and%20construction%20design.md)

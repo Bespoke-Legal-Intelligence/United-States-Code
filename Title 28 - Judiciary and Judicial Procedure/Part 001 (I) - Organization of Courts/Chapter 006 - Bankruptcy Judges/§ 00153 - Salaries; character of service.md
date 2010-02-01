@@ -30,7 +30,7 @@ Section 1003(b) of Pub. L. 100–702 provided that:
 
 #### Continuation of Salaries of Bankruptcy Judges in Effect on June 27, 1984
 
-Section 105(a) of Pub. L. 98–353 provided that: “The salary of a bankruptcy judge in effect on June 27, 1984, shall remain in effect until changed as a result of a determination or adjustment made pursuant to section153(a) of title 28, United States Code, as added by this Act.”
+Section 105(a) of Pub. L. 98–353 provided that: “The salary of a bankruptcy judge in effect on June 27, 1984, shall remain in effect until changed as a result of a determination or adjustment made pursuant to section 153(a) of title 28, United States Code, as added by this Act.”
 
 #### Part-Time Bankruptcy Judges
 

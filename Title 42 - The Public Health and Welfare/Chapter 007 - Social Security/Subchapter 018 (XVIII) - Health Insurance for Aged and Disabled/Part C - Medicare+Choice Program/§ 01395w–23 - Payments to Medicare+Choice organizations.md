@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Under a contract under section 1395w–27 of this title and subject to subsections (e), (g), and (i) of this section and section 1395w–28(e)(4) of this title, the Secretary shall make monthly payments under this section in advance to each Medicare+Choice organization, with respect to coverage of an individual under this part in a Medicare+Choice payment area for a month, in an amount determined as follows:
+&emsp;&emsp;Under a contract under section 1395w–27 of this title and subject to subsections (e), (g), (i), and (<i>l</i>) of this section and section 1395w–28(e)(4) of this title, the Secretary shall make monthly payments under this section in advance to each Medicare+Choice organization, with respect to coverage of an individual under this part in a Medicare+Choice payment area for a month, in an amount determined as follows:
 
 #### (i) Payment before 2006
 
@@ -80,7 +80,7 @@
 
 #### (H) Special rule for end-stage renal disease
 
-&emsp;&emsp;The Secretary shall establish separate rates of payment to a Medicare+Choice organization with respect to classes of individuals determined to have end-stage renal disease and enrolled in a Medicare+Choice plan of the organization. Such rates of payment shall be actuarially equivalent to rates that would have been paid with respect to other enrollees in the MA payment area (or such other area as specified by the Secretary) under the provisions of this section as in effect before December 8, 2003. In accordance with regulations, the Secretary shall provide for the application of the seventh sentence of section 1395rr(b)(7) of this title to payments under this section covering the provision of renal dialysis treatment in the same manner as such sentence applies to composite rate payments described in such sentence. In establishing such rates, the Secretary shall provide for appropriate adjustments to increase each rate to reflect the demonstration rate (including the risk adjustment methodology associated with such rate) of the social health maintenance organization end-stage renal disease capitation demonstrations (established by section 2355 of the Deficit Reduction Act of 1984, as amended by section 13567(b) of the Omnibus Budget Reconciliation Act of 1993), and shall compute such rates by taking into account such factors as renal treatment modality, age, and the underlying cause of the end-stage renal disease. The Secretary may apply the competitive bidding methodology provided for in this section, with appropriate adjustments to account for the risk adjustment methodology applied to end stage renal disease payments.
+&emsp;&emsp;The Secretary shall establish separate rates of payment to a Medicare+Choice organization with respect to classes of individuals determined to have end-stage renal disease and enrolled in a Medicare+Choice plan of the organization. Such rates of payment shall be actuarially equivalent to rates that would have been paid with respect to other enrollees in the MA payment area (or such other area as specified by the Secretary) under the provisions of this section as in effect before December 8, 2003. In accordance with regulations, the Secretary shall provide for the application of the seventh sentence of section 1395rr(b)(7) of this title to payments under this section covering the provision of renal dialysis treatment in the same manner as such sentence applies to composite rate payments described in such sentence. In establishing such rates, the Secretary shall provide for appropriate adjustments to increase each rate to reflect the demonstration rate (including the risk adjustment methodology associated with such rate) of the social health maintenance organization end-stage renal disease capitation demonstrations (established by section 2355 of the Deficit Reduction Act of 1984, asamended by section 13567(b) of the Omnibus Budget Reconciliation Act of 1993), and shall compute such rates by taking into account such factors as renal treatment modality, age, and the underlying cause of the end-stage renal disease. The Secretary may apply the competitive bidding methodology provided for in this section, with appropriate adjustments to account for the risk adjustment methodology applied to end stage renal disease payments.
 
 #### (2) Adjustment to reflect number of enrollees
 
@@ -148,7 +148,7 @@
 
 #### (4) Payment rule for federally qualified health center services
 
-&emsp;If an individual who is enrolled with an MA plan under this part receives a service from a federally qualified health center that has a written agreement with the MA organization that offers such plan for providing such a service (including any agreement required under section 1395w–27(e)(3) of this title)—
+&emsp;If an individual who is enrolled with an MA plan under this part receives a service from afederally qualified health center that has a written agreement with the MA organization that offers such plan for providing such a service (including any agreement required under section 1395w–27(e)(3) of this title)—
 
 &emsp;&emsp;(A) the Secretary shall pay the amount determined under section 1395<i>l</i>(a)(3)(B) of this title directly to the federally qualified health center not less frequently than quarterly; and
 
@@ -218,7 +218,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this part, subject to paragraphs (6)(C) and (7), each annual Medicare+�Choice capitation rate, for a Medicare+Choice payment area that is an MA local area for a contract year consisting of a calendar year, is equal to the largest of the amounts specified in the following subparagraph (A), (B), (C), or (D):
+&emsp;For purposes of this part, subject to paragraphs (6)(C) and (7), each annual Medicare+Choice capitation rate, for a Medicare+Choice payment area that is an MA local area for a contract year consisting of acalendar year, is equal to the largest of the amounts specified in the following subparagraph (A), (B), (C), or (D):
 
 #### (A) Blended capitation rate
 
@@ -264,7 +264,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each year specified in clause (ii), the adjusted average per capita cost for the year involved, determined under section 1395mm(a)(4) of this title and adjusted as appropriate for the purpose of risk adjustment, for the MA payment area for individuals who are not enrolled in an MA plan under this part for the year, but adjusted to exclude costs attributable to payments under section 1395ww(h) of this title.
+&emsp;&emsp;&emsp;For each year specified in clause (ii), the adjusted average per capita cost for the year involved, determined under section 1395mm(a)(4) of this title and adjusted as appropriate for the purpose of risk adjustment, for the MA payment area for individuals who are not enrolled in an MA plan under this part for the year, but adjusted to exclude costs attributable to payments under sections,<sup>2</sup> 1395w–4(<i>o</i>), and <sup>2</sup> 1395ww(n) and 1395ww(h) of this title.
 
 #### (ii) Periodic rebasing
 
@@ -272,7 +272,7 @@
 
 #### (iii) Inclusion of costs of VA and DOD military facility services to medicare-eligible beneficiaries
 
-&emsp;&emsp;&emsp;In determining the adjusted average per capita cost under clause (i) for a year, such cost shall be adjusted to include the Secretary's estimate, on a per capita basis, of the amount of additional payments that would have been made in the area involved under this subchapter if individuals entitled to benefits under this subchapter had not received services from facilities of theDepartment of Defense or the Department of Veterans Affairs.
+&emsp;&emsp;&emsp;In determining the adjusted average per capita cost under clause (i) for a year, such cost shall be adjusted to include the Secretary's estimate, on a per capita basis, of the amount of additional payments that would have been made in the area involved under this subchapter if individuals entitled to benefits under this subchapter had not received services from facilities of the Department of Defense or the Department of Veterans Affairs.
 
 #### (2) Area-specific and national percentages
 
@@ -294,7 +294,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1)(A), subject to subparagraphs (B) and (E), the annual area-specific Medicare+Choice capitation rate for a Medicare+Choice payment area—
+&emsp;&emsp;For purposes of paragraph (1)(A), subject to subparagraphs (B) and (E), the annualarea-specific Medicare+Choice capitation rate for a Medicare+Choice payment area—
 
 &emsp;&emsp;&emsp;(i) for 1998 is, subject to subparagraph (D), the annual per capita rate of payment for 1997 determined under section 1395mm(a)(1)(C) of this title for the area, increased by the national per capita Medicare+Choice growth percentage for 1998 (described in paragraph (6)(A)); or
 
@@ -352,7 +352,7 @@
 
 &emsp;&emsp;&emsp;(ii) the proportion of such rate for the year which is attributable to such type of services, and
 
-&emsp;&emsp;&emsp;(iii) an index that reflects (for that year and that type of services) the relativeinput price of such services in the area compared to the national average input price of such services.
+&emsp;&emsp;&emsp;(iii) an index that reflects (for that year and that type of services) the relative input price of such services in the area compared to the national average input price of such services.
 
 > &emsp;&emsp;In applying clause (iii), the Secretary may, subject to subparagraph (C), apply those indices under this subchapter that are used in applying (or updating) national payment rates for specific areas and localities.
 
@@ -400,7 +400,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In this part, the “national per capita Medicare+Choice growth percentage” for a year is the percentage determined by the Secretary, by March 1st before the beginning of the year involved, to reflect the Secretary's estimate of the projected per capita rate of growth in expenditures under this subchapter for an individual entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter, reduced by the number of percentage points specified in subparagraph (B) for the year. Separate determinations may be made for aged enrollees, disabled enrollees, and enrollees with end-stage renal disease.
+&emsp;&emsp;In this part, the “national per capita Medicare+Choice growth percentage” for a year is the percentage determined by the Secretary, by March 1st before the beginning of the year involved, to reflect the Secretary's estimate of the projected per capita rate of growth in expenditures under this subchapter for an individual entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter, excluding expenditures attributable to subsections (a)(7) and (<i>o</i>) of section 1395w–4 of this title and subsections (b)(3)(B)(ix) and (n) of section 1395ww of this title, reduced by the number of percentage points specified in subparagraph (B) for the year. Separate determinations may be made for aged enrollees, disabled enrollees, and enrollees with end-stage renal disease.
 
 #### (B) Adjustment
 
@@ -424,7 +424,7 @@
 
 #### (7) Adjustment for national coverage determinations and legislative changes in benefits
 
-&emsp;If the Secretary makes a determination with respect to coverage under this subchapter or there is a change in benefits required to be provided under this part that the Secretaryprojects will result in a significant increase in the costs to Medicare+Choice of providing benefits under contracts under this part (for periods after any period described in section 1395w–22(a)(5) of this title), the Secretary shall adjust appropriately the payments to such organizations under this part. Such projection and adjustment shall be based on an analysis by the Chief Actuary of the Centers for Medicare \& Medicaid Services of the actuarial costs associated with the new benefits.
+&emsp;If the Secretary makes a determination with respect to coverage under this subchapter or there is a change in benefits required to be provided under this part that the Secretary projects will result in a significant increase in the costs to Medicare+Choice of providing benefits under contracts under this part (for periods after any period described in section 1395w–22(a)(5) of this title), the Secretary shall adjust appropriately the payments to such organizations under this part. Such projection and adjustment shall be based on an analysis by the Chief Actuary of the Centers for Medicare \& Medicaid Services of the actuarial costs associated with the new benefits.
 
 #### (d) MA payment area; MA local area; MA region defined
 
@@ -492,11 +492,11 @@
 
 #### (3) Lump-sum deposit of medical savings account contribution
 
-&emsp;In the case of an individual electing an MSA plan effective beginning with a month in a year, the amount of the contribution to the Medicare+Choice MSA on behalf of the individual for that month and all successive months in the year shall be deposited duringthat first month. In the case of a termination of such an election as of a month before the end of a year, the Secretary shall provide for a procedure for the recovery of deposits attributable to the remaining months in the year.
+&emsp;In the case of an individual electing an MSA plan effective beginning with a month in a year, the amount of the contribution to the Medicare+Choice MSA on behalf of the individual for that month and all successive months in the year shall be deposited during that first month. In the case of a termination of such an election as of a month before the end of a year, the Secretary shall provide for a procedure for the recovery of deposits attributable to the remaining months in the year.
 
 #### (f) Payments from Trust Funds
 
-The payment to a Medicare+Choice organization under this section for individuals enrolled under this part with the organization and payments to a Medicare+Choice MSA under subsection (e)(1) of this section shall be made from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in such proportion as the Secretary determines reflects the relative weight that benefits under part A of this subchapter and under part B of this subchapter represents of the actuarial value of the total benefits under this subchapter. Payments to MA organizations for statutory drug benefits provided under this subchapter are made from the Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund. Monthly payments otherwise payable under this section for October 2000 shall be paid on the first business day of such month. Monthly payments otherwise payable under this section for October 2001 shall be paid on the last business day of September 2001. Monthly payments otherwise payable under this section for October 2006 shall be paid on the first business day of October 2006.
+The payment to a Medicare+Choice organization under this section for individuals enrolled under this part with the organization and for payments under subsection (<i>l</i>) and subsection (m) and payments to a Medicare+Choice MSA under subsection (e)(1) of this section shall be made from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in such proportion as the Secretary determines reflects the relative weight that benefits under part A of this subchapter and under part B of this subchapter represents of the actuarial value of the total benefits under this subchapter. Payments to MA organizations for statutory drug benefits provided under this subchapter are made from the Medicare Prescription Drug Account in the FederalSupplementary Medical Insurance Trust Fund. Monthly payments otherwise payable under this section for October 2000 shall be paid on the first business day of such month. Monthly payments otherwise payable under this section for October 2001 shall be paid on the last business day of September 2001. Monthly payments otherwise payable under this section for October 2006 shall be paid on the first business day of October 2006.
 
 #### (g) Special rule for certain inpatient hospital stays
 
@@ -558,7 +558,7 @@ In the case of an individual who is receiving inpatient hospital services from a
 
 #### (4) Construction
 
-&emsp;Nothing in paragraph (1) shall be construed as affecting the calculation of the annual Medicare+Choice capitation rate under subsection (c) of this section for any payment area or as applying to payment for any period not described in such paragraph and paragraph (2).
+&emsp;Nothing in paragraph (1) shall be construed as affecting the calculation of the annualMedicare+Choice capitation rate under subsection (c) of this section for any payment area or as applying to payment for any period not described in such paragraph and paragraph (2).
 
 #### (5) Offered defined
 
@@ -620,7 +620,7 @@ For purposes of this part, the term “MA area-specific non-drug monthly benchma
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (A)(i), subject to clause (iv), the percent determinedunder this subparagraph for a year is a percent equal to a fraction the numerator of which is described in clause (ii) and the denominator of which is described in clause (iii).
+&emsp;&emsp;&emsp;For purposes of subparagraph (A)(i), subject to clause (iv), the percent determined under this subparagraph for a year is a percent equal to a fraction the numerator of which is described in clause (ii) and the denominator of which is described in clause (iii).
 
 #### (ii) Numerator based on difference between demographic rate and risk rate
 
@@ -720,17 +720,205 @@ For purposes of this part, the term “MA area-specific non-drug monthly benchma
 
 &emsp;&emsp;The fee-for-service amount specified in this subparagraph for an area for a year is the amount specified under subsection (c)(1)(D) for the area and the year.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1853, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 299; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§511(a), 512, 514(a), 517\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380, 1501A–382 to 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§601(a), 602(a), 603, 605(a), 606(a)(2)(A), 607, 608(a), 611(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–554 to 2763A–559; Pub. L. 107–188, title V, §532(d)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §101(e)(3)(D), title II, §§211(a)–(e)(1), 221(d)(1), (4), 222(d)–(f), (i), 237(b)(1), (2)(B), 241(b)(1), title VII, §736(d)(1), title IX, §900(e)(1)(G), Dec. 8, 2003, 117 Stat. 2151, 2176–2178, 2192, 2193, 2200–2202, 2204, 2212, 2213, 2220, 2357, 2371; Pub. L. 109–171, title V, §5301, Feb. 8, 2006, 120 Stat. 48; Pub. L. 110–275, title I, §161(a), (b), July 15, 2008, 122 Stat. 2568, 2569.)
+#### (<i>l</i>) Application of eligible professional incentives for certain MA organizations for adoption and meaningful use of certified EHR technology
+
+#### (1) In general
+
+&emsp;Subject to paragraphs (3) and (4), in the case of a qualifying MA organization, the provisions of sections 1395w–4(<i>o</i>) and 1395w–4(a)(7) of this title shall apply with respect to eligible professionals described in paragraph (2) of the organization who the organization attests under paragraph (6) to be meaningful EHR users in a similar manner as they apply to eligible professionals under such sections. Incentive payments under paragraph (3) shall be made to and payment adjustments under paragraph (4) shall apply to such qualifying organizations.
+
+#### (2) Eligible professional described
+
+&emsp;With respect to a qualifying MA organization, an eligible professional described in this paragraph is an eligible professional (as defined for purposes of section 1395w–4(<i>o</i>) of this title) who—
+
+&emsp;&emsp;(A)(i) is employed by the organization; or
+
+&emsp;&emsp;(ii)(I) is employed by, or is a partner of, an entity that through contract with the organization furnishes at least 80 percent of the entity's Medicare patient care services to enrollees of such organization; and
+
+&emsp;&emsp;(II) furnishes at least 80 percent of the professional services of the eligible professional covered under this subchapter to enrollees of the organization; and
+
+&emsp;&emsp;(B) furnishes, on average, at least 20 hours per week of patient care services.
+
+#### (3) Eligible professional incentive payments
+
+#### (A) In general
+
+&emsp;&emsp;In applying section 1395w–4(<i>o</i>) of this title under paragraph (1), instead of the additional payment amount under section 1395w–4(<i>o</i>)(1)(A) of this title and subject to subparagraph (B), the Secretary may substitute an amount determined by the Secretary to the extent feasible and practical to be similar to the estimated amount in the aggregate that would be payable if payment for services furnished by such professionals was payable under part B instead of this part.
+
+#### (B) Avoiding duplication of payments
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of an eligible professional described in paragraph (2)—
+
+&emsp;&emsp;&emsp;&emsp;(I) that is eligible for the maximum incentive payment under section 1395w–4(<i>o</i>)(1)(A) of this title for the same payment period, the payment incentive shall be made only under such section and not under this subsection; and
+
+&emsp;&emsp;&emsp;&emsp;(II) that is eligible for less than such maximum incentive payment for the same payment period, the payment incentive shall be made only under this subsection and not under section 1395w–4(<i>o</i>)(1)(A) of this title.
+
+#### (ii) Methods
+
+&emsp;&emsp;&emsp;In the case of an eligible professional described in paragraph (2) who is eligible for an incentive payment under section 1395w–4(<i>o</i>)(1)(A) of this title but is not described in clause (i) for the same payment period, the Secretary shall develop a process—
+
+&emsp;&emsp;&emsp;&emsp;(I) to ensure that duplicate payments are not made with respect to an eligible professional both under this subsection and under section 1395w–4(<i>o</i>)(1)(A) of this title; and
+
+&emsp;&emsp;&emsp;&emsp;(II) to collect data from Medicare Advantage organizations to ensure against such duplicate payments.
+
+#### (C) Fixed schedule for application of limitation on incentive payments for all eligible professionals
+
+&emsp;&emsp;In applying section 1395w–4(<i>o</i>)(1)(B)(ii) of this title under subparagraph (A), in accordance with rules specified by the Secretary, a qualifying MA organization shall specify a year (not earlier than 2011) that shall be treated as the first payment year for all eligible professionals with respect to such organization.
+
+#### (4) Payment adjustment
+
+#### (A) In general
+
+&emsp;&emsp;In applying section 1395w–4(a)(7) of this title under paragraph (1), instead of the payment adjustment being an applicable percent of the fee schedule amount for a year under such section, subject to subparagraph (D), the payment adjustment under paragraph (1) shall be equal to the percent specified in subparagraph (B) for such year of the payment amount otherwise provided under this section for such year.
+
+#### (B) Specified percent
+
+&emsp;&emsp;The percent specified under this subparagraph for a year is 100 percent minus a number of percentage points equal to the product of—
+
+&emsp;&emsp;&emsp;(i) the number of percentage points by which the applicable percent (under section 1395w–4(a)(7)(A)(ii) of this title) for the year is less than 100 percent; and
+
+&emsp;&emsp;&emsp;(ii) the Medicare physician expenditure proportion specified in subparagraph (C) for the year.
+
+#### (C) Medicare physician expenditure proportion
+
+&emsp;&emsp;The Medicare physician expenditure proportion under this subparagraph for a year is the Secretary's estimate of the proportion, of the expenditures under parts A and B that are not attributable to this part, that are attributable to expenditures for physicians’ services.
+
+#### (D) Application of payment adjustment
+
+&emsp;&emsp;In the case that a qualifying MA organization attests that not all eligible professionals of the organization are meaningful EHR users with respect to a year, the Secretary shall apply the payment adjustment under this paragraph based on the proportion of all such eligible professionals of the organization that are not meaningful EHR users for such year.
+
+#### (5) Qualifying MA organization defined
+
+&emsp;In this subsection and subsection (m), the term “qualifying MA organization” means a Medicare Advantage organization that is organized as a health maintenance organization (as defined in section 300gg–91(b)(3) of this title).
+
+#### (6) Meaningful EHR user attestation
+
+&emsp;For purposes of this subsection and subsection (m), a qualifying MA organization shall submit an attestation, in a form and manner specified by the Secretary which may include the submission of such attestation as part of submission of the initial bid under section 1395w–24(a)(1)(A)(iv) <sup>3</sup> of this title, identifying—
+
+&emsp;&emsp;(A) whether each eligible professional described in paragraph (2), with respect to such organization is a meaningful EHR user (as defined in section 1395w–4(<i>o</i>)(2) of this title) for a year specified by the Secretary; and
+
+&emsp;&emsp;(B) whether each eligible hospital described in subsection (m)(1),<sup>4</sup> with respect to such organization, is a meaningful EHR user (as defined in section 1395ww(n)(3) of this title) for an applicable period specified by the Secretary.
+
+#### (7) Posting on website
+
+&emsp;The Secretary shall post on the Internet website of the Centers for Medicare \& Medicaid Services, in an easily understandable format, a list of the names, business addresses, and business phone numbers of—
+
+&emsp;&emsp;(A) each qualifying MA organization receiving an incentive payment under this subsection for eligible professionals of the organization; and
+
+&emsp;&emsp;(B) the eligible professionals of such organization for which such incentive payment is based.
+
+#### (8) Limitation on review
+
+&emsp;There shall be no administrative or judicial review under section 1395ff of this title, section 1395<i>oo</i> of this title, or otherwise, of—
+
+&emsp;&emsp;(A) the methodology and standards for determining payment amounts and payment adjustments under this subsection, including avoiding duplication of payments under paragraph (3)(B) and the specification of rules for the fixed schedule for application of limitation on incentive payments for all eligible professionals under paragraph (3)(C);
+
+&emsp;&emsp;(B) the methodology and standards for determining eligible professionals under paragraph (2); and
+
+&emsp;&emsp;(C) the methodology and standards for determining a meaningful EHR user under section 1395w–4(<i>o</i>)(2) of this title, including specification of the means of demonstrating meaningful EHR use under section 1395w–4(<i>o</i>)(3)(C) <sup>5</sup> of this title and selection of measures under section 1395w–4(<i>o</i>)(3)(B) <sup>6</sup> of this title.
+
+#### (m) Application of eligible hospital incentives for certain MA organizations for adoption and meaningful use of certified EHR technology
+
+#### (1) Application
+
+&emsp;Subject to paragraphs (3) and (4), in the case of a qualifying MA organization, the provisions of sections 1395ww(n) and 1395ww(b)(3)(B)(ix) of this title shall apply with respect to eligible hospitals described in paragraph (2) of the organization which the organization attests under subsection (<i>l</i>)(6) to be meaningful EHR users in a similar manner as they apply to eligible hospitals under such sections. Incentive payments under paragraph (3) shall be made to and payment adjustments under paragraph (4) shall apply to such qualifying organizations.
+
+#### (2) Eligible hospital described
+
+&emsp;With respect to a qualifying MA organization, an eligible hospital described in this paragraph is an eligible hospital (as defined in section 1395ww(n)(6)(A) <sup>7</sup> of this title) that is under common corporate governance with such organization and serves individuals enrolled under an MA plan offered by such organization.
+
+#### (3) Eligible hospital incentive payments
+
+#### (A) In general
+
+&emsp;&emsp;In applying section 1395ww(n)(2) of this title under paragraph (1), instead of the additional payment amount under section 1395ww(n)(2) of this title, there shall be substituted an amount determined by the Secretary to be similar to the estimated amount in the aggregate that would be payable if payment for services furnished by such hospitals was payable under part A instead of this part. In implementing the previous sentence, the Secretary—
+
+&emsp;&emsp;&emsp;(i) shall, insofar as data to determine the discharge related amount under section 1395ww(n)(2)(C) of this title for an eligible hospital are not available to the Secretary, use such alternative data and methodology to estimate such discharge related amount as the Secretary determines appropriate; and
+
+&emsp;&emsp;&emsp;(ii) shall, insofar as data to determine the medicare share described in section 1395ww(n)(2)(D) of this title for an eligible hospital are not available to the Secretary, use such alternative data and methodology to estimate such share, which data and methodology may include use of the inpatient-bed-days (or discharges) with respect to an eligible hospital during the appropriate period which are attributable to both individuals for whom payment may be made under part A or individuals enrolled in an MA plan under a Medicare Advantage organization under this part as a proportion of the estimated total number of patient-bed-days (or discharges) with respect to such hospital during such period.
+
+#### (B) Avoiding duplication of payments
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of a hospital that for a payment year is an eligible hospital described in paragraph (2) and for which at least one-third of their discharges (or bed-days) of Medicare patients for the year are covered under part A, payment for the paymentyear shall be made only under section 1395ww(n) of this title and not under this subsection.
+
+#### (ii) Methods
+
+&emsp;&emsp;&emsp;In the case of a hospital that is an eligible hospital described in paragraph (2) and also is eligible for an incentive payment under section 1395ww(n) of this title but is not described in clause (i) for the same payment period, the Secretary shall develop a process—
+
+&emsp;&emsp;&emsp;&emsp;(I) to ensure that duplicate payments are not made with respect to an eligible hospital both under this subsection and under section 1395ww(n) of this title; and
+
+&emsp;&emsp;&emsp;&emsp;(II) to collect data from Medicare Advantage organizations to ensure against such duplicate payments.
+
+#### (4) Payment adjustment
+
+&emsp;(A) Subject to paragraph (3), in the case of a qualifying MA organization (as defined in subsection (<i>l</i>)(5)), if, according to the attestation of the organization submitted under subsection (<i>l</i>)(6) for an applicable period, one or more eligible hospitals (as defined in section 1395ww(n)(6)(A) <sup>7</sup> of this title) that are under common corporate governance with such organization and that serve individuals enrolled under a plan offered by such organization are not meaningful EHR users (as defined in section 1395ww(n)(3) of this title) with respect to a period, the payment amount payable under this section for such organization for such period shall be the percent specified in subparagraph (B) for such period of the payment amount otherwise provided under this section for such period.
+
+&emsp;(B)
+
+Specified percent.—The percent specified under this subparagraph for a year is 100 percent minus a number of percentage points equal to the product of—
+
+&emsp;&emsp;(i) the number of the percentage point reduction effected under section 1395ww(b)(3)(B)(ix)(I) of this title for the period; and
+
+&emsp;&emsp;(ii) the Medicare hospital expenditure proportion specified in subparagraph (C) for the year.
+
+&emsp;(C)
+
+Medicare hospital expenditure proportion.—The Medicare hospital expenditure proportion under this subparagraph for a year is the Secretary's estimate of the proportion, of the expenditures under parts A and B that are not attributable to this part, that are attributable to expenditures for inpatient hospital services.
+
+&emsp;(D)
+
+Application of payment adjustment.—In the case that a qualifying MA organization attests that not all eligible hospitals are meaningful EHR users with respect to an applicable period, the Secretary shall apply the payment adjustment under this paragraph based on a methodology specified by the Secretary, taking into account the proportion of such eligible hospitals, or discharges from such hospitals, that are not meaningful EHR users for such period.
+
+#### (5) Posting on website
+
+&emsp;The Secretary shall post on the Internet website of the Centers for Medicare \& Medicaid Services, in an easily understandable format—
+
+&emsp;&emsp;(A) a list of the names, business addresses, and business phone numbers of each qualifying MA organization receiving an incentive payment under this subsection for eligible hospitals described in paragraph (2); and
+
+&emsp;&emsp;(B) a list of the names of the eligible hospitals for which such incentive payment is based.
+
+#### (6) Limitations on review
+
+&emsp;There shall be no administrative or judicial review under section 1395ff of this title, section 1395<i>oo</i> of this title, or otherwise, of—
+
+&emsp;&emsp;(A) the methodology and standards for determining payment amounts and payment adjustments under this subsection, including avoiding duplication of payments under paragraph (3)(B);
+
+&emsp;&emsp;(B) the methodology and standards for determining eligible hospitals under paragraph (2); and
+
+&emsp;&emsp;(C) the methodology and standards for determining a meaningful EHR user under section 1395ww(n)(3) of this title, including specification of the means of demonstrating meaningful EHR use under subparagraph (C) of such section and selection of measures under subparagraph (B) of such section.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1853, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 299; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§511(a), 512, 514(a), 517\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380, 1501A–382 to 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§601(a), 602(a), 603, 605(a), 606(a)(2)(A), 607, 608(a), 611(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–554 to 2763A–559; Pub. L. 107–188, title V, §532(d)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §101(e)(3)(D), title II, §§211(a)–(e)(1), 221(d)(1), (4), 222(d)–(f), (i), 237(b)(1), (2)(B), 241(b)(1), title VII, §736(d)(1), title IX, §900(e)(1)(G), Dec. 8, 2003, 117 Stat. 2151, 2176–2178, 2192, 2193, 2200–2202, 2204, 2212, 2213, 2220, 2357, 2371; Pub. L. 109–171, title V, §5301, Feb. 8, 2006, 120 Stat. 48; Pub. L. 110–275, title I, §161(a), (b), July 15, 2008, 122 Stat. 2568, 2569; Pub. L. 111–5, div. B, title IV, §§4101(c), (e), 4102(c), (d)(3), Feb. 17, 2009, 123 Stat. 473, 476, 484, 486.)
 
 #### References in Text
 
 Section 2355 of the Deficit Reduction Act of 1984, as amended by section 13567(b) of the Omnibus Budget Reconciliation Act of 1993, referred to in subsec. (a)(1)(H), is section 2355 of Pub. L. 98–369, div. B, title III, July 18, 1984, 98 Stat. 1103, as amended by section 13567(b) of Pub. L. 103–66, title XIII, Aug. 10, 1993, 107 Stat. 608, which is not classified to the Code.
 
-Parts A and B of this subchapter, referred to in subsecs. (a)(1)(C)(ii)(I), (b)(4), (c)(4)(C), (6)(A), (f), and (k)(2)(B)(iv)(III), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
+Parts A and B of this subchapter, referred to in subsecs. (a)(1)(C)(ii)(I), (b)(4), (c)(4)(C), (6)(A), (f), (k)(2)(B)(iv)(III), (<i>l</i>)(3)(A), (4)(C), and (m)(3)(A), (B)(i), (4)(C), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
 
 The Internal Revenue Code of 1986, referred to in subsec. (e)(2)(A), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2009—Subsec. (a)(1)(A). Pub. L. 111–5, §4101(e)(1), substituted “(i), and (<i>l</i>)” for “and (i)”.
+
+Subsec. (c)(1)(D)(i). Pub. L. 111–5, §4102(d)(3)(A)(i), substituted “, 1395w–4(<i>o</i>), and 1395ww(n)” for “1395w–4(<i>o</i>)”.
+
+Pub. L. 111–5, §4101(e)(2)(A), substituted “sections 1395w–4(<i>o</i>) and 1395ww(h) of this title” for “section 1395ww(h) of this title”.
+
+Subsec. (c)(6)(A). Pub. L. 111–5, §4102(d)(3)(A)(ii), inserted “and subsections (b)(3)(B)(ix) and (n) of section 1395ww of this title” after “1395w–4 of this title”.
+
+Pub. L. 111–5, §4101(e)(2)(B), inserted “excluding expenditures attributable to subsections (a)(7) and (<i>o</i>) of section 1395w–4 of this title,” after “under part B of this subchapter,”.
+
+Subsec. (f). Pub. L. 111–5, §4102(d)(3)(B), inserted “and subsection (m)” after “under subsection (<i>l</i>)”.
+
+Pub. L. 111–5, §4101(e)(3), inserted “and for payments under subsection (<i>l</i>)” after “with the organization”.
+
+Subsec. (<i>l</i>). Pub. L. 111–5, §4101(c), added subsec. (<i>l</i>).
+
+Subsec. (m). Pub. L. 111–5, §4102(c), added subsec. (m).
 
 2008—Subsec. (k)(1). Pub. L. 110–275, §161(a)(1), (b), substituted “paragraphs (2) and (4)” for “paragraph (2)” in introductory provisions and cl. (i) of subpar. (B).
 
@@ -810,7 +998,7 @@ Subsec. (d)(4)(B). Pub. L. 108–173, §221(d)(1)(E)(iii), inserted “with resp
 
 Subsec. (f). Pub. L. 108–173, §101(e)(3)(D), in heading, substituted “Trust Funds” for “Trust Fund” and, after first sentence, inserted “Payments to MA organizations for statutory drug benefits provided under this subchapter are made from the Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund.”
 
-Subsec. (g). Pub. L. 108–173, §211(e)(1)(A), inserted “, a rehabilitation hospital described in section 1395ww(d)(1)(B)(ii) of this title or a distinct part rehabilitation unit described in the matter following clause (v) of section 1395ww(d)(1)(B) of this title, or a long-term care hospital (described in section 1395ww(d)(1)(B)(iv) of this title)” after “1395ww(d)(1)(B) of this title)” in introductory provisions.
+Subsec. (g). Pub. L. 108–173, §211(e)(1)(A), inserted “, a rehabilitation hospital described in section1395ww(d)(1)(B)(ii) of this title or a distinct part rehabilitation unit described in the matter following clause (v) of section 1395ww(d)(1)(B) of this title, or a long-term care hospital (described in section 1395ww(d)(1)(B)(iv) of this title)” after “1395ww(d)(1)(B) of this title)” in introductory provisions.
 
 Subsec. (g)(2)(B). Pub. L. 108–173, §211(e)(1)(B), inserted “or other payment provision under this subchapter for inpatient services for the type of facility, hospital, or unit involved, described in the matter preceding paragraph (1), as the case may be,” after “1395ww(d) of this title”.
 
@@ -884,7 +1072,7 @@ Amendment by section 1(a)(6) \[title VI, §606(a)(2)(A)\] of Pub. L. 106–554 a
 
 Pub. L. 106–554, §1(a)(6) \[title VI, §608(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–559, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply as if included in the enactment of BBRA \[Pub. L. 106–113, §1000(a)(6)\].”
 
-Amendment by section 1(a)(6) \[title VI, §611(a)\] of Pub. L. 106–554 effective Dec. 21, 2000, and applicable to national coverage determinations and legislative changes in benefits occurring on or after such date, see section 1(a)(6) \[title VI, §611(c)\] of Pub. L. 106–554, set out as a note under section 1395w–22 of this title.
+Amendment by section 1(a)(6) \[title VI, §611(a)\] of Pub. L. 106–554 effective Dec. 21, 2000, and applicable to national coverage determinations and legislativechanges in benefits occurring on or after such date, see section 1(a)(6) \[title VI, §611(c)\] of Pub. L. 106–554, set out as a note under section 1395w–22 of this title.
 
 #### MedPAC Study of AAPCC
 
@@ -946,7 +1134,7 @@ Pub. L. 106–554, §1(a)(6) \[title VI, §604\], Dec. 21, 2000, 114 Stat. 2763,
 
 “(a)
 
-Announcement of Revised Medicare+Choice Payment Rates.—Within 2 weeks after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary ofHealth and Human Services shall determine, and shall announce (in a manner intended to provide notice to interested parties) Medicare+Choice capitation rates under section 1853 of the Social Security Act (42 U.S.C. 1395w–23) for 2001, revised in accordance with the provisions of this Act.
+Announcement of Revised Medicare+Choice Payment Rates.—Within 2 weeks after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of Health and Human Services shall determine, and shall announce (in a manner intended to provide notice to interested parties) Medicare+Choice capitation rates under section 1853 of the Social Security Act (42 U.S.C. 1395w–23) for 2001, revised in accordance with the provisions of this Act.
 
 “(b)
 
@@ -1012,7 +1200,7 @@ Issues to be studied.—The issues described in this paragraph are the following
 
 “(3)
 
-Report.—Not later than December 1, 2000, the Commission shall submit a report to Congress on thestudy conducted under paragraph (1), together with any recommendations for legislation that the Commission determines to be appropriate as a result of such study.”
+Report.—Not later than December 1, 2000, the Commission shall submit a report to Congress on the study conducted under paragraph (1), together with any recommendations for legislation that the Commission determines to be appropriate as a result of such study.”
 
 #### Study and Report Regarding Reporting of Encounter Data
 
@@ -1034,7 +1222,7 @@ Study.—The Secretary of Health and Human Services shall conduct a study on how
 
 “(2)
 
-Report.—Not later than January 1, 2001, the Secretary shall submit a report to Congress on the study conducted under this subsection, together with any recommendations for legislation that the Secretary determines to be appropriate as a result of such study.”
+Report.—Not later than January 1, 2001, the Secretary shall submit a report to Congress on the studyconducted under this subsection, together with any recommendations for legislation that the Secretary determines to be appropriate as a result of such study.”
 
 #### Special Rule for 2001
 
@@ -1094,7 +1282,7 @@ Rural project.—The current viability of initiating a project site in a rural a
 
 &emsp;&emsp;“(D)
 
-Benefit structure.—The nature and extent of the benefit structure that should be required of plans participating in the project, the rationale for such benefit structure, the potential implications that any benefit standardization requirement may have on the number of plan choices available to a beneficiary in an area designated under the project, the potential implications of requiring participating plans to offer variations on any standardized benefit package the committee might recommend, such that a beneficiary could elect to pay a higher percentage of out-of-pocket costs in exchange for alower premium (or premium rebate as the case may be), and the potential implications of expanding the project (in conjunction with the potential inclusion of the original medicare fee-for-service program) to require medicare supplemental insurance plans operating in an area designated under the project to offer a coordinated and comparable standardized benefit package.
+Benefit structure.—The nature and extent of the benefit structure that should be required of plans participating in the project, the rationale for such benefit structure, the potential implications that any benefit standardization requirement may have on the number of plan choices available to a beneficiary in an area designated under the project, the potential implications of requiring participating plans to offer variations on any standardized benefit package the committee might recommend, such that a beneficiary could elect to pay a higher percentage of out-of-pocket costs in exchange for a lower premium (or premium rebate as the case may be), and the potential implications of expanding the project (in conjunction with the potential inclusion of the original medicare fee-for-service program) to require medicare supplemental insurance plans operating in an area designated under the project to offer a coordinated and comparable standardized benefit package.
 
 &emsp;“(3)
 
@@ -1200,7 +1388,7 @@ Quality recommendation.—The Competitive Pricing Advisory Committee shall study
 
 &emsp;“(4)
 
-Advice during implementation.—Upon implementation of the project, the Competitive PricingAdvisory Committee shall continue to advise the Secretary on the application of the design in different areas and changes in the project based on experience with its operations.
+Advice during implementation.—Upon implementation of the project, the Competitive Pricing Advisory Committee shall continue to advise the Secretary on the application of the design in different areas and changes in the project based on experience with its operations.
 
 &emsp;“(5)
 
@@ -1215,4 +1403,16 @@ Appointment of Area Advisory Committee.—Upon the designation of an area for in
 Special application.—Notwithstanding section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.), the Competitive Pricing Advisory Commission and any area advisory committee (described in subsection (b)) may meet as soon as the members of the commission or committee, respectively, are appointed.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “parts”.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> So in original. Section 1395w–24(a)(1)(A) of this title does not contain a cl. (iv).</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “(m)(2),”.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be “1395w–4(o)(2)(C)”.</i>
+
+<i><sup>6</sup></i><i> So in original. Probably should be “1395w–4(o)(2)(B)”.</i>
+
+<i><sup>7</sup></i><i> So in original. Probably should be “1395ww(n)(6)(B)”.</i>
 

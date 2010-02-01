@@ -46,13 +46,13 @@ During the grant period, the Inspector General shall periodically review the com
 
 #### (e) Administrative costs
 
-Not less than 2.5 percent of the funds appropriated to carry out this part for each of fiscalyears 2005 through 2009 shall be made available to the Inspector General for purposes of carrying out this section. Such sums shall remain available until expended.
+Not less than 2.5 percent of the funds appropriated to carry out this part for each of fiscal years 2005 through 2009 shall be made available to the Inspector General for purposes of carrying out this section. Such sums shall remain available until expended.
 
 #### (f) Special rule for “statutory procedure” States not in substantial compliance with statutory procedures
 
 #### (1) In general
 
-&emsp;In the case of a State that employs a statutory procedure described in section 14163(e)(1)(C) of this title, if the Inspector General submits a determination under subsection (a)(3) of this section that the State is not in substantial compliance with the requirements of the applicable State statute, then for the period beginning with the date on which that determination was submitted and ending on the date on which the Inspector General determines that the State is in substantial compliance with the requirements of that statute, the funds awarded under this part shall be allocated solely for the uses described in section 14163 of this title.
+&emsp;In the case of a State that employs a statutory procedure described in section 14163(e)(1)(C) of this title, if the Inspector General submits a determination under subsection (a)(3) of this section that the State is not in substantial compliance with the requirements of the applicable State statute, then for the period beginning with the date on which that determination was submitted and ending onthe date on which the Inspector General determines that the State is in substantial compliance with the requirements of that statute, the funds awarded under this part shall be allocated solely for the uses described in section 14163 of this title.
 
 #### (2) Rule of construction
 

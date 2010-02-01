@@ -336,6 +336,10 @@ Effective Date.—This Act and the amendments made by this Act \[enacting sectio
 
 Effect on Pending Cases.—Any cause of action arising under title 17, United States Code, before the effective date of this Act shall be governed by the provisions of such title as in effect when the cause of action arose.”
 
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–36, §1, June 30, 2009, 123 Stat. 1926, provided that: “This Act \[amending section 114 of this title\] may be cited as the ‘Webcaster Settlement Act of 2009’.”
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–435, §1, Oct. 16, 2008, 122 Stat. 4974, provided that: “This Act \[amending section 114 of this title\] may be cited as the ‘Webcaster Settlement Act of 2008’.”
@@ -380,7 +384,7 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1001\], Nov. 29, 1999, 113 
 
 #### Short Title of 1998 Amendments
 
-Pub. L. 105–304, §1, Oct. 28, 1998, 112 Stat. 2860, provided that: “This Act \[enacting section 512 and chapters 12 and 13 of this title and section 4001 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 104, 104A, 108, 112, 114, 117, 411, 507, 701, and 801 to 803 of this title, section 5314 of Title 5, Government Organization and Employees, sections 1338, 1400, and 1498 of Title 28, and section 3 of Title 35, Patents, and enacting provisions set out as notes under this section and sections 108, 109, 112, 114, 512, and 1301of this title\] may be cited as the ‘Digital Millennium Copyright Act’.”
+Pub. L. 105–304, §1, Oct. 28, 1998, 112 Stat. 2860, provided that: “This Act \[enacting section 512 and chapters 12 and 13 of this title and section 4001 of Title 28,Judiciary and Judicial Procedure, amending this section, sections 104, 104A, 108, 112, 114, 117, 411, 507, 701, and 801 to 803 of this title, section 5314 of Title 5, Government Organization and Employees, sections 1338, 1400, and 1498 of Title 28, and section 3 of Title 35, Patents, and enacting provisions set out as notes under this section and sections 108, 109, 112, 114, 512, and 1301 of this title\] may be cited as the ‘Digital Millennium Copyright Act’.”
 
 Pub. L. 105–304, title I, §101, Oct. 28, 1998, 112 Stat. 2861, provided that: “This title \[enacting chapter 12 of this title, amending this section and sections 104, 104A, 411, and 507 of this title, and enacting provisions set out as notes under this section and section 109 of this title\] may be cited as the ‘WIPO Copyright and Performances and Phonograms Treaties Implementation Act of 1998’.”
 
@@ -446,7 +450,7 @@ Pub. L. 98–450, §1, Oct. 4, 1984, 98 Stat. 1727, provided that: “This Act \
 
 #### Severability
 
-Pub. L. 106–379, §2(b)(2), Oct. 27, 2000, 114 Stat. 1444, provided that: “If the provisions of paragraph (1) \[see Effective Date of 2000 Amendment note above\], or anyapplication of such provisions to any person or circumstance, is held to be invalid, the remainder of this section \[amending this section and enacting provisions set out as a note above\], the amendments made by this section, and the application of this section to any other person or circumstance shall not be affected by such invalidation.”
+Pub. L. 106–379, §2(b)(2), Oct. 27, 2000, 114 Stat. 1444, provided that: “If the provisions of paragraph (1) \[see Effective Date of 2000 Amendment note above\], or any application of such provisions to any person or circumstance, is held to be invalid, the remainder of this section \[amending this section and enacting provisions set out as a note above\], the amendments made by this section, and the application of this section to any other person or circumstance shall not be affected by such invalidation.”
 
 #### Construction of 1998 Amendment
 

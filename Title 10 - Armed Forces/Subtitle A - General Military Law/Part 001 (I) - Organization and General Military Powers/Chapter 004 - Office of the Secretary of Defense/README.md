@@ -5,20 +5,28 @@
 | [131\.](%C2%A7%2000131%20-%20Office%20of%20the%20Secretary%20of%20Defense.md) | Office of the Secretary of Defense. |
 | [132\.](%C2%A7%2000132%20-%20Deputy%20Secretary%20of%20Defense.md) | Deputy Secretary of Defense. |
 | [133\.](%C2%A7%2000133%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%2C%20Technology%2C%20and%20Logistics.md) | Under Secretary of Defense for Acquisition, Technology, and Logistics. |
-| [133a.](%C2%A7%2000133a%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Acquisition%20and%20Technology.md) | Deputy Under Secretary of Defense for Acquisition and Technology. |
-| [133b.](%C2%A7%2000133b%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Logistics%20and%20Materiel%20Readiness.md) | Deputy Under Secretary of Defense for Logistics and Materiel Readiness. |
+| [133a.](%C2%A7%2000133a%20-%20Principal%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Acquisition%2C%20Technology%2C%20and%20Logistics.md) | Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics. |
+| 133b.<sup>1</sup> | Deputy Under Secretary of Defense for Logistics and Materiel Readiness. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [134\.](%C2%A7%2000134%20-%20Under%20Secretary%20of%20Defense%20for%20Policy.md) | Under Secretary of Defense for Policy. |
-| [134a.](%C2%A7%2000134a%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Policy.md) | Deputy Under Secretary of Defense for Policy. |
-| [134b.](%C2%A7%2000134b%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Technology%20Security%20Policy.md) | Deputy Under Secretary of Defense for Technology Security Policy. |
+| [134a.](%C2%A7%2000134a%20-%20Principal%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Policy.md) | Principal Deputy Under Secretary of Defense for Policy. |
+| \[134b. | Repealed.\] |
 | [135\.](%C2%A7%2000135%20-%20Under%20Secretary%20of%20Defense%20%28Comptroller%29.md) | Under Secretary of Defense (Comptroller). |
 | [136\.](%C2%A7%2000136%20-%20Under%20Secretary%20of%20Defense%20for%20Personnel%20and%20Readiness.md) | Under Secretary of Defense for Personnel and Readiness. |
-| [136a.](%C2%A7%2000136a%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Personnel%20and%20Readiness.md) | Deputy Under Secretary of Defense for Personnel and Readiness. |
+| [136a.](%C2%A7%2000136a%20-%20Principal%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Personnel%20and%20Readiness.md) | Principal Deputy Under Secretary of Defense for Personnel and Readiness. |
 | [137\.](%C2%A7%2000137%20-%20Under%20Secretary%20of%20Defense%20for%20Intelligence.md) | Under Secretary of Defense for Intelligence. |
+| [137a.](%C2%A7%2000137a%20-%20Deputy%20Under%20Secretaries%20of%20Defense.md) | Deputy Under Secretaries of Defense. |
 | [138\.](%C2%A7%2000138%20-%20Assistant%20Secretaries%20of%20Defense.md) | Assistant Secretaries of Defense. |
+| [138a.](%C2%A7%2000138a%20-%20Assistant%20Secretary%20of%20Defense%20for%20Logistics%20and%20Materiel%20Readiness.md) | Assistant Secretary of Defense for Logistics and Materiel Readiness. |
 | [139\.](%C2%A7%2000139%20-%20Director%20of%20Operational%20Test%20and%20Evaluation.md) | Director of Operational Test and Evaluation. |
 | [139a.](%C2%A7%2000139a%20-%20Director%20of%20Defense%20Research%20and%20Engineering.md) | Director of Defense Research and Engineering. |
 | [139b.](%C2%A7%2000139b%20-%20Director%20of%20Operational%20Energy%20Plans%20and%20Programs.md) | Director of Operational Energy Plans and Programs. |
-| \[139c. | Renumbered.\] |
+| [139c.](%C2%A7%2000139c%20-%20Director%20of%20Cost%20Assessment%20and%20Program%20Evaluation.md) | Director of Cost Assessment and Program Evaluation. |
+| [139d.](%C2%A7%2000139d%20-%20Director%20of%20Developmental%20Test%20and%20Evaluation%3B%20Director%20of%20Systems%20Engineering%20joint%20guidance.md) | Director of Developmental Test and Evaluation; Director of Systems Engineering: joint guidance. |
 | [140\.](%C2%A7%2000140%20-%20General%20Counsel.md) | General Counsel. |
 | \[140a to 140c. Renumbered.\] |  |
 | [141\.](%C2%A7%2000141%20-%20Inspector%20General.md) | Inspector General. |
@@ -29,6 +37,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. A, title IX, §§905(a)(2), 906(c)(3), Oct. 28, 2009, 123 Stat. 2425, 2427, added items 133a, 134a, 136a, 137a, and 138a and struck out former items 133a “Deputy Under Secretary of Defense for Acquisition and Technology”, 134a “Deputy Under Secretary of Defense for Policy”, 134b “Deputy Under Secretary of Defense for Technology Security Policy”, and 136a “Deputy Under Secretary of Defense for Personnel and Readiness”.
+
+Pub. L. 111–23, title I, §§101(a)(2), 102(a)(2), May 22, 2009, 123 Stat. 1706, 1713, added items 139c and 139d.
 
 2008—Pub. L. 110–417, \[div. A\], title IX, §902(b), Oct. 14, 2008, 122 Stat. 4566, added item 139b.
 
@@ -86,6 +98,8 @@ Pub. L. 96–342, title X, §1001(d)(2), Sept. 8, 1980, 94 Stat. 1119, substitut
 
 1972—Pub. L. 92–596, §4(3), Oct. 27, 1972, 86 Stat. 1318, substituted “Deputy Secretaries” for “Deputy Secretary” in item 134.
 
+<i><sup>1</sup></i><i> Section 133b renumbered 138a by Pub. L. 111–84 without corresponding amendment of chapter analysis</i>
+
 
 ---
 
@@ -94,20 +108,23 @@ Pub. L. 96–342, title X, §1001(d)(2), Sept. 8, 1980, 94 Stat. 1119, substitut
 - [&sect; 00131 - Office of the Secretary of Defense](%C2%A7%2000131%20-%20Office%20of%20the%20Secretary%20of%20Defense.md)
 - [&sect; 00132 - Deputy Secretary of Defense](%C2%A7%2000132%20-%20Deputy%20Secretary%20of%20Defense.md)
 - [&sect; 00133 - Under Secretary of Defense for Acquisition, Technology, and Logistics](%C2%A7%2000133%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%2C%20Technology%2C%20and%20Logistics.md)
-- [&sect; 00133a - Deputy Under Secretary of Defense for Acquisition and Technology](%C2%A7%2000133a%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Acquisition%20and%20Technology.md)
-- [&sect; 00133b - Deputy Under Secretary of Defense for Logistics and Materiel Readiness](%C2%A7%2000133b%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Logistics%20and%20Materiel%20Readiness.md)
+- [&sect; 00133a - Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics](%C2%A7%2000133a%20-%20Principal%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Acquisition%2C%20Technology%2C%20and%20Logistics.md)
+- [&sect; 00133b - Renumbered &sect;138a](%C2%A7%2000133b%20-%20Renumbered%20%C2%A7138a.md)
 - [&sect; 00134 - Under Secretary of Defense for Policy](%C2%A7%2000134%20-%20Under%20Secretary%20of%20Defense%20for%20Policy.md)
-- [&sect; 00134a - Deputy Under Secretary of Defense for Policy](%C2%A7%2000134a%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Policy.md)
-- [&sect; 00134b - Deputy Under Secretary of Defense for Technology Security Policy](%C2%A7%2000134b%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Technology%20Security%20Policy.md)
+- [&sect; 00134a - Principal Deputy Under Secretary of Defense for Policy](%C2%A7%2000134a%20-%20Principal%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Policy.md)
+- [&sect; 00134b - Repealed. Pub. L. 111&#8211;84, div. A, title IX, &sect;905(a)(1), Oct. 28, 2009, 123 Stat. 2425](%C2%A7%2000134b%20-%20Repealed.%20Pub.%20L.%20111%E2%80%9384%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7905%28a%29%281%29%2C%20Oct.%2028%2C%202009%2C%20123%20Stat.%202425.md)
 - [&sect; 00135 - Under Secretary of Defense (Comptroller)](%C2%A7%2000135%20-%20Under%20Secretary%20of%20Defense%20%28Comptroller%29.md)
 - [&sect; 00136 - Under Secretary of Defense for Personnel and Readiness](%C2%A7%2000136%20-%20Under%20Secretary%20of%20Defense%20for%20Personnel%20and%20Readiness.md)
-- [&sect; 00136a - Deputy Under Secretary of Defense for Personnel and Readiness](%C2%A7%2000136a%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Personnel%20and%20Readiness.md)
+- [&sect; 00136a - Principal Deputy Under Secretary of Defense for Personnel and Readiness](%C2%A7%2000136a%20-%20Principal%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Personnel%20and%20Readiness.md)
 - [&sect; 00137 - Under Secretary of Defense for Intelligence](%C2%A7%2000137%20-%20Under%20Secretary%20of%20Defense%20for%20Intelligence.md)
+- [&sect; 00137a - Deputy Under Secretaries of Defense](%C2%A7%2000137a%20-%20Deputy%20Under%20Secretaries%20of%20Defense.md)
 - [&sect; 00138 - Assistant Secretaries of Defense](%C2%A7%2000138%20-%20Assistant%20Secretaries%20of%20Defense.md)
+- [&sect; 00138a - Assistant Secretary of Defense for Logistics and Materiel Readiness](%C2%A7%2000138a%20-%20Assistant%20Secretary%20of%20Defense%20for%20Logistics%20and%20Materiel%20Readiness.md)
 - [&sect; 00139 - Director of Operational Test and Evaluation](%C2%A7%2000139%20-%20Director%20of%20Operational%20Test%20and%20Evaluation.md)
 - [&sect; 00139a - Director of Defense Research and Engineering](%C2%A7%2000139a%20-%20Director%20of%20Defense%20Research%20and%20Engineering.md)
 - [&sect; 00139b - Director of Operational Energy Plans and Programs](%C2%A7%2000139b%20-%20Director%20of%20Operational%20Energy%20Plans%20and%20Programs.md)
-- [&sect; 00139c - Renumbered &sect;2434](%C2%A7%2000139c%20-%20Renumbered%20%C2%A72434.md)
+- [&sect; 00139c - Director of Cost Assessment and Program Evaluation](%C2%A7%2000139c%20-%20Director%20of%20Cost%20Assessment%20and%20Program%20Evaluation.md)
+- [&sect; 00139d - Director of Developmental Test and Evaluation; Director of Systems Engineering joint guidance](%C2%A7%2000139d%20-%20Director%20of%20Developmental%20Test%20and%20Evaluation%3B%20Director%20of%20Systems%20Engineering%20joint%20guidance.md)
 - [&sect; 00140 - General Counsel](%C2%A7%2000140%20-%20General%20Counsel.md)
 - [&sect; 00140a - Renumbered &sect;422](%C2%A7%2000140a%20-%20Renumbered%20%C2%A7422.md)
 - [&sect; 00140b - Renumbered &sect;423](%C2%A7%2000140b%20-%20Renumbered%20%C2%A7423.md)

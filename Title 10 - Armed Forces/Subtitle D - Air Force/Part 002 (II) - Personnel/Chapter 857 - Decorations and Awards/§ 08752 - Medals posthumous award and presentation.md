@@ -40,7 +40,7 @@ July 2, 1926, ch. 721, §12 (1st 49 words of last sentence), 44 Stat. 789; July 
 
 May 12, 1928, ch. 528, §1 (25th through 34th words, less applicability to clauses (a) through (n)), 45 Stat. 500.
 
-In subsection (a), the words “If a person” are substituted for the words “In case an individual \* \* \* dies”, in 10:1409, and “In case an individual \* \* \* shall have died”, in 10:1429. The words “within three years from the date”, in 10:1409, are omitted as covered by section 8744 of this title. The words “who shall distinguish himself”, in 10:1409, and “who distinguishes himself”, in 10:1429, are omitted as covered by the words “the award \* \* \* to which he is entitled”.
+In subsection (a), the words “If a person” are substituted for the words “In case an individual dies”, in 10:1409, and “In case an individual shall have died”, in 10:1429. The words “within three years from the date”, in 10:1409, are omitted as covered by section 8744 of this title. The words “who shall distinguish himself”, in 10:1409, and “who distinguishes himself”, in 10:1429, are omitted as covered by the words “the award to which he is entitled”.
 
 #### 1958 Act
 

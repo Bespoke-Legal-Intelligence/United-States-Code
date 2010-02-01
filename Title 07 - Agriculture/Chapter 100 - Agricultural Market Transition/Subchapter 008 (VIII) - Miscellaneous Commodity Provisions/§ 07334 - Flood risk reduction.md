@@ -14,7 +14,7 @@ Under the terms of the contract, with respect to acres that are subject to the c
 
 &emsp;(3) not apply for crop insurance issued or reinsured by the Secretary;
 
-&emsp;(4) comply with applicable highly erodible land and wetlands conservation compliance requirements established under title XII of the Food Security Act of 1985 (16 U.S.C. 3801 et seq.);
+&emsp;(4) comply with applicable highly erodible land and wetlands conservation compliance requirements established under title XII of theFood Security Act of 1985 (16 U.S.C. 3801 et seq.);
 
 &emsp;(5) not apply for any conservation program payments from the Secretary;
 
@@ -28,7 +28,7 @@ In return for a contract entered into by a producer under this section, the Secr
 
 #### (d) Commodity Credit Corporation
 
-The Secretary shall carry out the program authorized by this section (other than subsection\(e) of this section) through the Commodity Credit Corporation.
+The Secretary shall carry out the program authorized by this section (other than subsection (e) of this section) through the Commodity Credit Corporation.
 
 #### (e) Additional payments
 

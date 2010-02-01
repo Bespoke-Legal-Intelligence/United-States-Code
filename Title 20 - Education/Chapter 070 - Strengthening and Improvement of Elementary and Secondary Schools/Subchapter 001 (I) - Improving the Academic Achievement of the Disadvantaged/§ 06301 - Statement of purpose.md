@@ -64,7 +64,7 @@ Pub. L. 107–110, §1, Jan. 8, 2002, 115 Stat. 1425, provided that: “This tit
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1601\], Dec. 21, 2000, 114 Stat. 2763, 2763A–328, provided that: “This title \[amending sections 6302, 6311, 6361 to 6368, 6369b, 6394, 6661a, 6661i, and 8801 of this title and sections 2023 and 2026 of Title 25, Indians, and enacting provisions set out as a note under section 6361 of this title\] may be cited as the ‘Literacy Involves Families Together Act’.”
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1701\], Dec. 21, 2000, 114 Stat. 2763, 2763A–335, provided that: “Thistitle \[enacting part F of subchapter III of this chapter, amending section 9134 of this title and section 254 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and enacting provisions set out as notes under sections 7001 and 9134 of this title and sections 254, 609, and 902 of Title 47\] may be cited as the ‘Children's Internet Protection Act’.”
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1701\], Dec. 21, 2000, 114 Stat. 2763, 2763A–335, provided that: “This title \[enacting part F of subchapter III of this chapter, amending section 9134 of this title and section 254 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and enacting provisions set out as notes under sections 7001 and 9134 of this title and sections 254, 609, and 902 of Title 47\] may be cited as the ‘Children's Internet Protection Act’.”
 
 Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1801\], Oct. 30, 2000, 114 Stat. 1654, 1654A–368, provided that: “This title \[amending sections 1228, 7701 to 7703, 7705, 7707, 7709 to 7713, and 7714 of this title, repealing section 7706 of this title, and enacting provisions set out as notes under sections 7701, 7703, and 7711 of this title\] may be cited as the ‘Impact Aid Reauthorization Act of 2000’.”
 
@@ -176,7 +176,7 @@ Planning and Transition.—Notwithstanding any other provision of law, a recipie
 
 “(c)
 
-Orderly Transition.—The Secretary shall take such steps as are necessary to provide for the orderly transition to, and implementation of, programs authorized by this Act, and by the amendments made by this Act, from programs authorized by the Elementary and Secondary Education Act of 1965, as that Act was in effect prior to the date of enactment of this Act.”
+Orderly Transition.—The Secretary shall take such steps as are necessary to provide for the orderlytransition to, and implementation of, programs authorized by this Act, and by the amendments made by this Act, from programs authorized by the Elementary and Secondary Education Act of 1965, as that Act was in effect prior to the date of enactment of this Act.”
 
 Pub. L. 103–382, §3(b), Oct. 20, 1994, 108 Stat. 3519, provided that: “Notwithstanding any other provision of law, a recipient of funds under the Elementary and Secondary Education Act of 1965 \[Pub. L. 89–10, formerly chapter 47 (§2701 et seq.) of this title, prior to general amendment by Pub. L. 103–382, §101\], as such Act was in effect on the day preceding the date of enactment of this Act \[Oct. 20, 1994\], may use funds available to such recipient under such predecessor authority to carry out necessary and reasonable planning and transition activities in order to ensure a smooth implementation of programs authorized by this Act \[see Tables for classification\].”
 

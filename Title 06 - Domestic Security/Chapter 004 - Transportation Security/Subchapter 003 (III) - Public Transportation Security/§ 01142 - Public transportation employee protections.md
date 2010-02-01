@@ -42,7 +42,7 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 &emsp;(C) the employee, where possible, has notified the public transportation agency of the existence of the hazardous condition and the intention not to perform further work, or not to authorize the use of the hazardous equipment, track, or structures, unless the condition is corrected immediately or the equipment, track, or structures are repaired properly or replaced.
 
-(3) In this subsection, only subsection (b)(1)(A) shall apply to security personnel, including transit police, employed or utilized by a public transportation agency to protect riders, equipment, assets, or facilities.
+(3) In this subsection, only subsection (b)(1)(A) shall apply to security personnel, includingtransit police, employed or utilized by a public transportation agency to protect riders, equipment, assets, or facilities.
 
 #### (c) Enforcement action
 
@@ -60,7 +60,7 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 #### (i) Required showing by complainant
 
-&emsp;&emsp;&emsp;The Secretary of Labor shall dismiss a complaint filed under this subsection and shall not conduct an investigation otherwise required under subparagraph (A) unless the complainant makes a prima facie showing that any behavior described in subsection (a) or (b) was a contributingfactor in the unfavorable personnel action alleged in the complaint.
+&emsp;&emsp;&emsp;The Secretary of Labor shall dismiss a complaint filed under this subsection and shall not conduct an investigation otherwise required under subparagraph (A) unless the complainant makes a prima facie showing that any behavior described in subsection (a) or (b) was a contributing factor in the unfavorable personnel action alleged in the complaint.
 
 #### (ii) Showing by employer
 
@@ -122,7 +122,7 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 #### (7) De novo review
 
-&emsp;With respect to a complaint under paragraph (1), if the Secretary of Labor has not issued a final decision within 210 days after the filing of the complaint and if the delay is not due to the bad faith of the employee, the employee may bring an original action at law or equity for de novo review in the appropriate districtcourt of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury. The action shall be governed by the same legal burdens of proof specified in paragraph (2)(B) for review by the Secretary of Labor.
+&emsp;With respect to a complaint under paragraph (1), if the Secretary of Labor has not issued a final decision within 210 days after the filing of the complaint and if the delay is not due to the bad faith of the employee, the employee may bring an original action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury. The action shall be governed by the same legal burdens of proof specified in paragraph (2)(B) for review by the Secretary of Labor.
 
 #### (d) Remedies
 
@@ -160,7 +160,7 @@ Nothing in this section shall be construed to diminish the rights, privileges, o
 
 (1) Except as provided in paragraph (2) of this subsection, or with the written consent of the employee, the Secretary of Transportation or the Secretary of Homeland Security may not disclose the name of an employee who has provided information described in subsection (a)(1).
 
-(2) The Secretary of Transportation or the Secretary of Homeland Security shall disclose to the Attorney General the name of an employee described in paragraph (1) of this subsection if the matter is referred to the Attorney General for enforcement. The Secretary making such disclosure shall provide reasonable advance notice to the affected employee if disclosure of that person's identity or identifying information is to occur.
+(2) The Secretary of Transportation or the Secretary of Homeland Security shall disclose to the Attorney General the name of an employee described in paragraph (1) of this subsection if the matter is referred to the Attorney General for enforcement. The Secretary making such disclosure shall provide reasonable advancenotice to the affected employee if disclosure of that person's identity or identifying information is to occur.
 
 #### (i) Process for reporting security problems to the Department of Homeland Security
 

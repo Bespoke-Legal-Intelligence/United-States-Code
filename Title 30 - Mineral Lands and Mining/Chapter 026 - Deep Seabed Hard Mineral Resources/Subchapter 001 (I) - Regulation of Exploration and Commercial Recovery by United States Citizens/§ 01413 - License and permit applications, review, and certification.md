@@ -22,7 +22,7 @@
 
 &emsp;(ii) in the case of a permit, an area of the deep seabed—
 
-&emsp;&emsp;(I) in which hard mineral resources can be recovered in sufficient quantities to satisfy the permittee's estimated production requirements over the initial 20-year term of the permit in an efficient, economical, and orderly manner with due regard for conservation and protection of the environment, taking into consideration the resource data, other relevant physical and environmental characteristics, and the state of the technology of the applicant set out in the recovery plan;
+&emsp;&emsp;(I) in which hard mineral resources can be recovered in sufficient quantities to satisfythe permittee's estimated production requirements over the initial 20-year term of the permit in an efficient, economical, and orderly manner with due regard for conservation and protection of the environment, taking into consideration the resource data, other relevant physical and environmental characteristics, and the state of the technology of the applicant set out in the recovery plan;
 
 &emsp;&emsp;(II) which is not larger than is necessary to satisfy the permittee's estimated production requirements over the initial 20-year term of the permit; and
 

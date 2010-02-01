@@ -188,7 +188,7 @@ Subsec. (a)(2)(B). Pub. L. 101–625, §416(1), amended subpar. (B) generally. P
 
 Subsec. (a)(2)(C). Pub. L. 101–625, §416(2), substituted “the effective date of the regulations implementing subchapter II–A of this chapter. The Secretary may not provide financial assistance under subparagraph (B), after such effective date, unless the Secretary determines that such assistance is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990” for “September 30, 1990”.
 
-Subsec. (a)(3)(C). Pub. L. 101–625, §416(3), substituted “the effective date of the regulations implementing subchapter II–A of this chapter. The authority for a resident management corporation to purchase 1 ormore multifamily buildings in a public housing project from a public housing agency shall terminate after such effective date, unless the Secretary determines that such purchase is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990” for “September 30, 1990”.
+Subsec. (a)(3)(C). Pub. L. 101–625, §416(3), substituted “the effective date of the regulations implementing subchapter II–A of this chapter. The authority for a resident management corporation to purchase 1 or more multifamily buildings in a public housing project from a public housing agency shall terminate after such effective date, unless the Secretary determines that such purchase is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990” for “September 30, 1990”.
 
 Subsec. (f)(7). Pub. L. 101–625, §572(1), substituted “low-income families” for “lower income families”.
 

@@ -48,7 +48,7 @@ There is established the United States Commission on International Religious Fre
 
 #### (B) Presidential appointments
 
-&emsp;&emsp;Of the three members of the Commission appointed by the President under subsection (b)(1)(B)(i) of this section, two shall be appointed to a 1-year term and one shall be appointed to a 2-year term.
+&emsp;&emsp;Of the three members of the Commission appointed by the President under subsection\(b)(1)(B)(i) of this section, two shall be appointed to a 1-year term and one shall be appointed to a 2-year term.
 
 #### (C) Appointments by the President pro tempore of the Senate
 
@@ -106,7 +106,7 @@ Subsec. (b)(1)(B)(iii). Pub. L. 106–55, §2(b), substituted “Three” for �
 
 Subsec. (c). Pub. L. 106–55, §1(a)(1), designated existing provisions as par. (1) and inserted par. heading.
 
-Subsec. (h). Pub. L. 106–55, §1(a)(3), amended heading and text of subsec. (h) generally. Prior to amendment,text read as follows: “The Secretary of State shall assist the Commission by providing to the Commission such staff and administrative services of the Office as may be necessary and appropriate for the Commission to perform its functions. Any employee of the executive branch of Government may be detailed to the Commission without reimbursement to the agency of that employee and such detail shall be without interruption or loss of civil service status or privilege.”
+Subsec. (h). Pub. L. 106–55, §1(a)(3), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “The Secretary of State shall assist the Commission by providing to the Commission such staff and administrative services of the Office as may be necessary and appropriate for the Commission to perform its functions. Any employee of the executive branch of Government may be detailed to the Commission without reimbursement to the agency of that employee and such detail shall be without interruption or loss of civil service status or privilege.”
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

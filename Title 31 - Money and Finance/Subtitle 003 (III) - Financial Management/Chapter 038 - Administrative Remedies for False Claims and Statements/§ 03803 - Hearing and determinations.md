@@ -154,7 +154,7 @@
 
 &emsp;(i) Procedures for the inclusion, in any written notice of a hearing under this section to any person alleged to be liable under section 3802 of this title, of a description of the procedures for the conduct of the hearing.
 
-&emsp;(ii) Procedures to permit discovery by any person alleged to be liable under section 3802 of this title only to the extent that the presiding officer determines that such discovery is necessary for the expeditious, fair, and reasonable consideration of the issues, except that such procedures shall not apply to documents, transcripts, records, or other material which a person is entitled to review under paragraph (1) of subsection (e) or to information to which a person is entitled under paragraph (2) of such subsection. Procedures promulgated under this clause shall prohibit the discovery of thenotice required under subsection (a)(2) of this section.
+&emsp;(ii) Procedures to permit discovery by any person alleged to be liable under section 3802 of this title only to the extent that the presiding officer determines that such discovery is necessary for the expeditious, fair, and reasonable consideration of the issues, except that such procedures shall not apply to documents, transcripts, records, or other material which a person is entitled to review under paragraph (1) of subsection (e) or to information to which a person is entitled under paragraph (2) of such subsection. Procedures promulgated under this clause shall prohibit the discovery of the notice required under subsection (a)(2) of this section.
 
 (4) Each hearing under subsection (f) of this section shall be held—
 
@@ -166,7 +166,7 @@
 
 (h) The presiding officer shall issue a written decision, including findings and determinations, after the conclusion of the hearing. Such decision shall include the findings of fact and conclusions of law which the presiding officer relied upon in determining whether a person is liable under this chapter. The presiding officer shall promptly send to each party to the hearing a copy of such decision and a statement describing the right of any person determined to be liable under section 3802 of this title to appeal the decision of the presiding officer to the authority head under paragraph (2) of subsection (i).
 
-(i)(1) Except as provided in paragraph (2) of this subsection and section 3805 of this title, the decision, including the findings and determinations, of the presiding officer issued under subsection (h) of this section are final.
+(i)(1) Except as provided in paragraph (2) of this subsection and section 3805 of this title, thedecision, including the findings and determinations, of the presiding officer issued under subsection (h) of this section are final.
 
 (2)(A)(i) Except as provided in clause (ii) of this subparagraph, within 30 days after the presiding officer issues a decision under subsection (h) of this section, any person determined in such decision to be liable under section 3802 of this title may appeal such decision to the authority head.
 
@@ -196,7 +196,7 @@ The Railroad Retirement Act of 1974, referred to in subsec. (c)(2)(C)(xii), is a
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (c)(2)(C)(xiii), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (c)(2)(C)(xv), is title XXVI of Pub.L. 97–35, Aug. 13, 1981, 95 Stat. 893, as amended, which is classified generally to subchapter II (§8621 et seq.) of chapter 94 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of Title 42 and Tables.
+The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (c)(2)(C)(xv), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, as amended, which is classified generally to subchapter II (§8621 et seq.) of chapter 94 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of Title 42 and Tables.
 
 The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (c)(2)(C)(xvi), is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to Part A (§6861 et seq.) of subchapter III of chapter 81 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of Title 42 and Tables.
 

@@ -2,7 +2,7 @@
 
 #### (a) Annual percentage rates
 
-The Board shall collect, publish, and disseminate to the public, on a demonstration basis in a number of standard metropolitan statistical areas to be determined by the Board, the annual percentage rates charged for representative types of nonsale credit by creditors in such areas. For the purpose of this section, the Board is authorized to require creditors in such areas to furnish information necessary for the Board to collect, publish, and disseminate such information.
+The Board shall collect, publish, and disseminate to the public, on a demonstration basis in a number of standard metropolitan statistical areas to be determined by the Board, the annual percentage rates charged for representativetypes of nonsale credit by creditors in such areas. For the purpose of this section, the Board is authorized to require creditors in such areas to furnish information necessary for the Board to collect, publish, and disseminate such information.
 
 #### (b) Credit card price and availability information
 

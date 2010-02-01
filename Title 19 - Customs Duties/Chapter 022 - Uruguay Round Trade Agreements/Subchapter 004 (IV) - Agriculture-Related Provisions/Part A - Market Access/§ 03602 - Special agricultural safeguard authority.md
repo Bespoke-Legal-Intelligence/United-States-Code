@@ -30,7 +30,7 @@ The President shall direct the Secretary of the Treasury to impose a duty on a s
 
 #### (d) No simultaneous safeguard
 
-A duty may not be in effect for a special safeguard agricultural good pursuant to this section during any period in which such good is the subject of any action proclaimed pursuant to section 2252 or 2253 of this title.
+A duty may not be in effect for a special safeguard agricultural good pursuant to this sectionduring any period in which such good is the subject of any action proclaimed pursuant to section 2252 or 2253 of this title.
 
 #### (e) Exclusion of NAFTA countries
 

@@ -476,6 +476,8 @@ Section applicable to taxable years beginning after Dec. 31, 2003, see section 1
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+2010—Revenue Procedure 2009–29.
+
 2009—Revenue Procedure 2008–29.
 
 2008—Revenue Procedure 2007–36.

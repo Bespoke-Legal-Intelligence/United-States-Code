@@ -64,7 +64,7 @@ Section 300y–4, act July 1, 1944, ch. 373, title XIX, §1925, as added Aug. 13
 
 Section 300y–5, act July 1, 1944, ch. 373, title XIX, §1926, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 554, related to State grants to community health centers from allotments.
 
-Section 300y–6, act July 1, 1944, ch. 373, title XIX, §1927, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901,95 Stat. 556, related to application requirements and submittal, availability for public comment, and revision of a description of intended use of funds.
+Section 300y–6, act July 1, 1944, ch. 373, title XIX, §1927, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 556, related to application requirements and submittal, availability for public comment, and revision of a description of intended use of funds.
 
 Section 300y–7, act July 1, 1944, ch. 373, title XIX, §1928, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 557, related to reporting and auditing requirements.
 
@@ -72,5 +72,5 @@ Section 300y–8, act July 1, 1944, ch. 373, title XIX, §1929, as added Aug. 13
 
 Section 300y–9, act July 1, 1944, ch. 373, title XIX, §1930, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 558, related to nondiscrimination requirements.
 
-Section 300y–10, act July 1, 1944, ch. 373, title XIX, §1931, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 559, provided criminal penalty for false statements.
+Section 300y–10, act July 1, 1944, ch. 373, title XIX, §1931, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901,95 Stat. 559, provided criminal penalty for false statements.
 

@@ -66,7 +66,7 @@ The Secretary shall—
 
 #### (IV) Termination of eligibility
 
-&emsp;&emsp;&emsp;&emsp;Notwithstanding any other provision of law, the Freely Associated States shall not receive any assistance under this subparagraph for any program year that begins after September 30, 2001.
+&emsp;&emsp;&emsp;&emsp;Notwithstanding any other provision of law, the Freely Associated States shall not receive any assistance underthis subparagraph for any program year that begins after September 30, 2001.
 
 #### (V) Administrative costs
 
@@ -130,7 +130,7 @@ The Secretary shall—
 
 #### (IV) Minimum funding
 
-&emsp;&emsp;&emsp;&emsp;In any fiscal year in which the remainder described in clause (i)(II) does not exceed $1,000,000,000, the minimum allotments under subclauses (I) and (II) shallbe calculated by the methodology for calculating the corresponding allotments under parts B and C of title II of the Job Training Partnership Act, as in effect on July 1, 1998.
+&emsp;&emsp;&emsp;&emsp;In any fiscal year in which the remainder described in clause (i)(II) does not exceed $1,000,000,000, the minimum allotments under subclauses (I) and (II) shall be calculated by the methodology for calculating the corresponding allotments under parts B and C of title II of the Job Training Partnership Act, as in effect on July 1, 1998.
 
 #### (2) Definitions
 

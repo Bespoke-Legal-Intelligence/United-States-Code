@@ -38,7 +38,7 @@ The advocate for competition of an executive agency shall—
 
 &emsp;(6) recommend to the senior procurement executive of the executive agency a system of personal and organizational accountability for competition, which may include the use of recognition and awards to motivate program managers, contracting officers, and others in authority to promote competition in procurement programs; and
 
-&emsp;(7) describe other ways in which the executive agency has emphasized competition in programs for procurement training and research.
+&emsp;(7) describe other ways in which the executive agency has emphasized competition inprograms for procurement training and research.
 
 #### (c) Responsibilities
 

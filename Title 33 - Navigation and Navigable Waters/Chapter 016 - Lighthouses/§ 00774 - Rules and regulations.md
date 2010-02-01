@@ -1,6 +1,6 @@
 ### §774. Rules and regulations
 
-The Director of the Office of Personnel Management shall perform, or cause to be performed, such acts, and shall make such rules andregulations, as may be necessary or proper to carry out the provisions of sections 771 to 775 of this title.
+The Director of the Office of Personnel Management shall perform, or cause to be performed, such acts, and shall make such rules and regulations, as may be necessary or proper to carry out the provisions of sections 771 to 775 of this title.
 
 (Aug. 19, 1950, ch. 761, §4, 64 Stat. 466; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
 

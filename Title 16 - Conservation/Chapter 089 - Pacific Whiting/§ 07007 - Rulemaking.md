@@ -22,11 +22,13 @@ If the parties to the Agreement do not approve the joint management committee's 
 
 &emsp;(3) use the default harvest rate set out in paragraph 1 of Article III of the Agreement unless the Secretary determines that the scientific evidence demonstrates that a different rate is necessary to sustain the offshore whiting resource; and
 
-&emsp;(4) establish the United State's share of the total allowable catch based on paragraph 2 of Article III of the Agreement and make any adjustments necessary under section 5 of Article II of the Agreement.
+&emsp;(4) establish the United State's <sup>1</sup> share of the total allowable catch based on paragraph 2 of Article III of the Agreement and make any adjustments necessary under section 5 of Article II of the Agreement.
 
 (Pub. L. 109–479, title VI, §608, Jan. 12, 2007, 120 Stat. 3647.)
 
 #### References in Text
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -46,5 +46,5 @@ In evaluating programs receiving assistance under this chapter, the Secretary sh
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (b)(2) of this section relating to submitting the annually published report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 8th item on page 106 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (b)(2) of this section relating to submittingthe annually published report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 8th item on page 106 of House Document No. 103–7.
 

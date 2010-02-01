@@ -2,11 +2,11 @@
 
 #### (a) Designated and included conditions
 
-Permits issued under this subchapter shall designate and include (1) the type of material authorized to be transported for dumping or to be dumped; (2) the amount of material authorized to be transported for dumping or to be dumped; (3) the location where such transport for dumping will be terminated or where such dumping will occur; (4) such requirements, limitations, or conditions as are necessary to assure consistency with any site management plan approved pursuant to section 1412(c) of this title; (5) any special provisions deemed necessary by the Administrator or the Secretary, as the case may be, after consultation with the Secretary of the Department in which the Coast Guard is operating, for the monitoring and surveillance of the transportation or dumping; and (6) such other matters as the Administrator or the Secretary, as the case may be, deems appropriate. Permits issued under this subchapter shall be issued for a period of not to exceed 7 years.
+Permits issued under this subchapter shall designate and include (1) the type of material authorized to be transported for dumping or to be dumped; (2) the amount of material authorized to be transported for dumping or to be dumped; (3) the location where such transport for dumping will be terminated or where such dumping will occur; (4) such requirements, limitations, or conditions as are necessary to assure consistency with any site management plan approved pursuant to section 1412(c) of this title; (5) any special provisions deemed necessary by the Administrator or the Secretary, as the case may be, after consultation with the Secretary of the Department in which the Coast Guard is operating, for the monitoring and surveillance ofthe transportation or dumping; and (6) such other matters as the Administrator or the Secretary, as the case may be, deems appropriate. Permits issued under this subchapter shall be issued for a period of not to exceed 7 years.
 
 #### (b) Permit processing fees; reporting requirements
 
-The Administrator or the Secretary, as the case may be, may prescribe such processing feesfor permits and such reporting requirements for actions taken pursuant to permits issued by him under this subchapter as he deems appropriate.
+The Administrator or the Secretary, as the case may be, may prescribe such processing fees for permits and such reporting requirements for actions taken pursuant to permits issued by him under this subchapter as he deems appropriate.
 
 #### (c) General permits
 

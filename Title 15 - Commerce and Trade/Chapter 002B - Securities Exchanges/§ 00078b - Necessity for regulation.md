@@ -78,7 +78,7 @@ Joint Study Required.—The Board and the Commission shall conduct a joint study
 
 &emsp;&emsp;“(F) a diversity of types of businesses;
 
-&emsp;“(2) the structure and operation of the markets that develop for small business related securities and commercial mortgage related securities, including the types of entities (such as pension funds and insurance companies) that are significant purchasers of such securities, the extent to which such entities are sophisticated investors, the use of credit enhancements in obtaining investment-grade ratings, anyconflicts of interest that arise in such markets, and any adverse effects of such markets on commercial real estate ventures, pension funds, or pension fund beneficiaries;
+&emsp;“(2) the structure and operation of the markets that develop for small business related securities and commercial mortgage related securities, including the types of entities (such as pension funds and insurance companies) that are significant purchasers of such securities, the extent to which such entities are sophisticated investors, the use of credit enhancements in obtaining investment-grade ratings, any conflicts of interest that arise in such markets, and any adverse effects of such markets on commercial real estate ventures, pension funds, or pension fund beneficiaries;
 
 &emsp;“(3) the extent to which the provisions of this subtitle with regard to margin requirements, the number of eligible investment rating categories, preemption of State law, and the treatment of such securities as government securities for the purpose of State investment limitations, affect the structure and operation of such markets; and
 

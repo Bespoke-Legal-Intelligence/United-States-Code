@@ -1,6 +1,6 @@
 ### §5731. Reporting requirement
 
-Not later than March 31, 1993, March 31, 1995, March 31, 1996, March 31, 1997, March 31, 1998, March 31, 1999, March 31, 2000, March 31, 2001, March 31, 2002, March 31, 2003, March 31, 2004, March 31, 2005, and March 31, 2006 <sup>1</sup> the Secretary of State shall transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report on conditions in Hong Kong of interest to the United States. This report shall cover (in the case of the initial report) the period since October 5, 1992, or (in the case of subsequent reports) the period since the most recent report pursuant to this section and shall describe—
+Not later than March 31, 1993, March 31, 1995, March 31, 1996, March 31, 1997, March 31, 1998, March 31, 1999, March 31, 2000, March 31, 2001, March 31, 2002, March 31, 2003, March 31, 2004,March 31, 2005, and March 31, 2006 the Secretary of State shall transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report on conditions in Hong Kong of interest to the United States. This report shall cover (in the case of the initial report) the period since October 5, 1992, or (in the case of subsequent reports) the period since the most recent report pursuant to this section and shall describe—
 
 &emsp;(1) significant developments in United States relations with Hong Kong, including a description of agreements that have entered into force between the United States and Hong Kong;
 
@@ -35,6 +35,4 @@ Pub. L. 107–115, title V, §586(b), Jan. 10, 2002, 115 Stat. 2173, provided th
 Pub. L. 104–208, div. A, title I, §101(c) \[title V, §571\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–167, which directed that the additional report required to be submitted during 1997 under this section include detailed information on the status of, and other developments affecting, implementation of the Sino-British Joint Declaration on the Question of Hong Kong, was from the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 104–107, title V, §576(b), Feb. 12, 1996, 110 Stat. 750.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

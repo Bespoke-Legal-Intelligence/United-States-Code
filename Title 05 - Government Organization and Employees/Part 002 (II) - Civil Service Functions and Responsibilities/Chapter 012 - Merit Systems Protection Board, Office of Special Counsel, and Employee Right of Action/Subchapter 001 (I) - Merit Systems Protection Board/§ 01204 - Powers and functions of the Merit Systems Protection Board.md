@@ -6,7 +6,7 @@
 
 &emsp;(2) order any Federal agency or employee to comply with any order or decision issued by the Board under the authority granted under paragraph (1) of this subsection and enforce compliance with any such order;
 
-&emsp;(3) conduct, from time to time, special studies relating to the civil service and to other merit systems in the executive branch, and report to the President and to the Congress as to whether the public interest in a civil servicefree of prohibited personnel practices is being adequately protected; and
+&emsp;(3) conduct, from time to time, special studies relating to the civil service and to other merit systems in the executive branch, and report to the President and to the Congress as to whether the public interest in a civil service free of prohibited personnel practices is being adequately protected; and
 
 &emsp;(4) review, as provided in subsection (f), rules and regulations of the Office of Personnel Management.
 
@@ -120,7 +120,7 @@ Subsec. (e)(1). Pub. L. 101–12, §3(a)(7)(A), (G)(i), designated existing prov
 
 Subsec. (e)(2). Pub. L. 101–12, §3(a)(7)(G)(ii), designated existing provisions as subpar. (A), struck out “of this section” after “subsection (a)(2)”, and added subpar. (B).
 
-Subsec. (e)(3). Pub. L. 101–12, §3(a)(7)(A), (G)(iii), struck out “of this section” after “subsection (a)(3)”and inserted “of Personnel Management” after “Office”.
+Subsec. (e)(3). Pub. L. 101–12, §3(a)(7)(A), (G)(iii), struck out “of this section” after “subsection (a)(3)” and inserted “of Personnel Management” after “Office”.
 
 Subsec. (f). Pub. L. 101–12, §3(a)(7)(F), redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
 

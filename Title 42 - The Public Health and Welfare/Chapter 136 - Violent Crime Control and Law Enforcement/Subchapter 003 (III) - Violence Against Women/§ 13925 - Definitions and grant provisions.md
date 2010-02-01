@@ -46,7 +46,7 @@ In this subchapter:
 
 #### (7) Dating partner
 
-&emsp;The term “dating partner” refers to a person who is or has been in a social relationship ofa romantic or intimate nature with the abuser, and where the existence of such a relationship shall be determined based on a consideration of—
+&emsp;The term “dating partner” refers to a person who is or has been in a social relationship of a romantic or intimate nature with the abuser, and where the existence of such a relationship shall be determined based on a consideration of—
 
 &emsp;&emsp;(A) the length of the relationship;
 
@@ -320,7 +320,7 @@ In this subchapter:
 
 #### (9) Prohibition on tort litigation
 
-&emsp;Funds appropriated for the grant program under this subchapter may not be used to fund civil representation in a lawsuit based on a tort claim. This paragraph should not be construed as a prohibition on providing assistance to obtain restitution in a protection order or criminal case.
+&emsp;Funds appropriated for the grant program under this subchapter may not be used to fundcivil representation in a lawsuit based on a tort claim. This paragraph should not be construed as a prohibition on providing assistance to obtain restitution in a protection order or criminal case.
 
 #### (10) Prohibition on lobbying
 

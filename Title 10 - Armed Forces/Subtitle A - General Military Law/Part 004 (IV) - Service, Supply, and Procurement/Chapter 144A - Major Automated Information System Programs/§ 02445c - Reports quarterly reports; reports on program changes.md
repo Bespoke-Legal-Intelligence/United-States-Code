@@ -46,13 +46,13 @@ In general.—If, based on a quarterly report submitted by the program manager o
 
 Covered determination.—A determination described in this paragraph with respect to a major automated information system program or other major information technology investment program is a determination that—
 
-&emsp;&emsp;(A) the automated information system or information technology investment failed to achieve initial operational capability within five years after funds were first obligated for the program;
+&emsp;&emsp;(A) the automated information system or information technology investment failed to achieve a full deployment decision within five years after funds were first obligated for the program;
 
 &emsp;&emsp;(B) there has been a schedule change that will cause a delay of one year or more in any program schedule milestone or significant event from the schedule originally submitted to Congress under paragraph (1) or (2) of section 2445b(b) of this title or section 2445b(d) of this title, as applicable;
 
-&emsp;&emsp;(C) the estimated program development cost or full life-cycle cost for the program has increased by 25 percent or more over the original estimate submitted to Congress under paragraph (3) of section 2445b(b) of this title or section 2445b(d) of this title, as applicable; or
+&emsp;&emsp;(C) the estimated program development cost or full life-cycle cost for the programhas increased by 25 percent or more over the original estimate submitted to Congress under paragraph (3) of section 2445b(b) of this title or section 2445b(d) of this title, as applicable; or
 
-&emsp;&emsp;(D) there has been a change in the expected performance of the major automated information system or major informationtechnology investment to be acquired under the program that will undermine the ability of the system to perform the functions anticipated at the time information on the program was originally submitted to Congress under section 2445b(b) of this title or section 2445b(d) of this title, as applicable.
+&emsp;&emsp;(D) there has been a change in the expected performance of the major automated information system or major information technology investment to be acquired under the program that will undermine the ability of the system to perform the functions anticipated at the time information on the program was originally submitted to Congress under section 2445b(b) of this title or section 2445b(d) of this title, as applicable.
 
 (e)
 
@@ -72,7 +72,7 @@ Report on Critical Program Changes.—A report on a major automated information 
 
 &emsp;(2) there is no alternative to the system or information technology investment which will provide equal or greater capability at less cost;
 
-&emsp;(3) the new estimates of the costs, schedule, and performance parameters with respect to the program and system or information technology investment, as applicable, are reasonable; and
+&emsp;(3) the new estimates of the costs, schedule, and performance parameters with respect to the program and system or information technology investment, as applicable, have been determined, with the concurrence of the Director of Cost Assessment and Program Evaluation, to be reasonable; and
 
 &emsp;(4) the management structure for the program is adequate to manage and control program costs.
 
@@ -82,9 +82,13 @@ Prohibition on Obligation of Funds.—(1) If the determination of a critical cha
 
 (2) The prohibition on the obligation of funds for a program under paragraph (1) shall cease to apply on the date on which Congress has received a report in compliance with the requirements of subsection (d)(2).
 
-(Added Pub. L. 109–364, div. A, title VIII, §816(a)(1), Oct. 17, 2006, 120 Stat. 2324; Pub. L. 110–417, \[div. A\], title VIII, §812(c), Oct. 14, 2008, 122 Stat. 4526.)
+(Added Pub. L. 109–364, div. A, title VIII, §816(a)(1), Oct. 17, 2006, 120 Stat. 2324; amended Pub. L. 110–417, \[div. A\], title VIII, §812(c), Oct. 14, 2008, 122 Stat. 4526; Pub. L. 111–23, title I, §101(d)(6), May 22, 2009, 123 Stat. 1710; Pub. L. 111–84, div. A, title VIII, §841(b), Oct. 28, 2009, 123 Stat. 2418.)
 
 #### Amendments
+
+2009—Subsec. (d)(2)(A). Pub. L. 111–84 substituted “a full deployment decision” for “initial operational capability”.
+
+Subsec. (f)(3). Pub. L. 111–23 substituted “have been determined, with the concurrence of the Director of Cost Assessment and Program Evaluation, to be reasonable” for “are reasonable”.
 
 2008—Subsec. (a). Pub. L. 110–417, §812(c)(1), inserted “or other major information technology investment program” after “major automated information system program” and “or information technology investment” after “the major automated information system”.
 

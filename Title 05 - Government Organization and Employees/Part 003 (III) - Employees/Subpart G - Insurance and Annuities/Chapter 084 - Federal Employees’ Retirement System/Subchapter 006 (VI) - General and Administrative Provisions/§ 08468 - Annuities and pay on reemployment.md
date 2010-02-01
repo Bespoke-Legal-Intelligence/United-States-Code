@@ -12,7 +12,7 @@
 
 (B) If an annuitant who is subject to the deductions referred to in subparagraph (A) dies while still reemployed, after having been reemployed for at least 5 years of full-time service (or the equivalent thereof in the case of part-time employment), any person entitled to a survivor annuity under section 8442 or 8445 based on the service of such annuitant shall be permitted to elect, in accordance with regulations prescribed by the Office of Personnel Management, to have such person's rights under subchapter IV redetermined. A redetermined survivor annuity elected under this subparagraph shall be in lieu of an increased annuity which would otherwise be payable in accordance with paragraph (1)(B)(ii).
 
-(3) If an annuitant subject to deductions under the second sentence of subsection (a) serves on afull-time basis for a period of less than 1 year, or on a part-time basis for periods equivalent to less than 1 year of full-time service, the total amount withheld under section 8422(a) from the annuitant's basic pay for the period or periods involved shall, upon written application to the Office, be payable to the annuitant (or the appropriate survivor or survivors, determined in the order set forth in section 8424(d)).
+(3) If an annuitant subject to deductions under the second sentence of subsection (a) serves on a full-time basis for a period of less than 1 year, or on a part-time basis for periods equivalent to less than 1 year of full-time service, the total amount withheld under section 8422(a) from the annuitant's basic pay for the period or periods involved shall, upon written application to the Office, be payable to the annuitant (or the appropriate survivor or survivors, determined in the order set forth in section 8424(d)).
 
 (c) This section does not apply to an individual appointed to serve as a Governor of the Board of Governors of the United States Postal Service.
 
@@ -46,13 +46,95 @@
 
 (4) For the purpose of this subsection, “agency in the legislative branch”, “employee of the House of Representatives”, “employee of the Senate”, and “congressional employee” each has the meaning given to it in section 5531 of this title.
 
-(i)(1) For the purpose of subsections (f) through (h), “Executive agency” shall not include the Government Accountability Office.
+(i)(1) For purposes of this subsection—
 
-(2) An employee as to whom a waiver under subsection (f), (g), or (h) is in effect shall not be considered an employee for purposes of this chapter or chapter 83 of this title.
+&emsp;(A) the term “head of an agency” means—
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 576; amended Pub. L. 100–238, title I, §134(a), Jan. 8, 1988, 101 Stat. 1762; Pub. L. 101–509, title V, §529 \[title I, §108(c)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(3), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(c), Dec. 5, 1991, 105 Stat. 1392; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, §107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, §516(a)(9), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 108–176, title II, §226(b)(2)(C), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+&emsp;&emsp;(i) the head of an Executive agency, other than the Department of Defense or the Government Accountability Office;
+
+&emsp;&emsp;(ii) the head of the United States Postal Service;
+
+&emsp;&emsp;(iii) the Director of the Administrative Office of the United States Courts, with respect to employees of the judicial branch; and
+
+&emsp;&emsp;(iv) any employing authority described under subsection (h)(2), other than the Government Accountability Office; and
+
+&emsp;(B) the term “limited time appointee” means an annuitant appointed under a temporary appointment limited to 1 year or less.
+
+(2) The head of an agency may waive the application of subsection (a) with respect to any annuitant who is employed in such agency as a limited time appointee, if the head of the agency determines that the employment of the annuitant is necessary to—
+
+&emsp;(A) fulfill functions critical to the mission of the agency, or any component of that agency;
+
+&emsp;(B) assist in the implementation or oversight of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) or the Troubled Asset Relief Program under title I of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5201 et seq.);
+
+&emsp;(C) assist in the development, management, or oversight of agency procurement actions;
+
+&emsp;(D) assist the Inspector General for that agency in the performance of the mission of that Inspector General;
+
+&emsp;(E) promote appropriate training or mentoring programs of employees;
+
+&emsp;(F) assist in the recruitment or retention of employees; or
+
+&emsp;(G) respond to an emergency involving a direct threat to life of property or other unusual circumstances.
+
+(3) The head of an agency may not waive the application of subsection (a) with respect to an annuitant—
+
+&emsp;(A) for more than 520 hours of service performed by that annuitant during the period ending 6 months following the individual's annuity commencing date;
+
+&emsp;(B) for more than 1040 hours of service performed by that annuitant during any 12-month period; or
+
+&emsp;(C) for more than a total of 3120 hours of service performed by that annuitant.
+
+(4)(A) The total number of annuitants to whom a waiver by the head of an agency under this subsection or section 8344(<i>l</i>) applies may not exceed 2.5 percent of the total number of full-time employees of that agency.
+
+(B) If the total number of annuitants to whom a waiver by the head of an agency under this subsection or section 8344(<i>l</i>) applies exceeds 1 percent of the total number of full-time employees of that agency, the head of that agency shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Government Reform of the House of Representatives, and the Office of Personnel Management—
+
+&emsp;(i) a report with an explanation that justifies the need for the waivers in excess of that percentage; and
+
+&emsp;(ii) not later than 180 days after submitting the report under clause (i), a succession plan.
+
+(5)(A) The Director of the Office of Personnel Management may promulgate regulations providing for the administration of this subsection.
+
+(B) Any regulations promulgated under subparagraph (A) may—
+
+&emsp;(i) provide standards for the maintenance and form of necessary records of employment under this subsection;
+
+&emsp;(ii) to the extent not otherwise expressly prohibited by law, require employing agencies to provide records of such employment to the Office or other employing agencies as necessary to ensure compliance with paragraph (3);
+
+&emsp;(iii) authorize other administratively convenient periods substantially equivalent to 12 months, such as 26 pay periods, to be used in determining compliance with paragraph (3)(B);
+
+&emsp;(iv) include such other administrative requirements as the Director of the Office of Personnel Management may find appropriate to provide for effective operation of, or to ensure compliance with, this subsection; and
+
+&emsp;(v) encourage the training and mentoring of employees by any limited time appointee employed under this subsection.
+
+(6)(A) Any hours of training or mentoring of employees by any limited time appointee employed under this subsection shall not be included in the hours of service performed for purposes of paragraph (3), but those hours of training or mentoring may not exceed 520 hours.
+
+(B) If the primary service performed by any limited time appointee employed under this subsection is training or mentoring of employees, the hours of that service shall be included in the hours of service performed for purposes of paragraph (3).
+
+(7) The authority of the head of an agency under this subsection to waive the application of subsection (a) shall terminate 5 years after the date of enactment of the National Defense Authorization Act for Fiscal Year 2010.
+
+(j)(1) For the purpose of subsections (f) through (i), “Executive agency” shall not include the Government Accountability Office.
+
+(2) An employee as to whom a waiver under subsection (f), (g), (h), or (i) is in effect shall not be considered an employee for purposes of this chapter or chapter 83 of this title.
+
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 576; amended Pub. L. 100–238, title I, §134(a), Jan. 8, 1988, 101 Stat. 1762; Pub. L. 101–509, title V, §529 \[title I, §108(c)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(3), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(c), Dec. 5, 1991, 105 Stat. 1392; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, §107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, §516(a)(9), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 108–176, title II, §226(b)(2)(C), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–84, div. A, title XI, §1122(b), Oct. 28, 2009, 123 Stat. 2507.)
+
+#### References in Text
+
+The American Recovery and Reinvestment Act of 2009, referred to in subsec. (i)(2)(B), is Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 115. For complete classificationof this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
+
+The Emergency Economic Stabilization Act of 2008, referred to in subsec. (i)(2)(B), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765. Title I of the Act is classified principally to subchapter I (§5211 et seq.) of chapter 52 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
+
+The date of enactment of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (i)(7), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
 
 #### Amendments
+
+2009—Subsec. (i). Pub. L. 111–84, §1122(b)(2), added subsec. (i). Former subsec. (i) redesignated (j).
+
+Subsec. (j). Pub. L. 111–84, §1122(b)(1), redesignated subsec. (i) as (j).
+
+Subsec. (j)(1). Pub. L. 111–84, §1122(b)(3)(A), substituted “(i)” for “(h)”.
+
+Subsec. (j)(2). Pub. L. 111–84, §1122(b)(3)(B), substituted “(h), or (i)” for “or (h)”.
 
 2004—Subsec. (i)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -68,7 +150,7 @@ Subsec. (h)(2)(B), (3). Pub. L. 105–55 substituted “the Committee on House O
 
 Subsecs. (g) to (i). Pub. L. 102–190, §655(c)(1), added subsecs. (g) to (i).
 
-1990—Subsec. (f). Pub. L. 101–510, §1206(j)(3), added a subsec. (f) identical to that added by Pub. L. 101–509, see below. Pub. L. 102–378, §8(a), repealed Pub. L.101–510, §1206(j)(3), and provided that this title shall read as if section 1206(j)(3) had not been enacted.
+1990—Subsec. (f). Pub. L. 101–510, §1206(j)(3), added a subsec. (f) identical to that added by Pub. L. 101–509, see below. Pub. L. 102–378, §8(a), repealed Pub. L. 101–510, §1206(j)(3), and provided that this title shall read as if section 1206(j)(3) had not been enacted.
 
 Pub. L. 101–509 added subsec. (f).
 
@@ -105,6 +187,10 @@ Generally.—The amendments made by this section \[amending this section and pro
 “(2)
 
 Exception.—The amendment made by subsection (b) \[amending provisions set out as a note under section 8331 of this title\] shall apply with respect to any election made by a reemployed annuitant on or after the date of the enactment of this Act \[Jan. 8, 1988\].”
+
+#### Construction of 2009 Amendment
+
+Nothing in amendment by section 1122 of Pub. L. 111–84 to be construed to authorize the waiver of the hiring preferences under chapter 33 of this title in selecting annuitants to employ in an appointive or elective position, see section 1122(c) of Pub. L. 111–84, set out as a note under section 8344 of this title.
 
 #### Annual Report to Congress
 

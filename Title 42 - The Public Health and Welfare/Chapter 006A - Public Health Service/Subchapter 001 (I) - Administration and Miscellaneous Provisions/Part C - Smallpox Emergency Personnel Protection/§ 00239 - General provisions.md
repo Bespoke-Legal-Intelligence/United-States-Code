@@ -40,7 +40,7 @@ For purposes of this part:
 
 #### (5) Effective period of the Declaration
 
-&emsp;The term “effective period of the Declaration” means the effective period specified inthe Declaration, unless extended by the Secretary.
+&emsp;The term “effective period of the Declaration” means the effective period specified in the Declaration, unless extended by the Secretary.
 
 #### (6) Eligible individual
 

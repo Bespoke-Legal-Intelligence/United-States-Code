@@ -56,7 +56,7 @@ The Secretary may also utilize the Fund—
 
 &emsp;(2) to pay the holder of any note insured under this section any defaulted installment or, upon assignment of the note to the Secretary at the Secretary's request, or pursuant to a purchase agreement, the entire balance outstanding on the note;
 
-&emsp;(3) to pay taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections or necessary to obtain credit reports on applicants or borrowers, and other services customary in the industry, independent audits of project expenses, construction inspections, commercial appraisals, servicing of loans, and other related program services and expenses, and other expenses and advances to protect the security for loans which are insured under this section or held in the Fund, and to acquire such security property at foreclosure sale or otherwise;
+&emsp;(3) to pay taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections or necessary to obtain credit reports on applicants or borrowers, andother services customary in the industry, independent audits of project expenses, construction inspections, commercial appraisals, servicing of loans, and other related program services and expenses, and other expenses and advances to protect the security for loans which are insured under this section or held in the Fund, and to acquire such security property at foreclosure sale or otherwise;
 
 &emsp;(4) to make assistance payments authorized by section 1490a(a) of this title;
 
@@ -68,7 +68,7 @@ The Secretary may also utilize the Fund—
 
 #### (k) Sale of loans as sale of assets
 
-Any sale by the Secretary of loans individually or in blocks, pursuant to subsections (c)and (g) of this section, shall be treated as a sale of assets for the purposes of chapter 11 of title 31, notwithstanding the fact that the Secretary, under an agreement with the purchaser, holds the debt instruments evidencing the loans and holds or reinvests payments thereon as trustee and custodian for the purchaser.
+Any sale by the Secretary of loans individually or in blocks, pursuant to subsections (c) and (g) of this section, shall be treated as a sale of assets for the purposes of chapter 11 of title 31, notwithstanding the fact that the Secretary, under an agreement with the purchaser, holds the debt instruments evidencing the loans and holds or reinvests payments thereon as trustee and custodian for the purchaser.
 
 #### (<i>l</i>) Commitments to make or insure loans to lenders, builders, or sellers; terms and conditions
 
@@ -114,7 +114,7 @@ Subsec. (j)(4). Pub. L. 98–479, §105(f), inserted “and” after the semicol
 
 Subsec. (k). Pub. L. 98–479, §203(d)(6), substituted “chapter 11 of title 31” for “the Budget and Accounting Act, 1921”.
 
-1983—Subsec. (a). Pub. L. 98–181, §514(a)(1), substituted provisions relating to amount of loan to low income person or family, for provisions designated as pars. (1) and (2) relating to restrictions on loans with respect to amounts, interest, etc., where the borrowers are persons of low or moderate income, and similar restrictions where the borrowers are other persons.
+1983—Subsec. (a). Pub. L. 98–181, §514(a)(1), substituted provisions relating to amount of loan to lowincome person or family, for provisions designated as pars. (1) and (2) relating to restrictions on loans with respect to amounts, interest, etc., where the borrowers are persons of low or moderate income, and similar restrictions where the borrowers are other persons.
 
 Subsec. (a)(1). Pub. L. 98–181, §511(c), substituted “September 30, 1985” for “November 30, 1983”.
 

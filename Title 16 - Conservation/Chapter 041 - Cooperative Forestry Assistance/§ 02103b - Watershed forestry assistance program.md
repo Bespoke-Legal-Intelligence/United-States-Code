@@ -6,11 +6,11 @@ In this section, the term “nonindustrial private forest land” means rural la
 
 &emsp;(1) has existing tree cover or that is suitable for growing trees; and
 
-&emsp;(2) is owned by any nonindustrial private individual, group, association, corporation, orother private legal entity, that has definitive decisionmaking authority over the land.
+&emsp;(2) is owned by any nonindustrial private individual, group, association, corporation, or other private legal entity, that has definitive decisionmaking authority over the land.
 
 #### (b) General authority and purpose
 
-The Secretary, acting through the Chief of the Forest Service and (where appropriate) through the Cooperative State Research, Education, and Extension Service, may provide technical, financial, and related assistance to State foresters, equivalent State officials, or Cooperative Extension officials at land grant colleges and universities and 1890 institutions for the purpose of expanding State forest stewardship capacities and activities through State forestry best-management practices and other means at the State level to address watershed issues on non-Federal forested land and potentially forested land.
+The Secretary, acting through the Chief of the Forest Service and (where appropriate) through the National Institute of Food and Agriculture, may provide technical, financial, and related assistance to State foresters, equivalent State officials, or cooperative extension officials at land grant colleges and universities and 1890 institutions for the purpose of expanding State forest stewardship capacities and activities through State forestry best-management practices and other means at the State level to address watershed issues on non-Federal forested land and potentially forested land.
 
 #### (c) Technical assistance to protect water quality
 
@@ -138,19 +138,19 @@ There is authorized to be appropriated to carry out this section $15,000,000 for
 
 (Pub. L. 95–313, §6, as added Pub. L. 108–148, title III, §302, Dec. 3, 2003, 117 Stat. 1903; amended Pub. L. 110–234, title VII, §7511(c)(35), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, §4(a), title VII, §7511(c)(35), June 18, 2008, 122 Stat. 1664, 2032.)
 
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2032, provided that, effective Oct. 1, 2009, subsection (b) of this section is amended by substituting “the National Institute of Food and Agriculture, may provide technical, financial, and related assistance to State foresters, equivalent State officials, or cooperative extension officials” for “the Cooperative State Research, Education, and Extension Service, may provide technical, financial, and related assistance to State foresters, equivalent State officials, or Cooperative Extension officials”.</i>
-
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
 A prior section 2103b, Pub. L. 95–313, §6, as added Pub. L. 101–624, title XII, §1216, Nov. 28, 1990, 104 Stat. 3526, established the Stewardship Incentive Program, prior to repeal by Pub. L. 107–171, title VIII, §8001(a), May 13, 2002, 116 Stat. 468.
 
 A prior section 6 of Pub. L. 95–313 was renumbered section 9 and is classified to section 2105 of this title.
+
+#### Amendments
+
+2008—Subsec. (b). Pub. L. 110–246, §7511(c)(35), substituted “the National Institute of Food and Agriculture, may provide technical, financial, and related assistance to State foresters, equivalent State officials, or cooperative extension officials” for “the Cooperative State Research, Education, and Extension Service, may provide technical, financial, and related assistance to State foresters, equivalent State officials, or Cooperative Extension officials”.
 
 #### Effective Date of 2008 Amendment
 

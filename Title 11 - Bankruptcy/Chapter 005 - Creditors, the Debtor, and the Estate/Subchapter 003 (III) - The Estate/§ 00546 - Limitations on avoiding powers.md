@@ -24,7 +24,7 @@
 
 > such interest in such property shall be perfected, or perfection of such interest shall be maintained or continued, by giving notice within the time fixed by such law for such seizure or such commencement.
 
-(c)(1) Except as provided in subsection (d) of this section and in section 507(c), and subject to the prior rights of a holder of a security interestin such goods or the proceeds thereof, the rights and powers of the trustee under sections 544(a), 545, 547, and 549 are subject to the right of a seller of goods that has sold goods to the debtor, in the ordinary course of such seller's business, to reclaim such goods if the debtor has received such goods while insolvent, within 45 days before the date of the commencement of a case under this title, but such seller may not reclaim such goods unless such seller demands in writing reclamation of such goods—
+(c)(1) Except as provided in subsection (d) of this section and in section 507(c), and subject to the prior rights of a holder of a security interest in such goods or the proceeds thereof, the rights and powers of the trustee under sections 544(a), 545, 547, and 549 are subject to the right of a seller of goods that has sold goods to the debtor, in the ordinary course of such seller's business, to reclaim such goods if the debtor has received such goods while insolvent, within 45 days before the date of the commencement of a case under this title, but such seller may not reclaim such goods unless such seller demands in writing reclamation of such goods—
 
 &emsp;(A) not later than 45 days after the date of receipt of such goods by the debtor; or
 
@@ -58,7 +58,7 @@
 
 I74legislative statements
 
-Section 546(a) of the House amendment is derived from section 546(c) of the Senate amendment. Section 546(c) of the House amendment is derived from section 546(b) of the Senate amendment. It applies to receipt ofgoods on credit as well as by cash sales. The section clarifies that a demand for reclamation must be made in writing anytime before 10 days after receipt of the goods by the debtor. The section also permits the court to grant the reclaiming creditor a lien or an administrative expense in lieu of turning over the property.
+Section 546(a) of the House amendment is derived from section 546(c) of the Senate amendment. Section 546(c) of the House amendment is derived from section 546(b) of the Senate amendment. It applies to receipt of goods on credit as well as by cash sales. The section clarifies that a demand for reclamation must be made in writing anytime before 10 days after receipt of the goods by the debtor. The section also permits the court to grant the reclaiming creditor a lien or an administrative expense in lieu of turning over the property.
 
 #### senate report no. 95–989
 

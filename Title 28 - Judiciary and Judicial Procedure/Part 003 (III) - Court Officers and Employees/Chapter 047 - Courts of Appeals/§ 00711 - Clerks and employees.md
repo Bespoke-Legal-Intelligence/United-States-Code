@@ -2,7 +2,7 @@
 
 (a) Each court of appeals may appoint a clerk who shall be subject to removal by the court.
 
-(b) The clerk, with the approval of the court, may appoint necessary deputies, clerical assistants and employees in such number as may be approved by the Director of the Administrative Office of the United States Courts. Such deputies, clerical assistants and employees shall besubject to removal by the clerk with the approval of the court.
+(b) The clerk, with the approval of the court, may appoint necessary deputies, clerical assistants and employees in such number as may be approved by the Director of the Administrative Office of the United States Courts. Such deputies, clerical assistants and employees shall be subject to removal by the clerk with the approval of the court.
 
 (c) The clerk shall pay into the Treasury all fees, costs and other moneys collected by him and make returns thereof to the Director of the Administrative Office of the United States Courts under regulations prescribed by him.
 
@@ -18,7 +18,7 @@ Discrepancies between such section 11–204 of District of Columbia Code, 1940 e
 
 Words “Director of the Administrative Office of the United States Courts” were substituted for “Attorney General,” in view of the act of Aug. 7, 1939, ch. 501, §6, 53 Stat. 1226, 28 U.S.C., 1940 ed., following §446.
 
-A provision that the returns should be filed annually was changed to place the times of accounting within the discretion of the Director of the Administrative Office of the United States Courts, who has supervision over such accounts. (See section 604 of this title.)
+A provision that the returns should be filed annually was changed to place the times of accounting withinthe discretion of the Director of the Administrative Office of the United States Courts, who has supervision over such accounts. (See section 604 of this title.)
 
 This section is in harmony with section 671 of this title as to accounting similarly by the Clerk of the Supreme Court.
 

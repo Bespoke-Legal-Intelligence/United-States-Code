@@ -54,7 +54,7 @@ As used in this subchapter—
 
 #### (10) Ozone-depletion potential
 
-&emsp;The term “ozone-depletion potential” means a factor established by the Administrator toreflect the ozone-depletion potential of a substance, on a mass per kilogram basis, as compared to chlorofluorocarbon-11 (CFC–11). Such factor shall be based upon the substance's atmospheric lifetime, the molecular weight of bromine and chlorine, and the substance's ability to be photolytically disassociated, and upon other factors determined to be an accurate measure of relative ozone-depletion potential.
+&emsp;The term “ozone-depletion potential” means a factor established by the Administrator to reflect the ozone-depletion potential of a substance, on a mass per kilogram basis, as compared to chlorofluorocarbon-11 (CFC–11). Such factor shall be based upon the substance's atmospheric lifetime, the molecular weight of bromine and chlorine, and the substance's ability to be photolytically disassociated, and upon other factors determined to be an accurate measure of relative ozone-depletion potential.
 
 #### (11) Produce, produced, and production
 

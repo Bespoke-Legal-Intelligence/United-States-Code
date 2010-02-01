@@ -51,7 +51,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1018\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20D%20-%20Administrative%20Provisions%20for%20Delivery%20of%20Student%20Financial%20Assistance/%C2%A7%2001018%20-%20Performance-Based%20Organization%20for%20delivery%20of%20Federal%20student%20financial%20assistance.md) | Performance-based organization for delivery of Federal student financial assistance. |
+| [1018\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20D%20-%20Administrative%20Provisions%20for%20Delivery%20of%20Student%20Financial%20Assistance/%C2%A7%2001018%20-%20Performance-Based%20Organization%20for%20delivery%20of%20Federal%20student%20financial%20assistance.md) | Performance-Based Organization for delivery of Federal student financial assistance. |
 | [1018a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20D%20-%20Administrative%20Provisions%20for%20Delivery%20of%20Student%20Financial%20Assistance/%C2%A7%2001018a%20-%20Procurement%20flexibility.md) | Procurement flexibility. |
 | [1018b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20D%20-%20Administrative%20Provisions%20for%20Delivery%20of%20Student%20Financial%20Assistance/%C2%A7%2001018b%20-%20Administrative%20simplification%20of%20student%20aid%20delivery.md) | Administrative simplification of student aid delivery. |
 
@@ -141,7 +141,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1036\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20B%20-%20Enhancing%20Teacher%20Education/Subpart%20005%20-%20Graduate%20Fellowships%20to%20Prepare%20Faculty%20in%20High-Need%20Areas%20at%20Colleges%20of%20Education/%C2%A7%2001036%20-%20Graduate%20fellowships%20to%20prepare%20faculty%20in%20high-need%20areas%20at%20colleges%20of%20education.md) | Graduate fellowships to prepare faculty in high-need areas at colleges of education.s |
+| [1036\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20B%20-%20Enhancing%20Teacher%20Education/Subpart%20005%20-%20Graduate%20Fellowships%20to%20Prepare%20Faculty%20in%20High-Need%20Areas%20at%20Colleges%20of%20Education/%C2%A7%2001036%20-%20Graduate%20fellowships%20to%20prepare%20faculty%20in%20high-need%20areas%20at%20colleges%20of%20education.md) | Graduate fellowships to prepare faculty in high-need areas at colleges of education. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -226,7 +226,7 @@ I74subpart 1—minority science and engineering improvement program
 | [1067a.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20E%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/Subpart%20001%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/%C2%A7%2001067a%20-%20Purpose%3B%20authority.md) | Purpose; authority. |
 | [1067b.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20E%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/Subpart%20001%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/%C2%A7%2001067b%20-%20Grant%20recipient%20selection.md) | Grant recipient selection. |
 | [1067c.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20E%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/Subpart%20001%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/%C2%A7%2001067c%20-%20Use%20of%20funds.md) | Use of funds. |
-| [1067d.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20E%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/Subpart%20001%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/%C2%A7%2001067d%20-%20Omitted.md) | Omitted. |
+| [1067d.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20E%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/Subpart%20001%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/%C2%A7%2001067d%20-%20Repealed.%20Pub.%20L.%20111%E2%80%9339%2C%20title%20III%2C%20%C2%A7302%2C%20July%201%2C%202009%2C%20123%20Stat.%201938.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -457,6 +457,14 @@ I74subpart 1—minority science and engineering improvement program
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### subpart 10—scholarships for veteran's dependents
+
+|  |  |
+| :--- | ---: |
+| [1070h.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20A%20-%20Grants%20to%20Students%20in%20Attendance%20at%20Institutions%20of%20Higher%20Education/Subpart%20010%20-%20Scholarships%20for%20Veteran%27s%20Dependents/%C2%A7%2001070h%20-%20Scholarships%20for%20veteran%27s%20dependents.md) | Scholarships for veteran's dependents. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Part B—Federal Family Education Loan Program
 
 |  |  |
@@ -513,7 +521,7 @@ I74subpart 1—minority science and engineering improvement program
 | [1087d.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087d%20-%20Agreements%20with%20institutions.md) | Agreements with institutions. |
 | [1087e.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087e%20-%20Terms%20and%20conditions%20of%20loans.md) | Terms and conditions of loans. |
 | [1087f.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087f%20-%20Contracts.md) | Contracts. |
-| [1087g.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087g%20-%20Regulatory%20activities.md) | Regulatory activities. |
+| [1087g.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087g%20-%20Repealed.%20Pub.%20L.%20111%E2%80%9339%2C%20title%20IV%2C%20%C2%A7404%28b%29%283%29%2C%20July%201%2C%202009%2C%20123%20Stat.%201946.md) | Repealed. |
 | [1087h.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087h%20-%20Funds%20for%20administrative%20expenses.md) | Funds for administrative expenses. |
 | [1087i.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087i%20-%20Authority%20to%20sell%20loans.md) | Authority to sell loans. |
 | 1087i–1. | Temporary authority to purchase student loans. |
@@ -913,7 +921,7 @@ I74subpart 1—jacob k. javits fellowship program
 
 #### SUBCHAPTER IX—ADDITIONAL PROGRAMS
 
-#### Part A—Project Grad
+#### Part A—Project GRAD
 
 |  |  |
 | :--- | ---: |
@@ -1085,7 +1093,7 @@ I74subpart 1—jacob k. javits fellowship program
 
 |  |  |
 | :--- | ---: |
-| [1161t.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20T%20-%20Centers%20of%20Excellence%20for%20Veteran%20Student%20Success/%C2%A7%2001161t%20-%20Model%20programs%20for%20Centers%20of%20Excellence%20for%20Veteran%20Student%20Success.md) | Model programs for centers of excellence for veteran student success. |
+| [1161t.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20T%20-%20Centers%20of%20Excellence%20for%20Veteran%20Student%20Success/%C2%A7%2001161t%20-%20Model%20programs%20for%20Centers%20of%20Excellence%20for%20Veteran%20Student%20Success.md) | Model programs for Centers of Excellence for Veteran Student Success. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

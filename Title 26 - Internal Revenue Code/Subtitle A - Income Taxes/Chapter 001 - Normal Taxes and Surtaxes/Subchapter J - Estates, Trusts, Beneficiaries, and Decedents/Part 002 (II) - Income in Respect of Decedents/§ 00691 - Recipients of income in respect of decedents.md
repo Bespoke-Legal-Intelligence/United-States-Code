@@ -32,9 +32,9 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an installment obligation reportable by the decedent on the installment method under section 453, for purposes of paragraph (2)—
+&emsp;&emsp;In the case of an installment obligation reportable by the decedent on the installmentmethod under section 453, for purposes of paragraph (2)—
 
-&emsp;&emsp;&emsp;(i) the second sentence of paragraph (2) shall be applied by inserting “(other thanthe obligor)” after “or a transfer to a person”,
+&emsp;&emsp;&emsp;(i) the second sentence of paragraph (2) shall be applied by inserting “(other than the obligor)” after “or a transfer to a person”,
 
 &emsp;&emsp;&emsp;(ii) any cancellation of such an obligation shall be treated as a transfer, and
 
@@ -100,7 +100,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;For purposes of computing the deduction under subsection (c)(1)(A), amounts received by a surviving annuitant—
 
-&emsp;&emsp;(A) as an annuity under a joint and survivor annuity contract where the decedentannuitant died after December 31, 1953, and after the annuity starting date (as defined in section 72(c)(4)), and
+&emsp;&emsp;(A) as an annuity under a joint and survivor annuity contract where the decedent annuitant died after December 31, 1953, and after the annuity starting date (as defined in section 72(c)(4)), and
 
 &emsp;&emsp;(B) during the surviving annuitant's life expectancy period, shall, to the extent included in gross income under section 72, be considered as amounts included in gross income under subsection (a).
 

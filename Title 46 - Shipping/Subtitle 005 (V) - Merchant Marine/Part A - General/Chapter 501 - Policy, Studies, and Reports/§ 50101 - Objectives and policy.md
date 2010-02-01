@@ -10,7 +10,7 @@ Objectives.—It is necessary for the national defense and the development of th
 
 &emsp;(3) owned and operated as vessels of the United States by citizens of the United States;
 
-&emsp;(4) composed of the best-equipped, safest, and most suitable types of vessels and manned with a trained and efficient citizen personnel; and
+&emsp;(4) composed of the best-equipped, safest, and most suitable types of vessels constructed in the United States and manned with a trained and efficient citizen personnel; and
 
 &emsp;(5) supplemented by efficient facilities for building and repairing vessels.
 
@@ -18,7 +18,7 @@ Objectives.—It is necessary for the national defense and the development of th
 
 Policy.—It is the policy of the United States to encourage and aid the development and maintenance of a merchant marine satisfying the objectives described in subsection (a).
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1556.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1556; Pub. L. 111–84, div. C, title XXXV, §3511, Oct. 28, 2009, 123 Stat. 2722.)
 
 Historical and Revision Notes
 
@@ -49,4 +49,8 @@ May 22, 1928, ch. 675, §1, 45 Stat. 689.
 June 29, 1936, ch. 858, title I, §101, 49 Stat. 1985; Pub. L. 91–469, §1, Oct. 21, 1970, 84 Stat. 1018.
 
 This section consolidates the source provisions to eliminate repetition.
+
+#### Amendments
+
+2009—Subsec. (a)(4). Pub. L. 111–84 inserted “constructed in the United States” after “vessels”.
 

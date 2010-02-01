@@ -42,7 +42,7 @@ In general.—Subject to paragraph (2), the Secretary of Agriculture shall herea
 
 &emsp;“(2)
 
-Memorandum of understanding.—For the purpose of carrying out the program operated under paragraph (1), the Secretary of Agriculture shall enter into a memorandum of understanding or other agreement with the Secretary of the Interior relating to prohibited plants, plant pests, or injurious animals under the jurisdiction of the Department of the Interior.
+Memorandum of understanding.—For the purpose of carrying out the program operated under paragraph (1), the Secretary of Agriculture shall enter into a memorandum of understanding or otheragreement with the Secretary of the Interior relating to prohibited plants, plant pests, or injurious animals under the jurisdiction of the Department of the Interior.
 
 &emsp;“(3)
 

@@ -40,7 +40,7 @@
 
 #### (ii) Indexing
 
-&emsp;&emsp;&emsp;The cost threshold and cost limit amounts specified in subclauses (I) and (II) of clause (i) for a plan year that ends after 2006 shall be adjusted in the same manner as the annual deductible and the annual out-of-pocket threshold, respectively, areannually adjusted under paragraphs (1) and (4)(B) of section 1395w–102(b) of this title.
+&emsp;&emsp;&emsp;The cost threshold and cost limit amounts specified in subclauses (I) and (II) of clause (i) for a plan year that ends after 2006 shall be adjusted in the same manner as the annual deductible and the annual out-of-pocket threshold, respectively, are annually adjusted under paragraphs (1) and (4)(B) of section 1395w–102(b) of this title.
 
 #### (C) Definitions
 
@@ -112,7 +112,7 @@ For purposes of this section:
 
 #### (C) Church plans
 
-&emsp;&emsp;Such a plan established and maintained for its employees (or their beneficiaries) bya church or by a convention or association of churches which is exempt from tax under section 501 of the Internal Revenue Code of 1986.
+&emsp;&emsp;Such a plan established and maintained for its employees (or their beneficiaries) by a church or by a convention or association of churches which is exempt from tax under section 501 of the Internal Revenue Code of 1986.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–22, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2125.)
 
@@ -152,7 +152,7 @@ Contents of Final Study.—The final study under this section shall consider the
 
 &emsp;“(3) The number and characteristics of sponsors of employment-based retiree health coverage who receive the special subsidy payments under section 1860D–22 of the Social Security Act \[this section\], as added by section 101, for the provision of prescription drug coverage to their medicare-eligible retirees that is the same or greater actuarial value as the prescription drug coverage available to other medicare beneficiaries without employment-based retiree health coverage.
 
-&emsp;“(4) The extent to which sponsors of employment-based retiree health coverage provide supplemental health coverage or contribute to the premiums for medicare-eligible retirees who enroll in a prescription drug plan or an MA–PD plan.
+&emsp;“(4) The extent to which sponsors of employment-based retiree health coverage provide supplementalhealth coverage or contribute to the premiums for medicare-eligible retirees who enroll in a prescription drug plan or an MA–PD plan.
 
 &emsp;“(5) Other coverage options, including tax-preferred retirement or health savings accounts, consumer-directed health plans, or other vehicles that sponsors of employment-based retiree health coverage believe would assist retirees with their future health care needs and their willingness to sponsor such alternative plan designs.
 

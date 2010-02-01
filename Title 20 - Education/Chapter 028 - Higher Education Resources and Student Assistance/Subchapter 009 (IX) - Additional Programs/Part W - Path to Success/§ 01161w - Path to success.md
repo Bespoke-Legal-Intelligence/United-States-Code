@@ -28,7 +28,7 @@ The purpose of this section is to encourage community supported programs that—
 
 #### (3) Application
 
-&emsp;A community college desiring to receive a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information asthe Secretary shall require. Such application shall include—
+&emsp;A community college desiring to receive a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary shall require. Such application shall include—
 
 &emsp;&emsp;(A) an assessment of the existing community resources available to serve at-risk youth;
 

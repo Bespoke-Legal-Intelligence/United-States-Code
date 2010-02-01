@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this title, the basis of any property shall be reduced by the portion ofthe cost of such property taken into account under subsection (a).
+&emsp;&emsp;For purposes of this title, the basis of any property shall be reduced by the portion of the cost of such property taken into account under subsection (a).
 
 #### (B) Ordinary income recapture
 

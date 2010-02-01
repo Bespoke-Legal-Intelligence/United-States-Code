@@ -92,7 +92,7 @@ A State may establish a medicare rural hospital flexibility program described in
 
 &emsp;&emsp;&emsp;&emsp;(II) a rehabilitation unit of the hospital that is a distinct part of the hospital,
 
-&emsp;&emsp;&nbsp;if the distinct part meets the requirements (including conditions of participation)that would otherwise apply to the distinct part if the distinct part were established by a subsection (d) hospital in accordance with the matter following clause (v) of section 1395ww(d)(1)(B) of this title, including any regulations adopted by the Secretary under such section.
+&emsp;&emsp;&nbsp;if the distinct part meets the requirements (including conditions of participation) that would otherwise apply to the distinct part if the distinct part were established by a subsection (d) hospital in accordance with the matter following clause (v) of section 1395ww(d)(1)(B) of this title, including any regulations adopted by the Secretary under such section.
 
 #### (ii) Limitation on number of beds
 
@@ -104,7 +104,7 @@ A State may establish a medicare rural hospital flexibility program described in
 
 #### (iv) Effect of failure to meet requirements
 
-&emsp;&emsp;&emsp;If a psychiatric or rehabilitation unit established under clause (i) does not meet the requirements described in such clause with respect to a cost reporting period, no payment may be made under this subchapter to the hospital for services furnished in such unit during such period. Payment to the hospital for services furnished in the unit may resume only after the hospital has demonstrated to the Secretary that the unit meets such requirements.
+&emsp;&emsp;&emsp;If a psychiatric or rehabilitation unit established under clause (i) does not meet the requirements described in such clause with respect to a cost reporting period, no payment may be made under this subchapter to the hospital for services furnished in such unit during such period. Payment to the hospital for services furnished in the unit may resume only afterthe hospital has demonstrated to the Secretary that the unit meets such requirements.
 
 #### (d) “Rural health network” defined
 
@@ -182,7 +182,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (B) Application
 
-&emsp;&emsp;An application is in accordance with this subparagraph if the State submits to theSecretary at such time and in such form as the Secretary may require an application containing the assurances described in subparagraphs (A)(ii), (A)(iii), and (B) of subsection (b)(1) of this section and paragraph (3) of that subsection.
+&emsp;&emsp;An application is in accordance with this subparagraph if the State submits to the Secretary at such time and in such form as the Secretary may require an application containing the assurances described in subparagraphs (A)(ii), (A)(iii), and (B) of subsection (b)(1) of this section and paragraph (3) of that subsection.
 
 #### (3) Upgrading data systems
 
@@ -200,7 +200,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (C) Application
 
-&emsp;&emsp;A hospital seeking a grant under this paragraph shall submit an application to the Secretary on or before such date and in such form and manner as the Secretary specifies.
+&emsp;&emsp;A hospital seeking a grant under this paragraph shall submit an application to theSecretary on or before such date and in such form and manner as the Secretary specifies.
 
 #### (D) Amount of grant
 
@@ -256,7 +256,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An application is in accordance with this subparagraph if the State submits to theSecretary at such time and in such form as the Secretary may require an application containing the assurances described in subparagraphs (A)(ii) and (A)(iii) of subsection (b)(1).
+&emsp;&emsp;&emsp;An application is in accordance with this subparagraph if the State submits to the Secretary at such time and in such form as the Secretary may require an application containing the assurances described in subparagraphs (A)(ii) and (A)(iii) of subsection (b)(1).
 
 #### (ii) Consideration of regional approaches, networks, or technology
 
@@ -314,7 +314,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (F) Eligible critical access hospital defined
 
-&emsp;&emsp;For purposes of this paragraph, the term “eligible critical access hospital” means a critical access hospital that has an averagedaily acute census of less than 0.5 and an average daily swing bed census of greater than 10.0.
+&emsp;&emsp;For purposes of this paragraph, the term “eligible critical access hospital” means a critical access hospital that has an average daily acute census of less than 0.5 and an average daily swing bed census of greater than 10.0.
 
 #### (h) Grandfathering provisions
 
@@ -328,7 +328,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (3) State authority to waive 35-mile rule
 
-&emsp;In the case of a facility that was designated as a critical access hospital before January 1, 2006, and was certified by the State as being a necessary provider of health care services to residents in the area under subsection (c)(2)(B)(i)(II) of this section, as in effect before such date, the authority under such subsection with respect to any redesignation of such facility shall continue to apply notwithstanding the amendment made by section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.
+&emsp;In the case of a facility that was designated as a critical access hospital before January 1, 2006, and was certified by the State as being a necessary provider of health care services to residents in the area under subsection\(c)(2)(B)(i)(II) of this section, as in effect before such date, the authority under such subsection with respect to any redesignation of such facility shall continue to apply notwithstanding the amendment made by section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.
 
 #### (i) Waiver of conflicting part A provisions
 
@@ -384,7 +384,7 @@ Subsec. (j). Pub. L. 108–173, §405(f)(1), inserted before period at end “,�
 
 Subsec. (c)(2)(B)(i). Pub. L. 106–113, §1000(a)(6) \[title IV, §403(b)\], substituted “hospital” for “nonprofit or public hospital”.
 
-Pub. L. 106–113, §1000(a)(6) \[title IV, §401(b)(2)\], inserted “or is treated as being located in a rural areapursuant to section 1395ww(d)(8)(E) of this title” after “section 1395ww(d)(2)(D) of this title)”.
+Pub. L. 106–113, §1000(a)(6) \[title IV, §401(b)(2)\], inserted “or is treated as being located in a rural area pursuant to section 1395ww(d)(8)(E) of this title” after “section 1395ww(d)(2)(D) of this title)”.
 
 Pub. L. 106–113, §1000(a)(6) \[title III, §321(a)\], substituted “that is located in a county (or equivalent unit of local government) in a rural area (as defined in section 1395ww(d)(2)(D) of this title), and that” for “and is located in a county (or equivalent unit of local government) in a rural area (as defined in section 1395ww(d)(2)(D) of this title) that”.
 
@@ -448,7 +448,7 @@ Amendment by section 405(g)(1) of Pub. L. 108–173 applicable to cost reporting
 
 Amendment by section 1000(a)(6) \[title III, §321(a)\] of Pub. L. 106–113 effective as if included in the enactment of the Balanced Budget Act of 1997, Pub. L. 105–33, except as otherwise provided, see section 1000(a)(6) \[title III, §321(m)\] of Pub. L. 106–113, set out as a note under section 1395d of this title.
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §401(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–369, provided that:“The amendments made by this section \[amending this section and sections 1395<i>l</i> and 1395ww of this title\] shall become effective on January 1, 2000.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §401(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–369, provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i> and 1395ww of this title\] shall become effective on January 1, 2000.”
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §403(a)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–370, provided that: “The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Nov. 29, 1999\].”
 
@@ -472,7 +472,7 @@ In General.—The Secretary shall establish a demonstration project to allow eli
 
 Purpose.—The purpose of the demonstration project under this section is to—
 
-&emsp;“(1) explore ways to increase access to, and improve the adequacy of, payments for acute care, extended care, and other essential health care services provided under the Medicare and Medicaid programs in eligible counties; and
+&emsp;“(1) explore ways to increase access to, and improve the adequacy of, payments for acute care, extendedcare, and other essential health care services provided under the Medicare and Medicaid programs in eligible counties; and
 
 &emsp;“(2) evaluate regulatory challenges facing such providers and the communities they serve.
 
@@ -596,7 +596,7 @@ In general.—The Secretary shall provide for the transfer, in appropriate part 
 
 Budget neutrality.—In conducting the demonstration project under this section, the Secretary shall ensure that the aggregate payments made by the Secretary do not exceed the amount which the Secretary estimates would have been paid if the demonstration project under this section was not implemented.
 
-&emsp;“(2) HRSA.—There are authorized to be appropriated to the Office of Rural Health Policy of the Health Resources and Services Administration $800,000 for each of fiscal years 2010, 2011, and 2012 for the purpose of carrying out the duties of such Office under the demonstration project under this section, to remain available for the duration of the demonstration project.
+&emsp;“(2) HRSA.—There are authorized to be appropriated to the Office of Rural Health Policy of the Health Resources and Services Administration $800,000 for each of fiscal years 2010, 2011, and 2012 forthe purpose of carrying out the duties of such Office under the demonstration project under this section, to remain available for the duration of the demonstration project.
 
 “(h)
 
@@ -702,7 +702,7 @@ Section 4201(c)(6) of Pub. L. 105–33 provided that:
 
 “(A)
 
-In general.—The Secretary of Health and Human Services shall provide for an appropriate transition for a facility that, as of the date of the enactment of this Act \[Aug. 5, 1997\], operated as a limited service rural hospital under a demonstration described in section 4008(i)(1) of the Omnibus Budget Reconciliation Act of 1990 \[Pub. L. 101–508\] (42 U.S.C. 1395b–1 note) fromsuch demonstration to the program established under subsection (a) \[amending this section\]. At the conclusion of the transition period described in subparagraph (B), the Secretary shall end such demonstration.
+In general.—The Secretary of Health and Human Services shall provide for an appropriate transition for a facility that, as of the date of the enactment of this Act \[Aug. 5, 1997\], operated as a limited service rural hospital under a demonstration described in section 4008(i)(1) of the Omnibus Budget Reconciliation Act of 1990 \[Pub. L. 101–508\] (42 U.S.C. 1395b–1 note) from such demonstration to the program established under subsection (a) \[amending this section\]. At the conclusion of the transition period described in subparagraph (B), the Secretary shall end such demonstration.
 
 “(B)
 

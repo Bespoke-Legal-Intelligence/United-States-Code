@@ -64,7 +64,7 @@ Amendment by Pub. L. 96–39 effective July 1, 1980, see section 204(a) of Pub. 
 
 #### Effective Date of 1970 Amendment
 
-Section 203 of Pub. L. 91–271 provided that: “Titles II and III of this Act \[see Short Title of 1970 Amendmentnote set out under section 1654 of this title\] shall take effect with respect to articles entered, or withdrawn, from warehouse for consumption, on or after October 1, 1970, and such other articles entered or withdrawn from warehouse for consumption prior to such date, the appraisement of which has not become final before October 1, 1970, and for which an appeal for reappraisement has not been timely filed with the Bureau of Customs \[now the United States Customs Service\] before October 1, 1970, or with respect to which a protest has not been disallowed in whole or in part before October 1, 1970.”
+Section 203 of Pub. L. 91–271 provided that: “Titles II and III of this Act \[see Short Title of 1970 Amendment note set out under section 1654 of this title\] shall take effect with respect to articles entered, or withdrawn, from warehouse for consumption, on or after October 1, 1970, and such other articles entered or withdrawn from warehouse for consumption prior to such date, the appraisement of which has not become final before October 1, 1970, and for which an appeal for reappraisement has not been timely filed with the Bureau of Customs \[now the United States Customs Service\] before October 1, 1970, or with respect to which a protest has not been disallowed in whole or in part before October 1, 1970.”
 
 #### Transfer of Functions
 

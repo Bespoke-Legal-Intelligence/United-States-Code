@@ -40,7 +40,7 @@ For the purposes of this section and section 347 of title 21, the term “oleoma
 
 &emsp;(2) all substances, mixtures, and compounds which have a consistence similar to that of butter and which contain any edible oils or fats other than milk fat if made in imitation or semblance of butter.
 
-(Sept. 26, 1914, ch. 311, §15, as added Mar. 21, 1938, ch. 49, §4, 52 Stat. 114; amended Mar. 16, 1950, ch. 61, §4(a), (b), 64 Stat. 21; Pub. L. 94–295, §3(a)(1)(B), May 28, 1976, 90 Stat. 575.)
+(Sept. 26, 1914, ch. 311, §15, as added Mar. 21, 1938, ch. 49, §4, 52 Stat. 114; amended Mar. 16, 1950, ch.61, §4(a), (b), 64 Stat. 21; Pub. L. 94–295, §3(a)(1)(B), May 28, 1976, 90 Stat. 575.)
 
 #### Amendments
 

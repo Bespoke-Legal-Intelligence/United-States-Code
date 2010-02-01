@@ -6,7 +6,7 @@ An advisory board or boards (including regional advisory boards) may be establis
 
 #### (b) Composition; duties; compensation
 
-Such advisory board or boards shall include appropriate representation of labor, small and larger businesses and industries, agriculture, consumers, State and local officials, and the public at large, and shall advise and consult with respect to matters related to this chapter, the Full Employment aand <sup>1</sup> Balanced Growth Act of 1978 \[15 U.S.C. 3101 et seq.\], and other appropriate matters related to national economic programs and policies. The President shall, in accordance with applicable provisions of law, take the steps necessary to provide appropriate compensation to the members of such advisory board or boards.
+Such advisory board or boards shall include appropriate representation of labor, small and larger businesses and industries, agriculture, consumers, State and local officials, and the public at large, and shall advise and consult with respect to matters related to this chapter, the Full Employment aand <sup>1</sup> Balanced Growth Act of 1978 \[15 U.S.C. 3101 et seq.\], and other appropriate matters related to national economic programs and policies. The President shall, in accordance with applicable provisions of law, take the steps necessary to provide appropriatecompensation to the members of such advisory board or boards.
 
 (Feb. 20, 1946, ch. 33, §9, as added Pub. L. 95–523, title I, §111, Oct. 27, 1978, 92 Stat. 1899.)
 

@@ -24,7 +24,7 @@ Any loan made under this section shall be of such sound value, or so secured, as
 
 Any company which has made a loan to a small-business concern under this section is authorized to extend the maturity of or renew such loan for additional periods, not exceeding ten years, if the company finds that such extension or renewal will aid in the orderly liquidation of such loan.
 
-(Pub. L. 85–699, title III, §305, Aug. 21, 1958, 72 Stat. 693; Pub. L. 87–341, §6, Oct. 3, 1961, 75 Stat. 753; Pub. L. 94–305, title I, §105, June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, §411, Sept. 4, 1992, 106 Stat. 1018.)
+(Pub. L. 85–699, title III, §305, Aug. 21, 1958, 72 Stat. 693; Pub. L. 87–341, §6, Oct. 3, 1961, 75 Stat.753; Pub. L. 94–305, title I, §105, June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, §411, Sept. 4, 1992, 106 Stat. 1018.)
 
 #### References in Text
 
@@ -40,5 +40,5 @@ For definition of “this chapter”, referred to in subsec. (c), see References
 
 #### Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws
 
-Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or tootherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
+Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or to otherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
 

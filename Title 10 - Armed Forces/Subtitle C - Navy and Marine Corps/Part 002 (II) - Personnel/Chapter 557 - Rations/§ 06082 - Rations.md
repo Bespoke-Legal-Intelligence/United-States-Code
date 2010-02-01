@@ -6,7 +6,7 @@
 
 (c) Fresh or preserved fruits, milk, butter, and eggs necessary for the proper diet of the sick and injured in hospitals shall be provided under regulations prescribed by the Secretary of the Navy.
 
-(d) The Secretary of the Navy may increase the quantity of daily rations for members of the naval service on a vessel or at a station that has an authorized complement of less than 150 members if the President determines that the vessel or station is operating under conditions that warrant an increase in rations.
+(d) The Secretary of the Navy may increase the quantity of daily rations for members of thenaval service on a vessel or at a station that has an authorized complement of less than 150 members if the President determines that the vessel or station is operating under conditions that warrant an increase in rations.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 379; Pub. L. 101–510, div. A, title V, §557(a), Nov. 5, 1990, 104 Stat. 1570.)
 
@@ -36,7 +36,7 @@ Mar. 2, 1933, ch. 184, §2, 47 Stat. 1423.
 
 Mar. 2, 1933, ch. 184, §3, 47 Stat. 1423.
 
-In subsection (a) the words “issued to each person entitled thereto” are omitted as surplusage. In clause (2)the words “or fresh” and in clause (6) the words “together with” are omitted as surplusage.
+In subsection (a) the words “issued to each person entitled thereto” are omitted as surplusage. In clause (2) the words “or fresh” and in clause (6) the words “together with” are omitted as surplusage.
 
 #### Amendments
 

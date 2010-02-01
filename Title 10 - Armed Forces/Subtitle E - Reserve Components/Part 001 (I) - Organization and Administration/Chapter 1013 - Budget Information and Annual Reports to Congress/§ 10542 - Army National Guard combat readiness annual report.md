@@ -26,7 +26,7 @@ Matters To Be Included in Report.—Each presentation under subsection (a) shall
 
 &emsp;(5) The number of officers who are graduates of the Reserve Officers’ Training Corps program and who are performing their minimum period of obligated service in accordance with section 1112(b) of ANGCRRA by a combination of (A) two years of active duty, and (B) such additional period of service as is necessary to complete the remainder of such obligation served in the National Guard and, of those officers, the number for whom permission to perform their minimum period of obligated service in accordance with that section was granted during the preceding fiscal year.
 
-&emsp;(6) The number of officers for whom recommendations were made during the preceding fiscal year for a unit vacancy promotion to a grade above first lieutenant and, of those recommendations, the number and percentage that were concurred in by an active-duty officer under section 1113(a) of ANGCRRA, shown separately for each of the three categories ofofficers set forth in section 1113(b) of ANGCRRA.
+&emsp;(6) The number of officers for whom recommendations were made during the preceding fiscal year for a unit vacancy promotion to a grade above first lieutenant and, of those recommendations, the number and percentage that were concurred in by an active-duty officer under section 1113(a) of ANGCRRA, shown separately for each of the three categories of officers set forth in section 1113(b) of ANGCRRA.
 
 &emsp;(7) The number of waivers during the preceding fiscal year under section 1114(a) of ANGCRRA of any standard prescribed by the Secretary establishing a military education requirement for noncommissioned officers and the reason for each such waiver.
 
@@ -76,7 +76,7 @@ Matters To Be Included in Report.—Each presentation under subsection (a) shall
 
 &emsp;&emsp;(B) the results of the validation by the commander of that associated active-duty unit of the compatibility of that National Guard unit with active duty forces in accordance with section 1131(b)(4) of ANGCRRA.
 
-&emsp;(21) A specification of the active-duty personnel assigned to units of the Selected Reserve pursuant to section 414(c) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (10 U.S.C. 12001 note), shown (A) by State, (B) by rank of officers,warrant officers, and enlisted members assigned, and (C) by unit or other organizational entity of assignment.
+&emsp;(21) A specification of the active-duty personnel assigned to units of the Selected Reserve pursuant to section 414(c) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (10 U.S.C. 12001 note), shown (A) by State, (B) by rank of officers, warrant officers, and enlisted members assigned, and (C) by unit or other organizational entity of assignment.
 
 (Added Pub. L. 103–160, div. A, title V, §521(a), Nov. 30, 1993, 107 Stat. 1652, §3082; renumbered §10542 and amended Pub. L. 103–337, div. A, title XVI, §1661(d)(3), Oct. 5, 1994, 108 Stat. 2982; Pub. L. 104–106, div. A, title XV, §1501(b)(8), Feb. 10, 1996, 110 Stat. 496; Pub. L. 104–201, div. A, title X, §1074(a)(21), Sept. 23, 1996, 110 Stat. 2660.)
 

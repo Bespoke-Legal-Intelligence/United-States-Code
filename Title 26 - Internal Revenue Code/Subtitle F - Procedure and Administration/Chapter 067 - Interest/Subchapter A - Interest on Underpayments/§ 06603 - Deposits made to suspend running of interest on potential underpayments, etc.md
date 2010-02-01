@@ -10,7 +10,7 @@ To the extent that such deposit is used by the Secretary to pay tax, for purpose
 
 #### (c) Return of deposit
 
-Except in a case where the Secretary determines that collection of tax is in jeopardy, theSecretary shall return to the taxpayer any amount of the deposit (to the extent not used for a payment of tax) which the taxpayer requests in writing.
+Except in a case where the Secretary determines that collection of tax is in jeopardy, the Secretary shall return to the taxpayer any amount of the deposit (to the extent not used for a payment of tax) which the taxpayer requests in writing.
 
 #### (d) Payment of interest
 

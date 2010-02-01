@@ -1,7 +1,5 @@
 subpart ii—provisions concerning pregnancy and perinatal transmission of hiv
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “300ff–(a)(2)(F)”.</i>
-
 
 ---
 

@@ -14,3 +14,4 @@
 - [&sect; 01867 - Advancement and reimbursement of expenses for flying American flags and providing certification services therefor](%C2%A7%2001867%20-%20Advancement%20and%20reimbursement%20of%20expenses%20for%20flying%20American%20flags%20and%20providing%20certification%20services%20therefor.md)
 - [&sect; 01868 - Semiannual compilation and report of expenditures](%C2%A7%2001868%20-%20Semiannual%20compilation%20and%20report%20of%20expenditures.md)
 - [&sect; 01869 - Advance payments](%C2%A7%2001869%20-%20Advance%20payments.md)
+- [&sect; 01870 - House Historic Buildings Revitalization Trust Fund](%C2%A7%2001870%20-%20House%20Historic%20Buildings%20Revitalization%20Trust%20Fund.md)

@@ -62,7 +62,7 @@ Special rule for fiscal year 2002.—The amount of fees collected under this par
 
 (b)
 
-Schedule of Fees.—In imposing fees under subsection (a), the Under Secretary shall ensurethat the fees are reasonably related to the Transportation Security Administration's costs of providing services rendered.
+Schedule of Fees.—In imposing fees under subsection (a), the Under Secretary shall ensure that the fees are reasonably related to the Transportation Security Administration's costs of providing services rendered.
 
 (c)
 
@@ -106,7 +106,7 @@ Due date for remittance.—A fee collected under this section shall be remitted 
 
 &emsp;(4)
 
-Information.—The Under Secretary may require the provision of such information as the Under Secretary decides is necessary to verify that fees have been collected and remitted at the proper times and in the proper amounts.
+Information.—The Under Secretary may require the provision of such information asthe Under Secretary decides is necessary to verify that fees have been collected and remitted at the proper times and in the proper amounts.
 
 &emsp;(5)
 

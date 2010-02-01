@@ -120,7 +120,7 @@ Federal Share of Net Project Cost.—
 
 &emsp;(2) Up to an additional 20 percent of the required non-Federal funds may be funded from amounts appropriated to or made available to a department or agency of the Federal Government that are eligible to be expended for transportation.
 
-&emsp;(3) The following amounts, not to exceed $15,000,000 per fiscal year, shall be available to each applicant as a credit toward an applicant's matching requirement for a grant awarded under this section—
+&emsp;(3) The following amounts, not to exceed $15,000,000 per fiscal year, shall be available toeach applicant as a credit toward an applicant's matching requirement for a grant awarded under this section—
 
 &emsp;&emsp;(A) in each of fiscal years 2009, 2010, and 2011—
 
@@ -154,7 +154,7 @@ Forms of participation.—Participation by an entity under paragraph (1) may con
 
 &emsp;&emsp;(B) cost-sharing of any project expense;
 
-&emsp;&emsp;(C) carrying out administration, construction management, project management, project operation, or any other managementor operational duty associated with the project; and
+&emsp;&emsp;(C) carrying out administration, construction management, project management, project operation, or any other management or operational duty associated with the project; and
 
 &emsp;&emsp;(D) any other form of participation approved by the Secretary.
 

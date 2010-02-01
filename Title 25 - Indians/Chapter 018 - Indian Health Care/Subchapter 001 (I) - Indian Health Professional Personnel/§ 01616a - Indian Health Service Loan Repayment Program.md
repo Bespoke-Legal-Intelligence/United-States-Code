@@ -74,7 +74,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 &emsp;(ii) not less than 10 percent be provided to applicants who are mental health professionals (other than applicants described in clause (i)).
 
-(B) The requirements specified in clause (i) or clause (ii) of subparagraph (A) shall not apply if the Secretary does not receive the number of applications from the individuals described in clause (i) or clause (ii), respectively, necessary to meet such requirements.
+(B) The requirements specified in clause (i) or clause (ii) of subparagraph (A) shall not apply ifthe Secretary does not receive the number of applications from the individuals described in clause (i) or clause (ii), respectively, necessary to meet such requirements.
 
 #### (e) Approval
 
@@ -162,7 +162,7 @@ Section 215 of title 42 shall not apply to individuals during their period of ob
 
 The Secretary, in assigning individuals to serve in Indian health programs pursuant to contracts entered into under this section, shall—
 
-&emsp;(1) ensure that the staffing needs of Indian health programs administered by an Indian tribe or tribal or health organization receiveconsideration on an equal basis with programs that are administered directly by the Service; and
+&emsp;(1) ensure that the staffing needs of Indian health programs administered by an Indian tribe or tribal or health organization receive consideration on an equal basis with programs that are administered directly by the Service; and
 
 &emsp;(2) give priority to assigning individuals to Indian health programs that have a need for health professionals to provide health care services as a result of individuals having breached contracts entered into under this section.
 
@@ -212,7 +212,7 @@ The Secretary, in assigning individuals to serve in Indian health programs pursu
 
 (1) Any obligation of an individual under the Loan Repayment Program for service or payment of damages shall be canceled upon the death of the individual.
 
-(2) The Secretary shall by regulation provide for the partial or total waiver or suspension of any obligation of service or payment by an individual under the Loan Repayment Program whenever compliance by the individual is impossible or would involve extreme hardship to the individual and if enforcement of such obligation with respect to any individual would be unconscionable.
+(2) The Secretary shall by regulation provide for the partial or total waiver or suspension ofany obligation of service or payment by an individual under the Loan Repayment Program whenever compliance by the individual is impossible or would involve extreme hardship to the individual and if enforcement of such obligation with respect to any individual would be unconscionable.
 
 (3) The Secretary may waive, in whole or in part, the rights of the United States to recover amounts under this section in any case of extreme hardship or other good cause shown, as determined by the Secretary.
 
@@ -276,7 +276,7 @@ Subsec. (e)(2)(A). Pub. L. 102–573, §106(d), inserted “, including extensi
 
 Subsec. (g)(1). Pub. L. 102–573, §106(e), in introductory provisions, substituted “loans received by the individual regarding the undergraduate or graduate education of the individual (or both), which loans were made for” for “loans received by the individual for”.
 
-Subsec. (g)(2)(A). Pub. L. 102–573, §106(f), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in subparagraph (B) and paragraph (3), for each year of obligated service for which an individual contracts to serve under subsection (f) of this section, the Secretary may pay up to $25,000 on behalf of the individual for loans described in paragraph (1).”
+Subsec. (g)(2)(A). Pub. L. 102–573, §106(f), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in subparagraph (B) and paragraph (3), for each year of obligated service for which an individual contracts to serve under subsection (f) of this section, the Secretary may pay up to$25,000 on behalf of the individual for loans described in paragraph (1).”
 
 Subsec. (g)(3). Pub. L. 102–573, §106(g)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In addition to payments made under paragraph (2), in any case in which payments on behalf of an individual under the Loan Repayment Program result in an increase in Federal, State, or local income tax liability for such individual, the Secretary may, on the request of such individual, make payments to such individual in a reasonable amount, as determined by the Secretary, to reimburse such individual for all or part of the increased tax liability of the individual.”
 

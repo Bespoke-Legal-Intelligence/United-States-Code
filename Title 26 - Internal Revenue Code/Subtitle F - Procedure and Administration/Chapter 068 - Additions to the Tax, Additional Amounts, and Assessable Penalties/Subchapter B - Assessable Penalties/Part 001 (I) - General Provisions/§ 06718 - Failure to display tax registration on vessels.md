@@ -24,5 +24,5 @@ Amendment by section 862(b) of Pub. L. 108–357 effective Jan. 1, 2005, see sec
 
 #### Effective Date
 
-Pub. L. 108–357, title VIII, §861(c)(2), Oct. 22, 2004, 118 Stat. 1619, provided that: “The amendments made by subsection (b) \[enacting this section\] shall apply to penalties imposed after December 31, 2004.”
+Pub. L. 108–357, title VIII, §861(c)(2), Oct. 22, 2004, 118 Stat. 1619, provided that: “The amendments made bysubsection (b) \[enacting this section\] shall apply to penalties imposed after December 31, 2004.”
 

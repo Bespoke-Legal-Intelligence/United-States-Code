@@ -80,7 +80,7 @@
 
 #### (4) Permanent housing construction
 
-&emsp;The President may provide financial assistance or direct assistance to individuals or households to construct permanent or semi-permanent housing in insular areas outside the continental United States and in other locations in cases in which—
+&emsp;The President may provide financial assistance or direct assistance to individuals orhouseholds to construct permanent or semi-permanent housing in insular areas outside the continental United States and in other locations in cases in which—
 
 &emsp;&emsp;(A) no alternative housing resources are available; and
 
@@ -164,7 +164,7 @@
 
 #### (2) Access to records
 
-&emsp;In providing assistance to individuals and households under this section, the Presidentshall provide for the substantial and ongoing involvement of the States in which the individuals and households are located, including by providing to the States access to the electronic records of individuals and households receiving assistance under this section in order for the States to make available any additional State and local assistance to the individuals and households.
+&emsp;In providing assistance to individuals and households under this section, the President shall provide for the substantial and ongoing involvement of the States in which the individuals and households are located, including by providing to the States access to the electronic records of individuals and households receiving assistance under this section in order for the States to make available any additional State and local assistance to the individuals and households.
 
 #### (g) Cost sharing
 

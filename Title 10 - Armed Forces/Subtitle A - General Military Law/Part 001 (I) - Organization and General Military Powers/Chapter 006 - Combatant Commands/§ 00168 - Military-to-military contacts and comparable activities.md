@@ -50,7 +50,7 @@ Limitations.—(1) Funds may not be provided under this section for a fiscal yea
 
 (2) An activity may not be conducted under this section with a foreign country unless the Secretary of State approves the conduct of such activity in that foreign country.
 
-(3) Funds may not be provided under this section for a fiscal year for any country that is not eligible in that fiscal year for assistance under chapter 5 of part II of the Foreign Assistance Act of 1961.
+(3) Funds may not be provided under this section for a fiscal year for any country that is noteligible in that fiscal year for assistance under chapter 5 of part II of the Foreign Assistance Act of 1961.
 
 (4) Except for those activities specifically authorized under subsection (c), funds may not be used under this section for the provision of defense articles or defense services to any country or for assistance under chapter 5 of part II of the Foreign Assistance Act of 1961.
 
@@ -100,9 +100,83 @@ Subsec. (e)(5). Pub. L. 110–417 added par. (5).
 
 Pub. L. 110–417, \[div. A\], title XII, §1202(b), Oct. 14, 2008, 122 Stat. 4622, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2008, and shall apply with respect to programs and activities under section 168 of title 10, United States Code, as so amended, that begin on or after that date.”
 
+#### Authority for Non-Reciprocal Exchanges of Defense Personnel Between the United States and Foreign Countries
+
+Pub. L. 111–84, div. A, title XII, §1207, Oct. 28, 2009, 123 Stat. 2514, provided that:
+
+“(a)
+
+Authority To Enter Into Non-reciprocal International Exchange Agreements.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Defense may enter into non-reciprocal international defense personnel exchange agreements.
+
+&emsp;“(2)
+
+International defense personnel exchange agreements defined.—For purposes of this section, an international defense personnel exchange agreement is an agreement with the government of an ally of the United States or another friendly foreign country for the exchange of military and civilian personnel of the defense ministry of that foreign government.
+
+“(b)
+
+Assignment of Personnel.—
+
+&emsp;“(1)
+
+In general.—Pursuant to a non-reciprocal international defense personnel exchange agreement, personnel of the defense ministry of a foreign government may be assigned to positions in the Department of Defense.
+
+&emsp;“(2)
+
+Mutual agreement required.—An individual may not be assigned to a position pursuant to a non-reciprocal international defense personnel exchange agreement unless the assignment is acceptable to both governments.
+
+“(c)
+
+Payment of Personnel Costs.—
+
+&emsp;“(1)
+
+In general.—The foreign government with which the United States has entered into a non-reciprocal international defense personnel exchange agreement shall pay the salary, per diem, cost of living, travel costs, cost of language or other training, and other costs for its personnel under such agreement in accordance with the applicable laws and regulations of such government.
+
+&emsp;“(2)
+
+Excluded costs.—Paragraph (1) does not apply to the following costs:
+
+&emsp;&emsp;“(A) The cost of training programs conducted to familiarize, orient, or certify exchanged personnel regarding unique aspects of the assignments of the exchanged personnel.
+
+&emsp;&emsp;“(B) Costs incident to the use of facilities of the United States Government in the performance of assigned duties.
+
+&emsp;&emsp;“(C) The cost of temporary duty of the exchanged personnel directed by the United States Government.
+
+“(d)
+
+Prohibited Conditions.—No personnel exchanged pursuant to a non-reciprocal agreement under this section may take or be required to take an oath of allegiance or to hold an official capacity in the government.
+
+“(e)
+
+Report.—
+
+&emsp;“(1)
+
+In general.—Not later than 90 days after the end of the fiscal year in which the authority in subsection (a) has been exercised, the Secretary of Defense shall submit to the appropriate congressionalcommittees a report on the use of the authority through the end of such fiscal year.
+
+&emsp;“(2)
+
+Matters to be included.—The report required under paragraph (1) shall include the number of non-reciprocal international defense personnel exchange agreements, the number of personnel assigned pursuant to such agreements, the Department of Defense component to which the personnel have been assigned, the duty title of each assignment, and the countries with which the agreements have been concluded.
+
+&emsp;“(3)
+
+Appropriate congressional committees defined.—In this subsection, the term ‘appropriate congressional committees’ means—
+
+&emsp;&emsp;“(A) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives; and
+
+&emsp;&emsp;“(B) the Committee on Armed Services and the Committee on Foreign Relations of the Senate.
+
+“(f)
+
+Duration of Authority.—The authority under this section shall expire on September 30, 2012.”
+
 #### Limitation on Military-to-Military Exchanges and Contacts With Chinese People's Liberation Army
 
-Pub. L. 106–65, div. A, title XII, §1201, Oct. 5, 1999, 113 Stat. 779, provided that:
+Pub. L. 106–65, div. A, title XII, §1201, Oct. 5, 1999, 113 Stat. 779, as amended by Pub. L. 111–84, div. A, title XII, §1246(d), Oct. 28, 2009, 123 Stat. 2545, provided that:
 
 “(a)
 
@@ -142,43 +216,7 @@ Exceptions.—Subsection (a) does not apply to any search-and-rescue or humanita
 
 “(d)
 
-Annual Certification by Secretary.—The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, notlater than December 31 each year, a certification in writing as to whether or not any military-to-military exchange or contact during that calendar year was conducted in violation of subsection (a).
-
-“(e)
-
-Annual Report.—Not later than March 31 each year beginning in 2001, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report providing the Secretary's assessment of the current state of military-to-military exchanges and contacts with the People's Liberation Army. The report shall include the following:
-
-&emsp;“(1) A summary of all such military-to-military contacts during the period since the last such report, including a summary of topics discussed and questions asked by the Chinese participants in those contacts.
-
-&emsp;“(2) A description of the military-to-military exchanges and contacts scheduled for the next 12-month period and a plan for future contacts and exchanges.
-
-&emsp;“(3) The Secretary's assessment of the benefits the Chinese expect to gain from those military-to-military exchanges and contacts.
-
-&emsp;“(4) The Secretary's assessment of the benefits the Department of Defense expects to gain from those military-to-military exchanges and contacts.
-
-&emsp;“(5) The Secretary's assessment of how military-to-military exchanges and contacts with the People's Liberation Army fit into the larger security relationship between the United States and the People's Republic of China.
-
-“(f)
-
-Report of Past Military-to-Military Exchanges and Contacts With the PRC.—Not later than March 31, 2000, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on past military-to-military exchanges and contacts between the United States and the People's Republic of China. The report shall be unclassified, but may contain a classified annex, and shall include the following:
-
-&emsp;“(1) A list of the general and flag grade officers of the People's Liberation Army who have visited United States military installations since January 1, 1993.
-
-&emsp;“(2) The itinerary of the visits referred to in paragraph (2)\[(1)\], including the installations visited, the duration of the visits, and the activities conducted during the visits.
-
-&emsp;“(3) The involvement, if any, of the general and flag officers referred to in paragraph (1) in the Tiananmen Square massacre of June 1989.
-
-&emsp;“(4) A list of the facilities in the People's Republic of China that United States military officers have visited as a result of any military-to-military exchange or contact program between the United States and the People's Republic of China since January 1, 1993.
-
-&emsp;“(5) A list of facilities in the People's Republic of China that have been the subject of a requested visit by the Department of Defense that has been denied by People's Republic of China authorities.
-
-&emsp;“(6) A list of facilities in the United States that have been the subject of a requested visit by the People's Liberation Army that has been denied by the United States.
-
-&emsp;“(7) Any official documentation (such as memoranda for the record, after-action reports, and final itineraries) and all receipts for expenses over $1,000, concerning military-to-military exchanges or contacts between the United States and the People's Republic of China in 1999.
-
-&emsp;“(8) A description of military-to-military exchanges or contacts between the United States and the People's Republic of China scheduled for 2000.
-
-&emsp;“(9) An assessment regarding whether or not any People's Republic of China military officials have been shown classified material as a result of military-to-military exchanges or contacts between the United States and the People's Republic of China.”
+Annual Certification by Secretary.—The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, not later than December 31 each year, a certification in writing as to whether or not any military-to-military exchange or contact during that calendar year was conducted in violation of subsection (a).”
 
 #### Agreements for Exchange of Defense Personnel Between United States and Foreign Countries
 

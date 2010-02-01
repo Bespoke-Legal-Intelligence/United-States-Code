@@ -38,7 +38,7 @@ The Secretary shall select applicants approved by the Secretary as to financial 
 
 &emsp;(3) the need for the type of project proposed by the applicant in the area to be served;
 
-&emsp;(4) the extent to which the amount of assistance to be provided under this part will be supplemented with resources from other public and private sources;
+&emsp;(4) the extent to which the amount of assistance to be provided under this part will besupplemented with resources from other public and private sources;
 
 &emsp;(5) the cost-effectiveness of the proposed project;
 
@@ -78,7 +78,7 @@ Flood protection standards applicable to housing acquired, rehabilitated, constr
 
 #### (g) Participation of homeless individuals
 
-The Secretary shall, by regulation, require each recipient to provide for the participation of not less than 1 homeless individual or former homeless individual on the board of directors or other equivalent policymaking entity of the recipient, to the extent that such entity considersand makes policies and decisions regarding any project, supportive services, or assistance provided under this part. The Secretary may grant waivers to applicants unable to meet the requirement under the preceding sentence if the applicant agrees to otherwise consult with homeless or formerly homeless individuals in considering and making such policies and decisions.
+The Secretary shall, by regulation, require each recipient to provide for the participation of not less than 1 homeless individual or former homeless individual on the board of directors or other equivalent policymaking entity of the recipient, to the extent that such entity considers and makes policies and decisions regarding any project, supportive services, or assistance provided under this part. The Secretary may grant waivers to applicants unable to meet the requirement under the preceding sentence if the applicant agrees to otherwise consult with homeless or formerly homeless individuals in considering and making such policies and decisions.
 
 #### (h) Limitation on use of funds
 
@@ -92,19 +92,77 @@ No recipient may use more than 5 percent of a grant received under this part for
 
 If an individual or family who receives assistance under this part (not including residents of an emergency shelter) from a recipient violates program requirements, the recipient may terminate assistance in accordance with a formal process established by the recipient that recognizes the rights of individuals receiving such assistance to due process of law, which may include a hearing.
 
-(Pub. L. 100–77, title IV, §426, as added Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4018.)
+(Pub. L. 100–77, title IV, §426, as added Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4018; amended Pub. L. 111–22, div. B, title III, §1304, May 20, 2009, 123 Stat. 1688.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–22, div. B, title III, §1304, title V, §1503, May 20, 2009, 123 Stat. 1688, 1702, provided that, effective on, and applicable beginning on, the earlier of the expiration of the 18-month period beginning on May 20, 2009, or the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 of Pub. L. 111–22, this section is amended as follows:</i>
+
+<i>(1) by striking subsections (a) and (b), and adding the following new subsections (a) and (b):</i>
+
+#### <i>“(a) Site control</i>
+
+<i>“The Secretary shall require that each application include reasonable assurances that the applicant will own or have control of a site for the proposed project not later than the expiration of the 12-month period beginning upon notification of an award for grant assistance, unless the application proposes providing supportive housing assistance</i><i>under section 11383(a)(3) of this title or housing that will eventually be owned or controlled by the families and individuals served. An applicant may obtain ownership or control of a suitable site different from the site specified in the application. If any recipient or project sponsor fails to obtain ownership or control of the site within 12 months after notification of an award for grant assistance, the grant shall be recaptured and reallocated under this part.</i>
+
+#### <i>“(b) Required agreements</i>
+
+<i>“The Secretary may not provide assistance for a proposed project under this part unless the collaborative applicant involved agrees—</i>
+
+&emsp;<i>“(1) to ensure the operation of the project in accordance with the provisions of this part;</i>
+
+&emsp;<i>“(2) to monitor and report to the Secretary the progress of the project;</i>
+
+&emsp;<i>“(3) to ensure, to the maximum extent practicable, that individuals and families experiencing homelessness are involved, through employment, provision of volunteer services, or otherwise, in constructing, rehabilitating, maintaining, and operating facilities for the project and in providing supportive services for the project;</i>
+
+&emsp;<i>“(4) to require certification from all project sponsors that—</i>
+
+&emsp;&emsp;<i>“(A) they will maintain the confidentiality of records pertaining to any individual or family provided family violence prevention or treatment services through the project;</i>
+
+&emsp;&emsp;<i>“(B) that the address or location of any family violence shelter project assisted under this part will not be made public, except with written authorization of the person responsible for the operation of such project;</i>
+
+&emsp;&emsp;<i>“(C) they will establish policies and practices that are consistent with, and do not restrict the exercise of rights provided by, part B of subchapter VI, and other laws relating to the provision of educational and related services to individuals and families experiencing homelessness;</i>
+
+&emsp;&emsp;<i>“(D) in the case of programs that provide housing or services to families, they will designate a staff person to be responsible for ensuring that children being served in the program are enrolled in school and connected to appropriate services in the community, including early childhood programs such as Head Start, part C of the Individuals with Disabilities Education Act, and programs authorized under part B of subchapter VI of this chapter (42 U.S.C. 11431 et seq.); and</i>
+
+&emsp;&emsp;<i>“(E) they will provide data and reports as required by the Secretary pursuant to the Act;</i>
+
+&emsp;<i>“(5) if a collaborative applicant is a unified funding agency under section 11360a(g) of this title and receives funds under this part to carry out the payment of administrative costs described in section 11383(a)(11) of this title, to establish such fiscal control and fund accounting procedures as may be necessary to assure the proper disbursal of, and accounting for, such funds in order to ensure that all financial transactions carried out with such funds are conducted, and records maintained, in accordance with generally accepted accounting principles;</i>
+
+&emsp;<i>“(6) to monitor and report to the Secretary the provision of matching funds as required by section 11386d of this title;</i>
+
+&emsp;<i>“(7) to take the educational needs of children into account when families are placed in emergency or transitional shelter and will, to the maximum extent practicable, place families with children as close as possible to their school of origin so as not to disrupt such children's education; and</i>
+
+&emsp;<i>“(8) to comply with such other terms and conditions as the Secretary may establish to carry out this part in an effective and efficient manner.”;</i>
+
+<i>(2) by striking subsection (c) and redesignating subsection (d) as (c);</i>
+
+<i>(3) by substituting “recipient or project sponsor” for “recipient” in subsection (c);</i>
+
+<i>(4) by striking subsection (e);</i>
+
+<i>(5) by redesignating subsections (f) to (h) as (d) to (f), respectively;</i>
+
+<i>(6) by substituting “recipient or project sponsor” for “recipient” each place it appears in subsection (e);</i>
+
+<i>(7) by striking subsection (i); and</i>
+
+<i>(8) by redesignating subsection (j) as (g).</i>
 
 #### References in Text
 
-The Fair Housing Act, referred to in subsec. (a)(2)(G), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+The Fair Housing Act, referred to in subsec. (a)(2)(G), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (a)(2)(G), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (a)(2)(G), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-The Age Discrimination Act of 1975, referred to in subsec. (a)(2)(G), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (a)(2)(G), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
 Executive Order No. 11988, referred to in subsec. (f), is set out as a note under section 4321 of this title.
 
 #### Prior Provisions
 
 A prior section 11386, Pub. L. 100–77, title IV, §426, July 22, 1987, 101 Stat. 503, related to establishment of guidelines for purposes of a supportive housing demonstration program, prior to repeal by Pub. L. 102–550, §1403(a).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–22 effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as a note under section 11302 of this title.
 

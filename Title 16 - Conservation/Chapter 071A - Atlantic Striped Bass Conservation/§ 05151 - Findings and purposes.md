@@ -36,7 +36,7 @@ Pub. L. 105–146, §1, Dec. 16, 1997, 111 Stat. 2672, provided that: “This Ac
 
 #### Short Title
 
-Pub. L. 98–613, §1, Oct. 31, 1984, 98 Stat. 3187, as amended by Pub. L. 105–146, §2, Dec. 16, 1997, 111 Stat. 2672, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Atlantic Striped Bass Conservation Act’.”
+Pub. L. 98–613, §1, Oct. 31, 1984, 98 Stat. 3187, as amended by Pub. L. 105–146, §2, Dec. 16, 1997, 111 Stat.2672, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Atlantic Striped Bass Conservation Act’.”
 
 #### Ex. Ord. No. 13449. Protection of Striped Bass and Red Drum Fish Populations
 
@@ -74,7 +74,7 @@ Sec. 4. <i>General Provisions</i>. (a) This order shall be implemented in a mann
 
 (b) Nothing in this order shall be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, and legislative proposals.
 
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities,entities, officers, employees, or agents, or any other person.
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities, entities, officers, employees, or agents, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

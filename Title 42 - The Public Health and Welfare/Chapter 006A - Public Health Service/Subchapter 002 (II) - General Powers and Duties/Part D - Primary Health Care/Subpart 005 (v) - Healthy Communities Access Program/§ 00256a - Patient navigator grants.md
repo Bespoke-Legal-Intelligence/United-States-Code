@@ -52,7 +52,7 @@ The Secretary shall require each recipient of a grant under this section to use 
 
 #### (1) In general
 
-&emsp;To seek a grant under this section, an eligible entity shall submit an application to theSecretary in such form, in such manner, and containing such information as the Secretary may require.
+&emsp;To seek a grant under this section, an eligible entity shall submit an application to the Secretary in such form, in such manner, and containing such information as the Secretary may require.
 
 #### (2) Contents
 

@@ -44,7 +44,7 @@ In this section:
 
 #### (A) Development of mechanisms
 
-&emsp;&emsp;The Director shall be responsible for developing, in coordination with the Department of State and, as appropriate, the Department of Defense, the Department of Energy, and other Federal agencies, understandings and agreements to allow and to support international cooperative activity in support of homeland security.
+&emsp;&emsp;The Director shall be responsible for developing, in coordination with the Department of State and, as appropriate, the Departmentof Defense, the Department of Energy, and other Federal agencies, understandings and agreements to allow and to support international cooperative activity in support of homeland security.
 
 #### (B) Priorities
 

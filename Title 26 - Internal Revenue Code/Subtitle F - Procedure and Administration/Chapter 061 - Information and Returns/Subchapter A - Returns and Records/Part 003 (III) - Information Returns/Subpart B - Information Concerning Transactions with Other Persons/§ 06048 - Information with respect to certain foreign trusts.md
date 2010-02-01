@@ -128,7 +128,7 @@
 
 #### (5) United States person's return must be consistent with trust return or Secretary notified of inconsistency
 
-&emsp;Rules similar to the rules of section 6034A(c) shall apply to items reported by a trust under subsection (b)(1)(B) and to United States persons referred to in such subsection.
+&emsp;Rules similar to the rules of section 6034A(c) shall apply to items reported by a trust undersubsection (b)(1)(B) and to United States persons referred to in such subsection.
 
 (Added Pub. L. 87–834, §7(f), Oct. 16, 1962, 76 Stat. 987; amended Pub. L. 94–455, title X, §1013(d)(1), (e)(3), (4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1616, 1834; Pub. L. 97–248, title III, §341(b), Sept. 3, 1982, 96 Stat. 635; Pub. L. 104–188, title I, §1901(a), Aug. 20, 1996, 110 Stat. 1904; Pub. L. 105–34, title X, §1027(b), title XVI, §1601(i)(1), Aug. 5, 1997, 111 Stat. 926, 1092.)
 

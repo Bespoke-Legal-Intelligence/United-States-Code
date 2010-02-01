@@ -6,7 +6,7 @@ The Secretary shall prepare and distribute booklets to help persons borrowing mo
 
 #### (b) Form and detail; cost elements, standard settlement form, escrow accounts, selection of persons for settlement services; consideration of differences in settlement procedures
 
-Each booklet shall be in such form and detail as the Secretary shall prescribe and, in addition to such other information as the Secretary may provide, shall include in clear and concise language—
+Each booklet shall be in such form and detail as the Secretary shall prescribe and, in addition to such other information as the Secretary mayprovide, shall include in clear and concise language—
 
 &emsp;(1) a description and explanation of the nature and purpose of each cost incident to a real estate settlement;
 

@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(C) any participant;
 
-&emsp;&emsp;(D) any person providing services to the Board and, with respect to the actions of the Executive Director as a fiduciary any person providing services to the Executive Director;
+&emsp;&emsp;(D) any person providing services to the Board and, with respect to the actions of theExecutive Director as a fiduciary any person providing services to the Executive Director;
 
 &emsp;&emsp;(E) a labor organization, the members of which are participants;
 
@@ -118,7 +118,15 @@
 
 (B) The Secretary of Labor may assess a civil penalty against a party in interest with respect to each transaction which is engaged in by the party in interest and is prohibited by subsection (c). The amount of such penalty shall be equal to 5 percent of the amount involved in each such transaction (as defined in section 4975(f)(4) of the Internal Revenue Code of 1986) for each year or part thereof during which the prohibited transaction continues, except that, if the transaction is not corrected (in such manner as the Secretary of Labor shall prescribe by regulation consistent with section 4975(f)(5) of such Code) within 90 days after the date the Secretary of Labor transmits notice to the party in interest (or such longer period as the Secretary of Labor may permit), such penalty may be in an amount not more than 100 percent of the amount involved.
 
-(C) A fiduciary shall not be liable under subparagraph (A) with respect to a breach of fiduciary duty under subsection (b) committed before becoming a fiduciary or after ceasing to be a fiduciary.
+(C)(i) A fiduciary shall not be liable under subparagraph (A) with respect to a breach of fiduciary duty under subsection (b) committed before becoming a fiduciary or after ceasing to be a fiduciary.
+
+(ii) A fiduciary shall not be liable under subparagraph (A), and no civil action may be brought against a fiduciary—
+
+&emsp;(I) for providing for the automatic enrollment of a participant in accordance with section 8432(b)(2)(A);
+
+&emsp;(II) for enrolling a participant in a default investment fund in accordance with section 8438(c)(2); or
+
+&emsp;(III) for allowing a participant to invest through the mutual fund window or for establishing restrictions applicable to participants’ ability to invest through the mutual fund window.
 
 (D) A fiduciary shall be jointly and severally liable under subparagraph (A) for a breach of fiduciary duty under subsection (b) by another fiduciary only if—
 
@@ -160,7 +168,7 @@
 
 &emsp;(C) by any participant or beneficiary—
 
-&emsp;&emsp;(i) to recover benefits of such participant or beneficiary under the provisions of subchapter III of this chapter, to enforce any right of such participant or beneficiary under such provisions, or to clarify any such right to future benefits under such provisions; or
+&emsp;&emsp;(i) to recover benefits of such participant or beneficiary under the provisions of subchapter III of this chapter, to enforce any right of such participant or beneficiary under such provisions, or to clarify any suchright to future benefits under such provisions; or
 
 &emsp;&emsp;(ii) to enforce any claim otherwise cognizable under sections 1346(b) and 2671 through 2680 of title 28, provided that the remedy against the United States provided by sections 1346(b) and 2672 of title 28 for damages for injury or loss of property caused by the negligent or wrongful act or omission of any fiduciary while acting within the scope of his duties or employment shall be exclusive of any other civil action or proceeding by the participant or beneficiary for recovery of money by reason of the same subject matter against the fiduciary (or the estate of such fiduciary) whose act or omission gave rise to such action or proceeding, whether or not such action or proceeding is based on an alleged violation of subsection (b) or (c).
 
@@ -174,7 +182,7 @@
 
 &emsp;(ii) deemed a tort action brought against the United States under the provisions of title 28 and all references thereto.
 
-(D) The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677 of title 28, and with the same effect. To the extent section 2672 of title 28 provides that persons other than the Attorney General or his designee may compromise and settle claims, and that payment of such claims may be made fromagency appropriations, such provisions shall not apply to claims based upon an alleged violation of subsection (b) or (c).
+(D) The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677 of title 28, and with the same effect. To the extent section 2672 of title 28 provides that persons other than the Attorney General or his designee may compromise and settle claims, and that payment of such claims may be made from agency appropriations, such provisions shall not apply to claims based upon an alleged violation of subsection (b) or (c).
 
 (E) For the purposes of paragraph (3)(C)(ii) the provisions of sections 2680(h) of title 28 shall not apply to any claim based upon an alleged violation of subsection (b) or (c).
 
@@ -202,9 +210,9 @@
 
 (g)(1) The Secretary of Labor shall establish a program to carry out audits to determine the level of compliance with the requirements of this section relating to fiduciary responsibilities and prohibited activities of fiduciaries.
 
-(2) An audit under this subsection may be conducted by the Secretary of Labor, by contract with a qualified non-governmental organization, or in cooperation with the Comptroller General of the United States, as the Secretary considers appropriate.
+(2) An audit under this subsection may be conducted by the Secretary of Labor, by contract with a qualified non-governmental organization, or in cooperation with the Comptroller Generalof the United States, as the Secretary considers appropriate.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 582; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–556, title I, §§112, 114(b), Oct. 27, 1986, 100 Stat. 3133; Pub. L. 100–238, title I, §133(a), (c), Jan. 8, 1988, 101 Stat. 1760, 1762; Pub. L. 100–366, §3(a), July 13, 1988, 102 Stat. 826; Pub. L. 101–335, §8, July 17, 1990, 104 Stat. 325.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 582; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–556, title I, §§112, 114(b), Oct. 27, 1986, 100 Stat. 3133; Pub. L. 100–238, title I, §133(a), (c), Jan. 8, 1988, 101 Stat. 1760, 1762; Pub. L. 100–366, §3(a), July 13, 1988, 102 Stat. 826; Pub. L. 101–335, §8, July 17, 1990, 104 Stat. 325; Pub. L. 111–31, div. B, title I, §106(b), June 22, 2009, 123 Stat. 1855.)
 
 #### References in Text
 
@@ -217,6 +225,8 @@ Section 4975(f)(4) and (5) of the Internal Revenue Code of 1986, referred to in 
 Section 114 of the Federal Employees’ Retirement System Technical Corrections Act of 1986, referred to in subsec. (e)(1)(E)(i), is section 114 of Pub. L. 99–556 which amended this section and enacted provisions set out as a note under this section.
 
 #### Amendments
+
+2009—Subsec. (e)(1)(C). Pub. L. 111–31 designated existing provisions as cl. (i) and added cl. (ii).
 
 1990—Pub. L. 101–335 repealed section 133(c) of Pub. L. 100–238. See Effective Date of 1988 Amendment note below.
 
@@ -248,7 +258,7 @@ Subsec. (e)(2), (3). Pub. L. 100–238, §133(a)(5), added pars. (2) and (3) and
 
 “(3) An action may not be commenced under paragraph (2) with respect to a fiduciary's breach of any responsibility, duty, or obligation under subsection (b) or a violation of subsection (c) after the earlier of—
 
-&emsp;“(A) 6 years after (i) the date of the last action which constituted a part of the breach or violation, or (ii) in the case of an omission, the latest date onwhich the fiduciary could have cured the breach or violation; or
+&emsp;“(A) 6 years after (i) the date of the last action which constituted a part of the breach or violation, or (ii) in the case of an omission, the latest date on which the fiduciary could have cured the breach or violation; or
 
 &emsp;“(B) 3 years after the earliest date on which the plaintiff had actual knowledge of the breach or violation, except that, in the case of fraud or concealment, such action may be commenced not later than 6 years after the date of discovery of such breach or violation.”
 

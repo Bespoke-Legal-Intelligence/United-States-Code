@@ -34,13 +34,9 @@ The Secretary shall, on a priority basis, develop programs to encourage livestoc
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated for each fiscal year $20,000,000 to carry out this section through the Extension Service.
+There are authorized to be appropriated for each fiscal year $20,000,000 to carry out this section through the National Institute of Food and Agriculture.
 
 (Pub. L. 101–624, title XVI, §1627, Nov. 28, 1990, 104 Stat. 3739; Pub. L. 104–127, title VIII, §862(b)(2), Apr. 4, 1996, 110 Stat. 1174; Pub. L. 110–234, title VII, §7511(c)(16), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(16), June 18, 2008, 122 Stat. 1664, 2030.)
-
-#### Amendment of Subsection (d)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2030, provided that, effective Oct. 1, 2009, subsection (d) of this section is amended by substituting “National Institute of Food and Agriculture” for “Extension Service”.</i>
 
 #### References in Text
 
@@ -53,6 +49,8 @@ Chapter 86 of this title, referred to in subsec. (a)(3), was in the original “
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–246, §7511(c)(16), substituted “National Institute of Food and Agriculture” for “Extension Service”.
 
 1996—Subsec. (a)(3). Pub. L. 104–127 struck out “and section 5881 of this title” before “and other appropriate”.
 

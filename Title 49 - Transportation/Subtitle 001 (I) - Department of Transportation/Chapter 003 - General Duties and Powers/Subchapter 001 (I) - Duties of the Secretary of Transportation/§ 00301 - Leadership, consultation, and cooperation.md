@@ -12,7 +12,7 @@ The Secretary of Transportation shall—
 
 &emsp;(5) consult and cooperate with the Secretary of Labor in compiling information regarding the status of labor-management contracts and other labor-management problems and in promoting industrial harmony and stable employment conditions in all modes of transportation;
 
-&emsp;(6) promote and undertake research and development related to transportation, including noise abatement, with particular attention to aircraft noise, and including basic highway vehicle science;
+&emsp;(6) promote and undertake research and development related to transportation, includingnoise abatement, with particular attention to aircraft noise, and including basic highway vehicle science;
 
 &emsp;(7) consult with the heads of other departments, agencies, and instrumentalities of the United States Government on the transportation requirements of the Government, including encouraging them to establish and observe policies consistent with maintaining a coordinated transportation system in procuring transportation or in operating their own transport services;
 

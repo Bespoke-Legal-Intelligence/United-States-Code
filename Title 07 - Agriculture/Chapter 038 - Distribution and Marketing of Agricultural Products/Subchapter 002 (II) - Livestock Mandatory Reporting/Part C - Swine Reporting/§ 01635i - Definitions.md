@@ -8,13 +8,13 @@ In this part:
 
 &emsp;&emsp;(A) a person that directly or indirectly owns, controls, or holds with power to vote, 5 percent or more of the outstanding voting securities of the packer;
 
-&emsp;&emsp;(B) a person 5 percent or more of whose outstanding voting securities are directly or indirectly owned, controlled, or held with power to vote, by the packer; and
+&emsp;&emsp;(B) a person 5 percent or more of whose outstanding voting securities are directly orindirectly owned, controlled, or held with power to vote, by the packer; and
 
 &emsp;&emsp;(C) a person that directly or indirectly controls, or is controlled by or under common control with, the packer.
 
 #### (2) Applicable reporting period
 
-&emsp;The term “applicable reporting period” means the period of time prescribed by the prior day report, the morning report, and theafternoon report, as required under section 1635j(c) of this title.
+&emsp;The term “applicable reporting period” means the period of time prescribed by the prior day report, the morning report, and the afternoon report, as required under section 1635j(c) of this title.
 
 #### (3) Barrow
 
@@ -114,7 +114,7 @@ In this part:
 
 #### (18) Slaughter data
 
-&emsp;The term “slaughter data” means all of the applicable data for all swine slaughtered by a packer during the applicable reporting period, regardless of when the price of the swine was negotiated or otherwise determined, reported by—
+&emsp;The term “slaughter data” means all of the applicable data for all swine slaughtered by a packer during the applicable reporting period, regardless of when the price of the swine wasnegotiated or otherwise determined, reported by—
 
 &emsp;&emsp;(A) hog class;
 

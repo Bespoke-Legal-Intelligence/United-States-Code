@@ -20,7 +20,7 @@ When the bylaws of an association so provide and subject to the general directio
 
 #### Prior Provisions
 
-A prior section 2074, Pub. L. 92–181, title II, §2.3, Dec. 10, 1971, 85 Stat. 593; Pub. L. 96–592, title II, §203, Dec. 24, 1980, 94 Stat. 3440; Pub. L. 99–205, title II, §205(e)(6),Dec. 23, 1985, 99 Stat. 1704, related to loans, discounts, participation, and leasing, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
+A prior section 2074, Pub. L. 92–181, title II, §2.3, Dec. 10, 1971, 85 Stat. 593; Pub. L. 96–592, title II, §203, Dec. 24, 1980, 94 Stat. 3440; Pub. L. 99–205, title II, §205(e)(6), Dec. 23, 1985, 99 Stat. 1704, related to loans, discounts, participation, and leasing, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
 
 #### Amendments
 

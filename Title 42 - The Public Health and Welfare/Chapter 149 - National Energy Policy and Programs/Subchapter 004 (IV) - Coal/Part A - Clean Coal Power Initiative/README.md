@@ -9,3 +9,4 @@ Part A—Clean Coal Power Initiative
 - [&sect; 15962 - Project criteria](%C2%A7%2015962%20-%20Project%20criteria.md)
 - [&sect; 15963 - Report](%C2%A7%2015963%20-%20Report.md)
 - [&sect; 15964 - Clean coal centers of excellence](%C2%A7%2015964%20-%20Clean%20coal%20centers%20of%20excellence.md)
+- [&sect; 15965 - Time limit for award; extension](%C2%A7%2015965%20-%20Time%20limit%20for%20award%3B%20extension.md)

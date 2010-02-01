@@ -28,7 +28,7 @@
 
 Subsec. (c). Pub. L. 109–163, §544, substituted “eight years” for “six years”.
 
-1996—Subsec. (d). Pub. L. 104–201 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Secretary concerned may accept reenlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, for period of at least two but not more than six years. No enlisted member is entitled to be reenlisted for a period that would expire before the end of his current enlistment.”
+1996—Subsec. (d). Pub. L. 104–201 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Secretary concerned may accept reenlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, for period of at least two but not more than six years. No enlisted member is entitled tobe reenlisted for a period that would expire before the end of his current enlistment.”
 
 1983—Subsecs. (c), (d). Pub. L. 98–94 substituted “at least two but not more than six years” for “two, three, four, five, or six years”.
 

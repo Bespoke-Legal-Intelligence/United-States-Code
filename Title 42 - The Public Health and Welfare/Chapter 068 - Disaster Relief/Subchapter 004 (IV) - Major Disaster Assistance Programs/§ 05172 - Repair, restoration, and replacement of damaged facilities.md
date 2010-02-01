@@ -114,7 +114,7 @@
 
 &emsp;&emsp;&emsp;(i) any private nonprofit facility located in a regulatory floodway (as defined in section 59.1 of title 44, Code of Federal Regulations (or a successor regulation)); or
 
-&emsp;&emsp;&emsp;(ii) any uninsured private nonprofit facility located in a special flood hazard area identified by the Administrator of the Federal Emergency Management Agency under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.).
+&emsp;&emsp;&emsp;(ii) any uninsured private nonprofit facility located in a special flood hazard areaidentified by the Administrator of the Federal Emergency Management Agency under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.).
 
 #### (d) Flood insurance
 
@@ -174,7 +174,7 @@
 
 #### (ii) Less than floor percentage of estimated cost
 
-&emsp;&emsp;&emsp;In any case in which the actual cost of repairing, restoring, reconstructing, or replacing a facility under this section is lessthan the floor percentage established under paragraph (3) of the cost estimated under paragraph (1), the State or local government or person receiving assistance under this section shall reimburse the President in the amount of the difference.
+&emsp;&emsp;&emsp;In any case in which the actual cost of repairing, restoring, reconstructing, or replacing a facility under this section is less than the floor percentage established under paragraph (3) of the cost estimated under paragraph (1), the State or local government or person receiving assistance under this section shall reimburse the President in the amount of the difference.
 
 #### (C) No effect on appeals process
 
@@ -184,7 +184,7 @@
 
 #### (A) Establishment
 
-&emsp;&emsp;Not later than 18 months after October 30, 2000, the President, acting through the Administrator of the Federal Emergency Management Agency, shall establish an expert panel, which shall include representatives from the construction industry and State and local government.
+&emsp;&emsp;Not later than 18 months after October 30, 2000, the President, acting through the Administrator of the Federal Emergency Management Agency, shall establish an expert panel, which shall include representativesfrom the construction industry and State and local government.
 
 #### (B) Duties
 

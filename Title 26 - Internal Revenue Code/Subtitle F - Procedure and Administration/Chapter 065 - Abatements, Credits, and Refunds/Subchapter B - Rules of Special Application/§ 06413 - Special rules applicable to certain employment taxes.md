@@ -20,7 +20,7 @@
 
 #### (5) States and political subdivisions as employer
 
-&emsp;For purposes of this subsection, in the case of remuneration received from a State or any political subdivision thereof (or any instrumentality of any one or more of the foregoing which is wholly owned thereby) during anycalendar year, each head of an agency or instrumentality, and each agent designated by either, who makes a return pursuant to section 3125 shall be deemed a separate employer.
+&emsp;For purposes of this subsection, in the case of remuneration received from a State or any political subdivision thereof (or any instrumentality of any one or more of the foregoing which is wholly owned thereby) during any calendar year, each head of an agency or instrumentality, and each agent designated by either, who makes a return pursuant to section 3125 shall be deemed a separate employer.
 
 #### (b) Overpayments of certain employment taxes
 

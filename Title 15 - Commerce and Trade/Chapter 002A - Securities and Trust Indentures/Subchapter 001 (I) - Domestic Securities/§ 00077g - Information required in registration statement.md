@@ -50,11 +50,11 @@ Special rules for title v.—
 
 &emsp;“(A)
 
-Sections 503 and 504.—Except as provided in subparagraph (C), sections 503 \[amending section 78c of this title\] and 504 \[amending section 78<i>o</i> of this title and enacting provisions set out as a note under section 78<i>o</i> of this title\] shall be effective 12 months after the date of enactment of this Act \[Oct. 15, 1990\] or upon the issuance of final regulations initially implementing such section, whichever is earlier.
+Sections 503 and 504.—Except as provided in subparagraph (C), sections 503 \[amending section 78c of this title\] and 504 \[amending section 78<i>o</i> of this title and enacting provisions set out as a note under section 78<i>o</i> of this title\] shall be effective 12 months after the date of enactment of this Act \[Oct. 15, 1990\] or upon the issuance of final regulations initially implementing such section \[Such regulations were issued effective Apr. 28, 1992. See 57 F.R. 18004, 18037.\], whichever is earlier.
 
 &emsp;“(B)
 
-Sections 505 and 508.—Except as provided in subparagraph (C), sections 505 \[amending section 78<i>o</i> of this title\] and 508 \[amending this section\] shall be effective 18 months after the date of enactment ofthis Act or upon the issuance of final regulations initially implementing such sections, whichever is earlier.
+Sections 505 and 508.—Except as provided in subparagraph (C), sections 505 \[amending section 78<i>o</i> of this title\] and 508 \[amending this section\] shall be effective 18 months after the date of enactment of this Act or upon the issuance of final regulations initially implementing such sections \[Such regulations were issued effective Apr. 28, 1992. See 57 F.R. 18004, 18037.\], whichever is earlier.
 
 &emsp;“(C)
 

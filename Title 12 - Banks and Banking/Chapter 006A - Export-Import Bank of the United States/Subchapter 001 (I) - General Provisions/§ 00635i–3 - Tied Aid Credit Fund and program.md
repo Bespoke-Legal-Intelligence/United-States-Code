@@ -20,7 +20,7 @@ The Congress finds that—
 
 &emsp;&emsp;(iii) only through matching foreign export credit offers can the Bank buttress United States negotiators in their efforts to bring these loopholes within the disciplines of the Arrangement; and
 
-&emsp;&emsp;(iv) in order to bring untied aid within the discipline of the Arrangement, the Bank should consider initiating highly competitive financial support when the Bank learnsthat foreign untied aid offers will be made; and
+&emsp;&emsp;(iv) in order to bring untied aid within the discipline of the Arrangement, the Bank should consider initiating highly competitive financial support when the Bank learns that foreign untied aid offers will be made; and
 
 &emsp;&emsp;(B) second, the Bank should support United States exporters when the exporters face foreign competition that is consistent with the Arrangement and the Subsidies Code of the World Trade Organization, but which places United States exporters at a competitive disadvantage; and
 
@@ -90,7 +90,7 @@ The Congress finds that—
 
 #### (i) Consideration of certain principles and standards
 
-&emsp;&emsp;&emsp;In developing the principles and standards referred to in subparagraph (A), theSecretary and the Bank shall consider administering the Tied Aid Credit Fund in accordance with the following principles and standards:
+&emsp;&emsp;&emsp;In developing the principles and standards referred to in subparagraph (A), the Secretary and the Bank shall consider administering the Tied Aid Credit Fund in accordance with the following principles and standards:
 
 &emsp;&emsp;&emsp;&emsp;(I) The Tied Aid Credit Fund should be used to leverage multilateral negotiations to restrict the scope for aid-financed trade distortions through new multilateral rules, to police existing rules, and to seek compliance by those countries that are not a party to the Arrangement.
 
@@ -150,7 +150,7 @@ The Congress finds that—
 
 #### (2) Expenditures from Fund
 
-&emsp;Amounts in the Fund shall be available for grants made by the Bank under the tied aid credit program established pursuant to subsection (b) of this section and to reimburse the Bank for the amount equal to the concessionality level of any tied aid credits authorized by the Bank.
+&emsp;Amounts in the Fund shall be available for grants made by the Bank under the tied aidcredit program established pursuant to subsection (b) of this section and to reimburse the Bank for the amount equal to the concessionality level of any tied aid credits authorized by the Bank.
 
 #### (d) Consistency with Arrangement
 
@@ -218,7 +218,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (4) Blended financing
 
-&emsp;The term “blended financing” means financing provided through any combination of official development assistance, official export credits, and private commercial credit whichis integrated into a single agreement with a single set of financial terms.
+&emsp;The term “blended financing” means financing provided through any combination of official development assistance, official export credits, and private commercial credit which is integrated into a single agreement with a single set of financial terms.
 
 #### (5) Parallel financing
 
@@ -236,7 +236,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The Bank, in consultation with the Secretary of the Treasury, shall define “market window” for purposes of this section.
 
-(July 31, 1945, ch. 341, §10, formerly §15, as added Pub. L. 99–472, §19, Oct. 15, 1986, 100 Stat. 1205; amended Pub. L. 100–217, Dec. 29, 1987, 101 Stat. 1454; Pub. L. 100–418, title III, §3302(b), Aug. 23, 1988, 102 Stat. 1383; Pub. L. 101–240, title I, §101(b), Dec. 19, 1989, 103 Stat. 2493; Pub. L. 101–513, title V, §562(d), Nov. 5, 1990, 104 Stat. 2036; renumbered §10 and amended Pub. L. 102–429, title I, §§103, 121(c)(4), Oct. 21, 1992, 106 Stat. 2187, 2199; Pub. L. 104–97, §1, Jan. 11, 1996, 109 Stat. 984; Pub. L. 104–107, title V, §579, Feb. 12, 1996, 110 Stat. 751; Pub. L. 105–121, §3, Nov. 26, 1997, 111 Stat. 2528; Pub. L. 106–569, title XI, §1103(d)(2), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §§9, 10(c), (d), 24(a)(2)(E), June 14, 2002, 116 Stat. 701, 703, 704, 708; Pub. L. 109–438, §10, Dec. 20, 2006, 120 Stat. 3275.)
+(July 31, 1945, ch. 341, §10, formerly §15, as added Pub. L. 99–472, §19, Oct. 15, 1986, 100 Stat. 1205; amended Pub. L. 100–217, Dec. 29, 1987, 101 Stat. 1454; Pub. L. 100–418, title III, §3302(b), Aug. 23, 1988, 102 Stat. 1383; Pub. L. 101–240, title I, §101(b), Dec. 19, 1989, 103 Stat. 2493; Pub. L. 101–513, title V, §562(d), Nov. 5, 1990, 104 Stat. 2036; renumbered §10 and amended Pub. L. 102–429, title I, §§103, 121(c)(4), Oct. 21, 1992, 106 Stat. 2187, 2199; Pub. L. 104–97, §1, Jan. 11, 1996, 109 Stat. 984; Pub. L. 104–107, title V, §579, Feb.12, 1996, 110 Stat. 751; Pub. L. 105–121, §3, Nov. 26, 1997, 111 Stat. 2528; Pub. L. 106–569, title XI, §1103(d)(2), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §§9, 10(c), (d), 24(a)(2)(E), June 14, 2002, 116 Stat. 701, 703, 704, 708; Pub. L. 109–438, §10, Dec. 20, 2006, 120 Stat. 3275.)
 
 #### Prior Provisions
 
@@ -292,7 +292,7 @@ Subsec. (b)(1). Pub. L. 102–429, §103(c)(3)(A), substituted “The” for “
 
 Subsec. (b)(1)(A). Pub. L. 102–429, §103(c)(1), (3)(B), substituted “predatory” for “predacious” and inserted before semicolon “and with special attention to matching tied aid and partially untied aid credits extended by other governments—” followed by cls. (i) and (ii).
 
-Subsec. (b)(1)(B). Pub. L. 102–429, §103(c)(1), (3)(C), in cl. (i) substituted “predatory” for “predacious” and “partially untied aid credits, and impedes negotiations or violates agreements on tied aid to eliminate the useof such credits for commercial purposes; or” for “partially untied aid credits; and”, added cl. (ii), and struck out former cl. (ii) which read as follows: “impedes negotiations to eliminate the use of such credits for commercial purposes; or”.
+Subsec. (b)(1)(B). Pub. L. 102–429, §103(c)(1), (3)(C), in cl. (i) substituted “predatory” for “predacious” and “partially untied aid credits, and impedes negotiations or violates agreements on tied aid to eliminate the use of such credits for commercial purposes; or” for “partially untied aid credits; and”, added cl. (ii), and struck out former cl. (ii) which read as follows: “impedes negotiations to eliminate the use of such credits for commercial purposes; or”.
 
 Subsec. (b)(2). Pub. L. 102–429, §103(c)(4), (5), struck out “of the Treasury” after “Secretary” in subpar. (A) and substituted “United States exporters and private financial institutions or entities, and in consultation with other Federal agencies” for “private financial institutions or entities” in subpar. (B).
 

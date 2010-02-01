@@ -104,7 +104,7 @@ In addition to the reporting requirements established pursuant to subsection (h)
 
 #### (m) Immigration Examinations Fee Account
 
-Notwithstanding any other provisions of law, all adjudication fees as are designated by the Attorney General in regulations shall be deposited as offsetting receipts into a separate account entitled “Immigration Examinations Fee Account” in the Treasury of the United States, whether collected directly by the Attorney General or through clerks of courts: <i>Provided, however</i>, That all fees received by the Attorney General from applicants residing in the Virgin Islands of the United States, and in Guam, under this subsection shall be paid over to the treasury of the Virgin Islands and to the treasury ofGuam: <i>Provided further</i>, That fees for providing adjudication and naturalization services may be set at a level that will ensure recovery of the full costs of providing all such services, including the costs of similar services provided without charge to asylum applicants or other immigrants. Such fees may also be set at a level that will recover any additional costs associated with the administration of the fees collected.
+Notwithstanding any other provisions of law, all adjudication fees as are designated by the Attorney General in regulations shall be deposited as offsetting receipts into a separate account entitled “Immigration Examinations Fee Account” in the Treasury of the United States, whether collected directly by the Attorney General or through clerks of courts: <i>Provided, however</i>, That all fees received by the Attorney General from applicants residing in the Virgin Islands of the United States, and in Guam, under this subsection shall be paid over to the treasury of the Virgin Islands and to the treasury of Guam: <i>Provided further</i>, That fees for providing adjudication and naturalization services may be set at a level that will ensure recovery of the full costs of providing all such services, including the costs of similar services provided without charge to asylum applicants or other immigrants. Such fees may also be set at a level that will recover any additional costs associated with the administration of the fees collected.
 
 #### (n) Reimbursement of administrative expenses; transfer of deposits to General Fund of United States Treasury
 
@@ -160,7 +160,7 @@ The provisions set forth in subsections (m), (n), and (<i>o</i>) of this section
 
 &emsp;(ii) for expenses associated with the detention of illegal aliens.
 
-(4) The amounts required to be refunded from the Fund for fiscal year 1998 and thereafter shallbe refunded in accordance with estimates made in the budget request of the President for those fiscal years. Any proposed changes in the amounts designated in such budget requests shall only be made after Congressional reprogramming notification in accordance with the reprogramming guidelines for the applicable fiscal year.
+(4) The amounts required to be refunded from the Fund for fiscal year 1998 and thereafter shall be refunded in accordance with estimates made in the budget request of the President for those fiscal years. Any proposed changes in the amounts designated in such budget requests shall only be made after Congressional reprogramming notification in accordance with the reprogramming guidelines for the applicable fiscal year.
 
 (5) The Attorney General shall prepare and submit annually to the Congress, statements of financial condition of the Fund, including the beginning balance, receipts, refunds to appropriations, transfers to the general fund, and the ending balance.
 
@@ -188,7 +188,7 @@ The provisions set forth in subsections (m), (n), and (<i>o</i>) of this section
 
 #### (B) Types of programs covered
 
-&emsp;&emsp;The Director shall award grants to such programs, including those which support the development and implementation of standards-based instructional materials models and related student assessments that enable K–12 students to acquire an understanding of science, mathematics, and technology, as well as to develop critical thinking skills; provide systemic improvement in training K–12 teachers and education for students in science, mathematics, and technology; support the professional development of K–12 math and science teachers in the use of technology in the classroom; stimulate system-wide K–12 reform of science, mathematics, and technology in rural, economically disadvantaged regions of the United States; provide externships and other opportunities for students to increase their appreciation and understanding of science, mathematics, engineering, and technology (including summer institutes sponsored by an institution of higher education for students in grades 7–12 that provide instruction in such fields); involve partnerships of industry, educational institutions, and community organizations to address the educational needs of disadvantaged communities; provide college preparatory support to expose and prepare students for careers in science, mathematics, engineering, and technology; and provide for carrying out systemic reform activities under section 1862(a)(1) of title 42.
+&emsp;&emsp;The Director shall award grants to such programs, including those which support the development and implementation of standards-based instructional materials models and related student assessments that enable K–12 students to acquire an understanding of science, mathematics, and technology, aswell as to develop critical thinking skills; provide systemic improvement in training K–12 teachers and education for students in science, mathematics, and technology; support the professional development of K–12 math and science teachers in the use of technology in the classroom; stimulate system-wide K–12 reform of science, mathematics, and technology in rural, economically disadvantaged regions of the United States; provide externships and other opportunities for students to increase their appreciation and understanding of science, mathematics, engineering, and technology (including summer institutes sponsored by an institution of higher education for students in grades 7–12 that provide instruction in such fields); involve partnerships of industry, educational institutions, and community organizations to address the educational needs of disadvantaged communities; provide college preparatory support to expose and prepare students for careers in science, mathematics, engineering, and technology; and provide for carrying out systemic reform activities under section 1862(a)(1) of title 42.
 
 #### (5) Use of fees for duties relating to petitions
 
@@ -204,7 +204,7 @@ The provisions set forth in subsections (m), (n), and (<i>o</i>) of this section
 
 (2) The Attorney General will prepare and submit annually to Congress statements of the financial condition of the Genealogy Fee.
 
-(3) Any officer or employee of the Immigration and Naturalization Service shall collect feesprescribed under regulation before disseminating any requested genealogical information.
+(3) Any officer or employee of the Immigration and Naturalization Service shall collect fees prescribed under regulation before disseminating any requested genealogical information.
 
 #### (u) Premium fee for employment-based petitions and applications
 
@@ -230,17 +230,17 @@ The Attorney General is authorized to establish and collect a premium fee for em
 
 #### (B) Secretary of Homeland Security
 
-&emsp;&emsp;One-third of the amounts deposited into the Fraud Prevention and Detection Account shall remain available to the Secretary of Homeland Security until expended for programs and activities to prevent and detect fraud with respect to petitions under paragraph (1) or (2)(A) of section 1184(c) of this title to grant an alien nonimmigrant status described in subparagraph (H)(i), (H)(ii), or (L) of section 1101(a)(15) of this title.
+&emsp;&emsp;One-third of the amounts deposited into the Fraud Prevention and Detection Account shall remain available to the Secretary of Homeland Security until expended for programs and activities to prevent and detect immigration benefit fraud, includingfraud with respect to petitions filed under paragraph (1) or (2)(A) of section 1184(c) of this title to grant an alien nonimmigrant status described in subparagraph (H) or (L) of section 1101(a)(15) of this title.
 
 #### (C) Secretary of Labor
 
-&emsp;&emsp;One-third of the amounts deposited into the Fraud Prevention and Detection Account shall remain available to the Secretary of Labor until expended for enforcement programs and activities described in section 1182(n) of this title.
+&emsp;&emsp;One-third of the amounts deposited into the Fraud Prevention and Detection Account shall remain available to the Secretary of Labor until expended for wage and hour enforcement programs and activities otherwise authorized to be conducted by the Secretary of Labor that focus on industries likely to employ nonimmigrants, including enforcement programs and activities described in section 1182(n) of this title and enforcement programs and activities related to section 1184(c)(14)(A)(i) of this title.
 
 #### (D) Consultation
 
 &emsp;&emsp;The Secretary of State, the Secretary of Homeland Security, and the Secretary of Labor shall consult one another with respect to the use of the funds in the Fraud Prevention and Detection Account or for programs and activities to prevent and detect fraud with respect to petitions under paragraph (1) or (2)(A) of section 1184(c) of this title to grant an alien nonimmigrant status described in section 1101(a)(15)(H)(ii) of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Pub. L. 97–116, §13, Dec. 29, 1981, 95 Stat. 1618; Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–53, renumbered §205(a), Pub. L. 100–525, §4(a)(2)(A), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 99–591, §101(b) \[title II, §205\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–53; Pub. L. 99–653, §7(d)(1), Nov. 14, 1986, as added Pub. L. 100–525, §8(f), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 100–71, title I, §1, July 11, 1987, 101 Stat. 394; Pub. L. 100–459, title II, §209(a), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §4(a)(1), (d), Oct. 24, 1988, 102 Stat. 2614, 2615; Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 1000; Pub. L. 101–515, title II, §210(a), (d), Nov. 5, 1990, 104 Stat. 2120, 2121; Pub. L. 102–232, title III, §309(a)(1)(A)(i), (B), (2), (b)(12), Dec. 12, 1991, 105 Stat. 1757–1759; Pub. L. 102–395, title I, §112, Oct. 6, 1992, 106 Stat. 1843; Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161; Pub. L. 103–416, title II, §219(t), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title I, §§122(a), 124(a)(1), title III, §§308(d)(3)(A), (4)(K), (e)(1)(L), (g)(1), 376(b), 382(b), title VI, §671(b)(11), (e)(5), (6), Sept. 30, 1996, 110 Stat. 3009–560, 3009–562, 3009–617 to 3009–619, 3009–622, 3009–648, 3009–651, 3009–722, 3009–723; Pub. L. 105–119, title I, §110(1), (2), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 105–277, div. A, §101(b) \[title I, §114\], div. C, title IV, §414(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, 2681–652; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §118\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–313, title I, §§110(a), 113, Oct. 17, 2000, 114 Stat. 1255, 1261; Pub. L. 106–553, §1(a)(2) \[title I, §112\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; Pub. L. 106–554, §1(a)(1) \[title I, §106\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11; Pub. L. 107–77, title I, §§109, 110, Nov. 28, 2001, 115 Stat. 765; Pub. L. 107–173, title IV, §403(a), May 14, 2002, 116 Stat. 559; Pub. L. 107–206, title I, §202, Aug. 2, 2002, 116 Stat. 832; Pub. L. 107–273, div. C, title I, §11016(2), Nov. 2, 2002, 116 Stat. 1824; Pub. L. 107–296, title IV, §457, Nov. 25, 2002, 116 Stat. 2201; Pub. L. 108–7, div. B, title I, §108, div. L, §107, Feb. 20, 2003, 117 Stat. 67, 532; Pub. L. 108–77, title IV,§402(d)(2), Sept. 3, 2003, 117 Stat. 946; Pub. L. 108–447, div. J, title IV, §§426(b), 427, Dec. 8, 2004, 118 Stat. 3357, 3358; Pub. L. 109–13, div. A, title VI, §6046, div. B, title IV, §403(b), May 11, 2005, 119 Stat. 295, 319; Pub. L. 109–472, §2, Jan. 11, 2007, 120 Stat. 3554.)
+(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Pub. L. 97–116, §13, Dec. 29, 1981, 95 Stat. 1618; Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–53, renumbered §205(a), Pub. L. 100–525, §4(a)(2)(A), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 99–591, §101(b) \[title II, §205\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–53; Pub. L. 99–653, §7(d)(1), Nov. 14, 1986, as added Pub. L. 100–525, §8(f), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 100–71, title I, §1, July 11, 1987, 101 Stat. 394; Pub. L. 100–459, title II, §209(a), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §4(a)(1), (d), Oct. 24, 1988, 102 Stat. 2614, 2615; Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 1000; Pub. L. 101–515, title II, §210(a), (d), Nov. 5, 1990, 104 Stat. 2120, 2121; Pub. L. 102–232, title III, §309(a)(1)(A)(i), (B), (2), (b)(12), Dec. 12, 1991, 105 Stat. 1757–1759; Pub. L. 102–395, title I, §112, Oct. 6, 1992, 106 Stat. 1843; Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161; Pub. L. 103–416, title II, §219(t), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title I, §§122(a), 124(a)(1), title III, §§308(d)(3)(A), (4)(K), (e)(1)(L), (g)(1), 376(b), 382(b), title VI, §671(b)(11), (e)(5), (6), Sept. 30, 1996, 110 Stat. 3009–560, 3009–562, 3009–617 to 3009–619, 3009–622, 3009–648, 3009–651, 3009–722, 3009–723; Pub. L. 105–119, title I, §110(1), (2), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 105–277, div. A, §101(b) \[title I, §114\], div. C, title IV, §414(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, 2681–652; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §118\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–313, title I, §§110(a), 113, Oct. 17, 2000, 114 Stat. 1255, 1261; Pub. L. 106–553, §1(a)(2) \[title I, §112\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; Pub. L. 106–554, §1(a)(1) \[title I, §106\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11; Pub. L. 107–77, title I, §§109, 110, Nov. 28, 2001, 115 Stat. 765; Pub. L. 107–173, title IV, §403(a), May 14, 2002, 116 Stat. 559; Pub. L. 107–206, title I, §202, Aug. 2, 2002, 116 Stat. 832; Pub. L. 107–273, div. C, title I, §11016(2), Nov. 2, 2002, 116 Stat. 1824; Pub. L. 107–296, title IV, §457, Nov. 25, 2002, 116 Stat. 2201; Pub. L. 108–7, div. B, title I, §108, div. L, §107, Feb. 20, 2003, 117 Stat. 67, 532; Pub. L. 108–77, title IV, §402(d)(2), Sept. 3, 2003, 117 Stat. 946; Pub. L. 108–447, div. J, title IV, §§426(b), 427, Dec. 8, 2004, 118 Stat. 3357, 3358; Pub. L. 109–13, div. A, title VI, §6046, div. B, title IV, §403(b), May 11, 2005, 119 Stat. 295, 319; Pub. L. 109–472, §2, Jan. 11, 2007, 120 Stat. 3554; Pub. L. 111–117, div. D, title V, §524(a), Dec. 16, 2009, 123 Stat. 3283.)
 
 #### Amendment of Section
 
@@ -255,6 +255,16 @@ The Federal Advisory Committee Act, referred to in subsec. (k), is Pub. L. 92–
 Section 606 of Public Law 101–162, referred to in subsec. (q)(3)(B), is section 606 of Pub. L. 101–162, title VI, Nov. 21, 1989, 103 Stat. 1031, which is not classified to the Code.
 
 #### Amendments
+
+2009—Subsec. (v)(2)(B), (C). Pub. L. 111–117, which directed substitution of subpars. (B) and (C) for “subparagraphs (B) and (C) that appear within section 426(b) of division J of” Pub. L. 108–447, was executed by adding subpars. (B) and (C) to subsec. (v)(2) and striking out former subpars. (B) and (C), to reflect the probable intent of Congress. See 2004 Amendment note below. Prior to amendment, subpars. (B) and (C) read as follows:
+
+“(B)
+
+Secretary of homeland security.—One-third of the amounts deposited into the Fraud Prevention and Detection Account shall remain available to the Secretary of Homeland Security until expended for programs and activities to prevent and detect fraud with respect to petitions under paragraph (1) or (2)(A) of section 1184(c) of this title to grant an alien nonimmigrant status described in subparagraph (H)(i), (H)(ii), or (L) of section 1101(a)(15) of this title.
+
+“(C)
+
+Secretary of labor.—One-third of the amounts deposited into the Fraud Prevention and Detection Account shall remain available to the Secretary of Labor until expended for enforcement programs and activities described in section 1182(n) of this title.”
 
 2007—Subsec. (v)(2)(A)(i). Pub. L. 109–472, §2(1), inserted “or primarily” after “exclusively”.
 
@@ -320,7 +330,7 @@ Subsec. (s)(4). Pub. L. 106–313, §110(a)(3), amended heading and text of par.
 
 “(A)
 
-Grants for mathematics, engineering, or science enrichment courses.—4 percent of theamounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Director of the National Science Foundation until expended to make merit-reviewed grants, under section 1862(a)(1) of title 42, for programs that provide opportunities for enrollment in year-round academic enrichment courses in mathematics, engineering, or science.
+Grants for mathematics, engineering, or science enrichment courses.—4 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Director of the National Science Foundation until expended to make merit-reviewed grants, under section 1862(a)(1) of title 42, for programs that provide opportunities for enrollment in year-round academic enrichment courses in mathematics, engineering, or science.
 
 “(B)
 
@@ -338,7 +348,7 @@ Pub. L. 106–313, §110(a)(5), substituted “2.5 percent” for “3 percent�
 
 Subsecs. (t), (u). Pub. L. 106–553 added subsecs. (t) and (u).
 
-1999—Subsec. (q)(1)(A)(ii) to (iv). Pub. L. 106–113, which directed amendment of section 286(q)(1)(A) of the Immigration and Nationality Act of 1953 by striking out cl. (ii), redesignating cl. (iii) as (ii), striking out “, until September 30, 2000,” after “submit on a quarterly basis” in cl. (iv), and redesignating cl. (iv) as (iii), was executed by making the amendment to this section, which is section 286 of the Immigration and Nationality Act, to reflect the probable intent of Congress. Prior to amendment, cl. (ii) read as follows: “The program authorized in this subparagraph shall terminate on September 30, 2000, unless further authorized by an Act of Congress.”
+1999—Subsec. (q)(1)(A)(ii) to (iv). Pub. L. 106–113, which directed amendment of section 286(q)(1)(A) of the Immigration and Nationality Act of 1953 by striking out cl. (ii), redesignating cl. (iii) as (ii), striking out“, until September 30, 2000,” after “submit on a quarterly basis” in cl. (iv), and redesignating cl. (iv) as (iii), was executed by making the amendment to this section, which is section 286 of the Immigration and Nationality Act, to reflect the probable intent of Congress. Prior to amendment, cl. (ii) read as follows: “The program authorized in this subparagraph shall terminate on September 30, 2000, unless further authorized by an Act of Congress.”
 
 1998—Subsec. (e)(1)(C). Pub. L. 105–277, §101(b) \[title I, §114\], inserted “State,” before “territory”.
 
@@ -488,6 +498,10 @@ Pub. L. 99–591, §101(b) \[title II, §205\], a corrected version of Pub. L. 9
 
 1981—Subsecs. (b), (c). Pub. L. 97–116 added subsec. (b), redesignated former subsec. (b) as (c), and inserted “and subsection (b)” after “subsection (a)”.
 
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–117, div. D, title V, §524(b), Dec. 16, 2009, 123 Stat. 3284, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 16, 2009\].”
+
 #### Effective and Termination Dates of 2005 Amendment
 
 Amendment by section 403(b) of Pub. L. 109–13 effective 14 days after May 11, 2005, and applicable to filings for a fiscal year after fiscal year 2005, see section 403(c) of Pub. L. 109–13, set out as a note under section 1184 of this title.
@@ -558,7 +572,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 #### Restoration of Provision Regarding Fees to Cover the Full Costs of All Adjudication Services
 
-Pub. L. 108–7, div. L, §107, Feb. 20, 2003, 117 Stat. 532, provided in part: “That no court shall have jurisdictionover any cause or claim arising under the provisions of section 457 of the Homeland Security Act of 2002 (Public Law 107–296) \[amending this section\], this section \[repealing section 457 of Pub. L. 107–296\], or any regulations promulgated thereunder.”
+Pub. L. 108–7, div. L, §107, Feb. 20, 2003, 117 Stat. 532, provided in part: “That no court shall have jurisdiction over any cause or claim arising under the provisions of section 457 of the Homeland Security Act of 2002 (Public Law 107–296) \[amending this section\], this section \[repealing section 457 of Pub. L. 107–296\], or any regulations promulgated thereunder.”
 
 #### Reporting Requirement
 
@@ -580,7 +594,7 @@ Pub. L. 103–317, title V, Aug. 26, 1994, 108 Stat. 1760, provided in part: “
 
 #### Extension of Land Border Fee Pilot Project
 
-Pub. L. 104–208, div. A, §101(a) \[title I\], Sept. 30, 1996, 110 Stat. 3009, 3009–10, provided in part: “That the Land Border Fee Pilot Project scheduled to end September 30, 1996 \[see subsec. (q) of this section\], is extended to September 30, 1999, for projects on both the northern and southern borders of the United States, except that no pilot program may implement a universal land border crossing toll”.
+Pub. L. 104–208, div. A, §101(a) \[title I\], Sept. 30, 1996, 110 Stat. 3009, 3009–10, provided in part: “That the Land Border Fee Pilot Project scheduled to end September 30, 1996 \[see subsec. (q) of this section\], is extended to September 30, 1999, for projects on both the northernand southern borders of the United States, except that no pilot program may implement a universal land border crossing toll”.
 
 Similar provisions were contained in the following prior appropriations act:
 

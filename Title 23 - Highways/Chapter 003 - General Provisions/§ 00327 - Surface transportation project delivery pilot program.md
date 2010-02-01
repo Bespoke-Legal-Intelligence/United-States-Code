@@ -82,7 +82,7 @@ Selection criteria.—The Secretary may approve the application of a State under
 
 &emsp;(5)
 
-Other federal agency views.—If a State applies to assume a responsibility of the Secretary that would have required the Secretaryto consult with another Federal agency, the Secretary shall solicit the views of the Federal agency before approving the application.
+Other federal agency views.—If a State applies to assume a responsibility of the Secretary that would have required the Secretary to consult with another Federal agency, the Secretary shall solicit the views of the Federal agency before approving the application.
 
 (c)
 

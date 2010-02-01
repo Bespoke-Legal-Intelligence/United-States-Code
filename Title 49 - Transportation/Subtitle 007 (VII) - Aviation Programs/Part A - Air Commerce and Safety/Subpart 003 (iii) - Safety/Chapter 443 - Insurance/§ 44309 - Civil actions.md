@@ -30,7 +30,7 @@ Venue and Joinder.—(1) A civil action under subsection (a) of this section may
 
 (c)
 
-Time Requirements.—When an insurance claim is made under this chapter, the period during which, under section 2401 of title 28, a civil action must be brought under subsection (a) of this section is suspended until 60 days after the Secretary of Transportation denies the claim. The claim is deemed to be administratively denied if the Secretary does not act onthe claim not later than 6 months after filing, unless the Secretary makes a different agreement with the claimant when there is good cause for an agreement.
+Time Requirements.—When an insurance claim is made under this chapter, the period during which, under section 2401 of title 28, a civil action must be brought under subsection (a) of this section is suspended until 60 days after the Secretary of Transportation denies the claim. The claim is deemed to be administratively denied if the Secretary does not act on the claim not later than 6 months after filing, unless the Secretary makes a different agreement with the claimant when there is good cause for an agreement.
 
 (d)
 

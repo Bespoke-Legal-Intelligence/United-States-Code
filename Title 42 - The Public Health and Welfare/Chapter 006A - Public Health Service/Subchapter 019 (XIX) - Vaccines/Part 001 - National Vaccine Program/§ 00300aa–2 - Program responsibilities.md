@@ -36,7 +36,7 @@
 
 #### (9) Funding of Federal agencies
 
-&emsp;The Director of the Program shall make available to Federal agencies involved in the implementation of the plan issued under section 300aa–3 of this title funds appropriated under section 300aa–6 of this title to supplement the funds otherwise available to such agencies for activities under the plan.
+&emsp;The Director of the Program shall make available to Federal agencies involved in theimplementation of the plan issued under section 300aa–3 of this title funds appropriated under section 300aa–6 of this title to supplement the funds otherwise available to such agencies for activities under the plan.
 
 (b) In carrying out subsection (a) of this section and in preparing the plan under section 300aa–3 of this title, the Director shall consult with all Federal agencies involved in research on and development, testing, licensing, production, procurement, distribution, and use of vaccines.
 

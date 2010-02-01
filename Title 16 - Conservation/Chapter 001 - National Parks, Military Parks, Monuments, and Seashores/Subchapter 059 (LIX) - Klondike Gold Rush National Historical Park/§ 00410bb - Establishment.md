@@ -26,7 +26,7 @@ For Federal surplus property laws, referred to in subsec. (a), see, generally, s
 
 Subsection 6(i) of the act of July 7, 1958, commonly known as the Alaska Statehood Act, referred to in subsec. (b)(1), probably means subsection (i) of section 6 of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
 
-That portion of the act of February 25, 1920, which is set out at 41 Stat. 449, as referred to in subsec. (c), isclassified to sections 185 to 187 of Title 30, Mineral Lands and Mining. For complete classification of the Act to the Code, see Tables.
+That portion of the act of February 25, 1920, which is set out at 41 Stat. 449, as referred to in subsec. (c), is classified to sections 185 to 187 of Title 30, Mineral Lands and Mining. For complete classification of the Act to the Code, see Tables.
 
 That portion of the act of August 21, 1935, which is set out at 49 Stat. 678, as referred to in subsec. (c), is classified to section 185 of Title 30. For complete classification of the Act to the Code, see Tables.
 

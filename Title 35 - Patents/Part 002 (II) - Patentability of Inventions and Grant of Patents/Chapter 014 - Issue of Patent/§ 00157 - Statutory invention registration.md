@@ -18,7 +18,7 @@
 
 (d) The Director shall report to the Congress annually on the use of statutory invention registrations. Such report shall include an assessment of the degree to which agencies of the Federal Government are making use of the statutory invention registration system, the degree to which it aids the management of federally developed technology, and an assessment of the cost savings to the Federal Government of the use of such procedures.
 
-(Added Pub. L. 98–622, title I, §102(a), Nov. 8, 1984, 98 Stat. 3383; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A), (11)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582, 1501A–583; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(Added Pub. L. 98–622, title I, §102(a), Nov. 8, 1984, 98 Stat. 3383; amended Pub. L. 106–113, div.B, §1000(a)(9) \[title IV, §4732(a)(10)(A), (11)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582, 1501A–583; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Amendments
 

@@ -22,7 +22,7 @@
 
 #### (2) Research
 
-&emsp;Each center under paragraph (1) shall supplement but not replace the establishment of a comprehensive research portfolio in all the muscular dystrophies. As a whole, the centers shall conduct basic and clinical research in allforms of muscular dystrophy including early detection, diagnosis, prevention, and treatment, including the fields of muscle biology, genetics, noninvasive imaging, genetics, pharmacological and other therapies.
+&emsp;Each center under paragraph (1) shall supplement but not replace the establishment of a comprehensive research portfolio in all the muscular dystrophies. As a whole, the centers shall conduct basic and clinical research in all forms of muscular dystrophy including early detection, diagnosis, prevention, and treatment, including the fields of muscle biology, genetics, noninvasive imaging, genetics, pharmacological and other therapies.
 
 #### (3) Coordination of centers
 
@@ -50,7 +50,7 @@ The Director of NIH shall provide for a program under subsection (a)(1) of this 
 
 &emsp;The Coordinating Committee shall consist of not more than 15 members to be appointed by the Secretary, of which—
 
-&emsp;&emsp;(A) 2/3 of such members shall represent governmental agencies, including the directors or their designees of each of the national research institutes involved in research with respect to muscular dystrophy and representatives of all other Federal departments and agencies whose programs involve health functions or responsibilities relevant to such diseases, including the Centers for Disease Control and Prevention, the Health Resources and Services Administration and the Food and Drug Administration and representatives of other governmental agencies that serve children with muscular dystrophy, such as the Department of Education; and
+&emsp;&emsp;(A) 2/3 of such members shall represent governmental agencies, including the directors or their designees of each of the national research institutes involved in research with respect to muscular dystrophy and representatives of all other Federal departments and agencies whose programs involve health functions or responsibilities relevant to such diseases, including the Centers for Disease Control and Prevention, the Health Resources and Services Administration and the Food and Drug Administration and representatives of other governmental agenciesthat serve children with muscular dystrophy, such as the Department of Education; and
 
 &emsp;&emsp;(B) 1/3 of such members shall be public members, including a broad cross section of persons affected with muscular dystrophies including parents or legal guardians, affected individuals, researchers, and clinicians.
 

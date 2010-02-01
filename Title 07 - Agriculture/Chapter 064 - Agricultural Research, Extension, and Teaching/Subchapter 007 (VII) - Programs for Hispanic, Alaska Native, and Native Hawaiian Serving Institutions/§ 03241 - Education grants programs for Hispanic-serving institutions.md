@@ -14,7 +14,7 @@ Grants made under this section shall be used—
 
 &emsp;(3) to attract and support undergraduate and graduate students from underrepresented groups in order to prepare them for careers related to the food, agricultural, and natural resource systems of the United States, beginning with the mentoring of students at the high school level and continuing with the provision of financial support for students through their attainment of a doctoral degree; and
 
-&emsp;(4) to facilitate cooperative initiatives between 2 or more Hispanic-serving institutions,or between Hispanic-serving institutions and units of State government or the private sector, to maximize the development and use of resources, such as faculty, facilities, and equipment, to improve food and agricultural sciences teaching programs.
+&emsp;(4) to facilitate cooperative initiatives between 2 or more Hispanic-serving institutions, or between Hispanic-serving institutions and units of State government or the private sector, to maximize the development and use of resources, such as faculty, facilities, and equipment, to improve food and agricultural sciences teaching programs.
 
 #### (c) Authorization of appropriations
 

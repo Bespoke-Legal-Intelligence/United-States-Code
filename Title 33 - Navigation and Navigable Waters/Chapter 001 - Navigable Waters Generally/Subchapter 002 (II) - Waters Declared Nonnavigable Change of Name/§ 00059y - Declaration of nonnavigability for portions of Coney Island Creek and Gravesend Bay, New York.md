@@ -14,7 +14,7 @@ Unless the Secretary finds, after consultation with local and regional public of
 
 &emsp;North 41 degrees 17 minutes 43 seconds west, 492.47 feet to the said Pierhead Line; thence north 73 degrees 58 minutes 40 seconds west and along said pierhead line, 2,665.25 feet to the intersection of the United States bulkhead line;
 
-&emsp;Thence north 0 degree 19 minutes 35 seconds west and along the United States Bulkhead line 1,138.50 feet to the intersection of the westerly prolongation of the center line of 26th Avenue,
+&emsp;Thence north 0 degree 19 minutes 35 seconds west and along the United States Bulkhead line 1,138.50 feet to the intersection of thewesterly prolongation of the center line of 26th Avenue,
 
 &emsp;Thence north 58 degrees 25 minutes 06 seconds east and along the center line of said 26th Avenue, 2,320.85 feet to the westerly line of Cropsey Avenue, then southeasterly and along the southerly line of Cropsey Avenue the following bearings and distances:
 

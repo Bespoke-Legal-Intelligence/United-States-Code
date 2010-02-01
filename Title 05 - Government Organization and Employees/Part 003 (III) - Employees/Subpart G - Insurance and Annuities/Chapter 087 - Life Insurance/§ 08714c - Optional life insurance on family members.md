@@ -34,7 +34,7 @@
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–311, §8(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) readas follows: “The optional life insurance on family members provided under this section shall be made available to each eligible employee who elects coverage under this section, under conditions the Office shall prescribe, in the amount of $5,000 for a spouse and $2,500 for each child described in section 8701(d). The employee may stop coverage elected under this section at any time.”
+1998—Subsec. (b). Pub. L. 105–311, §8(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The optional life insurance on family members provided under this section shall be made available to each eligible employee who elects coverage under this section, under conditions the Office shall prescribe, in the amount of $5,000 for a spouse and $2,500 for each child described in section 8701(d). The employee may stop coverage elected under this section at any time.”
 
 Subsec. (c)(2). Pub. L. 105–311, §8(b)(1), substituted “section 8714b(c)(2) through (4)” for “section 8714b(c)(2) of this title”.
 
@@ -46,7 +46,7 @@ Subsec. (d)(3). Pub. L. 105–311, §6(4), added par. (3).
 
 Pub. L. 99–335 amended par. (1) generally, effective Jan. 1, 1977. Prior to such effective date, par. (1) read as follows: “Optional life insurance on family members shall stop at the earlier of the employee's death, the employee's separation from the service, 12 months after discontinuance of pay, or the employee's entry on active duty or active duty for training, as provided in sections 8706(a) and 8706(c) of this title, subject to provision for a 31-day temporary extension of insurance coverage and for conversion to individual policies under conditions approved by the Office. Justices and judges of the United States described in section 8701(a)(5)(ii) and (iii) of this chapter are deemed to continue in active employment for purposes of this chapter.”
 
-1984—Subsec. (c)(1). Pub. L. 98–353, §206, as amended generally by Pub. L. 99–336, inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
+1984—Subsec. (c)(1). Pub. L. 98–353, §206, as amended generally by Pub. L. 99–336, inserted sentence which deemed justices and judges described in section8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
 
 #### Effective Date of 1998 Amendment
 

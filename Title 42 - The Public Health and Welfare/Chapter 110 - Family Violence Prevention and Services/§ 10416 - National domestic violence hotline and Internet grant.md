@@ -102,7 +102,7 @@ The Secretary may not award a grant under this section unless the Secretary appr
 
 #### References in Text
 
-This chapter, referred to in subsec. (e)(4), was in the original “this Act” and was translated as reading “thistitle”, meaning title III of Pub. L. 98–457, to reflect the probable intent of Congress.
+This chapter, referred to in subsec. (e)(4), was in the original “this Act” and was translated as reading “this title”, meaning title III of Pub. L. 98–457, to reflect the probable intent of Congress.
 
 #### Amendments
 

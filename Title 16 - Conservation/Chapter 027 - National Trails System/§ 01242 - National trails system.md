@@ -12,7 +12,7 @@ The national system of trails shall be composed of the following:
 
 &emsp;(4) Connecting or side trails, established as provided in section 1245 of this title, which will provide additional points of public access to national recreation, national scenic or national historic trails or which will provide connections between such trails.
 
-The Secretary of the Interior and the Secretary of Agriculture, in consultation with appropriate governmental agencies and public andprivate organizations, shall establish a uniform marker for the national trails system.
+The Secretary of the Interior and the Secretary of Agriculture, in consultation with appropriate governmental agencies and public and private organizations, shall establish a uniform marker for the national trails system.
 
 #### (b) Extended trails
 

@@ -32,7 +32,7 @@ In sections 31a to 31h of this title:
 
 #### (8) State
 
-&emsp;The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico,the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and the Virgin Islands.
+&emsp;The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and the Virgin Islands.
 
 #### (9) State component
 
@@ -43,6 +43,10 @@ In sections 31a to 31h of this title:
 &emsp;The term “Survey” means the United States Geological Survey.
 
 (Pub. L. 102–285, §3, May 18, 1992, 106 Stat. 167; Pub. L. 105–36, §3(a), Aug. 5, 1997, 111 Stat. 1107; Pub. L. 106–148, §3, Dec. 9, 1999, 113 Stat. 1719.)
+
+#### References in Text
+
+Sections 31a to 31h of this title, referred to in text, was in the original “this Act”, meaning Pub. L. 102–285, known as the National Geologic Mapping Act of 1992, which is classified principally to sections 31a to 31h of this title. For complete classification of this Act to the Code, see Short Title note set out under section 31a of this title and Tables.
 
 #### Amendments
 

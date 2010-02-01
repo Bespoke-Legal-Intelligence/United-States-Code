@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(A) the entire record shall be transmitted to the Court of Appeals; and
 
-&emsp;&emsp;(B) information received in camera and ex parte, and any portion of the order thatwould reveal the substance or source of such information, shall be transmitted under seal.
+&emsp;&emsp;(B) information received in camera and ex parte, and any portion of the order that would reveal the substance or source of such information, shall be transmitted under seal.
 
 #### (4) Expedited appellate proceeding
 
@@ -76,7 +76,7 @@ Following a decision by the Court of Appeals pursuant to subsection (c) of this 
 
 #### (1) In general
 
-&emsp;Sections 3145 through 3148 of title 18 pertaining to review and appeal of a release or detention order, penalties for failure to appear, penalties for an offense committed while on release, and sanctions for violation of a release condition shall apply to an alien to whom section 1537(b)(1) of this title applies. In applying the previous sentence—
+&emsp;Sections 3145 through 3148 of title 18 pertaining to review and appeal of a release or detention order, penalties for failure to appear, penalties for an offense committed while on release, and sanctions for violation of a releasecondition shall apply to an alien to whom section 1537(b)(1) of this title applies. In applying the previous sentence—
 
 &emsp;&emsp;(A) for purposes of section 3145 of such title an appeal shall be taken to the United States Court of Appeals for the District of Columbia Circuit; and
 

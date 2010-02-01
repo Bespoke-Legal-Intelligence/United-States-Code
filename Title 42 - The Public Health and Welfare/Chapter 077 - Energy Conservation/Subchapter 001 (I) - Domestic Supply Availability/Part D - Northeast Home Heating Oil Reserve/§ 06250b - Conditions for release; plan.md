@@ -12,7 +12,7 @@ The Secretary may sell products from the Reserve only upon a finding by the Pres
 
 For purposes of this section a “dislocation in the heating oil market” shall be deemed to occur only when—
 
-&emsp;(1) The price differential between crude oil, as reflected in an industry daily publicationsuch as “Platt's Oilgram Price Report” or “Oil Daily” and No. 2 heating oil, as reported in the Energy Information Administration's retail price data for the Northeast, increases by more than 60 percent over its 5-year rolling average for the months of mid-October through March (considered as a heating season average), and continues for 7 consecutive days; and
+&emsp;(1) The price differential between crude oil, as reflected in an industry daily publication such as “Platt's Oilgram Price Report” or “Oil Daily” and No. 2 heating oil, as reported in the Energy Information Administration's retail price data for the Northeast, increases by more than 60 percent over its 5-year rolling average for the months of mid-October through March (considered as a heating season average), and continues for 7 consecutive days; and
 
 &emsp;(2) The price differential continues to increase during the most recent week for which price information is available.
 
@@ -50,7 +50,7 @@ Within 45 days of November 9, 2000, the Secretary shall transmit to the Presiden
 
 &emsp;(6) actions to ensure quality of the petroleum distillate in the Reserve.
 
-(Pub. L. 94–163, title I, §183, as added Pub. L. 106–469, title II, §201(a)(3), Nov. 9, 2000, 114 Stat. 2035; amended Pub. L. 109–58, title III, §301(d), Aug. 8, 2005, 119 Stat. 684.)
+(Pub. L. 94–163, title I, §183, as added Pub. L. 106–469, title II, §201(a)(3), Nov. 9, 2000, 114 Stat.2035; amended Pub. L. 109–58, title III, §301(d), Aug. 8, 2005, 119 Stat. 684.)
 
 #### Amendments
 

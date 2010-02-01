@@ -20,7 +20,7 @@ The Secretary of Agriculture shall—
 
 #### (1) Agreements authorized
 
-&emsp;The Secretary may enter into cooperative agreements with private entities described in subsection (d) of this section, under which the facilities and technical expertise of the Agricultural Research Service may be made available to operate pilot plants and other large-scale preparation facilities for the purpose of bringing technologies necessary for the development and commercialization of newbiobased products to the point of practical application.
+&emsp;The Secretary may enter into cooperative agreements with private entities described in subsection (d) of this section, under which the facilities and technical expertise of the Agricultural Research Service and the Forest Service may be made available to operate pilot plants and other large-scale preparation facilities for the purpose of bringing technologies necessary for the development and commercialization of new biobased products to the point of practical application.
 
 #### (2) Description of cooperative activities
 
@@ -31,6 +31,10 @@ The Secretary of Agriculture shall—
 &emsp;&emsp;(B) methods to reduce the cost of manufacturing a biobased product; and
 
 &emsp;&emsp;(C) other appropriate research.
+
+#### (3) Authority of Secretary
+
+&emsp;To carry out a cooperative agreement with a private entity under paragraph (1), the Secretary may rent to the private entity equipment, the title of which is held by the Federal Government.
 
 #### (d) Eligible partners
 
@@ -72,7 +76,7 @@ For the purpose of determining the market potential for new biobased products pr
 
 There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2012.
 
-(Pub. L. 105–185, title IV, §404, June 23, 1998, 112 Stat. 570; Pub. L. 107–171, title VI, §6201(d)(4), title VII, §7124, May 13, 2002, 116 Stat. 419, 434; Pub. L. 110–234, title VII, §7304, May 22, 2008, 122 Stat. 1242; Pub. L. 110–246, §4(a), title VII, §7304, June 18, 2008, 122 Stat. 1664, 2003.)
+(Pub. L. 105–185, title IV, §404, June 23, 1998, 112 Stat. 570; Pub. L. 107–171, title VI, §6201(d)(4), title VII, §7124, May 13, 2002, 116 Stat. 419, 434; Pub. L. 110–234, title VII, §7304, May 22, 2008, 122 Stat. 1242; Pub. L. 110–246, §4(a), title VII, §7304, June 18, 2008, 122 Stat. 1664, 2003; Pub. L. 111–88, div. A, title IV, §431, Oct. 30, 2009, 123 Stat. 2964.)
 
 #### References in Text
 
@@ -83,6 +87,10 @@ The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2009—Subsec. (c)(1). Pub. L. 111–88, §431(1), substituted “Agricultural Research Service and the Forest Service” for “Agricultural Research Service”.
+
+Subsec. (c)(3). Pub. L. 111–88, §431(2), added par. (3).
 
 2008—Subsec. (e)(2). Pub. L. 110–246, §7304(a), substituted “2012” for “2007”.
 

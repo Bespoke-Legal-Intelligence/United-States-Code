@@ -4,7 +4,7 @@
 
 &emsp;(1) after February 2, 1991, is involuntarily separated (as such term is defined in section 1141 of title 10) with an honorable discharge;
 
-&emsp;(2) before applying for benefits under this section, has completed the requirements of a secondary school diploma (or equivalency certificate) or has successfully completed (or otherwise received academic credit for) the equivalent of 12 semester hours in a programof education leading to a standard college degree;
+&emsp;(2) before applying for benefits under this section, has completed the requirements of a secondary school diploma (or equivalency certificate) or has successfully completed (or otherwise received academic credit for) the equivalent of 12 semester hours in a program of education leading to a standard college degree;
 
 &emsp;(3) in the case of any individual who has made an election under section 3011(c)(1) or 3012(d)(1) of this title, withdraws such election before such separation pursuant to procedures which the Secretary of each military department shall provide in accordance with regulations prescribed by the Secretary of Defense for the purpose of carrying out this section or which the Secretary of Homeland Security shall provide for such purpose with respect to the Coast Guard when it is not operating as a service in the Navy;
 
@@ -44,7 +44,7 @@ Subsec. (d)(3). Pub. L. 109–233, §503(5)(B), (C), struck out “of this subse
 
 1998—Subsec. (a)(2). Pub. L. 105–368 substituted “successfully completed (or otherwise received academic credit for)” for “successfully completed”.
 
-1994—Subsec. (a)(1). Pub. L. 103–446, §1201(i)(4), substituted “after February 2, 1991,” for “after December 31, 1990, or the end of the 90-day period beginning on the date of the enactment of this section, whichever is later,”.
+1994—Subsec. (a)(1). Pub. L. 103–446, §1201(i)(4), substituted “after February 2, 1991,” for “after December 31, 1990, or the end of the 90-day period beginning on thedate of the enactment of this section, whichever is later,”.
 
 Subsec. (d)(3). Pub. L. 103–446, §1201(d)(4), substituted “section 3015(f)” for “section 3015(e)”.
 

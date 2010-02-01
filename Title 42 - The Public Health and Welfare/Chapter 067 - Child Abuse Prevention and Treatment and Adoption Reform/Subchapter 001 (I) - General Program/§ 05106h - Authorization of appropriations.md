@@ -20,7 +20,7 @@
 
 The Secretary shall ensure that funds appropriated pursuant to authorizations in this subchapter shall remain available until expended for the purposes for which they were appropriated.
 
-(Pub. L. 93–247, title I, §112, formerly §15, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 117; renumbered title I, §114, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(8), Oct.25, 1989, 103 Stat. 764, 765; Pub. L. 102–295, title I, §117(a), May 28, 1992, 106 Stat. 197; renumbered §112 and amended Pub. L. 104–235, title I, §§111, 113(a)(1)(B), Oct. 3, 1996, 110 Stat. 3078, 3079; Pub. L. 108–36, title I, §117, June 25, 2003, 117 Stat. 812.)
+(Pub. L. 93–247, title I, §112, formerly §15, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 117; renumbered title I, §114, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(8), Oct. 25, 1989, 103 Stat. 764, 765; Pub. L. 102–295, title I, §117(a), May 28, 1992, 106 Stat. 197; renumbered §112 and amended Pub. L. 104–235, title I, §§111, 113(a)(1)(B), Oct. 3, 1996, 110 Stat. 3078, 3079; Pub. L. 108–36, title I, §117, June 25, 2003, 117 Stat. 812.)
 
 #### Prior Provisions
 

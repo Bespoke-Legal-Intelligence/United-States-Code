@@ -22,7 +22,7 @@ Under such regulations as the Secretary may prescribe and subject to the provisi
 
 (4) Any citizen of the United States who, during any war in which the United States is or has been engaged, served in the armed forces of any government allied with the United States during that war, and whose last such service terminated honorably.
 
-(5) The spouse, surviving spouse (which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7).
+(5) The spouse, surviving spouse (which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7).
 
 (6) Such other persons or classes of persons as may be designated by the Secretary.
 

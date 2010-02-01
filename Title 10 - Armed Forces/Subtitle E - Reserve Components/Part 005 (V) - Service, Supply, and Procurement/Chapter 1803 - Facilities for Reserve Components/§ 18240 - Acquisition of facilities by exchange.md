@@ -2,7 +2,7 @@
 
 (a)
 
-Exchange Authority.—In addition to the acquisition authority provided by section 18233 of this title, the Secretary of Defense may authorize the Secretary of a military department to acquire a facility, or addition to an existing facility, needed to satisfy military requirementsfor a reserve component by carrying out an exchange of an existing facility under the control of that Secretary through an agreement with an Executive agency (as defined in section 105 of title 5), the United States Postal Service, or a State, local government, local authority, or private entity. The acquisition of a facility or an addition to an existing facility under this section may include the acquisition of utilities, equipment, and furnishings for the facility.
+Exchange Authority.—In addition to the acquisition authority provided by section 18233 of this title, the Secretary of Defense may authorize the Secretary of a military department to acquire a facility, or addition to an existing facility, needed to satisfy military requirements for a reserve component by carrying out an exchange of an existing facility under the control of that Secretary through an agreement with an Executive agency (as defined in section 105 of title 5), the United States Postal Service, or a State, local government, local authority, or private entity. The acquisition of a facility or an addition to an existing facility under this section may include the acquisition of utilities, equipment, and furnishings for the facility.
 
 (b)
 
@@ -64,7 +64,7 @@ Subsec. (c). Pub. L. 109–163, §2808(a)(2), inserted “including any utilitie
 
 #### Temporary Authority To Include Cash Equalization Payments in Exchange
 
-Pub. L. 108–375, div. B, title XXVIII, §2809(c), Oct. 28, 2004, 118 Stat. 2127, as amended by Pub. L. 109–163, div.B, title XXVIII, §2808(b), Jan. 6, 2006, 119 Stat. 3508; Pub. L. 110–181, div. B, title XXVIII, §2805, Jan. 28, 2008, 122 Stat. 540, provided that:
+Pub. L. 108–375, div. B, title XXVIII, §2809(c), Oct. 28, 2004, 118 Stat. 2127, as amended by Pub. L. 109–163, div. B, title XXVIII, §2808(b), Jan. 6, 2006, 119 Stat. 3508; Pub. L. 110–181, div. B, title XXVIII, §2805, Jan. 28, 2008, 122 Stat. 540, provided that:
 
 “(1) Notwithstanding subsection (c) of section 18240 of title 10, United States Code, as added by subsection (a), the Secretary of Defense may authorize the Secretary of a military department, as part of an exchange agreement under such section, to make or accept a cash equalization payment if the value of the facility, or addition to an existing facility, including any utilities, equipment, and furnishings, to be acquired by the United States under the agreement is not equal to the fair market value of the facility to be conveyed by the United States under the agreement. All other requirements of such section shall continue to apply to the exchange.
 

@@ -16,7 +16,7 @@
 
 (c) A member who retired after August 9, 1946, who is continued on, or is recalled to active duty, may have his leave which accumulated during his service before retirement carried over to his period of service after retirement.
 
-(d) Notwithstanding subsection (b), during the period beginning on October 1, 2008, through December 31, 2010, a member may accumulate up to 75 days of leave.
+(d) Notwithstanding subsection (b), during the period beginning on October 1, 2008, through September 30, 2013, a member may accumulate up to 75 days of leave.
 
 (e) Leave taken before discharge is considered to be active service.
 
@@ -42,7 +42,7 @@
 
 > Leave accumulated while in missing status shall be accounted for separately. It may not be taken, but shall be paid for under section 501(h) of title 37. However, a member whose death is prescribed or determined under section 555 or 556 of title 37 may, in addition to leave accrued before entering a missing status, accrue not more than 150 days’ leave during the period he is in a missing status, unless his actual death occurs on a date when, had he lived, he would have accrued leave in excess of 150 days, in which event settlement will be made for the number of days accrued to the actual date of death. Leave so accrued in a missing status shall be accounted for separately and paid for under the provisions of section 501 of title 37.
 
-(h) A member who has taken leave in excess of that authorized by this section and who is beingdischarged or released from active duty for the purpose of accepting an appointment or a warrant in an armed force, or of entering into an enlistment or an extension of an enlistment in an armed force, may elect to have excess leave of up to 30 days or the maximum number of days of leave that could be earned in the new term of service, whichever is less, carried over to that new term of service to count against leave that will accrue on the new term of service. A member shall be required, at the time of his discharge or release from active duty, to pay for excess leave not carried over under this subsection.
+(h) A member who has taken leave in excess of that authorized by this section and who is being discharged or released from active duty for the purpose of accepting an appointment or a warrant in an armed force, or of entering into an enlistment or an extension of an enlistment in an armed force, may elect to have excess leave of up to 30 days or the maximum number of days of leave that could be earned in the new term of service, whichever is less, carried over to that new term of service to count against leave that will accrue on the new term of service. A member shall be required, at the time of his discharge or release from active duty, to pay for excess leave not carried over under this subsection.
 
 (i)(1) Under regulations prescribed by the Secretary of Defense, a member of the armed forces adopting a child in a qualifying child adoption is allowed up to 21 days of leave in a calendar year to be used in connection with the adoption.
 
@@ -56,7 +56,7 @@
 
 (2) Leave under paragraph (1) is in addition to other leave authorized under this section.
 
-(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 89–151, §3, Aug. 28, 1965, 79 Stat. 586; Pub. L. 90–245, §1, Jan. 2, 1968, 81 Stat. 782; Pub. L. 92–596, §1, Oct. 27, 1972, 86 Stat. 1317; Pub. L. 96–579, §10, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–81, §2(a), Nov. 20, 1981, 95 Stat. 1085; Pub. L. 98–94, title X, §1031(a), Sept. 24, 1983, 97 Stat. 671; Pub. L. 98–525, title XIV, §1405(18), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–661, div. A, title V, §506(a), Nov. 14, 1986, 100 Stat. 3864; Pub. L. 102–190, div. A, title VI, §638, Dec. 5, 1991, 105 Stat. 1384; Pub. L. 108–136, div. A, title V, §542(a), Nov. 24, 2003, 117 Stat. 1478; Pub. L. 109–163, div. A, title V, §593(a), title VI, §682, Jan. 6, 2006, 119 Stat. 3280, 3321; Pub. L. 110–181, div. A, title V, §551(a)–(c), Jan. 28, 2008, 122 Stat. 117; Pub. L. 110–417, \[div. A\], title V, §532(a), Oct. 14, 2008, 122 Stat. 4449.)
+(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 89–151, §3, Aug. 28, 1965, 79 Stat. 586; Pub. L. 90–245, §1, Jan. 2, 1968, 81 Stat. 782; Pub. L. 92–596, §1, Oct. 27, 1972, 86 Stat. 1317; Pub. L. 96–579, §10, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–81, §2(a), Nov. 20, 1981, 95 Stat. 1085; Pub. L. 98–94, title X, §1031(a), Sept. 24, 1983, 97 Stat. 671; Pub. L. 98–525, title XIV, §1405(18), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–661, div. A, title V, §506(a), Nov. 14, 1986, 100 Stat. 3864; Pub. L. 102–190, div. A, title VI, §638, Dec. 5, 1991, 105 Stat. 1384; Pub. L. 108–136, div. A, title V, §542(a), Nov. 24, 2003, 117 Stat. 1478; Pub. L. 109–163, div. A, title V, §593(a), title VI, §682, Jan. 6, 2006, 119 Stat. 3280, 3321; Pub. L. 110–181, div. A, title V, §551(a)–(c), Jan. 28, 2008, 122 Stat. 117; Pub. L. 110–417, \[div. A\], title V, §532(a), Oct. 14, 2008, 122 Stat. 4449; Pub. L. 111–84, div. A, title V, §504, Oct. 28, 2009, 123 Stat. 2277.)
 
 Historical and Revision Notes
 
@@ -100,6 +100,8 @@ In subsection (e), the words “before or after August 9, 1946” and section 31
 
 #### Amendments
 
+2009—Subsec. (d). Pub. L. 111–84 substituted “September 30, 2013” for “December 31, 2010”.
+
 2008—Subsec. (b). Pub. L. 110–181, §551(a)(1), substituted “subsections (d), (f), and (g)” for “subsection (f) and subsection (g)”.
 
 Subsec. (d). Pub. L. 110–181, §551(a)(2), added subsec. (d).
@@ -128,7 +130,7 @@ Subsec. (i). Pub. L. 109–163, §593(a), added subsec. (i).
 
 2003—Subsec. (f)(1). Pub. L. 108–136 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Under uniform regulations to be prescribed by the Secretary concerned, and approved by the Secretary of Defense, a member who serves on active duty for a continuous period of at least 120 days in an area in which he is entitled to special pay under section 310(a) of title 37 or a member assigned to a deployable ship, mobile unit, or to other duty designated for the purpose of this section, may accumulate 90 days’ leave. Except as provided in paragraph (2), leave in excess of 60 days accumulated under this subsection is lost unless it is used by the member before the end of the third fiscal year after the fiscal year in which the service terminated.”
 
-1991—Subsec. (f). Pub. L. 102–190 designated existing provisions as par. (1), substituted “Except as providedin paragraph (2), leave” for “Leave” in last sentence, and added par. (2).
+1991—Subsec. (f). Pub. L. 102–190 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), leave” for “Leave” in last sentence, and added par. (2).
 
 1986—Subsec. (h). Pub. L. 99–661 added subsec. (h).
 

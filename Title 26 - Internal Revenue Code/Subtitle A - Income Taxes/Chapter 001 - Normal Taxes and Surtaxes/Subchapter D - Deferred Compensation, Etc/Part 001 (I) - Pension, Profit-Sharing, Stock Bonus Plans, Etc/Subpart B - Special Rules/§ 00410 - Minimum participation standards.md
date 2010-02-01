@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(i) In the case of any plan which provides that after not more than 2 years of service each participant has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable (within the meaning of section 411) at the time such benefit accrues, clause (ii) of subparagraph (A) shall be applied by substituting “2 years of service” for “1 year of service”.
 
-&emsp;&emsp;(ii) In the case of any plan maintained exclusively for employees of an educational institution (as defined in section 170(b)(1)(A)(ii) by an employer which is exempt from tax under section 501(a) which provides that each participant having at least 1 year of service has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable (within the meaning of section 411) at the time such benefit accrues, clause (i) of subparagraph (A) shall be applied by substituting “26” for “21”. This clause shall not apply to any plan to which clause (i) applies.
+&emsp;&emsp;(ii) In the case of any plan maintained exclusively for employees of an educational institution (as defined in section 170(b)(1)(A)(ii) by an employer which is exempt from tax under section 501(a) which provides that each participant having at least 1 year of service has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable (within the meaning of section 411) at the time such benefit accrues, clause (i) of subparagraph (A) shall beapplied by substituting “26” for “21”. This clause shall not apply to any plan to which clause (i) applies.
 
 #### (2) Maximum age conditions
 
@@ -164,7 +164,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “benefit percentage” means the employer-provided contribution or benefit of an employee under all qualifiedplans maintained by the employer, expressed as a percentage of such employee's compensation (within the meaning of section 414(s)).
+&emsp;&emsp;&emsp;The term “benefit percentage” means the employer-provided contribution or benefit of an employee under all qualified plans maintained by the employer, expressed as a percentage of such employee's compensation (within the meaning of section 414(s)).
 
 #### (ii) Period for computing percentage
 
@@ -192,7 +192,7 @@
 
 &emsp;For purposes of this subsection, there shall be excluded from consideration—
 
-&emsp;&emsp;(A) employees who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that retirement benefits were the subject of good faith bargaining between such employee representatives and such employer or employers,
+&emsp;&emsp;(A) employees who are included in a unit of employees covered by an agreement whichthe Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that retirement benefits were the subject of good faith bargaining between such employee representatives and such employer or employers,
 
 &emsp;&emsp;(B) in the case of a trust established or maintained pursuant to an agreement which the Secretary of Labor finds to be a collective bargaining agreement between air pilots represented in accordance with title II of the Railway Labor Act and one or more employers, all employees not covered by such agreement, and
 
@@ -312,7 +312,7 @@
 
 &emsp;An election under this subsection with respect to any church plan shall be binding with respect to such plan, and, once made, shall be irrevocable.
 
-(Added Pub. L. 93–406, title II, §1011, Sept. 2, 1974, 88 Stat. 898; amended Pub. L. 94–455, title XIX, §§1901(a)(61), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1774, 1834; Pub. L. 96–605, title II, §225(a), Dec. 28, 1980, 94 Stat. 3529; Pub. L. 97–34, title I, §111(b)(4), Aug. 13, 1981, 95 Stat. 194; Pub. L. 98–397, title II, §202(a), (d)(1), (e)(1), Aug. 23, 1984, 98 Stat. 1436–1438; Pub. L. 99–509, title IX, §9203(a)(2), Oct. 21, 1986, 100 Stat. 1979; Pub. L. 99–514, title XI, §§1112(a), 1113(c), (d)(A), Oct. 22, 1986, 100 Stat. 2440, 2447; Pub. L. 100–647, title I,§1011(h)(1), (2), (11), title III, §3021(a)(13)(B), Nov. 10, 1988, 102 Stat. 3464, 3467, 3631; Pub. L. 101–239, title VII, §7841(d)(6), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 105–34, title XV, §1505(a)(3), Aug. 5, 1997, 111 Stat. 1063; Pub. L. 109–280, title IV, §402(h)(1), Aug. 17, 2006, 120 Stat. 927.)
+(Added Pub. L. 93–406, title II, §1011, Sept. 2, 1974, 88 Stat. 898; amended Pub. L. 94–455, title XIX, §§1901(a)(61), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1774, 1834; Pub. L. 96–605, title II, §225(a), Dec. 28, 1980, 94 Stat. 3529; Pub. L. 97–34, title I, §111(b)(4), Aug. 13, 1981, 95 Stat. 194; Pub. L. 98–397, title II, §202(a), (d)(1), (e)(1), Aug. 23, 1984, 98 Stat. 1436–1438; Pub. L. 99–509, title IX, §9203(a)(2), Oct. 21, 1986, 100 Stat. 1979; Pub. L. 99–514, title XI, §§1112(a), 1113(c), (d)(A), Oct. 22, 1986, 100 Stat. 2440, 2447; Pub. L. 100–647, title I, §1011(h)(1), (2), (11), title III, §3021(a)(13)(B), Nov. 10, 1988, 102 Stat. 3464, 3467, 3631; Pub. L. 101–239, title VII, §7841(d)(6), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 105–34, title XV, §1505(a)(3), Aug. 5, 1997, 111 Stat. 1063; Pub. L. 109–280, title IV, §402(h)(1), Aug. 17, 2006, 120 Stat. 927.)
 
 #### References in Text
 
@@ -514,7 +514,7 @@ Vesting.—In the case of a plan to which section 411 of the Internal Revenue Co
 
 “(g) 3-
 
-Year Delay for Certain Provisions.—Subparagraphs (B) and (C) of section 404(a)(1) shall apply only in the case of plan years beginning on or after 3 years after the date of the enactment of this Act \[Sept. 2, 1974\].
+Year Delay for Certain Provisions.—Subparagraphs (B) and (C) of section 404(a)(1) shall apply only in the case of plan years beginning on or after 3years after the date of the enactment of this Act \[Sept. 2, 1974\].
 
 “(h)(1) Except as provided in paragraph (2), section 413 of the Internal Revenue Code of 1986 shall apply to plan years beginning after December 31, 1953.
 

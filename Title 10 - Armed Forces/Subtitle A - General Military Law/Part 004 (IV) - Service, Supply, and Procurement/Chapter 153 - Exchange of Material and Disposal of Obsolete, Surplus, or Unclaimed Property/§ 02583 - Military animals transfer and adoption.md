@@ -12,7 +12,7 @@ Availability for Adoption.—The Secretary of the military department concerned 
 
 (b)
 
-Suitability for Adoption.—The decision whether a particular military animal is suitableor unsuitable for adoption under this section shall be made by the commander of the last unit to which the animal is assigned before being declared excess. The unit commander shall consider the recommendations of the unit's veterinarian in making the decision regarding the adoptability of the animal.
+Suitability for Adoption.—The decision whether a particular military animal is suitable or unsuitable for adoption under this section shall be made by the commander of the last unit to which the animal is assigned before being declared excess. The unit commander shall consider the recommendations of the unit's veterinarian in making the decision regarding the adoptability of the animal.
 
 (c)
 

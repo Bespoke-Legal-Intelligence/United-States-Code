@@ -14,7 +14,7 @@ There are authorized to be appropriated to the President to carry out this chapt
 
 Loans available under section 2763 of this title shall be provided at rates of interest that are not less than the current average market yield on outstanding marketable obligations of the United States of comparable maturities.
 
-(Pub. L. 90–629, ch. 3, §31, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 91–672, §2, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 92–226, pt. IV, §401(a), (b), Feb. 7, 1972, 86 Stat. 32; Pub. L. 93–189, §25(5), (6), Dec. 17, 1973, 87 Stat. 730; Pub. L. 93–559, §45(a)(6), (7), Dec. 30, 1974, 88 Stat. 1815; Pub. L. 94–329, title II, §210(a)–(c)(1), June 30, 1976, 90 Stat. 740; Pub. L. 95–92, §19, Aug. 4, 1977, 91 Stat. 623; Pub. L. 95–384, §20, Sept. 26, 1978, 92 Stat. 741; Pub. L. 96–92, §17(a), Oct. 29, 1979, 93 Stat. 708; Pub. L. 96–533, title I, §§104(d), 105(b)(3), 106(a)–(c), Dec. 16, 1980, 94 Stat. 3133–3136; Pub. L. 97–113, title I, §105, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 969, 970; Pub. L. 99–83, title I, §101(a), (b), Aug. 8, 1985, 99 Stat. 193; Pub. L. 101–513, title V, §596(c), Nov. 5, 1990, 104 Stat. 2062; Pub. L. 104–164, title I, §§101, 104(b)(2)(C), July 21, 1996, 110 Stat. 1422, 1427.)
+(Pub. L. 90–629, ch. 3, §31, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 91–672, §2, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 92–226, pt. IV, §401(a), (b), Feb. 7, 1972, 86 Stat. 32; Pub. L. 93–189, §25(5), (6), Dec. 17, 1973, 87 Stat. 730; Pub. L. 93–559, §45(a)(6), (7), Dec. 30,1974, 88 Stat. 1815; Pub. L. 94–329, title II, §210(a)–(c)(1), June 30, 1976, 90 Stat. 740; Pub. L. 95–92, §19, Aug. 4, 1977, 91 Stat. 623; Pub. L. 95–384, §20, Sept. 26, 1978, 92 Stat. 741; Pub. L. 96–92, §17(a), Oct. 29, 1979, 93 Stat. 708; Pub. L. 96–533, title I, §§104(d), 105(b)(3), 106(a)–(c), Dec. 16, 1980, 94 Stat. 3133–3136; Pub. L. 97–113, title I, §105, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 969, 970; Pub. L. 99–83, title I, §101(a), (b), Aug. 8, 1985, 99 Stat. 193; Pub. L. 101–513, title V, §596(c), Nov. 5, 1990, 104 Stat. 2062; Pub. L. 104–164, title I, §§101, 104(b)(2)(C), July 21, 1996, 110 Stat. 1422, 1427.)
 
 #### Amendments
 
@@ -26,7 +26,7 @@ Subsec. (d). Pub. L. 104–164, §104(b)(2)(C), struck out subsec. (d) which rea
 
 1985—Subsec. (a). Pub. L. 99–83, §101(a), substituted provisions authorizing appropriations of $5,371,000,000 for fiscal years 1986 and 1987, for provisions authorizing appropriations of $800,000,000 for fiscal years 1982 and 1983.
 
-Subsec. (b). Pub. L. 99–83, §101(b), amended subsec. (b) generally, substituting provisions relating to maximum amount of credits authorized for fiscal years 1986 and 1987 and maximum amounts of such credits available at concessional rates of interest for such years, for provisions relating to maximum amounts of credits (orparticipations in credits) and loans guaranteed for fiscal years 1982 and 1983, and credit, etc., programs with respect to specific countries.
+Subsec. (b). Pub. L. 99–83, §101(b), amended subsec. (b) generally, substituting provisions relating to maximum amount of credits authorized for fiscal years 1986 and 1987 and maximum amounts of such credits available at concessional rates of interest for such years, for provisions relating to maximum amounts of credits (or participations in credits) and loans guaranteed for fiscal years 1982 and 1983, and credit, etc., programs with respect to specific countries.
 
 Subsec. (c). Pub. L. 99–83, §101(b), amended subsec. (c) generally, substituting provisions relating to extended repayment terms for credits provided for fiscal years 1986 and 1987, for provisions relating to funds made available for fiscal year 1984 to finance procurement of defense articles, etc., by Israel.
 
@@ -66,7 +66,7 @@ Subsec. (c). Pub. L. 95–384, §20(c), substituted “fiscal year 1979” for �
 
 Subsec. (d). Pub. L. 95–384, §20(d), substituted “$150,000,000” for “$100,000,000”.
 
-1977—Subsec. (a). Pub. L. 95–92, §19(1), substituted “$677,000,000 for the fiscal year 1978” for “$1,039,000,000 for the fiscal year 1976 and not to exceed $740,000,000 for the fiscal year 1977”.
+1977—Subsec. (a). Pub. L. 95–92, §19(1), substituted “$677,000,000 for the fiscal year 1978” for “$1,039,000,000for the fiscal year 1976 and not to exceed $740,000,000 for the fiscal year 1977”.
 
 Subsec. (b). Pub. L. 95–92, §19(2), substituted “$2,102,350,000 for the fiscal year 1978” for “$2,374,700,000 for the fiscal year 1976, of which not less than $1,500,000,000 shall be available only for Israel, and shall not exceed $2,022,100,000 for the fiscal year 1977”.
 
@@ -84,7 +84,7 @@ Subsec. (b). Pub. L. 93–559, §45(a)(7), substituted “$872,500,000 for the f
 
 1973—Subsec. (a). Pub. L. 93–189, §25(5), substituted provision authorizing appropriation of not more than $325,000,000 for the fiscal year 1974, for provision authorizing appropriation of not more than $400,000,000 for the fiscal year 1972.
 
-Subsec. (b). Pub. L. 93–189, §25(6), substituted provisions setting out the foreign military sales credit ceiling of $730,000,000 for the fiscal year 1974, of which amount not less than $300,000,000 shall be made available to Israel, for provisions setting out such ceiling of $550,000,000 for the fiscal year 1972, of which amount notless than $300,000,000 shall be made available to Israel, and such amount to exclude credits covered by guaranties issued under section 2764(b) of this title.
+Subsec. (b). Pub. L. 93–189, §25(6), substituted provisions setting out the foreign military sales credit ceiling of $730,000,000 for the fiscal year 1974, of which amount not less than $300,000,000 shall be made available to Israel, for provisions setting out such ceiling of $550,000,000 for the fiscal year 1972, of which amount not less than $300,000,000 shall be made available to Israel, and such amount to exclude credits covered by guaranties issued under section 2764(b) of this title.
 
 1972—Subsec. (a). Pub. L. 92–226, §401(a), substituted provision authorizing appropriation of not more than $400,000,000 for the fiscal year 1972, for provisions authorizing appropriation of not more than $250,000,000 for each of the fiscal years 1970 and 1971.
 

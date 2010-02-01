@@ -60,7 +60,7 @@ Sept. 21, 1950, ch. 975, title I, §114, as added Nov. 8, 1978, Pub. L. 95–606
 
 Pub. L. 105–277, §142(h)(2), inserted “the Paralympic Games,” before “the Pan-American Games”.
 
-Pub. L. 105–277, §142(h)(3), inserted at end “In any lawsuit relating to the resolution of a dispute involving the opportunity of an amateur athlete to participate in the Olympic Games, the Paralympic Games, or the Pan-American Games, a court shall not grant injunctive relief against the corporation within 21 days before the beginning of such games if the corporation, after consultation with the chair of the Athletes’ Advisory Council, has provided a sworn statement in writing executed by an officer of the corporation to such courtthat its constitution and bylaws cannot provide for the resolution of such dispute prior to the beginning of such games.”
+Pub. L. 105–277, §142(h)(3), inserted at end “In any lawsuit relating to the resolution of a dispute involving the opportunity of an amateur athlete to participate in the Olympic Games, the Paralympic Games, or the Pan-American Games, a court shall not grant injunctive relief against the corporation within 21 days before the beginning of such games if the corporation, after consultation with the chair of the Athletes’ Advisory Council, has provided a sworn statement in writing executed by an officer of the corporation to such court that its constitution and bylaws cannot provide for the resolution of such dispute prior to the beginning of such games.”
 
 Subsec. (b). Pub. L. 105–277, §142(h)(4), added subsec. (b).
 

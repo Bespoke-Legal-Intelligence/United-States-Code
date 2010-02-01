@@ -128,7 +128,7 @@ Pub. L. 109–59, title IV, §4133, Aug. 10, 2005, 119 Stat. 1744, provided that
 
 #### Interstate Van Operations
 
-Pub. L. 109–59, title IV, §4136, Aug. 10, 2005, 119 Stat. 1745, provided that: “The Federal motor carrier safety regulations that apply to interstate operations of commercial motor vehicles designed to transport between 9 and 15 passengers (including the driver) shall apply toall interstate operations of such carriers regardless of the distance traveled.”
+Pub. L. 109–59, title IV, §4136, Aug. 10, 2005, 119 Stat. 1745, provided that: “The Federal motor carrier safety regulations that apply to interstate operations of commercial motor vehicles designed to transport between 9 and 15 passengers (including the driver) shall apply to all interstate operations of such carriers regardless of the distance traveled.”
 
 #### Authority To Promulgate Safety Standards for Retrofitting
 
@@ -172,7 +172,7 @@ Snow and ice removal.—A State may waive the requirements of chapter 313 of tit
 
 “(b)
 
-Preemption.—Except as provided in subsection (a)(4), nothing contained in this section shall require the preemption of State laws and regulations concerning the safe operation of commercial motor vehicles as the result of exemptions from Federal requirements provided under this section.
+Preemption.—Except as provided in subsection (a)(4), nothing contained in this section shall requirethe preemption of State laws and regulations concerning the safe operation of commercial motor vehicles as the result of exemptions from Federal requirements provided under this section.
 
 “(c)
 
@@ -246,7 +246,7 @@ Pub. L. 105–178, title IV, §4008(b), June 9, 1998, 112 Stat. 404, provided th
 
 #### Improved Interstate School Bus Safety
 
-Pub. L. 105–178, title IV, §4024, June 9, 1998, 112 Stat. 416, as amended by Pub. L. 107–110, title X, §1076(ii), Jan. 8, 2002, 115 Stat. 2094, provided that: “Not later than 6 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall initiate a rulemaking proceeding to determine whether or not relevant commercial motor carrier safety regulations issued under section 31136 of title 49, United States Code, should apply to all interstate school transportation operations by local educational agencies (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\]).”
+Pub. L. 105–178, title IV, §4024, June 9, 1998, 112 Stat. 416, as amended by Pub. L. 107–110, title X, §1076(ii), Jan. 8, 2002, 115 Stat. 2094, provided that: “Not laterthan 6 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall initiate a rulemaking proceeding to determine whether or not relevant commercial motor carrier safety regulations issued under section 31136 of title 49, United States Code, should apply to all interstate school transportation operations by local educational agencies (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\]).”
 
 #### Federal Highway Administration Rulemaking
 

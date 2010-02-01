@@ -16,13 +16,29 @@ No adjustment assistance under this part shall be extended to any firm unless th
 
 &emsp;(2) the fees paid or to be paid to any such person.
 
-#### (d) Conflicts of interest
+(Pub. L. 93–618, title II, §256, formerly §258, Jan. 3, 1975, 88 Stat. 2033; renumbered §256 and amended Pub. L. 111–5, div. B, title I, §1864(a)(2), (c)(1), Feb. 17, 2009, 123 Stat. 397, 398.)
 
-No financial assistance shall be provided to any firm under this part unless the owners, partners, or officers shall execute an agreement binding them and the firm for a period of 2 years after such financial assistance is provided, to refrain from employing, tendering any office or employment to, or retaining for professional services any person who, on the date such assistance or any part thereof was provided, or within 1 year prior thereto, shall have served as an officer, attorney, agent, or employee occupying a position or engaging in activities which the Secretary shall have determined involve discretion with respect to the provision of such financial assistance.
+#### Amendment of Section
 
-(Pub. L. 93–618, title II, §258, Jan. 3, 1975, 88 Stat. 2033.)
+<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
+
+#### Prior Provisions
+
+A prior section 256 of Pub. L. 93–618 was classified to section 2346 of this title prior to being temporarily repealed by Pub. L. 111–5.
+
+#### Amendments
+
+2009—Subsec. (d). Pub. L. 111–5, §§1864(c)(1), 1893, temporarily struck out subsec. (d). Text read as follows: “No financial assistance shall be provided to any firm under this part unless the owners, partners, or officers shall execute an agreement binding them and the firm for a period of 2 years after such financial assistance is provided, to refrain from employing, tendering any office or employment to, or retaining for professional services any person who, on the date such assistance or any part thereof was provided, or within 1 year prior thereto, shall have served as an officer, attorney, agent, or employee occupying a position or engaging in activities which the Secretary shall have determined involve discretion with respect to the provision of such financial assistance.” See Effective and Termination Dates of 2009 Amendment note below.
+
+#### Effective and Termination Dates of 2009 Amendment
+
+Amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1864(e) of Pub. L. 111–5, set out as an Effective and Termination Dates note under section 2344 of this title.
+
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
+
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Termination Date
 
-No technical assistance to be provided under this part after Dec. 31, 2007, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and grants may not be provided under this part after Dec. 31, 2010, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

@@ -10,13 +10,13 @@ The application of nondiscriminatory treatment shall be limited to the period of
 
 #### (c) Suspension or withdrawal of extensions of nondiscriminatory treatment
 
-The President may at any time suspend or withdraw any extension of nondiscriminatory treatment to any country pursuant to subsection (a) of this section and thereby cause all products of such country to be dutiable at the rates set forth in rate column numbered 2 of the Harmonized Tariff Schedule of the United States.
+The President may at any time suspend or withdraw any extension of nondiscriminatory treatment to any country pursuant to subsection (a) of this section and thereby cause allproducts of such country to be dutiable at the rates set forth in rate column numbered 2 of the Harmonized Tariff Schedule of the United States.
 
 (Pub. L. 93–618, title IV, §404, Jan. 3, 1975, 88 Stat. 2060; Pub. L. 96–39, title XI, §1106(f)(2), July 26, 1979, 93 Stat. 312; Pub. L. 100–418, title I, §1214(j)(3), Aug. 23, 1988, 102 Stat. 1158.)
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (c), is not set out in the Code. SeePublication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (c), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Amendments
 
@@ -194,7 +194,7 @@ Pub. L. 106–286, div. A, title I, §§101, 102, Oct. 10, 2000, 114 Stat. 881, 
 
 “(a)
 
-Presidential Determinations and Extension of Nondiscriminatory Treatment.—Notwithstanding anyprovision of chapter 1 of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.) \[this part\], as designated by section 3(a)(2) \[103(a)(2)\] of this Act, the President may—
+Presidential Determinations and Extension of Nondiscriminatory Treatment.—Notwithstanding any provision of chapter 1 of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.) \[this part\], as designated by section 3(a)(2) \[103(a)(2)\] of this Act, the President may—
 
 &emsp;“(1) determine that such chapter should no longer apply to the People's Republic of China; and
 
@@ -394,7 +394,7 @@ Pub. L. 102–363, Aug. 26, 1992, 106 Stat. 969, provided: “That the Congress 
 
 #### Extension of Nondiscriminatory Treatment to Products of Union of Soviet Socialist Republics
 
-Pub. L. 102–197, Dec. 9, 1991, 105 Stat. 1622, provided: “That the Congress approves the extension of nondiscriminatory treatment to the products of the Union of Soviet Socialist Republics transmitted by the President to the Congress on October 9, 1991.”
+Pub. L. 102–197, Dec. 9, 1991, 105 Stat. 1622, provided: “That the Congress approves the extension of nondiscriminatory treatment to the products of the Unionof Soviet Socialist Republics transmitted by the President to the Congress on October 9, 1991.”
 
 #### Extension of Nondiscriminatory Treatment to Products of Czechoslovakia and Hungary
 

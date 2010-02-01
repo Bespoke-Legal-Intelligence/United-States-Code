@@ -6,7 +6,7 @@ The Congress makes the following statements concerning national policy with resp
 
 &emsp;(2) It continues to be the immigration policy of the United States that—
 
-&emsp;&emsp;(A) aliens within the Nation's borders not depend on public resources to meet theirneeds, but rather rely on their own capabilities and the resources of their families, their sponsors, and private organizations, and
+&emsp;&emsp;(A) aliens within the Nation's borders not depend on public resources to meet their needs, but rather rely on their own capabilities and the resources of their families, their sponsors, and private organizations, and
 
 &emsp;&emsp;(B) the availability of public benefits not constitute an incentive for immigration to the United States.
 

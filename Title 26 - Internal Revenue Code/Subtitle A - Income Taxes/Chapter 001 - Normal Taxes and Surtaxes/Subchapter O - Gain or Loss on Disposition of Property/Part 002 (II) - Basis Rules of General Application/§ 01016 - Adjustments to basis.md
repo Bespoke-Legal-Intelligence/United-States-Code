@@ -18,7 +18,7 @@ Proper adjustment in respect of the property shall in all cases be made—
 
 &emsp;&emsp;(B) resulting (by reason of the deductions so allowed) in a reduction for any taxable year of the taxpayer's taxes under this subtitle (other than chapter 2, relating to tax on self-employment income), or prior income, war-profits, or excess-profits tax laws,
 
-> &emsp;but not less than the amount allowable under this subtitle or prior income tax laws. Where no method has been adopted under section 167 (relating to depreciation deduction), the amount allowable shall be determined under the straight line method. Subparagraph (B) of this paragraph shall not apply in respect of any period since February 28, 1913, and before January 1, 1952, unless an election has been made under section 1020 (as in effect before the date of the enactment of the Tax Reform Act of 1976). Where for any taxable year before thetaxable year 1932 the depletion allowance was based on discovery value or a percentage of income, then the adjustment for depletion for such year shall be based on the depletion which would have been allowable for such year if computed without reference to discovery value or a percentage of income;
+> &emsp;but not less than the amount allowable under this subtitle or prior income tax laws. Where no method has been adopted under section 167 (relating to depreciation deduction), the amount allowable shall be determined under the straight line method. Subparagraph (B) of this paragraph shall not apply in respect of any period since February 28, 1913, and before January 1, 1952, unless an election has been made under section 1020 (as in effect before the date of the enactment of the Tax Reform Act of 1976). Where for any taxable year before the taxable year 1932 the depletion allowance was based on discovery value or a percentage of income, then the adjustment for depletion for such year shall be based on the depletion which would have been allowable for such year if computed without reference to discovery value or a percentage of income;
 
 &emsp;(3) in respect of any period—
 
@@ -74,7 +74,7 @@ Proper adjustment in respect of the property shall in all cases be made—
 
 &emsp;(24) to the extent provided in section 179A(e)(6)(A),<sup>2</sup>
 
-&emsp;(25) to the extent provided in section 30(d)(1),<sup>2</sup>
+&emsp;(25) to the extent provided in section 30(e)(1),<sup>2</sup>
 
 &emsp;(26) to the extent provided in sections 23(g) and 137(e),<sup>2</sup>
 
@@ -98,11 +98,11 @@ Proper adjustment in respect of the property shall in all cases be made—
 
 &emsp;(36) to the extent provided in section 30C(e)(1),<sup>2</sup> and
 
-&emsp;(37) to the extent provided in section 30D(e)(4).
+&emsp;(37) to the extent provided in section 30D(f)(1).
 
 #### (b) Substituted basis
 
-Whenever it appears that the basis of property in the hands of the taxpayer is a substituted basis, then the adjustments provided in subsection (a) shall be made after first making in respect of such substituted basis proper adjustments of a similar nature in respect of the period during which the property was held by the transferor, donor, or grantor, or during which the other property was held by the person for whom the basis is to be determined. A similar rule shall be applied in the case of a series of substituted bases.
+Whenever it appears that the basis of property in the hands of the taxpayer is a substituted basis, then the adjustments provided in subsection (a) shall be made after first making inrespect of such substituted basis proper adjustments of a similar nature in respect of the period during which the property was held by the transferor, donor, or grantor, or during which the other property was held by the person for whom the basis is to be determined. A similar rule shall be applied in the case of a series of substituted bases.
 
 #### (c) Increase in basis of property on which additional estate tax is imposed
 
@@ -152,7 +152,7 @@ If—
 
 &emsp;(1) the taxpayer acquires any automobile with respect to which a tax was imposed by section 4064, and
 
-&emsp;(2) the use of such automobile by the taxpayer begins not more than 1 year after thedate of the first sale for ultimate use of such automobile,
+&emsp;(2) the use of such automobile by the taxpayer begins not more than 1 year after the date of the first sale for ultimate use of such automobile,
 
 > the basis of such automobile shall be reduced by the amount of the tax imposed by section 4064 with respect to such automobile. In the case of importation, if the date of entry or withdrawal from warehouse for consumption is later than the date of the first sale for ultimate use, such later date shall be substituted for the date of such first sale in the preceding sentence.
 
@@ -160,7 +160,7 @@ If—
 
 &emsp;&emsp;<b>For treatment of separate mineral interests as one property, see section 614.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 299; June 29, 1956, ch. 464, §4(c), 70 Stat. 407; Pub. L. 85–866, title I, §§2(b), 64(d)(2), Sept. 2, 1958, 72 Stat. 1607, 1656; Pub. L. 86–69, §3(d), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, §§2(f), 8(g)(2), 12(b)(4), Oct. 16, 1962, 76 Stat. 972, 998, 1031; Pub. L. 88–272, title II, §§203(a)(3)(C), 225(j)(2), 227(b)(5), Feb. 26, 1964, 78 Stat. 34, 93, 98; Pub. L. 91–172, title II, §231(c)(3), title V, §§504(c)(4), 516(c)(2)(B), Dec. 30, 1969, 83 Stat. 580, 633, 648; Pub. L. 94–455, title XIX, §1901(a)(123), (b)(1)(F)(ii), (21)(G), (29)(A), (30)(A), title XX, §2005(a)(3), Oct. 4, 1976, 90 Stat. 1784, 1790, 1798, 1799, 1876; Pub. L. 95–472, §4(b), Oct. 17, 1978, 92 Stat. 1335; Pub. L. 95–600, title V, §515(2), title VI, §601(b)(3), title VII, §702(r)(3), Nov. 6, 1978, 92 Stat. 2884, 2896, 2938; Pub. L. 95–618, title I, §101(b)(3), title II, §201(b), Nov. 9, 1978, 92 Stat. 3179, 3183; Pub. L. 96–222, title I, §§106(a)(2), (3), 107(a)(2)(C), Apr. 1, 1980, 94 Stat. 221, 222; Pub. L. 96–223, title IV, §401(a), (c)(1), Apr. 2, 1980, 94 Stat. 299, 300; Pub. L. 97–34, title II, §212(d)(2)(G), title IV, §421(g), Aug. 13, 1981, 95 Stat. 239, 310; Pub. L. 97–248, title II, §§201(c)(2), 205(a)(5)(B), Sept. 3, 1982, 96 Stat. 418, 429; Pub. L. 97–354, §5(a)(33), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title I, §§43(a)(2), 53(d)(3), title II, §211(b)(14), title IV, §474(r)(23), title V, §541(b)(2), July 18, 1984, 98 Stat. 558, 568, 756, 844, 890; Pub. L. 99–514, title II, §241(b)(2), title VII, §701(e)(4)(D), title XIII, §1303(b)(3), title XVIII, §1899A(25), Oct. 22, 1986, 100 Stat. 2181, 2343, 2658, 2959; Pub. L. 100–647, title I, §§1006(j)(1)(B), 1018(u)(22), Nov. 10, 1988, 102 Stat. 3411, 3591; Pub. L. 101–194, title V, §502(b)(2), Nov. 30, 1989, 103 Stat. 1755; Pub. L. 101–508, title XI, §§11801(c)(1), 11812(b)(10), 11813(b)(19), Nov. 5, 1990, 104 Stat. 1388–522, 1388–535, 1388–555; Pub. L. 102–486, title XIX, §1913(a)(3)(A), (b)(2)(B), Oct. 24, 1992, 106 Stat. 3019, 3020; Pub. L. 103–66, title XIII, §§13114(b), 13213(a)(2)(F), 13261(f)(3), Aug. 10, 1993, 107 Stat. 431, 474, 539; Pub. L. 104–188, title I, §§1704(t)(56), 1807(c)(5), Aug. 20, 1996, 110 Stat. 1890, 1902; Pub. L. 105–34, title III, §§312(d)(6), 313(b)(1), title VII, §701(b)(2), Aug. 5, 1997, 111 Stat. 840, 842, 869; Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–603; Pub. L. 107–16, title II, §205(b)(3), June 7, 2001, 115 Stat. 53; Pub. L. 108–357, title II, §245(c)(2), title III, §§338(b)(4), 339(d), title IV, §413(c)(19), Oct. 22, 2004, 118 Stat. 1448, 1481, 1484, 1509; Pub. L. 109–58, title XIII, §§1331(b)(1), 1332(c), 1333(b)(1), 1335(b)(4), 1341(b)(2), 1342(b)(2), Aug. 8, 2005, 119 Stat. 1023, 1026, 1029, 1036, 1049, 1051; Pub. L. 109–135, title IV, §412(nn), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 110–172, §§7(a)(1)(C), 11(a)(21), (22), Dec. 29, 2007, 121 Stat. 2481, 2486; Pub. L. 110–343, div. B, title II, §205(d)(2), Oct. 3, 2008, 122 Stat. 3839.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 299; June 29, 1956, ch. 464, §4(c), 70 Stat. 407; Pub. L. 85–866, title I, §§2(b), 64(d)(2), Sept. 2, 1958, 72 Stat. 1607, 1656; Pub. L. 86–69, §3(d), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, §§2(f), 8(g)(2), 12(b)(4), Oct. 16, 1962, 76 Stat. 972, 998, 1031; Pub. L. 88–272, title II, §§203(a)(3)(C), 225(j)(2), 227(b)(5), Feb. 26, 1964, 78 Stat. 34, 93, 98; Pub. L. 91–172, title II, §231(c)(3), title V, §§504(c)(4), 516(c)(2)(B), Dec. 30, 1969, 83 Stat. 580, 633, 648; Pub. L. 94–455, title XIX, §1901(a)(123), (b)(1)(F)(ii), (21)(G), (29)(A), (30)(A), title XX, §2005(a)(3), Oct. 4, 1976, 90 Stat. 1784, 1790, 1798, 1799, 1876; Pub. L. 95–472, §4(b), Oct. 17, 1978, 92 Stat. 1335; Pub. L. 95–600, title V, §515(2), title VI, §601(b)(3), title VII, §702(r)(3), Nov. 6, 1978, 92 Stat. 2884, 2896, 2938; Pub. L. 95–618, title I, §101(b)(3), title II, §201(b), Nov. 9, 1978, 92 Stat. 3179, 3183; Pub. L. 96–222, title I, §§106(a)(2), (3), 107(a)(2)(C), Apr. 1, 1980, 94 Stat. 221, 222; Pub. L. 96–223, title IV, §401(a), (c)(1), Apr. 2, 1980, 94 Stat. 299, 300; Pub. L. 97–34, title II, §212(d)(2)(G), title IV, §421(g), Aug. 13, 1981, 95 Stat. 239, 310; Pub. L. 97–248, title II, §§201(c)(2), 205(a)(5)(B), Sept. 3, 1982, 96 Stat. 418, 429; Pub. L. 97–354, §5(a)(33), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title I, §§43(a)(2), 53(d)(3), title II, §211(b)(14), title IV, §474(r)(23), title V, §541(b)(2), July 18, 1984, 98 Stat. 558, 568, 756, 844, 890; Pub. L. 99–514, title II, §241(b)(2), title VII, §701(e)(4)(D), title XIII, §1303(b)(3), title XVIII, §1899A(25), Oct. 22, 1986, 100 Stat. 2181, 2343, 2658, 2959; Pub. L. 100–647, title I, §§1006(j)(1)(B), 1018(u)(22), Nov. 10, 1988, 102 Stat. 3411, 3591; Pub.L. 101–194, title V, §502(b)(2), Nov. 30, 1989, 103 Stat. 1755; Pub. L. 101–508, title XI, §§11801(c)(1), 11812(b)(10), 11813(b)(19), Nov. 5, 1990, 104 Stat. 1388–522, 1388–535, 1388–555; Pub. L. 102–486, title XIX, §1913(a)(3)(A), (b)(2)(B), Oct. 24, 1992, 106 Stat. 3019, 3020; Pub. L. 103–66, title XIII, §§13114(b), 13213(a)(2)(F), 13261(f)(3), Aug. 10, 1993, 107 Stat. 431, 474, 539; Pub. L. 104–188, title I, §§1704(t)(56), 1807(c)(5), Aug. 20, 1996, 110 Stat. 1890, 1902; Pub. L. 105–34, title III, §§312(d)(6), 313(b)(1), title VII, §701(b)(2), Aug. 5, 1997, 111 Stat. 840, 842, 869; Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–603; Pub. L. 107–16, title II, §205(b)(3), June 7, 2001, 115 Stat. 53; Pub. L. 108–357, title II, §245(c)(2), title III, §§338(b)(4), 339(d), title IV, §413(c)(19), Oct. 22, 2004, 118 Stat. 1448, 1481, 1484, 1509; Pub. L. 109–58, title XIII, §§1331(b)(1), 1332(c), 1333(b)(1), 1335(b)(4), 1341(b)(2), 1342(b)(2), Aug. 8, 2005, 119 Stat. 1023, 1026, 1029, 1036, 1049, 1051; Pub. L. 109–135, title IV, §412(nn), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 110–172, §§7(a)(1)(C), 11(a)(21), (22), Dec. 29, 2007, 121 Stat. 2481, 2486; Pub. L. 110–343, div. B, title II, §205(d)(2), Oct. 3, 2008, 122 Stat. 3839; Pub. L. 111–5, div. B, title I, §§1141(b)(3), 1142(b)(6), Feb. 17, 2009, 123 Stat. 328, 331.)
 
 #### Amendment of Section
 
@@ -185,6 +185,10 @@ The date of the enactment of the Taxpayer Relief Act of 1997, referred to in sub
 Section 28 of the Internal Revenue Code of 1939, referred to in subsec. (a)(12), was classified to section 28 of former Title 26, Internal Revenue Code. Section 28 was repealed by section 7851(a)(1)(A) of this title. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
 #### Amendments
+
+2009—Subsec. (a)(25). Pub. L. 111–5, §1142(b)(6), substituted “section 30(e)(1)” for “section 30(d)(1)”.
+
+Subsec. (a)(37). Pub. L. 111–5, §1141(b)(3), which directed amendment of subsec. (a)(25) by substituting “section 30D(f)(1)” for “section 30D(e)(4)”, was executed by making the substitution in subsec. (a)(37) to reflect the probable intent of Congress.
 
 2008—Subsec. (a)(37). Pub. L. 110–343 added par. (37).
 
@@ -372,6 +376,12 @@ Subsec. (a)(18). Pub. L. 85–866, §64(d)(2), added par. (18).
 
 1956—Subsec. (a)(16). Act June 29, 1956, added par. (16).
 
+#### Effective Date of 2009 Amendment
+
+Amendment by section 1141(b)(3) of Pub. L. 111–5 applicable to vehicles acquired after Dec. 31, 2009, see section 1141(c) of Pub. L. 111–5, set out as a note under section 30B of this title.
+
+Amendment by section 1142(b)(6) of Pub. L. 111–5 applicable to vehicles acquired after Feb. 17, 2009, see section 1142(c) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2008, see section 205(e) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 24 of this title.
@@ -408,7 +418,7 @@ Amendment by section 413(c)(19) of Pub. L. 108–357 applicable to taxable years
 
 Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 205(c) of Pub. L. 107–16, set out as a note under section 38 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010,and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -480,7 +490,7 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 201(c)(2) of Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 201(e)(1) of Pub. L. 97–248, set out as a note under section 5 of this title.
 
-Amendment by section 205(a)(5)(B) of Pub. L. 97–248 applicable to periods after Dec. 31, 1982, under rules similar to the rules of section 48(m) of this title, with certain qualifications, see section 205(c)(1) of Pub. L.97–248, set out as an Effective Date note under section 196 of this title.
+Amendment by section 205(a)(5)(B) of Pub. L. 97–248 applicable to periods after Dec. 31, 1982, under rules similar to the rules of section 48(m) of this title, with certain qualifications, see section 205(c)(1) of Pub. L. 97–248, set out as an Effective Date note under section 196 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -492,7 +502,7 @@ Amendment by section 421(g) of Pub. L. 97–34 applicable with respect to the es
 
 Amendment by section 401(a) of Pub. L. 96–223 (repealing section 2005(a)(3) of Pub. L. 94–455 and section 702(r)(3) of Pub. L. 96–500 and the amendments made thereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and except for certain elections, this title to be applied as if those repealed provisions had not been enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
 
-Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as an Effective Date of 1980 Amendment note under section 32 of this title.
+Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub.L. 96–222, set out as an Effective Date of 1980 Amendment note under section 32 of this title.
 
 #### Effective Date of 1978 Amendments
 

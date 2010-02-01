@@ -28,13 +28,19 @@ If the Secretary fails to submit the severity of need index under subsection (a)
 
 &emsp;(3) that, as applicable, states whether the Secretary could develop a severity of need index before fiscal year 2009.
 
-(July 1, 1944, ch. 373, title XXVI, §2687, as added Pub. L. 109–415, title V, §501, Dec. 19, 2006, 120 Stat. 2814.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2687, as added and amended Pub. L. 109–415, title V, §501, title VII, §703, Dec. 19, 2006, 120 Stat. 2814, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### Prior Provisions
 
 A prior section 300ff–87, act July 1, 1944, ch. 373, title XXVI, §2687, as added Pub. L. 101–381, title IV, §411(a), Aug. 18, 1990, 104 Stat. 627, related to limitations with respect to duties of medical facilities, prior to the general amendment of this part by Pub. L. 109–415.
+
+#### Amendments
+
+2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 

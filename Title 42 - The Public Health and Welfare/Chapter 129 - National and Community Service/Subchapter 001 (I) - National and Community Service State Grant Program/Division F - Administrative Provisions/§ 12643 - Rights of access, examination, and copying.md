@@ -2,27 +2,55 @@
 
 #### (a) Comptroller General
 
-The Comptroller General, or any of the duly authorized representatives of the Comptroller General, shall have access to, and the right to examine and copy, any books, documents, papers, records, and other recorded information in any form—
+Consistent with otherwise applicable law, the Comptroller General, or any of the duly authorized representatives of the Comptroller General, shall have access to, and the right to examine and copy, any books, documents, papers, records, and other recorded information in any form—
 
-&emsp;(1) within the possession or control of the Corporation or any State or local government, Indian tribe, or public or private nonprofit organization receiving assistance directly or indirectly under this chapter; and
+&emsp;(1) within the possession or control of the Corporation or any State or local government, territory, Indian tribe, or public or private nonprofit organization receiving assistance directly or indirectly under this chapter; and
 
 &emsp;(2) that the Comptroller General, or his representative, considers necessary to the performance of an evaluation, audit, or review.
 
 #### (b) Chief Financial Officer
 
-The Chief Financial Officer of the Corporation shall have access to, and the right to examine and copy, any books, documents, papers, records, and other recorded information in any form—
+Consistent with otherwise applicable law, the Chief Financial Officer of the Corporation shall have access to, and the right to examine and copy, any books, documents, papers, records, and other recorded information in any form—
 
-&emsp;(1) within the possession or control of the Corporation or any State or local government, Indian tribe, or public or private nonprofit organization receiving assistance directly or indirectly under this chapter; and
+&emsp;(1) within the possession or control of the Corporation or any State or local government, territory <sup>1</sup> Indian tribe, or public or private nonprofit organization receiving assistance directly or indirectly under this chapter; and
 
 &emsp;(2) that relates to the duties of the Chief Financial Officer.
 
-(Pub. L. 101–610, title I, §183, Nov. 16, 1990, 104 Stat. 3167; Pub. L. 103–82, title I, §121(a), Sept. 21, 1993, 107 Stat. 866.)
+#### (c) Inspector General
+
+Consistent with otherwise applicable law, the Inspector General of the Corporation shall have access to, and the right to examine and copy, any books, documents, papers, records, and other recorded information in any form—
+
+&emsp;(1) within the possession or control of the Corporation or any State or local government, territory, Indian tribe, or public or private nonprofit organization receiving assistance directly or indirectly under the national service laws; and
+
+&emsp;(2) that relates to—
+
+&emsp;&emsp;(A) such assistance; and
+
+&emsp;&emsp;(B) the duties of the Inspector General under the Inspector General Act of 1978 (5 U.S.C. App.).
+
+(Pub. L. 101–610, title I, §183, Nov. 16, 1990, 104 Stat. 3167; Pub. L. 103–82, title I, §121(a), Sept. 21, 1993, 107 Stat. 866; Pub. L. 111–13, title I, §1611, Apr. 21, 2009, 123 Stat. 1537.)
+
+#### References in Text
+
+The Inspector General Act of 1978, referred to in subsec. (c)(2)(B), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
+2009—Subsec. (a). Pub. L. 111–13, §1611(1), substituted “Consistent with otherwise applicable law, the” for “The” in introductory provisions and inserted “territory,” after “local government,” in par. (1).
+
+Subsec. (b). Pub. L. 111–13, §1611(2), substituted “Consistent with otherwise applicable law, the” for “The” in introductory provisions and inserted “territory” after “local government,” in par. (1).
+
+Subsec. (c). Pub. L. 111–13, §1611(3), added subsec. (c).
+
 1993—Pub. L. 103–82 amended section generally, substituting provision relating to rights of access, examination, and copying for provision relating to service as tutors.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

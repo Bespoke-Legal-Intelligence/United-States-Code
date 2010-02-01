@@ -24,7 +24,7 @@ For purposes of section 46, the qualifying advanced coal project credit for any 
 
 #### (2) Special rule for certain subsidized property
 
-&emsp;Rules similar to section 48(a)(4) shall apply for purposes of this section.
+&emsp;Rules similar to section 48(a)(4) (without regard to subparagraph (D) thereof) shall apply for purposes of this section.
 
 #### (3) Certain qualified progress expenditures rules made applicable
 
@@ -96,7 +96,7 @@ For purposes of this section—
 
 #### (E) Period of issuance
 
-&emsp;&emsp;An applicant which receives a certification shall have 5 years from the date of issuance of the certification in order to place the project in service and if such project is not placed in service by that time period then the certification shall no longer be valid.
+&emsp;&emsp;An applicant which receives a certification shall have 5 years from the date of issuanceof the certification in order to place the project in service and if such project is not placed in service by that time period then the certification shall no longer be valid.
 
 #### (3) Aggregate credits
 
@@ -279,7 +279,7 @@ In implementing this section or section 48B, the Secretary is directed to modify
 
 The Secretary shall provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any project which fails to attain or maintain the separation and sequestration requirements of subsection (e)(1)(G).
 
-(Added Pub. L. 109–58, title XIII, §1307(b), Aug. 8, 2005, 119 Stat. 999; amended Pub. L. 109–432, div. A, title II, §203(a), Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(10), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–234, title XV, §15346(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15346(a), June 18, 2008, 122 Stat. 1664, 2285; Pub. L. 110–343, div. B, title I, §111(a)–(d), Oct. 3, 2008, 122 Stat. 3822, 3823.)
+(Added Pub. L. 109–58, title XIII, §1307(b), Aug. 8, 2005, 119 Stat. 999; amended Pub. L. 109–432, div.A, title II, §203(a), Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(10), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–234, title XV, §15346(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15346(a), June 18, 2008, 122 Stat. 1664, 2285; Pub. L. 110–343, div. B, title I, §111(a)–(d), Oct. 3, 2008, 122 Stat. 3822, 3823; Pub. L. 111–5, div. B, title I, §1103(b)(2)(C), Feb. 17, 2009, 123 Stat. 321.)
 
 #### References in Text
 
@@ -292,6 +292,8 @@ The date of enactment of this section, referred to in subsecs. (d)(1), (4)(A) an
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2009—Subsec. (b)(2). Pub. L. 111–5 inserted “(without regard to subparagraph (D) thereof)” after “section 48(a)(4)”.
 
 2008—Subsec. (a)(3). Pub. L. 110–343, §111(a), added par. (3).
 
@@ -322,6 +324,10 @@ Subsec. (i). Pub. L. 110–343, §111(c)(3)(C), added subsec. (i).
 2007—Subsec. (d)(4)(B)(ii). Pub. L. 110–172 struck out “subsection” before “paragraph” in two places.
 
 2006—Subsec. (f)(1). Pub. L. 109–432 inserted concluding provisions.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–5 applicable to periods after Dec. 31, 2008, under rules similar to the rules of section 48(m) of this title as in effect on the day before Nov. 5, 1990, see section 1103(c)(1) of Pub. L. 111–5, set out as a note under section 25C of this title.
 
 #### Effective Date of 2008 Amendment
 

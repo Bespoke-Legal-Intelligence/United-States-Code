@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 June 25, 1956, ch. 439, §§1, 2, 70 Stat. 333.
 
-In subsection (a), the words “on or after June 25, 1956” are omitted as executed. The words “Regular, Reserve” and “during the continuation of the cadet or midshipman status of such member” are omitted as surplusage. The words “if he is a midshipman in the Naval Reserve \* \* \* of a midshipman in the Naval Reserve” are substituted for the words “accruing to such reserve midshipman by virtue of his status in the Naval Reserve”.
+In subsection (a), the words “on or after June 25, 1956” are omitted as executed. The words “Regular, Reserve” and “during the continuation of the cadet or midshipman status of such member” are omitted as surplusage. The words “if he is a midshipman in the Naval Reserve of a midshipman in the Naval Reserve” are substituted for the words “accruing to such reserve midshipman by virtue of his status in the Naval Reserve”.
 
 In subsection (b), the words “a person covered by subsection (a)” are substituted for 50:1412 (1st 84 words of 1st sentence). The words “his appointment as a commissioned officer of” are substituted for the words “the acceptance of a commission in”. The words “and shall complete the period of service for which he was enlisted or for which he has an obligation, unless he is sooner discharged” are substituted for 50:1412 (2d sentence). The words “promoted or” are omitted as unnecessary, since the only kind of promotion involved is that to officer, in which case the member is discharged from his enlisted status. The words “as service under that enlistment” are substituted for the words “as time serviced under such contract”.
 
@@ -34,5 +34,5 @@ In subsection (b), the words “a person covered by subsection (a)” are substi
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

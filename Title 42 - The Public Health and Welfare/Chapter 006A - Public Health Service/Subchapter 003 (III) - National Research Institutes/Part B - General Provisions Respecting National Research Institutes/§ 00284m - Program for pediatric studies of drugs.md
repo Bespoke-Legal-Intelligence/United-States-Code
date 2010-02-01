@@ -92,7 +92,7 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 #### (9) FDA determination
 
-&emsp;Not later than 30 days after receiving a recommendation from the Pediatric AdvisoryCommittee under paragraph (8)(B)(ii) with respect to a drug, the Commissioner of Food and Drugs shall consider the recommendation and, if appropriate, make a request to the holders of approved applications for the drug to make any labeling change that the Commissioner of Food and Drugs determines to be appropriate.
+&emsp;Not later than 30 days after receiving a recommendation from the Pediatric Advisory Committee under paragraph (8)(B)(ii) with respect to a drug, the Commissioner of Food and Drugs shall consider the recommendation and, if appropriate, make a request to the holders of approved applications for the drug to make any labeling change that the Commissioner of Food and Drugs determines to be appropriate.
 
 #### (10) Failure to agree
 

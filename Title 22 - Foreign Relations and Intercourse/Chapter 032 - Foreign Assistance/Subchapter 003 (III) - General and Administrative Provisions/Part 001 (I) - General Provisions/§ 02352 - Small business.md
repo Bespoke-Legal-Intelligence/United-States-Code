@@ -16,7 +16,7 @@ There shall be an Office of Small Business, headed by a Special Assistant for Sm
 
 #### (c) Information with respect to certain purchases by Department of Defense
 
-The Secretary of Defense shall assure that there is made available to suppliers in the United States, and particularly to small independent enterprises, information with respect to purchases made by the Department of Defense pursuant to subchapter II of this chapter, such information to be furnished as far in advance as possible.
+The Secretary of Defense shall assure that there is made available to suppliers in theUnited States, and particularly to small independent enterprises, information with respect to purchases made by the Department of Defense pursuant to subchapter II of this chapter, such information to be furnished as far in advance as possible.
 
 (Pub. L. 87–195, pt. III, §602, Sept. 4, 1961, 75 Stat. 439.)
 
@@ -102,7 +102,7 @@ Plan To Increase Small Business Contracting.—The plan required for the report 
 
 “(c)
 
-Annual Reports.—Not later than January 31, 2004, January 31, 2005, and January 31, 2006, the Administrator shall submit to the designated congressional committees a report for the preceding fiscal year that contains a description of the percentage of total contract and grant and cooperative agreement dollar amounts that were entered into by the Agency, and the total number of contracts and grants and cooperative agreements that were awarded by the Agency, to small businesses in each category specified in clauses (i) through (v) of subsection (a)(1)(A) during such fiscal year. The report for a fiscal year shall include, separately stated for contracts and grant and cooperative agreements entered into by the Agency, the percentage of the contracts and grant and cooperative agreements, respectively, that were awarded to small businesses in each such category, as computed on the basis of dollar amounts. The report shall also include a description of achievements toward measurable milestones for direct contracts of the Agency entered into by offices outside of Washington, D.C., and for subcontracting by prime contractors of the Agency.
+Annual Reports.—Not later than January 31, 2004, January 31, 2005, and January 31, 2006, the Administrator shall submit to the designated congressional committees a report for the preceding fiscal year that contains a description of the percentage of total contract and grant and cooperative agreement dollar amounts that were entered into by the Agency, and the total number of contracts and grants and cooperative agreements that were awarded by the Agency, to small businesses in each category specified in clauses (i) through (v) of subsection (a)(1)(A) during such fiscal year. The report for a fiscal year shall include, separately stated for contracts and grant and cooperative agreements entered into by the Agency, the percentageof the contracts and grant and cooperative agreements, respectively, that were awarded to small businesses in each such category, as computed on the basis of dollar amounts. The report shall also include a description of achievements toward measurable milestones for direct contracts of the Agency entered into by offices outside of Washington, D.C., and for subcontracting by prime contractors of the Agency.
 
 “(d)
 

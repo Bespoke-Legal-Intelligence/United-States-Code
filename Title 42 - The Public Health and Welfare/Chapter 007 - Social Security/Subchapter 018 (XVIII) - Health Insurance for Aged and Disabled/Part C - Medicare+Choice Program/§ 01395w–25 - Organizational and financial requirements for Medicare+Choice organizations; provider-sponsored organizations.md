@@ -100,7 +100,7 @@ The Medicare+Choice organization shall assume full financial risk on a prospecti
 
 &emsp;(2) may obtain insurance or make other arrangements for the cost of such services provided to its enrolled members other than through the organization because medical necessity required their provision before they could be secured through the organization,
 
-&emsp;(3) may obtain insurance or make other arrangements for not more than 90 percent of the amount by which its costs for any of its fiscal years exceed 115 percent of its income for such fiscal year, and
+&emsp;(3) may obtain insurance or make other arrangements for not more than 90 percent ofthe amount by which its costs for any of its fiscal years exceed 115 percent of its income for such fiscal year, and
 
 &emsp;(4) may make arrangements with physicians or other health care professionals, health care institutions, or any combination of such individuals or institutions to assume all or part of the financial risk on a prospective basis for the provision of basic health services by the physicians or other health professionals or through the institutions.
 
@@ -150,7 +150,7 @@ The Medicare+Choice organization shall assume full financial risk on a prospecti
 
 &emsp;&emsp;(B) both providers are part of a controlled group of corporations under section 1563 of the Internal Revenue Code of 1986,
 
-&emsp;&emsp;(C) each provider is a participant in a lawful combination under which each providershares substantial financial risk in connection with the organization's operations, or
+&emsp;&emsp;(C) each provider is a participant in a lawful combination under which each provider shares substantial financial risk in connection with the organization's operations, or
 
 &emsp;&emsp;(D) both providers are part of an affiliated service group under section 414 of such Code.
 
@@ -178,7 +178,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (d)(3)(B), (D), is cla
 
 #### Change of Name
 
-References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriatetransition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
 Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

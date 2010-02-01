@@ -1,6 +1,6 @@
 ### §1a–10. Consultation with affected agencies and organizations
 
-In conducting and preparing the report referred to in section 1a–9 of this title, the Secretary shall consult with appropriate officials ofaffected Federal, State and local agencies, together with national, regional, and local organizations, including but not limited to holding such public hearings as the Secretary determines to be appropriate to provide a full opportunity for public comment.
+In conducting and preparing the report referred to in section 1a–9 of this title, the Secretary shall consult with appropriate officials of affected Federal, State and local agencies, together with national, regional, and local organizations, including but not limited to holding such public hearings as the Secretary determines to be appropriate to provide a full opportunity for public comment.
 
 (Pub. L. 101–628, title XII, §1214, Nov. 28, 1990, 104 Stat. 4508.)
 

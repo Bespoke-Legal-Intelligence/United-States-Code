@@ -6,7 +6,7 @@ The Secretary, acting through such employee of the Department of Health and Huma
 
 &emsp;(2) assist other Federal agencies responsible for planning for, responding to, and recovering from public health emergencies in addressing the needs of at-risk individuals;
 
-&emsp;(3) provide guidance to and ensure that recipients of State and local public healthgrants include preparedness and response strategies and capabilities that take into account the medical and public health needs of at-risk individuals in the event of a public health emergency, as described in section 247d–3a(b)(2)(A)(iii) of this title;
+&emsp;(3) provide guidance to and ensure that recipients of State and local public health grants include preparedness and response strategies and capabilities that take into account the medical and public health needs of at-risk individuals in the event of a public health emergency, as described in section 247d–3a(b)(2)(A)(iii) of this title;
 
 &emsp;(4) ensure that the contents of the strategic national stockpile take into account at-risk populations as described in section 300hh–10(b)(3)(B) <sup>1</sup> of this title;
 

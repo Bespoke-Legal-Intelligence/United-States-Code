@@ -44,7 +44,7 @@
 
 #### (b) Certification by Commission to Attorney General for criminal proceedings
 
-Whenever the Commission has reason to believe that any person, partnership, or corporation is liable for a criminal penalty under this subchapter, the Commission shall certify the facts to the Attorney General, whose duty it shall be to cause appropriate criminal proceedings to be brought.
+Whenever the Commission has reason to believe that any person, partnership, or corporation is liable for a criminal penalty under thissubchapter, the Commission shall certify the facts to the Attorney General, whose duty it shall be to cause appropriate criminal proceedings to be brought.
 
 #### (c) Foreign litigation
 
@@ -54,7 +54,7 @@ Whenever the Commission has reason to believe that any person, partnership, or c
 
 #### (2) Reimbursement for foreign counsel
 
-&emsp;The Commission is authorized to expend appropriated funds, upon agreement with the Attorney General, to reimburse the AttorneyGeneral for the retention of foreign counsel for litigation in foreign courts and for expenses related to litigation in foreign courts in which the Commission has an interest.
+&emsp;The Commission is authorized to expend appropriated funds, upon agreement with the Attorney General, to reimburse the Attorney General for the retention of foreign counsel for litigation in foreign courts and for expenses related to litigation in foreign courts in which the Commission has an interest.
 
 #### (3) Limitation on use of funds
 

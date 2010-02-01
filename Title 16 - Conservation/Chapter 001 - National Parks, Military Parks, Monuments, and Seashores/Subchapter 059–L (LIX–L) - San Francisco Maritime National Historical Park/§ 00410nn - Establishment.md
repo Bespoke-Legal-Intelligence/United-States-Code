@@ -10,7 +10,7 @@ The park shall consist of the lands and interests therein within the area genera
 
 #### (c) Golden Gate National Recreation Area
 
-The Secretary shall revise the boundaries of the Golden Gate National Recreation Area to exclude from the National Recreation Area the area within the park (as depicted on the boundary map referred to in subsection (b) of this section). The Secretary shall transfer to the jurisdiction of the park all real and personal property of the United States administered by the Secretary as part of the National Recreation Area located within the boundaries of the park (including the museum building), together withall vessels, marine collections, libraries, historic documents, equipment and other marine artifacts which are administered by the Secretary as part of the National Recreation Area and which relate to maritime history.
+The Secretary shall revise the boundaries of the Golden Gate National Recreation Area to exclude from the National Recreation Area the area within the park (as depicted on the boundary map referred to in subsection (b) of this section). The Secretary shall transfer to the jurisdiction of the park all real and personal property of the United States administered by the Secretary as part of the National Recreation Area located within the boundaries of the park (including the museum building), together with all vessels, marine collections, libraries, historic documents, equipment and other marine artifacts which are administered by the Secretary as part of the National Recreation Area and which relate to maritime history.
 
 #### (d) Museum building
 
@@ -20,7 +20,7 @@ The building housing and displaying the marine collections, libraries, historic 
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 100–348, June 27, 1988, 102 Stat. 654, known as the San Francisco Maritime National Historical Park Act of 1988, which enacted this subchapter and amended section 460bb–3 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This subchapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 100–348,June 27, 1988, 102 Stat. 654, known as the San Francisco Maritime National Historical Park Act of 1988, which enacted this subchapter and amended section 460bb–3 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 

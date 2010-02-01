@@ -8,7 +8,7 @@ Combat Readiness.—(1) Periodically (and not less often than every two years), 
 
 &emsp;(B) any recommendations that the Chairman considers appropriate.
 
-(2) In preparing each such report, the Chairman shall review the plans of each such agency with respect to its support of operating forces in the event of a war or threat to national security. After consultation with the Secretaries of the military departments and the commandersof the unified and specified combatant commands, as appropriate, the Chairman may, with the approval of the Secretary of Defense, take steps to provide for any revision of those plans that the Chairman considers appropriate.
+(2) In preparing each such report, the Chairman shall review the plans of each such agency with respect to its support of operating forces in the event of a war or threat to national security. After consultation with the Secretaries of the military departments and the commanders of the unified and specified combatant commands, as appropriate, the Chairman may, with the approval of the Secretary of Defense, take steps to provide for any revision of those plans that the Chairman considers appropriate.
 
 (b)
 
@@ -46,11 +46,13 @@ Definition of Combat Support Agency.—In this section, the term “combat suppo
 
 &emsp;(5) Any other Defense Agency designated as a combat support agency by the Secretary of Defense.
 
-(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 104–201, div. A, title XI, §1112(c), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 105–85, div. A, title X, §1073(a)(5), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 108–136, div. A, title IX, §921(d)(3), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 109–364, div. A, title IX, §907, Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–181, div. A, title IX, §931(a)(2), (3), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(1), (2), Oct. 14, 2008, 122 Stat. 4576.)
+(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 104–201, div. A, title XI, §1112(c), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 105–85, div. A, title X, §1073(a)(5), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 108–136, div. A, title IX, §921(d)(3), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 109–364, div. A, title IX, §907, Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–181, div. A, title IX, §931(a)(2), (3), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(1), (2), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475.)
 
 #### Amendments
 
-2008—Subsecs. (d)(2), (e). Pub. L. 110–181 and Pub. L. 110–417 made identical amendments, substituting “Director of National Intelligence” for “Director of Central Intelligence”.
+2009—Subsecs. (d)(2), (e). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(1), (2). See 2008 Amendment note below.
+
+2008—Subsecs. (d)(2), (e). Pub. L. 110–181 and Pub. L. 110–417, §932(a)(1), (2), made identical amendments, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, §932(a)(1), (2), was repealed by Pub. L. 111–84.
 
 2006—Subsec. (f)(1). Pub. L. 109–364 substituted “Defense Information Systems Agency” for “Defense Communications Agency”.
 
@@ -74,11 +76,15 @@ Subsec. (e). Pub. L. 104–201, §1112(c)(2), substituted “DIA, NSA, and NIMA�
 
 Subsec. (f)(4). Pub. L. 104–201, §1112(c)(3), substituted “The National Imagery and Mapping Agency” for “Defense Mapping Agency”.
 
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+
 #### Effective Date of 1996 Amendment
 
 Section 1124 of title XI of div. A of Pub. L. 104–201 provided that: “This title \[enacting section 424 and chapter 22 of this title and sections 404e and 404f of Title 50, War and National Defense, amending this section, sections 201 and 451 to 456 of this title, sections 2302, 3132, 4301, 4701, 5102, 5342, 6339, and 7323 of Title 5, Government Organization and Employees, section 105 of the Ethics in Government Act of 1978, set out in the Appendix to Title 5, section 82 of Title 14, Coast Guard, section 2006 of Title 29, Labor, section 1336 of Title 44, Public Printing and Documents, and sections 401a and 403–5 of Title 50, renumbering chapter 22 and sections 451, 452, 2792 to 2796, and 2798 of this title as chapter 23 and sections 481, 482, 451 to 455, and 456 of this title, respectively, repealing sections 424, 425, 2791, and 2797 of this title, enacting provisions set out as notes under section 441 of this title, and amending provisions set out as a note under section 501 of Title 44\] and the amendments made by this title shall take effect on October 1, 1996, or the date of the enactment of this Act \[Sept. 23, 1996\], whichever is later.”
 
 #### First Report and Other Actions by Chairman of Joint Chiefs of Staff
 
-Section 304(b) of Pub. L. 99–433 required the first report under subsec. (a) of section 193 of this title to besubmitted and subsecs. (b) and (c) of section 193 to be implemented not later than one year after Oct. 1, 1986, and a report on implementation to be submitted to Congress for 1988 under section 113(c) of this title.
+Section 304(b) of Pub. L. 99–433 required the first report under subsec. (a) of section 193 of this title to be submitted and subsecs. (b) and (c) of section 193 to be implemented not later than one year after Oct. 1, 1986, and a report on implementation to be submitted to Congress for 1988 under section 113(c) of this title.
 

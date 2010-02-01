@@ -1,8 +1,8 @@
 ### §313. Duties of Secretary of Commerce
 
-The Secretary of Commerce shall have charge of the forecasting of weather, the issue of storm warnings, the display of weather and flood signals for the benefit of agriculture, commerce, and navigation, the gauging and reporting of rivers, the maintenance and operation of seacoast telegraph lines and the collection and transmission of marine intelligence for the benefit of commerce and navigation, the reporting of temperature and rain-fall conditions for the cotton interests, the display of frost and cold-wave signals, the distribution of meteorological information in the interests of agriculture and commerce, and the taking of such meteorological observations as may be necessary to establish and record the climatic conditions of the United States, or as are essential for the proper execution of the foregoing duties.
+The Secretary of Commerce shall have charge of the forecasting of weather, the issue of storm warnings, the display of weather and flood signals for the benefit of agriculture, commerce, and navigation, the gauging and reporting ofrivers, the maintenance and operation of seacoast telegraph lines and the collection and transmission of marine intelligence for the benefit of commerce and navigation, the reporting of temperature and rain-fall conditions for the cotton interests, the display of frost and cold-wave signals, the distribution of meteorological information in the interests of agriculture and commerce, and the taking of such meteorological observations as may be necessary to establish and record the climatic conditions of the United States, or as are essential for the proper execution of the foregoing duties.
 
-(Oct. 1, 1890, ch. 1266, §3, 26 Stat. 653; May 20, 1926, ch. 344, §5 (e), 44 Stat. 571; June 23, 1938, ch.601, title XI, §1107(k), 52 Stat. 1029; 1940 Reorg. Plan No. IV, §8, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1236; 1965 Reorg. Plan No. 2, §§1, 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318.)
+(Oct. 1, 1890, ch. 1266, §3, 26 Stat. 653; May 20, 1926, ch. 344, §5 (e), 44 Stat. 571; June 23, 1938, ch. 601, title XI, §1107(k), 52 Stat. 1029; 1940 Reorg. Plan No. IV, §8, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1236; 1965 Reorg. Plan No. 2, §§1, 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318.)
 
 #### Amendments
 
@@ -350,7 +350,7 @@ Pub. L. 98–8, title I, §104, Mar. 24, 1983, 97 Stat. 34, provided that:
 
 “Since our Nation's economy—its agriculture, aviation, ocean shipping and construction—is heavily affected by weather and our ability to forecast and disseminate vital information about its behavior: Now, therefore,
 
-“It is the sense of the Congress that a reliable and comprehensive national weather information system responsive to the needs of national security; agriculture, transportation and other affected sectors; andindividual citizens must be maintained through a strong central National Weather Service that can work closely with the private sector, other Federal and State government agencies, and the weather services of other nations.
+“It is the sense of the Congress that a reliable and comprehensive national weather information system responsive to the needs of national security; agriculture, transportation and other affected sectors; and individual citizens must be maintained through a strong central National Weather Service that can work closely with the private sector, other Federal and State government agencies, and the weather services of other nations.
 
 “Further, the Nation's civil operational remote sensing satellites (METSAT and LANDSAT) shall remain under the National Oceanic and Atmospheric Administration. No effort shall be made to dismantle, transfer, lease or sell any portion of these systems without prior congressional approval.”
 

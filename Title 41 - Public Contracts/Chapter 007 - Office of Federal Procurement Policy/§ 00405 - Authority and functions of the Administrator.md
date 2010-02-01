@@ -142,7 +142,7 @@ The Administrator shall submit to Congress, on an annual basis, an assessment of
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (h)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of this title, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (h)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for titleIII of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of this title, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -218,7 +218,7 @@ Subsec. (f). Pub. L. 100–679, §3(a)(4), substituted “The Administrator, wit
 
 Subsec. (c). Pub. L. 96–83, §4(b), substituted provisions relating to development and proposal of a central management system, for provisions setting forth limitation of authority to procurement from appropriated funds and provisions relating to a study and report of procurement from nonappropriated funds.
 
-Subsec. (d). Pub. L. 96–83, §4(c), substituted provisions setting forth the review, development, etc., functions of the Administrator with respect to procurement policies, regulations, procedures, and forms, procurement data, procurement personnel, and procurement contracts, for provisions setting forth the establishment, monitoring, etc., functions of the Administrator with respect to uniform procurement regulations, procurement policies, regulations, procedures, and forms, procurement data, and procurement personnel.
+Subsec. (d). Pub. L. 96–83, §4(c), substituted provisions setting forth the review, development, etc., functions of the Administrator with respect to procurement policies, regulations, procedures, and forms, procurement data, procurement personnel, and procurement contracts, for provisions setting forth the establishment, monitoring, etc., functions of the Administratorwith respect to uniform procurement regulations, procurement policies, regulations, procedures, and forms, procurement data, and procurement personnel.
 
 Subsec. (e). Pub. L. 96–83, §4(d), substituted provisions relating to consultation functions of the Administrator with respect to the development and implementation of the uniform procurement system, for provisions relating to the consultation functions of the Administrator with respect to the development of policies, regulations, procedures and forms to be authorized or prescribed by such Administrator.
 
@@ -318,7 +318,7 @@ Data Collection Required.—The Federal Procurement Data System described in sec
 
 “(b)
 
-Definitions.—In this section, the term ‘bundling of contract requirements’ has the meaning given thatterm in section 3(<i>o</i>) of the Small Business Act (15 U.S.C. 632(<i>o</i>)) (as added by section 412 of this subtitle).”
+Definitions.—In this section, the term ‘bundling of contract requirements’ has the meaning given that term in section 3(<i>o</i>) of the Small Business Act (15 U.S.C. 632(<i>o</i>)) (as added by section 412 of this subtitle).”
 
 #### Congressional Findings Regarding Consideration of Past Contract Performance
 

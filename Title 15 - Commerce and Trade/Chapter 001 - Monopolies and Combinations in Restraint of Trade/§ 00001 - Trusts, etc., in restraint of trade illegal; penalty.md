@@ -26,17 +26,21 @@ Pub. L. 107–72, §4, Nov. 20, 2001, 115 Stat. 650, provided that: “This Act 
 
 Section 4 of Pub. L. 94–145 provided that: “The amendments made by sections 2 and 3 of this Act \[amending this section and section 45 of this title\] shall take effect upon the expiration of the ninety-day period which begins on the date of enactment of this Act \[Dec. 12, 1975\].”
 
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–30, §1, June 19, 2009, 123 Stat. 1775, provided that: “This Act \[enacting and amending provisions set out as notes under this section\] may be cited as the ‘Antitrust Criminal Penalty Enhancement and Reform Act of 2004 Extension Act’.”
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–327, §1, Sept. 30, 2008, 122 Stat. 3566, provided that: “This Act \[amending provisions set out as a note under this section\] may be cited as the ‘Need-Based Educational Aid Act of 2008’.”
 
 #### Short Title of 2007 Amendment
 
-Pub. L. 110–6, §1, Feb. 26, 2007, 121 Stat. 61, provided that: “This Act \[amending provisions set out as a note under this section\] may be cited as the ‘Antitrust Modernization Commission Extension Act of 2007’.”
+Pub. L. 110–6, §1, Feb. 26, 2007, 121 Stat. 61, provided that: “This Act \[amending provisions set out as a noteunder this section\] may be cited as the ‘Antitrust Modernization Commission Extension Act of 2007’.”
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–237, title II, §201, June 22, 2004, 118 Stat. 665, provided that: “This title \[amending this sectionand sections 2, 3, and 16 of this title and enacting provisions set out as notes under this section and section 16 of this title\] may be cited as the ‘Antitrust Criminal Penalty Enhancement and Reform Act of 2004’.”
+Pub. L. 108–237, title II, §201, June 22, 2004, 118 Stat. 665, provided that: “This title \[amending this section and sections 2, 3, and 16 of this title and enacting provisions set out as notes under this section and section 16 of this title\] may be cited as the ‘Antitrust Criminal Penalty Enhancement and Reform Act of 2004’.”
 
 #### Short Title of 2002 Amendment
 
@@ -94,13 +98,13 @@ Pub. L. 94–435, title III, §305(a), Sept. 30, 1976, 90 Stat. 1397, added imme
 
 #### Antitrust Enforcement Enhancements and Cooperation Incentives
 
-Pub. L. 108–237, title II, §§211–214, June 22, 2004, 118 Stat. 666, 667, provided that:
+Pub. L. 108–237, title II, §§211–214, June 22, 2004, 118 Stat. 666, 667, as amended by Pub. L. 111–30, §2, June 19, 2009, 123 Stat. 1775, provided that:
 
 #### “SEC. 211. SUNSET.
 
 “(a)
 
-In General.—Except as provided in subsection (b), the provisions of sections 211 through 214 shall cease to have effect 5 years after the date of enactment of this Act \[June 22, 2004\].
+In General.—Except as provided in subsection (b), the provisions of sections 211 through 214 shall cease to have effect 6 years after the date of enactment of this Act \[June 22, 2004\].
 
 “(b)
 
@@ -173,6 +177,8 @@ Continuation.—Nothing in this section shall be construed to modify, impair, or
 &emsp;“(2) create any right to challenge any decision by the Antitrust Division with respect to an antitrust leniency agreement; or
 
 &emsp;“(3) affect, in any way, the joint and several liability of any party to a civil action described in section 213(a), other than that of the antitrust leniency applicant and cooperating individuals as provided in section 213(a) of this title.”
+
+\[Pub. L. 111–30, §3, June 19, 2009, 123 Stat. 1775, provided that: “The amendment made by section 2 \[amending section 211(a) of Pub. L. 108–237, set out above\] shall take effect immediately before June 22, 2009.”\]
 
 #### Antitrust Modernization Commission
 
@@ -336,7 +342,7 @@ Gifts, Bequests, and Devises.—The Commission may accept, use, and dispose of g
 
 #### Year 2000 Information and Readiness Disclosure
 
-Pub. L. 105–271, Oct. 19, 1998, 112 Stat. 2386, as amended by Pub. L. 107–273, div. C, title IV, §14102(e), Nov. 2, 2002, 116 Stat. 1922, known as the Year 2000 Information and Readiness Disclosure Act, provided for the free disclosure and exchange of information about computer processing problems, solutions, test practices and test results, and related matters in connection with the transition to the year 2000.
+Pub. L. 105–271, Oct. 19, 1998, 112 Stat. 2386, as amended by Pub. L. 107–273, div. C, title IV, §14102(e), Nov. 2,2002, 116 Stat. 1922, known as the Year 2000 Information and Readiness Disclosure Act, provided for the free disclosure and exchange of information about computer processing problems, solutions, test practices and test results, and related matters in connection with the transition to the year 2000.
 
 #### Application of Antitrust Laws to Award of Need-Based Educational Aid
 

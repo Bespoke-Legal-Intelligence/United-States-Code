@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Administrator shall execute a commercial technology transfer program with the goal of facilitating the exchange of services, products, and intellectual property between NASA and the private sector. This program shall place at least as much emphasis on encouraging the transfer of NASA technology to the private sector\(“spinning out”) as on encouraging use of private sector technology by NASA. This program shall be maintained in a manner that provides clear benefits for the agency, the domestic economy, and the research community.
+The Administrator shall execute a commercial technology transfer program with the goal of facilitating the exchange of services, products, and intellectual property between NASA and the private sector. This program shall place at least as much emphasis on encouraging the transfer of NASA technology to the private sector (“spinning out”) as on encouraging use of private sector technology by NASA. This program shall be maintained in a manner that provides clear benefits for the agency, the domestic economy, and the research community.
 
 #### (b) Program structure
 

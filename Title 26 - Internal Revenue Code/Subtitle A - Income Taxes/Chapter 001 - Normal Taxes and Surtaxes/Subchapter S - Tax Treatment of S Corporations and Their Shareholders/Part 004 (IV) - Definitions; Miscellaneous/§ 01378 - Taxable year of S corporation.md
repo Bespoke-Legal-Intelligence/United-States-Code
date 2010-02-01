@@ -18,7 +18,7 @@ For purposes of this section, the term “permitted year” means a taxable year
 
 #### Prior Provisions
 
-A prior section 1378, added Pub. L. 89–389, §2(a), Apr. 14, 1966, 80 Stat. 113; amended Pub. L. 91–172, title V, §511(c)(4), Dec. 30, 1969, 83 Stat. 638; Pub. L. 94–455, title XIX, §1901(a)(152), (b)(33)(R), Oct. 4, 1976, 90 Stat. 1789, 1802, related to tax imposed on certain capital gains, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
+A prior section 1378, added Pub. L. 89–389, §2(a), Apr. 14, 1966, 80 Stat. 113; amended Pub. L. 91–172, title V, §511(c)(4), Dec. 30, 1969, 83 Stat. 638; Pub. L. 94–455, title XIX, §1901(a)(152), (b)(33)(R), Oct. 4, 1976, 90 Stat. 1789,1802, related to tax imposed on certain capital gains, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 #### Amendments
 

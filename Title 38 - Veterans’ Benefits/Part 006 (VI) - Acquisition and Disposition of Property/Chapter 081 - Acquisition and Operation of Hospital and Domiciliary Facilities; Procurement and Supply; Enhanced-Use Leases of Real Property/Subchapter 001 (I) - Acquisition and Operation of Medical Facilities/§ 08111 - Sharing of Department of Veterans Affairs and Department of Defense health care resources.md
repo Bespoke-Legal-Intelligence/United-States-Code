@@ -24,7 +24,7 @@ Joint Incentives Program.—(1) Pursuant to subsection (b)(4), the two Secretari
 
 (2) To facilitate the incentive program, there is established in the Treasury a fund to be known as the “DOD–VA Health Care Sharing Incentive Fund”. Each Secretary shall annually contribute to the fund a minimum of $15,000,000 from the funds appropriated to that Secretary's Department. Such funds shall remain available until expended and shall be available for any purpose authorized by this section.
 
-(3) The program under this subsection shall terminate on September 30, 2010.
+(3) The program under this subsection shall terminate on September 30, 2015.
 
 (e)
 
@@ -110,17 +110,19 @@ Definitions.—For the purposes of this section:
 
 &emsp;(7) The term “service region” means a geographic service area of the Veterans Health Administration, in the case of the Department of Veterans Affairs, and a service region, in the case of the Department of Defense.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, §208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, §721(a)(1), Dec. 2, 2002, 116 Stat. 2589; Pub. L. 108–136, div. A, title V, §583(b), (c), Nov. 24, 2003, 117 Stat. 1491, 1492; Pub. L. 108–422, title VI, §605, Nov. 30, 2004, 118 Stat. 2399; Pub. L. 109–163, div. A, title VII, §747(a), title X, §1056(g), Jan. 6, 2006, 119 Stat. 3363, 3440; Pub. L. 109–364, div. A, title VII, §743, Oct. 17, 2006, 120 Stat. 2308; Pub. L. 109–444, §8(a)(6), (7), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(6), (7), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, §208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, §721(a)(1), Dec. 2, 2002, 116 Stat. 2589; Pub. L. 108–136, div. A, title V, §583(b), (c), Nov. 24, 2003, 117 Stat. 1491, 1492; Pub. L. 108–422, title VI, §605, Nov. 30, 2004, 118 Stat. 2399; Pub. L. 109–163, div. A, title VII, §747(a), title X, §1056(g), Jan. 6, 2006, 119 Stat. 3363, 3440; Pub. L. 109–364, div. A, title VII, §743, Oct. 17, 2006, 120 Stat. 2308; Pub. L. 109–444, §8(a)(6), (7), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(6), (7), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 111–84, div. A, title XVII, §1706, Oct. 28, 2009, 123 Stat. 2574.)
 
 #### References in Text
 
-The Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred to in subsec. (f)(3), is Pub. L. 107–314, Dec. 2, 2002, 116 Stat. 2458. Subtitle C (§§721–726) of title VII of division A of the Act amended this section, section 8110 of this title, and section 1104 of Title 10, Armed Forces, enacted provisions set out as notes under this section, section 8110 of this title, and sections 1074g and 1094a of Title 10, and repealed provisions set out as a note under section 1094a of Title 10. Section 722 of the Act is set out as a note under thissection. Section 725 of the Act is set out as a note under section 1094a of Title 10. For complete classification of this Act to the Code, see Tables.
+The Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred to in subsec. (f)(3), is Pub. L. 107–314, Dec. 2, 2002, 116 Stat. 2458. Subtitle C (§§721–726) of title VII of division A of the Act amended this section, section 8110 of this title, and section 1104 of Title 10, Armed Forces, enacted provisions set out as notes under this section, section 8110 of this title, and sections 1074g and 1094a of Title 10, and repealed provisions set out as a note under section 1094a of Title 10. Section 722 of the Act is set out as a note under this section. Section 725 of the Act is set out as a note under section 1094a of Title 10. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in former section 5003 of this title prior to the general revision of this subchapter by Pub. L. 96–22.
 
 #### Amendments
+
+2009—Subsec. (d)(3). Pub. L. 111–84 substituted “September 30, 2015” for “September 30, 2010”.
 
 2006—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
@@ -202,7 +204,7 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 1983—Subsec. (f). Pub. L. 97–452 substituted “section 1105 of title 31” for “section 201(a) of the Budget and Accounting Act, 1921 (31 U.S.C. 11(a))”.
 
-1982—Pub. L. 97–174, §3(b)(1), substituted “Sharing of Veterans’ Administration and Department of Defensehealth-care resources” for “Use of Armed Forces facilities” in section catchline.
+1982—Pub. L. 97–174, §3(b)(1), substituted “Sharing of Veterans’ Administration and Department of Defense health-care resources” for “Use of Armed Forces facilities” in section catchline.
 
 Subsec. (a). Pub. L. 97–174, §3(a)(1), (2), designated existing provisions as subsec. (a) and substituted “material, and other resources as may be needed to operate such facilities properly, except that the Administrator may not enter into an agreement that would result (1) in a permanent reduction in the total number of authorized Veterans’ Administration hospital beds and nursing home beds to a level below the minimum number of such beds required by section 5010(a)(1) of this title to be authorized, or (2) in a permanent reduction in the total number of such beds operated and maintained to a level below the minimum number of such beds required by such section to be operated and maintained” for “and material as may be needed to operate such facilities properly, or for the transfer, without reimbursement of appropriations, of facilities, supplies, equipment, or material necessary and proper for authorized care for veterans, except that at no time shall the Administrator enter into any agreement which will result in a permanent reduction of Veterans’ Administration hospital and domiciliary beds below the number established or approved on June 22, 1944, plus the estimated number required to meet the load of eligibles under this title,”.
 
@@ -470,7 +472,7 @@ Report.—In the report under subsection (a) for fiscal year 1996, the Secretari
 
 “(a)
 
-Right To Recover.—In the case of a primary beneficiary (as described in section 201(a)(2)(B)) who has coverage under a health-plan contract, as defined in section 1729(i)(1)(A) of title 38, United States Code, and who is furnished care or services by a Department medical facility pursuant to this title, the United States shall have the right to recover or collect charges for such care or services from such health-plan contract to the extent that the beneficiary (or the provider of the care or services) would be eligible to receive payment for such care or services from such health-plan contract if the care or services had not been furnishedby a department or agency of the United States. Any funds received from such health-plan contract shall be credited to funds that have been allotted to the facility that furnished the care or services.
+Right To Recover.—In the case of a primary beneficiary (as described in section 201(a)(2)(B)) who has coverage under a health-plan contract, as defined in section 1729(i)(1)(A) of title 38, United States Code, and who is furnished care or services by a Department medical facility pursuant to this title, the United States shall have the right to recover or collect charges for such care or services from such health-plan contract to the extent that the beneficiary (or the provider of the care or services) would be eligible to receive payment for such care or services from such health-plan contract if the care or services had not been furnished by a department or agency of the United States. Any funds received from such health-plan contract shall be credited to funds that have been allotted to the facility that furnished the care or services.
 
 “(b)
 

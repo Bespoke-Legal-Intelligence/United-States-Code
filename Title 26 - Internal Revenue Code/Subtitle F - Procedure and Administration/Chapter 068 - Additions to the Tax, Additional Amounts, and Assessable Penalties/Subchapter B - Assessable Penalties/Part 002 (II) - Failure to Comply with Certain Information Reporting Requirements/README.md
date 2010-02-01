@@ -16,6 +16,10 @@
 
 1989—Pub. L. 101–239, title VII, §7711(a), Dec. 19, 1989, 103 Stat. 2388, substituted “COMPLY WITH CERTAIN INFORMATION REPORTING REQUIREMENTS” for “FILE CERTAIN INFORMATION RETURNS OR STATEMENTS” in part heading and substituted “correct” for “certain” in items 6721 and 6722 and “comply with other information reporting requirements” for “include correct information” in item 6723.
 
+<i><sup>1</sup></i><i> So in original. The second closing parenthesis probably should not appear.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

@@ -2,7 +2,7 @@
 
 #### (a) Volunteer activities; limitation
 
-The Director shall prescribe regulations and shall carry out the provisions of this chapter so as to assure that the service of volunteers assigned, referred, or serving pursuant to grants, contracts, or agreements made under this chapter is limited to activities which would not otherwise be performed by employed workers and which will not supplant the hiring of or result in the displacement of employed workers, or impair existing contracts for service.
+The Director shall prescribe regulations and shall carry out the provisions of this chapter so as to assure that the service of volunteers assigned, referred, or serving pursuant to grants, contracts, or agreements made under this chapter is limited to activities which would not otherwise be performed by employed workers or other volunteers (not including participants under this chapter and the National and Community Service Act of 1990 (42 U.S.C. 12501 et seq.)), and which will not supplant the hiring of or result in the displacement of employed workers or other volunteers (not including participants under this chapter and the National and Community Service Act of 1990 (42 U.S.C. 12501 et seq.)),,<sup>1</sup> or impair existing contracts for service.
 
 #### (b) Support costs
 
@@ -26,13 +26,17 @@ Persons serving as volunteers under this chapter shall provide such information 
 
 (2) Notwithstanding any other provision of law, a person enrolled for full-time service as a volunteer under subchapter I of this chapter who was otherwise entitled to receive assistance or services under any governmental program prior to such volunteer's enrollment shall not be denied such assistance or services because of such volunteer's failure or refusal to register for, seek, or accept employment or training during the period of such service.
 
-(Pub. L. 93–113, title IV, §404, Oct. 1, 1973, 87 Stat. 408; Pub. L. 96–143, §9, Dec. 13, 1979, 93 Stat. 1077; Pub. L. 98–288, §19, May 21, 1984, 98 Stat. 195; Pub. L. 99–551, §10(i)(7), Oct. 27, 1986, 100 Stat. 3078; Pub. L. 103–82, title III, §364, Sept. 21, 1993, 107 Stat. 908.)
+(Pub. L. 93–113, title IV, §404, Oct. 1, 1973, 87 Stat. 408; Pub. L. 96–143, §9, Dec. 13, 1979, 93 Stat. 1077; Pub. L. 98–288, §19, May 21, 1984, 98 Stat. 195; Pub. L. 99–551, §10(i)(7), Oct. 27, 1986, 100 Stat. 3078; Pub. L. 103–82, title III, §364, Sept. 21, 1993, 107 Stat. 908; Pub. L. 111–13, title II, §2151, Apr. 21, 2009, 123 Stat. 1591.)
 
 #### References in Text
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (f)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (a), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+
+The Fair Labor Standards Act of 1938, referred to in subsec. (f)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–13 inserted “or other volunteers (not including participants under this chapter and the National and Community Service Act of 1990 (42 U.S.C. 12501 et seq.)),” after “employed workers” in two places.
 
 1993—Subsec. (c). Pub. L. 103–82, §364(1), inserted “from such volunteers or from beneficiaries” after “compensation”.
 
@@ -44,6 +48,10 @@ Subsecs. (f), (g). Pub. L. 103–82, §364(2), (3), redesignated subsec. (g) as 
 
 1979—Subsec. (g). Pub. L. 96–143 designated existing provisions as par. (1), inserted “, except that this paragraph shall not apply in the case of such payments when the Director determines that the value of all such payments, adjusted to reflect the number of hours such volunteers are serving, is equivalent to or greater than the minimum wage then in effect under the Fair Labor Standards Act of 1938 or the minimum wage, under the laws of the State where such volunteers are serving, whichever is the greater” after “governmental program”, and added par. (2).
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 392 of Pub. L. 103–82, set out as a note under section 4951 of this title.
@@ -51,4 +59,6 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 392 of Pub. L.
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provided, see section 11 of Pub. L. 99–551, set out as an Effective Date note under section 4950 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -14,7 +14,7 @@ In general.—The term “budget authority” means the authority provided by Fe
 
 &emsp;&emsp;&emsp;(i) provisions of law that make funds available for obligation and expenditure (other than borrowing authority), including the authority to obligate and expend the proceeds of offsetting receipts and collections;
 
-&emsp;&emsp;&emsp;(ii) borrowing authority, which means authority granted to a Federal entity to borrow and obligate and expend the borrowed funds, including through the issuance of promissory notes or other monetary credits;
+&emsp;&emsp;&emsp;(ii) borrowing authority, which means authority granted to a Federal entity toborrow and obligate and expend the borrowed funds, including through the issuance of promissory notes or other monetary credits;
 
 &emsp;&emsp;&emsp;(iii) contract authority, which means the making of funds available for obligation but not for expenditure; and
 
@@ -76,11 +76,11 @@ New budget authority.—The term “new budget authority” means, with respect 
 
 &emsp;(10) The term “credit authority” means authority to incur direct loan obligations or to incur primary loan guarantee commitments.
 
-(Pub. L. 93–344, §3, July 12, 1974, 88 Stat. 299; Aug. 1, 1946, ch. 724, title I, §302(c), as added Aug.30, 1954, ch. 1073, §1, as added Pub. L. 95–110, §1, Sept. 20, 1977, 91 Stat. 884, renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 99–177, title II, §§201(a), 232(b), Dec. 12, 1985, 99 Stat. 1039, 1062; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–119, title I, §106(a), Sept. 29, 1987, 101 Stat. 780; Pub. L. 100–203, title VIII, §8003(c), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §§13112(a)(2), 13201(b)(1), 13211(a), Nov. 5, 1990, 104 Stat. 1388–607, 1388–614, 1388–620; Pub. L. 105–33, title X, §10101, Aug. 5, 1997, 111 Stat. 678.)
+(Pub. L. 93–344, §3, July 12, 1974, 88 Stat. 299; Aug. 1, 1946, ch. 724, title I, §302(c), as added Aug. 30, 1954, ch. 1073, §1, as added Pub. L. 95–110, §1, Sept. 20, 1977, 91 Stat. 884, renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 99–177, title II, §§201(a), 232(b), Dec. 12, 1985, 99 Stat. 1039, 1062; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–119, title I, §106(a), Sept. 29, 1987, 101 Stat. 780; Pub. L. 100–203, title VIII, §8003(c), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §§13112(a)(2), 13201(b)(1), 13211(a), Nov. 5, 1990, 104 Stat. 1388–607, 1388–614, 1388–620; Pub. L. 105–33, title X, §10101, Aug. 5, 1997, 111 Stat. 678.)
 
 #### References in Text
 
-This Act, referred to in text, means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+This Act, referred to in text, means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes undersections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 #### Codification
 

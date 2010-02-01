@@ -60,7 +60,7 @@
 
 #### (4) Duration
 
-&emsp;Assistance may not be provided under this subsection after September 30, 2010.
+&emsp;Assistance may not be provided under this subsection after September 30, 2012.
 
 #### (c) Notification
 
@@ -98,7 +98,7 @@ In this section:
 
 &emsp;(4) The term “State” means each of the 50 States and the District of Columbia.
 
-(Pub. L. 109–163, div. A, title V, §572, Jan. 6, 2006, 119 Stat. 3271.)
+(Pub. L. 109–163, div. A, title V, §572, Jan. 6, 2006, 119 Stat. 3271; Pub. L. 111–84, div. A, title V, §533, Oct. 28, 2009, 123 Stat. 2292.)
 
 #### References in Text
 
@@ -111,6 +111,10 @@ The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (f)
 Section is comprised of section 572 of Pub. L. 109–163. Subsec. (g) of section 572 of Pub. L. 109–163 repealed section 386 of Pub. L. 102–484, formerly set out as a note under section 7703 of this title.
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2006, and not as part of the Elementary and Secondary Education Act of 1965 which comprises this chapter.
+
+#### Amendments
+
+2009—Subsec. (b)(4). Pub. L. 111–84 substituted “September 30, 2012” for “September 30, 2010”.
 
 #### Plan and Authority To Assist Local Educational Agencies Experiencing Growth in Enrollment Due to Force Structure Changes, Relocation of Military Units, or Base Closures and Realignments
 

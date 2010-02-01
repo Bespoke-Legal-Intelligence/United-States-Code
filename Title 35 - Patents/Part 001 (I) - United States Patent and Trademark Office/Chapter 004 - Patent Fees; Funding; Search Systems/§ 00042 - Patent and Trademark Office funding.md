@@ -38,7 +38,7 @@ Section 31 of the Trademark Act of 1946, referred to in subsec. (c), is classifi
 
 1999—Subsecs. (a), (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 
-Subsec. (c). Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing and, in second sentence, substituted “All fees available” for “Fees available” and “shall be used” for “may be used”.
+Subsec. (c). Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing and, in secondsentence, substituted “All fees available” for “Fees available” and “shall be used” for “may be used”.
 
 Subsec. (d). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], substituted “Director” for “Commissioner”.
 

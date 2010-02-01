@@ -64,7 +64,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### (1) In general
 
-&emsp;Beginning 3 years after August 22, 1996, the Secretary of Health and Human Services shallprepare and submit to the Committees on Ways and Means and on Education and the Workforce of the House of Representatives and to the Committees on Finance and on Labor and Resources of the Senate annual reports that examine in detail the matters described in paragraph (2) with respect to each of the following groups for the period after August 22, 1996:
+&emsp;Beginning 3 years after August 22, 1996, the Secretary of Health and Human Services shall prepare and submit to the Committees on Ways and Means and on Education and the Workforce of the House of Representatives and to the Committees on Finance and on Labor and Resources of the Senate annual reports that examine in detail the matters described in paragraph (2) with respect to each of the following groups for the period after August 22, 1996:
 
 &emsp;&emsp;(A) Individuals who were children in families that have become ineligible for assistance under a State program funded under this part by reason of having reached a time limit on the provision of such assistance.
 
@@ -144,7 +144,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### (5) Methodology
 
-&emsp;The Secretary shall prescribe regulations establishing the methodology by which a Stateshall determine the child poverty rate in the State. The methodology shall take into account factors including the number of children who receive free or reduced-price lunches, the number of supplemental nutrition assistance program benefits households, and, to the extent available, county-by-county estimates of children in poverty as determined by the Census Bureau.
+&emsp;The Secretary shall prescribe regulations establishing the methodology by which a State shall determine the child poverty rate in the State. The methodology shall take into account factors including the number of children who receive free or reduced-price lunches, the number of supplemental nutrition assistance program benefits households, and, to the extent available, county-by-county estimates of children in poverty as determined by the Census Bureau.
 
 #### (j) Evaluation of welfare-to-work programs
 
@@ -170,7 +170,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), the Secretary, in consultation with the Secretary of Labor and the Secretary of Housing and Urban Development, shall submit to the Congress reports on the projects funded under section <sup>1</sup> 603(a)(5) and 612(a)(3) of this title and on the evaluations of the projects.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), the Secretary, in consultation with the Secretary of Labor and the Secretary of Housing and Urban Development, shall submit tothe Congress reports on the projects funded under section <sup>1</sup> 603(a)(5) and 612(a)(3) of this title and on the evaluations of the projects.
 
 #### (B) Interim report
 
@@ -238,7 +238,7 @@ Committee on Education and the Workforce of House of Representatives changed to 
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by section 4002(b)(1)(D), (2)(V) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
@@ -258,7 +258,7 @@ Section effective Aug. 22, 1996, with transition rules relating to State options
 
 #### Coordination of Substance Abuse and Child Protection Services
 
-Pub. L. 105–89, title IV, §405, Nov. 19, 1997, 111 Stat. 2135, provided that: “Within 1 year after the date of the enactment of this Act \[Nov. 19, 1997\], the Secretary of Health and Human Services, based on information from the Substance Abuse and Mental Health Services Administration and the Administration for Children and Families in the Department of Health of \[sic\] Human Services, shall prepare and submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report which describes the extent and scope of the problem of substance abuse in the child welfare population, the types of services provided to such population, and the outcomes resulting from the provision of such services to such population. The report shall include recommendations for any legislation that may be needed to improve coordination in providing such services to such population.”
+Pub. L. 105–89, title IV, §405, Nov. 19, 1997, 111 Stat. 2135, provided that: “Within 1 year after the date of theenactment of this Act \[Nov. 19, 1997\], the Secretary of Health and Human Services, based on information from the Substance Abuse and Mental Health Services Administration and the Administration for Children and Families in the Department of Health of \[sic\] Human Services, shall prepare and submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report which describes the extent and scope of the problem of substance abuse in the child welfare population, the types of services provided to such population, and the outcomes resulting from the provision of such services to such population. The report shall include recommendations for any legislation that may be needed to improve coordination in providing such services to such population.”
 
 #### GAO Study of Effect of Family Violence on Need for Public Assistance
 

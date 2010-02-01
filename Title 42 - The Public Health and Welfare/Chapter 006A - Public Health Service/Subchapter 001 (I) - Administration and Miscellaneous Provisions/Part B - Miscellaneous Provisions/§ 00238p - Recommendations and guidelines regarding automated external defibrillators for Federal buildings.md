@@ -22,7 +22,7 @@ In carrying out this section, the Secretary shall—
 
 &emsp;(1) consult with appropriate public and private entities;
 
-&emsp;(2) consider the recommendations of national and local public-health organizations for improving the survival rates of individuals who experience cardiac arrest in nonhospital settings by minimizing the time elapsing between the onset of cardiac arrest and the initial medical response, including defibrillation as necessary; and
+&emsp;(2) consider the recommendations of national and local public-health organizationsfor improving the survival rates of individuals who experience cardiac arrest in nonhospital settings by minimizing the time elapsing between the onset of cardiac arrest and the initial medical response, including defibrillation as necessary; and
 
 &emsp;(3) consult with and counsel other Federal agencies where such devices are to be used.
 
@@ -62,7 +62,7 @@ Pub. L. 106–505, title IV, §402, Nov. 13, 2000, 114 Stat. 2336, provided that
 
 &emsp;“(9) Increasing public awareness regarding automated external defibrillator devices and encouraging their use in Federal buildings will greatly facilitate their adoption.
 
-&emsp;“(10) Limiting the liability of Good Samaritans and acquirers of automated external defibrillator devicesin emergency situations may encourage the use of automated external defibrillator devices, and result in saved lives.”
+&emsp;“(10) Limiting the liability of Good Samaritans and acquirers of automated external defibrillator devices in emergency situations may encourage the use of automated external defibrillator devices, and result in saved lives.”
 
 #### Certain Technologies and Practices Regarding Survival Rates for Cardiac Arrest
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-There are authorized to be appropriated to the Secretary for administrative expenses of theProgram $350,000 for each of the fiscal years 2006 through 2010.
+There are authorized to be appropriated to the Secretary for administrative expenses of the Program $350,000 for each of the fiscal years 2006 through 2010.
 
 #### (b) Limitations on use for distribution to State and regional coordinators to implement competitions
 

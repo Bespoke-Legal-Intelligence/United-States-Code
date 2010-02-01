@@ -66,7 +66,7 @@ Subsection (h), which required the Commodity Futures Trading Commission to submi
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–246, §13105(g)(1), in concluding provisions, struck out “commenced” after “receivership proceeding” and inserted “commenced” after “in a judicial proceeding”.
+2008—Subsec. (a)(1). Pub. L. 110–246, §13105(g), in concluding provisions, struck out “commenced” after “receivership proceeding” and inserted “commenced” after “in a judicial proceeding”.
 
 2000—Subsec. (a)(3). Pub. L. 106–554, §1(a)(5) \[title II, §253(a)\], added par. (3).
 

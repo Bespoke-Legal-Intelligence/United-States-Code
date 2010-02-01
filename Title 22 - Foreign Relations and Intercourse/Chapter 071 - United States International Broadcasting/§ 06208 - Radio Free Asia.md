@@ -30,7 +30,7 @@ Any grant agreement or grants under this section shall be subject to the followi
 
 #### (d) Limitations on administrative and managerial costs
 
-It is the sense of the Congress that administrative and managerial costs for operation of Radio Free Asia should be kept to a minimumand, to the maximum extent feasible, should not exceed the costs that would have been incurred if Radio Free Asia had been operated as a Federal entity rather than as a grantee.
+It is the sense of the Congress that administrative and managerial costs for operation of Radio Free Asia should be kept to a minimum and, to the maximum extent feasible, should not exceed the costs that would have been incurred if Radio Free Asia had been operated as a Federal entity rather than as a grantee.
 
 #### (e) Assessment of effectiveness of Radio Free Asia
 
@@ -48,7 +48,7 @@ Not later than 3 years after the date on which initial funding is provided for t
 
 #### (f) Sunset provision
 
-The Board may not make any grant for the purpose of operating Radio Free Asia after September 30, 2009.
+The Board may not make any grant for the purpose of operating Radio Free Asia after September 30, 2010.
 
 #### (g) Notification and consultation regarding displacement of Voice of America broadcasting
 
@@ -58,9 +58,11 @@ The Board shall notify the appropriate congressional committees before entering 
 
 Nothing in this chapter may be construed to make Radio Free Asia a Federal agency or instrumentality.
 
-(Pub. L. 103–236, title III, §309, Apr. 30, 1994, 108 Stat. 439; Pub. L. 103–415, §1(s)(2), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title V, §501\], Nov. 29, 1999, 113 Stat. 1536, 1501A–450; Pub. L. 110–321, §4, Sept. 19, 2008, 122 Stat. 3535.)
+(Pub. L. 103–236, title III, §309, Apr. 30, 1994, 108 Stat. 439; Pub. L. 103–415, §1(s)(2), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title V, §501\], Nov. 29, 1999, 113 Stat. 1536, 1501A–450; Pub. L. 110–321, §4, Sept. 19, 2008, 122 Stat. 3535; Pub. L. 111–71, §1, Oct. 9, 2009, 123 Stat. 2058.)
 
 #### Amendments
+
+2009—Subsec. (f). Pub. L. 111–71 substituted “2010” for “2009”.
 
 2008—Subsec. (c)(2). Pub. L. 110–321 substituted “2010” for “2009”.
 

@@ -8,7 +8,7 @@ It shall be unlawful for any of the following persons to serve or act in the cap
 
 &emsp;(2) any person who, by reason of any misconduct, is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an underwriter, broker, dealer, investment adviser, municipal securities dealer, government securities broker, government securities dealer, bank, transfer agent, credit rating agency, or entity or person required to be registered under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or as an affiliated person, salesman, or employee of any investment company, bank, insurance company, or entity or person required to be registered under the Commodity Exchange Act, or from engaging in or continuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security; or
 
-&emsp;(3) a company any affiliated person of which is ineligible, by reason of paragraph (1) or (2) of this subsection, to serve or act in the foregoing capacities.
+&emsp;(3) a company any affiliated person of which is ineligible, by reason of paragraph (1) or (2)of this subsection, to serve or act in the foregoing capacities.
 
 > For the purposes of paragraphs (1) to (3) of this subsection, the term “investment adviser” shall include an investment adviser as defined in subchapter II of this chapter.
 
@@ -56,7 +56,7 @@ Any person who is ineligible, by reason of subsection (a) of this section, to se
 
 #### (A) First tier
 
-&emsp;&emsp;The maximum amount of penalty for each act or omission described in paragraph (1) shall be $5,000 for a natural person or $50,000 for any other person.
+&emsp;&emsp;The maximum amount of penalty for each act or omission described in paragraph (1)shall be $5,000 for a natural person or $50,000 for any other person.
 
 #### (B) Second tier
 
@@ -108,11 +108,11 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 #### (A) In general
 
-&emsp;&emsp;Whenever the Commission determines that the alleged violation or threatened violation specified in the notice instituting proceedings pursuant to paragraph (1), or the continuation thereof, is likely to result in significant dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest, including, but not limited to, losses to the Securities Investor Protection Corporation, prior to the completion of the proceeding, the Commission may enter a temporary order requiring the respondent to cease and desist from the violation or threatened violation and to take such action to prevent the violation or threatened violation and to prevent dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest as the Commission deems appropriate pending completion of such proceedings. Such an order shall be entered only after notice and opportunity for a hearing, unless the Commission, notwithstanding section 80a–39(a) of this title, determines that notice and hearing prior to entry would be impracticable or contrary to the public interest. A temporary order shall become effective upon service upon the respondent and, unless set aside, limited, or suspended by the Commission or a court of competent jurisdiction, shall remain effective and enforceable pending the completion of the proceedings.
+&emsp;&emsp;Whenever the Commission determines that the alleged violation or threatened violation specified in the notice instituting proceedings pursuant to paragraph (1), or the continuation thereof, is likely to result in significant dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest, including, but not limited to, losses to the Securities Investor Protection Corporation, prior to the completion of the proceeding, the Commission may enter a temporary order requiring the respondent to cease and desist from theviolation or threatened violation and to take such action to prevent the violation or threatened violation and to prevent dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest as the Commission deems appropriate pending completion of such proceedings. Such an order shall be entered only after notice and opportunity for a hearing, unless the Commission, notwithstanding section 80a–39(a) of this title, determines that notice and hearing prior to entry would be impracticable or contrary to the public interest. A temporary order shall become effective upon service upon the respondent and, unless set aside, limited, or suspended by the Commission or a court of competent jurisdiction, shall remain effective and enforceable pending the completion of the proceedings.
 
 #### (B) Applicability
 
-&emsp;&emsp;This paragraph shall apply only to a respondent that acts, or, at the time of the alleged misconduct acted, as a broker, dealer, investment adviser, investment company, municipal securities dealer, government securities broker, government securities dealer, or transfer agent, or is, or was at thetime of the alleged misconduct, an associated person of, or a person seeking to become associated with, any of the foregoing.
+&emsp;&emsp;This paragraph shall apply only to a respondent that acts, or, at the time of the alleged misconduct acted, as a broker, dealer, investment adviser, investment company, municipal securities dealer, government securities broker, government securities dealer, or transfer agent, or is, or was at the time of the alleged misconduct, an associated person of, or a person seeking to become associated with, any of the foregoing.
 
 #### (4) Review of temporary orders
 

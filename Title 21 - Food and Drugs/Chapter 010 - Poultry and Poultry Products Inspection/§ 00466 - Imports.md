@@ -58,7 +58,7 @@ Subsec. (d)(2)(A). Pub. L. 103–465, §431(k)(2)(A), amended subpar. (A) genera
 
 &emsp;“(II) have been processed in facilities and under conditions that meet standards that are equivalent to United States standards.”
 
-Subsec. (d)(2)(B), (C). Pub. L. 103–465, §431(k)(2)(B), (C), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The Secretary may treat as equivalent to a United States standard a standard of Canada or Mexico described in subparagraph (A)(ii) if the exporting country provides the Secretary with scientific evidence or other information, in accordance with risk assessment methodologies agreed to by the Secretary and the exporting country, to demonstrate that the standard of the exporting country achieves the level of protection that the Secretary considers appropriate.”
+Subsec. (d)(2)(B), (C). Pub. L. 103–465, §431(k)(2)(B), (C), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The Secretary may treat as equivalent to a United States standard a standard of Canada or Mexico described insubparagraph (A)(ii) if the exporting country provides the Secretary with scientific evidence or other information, in accordance with risk assessment methodologies agreed to by the Secretary and the exporting country, to demonstrate that the standard of the exporting country achieves the level of protection that the Secretary considers appropriate.”
 
 1993—Subsec. (d). Pub. L. 103–182, in par. (1), inserted “except as provided in paragraph (2),” before “all poultry” in introductory provisions, added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 

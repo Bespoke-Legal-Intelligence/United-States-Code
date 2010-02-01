@@ -58,7 +58,7 @@ A project assisted under this section may provide services such as—
 
 #### (1) Use for student aid
 
-&emsp;A recipient of a grant that undertakes any of the permissible services identified in subsection (c) may, in addition, use such funds to provide grant aid to students. A grant provided under this paragraph shall not exceed the maximum appropriated Pell Grant or, be less than the minimum appropriated Pell Grant, for the current academic year. In making grants to students under this subsection, an institution shall ensure that adequate consultation takes place between the student support service program office and the institution's financial aid office.
+&emsp;A recipient of a grant that undertakes any of the permissible services identified in subsection (c) may, in addition, use such funds to provide grant aid to students. A grant provided under this paragraph shall not exceed the maximum appropriated Pell Grant or, be less than the minimum appropriated PellGrant, for the current academic year. In making grants to students under this subsection, an institution shall ensure that adequate consultation takes place between the student support service program office and the institution's financial aid office.
 
 #### (2) Eligible students
 
@@ -134,7 +134,7 @@ Subsec. (e). Pub. L. 110–315, §403(d)(2), (5), redesignated subsec. (d) as (e
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(1) \[title III, §317(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to student support services grants awarded on or after the date of enactment of this Act \[Dec. 21, 2000\].”
+Pub. L. 106–554, §1(a)(1) \[title III, §317(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49, provided that: “Theamendments made by subsection (a) \[amending this section\] shall apply with respect to student support services grants awarded on or after the date of enactment of this Act \[Dec. 21, 2000\].”
 
 #### Effective Date of 1998 Amendment
 

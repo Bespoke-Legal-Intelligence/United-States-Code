@@ -96,7 +96,7 @@ To be eligible to be awarded a prize under this section—
 
 &emsp;(1) in the case of a private entity, the entity shall be incorporated in and maintain a primary place of business in the United States; and
 
-&emsp;(2) in the case of an individual (whether participating as a single individual or in a group), the individual shall be a citizen or lawful permanent resident of the United States.
+&emsp;(2) in the case of an individual (whether participating as a single individual or in a group),the individual shall be a citizen or lawful permanent resident of the United States.
 
 #### (g) Award amounts
 
@@ -116,7 +116,7 @@ Subject to the availability of funds to carry out this section, the amount of—
 
 #### (2) PAR 38 halogen replacement lamp replacement <sup>1</sup>
 
-&emsp;Subject to paragraph (3), as soon as practicable after the successful award of the PAR Type 38 Halogen Replacement Lamp Prize under subsection (b)(2), the Secretary (in consultation with the Administrator of General Services) shall develop governmentwide Federal purchase guidelines with the goal of replacing the use of PAR 38 halogen lamps in Federal Government buildings with a solid-state-light package described in subsection\(b)(2) by not later than the date that is 5 years after the date the award is made.
+&emsp;Subject to paragraph (3), as soon as practicable after the successful award of the PAR Type 38 Halogen Replacement Lamp Prize under subsection (b)(2), the Secretary (in consultation with the Administrator of General Services) shall develop governmentwide Federal purchase guidelines with the goal of replacing the use of PAR 38 halogen lamps in Federal Government buildings with a solid-state-light package described in subsection (b)(2) by not later than the date that is 5 years after the date the award is made.
 
 #### (3) Waivers
 

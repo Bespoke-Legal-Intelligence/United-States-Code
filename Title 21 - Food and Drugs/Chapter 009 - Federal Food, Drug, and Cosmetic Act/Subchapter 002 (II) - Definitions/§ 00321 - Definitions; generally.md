@@ -16,7 +16,7 @@ For the purposes of this chapter—
 
 (f) The term “food” means (1) articles used for food or drink for man or other animals, (2) chewing gum, and (3) articles used for components of any such article.
 
-(g)(1) The term “drug” means (A) articles recognized in the official United States Pharmacopoeia, official Homoeopathic Pharmacopoeia of the United States, or official National Formulary, or any supplement to any of them; and (B) articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in man or other animals; and (C) articles (other than food) intended to affect the structure or any function of the body of man or other animals; and (D) articles intended for use as a component of any article specified in clause (A), (B), or (C). A food or dietary supplement for which a claim, subject to sections 343(r)(1)(B) and 343(r)(3) of this title or sections 343(r)(1)(B) and 343(r)(5)(D) of this title, is made in accordance with the requirements of section 343(r) of this title is not a drug solely because the label or the labeling contains such a claim. A food, dietary ingredient, or dietary supplement for which a truthful and not misleading statement is made in accordance with section 343(r)(6) of this title is not a drug under clause (C) solely because the label or the labeling contains such a statement.
+(g)(1) The term “drug” means (A) articles recognized in the official United States Pharmacopoeia, official Homoeopathic Pharmacopoeia of the United States, or official National Formulary, or any supplement to any of them; and (B) articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in man or other animals; and (C) articles (other than food) intended to affect the structure or any function of the body of man or other animals; and (D) articles intended for use as a component of any article specified in clause (A), (B), or (C). A food or dietary supplement for which a claim, subject to sections 343(r)(1)(B)and 343(r)(3) of this title or sections 343(r)(1)(B) and 343(r)(5)(D) of this title, is made in accordance with the requirements of section 343(r) of this title is not a drug solely because the label or the labeling contains such a claim. A food, dietary ingredient, or dietary supplement for which a truthful and not misleading statement is made in accordance with section 343(r)(6) of this title is not a drug under clause (C) solely because the label or the labeling contains such a statement.
 
 (2) The term “counterfeit drug” means a drug which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, or device, or any likeness thereof, of a drug manufacturer, processor, packer, or distributor other than the person or persons who in fact manufactured, processed, packed, or distributed such drug and which thereby falsely purports or is represented to be the product of, or to have been packed or distributed by, such other drug manufacturer, processor, packer, or distributor.
 
@@ -98,7 +98,7 @@ For the purposes of this chapter—
 
 &emsp;(A) is a dye, pigment, or other substance made by a process of synthesis or similar artifice, or extracted, isolated, or otherwise derived, with or without intermediate or final change of identity, from a vegetable, animal, mineral, or other source, and
 
-&emsp;(B) when added or applied to a food, drug, or cosmetic, or to the human body or any part thereof, is capable (alone or through reaction with other substance) of imparting color thereto;
+&emsp;(B) when added or applied to a food, drug, or cosmetic, or to the human body or any part thereof, is capable (alone or through reactionwith other substance) of imparting color thereto;
 
 > except that such term does not include any material which the Secretary, by regulation, determines is used (or intended to be used) solely for a purpose or purposes other than coloring.
 
@@ -208,7 +208,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;&emsp;(ii) an article authorized for investigation as a new drug, antibiotic, or biological for which substantial clinical investigations have been instituted and for which the existence of such investigations has been made public,
 
-> &emsp;which was not before such approval, certification, licensing, or authorization marketed as a dietary supplement or as a food unless the Secretary, in the Secretary's discretion, has issued a regulation, after notice and comment, finding that the article would be lawful under this chapter.
+> &emsp;which was not before such approval, certification, licensing, or authorization marketed as a dietary supplement or as a food unless the Secretary, in the Secretary's discretion, has issued a regulation, after notice and comment, finding that the article would be lawful under this chapter.<sup>2</sup>
 
 > Except for purposes of paragraph (g) and section 350f of this title, a dietary supplement shall be deemed to be a food within the meaning of this chapter.
 
@@ -260,11 +260,19 @@ Priority supplement.—The term “priority supplement” means a drug applicati
 
 &emsp;&emsp;(B) A food ingredient that is exempt under paragraph (6) or (7) of section 343(w) of this title.
 
-(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Pub. L. 85–929, §2, Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–618, title I, §101, July 12, 1960, 74 Stat. 397; Pub. L. 87–781, title I, §102(a), title III, §307(a), Oct. 10, 1962, 76 Stat. 781, 796; Pub. L. 89–74, §§3(a), 9(b), July 15, 1965, 79 Stat. 227, 234; Pub. L. 90–399, §102, July 13, 1968, 82 Stat. 351; Pub. L. 90–639, §§1, 4(a), Oct. 24, 1968, 82 Stat. 1361, 1362; Pub. L. 91–513, title II, §701(a), (g), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–278, title V, §502(a)(2)(A), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §3(a)(1)(A), (2), May 28, 1976, 90 Stat. 575; Pub. L. 95–203, §4(b)(3), Nov. 23, 1977, 91 Stat. 1453; Pub. L. 96–359, §3, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 100–670, title I, §107(a)(1), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 101–535, §5(b), Nov. 8, 1990, 104 Stat. 2362; Pub. L. 101–629, §16(b), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–282, §6, May 13, 1992, 106 Stat. 161; Pub. L. 102–300, §6(a), (b), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(1), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§3(b), (dd)(1), 4(b), Aug. 13, 1993, 107 Stat. 775, 779; Pub. L. 103–417, §§3(a), (b), 10(a), Oct. 25, 1994, 108 Stat. 4327, 4332; Pub. L. 104–170, title IV, §402, Aug. 3, 1996, 110 Stat. 1513; Pub. L. 105–115, title I, §§121(a), 125(b)(2)(A), (e), Nov. 21, 1997, 111 Stat. 2320, 2325, 2327; Pub. L. 105–324, §2(a), (c), Oct. 30, 1998, 112 Stat. 3035, 3037; Pub. L. 107–109, §5(b)(1), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–250, title III, §302(d), Oct. 26, 2002, 116 Stat. 1619; Pub. L. 108–282, title I, §102(b)(1), (5)(A), (B), title II, §203(c)(1), Aug. 2, 2004, 118 Stat. 891, 902, 908; Pub. L. 110–85, title X, §1005(c), Sept. 27, 2007, 121 Stat. 968.)
+(rr)(1) The term “tobacco product” means any product made or derived from tobacco that is intended for human consumption, including any component, part, or accessory of a tobacco product (except for raw materials other than tobacco used in manufacturing a component, part, or accessory of a tobacco product).
+
+(2) The term “tobacco product” does not mean an article that is a drug under subsection (g)(1), a device under subsection (h), or a combination product described in section 353(g) of this title.
+
+(3) The products described in paragraph (2) shall be subject to subchapter V of this chapter.
+
+(4) A tobacco product shall not be marketed in combination with any other article or product regulated under this chapter (including a drug, biologic, food, cosmetic, medical device, or a dietary supplement).
+
+(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Pub. L. 85–929, §2, Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–618, title I, §101, July 12, 1960, 74 Stat. 397; Pub. L. 87–781, title I, §102(a), title III, §307(a), Oct. 10, 1962, 76 Stat. 781, 796; Pub. L. 89–74, §§3(a), 9(b), July 15, 1965, 79 Stat. 227, 234; Pub. L. 90–399, §102, July 13, 1968, 82 Stat. 351; Pub. L. 90–639, §§1, 4(a), Oct. 24, 1968, 82 Stat. 1361, 1362; Pub. L. 91–513, title II, §701(a), (g), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–278, title V, §502(a)(2)(A), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §3(a)(1)(A), (2), May 28, 1976, 90 Stat. 575; Pub. L. 95–203, §4(b)(3), Nov. 23, 1977, 91 Stat. 1453; Pub. L. 96–359, §3, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 100–670, title I, §107(a)(1), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 101–535, §5(b), Nov. 8, 1990, 104 Stat. 2362; Pub. L. 101–629, §16(b), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–282, §6, May 13, 1992, 106 Stat. 161; Pub. L. 102–300, §6(a), (b), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(1), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§3(b), (dd)(1), 4(b), Aug. 13, 1993, 107 Stat. 775, 779; Pub. L. 103–417, §§3(a), (b), 10(a), Oct. 25, 1994, 108 Stat. 4327, 4332; Pub. L. 104–170, title IV, §402, Aug. 3, 1996, 110 Stat. 1513; Pub. L. 105–115, title I, §§121(a), 125(b)(2)(A), (e), Nov. 21, 1997, 111 Stat. 2320, 2325, 2327; Pub. L. 105–324, §2(a), (c), Oct. 30, 1998, 112 Stat. 3035, 3037; Pub. L. 107–109, §5(b)(1), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–250, title III, §302(d), Oct. 26, 2002, 116 Stat. 1619; Pub. L. 108–282, title I, §102(b)(1), (5)(A), (B), title II, §203(c)(1), Aug. 2, 2004, 118 Stat. 891, 902, 908; Pub. L. 110–85, title X, §1005(c), Sept. 27, 2007, 121 Stat. 968; Pub. L. 111–31, div. A, title I, §101(a), June 22, 2009, 123 Stat. 1783.)
 
 #### References in Text
 
-The Food and Drugs Act of June 30, 1906, as amended, referred to in par. (p)(1), and the Food and Drug Act of June 30, 1906, as amended, referred to in par. (v)(1), is act June 30, 1906, ch. 3915, 34 Stat. 768, as amended, which was classified to subchapter I (§1 et seq.) of chapter 1 of this title, was repealed (except for section 14a which was transferred to section 372a of this title) by act June 25, 1938, ch. 675, §902(a), 52 Stat. 1059, and is covered by this chapter.
+The Food and Drugs Act of June 30, 1906, as amended, referred to in par. (p)(1), and the Food and Drug Act of June 30, 1906, as amended, referred to in par. (v)(1), is act June 30, 1906, ch. 3915, 34 Stat. 768, which was classified to subchapter I (§1 et seq.) of chapter 1 of this title, was repealed (except for section 14a which was transferred to section 376 of this title) by act June 25, 1938, ch. 675, §1002(a), formerly §902(a), 52 Stat. 1059; renumbered §1002(a), Pub. L. 111–31, div. A, title I, §101(b)(2), June 22, 2009, 123 Stat. 1784, and is covered by this chapter.
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (q)(1), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
@@ -275,6 +283,8 @@ The Meat Inspection Act of March 4, 1907, as amended and extended, referred to i
 Section 101(4) of the Food and Drug Administration Modernization Act of 1997, referred to in par. (kk), is section 101(4) of Pub. L. 105–115, which is set out as a note under section 379g of this title.
 
 #### Amendments
+
+2009—Par. (rr). Pub. L. 111–31 added par. (rr).
 
 2007—Par. (ff). Pub. L. 110–85 substituted “paragraph (g) and section 350f of this title” for “paragraph (g)” in concluding provisions.
 
@@ -326,7 +336,7 @@ Par. (h). Pub. L. 103–80, §4(b), amended directory language of Pub. L. 102–
 
 Pars. (v) to (ff). Pub. L. 103–80, §3(b), redesignated pars. (w) to (ff) as (v) to (ee), respectively.
 
-1992—Pars. (c), (d). Pub. L. 102–300, §6(b)(1), which directed the substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because such words did not appear in theoriginal statutory text. See 1993 Amendment note above and Transfer of Functions notes below.
+1992—Pars. (c), (d). Pub. L. 102–300, §6(b)(1), which directed the substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because such words did not appear in the original statutory text. See 1993 Amendment note above and Transfer of Functions notes below.
 
 Par. (h). Pub. L. 102–300, §6(a)(1), as amended by Pub. L. 103–80, §4(b), substituted “its primary” for “any of its principal” in two places in concluding provisions.
 
@@ -374,7 +384,7 @@ Par. (v)(3). Pub. L. 90–639, §1, inserted reference to lysergic acid diethyla
 
 Pars. (w), (x). Pub. L. 90–399, §102(e), added pars. (w) and (x).
 
-1965—Par. (g). Pub. L. 89–74, §9(b), designated existing provisions as subpar. (1), redesignated cls. (1) to (4) thereof as (A) to (D), substituted “(A), (B), or (C)” for “(1), (2), or (3)” and added subpar. (2).
+1965—Par. (g). Pub. L. 89–74, §9(b), designated existing provisions as subpar. (1), redesignated cls. (1) to (4)thereof as (A) to (D), substituted “(A), (B), or (C)” for “(1), (2), or (3)” and added subpar. (2).
 
 Par. (v). Pub. L. 89–74, §3(a), added par. (v).
 
@@ -438,7 +448,7 @@ Section 107 of Pub. L. 87–781 provided that:
 
 “(c)(1) As used in this subsection, the term ‘enactment date’ means the date of enactment of this Act; and the term ‘basic Act’ means the Federal Food, Drug, and Cosmetic Act \[this chapter\].
 
-“(2) An application filed pursuant to section 505(b) of the basic Act \[section 355(b) of this title\] which was ‘effective’ within the meaning of that Act on the day immediately preceding the enactment date shall be deemed as of the enactment date, to be an application ‘approved’ by the Secretary within the meaning of the basic Act as amended by this Act.
+“(2) An application filed pursuant to section 505(b) of the basic Act \[section 355(b) of this title\] which was ‘effective’ within the meaning of that Act on the day immediately preceding the enactment date shall bedeemed as of the enactment date, to be an application ‘approved’ by the Secretary within the meaning of the basic Act as amended by this Act.
 
 “(3) In the case of any drug with respect to which an application filed under section 505(b) of the basic Act is deemed to be an approved application on the enactment date by virtue of paragraph (2) of this subsection—
 
@@ -462,7 +472,7 @@ For effective date of amendment by act July 22, 1954, see section 5 of that act,
 
 #### Construction of Amendments by Pub. L. 102–282
 
-Amendment by Pub. L. 102–282 not to preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same actionsubject to any action or civil penalty under an amendment made by Pub. L. 102–282, see section 7 of Pub. L. 102–282, set out as a note under section 335a of this title.
+Amendment by Pub. L. 102–282 not to preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same action subject to any action or civil penalty under an amendment made by Pub. L. 102–282, see section 7 of Pub. L. 102–282, set out as a note under section 335a of this title.
 
 #### Construction of Amendments by Pub. L. 101–535
 
@@ -486,7 +496,7 @@ Secretary and Department of Health, Education, and Welfare redesignated Secretar
 
 Functions of Secretary of Health, Education, and Welfare \[now Health and Human Services\] under Federal Food, Drug, and Cosmetic Act, to the extent such functions related to administration and enforcement of the Poison Prevention Packaging Act of 1970 (15 U.S.C. 1471 et seq.), transferred to Consumer Product Safety Commission by section 2079 of Title 15, Commerce and Trade.
 
-Functions of Secretary of Health, Education, and Welfare \[now Health and Human Services\] under Drug Abuse Control Amendments of 1965 \[see Short Title of 1965 Amendment note set out under section 301 of this title\] transferred to Attorney General except function of regulating counterfeiting of those drugs which are not “depressant or stimulant” drugs, see section 2 of Reorg. Plan No. 1 of 1968, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of Secretary of Health, Education, and Welfare \[now Health and Human Services\] under Drug Abuse Control Amendments of 1965 \[see Short Title of 1965 Amendment note set out under section 301 of this title\] transferred to Attorney General except functionof regulating counterfeiting of those drugs which are not “depressant or stimulant” drugs, see section 2 of Reorg. Plan No. 1 of 1968, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
@@ -567,4 +577,6 @@ Section 202 of Pub. L. 87–781 provided that: “Nothing in the amendments made
 Section 2 of Pub. L. 105–115 provided that: “In this Act \[see Short Title of 1997 Amendment note set out under section 301 of this title\], the terms ‘drug’, ‘device’, ‘food’, and ‘dietary supplement’ have the meaning given such terms in section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321).”
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(v)”.</i>
+
+<i><sup>2</sup></i><i> So in original. Provision probably should be set flush with subpar. (B).</i>
 

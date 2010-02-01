@@ -8,7 +8,7 @@ An application for assistance may be filed jointly by a community development fi
 
 The Fund shall require a community partnership application—
 
-&emsp;(1) to meet the minimum requirements established for community development financial institutions under section 4704(b) of thistitle, except that the criteria specified in paragraphs (1) and (2)(A) of section 4704(b) of this title shall not apply to the community partner;
+&emsp;(1) to meet the minimum requirements established for community development financial institutions under section 4704(b) of this title, except that the criteria specified in paragraphs (1) and (2)(A) of section 4704(b) of this title shall not apply to the community partner;
 
 &emsp;(2) to describe how each coapplicant will participate in carrying out the community partnership and how the partnership will enhance activities serving the investment area or targeted population; and
 

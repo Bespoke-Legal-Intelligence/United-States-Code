@@ -8,7 +8,7 @@ For purposes of this chapter—
 
 (c) “Indians” or “Indian”, unless otherwise designated, means any person who is a member of an Indian tribe, as defined in subsection (d) of this section, except that, for the purpose of sections 1612 and 1613 of this title, such terms shall mean any individual who (1), irrespective of whether he or she lives on or near a reservation, is a member of a tribe, band, or other organized group of Indians, including those tribes, bands, or groups terminated since 1940 and those recognized now or in the future by the State in which they reside, or who is a descendant, in the first or second degree, of any such member, or (2) is an Eskimo or Aleut or other Alaska Native, or (3) is considered by the Secretary of the Interior to be an Indian for any purpose, or (4) is determined to be an Indian under regulations promulgated by the Secretary.
 
-(d) “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or group or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688) \[43 U.S.C. 1601 et seq.\], which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+(d) “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or group or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688) \[43U.S.C. 1601 et seq.\], which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 (e) “Tribal organization” means the elected governing body of any Indian tribe or any legally established organization of Indians which is controlled by one or more such bodies or by a board of directors elected or selected by one or more such bodies (or elected by the Indian population to be served by such organization) and which includes the maximum participation of Indians in all phases of its activities.
 
@@ -24,7 +24,7 @@ For purposes of this chapter—
 
 &emsp;(1) an administrative entity within the Indian Health Service, or
 
-&emsp;(2) a tribe or tribal organization operating health care programs or facilities with fundsfrom the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\],
+&emsp;(2) a tribe or tribal organization operating health care programs or facilities with funds from the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\],
 
 > through which services are provided, directly or by contract, to the eligible Indian population within a defined geographic area.
 

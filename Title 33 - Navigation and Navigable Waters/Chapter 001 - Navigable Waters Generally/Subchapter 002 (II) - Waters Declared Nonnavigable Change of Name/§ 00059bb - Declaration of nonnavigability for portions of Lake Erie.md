@@ -10,13 +10,13 @@ The declaration under subsection (a) of this section shall apply only to those p
 
 #### (c) Expiration date
 
-If, 20 years from November 28, 1990, any area or part thereof described in the Committee print referred to in subsection (a) of this section is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set out in subsection (b) of this section, or if work in connection with any activity permitting <sup>1</sup> in subsection (b) of this section is not commenced within 5 years after issuance of such permits, then the declaration of nonnavigability for such area or part thereof shall expire.
+If, 20 years from November 28, 1990, any area or part thereof described in the Committee printreferred to in subsection (a) of this section is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set out in subsection (b) of this section, or if work in connection with any activity permitting <sup>1</sup> in subsection (b) of this section is not commenced within 5 years after issuance of such permits, then the declaration of nonnavigability for such area or part thereof shall expire.
 
 (Pub. L. 101–640, title IV, §408, Nov. 28, 1990, 104 Stat. 4647.)
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Change of Name
 

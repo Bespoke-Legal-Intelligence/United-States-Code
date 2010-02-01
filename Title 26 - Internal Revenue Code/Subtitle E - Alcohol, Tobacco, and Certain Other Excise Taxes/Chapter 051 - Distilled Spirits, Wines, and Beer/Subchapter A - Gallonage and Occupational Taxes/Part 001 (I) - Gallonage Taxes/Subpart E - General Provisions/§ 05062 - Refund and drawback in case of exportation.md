@@ -2,7 +2,7 @@
 
 #### (a) Refund
 
-Under such regulations as the Secretary may prescribe, the amount of any internal revenue tax erroneously or illegally collected in respectto exported articles may be refunded to the exporter of the article, instead of to the manufacturer, if the manufacturer waives any claim for the amount so to be refunded.
+Under such regulations as the Secretary may prescribe, the amount of any internal revenue tax erroneously or illegally collected in respect to exported articles may be refunded to the exporter of the article, instead of to the manufacturer, if the manufacturer waives any claim for the amount so to be refunded.
 
 #### (b) Drawback
 

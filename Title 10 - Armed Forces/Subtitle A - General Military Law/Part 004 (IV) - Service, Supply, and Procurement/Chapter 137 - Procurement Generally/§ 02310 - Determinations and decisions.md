@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 Feb. 19, 1948, ch. 65, §7(a) (1st sentence), (c), 62 Stat. 24.
 
-In subsection (a), the words “required \* \* \* under” are substituted for the words “provided in”.
+In subsection (a), the words “required under” are substituted for the words “provided in”.
 
 In subsection (b), the word “person” is substituted for the word “official”. The words “to which it applies” are inserted for clarity.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To natural wine made from berries or fruit other than grapes, pure dry sugar or liquid sugar may be added to the juice in the fermenter, orto the wine after fermentation; but only if such wine has not more than 14 percent alcohol by volume after complete fermentation, or after complete fermentation and sweetening, and a total solids content not in excess of 21 percent by weight; and except that the use under this subsection of liquid sugar shall be limited so that the resultant volume will not exceed the volume which could result from the maximum authorized use of pure dry sugar only.
+To natural wine made from berries or fruit other than grapes, pure dry sugar or liquid sugar may be added to the juice in the fermenter, or to the wine after fermentation; but only if such wine has not more than 14 percent alcohol by volume after complete fermentation, or after complete fermentation and sweetening, and a total solids content not in excess of 21 percent by weight; and except that the use under this subsection of liquid sugar shall be limited so that the resultant volume will not exceed the volume which could result from the maximum authorized use of pure dry sugar only.
 
 #### (b) Ameliorated fruit and berry wines
 
@@ -26,7 +26,7 @@ A prior section 5384, act Aug. 16, 1954, ch. 736, 68A Stat. 670, consisted of pr
 
 #### Amendments
 
-1997—Subsec. (b)(2)(D). Pub. L. 105–34 substituted “any fruit or berry with a natural fixed acid of 20 parts per thousand or more (before any correction of such fruit or berry)” for “loganberries, currants, or gooseberries,”.
+1997—Subsec. (b)(2)(D). Pub. L. 105–34 substituted “any fruit or berry with a natural fixed acid of 20 partsper thousand or more (before any correction of such fruit or berry)” for “loganberries, currants, or gooseberries,”.
 
 1968—Subsec. (a). Pub. L. 90–619 substituted “not more than 14 percent” for “less than 14 percent”.
 

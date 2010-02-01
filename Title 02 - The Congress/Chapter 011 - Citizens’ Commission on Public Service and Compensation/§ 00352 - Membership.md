@@ -36,7 +36,7 @@
 
 (7) Each member of the Commission shall be paid at the rate of $100 for each day such member is engaged upon the work of the Commission and shall be allowed travel expenses, including a per diem allowance, in accordance with section 5703 of title 5, when engaged in the performance of services for the Commission.
 
-(8)(A) The terms of office of persons first appointed as members of the Commission shall be for the period of the 1993 fiscal year of the Federal Government, and shall begin not later than February 14, 1993.
+(8)(A) The terms of office of persons first appointed as members of the Commission shall befor the period of the 1993 fiscal year of the Federal Government, and shall begin not later than February 14, 1993.
 
 (B) After the close of the 1993 fiscal year of the Federal Government, persons shall be appointed as members of the Commission with respect to every fourth fiscal year following the 1993 fiscal year. The terms of office of persons so appointed shall be for the period of the fiscal year with respect to which the appointment is made, except that, if any appointment is made after the beginning and before the close of any such fiscal year, the term of office based on such appointment shall be for the remainder of such fiscal year.
 

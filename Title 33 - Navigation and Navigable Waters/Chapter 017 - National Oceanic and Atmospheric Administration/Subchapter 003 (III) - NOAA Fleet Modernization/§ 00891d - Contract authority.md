@@ -34,7 +34,7 @@
 
 #### (b) Service contracts
 
-Notwithstanding any other provision of law, the Secretary may enter into multiyear contracts for oceanographic research, fisheries research, and mapping and charting services to assist the Secretary in fulfilling NOAA missions. The Secretary may only enter into these contracts if—
+Notwithstanding any other provision of law, the Secretary may enter into multiyear contracts for oceanographic research, fisheries research, and mapping and charting services to assist the Secretary in fulfilling NOAA missions.The Secretary may only enter into these contracts if—
 
 &emsp;(1) the Secretary finds that it is in the public interest to do so;
 

@@ -348,7 +348,7 @@ Sec. 4. <i>Definitions</i>. For the purposes of this order: (a) “Schools” me
 
 (b) “Community-based educational organizations” means nonprofit entities that are engaged in collaborative projects with schools or that have education as their primary focus. Such organizations shall qualify as nonprofit educational institutions or organizations for purposes of section 203(j) of the Federal Property and Administrative Services Act of 1949, as amended \[now 40 U.S.C. 549\].
 
-(c) “Educationally useful Federal equipment” means computers and related peripheral tools (e.g., printers,modems, routers, and servers), including telecommunications and research equipment, that are appropriate for use in prekindergarten, elementary, middle, or secondary school education. It shall also include computer software, where the transfer of licenses is permitted.
+(c) “Educationally useful Federal equipment” means computers and related peripheral tools (e.g., printers, modems, routers, and servers), including telecommunications and research equipment, that are appropriate for use in prekindergarten, elementary, middle, or secondary school education. It shall also include computer software, where the transfer of licenses is permitted.
 
 (d) “Nonprofit reuse or recycling program” means a 501(c) organization able to upgrade computer equipment at no or low cost to the school or nonprofit organization taking title to it.
 

@@ -260,7 +260,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(II) be certified as qualified to perform radiological procedures by an organization described in paragraph (2)(A); and
 
-&emsp;&emsp;&emsp;(ii) during the 2-year period beginning October 1, 1994, meet training standards for personnel who perform mammography or meet experience requirements which shall at a minimum include 1 year of experience in the performance of mammography; and
+&emsp;&emsp;&emsp;(ii) during the 2-year period beginning October 1, 1994, meet training standardsfor personnel who perform mammography or meet experience requirements which shall at a minimum include 1 year of experience in the performance of mammography; and
 
 &emsp;&emsp;&emsp;(iii) upon the expiration of such 2-year period meet minimum training standards for personnel who perform mammograms;
 
@@ -440,7 +440,7 @@ As used in this section:
 
 #### (B) Hearing
 
-&emsp;&emsp;If the Secretary suspends a certificate under subparagraph (A), the Secretary shall provide an opportunity for a hearing to the owner or operator of the facility not laterthan 60 days from the effective date of the suspension. The suspension shall remain in effect until the decision of the Secretary made after the hearing.
+&emsp;&emsp;If the Secretary suspends a certificate under subparagraph (A), the Secretary shall provide an opportunity for a hearing to the owner or operator of the facility not later than 60 days from the effective date of the suspension. The suspension shall remain in effect until the decision of the Secretary made after the hearing.
 
 #### (3) Ineligibility to own or operate facilities after revocation
 
@@ -504,7 +504,7 @@ If the Secretary determines that—
 
 #### (m) State laws
 
-Nothing in this section shall be construed to limit the authority of any State to enact andenforce laws relating to the matters covered by this section that are at least as stringent as this section or the regulations issued under this section.
+Nothing in this section shall be construed to limit the authority of any State to enact and enforce laws relating to the matters covered by this section that are at least as stringent as this section or the regulations issued under this section.
 
 #### (n) National Advisory Committee
 
@@ -666,7 +666,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (ii) Appropriations
 
-&emsp;&emsp;&emsp;Fees collected under subparagraph (A) shall be collected and available only to theextent provided in advance in appropriation Acts.
+&emsp;&emsp;&emsp;Fees collected under subparagraph (A) shall be collected and available only to the extent provided in advance in appropriation Acts.
 
 #### (2) Authorization of appropriations
 
@@ -758,7 +758,7 @@ Subsec. (r)(2)(B). Pub. L. 105–248, §2, substituted “fiscal years” for �
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a)of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Termination of Advisory Committees
 

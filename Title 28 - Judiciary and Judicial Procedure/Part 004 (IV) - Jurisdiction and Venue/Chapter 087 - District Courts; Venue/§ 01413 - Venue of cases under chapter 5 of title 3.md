@@ -6,7 +6,7 @@ Notwithstanding the preceding provisions of this chapter, a civil action under s
 
 #### Codification
 
-Pub. L. 104–331, §3(b)(2)(A), which directed the amendment of chapter 37 of this title by adding this sectionat end, was executed by adding this section at the end of chapter 87 of this title to reflect the probable intent of Congress.
+Pub. L. 104–331, §3(b)(2)(A), which directed the amendment of chapter 37 of this title by adding this section at end, was executed by adding this section at the end of chapter 87 of this title to reflect the probable intent of Congress.
 
 #### Effective Date
 

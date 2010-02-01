@@ -22,7 +22,7 @@
 
 #### (D) Alternate reduction of limit
 
-&emsp;&emsp;If the Commission determines under subparagraph (C) that the 100 parts per million limit is not technologically feasible for aproduct or product category, the Commission shall, by regulation, establish an amount that is the lowest amount of lead, lower than 300 parts per million, the Commission determines to be technologically feasible to achieve for that product or product category. The amount of lead established by the Commission under the preceding sentence shall be substituted for the 300 parts per million limit under subparagraph (B) beginning on the date that is 3 years after August 14, 2008.
+&emsp;&emsp;If the Commission determines under subparagraph (C) that the 100 parts per million limit is not technologically feasible for a product or product category, the Commission shall, by regulation, establish an amount that is the lowest amount of lead, lower than 300 parts per million, the Commission determines to be technologically feasible to achieve for that product or product category. The amount of lead established by the Commission under the preceding sentence shall be substituted for the 300 parts per million limit under subparagraph (B) beginning on the date that is 3 years after August 14, 2008.
 
 #### (E) Periodic review and further reductions
 

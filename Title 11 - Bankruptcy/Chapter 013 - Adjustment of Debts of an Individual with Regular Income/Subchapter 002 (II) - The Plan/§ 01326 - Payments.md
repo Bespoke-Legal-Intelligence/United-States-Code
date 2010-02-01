@@ -20,7 +20,7 @@
 
 &emsp;(2) if a standing trustee appointed under section 586(b) of title 28 is serving in the case, the percentage fee fixed for such standing trustee under section 586(e)(1)(B) of title 28; and
 
-&emsp;(3) if a chapter 7 trustee has been allowed compensation due to the conversion or dismissal of the debtor's prior case pursuant to section 707(b), and some portion of that compensation remains unpaid in a case converted to this chapter or in the case dismissed under section 707(b) and refiled under this chapter, the amount of any such unpaid compensation, which shall be paid monthly—
+&emsp;(3) if a chapter 7 trustee has been allowed compensation due to the conversion or dismissal of the debtor's prior case pursuant to section 707(b), and some portion of that compensation remains unpaid in a case converted to this chapter or in the case dismissed under section 707(b) and refiled under this chapter,the amount of any such unpaid compensation, which shall be paid monthly—
 
 &emsp;&emsp;(A) by prorating such amount over the remaining duration of the plan; and
 
@@ -102,5 +102,5 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (b)(3) of this section by the Judicial Conference of theUnited States, see note set out under section 104 of this title.
+For adjustment of dollar amounts specified in subsec. (b)(3) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
 

@@ -38,7 +38,7 @@
 
 (k) For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 781; May 8, 1952, ch. 246, 66 Stat. 67; June 29, 1955, ch. 224, 69 Stat. 191; Pub. L. 85–268, Sept. 2, 1957, 71 Stat. 594; Pub. L. 85–623, §5, Aug. 12, 1958, 72 Stat. 562; Pub. L. 91–375, §6(j)(25), Aug. 12, 1970, 84 Stat. 779; Pub. L. 92–191, §1, Dec. 15, 1971, 85 Stat. 647; Pub. L. 99–570, title X, §10003, Oct. 27, 1986, 100 Stat. 3207–167; Pub. L. 103–322, title VI, §60003(a)(7), title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 1969, 2147; Pub. L. 104–294, title VI, §607(g), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 107–273, div. B, title IV, §4002(b)(2), (6), Nov. 2, 2002, 116 Stat. 1807; Pub. L. 109–435, title X, §1008(d), Dec. 20, 2006, 120 Stat. 3261.)
+(June 25, 1948, ch. 645, 62 Stat. 781; May 8, 1952, ch. 246, 66 Stat. 67; June 29, 1955, ch. 224, 69 Stat.191; Pub. L. 85–268, Sept. 2, 1957, 71 Stat. 594; Pub. L. 85–623, §5, Aug. 12, 1958, 72 Stat. 562; Pub. L. 91–375, §6(j)(25), Aug. 12, 1970, 84 Stat. 779; Pub. L. 92–191, §1, Dec. 15, 1971, 85 Stat. 647; Pub. L. 99–570, title X, §10003, Oct. 27, 1986, 100 Stat. 3207–167; Pub. L. 103–322, title VI, §60003(a)(7), title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 1969, 2147; Pub. L. 104–294, title VI, §607(g), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 107–273, div. B, title IV, §4002(b)(2), (6), Nov. 2, 2002, 116 Stat. 1807; Pub. L. 109–435, title X, §1008(d), Dec. 20, 2006, 120 Stat. 3261.)
 
 #### Historical and Revision Notes
 

@@ -30,7 +30,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–277, div. C, title I, §151(a), Oct. 21, 1998, 112 Stat. 2681–611, provided that: “This section \[enactingsections 3345 to 3349d of this title, repealing former sections 3345 to 3349 of this title, and enacting provisions set out as a note under section 3345 of this title\] may be cited as the ‘Federal Vacancies Reform Act of 1998’.”
+Pub. L. 105–277, div. C, title I, §151(a), Oct. 21, 1998, 112 Stat. 2681–611, provided that: “This section \[enacting sections 3345 to 3349d of this title, repealing former sections 3345 to 3349 of this title, and enacting provisions set out as a note under section 3345 of this title\] may be cited as the ‘Federal Vacancies Reform Act of 1998’.”
 
 #### Short Title of 1991 Amendment
 
@@ -144,7 +144,7 @@ Vacancies.—A vacancy in the Council shall be filled in the manner in which the
 
 “(e)
 
-Compensation.—(1) Members of the Council shall not be entitled to pay (or, in the case of members holding any Government office or position, pay in addition to any to which they are otherwise entitled for servicein such office or position) by virtue of membership on the Council.
+Compensation.—(1) Members of the Council shall not be entitled to pay (or, in the case of members holding any Government office or position, pay in addition to any to which they are otherwise entitled for service in such office or position) by virtue of membership on the Council.
 
 “(2) While serving away from their homes or regular places of business in the performance of duties for the Council, members shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as authorized by section 5703 of title 5, United States Code, for persons employed intermittently in Government service.
 
@@ -234,9 +234,9 @@ Section 2. Section 1 of this order shall become effective on January 1, 1942, ex
 
 Section 3. (a) Upon consideration of the report of the Committee on Civil Service Improvement (House Document No. 118, 77th Congress) appointed by Executive Order No. 8044 of January 31, 1939, it is hereby found and determined that the regulations and procedures hereinafter prescribed in this section with respect to attorney positions in the classified civil service are required by the conditions of good administration.
 
-(b) There is hereby created in the Office of Personnel Management (hereinafter referred to as the Office) a board to be known as the Board of Legal Examiners (hereinafter referred to as the Board). The Board shall consist of the Solicitor General of the United States and the chief law officer of the Office of Personnel Management, as members <i>ex officio</i>, and nine members to be appointed by the President, four of whom shall be attorneys chosen from the chief officers of the Executive departments, agencies or corporate instrumentalities of the Government, two from the law-teaching profession, and three from attorneys engaged in private practice. The President shall designate the chairman of the Board. Five members shall constitute a quorum, and the Board may transact business notwithstanding vacancies thereon. Members of the Board shall receive no salary as such, but shall be entitled to necessary expenses incurred in the performance of their duties hereunder.
+(b) There is hereby created in the Office of Personnel Management (hereinafter referred to as the Office) aboard to be known as the Board of Legal Examiners (hereinafter referred to as the Board). The Board shall consist of the Solicitor General of the United States and the chief law officer of the Office of Personnel Management, as members <i>ex officio</i>, and nine members to be appointed by the President, four of whom shall be attorneys chosen from the chief officers of the Executive departments, agencies or corporate instrumentalities of the Government, two from the law-teaching profession, and three from attorneys engaged in private practice. The President shall designate the chairman of the Board. Five members shall constitute a quorum, and the Board may transact business notwithstanding vacancies thereon. Members of the Board shall receive no salary as such, but shall be entitled to necessary expenses incurred in the performance of their duties hereunder.
 
-(c) It shall be the duty of the Board to promote the development of a merit system for the recruitment, selection, appointment, promotion, and transfer of attorneys in the classified civil service in accordance withthe general procedures outlined in Plan A of the report of the Committee on Civil Service Improvement, appointed by Executive Order No. 8044 of January 31, 1939.
+(c) It shall be the duty of the Board to promote the development of a merit system for the recruitment, selection, appointment, promotion, and transfer of attorneys in the classified civil service in accordance with the general procedures outlined in Plan A of the report of the Committee on Civil Service Improvement, appointed by Executive Order No. 8044 of January 31, 1939.
 
 (d) The Board, in consultation with the Office, shall determine the regulations and procedures under this section governing the recruitment and examination of applicants for attorney positions, and the selection, appointment, promotion and transfer of attorneys, in the classified service.
 
@@ -416,7 +416,7 @@ Sec. 5. For the purpose of this Order, a person is deemed to be a member of the 
 
 #### Executive Order No. 11315
 
-Ex. Ord. No. 11315, Nov. 17, 1966, 31 F.R. 14729, as amended by Ex. Ord. No. 12107, §2–101(a), Dec. 28, 1978, 44 F.R. 1055, added Civil Service Rule IX and amended Civil Service Rule VI, provided for transition to the full establishment of executive assignments under Rule IX, and delegated responsibility for the administration of the executive assignment system established by this Order to the Office of Personnel Management and heads of agencies affected by Rule IX. Civil Service Rule IX, as established by this Order, was revoked by Ex. Ord. No. 12748, §8(a), Feb. 1, 1991, 56 F.R. 4521, set out under section 5301 of this title.
+Ex. Ord. No. 11315, Nov. 17, 1966, 31 F.R. 14729, as amended by Ex. Ord. No. 12107, §2–101(a), Dec. 28, 1978, 44 F.R. 1055, added Civil Service Rule IX and amended Civil Service Rule VI, provided for transition to the full establishment of executive assignments under RuleIX, and delegated responsibility for the administration of the executive assignment system established by this Order to the Office of Personnel Management and heads of agencies affected by Rule IX. Civil Service Rule IX, as established by this Order, was revoked by Ex. Ord. No. 12748, §8(a), Feb. 1, 1991, 56 F.R. 4521, set out under section 5301 of this title.
 
 #### Executive Order No. 11598
 
@@ -488,7 +488,7 @@ Ex. Ord. No. 12362, May 12, 1982, 47 F.R. 21231, as amended by Ex. Ord. No. 1258
 
 #### Executive Order No. 12364
 
-Ex. Ord. No. 12364, May 24, 1982, 47 F.R. 22931, as amended by Ex. Ord. No. 12645, July 12, 1988, 53 F.R. 26750, which related to the Presidential Management Intern Program, was superseded by Ex. Ord. No. 13318, Nov. 21, 2003, 68 F.R. 66317, set out below.
+Ex. Ord. No. 12364, May 24, 1982, 47 F.R. 22931, as amended by Ex. Ord. No. 12645, July 12, 1988, 53 F.R.26750, which related to the Presidential Management Intern Program, was superseded by Ex. Ord. No. 13318, Nov. 21, 2003, 68 F.R. 66317, set out below.
 
 #### Ex. Ord. No. 12505. Career Appointments to Certain Office of Management and Budget Employees
 
@@ -562,7 +562,7 @@ Ex. Ord. No. 12721, July 30, 1990, 55 F.R. 31349, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including sections 3301 and 3302 of title 5 and section 301 of title 3 of the United States Code, and in order to permit certain overseas employees to acquire competitive status upon returning to the United States, it is hereby ordered as follows:
 
-Section 1. A United States citizen who is a family member of a Federal civilian employee, of a nonappropriated fund employee, or of a member of a uniformed service and who meets the qualifications and other requirements established by the Director of the Office of Personnel Management, including an appropriate period of satisfactory service under one or more overseas appointments in the excepted or competitive civil service, may be appointed noncompetitively to a competitive service position in the executive branch within the United States (including Guam, Puerto Rico, and the Virgin Islands). The employing agency in the United States may waive a requirement for a written test for an individual appointed under this order if the agency determines that the duties and responsibilities of the position occupied overseas were similar enough to those of the position to which the individual is being appointed under this order to make the written test unnecessary.
+Section 1. A United States citizen who is a family member of a Federal civilian employee, of a nonappropriated fund employee, or of a member of a uniformed service and who meets the qualifications and other requirements established by the Director of the Office of Personnel Management, including an appropriate period of satisfactory service under one or more overseas appointments in the excepted or competitive civil service, may be appointed noncompetitively to a competitive service position in the executive branch within the United States (including Guam, Puerto Rico, and the Virgin Islands). The employing agency inthe United States may waive a requirement for a written test for an individual appointed under this order if the agency determines that the duties and responsibilities of the position occupied overseas were similar enough to those of the position to which the individual is being appointed under this order to make the written test unnecessary.
 
 Sec. 2. The Director of the Office of Personnel Management shall prescribe such regulations as may be necessary to implement this order.
 
@@ -706,7 +706,7 @@ Sec. 2. <i>Definitions</i>. As used in this order:
 
 (c) the term “active duty” means full-time duty in an armed force and includes full-time National Guard duty, except that, for Reserve Component members, the term “active duty” does not include training duties or attendance at service schools.
 
-(d) the term “permanent change of station” means the assignment, detail, or transfer of a member of the Armed Forces serving at a present permanent duty station to a different permanent duty station under a competent authorization or order that does not:
+(d) the term “permanent change of station” means the assignment, detail, or transfer of a member of theArmed Forces serving at a present permanent duty station to a different permanent duty station under a competent authorization or order that does not:
 
 &emsp;(i) specify the duty as temporary;
 
@@ -716,7 +716,7 @@ Sec. 2. <i>Definitions</i>. As used in this order:
 
 &emsp;(i) retired under chapter 61 of title 10, United States Code, with a disability rating at the time of retirement of 100 per cent; or (ii) \[sic\] retired or separated from the Armed Forces and has a disability rating of 100 percent from the Department of Veterans Affairs.
 
-Sec. 3. <i>Noncompetitive Appointment Authority</i>. Consistent with the policy set forth in section 1 of this order and such regulations as the Director of the Office of Personnel Management may prescribe, the head of an agency may make a noncompetitive appointment toany position in the competitive service, for which the individual is qualified, of an individual who is:
+Sec. 3. <i>Noncompetitive Appointment Authority</i>. Consistent with the policy set forth in section 1 of this order and such regulations as the Director of the Office of Personnel Management may prescribe, the head of an agency may make a noncompetitive appointment to any position in the competitive service, for which the individual is qualified, of an individual who is:
 
 (a) the spouse of a member of the Armed Forces who, as determined by the Secretary of Defense, is performing active duty pursuant to orders that authorize a permanent change of station move, if such spouse relocates to the member's new permanent duty station;
 
@@ -735,4 +735,144 @@ Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13518. Employment of Veterans in the Federal Government
+
+Ex. Ord. No. 13518, Nov. 9, 2009, 74 F.R. 58533, provided:
+
+By the authority vested in me by the Constitution and the laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby order as follows:
+
+Section 1. <i>Policy</i>. Veterans have served and sacrificed in defense of our Nation. When they complete their service, we must do everything in our power to assist them in re-entering civilian life and finding employment. Government as well as private employers should play a prominent role in helping veterans who may be struggling to find jobs. As one of the Nation's leading employers, the Federal Government is in need of highly skilled individuals to meet agency staffing needs and to support mission objectives. Our veterans, who have benefited from training and development during their military service, possess a wide variety of skills and experiences, as well as the motivation for public service, that will help fulfill Federal agencies’ staffing needs. It is therefore the policy of my Administration to enhance recruitment of and promote employment opportunities for veterans within the executive branch, consistent with merit system principles and veterans’ preferences prescribed by law. The Federal Government will thereby help lead by example in promoting veterans’ employment.
+
+Sec. 2. <i>Council on Veterans Employment</i>. There is hereby established an interagency Council on Veterans Employment (Council), to be co-chaired by the Secretaries of Labor and Veterans Affairs. The Director of the Office of Personnel Management (OPM) shall serve as Vice Chair of the Council.
+
+(a) Mission and Function of the Council. The Council shall:
+
+(i) advise and assist the President and the Director of OPM in establishing a coordinated Government-wide effort to increase the number of veterans employed by the Federal Government by enhancing recruitment and training;
+
+(ii) serve as a national forum for promoting veterans’ employment opportunities in the executive branch; and
+
+(iii) establish performance measures to assess the effectiveness of, and submit an annual report to the President on the status of, the Veterans Employment Initiative described in section 3 of this order.
+
+(b) Membership of the Council. The Council shall consist of the heads of the following agencies and such other executive branch agencies as the President may designate:
+
+(i) the Department of State;
+
+(ii) the Department of the Treasury;
+
+(iii) the Department of Defense;
+
+(iv) the Department of Justice;
+
+(v) the Department of the Interior;
+
+(vi) the Department of Agriculture;
+
+(vii) the Department of Commerce;
+
+(viii) the Department of Labor;
+
+(ix) the Department of Health and Human Services;
+
+(x) the Department of Housing and Urban Development;
+
+(xi) the Department of Transportation;
+
+(xii) the Department of Energy;
+
+(xiii) the Department of Education;
+
+(xiv) the Department of Veterans Affairs;
+
+(xv) the Department of Homeland Security;
+
+(xvi) the Environmental Protection Agency;
+
+(xvii) the National Aeronautics and Space Administration;
+
+(xviii) the Agency for International Development;
+
+(xix) the General Services Administration;
+
+(xx) the National Science Foundation;
+
+(xxi) the Nuclear Regulatory Commission;
+
+(xxii) the Office of Personnel Management;
+
+(xxiii) the Small Business Administration; and
+
+(xxiv) the Social Security Administration.
+
+A member of the Council may designate, to perform the Council functions of the member, a senior official who is part of the member's agency, and who is a full-time officer or employee of the Federal Government.
+
+(c) Administration of the Council. The Co-Chairs shall convene meetings of the Council, determine its agenda, and direct its work. At the direction of the Co-Chairs, the Council may establish subgroups consisting exclusively of Council members or their designees, as appropriate. The Vice Chair shall designate an Executive Director for the Council to support the Vice Chair in managing the Council's activities. The OPM shall provide administrative support for the Council to the extent permitted by law and within existing appropriations.
+
+(d) Steering Committee. There is established within the Council a Steering Committee consisting of the Secretaries of Defense, Labor, Veterans Affairs, and Homeland Security, the Director of OPM, and any other Council member designated by the Co-Chairs. The Steering Committee shall be responsible for providing leadership, accountability, and strategic direction to the Council.
+
+Sec. 3. <i>Veterans Employment Initiative</i>. The agencies represented on the Council shall participate in a Veterans Employment Initiative (Initiative). Under the Initiative, each participating agency shall, to the extent permitted by law:
+
+(a) develop an agency-specific Operational Plan for promoting employment opportunities for veterans, consistent with the Government-wide Veterans Recruitment and Employment Strategic Plan described in section 4 of this order, merit system principles, the agency's strategic human capital plan, and other applicable workforce planning strategies and initiatives;
+
+(b) within 120 days of the date of this order, establish a Veterans Employment Program Office, or designate an agency officer or employee with full-time responsibility for its Veterans Employment Program, to be responsible for enhancing employment opportunities for veterans within the agency, consistent with law and merit system principles, including developing and implementing the agency's Operational Plan, veterans recruitment programs, and training programs for veterans with disabilities, and for coordinating employment counseling to help match the career aspirations of veterans to the needs of the agency;
+
+(c) provide mandatory annual training to agency human resources personnel and hiring managers concerning veterans’ employment, including training on veterans’ preferences and special authorities for the hiring of veterans;
+
+(d) identify key occupations for which the agency will provide job counseling and training to better enable veterans to meet agency staffing needs associated with those occupations; and
+
+(e) coordinate with the Departments of Defense and Veterans Affairs to promote further development and application of technology designed to assist transitioning service members and veterans with disabilities.
+
+Sec. 4. <i>Additional Responsibilities of the Director of the Office of Personnel Management</i>. The Director of OPM shall, in consultation with the Council and to the extent permitted by law:
+
+(a) develop a Government-wide Veterans Recruitment and Employment Strategic Plan, to be updated at least every 3 years, addressing barriers to the employment of veterans in the executive branch and focusing on:
+
+(i) identifying actions that agency leaders should take to improve employment opportunities for veterans;
+
+(ii) developing the skills of transitioning military service members and veterans;
+
+(iii) marketing the Federal Government as an employer of choice to transitioning service members and veterans;
+
+(iv) marketing the talent, experience, and dedication of transitioning service members and veterans to Federal agencies; and
+
+(v) disseminating Federal employment information to veterans and hiring officials;
+
+(b) provide Government-wide leadership in recruitment and employment of veterans in the executive branch;
+
+(c) identify key occupations, focusing on positions in high-demand occupations where talent is needed to meet Government-wide staffing needs, for which the Federal Government will provide job counseling and training under section 5(a) of this order to veterans and transitioning military service personnel;
+
+(d) develop mandatory training for both human resources personnel and hiring managers on veterans’ employment, including veterans’ preference and special hiring authorities;
+
+(e) compile and post on the OPM website Government-wide statistics on the hiring of veterans; and
+
+(f) within 1 year of the date of this order and with the advice of the Council, provide recommendations to the President on improving the ability of veterans’ preference laws to meet the needs of the new generation of veterans, especially those transitioning from the conflicts in Iraq and Afghanistan, and the needs of Federal hiring officials.
+
+Sec. 5. <i>Responsibilities of the Secretaries of Defense, Labor, Veterans Affairs, and Homeland Security</i>. The Secretaries of Defense, Labor, Veterans Affairs, and Homeland Security shall take the following actions, to the extent permitted by law:
+
+(a) The Secretaries of Defense, Labor, Veterans Affairs, and Homeland Security shall, in consultation with OPM, develop and implement counseling and training programs to align veterans’ and transitioning service members’ skills and career aspirations to Federal employment opportunities, targeting Federal occupations that are projected to have heavy recruitment needs.
+
+(b) The Secretary of Labor shall conduct employment workshops for veterans and transitioning military service personnel as part of the Transition Assistance Program (TAP), and integrate in those workshops information about the Federal hiring process, veterans’ preference laws, special hiring authorities, and Federal job opportunities.
+
+(c) The Secretary of Defense and Secretary of Homeland Security (with respect to the Coast Guard) shall:
+
+(i) reinforce military leadership's commitment and support of the service members’ transition process; and
+
+(ii) institute policies that encourage every eligible service member to take the opportunity to enroll in any or all of the four components of the TAP.
+
+(d) The Secretaries of Labor and Veterans Affairs shall:
+
+(i) assist veterans and transitioning service members in translating military skills, training, and education to Federal occupations through programs developed under subsection (a) of this section; and
+
+(ii) provide training to employment and rehabilitation counselors on the Federal hiring process, veterans’ preferences, special hiring authorities, and identifying Federal employment opportunities for veterans.
+
+Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) authority granted by law to a department or agency or the head thereof; or
+
+(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

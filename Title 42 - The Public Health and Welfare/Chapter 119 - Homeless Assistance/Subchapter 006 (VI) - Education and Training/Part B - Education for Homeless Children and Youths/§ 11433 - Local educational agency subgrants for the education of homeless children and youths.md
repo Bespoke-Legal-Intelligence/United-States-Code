@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) may use funds under this part to provide the same services to other children and youths who are determined by the local educational agency to be at risk of failing in, or dropping out of, school, subject to the requirements of clause (ii); and
 
-&emsp;&emsp;&emsp;(ii) except as otherwise provided in section 11432(e)(3)(B) of this title, shall not provide services in settings within a school that segregate homeless children and youths from other children and youths, except as necessary for short periods of time—
+&emsp;&emsp;&emsp;(ii) except as otherwise provided in section 11432(e)(3)(B) of this title, shall notprovide services in settings within a school that segregate homeless children and youths from other children and youths, except as necessary for short periods of time—
 
 &emsp;&emsp;&emsp;&emsp;(I) for health and safety emergencies; or
 
@@ -114,7 +114,7 @@ A local educational agency may use funds awarded under this section for activiti
 
 &emsp;(9) If necessary, the payment of fees and other costs associated with tracking, obtaining, and transferring records necessary to enroll homeless children and youths in school, including birth certificates, immunization or medical records, academic records, guardianship records, and evaluations for special programs or services.
 
-&emsp;(10) The provision of education and training to the parents of homeless children and youthsabout the rights of, and resources available to, such children and youths.
+&emsp;(10) The provision of education and training to the parents of homeless children and youths about the rights of, and resources available to, such children and youths.
 
 &emsp;(11) The development of coordination between schools and agencies providing services to homeless children and youths, as described in section 11432(g)(5) of this title.
 

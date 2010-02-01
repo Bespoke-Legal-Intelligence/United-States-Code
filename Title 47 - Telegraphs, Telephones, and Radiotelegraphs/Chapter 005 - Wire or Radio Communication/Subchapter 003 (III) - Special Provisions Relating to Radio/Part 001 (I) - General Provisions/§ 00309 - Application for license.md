@@ -284,7 +284,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (11) Termination
 
-&emsp;The authority of the Commission to grant a license or permit under this subsection shall expire September 30, 2011.
+&emsp;The authority of the Commission to grant a license or permit under this subsection shall expire September 30, 2012.
 
 #### (12) Evaluation
 
@@ -378,7 +378,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (A) Limitations on terms of terrestrial television broadcast licenses
 
-&emsp;&emsp;A full-power television broadcast license that authorizes analog television service may not be renewed to authorize such service for a period that extends beyond February 17, 2009.
+&emsp;&emsp;A full-power television broadcast license that authorizes analog television service may not be renewed to authorize such service for a period that extends beyond June 12, 2009.
 
 #### (B) Spectrum reversion and resale
 
@@ -506,13 +506,17 @@ With respect to competing applications for initial licenses or construction perm
 
 &emsp;(3) waive any provisions of its regulations necessary to permit such persons to enter an agreement to procure the removal of a conflict between their applications during the 180-day period beginning on August 5, 1997.
 
-(June 19, 1934, ch. 652, title III, §309, 48 Stat. 1085; July 16, 1952, ch. 879, §7, 66 Stat. 715; Mar. 26, 1954, ch. 110, 68 Stat. 35; Jan. 20, 1956, ch. 1, 70 Stat. 3; Pub. L. 86–752, §4(a), Sept. 13, 1960, 74 Stat. 889; Pub. L. 88–306, May 14, 1964, 78 Stat. 193; Pub. L. 88–307, May 14, 1964, 78 Stat. 194; Pub. L. 97–35, title XII, §1242(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§114, 115, Sept. 13, 1982, 96 Stat. 1094; Pub. L. 98–549, §6(b)(1), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 103–66, title VI, §6002(a), (b)(1), Aug. 10, 1993, 107 Stat. 387, 392; Pub. L. 103–414, title III, §§303(a)(16), (17), 304(a)(9), Oct. 25, 1994, 108 Stat. 4295, 4297; Pub. L. 103–465, title VIII, §801, Dec. 8, 1994, 108 Stat. 5050; Pub. L. 104–104, title II, §204(a), title IV, §403(j), title VII, §§707(a), 710(c), Feb. 8, 1996, 110 Stat. 112, 131, 154, 161; Pub. L. 105–33, title III, §§3002(a)(1)–(3), 3003, Aug. 5, 1997, 111 Stat. 258, 260, 265; Pub. L. 107–195, §3(a), (b)(1), June 19, 2002, 116 Stat. 716, 717; Pub. L. 108–494, title II, §203, Dec. 23, 2004, 118 Stat. 3993; Pub. L. 109–171, title III, §§3002(a), 3003, 3004, Feb. 8, 2006, 120 Stat. 21, 22.)
+(June 19, 1934, ch. 652, title III, §309, 48 Stat. 1085; July 16, 1952, ch. 879, §7, 66 Stat. 715; Mar. 26, 1954, ch. 110, 68 Stat. 35; Jan. 20, 1956, ch. 1, 70 Stat. 3; Pub. L. 86–752, §4(a), Sept. 13, 1960, 74 Stat. 889; Pub. L. 88–306, May 14, 1964, 78 Stat. 193; Pub. L. 88–307, May 14, 1964, 78 Stat. 194; Pub. L. 97–35, title XII, §1242(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§114, 115, Sept. 13, 1982, 96 Stat. 1094; Pub. L. 98–549, §6(b)(1), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 103–66, title VI, §6002(a), (b)(1), Aug. 10, 1993, 107 Stat. 387, 392; Pub. L. 103–414, title III, §§303(a)(16), (17), 304(a)(9), Oct. 25, 1994, 108 Stat. 4295, 4297; Pub. L. 103–465, title VIII, §801, Dec. 8, 1994, 108 Stat. 5050; Pub. L. 104–104, title II, §204(a), title IV, §403(j), title VII, §§707(a), 710(c), Feb. 8, 1996, 110 Stat. 112, 131, 154, 161; Pub. L. 105–33, title III, §§3002(a)(1)–(3), 3003, Aug. 5, 1997, 111 Stat. 258, 260, 265; Pub. L. 107–195, §3(a), (b)(1), June 19, 2002, 116 Stat. 716, 717; Pub. L. 108–494, title II, §203, Dec. 23, 2004, 118 Stat. 3993; Pub. L. 109–171, title III, §§3002(a), 3003, 3004, Feb. 8, 2006, 120 Stat. 21, 22; Pub. L. 111–4, §§2(b)(2), 5, Feb. 11, 2009, 123 Stat. 112, 114.)
 
 #### References in Text
 
 The National Telecommunications and Information Administration Organization Act, referred to in subsec. (j)(9)(B), is title I of Pub. L. 102–538, Oct. 27, 1992, 106 Stat. 3533, as amended. Part B of the Act is classified generally to subchapter II (§921 et seq.) of chapter 8 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 901 of this title and Tables.
 
 #### Amendments
+
+2009—Subsec. (j)(11). Pub. L. 111–4, §5, substituted “2012” for “2011”.
+
+Subsec. (j)(14)(A). Pub. L. 111–4, §2(b)(2), substituted “June 12, 2009” for “February 17, 2009”.
 
 2006—Subsec. (j)(8)(A). Pub. L. 109–171, §3004(1), substituted “subparagraphs (B), (D), and (E)” for “subparagraph (B) or subparagraph (D)”.
 
@@ -522,7 +526,7 @@ Subsec. (j)(8)(E). Pub. L. 109–171, §3004(3), added subpar. (E).
 
 Subsec. (j)(11). Pub. L. 109–171, §3003(b), substituted “2011” for “2007”.
 
-Subsec. (j)(14)(A). Pub. L. 109–171, §3002(a)(1), inserted “full-power” before “television broadcast license” andsubstituted “February 17, 2009” for “December 31, 2006”.
+Subsec. (j)(14)(A). Pub. L. 109–171, §3002(a)(1), inserted “full-power” before “television broadcast license” and substituted “February 17, 2009” for “December 31, 2006”.
 
 Subsec. (j)(14)(B). Pub. L. 109–171, §3002(a)(2), (5), redesignated subpar. (C) as (B) and struck out former subpar. (B) which related to requirement of Commission to extend renewal period upon certain findings.
 
@@ -670,6 +674,20 @@ Section 4(d)(1)–(3) of Pub. L. 86–752 provided that:
 
 #### Digital Television Transition and Public Safety
 
+Pub. L. 111–4, §4, Feb. 11, 2009, 123 Stat. 113, provided that:
+
+“(a)
+
+Permissive Early Termination Under Existing Requirements.—Nothing in this Act \[amending this section and section 337 of this title, enacting provisions set out as notes under this section and section 609 of this title, and amending provisions set out as notes under this section\] is intended to prevent a licensee of a television broadcast station from terminating the broadcasting of such station's analog television signal (and continuing to broadcast exclusively in the digital television service) prior to the date established by law under section 3002(b) of the Digital Television Transition and Public Safety Act of 2005 \[section 3002(b) of Pub. L. 109–171, set out below\] for termination of all licenses for full-power television stations in the analogtelevision service (as amended by section 2 of this Act) so long as such prior termination is conducted in accordance with the Federal Communications Commission's requirements in effect on the date of enactment of this Act \[Feb. 11, 2009\], including the flexible procedures established in the Matter of Third Periodic Review of the Commission's Rules and Policies Affecting the Conversion to Digital Television (FCC 07–228, MB Docket No. 07–91, released December 31, 2007).
+
+“(b)
+
+Public Safety Radio Services.—Nothing in this Act, or the amendments made by this Act, shall prevent a public safety service licensee from commencing operations consistent with the terms of its license on spectrum recovered as a result of the voluntary cessation of broadcasting in the analog or digital television service pursuant to subsection (a). Any such public safety use shall be subject to the relevant Federal Communications Commission rules and regulations in effect on the date of enactment of this Act \[Feb. 11, 2009\], including section 90.545 of the Commission's rules (47 C.F.R. §90.545).
+
+“(c)
+
+Expedited Rulemaking.—Notwithstanding any other provision of law, the Federal Communications Commission and the National Telecommunications and Information Administration shall, not later than 30 days after the date of enactment of this Act \[Feb. 11, 2009\], each adopt or revise its rules, regulations, or orders or take such other actions as may be necessary or appropriate to implement the provisions, and carry out the purposes, of this Act and the amendments made by this Act.”
+
 Pub. L. 110–459, Dec. 23, 2008, 122 Stat. 5121, provided that:
 
 #### “SECTION 1. SHORT TITLE.
@@ -680,7 +698,7 @@ Pub. L. 110–459, Dec. 23, 2008, 122 Stat. 5121, provided that:
 
 “(a)
 
-Program Required.—Notwithstanding any other provision of law, the Federal Communications Commission shall, not later than January 15, 2009, develop and implement a program to encourage and permit, to the extent technically feasible and subject to such limitations as the Commission finds to be consistent with the public interest and the requirements of this Act, the broadcasting in the analog television service of only the public safety information and digital transition information specified in subsection (b) during the 30-day period beginning on the day after the date established by law under section 3002(b) of the Digital Television Transition and Public Safety Act of 2005 \[section 3002(b) of Pub. L. 109–171, set out below\] for termination of all licenses for full-power television stations in the analogtelevision service and the cessation of broadcasting by full-power stations in the analog television service.
+Program Required.—Notwithstanding any other provision of law, the Federal Communications Commission shall, not later than January 15, 2009, develop and implement a program to encourage and permit, to the extent technically feasible and subject to such limitations as the Commission finds to be consistent with the public interest and the requirements of this Act, the broadcasting in the analog television service of only the public safety information and digital transition information specified in subsection (b) during the 30-day period beginning on the day after the date established by law under section 3002(b) of the Digital Television Transition and Public Safety Act of 2005 \[section 3002(b) of Pub. L. 109–171, set out below\] for termination of all licenses for full-power television stations in the analog television service and the cessation of broadcasting by full-power stations in the analog television service.
 
 “(b)
 
@@ -716,7 +734,7 @@ Information required.—The program required by subsection (a) shall provide for
 
 “As used in this Act, the term ‘emergency information’ has the meaning such term has under part 79 of the regulations of the Federal Communications Commission (47 C.F.R. part 79).”
 
-Pub. L. 109–171, title III, Feb. 8, 2006, 120 Stat. 21, as amended by Pub. L. 110–53, title XXII, §2201(a), title XXIII, §2302, Aug. 3, 2007, 121 Stat. 537, 543; Pub. L. 110–295, §2, July 30, 2008, 122 Stat. 2972, provided that:
+Pub. L. 109–171, title III, Feb. 8, 2006, 120 Stat. 21, as amended by Pub. L. 110–53, title XXII, §2201(a), title XXIII, §2302, Aug. 3, 2007, 121 Stat. 537, 543; Pub. L. 110–295, §2, July 30, 2008, 122 Stat. 2972; Pub. L. 111–4, §§2(a), (b)(1), 3(a)–(c), Feb. 11, 2009, 123 Stat. 112, 113, provided that:
 
 #### “SEC. 3001. SHORT TITLE; DEFINITION.
 
@@ -738,9 +756,9 @@ Amendments.—\[Amended this section.\]
 
 Terminations of Analog Licenses and Broadcasting.—The Federal Communications Commission shall take such actions as are necessary—
 
-&emsp;“(1) to terminate all licenses for full-power television stations in the analog television service, and to require the cessation of broadcasting by full-power stations in the analog television service, by February 18, 2009; and
+&emsp;“(1) to terminate all licenses for full-power television stations in the analog television service, and to require the cessation of broadcasting by full-power stations in the analog television service, by June 13, 2009; and
 
-&emsp;“(2) to require by February 18, 2009, that all broadcasting by Class A stations, whether in the analog television service or digital television service, and all broadcasting by full-power stations in the digital television service, occur only on channels between channels 2 and 36, inclusive, or 38 and 51, inclusive (between frequencies 54 and 698 megahertz, inclusive).
+&emsp;“(2) to require by that date that all broadcasting by Class A stations, whether in the analog television service or digital television service, and all broadcasting by full-power stations in the digital television service, occur only on channels between channels 2 and 36, inclusive, or 38 and 51, inclusive (between frequencies 54 and 698 megahertz, inclusive).
 
 “(c)
 
@@ -760,7 +778,7 @@ Conforming Amendments.—\[Amended section 337 of this title.\]
 
 Creation of Program.—The Assistant Secretary shall—
 
-&emsp;“(1) implement and administer a program through which households in the United States may obtain coupons that can be applied toward the purchase of digital-to-analog converter boxes; and
+&emsp;“(1) implement and administer a program through which households in the United States may obtaincoupons that can be applied toward the purchase of digital-to-analog converter boxes; and
 
 &emsp;“(2) make payments of not to exceed $990,000,000, in the aggregate, through fiscal year 2009 to carry out that program from the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E)).
 
@@ -778,7 +796,7 @@ Limitations.—
 
 &emsp;&emsp;“(A)
 
-Two-per-household maximum.—A household may obtain coupons by making a request as required by the regulations under this section between January 1, 2008, and March 31, 2009, inclusive. The Assistant Secretary shall ensure that each requesting household receives, via the United States Postal Service, no more than two coupons.
+Two-per-household maximum.—A household may obtain coupons by making a request as required by the regulations under this section between January 1, 2008, and July 31, 2009, inclusive. The Assistant Secretary shall ensure that each requesting household redeems no more than two coupons.
 
 &emsp;&emsp;“(B)
 
@@ -787,6 +805,10 @@ No combinations of coupons.—Two coupons may not be used in combination toward 
 &emsp;&emsp;“(C)
 
 Duration.—All coupons shall expire 3 months after issuance.
+
+&emsp;&emsp;“(D)
+
+Expired coupons.—The Assistant Secretary may issue to a household, upon request by the household, one replacement coupon for each coupon that was issued to such household and that expired without being redeemed.
 
 &emsp;“(2)
 
@@ -896,7 +918,7 @@ Rule of Construction.—Nothing in this section shall be construed or interprete
 
 “(h)\[(g)\]
 
-Credit.—The Assistant Secretary may borrow from the Treasury beginning on October 1, 2006,such sums as may be necessary, but not to exceed $1,000,000,000, to implement this section. The Assistant Secretary shall reimburse the Treasury, without interest, as funds are deposited into the Digital Television Transition and Public Safety Fund.
+Credit.—The Assistant Secretary may borrow from the Treasury beginning on October 1, 2006, such sums as may be necessary, but not to exceed $1,000,000,000, to implement this section. The Assistant Secretary shall reimburse the Treasury, without interest, as funds are deposited into the Digital Television Transition and Public Safety Fund.
 
 “(i)\[(h)\]
 
@@ -944,11 +966,11 @@ Creation of Program.—
 
 &emsp;“(1)
 
-In General.—The Assistant Secretary shall make payments of not to exceed $10,000,000, in the aggregate, during the fiscal year 2008 and 2009 period from the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E)) to implement and administer a program through which each eligible low-power television station may receive compensation toward the cost of the purchase of a digital-to-analog conversion device that enables it to convert the incoming digital signal of its corresponding full-power television station to analog format for transmission on the low-power television station's analog channel. An eligible low-power television station may receive such compensation only if it submits a request for such compensation on or before February 17, 2009. Priority compensation shall be given to eligible low-power television stations in which the license is held by a non-profit corporation and eligible low-power television stations that serve rural areas of fewer than 10,000 viewers.
+In General.—The Assistant Secretary shall make payments of not to exceed $10,000,000, in the aggregate, during the fiscal year 2008 and 2009 period from the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E)) to implement and administer a program through which each eligible low-power television station may receive compensation toward the cost of the purchase of a digital-to-analog conversion device that enables it to convert the incoming digital signal of its corresponding full-power television station to analog format for transmission on the low-power television station's analog channel. An eligible low-power television station may receive such compensation only if it submits a request for such compensation on or before June 12, 2009. Priority compensation shall be given to eligible low-power television stations in which the license is held by a non-profit corporation and eligible low-power television stations that serve rural areas of fewer than 10,000 viewers.
 
 &emsp;“(2)
 
-Use of funds.—As soon as practicable after the date of enactment of the DTV Transition Assistance Act \[July 30, 2008\], the Assistant Secretary shall make a determination, which the Assistant Secretary may adjust from time to time, with respect to whether the full amount provided under paragraph (1) will be needed for payments under that paragraph. If the Assistant Secretary determines that the full amount will not be needed for payments authorized by paragraph (1), the Assistant Secretary may use the remaining amount for consumer education and technical assistance regarding the digital television transition and the availability of the digital-to-analog converter box program (in addition to any amounts expended for such purpose under \[section\] 3005(c)(2)(A) of this title), including partnering with, providing grants to, and contracting with non-profit organizations or public interest groups in achieving these efforts. If the Assistant Secretary initiates such an education program, the Assistant Secretary shall develop a plan to address the educational and technical assistance needs of vulnerable populations, such as senior citizens, individuals residing in rural and remote areas, and minorities, including, where appropriate, education plans focusing on the need for analog pass-through digital converter boxes in areas served by low power or translator stations, and shall consider the speed with which these objectives can be accomplished to the greatest public benefit.
+Use of funds.—As soon as practicable after the date of enactment of the DTV Transition Assistance Act \[July 30, 2008\], the Assistant Secretary shall make a determination, which the Assistant Secretary may adjust from time to time, with respect to whether the full amount provided under paragraph (1) will be needed for payments under that paragraph. If the Assistant Secretary determines that the full amount will not be needed for payments authorized by paragraph (1), the Assistant Secretary may use the remaining amount for consumer education and technical assistance regarding the digital television transition and the availability of the digital-to-analog converter box program (in addition to any amounts expended for such purpose under \[section\] 3005(c)(2)(A) of this title), including partnering with,providing grants to, and contracting with non-profit organizations or public interest groups in achieving these efforts. If the Assistant Secretary initiates such an education program, the Assistant Secretary shall develop a plan to address the educational and technical assistance needs of vulnerable populations, such as senior citizens, individuals residing in rural and remote areas, and minorities, including, where appropriate, education plans focusing on the need for analog pass-through digital converter boxes in areas served by low power or translator stations, and shall consider the speed with which these objectives can be accomplished to the greatest public benefit.
 
 “(b)
 
@@ -970,7 +992,7 @@ Establishment.—The Assistant Secretary shall make payments of not to exceed $6
 
 “(b)
 
-Eligible Stations.—For purposes of this section, the term ‘eligible low-power television station’ means a low-power television broadcast station, ClassA television station, television translator station, or television booster station—
+Eligible Stations.—For purposes of this section, the term ‘eligible low-power television station’ means a low-power television broadcast station, Class A television station, television translator station, or television booster station—
 
 &emsp;“(1) that is itself broadcasting exclusively in analog format; and
 
@@ -1011,6 +1033,8 @@ Advances.—The Secretary of Transportation may borrow from the Treasury such su
 #### “SEC. 3013. SUPPLEMENTAL LICENSE FEES.
 
 “In addition to any fees assessed under the Communications Act of 1934 (47 U.S.C. 151 et seq.), the Federal Communications Commission shall assess extraordinary fees for licenses in the aggregate amount of $10,000,000, which shall be deposited in the Treasury during fiscal year 2006 as offsetting receipts.”
+
+\[Pub. L. 111–4, §3(d), Feb. 11, 2009, 123 Stat. 113, provided that: “The amendments made by this section \[amending section 3005(c)(1) of Pub. L. 109–171, set out above\] shall not take effect until the enactment of additional budget authority after the date of enactment of this Act \[Feb. 11, 2009\] to carry out the analog-to-digital converter box program under section 3005 of the Digital Television Transition and Public Safety Act of 2005 \[section 3005 of Pub. L. 109–171, set out above\].”\]
 
 #### Findings
 

@@ -6,7 +6,7 @@ Each district court of the United States shall have jurisdiction specifically to
 
 #### (b) Referral to Attorney General
 
-A civil action authorized to be brought under this section shall be referred to the Attorney General for appropriate action, except that the Secretary is not required to refer to the Attorney General a violation of this chapter, or any order or regulation issued under this chapter, if the Secretary believes that the administration and enforcement of this chapter would be adequately served by administrative action under subsection (c) of this section or suitable written notice or warning to any person committing the violation.
+A civil action authorized to be brought under this section shall be referred to the Attorney General for appropriate action, except that the Secretary is not required to refer to the Attorney General a violation of this chapter, or any order or regulation issued under this chapter, ifthe Secretary believes that the administration and enforcement of this chapter would be adequately served by administrative action under subsection (c) of this section or suitable written notice or warning to any person committing the violation.
 
 #### (c) Civil penalties and orders
 
@@ -30,7 +30,7 @@ A civil action authorized to be brought under this section shall be referred to 
 
 #### (1) Commencement of action
 
-&emsp;Any person against whom a violation is found and a civil penalty assessed or cease and desist order issued under subsection (c) of this section may obtain review of the penalty or order in the district court of the United States for the district in which such person resides ordoes business, or the United States District Court for the District of Columbia, by—
+&emsp;Any person against whom a violation is found and a civil penalty assessed or cease and desist order issued under subsection (c) of this section may obtain review of the penalty or order in the district court of the United States for the district in which such person resides or does business, or the United States District Court for the District of Columbia, by—
 
 &emsp;&emsp;(A) filing a notice of appeal in such court not later than 30 days after the date of such order; and
 

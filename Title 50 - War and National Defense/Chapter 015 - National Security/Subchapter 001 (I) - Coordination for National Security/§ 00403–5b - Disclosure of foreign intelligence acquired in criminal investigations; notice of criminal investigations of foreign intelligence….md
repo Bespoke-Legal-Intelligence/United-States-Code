@@ -8,7 +8,7 @@
 
 #### (b) Procedures for notice of criminal investigations
 
-Not later than 180 days after October 26, 2001, the Attorney General, in consultation with the Director of National Intelligence, shall develop guidelines to ensure that after receipt of a report from an element of the intelligence community of activity of a foreign intelligence source or potential foreign intelligence source that may warrant investigation as criminal activity, the Attorney General provides notice to the Director, within a reasonable period of time, of his intention to commence, or decline to commence, a criminal investigation of such activity.
+Not later than 180 days after October 26, 2001, the Attorney General, in consultation with the Director of National Intelligence, shall developguidelines to ensure that after receipt of a report from an element of the intelligence community of activity of a foreign intelligence source or potential foreign intelligence source that may warrant investigation as criminal activity, the Attorney General provides notice to the Director, within a reasonable period of time, of his intention to commence, or decline to commence, a criminal investigation of such activity.
 
 #### (c) Procedures
 
@@ -22,7 +22,7 @@ A prior section 403–5b, act July 26, 1947, ch. 343, title I, §105B, as added 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(G), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+2004—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(G), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 Subsec. (a)(2). Pub. L. 108–458, §1071(a)(2)(B), struck out “of Central Intelligence” after “Director”.
 

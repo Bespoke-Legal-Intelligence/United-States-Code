@@ -20,7 +20,7 @@ Any Indian tribe that is not eligible to qualify for a grant under this subchapt
 
 #### (1) Continuing eligibility presumed
 
-&emsp;An Indian tribe which has qualified under subsection (a) or (b) of this section for a grant under this subchapter for any fiscal year shall continue to be eligible for such a grant for each succeeding fiscal year unless the Secretary revokes such eligibility for a cause described in paragraph (2).
+&emsp;An Indian tribe which has qualified under subsection (a) or (b) of this section for a grant under this subchapter for any fiscal year shallcontinue to be eligible for such a grant for each succeeding fiscal year unless the Secretary revokes such eligibility for a cause described in paragraph (2).
 
 #### (2) Causes for loss of eligibility
 
@@ -32,7 +32,7 @@ Any Indian tribe that is not eligible to qualify for a grant under this subchapt
 
 &emsp;&emsp;(C) fails to submit to the Secretary a biennial financial audit conducted in accordance with chapter 75 of title 31; or
 
-&emsp;&emsp;(D) fails, in an evaluation of its financial assistance program conducted by an impartial third party entity, to comply with standards under this subchapter relating to (i) eligible students, programs, or institutions of higher education, (ii) satisfactory progress, or (iii) allowable administrative costs; as determined under contracts applicable to programs to provide financial assistance to individual Indian students for the cost of attendance at institutions of higher education administered by Indiantribes under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] and in effect on January 20, 1991.
+&emsp;&emsp;(D) fails, in an evaluation of its financial assistance program conducted by an impartial third party entity, to comply with standards under this subchapter relating to (i) eligible students, programs, or institutions of higher education, (ii) satisfactory progress, or (iii) allowable administrative costs; as determined under contracts applicable to programs to provide financial assistance to individual Indian students for the cost of attendance at institutions of higher education administered by Indian tribes under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] and in effect on January 20, 1991.
 
 #### (3) Procedures for revocation of eligibility
 

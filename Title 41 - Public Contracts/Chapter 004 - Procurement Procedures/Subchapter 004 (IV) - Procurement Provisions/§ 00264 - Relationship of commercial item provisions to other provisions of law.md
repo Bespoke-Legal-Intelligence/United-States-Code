@@ -88,7 +88,7 @@ Provisions Relating to Types of Contracts for Commercial Items.—(1) \[The\] Fe
 
 &emsp;“(B) Any other category of commercial services that is designated by the Administrator for Federal Procurement Policy in the Federal Acquisition Regulation for the purposes of this paragraph on the basis that—
 
-&emsp;&emsp;“(i) the commercial services in such category are of a type of commercial services that are commonly sold to the general public through use of time-and-materials or labor-hour contracts; and
+&emsp;&emsp;“(i) the commercial services in such category are of a type of commercial services that are commonlysold to the general public through use of time-and-materials or labor-hour contracts; and
 
 &emsp;&emsp;“(ii) it would be in the best interests of the Federal Government to authorize use of time-and-materials or labor-hour contracts for purchases of the commercial services in such category.
 

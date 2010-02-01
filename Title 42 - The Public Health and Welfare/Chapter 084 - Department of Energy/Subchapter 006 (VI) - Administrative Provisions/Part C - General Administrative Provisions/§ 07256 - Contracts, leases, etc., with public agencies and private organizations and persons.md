@@ -54,7 +54,7 @@ To the extent provided in advance in appropriations Acts, the Secretary may reta
 
 (4)(A) The Secretary shall use such competitive, merit-based selection procedures in entering into transactions under paragraph (1), as the Secretary determines in writing to be practicable.
 
-(B) A transaction under paragraph (1) shall relate to a research, development, or demonstration project only if the Secretary determines inwriting that the use of a standard contract, grant, or cooperative agreement for the project is not feasible or appropriate.
+(B) A transaction under paragraph (1) shall relate to a research, development, or demonstration project only if the Secretary determines in writing that the use of a standard contract, grant, or cooperative agreement for the project is not feasible or appropriate.
 
 (5) The Secretary may protect from disclosure, for up to 5 years after the date on which the information is developed, any information developed pursuant to a transaction under paragraph (1) that would be protected from disclosure under section 552(b)(4) of title 5, if obtained from a person other than a Federal agency.
 
@@ -74,7 +74,7 @@ To the extent provided in advance in appropriations Acts, the Secretary may reta
 
 &emsp;(ii) whether additional safeguards are necessary to carry out the authorities.
 
-(9) The authority of the Secretary under this subsection may be delegated only to an officer of the Department who is appointed by the President by and with the advice and consent of the Senate.
+(9) The authority of the Secretary under this subsection may be delegated only to an officerof the Department who is appointed by the President by and with the advice and consent of the Senate.
 
 (10) Notwithstanding any other provision of law, the authority to enter into transactions under paragraph (1) shall terminate on September 30, 2010.
 
@@ -138,7 +138,7 @@ Applicability.—Subsection (a) does not apply—
 
 Pub. L. 95–238, title II, §204, Feb. 25, 1978, 92 Stat. 59, as amended by Pub. L. 96–470, title II, §203(f), Oct. 19, 1980, 94 Stat. 2243, provided that:
 
-“(a) In carrying out the programs for which funds are authorized by this Act \[see Tables for classification\],the Secretary of Energy shall provide a realistic and adequate opportunity for small business concerns to participate in such programs to the optimum extent feasible consistent with the size and nature of the projects and activities involved.
+“(a) In carrying out the programs for which funds are authorized by this Act \[see Tables for classification\], the Secretary of Energy shall provide a realistic and adequate opportunity for small business concerns to participate in such programs to the optimum extent feasible consistent with the size and nature of the projects and activities involved.
 
 “(b) The Secretary of Energy shall submit annually to the appropriate committees of the House of Representatives and the Senate a full report on the actions taken in carrying out subsection (a) during the preceding year, including the extent to which small business concerns are participating in the programs involved and in projects and activities of various types and sizes within each such program, and indicating the steps currently taken to assure such participation in the future. Such report shall also contain such information as may be required by section 308 of the Act of December 31, 1975 (42 U.S.C. 5878a; 89 Stat. 1074).”
 

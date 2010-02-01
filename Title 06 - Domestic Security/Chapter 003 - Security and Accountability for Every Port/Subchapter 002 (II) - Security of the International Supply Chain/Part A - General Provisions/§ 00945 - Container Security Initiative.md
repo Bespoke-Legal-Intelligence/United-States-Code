@@ -114,7 +114,7 @@ The Secretary, acting through the Commissioner, may treat cargo loaded in a fore
 
 #### (2) Updated report
 
-&emsp;Not later than September 30, 2010, the Secretary, acting through the Commissioner, shall, in consultation with other appropriate government officials and the Commercial Operations Advisory Committee, submit an updated report to the appropriate congressional committees on the effectiveness of, and the need for any improvements to, the Container Security Initiative. The updated report shall address each of the elements required to be included in the report provided for under paragraph (1).
+&emsp;Not later than September 30, 2010, the Secretary, acting through the Commissioner, shall, in consultation with other appropriate government officials and the Commercial Operations Advisory Committee, submit an updated report to the appropriate congressional committees on the effectiveness of, and theneed for any improvements to, the Container Security Initiative. The updated report shall address each of the elements required to be included in the report provided for under paragraph (1).
 
 #### (m) Authorization of appropriations
 

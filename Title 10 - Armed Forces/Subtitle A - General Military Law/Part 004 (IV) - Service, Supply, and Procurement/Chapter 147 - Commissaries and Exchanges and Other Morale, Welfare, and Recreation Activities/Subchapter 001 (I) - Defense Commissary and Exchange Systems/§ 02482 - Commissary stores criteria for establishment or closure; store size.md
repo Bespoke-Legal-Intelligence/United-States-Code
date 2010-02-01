@@ -20,7 +20,7 @@ Closure Considerations.—(1) Whenever assessing whether to close a commissary s
 
 (d)
 
-Congressional Notification.—(1) The closure of a commissary store shall not take effect until the end of the 90-day period beginning on the date on which the Secretary of Defense submits to Congress written notice of the reasons supporting the closure. The written notice shall include an assessment of the impact closure will have on the quality of life for military patrons and the welfare and security of the military community in which the commissary is located.
+Congressional Notification.—(1) The closure of a commissary store shall not take effectuntil the end of the 90-day period beginning on the date on which the Secretary of Defense submits to Congress written notice of the reasons supporting the closure. The written notice shall include an assessment of the impact closure will have on the quality of life for military patrons and the welfare and security of the military community in which the commissary is located.
 
 (2) Paragraph (1) shall not apply in the case of the closure of a commissary store as part of the closure of a military installation under a base closure law.
 

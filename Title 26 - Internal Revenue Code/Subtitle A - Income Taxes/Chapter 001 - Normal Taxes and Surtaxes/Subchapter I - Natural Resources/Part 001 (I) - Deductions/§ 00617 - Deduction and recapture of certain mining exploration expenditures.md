@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;At the election of the taxpayer, expenditures paid or incurred during the taxable year forthe purpose of ascertaining the existence, location, extent, or quality of any deposit of ore or other mineral, and paid or incurred before the beginning of the development stage of the mine, shall be allowed as a deduction in computing taxable income. This subsection shall apply only with respect to the amount of such expenditures which, but for this subsection, would not be allowable as a deduction for the taxable year. This subsection shall not apply to expenditures for the acquisition or improvement of property of a character which is subject to the allowance for depreciation provided in section 167, but allowances for depreciation shall be considered, for purposes of this subsection, as expenditures paid or incurred. In no case shall this subsection apply with respect to amounts paid or incurred for the purpose of ascertaining the existence, location, extent, or quality of any deposit of oil or gas or of any mineral with respect to which a deduction for percentage depletion is not allowable under section 613.
+&emsp;At the election of the taxpayer, expenditures paid or incurred during the taxable year for the purpose of ascertaining the existence, location, extent, or quality of any deposit of ore or other mineral, and paid or incurred before the beginning of the development stage of the mine, shall be allowed as a deduction in computing taxable income. This subsection shall apply only with respect to the amount of such expenditures which, but for this subsection, would not be allowable as a deduction for the taxable year. This subsection shall not apply to expenditures for the acquisition or improvement of property of a character which is subject to the allowance for depreciation provided in section 167, but allowances for depreciation shall be considered, for purposes of this subsection, as expenditures paid or incurred. In no case shall this subsection apply with respect to amounts paid or incurred for the purpose of ascertaining the existence, location, extent, or quality of any deposit of oil or gas or of any mineral with respect to which a deduction for percentage depletion is not allowable under section 613.
 
 #### (2) Elections
 
@@ -68,7 +68,7 @@ If an election has been made under subsection (a) with respect to expenditures r
 
 &emsp;&emsp;(B) In the case of the disposition of an undivided interest in a mining property (or a portion thereof), a proportionate part of the adjusted exploration expenditures with respect to such property shall be treated as attributable to such undivided interest to the extent of the amount of the gain to which paragraph (1) applies.
 
-> &emsp;This paragraph shall not apply to any expenditure to the extent the taxpayer establishes to the satisfaction of the Secretary that such expenditure relates neither to the portion (or interest therein) disposed of nor to any mine, in the property held by the taxpayer before the disposition, which has reached the producing stage.
+> &emsp;This paragraph shall not apply to any expenditure to the extent the taxpayer establishes to the satisfaction of the Secretary that such expenditure relates neither to the portion (or interest therein) disposed of nor to any mine, in the property held by the taxpayer before thedisposition, which has reached the producing stage.
 
 #### (3) Exceptions and limitations
 
@@ -140,7 +140,7 @@ In the case of any expenditures paid or incurred before the development stage fo
 
 &emsp;&emsp;<b>For election of 10-year amortization of expenditures allowable as a deduction under this section, see section 59(e).</b>
 
-(Added Pub. L. 89–570, §1(a), Sept. 12, 1966, 80 Stat. 759; amended Pub. L. 91–172, title V, §504(b), Dec. 30, 1969, 83 Stat. 632; Pub. L. 94–455, title XIX, §§1901(a)(89), (b)(3)(K), (21)(C)–(E), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1779, 1793, 1797, 1834; Pub. L. 97–248, title II, §201(d)(9)(D), formerly §201(c)(9)(D), §224(c)(8), Sept. 3, 1982, 96 Stat. 420, 489, renumbered §201(d)(9)(D), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title IV, §§411(b)(2)(B), 413(b), Oct. 22, 1986, 100 Stat. 2226, 2228; Pub. L. 100–647, title I, §1007(g)(7), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–508, title XI, §11801(a)(27), (c)(13), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527.)
+(Added Pub. L. 89–570, §1(a), Sept. 12, 1966, 80 Stat. 759; amended Pub. L. 91–172, title V, §504(b), Dec. 30, 1969, 83 Stat. 632; Pub. L. 94–455, title XIX, §§1901(a)(89), (b)(3)(K), (21)(C)–(E), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1779, 1793, 1797, 1834; Pub. L. 97–248, title II, §201(d)(9)(D), formerly §201(c)(9)(D), §224(c)(8), Sept. 3, 1982, 96 Stat. 420, 489, renumbered §201(d)(9)(D), Pub. L.97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title IV, §§411(b)(2)(B), 413(b), Oct. 22, 1986, 100 Stat. 2226, 2228; Pub. L. 100–647, title I, §1007(g)(7), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–508, title XI, §11801(a)(27), (c)(13), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527.)
 
 #### Amendments
 

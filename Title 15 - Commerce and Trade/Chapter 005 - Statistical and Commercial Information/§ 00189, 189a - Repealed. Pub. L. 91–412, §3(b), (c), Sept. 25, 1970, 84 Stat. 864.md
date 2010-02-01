@@ -28,5 +28,5 @@ Section 189, act May 15, 1936, ch. 405, §1, 49 Stat. 1335, which authorized Sec
 
 &emsp;June 16, 1880, ch. 235, 21 Stat. 271.
 
-Section 189a, act May 27, 1935, ch. 148, §1, 49 Stat. 292, which authorized Department of Commerce to make special statistical studies (foreign trade, domestic trade, and other economic matters), to prepare from its records special statistical compilations, and to furnish transcripts (studies, tables, and other records), upon payment of actual cost by requesting person, firm, or corporations, is now covered by section 1525 of this title.
+Section 189a, act May 27, 1935, ch. 148, §1, 49 Stat. 292, which authorized Department of Commerce to makespecial statistical studies (foreign trade, domestic trade, and other economic matters), to prepare from its records special statistical compilations, and to furnish transcripts (studies, tables, and other records), upon payment of actual cost by requesting person, firm, or corporations, is now covered by section 1525 of this title.
 

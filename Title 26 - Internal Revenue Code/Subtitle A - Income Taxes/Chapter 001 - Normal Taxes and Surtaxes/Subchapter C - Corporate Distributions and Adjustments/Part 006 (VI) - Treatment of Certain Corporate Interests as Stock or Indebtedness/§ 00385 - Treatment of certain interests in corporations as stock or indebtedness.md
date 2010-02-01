@@ -8,7 +8,7 @@ The Secretary is authorized to prescribe such regulations as may be necessary or
 
 The regulations prescribed under this section shall set forth factors which are to be taken into account in determining with respect to a particular factual situation whether a debtor-creditor relationship exists or a corporation-shareholder relationship exists. The factors so set forth in the regulations may include among other factors:
 
-&emsp;(1) whether there is a written unconditional promise to pay on demand or on a specifieddate a sum certain in money in return for an adequate consideration in money or money's worth, and to pay a fixed rate of interest,
+&emsp;(1) whether there is a written unconditional promise to pay on demand or on a specified date a sum certain in money in return for an adequate consideration in money or money's worth, and to pay a fixed rate of interest,
 
 &emsp;(2) whether there is subordination to or preference over any indebtedness of the corporation,
 

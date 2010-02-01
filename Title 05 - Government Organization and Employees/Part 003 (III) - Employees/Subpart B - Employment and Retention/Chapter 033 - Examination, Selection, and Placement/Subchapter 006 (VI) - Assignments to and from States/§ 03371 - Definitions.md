@@ -6,7 +6,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(A) a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and a territory or possession of the United States; and
 
-&emsp;&emsp;(B) an instrumentality or authority of a State or States as defined in subparagraph\(A) of this paragraph (1) and a Federal-State authority or instrumentality;
+&emsp;&emsp;(B) an instrumentality or authority of a State or States as defined in subparagraph (A) of this paragraph (1) and a Federal-State authority or instrumentality;
 
 &emsp;(2) “local government” means—
 

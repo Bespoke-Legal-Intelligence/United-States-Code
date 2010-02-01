@@ -44,7 +44,7 @@
 
 #### (C) Definition
 
-&emsp;&emsp;For purposes of this section, the term “qualified public housing agency” means a public housing agency that meets the following requirements:
+&emsp;&emsp;For purposes of this section, the term “qualified public housing agency” means apublic housing agency that meets the following requirements:
 
 &emsp;&emsp;&emsp;(i) The sum of (I) the number of public housing dwelling units administered by the agency, and (II) the number of vouchers under section 1437f(<i>o</i>) of this title administered by the agency, is 550 or fewer.
 
@@ -208,7 +208,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), nothing in this section may be construed toexempt a qualified public housing agency from the requirement under paragraph (1) to establish 1 or more resident advisory boards. Notwithstanding that qualified public housing agencies are exempt under subsection (b)(3)(A) from the requirement under this section to prepare and submit an annual public housing plan, each qualified public housing agency shall consult with, and consider the recommendations of the resident advisory boards for the agency, at the annual public hearing required under subsection (f)(5), regarding any changes to the goals, objectives, and policies of that agency.
+&emsp;&emsp;Except as provided in subparagraph (B), nothing in this section may be construed to exempt a qualified public housing agency from the requirement under paragraph (1) to establish 1 or more resident advisory boards. Notwithstanding that qualified public housing agencies are exempt under subsection (b)(3)(A) from the requirement under this section to prepare and submit an annual public housing plan, each qualified public housing agency shall consult with, and consider the recommendations of the resident advisory boards for the agency, at the annual public hearing required under subsection (f)(5), regarding any changes to the goals, objectives, and policies of that agency.
 
 #### (B) Applicability of waiver authority
 
@@ -354,7 +354,7 @@ In carrying out this section, the Secretary may establish a streamlined public h
 
 #### (1) In general
 
-&emsp;In providing assistance under this subchapter, a public housing agency shall complywith the rules, standards, and policies established in the public housing agency plan of the public housing agency approved under this section.
+&emsp;In providing assistance under this subchapter, a public housing agency shall comply with the rules, standards, and policies established in the public housing agency plan of the public housing agency approved under this section.
 
 #### (2) Investigation and enforcement
 
@@ -438,7 +438,7 @@ Audit and review.—Not later than 1 year after the effective date of final regu
 
 “(2)
 
-Report.—Not later than 2 years after the date on which public housing agency plans are initially required to be submitted under section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section) the Comptroller General of the United States shall submit to the Congress a report, which shall include—
+Report.—Not later than 2 years after the date on which public housing agency plans are initially required to be submitted under section 5A of the UnitedStates Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section) the Comptroller General of the United States shall submit to the Congress a report, which shall include—
 
 &emsp;“(A) a description of the results of each audit and review under paragraph (1); and
 

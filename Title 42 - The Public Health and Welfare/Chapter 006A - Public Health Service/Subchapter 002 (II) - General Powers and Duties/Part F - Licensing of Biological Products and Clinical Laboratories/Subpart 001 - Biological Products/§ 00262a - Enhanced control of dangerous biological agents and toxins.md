@@ -150,7 +150,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (ii) Disclosure of information
 
-&emsp;&emsp;&emsp;In a review under subparagraph (A), and in any judical <sup>1</sup> proceeding conducted pursuant to such review, neither the Secretary nor the Attorney General may be required to disclose to the public any information that under subsection (h) of thissection shall not be disclosed under section 552 of title 5.
+&emsp;&emsp;&emsp;In a review under subparagraph (A), and in any judical <sup>1</sup> proceeding conducted pursuant to such review, neither the Secretary nor the Attorney General may be required to disclose to the public any information that under subsection (h) of this section shall not be disclosed under section 552 of title 5.
 
 #### (8) Notifications regarding theft or loss of agents
 
@@ -196,7 +196,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary may exempt an investigational product that is, bears, or contains a listed agent or toxin from the applicability of provisions of regulations under subsection (b) or (c) of this section when such product is being used in an investigation authorized under any Federal Act and the Secretary determines that applying additional regulation under subsection (b) or (c) of this section to such product is not necessary to protect public health and safety.
+&emsp;&emsp;&emsp;The Secretary may exempt an investigational product that is, bears, or contains alisted agent or toxin from the applicability of provisions of regulations under subsection (b) or (c) of this section when such product is being used in an investigation authorized under any Federal Act and the Secretary determines that applying additional regulation under subsection (b) or (c) of this section to such product is not necessary to protect public health and safety.
 
 #### (ii) Certain processes
 
@@ -278,7 +278,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (j) Notification in event of release
 
-Regulations under subsections (b) and (c) of this section shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to public health or safety, the Secretary shall take appropriate action to notify relevant State and local public health authorities, other relevant Federal authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin\(as defined in subsection (<i>l</i>) of this section), the Secretary shall promptly notify the Secretary of Agriculture upon notification by the registered person.
+Regulations under subsections (b) and (c) of this section shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to public health or safety, the Secretary shall take appropriate action to notify relevant State and local public health authorities, other relevant Federal authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin (as defined in subsection (<i>l</i>) of this section), the Secretary shall promptly notify the Secretary of Agriculture upon notification by the registered person.
 
 #### (k) Reports
 
@@ -324,7 +324,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec.(g)(2)(B)(i), is
 
 The Act commonly known as the Virus-Serum-Toxin Act, referred to in subsec. (g)(2)(B)(iii), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 832, as amended, which is classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (g)(2)(B)(iv), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (g)(2)(B)(iv), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generallyto subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 Section 6 of the Inspector General Act of 1978, referred to in subsec. (i)(2), is section 6 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -362,7 +362,7 @@ Pub. L. 107–188, title II, §202, June 12, 2002, 116 Stat. 646, provided that:
 
 “(a)
 
-Date Certain for Notice of Possession.—Not later than 90 days after the date of the enactment of this Act \[June 12, 2002\], all persons (unless exempt under subsection (g) of section 351A of the Public Health Service Act \[subsec. (g) of this section\], as added by section 201 of this Act) in possession of biological agents or toxins listed under such section 351Aof the Public Health Service Act \[this section\] shall notify the Secretary of Health and Human Services of such possession. Not later than 30 days after such date of enactment, the Secretary shall provide written guidance on how such notice is to be provided to the Secretary.
+Date Certain for Notice of Possession.—Not later than 90 days after the date of the enactment of this Act \[June 12, 2002\], all persons (unless exempt under subsection (g) of section 351A of the Public Health Service Act \[subsec. (g) of this section\], as added by section 201 of this Act) in possession of biological agents or toxins listed under such section 351A of the Public Health Service Act \[this section\] shall notify the Secretary of Health and Human Services of such possession. Not later than 30 days after such date of enactment, the Secretary shall provide written guidance on how such notice is to be provided to the Secretary.
 
 “(b)
 

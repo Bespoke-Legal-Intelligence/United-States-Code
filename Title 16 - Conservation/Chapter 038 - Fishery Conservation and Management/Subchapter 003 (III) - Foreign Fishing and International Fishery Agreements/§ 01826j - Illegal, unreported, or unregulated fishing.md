@@ -38,7 +38,7 @@ No later than 60 days after submitting a report to Congress under section 1826h 
 
 &emsp;&emsp;(A) the vessel has not engaged in illegal, unreported, or unregulated fishing under an international fishery management agreement to which the United States is a party; or
 
-&emsp;&emsp;(B) the vessel is not identified by an international fishery management organizationas participating in illegal, unreported, or unregulated fishing activities.
+&emsp;&emsp;(B) the vessel is not identified by an international fishery management organization as participating in illegal, unreported, or unregulated fishing activities.
 
 #### (3) Effect of certification
 

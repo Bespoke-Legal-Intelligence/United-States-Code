@@ -113,10 +113,14 @@
 | [1973ff.](Subchapter%20001%E2%80%93G%20%28I%E2%80%93G%29%20-%20Registration%20and%20Voting%20by%20Absent%20Uniformed%20Services%20Voters%20and%20Overseas%20Voters%20in%20Elections%20for%20Federal%20Office/%C2%A7%2001973ff%20-%20Federal%20responsibilities.md) | Federal responsibilities. |
 | 1973ff–1. | State responsibilities. |
 | 1973ff–2. | Federal write-in absentee ballot in general elections for Federal office for absent uniformed services voters and overseas voters. |
-| 1973ff–3. | Use of single application for all subsequent elections. |
+| 1973ff–2a. | Procedures for collection and delivery of marked absentee ballots of absent overseas uniformed services voters. |
+| 1973ff–2b. | Federal Voting Assistance Program Improvements. |
+| 1973ff–3. | Prohibition of refusal of applications on grounds of early submission. |
 | 1973ff–4. | Enforcement. |
+| 1973ff–4a. | Reporting requirements. |
 | 1973ff–5. | Effect on certain other laws. |
 | 1973ff–6. | Definitions. |
+| 1973ff–7. | Technology pilot program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

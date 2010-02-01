@@ -34,7 +34,7 @@ Section 701 of the Housing Act of 1954, referred to in subsec. (b), was classifi
 
 The Housing Act of 1961, referred to in subsec. (b), is Pub. L. 87–70, June 30, 1961, 75 Stat. 149, as amended. Title VII of the Housing Act of 1961 was classified generally to chapter 8C (§1500 et seq.) of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 5316 of Title 42 which terminated authority to make grants or loans under such title VII after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12, Banks and Banking, and Tables.
 
-The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsec. (d), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 45, Railroads, and Tables.
+The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsec. (d), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended. For complete classification of this Act to the Code, see Short Title noteset out under section 801 of Title 45, Railroads, and Tables.
 
 #### Amendments
 

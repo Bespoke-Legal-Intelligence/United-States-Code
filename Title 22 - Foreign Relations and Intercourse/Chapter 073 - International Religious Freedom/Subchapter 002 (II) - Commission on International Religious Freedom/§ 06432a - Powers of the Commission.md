@@ -22,13 +22,13 @@ The Members of the Commission may speak in their capacity as private citizens. S
 
 #### (f) Travel
 
-The Members of the Commission may, with the approval of the Commission, conduct such travel as is necessary to carry out the purpose of this subchapter. Each trip must be approved by a majority of the Commission. This provisionshall not apply to the Ambassador-at-Large, whose travel shall not require approval by the Commission.
+The Members of the Commission may, with the approval of the Commission, conduct such travel as is necessary to carry out the purpose of this subchapter. Each trip must be approved by a majority of the Commission. This provision shall not apply to the Ambassador-at-Large, whose travel shall not require approval by the Commission.
 
 (Pub. L. 105–292, title II, §203, as added Pub. L. 106–55, §1(b)(3), Aug. 17, 1999, 113 Stat. 401.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27,1998, 112 Stat. 2787, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
 
 #### Prior Provisions
 

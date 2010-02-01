@@ -44,7 +44,7 @@ Section 215 of title II of Pub. L. 99–662 provided that: “This title \[enact
 
 #### Funding to Process Permits
 
-Pub. L. 106–541, title II, §214, Dec. 11, 2000, 114 Stat. 2594, as amended by Pub. L. 108–137, title I, §114, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 109–99, §1, Nov. 11, 2005, 119 Stat. 2169; Pub. L. 109–209, §1, Mar. 24, 2006, 120 Stat. 318; Pub. L. 109–434, §1, Dec. 20, 2006, 120 Stat. 3197; Pub. L. 110–114, title II, §2002, Nov. 8, 2007, 121 Stat. 1067, provided that:
+Pub. L. 106–541, title II, §214, Dec. 11, 2000, 114 Stat. 2594, as amended by Pub. L. 108–137, title I, §114, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 109–99, §1, Nov. 11, 2005, 119 Stat. 2169; Pub. L. 109–209, §1, Mar. 24, 2006, 120 Stat. 318; Pub. L. 109–434, §1, Dec. 20, 2006, 120 Stat. 3197; Pub. L. 110–114, title II, §2002, Nov. 8, 2007, 121 Stat. 1067; Pub. L. 111–120, §1, Dec. 22, 2009, 123 Stat. 3478, provided that:
 
 “(a)
 
@@ -56,7 +56,7 @@ Effect on Permitting.—In carrying out this section, the Secretary shall ensure
 
 “(c)
 
-Duration of Authority.—The authority provided under this section shall be in effect from October 1, 2000, through December 31, 2009.”
+Duration of Authority.—The authority provided under this section shall be in effect from October 1, 2000, through December 31, 2010.”
 
 #### Monitoring
 

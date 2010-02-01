@@ -60,7 +60,7 @@ Any person who shall violate, or aid or abet in violating, any of the provisions
 
 #### (g) Construction with other laws
 
-Nothing contained in this chapter shall be construed as in any way affecting, modifying,repealing, or superseding the provisions of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
+Nothing contained in this chapter shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
 
 #### (h) Exportation of partially processed biological products
 
@@ -88,7 +88,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 The effective date of this paragraph, referred to in subsec. (d)(2), is the effective date of section 315 of Pub. L. 99–660 which added subsec. (d)(2). See Effective Date of 1986 Amendment note set out below.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (g), (h), and (j), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (g), (h), and (j), is act June 25, 1938, ch.675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 #### Amendments
 
@@ -114,7 +114,7 @@ Subsec. (j). Pub. L. 105–115, §123(g), added subsec. (j).
 
 Subsec. (h)(1)(A). Pub. L. 104–134, §2102(d)(2), substituted “in a country listed under section 802(b)(1)” for “in a country listed under section 802(b)(A)” and “to a country listed under section 802(b)(1)” for “to a country listed under section 802(b)(4)”.
 
-1992—Subsec. (c). Pub. L. 102–300, which directed substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because the words “Health, Education, and Welfare” did not appear in original statutory text. Previously, references to Department and Secretary of Health and HumanServices were substituted for references to Federal Security Agency and its Administrator pursuant to provisions cited in Transfer of Functions note below.
+1992—Subsec. (c). Pub. L. 102–300, which directed substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because the words “Health, Education, and Welfare” did not appear in original statutory text. Previously, references to Department and Secretary of Health and Human Services were substituted for references to Federal Security Agency and its Administrator pursuant to provisions cited in Transfer of Functions note below.
 
 1986—Subsec. (d). Pub. L. 99–660, §315, designated existing provisions as par. (1) and added par. (2).
 

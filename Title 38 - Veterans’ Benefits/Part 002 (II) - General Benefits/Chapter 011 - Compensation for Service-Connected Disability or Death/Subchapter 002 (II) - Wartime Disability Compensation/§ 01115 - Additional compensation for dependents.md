@@ -4,23 +4,35 @@ Any veteran entitled to compensation at the rates provided in section 1114 of th
 
 &emsp;(1) If and while rated totally disabled and—
 
-&emsp;&emsp;(A) has a spouse but no child, $142;
+&emsp;&emsp;(A) has a spouse but no child, $150;
 
-&emsp;&emsp;(B) has a spouse and one or more children, $245 plus $71 for each child in excess of one;
+&emsp;&emsp;(B) has a spouse and one or more children, $259 plus $75 for each child in excess of one;
 
-&emsp;&emsp;(C) has no spouse but one or more children, $96 plus $71 for each child in excess of one;
+&emsp;&emsp;(C) has no spouse but one or more children, $101 plus $75 for each child in excess of one;
 
-&emsp;&emsp;(D) has a parent dependent upon such veteran for support, then, in addition to the above amounts, $114 for each parent so dependent;
+&emsp;&emsp;(D) has a parent dependent upon such veteran for support, then, in addition to the above amounts, $120 for each parent so dependent;
 
-&emsp;&emsp;(E) notwithstanding the other provisions of this paragraph, the monthly payable amount on account of a spouse who is (i) a patient in a nursing home or (ii) blind, or so nearly blind or significantly disabled as to need or require the regular aid and attendance of another person, shall be $271 for a totally disabled veteran and proportionate amounts for partially disabled veterans in accordance with paragraph (2) of this section; and
+&emsp;&emsp;(E) notwithstanding the other provisions of this paragraph, the monthly payable amount on account of a spouse who is (i) a patient in a nursing home or (ii) blind, or so nearly blind or significantly disabled as to need or require the regular aid and attendance of another person, shall be $286 for a totally disabled veteran and proportionate amounts for partially disabled veterans in accordance with paragraph (2) of this section; and
 
-&emsp;&emsp;(F) notwithstanding the other provisions of this paragraph, the monthly amount payable on account of each child who has attained the age of eighteen years and who is pursuing a course of instruction at an approved educational institution shall be $227 for a totally disabled veteran and proportionate amounts for partially disabled veterans in accordance with paragraph (2) of this section.
+&emsp;&emsp;(F) notwithstanding the other provisions of this paragraph, the monthly amount payable on account of each child who has attained the age of eighteen years and who is pursuing a course of instruction at an approved educational institution shall be $240 for a totally disabled veteran and proportionate amounts for partially disabled veterans in accordance with paragraph (2) of this section.
 
 &emsp;(2) If and while rated partially disabled, but not less than 30 percent, in an amount having the same ratio to the amount specified in paragraph (1) of this section as the degree of disability bears to total disability. The amounts payable under this paragraph, if not a multiple of $1, shall be rounded down to the nearest dollar.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1121, §315; Pub. L. 86–499, §1, June 8, 1960, 74 Stat. 165; Pub. L. 89–137, §1(b), Aug. 26, 1965, 79 Stat. 576; Pub. L. 89–311, §2(a), (b), Oct. 31, 1965, 79 Stat. 1154, 1155; Pub. L. 91–376, §2, Aug. 12, 1970, 84 Stat. 788; Pub. L. 92–328, title I, §102, June 30, 1972, 86 Stat. 394; Pub. L. 93–295, title I, §102, May 31, 1974, 88 Stat. 181; Pub. L. 94–71, title I, §102, Aug. 5, 1975, 89 Stat. 396; Pub. L. 94–433, title I, §102, title IV, §404(9)–(11), Sept. 30, 1976, 90 Stat. 1375, 1378; Pub. L. 95–117, title I, §102, Oct. 3, 1977, 91 Stat. 1064; Pub. L. 95–479, title I, §102, Oct. 18, 1978, 92 Stat. 1562; Pub. L. 96–128, title I, §102, Nov. 28, 1979, 93 Stat. 983; Pub. L. 96–385, title I, §102, Oct. 7, 1980, 94 Stat. 1529; Pub. L. 97–66, title I, §102, Oct. 17, 1981, 95 Stat. 1027; Pub. L. 97–253, title IV, §§404(b), 405(c), Sept. 8, 1982, 96 Stat. 803; Pub. L. 97–306, title I, §§102, 107, Oct. 14, 1982, 96 Stat. 1430, 1431; Pub. L. 98–223, title I, §102, Mar. 2, 1984, 98 Stat. 38; Pub. L. 98–543, title I, §102, Oct. 24, 1984, 98 Stat. 2736; Pub. L. 99–238, title I, §102, Jan. 13, 1986, 99 Stat. 1766; Pub. L. 99–576, title I, §102, Oct. 28, 1986, 100 Stat. 3251; Pub. L. 100–227, title I, §102, Dec. 31, 1987, 101 Stat. 1553; Pub. L. 100–687, div. B, title XI, §1102, Nov. 18, 1988, 102 Stat. 4123; Pub. L. 101–237, title I, §102, Dec. 18, 1989, 103 Stat. 2063; Pub. L. 102–3, §3, Feb. 6, 1991, 105 Stat. 8; renumbered §1115 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–152, §3, Nov. 12, 1991, 105 Stat. 986; Pub. L. 103–78, §2, Aug. 13, 1993, 107 Stat. 768; Pub. L. 103–140, §3, Nov. 11, 1993, 107 Stat. 1486; Pub. L. 105–98, §3, Nov. 19, 1997, 111 Stat. 2156; Pub. L. 106–118, §3, Nov. 30, 1999, 113 Stat. 1602; Pub. L. 107–94, §3, Dec. 21, 2001, 115 Stat. 901; Pub. L. 107–330, title III, §309(b), Dec. 6, 2002, 116 Stat. 2830; Pub. L. 108–454, title III, §307(b), Dec. 10, 2004, 118 Stat. 3613; Pub. L. 109–111, §2(b), Nov. 22, 2005, 119 Stat. 2363; Pub. L. 109–233, title V, §502(3), June 15, 2006, 120 Stat. 415; Pub. L. 109–444, §9(b), Dec. 21, 2006, 120 Stat. 3314; Pub. L. 109–461, title X, §§1005(b), 1006(b), Dec. 22, 2006, 120 Stat. 3467, 3468; Pub. L. 110–324, §3(b), Sept. 24, 2008, 122 Stat. 3551.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1121, §315; Pub. L. 86–499, §1, June 8, 1960, 74 Stat. 165; Pub. L. 89–137, §1(b), Aug. 26, 1965, 79 Stat. 576; Pub. L. 89–311, §2(a), (b), Oct. 31, 1965, 79 Stat. 1154, 1155; Pub. L. 91–376, §2, Aug. 12, 1970, 84 Stat. 788; Pub. L. 92–328, title I, §102, June 30, 1972, 86 Stat. 394; Pub. L. 93–295, title I, §102, May 31, 1974, 88 Stat. 181; Pub. L. 94–71, title I, §102, Aug. 5, 1975, 89 Stat. 396; Pub. L. 94–433, title I, §102, title IV, §404(9)–(11), Sept. 30, 1976, 90 Stat. 1375, 1378; Pub. L. 95–117, title I, §102, Oct. 3, 1977, 91 Stat. 1064; Pub. L. 95–479, title I, §102, Oct. 18, 1978, 92 Stat. 1562; Pub. L. 96–128, title I, §102, Nov. 28, 1979, 93 Stat. 983; Pub. L. 96–385, title I, §102, Oct. 7, 1980, 94 Stat. 1529; Pub. L. 97–66, title I, §102, Oct. 17, 1981, 95 Stat. 1027; Pub. L. 97–253, title IV, §§404(b), 405(c), Sept. 8, 1982, 96 Stat. 803; Pub. L. 97–306, title I, §§102, 107, Oct. 14, 1982, 96 Stat. 1430, 1431; Pub. L. 98–223, title I, §102, Mar. 2, 1984, 98 Stat. 38; Pub. L. 98–543, title I, §102, Oct. 24, 1984, 98 Stat. 2736; Pub. L. 99–238, title I, §102, Jan. 13, 1986, 99 Stat. 1766; Pub. L. 99–576, title I, §102, Oct. 28, 1986, 100 Stat. 3251; Pub. L. 100–227, title I, §102, Dec. 31, 1987, 101 Stat. 1553; Pub. L. 100–687, div. B, title XI, §1102, Nov. 18, 1988, 102 Stat. 4123; Pub. L. 101–237, title I, §102, Dec. 18, 1989, 103 Stat. 2063; Pub. L. 102–3, §3, Feb. 6, 1991, 105 Stat. 8; renumbered §1115 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–152, §3, Nov. 12, 1991, 105 Stat. 986; Pub. L. 103–78, §2, Aug. 13, 1993, 107 Stat. 768; Pub. L. 103–140, §3, Nov. 11, 1993, 107 Stat. 1486; Pub. L. 105–98, §3, Nov. 19, 1997, 111 Stat. 2156; Pub. L. 106–118, §3, Nov. 30, 1999, 113 Stat. 1602; Pub. L. 107–94, §3, Dec. 21, 2001, 115 Stat. 901; Pub. L. 107–330, title III, §309(b), Dec. 6, 2002, 116 Stat. 2830; Pub. L. 108–454, title III, §307(b), Dec. 10, 2004, 118 Stat. 3613; Pub. L. 109–111, §2(b), Nov. 22, 2005, 119 Stat. 2363; Pub. L. 109–233, title V, §502(3), June 15, 2006, 120 Stat. 415; Pub. L. 109–444, §9(b), Dec. 21, 2006, 120 Stat. 3314; Pub. L. 109–461, title X, §§1005(b), 1006(b), Dec. 22, 2006, 120 Stat. 3467, 3468; Pub. L. 110–324, §3(b), Sept. 24, 2008, 122 Stat. 3551; Pub. L. 111–37, §3(b), June 30, 2009, 123 Stat. 1929.)
 
 #### Amendments
+
+2009—Par. (1)(A). Pub. L. 111–37, §3(b)(1), substituted “$150” for “$142”.
+
+Par. (1)(B). Pub. L. 111–37, §3(b)(2), substituted “$259” and “$75” for “$245” and “$71”, respectively.
+
+Par. (1)(C). Pub. L. 111–37, §3(b)(3), substituted “$101” and “$75” for “$96” and “$71”, respectively.
+
+Par. (1)(D). Pub. L. 111–37, §3(b)(4), substituted “$120” for “$114”.
+
+Par. (1)(E). Pub. L. 111–37, §3(b)(5), substituted “$286” for “$271”.
+
+Par. (1)(F). Pub. L. 111–37, §3(b)(6), substituted “$240” for “$227”.
 
 2008—Par. (1)(A). Pub. L. 110–324, §3(b)(1), substituted “$142” for “$139”.
 
@@ -337,6 +349,10 @@ Par. (2). Pub. L. 94–433, §404(11), struck out “his” before “disability
 Pub. L. 89–137 struck out subsec. (b) which prohibited payment of the additional compensation to any veteran during any period he is in receipt of an increased rate of subsistence allowance or education and training allowance on account of a dependent or dependents, and redesignated subsec. (a) as entire section.
 
 1960—Subsec. (a). Pub. L. 86–499 authorized payment of $12 for each living child in excess of three.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–37 effective Dec. 1, 2008, see section 3(g) of Pub. L. 111–37, set out as a note under section 1114 of this title.
 
 #### Effective Date of 2008 Amendment
 

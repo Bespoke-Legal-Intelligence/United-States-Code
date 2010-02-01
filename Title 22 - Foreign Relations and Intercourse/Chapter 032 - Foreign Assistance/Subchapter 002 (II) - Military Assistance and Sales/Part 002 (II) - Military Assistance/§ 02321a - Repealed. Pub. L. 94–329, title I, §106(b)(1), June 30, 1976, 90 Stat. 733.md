@@ -4,5 +4,5 @@ Section, Pub. L. 87–195, pt. II, §510, as added Pub. L. 91–175, pt. II, §2
 
 #### Savings Provision
 
-Section 106(c) of Pub. L. 94–329 provided that: “Except as may be expressly provided to the contrary in thisAct \[see Short Title of 1976 Amendment note under section 2151 of this title\], all determinations, authorizations, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of any provision of law amended or repealed by this section \[repealing this section and amending sections 2382, 2383, 2392, 2396, and 2403 of this title\] shall continue in full force and effect until modified, revoked, or superseded by appropriate authority.”
+Section 106(c) of Pub. L. 94–329 provided that: “Except as may be expressly provided to the contrary in this Act \[see Short Title of 1976 Amendment note under section 2151 of this title\], all determinations, authorizations, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of any provision of law amended or repealed by this section \[repealing this section and amending sections 2382, 2383, 2392, 2396, and 2403 of this title\] shall continue in full force and effect until modified, revoked, or superseded by appropriate authority.”
 

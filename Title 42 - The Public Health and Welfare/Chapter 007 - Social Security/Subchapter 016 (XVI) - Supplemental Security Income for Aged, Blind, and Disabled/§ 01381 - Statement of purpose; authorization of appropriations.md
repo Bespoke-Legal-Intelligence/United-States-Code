@@ -6,7 +6,7 @@ For the purpose of establishing a national program to provide supplemental secur
 
 #### Prior Provisions
 
-A prior section 1381, act Aug. 14, 1935, ch. 531, title XVI, §1601, as added July 25, 1962, Pub. L. 87–543, title I, §141(a), 76 Stat. 197, authorized appropriations for grants to States for aid to aged, blind, or disabled, and for medical assistance for aged, prior to the generalamendment of title XVI of the Social Security Act by Pub. L. 92–603, §301, but is set out as a note below in view of its continued applicability to Puerto Rico, Guam, and the Virgin Islands.
+A prior section 1381, act Aug. 14, 1935, ch. 531, title XVI, §1601, as added July 25, 1962, Pub. L. 87–543, title I, §141(a), 76 Stat. 197, authorized appropriations for grants to States for aid to aged, blind, or disabled, and for medical assistance for aged, prior to the general amendment of title XVI of the Social Security Act by Pub. L. 92–603, §301, but is set out as a note below in view of its continued applicability to Puerto Rico, Guam, and the Virgin Islands.
 
 #### Effective Date
 
@@ -34,5 +34,5 @@ For the purpose of enabling each State, as far as practicable under the conditio
 
 #### Payments Under Chapter Provisions in Effect Before January 1, 1974, for: Activities Carried Out Through December 31, 1973, Under State Plans Approved Under Subchapter I, X, XIV, or XVI Provisions; and for Administrative Activities After January 1, 1974, Closing Out Such Activities
 
-Pub. L. 93–233, §19(b), Dec. 31, 1973, 87 Stat. 974, provided that: “Notwithstanding the provisions of section 301 of the Social Security Amendments of 1972 \[enacting this subchapter\], the Secretary of Health, Education, and Welfare shall make payments to the 50 States and the District of Columbia after December 31, 1973, in accordance with the provisions of the Social Security Act \[this chapter\] as in effect prior to January 1, 1974, for (1) activities carried out through the close of December 31, 1973, under State plans approved under title I, X, XIV, or XVI, of such Act \[subchapter I, X, XIV, or XVI of this chapter\], and (2) administrative activities carried out after December 31, 1973, which such Secretary determines are necessary to bring to a close activities carried out under such State plans.”
+Pub. L. 93–233, §19(b), Dec. 31, 1973, 87 Stat. 974, provided that: “Notwithstanding the provisions of section 301 of the Social Security Amendments of 1972 \[enacting this subchapter\], the Secretary of Health, Education, and Welfare shall make payments to the 50 States and the District of Columbia after December 31, 1973, in accordance with the provisions of the Social Security Act \[this chapter\] as in effect prior to January1, 1974, for (1) activities carried out through the close of December 31, 1973, under State plans approved under title I, X, XIV, or XVI, of such Act \[subchapter I, X, XIV, or XVI of this chapter\], and (2) administrative activities carried out after December 31, 1973, which such Secretary determines are necessary to bring to a close activities carried out under such State plans.”
 

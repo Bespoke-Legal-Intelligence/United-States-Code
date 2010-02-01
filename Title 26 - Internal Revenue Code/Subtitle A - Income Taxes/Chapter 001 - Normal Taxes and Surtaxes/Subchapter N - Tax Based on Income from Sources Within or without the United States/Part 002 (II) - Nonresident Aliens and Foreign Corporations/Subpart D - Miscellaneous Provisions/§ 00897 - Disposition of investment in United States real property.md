@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) in the case of a foreign corporation, under section 882(a)(1),
 
-> &emsp;as if the taxpayer were engaged in a trade or business within the United States during the taxable year and as if such gain or loss wereeffectively connected with such trade or business.
+> &emsp;as if the taxpayer were engaged in a trade or business within the United States during the taxable year and as if such gain or loss were effectively connected with such trade or business.
 
 #### (2) Minimum tax on nonresident alien individuals
 
@@ -282,7 +282,7 @@ For purposes of this section—
 
 &emsp;An election under paragraph (1) may be made only—
 
-&emsp;&emsp;(A) if all of the owners of all classes of interests (other than interests solely as a creditor) in the foreign corporation at the time of the election consent to the making of the election and agree that gain, if any, from the disposition of such interest after June 18, 1980, which would be taken into account under subsection (a) shall be taxable notwithstanding any provision to the contrary in a treaty to which the United States is a party, and
+&emsp;&emsp;(A) if all of the owners of all classes of interests (other than interests solely as a creditor) in the foreign corporation at the timeof the election consent to the making of the election and agree that gain, if any, from the disposition of such interest after June 18, 1980, which would be taken into account under subsection (a) shall be taxable notwithstanding any provision to the contrary in a treaty to which the United States is a party, and
 
 &emsp;&emsp;(B) subject to such other conditions as the Secretary may prescribe by regulations with respect to the corporation or its shareholders.
 
@@ -332,7 +332,7 @@ Subsec. (h)(3). Pub. L. 108–357, §411(c)(2), amended heading and text of par.
 
 Subsec. (h)(4)(A). Pub. L. 108–357, §411(c)(3), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “The term ‘REIT’ means a real estate investment trust.”
 
-Subsec. (h)(4)(B). Pub. L. 108–357, §411(c)(3), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The term ‘domestically-controlled REIT’ means a REIT in which at all times during the testing period less than 50 percent in value of the stock was held directly or indirectly by foreign persons.”
+Subsec. (h)(4)(B). Pub. L. 108–357, §411(c)(3), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The term ‘domestically-controlled REIT’ means a REIT in which at all times during the testing period less than 50 percent invalue of the stock was held directly or indirectly by foreign persons.”
 
 Subsec. (h)(4)(C), (D)(iii). Pub. L. 108–357, §411(c)(4), substituted “qualified investment entity” for “REIT”.
 
@@ -372,7 +372,7 @@ Subsec. (d). Pub. L. 99–514, §631(e)(12), in heading, struck out “, etc.,�
 
 Subsec. (i)(1), (4). Pub. L. 99–514, §1810(f)(1), inserted reference to section 1445.
 
-1982—Subsec. (a)(2)(A). Pub. L. 97–248 substituted “section 55(a)(1) for the taxable year shall not be less than 20 percent of the lesser of—” for “section 55(a)(1)(A) for the taxable year shall not be less than 20 percent of whichever of the following is the least:” in introductory provisions, in cl. (i) struck out “(1)” after “section 55(b)” and inserted “or” at the end, in cl. (ii)substituted a period for a comma and struck out “or” at the end, and struck out former cl. (iii), which had provided for the amount of $60,000 as a third alternative.
+1982—Subsec. (a)(2)(A). Pub. L. 97–248 substituted “section 55(a)(1) for the taxable year shall not be less than 20 percent of the lesser of—” for “section 55(a)(1)(A) for the taxable year shall not be less than 20 percent of whichever of the following is the least:” in introductory provisions, in cl. (i) struck out “(1)” after “section 55(b)” and inserted “or” at the end, in cl. (ii) substituted a period for a comma and struck out “or” at the end, and struck out former cl. (iii), which had provided for the amount of $60,000 as a third alternative.
 
 1981—Subsec. (c)(1)(A)(i). Pub. L. 97–34, §831(a)(1), defined “United States real property interest” to also mean an interest in real property located in the Virgin Islands.
 
@@ -424,7 +424,7 @@ Amendment by section 631(e)(12) of Pub. L. 99–514 applicable to any distributi
 
 Amendment by section 701(e)(4)(G) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 
-Amendment by section 1810(f)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, seesection 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1810(f)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1982 Amendment
 

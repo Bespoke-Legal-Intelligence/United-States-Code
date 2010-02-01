@@ -38,7 +38,7 @@ In this section, before clause (1), the words “but need not be limited to” a
 
 2006—Pars. (4) to (6). Pub. L. 109–443 added pars. (4) to (6).
 
-1995—Par. (4). Pub. L. 104–66 struck out par. (4) which read as follows: “an evaluation conducted every 2 years of transportation safety and recommendations for legislative and administrative action and change.”
+1995—Par. (4). Pub. L. 104–66 struck out par. (4) which read as follows: “an evaluation conducted every 2 yearsof transportation safety and recommendations for legislative and administrative action and change.”
 
 #### Termination of Reporting Requirements
 

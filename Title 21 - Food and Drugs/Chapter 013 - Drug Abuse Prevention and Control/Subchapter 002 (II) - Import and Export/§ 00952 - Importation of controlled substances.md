@@ -14,7 +14,7 @@ It shall be unlawful to import into the customs territory of the United States f
 
 &emsp;&emsp;(C) in any case in which the Attorney General finds that such controlled substance is in limited quantities exclusively for scientific, analytical, or research uses,
 
-> may be so imported under such regulations as the Attorney General shall prescribe. No crudeopium may be so imported for the purpose of manufacturing heroin or smoking opium.
+> may be so imported under such regulations as the Attorney General shall prescribe. No crude opium may be so imported for the purpose of manufacturing heroin or smoking opium.
 
 #### (b) Nonnarcotic controlled substances in schedule III, IV, or V
 

@@ -12,7 +12,7 @@ The Secretary shall establish a grassland reserve program (referred to in this s
 
 #### (2) Methods of enrollment
 
-&emsp;The Secretary shall enroll eligible land in the program through the use of;<sup>1</sup>
+&emsp;The Secretary shall enroll eligible land in the program through the use of; <sup>1</sup>
 
 &emsp;&emsp;(A) a 10-year, 15-year, or 20-year rental contract;
 

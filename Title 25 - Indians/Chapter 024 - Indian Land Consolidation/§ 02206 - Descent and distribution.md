@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;(iv) If the property does not pass under clause (i), (ii), or (iii), to those of the decedent's surviving siblings who are eligible heirs, in equal shares.
 
-&emsp;&emsp;&emsp;(v) If the property does not pass under clause (i), (ii), (iii), or (iv), to the Indian tribe with jurisdiction over the interests in trust or restricted lands;
+&emsp;&emsp;&emsp;(v) If the property does not pass under clause (i), (ii), (iii), or (iv), to the Indiantribe with jurisdiction over the interests in trust or restricted lands;
 
 > &emsp;&emsp;except that notwithstanding clause (v), an Indian co-owner (including the Indian tribe referred to in clause (v)) of a parcel of trust or restricted land may acquire an interest that would otherwise descend under that clause by paying into the estate of the decedent, before the close of the probate of the estate, the fair market value of the interest in the land; if more than 1 Indian co-owner offers to pay for such interest, the highest bidder shall acquire the interest.
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) the decedent died on or after the date described in subsection (b) of section 8 of the American Indian Probate <sup>2</sup> Act of 2004, or on or after the date on which a copy of the tribal rule was delivered to the Secretary pursuant to item (aa), whichever is later; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(ee) the Secretary does not make a determination within 90 days after a copy of the tribal rule is delivered pursuant to item (aa) that the rule would be unreasonably difficult to administeror does not conform with the requirements in item (bb) or (cc).
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) the Secretary does not make a determination within 90 days after a copy of the tribal rule is delivered pursuant to item (aa) that the rule would be unreasonably difficult to administer or does not conform with the requirements in item (bb) or (cc).
 
 #### (v) Effect of subparagraph
 
@@ -172,7 +172,7 @@
 
 #### (B) Rules of interpretation
 
-&emsp;&emsp;Any devise of a trust or restricted interest in land pursuant to subparagraph (A) to an Indian or the Indian tribe with jurisdiction over the interest shall be deemed to be a devise of the interest in trust or restricted status. Any devise of a trust or restricted interest in land to a person who is only eligible to be a devisee under clause (i) or (ii) of subparagraph (A) shall be presumed to be a devise of the interest in trust or restricted status unless language in such devise clearly evidences an intent on the part of the testator that the interest is to pass as a life estate or fee interest in accordance with paragraph (2)(A).
+&emsp;&emsp;Any devise of a trust or restricted interest in land pursuant to subparagraph (A) to anIndian or the Indian tribe with jurisdiction over the interest shall be deemed to be a devise of the interest in trust or restricted status. Any devise of a trust or restricted interest in land to a person who is only eligible to be a devisee under clause (i) or (ii) of subparagraph (A) shall be presumed to be a devise of the interest in trust or restricted status unless language in such devise clearly evidences an intent on the part of the testator that the interest is to pass as a life estate or fee interest in accordance with paragraph (2)(A).
 
 #### (2) Devise of trust or restricted land as a life estate or in fee
 
@@ -188,7 +188,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clauses (ii) and (iii), any interest”; <sup>5</sup> in trust or restricted land that issubject to section 464 of this title, may be devised only in accordance with—
+&emsp;&emsp;&emsp;Subject to clauses (ii) and (iii), any interest”; <sup>5</sup> in trust or restricted land that is subject to section 464 of this title, may be devised only in accordance with—
 
 &emsp;&emsp;&emsp;&emsp;(I) that section;
 
@@ -246,7 +246,7 @@
 
 #### (1) Presumption of joint tenancy
 
-&emsp;If a testator devises trust or restricted interests in the same parcel of land to more than 1 person, in the absence of clear and express language in the devise stating that the interest is to pass to the devisees as tenants in common, the devise shall be presumed to create a joint tenancy with the right of survivorship in the interests involved.
+&emsp;If a testator devises trust or restricted interests in the same parcel of land to more than 1 person, in the absence of clear and express language in the devise stating that the interest isto pass to the devisees as tenants in common, the devise shall be presumed to create a joint tenancy with the right of survivorship in the interests involved.
 
 #### (2) Exception
 
@@ -436,7 +436,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (4) Joint tenants, joint owners, and joint obligees
 
-&emsp;(A) Any trust or restricted land or trust personalty held by only the heir by killing andthe decedent as joint tenants, joint owners, or joint obligees shall pass upon the death of the decedent to his or her estate, as if the heir by killing had predeceased the decedent.
+&emsp;(A) Any trust or restricted land or trust personalty held by only the heir by killing and the decedent as joint tenants, joint owners, or joint obligees shall pass upon the death of the decedent to his or her estate, as if the heir by killing had predeceased the decedent.
 
 &emsp;(B) As to trust or restricted land or trust personalty held jointly by 3 or more persons, including both the heir by killing and the decedent, any income which would have accrued to the heir by killing as a result of the death of the decedent shall pass to the estate of the decedent as if the heir by killing had predeceased the decedent and any surviving joint tenants.
 
@@ -488,7 +488,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 &emsp;&emsp;&emsp;&emsp;(bb) the testator devised the interests in trust or restricted land of the testator to 1 or more Indians;
 
-&emsp;&emsp;&emsp;&emsp;(III) it appears, based on an examination of the will or other evidence, that the will was made in contemplation of the marriage of the testator to the surviving spouse;
+&emsp;&emsp;&emsp;&emsp;(III) it appears, based on an examination of the will or other evidence, thatthe will was made in contemplation of the marriage of the testator to the surviving spouse;
 
 &emsp;&emsp;&emsp;&emsp;(IV) the will expresses the intention that the will is to be effective notwithstanding any subsequent marriage; or
 
@@ -506,7 +506,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 &emsp;&emsp;&emsp;&emsp;(III) the surviving spouse has made substantial payments toward the purchase of, or improvements to, the trust or restricted land in such estate; or
 
-&emsp;&emsp;&emsp;&emsp;(IV) the surviving spouse is under a binding obligation to continue makingloan payments for the trust or restricted land for a substantial period of time;
+&emsp;&emsp;&emsp;&emsp;(IV) the surviving spouse is under a binding obligation to continue making loan payments for the trust or restricted land for a substantial period of time;
 
 &emsp;&emsp;&nbsp;except that, if there is evidence that the testator adequately provided for the surviving spouse and any minor children by a transfer of funds or property outside of the will, this clause shall not apply.
 
@@ -562,7 +562,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (4) After-born heirs
 
-&emsp;A child in gestation at the time of decedent's death will be treated as having survived the decedent if the child lives at least 120 hours after its birth.
+&emsp;A child in gestation at the time of decedent's death will be treated as having survivedthe decedent if the child lives at least 120 hours after its birth.
 
 #### (5) Advancements of trust personalty during lifetime; effect on distribution of estate
 
@@ -626,7 +626,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (A) In general
 
-&emsp;&emsp;During the pendency of probate, the decisionmaker is authorized to approve written consolidation agreements effecting exchanges or gifts voluntarily entered into between the decedent's eligible heirs or devisees, to consolidate interests in any tract of land included in the decedent's trust inventory. Such agreements may provide for the conveyance of interests already owned by such heirs or devisees in such tracts, without having to comply with the Secretary's rules and requirements otherwise applicable to conveyances by deed of trust or restricted interests in land.
+&emsp;&emsp;During the pendency of probate, the decisionmaker is authorized to approve written consolidation agreements effecting exchanges or gifts voluntarily entered into between the decedent's eligible heirs or devisees, to consolidate interests in any tract of land included in the decedent's trust inventory. Such agreements may provide for the conveyance of interests already owned by such heirs or devisees in such tracts, without having to comply with the Secretary'srules and requirements otherwise applicable to conveyances by deed of trust or restricted interests in land.
 
 #### (B) Effective
 
@@ -872,7 +872,7 @@ Subsec. (g). Pub. L. 109–157, §4(a)(1), redesignated subsec. (h) as (g).
 
 Subsec. (g)(2). Pub. L. 109–157, §4(a)(2)(A)(i), inserted “specifically” after “pertains” in introductory provisions.
 
-Subsec. (g)(2)(B). Pub. L. 109–157, §4(a)(2)(A)(ii), added subpar. (B) and struck out former subpar. (B) whichread as follows: “the allotted lands of 1 or more specific Indian tribes that are expressly identified in such law.”
+Subsec. (g)(2)(B). Pub. L. 109–157, §4(a)(2)(A)(ii), added subpar. (B) and struck out former subpar. (B) which read as follows: “the allotted lands of 1 or more specific Indian tribes that are expressly identified in such law.”
 
 Subsec. (g)(3). Pub. L. 109–157, §4(a)(2)(B), added par. (3).
 
@@ -944,7 +944,7 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–374 applicable on and after the date that is 1 year after June 20, 2005, except that subsecs. (e) and (f) of this section (as amended by Pub. L. 108–374), subsec. (g) of this section (as in effect on Mar. 1, 2006), and amendment by section 6(a)(4) of Pub. L. 108–374 are applicable as of Oct. 27, 2004, see section 8(b) of Pub. L. 108–374, as amended, set out as a Notice; Effective Date of 2004 Amendment note under section 2201 of this title.
+Amendment by Pub. L. 108–374 applicable on and after the date that is 1 year after June 20, 2005, except that subsecs. (e) and (f) of this section (as amended by Pub. L. 108–374), subsec. (g) of this section (as in effect on Mar. 1, 2006), and amendment by section 6(a)(4) of Pub. L. 108–374 are applicable as of Oct. 27, 2004, see section 8(b) of Pub. L. 108–374, set out as a Notice; Effective Date of 2004 Amendment note under section 2201 of this title.
 
 #### Judicial Review
 

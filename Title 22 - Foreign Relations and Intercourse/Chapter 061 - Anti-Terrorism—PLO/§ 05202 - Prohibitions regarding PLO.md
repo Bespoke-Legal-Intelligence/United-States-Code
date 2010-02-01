@@ -12,5 +12,5 @@ It shall be unlawful, if the purpose be to further the interests of the Palestin
 
 #### References in Text
 
-For the effective date of this chapter, referred to in text, as being 90 days after Dec. 22, 1987, see section 1005 of Pub. L. 100–204, set out as an Effective Date note under section 5201 of this title.
+For the effective date of this chapter, referred to in text, as being 90 days after Dec. 22, 1987, see section 1005of Pub. L. 100–204, set out as an Effective Date note under section 5201 of this title.
 

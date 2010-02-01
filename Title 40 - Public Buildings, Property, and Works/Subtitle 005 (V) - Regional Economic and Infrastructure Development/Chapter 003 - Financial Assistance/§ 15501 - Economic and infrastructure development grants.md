@@ -26,7 +26,7 @@ Allocation of Funds.—A Commission shall allocate at least 40 percent of any gr
 
 (c)
 
-Sources of Grants.—Grant amounts may be provided entirely from appropriations to carry out this subtitle, in combination with amounts available under other Federal grant programs, or from any other source.
+Sources of Grants.—Grant amounts may be provided entirely from appropriations tocarry out this subtitle, in combination with amounts available under other Federal grant programs, or from any other source.
 
 (d)
 

@@ -130,7 +130,7 @@ At the end of each year for which an assessment under this section is made, the 
 
 #### (2) Report
 
-&emsp;The Comptroller General shall submit to the Congress a report of each annual audit conducted under this subsection. The report to the Congress shall set forth the scope of the audit and shall include the statement of assets and liabilities and surplus or deficit, the statement of income and expenses, the statement of sources and application of funds, and such comments and information as may be deemed necessary to inform Congress of the financialoperations and condition of the Agency, together with such recommendations with respect thereto as the Comptroller General may deem advisable. A copy of each report shall be furnished to the President and to the Agency at the time submitted to the Congress.
+&emsp;The Comptroller General shall submit to the Congress a report of each annual audit conducted under this subsection. The report to the Congress shall set forth the scope of the audit and shall include the statement of assets and liabilities and surplus or deficit, the statement of income and expenses, the statement of sources and application of funds, and such comments and information as may be deemed necessary to inform Congress of the financial operations and condition of the Agency, together with such recommendations with respect thereto as the Comptroller General may deem advisable. A copy of each report shall be furnished to the President and to the Agency at the time submitted to the Congress.
 
 #### (3) Assistance and costs
 
@@ -152,7 +152,7 @@ The effective date of the Federal Housing Finance Regulatory Reform Act of 2008,
 
 Subsec. (b)(2) to (4). Pub. L. 110–289, §1106(2), realigned margins, added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (c). Pub. L. 110–289, §1106(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The semiannual payments made pursuant to subsection (b) of this section by any enterprise that is not classified (for purposes of subchapter II of this chapter) as adequately capitalized may be increased, as necessary, in the discretion of the Director to pay additional estimated costs of regulation of the enterprise.”
+Subsec. (c). Pub. L. 110–289, §1106(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The semiannual payments made pursuant to subsection (b) of this section by any enterprise that is not classified (for purposes of subchapterII of this chapter) as adequately capitalized may be increased, as necessary, in the discretion of the Director to pay additional estimated costs of regulation of the enterprise.”
 
 Subsec. (d). Pub. L. 110–289, §1106(4), substituted “Except with respect to amounts collected pursuant to subsection (a)(3), if” for “If”.
 

@@ -48,7 +48,7 @@ Subsec. (c). Pub. L. 100–418 amended subsec. (c) generally. Prior to amendment
 
 “(2) Any officer or director of an issuer, or any stockholder acting on behalf of such issuer, who willfully violates section 78dd–1(a) of this title shall, upon conviction, be fined not more than $10,000, or imprisoned not more than five years, or both.
 
-“(3) Whenever an issuer is found to have violated section 78dd–1(a) of this title, any employee or agent of such issuer who is a United States citizen, national, or resident or is otherwise subject to the jurisdiction of the United States (other than an officer, director, orstockholder of such issuer), and who willfully carried out the act or practice constituting such violation shall, upon conviction, be fined not more than $10,000, or imprisoned not more than five years, or both.
+“(3) Whenever an issuer is found to have violated section 78dd–1(a) of this title, any employee or agent of such issuer who is a United States citizen, national, or resident or is otherwise subject to the jurisdiction of the United States (other than an officer, director, or stockholder of such issuer), and who willfully carried out the act or practice constituting such violation shall, upon conviction, be fined not more than $10,000, or imprisoned not more than five years, or both.
 
 “(4) Whenever a fine is imposed under paragraph (2) or (3) of this subsection upon any officer, director, stockholder, employee, or agent of an issuer, such fine shall not be paid, directly or indirectly, by such issuer.”
 

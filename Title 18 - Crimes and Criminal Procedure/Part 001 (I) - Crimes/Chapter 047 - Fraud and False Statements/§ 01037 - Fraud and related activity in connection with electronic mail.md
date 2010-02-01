@@ -76,7 +76,7 @@ Multiple.—The term “multiple” means more than 100 electronic mail messages
 
 &emsp;(4)
 
-Other terms.—Any other term has the meaning given that term by section 3 of the CAN-SPAM Act of 2003.”.
+Other terms.—Any other term has the meaning given that term by section 3 of the CAN-SPAM Act of 2003.
 
 (Added Pub. L. 108–187, §4(a)(1), Dec. 16, 2003, 117 Stat. 2703.)
 

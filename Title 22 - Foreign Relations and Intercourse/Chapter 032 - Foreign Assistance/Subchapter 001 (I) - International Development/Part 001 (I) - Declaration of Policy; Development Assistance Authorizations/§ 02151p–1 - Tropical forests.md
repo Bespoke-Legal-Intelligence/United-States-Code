@@ -46,7 +46,7 @@ In providing assistance to developing countries, the President shall do the foll
 
 &emsp;(8) To the fullest extent feasible, support training, research, and other actions which lead to sustainable and more environmentally sound practices for timber harvesting, removal, and processing, including reforestation, soil conservation, and other activities to rehabilitate degraded forest lands.
 
-&emsp;(9) To the fullest extent feasible, support research to expand knowledge of tropical forests and identify alternatives which will prevent forest destruction, loss, or degradation, including research in agroforestry, sustainable management of natural forests, small-scale farms and gardens, small-scale animal husbandry, wider application of adopted traditional practices, and suitable crops and crop combinations.
+&emsp;(9) To the fullest extent feasible, support research to expand knowledge of tropical forests and identify alternatives which will preventforest destruction, loss, or degradation, including research in agroforestry, sustainable management of natural forests, small-scale farms and gardens, small-scale animal husbandry, wider application of adopted traditional practices, and suitable crops and crop combinations.
 
 &emsp;(10) To the fullest extent feasible, conserve biological diversity in forest areas by—
 

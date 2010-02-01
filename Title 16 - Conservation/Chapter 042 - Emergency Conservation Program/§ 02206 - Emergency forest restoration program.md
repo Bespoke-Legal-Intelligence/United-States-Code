@@ -62,5 +62,5 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Pub. L. 110–234, title VIII, §8203(b), May 22, 2008, 122 Stat. 1291, and Pub. L. 110–246, §4(a), title VIII, §8203(b), June 18, 2008, 122 Stat. 1664, 2052, provided that: “Not later than one year after the date of the enactment of this Act \[June 18, 2008\], the Secretary of Agriculture shall issue regulations to carry out section 407 of the Agricultural Credit Act of 1978 \[16 U.S.C. 2206\], as added by subsection (a).”
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 

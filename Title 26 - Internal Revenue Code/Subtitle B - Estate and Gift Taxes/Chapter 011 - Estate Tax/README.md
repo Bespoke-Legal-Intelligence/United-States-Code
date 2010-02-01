@@ -1,11 +1,6 @@
 ### <b>CHAPTER 11—ESTATE TAX</b>
 
-| Subchapter | Sec.<sup>1</sup> |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Subchapter |  | Sec.<sup>1</sup> |
 | :--- | :---: | ---: |
 | <b>A.</b> | <b>Estates of citizens or residents</b> | <b>2001</b> |
 | <b>B.</b> | <b>Estates of nonresidents not citizens</b> | <b>2101</b> |

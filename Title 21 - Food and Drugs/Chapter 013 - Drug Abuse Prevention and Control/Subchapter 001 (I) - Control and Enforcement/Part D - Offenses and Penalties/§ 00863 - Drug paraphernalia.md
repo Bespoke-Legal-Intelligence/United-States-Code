@@ -80,7 +80,7 @@ This section shall not apply to—
 
 &emsp;(2) any item that, in the normal lawful course of business, is imported, exported, transported, or sold through the mail or by any other means, and traditionally intended for use with tobacco products, including any pipe, paper, or accessory.
 
-(Pub. L. 91–513, title II, §422, as added and amended Pub. L. 101–647, title XXIV, §2401(a)–(c),Nov. 29, 1990, 104 Stat. 4858, 4859; Pub. L. 106–310, div. B, title XXXVI, §3614, Oct. 17, 2000, 114 Stat. 1230.)
+(Pub. L. 91–513, title II, §422, as added and amended Pub. L. 101–647, title XXIV, §2401(a)–(c), Nov. 29, 1990, 104 Stat. 4858, 4859; Pub. L. 106–310, div. B, title XXXVI, §3614, Oct. 17, 2000, 114 Stat. 1230.)
 
 #### Codification
 

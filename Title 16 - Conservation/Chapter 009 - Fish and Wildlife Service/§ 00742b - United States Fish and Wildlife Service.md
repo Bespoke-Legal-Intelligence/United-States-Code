@@ -2,7 +2,7 @@
 
 #### (a) Assistant Secretary for Fish and Wildlife
 
-There is established within the Department of the Interior the position of Assistant Secretaryfor Fish and Wildlife. Such Assistant Secretary shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the same rate as other Assistant Secretaries.
+There is established within the Department of the Interior the position of Assistant Secretary for Fish and Wildlife. Such Assistant Secretary shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the same rate as other Assistant Secretaries.
 
 #### (b) Establishment; Director of United States Fish and Wildlife Service; appointment; qualifications
 
@@ -52,5 +52,5 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior in
 
 #### Fees for Training by National Conservation Training Center
 
-Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–185, as amended by Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1547, provided in part: “That hereafter, pursuant to 31 U.S.C. 9701, the Secretary shall charge reasonable fees for the full costs of providing training by the National Conservation Training Center, to be credited to this account, notwithstanding 31 U.S.C. 3302, for the full costs of providing such training, to remain available until expended.”
+Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–185, as amended by Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1547, provided in part: “That hereafter, pursuant to 31 U.S.C. 9701, theSecretary shall charge reasonable fees for the full costs of providing training by the National Conservation Training Center, to be credited to this account, notwithstanding 31 U.S.C. 3302, for the full costs of providing such training, to remain available until expended.”
 

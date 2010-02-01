@@ -38,7 +38,7 @@ This chapter, referred to in subsecs. (a) to (c), was in the original “this Ac
 
 1992—Subsec. (b). Pub. L. 102–565 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated to carry out the purposes of this chapter $130,000,000 for the fiscal year 1986 and $137,200,000 for the fiscal year 1987.”
 
-1986—Subsec. (b). Pub. L. 99–399 in amending subsec. (b) generally, substituted provision authorizing appropriations of $130,000,000 for fiscal year 1986 and $137,200,000 for fiscal year 1987 for provision authorizingappropriations of $130,000,000 for fiscal years 1986 and 1987, providing that unobligated balances continue to be made available for the general purposes for which appropriated, and prohibiting the use of funds to carry out this chapter for the Volunteers to America Program or any similar program involving the service or training of foreign nationals in the United States.
+1986—Subsec. (b). Pub. L. 99–399 in amending subsec. (b) generally, substituted provision authorizing appropriations of $130,000,000 for fiscal year 1986 and $137,200,000 for fiscal year 1987 for provision authorizing appropriations of $130,000,000 for fiscal years 1986 and 1987, providing that unobligated balances continue to be made available for the general purposes for which appropriated, and prohibiting the use of funds to carry out this chapter for the Volunteers to America Program or any similar program involving the service or training of foreign nationals in the United States.
 
 1985—Subsec. (b). Pub. L. 99–83 substituted provisions authorizing appropriations of $130,000,000 for fiscal years 1986 and 1987 for provisions authorizing appropriations of not to exceed $105,000,000 for fiscal years 1982 and 1983, and struck out provisos limiting use of funds in fiscal year 1967, and limiting contracts and agreements for research.
 
@@ -66,7 +66,7 @@ Subsec. (c). Pub. L. 96–53, §301(2), substituted “1980” for “1978, $1,0
 
 1978—Subsec. (b). Pub. L. 95–331, §3(1), substituted provisions authorizing to be appropriated for fiscal year 1978 not to exceed $86,544,000 and for fiscal year 1979 not to exceed $112,424,000 and limitation with respect to volunteer program, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $82,900,000.
 
-Subsec. (c). Pub. L. 95–331, §3(2), inserted provisions increasing 1978 appropriation from $1,000,000 to $1,069,000, and provisions authorizing to be appropriated such sums as necessary for fiscal year 1979.
+Subsec. (c). Pub. L. 95–331, §3(2), inserted provisions increasing 1978 appropriation from $1,000,000 to$1,069,000, and provisions authorizing to be appropriated such sums as necessary for fiscal year 1979.
 
 Subsec. (g). Pub. L. 95–331, §3(3), added subsec. (g).
 

@@ -1,6 +1,6 @@
 ### §1395j. Establishment of supplementary medical insurance program for aged and disabled
 
-There is hereby established a voluntary insurance program to provide medical insurance benefits in accordance with the provisions of thispart for aged and disabled individuals who elect to enroll under such program, to be financed from premium payments by enrollees together with contributions from funds appropriated by the Federal Government.
+There is hereby established a voluntary insurance program to provide medical insurance benefits in accordance with the provisions of this part for aged and disabled individuals who elect to enroll under such program, to be financed from premium payments by enrollees together with contributions from funds appropriated by the Federal Government.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1831, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 301; amended Pub. L. 92–603, title II, §201(a)(3), Oct. 30, 1972, 86 Stat. 1371.)
 
@@ -14,5 +14,5 @@ Pub. L. 94–182, title I, §109, Dec. 31, 1975, 89 Stat. 1053, provided that th
 
 #### Study To Determine Feasibility of Inclusion of Certain Additional Services Under Part B
 
-Pub. L. 90–248, title I, §141, Jan. 2, 1968, 81 Stat. 855, directed Secretary to conduct a study relating to inclusion under the supplementary medical insurance program under this part of services of additional types of licensed practitioners performing health services in independent practice and submit such study to Congress prior to Jan. 1, 1969.
+Pub. L. 90–248, title I, §141, Jan. 2, 1968, 81 Stat. 855, directed Secretary to conduct a study relating to inclusion under the supplementary medical insurance program under this part of services of additional types of licensed practitioners performing health services inindependent practice and submit such study to Congress prior to Jan. 1, 1969.
 

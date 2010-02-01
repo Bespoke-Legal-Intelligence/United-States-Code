@@ -20,7 +20,7 @@ A term of imprisonment imposed under this section shall be consecutive to any ot
 
 #### Amendments
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–120, §304(b)(2)(A), substituted “shall be fined under title 18” for “shall be fined not more than $50,000”.
+1999—Subsec. (a). Pub. L. 106–120, §304(b)(2)(A), substituted “shall be fined under title 18” for “shall be fined not more than $50,000”.
 
 Subsec. (b). Pub. L. 106–120, §304(b)(2)(B), substituted “shall be fined under title 18” for “shall be fined not more than $25,000”.
 

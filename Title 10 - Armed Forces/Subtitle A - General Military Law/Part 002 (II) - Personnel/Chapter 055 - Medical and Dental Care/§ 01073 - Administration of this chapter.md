@@ -2,7 +2,7 @@
 
 (a)
 
-Responsible Officials.—Except as otherwise provided in this chapter, the Secretary of Defense shall administer this chapter, for the armed forces under his jurisdiction, the Secretary of Homeland Security shall administer this chapter for the Coast Guard when the Coast Guard is not operating as a service in the Navy, and the Secretary of Health and Human Services shall administer this chapter and for the National Oceanic and Atmospheric Administration and the Public Health Service. This chapter shall be administered consistent with the Assisted Suicide Funding Restriction Act of 1997 (42 U.S.C. 14401 et seq.).
+Responsible Officials.—Except as otherwise provided in this chapter, the Secretary of Defense shall administer this chapter for the armed forces under his jurisdiction, the Secretary of Homeland Security shall administer this chapter for the Coast Guard when the Coast Guard is not operating as a service in the Navy, and the Secretary of Health and Human Services shall administer this chapter for the National Oceanic and Atmospheric Administration and the Public Health Service. This chapter shall be administered consistent with the Assisted Suicide Funding Restriction Act of 1997 (42 U.S.C. 14401 et seq.).
 
 (b)
 
@@ -72,6 +72,46 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
 
+#### Cooperative Health Care Agreements Between Military Installations and Non-Military Health Care Systems
+
+Pub. L. 111–84, div. A, title VII, §713, Oct. 28, 2009, 123 Stat. 2380, provided that:
+
+“(a)
+
+Authority.—The Secretary of Defense may establish cooperative health care agreements between military installations and local or regional health care systems.
+
+“(b)
+
+Requirements.—In establishing an agreement under subsection (a), the Secretary shall—
+
+&emsp;“(1) consult with—
+
+&emsp;&emsp;“(A) the Secretary of the military department concerned;
+
+&emsp;&emsp;“(B) representatives from the military installation selected for the agreement, including the TRICARE managed care support contractor with responsibility for such installation; and
+
+&emsp;&emsp;“(C) Federal, State, and local government officials;
+
+&emsp;“(2) identify and analyze health care services available in the area in which the military installation is located, including such services available at a military medical treatment facility or in the private sector (or a combination thereof);
+
+&emsp;“(3) determine the cost avoidance or savings resulting from innovative partnerships between the Department of Defense and the private sector; and
+
+&emsp;“(4) determine the opportunities for and barriers to coordinating and leveraging the use of existing health care resources, including such resources of Federal, State, local, and private entities.
+
+“(c)
+
+Annual Reports.—Not later than December 31 of each year an agreement entered into under this section is in effect, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on each such agreement. Each report shall include, at a minimum, the following:
+
+&emsp;“(1) A description of the agreement.
+
+&emsp;“(2) Any cost avoidance, savings, or increases as a result of the agreement.
+
+&emsp;“(3) A recommendation for continuing or ending the agreement.
+
+“(d)
+
+Rule of Construction.—Nothing in this section shall be construed as authorizing the provision of health care services at military medical treatment facilities or other facilities of the Department of Defense to individuals who are not otherwise entitled or eligible for such services under chapter 55 of title 10, United States Code.”
+
 #### Inpatient Mental Health Service
 
 Pub. L. 110–329, div. C, title VIII, §8095, Sept. 30, 2008, 122 Stat. 3642, provided that: “None of the funds appropriated by this Act \[div. C of Pub. L. 110–329, see Tables for classification\], and hereafter, available for the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) or TRICARE shall be available for the reimbursement of any health care provider for inpatient mental health service for care received when a patient is referred to a provider of inpatient mental health care or residential treatment care by a medical or health care professional having an economic interest in the facility to which the patient is referred: <i>Provided,</i> That this limitation does not apply in the case of inpatient mental health services provided under the program for persons with disabilities under subsection (d) of section 1079 of title 10, United States Code, provided as partial hospital care, or provided pursuant to a waiver authorized by the Secretary of Defense because of medical or psychological circumstances of the patient that are confirmed by a health professional who is not a Federal employee after a review, pursuant to rules prescribed by the Secretary, which takes into account the appropriate level of care for the patient, the intensity of services required by the patient, and the availability of that care.”
@@ -132,7 +172,7 @@ Information from providers.—The surveys required by paragraph (1) shall includ
 
 &emsp;“(6)
 
-Information from beneficiaries.—The surveys required by paragraph (1) shall include questions seeking information to determine from TRICARE beneficiaries whether they have difficulties in findinghealth care and mental health care providers willing to provide services under TRICARE Standard or TRICARE Extra.
+Information from beneficiaries.—The surveys required by paragraph (1) shall include questions seeking information to determine from TRICARE beneficiaries whether they have difficulties in finding health care and mental health care providers willing to provide services under TRICARE Standard or TRICARE Extra.
 
 “(b) GAO
 
@@ -144,7 +184,7 @@ Ongoing review.—The Comptroller General shall, on an ongoing basis, review—
 
 &emsp;&emsp;“(A) the processes, procedures, and analysis used by the Department of Defense to determine the adequacy of the number of health care and mental health care providers—
 
-&emsp;&emsp;&emsp;“(i) that currently accept TRICARE Standard or TRICARE Extra beneficiaries as patients under TRICARE Standard in each TRICARE area as of the date of completion of the review; and
+&emsp;&emsp;&emsp;“(i) that currently accept TRICARE Standard or TRICARE Extra beneficiaries as patients underTRICARE Standard in each TRICARE area as of the date of completion of the review; and
 
 &emsp;&emsp;&emsp;“(ii) that would accept TRICARE Standard or TRICARE Extra beneficiaries as new patients under TRICARE Standard or TRICARE Extra, as applicable, within a reasonable time after the date of completion of the review; and
 
@@ -358,7 +398,7 @@ Pub. L. 109–163, div. A, title VII, §716, Jan. 6, 2006, 119 Stat. 3345, provi
 
 “(a)
 
-Responsibilities of TRICARE Regional Office.—The responsibilities of each TRICARE RegionalOffice shall include the monitoring, oversight, and improvement of the TRICARE Standard option in the TRICARE region concerned, including—
+Responsibilities of TRICARE Regional Office.—The responsibilities of each TRICARE Regional Office shall include the monitoring, oversight, and improvement of the TRICARE Standard option in the TRICARE region concerned, including—
 
 &emsp;“(1) identifying health care providers who will participate in the TRICARE program and provide the TRICARE Standard option under that program;
 
@@ -596,7 +636,7 @@ Pub. L. 105–261, div. A, title VII, §703, Oct. 17, 1998, 112 Stat. 2057, prov
 
 “(a)
 
-Plan Required.—The Secretary of Defense shall submit to Congress a plan that would provide for a system-wide redesign of the military and contractor retail and mail-order pharmacy system of the Department of Defense by incorporating ‘best business practices’ of the private sector. The Secretary shall work with contractors of TRICARE retail pharmacy and national mail-order pharmacy programs to develop a plan for the redesign of the pharmacy system that—
+Plan Required.—The Secretary of Defense shall submit to Congress a plan that would provide for a system-wide redesign of the military and contractor retailand mail-order pharmacy system of the Department of Defense by incorporating ‘best business practices’ of the private sector. The Secretary shall work with contractors of TRICARE retail pharmacy and national mail-order pharmacy programs to develop a plan for the redesign of the pharmacy system that—
 
 &emsp;“(1) may include a plan for an incentive-based formulary for military medical treatment facilities and contractors of TRICARE retail pharmacies and the national mail-order pharmacy; and
 
@@ -792,7 +832,7 @@ Pub. L. 104–201, div. A, title VII, subtitle C, Sept. 23, 1996, 110 Stat. 2592
 
 &emsp;“(6) The term ‘enrollee’ means a covered beneficiary who enrolls with a designated provider.
 
-&emsp;“(7) The term ‘health care services’ means the health care services provided under the health planknown as the ‘TRICARE PRIME’ option under the TRICARE program.
+&emsp;“(7) The term ‘health care services’ means the health care services provided under the health plan known as the ‘TRICARE PRIME’ option under the TRICARE program.
 
 &emsp;“(8) The term ‘Secretary’ means the Secretary of Defense.
 
@@ -882,7 +922,7 @@ Additional Enrollment Authority.—(1) Subject to paragraph (2), other covered b
 
 “(2)(A) The designated provider may market such services to, and enroll, covered beneficiaries who—
 
-&emsp;“(i) do not have other primary health insurance coverage (other than Medicare coverage) coveringbasic primary care and inpatient and outpatient services;
+&emsp;“(i) do not have other primary health insurance coverage (other than Medicare coverage) covering basic primary care and inpatient and outpatient services;
 
 &emsp;“(ii) subject to the limitation in subparagraph (B), have other primary health insurance coverage (other than Medicare coverage) covering basic primary care and inpatient and outpatient services; or
 
@@ -968,7 +1008,7 @@ Pub. L. 104–106, div. A, title VII, §711, Feb. 10, 1996, 110 Stat. 374, provi
 
 #### Training in Health Care Management and Administration for TRICARE Lead Agents
 
-Pub. L. 104–106, div. A, title VII, §715, Feb. 10, 1996, 110 Stat. 375, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VII, §760(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–200, provided that:
+Pub. L. 104–106, div. A, title VII, §715, Feb. 10, 1996, 110 Stat. 375, as amended by Pub. L. 106–398, §1 \[\[div. A\],title VII, §760(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–200, provided that:
 
 “(a)
 
@@ -1050,11 +1090,11 @@ Pub. L. 103–160, div. A, title VII, §731, Nov. 30, 1993, 107 Stat. 1696, as a
 
 “(a)
 
-Use of Model.—The Secretary of Defense shall prescribe and implement a health benefit option (and accompanying cost-sharing requirements) for coveredbeneficiaries eligible for health care under chapter 55 of title 10, United States Code, that is modelled on health maintenance organization plans offered in the private sector and other similar Government health insurance programs. The Secretary shall include, to the maximum extent practicable, the health benefit option required under this subsection as one of the options available to covered beneficiaries in all managed health care initiatives undertaken by the Secretary after December 31, 1994.
+Use of Model.—The Secretary of Defense shall prescribe and implement a health benefit option (and accompanying cost-sharing requirements) for covered beneficiaries eligible for health care under chapter 55 of title 10, United States Code, that is modelled on health maintenance organization plans offered in the private sector and other similar Government health insurance programs. The Secretary shall include, to the maximum extent practicable, the health benefit option required under this subsection as one of the options available to covered beneficiaries in all managed health care initiatives undertaken by the Secretary after December 31, 1994.
 
 “(b)
 
-Elements of Option.—The Secretary shall offer covered beneficiaries who enroll in the health benefit option required under subsection (a) reduced out-of-pocket costs and a benefit structure that is as uniform as possible throughout the United States. The Secretary shall allow enrollees to seek health care outside of the option, except that the Secretary may prescribe higher out-of-pocket costs than are provided under section 1079 or 1086 of title 10, United States Code, for enrollees who obtain health care outside of the option.
+Elements of Option.—The Secretary shall offer covered beneficiaries who enroll in the health benefit option required under subsection (a) reduced out-of-pocket costs and a benefit structure that is as uniformas possible throughout the United States. The Secretary shall allow enrollees to seek health care outside of the option, except that the Secretary may prescribe higher out-of-pocket costs than are provided under section 1079 or 1086 of title 10, United States Code, for enrollees who obtain health care outside of the option.
 
 “(c)
 
@@ -1182,7 +1222,7 @@ Treatment of Limitation on Funds for Program.—No provision of law stated as a 
 
 #### Extension of CHAMPUS Reform Initiative for Certain States
 
-Pub. L. 102–172, title VIII, §8032, Nov. 26, 1991, 105 Stat. 1178, provided: “That notwithstanding any other provision of law, the CHAMPUS Reform Initiative contract for California and Hawaii shall be extended until February 1, 1994, within the limits and rates specified in the contract: <i>Provided further</i>, That the Department shall competitively award contracts for the geographic expansion of the CHAMPUS Reform Initiative in Florida (which may include Department of Veterans Affairs medical facilities with the concurrence of the Secretary of Veterans Affairs), Washington, Oregon, and the Tidewater region of Virginia: <i>Provided further</i>, Thatcompetitive expansion of the CHAMPUS Reform Initiative may occur in any other regions that the Assistant Secretary of Defense for Health Affairs deems appropriate.”
+Pub. L. 102–172, title VIII, §8032, Nov. 26, 1991, 105 Stat. 1178, provided: “That notwithstanding any other provision of law, the CHAMPUS Reform Initiative contract for California and Hawaii shall be extended until February 1, 1994, within the limits and rates specified in the contract: <i>Provided further</i>, That the Department shall competitively award contracts for the geographic expansion of the CHAMPUS Reform Initiative in Florida (which may include Department of Veterans Affairs medical facilities with the concurrence of the Secretary of Veterans Affairs), Washington, Oregon, and the Tidewater region of Virginia: <i>Provided further</i>, That competitive expansion of the CHAMPUS Reform Initiative may occur in any other regions that the Assistant Secretary of Defense for Health Affairs deems appropriate.”
 
 #### Conditions on Expansion of CHAMPUS Reform Initiative
 

@@ -96,7 +96,7 @@ Pub. L. 109–7, §1(c)(1), Apr. 15, 2005, 119 Stat. 22, provided that: “The a
 
 #### Effective Date
 
-Pub. L. 107–134, title I, §111(c), Jan. 23, 2002, 115 Stat. 2433, provided that: “The amendments made by thissection \[enacting this section and renumbering former section 139 as section 140 of this title\] shall apply to taxable years ending on or after September 11, 2001.”
+Pub. L. 107–134, title I, §111(c), Jan. 23, 2002, 115 Stat. 2433, provided that: “The amendments made by this section \[enacting this section and renumbering former section 139 as section 140 of this title\] shall apply to taxable years ending on or after September 11, 2001.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “a”.</i>
 

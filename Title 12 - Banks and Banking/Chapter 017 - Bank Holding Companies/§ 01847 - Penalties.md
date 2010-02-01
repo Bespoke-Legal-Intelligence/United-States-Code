@@ -36,7 +36,7 @@
 
 #### (c) Notice under this section after separation from service
 
-The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to a bank holding company (including a separation caused by the deregistration of such a company) shall not affect the jurisdiction and authority of the Board to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such holding company (whether such date occurs before, on, or after August 9, 1989).
+The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to a bank holding company (including a separation caused bythe deregistration of such a company) shall not affect the jurisdiction and authority of the Board to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such holding company (whether such date occurs before, on, or after August 9, 1989).
 
 #### (d) Penalty for failure to make reports
 
@@ -44,7 +44,7 @@ The resignation, termination of employment or participation, or separation of an
 
 &emsp;Any company which—
 
-&emsp;&emsp;(A) maintains procedures reasonably adapted to avoid any inadvertent error and,unintentionally and as a result of such an error—
+&emsp;&emsp;(A) maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such an error—
 
 &emsp;&emsp;&emsp;(i) fails to make, submit, or publish such reports or information as may be required under this chapter or under regulations prescribed by the Board pursuant to this chapter, within the period of time specified by the Board; or
 
@@ -106,7 +106,7 @@ Subsec. (d). Pub. L. 101–73, §911(e), added subsec. (d).
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 907(j) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 mayapply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(<i>l</i>) of Pub. L. 101–73, set out as a note under section 93 of this title.
+Amendment by section 907(j) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(<i>l</i>) of Pub. L. 101–73, set out as a note under section 93 of this title.
 
 Amendment by section 911(e) of Pub. L. 101–73 applicable with respect to reports filed or required to be filed after Aug. 9, 1989, see section 911(i) of Pub. L. 101–73, set out as a note under section 161 of this title.
 

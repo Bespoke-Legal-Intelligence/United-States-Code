@@ -50,7 +50,7 @@ To carry out the purposes of sections 7103(e), 7103(f) and 7107 of this title, t
 
 #### (B) Assistance to foreign countries
 
-&emsp;To carry out the purposes of section 2152d of this title, there are authorized to be appropriated to the President, acting through the Attorney General and the Secretary of State, $250,000 for each of fiscal years 2008 through 2011 to carry out training activities for law enforcement officers, prosecutors, and membersof the judiciary with respect to trafficking in persons at the International Law Enforcement Academies.
+&emsp;To carry out the purposes of section 2152d of this title, there are authorized to be appropriated to the President, acting through the Attorney General and the Secretary of State, $250,000 for each of fiscal years 2008 through 2011 to carry out training activities for law enforcement officers, prosecutors, and members of the judiciary with respect to trafficking in persons at the International Law Enforcement Academies.
 
 #### (C) Additional benefits for trafficking victims
 

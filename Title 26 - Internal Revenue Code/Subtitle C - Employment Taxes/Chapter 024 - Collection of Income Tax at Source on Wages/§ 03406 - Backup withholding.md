@@ -114,7 +114,7 @@ For purposes of this section—
 
 &emsp;For purposes of this section, there has been payee underreporting if for any taxable year the Secretary determines that—
 
-&emsp;&emsp;(A) the payee failed to include in his return of tax under chapter 1 for such year any portion of a reportable interest or dividend payment required to be shown on such return, or
+&emsp;&emsp;(A) the payee failed to include in his return of tax under chapter 1 for such year anyportion of a reportable interest or dividend payment required to be shown on such return, or
 
 &emsp;&emsp;(B) the payee may be required to file a return for such year and to include a reportable interest or dividend payment in such return, but failed to file such return.
 
@@ -296,7 +296,7 @@ For purposes of this section—
 
 #### (B) Special rule for readily tradable instruments acquired through broker where notification
 
-&emsp;&emsp;In the case of any readily tradable instrument acquired by the payee through a broker, the period described in subparagraph (A) shall start with payments to the payee made after the close of the 30th day after the payor receives notification from a broker under subsection (d)(2)(B).
+&emsp;&emsp;In the case of any readily tradable instrument acquired by the payee through abroker, the period described in subparagraph (A) shall start with payments to the payee made after the close of the 30th day after the payor receives notification from a broker under subsection (d)(2)(B).
 
 #### (5) 30-day grace periods
 
@@ -382,7 +382,7 @@ For purposes of this section—
 
 &emsp;The term “readily tradable instrument” means—
 
-&emsp;&emsp;(A) any instrument which is part of an issue any portion of which is traded on anestablished securities market (within the meaning of section 453(f)(5)), and
+&emsp;&emsp;(A) any instrument which is part of an issue any portion of which is traded on an established securities market (within the meaning of section 453(f)(5)), and
 
 &emsp;&emsp;(B) except as otherwise provided in regulations prescribed by the Secretary, any instrument which is regularly quoted by brokers or dealers making a market.
 
@@ -464,7 +464,7 @@ Eligibility for tin matching program.—Solely for purposes of carrying out any 
 
 Amendment by Pub. L. 107–16 applicable to amounts paid after the 60th day after June 7, 2001, and references to income brackets and rates of tax in such amendment to be applied without regard to section 1(i)(1)(D) of this title, see section 101(d)(2) of Pub. L. 107–16, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied andadministered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1992 Amendment
 

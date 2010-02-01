@@ -1,6 +1,6 @@
 ### §542. Turnover of property to the estate
 
-(a) Except as provided in subsection (c) or (d) of this section, an entity, other than a custodian, in possession, custody, or control, during the case, of property that the trustee may use,sell, or lease under section 363 of this title, or that the debtor may exempt under section 522 of this title, shall deliver to the trustee, and account for, such property or the value of such property, unless such property is of inconsequential value or benefit to the estate.
+(a) Except as provided in subsection (c) or (d) of this section, an entity, other than a custodian, in possession, custody, or control, during the case, of property that the trustee may use, sell, or lease under section 363 of this title, or that the debtor may exempt under section 522 of this title, shall deliver to the trustee, and account for, such property or the value of such property, unless such property is of inconsequential value or benefit to the estate.
 
 (b) Except as provided in subsection (c) or (d) of this section, an entity that owes a debt that is property of the estate and that is matured, payable on demand, or payable on order, shall pay such debt to, or on the order of, the trustee, except to the extent that such debt may be offset under section 553 of this title against a claim against the debtor.
 

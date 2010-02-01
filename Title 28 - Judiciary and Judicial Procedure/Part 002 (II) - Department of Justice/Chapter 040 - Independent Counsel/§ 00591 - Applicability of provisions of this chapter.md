@@ -34,7 +34,7 @@ In general.—When the Attorney General determines that an investigation or pros
 
 &emsp;(2)
 
-Members of congress.—When the Attorney General determines that it would be in thepublic interest, the Attorney General may conduct a preliminary investigation in accordance with section 592 if the Attorney General receives information sufficient to constitute grounds to investigate whether a Member of Congress may have violated any Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction.
+Members of congress.—When the Attorney General determines that it would be in the public interest, the Attorney General may conduct a preliminary investigation in accordance with section 592 if the Attorney General receives information sufficient to constitute grounds to investigate whether a Member of Congress may have violated any Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction.
 
 (d)
 
@@ -66,7 +66,7 @@ When recusal is required.—(A) If information received under this chapter invol
 
 Requirements for recusal determination.—Before personally making any other determination under this chapter with respect to information received under this chapter, the Attorney General shall determine under paragraph (1)(B) whether recusal is necessary. The Attorney General shall set forth this determination in writing, identify the facts considered by the Attorney General, and set forth the reasons for the recusal. The Attorney General shall file this determination with any notification or application submitted to the division of the court under this chapter with respect to such information.
 
-(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1867; amended Pub. L. 97–409, §§3, 4(a), Jan. 3, 1983, 96 Stat. 2039, 2040; Pub. L. 98–473, title II, §228(b), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1293; Pub. L. 103–270, §§3(j), (k), 4, June 30, 1994, 108 Stat. 735, 736.)
+(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1867; amended Pub. L. 97–409, §§3,4(a), Jan. 3, 1983, 96 Stat. 2039, 2040; Pub. L. 98–473, title II, §228(b), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1293; Pub. L. 103–270, §§3(j), (k), 4, June 30, 1994, 108 Stat. 735, 736.)
 
 #### Amendments
 
@@ -210,11 +210,9 @@ Section 604 of Pub. L. 95–521 provided that: “Except as provided in this sec
 
 #### Permanent Appropriation for Expenses of Independent Counsels
 
-Pub. L. 100–202, §101(a) \[title II\], Dec. 22, 1987, 101 Stat. 1329, 1329–9, provided: “That a permanent indefinite appropriation is established within the Department of Justice to pay all necessary expenses of investigations and prosecutions by independent counsel appointed pursuant to the provisions of 28 U.S.C. 591 et seq. or other law: <i>Provided further</i>, That the Comptroller General shall perform semiannual financial reviews of expenditures from the Independent Counsel permanent indefinite appropriation, and report their findings to the Committees on Appropriations of the House and Senate”.
-
-\[For termination, effective May 15, 2000, of provisions of section 101(a) \[title II\] of Pub. L. 100–202, set out above, which require the Comptroller General to report findings of semiannual financial reviews to the Committees on Appropriations of the House and Senate, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 9 of House Document No. 103–7.\]
+Pub. L. 100–202, §101(a) \[title II\], Dec. 22, 1987, 101 Stat. 1329, 1329–9, as amended by Pub. L. 111–68, div. A, title I, §1501(d), Oct. 1, 2009, 123 Stat. 2041, provided: “That a permanent indefinite appropriation is established within the Department of Justice to pay all necessary expenses of investigations and prosecutions by independent counsel appointed pursuant to the provisions of 28 U.S.C. 591 et seq. or other law”.
 
 #### Contingency Fund for Independent Counsels
 
-Section 601(c) of Pub. L. 95–521, as amended by Pub. L. 97–409, §2(c)(2), Jan. 3, 1983, 96 Stat. 2039; Pub. L. 100–191, §5(b), Dec. 15, 1987, 101 Stat. 1307, provided that: “There are authorized to be appropriated for each fiscal year such sums as may be necessary, to be held by the Department of Justice as a contingent fund for the use of any independent counsels appointed under chapter 40 (relating to independent counsels) of title 28 of the United States Code in the carrying out of functions under such chapter.”
+Section 601(c) of Pub. L. 95–521, as amended by Pub. L. 97–409, §2(c)(2), Jan. 3, 1983, 96 Stat. 2039; Pub. L.100–191, §5(b), Dec. 15, 1987, 101 Stat. 1307, provided that: “There are authorized to be appropriated for each fiscal year such sums as may be necessary, to be held by the Department of Justice as a contingent fund for the use of any independent counsels appointed under chapter 40 (relating to independent counsels) of title 28 of the United States Code in the carrying out of functions under such chapter.”
 

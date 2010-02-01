@@ -28,5 +28,5 @@ Section is comprised of section 1423 of Pub. L. 104–201 which also enacted pro
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(4). Pub. L. 105–261 made technical amendment to reference in original act which appears in text as reference to section 2139a(c) of title 42.
+1998—Subsec. (b)(4). Pub. L. 105–261 made technical amendment to reference in original act which appears in text as reference to section 2139a(c) of title 42.
 

@@ -4,5 +4,5 @@ Section, Pub. L. 101–625, title V, §520, Nov. 28, 1990, 104 Stat. 4202; Pub. 
 
 #### Effective Date of Repeal
 
-Repeal effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement repeal before such date, and with savings provision, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
+Repeal effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision thatSecretary may implement repeal before such date, and with savings provision, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 

@@ -42,5 +42,5 @@ Section 601(b), (c) of Pub. L. 97–113 provided that:
 
 #### References to ACTION Agency or Director of ACTION Agency With Respect to Peace Corps or Director Functions or Activities
 
-Section 601(g) of Pub. L. 97–113 provided that: “References in any statute, reorganization plan, Executive order, regulation, or other official document or proceeding to the ACTION Agency \[now Corporation for National and Community Service\] or the Director of the ACTION Agency with respect to functions or activities relating to the Peace Corps shall be deemed to refer to the Peace Corps or the Director of the Peace Corps, respectively.”
+Section 601(g) of Pub. L. 97–113 provided that: “References in any statute, reorganization plan, Executiveorder, regulation, or other official document or proceeding to the ACTION Agency \[now Corporation for National and Community Service\] or the Director of the ACTION Agency with respect to functions or activities relating to the Peace Corps shall be deemed to refer to the Peace Corps or the Director of the Peace Corps, respectively.”
 

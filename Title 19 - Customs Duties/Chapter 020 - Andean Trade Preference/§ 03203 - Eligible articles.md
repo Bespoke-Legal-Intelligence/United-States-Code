@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) Unless otherwise excluded from eligibility (or otherwise provided for) by this chapter, the duty-free treatment (or preferential treatment) provided under this chapter shall apply to any article which is the growth, product, or manufacture of a beneficiary country if—
+(1) Unless otherwise excluded from eligibility (or otherwise provided for) by this chapter, the duty-free treatment (or preferential treatment) provided under this chapter shall apply to anyarticle which is the growth, product, or manufacture of a beneficiary country if—
 
 &emsp;(A) that article is imported directly from a beneficiary country into the customs territory of the United States; and
 
@@ -96,13 +96,13 @@
 
 &emsp;&emsp;&emsp;(I) Subject to the limitation set forth in subclause (II), apparel articles sewn or otherwise assembled in 1 or more ATPDEA beneficiary countries from fabrics or from fabric components formed or from components knit-to-shape, in 1 or more ATPDEA beneficiary countries, from yarns wholly formed in the United States or 1 or more ATPDEA beneficiary countries (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are formed in 1 or more ATPDEA beneficiary countries), whether or not the apparel articles are also made from any of the fabrics, fabric components formed, or components knit-to-shape described in clause (i) (unless the apparel articles are made exclusively from any of the fabrics, fabric components formed, or components knit-to-shape described in clause (i)).
 
-&emsp;&emsp;&emsp;(II) The preferential treatment referred to in subclause (I) shall be extended in the 1-year period beginning October 1, 2002, and in each of the 7 succeeding 1-year periods, to imports of apparel articles in an amount not to exceed the applicable percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the preceding 12-month period for which data are available.
+&emsp;&emsp;&emsp;(II) The preferential treatment referred to in subclause (I) shall be extended in the 1-year period beginning October 1, 2002, and in each of the 8 succeeding 1-year periods, to imports of apparel articles in an amount not to exceed the applicable percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the preceding 12-month period for which data are available.
 
 &emsp;&emsp;&emsp;(III) For purposes of subclause (II), the term “applicable percentage” means—
 
 &emsp;&emsp;&emsp;&emsp;(aa) 2 percent for the 1-year period beginning October 1, 2002, increased in each of the 4 succeeding 1-year periods by equal increments, so that for the period beginning October 1, 2006, the applicable percentage does not exceed 5 percent; and
 
-&emsp;&emsp;&emsp;&emsp;(bb) for the 1-year period beginning October 1, 2007, and for the succeeding 2-year period, the percentage determined under item (aa) for the 1-year period beginning October 1, 2006.
+&emsp;&emsp;&emsp;&emsp;(bb) for the 1-year period beginning October 1, 2007, and for the succeeding 3-year period, the percentage determined under item (aa) for the 1-year period beginning October 1, 2006.
 
 #### (iv) Handloomed, handmade, and folklore articles
 
@@ -116,7 +116,7 @@
 
 #### (II) Limitation
 
-&emsp;&emsp;&emsp;&emsp;During the 1-year period beginning on October 1, 2003, and during each of the 6 succeeding 1-year periods, apparel articles described in subclause (I) of a producer or an entity controlling production shall be eligible for preferential treatment under this paragraph only if the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period is at least 75 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
+&emsp;&emsp;&emsp;&emsp;During the 1-year period beginning on October 1, 2003, and during each of the 7 succeeding 1-year periods, apparel articles described in subclause (I) of a producer or an entity controlling production shall be eligible for preferential treatment under this paragraph only if the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period is at least 75 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
 
 #### (III) Development of procedure to ensure compliance
 
@@ -186,7 +186,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the requirements of paragraph (5) of section 4 of the Annex (relating to providing compensation) shall not apply;
 
-&emsp;&emsp;&emsp;&emsp;(II) the term “transition period” in section 4 of the Annex shall mean the period ending December 31, 2009; and
+&emsp;&emsp;&emsp;&emsp;(II) the term “transition period” in section 4 of the Annex shall mean the period ending December 31, 2010; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the requirements to consult specified in section 4 of the Annex shall be treated as satisfied if the President requests consultations with the ATPDEA beneficiary country in question and the country does not agree to consult within the time period specified under section 4 of the Annex.
 
@@ -382,7 +382,7 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 No quantity of an agricultural product subject to a tariff-rate quota that exceeds the in-quota quantity shall be eligible for duty-free treatment under this chapter.
 
-(Pub. L. 102–182, title II, §204, Dec. 4, 1991, 105 Stat. 1239; Pub. L. 103–465, title IV, §404(e)(2), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 107–210, div. C, title XXXI, §3103(a), (c)(2), Aug. 6, 2002, 116 Stat. 1024, 1033; Pub. L. 108–429, title II, §2004(e), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–432, div. D, title V, §5005(b), title VII, §7003, Dec. 20, 2006, 120 Stat. 3190, 3194; Pub. L. 110–42, §2, June 30, 2007, 121 Stat. 235; Pub. L. 110–191, §2(b), Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–436, §1(b), Oct. 16, 2008, 122 Stat. 4977.)
+(Pub. L. 102–182, title II, §204, Dec. 4, 1991, 105 Stat. 1239; Pub. L. 103–465, title IV, §404(e)(2), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 107–210, div. C, title XXXI, §3103(a), (c)(2), Aug. 6, 2002, 116 Stat. 1024, 1033; Pub. L. 108–429, title II, §2004(e), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–432, div. D, title V, §5005(b), title VII, §7003, Dec. 20, 2006, 120 Stat. 3190, 3194; Pub. L. 110–42, §2, June 30, 2007, 121 Stat. 235; Pub. L. 110–191, §2(b), Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–436, §1(b), Oct. 16, 2008, 122 Stat. 4977; Pub. L. 111–124, §2(b), Dec. 28, 2009, 123 Stat. 3484.)
 
 #### References in Text
 
@@ -399,6 +399,14 @@ The Trade Act of 1974, referred to in subsecs. (b)(1)(A), (D), and (c)(1), is Pu
 The Andean Trade Promotion and Drug Eradication Act, referred to in subsec. (b)(6)(E), is title XXXI of Pub. L. 107–210, div. C, Aug. 6, 2002, 116 Stat. 1023. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 3201 of this title and Tables.
 
 #### Amendments
+
+2009—Subsec. (b)(3)(B)(iii)(II). Pub. L. 111–124, §2(b)(1)(A)(i), substituted “8 succeeding 1-year periods” for “7 succeeding 1-year periods”.
+
+Subsec. (b)(3)(B)(iii)(III)(bb). Pub. L. 111–124, §2(b)(1)(A)(ii), substituted “and for the succeeding 3-year period” for “and for the succeeding 2-year period”.
+
+Subsec. (b)(3)(B)(v)(II). Pub. L. 111–124, §2(b)(1)(B), substituted “7 succeeding 1-year periods” for “6 succeeding 1-year periods”.
+
+Subsec. (b)(3)(E)(ii)(II). Pub. L. 111–124, §2(b)(2), substituted “December 31, 2010” for “December 31, 2009”.
 
 2008—Subsec. (b)(3)(B)(iii)(II). Pub. L. 110–436, §1(b)(1)(A)(i), substituted “7 succeeding 1-year periods” for “6 succeeding 1-year periods”.
 
@@ -506,7 +514,7 @@ Pub. L. 107–206, title III, §3001(b), Aug. 2, 2002, 116 Stat. 910, provided t
 
 Proc. No. 7616, Oct. 31, 2002, 67 F.R. 67283, as amended by Proc. No. 7748, Dec. 30, 2003, 69 F.R. 227, provided:
 
-1\. Section 3103 of the Andean Trade Promotion and Drug Eradication Act (title XXXI of the Trade Act of 2002, Public Law 107–210) \[see Tables for classification\] (ATPDEA) amended section 204(b) of the Andean Trade Preference Act (19 U.S.C. 3203(b)) (ATPA) to provide that certain preferential tariff treatment may be provided to eligible articles that are the product of any country that the President designates as an “ATPDEA beneficiary country” pursuant to section 204(b)(6)(B) of the ATPA, as amended, provided that the President determines that the country has satisfied the requirements of section 204(b)(5)(A)(ii)(I) of the ATPA, as amended, relating to the implementation of procedures and requirements similar to those in chapter 5 of the North American Free Trade Agreement (NAFTA).
+1\. Section 3103 of the Andean Trade Promotion and Drug Eradication Act (title XXXI of the Trade Act of 2002, Public Law 107–210) \[see Tables for classification\] (ATPDEA) amended section 204(b) of the Andean Trade Preference Act (19 U.S.C. 3203(b)) (ATPA) to provide that certain preferential tariff treatment may be provided to eligible articles that are the product of any country that the President designates as an “ATPDEA beneficiary country” pursuant to section 204(b)(6)(B) of the ATPA, as amended, provided that the President determines that the country has satisfied the requirements of section 204(b)(5)(A)(ii)(I) of the ATPA, as amended, relating to the implementation of proceduresand requirements similar to those in chapter 5 of the North American Free Trade Agreement (NAFTA).
 
 2\. Section 3103(a)(2) of the ATPDEA amended section 204(b) of the ATPA to authorize the President to proclaim duty-free treatment for any article described in section 204(b)(1)(A) through (D) of the ATPA, as amended, that is the growth, product, or manufacture of an ATPDEA beneficiary country, that is imported directly into the customs territory of the United States from an ATPDEA beneficiary country, and that meets the requirements of section 204 of the ATPA, as amended, if the President determines that such article is not import-sensitive in the context of imports from ATPDEA beneficiary countries, provided that the President determines that the country has satisfied the requirements of section 204(b)(5)(A)(ii)(I) of the ATPA, as amended, relating to the implementation of procedures and requirements similar to those in chapter 5 of the NAFTA.
 

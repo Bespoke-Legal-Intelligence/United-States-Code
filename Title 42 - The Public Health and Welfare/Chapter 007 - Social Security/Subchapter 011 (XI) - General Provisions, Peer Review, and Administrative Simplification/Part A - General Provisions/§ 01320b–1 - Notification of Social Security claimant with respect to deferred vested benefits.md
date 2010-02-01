@@ -12,7 +12,7 @@
 
 &emsp;(3) the Commissioner of Social Security is requested to do so—
 
-&emsp;&emsp;(A) by any individual with respect to whom the Commissioner of Social Securityholds information obtained under section 6057 of the Internal Revenue Code of 1986, or
+&emsp;&emsp;(A) by any individual with respect to whom the Commissioner of Social Security holds information obtained under section 6057 of the Internal Revenue Code of 1986, or
 
 &emsp;&emsp;(B) in the case of the death of the individual referred to in subparagraph (A), by the individual who would be entitled to payment under section 404(d) of this title,
 

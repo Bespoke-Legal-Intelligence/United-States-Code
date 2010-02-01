@@ -6,7 +6,7 @@ Presentation of Flag.—Upon the release of a member of the Army from active dut
 
 (b)
 
-Multiple Presentations Not Authorized.—A member is not eligible for a presentation of a flag under subsection (a) if the member has previously been presented a flag underthis section or any other provision of law providing for the presentation of a United States flag incident to release from active service for retirement.
+Multiple Presentations Not Authorized.—A member is not eligible for a presentation of a flag under subsection (a) if the member has previously been presented a flag under this section or any other provision of law providing for the presentation of a United States flag incident to release from active service for retirement.
 
 (c)
 

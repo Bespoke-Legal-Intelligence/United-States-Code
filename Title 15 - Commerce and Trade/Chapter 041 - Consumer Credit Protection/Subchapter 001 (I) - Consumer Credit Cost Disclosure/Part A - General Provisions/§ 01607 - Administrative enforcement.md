@@ -76,7 +76,7 @@ The authority of the Board to issue regulations under this subchapter does not i
 
 (5) Except as otherwise specifically provided in this subsection and notwithstanding any provision of law referred to in subsection (a) or (c) of this section, no agency referred to in subsection (a) or (c) of this section may require a creditor to make dollar adjustments for errors in any requirements under this subchapter, except with regard to the requirements of section 1666d of this title.
 
-(6) A creditor shall not be subject to an order to make an adjustment, if within sixty daysafter discovering a disclosure error, whether pursuant to a final written examination report or through the creditor's own procedures, the creditor notifies the person concerned of the error and adjusts the account so as to assure that such person will not be required to pay a finance charge in excess of the finance charge actually disclosed or the dollar equivalent of the annual percentage rate actually disclosed, whichever is lower.
+(6) A creditor shall not be subject to an order to make an adjustment, if within sixty days after discovering a disclosure error, whether pursuant to a final written examination report or through the creditor's own procedures, the creditor notifies the person concerned of the error and adjusts the account so as to assure that such person will not be required to pay a finance charge in excess of the finance charge actually disclosed or the dollar equivalent of the annual percentage rate actually disclosed, whichever is lower.
 
 (7) Notwithstanding the second sentence of subsection (e)(1), subsection (e)(3)(C)(i), and subsection (e)(3)(C)(ii) of this section, each agency referred to in subsection (a) or (c) of this section shall require an adjustment for an annual percentage rate disclosure error that exceeds a tolerance of one quarter of one percent less than the actual rate, determined without regard to section 1606(c) of this title, with respect to any transaction consummated between January 1, 1977, and March 31, 1980.
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note undersection 5314 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note under section 5314 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
 

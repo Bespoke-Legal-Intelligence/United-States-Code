@@ -8,7 +8,7 @@
 
 (b) The United States trustee (or bankruptcy administrator, if any) shall only approve a nonprofit budget and credit counseling agency or an instructional course concerning personal financial management as follows:
 
-&emsp;(1) The United States trustee (or bankruptcy administrator, if any) shall have thoroughly reviewed the qualifications of the nonprofit budget and credit counseling agency or of the provider of the instructional course under the standards set forth in this section, and theservices or instructional courses that will be offered by such agency or such provider, and may require such agency or such provider that has sought approval to provide information with respect to such review.
+&emsp;(1) The United States trustee (or bankruptcy administrator, if any) shall have thoroughly reviewed the qualifications of the nonprofit budget and credit counseling agency or of the provider of the instructional course under the standards set forth in this section, and the services or instructional courses that will be offered by such agency or such provider, and may require such agency or such provider that has sought approval to provide information with respect to such review.
 
 &emsp;(2) The United States trustee (or bankruptcy administrator, if any) shall have determined that such agency or such instructional course fully satisfies the applicable standards set forth in this section.
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(B) learning materials and teaching methodologies designed to assist debtors in understanding personal financial management and that are consistent with stated objectives directly related to the goals of such instructional course;
 
-&emsp;&emsp;(C) adequate facilities situated in reasonably convenient locations at which such instructional course is offered, except that such facilities may include the provision of such instructional course by telephone or through the Internet, if such instructional course is effective;
+&emsp;&emsp;(C) adequate facilities situated in reasonably convenient locations at which such instructional course is offered, except that such facilities may include the provision ofsuch instructional course by telephone or through the Internet, if such instructional course is effective;
 
 &emsp;&emsp;(D) the preparation and retention of reasonable records (which shall include the debtor's bankruptcy case number) to permit evaluation of the effectiveness of such instructional course, including any evaluation of satisfaction of instructional course requirements for each debtor attending such instructional course, which shall be available for inspection and evaluation by the Executive Office for United States Trustees, the United States trustee (or the bankruptcy administrator, if any), or the chief bankruptcy judge for the district in which such instructional course is offered; and
 

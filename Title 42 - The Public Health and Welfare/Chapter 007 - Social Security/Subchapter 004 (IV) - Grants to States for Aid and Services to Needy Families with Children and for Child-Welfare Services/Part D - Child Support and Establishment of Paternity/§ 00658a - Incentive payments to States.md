@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In addition to any other payment under this part, the Secretary shall, subject to subsection\(f) of this section, make an incentive payment to each State for each fiscal year in an amount determined under subsection (b) of this section.
+In addition to any other payment under this part, the Secretary shall, subject to subsection (f) of this section, make an incentive payment to each State for each fiscal year in an amount determined under subsection (b) of this section.
 
 #### (b) Amount of incentive payment
 
@@ -94,7 +94,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 #### (i) Determination of paternity establishment performance level
 
-&emsp;&emsp;&emsp;The paternity establishment performance level for a State for a fiscal year is, at the option of the State, the IV–D paternity establishment percentage determined under section 652(g)(2)(A) of this title or the statewide paternity establishment percentage determined under section 652(g)(2)(B) of this title.
+&emsp;&emsp;&emsp;The paternity establishment performance level for a State for a fiscal year is,at the option of the State, the IV–D paternity establishment percentage determined under section 652(g)(2)(A) of this title or the statewide paternity establishment percentage determined under section 652(g)(2)(B) of this title.
 
 #### (ii) Determination of applicable percentage
 

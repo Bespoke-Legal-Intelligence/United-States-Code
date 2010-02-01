@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(ii) Internet technologies; and
 
-&emsp;(9) any workforce-related reforms required to resolve the findings and recommendations of the Columbia Accident Investigation Board, the extent to which those recommendations were accepted, and, if necessary, the reasonswhy any of those recommendations were not accepted.
+&emsp;(9) any workforce-related reforms required to resolve the findings and recommendations of the Columbia Accident Investigation Board, the extent to which those recommendations were accepted, and, if necessary, the reasons why any of those recommendations were not accepted.
 
 (c) Not later than 60 days before first exercising any of the workforce authorities made available under this chapter, the Administrator shall provide to all employees the workforce plan and any additional information which the Administrator considers appropriate.
 

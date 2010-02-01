@@ -2,7 +2,7 @@
 
 For the purposes of this chapter—
 
-(1)(A) The term “eligible veteran” means any veteran who is not eligible for educational assistance under chapter 34 of this title and who (i) entered military service on or after January1, 1977, and before July 1, 1985, served on active duty for a period of more than 180 days commencing on or after January 1, 1977, and was discharged or released therefrom under conditions other than dishonorable, or (ii) entered military service on or after January 1, 1977, and before July 1, 1985, and was discharged or released from active duty after January 1, 1977, for a service-connected disability.
+(1)(A) The term “eligible veteran” means any veteran who is not eligible for educational assistance under chapter 34 of this title and who (i) entered military service on or after January 1, 1977, and before July 1, 1985, served on active duty for a period of more than 180 days commencing on or after January 1, 1977, and was discharged or released therefrom under conditions other than dishonorable, or (ii) entered military service on or after January 1, 1977, and before July 1, 1985, and was discharged or released from active duty after January 1, 1977, for a service-connected disability.
 
 (B) The requirement of discharge or release, prescribed in subparagraph (A), shall be waived in the case of any participant who has completed his or her first obligated period of active duty (which began after December 31, 1976) or 6 years of active duty (which began after December 31, 1976), whichever period is less.
 
@@ -28,7 +28,7 @@ For the purposes of this chapter—
 
 #### References in Text
 
-Section 511 of title 10, referred to in par. (1)(C)(iii), was renumbered section 12103 of Title 10, Armed Forces, by Pub. L. 103–337, div. A, title XVI, §1662(b)(2), Oct. 5, 1994, 108 Stat. 2989.
+Section 511 of title 10, referred to in par. (1)(C)(iii), was renumbered section 12103 of Title 10, Armed Forces,by Pub. L. 103–337, div. A, title XVI, §1662(b)(2), Oct. 5, 1994, 108 Stat. 2989.
 
 #### Prior Provisions
 
@@ -70,7 +70,7 @@ Section 802(d)(1) of Pub. L. 96–466 provided that: “The amendments made by s
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Enrollment in Program Before April 1, 1987
 

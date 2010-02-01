@@ -66,7 +66,7 @@ The State plan shall include information that—
 
 &emsp;&emsp;&emsp;(i) incorporate secondary education and postsecondary education elements;
 
-&emsp;&emsp;&emsp;(ii) include coherent and rigorous content aligned with challenging academic standards and relevant career and technical content in a coordinated, nonduplicative progression of courses that align secondary education with postsecondary education to adequately prepare students to succeed in postsecondary education;
+&emsp;&emsp;&emsp;(ii) include coherent and rigorous content aligned with challenging academicstandards and relevant career and technical content in a coordinated, nonduplicative progression of courses that align secondary education with postsecondary education to adequately prepare students to succeed in postsecondary education;
 
 &emsp;&emsp;&emsp;(iii) may include the opportunity for secondary education students to participate in dual or concurrent enrollment programs or other ways to acquire postsecondary education credits; and
 
@@ -102,7 +102,7 @@ The State plan shall include information that—
 
 &emsp;&emsp;(J) how the eligible agency will facilitate and coordinate communication on best practices among successful recipients of tech prep program grants under subchapter II and eligible recipients to improve program quality and student achievement;
 
-&emsp;&emsp;(K) how funds will be used effectively to link academic and career and technical education at the secondary level and at thepostsecondary level in a manner that increases student academic and career and technical achievement; and
+&emsp;&emsp;(K) how funds will be used effectively to link academic and career and technical education at the secondary level and at the postsecondary level in a manner that increases student academic and career and technical achievement; and
 
 &emsp;&emsp;(L) how the eligible agency will report on the integration of coherent and rigorous content aligned with challenging academic standards in career and technical education programs in order to adequately evaluate the extent of such integration;
 
@@ -164,7 +164,7 @@ The State plan shall include information that—
 
 &emsp;&emsp;(A) the eligible agency's efforts to ensure that eligible recipients are given the opportunity to provide input in determining the State adjusted levels of performance described in section 2323 of this title; and
 
-&emsp;&emsp;(B) how the eligible agency, in consultation with eligible recipients, will develop a process for the negotiation of local adjusted levels of performance under section 2323(b)(4) of this title if an eligible recipient does notaccept the State adjusted levels of performance under section 2323(b)(3) of this title;
+&emsp;&emsp;(B) how the eligible agency, in consultation with eligible recipients, will develop a process for the negotiation of local adjusted levels of performance under section 2323(b)(4) of this title if an eligible recipient does not accept the State adjusted levels of performance under section 2323(b)(3) of this title;
 
 &emsp;(11) provides assurances that the eligible agency will comply with the requirements of this chapter and the provisions of the State plan, including the provision of a financial audit of funds received under this chapter which may be included as part of an audit of other Federal or State programs;
 
@@ -228,7 +228,7 @@ The Higher Education Act of 1965, referred to in subsec. (c)(2)(G), is Pub. L. 8
 
 #### Prior Provisions
 
-A prior section 2342, Pub. L. 88–210, title I, §122, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3102,related to State plan, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2342, Pub. L. 88–210, title I, §122, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3102, related to State plan, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2342, Pub. L. 88–210, title II, §235, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 783, related to uses of funds, prior to the general amendment of this chapter by Pub. L. 105–332.
 

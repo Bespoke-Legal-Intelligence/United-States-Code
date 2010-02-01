@@ -8,7 +8,7 @@
 
 #### (2) Persons described
 
-&emsp;The persons referred to in paragraph (1) are the Director of the Agricultural Weather Office, the Administrator of the Extension Service, the Administrator of the Cooperative State Research Service, and other persons as appropriate (such as the directors of the appropriate State agricultural experiment stations and State extension programs).
+&emsp;The persons referred to in paragraph (1) are the Director of the Agricultural Weather Office, the Director of the National Institute of Food and Agriculture, and other persons as appropriate (such as the directors of the appropriate State agricultural experiment stations and State extension programs).
 
 #### (b) Consultation
 
@@ -30,15 +30,13 @@ To be eligible to receive a grant under this section, the chief executive office
 
 (Pub. L. 101–624, title XVI, §1640, Nov. 28, 1990, 104 Stat. 3749; Pub. L. 107–171, title VII, §7304(b), May 13, 2002, 116 Stat. 455; Pub. L. 110–234, title VII, §7511(c)(19), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(19), June 18, 2008, 122 Stat. 1664, 2030.)
 
-#### Amendment of Subsection (a)(2)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2030, provided that, effective Oct. 1, 2009, subsection (a)(2) of this section is amended by substituting “the Director of the National Institute of Food and Agriculture” for “the Administrator of the Extension Service, the Administrator of the Cooperative State Research Service”.</i>
-
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (a)(2). Pub. L. 110–246, §7511(c)(19), substituted “the Director of the National Institute of Food and Agriculture” for “the Administrator of the Extension Service, the Administrator of the Cooperative State Research Service”.
 
 2002—Subsec. (b). Pub. L. 107–171 struck out “take into consideration the recommendation of the Advisory Board on Agricultural Weather and” before “consult with the Director”.
 

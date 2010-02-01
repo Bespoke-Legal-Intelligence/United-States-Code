@@ -32,7 +32,7 @@ Terms and Required Repayment.—Each contract entered into under subsection (a) 
 
 (d)
 
-Authority To Contract and Pay Directly.—(1) A contract under subsection (a) for the inclusion or incorporation of defense features in an aircraft may include a provision authorizing the Secretary—
+Authority To Contract and Pay Directly.—(1) A contract under subsection (a) forthe inclusion or incorporation of defense features in an aircraft may include a provision authorizing the Secretary—
 
 &emsp;(A) to contract, with the concurrence of the contractor, directly with another person for the performance of the work necessary for the inclusion or incorporation of defense features in such aircraft; and
 

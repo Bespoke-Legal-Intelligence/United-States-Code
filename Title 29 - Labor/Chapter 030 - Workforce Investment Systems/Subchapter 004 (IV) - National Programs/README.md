@@ -15,5 +15,6 @@
 - [&sect; 02917 - Evaluations](%C2%A7%2002917%20-%20Evaluations.md)
 - [&sect; 02918 - National emergency grants](%C2%A7%2002918%20-%20National%20emergency%20grants.md)
 - [&sect; 02918a - YouthBuild program](%C2%A7%2002918a%20-%20YouthBuild%20program.md)
+- [&sect; 02918b - Re-enrollment in alternative school by high-school dropout](%C2%A7%2002918b%20-%20Re-enrollment%20in%20alternative%20school%20by%20high-school%20dropout.md)
 - [&sect; 02919 - Authorization of appropriations](%C2%A7%2002919%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 02920 - Educational assistance and training](%C2%A7%2002920%20-%20Educational%20assistance%20and%20training.md)

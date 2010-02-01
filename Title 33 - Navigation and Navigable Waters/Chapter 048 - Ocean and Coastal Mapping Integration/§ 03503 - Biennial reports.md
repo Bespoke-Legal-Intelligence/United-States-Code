@@ -1,0 +1,36 @@
+### §3503. Biennial reports
+
+No later than 18 months after March 30, 2009, and biennially thereafter, the co-chairmen of the Committee shall transmit to the Committees on Commerce, Science, and Transportation and Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report detailing progress made in implementing this chapter, including—
+
+&emsp;(1) an inventory of ocean and coastal mapping data within the territorial sea and the exclusive economic zone and throughout the Continental Shelf of the United States, noting the age and source of the survey and the spatial resolution (metadata) of the data;
+
+&emsp;(2) identification of priority areas in need of survey coverage using present technologies;
+
+&emsp;(3) a resource plan that identifies when priority areas in need of modern ocean and coastal mapping surveys can be accomplished;
+
+&emsp;(4) the status of efforts to produce integrated digital maps of ocean and coastal areas;
+
+&emsp;(5) a description of any products resulting from coordinated mapping efforts under this chapter that improve public understanding of the coasts and oceans, or regulatory decisionmaking;
+
+&emsp;(6) documentation of minimum and desired standards for data acquisition and integrated metadata;
+
+&emsp;(7) a statement of the status of Federal efforts to leverage mapping technologies, coordinate mapping activities, share expertise, and exchange data;
+
+&emsp;(8) a statement of resource requirements for organizations to meet the goals of the program, including technology needs for data acquisition, processing, and distribution systems;
+
+&emsp;(9) a statement of the status of efforts to declassify data gathered by the Navy, the National Geospatial-Intelligence Agency, and other agencies to the extent possible without jeopardizing national security, and make it available to partner agencies and the public;
+
+&emsp;(10) a resource plan for a digital coast integrated mapping pilot project for the northern Gulf of Mexico that will—
+
+&emsp;&emsp;(A) cover the area from the authorized coastal counties through the territorial sea;
+
+&emsp;&emsp;(B) identify how such a pilot project will leverage public and private mapping data and resources, such as the United States Geological Survey National Map, to result in an operational coastal change assessment program for the subregion;
+
+&emsp;(11) the status of efforts to coordinate Federal programs with coastal state and local government programs and leverage those programs;
+
+&emsp;(12) a description of efforts of Federal agencies to increase contracting with nongovernmental entities; and
+
+&emsp;(13) an inventory and description of any new Federal or federally funded programs conducting shoreline delineation and ocean or coastal mapping since the previous reporting cycle.
+
+(Pub. L. 111–11, title XII, §12204, Mar. 30, 2009, 123 Stat. 1423.)
+

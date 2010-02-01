@@ -1,12 +1,22 @@
 ### §2121. Establishment
 
-(a) For the purpose of obtaining adequate numbers of commissioned officers on active duty who are qualified in the various health professions, the Secretary of each military department, under regulations prescribed by the Secretary of Defense, may establish and maintain a health professions scholarship and financial assistance program for his department.
+(a)(1) For the purpose of obtaining adequate numbers of commissioned officers on active duty who are qualified (A) in the various health professions or (B) as a health professional with specific skills to assist in providing mental health care to members of the armed forces, the Secretary of each military department, under regulations prescribed by the Secretary of Defense, may establish and maintain a health professions scholarship and financial assistance program for his department.
+
+(2) Under the program of a military department, the Secretary of that military department shall allocate a portion of the total number of scholarships to members of the program described in paragraph (1)(B) for the purpose of assisting such members to pursue a degree at the masters and doctoral level in any of the following disciplines:
+
+&emsp;(A) Social work.
+
+&emsp;(B) Clinical psychology.
+
+&emsp;(C) Psychiatry.
+
+&emsp;(D) Other disciplines that contribute to mental health care programs in that military department.
 
 (b) The program shall consist of courses of study and specialized training in designated health professions, with obligatory periods of military training.
 
 (c)(1) Persons participating in the program shall be commissioned officers in reserve components of the armed forces. Members pursuing a course of study shall serve on active duty in pay grade O–1 with full pay and allowances of that grade for a period of 45 days during each year of participation in the program. Members pursuing specialized training shall serve on active duty in a pay grade commensurate with their educational level, as determined by appointment under section 12207 of this title, with full pay and allowances of that grade for a period of 14 days during each year of participation in the program. They shall be detailed as students at accredited civilian institutions, located in the United States or Puerto Rico, for the purpose of acquiring knowledge or training in a designated health profession. In addition, members of the program shall, under regulations prescribed by the Secretary of Defense, receive military and professional training and instruction.
 
-(2) If a member of the uniformed services selected to participate in the program as a medical student has prior active service in a pay grade and with years of service credited for pay that would entitle the member, if the member remained in the former grade, to a rate of basicpay in excess of the rate of basic pay for regular officers in the grade of second lieutenant or ensign, the member shall be paid basic pay based on the former grade and years of service credited for pay. The amount of such basic pay for the member shall be increased on January 1 of each year by the percentage by which basic pay is increased on average on that date for that year, and the member shall continue to receive basic pay based on the former grade and years of service until the date, whether occurring before or after the conclusion of such participation, on which the basic pay for the member in the member's actual grade and years of service credited for pay exceeds the amount of basic pay to which the member is entitled based on the member's former grade and years of service.
+(2) If a member of the uniformed services selected to participate in the program as a medical student has prior active service in a pay grade and with years of service credited for pay that would entitle the member, if the member remained in the former grade, to a rate of basic pay in excess of the rate of basic pay for regular officers in the grade of second lieutenant or ensign, the member shall be paid basic pay based on the former grade and years of service credited for pay. The amount of such basic pay for the member shall be increased on January 1 of each year by the percentage by which basic pay is increased on average on that date for that year, and the member shall continue to receive basic pay based on the former grade and years of service until the date, whether occurring before or after the conclusion of such participation, on which the basic pay for the member in the member's actual grade and years of service credited for pay exceeds the amount of basic pay to which the member is entitled based on the member's former grade and years of service.
 
 (d) Except when serving on active duty pursuant to subsection (c), a member of the program shall be entitled to a stipend at a monthly rate established by the Secretary of Defense, but not to exceed a total of $30,000 per year. The maximum annual amount of the stipend shall be increased annually by the Secretary of Defense effective on July 1 of each year by an amount (rounded to the next highest multiple of $1) equal to—
 
@@ -14,9 +24,11 @@
 
 &emsp;(2) the overall percentage of the adjustment (if such adjustment is an increase) in the rates of basic pay for members of the uniformed services made effective for the fiscal year in which the school year ends.
 
-(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 717; amended Pub. L. 96–107, title VIII, §804(a), Nov. 9, 1979, 93 Stat. 812; Pub. L. 98–94, title IX, §935(a), Sept. 24, 1983, 97 Stat. 652; Pub. L. 101–189, div. A, title VII, §725(b), Nov. 29, 1989, 103 Stat. 1479; Pub. L. 101–510, div. A, title XIV, §1484(k)(7), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 104–106, div. A, title XV, §1501(c)(22), Feb. 10, 1996, 110 Stat. 499; Pub. L. 109–364, div. A, title V, §538(a), Oct. 17, 2006, 120 Stat. 2209; Pub. L. 110–181, div. A, title V, §524(b), Jan. 28, 2008, 122 Stat. 103.)
+(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 717; amended Pub. L. 96–107, title VIII, §804(a), Nov. 9, 1979, 93 Stat. 812; Pub. L. 98–94, title IX, §935(a), Sept. 24, 1983, 97 Stat. 652; Pub. L. 101–189, div. A, title VII, §725(b), Nov. 29, 1989, 103 Stat. 1479; Pub. L. 101–510, div. A, title XIV, §1484(k)(7), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 104–106, div. A, title XV, §1501(c)(22), Feb. 10, 1996, 110 Stat. 499; Pub. L. 109–364, div. A, title V, §538(a), Oct. 17, 2006, 120 Stat. 2209; Pub. L. 110–181, div. A, title V, §524(b), Jan. 28, 2008, 122 Stat. 103; Pub. L. 111–84, div. A, title V, §524(a), Oct. 28, 2009, 123 Stat. 2285.)
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–84 designated existing provisions as par. (1), substituted “(A) in the various health professions or (B) as a health professional with specific skills to assist in providing mental health care to members of the armed forces” for “in the various health professions”, and added par. (2).
 
 2008—Subsec. (c). Pub. L. 110–181 designated existing provisions as par. (1) and added par. (2).
 

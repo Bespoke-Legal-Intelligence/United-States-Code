@@ -8,7 +8,7 @@ Any State desiring to receive a grant under this part for any fiscal year shall 
 
 Each such application shall include—
 
-&emsp;(1) a description of how, in planning, implementing, and evaluating programs and projects assisted under this part, the State and its local operating agencies will ensure that the special educational needs of migratory children, including preschool migratory children, are identified and addressed through—
+&emsp;(1) a description of how, in planning, implementing, and evaluating programs andprojects assisted under this part, the State and its local operating agencies will ensure that the special educational needs of migratory children, including preschool migratory children, are identified and addressed through—
 
 &emsp;&emsp;(A) the full range of services that are available for migratory children from appropriate local, State, and Federal educational programs;
 

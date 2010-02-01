@@ -152,7 +152,7 @@ Scope.—The Postal Regulatory Commission shall ensure that such discounts do no
 
 &emsp;&emsp;&emsp;(i) associated with a new postal service, a change to an existing postal service, or with a new work share initiative related to an existing postal service; and
 
-&emsp;&emsp;&emsp;(ii) necessary to induce mailer behavior that furthers the economically efficient operation of the Postal Service and the portion of the discount in excess of the cost that the Postal Service avoids as a result of the workshare activity will be phased out over a limited period of time;
+&emsp;&emsp;&emsp;(ii) necessary to induce mailer behavior that furthers the economically efficient operation of the Postal Service and theportion of the discount in excess of the cost that the Postal Service avoids as a result of the workshare activity will be phased out over a limited period of time;
 
 &emsp;&emsp;(B) the amount of the discount above costs avoided—
 
@@ -184,7 +184,7 @@ Report.—Whenever the Postal Service establishes a workshare discount rate, the
 
 (f)
 
-Transition Rule.—For the 1-year period beginning on the date of enactment of this section, rates and classes for market-dominant products shall remain subject to modification in accordance with the provisions of this chapter and section 407, as such provisions were last in effect before the date of enactment of this section. Proceedings initiated to consider a request for a recommended decision filed by the PostalService during that 1-year period shall be completed in accordance with subchapter II of chapter 36 of this title and implementing regulations, as in effect before the date of enactment of this section.
+Transition Rule.—For the 1-year period beginning on the date of enactment of this section, rates and classes for market-dominant products shall remain subject to modification in accordance with the provisions of this chapter and section 407, as such provisions were last in effect before the date of enactment of this section. Proceedings initiated to consider a request for a recommended decision filed by the Postal Service during that 1-year period shall be completed in accordance with subchapter II of chapter 36 of this title and implementing regulations, as in effect before the date of enactment of this section.
 
 (Added Pub. L. 109–435, title II, §201(a), Dec. 20, 2006, 120 Stat. 3201.)
 

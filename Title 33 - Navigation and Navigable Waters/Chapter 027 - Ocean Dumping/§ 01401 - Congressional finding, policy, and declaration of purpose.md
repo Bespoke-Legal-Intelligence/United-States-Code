@@ -10,13 +10,13 @@ The Congress declares that it is the policy of the United States to regulate the
 
 #### (c) Regulation of dumping and transportation for dumping purposes
 
-It is the purpose of this Act to regulate (1) the transportation by any person of material from the United States and, in the case of United States vessels, aircraft, or agencies, the transportation of material from a location outside the United States, when in either case the transportation is for the purpose of dumping the material into ocean waters, and (2) the dumping of material transported by any person from a location outside the United States, if the dumping occurs in the territorial sea or the contiguous zone of the United States.
+It is the purpose of this Act to regulate (1) the transportation by any person of material from the United States and, in the case of United States vessels, aircraft, or agencies, the transportation of material from a location outside the United States, when in either case the transportation is for the purpose of dumping the material into ocean waters, and (2) the dumping ofmaterial transported by any person from a location outside the United States, if the dumping occurs in the territorial sea or the contiguous zone of the United States.
 
 (Pub. L. 92–532, §2, Oct. 23, 1972, 86 Stat. 1052; Pub. L. 93–254, §1(1), Mar. 22, 1974, 88 Stat. 50.)
 
 #### References in Text
 
-This Act, referred to in subsec. (c), means Pub. L. 92–532, which is classified generally to this chapter,chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation.
+This Act, referred to in subsec. (c), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation.
 
 #### Amendments
 

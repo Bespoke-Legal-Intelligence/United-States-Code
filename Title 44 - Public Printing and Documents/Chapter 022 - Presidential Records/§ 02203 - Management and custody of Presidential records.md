@@ -44,5 +44,5 @@ Committee on Government Operations of House of Representatives treated as referr
 
 #### Classified National Security Information
 
-For provisions authorizing Archivist to review, downgrade, and declassify information of former Presidents under control of Archivist pursuant to this section, see Ex. Ord. No. 12958, §3.6(b)(4), Apr. 17, 1995, 60 F.R. 19835, set out as a note under section 435 of Title 50, War and National Defense.
+For provisions authorizing Archivist to review, downgrade, and declassify information of former Presidents under control of Archivist pursuant to this section, see Ex. Ord. No. 13526, §3.5(b), Dec. 29, 2009, 75 F.R. 718, set out as a note under section 435 of Title 50, War and National Defense.
 

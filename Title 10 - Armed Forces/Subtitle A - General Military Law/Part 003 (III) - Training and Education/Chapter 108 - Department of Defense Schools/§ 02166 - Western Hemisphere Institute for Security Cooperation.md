@@ -78,7 +78,7 @@ Board of Visitors.—(1) There shall be a Board of Visitors for the Institute. T
 
 (8) Members of the Board and advisers whose services are accepted under paragraph (7) shall be allowed travel and transportation expenses, including per diem in lieu of subsistence, while away from their homes or regular places of business in the performance of services for the Board. Allowances under this paragraph shall be computed—
 
-&emsp;(A) in the case of members of the Board who are officers or employees of the United States,at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5; and
+&emsp;(A) in the case of members of the Board who are officers or employees of the United States, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5; and
 
 &emsp;(B) in the case of other members of the Board and advisers, as authorized under section 5703 of title 5 for employees serving without pay.
 
@@ -104,7 +104,7 @@ Fixed Costs.—The fixed costs of operating and maintaining the Institute for a 
 
 (h)
 
-Tuition.—Tuition fees charged for persons who attend the Institute may not include the fixed costs of operating and maintaining the Institute.
+Tuition.—Tuition fees charged for persons who attend the Institute may not include thefixed costs of operating and maintaining the Institute.
 
 (i)
 

@@ -62,7 +62,7 @@ Each Federal land bank association shall be a body corporate and, subject to sup
 
 #### Prior Provisions
 
-A prior section 2093, Pub. L. 92–181, title II, §2.12, Dec. 10, 1971, 85 Stat. 598; Pub. L. 96–592, title II, §208, Dec. 24, 1980, 94 Stat. 3442; Pub. L. 99–205, title II, §205(e)(11),Dec. 23, 1985, 99 Stat. 1704; Pub. L. 100–233, title VII, §705(d), Jan. 6, 1988, 101 Stat. 1707; Pub. L. 100–399, title VI, §604, Aug. 17, 1988, 102 Stat. 1006, related to general corporate powers, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
+A prior section 2093, Pub. L. 92–181, title II, §2.12, Dec. 10, 1971, 85 Stat. 598; Pub. L. 96–592, title II, §208, Dec. 24, 1980, 94 Stat. 3442; Pub. L. 99–205, title II, §205(e)(11), Dec. 23, 1985, 99 Stat. 1704; Pub. L. 100–233, title VII, §705(d), Jan. 6, 1988, 101 Stat. 1707; Pub. L. 100–399, title VI, §604, Aug. 17, 1988, 102 Stat. 1006, related to general corporate powers, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
 
 #### Amendments
 

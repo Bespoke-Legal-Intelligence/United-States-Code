@@ -38,7 +38,7 @@
 
 &emsp;(B) with respect to the violator, the degree of culpability, any history of prior offenses, and other such matters as justice requires.
 
-(3) Transfer of ownership of a vessel, by sale or otherwise, shall not extinguish any permit sanction that is in effect or is pending at the time of transfer of ownership. Before executing the transfer of ownership of a vessel, by sale or otherwise, the owner shall disclose in writing tothe prospective transferee the existence of any permit sanction that will be in effect or pending with respect to the vessel at the time of transfer.
+(3) Transfer of ownership of a vessel, by sale or otherwise, shall not extinguish any permit sanction that is in effect or is pending at the time of transfer of ownership. Before executing the transfer of ownership of a vessel, by sale or otherwise, the owner shall disclose in writing to the prospective transferee the existence of any permit sanction that will be in effect or pending with respect to the vessel at the time of transfer.
 
 (4) In the case of any permit that is suspended for the failure to pay a civil penalty or criminal fine, the Secretary shall reinstate the permit upon payment of the penalty or fine and interest thereon at the prevailing rate.
 

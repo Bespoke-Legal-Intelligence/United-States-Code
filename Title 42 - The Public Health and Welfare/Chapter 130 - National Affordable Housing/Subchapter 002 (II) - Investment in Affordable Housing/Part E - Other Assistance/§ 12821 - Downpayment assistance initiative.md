@@ -64,7 +64,7 @@ The Secretary may award grants to participating jurisdictions to assist low-inco
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), for each fiscal year, of the amount allocated to each State under paragraph (1), the Secretary shall further allocate from such amount to each participating jurisdiction located within such State an amount equal to the percentage of the allocation made to the Stateunder paragraph (1) that is equal to the percentage of the State-wide total of low-income households residing in rental housing in such participating jurisdiction, as determined on the basis of the most recent census data compiled by the Bureau of the Census.
+&emsp;&emsp;Subject to subparagraph (B), for each fiscal year, of the amount allocated to each State under paragraph (1), the Secretary shall further allocate from such amount to each participating jurisdiction located within such State an amount equal to the percentage of the allocation made to the State under paragraph (1) that is equal to the percentage of the State-wide total of low-income households residing in rental housing in such participating jurisdiction, as determined on the basis of the most recent census data compiled by the Bureau of the Census.
 
 #### (B) Limitation
 
@@ -122,7 +122,7 @@ Not later than June 30, 2006, the Comptroller General of the United States shall
 
 #### (i) Sunset
 
-The Secretary shall have no authority to make grants under this Act after December 31, 2007.
+The Secretary shall have no authority to make grants under this section after December 31, 2011.
 
 #### (j) Relocation assistance and downpayment assistance
 
@@ -132,15 +132,15 @@ The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 
 
 There is authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2004 through 2007.
 
-(Pub. L. 101–625, title II, §271, Nov. 28, 1990, 104 Stat. 4124; Pub. L. 108–186, title I, §102, Dec. 16, 2003, 117 Stat. 2686.)
+(Pub. L. 101–625, title II, §271, Nov. 28, 1990, 104 Stat. 4124; Pub. L. 108–186, title I, §102, Dec. 16, 2003, 117 Stat. 2686; Pub. L. 111–8, div. I, title II, §229(4), Mar. 11, 2009, 123 Stat. 978.)
 
 #### References in Text
 
-This Act, referred to in subsec. (i), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, as amended, known as the Cranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
-
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (j), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, which is classified principally to chapter 61 (§4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (j), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
 
 #### Amendments
+
+2009—Subsec. (i). Pub. L. 111–8 substituted “section after December 31, 2011” for “Act after December 31, 2007”.
 
 2003—Pub. L. 108–186 amended section generally. Prior to amendment, section required the Comptroller General to carry out a study of ways in which financing for affordable housing may be made available to assist in the most efficient implementation of comprehensive housing affordability strategies of participating jurisdictions and to submit to Congress and the Secretary, not later than one year after Nov. 28, 1990, a report containing any recommendations for legislative or administrative actions needed to improve the availability of mortgage finance for affordable housing.
 

@@ -278,7 +278,7 @@ Resources for state medicaid agencies.—The Secretary of Health and Human Servi
 
 “(4)
 
-No requirement for contract.—Nothing in the provisions of, or amendments made by, this subsection \[amending this section\] shall require a State to enter into a contract with a Medicare Advantage organization with respect to a specialized MA plan for special needs individuals described in section 1859(b)(6)(B)(ii) of the Social Security Act (42 U.S.C. 1395w–28(b)(6)(B)(ii)), as amended by this section.”
+No requirement for contract.—Nothing in the provisions of, or amendments made by, this subsection\[amending this section\] shall require a State to enter into a contract with a Medicare Advantage organization with respect to a specialized MA plan for special needs individuals described in section 1859(b)(6)(B)(ii) of the Social Security Act (42 U.S.C. 1395w–28(b)(6)(B)(ii)), as amended by this section.”
 
 #### Panel of Clinical Advisors to Determine Conditions
 

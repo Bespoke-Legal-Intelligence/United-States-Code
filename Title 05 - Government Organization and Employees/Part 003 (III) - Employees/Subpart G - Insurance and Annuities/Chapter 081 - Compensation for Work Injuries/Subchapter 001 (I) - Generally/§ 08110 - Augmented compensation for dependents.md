@@ -4,7 +4,7 @@
 
 &emsp;(1) a wife, if—
 
-&emsp;&emsp;(A) she is member of the same household as the employee;
+&emsp;&emsp;(A) she is a member of the same household as the employee;
 
 &emsp;&emsp;(B) she is receiving regular contributions from the employee for her support; or
 

@@ -38,7 +38,7 @@ Changes were made in phraseology.
 
 Sections 6 and 10(a)(1) of the Contract Disputes Act of 1978, referred to in subsec. (a)(2), are classified to sections 605 and 609(a)(1), respectively, of Title 41, Public Contracts.
 
-The Tennessee Valley Authority Act of 1933, referred to in subsec. (c), is act May 18, 1933, ch. 32, 48 Stat. 58,as amended, which is classified generally to chapter 12A (§831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 831 of Title 16 and Tables.
+The Tennessee Valley Authority Act of 1933, referred to in subsec. (c), is act May 18, 1933, ch. 32, 48 Stat. 58, as amended, which is classified generally to chapter 12A (§831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 831 of Title 16 and Tables.
 
 #### Amendments
 
@@ -102,7 +102,7 @@ Section 12(b) of Pub. L. 104–320 provided that: “This section \[amending thi
 
 Amendment by section 902(a) of Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of this title.
 
-Section 907(b)(2) of Pub. L. 102–572 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to all actions filed before, on, or after the date of the enactment ofthis Act \[Oct. 29, 1992\], except for those actions which, before such date of enactment, have been the subject of—
+Section 907(b)(2) of Pub. L. 102–572 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to all actions filed before, on, or after the date of the enactment of this Act \[Oct. 29, 1992\], except for those actions which, before such date of enactment, have been the subject of—
 
 &emsp;“(A) a final judgment of the United States Claims Court, if the time for appeal of that judgment has expired without an appeal having been filed, or
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978, and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, set out as an Effective Date note under section 601 of Title 41, Public Contracts.
+Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978,and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, set out as an Effective Date note under section 601 of Title 41, Public Contracts.
 
 #### Effective Date of 1972 Amendment
 

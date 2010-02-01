@@ -258,9 +258,11 @@ Assessment From Adjusted Available Income (AAI)
 
 In the case of a student who is divorced or separated, or whose spouse has died, the spouse's income and assets shall not be considered in determining the family's available income or assets.
 
-(Pub. L. 89–329, title IV, §477, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1465; amended Pub. L. 100–50, §14(1)–(6), (8), (18), (19), June 3, 1987, 101 Stat. 349–351; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 597; Pub. L. 103–208, §2(g)(2), (7), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(i), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §475, Oct. 7, 1998, 112 Stat. 1730; Pub. L. 109–171, title VIII, §8017(c)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(c), Sept. 27, 2007, 121 Stat. 802.)
+(Pub. L. 89–329, title IV, §477, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1465; amended Pub. L. 100–50, §14(1)–(6), (8), (18), (19), June 3, 1987, 101 Stat. 349–351; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 597; Pub. L. 103–208, §2(g)(2), (7), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(i), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §475, Oct. 7, 1998, 112 Stat. 1730; Pub. L. 109–171, title VIII, §8017(c)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(c), Sept. 27, 2007, 121 Stat. 802; Pub. L. 111–39, title IV, §406(a)(3), July 1, 2009, 123 Stat. 1948.)
 
 #### Amendments
+
+2009—Subsec. (b)(5)(B). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to section 2 of title 26.
 
 2007—Subsec. (b)(4). Pub. L. 110–84 amended par. (4) generally. Prior to amendment, par. (4) consisted of a single table to be used to determine income protection allowances.
 
@@ -304,19 +306,23 @@ Subsec. (c)(4)(C). Pub. L. 100–50, §14(6), substituted “$16,000” for “$
 
 Subsec. (d). Pub. L. 100–50, §14(1), (8), substituted “section 1087rr of this title” for “section 1087ss of this title” in text and inserted a minus sign before “$3,409” in two places in table.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–84 effective July 1, 2009, see section 601(e) of Pub. L. 110–84, set out as a note under section 1087<i>oo</i> of this title.
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub.L. 109–171, set out as a note under section 1002 of this title.
 
 Pub. L. 109–171, title VIII, §8017(c)(2), Feb. 8, 2006, 120 Stat. 173, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to determinations of need for periods of enrollment beginning on or after July 1, 2007.”
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–244, effective Oct. 7, 1998, and applicable with respect to determinations of needunder this part for academic years beginning on or after July 1, 2000, see section 480A of Pub. L. 105–244, set out as a note under section 1087kk of this title.
+Amendment by Pub. L. 105–244, effective Oct. 7, 1998, and applicable with respect to determinations of need under this part for academic years beginning on or after July 1, 2000, see section 480A of Pub. L. 105–244, set out as a note under section 1087kk of this title.
 
 #### Effective Date of 1993 Amendment
 

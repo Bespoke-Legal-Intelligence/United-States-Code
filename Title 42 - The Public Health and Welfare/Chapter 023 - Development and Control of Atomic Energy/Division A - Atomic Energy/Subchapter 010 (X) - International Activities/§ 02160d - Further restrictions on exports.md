@@ -40,9 +40,9 @@ Except as provided in subsection (b) of this section, the Commission may issue a
 
 &emsp;The Commission may issue a license authorizing the export (including shipment to and use at intermediate and ultimate consignees specified in the license) to a recipient country of highly enriched uranium for medical isotope production if, in addition to any other requirements of this chapter (except subsection (a) of this section), the Commission determines that—
 
-&emsp;&emsp;(A) a recipient country that supplies an assurance letter to the United States Government in connection with the consideration by the Commission of the export license application has informed the United StatesGovernment that any intermediate consignees and the ultimate consignee specified in the application are required to use the highly enriched uranium solely to produce medical isotopes; and
+&emsp;&emsp;(A) a recipient country that supplies an assurance letter to the United States Government in connection with the consideration by the Commission of the export license application has informed the United States Government that any intermediate consignees and the ultimate consignee specified in the application are required to use the highly enriched uranium solely to produce medical isotopes; and
 
-&emsp;&emsp;(B) the highly enriched uranium for medical isotope production will be irradiated only in a reactor in a recipient country that—
+&emsp;&emsp;(B) the highly enriched uranium for medical isotope production will be irradiatedonly in a reactor in a recipient country that—
 
 &emsp;&emsp;&emsp;(i) uses an alternative nuclear reactor fuel; or
 
@@ -112,7 +112,7 @@ As used in this section—
 
 &emsp;(3) a fuel or target “can be used” in a nuclear research or test reactor if—
 
-&emsp;&emsp;(A) the fuel or target has been qualified by the Reduced Enrichment Research and TestReactor Program of the Department of Energy, and
+&emsp;&emsp;(A) the fuel or target has been qualified by the Reduced Enrichment Research and Test Reactor Program of the Department of Energy, and
 
 &emsp;&emsp;(B) use of the fuel or target will permit the large majority of ongoing and planned experiments and isotope production to be conducted in the reactor without a large percentage increase in the total cost of operating the reactor.
 

@@ -88,7 +88,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (13) Financial risk management research and extension
 
-&emsp;Research and extension grants may be made under this section for the purpose of providingresearch, development, or education materials, information, and outreach programs regarding financial risk management strategies for agricultural producers and for cooperatives and other processors and marketers of any agricultural commodity.
+&emsp;Research and extension grants may be made under this section for the purpose of providing research, development, or education materials, information, and outreach programs regarding financial risk management strategies for agricultural producers and for cooperatives and other processors and marketers of any agricultural commodity.
 
 #### (14) Ornamental tropical fish research and extension
 
@@ -128,7 +128,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (23) Environment and private lands research and extension
 
-&emsp;Research and extension grants may be made under this section for the purpose of researching the use of computer models to aid in assessment of best management practices on a watershed basis, working with government, industry, and private landowners to help craft industry-led solutions to identified environmental issues, researching and monitoring water, air, or soil environmental quality to aid in the development of new approaches to local environmental concerns, and working with local, State, and federal officials to help craft effective environmental solutions that respect private property rights and agricultural production realities.
+&emsp;Research and extension grants may be made under this section for the purpose of researching the use of computer models to aid in assessment of best management practices on a watershed basis, working with government, industry, and private landowners to help craft industry-led solutions to identified environmental issues, researching and monitoring water, air, or soil environmental quality toaid in the development of new approaches to local environmental concerns, and working with local, State, and federal officials to help craft effective environmental solutions that respect private property rights and agricultural production realities.
 
 #### (24) Livestock disease research and extension
 
@@ -264,7 +264,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (1) Task force
 
-&emsp;The Secretary shall establish a task force pursuant to subsection (b)(2) of this section regarding the control, management, and eradication of imported fire ants. The Secretary shall solicit and evaluate grant proposals under this subsection in consultation with the task force.
+&emsp;The Secretary shall establish a task force pursuant to subsection (b)(2) of this section regarding the control, management, and eradication of imported fire ants. The Secretary shall solicit and evaluate grant proposalsunder this subsection in consultation with the task force.
 
 #### (2) Initial grants
 
@@ -284,7 +284,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (B) Selection
 
-&emsp;&emsp;On the basis of the evaluation under subparagraph (A), the Secretary may select the projects that the Secretary considers most promising for additional research or demonstration related to preparation of a national plan for the control, management,and possible eradication of imported fire ants. The Secretary shall notify the task force of the projects selected under this subparagraph.
+&emsp;&emsp;On the basis of the evaluation under subparagraph (A), the Secretary may select the projects that the Secretary considers most promising for additional research or demonstration related to preparation of a national plan for the control, management, and possible eradication of imported fire ants. The Secretary shall notify the task force of the projects selected under this subparagraph.
 
 #### (4) Selection and submission of national plan
 
@@ -456,7 +456,7 @@ Subsec. (g). Pub. L. 104–127, §863, redesignated subsec. (k) as (g) and struc
 
 &emsp;“(2) that experience difficulty in delivering products to market due to geographic isolation.”
 
-Subsec. (h). Pub. L. 104–127, §863(1), struck out subsec. (h) which provided that Secretary of Agriculture mayestablish and carry out a program to conduct research on disease of scrapie in sheep and goats.
+Subsec. (h). Pub. L. 104–127, §863(1), struck out subsec. (h) which provided that Secretary of Agriculture may establish and carry out a program to conduct research on disease of scrapie in sheep and goats.
 
 Subsec. (i). Pub. L. 104–127, §§836, 863(2), redesignated subsec. (i) as (f) and substituted “1997” for “1995”.
 

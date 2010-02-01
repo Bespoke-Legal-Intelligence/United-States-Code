@@ -90,7 +90,7 @@ The term of an obligation shall require full repayment over a period not to exce
 
 &emsp;&emsp;(iii) the probable net benefit to the Federal Government in paying the principal and interest will be greater than that which would result in the event of a default;
 
-&emsp;&emsp;(B) the amount of the payment that the Secretary is authorized to pay shall be no greater than the amount of principal and interest that the borrower is obligated to pay under the agreement being guaranteed; and
+&emsp;&emsp;(B) the amount of the payment that the Secretary is authorized to pay shall be nogreater than the amount of principal and interest that the borrower is obligated to pay under the agreement being guaranteed; and
 
 &emsp;&emsp;(C) the borrower agrees to reimburse the Secretary for the payment (including interest) on terms and conditions that are satisfactory to the Secretary.
 
@@ -136,9 +136,19 @@ The term of an obligation shall require full repayment over a period not to exce
 
 The full faith and credit of the United States is pledged to the payment of all guarantees issued under this section with respect to principal and interest.
 
-(Pub. L. 109–58, title XVII, §1702, Aug. 8, 2005, 119 Stat. 1117.)
+#### (k) Wage rate requirements
+
+All laborers and mechanics employed by contractors and subcontractors in the performance of construction work financed in whole or in part by a loan guaranteed under this subchapter shall be paid wages at rates not less than those prevailing on projects of a character similar in the locality as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40. With respect to the labor standards in this subsection, the Secretary of Labor shall have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (64 Stat. 1267; 5 U.S.C. App.) and section 3145 of title 40.
+
+(Pub. L. 109–58, title XVII, §1702, Aug. 8, 2005, 119 Stat. 1117; Pub. L. 111–85, title III, §310, Oct. 28, 2009, 123 Stat. 2873.)
 
 #### References in Text
 
-Division C of Public Law 108–324, referred to in subsec. (a), is division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, as amended, known as the Alaska Natural Gas Pipeline Act, which is classified principally to chapter 15D (§720 et seq.) of Title 15, Commerce and Trade. For complete classification of division C to the Code, see Short Title note set out under section 720 of Title 15 and Tables.
+Division C of Public Law 108–324, referred to in subsec. (a), is division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, known as the Alaska Natural Gas Pipeline Act, which is classified principally to chapter 15D (§720 et seq.) of Title 15, Commerce and Trade. For complete classification of division C to the Code, see Short Title note set out under section 720 of Title 15 and Tables.
+
+Reorganization Plan Numbered 14 of 1950, referred to in subsec. (k), is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2009—Subsec. (k). Pub. L. 111–85 added subsec. (k).
 

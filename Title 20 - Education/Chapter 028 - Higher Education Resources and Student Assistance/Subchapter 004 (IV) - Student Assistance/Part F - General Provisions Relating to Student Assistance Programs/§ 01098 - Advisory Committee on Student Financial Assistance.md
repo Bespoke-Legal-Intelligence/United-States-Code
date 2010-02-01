@@ -24,7 +24,7 @@
 
 #### (b) Independence of Advisory Committee
 
-In the exercise of its functions, powers, and duties, the Advisory Committee shall be independent of the Secretary and the other offices and officers of the Department. Notwithstanding Department of Education policies and regulations, the Advisory Committee shall exert independent control of its budget allocations, expenditures and staffing levels, personnel decisions and processes, procurements, and other administrative and management functions. The Advisory Committee's administration and management shall be subject to the usual and customary Federal audit procedures. Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary. The recommendations of the Committee shall not be subject to review or approval by any officer in the executive branch, but may be submitted to the Secretary for comment prior to submission to the authorizing committees in accordance with subsection (f) of this section. The Secretary's authority to terminate advisory committees of the Department pursuant to section 1233g(b) <sup>1</sup> of this title ceased to be effective on June 23, 1983.
+In the exercise of its functions, powers, and duties, the Advisory Committee shall be independent of the Secretary and the other offices and officers of the Department. Notwithstanding Department of Education policies and regulations, the Advisory Committee shall exert independent control of its budget allocations, expenditures and staffing levels, personnel decisions and processes, procurements, and other administrative and management functions. The Advisory Committee's administration and management shall be subject to the usual and customary Federal audit procedures. Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary. The recommendations of the Committee shall not be subject to review or approval by any officer in the executive branch, but may be submitted to the Secretary for comment prior to submission to the authorizing committees in accordance with subsection (f) of this section. The Secretary's authority to terminate advisory committees of the Department pursuant to section1233g(b) <sup>1</sup> of this title ceased to be effective on June 23, 1983.
 
 #### (c) Membership
 
@@ -156,7 +156,7 @@ Notwithstanding the sunset and charter provisions of the Federal Advisory Commit
 
 &emsp;&emsp;&emsp;(i) monitor all Federal regulations, including notices of proposed rulemaking, for their impact or potential impact on higher education; and
 
-&emsp;&emsp;&emsp;(ii) provide a succinct description of each regulation or proposed regulation that is generally relevant to institutions of higher education from all sectors.
+&emsp;&emsp;&emsp;(ii) provide a succinct description of each regulation or proposed regulation that isgenerally relevant to institutions of higher education from all sectors.
 
 #### (C) Maintenance of public website
 
@@ -238,7 +238,7 @@ Notwithstanding the sunset and charter provisions of the Federal Advisory Commit
 
 &emsp;&emsp;The Advisory Committee shall, not later than three years after August 14, 2008, prepare and submit to the authorizing committees and the Secretary a final report on the study, including recommendations for legislative, regulatory, and administrative changes based on findings related to the topics identified under paragraph (2).
 
-(Pub. L. 89–329, title IV, §491, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1492; amended Pub. L. 100–50, §15(16)–(18), June 3, 1987, 101 Stat. 357; Pub. L. 102–325, title IV, §496, July 23, 1992, 106 Stat. 631; Pub. L. 103–208, §2(h)(45), (46), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §490C, Oct. 7, 1998, 112 Stat. 1754; Pub. L. 110–315, title IV, §494C, Aug. 14, 2008, 122 Stat. 3319.)
+(Pub. L. 89–329, title IV, §491, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1492; amended Pub. L. 100–50, §15(16)–(18), June 3, 1987, 101 Stat. 357; Pub. L. 102–325, title IV, §496, July 23, 1992, 106 Stat. 631; Pub. L. 103–208, §2(h)(45), (46), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §490C, Oct. 7, 1998, 112 Stat. 1754; Pub. L. 110–315, title IV, §494C, Aug. 14, 2008, 122 Stat. 3319; Pub. L. 111–39, title IV, §407(b)(11), July 1, 2009, 123 Stat. 1953.)
 
 #### References in Text
 
@@ -254,9 +254,11 @@ The Higher Education Opportunity Act, referred to in subsec. (<i>l</i>)(4)(A), i
 
 #### Prior Provisions
 
-A prior section 1098, Pub. L. 89–329, title IV, §491, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94Stat. 1454; amended Pub. L. 98–79, §11, Aug. 15, 1983, 97 Stat. 484, related to a National Commission on Student Financial Assistance, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1098, Pub. L. 89–329, title IV, §491, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1454; amended Pub. L. 98–79, §11, Aug. 15, 1983, 97 Stat. 484, related to a National Commission on Student Financial Assistance, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2009—Subsec. (<i>l</i>)(2)(A). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to August 14, 2008.
 
 2008—Subsec. (a)(1). Pub. L. 110–315, §494C(b), substituted “authorizing committees” for “Congress”.
 
@@ -335,6 +337,10 @@ Subsecs. (j) to (<i>l</i>). Pub. L. 102–325, §496(e), added subsecs. (j) to (
 Subsec. (i). Pub. L. 100–50, §15(17), substituted “In each fiscal year not less than $500,000” for “An amount, not to exceed $500,000 in any fiscal year”.
 
 Subsec. (j). Pub. L. 100–50, §15(18), added subsec. (j).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1998 Amendment
 

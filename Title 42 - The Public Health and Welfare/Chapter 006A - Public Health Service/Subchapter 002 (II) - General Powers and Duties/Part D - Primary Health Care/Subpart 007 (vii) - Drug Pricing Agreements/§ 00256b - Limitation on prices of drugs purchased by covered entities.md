@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall enter into an agreement with each manufacturer of covered drugs under which the amount required to be paid\(taking into account any rebate or discount, as provided by the Secretary) to the manufacturer for covered drugs (other than drugs described in paragraph (3)) purchased by a covered entity on or after the first day of the first month that begins after November 4, 1992, does not exceed an amount equal to the average manufacturer price for the drug under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] in the preceding calendar quarter, reduced by the rebate percentage described in paragraph (2).
+&emsp;The Secretary shall enter into an agreement with each manufacturer of covered drugs under which the amount required to be paid (taking into account any rebate or discount, as provided by the Secretary) to the manufacturer for covered drugs (other than drugs described in paragraph (3)) purchased by a covered entity on or after the first day of the first month that begins after November 4, 1992, does not exceed an amount equal to the average manufacturer price for the drug under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] in the preceding calendar quarter, reduced by the rebate percentage described in paragraph (2).
 
 #### (2) “Rebate percentage” defined
 
@@ -100,7 +100,7 @@
 
 #### (B) Inclusion of purchase information
 
-&emsp;&emsp;The process developed under subparagraph (A) shall include a requirement that an entity applying for certification under this paragraph submit information to the Secretary concerning the amount such entity expended for covered outpatient drugs in the preceding year so as to assist the Secretary in evaluating the validity of the entity's subsequent purchases of covered outpatient drugs at discounted prices.
+&emsp;&emsp;The process developed under subparagraph (A) shall include a requirement that an entity applying for certification under this paragraph submit information to the Secretary concerning the amount such entity expended for covered outpatient drugs in thepreceding year so as to assist the Secretary in evaluating the validity of the entity's subsequent purchases of covered outpatient drugs at discounted prices.
 
 #### (C) Criteria
 
@@ -136,7 +136,7 @@ Any reference in this section to a provision of the Social Security Act \[42 U.S
 
 #### (d) Compliance with requirements
 
-A manufacturer is deemed to meet the requirements of subsection (a) of this section ifthe manufacturer establishes to the satisfaction of the Secretary that the manufacturer would comply (and has offered to comply) with the provisions of this section (as in effect immediately after November 4, 1992), as applied by the Secretary, and would have entered into an agreement under this section (as such section was in effect at such time), but for a legislative change in this section (or the application of this section) after November 4, 1992.
+A manufacturer is deemed to meet the requirements of subsection (a) of this section if the manufacturer establishes to the satisfaction of the Secretary that the manufacturer would comply (and has offered to comply) with the provisions of this section (as in effect immediately after November 4, 1992), as applied by the Secretary, and would have entered into an agreement under this section (as such section was in effect at such time), but for a legislative change in this section (or the application of this section) after November 4, 1992.
 
 (July 1, 1944, ch. 373, title III, §340B, as added Pub. L. 102–585, title VI, §602(a), Nov. 4, 1992, 106 Stat. 4967; amended Pub. L. 103–43, title XX, §2008(i)(1)(A), June 10, 1993, 107 Stat. 212.)
 
@@ -164,5 +164,5 @@ Another section 340B of act July 1, 1944, was renumbered section 340C and is cla
 
 #### Study of Treatment of Certain Clinics as Covered Entities Eligible for Prescription Drug Discounts
 
-Section 602(b) of Pub. L. 102–585 directed Secretary of Health and Human Services to conduct a study of feasibility and desirability of including specified entities receiving funds from a State as covered entities eligible for limitations on prices of covered outpatient drugs under 42 U.S.C. 256b(a) and, not later than 1 year after Nov. 4, 1992, to submit a report to Congress on the study, including in the report a description of the entities that were the subject of the study, an analysis of the extent to which such entities procured prescription drugs, and an analysis of the impact of the inclusion of such entities as covered entities on the quality of care provided to and the health status of the patients of such entities.
+Section 602(b) of Pub. L. 102–585 directed Secretary of Health and Human Services to conduct a study of feasibility and desirability of including specified entities receiving funds from a State as covered entities eligible for limitations on prices of covered outpatient drugs under 42 U.S.C. 256b(a) and, not later than 1 year after Nov. 4, 1992, to submit a report to Congress on the study, including in the report a description of the entities that were the subject of the study, an analysis of the extent to which such entities procured prescriptiondrugs, and an analysis of the impact of the inclusion of such entities as covered entities on the quality of care provided to and the health status of the patients of such entities.
 

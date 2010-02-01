@@ -74,7 +74,7 @@
 
 #### (d) Establishment of fees
 
-(1) The Secretary shall by regulation establish the level of any fees which are authorized to becharged pursuant to section 1853(b)(1) of this title. The Secretary may enter into a cooperative agreement with the States concerned under which the States administer the permit system and the agreement may provide that all or part of the fees collected under the system shall accrue to the States. The level of fees charged under this subsection shall not exceed the administrative costs incurred in issuing the permits.
+(1) The Secretary shall by regulation establish the level of any fees which are authorized to be charged pursuant to section 1853(b)(1) of this title. The Secretary may enter into a cooperative agreement with the States concerned under which the States administer the permit system and the agreement may provide that all or part of the fees collected under the system shall accrue to the States. The level of fees charged under this subsection shall not exceed the administrative costs incurred in issuing the permits.
 
 (2)(A) Notwithstanding paragraph (1), the Secretary is authorized and shall collect a fee to recover the actual costs directly related to the management, data collection, and enforcement of any—
 
@@ -94,15 +94,15 @@
 
 (2) If the Secretary determines at any time that a fishery is overfished, the Secretary shall immediately notify the appropriate Council and request that action be taken to end overfishing in the fishery and to implement conservation and management measures to rebuild affected stocks of fish. The Secretary shall publish each notice under this paragraph in the Federal Register.
 
-(3) Within one year of an identification under paragraph (1) or notification under paragraphs (2) or (7), the appropriate Council (or the Secretary, for fisheries under section 1852(a)(3) of this title) shall prepare a fishery management plan, plan amendment, or proposed regulations for the fishery to which the identification or notice applies—
+(3) Within 2 years after an identification under paragraph (1) or notification under paragraphs (2) or (7), the appropriate Council (or the Secretary, for fisheries under section 1852(a)(3) of this title) shall prepare and implement a fishery management plan, plan amendment, or proposed regulations for the fishery to which the identification or notice applies—
 
-&emsp;(A) to end overfishing in the fishery and to rebuild affected stocks of fish; or
+&emsp;(A) to end overfishing immediately in the fishery and to rebuild affected stocks of fish; or
 
 &emsp;(B) to prevent overfishing from occurring in the fishery whenever such fishery is identified as approaching an overfished condition.
 
 (4) For a fishery that is overfished, any fishery management plan, amendment, or proposed regulations prepared pursuant to paragraph (3) or paragraph (5) for such fishery shall—
 
-&emsp;(A) specify a time period for ending overfishing and rebuilding the fishery that shall—
+&emsp;(A) specify a time period for rebuilding the fishery that shall—
 
 &emsp;&emsp;(i) be as short as possible, taking into account the status and biology of any overfished stocks of fish, the needs of fishing communities, recommendations by international organizations in which the United States participates, and the interaction of the overfished stock of fish within the marine ecosystem; and
 
@@ -112,7 +112,7 @@
 
 &emsp;(C) for fisheries managed under an international agreement, reflect traditional participation in the fishery, relative to other nations, by fishermen of the United States.
 
-(5) If, within the one-year period beginning on the date of identification or notification that a fishery is overfished, the Council does not submit to the Secretary a fishery management plan, plan amendment, or proposed regulations required by paragraph (3)(A), the Secretary shall prepare a fishery management plan or plan amendment and any accompanying regulations to stop overfishing and rebuild affected stocks of fish within 9 months under subsection (c) of this section.
+(5) If, within the 2-year period beginning on the date of identification or notification that a fishery is overfished, the Council does not submit to the Secretary a fishery management plan, plan amendment, or proposed regulations required by paragraph (3)(A), the Secretary shall prepare a fishery management plan or plan amendment and any accompanying regulations to stop overfishing and rebuild affected stocks of fish within 9 months under subsection (c) of this section.
 
 (6) During the development of a fishery management plan, a plan amendment, or proposed regulations required by this subsection, the Council may request the Secretary to implement interim measures to reduce overfishing under section 1855(c) of this title until such measures can be replaced by such plan, amendment, or regulations. Such measures, if otherwise in compliance with the provisions of this chapter, may be implemented even though they are not sufficient by themselves to stop overfishing of a fishery.
 
@@ -178,7 +178,7 @@ The Secretary may repeal or revoke a fishery management plan for a fishery under
 
 &emsp;&emsp;(A) conform to the time lines for review and approval of fishery management plans and plan amendments under this section; and
 
-&emsp;&emsp;(B) integrate applicable environmental analytical procedures, including the time frames for public input, with the procedure for the preparation and dissemination of fishery management plans, plan amendments, and other actions taken or approved pursuant to this chapter in order to provide for timely, clear and concise analysis that isuseful to decision makers and the public, reduce extraneous paperwork, and effectively involve the public.
+&emsp;&emsp;(B) integrate applicable environmental analytical procedures, including the time frames for public input, with the procedure for the preparation and dissemination of fishery management plans, plan amendments, and other actions taken or approved pursuant to this chapter in order to provide for timely, clear and concise analysis that is useful to decision makers and the public, reduce extraneous paperwork, and effectively involve the public.
 
 #### (2) Usage
 
@@ -206,25 +206,11 @@ The provisions of this subsection shall apply in lieu of subsection (e) to a fis
 
 &emsp;(2) within 1 year after the Secretary's determination, the appropriate Council, or Secretary, for fisheries under section 1852(a)(3) of this title shall—
 
-&emsp;&emsp;(A) develop recommendations for domestic regulations to address the relative impact of fishing vessels of the United States on the stock and, if developed by a Council, the Council shall submit such recommendations to the Secretary; and
+&emsp;&emsp;(A) develop recommendations for domestic regulations to address the relative impact of fishing vessels of the United States on the stock and, if developed by a Council, theCouncil shall submit such recommendations to the Secretary; and
 
 &emsp;&emsp;(B) develop and submit recommendations to the Secretary of State, and to the Congress, for international actions that will end overfishing in the fishery and rebuild the affected stocks, taking into account the relative impact of vessels of other nations and vessels of the United States on the relevant stock.
 
 (Pub. L. 94–265, title III, §304, Apr. 13, 1976, 90 Stat. 352; Pub. L. 97–453, §7(a), Jan. 12, 1983, 96 Stat. 2487; Pub. L. 99–659, title I, §106, Nov. 14, 1986, 100 Stat. 3712; Pub. L. 101–627, title I, §§110(a), (b)(1), (c), 111(a)(2), 120(d), Nov. 28, 1990, 104 Stat. 4449–4452, 4459; Pub. L. 102–567, title III, §303, Oct. 29, 1992, 106 Stat. 4283; Pub. L. 103–206, title VII, §702, Dec. 20, 1993, 107 Stat. 2446; Pub. L. 104–297, title I, §109(a)–(c), (e)–(g), (i), Oct. 11, 1996, 110 Stat. 3581–3585, 3587; Pub. L. 109–479, §3(d)(2), title I, §§104(c), 106(b), (d), 107, title IV, §406, Jan. 12, 2007, 120 Stat. 3578, 3584, 3593, 3594, 3633.)
-
-#### Amendment of Subsection (e)
-
-<i>Pub. L. 109–479, title I, §104(c), (d), Jan. 12, 2007, 120 Stat. 3584, 3585, provided that, effective 30 months after Jan. 12, 2007, subsection (e) of this section is amended:</i>
-
-<i>(1) by striking “one year of” in paragraph (3) and inserting “2 years after”;</i>
-
-<i>(2) by inserting “and implement” after “prepare” in paragraph (3);</i>
-
-<i>(3) by inserting “immediately” after “overfishing” in paragraph (3)(A);</i>
-
-<i>(4) by striking “ending overfishing and” in paragraph (4)(A); and</i>
-
-<i>(5) by striking “one-year” in paragraph (5) and inserting “2-year”.</i>
 
 #### References in Text
 
@@ -247,6 +233,14 @@ Subsec. (d)(2)(A). Pub. L. 109–479, §106(b), substituted “management, data 
 Subsec. (d)(2)(A)(i). Pub. L. 109–479, §3(d)(2)(B), substituted “limited access privilege” for “individual fishing quota”.
 
 Subsec. (d)(2)(C)(i). Pub. L. 109–479, §106(d), substituted “section 1855(h)(5)(B) of this title.” for “section 1855(h)(5)(B) of this title, except that the portion of any such fees reserved under section 1853(d)(4)(A) of this title shall be deposited in the Treasury and available, subject to annual appropriations, to cover the costs of new direct loan obligations and new loan guarantee commitments as required by section 661c(b)(1) of title 2.”
+
+Subsec. (e)(3). Pub. L. 109–479, §104(c)(1), (2), substituted “2 years after” for “one year of” and inserted “and implement” after “prepare” in introductory provisions.
+
+Subsec. (e)(3)(A). Pub. L. 109–479, §104(c)(3), inserted “immediately” after “overfishing”.
+
+Subsec. (e)(4)(A). Pub. L. 109–479, §104(c)(4), struck out “ending overfishing and” before “rebuilding” in introductory provisions.
+
+Subsec. (e)(5). Pub. L. 109–479, §104(c)(5), substituted “2-year” for “one-year”.
 
 Subsec. (g)(2). Pub. L. 109–479, §406(b), substituted “(16 U.S.C. 971d), or highly migratory species harvested in a commercial fishery managed by a Council under this Act or the Western and Central Pacific Fisheries Convention Implementation Act,” for “(16 U.S.C. 971d)”.
 
@@ -328,7 +322,7 @@ Subsec. (c)(2)(B). Pub. L. 99–659, §106(3)(C), substituted “60-day” for �
 
 Subsec. (e). Pub. L. 99–659, §106(4), inserted “, in cooperation with the Councils,”, “and on the economics of the fisheries”, and “The Secretary shall annually review and update the comprehensive program and make the results of the review and update available to the Councils.”
 
-1983—Subsec. (a). Pub. L. 97–453, §7(a)(1), amended subsec. (a) generally, which had provided that within 60 days after the Secretary received any fishery management plan, or any amendment to any such plan, which was prepared by any Council, the Secretary was to review such plan or amendment pursuant to subsection\(b) of this section, notify such Council in writing of his approval, disapproval, or partial disapproval of such plan or amendment, and that in the case of disapproval or partial disapproval, the Secretary was to include in such notification a statement and explanation of the Secretary's objections and the reasons therefor, suggestions for improvement, a request to such Council to change such plan or amendment to satisfy the objections, and a request to resubmit the plan or amendment, as so modified, to the Secretary within 45 days after the date on which the Council received such notification.
+1983—Subsec. (a). Pub. L. 97–453, §7(a)(1), amended subsec. (a) generally, which had provided that within 60 days after the Secretary received any fishery management plan, or any amendment to any such plan, which was prepared by any Council, the Secretary was to review such plan or amendment pursuant to subsection (b) of this section, notify such Council in writing of his approval, disapproval, or partial disapproval of such plan or amendment, and that in the case of disapproval or partial disapproval, the Secretary was to include in such notification a statement and explanation of the Secretary's objections and the reasons therefor, suggestions for improvement, a request to such Council to change such plan or amendment to satisfy the objections, and a request to resubmit the plan or amendment, as so modified, to the Secretary within 45 days after the date on which the Council received such notification.
 
 Subsec. (b). Pub. L. 97–453, §7(a)(1), amended subsec. (b) generally, which had provided that the Secretary was to review any fishery management plan, and any amendment to any such plan, prepared by any Council and submitted to him to determine whether it was consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that in carrying out such review, the Secretary was to consult with the Secretary of State with respect to foreign fishing, and the Secretary of the department in which the Coast Guard was operating with respect to enforcement at sea.
 
@@ -344,7 +338,7 @@ Pub. L. 109–479, title I, §104(d), Jan. 12, 2007, 120 Stat. 3585, provided th
 
 #### Effective Date of 1983 Amendment
 
-Section 7(b) of Pub. L. 97–453 provided that: “The amendments made by subsection (a) \[amending this section\] shall only apply with respect to fishery management plans and amendments thereto that are initially submitted to the Secretary of Commerce on or after the date of the enactment of this Act \[Jan. 12, 1983\] for action under section 304 \[this section\].”
+Section 7(b) of Pub. L. 97–453 provided that: “The amendments made by subsection (a) \[amending this section\] shall only apply with respect to fishery management plans and amendments thereto that are initially submitted to the Secretary of Commerce on orafter the date of the enactment of this Act \[Jan. 12, 1983\] for action under section 304 \[this section\].”
 
 #### Transfer of Functions
 

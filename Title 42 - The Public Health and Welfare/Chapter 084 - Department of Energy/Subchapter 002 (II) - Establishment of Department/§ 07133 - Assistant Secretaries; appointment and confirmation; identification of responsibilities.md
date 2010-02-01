@@ -1,6 +1,6 @@
 ### §7133. Assistant Secretaries; appointment and confirmation; identification of responsibilities
 
-(a) There shall be in the Department 7 Assistant Secretaries, each of whom shall be appointed by the President, by and with the advice and consent of the Senate; who shall be compensated at the rate provided for at level IV of the Executive Schedule under section 5315 of title 5; and who shall perform, in accordance with applicable law, such of the functions transferred or delegated to, or vested in, the Secretary as he shall prescribe in accordance with the provisions of this chapter. The functions which the Secretary shall assign to the Assistant Secretaries include, but are not limited to, the following:
+(a) There shall be in the Department 8 Assistant Secretaries, each of whom shall be appointed by the President, by and with the advice and consent of the Senate; who shall be compensated at the rate provided for at level IV of the Executive Schedule under section 5315 of title 5; and who shall perform, in accordance with applicable law, such of the functions transferred or delegated to, or vested in, the Secretary as he shall prescribe in accordance with the provisions of this chapter. The functions which the Secretary shall assign to the Assistant Secretaries include, but are not limited to, the following:
 
 &emsp;(1) Energy resource applications, including functions dealing with management of all forms of energy production and utilization, including fuel supply, electric power supply, enriched uranium production, energy technology programs, and the management of energy resource leasing procedures on Federal lands.
 
@@ -52,9 +52,11 @@
 
 (b) At the time the name of any individual is submitted for confirmation to the position of Assistant Secretary, the President shall identify with particularity the function or functions described in subsection (a) of this section (or any portion thereof) for which such individual will be responsible.
 
-(Pub. L. 95–91, title II, §203, Aug. 4, 1977, 91 Stat. 570; Pub. L. 106–65, div. C, title XXXII, §3294(a)(2), (b), Oct. 5, 1999, 113 Stat. 970; Pub. L. 109–58, title X, §1006(b)(1), Aug. 8, 2005, 119 Stat. 931.)
+(Pub. L. 95–91, title II, §203, Aug. 4, 1977, 91 Stat. 570; Pub. L. 106–65, div. C, title XXXII, §3294(a)(2), (b), Oct. 5, 1999, 113 Stat. 970; Pub. L.109–58, title X, §1006(b)(1), Aug. 8, 2005, 119 Stat. 931; Pub. L. 111–11, title XIII, §13004(a), Mar. 30, 2009, 123 Stat. 1449.)
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–11 substituted “8 Assistant Secretaries” for “7 Assistant Secretaries” in introductory provisions.
 
 2005—Subsec. (a). Pub. L. 109–58 substituted “7” for “six” in introductory provisions.
 
@@ -80,7 +82,7 @@ Pub. L. 98–381, title I, §107, Aug. 17, 1984, 98 Stat. 1339, provided that:
 
 “(c) In the marketing and exchanging of Navajo surplus, the Secretary of the Interior shall adopt the plan deemed most acceptable, after consultation with the Secretary of Energy, the Governor of Arizona, and the Central Arizona Water Conservation District (or its successor in interest to the repayment obligation for the Central Arizona project), for the purposes of optimizing the availability of Navajo surplus and providing financial assistance in the timely construction and repayment of construction costs of authorized features of the Central Arizona project. The Secretary of the Interior, in concert with the Secretary of Energy, in accordance with section 14 of the Reclamation Project Act of 1939 \[43 U.S.C. 389\], shall grant electrical power and energy exchange rights with Arizona entities as necessary to implement the adopted plan: <i>Provided, however</i>, That if exchange rights with Arizona entities are not required to implement the adopted plan, exchange rights may be offered to other entities.
 
-“(d) For the purposes provided in subsection (c) of this section, the Secretary of Energy, or the marketing entity or entities under the adopted plan, are authorized to establish and collect or cause to be established and collected, rate components, in addition to those currently authorized, and to deposit the revenues received in the Lower Colorado River Basin Development Fund to be available for such purposes and if required under the adopted plan, to credit, utilize, pay over directly or assign revenues from such additional rate components to make repayment and establish reservesfor repayment of funds, including interest incurred, to entities which have advanced funds for the purposes of subsection (c) of this section: <i>Provided, however</i>, That rates shall not exceed levels that allow for an appropriate saving for the contractor.
+“(d) For the purposes provided in subsection (c) of this section, the Secretary of Energy, or the marketing entity or entities under the adopted plan, are authorized to establish and collect or cause to be established and collected, rate components, in addition to those currently authorized, and to deposit the revenues received in the Lower Colorado River Basin Development Fund to be available for such purposes and if required under the adopted plan, to credit, utilize, pay over directly or assign revenues from such additional rate components to make repayment and establish reserves for repayment of funds, including interest incurred, to entities which have advanced funds for the purposes of subsection (c) of this section: <i>Provided, however</i>, That rates shall not exceed levels that allow for an appropriate saving for the contractor.
 
 “(e) To the extent that this section may be in conflict with any other provision of law relating to the marketing and exchange of Navajo surplus, or to the disposition of any revenues therefrom, this section shall control.”
 

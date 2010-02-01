@@ -26,7 +26,7 @@ The purposes of any grant under subsection (b) are—
 
 To be eligible to receive a grant under subsection (b), an eligible entity shall—
 
-&emsp;(1) submit an application to the Secretary of Commerce, at such time, in such manner, andcontaining such information as the Secretary may require;
+&emsp;(1) submit an application to the Secretary of Commerce, at such time, in such manner, and containing such information as the Secretary may require;
 
 &emsp;(2) contribute matching non-Federal funds in an amount equal to not less than 20 percent of the total amount of the grant; and
 

@@ -16,7 +16,7 @@ All special taxes under this subchapter shall be imposed as of on the first day 
 
 #### (2) Stamp denoting payment of tax
 
-&emsp;After receiving a properly executed return and remittance of any special tax imposed by this subchapter, the Secretary shall issue to the taxpayer an appropriate stamp as a receiptdenoting payment of the tax. This paragraph shall not apply in the case of a return covering liability for a past period.
+&emsp;After receiving a properly executed return and remittance of any special tax imposed by this subchapter, the Secretary shall issue to the taxpayer an appropriate stamp as a receipt denoting payment of the tax. This paragraph shall not apply in the case of a return covering liability for a past period.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1346, §5142; amended Pub. L. 94–455, title XIX, §1905(a)(12), Oct. 4, 1976, 90 Stat. 1820; renumbered §5732 and amended Pub. L. 109–59, title XI, §11125(b)(20)(A), (B), Aug. 10, 2005, 119 Stat. 1956; Pub. L. 110–172, §11(a)(32), Dec. 29, 2007, 121 Stat. 2487.)
 

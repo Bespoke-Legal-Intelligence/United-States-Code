@@ -42,7 +42,7 @@ Pub. L. 106–569, title VI, §612, Dec. 27, 2000, 114 Stat. 3012, provided that
 
 #### Effective Date
 
-Pub. L. 93–383, title VI, §627, formerly §628, Aug. 22, 1974, 88 Stat. 714, renumbered §627, Pub. L. 106–569, title VI, §611(2), Dec. 27, 2000, 114 Stat. 3012, provided that: “The provisions of this title \[enacting this chapter andprovisions set out as a note under this section\] shall take effect upon the expiration of 180 days following the date of enactment of this title \[Aug. 22, 1974\].”
+Pub. L. 93–383, title VI, §627, formerly §628, Aug. 22, 1974, 88 Stat. 714, renumbered §627, Pub. L. 106–569, title VI, §611(2), Dec. 27, 2000, 114 Stat. 3012, provided that: “The provisions of this title \[enacting this chapter and provisions set out as a note under this section\] shall take effect upon the expiration of 180 days following the date of enactment of this title \[Aug. 22, 1974\].”
 
 #### Short Title of 2000 Amendment
 

@@ -32,7 +32,7 @@
 
 &emsp;(6) pay the compensation, per diem, and travel expenses of individuals appointed under paragraphs (2), (3), and (7) of this subsection from the Thrift Savings Fund;
 
-&emsp;(7) accept and use the services of individuals employed intermittently in the Government service and reimburse such individuals for travel expenses, as authorized by section 5703 of this title, including per diem as authorized by section 5702 of this title;
+&emsp;(7) accept and use the services of individuals employed intermittently in the Government service and reimburse such individuals for travel expenses, as authorized by section 5703of this title, including per diem as authorized by section 5702 of this title;
 
 &emsp;(8) except as otherwise expressly prohibited by law or the policies of the Board, delegate any of the Executive Director's functions to such employees under the Board as the Executive Director may designate and authorize such successive redelegations of such functions to such employees under the Board as the Executive Director may consider to be necessary or appropriate; and
 

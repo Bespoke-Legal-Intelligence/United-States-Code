@@ -216,15 +216,19 @@ For purposes of this section—
 
 &emsp;&emsp;The term “qualified higher education expenses” means—
 
-&emsp;&emsp;&emsp;(i) tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution; and
+&emsp;&emsp;&emsp;(i) tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution;
 
-&emsp;&emsp;&emsp;(ii) expenses for special needs services in the case of a special needs beneficiary which are incurred in connection with such enrollment or attendance.
+&emsp;&emsp;&emsp;(ii) expenses for special needs services in the case of a special needs beneficiary which are incurred in connection with such enrollment or attendance <sup>2</sup>
+
+&emsp;&emsp;&emsp;(iii) expenses paid or incurred in 2009 or 2010 for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i)) or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary's family during any of the years the beneficiary is enrolled at an eligible educational institution.
+
+> &emsp;&emsp;Clause (iii) shall not include expenses for computer software designed for sports, games, or hobbies unless the software is predominantly educational in nature.
 
 #### (B) Room and board included for students who are at least half-time
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of an individual who is an eligible student (as defined in section 25A(b)(3)) for any academic period, such term shall also include reasonable costs for such period (as determined under the qualified tuition program) incurred by the designated beneficiary for room and board while attending such institution. For purposes of subsection (b)(6), a designated beneficiary shall be treated as meeting the requirements of this clause.
+&emsp;&emsp;&emsp;In the case of an individual who is an eligible student (as defined in section 25A(b)(3)) for any academic period, such term shall also include reasonable costs for such period (as determined under thequalified tuition program) incurred by the designated beneficiary for room and board while attending such institution. For purposes of subsection (b)(6), a designated beneficiary shall be treated as meeting the requirements of this clause.
 
 #### (ii) Limitation
 
@@ -250,7 +254,7 @@ For purposes of this section—
 
 Notwithstanding any other provision of this section, the Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section and to prevent abuse of such purposes, including regulations under chapters 11, 12, and 13 of this title.
 
-(Added Pub. L. 104–188, title I, §1806(a), Aug. 20, 1996, 110 Stat. 1895; amended Pub. L. 105–34, title II, §211(a), (b), (d), (e)(2)(A), title XVI, §1601(h)(1)(A), (B), Aug. 5, 1997, 111 Stat. 810, 812, 1092; Pub. L. 105–206, title VI, §6004(c)(2), (3), July 22, 1998, 112 Stat. 793; Pub. L. 106–554, §1(a)(7) \[title III, §319(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title IV, §402(a)(1)–(3), (4)(A), (C), (D), (b)(1), (c)–(g), June 7, 2001, 115 Stat. 60–63; Pub. L. 107–22, §1(b)(3)(C), July 26, 2001, 115 Stat. 197; Pub. L. 107–147, title IV, §417(11), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(21), title IV, §406(a), Oct. 4, 2004, 118 Stat. 1178, 1189; Pub. L. 109–135, title IV, §412(ee)(3), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title XIII, §1304(b), Aug. 17, 2006, 120 Stat. 1110.)
+(Added Pub. L. 104–188, title I, §1806(a), Aug. 20, 1996, 110 Stat. 1895; amended Pub. L. 105–34, title II, §211(a), (b), (d), (e)(2)(A), title XVI, §1601(h)(1)(A), (B), Aug. 5, 1997, 111 Stat. 810, 812, 1092; Pub. L. 105–206, title VI, §6004(c)(2), (3), July 22, 1998, 112 Stat. 793; Pub. L. 106–554, §1(a)(7) \[title III, §319(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title IV, §402(a)(1)–(3), (4)(A), (C), (D), (b)(1), (c)–(g), June 7, 2001, 115 Stat. 60–63; Pub. L. 107–22, §1(b)(3)(C), July 26, 2001, 115 Stat. 197; Pub. L. 107–147, title IV, §417(11), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(21), title IV, §406(a), Oct. 4, 2004, 118 Stat. 1178, 1189; Pub. L. 109–135, title IV, §412(ee)(3), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title XIII, §1304(b), Aug. 17, 2006, 120 Stat. 1110; Pub. L. 111–5, div. B, title I, §1005(a), Feb. 17, 2009, 123 Stat. 316.)
 
 #### References in Text
 
@@ -261,6 +265,8 @@ The date of the enactment of this paragraph, referred to in subsec. (e)(5)(A), p
 The Higher Education Act of 1965, referred to in subsec. (e)(5), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
+
+2009—Subsec. (e)(3)(A). Pub. L. 111–5 added cl. (iii) and concluding provisions.
 
 2006—Subsec. (f). Pub. L. 109–280, which directed the addition of subsec. (f) to section 529, without specifying the act to be amended, was executed by making the addition to this section, which is section 529 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
@@ -376,6 +382,10 @@ Subsec. (e)(3). Pub. L. 105–34, §211(a), amended heading and text of par. (3)
 
 Subsec. (e)(5). Pub. L. 105–34, §211(b)(2), added par. (5).
 
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–5, div. B, title I, §1005(b), Feb. 17, 2009, 123 Stat. 316, provided that: “The amendments made by this section \[amending this section\] shall apply to expenses paid or incurred after December 31, 2008.”
+
 #### Effective Date of 2004 Amendment
 
 Amendment by section 207(21) of Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
@@ -455,4 +465,6 @@ Transition rule.—If—
 > For purposes of subparagraph (B)(ii), if a State has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “a”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “; and”.</i>
 

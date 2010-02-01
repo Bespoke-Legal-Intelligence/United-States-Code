@@ -14,7 +14,7 @@ It shall be the policy of the United States acting through the Secretary, in car
 
 #### (A) Definition of consultation
 
-&emsp;&emsp;In this subsection, the term “consultation” means a process involving the opendiscussion and joint deliberation of all options with respect to potential issues or changes between the Bureau and all interested parties.
+&emsp;&emsp;In this subsection, the term “consultation” means a process involving the open discussion and joint deliberation of all options with respect to potential issues or changes between the Bureau and all interested parties.
 
 #### (B) Discussion and joint deliberation
 

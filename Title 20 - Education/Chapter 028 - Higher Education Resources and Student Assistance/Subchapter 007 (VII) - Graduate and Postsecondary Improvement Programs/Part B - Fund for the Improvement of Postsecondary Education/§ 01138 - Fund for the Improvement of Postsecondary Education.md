@@ -80,7 +80,7 @@ The Secretary is authorized to make planning grants to institutions of higher ed
 
 #### (2) Rule of construction
 
-&emsp;Nothing in this subsection shall be construed to prevent a student who does not meet the requirements of section 1091(a) of this title from participating in programs funded under this part.
+&emsp;Nothing in this subsection shall be construed to prevent a student who does not meetthe requirements of section 1091(a) of this title from participating in programs funded under this part.
 
 #### (e) Priority
 

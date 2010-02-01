@@ -8,7 +8,7 @@ Whoever—
 
 &emsp;(2) at any time knowingly and willfully makes or causes to be made any false statement or representation of a material fact for use in determining rights to such benefit or payment,
 
-&emsp;(3) having knowledge of the occurrence of any event affecting (A) his initial or continued right to any such benefit or payment, or (B) the initial or continued right to any such benefit or payment of any other individual in whose behalf he has applied for or is receivingsuch benefit or payment, conceals or fails to disclose such event with an intent fraudulently to secure such benefit or payment either in a greater amount or quantity than is due or when no such benefit or payment is authorized,
+&emsp;(3) having knowledge of the occurrence of any event affecting (A) his initial or continued right to any such benefit or payment, or (B) the initial or continued right to any such benefit or payment of any other individual in whose behalf he has applied for or is receiving such benefit or payment, conceals or fails to disclose such event with an intent fraudulently to secure such benefit or payment either in a greater amount or quantity than is due or when no such benefit or payment is authorized,
 
 &emsp;(4) having made application to receive any such benefit or payment for the use and benefit of another and having received it, knowingly and willfully converts such benefit or payment or any part thereof to a use other than for the use and benefit of such other person,
 
@@ -50,7 +50,7 @@ Whoever—
 
 &emsp;(D) a waiver of any coinsurance under part B of subchapter XVIII of this chapter by a Federally qualified health care center with respect to an individual who qualifies for subsidized services under a provision of the Public Health Service Act \[42 U.S.C. 201 et seq.\];
 
-&emsp;(E) any payment practice specified by the Secretary in regulations promulgated pursuant to section 14(a) of the Medicare and Medicaid Patient and Program Protection Act of1987 or in regulations under section 1395w–104(e)(6) <sup>1</sup> of this title;
+&emsp;(E) any payment practice specified by the Secretary in regulations promulgated pursuant to section 14(a) of the Medicare and Medicaid Patient and Program Protection Act of 1987 or in regulations under section 1395w–104(e)(6) <sup>1</sup> of this title;
 
 &emsp;(F) any remuneration between an organization and an individual or entity providing items or services, or a combination thereof, pursuant to a written agreement between the organization and the individual or entity if the organization is an eligible organization under section 1395mm of this title or if the written agreement, through a risk-sharing arrangement, places the individual or entity at substantial financial risk for the cost or utilization of the items or services, or a combination thereof, which the individual or entity is obligated to provide;
 
@@ -92,7 +92,7 @@ For purposes of this section, the term “Federal health care program” means�
 
 &emsp;(2) any State health care program, as defined in section 1320a–7(h) of this title.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128B, formerly title XVIII, §1877(d), and title XIX, §1909, as added and amended Pub. L. 92–603, title II, §§242(c), 278(b)(9), Oct. 30, 1972, 86 Stat. 1419, 1454; Pub. L. 95–142, §4(a), (b), Oct. 25, 1977, 91 Stat.1179, 1181; Pub. L. 96–499, title IX, §917, Dec. 5, 1980, 94 Stat. 2625; Pub. L. 98–369, div. B, title III, §2306(f)(2), July 18, 1984, 98 Stat. 1073; renumbered title XI, §1128B, and amended Pub. L. 100–93, §§4(a)–(d), 14(b), Aug. 18, 1987, 101 Stat. 688, 689, 697; Pub. L. 100–203, title IV, §§4039(a), 4211(h)(7), Dec. 22, 1987, 101 Stat. 1330–81, 1330–206; Pub. L. 100–360, title IV, §411(a)(3)(A), (B)(i), July 1, 1988, 102 Stat. 768; Pub. L. 101–239, title VI, §6003(g)(3)(D)(ii), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4161(a)(4), 4164(b)(2), Nov. 5, 1990, 104 Stat. 1388–94, 1388–102; Pub. L. 103–432, title I, §133(a)(2), Oct. 31, 1994, 108 Stat. 4421; Pub. L. 104–191, title II, §§204(a), 216(a), 217, Aug. 21, 1996, 110 Stat. 1999, 2007, 2008; Pub. L. 105–33, title IV, §§4201(c)(1), 4704(b), 4734, Aug. 5, 1997, 111 Stat. 373, 498, 522; Pub. L. 108–173, title I, §101(e)(2), (8)(A), title II, §237(d), title IV, §431(a), Dec. 8, 2003, 117 Stat. 2150, 2152, 2213, 2287.)
+(Aug. 14, 1935, ch. 531, title XI, §1128B, formerly title XVIII, §1877(d), and title XIX, §1909, as added and amended Pub. L. 92–603, title II, §§242(c), 278(b)(9), Oct. 30, 1972, 86 Stat. 1419, 1454; Pub. L. 95–142, §4(a), (b), Oct. 25, 1977, 91 Stat. 1179, 1181; Pub. L. 96–499, title IX, §917, Dec. 5, 1980, 94 Stat. 2625; Pub. L. 98–369, div. B, title III, §2306(f)(2), July 18, 1984, 98 Stat. 1073; renumbered title XI, §1128B, and amended Pub. L. 100–93, §§4(a)–(d), 14(b), Aug. 18, 1987, 101 Stat. 688, 689, 697; Pub. L. 100–203, title IV, §§4039(a), 4211(h)(7), Dec. 22, 1987, 101 Stat. 1330–81, 1330–206; Pub. L. 100–360, title IV, §411(a)(3)(A), (B)(i), July 1, 1988, 102 Stat. 768; Pub. L. 101–239, title VI, §6003(g)(3)(D)(ii), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4161(a)(4), 4164(b)(2), Nov. 5, 1990, 104 Stat. 1388–94, 1388–102; Pub. L. 103–432, title I, §133(a)(2), Oct. 31, 1994, 108 Stat. 4421; Pub. L. 104–191, title II, §§204(a), 216(a), 217, Aug. 21, 1996, 110 Stat. 1999, 2007, 2008; Pub. L. 105–33, title IV, §§4201(c)(1), 4704(b), 4734, Aug. 5, 1997, 111 Stat. 373, 498, 522; Pub. L. 108–173, title I, §101(e)(2), (8)(A), title II, §237(d), title IV, §431(a), Dec. 8, 2003, 117 Stat. 2150, 2152, 2213, 2287.)
 
 #### References in Text
 
@@ -162,7 +162,7 @@ Subsec. (d)(2)(A). Pub. L. 100–203, §4211(h)(7)(B), substituted “nursing fa
 
 1987—Pub. L. 100–93, §4(a)(1), substituted “Criminal penalties for acts involving Medicare or State health care programs” for “Offenses and penalties” in section catchline.
 
-Subsec. (a). Pub. L. 100–93, §4(a)(3), (4), in concluding provisions, substituted “made under the program” for “made under this subchapter”, “approved under subchapter XIX of this chapter” for “approved under thissubchapter”, and “provision of that subchapter” for “provision of this subchapter”.
+Subsec. (a). Pub. L. 100–93, §4(a)(3), (4), in concluding provisions, substituted “made under the program” for “made under this subchapter”, “approved under subchapter XIX of this chapter” for “approved under this subchapter”, and “provision of that subchapter” for “provision of this subchapter”.
 
 Subsec. (a)(1). Pub. L. 100–93, §4(a)(2), substituted “a program under subchapter XVIII of this chapter or a State health care program (as defined in section 1320a–7(h) of this title)” for “a State plan approved under this subchapter”.
 
@@ -336,7 +336,7 @@ Publication of rule after public comment.—The Secretary shall provide for cons
 
 #### Anti-Kickback Regulations
 
-Section 14(a) of Pub. L. 100–93 provided that: “The Secretary of Health and Human Services, in consultation with the Attorney General, not later than 1 year after the date of the enactment of this Act \[Aug. 18, 1987\] shall publish proposed regulations, and not later than 2 years after the date of the enactment of this Act shall promulgate final regulations, specifying payment practices that shall not be treated as a criminal offense under section 1128B(b) of the Social Security Act \[subsec. (b) of this section\] and shall not serve as the basis for an exclusion under section 1128(b)(7) of such Act.Any practices specified in regulations pursuant to the preceding sentence shall be in addition to the practices described in subparagraphs (A) through (C) of section 1128B(b)(3).”
+Section 14(a) of Pub. L. 100–93 provided that: “The Secretary of Health and Human Services, in consultation with the Attorney General, not later than 1 year after the date of the enactment of this Act \[Aug. 18, 1987\] shall publish proposed regulations, and not later than 2 years after the date of the enactment of this Act shall promulgate final regulations, specifying payment practices that shall not be treated as a criminal offense under section 1128B(b) of the Social Security Act \[subsec. (b) of this section\] and shall not serve as the basis for an exclusion under section 1128(b)(7) of such Act. Any practices specified in regulations pursuant to the preceding sentence shall be in addition to the practices described in subparagraphs (A) through (C) of section 1128B(b)(3).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

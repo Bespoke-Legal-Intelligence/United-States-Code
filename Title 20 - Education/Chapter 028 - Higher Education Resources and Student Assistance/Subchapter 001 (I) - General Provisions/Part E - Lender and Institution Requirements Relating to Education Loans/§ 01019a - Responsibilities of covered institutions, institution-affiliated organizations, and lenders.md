@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the terms and conditions of loans made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 may be more favorable than the provisions of private education loans; and
 
-&emsp;&emsp;&emsp;(iii) ensure that information regarding private education loans is presented in such a manner as to be distinct from information regarding loans that are made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;&emsp;&emsp;(iii) ensure that information regarding private education loans is presented insuch a manner as to be distinct from information regarding loans that are made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (C) Informational materials
 
@@ -70,7 +70,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each lender of a loan made, insured, or guaranteed under part B of subchapter IVshall, on an annual basis, report to the Secretary—
+&emsp;&emsp;&emsp;Each lender of a loan made, insured, or guaranteed under part B of subchapter IV shall, on an annual basis, report to the Secretary—
 
 &emsp;&emsp;&emsp;&emsp;(I) any reasonable expenses paid or provided under section 1085(d)(5)(D) of this title or paragraph (3)(B) or (7) of section 1094(e) of this title to any agent of a covered institution who—
 

@@ -164,3 +164,41 @@ Pub. L. 108–199, div. A, title VII, §778(a), Jan. 23, 2004, 118 Stat. 41, pro
 
 Pub. L. 106–224, title III, June 20, 2000, 114 Stat. 428; as amended by Pub. L. 107–171, title IX, §9008, May 13, 2002, 116 Stat. 483; Pub. L. 108–148, title II, §201, Dec. 3, 2003, 117 Stat. 1901; Pub. L. 109–58, title IX, §941, Aug. 8, 2005, 119 Stat. 873, known as the Biomass Research and Development Act of 2000, and formerly set out as a note under this section, provided temporary authority for the Secretaries of Agriculture and Energy to promote biomass research and development. As amended by Pub. L. 109–58, the program became permanent, and title III of Pub. L. 106–224 was transferred to chapter 112 (§8601 et seq.) of this title. Subsequently, title III of Pub. L. 106–224 was repealed by Pub. L. 110–246, title IX, §9001(b), June 18, 2008, 122 Stat. 2095.
 
+#### Biofuels And Rural Economic Development
+
+Memorandum of President of the United States, May 5, 2009, 74 F.R. 21531, provided:
+
+Memorandum for the Secretary of Agriculture, the Secretary of Energy, \[and\] the Administrator of the Environmental Protection Agency
+
+In the Nation's ongoing efforts to achieve energy independence, biomass and biofuels promise to play a key role by providing the Nation with homegrown sustainable energy options and energizing our economy with new industries and jobs. While producing clean renewable fuels locally is a powerful engine of economic growth, they must be developed and used in a way that limits environmental impact. Today, the Environmental Protection Agency (EPA) is issuing a Notice of Proposed Rulemaking, as required by the Energy Independence and Security Act of 2007, to set new national renewable fuel standards and implement those standards. The public will have an opportunity to provide input on this proposal through a 60-day comment period, and the EPA is conducting peer reviews on key aspects of the environmental impact assessments within the proposal.
+
+In order to shepherd our Nation's development of this important industry and to coordinate interagency policy, I hereby establish a Biofuels Interagency Working Group (Working Group), to be co-chaired by the Secretaries of Agriculture and Energy and the Administrator of the EPA. This Working Group will coordinate with the National Science and Technology Council's Biomass Research and Development Board in undertaking its work. The responsibilities of the Working Group shall include:
+
+(a) Developing the Nation's first comprehensive biofuel market development program, which shall use existing authorities and identify new policies to support the development of next-generation biofuels, increase flexible fuel vehicle use, and assist in retail marketing efforts;
+
+(b) Coordinating infrastructure policies affecting the supply, secure transport, and distribution of biofuels; and
+
+(c) Identifying new policy options to promote the environmental sustainability of biofuels feedstock production, taking into consideration land use, habitat conservation, crop management practices, water efficiency and water quality, as well as lifecycle assessments of greenhouse gas emissions.
+
+Alongside the Working Group's efforts, the Secretary of Agriculture may pursue other important biofuel development efforts. The Rural Development Act of 1972 and the Rural Development Policy Act of 1980 direct the Secretary of Agriculture to develop, in coordination with State and local governments, a nationwide rural development program to assure rural America's health and prosperity. In keeping with that mandate, and recognizing the key role rural America will play in the development of biofuel technology and development, I request that the Secretary of Agriculture take the following steps, to the extent permitted by law:
+
+(a) Immediately begin restructuring existing investments in renewable fuels as needed to preserve industry employment; and
+
+(b) Develop a comprehensive approach to accelerating the investment in and production of American biofuels and reducing our dependence on fossil fuels by providing, within 30 days, under the authorities made available in the Food, Conservation, and Energy Act of 2008:
+
+(i) Loan guarantees for the development, construction, and retrofitting of commercial-scale biorefineries and grants to help pay for the development and construction costs of demonstration-scale biorefineries;
+
+(ii) Expedited funding to encourage biorefineries to replace the use of fossil fuels in plant operations by installing new biomass energy systems or producing new energy from renewable biomass;
+
+(iii) Expedited funding to biofuels producers to encourage production of next-generation biofuels from cellulosic biomass and other feedstocks;
+
+(iv) Expansion of the Renewable Energy Systems and Energy Efficiency Improvements Program, which has been renamed the Rural Energy for America Program, to include hydroelectric source technologies, energy audits, and higher loan guarantee limits; and
+
+(v) Guidance and support for collection, harvest, storage, and transportation assistance for eligible materials for use in biomass conversion facilities.
+
+This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+The Secretary of Agriculture is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+

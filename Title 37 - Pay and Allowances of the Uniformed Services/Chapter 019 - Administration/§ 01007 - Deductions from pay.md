@@ -1,6 +1,6 @@
 ### §1007. Deductions from pay
 
-(a) The pay of an officer of an armed force may be withheld, under section 5512 of title 5, only for an indebtedness to the United States admitted by the officer or shown by the judgment of a court, or upon a special order issued in the discretion of the Secretary of Defense (or the Secretary of Homeland Security, in the case of an officer of the Coast Guard when the Coast Guard is not operating as a service in the Navy), or upon the denial of relief of an officer pursuant to section 3527 of title 31.
+(a) The pay of an officer of an armed force may be withheld, under section 5512 of title 5, only for an indebtedness to the United States admitted by the officer or shown by the judgment of a court, or upon a special order issued in the discretion of the Secretary of Defense (or the Secretary of Homeland Security, in the case of anofficer of the Coast Guard when the Coast Guard is not operating as a service in the Navy), or upon the denial of relief of an officer pursuant to section 3527 of title 31.
 
 (b) An amount due to the United States from an enlisted member of the Army or the Air Force for articles sold to him on credit under section 4621(a)(1) or 9621(a)(1) of title 10, as the case may be, shall be deducted from the next pay due him after the sale is reported.
 
@@ -8,17 +8,25 @@
 
 (2) After the deduction of pay forfeited by the sentence of a court-martial, if any, or otherwise authorized by law to be withheld, the deductions authorized by this section may not reduce the pay actually received by a member of the uniformed services for any month to less than one-third of the member's pay for that month.
 
-(3) If the indebtedness of a member of the uniformed services to the United States is due to the overpayment of pay or allowances to the member through no fault of the member, the amount of the overpayment shall be recovered in monthly installments. The amount deducted from the pay of the member for a month to recover the overpayment amount may not exceed 20 percent of the member's pay for that month unless the member requests or consents to collection of the overpayment at an accelerated rate.
+(3)(A) If the indebtedness of a member of the uniformed services to the United States is due to the overpayment of pay or allowances to the member through no fault of the member, the amount of the overpayment shall be recovered in monthly installments. The amount deducted from the pay of the member for a month to recover the overpayment amount may not exceed 15 percent of the member's pay for that month unless the member requests or consents to collection of the overpayment at an accelerated rate.
 
-(4) If a member of the uniformed services is injured or wounded under the circumstances described in section 310(a)(2)(C) of this title or, while in the line of duty, incurs a wound, injury, or illness in a combat operation or combat zone designated by the Secretary of Defense, any overpayment of pay or allowances made to the member while the member recovers from the wound, injury, or illness may not be deducted from the member's pay until—
+(B) In all cases described in subparagraph (A), the Secretary concerned shall provide a reasonable opportunity for the member to request a delay in the imposition of the repayment requirement to recover the indebtedness. Before beginning collection efforts, the Secretary concerned shall consider the reasons provided by the member for the requested delay, including the financial ability of the member to repay the indebtedness, and the hardship that immediate collection would impose on the member and the member's dependents.
 
-&emsp;(A) the end of the 90-day period beginning on the date on which the member is notified of the overpayment; or
+(4)(A) If a member of the uniformed services, through no fault of the member, incurs a wound, injury, or illness while in the line of duty in a combat operation or combat zone designated by the President or the Secretary of Defense, any overpayment of pay or allowances made to the member while the member recovers from the wound, injury, or illness may not be deducted from the member's pay until—
 
-&emsp;(B) such earlier date as may be requested or agreed to by the member.
+&emsp;(i) the member is notified of the overpayment; and
+
+&emsp;(ii) the later of the following occurs:
+
+&emsp;&emsp;(I) The end of the 180-day period beginning on the date of the completion of the tour of duty of the member in the combat operation or combat zone.
+
+&emsp;&emsp;(II) The end of the 90-day period beginning on the date of the reassignment of the member from a military treatment facility or other medical unit outside of the theater of operations.
+
+(B) Subparagraph (A) shall not apply if the member, after receiving notification of the overpayment, requests or consents to initiation at an earlier date of the collection of the overpayment of the pay or allowances.
 
 (d) Subject to subsection (c), an amount due the United States from an enlisted member of the Army or the Air Force may be deducted from his pay on final statement, or from his savings on his clothing allowance.
 
-(e) The amount of any damage, or cost of repairs, to arms or equipment caused by the abuseor negligence of a member of the Army, Navy, Air Force, or Marine Corps, as the case may be, who had the care of, or was using, the property when it was damaged, shall be deducted from his pay.
+(e) The amount of any damage, or cost of repairs, to arms or equipment caused by the abuse or negligence of a member of the Army, Navy, Air Force, or Marine Corps, as the case may be, who had the care of, or was using, the property when it was damaged, shall be deducted from his pay.
 
 (f) If, upon final settlement of the accounts of an officer of the Army or the Air Force charged with the issue of an article of military supply, there is a deficiency of that article, or if an article of military supply with whose issue an officer is charged is damaged, the value of the lost article or the amount of the damage shall be charged against the officer and deducted from his monthly pay, unless he shows to the satisfaction of the Secretary of the Army or the Secretary of the Air Force, as the case may be, by one or more affidavits setting forth the circumstances, that he was not at fault.
 
@@ -36,13 +44,13 @@
 
 (2) Amounts deducted under paragraph (1) shall be deposited in the Armed Forces Retirement Home Trust Fund.
 
-(3) The Secretary of Defense, after consultation with the Armed Forces Retirement Home Board, shall determine from time to time the amount to be deducted under paragraph (1) from the pay of enlisted members, warrant officers, and limited duty officers on the basis of the financial needs of the Armed Forces Retirement Home. The amount to be deducted may be fixed at different amounts on the basis of grade or length of service, or both.
+(3) The Secretary of Defense, after consultation with the Armed Forces Retirement Home Board, shall determine from time to time the amount to be deducted under paragraph (1) from the pay of enlisted members, warrant officers,and limited duty officers on the basis of the financial needs of the Armed Forces Retirement Home. The amount to be deducted may be fixed at different amounts on the basis of grade or length of service, or both.
 
 (4) In this subsection, the term “armed forces” does not include the Coast Guard when it is not operating as a service in the Navy.
 
 (5) This subsection does not apply to an enlisted member, warrant officer, or limited duty officer of a reserve component.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 491; Pub. L. 89–718, §§71, 72, Nov. 2, 1966, 80 Stat. 1124; Pub. L. 90–83, §5(3), Sept. 11, 1967, 81 Stat. 221; Pub. L. 98–525, title XIII, §1305, Oct. 19, 1984, 98 Stat. 2613; Pub. L. 99–145, title VI, §684, Nov. 8, 1985, 99 Stat. 666; Pub. L. 100–180, div. A, title VI, §633(a), Dec. 4, 1987, 101 Stat. 1105; Pub. L. 101–189, div. A, title III, §343(a), Nov. 29, 1989, 103 Stat. 1420; Pub. L. 101–510, div. A, title XV, §1533(b), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title X, §1054(a)(7), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 103–337, div. A, title III, §371(a), Oct. 5, 1994, 108 Stat. 2735; Pub. L. 104–106, div. A, title IX, §913(c)(2), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–201, div. A, title X, §1009(c)(1), Sept. 23, 1996, 110 Stat. 2635; Pub. L. 106–65, div. A, title X, §1066(d)(5), Oct. 5, 1999, 113 Stat. 773; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title X, §1006(b), Dec. 2, 2002, 116 Stat. 2633; Pub. L. 109–364, div. A, title VI, §674, Oct. 17, 2006, 120 Stat. 2272.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 491; Pub. L. 89–718, §§71, 72, Nov. 2, 1966, 80 Stat. 1124; Pub. L. 90–83, §5(3), Sept. 11, 1967, 81 Stat. 221; Pub. L. 98–525, title XIII, §1305, Oct. 19, 1984, 98 Stat. 2613; Pub. L. 99–145, title VI, §684, Nov. 8, 1985, 99 Stat. 666; Pub. L. 100–180, div. A, title VI, §633(a), Dec. 4, 1987, 101 Stat. 1105; Pub. L. 101–189, div. A, title III, §343(a), Nov. 29, 1989, 103 Stat. 1420; Pub. L. 101–510, div. A, title XV, §1533(b), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title X, §1054(a)(7), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 103–337, div. A, title III, §371(a), Oct. 5, 1994, 108 Stat. 2735; Pub. L. 104–106, div. A, title IX, §913(c)(2), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–201, div. A, title X, §1009(c)(1), Sept. 23, 1996, 110 Stat. 2635; Pub. L. 106–65, div. A, title X, §1066(d)(5), Oct. 5, 1999, 113 Stat. 773; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title X, §1006(b), Dec. 2, 2002, 116 Stat. 2633; Pub. L. 109–364, div. A, title VI, §674, Oct. 17, 2006, 120 Stat. 2272; Pub. L. 111–84, div. A, title VI, §661(a)–(c), Oct. 28, 2009, 123 Stat. 2370.)
 
 Historical and Revision Notes
 
@@ -142,6 +150,14 @@ Provisions similar to those in subsec. (i) of this section were contained in sec
 
 #### Amendments
 
+2009—Subsec. (c)(3). Pub. L. 111–84, §661(a), (b), designated existing provisions as subpar. (A), substituted “15 percent” for “20 percent”, and added subpar. (B).
+
+Subsec. (c)(4). Pub. L. 111–84, §661(c), amended par. (4) generally. Prior to amendment, text read as follows: “If a member of the uniformed services is injured or wounded under the circumstances described in section 310(a)(2)(C) of this title or, while in the line of duty, incurs a wound, injury, or illness in a combat operation or combat zone designated by the Secretary of Defense, any overpayment of pay or allowances made to the member while the member recovers from the wound, injury, or illness may not be deducted from the member's pay until—
+
+&emsp;“(A) the end of the 90-day period beginning on the date on which the member is notified of the overpayment; or
+
+&emsp;“(B) such earlier date as may be requested or agreed to by the member.”
+
 2006—Subsec. (c). Pub. L. 109–364 designated existing provisions as pars. (1) and (2), in pars. (1) and (2) substituted “the member's pay” for “his pay”, in par. (2) substituted “After” for “However, after” and inserted “by a member of the uniformed services” after “actually received”, and added pars. (3) and (4).
 
 2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
@@ -189,6 +205,10 @@ Subsec. (i)(5). Pub. L. 101–510, §1533(b)(4), substituted “, warrant offic
 1966—Subsec. (a). Pub. L. 89–718, §71, substituted “section 5512 of title 5” for “section 82 of title 5”.
 
 Subsec. (c). Pub. L. 89–718, §72, substituted “pay” for “basic pay” as the amount which cannot be reduced below one-third through deductions from enlisted men of the Army or Air Force who have been administratively determined to owe the United States, payable by deductions in monthly installments.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–84, div. A, title VI, §661(d), Oct. 28, 2009, 123 Stat. 2370, provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to an overpayment of pay or allowances made to a member of the uniformed services after the date of the enactment of this Act \[Oct. 28, 2009\].”
 
 #### Effective Date of 2002 Amendments
 

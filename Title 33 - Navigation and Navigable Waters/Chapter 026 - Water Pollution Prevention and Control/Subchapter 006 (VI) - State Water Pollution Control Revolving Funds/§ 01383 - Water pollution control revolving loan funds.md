@@ -52,7 +52,7 @@ The State may provide financial assistance from its water pollution control revo
 
 #### (h) Eligibility of non-Federal share of construction grant projects
 
-A State water pollution control revolving fund may provide assistance (other than under subsection (d)(1) of this section) to a municipality or intermunicipal or interstate agency with respect to the non-Federal share of the costs of a treatment works project for which such municipality or agency is receiving assistance from theAdministrator under any other authority only if such assistance is necessary to allow such project to proceed.
+A State water pollution control revolving fund may provide assistance (other than under subsection (d)(1) of this section) to a municipality or intermunicipal or interstate agency with respect to the non-Federal share of the costs of a treatment works project for which such municipality or agency is receiving assistance from the Administrator under any other authority only if such assistance is necessary to allow such project to proceed.
 
 (June 30, 1948, ch. 758, title VI, §603, as added Pub. L. 100–4, title II, §212(a), Feb. 4, 1987, 101 Stat. 23.)
 

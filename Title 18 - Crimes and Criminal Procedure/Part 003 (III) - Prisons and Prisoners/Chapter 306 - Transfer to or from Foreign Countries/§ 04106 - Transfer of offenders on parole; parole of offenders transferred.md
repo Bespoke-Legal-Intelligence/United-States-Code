@@ -1,6 +1,6 @@
 ### §4106. Transfer of offenders on parole; parole of offenders transferred
 
-(a) Upon the receipt of an offender who is on parole from the authorities of a foreign country,the Attorney General shall assign the offender to the United States Parole Commission for supervision.
+(a) Upon the receipt of an offender who is on parole from the authorities of a foreign country, the Attorney General shall assign the offender to the United States Parole Commission for supervision.
 
 (b) The United States Parole Commission and the Chairman of the Commission shall have the same powers and duties with reference to an offender transferred to the United States to serve a sentence of imprisonment or who at the time of transfer is on parole as they have with reference to an offender convicted in a court of the United States except as otherwise provided in this chapter or in the pertinent treaty. Sections 4201 through 4204; 4205(d), (e), and (h); 4206 through 4215; and 4218 <sup>1</sup> of this title shall be applicable.
 

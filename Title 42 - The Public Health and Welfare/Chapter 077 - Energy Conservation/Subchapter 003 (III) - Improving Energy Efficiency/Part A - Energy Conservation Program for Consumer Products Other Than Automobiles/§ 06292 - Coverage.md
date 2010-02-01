@@ -126,7 +126,7 @@ Section 121 of Pub. L. 102–486 provided that:
 
 “(a)
 
-In General.—(1) The Secretary shall, after consulting with the National Fenestration Rating Council,industry representatives, and other appropriate organizations, provide financial assistance to support a voluntary national window rating program that will develop energy ratings and labels for windows and window systems.
+In General.—(1) The Secretary shall, after consulting with the National Fenestration Rating Council, industry representatives, and other appropriate organizations, provide financial assistance to support a voluntary national window rating program that will develop energy ratings and labels for windows and window systems.
 
 “(2) Such rating program shall include—
 
@@ -202,7 +202,7 @@ In General.—(1) The Secretary shall, after consulting with the National Electr
 
 “(b)
 
-Monitoring.—The Secretary shall monitor and evaluate the efforts to develop the program describedin subsection (a) and, not later than three years after the date of the enactment of this Act \[Oct. 24, 1992\], shall make a determination as to whether the program developed is consistent with the objectives of subsection (a).
+Monitoring.—The Secretary shall monitor and evaluate the efforts to develop the program described in subsection (a) and, not later than three years after the date of the enactment of this Act \[Oct. 24, 1992\], shall make a determination as to whether the program developed is consistent with the objectives of subsection (a).
 
 “(c)
 

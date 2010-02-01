@@ -132,7 +132,7 @@ Pub. L. 105–255, Oct. 14, 1998, 112 Stat. 1889, provided that:
 
 &emsp;“(4) identify the opportunities for, and artificial barriers to, the recruitment, retention, and advancement of women, minorities, and individuals with disabilities in the fields of science, engineering, and technology development in academia, industry, and government;
 
-&emsp;“(5) compile a synthesis of available research on lawful practices, policies, and programs that havesuccessfully led to the recruitment, retention, and advancement of women, minorities, and individuals with disabilities in science, engineering, and technology development;
+&emsp;“(5) compile a synthesis of available research on lawful practices, policies, and programs that have successfully led to the recruitment, retention, and advancement of women, minorities, and individuals with disabilities in science, engineering, and technology development;
 
 &emsp;“(6) issue recommendations with respect to lawful policies that government (including Congress and appropriate Federal agencies), academia, and private industry can follow regarding the recruitment, retention, and advancement of women, minorities, and individuals with disabilities in science, engineering, and technology development;
 
@@ -298,7 +298,7 @@ Provision of Information.—At the request of the Commission, the National Scien
 
 “(b)
 
-Review of Information.—The Commission shall review any information provided under subsection (a) and shall include in the report required under section 8—
+Review of Information.—The Commission shall review any information provided under subsection (a)and shall include in the report required under section 8—
 
 &emsp;“(1) recommendations on how to correct any deficiencies in the collection of the types of information described in that subsection, and in the analysis of such data, which might impede the characterization of the factors which affect the attraction and retention of women, minorities, and individuals with disabilities in the fields of science, engineering, and technology development; and
 

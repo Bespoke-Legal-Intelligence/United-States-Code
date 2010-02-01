@@ -58,11 +58,11 @@
 
 &emsp;(A) the date of the issuance of such order; or
 
-&emsp;(B) 90 days before the date on which the period of active duty is to commence under such order for that member.
+&emsp;(B) 180 days before the date on which the period of active duty is to commence under such order for that member.
 
 (2) In this subsection, the term “delayed-effective-date active-duty order” means an order to active duty for a period of more than 30 days in support of a contingency operation under a provision of law referred to in section 101(a)(13)(B) of this title that provides for active-duty service to begin under such order on a date after the date of the issuance of the order.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, §731(a)(1), Nov. 18, 1997, 111 Stat. 1810; Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–106, title I, §1116, Nov. 6, 2003, 117 Stat. 1218; Pub. L. 108–136, div. A, title VII, §§703, 708, Nov. 24, 2003, 117 Stat. 1527, 1530; Pub. L. 108–375, div. A, title VII, §703, Oct. 28, 2004, 118 Stat. 1982; Pub. L. 109–163, div. A, title VII, §743(a), Jan. 6, 2006, 119 Stat. 3360; Pub. L. 110–181, div. A, title VI, §647(b), title XVI, §1633(a), Jan. 28, 2008, 122 Stat. 161, 459.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, §731(a)(1), Nov. 18, 1997, 111 Stat. 1810; Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–106, title I, §1116, Nov. 6, 2003, 117 Stat. 1218; Pub. L. 108–136, div. A, title VII, §§703, 708, Nov. 24, 2003, 117 Stat. 1527, 1530; Pub. L. 108–375, div. A, title VII, §703, Oct. 28, 2004, 118 Stat. 1982; Pub. L. 109–163, div. A, title VII, §743(a), Jan. 6, 2006, 119 Stat. 3360; Pub. L. 110–181, div. A, title VI, §647(b), title XVI, §1633(a), Jan. 28, 2008, 122 Stat. 161, 459; Pub. L. 111–84, div. A, title VII, §702, Oct. 28, 2009, 123 Stat. 2373.)
 
 Historical and Revision Notes
 
@@ -96,6 +96,8 @@ A prior section 1074, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to enac
 
 #### Amendments
 
+2009—Subsec. (d)(1)(B). Pub. L. 111–84 substituted “180 days” for “90 days”.
+
 2008—Subsec. (b). Pub. L. 110–181, §647(b), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (c)(4). Pub. L. 110–181, §1633(a), added par. (4).
@@ -124,7 +126,7 @@ Pub. L. 108–106 added subsec. (d).
 
 2000—Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)(A)\], substituted “uniformed services” for “armed forces” in pars. (1), (2)(A), and (3)(B).
 
-Subsec. (c)(1). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)(B)\], inserted “, the Department of Transportation (with respect to the Coast Guard when it is not operating as a service in the Navy), or the Departmentof Health and Human Services (with respect to the National Oceanic and Atmospheric Administration and the Public Health Service)” after “military department”.
+Subsec. (c)(1). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)(B)\], inserted “, the Department of Transportation (with respect to the Coast Guard when it is not operating as a service in the Navy), or the Department of Health and Human Services (with respect to the National Oceanic and Atmospheric Administration and the Public Health Service)” after “military department”.
 
 Subsec. (c)(2)(C). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)(C)\], added subpar. (C).
 
@@ -218,7 +220,7 @@ Exclusion for Medicare-Eligible Beneficiaries.—The smoking cessation program s
 
 Elements.—The program shall include, at a minimum, the following elements:
 
-&emsp;“(1) The availability, at no cost to the beneficiary, of pharmaceuticals used for smoking cessation, witha limitation on the availability of such pharmaceuticals to the national mail-order pharmacy program under the TRICARE program if appropriate.
+&emsp;“(1) The availability, at no cost to the beneficiary, of pharmaceuticals used for smoking cessation, with a limitation on the availability of such pharmaceuticals to the national mail-order pharmacy program under the TRICARE program if appropriate.
 
 &emsp;“(2) Counseling.
 
@@ -344,7 +346,7 @@ Referral to Providers Outside Military Health Care System.—The Secretary shall
 
 “(d)
 
-Uniform System for Tracking of Performance.—The Secretary shall establish a uniform system for tracking the performance of the military health care system in meeting the requirements for access ofwounded, injured, or ill members of the Armed Forces to health care services described in subsection (a).
+Uniform System for Tracking of Performance.—The Secretary shall establish a uniform system for tracking the performance of the military health care system in meeting the requirements for access of wounded, injured, or ill members of the Armed Forces to health care services described in subsection (a).
 
 “(e)
 
@@ -694,13 +696,13 @@ Policy.—The Secretary of Defense shall take measures, in addition to those req
 
 “(2)
 
-Review and followup care.—The measures under this subsection shall provide for review of thehealth assessments under paragraph (1) by a medical professional and for any followup care and treatment that is otherwise authorized for medical or dental readiness.
+Review and followup care.—The measures under this subsection shall provide for review of the health assessments under paragraph (1) by a medical professional and for any followup care and treatment that is otherwise authorized for medical or dental readiness.
 
 “(3)
 
 Modification of predeployment health assessment survey.—In carrying out paragraph (1), the Secretary shall—
 
-&emsp;“(A) to the extent practicable, modify the predeployment health assessment survey to bring such survey into conformity with the detailed postdeployment health assessment survey in use as of October 1, 2004; and
+&emsp;“(A) to the extent practicable, modify the predeployment health assessment survey to bring suchsurvey into conformity with the detailed postdeployment health assessment survey in use as of October 1, 2004; and
 
 &emsp;“(B) ensure the use of the predeployment health assessment survey, as so modified, for predeployment health assessments after that date.”
 
@@ -816,7 +818,7 @@ Policy on implementation.—The Secretary of Defense shall by regulation establi
 
 &emsp;“(2)
 
-Identification and analysis of needs.—As part of the policy prescribed under paragraph (1), the Secretary shall require the Secretary of each military department, with respect to each mobilizationinstallation under the jurisdiction of that Secretary, to identify and analyze the anticipated health care needs at that installation with respect to members of the Armed Forces who may be expected to mobilize or deploy or redeploy at that installation as described in subsection (b)(1). Such identification and analysis shall be carried out so as to be completed before the arrival of such members at the installation.
+Identification and analysis of needs.—As part of the policy prescribed under paragraph (1), the Secretary shall require the Secretary of each military department, with respect to each mobilization installation under the jurisdiction of that Secretary, to identify and analyze the anticipated health care needs at that installation with respect to members of the Armed Forces who may be expected to mobilize or deploy or redeploy at that installation as described in subsection (b)(1). Such identification and analysis shall be carried out so as to be completed before the arrival of such members at the installation.
 
 &emsp;“(3)
 
@@ -920,7 +922,7 @@ Identification of Other Projects or Tests.—The Secretary of Defense also shall
 
 “(d) GAO
 
-Reports on Plan and Implementation.—(1) Not later than 30 days after submission of the planunder subsection (a), the Comptroller General shall submit to Congress a report reviewing the plan. The report shall include an examination of whether adequate resources have been committed, the timeliness of the information to be released to the Department of Veterans Affairs, and the adequacy of the procedures to notify affected veterans of potential exposure.
+Reports on Plan and Implementation.—(1) Not later than 30 days after submission of the plan under subsection (a), the Comptroller General shall submit to Congress a report reviewing the plan. The report shall include an examination of whether adequate resources have been committed, the timeliness of the information to be released to the Department of Veterans Affairs, and the adequacy of the procedures to notify affected veterans of potential exposure.
 
 “(2) Not later than six months after implementation of the plan begins, the Comptroller General shall submit to Congress a report evaluating the progress in the implementation of the plan.
 
@@ -1128,7 +1130,7 @@ Establishment of Program.—The Secretary of Defense and the Secretary of Vetera
 
 Funding.—Of the funds authorized to be appropriated in section 201(1) \[111 Stat. 1655\] for research, development, test, and evaluation for the Army, the sum of $4,500,000 shall be available for program element 62787A (medical technology) in the budget of the Department of Defense for fiscal year 1998 to carry out the clinical trials program established pursuant to subsection (b).”
 
-Pub. L. 103–337, div. A, title VII, §§721, 722, Oct. 5, 1994, 108 Stat. 2804, 2807, as amended by Pub. L. 104–106, div. A, title XV, §1504(a)(4), (5), Feb. 10, 1996, 110 Stat. 513; Pub. L. 108–136, div. A, title X, §1031(e), Nov. 24, 2003, 117 Stat. 1604, provided that:
+Pub. L. 103–337, div. A, title VII, §§721, 722, Oct. 5, 1994, 108 Stat. 2804, 2807, as amended by Pub. L. 104–106, div.A, title XV, §1504(a)(4), (5), Feb. 10, 1996, 110 Stat. 513; Pub. L. 108–136, div. A, title X, §1031(e), Nov. 24, 2003, 117 Stat. 1604, provided that:
 
 #### “SEC. 721. PROGRAMS RELATED TO DESERT STORM MYSTERY ILLNESS.
 
@@ -1272,7 +1274,7 @@ Reports.—(1) Not later than March 31, 1995, the Secretary of Defense shall sub
 
 Definition.—In this section, the term ‘Persian Gulf War’ has the meaning given such term in section 101 of title 38, United States Code.”
 
-\[For provisions establishing the Persian Gulf War Veterans Health Registry, provisions requiring a study by the Office of Technology Assessment of the Persian Gulf Registry and the Persian Gulf War Veterans Health Registry, provisions relating to an agreement with the National Academy of Sciences for review of health consequences of service during the Persian Gulf War, and coordination of government activities on health-related research on the Persian Gulf War, seetitle VII of Pub. L. 102–585, set out as a note under section 527 of Title 38, Veterans’ Benefits.\]
+\[For provisions establishing the Persian Gulf War Veterans Health Registry, provisions requiring a study by the Office of Technology Assessment of the Persian Gulf Registry and the Persian Gulf War Veterans Health Registry, provisions relating to an agreement with the National Academy of Sciences for review of health consequences of service during the Persian Gulf War, and coordination of government activities on health-related research on the Persian Gulf War, see title VII of Pub. L. 102–585, set out as a note under section 527 of Title 38, Veterans’ Benefits.\]
 
 #### Funding of Fisher Houses Associated With Army Medical Treatment Facilities
 
@@ -1280,7 +1282,7 @@ Pub. L. 103–335, title VIII, §8017, Sept. 30, 1994, 108 Stat. 2620, which pro
 
 #### Mental Health Evaluations of Members of Armed Forces
 
-Pub. L. 102–484, div. A, title V, §546(a)–(h), Oct. 23, 1992, 106 Stat. 2416–2419, directed Secretary of Defense, not later than 180 days after Oct. 23, 1992, to revise applicable regulations to incorporate certain requirements with respect to mental health evaluations of members of Armed Forces, including requirements relating to procedures for outpatient and inpatient evaluations, rights of members, additional rights of members and procedures for emergency or involuntary inpatient evaluations, and prohibition against use of referrals for mental health evaluations to retaliate against whistleblowers, and directed Secretary to submit to Committees on Armed Services of Senate and House of Representatives a report describing process of preparing regulations.
+Pub. L. 102–484, div. A, title V, §546(a)–(h), Oct. 23, 1992, 106 Stat. 2416–2419, directed Secretary of Defense,not later than 180 days after Oct. 23, 1992, to revise applicable regulations to incorporate certain requirements with respect to mental health evaluations of members of Armed Forces, including requirements relating to procedures for outpatient and inpatient evaluations, rights of members, additional rights of members and procedures for emergency or involuntary inpatient evaluations, and prohibition against use of referrals for mental health evaluations to retaliate against whistleblowers, and directed Secretary to submit to Committees on Armed Services of Senate and House of Representatives a report describing process of preparing regulations.
 
 #### Study on Risk-Sharing Contracts for Health Care
 
@@ -1352,7 +1354,7 @@ Pub. L. 99–661, div. A, title VII, §705(c), Nov. 14, 1986, 100 Stat. 3904, pr
 
 &emsp;“(A) The term ‘epidemiologic-assessment interview’ means questioning of a serum-positive member of the Armed Forces for purposes of medical treatment or counseling or for epidemiologic or statistical purposes.
 
-&emsp;“(B) The term ‘serum-positive member of the Armed Forces’ means a member of the Armed Forceswho has been identified as having been exposed to a virus associated with the acquired immune deficiency syndrome.
+&emsp;“(B) The term ‘serum-positive member of the Armed Forces’ means a member of the Armed Forces who has been identified as having been exposed to a virus associated with the acquired immune deficiency syndrome.
 
 &emsp;“(C) The term ‘adverse personnel action’ includes—
 
@@ -1376,7 +1378,7 @@ Pub. L. 99–661, div. A, title VII, §705(c), Nov. 14, 1986, 100 Stat. 3904, pr
 
 Report to President and Congress
 
-Pub. L. 92–129, title I, §101(c), Sept. 28, 1971, 85 Stat. 354, authorized Secretary of Defense and Secretary of Health, Education, and Welfare to conduct a joint study of means of meeting medical needs of Armed Forces through means requiring less dependence on Armed Forces medical personnel, giving consideration to providing medical care for military personnel and their dependents under contracts with clinics, hospitals, and individual members of the medical profession at or near military installations within and outside the United States. The study and recommendations were to be submitted to President and Congress no later than 6 months after Sept. 28, 1971.
+Pub. L. 92–129, title I, §101(c), Sept. 28, 1971, 85 Stat. 354, authorized Secretary of Defense and Secretary ofHealth, Education, and Welfare to conduct a joint study of means of meeting medical needs of Armed Forces through means requiring less dependence on Armed Forces medical personnel, giving consideration to providing medical care for military personnel and their dependents under contracts with clinics, hospitals, and individual members of the medical profession at or near military installations within and outside the United States. The study and recommendations were to be submitted to President and Congress no later than 6 months after Sept. 28, 1971.
 
 #### Executive Order No. 13075
 

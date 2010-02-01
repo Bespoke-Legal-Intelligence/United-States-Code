@@ -4,11 +4,11 @@ The Congress finds and declares that it is the national policy—
 
 &emsp;(1) to preserve, protect, develop, and where possible, to restore or enhance, the resources of the Nation's coastal zone for this and succeeding generations;
 
-&emsp;(2) to encourage and assist the states to exercise effectively their responsibilities in the coastal zone through the development and implementation of management programs toachieve wise use of the land and water resources of the coastal zone, giving full consideration to ecological, cultural, historic, and esthetic values as well as the needs for compatible economic development, which programs should at least provide for—
+&emsp;(2) to encourage and assist the states to exercise effectively their responsibilities in the coastal zone through the development and implementation of management programs to achieve wise use of the land and water resources of the coastal zone, giving full consideration to ecological, cultural, historic, and esthetic values as well as the needs for compatible economic development, which programs should at least provide for—
 
 &emsp;&emsp;(A) the protection of natural resources, including wetlands, flood plains, estuaries, beaches, dunes, barrier islands, coral reefs, and fish and wildlife and their habitat, within the coastal zone,
 
-&emsp;&emsp;(B) the management of coastal development to minimize the loss of life and property caused by improper development in flood-prone, storm surge, geological hazard, and erosion-prone areas and in areas likely to be affected by or vulnerable to sea level rise, land subsidence, and saltwater intrusion, and by the destruction of natural protective features such as beaches, dunes, wetlands, and barrier islands,
+&emsp;&emsp;(B) the management of coastal development to minimize the loss of life and property caused by improper development in flood-prone, storm surge, geological hazard, and erosion-prone areas and in areas likely to be affected by or vulnerable to sea level rise, land subsidence, and saltwater intrusion, and by the destruction of natural protective features such as beaches, dunes, wetlands, and barrier islands.<sup>1</sup>
 
 &emsp;&emsp;(C) the management of coastal development to improve, safeguard, and restore the quality of coastal waters, and to protect natural resources and existing uses of those waters,
 
@@ -55,4 +55,6 @@ Par. (3). Pub. L. 101–508, §6203(b)(5), inserted “including those areas lik
 Pars. (5), (6). Pub. L. 101–508, §6203(b)(6), added pars. (5) and (6).
 
 1980—Pub. L. 96–464, in amending section generally, expanded declaration of policy to provide for higher level of protection for significant natural coastal resources and inserted provisions for special area management planning to increase predictability for necessary coastal-dependent economic growth, improve hazard mitigation, and improve predictability in government decisionmaking.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

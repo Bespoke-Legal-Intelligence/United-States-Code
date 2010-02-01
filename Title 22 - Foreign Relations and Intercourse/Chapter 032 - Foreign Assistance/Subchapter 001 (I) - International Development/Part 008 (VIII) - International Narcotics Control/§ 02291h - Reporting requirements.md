@@ -14,7 +14,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;(2)(A) A description of the policies adopted, agreements concluded, and programs implemented by the Department of State in pursuit of its delegated responsibilities for international narcotics control, including appropriate information on the status of negotiations between the United States and other countries on updated extradition treaties, mutual legal assistance treaties, precursor chemical controls, money laundering, and agreements pursuant to section 2015 of the International Narcotics Act of 1986 (relating to interdiction procedures for vessels of foreign registry).
 
-&emsp;(B) Information on multilateral and bilateral strategies with respect to money laundering pursued by the Department of State, the Department of Justice, the Department of the Treasury, and other relevant United States Government agencies, either collectively or individually, to ensure the cooperation of foreign governments with respect to narcotics-related money laundering and to demonstrate that all United States Government agencies are pursuing a common strategy with respect to major money laundering countries. The report shall include specific detail to demonstrate that all United States Government agencies are pursuing a common strategy with respect to achieving international cooperation against money laundering and are pursuing a common strategy with respect to major money laundering countries, including a summary of United States objectives on a country-by-country basis.
+&emsp;(B) Information on multilateral and bilateral strategies with respect to money laundering pursued by the Department of State, the Department of Justice, the Department of the Treasury, and other relevant United States Government agencies, either collectively or individually, to ensure the cooperation of foreign governments with respect to narcotics-related money laundering and to demonstrate that all United States Government agencies are pursuing a common strategy with respect to major money laundering countries. The report shall include specific detail to demonstrate that all United States Government agencies are pursuing a common strategy with respect to achieving international cooperationagainst money laundering and are pursuing a common strategy with respect to major money laundering countries, including a summary of United States objectives on a country-by-country basis.
 
 &emsp;(3) The identity of those countries which are—
 
@@ -42,7 +42,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;(7) In addition, for those countries identified pursuant to paragraph (3)(D) the following:
 
-&emsp;&emsp;(A)(i) Which countries have financial institutions engaging in currency transactionsinvolving international narcotics trafficking proceeds that include significant amounts of United States currency or currency derived from illegal drug sales in the United States or that otherwise significantly affect the United States;
+&emsp;&emsp;(A)(i) Which countries have financial institutions engaging in currency transactions involving international narcotics trafficking proceeds that include significant amounts of United States currency or currency derived from illegal drug sales in the United States or that otherwise significantly affect the United States;
 
 &emsp;&emsp;(ii) which countries identified pursuant to clause (i) have not reached agreement with the United States authorities on a mechanism for exchanging adequate records in connection with narcotics investigations and proceedings; and
 
@@ -72,7 +72,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;&emsp;&emsp;(vi) enacted laws for the sharing of seized narcotics assets with other governments;
 
-&emsp;&emsp;&emsp;(vii) cooperated, when requested, with appropriate law enforcement agencies of other governments investigating financial crimes related to narcotics; and
+&emsp;&emsp;&emsp;(vii) cooperated, when requested, with appropriate law enforcement agencies ofother governments investigating financial crimes related to narcotics; and
 
 &emsp;&emsp;&emsp;(viii) addressed the problem on international transportation of illegal-source currency and monetary instruments.
 

@@ -78,7 +78,7 @@ A sponsoring organization (as defined in section 4966(d)(1)) shall give notice t
 
 #### Amendments
 
-2006—Subsec. (f). Pub. L. 109–280, which directed the addition of subsec. (f) to section 508, without specifyingthe act to be amended, was executed by making the addition to this section, which is section 508 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+2006—Subsec. (f). Pub. L. 109–280, which directed the addition of subsec. (f) to section 508, without specifying the act to be amended, was executed by making the addition to this section, which is section 508 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
 2004—Subsec. (d)(1), (2). Pub. L. 108–357 struck out “556(b)(2),” after “545(b)(2),”.
 

@@ -58,7 +58,7 @@ Section 278n of this title, referred to in subsec. (h)(1), was repealed and a ne
 
 2007—Subsec. (d). Pub. L. 110–69, §3006, substituted “twice each year” for “quarterly”.
 
-Subsec. (h)(1). Pub. L. 110–69, §3005, substituted “not later than 30 days after the submittal to Congress of the President's annual budget request in each year” for “on or before January 31 in each year” and inserted at end “Such report also shall comment on the programmatic planning document and updates thereto submitted to Congress by the Director under subsections (c) and (d) of section 278i of this title.”
+Subsec. (h)(1). Pub. L. 110–69, §3005, substituted “not later than 30 days after the submittal to Congress of the President's annual budget request in each year” for “on or before January 31 in each year” and inserted at end “Such report also shall comment on the programmatic planning document and updates theretosubmitted to Congress by the Director under subsections (c) and (d) of section 278i of this title.”
 
 1996—Subsec. (a). Pub. L. 104–113 substituted “15 members” for “nine members” and “at least 10” for “at least five”.
 

@@ -8,7 +8,7 @@ In carrying out his duties under this chapter the Secretary may conduct any inve
 
 &emsp;(2) to administer oaths;
 
-&emsp;(3) to require by subpena the attendance and testimony of witnesses and the production ofall books, papers, production and financial records, documents, matter, and materials, as the Secretary may request;
+&emsp;(3) to require by subpena the attendance and testimony of witnesses and the production of all books, papers, production and financial records, documents, matter, and materials, as the Secretary may request;
 
 &emsp;(4) to order testimony to be taken by deposition before any person who is designated by the Secretary and who has the power to administer oaths, and to compel testimony and the production of evidence in the same manner as authorized under paragraph (3) of this subsection; and
 
@@ -16,7 +16,7 @@ In carrying out his duties under this chapter the Secretary may conduct any inve
 
 #### (b) Refusal to obey subpena
 
-In case of refusal to obey a subpena served upon any person under this section, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the Attorney General at the request of the Secretary and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Secretary or to appear and produce documents before the Secretary. Any failure to obey such order of the court may be punished by such court as contempt thereof and subject to a penalty of up to $10,000 a day.
+In case of refusal to obey a subpena served upon any person under this section, the district court of the United States for any district in which such person is found, resides, or transactsbusiness, upon application by the Attorney General at the request of the Secretary and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Secretary or to appear and produce documents before the Secretary. Any failure to obey such order of the court may be punished by such court as contempt thereof and subject to a penalty of up to $10,000 a day.
 
 (Pub. L. 97–451, title I, §107, Jan. 12, 1983, 96 Stat. 2452.)
 

@@ -16,7 +16,7 @@ Phase II Requirements.—The Secretary shall require that the curriculum for Pha
 
 &emsp;&emsp;(A) so as to adequately prepare students to perform effectively in an assignment to a joint, multiservice organization; and
 
-&emsp;&emsp;(B) so that students progress from a basic knowledge of joint matters learned in Phase I instruction to the level of expertise necessary for successful performance in the joint arena.
+&emsp;&emsp;(B) so that students progress from a basic knowledge of joint matters learned in PhaseI instruction to the level of expertise necessary for successful performance in the joint arena.
 
 (c)
 

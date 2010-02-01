@@ -10,5 +10,5 @@ The Securities Exchange Act of 1934, referred to in text, is act June 6, 1934, c
 
 #### Effective Date
 
-Section not applicable to actions occurring before Nov. 19, 1988, see section 9 of Pub. L. 100–704 set out asan Effective Date of 1988 Amendment note under section 78<i>o</i> of this title.
+Section not applicable to actions occurring before Nov. 19, 1988, see section 9 of Pub. L. 100–704 set out as an Effective Date of 1988 Amendment note under section 78<i>o</i> of this title.
 

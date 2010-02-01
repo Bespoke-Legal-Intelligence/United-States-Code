@@ -22,7 +22,7 @@ The date of enactment of this section, referred to in subsec. (b), is the date o
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
-Section 1405 of Pub. L. 110–246, which directed that this section be added at the end of subtitle E of the Federal Agriculture Improvement and Reform Act of1996, was executed by adding this section at the end of subtitle E of title I of that Act, to reflect the probable intent of Congress.
+Section 1405 of Pub. L. 110–246, which directed that this section be added at the end of subtitle E of the Federal Agriculture Improvement and Reform Act of 1996, was executed by adding this section at the end of subtitle E of title I of that Act, to reflect the probable intent of Congress.
 
 #### Effective Date
 

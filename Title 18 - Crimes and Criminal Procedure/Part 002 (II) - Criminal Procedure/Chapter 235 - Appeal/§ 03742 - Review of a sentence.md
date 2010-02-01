@@ -128,7 +128,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (c), are set out
 
 #### Amendments
 
-2003—Subsec. (e). Pub. L. 108–21, §401(d)(2), in concluding provisions, substituted “, except with respect to determinations under subsection (3)(A) or (3)(B), shall give due deference to the district court's application ofthe guidelines to the facts. With respect to determinations under subsection (3)(A) or (3)(B), the court of appeals shall review de novo the district court's application of the guidelines to the facts” for “shall give due deference to the district court's application of the guidelines to the facts”.
+2003—Subsec. (e). Pub. L. 108–21, §401(d)(2), in concluding provisions, substituted “, except with respect to determinations under subsection (3)(A) or (3)(B), shall give due deference to the district court's application of the guidelines to the facts. With respect to determinations under subsection (3)(A) or (3)(B), the court of appeals shall review de novo the district court's application of the guidelines to the facts” for “shall give due deference to the district court's application of the guidelines to the facts”.
 
 Subsec. (e)(3). Pub. L. 108–21, §401(d)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “is outside the applicable guideline range, and is unreasonable, having regard for—
 
@@ -204,7 +204,7 @@ Subsec. (e)(2). Pub. L. 100–182, §5(4), inserted “or was imposed for an off
 
 Subsec. (e)(2)(A), (B). Pub. L. 100–182, §5(5), substituted “and” for “the court shall” before “remand”.
 
-Subsec. (e)(3). Pub. L. 100–182, §6, amended par. (3) generally. Prior to amendment, par. (3) read as follows:“was not imposed in violation of law or imposed as a result of an incorrect application of the sentencing guidelines, and is not unreasonable, it shall affirm the sentence.”
+Subsec. (e)(3). Pub. L. 100–182, §6, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “was not imposed in violation of law or imposed as a result of an incorrect application of the sentencing guidelines, and is not unreasonable, it shall affirm the sentence.”
 
 Subsec. (f). Pub. L. 100–182, §4, added subsec. (f).
 

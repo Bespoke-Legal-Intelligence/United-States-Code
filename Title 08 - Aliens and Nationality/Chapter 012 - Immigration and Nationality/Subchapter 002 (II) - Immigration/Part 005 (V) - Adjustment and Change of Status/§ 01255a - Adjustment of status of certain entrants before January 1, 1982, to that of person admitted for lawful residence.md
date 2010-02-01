@@ -114,7 +114,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(B) if the alien commits an act that (i) makes the alien inadmissible to the United States as an immigrant, except as otherwise provided under subsection (d)(2) of this section, or (ii) is convicted of any felony or three or more misdemeanors committed in the United States; or
 
-&emsp;&emsp;(C) at the end of the 43rd first month beginning after the date the alien is granted such status, unless the alien has filed an application for adjustment of such status pursuant to paragraph (1) and such application has not been denied.
+&emsp;&emsp;(C) at the end of the 43rd month beginning after the date the alien is granted such status, unless the alien has filed an application for adjustment of such status pursuant to paragraph (1) and such application has not been denied.
 
 #### (3) Authorized travel and employment during temporary residence
 
@@ -154,7 +154,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (4) Limitation on access to information
 
-&emsp;Files and records of qualified designated entities relating to an alien's seeking assistanceor information with respect to filing an application under this section are confidential and the Attorney General and the Service shall not have access to such files or records relating to an alien without the consent of the alien.
+&emsp;Files and records of qualified designated entities relating to an alien's seeking assistance or information with respect to filing an application under this section are confidential and the Attorney General and the Service shall not have access to such files or records relating to an alien without the consent of the alien.
 
 #### (5) Confidentiality of information
 
@@ -368,7 +368,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(A) to a Cuban and Haitian entrant (as defined in paragraph (1) or (2)(A) of section 501(e) of Public Law 96–422 \[8 U.S.C. 1255 note\], as in effect on April 1, 1983), or
 
-&emsp;&emsp;(B) in the case of assistance (other than assistance under a State program funded underpart A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]) which is furnished to an alien who is an aged, blind, or disabled individual (as defined in section 1614(a)(1) of the Social Security Act \[42 U.S.C. 1382c(a)(1)\]).
+&emsp;&emsp;(B) in the case of assistance (other than assistance under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]) which is furnished to an alien who is an aged, blind, or disabled individual (as defined in section 1614(a)(1) of the Social Security Act \[42 U.S.C. 1382c(a)(1)\]).
 
 #### (3) Restricted medicaid benefits
 
@@ -434,7 +434,7 @@ Beginning not later than the date designated by the Attorney General under subse
 
 #### References in Text
 
-The Military Selective Service Act, referred to in subsec. (a)(4)(D), is act June 24, 1948, ch. 625, 62 Stat.604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see note set out under section 451 of Title 50, Appendix, and Tables.
+The Military Selective Service Act, referred to in subsec. (a)(4)(D), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see note set out under section 451 of Title 50, Appendix, and Tables.
 
 Public Law 96–422, referred to in subsecs. (a) and (h)(2)(A), (5), is Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended, which is known as the Refugee Education Assistance Act of 1980, and is set out as a note under section 1522 of this title.
 
@@ -616,7 +616,7 @@ Section 301 of Pub. L. 101–649, as amended by Pub. L. 101–649, title VI, §6
 
 “(a)
 
-Temporary Stay of Removal and Work Authorization for Certain Eligible Immigrants.—The Attorney General shall provide that in the case of an alien who is an eligible immigrant (as defined in subsection (b)(1)) as of May 5, 1988 (in the case of a relationship to a legalized alien described in subsection (b)(2)(B) or (b)(2)(C)) or as of December 1, 1988 (in the case of a relationship to a legalized alien described in subsection (b)(2)(A)), who has entered the United States before such date, who resided in the United States on such date, and who is not lawfully admitted for permanent residence, the alien—
+Temporary Stay of Removal and Work Authorization for Certain Eligible Immigrants.—The Attorney General shall provide that in the case of an alien who is an eligible immigrant (as defined in subsection (b)(1)) as of May 5, 1988 (in the case of a relationship to a legalized alien described in subsection\(b)(2)(B) or (b)(2)(C)) or as of December 1, 1988 (in the case of a relationship to a legalized alien described in subsection (b)(2)(A)), who has entered the United States before such date, who resided in the United States on such date, and who is not lawfully admitted for permanent residence, the alien—
 
 &emsp;“(1) may not be removed or otherwise required to depart from the United States on a ground specified in paragraph (1)(A), (1)(B), (1)(C), (3)(A), of section 237(a) of the Immigration and Nationality Act \[8 U.S.C. 1227(a)\] (other than so much of section 237(a)(1)(A) of such Act as relates to a ground of inadmissibility described in paragraph (2) or (3) of section 212(a) of such Act \[8 U.S.C. 1182(a)\]), and
 
@@ -666,7 +666,7 @@ Construction.—Nothing in this section shall be construed as authorizing an ali
 
 Effective Date.—This section shall take effect on October 1, 1991; except that the delay in effectiveness of this section shall not be construed as reflecting a Congressional belief that the existing family fairness program should be modified in any way before such date.”
 
-\[Section 383(b) of div. C of Pub. L. 104–208 provided that: “The amendments made by subsection (a) \[amending section 301 of Pub. L. 101–649, set out above\]shall apply to benefits granted or extended after the date of the enactment of this Act \[Sept. 30, 1996\].”\]
+\[Section 383(b) of div. C of Pub. L. 104–208 provided that: “The amendments made by subsection (a) \[amending section 301 of Pub. L. 101–649, set out above\] shall apply to benefits granted or extended after the date of the enactment of this Act \[Sept. 30, 1996\].”\]
 
 \[Section 206(b) of Pub. L. 103–416 provided that: “The amendment made by subsection (a) \[amending section 301 of Pub. L. 101–649, set out above\] shall be deemed to have become effective as of October 1, 1991.”\]
 

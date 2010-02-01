@@ -16,17 +16,9 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 #### (b) Limitations
 
-#### (1) Maximum credit
+#### (1) Maximum credit for fuel cells
 
-&emsp;The credit allowed under subsection (a) (determined without regard to subsection (c)) for any taxable year shall not exceed—
-
-&emsp;&emsp;(A) $2,000 with respect to any qualified solar water heating property expenditures,
-
-&emsp;&emsp;(B) $500 with respect to each half kilowatt of capacity of qualified fuel cell property (as defined in section 48(c)(1)) for which qualified fuel cell property expenditures are made,
-
-&emsp;&emsp;(C) $500 with respect to each half kilowatt of capacity (not to exceed $4,000) of wind turbines for which qualified small wind energy property expenditures are made, and
-
-&emsp;&emsp;(D) $2,000 with respect to any qualified geothermal heat pump property expenditures.
+&emsp;In the case of any qualified fuel cell property expenditure, the credit allowed under subsection (a) (determined without regard to subsection (c)) for any taxable year shall not exceed $500 with respect to each half kilowatt of capacity of the qualified fuel cell property (as defined in section 48(c)(1)) to which such expenditure relates.
 
 #### (2) Certification of solar water heating property
 
@@ -58,7 +50,7 @@ For purposes of this section—
 
 #### (1) Qualified solar water heating property expenditure
 
-&emsp;The term “qualified solar water heating property expenditure” means an expenditure for property to heat water for use in a dwelling unit located in the United States and used as a residence by the taxpayer if at least half of the energy used by such property for such purpose is derived from the sun.
+&emsp;The term “qualified solar water heating property expenditure” means an expenditurefor property to heat water for use in a dwelling unit located in the United States and used as a residence by the taxpayer if at least half of the energy used by such property for such purpose is derived from the sun.
 
 #### (2) Qualified solar electric property expenditure
 
@@ -66,7 +58,7 @@ For purposes of this section—
 
 #### (3) Qualified fuel cell property expenditure
 
-&emsp;The term “qualified fuel cell property expenditure” means an expenditure for qualified fuel cell property (as defined in section 48(c)(1)) installed on or in connection with a dwelling unit located in the United States andused as a principal residence (within the meaning of section 121) by the taxpayer.
+&emsp;The term “qualified fuel cell property expenditure” means an expenditure for qualified fuel cell property (as defined in section 48(c)(1)) installed on or in connection with a dwelling unit located in the United States and used as a principal residence (within the meaning of section 121) by the taxpayer.
 
 #### (4) Qualified small wind energy property expenditure
 
@@ -102,25 +94,17 @@ For purposes of this section—
 
 &emsp;Expenditures which are properly allocable to a swimming pool, hot tub, or any other energy storage medium which has a function other than the function of such storage shall not be taken into account for purposes of this section.
 
-#### (4) Dollar amounts in case of joint occupancy
+#### (4) Fuel cell expenditure limitations in case of joint occupancy
 
-&emsp;In the case of any dwelling unit which is jointly occupied and used during any calendar year as a residence by two or more individuals the following rules shall apply:
+&emsp;In the case of any dwelling unit with respect to which qualified fuel cell property expenditures are made and which is jointly occupied and used during any calendar year as a residence by two or more individuals, the following rules shall apply:
 
-&emsp;&emsp;(A)
+#### (A) Maximum expenditures for fuel cells
 
-Maximum expenditures.—The maximum amount of expenditures which may be taken into account under subsection (a) by all such individuals with respect to such dwelling unit during such calendar year shall be—
+&emsp;&emsp;The maximum amount of such expenditures which may be taken into account under subsection (a) by all such individuals with respect to such dwelling unit during such calendar year shall be $1,667 in the case of each half kilowatt of capacity of qualified fuel cell property (as defined in section 48(c)(1)) with respect to which such expenditures relate.
 
-&emsp;&emsp;&emsp;(i) $6,667 in the case of any qualified solar water heating property expenditures,
+#### (B) Allocation of expenditures
 
-&emsp;&emsp;&emsp;(ii) $1,667 in the case of each half kilowatt of capacity of qualified fuel cell property (as defined in section 48(c)(1)) for which qualified fuel cell property expenditures are made,
-
-&emsp;&emsp;&emsp;(iii) $1,667 in the case of each half kilowatt of capacity (not to exceed $13,333) of wind turbines for which qualified small wind energy property expenditures are made, and
-
-&emsp;&emsp;&emsp;(iv) $6,667 in the case of any qualified geothermal heat pump property expenditures.
-
-&emsp;&emsp;(B)
-
-Allocation of expenditures.—The expenditures allocated to any individual for the taxable year in which such calendar year ends shall be an amount equal to the lesser of—
+&emsp;&emsp;The expenditures allocated to any individual for the taxable year in which such calendar year ends shall be an amount equal to the lesser of—
 
 &emsp;&emsp;&emsp;(i) the amount of expenditures made by such individual with respect to such dwelling during such calendar year, or
 
@@ -129,8 +113,6 @@ Allocation of expenditures.—The expenditures allocated to any individual for t
 &emsp;&emsp;&emsp;&emsp;(I) the numerator of which is the amount of such expenditures with respect to such dwelling made by such individual during such calendar year, and
 
 &emsp;&emsp;&emsp;&emsp;(II) the denominator of which is the total expenditures made by all such individuals with respect to such dwelling during such calendar year.
-
-&emsp;&emsp;(C) Subparagraphs (A) and (B) shall be applied separately with respect to expenditures described in paragraphs (1), (2), and (3) of subsection (d).
 
 #### (5) Tenant-stockholder in cooperative housing corporation
 
@@ -160,10 +142,6 @@ Allocation of expenditures.—The expenditures allocated to any individual for t
 
 &emsp;&emsp;In the case of an expenditure in connection with the construction or reconstruction of a structure, such expenditure shall be treated as made when the original use of the constructed or reconstructed structure by the taxpayer begins.
 
-#### (9) Property financed by subsidized energy financing
-
-&emsp;For purposes of determining the amount of expenditures made by any individual with respect to any dwelling unit, there shall not be taken into account expenditures which are made from subsidized energy financing (as defined in section 48(a)(4)(C)).
-
 #### (f) Basis adjustments
 
 For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
@@ -172,13 +150,23 @@ For purposes of this subtitle, if a credit is allowed under this section for any
 
 The credit allowed under this section shall not apply to property placed in service after December 31, 2016.
 
-(Added Pub. L. 109–58, title XIII, §1335(a), Aug. 8, 2005, 119 Stat. 1033; amended Pub. L. 109–135, title IV, §402(i)(1), (2), (3)(E), Dec. 21, 2005, 119 Stat. 2612, 2614; Pub. L. 109–432, div. A, title II, §206, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title I, §106(a)–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, 122 Stat. 3814–3816.)
+(Added Pub. L. 109–58, title XIII, §1335(a), Aug. 8, 2005, 119 Stat. 1033; amended Pub. L. 109–135, title IV, §402(i)(1), (2), (3)(E), Dec. 21, 2005, 119 Stat. 2612, 2614; Pub. L. 109–432, div. A, title II, §206, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title I, §106(a)–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, 122 Stat. 3814–3816; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(B), 1122(a), Feb. 17, 2009, 123 Stat. 320, 324.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 402(i)(3)(H) of Pub. L. 109–135, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
 #### Amendments
+
+2009—Subsec. (b)(1). Pub. L. 111–5, §1122(a)(1), amended par. (1) generally. Prior to amendment, par. (1) related to maximum credit with respect to qualified solar water heating property expenditures, qualified fuel cell property, qualified small wind energy property expenditures, and qualified geothermal heat pump property expenditures.
+
+Subsec. (e)(4). Pub. L. 111–5, §1122(a)(2)(A), added par. heading and introductory provisions and struck out former heading and introductory provisions. Former introductory provisions read as follows: “In the case of any dwelling unit which is jointly occupied and used during any calendar year as a residence by two or more individuals the following rules shall apply:”.
+
+Subsec. (e)(4)(A). Pub. L. 111–5, §1122(a)(2)(A), added subpar. (A) and struck out former subpar. (A) which related to maximum amount of expenditures allowed for credit in jointly occupied dwelling units with respect to qualified solar water heating property expenditures, qualified fuel cell property, qualified small wind energy property expenditures, and qualified geothermal heat pump property expenditures.
+
+Subsec. (e)(4)(C). Pub. L. 111–5, §1122(a)(2)(B), struck out subpar. (C) which read as follows: “Subparagraphs (A) and (B) shall be applied separately with respect to expenditures described in paragraphs (1), (2), and (3) of subsection (d).”
+
+Subsec. (e)(9). Pub. L. 111–5, §1103(b)(2)(B), struck out par. (9). Text read as follows: “For purposes of determining the amount of expenditures made by any individual with respect to any dwelling unit, there shall not be taken into account expenditures which are made from subsidized energy financing (as defined in section 48(a)(4)(C)).”
 
 2008—Subsec. (a)(4). Pub. L. 110–343, §106(c)(1), added par. (4).
 
@@ -214,13 +202,19 @@ Subsec. (g). Pub. L. 109–432, §206(a), substituted “2008” for “2007”.
 
 2005—Subsec. (b)(1). Pub. L. 109–135, §402(i)(1), inserted “(determined without regard to subsection (c))” after “subsection (a)” in introductory provisions.
 
-Subsec. (c). Pub. L. 109–135, §402(i)(3)(E), (H), temporarily reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.” See Effective and Termination Dates of 2005 Amendment note below.
+Subsec. (c). Pub. L. 109–135, §402(i)(3)(E), (H), temporarily reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section), suchexcess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.” See Effective and Termination Dates of 2005 Amendment note below.
 
 Subsec. (e)(4)(A), (B). Pub. L. 109–135, §402(i)(2), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 
 “(A) The amount of the credit allowable, under subsection (a) by reason of expenditures (as the case may be) made during such calendar year by any of such individuals with respect to such dwelling unit shall be determined by treating all of such individuals as 1 taxpayer whose taxable year is such calendar year.
 
 “(B) There shall be allowable, with respect to such expenditures to each of such individuals, a credit under subsection (a) for the taxable year in which such calendar year ends in an amount which bears the same ratio to the amount determined under subparagraph (A) as the amount of such expenditures made by such individual during such calendar year bears to the aggregate of such expenditures made by all of such individuals during such calendar year.”
+
+#### Effective Date of 2009 Amendment
+
+Amendment by section 1103(b)(2)(B) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1103(c)(2) of Pub. L. 111–5, set out as a note under section 25C of this title.
+
+Pub. L. 111–5, div. B, title I, §1122(b), Feb. 17, 2009, 123 Stat. 324, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008.”
 
 #### Effective Date of 2008 Amendment
 

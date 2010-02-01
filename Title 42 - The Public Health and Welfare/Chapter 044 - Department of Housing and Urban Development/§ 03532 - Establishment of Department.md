@@ -2,7 +2,7 @@
 
 #### (a) Designation; appointment and supervision of Secretary
 
-There is hereby established at the seat of government an executive department to be known as the Department of Housing and Urban Development (hereinafter referred to as the “Department”). There shall be at the head of the Department a Secretary of Housing and Urban Development (hereinafter referred to as the “Secretary”), who shall be appointed by the President by and with the advice and consent of the Senate. The Department shall be administeredunder the supervision and direction of the Secretary.
+There is hereby established at the seat of government an executive department to be known as the Department of Housing and Urban Development (hereinafter referred to as the “Department”). There shall be at the head of the Department a Secretary of Housing and Urban Development (hereinafter referred to as the “Secretary”), who shall be appointed by the President by and with the advice and consent of the Senate. The Department shall be administered under the supervision and direction of the Secretary.
 
 #### (b) General duties of Secretary
 
@@ -50,7 +50,7 @@ For order of succession during any period when both Secretary and Deputy Secreta
 
 Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1593, provided in part that: “Notwithstanding any other provision of this or any other Act with respect to any fiscal year, the Office of Lead-Based Paint Abatement and Poisoning Prevention shall be contained within the Office of the Secretary, and said Office shall have ultimate responsibility within the Department of Housing and Urban Development, except for the Secretary, for all matters related to the abatement of lead in housing, and research related to lead abatement, consistent with the responsibilities outlined for the Office in Senate Report 102–107.”
 
-Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 753, provided in part: “That there shall be established, in the Office of the Secretary, an Office of Lead Based Paint Abatement and Poisoning Prevention to be headed by a career Senior Executive Service employee who shall be responsible for all lead-based paint abatement and poisoning prevention activities (including, but not limited to, research, abatement, training regulations and policy development): <i>Provided further</i>, That such officeshall be allocated a staffing level of twenty staff years.”
+Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 753, provided in part: “That there shall be established, in the Office of the Secretary, an Office of Lead Based Paint Abatement and Poisoning Prevention to be headed by a career Senior Executive Service employee who shall be responsible for all lead-based paint abatement and poisoning prevention activities (including, but not limited to, research, abatement, training regulations and policy development): <i>Provided further</i>, That such office shall be allocated a staffing level of twenty staff years.”
 
 #### Condominium and Cooperative Study and Report; Submission to Congress
 

@@ -28,7 +28,7 @@ The Congress finds that—
 
 1998—Par. (1). Pub. L. 105–277, §1223(17)(A), substituted “Department of State” for “United States Arms Control and Disarmament Agency”.
 
-Par. (2). Pub. L. 105–277, §1223(17)(B), (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “as defined in this chapter, the terms ‘arms control’ and ‘disarmament’ mean ‘the identification, verification, inspection, limitation, control, reduction, or elimination, of armed forces and armaments of all kinds under international agreement to establish an effective system of international control’;”.
+Par. (2). Pub. L. 105–277, §1223(17)(B), (C), redesignated par. (3) as (2) and struck out former par. (2) which readas follows: “as defined in this chapter, the terms ‘arms control’ and ‘disarmament’ mean ‘the identification, verification, inspection, limitation, control, reduction, or elimination, of armed forces and armaments of all kinds under international agreement to establish an effective system of international control’;”.
 
 Par. (3). Pub. L. 105–277, §1223(17)(C), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 

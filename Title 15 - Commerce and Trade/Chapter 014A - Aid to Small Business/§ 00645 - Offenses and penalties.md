@@ -70,7 +70,7 @@ Pub. L. 105–85 substituted “concern owned and controlled by women” for “
 
 Subsec. (e). Pub. L. 103–355, §7106(c)(2), substituted “, a ‘small business concern owned and controlled by socially and economically disadvantaged individuals’, or a ‘small business concerns owned and controlled by women’ ” for “or ‘small business concern owned and controlled by socially and economically disadvantaged individuals’ ”.
 
-1988—Subsec. (d). Pub. L. 100–656, §405(a), amended subsec. (d) generally, designating existing provisions as par. (1), redesignating former pars. (1) to (4) as subpars. (A) to (D), respectively, and in subpar. (D), substituting “subject to the penalties and remedies described in paragraph (2)” for “punished by a fine of not more than $50,000 or by imprisonment for not more than five years, or both”, and adding par. (2).
+1988—Subsec. (d). Pub. L. 100–656, §405(a), amended subsec. (d) generally, designating existing provisions as par. (1), redesignating former pars. (1) to (4) as subpars. (A) to (D), respectively, and in subpar. (D), substituting“subject to the penalties and remedies described in paragraph (2)” for “punished by a fine of not more than $50,000 or by imprisonment for not more than five years, or both”, and adding par. (2).
 
 Subsec. (f). Pub. L. 100–656, §405(b), added subsec. (f).
 

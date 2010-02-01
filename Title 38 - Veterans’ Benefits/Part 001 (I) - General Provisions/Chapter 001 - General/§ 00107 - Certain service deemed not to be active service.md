@@ -34,13 +34,13 @@
 
 &emsp;&emsp;(ii) if the individual's service had been deemed to be active military, naval, or air service, would have been paid pension under section 1521 of this title without denial or discontinuance by reason of section 1522 of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1111; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 89–641, §2(a), Oct. 11, 1966, 80 Stat. 885; Pub. L. 97–295, §4(4), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–576, title VII, §701(6), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 102–83, §§4(a)(1), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 103–446, title V, §507(a), Nov. 2, 1994, 108 Stat. 4664; Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–57; Pub. L. 106–419, title III, §§331(b), 332(a), Nov. 1, 2000, 114 Stat. 1856; Pub. L. 107–14, §8(a)(1), June 5, 2001, 115 Stat. 34; Pub. L. 107–330, title III, §308(g)(2), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–183, title II, §§211(a), 212(a), Dec. 16, 2003, 117 Stat. 2657.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1111; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 89–641, §2(a), Oct. 11, 1966, 80 Stat. 885; Pub. L. 97–295, §4(4), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–576, title VII, §701(6), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 102–83, §§4(a)(1), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 103–446, title V, §507(a), Nov. 2, 1994, 108 Stat. 4664; Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–57; Pub. L. 106–419, title III, §§331(b), 332(a), Nov. 1, 2000, 114 Stat. 1856; Pub.L. 107–14, §8(a)(1), June 5, 2001, 115 Stat. 34; Pub. L. 107–330, title III, §308(g)(2), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–183, title II, §§211(a), 212(a), Dec. 16, 2003, 117 Stat. 2657.)
 
 #### References in Text
 
 Section 14 of the Armed Forces Voluntary Recruitment Act of 1945, referred to in subsec. (b), is section 14 of act Oct. 6, 1945, ch. 393, 59 Stat. 543, which enacted section 637 of former Title 10, Army and Air Force, and was omitted from the Code in the revision and reenactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, 70A Stat. 1.
 
-Sections 620 and 621 of the National Service Life Insurance Act of 1940, referred to in subsec. (b)(1), are sections 620 and 621 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, §10, 65 Stat. 36, which enacted sections 820 and 821 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which were repealed and the provisions thereof reenacted as sections722(a) and 723 \[now 1922(a) and 1923\] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+Sections 620 and 621 of the National Service Life Insurance Act of 1940, referred to in subsec. (b)(1), are sections 620 and 621 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, §10, 65 Stat. 36, which enacted sections 820 and 821 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which were repealed and the provisions thereof reenacted as sections 722(a) and 723 \[now 1922(a) and 1923\] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 The date of the enactment of the Veterans Benefits Act of 2003, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 108–183, which was approved Dec. 16, 2003.
 
@@ -119,6 +119,124 @@ Section 2(b) of Pub. L. 89–641 provided that: “The amendments made by subsec
 #### Effective Date of 1961 Amendment
 
 Amendment by Pub. L. 87–268 effective Oct. 1, 1961, see section 3 of Pub. L. 87–268, set out as a note under section 1312 of this title.
+
+#### Payments to Eligible Persons Who Served in the United States Armed Forces in the Far East During World War II
+
+Pub. L. 111–5, div. A, title X, §1002, Feb. 17, 2009, 123 Stat. 200, provided that:
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) The Philippine islands became a United States possession in 1898 when they were ceded from Spain following the Spanish-American War.
+
+&emsp;“(2) During World War II, Filipinos served in a variety of units, some of which came under the direct control of the United States Armed Forces.
+
+&emsp;“(3) The regular Philippine Scouts, the new Philippine Scouts, the Guerrilla Services, and more than 100,000 members of the Philippine Commonwealth Army were called into the service of the United States Armed Forces of the Far East on July 26, 1941, by an executive order of President Franklin D. Roosevelt.
+
+&emsp;“(4) Even after hostilities had ceased, wartime service of the new Philippine Scouts continued as a matter of law until the end of 1946, and the force gradually disbanded and was disestablished in 1950.
+
+&emsp;“(5) Filipino veterans who were granted benefits prior to the enactment of the so-called Rescissions Acts of 1946 (Public Laws 79–301 \[60 Stat. 6\] and 79–391 \[60 Stat. 221\]) currently receive full benefits under laws administered by the Secretary of Veterans Affairs, but under section 107 of title 38, United States Code, the service of certain other Filipino veterans is deemed not to be active service for purposes of such laws.
+
+&emsp;“(6) These other Filipino veterans only receive certain benefits under title 38, United States Code, and, depending on where they legally reside, are paid such benefit amounts at reduced rates.
+
+&emsp;“(7) The benefits such veterans receive include service-connected compensation benefits paid under chapter 11 of title 38, United States Code, dependency indemnity compensation survivor benefits paid under chapter 13 of title 38, United States Code, and burial benefits under chapters 23 and 24 of title 38, United States Code, and such benefits are paid to beneficiaries at the rate of $0.50 per dollar authorized, unless they lawfully reside in the United States.
+
+&emsp;“(8) Dependents’ educational assistance under chapter 35 of title 38, United States Code, is also payable for the dependents of such veterans at the rate of $0.50 per dollar authorized, regardless of the veterans’ residency.
+
+“(b)
+
+Compensation Fund.—
+
+&emsp;“(1)
+
+In General.—There is in the general fund of the Treasury a fund to be known as the ‘Filipino Veterans Equity Compensation Fund’ (in this section referred to as the ‘compensation fund’).
+
+&emsp;“(2)
+
+Availability of Funds.—Subject to the availability of appropriations for such purpose, amounts in the fund shall be available to the Secretary of Veterans Affairs without fiscal year limitation to make payments to eligible persons in accordance with this section.
+
+“(c)
+
+Payments.—
+
+&emsp;“(1)
+
+In General.—The Secretary may make a payment from the compensation fund to an eligible person who, during the one-year period beginning on the date of the enactment of this Act \[Feb. 17, 2009\], submits to the Secretary a claim for benefits under this section. The application for the claim shall contain such information and evidence as the Secretary may require.
+
+&emsp;“(2)
+
+Payment to Surviving Spouse.—If an eligible person who has filed a claim for benefits under this section dies before payment is made under this section, the payment under this section shall be made instead to the surviving spouse, if any, of the eligible person.
+
+“(d)
+
+Eligible Persons.—An eligible person is any person who—
+
+&emsp;“(1) served—
+
+&emsp;&emsp;“(A) before July 1, 1946, in the organized military forces of the Government of the Commonwealth of the Philippines, while such forces were in the service of the Armed Forces of the United States pursuant to the military order of the President dated July 26, 1941, including among such military forces organized guerrilla forces under commanders appointed, designated, or subsequently recognized by the Commander in Chief, Southwest Pacific Area, or other competent authority in the Army of the United States; or
+
+&emsp;&emsp;“(B) in the Philippine Scouts under section 14 of the Armed Forces Voluntary Recruitment Act of 1945 (59 Stat. 538 \[543\])\[enacting section 637 of former Title 10, Army and Air Force\]; and
+
+&emsp;“(2) was discharged or released from service described in paragraph (1) under conditions other than dishonorable.
+
+“(e)
+
+Payment Amounts.—Each payment under this section shall be—
+
+&emsp;“(1) in the case of an eligible person who is not a citizen of the United States, in the amount of $9,000; and
+
+&emsp;“(2) in the case of an eligible person who is a citizen of the United States, in the amount of $15,000.
+
+“(f)
+
+Limitation.—The Secretary may not make more than one payment under this section for each eligible person described in subsection (d).
+
+“(g)
+
+Clarification of Treatment of Payments Under Certain Laws.—Amounts paid to a person under this section—
+
+&emsp;“(1) shall be treated for purposes of the internal revenue laws of the United States as damages for human suffering; and
+
+&emsp;“(2) shall not be included in income or resources for purposes of determining—
+
+&emsp;&emsp;“(A) eligibility of an individual to receive benefits described in section 3803(c)(2)(C) of title 31, United States Code, or the amount of such benefits;
+
+&emsp;&emsp;“(B) eligibility of an individual to receive benefits under title VIII of the Social Security Act \[42 U.S.C. 1001 et seq.\], or the amount of such benefits; or
+
+&emsp;&emsp;“(C) eligibility of an individual for, or the amount of benefits under, any other Federal or federally assisted program.
+
+“(h)
+
+Release.—
+
+&emsp;“(1)
+
+In General.—Except as provided in paragraph (2), the acceptance by an eligible person or surviving spouse, as applicable, of a payment under this section shall be final, and shall constitute a complete release of any claim against the United States by reason of any service described in subsection (d).
+
+&emsp;“(2)
+
+Payment of Prior Eligibility Status.—Nothing in this section shall prohibit a person from receiving any benefit (including health care, survivor, or burial benefits) which the person would have been eligible to receive based on laws in effect as of the day before the date of the enactment of this Act \[Feb. 17, 2009\].
+
+“(i)
+
+Recognition of Service.—The service of a person as described in subsection (d) is hereby recognized as active military service in the Armed Forces for purposes of, and to the extent provided in, this section.
+
+“(j)
+
+Administration.—
+
+&emsp;“(1) The Secretary shall promptly issue application forms and instructions to ensure the prompt and efficient administration of the provisions of this section.
+
+&emsp;“(2) The Secretary shall administer the provisions of this section in a manner consistent with applicable provisions of title 38, United States Code, and other provisions of law, and shall apply the definitions in section 101 of such title in the administration of such provisions, except to the extent otherwise provided in this section.
+
+“(k)
+
+Reports.—The Secretary shall include, in documents submitted to Congress by the Secretary in support of the President's budget for each fiscal year, detailed information on the operation of the compensation fund, including the number of applicants, the number of eligible persons receiving benefits, the amounts paid out of the compensation fund, and the administration of the compensation fund for the most recent fiscal year for which such data is available.
+
+“(<i>l</i>)
+
+Authorization of Appropriation.—There is authorized to be appropriated to the compensation fund $198,000,000, to remain available until expended, to make payments under this section.”
 
 #### Refund of Erroneously Deducted NSLI Premium to Philippine Veterans on Proper Application
 

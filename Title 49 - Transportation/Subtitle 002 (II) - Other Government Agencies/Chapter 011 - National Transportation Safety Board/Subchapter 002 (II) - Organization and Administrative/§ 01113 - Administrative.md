@@ -166,7 +166,7 @@ In subsection (b)(1)(A), the text of 49 App.:1441(b) (words before semicolon) is
 
 In subsection (b)(1)(B), the words “make agreements and other transactions” are substituted for “enter into . . . such contracts, leases, cooperative agreements, or other transactions” to eliminate unnecessary words. The words “to carry out this chapter” are substituted for “in the conduct of the functions and the duties of the Board under this chapter” for consistency. The words “with any government entity or any person” are omitted as surplus.
 
-In subsection (b)(1)(C), the words “Department of Transportation and of other” are omitted as surplus.The words “department, agency, or instrumentality of the United States Government” are substituted for “civilian or military agencies and instrumentalities of the Federal Government” in 49 App.:1903(b)(6)(A) for consistency in the revised title and with other titles of the Code. The text of 49 App.:1441(b) (words after semicolon) is omitted as superseded by 49 App.:1903(b)(6)(A).
+In subsection (b)(1)(C), the words “Department of Transportation and of other” are omitted as surplus. The words “department, agency, or instrumentality of the United States Government” are substituted for “civilian or military agencies and instrumentalities of the Federal Government” in 49 App.:1903(b)(6)(A) for consistency in the revised title and with other titles of the Code. The text of 49 App.:1441(b) (words after semicolon) is omitted as superseded by 49 App.:1903(b)(6)(A).
 
 In subsection (b)(1)(D), the word “available” is omitted as surplus.
 

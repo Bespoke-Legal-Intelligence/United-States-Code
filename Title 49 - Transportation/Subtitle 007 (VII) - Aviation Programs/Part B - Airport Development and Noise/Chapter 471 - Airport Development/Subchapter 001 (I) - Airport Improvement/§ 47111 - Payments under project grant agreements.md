@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—After making a project grant agreement under this subchapter and consulting with the sponsor, the Secretary of Transportation may decide when and in what amounts payments under the agreement will be made. Payments totaling not more than 90 percent of the United States Government's share of the project's estimated allowable costs may be made before the project is completed if the sponsor certifies to the Secretary that the total amount expended from the advance payments atany time will not be more than the cost of the airport development work completed on the project at that time.
+General Authority.—After making a project grant agreement under this subchapter and consulting with the sponsor, the Secretary of Transportation may decide when and in what amounts payments under the agreement will be made. Payments totaling not more than 90 percent of the United States Government's share of the project's estimated allowable costs may be made before the project is completed if the sponsor certifies to the Secretary that the total amount expended from the advance payments at any time will not be more than the cost of the airport development work completed on the project at that time.
 
 (b)
 
@@ -30,7 +30,7 @@ Withholding Payments.—(1) The Secretary may withhold a payment under a grant a
 
 (e)
 
-Action on Grant Assurances Concerning Airport Revenues.—If, after notice and opportunity for a hearing, the Secretary finds a violation of section 47107(b) of this title, as further defined by the Secretary under section 47107(<i>l</i>) of this title, or a violation of an assurance made under section 47107(b) of this title, and the Secretary has provided an opportunity for the airport sponsor to take corrective action to cure such violation, and such corrective action has not been taken within the period of time set by the Secretary, the Secretary shall withhold approval of any new grant application for funds under this chapter, or any proposed modification to an existing grant that would increase the amount of funds made available under this chapter to the airport sponsor, and withhold approval of any new application to impose a fee under section 40117 of this title. Such applications may thereafter be approved only upon a finding by the Secretary that such corrective action as the Secretary requires has been taken to address the violation and that the violation no longer exists.
+Action on Grant Assurances Concerning Airport Revenues.—If, after notice and opportunity for a hearing, the Secretary finds a violation of section 47107(b) of this title, as further defined by the Secretary under section 47107(<i>l</i>) of this title, or a violation of an assurance madeunder section 47107(b) of this title, and the Secretary has provided an opportunity for the airport sponsor to take corrective action to cure such violation, and such corrective action has not been taken within the period of time set by the Secretary, the Secretary shall withhold approval of any new grant application for funds under this chapter, or any proposed modification to an existing grant that would increase the amount of funds made available under this chapter to the airport sponsor, and withhold approval of any new application to impose a fee under section 40117 of this title. Such applications may thereafter be approved only upon a finding by the Secretary that such corrective action as the Secretary requires has been taken to address the violation and that the violation no longer exists.
 
 (f)
 

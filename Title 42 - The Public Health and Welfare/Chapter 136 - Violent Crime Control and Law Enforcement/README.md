@@ -468,9 +468,9 @@ I74subpart 1—education and training for judges and court personnel in state co
 
 |  |  |
 | :--- | ---: |
-| [14071\.](Subchapter%20006%20%28VI%29%20-%20Crimes%20Against%20Children/%C2%A7%2014071%20-%20Jacob%20Wetterling%20Crimes%20Against%20Children%20and%20Sexually%20Violent%20Offender%20Registration%20Program.md) | Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Program. |
-| [14072\.](Subchapter%20006%20%28VI%29%20-%20Crimes%20Against%20Children/%C2%A7%2014072%20-%20FBI%20database.md) | FBI database. |
-| [14073\.](Subchapter%20006%20%28VI%29%20-%20Crimes%20Against%20Children/%C2%A7%2014073%20-%20Immunity%20for%20good%20faith%20conduct.md) | Immunity for good faith conduct. |
+| 14071\. | Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Program. |
+| 14072\. | FBI database. |
+| 14073\. | Immunity for good faith conduct. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

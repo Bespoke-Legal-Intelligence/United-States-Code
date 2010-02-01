@@ -88,7 +88,7 @@ Definitions.—As used in this subsection—
 
 &emsp;(6)
 
-Coordination of federal assistance.—The Bureau of Prisons shall consult with the Department of Health and Human Servicesconcerning substance abuse treatment and related services and the incorporation of applicable components of existing comprehensive approaches including relapse prevention and aftercare services.
+Coordination of federal assistance.—The Bureau of Prisons shall consult with the Department of Health and Human Services concerning substance abuse treatment and related services and the incorporation of applicable components of existing comprehensive approaches including relapse prevention and aftercare services.
 
 (f)
 

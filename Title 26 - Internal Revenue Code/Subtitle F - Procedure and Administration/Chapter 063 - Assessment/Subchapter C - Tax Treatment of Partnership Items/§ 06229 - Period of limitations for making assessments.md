@@ -22,7 +22,7 @@ Except as otherwise provided in this section, the period for assessing any tax i
 
 #### (2) Special rule with respect to debtors in title 11 cases
 
-&emsp;Notwithstanding any other law or rule of law, if an agreement is entered into under paragraph (1)(B) and the agreement is signed by a person who would be the tax matters partner but for the fact that, at the time that the agreement is executed, the person is a debtor in a bankruptcy proceeding under title11 of the United States Code, such agreement shall be binding on all partners in the partnership unless the Secretary has been notified of the bankruptcy proceeding in accordance with regulations prescribed by the Secretary.
+&emsp;Notwithstanding any other law or rule of law, if an agreement is entered into under paragraph (1)(B) and the agreement is signed by a person who would be the tax matters partner but for the fact that, at the time that the agreement is executed, the person is a debtor in a bankruptcy proceeding under title 11 of the United States Code, such agreement shall be binding on all partners in the partnership unless the Secretary has been notified of the bankruptcy proceeding in accordance with regulations prescribed by the Secretary.
 
 #### (3) Coordination with section 6501(c)(4)
 

@@ -2,7 +2,7 @@
 
 (a) An eligible system which, pursuant to section 10805(a)(4) of this title, has access to records which, under Federal or State law, are required to be maintained in a confidential manner by a provider of mental health services, shall, except as provided in subsection (b) of this section, maintain the confidentiality of such records to the same extent as is required of the provider of such services.
 
-(b)(1) Except as provided in paragraph (2), an eligible system which has access to records pursuant to section 10805(a)(4) of this title may not disclose information from such records to the individual who is the subject of the information if the mental health professional responsible for supervising the provision of mental health services to such individual has provided the system with a written determination that disclosure of such information to such individual would be detrimental to such individual's health.
+(b)(1) Except as provided in paragraph (2), an eligible system which has access to records pursuant to section 10805(a)(4) of this title may notdisclose information from such records to the individual who is the subject of the information if the mental health professional responsible for supervising the provision of mental health services to such individual has provided the system with a written determination that disclosure of such information to such individual would be detrimental to such individual's health.
 
 (2)(A) If disclosure of information has been denied under paragraph (1) to an individual—
 
@@ -18,7 +18,7 @@
 
 &emsp;(i) an individual whose legal guardian is the State; or
 
-&emsp;(ii) an individual who has a legal guardian, conservator, or other legal representativeother than the State if such guardian, conservator, or representative does not, within a reasonable time after such individual is denied access to information under paragraph (1), select a mental health professional under subparagraph (A) to review such information.
+&emsp;(ii) an individual who has a legal guardian, conservator, or other legal representative other than the State if such guardian, conservator, or representative does not, within a reasonable time after such individual is denied access to information under paragraph (1), select a mental health professional under subparagraph (A) to review such information.
 
 (C) If the laws of a State prohibit an eligible system from obtaining access to the records of individuals with mental illness in accordance with section 10805(a)(4) of this title and this section, section 10805(a)(4) of this title and this section shall not apply to such system before—
 

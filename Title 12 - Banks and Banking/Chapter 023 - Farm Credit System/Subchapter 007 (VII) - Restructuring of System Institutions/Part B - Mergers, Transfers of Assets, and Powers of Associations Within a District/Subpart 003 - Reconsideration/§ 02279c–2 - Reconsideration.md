@@ -64,7 +64,7 @@ A stockholder vote in favor of—
 
 &emsp;&emsp;&emsp;(i) the loans of the members of the new association will be transferred from the current association to such new association;
 
-&emsp;&emsp;&emsp;(ii) the stock, participation certificates, and other similar equities of the currentassociation held by members of the new association will be retired at book value and the proceeds of such will be transferred to the new association, and an equivalent amount of stock, participation certificates, and other similar equities will be issued to the members by the new association; and
+&emsp;&emsp;&emsp;(ii) the stock, participation certificates, and other similar equities of the current association held by members of the new association will be retired at book value and the proceeds of such will be transferred to the new association, and an equivalent amount of stock, participation certificates, and other similar equities will be issued to the members by the new association; and
 
 &emsp;&emsp;&emsp;(iii) the other assets of the current association will be distributed equitably among the current association and any resulting new association.
 

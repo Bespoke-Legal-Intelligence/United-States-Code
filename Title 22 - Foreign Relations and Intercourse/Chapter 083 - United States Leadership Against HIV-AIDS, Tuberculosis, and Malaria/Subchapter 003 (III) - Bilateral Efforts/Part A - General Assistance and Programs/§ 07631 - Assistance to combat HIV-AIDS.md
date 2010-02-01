@@ -6,7 +6,7 @@
 
 #### (1) In general
 
-&emsp;In addition to funds available under section 104(c) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c)) for such purpose or under anyother provision of that Act \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President, from amounts authorized to be appropriated under section 7671 of this title, such sums as may be necessary for each of the fiscal years 2009 through 2013 to carry out section 104A of the Foreign Assistance Act of 1961, as added by subsection (a) \[22 U.S.C. 2151b–2\].
+&emsp;In addition to funds available under section 104(c) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c)) for such purpose or under any other provision of that Act \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President, from amounts authorized to be appropriated under section 7671 of this title, such sums as may be necessary for each of the fiscal years 2009 through 2013 to carry out section 104A of the Foreign Assistance Act of 1961, as added by subsection (a) \[22 U.S.C. 2151b–2\].
 
 #### (2) Availability of funds
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(D) provide food and nutritional support for children affected by HIV/AIDS and to communities and households caring for children affected by HIV/AIDS; and
 
-&emsp;&emsp;(E) in communities where HIV/AIDS and food insecurity are highly prevalent, support programs to address these often intersecting health problems through community-based assistance programs, with an emphasis on sustainable approaches.
+&emsp;&emsp;(E) in communities where HIV/AIDS and food insecurity are highly prevalent, supportprograms to address these often intersecting health problems through community-based assistance programs, with an emphasis on sustainable approaches.
 
 #### (2) Authorization of appropriations
 
@@ -70,7 +70,7 @@ No funds made available to carry out this chapter, or any amendment made by this
 
 &emsp;&emsp;(A) The United States provides more than 60 percent of all food assistance worldwide.
 
-&emsp;&emsp;(B) According to the United Nations World Food Program and other United Nationsagencies, food insecurity of individuals infected or living with HIV/AIDS is a major problem in countries with large populations of such individuals, particularly in African countries.
+&emsp;&emsp;(B) According to the United Nations World Food Program and other United Nations agencies, food insecurity of individuals infected or living with HIV/AIDS is a major problem in countries with large populations of such individuals, particularly in African countries.
 
 &emsp;&emsp;(C) Although the United States is willing to provide food assistance to these countries in need, a few of the countries object to part or all of the assistance because of fears of benign genetic modifications to the foods.
 

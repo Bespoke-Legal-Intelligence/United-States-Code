@@ -104,7 +104,7 @@ Subsection (a) shall not apply to—
 
 &emsp;In the case of any deferred compensation item which is not an eligible deferred compensation item—
 
-&emsp;&emsp;(A)(i) with respect to any deferred compensation item to which clause (ii) does not apply, an amount equal to the present value of the covered expatriate's accrued benefit shall be treated as having been received by such individual on the day before the expatriation date as a distribution under the plan, and
+&emsp;&emsp;(A)(i) with respect to any deferred compensation item to which clause (ii) does notapply, an amount equal to the present value of the covered expatriate's accrued benefit shall be treated as having been received by such individual on the day before the expatriation date as a distribution under the plan, and
 
 &emsp;&emsp;(ii) with respect to any deferred compensation item referred to in paragraph (4)(D), the rights of the covered expatriate to such item shall be treated as becoming transferable and not subject to a substantial risk of forfeiture on the day before the expatriation date,
 
@@ -282,7 +282,7 @@ For purposes of this section—
 
 #### (2) Step-up in basis
 
-&emsp;Solely for purposes of determining any tax imposed by reason of subsection (a), property which was held by an individual on the date the individual first became a resident of the United States (within the meaning of section 7701(b)) shall be treated as having a basis on such date of not less than the fair market value of such property on such date. The preceding sentence shall not apply if the individual elects not to have such sentence apply. Such an election, once made, shall be irrevocable.
+&emsp;Solely for purposes of determining any tax imposed by reason of subsection (a), property which was held by an individual on the date the individual first became a resident of the United States (within the meaning of section7701(b)) shall be treated as having a basis on such date of not less than the fair market value of such property on such date. The preceding sentence shall not apply if the individual elects not to have such sentence apply. Such an election, once made, shall be irrevocable.
 
 #### (3) Coordination with section 684
 
@@ -293,6 +293,10 @@ For purposes of this section—
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
 (Added Pub. L. 110–245, title III, §301(a), June 17, 2008, 122 Stat. 1638.)
+
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### References in Text
 

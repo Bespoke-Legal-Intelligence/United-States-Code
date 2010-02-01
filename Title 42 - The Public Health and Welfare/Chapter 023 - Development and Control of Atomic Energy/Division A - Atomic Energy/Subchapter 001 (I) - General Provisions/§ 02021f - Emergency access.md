@@ -16,7 +16,7 @@ Any generator of low-level radioactive waste, or any Governor (or, for any State
 
 &emsp;&emsp;(A) emergency access is necessary because of an immediate and serious threat to the public health and safety or the common defense and security; and
 
-&emsp;&emsp;(B) the threat cannot be mitigated by any alternative consistent with the public health and safety, including storage of low-level radioactive waste at the site of generation or in a storage facility obtaining access to a disposal facility by voluntary agreement,purchasing disposal capacity available for assignment pursuant to section 2021e(c) of this title or ceasing activities that generate low-level radioactive waste.
+&emsp;&emsp;(B) the threat cannot be mitigated by any alternative consistent with the public health and safety, including storage of low-level radioactive waste at the site of generation or in a storage facility obtaining access to a disposal facility by voluntary agreement, purchasing disposal capacity available for assignment pursuant to section 2021e(c) of this title or ceasing activities that generate low-level radioactive waste.
 
 #### (2) Required notification
 

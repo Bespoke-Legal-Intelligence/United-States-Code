@@ -52,7 +52,7 @@ Only the Director may prescribe regulations with respect to—
 
 #### (f) Collection through FDIC or Federal home loan banks
 
-The Corporation or the Federal home loan banks shall, upon request of and by agreement with the Director, collect fees and assessments on behalf of the Director and be reimbursed for the actual cost of collection.
+The Corporation or the Federal home loan banks shall, upon request of and by agreementwith the Director, collect fees and assessments on behalf of the Director and be reimbursed for the actual cost of collection.
 
 #### (g) Costs of other examinations
 
@@ -114,7 +114,7 @@ Subsec. (b). Pub. L. 102–242, §114(c)(1), added subsec. (b) and struck out fo
 
 Subsec. (k). Pub. L. 102–242, §114(c)(2), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The Director may assess against institutions for which the Director is the appropriate Federal banking agency, within the meaning of section 3 of the Federal Deposit Insurance Act, fees to fund the direct and indirect expenses of the Office. Such fees shall be imposed in proportion of the assets or resources of the institutions. The fees may be imposed more frequently than annually at the discretion of the Director. The annual rate of such fees shall be the same for all institutions subject to such fees.”
 
-1989—Pub. L. 101–73 amended section generally, substituting subsecs. (a) to (m) relating to examination fees for former subsecs. (a) to (f) relating to accounting principles and other standards and requirements.
+1989—Pub. L. 101–73 amended section generally, substituting subsecs. (a) to (m) relating to examinationfees for former subsecs. (a) to (f) relating to accounting principles and other standards and requirements.
 
 #### Effective Date of 1989 Amendment
 

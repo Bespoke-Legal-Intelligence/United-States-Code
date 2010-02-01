@@ -12,7 +12,7 @@ Provisions similar to this section were contained in section 1805(a)(5) of this 
 
 1978—Pub. L. 95–424 provided that the authority in this section to commit United States funds for any activities pursuant to any subsequent arrangement under section 2160(a)(2)(E) of this title shall be subject to the requirement of section 2160 of this title.
 
-1964—Pub. L. 88–489 limited the authorization to the extent necessary to effectuate the chapter, inserted “without regard to the limitations in section 2074 of this title or any guaranteed purchase prices established pursuant to section 2076 of this title, and to take, requisition, condemn,” and “Any contract of purchase made under this section may be made”, provided for just compensation for any right, property, or interest taken, requisitioned, or condemned under this section, and struck out “outside the United States” after “any interest therein”.
+1964—Pub. L. 88–489 limited the authorization to the extent necessary to effectuate the chapter, inserted“without regard to the limitations in section 2074 of this title or any guaranteed purchase prices established pursuant to section 2076 of this title, and to take, requisition, condemn,” and “Any contract of purchase made under this section may be made”, provided for just compensation for any right, property, or interest taken, requisitioned, or condemned under this section, and struck out “outside the United States” after “any interest therein”.
 
 #### Effective Date of 1978 Amendment
 

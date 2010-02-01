@@ -36,7 +36,7 @@ An institution eligible to become a member under this section may become a membe
 
 #### (c) Inspection and regulation requirements
 
-Notwithstanding the provisions of clause (2) of subsection (a) of this section requiring inspection and regulation under law as a condition with respect to eligibility for membership, any building and loan association which would be eligible to become a member of a Federal HomeLoan Bank except for the fact that it is not subject to inspection and regulation under the banking laws or similar laws of the State in which such association is organized shall, upon subjecting itself to such inspection and regulation as the Director shall prescribe, be eligible to become a member.
+Notwithstanding the provisions of clause (2) of subsection (a) of this section requiring inspection and regulation under law as a condition with respect to eligibility for membership, any building and loan association which would be eligible to become a member of a Federal Home Loan Bank except for the fact that it is not subject to inspection and regulation under the banking laws or similar laws of the State in which such association is organized shall, upon subjecting itself to such inspection and regulation as the Director shall prescribe, be eligible to become a member.
 
 (July 22, 1932, ch. 522, §4, 47 Stat. 726; June 13, 1933, ch. 64, §3, 48 Stat. 129; Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 704(a), 710(b)(1), Aug. 9, 1989, 103 Stat. 412, 415, 418; Pub. L. 106–102, title VI, §605, Nov. 12, 1999, 113 Stat. 1452; Pub. L. 110–289, div. A, title II, §§1204(8), 1206, July 30, 2008, 122 Stat. 2786, 2787.)
 

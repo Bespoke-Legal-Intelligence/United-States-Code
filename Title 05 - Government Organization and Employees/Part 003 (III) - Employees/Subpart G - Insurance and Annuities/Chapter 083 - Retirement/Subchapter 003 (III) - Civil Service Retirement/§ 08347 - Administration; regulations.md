@@ -12,7 +12,7 @@
 
 (e) The Office shall fix the fees for examinations made under this subchapter by physicians or surgeons who are not medical officers of the United States. The fees and reasonable traveling and other expenses incurred in connection with the examinations are paid from appropriations for the cost of administering this subchapter.
 
-(f) The Office shall select three actuaries, to be known as the Board of Actuaries of the Civil Service Retirement System. The Office shall fix the pay of the members of the Board, except members otherwise in the employ of the United States. The Board shall report annually on the actuarial status of the System and furnish its advice and opinion on matters referred to it by the Office. The Board may recommend to the Office and to Congress such changes as in the Board's judgment are necessary to protect the public interest and maintain the System on a sound financial basis. The Office shall keep, or cause to be kept, such records as it considers necessary for making periodic actuarial valuations of the System. The Board shall make actuarial valuations every 5 years, or oftener if considered necessary by the Office.
+(f) The Office shall select three actuaries, to be known as the Board of Actuaries of the Civil Service Retirement System. The Office shall fix the pay of the members of the Board, except members otherwise in the employ of the United States. The Board shall report annually on the actuarial status of the System and furnish its advice and opinion on matters referred to it bythe Office. The Board may recommend to the Office and to Congress such changes as in the Board's judgment are necessary to protect the public interest and maintain the System on a sound financial basis. The Office shall keep, or cause to be kept, such records as it considers necessary for making periodic actuarial valuations of the System. The Board shall make actuarial valuations every 5 years, or oftener if considered necessary by the Office.
 
 (g) The Office may exclude from the operation of this subchapter an employee or group of employees in or under an Executive agency whose employment is temporary or intermittent. However, the Office may not exclude any employee who occupies a position on a part-time career employment basis (as defined in section 3401(2) of this title).
 
@@ -66,7 +66,7 @@
 
 (<i>o</i>) Any provision of law outside of this subchapter which provides coverage, service credit, or any other benefit under this subchapter to any individuals who (based on their being employed by an entity other than the Government) would not otherwise be eligible for any such coverage, credit, or benefit, shall not apply with respect to any individual appointed, transferred, or otherwise commencing that type of employment on or after October 1, 1988.
 
-(p) The Director of the Administrative Office of the United States Courts may exclude from the operation of this subchapter an employee of the Administrative Office of the United States Courts, the Federal Judicial Center, or a court named by section 610 of title 28, whose employment is temporary or of uncertain duration.
+(p) The Director of the Administrative Office of the United States Courts may exclude from the operation of this subchapter an employee of the Administrative Office of the United States Courts, the Federal Judicial Center, or a courtnamed by section 610 of title 28, whose employment is temporary or of uncertain duration.
 
 (q)(1) Under regulations prescribed by the Office of Personnel Management, an employee who—
 

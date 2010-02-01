@@ -80,7 +80,7 @@ Rights and Benefits Relative to Notice of Intent Not To Return.—Section 4316(b
 
 “(h)
 
-Employer Pension Benefit Plans.—(1) Nothing in this Act shall be construed to relieve an employer ofan obligation to provide contributions to a pension plan (or provide pension benefits), or to relieve the obligation of a pension plan to provide pension benefits, which is required by the provisions of chapter 43 of title 38, United States Code, in effect on the day before this Act takes effect \[probably means the day before Oct. 13, 1994\].
+Employer Pension Benefit Plans.—(1) Nothing in this Act shall be construed to relieve an employer of an obligation to provide contributions to a pension plan (or provide pension benefits), or to relieve the obligation of a pension plan to provide pension benefits, which is required by the provisions of chapter 43 of title 38, United States Code, in effect on the day before this Act takes effect \[probably means the day before Oct. 13, 1994\].
 
 “(2) If any employee pension benefit plan is not in compliance with section 4318 of such title or paragraph (1) of this subsection on the date of enactment of this Act \[Oct. 13, 1994\], such plan shall have two years to come into compliance with such section and paragraph.
 
@@ -118,7 +118,7 @@ Administration of Demonstration Project.—(1) The Office of Special Counsel sha
 
 “(2) In the case of any claim referred \[to\], or otherwise received by, to \[sic\] the Office of Special Counsel under the demonstration project, any reference to the ‘Secretary’ in sections 4321, 4322, and 4326 of title 38, United States Code, is deemed a reference to the ‘Office of Special Counsel’.
 
-“(3) In the case of any claim referred to, or otherwise received by, the Office of Special Counsel under the demonstration project, the Office of Special Counsel shall retain administrative jurisdiction over the claim.
+“(3) In the case of any claim referred to, or otherwise received by, the Office of Special Counsel under thedemonstration project, the Office of Special Counsel shall retain administrative jurisdiction over the claim.
 
 “(e)
 

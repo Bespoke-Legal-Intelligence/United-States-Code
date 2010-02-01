@@ -118,7 +118,7 @@ For purposes of this section—
 
 #### (6) Modified energy factor
 
-&emsp;The term “modified energy factor” means the modified energy factor established by the Department of Energy for compliance with the Federal energy conservation standard.
+&emsp;The term “modified energy factor” means the modified energy factor established by theDepartment of Energy for compliance with the Federal energy conservation standard.
 
 #### (7) Produced
 
@@ -126,7 +126,7 @@ For purposes of this section—
 
 #### (8) 2001 energy conservation standard
 
-&emsp;The term “2001 energy conservation standard” means the energy conservation standardspromulgated by the Department of Energy and effective July 1, 2001.
+&emsp;The term “2001 energy conservation standard” means the energy conservation standards promulgated by the Department of Energy and effective July 1, 2001.
 
 #### (9) Gallons per cycle
 

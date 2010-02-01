@@ -80,7 +80,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (ii) State proceeding
 
-&emsp;&emsp;&emsp;If, in the case of any proceeding in a State court, the court determines that rules of civil procedure available under the laws of such State provide substantiallysimilar protections to such party's right to due process as Rule 65 (as modified with respect to such proceeding by clause (i)), the relief sought by the Board pursuant to subparagraph (G) may be requested under the laws of such State.
+&emsp;&emsp;&emsp;If, in the case of any proceeding in a State court, the court determines that rules of civil procedure available under the laws of such State provide substantially similar protections to such party's right to due process as Rule 65 (as modified with respect to such proceeding by clause (i)), the relief sought by the Board pursuant to subparagraph (G) may be requested under the laws of such State.
 
 #### (I) Subpoena authority
 
@@ -422,7 +422,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (A) In general
 
-&emsp;&emsp;The Board, as conservator or liquidating agent for any insured credit union, mayavoid a transfer of any interest of an institution-affiliated party, or any person who the Board determines is a debtor of the institution, in property, or any obligation incurred by such party or person, that was made within 5 years of the date on which the Board becomes conservator or liquidating agent if such party or person voluntarily or involuntarily made such transfer or incurred such liability with the intent to hinder, delay, or defraud the insured credit union or the Board.
+&emsp;&emsp;The Board, as conservator or liquidating agent for any insured credit union, may avoid a transfer of any interest of an institution-affiliated party, or any person who the Board determines is a debtor of the institution, in property, or any obligation incurred by such party or person, that was made within 5 years of the date on which the Board becomes conservator or liquidating agent if such party or person voluntarily or involuntarily made such transfer or incurred such liability with the intent to hinder, delay, or defraud the insured credit union or the Board.
 
 #### (B) Right of recovery
 
@@ -552,7 +552,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;(i) the purchaser—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall continue to make all payments due under the contract after the date of the repudiation of the contract; and
+&emsp;&emsp;&emsp;&emsp;(I) shall continue to make all payments due under the contract after thedate of the repudiation of the contract; and
 
 &emsp;&emsp;&emsp;&emsp;(II) may offset against any such payments any damages which accrue after such date due to the nonperformance (after such date) of any obligation of the credit union under the contract; and
 
@@ -678,7 +678,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;&emsp;(VIII) any option to enter into any agreement or transaction referred to in this clause;
 
-&emsp;&emsp;&emsp;&emsp;(IX) a master agreement that provides for an agreement or transaction referred to in subclause (I), (II), (III), (IV), (V), (VI), (VII), or (VIII), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a commodity contract under this clause, except that the master agreement shall be considered to be a commodity contract under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (II), (III), (IV), (V), (VI), (VII), or (VIII); or
+&emsp;&emsp;&emsp;&emsp;(IX) a master agreement that provides for an agreement or transaction referred to in subclause (I), (II), (III), (IV), (V),\(VI), (VII), or (VIII), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a commodity contract under this clause, except that the master agreement shall be considered to be a commodity contract under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (II), (III), (IV), (V), (VI), (VII), or (VIII); or
 
 &emsp;&emsp;&emsp;&emsp;(X) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this clause, including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in this clause.
 
@@ -712,7 +712,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;&emsp;(VI) means any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in subclause (I), (III), (IV), or (V), including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in any such subclause.
 
-&emsp;&emsp;&nbsp;For purposes of this clause, the term “qualified foreign government security” means a security that is a direct obligation of, or that is fully guaranteed by, the central government of a member of the Organization for Economic Cooperation and Development (as determined by regulation or order adopted by the appropriate Federal banking authority).
+&emsp;&emsp;&nbsp;For purposes of this clause, the term “qualified foreign government security” means a security that is a direct obligation of, or that is fully guaranteed by, thecentral government of a member of the Organization for Economic Cooperation and Development (as determined by regulation or order adopted by the appropriate Federal banking authority).
 
 #### (vi) Swap agreement
 
@@ -804,7 +804,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (C) Transfer of contracts subject to the rules of a clearing organization
 
-&emsp;&emsp;In the event that a conservator or liquidating agent transfers any qualified financial contract and related claims, property, and credit enhancements pursuant to subparagraph (A)(i) and such contract is cleared by or subject to the rules of a clearing organization, the clearing organization shall not be required to accept the transferee as a member by virtue of the transfer.
+&emsp;&emsp;In the event that a conservator or liquidating agent transfers any qualified financial contract and related claims, property,and credit enhancements pursuant to subparagraph (A)(i) and such contract is cleared by or subject to the rules of a clearing organization, the clearing organization shall not be required to accept the transferee as a member by virtue of the transfer.
 
 #### (D) Definitions
 
@@ -938,7 +938,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (2) Dividends on subrogated amounts
 
-&emsp;The subrogation of the Board under paragraph (1) with respect to any insured credit union shall include the right on the part of the Board to receive the same dividends from the proceeds of the assets of such credit union as would have been payable to the accountholder on a claim for the insured deposit, but such accountholder shall retain such claim for any uninsured or unassumed portion of the deposit.
+&emsp;The subrogation of the Board under paragraph (1) with respect to any insured creditunion shall include the right on the part of the Board to receive the same dividends from the proceeds of the assets of such credit union as would have been payable to the accountholder on a claim for the insured deposit, but such accountholder shall retain such claim for any uninsured or unassumed portion of the deposit.
 
 #### (f) Valuation of claims in default
 
@@ -970,7 +970,7 @@ A director or officer of an insured credit union may be held personally liable f
 
 &emsp;(1) acting as conservator or liquidating agent of such insured credit union,
 
-&emsp;(2) acting based upon a suit, claim, or cause of action purchased from, assigned by, orotherwise conveyed by such liquidating agent or conservator, or
+&emsp;(2) acting based upon a suit, claim, or cause of action purchased from, assigned by, or otherwise conveyed by such liquidating agent or conservator, or
 
 &emsp;(3) acting based upon a suit, claim, or cause of action purchased from, assigned by, or otherwise conveyed in whole or in part by an insured credit union or its affiliate in connection with assistance provided under section 1788 of this title,
 
@@ -994,7 +994,7 @@ Whenever any insured State-chartered credit union shall have been closed by acti
 
 #### (B) Aggregation
 
-&emsp;&emsp;Determination of the net amount of share insurance under subparagraph (A), shall be in accordance with such regulations as the Board may prescribe, and, in determining the amount payable to any member, there shall be added together all accounts in the credit union maintained by that member for that member's own benefit, either in the member's own name or in the names of others.
+&emsp;&emsp;Determination of the net amount of share insurance under subparagraph (A), shall bein accordance with such regulations as the Board may prescribe, and, in determining the amount payable to any member, there shall be added together all accounts in the credit union maintained by that member for that member's own benefit, either in the member's own name or in the names of others.
 
 #### (C) Authority to define the extent of coverage
 
@@ -1060,7 +1060,7 @@ Whenever any insured State-chartered credit union shall have been closed by acti
 
 #### (D) Rule of construction
 
-&emsp;&emsp;No provision of this paragraph shall be construed as authorizing an insured credit union to accept the deposits of an employee benefit plan in an amount greater than such credit union is authorized to accept under any other provision of Federal or State law.
+&emsp;&emsp;No provision of this paragraph shall be construed as authorizing an insured creditunion to accept the deposits of an employee benefit plan in an amount greater than such credit union is authorized to accept under any other provision of Federal or State law.
 
 #### (5) Standard maximum share insurance amount defined
 
@@ -1084,7 +1084,7 @@ If, after the Board shall have given at least four months’ notice to the membe
 
 #### (p) Sale of assets; security for loans; approval of court; agreements affecting interest of Board in any asset acquired by it
 
-(1) Liquidating agents of insured credit unions closed for liquidation on account of bankruptcy or insolvency may offer the assets of such credit unions for sale to the Board or as security for loans from the Board, upon receiving permission from the commission, board, or authority having supervision of such credit union, in the case of an insured State-chartered credit union, inaccordance with express provisions of State law. The proceeds of every such sale or loan shall be utilized for the same purposes and in the same manner as other funds realized from the liquidation of the assets of such credit unions. The Board, in its discretion, may make loans on the security of or may purchase and liquidate or sell any part of the assets of an insured credit union closed for liquidation on account of bankruptcy or insolvency, but in any case in which the Board is acting as liquidating agent of a closed insured credit union, no such loan or purchase shall be made without the approval of a court of competent jurisdiction.
+(1) Liquidating agents of insured credit unions closed for liquidation on account of bankruptcy or insolvency may offer the assets of such credit unions for sale to the Board or as security for loans from the Board, upon receiving permission from the commission, board, or authority having supervision of such credit union, in the case of an insured State-chartered credit union, in accordance with express provisions of State law. The proceeds of every such sale or loan shall be utilized for the same purposes and in the same manner as other funds realized from the liquidation of the assets of such credit unions. The Board, in its discretion, may make loans on the security of or may purchase and liquidate or sell any part of the assets of an insured credit union closed for liquidation on account of bankruptcy or insolvency, but in any case in which the Board is acting as liquidating agent of a closed insured credit union, no such loan or purchase shall be made without the approval of a court of competent jurisdiction.
 
 (2) No agreement which tends to diminish or defeat the right, title, or interest of the Board in any asset acquired by it under this subsection, either as security for a loan or by purchase, shall be valid against the Board unless such agreement—
 

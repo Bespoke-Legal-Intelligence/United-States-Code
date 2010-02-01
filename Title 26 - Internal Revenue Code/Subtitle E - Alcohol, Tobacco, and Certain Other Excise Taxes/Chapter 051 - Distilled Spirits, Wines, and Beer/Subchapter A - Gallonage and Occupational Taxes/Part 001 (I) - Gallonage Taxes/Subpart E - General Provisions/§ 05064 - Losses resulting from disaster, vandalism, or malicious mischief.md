@@ -42,7 +42,7 @@ The Secretary, under such regulations as he may prescribe, shall pay (without in
 
 #### (c) Destruction of distilled spirits, wines, or beer
 
-When the Secretary has made payment under this section in respect of the tax, or tax and duty, on the distilled spirits, wines, or beer condemned by a duly authorized official or rendered unmarketable, such distilled spirits, wines, or beer shall be destroyed under such supervision as the Secretary may prescribe, unless such distilled spirits, wines, or beer were previously destroyed under supervision satisfactory to the Secretary.
+When the Secretary has made payment under this section in respect of the tax, or tax andduty, on the distilled spirits, wines, or beer condemned by a duly authorized official or rendered unmarketable, such distilled spirits, wines, or beer shall be destroyed under such supervision as the Secretary may prescribe, unless such distilled spirits, wines, or beer were previously destroyed under supervision satisfactory to the Secretary.
 
 #### (d) Products of Puerto Rico
 
@@ -72,7 +72,7 @@ A prior section 5064, act Aug. 16, 1954, ch. 736, 68A Stat. 615, related to “t
 
 1978—Pub. L. 95–423 substituted “Losses resulting from disaster, vandalism, or malicious mischief” for “Losses caused by disaster” in section catchline.
 
-Subsec. (a). Pub. L. 95–423 substituted provisions authorizing the Secretary, under such regulations as he may prescribe, to pay the prescribed amount on distilled spirits, etc., lost, rendered unmarketable, or condemned by a duly authorized official by reason of fire, flood, casualty or other disaster, breakage, destruction, or other damage (but not including theft) resultingfrom vandalism or malicious mischief, for provisions authorizing such payment where the President has determined under the Disaster Relief Act of 1974 that a “major disaster” has occurred, and that distilled spirits, etc., were lost, rendered unmarketable, or condemned by a duly authorized official by reason of such disaster occurring after June 30, 1959.
+Subsec. (a). Pub. L. 95–423 substituted provisions authorizing the Secretary, under such regulations as he may prescribe, to pay the prescribed amount on distilled spirits, etc., lost, rendered unmarketable, or condemned by a duly authorized official by reason of fire, flood, casualty or other disaster, breakage, destruction, or other damage (but not including theft) resulting from vandalism or malicious mischief, for provisions authorizing such payment where the President has determined under the Disaster Relief Act of 1974 that a “major disaster” has occurred, and that distilled spirits, etc., were lost, rendered unmarketable, or condemned by a duly authorized official by reason of such disaster occurring after June 30, 1959.
 
 Subsec. (b). Pub. L. 95–423 redesignated par. (1) as (1)(A), substituted provisions disallowing a claim unless filed within 6 months after such distilled spirits, etc., were lost, rendered unmarketable or condemned, for provisions disallowing a claim unless filed within 6 months after the President determined that such disaster occurred, and added par. (1)(B); in par. (2) substituted provisions limiting claims to no less than $250, except as provided in par. (3)(A), for provisions demanding proof that claimant was not indemnified by any valid claim of insurance and that he is entitled to payment under this section; and added pars. (3) and (4).
 

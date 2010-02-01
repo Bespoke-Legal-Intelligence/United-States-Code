@@ -4,7 +4,7 @@ For the purpose of this chapter—
 
 #### (a) Firearm
 
-The term “firearm” means (1) a shotgun having a barrel or barrels of less than 18 inches in length; (2) a weapon made from a shotgun if such weapon as modified has an overall length of less than 26 inches or a barrel or barrels of less than 18 inches in length; (3) a rifle having a barrel or barrels of less than 16 inches in length; (4) a weapon made from a rifle if such weapon as modified has an overall length of less than 26 inches or a barrel or barrels of less than 16 inches in length; (5) any other weapon, as defined in subsection (e); (6) a machinegun; (7) any silencer (as defined in section 921 of title 18, United States Code); and (8) a destructive device. The term “firearm” shall not include an antique firearm or any device (other than a machinegun or destructive device) which, although designed as a weapon, the Secretary finds by reason of the date of its manufacture, value, design, and other characteristics is primarily a collector's item and is not likely to be used as a weapon.
+The term “firearm” means (1) a shotgun having a barrel or barrels of less than 18 inches inlength; (2) a weapon made from a shotgun if such weapon as modified has an overall length of less than 26 inches or a barrel or barrels of less than 18 inches in length; (3) a rifle having a barrel or barrels of less than 16 inches in length; (4) a weapon made from a rifle if such weapon as modified has an overall length of less than 26 inches or a barrel or barrels of less than 16 inches in length; (5) any other weapon, as defined in subsection (e); (6) a machinegun; (7) any silencer (as defined in section 921 of title 18, United States Code); and (8) a destructive device. The term “firearm” shall not include an antique firearm or any device (other than a machinegun or destructive device) which, although designed as a weapon, the Secretary finds by reason of the date of its manufacture, value, design, and other characteristics is primarily a collector's item and is not likely to be used as a weapon.
 
 #### (b) Machinegun
 
@@ -12,7 +12,7 @@ The term “machinegun” means any weapon which shoots, is designed to shoot, o
 
 #### (c) Rifle
 
-The term “rifle” means a weapon designed or redesigned, made or remade, and intended to befired from the shoulder and designed or redesigned and made or remade to use the energy of the explosive in a fixed cartridge to fire only a single projectile through a rifled bore for each single pull of the trigger, and shall include any such weapon which may be readily restored to fire a fixed cartridge.
+The term “rifle” means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of the explosive in a fixed cartridge to fire only a single projectile through a rifled bore for each single pull of the trigger, and shall include any such weapon which may be readily restored to fire a fixed cartridge.
 
 #### (d) Shotgun
 

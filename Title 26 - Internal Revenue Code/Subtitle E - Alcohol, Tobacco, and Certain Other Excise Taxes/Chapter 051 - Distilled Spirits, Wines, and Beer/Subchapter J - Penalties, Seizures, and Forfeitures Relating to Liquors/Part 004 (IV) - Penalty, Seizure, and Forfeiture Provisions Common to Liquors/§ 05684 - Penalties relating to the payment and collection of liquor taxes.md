@@ -38,7 +38,7 @@ Pub. L. 98–369, §722(a)(5), substituted “subsection (a)” for “subsectio
 
 1981—Subsec. (b). Pub. L. 97–34, §724(b)(4)(A), redesignated subsec. (c) as (b). Former subsec. (b), which related to penalties for failure to make deposit of taxes, was struck out.
 
-Subsec. (c). Pub. L. 97–34, §724(b)(4), redesignated subsec. (d) as (c), added par. (4), and redesignated pars. (5)and (6) as (4) and (5), respectively. Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 97–34, §724(b)(4), redesignated subsec. (d) as (c), added par. (4), and redesignated pars. (5) and (6) as (4) and (5), respectively. Former subsec. (c) redesignated (b).
 
 Pub. L. 97–34, §722(a)(3), substituted “6660” for “6659” in heading and text.
 

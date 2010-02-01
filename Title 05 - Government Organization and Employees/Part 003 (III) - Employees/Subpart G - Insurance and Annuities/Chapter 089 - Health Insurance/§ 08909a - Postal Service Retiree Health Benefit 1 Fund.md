@@ -24,7 +24,7 @@
 
 &emsp;(ii) $5,600,000,000, not later than September 30, 2008;
 
-&emsp;(iii) $5,400,000,000, not later than September 30, 2009;
+&emsp;(iii) $1,400,000,000, not later than September 30, 2009;
 
 &emsp;(iv) $5,500,000,000, not later than September 30, 2010;
 
@@ -56,7 +56,15 @@
 
 (6) After consultation with the United States Postal Service, the Office shall promulgate any regulations the Office determines necessary under this subsection.
 
-(Added Pub. L. 109–435, title VIII, §803(a)(1)(B), Dec. 20, 2006, 120 Stat. 3251.)
+(Added Pub. L. 109–435, title VIII, §803(a)(1)(B), Dec. 20, 2006, 120 Stat. 3251; amended Pub. L. 111–68, div. B, §164(a), Oct. 1, 2009, 123 Stat. 2053.)
+
+#### Amendments
+
+2009—Subsec. (d)(3)(A)(iii). Pub. L. 111–68 amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “$5,400,000,000, not later than September 30, 2009;”.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–68, div. B, §164(b), Oct. 1, 2009, 123 Stat. 2053, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 803(a)(1)(B) of the Postal Accountability and Enhancement Act (Public Law 109–435; 120 Stat. 3251).”
 
 #### Effective Date
 

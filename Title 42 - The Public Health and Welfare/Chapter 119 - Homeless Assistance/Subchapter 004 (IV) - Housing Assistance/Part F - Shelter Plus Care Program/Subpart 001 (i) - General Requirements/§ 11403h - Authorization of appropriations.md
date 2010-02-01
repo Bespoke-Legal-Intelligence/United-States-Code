@@ -18,6 +18,10 @@ Sums appropriated under this section shall remain available until expended.
 
 (Pub. L. 100–77, title IV, §464, formerly §459, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4370; renumbered §463 and amended Pub. L. 102–550, title XIV, §1406(a), (e)(3), Oct. 28, 1992, 106 Stat. 4029, 4031; renumbered §464, Pub. L. 110–289, div. B, title VIII, §2835(c)(1)(A), July 30, 2008, 122 Stat. 2874.)
 
+#### Repeal of Section
+
+<i>Pub. L. 111–22, div. B, title V, §§1501, 1503, May 20, 2009, 123 Stat. 1701, 1702, provided that, effective on, and applicable beginning on, the earlier of the expiration of the 18-month period beginning on May 20, 2009, or the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 of Pub. L. 111–22, this section is repealed.</i>
+
 #### Prior Provisions
 
 A prior section 464 of Pub. L. 100–77 was renumbered section 457 and is classified to section 11403e–1 of this title.

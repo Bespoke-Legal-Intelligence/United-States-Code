@@ -6,7 +6,7 @@ The Commission may for the purpose of carrying out this subchapter hold such hea
 
 #### (b) Appointment and compensation of staff personnel; procurement and compensation of temporary and intermittent services; detail of personnel from other Federal agencies
 
-(1) The Commission may appoint and fix the pay of such staff personnel as it deems desirable. Such personnel shall be appointed subject to the provisions of title 5 governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 andsubchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+(1) The Commission may appoint and fix the pay of such staff personnel as it deems desirable. Such personnel shall be appointed subject to the provisions of title 5 governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
 (2) The Commission may procure temporary and intermittent services to the same extent as is authorized by section 3109(b) of title 5, but at rates for individuals not to exceed the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule.
 

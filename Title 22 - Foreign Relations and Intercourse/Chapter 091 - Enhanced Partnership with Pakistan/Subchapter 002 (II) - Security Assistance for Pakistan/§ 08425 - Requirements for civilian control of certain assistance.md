@@ -1,0 +1,56 @@
+### §8425. Requirements for civilian control of certain assistance
+
+#### (a) Requirements
+
+#### (1) In general
+
+&emsp;For fiscal years 2010 through 2014, any direct cash security-related assistance or non-assistance payments by the United States to the Government of Pakistan may only be provided or made to civilian authorities of a civilian government of Pakistan.
+
+#### (2) Documentation
+
+&emsp;For fiscal years 2010 through 2014, the Secretary of State, in coordination with the Secretary of Defense, shall ensure that civilian authorities of a civilian government of Pakistan have received a copy of final documentation provided to the United States related to non-assistance payments provided or made to the Government of Pakistan.
+
+#### (b) Waiver
+
+#### (1) Security-related assistance
+
+&emsp;The Secretary of State, in consultation with the Secretary of Defense, may waive the requirements of subsection (a) with respect to security-related assistance described in subsection (a) funded from accounts within budget function 150 (International Affairs) if the Secretary of State certifies to the appropriate congressional committees that the waiver is important to the national security interest of the United States.
+
+#### (2) Non-assistance payments
+
+&emsp;The Secretary of Defense, in consultation with the Secretary of State, may waive the requirements of subsection (a) with respect to non-assistance payments described in subsection (a) funded from accounts within budget function 050 (National Defense) if the Secretary of Defense certifies to the appropriate congressional committees that the waiver is important to the national security interest of the United States.
+
+#### (c) Application to certain activities
+
+Nothing in this section shall apply with respect to—
+
+&emsp;(1) any activities subject to reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.);
+
+&emsp;(2) any assistance to promote democratic elections or public participation in democratic processes;
+
+&emsp;(3) any assistance or payments if the Secretary of State determines and certifies to the appropriate congressional committees that subsequent to the termination of assistance or payments a democratically elected government has taken office;
+
+&emsp;(4) any assistance or payments made pursuant to section 1208 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 2086), as amended;
+
+&emsp;(5) any payments made pursuant to the Acquisition and Cross-Servicing Agreement between the Department of Defense of the United States of America and the Ministry of Defense of the Islamic Republic of Pakistan; and
+
+&emsp;(6) any assistance or payments made pursuant to section 943 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 122 Stat. 4578).
+
+#### (d) Definitions
+
+In this section—
+
+&emsp;(1) the term “appropriate congressional committees” means the Committees on Appropriations, Armed Services, and Foreign Affairs of the House of Representatives and the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate; and
+
+&emsp;(2) the term “civilian government of Pakistan” does not include any government of Pakistan whose duly elected head of government is deposed by military coup or decree.
+
+(Pub. L. 111–73, title II, §205, Oct. 15, 2009, 123 Stat. 2074.)
+
+#### References in Text
+
+The National Security Act of 1947, referred to in subsec. (c)(1), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§413 et seq.) of chapter 15 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 50 and Tables.
+
+Section 1208 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 2086), referred to in subsec. (c)(4), is not classified to the Code.
+
+Section 943 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 122 Stat. 4578), referred to in subsec. (c)(6), is not classified to the Code.
+

@@ -74,7 +74,7 @@ Section 118(g) of this title, referred to in subsec. (c)(5)(B)(i), was redesigna
 
 #### Amendments
 
-1999—Subsec. (c)(5)(B). Pub. L. 106–113 amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “In the case of a nonprofit library, archives, or educational institution, the court shall remit damages in any case in which the library, archives, or educational institution sustains the burden of proving, and the court finds, that the library, archives, or educational institution was not aware and had no reason to believe that its acts constituted a violation.”
+1999—Subsec. (c)(5)(B). Pub. L. 106–113 amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “In the case of a nonprofit library, archives, or educational institution, the court shall remit damages in any case in which the library, archives, or educational institution sustains the burden of proving, and the court finds, that the library, archives, or educational institution was not aware andhad no reason to believe that its acts constituted a violation.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

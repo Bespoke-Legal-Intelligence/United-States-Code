@@ -34,7 +34,7 @@ Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec.
 
 #### Effective and Termination Dates of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2000, see section 101(d)(1)of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2000, see section 101(d)(1) of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
@@ -44,5 +44,5 @@ Amendment by Pub. L. 103–66 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1988 Amendment
 
-Section 1001(a)(2)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after December 31, 1987. Such amendment shall not be treated as a change in a rate of tax for purposes of section 15 of the 1986 Code.”
+Section 1001(a)(2)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall apply to taxable years beginning after December 31, 1987. Such amendment shall not be treated as a change in a rate of tax for purposes of section 15 of the 1986 Code.”
 

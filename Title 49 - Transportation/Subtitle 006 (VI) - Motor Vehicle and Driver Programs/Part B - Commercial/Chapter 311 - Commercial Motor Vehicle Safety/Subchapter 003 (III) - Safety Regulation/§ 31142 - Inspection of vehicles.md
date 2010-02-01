@@ -88,5 +88,5 @@ In subsection (c)(1), before clause (A), the words “this subchapter and sectio
 
 1998—Subsec. (a). Pub. L. 105–178, §4008(f), substituted “the regulations issued under section 31136” for “part 393 of title 49, Code of Federal Regulations”.
 
-Subsec. (c)(1)(C). Pub. L. 105–178, §4008(g), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “prevent a State from enforcing a program for inspection of commercial motor vehicles that meets the requirements for membership in the Commercial Vehicle Safety Alliance, as those requirements were in effect on October 30, 1984; or”.
+Subsec. (c)(1)(C). Pub. L. 105–178, §4008(g), amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: “prevent a State from enforcing a program for inspection of commercial motor vehicles that meets the requirements for membership in the Commercial Vehicle Safety Alliance, as those requirements were in effect on October 30, 1984; or”.
 

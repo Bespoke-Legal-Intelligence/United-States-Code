@@ -142,7 +142,7 @@ Section 2 of Pub. L. 89–722, as amended by Pub. L. 99–514, §2, Oct. 22, 198
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
+Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending afterAug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
 #### Establishment of Reserve for Taxable Year Ending After Oct. 21, 1965, and Beginning Before Aug. 2, 1966
 

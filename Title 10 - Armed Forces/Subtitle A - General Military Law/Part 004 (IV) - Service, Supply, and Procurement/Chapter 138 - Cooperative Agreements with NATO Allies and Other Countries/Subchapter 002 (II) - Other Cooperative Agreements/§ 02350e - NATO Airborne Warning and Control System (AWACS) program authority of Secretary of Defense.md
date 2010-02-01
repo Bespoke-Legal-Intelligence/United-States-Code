@@ -52,7 +52,7 @@ Definition.—In this section, the term “AWACS memorandum of understanding” 
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 97–86, title I, §103, Dec. 1, 1981, 95 Stat.1100, as amended, which was set out as a note under section 2407 of this title, prior to repeal by Pub. L. 101–189, §932(b).
+Provisions similar to those in this section were contained in Pub. L. 97–86, title I, §103, Dec. 1, 1981, 95 Stat. 1100, as amended, which was set out as a note under section 2407 of this title, prior to repeal by Pub. L. 101–189, §932(b).
 
 #### Amendments
 

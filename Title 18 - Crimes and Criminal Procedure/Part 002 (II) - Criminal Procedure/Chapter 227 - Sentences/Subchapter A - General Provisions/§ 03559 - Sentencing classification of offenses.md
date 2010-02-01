@@ -92,7 +92,7 @@ Arson in certain cases.—Arson shall not serve as a basis for sentencing under 
 
 &emsp;(4)
 
-Information filed by united states attorney.—The provisions of section 411(a) of the Controlled Substances Act (21 U.S.C. 851(a)) shall apply to the imposition of sentence under this subsection.
+Information filed by united states attorney.—The provisions of section 411(a) ofthe Controlled Substances Act (21 U.S.C. 851(a)) shall apply to the imposition of sentence under this subsection.
 
 &emsp;(5)
 
@@ -166,7 +166,7 @@ Mandatory Minimum Terms of Imprisonment for Violent Crimes Against Children.—A
 
 &emsp;(1) if the crime of violence is murder, be imprisoned for life or for any term of years not less than 30, except that such person shall be punished by death or life imprisonment if the circumstances satisfy any of subparagraphs (A) through (D) of section 3591(a)(2) of this title;
 
-&emsp;(2) if the crime of violence is kidnapping (as defined in section 1201) or maiming (as defined in section 114), be imprisoned for life or any term of years not less than 25; and
+&emsp;(2) if the crime of violence is kidnapping (as defined in section 1201) or maiming (as definedin section 114), be imprisoned for life or any term of years not less than 25; and
 
 &emsp;(3) if the crime of violence results in serious bodily injury (as defined in section 1365), or if a dangerous weapon was used during and in relation to the crime of violence, be imprisoned for life or for any term of years not less than 10.
 

@@ -36,7 +36,7 @@ Means.—An acquisition of land under paragraph (1) may be made by donation, pur
 
 “(b)
 
-Description of Land.—The land referred to in subsection (a)(1) is the approximately 360 acres of land adjacent to the Park, as generally depicted on the map, entitled ‘Mesa Verde National Park Proposed Boundary Adjustment’, numbered 307/80,180, and dated March 1, 2007.
+Description of Land.—The land referred to in subsection (a)(1) is the approximately 360 acres of landadjacent to the Park, as generally depicted on the map, entitled ‘Mesa Verde National Park Proposed Boundary Adjustment’, numbered 307/80,180, and dated March 1, 2007.
 
 “(c)
 

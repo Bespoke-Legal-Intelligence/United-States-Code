@@ -2,7 +2,7 @@
 
 (a)
 
-Space Science and Technology Strategy.—(1) The Secretary of Defense shall develop and implement a space science and technology strategy and shall review and, as appropriate, revise the strategy annually. Functions of the Secretary under this subsection shall be carried out jointly by the Director of Defense Research and Engineering and the official of the Department of Defense designated as the Department of Defense Executive Agent for Space.
+Space Science and Technology Strategy.—(1) The Secretary of Defense and the Director of National Intelligence shall jointly develop and implement a space science and technology strategy and shall review and, as appropriate, revise the strategy annually. Functions of the Secretary under this subsection shall be carried out jointly by the Director of Defense Research and Engineering and the official of the Department of Defense designated as the Department of Defense Executive Agent for Space.
 
 (2) The strategy under paragraph (1) shall, at a minimum, address the following issues:
 
@@ -12,11 +12,13 @@ Space Science and Technology Strategy.—(1) The Secretary of Defense shall deve
 
 &emsp;(C) The process for assessing progress made toward achieving those goals.
 
+&emsp;(D) The process for transitioning space science and technology programs to new or existing space acquisition programs.
+
 (3) The strategy under paragraph (1) shall be included as part of the annual National Security Space Plan developed pursuant to Department of Defense regulations and shall be provided to Department of Defense components and science and technology entities of the Department of Defense to support the planning, programming, and budgeting processes of the Department.
 
 (4) The strategy under paragraph (1) shall be developed in consultation with the directors of research laboratories of the Department of Defense, the directors of the other Department of Defense research components, and the heads of other organizations of the Department of Defense as identified by the Director of Defense Research and Engineering and the Department of Defense Executive Agent for Space.
 
-(5) The strategy shall be available for review by the congressional defense committees.
+(5) The Secretary of Defense and the Director of National Intelligence shall biennially submit the strategy developed under paragraph (1) to the congressional defense committees every other year on the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31.
 
 (b)
 
@@ -46,9 +48,21 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) The National Reconnaissance Office.
 
-(Added Pub. L. 108–136, div. A, title IX, §911(a)(1), Nov. 24, 2003, 117 Stat. 1563.)
+(Added Pub. L. 108–136, div. A, title IX, §911(a)(1), Nov. 24, 2003, 117 Stat. 1563; amended Pub. L. 111–84, div. A, title IX, §911(a)(1)–(3), Oct. 28, 2009, 123 Stat. 2428, 2429.)
 
 #### Prior Provisions
 
 A prior section 2272, act Aug. 10, 1956, ch. 1041, 70A Stat. 124, related to contracts to obtain designs submitted in design competitions, prior to repeal by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
+
+#### Amendments
+
+2009—Subsec. (a)(1). Pub. L. 111–84, §911(a)(1), substituted “The Secretary of Defense and the Director of National Intelligence shall jointly develop” for “The Secretary of Defense shall develop”.
+
+Subsec. (a)(2)(D). Pub. L. 111–84, §911(a)(2), added subpar. (D).
+
+Subsec. (a)(5). Pub. L. 111–84, §911(a)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The strategy shall be available for review by the congressional defense committees.”
+
+#### Initial Report
+
+Pub. L. 111–84, div. A, title IX, §911(a)(4), Oct. 28, 2009, 123 Stat. 2429, provided that: “The first space science and technology strategy required to be submitted under paragraph (5) of section 2272(a) of title 10, United States Code, as amended by paragraph (3) of this subsection, shall be submitted on the date on which the President submits to Congress the budget for fiscal year 2012 under section 1105 of title 31, United States Code.”
 

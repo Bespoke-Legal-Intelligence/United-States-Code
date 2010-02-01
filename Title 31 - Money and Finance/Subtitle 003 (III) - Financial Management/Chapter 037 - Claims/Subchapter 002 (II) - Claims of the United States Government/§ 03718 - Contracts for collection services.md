@@ -34,7 +34,7 @@
 
 &emsp;(C) a provision requiring the private counsel to transmit monthly to the Attorney General and the head of the executive or <sup>1</sup> legislative agency referring a claim under the contract a report on the services relating to the claim rendered under the contract during the month and the progress made during the month in collecting the claim under the contract.
 
-(6) Notwithstanding the fourth sentence of section 803(6) of the Fair Debt Collection Practices Act (15 U.S.C. 1692a(6)), a private counselperforming legal services pursuant to a contract made under paragraph (1) of this subsection shall be considered to be a debt collector for the purposes of such Act.
+(6) Notwithstanding the fourth sentence of section 803(6) of the Fair Debt Collection Practices Act (15 U.S.C. 1692a(6)), a private counsel performing legal services pursuant to a contract made under paragraph (1) of this subsection shall be considered to be a debt collector for the purposes of such Act.
 
 (7) Any counterclaim filed in any action to recover indebtedness owed the United States which is brought on behalf of the United States by private counsel retained under this subsection may not be asserted unless the counterclaim is served directly on the Attorney General or the United States Attorney for the judicial district in which, or embracing the place in which, the action is brought. Such service shall be made in accordance with the rules of procedure of the court in which the action is brought.
 
@@ -96,7 +96,7 @@ In subsection (b), the words “the head of an agency” are omitted as surplus.
 
 In subsection (c), the word “advanced” is omitted as surplus.
 
-In subsection (d), the words “Notwithstanding the provisions of any other law governing the collection of claims owed the United States” and “unpaid or underpaid” are omitted as surplus.
+In subsection (d), the words “Notwithstanding the provisions of any other law governing the collection ofclaims owed the United States” and “unpaid or underpaid” are omitted as surplus.
 
 #### References in Text
 

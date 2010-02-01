@@ -22,7 +22,7 @@ In the case of any entity—
 
 #### (b) Advertising
 
-No State may establish or enforce any law which prevents a health maintenance organization for which a grant, contract, loan, or loan guarantee was made under this subchapter or which is a qualified health maintenance organization for purposes of section 300e–9 of this title (relating to employees’ health benefits plans), from soliciting members through advertising its services, charges, or other nonprofessional aspects of its operation. This subsection does not authorize any advertising which identifies, refers to, or makes any qualitative judgement concerning, any health professional who provides services for a health maintenance organization.
+No State may establish or enforce any law which prevents a health maintenance organization for which a grant, contract, loan, or loan guarantee was made under this subchapter or which is a qualified health maintenance organization for purposes of section 300e–9 of this title (relating to employees’ health benefits plans),from soliciting members through advertising its services, charges, or other nonprofessional aspects of its operation. This subsection does not authorize any advertising which identifies, refers to, or makes any qualitative judgement concerning, any health professional who provides services for a health maintenance organization.
 
 #### (c) Digest of State laws, regulations, and practices; legal consultative assistance
 

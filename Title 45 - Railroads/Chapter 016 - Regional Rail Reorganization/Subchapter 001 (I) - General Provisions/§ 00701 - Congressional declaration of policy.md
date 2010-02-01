@@ -20,7 +20,7 @@ The Congress finds and declares that—
 
 It is therefore declared to be the purpose of Congress in this chapter to provide for—
 
-&emsp;(1) the identification of a rail service system in the midwest and northeast region which is adequate to meet the needs and service requirements of this region and of the national rail transportation system;
+&emsp;(1) the identification of a rail service system in the midwest and northeast region which isadequate to meet the needs and service requirements of this region and of the national rail transportation system;
 
 &emsp;(2) the reorganization of railroads in this region into an economically viable system capable of providing adequate and efficient rail service to the region;
 

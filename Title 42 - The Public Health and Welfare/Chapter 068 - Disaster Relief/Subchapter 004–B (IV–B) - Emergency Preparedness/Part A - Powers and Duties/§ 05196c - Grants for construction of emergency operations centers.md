@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Administrator of the Federal Emergency Management Agency may make grants to States under this subchapter for equipping, upgrading, and constructing State and local emergency operations centers.
+The Administrator of the Federal Emergency Management Agency may make grants to Statesunder this subchapter for equipping, upgrading, and constructing State and local emergency operations centers.
 
 #### (b) Federal share
 

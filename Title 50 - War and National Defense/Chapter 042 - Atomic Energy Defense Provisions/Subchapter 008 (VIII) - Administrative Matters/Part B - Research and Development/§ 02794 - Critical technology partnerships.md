@@ -58,7 +58,7 @@ Section was formerly classified to section 2123 of Title 42, The Public Health a
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b)(1)(C)(ii)(I). Pub. L. 103–35 substituted “section 2506 of title 10” for “section 2522 of title 10”.
+1993—Subsec. (b)(1)(C)(ii)(I). Pub. L. 103–35 substituted “section 2506 of title 10” for “section 2522 of title 10”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

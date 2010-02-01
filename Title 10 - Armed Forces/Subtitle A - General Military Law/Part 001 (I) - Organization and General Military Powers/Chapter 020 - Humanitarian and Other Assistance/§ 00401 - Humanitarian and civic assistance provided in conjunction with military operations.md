@@ -12,7 +12,7 @@
 
 (b) Humanitarian and civic assistance may not be provided under this section to any foreign country unless the Secretary of State specifically approves the provision of such assistance.
 
-(c)(1) Expenses incurred as a direct result of providing humanitarian and civic assistanceunder this section to a foreign country shall be paid for out of funds specifically appropriated for such purpose.
+(c)(1) Expenses incurred as a direct result of providing humanitarian and civic assistance under this section to a foreign country shall be paid for out of funds specifically appropriated for such purpose.
 
 \[(2), (3) Repealed. Pub. L. 109–364, div. A, title XII, §1203(a)(3), Oct. 17, 2006, 120 Stat. 2413.\]
 
@@ -160,11 +160,11 @@ Appropriate Congressional Committees.—In this section, the term ‘appropriate
 
 #### Humanitarian Assistance; Emergency Transportation of Individuals
 
-Pub. L. 102–396, title II, Oct. 6, 1992, 106 Stat. 1884, provided: “That where required and notwithstanding anyother provision of law, funds made available under this heading \[Humanitarian Assistance\] for fiscal year 1993 or thereafter, shall be available for emergency transportation of United States or foreign nationals or the emergency transportation of humanitarian relief personnel in conjunction with humanitarian relief operations.”
+Pub. L. 102–396, title II, Oct. 6, 1992, 106 Stat. 1884, provided: “That where required and notwithstanding any other provision of law, funds made available under this heading \[Humanitarian Assistance\] for fiscal year 1993 or thereafter, shall be available for emergency transportation of United States or foreign nationals or the emergency transportation of humanitarian relief personnel in conjunction with humanitarian relief operations.”
 
 #### Appropriation of Funds for Humanitarian and Civic Assistance; Annual Report to Congress on Obligations; Use of Civic Action Teams in Trust Territories of Pacific Islands and Freely Associated States of Micronesia
 
-Pub. L. 109–148, div. A, title VIII, §8009, Dec. 30, 2005, 119 Stat. 2699, which appropriated funds pursuant to this section and authorized obligations for humanitarian and civic assistance costs under this chapter, with such obligations being reported as required by subsec. (d) of this section, and authorized the use of Civic Action Teams for the provision of assistance in the Trust Territories of the Pacific Islands and freely associated states of Micronesia and the provision of medical services at Army medical facilities in Hawaii upon a determination by the Secretary of the Army, was from the Department of Defense Appropriations Act, 2006 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were contained in the following prior appropriations acts:
+Pub. L. 109–148, div. A, title VIII, §8009, Dec. 30, 2005, 119 Stat. 2699, which appropriated funds pursuant tothis section and authorized obligations for humanitarian and civic assistance costs under this chapter, with such obligations being reported as required by subsec. (d) of this section, and authorized the use of Civic Action Teams for the provision of assistance in the Trust Territories of the Pacific Islands and freely associated states of Micronesia and the provision of medical services at Army medical facilities in Hawaii upon a determination by the Secretary of the Army, was from the Department of Defense Appropriations Act, 2006 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were contained in the following prior appropriations acts:
 
 Pub. L. 108–287, title VIII, §8009, Aug. 5, 2004, 118 Stat. 971.
 

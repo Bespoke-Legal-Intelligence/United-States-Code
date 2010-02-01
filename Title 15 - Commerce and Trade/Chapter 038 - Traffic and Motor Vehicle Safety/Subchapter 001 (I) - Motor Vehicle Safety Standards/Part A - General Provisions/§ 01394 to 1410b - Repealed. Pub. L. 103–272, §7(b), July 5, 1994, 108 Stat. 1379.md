@@ -36,7 +36,7 @@ Section 1409, Pub. L. 89–563, title I, §121, Sept. 9, 1966, 80 Stat. 728; Pub
 
 Section 1410, Pub. L. 89–563, title I, §123, as added Pub. L. 90–283, Apr. 10, 1968, 82 Stat. 72; amended Pub. L. 92–548, §3, Oct. 25, 1972, 86 Stat. 1159, related to exemption from safety standards of motor vehicles. See section 30113 of Title 49.
 
-Section 1410a, Pub. L. 89–563, title I, §124, as added Pub. L. 93–492, title I, §106, Oct. 27, 1974, 88 Stat. 1481,related to petitions of interested persons to commence proceedings on orders issued under sections 1392 and 1412(b) of this title. See sections 30103 and 30162 of Title 49.
+Section 1410a, Pub. L. 89–563, title I, §124, as added Pub. L. 93–492, title I, §106, Oct. 27, 1974, 88 Stat. 1481, related to petitions of interested persons to commence proceedings on orders issued under sections 1392 and 1412(b) of this title. See sections 30103 and 30162 of Title 49.
 
 Section 1410b, Pub. L. 89–563, title I, §125, as added Pub. L. 93–492, title I, §109, Oct. 27, 1974, 88 Stat. 1482; amended S. Res. 4, Feb. 4, 1977; H. Res. 549, Mar. 25, 1980, related to occupant restraint systems. See section 30124 of Title 49.
 

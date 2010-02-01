@@ -40,7 +40,7 @@ Feasibility studies authorized or reviewed under this subchapter shall include a
 
 &emsp;(1) near- and long-term water demand in the area to be served by the rural water supply project;
 
-&emsp;(2) advancement of public health and safety of any existing rural water supply project and other benefits of the proposed rural water supply project;
+&emsp;(2) advancement of public health and safety of any existing rural water supply project andother benefits of the proposed rural water supply project;
 
 &emsp;(3) alternative new water supplies in the study area, including any opportunities to treat and use low-quality water, nonpotable water, water reuse-based supplies, and brackish and saline waters through innovative and economically viable treatment technologies;
 

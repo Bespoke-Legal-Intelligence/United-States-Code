@@ -10,7 +10,7 @@ Such information shall be available to the public unless the manufacturer establ
 
 #### (c) “Cost information” defined
 
-For purposes of this section, “cost information” means information with respect to alleged cost increases resulting from action by the Secretary, in such a form as to permit the public, the consensus committee, and the Secretary to make an informed judgment on the validity ofthe manufacturer's statements. Such term includes both the manufacturer's cost and the cost to retail purchasers.
+For purposes of this section, “cost information” means information with respect to alleged cost increases resulting from action by the Secretary, in such a form as to permit the public, the consensus committee, and the Secretary to make an informed judgment on the validity of the manufacturer's statements. Such term includes both the manufacturer's cost and the cost to retail purchasers.
 
 #### (d) Power of Secretary to obtain or require submission of information under other provisions unaffected
 

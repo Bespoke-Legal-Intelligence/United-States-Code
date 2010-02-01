@@ -14,7 +14,7 @@ No compensation shall be allowed for the first three days of the disability, exc
 
 #### (c) Applicability of determinations
 
-Determinations under subsection (b)(3) of this section with respect to a period shall apply to employees or survivors currently receiving compensation for permanent total disability or death benefits during such period, as well as those newly awarded compensation during such period.
+Determinations under subsection (b)(3) of this section with respect to a period shall apply toemployees or survivors currently receiving compensation for permanent total disability or death benefits during such period, as well as those newly awarded compensation during such period.
 
 (Mar. 4, 1927, ch. 509, §6, 44 Stat. 1426; June 24, 1948, ch. 623, §1, 62 Stat. 602; July 26, 1956, ch. 735, §1, 70 Stat. 654; Pub. L. 87–87, §1, July 14, 1961, 75 Stat. 203; Pub. L. 92–576, §§4, 5(a), Oct. 27, 1972, 86 Stat. 1252; Pub. L. 98–426, §6, Sept. 28, 1984, 98 Stat. 1641.)
 

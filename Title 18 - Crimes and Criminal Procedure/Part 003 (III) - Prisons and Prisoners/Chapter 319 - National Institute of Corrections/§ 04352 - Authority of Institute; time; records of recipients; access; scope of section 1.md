@@ -10,7 +10,7 @@
 
 &emsp;(4) to encourage and assist Federal, State, and local government programs and services, and programs and services of other public and private agencies, institutions, and organizations in their efforts to develop and implement improved corrections programs;
 
-&emsp;(5) to devise and conduct, in various geographical locations, seminars, workshops, and training programs for law enforcement officers, judges, and judicial personnel, probation and parole personnel, correctional personnel, welfare workers, and other persons, including lay ex-offenders, and paraprofessional personnel, connected with the treatment and rehabilitation of criminal and juvenile offenders;
+&emsp;(5) to devise and conduct, in various geographical locations, seminars, workshops, and training programs for law enforcement officers, judges, and judicial personnel, probation and parole personnel, correctional personnel,welfare workers, and other persons, including lay ex-offenders, and paraprofessional personnel, connected with the treatment and rehabilitation of criminal and juvenile offenders;
 
 &emsp;(6) to develop technical training teams to aid in the development of seminars, workshops, and training programs within the several States and with the State and local agencies which work with prisoners, parolees, probationers, and other offenders;
 

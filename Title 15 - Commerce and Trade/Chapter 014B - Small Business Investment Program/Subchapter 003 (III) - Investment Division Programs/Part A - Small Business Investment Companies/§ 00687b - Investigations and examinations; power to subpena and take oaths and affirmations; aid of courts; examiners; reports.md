@@ -38,7 +38,7 @@ Each small business investment company shall be examined at least every two year
 
 #### (B) Material adverse changes
 
-&emsp;&emsp;Not later than 30 days after the end of a fiscal quarter of a licensee during which a material adverse change in the aggregate valuation of the loans and investments oroperations of the licensee occurs, the licensee shall notify the Administrator in writing of the nature and extent of that change.
+&emsp;&emsp;Not later than 30 days after the end of a fiscal quarter of a licensee during which a material adverse change in the aggregate valuation of the loans and investments or operations of the licensee occurs, the licensee shall notify the Administrator in writing of the nature and extent of that change.
 
 #### (C) Independent certification
 
@@ -80,7 +80,7 @@ The Investment Company Act of 1940, referred to in subsec. (b), is title I of ac
 
 Subsec. (c)(4). Pub. L. 104–208, §208(h)(1)(C), struck out “not less than four years in the case of section 301(d) licensees and in all other cases,” after “small businesses for”.
 
-Subsec. (d). Pub. L. 104–208, §208(f)(2), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “Each small business investment company shall adopt written guidelines for determination of the value of investments made by such company. The board of directors of corporations and the general partners of partnerships shall have the sole responsibility for making a good faith determination of the fair market value of the investments made by such company. Determinations shall be made and reported to the Administration not less than semiannually or at more frequent intervals as the Administration determines appropriate: <i>Provided</i>, That any company which does not have outstanding financial assistance under the provisions of this subchapter shall be required to make such determinations and reports to the Administration annually, unless the Administration, in its discretion, determines otherwise.”
+Subsec. (d). Pub. L. 104–208, §208(f)(2), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “Each small business investment company shall adopt written guidelines for determination of the value of investments made by such company. The board of directors of corporations and the general partners of partnerships shall have the sole responsibility for making a good faith determination of the fair market value of the investments made by such company. Determinations shall be made and reported to the Administration not less than semiannually or at more frequent intervals as the Administration determines appropriate: <i>Provided</i>, That any company which does not have outstanding financial assistance under the provisions of this subchapter shall be required to make such determinations and reports tothe Administration annually, unless the Administration, in its discretion, determines otherwise.”
 
 1992—Subsec. (b). Pub. L. 102–366, §407(a), substituted “Investment Division of” for “Administration by examiners selected or approved by”.
 

@@ -94,7 +94,7 @@ Section was formerly classified to section 7274n of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (i). Pub. L. 108–136, §3141(g)(11)(D), substituted “September 23, 2011” for “the expiration of the 15-year period beginning on September 23, 1996”.
+2003—Subsec. (i). Pub. L. 108–136, §3141(g)(11)(D), substituted “September 23, 2011” for “the expiration of the 15-year period beginning on September 23, 1996”.
 
 #### Defense Site Acceleration Completion
 

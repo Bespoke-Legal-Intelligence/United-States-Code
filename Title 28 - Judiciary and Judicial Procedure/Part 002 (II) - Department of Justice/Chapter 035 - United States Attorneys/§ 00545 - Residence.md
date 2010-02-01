@@ -4,7 +4,7 @@
 
 (b) The Attorney General may determine the official stations of United States attorneys and assistant United States attorneys within the districts for which they are appointed.
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 618; amended Pub. L. 95–530, §1, Oct. 27, 1978, 92 Stat. 2028; Pub. L. 96–91, Oct. 25, 1979, 93 Stat. 700; Pub. L. 103–322, title XXXII, §320932, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 109–177, title V, §501(a), Mar. 9, 2006, 120 Stat. 246.)
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 618; amended Pub. L. 95–530, §1, Oct. 27, 1978, 92Stat. 2028; Pub. L. 96–91, Oct. 25, 1979, 93 Stat. 700; Pub. L. 103–322, title XXXII, §320932, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 109–177, title V, §501(a), Mar. 9, 2006, 120 Stat. 246.)
 
 Historical and Revision Notes<br>1966
 

@@ -4,7 +4,7 @@
 
 #### (1) Prohibition of false or misleading transmission information
 
-&emsp;It is unlawful for any person to initiate the transmission, to a protected computer, of a commercial electronic mail message, or a transactional or relationship message, thatcontains, or is accompanied by, header information that is materially false or materially misleading. For purposes of this paragraph—
+&emsp;It is unlawful for any person to initiate the transmission, to a protected computer, of a commercial electronic mail message, or a transactional or relationship message, that contains, or is accompanied by, header information that is materially false or materially misleading. For purposes of this paragraph—
 
 &emsp;&emsp;(A) header information that is technically accurate but includes an originating electronic mail address, domain name, or Internet Protocol address the access to which for purposes of initiating the message was obtained by means of false or fraudulent pretenses or representations shall be considered materially misleading;
 
@@ -128,7 +128,7 @@ The Commission shall by regulation, pursuant to section 7711 of this title—
 
 #### (3) Prescription of marks and notices
 
-&emsp;Not later than 120 days after December 16, 2003, the Commission in consultation with theAttorney General shall prescribe clearly identifiable marks or notices to be included in or associated with commercial electronic mail that contains sexually oriented material, in order to inform the recipient of that fact and to facilitate filtering of such electronic mail. The Commission shall publish in the Federal Register and provide notice to the public of the marks or notices prescribed under this paragraph.
+&emsp;Not later than 120 days after December 16, 2003, the Commission in consultation with the Attorney General shall prescribe clearly identifiable marks or notices to be included in or associated with commercial electronic mail that contains sexually oriented material, in order to inform the recipient of that fact and to facilitate filtering of such electronic mail. The Commission shall publish in the Federal Register and provide notice to the public of the marks or notices prescribed under this paragraph.
 
 #### (4) Definition
 

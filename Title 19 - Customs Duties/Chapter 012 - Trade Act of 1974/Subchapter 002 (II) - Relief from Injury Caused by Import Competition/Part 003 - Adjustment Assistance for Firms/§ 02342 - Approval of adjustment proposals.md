@@ -40,5 +40,5 @@ Subsecs. (c), (d). Pub. L. 99–272, §13006(a)(2), redesignated subsec. (d) as 
 
 #### Termination Date
 
-No technical assistance to be provided under this part after Dec. 31, 2007, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and grants may not be provided under this part after Dec. 31, 2010, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

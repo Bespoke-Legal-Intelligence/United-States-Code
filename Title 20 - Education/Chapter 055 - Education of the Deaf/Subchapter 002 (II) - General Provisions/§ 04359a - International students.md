@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), effective with new admissions for academic year 1993–1994 and each succeeding academic year, the University (including undergraduate and graduate students) and NTID shall limit the enrollment of international students to approximately 15 percent of the total postsecondary student population enrolled respectively at the University or NTID, except that in any school year no United States citizen who is qualified to be admitted to the University or NTID and applies for admission to the University or NTID shall be denied admission because of the admission of an international student.
+&emsp;Except as provided in paragraph (2), effective with new admissions for academic year 1993–1994 and each succeeding academic year, the University (including undergraduate andgraduate students) and NTID shall limit the enrollment of international students to approximately 15 percent of the total postsecondary student population enrolled respectively at the University or NTID, except that in any school year no United States citizen who is qualified to be admitted to the University or NTID and applies for admission to the University or NTID shall be denied admission because of the admission of an international student.
 
 #### (2) Distance learning
 
@@ -50,7 +50,7 @@ Except as provided in subsections (a)(2)(B) and (c), the tuition for postseconda
 
 #### (d) Definition
 
-In this section, the term “developing country” means a country with a per-capita income of not more than $5,345, measured in 2005 United Statesdollars, as adjusted by the Secretary to reflect inflation since 2005.
+In this section, the term “developing country” means a country with a per-capita income of not more than $5,345, measured in 2005 United States dollars, as adjusted by the Secretary to reflect inflation since 2005.
 
 (Pub. L. 99–371, title II, §209, formerly §210, as added Pub. L. 102–421, title I, §139, Oct. 16, 1992, 106 Stat. 2163; amended Pub. L. 103–73, title II, §204(h), Aug. 11, 1993, 107 Stat. 735; renumbered §209 and amended Pub. L. 105–244, title IX, §922, Oct. 7, 1998, 112 Stat. 1832; Pub. L. 110–315, title IX, §911, Aug. 14, 2008, 122 Stat. 3454.)
 

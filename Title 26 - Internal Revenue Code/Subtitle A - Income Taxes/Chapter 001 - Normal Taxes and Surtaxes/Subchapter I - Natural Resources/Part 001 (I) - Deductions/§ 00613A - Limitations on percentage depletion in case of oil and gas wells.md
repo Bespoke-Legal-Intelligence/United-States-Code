@@ -76,7 +76,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 #### (4) Daily depletable natural gas quantity
 
-&emsp;For purposes of paragraph (1), the depletable natural gas quantity of any taxpayer for anytaxable year shall be equal to 6,000 cubic feet multiplied by the number of barrels of the taxpayer's depletable oil quantity to which the taxpayer elects to have this paragraph apply. The taxpayer's depletable oil quantity for any taxable year shall be reduced by the number of barrels with respect to which an election under this paragraph applies. Such election shall be made at such time and in such manner as the Secretary shall by regulations prescribe.
+&emsp;For purposes of paragraph (1), the depletable natural gas quantity of any taxpayer for any taxable year shall be equal to 6,000 cubic feet multiplied by the number of barrels of the taxpayer's depletable oil quantity to which the taxpayer elects to have this paragraph apply. The taxpayer's depletable oil quantity for any taxable year shall be reduced by the number of barrels with respect to which an election under this paragraph applies. Such election shall be made at such time and in such manner as the Secretary shall by regulations prescribe.
 
 #### \[(5) Repealed. Pub. L. 101–508, title XI, §11815(a)(1)(C), Nov. 5, 1990, 104 Stat. 1388–557\]
 
@@ -148,7 +148,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 #### (A) Production of crude oil in excess of depletable oil quantity
 
-&emsp;&emsp;If the taxpayer's average daily production of domestic crude oil exceeds his depletable oil quantity, the allowance under paragraph (1)(A) with respect to oil produced during the taxable year from each property in the United States shall be that amount which bears the same ratio to the amount of depletion which would have been allowable under section 613(a) for all of the taxpayer's oilproduced from such property during the taxable year (computed as if section 613 applied to all of such production at the rate specified in paragraph (1) or (6), as the case may be) as his depletable oil quantity bears to the aggregate number of barrels representing the average daily production of domestic crude oil of the taxpayer for such year.
+&emsp;&emsp;If the taxpayer's average daily production of domestic crude oil exceeds his depletable oil quantity, the allowance under paragraph (1)(A) with respect to oil produced during the taxable year from each property in the United States shall be that amount which bears the same ratio to the amount of depletion which would have been allowable under section 613(a) for all of the taxpayer's oil produced from such property during the taxable year (computed as if section 613 applied to all of such production at the rate specified in paragraph (1) or (6), as the case may be) as his depletable oil quantity bears to the aggregate number of barrels representing the average daily production of domestic crude oil of the taxpayer for such year.
 
 #### (B) Production of natural gas in excess of depletable natural gas quantity
 
@@ -252,7 +252,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 #### (4) Certain refiners excluded
 
-&emsp;If the taxpayer or one or more related persons engages in the refining of crude oil, subsection (c) shall not apply to the taxpayer for a taxable year if the average daily refinery runs of the taxpayer and such persons for the taxable year exceed 75,000 barrels. For purposes of this paragraph, the average daily refinery runs for any taxable year shall be determined by dividing the aggregate refinery runs for the taxable year by the number of days in the taxable year.
+&emsp;If the taxpayer or one or more related persons engages in the refining of crude oil, subsection (c) shall not apply to the taxpayer for a taxable year if the average daily refinery runs of the taxpayer and such persons for thetaxable year exceed 75,000 barrels. For purposes of this paragraph, the average daily refinery runs for any taxable year shall be determined by dividing the aggregate refinery runs for the taxable year by the number of days in the taxable year.
 
 #### (5) Percentage depletion not allowed for lease bonuses, etc.
 

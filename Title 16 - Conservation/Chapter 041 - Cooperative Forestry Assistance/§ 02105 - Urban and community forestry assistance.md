@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(5) tree plantings and ground covers such as low growing dense perennial turfgrass sod in urban areas and communities can aid in reducing carbon dioxide emissions, mitigating the heat island effect, and reducing energy consumption, thus contributing to efforts to reduce global warming trends;
 
-&emsp;(6) efforts to encourage tree plantings and protect existing open spaces in urban areasand communities can contribute to the social well-being and promote a sense of community in these areas; and
+&emsp;(6) efforts to encourage tree plantings and protect existing open spaces in urban areas and communities can contribute to the social well-being and promote a sense of community in these areas; and
 
 &emsp;(7) strengthened research, education, technical assistance, and public information and participation in tree planting and maintenance programs for trees and complementary ground covers for urban and community forests are needed to provide for the protection and expansion of tree cover and open space in urban areas and communities.
 
@@ -48,7 +48,7 @@ The purposes of this section are to—
 
 #### (c) General authority
 
-The Secretary is authorized to provide financial, technical, and related assistance to State foresters or equivalent State officials for the purpose of encouraging States to provide information and technical assistance to units of local government and others that will encourage cooperative efforts to plan urban forestry programs and to plant, protect, and maintain, and utilize wood from, trees in open spaces, greenbelts, roadside screens, parks, woodlands, curb areas, and residential developments in urban areas. In providing such assistance, the Secretary is authorized to cooperate with interested members of the public, including nonprofit private organizations. The Secretary is also authorized to cooperate directly with units of local government and others in implementing this section whenever the Secretary and the affected State forester or equivalent State official agree that direct cooperation would better achieve the purposes of this section.
+The Secretary is authorized to provide financial, technical, and related assistance to State foresters or equivalent State officials for the purpose of encouraging States to provide information and technical assistance to units of localgovernment and others that will encourage cooperative efforts to plan urban forestry programs and to plant, protect, and maintain, and utilize wood from, trees in open spaces, greenbelts, roadside screens, parks, woodlands, curb areas, and residential developments in urban areas. In providing such assistance, the Secretary is authorized to cooperate with interested members of the public, including nonprofit private organizations. The Secretary is also authorized to cooperate directly with units of local government and others in implementing this section whenever the Secretary and the affected State forester or equivalent State official agree that direct cooperation would better achieve the purposes of this section.
 
 #### (d) Program of education and technical assistance
 
@@ -74,7 +74,7 @@ The Secretary, in cooperation with State foresters and State extension directors
 
 #### (e) Procurement of plant materials
 
-The Secretary, in cooperation with State foresters or equivalent State officials, shall assist in identifying sources of plant materials andmay procure or otherwise obtain such plant materials from public or private sources and may make such plant materials available to urban areas and communities for the purpose of reforesting open spaces, replacing dead and dying urban trees, promoting energy conservation, and providing other environmental benefits through expanding tree cover in urban areas and communities.
+The Secretary, in cooperation with State foresters or equivalent State officials, shall assist in identifying sources of plant materials and may procure or otherwise obtain such plant materials from public or private sources and may make such plant materials available to urban areas and communities for the purpose of reforesting open spaces, replacing dead and dying urban trees, promoting energy conservation, and providing other environmental benefits through expanding tree cover in urban areas and communities.
 
 #### (f) Challenge cost-share program
 
@@ -118,7 +118,7 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 &emsp;&emsp;&emsp;(vii) 1 member representing a professional renewable natural resource or arboricultural society,
 
-&emsp;&emsp;&emsp;(viii) 1 member from the Extension Service,
+&emsp;&emsp;&emsp;(viii) 1 member from the National Institute of Food and Agriculture,
 
 &emsp;&emsp;&emsp;(ix) 1 member from the Forest Service, and
 
@@ -160,7 +160,7 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 #### (ii) Federal officers and employees
 
-&emsp;&emsp;&emsp;Members of the Council who are full-time officers or employees of the UnitedStates shall receive no additional pay, allowances, or benefits by reason of their service on the Council.
+&emsp;&emsp;&emsp;Members of the Council who are full-time officers or employees of the United States shall receive no additional pay, allowances, or benefits by reason of their service on the Council.
 
 #### (iii) Financial and administrative support
 
@@ -224,17 +224,15 @@ There are hereby authorized to be appropriated $30,000,000 for each of the fisca
 
 (Pub. L. 95–313, §9, formerly §6, July 1, 1978, 92 Stat. 369; renumbered §9 and amended Pub. L. 101–624, title XII, §§1215(1), 1219(a), Nov. 28, 1990, 104 Stat. 3525, 3533; Pub. L. 102–237, title X, §1018(a)(3), Dec. 13, 1991, 105 Stat. 1905; Pub. L. 110–234, title VII, §7511(c)(36), May 22, 2008, 122 Stat. 1271; Pub. L. 110–246, §4(a), title VII, §7511(c)(36), June 18, 2008, 122 Stat. 1664, 2032.)
 
-#### Amendment of Subsection (g)(2)(A)(viii)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2032, provided that, effective Oct. 1, 2009, subsection (g)(2)(A)(viii) of this section is amended by substituting “National Institute of Food and Agriculture” for “Extension Service”.</i>
-
 #### Codification
 
-November 28, 1990, referred to in subsec. (g)(3), was in the original “the date of enactment of this subsection”,which was translated as meaning the date of enactment of Pub. L. 101–624, which amended this section generally, to reflect the probable intent of Congress.
+November 28, 1990, referred to in subsec. (g)(3), was in the original “the date of enactment of this subsection”, which was translated as meaning the date of enactment of Pub. L. 101–624, which amended this section generally, to reflect the probable intent of Congress.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (g)(2)(A)(viii). Pub. L. 110–246, §7511(c)(36), substituted “National Institute of Food and Agriculture” for “Extension Service”.
 
 1991—Subsec. (g)(1)(C), (3)(E). Pub. L. 102–237, §1018(a)(3)(A), (B), substituted “subsection (f)” for “subsection (e)”.
 

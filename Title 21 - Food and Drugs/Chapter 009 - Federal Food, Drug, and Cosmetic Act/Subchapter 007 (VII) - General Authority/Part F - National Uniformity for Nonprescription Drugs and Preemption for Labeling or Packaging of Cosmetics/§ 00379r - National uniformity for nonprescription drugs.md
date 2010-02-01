@@ -36,13 +36,13 @@ Except as provided in subsection (b), (c)(1), (d), (e), or (f) of this section, 
 
 #### (2) Safety or effectiveness
 
-&emsp;For purposes of subsection (a) of this section, a requirement that relates to the regulation of a drug shall be deemed to include anyrequirement relating to public information or any other form of public communication relating to a warning of any kind for a drug.
+&emsp;For purposes of subsection (a) of this section, a requirement that relates to the regulation of a drug shall be deemed to include any requirement relating to public information or any other form of public communication relating to a warning of any kind for a drug.
 
 #### (d) Exceptions
 
 #### (1) In general
 
-&emsp;In the case of a drug described in subsection (a)(1) of this section that is not the subject of an application approved under section 355 of this title or section 357 of this title (as in effect on the day before November 21, 1997) or a final regulation promulgated by the Secretary establishing conditions under which the drug is generally recognized as safe and effective and not misbranded, subsection (a) of this section shall apply only with respect to a requirement of a State or political subdivision of a State that relates to the same subject as, but is different from or in addition to, or that is otherwise not identical with—
+&emsp;In the case of a drug described in subsection (a)(1) of this section that is not the subject of an application approved under section 355 of this title or section 357 of this title (as in effect on the day before November 21, 1997) or a final regulation promulgated by the Secretary establishing conditions under which the drug is generally recognized as safe and effective and not misbranded, subsection (a) of this section shall apply only with respect to a requirement of a State or political subdivision of a State that relates to the same subject as, butis different from or in addition to, or that is otherwise not identical with—
 
 &emsp;&emsp;(A) a regulation in effect with respect to the drug pursuant to a statute described in subsection (a)(2) of this section; or
 

@@ -6,9 +6,15 @@ Sections 1242 and 1243 of this title shall not apply to—
 
 &emsp;(2) the manufacture, sale, transportation, distribution, possession, or introduction into interstate commerce, of switchblade knives pursuant to contract with the Armed Forces;
 
-&emsp;(3) the Armed Forces or any member or employee thereof acting in the performance of his duty; or
+&emsp;(3) the Armed Forces or any member or employee thereof acting in the performance of his duty;
 
-&emsp;(4) the possession, and transportation upon his person, of any switchblade knife with a blade three inches or less in length by any individual who has only one arm.
+&emsp;(4) the possession, and transportation upon his person, of any switchblade knife with a blade three inches or less in length by any individual who has only one arm; or
 
-(Pub. L. 85–623, §4, Aug. 12, 1958, 72 Stat. 562.)
+&emsp;(5) a knife that contains a spring, detent, or other mechanism designed to create a bias toward closure of the blade and that requires exertion applied to the blade by hand, wrist, or arm to overcome the bias toward closure to assist in opening the knife.
+
+(Pub. L. 85–623, §4, Aug. 12, 1958, 72 Stat. 562; Pub. L. 111–83, title V, §562, Oct. 28, 2009, 123 Stat. 2183.)
+
+#### Amendments
+
+2009—Par. (5). Pub. L. 111–83 added par. (5).
 

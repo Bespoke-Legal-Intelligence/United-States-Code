@@ -2,7 +2,7 @@
 
 #### (a) Anchor tenancy contracts
 
-Subject to appropriations, the Administrator <sup>1</sup> or the Administrator of the National Oceanicand Atmospheric Administration may enter into multiyear anchor tenancy contracts for the purchase of a good or service if the appropriate Administrator determines that—
+Subject to appropriations, the Administrator <sup>1</sup> or the Administrator of the National Oceanic and Atmospheric Administration may enter into multiyear anchor tenancy contracts for the purchase of a good or service if the appropriate Administrator determines that—
 
 &emsp;(1) the good or service meets the mission requirements of the National Aeronautics and Space Administration or the National Oceanic and Atmospheric Administration, as appropriate;
 

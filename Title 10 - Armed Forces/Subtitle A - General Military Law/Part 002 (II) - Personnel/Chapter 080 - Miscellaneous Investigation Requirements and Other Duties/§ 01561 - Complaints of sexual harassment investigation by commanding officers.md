@@ -36,7 +36,7 @@ Sexual Harassment Defined.—In this section, the term “sexual harassment” m
 
 &emsp;&emsp;&emsp;(i) submission to such conduct is made either explicitly or implicitly a term or condition of a person's job, pay, or career;
 
-&emsp;&emsp;&emsp;(ii) submission to or rejection of such conduct by a person is used as a basis for career or employment decisions affecting that person; or
+&emsp;&emsp;&emsp;(ii) submission to or rejection of such conduct by a person is used as a basis forcareer or employment decisions affecting that person; or
 
 &emsp;&emsp;&emsp;(iii) such conduct has the purpose or effect of unreasonably interfering with an individual's work performance or creates an intimidating, hostile, or offensive working environment; and
 

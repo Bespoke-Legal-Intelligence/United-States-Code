@@ -56,7 +56,7 @@ Acceptance of Support.—(1) The Secretary of Defense may accept from any person
 
 Limitations.—(1) A vessel built in a foreign ship yard may not be purchased with funds in the National Defense Sealift Fund pursuant to subsection (c)(1), unless specifically authorized by law.
 
-(2) Construction, alteration, or conversion of vessels with funds in the National Defense Sealift Fund pursuant to subsection (c)(1) shall beconducted in United States ship yards and shall be subject to section 1424(b) of Public Law 101–510 (104 Stat. 1683).
+(2) Construction, alteration, or conversion of vessels with funds in the National Defense Sealift Fund pursuant to subsection (c)(1) shall be conducted in United States ship yards and shall be subject to section 1424(b) of Public Law 101–510 (104 Stat. 1683).
 
 (g)
 
@@ -96,7 +96,7 @@ Contracts for Incorporation of Defense Features in Commercial Vessels.—(1) The
 
 &emsp;(E) Payments of such sums as the Government would otherwise expend, if the vessel were placed in the Ready Reserve Fleet, for maintaining the vessel in the status designated as “ROS–4 status” in the Ready Reserve Fleet for 25 years.
 
-(3) For any contract under paragraph (1) under which the United States makes advance payments under paragraph (2) for the costs associated with installation or maintenance of any defense feature on a commercial vessel, the contractor shall provide to the United States such security interests in the vessel, by way of a preferred mortgage under section 31322 of title 46 or otherwise, as the head of the agency may prescribe in order to adequately protect the United States against loss for the total amount of those costs.
+(3) For any contract under paragraph (1) under which the United States makes advance payments under paragraph (2) for the costs associated with installation or maintenance of any defense feature on a commercial vessel, the contractor shall provide to the United States such security interests in the vessel, by way of a preferred mortgage under section 31322 of title 46 orotherwise, as the head of the agency may prescribe in order to adequately protect the United States against loss for the total amount of those costs.
 
 (4) Each contract entered into under this subsection shall—
 

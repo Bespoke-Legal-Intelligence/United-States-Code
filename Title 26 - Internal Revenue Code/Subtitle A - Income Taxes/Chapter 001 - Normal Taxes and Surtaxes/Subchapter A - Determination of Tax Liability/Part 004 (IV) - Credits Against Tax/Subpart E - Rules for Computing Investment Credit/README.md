@@ -7,6 +7,7 @@ Subpart E—Rules for Computing Investment Credit
 | [48\.](%C2%A7%2000048%20-%20Energy%20credit.md) | Energy credit. |
 | [48A.](%C2%A7%2000048A%20-%20Qualifying%20advanced%20coal%20project%20credit.md) | Qualifying advanced coal project credit. |
 | [48B.](%C2%A7%2000048B%20-%20Qualifying%20gasification%20project%20credit.md) | Qualifying gasification project credit. |
+| [48C.](%C2%A7%2000048C%20-%20Qualifying%20advanced%20energy%20project%20credit.md) | Qualifying advanced energy project credit. |
 | [49\.](%C2%A7%2000049%20-%20At-risk%20rules.md) | At-risk rules. |
 | [50\.](%C2%A7%2000050%20-%20Other%20special%20rules.md) | Other special rules. |
 | \[50A, 50B. | Repealed.\] |
@@ -14,6 +15,8 @@ Subpart E—Rules for Computing Investment Credit
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–5, div. B, title I, §1302(c)(2), Feb. 17, 2009, 123 Stat. 348, added item 48C.
 
 2005—Pub. L. 109–58, title XIII, §1307(c)(2), Aug. 8, 2005, 119 Stat. 1006, added items 48A and 48B.
 
@@ -33,7 +36,9 @@ Subpart E—Rules for Computing Investment Credit
 
 1962—Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 963, added subpart B.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “seams”.</i>
+<i><sup>1</sup></i><i> So in original. A comma probably should appear.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 
 
 ---
@@ -45,6 +50,7 @@ Subpart E—Rules for Computing Investment Credit
 - [&sect; 00048 - Energy credit](%C2%A7%2000048%20-%20Energy%20credit.md)
 - [&sect; 00048A - Qualifying advanced coal project credit](%C2%A7%2000048A%20-%20Qualifying%20advanced%20coal%20project%20credit.md)
 - [&sect; 00048B - Qualifying gasification project credit](%C2%A7%2000048B%20-%20Qualifying%20gasification%20project%20credit.md)
+- [&sect; 00048C - Qualifying advanced energy project credit](%C2%A7%2000048C%20-%20Qualifying%20advanced%20energy%20project%20credit.md)
 - [&sect; 00049 - At-risk rules](%C2%A7%2000049%20-%20At-risk%20rules.md)
 - [&sect; 00050 - Other special rules](%C2%A7%2000050%20-%20Other%20special%20rules.md)
 - [&sect; 00050A, 50B - Repealed. Pub. L. 98&#8211;369, div. A, title IV, &sect;474(m)(2), July 18, 1984, 98 Stat. 833](%C2%A7%2000050A%2C%2050B%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93369%2C%20div.%20A%2C%20title%20IV%2C%20%C2%A7474%28m%29%282%29%2C%20July%2018%2C%201984%2C%2098%20Stat.%20833.md)

@@ -20,7 +20,7 @@ Any notice of a proposed procurement policy, regulation, procedure, or form prep
 
 (1) The requirements of subsections (a) and (b) of this section may be waived by the officer authorized to issue a procurement policy, regulation, procedure, or form if urgent and compelling circumstances make compliance with such requirements impracticable.
 
-(2) A procurement policy, regulation, procedure, or form with respect to which the requirements of subsections (a) and (b) of this section are waived under paragraph (1) shall be effective on a temporary basis if—
+(2) A procurement policy, regulation, procedure, or form with respect to which the requirements of subsections (a) and (b) of this sectionare waived under paragraph (1) shall be effective on a temporary basis if—
 
 &emsp;(A) a notice of such procurement policy, regulation, procedure, or form is published in the Federal Register and includes a statement that the procurement policy, regulation, procedure, or form is temporary; and
 

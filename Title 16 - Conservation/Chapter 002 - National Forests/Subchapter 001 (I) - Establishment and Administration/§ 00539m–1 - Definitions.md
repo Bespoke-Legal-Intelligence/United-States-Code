@@ -70,7 +70,7 @@ In sections 539m to 539m–12 of this title:
 
 #### (A) In general
 
-&emsp;&emsp;The term “modified use” means an existing use that, at any time after February 20, 2003, is modified or reconfigured but not significantly expanded.
+&emsp;&emsp;The term “modified use” means an existing use that, at any time after February 20,2003, is modified or reconfigured but not significantly expanded.
 
 #### (B) Inclusions
 

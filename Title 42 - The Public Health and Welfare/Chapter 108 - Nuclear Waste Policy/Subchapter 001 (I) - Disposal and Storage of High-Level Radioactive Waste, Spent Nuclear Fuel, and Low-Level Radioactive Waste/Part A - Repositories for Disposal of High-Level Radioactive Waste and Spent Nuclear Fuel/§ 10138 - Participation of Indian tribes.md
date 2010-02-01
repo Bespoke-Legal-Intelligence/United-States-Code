@@ -20,7 +20,7 @@ Upon the submission by the President to the Congress of a recommendation of a si
 
 &emsp;(v) to request information from, and make comments and recommendations to, the Secretary regarding any activities taken under this part with respect to such site.
 
-(B) The amount of funds provided to any affected Indian tribe under this paragraph in any fiscal year may not exceed 100 percent of the costs incurred by such Indian tribe with respectto the activities described in clauses (i) through (v) of subparagraph (A). Any salary or travel expense that would ordinarily be incurred by such Indian tribe may not be considered eligible for funding under this paragraph.
+(B) The amount of funds provided to any affected Indian tribe under this paragraph in any fiscal year may not exceed 100 percent of the costs incurred by such Indian tribe with respect to the activities described in clauses (i) through (v) of subparagraph (A). Any salary or travel expense that would ordinarily be incurred by such Indian tribe may not be considered eligible for funding under this paragraph.
 
 (3)(A) The Secretary shall provide financial and technical assistance to any affected Indian tribe requesting such assistance and where there is a site with respect to which the Commission has authorized construction of a repository. Such assistance shall be designed to mitigate the impact on such Indian tribe of the development of such repository. Such assistance to such Indian tribe shall commence within 6 months following the granting by the Commission of a construction authorization for such repository and following the initiation of construction activities at such site.
 
@@ -38,7 +38,7 @@ Upon the submission by the President to the Congress of a recommendation of a si
 
 &emsp;(iv) December 22, 1987;
 
-> whichever occurs first, unless there is another candidate site on the reservation of such Indian tribe that is approved under section 10132(c) of this title and with respect to which the actions described in clauses (i), (ii), and (iii) have not been taken.
+> whichever occurs first, unless there is another candidate site on the reservation of such Indian tribe that is approved under section 10132(c) of this title and with respect to which the actionsdescribed in clauses (i), (ii), and (iii) have not been taken.
 
 (B) An affected Indian tribe may not receive any further assistance under paragraph (2) with respect to a site if repository construction activities at such site are terminated by the Secretary or if such activities are permanently enjoined by any court.
 

@@ -20,7 +20,7 @@ Annual Report.—Not later each year than the date provided in section 507 of th
 
 &emsp;(4) A description of each corporation, partnership, or other legal entity that was established.
 
-(Added Pub. L. 102–88, title V, §504(a)(2), Aug. 14, 1991, 105 Stat. 440; amended Pub. L. 107–306, title VIII, §811(b)(4)(A), Nov. 27, 2002, 116 Stat. 2423;Pub. L. 108–136, div. A, title X, §1031(a)(7), Nov. 24, 2003, 117 Stat. 1596; Pub. L. 108–375, div. A, title X, §1084(d)(3), Oct. 28, 2004, 118 Stat. 2061.)
+(Added Pub. L. 102–88, title V, §504(a)(2), Aug. 14, 1991, 105 Stat. 440; amended Pub. L. 107–306, title VIII, §811(b)(4)(A), Nov. 27, 2002, 116 Stat. 2423; Pub. L. 108–136, div. A, title X, §1031(a)(7), Nov. 24, 2003, 117 Stat. 1596; Pub. L. 108–375, div. A, title X, §1084(d)(3), Oct. 28, 2004, 118 Stat. 2061.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 The Department of Agriculture is authorized to subscribe for such newspapers as may be necessary to carry out its authorized work.
 
-(Sept. 21, 1944, ch. 412, title VII, §704, 58 Stat. 742; Pub. L. 110–161, div. A, title VII, §740, 121 Stat. 1881.)
+(Sept. 21, 1944, ch. 412, title VII, §704, 58 Stat. 742; Pub. L. 110–161, div. A, title VII, §740, Dec. 26, 2007, 121 Stat. 1881.)
 
 #### Codification
 

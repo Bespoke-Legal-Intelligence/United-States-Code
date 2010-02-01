@@ -30,11 +30,11 @@ Limitation on Authority.—A bonus paid under this section may not exceed 50 per
 
 Impact on Basic Pay.—A retention bonus is not part of the basic pay of an employee for any purpose.
 
-(e)
+(Added Pub. L. 108–447, div. B, title I, §113(a), Dec. 8, 2004, 118 Stat. 2868; amended Pub. L. 111–117, div. B, title II, §217, Dec. 16, 2009, 123 Stat. 3141.)
 
-Termination of Authority.—The authority to grant bonuses under this section shall cease to be available after December 31, 2009.
+#### Amendments
 
-(Added Pub. L. 108–447, div. B, title I, §113(a), Dec. 8, 2004, 118 Stat. 2868.)
+2009—Subsec. (e). Pub. L. 111–117 struck out subsec. (e). Text read as follows: “The authority to grant bonuses under this section shall cease to be available after December 31, 2009.”
 
 <i><sup>1</sup></i><i> So in original. No section 5758 has been enacted.</i>
 

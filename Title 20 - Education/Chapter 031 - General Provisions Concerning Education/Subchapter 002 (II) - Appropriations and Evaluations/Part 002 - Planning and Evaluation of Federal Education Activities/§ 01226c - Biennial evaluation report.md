@@ -36,7 +36,7 @@ Pub. L. 103–382, §235, amended section generally, substituting single undesig
 
 1980—Subsec. (a)(F). Pub. L. 96–374 inserted “, including tabulations of available data to indicate the effectiveness of the programs and projects by the sex, race, and age of its beneficiaries” after “detailed data and appendices”.
 
-1979—Subsec. (a). Pub. L. 96–46 substituted “(a) Not later than” for “(a)(1) Not later than” and struck out par. (2) which provided that, in the case of programs and projects assisted under title I of the Elementary and Secondary Education Act of 1965, the report include a survey of how many children counted under section 103(c) of such Act do or do not participate in such programs and projects and how many disadvantaged children do or do not participate in such programs and projects.
+1979—Subsec. (a). Pub. L. 96–46 substituted “(a) Not later than” for “(a)(1) Not later than” and struck out par. (2) which provided that, in the case of programs and projects assisted under title I of the Elementaryand Secondary Education Act of 1965, the report include a survey of how many children counted under section 103(c) of such Act do or do not participate in such programs and projects and how many disadvantaged children do or do not participate in such programs and projects.
 
 1978—Subsec. (a)(1). Pub. L. 95–561 inserted “(including compliance with provisions of law requiring the maintenance of non-Federal expenditures for the purposes of such applicable programs)” after “effectiveness of applicable programs” and substituted “Committee on Human Resources” for “Committee on Labor and Public Welfare” in provisions preceding subpar. (A).
 

@@ -70,7 +70,7 @@ The programs established by this section shall apply to the acquisition workforc
 
 #### (2) Relationship to requirements applicable to defense acquisition workforce
 
-&emsp;The Administrator shall establish qualification requirements and make prescriptions under paragraph (1) that are comparable to those established for the same or equivalent positions pursuant to chapter 87 of title 10 with appropriate modifications.
+&emsp;The Administrator shall establish qualification requirements and make prescriptions under paragraph (1) that are comparable tothose established for the same or equivalent positions pursuant to chapter 87 of title 10 with appropriate modifications.
 
 #### (3) Approval of requirements
 
@@ -140,7 +140,7 @@ The programs established by this section shall apply to the acquisition workforc
 
 &emsp;The authority under this subsection shall expire on December 31, 2011.
 
-(Pub. L. 93–400, §37, as added Pub. L. 104–106, div. D, title XLIII, §4307(a)(1), Feb. 10, 1996, 110 Stat. 666; amended Pub. L. 108–136, div. A, title XIV, §1412(b), Nov. 24, 2003, 117 Stat. 1664; Pub. L. 109–163, div. A, title VIII, §821(a), (b)(1), Jan. 6, 2006, 119 Stat. 3386; Pub. L. 109–313, §4, Oct. 6, 2006, 120 Stat. 1737; Pub. L. 110–181, div. A, title VIII, §854, Jan. 28, 2008, 122 Stat. 251.)
+(Pub. L. 93–400, §37, as added Pub. L. 104–106, div. D, title XLIII, §4307(a)(1), Feb. 10, 1996, 110 Stat.666; amended Pub. L. 108–136, div. A, title XIV, §1412(b), Nov. 24, 2003, 117 Stat. 1664; Pub. L. 109–163, div. A, title VIII, §821(a), (b)(1), Jan. 6, 2006, 119 Stat. 3386; Pub. L. 109–313, §4, Oct. 6, 2006, 120 Stat. 1737; Pub. L. 110–181, div. A, title VIII, §854, Jan. 28, 2008, 122 Stat. 251.)
 
 #### References in Text
 
@@ -184,7 +184,7 @@ Pub. L. 108–136, div. A, title XIV, §1412(a), Nov. 24, 2003, 117 Stat. 1664, 
 
 #### Inapplicability of Subsection (h)(3) to Department of Defense Acquisition Workforce
 
-Pub. L. 108–136, div. A, title XIV, §1412(c), Nov. 24, 2003, 117 Stat. 1665, which provided that section 1412 of Pub. L. 108–136 was inapplicable to the acquisition workforce of the Department of Defense and that fees covered by subsec. (h)(3) of this section were to be reduced by 5 percent to reflect the Department's nonparticipation in the acquisition workforce training fund,was repealed by Pub. L. 109–163, div. A, title VIII, §821(b)(2), Jan. 6, 2006, 119 Stat. 3386.
+Pub. L. 108–136, div. A, title XIV, §1412(c), Nov. 24, 2003, 117 Stat. 1665, which provided that section 1412 of Pub. L. 108–136 was inapplicable to the acquisition workforce of the Department of Defense and that fees covered by subsec. (h)(3) of this section were to be reduced by 5 percent to reflect the Department's nonparticipation in the acquisition workforce training fund, was repealed by Pub. L. 109–163, div. A, title VIII, §821(b)(2), Jan. 6, 2006, 119 Stat. 3386.
 
 #### Acquisition Workforce Recruitment Program
 

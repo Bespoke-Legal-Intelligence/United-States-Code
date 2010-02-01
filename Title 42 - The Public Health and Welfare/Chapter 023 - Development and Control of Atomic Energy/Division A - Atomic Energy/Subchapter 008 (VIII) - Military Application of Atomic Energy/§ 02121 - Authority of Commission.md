@@ -50,7 +50,7 @@ Authority vested in President by subsec. (c) of this section delegated to Secret
 
 #### Form of Certifications Regarding Safety or Reliability of Nuclear Weapons Stockpile
 
-Pub. L. 106–398, §1 \[div. C, title XXXI, §3194\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481, which was formerly setout as a note under this section, was renumbered section 4206 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(7), Nov. 24, 2003, 117 Stat. 1759, and is classified to section 2526 of Title 50, War and National Defense.
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3194\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481, which was formerly set out as a note under this section, was renumbered section 4206 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(7), Nov. 24, 2003, 117 Stat. 1759, and is classified to section 2526 of Title 50, War and National Defense.
 
 #### Authority To Provide Certificate of Commendation to Department of Energy and Contractor Employees for Exemplary Service in Stockpile Stewardship and Security
 
@@ -58,7 +58,7 @@ Pub. L. 106–398, §1 \[div. C, title XXXI, §3195\], Oct. 30, 2000, 114 Stat. 
 
 #### Nuclear Weapons Stockpile Life Extension Program
 
-Pub. L. 106–65, div. C, title XXXI, §3133, Oct. 5, 1999, 113 Stat. 926, which was formerly set out as a note under this section, was renumbered section 4204 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(5)(A)–(C), Nov. 24, 2003, 117 Stat. 1758, and is classified to section 2524 of Title 50, War and National Defense.
+Pub. L. 106–65, div. C, title XXXI, §3133, Oct. 5, 1999, 113 Stat. 926, which was formerly set out as a note under this section, was renumbered section 4204 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C,title XXXI, §3141(e)(5)(A)–(C), Nov. 24, 2003, 117 Stat. 1758, and is classified to section 2524 of Title 50, War and National Defense.
 
 #### Report on Stockpile Stewardship Criteria
 
@@ -288,7 +288,7 @@ Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, as amended by P
 
 “(2) The first annual report shall cover the period beginning on the date on which a resumption of testing of nuclear weapons is permitted under subsection (c) and ending on September 30, 1994. Each annual report thereafter shall cover the fiscal year following the fiscal year in which the report is submitted.
 
-“(3) For the purposes of paragraph (1), ‘joint resolution’ means only a joint resolution introduced after the date on which the Committees referred to in that paragraph receive the report required by that paragraph the matter after the resolving clause of which is as follows:‘The Congress disapproves the report of the President on nuclear weapons testing, dated          .’ (the blank space being appropriately filled in).
+“(3) For the purposes of paragraph (1), ‘joint resolution’ means only a joint resolution introduced after the date on which the Committees referred to in that paragraph receive the report required by that paragraph the matter after the resolving clause of which is as follows: ‘The Congress disapproves the report of the President on nuclear weapons testing, dated          .’ (the blank space being appropriately filled in).
 
 “(4) No report is required under this subsection after 1996.
 

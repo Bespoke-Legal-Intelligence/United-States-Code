@@ -30,7 +30,7 @@ This section shall cease to be effective on October 1, 2000.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(P), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+2004—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(P), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 Subsec. (b). Pub. L. 108–458, §1071(a)(1)(Q), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 

@@ -2,31 +2,15 @@
 
 #### (a) Allowance of credit
 
-In the case of an individual, there shall be allowed as a credit against the tax imposed bythis chapter for the taxable year an amount equal to the sum of—
+In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 30 percent of the sum of—
 
-&emsp;(1) 10 percent of the amount paid or incurred by the taxpayer for qualified energy efficiency improvements installed during such taxable year, and
+&emsp;(1) the amount paid or incurred by the taxpayer during such taxable year for qualified energy efficiency improvements, and
 
 &emsp;(2) the amount of the residential energy property expenditures paid or incurred by the taxpayer during such taxable year.
 
-#### (b) Limitations
+#### (b) Limitation
 
-#### (1) Lifetime limitation
-
-&emsp;The credit allowed under this section with respect to any taxpayer for any taxable year shall not exceed the excess (if any) of $500 over the aggregate credits allowed under this section with respect to such taxpayer for all prior taxable years.
-
-#### (2) Windows
-
-&emsp;In the case of amounts paid or incurred for components described in subsection (c)(2)(B) by any taxpayer for any taxable year, the credit allowed under this section with respect to such amounts for such year shall not exceed the excess (if any) of $200 over the aggregate credits allowed under this section with respect to such amounts for all prior taxable years.
-
-#### (3) Limitation on residential energy property expenditures
-
-&emsp;The amount of the credit allowed under this section by reason of subsection (a)(2) shall not exceed—
-
-&emsp;&emsp;(A) $50 for any advanced main air circulating fan,
-
-&emsp;&emsp;(B) $150 for any qualified natural gas, propane, or oil furnace or hot water boiler, and
-
-&emsp;&emsp;(C) $300 for any item of energy-efficient building property.
+The aggregate amount of the credits allowed under this section for taxable years beginning in 2009 and 2010 with respect to any taxpayer shall not exceed $1,500.
 
 #### (c) Qualified energy efficiency improvements
 
@@ -46,17 +30,21 @@ For purposes of this section—
 
 &emsp;The term “building envelope component” means—
 
-&emsp;&emsp;(A) any insulation material or system which is specifically and primarily designed to reduce the heat loss or gain of a dwelling unit when installed in or on such dwelling unit,
+&emsp;&emsp;(A) any insulation material or system which is specifically and primarily designed to reduce the heat loss or gain of a dwelling unit when installed in or on such dwelling unit and meets the prescriptive criteria for such material or system established by the 2009 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009,
 
 &emsp;&emsp;(B) exterior windows (including skylights),
 
 &emsp;&emsp;(C) exterior doors, and
 
-&emsp;&emsp;(D) any metal roof or asphalt roof installed on a dwelling unit, but only if such roof has appropriate pigmented coatings or cooling granules which are specifically and primarily designed to reduce the heat gain of such dwelling unit.
+&emsp;&emsp;(D) any metal roof or asphalt roof installed on a dwelling unit, but only if such roof has appropriate pigmented coatings orcooling granules which are specifically and primarily designed to reduce the heat gain of such dwelling unit.
 
 #### (3) Manufactured homes included
 
 &emsp;The term “dwelling unit” includes a manufactured home which conforms to Federal Manufactured Home Construction and Safety Standards (part 3280 of title 24, Code of Federal Regulations).
+
+#### (4) Qualifications for exterior windows, doors, and skylights
+
+&emsp;Such term shall not include any component described in subparagraph (B) or (C) of paragraph (2) unless such component is equal to or below a U factor of 0.30 and SHGC of 0.30.
 
 #### (d) Residential energy property expenditures
 
@@ -80,7 +68,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) energy-efficient building property,
 
-&emsp;&emsp;&emsp;(ii) a qualified natural gas, propane, or oil furnace or hot water boiler, or
+&emsp;&emsp;&emsp;(ii) any qualified natural gas furnace, qualified propane furnace, qualified oil furnace, qualified natural gas hot water boiler, qualified propane hot water boiler, or qualified oil hot water boiler, or
 
 &emsp;&emsp;&emsp;(iii) an advanced main air circulating fan.
 
@@ -96,7 +84,7 @@ For purposes of this section—
 
 &emsp;&emsp;The standards and requirements prescribed by the Secretary under subparagraph (B) with respect to the energy efficiency ratio (EER) for central air conditioners and electric heat pumps—
 
-&emsp;&emsp;&emsp;(i) shall require measurements to be based on published data which is tested bymanufacturers at 95 degrees Fahrenheit, and
+&emsp;&emsp;&emsp;(i) shall require measurements to be based on published data which is tested by manufacturers at 95 degrees Fahrenheit, and
 
 &emsp;&emsp;&emsp;(ii) may be based on the certified data of the Air Conditioning and Refrigeration Institute that are prepared in partnership with the Consortium for Energy Efficiency.
 
@@ -106,17 +94,39 @@ For purposes of this section—
 
 &emsp;&emsp;(A) an electric heat pump water heater which yields an energy factor of at least 2.0 in the standard Department of Energy test procedure,
 
-&emsp;&emsp;(B) an electric heat pump which has a heating seasonal performance factor (HSPF) of at least 9, a seasonal energy efficiency ratio (SEER) of at least 15, and an energy efficiency ratio (EER) of at least 13,
+&emsp;&emsp;(B) an electric heat pump which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009.<sup>1</sup>
 
-&emsp;&emsp;(C) a central air conditioner which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2006,
+&emsp;&emsp;(C) a central air conditioner which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009,
 
-&emsp;&emsp;(D) a natural gas, propane, or oil water heater which has an energy factor of at least 0.80 or a thermal efficiency of at least 90 percent, and
+&emsp;&emsp;(D) a natural gas, propane, or oil water heater which has either an energy factor of at least 0.82 or a thermal efficiency of at least 90 percent.<sup>2</sup>
 
-&emsp;&emsp;(E) a stove which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and which has a thermal efficiency rating of at least 75 percent.
+&emsp;&emsp;(E) a stove which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and which has a thermal efficiency rating of at least 75 percent, as measured using a lower heating value.
 
-#### (4) Qualified natural gas, propane, or oil furnace or hot water boiler
+#### (4) Qualified natural gas, propane, and oil furnaces and hot water boilers
 
-&emsp;The term “qualified natural gas, propane, or oil furnace or hot water boiler” means a natural gas, propane, or oil furnace or hot water boiler which achieves an annual fuel utilization efficiency rate of not less than 95.
+#### (A) Qualified natural gas furnace
+
+&emsp;&emsp;The term “qualified natural gas furnace” means any natural gas furnace which achieves an annual fuel utilization efficiency rate of not less than 95.
+
+#### (B) Qualified natural gas hot water boiler
+
+&emsp;&emsp;The term “qualified natural gas hot water boiler” means any natural gas hot water boiler which achieves an annual fuel utilization efficiency rate of not less than 90.
+
+#### (C) Qualified propane furnace
+
+&emsp;&emsp;The term “qualified propane furnace” means any propane furnace which achieves an annual fuel utilization efficiency rate of not less than 95.
+
+#### (D) Qualified propane hot water boiler
+
+&emsp;&emsp;The term “qualified propane hot water boiler” means any propane hot water boiler which achieves an annual fuel utilization efficiency rate of not less than 90.
+
+#### (E) Qualified oil furnaces
+
+&emsp;&emsp;The term “qualified oil furnace” means any oil furnace which achieves an annual fuel utilization efficiency rate of not less than 90.
+
+#### (F) Qualified oil hot water boiler
+
+&emsp;&emsp;The term “qualified oil hot water boiler” means any oil hot water boiler whichachieves an annual fuel utilization efficiency rate of not less than 90.
 
 #### (5) Advanced main air circulating fan
 
@@ -132,7 +142,7 @@ For purposes of this section—
 
 #### (1) Application of rules
 
-&emsp;Rules similar to the rules under paragraphs (4), (5), (6), (7), (8), and (9) of section 25D(e) shall apply.
+&emsp;Rules similar to the rules under paragraphs (4), (5), (6), (7), and (8) of section 25D(e) shall apply.
 
 #### (2) Joint ownership of energy items
 
@@ -154,15 +164,39 @@ This section shall not apply with respect to any property placed in service—
 
 &emsp;(1) after December 31, 2007, and before January 1, 2009, or
 
-&emsp;(2) after December 31, 2009..<sup>1</sup>
+&emsp;(2) after December 31, 2010..<sup>3</sup>
 
-(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845.)
+(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, 123 Stat. 320, 322–324.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
+The date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (c)(2)(A), is the date of the enactment of div. B of Pub. L. 111–5, which was approved Feb. 17, 2009.
+
 #### Amendments
+
+2009—Subsecs. (a), (b). Pub. L. 111–5, §1121(a), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to credit equal to the sum of 10 percent of the amount paid for qualified energy efficiency improvements and the amount of energy property expenditures and provided limits on credits and expenditures.
+
+Subsec. (c)(2)(A). Pub. L. 111–5, §1121(d)(2), inserted “and meets the prescriptive criteria for such material or system established by the 2009 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009” after “such dwelling unit”.
+
+Subsec. (c)(4). Pub. L. 111–5, §1121(d)(1), added par. (4).
+
+Subsec. (d)(2)(A)(ii). Pub. L. 111–5, §1121(c)(2), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “a qualified natural gas, propane, or oil furnace or hot water boiler, or”.
+
+Subsec. (d)(3)(B). Pub. L. 111–5, §1121(b)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “an electric heat pump which has a heating seasonal performance factor (HSPF) of at least 9, a seasonal energy efficiency ratio (SEER) of at least 15, and an energy efficiency ratio (EER) of at least 13,”.
+
+Subsec. (d)(3)(C). Pub. L. 111–5, §1121(b)(2), substituted “2009” for “2006”.
+
+Subsec. (d)(3)(D). Pub. L. 111–5, §1121(b)(3), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “a natural gas, propane, or oil water heater which has an energy factor of at least 0.80 or a thermal efficiency of at least 90 percent, and”.
+
+Subsec. (d)(3)(E). Pub. L. 111–5, §1121(b)(4), inserted “, as measured using a lower heating value” after “75 percent”.
+
+Subsec. (d)(4). Pub. L. 111–5, §1121(c)(1), amended par. (4) generally. Prior to amendment, text read as follows: “The term ‘qualified natural gas, propane, or oil furnace or hot water boiler’ means a natural gas, propane, or oil furnace or hot water boiler which achieves an annual fuel utilization efficiency rate of not less than 95.”
+
+Subsec. (e)(1). Pub. L. 111–5, §1103(b)(2)(A), substituted “and (8)” for “(8), and (9)”.
+
+Subsec. (g)(2). Pub. L. 111–5, §1121(e), substituted “December 31, 2010” for “December 31, 2009”.
 
 2008—Subsec. (c)(1). Pub. L. 110–343, §302(e)(1), in introductory provisions, inserted “, or an asphalt roof with appropriate cooling granules,” before “which meet the Energy Star program requirements”.
 
@@ -194,6 +228,28 @@ Subsec. (g). Pub. L. 110–343, §302(a), substituted “placed in service—”
 
 2005—Subsec. (b)(2). Pub. L. 109–135 substituted “subsection (c)(2)(B)” for “subsection (c)(3)(B)”.
 
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–5, div. B, title I, §1103(c), Feb. 17, 2009, 123 Stat. 321, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendment made by this section \[amending this section and sections 25D and 48 to 48B of this title\] shall apply to periods after December 31, 2008, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990 \[Nov. 5, 1990\]).
+
+“(2)
+
+Conforming amendments.—The amendments made by subparagraphs (A) and (B) of subsection (b)(2) \[amending this section and section 25D of this title\] shall apply to taxable years beginning after December 31, 2008.”
+
+Pub. L. 111–5, div. B, title I, §1121(f), Feb. 17, 2009, 123 Stat. 324, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008.
+
+“(2)
+
+Efficiency standards.—The amendments made by paragraphs (1), (2), and (3) of subsection (b) and subsections (c) and (d) shall apply to property placed in service after the date of the enactment of this Act \[Feb. 17, 2009\].”
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–343, div. B, title III, §302(f), Oct. 3, 2008, 122 Stat. 3845, provided that:
@@ -210,5 +266,9 @@ Modification of qualified energy efficiency improvements.—The amendments made 
 
 Pub. L. 109–58, title XIII, §1333(c), Aug. 8, 2005, 119 Stat. 1030, provided that: “The amendments made by this section \[enacting this section and amending section 1016 of this title\] shall apply to property placed in service after December 31, 2005.”
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be “, and”.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
 

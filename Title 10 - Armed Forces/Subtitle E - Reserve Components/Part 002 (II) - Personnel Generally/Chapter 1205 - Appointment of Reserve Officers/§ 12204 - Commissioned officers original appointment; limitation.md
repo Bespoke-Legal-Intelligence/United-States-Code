@@ -28,7 +28,7 @@ July 9, 1952, ch. 608 §217(c), 66 Stat. 487.
 
 50:941(c) (1st 21 words).
 
-In subsection (a), the words “unless \* \* \* he was formerly” are substituted for the words “has not held an appointment as”. The words “or any component thereof” are omitted as surplusage.
+In subsection (a), the words “unless he was formerly” are substituted for the words “has not held an appointment as”. The words “or any component thereof” are omitted as surplusage.
 
 #### Amendments
 

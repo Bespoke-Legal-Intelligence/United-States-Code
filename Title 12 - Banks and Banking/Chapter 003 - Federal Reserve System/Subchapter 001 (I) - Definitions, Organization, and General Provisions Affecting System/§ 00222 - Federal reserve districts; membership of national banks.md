@@ -32,6 +32,8 @@ The thirteenth par. of section 2 is classified in part to section 224 of this ti
 
 The fifth and eighth pars. of section 2 were not included in the Code.
 
+Former section 141 of this title purportedly derived from part of section 2 of act Dec. 23, 1913. But see Codification note set out under former section 141 of this title.
+
 #### Amendments
 
 1959—Pub. L. 86–3 required readjustment of districts when the State of Hawaii is admitted to the Union.

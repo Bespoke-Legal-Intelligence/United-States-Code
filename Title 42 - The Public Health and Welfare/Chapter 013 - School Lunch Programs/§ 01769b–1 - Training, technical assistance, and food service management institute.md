@@ -4,7 +4,7 @@
 
 The Secretary—
 
-&emsp;(1) subject to the availability of, and from, amounts appropriated pursuant to subsection (e)(1) of this section, shall conduct training activities and provide—
+&emsp;(1) subject to the availability of, and from, amounts appropriated pursuant to subsection\(e)(1) of this section, shall conduct training activities and provide—
 
 &emsp;&emsp;(A) training and technical assistance to improve the skills of individuals employed in—
 
@@ -118,7 +118,7 @@ The activities conducted and assistance provided as required by subsection (a)(1
 
 #### (B) Additional funding
 
-&emsp;&emsp;In addition to amounts made available under subparagraph (A), there are authorized to be appropriated to carry out subsection\(a)(2) of this section such sums as are necessary for fiscal year 1995 and each subsequent fiscal year. The Secretary shall carry out activities under subsection (a)(2) of this section, in addition to the activities funded under subparagraph (A), to the extent provided for, and in such amounts as are provided for, in advance in appropriations Acts.
+&emsp;&emsp;In addition to amounts made available under subparagraph (A), there are authorized to be appropriated to carry out subsection (a)(2) of this section such sums as are necessary for fiscal year 1995 and each subsequent fiscal year. The Secretary shall carry out activities under subsection (a)(2) of this section, in addition to the activities funded under subparagraph (A), to the extent provided for, and in such amounts as are provided for, in advance in appropriations Acts.
 
 #### (C) Funding for education, training, or applied research or studies
 
@@ -138,7 +138,7 @@ In collaboration with State educational agencies, local educational agencies, an
 
 &emsp;&emsp;&emsp;(i) on October 1, 2004, and October 1, 2005, $3,000,000; and
 
-&emsp;&emsp;&emsp;(ii) on October 1, 2006, October 1, 2007, and October 1, 2008, $2,000,000.
+&emsp;&emsp;&emsp;(ii) on October 1, 2006, October 1, 2007, October 1, 2008, and October 1, 2009, $2,000,000.
 
 #### (B) Receipt and acceptance
 
@@ -156,9 +156,11 @@ In collaboration with State educational agencies, local educational agencies, an
 
 &emsp;&emsp;(B) to assist State educational agencies in reviewing the administrative practices of local educational agencies, to the extent determined by the Secretary.
 
-(June 4, 1946, ch. 281, §21, as added Pub. L. 101–147, title I, §109, Nov. 10, 1989, 103 Stat. 887; amended Pub. L. 102–337, §1, Aug. 7, 1992, 106 Stat. 865; Pub. L. 103–448, title I, §120, Nov. 2, 1994, 108 Stat. 4726; Pub. L. 105–336, title I, §§103(c)(2), 110, Oct. 31, 1998, 112 Stat. 3147, 3157; Pub. L. 108–265, title I, §§125, 126(a), title II, §205(b), June 30, 2004, 118 Stat. 761, 763, 787; Pub. L. 108–447, div. A, title VII, §788(c), Dec. 8, 2004, 118 Stat. 2851.)
+(June 4, 1946, ch. 281, §21, as added Pub. L. 101–147, title I, §109, Nov. 10, 1989, 103 Stat. 887; amended Pub. L. 102–337, §1, Aug. 7, 1992, 106 Stat. 865; Pub. L. 103–448, title I, §120, Nov. 2, 1994, 108 Stat. 4726; Pub. L. 105–336, title I, §§103(c)(2), 110, Oct. 31, 1998, 112 Stat. 3147, 3157; Pub. L. 108–265, title I, §§125, 126(a), title II, §205(b), June 30, 2004, 118 Stat. 761, 763, 787; Pub. L. 108–447, div. A, title VII, §788(c), Dec. 8, 2004, 118 Stat. 2851; Pub. L. 111–80, title VII, §749(e), Oct. 21, 2009, 123 Stat. 2132.)
 
 #### Amendments
+
+2009—Subsec. (g)(1)(A)(ii). Pub. L. 111–80 substituted “October 1, 2008, and October 1, 2009” for “and October 1, 2008”.
 
 2004—Subsec. (a)(1). Pub. L. 108–265, §125(a), substituted provisions relating to training and technical assistance under this chapter, section 1773 of this title, and other federally assisted programs, including assistance on a competitive basis to State agencies for the purpose of aiding schools with at least 50 percent of enrolled children certified to receive free or reduced price meals, and to State agencies with low proportions of students that participate in the school breakfast program and demonstrate the greatest need, for provisions relating to training activities and technical assistance under this chapter, section 1773 of this title, and other federally assisted programs.
 
@@ -196,7 +198,7 @@ Subsec. (e). Pub. L. 103–448, §120(c)(2), added subsec. (e) and struck out fo
 
 &emsp;“(2) $1,000,000 for the fiscal year 1990 and $4,000,000 for each of the fiscal years 1991, 1992, 1993, and 1994 for purposes of carrying out subsection (a)(2) of this section.”
 
-1992—Subsec. (a)(2). Pub. L. 102–337 inserted “to provide financial and other assistance to the University ofMississippi, in cooperation with the University of Southern Mississippi,” after “is authorized”.
+1992—Subsec. (a)(2). Pub. L. 102–337 inserted “to provide financial and other assistance to the University of Mississippi, in cooperation with the University of Southern Mississippi,” after “is authorized”.
 
 #### Effective Date of 1998 Amendment
 

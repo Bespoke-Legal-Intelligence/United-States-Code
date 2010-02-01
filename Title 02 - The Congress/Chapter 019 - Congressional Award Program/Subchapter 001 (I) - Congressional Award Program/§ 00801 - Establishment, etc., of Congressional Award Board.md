@@ -12,7 +12,7 @@ Pub. L. 106–533, §1(b)(3)(B), made technical amendment to reference in origin
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–457, §1, Oct. 23, 1992, 106 Stat. 2265, provided that: “This Act \[amending sections 804 and 808 ofthis title\] may be cited as the ‘Congressional Award Act Amendments of 1992’.”
+Pub. L. 102–457, §1, Oct. 23, 1992, 106 Stat. 2265, provided that: “This Act \[amending sections 804 and 808 of this title\] may be cited as the ‘Congressional Award Act Amendments of 1992’.”
 
 #### Short Title of 1990 Amendment
 
@@ -20,7 +20,7 @@ Pub. L. 101–525, §1, Nov. 6, 1990, 104 Stat. 2305, provided that: “This Act
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–674, §1, Nov. 17, 1988, 102 Stat. 3996, provided that: “This Act \[amending sections 802, 803, and 806 to 808 of this title and enacting provisions set out as a note under section 803 of this title\] may be cited as the ‘Congressional Award Act Amendments of 1988’.”
+Pub. L. 100–674, §1, Nov. 17, 1988, 102 Stat. 3996, provided that: “This Act \[amending sections 802, 803, and 806 to 808 of this title and enacting provisions set outas a note under section 803 of this title\] may be cited as the ‘Congressional Award Act Amendments of 1988’.”
 
 #### Short Title of 1985 Amendment
 

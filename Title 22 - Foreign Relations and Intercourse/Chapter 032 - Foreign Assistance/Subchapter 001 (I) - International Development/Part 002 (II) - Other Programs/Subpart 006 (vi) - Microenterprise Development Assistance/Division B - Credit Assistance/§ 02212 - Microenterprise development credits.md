@@ -4,7 +4,7 @@
 
 Congress finds and declares that—
 
-&emsp;(1) the development of micro- and small enterprises is a vital factor in the stable growth of developing countries and in the development and stability of a free, open, and equitable international economic system; and
+&emsp;(1) the development of micro- and small enterprises is a vital factor in the stable growthof developing countries and in the development and stability of a free, open, and equitable international economic system; and
 
 &emsp;(2) it is, therefore, in the best interests of the United States to assist the access to financial services and the development of microenterprises in developing countries and to engage the United States private sector in that process.
 
@@ -44,7 +44,7 @@ Assistance may be provided under this section without regard to section 2354(a) 
 
 #### (1) In general
 
-&emsp;Of the amounts authorized to be available to carry out subchapter I of this chapter, thereare authorized to be available such sums as may be necessary for each of the fiscal years 2005 through 2009 to carry out this section.
+&emsp;Of the amounts authorized to be available to carry out subchapter I of this chapter, there are authorized to be available such sums as may be necessary for each of the fiscal years 2005 through 2009 to carry out this section.
 
 #### (2) Coverage of subsidy costs
 
@@ -124,7 +124,7 @@ Pub. L. 106–309, title I, §102, Oct. 17, 2000, 114 Stat. 1079, provided that:
 
 &emsp;“(4)(A) The poor in the developing world, particularly women, generally lack stable employment and social safety nets.
 
-&emsp;“(B) Many turn to self-employment to generate a substantial portion of their livelihood. In Africa, over80 percent of employment is generated in the informal sector of the self-employed poor.
+&emsp;“(B) Many turn to self-employment to generate a substantial portion of their livelihood. In Africa, over 80 percent of employment is generated in the informal sector of the self-employed poor.
 
 &emsp;“(C) These poor entrepreneurs are often trapped in poverty because they cannot obtain credit at reasonable rates to build their asset base or expand their otherwise viable self-employment activities.
 
@@ -160,7 +160,7 @@ Pub. L. 106–309, title I, §102, Oct. 17, 2000, 114 Stat. 1079, provided that:
 
 &emsp;“(C) In order to achieve the goal of the microcredit summit, increased investment in microfinance institutions serving the poorest will be critical.
 
-&emsp;“(12) Providing the United States share of the global investment needed to achieve the goal of the microcredit summit will require only a small increase in United States funding for international microcredit programs, with an increased focus on institutions serving the poorest.
+&emsp;“(12) Providing the United States share of the global investment needed to achieve the goal of themicrocredit summit will require only a small increase in United States funding for international microcredit programs, with an increased focus on institutions serving the poorest.
 
 &emsp;“(13)(A) In order to reach tens of millions of the poorest with microcredit, it is crucial to expand and replicate successful microfinance institutions.
 

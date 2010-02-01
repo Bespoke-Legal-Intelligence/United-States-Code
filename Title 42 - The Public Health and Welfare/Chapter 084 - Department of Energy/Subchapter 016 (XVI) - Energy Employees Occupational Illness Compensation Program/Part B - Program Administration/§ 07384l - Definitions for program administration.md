@@ -82,7 +82,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(I) A Department of Energy employee who contracted that cancer after beginning employment at a Department of Energy facility.
 
-&emsp;&emsp;&emsp;(II) A Department of Energy contractor employee who contracted that cancer after beginning employment at a Department of Energy facility.
+&emsp;&emsp;&emsp;(II) A Department of Energy contractor employee who contracted that cancer afterbeginning employment at a Department of Energy facility.
 
 &emsp;&emsp;&emsp;(III) An atomic weapons employee who contracted that cancer after beginning employment at an atomic weapons employer facility.
 
@@ -134,7 +134,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;&emsp;(V) Immunologic tests showing beryllium sensitivity (skin patch test or beryllium blood test preferred).
 
-&emsp;(14) The term “member of the Special Exposure Cohort” means a Department of Energy employee, Department of Energy contractoremployee, or atomic weapons employee who meets any of the following requirements:
+&emsp;(14) The term “member of the Special Exposure Cohort” means a Department of Energy employee, Department of Energy contractor employee, or atomic weapons employee who meets any of the following requirements:
 
 &emsp;&emsp;(A) The employee was so employed for a number of work days aggregating at least 250 work days before February 1, 1992, at a gaseous diffusion plant located in Paducah, Kentucky, Portsmouth, Ohio, or Oak Ridge, Tennessee, and, during such employment—
 

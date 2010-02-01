@@ -46,7 +46,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1101\], Nov. 29, 1
 
 #### Short Title of 1994 Amendment
 
-Section 701(a) of Pub. L. 103–236 provided that: “This part \[part A (§§701–719) of title VII of Pub. L. 103–236, enacting sections 2578 and 2593a to 2593d of this title, amending this section, sections 2562, 2565 to 2568, 2571, 2573 to 2577, 2579, 2581, 2585, 2591, 2593, 2791, 2797, and 2797b of this title, section 5315 of Title 5, Government Organization and Employees, and section 2139a of Title 42, The Public Health and Welfare, repealing sections 2578, 2589, 2590, and 2592 of this title, enacting provisions set out as notes under this section, and repealingprovisions set out as notes under this section\] may be cited as the ‘Arms Control and Nonproliferation Act of 1994’.”
+Section 701(a) of Pub. L. 103–236 provided that: “This part \[part A (§§701–719) of title VII of Pub. L. 103–236, enacting sections 2578 and 2593a to 2593d of this title, amending this section, sections 2562, 2565 to 2568, 2571, 2573 to 2577, 2579, 2581, 2585, 2591, 2593, 2791, 2797, and 2797b of this title, section 5315 of Title 5, Government Organization and Employees, and section 2139a of Title 42, The Public Health and Welfare, repealing sections 2578, 2589, 2590, and 2592 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as notes under this section\] may be cited as the ‘Arms Control and Nonproliferation Act of 1994’.”
 
 #### Short Title of 1989 Amendment
 
@@ -80,7 +80,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, subtitle F\], Nov. 
 
 “(a)
 
-Negotiations.—The President shall attempt to achieve the foreign policy goal of an international arms sales code of conduct. The President shall take the necessary steps to begin negotiations within appropriate international fora not later than 120 days after the date of the enactment of this Act \[Nov. 29, 1999\]. The purpose of these negotiations shall be to establish an international regime to promote global transparency with respect to arms transfers, including participation by countries in the United Nations Register of Conventional Arms, and to limit, restrict, or prohibit arms transfers to countries that do not observe certain fundamental values of human liberty, peace, and international stability.
+Negotiations.—The President shall attempt to achieve the foreign policy goal of an internationalarms sales code of conduct. The President shall take the necessary steps to begin negotiations within appropriate international fora not later than 120 days after the date of the enactment of this Act \[Nov. 29, 1999\]. The purpose of these negotiations shall be to establish an international regime to promote global transparency with respect to arms transfers, including participation by countries in the United Nations Register of Conventional Arms, and to limit, restrict, or prohibit arms transfers to countries that do not observe certain fundamental values of human liberty, peace, and international stability.
 
 “(b)
 
@@ -250,7 +250,7 @@ Natural Resources, Etc.—The President shall encourage the satisfaction of such
 
 #### Report on Fulfillment of Primary Functions
 
-Pub. L. 102–228, title IV, §401(c), Dec. 12, 1991, 105 Stat. 1699, directed Inspector General of Arms Control and Disarmament Agency to submit, not later than Dec. 15, 1992, to President, Speaker of House of Representatives,and chairman of Committee on Foreign Relations of Senate a report on Agency's fulfillment of primary functions described in section 2551 of this title and directed President to submit comments on any recommendations contained in the report dealing with executive branch organization and direction, prior to repeal by Pub. L. 103–236, title I, §139(18), Apr. 30, 1994, 108 Stat. 398.
+Pub. L. 102–228, title IV, §401(c), Dec. 12, 1991, 105 Stat. 1699, directed Inspector General of Arms Control and Disarmament Agency to submit, not later than Dec. 15, 1992, to President, Speaker of House of Representatives, and chairman of Committee on Foreign Relations of Senate a report on Agency's fulfillment of primary functions described in section 2551 of this title and directed President to submit comments on any recommendations contained in the report dealing with executive branch organization and direction, prior to repeal by Pub. L. 103–236, title I, §139(18), Apr. 30, 1994, 108 Stat. 398.
 
 #### Conventional Arms Trade
 

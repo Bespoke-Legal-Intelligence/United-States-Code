@@ -30,7 +30,7 @@ Nothing in this section or section 266 of this title, or the regulations promulg
 
 #### Amendments
 
-2002—Pub. L. 107–188, §142(a)(1), (2), (b)(1), and (c), which directed certain amendments to section 361 ofthe Public Health Act, was executed by making the amendments to this section, which is section 361 of the Public Health Service Act, to reflect the probable intent of Congress. See below.
+2002—Pub. L. 107–188, §142(a)(1), (2), (b)(1), and (c), which directed certain amendments to section 361 of the Public Health Act, was executed by making the amendments to this section, which is section 361 of the Public Health Service Act, to reflect the probable intent of Congress. See below.
 
 Subsec. (b). Pub. L. 107–188, §142(a)(1), substituted “Executive orders of the President upon the recommendation of the Secretary, in consultation with the Surgeon General,” for “Executive orders of the President upon the recommendation of the National Advisory Health Council and the Surgeon General”.
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) to provide financial assistance to State foresters; and
 
-&emsp;&emsp;(B) to encourage the long-term sustainability of nonindustrial private forest lands in the United States by assisting the owners of nonindustrial private forest lands, through State foresters, in more actively managing the nonindustrial private forest lands and related resources of those owners through the use of State, Federal, and private sector resource management expertise, financial assistance, and educational programs.
+&emsp;&emsp;(B) to encourage the long-term sustainability of nonindustrial private forest landsin the United States by assisting the owners of nonindustrial private forest lands, through State foresters, in more actively managing the nonindustrial private forest lands and related resources of those owners through the use of State, Federal, and private sector resource management expertise, financial assistance, and educational programs.
 
 #### (2) Coordination and consultation
 
@@ -84,7 +84,7 @@ In implementing the program, the Secretary shall target resources to achieve the
 
 #### (2) Lands covered
 
-&emsp;At a minimum, the management plan shall apply to those portions of the nonindustrial private forest lands of the owner on which any project or activity funded under the program will be carried out. In a case in which a project or activity may affect acreage outside the portion of the land on which the project or activity is carried out, the management plan shall apply to all lands of the owner that are in forest cover and may be affected by the project or activity.
+&emsp;At a minimum, the management plan shall apply to those portions of the nonindustrialprivate forest lands of the owner on which any project or activity funded under the program will be carried out. In a case in which a project or activity may affect acreage outside the portion of the land on which the project or activity is carried out, the management plan shall apply to all lands of the owner that are in forest cover and may be affected by the project or activity.
 
 #### (f) Approved activities
 
@@ -134,7 +134,7 @@ In implementing the program, the Secretary shall target resources to achieve the
 
 #### (3) Maximum cost share
 
-&emsp;The Secretary shall not make cost-share payments under this subsection to an owner inan amount in excess of 75 percent, or a lower percentage as determined by the State forester, of the total cost to the owner to implement the approved activities and practices under the management plan.
+&emsp;The Secretary shall not make cost-share payments under this subsection to an owner in an amount in excess of 75 percent, or a lower percentage as determined by the State forester, of the total cost to the owner to implement the approved activities and practices under the management plan.
 
 #### (4) Aggregate payment limit
 

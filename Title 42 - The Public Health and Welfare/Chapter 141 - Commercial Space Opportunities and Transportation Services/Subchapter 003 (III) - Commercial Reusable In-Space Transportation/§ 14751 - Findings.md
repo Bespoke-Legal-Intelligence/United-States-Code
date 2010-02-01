@@ -18,7 +18,7 @@ Congress makes the following findings:
 
 &emsp;(8) Commercial reusable in-space transportation systems developed by the private sector can provide in-space transportation services to the National Aeronautics and Space Administration, the Department of Defense, the National Reconnaissance Office, and other agencies without the need for the United States to bear the cost of production of such systems.
 
-&emsp;(9) The availability of loan guarantees, with the cost of credit risk to the United States paid by the private-sector, is an effective means by which the United States can help qualifying private-sector companies secure otherwise unattainable private financing for the production of commercial reusable in-space transportation systems, while at the same time minimizing Government commitment and involvement in the development of such systems.
+&emsp;(9) The availability of loan guarantees, with the cost of credit risk to the United Statespaid by the private-sector, is an effective means by which the United States can help qualifying private-sector companies secure otherwise unattainable private financing for the production of commercial reusable in-space transportation systems, while at the same time minimizing Government commitment and involvement in the development of such systems.
 
 (Pub. L. 107–248, title IX, §902, Oct. 23, 2002, 116 Stat. 1573.)
 

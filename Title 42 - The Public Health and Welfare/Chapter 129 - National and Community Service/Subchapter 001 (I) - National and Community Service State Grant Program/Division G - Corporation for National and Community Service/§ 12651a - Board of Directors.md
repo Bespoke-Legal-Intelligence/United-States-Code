@@ -50,23 +50,27 @@
 
 #### (c) Terms
 
-Each appointed member of the Board shall serve for a term of 5 years, except that, as designated by the President—
-
-&emsp;(1) 3 of the members first appointed to the Board shall serve for a term of 1 year;
-
-&emsp;(2) 3 of the members first appointed to the Board shall serve for a term of 2 years;
-
-&emsp;(3) 3 of the members first appointed to the Board shall serve for a term of 3 years;
-
-&emsp;(4) 3 of the members first appointed to the Board shall serve for a term of 4 years; and
-
-&emsp;(5) 3 of the members first appointed to the Board shall serve for a term of 5 years.
+Subject to subsection (e), each appointed member shall serve for a term of 5 years.
 
 #### (d) Vacancies
 
 If a vacancy occurs on the Board, a new member shall be appointed by the President, by and with the advice and consent of the Senate, and serve for the remainder of the term for which the predecessor of such member was appointed. The vacancy shall not affect the power of the remaining members to execute the duties of the Board.
 
-(Pub. L. 101–610, title I, §192, as added Pub. L. 103–82, title II, §202(a), Sept. 21, 1993, 107 Stat. 873.)
+#### (e) Service until appointment of successor
+
+A voting member of the Board whose term has expired may continue to serve on the Board until the date on which the member's successor takes office, which period shall not exceed 1 year.
+
+(Pub. L. 101–610, title I, §192, as added Pub. L. 103–82, title II, §202(a), Sept. 21, 1993, 107 Stat. 873; amended Pub. L. 111–13, title I, §1701, Apr. 21, 2009, 123 Stat. 1544.)
+
+#### Amendments
+
+2009—Subsec. (c). Pub. L. 111–13, §1701(1), added subsec. (c) and struck out former subsec. (c), which provided term lengths for members first appointed to the Board.
+
+Subsec. (e). Pub. L. 111–13, §1701(2), added subsec. (e).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 
 #### Effective Date
 

@@ -44,7 +44,7 @@ To conduct, assist, foster, and direct studies and informational programs design
 
 #### (f) Increasing consumer education
 
-To conduct and cooperate in consumer education for the more effective utilization and greater consumption of agricultural products: <i>Provided</i>, That no money appropriated under the authority of this chapter shall be used to pay for newspaper or periodical advertising space or radio time in carrying out the purposes of this section and subsection (e) of this section.
+To conduct and cooperate in consumer education for the more effective utilization and greater consumption of agricultural products: <i>Provided</i>, That no money appropriated under the authority of this Act shall be used to pay for newspaper or periodical advertising space or radio time in carrying out the purposes of this section and subsection (e) of this section.
 
 #### (g) Collection and dissemination of marketing information
 
@@ -52,7 +52,29 @@ To collect and disseminate marketing information, including adequate outlook inf
 
 #### (h) Inspection and certification of products in interstate commerce; credit and future availability of funds; investment; certificates as evidence; penalties
 
-To inspect, certify, and identify the class, quality, quantity, and condition of agricultural products when shipped or received in interstate commerce, under such rules and regulations as the Secretary of Agriculture may prescribe, including assessment and collection of such fees as will be reasonable and as nearly as may be to cover the cost of the service rendered, to the end that agricultural products may be marketed to the best advantage, that trading may be facilitated, and that consumers may be able to obtain the quality product which they desire, except that no person shall be required to use the service authorized by this subsection. Any fees collected under this subsection, late payment penalties, the proceeds from the sales of samples, and interest earned from the investment of such funds shall be credited to the trust fund account that incurs the cost of the services provided under this subsection and shall remain available without fiscal year limitation to pay the expenses of the Secretary incident to providing such services. Such funds may be invested by the Secretary in insured or fully collateralized, interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments. Any official certificate issued under the authority of this subsection shall be received by all officers and all courts of the United States as prima facie evidence of the truth of the statements therein contained. Whoever knowingly shall falsely make, issue, alter, forge, or counterfeit any official certificate, memorandum, mark, or other identification, or device for making such mark or identification, with respect to inspection, class, grade, quality, size, quantity, or condition, issued or authorized under this section or knowingly cause or procure, or aid, assist in, or be a party to, such false making, issuing, altering, forging, or counterfeiting, or whoever knowingly shall possess, without promptly notifying the Secretary of Agriculture or his representative, utter, publish, or use as true, or cause to be uttered, published, or used as true, any such falsely made, altered, forged, or counterfeited official certificate, memorandum, mark, identification, or device, or whoever knowingly represents that an agricultural product has been officially inspected or graded (by an authorized inspector or grader) under the authority of this section when such commodity has in fact not been so graded or inspected shall be fined not more than $1,000 or imprisoned not more than one year, or both. Shell eggs packed under the voluntary grading program of the Department of Agriculture shall not have been shipped for sale previous to being packed under the program, as determined under a regulation promulgated by the Secretary.
+(1) To inspect, certify, and identify the class, quality, quantity, and condition of agricultural products when shipped or received in interstate commerce, under such rules and regulations as the Secretary of Agriculture may prescribe, including assessment and collection of such fees as will be reasonable and as nearly as may be to cover the cost of the service rendered, to the end that agricultural products may be marketed to the best advantage, that trading may be facilitated, and that consumers may be able to obtain the quality product which they desire, except that no person shall be required to use the service authorized by this subsection.
+
+(2)(A) Any fees collected under this subsection, late payment penalties, the proceeds from the sales of samples, and interest earned from the investment of such funds shall be credited to the trust fund account that incurs the cost of the services provided under this subsection and shall remain available without fiscal year limitation to pay the expenses of the Secretary incident to providing such services.
+
+(B) Such funds may be invested by the Secretary in insured or fully collateralized, interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments.
+
+(3) Any official certificate issued under the authority of this subsection shall be received by all officers and all courts of the United States as prima facie evidence of the truth of the statements therein contained.
+
+(4) Whoever knowingly shall falsely make, issue, alter, forge, or counterfeit any official certificate, memorandum, mark, or other identification, or device for making such mark or identification, with respect to inspection, class, grade, quality, size, quantity, or condition, issued or authorized under this section or knowingly cause or procure, or aid, assist in, or be a party to, such false making, issuing, altering, forging, or counterfeiting, or whoever knowingly shall possess, without promptly notifying the Secretary of Agriculture or his representative, utter, publish, or use as true, or cause to be uttered, published, or used as true, any such falsely made, altered, forged, or counterfeited official certificate, memorandum, mark, identification, or device, or whoever knowingly represents that an agricultural product has been officially inspected or graded (by an authorized inspector or grader) under the authority of this section when such commodity has in fact not been so graded or inspected shall be fined not more than $1,000 or imprisoned not more than one year, or both.
+
+(5) Shell eggs packed under the voluntary grading program of the Department of Agriculture shall not have been shipped for sale previous to being packed under the program, as determined under a regulation promulgated by the Secretary.
+
+(6)
+
+Identification of honey.—
+
+&emsp;(A)
+
+In general.—The use of a label or advertising material on, or in conjunction with, packaged honey that bears any official certificate of quality, grade mark or statement, continuous inspection mark or statement, sampling mark or statement, or any combination of the certificates, marks, or statements of the Department of Agriculture is hereby prohibited under this Act unless there appears legibly and permanently in close proximity (such as on the same side(s) or surface(s)) to the certificate, mark, or statement, and in at least a comparable size, the 1 or more names of the 1 or more countries of origin of the lot or container of honey, preceded by the words “Product of” or other words of similar meaning.
+
+&emsp;(B)
+
+Violation.—A violation of the requirements of subparagraph (A) may be deemed by the Secretary to be sufficient cause for debarment from the benefits of this Act only with respect to honey.
 
 #### (i) Development of facilities for assembling, processing, transporting, etc.
 
@@ -72,7 +94,7 @@ To develop and promulgate, for the use and at the request of any Federal agency 
 
 #### (m) Promotion of research for handling, storing, preserving, etc.
 
-To conduct, assist, encourage, and promote research, investigation, and experimentation todetermine the most efficient and practical means, methods, and processes for the handling, storing, preserving, protecting, processing, and distributing of agricultural commodities to the end that such commodities may be marketed in an orderly manner and to the best interest of the producers thereof.
+To conduct, assist, encourage, and promote research, investigation, and experimentation to determine the most efficient and practical means, methods, and processes for the handling, storing, preserving, protecting, processing, and distributing of agricultural commodities to the end that such commodities may be marketed in an orderly manner and to the best interest of the producers thereof.
 
 #### (n) Grading program
 
@@ -92,15 +114,9 @@ To conduct such other research and services and to perform such other activities
 
 (Aug. 14, 1946, ch. 966, title II, §203, 60 Stat. 1087; Aug. 9, 1955, ch. 632, §1, 69 Stat. 553; Pub. L. 95–113, title II, §206, Sept. 29, 1977, 91 Stat. 920; Pub. L. 97–31, §12(2), Aug. 6, 1981, 95 Stat. 153; Pub. L. 98–403, §2, Aug. 28, 1984, 98 Stat. 1480; Pub. L. 98–443, §9(j), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 105–277, div. A, §101(a) \[title VII, §755(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–34; Pub. L. 106–472, title III, §303, Nov. 9, 2000, 114 Stat. 2069; Pub. L. 110–234, title X, §10402(a), title XI, §11016(a), May 22, 2008, 122 Stat. 1349, 1368; Pub. L. 110–246, §4(a), title X, §10402(a), title XI, §11016(a), June 18, 2008, 122 Stat. 1664, 2110, 2130.)
 
-#### Amendment of Subsection (h)
+#### References in Text
 
-<i>Pub. L. 110–246, title X, §10402, June 18, 2008, 122 Stat. 2110, 2111, provided that, effective on the date that is 1 year after June 18, 2008, subsection (h) of this section is amended by designating the first through sixth sentences as paragraphs (1), (2)(A), (2)(B), (3), (4), and (5), respectively, and by adding paragraph (6) at end to read as follows:</i>
-
-<i>(6) IDENTIFICATION OF HONEY.—</i>
-
-&emsp;<i>(A) IN GENERAL</i>.—The use of a label or advertising material on, or in conjunction with, packaged honey that bears any official certificate of quality, grade mark or statement, continuous inspection mark or statement, sampling mark or statement, or any combination of the certificates, marks, or statements of the Department of Agriculture is hereby prohibited under this chapter unless there appears legibly and permanently in close proximity (such as on the same side(s) or surface(s)) to the certificate, mark, or statement, and in at least a comparable size, the 1 or more names of the 1 or more countries of origin of the lot or container of honey, preceded by the words “Product of” or other words of similar meaning.
-
-&emsp;<i>(B) VIOLATION</i>.—A violation of the requirements of subparagraph (A) may be deemed by the Secretary to be sufficient cause for debarment from the benefits of this chapter only with respect to honey.
+This Act, referred to in subsecs. (f) and (h)(6), is act Aug. 14, 1946, ch. 966, 60 Stat. 1082, which enacted this chapter and sections 427h to 427j of this title and amended section 427 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -108,7 +124,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsecs. (n), (<i>o</i>). Pub. L. 110–246, §11016(a), added subsec. (n) and redesignated former subsec. (n) as (<i>o</i>).
+2008—Subsec. (h). Pub. L. 110–246, §10402(a), designated the first to sixth sentences of existing provisions as pars. (1), (2)(A), (2)(B), and (3) to (5), respectively, and added par. (6).
+
+Subsecs. (n), (<i>o</i>). Pub. L. 110–246, §11016(a), added subsec. (n) and redesignated former subsec. (n) as (<i>o</i>).
 
 2000—Subsec. (e). Pub. L. 106–472 inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
@@ -142,7 +160,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer toSurface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwiseprovided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 Section 304 of 1961 Reorg. Plan No. 7, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, set out in the Appendix to Title 5, Government Organization and Employees, abolished Federal Maritime Board, including offices of members of Board. Functions of Board transferred either to Federal Maritime Commission or to Secretary of Commerce by sections 103 and 202 of 1961 Reorg. Plan No. 7.
 

@@ -52,7 +52,7 @@
 
 &emsp;&emsp;A bond shall not be treated as federally guaranteed by reason of—
 
-&emsp;&emsp;&emsp;(i) any guarantee by the Federal Housing Administration, the Veterans’ Administration, the Federal National Mortgage Association, the Federal Home Loan MortgageCorporation, or the Government National Mortgage Association,
+&emsp;&emsp;&emsp;(i) any guarantee by the Federal Housing Administration, the Veterans’ Administration, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, or the Government National Mortgage Association,
 
 &emsp;&emsp;&emsp;(ii) any guarantee of student loans and any guarantee by the Student Loan Marketing Association to finance student loans,
 
@@ -132,7 +132,7 @@
 
 &emsp;&emsp;&emsp;(i) such bond is issued pursuant to the Northwest Power Act (16 U.S.C. 839d), as in effect on July 18, 1984;
 
-&emsp;&emsp;&emsp;(ii) such bond is issued pursuant to section 608(a)(6)(A) of Public Law 97–468, as ineffect on the date of the enactment of the Tax Reform Act of 1986; or
+&emsp;&emsp;&emsp;(ii) such bond is issued pursuant to section 608(a)(6)(A) of Public Law 97–468, as in effect on the date of the enactment of the Tax Reform Act of 1986; or
 
 &emsp;&emsp;&emsp;(iii) such bond is issued before June 19, 1984 under section 11(b) of the United States Housing Act of 1937.
 
@@ -216,7 +216,7 @@
 
 &emsp;&emsp;(A) the name and address of the issuer,
 
-&emsp;&emsp;(B) the date of issue, the amount of net proceeds of the issue, the stated interestrate, term, and face amount of each bond which is part of the issue, the amount of issuance costs of the issue, and the amount of reserves of the issue,
+&emsp;&emsp;(B) the date of issue, the amount of net proceeds of the issue, the stated interest rate, term, and face amount of each bond which is part of the issue, the amount of issuance costs of the issue, and the amount of reserves of the issue,
 
 &emsp;&emsp;(C) where required, the name of the applicable elected representative who approved the issue, or a description of the voter referendum by which the issue was approved,
 
@@ -404,7 +404,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the issuer reasonably expected that 85 percent of the spendable proceeds of the issue of which the original bond is a part would be used to carry out the governmental purposes of the issue within the 5-year period beginning on the date the original bonds were issued but did not reasonably expect that 85 percent of such proceeds would be so spent within the 3-year period beginning on such date, and
 
-&emsp;&emsp;&emsp;&emsp;(III) at least 85 percent of the spendable proceeds of the original issue (and all other prior original issues issued to finance the governmental purposes of such issue) were spent before the date the refunding bonds are issued.
+&emsp;&emsp;&emsp;&emsp;(III) at least 85 percent of the spendable proceeds of the original issue (andall other prior original issues issued to finance the governmental purposes of such issue) were spent before the date the refunding bonds are issued.
 
 #### (4) Special rules
 
@@ -500,7 +500,7 @@ Bonds sold before september 15, 1989.—The amendment made by subsection (a) sha
 
 “(3)
 
-Bonds with respect to which preliminary offering materials mailed.—The amendment made by subsection (a) shall not apply to any issue issued after the date of the enactment of this Act \[Dec. 19, 1989\] if the preliminary offering materials with respect to such issue were mailed (or otherwise delivered) to members of the underwriting syndicate before September 15, 1989.
+Bonds with respect to which preliminary offering materials mailed.—The amendment made by subsection (a) shall not apply to any issue issued after the date of the enactment of this Act \[Dec. 19, 1989\] ifthe preliminary offering materials with respect to such issue were mailed (or otherwise delivered) to members of the underwriting syndicate before September 15, 1989.
 
 “(4)
 

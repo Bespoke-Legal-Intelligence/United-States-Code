@@ -6,7 +6,7 @@ Any agency of the United States Government is authorized to provide administrati
 
 #### (b) Costs to be kept at minimum level
 
-The provision by the United States to the Multinational Force and Observers under theauthority of this subchapter or any other law of any property, support, or services, including the provision of military and civilian personnel under section 3422 of this title, on other than a reimbursable basis shall be kept to a minimum.
+The provision by the United States to the Multinational Force and Observers under the authority of this subchapter or any other law of any property, support, or services, including the provision of military and civilian personnel under section 3422 of this title, on other than a reimbursable basis shall be kept to a minimum.
 
 #### (c) Military training of armed forces of other countries
 

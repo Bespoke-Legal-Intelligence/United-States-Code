@@ -1,6 +1,6 @@
 ### §2376. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this subchapter such sums as may benecessary for fiscal year 2007 and each of the 5 succeeding fiscal years.
+There are authorized to be appropriated to carry out this subchapter such sums as may be necessary for fiscal year 2007 and each of the 5 succeeding fiscal years.
 
 (Pub. L. 88–210, title II, §206, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 742.)
 
@@ -26,5 +26,5 @@ Section 2381, Pub. L. 88–210, title III, §321, formerly §331, as added Pub. 
 
 Section 2382, Pub. L. 88–210, title III, §322, formerly §332, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2462; renumbered §322 and amended Pub. L. 101–392, title III, §306(a)(2), (c), Sept. 25, 1990, 104 Stat. 786, 787, related to use of funds from career guidance and counseling grants.
 
-Section 2383, Pub. L. 88–210, title III, §323, formerly §333, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2463; amended Pub. L. 99–159, title VII, §708, Nov. 22, 1985, 99 Stat. 906; renumbered §323, Pub. L. 101–392, title III, §306(a)(2), Sept. 25, 1990, 104 Stat. 786, related to information dissemination and leadership.
+Section 2383, Pub. L. 88–210, title III, §323, formerly §333, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2463; amended Pub. L. 99–159, title VII, §708, Nov. 22, 1985, 99 Stat. 906; renumbered §323, Pub. L. 101–392, titleIII, §306(a)(2), Sept. 25, 1990, 104 Stat. 786, related to information dissemination and leadership.
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) The aggregate number of all immigration applications and petitions received, and processed, by the Department.
 
-&emsp;&emsp;(B) Region-by-region statistics on the aggregate number of immigration applications and petitions filed by an alien (or filed on behalf of an alien) and denied, disaggregated by category of denial and application or petition type.
+&emsp;&emsp;(B) Region-by-region statistics on the aggregate number of immigration applicationsand petitions filed by an alien (or filed on behalf of an alien) and denied, disaggregated by category of denial and application or petition type.
 
 &emsp;&emsp;(C) The quantity of backlogged immigration applications and petitions that have been processed, the aggregate number awaiting processing, and a detailed plan for eliminating the backlog.
 

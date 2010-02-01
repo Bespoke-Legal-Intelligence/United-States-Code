@@ -130,7 +130,7 @@ Subsec. (f). Pub. L. 101–189, §631(d), added subsec. (f).
 
 Subsec. (b)(1). Pub. L. 99–661, §632(a)(2), substituted “a member” for “an officer in pay grades O–1 through O–10”.
 
-1981—Subsec. (a)(4). Pub. L. 97–60, §112(a), inserted provision that entitlement to continuous monthly incentive pay ceases for an officer (other than a warrant officer) upon completion of 25 years of service as an officer (as computed under section 205 of this title), but such an officer in a pay grade below pay grade O–7 remains entitled to monthly incentive pay under subsection (b)(1) of this section for the performance of operational flying duty.
+1981—Subsec. (a)(4). Pub. L. 97–60, §112(a), inserted provision that entitlement to continuous monthly incentive pay ceases for an officer (other than a warrantofficer) upon completion of 25 years of service as an officer (as computed under section 205 of this title), but such an officer in a pay grade below pay grade O–7 remains entitled to monthly incentive pay under subsection (b)(1) of this section for the performance of operational flying duty.
 
 Subsec. (b)(1), (2). Pub. L. 97–60, §112(b), amended table to reflect an upward adjustment in monthly incentive pay.
 
@@ -216,7 +216,7 @@ Section 6 of Pub. L. 93–294 provided that: “This Act \[enacting this section
 
 #### Delegation of Functions
 
-For delegation of authority under this section to Secretaries of Defense, Commerce, Health and Human Services, and Homeland Security when Coast Guard not serving as part of Navy, see section 1 of Ex. Ord. No.13294, Mar. 28, 2003, 68 F.R. 15919, set out as a note under section 301 of this title.
+For delegation of authority under this section to Secretaries of Defense, Commerce, Health and Human Services, and Homeland Security when Coast Guard not serving as part of Navy, see section 1 of Ex. Ord. No. 13294, Mar. 28, 2003, 68 F.R. 15919, set out as a note under section 301 of this title.
 
 #### Monthly Incentive Pay for Certain Officers Entitled to Incentive Pay Under Section 301(a)(1) of This Title on May 31, 1973
 

@@ -34,7 +34,7 @@ Subsecs. (b), (c). Pub. L. 103–252, §104(2), added subsec. (b) and struck out
 
 Pub. L. 101–501, §120(b), designated existing provisions as subsec. (a), inserted “(other than section 9846a of this title)” after “of this subchapter”, and added subsec. (b).
 
-Pub. L. 101–501, §103, struck out “$1,198,000,000 for fiscal year 1987, $1,263,000,000 for fiscal year 1988, $1,332,000,000 for fiscal year 1989, and” after “of this subchapter” and inserted “, $2,386,000,000 for fiscal year 1991, $4,273,000,000 for fiscal year 1992, $5,924,000,000 forfiscal year 1993, and $7,660,000,000 for fiscal year 1994” after “1990”.
+Pub. L. 101–501, §103, struck out “$1,198,000,000 for fiscal year 1987, $1,263,000,000 for fiscal year 1988, $1,332,000,000 for fiscal year 1989, and” after “of this subchapter” and inserted “, $2,386,000,000 for fiscal year 1991, $4,273,000,000 for fiscal year 1992, $5,924,000,000 for fiscal year 1993, and $7,660,000,000 for fiscal year 1994” after “1990”.
 
 1989—Pub. L. 101–120 substituted “$1,552,000,000” for “$1,405,000,000”.
 

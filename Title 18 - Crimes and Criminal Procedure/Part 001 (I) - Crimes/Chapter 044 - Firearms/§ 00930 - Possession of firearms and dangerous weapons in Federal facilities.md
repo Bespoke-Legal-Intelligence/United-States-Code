@@ -22,7 +22,7 @@
 
 (g) As used in this section:
 
-&emsp;(1) The term “Federal facility” means a building or part thereof owned or leased by the Federal Government, where Federal employees are regularly present for the purpose of performing their official duties.
+&emsp;(1) The term “Federal facility” means a building or part thereof owned or leased by the Federal Government, where Federal employeesare regularly present for the purpose of performing their official duties.
 
 &emsp;(2) The term “dangerous weapon” means a weapon, device, instrument, material, or substance, animate or inanimate, that is used for, or is readily capable of, causing death or serious bodily injury, except that such term does not include a pocket knife with a blade of less than 21/2 inches in length.
 

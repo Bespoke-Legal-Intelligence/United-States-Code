@@ -98,7 +98,7 @@ Sec. 3. Any law, Executive order, or regulation which would disqualify an applic
 
 Sec. 4. For the purpose of this order:
 
-(a) “agency” means a military department as defined in section 102 of title 5, United States Code, an executive agency (other than the General Accounting Office \[now Government Accountability Office\]) as defined in section 105 of title 5, United States Code, and those portions of the legislative and judicial branches of the Federal Government and of the government of the District of Columbia having positions in the competitive service; and
+(a) “agency” means a military department as defined in section 102 of title 5, United States Code, an executive agency (other than the General Accounting Office\[now Government Accountability Office\]) as defined in section 105 of title 5, United States Code, and those portions of the legislative and judicial branches of the Federal Government and of the government of the District of Columbia having positions in the competitive service; and
 
 (b) “Vietnam era” means the period beginning August 5, 1964, and ending on such date thereafter as may be determined by Presidential proclamation or concurrent resolution of the Congress.
 

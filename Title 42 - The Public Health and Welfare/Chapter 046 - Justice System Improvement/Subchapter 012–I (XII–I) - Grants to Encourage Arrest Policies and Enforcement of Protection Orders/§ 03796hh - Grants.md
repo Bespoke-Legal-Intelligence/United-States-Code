@@ -14,7 +14,7 @@ The Attorney General may make grants to eligible States, Indian tribal governmen
 
 &emsp;(3) To centralize and coordinate police enforcement, prosecution, or judicial responsibility for domestic violence, dating violence, sexual assault, and stalking cases in teams or units of police officers, prosecutors, parole and probation officers, or judges.
 
-&emsp;(4) To coordinate computer tracking systems to ensure communication between police, prosecutors, parole and probation officers, and both criminal and family courts.
+&emsp;(4) To coordinate computer tracking systems to ensure communication between police,prosecutors, parole and probation officers, and both criminal and family courts.
 
 &emsp;(5) To strengthen legal advocacy service programs for victims of domestic violence, dating violence, sexual assault, and stalking, including strengthening assistance to such victims in immigration matters.
 
@@ -64,7 +64,7 @@ A State or unit of local government shall not be entitled to 5 percent of the fu
 
 &emsp;&emsp;(A) the State or unit of local government at the request of a victim to administer to a defendant, against whom an information or indictment is presented for a crime in which by force or threat of force the perpetrator compels the victim to engage in sexual activity, testing for the immunodeficiency virus (HIV) not later than 48 hours after the date on which the information or indictment is presented;
 
-&emsp;&emsp;(B) as soon as practicable notification to the victim, or parent and guardian of the victim, and defendant of the testing results; and
+&emsp;&emsp;(B) as soon as practicable notification to the victim, or parent and guardian of thevictim, and defendant of the testing results; and
 
 &emsp;&emsp;(C) follow-up tests for HIV as may be medically appropriate, and that as soon as practicable after each such test the results be made available in accordance with subparagraph (B); or
 

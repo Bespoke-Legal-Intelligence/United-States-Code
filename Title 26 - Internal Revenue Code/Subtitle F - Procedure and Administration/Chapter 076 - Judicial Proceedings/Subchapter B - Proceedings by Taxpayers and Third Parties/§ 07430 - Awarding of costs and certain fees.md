@@ -226,7 +226,7 @@ For purposes of subsection (c)(4)—
 
 &emsp;&emsp;(B) ending on the date which is 30 days before the date the case is first set for trial.
 
-(Added Pub. L. 97–248, title II, §292(a), Sept. 3, 1982, 96 Stat. 572; amended Pub. L. 98–369, div. A, title VII, §714(c), July 18, 1984, 98 Stat. 961; Pub. L. 99–514, title XV, §1551(a)–(g), Oct. 22, 1986, 100 Stat. 2752, 2753; Pub. L. 100–647, title I, §1015(i), title VI, §6239(a), Nov. 10, 1988, 102 Stat. 3571, 3743; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–168, title VII, §§701(a)–(c)(2), 702(a), 703(a), 704(a), July 30, 1996, 110 Stat. 1463, 1464; Pub. L. 105–34, title XII, §1285(a)–(c), title XIV, §1453(a), Aug. 5, 1997, 111 Stat. 1038, 1055; Pub. L. 105–206, title III, §3101(a)–(e), title VI, §§6012(h), 6014(e), July 22, 1998, 112 Stat. 727, 728, 819, 820; Pub. L. 106–554,§1(a)(7) \[title III, §319(25)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647.)
+(Added Pub. L. 97–248, title II, §292(a), Sept. 3, 1982, 96 Stat. 572; amended Pub. L. 98–369, div. A, title VII, §714(c), July 18, 1984, 98 Stat. 961; Pub. L. 99–514, title XV, §1551(a)–(g), Oct. 22, 1986, 100 Stat. 2752, 2753; Pub. L. 100–647, title I, §1015(i), title VI, §6239(a), Nov. 10, 1988, 102 Stat. 3571, 3743; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–168, title VII, §§701(a)–(c)(2), 702(a), 703(a), 704(a), July 30, 1996, 110 Stat. 1463, 1464; Pub. L. 105–34, title XII, §1285(a)–(c), title XIV, §1453(a), Aug. 5, 1997, 111 Stat. 1038, 1055; Pub. L. 105–206, title III, §3101(a)–(e), title VI, §§6012(h), 6014(e), July 22, 1998, 112 Stat. 727, 728, 819, 820; Pub. L. 106–554, §1(a)(7) \[title III, §319(25)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -340,7 +340,7 @@ Section 1453(b) of Pub. L. 105–34 provided that: “The amendment made by this
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 701(a)–(c)(2) of Pub. L. 104–168 applicable in case of proceedings commenced after July 30, 1996, see section 701(d) of Pub. L. 104–168, set out as a note under section 6404 of this title.
+Amendment by section 701(a)–(c)(2) of Pub. L. 104–168 applicable in case of proceedings commenced after July30, 1996, see section 701(d) of Pub. L. 104–168, set out as a note under section 6404 of this title.
 
 Section 702(b) of Pub. L. 104–168 provided that: “The amendment made by this section \[amending this section\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\].”
 

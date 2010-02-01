@@ -26,7 +26,7 @@ In general.—On request, the Administrator may provide, to the extent practicab
 
 &emsp;(2)
 
-Use of services.—A nonprofit agency receiving services under this subsection shalluse the services directly in making or providing to the Government a commodity or service that has been determined by the Committee for Purchase From People Who Are Blind or Severely Disabled under section 2 of the Javits-Wagner-O'Day Act (41 U.S.C. 47) to be suitable for procurement by the Government.
+Use of services.—A nonprofit agency receiving services under this subsection shall use the services directly in making or providing to the Government a commodity or service that has been determined by the Committee for Purchase From People Who Are Blind or Severely Disabled under section 2 of the Javits-Wagner-O'Day Act (41 U.S.C. 47) to be suitable for procurement by the Government.
 
 (c)
 

@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### (1) Agreement to treat corporation as agent
 
-&emsp;The rules of paragraph (3) shall apply to any transaction between the reporting corporation and any related party who is a foreign person unless such related party agrees (in such manner and at such time as the Secretary shall prescribe) to authorize the reporting corporation to act as such related party's limited agent solely for purposes of applying sections 7602, 7603, and 7604 with respect to any request by the Secretary to examine records or produce testimony related to any such transaction or with respect to any summons by the Secretary for such records or testimony. The appearance of persons or production of records by reason of the reporting corporation being such an agent shall not subject such persons or records to legal process for any purpose other than determining the correct treatment under this title of any transaction between the reporting corporation and such related party.
+&emsp;The rules of paragraph (3) shall apply to any transaction between the reporting corporation and any related party who is a foreign person unless such related party agrees (in such manner and at such time as the Secretary shall prescribe) to authorize the reporting corporation to act as such related party's limited agent solely for purposes of applying sections 7602, 7603, and 7604 with respect to any request by the Secretary to examine records or produce testimony related to any such transaction or with respect to any summons by the Secretary for such records or testimony. The appearance of persons or production of records by reason of the reporting corporation being such an agent shall not subject such persons or records to legal process for any purposeother than determining the correct treatment under this title of any transaction between the reporting corporation and such related party.
 
 #### (2) Rules where information not furnished
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the cost to the reporting corporation of any property acquired in such transaction from the related party (or transferred by such corporation in such transaction to the related party),
 
-> &emsp;shall be the amount determined by the Secretary in the Secretary's sole discretion from the Secretary's own knowledge or from suchinformation as the Secretary may obtain through testimony or otherwise.
+> &emsp;shall be the amount determined by the Secretary in the Secretary's sole discretion from the Secretary's own knowledge or from such information as the Secretary may obtain through testimony or otherwise.
 
 #### (4) Judicial proceedings
 
@@ -236,5 +236,5 @@ General Rule.—The amendments made by section 7403 of the Revenue Reconciliatio
 
 “(b)
 
-Continuation of Old Failures.—In the case of any failure with respect to a taxable year beginning on or before July 10, 1989, which first occurs on or before the date of the enactment of this Act \[Nov. 5, 1990\] but which continues after such date of enactment, section 6038A(d)(2) of the Internal Revenue Code of 1986 (as amended by subsection (c) of such section 7403) shall apply for purposes of determining the amount of the penalty imposed for 30-day periods referred to in such section 6038A(d)(2) which begin after the date of the enactment of this Act.”
+Continuation of Old Failures.—In the case of any failure with respect to a taxable year beginning onor before July 10, 1989, which first occurs on or before the date of the enactment of this Act \[Nov. 5, 1990\] but which continues after such date of enactment, section 6038A(d)(2) of the Internal Revenue Code of 1986 (as amended by subsection (c) of such section 7403) shall apply for purposes of determining the amount of the penalty imposed for 30-day periods referred to in such section 6038A(d)(2) which begin after the date of the enactment of this Act.”
 

@@ -20,19 +20,16 @@
 | [4956\.](Subchapter%20001%20%28I%29%20-%20National%20Volunteer%20Antipoverty%20Programs/Part%20A%20-%20Volunteers%20in%20Service%20to%20America/%C2%A7%2004956%20-%20Participation%20of%20program%20beneficiaries.md) | Participation of program beneficiaries. |
 | [4957\.](Subchapter%20001%20%28I%29%20-%20National%20Volunteer%20Antipoverty%20Programs/Part%20A%20-%20Volunteers%20in%20Service%20to%20America/%C2%A7%2004957%20-%20Participation%20of%20younger%20and%20older%20persons.md) | Participation of younger and older persons. |
 | [4958\.](Subchapter%20001%20%28I%29%20-%20National%20Volunteer%20Antipoverty%20Programs/Part%20A%20-%20Volunteers%20in%20Service%20to%20America/%C2%A7%2004958%20-%20Limitation%20on%20funds%20appropriated%20for%20grants%20and%20contracts%20for%20direct%20cost%20of%20supporting%20volunteers%20in%20programs%20or%20projects.md) | Limitation on funds appropriated for grants and contracts for direct cost of supporting volunteers in programs or projects. |
-| [4959\.](Subchapter%20001%20%28I%29%20-%20National%20Volunteer%20Antipoverty%20Programs/Part%20A%20-%20Volunteers%20in%20Service%20to%20America/%C2%A7%2004959%20-%20VISTA%20Literacy%20Corps.md) | VISTA Literacy Corps. |
+| [4959\.](Subchapter%20001%20%28I%29%20-%20National%20Volunteer%20Antipoverty%20Programs/Part%20A%20-%20Volunteers%20in%20Service%20to%20America/%C2%A7%2004959%20-%20Repealed.%20Pub.%20L.%20111%E2%80%9313%2C%20title%20II%2C%20%C2%A72104%2C%20Apr.%2021%2C%202009%2C%20123%20Stat.%201583.md) | Repealed. |
 | [4960\.](Subchapter%20001%20%28I%29%20-%20National%20Volunteer%20Antipoverty%20Programs/Part%20A%20-%20Volunteers%20in%20Service%20to%20America/%C2%A7%2004960%20-%20Applications%20for%20assistance.md) | Applications for assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part B—University Year for VISTA
 
-|  |  |
-| :--- | ---: |
-| [4971\.](Subchapter%20001%20%28I%29%20-%20National%20Volunteer%20Antipoverty%20Programs/Part%20B%20-%20University%20Year%20for%20VISTA/%C2%A7%2004971%20-%20Congressional%20statement%20of%20purpose.md) | Congressional statement of purpose. |
-| [4972\.](Subchapter%20001%20%28I%29%20-%20National%20Volunteer%20Antipoverty%20Programs/Part%20B%20-%20University%20Year%20for%20VISTA/%C2%A7%2004972%20-%20Authority%20to%20operate%20University%20Year%20for%20VISTA%20program.md) | Authority to operate University Year for VISTA program. |
-| [4973\.](Subchapter%20001%20%28I%29%20-%20National%20Volunteer%20Antipoverty%20Programs/Part%20B%20-%20University%20Year%20for%20VISTA/%C2%A7%2004973%20-%20Special%20conditions.md) | Special conditions. |
-| [4974\.](Subchapter%20001%20%28I%29%20-%20National%20Volunteer%20Antipoverty%20Programs/Part%20B%20-%20University%20Year%20for%20VISTA/%C2%A7%2004974%20-%20Repealed.%20Pub.%20L.%20103%E2%80%9382%2C%20title%20III%2C%20%C2%A7329%2C%20Sept.%2021%2C%201993%2C%20107%20Stat.%20902.md) | Repealed. |
+|  |
+| :--- |
+| 4971 to 4974. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -43,16 +40,15 @@
 | [4991\.](Subchapter%20001%20%28I%29%20-%20National%20Volunteer%20Antipoverty%20Programs/Part%20C%20-%20Special%20Volunteer%20Programs/%C2%A7%2004991%20-%20Congressional%20statement%20of%20purpose.md) | Congressional statement of purpose. |
 | [4992\.](Subchapter%20001%20%28I%29%20-%20National%20Volunteer%20Antipoverty%20Programs/Part%20C%20-%20Special%20Volunteer%20Programs/%C2%A7%2004992%20-%20Authority%20to%20establish%20and%20operate%20special%20volunteer%20and%20demonstration%20programs.md) | Authority to establish and operate special volunteer and demonstration programs. |
 | [4993\.](Subchapter%20001%20%28I%29%20-%20National%20Volunteer%20Antipoverty%20Programs/Part%20C%20-%20Special%20Volunteer%20Programs/%C2%A7%2004993%20-%20Technical%20and%20financial%20assistance.md) | Technical and financial assistance. |
-| [4994\.](Subchapter%20001%20%28I%29%20-%20National%20Volunteer%20Antipoverty%20Programs/Part%20C%20-%20Special%20Volunteer%20Programs/%C2%A7%2004994%20-%20Repealed.%20Pub.%20L.%20103%E2%80%9382%2C%20title%20III%2C%20%C2%A7333%281%29%2C%20Sept.%2021%2C%201993%2C%20107%20Stat.%20903.md) | Repealed. |
-| [4995\.](Subchapter%20001%20%28I%29%20-%20National%20Volunteer%20Antipoverty%20Programs/Part%20C%20-%20Special%20Volunteer%20Programs/%C2%A7%2004995%20-%20Literacy%20challenge%20grants.md) | Literacy challenge grants. |
+| 4994, 4995. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER II—NATIONAL SENIOR VOLUNTEER CORPS
+#### SUBCHAPTER II—NATIONAL SENIOR SERVICE CORPS
 
 |  |  |
 | :--- | ---: |
-| [5000\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Volunteer%20Corps/%C2%A7%2005000%20-%20Statement%20of%20purposes.md) | Statement of purposes. |
+| [5000\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Service%20Corps/%C2%A7%2005000%20-%20Statement%20of%20purpose.md) | Statement of purpose. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -60,7 +56,7 @@
 
 |  |  |
 | :--- | ---: |
-| [5001\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Volunteer%20Corps/Part%20A%20-%20Retired%20and%20Senior%20Volunteer%20Program/%C2%A7%2005001%20-%20Grants%20and%20contracts%20for%20volunteer%20service%20projects.md) | Grants and contracts for volunteer service projects. |
+| [5001\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Service%20Corps/Part%20A%20-%20Retired%20and%20Senior%20Volunteer%20Program/%C2%A7%2005001%20-%20Grants%20and%20contracts%20for%20volunteer%20service%20projects.md) | Grants and contracts for volunteer service projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -68,8 +64,8 @@
 
 |  |  |
 | :--- | ---: |
-| [5011\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Volunteer%20Corps/Part%20B%20-%20Foster%20Grandparent%20Program/%C2%A7%2005011%20-%20Grants%20and%20contracts%20for%20individual%20service%20projects.md) | Grants and contracts for individual service projects. |
-| [5012\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Volunteer%20Corps/Part%20B%20-%20Foster%20Grandparent%20Program/%C2%A7%2005012%20-%20Repealed.%20Pub.%20L.%20103%E2%80%9382%2C%20title%20III%2C%20%C2%A7346%2C%20Sept.%2021%2C%201993%2C%20107%20Stat.%20905.md) | Repealed. |
+| [5011\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Service%20Corps/Part%20B%20-%20Foster%20Grandparent%20Program/%C2%A7%2005011%20-%20Grants%20and%20contracts%20for%20individual%20service%20projects.md) | Grants and contracts for individual service projects. |
+| [5012\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Service%20Corps/Part%20B%20-%20Foster%20Grandparent%20Program/%C2%A7%2005012%20-%20Repealed.%20Pub.%20L.%20103%E2%80%9382%2C%20title%20III%2C%20%C2%A7346%2C%20Sept.%2021%2C%201993%2C%20107%20Stat.%20905.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -77,7 +73,7 @@
 
 |  |  |
 | :--- | ---: |
-| [5013\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Volunteer%20Corps/Part%20C%20-%20Senior%20Companion%20Program/%C2%A7%2005013%20-%20Grants%20and%20contracts%20for%20volunteer%20service%20projects.md) | Grants and contracts for volunteer service projects. |
+| [5013\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Service%20Corps/Part%20C%20-%20Senior%20Companion%20Program/%C2%A7%2005013%20-%20Grants%20and%20contracts%20for%20volunteer%20service%20projects.md) | Grants and contracts for volunteer service projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -85,13 +81,14 @@
 
 |  |  |
 | :--- | ---: |
-| [5021\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Volunteer%20Corps/Part%20D%20-%20General%20Provisions/%C2%A7%2005021%20-%20Promotion%20of%20National%20Senior%20Volunteer%20Corps.md) | Promotion of National Senior Volunteer Corps. |
-| [5022\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Volunteer%20Corps/Part%20D%20-%20General%20Provisions/%C2%A7%2005022%20-%20Payments%3B%20adjustments%3B%20advances%20or%20reimbursement%3B%20installments%3B%20conditions.md) | Payments; adjustments; advances or reimbursement; installments; conditions. |
-| [5023\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Volunteer%20Corps/Part%20D%20-%20General%20Provisions/%C2%A7%2005023%20-%20Minority%20group%20participation.md) | Minority group participation. |
-| [5024\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Volunteer%20Corps/Part%20D%20-%20General%20Provisions/%C2%A7%2005024%20-%20Use%20of%20locally%20generated%20contributions%20in%20National%20Senior%20Volunteer%20Corps.md) | Use of locally generated contributions in National Senior Volunteer Corps. |
-| [5025\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Volunteer%20Corps/Part%20D%20-%20General%20Provisions/%C2%A7%2005025%20-%20Programs%20of%20national%20significance.md) | Programs of national significance. |
-| [5026\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Volunteer%20Corps/Part%20D%20-%20General%20Provisions/%C2%A7%2005026%20-%20Adjustments%20to%20Federal%20financial%20assistance.md) | Adjustments to Federal financial assistance. |
-| [5027\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Volunteer%20Corps/Part%20D%20-%20General%20Provisions/%C2%A7%2005027%20-%20Multiyear%20grants%20or%20contracts.md) | Multiyear grants or contracts. |
+| [5021\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Service%20Corps/Part%20D%20-%20General%20Provisions/%C2%A7%2005021%20-%20Promotion%20of%20National%20Senior%20Service%20Corps.md) | Promotion of National Senior Service Corps. |
+| [5022\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Service%20Corps/Part%20D%20-%20General%20Provisions/%C2%A7%2005022%20-%20Payments%3B%20adjustments%3B%20advances%20or%20reimbursement%3B%20installments%3B%20conditions.md) | Payments; adjustments; advances or reimbursement; installments; conditions. |
+| [5023\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Service%20Corps/Part%20D%20-%20General%20Provisions/%C2%A7%2005023%20-%20Minority%20population%20participation.md) | Minority population participation. |
+| [5024\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Service%20Corps/Part%20D%20-%20General%20Provisions/%C2%A7%2005024%20-%20Use%20of%20locally%20generated%20contributions%20in%20National%20Senior%20Service%20Corps.md) | Use of locally generated contributions in National Senior Service Corps. |
+| [5025\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Service%20Corps/Part%20D%20-%20General%20Provisions/%C2%A7%2005025%20-%20Programs%20of%20national%20significance.md) | Programs of national significance. |
+| [5026\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Service%20Corps/Part%20D%20-%20General%20Provisions/%C2%A7%2005026%20-%20Adjustments%20to%20Federal%20financial%20assistance.md) | Adjustments to Federal financial assistance. |
+| [5027\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Service%20Corps/Part%20D%20-%20General%20Provisions/%C2%A7%2005027%20-%20Multiyear%20grants%20or%20contracts.md) | Multiyear grants or contracts. |
+| [5027a.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Service%20Corps/Part%20D%20-%20General%20Provisions/%C2%A7%2005027a%20-%20Acceptance%20of%20donations.md) | Acceptance of donations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -99,8 +96,8 @@
 
 |  |  |
 | :--- | ---: |
-| [5028\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Volunteer%20Corps/Part%20E%20-%20Demonstration%20Programs/%C2%A7%2005028%20-%20Authority%20of%20Director.md) | Authority of Director. |
-| [5028a.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Volunteer%20Corps/Part%20E%20-%20Demonstration%20Programs/%C2%A7%2005028a%20-%20Prohibition.md) | Prohibition. |
+| [5028\.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Service%20Corps/Part%20E%20-%20Demonstration%20Programs/%C2%A7%2005028%20-%20Authority%20of%20Director.md) | Authority of Director. |
+| [5028a.](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Service%20Corps/Part%20E%20-%20Demonstration%20Programs/%C2%A7%2005028a%20-%20Prohibition.md) | Prohibition. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -140,6 +137,7 @@
 | [5063\.](Subchapter%20004%20%28IV%29%20-%20Administration%20and%20Coordination/%C2%A7%2005063%20-%20Reduction%20of%20paperwork.md) | Reduction of paperwork. |
 | [5064\.](Subchapter%20004%20%28IV%29%20-%20Administration%20and%20Coordination/%C2%A7%2005064%20-%20Review%20of%20project%20renewals.md) | Review of project renewals. |
 | [5065\.](Subchapter%20004%20%28IV%29%20-%20Administration%20and%20Coordination/%C2%A7%2005065%20-%20Protection%20against%20improper%20use.md) | Protection against improper use. |
+| [5066\.](Subchapter%20004%20%28IV%29%20-%20Administration%20and%20Coordination/%C2%A7%2005066%20-%20Provisions%20under%20the%20National%20and%20Community%20Service%20Act%20of%201990.md) | Provisions under the National and Community Service Act of 1990. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -148,7 +146,7 @@
 |  |  |
 | :--- | ---: |
 | [5081\.](Subchapter%20005%20%28V%29%20-%20Authorization%20of%20Appropriations/%C2%A7%2005081%20-%20National%20Volunteer%20Antipoverty%20Programs.md) | National Volunteer Antipoverty Programs. |
-| [5082\.](Subchapter%20005%20%28V%29%20-%20Authorization%20of%20Appropriations/%C2%A7%2005082%20-%20National%20Senior%20Volunteer%20Corps.md) | National Senior Volunteer Corps. |
+| [5082\.](Subchapter%20005%20%28V%29%20-%20Authorization%20of%20Appropriations/%C2%A7%2005082%20-%20National%20Senior%20Service%20Corps.md) | National Senior Service Corps. |
 | [5083\.](Subchapter%20005%20%28V%29%20-%20Authorization%20of%20Appropriations/%C2%A7%2005083%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93510%2C%20%C2%A7102%28b%29%2C%20Oct.%2024%2C%201978%2C%2092%20Stat.%201781.md) | Repealed. |
 | [5084\.](Subchapter%20005%20%28V%29%20-%20Authorization%20of%20Appropriations/%C2%A7%2005084%20-%20Administration%20and%20coordination.md) | Administration and coordination. |
 | [5085\.](Subchapter%20005%20%28V%29%20-%20Authorization%20of%20Appropriations/%C2%A7%2005085%20-%20Availability%20of%20appropriations.md) | Availability of appropriations. |
@@ -170,7 +168,7 @@
 
 - [&sect; 04950 - Volunteerism policy](%C2%A7%2004950%20-%20Volunteerism%20policy.md)
 - [Subchapter 001 (I) - National Volunteer Antipoverty Programs](Subchapter%20001%20%28I%29%20-%20National%20Volunteer%20Antipoverty%20Programs/README.md)
-- [Subchapter 002 (II) - National Senior Volunteer Corps](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Volunteer%20Corps/README.md)
+- [Subchapter 002 (II) - National Senior Service Corps](Subchapter%20002%20%28II%29%20-%20National%20Senior%20Service%20Corps/README.md)
 - [Subchapter 003 (III) - National Volunteer Programs to Assist Small Businesses and Promote Volunteer Service by Persons with Business Experience](Subchapter%20003%20%28III%29%20-%20National%20Volunteer%20Programs%20to%20Assist%20Small%20Businesses%20and%20Promote%20Volunteer%20Service%20by%20Persons%20with%20Business%20Experience/README.md)
 - [Subchapter 004 (IV) - Administration and Coordination](Subchapter%20004%20%28IV%29%20-%20Administration%20and%20Coordination/README.md)
 - [Subchapter 005 (V) - Authorization of Appropriations](Subchapter%20005%20%28V%29%20-%20Authorization%20of%20Appropriations/README.md)

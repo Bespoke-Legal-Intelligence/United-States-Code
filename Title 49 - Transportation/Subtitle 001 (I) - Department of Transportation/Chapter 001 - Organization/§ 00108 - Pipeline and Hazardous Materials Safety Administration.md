@@ -90,7 +90,7 @@ Legal Documents.—All orders (including delegations by the Secretary of Transpo
 
 “(c)
 
-Proceedings.—The provisions of this Act shall not affect any proceedings, including administrative enforcement actions, pending before this Act takes effect, insofar as those functions are transferred by this Act; but such proceedings, to the extent that they relate to functions so transferred, shall proceed in accordance with applicable law and regulations. Nothing in this subsection shall be deemed to prohibit the conclusion or modification of any proceeding described in this subsection under the same terms and conditions and to the same extent that such proceeding could have been concluded or modified if this Act had not been enacted. The Secretary of Transportation is authorized to provide for the orderly transfer of pending proceedings.
+Proceedings.—The provisions of this Act shall not affect any proceedings, including administrative enforcement actions, pending before this Act takes effect, insofar as those functions are transferred by this Act; but such proceedings, to the extent that they relate to functions so transferred, shall proceed in accordance with applicable law and regulations. Nothing in this subsection shall be deemed to prohibit the conclusion or modification of any proceeding described in this subsection under the same terms and conditions and to the same extent that such proceeding could havebeen concluded or modified if this Act had not been enacted. The Secretary of Transportation is authorized to provide for the orderly transfer of pending proceedings.
 
 “(d)
 
@@ -98,7 +98,7 @@ Suits.—
 
 &emsp;“(1)
 
-In general.—This Act shall not affect suits commenced before the date of enactment of this Act \[Nov. 30, 2004\], except as provided in paragraphs (2) and (3). In all such suits, proceedings shall be had, appeals taken, and judgments rendered in the samemanner and with the same effect as if this Act had not been enacted.
+In general.—This Act shall not affect suits commenced before the date of enactment of this Act \[Nov. 30, 2004\], except as provided in paragraphs (2) and (3). In all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted.
 
 &emsp;“(2)
 

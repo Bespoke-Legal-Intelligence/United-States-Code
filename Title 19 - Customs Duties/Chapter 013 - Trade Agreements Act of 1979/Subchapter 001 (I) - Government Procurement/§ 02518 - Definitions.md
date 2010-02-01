@@ -46,7 +46,7 @@ As used in this subchapter—
 
 #### (B) Rule of origin
 
-&emsp;&emsp;An article is a product of a country or instrumentality only if (i) it is wholly the growth, product, or manufacture of that country or instrumentality, or (ii) in the case of an article which consists in whole or in part of materials from another country or instrumentality, it has been substantially transformed into a new and different article of commerce with a name, character, or use distinct from that of the article or articles from which it was so transformed.
+&emsp;&emsp;An article is a product of a country or instrumentality only if (i) it is wholly the growth, product, or manufacture of that country or instrumentality, or (ii) in the case of an article which consists in whole or in part of materials from another country or instrumentality, it has been substantially transformed into a new and different article of commerce with a name, character, or usedistinct from that of the article or articles from which it was so transformed.
 
 #### (C) Lowered threshold for certain products as a consequence of United States-Israel free trade area provisions
 
@@ -123,8 +123,6 @@ Amendment by Pub. L. 110–138 effective on the date the United States-Peru Trad
 #### Effective and Termination Dates of 2006 Amendment
 
 Amendment by Pub. L. 109–283 effective on the date on which the United States-Oman Free Trade Agreement enters into force (Jan. 1, 2009) and to cease to be effective on the date on which the Agreement terminates, see section 107(a), (c) of Pub. L. 109–283, set out in a note under section 3805 of this title.
-
-#### Effective and Termination Dates of 2006 Amendment
 
 Amendment by Pub. L. 109–169 effective on the date on which the United States-Bahrain Free Trade Agreement enters into force (Aug. 1, 2006) and to cease to be effective on the date on which the Agreement terminates, see section 106(a), (c) of Pub. L. 109–169, set out in a note under section 3805 of this title.
 

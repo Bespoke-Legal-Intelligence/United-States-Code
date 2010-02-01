@@ -10,7 +10,7 @@
 
 &emsp;(4) a reconciliation of the summary information on expenditures with proposed appropriations.
 
-&emsp;(5) except as provided in subsection (b) of this section, estimated expenditures and proposed appropriations the President decides are necessary to support the Government in thefiscal year for which the budget is submitted and the 4 fiscal years after that year.
+&emsp;(5) except as provided in subsection (b) of this section, estimated expenditures and proposed appropriations the President decides are necessary to support the Government in the fiscal year for which the budget is submitted and the 4 fiscal years after that year.
 
 &emsp;(6) estimated receipts of the Government in the fiscal year for which the budget is submitted and the 4 fiscal years after that year under—
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(C) estimated goals and financial requirements.
 
-&emsp;(22) a statement of budget authority, proposed budget authority, budget outlays, and proposed budget outlays, and descriptive information in terms of—
+&emsp;(22) a statement of budget authority, proposed budget authority, budget outlays, andproposed budget outlays, and descriptive information in terms of—
 
 &emsp;&emsp;(A) a detailed structure of national needs that refers to the missions and programs of agencies (as defined in section 101 of this title); and
 
@@ -118,11 +118,19 @@
 
 &emsp;&emsp;(B) an estimate of the deficit, the debt held by the public, and the gross Federal debt using methodology required by the Federal Credit Reform Act of 1990 and section 123 of the Emergency Economic Stabilization Act of 2008;
 
-&emsp;&emsp;(C) an estimate of the current value of all assets purchased, sold, and guaranteed under the authority provided in the Emergency Economic Stabilization Act of 2008 calculated on a cash basis;
+&emsp;&emsp;(C) an estimate of the current value of all assets purchased, sold, and guaranteed underthe authority provided in the Emergency Economic Stabilization Act of 2008 calculated on a cash basis;
 
 &emsp;&emsp;(D) a revised estimate of the deficit, the debt held by the public, and the gross Federal debt, substituting the cash-based estimates in subparagraph (C) for the estimates calculated under subparagraph (A) pursuant to the Federal Credit Reform Act of 1990 and section 123 of the Emergency Economic Stabilization Act of 2008; and
 
 &emsp;&emsp;(E) the portion of the deficit which can be attributed to any action taken by the Secretary using authority provided by the Emergency Economic Stabilization Act of 2008 and the extent to which the change in the deficit since the most recent estimate is due to a reestimate using the methodology required by the Federal Credit Reform Act of 1990 and section 123 of the Emergency Economic Stabilization Act of 2008.
+
+&emsp;(36) information on estimates of appropriations for the fiscal year following the fiscal year for which the budget is submitted for the following medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account:
+
+&emsp;&emsp;(A) Medical Services.
+
+&emsp;&emsp;(B) Medical Support and Compliance.
+
+&emsp;&emsp;(C) Medical Facilities.
 
 (b) Estimated expenditures and proposed appropriations for the legislative branch and the judicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
 
@@ -212,7 +220,7 @@
 
 (2) Paragraph (1) does not apply if, during the year in which the warning is made, legislation is enacted which eliminates excess general revenue medicare funding (as defined in section 801(c) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003) for the 7-fiscal-year reporting period, as certified by the Board of Trustees of each medicare trust fund (as defined in section 801(c)(5) of such Act) not later than 30 days after the date of the enactment of such legislation.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, §2(c), Nov. 1, 2000, 114 Stat. 1874; Pub. L. 107–189, §4(a), June 14, 2002, 116 Stat. 699; Pub. L. 107–217, §3(h)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–296, title VIII, §889(a), Nov. 25, 2002, 116 Stat. 2250; Pub. L. 108–173, title VIII, §802(a), Dec. 8, 2003, 117 Stat. 2360; Pub. L. 108–178, §4(f)(1), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 110–343, div. A, title II, §203(a), Oct. 3, 2008, 122 Stat. 3801; Pub. L. 110–409, §7(d)(2), Oct. 14, 2008, 122 Stat. 4313.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, §2(c), Nov. 1, 2000, 114 Stat. 1874; Pub. L. 107–189, §4(a), June 14, 2002, 116 Stat. 699; Pub. L. 107–217, §3(h)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–296, title VIII, §889(a), Nov. 25, 2002, 116 Stat. 2250; Pub. L. 108–173, title VIII, §802(a), Dec. 8, 2003, 117 Stat. 2360; Pub. L. 108–178, §4(f)(1), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 110–343, div. A, title II, §203(a), Oct. 3, 2008, 122 Stat. 3801; Pub. L. 110–409, §7(d)(2), Oct. 14, 2008, 122 Stat. 4313; Pub. L. 111–81, §2, Oct. 22, 2009, 123 Stat. 2137.)
 
 #### Termination of Subsection (f)
 
@@ -368,7 +376,7 @@ The words “The President shall include in the supporting detail accompanying e
 
 #### References in Text
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(23), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(23), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 The Federal Mine Safety and Health Act of 1977, referred to in subsec. (a)(23), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended by Pub. L. 95–164, title I, §101, Nov. 9, 1977, 91 Stat. 1290, which is classified principally to chapter 22 (§801 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 30 and Tables.
 
@@ -385,6 +393,8 @@ The Federal Credit Reform Act of 1990, referred to in subsec. (a)(35), is title 
 Section 801 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (h), is section 801 of Pub. L. 108–173, which is set out as a note under section 1395i of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2009—Subsec. (a)(36). Pub. L. 111–81 added par. (36).
 
 2008—Subsec. (a)(33). Pub. L. 110–409 added par. (33) relating to appropriations for the Council of the Inspectors General on Integrity and Efficiency and struck out former subsec. (33) relating to separate account for Inspectors General Criminal Investigator Academy and Inspectors General Forensic Laboratory.
 
@@ -434,7 +444,7 @@ Subsec. (f). Pub. L. 101–508, §13112(c)(2), amended subsec. (f) generally, su
 
 “(5) Paragraphs (1) and (2) shall not apply if a declaration of war by the Congress is in effect.”
 
-1988—Subsec. (a)(25). Pub. L. 100–504 amended par. (25) generally. Prior to amendment, par. (25) read as follows: “a separate statement, for each agency having an Office of Inspector General, of the amount of the appropriation requested for the Office.”
+1988—Subsec. (a)(25). Pub. L. 100–504 amended par. (25) generally. Prior to amendment, par. (25) read as follows: “a separate statement, for each agency having anOffice of Inspector General, of the amount of the appropriation requested for the Office.”
 
 Subsec. (a)(26). Pub. L. 100–690, §§1006, 1009, temporarily added par. (26) relating to statement of appropriations requested for drug programs. See Effective and Termination Dates of 1988 Amendments note below.
 
@@ -501,6 +511,46 @@ Amendment of subsec. (a) and enactment of subsec. (f) of this section by Pub. L.
 #### Construction of 1993 Amendment
 
 Amendment made by Pub. L. 103–62 not to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction note under section 1115 of this title.
+
+#### Administrative Expenses of Executive Branch Entities; Separate Categories
+
+Pub. L. 111–85, title V, §504, Oct. 28, 2009, 123 Stat. 2879, provided that:
+
+“(a)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Administrative expenses.—The term ‘administrative expenses’ has the meaning as determined by the Director under subsection (b)(2).
+
+&emsp;“(2)
+
+Agency.—The term ‘agency’—
+
+&emsp;&emsp;“(A) means an agency as defined under section 1101 of title 31, United States Code, that is established in the executive branch and receives funding under this Act \[Pub. L. 111–85, see Tables for classification\]; and
+
+&emsp;&emsp;“(B) shall not include the District of Columbia government.
+
+&emsp;“(3)
+
+Director.—The term ‘Director’ means the Director of the Office of Management and Budget.
+
+“(b)
+
+Administrative Expenses.—
+
+&emsp;“(1)
+
+In general.—All agencies shall include a separate category for administrative expenses when submitting their appropriation requests to the Office of Management and Budget for fiscal year 2011 and each fiscal year thereafter.
+
+&emsp;“(2)
+
+Administrative expenses determined.—In consultation with the agencies, the Director shall establish and revise as necessary a definition of administration expenses for the purposes of this section. All questions regarding the definition of administrative expenses shall be resolved by the Director.
+
+“(c)
+
+Budget Submission.—Each budget of the United States Government submitted under section 1105 oftitle 31, United States Code, for fiscal year 2011 and each fiscal year thereafter shall include the amount requested for each agency for administrative expenses.”
 
 #### Consultation
 
@@ -644,7 +694,7 @@ Amendments.—No amendment to the motion to discharge shall be in order.
 
 &emsp;“(4)
 
-Exception if certified legislation enacted.—Notwithstanding paragraph (1), it shall not be in order to discharge the Committee from further consideration of medicare funding legislation pursuant to this subsection during a session of a Congress ifthe chairman of the Committee on the Budget of the Senate certifies that medicare funding legislation has been enacted that eliminates excess general revenue medicare funding (as defined in section 801(c) \[set out as a note under section 1395i of Title 42, The Public Health and Welfare\]) for each fiscal year in the 7-fiscal-year reporting period.
+Exception if certified legislation enacted.—Notwithstanding paragraph (1), it shall not be in order to discharge the Committee from further consideration of medicare funding legislation pursuant to this subsection during a session of a Congress if the chairman of the Committee on the Budget of the Senate certifies that medicare funding legislation has been enacted that eliminates excess general revenue medicare funding (as defined in section 801(c) \[set out as a note under section 1395i of Title 42, The Public Health and Welfare\]) for each fiscal year in the 7-fiscal-year reporting period.
 
 “(e)
 
@@ -672,7 +722,7 @@ Pub. L. 106–554, §1(a)(3) \[title VI, §624\], Dec. 21, 2000, 114 Stat. 2763,
 
 “(a)
 
-In General.—For calendar year 2002 and each year thereafter, the Director of the Office of Management and Budget shall prepare and submit to Congress, with the budget submitted under section 1105 of title 31, United States Code, an accounting statement and associated report containing—
+In General.—For calendar year 2002 and each year thereafter, the Director of the Office of Management and Budget shall prepare and submit to Congress, with the budget submitted under section 1105 of title 31,United States Code, an accounting statement and associated report containing—
 
 &emsp;“(1) an estimate of the total annual costs and benefits (including quantifiable and nonquantifiable effects) of Federal rules and paperwork, to the extent feasible—
 
@@ -728,7 +778,7 @@ Pub. L. 100–685, title I, §104, Nov. 17, 1988, 102 Stat. 4086, provided that:
 
 Pub. L. 102–241, §11, Dec. 19, 1991, 105 Stat. 2212, provided that: “Notwithstanding another law, the President is not required to submit a two-year budget request for the Coast Guard until the President is required to submit a two-year budget request for the Department of Transportation.”
 
-\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 Pub. L. 100–448, §24, Sept. 28, 1988, 102 Stat. 1847, provided that:
 

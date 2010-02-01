@@ -34,17 +34,17 @@
 
 #### (ii) Transition period; exemption regarding non-AIDS cases
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2009, an eligible area is, subject to clauses (iii) through (v), exempt from the requirement under clause (i) that living names-based non-AIDS cases of HIV be reported unless—
+&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2012, an eligible area is, subject to clauses (iii) through (v), exempt from the requirement under clause (i) that living names-based non-AIDS cases of HIV be reported unless—
 
 &emsp;&emsp;&emsp;&emsp;(I) a system was in operation as of December 31, 2005, that provides sufficiently accurate and reliable names-based reporting of such cases throughout the State in which the area is located, subject to clause (viii); or
 
-&emsp;&emsp;&emsp;&emsp;(II) no later than the beginning of fiscal year 2008 or 2009, the Secretary, in consultation with the chief executive of the State in which the area is located, determines that a system has become operational in the State that provides sufficiently accurate and reliable names-based reporting of such cases throughout the State.
+&emsp;&emsp;&emsp;&emsp;(II) no later than the beginning of fiscal year 2008 or a subsequent fiscal year through fiscal year 2012, the Secretary, in consultation with the chief executive of the State in which the area is located, determines that a system has become operational in the State that provides sufficiently accurate and reliable names-based reporting of such cases throughout the State.
 
 #### (iii) Requirements for exemption for fiscal year 2007
 
 &emsp;&emsp;&emsp;For fiscal year 2007, an exemption under clause (ii) for an eligible area applies only if, by October 1, 2006—
 
-&emsp;&emsp;&emsp;&emsp;(I)(aa) the State in which the area is located had submitted to the Secretary aplan for making the transition to sufficiently accurate and reliable names-based reporting of living non-AIDS cases of HIV; or
+&emsp;&emsp;&emsp;&emsp;(I)(aa) the State in which the area is located had submitted to the Secretary a plan for making the transition to sufficiently accurate and reliable names-based reporting of living non-AIDS cases of HIV; or
 
 &emsp;&emsp;&emsp;&emsp;(bb) all statutory changes necessary to provide for sufficiently accurate and reliable reporting of such cases had been made; and
 
@@ -52,11 +52,11 @@
 
 #### (iv) Requirement for exemption as of fiscal year 2008
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2008 through 2010, an exemption under clause (ii) for an eligible area applies only if, as of April 1, 2008, the State in which the area is located is substantially in compliance with the agreement under clause (iii)(II).
+&emsp;&emsp;&emsp;For each of the fiscal years 2008 through 2012, an exemption under clause (ii) for an eligible area applies only if, as of April 1, 2008, the State in which the area is located is substantially in compliance with the agreement under clause (iii)(II).
 
 #### (v) Progress toward names-based reporting
 
-&emsp;&emsp;&emsp;For fiscal year 2009, the Secretary may terminate an exemption under clause (ii) for an eligible area if the State in which the area is located submitted a plan under clause (iii)(I)(aa) and the Secretary determines that the State is not substantially following the plan.
+&emsp;&emsp;&emsp;For fiscal year 2009 or a subsequent fiscal year, the Secretary may terminate an exemption under clause (ii) for an eligible area if the State in which the area is located submitted a plan under clause (iii)(I)(aa) and the Secretary determines that the State is not substantially following the plan.
 
 #### (vi) Counting of cases in areas with exemptions
 
@@ -66,7 +66,17 @@
 
 #### (II) Adjustment rate
 
-&emsp;&emsp;&emsp;&emsp;The adjustment rate under subclause (I) for an eligible area shall be a reduction of 5 percent in the number of living non-AIDS cases of HIV reported for the area.
+&emsp;&emsp;&emsp;&emsp;The adjustment rate under subclause (I) for an eligible area shall be a reduction of 5 percent for fiscal years before fiscal year 2012 (and 6 percent for fiscal year 2012) in the number of living non-AIDS cases of HIV reported for the area.
+
+#### (III) Increased adjustment for certain areas previously using code-based reporting
+
+&emsp;&emsp;&emsp;&emsp;For purposes of this subparagraph for each of fiscal years 2010 through 2012, the Secretary shall deem the applicable number of living cases of HIV/AIDS in an area that were reported to and confirmed by the Centers for Disease Control and Prevention to be 3 percent higher than the actual number if—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) for fiscal year 2007, such area was a transitional area;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) fiscal year 2007 was the first year in which the count of living non-AIDS cases of HIV in such area, for purposes of this section, was based on a names-based reporting system; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the amount of funding that such area received under this part for fiscal year 2007 was less than 70 percent of the amount of funding (exclusive of funds that were identified as being for purposes of the Minority AIDS Initiative) that such area received under such part for fiscal year 2006.
 
 #### (vii) Multiple political jurisdictions
 
@@ -94,35 +104,41 @@
 
 #### (II) Applicability of exemption requirements
 
-&emsp;&emsp;&emsp;&emsp;The provisions of clauses (ii) through (viii) may not be construed as having any legal effect for fiscal year 2010 or any subsequent fiscal year, and accordingly, the status of a State for purposes of such clauses may not be considered after fiscal year 2009.
+&emsp;&emsp;&emsp;&emsp;The provisions of clauses (ii) through (viii) may not be construed as having any legal effect for fiscal year 2013 or any subsequent fiscal year, and accordingly, the status of a State for purposes of such clauses may not be considered after fiscal year 2012.
 
 #### (x) Program for detecting inaccurate or fraudulent counting
 
 &emsp;&emsp;&emsp;The Secretary shall carry out a program to monitor the reporting of names-based cases for purposes of this subparagraph and to detect instances of inaccurate reporting, including fraudulent reporting.
 
+#### (xi) Future fiscal years
+
+&emsp;&emsp;&emsp;For fiscal years beginning with fiscal year 2013, determinations under this paragraph shall be based only on living names-based cases of HIV/AIDS with respect to the area involved.
+
 #### (D) Code-based areas; limitation on increase in grant
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2009, if code-based reporting (within the meaning of subparagraph (C)(vi)) applies in an eligible area or any portion thereof as of the beginning of the fiscal year involved, then notwithstanding any otherprovision of this paragraph, the amount of the grant pursuant to this paragraph for such area for such fiscal year may not—
+&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2012, if code-based reporting (within the meaning of subparagraph (C)(vi)) applies in an eligible area or any portion thereof as of the beginning of the fiscal year involved, then notwithstanding any other provision of this paragraph, the amount of the grant pursuant to this paragraph for such area for such fiscal year may not—
 
 &emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2007, exceed by more than 5 percent the amount of the grant for the area that would have been made pursuant to this paragraph and paragraph (4) for fiscal year 2006 (as such paragraphs were in effect for such fiscal year) if paragraph (2) (as so in effect) had been applied by substituting “662/3 percent” for “50 percent”; and
 
-&emsp;&emsp;&emsp;&emsp;(II) for each of the fiscal years 2008 and 2009, exceed by more than 5 percent the amount of the grant pursuant to this paragraph and paragraph (4) for the area for the preceding fiscal year.
+&emsp;&emsp;&emsp;&emsp;(II) for each of the fiscal years 2008 through 2012, exceed by more than 5 percent the amount of the grant pursuant to this paragraph and paragraph (4) for the area for the preceding fiscal year.
 
 #### (ii) Use of amounts involved
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2009, amounts available as a result of the limitation under clause (i) shall be made available by the Secretary as additional amounts for grants pursuant to subsection (b) for the fiscal year involved, subject to paragraph (4) and section 300ff–20(d)(2) of this title.
+&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2012, amounts available as a result of the limitation under clause (i) shall be made available by the Secretary as additional amounts for grants pursuant to subsection (b) for the fiscal year involved, subject to paragraph (4) and section 300ff–20(d)(2) of this title.
 
 #### (4) Increases in grant
 
 #### (A) In general
 
-&emsp;&emsp;For each eligible area that received a grant pursuant to this subsection for fiscal year 2006, the Secretary shall, for each of the fiscal years 2007 through 2009, increase the amount of the grant made pursuant to paragraph (3) for the area to ensure that the amount of the grant for the fiscal year involved is not less than the following amount, as applicable to such fiscal year:
+&emsp;&emsp;For each eligible area that received a grant pursuant to this subsection for fiscal year 2009, the Secretary shall, for each of the fiscal years 2010 through 2013, increase the amount of the grant made pursuant to paragraph (3) for the area to ensure that the amount of the grant for the fiscal year involved is not less than the following amount, as applicable to such fiscal year:
 
-&emsp;&emsp;&emsp;(i) For fiscal year 2007, an amount equal to 95 percent of the amount of the grant that would have been made pursuant to paragraph (3) and this paragraph for fiscal year 2006 (as such paragraphs were in effect for such fiscal year) if paragraph (2) (as so in effect) had been applied by substituting “662/3 percent” for “50 percent”.
+&emsp;&emsp;&emsp;(i) For fiscal year 2010, an amount equal to 95 percent of the sum of the amount of the grant made pursuant to paragraph (3) and this paragraph for fiscal year 2009.
 
-&emsp;&emsp;&emsp;(ii) For each of the fiscal years 2008 and 2009, an amount equal to 100 percent of the amount of the grant made pursuant to paragraph (3) and this paragraph for fiscal year 2007.
+&emsp;&emsp;&emsp;(ii) For each of the fiscal years 2011 and 2012, an amount equal to 100 percent of the amount of the grant made pursuant to paragraph (3) and this paragraph for fiscal year 2010.
+
+&emsp;&emsp;&emsp;(iii) For fiscal year 2013, an amount equal to 92.5 percent of the amount of the grant made pursuant to paragraph (3) and this paragraph for fiscal year 2012.
 
 #### (B) Source of funds for increase
 
@@ -136,7 +152,7 @@
 
 #### (C) Limitation
 
-&emsp;&emsp;This paragraph may not be construed as having any applicability after fiscal year 2009.
+&emsp;&emsp;This paragraph may not be construed as having any applicability after fiscal year 2013.
 
 #### (b) Supplemental grants
 
@@ -156,19 +172,27 @@
 
 &emsp;&emsp;(F) demonstrates the inclusiveness of affected communities and individuals with HIV/AIDS;
 
-&emsp;&emsp;(G) demonstrates the manner in which the proposed services are consistent with the local needs assessment and the statewide coordinated statement of need; and
+&emsp;&emsp;(G) demonstrates the manner in which the proposed services are consistent with the local needs assessment and the statewide coordinated statement of need;
 
-&emsp;&emsp;(H) demonstrates the ability of the applicant to expend funds efficiently by not having had, for the most recent grant year under subsection (a) for which data is available, more than 2 percent of grant funds under such subsection canceled or covered by any waivers under subsection (c)(3).
+&emsp;&emsp;(H) demonstrates the ability of the applicant to expend funds efficiently by not having had, for the most recent grant year under subsection (a) for which data is available, more than 5 percent of grant funds under such subsection canceled, offset under subsection (c)(4), or covered by any waivers under subsection (c)(3); and
+
+&emsp;&emsp;(I) demonstrates success in identifying individuals with HIV/AIDS as described in clauses (i) through (iii) of paragraph (2)(A).
 
 #### (2) Amount of grant
 
 #### (A) In general
 
-&emsp;&emsp;The amount of each grant made for purposes of this subsection shall be determined by the Secretary based on a weighting of factors under paragraph (1), with demonstrated need under subparagraph (B) of such paragraph counting one-third.
+&emsp;&emsp;The amount of each grant made for purposes of this subsection shall be determined by the Secretary based on a weighting of factors under paragraph (1), with demonstrated need under subparagraph (B) of such paragraph counting one-third, and demonstrated success in identifying individuals with HIV/AIDS who do not know their HIV status and making them aware of such status counting one-third. In making such determination, the Secretary shall consider—
+
+&emsp;&emsp;&emsp;(i) the number of individuals who have been tested for HIV/AIDS;
+
+&emsp;&emsp;&emsp;(ii) of those individuals described in clause (i), the number of individuals who tested for HIV/AIDS who are made aware of their status, including the number who test positive; and
+
+&emsp;&emsp;&emsp;(iii) of those individuals described in clause (ii), the number who have been referred to appropriate treatment and care.
 
 #### (B) Demonstrated need
 
-&emsp;&emsp;The factors considered by the Secretary in determining whether an eligible area has a demonstrated need for purposes of paragraph\(1)(B) may include any or all of the following:
+&emsp;&emsp;The factors considered by the Secretary in determining whether an eligible area has a demonstrated need for purposes of paragraph (1)(B) may include any or all of the following:
 
 &emsp;&emsp;&emsp;(i) The unmet need for such services, as determined under section 300ff–12(b)(4) of this title or other community input process as defined under section 300ff–19(d)(1)(A) of this title.
 
@@ -186,13 +210,17 @@
 
 &emsp;&emsp;&emsp;(viii) The prevalence of individuals described under section 300ff–12(b)(2)(M) of this title.
 
-&emsp;&emsp;&emsp;(ix) The relevant factors that limit access to health care, including geographic variation, adequacy of health insurance coverage, and language barriers.
+&emsp;&emsp;&emsp;(ix) The relevant factors that limit access to health care, including geographicvariation, adequacy of health insurance coverage, and language barriers.
 
 &emsp;&emsp;&emsp;(x) The impact of a decline in the amount received pursuant to subsection (a) on services available to all individuals with HIV/AIDS identified and eligible under this subchapter.
 
 #### (C) Priority in making grants
 
 &emsp;&emsp;The Secretary shall provide funds under this subsection to an eligible area to address the decline or disruption of all EMA-provided services related to the decline in the amounts received pursuant to subsection (a) consistent with the grant award for the eligible area for fiscal year 2006, to the extent that the factor under subparagraph (B)(x) (relating to a decline in funding) applies to the eligible area.
+
+#### (D) Increased adjustment for certain areas previously using code-based reporting
+
+&emsp;&emsp;For purposes of this subsection for each of fiscal years 2010 through 2012, the Secretary shall deem the applicable number of living cases of HIV/AIDS in an area that were reported to and confirmed by the Centers for Disease Control and Prevention to be 3 percent higher than the actual number if the conditions described in items (aa) through (cc) of subsection (a)(3)(C)(vi)(III) are all satisfied.
 
 #### (3) Remainder of amounts
 
@@ -254,15 +282,19 @@
 
 &emsp;&emsp;&emsp;In the case of an eligible area for which a balance from a grant award under subsection (a) is unobligated as of the end of the grant year for the award—
 
-&emsp;&emsp;&emsp;&emsp;(I) the Secretary shall reduce, by the same amount as such unobligated balance, the amount of the grant under such subsection for the first fiscal year beginning after the fiscal year in which the Secretary obtains the information necessary for determining that such balance was unobligated as of the end of the grant year (which requirement for a reduction applies without regard to whether a waiver under subparagraph (A) has been approved with respect to such balance); and
+&emsp;&emsp;&emsp;&emsp;(I) the Secretary shall reduce, by the same amount as such unobligated balance (less any amount of such balance that is the subject of a waiver of cancellation under subparagraph (A)), the amount of the grant under such subsection for the first fiscal year beginning after the fiscal year in which the Secretary obtains the information necessary for determining that such balance was unobligated as of the end of the grant year (which requirement for a reduction applies without regard to whether a waiver under subparagraph (A) has been approved with respect to such balance); and
 
 &emsp;&emsp;&emsp;&emsp;(II) the grant funds involved in such reduction shall be made available by the Secretary as additional funds for grants pursuant to subsection (b) for such first fiscal year, subject to subsection (a)(4) and section 300ff–20(d)(2) of this title;
 
-&emsp;&emsp;&nbsp;except that this clause does not apply to the eligible area if the amount of the unobligated balance was 2 percent or less.
+&emsp;&emsp;&nbsp;except that this clause does not apply to the eligible area if the amount of the unobligated balance was 5 percent or less.
 
 #### (ii) Relation to increases in grant
 
 &emsp;&emsp;&emsp;A reduction under clause (i) for an eligible area for a fiscal year may not be taken into account in applying subsection (a)(4) with respect to the area for the subsequent fiscal year.
+
+#### (4) Authority regarding administration of provisions
+
+&emsp;In administering paragraphs (2) and (3) with respect to the unobligated balance of an eligible area, the Secretary may elect to reduce the amount of future grants to the area under subsection (a) or (b), as applicable, by the amount of any such unobligated balance in lieu of cancelling such amount as provided for in paragraph (2) or (3)(A). In such case, the Secretary may permit the area to use such unobligated balance for purposes of any such future grant. An amount equal to such reduction shall be available for use as additional amounts for grants pursuant to subsection (b), subject to subsection (a)(4) and section 300ff–20(d)(2) of this title. Nothing in this paragraph shall be construed to affect the authority of the Secretary under paragraphs (2) and (3), including the authority to grant waivers under paragraph (3)(A). The reduction in future grants authorized under this paragraph shall be notwithstanding the penalty required under paragraph (3)(D) with respect to unobligated funds.
 
 #### (d) Compliance with priorities of HIV planning council
 
@@ -282,11 +314,7 @@ Not later than 45 days after the awarding of supplemental funds under this secti
 
 &emsp;(5) the rationale used for the amount of funds disbursed as described under paragraphs (2), (3), and (4).
 
-(July 1, 1944, ch. 373, title XXVI, §2603, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 578; amended Pub. L. 101–502, §6(a), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 102–531, title III, §312(d)(27), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(b)(2), (3), 4, 6(c)(1), 12(c)(2), May 20, 1996, 110 Stat. 1349, 1350, 1364, 1367, 1373; Pub. L. 106–345, title I, §§102(d), 111, 112, Oct. 20, 2000, 114 Stat. 1323, 1326; Pub. L. 109–415, title I, §§102–104, 107(b), title VII, §702(3), Dec. 19, 2006, 120 Stat. 2768–2774, 2783, 2820.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2603, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 578; amended Pub. L. 101–502, §6(a), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 102–531, title III, §312(d)(27), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(b)(2), (3), 4, 6(c)(1), 12(c)(2), May 20, 1996, 110 Stat. 1349, 1350, 1364, 1367, 1373; Pub. L. 106–345, title I, §§102(d), 111, 112, Oct. 20, 2000, 114 Stat. 1323, 1326; Pub. L. 109–415, title I, §§102–104, 107(b), title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2768–2774, 2783, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 3(a), 5(a), 6(b), 7(a), 8(a)(1), (b)(1)(A), (2)(A), (C), (c)(1), Oct. 30, 2009, 123 Stat. 2885, 2888, 2890, 2892–2894.)
 
 #### References in Text
 
@@ -298,9 +326,57 @@ A prior section 2603 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-2006—Subsec. (a)(2). Pub. L. 109–415, §107(b), substituted “this subpart” for “this part”.
+2009—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009; Revival of Section note below.
 
-Pub. L. 109–415, §102(a), substituted “662/3 percent of the amount made available under section 300ff–20(b) of this title for carrying out this subpart” for “50 percent of the amount appropriated under section 300ff–77 of this title” and “paragraphs (3) and (4)” for “paragraph (3)” in first sentence and struck out last sentence which read as follows: “The Secretary shall reserve an additional percentage of the amount appropriatedunder section 300ff–77 of this title for a fiscal year for grants under this part to make grants to eligible areas under section 300ff–11(a) of this title in accordance with paragraph (4).”
+Subsec. (a)(3)(C)(ii). Pub. L. 111–87, §3(a)(1)(A)(i), substituted “2012” for “2009” in introductory provisions.
+
+Subsec. (a)(3)(C)(ii)(II). Pub. L. 111–87, §3(a)(1)(A)(ii), substituted “or a subsequent fiscal year through fiscal year 2012” for “or 2009”.
+
+Subsec. (a)(3)(C)(iv). Pub. L. 111–87, §3(a)(1)(B), substituted “2012” for “2010”.
+
+Subsec. (a)(3)(C)(v). Pub. L. 111–87, §3(a)(1)(C), inserted “or a subsequent fiscal year” after “2009”.
+
+Subsec. (a)(3)(C)(vi)(II). Pub. L. 111–87, §3(a)(1)(D), inserted “for fiscal years before fiscal year 2012 (and 6 percent for fiscal year 2012)” after “5 percent”.
+
+Subsec. (a)(3)(C)(vi)(III). Pub. L. 111–87, §7(a)(1), added subcl. (III).
+
+Subsec. (a)(3)(C)(ix)(II). Pub. L. 111–87, §3(a)(1)(E), substituted “2013” for “2010” and “2012” for “2009”.
+
+Subsec. (a)(3)(C)(xi). Pub. L. 111–87, §3(a)(1)(F), added cl. (xi).
+
+Subsec. (a)(3)(D)(i). Pub. L. 111–87, §3(a)(2)(A)(i), substituted “2012” for “2009” in introductory provisions.
+
+Subsec. (a)(3)(D)(i)(II). Pub. L. 111–87, §3(a)(2)(A)(ii), substituted “through 2012” for “and 2009”.
+
+Subsec. (a)(3)(D)(ii). Pub. L. 111–87, §3(a)(2)(B), substituted “2012” for “2009”.
+
+Subsec. (a)(4)(A). Pub. L. 111–87, §5(a)(1), (2), substituted “2009” for “2006” and “2010 through 2013” for “2007 through 2009” in introductory provisions, added cls. (i) to (iii), and struck out former cls. (i) and (ii) which read as follows:
+
+“(i) For fiscal year 2007, an amount equal to 95 percent of the amount of the grant that would have been made pursuant to paragraph (3) and this paragraph for fiscal year 2006 (as such paragraphs were in effect for such fiscal year) if paragraph (2) (as so in effect) had been applied by substituting ‘662/3 percent’ for ‘50 percent’.
+
+“(ii) For each of the fiscal years 2008 and 2009, an amount equal to 100 percent of the amount of the grant made pursuant to paragraph (3) and this paragraph for fiscal year 2007.”
+
+Subsec. (a)(4)(C). Pub. L. 111–87, §5(a)(3), substituted “2013” for “2009”.
+
+Subsec. (b)(1)(H). Pub. L. 111–87, §8(a)(1), (b)(2)(C), substituted “5 percent” for “2 percent” and “canceled, offset under subsection (c)(4),” for “canceled”.
+
+Subsec. (b)(1)(I). Pub. L. 111–87, §6(b)(1), added subpar. (I).
+
+Subsec. (b)(2)(A). Pub. L. 111–87, §6(b)(2), substituted “one-third, and demonstrated success in identifying individuals with HIV/AIDS who do not know their HIV status and making them aware of such status counting one-third. In making such determination, the Secretary shall consider—” for “one-third.” and added cls. (i) to (iii).
+
+Subsec. (b)(2)(D). Pub. L. 111–87, §7(a)(2), added subpar. (D).
+
+Subsec. (c)(3)(D)(i). Pub. L. 111–87, §8(b)(1)(A), substituted “5 percent” for “2 percent” in concluding provisions.
+
+Subsec. (c)(3)(D)(i)(I). Pub. L. 111–87, §8(c)(1), inserted “(less any amount of such balance that is the subject of a waiver of cancellation under subparagraph (A))” after “unobligated balance”.
+
+Subsec. (c)(4). Pub. L. 111–87, §8(b)(2)(A), added par. (4).
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+Subsec. (a)(2). Pub. L. 109–415, §107(b), substituted “this subpart” for “this part”.
+
+Pub. L. 109–415, §102(a), substituted “662/3 percent of the amount made available under section 300ff–20(b) of this title for carrying out this subpart” for “50 percent of the amount appropriated under section 300ff–77 of this title” and “paragraphs (3) and (4)” for “paragraph (3)” in first sentence and struck out last sentence which read as follows: “The Secretary shall reserve an additional percentage of the amount appropriated under section 300ff–77 of this title for a fiscal year for grants under this part to make grants to eligible areas under section 300ff–11(a) of this title in accordance with paragraph (4).”
 
 Subsec. (a)(3)(A). Pub. L. 109–415, §102(d)(1), inserted concluding provisions.
 
@@ -444,7 +520,11 @@ Amount relating to per capita incidence of cases.—The amount referred to in cl
 
 &emsp;&emsp;“(I) the per capita incidence of cumulative cases of acquired immune deficiency syndrome in the eligible area involved (computed on the basis of the most recently available data on the population of the area); to
 
-&emsp;&emsp;“(II) the per capita incidence of such cumulative cases in all eligible areas for which an application for a grant under paragraph (1) has been approved (computed on the basis of the most recently available data on the population of such areas).”
+&emsp;&emsp;“(II) the per capita incidence of such cumulative cases in all eligible areas for which an applicationfor a grant under paragraph (1) has been approved (computed on the basis of the most recently available data on the population of such areas).”
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by sections 3(a), 5(a), 6(b), 7(a), and 8(a)(1), (b)(1)(A), (2)(A), (C), (c)(1) of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 1996 Amendment
 

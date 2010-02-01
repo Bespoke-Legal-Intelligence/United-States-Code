@@ -2,33 +2,31 @@
 
 (a)
 
-Right of Defense Counsel.—Defense counsel in a military commission under this chapter shall have a reasonable opportunity to obtain witnesses and other evidence as provided in regulations prescribed by the Secretary of Defense.
+In General.—(1) Defense counsel in a military commission under this chapter shall have a reasonable opportunity to obtain witnesses and other evidence as provided in regulations prescribed by the Secretary of Defense. The opportunity to obtain witnesses and evidence shall be comparable to the opportunity available to a criminal defendant in a court of the United States under article III of the Constitution.
+
+(2) Process issued in military commissions under this chapter to compel witnesses to appear and testify and to compel the production of other evidence—
+
+&emsp;(A) shall be similar to that which courts of the United States having criminal jurisdiction may lawfully issue; and
+
+&emsp;(B) shall run to any place where the United States shall have jurisdiction thereof.
 
 (b)
 
-Process for Compulsion.—Process issued in a military commission under this chapter to compel witnesses to appear and testify and to compel the production of other evidence—
+Disclosure of Exculpatory Evidence.—(1) As soon as practicable, trial counsel in a military commission under this chapter shall disclose to the defense the existence of any evidence that reasonably tends to—
 
-&emsp;(1) shall be similar to that which courts of the United States having criminal jurisdiction may lawfully issue; and
+&emsp;(A) negate the guilt of the accused of an offense charged; or
 
-&emsp;(2) shall run to any place where the United States shall have jurisdiction thereof.
+&emsp;(B) reduce the degree of guilt of the accused with respect to an offense charged.
 
-(c)
+(2) The trial counsel shall, as soon as practicable, disclose to the defense the existence of evidence that reasonably tends to impeach the credibility of a witness whom the government intends to call at trial.
 
-Protection of Classified Information.—(1) With respect to the discovery obligations of trial counsel under this section, the military judge, upon motion of trial counsel, shall authorize, to the extent practicable—
+(3) The trial counsel shall, as soon as practicable upon a finding of guilt, disclose to the defense the existence of evidence that is not subject to paragraph (1) or paragraph (2) but that reasonably may be viewed as mitigation evidence at sentencing.
 
-&emsp;(A) the deletion of specified items of classified information from documents to be made available to the accused;
+(4) The disclosure obligations under this subsection encompass evidence that is known or reasonably should be known to any government officials who participated in the investigation and prosecution of the case against the defendant.
 
-&emsp;(B) the substitution of a portion or summary of the information for such classified documents; or
+(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2587.)
 
-&emsp;(C) the substitution of a statement admitting relevant facts that the classified information would tend to prove.
+#### Prior Provisions
 
-(2) The military judge, upon motion of trial counsel, shall authorize trial counsel, in the course of complying with discovery obligations under this section, to protect from disclosure the sources, methods, or activities by which the United States acquired evidence if the military judge finds that the sources, methods, or activities by which the United States acquired such evidence are classified. The military judge may require trial counsel to provide, to the extent practicable, an unclassified summary of the sources, methods, or activities by which the United States acquired such evidence.
-
-(d)
-
-Exculpatory Evidence.—(1) As soon as practicable, trial counsel shall disclose to the defense the existence of any evidence known to trial counsel that reasonably tends to exculpate the accused. Where exculpatory evidence is classified, the accused shall be provided with an adequate substitute in accordance with the procedures under subsection (c).
-
-(2) In this subsection, the term “evidence known to trial counsel”, in the case of exculpatory evidence, means exculpatory evidence that the prosecution would be required to disclose in a trial by general court-martial under chapter 47 of this title.
-
-(Added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2614.)
+A prior section 949j, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2614, related to the opportunity to obtain witnesses and other evidence, prior to the general amendment of this chapter by Pub. L. 111–84.
 

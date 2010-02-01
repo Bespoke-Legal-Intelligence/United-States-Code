@@ -12,7 +12,7 @@ No individual shall be discriminated against on the basis of disability in the f
 
 #### (i) Denial of participation
 
-&emsp;&emsp;&emsp;It shall be discriminatory to subject an individual or class of individuals on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements, to a denial of the opportunity of the individual or class to participate in or benefit from the goods, services, facilities, privileges, advantages, or accommodations of an entity.
+&emsp;&emsp;&emsp;It shall be discriminatory to subject an individual or class of individuals on thebasis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements, to a denial of the opportunity of the individual or class to participate in or benefit from the goods, services, facilities, privileges, advantages, or accommodations of an entity.
 
 #### (ii) Participation in unequal benefit
 
@@ -66,7 +66,7 @@ No individual shall be discriminated against on the basis of disability in the f
 
 #### (i) Accessibility
 
-&emsp;&emsp;&emsp;It shall be considered discrimination for a private entity which operates a fixed route system and which is not subject to section 12184 of this title to purchase or lease a vehicle with a seating capacity in excess of 16 passengers (including the driver) for use on such system, for which a solicitation is made after the 30th day following the effective date of this subparagraph, that is not readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.
+&emsp;&emsp;&emsp;It shall be considered discrimination for a private entity which operates a fixed route system and which is not subject to section 12184 of this title to purchase orlease a vehicle with a seating capacity in excess of 16 passengers (including the driver) for use on such system, for which a solicitation is made after the 30th day following the effective date of this subparagraph, that is not readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.
 
 #### (ii) Equivalent service
 

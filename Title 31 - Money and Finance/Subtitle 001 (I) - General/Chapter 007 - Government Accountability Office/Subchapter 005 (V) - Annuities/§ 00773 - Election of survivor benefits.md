@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(C) 4 percent interest before January 1, 1948, and 3 percent interest after December 31, 1947, compounded every December 31, on amounts deposited.
 
-(c) This subchapter does not prevent a surviving spouse or dependent child from receiving another annuity while receiving an annuity under section 774 of this title. However, service used incomputing an annuity under section 774 may not be used in computing the other annuity.
+(c) This subchapter does not prevent a surviving spouse or dependent child from receiving another annuity while receiving an annuity under section 774 of this title. However, service used in computing an annuity under section 774 may not be used in computing the other annuity.
 
 (d) The reduction in the Comptroller General's annuity under subsection (b)(1) for the purpose of providing survivor benefits shall be terminated for each full month after the death of the spouse.
 

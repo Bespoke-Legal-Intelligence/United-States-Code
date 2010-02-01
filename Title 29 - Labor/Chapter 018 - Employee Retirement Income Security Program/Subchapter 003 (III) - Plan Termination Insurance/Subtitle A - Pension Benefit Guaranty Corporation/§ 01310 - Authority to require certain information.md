@@ -12,7 +12,7 @@ Each person described in subsection (b) of this section shall provide the corpor
 
 The persons covered by subsection (a) of this section are each contributing sponsor, and each member of a contributing sponsor's controlled group, of a single-employer plan covered by this subchapter, if—
 
-&emsp;(1) the funding target attainment percentage (as defined in subsection (d)) at the end of the preceding plan year of a plan maintained by the contributing sponsor or any member of its controlled group is less than 80 percent;
+&emsp;(1) the funding target attainment percentage (as defined in subsection (d)) at the end of thepreceding plan year of a plan maintained by the contributing sponsor or any member of its controlled group is less than 80 percent;
 
 &emsp;(2) the conditions for imposition of a lien described in section 1083(k)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) of title 26 have been met with respect to any plan maintained by the contributing sponsor or any member of its controlled group; or
 

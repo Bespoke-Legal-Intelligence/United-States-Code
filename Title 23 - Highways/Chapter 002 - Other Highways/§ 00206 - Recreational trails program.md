@@ -194,7 +194,7 @@ Planning and environmental assessment costs incurred prior to project approval.�
 
 &emsp;(2)
 
-Recreational purpose.—A project funded under this section is intended to enhance recreational opportunity and is not subject to section 138 of this title or section 303 of title 49.
+Recreational purpose.—A project funded under this section is intended to enhancerecreational opportunity and is not subject to section 138 of this title or section 303 of title 49.
 
 &emsp;(3)
 

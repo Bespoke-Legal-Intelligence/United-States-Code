@@ -36,7 +36,7 @@ No owner or employee of any entity that serves as a medium in which an advertise
 
 &emsp;&emsp;&emsp;&emsp;(II) a written advertisement that—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) appears in a publication in general circulation in the community served by the radio station on which such advertisement is broadcast duringthe period beginning 3 days before any such broadcast and ending 10 days after such broadcast; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) appears in a publication in general circulation in the community served by the radio station on which such advertisement is broadcast during the period beginning 3 days before any such broadcast and ending 10 days after such broadcast; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) includes the information required to be disclosed under subsection (a) of this section; and
 
@@ -64,7 +64,7 @@ No owner or employee of any entity that serves as a medium in which an advertise
 
 &emsp;Nothing in this subsection shall affect the requirements of Federal law as such requirements apply to advertisement by any medium other than radio broadcast.
 
-(Pub. L. 90–321, title I, §184, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 259; amended Pub. L. 103–325, title III, §336(a), Sept. 23, 1994, 108 Stat. 2234; Pub. L. 104–208, div. A, title II, §2605(c), Sept. 30, 1996, 110 Stat. 3009–473.)
+(Pub. L. 90–321, title I, §184, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 259; amendedPub. L. 103–325, title III, §336(a), Sept. 23, 1994, 108 Stat. 2234; Pub. L. 104–208, div. A, title II, §2605(c), Sept. 30, 1996, 110 Stat. 3009–473.)
 
 #### Amendments
 

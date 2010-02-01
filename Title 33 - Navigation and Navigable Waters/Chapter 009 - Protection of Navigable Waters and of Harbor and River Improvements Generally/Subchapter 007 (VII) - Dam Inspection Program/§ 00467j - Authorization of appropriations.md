@@ -64,7 +64,7 @@ Subsec. (b). Pub. L. 109–460, §1(d)(2), substituted “$650,000 for fiscal ye
 
 Subsec. (c). Pub. L. 109–460, §1(d)(3), substituted “$1,600,000 for fiscal year 2007, $1,700,000 for fiscal year 2008, $1,800,000 for fiscal year 2009, $1,900,000 for fiscal year 2010, and $2,000,000 for fiscal year 2011” for “$1,500,000 for each of fiscal years 2003 through 2006”.
 
-Subsec. (d). Pub. L. 109–460, §1(d)(4), substituted “$550,000 for fiscal year 2007, $600,000 for fiscal year 2008, $650,000 for fiscal year 2009, $700,000 for fiscal year 2010, and $750,000 for fiscal year 2011” for “$500,000 for each of fiscal years 2003 through 2006”.
+Subsec. (d). Pub. L. 109–460, §1(d)(4), substituted “$550,000 for fiscal year 2007, $600,000 for fiscal year 2008, $650,000 for fiscal year 2009, $700,000 for fiscal year 2010,and $750,000 for fiscal year 2011” for “$500,000 for each of fiscal years 2003 through 2006”.
 
 Subsec. (e). Pub. L. 109–460, §1(d)(5), substituted “$700,000 for fiscal year 2007, $800,000 for fiscal year 2008, $900,000 for fiscal year 2009, $1,000,000 for fiscal year 2010, and $1,100,000 for fiscal year 2011” for “$600,000 for each of fiscal years 2003 through 2006”.
 
@@ -80,7 +80,7 @@ Subsecs. (c) to (e). Pub. L. 107–310, §7(c), added subsecs. (c) to (e) and st
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

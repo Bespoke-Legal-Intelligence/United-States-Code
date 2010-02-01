@@ -26,7 +26,7 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 &emsp;&emsp;(iii) the satellite carrier complies with any network nonduplication, syndicated exclusivity, and sports blackout rules adopted by the Commission under section 339(b) of this title;
 
-&emsp;(C) until December 31, 2009, to retransmission of the signals of network stations directly to a home satellite antenna, if the subscriber receiving the signal—
+&emsp;(C) until February 28, 2010, to retransmission of the signals of network stations directly to a home satellite antenna, if the subscriber receiving the signal—
 
 &emsp;&emsp;(i) is located in an area outside the local market of such stations; and
 
@@ -40,7 +40,7 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 &emsp;(E) during the 6-month period beginning on November 29, 1999, to the retransmission of the signal of a television broadcast station within the station's local market by a satellite carrier directly to its subscribers under the statutory license of section 122 of title 17.
 
-> For purposes of this paragraph, the terms “satellite carrier” and “superstation” have the meanings given those terms, respectively, insection 119(d) of title 17, as in effect on October 5, 1992, the term “unserved household” has the meaning given that term under section 119(d) of such title, and the term “local market” has the meaning given that term in section 122(j) of such title.
+> For purposes of this paragraph, the terms “satellite carrier” and “superstation” have the meanings given those terms, respectively, in section 119(d) of title 17, as in effect on October 5, 1992, the term “unserved household” has the meaning given that term under section 119(d) of such title, and the term “local market” has the meaning given that term in section 122(j) of such title.
 
 (3)(A) Within 45 days after October 5, 1992, the Commission shall commence a rulemaking proceeding to establish regulations to govern the exercise by television broadcast stations of the right to grant retransmission consent under this subsection and of the right to signal carriage under section 534 of this title, and such other regulations as are necessary to administer the limitations contained in paragraph (2). The Commission shall consider in such proceeding the impact that the grant of retransmission consent by television stations may have on the rates for the basic service tier and shall ensure that the regulations prescribed under this subsection do not conflict with the Commission's obligation under section 543(b)(1) of this title to ensure that the rates for the basic service tier are reasonable. Such rulemaking proceeding shall be completed within 180 days after October 5, 1992.
 
@@ -50,9 +50,9 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 &emsp;(i) establish election time periods that correspond with those regulations adopted under subparagraph (B) of this paragraph;
 
-&emsp;(ii) until January 1, 2010, prohibit a television broadcast station that provides retransmission consent from engaging in exclusive contracts for carriage or failing to negotiate in good faith, and it shall not be a failure to negotiate in good faith if the television broadcast station enters into retransmission consent agreements containing different terms and conditions, including price terms, with different multichannel video programming distributors if such different terms and conditions are based on competitive marketplace considerations; and
+&emsp;(ii) until March 1, 2010, prohibit a television broadcast station that provides retransmission consent from engaging in exclusive contracts for carriage or failing to negotiate in good faith, and it shall not be a failure to negotiate in good faith if the television broadcast station enters into retransmission consent agreements containing different terms and conditions, including price terms, with different multichannel video programming distributors if such different terms and conditions are based on competitive marketplace considerations; and
 
-&emsp;(iii) until January 1, 2010, prohibit a multichannel video programming distributor from failing to negotiate in good faith for retransmission consent under this section, and it shall not be a failure to negotiate in good faith if the distributor enters into retransmission consent agreements containing different terms and conditions, including price terms, with different broadcast stations if such different terms and conditions are based on competitive marketplace considerations.
+&emsp;(iii) until March 1, 2010, prohibit a multichannel video programming distributor from failing to negotiate in good faith for retransmission consent under this section, and it shall not be a failure to negotiate in good faith if the distributor enters into retransmission consent agreements containing different terms and conditions, including price terms, with different broadcast stations if such different terms and conditions are based on competitive marketplace considerations.
 
 (4) If an originating television station elects under paragraph (3)(B) to exercise its right to grant retransmission consent under this subsection with respect to a cable system, the provisions of section 534 of this title shall not apply to the carriage of the signal of such station by such cable system. If an originating television station elects under paragraph (3)(C) to exercise its right to grant retransmission consent under this subsection with respect to a satellite carrier, section 338 of this title shall not apply to the carriage of the signal of such station by such satellite carrier.
 
@@ -104,7 +104,7 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (A) Exclusive defenses
 
-&emsp;&emsp;The defenses under this paragraph are the exclusive defenses available to a satellite carrier against which a complaint under this subsection is filed.
+&emsp;&emsp;The defenses under this paragraph are the exclusive defenses available to a satellitecarrier against which a complaint under this subsection is filed.
 
 #### (B) Defenses
 
@@ -136,7 +136,7 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Within 45 days after the filing of a complaint, the Commission shall issue a final determination in any proceeding brought under this subsection. The Commission's final determination shall specify the number of violations committed by the satellite carrier. The Commission shall hear witnesses only if it clearly appears, based on written filings by the parties, that there is a genuine dispute about material facts. Except as provided in the precedingsentence, the Commission may issue a final ruling based on written filings by the parties.
+&emsp;&emsp;&emsp;Within 45 days after the filing of a complaint, the Commission shall issue a final determination in any proceeding brought under this subsection. The Commission's final determination shall specify the number of violations committed by the satellite carrier. The Commission shall hear witnesses only if it clearly appears, based on written filings by the parties, that there is a genuine dispute about material facts. Except as provided in the preceding sentence, the Commission may issue a final ruling based on written filings by the parties.
 
 #### (ii) Discovery
 
@@ -188,9 +188,13 @@ Such application shall contain such information as the Commission may by regulat
 
 &emsp;No complaint or civil action may be filed under this subsection after December 31, 2001. This subsection shall continue to apply to any complaint or civil action filed on or before such date.
 
-(June 19, 1934, ch. 652, title III, §325, 48 Stat. 1091; Pub. L. 102–385, §6, Oct. 5, 1992, 106 Stat. 1482; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1009\], Nov. 29, 1999, 113 Stat. 1536, 1501A–537; Pub. L. 108–447, div. J, title IX \[title II, §§201, 207(a)\], Dec. 8, 2004, 118 Stat. 3409, 3428.)
+(June 19, 1934, ch. 652, title III, §325, 48 Stat. 1091; Pub. L. 102–385, §6, Oct. 5, 1992, 106 Stat. 1482; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1009\], Nov. 29, 1999, 113 Stat. 1536, 1501A–537; Pub. L. 108–447, div. J, title IX \[title II, §§201, 207(a)\], Dec. 8, 2004, 118 Stat. 3409, 3428; Pub. L. 111–118, div. B, §1003(b), Dec. 19, 2009, 123 Stat. 3469.)
 
 #### Amendments
+
+2009—Subsec. (b)(2)(C). Pub. L. 111–118, §1003(b)(1), substituted “February 28, 2010” for “December 31, 2009” in introductory provisions.
+
+Subsec. (b)(3)(C)(ii), (iii). Pub. L. 111–118, §1003(b)(2), substituted “March 1, 2010” for “January 1, 2010”.
 
 2004—Subsec. (b)(2)(C). Pub. L. 108–447, §201, substituted “December 31, 2009” for “December 31, 2004”.
 

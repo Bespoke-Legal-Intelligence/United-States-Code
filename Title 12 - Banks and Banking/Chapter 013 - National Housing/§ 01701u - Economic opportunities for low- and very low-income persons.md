@@ -60,7 +60,7 @@ It is the policy of the Congress and the purpose of this section to ensure that 
 
 &emsp;&emsp;&emsp;(i) To business concerns that provide economic opportunities for residents of the housing development for which the assistance is provided.
 
-&emsp;&emsp;&emsp;(ii) To business concerns that provide economic opportunities for residents of other housing developments operated by the public and Indian housing agency that is providing the assistance.
+&emsp;&emsp;&emsp;(ii) To business concerns that provide economic opportunities for residents ofother housing developments operated by the public and Indian housing agency that is providing the assistance.
 
 &emsp;&emsp;&emsp;(iii) To YouthBuild programs receiving assistance under section 2918a of title 29.
 

@@ -1,10 +1,12 @@
 ### §2853. Authorized cost and scope of work variations
 
-(a) Except as provided in subsection (c) or (d), the cost authorized for a military construction project or for the construction, improvement, and acquisition of a military family housing project may be increased or decreased by not more than 25 percent of the amount appropriated for such project or 200 percent of the minor construction project ceiling specified in section 2805(a)(1), whichever is less, if the Secretary concerned determines that such revised cost is required for the sole purpose of meeting unusual variations in cost and that such variations in cost could not have reasonably been anticipated at the time the project was approved originally by Congress.
+(a) Except as provided in subsection (c) or (d), the cost authorized for a military construction project or for the construction, improvement, and acquisition of a military family housing project may be increased or decreased by not more than 25 percent of the amount appropriated for such project or 200 percent of the minor construction project ceiling specified in section 2805(a)(1), whichever is less, if the Secretary concerned determines that such revised cost is required for the sole purpose of meeting unusual variations in cost and that such variations in cost could not have reasonably beenanticipated at the time the project was approved originally by Congress.
 
-(b) Except as provided in subsection (c), the scope of work for a military construction project or for the construction, improvement, and acquisition of a military family housing project may be reduced by not more than 25 percent from the amount approved for that project, construction, improvement, or acquisition by Congress.
+(b)(1) Except as provided in subsection (c), the scope of work for a military construction project or for the construction, improvement, and acquisition of a military family housing project may be reduced by not more than 25 percent from the amount specified for that project, construction, improvement, or acquisition in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition.
 
-(c) The limitation on cost variations in subsection (a) or the limitation on scope reduction in subsection (b) does not apply if the variation in cost or reduction in the scope of work is approved by the Secretary concerned and—
+(2) The scope of work for a military construction project or for the construction, improvement, and acquisition of a military family housing project may not be increased above the amount specified for that project, construction, improvement, or acquisition in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition.
+
+(c) The limitation on cost variations in subsection (a) or the limitation on scope reduction in subsection (b)(1) does not apply if the variation in cost or reduction in the scope of work is approved by the Secretary concerned and—
 
 &emsp;(1) in the case of a cost increase or a reduction in the scope of work—
 
@@ -20,9 +22,13 @@
 
 &emsp;(2) The costs associated with the required remediation of an environmental hazard in connection with a military construction project or military family housing project, such as asbestos removal, radon abatement, lead-based paint removal or abatement, or any other legally required environmental hazard remediation, if the required remediation could not have reasonably been anticipated at the time the project was approved originally by Congress.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 98–407, title VIII, §807, Aug. 28, 1984, 98 Stat. 1521; Pub. L. 100–26, §7(f)(2), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2312, 2313, Dec. 4, 1987, 101 Stat. 1217, 1218; Pub. L. 101–189, div. B, title XXVIII, §2808, Nov. 29, 1989, 103 Stat. 1648; Pub. L. 104–106, div. B, title XXVIII, §2817, Feb. 10, 1996, 110 Stat. 553; Pub. L. 107–107, div. B, title XXVIII, §2802, Dec. 28, 2001, 115 Stat. 1305; Pub. L. 108–375, div. B, title XXVIII, §2803, Oct. 28, 2004, 118 Stat. 2121; Pub. L. 109–163, div. B, title XXVIII, §2804(a)–(c)(1), Jan. 6, 2006, 119 Stat. 3506; Pub. L. 109–364, div. B, title XXVIII, §2806, Oct. 17, 2006, 120 Stat. 2468.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 98–407, title VIII, §807, Aug. 28, 1984, 98 Stat. 1521; Pub. L. 100–26, §7(f)(2), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2312, 2313, Dec. 4, 1987, 101 Stat. 1217, 1218; Pub. L. 101–189, div. B, title XXVIII, §2808, Nov. 29, 1989, 103 Stat. 1648; Pub. L. 104–106, div. B, title XXVIII, §2817, Feb. 10, 1996, 110 Stat. 553; Pub. L. 107–107, div. B, title XXVIII, §2802, Dec. 28, 2001, 115 Stat. 1305; Pub. L. 108–375, div. B, title XXVIII, §2803, Oct. 28, 2004, 118 Stat. 2121; Pub. L. 109–163, div. B, title XXVIII, §2804(a)–(c)(1), Jan. 6, 2006, 119 Stat. 3506; Pub. L. 109–364, div. B, title XXVIII, §2806, Oct. 17, 2006, 120 Stat. 2468; Pub. L. 111–84, div. B, title XXVIII, §2803, Oct. 28, 2009, 123 Stat. 2661.)
 
 #### Amendments
+
+2009—Subsec. (b). Pub. L. 111–84, §2803(1), designated existing provisions as par. (1), substituted “may be reduced by not more than 25 percent from the amount specified for that project, construction, improvement, or acquisition in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition.” for “may be reduced by not more than 25 percent from the amount approved for that project, construction, improvement, or acquisition by Congress.”, and added par. (2).
+
+Subsec. (c). Pub. L. 111–84, §2803(2), substituted “subsection (b)(1)” for “subsection (b)” in introductory provisions.
 
 2006—Pub. L. 109–163, §2804(c)(1), substituted “Authorized cost and scope of work variations” for “Authorized cost variations” in section catchline.
 
@@ -44,7 +50,7 @@ Subsec. (d). Pub. L. 109–163, §2804(a)(3), substituted “limitation on cost 
 
 2001—Subsec. (d). Pub. L. 107–107 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The limitation on cost increases in subsection (a) does not apply to the settlement of a contractor claim under a contract.”
 
-1996—Subsec. (d). Pub. L. 104–106 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The limitation on cost increases in subsection (a) does not apply to a within-scope modification to a contract or to the settlement of a contractor claim under a contract if the increase in cost is approved by the Secretary concerned, and the Secretary concerned promptly submits written notification of the facts relating to the proposed increase in cost to the appropriate committees of Congress.”
+1996—Subsec. (d). Pub. L. 104–106 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The limitation on cost increases in subsection (a) does not apply to a within-scope modification to a contract or to the settlement of a contractor claimunder a contract if the increase in cost is approved by the Secretary concerned, and the Secretary concerned promptly submits written notification of the facts relating to the proposed increase in cost to the appropriate committees of Congress.”
 
 1989—Pub. L. 101–189 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (f).
 

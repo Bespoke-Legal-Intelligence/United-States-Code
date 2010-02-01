@@ -20,7 +20,7 @@ Eligible airport-related project.—The term “eligible airport-related project
 
 &emsp;&emsp;(B) A project for terminal development described in section 47110(d).
 
-&emsp;&emsp;(C) A project for costs of terminal development referred to in subparagraph (B) incurred after August 1, 1986, at an airport that did not have more than .25 percent of the total annual passenger boardings in the United States in the most recent calendar year for which data is available and at which total passenger boardings declined by at least 16 percent between calendar year 1989 and calendar year 1997.
+&emsp;&emsp;(C) A project for costs of terminal development referred to in subparagraph (B) incurred after August 1, 1986, at an airportthat did not have more than .25 percent of the total annual passenger boardings in the United States in the most recent calendar year for which data is available and at which total passenger boardings declined by at least 16 percent between calendar year 1989 and calendar year 1997.
 
 &emsp;&emsp;(D) A project for airport noise capability planning under section 47505.
 
@@ -62,7 +62,7 @@ Maximum cost for certain low-emission technology projects.—The maximum cost th
 
 (6)
 
-Debt service for certain projects.—In addition to the uses specified in paragraphs (1)and (4), the Secretary may authorize a passenger facility fee imposed under paragraph (1) or (4) to be used for making payments for debt service on indebtedness incurred to carry out at the airport a project that is not an eligible airport-related project if the Secretary determines that such use is necessary due to the financial need of the airport.
+Debt service for certain projects.—In addition to the uses specified in paragraphs (1) and (4), the Secretary may authorize a passenger facility fee imposed under paragraph (1) or (4) to be used for making payments for debt service on indebtedness incurred to carry out at the airport a project that is not an eligible airport-related project if the Secretary determines that such use is necessary due to the financial need of the airport.
 
 (7)
 
@@ -70,7 +70,7 @@ Noise mitigation for certain schools.—
 
 &emsp;(A)
 
-In general.—In addition to the uses specified in paragraphs (1), (4), and (6), the Secretary may authorize a passenger facility fee imposed under paragraph (1) or (4) at a large hub airport that is the subject of an amended judgment and final order in condemnation filed on January 7, 1980, by the Superior Court of the State of California for the county of Los Angeles, to be used for a project to carry out noise mitigation for a building, or for the replacement of a relocatable building with a permanent building, in the noise impacted area surrounding the airport at which such building is used primarily for educational purposes, notwithstanding the air easement granted or any terms to the contrary in such judgment and final order, if—
+In general.—In addition to the uses specified in paragraphs (1), (4), and (6), the Secretary may authorize a passenger facility fee imposed under paragraph (1) or (4) at a large hub airport that is the subject of an amended judgment and final order in condemnation filed on January 7, 1980, by the Superior Court of the State of California for the county of Los Angeles, to be used for a project to carry out noise mitigation for a building, or for the replacement of a relocatable building with a permanent building, in the noise impacted area surrounding the airport at whichsuch building is used primarily for educational purposes, notwithstanding the air easement granted or any terms to the contrary in such judgment and final order, if—
 
 &emsp;&emsp;(i) the Secretary determines that the building is adversely affected by airport noise;
 
@@ -184,7 +184,7 @@ Compliance.—(1) As necessary to ensure compliance with this section, the Secre
 
 (2) The Secretary periodically shall audit and review the use by an eligible agency of passenger facility revenue. After review and a public hearing, the Secretary may end any part of the authority of the agency to impose a passenger facility fee to the extent the Secretary decides that the revenue is not being used as provided in this section.
 
-(3) The Secretary may set off amounts necessary to ensure compliance with this sectionagainst amounts otherwise payable to an eligible agency under subchapter I of chapter 471 of this title if the Secretary decides a passenger facility fee is excessive or that passenger facility revenue is not being used as provided in this section.
+(3) The Secretary may set off amounts necessary to ensure compliance with this section against amounts otherwise payable to an eligible agency under subchapter I of chapter 471 of this title if the Secretary decides a passenger facility fee is excessive or that passenger facility revenue is not being used as provided in this section.
 
 (i)
 
@@ -264,7 +264,7 @@ Regulations.—Not later than 180 days after the date of enactment of this subse
 
 &emsp;(7)
 
-Sunset.—This subsection shall cease to be effective beginning on April 1, 2009.
+Sunset.—This subsection shall cease to be effective beginning on April 1, 2010.
 
 &emsp;(8)
 
@@ -276,7 +276,7 @@ Financial Management of Fees.—
 
 &emsp;(1)
 
-Handling of fees.—A covered air carrier shall segregate in a separate account passenger facility revenue equal to the average monthly liability for fees collected under this section by such carrier or any of its agents forthe benefit of the eligible agencies entitled to such revenue.
+Handling of fees.—A covered air carrier shall segregate in a separate account passenger facility revenue equal to the average monthly liability for fees collected under this section by such carrier or any of its agents for the benefit of the eligible agencies entitled to such revenue.
 
 &emsp;(2)
 
@@ -302,7 +302,7 @@ Existing regulations.—The provisions of section 158.49 of title 14, Code of Fe
 
 Covered air carrier defined.—In this section, the term “covered air carrier” means an air carrier that files for chapter 7 or chapter 11 of title 11 bankruptcy protection, or has an involuntary chapter 7 of title 11 bankruptcy proceeding commenced against it, after the date of enactment of this subsection.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1113; Pub. L. 103–305, title II, §§203, 204(a)(1), (b), Aug. 23, 1994, 108 Stat. 1582, 1583; Pub. L. 104–264, title I, §142(b)(2), title XII, §1202, Oct. 9, 1996, 110 Stat. 3221, 3280; Pub. L. 104–287, §5(67), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 106–181, title I, §§105(a), (b), 135(a), (b), 151, 152(a), 155(c), Apr. 5, 2000, 114 Stat. 71, 83, 86–88; Pub. L. 108–176, title I, §§121(a)–(c), 122–123(d), 124, Dec. 12, 2003, 117 Stat. 2499–2502; Pub. L. 110–253, §3(c)(1), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(a), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 110–337, §1, Oct. 2, 2008, 122 Stat. 3729.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1113; Pub. L. 103–305, title II, §§203, 204(a)(1), (b), Aug. 23, 1994, 108 Stat. 1582, 1583; Pub. L. 104–264, title I, §142(b)(2), title XII, §1202, Oct. 9, 1996, 110 Stat. 3221, 3280; Pub. L. 104–287, §5(67), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 106–181, title I, §§105(a), (b), 135(a), (b), 151, 152(a), 155(c), Apr. 5, 2000, 114 Stat. 71, 83, 86–88; Pub. L. 108–176, title I, §§121(a)–(c), 122–123(d), 124, Dec. 12, 2003, 117 Stat. 2499–2502; Pub. L. 110–253, §3(c)(1), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(a), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 110–337, §1, Oct. 2, 2008, 122 Stat. 3729; Pub. L. 111–12, §5(a), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(a), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(a), Dec. 16, 2009, 123 Stat. 3032.)
 
 Historical and Revision Notes
 
@@ -436,6 +436,12 @@ The date of enactment of this subsection, referred to in subsecs. (<i>l</i>)(6) 
 
 #### Amendments
 
+2009—Subsec. (<i>l</i>)(7). Pub. L. 111–116 substituted “April 1, 2010.” for “January 1, 2010.”
+
+Pub. L. 111–69 substituted “January 1, 2010.” for “October 1, 2009.”
+
+Pub. L. 111–12 substituted “October 1, 2009.” for “April 1, 2009.”
+
 2008—Subsec. (b)(7). Pub. L. 110–337 added par. (7).
 
 Subsec. (<i>l</i>)(7). Pub. L. 110–330 substituted “April 1, 2009” for “September 30, 2008”.
@@ -516,6 +522,14 @@ Subsec. (d)(3). Pub. L. 103–305, §204(b), added par. (3).
 
 Subsec. (e)(2)(D). Pub. L. 103–305, §204(a)(1), added subpar. (D).
 
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–116, §5(j), Dec. 16, 2009, 123 Stat. 3032, provided that: “The amendments made by this section \[amending this section and sections 44302, 44303, 47107, 47115, 47141, and 49108 of this title and provisions set out as a note under section 47109 of this title\] shall take effect on January 1, 2010.”
+
+Pub. L. 111–69, §5(<i>l</i>), Oct. 1, 2009, 123 Stat. 2055, provided that: “The amendments made by this section \[amending this section and sections 41743, 44302, 44303, 47107, 47115, 47141, and 49108 of this title and provisions set out as notes under sections 41731 and 47109 of this title\] shall take effect on October 1, 2009.”
+
+Pub. L. 111–12, §5(j), Mar. 30, 2009, 123 Stat. 1458, provided that: “The amendments made by this section \[amending this section and sections 44302, 44303, 47107, 47115, 47141, and 49108 of this title and provisions set out as a note under section 47109 of this title\] shall take effect on April 1, 2009.”
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–330, §5(<i>l</i>), Sept. 30, 2008, 122 Stat. 3719, provided that: “The amendments made by this section \[amending this section and sections 41743, 44302, 44303, 47107, 47115, 47141, and 49108 of this title and provisions set out as notes under sections 41731 and 47109 of this title\] shall take effect on October 1, 2008.”
@@ -536,7 +550,7 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Guidance
 
-Pub. L. 108–176, title I, §121(d), Dec. 12, 2003, 117 Stat. 2500, provided that: “The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall issue guidance determining eligibility of projects, and how benefits to air quality must be demonstrated, under the amendments made by this section \[amending this section\].”
+Pub. L. 108–176, title I, §121(d), Dec. 12, 2003, 117 Stat. 2500, provided that: “The Secretary, in consultationwith the Administrator of the Environmental Protection Agency, shall issue guidance determining eligibility of projects, and how benefits to air quality must be demonstrated, under the amendments made by this section \[amending this section\].”
 
 #### Eligibility of Airport Ground Access Transportation Projects
 

@@ -54,7 +54,7 @@ Vessel owned by section 50501 citizen or united states citizen trust, and charte
 
 &emsp;&emsp;(A) during the period of an operating agreement under this chapter that applies to the vessel, the vessel will be—
 
-&emsp;&emsp;&emsp;(i) owned by a person that is a citizen of the United States under section 50501 of this title or that is a United States citizen trust; and
+&emsp;&emsp;&emsp;(i) owned by a person that is a citizen of the United States under section 50501 ofthis title or that is a United States citizen trust; and
 
 &emsp;&emsp;&emsp;(ii) demise chartered to a person—
 
@@ -122,7 +122,7 @@ Reliance on classification society.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary may rely on a certification from the American Bureauof Shipping or, subject to subparagraph (B), another classification society accepted by the Secretary to establish that a vessel is in compliance with the requirements of paragraphs (1) and (2).
+In general.—The Secretary may rely on a certification from the American Bureau of Shipping or, subject to subparagraph (B), another classification society accepted by the Secretary to establish that a vessel is in compliance with the requirements of paragraphs (1) and (2).
 
 &emsp;&emsp;(B)
 

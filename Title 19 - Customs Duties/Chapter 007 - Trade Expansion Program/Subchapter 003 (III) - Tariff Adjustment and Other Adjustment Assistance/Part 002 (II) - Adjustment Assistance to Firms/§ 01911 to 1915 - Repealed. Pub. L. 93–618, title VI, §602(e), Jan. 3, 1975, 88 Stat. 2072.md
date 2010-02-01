@@ -6,9 +6,9 @@ Section 1912, Pub. L. 87–794, title III, §312, Oct. 11, 1962, 76 Stat. 886, p
 
 Section 1913, Pub. L. 87–794, title III, §313, Oct. 11, 1962, 76 Stat. 887, provided for giving of technical assistance to firms. See section 2343 of this title.
 
-Section 1914, Pub. L. 87–794, title III, §314, Oct. 11, 1962, 76 Stat. 887, provided for giving of financial assistance to firms. See section 2344 of this title.
+Section 1914, Pub. L. 87–794, title III, §314, Oct. 11, 1962, 76 Stat. 887, provided for giving of financial assistance to firms.
 
-Section 1915, Pub. L. 87–794, title III, §315, Oct. 11, 1962, 76 Stat. 887, set out conditions for giving of financial assistance. See section 2345 of this title.
+Section 1915, Pub. L. 87–794, title III, §315, Oct. 11, 1962, 76 Stat. 887, set out conditions for giving of financial assistance.
 
 #### Effective Date of Repeal
 

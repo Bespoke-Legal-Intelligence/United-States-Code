@@ -42,7 +42,7 @@
 
 #### (2) PBO functions
 
-&emsp;Subject to paragraph (1), the PBO shall be responsible for the administration of Federalstudent financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, excluding the development of policy relating to such programs but including the following:
+&emsp;Subject to paragraph (1), the PBO shall be responsible for the administration of Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, excluding the development of policy relating to such programs but including the following:
 
 &emsp;&emsp;(A) The administrative, accounting, and financial management functions for the Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, including—
 
@@ -112,7 +112,7 @@
 
 #### (iv) Delivery and information system
 
-&emsp;&emsp;&emsp;Developing open, common, and integrated systems for programs authorizedunder under <sup>1</sup> subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;&emsp;&emsp;Developing open, common, and integrated systems for programs authorized under under <sup>1</sup> subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (v) Other areas
 
@@ -136,7 +136,7 @@
 
 #### (3) Consultation with stakeholders
 
-&emsp;The Chief Operating Officer, in preparing the report described in paragraph (2), shall establish appropriate means to consult with students, borrowers, institutions, lenders, guaranty agencies, secondary markets, and others involved in the delivery system of student aid under this subchapter—
+&emsp;The Chief Operating Officer, in preparing the report described in paragraph (2), shall establish appropriate means to consult with students, borrowers, institutions, lenders, guaranty agencies, secondary markets, and others involved in the delivery system of student aid under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42—
 
 &emsp;&emsp;(A) regarding the degree of satisfaction with the delivery system; and
 
@@ -168,7 +168,7 @@
 
 &emsp;&emsp;(B) the Secretary, for misconduct or failure to meet performance goals set forth in the performance agreement in paragraph (4).
 
-> &emsp;The President or Secretary shall communicate the reasons for any such removal to the appropriate committees of Congress.
+> &emsp;The President or Secretary shall communicate the reasons for any such removal to the authorizing committees.
 
 #### (4) Performance agreement
 
@@ -192,7 +192,7 @@
 
 #### (C) Payment
 
-&emsp;&emsp;Payment of a bonus under subparagraph (B) may be made to the Chief Operating Officer only to the extent that such paymentdoes not cause the Chief Operating Officer's total aggregate compensation in a calendar year to equal or exceed the amount of the President's salary under section 102 of title 3.
+&emsp;&emsp;Payment of a bonus under subparagraph (B) may be made to the Chief Operating Officer only to the extent that such payment does not cause the Chief Operating Officer's total aggregate compensation in a calendar year to equal or exceed the amount of the President's salary under section 102 of title 3.
 
 #### (e) Senior management
 
@@ -238,7 +238,7 @@
 
 &emsp;The Ombudsman shall—
 
-&emsp;&emsp;(A) in accordance with regulations of the Secretary, receive, review, and attempt to resolve informally complaints from borrowers of loans described in paragraph (1), including, as appropriate, attempts to resolve such complaints within the Department of Education and with institutions of higher education, lenders, guaranty agencies, loan servicers, and other participants in the loan programs described in paragraph (1); and
+&emsp;&emsp;(A) in accordance with regulations of the Secretary, receive, review, and attempt to resolve informally complaints from borrowers of loans described in paragraph (1), including, as appropriate, attempts to resolve such complaints within the Department ofEducation and with institutions of higher education, lenders, guaranty agencies, loan servicers, and other participants in the loan programs described in paragraph (1); and
 
 &emsp;&emsp;(B) compile and analyze data on borrower complaints and make appropriate recommendations.
 
@@ -262,13 +262,13 @@
 
 #### (h) Establishment of fair and equitable system for measuring staff performance
 
-The PBO shall establish an annual performance management system, subject to compliance with title 5, and consistent with applicable provisions of law and regulations, which strengthens the effectiveness of the PBO by providing for establishing goals or objectives for individual, group, or organizational performance (or any combination thereof), consistent with the performance plan of the PBO and its performanceplanning procedures, including those established under the Government Performance and Results Act of 1993, and communicating such goals or objectives to employees.
+The PBO shall establish an annual performance management system, subject to compliance with title 5, and consistent with applicable provisions of law and regulations, which strengthens the effectiveness of the PBO by providing for establishing goals or objectives for individual, group, or organizational performance (or any combination thereof), consistent with the performance plan of the PBO and its performance planning procedures, including those established under the Government Performance and Results Act of 1993, and communicating such goals or objectives to employees.
 
 #### (i) Authorization of appropriations
 
 The Secretary shall allocate from funds made available under section 1087h of this title such funds as are appropriate to the functions assumed by the PBO. In addition, there are authorized to be appropriated such sums as may be necessary to carry out the purposes of this part.
 
-(Pub. L. 89–329, title I, §141, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1604; amended Pub. L. 110–315, title I, §§103(b)(2), 117, Aug. 14, 2008, 122 Stat. 3088, 3114.)
+(Pub. L. 89–329, title I, §141, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1604; amended Pub. L. 110–315, title I, §§103(b)(2), 117, Aug. 14, 2008, 122 Stat. 3088, 3114; Pub. L. 111–39, title I, §101(b)(5), July 1, 2009, 123 Stat. 1935.)
 
 #### References in Text
 
@@ -285,6 +285,10 @@ A prior section 1018, Pub. L. 89–329, title I, §141, as added Pub. L. 100–4
 Another prior section 1018, Pub. L. 89–329, title I, §118, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1382, defined terms used in former part D of this subchapter, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 #### Amendments
+
+2009—Subsec. (c)(3). Pub. L. 111–39, §101(b)(5)(A), substituted “under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42” for “under this subchapter” in introductory provisions.
+
+Subsec. (d)(3). Pub. L. 111–39, §101(b)(5)(B), substituted “authorizing committees” for “appropriate committees of Congress” in concluding provisions.
 
 2008—Subsec. (a)(1). Pub. L. 110–315, §117(1)(A), substituted “administrative and oversight” for “operational”.
 
@@ -347,6 +351,10 @@ Subsec. (g)(3). Pub. L. 110–315, §117(6), struck out “not more than 25” b
 Subsec. (h). Pub. L. 110–315, §117(7), substituted “effectiveness” for “organizational effectiveness”.
 
 Subsecs. (i), (j). Pub. L. 110–315, §117(8)–(10), redesignated subsec. (j) as (i), struck out “, including transition costs” before period at end, and struck out former subsec. (i). Text of former subsec. (i) read as follows: “The Secretary and the Chief Operating Officer, not later than 180 days after October 7, 1998, shall report to Congress on the proposed budget and sources of funding for the operation of the PBO.”
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Study of Market Mechanisms in Federal Student Loan Programs
 

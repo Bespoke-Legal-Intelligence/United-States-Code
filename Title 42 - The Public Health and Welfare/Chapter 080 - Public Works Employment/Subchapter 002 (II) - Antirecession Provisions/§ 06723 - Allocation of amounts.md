@@ -52,7 +52,7 @@
 
 &emsp;(D) the term “local government” means the government of a county, municipality, township, or other unit of government below the State which—
 
-&emsp;&emsp;(i) is a unit of general government (determined on the basis of the same principles as are used by the Bureau of the Census for general statistical purposes), and
+&emsp;&emsp;(i) is a unit of general government (determined on the basis of the same principles asare used by the Bureau of the Census for general statistical purposes), and
 
 &emsp;&emsp;(ii) performs substantial governmental functions. Such term includes the District of Columbia and also includes the recognized governing body of an Indian tribe or Alaskan Native village which performs substantial governmental functions. Such term does not include the government of a township area unless such government performs substantial governmental functions.
 

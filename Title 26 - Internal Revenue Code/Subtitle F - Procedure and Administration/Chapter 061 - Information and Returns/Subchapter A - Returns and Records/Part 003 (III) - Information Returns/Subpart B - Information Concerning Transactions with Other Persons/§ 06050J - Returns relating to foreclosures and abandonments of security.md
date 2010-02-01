@@ -72,5 +72,5 @@ Amendment by Pub. L. 104–168 applicable to statements required to be furnished
 
 #### Effective Date
 
-Section 148(d) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting this section and amending sections 6652 and 6678 of this title\]shall apply with respect to acquisitions of property and abandonments of property after December 31, 1984.”
+Section 148(d) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting this section and amending sections 6652 and 6678 of this title\] shall apply with respect to acquisitions of property and abandonments of property after December 31, 1984.”
 

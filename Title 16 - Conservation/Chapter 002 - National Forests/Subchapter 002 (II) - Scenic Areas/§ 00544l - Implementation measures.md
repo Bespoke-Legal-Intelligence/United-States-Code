@@ -6,7 +6,7 @@ The Secretary shall provide technical assistance on a nonreimbursable basis to c
 
 #### (b) Payment of timber receipts
 
-(1) Notwithstanding the provisions of section 500 of this title, that portion of which is paid under such provisions to the State of Oregon with respect to the special management areas within the Mount Hood National Forest, the Gates of the Columbia Gorge Special Management Area, Mount Hood National Forest, and to the State of Washington with respect to the special management areas within the Gifford Pinchot National Forest—
+(1) Notwithstanding the provisions of section 500 of this title, that portion of which is paid under such provisions to the State of Oregon with respect to the special management areas within the Mount Hood National Forest, the Gates of the Columbia Gorge Special Management Area, Mount Hood National Forest, and tothe State of Washington with respect to the special management areas within the Gifford Pinchot National Forest—
 
 &emsp;(A) not less than 50 per centum shall be expended for the benefit of the public schools of the county which has adopted implementation measures pursuant to sections 544 to 544p of this title; and
 
@@ -42,7 +42,7 @@ Except as otherwise provided in subsection (e) of this section or in section 544
 
 #### (e) Limitations on Federal expenditures affecting the scenic area
 
-(1) Except as provided in paragraph (3), if the Commission has not been established pursuant to section 544c of this title within fifteenmonths after November 17, 1986, or is otherwise disestablished for any reason, no new expenditures or new financial assistance may be made available, and no new license or new permit, or exemption from a license or permit requirement, shall be issued, under authority of any Federal law for any activity within the scenic area, excluding urban areas, which the Secretary,<sup>1</sup> determines is inconsistent with any implementation measure pursuant to, the standards established in section 544d(b) of this title, or the purposes of sections 544 to 544p of this title.
+(1) Except as provided in paragraph (3), if the Commission has not been established pursuant to section 544c of this title within fifteen months after November 17, 1986, or is otherwise disestablished for any reason, no new expenditures or new financial assistance may be made available, and no new license or new permit, or exemption from a license or permit requirement, shall be issued, under authority of any Federal law for any activity within the scenic area, excluding urban areas, which the Secretary,<sup>1</sup> determines is inconsistent with any implementation measure pursuant to, the standards established in section 544d(b) of this title, or the purposes of sections 544 to 544p of this title.
 
 (2)(A)(i) An expenditure or financial assistance made available under authority of Federal law shall be treated, for purposes of this subsection, as a new expenditure or new financial assistance if—
 
@@ -84,7 +84,7 @@ Except as otherwise provided in subsection (e) of this section or in section 544
 
 #### (f) Transfer of public lands
 
-Subject to valid existing rights, all public lands within the scenic area administered by theSecretary of the Interior through the Bureau of Land Management are hereby transferred without consideration to the jurisdiction of the Secretary to be managed as National Forest lands in accordance with the provisions of sections 544 to 544p of this title.
+Subject to valid existing rights, all public lands within the scenic area administered by the Secretary of the Interior through the Bureau of Land Management are hereby transferred without consideration to the jurisdiction of the Secretary to be managed as National Forest lands in accordance with the provisions of sections 544 to 544p of this title.
 
 (Pub. L. 99–663, §14, Nov. 17, 1986, 100 Stat. 4294; Pub. L. 106–291, title III, §346(e), Oct. 11, 2000, 114 Stat. 1000.)
 

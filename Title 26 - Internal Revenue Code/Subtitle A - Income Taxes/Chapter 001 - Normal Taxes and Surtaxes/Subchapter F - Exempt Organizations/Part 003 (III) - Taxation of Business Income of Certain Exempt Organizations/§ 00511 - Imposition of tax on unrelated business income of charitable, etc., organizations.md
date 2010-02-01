@@ -14,7 +14,7 @@
 
 #### (B) State colleges and universities
 
-&emsp;&emsp;The tax imposed by paragraph (1) shall apply in the case of any college or university which is an agency or instrumentality of any government or any political subdivision thereof, or which is owned or operated by a government or any political subdivision thereof, or by any agency or instrumentality of one or more governments or political subdivisions. Such tax shall also apply in the case of any corporation wholly owned by one or more such colleges or universities.
+&emsp;&emsp;The tax imposed by paragraph (1) shall apply in the case of any college or university which is an agency or instrumentality ofany government or any political subdivision thereof, or which is owned or operated by a government or any political subdivision thereof, or by any agency or instrumentality of one or more governments or political subdivisions. Such tax shall also apply in the case of any corporation wholly owned by one or more such colleges or universities.
 
 #### (b) Tax on charitable, etc., trusts
 

@@ -6,7 +6,7 @@ Whoever, being the owner, proprietor, manager, superintendent, or agent of any h
 
 #### Historical and Revision Notes
 
-Based on title 13, U.S.C., 1952 ed., §§122, 209, and section 1442 of title 42, U.S.C., 1952 ed., The Public Healthand Welfare (June 18, 1929, ch. 28, §9, 46 Stat. 23; June 19, 1948, ch. 502, §2, 62 Stat. 479; July 15, 1949, ch. 338. title VI, §607, 63 Stat. 441).
+Based on title 13, U.S.C., 1952 ed., §§122, 209, and section 1442 of title 42, U.S.C., 1952 ed., The Public Health and Welfare (June 18, 1929, ch. 28, §9, 46 Stat. 23; June 19, 1948, ch. 502, §2, 62 Stat. 479; July 15, 1949, ch. 338. title VI, §607, 63 Stat. 441).
 
 Section consolidates the third paragraph of section 209 of title 13, U.S.C., 1952 ed., which was a part of chapter 4 of that title relating to censuses of population, agriculture, etc. (subchapter II of chapter 5 of this revised title), with that part of section 122 of such title which made such section 209 applicable to the quinquennial censuses of manufactures, the mineral industries, and other businesses provided for by section 121(a) of such title (subchapter I of chapter 5 of this revised title) and, with certain qualifications and exceptions, applicable to the interim surveys provided for by section 121(b) of such title (subchapter IV of chapter 5 of this revised title), and with that part of subsection (b) of section 1442 of title 42, U.S.C., 1952 ed., which made such section 209 applicable to the decennial censuses of housing (subchapter II of chapter 5 of this revised title). For remainder of sections 122 and 209 of this revised title, and of section 1442 of title 42, U.S.C., 1952 ed. (which section has been transferred in its entirety to this revised title), see Distribution Table.
 

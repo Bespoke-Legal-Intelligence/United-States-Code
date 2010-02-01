@@ -1,6 +1,6 @@
 ### §61d. Compensation of Chaplain of Senate
 
-Effective with respect to pay periods beginning on or after December 22, 1987, the Chaplain of the Senate shall be compensated at a rate equal to the annual rate of basic pay for level IV of the Executive Schedule under section 5315 of title 5.
+Effective with respect to pay periods beginning on or after December 22, 1987, the Chaplainof the Senate shall be compensated at a rate equal to the annual rate of basic pay for level IV of the Executive Schedule under section 5315 of title 5.
 
 (Pub. L. 100–202, §101(i) \[title I, §2(a)\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294.)
 

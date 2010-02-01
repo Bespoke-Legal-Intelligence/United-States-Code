@@ -132,7 +132,7 @@ Subsecs. (c) to (f). Pub. L. 85–861 added subsecs. (c) to (e) and redesignated
 
 #### Effective Date of 1980 Amendment
 
-Amendment by section 503(47) of Pub. L. 96–513 effective Sept. 15, 1981, and amendment by section 513(17) ofPub. L. 96–513 effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+Amendment by section 503(47) of Pub. L. 96–513 effective Sept. 15, 1981, and amendment by section 513(17) of Pub. L. 96–513 effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
 #### Effective Date of 1963 Amendment
 

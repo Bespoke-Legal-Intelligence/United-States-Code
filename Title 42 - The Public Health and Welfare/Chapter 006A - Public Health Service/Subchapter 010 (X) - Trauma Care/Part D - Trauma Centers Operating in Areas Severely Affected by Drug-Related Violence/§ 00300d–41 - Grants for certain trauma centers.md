@@ -12,7 +12,7 @@ The Secretary may make grants for the purpose of providing for the operating exp
 
 &emsp;&emsp;(i) trauma resulting from the penetration of the skin by knives, bullets, or any other implement that can be used as a weapon; or
 
-&emsp;&emsp;(ii) trauma that the center reasonably believes results from violence arising directlyor indirectly from illicit trafficking in drugs.
+&emsp;&emsp;(ii) trauma that the center reasonably believes results from violence arising directly or indirectly from illicit trafficking in drugs.
 
 &emsp;(B) The period specified in this subparagraph is the 2-year period preceding the fiscal year for which the trauma center involved is applying to receive a grant under subsection (a) of this section.
 

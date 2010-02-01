@@ -26,7 +26,7 @@ Pub. L. 108–90, title V, §514, Oct. 1, 2003, 117 Stat. 1154, provided that: �
 
 Pub. L. 108–90, title V, §515, Oct. 1, 2003, 117 Stat. 1154, provided that: “For fiscal year 2004 and thereafter, none of the funds appropriated or otherwise made available to the Department of Homeland Security may be used to allow—
 
-&emsp;“(1) the importation into the United States of any good, ware, article, or merchandise mined, produced,or manufactured by forced or indentured child labor, as determined under section 307 of the Tariff Act of 1930 (19 U.S.C. 1307); or
+&emsp;“(1) the importation into the United States of any good, ware, article, or merchandise mined, produced, or manufactured by forced or indentured child labor, as determined under section 307 of the Tariff Act of 1930 (19 U.S.C. 1307); or
 
 &emsp;“(2) the release into the United States of any good, ware, article, or merchandise on which there is in effect a detention order under such section 307 on the basis that the good, ware, article, or merchandise may have been mined, produced, or manufactured by forced or indentured child labor.”
 

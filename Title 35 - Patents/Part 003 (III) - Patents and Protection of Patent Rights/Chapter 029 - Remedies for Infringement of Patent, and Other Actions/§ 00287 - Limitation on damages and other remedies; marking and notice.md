@@ -1,6 +1,6 @@
 ### §287. Limitation on damages and other remedies; marking and notice
 
-(a) Patentees, and persons making, offering for sale, or selling within the United States any patented article for or under them, or importing any patented article into the United States, may give notice to the public that the same is patented, either by fixing thereon the word “patent” or the abbreviation “pat.”, together with the number of the patent, or when, from the character of the article, this can not be done, by fixing to it, or to the package wherein one or more of them is contained, a label containing a like notice. In the event of failure so to mark, no damages shall be recovered by the patentee in any action for infringement, except on proof that the infringer was notified of the infringement and continued to infringe thereafter, in which event damages may be recovered only for infringement occurring after such notice. Filing of an action for infringement shall constitute such notice.
+(a) Patentees, and persons making, offering for sale, or selling within the United States any patented article for or under them, or importingany patented article into the United States, may give notice to the public that the same is patented, either by fixing thereon the word “patent” or the abbreviation “pat.”, together with the number of the patent, or when, from the character of the article, this can not be done, by fixing to it, or to the package wherein one or more of them is contained, a label containing a like notice. In the event of failure so to mark, no damages shall be recovered by the patentee in any action for infringement, except on proof that the infringer was notified of the infringement and continued to infringe thereafter, in which event damages may be recovered only for infringement occurring after such notice. Filing of an action for infringement shall constitute such notice.
 
 (b)(1) An infringer under section 271(g) shall be subject to all the provisions of this title relating to damages and injunctions except to the extent those remedies are modified by this subsection or section 9006 of the Process Patent Amendments Act of 1988. The modifications of remedies provided in this subsection shall not be available to any person who—
 
@@ -28,7 +28,7 @@
 
 &emsp;(iii) the submission of the response by the defendant to the manufacturer, or if the manufacturer is not known, to the supplier, of the product to be purchased by the defendant, together with a request for a written statement that the process claimed in any patent disclosed in the response is not used to produce such product.
 
-> The failure to perform any acts described in the preceding sentence is evidence of absence ofgood faith unless there are mitigating circumstances. Mitigating circumstances include the case in which, due to the nature of the product, the number of sources for the product, or like commercial circumstances, a request for disclosure is not necessary or practicable to avoid infringement.
+> The failure to perform any acts described in the preceding sentence is evidence of absence of good faith unless there are mitigating circumstances. Mitigating circumstances include the case in which, due to the nature of the product, the number of sources for the product, or like commercial circumstances, a request for disclosure is not necessary or practicable to avoid infringement.
 
 (4)(A) For purposes of this subsection, a “request for disclosure” means a written request made to a person then engaged in the manufacture of a product to identify all process patents owned by or licensed to that person, as of the time of the request, that the person then reasonably believes could be asserted to be infringed under section 271(g) if that product were imported into, or sold, offered for sale, or used in, the United States by an unauthorized person. A request for disclosure is further limited to a request—
 
@@ -44,7 +44,7 @@
 
 (5)(A) For purposes of this subsection, notice of infringement means actual knowledge, or receipt by a person of a written notification, or a combination thereof, of information sufficient to persuade a reasonable person that it is likely that a product was made by a process patented in the United States.
 
-(B) A written notification from the patent holder charging a person with infringement shall specify the patented process alleged to have been used and the reasons for a good faith belief that such process was used. The patent holder shall include in the notification such information as is reasonably necessary to explain fairly the patent holder's belief, except that the patent holder is not required to disclose any trade secret information.
+(B) A written notification from the patent holder charging a person with infringement shall specify the patented process alleged to have been used and the reasons for a good faithbelief that such process was used. The patent holder shall include in the notification such information as is reasonably necessary to explain fairly the patent holder's belief, except that the patent holder is not required to disclose any trade secret information.
 
 (C) A person who receives a written notification described in subparagraph (B) or a written response to a request for disclosure described in paragraph (4) shall be deemed to have notice of infringement with respect to any patent referred to in such written notification or response unless that person, absent mitigating circumstances—
 
@@ -92,7 +92,7 @@ Language is changed. The proviso in the corresponding section of existing statut
 
 #### References in Text
 
-Section 9006 of the Process Patent Amendments Act of 1988, referred to in subsec. (b)(1), is section 9006 of title IX of Pub. L. 100–418, which is set out as a note under section 271 of this title.
+Section 9006 of the Process Patent Amendments Act of 1988, referred to in subsec. (b)(1), is section 9006 oftitle IX of Pub. L. 100–418, which is set out as a note under section 271 of this title.
 
 The effective date of the Process Patent Amendments Act of 1988, referred to in subsec. (b)(4)(C), is the effective date of title IX of Pub. L. 100–418. See section 9006 of Pub. L. 100–418, set out as a note under section 271 of this title.
 

@@ -66,7 +66,7 @@ Contents.—In addition to such other information as the Secretary may determine
 
 &emsp;&emsp;“(A) A detailed description of the evaluation audit process and the methods used to develop estimates of the amount of counterfeit United States currency in circulation outside the United States.
 
-&emsp;&emsp;“(B) The method used to determine the currency sample examined in connection with the evaluation audit and a statistical analysis of the sample examined.
+&emsp;&emsp;“(B) The method used to determine the currency sample examined in connection with the evaluationaudit and a statistical analysis of the sample examined.
 
 &emsp;&emsp;“(C) A list of the regions of the world, types of financial institutions, and other entities included.
 

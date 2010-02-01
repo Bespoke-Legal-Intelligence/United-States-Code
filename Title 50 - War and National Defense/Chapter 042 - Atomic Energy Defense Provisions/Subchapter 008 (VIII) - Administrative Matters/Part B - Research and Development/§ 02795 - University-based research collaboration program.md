@@ -30,5 +30,5 @@ Section was formerly set out as a note under section 7381 of Title 42, The Publi
 
 #### Amendments
 
-<b>2003</b>—Subsec. (c). Pub. L. 108–136, §3141(k)(9)(D), substituted “title XXXI of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85)” for “this title”.
+2003—Subsec. (c). Pub. L. 108–136, §3141(k)(9)(D), substituted “title XXXI of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85)” for “this title”.
 

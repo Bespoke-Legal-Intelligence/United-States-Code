@@ -16,11 +16,11 @@ The Director of National Intelligence shall develop and implement such programs 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–458, §1071(a)(1)(I), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+2004—Subsec. (b). Pub. L. 108–458, §1071(a)(1)(I), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 Subsec. (c). Pub. L. 108–458, §1071(a)(1)(J), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-<b>2003</b>—Pub. L. 108–136, §921(e)(6)(B), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in section catchline.
+2003—Pub. L. 108–136, §921(e)(6)(B), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in section catchline.
 
 Subsec. (a). Pub. L. 108–136, §921(c)(2), (e)(6)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” and “geospatial intelligence” for “imagery”.
 

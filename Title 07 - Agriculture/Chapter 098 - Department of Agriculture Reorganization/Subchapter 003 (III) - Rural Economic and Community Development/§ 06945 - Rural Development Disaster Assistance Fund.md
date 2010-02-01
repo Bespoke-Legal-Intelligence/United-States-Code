@@ -6,7 +6,7 @@ On and after September 30, 2008, there is established in the Treasury a fund ent
 
 #### (b) Purpose and availability of Fund
 
-Subject to subsection (d), amounts in the Rural Development Disaster Assistance Fund shall be available to the Secretary of Agriculture, until expended, to provide additional amounts for authorized activities of agencies of the Rural Development Mission Area in areas affected by a disaster declared by the President or the Secretary of Agriculture. Amounts so provided shall be in addition to any other amounts available to carry out the activity.
+Subject to subsection (d), amounts in the Rural Development Disaster Assistance Fund shall be available to the Secretary of Agriculture, until expended, to provide additional amounts for authorized activities of agencies of the Rural Development Mission Area in areas affected by a disaster declared by the President or the Secretary of Agriculture. Amounts so provided shall be in addition to any other amounts available to carry out the activity. In carrying out this section, the Secretary may transfer funds into existing or new accounts as determined by the Secretary.
 
 #### (c) Waiver of activity or project limitations
 
@@ -30,13 +30,13 @@ In addition to any other funds available to the Secretary of Agriculture to cove
 
 #### (h) Limitation on per disaster obligations
 
-Amounts in the Rural Development Disaster Assistance Fund, except for amounts described in subsection (d) that are appropriated to the Fund and obligated in accordance with that subsection, may not be obligated in excess of $1,000,000 for a disaster until at least 15 days after the date on which the Secretary of Agriculture notifies the Committees on Appropriations of the House of Representatives and the Senate of the Secretary's determination to obligate additional amounts and the reasons for the determination. The Secretary may not obligate more than 50 percent of the funds contained in the Rural Development Disaster Assistance Fund for any one disaster unless the Secretary declares that there is a specific and extreme need that additional funds must be provided in response to such disaster at time of the obligation.
+Amounts in the Rural Development Disaster Assistance Fund, except for amounts described in subsection (d) that are appropriated to the Fund and obligated in accordance with that subsection, may not be obligated in excess of $1,000,000 for a disaster until at least 15 days after the date on which the Secretary of Agriculture notifies the Committees on Appropriations of the House of Representatives and the Senate of the Secretary's determination to obligate additional amounts and the reasons for the determination. The Secretary may not obligatemore than 50 percent of the funds contained in the Rural Development Disaster Assistance Fund for any one disaster unless the Secretary declares that there is a specific and extreme need that additional funds must be provided in response to such disaster at time of the obligation.
 
 #### (i) Quarterly reports
 
 The Secretary of Agriculture shall submit, on a quarterly basis, to the Committees on Appropriations of the House of Representatives and the Senate a report describing the status of the Rural Development Disaster Assistance Fund and any transactions that have affected the Fund since the previous report.
 
-(Pub. L. 110–329, div. B, title I, §10101, Sept. 30, 2008, 122 Stat. 3586.)
+(Pub. L. 110–329, div. B, title I, §10101, Sept. 30, 2008, 122 Stat. 3586; Pub. L. 111–80, title VII, §702, Oct. 21, 2009, 123 Stat. 2118.)
 
 #### References in Text
 
@@ -45,4 +45,8 @@ This Act, referred to in subsec. (d), is Pub. L. 110–329, Sept. 30, 2008, 122 
 #### Codification
 
 Section was enacted as part of the Disaster Relief and Recovery Supplemental Appropriations Act, 2008, and also as part of the Consolidated Security, Disaster Assistance, and Continuing Appropriations Act, 2009, and not as part of the Department of Agriculture Reorganization Act of 1994, which in part comprises this chapter.
+
+#### Amendments
+
+2009—Subsec. (b). Pub. L. 111–80 inserted at end “In carrying out this section, the Secretary may transfer funds into existing or new accounts as determined by the Secretary.”
 

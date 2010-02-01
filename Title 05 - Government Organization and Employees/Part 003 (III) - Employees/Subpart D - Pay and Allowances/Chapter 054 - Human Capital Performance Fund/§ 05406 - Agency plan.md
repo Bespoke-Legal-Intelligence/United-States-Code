@@ -26,7 +26,7 @@
 
 &emsp;(4) provide such information to the Office regarding payments made and use of funds received under this section as the Office may specify.
 
-(b) The Office, in consultation with the Chief Human Capital Officers Council, shall reviewand approve an agency's plan before the agency is eligible to receive an allocation of funding from the Office.
+(b) The Office, in consultation with the Chief Human Capital Officers Council, shall review and approve an agency's plan before the agency is eligible to receive an allocation of funding from the Office.
 
 (c) The Chief Human Capital Officers Council shall include in its annual report to Congress under section 1303(d) of the Homeland Security Act of 2002 an evaluation of the formulation and implementation of agency performance management systems.
 

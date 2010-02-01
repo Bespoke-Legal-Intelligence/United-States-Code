@@ -2,7 +2,7 @@
 
 #### (a) Technical assistance to environmental agencies
 
-Notwithstanding any other provision of law relating to Federal grants and cooperative agreements, the Administrator of the Environmental Protection Agency is authorized to make grants to, or enter into cooperative agreements with, private nonprofit organizations designated by the Secretary of Labor under title V of the Older Americans Act of 1965 \[42 U.S.C. 3056 et seq.\] to utilize the talents of older Americans in programs authorized by other provisions of law administered by the Administrator (and consistent with such provisions of law) in providing technical assistance to Federal, State, and local environmental agencies for projects of pollution prevention, abatement, and control. Funding for such grants or agreements may be made available from such programs or through title V of the Older Americans Act of 1965 andsubtitle D of title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2911 et seq.\].
+Notwithstanding any other provision of law relating to Federal grants and cooperative agreements, the Administrator of the Environmental Protection Agency is authorized to make grants to, or enter into cooperative agreements with, private nonprofit organizations designated by the Secretary of Labor under title V of the Older Americans Act of 1965 \[42 U.S.C. 3056 et seq.\] to utilize the talents of older Americans in programs authorized by other provisions of law administered by the Administrator (and consistent with such provisions of law) in providing technical assistance to Federal, State, and local environmental agencies for projects of pollution prevention, abatement, and control. Funding for such grants or agreements may be made available from such programs or through title V of the Older Americans Act of 1965 and subtitle D of title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2911 et seq.\].
 
 #### (b) Pre-award certifications
 
@@ -18,7 +18,7 @@ Prior to awarding any grant or agreement under subsection (a) of this section, t
 
 Grants or agreements awarded under this section shall be subject to prior appropriation Acts.
 
-(Pub. L. 98–313, §2, June 12, 1984, 98 Stat. 235; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(35), (f)(27)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–426, 2681–434.)
+(Pub. L. 98–313, §2, June 12, 1984, 98 Stat. 235; Pub. L. 105–277, div. A, §101(f) \[title VIII,§405(d)(35), (f)(27)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–426, 2681–434.)
 
 #### References in Text
 

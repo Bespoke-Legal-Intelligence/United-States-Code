@@ -32,5 +32,17 @@ Subsec. (c). Pub. L. 106–404, §9(2), inserted “, institutions of higher ed
 
 1991—Subsec. (a). Pub. L. 102–190 inserted “that is not a laboratory (as defined in section 3710a(d)(2) of this title)” after “center” in introductory provisions.
 
+#### Participation in Programs Promoting Research, Development, Demonstration, or Transfer of Technology
+
+Pub. L. 103–337, div. A, title II, §217(f), Oct. 5, 1994, 108 Stat. 2695, as amended by Pub. L. 105–261, div. C, title XXXI, §3136, Oct. 17, 1998, 112 Stat. 2248; Pub. L. 111–84, div. A, title II, §254, Oct. 28, 2009, 123 Stat. 2243, provided that:
+
+“(1)(A) A federally funded research and development center of the Department of Defense, of the NationalAeronautics and Space Administration, or of the Department of Energy that functions primarily as a research laboratory may respond to solicitations and announcements under programs authorized by the Federal Government for the purpose of promoting the research, development, demonstration, or transfer of technology in a manner consistent with the terms and conditions of such program.
+
+“(B) A federally funded research and development center of the Department of Energy described in subparagraph (A) may respond to solicitations and announcements described in that subparagraph only for activities conducted by the center under contract with or on behalf of the Department of Defense.
+
+“(C) A federally funded research and development center of the National Aeronautics and Space Administration that functions primarily as a research laboratory may respond to broad agency announcements under programs authorized by the Federal Government for the purpose of promoting the research, development, demonstration, or transfer of technology in a manner consistent with the terms and conditions of such program.
+
+“(2) A federally funded research and development center described in paragraph (1)(A) that responds to a solicitation or announcement described in such paragraph shall not be considered to be engaging in a competitive procedure and may use, among other authorities, cooperative research and development agreements provided for under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a)) \[sic\] as the instruments of participation in the solicitation or announcement.”
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

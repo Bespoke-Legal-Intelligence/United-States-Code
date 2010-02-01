@@ -24,7 +24,7 @@ Pub. L. 107–210, div. A, title III, §301, Aug. 6, 2002, 116 Stat. 972, provid
 
 #### Short Title of 2000 Amendments
 
-Pub. L. 106–476, §1, Nov. 9, 2000, 114 Stat. 2101, provided that: “This Act \[enacting subtitle V of this chapter and section 1308 of this title, amending sections 58c, 1313, 1433, 1434, 1441, 1484, 1505, and 1555 of this title, section 5314 of Title 5, Government Organization and Employees, section 69 of Title 15, Commerce and Trade, and sections 5704, 5754, and 5761 of Title 26, Internal Revenue Code, and section 91 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section and sections 58c, 1308, 1313, 1484, 1681, and 2434 of this title, sections 1, 5704, and 5761 of Title 26, and section 1113 of Title 31, Money and Finance\] may be cited as the ‘Tariff Suspension and Trade Act of 2000’.”
+Pub. L. 106–476, §1, Nov. 9, 2000, 114 Stat. 2101, provided that: “This Act \[enacting subtitle V of this chapter and section 1308 of this title, amending sections 58c, 1313, 1433, 1434, 1441, 1484, 1505, and 1555 of this title, section 5314 of Title 5, Government Organization and Employees, section 69 of Title 15, Commerce and Trade, and sections 5704, 5754, and 5761 of Title 26, Internal Revenue Code, and section 91 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section and sections 58c, 1308, 1313, 1484, 1681, and 2434 of this title, sections 1, 5704, and 5761 of Title26, and section 1113 of Title 31, Money and Finance\] may be cited as the ‘Tariff Suspension and Trade Act of 2000’.”
 
 Pub. L. 106–476, title I, §1441, Nov. 9, 2000, 114 Stat. 2163, provided that: “This chapter \[chapter 3 (§§1441–1443) of subtitle B of title I of Pub. L. 106–476, enacting section 1308 of this title, amending section 69 of Title 15, Commerce and Trade, and enacting provisions set out as notes under section 1308 of this title\], may be cited as the ‘Dog and Cat Protection Act of 2000’.”
 
@@ -40,7 +40,7 @@ Pub. L. 105–258, §1, Oct. 14, 1998, 112 Stat. 1902, provided that: “This Ac
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–295, §1(a), Oct. 11, 1996, 110 Stat. 3514, provided that: “This Act \[amending sections 58c, 81c, 293, 294, 1304, 1313, 1321, 1337, 1401, 1413, 1431, 1436, 1441, 1484, 1490, 1491, 1504, 1505, 1508, 1509, 1514, 1515, 1516a, 1555, 1592,1592a, 1625, 1631, 1641, 1671a, 1671b, 1671d, 1673a, 1673d, 1673f, 1675b, 1677, 1677–1, 1677n, 2171, 2192, 2252, 2411, 2414, 2416, 2462, 2514, 2515, 2518, 2532, 2541, 2543 to 2547, 2552, 2553, 2561, 2571, 2573, 2578a, 2707, 2905, 3007, 3010, 3332, 3358, 3381, 3432, 3437, 3451, 3552, 3571, 3572, 3591, 3592, and 3602 of this title, section 1854 of Title 7, Agriculture, section 104A of Title 17, Copyrights, and section 154 of Title 35, Patents, repealing sections 1707 and 2440 of this title, enacting provisions set out as notes under sections 58c, 81c, 1304, 1321, 1505, and 2462 of this title, and amending provisions set out as notes under sections 1466, 1553, and 2465 of this title\] may be cited as the ‘Miscellaneous Trade and Technical Corrections Act of 1996’.”
+Pub. L. 104–295, §1(a), Oct. 11, 1996, 110 Stat. 3514, provided that: “This Act \[amending sections 58c, 81c, 293, 294, 1304, 1313, 1321, 1337, 1401, 1413, 1431, 1436, 1441, 1484, 1490, 1491, 1504, 1505, 1508, 1509, 1514, 1515, 1516a, 1555, 1592, 1592a, 1625, 1631, 1641, 1671a, 1671b, 1671d, 1673a, 1673d, 1673f, 1675b, 1677, 1677–1, 1677n, 2171, 2192, 2252, 2411, 2414, 2416, 2462, 2514, 2515, 2518, 2532, 2541, 2543 to 2547, 2552, 2553, 2561, 2571, 2573, 2578a, 2707, 2905, 3007, 3010, 3332, 3358, 3381, 3432, 3437, 3451, 3552, 3571, 3572, 3591, 3592, and 3602 of this title, section 1854 of Title 7, Agriculture, section 104A of Title 17, Copyrights, and section 154 of Title 35, Patents, repealing sections 1707 and 2440 of this title, enacting provisions set out as notes under sections 58c, 81c, 1304, 1321, 1505, and 2462 of this title, and amending provisions set out as notes under sections 1466, 1553, and 2465 of this title\] may be cited as the ‘Miscellaneous Trade and Technical Corrections Act of 1996’.”
 
 #### Short Title of 1986 Amendment
 
@@ -78,7 +78,7 @@ Section 1 of Pub. L. 85–686, Aug. 20, 1958, 72 Stat. 673, provided: “That th
 
 #### Short Title of 1956 Amendment
 
-Section 1 of act Aug. 2, 1956, ch. 887, 70 Stat. 943, provided: “That this Act \[enacting section 1401a of this title, amending sections 1001, 1402, 1500, and 1583 of this title, and section 372 of former Title 31, Money and Finance, repealing sections 12 to 18, 21, 24, 26 to 28, 30, 40, 53 to 57, 59, 61, 62, 67, 376, 379, 390, 494, 526, 541, 542, 549, and 579 of this title, and section 711 of former Title 31, and enacting provisions set out as notes under sections 2, 160, 1351, 1401a, and 1402 of this title\] may be cited as the ‘Customs Simplification Act of 1956’.”
+Section 1 of act Aug. 2, 1956, ch. 887, 70 Stat. 943, provided: “That this Act \[enacting section 1401a of thistitle, amending sections 1001, 1402, 1500, and 1583 of this title, and section 372 of former Title 31, Money and Finance, repealing sections 12 to 18, 21, 24, 26 to 28, 30, 40, 53 to 57, 59, 61, 62, 67, 376, 379, 390, 494, 526, 541, 542, 549, and 579 of this title, and section 711 of former Title 31, and enacting provisions set out as notes under sections 2, 160, 1351, 1401a, and 1402 of this title\] may be cited as the ‘Customs Simplification Act of 1956’.”
 
 #### Short Title of 1955 Amendment
 
@@ -96,7 +96,7 @@ Section 1 of act Aug. 7, 1953, ch. 348, 67 Stat. 472, provided: “That this Act
 
 #### Short Title of 1951 Amendment
 
-Section 1 of act June 16, 1951, ch. 141, 65 Stat. 72, provided: “That this Act \[enacting sections 1360 to 1367 ofthis title, amending sections 1352 and 1354 of this title, provisions set out as a note under section 1516 of this title, and section 624 of Title 7, Agriculture\] may be cited as the ‘Trade Agreements Extension Act of 1951’.”
+Section 1 of act June 16, 1951, ch. 141, 65 Stat. 72, provided: “That this Act \[enacting sections 1360 to 1367 of this title, amending sections 1352 and 1354 of this title, provisions set out as a note under section 1516 of this title, and section 624 of Title 7, Agriculture\] may be cited as the ‘Trade Agreements Extension Act of 1951’.”
 
 #### Short Title of 1949 Amendment
 

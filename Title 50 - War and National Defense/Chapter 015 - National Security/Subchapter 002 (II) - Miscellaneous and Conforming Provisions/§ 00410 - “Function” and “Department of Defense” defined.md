@@ -22,5 +22,5 @@ Section was formerly classified to section 171n of Title 5 prior to the general 
 
 #### Amendments
 
-<b>1949</b>—Subsec. (b). Act Aug. 10, 1949, substituted definition of “Department of Defense” for definition of “budget program”.
+1949—Subsec. (b). Act Aug. 10, 1949, substituted definition of “Department of Defense” for definition of “budget program”.
 

@@ -16,7 +16,7 @@ Pub. L. 100–204, title XIII, §1301, Dec. 22, 1987, 101 Stat. 1432, provided t
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–332, §1, Oct. 16, 2004, 118 Stat. 1282, provided that: “This Act \[enacting section 2731 of thistitle, amending sections 2151n, 2304, and 6412 of this title, and enacting provisions set out as notes under sections 2151n and 2731 of this title\] may be cited as the ‘Global Anti-Semitism Review Act of 2004’.”
+Pub. L. 108–332, §1, Oct. 16, 2004, 118 Stat. 1282, provided that: “This Act \[enacting section 2731 of this title, amending sections 2151n, 2304, and 6412 of this title, and enacting provisions set out as notes under sections 2151n and 2731 of this title\] may be cited as the ‘Global Anti-Semitism Review Act of 2004’.”
 
 #### Short Title of 2002 Amendment
 
@@ -42,7 +42,7 @@ Pub. L. 102–138, §1, Oct. 28, 1991, 105 Stat. 647, provided that: “This Act
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–246, §1(a), Feb. 16, 1990, 104 Stat. 15, provided that: “This Act \[enacting sections 1464a, 1464b, 1465aa to 1465ff, 1475f, 2414a, 2461, 2665a, 2678, 2715 to 2719, 2877a, 4027, 4141, 4141a to 4141c, 4863, and 4864 of this title, amending sections 277a, 277b, 277d–12, 290f, 300, 1461, 1465c, 1469, 1474, 1475e, 2456, 2460, 2606, 2656f, 2669, 2684, 2696, 2698, 2703, 2708, 2709, 2871, 2877, 3905, 3968, 4002, 4010, 4056, 4057, 4069a to 4069c, 4081, 4303, 4304, 4403, 4801, 4802, and 4852 of this title, sections 8345 and 9101 of Title 5, Government Organization and Employees, and section 1101 and 1182 of Title 8, Aliens and Nationality, repealing section 4192 of this title, enacting provisions set out as notes under this section, sections 287e, 1461, 1463, 1465aa, 1465c, 1469, 2151, 2456, 2460, 2656, 2715, 3941, 3968, 4001, 4140, 4171, 4301, and 4852 of this title, sections 5921 and 5928 of Title 5, and section 1102 of Title 8, amending provisions set out as notes under this section and sections 287, 2151, and 4851 of this title and section 1182 of Title 8, and repealing provisions set out as notes under sections 2414a and 2656 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Years 1990 and 1991’.”
+Pub. L. 101–246, §1(a), Feb. 16, 1990, 104 Stat. 15, provided that: “This Act \[enacting sections 1464a, 1464b, 1465aa to 1465ff, 1475f, 2414a, 2461, 2665a, 2678, 2715 to 2719, 2877a, 4027, 4141, 4141a to 4141c, 4863, and 4864 of this title, amending sections 277a, 277b, 277d–12, 290f, 300, 1461, 1465c, 1469, 1474, 1475e, 2456, 2460, 2606, 2656f, 2669, 2684, 2696, 2698, 2703, 2708, 2709, 2871, 2877, 3905, 3968, 4002, 4010, 4056, 4057, 4069a to 4069c, 4081, 4303, 4304, 4403, 4801, 4802, and 4852 of this title, sections 8345 and 9101 of Title5, Government Organization and Employees, and section 1101 and 1182 of Title 8, Aliens and Nationality, repealing section 4192 of this title, enacting provisions set out as notes under this section, sections 287e, 1461, 1463, 1465aa, 1465c, 1469, 2151, 2456, 2460, 2656, 2715, 3941, 3968, 4001, 4140, 4171, 4301, and 4852 of this title, sections 5921 and 5928 of Title 5, and section 1102 of Title 8, amending provisions set out as notes under this section and sections 287, 2151, and 4851 of this title and section 1182 of Title 8, and repealing provisions set out as notes under sections 2414a and 2656 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Years 1990 and 1991’.”
 
 #### Short Title of 1987 Amendment
 
@@ -58,7 +58,7 @@ Pub. L. 94–350, §1, July 12, 1976, 90 Stat. 823, provided: “That this Act \
 
 #### Short Title of 1975 Amendment
 
-Pub. L. 94–141, §1, Nov. 29, 1975, 89 Stat. 756, provided: “That this Act \[enacting sections 276a–1, 1037 to 1037c,2576, 2687, and 2688 of this title, amending sections 276, 276c, 295, 966, 991, 995, 1934, 2321d, 2551, 2562, 2585, 2589, 2590, 2601, 2666, 2679a, and 2791 of this title and section 5924 of Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 1037a and 2679a of this title, amending provision set out as a note under section 287e, and repealing provision set out as a note under section 966 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Year 1976’.”
+Pub. L. 94–141, §1, Nov. 29, 1975, 89 Stat. 756, provided: “That this Act \[enacting sections 276a–1, 1037 to 1037c, 2576, 2687, and 2688 of this title, amending sections 276, 276c, 295, 966, 991, 995, 1934, 2321d, 2551, 2562, 2585, 2589, 2590, 2601, 2666, 2679a, and 2791 of this title and section 5924 of Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 1037a and 2679a of this title, amending provision set out as a note under section 287e, and repealing provision set out as a note under section 966 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Year 1976’.”
 
 #### Short Title of 1974 Amendment
 
@@ -134,7 +134,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[§3\], Nov. 29, 1999, 113 Stat. 1536, 
 
 &emsp;“(1)
 
-Appropriate congressional committees.—Except as otherwise provided in section 902(1) \[113 Stat.1501A–475\], the term ‘appropriate congressional committees’ means the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate.
+Appropriate congressional committees.—Except as otherwise provided in section 902(1) \[113 Stat. 1501A–475\], the term ‘appropriate congressional committees’ means the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
 &emsp;“(2)
 

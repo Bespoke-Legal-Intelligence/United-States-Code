@@ -48,7 +48,7 @@ Use of Funds.—(1) The United States Paralympics, Inc., with the assistance and
 
 (e)
 
-Outreach Requirement.—As a condition of receiving a grant under this section, the United States Paralympics, Inc., shall agree to conduct a joint outreach campaign with the Secretary of Veterans Affairs to inform all eligible veterans and separating members of the Armed Forces with physical disabilities about the existence of the integrated adaptive sports program, as appropriate, and shall provide for, facilitate, and encourage participation of such veterans andseparating members of the Armed Forces in programs under this section to the extent possible.
+Outreach Requirement.—As a condition of receiving a grant under this section, the United States Paralympics, Inc., shall agree to conduct a joint outreach campaign with the Secretary of Veterans Affairs to inform all eligible veterans and separating members of the Armed Forces with physical disabilities about the existence of the integrated adaptive sports program, as appropriate, and shall provide for, facilitate, and encourage participation of such veterans and separating members of the Armed Forces in programs under this section to the extent possible.
 
 (f)
 

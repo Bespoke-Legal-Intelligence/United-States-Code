@@ -72,7 +72,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Funds made available for fiscal years 2001 through 2012 to carry out subchapters III and III-A of this chapter may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each such fiscal year not more than $10,000,000 of such funds may be used to store agricultural commodities for prepositioning in foreign countries.
+&emsp;&emsp;Funds made available for fiscal years 2001 through 2012 to carry out subchapters III and III-A of this chapter may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each such fiscalyear not more than $10,000,000 of such funds may be used to store agricultural commodities for prepositioning in foreign countries.
 
 #### (B) Additional prepositioning sites
 
@@ -154,7 +154,7 @@ An agreement under subchapters II and III–A of this chapter shall, to the exte
 
 &emsp;&emsp;&emsp;(ii) a statement that contains a description of the total amount of funds approved for transportation and administrative costs under section 1726a of this title.
 
-(July 10, 1954, ch. 469, title IV, §407, as added Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1537; amended Pub. L. 90–436, §8, July 29, 1968, 82 Stat. 451; Pub. L. 94–161, title II, §210, Dec. 20, 1975, 89 Stat. 854; Pub. L. 101–508, title I, §1204(b)(3), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §§319, 324, 325, 328, 329, 332, Dec. 13, 1991, 105 Stat. 1857, 1858; Pub. L. 104–66, title I, §1011(e), Dec. 21, 1995, 109 Stat. 709; Pub. L. 104–127, title II, §216, Apr. 4, 1996, 110 Stat. 957; Pub. L. 106–472, title III, §310(b), Nov. 9, 2000, 114 Stat. 2076; Pub. L. 107–171, title III, §§3010, 3011, May 13, 2002, 116 Stat. 284; Pub. L. 110–246, title III, §§3017, 3018(a), June 18, 2008, 122 Stat. 1827.)
+(July 10, 1954, ch. 469, title IV, §407, as added Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1537; amended Pub. L. 90–436, §8, July 29, 1968, 82 Stat. 451; Pub. L. 94–161, title II, §210, Dec. 20, 1975, 89 Stat. 854; Pub. L. 101–508, title I, §1204(b)(3), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §§319, 324, 325, 328, 329, 332, Dec. 13, 1991,105 Stat. 1857, 1858; Pub. L. 104–66, title I, §1011(e), Dec. 21, 1995, 109 Stat. 709; Pub. L. 104–127, title II, §216, Apr. 4, 1996, 110 Stat. 957; Pub. L. 106–472, title III, §310(b), Nov. 9, 2000, 114 Stat. 2076; Pub. L. 107–171, title III, §§3010, 3011, May 13, 2002, 116 Stat. 284; Pub. L. 110–246, title III, §§3017, 3018(a), June 18, 2008, 122 Stat. 1827.)
 
 #### References in Text
 
@@ -168,7 +168,7 @@ The Food for Progress Act of 1985, referred to in subsec. (f)(1)(B)(iii)(II), is
 
 Subsec. (c)(5). Pub. L. 110–246, §3017(2), added par. (5).
 
-Subsec. (f). Pub. L. 110–246, §3018(a), added subsec. (f) and struck out former subsec. (f) which directed President to prepare an annual report concerning programs and activities implemented under this chapter for the preceding fiscal year, described contents of report, anddirected that it be submitted not later than Jan. 15 of each year to the Committee on Agriculture and the Committee on Foreign Affairs of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+Subsec. (f). Pub. L. 110–246, §3018(a), added subsec. (f) and struck out former subsec. (f) which directed President to prepare an annual report concerning programs and activities implemented under this chapter for the preceding fiscal year, described contents of report, and directed that it be submitted not later than Jan. 15 of each year to the Committee on Agriculture and the Committee on Foreign Affairs of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
 2002—Subsec. (c)(1). Pub. L. 107–171, §3011, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 

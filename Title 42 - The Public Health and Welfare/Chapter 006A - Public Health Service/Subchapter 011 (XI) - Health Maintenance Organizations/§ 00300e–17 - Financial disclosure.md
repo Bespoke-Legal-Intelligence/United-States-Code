@@ -2,7 +2,7 @@
 
 #### (a) Financial information reported to Secretary
 
-Each health maintenance organization shall, in accordance with regulations of the Secretary,report to the Secretary financial information which shall include the following:
+Each health maintenance organization shall, in accordance with regulations of the Secretary, report to the Secretary financial information which shall include the following:
 
 &emsp;(1) Such information as the Secretary may require demonstrating that the health maintenance organization has a fiscally sound operation.
 

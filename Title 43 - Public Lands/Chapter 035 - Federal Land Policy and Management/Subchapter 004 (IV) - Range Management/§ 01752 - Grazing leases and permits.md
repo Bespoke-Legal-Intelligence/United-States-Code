@@ -6,7 +6,7 @@ Except as provided in subsection (b) of this section, permits and leases for dom
 
 #### (b) Terms of lesser duration
 
-Permits or leases may be issued by the Secretary concerned for a period shorter than tenyears where the Secretary concerned determines that—
+Permits or leases may be issued by the Secretary concerned for a period shorter than ten years where the Secretary concerned determines that—
 
 &emsp;(1) the land is pending disposal; or
 
@@ -36,7 +36,7 @@ Whenever a permit or lease for grazing domestic livestock is canceled in whole o
 
 #### (h) Applicability of provisions to rights, etc., in or to public lands or lands in National Forests
 
-Nothing in this Act shall be construed as modifying in any way law existing on October21, 1976, with respect to the creation of right, title, interest or estate in or to public lands or lands in National Forests by issuance of grazing permits and leases.
+Nothing in this Act shall be construed as modifying in any way law existing on October 21, 1976, with respect to the creation of right, title, interest or estate in or to public lands or lands in National Forests by issuance of grazing permits and leases.
 
 (Pub. L. 94–579, title IV, §402, Oct. 21, 1976, 90 Stat. 2772, 2773; Pub. L. 95–514, §§7, 8, Oct. 25, 1978, 92 Stat. 1807.)
 

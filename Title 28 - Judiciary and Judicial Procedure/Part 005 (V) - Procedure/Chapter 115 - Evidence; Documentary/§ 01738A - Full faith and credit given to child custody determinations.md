@@ -52,7 +52,7 @@
 
 (h) A court of a State may not modify a visitation determination made by a court of another State unless the court of the other State no longer has jurisdiction to modify such determination or has declined to exercise jurisdiction to modify such determination.
 
-(Added Pub. L. 96–611, §8(a), Dec. 28, 1980, 94 Stat. 3569; amended Pub. L. 105–374, §1, Nov. 12, 1998, 112 Stat. 3383; Pub. L. 106–386, div. B, title III, §1303(d), Oct. 28, 2000, 114 Stat. 1512.)
+(Added Pub. L. 96–611, §8(a), Dec. 28, 1980, 94 Stat. 3569; amended Pub. L. 105–374, §1, Nov. 12,1998, 112 Stat. 3383; Pub. L. 106–386, div. B, title III, §1303(d), Oct. 28, 2000, 114 Stat. 1512.)
 
 #### Amendments
 

@@ -8,7 +8,7 @@ A person shall not sell, import, or export, or attempt to sell, import, or expor
 
 #### (1) Criminal penalty
 
-&emsp;A person engaged in business as an importer, exporter, or distributor that knowingly violates subsection (a) of this section shall befined under title 18, imprisoned not more than 6 months, or both.
+&emsp;A person engaged in business as an importer, exporter, or distributor that knowingly violates subsection (a) of this section shall be fined under title 18, imprisoned not more than 6 months, or both.
 
 #### (2) Civil penalties
 

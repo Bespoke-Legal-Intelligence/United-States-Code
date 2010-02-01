@@ -1,6 +1,6 @@
 ### §2451. Defense supply management
 
-(a) The Secretary of Defense shall develop a single catalog system and related program ofstandardizing supplies for the Department of Defense.
+(a) The Secretary of Defense shall develop a single catalog system and related program of standardizing supplies for the Department of Defense.
 
 (b) In cataloging, the Secretary shall name, describe, classify, and number each item recurrently used, bought, stocked, or distributed by the Department of Defense, so that only one distinctive combination of letters or numerals, or both, identifies the same item throughout the Department of Defense. Only one identification may be used for each item for all supply functions from purchase to final disposal in the field or other area. The catalog may consist of a number of volumes, sections, or supplements. It shall include all items of supply and, for each item, information needed for supply operations, such as descriptive and performance data, size, weight, cubage, packaging and packing data, a standard quantitative unit of measurement, and other related data that the Secretary determines to be desirable.
 
@@ -44,7 +44,7 @@ In subsection (a), the words “for the Department of Defense” are inserted fo
 
 In subsection (b), the words “or any of the departments thereof”, “in such manner”, “original”, and “necessary or” are omitted as surplusage. The words “throughout the Department of Defense” are substituted for the words “either within a bureau or service, between bureaus or services, or between the departments”. The word “recurrently” is substituted for the word “repetitively”. The words “Only one identification may” are substituted for the words “The single item identification shall”.
 
-In subsection (c), the words “the most” are omitted as surplusage. The words “to the highest degree practicable” are substituted for the words “achieve the highest practicable degree possible” and “The greatest practicable degree of standardization \* \* \* shall be achieved”.
+In subsection (c), the words “the most” are omitted as surplusage. The words “to the highest degree practicable” are substituted for the words “achieve the highest practicable degree possible” and “The greatest practicable degree of standardization shall be achieved”.
 
 #### 1958 Act
 

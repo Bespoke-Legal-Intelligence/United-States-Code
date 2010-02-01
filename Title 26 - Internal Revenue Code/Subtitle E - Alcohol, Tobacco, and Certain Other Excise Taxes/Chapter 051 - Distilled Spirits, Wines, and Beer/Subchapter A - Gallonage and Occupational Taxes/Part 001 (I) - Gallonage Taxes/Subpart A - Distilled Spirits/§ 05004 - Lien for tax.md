@@ -8,7 +8,7 @@
 
 #### (2) Exceptions
 
-&emsp;The lien imposed by paragraph (1), or any similar lien imposed on the spirits under prior provisions of internal revenue law, shall terminate in the case of distilled spirits produced on premises qualified under internal revenuelaw for the production of distilled spirits when such distilled spirits are—
+&emsp;The lien imposed by paragraph (1), or any similar lien imposed on the spirits under prior provisions of internal revenue law, shall terminate in the case of distilled spirits produced on premises qualified under internal revenue law for the production of distilled spirits when such distilled spirits are—
 
 &emsp;&emsp;(A) withdrawn from bonded premises on determination of tax; or
 

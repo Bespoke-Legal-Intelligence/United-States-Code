@@ -2,7 +2,7 @@
 
 #### (a) Purpose and intent
 
-The purpose of this section is to ensure that students have access to affordable course materials by decreasing costs to students and enhancing transparency and disclosure with respect to the selection, purchase, sale, and use ofcourse materials. It is the intent of this section to encourage all of the involved parties, including faculty, students, administrators, institutions of higher education, bookstores, distributors, and publishers, to work together to identify ways to decrease the cost of college textbooks and supplemental materials for students while supporting the academic freedom of faculty members to select high quality course materials for students.
+The purpose of this section is to ensure that students have access to affordable course materials by decreasing costs to students and enhancing transparency and disclosure with respect to the selection, purchase, sale, and use of course materials. It is the intent of this section to encourage all of the involved parties, including faculty, students, administrators, institutions of higher education, bookstores, distributors, and publishers, to work together to identify ways to decrease the cost of college textbooks and supplemental materials for students while supporting the academic freedom of faculty members to select high quality course materials for students.
 
 #### (b) Definitions
 
@@ -142,7 +142,7 @@ The Secretary shall not promulgate regulations with respect to this section.
 
 #### Prior Provisions
 
-A prior section 1015b, Pub. L. 89–329, title I, §133, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 466, related to activities for which grants could be used, prior to the general amendment of this subchapter by Pub. L. 105–244.
+A prior section 1015b, Pub. L. 89–329, title I, §133, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106Stat. 466, related to activities for which grants could be used, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 Another prior section 1015b, Pub. L. 89–329, title I, §133, as added Pub. L. 94–482, title I, §101(g)(3), Oct. 12, 1976, 90 Stat. 2087; amended Pub. L. 95–43, §1(a)(4), June 15, 1977, 91 Stat. 213, related to implementation of lifelong learning program by Assistant Secretary, prior to the general amendment of this subchapter by Pub. L. 96–374.
 

@@ -8,7 +8,7 @@ In this part:
 
 #### (2) Chief Executive Officer
 
-&emsp;The term “Chief Executive Officer” means the chief executive officer of the Foundationappointed pursuant to section 17352(b) of this title.
+&emsp;The term “Chief Executive Officer” means the chief executive officer of the Foundation appointed pursuant to section 17352(b) of this title.
 
 #### (3) Foundation
 

@@ -22,7 +22,7 @@ Such report shall include, with respect to voting practices and plenary actions 
 
 &emsp;&emsp;(D) a listing of votes described in subparagraph (A) displayed in terms of United Nations regional caucus groups;
 
-&emsp;(4) a listing of all plenary votes cast by member countries of the United Nations in theGeneral Assembly which provides a comparison of the votes cast by each member country with the vote cast by the United States, including a separate listing of all plenary votes cast by member countries of the United Nations in the General Assembly on resolutions specifically related to Israel that are opposed by the United States;
+&emsp;(4) a listing of all plenary votes cast by member countries of the United Nations in the General Assembly which provides a comparison of the votes cast by each member country with the vote cast by the United States, including a separate listing of all plenary votes cast by member countries of the United Nations in the General Assembly on resolutions specifically related to Israel that are opposed by the United States;
 
 &emsp;(5) an analysis and discussion, prepared in consultation with the Secretary of State, of the extent to which other members supported United States policy objectives in the Security Council and a separate listing of all Security Council votes of each member country in comparison with the United States; and
 

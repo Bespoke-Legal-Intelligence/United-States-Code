@@ -34,7 +34,7 @@ Authority of integrity committee.—
 
 &emsp;“(A)
 
-In general.—An allegation of wrongdoing against the Special Counsel or the Deputy Special Counsel may be received, reviewed, and referred for investigation by the Integrity Committee to the same extent and in the same manner as in the case of an allegation against an Inspector General (or a member of the staff of an Office of Inspector General), subject to the requirement that the Special Counsel recuse himself or herself from the consideration of any allegation brought under this paragraph.
+In general.—An allegation of wrongdoing against the Special Counsel or the Deputy Special Counsel may be received, reviewed, and referred for investigation by the Integrity Committee to the same extent and in the same manner as in the case of an allegation against an Inspector General (or amember of the staff of an Office of Inspector General), subject to the requirement that the Special Counsel recuse himself or herself from the consideration of any allegation brought under this paragraph.
 
 &emsp;“(B)
 

@@ -70,7 +70,7 @@
 
 #### (1) General requirement
 
-&emsp;Each area health education center that receives funds under this section shall encourage the regionalization of health professions schools through the establishment of partnerships with community-based organizations.
+&emsp;Each area health education center that receives funds under this section shall encouragethe regionalization of health professions schools through the establishment of partnerships with community-based organizations.
 
 #### (2) Service area
 

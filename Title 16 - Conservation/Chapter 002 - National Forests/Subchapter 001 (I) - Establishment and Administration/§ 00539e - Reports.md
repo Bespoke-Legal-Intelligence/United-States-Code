@@ -22,7 +22,7 @@ The study required by this section shall be conducted in cooperation and consult
 
 Subsec. (b). Pub. L. 101–626, §104(a), added cl. (5).
 
-Subsec. (c). Pub. L. 101–626, §104(b), substituted “the southeast Alaska commercial fishing industry, and the Alaska Land Use Council.” for “and the Alaska Land Use Council”.
+Subsec. (c). Pub. L. 101–626, §104(b), substituted “the southeast Alaska commercial fishing industry, and theAlaska Land Use Council.” for “and the Alaska Land Use Council”.
 
 #### Termination of Reporting Requirements
 

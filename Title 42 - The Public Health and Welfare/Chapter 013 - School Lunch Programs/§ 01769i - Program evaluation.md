@@ -58,5 +58,5 @@
 
 #### References in Text
 
-The Child Nutrition Act of 1966, referred to in subsecs. (a)(1) and (b)(4)(A), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+The Child Nutrition Act of 1966, referred to in subsecs. (a)(1) and (b)(4)(A), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generallyto chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 

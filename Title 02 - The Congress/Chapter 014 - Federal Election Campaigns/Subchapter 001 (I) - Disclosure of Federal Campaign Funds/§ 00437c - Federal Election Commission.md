@@ -18,7 +18,7 @@
 
 (D) Any vacancy occurring in the membership of the Commission shall be filled in the same manner as in the case of the original appointment.
 
-(3) Members shall be chosen on the basis of their experience, integrity, impartiality, and good judgment and members (other than the Secretary of the Senate and the Clerk of the House of Representatives) shall be individuals who, at the time appointed to the Commission,are not elected or appointed officers or employees in the executive, legislative, or judicial branch of the Federal Government. Such members of the Commission shall not engage in any other business, vocation, or employment. Any individual who is engaging in any other business, vocation, or employment at the time of his or her appointment to the Commission shall terminate or liquidate such activity no later than 90 days after such appointment.
+(3) Members shall be chosen on the basis of their experience, integrity, impartiality, and good judgment and members (other than the Secretary of the Senate and the Clerk of the House of Representatives) shall be individuals who, at the time appointed to the Commission, are not elected or appointed officers or employees in the executive, legislative, or judicial branch of the Federal Government. Such members of the Commission shall not engage in any other business, vocation, or employment. Any individual who is engaging in any other business, vocation, or employment at the time of his or her appointment to the Commission shall terminate or liquidate such activity no later than 90 days after such appointment.
 
 (4) Members of the Commission (other than the Secretary of the Senate and the Clerk of the House of Representatives) shall receive compensation equivalent to the compensation paid at level IV of the Executive Schedule (5 U.S.C. 5315).
 
@@ -40,7 +40,7 @@ The Commission shall meet at least once each month and also at the call of any m
 
 #### (e) Rules for conduct of activities; judicial notice of seal; principal office
 
-The Commission shall prepare written rules for the conduct of its activities, shall have an official seal which shall be judicially noticed, and shall have its principal office in or near the District of Columbia (but it may meet or exercise any of its powers anywhere in the United States).
+The Commission shall prepare written rules for the conduct of its activities, shall have anofficial seal which shall be judicially noticed, and shall have its principal office in or near the District of Columbia (but it may meet or exercise any of its powers anywhere in the United States).
 
 #### (f) Staff director and general counsel; appointment and compensation; appointment and compensation of personnel and procurement of intermittent services by staff director; use of assistance, personnel, and facilities of Federal agencies and departments; counsel for defense of actions
 
@@ -80,7 +80,7 @@ Pub. L. 96–187, §112(b), purported to substitute “section 307(a)” for “
 
 Subsec. (f). Pub. L. 96–187, §105(6), in par. (1) inserted “or she” after “as he”; in par. (3) struck out “Government” after “United States”; and added par. (4).
 
-1976—Subsec. (a)(1). Pub. L. 94–283, §101(a), changed provisions covering the appointment and confirmation of the six members of the Commission other than the Secretary of the Senate and the Clerk of the House of Representatives by substituting a requirement that they be appointed by the President of the United States, by and with the advice and consent of the Senate, for a requirement that appointment be made by the President, the President pro tempore of the Senate, and the Speaker of the House, with confirmation by a majority of both Houses of the Congress, and made technical changes in the provisions covering the political affiliation of the six appointees so as to accommodate the changed appointment and confirmation procedures.
+1976—Subsec. (a)(1). Pub. L. 94–283, §101(a), changed provisions covering the appointment and confirmation of the six members of the Commission other than the Secretary of the Senate and the Clerk of the House of Representatives by substituting a requirement that they be appointed by the President of the UnitedStates, by and with the advice and consent of the Senate, for a requirement that appointment be made by the President, the President pro tempore of the Senate, and the Speaker of the House, with confirmation by a majority of both Houses of the Congress, and made technical changes in the provisions covering the political affiliation of the six appointees so as to accommodate the changed appointment and confirmation procedures.
 
 Subsec. (a)(2). Pub. L. 94–283, §101(b), provided that members of the Commission serve for terms of 6 years, except that members first appointed serve for staggered terms as designated by the President, and inserted provision that a member may serve on the Commission after the expiration of his term until his successor has taken office as a member of the Commission.
 
@@ -106,7 +106,7 @@ Section effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out 
 
 #### Operation of Federal Election Commission After 1976 Amendment of Federal Election Campaign Act; Appointment of Commission Members; Transfer of Personnel, Liabilities, Contracts, Property, and Records, of Commission; References to Commission Prior to Amendment Deemed References to Commission as Constituted After 1976 Amendment of Federal Election Campaign Act
 
-Section 101(e)–(g) of Pub. L. 94–283 provided for the transition of the Federal Election Commission as it was reconstituted under the Federal Election Campaign Act of 1971 as amended by Pub. L. 94–283 by providing for appointment of members, transfer of personnel, liabilities, contracts, property, and records, and savings provisions for orders, determinations, rulesopinions, and proceedings issued, pending, or commenced before such amendments.
+Section 101(e)–(g) of Pub. L. 94–283 provided for the transition of the Federal Election Commission as it was reconstituted under the Federal Election Campaign Act of 1971 as amended by Pub. L. 94–283 by providing for appointment of members, transfer of personnel, liabilities, contracts, property, and records, and savings provisions for orders, determinations, rules opinions, and proceedings issued, pending, or commenced before such amendments.
 
 #### Transitional Provision Pending Appointment and Qualification of Members and General Counsel of Federal Election Commission and Transfer of Records, Documents, Memorandums, and Other Papers
 

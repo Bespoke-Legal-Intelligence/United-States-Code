@@ -6,7 +6,7 @@
 
 #### (1) In general
 
-&emsp;As part of the assessment and report required by section 1302 of this title, the FederalCommunications Commission shall include information comparing the extent of broadband service capability (including data transmission speeds and price for broadband service capability) in a total of 75 communities in at least 25 countries abroad for each of the data rate benchmarks for broadband service utilized by the Commission to reflect different speed tiers.
+&emsp;As part of the assessment and report required by section 1302 of this title, the Federal Communications Commission shall include information comparing the extent of broadband service capability (including data transmission speeds and price for broadband service capability) in a total of 75 communities in at least 25 countries abroad for each of the data rate benchmarks for broadband service utilized by the Commission to reflect different speed tiers.
 
 #### (2) Contents
 

@@ -28,7 +28,7 @@ For the purpose of this subchapter—
 
 &emsp;(3) “continental United States” means the several States and the District of Columbia, but does not include Alaska or Hawaii;
 
-&emsp;(4) “Government” means the government of the United States and the government of the District of Columbia;
+&emsp;(4) “Government” means the Government of the United States and the government of the District of Columbia;
 
 &emsp;(5) “appropriation” includes funds made available by statute under section 9104 of title 31;
 
@@ -40,7 +40,7 @@ For the purpose of this subchapter—
 
 #### Historical and Revision Notes
 
-The section is based on sections 18 and 19 of the Act of Aug. 2, 1946, ch. 744, 60 Stat. 811, 812. Sections 18 and 19 of the Act of Aug. 2, 1946, are omitted from this title and transferred to other titles of the United StatesCode since such sections apply also to sections 9, 11, and 16(a) of the Act of Aug. 2, 1946, which sections appear in titles 31 and 41 of the United States Code.
+The section is based on sections 18 and 19 of the Act of Aug. 2, 1946, ch. 744, 60 Stat. 811, 812. Sections 18 and 19 of the Act of Aug. 2, 1946, are omitted from this title and transferred to other titles of the United States Code since such sections apply also to sections 9, 11, and 16(a) of the Act of Aug. 2, 1946, which sections appear in titles 31 and 41 of the United States Code.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -48,7 +48,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Section 3(a) of the Panama Canal Act of 1979, referred to in par. (6), is classified to section 3602(a) of Title 22, Foreign Relations and Intercourse.
 
-The Foreign Service Act of 1980, referred to in par. (7), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in par. (7), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 #### Amendments
 

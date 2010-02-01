@@ -6,7 +6,7 @@ Each State educational agency that receives a grant under section 6381a(d)(1) of
 
 &emsp;(1) administration, which amount shall not exceed half of the total;
 
-&emsp;(2) providing, through one or more subgrants or contracts, technical assistance for programimprovement and replication, to eligible entities that receive subgrants under subsection (b) of this section; and
+&emsp;(2) providing, through one or more subgrants or contracts, technical assistance for program improvement and replication, to eligible entities that receive subgrants under subsection (b) of this section; and
 
 &emsp;(3) carrying out sections 6381i and 6381c(c) of this title.
 
@@ -24,7 +24,7 @@ Each State educational agency that receives a grant under section 6381a(d)(1) of
 
 #### (B) Subgrantees in ninth and succeeding years
 
-&emsp;&emsp;No State educational agency shall award a subgrant under paragraph (1) in an amount less than $52,500 to an eligible entity for a fiscal year to carry out an Even Start program that is receiving assistance under this subpart or its predecessor authority for the ninth (or any subsequent) fiscal year.
+&emsp;&emsp;No State educational agency shall award a subgrant under paragraph (1) in an amountless than $52,500 to an eligible entity for a fiscal year to carry out an Even Start program that is receiving assistance under this subpart or its predecessor authority for the ninth (or any subsequent) fiscal year.
 
 #### (C) Exception for single subgrant
 

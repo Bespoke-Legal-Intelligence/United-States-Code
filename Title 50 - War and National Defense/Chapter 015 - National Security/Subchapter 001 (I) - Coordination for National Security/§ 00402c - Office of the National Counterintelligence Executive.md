@@ -120,7 +120,7 @@ The National Counterintelligence Executive may, from amounts available for the O
 
 (1) Subject to paragraph (2), the National Counterintelligence Executive may enter into any contract, lease, cooperative agreement, or other transaction that the Executive considers appropriate to carry out the functions of the Office of the National Counterintelligence Executive under this section.
 
-(2) The authority under paragraph (1) to enter into contracts, leases, cooperative agreements, and other transactions shall be subject to any terms, conditions, and limitations applicable to the Central Intelligence Agency under law withrespect to similar contracts, leases, cooperative agreements, and other transactions.
+(2) The authority under paragraph (1) to enter into contracts, leases, cooperative agreements, and other transactions shall be subject to any terms, conditions, and limitations applicable to the Central Intelligence Agency under law with respect to similar contracts, leases, cooperative agreements, and other transactions.
 
 #### (k) Treatment of activities under certain administrative laws
 
@@ -152,7 +152,7 @@ Section was enacted as part of the Counterintelligence Enhancement Act of 2002, 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–458, §1072(d)(1)(C)(i), substituted “Office of the Director of National Intelligence” for “Office of the Director of Central Intelligence”.
+2004—Subsec. (c). Pub. L. 108–458, §1072(d)(1)(C)(i), substituted “Office of the Director of National Intelligence” for “Office of the Director of Central Intelligence”.
 
 Subsec. (e)(4). Pub. L. 108–458, §1071(g)(2)(B)(i), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 

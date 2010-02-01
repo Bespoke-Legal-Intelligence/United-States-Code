@@ -44,7 +44,7 @@ Section 706(k) of the Civil Rights Act of 1964, referred to in subsec. (b), is c
 
 1994—Subsec. (a). Pub. L. 103–283, §312(e)(4)(C)(i), substituted “, (7) or (9)” for “or (7)” in introductory provisions. See Application of Provisions Amended by Pub. L. 103–283 note below.
 
-Subsec. (b). Pub. L. 103–283, §312(e)(4)(C)(ii), substituted “applicant for employment, or employee of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants” for “or applicant for employment”, and inserted “or under section 312(e)(2) of the Architect of the Capitol Human Resources Act” after “of this title”. See Application of Provisions Amended by Pub. L. 103–283 note below.
+Subsec. (b). Pub. L. 103–283, §312(e)(4)(C)(ii), substituted “applicant for employment, or employee of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants” for “or applicant for employment”, and inserted “or under section 312(e)(2) of theArchitect of the Capitol Human Resources Act” after “of this title”. See Application of Provisions Amended by Pub. L. 103–283 note below.
 
 1988—Subsec. (a). Pub. L. 100–426, §103(a), (b)(1), designated existing provisions as subsec. (a) and substituted “Federal Circuit” for “District of Columbia Circuit or by the court of appeals of the United States for the circuit in which the petitioner resides”.
 

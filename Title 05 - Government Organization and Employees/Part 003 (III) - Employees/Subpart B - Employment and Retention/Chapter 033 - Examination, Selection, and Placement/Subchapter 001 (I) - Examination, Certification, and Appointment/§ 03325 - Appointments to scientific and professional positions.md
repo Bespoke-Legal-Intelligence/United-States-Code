@@ -38,7 +38,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–372, §2(c)(3)(A), substituted “on the basis of standards developed by theagency involved in accordance with criteria specified in regulations prescribed by the Director of the Office of Personnel Management” for “or its designee for this purpose”.
+2008—Subsec. (a). Pub. L. 110–372, §2(c)(3)(A), substituted “on the basis of standards developed by the agency involved in accordance with criteria specified in regulations prescribed by the Director of the Office of Personnel Management” for “or its designee for this purpose”.
 
 Subsec. (c). Pub. L. 110–372, §2(c)(3)(B), added subsec. (c).
 

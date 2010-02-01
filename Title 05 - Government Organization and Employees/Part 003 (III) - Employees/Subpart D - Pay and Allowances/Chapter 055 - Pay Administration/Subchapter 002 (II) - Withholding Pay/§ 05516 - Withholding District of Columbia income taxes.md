@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 Mar. 31, 1956, ch. 154, §11 “(k)”, 70 Stat. 77.
 
-Section 2(c) “(z)” of the Act of Mar. 31, 1956, 70 Stat. 68 (section 1551c(z) of title 47, District of ColumbiaCode) contains a definition of “employee” that is applicable to this section. Accordingly, the last sentence of subsection (a) is added to preserve the application of the source law.
+Section 2(c) “(z)” of the Act of Mar. 31, 1956, 70 Stat. 68 (section 1551c(z) of title 47, District of Columbia Code) contains a definition of “employee” that is applicable to this section. Accordingly, the last sentence of subsection (a) is added to preserve the application of the source law.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

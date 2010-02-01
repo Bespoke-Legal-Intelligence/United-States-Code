@@ -20,7 +20,7 @@ The Secretary shall provide for public participation in the development, review,
 
 In developing, maintaining, and revising plans for units of the National Forest System pursuant to this section, the Secretary shall assure that such plans—
 
-&emsp;(1) provide for multiple use and sustained yield of the products and services obtained therefrom in accordance with the Multiple-Use Sustained-Yield Act of 1960 \[16 U.S.C. 528–531\], and, in particular, include coordination of outdoor recreation, range, timber, watershed, wildlife and fish, and wilderness; and
+&emsp;(1) provide for multiple use and sustained yield of the products and services obtainedtherefrom in accordance with the Multiple-Use Sustained-Yield Act of 1960 \[16 U.S.C. 528–531\], and, in particular, include coordination of outdoor recreation, range, timber, watershed, wildlife and fish, and wilderness; and
 
 &emsp;(2) determine forest management systems, harvesting levels, and procedures in the light of all of the uses set forth in subsection (c)(1) of this section, the definition of the terms “multiple use” and “sustained yield” as provided in the Multiple-Use Sustained-Yield Act of 1960, and the availability of lands and their suitability for resource management.
 
@@ -110,7 +110,7 @@ The Secretary shall—
 
 &emsp;(1) formulate and implement, as soon as practicable, a process for estimating long-terms <sup>1</sup> costs and benefits to support the program evaluation requirements of this subchapter. This process shall include requirements to provide information on a representative sample basis of estimated expenditures associated with the reforestation, timber stand improvement, and sale of timber from the National Forest System, and shall provide a comparison of these expenditures to the return to the Government resulting from the sale of timber; and
 
-&emsp;(2) include a summary of data and findings resulting from these estimates as a part of the annual report required pursuant to section 1606(c) of this title, including an identification on a representative sample basis of those advertised timber sales made below the estimated expenditures for such timber as determined by the above cost process; and <sup>2</sup>
+&emsp;(2) include a summary of data and findings resulting from these estimates as a part of the annual report required pursuant to section 1606(c) of this title, including an identificationon a representative sample basis of those advertised timber sales made below the estimated expenditures for such timber as determined by the above cost process; and <sup>2</sup>
 
 #### (m) Establishment of standards to ensure culmination of mean annual increment of growth; silvicultural practices; salvage harvesting; exceptions
 
@@ -140,9 +140,13 @@ For transfer of certain enforcement functions of Secretary or other official in 
 
 #### Revision of Forest Plans
 
-Pub. L. 110–161, div. F, title IV, §410, Dec. 26, 2007, 121 Stat. 2146, provided that: “Prior to October 1, 2008, the Secretary of Agriculture shall not be considered to be in violation of subparagraph 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(f)(5)(A)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act (16 U.S.C. 1600 et seq.) or any other law: <i>Provided</i>, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis.”
+Pub. L. 111–88, div. A, title IV, §410, Oct. 30, 2009, 123 Stat. 2957, provided that: “The Secretary of Agriculture shall not be considered to be in violation of subparagraph 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(f)(5)(A)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act (16 U.S.C. 1600 et seq.) or any other law: <i>Provided</i>, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 111–8, div. E, title IV, §410, Mar. 11, 2009, 123 Stat. 746.
+
+Pub. L. 110–161, div. F, title IV, §410, Dec. 26, 2007, 121 Stat. 2146.
 
 Pub. L. 109–54, title IV, §415, Aug. 2, 2005, 119 Stat. 551.
 

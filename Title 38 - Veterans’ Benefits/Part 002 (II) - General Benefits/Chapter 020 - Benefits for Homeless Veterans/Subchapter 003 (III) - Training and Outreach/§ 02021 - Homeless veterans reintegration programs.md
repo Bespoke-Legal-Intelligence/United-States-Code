@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Subject to the availability of appropriations provided for such purpose, the Secretary of Labor shall conduct, directly or through grant or contract, such programs as the Secretary determines appropriate to provide job training, counseling, and placement services (including job readiness and literacy and skills training) to expedite the reintegration of homeless veterans into the labor force.
+In General.—Subject to the availability of appropriations provided for such purpose, theSecretary of Labor shall conduct, directly or through grant or contract, such programs as the Secretary determines appropriate to provide job training, counseling, and placement services (including job readiness and literacy and skills training) to expedite the reintegration of homeless veterans into the labor force.
 
 (b)
 

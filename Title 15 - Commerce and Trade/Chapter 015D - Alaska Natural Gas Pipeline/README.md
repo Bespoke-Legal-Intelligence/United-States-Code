@@ -12,7 +12,7 @@
 | [720g.](%C2%A7%2000720g%20-%20Study%20of%20alternative%20means%20of%20construction.md) | Study of alternative means of construction. |
 | [720h.](%C2%A7%2000720h%20-%20Clarification%20of%20ANGTA%20status%20and%20authorities.md) | Clarification of ANGTA status and authorities. |
 | [720i.](%C2%A7%2000720i%20-%20Sense%20of%20Congress%20concerning%20use%20of%20steel%20manufactured%20in%20North%20America%20and%20negotiation%20of%20a%20project%20labor%20agreement.md) | Sense of Congress concerning use of steel manufactured in North America and negotiation of a project labor agreement. |
-| [720j.](%C2%A7%2000720j%20-%20Sense%20of%20Congress%20and%20study%20concerning%20participation%20by%20small%20business%20concerns.md) | Sense of Congress and study concerning participation by small business concerns. |
+| [720j.](%C2%A7%2000720j%20-%20Sense%20of%20Congress%20concerning%20participation%20by%20small%20business%20concerns.md) | Sense of Congress concerning participation by small business concerns. |
 | [720k.](%C2%A7%2000720k%20-%20Alaska%20pipeline%20construction%20training%20program.md) | Alaska pipeline construction training program. |
 | 720<i>l.</i> | Sense of Congress concerning natural gas demand. |
 | [720m.](%C2%A7%2000720m%20-%20Sense%20of%20Congress%20concerning%20Alaskan%20ownership.md) | Sense of Congress concerning Alaskan ownership. |
@@ -35,7 +35,7 @@
 - [&sect; 00720g - Study of alternative means of construction](%C2%A7%2000720g%20-%20Study%20of%20alternative%20means%20of%20construction.md)
 - [&sect; 00720h - Clarification of ANGTA status and authorities](%C2%A7%2000720h%20-%20Clarification%20of%20ANGTA%20status%20and%20authorities.md)
 - [&sect; 00720i - Sense of Congress concerning use of steel manufactured in North America and negotiation of a project labor agreement](%C2%A7%2000720i%20-%20Sense%20of%20Congress%20concerning%20use%20of%20steel%20manufactured%20in%20North%20America%20and%20negotiation%20of%20a%20project%20labor%20agreement.md)
-- [&sect; 00720j - Sense of Congress and study concerning participation by small business concerns](%C2%A7%2000720j%20-%20Sense%20of%20Congress%20and%20study%20concerning%20participation%20by%20small%20business%20concerns.md)
+- [&sect; 00720j - Sense of Congress concerning participation by small business concerns](%C2%A7%2000720j%20-%20Sense%20of%20Congress%20concerning%20participation%20by%20small%20business%20concerns.md)
 - [&sect; 00720k - Alaska pipeline construction training program](%C2%A7%2000720k%20-%20Alaska%20pipeline%20construction%20training%20program.md)
 - [&sect; 00720l - Sense of Congress concerning natural gas demand](%C2%A7%2000720l%20-%20Sense%20of%20Congress%20concerning%20natural%20gas%20demand.md)
 - [&sect; 00720m - Sense of Congress concerning Alaskan ownership](%C2%A7%2000720m%20-%20Sense%20of%20Congress%20concerning%20Alaskan%20ownership.md)

@@ -44,7 +44,7 @@ Definition.—As used in this section, the term ‘multilateral development bank
 
 “(c)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Secretary of Commerce $1,000,000 for each of the fiscal years 1993 and 1994 to carry out this section. Amounts appropriated pursuant to this subsection shall be available only for thepurpose of making the appointment of additional procurement officers required by subsection (a).”
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary of Commerce $1,000,000 for each of the fiscal years 1993 and 1994 to carry out this section. Amounts appropriated pursuant to this subsection shall be available only for the purpose of making the appointment of additional procurement officers required by subsection (a).”
 
 #### Definitions
 

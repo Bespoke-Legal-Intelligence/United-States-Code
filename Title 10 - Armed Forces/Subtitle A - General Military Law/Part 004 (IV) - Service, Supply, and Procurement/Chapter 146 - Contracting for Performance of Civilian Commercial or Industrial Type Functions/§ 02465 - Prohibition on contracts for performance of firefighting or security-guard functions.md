@@ -1,6 +1,6 @@
 ### §2465. Prohibition on contracts for performance of firefighting or security-guard functions
 
-(a) Except as provided in subsection (b), funds appropriated to the Department of Defense may not be obligated or expended for the purpose of entering into a contract for the performance of firefighting or security-guard functions at any military installation or facility.
+(a) Except as provided in subsection (b), funds appropriated to the Department of Defense may not be obligated or expended for the purpose ofentering into a contract for the performance of firefighting or security-guard functions at any military installation or facility.
 
 (b) The prohibition in subsection (a) does not apply to the following contracts:
 
@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(A) for a period of one year or less; and
 
-&emsp;&emsp;(B) covers only the performance of firefighting functions that, in the absence of the contract, would have to be performed bymembers of the armed forces who are not readily available to perform such functions by reason of a deployment.
+&emsp;&emsp;(B) covers only the performance of firefighting functions that, in the absence of the contract, would have to be performed by members of the armed forces who are not readily available to perform such functions by reason of a deployment.
 
 (Added Pub. L. 99–661, div. A, title XII, §1222(a)(1), Nov. 14, 1986, 100 Stat. 3976, §2693; amended Pub. L. 100–180, div. A, title XI, §1112(a)–(b)(2), Dec. 4, 1987, 101 Stat. 1147; renumbered §2465, Pub. L. 100–370, §2(b)(1), July 19, 1988, 102 Stat. 854; Pub. L. 104–106, div. A, title XV, §1503(a)(25), Feb. 10, 1996, 110 Stat. 512; Pub. L. 108–136, div. A, title III, §331, Nov. 24, 2003, 117 Stat. 1442.)
 

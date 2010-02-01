@@ -110,7 +110,7 @@
 
 &emsp;&emsp;For purposes of applying this section—
 
-&emsp;&emsp;&emsp;(i) in the case of a part D eligible individual who is not treated as a subsidy eligible individual under subparagraph (B)(v), income shall be determined in the manner described in section 1396d(p)(1)(B) of this title, without regard to the application of section 1396a(r)(2) of this title; and
+&emsp;&emsp;&emsp;(i) in the case of a part D eligible individual who is not treated as a subsidy eligible individual under subparagraph (B)(v), income shall be determined in the manner described in section 1396d(p)(1)(B) of this title, without regard to the application of section 1396a(r)(2) of this title and except that support and maintenance furnished in kind shall not be counted as income; and
 
 &emsp;&emsp;&emsp;(ii) the term “poverty line” has the meaning given such term in section 9902(2) of this title, including any revision required by such section.
 
@@ -118,7 +118,7 @@
 
 #### (D) Resource standard applied to full low-income subsidy to be based on three times SSI resource standard
 
-&emsp;&emsp;The resources requirement of this subparagraph is that an individual's resources (as determined under section 1382b of this title for purposes of the supplemental security income program) do not exceed—
+&emsp;&emsp;The resources requirement of this subparagraph is that an individual's resources (as determined under section 1382b of this title for purposes of the supplemental security income program subject to the life insurance policy exclusion provided under subparagraph (G)) do not exceed—
 
 &emsp;&emsp;&emsp;(i) for 2006 three times the maximum amount of resources that an individual may have and obtain benefits under that program; and
 
@@ -130,7 +130,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The resources requirement of this subparagraph is that an individual's resources (as determined under section 1382b of this title for purposes of the supplemental security income program) do not exceed—
+&emsp;&emsp;&emsp;The resources requirement of this subparagraph is that an individual's resources (as determined under section 1382b of this title for purposes of the supplemental security income program subject to the life insurance policy exclusion provided under subparagraph (G)) do not exceed—
 
 &emsp;&emsp;&emsp;&emsp;(I) for 2006, $10,000 (or $20,000 in the case of the combined value of the individual's assets or resources and the assets or resources of the individual's spouse); and
 
@@ -162,7 +162,11 @@
 
 #### (F) Treatment of territorial residents
 
-&emsp;&emsp;In the case of a part D eligible individual who is not a resident of the 50 States or theDistrict of Columbia, the individual is not eligible to be a subsidy eligible individual under this section but may be eligible for financial assistance with prescription drug expenses under section 1396u–5(e) of this title.
+&emsp;&emsp;In the case of a part D eligible individual who is not a resident of the 50 States or the District of Columbia, the individual is not eligible to be a subsidy eligible individual under this section but may be eligible for financial assistance with prescription drug expenses under section 1396u–5(e) of this title.
+
+#### (G) Life insurance policy exclusion
+
+&emsp;&emsp;In determining the resources of an individual (and the eligible spouse of the individual, if any) under section 1382b of this title for purposes of subparagraphs (D) and (E) no part of the value of any life insurance policy shall be taken into account.
 
 #### (4) Indexing dollar amounts
 
@@ -244,22 +248,6 @@ For special provisions under the medicaid program relating to medicare prescript
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–14, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2107; amended Pub. L. 110–275, title I, §§114(a)(2), 116(a), 117(a), July 15, 2008, 122 Stat. 2506, 2507.)
 
-#### Amendment of Subsection (a)(3)
-
-<i>Pub. L. 110–275, title I, §116, July 15, 2008, 122 Stat. 2507, provided that, effective with respect to applications filed on or after Jan. 1, 2010, subsection (a)(3) of this section is amended as follows:</i>
-
-<i>(1) in subparagraph (C)(i), by inserting “and except that support and maintenance furnished in kind shall not be counted as income” after “section 1396a(r)(2) of this title”;</i>
-
-<i>(2) in subparagraph (D), by inserting “subject to the life insurance policy exclusion provided under subparagraph (G)” after “program” in the introductory provisions;</i>
-
-<i>(3) in subparagraph (E)(i), by inserting “subject to the life insurance policy exclusion provided under subparagraph (G)” after “program” in the introductory provisions; and</i>
-
-<i>(4) by adding subparagraph (G) at the end to read as follows:</i>
-
-#### <i>(G) Life insurance policy exclusion</i>
-
-&emsp;&emsp;<i>In determining the resources of an individual (and the eligible spouse of the individual, if any) under section 1382b of this title for purposes of subparagraphs (D) and (E) no part of the value of any life insurance policy shall be taken into account.</i>
-
 #### Amendments
 
 2008—Subsec. (a)(1)(A). Pub. L. 110–275, §114(a)(2), substituted “equal to 100 percent of the amount described in subsection (b)(1), but not to exceed the premium amount specified in subsection (b)(2)(B).” for “equal to—
@@ -269,6 +257,12 @@ For special provisions under the medicaid program relating to medicare prescript
 &emsp;“(ii) 80 percent of any late enrollment penalties imposed under section 1395w–113(b) of this title for the first 60 months in which such penalties are imposed for that individual, and 100 percent of any such penalties for any subsequent month.”
 
 Subsec. (a)(3)(B)(iv)(III). Pub. L. 110–275, §117(a), added subcl. (III).
+
+Subsec. (a)(3)(C)(i). Pub. L. 110–275, §116(a)(1), inserted “and except that support and maintenance furnished in kind shall not be counted as income” after “section 1396a(r)(2) of this title”.
+
+Subsec. (a)(3)(D), (E)(i). Pub. L. 110–275, §116(a)(2), (3), inserted “subject to the life insurance policy exclusion provided under subparagraph (G)” after “program” in introductory provisions.
+
+Subsec. (a)(3)(G). Pub. L. 110–275, §116(a)(4), added subpar. (G).
 
 #### Effective Date of 2008 Amendment
 

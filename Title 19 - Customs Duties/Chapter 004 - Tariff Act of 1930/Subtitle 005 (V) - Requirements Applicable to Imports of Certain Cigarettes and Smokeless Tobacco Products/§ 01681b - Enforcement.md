@@ -14,6 +14,10 @@ Any tobacco product, cigarette papers, or tube, or any smokeless tobacco product
 
 Chapter 52 of the Internal Revenue Code of 1986, referred to in subsec. (a), is classified to section 5701 et seq. of Title 26, Internal Revenue Code.
 
+#### Codification
+
+Another section 803 of act June 17, 1930, is classified to section 1683a of this title.
+
 #### Amendments
 
 2006—Subsec. (a). Pub. L. 109–432, §401(e)(1), inserted “or smokeless tobacco products” after “cigarettes”.

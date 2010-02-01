@@ -16,7 +16,7 @@ If—
 
 #### (b) “Controlled substance” and “listed chemical” defined
 
-As used in this section, the terms “controlled substance” and “listed chemical” have the meaning given such terms in section 802 of title 21.
+As used in this section, the terms “controlled substance” and “listed chemical” have themeaning given such terms in section 802 of title 21.
 
 #### (c) Report to Congress
 

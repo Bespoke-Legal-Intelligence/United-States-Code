@@ -2,7 +2,7 @@
 
 #### (a) Creation; Board of Directors; policies; principal office; membership; term; vacancies
 
-(1) There is hereby created the Federal Home Loan Mortgage Corporation, which shall be a body corporate under the direction of a Board of Directors. Within the limitations of law and regulation, the Board of Directors shall determine the general policies that govern the operations of the Corporation. The principal office of the Corporation shall be in the District of Columbia or at any other place determined by the Corporation.
+(1) There is hereby created the Federal Home Loan Mortgage Corporation, which shall be a body corporate under the direction of a Board ofDirectors. Within the limitations of law and regulation, the Board of Directors shall determine the general policies that govern the operations of the Corporation. The principal office of the Corporation shall be in the District of Columbia or at any other place determined by the Corporation.
 
 (2)(A) The Board of Directors of the Corporation shall consist of 13 persons, or such other number as the Director determines appropriate, who shall be elected annually by the voting common stockholders. Except to the extent action under section 4636a of this title temporarily results in a lesser number, the Board of Directors shall at all times have as members at least 1 person from the homebuilding industry, at least 1 person from the mortgage lending industry, at least 1 person from the real estate industry, and at least 1 person from an organization that has represented consumer or community interests for not less than 2 years or 1 person who has demonstrated a career commitment to the provision of housing for low-income households.
 
@@ -24,11 +24,11 @@ The Corporation shall have power (1) to adopt, alter, and use a corporate seal; 
 
 #### (d) Investment of funds; designation as depositary, custodian, or agent for Corporation of any Federal Reserve bank, Federal home loan bank, or any bank designated as depositary of public money
 
-Funds of the Corporation may be invested in such investments as the Board of Directors may prescribe. Any Federal Reserve bank or Federal home loan bank, or any bank as to which at the time of its designation by the Corporation there is outstanding a designation by the Secretary of the Treasury as a general or other depositary of public money, may be designated by the Corporation as a depositary or custodian or as a fiscal or other agent of the Corporation, and is hereby authorized to act as such depositary, custodian, or agent. When designated for that purpose by the Secretary of the Treasury, the Corporation shall be a depositary of public money, under such regulations as may be prescribed by the Secretary of the Treasury, and may also be employed as fiscal or other agent of the UnitedStates, and it shall perform all such reasonable duties as such depositary or agent as may be required of it.
+Funds of the Corporation may be invested in such investments as the Board of Directors may prescribe. Any Federal Reserve bank or Federal home loan bank, or any bank as to which at the time of its designation by the Corporation there is outstanding a designation by the Secretary of the Treasury as a general or other depositary of public money, may be designated by the Corporation as a depositary or custodian or as a fiscal or other agent of the Corporation, and is hereby authorized to act as such depositary, custodian, or agent. When designated for that purpose by the Secretary of the Treasury, the Corporation shall be a depositary of public money, under such regulations as may be prescribed by the Secretary of the Treasury, and may also be employed as fiscal or other agent of the United States, and it shall perform all such reasonable duties as such depositary or agent as may be required of it.
 
 #### (e) Exemption from Federal, State, and local taxation; exception; applicability of other provisions
 
-The Corporation, including its franchise, activities, capital, reserves, surplus, and income, shall be exempt from all taxation now or hereafter imposed by any territory, dependency, or possession of the United States or by any State, county, municipality, or local taxing authority, except that any real property of the Corporation shall be subject to State, territorial, county, municipal, or local taxation to the same extent according to its value as other real property is taxed.
+The Corporation, including its franchise, activities, capital, reserves, surplus, and income, shall be exempt from all taxation now or hereafter imposed by any territory, dependency, or possession of the United States or by any State, county, municipality, or local taxing authority, except that any real property of the Corporation shall be subject to State, territorial, county,municipal, or local taxation to the same extent according to its value as other real property is taxed.
 
 #### (f) Actions by and against the Corporation; jurisdiction; removal of actions; attachment or execution issued against the Corporation
 
@@ -56,7 +56,7 @@ All mortgages, obligations, or other securities which are or have been sold by t
 
 Pub. L. 110–289, §1153(b)(3), substituted “Except to the extent action under section 4636a of this title temporarily results in a lesser number, the” for “The” in second sentence.
 
-Subsec. (a)(2)(B). Pub. L. 110–289, §1162(b)(1)(B), struck out “such or” before “elected” and “, except that anyappointed member may be removed from office by the President for good cause” before period at end.
+Subsec. (a)(2)(B). Pub. L. 110–289, §1162(b)(1)(B), struck out “such or” before “elected” and “, except that any appointed member may be removed from office by the President for good cause” before period at end.
 
 Subsec. (a)(2)(C). Pub. L. 110–289, §1162(b)(1)(C), struck out “elective” after “Any” in second sentence and struck out first sentence which read as follows: “Any appointive seat on the Board of Directors that becomes vacant shall be filled by appointment by the President of the United States, but only for the unexpired portion of the term.”
 
@@ -64,7 +64,7 @@ Subsecs. (b)(2), (h)(2). Pub. L. 110–289, §1161(c)(1), substituted “Directo
 
 Subsec. (h)(4). Pub. L. 110–289, §1113(b)(2), added par. (4).
 
-1992—Subsec. (a)(2)(A). Pub. L. 102–550, §1382(c)(1), in second sentence, struck out “and” after “mortgage lending industry,” and inserted before period “, and at least 1 person from an organization that has represented consumer or community interests for not less than 2 years or 1 person who has demonstrated a career commitment to the provision of housing for low-income households”.
+1992—Subsec. (a)(2)(A). Pub. L. 102–550, §1382(c)(1), in second sentence, struck out “and” after “mortgagelending industry,” and inserted before period “, and at least 1 person from an organization that has represented consumer or community interests for not less than 2 years or 1 person who has demonstrated a career commitment to the provision of housing for low-income households”.
 
 Subsec. (a)(2)(B). Pub. L. 102–550, §1382(d), inserted before period at end “, except that any appointed member may be removed from office by the President for good cause”.
 

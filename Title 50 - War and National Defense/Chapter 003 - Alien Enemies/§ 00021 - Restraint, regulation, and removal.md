@@ -10,7 +10,7 @@ R.S. §4067 derived from act July 6, 1798, ch. 66, §1, 1 Stat. 577.
 
 #### Amendments
 
-<b>1918</b>—Act Apr. 16, 1918, struck out provision restricting this section to males.
+1918—Act Apr. 16, 1918, struck out provision restricting this section to males.
 
 #### World War II Proclamations
 

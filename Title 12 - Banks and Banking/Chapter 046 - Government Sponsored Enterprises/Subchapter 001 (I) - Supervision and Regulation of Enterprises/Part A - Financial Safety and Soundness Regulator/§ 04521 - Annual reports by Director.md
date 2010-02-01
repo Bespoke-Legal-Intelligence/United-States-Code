@@ -12,7 +12,7 @@ The Director shall submit to the Committee on Financial Services of the House of
 
 &emsp;(4) a description of—
 
-&emsp;&emsp;(A) whether the procedures established by each regulated entity pursuant to section 4012a(b)(3) of title 42 are adequate and being complied with, and
+&emsp;&emsp;(A) whether the procedures established by each regulated entity pursuant to section4012a(b)(3) of title 42 are adequate and being complied with, and
 
 &emsp;&emsp;(B) the results and conclusions of any examination, as determined necessary by the Director, to determine the compliance of the regulated entities with the requirements of section 4012a(b)(3) of title 42, which shall include a description of the methods used to determine compliance and the types and sources of deficiencies (if any), and identify any corrective measures that have been taken to remedy any such deficiencies,
 
@@ -48,7 +48,7 @@ Not later than March 15 of each year, the Director shall submit to the Committee
 
 &emsp;&emsp;(B) the number of days between the date of the commencement and termination of the litigation; and
 
-&emsp;(5) the number of litigation requests pending at the beginning of the calendar year, the number of requests made during the calendar year, the number of requests for which action was completed during the calendar year, andthe number of requests pending at the end of the calendar year.
+&emsp;(5) the number of litigation requests pending at the beginning of the calendar year, the number of requests made during the calendar year, the number of requests for which action was completed during the calendar year, and the number of requests pending at the end of the calendar year.
 
 (Pub. L. 102–550, title XIII, §1319B, Oct. 28, 1992, 106 Stat. 3950; Pub. L. 103–325, title V, §529(c), Sept. 23, 1994, 108 Stat. 2267; Pub. L. 110–289, div. A, title I, §§1103(b), 1161(a)(6), July 30, 2008, 122 Stat. 2665, 2779.)
 

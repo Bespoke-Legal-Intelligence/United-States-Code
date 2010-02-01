@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Except as provided in subsection (b), it shall be unlawful for a person topurchase, own, or possess body armor, if that person has been convicted of a felony that is—
+In General.—Except as provided in subsection (b), it shall be unlawful for a person to purchase, own, or possess body armor, if that person has been convicted of a felony that is—
 
 &emsp;(1) a crime of violence (as defined in section 16); or
 

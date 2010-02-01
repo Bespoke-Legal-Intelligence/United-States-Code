@@ -20,17 +20,7 @@ In the case of excess funds described in subsection (a) of this section in proje
 
 &emsp;(2) return the funds to the originating agency.
 
-#### (d) Review by Comptroller General
-
-#### (1) Review
-
-&emsp;The Comptroller General of the United States shall regularly review the implementation of this section.
-
-#### (2) Report
-
-&emsp;Not later than 1 year after October 27, 2004, the Comptroller General shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the findings of the Comptroller General on implementation of this subsection.
-
-(Pub. L. 89–136, title II, §211, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3606; amended Pub. L. 108–373, title II, §208, Oct. 27, 2004, 118 Stat. 1763.)
+(Pub. L. 89–136, title II, §211, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3606; amended Pub. L. 108–373, title II, §208, Oct. 27, 2004, 118 Stat. 1763; Pub. L. 111–8, div. G, titleI, §1301(b), Mar. 11, 2009, 123 Stat. 829; Pub. L. 111–68, div. A, title I, §1501(a), Oct. 1, 2009, 123 Stat. 2041.)
 
 #### Prior Provisions
 
@@ -41,6 +31,10 @@ Section 3151, Pub. L. 89–136, title III, §301, Aug. 26, 1965, 79 Stat. 558; P
 Section 3151a, Pub. L. 89–136, title III, §302, as added Pub. L. 93–423, §5(b), Sept. 27, 1974, 88 Stat. 1159; amended Pub. L. 94–487, title I, §110, Oct. 12, 1976, 90 Stat. 2333, authorized grants for economic development planning.
 
 #### Amendments
+
+2009—Subsec. (d). Pub. L. 111–68 struck out subsec. (d). Text read as follows: “The Comptroller General of the United States shall regularly review the implementation of this section.”
+
+Pub. L. 111–8 added subsec. (d) and struck out former subsec. (d) which required the Comptroller General to review and report on the implementation of this section.
 
 2004—Pub. L. 108–373 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “In any case in which a grant (including a supplementary grant described in section 3145 of this title) has been made by the Secretary under this subchapter (or made under this chapter, as in effect on the day before the effective date of the Economic Development Administration Reform Act of 1998) for a construction project, and, after the grant has been made but before completion of the project, the cost of the project based on the designs and specifications that was the basis of the grant has decreased because of decreases in costs—
 

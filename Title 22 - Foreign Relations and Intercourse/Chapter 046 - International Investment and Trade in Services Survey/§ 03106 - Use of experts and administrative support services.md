@@ -12,7 +12,7 @@ Any official designated by the President to carry out this chapter may use, on a
 
 #### References in Text
 
-Section 5703 of title 5, referred to in subsec. (a), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
+Section 5703 of title 5, referred to in subsec. (a), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89Stat. 85, and, as so amended, does not contain a subsec. (b).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -38,7 +38,7 @@ Reports.—(1) Each certification submitted under subsection (a) of this section
 
 (d)
 
-Application.—A certification in effect under this section does not apply to safety standards prescribed under this chapter after the date of certification. This chapter applies to each applicable safety standard prescribed after the date of certification until the State authority adopts the standard and submits the appropriate certification to the Secretary under subsection (a) of this section.
+Application.—A certification in effect under this section does not apply to safetystandards prescribed under this chapter after the date of certification. This chapter applies to each applicable safety standard prescribed after the date of certification until the State authority adopts the standard and submits the appropriate certification to the Secretary under subsection (a) of this section.
 
 (e)
 

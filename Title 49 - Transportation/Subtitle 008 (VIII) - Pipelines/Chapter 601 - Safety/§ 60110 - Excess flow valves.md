@@ -44,7 +44,7 @@ Report.—If the Secretary decides under subsection (b) of this section that the
 
 (e)
 
-Performance Standards.—Not later than April 24, 1994, the Secretary shall develop standards for the performance of excess flow valves used to protect lines in a natural gas distribution system. The Secretary may adopt industry accepted performance standards in order to comply with the requirement under the precedingsentence. The standards shall be incorporated into regulations the Secretary prescribes under this section. All excess flow valves shall be installed according to the standards.
+Performance Standards.—Not later than April 24, 1994, the Secretary shall develop standards for the performance of excess flow valves used to protect lines in a natural gas distribution system. The Secretary may adopt industry accepted performance standards in order to comply with the requirement under the preceding sentence. The standards shall be incorporated into regulations the Secretary prescribes under this section. All excess flow valves shall be installed according to the standards.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1316; Pub. L. 104–304, §§8, 20(j), Oct. 12, 1996, 110 Stat. 3800, 3805; Pub. L. 107–355, §21(1), Dec. 17, 2002, 116 Stat. 3010.)
 

@@ -16,7 +16,7 @@ The Secretary, not later than 120 days after the effective date of this chapter,
 
 #### (2) Contents
 
-&emsp;The implementation plan should include details concerning the separation of the Bureau of Citizenship and Immigration Services and the Bureau of Border Security, including the following:
+&emsp;The implementation plan should include details concerning the separation of the Bureau of Citizenship and Immigration Services andthe Bureau of Border Security, including the following:
 
 &emsp;&emsp;(A) Organizational structure, including the field structure.
 
@@ -48,7 +48,7 @@ The Secretary, not later than 120 days after the effective date of this chapter,
 
 #### (2) Report on management
 
-&emsp;Not later than 4 years after the date on which the transfer of functions specified undersection 251 of this title takes effect, the Comptroller General of the United States shall submit to the Committees on Appropriations and on the Judiciary of the House of Representatives and the Senate a report, following a study, containing the following:
+&emsp;Not later than 4 years after the date on which the transfer of functions specified under section 251 of this title takes effect, the Comptroller General of the United States shall submit to the Committees on Appropriations and on the Judiciary of the House of Representatives and the Senate a report, following a study, containing the following:
 
 &emsp;&emsp;(A) Determinations of whether the transfer of functions from the Immigration and Naturalization Service to the Bureau of Citizenship and Immigration Services and the Bureau of Border Security have improved, with respect to each function transferred, the following:
 

@@ -24,7 +24,7 @@ Subject to any future action of the Congress, a contract or agreement which enta
 
 #### (d) Waiver of certain Federal laws
 
-Whenever the President determines it to be in furtherance of the purposes of this chapter, functions authorized by this chapter may be performed without regard to such provisions of law (other than section 5 of title 41, section 252 of title 41, and the Renegotiation Act of 1951, asamended \[50 U.S.C. App. 1211 et seq.\]) regulating the making, performance, amendment, or modification of contracts and the expenditure of Government funds as the President may specify.
+Whenever the President determines it to be in furtherance of the purposes of this chapter, functions authorized by this chapter may be performed without regard to such provisions of law (other than section 5 of title 41, section 252 of title 41, and the Renegotiation Act of 1951, as amended \[50 U.S.C. App. 1211 et seq.\]) regulating the making, performance, amendment, or modification of contracts and the expenditure of Government funds as the President may specify.
 
 #### (e) Allocation of funds
 
@@ -36,7 +36,7 @@ Any officer of the United States Government carrying out functions under this ch
 
 #### (g) Reimbursement for commodities, services, and facilities
 
-In the case of any commodity, service, or facility procured from any agency of the United States Government under this chapter, reimbursement or payment shall be made to such agency from funds available under this chapter. Such reimbursement or payment shall be at replacement cost, or, if required by law, at actual cost, or at any other price authorized by law and agreed to by the owning or disposing agency. The amount of any such reimbursement or payment shall be credited to current applicable appropriations, funds, or accounts from which there may be procured replacements of similar commodities, services, or facilities, except that where such appropriations, funds, or accounts are not reimbursable except by reason of this subsection, and when the owning or disposing agency determines that such replacement is not necessary, any funds received in payment therefor shall be covered into the Treasury as miscellaneous receipts.
+In the case of any commodity, service, or facility procured from any agency of the United States Government under this chapter, reimbursement or payment shall be made to such agency from funds available under this chapter. Such reimbursement or payment shall be at replacement cost, or, if required by law, at actual cost, or at any other price authorized by law and agreed to by the owning or disposing agency. The amount of any such reimbursement or payment shall be credited to current applicable appropriations, funds, or accounts from which there may be procured replacements of similar commodities, services, or facilities, except thatwhere such appropriations, funds, or accounts are not reimbursable except by reason of this subsection, and when the owning or disposing agency determines that such replacement is not necessary, any funds received in payment therefor shall be covered into the Treasury as miscellaneous receipts.
 
 #### (h) Hospitalization and medical treatment for Foreign Service local employees
 

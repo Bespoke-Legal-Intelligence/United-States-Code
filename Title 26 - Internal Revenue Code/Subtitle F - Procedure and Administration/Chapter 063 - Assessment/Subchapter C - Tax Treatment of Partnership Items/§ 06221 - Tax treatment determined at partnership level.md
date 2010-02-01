@@ -6,7 +6,7 @@ Except as otherwise provided in this subchapter, the tax treatment of any partne
 
 #### Amendments
 
-1997—Pub. L. 105–34 inserted “(and the applicability of any penalty, addition to tax, or additional amountwhich relates to an adjustment to a partnership item)” after “item”.
+1997—Pub. L. 105–34 inserted “(and the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item)” after “item”.
 
 #### Effective Date of 1997 Amendment
 

@@ -6,7 +6,7 @@ The Secretary of the Interior is directed to investigate, study, and continually
 
 #### (b) Studies of areas for potential addition
 
-(1) At the beginning of each calendar year, along with the annual budget submission, the Secretary shall submit to the Committee on Resources of the House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate a list of areas recommended for study for potential inclusion in the National Park System.
+(1) At the beginning of each calendar year, along with the annual budget submission, the Secretary shall submit to the Committee on Resources of the House of Representatives and tothe Committee on Energy and Natural Resources of the United States Senate a list of areas recommended for study for potential inclusion in the National Park System.
 
 (2) In developing the list to be submitted under this subsection, the Secretary shall consider—
 
@@ -76,7 +76,7 @@ At the beginning of each calendar year, along with the annual budget submission,
 
 For the purposes of carrying out the studies for potential new Park System units and for monitoring the welfare of those resources, there are authorized to be appropriated annually not to exceed $1,000,000. For the purposes of monitoring the welfare and integrity of the national landmarks, there are authorized to be appropriated annually not to exceed $1,500,000. For carrying out subsections (b) through (d) of this section there are authorized to be appropriated $2,000,000 for each fiscal year.
 
-(Pub. L. 91–383, §8, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1940; amended Pub. L. 95–625, title VI, §604(1), Nov. 10, 1978, 92 Stat. 3518; Pub. L. 96–199, title I, §104, Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–344, §8, Sept. 8, 1980, 94 Stat. 1135; Pub. L. 103–437, §6(b), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 104–333, div. I, title VIII, §814(d)(1)(I), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 105–391, title III, §303, Nov. 13, 1998, 112 Stat. 3501.)
+(Pub. L. 91–383, §8, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1940; amended Pub. L. 95–625, title VI, §604(1), Nov. 10, 1978, 92 Stat. 3518; Pub. L. 96–199, title I, §104, Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–344, §8, Sept. 8, 1980, 94 Stat. 1135; Pub. L. 103–437, §6(b), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 104–333, div. I, title VIII, §814(d)(1)(I),Nov. 12, 1996, 110 Stat. 4196; Pub. L. 105–391, title III, §303, Nov. 13, 1998, 112 Stat. 3501.)
 
 #### References in Text
 
@@ -102,11 +102,143 @@ Subsec. (b). Pub. L. 103–437, §6(b)(2), substituted “The Secretary shall su
 
 1980—Subsec. (a). Pub. L. 96–344 inserted provisions requiring that each report indicate and elaborate on the theme or themes which the area represents as indicated in the National Park System Plan and the annual priority listing of areas be accomplished by a synopsis, for each report previously submitted, of current and changed conditions of the resource integrity of the area or other relevant factors, to cover the period since the previous such submission or initial report submission one year earlier.
 
-Pub. L. 96–199, §104(a), (b), designated existing provisions as subsec. (a) and inserted provision that should adequate supplies of previously printed identical reports remain available, newly submitted identical reports shall be omitted from printing upon the receipt by the Speaker of the United States House of Representatives of a joint letter from the chairman of theCommittee on Interior and Insular Affairs of the United States House of Representatives and the chairman of the Committee on Energy and Natural Resources of the United States Senate indicating such to be the case.
+Pub. L. 96–199, §104(a), (b), designated existing provisions as subsec. (a) and inserted provision that should adequate supplies of previously printed identical reports remain available, newly submitted identical reports shall be omitted from printing upon the receipt by the Speaker of the United States House of Representatives of a joint letter from the chairman of the Committee on Interior and Insular Affairs of the United States House of Representatives and the chairman of the Committee on Energy and Natural Resources of the United States Senate indicating such to be the case.
 
 Subsec. (b). Pub. L. 96–199, §104(b), added subsec. (b).
 
 1978—Pub. L. 95–625 authorized annual appropriations of $1,000,000 for studies for potential new Park System units and for monitoring the welfare of those resources and $1,500,000 for monitoring the welfare and integrity of the national landmarks.
+
+#### Cold War Sites Theme Study
+
+Pub. L. 111–11, title VII, §7210, Mar. 30, 2009, 123 Stat. 1210, provided that:
+
+“(a)
+
+Definitions.—
+
+&emsp;“(1)
+
+Advisory committee.—The term ‘Advisory Committee’ means the Cold War Advisory Committee established under subsection (c).
+
+&emsp;“(2)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+
+&emsp;“(3)
+
+Theme study.—The term ‘theme study’ means the national historic landmark theme study conducted under subsection (b)(1).
+
+“(b)
+
+Cold War Theme Study.—
+
+&emsp;“(1)
+
+In general.—The Secretary shall conduct a national historic landmark theme study to identify sites and resources in the United States that are significant to the Cold War.
+
+&emsp;“(2)
+
+Resources.—In conducting the theme study, the Secretary shall consider—
+
+&emsp;&emsp;“(A) the inventory of sites and resources associated with the Cold War completed by the Secretary of Defense under section 8120(b)(9) of the Department of Defense Appropriations Act, 1991 (Public Law 101–511; 104 Stat. 1906); and
+
+&emsp;&emsp;“(B) historical studies and research of Cold War sites and resources, including—
+
+&emsp;&emsp;&emsp;“(i) intercontinental ballistic missiles;
+
+&emsp;&emsp;&emsp;“(ii) flight training centers;
+
+&emsp;&emsp;&emsp;“(iii) manufacturing facilities;
+
+&emsp;&emsp;&emsp;“(iv) communications and command centers (such as Cheyenne Mountain, Colorado);
+
+&emsp;&emsp;&emsp;“(v) defensive radar networks (such as the Distant Early Warning Line);
+
+&emsp;&emsp;&emsp;“(vi) nuclear weapons test sites (such as the Nevada test site); and
+
+&emsp;&emsp;&emsp;“(vii) strategic and tactical aircraft.
+
+&emsp;“(3)
+
+Contents.—The theme study shall include—
+
+&emsp;&emsp;“(A) recommendations for commemorating and interpreting sites and resources identified by the theme study, including—
+
+&emsp;&emsp;&emsp;“(i) sites for which studies for potential inclusion in the National Park System should be authorized;
+
+&emsp;&emsp;&emsp;“(ii) sites for which new national historic landmarks should be nominated; and
+
+&emsp;&emsp;&emsp;“(iii) other appropriate designations;
+
+&emsp;&emsp;“(B) recommendations for cooperative agreements with—
+
+&emsp;&emsp;&emsp;“(i) State and local governments;
+
+&emsp;&emsp;&emsp;“(ii) local historical organizations; and
+
+&emsp;&emsp;&emsp;“(iii) other appropriate entities; and
+
+&emsp;&emsp;“(C) an estimate of the amount required to carry out the recommendations under subparagraphs (A) and (B).
+
+&emsp;“(4)
+
+Consultation.—In conducting the theme study, the Secretary shall consult with—
+
+&emsp;&emsp;“(A) the Secretary of the Air Force;
+
+&emsp;&emsp;“(B) State and local officials;
+
+&emsp;&emsp;“(C) State historic preservation offices; and
+
+&emsp;&emsp;“(D) other interested organizations and individuals.
+
+&emsp;“(5)
+
+Report.—Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes the findings, conclusions, and recommendations of the theme study.
+
+“(c)
+
+Cold War Advisory Committee.—
+
+&emsp;“(1)
+
+Establishment.—As soon as practicable after funds are made available to carry out this section, the Secretary shall establish an advisory committee, to be known as the ‘Cold War Advisory Committee’, to assist the Secretary in carrying out this section.
+
+&emsp;“(2)
+
+Composition.—The Advisory Committee shall be composed of 9 members, to be appointed by the Secretary, of whom—
+
+&emsp;&emsp;“(A) 3 shall have expertise in Cold War history;
+
+&emsp;&emsp;“(B) 2 shall have expertise in historic preservation;
+
+&emsp;&emsp;“(C) 1 shall have expertise in the history of the United States; and
+
+&emsp;&emsp;“(D) 3 shall represent the general public.
+
+&emsp;“(3)
+
+Chairperson.—The Advisory Committee shall select a chairperson from among the members of the Advisory Committee.
+
+&emsp;“(4)
+
+Compensation.—A member of the Advisory Committee shall serve without compensation but may be reimbursed by the Secretary for expenses reasonably incurred in the performance of the duties of the Advisory Committee.
+
+&emsp;“(5)
+
+Meetings.—On at least 3 occasions, the Secretary (or a designee) shall meet and consult with the Advisory Committee on matters relating to the theme study.
+
+“(d)
+
+Interpretive Handbook on the Cold War.—Not later than 4 years after the date on which funds are made available to carry out this section, the Secretary shall—
+
+&emsp;“(1) prepare and publish an interpretive handbook on the Cold War; and
+
+&emsp;“(2) disseminate information in the theme study by other appropriate means.
+
+“(e)
+
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $500,000.”
 
 #### National Park Service Studies
 

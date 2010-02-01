@@ -18,7 +18,7 @@ Effect of Omission on Innocent Infringers.—Any person who innocently infringes
 
 Removal of Notice.—Protection under this title is not affected by the removal, destruction, or obliteration of the notice, without the authorization of the copyright owner, from any publicly distributed copies or phonorecords.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2578; Pub. L. 100–568, §7(e), Oct. 31, 1988, 102 Stat.2858; Pub. L. 105–80, §12(a)(10), Nov. 13, 1997, 111 Stat. 1535.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2578; Pub. L. 100–568, §7(e), Oct. 31, 1988, 102 Stat. 2858; Pub. L. 105–80, §12(a)(10), Nov. 13, 1997, 111 Stat. 1535.)
 
 #### Historical and Revision Notes
 
@@ -48,7 +48,7 @@ Under section 405(b) an innocent infringer who acts “in reliance upon an autho
 
 The purpose of the second sentence of subsection (b) is to give the courts broad discretion to balance the equities within the framework of section 405 \[this section\]. Where an infringer made profits from infringing acts committed innocently before receiving notice from the copyright owner, the court may allow or withhold their recovery in light of the circumstances. The court may enjoin an infringement or may permit its continuation on condition that the copyright owner be paid a reasonable license fee.
 
-<b>Removal of Notice by Others.</b> Subsection (c) of section 405 involves the situation arising when, following an authorized publication with notice, someone further down the chain of commerce removes, destroys, or obliterates the notice. The courts dealing with this problem under the present law, especially in connection with copyright notices on the selvage of textile fabrics, have generally upheld the validity of a notice that was securely attached to the copies when they left the control of the copyright owner, even though removal of the notice at some later stage was likely. This conclusion is incorporated in subsection (c).
+<b>Removal of Notice by Others.</b> Subsection (c) of section 405 involves the situation arising when, followingan authorized publication with notice, someone further down the chain of commerce removes, destroys, or obliterates the notice. The courts dealing with this problem under the present law, especially in connection with copyright notices on the selvage of textile fabrics, have generally upheld the validity of a notice that was securely attached to the copies when they left the control of the copyright owner, even though removal of the notice at some later stage was likely. This conclusion is incorporated in subsection (c).
 
 #### References in Text
 

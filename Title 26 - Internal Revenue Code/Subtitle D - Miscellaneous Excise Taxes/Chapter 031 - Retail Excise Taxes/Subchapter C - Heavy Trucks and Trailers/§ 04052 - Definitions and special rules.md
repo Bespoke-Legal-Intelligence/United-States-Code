@@ -78,7 +78,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;In any case where the manufacturer, producer, or importer of any article (or a related person) is liable for tax imposed by thissubchapter with respect to such article, the tax under this subchapter shall be computed on a price equal to the sum of—
+&emsp;&emsp;In any case where the manufacturer, producer, or importer of any article (or a related person) is liable for tax imposed by this subchapter with respect to such article, the tax under this subchapter shall be computed on a price equal to the sum of—
 
 &emsp;&emsp;&emsp;(i) the price which would (but for this paragraph) be determined under this subchapter, plus
 
@@ -100,7 +100,7 @@ For purposes of this subchapter—
 
 #### (1) In general
 
-&emsp;For purposes of this subchapter (other than subsection (a)(3)(B)), a person shall not be treated as engaged in the manufacture of any article by reason of merely combining such article with any item listed in paragraph (2).
+&emsp;For purposes of this subchapter (other than subsection (a)(3)(B)), a person shall not betreated as engaged in the manufacture of any article by reason of merely combining such article with any item listed in paragraph (2).
 
 #### (2) Items
 
@@ -190,5 +190,5 @@ Section 506(b) of Pub. L. 100–17 provided that: “The amendment made by this 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
+Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions ofthe Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
 

@@ -4,7 +4,7 @@
 
 The following transactions by the United States Government are prohibited:
 
-&emsp;(1) Exporting or otherwise providing (by sale, lease or loan, grant, or other means), directly or indirectly, any munitions item to a country described in subsection (d) of this section under the authority of this chapter, the Foreign Assistance Act of 1961 \[22 U.S.C. 2151et seq.\], or any other law (except as provided in subsection (h) of this section). In implementing this paragraph, the United States Government—
+&emsp;(1) Exporting or otherwise providing (by sale, lease or loan, grant, or other means), directly or indirectly, any munitions item to a country described in subsection (d) of this section under the authority of this chapter, the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], or any other law (except as provided in subsection (h) of this section). In implementing this paragraph, the United States Government—
 
 &emsp;&emsp;(A) shall suspend delivery to such country of any such item pursuant to any such transaction which has not been completed at the time the Secretary of State makes the determination described in subsection (d) of this section, and
 
@@ -84,7 +84,7 @@ Each determination of the Secretary of State under subsection (d) of this sectio
 
 (2)(A) No rescission under paragraph (1)(B) of a determination under subsection (d) of this section may be made if the Congress, within 45 days after receipt of a report under paragraph (1)(B), enacts a joint resolution the matter after the resolving clause of which is as follows: “That the proposed rescission of the determination under section 40(d) of the Arms Export Control Act pursuant to the report submitted to the Congress on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ is hereby prohibited.”, the blank to be completed with the appropriate date.
 
-(B) A joint resolution described in subparagraph (A) and introduced within the appropriate 45-day period shall be considered in the Senate and the House of Representatives in accordance with paragraphs (3) through (7) of section 8066(c) of the Department of Defense Appropriations Act (as contained in Public Law 98–473), except that references in such paragraphs to the Committees on Appropriations of the House of Representatives and the Senate shall be deemed to be references to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, respectively.
+(B) A joint resolution described in subparagraph (A) and introduced within the appropriate 45-day period shall be considered in the Senateand the House of Representatives in accordance with paragraphs (3) through (7) of section 8066(c) of the Department of Defense Appropriations Act (as contained in Public Law 98–473), except that references in such paragraphs to the Committees on Appropriations of the House of Representatives and the Senate shall be deemed to be references to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, respectively.
 
 #### (g) Waiver
 
@@ -112,7 +112,7 @@ The President may waive the prohibitions contained in this section with respect 
 
 #### (h) Exemption for transactions subject to National Security Act reporting requirements
 
-The prohibitions contained in this section do not apply with respect to any transaction subject to reporting requirements under title V ofthe National Security Act of 1947 (50 U.S.C. 413 et seq.; relating to congressional oversight of intelligence activities).
+The prohibitions contained in this section do not apply with respect to any transaction subject to reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.; relating to congressional oversight of intelligence activities).
 
 #### (i) Relation to other laws
 

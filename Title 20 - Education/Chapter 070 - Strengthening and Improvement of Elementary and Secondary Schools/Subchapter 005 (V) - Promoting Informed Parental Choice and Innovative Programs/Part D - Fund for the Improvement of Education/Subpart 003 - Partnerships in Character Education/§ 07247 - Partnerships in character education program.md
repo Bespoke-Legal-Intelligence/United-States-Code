@@ -112,7 +112,7 @@ Of the total funds received in any fiscal year under this section by an eligible
 
 #### (1) In general
 
-&emsp;Each eligible entity desiring a grant under this section shall submit an application to theSecretary at such time and in such manner as the Secretary may require.
+&emsp;Each eligible entity desiring a grant under this section shall submit an application to the Secretary at such time and in such manner as the Secretary may require.
 
 #### (2) Required information
 
@@ -202,7 +202,7 @@ Each eligible entity that receives a grant under this section shall provide, to 
 
 #### (ii) Reservation of funds
 
-&emsp;&emsp;&emsp;The Secretary shall reserve not more than 5 percent of the funds made available under this section to carry out this paragraph.
+&emsp;&emsp;&emsp;The Secretary shall reserve not more than 5 percent of the funds made availableunder this section to carry out this paragraph.
 
 #### (B) Uses
 

@@ -172,7 +172,7 @@ For purposes of this section:
 
 &emsp;The term “servicer” means the person responsible for servicing of a loan (including the person who makes or holds a loan if such person also services the loan). The term does not include—
 
-&emsp;&emsp;(A) the Federal Deposit Insurance Corporation or the Resolution Trust Corporation, in connection with assets acquired, assigned, sold, or transferred pursuant to section 1823(c) of this title or as receiver or conservator of an insured depository institution; and
+&emsp;&emsp;(A) the Federal Deposit Insurance Corporation or the Resolution Trust Corporation, inconnection with assets acquired, assigned, sold, or transferred pursuant to section 1823(c) of this title or as receiver or conservator of an insured depository institution; and
 
 &emsp;&emsp;(B) the Government National Mortgage Association, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Resolution Trust Corporation, or the Federal Deposit Insurance Corporation, in any case in which the assignment, sale, or transfer of the servicing of the mortgage loan is preceded by—
 

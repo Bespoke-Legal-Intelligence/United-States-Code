@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) the funds that are allotted to the State for adult employment and training activities and statewide workforce investment activities under section 2862(b)(1)(B) of this title and are not reserved under subsection (a)(1) of this section, in accordance with paragraph (2) or (3); and
 
-&emsp;&emsp;(B) the funds that are allotted to the State for dislocated worker employment and training activities under section 2862(b)(2)(B) ofthis title and are not reserved under paragraph (1) or (2) of subsection (a) of this section, in accordance with paragraph (2).
+&emsp;&emsp;(B) the funds that are allotted to the State for dislocated worker employment and training activities under section 2862(b)(2)(B) of this title and are not reserved under paragraph (1) or (2) of subsection (a) of this section, in accordance with paragraph (2).
 
 #### (2) Formula allocations
 
@@ -36,7 +36,7 @@
 
 #### (ii) Minimum percentage
 
-&emsp;&emsp;&emsp;Effective at the end of the second full fiscal year after the date on which a local area is designated under section 2831 of this title, the local area shall not receive an allocation percentage for a fiscal year that is less than 90 percent of the average allocation percentage of the local area for the 2 preceding fiscal years. Amounts necessary for increasing such allocations to local areas to comply with the preceding sentence shall be obtained by ratably reducing the allocations to be made to other local areas under this subparagraph.
+&emsp;&emsp;&emsp;Effective at the end of the second full fiscal year after the date on which a local area is designated under section 2831 of this title, the local area shall not receive an allocation percentage for a fiscal year that is less than 90 percent of the average allocation percentage of the local area forthe 2 preceding fiscal years. Amounts necessary for increasing such allocations to local areas to comply with the preceding sentence shall be obtained by ratably reducing the allocations to be made to other local areas under this subparagraph.
 
 #### (iii) Definition
 
@@ -100,7 +100,7 @@
 
 #### (ii) Dislocated workers
 
-&emsp;&emsp;&emsp;Funds allocated under paragraph (2)(B) shall be used by a local area to contributeproportionately to the costs of the one-stop delivery system described in section 2864(c) of this title in the local area, and to pay for employment and training activities provided to dislocated workers in the local area, consistent with section 2864 of this title.
+&emsp;&emsp;&emsp;Funds allocated under paragraph (2)(B) shall be used by a local area to contribute proportionately to the costs of the one-stop delivery system described in section 2864(c) of this title in the local area, and to pay for employment and training activities provided to dislocated workers in the local area, consistent with section 2864 of this title.
 
 #### (c) Reallocation among local areas
 

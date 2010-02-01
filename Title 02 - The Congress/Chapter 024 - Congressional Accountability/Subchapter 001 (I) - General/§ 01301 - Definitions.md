@@ -92,7 +92,7 @@ Par. (9)(D). Pub. L. 110–437, §422(b)(2), substituted “the Office of Congre
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–437, title IV, §422(d), Oct. 20, 2008, 122 Stat. 4997, provided that: “The amendments made by this section \[amending this section and sections 1331 and1341 of this title and section 2107 of Title 5, Government Organization and Employees, and repealing section 2166 of this title\] shall take effect on the transfer date \[first day of first pay period (applicable to employees transferred under section 2241 of this title) on or after 30 days after Oct. 20, 2008, see section 2261 of this title\].”
+Pub. L. 110–437, title IV, §422(d), Oct. 20, 2008, 122 Stat. 4997, provided that: “The amendments made by this section \[amending this section and sections 1331 and 1341 of this title and section 2107 of Title 5, Government Organization and Employees, and repealing section 2166 of this title\] shall take effect on the transfer date \[first day of first pay period (applicable to employees transferred under section 2241 of this title) on or after 30 days after Oct. 20, 2008, see section 2261 of this title\].”
 
 Amendment by Pub. L. 110–279 effective July 17, 2008, and applicable to remainder of fiscal year in which enacted and each fiscal year thereafter, see section 2051(i) of this title.
 

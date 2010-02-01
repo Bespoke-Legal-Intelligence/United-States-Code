@@ -28,7 +28,7 @@ As used in this chapter, unless the context otherwise requires—
 
 &emsp;(13) “profitable railroad” means a railroad which is not a railroad in reorganization. The term does not include the Corporation, the National Railroad Passenger Corporation, or a railroad leased, operated, or controlled by a railroad in reorganization in the region;
 
-&emsp;(14) “rail properties” means assets or rights owned, leased, or otherwise controlled by arailroad (or a person owned, leased, or otherwise controlled by a railroad) which are used or useful in rail transportation service; except that the term, when used in conjunction with the phrase “railroads leased, operated, or controlled by a railroad in reorganization”, shall not include assets or rights owned, leased, or otherwise controlled by a Class I railroad which is not wholly owned, operated, or leased by a railroad in reorganization but is controlled by a railroad in reorganization;
+&emsp;(14) “rail properties” means assets or rights owned, leased, or otherwise controlled by a railroad (or a person owned, leased, or otherwise controlled by a railroad) which are used or useful in rail transportation service; except that the term, when used in conjunction with the phrase “railroads leased, operated, or controlled by a railroad in reorganization”, shall not include assets or rights owned, leased, or otherwise controlled by a Class I railroad which is not wholly owned, operated, or leased by a railroad in reorganization but is controlled by a railroad in reorganization;
 
 &emsp;(15) “railroad” means a rail carrier subject to part A of subtitle IV of title 49. The term includes the Corporation and the National Railroad Passenger Corporation;
 

@@ -24,7 +24,7 @@ Indian Law Enforcement Agencies.—The Attorney General shall permit Indian law 
 
 &emsp;(2) police departments of private colleges or universities which perform the administration of criminal justice and have arrest powers pursuant to a State statute, which allocate a substantial part of their annual budget to the administration of criminal justice, and which meet training requirements established by law or ordinance for law enforcement officers.
 
-(f)(1) Information from national crime information databases consisting of identification records, criminal history records, protection orders, and wanted person records may be disseminated to civil or criminal courts for use in domestic violence or stalking cases. Nothing in this subsection shall be construed to permit access to such records for any other purpose.
+(f)(1) Information from national crime information databases consisting of identificationrecords, criminal history records, protection orders, and wanted person records may be disseminated to civil or criminal courts for use in domestic violence or stalking cases. Nothing in this subsection shall be construed to permit access to such records for any other purpose.
 
 (2) Federal and State criminal justice agencies authorized to enter information into criminal information databases may include—
 
@@ -322,7 +322,7 @@ Terms.—In the case of—
 
 &emsp;&emsp;“(E)
 
-Frequency of requests.—An authorized employer may request a criminal history record information search for an employee only once every 12months of continuous employment by that employee unless the authorized employer has good cause to submit additional requests.
+Frequency of requests.—An authorized employer may request a criminal history record information search for an employee only once every 12 months of continuous employment by that employee unless the authorized employer has good cause to submit additional requests.
 
 &emsp;“(2)
 
@@ -374,7 +374,7 @@ Pub. L. 105–277, div. A, §101(b) \[title I, §124\], Oct. 21, 1998, 112 Stat.
 
 “(a)(1) A nursing facility or home health care agency may submit a request to the Attorney General to conduct a search and exchange of records described in subsection (b) regarding an applicant for employment if the employment position is involved in direct patient care.
 
-“(2) A nursing facility or home health care agency requesting a search and exchange of records under this section shall submit to the Attorney General through the appropriate State agency or agency designated by the Attorney General a copy of an employment applicant's fingerprints, a statement signed by the applicant authorizing the nursing facility or home health care agency to request the search and exchange of records, and any other identification information not more than 7 days (excluding Saturdays, Sundays, and legal public holidays under section 6103(a) of title 5, United States Code) after acquiring the fingerprints, signed statement, and information.
+“(2) A nursing facility or home health care agency requesting a search and exchange of records under this section shall submit to the Attorney General through the appropriate State agency or agency designated by the Attorney General a copy of an employment applicant's fingerprints, a statement signed by the applicant authorizing the nursing facility or home health care agency to request the search and exchange of records,and any other identification information not more than 7 days (excluding Saturdays, Sundays, and legal public holidays under section 6103(a) of title 5, United States Code) after acquiring the fingerprints, signed statement, and information.
 
 “(b) Pursuant to any submission that complies with the requirements of subsection (a), the Attorney General shall search the records of the Criminal Justice Information Services Division of the Federal Bureau of Investigation for any criminal history records corresponding to the fingerprints or other identification information submitted. The Attorney General shall provide any corresponding information resulting from the search to the appropriate State agency or agency designated by the Attorney General to receive such information.
 
@@ -446,9 +446,9 @@ Pub. L. 101–515, title II, Nov. 5, 1990, 104 Stat. 2112, as amended by section
 
 #### Hate Crime Statistics
 
-Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, as amended by Pub. L. 103–322, title XXXII, §320926, Sept. 13, 1994, 108 Stat. 2131; Pub. L. 104–155, §7, July 3, 1996, 110 Stat. 1394, provided: “That (a) this Act may be cited as the ‘Hate Crime Statistics Act’.
+Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, as amended by Pub. L. 103–322, title XXXII, §320926, Sept. 13, 1994,108 Stat. 2131; Pub. L. 104–155, §7, July 3, 1996, 110 Stat. 1394; Pub. L. 111–84, div. E, §4708, Oct. 28, 2009, 123 Stat. 2841, provided: “That (a) this Act may be cited as the ‘Hate Crime Statistics Act’.
 
-“(b)(1) Under the authority of section 534 of title 28, United States Code, the Attorney General shall acquire data, for each calendar year, about crimes that manifest evidence of prejudice based on race, religion, disability, sexual orientation, or ethnicity, including where appropriate the crimes of murder, non-negligent manslaughter; forcible rape; aggravated assault, simple assault, intimidation; arson; and destruction, damage or vandalism of property.
+“(b)(1) Under the authority of section 534 of title 28, United States Code, the Attorney General shall acquire data, for each calendar year, about crimes that manifest evidence of prejudice based on race, gender and gender identity, religion, disability, sexual orientation, or ethnicity, including where appropriate the crimes of murder, non-negligent manslaughter; forcible rape; aggravated assault, simple assault, intimidation; arson; and destruction, damage or vandalism of property.
 
 “(2) The Attorney General shall establish guidelines for the collection of such data including the necessary evidence and criteria that must be present for a finding of manifest prejudice and procedures for carrying out the purposes of this section.
 
@@ -456,7 +456,7 @@ Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, as amended by Pub. L. 103–322
 
 “(4) Data acquired under this section shall be used only for research or statistical purposes and may not contain any information that may reveal the identity of an individual victim of a crime.
 
-“(5) The Attorney General shall publish an annual summary of the data acquired under this section.
+“(5) The Attorney General shall publish an annual summary of the data acquired under this section, including data about crimes committed by, and crimes directed against, juveniles.
 
 “(c) There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section through fiscal year 2002.
 
@@ -560,5 +560,5 @@ Definition.—As used in this section, the term ‘State’ means a State of the
 
 #### Funds for Exchange of Identification Records
 
-Pub. L. 92–544, title II, §201, Oct. 25, 1972, 86 Stat. 1115, provided that: “The funds provided for Salaries and Expenses, Federal Bureau of Investigation, may be used hereafter, in addition to those uses authorized thereunder, for the exchange of identification records with officials or federally chartered or insured banking institutions to promote or maintain the security of those institutions, and, if authorized by State statute and approved by the Attorney General, to officials of State and local governments for purposes of employment and licensing, any such exchange to be made only for the official use of any such official and subject to the same restriction with respect to dissemination as that provided for under the aforementioned appropriation.”
+Pub. L. 92–544, title II, §201, Oct. 25, 1972, 86 Stat. 1115, provided that: “The funds provided for Salaries and Expenses, Federal Bureau of Investigation, may be usedhereafter, in addition to those uses authorized thereunder, for the exchange of identification records with officials or federally chartered or insured banking institutions to promote or maintain the security of those institutions, and, if authorized by State statute and approved by the Attorney General, to officials of State and local governments for purposes of employment and licensing, any such exchange to be made only for the official use of any such official and subject to the same restriction with respect to dissemination as that provided for under the aforementioned appropriation.”
 

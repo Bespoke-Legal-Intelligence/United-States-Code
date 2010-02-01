@@ -2,7 +2,7 @@
 
 If any check or money order in payment of any amount receivable under this title is not duly paid, in addition to any other penalties provided by law, there shall be paid as a penalty by the person who tendered such check, upon notice and demand by the Secretary, in the same manner as tax, an amount equal to 2 percent of the amount of such check, except that if the amount of such check is less than $1,250, the penalty under this section shall be $25 or the amount of such check, whichever is the lesser. This section shall not apply if the person tendered such check in good faith and with reasonable cause to believe that it would be duly paid.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 826; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title V, §5071(a), Nov. 10, 1988, 102 Stat. 3681; Pub. L. 110–28, title VIII, §8245(a), May 25, 2007, 121 Stat. 200.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 826; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90Stat. 1834; Pub. L. 100–647, title V, §5071(a), Nov. 10, 1988, 102 Stat. 3681; Pub. L. 110–28, title VIII, §8245(a), May 25, 2007, 121 Stat. 200.)
 
 #### Amendments
 

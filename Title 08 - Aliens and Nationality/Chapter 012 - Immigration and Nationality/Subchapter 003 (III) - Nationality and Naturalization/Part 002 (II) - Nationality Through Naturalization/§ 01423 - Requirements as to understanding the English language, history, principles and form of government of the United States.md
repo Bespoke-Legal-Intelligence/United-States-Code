@@ -26,7 +26,7 @@
 
 1990—Par. (1). Pub. L. 101–649 substituted “either (A) is over 50 years of age and has been living in the United States for periods totaling at least 20 years subsequent to a lawful admission for permanent residence, or (B) is over 55 years of age and has been living in the United States for periods totaling at least 15 years subsequent to a lawful admission for permanent residence” for “is over fifty years of age and has been living in the United States for periods totaling at least twenty years subsequent to a lawful admission for permanent residence”.
 
-1978—Par. (1). Pub. L. 95–579 substituted “person who, on the date of the filing of his petition for naturalization as provided in section 1445 of this title, is over fifty years of age and has been living in the United States for periods totaling at least twenty years subsequent to a lawful admission for permanent residence”for “person who, on the effective date of this chapter, is over fifty years of age and has been living in the United States for periods totaling at least twenty years”.
+1978—Par. (1). Pub. L. 95–579 substituted “person who, on the date of the filing of his petition for naturalization as provided in section 1445 of this title, is over fifty years of age and has been living in the United States for periods totaling at least twenty years subsequent to a lawful admission for permanent residence” for “person who, on the effective date of this chapter, is over fifty years of age and has been living in the United States for periods totaling at least twenty years”.
 
 #### Effective Date of 1994 Amendment
 

@@ -26,7 +26,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (4) Certain insurance companies
 
-&emsp;Two or more insurance companies subject to taxation under section 801 which are members of a controlled group of corporations described in paragraph (1), (2), or (3). Such insurance companies shall be treated as a controlled group of corporations separate from any other corporations which are members of the controlled group of corporations described in paragraph (1), (2), or (3).
+&emsp;Two or more insurance companies subject to taxation under section 801 which are membersof a controlled group of corporations described in paragraph (1), (2), or (3). Such insurance companies shall be treated as a controlled group of corporations separate from any other corporations which are members of the controlled group of corporations described in paragraph (1), (2), or (3).
 
 #### (b) Component member
 
@@ -40,7 +40,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (2) Excluded members
 
-&emsp;A corporation which is a member of a controlled group of corporations on December 31of any taxable year shall be treated as an excluded member of such group for the taxable year including such December 31 if such corporation—
+&emsp;A corporation which is a member of a controlled group of corporations on December 31 of any taxable year shall be treated as an excluded member of such group for the taxable year including such December 31 if such corporation—
 
 &emsp;&emsp;(A) is a member of such group for less than one-half the number of days in such taxable year which precede such December 31,
 
@@ -100,7 +100,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;&emsp;&emsp;(i) stock in such corporation held by an employees’ trust described in section 401(a) which is exempt from tax under section 501(a), if such trust is for the benefit of the employees of such corporation,
 
-&emsp;&emsp;&emsp;(ii) stock in such corporation owned (within the meaning of subsection (d)(2)) by an employee of the corporation if such stock is subject to conditions which run in favor of any of such common owners (or such corporation) and which substantially restrict or limit the employee's right (or ifthe employee constructively owns such stock, the direct owner's right) to dispose of such stock. If a condition which limits or restricts the employee's right (or the direct owner's right) to dispose of such stock also applies to the stock held by any of the common owners pursuant to a bona fide reciprocal stock purchase arrangement, such condition shall not be treated as one which restricts or limits the employee's right to dispose of such stock, or
+&emsp;&emsp;&emsp;(ii) stock in such corporation owned (within the meaning of subsection (d)(2)) by an employee of the corporation if such stock is subject to conditions which run in favor of any of such common owners (or such corporation) and which substantially restrict or limit the employee's right (or if the employee constructively owns such stock, the direct owner's right) to dispose of such stock. If a condition which limits or restricts the employee's right (or the direct owner's right) to dispose of such stock also applies to the stock held by any of the common owners pursuant to a bona fide reciprocal stock purchase arrangement, such condition shall not be treated as one which restricts or limits the employee's right to dispose of such stock, or
 
 &emsp;&emsp;&emsp;(iii) stock in such corporation owned (within the meaning of subsection (d)(2)) by an organization to which section 501 (relating to certain educational and charitable organizations which are exempt from tax) applies and which is controlled directly or indirectly by such corporation, by an individual, estate, or trust that is a principal stockholder (within the meaning of subparagraph (A)(ii)) of such corporation, by an officer of such corporation, or by any combination thereof.
 
@@ -152,7 +152,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;&emsp;(B) The individual is not a director or employee and does not participate in the management of such corporation at any time during such taxable year;
 
-&emsp;&emsp;(C) Not more than 50 percent of such corporation's gross income for such taxable year was derived from royalties, rents, dividends, interest, and annuities; and
+&emsp;&emsp;(C) Not more than 50 percent of such corporation's gross income for such taxableyear was derived from royalties, rents, dividends, interest, and annuities; and
 
 &emsp;&emsp;(D) Such stock in such corporation is not, at any time during such taxable year, subject to conditions which substantially restrict or limit the spouse's right to dispose of such stock and which run in favor of the individual or his children who have not attained the age of 21 years.
 
@@ -164,7 +164,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (B) Adult children and grandchildren
 
-&emsp;&emsp;An individual who owns (within the meaning of subsection (d)(2), but without regard to this subparagraph) more than 50 percent of the total combined voting power of all classes of stock entitled to vote or morethan 50 percent of the total value of shares of all classes of stock in a corporation shall be considered as owning the stock in such corporation owned, directly or indirectly, by or for his parents, grandparents, grandchildren, and children who have attained the age of 21 years.
+&emsp;&emsp;An individual who owns (within the meaning of subsection (d)(2), but without regard to this subparagraph) more than 50 percent of the total combined voting power of all classes of stock entitled to vote or more than 50 percent of the total value of shares of all classes of stock in a corporation shall be considered as owning the stock in such corporation owned, directly or indirectly, by or for his parents, grandparents, grandchildren, and children who have attained the age of 21 years.
 
 #### (C) Adopted child
 
@@ -230,7 +230,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;&emsp;“(A) at least 80 percent of the total combined voting power of all classes of stock entitled to vote, or at least 80 percent of the total value of shares of all classes of stock, of each corporation, and
 
-&emsp;&emsp;“(B) more than 50 percent of the total combined voting power of all classes of stock entitled to vote or more than 50 percent ofthe total value of shares of all classes of stock of each corporation, taking into account the stock ownership of each such person only to the extent such stock ownership is identical with respect to each such corporation.”
+&emsp;&emsp;“(B) more than 50 percent of the total combined voting power of all classes of stock entitled to vote or more than 50 percent of the total value of shares of all classes of stock of each corporation, taking into account the stock ownership of each such person only to the extent such stock ownership is identical with respect to each such corporation.”
 
 #### (B) Applicable provision
 

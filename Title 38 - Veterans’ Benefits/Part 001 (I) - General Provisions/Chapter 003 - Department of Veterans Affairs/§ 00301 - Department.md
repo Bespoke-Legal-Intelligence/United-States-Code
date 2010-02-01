@@ -108,7 +108,7 @@ Redesignation.—The Office of Inspector General of the Veterans’ Administrati
 
 &emsp;“(4) to the Chief Medical Director of the Veterans’ Administration shall be deemed to refer to the Chief Medical Director \[now Under Secretary for Health\] of the Department of Veterans Affairs;
 
-&emsp;“(5) to the Department of Medicine and Surgery of the Veterans’ Administration shall be deemed torefer to the Veterans Health Services and Research Administration of the Department of Veterans Affairs;
+&emsp;“(5) to the Department of Medicine and Surgery of the Veterans’ Administration shall be deemed to refer to the Veterans Health Services and Research Administration of the Department of Veterans Affairs;
 
 &emsp;“(6) to the Chief Benefits Director of the Veterans’ Administration shall be deemed to refer to the Chief Benefits Director \[now Under Secretary for Benefits\] of the Department of Veterans Affairs;
 

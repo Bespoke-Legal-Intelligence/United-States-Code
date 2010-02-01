@@ -2,7 +2,7 @@
 
 #### (a) Right to copy
 
-Except as provided in subsections (c), (d), and (e) of this section, the Director shall make allinformation, data, estimates, and statistics obtained under section 601(d) and (e) of this title available for public copying during normal business hours, subject to reasonable rules and regulations, and shall to the extent practicable, at the request of any person, furnish a copy of any such information, data, estimates, or statistics upon payment by such person of the cost of making and furnishing such copy.
+Except as provided in subsections (c), (d), and (e) of this section, the Director shall make all information, data, estimates, and statistics obtained under section 601(d) and (e) of this title available for public copying during normal business hours, subject to reasonable rules and regulations, and shall to the extent practicable, at the request of any person, furnish a copy of any such information, data, estimates, or statistics upon payment by such person of the cost of making and furnishing such copy.
 
 #### (b) Index
 
@@ -30,7 +30,7 @@ Subsection (a) of this section shall apply to any information, data, estimates, 
 
 #### (e) Level of confidentiality
 
-With respect to information, data, estimates, and statistics obtained under sections 601(d) and 601(e) of this title, the Director shall maintain the same level of confidentiality as is required by law of the department, agency, establishment, or regulatory agency or commission from which it is obtained. Officers and employees of the Congressional Budget Office shall be subject to the same statutory penalties for unauthorized disclosure or use as officers or employees of the department, agency, establishment, or regulatory agency or commission from which it is obtained.
+With respect to information, data, estimates, and statistics obtained under sections 601(d) and 601(e) of this title, the Director shall maintain the same level of confidentiality as is required by law of the department, agency, establishment, or regulatory agency or commission from which it is obtained. Officers and employees of the Congressional Budget Office shall be subject to the same statutory penalties for unauthorizeddisclosure or use as officers or employees of the department, agency, establishment, or regulatory agency or commission from which it is obtained.
 
 (Pub. L. 93–344, title II, §203, July 12, 1974, 88 Stat. 305; Pub. L. 106–554, §1(a)(7) \[title III, §310(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–639.)
 

@@ -34,7 +34,7 @@ Subject only to the limitations provided under paragraphs (1) and (2), the charg
 
 #### (d) Payment of certain sums to Director; deposits in Fund
 
-With respect to any chargeable premium rate prescribed under this section, a sum equal to the portion of the rate that covers any administrative expenses of carrying out the flood insurance and floodplain management programs whichhave been estimated under paragraphs (1)(B)(ii) and (1)(B)(iii) of section 4014(a) of this title or paragraph (2) of such section (including the fees under such paragraphs), shall be paid to the Director. The Director shall deposit the sum in the National Flood Insurance Fund established under section 4017 of this title.
+With respect to any chargeable premium rate prescribed under this section, a sum equal to the portion of the rate that covers any administrative expenses of carrying out the flood insurance and floodplain management programs which have been estimated under paragraphs (1)(B)(ii) and (1)(B)(iii) of section 4014(a) of this title or paragraph (2) of such section (including the fees under such paragraphs), shall be paid to the Director. The Director shall deposit the sum in the National Flood Insurance Fund established under section 4017 of this title.
 
 #### (e) Annual limitation on premium increases
 
@@ -42,7 +42,7 @@ Except with respect to properties described under paragraph (2) or (3) <sup>1</
 
 #### (f) Adjustment of premium
 
-Notwithstanding any other provision of law, if the Director determines that the holder of a flood insurance policy issued under this chapter is paying a lower premium than is required under this section due to an error in the flood plain determination, the Director may only prospectively charge the higher premium rate.
+Notwithstanding any other provision of law, if the Director determines that the holder of a flood insurance policy issued under this chapter is paying a lower premium than is required under this section due to an error in the floodplain determination, the Director may only prospectively charge the higher premium rate.
 
 (Pub. L. 90–448, title XIII, §1308, Aug. 1, 1968, 82 Stat. 576; Pub. L. 93–234, title I, §103, Dec. 31, 1973, 87 Stat. 978; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 101–508, title II, §2302(e)(2), Nov. 5, 1990, 104 Stat. 1388–24; Pub. L. 103–325, title V, §572(a), Sept. 23, 1994, 108 Stat. 2277; Pub. L. 108–264, title I, §106, title II, §209, June 30, 2004, 118 Stat. 724, 727.)
 
@@ -90,7 +90,7 @@ Section 2302(e)(5) of Pub. L. 101–508 provided that, notwithstanding section 5
 
 Pub. L. 100–242, title V, §541(d), Feb. 5, 1988, 101 Stat. 1939, as amended by Pub. L. 101–137, §1(d), Nov. 3, 1989, 103 Stat. 824; Pub. L. 101–508, title II, §2302(c), Nov. 5, 1990, 104 Stat. 1388–23, limited increases in premium rates charged for flood insurance under programs established pursuant to this chapter during period beginning Feb. 5, 1988, and ending Sept. 30, 1995, to prorated annual rate of 10 percent, prior to repeal by Pub. L. 103–325, title V, §572(b), Sept. 23, 1994, 108 Stat. 2278.
 
-Section 451(g)(1) of Pub. L. 98–181 provided that premium rates charged for flood insurance under any program established pursuant to this chapter could not beincreased during the period beginning Nov. 30, 1983, and ending Sept. 30, 1984.
+Section 451(g)(1) of Pub. L. 98–181 provided that premium rates charged for flood insurance under any program established pursuant to this chapter could not be increased during the period beginning Nov. 30, 1983, and ending Sept. 30, 1984.
 
 #### Termination of Advisory Committees
 

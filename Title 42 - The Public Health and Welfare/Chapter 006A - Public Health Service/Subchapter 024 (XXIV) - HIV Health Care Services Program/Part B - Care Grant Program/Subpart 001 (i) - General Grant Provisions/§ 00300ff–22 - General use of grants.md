@@ -14,7 +14,7 @@ A State may use amounts provided under grants made under section 300ff–21 of t
 
 #### (1) In general
 
-&emsp;With respect to a grant under section 300ff–21 of this title for a State for a grant year, the State shall, of the portion of the grant remaining after reserving amounts for purposes of subparagraphs (A) and (E)(ii)(I) of section 300ff–28(b)(3) of this title, use not less than 75 percent to provide core medical services that are needed in the State for individuals with HIV/AIDS who are identified and eligible under this subchapter (including services regarding the co-occurring conditions of the individuals).
+&emsp;With respect to a grant under section 300ff–21 of this title for a State for a grantyear, the State shall, of the portion of the grant remaining after reserving amounts for purposes of subparagraphs (A) and (E)(ii)(I) of section 300ff–28(b)(3) of this title, use not less than 75 percent to provide core medical services that are needed in the State for individuals with HIV/AIDS who are identified and eligible under this subchapter (including services regarding the co-occurring conditions of the individuals).
 
 #### (2) Waiver
 
@@ -88,25 +88,21 @@ A State may use amounts provided under grants made under section 300ff–21 of t
 
 #### (1) In general
 
-&emsp;For the purpose of providing health and support services to infants, children, youth, and women with HIV/AIDS, including treatment measures to prevent the perinatal transmission of HIV, a State shall for each of such populations in the eligible area use, from the grants made for the area under section300ff–11(a) of this title for a fiscal year, not less than the percentage constituted by the ratio of the population involved (infants, children, youth, or women in such area) with HIV/AIDS to the general population in such area of individuals with HIV/AIDS.
+&emsp;For the purpose of providing health and support services to infants, children, youth, and women with HIV/AIDS, including treatment measures to prevent the perinatal transmission of HIV, a State shall for each of such populations in the eligible area use, from the grants made for the area under section 300ff–11(a) of this title for a fiscal year, not less than the percentage constituted by the ratio of the population involved (infants, children, youth, or women in such area) with HIV/AIDS to the general population in such area of individuals with HIV/AIDS.
 
 #### (2) Waiver
 
-&emsp;With respect to the population involved, the Secretary may provide to a State a waiver of the requirement of paragraph (1) if such State demonstrates to the satisfaction of the Secretary that the population is receiving HIV-related health services through the State medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], the State children's health insurance program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], or other Federal or State programs.
+&emsp;With respect to the population involved, the Secretary may provide to a State a waiver of the requirement of paragraph (1) if such State demonstrates to the satisfaction of the Secretary that the population is receiving HIV-related health services through the State medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], the Statechildren's health insurance program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], or other Federal or State programs.
 
 #### (f) Construction
 
 A State may not use amounts received under a grant awarded under section 300ff–21 of this title to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.
 
-(July 1, 1944, ch. 373, title XXVI, §2612, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 586; amended Pub. L. 104–146, §3(c)(2), May 20, 1996, 110 Stat. 1354; Pub. L. 106–345, title II, §202, title V, §503(b), Oct. 20, 2000, 114 Stat. 1330, 1355; Pub. L. 109–415, title II, §201(a), Dec. 19, 2006, 120 Stat. 2785.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2612, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 586; amended Pub. L. 104–146, §3(c)(2), May 20, 1996, 110 Stat. 1354; Pub. L. 106–345, title II, §202, title V, §503(b), Oct. 20, 2000, 114 Stat. 1330, 1355; Pub. L. 109–415, title II, §201(a), title VII, §703, Dec. 19, 2006, 120 Stat. 2785, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (e)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (e)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 
@@ -118,7 +114,11 @@ A prior section 2612 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-2006—Pub. L. 109–415 reenacted section catchline without change and amended text generally, substituting provisions relating to general use of grants, required funding for core medical services, support and early intervention services, priority for women, infants, children, and youth, and prohibition against use of amounts for real property improvement or to make cash payments, for provisions relating to general use of grants, support services and outreach, early intervention services, and establishment of a quality management program in each State.
+2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009; Revival of Section note below.
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+Pub. L. 109–415, §201(a), reenacted section catchline without change and amended text generally, substituting provisions relating to general use of grants, required funding for core medical services, support and early intervention services, priority for women, infants, children, and youth, and prohibition against use of amounts for real property improvement or to make cash payments, for provisions relating to general use of grants, support services and outreach, early intervention services, and establishment of a quality management program in each State.
 
 2000—Pub. L. 106–345, §202(1), designated existing provisions as subsec. (a) and inserted heading.
 
@@ -129,6 +129,10 @@ Subsec. (b) to (d). Pub. L. 106–345, §202(2), added subsecs. (b) to (d).
 1996—Pub. L. 104–146, §3(c)(2)(A), as amended by Pub. L. 106–345, §503(b), struck out “(a) In general” before “A State may use amounts”, added par. (1), redesignated former pars. (1) to (4) as (2) to (5), respectively, substituted “therapeutics to treat HIV disease” for “treatments, that have been determined to prolong life or prevent serious deterioration of health,” in par. (5), and inserted after par. (5) “Services described in paragraph (1) shall be delivered through consortia designed as described in paragraph (2), where such consortia exist, unless the State demonstrates to the Secretary that delivery of such services would be more effective when other delivery mechanisms are used. In making a determination regarding the delivery of services, the State shall consult with appropriate representatives of service providers and recipients of services who would be affected by such determination, and shall include in its demonstration to the Secretary the findings of the State regarding such consultation.”
 
 Subsec. (b). Pub. L. 104–146, §3(c)(2)(B), struck out heading and text of subsec. (b). Text read as follows: “A State shall use not less than 15 percent of funds allocated under this part to provide health and support services to infants, children, women, and families with HIV disease.”
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 1996 Amendment
 

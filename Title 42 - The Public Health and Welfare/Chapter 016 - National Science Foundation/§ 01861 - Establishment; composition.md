@@ -18,7 +18,7 @@ Pub. L. 102–476, §1, Oct. 23, 1992, 106 Stat. 2297, provided that: “This Ac
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100–570, §1, Oct. 31, 1988, 102 Stat. 2865, provided that: “This Act \[enacting sections 1862a to 1862g, 1870a, and 1881b of this title, amending sections 1863, 1873, 1874, and 1885c of this title and sections 3011 to 3013 of Title 20, Education, repealing former sections 1862a and 1862b of this title, enacting provisions set out as notes under sections 1861, 1875, and 7704 of this title and section 3911 of Title 20, and repealing provisions set out as a note under section 1861 of this title\] may be cited as the ‘National Science Foundation Authorization Act of 1988’.”
+Pub. L. 100–570, §1, Oct. 31, 1988, 102 Stat. 2865, provided that: “This Act \[enacting sections 1862a to 1862g,1870a, and 1881b of this title, amending sections 1863, 1873, 1874, and 1885c of this title and sections 3011 to 3013 of Title 20, Education, repealing former sections 1862a and 1862b of this title, enacting provisions set out as notes under sections 1861, 1875, and 7704 of this title and section 3911 of Title 20, and repealing provisions set out as a note under section 1861 of this title\] may be cited as the ‘National Science Foundation Authorization Act of 1988’.”
 
 Pub. L. 100–570, title II, §201, Oct. 31, 1988, 102 Stat. 2873, provided that: “This title \[enacting sections 1862a to 1862d of this title, repealing former sections 1862a and 1862b of this title, and repealing provisions set out as a note under section 1861 of this title\] may be cited as the ‘Academic Research Facilities Modernization Act of 1988’.”
 
@@ -80,7 +80,7 @@ Sec. 4. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472
 
 I74Section 21. Executive Committee
 
-(a) There is hereby established the Executive Committee of the National Science Board, hereafter in this Part referred to as the Executive Committee, which shall be composed of five voting members. Four of the members shall be elected as hereinafter provided. The Director provided for in section 22 of this reorganization plan, ex officio, shall be the fifth member and the chairman of the Executive Committee.
+(a) There is hereby established the Executive Committee of the National Science Board, hereafter in this Part referred to as the Executive Committee, which shall be composed of five voting members. Four of themembers shall be elected as hereinafter provided. The Director provided for in section 22 of this reorganization plan, ex officio, shall be the fifth member and the chairman of the Executive Committee.
 
 (b) At its annual meeting held in 1964 and at each of its succeeding annual meetings the National Science Board, hereafter in this Part referred to as the Board, shall elect two of its members as members of the Executive Committee, and the Executive Committee members so elected shall hold office for two years from the date of their election. Any person who has been a member of the Executive Committee (established by this reorganization plan) for six consecutive years shall thereafter be ineligible for service as a member thereof during the two-year period following the expiration of such sixth year. For the purposes of this subsection, the period between any two consecutive annual meetings of the Board shall be deemed to be one year.
 
@@ -132,7 +132,7 @@ I74Section 31. Incidental Transfers
 
 (c) The President may authorize any person who serves in an acting capacity under the foregoing provisions of this section to receive the compensation attached to the office in respect of which he so serves. Such compensation, if authorized, shall be in lieu of, but not in addition to, other compensation from the United States to which such person may be entitled.
 
-\[Amendments by Pub. L. 90–407, July 18, 1968, 82 Stat. 360, intended to continue in effect the existing offices, procedures, and organization of the National Science Foundation as provided by this chapter, part II of Reorg. Plan No. 2 of 1962, and Reorg. Plan No. 5 of 1965, but on and after July 18, 1968, part II of Reorg. Plan No. 2 of 1962, and Reorg. Plan No. 5 of 1965, as being of no force or effect, and nothing in Pub. L. 90–407 as altering or affecting any transfers of functions made by part I of Reorg. Plan No. 2 of 1962, see section 16 of Pub. L. 90–407, set out as Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation note under section 1862 of this title.\]
+\[Amendments by Pub. L. 90–407, July 18, 1968, 82 Stat. 360, intended to continue in effect the existing offices,procedures, and organization of the National Science Foundation as provided by this chapter, part II of Reorg. Plan No. 2 of 1962, and Reorg. Plan No. 5 of 1965, but on and after July 18, 1968, part II of Reorg. Plan No. 2 of 1962, and Reorg. Plan No. 5 of 1965, as being of no force or effect, and nothing in Pub. L. 90–407 as altering or affecting any transfers of functions made by part I of Reorg. Plan No. 2 of 1962, see section 16 of Pub. L. 90–407, set out as Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation note under section 1862 of this title.\]
 
 #### Message of the President
 

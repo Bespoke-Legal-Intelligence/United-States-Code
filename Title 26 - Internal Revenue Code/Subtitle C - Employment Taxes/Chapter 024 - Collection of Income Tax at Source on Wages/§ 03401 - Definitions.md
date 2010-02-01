@@ -32,7 +32,7 @@ For purposes of this chapter, the term “wages” means all remuneration (other
 
 &emsp;(C) for services for an employer (other than the United States or any agency thereof) performed by a citizen of the United States within Puerto Rico, if it is reasonable to believe that during the entire calendar year the employee will be a bona fide resident of Puerto Rico; or
 
-&emsp;(D) for services for the United States (or any agency thereof) performed by a citizen of the United States within a possession of the United States to the extent the United States\(or such agency) withholds taxes on such remuneration pursuant to an agreement with such possession; or
+&emsp;(D) for services for the United States (or any agency thereof) performed by a citizen of the United States within a possession of the United States to the extent the United States (or such agency) withholds taxes on such remuneration pursuant to an agreement with such possession; or
 
 &emsp;(9) for services performed by a duly ordained, commissioned, or licensed minister of a church in the exercise of his ministry or by a member of a religious order in the exercise of duties required by such order; or
 
@@ -92,7 +92,7 @@ For purposes of this chapter, the term “employee” includes an officer, emplo
 
 For purposes of this chapter, the term “employer” means the person for whom an individual performs or performed any service, of whatever nature, as the employee of such person, except that—
 
-&emsp;(1) if the person for whom the individual performs or performed the services does not have control of the payment of the wages for suchservices, the term “employer” (except for purposes of subsection (a)) means the person having control of the payment of such wages, and
+&emsp;(1) if the person for whom the individual performs or performed the services does not have control of the payment of the wages for such services, the term “employer” (except for purposes of subsection (a)) means the person having control of the payment of such wages, and
 
 &emsp;(2) in the case of a person paying wages on behalf of a nonresident alien individual, foreign partnership, or foreign corporation, not engaged in trade or business within the United States, the term “employer” (except for purposes of subsection (a)) means such person.
 
@@ -102,7 +102,7 @@ For purposes of this chapter, the term “number of withholding exemptions claim
 
 #### (f) Tips
 
-For purposes of subsection (a), the term “wages” includes tips received by an employee in the course of his employment. Such wages shall be deemed to be paid at the time a written statement including such tips is furnished to the employer pursuant to section 6053(a) or (if no statement including such tips is so furnished) at the time received.
+For purposes of subsection (a), the term “wages” includes tips received by an employeein the course of his employment. Such wages shall be deemed to be paid at the time a written statement including such tips is furnished to the employer pursuant to section 6053(a) or (if no statement including such tips is so furnished) at the time received.
 
 #### (g) Crew leader rules to apply
 
@@ -258,7 +258,7 @@ Amendment by Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, s
 
 Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set out as a note under section 62 of this title.
 
-Amendment by section 1421(b)(8)(D) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31,1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
+Amendment by section 1421(b)(8)(D) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
 
 Amendment by Pub. L. 104–117 applicable to remuneration paid after Mar. 20, 1996, see section 1(e) of Pub. L. 104–117, set out in a Treatment of Certain Individuals Performing Services in Certain Hazardous Duty Areas; Effective Date note under section 112 of this title.
 
@@ -354,7 +354,7 @@ Pub. L. 89–368, §1, Mar. 15, 1966, 80 Stat. 38, provided that: “This Act \[
 
 #### Repeals; Amendments and Application of Amendments Unaffected
 
-Section 201(c) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.
+Section 201(c) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions,see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.
 
 #### No Inference To Be Drawn From Amendment by Pub. L. 108–121
 

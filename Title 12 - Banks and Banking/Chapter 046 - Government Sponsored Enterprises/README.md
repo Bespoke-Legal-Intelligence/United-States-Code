@@ -48,7 +48,7 @@ I74subpart 1—general authority
 | [4544\.](Subchapter%20001%20%28I%29%20-%20Supervision%20and%20Regulation%20of%20Enterprises/Part%20B%20-%20Additional%20Authorities%20of%20the%20Director/Subpart%20001%20-%20General%20Authority/%C2%A7%2004544%20-%20Annual%20housing%20report.md) | Annual housing report. |
 | [4545\.](Subchapter%20001%20%28I%29%20-%20Supervision%20and%20Regulation%20of%20Enterprises/Part%20B%20-%20Additional%20Authorities%20of%20the%20Director/Subpart%20001%20-%20General%20Authority/%C2%A7%2004545%20-%20Fair%20housing.md) | Fair housing. |
 | [4546\.](Subchapter%20001%20%28I%29%20-%20Supervision%20and%20Regulation%20of%20Enterprises/Part%20B%20-%20Additional%20Authorities%20of%20the%20Director/Subpart%20001%20-%20General%20Authority/%C2%A7%2004546%20-%20Prohibition%20of%20public%20disclosure%20of%20proprietary%20information.md) | Prohibition of public disclosure of proprietary information. |
-| 4547, 4548. | Repealed. |
+| 4547, 4548. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

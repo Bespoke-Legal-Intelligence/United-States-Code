@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of this part, the term “exempt facility bond” means any bond issued as part ofan issue 95 percent or more of the net proceeds of which are to be used to provide—
+For purposes of this part, the term “exempt facility bond” means any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide—
 
 &emsp;(1) airports,
 
@@ -180,7 +180,7 @@ For purposes of this section—
 
 #### (B) Continuing resident's income may increase above the applicable limit
 
-&emsp;&emsp;If the income of a resident of a unit in a project did not exceed the applicable incomelimit upon commencement of such resident's occupancy of such unit (or as of any prior determination under subparagraph (A)), the income of such resident shall be treated as continuing to not exceed the applicable income limit. The preceding sentence shall cease to apply to any resident whose income as of the most recent determination under subparagraph (A) exceeds 140 percent of the applicable income limit if after such determination, but before the next determination, any residential unit of comparable or smaller size in the same project is occupied by a new resident whose income exceeds the applicable income limit.
+&emsp;&emsp;If the income of a resident of a unit in a project did not exceed the applicable income limit upon commencement of such resident's occupancy of such unit (or as of any prior determination under subparagraph (A)), the income of such resident shall be treated as continuing to not exceed the applicable income limit. The preceding sentence shall cease to apply to any resident whose income as of the most recent determination under subparagraph (A) exceeds 140 percent of the applicable income limit if after such determination, but before the next determination, any residential unit of comparable or smaller size in the same project is occupied by a new resident whose income exceeds the applicable income limit.
 
 #### (C) Exception for projects with respect to which affordable housing credit is allowed
 
@@ -262,7 +262,7 @@ For purposes of subsection (a)(8)—
 
 #### (A) In general
 
-&emsp;&emsp;A facility shall not be treated as failing to meet the local furnishing requirement ofsubsection (a)(8) by reason of electricity transmitted pursuant to an order of the Federal Energy Regulatory Commission under section 211 or 213 of the Federal Power Act (as in effect on the date of the enactment of this paragraph) if the portion of the cost of the facility financed with tax-exempt bonds is not greater than the portion of the cost of the facility which is allocable to the local furnishing of electric energy (determined without regard to this paragraph).
+&emsp;&emsp;A facility shall not be treated as failing to meet the local furnishing requirement of subsection (a)(8) by reason of electricity transmitted pursuant to an order of the Federal Energy Regulatory Commission under section 211 or 213 of the Federal Power Act (as in effect on the date of the enactment of this paragraph) if the portion of the cost of the facility financed with tax-exempt bonds is not greater than the portion of the cost of the facility which is allocable to the local furnishing of electric energy (determined without regard to this paragraph).
 
 #### (B) Special rule for existing facilities
 
@@ -350,7 +350,7 @@ For purposes of subsection (a)(10), the term “qualified hazardous waste facili
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a)(11), the term “high-speed intercity rail facilities” means any facility (not including rolling stock) for the fixed guideway rail transportation of passengers and their baggage between metropolitan statistical areas (within the meaning of section 143(k)(2)(B)) using vehicles that are reasonably expected to operate at speeds in excess of 150 miles per hour between scheduled stops, but only if such facility will be made available to members of the general public as passengers.
+&emsp;For purposes of subsection (a)(11), the term “high-speed intercity rail facilities” means any facility (not including rolling stock) for the fixed guideway rail transportation of passengers and their baggage between metropolitan statistical areas (within the meaning of section 143(k)(2)(B)) using vehicles that are reasonably expected to be capable of attaining a maximum speed in excess of 150 miles per hour between scheduled stops, but only if such facility will be made available to members of the general public as passengers.
 
 #### (2) Election by nongovernmental owners
 
@@ -438,7 +438,7 @@ For purposes of subsection (a)(10), the term “qualified hazardous waste facili
 
 #### (ii) Rules for carryforward of unused limitation
 
-&emsp;&emsp;&emsp;A State may elect to carry forward an unused limitation for any calendar year for 3 calendar years following the calendar year in which the unused limitation aroseunder rules similar to the rules of section 146(f), except that the only purpose for which the carryforward may be elected is the issuance of exempt facility bonds described in subsection (a)(13).
+&emsp;&emsp;&emsp;A State may elect to carry forward an unused limitation for any calendar year for 3 calendar years following the calendar year in which the unused limitation arose under rules similar to the rules of section 146(f), except that the only purpose for which the carryforward may be elected is the issuance of exempt facility bonds described in subsection (a)(13).
 
 #### (<i>l</i>) Qualified green building and sustainable design projects
 
@@ -480,7 +480,7 @@ For purposes of subsection (a)(10), the term “qualified hazardous waste facili
 
 #### (i) Green building and sustainable design
 
-&emsp;&emsp;&emsp;At least 75 percent of the square footage of commercial buildings which are part of the project is registered for United States Green Building Council's LEED certification and is reasonably expected (at the time of the designation) to receive such certification. For purposes of determining LEED certification as required under this clause, points shall be credited by using the following:
+&emsp;&emsp;&emsp;At least 75 percent of the square footage of commercial buildings which are part of the project is registered for United States Green Building Council's LEED certification and is reasonably expected (at thetime of the designation) to receive such certification. For purposes of determining LEED certification as required under this clause, points shall be credited by using the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) For wood products, certification under the Sustainable Forestry Initiative Program and the American Tree Farm System.
 
@@ -630,7 +630,7 @@ For purposes of subsection (a)(10), the term “qualified hazardous waste facili
 
 > &emsp;For purposes of subparagraph (A), average maturity shall be determined in accordance with section 147(b)(2)(A).
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2606; amended Pub. L. 100–647, title I, §1013(a)(1), (39), title VI, §6180(a)–(b)(2), Nov. 10, 1988, 102 Stat. 3537, 3544, 3727, 3728; Pub. L. 101–239, title VII, §§7108(e)(3), (n)(1), 7816(s)(1), Dec. 19, 1989, 103 Stat. 2313, 2318, 2423; Pub. L. 102–486, title XIX, §§1919(a), 1921(a), (b)(1), (2), Oct. 24, 1992, 106 Stat. 3025, 3027, 3028; Pub. L. 104–188, title I, §§1608(a), 1704(j)(7), Aug. 20, 1996, 110 Stat. 1840, 1882; Pub. L. 105–206, title VI, §6023(5), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title IV, §422(a), (b), June 7, 2001, 115 Stat. 65; Pub. L. 108–357, title VII, §701(a), (b), Oct. 22, 2004, 118 Stat. 1536; Pub. L. 109–59, title XI, §11143(a), (b), Aug. 10, 2005, 119 Stat. 1963; Pub. L. 109–222, title II, §209(b)(2), May 17, 2006, 120 Stat. 352; Pub. L. 110–289, div. C, title I, §§3005(a), 3008(a)–(c), 3009(a), 3010(a), July 30, 2008, 122 Stat. 2885–2888; Pub. L. 110–343, div. B, title III, §307(a), (b), Oct. 3, 2008, 122 Stat. 3849.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2606; amended Pub. L. 100–647, title I, §1013(a)(1), (39), title VI, §6180(a)–(b)(2), Nov. 10, 1988, 102 Stat. 3537, 3544, 3727, 3728; Pub. L. 101–239, title VII, §§7108(e)(3), (n)(1), 7816(s)(1), Dec. 19, 1989, 103 Stat. 2313, 2318, 2423; Pub. L. 102–486, title XIX, §§1919(a), 1921(a), (b)(1), (2), Oct. 24, 1992, 106 Stat. 3025, 3027, 3028; Pub. L. 104–188, title I, §§1608(a), 1704(j)(7), Aug. 20, 1996, 110 Stat. 1840, 1882; Pub. L. 105–206, title VI, §6023(5), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title IV, §422(a), (b), June 7, 2001, 115 Stat. 65; Pub. L. 108–357, title VII, §701(a), (b), Oct. 22, 2004, 118 Stat. 1536; Pub. L. 109–59, title XI, §11143(a), (b), Aug. 10, 2005, 119 Stat. 1963; Pub. L. 109–222, title II, §209(b)(2), May 17, 2006, 120 Stat. 352; Pub. L. 110–289, div. C, title I, §§3005(a), 3008(a)–(c), 3009(a), 3010(a), July 30, 2008, 122 Stat. 2885–2888; Pub. L. 110–343, div. B, title III, §307(a), (b), Oct. 3, 2008, 122 Stat. 3849; Pub. L. 111–5, div. B, title I, §1504(a), Feb. 17, 2009, 123 Stat. 355.)
 
 #### Amendment of Section
 
@@ -663,6 +663,8 @@ The date of the enactment of this subsection, referred to in subsec. (m)(1)(A), 
 A prior section 142, act Aug. 16, 1954, ch. 736, 68A Stat. 40, enumerated individuals not eligible for standard deduction, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
+
+2009—Subsec. (i)(1). Pub. L. 111–5 substituted “be capable of attaining a maximum speed in excess of” for “operate at speeds in excess of”.
 
 2008—Subsec. (d)(2)(B). Pub. L. 110–289, §3005(a), designated existing provisions as cl. (i), inserted heading, and added cls. (ii) to (iv).
 
@@ -727,6 +729,10 @@ Subsec. (c). Pub. L. 100–647, §6180(b)(2), substituted “mass commuting faci
 Subsec. (d)(4)(B)(iii). Pub. L. 100–647, §1013(a)(1), substituted “average gross rent” for “average rent”.
 
 Subsec. (i). Pub. L. 100–647, §6180(b)(1), added subsec. (i).
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–5, div. B, title I, §1504(b), Feb. 17, 2009, 123 Stat. 355, provided that: “The amendment made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
 #### Effective Date of 2008 Amendment
 

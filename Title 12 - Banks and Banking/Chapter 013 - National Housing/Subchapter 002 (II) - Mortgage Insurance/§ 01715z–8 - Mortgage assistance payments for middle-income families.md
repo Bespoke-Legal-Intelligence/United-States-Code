@@ -34,7 +34,7 @@ Procedures shall be adopted by the Secretary for recertifications of the mortgag
 
 #### (g) Regulations to assure that sales price or other consideration paid is not increased above appraised value
 
-The Secretary shall prescribe such regulations as he deems necessary to assure that the sales price of, or other consideration paid in connection with, the purchase by a homeowner of the property with respect to which assistance payments are to be made is not increased above the appraised value on which the maximum mortgage which the Secretary will insure is computed.
+The Secretary shall prescribe such regulations as he deems necessary to assure that the salesprice of, or other consideration paid in connection with, the purchase by a homeowner of the property with respect to which assistance payments are to be made is not increased above the appraised value on which the maximum mortgage which the Secretary will insure is computed.
 
 #### (h) Authorization of appropriations; aggregate amount of assistance payment contracts; termination date
 
@@ -60,7 +60,7 @@ In determining the income of any family for the purposes of this section, income
 
 &emsp;(iii) be executed by a mortgagor who shall have paid in cash or its equivalent on account of the property (A) 3 per centum of the first $15,000 of the appraised value of the property, (B) 10 per centum of such value in excess of $15,000 but not in excess of $25,000, and (C) 20 per centum of such value in excess of $25,000.
 
-(June 27, 1934, ch. 847, title II, §243, as added Pub. L. 91–351, title V, §502, July 24, 1970, 84 Stat.458; amended Pub. L. 98–479, title II, §204(a)(14), (15), Oct. 17, 1984, 98 Stat. 2232.)
+(June 27, 1934, ch. 847, title II, §243, as added Pub. L. 91–351, title V, §502, July 24, 1970, 84 Stat. 458; amended Pub. L. 98–479, title II, §204(a)(14), (15), Oct. 17, 1984, 98 Stat. 2232.)
 
 #### References in Text
 

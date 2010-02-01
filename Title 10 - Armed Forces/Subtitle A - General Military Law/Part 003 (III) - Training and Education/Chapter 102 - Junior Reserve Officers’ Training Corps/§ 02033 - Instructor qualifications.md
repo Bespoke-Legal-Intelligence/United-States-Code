@@ -40,7 +40,7 @@ Role.—Non-senior military instructors shall be retired noncommissioned officer
 
 &emsp;(2)
 
-Qualifications.—A non-senior military instructor shall demonstrate a depth of experience, proficiency, and expertise in coaching, mentoring, and practical arts in executing the program, and shall have the following qualifications:
+Qualifications.—A non-senior military instructor shall demonstrate a depth of experience, proficiency, and expertise in coaching, mentoring, and practical arts in executing theprogram, and shall have the following qualifications:
 
 &emsp;&emsp;(A) Professional military qualification, as determined by the Secretary of the military department concerned.
 

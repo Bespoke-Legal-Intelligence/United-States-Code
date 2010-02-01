@@ -30,17 +30,17 @@ Each State regulatory authority (with respect to each electric utility for which
 
 (B) Not later than two years after August 8, 2005, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in section 2621 of this title with respect to each standard established by paragraph (15) of section 2621(d) of this title.
 
-(6)(A) Not later than 1 year after December 19, 2007, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated utility shall commence the consideration referred to in section 2621 of this title, or set a hearing date for consideration, with respect to the standards established by paragraphs (17) through (18) <sup>1</sup> of section 2621(d) of this title.
+(6)(A) Not later than 1 year after December 19, 2007, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated utility shall commence the consideration referred to in section 2621 of this title, or set a hearing date for consideration, with respect to the standards established by paragraphs (16) through (19) of section 2621(d) of this title.
 
-(B) Not later than 2 years after December 19, 2007, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in section 2621 of this title with respect to each standard established by paragraphs (17) through (18) <sup>1</sup> of section 2621(d) of this title.
+(B) Not later than 2 years after December 19, 2007, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in section 2621 of this title with respect to each standard established by paragraphs (16) through (19) of section 2621(d) of this title.
 
 #### (c) Failure to comply
 
-Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall undertake the consideration, and make the determination, referred to in section 2621 of this title with respect to each standard established by section 2621(d) of this title in the first rate proceeding commenced after the date three years after November 9, 1978, respecting the rates of such utility if such State regulatory authority or nonregulated electric utility has not, before such date, complied with subsection (b)(2) of this section with respect to such standard. In the case of each standard established by paragraphs (11) through (13) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (14) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (15),<sup>2</sup> the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standards established by paragraphs (16) through (19) <sup>1</sup> of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to December 19, 2007.
+Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall undertake the consideration, and make the determination, referred to in section 2621 of this title with respect to each standard established by section 2621(d) of this title in the first rate proceeding commenced after thedate three years after November 9, 1978, respecting the rates of such utility if such State regulatory authority or nonregulated electric utility has not, before such date, complied with subsection (b)(2) of this section with respect to such standard. In the case of each standard established by paragraphs (11) through (13) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (14) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (15),<sup>1</sup> the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standards established by paragraphs (16) through (19) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to December 19, 2007.
 
 #### (d) Prior State actions relating to standard under certain paragraphs of section 2621(d)
 
-Subsections (b) and (c) of this section shall not apply to the standards established by paragraphs (11) through (13) and paragraphs (17) through (18) <sup>1</sup> of section 2621(d) of this title in the case of any electric utility in a State if, before August 8, 2005—
+Subsections (b) and (c) of this section shall not apply to the standards established by paragraphs (11) through (13) and paragraphs (16) through (19) of section 2621(d) of this title in the case of any electric utility in a State if, before August 8, 2005—
 
 &emsp;(1) the State has implemented for such utility the standard concerned (or a comparable standard);
 
@@ -68,19 +68,19 @@ Subsections (b) and (c) of this section shall not apply to the standard establis
 
 &emsp;(3) the State legislature has voted on the implementation of such standard (or a comparable standard) for such utility.
 
-(Pub. L. 95–617, title I, §112, Nov. 9, 1978, 92 Stat. 3122; Pub. L. 102–486, title I, §111(c), Oct. 24, 1992, 106 Stat. 2795; Pub. L. 109–58, title XII, §§1251(b)(1)–(3)(A), 1252(g)–(i)(1), 1254(b)(1)–(3)(A), Aug. 8, 2005, 119 Stat. 963, 966, 967, 971; Pub. L. 110–140, title XIII, §1307(b), Dec. 19, 2007, 121 Stat. 1793.)
+(Pub. L. 95–617, title I, §112, Nov. 9, 1978, 92 Stat. 3122; Pub. L. 102–486, title I, §111(c), Oct. 24, 1992, 106 Stat. 2795; Pub. L. 109–58, title XII, §§1251(b)(1)–(3)(A), 1252(g)–(i)(1), 1254(b)(1)–(3)(A), Aug. 8, 2005, 119 Stat. 963, 966, 967, 971; Pub. L. 110–140, title XIII, §1307(b), Dec. 19, 2007, 121 Stat. 1793; Pub. L. 111–5, div. A, title IV, §408(b), Feb. 17, 2009, 123 Stat. 146.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (a)(1)(B), was in the original “this title”, meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
-
-Paragraphs (17) through (18) of section 2621(d) of this title and paragraphs (16) through (19) of section 2621(d) of this title, referred to in subsecs. (b)(6), (c), and (d), probably mean pars. (16) and (17) of that section relating to integrated resource planning and rate design modifications to promote energy efficiency as added by Pub. L. 110–140, §532(a), and pars. (16) and (17) of that section relating to consideration of smart grid investments and smart grid information as added by Pub. L. 110–140, §1307(a).
 
 #### Codification
 
 “October 24, 1992”, referred to in subsec. (b)(1), (2), was in the original “the enactment of the Comprehensive National Energy Policy Act”, and was translated as meaning the enactment of the Energy Policy Act of 1992, Pub. L. 102–486, to reflect the probable intent of Congress. The Comprehensive National Energy Policy Act was the original short title of H.R. 776, which was enacted into law on Oct. 24, 1992, as Pub. L. 102–486.
 
 #### Amendments
+
+2009—Subsecs. (b)(6), (d). Pub. L. 111–5 substituted “(16) through (19)” for “(17) through (18)” wherever appearing.
 
 2007—Subsec. (b)(6). Pub. L. 110–140, §1307(b)(1), added par. (6).
 
@@ -112,7 +112,5 @@ Subsec. (f). Pub. L. 109–58, §1254(b)(3)(A), added subsec. (f).
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “paragraph (15) of section 2621(d) of this title,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (15) of section 2621(d) of this title,”.</i>
 

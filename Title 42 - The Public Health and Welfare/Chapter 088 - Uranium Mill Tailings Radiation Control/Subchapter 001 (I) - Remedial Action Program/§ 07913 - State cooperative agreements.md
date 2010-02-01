@@ -10,7 +10,7 @@ Each cooperative agreement under this section shall contain such terms and condi
 
 #### (c) Written consent of record interest holder; waiver
 
-(1) Except where the State is required to acquire the processing site as provided in subsection (a) of section 7914 of this title, each cooperative agreement with a State under this section shall provide that the State shall obtain,in a form prescribed by the Secretary, written consent from any person holding any record interest in the designated processing site for the Secretary or any person designated by him to perform remedial action at such site.
+(1) Except where the State is required to acquire the processing site as provided in subsection (a) of section 7914 of this title, each cooperative agreement with a State under this section shall provide that the State shall obtain, in a form prescribed by the Secretary, written consent from any person holding any record interest in the designated processing site for the Secretary or any person designated by him to perform remedial action at such site.
 
 (2) Such written consent shall include a waiver by each such person on behalf of himself, his heirs, successors, and assigns—
 

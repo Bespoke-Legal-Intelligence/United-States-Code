@@ -12,7 +12,7 @@ The Congress finds that—
 
 #### (b) Equitable reduction of budget
 
-The Secretary of State shall take all appropriate steps to assure that the burden of cuts in the budget for the Department is not imposed disproportionately or inequitably upon its Civil Service employees.
+The Secretary of State shall take all appropriate steps to assure that the burden of cuts inthe budget for the Department is not imposed disproportionately or inequitably upon its Civil Service employees.
 
 #### (c) Establishment of Office of the Ombudsman for Civil Service Employees
 

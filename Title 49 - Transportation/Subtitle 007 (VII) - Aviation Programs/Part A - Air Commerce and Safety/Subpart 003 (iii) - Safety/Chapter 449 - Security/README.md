@@ -73,7 +73,7 @@ Pub. L. 108–7, div. I, title III, §351(c), Feb. 20, 2003, 117 Stat. 420, adde
 
 2002—Pub. L. 107–296, title XIV, §1402(b)(1), Nov. 25, 2002, 116 Stat. 2305, added item 44921.
 
-2001—Pub. L. 107–71, title I, §§101(f)(6), 105(b), 107(b), 108(b), 113(b), 125(b), 131(b), Nov. 19, 2001, 115 Stat. 603, 607, 611, 613, 622, 632, 635, added items 44917 to 44920, 44939, 44941, and 44944 and struck out items 44931 “Director of Intelligence and Security” and 44932 “Assistant Administrator for Civil Aviation Security”.
+2001—Pub. L. 107–71, title I, §§101(f)(6), 105(b), 107(b), 108(b), 113(b), 125(b), 131(b), Nov. 19, 2001, 115 Stat. 603,607, 611, 613, 622, 632, 635, added items 44917 to 44920, 44939, 44941, and 44944 and struck out items 44931 “Director of Intelligence and Security” and 44932 “Assistant Administrator for Civil Aviation Security”.
 
 Pub. L. 107–71, title I, §118(b), Nov. 19, 2001, 115 Stat. 627, which directed addition of item 44940 to the analysis for chapter 449 without specifying the Code title to be amended, was executed by adding item 44940 to this analysis to reflect the probable intent of Congress.
 

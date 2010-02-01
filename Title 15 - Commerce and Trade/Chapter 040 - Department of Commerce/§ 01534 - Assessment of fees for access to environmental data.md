@@ -14,7 +14,7 @@ Except as otherwise provided in this section, the Secretary is authorized to ass
 
 #### (c) Publication of fee schedules in Federal Register; initial schedule effective for three-year period
 
-The initial schedule of any fees assessed under this section, and any subsequent amendment to such schedule, shall be published by the Secretary in the Federal Register at least 30 days before such fees will take effect. The initial schedule shall remain in effect without amendment for the three-year period beginning on the date that fees under the schedule take effect.
+The initial schedule of any fees assessed under this section, and any subsequent amendment to such schedule, shall be published by the Secretary in the Federal Register at least 30 daysbefore such fees will take effect. The initial schedule shall remain in effect without amendment for the three-year period beginning on the date that fees under the schedule take effect.
 
 #### (d) Effective date of assessments; progressive increments
 
@@ -42,7 +42,7 @@ The Secretary shall, not later than 90 days after November 17, 1988, submit to t
 
 #### (g) Other assessment authorities unaffected
 
-The authority of the Secretary to assess fees under this section shall be in addition to, and shall not be construed to limit, the authority under any other law to assess fees relating to the environmental data activities of the National Oceanic and Atmospheric Administration,including the authority of the Secretary pursuant to section 1307 of title 44. Nothing in this section shall be construed to authorize the Secretary to assess fees for nautical and aeronautical products of the National Oceanic and Atmospheric Administration in addition to those fees authorized under section 1307 of title 44.
+The authority of the Secretary to assess fees under this section shall be in addition to, and shall not be construed to limit, the authority under any other law to assess fees relating to the environmental data activities of the National Oceanic and Atmospheric Administration, including the authority of the Secretary pursuant to section 1307 of title 44. Nothing in this section shall be construed to authorize the Secretary to assess fees for nautical and aeronautical products of the National Oceanic and Atmospheric Administration in addition to those fees authorized under section 1307 of title 44.
 
 (Pub. L. 100–685, title IV, §409, Nov. 17, 1988, 102 Stat. 4100; Pub. L. 101–508, title X, §10201(a), Nov. 5, 1990, 104 Stat. 1388–392.)
 
@@ -80,7 +80,7 @@ Section 10201(b) of Pub. L. 101–508 provided that:
 
 “(2) Increases in revenues to the United States described in paragraph (1) shall be achieved by the Secretary of Commerce through fair and equitable increases in fees for services offered by the various programs of the National Oceanic and Atmospheric Administration.
 
-“(3) The Secretary of Commerce shall notify the Congress of any changes in fee schedules under section 409 of the Act of November 17, 1988 (15 U.S.C. 1534), before such changes take effect.”
+“(3) The Secretary of Commerce shall notify the Congress of any changes in fee schedules under section 409of the Act of November 17, 1988 (15 U.S.C. 1534), before such changes take effect.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “and”.</i>
 

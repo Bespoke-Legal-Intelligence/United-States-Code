@@ -54,7 +54,7 @@ Loan.—The term “loan” does not include any credit card account established
 
 &emsp;&emsp;(A) the applicant satisfies any financial requirements for the credit card account or residential real property loan that are generally applicable to all applicants for the same type of credit card account or residential real property loan;
 
-&emsp;&emsp;(B) the terms and conditions applicable with respect to such account or residential real property loan, and any credit extended to the examiner under such account or residential real property loan, are no more favorable generally to the examiner than the terms and conditions that are generally applicable to credit card accounts or residential real property loans offered by the same financial institution to other borrowers cardholders <sup>1</sup> in comparable circumstancesunder open end consumer credit plans or for residential real property loans; and
+&emsp;&emsp;(B) the terms and conditions applicable with respect to such account or residential real property loan, and any credit extended to the examiner under such account or residential real property loan, are no more favorable generally to the examiner than the terms and conditions that are generally applicable to credit card accounts or residential real property loans offered by the same financial institution to other borrowers cardholders <sup>1</sup> in comparable circumstances under open end consumer credit plans or for residential real property loans; and
 
 &emsp;&emsp;(C) with respect to residential real property loans, the loan is with respect to the primary residence of the applicant.
 

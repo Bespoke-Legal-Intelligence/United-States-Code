@@ -28,7 +28,7 @@ If a person is determined to have committed a violation under subsection (a) of 
 
 #### (c) Wetland conversion
 
-Except as provided in section 3822 of this title and notwithstanding any other provision of law, any person who in any crop year beginning after November 28, 1990, converts a wetland by draining, dredging, filling, leveling, or any other means for the purpose, or to have the effect, of making the production of an agricultural commodity possible on such converted wetland shallbe ineligible for those payments, loans, or programs specified in subsection (b) of this section for that crop year and all subsequent crop years.
+Except as provided in section 3822 of this title and notwithstanding any other provision of law, any person who in any crop year beginning after November 28, 1990, converts a wetland by draining, dredging, filling, leveling, or any other means for the purpose, or to have the effect, of making the production of an agricultural commodity possible on such converted wetland shall be ineligible for those payments, loans, or programs specified in subsection (b) of this section for that crop year and all subsequent crop years.
 
 #### (d) Prior loans
 

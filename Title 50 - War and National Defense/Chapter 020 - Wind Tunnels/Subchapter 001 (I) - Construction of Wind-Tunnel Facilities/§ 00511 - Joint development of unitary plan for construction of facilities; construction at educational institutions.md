@@ -6,9 +6,9 @@ The Administrator of the National Aeronautics and Space Administration (hereinaf
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–391 substituted “transsonic, supersonic, and hypersonic” for “transsonic and supersonic”.
+2000—Pub. L. 106–391 substituted “transsonic, supersonic, and hypersonic” for “transsonic and supersonic”.
 
-<b>1958</b>—Pub. L. 85–568 substituted “The Administrator of the National Aeronautics and Space Administration (hereinafter referred to as the ‘Administrator’)” for “The National Advisory Committee for Aeronautics (hereinafter referred to as the ‘Committee’)”, and “Administrator” for “Committee” in second sentence.
+1958—Pub. L. 85–568 substituted “The Administrator of the National Aeronautics and Space Administration (hereinafter referred to as the ‘Administrator’)” for “The National Advisory Committee for Aeronautics (hereinafter referred to as the ‘Committee’)”, and “Administrator” for “Committee” in second sentence.
 
 #### Effective Date of 1958 Amendment
 

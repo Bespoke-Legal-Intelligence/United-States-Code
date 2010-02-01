@@ -2,7 +2,7 @@
 
 #### (a) Omitting things required or doing things forbidden
 
-Whoever willfully omits, neglects, or refuses to comply with any duty imposed upon him by this chapter, or to do, or cause to be done, any of the things required by this chapter, or does anything prohibited by this chapter, shall in addition to any other penalty provided in thistitle, be liable to a penalty of $1,000, to be recovered, with costs of suit, in a civil action, except where a penalty under subsection (b) or (c) or under section 6651 or 6653 or part II of subchapter A of chapter 68 may be collected from such person by assessment.
+Whoever willfully omits, neglects, or refuses to comply with any duty imposed upon him by this chapter, or to do, or cause to be done, any of the things required by this chapter, or does anything prohibited by this chapter, shall in addition to any other penalty provided in this title, be liable to a penalty of $1,000, to be recovered, with costs of suit, in a civil action, except where a penalty under subsection (b) or (c) or under section 6651 or 6653 or part II of subchapter A of chapter 68 may be collected from such person by assessment.
 
 #### (b) Failure to pay tax
 
@@ -64,7 +64,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsecs. (c)
 
 Subsecs. (d) to (f). Pub. L. 109–432, §401(f)(1), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
-2000—Subsec. (c). Pub. L. 106–554 inserted at end “This subsection and section 5754 shall not apply to any person who relands or receives tobacco products in the quantity allowed entry free of tax and duty under chapter 98 of the Harmonized Tariff Schedule of the United States, and such person may voluntarily relinquish to the Secretary at the time of entry any excess of such quantity without incurring the penalty under this subsection. No quantity of tobacco products other than thequantity referred to in the preceding sentence may be relanded or received as a personal use quantity.”
+2000—Subsec. (c). Pub. L. 106–554 inserted at end “This subsection and section 5754 shall not apply to any person who relands or receives tobacco products in the quantity allowed entry free of tax and duty under chapter 98 of the Harmonized Tariff Schedule of the United States, and such person may voluntarily relinquish to the Secretary at the time of entry any excess of such quantity without incurring the penalty under this subsection. No quantity of tobacco products other than the quantity referred to in the preceding sentence may be relanded or received as a personal use quantity.”
 
 Pub. L. 106–476, §4003(a), inserted at end “This subsection and section 5754 shall not apply to any person who relands or receives tobacco products in the quantity allowed entry free of tax and duty under subchapter IV of chapter 98 of the Harmonized Tariff Schedule of the United States. No quantity of tobacco products other than the quantity referred to in the preceding sentence may be relanded or received as a personal use quantity.”
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 105–33 applicable to articles removed, as defined in sect
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as a note under section 461 of this title.
+Amendment by Pub. L. 101–239 applicable to returns the due date for which (determined without regard toextensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as a note under section 461 of this title.
 
 #### Effective Date of 1984 Amendment
 

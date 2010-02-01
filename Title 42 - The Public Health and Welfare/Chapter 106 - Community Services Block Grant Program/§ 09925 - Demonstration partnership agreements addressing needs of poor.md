@@ -72,7 +72,7 @@ As used in this section—
 
 #### (h) Authorization of appropriations
 
-(1) There are authorized to be appropriated $30,000,000 for fiscal year 1995, and such sums as may be necessary for fiscal years 1996, 1997, and 1998, to carry out this section.
+(1) There are authorized to be appropriated $30,000,000 for fiscal year 1995, and such sums asmay be necessary for fiscal years 1996, 1997, and 1998, to carry out this section.
 
 (2) Of the amounts appropriated for this section, not less than 30 percent and not more than 40 percent shall be used to carry out the programs authorized under subsection (c) of this section.
 
@@ -126,7 +126,7 @@ Subsec. (b)(1). Pub. L. 101–204, §705(b)(1), designated existing provisions a
 
 Subsec. (b)(3). Pub. L. 101–204, §705(b)(2), inserted “in each fiscal year” after “than one grant”, substituted “$350,000” for “$250,000”, and inserted at end “Not more than 2 grants may be made under this section to an eligible entity to carry out a particular program.”
 
-Subsec. (c). Pub. L. 101–204, §705(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “As soon as practicable, but no later than 90 days after the expiration of the fiscal year for which any grant is awarded under this section, the Secretary shall prepare and make available upon request to each State and eligible entity descriptions of the demonstration programs assisted under this section, and any relevant information developed and results achieved, so as to provide models for innovative programs to other eligible entities.”
+Subsec. (c). Pub. L. 101–204, §705(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “As soon as practicable, but no later than 90days after the expiration of the fiscal year for which any grant is awarded under this section, the Secretary shall prepare and make available upon request to each State and eligible entity descriptions of the demonstration programs assisted under this section, and any relevant information developed and results achieved, so as to provide models for innovative programs to other eligible entities.”
 
 Subsecs. (d), (e). Pub. L. 101–204, §705(f)(2), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
 

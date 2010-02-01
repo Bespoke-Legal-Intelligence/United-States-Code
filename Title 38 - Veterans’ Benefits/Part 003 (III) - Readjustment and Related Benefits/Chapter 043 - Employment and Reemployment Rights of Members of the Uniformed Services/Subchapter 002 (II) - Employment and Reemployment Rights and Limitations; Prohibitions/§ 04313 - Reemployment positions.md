@@ -28,7 +28,7 @@
 
 &emsp;(A) Except as provided in subparagraph (B), in any other position of employment referred to in subsection (a)(1) or (a)(2), as the case may be (in the order of priority set out in the applicable subsection), that provides a similar status and pay to a position of employment referred to in paragraph (1) of this subsection, consistent with the circumstances of such person's case, with full seniority.
 
-&emsp;(B) In the case of a person who has a disability incurred in, or aggravated during, a period of service in the uniformed services that requires reasonable efforts by the employer for the person to be able to perform the duties ofthe position of employment, in any other position referred to in subsection (a)(3) (in the order of priority set out in that subsection) that provides a similar status and pay to a position referred to in paragraph (1) of this subsection, consistent with circumstances of such person's case, with full seniority.
+&emsp;(B) In the case of a person who has a disability incurred in, or aggravated during, a period of service in the uniformed services that requires reasonable efforts by the employer for the person to be able to perform the duties of the position of employment, in any other position referred to in subsection (a)(3) (in the order of priority set out in that subsection) that provides a similar status and pay to a position referred to in paragraph (1) of this subsection, consistent with circumstances of such person's case, with full seniority.
 
 (Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3157; amended Pub. L. 104–275, title III, §311(5), Oct. 9, 1996, 110 Stat. 3335.)
 

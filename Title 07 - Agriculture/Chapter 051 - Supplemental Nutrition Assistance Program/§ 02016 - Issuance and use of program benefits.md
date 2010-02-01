@@ -44,7 +44,7 @@ Notwithstanding any other provision of this chapter, the State agency shall be s
 
 #### (B) EBT cards
 
-&emsp;&emsp;Effective beginning on the date that is 1 year after the date of enactment of theFood, Conservation, and Energy Act of 2008, only an EBT card issued under subsection (i) shall be eligible for exchange at any retail food store.
+&emsp;&emsp;Effective beginning on the date that is 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008, only an EBT card issued under subsection (i) shall be eligible for exchange at any retail food store.
 
 #### (C) De-obligation of coupons
 
@@ -254,7 +254,7 @@ Interchange fees.—No interchange fees shall apply to electronic benefit transf
 
 #### (3) Reporting
 
-&emsp;To be eligible to issue benefits under this subsection, a State agency shall comply withreporting requirements established by the Secretary to carry out this subsection.
+&emsp;To be eligible to issue benefits under this subsection, a State agency shall comply with reporting requirements established by the Secretary to carry out this subsection.
 
 #### (4) Plan
 
@@ -304,7 +304,7 @@ Interchange fees.—No interchange fees shall apply to electronic benefit transf
 
 #### (F) Settling
 
-&emsp;&emsp;The term “settling” means movement, and reporting such movement, of funds from an electronic benefit transfer card issuer that is located in 1 State to a retail food store, or wholesale food concern, that is located in another State, to accomplish an interstate transaction.
+&emsp;&emsp;The term “settling” means movement, and reporting such movement, of funds from anelectronic benefit transfer card issuer that is located in 1 State to a retail food store, or wholesale food concern, that is located in another State, to accomplish an interstate transaction.
 
 #### (G) Smart card
 
@@ -368,7 +368,7 @@ Interchange fees.—No interchange fees shall apply to electronic benefit transf
 
 &emsp;&emsp;The total amount paid to State agencies for each fiscal year under subparagraph (A) shall not exceed $500,000.
 
-(Pub. L. 88–525, §7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, §5, Jan. 11, 1971, 84 Stat. 2050; Pub. L. 93–86, §3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, §1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, §1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L. 99–198, title XV, §§1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, §203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, §102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, §825(a), Aug. 22, 1996, 110 Stat. 2324; Pub. L. 105–18, title VII, \[(a)\], June 12, 1997, 111 Stat. 216; Pub. L. 106–171, §3, Feb. 11, 2000, 114 Stat. 3; Pub. L. 107–171, title IV, §4110, May 13, 2002, 116 Stat. 309; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(4), 4113–4115(a), May 22, 2008, 122 Stat. 1092, 1093, 1103; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(4), 4113–4115(a), 122 Stat. 1853, 1854, 1864, 1865.)
+(Pub. L. 88–525, §7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, §5, Jan. 11, 1971, 84 Stat. 2050; Pub. L. 93–86, §3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, §1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, §1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L. 99–198, title XV, §§1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, §203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, §102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, §825(a), Aug. 22, 1996, 110 Stat. 2324; Pub. L. 105–18, title VII, \[(a)\], June 12, 1997, 111 Stat. 216; Pub. L. 106–171, §3, Feb. 11, 2000, 114 Stat. 3; Pub. L. 107–171, title IV, §4110, May 13, 2002, 116 Stat. 309; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(4), 4113–4115(a), May 22, 2008, 122 Stat. 1092, 1093, 1103; Pub. L.110–246, §4(a), title IV, §§4001(b), 4002(a)(4), 4113–4115(a), June 18, 2008, 122 Stat. 1853, 1854, 1864, 1865.)
 
 #### References in Text
 
@@ -504,7 +504,7 @@ Subsec. (g). Pub. L. 97–253, §162, added subsec. (g).
 
 Pub. L. 93–86 substituted provisions relating to determination of semiannual adjustments in face value of coupon allotment for provisions relating to determination of annual adjustments in such allotment.
 
-1971—Subsec. (a). Pub. L. 91–671 substituted provision for issuance of coupon allotment in such amount as the Secretary determines to be the cost of a nutritionally adequate diet, adjusted annually to reflect changes inprices of food published by Bureau of Labor Statistics for prior provision for issuance in such amount as will provide households with an opportunity more nearly to obtain a low-cost nutritionally adequate diet and inserted “any” before “households”.
+1971—Subsec. (a). Pub. L. 91–671 substituted provision for issuance of coupon allotment in such amount as the Secretary determines to be the cost of a nutritionally adequate diet, adjusted annually to reflect changes in prices of food published by Bureau of Labor Statistics for prior provision for issuance in such amount as will provide households with an opportunity more nearly to obtain a low-cost nutritionally adequate diet and inserted “any” before “households”.
 
 Subsec. (b). Pub. L. 91–671 substituted provisions respecting charges to households for coupon allotments representing reasonable investment on part of the households, issuance of coupon allotments without charge where monthly income is less than $30 for a family of four, and election of coupon allotment with a lesser face value than the face value authorized to be issued for prior provision for a charge determined to be equivalent to normal expenditures for food.
 

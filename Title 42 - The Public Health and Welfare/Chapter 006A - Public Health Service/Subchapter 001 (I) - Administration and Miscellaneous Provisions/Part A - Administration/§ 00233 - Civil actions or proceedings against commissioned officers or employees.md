@@ -42,7 +42,7 @@ The Secretary or his designee may, to the extent that he deems appropriate, hold
 
 &emsp;(iii) are otherwise required under an employment contract (or similar arrangement) between the entity and an officer, governing board member, employee, or contractor of the entity.
 
-(D) The Secretary may not under subparagraph (A) deem an entity or an officer, governing board member, employee, or contractor of the entity to be an employee of the Public Health Service for purposes of this section, and may not apply such deeming to services described in subparagraph (B)(ii), unless the entity has submitted an application for such deeming to the Secretary in such form and such manner as the Secretary shall prescribe. The application shall contain detailed information, along with supporting documentation, to verify that the entity, and the officer, governing board member, employee, or contractor of the entity, as the case may be, meets the requirements of subparagraphs (B) and (C) of this paragraph and that the entity meets the requirements of paragraphs (1) through (4) of subsection (h) of this section.
+(D) The Secretary may not under subparagraph (A) deem an entity or an officer, governing board member, employee, or contractor of the entity to be an employee of the Public Health Service for purposes of this section, and may not apply such deeming to services described in subparagraph (B)(ii), unless the entity has submitted an application for such deeming to the Secretary in such form and such manner as the Secretary shall prescribe. The application shall contain detailed information, along with supporting documentation, to verify that the entity, and the officer, governing board member, employee, or contractor of the entity, as thecase may be, meets the requirements of subparagraphs (B) and (C) of this paragraph and that the entity meets the requirements of paragraphs (1) through (4) of subsection (h) of this section.
 
 (E) The Secretary shall make a determination of whether an entity or an officer, governing board member, employee, or contractor of the entity is deemed to be an employee of the Public Health Service for purposes of this section within 30 days after the receipt of an application under subparagraph (D). The determination of the Secretary that an entity or an officer, governing board member, employee, or contractor of the entity is deemed to be an employee of the Public Health Service for purposes of this section shall apply for the period specified by the Secretary under subparagraph (A).
 
@@ -110,7 +110,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 #### (k) Estimate of annual claims by Attorney General; criteria; establishment of fund; transfer of funds to Treasury accounts
 
-(1)(A) For each fiscal year, the Attorney General, in consultation with the Secretary, shall estimate by the beginning of the year the amount of all claims which are expected to arise under this section (together with related feesand expenses of witnesses) for which payment is expected to be made in accordance with section 1346 and chapter 171 of title 28 from the acts or omissions, during the calendar year that begins during that fiscal year, of entities described in subsection (g)(4) of this section and of officers, employees, or contractors (subject to subsection (g)(5) of this section) of such entities.
+(1)(A) For each fiscal year, the Attorney General, in consultation with the Secretary, shall estimate by the beginning of the year the amount of all claims which are expected to arise under this section (together with related fees and expenses of witnesses) for which payment is expected to be made in accordance with section 1346 and chapter 171 of title 28 from the acts or omissions, during the calendar year that begins during that fiscal year, of entities described in subsection (g)(4) of this section and of officers, employees, or contractors (subject to subsection (g)(5) of this section) of such entities.
 
 (B) The estimate under subparagraph (A) shall take into account—
 
@@ -174,7 +174,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;&emsp;(ii) Claims that have been paid and that are estimated to be paid, and legal expenses to handle such claims that have been paid and that are estimated to be paid, by private medical malpractice liability insurance.
 
-&emsp;(D) An analysis of whether the cost of premiums for private medical malpractice liability insurance coverage is consistent with the liability claims experience of entities that have been deemed as employees for purposes of this section.
+&emsp;(D) An analysis of whether the cost of premiums for private medical malpractice liability insurance coverage is consistent with the liability claims experience of entities thathave been deemed as employees for purposes of this section.
 
 (3) In preparing the report under paragraph (1), the Comptroller General of the United States shall consult with public and private entities with expertise on the matters with which the report is concerned.
 
@@ -196,7 +196,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;&emsp;(ii) The free clinic may accept voluntary donations for the provision of the service by the health care practitioner to the individual.
 
-&emsp;(E) Before the service is provided, the health care practitioner or the free clinic provides written notice to the individual of the extent to which the legal liability of the health care practitioner is limited pursuant to this subsection (or in the case of an emergency, the written notice is provided to the individual as soon after the emergency as is practicable). If the individual is a minor or is otherwise legally incompetent, the condition under this subparagraph is that the written notice beprovided to a legal guardian or other person with legal responsibility for the care of the individual.
+&emsp;(E) Before the service is provided, the health care practitioner or the free clinic provides written notice to the individual of the extent to which the legal liability of the health care practitioner is limited pursuant to this subsection (or in the case of an emergency, the written notice is provided to the individual as soon after the emergency as is practicable). If the individual is a minor or is otherwise legally incompetent, the condition under this subparagraph is that the written notice be provided to a legal guardian or other person with legal responsibility for the care of the individual.
 
 &emsp;(F) At the time the service is provided, the health care practitioner is licensed or certified in accordance with applicable law regarding the provision of the service.
 
@@ -224,7 +224,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;&emsp;(ii) the Secretary, pursuant to subsection (g)(1)(E) of this section, determines that the health care practitioner is deemed to be an employee of the Public Health Service.
 
-&emsp;(D) In the case of a health care practitioner who is determined by the Secretary pursuant to subsection (g)(1)(E) of this section to be a free clinic health professional, this subsection applies to the health care practitioner (with respect to the free clinic sponsoring the health care practitioner pursuant to subparagraph (C)) for any cause of action arising from an act or omission of the health care practitioner occurring on or after the date on which the Secretary makes such determination.
+&emsp;(D) In the case of a health care practitioner who is determined by the Secretary pursuant to subsection (g)(1)(E) of this section to be a free clinic health professional, this subsection applies to the health care practitioner (with respect to the free clinic sponsoring the health care practitioner pursuant to subparagraph\(C)) for any cause of action arising from an act or omission of the health care practitioner occurring on or after the date on which the Secretary makes such determination.
 
 &emsp;(E) Subsection (g)(1)(F) of this section applies to a health care practitioner for purposes of this subsection only to the extent that, in providing health services to an individual, each of the conditions specified in paragraph (2) is met.
 
@@ -244,7 +244,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;(II) reports under paragraph (6)(C) may be submitted to the Congress.
 
-(ii) For the first fiscal year for which an appropriation is made under subparagraph (A) ofparagraph (6), if an estimate under subparagraph (C) of such paragraph has not been made for the calendar year beginning in such fiscal year, the transfer under subparagraph (D) of such paragraph shall be made notwithstanding the lack of the estimate, and the transfer shall be made in an amount equal to the amount of such appropriation.
+(ii) For the first fiscal year for which an appropriation is made under subparagraph (A) of paragraph (6), if an estimate under subparagraph (C) of such paragraph has not been made for the calendar year beginning in such fiscal year, the transfer under subparagraph (D) of such paragraph shall be made notwithstanding the lack of the estimate, and the transfer shall be made in an amount equal to the amount of such appropriation.
 
 #### (p) Administration of smallpox countermeasures by health professionals
 
@@ -552,7 +552,7 @@ Section 5 of Pub. L. 104–299, as amended by Pub. L. 104–208, div. A, title I
 
 #### Effective Date of 1995 Amendment
 
-Section 5(c) of Pub. L. 104–73 provided that: “If, on the day before the date of the enactment of this Act\[Dec. 26, 1995\], an entity was deemed to be an employee of the Public Health Service for purposes of section 224(g) of the Public Health Service Act \[subsec. (g) of this section\], the condition under paragraph (1)(D) of such section (as added by subsection (a) of this section) that an application be approved with respect to the entity does not apply until the expiration of the 180-day period beginning on such date.”
+Section 5(c) of Pub. L. 104–73 provided that: “If, on the day before the date of the enactment of this Act \[Dec. 26, 1995\], an entity was deemed to be an employee of the Public Health Service for purposes of section 224(g) of the Public Health Service Act \[subsec. (g) of this section\], the condition under paragraph (1)(D) of such section (as added by subsection (a) of this section) that an application be approved with respect to the entity does not apply until the expiration of the 180-day period beginning on such date.”
 
 #### Effective Date of 1992 Amendment
 

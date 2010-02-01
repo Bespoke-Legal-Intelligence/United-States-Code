@@ -66,7 +66,7 @@ In this section:
 
 #### (B) Emergency shortages
 
-&emsp;&emsp;Notwithstanding subparagraph (A), if there is an emergency shortage of sugar for human consumption in the United States market that is caused by a war, flood, hurricane, or other natural disaster, or other similar event, the Secretary may dispose of an eligible commodity that is owned and held in inventory by the Commodity Credit Corporation (accumulated pursuant to the program authorized under section 7272 ofthis title) through disposition as authorized under section 7272(f) of this title or through the use of any other authority of the Commodity Credit Corporation.
+&emsp;&emsp;Notwithstanding subparagraph (A), if there is an emergency shortage of sugar for human consumption in the United States market that is caused by a war, flood, hurricane, or other natural disaster, or other similar event, the Secretary may dispose of an eligible commodity that is owned and held in inventory by the Commodity Credit Corporation (accumulated pursuant to the program authorized under section 7272 of this title) through disposition as authorized under section 7272(f) of this title or through the use of any other authority of the Commodity Credit Corporation.
 
 #### (4) Transfer rule; storage fees
 

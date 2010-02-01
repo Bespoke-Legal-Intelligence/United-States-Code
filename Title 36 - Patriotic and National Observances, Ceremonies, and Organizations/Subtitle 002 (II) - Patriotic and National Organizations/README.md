@@ -61,6 +61,7 @@
 | [<b>1305.</b>](Part%20B%20-%20Organizations/Chapter%201305%20-%20Little%20League%20Baseball%2C%20Incorporated/README.md) | <b>Little League Baseball, Incorporated</b> | <b>130501</b> |
 | [<b>1401.</b>](Part%20B%20-%20Organizations/Chapter%201401%20-%20Marine%20Corps%20League/README.md) | <b>Marine Corps League</b> | <b>140101</b> |
 | [<b>1403.</b>](Part%20B%20-%20Organizations/Chapter%201403%20-%20The%20Military%20Chaplains%20Association%20of%20the%20United%20States%20of%20America/README.md) | <b>The Military Chaplains Association of the United States of America</b> | <b>140301</b> |
+| [<b>1404.</b>](Part%20B%20-%20Organizations/Chapter%201404%20-%20Military%20Officers%20Association%20of%20America/README.md) | <b>Military Officers Association of America</b> | <b>140401</b> |
 | [<b>1405.</b>](Part%20B%20-%20Organizations/Chapter%201405%20-%20Military%20Order%20of%20the%20Purple%20Heart%20of%20the%20United%20States%20of%20America%2C%20Incorporated/README.md) | <b>Military Order of the Purple Heart of the United States of America, Incorporated</b> | <b>140501</b> |
 | [<b>1407.</b>](Part%20B%20-%20Organizations/Chapter%201407%20-%20Military%20Order%20of%20the%20World%20Wars/README.md) | <b>Military Order of the World Wars</b> | <b>140701</b> |
 | [<b>1501.</b>](Part%20B%20-%20Organizations/Chapter%201501%20-%20National%20Academy%20of%20Public%20Administration/README.md) | <b>National Academy of Public Administration</b> | <b>150101</b> |
@@ -115,6 +116,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–95, §1(b), Nov. 6, 2009, 123 Stat. 3003, added item for chapter 1404.
 
 2008—Pub. L. 110–254, §1(b), June 30, 2008, 122 Stat. 2421, amended item for chapter 1201 generally, substituting “Korean War Veterans Association, Incorporated” for “\[Reserved\]”.
 

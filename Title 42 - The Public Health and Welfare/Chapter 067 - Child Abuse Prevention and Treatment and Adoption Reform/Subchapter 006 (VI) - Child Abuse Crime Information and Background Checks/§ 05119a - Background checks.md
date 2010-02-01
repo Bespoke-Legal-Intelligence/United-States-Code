@@ -62,7 +62,7 @@ Public Law 92–544, referred to in subsec. (b)(5), is Pub. L. 92–544, Oct. 25
 
 Subsec. (b)(5). Pub. L. 105–251, §222(b), inserted before period at end “, except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3) of this section”.
 
-1994—Subsec. (a)(1). Pub. L. 103–322, §320928(a)(1), substituted “the provider's fitness to have responsibility for the safety and well-being of children, the elderly, orindividuals with disabilities” for “an individual's fitness to have responsibility for the safety and well-being of children”.
+1994—Subsec. (a)(1). Pub. L. 103–322, §320928(a)(1), substituted “the provider's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities” for “an individual's fitness to have responsibility for the safety and well-being of children”.
 
 Subsec. (b)(1)(E). Pub. L. 103–322, §320928(a)(2)(A), substituted “to a person to whom the qualified entity provides care” for “to a child to whom the qualified entity provides child care”.
 
@@ -82,7 +82,7 @@ Establishment of Pilot Program.—
 
 &emsp;“(1)
 
-In general.—Not later than 90 days after the date of the enactment of this Act \[Apr. 30, 2003\], the Attorney General shall establish a pilot program for volunteer groups to obtain national and State criminal history background checks through a 10-fingerprint check to be conducted utilizing State criminal records and the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.
+In general.—Not later than 90 days after the date of the enactment of this Act \[Apr. 30, 2003\], the Attorney General shall establish a pilot program for volunteer groups to obtain national and State criminal history background checks through a 10-fingerprint check to be conducted utilizing State criminalrecords and the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.
 
 &emsp;“(2)
 
@@ -200,7 +200,7 @@ Authorization of Appropriations.—
 
 &emsp;“(1)
 
-In general.—There is authorized to be appropriated such sums as may be necessary to the National Center for Missing and Exploited Children for fiscal years 2004 through 2008 to carry out the requirements of this section.
+In general.—There is authorized to be appropriated such sums as may be necessary to the National Center for Missing and Exploited Children forfiscal years 2004 through 2008 to carry out the requirements of this section.
 
 &emsp;“(2)
 

@@ -40,7 +40,7 @@ For the purposes of this subchapter—
 
 &emsp;(11) the term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, and the Trust Territories of the Pacific.
 
-(Pub. L. 103–209, §5, Dec. 20, 1993, 107 Stat. 2493; Pub. L. 103–322, title XXXII, §320928(a)(3), (j), Sept. 13, 1994, 108 Stat. 2132, 2133; Pub. L. 107–110, title X, §1075, Jan. 8, 2002, 115 Stat. 2090.)
+(Pub. L. 103–209, §5, Dec. 20, 1993, 107 Stat. 2493; Pub. L. 103–322, title XXXII, §320928(a)(3), (j),Sept. 13, 1994, 108 Stat. 2132, 2133; Pub. L. 107–110, title X, §1075, Jan. 8, 2002, 115 Stat. 2090.)
 
 #### Amendments
 

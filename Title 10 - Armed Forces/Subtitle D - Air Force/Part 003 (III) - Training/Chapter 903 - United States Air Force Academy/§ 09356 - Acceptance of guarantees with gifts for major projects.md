@@ -10,7 +10,7 @@ Obligation Authority.—The amount of a qualified guarantee accepted under this 
 
 (c)
 
-Notice of Proposed Acceptance.—The Secretary of the Air Force may not accept a qualified guarantee under this section for the completion of a major project until after the expiration of 30 days following the date upon which a report of the facts concerning the proposed guarantee is submitted to Congress or, if earlier, the expiration of 14 days following the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
+Notice of Proposed Acceptance.—The Secretary of the Air Force may not accept a qualified guarantee under this section for thecompletion of a major project until after the expiration of 30 days following the date upon which a report of the facts concerning the proposed guarantee is submitted to Congress or, if earlier, the expiration of 14 days following the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
 
 (d)
 

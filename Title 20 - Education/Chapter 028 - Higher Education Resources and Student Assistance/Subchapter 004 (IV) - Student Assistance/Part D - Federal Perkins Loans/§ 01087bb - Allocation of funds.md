@@ -256,7 +256,7 @@ The Secretary shall, from time to time, set dates before which institutions must
 
 &emsp;If under paragraph (1) of this subsection an institution returns more than 10 percent of its allocation, the institution's allocation for the next fiscal year shall be reduced by the amount returned. The Secretary may waive this paragraph for a specific institution if the Secretary finds that enforcing it is contrary to the interest of the program.
 
-(Pub. L. 89–329, title IV, §462, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1440; amended Pub. L. 100–50, §13(a)–(d), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §462, July 23, 1992, 106 Stat. 576; Pub. L. 103–208, §2(f)(1)–(4), Dec. 20, 1993, 107 Stat. 2470, 2471; Pub. L. 105–244, title IV, §462(a)(1), (2), (b)–(e), Oct. 7, 1998, 112 Stat. 1720–1723; Pub. L. 110–315, title IV, §462, Aug. 14, 2008, 122 Stat. 3266.)
+(Pub. L. 89–329, title IV, §462, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1440; amended Pub. L. 100–50, §13(a)–(d), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §462, July 23, 1992, 106 Stat. 576; Pub. L. 103–208, §2(f)(1)–(4), Dec. 20, 1993, 107 Stat. 2470, 2471; Pub. L. 105–244, title IV, §462(a)(1), (2), (b)–(e), Oct. 7, 1998, 112 Stat. 1720–1723; Pub. L. 110–315, title IV, §462, Aug. 14, 2008, 122 Stat. 3266; Pub. L. 111–39, title IV, §405(1), July 1, 2009, 123 Stat. 1947.)
 
 #### Prior Provisions
 
@@ -264,13 +264,15 @@ A prior section 1087bb, Pub. L. 89–329, title IV, §462, as added Pub. L. 92�
 
 #### Amendments
 
+2009—Subsec. (a)(1)(A). Pub. L. 111–39 added subpar. (A) and struck out former subpar. (A), resulting in text identical to that after execution of the amendment by Pub. L. 105–244, §462(a)(1)(A). See 1998 Amendment note below.
+
 2008—Subsec. (c)(4)(D). Pub. L. 110–315 substituted “$600” for “$450”.
 
 1998—Subsec. (a)(1). Pub. L. 105–244, §462(e)(1), inserted “cohort” before “default” in two places in concluding provisions.
 
 Pub. L. 105–244, §462(a)(2)(A)(ii), substituted “subsection (f)” for “subsection (g)” in concluding provisions.
 
-Subsec. (a)(1)(A). Pub. L. 105–244, §462(a)(1)(A), which directed the substitution of “the amount received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year)” for “the amount of the Federal capital contribution allocated to such institution under this part for fiscal year 1985,” was executed by making the substitution for text which read “amount of Federal capital” rather than “amount of the Federal capital”, to reflect the probable intent of Congress.
+Subsec. (a)(1)(A). Pub. L. 105–244, §462(a)(1)(A), which directed the substitution of “the amount received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year)” for “the amount of the Federal capital contribution allocated to such institution under this part for fiscal year 1985”, was executed by making the substitution for text which read “amount of Federal capital” rather than “amount of the Federal capital”, to reflect the probable intent of Congress.
 
 Subsec. (a)(1)(B). Pub. L. 105–244, §462(a)(2)(A)(i), substituted “subsection (e)” for “subsection (f)”.
 
@@ -419,6 +421,10 @@ Subsec. (d)(3), (4). Pub. L. 100–50, §13(b), redesignated par. (3), defining 
 Subsec. (e). Pub. L. 100–50, §13(c), struck out “; cash on hand” after “collections” in heading.
 
 Subsec. (f). Pub. L. 100–50, §13(d), substituted “subsection (g) of this section” for “paragraph (2)”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1998 Amendment
 

@@ -62,7 +62,7 @@ Scientifically based research activities supported under this subpart—
 
 &emsp;(2) may include collaborative scientifically based research activities which are jointly funded and carried out with such Institute.
 
-(Pub. L. 89–10, title V, §5464, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1826;amended Pub. L. 107–279, title IV, §404(d)(5)(C), (6), Nov. 5, 2002, 116 Stat. 1986.)
+(Pub. L. 89–10, title V, §5464, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1826; amended Pub. L. 107–279, title IV, §404(d)(5)(C), (6), Nov. 5, 2002, 116 Stat. 1986.)
 
 #### Amendments
 

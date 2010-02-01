@@ -18,7 +18,7 @@
 
 &emsp;(3) any property constituting, or derived from, any proceeds which the person obtained, directly or indirectly, from racketeering activity or unlawful debt collection in violation of section 1962.
 
-> The court, in imposing sentence on such person shall order, in addition to any other sentenceimposed pursuant to this section, that the person forfeit to the United States all property described in this subsection. In lieu of a fine otherwise authorized by this section, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.
+> The court, in imposing sentence on such person shall order, in addition to any other sentence imposed pursuant to this section, that the person forfeit to the United States all property described in this subsection. In lieu of a fine otherwise authorized by this section, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.
 
 (b) Property subject to criminal forfeiture under this section includes—
 
@@ -40,7 +40,7 @@
 
 > <i>Provided, however</i>, That an order entered pursuant to subparagraph (B) shall be effective for not more than ninety days, unless extended by the court for good cause shown or unless an indictment or information described in subparagraph (A) has been filed.
 
-(2) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than ten days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time, and prior to the expiration of the temporary order.
+(2) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and that provision of notice will jeopardize the availability of theproperty for forfeiture. Such a temporary order shall expire not more than fourteen days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time, and prior to the expiration of the temporary order.
 
 (3) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 
@@ -120,13 +120,15 @@
 
 > the court shall order the forfeiture of any other property of the defendant up to the value of any property described in paragraphs (1) through (5).
 
-(Added Pub. L. 91–452, title IX, §901(a), Oct. 15, 1970, 84 Stat. 943; amended Pub. L. 98–473, title II, §§302, 2301(a)–(c), Oct. 12, 1984, 98 Stat. 2040, 2192; Pub. L. 99–570, title I, §1153(a), Oct. 27, 1986, 100 Stat. 3207–13; Pub. L. 99–646, §23, Nov. 10, 1986, 100 Stat. 3597; Pub. L. 100–690, title VII, §§7034, 7058(d), Nov. 18, 1988, 102 Stat. 4398, 4403; Pub. L. 101–647, title XXXV, §3561, Nov. 29, 1990, 104 Stat. 4927.)
+(Added Pub. L. 91–452, title IX, §901(a), Oct. 15, 1970, 84 Stat. 943; amended Pub. L. 98–473, title II, §§302, 2301(a)–(c), Oct. 12, 1984, 98 Stat. 2040, 2192; Pub. L. 99–570, title I, §1153(a), Oct. 27, 1986, 100 Stat. 3207–13; Pub. L. 99–646, §23, Nov. 10, 1986, 100 Stat. 3597; Pub. L. 100–690, title VII, §§7034, 7058(d), Nov. 18, 1988, 102 Stat. 4398, 4403; Pub. L. 101–647, title XXXV, §3561, Nov. 29, 1990, 104 Stat. 4927; Pub. L. 111–16, §3(4), May 7, 2009, 123 Stat. 1607.)
 
 #### References in Text
 
 The Federal Rules of Evidence, referred to in subsec. (d)(3), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+
+2009—Subsec. (d)(2). Pub. L. 111–16 substituted “fourteen days” for “ten days”.
 
 1990—Subsec. (a). Pub. L. 101–647 substituted “or both” for “or both.” in introductory provisions.
 
@@ -153,6 +155,10 @@ Pub. L. 98–473, §302, added subsec. (d).
 Subsecs. (e) to (m). Pub. L. 98–473, §302, added subsecs. (d) to (m).
 
 Subsec. (m)(1). Pub. L. 98–473, §2301(c), struck out “for at least seven successive court days” after “dispose of the property”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 111–16, set out as a note under section 109 of Title 11, Bankruptcy.
 
 #### Transfer of Functions
 

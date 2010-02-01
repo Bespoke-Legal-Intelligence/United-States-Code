@@ -152,7 +152,7 @@ Pub. L. 108–237, title I, §102, June 22, 2004, 118 Stat. 661, provided that: 
 
 &emsp;“(8) Private developers of the technical standards that are used as Government standards are often not similarly protected, leaving such developers vulnerable to being named as codefendants in lawsuits even though the likelihood of their being held liable is remote in most cases, and they generally have limited resources to defend themselves in such lawsuits.
 
-&emsp;“(9) Standards development organizations do not stand to benefit from any antitrust violations that might occur in the voluntary consensus standards development process.
+&emsp;“(9) Standards development organizations do not stand to benefit from any antitrust violations thatmight occur in the voluntary consensus standards development process.
 
 &emsp;“(10) As was the case with respect to research and production joint ventures before the passage of the National Cooperative Research and Production Act of 1993, if relief from the threat of liability under the antitrust laws is not granted to voluntary consensus standards bodies, both regarding the development of new standards and efforts to keep existing standards current, such bodies could be forced to cut back on standards development activities at great financial cost both to the Government and to the national economy.”
 

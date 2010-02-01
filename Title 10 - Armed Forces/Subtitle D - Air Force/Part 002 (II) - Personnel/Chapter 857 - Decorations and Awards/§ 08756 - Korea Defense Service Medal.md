@@ -4,7 +4,7 @@
 
 (b) In this section, the term “KDSM eligibility period” means the period beginning on July 28, 1954, and ending on such date after the date of the enactment of this section as may be determined by the Secretary of Defense to be appropriate for terminating eligibility for the Korea Defense Service Medal.
 
-(c) The Secretary of the Air Force shall prescribe service requirements for eligibility for the Korea Defense Service Medal. Those requirements shall not be more stringent than the service requirements for award of the Armed Forces Expeditionary Medal for instances in which the award of that medal is authorized.
+(c) The Secretary of the Air Force shall prescribe service requirements for eligibility for the Korea Defense Service Medal. Those requirements shall not be more stringent than the service requirements for award of the Armed ForcesExpeditionary Medal for instances in which the award of that medal is authorized.
 
 (Added Pub. L. 107–314, div. A, title V, §543(d)(1), Dec. 2, 2002, 116 Stat. 2550, §8755; renumbered §8756, Pub. L. 108–375, div. A, title X, §1084(d)(33), Oct. 28, 2004, 118 Stat. 2063.)
 

@@ -6,7 +6,7 @@
 
 #### (1) In general
 
-&emsp;Not later than February 15, 2006, and annually thereafter for the next 14 years, the head of each Federal agency which is subject to this Act and Executive Order No. 13031 shall prepare, and submit to Congress, a report that—
+&emsp;Not later than February 15, 2006, and annually thereafter for the next 14 years, the headof each Federal agency which is subject to this Act and Executive Order No. 13031 shall prepare, and submit to Congress, a report that—
 
 &emsp;&emsp;(A) summarizes the compliance by such Federal agency with the alternative fuel purchasing requirements for Federal fleets under this Act and Executive Order No. 13031; and
 

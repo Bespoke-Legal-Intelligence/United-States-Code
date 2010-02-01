@@ -1,6 +1,6 @@
 ### §183. Report of statistics
 
-The Secretary of Commerce shall make a report to Congress on the first Monday of January in each year, containing the results of the information collected during the preceding year, bythe Bureau of Foreign and Domestic Commerce, upon the condition of the manufactures, domestic trade, currency, and banks of the several States and Territories.
+The Secretary of Commerce shall make a report to Congress on the first Monday of January in each year, containing the results of the information collected during the preceding year, by the Bureau of Foreign and Domestic Commerce, upon the condition of the manufactures, domestic trade, currency, and banks of the several States and Territories.
 
 (R.S. §259; Feb. 27, 1877, ch. 69, §1, 19 Stat. 241; Feb. 14, 1903, ch. 552, §9, 32 Stat. 829; Aug. 23, 1912, ch. 350, §1, 37 Stat. 407; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736.)
 

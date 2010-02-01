@@ -88,11 +88,11 @@ Aliens subject to the worldwide level specified in section 1151(d) of this title
 
 #### (II) Prohibition
 
-&emsp;&emsp;&emsp;&emsp;No permanent resident visa may be issued to an alien physician described in subclause (I) by the Secretary of State under section 1154(b) of this title, and the Attorney General may not adjust the status of such an alien physician from that of a nonimmigrant alien to that of a permanent resident alien under section 1255 of this title, until such time as the alien has worked full time as a physician for an aggregate of 5 years (not including the time served in the status of an alien described in section 1101(a)(15)(J) of this title), in an area or areas designated by the Secretary of Health and Human Services as having a shortage of health care professionals or at a health care facility under the jurisdiction of the Secretary of Veterans Affairs.
+&emsp;&emsp;&emsp;&emsp;No permanent resident visa may be issued to an alien physician described in subclause (I) by the Secretary of State under section 1154(b) of this title, and the Attorney General may not adjust the status of such an alien physician from that of a nonimmigrant alien to that of a permanent resident alien under section 1255 of this title, until such time as the alien has worked full time as a physician for an aggregate of 5 years (not including the time served in the status of an alien described in section 1101(a)(15)(J) of this title), in an area or areas designated by the Secretary of Health and HumanServices as having a shortage of health care professionals or at a health care facility under the jurisdiction of the Secretary of Veterans Affairs.
 
 #### (III) Statutory construction
 
-&emsp;&emsp;&emsp;&emsp;Nothing in this subparagraph may be construed to prevent the filing of a petition with the Attorney General for classification under section 1154(a) of this title, or the filing of an application foradjustment of status under section 1255 of this title, by an alien physician described in subclause (I) prior to the date by which such alien physician has completed the service described in subclause (II).
+&emsp;&emsp;&emsp;&emsp;Nothing in this subparagraph may be construed to prevent the filing of a petition with the Attorney General for classification under section 1154(a) of this title, or the filing of an application for adjustment of status under section 1255 of this title, by an alien physician described in subclause (I) prior to the date by which such alien physician has completed the service described in subclause (II).
 
 #### (IV) Effective date
 
@@ -146,7 +146,7 @@ Aliens subject to the worldwide level specified in section 1151(d) of this title
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not less than 3,000 of the visas made available under this paragraph in each fiscal year shall be reserved for qualified immigrants who invest in a new commercial enterprise described in subparagraph (A) which will create employment in a targeted employment area.
+&emsp;&emsp;&emsp;Not less than 3,000 of the visas made available under this paragraph in each fiscal year shall be reserved for qualified immigrants who invest in a new commercial enterprise described in subparagraph (A)which will create employment in a targeted employment area.
 
 #### (ii) “Targeted employment area” defined
 
@@ -154,7 +154,7 @@ Aliens subject to the worldwide level specified in section 1151(d) of this title
 
 #### (iii) “Rural area” defined
 
-&emsp;&emsp;&emsp;In this paragraph, the term “rural area” means any area other than an area withina metropolitan statistical area or within the outer boundary of any city or town having a population of 20,000 or more (based on the most recent decennial census of the United States).
+&emsp;&emsp;&emsp;In this paragraph, the term “rural area” means any area other than an area within a metropolitan statistical area or within the outer boundary of any city or town having a population of 20,000 or more (based on the most recent decennial census of the United States).
 
 #### (C) Amount of capital required
 
@@ -304,7 +304,7 @@ A spouse or child as defined in subparagraph (A), (B), (C), (D), or (E) of secti
 
 #### (e) Order of consideration
 
-(1) Immigrant visas made available under subsection (a) or (b) of this section shall be issued to eligible immigrants in the order in which a petition in behalf of each such immigrant is filed with the Attorney General (or in the case of special immigrants under section 1101(a)(27)(D) of this title, with the Secretary of State) as provided in section 1154(a) of this title.
+(1) Immigrant visas made available under subsection (a) or (b) of this section shall be issued to eligible immigrants in the order in which apetition in behalf of each such immigrant is filed with the Attorney General (or in the case of special immigrants under section 1101(a)(27)(D) of this title, with the Secretary of State) as provided in section 1154(a) of this title.
 
 (2) Immigrant visa numbers made available under subsection (c) of this section (relating to diversity immigrants) shall be issued to eligible qualified immigrants strictly in a random order established by the Secretary of State for the fiscal year involved.
 
@@ -528,7 +528,7 @@ Pub. L. 106–313, title I, §106(d), Oct. 17, 2000, 114 Stat. 1254, as amended 
 
 “(1)
 
-In general.—Notwithstanding any other provision of law, the number of employment-based visas (as defined in paragraph (3)) made available for a fiscal year (beginning with fiscal year 2001) shall be increased by the number described in paragraph (2). Visas made available under this subsection shall only be available in a fiscal year to employment-based immigrants under paragraph (1), (2), or (3) of section 203(b) of the Immigration and Nationality Act \[8 U.S.C. 1153(b)\] and any such visa that is made available due to the difference between the number of employment-based visas that were made available in fiscal year 2001, 2002, 2003, or2004 and the number of such visas that were actually used in such fiscal year shall be available only to employment-based immigrants (and their family members accompanying or following to join under section 203(d) of such Act (8 U.S.C. 1153(d))) whose immigrant worker petitions were approved based on schedule A, as defined in section 656.5 of title 20, Code of Federal Regulations, as promulgated by the Secretary of Labor.
+In general.—Notwithstanding any other provision of law, the number of employment-based visas (as defined in paragraph (3)) made available for a fiscal year (beginning with fiscal year 2001) shall be increased by the number described in paragraph (2). Visas made available under this subsection shall only be available in a fiscal year to employment-based immigrants under paragraph (1), (2), or (3) of section 203(b) of the Immigration and Nationality Act \[8 U.S.C. 1153(b)\] and any such visa that is made available due to the difference between the number of employment-based visas that were made available in fiscal year 2001, 2002, 2003, or 2004 and the number of such visas that were actually used in such fiscal year shall be available only to employment-based immigrants (and their family members accompanying or following to join under section 203(d) of such Act (8 U.S.C. 1153(d))) whose immigrant worker petitions were approved based on schedule A, as defined in section 656.5 of title 20, Code of Federal Regulations, as promulgated by the Secretary of Labor.
 
 “(2)
 
@@ -626,7 +626,7 @@ Pub. L. 102–509, Oct. 24, 1992, 106 Stat. 3316, as amended by Pub. L. 107–22
 
 #### “SEC. 3. WAIVER OF JOB OFFER REQUIREMENT.
 
-“The requirement in section 203(b)(2)(A) of the Immigration and Nationality Act (8 U.S.C. 1153(b)(2)(A)) thatan alien's services in the sciences, arts, or business be sought by an employer in the United States shall not apply to any eligible independent states or Baltic scientist who is applying for admission to the United States for permanent residence in accordance with that section.
+“The requirement in section 203(b)(2)(A) of the Immigration and Nationality Act (8 U.S.C. 1153(b)(2)(A)) that an alien's services in the sciences, arts, or business be sought by an employer in the United States shall not apply to any eligible independent states or Baltic scientist who is applying for admission to the United States for permanent residence in accordance with that section.
 
 #### “SEC. 4. CLASSIFICATION OF INDEPENDENT STATES SCIENTISTS AS HAVING EXCEPTIONAL ABILITY.
 
@@ -652,11 +652,13 @@ Duration of Authority.—The authority under subsection (a) shall be in effect d
 
 #### Pilot Immigration Program
 
-Pub. L. 102–395, title VI, §610, Oct. 6, 1992, 106 Stat. 1874, as amended by Pub. L. 105–119, title I, §116(a), Nov. 26, 1997, 111 Stat. 2467; Pub. L. 106–396, §402, Oct. 30, 2000, 114 Stat. 1647; Pub. L. 107–273, div. C, title I, §11037(a), Nov. 2, 2002, 116 Stat. 1847; Pub. L. 108–156, §4, Dec. 3, 2003, 117 Stat. 1945, provided that:
+Pub. L. 110–329, div. A, §144, Sept. 30, 2008, 122 Stat. 3581, as amended by Pub. L. 111–8, div. J, §101, Mar. 11, 2009, 123 Stat. 988, provided that: “The requirement set forth in section 610(b) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993 \[Pub. L. 102–395\] (8 U.S.C. 1153 note) shall continue through September 30, 2009.”
+
+Pub. L. 102–395, title VI, §610, Oct. 6, 1992, 106 Stat. 1874, as amended by Pub. L. 105–119, title I, §116(a), Nov. 26, 1997, 111 Stat. 2467; Pub. L. 106–396, §402, Oct. 30, 2000, 114 Stat. 1647; Pub. L. 107–273, div. C, title I, §11037(a), Nov. 2, 2002, 116 Stat. 1847; Pub. L. 108–156, §4, Dec. 3, 2003, 117 Stat. 1945; Pub. L. 111–83, title V, §548, Oct. 28, 2009, 123 Stat. 2177, provided that:
 
 “(a) Of the visas otherwise available under section 203(b)(5) of the Immigration and Nationality Act (8 U.S.C. 1153(b)(5)), the Secretary of State, together with the Secretary of Homeland Security, shall set aside visas for a pilot program to implement the provisions of such section. Such pilot program shall involve a regional center in the United States, designated by the Secretary of Homeland Security on the basis of a general proposal, for the promotion of economic growth, including increased export sales, improved regional productivity, job creation, or increased domestic capital investment. A regional center shall have jurisdiction over a limited geographic area, which shall be described in the proposal and consistent with the purpose of concentrating pooled investment in defined economic zones. The establishment of a regional center may be based on general predictions, contained in the proposal, concerning the kinds of commercial enterprises that will receive capital from aliens, the jobs that will be created directly or indirectly as a result of such capital investments, and the other positive economic effects such capital investments will have.
 
-“(b) For purposes of the pilot program established in subsection (a), beginning on October 1, 1992, but no later than October 1, 1993, the Secretary of State, together with the Secretary of Homeland Security, shall set aside 3,000 visas annually for 15 years to include such aliens as are eligible for admission under section 203(b)(5) of the Immigration and Nationality Act \[8 U.S.C. 1153(b)(5)\] and this section, as well as spouses or children which are eligible, under the terms of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], to accompany or follow to join such aliens.
+“(b) For purposes of the pilot program established in subsection (a), beginning on October 1, 1992, but no later than October 1, 1993, the Secretary of State, together with the Secretary of Homeland Security, shall set aside 3,000 visas annually until September 30, 2012 to include such aliens as are eligible for admission under section 203(b)(5) of the Immigration and Nationality Act \[8 U.S.C. 1153(b)(5)\] and this section, as well as spouses or children which are eligible, under the terms of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], to accompany or follow to join such aliens.
 
 “(c) In determining compliance with section 203(b)(5)(A)(iii)\[(ii)\] of the Immigration and Nationality Act \[8 U.S.C. 1153(b)(5)(A)(iii)\[(ii)\]\], and notwithstanding the requirements of 8 CFR 204.6, the Secretary of Homeland Security shall permit aliens admitted under the pilot program described in this section to establish reasonable methodologies for determining the number of jobs created by the pilot program, including such jobs which are estimated to have been created indirectly through revenues generated from increased exports, improved regional productivity, job creation, or increased domestic capital investment resulting from the pilot program.
 
@@ -684,7 +686,7 @@ Additional Visa Numbers.—
 
 &emsp;“(1)
 
-In general.—In addition to any immigrant visas otherwise available, immigrant visa numbers shall be available in each of fiscal years 1992, 1993, and 1994 for spouses and children of eligible, legalized aliens (as defined in subsection (c)) in a number equal to 55,000 minus the number (if any) computed under paragraph (2) for the fiscal year.
+In general.—In addition to any immigrant visas otherwise available, immigrant visa numbersshall be available in each of fiscal years 1992, 1993, and 1994 for spouses and children of eligible, legalized aliens (as defined in subsection (c)) in a number equal to 55,000 minus the number (if any) computed under paragraph (2) for the fiscal year.
 
 &emsp;“(2)
 
@@ -776,7 +778,7 @@ Section 217(b) of Pub. L. 103–416 provided that:
 
 “(1)
 
-Eligibility.—For the purpose of carrying out the extension of the diversity transition program under the amendments made by subsection (a) \[amending section 132 of Pub. L. 101–649, set out below\], applications for natives of diversity transition countries submitted for fiscal year 1995 for diversity immigrants under section 203(c) of the Immigration and Nationality Act \[8 U.S.C. 1153(c)\] shall be considered applications for visas made available for fiscal year 1995 for the diversity transition program under section 132 of the Immigration Act of 1990 \[section 132 of Pub. L. 101–649\]. No application period for the fiscal year 1995 diversity transition program shall be established and no new applications may be accepted for visas made available under such program for fiscal year 1995. Applications for visas in excess of the minimum available to natives of the country specified in section 132(c) of the Immigration Act of 1990 shall be selected for qualified applicants within the several regions defined in section 203(c)(1)(F) of the Immigration and Nationality Act in proportion to the region's share of visas issued in the diversity transition program during fiscal years 1992 and 1993.
+Eligibility.—For the purpose of carrying out the extension of the diversity transition program under the amendments made by subsection (a) \[amending section 132 of Pub. L. 101–649, set out below\], applications for natives of diversity transition countries submitted for fiscal year 1995 for diversity immigrants under section 203(c) of the Immigration and Nationality Act \[8 U.S.C. 1153(c)\] shall be considered applications for visas madeavailable for fiscal year 1995 for the diversity transition program under section 132 of the Immigration Act of 1990 \[section 132 of Pub. L. 101–649\]. No application period for the fiscal year 1995 diversity transition program shall be established and no new applications may be accepted for visas made available under such program for fiscal year 1995. Applications for visas in excess of the minimum available to natives of the country specified in section 132(c) of the Immigration Act of 1990 shall be selected for qualified applicants within the several regions defined in section 203(c)(1)(F) of the Immigration and Nationality Act in proportion to the region's share of visas issued in the diversity transition program during fiscal years 1992 and 1993.
 
 “(2)
 
@@ -784,7 +786,7 @@ Notification.—Not later than 180 days after the date of enactment of this Act 
 
 “(3)
 
-Requirements.—Notwithstanding any other provision of law, for the purpose of carrying out the extension of the diversity transition program under the amendments made by subsection (a), the requirementof section 132(b)(2) of the Immigration Act of 1990 shall not apply to applicants under such extension and the requirement of section 203(c)(2) of the Immigration and Nationality Act shall apply to such applicants.”
+Requirements.—Notwithstanding any other provision of law, for the purpose of carrying out the extension of the diversity transition program under the amendments made by subsection (a), the requirement of section 132(b)(2) of the Immigration Act of 1990 shall not apply to applicants under such extension and the requirement of section 203(c)(2) of the Immigration and Nationality Act shall apply to such applicants.”
 
 Section 132 of Pub. L. 101–649, as amended by Pub. L. 102–232, title III, §302(b)(6), Dec. 12, 1991, 105 Stat. 1743; Pub. L. 103–416, title II, §217(a), Oct. 25, 1994, 108 Stat. 4315, provided that:
 

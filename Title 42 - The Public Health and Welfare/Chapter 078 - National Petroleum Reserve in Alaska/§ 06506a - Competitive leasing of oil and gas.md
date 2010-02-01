@@ -80,7 +80,7 @@ The size of lease tracts may be up to sixty thousand acres, as determined by the
 
 &emsp;(A) The Secretary may use a production allocation methodology for each participating area within a unit that includes solely Federal land in the Reserve.
 
-&emsp;(B) The Secretary shall use a production allocation methodology for each participatingarea within a unit that includes Federal land in the Reserve and non-Federal land based on the characteristics of each specific oil or gas pool, field, reservoir, or like area to take into account reservoir heterogeneity and area variation in reservoir producibility across diverse leasehold interests. The implementation of the foregoing production allocation methodology shall be controlled by agreement among the affected lessors and lessees.
+&emsp;(B) The Secretary shall use a production allocation methodology for each participating area within a unit that includes Federal land in the Reserve and non-Federal land based on the characteristics of each specific oil or gas pool, field, reservoir, or like area to take into account reservoir heterogeneity and area variation in reservoir producibility across diverse leasehold interests. The implementation of the foregoing production allocation methodology shall be controlled by agreement among the affected lessors and lessees.
 
 #### (4) Benefit of operations
 
@@ -112,7 +112,7 @@ The size of lease tracts may be up to sixty thousand acres, as determined by the
 
 #### (<i>l</i>) Receipts
 
-All receipts from sales, rentals, bonuses, and royalties on leases issued pursuant to this section shall be paid into the Treasury of the United States: <i>Provided</i>, That 50 percent thereof shall be paid by the Secretary of the Treasury semiannually, as soon thereafter as practicable after March 30 and September 30 each year, to the State of Alaska for: (1) planning; (2) construction, maintenance, and operation of essential public facilities; and (3) other necessary provisions of public service: <i>Provided further</i>, That in the allocation of such funds, the State shall give priority to use by subdivisions of the State most directly or severely impacted by development of oil and gas leased under this Act.
+All receipts from sales, rentals, bonuses, and royalties on leases issued pursuant to this section shall be paid into the Treasury of theUnited States: <i>Provided</i>, That 50 percent thereof shall be paid by the Secretary of the Treasury semiannually, as soon thereafter as practicable after March 30 and September 30 each year, to the State of Alaska for: (1) planning; (2) construction, maintenance, and operation of essential public facilities; and (3) other necessary provisions of public service: <i>Provided further</i>, That in the allocation of such funds, the State shall give priority to use by subdivisions of the State most directly or severely impacted by development of oil and gas leased under this Act.
 
 #### (m) Explorations
 

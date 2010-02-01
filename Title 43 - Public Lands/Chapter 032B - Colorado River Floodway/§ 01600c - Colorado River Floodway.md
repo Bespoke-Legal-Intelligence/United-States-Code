@@ -10,7 +10,7 @@ Within eighteen months after October 8, 1986, the Secretary, in consultation wit
 
 &emsp;(1) complete a study of the tributary floodflows downstream of Davis Dam;
 
-&emsp;(2) define the specific boundaries of the Colorado River Floodway so that the Floodway can accommodate either a one-in-one hundred year river flow consisting of controlled releases and tributary inflow, or a flow of forty thousand cubic feet per second (cfs), whicheveris greater, from below Davis Dam to the Southerly International Boundary between the United States of America and the Republic of Mexico.
+&emsp;(2) define the specific boundaries of the Colorado River Floodway so that the Floodway can accommodate either a one-in-one hundred year river flow consisting of controlled releases and tributary inflow, or a flow of forty thousand cubic feet per second (cfs), whichever is greater, from below Davis Dam to the Southerly International Boundary between the United States of America and the Republic of Mexico.
 
 #### (c) Review and modification of boundaries; notice and comment; written justification for decision of Secretary
 

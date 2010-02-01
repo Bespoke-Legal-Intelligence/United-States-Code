@@ -10,7 +10,7 @@ Section 1070d–1, Pub. L. 89–329, title IV, §417B, as added Pub. L. 99–498
 
 A prior section 1070d–1, Pub. L. 89–329, title IV, §417B, as added Pub. L. 96–374, title IV, §405, Oct. 3, 1980, 94 Stat. 1408, authorized a talent search program, prior to the general revision of this part by Pub. L. 99–498.
 
-Another prior section 1070d–1, Pub. L. 89–329, title IV, §417B, as added Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 258; amended Pub. L. 93–380, title VIII, §833(a), Aug. 21, 1974, 88 Stat. 603; Pub. L. 94–482, title I, §124(b), (c), Oct. 12, 1976, 90 Stat. 2094, 2095; Pub. L. 95–566, §4, Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, specified the authorized activities of the Secretary of Education in carrying out special programs for students from disadvantaged backgrounds, prior to the general revision of this subpart by Pub. L. 96–374.
+Another prior section 1070d–1, Pub. L. 89–329, title IV, §417B, as added Pub. L. 92–318, title I, §131(b)(1), June23, 1972, 86 Stat. 258; amended Pub. L. 93–380, title VIII, §833(a), Aug. 21, 1974, 88 Stat. 603; Pub. L. 94–482, title I, §124(b), (c), Oct. 12, 1976, 90 Stat. 2094, 2095; Pub. L. 95–566, §4, Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, specified the authorized activities of the Secretary of Education in carrying out special programs for students from disadvantaged backgrounds, prior to the general revision of this subpart by Pub. L. 96–374.
 
 Section 1070d–1a, Pub. L. 89–329, title IV, §417C, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1338, authorized an upward bound program.
 

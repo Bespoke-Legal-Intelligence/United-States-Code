@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) the Board of Patent Appeals and Interferences of the United States Patent and Trademark Office with respect to patent applications and interferences, at the instance of an applicant for a patent or any party to a patent interference, and any such appeal shall waive the right of such applicant or party to proceed under section 145 or 146 of title 35;
 
-&emsp;&emsp;(B) the Under Secretary of Commerce for Intellectual Property and Director of theUnited States Patent and Trademark Office or the Trademark Trial and Appeal Board with respect to applications for registration of marks and other proceedings as provided in section 21 of the Trademark Act of 1946 (15 U.S.C. 1071); or
+&emsp;&emsp;(B) the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office or the Trademark Trial and Appeal Board with respect to applications for registration of marks and other proceedings as provided in section 21 of the Trademark Act of 1946 (15 U.S.C. 1071); or
 
 &emsp;&emsp;(C) a district court to which a case was directed pursuant to section 145, 146, or 154(b) of title 35;
 

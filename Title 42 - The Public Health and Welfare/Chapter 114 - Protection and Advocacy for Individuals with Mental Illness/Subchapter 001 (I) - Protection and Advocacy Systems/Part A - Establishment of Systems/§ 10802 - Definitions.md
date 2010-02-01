@@ -40,7 +40,7 @@ For purposes of this subchapter:
 
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in par. (2), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in par. (2), is Pub. L.106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
 
 The Developmental Disabilities Assistance and Bill of Rights Act, referred to in par. (8), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, as amended, which was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. Part C of the Act was classified generally to subchapter III (§6041 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -56,7 +56,7 @@ Par. (8). Pub. L. 106–310, §3206(b)(2), added par. (8).
 
 1991—Par. (1). Pub. L. 102–173, §10(1), substituted “individual with mental illness” for “mentally ill individual” wherever appearing.
 
-Pars. (3) to (7). Pub. L. 102–173 added par. (3), redesignated former pars. (3) to (6) as (4) to (7), respectively, and substituted “individual with mental illness” for“mentally ill individual” wherever appearing in pars. (4) and (5).
+Pars. (3) to (7). Pub. L. 102–173 added par. (3), redesignated former pars. (3) to (6) as (4) to (7), respectively, and substituted “individual with mental illness” for “mentally ill individual” wherever appearing in pars. (4) and (5).
 
 1988—Par. (1). Pub. L. 100–509, §3(1), inserted “or death” after “caused, injury”.
 

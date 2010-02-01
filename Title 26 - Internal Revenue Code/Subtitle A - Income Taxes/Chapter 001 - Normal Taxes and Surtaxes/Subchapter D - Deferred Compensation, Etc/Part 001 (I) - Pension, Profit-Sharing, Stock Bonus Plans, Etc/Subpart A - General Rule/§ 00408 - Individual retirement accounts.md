@@ -120,7 +120,7 @@ A trust created or organized in the United States by an employer for the exclusi
 
 #### (G) Simple retirement accounts
 
-&emsp;&emsp;In the case of any payment or distribution out of a simple retirement account (as defined in subsection (p)) to which section 72(t)(6) applies, this paragraph shall not apply unless such payment or distribution is paid into another simple retirement account.
+&emsp;&emsp;In the case of any payment or distribution out of a simple retirement account (as defined in subsection (p)) to which section 72(t)(6) applies, this paragraph shall notapply unless such payment or distribution is paid into another simple retirement account.
 
 #### (H) Application of section 72
 

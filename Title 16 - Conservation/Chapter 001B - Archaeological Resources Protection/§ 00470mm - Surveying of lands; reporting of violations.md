@@ -10,5 +10,3 @@ The Secretaries of the Interior, Agriculture, and Defense and the Chairman of th
 
 (Pub. L. 96–95, §14, as added Pub. L. 100–555, Oct. 28, 1988, 102 Stat. 2778.)
 
-&nbsp;
-

@@ -24,7 +24,7 @@ Importers.—
 
 &emsp;&emsp;(A)
 
-Initial representation.—In making initial appointments to the Board of importer representatives, the Secretary shall appoint 2 members who represent importers of dairy products and are subject to assessments under the order.
+Initial representation.—In making initial appointments to the Board of importer representatives, the Secretary shallappoint 2 members who represent importers of dairy products and are subject to assessments under the order.
 
 &emsp;&emsp;(B)
 
@@ -82,7 +82,7 @@ In general.—The rate of assessment for milk produced in the United States pres
 
 &emsp;&emsp;(B)
 
-Imported dairy products.—The rate of assessment for imported dairy products prescribed by the order shall be 7.5 cents per hundredweight of milk for commercial use or the equivalent thereof, as determined by the Secretary.
+Imported dairy products.—The rate of assessment for imported dairy products prescribed by the order shall be 7.5 cents perhundredweight of milk for commercial use or the equivalent thereof, as determined by the Secretary.
 
 &emsp;(4) A milk producer or the producer's cooperative who can establish that the producer is participating in active, ongoing qualified State or regional dairy product promotion or nutrition education programs intended to increase consumption of milk and dairy products generally shall receive credit in determining the assessment due from such producer for contributions to such programs of up to 10 cents per hundredweight of milk marketed or, for the period ending six months after November 29, 1983, up to the aggregate rate in effect on November 29, 1983, of such contributions to such programs (but not to exceed 15 cents per hundredweight of milk marketed) if such aggregate rate exceeds 10 cents per hundredweight of milk marketed.
 

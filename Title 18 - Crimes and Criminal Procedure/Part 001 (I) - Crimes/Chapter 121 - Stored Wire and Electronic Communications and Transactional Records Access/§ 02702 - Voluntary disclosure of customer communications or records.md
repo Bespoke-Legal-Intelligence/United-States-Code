@@ -70,7 +70,7 @@ Reporting of Emergency Disclosures.—On an annual basis, the Attorney General s
 
 &emsp;&emsp;(B) the investigation pertaining to those disclosures was closed without the filing of criminal charges.
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1860; amended Pub. L. 100–690, title VII, §7037, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 105–314, title VI, §604(b), Oct. 30, 1998, 112 Stat. 2984; Pub. L. 107–56, title II, §212(a)(1), Oct. 26, 2001, 115 Stat. 284; Pub. L. 107–296, title II, §225(d)(1), Nov. 25, 2002, 116 Stat. 2157; Pub. L. 108–21, title V, §508(b), Apr. 30, 2003, 117 Stat. 684; Pub. L. 109–177, title I, §107(a), (b)(1), (c), Mar. 9, 2006, 120 Stat. 202, 203; Pub. L. 110–401, title V, §501(b)(2), Oct. 13, 2008, 122 Stat. 4251.)
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1860; amended Pub. L. 100–690, title VII, §7037, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 105–314, title VI, §604(b), Oct. 30, 1998, 112 Stat.2984; Pub. L. 107–56, title II, §212(a)(1), Oct. 26, 2001, 115 Stat. 284; Pub. L. 107–296, title II, §225(d)(1), Nov. 25, 2002, 116 Stat. 2157; Pub. L. 108–21, title V, §508(b), Apr. 30, 2003, 117 Stat. 684; Pub. L. 109–177, title I, §107(a), (b)(1), (c), Mar. 9, 2006, 120 Stat. 202, 203; Pub. L. 110–401, title V, §501(b)(2), Oct. 13, 2008, 122 Stat. 4251.)
 
 #### Amendments
 

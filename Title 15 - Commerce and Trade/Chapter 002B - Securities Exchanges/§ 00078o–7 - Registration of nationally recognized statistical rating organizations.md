@@ -50,7 +50,7 @@
 
 #### (D) Exemption from certification requirement
 
-&emsp;&emsp;A written certification under subparagraph (B)(ix) is not required with respect to any credit rating agency which has received, or been the subject of, a no-action letter from the staff of the Commission prior toAugust 2, 2006, stating that such staff would not recommend enforcement action against any broker or dealer that considers credit ratings issued by such credit rating agency to be ratings from a nationally recognized statistical rating organization.
+&emsp;&emsp;A written certification under subparagraph (B)(ix) is not required with respect to any credit rating agency which has received, or been the subject of, a no-action letter from the staff of the Commission prior to August 2, 2006, stating that such staff would not recommend enforcement action against any broker or dealer that considers credit ratings issued by such credit rating agency to be ratings from a nationally recognized statistical rating organization.
 
 #### (E) Limitation on liability of qualified institutional buyers
 
@@ -238,7 +238,7 @@ Each nationally recognized statistical rating organization shall, on a confident
 
 &emsp;On and after the effective date of this section—
 
-&emsp;&emsp;(A) an entity that, before that date, received advice, approval, or a no-action letter from the Commission or staff thereof to be treated as a nationally recognized statisticalrating organization pursuant to the Commission rule at section 240.15c3–1 of title 17, Code of Federal Regulations, may represent itself or act as a nationally recognized statistical rating organization only—
+&emsp;&emsp;(A) an entity that, before that date, received advice, approval, or a no-action letter from the Commission or staff thereof to be treated as a nationally recognized statistical rating organization pursuant to the Commission rule at section 240.15c3–1 of title 17, Code of Federal Regulations, may represent itself or act as a nationally recognized statistical rating organization only—
 
 &emsp;&emsp;&emsp;(i) during Commission consideration of the application, if such entity has furnished an application for registration under this section; and
 
@@ -306,7 +306,7 @@ The Securities Exchange Act of 1934, referred to in subsec. (f)(3), is act June 
 
 #### Findings
 
-Pub. L. 109–291, §2, Sept. 29, 2006, 120 Stat. 1327, provided that: “Upon the basis of facts disclosed by the record and report of the Securities and Exchange Commission made pursuant to section 702 of the Sarbanes-Oxley Act of 2002 \[Pub. L. 107–204\] (116 Stat. 797), hearings before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives during the 108th and 109th Congresses, comment letters to the concept releases and proposed rules of the Commission, and facts otherwise disclosed and ascertained, Congress finds that credit rating agencies are of national importance, in that, among other things—
+Pub. L. 109–291, §2, Sept. 29, 2006, 120 Stat. 1327, provided that: “Upon the basis of facts disclosed by the record and report of the Securities and Exchange Commission made pursuant to section 702 of the Sarbanes-Oxley Act of 2002 \[Pub. L. 107–204\] (116 Stat. 797), hearings before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives during the 108th and 109th Congresses, comment letters to the concept releases and proposed rules of the Commission,and facts otherwise disclosed and ascertained, Congress finds that credit rating agencies are of national importance, in that, among other things—
 
 &emsp;“(1) their ratings, publications, writings, analyses, and reports are furnished and distributed, and their contracts, subscription agreements, and other arrangements with clients are negotiated and performed, by the use of the mails and other means and instrumentalities of interstate commerce;
 

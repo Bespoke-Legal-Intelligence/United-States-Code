@@ -154,7 +154,7 @@ Grants, cooperative agreements, and contracts.—The Secretary may make grants a
 
 &emsp;&emsp;&emsp;&emsp;(II) intergovernmental transportation planning and project selection; and
 
-&emsp;&emsp;&emsp;(iv) deal effectively with special transportation-related problems by preparing and providing training packages, manuals,guidelines, and technical resource materials;
+&emsp;&emsp;&emsp;(iv) deal effectively with special transportation-related problems by preparing and providing training packages, manuals, guidelines, and technical resource materials;
 
 &emsp;&emsp;(B) develop technical assistance for tourism and recreational travel;
 

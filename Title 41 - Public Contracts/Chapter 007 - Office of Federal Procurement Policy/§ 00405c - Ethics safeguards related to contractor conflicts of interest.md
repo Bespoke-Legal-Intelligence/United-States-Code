@@ -60,7 +60,7 @@ Not later than 270 days after October 14, 2008, the Administrator for Federal Pr
 
 #### (3) Report
 
-&emsp;Not later than March 1, 2010, the Administrator shall submit to the Committees on Armed Services of the Senate and House of Representatives, the Committee on Homeland Security and Governmental Affairs in the Senate, and the Committee on Oversight and Government Reform of the House of Representatives a report setting forth such findings and determinations under subparagraphs (A) and (B) of paragraph (1), together with an assessment of any revisions to the Federal Acquisition Regulation that may be necessary.
+&emsp;Not later than March 1, 2010, the Administrator shall submit to the Committees on Armed Services of the Senate and House ofRepresentatives, the Committee on Homeland Security and Governmental Affairs in the Senate, and the Committee on Oversight and Government Reform of the House of Representatives a report setting forth such findings and determinations under subparagraphs (A) and (B) of paragraph (1), together with an assessment of any revisions to the Federal Acquisition Regulation that may be necessary.
 
 #### (c) Best practices
 

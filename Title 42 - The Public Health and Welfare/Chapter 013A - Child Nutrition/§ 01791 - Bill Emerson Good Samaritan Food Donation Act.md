@@ -50,7 +50,7 @@ As used in this section:
 
 #### (10) Person
 
-&emsp;The term “person” means an individual, corporation, partnership, organization, association, or governmental entity, including a retail grocer, wholesaler, hotel, motel, manufacturer, restaurant, caterer, farmer, and nonprofit food distributor or hospital. In the case of a corporation, partnership, organization, association, or governmental entity, the term includes an officer, director, partner, deacon, trustee, council member, or other elected or appointed individual responsible for the governance of the entity.
+&emsp;The term “person” means an individual, corporation, partnership, organization, association, or governmental entity, including a retail grocer, wholesaler, hotel, motel, manufacturer, restaurant, caterer, farmer, and nonprofit food distributor or hospital. In the caseof a corporation, partnership, organization, association, or governmental entity, the term includes an officer, director, partner, deacon, trustee, council member, or other elected or appointed individual responsible for the governance of the entity.
 
 #### (c) Liability for damages from donated food and grocery products
 
@@ -82,7 +82,7 @@ If some or all of the donated food and grocery products do not meet all quality 
 
 #### (f) Construction
 
-This section shall not be construed to create any liability. Nothing in this section shall beconstrued to supercede State or local health regulations.
+This section shall not be construed to create any liability. Nothing in this section shall be construed to supercede State or local health regulations.
 
 (Pub. L. 89–642, §22, formerly Pub. L. 101–610, title IV, §402, Nov. 16, 1990, 104 Stat. 3183; renumbered §22 and amended Pub. L. 104–210, §1(a)(2), (b), Oct. 1, 1996, 110 Stat. 3011, 3012.)
 

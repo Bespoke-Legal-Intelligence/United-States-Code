@@ -22,9 +22,9 @@ In carrying out his responsibilities under this section, the Secretary of Defens
 
 #### (d) Funding
 
-(1) The budget for the Department of Defense for each fiscal year after fiscal year 1994 shallreflect a coordinated and integrated chemical and biological defense program for the Department of Defense.
+(1) The budget for the Department of Defense for each fiscal year after fiscal year 1994 shall reflect a coordinated and integrated chemical and biological defense program for the Department of Defense.
 
-(2) Funding requests for the program (other than for activities under the program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2) of this section) shall be set forth in the budget of the Department of Defense for each fiscal year as a separate account, with a single program element for each of the categories of research, development, test, and evaluation, acquisition, and military construction. Amounts for military construction projects may be set forth in the annual military construction budget. Funds for military construction for the program in the military construction budget shall be set forth separately from other funds for military construction projects. Funding requests for the program may not be included in the budget accounts of the military departments.
+(2) Funding requests for the program (other than for activities under the program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2) of this section) shall be set forth in the budget of the Department of Defense for each fiscal year as a separate account, with a single program element for each of the categories of research, development, test, and evaluation, acquisition, and military construction. Amounts for military construction projects may be set forth in the annual military construction budget. Funds for military construction for the program in the military construction budget shall be set forth separately from other funds for military construction projects. Funding requests for the programmay not be included in the budget accounts of the military departments.
 
 (3) The program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2) of this section shall be set forth as a separate program element in the budget of that agency.
 
@@ -60,7 +60,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–201, §228(a), designated existing provisions as par. (1) and added par. (2).
+1996—Subsec. (c). Pub. L. 104–201, §228(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (d)(1). Pub. L. 104–201, §228(b)(1), substituted “program for the Department of Defense” for “program for the military departments”.
 
@@ -110,7 +110,7 @@ Objectives.—The objectives for the modification of policies and doctrines of t
 
 &emsp;&emsp;“(B) the recording, reporting, coordinating, and retaining of information on possible exposures described in subparagraph (A), including the monitoring of the health effects of exposures on humans and animals, environmental effects, and ecological effects, and the documenting and reporting of those effects specifically by location.
 
-&emsp;“(3) To provide solutions for the concerns and mission requirements that are specifically applicable for one or more of the Armed Forces in a protracted conflict when exposures to chemical agents could becomplex, dynamic, and occurring over an extended period.
+&emsp;“(3) To provide solutions for the concerns and mission requirements that are specifically applicable for one or more of the Armed Forces in a protracted conflict when exposures to chemical agents could be complex, dynamic, and occurring over an extended period.
 
 “(c)
 

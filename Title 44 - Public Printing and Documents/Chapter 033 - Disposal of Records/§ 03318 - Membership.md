@@ -36,7 +36,7 @@
 
 (b) A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
-(c) If any member of the Commission who was appointed to the Commission as a Member of the Congress leave such office, or if any member of the Commission who was appointed from persons who are not officers or employees of any government becomes an officer or employee of a government, he may continue as a member of the Commission for no longer than the sixty-day period beginning on the date he leaves such office or becomes such an officer or employee, as the case may be.
+(c) If any member of the Commission who was appointed to the Commission as a Member of the Congress leave such office, or if any member of the Commission who was appointed from persons who are not officers or employees of anygovernment becomes an officer or employee of a government, he may continue as a member of the Commission for no longer than the sixty-day period beginning on the date he leaves such office or becomes such an officer or employee, as the case may be.
 
 (d) Members shall be appointed for the life of the Commission.
 
@@ -52,7 +52,7 @@
 
 #### Amendments
 
-1976—Subsec. (a)(1)(E). Pub. L. 94–261, §1(a)(1), substituted “one member of the Federal judiciary appointed by the Chief Justice of the United States;” for“one Justice of the Supreme Court, appointed by the Chief Justice of the United States;”.
+1976—Subsec. (a)(1)(E). Pub. L. 94–261, §1(a)(1), substituted “one member of the Federal judiciary appointed by the Chief Justice of the United States;” for “one Justice of the Supreme Court, appointed by the Chief Justice of the United States;”.
 
 Subsec. (e)(2). Pub. L. 94–261, §1(a)(2), substituted “section 5703 of title 5, United States Code” for “section 5703(b) of title 5, United States Code”.
 

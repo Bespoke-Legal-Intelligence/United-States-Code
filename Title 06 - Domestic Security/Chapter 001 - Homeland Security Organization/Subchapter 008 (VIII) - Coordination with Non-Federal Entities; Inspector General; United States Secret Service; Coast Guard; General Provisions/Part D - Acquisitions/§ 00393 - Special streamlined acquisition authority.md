@@ -36,7 +36,7 @@
 
 #### (3) Review
 
-&emsp;Procurements made under the authority of this subsection shall be subject to review by adesignated supervisor on not less than a monthly basis. The supervisor responsible for the review shall be responsible for no more than 7 employees making procurements under this subsection.
+&emsp;Procurements made under the authority of this subsection shall be subject to review by a designated supervisor on not less than a monthly basis. The supervisor responsible for the review shall be responsible for no more than 7 employees making procurements under this subsection.
 
 #### (c) Simplified acquisition procedures
 

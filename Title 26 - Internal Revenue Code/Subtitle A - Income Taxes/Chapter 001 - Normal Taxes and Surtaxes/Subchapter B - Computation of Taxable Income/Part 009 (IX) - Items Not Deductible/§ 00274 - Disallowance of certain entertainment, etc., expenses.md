@@ -36,7 +36,7 @@
 
 &emsp;No deduction shall be allowed under section 162 or section 212 for any expense for gifts made directly or indirectly to any individual to the extent that such expense, when added to prior expenses of the taxpayer for gifts made to such individual during the same taxable year, exceeds $25. For purposes of this section, the term “gift” means any item excludable from gross income of the recipient under section 102 which is not excludable from his gross income under any other provision of this chapter, but such term does not include—
 
-&emsp;&emsp;(A) an item having a cost to the taxpayer not in excess of $4.00 on which the name ofthe taxpayer is clearly and permanently imprinted and which is one of a number of identical items distributed generally by the taxpayer, or
+&emsp;&emsp;(A) an item having a cost to the taxpayer not in excess of $4.00 on which the name of the taxpayer is clearly and permanently imprinted and which is one of a number of identical items distributed generally by the taxpayer, or
 
 &emsp;&emsp;(B) a sign, display rack, or other promotional material to be used on the business premises of the recipient.
 
@@ -244,7 +244,7 @@ For purposes of this chapter, if deductions are disallowed under subsection (a) 
 
 #### (iii) Qualified confidential information defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “qualified confidential information”means information which is subject to the nondisclosure provisions of any local law of the beneficiary country regarding bank secrecy or ownership of bearer shares.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “qualified confidential information” means information which is subject to the nondisclosure provisions of any local law of the beneficiary country regarding bank secrecy or ownership of bearer shares.
 
 #### (iv) Civil tax purposes
 
@@ -626,7 +626,7 @@ Subsec. (i). Pub. L. 94–455, §§602(a), 1906(b)(13)(A), redesignated former s
 
 #### Effective Date of 2005 Amendment
 
-Amendments by Pub. L. 109–135 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+Amendments by Pub. L. 109–135 effective as if included in the provisions of the American Jobs CreationAct of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -684,7 +684,7 @@ Exception From Substantiation Requirements for Qualified Nonpersonal Use Vehicle
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 179(b)(1) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1984,see section 179(d)(2) of Pub. L. 98–369, set out as an Effective Date note under section 280F of this title.
+Amendment by section 179(b)(1) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1984, see section 179(d)(2) of Pub. L. 98–369, set out as an Effective Date note under section 280F of this title.
 
 Amendment by section 801(c) of Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in taxable years ending after such date, see section 805(a)(1) of Pub. L. 98–369, as amended, set out as a note under section 245 of this title.
 

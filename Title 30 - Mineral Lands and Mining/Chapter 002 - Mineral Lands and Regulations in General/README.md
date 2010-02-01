@@ -24,6 +24,7 @@
 | [28i.](%C2%A7%2000028i%20-%20Failure%20to%20pay.md) | Failure to pay. |
 | [28j.](%C2%A7%2000028j%20-%20Other%20requirements.md) | Other requirements. |
 | [28k.](%C2%A7%2000028k%20-%20Regulations.md) | Regulations. |
+| 28<i>l.</i> | Collection of mining law administration fees. |
 | [29\.](%C2%A7%2000029%20-%20Patents%3B%20procurement%20procedure%3B%20filing%20application%20under%20oath%2C%20plat%20and%20field%20notes%2C%20notices%2C%20and%20affidavits%3B%20posting%20plat%20and%20notice%20on%E2%80%A6.md) | Patents; procurement procedure; filing: application under oath, plat and field notes, notices, and affidavits; posting plat and notice on claim; publication and posting notice in office; certificate; adverse claims; payment per acre; objections; nonresident claimant's agent for execution of application and affidavits. |
 | [30\.](%C2%A7%2000030%20-%20Adverse%20claims%3B%20oath%20of%20claimants%3B%20requisites%3B%20waiver%3B%20stay%20of%20land%20office%20proceedings%3B%20judicial%20determination%20of%20right%20of%20possession%E2%80%A6.md) | Adverse claims; oath of claimants; requisites; waiver; stay of land office proceedings; judicial determination of right of possession; successful claimants’ filing of judgment roll, certificate of labor, and description of claim in land office, and acreage and fee payments; issuance of patents for entire or partial claims upon certification of land office proceedings and judgment roll; alienation of patent title. |
 | [31\.](%C2%A7%2000031%20-%20Oath%20agent%20or%20attorney%20in%20fact%2C%20beyond%20district%20of%20claim.md) | Oath: agent or attorney in fact, beyond district of claim. |
@@ -85,6 +86,7 @@
 - [&sect; 00028i - Failure to pay](%C2%A7%2000028i%20-%20Failure%20to%20pay.md)
 - [&sect; 00028j - Other requirements](%C2%A7%2000028j%20-%20Other%20requirements.md)
 - [&sect; 00028k - Regulations](%C2%A7%2000028k%20-%20Regulations.md)
+- [&sect; 00028l - Collection of mining law administration fees](%C2%A7%2000028l%20-%20Collection%20of%20mining%20law%20administration%20fees.md)
 - [&sect; 00029 - Patents; procurement procedure; filing application under oath, plat and field notes, notices, and affidavits; posting plat and notice on&#8230;](%C2%A7%2000029%20-%20Patents%3B%20procurement%20procedure%3B%20filing%20application%20under%20oath%2C%20plat%20and%20field%20notes%2C%20notices%2C%20and%20affidavits%3B%20posting%20plat%20and%20notice%20on%E2%80%A6.md)
 - [&sect; 00030 - Adverse claims; oath of claimants; requisites; waiver; stay of land office proceedings; judicial determination of right of possession&#8230;](%C2%A7%2000030%20-%20Adverse%20claims%3B%20oath%20of%20claimants%3B%20requisites%3B%20waiver%3B%20stay%20of%20land%20office%20proceedings%3B%20judicial%20determination%20of%20right%20of%20possession%E2%80%A6.md)
 - [&sect; 00031 - Oath agent or attorney in fact, beyond district of claim](%C2%A7%2000031%20-%20Oath%20agent%20or%20attorney%20in%20fact%2C%20beyond%20district%20of%20claim.md)

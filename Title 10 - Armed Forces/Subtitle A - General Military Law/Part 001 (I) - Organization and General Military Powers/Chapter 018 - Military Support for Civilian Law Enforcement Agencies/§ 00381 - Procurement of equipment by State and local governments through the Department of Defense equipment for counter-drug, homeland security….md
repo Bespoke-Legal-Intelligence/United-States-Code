@@ -42,7 +42,7 @@ Definitions.—In this section:
 
 2008—Pub. L. 110–417, §885(b)(1), substituted “Procurement of equipment by State and local governments through the Department of Defense: equipment for counter-drug, homeland security, and emergency response activities” for “Procurement by State and local governments of law enforcement equipment suitable for counter-drug activities through the Department of Defense” in section catchline.
 
-Subsec. (a)(1). Pub. L. 110–417, §885(a)(1), in introductory provisions, struck out “law enforcement” before “equipment” and inserted “, homeland security, and emergency response” after “counter-drug”, in subpar. (A), inserted “, homeland security, or emergency response” after “counter-drug” in introductory provisions and struck out “law enforcement” before “equipment” in cl. (i), in subpar. (C) struck out “law enforcement” before “equipment” wherever appearing, and in subpar. (D) struck out “law enforcement” before “equipment shall”.
+Subsec. (a)(1). Pub. L. 110–417, §885(a)(1), in introductory provisions, struck out “law enforcement” before “equipment” and inserted “, homeland security, and emergency response” after “counter-drug”, in subpar. (A), inserted “, homeland security, or emergency response” after “counter-drug” in introductory provisions and struck out “law enforcement” before “equipment” in cl. (i), in subpar. (C) struck out “law enforcement” before “equipment” wherever appearing, and insubpar. (D) struck out “law enforcement” before “equipment shall”.
 
 Subsec. (c). Pub. L. 110–417, §885(a)(2), struck out “law enforcement” before “equipment” and inserted “, homeland security, and emergency response” after “counter-drug”.
 

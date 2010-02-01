@@ -20,7 +20,7 @@ For purposes of this chapter—
 
 &emsp;(5) the term “nonprofit elementary or secondary school” means—
 
-&emsp;&emsp;(A) any elementary or secondary school (as defined in section 198(a)(7) <sup>1</sup> of the Elementary and Secondary Education Act of 1965) owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual, and
+&emsp;&emsp;(A) any elementary or secondary school (as defined in section 198(a)(7) <sup>1</sup> of the Elementary and Secondary Education Act of1965) owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual, and
 
 &emsp;&emsp;(B) any school of any agency of the United States;
 

@@ -52,7 +52,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(10). Pub. L. 109–364 added par. (10).
+2006—Subsec. (b)(10). Pub. L. 109–364 added par. (10).
 
-<b>1997</b>—Subsec. (b)(9). Pub. L. 105–85 added par. (9).
+1997—Subsec. (b)(9). Pub. L. 105–85 added par. (9).
 

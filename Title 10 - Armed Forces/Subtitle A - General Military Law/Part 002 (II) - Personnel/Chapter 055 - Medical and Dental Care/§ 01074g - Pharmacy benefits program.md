@@ -66,7 +66,7 @@ Pharmacy Data Transaction Service.—The Secretary of Defense shall implement th
 
 (f)
 
-Procurement of Pharmaceuticals by TRICARE Retail Pharmacy Program.—With respect to any prescription filled on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, the TRICARE retail pharmacy program shall be treated as an element of the Department of Defense for purposes of the procurement of drugs by Federal agencies under section 8126 of title 38 to the extent necessary to ensure that pharmaceuticals paid for by the Department of Defense that are provided by pharmacies under the program to eligible covered beneficiaries under this section are subject to the pricing standards in such section 8126.
+Procurement of Pharmaceuticals by TRICARE Retail Pharmacy Program.—With respect to any prescription filled after January 28, 2008, the TRICARE retail pharmacy program shall be treated as an element of the Department of Defense for purposes of the procurement of drugs by Federal agencies under section 8126 of title 38 to the extent necessary to ensure that pharmaceuticals paid for by the Department of Defense that are provided by pharmacies under the program to eligible covered beneficiaries under this section are subject to the pricing standards in such section 8126.
 
 (g)
 
@@ -80,15 +80,15 @@ Definitions.—In this section:
 
 Regulations.—The Secretary of Defense shall, after consultation with the other administering Secretaries, prescribe regulations to carry out this section.
 
-(Added Pub. L. 106–65, div. A, title VII, §701(a)(1), Oct. 5, 1999, 113 Stat. 677; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title X, §1048(c)(4), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title VII, §725, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 108–375, div. A, title VII, §714, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 110–181, div. A, title VII, §703(a), Jan. 28, 2008, 122 Stat. 188.)
+(Added Pub. L. 106–65, div. A, title VII, §701(a)(1), Oct. 5, 1999, 113 Stat. 677; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title X, §1048(c)(4), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title VII, §725, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 108–375, div. A, title VII, §714, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 110–181, div. A, title VII, §703(a), Jan. 28, 2008, 122 Stat. 188; Pub. L. 111–84, div. A, title X, §1073(a)(10), Oct. 28, 2009, 123 Stat. 2473.)
 
 #### References in Text
 
 Subsection (g), referred to in subsecs. (a)(6)(A) and (b)(1), was redesignated subsection (h) of this section by Pub. L. 110–181, div. A, title VII, §703(a)(1), Jan. 28, 2008, 122 Stat. 188.
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (f), is the date of enactment of Pub. L. 110–181, which was approved Jan. 28, 2008.
-
 #### Amendments
+
+2009—Subsec. (f). Pub. L. 111–84 substituted “after January 28, 2008” for “on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008”.
 
 2008—Subsecs. (f) to (h). Pub. L. 110–181 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
@@ -118,7 +118,9 @@ Subsec. (g). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)(G)\], su
 
 #### Regulations
 
-Pub. L. 110–181, div. A, title VII, §703(b), Jan. 28, 2008, 122 Stat. 188, as amended by Pub. L. 110–417, \[div. A\], title X, §1061(b)(3), Oct. 14, 2008, 122 Stat. 4613, provided that: “The Secretary of Defense shall, after consultation with the other administering Secretaries under chapter 55 of title 10, United States Code, modify the regulations under subsection (h) of section 1074g of title 10, United States Code (as redesignated by subsection (a)(1) of this section), to implement the requirements of subsection (f) of section 1074g of title 10, United States Code (as inserted by subsection (a)(2) of this section). The Secretary shall so modify such regulations not later than December 31, 2007.”
+Pub. L. 110–181, div. A, title VII, §703(b), Jan. 28, 2008, 122 Stat. 188, as amended by Pub. L. 110–417, \[div. A\], title X, §1061(b)(3), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–84, div. A, title X, §1073(c)(12), Oct. 28, 2009, 123 Stat. 2475, provided that: “The Secretary of Defense shall, after consultation with the other administering Secretaries under chapter 55 of title 10, United States Code, modify the regulations under subsection (h) of section 1074g of title 10, United States Code (as redesignated by subsection (a)(1) of this section), to implement the requirements of subsection (f) of section 1074g of title 10, United States Code (as inserted by subsection (a)(2) of this section). The Secretary shall so modify such regulations not later than December 31, 2007.”
+
+\[Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(12) to section 1061(b)(3) of Pub. L. 110–417, included in the credit set out above, is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.\]
 
 #### Termination of Advisory Panels
 

@@ -4,7 +4,7 @@
 
 The Secretary of the Treasury shall make payments on account of awards certified by the Commission pursuant to this subchapter as follows:
 
-&emsp;(1) Payment in full of the principal amount of each award made pursuant to section 1641d(a)(1) of this title and each award of $1,000 or less made pursuant to section 1641b or 1641c of this title;
+&emsp;(1) Payment in full of the principal amount of each award made pursuant to section1641d(a)(1) of this title and each award of $1,000 or less made pursuant to section 1641b or 1641c of this title;
 
 &emsp;(2) Payment in full of the principal amount of each award of $1,000 or less made pursuant to section 1641d(a)(2) of this title;
 
@@ -20,7 +20,7 @@ The Secretary of the Treasury shall make payments on account of awards certified
 
 &emsp;(B) Except as otherwise provided in subparagraph (D), with respect to awards previously certified under paragraph (1) of section 1641b of this title, the Secretary of the Treasury shall not authorize any further payments until payments on account of awards certified under paragraphs (2), (3), and (5) of section 1641b of this title have been authorized in equal proportions to payments previously authorized on existing awards certified under paragraph (1) of section 1641b of this title.
 
-&emsp;(C) Except as otherwise provided in subparagraph (D), the Secretary of the Treasury shallnot authorize any further payments on account of awards certified under paragraph (3) of section 1641b of this title based on Kingdom of Hungary bonds expressed in United States dollars or upon awards to Standstill creditors of Hungary that were the subject matter of the agreement of December 5, 1969, between the Government of Hungary and the American Committee for Standstill creditors of Hungary.
+&emsp;(C) Except as otherwise provided in subparagraph (D), the Secretary of the Treasury shall not authorize any further payments on account of awards certified under paragraph (3) of section 1641b of this title based on Kingdom of Hungary bonds expressed in United States dollars or upon awards to Standstill creditors of Hungary that were the subject matter of the agreement of December 5, 1969, between the Government of Hungary and the American Committee for Standstill creditors of Hungary.
 
 &emsp;(D) No payments shall be authorized by the Secretary of the Treasury on account of awards certified by the Commission under paragraph (5) of section 1641b of this title, and no further payments shall be so authorized under paragraphs (1), (2), or (3) of section 1641b of this title (except payments certified as the result of claims filed under subsection (d) of section 1641e of this title), until payments on account of awards certified under such paragraphs (1), (2), and (3) as the result of a claims <sup>1</sup> filed under subsection (d) of section 1641e of this title have been authorized in equal proportions to payments previously authorized on existing awards certified under such paragraphs and arising out of claims filed other than under such subsection (d).
 

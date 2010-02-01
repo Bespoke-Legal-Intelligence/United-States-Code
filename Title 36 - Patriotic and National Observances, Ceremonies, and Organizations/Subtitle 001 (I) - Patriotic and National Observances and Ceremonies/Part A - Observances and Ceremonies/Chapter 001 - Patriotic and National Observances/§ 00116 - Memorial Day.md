@@ -330,7 +330,7 @@ In general.—The Commission—
 
 &emsp;&emsp;&emsp;“(i) shall have the sole and exclusive right to use the name ‘White House Commission on the National Moment of Remembrance’ on any logo, emblem, seal, or descriptive or designating mark that the Commission lawfully adopts; and
 
-&emsp;&emsp;&emsp;“(ii) shall have the sole and exclusive right to allow or refuse the use by any other entity of thename ‘White House Commission on the National Moment of Remembrance’ on any logo, emblem, seal, or descriptive or designating mark.
+&emsp;&emsp;&emsp;“(ii) shall have the sole and exclusive right to allow or refuse the use by any other entity of the name ‘White House Commission on the National Moment of Remembrance’ on any logo, emblem, seal, or descriptive or designating mark.
 
 &emsp;&emsp;“(B)
 
@@ -360,7 +360,7 @@ Federal employees.—A member of the Commission who is an officer or employee of
 
 “(b)
 
-Travel Expenses.—A member of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of the duties of the Commission.
+Travel Expenses.—A member of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from thehome or regular place of business of the member in the performance of the duties of the Commission.
 
 “(c)
 

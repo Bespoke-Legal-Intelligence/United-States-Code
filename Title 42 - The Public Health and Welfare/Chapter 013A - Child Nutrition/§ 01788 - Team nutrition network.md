@@ -38,7 +38,7 @@ In this section, the term “team nutrition network” means a statewide multidi
 
 #### (d) Allocation
 
-Subject to the availability of funds for use in carrying out this section, the total amount offunds made available for a fiscal year for grants under this section shall equal not more than the sum of—
+Subject to the availability of funds for use in carrying out this section, the total amount of funds made available for a fiscal year for grants under this section shall equal not more than the sum of—
 
 &emsp;(1) the product obtained by multiplying 1/2 cent by the number of lunches reimbursed through food service programs under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) during the second preceding fiscal year in schools, institutions, and service institutions that participate in the food service programs; and
 
@@ -74,7 +74,7 @@ To be eligible to receive a grant under this section, a State agency shall submi
 
 Each State that receives a grant under this section shall appoint a team nutrition network coordinator who shall—
 
-&emsp;(1) administer and coordinate the team nutrition network within and across schools, school food authorities, and other child nutrition program providers in the State; and
+&emsp;(1) administer and coordinate the team nutrition network within and across schools,school food authorities, and other child nutrition program providers in the State; and
 
 &emsp;(2) coordinate activities of the Secretary, acting through the Food and Nutrition Service, and State agencies responsible for other children's health, education, and wellness programs to implement a comprehensive, coordinated team nutrition network program.
 
@@ -182,7 +182,7 @@ A State agency that receives a grant under this section may use funds from the g
 
 #### (i) Nutrition education support
 
-In carrying out the purpose of this section to support nutrition education, the Secretary may provide for technical assistance and grants toimprove the quality of school meals and access to local foods in schools and institutions.
+In carrying out the purpose of this section to support nutrition education, the Secretary may provide for technical assistance and grants to improve the quality of school meals and access to local foods in schools and institutions.
 
 #### (j) Limitation
 
@@ -224,7 +224,7 @@ Material prepared under this section regarding agricultural commodities, food, o
 
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-(Pub. L. 89–642, §19, as added Pub. L. 95–166, §15, Nov. 10, 1977, 91 Stat. 1340; amended Pub. L. 96–499, title II, §213, Dec. 5, 1980, 94 Stat. 2603; Pub. L. 97–35, title VIII, §§806, 817(f), Aug. 13, 1981, 95 Stat. 527, 532; Pub. L. 99–500, title III, §§315, 362, 372(b), 373(b), Oct. 18, 1986, 100 Stat. 1783–360, 1783–368, 1783–369, and Pub. L. 99–591, title III, §§315, 362, 372(b), 373(b), Oct. 30, 1986, 100 Stat. 3341–363, 3341–371, 3341–372; Pub. L. 99–661, div. D, title I, §4105, title IV, §4402, title V, §§4502(b), 4503(b), Nov. 14, 1986, 100 Stat. 4071, 4079–4081; Pub. L. 101–147, title I, §124, title II, §214, title III, §327, Nov. 10, 1989, 103 Stat. 905, 913, 918; Pub. L. 103–448, title II, §205, Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title VII, §731(a)–(f), Aug. 22, 1996, 110 Stat. 2305–2307; Pub. L. 105–336, title II, §204, Oct. 31, 1998, 112 Stat. 3167; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 108–265, title II, §205(a), June 30, 2004, 118 Stat. 782.)
+(Pub. L. 89–642, §19, as added Pub. L. 95–166, §15, Nov. 10, 1977, 91 Stat. 1340; amended Pub. L. 96–499, title II, §213, Dec. 5, 1980, 94 Stat. 2603; Pub. L. 97–35, title VIII, §§806, 817(f), Aug. 13, 1981, 95 Stat. 527, 532; Pub. L. 99–500, title III,§§315, 362, 372(b), 373(b), Oct. 18, 1986, 100 Stat. 1783–360, 1783–368, 1783–369, and Pub. L. 99–591, title III, §§315, 362, 372(b), 373(b), Oct. 30, 1986, 100 Stat. 3341–363, 3341–371, 3341–372; Pub. L. 99–661, div. D, title I, §4105, title IV, §4402, title V, §§4502(b), 4503(b), Nov. 14, 1986, 100 Stat. 4071, 4079–4081; Pub. L. 101–147, title I, §124, title II, §214, title III, §327, Nov. 10, 1989, 103 Stat. 905, 913, 918; Pub. L. 103–448, title II, §205, Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title VII, §731(a)–(f), Aug. 22, 1996, 110 Stat. 2305–2307; Pub. L. 105–336, title II, §204, Oct. 31, 1998, 112 Stat. 3167; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 108–265, title II, §205(a), June 30, 2004, 118 Stat. 782.)
 
 #### References in Text
 

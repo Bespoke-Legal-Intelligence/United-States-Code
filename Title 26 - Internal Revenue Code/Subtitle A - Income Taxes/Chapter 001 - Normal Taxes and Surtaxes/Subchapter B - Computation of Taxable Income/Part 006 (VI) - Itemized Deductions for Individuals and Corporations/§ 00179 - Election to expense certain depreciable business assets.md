@@ -94,9 +94,9 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;&emsp;&emsp;(III) has an integral enclosure, fully enclosing the driver compartment and load carrying device, does not have seating rearward of the driver's seat, and has no body section protruding more than 30 inches ahead of the leading edge of the windshield.
 
-#### (7) Increase in limitations for 2008
+#### (7) Increase in limitations for 2008, and 2009
 
-&emsp;In the case of any taxable year beginning in 2008—
+&emsp;In the case of any taxable year beginning in 2008, or 2009—
 
 &emsp;&emsp;(A) the dollar limitation under paragraph (1) shall be $250,000,
 
@@ -222,13 +222,15 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;For purposes of this subsection, rules similar to the rules under subsection (d)(10) shall apply with respect to any qualified section 179 disaster assistance property which ceases to be qualified section 179 disaster assistance property.
 
-(Added Pub. L. 85–866, title II, §204(a), Sept. 2, 1958, 72 Stat. 1679; amended Pub. L. 87–834, §13(c)(2), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 91–172, title IV, §401(f), Dec. 30, 1969, 83 Stat. 603; Pub. L. 94–455, title II, §213(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 97–34, title II, §202(a), Aug. 13, 1981, 95 Stat. 219; Pub. L. 97–354, §3(f), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(aa), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title I, §13, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title II, §§201(d)(3), 202, Oct. 22, 1986, 100 Stat. 2139, 2142; Pub. L. 100–647, title I, §1002(a)(19), (b)(1), Nov. 10, 1988, 102 Stat. 3356, 3357; Pub. L. 101–508, title XI, §11813(b)(11), Nov. 5, 1990, 104 Stat. 1388–554; Pub. L. 103–66, title XIII, §13116(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 104–188, title I, §§1111(a), 1702(h)(10), (19), Aug. 20, 1996, 110 Stat. 1758, 1874; Pub. L. 108–27, title II, §202(a)–(e), May 28, 2003, 117 Stat. 757, 758; Pub. L. 108–357, title II, §201, title VIII, §910(a), Oct. 22, 2004, 118 Stat. 1429, 1659; Pub. L. 109–222, title I, §101, May 17, 2006, 120 Stat. 346; Pub. L. 110–28, title VIII, §8212(a)–(c), May 25, 2007, 121 Stat. 192; Pub. L. 110–185, title I, §102(a), Feb. 13, 2008, 122 Stat. 618; Pub. L. 110–343, div. C, title VII, §711(a), Oct. 3, 2008, 122 Stat. 3928.)
+(Added Pub. L. 85–866, title II, §204(a), Sept. 2, 1958, 72 Stat. 1679; amended Pub. L. 87–834, §13(c)(2), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 91–172, title IV, §401(f), Dec. 30, 1969, 83 Stat. 603; Pub. L. 94–455, title II, §213(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 97–34, title II, §202(a), Aug. 13, 1981, 95 Stat. 219; Pub. L. 97–354, §3(f), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(aa), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title I, §13, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title II, §§201(d)(3), 202, Oct. 22, 1986, 100 Stat. 2139, 2142; Pub. L. 100–647, title I, §1002(a)(19), (b)(1), Nov. 10, 1988, 102 Stat. 3356, 3357; Pub. L. 101–508, title XI, §11813(b)(11), Nov. 5, 1990, 104 Stat. 1388–554; Pub. L. 103–66, title XIII, §13116(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 104–188, title I, §§1111(a), 1702(h)(10), (19), Aug. 20, 1996, 110 Stat. 1758, 1874; Pub. L. 108–27, title II, §202(a)–(e), May 28, 2003, 117 Stat. 757, 758; Pub. L. 108–357, title II, §201, title VIII, §910(a), Oct. 22, 2004, 118 Stat. 1429, 1659; Pub. L. 109–222, title I, §101, May 17, 2006, 120 Stat. 346; Pub. L. 110–28, title VIII, §8212(a)–(c), May 25, 2007, 121 Stat. 192; Pub. L. 110–185, title I, §102(a), Feb. 13, 2008, 122 Stat. 618; Pub. L. 110–343, div. C, title VII, §711(a), Oct. 3, 2008, 122 Stat. 3928; Pub. L. 111–5, div. B, title I, §1202(a), Feb. 17, 2009, 123 Stat. 335.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
+
+2009—Subsec. (b)(7). Pub. L. 111–5 substituted “2008, and 2009” for “2008” in heading and “2008, or 2009” for “2008” in introductory provisions.
 
 2008—Subsec. (b)(7). Pub. L. 110–185 added par. (7).
 
@@ -318,6 +320,10 @@ Subsec. (e). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate�
 
 Subsec. (d)(8). Pub. L. 87–834, §13(c)(2)(B), substituted “section 167(g)” for “section 167(f)”.
 
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–5, div. B, title I, §1202(b), Feb. 17, 2009, 123 Stat. 335, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008.”
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–343, div. C, title VII, §711(b), Oct. 3, 2008, 122 Stat. 3929, provided that: “The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2007, with respect \[to\] disasters declared after such date.”
@@ -348,7 +354,7 @@ Section 13116(b) of Pub. L. 103–66 provided that: “The amendment made by sub
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicableto any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1988 Amendment
 

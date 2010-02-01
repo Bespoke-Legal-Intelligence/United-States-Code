@@ -4,7 +4,7 @@
 
 (b) The publication or republication by the Government under this chapter, either separately or in a public document, of any material in which copyright is subsisting shall not be taken to cause any abridgment or annulment of the copyright or to authorize any use or appropriation of such material without the consent of the copyright proprietor.
 
-(Pub. L. 90–396, §6, July 11, 1968, 82 Stat. 340; Pub. L. 94–553, §105(f), Oct. 19, 1976, 90 Stat. 2599;Pub. L. 107–273, div. C, title III, §13211(b), Nov. 2, 2002, 116 Stat. 1910.)
+(Pub. L. 90–396, §6, July 11, 1968, 82 Stat. 340; Pub. L. 94–553, §105(f), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 107–273, div. C, title III, §13211(b), Nov. 2, 2002, 116 Stat. 1910.)
 
 #### Amendments
 

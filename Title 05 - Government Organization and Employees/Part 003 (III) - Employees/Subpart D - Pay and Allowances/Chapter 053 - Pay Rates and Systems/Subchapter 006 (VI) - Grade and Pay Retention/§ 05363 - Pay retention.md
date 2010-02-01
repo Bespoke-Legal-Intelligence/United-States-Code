@@ -12,7 +12,7 @@
 
 > is entitled to a rate of basic pay in accordance with regulations prescribed by the Office of Personnel Management in conformity with the provisions of this section.
 
-(b)(1)(A) If, as a result of any event described in subsection (a), the employee's former rate ofbasic pay is less than or equal to the maximum rate of basic pay payable for the grade of the employee's position immediately after the occurrence of the event involved, the employee is entitled to basic pay at the lowest rate of basic pay payable for such grade that equals or exceeds such former rate of basic pay.
+(b)(1)(A) If, as a result of any event described in subsection (a), the employee's former rate of basic pay is less than or equal to the maximum rate of basic pay payable for the grade of the employee's position immediately after the occurrence of the event involved, the employee is entitled to basic pay at the lowest rate of basic pay payable for such grade that equals or exceeds such former rate of basic pay.
 
 (B) This section shall cease to apply to an employee to whom subparagraph (A) applies once the appropriate rate of basic pay has been determined for such employee under this paragraph.
 
@@ -82,7 +82,7 @@ Subsecs. (b) to (e). Pub. L. 108–411, §301(a)(5)(B), added subsecs. (b) to (e
 
 1993—Subsec. (c)(2). Pub. L. 103–89 substituted “chapter 51 or 53” for “chapter 51, 53, or 54”.
 
-1990—Subsec. (a)(2) to (4). Pub. L. 101–509 substituted “5305 of this title (or corresponding prior provision ofthis title);” for “5303 of this title; or” in par. (2), inserted “or” at end of par. (3), and added par. (4).
+1990—Subsec. (a)(2) to (4). Pub. L. 101–509 substituted “5305 of this title (or corresponding prior provision of this title);” for “5303 of this title; or” in par. (2), inserted “or” at end of par. (3), and added par. (4).
 
 #### Effective Date of 2004 Amendment
 
@@ -102,7 +102,7 @@ Individuals receiving a retained rate or a rate greater than the maximum rate fo
 
 &emsp;“(B)
 
-Definition.—For purposes of this paragraph, the term ‘covered pay schedule’ has the meaning given such term by section 5361 of title 5, United States Code.”
+Definition.—For purposes of this paragraph, the term ‘covered pay schedule’ has the meaninggiven such term by section 5361 of title 5, United States Code.”
 
 #### Effective Date of 1993 Amendment
 

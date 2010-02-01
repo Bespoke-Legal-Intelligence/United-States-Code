@@ -2,7 +2,7 @@
 
 (a)
 
-Civil Penalty.—(1) A person that violates section 32506(a) of this title is liable to the United States Government for a civil penalty of not more than $1,000 for each violation. A separate violation occurs for each passenger motor vehicle or item of passenger motor vehicle equipment involved in a violation of section 32506(a)(1) or (4) of this title—
+Civil Penalty.—(1) A person that violates section 32506(a) of this title is liable to theUnited States Government for a civil penalty of not more than $1,000 for each violation. A separate violation occurs for each passenger motor vehicle or item of passenger motor vehicle equipment involved in a violation of section 32506(a)(1) or (4) of this title—
 
 &emsp;(A) that does not comply with a standard prescribed under section 32502 of this title; or
 

@@ -28,7 +28,7 @@
 
 The Secretary may—
 
-&emsp;(1) provide that geothermal leases issued under this chapter shall contain a provision requiring the lessee to operate under a unit agreement; and
+&emsp;(1) provide that geothermal leases issued under this chapter shall contain a provisionrequiring the lessee to operate under a unit agreement; and
 
 &emsp;(2) prescribe the unit agreement under which the lessee shall operate, which shall adequately protect the rights of all parties in interest, including the United States.
 

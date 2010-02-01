@@ -210,7 +210,7 @@ Subsec. (i). Pub. L. 102–484, §504(d), inserted at end “During the period b
 
 1990—Subsec. (h). Pub. L. 101–510 substituted “section 1174(a)(1)” for “section 1174(a)”.
 
-1986—Subsec. (c)(2). Pub. L. 99–348, §203(b)(7)(A), substituted provision that retired pay be computed under section 6333 for provision that retired pay, in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 21/2 percent of the basic pay to which he would have been entitled if serving on active duty in the grade in which he retired, or in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 21/2 percent of the monthly retired pay base computed under section 1407(d), which rates were to be multiplied by the number of years of service credited under section 1405, but such retired paywas not to be more than 75 percent of the basic pay or monthly retired pay base upon which the computation of retired pay was based.
+1986—Subsec. (c)(2). Pub. L. 99–348, §203(b)(7)(A), substituted provision that retired pay be computed under section 6333 for provision that retired pay, in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 21/2 percent of the basic pay to which he would have been entitled if serving on active duty in the grade in which he retired, or in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 21/2 percent of the monthly retired pay base computed under section 1407(d), which rates were to be multiplied by the number of years of service credited under section 1405, but such retired pay was not to be more than 75 percent of the basic pay or monthly retired pay base upon which the computation of retired pay was based.
 
 Subsec. (k). Pub. L. 99–348, §203(b)(7)(B), struck out subsec. (k) which provided that retired pay computed under subsec. (c), if not a multiple of $1, was to be rounded to the next lower multiple of $1.
 
@@ -262,7 +262,7 @@ Amendment by section 336 of Pub. L. 96–513 effective Sept. 15, 1981, but the a
 
 #### Effective Date of 1963 Amendment
 
-Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note under section 201 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note undersection 201 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1958 Amendment
 

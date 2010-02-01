@@ -46,7 +46,7 @@
 
 (c) A headstone or marker furnished under subsection (a), (b), or (d) of this section may be of any material, including but not limited to marble, granite, bronze, or slate, requested by the person entitled to request such headstone or marker if the material requested is determined by the Secretary (1) to be cost effective, and (2) in a case in which the headstone or marker is to be placed in a national cemetery, to be aesthetically compatible with the area of the cemetery in which it is to be placed.
 
-(d)(1) The Secretary shall furnish, when requested, an appropriate Government headstone or marker at the expense of the United States for the grave of an individual described in paragraph (2) or (5) of subsection (a) who is buried in a private cemetery, notwithstanding that the grave is marked by a headstone or marker furnished at private expense. Such a headstone or marker may be furnished only if the individual making the request for the Government headstone or marker certifies to the Secretary that the headstone or marker will be placed on the grave for which the headstone or marker is requested, or, if placement on the grave is impossible or impracticable, as close as possible to the grave within the grounds of the cemetery in which the grave is located.
+(d)(1) The Secretary shall furnish, when requested, an appropriate Government headstone or marker at the expense of the United Statesfor the grave of an individual described in paragraph (2) or (5) of subsection (a) who is buried in a private cemetery, notwithstanding that the grave is marked by a headstone or marker furnished at private expense. Such a headstone or marker may be furnished only if the individual making the request for the Government headstone or marker certifies to the Secretary that the headstone or marker will be placed on the grave for which the headstone or marker is requested, or, if placement on the grave is impossible or impracticable, as close as possible to the grave within the grounds of the cemetery in which the grave is located.
 
 (2) Any headstone or marker furnished under this subsection shall be delivered by the Secretary directly to the cemetery where the grave is located or to a receiving agent for delivery to the cemetery.
 
@@ -206,7 +206,7 @@ Amendment by Pub. L. 107–330 applicable with respect to deaths occurring on or
 
 Amendment by section 502 of Pub. L. 107–103 effective Nov. 1, 1990, and applicable with respect to headstones and markers for the graves of individuals dying on or after that date, see section 203(b) of Pub. L. 110–157, set out as an Effective Date of 2006 Amendment note above.
 
-Pub. L. 107–103, title V, §502(d), Dec. 27, 2001, 115 Stat. 995, as amended by Pub. L. 107–330, title II, §203(a), Dec.6, 2002, 116 Stat. 2824, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to markers for the graves of individuals dying on or after September 11, 2001.”
+Pub. L. 107–103, title V, §502(d), Dec. 27, 2001, 115 Stat. 995, as amended by Pub. L. 107–330, title II, §203(a), Dec. 6, 2002, 116 Stat. 2824, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to markers for the graves of individuals dying on or after September 11, 2001.”
 
 \[Pub. L. 107–330, title II, §203(b), Dec. 6, 2002, 116 Stat. 2824, provided that: “The amendment made by subsection (a) \[amending section 502(d) of Pub. L. 107–103, set out above\] shall take effect as if included in the enactment of such section 502.”\]
 

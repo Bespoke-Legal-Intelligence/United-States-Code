@@ -6,7 +6,7 @@ Each State agency shall reserve not less than 15 percent and not more than 30 pe
 
 &emsp;(1) projects that facilitate the transition of children and youth from State-operated institutions to schools served by local educational agencies; or
 
-&emsp;(2) the successful reentry of youth offenders, who are age 20 or younger and have received a secondary school diploma or its recognizedequivalent, into postsecondary education, or vocational and technical training programs, through strategies designed to expose the youth to, and prepare the youth for, postsecondary education, or vocational and technical training programs, such as—
+&emsp;(2) the successful reentry of youth offenders, who are age 20 or younger and have received a secondary school diploma or its recognized equivalent, into postsecondary education, or vocational and technical training programs, through strategies designed to expose the youth to, and prepare the youth for, postsecondary education, or vocational and technical training programs, such as—
 
 &emsp;&emsp;(A) preplacement programs that allow adjudicated or incarcerated youth to audit or attend courses on college, university, or community college campuses, or through programs provided in institutional settings;
 

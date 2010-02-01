@@ -18,7 +18,7 @@ The President shall establish a SEED Information Center System, using existing E
 
 &emsp;The SEED Information Center System shall be organized, among other purposes, to encourage—
 
-&emsp;&emsp;(A) the submission of economically sound proposals to the Polish-American Enterprise Fund and Hungarian-American Enterprise Fund, and
+&emsp;&emsp;(A) the submission of economically sound proposals to the Polish-American EnterpriseFund and Hungarian-American Enterprise Fund, and
 
 &emsp;&emsp;(B) other sources of finance for the development of private enterprise in Eastern Europe.
 

@@ -38,7 +38,7 @@ As used in this chapter—
 
 &emsp;&emsp;&emsp;(i) the paid-in capital and paid-in surplus of a corporate licensee, the contributed capital of the partners of a partnership licensee, or the equity investment of the members of a limited liability company licensee; and
 
-&emsp;&emsp;&emsp;(ii) unfunded binding commitments, from investors that meet criteria established by the Administrator, to contribute capital to the licensee: <i>Provided</i>, That such unfunded commitments may be counted as private capital for purposes of approval by the Administrator of any request for leverage, but leverage shall not be funded based on such commitments; and
+&emsp;&emsp;&emsp;(ii) unfunded binding commitments, from investors that meet criteria established by the Administrator, to contribute capital to the licensee: <i>Provided</i>, That such unfunded commitments may be counted asprivate capital for purposes of approval by the Administrator of any request for leverage, but leverage shall not be funded based on such commitments; and
 
 &emsp;&emsp;(B) does not include any—
 

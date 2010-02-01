@@ -14,7 +14,7 @@ A civil action authorized to be commenced under this section shall be referred t
 
 #### (A) In general
 
-&emsp;&emsp;Any person who willfully violates any provision of an order or regulation issued by the Secretary under this subchapter, or who fails or refuses to pay, collect, or remit an assessment or fee required of the person under an order or regulation, may be assessed—
+&emsp;&emsp;Any person who willfully violates any provision of an order or regulation issued by the Secretary under this subchapter, or who fails or refuses to pay, collect, or remit an assessment or fee required of the personunder an order or regulation, may be assessed—
 
 &emsp;&emsp;&emsp;(i) a civil penalty by the Secretary of not more than $1,000 for each violation; and
 
@@ -30,7 +30,7 @@ A civil action authorized to be commenced under this section shall be referred t
 
 #### (3) Notice and hearing
 
-&emsp;No penalty shall be assessed, or cease-and-desist order issued, by the Secretary underthis subsection unless the person against whom the penalty is assessed or the cease-and-desist order is issued is given notice and opportunity for a hearing before the Secretary with respect to the violation.
+&emsp;No penalty shall be assessed, or cease-and-desist order issued, by the Secretary under this subsection unless the person against whom the penalty is assessed or the cease-and-desist order is issued is given notice and opportunity for a hearing before the Secretary with respect to the violation.
 
 #### (4) Finality
 

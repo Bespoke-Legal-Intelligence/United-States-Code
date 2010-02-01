@@ -20,5 +20,5 @@ The Federal Land Policy and Management Act of 1976, referred to in text, is Pub.
 
 #### Amendments
 
-1984—Pub. L. 98–366 inserted “and the North Slope Borough” after “Alaska Natives”, struck out “and” after “responsibilities under this Act,” and inserted “, and (4) grant rights-of-way to the North Slope Borough, under the provisions of title V of the Federal Land Policy and Management Act of 1976 or section 28 of the Mineral Leasing Act, as amended, as may be necessary to permit the North Slope Borough to provide energy supplies to the villages on the North Slope”.
+1984—Pub. L. 98–366 inserted “and the North Slope Borough” after “Alaska Natives”, struck out “and”after “responsibilities under this Act,” and inserted “, and (4) grant rights-of-way to the North Slope Borough, under the provisions of title V of the Federal Land Policy and Management Act of 1976 or section 28 of the Mineral Leasing Act, as amended, as may be necessary to permit the North Slope Borough to provide energy supplies to the villages on the North Slope”.
 

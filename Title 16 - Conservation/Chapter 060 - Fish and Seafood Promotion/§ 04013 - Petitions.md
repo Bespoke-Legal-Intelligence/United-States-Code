@@ -14,7 +14,7 @@ Any person subject to assessment under section 4012 of this title may file a wri
 
 #### (b) Form of petition
 
-Any such petition shall be in writing and filed within the period prescribed by the Secretary. Aperson who files a petition under this section shall be given an opportunity for a hearing regarding the petition in accordance with regulations issued by the Secretary. After such a hearing, or if no hearing is requested, after consideration of all documentation and other evidence, the Secretary shall make a ruling upon such petition.
+Any such petition shall be in writing and filed within the period prescribed by the Secretary. A person who files a petition under this section shall be given an opportunity for a hearing regarding the petition in accordance with regulations issued by the Secretary. After such a hearing, or if no hearing is requested, after consideration of all documentation and other evidence, the Secretary shall make a ruling upon such petition.
 
 (Pub. L. 99–659, title II, §214, Nov. 14, 1986, 100 Stat. 3728.)
 

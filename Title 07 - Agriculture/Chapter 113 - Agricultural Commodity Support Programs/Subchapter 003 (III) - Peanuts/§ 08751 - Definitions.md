@@ -34,7 +34,7 @@ In this subchapter:
 
 #### (6) Payment yield
 
-&emsp;The term “payment yield” means the yield established for direct payments and the yieldestablished for counter-cyclical payments under section 7952 of this title, as in effect on September 30, 2007, for a farm for peanuts.
+&emsp;The term “payment yield” means the yield established for direct payments and the yield established for counter-cyclical payments under section 7952 of this title, as in effect on September 30, 2007, for a farm for peanuts.
 
 #### (7) Producer
 

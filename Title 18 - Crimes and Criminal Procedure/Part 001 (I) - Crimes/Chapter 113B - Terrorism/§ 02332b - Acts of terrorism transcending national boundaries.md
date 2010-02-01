@@ -8,7 +8,7 @@ Prohibited Acts.—
 
 Offenses.—Whoever, involving conduct transcending national boundaries and in a circumstance described in subsection (b)—
 
-&emsp;&emsp;(A) kills, kidnaps, maims, commits an assault resulting in serious bodily injury, or assaults with a dangerous weapon any person within the United States; or
+&emsp;&emsp;(A) kills, kidnaps, maims, commits an assault resulting in serious bodily injury, orassaults with a dangerous weapon any person within the United States; or
 
 &emsp;&emsp;(B) creates a substantial risk of serious bodily injury to any other person by destroying or damaging any structure, conveyance, or other real or personal property within the United States or by attempting or conspiring to destroy or damage any structure, conveyance, or other real or personal property within the United States;
 
@@ -66,7 +66,7 @@ Penalties.—Whoever violates this section shall be punished—
 
 &emsp;(2)
 
-Consecutive sentence.—Notwithstanding any other provision of law, the court shall not place on probation any person convicted of a violation of this section; nor shall the termof imprisonment imposed under this section run concurrently with any other term of imprisonment.
+Consecutive sentence.—Notwithstanding any other provision of law, the court shall not place on probation any person convicted of a violation of this section; nor shall the term of imprisonment imposed under this section run concurrently with any other term of imprisonment.
 
 (d)
 
@@ -114,7 +114,7 @@ Definitions.—As used in this section—
 
 &emsp;&emsp;&emsp;(ii) sections 92 (relating to prohibitions governing atomic weapons) or 236 (relating to sabotage of nuclear facilities or fuel) of the Atomic Energy Act of 1954 (42 U.S.C. 2122 or 2284);
 
-&emsp;&emsp;&emsp;(iii) section 46502 (relating to aircraft piracy), the second sentence of section 46504\(relating to assault on a flight crew with a dangerous weapon), section 46505(b)(3) or (c) (relating to explosive or incendiary devices, or endangerment of human life by means of weapons, on aircraft), section 46506 if homicide or attempted homicide is involved (relating to application of certain criminal laws to acts on aircraft), or section 60123(b) (relating to destruction of interstate gas or hazardous liquid pipeline facility) of title 49; or
+&emsp;&emsp;&emsp;(iii) section 46502 (relating to aircraft piracy), the second sentence of section 46504 (relating to assault on a flight crew with a dangerous weapon), section 46505(b)(3) or (c) (relating to explosive or incendiary devices, or endangerment of human life by means of weapons, on aircraft), section 46506 if homicide or attempted homicide is involved (relating to application of certain criminal laws to acts on aircraft), or section 60123(b) (relating to destruction of interstate gas or hazardous liquid pipeline facility) of title 49; or
 
 &emsp;&emsp;&emsp;(iv) section 1010A of the Controlled Substances Import and Export Act (relating to narco-terrorism).
 

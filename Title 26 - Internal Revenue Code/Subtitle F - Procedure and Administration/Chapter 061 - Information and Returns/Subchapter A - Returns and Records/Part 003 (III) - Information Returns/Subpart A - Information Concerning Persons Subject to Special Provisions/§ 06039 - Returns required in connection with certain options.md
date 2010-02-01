@@ -28,7 +28,7 @@ For purposes of this section—
 
 #### (3) Identification of stock
 
-&emsp;Any corporation which transfers any share of stock pursuant to the exercise of any optiondescribed in subsection (a)(2) shall identify such stock in a manner adequate to carry out the purposes of this section.
+&emsp;Any corporation which transfers any share of stock pursuant to the exercise of any option described in subsection (a)(2) shall identify such stock in a manner adequate to carry out the purposes of this section.
 
 #### (d) Cross references
 
@@ -74,7 +74,7 @@ Subsec. (b)(1). Pub. L. 97–34, §251(b)(5)(B), inserted “incentive stock opt
 
 Subsec. (c)(4). Pub. L. 97–34, §251(b)(5)(C), added par. (4).
 
-1979—Subsec. (a). Pub. L. 96–167 substituted “Furnishing of information” for “Requirement of reporting” in heading, and in closing par. substituted provisions relating to the furnishing, on or before Jan. 31 of the following calendar year, a written statement in such manner and setting forth such information, as prescribed by regulation for provisions prescribing the making of a return at such time and in such manner as prescribed by regulation, determining qualified stock options, restricted stock options or options granted under an employee stock purchase plan to be options under the provisions of this section, and restricting the necessity of a return only to the first transfer of such share.
+1979—Subsec. (a). Pub. L. 96–167 substituted “Furnishing of information” for “Requirement of reporting” in heading, and in closing par. substituted provisions relating to the furnishing, on or before Jan. 31 of the following calendar year, a written statement in such manner and setting forth such information, as prescribedby regulation for provisions prescribing the making of a return at such time and in such manner as prescribed by regulation, determining qualified stock options, restricted stock options or options granted under an employee stock purchase plan to be options under the provisions of this section, and restricting the necessity of a return only to the first transfer of such share.
 
 Subsec. (b). Pub. L. 96–167 added subsec. (b). Former subsec. (b), requiring every corporation making a return to furnish each person named in the return a written statement setting forth such information as prescribed by regulation, and requiring such statement to be furnished before January 31 of the year following the calendar year for which the return was made, was struck out.
 

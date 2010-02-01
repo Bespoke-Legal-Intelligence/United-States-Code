@@ -30,7 +30,7 @@ For exception of functions of corporations of Department of Agriculture from tra
 
 #### Sales Manager
 
-Pub. L. 87–367, title I, §103(11), Oct. 4, 1961, 75 Stat. 789, repealed such part of section 101 of act Aug. 4, 1955, ch. 451, Ch. I, 69 Stat. 451, which authorized the position of sales manager in the Commodity Credit Corporation to be placed in grade 17 of the General Schedule of the Classification Act of 1949. See section 5332 of Title 5, Government Organization and Employees.
+Pub. L. 87–367, title I, §103(11), Oct. 4, 1961, 75 Stat. 789, repealed such part of section 101 of act Aug. 4, 1955,ch. 451, Ch. I, 69 Stat. 451, which authorized the position of sales manager in the Commodity Credit Corporation to be placed in grade 17 of the General Schedule of the Classification Act of 1949. See section 5332 of Title 5, Government Organization and Employees.
 
 Positions existing prior to Oct. 4, 1961, compensation thereof and appointments thereto unaffected by changes made by Pub. L. 87–367 and positions in grades 16, 17 and 18 of the General Schedule of the Classification Act of 1949 prior to Oct. 4, 1961, to remain in respective grades, until appropriate action is taken under title I of Pub. L. 87–367 and section 5108 of Title 5, see section 104 of Pub. L. 87–367.
 

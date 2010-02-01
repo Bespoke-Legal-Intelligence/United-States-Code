@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Using funds made available under section 2852(b)(1)(A) of this title, the Secretary shall make grants to eligible local boards and eligible entities described in subsection (d) of this section to provide activities described in subsection (b) of this section for youth to increase the long-term employment of youth who live in empowerment zones, enterprise communities, and high poverty areas and who seek assistance.
+&emsp;Using funds made available under section 2852(b)(1)(A) of this title, the Secretary shallmake grants to eligible local boards and eligible entities described in subsection (d) of this section to provide activities described in subsection (b) of this section for youth to increase the long-term employment of youth who live in empowerment zones, enterprise communities, and high poverty areas and who seek assistance.
 
 #### (2) Definition
 

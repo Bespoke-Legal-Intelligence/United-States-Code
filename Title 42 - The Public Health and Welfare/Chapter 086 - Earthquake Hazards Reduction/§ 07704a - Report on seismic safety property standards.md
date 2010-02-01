@@ -10,7 +10,7 @@ The standards shall be designed to reduce the risk of loss of life to building o
 
 #### (c) Consultation
 
-In carrying out this section, the Secretary shall consult with the Administrator of the Federal Emergency Management Agency and may utilize the resources under the National Earthquake Hazards Reduction Program (established under the Earthquake Hazards Reduction Act of 1977 \[42 U.S.C. 7701 et seq.\]) and any other resources as may be required to carry out the activities under this section.
+In carrying out this section, the Secretary shall consult with the Administrator of the Federal Emergency Management Agency and mayutilize the resources under the National Earthquake Hazards Reduction Program (established under the Earthquake Hazards Reduction Act of 1977 \[42 U.S.C. 7701 et seq.\]) and any other resources as may be required to carry out the activities under this section.
 
 (Pub. L. 101–625, title IX, §947, Nov. 28, 1990, 104 Stat. 4416; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 

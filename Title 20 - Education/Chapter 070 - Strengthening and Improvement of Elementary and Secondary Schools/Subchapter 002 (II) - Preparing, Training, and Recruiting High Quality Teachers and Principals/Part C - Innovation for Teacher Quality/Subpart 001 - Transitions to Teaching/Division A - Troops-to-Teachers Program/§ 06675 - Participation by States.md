@@ -8,7 +8,7 @@ The Secretary may permit States participating in the Program to carry out activi
 
 #### (1) Grants authorized
 
-&emsp;Subject to paragraph (2), the Secretary may make grants to States participating in the Program, or to consortia of such States, in order to permit such States or consortia of States to operate offices for purposes of recruiting eligible members of the Armed Forces for participation in the Program and facilitating the employment of participants in the Program as elementary school teachers, secondary school teachers, and vocational or technical teachers.
+&emsp;Subject to paragraph (2), the Secretary may make grants to States participating in theProgram, or to consortia of such States, in order to permit such States or consortia of States to operate offices for purposes of recruiting eligible members of the Armed Forces for participation in the Program and facilitating the employment of participants in the Program as elementary school teachers, secondary school teachers, and vocational or technical teachers.
 
 #### (2) Limitation
 

@@ -40,6 +40,10 @@ The annual credit determined under section 54A(b) with respect to any new clean 
 
 &emsp;&emsp;The Secretary shall make allocations of the amount of the national new clean renewable energy bond limitation described in paragraphs (2)(B) and (2)(C) among qualified projects of governmental bodies and cooperative electric companies, respectively, in such manner as the Secretary determines appropriate.
 
+#### (4) Additional limitation
+
+&emsp;The national new clean renewable energy bond limitation shall be increased by $1,600,000,000. Such increase shall be allocated by the Secretary consistent with the rules of paragraphs (2) and (3).
+
 #### (d) Definitions
 
 For purposes of this section—
@@ -68,7 +72,7 @@ For purposes of this section—
 
 &emsp;The term “qualified issuer” means a public power provider, a cooperative electric company, a governmental body, a clean renewable energy bond lender, or a not-for-profit electric utility which has received a loan or loan guarantee under the Rural Electrification Act.
 
-(Added Pub. L. 110–343, div. B, title I, §107(a), Oct. 3, 2008, 122 Stat. 3817.)
+(Added Pub. L. 110–343, div. B, title I, §107(a), Oct. 3, 2008, 122 Stat. 3817; amended Pub. L. 111–5, div. B, title I, §1111, Feb. 17, 2009, 123 Stat. 322.)
 
 #### References in Text
 
@@ -78,7 +82,25 @@ The date of the enactment of this paragraph, referred to in subsec. (d)(2), is t
 
 The Rural Electrification Act, referred to in subsec. (d)(6), probably means the Rural Electrification Act of 1936, act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
 
+#### Amendments
+
+2009—Subsec. (c)(4). Pub. L. 111–5 added par. (4).
+
 #### Effective Date
 
 Section applicable to obligations issued after Oct. 3, 2008, see section 107(d) of Pub. L. 110–343, set out as an Effective Date of 2008 Amendment note under section 54 of this title.
+
+#### Application of Certain Labor Standards to Projects Financed With Certain Tax-Favored Bonds
+
+Pub. L. 111–5, div. B, title I, §1601, Feb. 17, 2009, 123 Stat. 362, provided that: “Subchapter IV of chapter 31 of the \[sic\] title 40, United States Code, shall apply to projects financed with the proceeds of—
+
+&emsp;“(1) any new clean renewable energy bond (as defined in section 54C of the Internal Revenue Code of 1986) issued after the date of the enactment of this Act \[Feb. 17, 2009\],
+
+&emsp;“(2) any qualified energy conservation bond (as defined in section 54D of the Internal Revenue Code of 1986) issued after the date of the enactment of this Act,
+
+&emsp;“(3) any qualified zone academy bond (as defined in section 54E of the Internal Revenue Code of 1986) issued after the date of the enactment of this Act,
+
+&emsp;“(4) any qualified school construction bond (as defined in section 54F of the Internal Revenue Code of 1986), and
+
+&emsp;“(5) any recovery zone economic development bond (as defined in section 1400U–2 of the Internal Revenue Code of 1986).”
 

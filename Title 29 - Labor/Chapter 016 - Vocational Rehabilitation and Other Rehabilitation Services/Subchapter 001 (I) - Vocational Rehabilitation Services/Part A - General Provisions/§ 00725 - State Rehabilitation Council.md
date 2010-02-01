@@ -94,7 +94,7 @@
 
 #### (3) Appointment
 
-&emsp;Members of the Council shall be appointed by the Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity. The appointing authority shall select members after soliciting recommendations from representatives of organizations representing a broad range of individuals with disabilities and organizations interested in individuals with disabilities. In selecting members, the appointing authority shall consider, to the greatest extent practicable, the extent to which minority populations are represented on the Council.
+&emsp;Members of the Council shall be appointed by the Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity. The appointing authority shall select members after soliciting recommendations from representatives of organizations representing a broad range of individuals with disabilities and organizations interested in individuals with disabilities. In selecting members, the appointing authorityshall consider, to the greatest extent practicable, the extent to which minority populations are represented on the Council.
 
 #### (4) Qualifications
 
@@ -178,7 +178,7 @@ The Council shall, after consulting with the State workforce investment board—
 
 &emsp;(5) prepare and submit an annual report to the Governor and the Commissioner on the status of vocational rehabilitation programs operated within the State, and make the report available to the public;
 
-&emsp;(6) to avoid duplication of efforts and enhance the number of individuals served, coordinate activities with the activities of other councils within the State, including the Statewide Independent Living Council established under section 796d of this title, the advisory panel established under section 612(a)(20) of the Individuals with Disabilities Education Act \[20 U.S.C. 1412(a)(20)\], the State Council on Developmental Disabilities established under section 15025 of title 42, the State mental health planning council established under section 300x–3(a) of title 42, and the State workforce investment board;
+&emsp;(6) to avoid duplication of efforts and enhance the number of individuals served, coordinate activities with the activities of other councils within the State, including the Statewide Independent Living Council established under section 796d of this title, the advisory panel established under section 612(a)(20) of the Individuals with Disabilities Education Act \[20 U.S.C. 1412(a)(20)\], the State Council on Developmental Disabilities established under section 15025 of title 42, the State mentalhealth planning council established under section 300x–3(a) of title 42, and the State workforce investment board;
 
 &emsp;(7) provide for coordination and the establishment of working relationships between the designated State agency and the Statewide Independent Living Council and centers for independent living within the State; and
 
@@ -236,7 +236,7 @@ Subsec. (c)(6). Pub. L. 108–446, §305(h)(3), substituted “section 612(a)(20
 
 2000—Subsec. (c)(6). Pub. L. 106–402 substituted “the State Council on Developmental Disabilities established under section 15025 of title 42” for “the State Developmental Disabilities Council described in section 6024 of title 42”.
 
-1998—Subsec. (b)(3). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(A)\], substituted “Governor or, in the case ofa State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity” for “Governor” in first sentence and “appointing authority” for “Governor” in second and third sentences.
+1998—Subsec. (b)(3). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(A)\], substituted “Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity” for “Governor” in first sentence and “appointing authority” for “Governor” in second and third sentences.
 
 Subsec. (b)(4)(A)(i). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(B)\], substituted “section 705(20)(B)” for “section 705(20)(A)”.
 

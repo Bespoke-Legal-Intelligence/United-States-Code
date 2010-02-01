@@ -8,7 +8,7 @@ Whoever makes, or knowingly uses or sells, or possesses with intent to use or se
 
 Whoever makes or prints, or authorizes to be made or printed, any postage stamp, postage meter stamp, stamped envelope, or postal card, of the kind authorized and provided by the Post Office Department or by the Postal Service, without the special authority and direction of the Department or Postal Service; or
 
-Whoever after such postage stamp, postage meter stamp, stamped envelope, or postal card has been printed, with intent to defraud, delivers the same to any person not authorized by aninstrument in writing, duly executed under the hand of the Postmaster General and the seal of the Post Office Department or the Postal Service, to receive it—
+Whoever after such postage stamp, postage meter stamp, stamped envelope, or postal card has been printed, with intent to defraud, delivers the same to any person not authorized by an instrument in writing, duly executed under the hand of the Postmaster General and the seal of the Post Office Department or the Postal Service, to receive it—
 
 Shall be fined under this title or imprisoned not more than five years, or both.
 

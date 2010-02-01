@@ -56,7 +56,7 @@ The practices and procedures specifically enumerated in this subsection shall be
 
 &emsp;&emsp;(B) to natural fruit wine (other than grape or berry) of the winemaker's own production, of volatile fruit-flavor concentrate produced from the same kind of fruit at such a plant,
 
-> &emsp;so long as the proportion of the volatile fruit-flavor concentrate to the wine does not exceed the proportion of the volatile fruit-flavor concentrate to the original juice or must from which it was produced. The transfer of volatile fruit-flavor concentrate from a plant qualified under section 5511 to a bonded wine cellar and its storage and use in such a cellar shall be under such applications and bonds, and under such other requirements, as may be provided in regulations prescribed by the Secretary.
+> &emsp;so long as the proportion of the volatile fruit-flavor concentrate to the wine does not exceedthe proportion of the volatile fruit-flavor concentrate to the original juice or must from which it was produced. The transfer of volatile fruit-flavor concentrate from a plant qualified under section 5511 to a bonded wine cellar and its storage and use in such a cellar shall be under such applications and bonds, and under such other requirements, as may be provided in regulations prescribed by the Secretary.
 
 #### (c) Other authorized treatment
 
@@ -80,7 +80,7 @@ A prior section 5382, act Aug. 16, 1954, ch. 736, 68A Stat. 668, consisted of pr
 
 2006—Subsec. (a)(1)(A). Pub. L. 109–432 substituted “correct or stabilize” for “stabilize”.
 
-2004—Subsec. (a). Pub. L. 108–429 amended heading and text of subsec. (a) generally. Prior to amendment text read as follows: “Proper cellar treatment of natural wine constitutes those practices and procedures in the United States and elsewhere, whether historical or newly developed, of using various methods and materials to correct or stabilize the wine, or the fruit juice from which it is made, so as to produce a finished product acceptable in good commercial practice. Where a particular treatment has been used in customary commercial practice, it shall continue to be recognized asa proper cellar treatment in the absence of regulations prescribed by the Secretary finding such treatment not to be a proper cellar treatment within the meaning of this subsection.”
+2004—Subsec. (a). Pub. L. 108–429 amended heading and text of subsec. (a) generally. Prior to amendment text read as follows: “Proper cellar treatment of natural wine constitutes those practices and procedures in the United States and elsewhere, whether historical or newly developed, of using various methods and materials to correct or stabilize the wine, or the fruit juice from which it is made, so as to produce a finished product acceptable in good commercial practice. Where a particular treatment has been used in customary commercial practice, it shall continue to be recognized as a proper cellar treatment in the absence of regulations prescribed by the Secretary finding such treatment not to be a proper cellar treatment within the meaning of this subsection.”
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 

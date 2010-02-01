@@ -158,6 +158,8 @@
 | 539m–10. | Judicial review. |
 | 539m–11. | Provisions relating to contributions and land exchange. |
 | 539m–12. | Authorization of appropriations. |
+| [539n.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539n%20-%20Crystal%20Springs%20Watershed%20Special%20Resources%20Management%20Unit.md) | Crystal Springs Watershed Special Resources Management Unit. |
+| 539<i>o.</i> | Ancient Bristlecone Pine Forest. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -215,6 +217,8 @@
 | 546a–3. | Minerals. |
 | 546a–4. | Acquisition. |
 | 546a–5. | Authorization of appropriations. |
+| [546b.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000546b%20-%20Seng%20Mountain%20and%20Bear%20Creek%20Scenic%20Areas%2C%20Jefferson%20National%20Forest%2C%20Virginia.md) | Seng Mountain and Bear Creek Scenic Areas, Jefferson National Forest, Virginia. |
+| 546b–1. | Maps and boundary descriptions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

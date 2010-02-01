@@ -10,7 +10,7 @@ In providing assistance under this part for the government of any independent st
 
 &emsp;(3) respect internationally recognized human rights, including the rights of minorities and the rights to freedom of religion and emigration;
 
-&emsp;(4) respect international law and obligations and adhere to the Helsinki Final Act of theConference on Security and Cooperation in Europe and the Charter of Paris, including the obligations to refrain from the threat or use of force and to settle disputes peacefully;
+&emsp;(4) respect international law and obligations and adhere to the Helsinki Final Act of the Conference on Security and Cooperation in Europe and the Charter of Paris, including the obligations to refrain from the threat or use of force and to settle disputes peacefully;
 
 &emsp;(5) cooperate in seeking peaceful resolution of ethnic and regional conflicts;
 
@@ -40,7 +40,7 @@ The President shall not provide assistance under this part—
 
 &emsp;(1) for the government of any independent state that the President determines is engaged in a consistent pattern of gross violations of internationally recognized human rights or of international law;
 
-&emsp;(2) for the government of any independent state that the President determines has failed to take constructive actions to facilitate the effective implementation of applicable arms control obligations derived from agreements signed by the former Soviet Union;
+&emsp;(2) for the government of any independent state that the President determines has failedto take constructive actions to facilitate the effective implementation of applicable arms control obligations derived from agreements signed by the former Soviet Union;
 
 &emsp;(3) for the government of any independent state that the President determines has, on or after October 24, 1992, knowingly transferred to another country—
 
@@ -102,7 +102,7 @@ Assistance prohibited by subsection (b) of this section or any similar provision
 
 &emsp;&emsp;(G) assistance for the purposes described in the Cooperative Threat Reduction Act of 1993 (title XII of Public Law 103–160) \[22 U.S.C. 5951 et seq.\].
 
-(Pub. L. 87–195, pt. I, §498A, as added Pub. L. 102–511, title II, §201, Oct. 24, 1992, 106 Stat. 3326; amended Pub. L. 103–236, title VIII, §826(c), Apr. 30, 1994, 108 Stat. 519; Pub. L. 104–114, title I, §106(b), (c)(1), (3), (d)(2), Mar. 12, 1996, 110 Stat. 795–797.)
+(Pub. L. 87–195, pt. I, §498A, as added Pub. L. 102–511, title II, §201, Oct. 24, 1992, 106 Stat. 3326;amended Pub. L. 103–236, title VIII, §826(c), Apr. 30, 1994, 108 Stat. 519; Pub. L. 104–114, title I, §106(b), (c)(1), (3), (d)(2), Mar. 12, 1996, 110 Stat. 795–797.)
 
 #### References in Text
 

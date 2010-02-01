@@ -62,7 +62,7 @@ If the S corporation establishes to the satisfaction of the Secretary that—
 
 > the Secretary may waive the tax imposed by subsection (a) for such taxable year.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1684; amended Pub. L. 98–369, div. A, title IV, §474(r)(28), title VII, §721(v), July 18, 1984, 98 Stat. 844, 971; Pub. L. 99–514, title VI, §632(c)(3), Oct. 22, 1986, 100 Stat. 2277; Pub. L. 100–647, title I, §1006(f)(5)(B)–(D), Nov. 10, 1988, 102 Stat. 3406; Pub. L. 104–188, title I, §1311(b)(2)(A)–(C), Aug. 20, 1996, 110 Stat. 1784; Pub. L. 109–135, title IV, §412(qq), Dec. 21, 2005, 119 Stat. 2640.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1684; amended Pub. L. 98–369, div. A, title IV,§474(r)(28), title VII, §721(v), July 18, 1984, 98 Stat. 844, 971; Pub. L. 99–514, title VI, §632(c)(3), Oct. 22, 1986, 100 Stat. 2277; Pub. L. 100–647, title I, §1006(f)(5)(B)–(D), Nov. 10, 1988, 102 Stat. 3406; Pub. L. 104–188, title I, §1311(b)(2)(A)–(C), Aug. 20, 1996, 110 Stat. 1784; Pub. L. 109–135, title IV, §412(qq), Dec. 21, 2005, 119 Stat. 2640.)
 
 #### Prior Provisions
 
@@ -82,7 +82,7 @@ Subsec. (b)(3). Pub. L. 104–188, §1311(b)(2)(B), amended par. (3) generally. 
 
 “(3)
 
-Passive investment income; etc.—The terms ‘subchapter C earnings and profits’, ‘passive investmentincome’, and ‘gross receipts’ shall have the same respective meanings as when used in paragraph (3) of section 1362(d).”
+Passive investment income; etc.—The terms ‘subchapter C earnings and profits’, ‘passive investment income’, and ‘gross receipts’ shall have the same respective meanings as when used in paragraph (3) of section 1362(d).”
 
 1988—Subsec. (b)(1)(B). Pub. L. 100–647, §1006(f)(5)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The amount of the excess net passive income for any taxable year shall not exceed the corporation's taxable income for the taxable year (determined in accordance with section 1374(d)(4)).”
 

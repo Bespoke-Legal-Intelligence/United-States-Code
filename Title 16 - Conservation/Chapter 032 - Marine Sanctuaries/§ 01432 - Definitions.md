@@ -42,7 +42,7 @@ As used in this chapter, the term—
 
 #### References in Text
 
-Section 1434(a)(1)(C) of this title, referred to in par. (1), was amended generally by Pub. L. 106–513, §6(a), Nov. 13, 2000, 114 Stat. 2383, and, as so amended, no longer contains a cl. (v).
+Section 1434(a)(1)(C) of this title, referred to in par. (1), was amended generally by Pub. L. 106–513, §6(a),Nov. 13, 2000, 114 Stat. 2383, and, as so amended, no longer contains a cl. (v).
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
@@ -98,7 +98,7 @@ Section 210 of title II of Pub. L. 100–627 provided that: “Not later than on
 
 #### Additional Definitions
 
-Section 3 of Pub. L. 92–532, which is classified to section 1402 of Title 33, Navigation and Navigable Waters, defines for purposes of this chapter the terms “Administrator”, “Ocean waters”, “Material”, “United States”, “Person”, “Dumping”, “District Court of theUnited States”, “Dredged material”, “High-level radioactive waste”, and “Transport” or “Transportation”.
+Section 3 of Pub. L. 92–532, which is classified to section 1402 of Title 33, Navigation and Navigable Waters, defines for purposes of this chapter the terms “Administrator”, “Ocean waters”, “Material”, “United States”, “Person”, “Dumping”, “District Court of the United States”, “Dredged material”, “High-level radioactive waste”, and “Transport” or “Transportation”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,6 +1,6 @@
 ### §501. Training generally
 
-(a) The discipline, including training, of the Army National Guard shall conform to that ofthe Army. The discipline, including training, of the Air National Guard shall conform to that of the Air Force.
+(a) The discipline, including training, of the Army National Guard shall conform to that of the Army. The discipline, including training, of the Air National Guard shall conform to that of the Air Force.
 
 (b) The training of the National Guard shall be conducted by the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands in conformity with this title.
 
@@ -108,7 +108,7 @@ Pub. L. 104–106, div. A, title V, §573, Feb. 10, 1996, 110 Stat. 355, provide
 
 “(a)
 
-Termination.—The authority under subsection (a) of section 1091 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 32 U.S.C. 501 note) to carry out a pilot program under thatsection is hereby continued through the end of the 18-month period beginning on the date of the enactment of this Act \[Feb. 10, 1996\] and such authority shall terminate as of the end of that period.
+Termination.—The authority under subsection (a) of section 1091 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 32 U.S.C. 501 note) to carry out a pilot program under that section is hereby continued through the end of the 18-month period beginning on the date of the enactment of this Act \[Feb. 10, 1996\] and such authority shall terminate as of the end of that period.
 
 “(b)
 
@@ -192,7 +192,7 @@ Equipment and Facilities.—(1) Equipment and facilities of the National Guard, 
 
 “(i)
 
-Status of Participants.—(1) A person receiving training under the pilot program shall be considered an employee of the United States for the purposes of the following provisions of law:
+Status of Participants.—(1) A person receiving training under the pilot program shall be considered anemployee of the United States for the purposes of the following provisions of law:
 
 &emsp;“(A) Subchapter I of chapter 81 of title 5, United States Code (relating to compensation of Federal employees for work injuries).
 
@@ -200,7 +200,7 @@ Status of Participants.—(1) A person receiving training under the pilot progra
 
 “(2) In the application of the provisions of law referred to in paragraph (1)(A) to a person referred to in paragraph (1)—
 
-&emsp;“(A) the person shall not be considered to be in the performance of duty while the person is not at the assigned location of training or other activity or duty authorized in accordance with a program agreementreferred to in subsection (d), except when the person is traveling to or from that location or is on pass from that training or other activity or duty;
+&emsp;“(A) the person shall not be considered to be in the performance of duty while the person is not at the assigned location of training or other activity or duty authorized in accordance with a program agreement referred to in subsection (d), except when the person is traveling to or from that location or is on pass from that training or other activity or duty;
 
 &emsp;“(B) the person's monthly rate of pay shall be deemed to be the minimum rate of pay provided for grade GS–2 of the General Schedule under section 5332 of title 5, United States Code; and
 

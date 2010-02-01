@@ -10,7 +10,7 @@ The Office of Personnel Management may prescribe regulations permitting employee
 
 #### Prior Provisions
 
-A prior section 7325, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 526; Pub. L. 96–54, §2(a)(44), Aug. 14, 1979, 93 Stat. 384, related to penalties, prior to the general revision of this subchapter by Pub. L. 103–94.
+A prior section 7325, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 526; Pub. L. 96–54, §2(a)(44), Aug. 14, 1979, 93 Stat.384, related to penalties, prior to the general revision of this subchapter by Pub. L. 103–94.
 
 #### Amendments
 

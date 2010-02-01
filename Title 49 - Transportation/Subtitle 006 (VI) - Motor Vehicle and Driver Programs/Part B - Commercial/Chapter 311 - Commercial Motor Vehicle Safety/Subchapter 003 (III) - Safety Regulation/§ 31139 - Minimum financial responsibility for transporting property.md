@@ -30,7 +30,7 @@ General Requirement and Minimum Amount.—(1) The Secretary of Transportation sh
 
 (c)
 
-Filing of Evidence of Financial Responsibility.—The Secretary may require a motor private carrier (as defined in section 13102) to file with the Secretary the evidence of financial responsibility specified in subsection (b) in an amount not less than the greater of the minimum amount required by this section or the amount required for such motor private carrier to transport property under the laws of the State or States in which the motor private carrier is operating; except that the amount of the financial responsibility must be sufficient to pay not more than the amount of the financial responsibility for each final judgment against the motor private carrier for bodily injury to, or death of, an individual resulting from negligent operation, maintenance, or use of the motor vehicle, or for loss or damage to property, or both.
+Filing of Evidence of Financial Responsibility.—The Secretary may require a motorprivate carrier (as defined in section 13102) to file with the Secretary the evidence of financial responsibility specified in subsection (b) in an amount not less than the greater of the minimum amount required by this section or the amount required for such motor private carrier to transport property under the laws of the State or States in which the motor private carrier is operating; except that the amount of the financial responsibility must be sufficient to pay not more than the amount of the financial responsibility for each final judgment against the motor private carrier for bodily injury to, or death of, an individual resulting from negligent operation, maintenance, or use of the motor vehicle, or for loss or damage to property, or both.
 
 (d)
 
@@ -100,7 +100,7 @@ Civil Penalty.—(1) If, after notice and an opportunity for a hearing, the Secr
 
 (4) The Attorney General shall bring a civil action in an appropriate district court of the United States to collect a penalty referred to the Attorney General for collection under this subsection.
 
-(5) The amount of the penalty may be deducted from amounts the Government owes the person. An amount collected under this section shall be deposited in the Highway Trust Fund (other than the Mass Transit Account).
+(5) The amount of the penalty may be deducted from amounts the Government owes theperson. An amount collected under this section shall be deposited in the Highway Trust Fund (other than the Mass Transit Account).
 
 (h)
 

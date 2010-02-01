@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 June 28, 1950, ch. 383, §2(a), 64 Stat. 263.
 
-The words “Army of the United States” and “are synonymous and” are omitted as surplusage, since the term “Army” is used throughout the revised title. 5:181–3(a) (last sentence) and 10:1a(a) (last sentence) are omitted as surplusage.
+The words “Army of the United States” and “are synonymous and” are omitted as surplusage, since theterm “Army” is used throughout the revised title. 5:181–3(a) (last sentence) and 10:1a(a) (last sentence) are omitted as surplusage.
 
 #### Amendments
 

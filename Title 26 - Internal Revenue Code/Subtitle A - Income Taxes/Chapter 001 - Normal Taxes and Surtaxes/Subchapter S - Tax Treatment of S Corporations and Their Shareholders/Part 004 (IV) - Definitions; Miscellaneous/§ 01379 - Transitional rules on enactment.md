@@ -52,5 +52,5 @@ Section applicable to taxable years beginning after Dec. 31, 1983, except that t
 
 #### Coordination of Repeals of Certain Sections
 
-Subsec. (b) of this section as in effect on day before Sept. 3, 1982, inapplicable to any section 401(j) plan, seesection 713(d)(8) of Pub. L. 98–369, set out as a note under section 404 of this title.
+Subsec. (b) of this section as in effect on day before Sept. 3, 1982, inapplicable to any section 401(j) plan, see section 713(d)(8) of Pub. L. 98–369, set out as a note under section 404 of this title.
 

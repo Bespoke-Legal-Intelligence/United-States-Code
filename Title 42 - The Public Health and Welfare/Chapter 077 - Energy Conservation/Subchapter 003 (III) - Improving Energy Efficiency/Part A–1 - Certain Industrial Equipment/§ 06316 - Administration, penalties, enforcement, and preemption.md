@@ -14,7 +14,7 @@
 
 &emsp;(6) section 6297(b)(1) of this title shall be applied as if electric motors were fluorescent lamp ballasts and as if the National Appliance Energy Conservation Amendments of 1988 were the Energy Policy Act of 1992;
 
-&emsp;(7) section 6297(b)(4) of this title shall be applied as if electric motors were fluorescent lamp ballasts and as if paragraph (5) of section 6295(g) of this title were section 6313 of this title;
+&emsp;(7) section 6297(b)(4) of this title shall be applied as if electric motors were fluorescentlamp ballasts and as if paragraph (5) of section 6295(g) of this title were section 6313 of this title;
 
 &emsp;(8) notwithstanding any other provision of law, a regulation or other requirement adopted by a State or subdivision of a State contained in a State or local building code for new construction concerning the energy efficiency or energy use of an electric motor covered under this part is not superseded by the standards for such electric motor established or prescribed under section 6313(b) of this title if such regulation or requirement is identical to the standards established or prescribed under such section; and
 
@@ -30,7 +30,7 @@
 
 &emsp;(ii) the standard in the building code does not take effect prior to the effective date of the applicable minimum energy efficiency requirement in amended ASHRAE/IES Standard 90.1.
 
-(C) Notwithstanding subparagraph (A), a standard prescribed or established under section 6313(a) of this title shall not supersede the standards established by the State of Californiaset forth in Table C–6, California Code of Regulations, Title 24, Part 2, Chapter 2–53, for water-source heat pumps below 135,000 Btu per hour (cooling capacity) that become effective on January 1, 1993.
+(C) Notwithstanding subparagraph (A), a standard prescribed or established under section 6313(a) of this title shall not supersede the standards established by the State of California set forth in Table C–6, California Code of Regulations, Title 24, Part 2, Chapter 2–53, for water-source heat pumps below 135,000 Btu per hour (cooling capacity) that become effective on January 1, 1993.
 
 (D) Notwithstanding subparagraph (A), a standard prescribed or established under section 6313(a) of this title shall not supersede a State regulation which has been granted a waiver by the Secretary. The Secretary may grant a waiver pursuant to the terms, conditions, criteria, procedures, and other requirements specified in section 6297(d) of this title.
 
@@ -52,7 +52,7 @@
 
 (B) In applying section 6297 of this title in accordance with subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) of this section shall apply.
 
-(4)(A) If the Secretary does not issue a final rule for a specific type of commercial refrigerator, freezer, or refrigerator-freezer within the time frame specified in section 6313(c)(5) of this title, subsections (b) and (c) of section 6297 of this title shall not apply to that specific type of refrigerator, freezer, or refrigerator-freezer for the period beginning on the date that is 2 years after the scheduled date for a final rule and ending on the date on which the Secretary publishes a final rule covering the specific type of refrigerator, freezer, or refrigerator-freezer.
+(4)(A) If the Secretary does not issue a final rule for a specific type of commercial refrigerator, freezer, or refrigerator-freezer within the time frame specified in section 6313(c)(5) of this title, subsections (b) and (c) of section 6297 of this title shall not apply to that specific type of refrigerator, freezer, or refrigerator-freezer forthe period beginning on the date that is 2 years after the scheduled date for a final rule and ending on the date on which the Secretary publishes a final rule covering the specific type of refrigerator, freezer, or refrigerator-freezer.
 
 (B) Any State or local standard issued before the date of publication of the final rule shall not be preempted until the final rule takes effect.
 
@@ -74,7 +74,7 @@
 
 (B) In applying section 6297 of this title in accordance with subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) of this section shall apply.
 
-(3)(A) If the Secretary does not issue a final rule for a specific type of automatic commercial ice maker within the time frame specified in section 6313(d) of this title, subsections (b) and (c) of section 6297 of this title shall no longer apply to the specific type of automatic commercial ice maker for the period beginning on theday after the scheduled date for a final rule and ending on the date on which the Secretary publishes a final rule covering the specific type of automatic commercial ice maker.
+(3)(A) If the Secretary does not issue a final rule for a specific type of automatic commercial ice maker within the time frame specified in section 6313(d) of this title, subsections (b) and (c) of section 6297 of this title shall no longer apply to the specific type of automatic commercial ice maker for the period beginning on the day after the scheduled date for a final rule and ending on the date on which the Secretary publishes a final rule covering the specific type of automatic commercial ice maker.
 
 (B) Any State standard issued before the publication of the final rule shall not be preempted until the standards established in the final rule take effect.
 

@@ -42,7 +42,7 @@ Subsec. (a)(1)(G). Act June 30, 1953, §13(a), substituted in first sentence “
 
 Subsec. (a)(1)(E). Act July 14, 1952, §3(a)(2), (3), changed the base date from Apr. 30, 1948 to Feb. 29, 1952, and exempted defense or disaster mortgages from the limitation of this subparagraph.
 
-Subsec. (a)(1)(G). Act July 14, 1952, §3(a)(4), increased the FNMA commitment powers from $252,000,000 to$1,152,000,000 outstanding at any one time if the commitments relate to defense or disaster mortgages.
+Subsec. (a)(1)(G). Act July 14, 1952, §3(a)(4), increased the FNMA commitment powers from $252,000,000 to $1,152,000,000 outstanding at any one time if the commitments relate to defense or disaster mortgages.
 
 S.J. Res. Apr. 9, 1952, increased the $200,000,000 authorization to $252,000,000 and struck out Dec. 31, 1951, deadline, (1) with respect to programed defense housing for which applications were received prior to Dec. 28, 1951, and (2) with respect to subchapter VIII military housing if the commitment to insure the mortgage was issued after Dec. 27 and before Dec. 31, 1951.
 

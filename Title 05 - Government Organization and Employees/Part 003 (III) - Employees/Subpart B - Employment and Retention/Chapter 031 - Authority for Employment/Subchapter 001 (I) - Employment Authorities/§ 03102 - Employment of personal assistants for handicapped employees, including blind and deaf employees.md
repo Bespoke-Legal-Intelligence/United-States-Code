@@ -14,7 +14,7 @@
 
 &emsp;(3) “nonprofit organization” means an organization determined by the Secretary of the Treasury to be an organization described in section 501(c) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)) which is exempt from taxation under section 501(a) of such Code.
 
-(b)(1) The head of each agency may employ one or more personal assistants who the head of the agency determines are necessary to enable a handicapped employee of that agency to perform the employee's official duties and who shall serve without pay from the agency without regard to—
+(b)(1) The head of each agency may employ one or more personal assistants who the head of the agency determines are necessary to enable a handicapped employee of that agency to perform the employee's official duties and who shall serve without pay from the agency, without regard to—
 
 &emsp;(A) the provisions of this title governing appointment in the competitive service;
 

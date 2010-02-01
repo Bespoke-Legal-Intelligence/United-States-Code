@@ -420,13 +420,13 @@ Effect of Certain Delay in Deposits Into Highway Trust Fund.—Notwithstanding a
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (b)(2)(B), (C), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended. Subparts 1, 2, and 3 of part D of title I of the Act are classified to subparts 1 (§7501 et seq.), 2 (§7511 et seq.), and 3 (§7512 et seq.), respectively, of part D of subchapter I of chapter 85 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (b)(2)(B), (C), is act July 14, 1955, ch. 360, 69 Stat. 322. Subparts 1, 2, and 3 of part D of title I of the Act are classified to subparts 1 (§7501 et seq.), 2 (§7511 et seq.), and 3 (§7512 et seq.), respectively, of part D of subchapter I of chapter 85 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 The date of enactment of this clause, referred to in subsec. (d)(2)(B)(i), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
 Section 901(e) of the Taxpayer Relief Act of 1997, referred to in subsec. (<i>l</i>), is section 901(e) of Pub. L. 105–34, title IX, Aug. 5, 1997, 111 Stat. 872, which is set out as a note under section 6302 of Title 26, Internal Revenue Code.
 
-The Transportation Equity Act for the 21st Century, referred to in subsec. (<i>l</i>), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended. For complete classification of this Act to the Code, see section 1(a) of Pub. L. 105–178, set out as a Short Title of 1998 Amendment note under section 101 of this title and Tables.
+The Transportation Equity Act for the 21st Century, referred to in subsec. (<i>l</i>), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107. For complete classification of this Act to the Code, see section 1(a) of Pub. L. 105–178, set out as a Short Title of 1998 Amendment note under section 101 of this title and Tables.
 
 #### Codification
 
@@ -1676,13 +1676,13 @@ Similar provisions for prior fiscal years were contained in the following acts:
 
 Pub. L. 105–178, title I, §1102, June 9, 1998, 112 Stat. 115, as amended by Pub. L. 105–206, title IX, §9002(b), July 22, 1998, 112 Stat. 834; Pub. L. 106–159, title I, §103(b)(2), Dec. 9, 1999, 113 Stat. 1753.
 
-Pub. L. 110–161, div. K, title I, Dec. 26, 2007, 121 Stat. 2383, provided in part that: “None of the funds in this Act \[div. K of Pub. L. 110–161, see Tables for classification\] shall be available for the implementation or execution of programs, the obligations for which are in excess of $40,216,051,359 for Federal-aid highways and highway safety construction programs for fiscal year 2008”.
+Pub. L. 111–117, div. A, title I, Dec. 16, 2009, 123 Stat. 3044, provided in part that: “None of the funds in this Act \[div. A of Pub. L. 111–117, see Tables for classification\] shall be available for the implementation or execution of programs, the obligations for which are in excess of $41,107,000,000 for Federal-aid highways and highway safety construction programs for fiscal year 2010”.
 
-Pub. L. 110–161, div. K, title I, §120, Dec. 26, 2007, 121 Stat. 2385, provided that:
+Pub. L. 111–117, div. A, title I, §120, Dec. 16, 2009, 123 Stat. 3045, provided that:
 
-“(a) For fiscal year 2008, the Secretary of Transportation shall—
+“(a) For fiscal year 2010, the Secretary of Transportation shall—
 
-&emsp;“(1) not distribute from the obligation limitation for Federal-aid highways amounts authorized for administrative expenses and programs by section 104(a) of title 23, United States Code; programs funded from the administrative takedown authorized by section 104(a)(1) of title 23, United States Code (as in effect on the date before the date of enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users \[Aug. 10, 2005\]); the highway use tax evasion program; the programs, projects and activities funded by the set aside authorized by section 129 of this Act \[121 Stat. 2388\]; the Bureau of Transportation Statistics; and additional obligation limitation provided in this Act for the purpose of section 144(e) of title 23, United States Code;
+&emsp;“(1) not distribute from the obligation limitation for Federal-aid highways amounts authorized for administrative expenses and programs by section 104(a) of title 23, United States Code; programs funded from the administrative takedown authorized by section 104(a)(1) of title 23, United States Code (as in effect on the date before the date of enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users \[Aug. 10, 2005\]); the highway use tax evasion program; and the Bureau of Transportation Statistics;
 
 &emsp;“(2) not distribute an amount from the obligation limitation for Federal-aid highways that is equal to the unobligated balance of amounts made available from the Highway Trust Fund (other than the Mass Transit Account) for Federal-aid highways and highway safety programs for previous fiscal years the funds for which are allocated by the Secretary;
 
@@ -1692,7 +1692,7 @@ Pub. L. 110–161, div. K, title I, §120, Dec. 26, 2007, 121 Stat. 2385, provid
 
 &emsp;&emsp;“(B) the total of the sums authorized to be appropriated for Federal-aid highways and highway safety construction programs (other than sums authorized to be appropriated for provisions of law described in paragraphs (1) through (9) of subsection (b) and sums authorized to be appropriated for section 105 of title 23, United States Code, equal to the amount referred to in subsection (b)(10) for such fiscal year), less the aggregate of the amounts not distributed under paragraphs (1) and (2) of this subsection;
 
-&emsp;“(4)(A) distribute the obligation limitation for Federal-aid highways, less the aggregate amounts not distributed under paragraphs (1) and (2), for sections 1301 \[set out as a note under section 101 of this title\], 1302 \[set out as a note under section 101 of this title\], and 1934 \[119 Stat. 1485\] of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users \[Pub. L. 109–59\]; sections 117 (but individually for each project numbered 1 through 3676 listed in the table contained in section 1702 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users \[119 Stat. 1256\]) and 144(g) \[now 144(f)\] of title 23, United States Code; and section 14501 of title 40, United States Code, so that the amount of obligation authority available for each of such sections is equal to the amount determined by multiplying the ratio determined under paragraph\(3) by the sums authorized to be appropriated for that section for the fiscal year; and
+&emsp;“(4)(A) distribute the obligation limitation for Federal-aid highways, less the aggregate amounts not distributed under paragraphs (1) and (2), for sections 1301 \[set out as a note under section 101 of this title\], 1302 \[set out as a note under section 101 of this title\], and 1934 \[119 Stat. 1485\] of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users \[Pub. L. 109–59\]; sections \[sic\] 117 (but individually for each project numbered 1 through 3676 listed in the table contained in section 1702 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users \[119 Stat. 1256\]) and section 144(g) \[now 144(f)\] of title 23, United States Code; and section 14501 of title 40, United States Code, so that the amount of obligation authority available for each of such sections is equal to the amount determined by multiplying the ratio determined under paragraph (3) by the sums authorized to be appropriated for that section for the fiscal year; and
 
 &emsp;“(B) distribute $2,000,000,000 for section 105 of title 23, United States Code;
 
@@ -1706,7 +1706,7 @@ Pub. L. 110–161, div. K, title I, §120, Dec. 26, 2007, 121 Stat. 2385, provid
 
 “(b)
 
-Exceptions From Obligation Limitation.—The obligation limitation for Federal-aid highways shall not apply to obligations: (1) under section 125 of title 23, United States Code; (2) under section 147 of the Surface Transportation Assistance Act of 1978 \[Pub. L. 95–599, formerly set out as a note under section 144 of this title\]; (3) under section 9 of the Federal-Aid Highway Act of 1981 \[Pub. L. 97–134, 95 Stat. 1701\]; (4) under subsections (b) and (j) of section 131 of the Surface Transportation Assistance Act of 1982 \[Pub. L. 97–424, 96 Stat. 2119, 2123\]; (5) under subsections (b) and (c) of section 149 of the Surface Transportation and Uniform Relocation Assistance Act of 1987 \[Pub. L. 100–17, 101 Stat. 198, 200\]; (6) under sections 1103 through 1108 of the Intermodal Surface Transportation Efficiency Act of 1991 \[Pub. L. 102–240, see Tables for classification\]; (7) under section 157 of title 23, United States Code, as in effect on the day before the date of the enactment of the Transportation Equity Act for the 21st Century \[June 9, 1998\]; (8) under section 105 of title 23, United States Code, as in effect for fiscal years 1998 through 2004, but only in an amount equal to $639,000,000 for each of those fiscal years; (9) for Federal-aid highway programs for which obligation authority was made available under the Transportation Equity Act for the 21st Century \[Pub. L. 105–178, see Tables for classification\] or subsequent public laws for multiple years or to remain available until used, but only to the extent that the obligation authority has not lapsed or been used; (10) under section 105 of title 23, United States Code, but only in an amount equal to $639,000,000 for each of fiscal years 2005 through 2008; and (11) under section 1603 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users \[Pub. L. 109–59, set out as a note under section 118 of this title\], to the extent that funds obligated in accordance with that section were not subject to a limitation on obligations at the time at which the funds were initially made available for obligation.
+Exceptions From Obligation Limitation.—The obligation limitation for Federal-aid highways shall not apply to obligations: (1) under section 125 of title 23, United States Code; (2) under section 147 of the Surface Transportation Assistance Act of 1978 \[Pub. L. 95–599, formerly set out as a note under section 144 of this title\]; (3) under section 9 of the Federal-Aid Highway Act of 1981 \[Pub. L. 97–134, 95 Stat. 1701\]; (4) under subsections (b) and (j) of section 131 of the Surface Transportation Assistance Act of 1982 \[Pub. L. 97–424, 96 Stat. 2119, 2123\]; (5) under subsections (b) and (c) of section 149 of the Surface Transportation and Uniform Relocation Assistance Act of 1987 \[Pub. L. 100–17, 101 Stat. 198, 200\]; (6) under sections 1103 through 1108 of the Intermodal Surface Transportation Efficiency Act of 1991 \[Pub. L. 102–240, see Tables for classification\]; (7) under section 157 of title 23, United States Code, as in effect on the day before the date of the enactment of the Transportation Equity Act for the 21st Century \[June 9, 1998\]; (8) under section 105 of title 23, United States Code, as in effect for fiscal years 1998 through 2004, but only in an amount equal to $639,000,000 for each of those fiscal years; (9) for Federal-aid highway programs for which obligation authority was made available under the Transportation Equity Act for the 21st Century \[Pub. L. 105–178, see Tables for classification\] or subsequent public laws for multiple years or to remain available until used, but only to the extent that the obligation authority has not lapsed or been used; (10) under section 105 of title 23, United States Code, but only in an amount equal to $639,000,000 for each of fiscal years 2005 through 2010; and (11) under section 1603 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users \[Pub. L. 109–59, set out as a note under section 118 of this title\], to the extent that funds obligated in accordance with that section were not subject to a limitation on obligations at the time at which the funds were initially made available for obligation.
 
 “(c)
 
@@ -1761,6 +1761,14 @@ Restoration.—Obligation authority used as described in paragraph (1) shall be 
 Limitation on Statutory Construction.—Nothing in this section shall be construed to limit the distribution of obligation authority under subsection (a)(4)(A) for each of the individual projects numbered greater than 3676 listed in the table contained in section 1702 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users \[119 Stat. 1256\].”
 
 Similar provisions for prior fiscal years were contained in the following acts:
+
+Pub. L. 111–8, div. I, title I, Mar. 11, 2009, 123 Stat. 923.
+
+Pub. L. 111–8, div. I, title I, §120, Mar. 11, 2009, 123 Stat. 924.
+
+Pub. L. 110–161, div. K, title I, Dec. 26, 2007, 121 Stat. 2383.
+
+Pub. L. 110–161, div. K, title I, §120, Dec. 26, 2007, 121 Stat. 2385.
 
 Pub. L. 109–115, div. A, title I, Nov. 30, 2005, 119 Stat. 2402.
 
@@ -1888,11 +1896,11 @@ Section 147 of Pub. L. 94–280 provided that: “Funds apportioned to States un
 
 #### Use of Federal Funds During Period Beginning February 12, 1975, and Ending September 30, 1975
 
-Pub. L. 94–30, §3, June 4, 1975, 89 Stat. 171, sanctioned the use of any money apportioned under section 104(b) of this title for any Federal-aid highway system in a State for any project in that State on any Federal-aid highway system, such amount to be deducted from the apportionment made after June 4, 1975 and repaid and credited to the last apportionment made for which the money was originally apportioned.
+Pub. L. 94–30, §3, June 4, 1975, 89 Stat. 171, sanctioned the use of any money apportioned under section 104(b) of this title for any Federal-aid highway system in a State for any project in that State on any Federal-aid highway system, such amount to be deducted from the apportionment made after June 4, 1975 and repaid andcredited to the last apportionment made for which the money was originally apportioned.
 
 #### Minimum Apportionment for Primary System; Additional Appropriations for Fiscal Years Ending June 30, 1974, 1975, and 1976
 
-Section 111(b) of Pub. L. 93–87 provided that: “Notwithstanding the amendments made by subsection (a)of this section \[to subsecs. (b)(1), (2), (6), (c) and (d) of this section\] no State (other than the District of Columbia) shall receive an apportionment for the primary system which is less than the apportionment which such State received for such system for the fiscal year ending June 30, 1973. In order to carry out this subsection, there is authorized to be appropriated out of the Highway Trust Fund for the Federal-aid primary system, an additional $17,000,000 for the fiscal year ending June 30, 1974, and $15,000,000 per fiscal year for the fiscal years ending June 30, 1975, and June 30, 1976.”
+Section 111(b) of Pub. L. 93–87 provided that: “Notwithstanding the amendments made by subsection (a) of this section \[to subsecs. (b)(1), (2), (6), (c) and (d) of this section\] no State (other than the District of Columbia) shall receive an apportionment for the primary system which is less than the apportionment which such State received for such system for the fiscal year ending June 30, 1973. In order to carry out this subsection, there is authorized to be appropriated out of the Highway Trust Fund for the Federal-aid primary system, an additional $17,000,000 for the fiscal year ending June 30, 1974, and $15,000,000 per fiscal year for the fiscal years ending June 30, 1975, and June 30, 1976.”
 
 #### Section 102(a) of the Federal-Aid Highway Act of 1956
 

@@ -94,7 +94,7 @@ For short title of title I of Pub. L. 94–317, which enacted this subchapter as
 
 #### Model Programs for Employee Health Promotion and Disease Prevention; Development Completion
 
-Section 312(b)(2) of Pub. L. 100–607 required Secretary of Health and Human Services, not later than 18months after Nov. 4, 1988, to complete development of model programs required in section 1701(a)(7)(A) of the Public Health Service Act (subsec. (a)(7)(A) of this section).
+Section 312(b)(2) of Pub. L. 100–607 required Secretary of Health and Human Services, not later than 18 months after Nov. 4, 1988, to complete development of model programs required in section 1701(a)(7)(A) of the Public Health Service Act (subsec. (a)(7)(A) of this section).
 
 #### Executive Order No. 12345
 
@@ -170,7 +170,7 @@ Term of the President's Council on Physical Fitness and Sports extended until Se
 
 Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1991, by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1993, by Ex. Ord. No.12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1993, by Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
@@ -186,7 +186,9 @@ Term of the President's Council on Physical Fitness and Sports extended until Se
 
 Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Ex. Ord. No. 13266. Activities To Promote Personal Fitness
 
@@ -202,7 +204,7 @@ Section 1. <i>Policy</i>. This order is issued consistent with the following fin
 
 (c) Individuals of all ages, locations, and levels of personal fitness can benefit from some level of appropriate physical activity, dietary guidance, preventive health screening, and making healthy choices.
 
-(d) While personal fitness is an individual responsibility, the Federal Government may, within the authority and funds otherwise available, expand the opportunities for individuals to empower themselves to improve their general health. Such opportunities may include improving the flow of information about personal fitness, assisting in the utilization of that information, increasing the accessibility of resources for physical activity, and reducing barriers to achieving good personal fitness.
+(d) While personal fitness is an individual responsibility, the Federal Government may, within the authority and funds otherwise available, expand the opportunities for individuals to empower themselves to improve theirgeneral health. Such opportunities may include improving the flow of information about personal fitness, assisting in the utilization of that information, increasing the accessibility of resources for physical activity, and reducing barriers to achieving good personal fitness.
 
 Sec. 2. <i>Agency Responsibilities in Promoting Personal Fitness.</i>
 

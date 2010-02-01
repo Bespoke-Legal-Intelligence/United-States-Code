@@ -76,7 +76,7 @@ Section 129(c)(2) of Pub. L. 98–369 provided that: “The amendments made by s
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to dispositions after June 18, 1980, in taxable years ending aftersuch date, see section 831(i) of Pub. L. 97–34, set out as a note under section 897 of this title.
+Amendment by Pub. L. 97–34 applicable to dispositions after June 18, 1980, in taxable years ending after such date, see section 831(i) of Pub. L. 97–34, set out as a note under section 897 of this title.
 
 #### Effective Date
 

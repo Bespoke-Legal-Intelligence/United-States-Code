@@ -6,7 +6,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### (b) Use of funds for emergency repairs of existing facilities
 
-Any funds appropriated for the construction of facilities may be used for emergency repairs of existing facilities when such existing facilities are made inoperative by major breakdown, accident, or other circumstances and such repairs are deemed by the Administrator to be of greater urgency than the construction of new facilities.
+Any funds appropriated for the construction of facilities may be used for emergency repairs of existing facilities when such existing facilitiesare made inoperative by major breakdown, accident, or other circumstances and such repairs are deemed by the Administrator to be of greater urgency than the construction of new facilities.
 
 #### (c) Termination
 

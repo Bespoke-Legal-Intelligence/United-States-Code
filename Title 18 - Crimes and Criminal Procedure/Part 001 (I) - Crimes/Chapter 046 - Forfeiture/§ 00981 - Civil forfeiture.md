@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(i) of any individual, entity, or organization engaged in planning or perpetrating any any <sup>1</sup> Federal crime of terrorism (as defined in section 2332b(g)(5)) against the United States, citizens or residents of the United States, or their property, and all assets, foreign or domestic, affording any person a source of influence over any such entity or organization;
 
-&emsp;&emsp;(ii) acquired or maintained by any person with the intent and for the purpose of supporting, planning, conducting, or concealing any Federal crime of terrorism (as defined in section 2332b(g)(5) <sup>2</sup> against the United States, citizens or residents of the United States, or their property;
+&emsp;&emsp;(ii) acquired or maintained by any person with the intent and for the purpose of supporting, planning, conducting, or concealingany Federal crime of terrorism (as defined in section 2332b(g)(5) <sup>2</sup> against the United States, citizens or residents of the United States, or their property;
 
 &emsp;&emsp;(iii) derived from, involved in, or used or intended to be used to commit any Federal crime of terrorism (as defined in section 2332b(g)(5)) against the United States, citizens or residents of the United States, or their property; or
 
@@ -114,7 +114,7 @@
 
 &emsp;(7) In <sup>3</sup> the case of property referred to in subsection (a)(1)(D), to the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or any other Federal financial institution regulatory agency (as defined in section 8(e)(7)(D) of the Federal Deposit Insurance Act).
 
-> The Attorney General, the Secretary of the Treasury, or the Postal Service, as the case maybe, shall ensure the equitable transfer pursuant to paragraph (2) of any forfeited property to the appropriate State or local law enforcement agency so as to reflect generally the contribution of any such agency participating directly in any of the acts which led to the seizure or forfeiture of such property. A decision by the Attorney General, the Secretary of the Treasury, or the Postal Service pursuant to paragraph (2) shall not be subject to review. The United States shall not be liable in any action arising out of the use of any property the custody of which was transferred pursuant to this section to any non-Federal agency. The Attorney General, the Secretary of the Treasury, or the Postal Service may order the discontinuance of any forfeiture proceedings under this section in favor of the institution of forfeiture proceedings by State or local authorities under an appropriate State or local statute. After the filing of a complaint for forfeiture under this section, the Attorney General may seek dismissal of the complaint in favor of forfeiture proceedings under State or local law. Whenever forfeiture proceedings are discontinued by the United States in favor of State or local proceedings, the United States may transfer custody and possession of the seized property to the appropriate State or local official immediately upon the initiation of the proper actions by such officials. Whenever forfeiture proceedings are discontinued by the United States in favor of State or local proceedings, notice shall be sent to all known interested parties advising them of the discontinuance or dismissal. The United States shall not be liable in any action arising out of the seizure, detention, and transfer of seized property to State or local officials. The United States shall not be liable in any action arising out of a transfer under paragraph (3), (4), or (5) of this subsection.
+> The Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, shall ensure the equitable transfer pursuant to paragraph (2) of any forfeited property to the appropriate State or local law enforcement agency so as to reflect generally the contribution of any such agency participating directly in any of the acts which led to the seizure or forfeiture of such property. A decision by the Attorney General, the Secretary of the Treasury, or the Postal Service pursuant to paragraph (2) shall not be subject to review. The United States shall not be liable in any action arising out of the use of any property the custody of which was transferred pursuant to this section to any non-Federal agency. The Attorney General, the Secretary of the Treasury, or the Postal Service may order the discontinuance of any forfeiture proceedings under this section in favor of the institution of forfeiture proceedings by State or local authorities under an appropriate State or local statute. After the filing of a complaint for forfeiture under this section, the Attorney General may seek dismissal of the complaint in favor of forfeiture proceedings under State or local law. Whenever forfeiture proceedings are discontinued by the United States in favor of State or local proceedings, the United States may transfer custody and possession of the seized property to the appropriate State or local official immediately upon the initiation of the proper actions by such officials. Whenever forfeiture proceedings are discontinued by the United States in favor of State or local proceedings, notice shall be sent to all known interested parties advising them of the discontinuance or dismissal. The United States shall not be liable in any action arising out of the seizure, detention, and transfer of seized property to State or local officials. The United States shall not be liable in any action arising out of a transfer under paragraph (3), (4), or (5) of this subsection.
 
 (f) All right, title, and interest in property described in subsection (a) of this section shall vest in the United States upon commission of the act giving rise to forfeiture under this section.
 
@@ -210,7 +210,7 @@ In general.—Except as provided in clause (ii), the term “owner”—
 
 &emsp;&emsp;&emsp;(ii)
 
-Exception.—The foreign financial institution (as defined in section 984(c)(2)(A)of this title) may be considered the “owner” of the funds (and no other person shall qualify as the owner of such funds) only if—
+Exception.—The foreign financial institution (as defined in section 984(c)(2)(A) of this title) may be considered the “owner” of the funds (and no other person shall qualify as the owner of such funds) only if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the basis for the forfeiture action is wrongdoing committed by the foreign financial institution (as defined in section 984(c)(2)(A) of this title); or
 
@@ -290,7 +290,7 @@ Subsec. (g). Pub. L. 106–185, §8(a), amended subsec. (g) generally. Prior to 
 
 1994—Subsec. (e)(7). Pub. L. 103–322, §330011(s)(2), amended directory language of Pub. L. 101–647, §2525(a)(2). See 1990 Amendment note below.
 
-Subsec. (i)(1)(C). Pub. L. 103–447, which directed substitution of “section 490(a)(1) of the Foreign Assistance Act of 1961” for “paragraph (1)(A) of section 481(h) of the Foreign Assistance Act of 1961”, could not be executed because the words “paragraph (1)(A) of” do not appear in text.
+Subsec. (i)(1)(C). Pub. L. 103–447, which directed substitution of “section 490(a)(1) of the Foreign AssistanceAct of 1961” for “paragraph (1)(A) of section 481(h) of the Foreign Assistance Act of 1961”, could not be executed because the words “paragraph (1)(A) of” do not appear in text.
 
 1992—Subsec. (a)(1)(A). Pub. L. 102–550, §1525(c)(1), substituted “5324(a)” for “5324”.
 
@@ -346,7 +346,7 @@ Subsec. (b)(2). Pub. L. 100–690, §6469(b)(2), substituted “the Attorney Gen
 
 Subsec. (c). Pub. L. 100–690, §6469(b)(2), substituted “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury” in two places.
 
-Subsec. (d). Pub. L. 100–690, §6469(b)(2), (3), substituted “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury” and inserted provision that Attorney General have sole responsibility for disposing of petitions for remission or mitigation with respect to property involved in a judicial forfeiture proceeding.
+Subsec. (d). Pub. L. 100–690, §6469(b)(2), (3), substituted “the Attorney General, the Secretary of theTreasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury” and inserted provision that Attorney General have sole responsibility for disposing of petitions for remission or mitigation with respect to property involved in a judicial forfeiture proceeding.
 
 Subsec. (e). Pub. L. 100–690, §6469(b)(2), which directed the substitution of “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury” was executed to reflect the probable intent of Congress by making the substitution in four places without regard as to whether or not the initial article “the” was capitalized.
 

@@ -26,7 +26,7 @@
 
 &emsp;(ii) To refinance, in accordance with section 3712(a)(5) of this title, an existing loan that was made for the purchase of, and that is secured by, a manufactured home that is permanently affixed to a lot and to purchase the lot to which the manufactured home is affixed.
 
-&emsp;(10) To purchase a dwelling to be owned and occupied by the veteran as a home and make energy efficiency improvements, as provided in subsection (d).
+&emsp;(10) To purchase a dwelling to be owned and occupied by the veteran as a home and makeenergy efficiency improvements, as provided in subsection (d).
 
 &emsp;(11) To refinance in accordance with subsection (e) an existing loan guaranteed, insured, or made under this chapter, and to improve the dwelling securing such loan through energy efficiency improvements, as provided in subsection (d).
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(ii) the sum of the outstanding balance on the loan to be refinanced and the closing costs (including discounts) actually paid by the veteran, as specified by the Secretary in regulations; and
 
-&emsp;(8) in the case of a loan to refinance a loan (other than a loan or installment sales contract described in clause (7) of this subsection or a loan made for a purpose specified in subsection (a)(8) of this section), the amount of the loan to be guaranteed or made does not exceed 100 percent of the reasonable value of the dwelling or farm residence securing the loan,as determined pursuant to section 3731 of this title.
+&emsp;(8) in the case of a loan to refinance a loan (other than a loan or installment sales contract described in clause (7) of this subsection or a loan made for a purpose specified in subsection (a)(8) of this section), the amount of the loan to be guaranteed or made does not exceed 100 percent of the reasonable value of the dwelling or farm residence securing the loan, as determined pursuant to section 3731 of this title.
 
 \[(c) Repealed. Pub. L. 100–198, §3(a)(2), Dec. 21, 1987, 101 Stat. 1315.\]
 
@@ -150,7 +150,7 @@
 
 (2) A loan may not be guaranteed for the purposes of subsection (a)(9) of this section unless the manufactured home purchased, upon being permanently affixed to the lot, is considered to be real property under the laws of the State where the lot is located.
 
-(g)(1) For the purposes of this subsection, the term “veteran”, when used with respect to a loan guaranteed or to be guaranteed under this chapter, includes the veteran's spouse if the spouse is jointly liable with the veteran under the loan.
+(g)(1) For the purposes of this subsection, the term “veteran”, when used with respect to aloan guaranteed or to be guaranteed under this chapter, includes the veteran's spouse if the spouse is jointly liable with the veteran under the loan.
 
 (2) For the purpose of determining whether a veteran meets the standards referred to in subsection (b)(3) of this section and section 3712(e)(2) of this title, the Secretary shall prescribe regulations which establish—
 
@@ -184,7 +184,7 @@
 
 (3) When applying the term “value of the property” to a loan guaranteed under subsection (a)(12), such term means the appraised value of the stock or membership entitling the purchaser to the permanent occupancy of the dwelling unit in the development, project, or structure of the cooperative housing corporation.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1207, §1810; Pub. L. 90–301, §§1(a), 2(a), May 7, 1968, 82 Stat. 113; Pub. L. 91–506, §3, Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–569, §3, Dec. 31, 1974, 88 Stat. 1864;Pub. L. 94–324, §7(11), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §§104, 105(a), Oct. 18, 1978, 92 Stat. 1498, 1499; Pub. L. 96–385, title IV, §§401(a), 402(a), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 98–223, title II, §205(a), Mar. 2, 1984, 98 Stat. 42; Pub. L. 99–576, title IV, §402(a), (b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–198, §§3(a)(2), 7(a), (c), 8(a)(2), 11(b), 13, Dec. 21, 1987, 101 Stat. 1315, 1318–1320, 1325; Pub. L. 100–322, title IV, §415(c)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§309, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; renumbered §3710 and amended Pub. L. 102–83, §§4(a)(2)(A)(iv), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §§6(1), 9(a), (b), Oct. 28, 1992, 106 Stat. 3636, 3641, 3642; Pub. L. 103–446, title IX, §§904(a), (b), 905, Nov. 2, 1994, 108 Stat. 4676, 4677; Pub. L. 104–110, title I, §101(e), Feb. 13, 1996, 110 Stat. 768; Pub. L. 109–461, title V, §501, Dec. 22, 2006, 120 Stat. 3431; Pub. L. 110–389, title V, §504(b), Oct. 10, 2008, 122 Stat. 4176.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1207, §1810; Pub. L. 90–301, §§1(a), 2(a), May 7, 1968, 82 Stat. 113; Pub. L. 91–506, §3, Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–569, §3, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §7(11), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §§104, 105(a), Oct. 18, 1978, 92 Stat. 1498, 1499; Pub. L. 96–385, title IV, §§401(a), 402(a), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 98–223, title II, §205(a), Mar. 2, 1984, 98 Stat. 42; Pub. L. 99–576, title IV, §402(a), (b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–198, §§3(a)(2), 7(a), (c), 8(a)(2), 11(b), 13, Dec. 21, 1987, 101 Stat. 1315, 1318–1320, 1325; Pub. L. 100–322, title IV, §415(c)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§309, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; renumbered §3710 and amended Pub. L. 102–83, §§4(a)(2)(A)(iv), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §§6(1), 9(a), (b), Oct. 28, 1992, 106 Stat. 3636, 3641, 3642; Pub. L. 103–446, title IX, §§904(a), (b), 905, Nov. 2, 1994, 108 Stat. 4676, 4677; Pub. L. 104–110, title I, §101(e), Feb. 13, 1996, 110 Stat. 768; Pub. L. 109–461, title V, §501, Dec. 22, 2006, 120 Stat. 3431; Pub. L. 110–389, title V, §504(b), Oct. 10, 2008, 122 Stat. 4176.)
 
 #### References in Text
 
@@ -212,7 +212,7 @@ Subsec. (e)(1). Pub. L. 103–446, §904(b)(1), inserted “or for the purpose s
 
 Subsec. (e)(1)(A). Pub. L. 103–446, §905, inserted before semicolon at end “or, in a case in which the loan is a fixed rate loan and the loan being refinanced is an adjustable rate loan, the loan bears interest at a rate that is agreed upon by the veteran and the mortgagee”.
 
-Subsec. (e)(1)(C). Pub. L. 103–446, §904(b)(2), substituted “may not exceed—” and cls. (i) and (ii) for “may not exceed an amount equal to the sum of the balance of the loan being refinanced and such closing costs (including any discount permitted pursuant to section 3703(c)(3)(A) of this title) as may be authorized by the Secretary, under regulations which the Secretary shall prescribe, to be included in such loan;”.
+Subsec. (e)(1)(C). Pub. L. 103–446, §904(b)(2), substituted “may not exceed—” and cls. (i) and (ii) for“may not exceed an amount equal to the sum of the balance of the loan being refinanced and such closing costs (including any discount permitted pursuant to section 3703(c)(3)(A) of this title) as may be authorized by the Secretary, under regulations which the Secretary shall prescribe, to be included in such loan;”.
 
 1992—Subsec. (a)(7). Pub. L. 102–547, §9(b)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “To improve a dwelling or farm residence owned by the veteran and occupied by the veteran as the veteran's home through the installation of a solar heating system, a solar heating and cooling system, or a combined solar heating and cooling system or through the application of a residential energy conservation measure.”
 
@@ -262,7 +262,7 @@ Subsec. (e)(1)(E). Pub. L. 100–198, §7(a)(3), substituted “by more than 10 
 
 Subsec. (e)(1)(F). Pub. L. 100–198, §7(a)(4), added cl. (F).
 
-Subsec. (g)(3). Pub. L. 100–198, §13, inserted at end “If the procedures described in clause (C) of this paragraph include standards for evaluating residual income, the Administrator shall, in establishing such standards,give appropriate consideration to State statistics (in States as to which the Administrator determines that such statistics are reliable) pertinent to residual income and the cost of living in the State in question rather than in a larger region.”
+Subsec. (g)(3). Pub. L. 100–198, §13, inserted at end “If the procedures described in clause (C) of this paragraph include standards for evaluating residual income, the Administrator shall, in establishing such standards, give appropriate consideration to State statistics (in States as to which the Administrator determines that such statistics are reliable) pertinent to residual income and the cost of living in the State in question rather than in a larger region.”
 
 Subsec. (h). Pub. L. 100–198, §7(c), added subsec. (h).
 

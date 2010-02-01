@@ -22,13 +22,17 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Section 814(e)(2) of div. I of Pub. L. 104–333 provided that: “The amendment made by subsection (a) \[probably should be “paragraph (1)”, which amended this section\] shall take effect on February 1, 1997, and shall apply with respect to the individual (if any) serving as the Director of the National Park Service on that date.”
 
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–11, §1(a), Mar. 30, 2009, 123 Stat. 991, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Omnibus Public Land Management Act of 2009’.”
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–229, §1(a), May 8, 2008, 122 Stat. 754, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Consolidated Natural Resources Act of 2008’.”
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–352, §1, Oct. 21, 2004, 118 Stat. 1395, provided that: “This Act \[amending sections 1a–6, 392c, 410ggg, 410ggg–1, 430h–11, 460kkk, 470h–2, 698u–4, 1244, 1249, and 1274 of this title, enacting provisions set out as notes under this section and section 502 of Title 40,Public Buildings, Property, and Works, and amending provisions listed in a table of National Historic Sites and a table of National Heritage Areas set out under section 461 of this title and a table of Commemorative Works set out under section 8903 of Title 40\] may be cited as the ‘National Park System Laws Technical Amendments Act of 2004’.”
+Pub. L. 108–352, §1, Oct. 21, 2004, 118 Stat. 1395, provided that: “This Act \[amending sections 1a–6, 392c, 410ggg, 410ggg–1, 430h–11, 460kkk, 470h–2, 698u–4, 1244, 1249, and 1274 of this title, enacting provisions set out as notes under this section and section 502 of Title 40, Public Buildings, Property, and Works, and amending provisions listed in a table of National Historic Sites and a table of National Heritage Areas set out under section 461 of this title and a table of Commemorative Works set out under section 8903 of Title 40\] may be cited as the ‘National Park System Laws Technical Amendments Act of 2004’.”
 
 #### Short Title of 2002 Amendment
 
@@ -54,7 +58,7 @@ Pub. L. 98–141, §1, Oct. 31, 1983, 97 Stat. 909, provided: “That this Act \
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–625, §1, Nov. 10, 1978, 92 Stat. 3467, provided that: “This Act \[enacting chapter 45 and sections 45f, 230 to 230i, 241g, 396d, 410y–1a, 441e–1, 459c–6b, 460m–15 to 460m–25, 460kk, 471i, and 1285a of this title, amending sections 1a–5, 1a–7, 273f, 282c, 283e, 397 to 397d, 410y–6, 410z, 410z–1, 430mm, 450mm–1, 450qq–4, 459c–1, 459c–5, 459e, 459e–1, 459e–6, 459e–9, 459h–10, 459i, 459i–9, 460<i>l</i>–8, 460m–14, 460<i>o</i>–1, 460q–9, 460u–9, 460aa–12, 460bb–1 to 460bb–4, 460ff–1, 460ff–3, 460ff–5, 460gg, 463, 469c, 470t, 698m, 1241, 1242, 1244 to 1247, 1249, 1273, 1274, 1276, 1277, 1283, and 1287 of this title, repealing sections 45a–3 and 688 of this title, enacting provisions set out as notes under sections 1a–5, 45a–1, 45f, 410z, 430nn, 430<i>oo</i>, 431, 461, 602, 688, 1246, 1274, and 2501 of this title, and amending provisions set out as notes under sections 431, 433c, 450bb, 461, and 1132 of this title\] may be cited as the ‘National Parks and Recreation Act of 1978’.”
+Pub. L. 95–625, §1, Nov. 10, 1978, 92 Stat. 3467, provided that: “This Act \[enacting chapter 45 and sections 45f, 230 to 230i, 241g, 396d, 410y–1a, 441e–1, 459c–6b, 460m–15 to 460m–25, 460kk, 471i, and 1285a of this title, amending sections 1a–5, 1a–7, 273f, 282c, 283e, 397 to 397d, 410y–6, 410z, 410z–1, 430mm, 450mm–1, 450qq–4, 459c–1, 459c–5,459e, 459e–1, 459e–6, 459e–9, 459h–10, 459i, 459i–9, 460<i>l</i>–8, 460m–14, 460<i>o</i>–1, 460q–9, 460u–9, 460aa–12, 460bb–1 to 460bb–4, 460ff–1, 460ff–3, 460ff–5, 460gg, 463, 469c, 470t, 698m, 1241, 1242, 1244 to 1247, 1249, 1273, 1274, 1276, 1277, 1283, and 1287 of this title, repealing sections 45a–3 and 688 of this title, enacting provisions set out as notes under sections 1a–5, 45a–1, 45f, 410z, 430nn, 430<i>oo</i>, 431, 461, 602, 688, 1246, 1274, and 2501 of this title, and amending provisions set out as notes under sections 431, 433c, 450bb, 461, and 1132 of this title\] may be cited as the ‘National Parks and Recreation Act of 1978’.”
 
 #### Short Title of 1970 Amendment
 

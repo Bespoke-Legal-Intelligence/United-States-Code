@@ -2,67 +2,203 @@
 
 #### (a) In general
 
-A group of workers (including workers in any agricultural firm or subdivision of an agricultural firm) shall be certified by the Secretary as eligible to apply for adjustment assistance under this part pursuant to a petition filed under section 2271 of this title if the Secretary determines that—
+A group of workers shall be certified by the Secretary as eligible to apply for adjustment assistance under this part pursuant to a petition filed under section 2271 of this title if the Secretary determines that—
 
-&emsp;(1) a significant number or proportion of the workers in such workers’ firm, or an appropriate subdivision of the firm, have become totally or partially separated, or are threatened to become totally or partially separated; and
+&emsp;(1) a significant number or proportion of the workers in such workers’ firm have become totally or partially separated, or are threatened to become totally or partially separated; and
 
-&emsp;(2)(A)(i) the sales or production, or both, of such firm or subdivision have decreased absolutely;
+&emsp;(2)(A)(i) the sales or production, or both, of such firm have decreased absolutely;
 
-&emsp;(ii) imports of articles like or directly competitive with articles produced by such firm or subdivision have increased; and
+&emsp;(ii)(I) imports of articles or services like or directly competitive with articles produced or services supplied by such firm have increased;
 
-&emsp;(iii) the increase in imports described in clause (ii) contributed importantly to such workers’ separation or threat of separation and to the decline in the sales or production of such firm or subdivision; or
+&emsp;(II) imports of articles like or directly competitive with articles—
 
-&emsp;(B)(i) there has been a shift in production by such workers’ firm or subdivision to a foreign country of articles like or directly competitive with articles which are produced by such firm or subdivision; and
+&emsp;&emsp;(aa) into which one or more component parts produced by such firm are directly incorporated, or
 
-&emsp;(ii)(I) the country to which the workers’ firm has shifted production of the articles is a party to a free trade agreement with the United States;
+&emsp;&emsp;(bb) which are produced directly using services supplied by such firm,
 
-&emsp;(II) the country to which the workers’ firm has shifted production of the articles is a beneficiary country under the Andean Trade Preference Act \[19 U.S.C. 3201 et seq.\], African Growth and Opportunity Act \[19 U.S.C. 3701 et seq.\], or the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\]; or
+> &emsp;have increased; or
 
-&emsp;(III) there has been or is likely to be an increase in imports of articles that are like or directly competitive with articles which are or were produced by such firm or subdivision.
+&emsp;(III) imports of articles directly incorporating one or more component parts produced outside the United States that are like or directly competitive with imports of articles incorporating one or more component parts produced by such firm have increased; and
 
-#### (b) Adversely affected secondary workers
+&emsp;(iii) the increase in imports described in clause (ii) contributed importantly to such workers’ separation or threat of separation and to the decline in the sales or production of such firm; or
 
-A group of workers (including workers in any agricultural firm or subdivision of an agricultural firm) shall be certified by the Secretary as eligible to apply for trade adjustment assistance benefits under this part pursuant to a petition filed under section 2271 of this title if the Secretary determines that—
+&emsp;(B)(i)(I) there has been a shift by such workers’ firm to a foreign country in the production of articles or the supply of services like or directly competitive with articles which are produced or services which are supplied by such firm; or
+
+&emsp;(II) such workers’ firm has acquired from a foreign country articles or services that are like or directly competitive with articles which are produced or services which are supplied by such firm; and
+
+&emsp;(ii) the shift described in clause (i)(I) or the acquisition of articles or services described in clause (i)(II) contributed importantly to such workers’ separation or threat of separation.
+
+#### (b) Adversely affected workers in public agencies
+
+A group of workers in a public agency shall be certified by the Secretary as eligible to apply for adjustment assistance under this part pursuant to a petition filed under section 2271 of this title if the Secretary determines that—
+
+&emsp;(1) a significant number or proportion of the workers in the public agency have become totally or partially separated, or are threatened to become totally or partially separated;
+
+&emsp;(2) the public agency has acquired from a foreign country services like or directly competitive with services which are supplied by such agency; and
+
+&emsp;(3) the acquisition of services described in paragraph (2) contributed importantly to such workers’ separation or threat of separation.
+
+#### (c) Adversely affected secondary workers
+
+A group of workers shall be certified by the Secretary as eligible to apply for trade adjustment assistance benefits under this part pursuant to a petition filed under section 2271 of this title if the Secretary determines that—
 
 &emsp;(1) a significant number or proportion of the workers in the workers’ firm or an appropriate subdivision of the firm have become totally or partially separated, or are threatened to become totally or partially separated;
 
-&emsp;(2) the workers’ firm (or subdivision) is a supplier or downstream producer to a firm (or subdivision) that employed a group of workers who received a certification of eligibility under subsection (a) of this section, and such supply or production is related to the article that was the basis for such certification (as defined in subsection (c)(3) and (4) of this section); and
+&emsp;(2) the workers’ firm is a supplier or downstream producer to a firm that employed a group of workers who received a certification of eligibility under subsection (a) of this section, and such supply or production is related to the article or service that was the basis for such certification (as defined in subsection (d)(3) and (4) of this section); and
 
 &emsp;(3) either—
 
-&emsp;&emsp;(A) the workers’ firm is a supplier and the component parts it supplied to the firm (or subdivision) described in paragraph (2) accounted for at least 20 percent of the production or sales of the workers’ firm; or
+&emsp;&emsp;(A) the workers’ firm is a supplier and the component parts it supplied to the firm described in paragraph (2) accounted for at least 20 percent of the production or sales of the workers’ firm; or
 
-&emsp;&emsp;(B) a loss of business by the workers’ firm with the firm (or subdivision) described in paragraph (2) contributed importantly to the workers’ separation or threat of separation determined under paragraph (1).
+&emsp;&emsp;(B) a loss of business by the workers’ firm with the firm described in paragraph (2) contributed importantly to the workers’ separation or threat of separation determined under paragraph (1).
 
-#### (c) Definitions
+#### (d) Definitions
 
 For purposes of this section—
 
 &emsp;(1) The term “contributed importantly” means a cause which is important but not necessarily more important than any other cause.
 
-&emsp;(2)(A) Any firm, or appropriate subdivision of a firm, that engages in exploration or drilling for oil or natural gas shall be considered to be a firm producing oil or natural gas.
+&emsp;(2)(A) Any firm that engages in exploration or drilling for oil or natural gas shall be considered to be a firm producing oil or natural gas.
 
-&emsp;(B) Any firm, or appropriate subdivision of a firm, that engages in exploration or drilling for oil or natural gas, or otherwise produces oil or natural gas, shall be considered to be producing articles directly competitive with imports of oil and with imports of natural gas.
+&emsp;(B) Any firm that engages in exploration or drilling for oil or natural gas, or otherwise produces oil or natural gas, shall be considered to be producing articles directly competitive with imports of oil and with imports of natural gas.
 
 &emsp;(3)
 
-Downstream producer.—The term “downstream producer” means a firm that performs additional, value-added production processes for a firm or subdivision, including a firm that performs final assembly or finishing, directly for another firm (or subdivision), for articles that were the basis for a certification of eligibility under subsection (a) of this section of a group of workers employed by such other firm, if the certification of eligibility under subsection (a) of this section is based on an increase in imports from, or a shift in production to, Canada or Mexico.
+Downstream producer.—
+
+&emsp;&emsp;(A)
+
+In general.—The term “downstream producer” means a firm that performs additional, value-added production processes or services directly for another firm for articles or services with respect to which a group of workers in such other firm has been certified under subsection (a).
+
+&emsp;&emsp;(B)
+
+Value-added production processes or services.—For purposes of subparagraph (A), value-added production processes or services include final assembly, finishing, testing, packaging, or maintenance or transportation services.
 
 &emsp;(4)
 
-Supplier.—The term “supplier” means a firm that produces and supplies directly to another firm (or subdivision) component parts for articles that were the basis for a certification of eligibility under subsection (a) of this section of a group of workers employed by such other firm.
+Supplier.—The term “supplier” means a firm that produces and supplies directly to another firm component parts for articles, or services, used in the production of articles or in the supply of services, as the case may be, that were the basis for a certification of eligibility under subsection (a) of this section of a group of workers employed by such other firm.
 
-(Pub. L. 93–618, title II, §222, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 97–35, title XXV, §2501, Aug. 13, 1981, 95 Stat. 881; Pub. L. 98–120, §3(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 100–418, title I, §1421(a)(1)(A), (b)(1), Aug. 23, 1988, 102 Stat. 1242, 1243; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §113, Aug. 6, 2002, 116 Stat. 937; Pub. L. 108–429, title II, §2004(a)(5), Dec. 3, 2004, 118 Stat. 2590.)
+&emsp;(5)
 
-#### References in Text
+Reference to firm.—For purposes of subsection (a), the term “firm” does not include a public agency.
 
-The Andean Trade Preference Act, referred to in subsec. (a)(2)(B)(ii)(II), is title II of Pub. L. 102–182, Dec. 4, 1991, 105 Stat. 1236, as amended, which is classified generally to chapter 20 (§3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
+#### (e) Basis for Secretary's determinations
 
-The African Growth and Opportunity Act, referred to in subsec. (a)(2)(B)(ii)(II), is title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, as amended, which is classified principally to chapter 23 (§3701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of this title and Tables.
+#### (1) In general
 
-The Caribbean Basin Economic Recovery Act, referred to in subsec. (a)(2)(B)(ii)(II), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, as amended, which is classified principally to chapter 15 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+&emsp;The Secretary shall, in determining whether to certify a group of workers under section 2273 of this title, obtain from the workers’ firm, or a customer of the workers’ firm, information the Secretary determines to be necessary to make the certification, through questionnaires and in such other manner as the Secretary determines appropriate.
+
+#### (2) Additional information
+
+&emsp;The Secretary may seek additional information to determine whether to certify a group of workers under subsection (a), (b), or (c)—
+
+&emsp;&emsp;(A) by contacting—
+
+&emsp;&emsp;&emsp;(i) officials or employees of the workers’ firm;
+
+&emsp;&emsp;&emsp;(ii) officials of customers of the workers’ firm;
+
+&emsp;&emsp;&emsp;(iii) officials of certified or recognized unions or other duly authorized representatives of the group of workers; or
+
+&emsp;&emsp;&emsp;(iv) one-stop operators or one-stop partners (as defined in section 2801 of title 29); or
+
+&emsp;&emsp;(B) by using other available sources of information.
+
+#### (3) Verification of information
+
+#### (A) Certification
+
+&emsp;&emsp;The Secretary shall require a firm or customer to certify—
+
+&emsp;&emsp;&emsp;(i) all information obtained under paragraph (1) from the firm or customer (as the case may be) through questionnaires; and
+
+&emsp;&emsp;&emsp;(ii) all other information obtained under paragraph (1) from the firm or customer (as the case may be) on which the Secretary relies in making a determination under section 2273 of this title, unless the Secretary has a reasonable basis for determining that such information is accurate and complete without being certified.
+
+#### (B) Use of subpoenas
+
+&emsp;&emsp;The Secretary shall require the workers’ firm or a customer of the workers’ firm to provide information requested by the Secretary under paragraph (1) by subpoena pursuant to section 2321 of this title if the firm or customer (as the case may be) fails to provide the information within 20 days after the date of the Secretary's request, unless the firm or customer (as the case may be) demonstrates to the satisfaction of the Secretary that the firm or customer (as the case may be) will provide the information within a reasonable period of time.
+
+#### (C) Protection of confidential information
+
+&emsp;&emsp;The Secretary may not release information obtained under paragraph (1) that the Secretary considers to be confidential business information unless the firm or customer (as the case may be) submitting the confidential business information had notice, at the time of submission, that the information would be released by the Secretary, or the firm or customer (as the case may be) subsequently consents to the release of the information. Nothing in this subparagraph shall be construed to prohibit the Secretary from providing such confidential business information to a court in camera or to another party under a protective order issued by a court.
+
+#### (f) Firms identified by the International Trade Commission
+
+Notwithstanding any other provision of this part, a group of workers covered by a petition filed under section 2271 of this title shall be certified under subsection (a) as eligible to apply for adjustment assistance under this part if—
+
+&emsp;(1) the workers’ firm is publicly identified by name by the International Trade Commission as a member of a domestic industry in an investigation resulting in—
+
+&emsp;&emsp;(A) an affirmative determination of serious injury or threat thereof under section 2252(b)(1) of this title;
+
+&emsp;&emsp;(B) an affirmative determination of market disruption or threat thereof under section 2451(b)(1) of this title; or
+
+&emsp;&emsp;(C) an affirmative final determination of material injury or threat thereof under section 1671d(b)(1)(A) or 1673d(b)(1)(A) of this title;
+
+&emsp;(2) the petition is filed during the one-year period beginning on the date on which—
+
+&emsp;&emsp;(A) a summary of the report submitted to the President by the International Trade Commission under section 2252(f)(1) of this title with respect to the affirmative determination described in paragraph (1)(A) is published in the Federal Register under section 2252(f)(3) of this title; or
+
+&emsp;&emsp;(B) notice of an affirmative determination described in subparagraph (B) or (C) of paragraph (1) is published in the Federal Register; and
+
+&emsp;(3) the workers have become totally or partially separated from the workers’ firm within—
+
+&emsp;&emsp;(A) the one-year period described in paragraph (2); or
+
+&emsp;&emsp;(B) notwithstanding section 2273(b) of this title, the one-year period preceding the one-year period described in paragraph (2).
+
+(Pub. L. 93–618, title II, §222, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 97–35, title XXV, §2501, Aug. 13, 1981, 95 Stat. 881; Pub. L. 98–120, §3(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 100–418, title I, §1421(a)(1)(A), (b)(1), Aug. 23, 1988, 102 Stat. 1242, 1243; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §113, Aug. 6, 2002, 116 Stat. 937; Pub. L. 108–429, title II, §2004(a)(5), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §§1801(b), (c), (e)(2), 1802, Feb. 17, 2009, 123 Stat. 367, 368, 370, 371.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–5, §§1801(e)(2)(A), 1893, temporarily struck out “(including workers in any agricultural firm or subdivision of an agricultural firm)” after “group of workers” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(1). Pub. L. 111–5, §§1801(e)(2)(B)(i), 1893, temporarily struck out “, or an appropriate subdivision of the firm,” after “workers’ firm”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(2)(A)(i). Pub. L. 111–5, §§1801(e)(2)(B)(ii), 1893, temporarily struck out “or subdivision” after “such firm”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(2)(A)(ii). Pub. L. 111–5, §§1801(b)(1)(A), 1893, temporarily amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “imports of articles like or directly competitive with articles produced by such firm or subdivision have increased; and”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(2)(A)(iii). Pub. L. 111–5, §§1801(e)(2)(B)(ii), 1893, temporarily struck out “or subdivision” after “such firm”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(2)(B). Pub. L. 111–5, §§1801(b)(1)(B), 1893, temporarily amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
+
+“(i) there has been a shift in production by such workers’ firm or subdivision to a foreign country of articles like or directly competitive with articles which are produced by such firm or subdivision; and
+
+“(ii)(I) the country to which the workers’ firm has shifted production of the articles is a party to a free trade agreement with the United States;
+
+“(II) the country to which the workers’ firm has shifted production of the articles is a beneficiary country under the Andean Trade Preference Act, African Growth and Opportunity Act, or the Caribbean Basin Economic Recovery Act; or
+
+“(III) there has been or is likely to be an increase in imports of articles that are like or directly competitive with articles which are or were produced by such firm or subdivision.”
+
+> See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (b). Pub. L. 111–5, §§1801(b)(2), (3), 1893, temporarily added subsec. (b) and redesignated former subsec. (b) as (c). See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (c). Pub. L. 111–5, §§1801(e)(2)(A), 1893, temporarily struck out “(including workers in any agricultural firm or subdivision of an agricultural firm)” after “group of workers” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
+
+Pub. L. 111–5, §§1801(b)(2), 1893, temporarily redesignated subsec. (b) as (c). Former subsec. (c) temporarily redesignated (d). See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (c)(2). Pub. L. 111–5, §§1801(e)(2)(C)(i), 1893, temporarily struck out “(or subdivision)” after “workers’ firm” and after “producer to a firm”, inserted “or service” after “the article”, and substituted “(d)(3)” for “(c)(3)”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (c)(3). Pub. L. 111–5, §§1801(e)(2)(C)(ii), 1893, temporarily struck out “(or subdivision)” after “the firm” in two places. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (d). Pub. L. 111–5, §§1801(e)(2)(D)(i), 1893, temporarily inserted heading. See Effective and Termination Dates of 2009 Amendment note below.
+
+Pub. L. 111–5, §§1801(b)(2), 1893, temporarily redesignated subsec. (c) as (d). See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (d)(2). Pub. L. 111–5, §§1801(e)(2)(D)(ii), 1893, temporarily struck out “, or appropriate subdivision of a firm,” after “Any firm” in two places. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (d)(3). Pub. L. 111–5, §§1801(e)(2)(D)(iii), 1893, temporarily amended par. (3) generally. Prior to amendment, text read as follows: “The term ‘downstream producer’ means a firm that performs additional, value-added production processes for a firm or subdivision, including a firm that performs final assembly or finishing, directly for another firm (or subdivision), for articles that were the basis for a certification of eligibility under subsection (a) of this section of a group of workers employed by such other firm, if the certification of eligibility under subsection (a) of this section is based on an increase in imports from, or a shift in production to, Canada or Mexico.” See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (d)(4). Pub. L. 111–5, §§1801(e)(2)(D)(iv), 1893, temporarily struck out “(or subdivision)” after “another firm” and inserted “, or services, used in the production of articles or in the supply of services, as the case may be,” after “for articles”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (d)(5). Pub. L. 111–5, §§1801(e)(2)(D)(v), 1893, temporarily added par. (5). See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsecs. (e), (f). Pub. L. 111–5, §§1801(c), 1802, 1893, temporarily added subsecs. (e) and (f). See Effective and Termination Dates of 2009 Amendment note below.
 
 2004—Subsec. (b). Pub. L. 108–429 made technical amendment to heading and inserted “pursuant to a petition filed under section 2271 of this title” after “under this part” in introductory provisions.
 
@@ -96,6 +232,12 @@ Par. (3). Pub. L. 98–120, §3(a)(1), substituted “contributed importantly to
 
 1981—Pub. L. 97–35 substituted provisions defining “substantial cause” and applicability of such term in par. (3) for provisions defining “contributed importantly” and applicability of such term in par. (3).
 
+#### Effective and Termination Dates of 2009 Amendment
+
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
+
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–210 applicable to petitions for certification filed under this part or part 3 of this subchapter on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
@@ -114,7 +256,7 @@ Amendment by Pub. L. 97–35 applicable to petitions filed on or after Oct. 1, 1
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 
 #### Workers Covered by Certification Notwithstanding Other Law
 

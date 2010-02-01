@@ -62,7 +62,7 @@ Par. (1). Pub. L. 101–239, §7862(c)(6)(A), repealed Pub. L. 100–647, §3011
 
 Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-Par. (2). Pub. L. 101–239, §7862(c)(2)(A), substituted “the performance of services by the individual for 1 or more persons maintaining the plan (including as anemployee defined in section 401(c)(1) of title 26)” for “the individual's employment or previous employment with an employer”.
+Par. (2). Pub. L. 101–239, §7862(c)(2)(A), substituted “the performance of services by the individual for 1 or more persons maintaining the plan (including as an employee defined in section 401(c)(1) of title 26)” for “the individual's employment or previous employment with an employer”.
 
 Par. (5). Pub. L. 101–239, §7891(d)(2)(B)(i)(II), added par. (5).
 
@@ -88,7 +88,7 @@ Section 7862(c)(6)(B) of Pub. L. 101–239 provided that: “Subparagraph (A) \[
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
-Amendment by section 7891(d)(2)(B)(i) of Pub. L. 101–239 applicable with respect to plan years beginning on or after Jan. 1, 1990, see section 7891(d)(2)(C) of Pub. L. 101–239, set out as a note under section 4980B of Title 26, Internal Revenue Code.
+Amendment by section 7891(d)(2)(B)(i) of Pub. L. 101–239 applicable with respect to plan years beginningon or after Jan. 1, 1990, see section 7891(d)(2)(C) of Pub. L. 101–239, set out as a note under section 4980B of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1988 Amendment
 

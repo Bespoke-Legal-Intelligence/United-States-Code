@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(iii) met criteria determined by the Secretary to suggest an increased risk of elevated incidence or prevalence of mosquito-borne disease in the pending fiscal year;
 
-&emsp;&emsp;(B) demonstrates to the Secretary that such political subdivision or consortium of political subdivisions will, if appropriate to the mosquito circumstances involved, effectively coordinate the activities of the control programs with contiguous political subdivisions;
+&emsp;&emsp;(B) demonstrates to the Secretary that such political subdivision or consortium ofpolitical subdivisions will, if appropriate to the mosquito circumstances involved, effectively coordinate the activities of the control programs with contiguous political subdivisions;
 
 &emsp;&emsp;(C) demonstrates to the Secretary (directly or through State officials) that the State in which such a political subdivision or consortium of political subdivisions is located has identified or will identify geographic areas in such State that have a significant need for control programs and will effectively coordinate such programs in such areas; and
 
@@ -104,7 +104,7 @@
 
 #### (iii) Waiver of requirement
 
-&emsp;&emsp;&emsp;A grant may exceed the maximum amount in clause (i) or (ii) if the Secretarydetermines that the geographical area covered by a political subdivision or consortium awarded a grant under paragraph (1) has an extreme need due to the size or density of—
+&emsp;&emsp;&emsp;A grant may exceed the maximum amount in clause (i) or (ii) if the Secretary determines that the geographical area covered by a political subdivision or consortium awarded a grant under paragraph (1) has an extreme need due to the size or density of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the human population in such geographical area; or
 

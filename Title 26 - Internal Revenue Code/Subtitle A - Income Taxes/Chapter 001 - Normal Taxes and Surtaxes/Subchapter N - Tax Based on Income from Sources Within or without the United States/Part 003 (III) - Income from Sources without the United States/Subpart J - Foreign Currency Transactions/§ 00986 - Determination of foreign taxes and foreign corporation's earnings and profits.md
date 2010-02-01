@@ -36,7 +36,7 @@
 
 #### (E) Special rule for regulated investment companies
 
-&emsp;&emsp;In the case of a regulated investment company which takes into account income on an accrual basis, subparagraphs (A) through (D) shall not apply and foreign income taxespaid or accrued with respect to such income shall be translated into dollars using the exchange rate as of the date the income accrues.
+&emsp;&emsp;In the case of a regulated investment company which takes into account income on an accrual basis, subparagraphs (A) through (D) shall not apply and foreign income taxes paid or accrued with respect to such income shall be translated into dollars using the exchange rate as of the date the income accrues.
 
 #### (F) Cross reference
 

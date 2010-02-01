@@ -4,7 +4,7 @@
 
 #### (c) Activities not conforming to approved or promulgated plans
 
-(1) No department, agency, or instrumentality of the Federal Government shall engage in, support in any way or provide financial assistance for, license or permit, or approve, any activity which does not conform to an implementation plan after it has been approved or promulgated under section 7410 of this title. No metropolitan planning organization designated under section 134 of title 23, shall give its approval to any project, program, or plan which does not conform to an implementation plan approved or promulgated under section 7410 of this title. The assurance of conformity to such an implementation plan shall be an affirmative responsibility of the head of such department, agency, or instrumentality. Conformity to an implementation plan means—
+(1) No department, agency, or instrumentality of the Federal Government shall engage in, support in any way or provide financial assistance for, license or permit, or approve, any activity which does not conform to an implementationplan after it has been approved or promulgated under section 7410 of this title. No metropolitan planning organization designated under section 134 of title 23, shall give its approval to any project, program, or plan which does not conform to an implementation plan approved or promulgated under section 7410 of this title. The assurance of conformity to such an implementation plan shall be an affirmative responsibility of the head of such department, agency, or instrumentality. Conformity to an implementation plan means—
 
 &emsp;(A) conformity to an implementation plan's purpose of eliminating or reducing the severity and number of violations of the national ambient air quality standards and achieving expeditious attainment of such standards; and
 
@@ -102,7 +102,7 @@ Applicability.—This subsection shall apply only with respect to—
 
 &emsp;(B) an area that was designated as a nonattainment area but that was later redesignated by the Administrator as an attainment area and that is required to develop a maintenance plan under section 7505a of this title with respect to the specific pollutant for which the area was designated nonattainment.
 
-(6) Notwithstanding paragraph 5,<sup>2</sup> this subsection shall not apply with respect to an area designated nonattainment under section 7407(d)(1) of this title until 1 year after that area is first designated nonattainment for a specific national ambient air quality standard. This paragraph only applies with respect to the national ambient air quality standard for which anarea is newly designated nonattainment and does not affect the area's requirements with respect to all other national ambient air quality standards for which the area is designated nonattainment or has been redesignated from nonattainment to attainment with a maintenance plan pursuant to section 7505a <sup>1</sup> of this title (including any pre-existing national ambient air quality standard for a pollutant for which a new or revised standard has been issued).
+(6) Notwithstanding paragraph 5,<sup>2</sup> this subsection shall not apply with respect to an area designated nonattainment under section 7407(d)(1) of this title until 1 year after that area is first designated nonattainment for a specific national ambient air quality standard. This paragraph only applies with respect to the national ambient air quality standard for which an area is newly designated nonattainment and does not affect the area's requirements with respect to all other national ambient air quality standards for which the area is designated nonattainment or has been redesignated from nonattainment to attainment with a maintenance plan pursuant to section 7505a <sup>1</sup> of this title (including any pre-existing national ambient air quality standard for a pollutant for which a new or revised standard has been issued).
 
 (7)
 
@@ -168,7 +168,7 @@ Adoption.—(i) Concurrence by the metropolitan planning organization, State air
 
 &emsp;(ii) Once adopted, the substitute or additional control measures become, by operation of law, part of the State implementation plan and become federally enforceable.
 
-&emsp;(iii) Within 90 days of its concurrence under subparagraph (A)(v), the State air pollution control agency shall submit the substitute or additional control measure to the Administrator for incorporation in the codification of the applicable implementation plan.Nothwithstanding <sup>3</sup> any other provision of this chapter, no additional State process shall be necessary to support such revision to the applicable plan.
+&emsp;(iii) Within 90 days of its concurrence under subparagraph (A)(v), the State air pollution control agency shall submit the substitute or additional control measure to the Administrator for incorporation in the codification of the applicable implementation plan. Nothwithstanding <sup>3</sup> any other provision of this chapter, no additional State process shall be necessary to support such revision to the applicable plan.
 
 &emsp;(C)
 
@@ -192,7 +192,7 @@ Effect of adoption.—Adoption of a substitute control measure shall constitute 
 
 (9)
 
-Lapse of conformity.—If a conformity determination required under this subsection for a transportation plan under section 134(i) of title 23 or section 5303(i) of title 49 or a transportation improvement program under section 134(j) of such title 23 or under section 5303(j) of such title 49 is not made by the applicable deadline and such failure is not corrected by additional measures to either reduce motor vehicle emissions sufficient to demonstrate compliance with the requirements of this subsection within 12 months after such deadline or other measures sufficient to correct such failures, the transportation plan shall lapse.
+Lapse of conformity.—If a conformity determination required under this subsection for atransportation plan under section 134(i) of title 23 or section 5303(i) of title 49 or a transportation improvement program under section 134(j) of such title 23 or under section 5303(j) of such title 49 is not made by the applicable deadline and such failure is not corrected by additional measures to either reduce motor vehicle emissions sufficient to demonstrate compliance with the requirements of this subsection within 12 months after such deadline or other measures sufficient to correct such failures, the transportation plan shall lapse.
 
 (10)
 

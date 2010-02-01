@@ -24,7 +24,7 @@ The information submitted to the Congress under this section shall be kept confi
 
 #### (d) Applicability
 
-The provisions of this section shall be in force for all uses of the authority provided under section 13 of the Federal Reserve Act occurring during the period beginning on March 1, 2008 <sup>1</sup> and ending on the after <sup>2</sup> October 3, 2008, and reports described in subsection (a) shall be required beginning not later than 30 days after October 3, 2008, with respect to any such exercise of authority.
+The provisions of this section shall be in force for all uses of the authority provided under section 13 of the Federal Reserve Act occurring during the period beginning on March 1, 2008 and ending on the after <sup>1</sup> October 3, 2008, and reports described in subsection (a) shall be required beginning not later than 30 days after October 3, 2008, with respect to any such exercise of authority.
 
 #### (e) Sharing of information
 
@@ -36,7 +36,5 @@ Any reports required under this section shall also be submitted to the Congressi
 
 Section 13 of the Federal Reserve Act, referred to in subsecs. (a) and (d), is classified to sections 92, 342 to 347, 347c, 347d, 361, 372, and 373 of this title. The third paragraph of section 13 of the Act is classified to the second par. of section 343 of this title. For further details, see Codification notes under sections 342 and 343 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 

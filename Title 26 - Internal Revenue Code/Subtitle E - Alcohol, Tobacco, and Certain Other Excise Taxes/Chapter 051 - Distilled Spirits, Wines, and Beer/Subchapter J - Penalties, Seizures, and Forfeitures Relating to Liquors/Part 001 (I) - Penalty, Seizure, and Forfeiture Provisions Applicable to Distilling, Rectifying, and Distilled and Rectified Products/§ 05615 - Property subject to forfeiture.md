@@ -92,7 +92,7 @@ A prior section 5618, act Aug. 16, 1954, ch. 736, 68A Stat. 686, related to pena
 
 A prior section 5619, act Aug. 16, 1954, ch. 736, 68A Stat. 686, related to penalty for refusal or neglect to draw off water and clean condensers or worm tanks, prior to the general revision of this chapter by Pub. L. 85–859. See section 5687 of this title.
 
-A prior section 5620, act Aug. 16, 1954, ch. 736, 68A Stat. 686, related to penalty and forfeiture for false oromitted entries in distiller's books and records, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5603 and 5615(5) of this title.
+A prior section 5620, act Aug. 16, 1954, ch. 736, 68A Stat. 686, related to penalty and forfeiture for false or omitted entries in distiller's books and records, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5603 and 5615(5) of this title.
 
 A prior section 5621, act Aug. 16, 1954, ch. 736, 68A Stat. 687, related to penalty concerning records and returns of distiller as wholesale dealers, rectifiers, prior to the general revision of this chapter by Pub. L. 85–859. See section 5603 of this title.
 

@@ -36,7 +36,7 @@ The foreclosure commissioner shall serve the notice of default and foreclosure s
 
 #### (ii) Notice under clause (iii)
 
-&emsp;&emsp;&emsp;Notice under clause (iii) of subparagraph (A) shall be mailed not less than 21 days before the date of the foreclosure sale. If the names of the occupants of the security property are not known to the Secretary, or the security property has more than 1 dwelling, the notice shall be posted at the security property not less than 21 days before the foreclosure sale.
+&emsp;&emsp;&emsp;Notice under clause (iii) of subparagraph (A) shall be mailed not less than 21 days before the date of the foreclosure sale. Ifthe names of the occupants of the security property are not known to the Secretary, or the security property has more than 1 dwelling, the notice shall be posted at the security property not less than 21 days before the foreclosure sale.
 
 #### (iii) Notice under clause (iv)
 

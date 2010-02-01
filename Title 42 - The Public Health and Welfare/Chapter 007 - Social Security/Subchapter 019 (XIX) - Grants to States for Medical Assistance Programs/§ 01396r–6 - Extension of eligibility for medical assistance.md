@@ -4,7 +4,13 @@
 
 #### (1) Requirement
 
-&emsp;Notwithstanding any other provision of this subchapter, each State plan approved under this subchapter must provide that each family which was receiving aid pursuant to a plan of the State approved under part A of subchapter IV of this chapter in at least 3 of the 6 months immediately preceding the month in which such family becomes ineligible for such aid, because of hours of, or income from, employment of the caretaker relative (as defined in subsection (e) of this section) or because of section 602(a)(8)(B)(ii)(II) <sup>1</sup> of this title (providing for a time-limited earned income disregard), shall, subject to paragraph (3) and without any reapplication for benefits under the plan, remain eligible for assistance under the plan approved under this subchapter during the immediately succeeding 6-month period in accordance with this subsection.
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding any other provision of this subchapter but subject to subparagraph (B) and paragraph (5), each State plan approved under this subchapter must provide that each family which was receiving aid pursuant to a plan of the State approved under part A of subchapter IV of this chapter in at least 3 of the 6 months immediately preceding the month in which such family becomes ineligible for such aid, because of hours of, or income from, employment of the caretaker relative (as defined in subsection (e) of this section) or because of section 602(a)(8)(B)(ii)(II) <sup>1</sup> of this title (providing for a time-limited earned income disregard),shall, subject to paragraph (3) and without any reapplication for benefits under the plan, remain eligible for assistance under the plan approved under this subchapter during the immediately succeeding 6-month period in accordance with this subsection.
+
+#### (B) State option to waive requirement for 3 months before receipt of medical assistance
+
+&emsp;&emsp;A State may, at its option, elect also to apply subparagraph (A) in the case of a family that was receiving such aid for fewer than three months or that had applied for and was eligible for such aid for fewer than 3 months during the 6 immediately preceding months described in such subparagraph.
 
 #### (2) Notice of benefits
 
@@ -48,11 +54,15 @@
 
 > &emsp;&emsp;Payments for premiums, deductibles, coinsurance, and similar expenses under this subparagraph shall be considered, for purposes of section 1396b(a) of this title, to be payments for medical assistance.
 
+#### (5) Option of 12-month initial eligibility period
+
+&emsp;A State may elect to treat any reference in this subsection to a 6-month period (or 6 months) as a reference to a 12-month period (or 12 months). In the case of such an election, subsection (b) shall not apply.
+
 #### (b) Additional 6-month extension
 
 #### (1) Requirement
 
-&emsp;Notwithstanding any other provision of this subchapter, each State plan approved under this subchapter shall provide that the State shall offer to each family, which has received assistance during the entire 6-month period under subsection (a) of this section and which meets the requirement of paragraph (2)(B)(i), in the last month of the period the option of extending coverage under this subsection for the succeeding 6-month period, subject to paragraph (3).
+&emsp;Notwithstanding any other provision of this subchapter but subject to subsection (a)(5), each State plan approved under this subchapter shall provide that the State shall offer to each family, which has received assistance during the entire 6-month period under subsection (a) of this section and which meets the requirement of paragraph (2)(B)(i), in the last month of the period the option of extending coverage under this subsection for the succeeding 6-month period, subject to paragraph (3).
 
 #### (2) Notice and reporting requirements
 
@@ -104,7 +114,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) the State determines that the family's average gross monthly earnings (less such costs for such child care as is necessary for the employment of the caretaker relative) during the immediately preceding 3-month period exceed 185 percent of the official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved.
 
-> &emsp;&emsp;Information described in clause (iii)(I) shall be subject to the restrictions on use and disclosure of information provided under section 602(a)(9) <sup>2</sup> of this title. Instead of terminating a family's extension under clause (iii)(I), a State, at its option, may provide for suspension of the extension until the month after the month in which the family reports information required under paragraph (2)(B)(ii), but only if the family's extension has not otherwise been terminated under subclause (II) or (III) of clause (iii). The State shall make determinations under clause (iii)(III) for a family each time a report under paragraph (2)(B)(ii) for the family is received.
+> &emsp;&emsp;Information described in clause (iii)(I) shall be subject to the restrictions on use and disclosure of information provided under section 602(a)(9) <sup>2</sup> of this title. Instead of terminating a family's extension under clause (iii)(I), a State, at its option, may providefor suspension of the extension until the month after the month in which the family reports information required under paragraph (2)(B)(ii), but only if the family's extension has not otherwise been terminated under subclause (II) or (III) of clause (iii). The State shall make determinations under clause (iii)(III) for a family each time a report under paragraph (2)(B)(ii) for the family is received.
 
 #### (B) Notice before termination
 
@@ -192,7 +202,7 @@
 
 #### (C) Limit on premium
 
-&emsp;&emsp;In no case may the amount of any premium under this paragraph for a family for a month in either of the premium paymentperiods described in subparagraph (D)(i) exceed 3 percent of the family's average gross monthly earnings (less the average monthly costs for such child care as is necessary for the employment of the caretaker relative) during the premium base period (as defined in subparagraph (D)(ii)).
+&emsp;&emsp;In no case may the amount of any premium under this paragraph for a family for a month in either of the premium payment periods described in subparagraph (D)(i) exceed 3 percent of the family's average gross monthly earnings (less the average monthly costs for such child care as is necessary for the employment of the caretaker relative) during the premium base period (as defined in subparagraph (D)(ii)).
 
 #### (D) Definitions
 
@@ -228,15 +238,25 @@ In this section, the term “caretaker relative” has the meaning of such term 
 
 #### (f) Sunset
 
-This section shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter after September 30, 2003.
+This section shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter after December 31, 2010.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1925, as added Pub. L. 100–485, title III, §303(a)(1), Oct. 13, 1988, 102 Stat. 2385; amended Pub. L. 100–647, title VIII, §8436(a), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–239, title VI, §6411(i)(1), (3), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 101–508, title IV, §§4601(a)(3)(B), 4716(a), Nov. 5, 1990, 104 Stat. 1388–167, 1388–192; Pub. L. 104–193, title I, §114(c), Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(ix), (D), 4703(b)(2), Aug. 5, 1997, 111 Stat. 493, 495; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(t)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §707(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–577; Pub. L. 108–40, §7(a), June 30, 2003, 117 Stat. 837.)
+#### (g) Collection and reporting of participation information
+
+#### (1) Collection of information from States
+
+&emsp;Each State shall collect and submit to the Secretary (and make publicly available), in a format specified by the Secretary, information on average monthly enrollment and average monthly participation rates for adults and children under this section and of the number and percentage of children who become ineligible for medical assistance under this section whose medical assistance is continued under another eligibility category or who are enrolled under the State's child health plan under subchapter XXI. Such information shall be submitted at the same time and frequencyin which other enrollment information under this subchapter is submitted to the Secretary.
+
+#### (2) Annual reports to Congress
+
+&emsp;Using the information submitted under paragraph (1), the Secretary shall submit to Congress annual reports concerning enrollment and participation rates described in such paragraph.
+
+(Aug. 14, 1935, ch. 531, title XIX, §1925, as added Pub. L. 100–485, title III, §303(a)(1), Oct. 13, 1988, 102 Stat. 2385; amended Pub. L. 100–647, title VIII, §8436(a), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–239, title VI, §6411(i)(1), (3), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 101–508, title IV, §§4601(a)(3)(B), 4716(a), Nov. 5, 1990, 104 Stat. 1388–167, 1388–192; Pub. L. 104–193, title I, §114(c), Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(ix), (D), 4703(b)(2), Aug. 5, 1997, 111 Stat. 493, 495; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(t)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §707(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–577; Pub. L. 108–40, §7(a), June 30, 2003, 117 Stat. 837; Pub. L. 111–5, div. B, title V, §5004(a)(1), (b)–(d), Feb. 17, 2009, 123 Stat. 503, 504.)
 
 #### References in Text
 
 Part A of subchapter IV of this chapter, referred to in text, is classified to section 601 et seq. of this title.
 
-Section 602 of this title, referred to in subsecs. (a)(1) and (b)(3)(A), was repealed and a new section 602 enacted by Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, no longer contains a subsec. (a)(8)(B)(ii)(II) or (a)(9).
+Section 602 of this title, referred to in subsecs. (a)(1)(A) and (b)(3)(A), was repealed and a new section 602 enacted by Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, no longer contains a subsec. (a)(8)(B)(ii)(II) or (a)(9).
 
 Paragraph (21) of section 1396d(a) of this title, referred to in subsec. (b)(4)(B), was redesignated paragraph (22) by Pub. L. 101–239, title VI, §6405(a)(2), Dec. 19, 1989, 103 Stat. 2265.
 
@@ -245,6 +265,18 @@ Paragraph (21) of section 1396d(a) of this title, referred to in subsec. (b)(4)(
 A prior section 1925 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+2009—Subsec. (a)(1). Pub. L. 111–5, §5004(c)(2), (3), designated existing provisions as subpar. (A), inserted heading, added subpar. (B), and realigned margins.
+
+Pub. L. 111–5, §5004(b)(1), (c)(1), inserted “but subject to subparagraph (B) and paragraph (5)” after “Notwithstanding any other provision of this subchapter”.
+
+Subsec. (a)(5). Pub. L. 111–5, §5004(b)(2), added par. (5).
+
+Subsec. (b)(1). Pub. L. 111–5, §5004(b)(3), inserted “but subject to subsection (a)(5)” after “Notwithstanding any other provision of this subchapter”.
+
+Subsec. (f). Pub. L. 111–5, §5004(a)(1), substituted “December 31, 2010” for “September 30, 2003”.
+
+Subsec. (g). Pub. L. 111–5, §5004(d), added subsec. (g).
 
 2003—Subsec. (f). Pub. L. 108–40 substituted “2003” for “2002”.
 
@@ -282,13 +314,19 @@ Subsec. (b)(3)(C)(i). Pub. L. 101–239, §6411(i)(3), substituted “of section
 
 1988—Subsec. (b)(5)(C). Pub. L. 100–647, which directed the amendment of subsec. (d)(5)(C) by inserting “(less the average monthly costs for such child care as is necessary for the employment of the caretaker relative)” after “gross monthly earnings”, was executed to subsec. (b)(5)(C) to reflect the probable intent of Congress.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by section 5004(a)(1) of Pub. L. 111–5 effective July 1, 2009, see section 5004(a)(2) of Pub. L. 111–5, set out as a note under section 1396a of this title.
+
+Pub. L. 111–5, div. B, title V, §5004(e), Feb. 17, 2009, 123 Stat. 505, provided that: “The amendments made by subsections (b) through (d) \[amending this section\] shall take effect on July 1, 2009.”
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–40 effective July 1, 2003, see section 8 of Pub. L. 108–40, set out as a note under section 603 of this title.
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 4701(b)(2)(A)(ix), (D) of Pub. L. 105–33 effective Aug. 5, 1997, and applicable to contracts entered into or renewed on or after Oct. 1, 1997, see section 4710(a) of Pub. L. 105–33, set out as a note under section 1396b of this title.
+Amendment by section 4701(b)(2)(A)(ix), (D) of Pub. L. 105–33 effective Aug. 5, 1997, and applicable to contractsentered into or renewed on or after Oct. 1, 1997, see section 4710(a) of Pub. L. 105–33, set out as a note under section 1396b of this title.
 
 Amendment by section 4703(b)(2) of Pub. L. 105–33 applicable to contracts under section 1396b(m) of this title on and after June 20, 1997, subject to provisions relating to extension of effective date for State law amendments, and to nonapplication to waivers, see section 4710(b)(2) of Pub. L. 105–33, set out as a note under section 1396b of this title.
 

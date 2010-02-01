@@ -2,7 +2,7 @@
 
 As used in this subchapter—
 
-(a) The term “Federal reclamation laws” shall mean the Act of June 17, 1902 (32 Stat. 388), andall Acts amendatory thereof or supplementary thereto.
+(a) The term “Federal reclamation laws” shall mean the Act of June 17, 1902 (32 Stat. 388), and all Acts amendatory thereof or supplementary thereto.
 
 (b) The term “Secretary” shall mean the Secretary of the Interior.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and Contents.—The Secretary of Transportation shall establish as soon as practicable and maintain a National Driver Register to assist chief driver licensing officials of participating States in exchanging information about the motor vehicle driving records of individuals. The Register shall contain an index of the information reported to the Secretary under section 30304 of this title. The Register shall enable the Secretary (electronically or, until all States can participate electronically, by United States mail)—
+Establishment and Contents.—The Secretary of Transportation shall establish as soon as practicable and maintain a National Driver Register to assist chief driver licensing officials of participating States in exchanging information about the motor vehicle driving records of individuals. The Register shall contain an index of the information reported to the Secretary under section 30304 of this title. The Register shall enable the Secretary (electronically or,until all States can participate electronically, by United States mail)—
 
 &emsp;(1) to receive information submitted under section 30304 of this title by the chief driver licensing official of a State of record;
 
@@ -46,7 +46,7 @@ Agreement.—The Secretary may enter into an agreement with an organization that
 
 &emsp;(2)
 
-Required demonstration.—Any transfer of the National Driver Register's computer timeshare and user assistance functions to an organization that represents the interests of the States shall begin only after a determination is made by the Secretary that all States are participating in the National Driver Register's “Problem Driver Pointer System” (thesystem used by the Register to effect the exchange of motor vehicle driving records) and that the system is functioning properly.
+Required demonstration.—Any transfer of the National Driver Register's computer timeshare and user assistance functions to an organization that represents the interests of the States shall begin only after a determination is made by the Secretary that all States are participating in the National Driver Register's “Problem Driver Pointer System” (the system used by the Register to effect the exchange of motor vehicle driving records) and that the system is functioning properly.
 
 &emsp;(3)
 

@@ -20,7 +20,7 @@ A State child health plan shall include a description, consistent with the requi
 
 &emsp;&emsp;(A) to assure the quality and appropriateness of care, particularly with respect to well-baby care, well-child care, and immunizations provided under the plan, and
 
-&emsp;&emsp;(B) to assure access to covered services, including emergency services.
+&emsp;&emsp;(B) to assure access to covered services, including emergency services and services described in section 1397cc(c)(5) of this title.
 
 #### (b) General description of eligibility standards and methodology
 
@@ -34,9 +34,13 @@ A State child health plan shall include a description, consistent with the requi
 
 &emsp;&emsp;Such eligibility standards—
 
-&emsp;&emsp;&emsp;(i) shall, within any defined group of covered targeted low-income children, not cover such children with higher family income without covering children with a lower family income, and
+&emsp;&emsp;&emsp;(i) shall, within any defined group of covered targeted low-income children, not cover such children with higher family income without covering children with a lower family income;
 
-&emsp;&emsp;&emsp;(ii) may not deny eligibility based on a child having a preexisting medical condition.
+&emsp;&emsp;&emsp;(ii) may not deny eligibility based on a child having a preexisting medical condition;
+
+&emsp;&emsp;&emsp;(iii) may not apply a waiting period (including a waiting period to carry out paragraph (3)(C)) in the case of a targeted low-income pregnant woman provided pregnancy-related assistance under section 1397<i>ll</i> of this title; and
+
+&emsp;&emsp;&emsp;(iv) at State option, may not apply a waiting period in the case of a child provided dental-only supplemental coverage under section 1397jj(b)(5) of this title.
 
 #### (2) Methodology
 
@@ -46,7 +50,7 @@ A State child health plan shall include a description, consistent with the requi
 
 &emsp;The plan shall include a description of procedures to be used to ensure—
 
-&emsp;&emsp;(A) through both intake and followup screening, that only targeted low-income children are furnished child health assistance under the State child health plan;
+&emsp;&emsp;(A) through both intake and followup screening, that only targeted low-incomechildren are furnished child health assistance under the State child health plan;
 
 &emsp;&emsp;(B) that children found through the screening to be eligible for medical assistance under the State medicaid plan under subchapter XIX of this chapter are enrolled for such assistance under such plan;
 
@@ -56,7 +60,17 @@ A State child health plan shall include a description, consistent with the requi
 
 &emsp;&emsp;(E) coordination with other public and private programs providing creditable coverage for low-income children.
 
-#### (4) Nonentitlement
+#### (4) Reduction of administrative barriers to enrollment
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), the plan shall include a description of the procedures used to reduce administrative barriers to the enrollment of children and pregnant women who are eligible for medical assistance under subchapter XIX or for child health assistance or health benefits coverage under this subchapter. Such procedures shall be established and revised as often as the State determines appropriate to take into account the most recent information available to the State identifying such barriers.
+
+#### (B) Deemed compliance if joint application and renewal process that permits application other than in person
+
+&emsp;&emsp;A State shall be deemed to comply with subparagraph (A) if the State's application and renewal forms and supplemental forms (if any) and information verification process is the same for purposes of establishing and renewing eligibility for children and pregnant women for medical assistance under subchapter XIX and child health assistance under this subchapter, and such process does not require an application to be made in person or a face-to-face interview.
+
+#### (5) Nonentitlement
 
 &emsp;Nothing in this subchapter shall be construed as providing an individual with an entitlement to child health assistance under a State child health plan.
 
@@ -66,11 +80,33 @@ A State child health plan shall include a description of the procedures to be us
 
 #### (1) Outreach
 
-&emsp;Outreach to families of children likely to be eligible for child health assistance under the plan or under other public or private health coverage programs to inform these families of the availability of, and to assist them in enrolling their children in, such a program.
+&emsp;Outreach (through community health workers and others) to families of children likely to be eligible for child health assistance under the plan or under other public or private health coverage programs to inform these families of the availability of, and to assist them in enrolling their children in, such a program.
 
 #### (2) Coordination with other health insurance programs
 
 &emsp;Coordination of the administration of the State program under this subchapter with other public and private health insurance programs.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2102, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 552.)
+#### (3) Premium assistance subsidies
+
+&emsp;In the case of a State that provides for premium assistance subsidies under the State child health plan in accordance with paragraph (2)(B), (3), or (10) of section 1397ee(c) of this title, or a waiver approved under section 1315 of this title, outreach, education, and enrollment assistance for families of children likely to be eligible for such subsidies, to inform such families of the availability of, and to assist them in enrolling their children in, such subsidies, and for employers likely to provide coverage that is eligible for such subsidies, including the specific, significant resources the State intends to apply to educate employers about the availability of premium assistance subsidies under the State child health plan.
+
+(Aug. 14, 1935, ch. 531, title XXI, §2102, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 552; amended Pub. L. 111–3, title I, §111(b)(2), title II, §§201(b)(2)(B)(i), 212, title III, §302(a), title V, §501(a)(2), (b)(2), Feb. 4, 2009, 123 Stat. 28, 39, 55, 63, 85, 86.)
+
+#### Amendments
+
+2009—Subsec. (a)(7)(B). Pub. L. 111–3, §501(a)(2), inserted “and services described in section 1397cc(c)(5) of this title” after “emergency services”.
+
+Subsec. (b)(1)(B)(iii), (iv). Pub. L. 111–3, §§111(b)(2), 501(b)(2), added cls. (iii) and (iv).
+
+Subsec. (b)(4), (5). Pub. L. 111–3, §212, added par. (4) and redesignated former par. (4) as (5).
+
+Subsec. (c)(1). Pub. L. 111–3, §201(b)(2)(B)(i), inserted “(through community health workers and others)” after “Outreach”.
+
+Subsec. (c)(3). Pub. L. 111–3, §302(a), added par. (3).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by sections 111(b)(2), 201(b)(2)(B)(i), 212, 302(a), and 501(b)(2) of Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of this title.
+
+Pub. L. 111–3, title V, §501(a)(3), Feb. 4, 2009, 123 Stat. 85, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 1397cc of this title\] shall apply to coverage of items and services furnished on or after October 1, 2009.”
 

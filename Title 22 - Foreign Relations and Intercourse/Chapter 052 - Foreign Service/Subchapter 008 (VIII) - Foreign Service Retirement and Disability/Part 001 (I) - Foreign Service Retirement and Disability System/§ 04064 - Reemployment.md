@@ -54,13 +54,13 @@ In the event of any overpayment under this section, such overpayment shall be re
 
 &emsp;(A) if, and for so long as, such waiver is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances;
 
-&emsp;(B) to facilitate the assignment of persons to Iraq and Afghanistan or to posts vacated by members of the Service assigned to Iraq and Afghanistan, if the annuitant is employed in a position for which there is exceptional difficulty in recruiting or retaining a qualified employee; or
+&emsp;(B) to facilitate the assignment of persons to Iraq, Pakistan, and Afghanistan or to posts vacated by members of the Service assigned to Iraq, Pakistan, and Afghanistan, if the annuitant is employed in a position for which there is exceptional difficulty in recruiting or retaining a qualified employee; or
 
 &emsp;(C)(i) to provide assistance to consular posts with a substantial backlog of visa applications; or
 
 &emsp;(ii) to provide assistance to meet the demand resulting from the passport and travel document requirements set forth in section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 8 U.S.C. 1185 note), including assistance related to the investigation of fraud in connection with an application for a passport.
 
-(2)(A) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (B) of paragraph (1), or to grant authority to the head of an Executive agency to waive the application of such subsections to an annuitant under such subparagraph, shall terminate on October 1, 2009. An annuitant reemployed pursuant to such authority prior to such termination date may be employed for a period ending not later than one year after such date.
+(2)(A) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (B) of paragraph (1), or to grant authority to the head of an Executive agency to waive the application of such subsections to an annuitant under such subparagraph, shall terminate on October 1, 2010. An annuitant reemployed pursuant to such authority prior to such termination date may be employed for a period ending not later than one year after such date.
 
 (B) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (C)(i) of paragraph (1) shall terminate on September 30, 2009.
 
@@ -72,9 +72,13 @@ In the event of any overpayment under this section, such overpayment shall be re
 
 A reemployed annuitant as to whom a waiver under subsection (g) of this section is in effect shall not be considered a participant for purposes of this part or part II of this subchapter, or an employee for purposes of chapter 83 or 84 of title 5.
 
-(Pub. L. 96–465, title I, §824, Oct. 17, 1980, 94 Stat. 2122; Pub. L. 99–335, title IV, §§402(a)(2), 410, June 6, 1986, 100 Stat. 609, 613; Pub. L. 99–556, title IV, §403, Oct. 27, 1986, 100 Stat. 3136; Pub. L. 105–277, div. C, title I, §103, Oct. 21, 1998, 112 Stat. 2681–585; Pub. L. 109–234, title I, §1602(a), June 15, 2006, 120 Stat. 440; Pub. L. 109–289, div. B, title II, §20941, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 46; Pub. L. 110–50, §2, July 30, 2007, 121 Stat. 261; Pub. L. 110–321, §1, Sept. 19, 2008, 122 Stat. 3535.)
+(Pub. L. 96–465, title I, §824, Oct. 17, 1980, 94 Stat. 2122; Pub. L. 99–335, title IV, §§402(a)(2), 410, June 6, 1986, 100 Stat. 609, 613; Pub. L. 99–556, title IV, §403, Oct. 27, 1986, 100 Stat. 3136; Pub. L. 105–277, div. C, title I, §103, Oct. 21, 1998, 112 Stat. 2681–585; Pub. L. 109–234, title I, §1602(a), June 15, 2006, 120 Stat. 440; Pub. L. 109–289, div. B, title II, §20941, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 46; Pub. L. 110–50, §2, July 30, 2007, 121 Stat. 261; Pub. L. 110–321, §1, Sept. 19, 2008, 122 Stat. 3535; Pub. L. 111–32, title XI, §1115(c)(1), June 24, 2009, 123 Stat. 1905.)
 
 #### Amendments
+
+2009—Subsec. (g)(1)(B). Pub. L. 111–32 inserted “, Pakistan,” after “Iraq” in two places.
+
+Subsec. (g)(2). Pub. L. 111–32, §1115(c)(1), which directed amendment of subsec. (g)(2) by substituting “2010” for “2009”, was executed by making the substitution in subpar. (A) only, to reflect the probable intent of Congress.
 
 2008—Subsec. (g)(2)(A), (B). Pub. L. 110–321 substituted “2009” for “2008”.
 
@@ -94,7 +98,7 @@ Subsec. (g)(3). Pub. L. 109–289, §20941(3), as added by Pub. L. 110–5, subs
 
 1998—Pub. L. 105–277, which directed amendment of section 824 of the Foreign Service Act, in subsec. (a)(1)(A), by inserting “or in the case of a waiver under subsection (g) of this section” after “subsection (b) of this section”, and by adding subsecs. (g) and (h), was executed to this section, which is section 824 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
 
-1986—Subsec. (a). Pub. L. 99–335, §410, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Notwithstanding any other law, any member of the Service who has retired and is receiving an annuity under this part, and who is reemployed in the Government service in any part-time or full-time appointive position, shall be entitled to receive the salary of the position in which he or she is serving plus so much of the annuity payable under this part whichwhen combined with such salary does not exceed during any calendar year the basic salary the member was entitled to receive under this chapter on the date of retirement from the Service. Any such reemployed member of the Service who receives salary during any calendar year in excess of the maximum amount which he or she may be entitled to receive under this subsection shall be entitled to such salary in lieu of benefits under this part.”
+1986—Subsec. (a). Pub. L. 99–335, §410, amended subsec. (a) generally. Prior to amendment, subsec. (a) readas follows: “Notwithstanding any other law, any member of the Service who has retired and is receiving an annuity under this part, and who is reemployed in the Government service in any part-time or full-time appointive position, shall be entitled to receive the salary of the position in which he or she is serving plus so much of the annuity payable under this part which when combined with such salary does not exceed during any calendar year the basic salary the member was entitled to receive under this chapter on the date of retirement from the Service. Any such reemployed member of the Service who receives salary during any calendar year in excess of the maximum amount which he or she may be entitled to receive under this subsection shall be entitled to such salary in lieu of benefits under this part.”
 
 Pub. L. 99–335, §402(a)(2), substituted “this part” for “this subchapter” in three places.
 

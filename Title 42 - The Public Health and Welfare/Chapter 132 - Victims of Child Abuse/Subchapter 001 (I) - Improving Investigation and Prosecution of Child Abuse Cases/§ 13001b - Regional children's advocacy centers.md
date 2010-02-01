@@ -22,7 +22,7 @@ The Administrator, in coordination with the Director and with the Director of th
 
 &emsp;&emsp;(B) fund existing regional centers with expertise in the prevention, judicial handling, and treatment of child abuse and neglect; and
 
-&emsp;&emsp;(C) fund the establishment of freestanding facilities in multidisciplinary programswithin communities that have yet to establish such facilities,
+&emsp;&emsp;(C) fund the establishment of freestanding facilities in multidisciplinary programs within communities that have yet to establish such facilities,
 
 > &emsp;for the purpose of enabling grant recipients to provide information, services, and technical assistance to aid communities in establishing multidisciplinary programs that respond to child abuse.
 
@@ -150,7 +150,7 @@ The Administrator, in coordination with the Director and with the Director of th
 
 #### (A) Failure to implement program activities
 
-&emsp;&emsp;If a grant recipient under this section substantially fails in the implementation of the program activities, the Administrator shall not discontinue funding until reasonable notice and an opportunity for reconsideration is given.
+&emsp;&emsp;If a grant recipient under this section substantially fails in the implementation of theprogram activities, the Administrator shall not discontinue funding until reasonable notice and an opportunity for reconsideration is given.
 
 #### (B) Solicitation of new proposals
 

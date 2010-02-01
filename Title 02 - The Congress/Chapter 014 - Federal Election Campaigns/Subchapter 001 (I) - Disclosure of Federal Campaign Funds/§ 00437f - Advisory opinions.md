@@ -40,7 +40,7 @@ Another prior section 308 of Pub. L. 92–225 was renumbered section 311, and is
 
 #### Amendments
 
-1986—Subsecs. (a)(1), (b), (c)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “InternalRevenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1986—Subsecs. (a)(1), (b), (c)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1980—Subsec. (a). Pub. L. 96–187, §107, redesignated existing provisions as par. (1), substituted provisions requiring the Commission to render a written advisory opinion no later than 60 days after receiving a written request concerning the application of this Act, chapters 95 or 96 of title 26, or a rule or regulation for provisions requiring a written advisory opinion within a reasonable time in response to a written request by any individual holding Federal office, candidate for Federal office, any political committee or the national committee of a political party, provisions requiring promulgation of a rule or regulation pursuant to procedures established by section 438(c) of this title, and prohibiting issuance of advisory opinions except in accordance with the provisions of this section, and added par. (2).
 

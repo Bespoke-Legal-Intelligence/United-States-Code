@@ -180,7 +180,7 @@ Amendment by section 661(a)(3)(B)(ii) of Pub. L. 106–65 effective 180 days aft
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under suchamendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
 
 #### Effective Date of 1994 Amendments
 
@@ -216,5 +216,5 @@ Section effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out 
 
 #### Period When Election May First Be Made
 
-Section 206(b) of Pub. L. 99–335, as amended by Pub. L. 99–509, title VI, §6001(b), Oct. 21, 1986, 100 Stat. 1930, provided that an election could first be made by a Federal employee or a Member of Congress under 5 U.S.C. 8351 (a)(2) during an election period prescribed by Executive Director of Federal Retirement Thrift Investment Board to begin on Apr. 1, 1987, with such electionto take effect on first day of employee's or Member's first pay period which began on or after the date of the election. The maximum amount that an employee or Member could elect to contribute during any pay period which began on or after Apr. 1, 1987, and before Oct. 1, 1987, was an amount equal to 7.5 percent of the individual's basic pay for that period.
+Section 206(b) of Pub. L. 99–335, as amended by Pub. L. 99–509, title VI, §6001(b), Oct. 21, 1986, 100 Stat. 1930, provided that an election could first be made by a Federal employee or a Member of Congress under 5 U.S.C. 8351 (a)(2) during an election period prescribed by Executive Director of Federal Retirement Thrift Investment Board to begin on Apr. 1, 1987, with such election to take effect on first day of employee's or Member's first pay period which began on or after the date of the election. The maximum amount that an employee or Member could elect to contribute during any pay period which began on or after Apr. 1, 1987, and before Oct. 1, 1987, was an amount equal to 7.5 percent of the individual's basic pay for that period.
 

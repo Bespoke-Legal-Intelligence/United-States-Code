@@ -60,7 +60,7 @@ Section 23(e) of Pub. L. 99–653, as added by Pub. L. 100–525, §8(r), Oct. 2
 
 “(4) In this subsection:
 
-&emsp;“(A) The term ‘new section 309(a)’ means section 309(a) of the Immigration and Nationality Act \[8U.S.C. 1409(a)\], as amended by section 13 of this Act \[section 13 of Pub. L. 99–653\] and as in effect after the date of the enactment of this Act.
+&emsp;“(A) The term ‘new section 309(a)’ means section 309(a) of the Immigration and Nationality Act \[8 U.S.C. 1409(a)\], as amended by section 13 of this Act \[section 13 of Pub. L. 99–653\] and as in effect after the date of the enactment of this Act.
 
 &emsp;“(B) The term ‘old section 309(a)’ means section 309(a) of the Immigration and Nationality Act, as in effect before the date of the enactment of this Act.”
 

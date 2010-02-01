@@ -6,7 +6,7 @@ The Postmaster General shall submit semiannual reports to the Inspector General 
 
 &emsp;(2) the number of cases in which the authority described in section 3005(e) of this title was used;
 
-&emsp;(3) the number of applications for temporary restraining orders or preliminary injunctionssubmitted under section 3007 of this title and, of those applications, the number granted;
+&emsp;(3) the number of applications for temporary restraining orders or preliminary injunctions submitted under section 3007 of this title and, of those applications, the number granted;
 
 &emsp;(4) the total amount of expenditures and obligations incurred in carrying out the investigative activities of the Postal Service;
 

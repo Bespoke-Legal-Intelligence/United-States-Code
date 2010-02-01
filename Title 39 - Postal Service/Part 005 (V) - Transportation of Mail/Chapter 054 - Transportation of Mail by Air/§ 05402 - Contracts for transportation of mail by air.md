@@ -312,7 +312,7 @@ Good Faith Effort Required.—The Postal Service and potential offerors shall pu
 
 &emsp;(II) 5 percent of the share of each nonpassenger carrier servicing that route that transports 25 percent or more of the total nonmail freight under subsection (i)(1).
 
-(ii) Additional 121 bush passenger carriers entering service on that city pair route after thefirst 3 shall not receive any additional mail share.
+(ii) Additional 121 bush passenger carriers entering service on that city pair route after the first 3 shall not receive any additional mail share.
 
 (iii) If any 121 bush passenger carrier on a city pair route receiving an additional share of the mail under clause (ii) discontinues service on that route, the 121 bush passenger carrier that has been providing the longest period of service on that route and is otherwise eligible but is not receiving a share by reason of clause (ii), shall receive the share of the carrier discontinuing service.
 
@@ -350,7 +350,7 @@ Good Faith Effort Required.—The Postal Service and potential offerors shall pu
 
 (j)(1) Except as provided by paragraph (3), there shall be equitable tender of 10 percent of the nonpriority bypass mail to all carriers on each city pair route in the State of Alaska meeting the requirements of subsection (g)(1) that do not otherwise qualify for tender under subsection (h) or (i).
 
-(2) If no carrier qualifies under this subsection with respect to a city pair route, the 10 percent of nonpriority bypass mail allocated under paragraph (1) shall be divided evenly between the pools described under subsections (h) and (i) tobe equitably tendered among qualified carriers under such subsections, such that—
+(2) If no carrier qualifies under this subsection with respect to a city pair route, the 10 percent of nonpriority bypass mail allocated under paragraph (1) shall be divided evenly between the pools described under subsections (h) and (i) to be equitably tendered among qualified carriers under such subsections, such that—
 
 &emsp;(A) the amount of nonpriority bypass mail available for tender among qualified carriers under subsection (h) shall be 75 percent; and
 
@@ -434,7 +434,7 @@ Good Faith Effort Required.—The Postal Service and potential offerors shall pu
 
 (s) Notwithstanding any other provision of law, and except for written contracts authorized under subsections (b), (c) and (d), tender by the Postal Service of any category of mail to a carrier for transportation between any two points in the State of Alaska shall not give rise to any contract between the Postal Service and a carrier, nor shall any such carrier acquire any right in continued or future tender of such mail by virtue of past or present receipt of such mail. This subsection shall apply to any case commenced before, on, or after the date of enactment of this subsection.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 772; Pub. L. 98–443, §9(g)(4), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 100–238, title I, §137, Jan. 8, 1988, 101 Stat. 1767; Pub. L. 103–272, §4(g)(2), July 5, 1994, 108 Stat. 1364; Pub. L. 103–429, §5, Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–52, title VI, §631(a), Nov. 19, 1995, 109 Stat. 505; Pub. L. 107–67, title VI, §651, Nov. 12, 2001, 115 Stat. 557; Pub. L. 107–171, title X, §10501, May 13, 2002, 116 Stat. 509; Pub. L. 107–206, title III, §3002(c), (e)(1), Aug. 2, 2002, 116 Stat. 911, 924; Pub. L. 108–447, div. J, title III, §301(c)–(f), Dec. 8, 2004, 118 Stat. 3350, 3351; Pub. L. 109–435, title X, §§1002(b)(2), 1005(a)–(g), Dec. 20, 2006, 120 Stat. 3255–3258; Pub. L. 110–405, §2(a), (b)(11), Oct. 13, 2008, 122 Stat. 4287, 4290.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 772; Pub. L. 98–443, §9(g)(4), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 100–238, title I, §137, Jan. 8, 1988, 101 Stat. 1767; Pub. L. 103–272, §4(g)(2), July 5, 1994, 108 Stat. 1364; Pub. L. 103–429, §5, Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–52, title VI, §631(a), Nov. 19,1995, 109 Stat. 505; Pub. L. 107–67, title VI, §651, Nov. 12, 2001, 115 Stat. 557; Pub. L. 107–171, title X, §10501, May 13, 2002, 116 Stat. 509; Pub. L. 107–206, title III, §3002(c), (e)(1), Aug. 2, 2002, 116 Stat. 911, 924; Pub. L. 108–447, div. J, title III, §301(c)–(f), Dec. 8, 2004, 118 Stat. 3350, 3351; Pub. L. 109–435, title X, §§1002(b)(2), 1005(a)–(g), Dec. 20, 2006, 120 Stat. 3255–3258; Pub. L. 110–405, §2(a), (b)(11), Oct. 13, 2008, 122 Stat. 4287, 4290.)
 
 #### References in Text
 
@@ -520,7 +520,7 @@ Pub. L. 107–206, §3002(c)(1)(B), redesignated subsec. (c) as (d). Former subs
 
 Subsec. (d)(2)(A). Pub. L. 107–171, §10501(1), inserted “, honeybees,” after “poultry”.
 
-Subsec. (d)(2)(C). Pub. L. 107–171, §10501(2), struck out subpar. (C) which read as follows: “The authority of the Postal Service under subparagraph (B) shall apply during the period beginning on November 12, 2001, and ending June 30, 2002.”
+Subsec. (d)(2)(C). Pub. L. 107–171, §10501(2), struck out subpar. (C) which read as follows: “The authority of thePostal Service under subparagraph (B) shall apply during the period beginning on November 12, 2001, and ending June 30, 2002.”
 
 Pub. L. 107–206, §3002(c)(1)(A), (B), redesignated subsec. (d) as (e) and struck out former subsec. (e) which read as follows: “For purposes of this section, the terms ‘air carrier’, ‘interstate air transportation’, and ‘foreign air transportation’ have the meanings given such terms in section 40102(a) of title 49.”
 

@@ -70,7 +70,7 @@ Subsec. (b)(3). Pub. L. 107–296, §1004(7), and Pub. L. 107–347, §304(7), a
 
 Subsecs. (f), (g). Pub. L. 107–296, §1004(8), (9), and Pub. L. 107–347, §304(8), (9), amended section identically, adding subsec. (f) and redesignating former subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 107–296, §1004(10), and Pub. L. 107–347, §304(10), amended section identically, adding subsec. (h) and striking out former subsec. (h) which read as follows: “As used in this section, the terms ‘computer system’ and ‘Federal computer system’ have the meanings given in section 278g–3 of this title.”
+Subsec. (h). Pub. L. 107–296, §1004(10), and Pub. L. 107–347, §304(10), amended section identically, addingsubsec. (h) and striking out former subsec. (h) which read as follows: “As used in this section, the terms ‘computer system’ and ‘Federal computer system’ have the meanings given in section 278g–3 of this title.”
 
 Pub. L. 107–296, §1004(9), and Pub. L. 107–347, §304(9), amended section identically, redesignating subsec. (g) as (h).
 

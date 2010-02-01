@@ -40,7 +40,7 @@ In subsections (a), (b), and (c), the title “Administrative Assistant” is su
 
 In subsection (a), the words “an inferior officer” are omitted, since the Secretary's authority to appoint the Administrative Assistant makes the office an inferior office within the meaning of the Constitution. The words “perform duties that the Secretary considers appropriate” are substituted for the words “to be employed therein as he shall deem proper”.
 
-In subsection (b), the words “During a vacancy in the office of Secretary \* \* \* has” are substituted for the words “whenever the Secretary of the Army shall be removed from office by the President of the United States, or in any other case of vacancy, shall, during such vacancy have the”. The word “of” is substituted for the words “appertaining to”.
+In subsection (b), the words “During a vacancy in the office of Secretary has” are substituted for the words “whenever the Secretary of the Army shall be removed from office by the President of the United States, or in any other case of vacancy, shall, during such vacancy have the”. The word “of” is substituted for the words “appertaining to”.
 
 In subsection (c), the words “during the temporary absence of the Secretary” are substituted for the words “When, from illness or other cause, the Secretary of War is temporarily absent from the War Department”. The words “requisitions upon the Treasury Department” are omitted as surplusage. The last sentence is substituted for 5:187 (words after semicolon).
 

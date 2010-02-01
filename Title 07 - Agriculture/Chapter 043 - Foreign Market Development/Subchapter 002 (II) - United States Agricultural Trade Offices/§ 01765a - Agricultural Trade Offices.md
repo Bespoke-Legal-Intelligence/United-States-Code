@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-For the purpose of developing, maintaining, and expanding international markets for United States agricultural commodities, the Secretary of Agriculture, after consultation with the Secretary of State, shall establish not less than six nor more than twenty-five United States Agricultural Trade Offices in other nations.
+For the purpose of developing, maintaining, and expanding international markets for United States agricultural commodities, the Secretary of Agriculture, after consultation with the Secretary of State, shall establish not less than sixnor more than twenty-five United States Agricultural Trade Offices in other nations.
 
 #### (b) Administration
 

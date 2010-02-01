@@ -20,7 +20,7 @@ A compliance agreement under this section shall contain—
 
 #### (d) Failure of recipient to comply with terms and conditions
 
-If a recipient fails to comply with the terms and conditions of a compliance agreement under this section, the Secretary may consider that compliance agreement to be no longer in effect, and the Secretary may take any action authorized by law with respect to the recipient.
+If a recipient fails to comply with the terms and conditions of a compliance agreement under this section, the Secretary may consider that compliance agreement to be no longer in effect,and the Secretary may take any action authorized by law with respect to the recipient.
 
 (Pub. L. 90–247, title IV, §457, as added Pub. L. 100–297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 355.)
 

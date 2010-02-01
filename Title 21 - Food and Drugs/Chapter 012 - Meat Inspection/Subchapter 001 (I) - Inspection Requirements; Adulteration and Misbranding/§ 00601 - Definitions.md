@@ -106,7 +106,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in pars. (q) and (r), is act June 25, 1938, ch. 675, 52Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in pars. (q) and (r), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 #### Codification
 
@@ -126,7 +126,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set outas an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Pub. L. 110–234, title XI, §11016(b)(2)(A), May 22, 2008, 122 Stat. 1369, and Pub. L. 110–246, §4(a), title XI, §11016(b)(2)(A), June 18, 2008, 122 Stat. 1664, 2131, provided that: “The amendments made by paragraph (1) \[enacting sections 606 and 625 of this title, amending this section, and repealing former section 606 of this title\] shall not apply until the date on which the Secretary of Agriculture issues final regulations (after providing a period of public comment, including through the conduct of public meetings or hearings, in accordance with chapter 5 of title 5, United States Code) to carry out such amendments.”
 

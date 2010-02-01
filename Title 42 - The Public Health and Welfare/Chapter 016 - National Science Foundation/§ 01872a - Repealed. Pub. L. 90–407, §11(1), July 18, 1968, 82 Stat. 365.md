@@ -8,5 +8,5 @@ Section 11(1) of Pub. L. 90–407 provided that the repeal of this section is ef
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 
-Repeal by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organization of the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
+Repeal by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organizationof the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
 

@@ -34,7 +34,7 @@ Any vacancy occurring in the membership of the Council shall be filled in the sa
 
 #### (1) Payment
 
-&emsp;Each member of the Council who is not an officer or full-time employee of the Federal Government shall receive a payment of $150 for each day (including travel time) during which the member is engaged in the performance of duties for the Council. All members ofthe Council who are officers or full-time employees of the United States shall serve without compensation in addition to compensation received for their services as officers or employees of the United States.
+&emsp;Each member of the Council who is not an officer or full-time employee of the Federal Government shall receive a payment of $150 for each day (including travel time) during which the member is engaged in the performance of duties for the Council. All members of the Council who are officers or full-time employees of the United States shall serve without compensation in addition to compensation received for their services as officers or employees of the United States.
 
 #### (2) Travel expenses
 
@@ -42,7 +42,7 @@ Any vacancy occurring in the membership of the Council shall be filled in the sa
 
 #### (g) Detail of Federal employees
 
-On the request of the Council, the Secretary may detail, with or without reimbursement, any of the personnel of the Department of Education to the Council to assist the Council in carrying out its duties. Any detail shall not interrupt or otherwise affect the civil service status or privileges of the Federal employee.
+On the request of the Council, the Secretary may detail, with or without reimbursement, anyof the personnel of the Department of Education to the Council to assist the Council in carrying out its duties. Any detail shall not interrupt or otherwise affect the civil service status or privileges of the Federal employee.
 
 #### (h) Technical assistance
 

@@ -46,7 +46,7 @@
 
 #### (D) State
 
-&emsp;&emsp;The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;&emsp;The term “State” means each of the several States, the District of Columbia, theCommonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (b) Grant program
 
@@ -142,7 +142,7 @@
 
 &emsp;&emsp;(I) information on the training that will be provided to mentors; and
 
-&emsp;&emsp;(J) information on the system that the eligible entity will use to manage and monitorinformation relating to the mentoring program's—
+&emsp;&emsp;(J) information on the system that the eligible entity will use to manage and monitor information relating to the mentoring program's—
 
 &emsp;&emsp;&emsp;(i) reference checks;
 

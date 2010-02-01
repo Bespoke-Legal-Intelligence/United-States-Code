@@ -84,7 +84,7 @@
 
 #### (I) Public report
 
-&emsp;&emsp;&emsp;&emsp;The State shall report annually to the public on the performance of each local educational agency located in the State on the targets in the State's performance plan. The State shall make the State's performance plan available through public means, including by posting on the website of the State educational agency, distribution to the media, and distribution through public agencies.
+&emsp;&emsp;&emsp;&emsp;The State shall report annually to the public on the performance of each localeducational agency located in the State on the targets in the State's performance plan. The State shall make the State's performance plan available through public means, including by posting on the website of the State educational agency, distribution to the media, and distribution through public agencies.
 
 #### (II) State performance report
 

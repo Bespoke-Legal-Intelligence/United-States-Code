@@ -40,7 +40,7 @@
 
 (2) A member entitled to voluntary separation incentive payments who is also entitled to basic pay for active or reserve service, or compensation for inactive duty training, may elect to have a reduction in the voluntary separation incentive payable for the same period in an amount not to exceed the amount of the basic pay or compensation received for that period.
 
-(3)(A) A member who has received the voluntary separation incentive and who qualifies for retired or retainer pay under this title shall have deducted from each payment of such retired or retainer pay so much of such pay as is based on the service for which he received the voluntary separation incentive until the total amount deducted equals the total amount of voluntary separation incentive received. If the member elected to have a reduction in voluntary separation incentive for any period pursuant to paragraph (2), the deduction required under the preceding sentence shall be reduced accordingly.
+(3)(A) A member who has received the voluntary separation incentive and who later qualifies for retired or retainer pay under this title shall have deducted from each payment of such retired or retainer pay an amount, in such schedule of monthly installments as the Secretary of Defense shall specify, taking into account the financial ability of the member to pay and avoiding the imposition of undue financial hardship on the member and member's dependents, until the total amount deducted is equal to the total amount of voluntary separation incentive so paid. If the member elected to have a reduction in voluntary separation incentive for any period pursuant to paragraph (2), the deduction required under the preceding sentence shall be reduced as the Secretary of Defense shall specify.
 
 (B) If a member is receiving simultaneous voluntary separation incentive payments and retired or retainer pay, the member may elect to terminate the receipt of voluntary separation incentive payments. Any such election is permanent and irrevocable. The rate of monthly recoupment from retired or retainer pay of voluntary separation incentive payments received after such an election shall be reduced by a percentage that is equal to a fraction with a denominator equal to the number of months that the voluntary separation incentive payments were scheduled to be paid and a numerator equal to the number of months that would not be paid as a result of the member's decision to terminate the voluntary separation incentive.
 
@@ -94,9 +94,11 @@
 
 (j) A member of the armed forces who is provided a voluntary separation incentive under this section shall be eligible for the same benefits and services as are provided under chapter 58 of this title, sections 404 and 406 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 406 note) for members of the armed forces who are involuntarily separated within the meaning of section 1141 of this title.
 
-(Added Pub. L. 102–190, div. A, title VI, §662(a)(1), Dec. 5, 1991, 105 Stat. 1396; amended Pub. L. 102–484, div. A, title X, §1052(16), div. D, title XLIV, §§4405(b), 4406(a), (b), 4422(b), Oct. 23, 1992, 106 Stat. 2499, 2706, 2707, 2719; Pub. L. 103–160, div. A, title V, §§502, 561(h), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(c), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 105–261, div. A, title V, §§561(b), 563(a), (b), Oct. 17, 1998, 112 Stat. 2025, 2028; Pub. L. 106–398, §1 \[\[div. A\], title V, §§571(b), 572(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title IX, §906(c)(1), Jan. 28, 2008, 122 Stat. 277.)
+(Added Pub. L. 102–190, div. A, title VI, §662(a)(1), Dec. 5, 1991, 105 Stat. 1396; amended Pub. L. 102–484, div. A, title X, §1052(16), div. D, title XLIV, §§4405(b), 4406(a), (b), 4422(b), Oct. 23, 1992, 106 Stat. 2499, 2706, 2707, 2719; Pub. L. 103–160, div. A, title V, §§502, 561(h), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(c), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 105–261, div. A, title V, §§561(b), 563(a), (b), Oct. 17, 1998, 112 Stat. 2025, 2028; Pub. L. 106–398, §1 \[\[div. A\], title V, §§571(b), 572(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title IX, §906(c)(1), Jan. 28, 2008, 122 Stat. 277; Pub. L. 111–32, title III, §318(b), June 24, 2009, 123 Stat. 1874.)
 
 #### Amendments
+
+2009—Subsec. (e)(3)(A). Pub. L. 111–32 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “A member who has received the voluntary separation incentive and who qualifies for retired or retainer pay under this title shall have deducted from each payment of such retired or retainer pay so much of such pay as is based on the service for which he received the voluntary separation incentive until the total amount deducted equals the total amount of voluntary separation incentive received. If the member elected to have a reduction in voluntary separation incentive for any period pursuant to paragraph (2), the deduction required under the preceding sentence shall be reduced accordingly.”
 
 2008—Subsec. (h)(4). Pub. L. 110–181 struck out “Retirement” before “Board of Actuaries”.
 
@@ -132,7 +134,7 @@ Subsec. (h)(7)(A). Pub. L. 103–160, §561(h)(2), substituted “fiscal year 19
 
 Subsec. (b)(1), (2). Pub. L. 102–484, §4422(b)(1), (2), inserted “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty”.
 
-Subsec. (b)(3), (4). Pub. L. 102–484, §4424(b)(3), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “if a Reserve, is on the active duty list; and”.
+Subsec. (b)(3), (4). Pub. L. 102–484, §4424(b)(3), redesignated par. (4) as (3) and struck out former par. (3) whichread as follows: “if a Reserve, is on the active duty list; and”.
 
 Subsec. (d)(1). Pub. L. 102–484, §1052(16)(B), substituted “before December 5, 1991” for “prior to the time this provision is enacted”.
 
@@ -143,6 +145,10 @@ Subsec. (e)(3). Pub. L. 102–484, §4406(a)(2), inserted at end “If the membe
 Subsec. (e)(6). Pub. L. 102–484, §4406(b), struck out par. (6) which read as follows: “Years of service that form the basis of the payment under paragraph (5) may not be counted in computing eligibility for, or the amount of, annuities under title 5 or any other law providing annuities to Federal civilian employees.”
 
 Subsec. (j). Pub. L. 102–484, §4405(b), added subsec. (j).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–32 applicable to any repayments of separation pay, severance pay, readjustment pay, special separation benefit, or voluntary separation incentive, that occur on or after June 24, 2009, including any ongoing repayment actions that were initiated prior to such amendment, see section 318(c) of Pub. L. 111–32, set out as a note under section 1174 of this title.
 
 #### Effective Date of 2002 Amendment
 

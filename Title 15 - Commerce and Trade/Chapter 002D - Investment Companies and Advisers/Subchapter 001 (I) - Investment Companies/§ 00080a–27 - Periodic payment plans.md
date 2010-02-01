@@ -52,7 +52,7 @@ Upon making the election specified in subsection (g) of this section, it shall b
 
 &emsp;(2) more than 20 per centum of any payment thereon is deducted for sales load, or an average of more than 16 per centum is deducted for sales load from the first forty-eight monthly payments thereon, or their equivalent;
 
-&emsp;(3) the amount of sales load deducted from any one of the first twelve monthly payments, the thirteenth through twenty-fourth monthly payments, the twenty-fifth through thirty-sixth monthly payments, or the thirty-seventh through forty-eighth monthly payments, or their equivalents, respectively, exceeds proportionately the amount deducted from any other such payment, or the amount deductedfrom any subsequent payment exceeds proportionately the amount deducted from any other subsequent payment;
+&emsp;(3) the amount of sales load deducted from any one of the first twelve monthly payments, the thirteenth through twenty-fourth monthly payments, the twenty-fifth through thirty-sixth monthly payments, or the thirty-seventh through forty-eighth monthly payments, or their equivalents, respectively, exceeds proportionately the amount deducted from any other such payment, or the amount deducted from any subsequent payment exceeds proportionately the amount deducted from any other subsequent payment;
 
 &emsp;(4) the deduction for sales load on the excess of the payment or payments in any month over the minimum monthly payment, or its equivalent, to be made on the certificate exceeds the sales load applicable to payments subsequent to the first forty-eight monthly payments or their equivalent;
 

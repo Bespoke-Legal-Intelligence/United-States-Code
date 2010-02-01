@@ -70,7 +70,7 @@ Applicability to Certain Items.—
 
 &emsp;(1)
 
-Components for naval vessels.—Subsection (a) does not apply to a procurement of spare or repair parts needed to support components for naval vessels produced or manufactured outside the United States.
+Components for naval vessels.—Subsection (a) does not apply to a procurement ofspare or repair parts needed to support components for naval vessels produced or manufactured outside the United States.
 
 &emsp;(2)
 
@@ -156,7 +156,7 @@ Implementation of Naval Vessel Component Limitation.—In implementing subsectio
 
 Implementation of Certain Waiver Authority.—(1) The Secretary of Defense may exercise the waiver authority described in paragraph (2) only if the waiver is made for a particular item listed in subsection (a) and for a particular foreign country.
 
-(2) This subsection applies to the waiver authority provided by subsection (d) on the basis of the applicability of paragraph (2) or (3) of that subsection.
+(2) This subsection applies to the waiver authority provided by subsection (d) on the basisof the applicability of paragraph (2) or (3) of that subsection.
 
 (3) The waiver authority described in paragraph (2) may not be delegated below the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
@@ -240,7 +240,7 @@ Subsec. (g). Pub. L. 104–106, §806(d), designated existing provisions as par.
 
 Subsec. (h). Pub. L. 104–106, §806(a)(4), added subsec. (h).
 
-1994—Pub. L. 103–337 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to acquisition of multipassenger motor vehicles, chemical weapons antidote, valves and machine tools, carbonyl iron powders, air circuit breakers, and sonobuoys.
+1994—Pub. L. 103–337 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f)relating to acquisition of multipassenger motor vehicles, chemical weapons antidote, valves and machine tools, carbonyl iron powders, air circuit breakers, and sonobuoys.
 
 Subsec. (g). Pub. L. 103–355 added subsec. (g).
 

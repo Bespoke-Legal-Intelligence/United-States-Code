@@ -28,9 +28,17 @@ The Secretary—
 
 &emsp;(2) may require a State receiving such assistance to comply with terms and conditions necessary to protect the environment and the interests of the United States.
 
-(Pub. L. 92–402, §7, as added Pub. L. 107–314, div. C, title XXXV, §3504(a)(1)(B), Dec. 2, 2002, 116 Stat. 2754.)
+#### (d) Limitation
+
+The Secretary may not provide assistance under this section to a foreign country to which an obsolete ship is transferred under this chapter.
+
+(Pub. L. 92–402, §7, as added Pub. L. 107–314, div. C, title XXXV, §3504(a)(1)(B), Dec. 2, 2002, 116 Stat. 2754; amended Pub. L. 111–84, div. C, title XXXV, §3513(b), Oct. 28, 2009, 123 Stat. 2724.)
 
 #### Prior Provisions
 
 A prior section 7 of Pub. L. 92–402 was renumbered section 8 and is classified to section 1220d of this title.
+
+#### Amendments
+
+2009—Subsec. (d). Pub. L. 111–84 added subsec. (d).
 

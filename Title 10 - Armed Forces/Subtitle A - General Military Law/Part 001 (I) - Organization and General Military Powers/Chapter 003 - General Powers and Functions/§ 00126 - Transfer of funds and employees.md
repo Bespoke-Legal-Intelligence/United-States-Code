@@ -1,6 +1,6 @@
 ### §126. Transfer of funds and employees
 
-(a) When a function, power, or duty or an activity of a department or agency of the Department of Defense is transferred or assigned to another department or agency of that department, balances of appropriations that the Secretary of Defense determines are available and needed to finance or discharge that function, power, duty, or activity, as the case may be, may, with the approval of the President, be transferred to the department or agency to which that function, power, duty or activity, as the case may be, is transferred, and used for any purpose for which those appropriations were originally available. Balances of appropriations so transferred shall—
+(a) When a function, power, or duty or an activity of a department or agency of the Department of Defense is transferred or assigned to another department or agency of that department, balances of appropriations that the Secretary of Defense determines are available and needed to finance or discharge that function, power, duty, or activity, as the case may be, may, with the approval of the President, be transferred to the department or agency to which that function, power, duty or activity, as the case may be, is transferred, and used for any purpose for whichthose appropriations were originally available. Balances of appropriations so transferred shall—
 
 &emsp;(1) be credited to any applicable appropriation account of the receiving department or agency; or
 

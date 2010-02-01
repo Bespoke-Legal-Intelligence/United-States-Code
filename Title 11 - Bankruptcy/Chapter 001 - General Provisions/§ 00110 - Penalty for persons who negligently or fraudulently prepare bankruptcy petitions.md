@@ -136,7 +136,7 @@
 
 (3) A debtor, trustee, creditor, or United States trustee (or the bankruptcy administrator, if any) may file a motion for an order imposing a fine on the bankruptcy petition preparer for any violation of this section.
 
-(4)(A) Fines imposed under this subsection in judicial districts served by United States trustees shall be paid to the United States trustees, who shall deposit an amount equal to such fines in the United States Trustee Fund.
+(4)(A) Fines imposed under this subsection in judicial districts served by United States trustees shall be paid to the United States trustees,who shall deposit an amount equal to such fines in the United States Trustee Fund.
 
 (B) Fines imposed under this subsection in judicial districts served by bankruptcy administrators shall be deposited as offsetting receipts to the fund established under section 1931 of title 28, and shall remain available until expended to reimburse any appropriation for the amount paid out of such appropriation for expenses of the operation and maintenance of the courts of the United States.
 
@@ -150,7 +150,7 @@ Paragraph (2), referred to in subsec. (h)(4), was redesignated as par. (3) and r
 
 #### Amendments
 
-2007—Subsec. (<i>l</i>)(4)(A). Pub. L. 110–161 amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “Fines imposed under this subsection in judicial districts served by United States trustees shall be paid to the United States trustee, who shall deposit an amount equal to such fines in a special account of the United States Trustee System Fund referred to in section 586(e)(2) of title 28. Amounts deposited under this subparagraph shall be available to fund the enforcement of this section on a national basis.”
+2007—Subsec. (<i>l</i>)(4)(A). Pub. L. 110–161 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Fines imposed under this subsection in judicial districts served by United States trustees shall be paid to the United States trustee, who shall deposit an amount equal to such fines in a special account of the United States Trustee System Fund referred to in section 586(e)(2) of title 28. Amounts deposited under this subparagraph shall be available to fund the enforcement of this section on a national basis.”
 
 2005—Subsec. (a)(1). Pub. L. 109–8, §221(1), substituted “for the debtor or an employee of such attorney under the direct supervision of such attorney” for “or an employee of an attorney”.
 
@@ -204,7 +204,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date
 
-Section effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as an Effective Date of 1994 Amendment note under section 101 of this title.
+Section effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct.22, 1994, see section 702 of Pub. L. 103–394, set out as an Effective Date of 1994 Amendment note under section 101 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

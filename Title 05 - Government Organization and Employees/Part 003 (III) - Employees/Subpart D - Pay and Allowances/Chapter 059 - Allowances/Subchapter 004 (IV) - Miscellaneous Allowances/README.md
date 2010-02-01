@@ -18,7 +18,7 @@ Reports.—The Director of Central Intelligence shall submit to the Select Commi
 
 \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a) and (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 
-Pub. L. 106–346, §101(a) \[title III, §348\], Oct. 23, 2000, 114 Stat. 1356, 1356A–33, provided that: “In addition to the authority provided in section 636 of the Treasury, Postal Service, and General Government Appropriations Act, 1997, as included in Public Law 104–208, title I, section 101(f), as amended \[set out as a note below\], beginning in fiscal year 2001 and thereafter, amounts appropriated for salaries and expenses for the Department of Transportation may be used to reimburse an employee whose position is that of safety inspector for not to exceed one-half the costs incurred by such employee for professional liability insurance. Any payment under this section shall be contingent upon the submission of such information or documentation as the Department may require.”
+Pub. L. 106–346, §101(a) \[title III, §348\], Oct. 23, 2000, 114 Stat. 1356, 1356A–33, provided that: “In addition to the authority provided in section 636 of the Treasury,Postal Service, and General Government Appropriations Act, 1997, as included in Public Law 104–208, title I, section 101(f), as amended \[set out as a note below\], beginning in fiscal year 2001 and thereafter, amounts appropriated for salaries and expenses for the Department of Transportation may be used to reimburse an employee whose position is that of safety inspector for not to exceed one-half the costs incurred by such employee for professional liability insurance. Any payment under this section shall be contingent upon the submission of such information or documentation as the Department may require.”
 
 #### Reimbursements Relating to Professional Liability Insurance
 
@@ -42,7 +42,7 @@ Qualified Employee.—For purposes of this section, the term ‘qualified employ
 
 Definitions.—For purposes of this section—
 
-&emsp;“(1) the term ‘agency’ means an Executive agency, as defined by section 105 of title 5, United StatesCode, any agency or court in the Judicial Branch, and any agency of the Legislative Branch of Government including any office or committee of the Senate or the House of Representatives;
+&emsp;“(1) the term ‘agency’ means an Executive agency, as defined by section 105 of title 5, United States Code, any agency or court in the Judicial Branch, and any agency of the Legislative Branch of Government including any office or committee of the Senate or the House of Representatives;
 
 &emsp;“(2) the term ‘law enforcement officer’ means an employee, the duties of whose position are primarily the investigation, apprehension, prosecution, detention, or supervision of individuals suspected or convicted of offenses against the criminal laws of the United States, including any law enforcement officer under section 8331(20) or 8401(17) of such title 5, or under section 4823 of title 22, United States Code;
 

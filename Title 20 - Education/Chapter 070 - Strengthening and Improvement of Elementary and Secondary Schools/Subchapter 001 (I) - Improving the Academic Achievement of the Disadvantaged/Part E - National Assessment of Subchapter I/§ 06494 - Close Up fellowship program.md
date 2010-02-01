@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;(ii) every effort shall be made to ensure the participation of recent immigrant students from rural, small town, and urban areas;
 
-&emsp;&emsp;&emsp;(iii) in awarding the fellowships to economically disadvantaged recent immigrant students, special consideration shall be given to the participation of those students with special educational needs, including students with disabilities, studentswith migrant parents, and ethnic minority students;
+&emsp;&emsp;&emsp;(iii) in awarding the fellowships to economically disadvantaged recent immigrant students, special consideration shall be given to the participation of those students with special educational needs, including students with disabilities, students with migrant parents, and ethnic minority students;
 
 &emsp;&emsp;&emsp;(iv) fully describe the activities to be carried out with the proceeds of the grant made under paragraph (1); and
 

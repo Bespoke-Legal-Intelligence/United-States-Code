@@ -72,7 +72,7 @@
 
 #### (4) Exception
 
-&emsp;Notwithstanding any other provision of this section, a taxpayer shall not be considered at risk with respect to amounts protected against loss through nonrecourse financing, guarantees, stop loss agreements, or other similar arrangements.
+&emsp;Notwithstanding any other provision of this section, a taxpayer shall not be considered at risk with respect to amounts protectedagainst loss through nonrecourse financing, guarantees, stop loss agreements, or other similar arrangements.
 
 #### (5) Amounts at risk in subsequent years
 
@@ -342,7 +342,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) gross income shall be determined without regard to the exclusion of interest from gross income under section 103, and
 
-&emsp;&emsp;&emsp;&emsp;(II) in addition to the deductions described in such clause, there shall also be taken into account the amount of the deductions which are allowable for amounts paid or credited to the accounts of depositors or holders of accounts as dividends or interest on their deposits orwithdrawable accounts under section 163 or 591.
+&emsp;&emsp;&emsp;&emsp;(II) in addition to the deductions described in such clause, there shall also be taken into account the amount of the deductions which are allowable for amounts paid or credited to the accounts of depositors or holders of accounts as dividends or interest on their deposits or withdrawable accounts under section 163 or 591.
 
 #### (v) Special rule for life insurance companies
 
@@ -494,7 +494,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11813(b)(15) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures werepreviously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by section 11813(b)(15) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1986 Amendment
 

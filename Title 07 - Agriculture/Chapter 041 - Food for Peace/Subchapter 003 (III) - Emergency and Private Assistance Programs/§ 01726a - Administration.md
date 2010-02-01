@@ -16,7 +16,7 @@
 
 #### (b) Notice and comment
 
-Not later than 30 days prior to the issuance of a final guideline or annual policy guidance tocarry out this subchapter, the Administrator shall—
+Not later than 30 days prior to the issuance of a final guideline or annual policy guidance to carry out this subchapter, the Administrator shall—
 
 &emsp;(1) provide notice of the existence of a proposed guideline or annual policy guidance, and that such guideline or annual policy guidance is available for review and comment, to eligible organizations that participate in programs under this subchapter, and to other interested persons;
 
@@ -106,7 +106,7 @@ The Administrator is encouraged to finalize program agreements and resource requ
 
 #### (A) In general
 
-&emsp;&emsp;Subject to section 1722(h)(3) of this title, in addition to other funds made available to the Administrator to carry out the monitoring of emergency food assistance, the Administrator may implement this subsection using up to $22,000,000 of the funds made available under this subchapter for each of fiscal years 2009 through 2012, except forparagraph (2)(F), for which only $2,500,000 shall be made available during fiscal year 2009.
+&emsp;&emsp;Subject to section 1722(h)(3) of this title, in addition to other funds made available to the Administrator to carry out the monitoring of emergency food assistance, the Administrator may implement this subsection using up to $22,000,000 of the funds made available under this subchapter for each of fiscal years 2009 through 2012, except for paragraph (2)(F), for which only $2,500,000 shall be made available during fiscal year 2009.
 
 #### (B) Limitations
 

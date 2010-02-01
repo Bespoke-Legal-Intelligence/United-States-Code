@@ -50,7 +50,7 @@ Consideration.—In fixing the consideration for the conveyance of real property
 
 (h)
 
-Relation to Other Conveyance Authorities.—(1) The Secretary concerned may not make a conveyance under this section of any real property to be disposed of under a base closure law in a manner that is inconsistent withthe requirements and conditions of the base closure law.
+Relation to Other Conveyance Authorities.—(1) The Secretary concerned may not make a conveyance under this section of any real property to be disposed of under a base closure law in a manner that is inconsistent with the requirements and conditions of the base closure law.
 
 (2) In the case of real property on Guam, the Secretary concerned may not make a conveyance under this section unless the Government of Guam has been first afforded the opportunity to acquire the real property as authorized by section 1 of Public Law 106–504 (114 Stat. 2309).
 
@@ -62,7 +62,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term “Secretary concerned” means the Secretary of a military department.
 
-&emsp;(3) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Marianas, Guam, the Virgin Islands, and American Samoa.
+&emsp;(3) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico,the Commonwealth of the Northern Marianas, Guam, the Virgin Islands, and American Samoa.
 
 (Added Pub. L. 107–314, div. B, title XXVIII, §2812(a)(1), Dec. 2, 2002, 116 Stat. 2707; amended Pub. L. 109–163, div. A, title X, §1056(a)(1), (b), Jan. 6, 2006, 119 Stat. 3438, 3439; Pub. L. 109–364, div. A, title X, §1071(a)(22), Oct. 17, 2006, 120 Stat. 2399.)
 

@@ -98,7 +98,7 @@ Transfer and allocations of appropriations and personnel.—Except as otherwise 
 
 “(6)
 
-Incidental transfer.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this subsection, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available inconnection with such functions, as may be necessary to carry out the provisions of this subsection. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this subsection and for such further measures and dispositions as may be necessary to effectuate the purposes of this subsection.
+Incidental transfer.—The Director of the Office of Management and Budget, at such time or timesas the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this subsection, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this subsection. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this subsection and for such further measures and dispositions as may be necessary to effectuate the purposes of this subsection.
 
 “(7)
 
@@ -158,6 +158,42 @@ Transition.—Prior to, or after, any transfer of a function under this subsecti
 
 &emsp;“(B) funds appropriated to such functions for such period of time as may reasonably be needed to facilitate the orderly implementation of this subsection.”
 
+#### Study To Examine and Increase Service Programs for Displaced Workers in Services Corps and Community Service and To Develop Pilot Program Planning Study
+
+Pub. L. 111–13, title I, §1710, Apr. 21, 2009, 123 Stat. 1549, provided that:
+
+“(a)
+
+Planning Study.—The Corporation shall conduct a study to identify—
+
+&emsp;“(1) specific areas of need for displaced workers;
+
+&emsp;“(2) how existing programs and activities (as of the time of the study) carried out under the national service laws could better serve displaced workers and communities that have been adversely affected by plant closings and job losses;
+
+&emsp;“(3) prospects for better utilization of displaced workers as resources and volunteers; and
+
+&emsp;“(4) methods for ensuring the efficient financial organization of services directed towards displaced workers.
+
+“(b)
+
+Consultation.—The study shall be carried out in consultation with the Secretary of Labor, State labor agencies, and other individuals and entities the Corporation considers appropriate.
+
+“(c)
+
+Report.—Not later than 1 year after the effective date of this Act \[for general effective date of Pub. L. 111–13 as Oct. 1, 2009, see Effective Date of 2009 Amendment note under section 4950 of this title\], the Corporation shall submit to the authorizing committees a report on the results of the planning study required by subsection (a), together with a plan for implementation of a pilot program using promising strategies and approaches for better targeting and serving displaced workers.
+
+“(d)
+
+Pilot Program.—From amounts made available to carry out this section, the Corporation shall develop and carry out a pilot program based on the findings and plan in the report submitted under subsection (c).
+
+“(e)
+
+Definitions.—In this section, the terms ‘Corporation’, ‘authorizing committees’, and ‘national service laws’ have the meanings given the terms in section 101 of the National and Community Service Act of 1990 (42 U.S.C. 12511).
+
+“(f)
+
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014.”
+
 #### Continuing Performance of Certain Functions by Commission on National and Community Service
 
 Section 202(d) of Pub. L. 103–82 provided that: “The individuals who, on the day before the date of enactment of this Act \[Sept. 21, 1993\], are performing any of the functions required by section 190 of the National and Community Service Act of 1990 (42 U.S.C. 12651), as in effect on such date, to be performed by the members of the Board of Directors of the Commission on National and Community Service may, subject to section 193A of the National and Community Service Act of 1990 \[42 U.S.C. 12651d\], as added by subsection (a) of this section, continue to perform such functions until the date on which the Board of Directors of the Corporation for National and Community Service conducts the first meeting of the Board. The service of such individuals as members of the Board of Directors of such Commission, and the employment of such individuals as special Government employees, shall terminate on such date.”
@@ -176,7 +212,7 @@ In general.—The Corporation for National and Community Service (referred to in
 
 &emsp;“(2)
 
-Computation.—For purposes of the computation of the 20-day period referred to in paragraph (1),continuity of a session of the Congress shall be considered to be broken only by—
+Computation.—For purposes of the computation of the 20-day period referred to in paragraph (1), continuity of a session of the Congress shall be considered to be broken only by—
 
 &emsp;&emsp;“(A) an adjournment of the Congress sine die; and
 
@@ -260,7 +296,7 @@ Definition.—The term ‘transition period’ means the period beginning on Oct
 
 Proc. No. 6662, Apr. 4, 1994, 59 F.R. 16507, provided:
 
-On September 21, 1993, I had the honor of signing into law the National and Community Service Trust Act of 1993 \[Pub. L. 103–82, see Tables for classification\], which created the Corporation for National and Community Service. The Corporation was designed to involve Americans of all ages and backgrounds in community projects to address many of our Nation's most important needs—from educating our children to ensuring public safety to protecting our environment. It was chartered to foster civic responsibility, strengthening the ties that bind us together as a people, while providing educational opportunity for those who make the commitment to serve.
+On September 21, 1993, I had the honor of signing into law the National and Community Service Trust Act of 1993 \[Pub. L. 103–82, see Tables for classification\], whichcreated the Corporation for National and Community Service. The Corporation was designed to involve Americans of all ages and backgrounds in community projects to address many of our Nation's most important needs—from educating our children to ensuring public safety to protecting our environment. It was chartered to foster civic responsibility, strengthening the ties that bind us together as a people, while providing educational opportunity for those who make the commitment to serve.
 
 In the few short months since the Corporation's establishment, enormous progress has been made toward the achievement of these invaluable goals. Final regulations have been published governing the Corporation's new grant programs, grant application packages have been developed, and a national recruitment effort has begun. As a result of intensive outreach efforts, most states have already established State Commissions on National and Community Service, and many local programs, national nonprofit organizations, institutions of higher education, and Federal agencies are eager to participate. Grant competitions have begun for a summer program that will focus on our Nation's public safety concerns, and all community service grant competitions will be completed by this summer. Finally, the Corporation has established the National Civilian Community Corps, which will take advantage of closed and down-sized military bases to launch environmental clean-up and preservation efforts.
 
@@ -276,7 +312,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12819, Oct. 28, 1992, 57 F.R. 49369, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 12651 of title 42 of the United States Code \[see 42 U.S.C. 12653b\], it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 12651 of title 42 of the United States Code \[see 42 U.S.C. 12653a\], it is hereby ordered as follows:
 
 Section 1. A youth award for community service is hereby established. The award shall recognize outstanding voluntary community service contributions made by individuals between the ages of 5 and 22.
 

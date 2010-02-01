@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President is authorized to and shall as necessary issue such proclamations, regulations,licenses, and orders, and conduct such investigations, as may be necessary to carry out this chapter.
+The President is authorized to and shall as necessary issue such proclamations, regulations, licenses, and orders, and conduct such investigations, as may be necessary to carry out this chapter.
 
 #### (b) Recordkeeping
 

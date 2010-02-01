@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 180 days after February 20, 2003, after consultation with the Pueblo, the Secretary shall, in accordance with applicable laws, prepare and offer a land exchange of National Forest land outside the Area and contiguous to the northern boundary of the Pueblo's Reservation within sections 10, 11, and 14 of T12N, R4E, N.M.P.M., Sandoval County, New Mexico excluding wilderness land, for land owned by the Pueblo in the Evergreen Hills subdivision in Sandoval County contiguous to National Forest land, and the La Luz tract in Bernalillo County.
+&emsp;Not later than 180 days after February 20, 2003, after consultation with the Pueblo, the Secretary shall, in accordance with applicable laws, prepare and offer a land exchange of National Forest land outside the Area and contiguous to the northern boundary of the Pueblo's Reservation within sections 3, 10, 11, and 14 of T12N, R4E, N.M.P.M., Sandoval County, New Mexico excluding wilderness land, for land owned by the Pueblo in the Evergreen Hills subdivision in Sandoval County contiguous to National Forest land, and the La Luz tract in Bernalillo County.
 
 #### (2) Acceptance of payment
 
@@ -30,11 +30,11 @@
 
 #### (4) Treatment of land exchanged or conveyed
 
-&emsp;All land exchanged or conveyed to the Pueblo is declared to be held in trust for the Pueblo by the United States and added to the Pueblo's Reservation subject to all existing and outstanding rights and shall remain in its natural state and shall not be subject to commercial development of any kind. Land exchanged or conveyed to the Forest Service shall be subject to all limitations on use pertaining to the Area under sections 539m to 539m–12 of this title.
+&emsp;All land exchanged or conveyed to the Pueblo is declared to be held in trust for the Pueblo by the United States and added to the Pueblo's Reservation subject to all existing and outstanding rights and shall, as a condition of the conveyance, remain in its natural state and shall not be subject to commercial development of any kind. Land exchanged or conveyed to the Forest Service shall be subject to all limitations on use pertaining to the Area under sections 539m to 539m–12 of this title.
 
 #### (5) Failure to make offer
 
-&emsp;If the land exchange offer is not made by the date that is 180 days after February 20, 2003, the Secretary shall submit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the United States House of Representatives, a report explaining the reasons for the failure to make the offer including an assessment of the need for any additional legislation that may be necessary for the exchange. If additional legislation is not necessary, the Secretary, consistent with this section, should proceed with the exchange pursuant to existing law.
+&emsp;If the land exchange offer is not made by the date that is 180 days after February 20, 2003, the Secretary shall submit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the United States House of Representatives, a report explaining the reasons for the failure to make the offer including anassessment of the need for any additional legislation that may be necessary for the exchange. If additional legislation is not necessary, the Secretary, consistent with this section, should proceed with the exchange pursuant to existing law.
 
 #### (c) Land acquisition and other compensation
 
@@ -76,7 +76,7 @@
 
 &emsp;No party shall be reimbursed in excess of $750,000 under this section, and the total amount reimbursed in accordance with this section shall not exceed $3,000,000.
 
-(Pub. L. 108–7, div. F, title IV, §413, Feb. 20, 2003, 117 Stat. 292.)
+(Pub. L. 108–7, div. F, title IV, §413, Feb. 20, 2003, 117 Stat. 292; Pub. L. 111–11, title III, §3309, Mar. 30, 2009, 123 Stat. 1139.)
 
 #### References in Text
 
@@ -85,6 +85,12 @@ Sections 539m to 539m–12 of this title, referred to in subsecs. (a)(1)(B) and 
 Section 1716(b) of title 43, referred to in subsec. (b)(2), was in the original “section 206(b) of the Federal Land Policy and Management Act” and was translated as reading “section 206(b) of the Federal Land Policy and Management Act of 1976” to reflect the probable intent of Congress.
 
 The Equal Access to Justice Act, referred to in subsec. (d)(2), is title II of Pub. L. 96–481, Oct. 21, 1980, 94 Stat. 2325, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 504 of Title 5, Government Organization and Employees, and Tables.
+
+#### Amendments
+
+2009—Subsec. (b)(1). Pub. L. 111–11, §3309(1), inserted “3,” after “sections”.
+
+Subsec. (b)(4). Pub. L. 111–11, §3309(2), inserted “, as a condition of the conveyance,” before “remain” in first sentence.
 
 #### Change of Name
 

@@ -2,13 +2,13 @@
 
 #### (a) Removal of criminal aliens
 
-#### (1) in general
+#### (1) In general
 
 &emsp;The Attorney General shall provide for the availability of special removal proceedings at certain Federal, State, and local correctional facilities for aliens convicted of any criminal offense covered in section 1227(a)(2)(A)(iii), (B), (C), or (D) of this title, or any offense covered by section 1227(a)(2)(A)(ii) of this title for which both predicate offenses are, without regard to the date of their commission, otherwise covered by section 1227(a)(2)(A)(i) of this title. Such proceedings shall be conducted in conformity with section 1229a of this title (except as otherwise provided in this section), and in a manner which eliminates the need for additional detention at any processing center of the Service and in a manner which assures expeditious removal following the end of the alien's incarceration for the underlying sentence. Nothing in this section shall be construed to create any substantive or procedural right or benefit that is legally enforceable by any party against the United States or its agencies or officers or any other person.
 
 #### (2) Implementation
 
-&emsp;With respect to an alien convicted of an aggravated felony who is taken into custody by the Attorney General pursuant to section 1226(c) of this title, the Attorney General shall, to the maximum extent practicable, detain any such felon at a facility at which othersuch aliens are detained. In the selection of such facility, the Attorney General shall make reasonable efforts to ensure that the alien's access to counsel and right to counsel under section 1362 of this title are not impaired.
+&emsp;With respect to an alien convicted of an aggravated felony who is taken into custody by the Attorney General pursuant to section 1226(c) of this title, the Attorney General shall, to the maximum extent practicable, detain any such felon at a facility at which other such aliens are detained. In the selection of such facility, the Attorney General shall make reasonable efforts to ensure that the alien's access to counsel and right to counsel under section 1362 of this title are not impaired.
 
 #### (3) Expedited proceedings
 
@@ -58,7 +58,7 @@ An alien convicted of an aggravated felony shall be conclusively presumed to be 
 
 #### (1) Authority
 
-&emsp;Notwithstanding any other provision of this chapter, a United States district court shall have jurisdiction to enter a judicial order of removal at the time of sentencing against an alien who is deportable, if such an order has been requested by the United States Attorney with the concurrence of the Commissioner and if the court chooses to exercise such jurisdiction.
+&emsp;Notwithstanding any other provision of this chapter, a United States district court shall have jurisdiction to enter a judicial order of removal at the time of sentencing against an alien who is deportable, if such an order has been requested by the United States Attorney with the concurrence of the Commissioner andif the court chooses to exercise such jurisdiction.
 
 #### (2) Procedure
 
@@ -112,7 +112,7 @@ Section was formerly classified to section 1252a of this title prior to renumber
 
 #### Prior Provisions
 
-A prior section 1228, act June 27, 1952, ch. 477, title II, ch. 4, §238, 66 Stat. 202, as amended, which related to entry through or from foreign contiguous territory and adjacent islands, was renumbered section 233 of act June 27, 1952, by Pub. L. 104–208, div. C, title III, §308(b)(4), Sept. 30, 1996, 110 Stat. 3009–615, and was transferred to section 1223 of this title.
+A prior section 1228, act June 27, 1952, ch. 477, title II, ch. 4, §238, 66 Stat. 202, as amended, which related toentry through or from foreign contiguous territory and adjacent islands, was renumbered section 233 of act June 27, 1952, by Pub. L. 104–208, div. C, title III, §308(b)(4), Sept. 30, 1996, 110 Stat. 3009–615, and was transferred to section 1223 of this title.
 
 #### Amendments
 
@@ -134,7 +134,7 @@ Pub. L. 104–132, §440(g)(1)(A), as amended by Pub. L. 104–208, §§306(d), 
 
 Subsec. (a)(2). Pub. L. 104–208, §308(c)(1)(B), substituted “section 1226(c)” for “section 1252(a)(2)”.
 
-Pub. L. 104–132, §440(g)(2), which directed substitution of “any criminal offense covered in section 1251(a)(2)(A)(iii), (B), (C), or (D) of this title, or any offense covered by section 1251(a)(2)(A)(ii) of this title for which both predicate offenses are covered by section 1251(a)(2)(A)(i) of this title.” for “aggravated felony”and all that follows through “before any scheduled hearings.”, was repealed by Pub. L. 104–208, §671(c)(6).
+Pub. L. 104–132, §440(g)(2), which directed substitution of “any criminal offense covered in section 1251(a)(2)(A)(iii), (B), (C), or (D) of this title, or any offense covered by section 1251(a)(2)(A)(ii) of this title for which both predicate offenses are covered by section 1251(a)(2)(A)(i) of this title.” for “aggravated felony” and all that follows through “before any scheduled hearings.”, was repealed by Pub. L. 104–208, §671(c)(6).
 
 Subsec. (a)(3), (4). Pub. L. 104–208, §308(e)(1)(F), substituted “removal” for “deportation” wherever appearing.
 

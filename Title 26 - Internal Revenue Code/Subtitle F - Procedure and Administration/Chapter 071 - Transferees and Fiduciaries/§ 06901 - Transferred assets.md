@@ -2,7 +2,7 @@
 
 #### (a) Method of collection
 
-The amounts of the following liabilities shall, except as hereinafter in this section provided, be assessed, paid, and collected in the same manner and subject to the same provisions and limitations as in the case of the taxes with respect to which the liabilities were incurred:
+The amounts of the following liabilities shall, except as hereinafter in this section provided, beassessed, paid, and collected in the same manner and subject to the same provisions and limitations as in the case of the taxes with respect to which the liabilities were incurred:
 
 #### (1) Income, estate, and gift taxes
 
@@ -64,11 +64,11 @@ For purposes of this section, if any person is deceased, or is a corporation whi
 
 #### (f) Suspension of running of period of limitations
 
-The running of the period of limitations upon the assessment of the liability of a transferee orfiduciary shall, after the mailing to the transferee or fiduciary of the notice provided for in section 6212 (relating to income, estate, and gift taxes), be suspended for the period during which the Secretary is prohibited from making the assessment in respect of the liability of the transferee or fiduciary (and in any event, if a proceeding in respect of the liability is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
+The running of the period of limitations upon the assessment of the liability of a transferee or fiduciary shall, after the mailing to the transferee or fiduciary of the notice provided for in section 6212 (relating to income, estate, and gift taxes), be suspended for the period during which the Secretary is prohibited from making the assessment in respect of the liability of the transferee or fiduciary (and in any event, if a proceeding in respect of the liability is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
 
 #### (g) Address for notice of liability
 
-In the absence of notice to the Secretary under section 6903 of the existence of a fiduciary relationship, any notice of liability enforceable under this section required to be mailed to such person, shall, if mailed to the person subject to the liability at his last known address, be sufficient for purposes of this title, even if such person is deceased, or is under a legal disability, or, in the case of a corporation, has terminated its existence.
+In the absence of notice to the Secretary under section 6903 of the existence of a fiduciary relationship, any notice of liability enforceable under this section required to be mailed to such person, shall, if mailed to the person subject tothe liability at his last known address, be sufficient for purposes of this title, even if such person is deceased, or is under a legal disability, or, in the case of a corporation, has terminated its existence.
 
 #### (h) Definition of transferee
 

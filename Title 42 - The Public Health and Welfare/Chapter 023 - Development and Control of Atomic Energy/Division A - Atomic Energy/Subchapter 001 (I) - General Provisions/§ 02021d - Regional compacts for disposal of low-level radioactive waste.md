@@ -16,7 +16,7 @@
 
 #### (A) Activities of the Secretary
 
-&emsp;&emsp;Except as provided in subparagraph (B), no compact or action taken under a compact shall be applicable to the transportation, management, or disposal of any low-level radioactive waste designated in section 2021c(a)(1)(B)(i)–(iii) of this title.
+&emsp;&emsp;Except as provided in subparagraph (B), no compact or action taken under a compactshall be applicable to the transportation, management, or disposal of any low-level radioactive waste designated in section 2021c(a)(1)(B)(i)–(iii) of this title.
 
 #### (B) Federal low-level radioactive waste disposed of at non-Federal facilities
 

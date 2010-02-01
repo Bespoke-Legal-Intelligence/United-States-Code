@@ -1,6 +1,6 @@
 ### §12208. Officers: appointment upon transfer
 
-(a) A person who would otherwise be required to be transferred to a reserve component under section 651 of this title or under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), is entitled, if he is qualified and accepted, to be appointed as an officer of any armed force that he chooses and to participate in the programs authorized for that armed force. However, unlessthe two Secretaries concerned consent, he may not be appointed as a Reserve of an armed force other than that from which he is transferred. All periods of his participation shall be credited against the total period of service required of him under section 651 of this title or under the Military Selective Service Act (50 U.S.C. App. 451 et seq.). However, no period may be credited more than once.
+(a) A person who would otherwise be required to be transferred to a reserve component under section 651 of this title or under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), is entitled, if he is qualified and accepted, to be appointed as an officer of any armed force that he chooses and to participate in the programs authorized for that armed force. However, unless the two Secretaries concerned consent, he may not be appointed as a Reserve of an armed force other than that from which he is transferred. All periods of his participation shall be credited against the total period of service required of him under section 651 of this title or under the Military Selective Service Act (50 U.S.C. App. 451 et seq.). However, no period may be credited more than once.
 
 (b) A person covered by subsection (a) shall perform the rest of his required term of service in the armed force in which he is so appointed or in any other armed force in which he is later appointed or enlisted.
 
@@ -34,7 +34,7 @@ July 9, 1952, ch. 608, §209 (less applicability to enlistments), 66 Stat. 484.
 
 50:929(b) (less applicability to enlistments).
 
-In subsection (a), the words “is entitled \* \* \* to be appointed as an officer of any armed force that he chooses” are substituted for the words “shall be permitted to \* \* \* accept an appointment in such armed force of the United States as he may elect”. The last sentence is substituted for 50:929(a) (words within parentheses). The words “of an armed force of the United States” are omitted as surplusage.
+In subsection (a), the words “is entitled to be appointed as an officer of any armed force that he chooses” are substituted for the words “shall be permitted to accept an appointment in such armed force of the United States as he may elect”. The last sentence is substituted for 50:929(a) (words within parentheses). The words “of an armed force of the United States” are omitted as surplusage.
 
 In subsection (b), the word “rest” is substituted for the words “remaining period”. The words “be required to” are omitted as surplusage.
 

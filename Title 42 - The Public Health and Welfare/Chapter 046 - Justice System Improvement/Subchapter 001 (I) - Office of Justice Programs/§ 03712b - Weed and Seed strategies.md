@@ -18,7 +18,7 @@ From amounts made available under section 3712a(c) of this title, the Director o
 
 #### (b) Guidelines
 
-The Director shall issue guidelines for the development and implementation of Weed andSeed strategies under this section. The guidelines shall ensure that the Weed and Seed strategy for a community referred to in subsection (a) of this section shall—
+The Director shall issue guidelines for the development and implementation of Weed and Seed strategies under this section. The guidelines shall ensure that the Weed and Seed strategy for a community referred to in subsection (a) of this section shall—
 
 &emsp;(1) be planned and implemented through and under the auspices of a steering committee, properly established in the community, comprised of—
 
@@ -50,7 +50,7 @@ For a community to be designated as a Weed-and-Seed community for purposes of su
 
 &emsp;&emsp;(C) the steering committee is capable of implementing the strategy appropriately; and
 
-&emsp;(2) the community must agree to formulate a timely and effective plan to independently sustain the strategy (or, at a minimum, a majority of the best practices of the strategy) when assistance under this section is no longer available.
+&emsp;(2) the community must agree to formulate a timely and effective plan to independently sustain the strategy (or, at a minimum, a majority of the best practices of the strategy)when assistance under this section is no longer available.
 
 #### (d) Application
 
@@ -102,7 +102,7 @@ An application for designation as a Weed-and-Seed community for purposes of subs
 
 &emsp;&emsp;(i) may be satisfied in cash or in kind; and
 
-&emsp;&emsp;(ii) may be waived by the Assistant Attorney General upon a determination that thefinancial circumstances affecting the applicant warrant a finding that such a waiver is equitable.
+&emsp;&emsp;(ii) may be waived by the Assistant Attorney General upon a determination that the financial circumstances affecting the applicant warrant a finding that such a waiver is equitable.
 
 #### (6) Supplement, not supplant
 

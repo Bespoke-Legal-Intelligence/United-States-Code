@@ -4,7 +4,7 @@
 
 (2) On request of a party in interest, the court may order the appointment of additional committees of creditors or of equity security holders if necessary to assure adequate representation of creditors or of equity security holders. The United States trustee shall appoint any such committee.
 
-(3) On request of a party in interest in a case in which the debtor is a small business debtorand for cause, the court may order that a committee of creditors not be appointed.
+(3) On request of a party in interest in a case in which the debtor is a small business debtor and for cause, the court may order that a committee of creditors not be appointed.
 
 (4) On request of a party in interest and after notice and a hearing, the court may order the United States trustee to change the membership of a committee appointed under this subsection, if the court determines that the change is necessary to ensure adequate representation of creditors or equity security holders. The court may order the United States trustee to increase the number of members of a committee to include a creditor that is a small business concern (as described in section 3(a)(1) of the Small Business Act), if the court determines that the creditor holds claims (of the kind represented by the committee) the aggregate amount of which, in comparison to the annual gross revenue of that creditor, is disproportionately large.
 
@@ -66,7 +66,7 @@ Subsec. (b)(3). Pub. L. 109–8, §405(b), added par. (3).
 
 1994—Subsec. (a). Pub. L. 103–394 substituted “Except as provided in paragraph (3), as” for “As” in par. (1) and added par. (3).
 
-1986—Subsec. (a). Pub. L. 99–554, §221(1), amended subsec. (a) generally, substituting “chapter 11 of this title, the United States trustee shall appoint a committee of creditors holding unsecured claims and may appoint additional committees of creditors or of equity security holders as the United States trustee deems appropriate” for “this chapter, the court shall appoint a committee of creditors holding unsecured claims” inpar. (1) and “United States trustee” for “court” in par. (2).
+1986—Subsec. (a). Pub. L. 99–554, §221(1), amended subsec. (a) generally, substituting “chapter 11 of this title, the United States trustee shall appoint a committee of creditors holding unsecured claims and may appoint additional committees of creditors or of equity security holders as the United States trustee deems appropriate” for “this chapter, the court shall appoint a committee of creditors holding unsecured claims” in par. (1) and “United States trustee” for “court” in par. (2).
 
 Subsec. (c). Pub. L. 99–554, §221(2), struck out subsec. (c) which read as follows: “On request of a party in interest and after notice and a hearing, the court may change the membership or the size of a committee appointed under subsection (a) of this section if the membership of such committee is not representative of the different kinds of claims or interests to be represented.”
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Authority for Admission.—The Secretary of Defense may permit eligible private sector employees who work in organizations relevant to national security to receive instruction at the National Defense University in accordance with this section. No more than the equivalent of 10 full-time student positions may be filled at any one time by private sector employees enrolled under this section. Upon successful completion of the course of instruction in which enrolled, any such private sector employee may be awarded an appropriate diploma or degree under section 2165 of this title.
+Authority for Admission.—The Secretary of Defense may permit eligible private sector employees who work in organizations relevant to national security to receive instruction at the National Defense University in accordance with this section. No more than the equivalent of 20 full-time student positions may be filled at any one time by private sector employees enrolled under this section. Upon successful completion of the course of instruction in which enrolled, any such private sector employee may be awarded an appropriate diploma or degree under section 2165 of this title.
 
 (b)
 
@@ -36,7 +36,11 @@ Standards of Conduct.—While receiving instruction at the National Defense Univ
 
 Use of Funds.—Amounts received by the National Defense University for instruction of students enrolled under this section shall be retained by the university to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the university.
 
-(Added Pub. L. 107–107, div. A, title V, §528(a)(1), Dec. 28, 2001, 115 Stat. 1102.)
+(Added Pub. L. 107–107, div. A, title V, §528(a)(1), Dec. 28, 2001, 115 Stat. 1102; amended Pub. L. 111–84, div. A, title V, §526, Oct. 28, 2009, 123 Stat. 2288.)
+
+#### Amendments
+
+2009—Subsec. (a). Pub. L. 111–84 substituted “20” for “10”.
 
 #### Effective Date
 

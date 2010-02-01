@@ -6,7 +6,7 @@ Subject to sections 5315 through 5317 of title 5, the Attorney General shall fix
 
 #### Codification
 
-Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of this section and the deletion of any references to United States Trustees in this titleat a prospective date, was repealed by section 307(b) of Pub. L. 99–554. See note set out preceding section 581 of this title.
+Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of this section and the deletion of any references to United States Trustees in this title at a prospective date, was repealed by section 307(b) of Pub. L. 99–554. See note set out preceding section 581 of this title.
 
 #### Amendments
 

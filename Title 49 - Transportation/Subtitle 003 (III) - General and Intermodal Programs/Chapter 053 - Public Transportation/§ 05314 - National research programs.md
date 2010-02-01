@@ -52,11 +52,11 @@ Selection of grantees.—In awarding grants under this paragraph, the Secretary 
 
 &emsp;(E)
 
-Rulemaking.—The Secretary shall issue regulations to implement and administer thegrant program established under this paragraph.
+Rulemaking.—The Secretary shall issue regulations to implement and administer the grant program established under this paragraph.
 
 &emsp;(F)
 
-Report.—The Secretary shall submit a report on the results of the demonstration projects funded under this paragraph to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+Report.—The Secretary shall submit a report on the results of the demonstration projects funded under this paragraph to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee onTransportation and Infrastructure of the House of Representatives.
 
 (b)
 

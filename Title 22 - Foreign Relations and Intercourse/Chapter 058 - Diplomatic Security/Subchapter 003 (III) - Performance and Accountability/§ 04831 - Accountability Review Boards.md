@@ -42,7 +42,7 @@
 
 #### (c) Notification to Congress
 
-Whenever the Secretary of State convenes a Board, the Secretary shall promptly inform the chairman of the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives—
+Whenever the Secretary of State convenes a Board, the Secretary shall promptly inform thechairman of the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives—
 
 &emsp;(1) that a Board has been convened;
 
@@ -69,4 +69,8 @@ Subsec. (a)(3). Pub. L. 109–140, §3(2), added par. (3).
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Continuation of Review Boards for Facilities in Afghanistan and Iraq
+
+Pub. L. 111–117, div. F, title VII, §7034(r), Dec. 16, 2009, 123 Stat. 3363, provided that: “The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4831(a)(3)) shall remain in effect through September 30, 2010.”
 

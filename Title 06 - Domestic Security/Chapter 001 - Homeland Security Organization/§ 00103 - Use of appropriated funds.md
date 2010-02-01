@@ -1,12 +1,12 @@
 ### §103. Use of appropriated funds
 
-Notwithstanding any other provision of this chapter, any report, notification, or consultation addressing directly or indirectly the use of appropriated funds and stipulated by this chapter to be submitted to, or held with, the Congress or any Congressional committee shall also be submitted to, or held with, the Committees on Appropriations of the Senate and the House of Representatives under the same conditions and with the same restrictions as stipulated by this chapter.
+Notwithstanding any other provision of this chapter, any report, notification, or consultation addressing directly or indirectly the use of appropriated funds and stipulated by this chapter to be submitted to, or held with, the Congress or any Congressional committee shall also be submitted to, or held with, the Committees on Appropriations of the Senate and the Houseof Representatives under the same conditions and with the same restrictions as stipulated by this chapter.
 
 (Pub. L. 107–296, title XVII, §1714, as added Pub. L. 108–7, div. L, §103(5), Feb. 20, 2003, 117 Stat. 529.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 #### Prior Provisions
 

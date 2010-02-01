@@ -98,7 +98,7 @@ The Director of National Intelligence shall—
 
 #### (1) In general
 
-&emsp;Scholarship recipients who fail to maintain a high level of academic standing, as defined by the Director of National Intelligence, who are dismissed from their educational institutions for disciplinary reasons, or who voluntarily terminate academic training before graduation from the educational program for which the scholarship was awarded, shall be in breach of their contractual agreement and, in lieu of any service obligation arising under such agreement, shall be liable to the United States for repayment within 1 year after thedate of default of all scholarship funds paid to them and to the institution of higher education on their behalf under the agreement, except as provided in subsection (i)(2) of this section. The repayment period may be extended by the Director when determined to be necessary, as established by regulation.
+&emsp;Scholarship recipients who fail to maintain a high level of academic standing, as defined by the Director of National Intelligence, who are dismissed from their educational institutions for disciplinary reasons, or who voluntarily terminate academic training before graduation from the educational program for which the scholarship was awarded, shall be in breach of their contractual agreement and, in lieu of any service obligation arising under such agreement, shall be liable to the United States for repayment within 1 year after the date of default of all scholarship funds paid to them and to the institution of higher education on their behalf under the agreement, except as provided in subsection (i)(2) of this section. The repayment period may be extended by the Director when determined to be necessary, as established by regulation.
 
 #### (2) Liability
 
@@ -145,6 +145,4 @@ In this section:
 For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(g)(2)(B)”.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Program authorized
 
-The Secretary shall provide grants and related assistance to Indian Tribal Colleges and Universities to enable such institutions to improve and expand their capacity to serve Indian students.
+The Secretary shall provide grants and related assistance to Tribal Colleges and Universities to enable such institutions to improve and expand their capacity to serve Indian students.
 
 #### (b) Definitions
 
@@ -10,17 +10,17 @@ In this section:
 
 #### (1) Indian
 
-&emsp;The term “Indian” has the meaning given the term in section 1801 of title 25.
+&emsp;The term “Indian” has the meaning given the term in section 2 of the Tribally Controlled Colleges and Universities Assistance Act of 1978 \[25 U.S.C. 1801\].
 
 #### (2) Indian tribe
 
-&emsp;The term “Indian tribe” has the meaning given the term in section 1801 of title 25.
+&emsp;The term “Indian tribe” has the meaning given the term in section 2 of the Tribally Controlled Colleges and Universities Assistance Act of 1978 \[25 U.S.C. 1801\].
 
 #### (3) Tribal College or University
 
 &emsp;The term “Tribal College or University” means an institution that—
 
-&emsp;&emsp;(A) qualifies for funding under the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Assistance Act of 1978 (25 U.S.C. 640a note); or
+&emsp;&emsp;(A) qualifies for funding under the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a note); <sup>1</sup> or
 
 &emsp;&emsp;(B) is cited in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note).
 
@@ -118,7 +118,7 @@ In this section:
 
 &emsp;&emsp;&emsp;Except as provided in clause (ii), the Secretary shall distribute the remaining funds appropriated for any fiscal year to each eligible institution as follows:
 
-&emsp;&emsp;&emsp;&emsp;(I) 60 percent of the remaining appropriated funds shall be distributed among the eligible Tribal Colleges and Universities on a pro rata basis, based on the respective Indian student counts (as defined in section 2(a) of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801(a)) <sup>1</sup> of the Tribal Colleges and Universities.
+&emsp;&emsp;&emsp;&emsp;(I) 60 percent of the remaining appropriated funds shall be distributed among the eligible Tribal Colleges and Universities on a pro rata basis, based on the respective Indian student counts (as defined in section 2(a) of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801(a)) <sup>2</sup> of the Tribal Colleges and Universities.
 
 &emsp;&emsp;&emsp;&emsp;(II) The remaining 40 percent shall be distributed in equal shares to the eligible Tribal Colleges and Universities.
 
@@ -136,7 +136,7 @@ In this section:
 
 &emsp;&emsp;Section 1059(d) of this title shall not apply to institutions that are eligible to receive funds under this section.
 
-(Pub. L. 89–329, title III, §316, as added Pub. L. 102–325, title III, §302(d)(1), July 23, 1992, 106 Stat. 473; amended Pub. L. 103–208, §2(a)(7), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 105–244, title III, §303(e), Oct. 7, 1998, 112 Stat. 1639; Pub. L. 106–211, §1(a), (b)(1), May 26, 2000, 114 Stat. 330; Pub. L. 110–315, title III, §303, Aug. 14, 2008, 122 Stat. 3167.)
+(Pub. L. 89–329, title III, §316, as added Pub. L. 102–325, title III, §302(d)(1), July 23, 1992, 106 Stat. 473; amended Pub. L. 103–208, §2(a)(7), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 105–244, title III, §303(e), Oct. 7, 1998, 112 Stat. 1639; Pub. L. 106–211, §1(a), (b)(1), May 26, 2000, 114 Stat. 330; Pub. L. 110–315, title III, §303, Aug. 14, 2008, 122 Stat. 3167; Pub. L. 111–39, title III, §301(1), July 1, 2009, 123 Stat. 1936.)
 
 #### References in Text
 
@@ -147,6 +147,12 @@ The Navajo Community College Act, referred to in subsec. (b)(3)(A), is Pub. L. 9
 Section 532 of the Equity in Educational Land-Grant Status Act of 1994, referred to in subsec. (b)(3)(B), is section 532 of Pub. L. 103–382, which is set out in a note under section 301 of Title 7, Agriculture.
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–39, §301(1)(A), substituted “Tribal” for “Indian Tribal”.
+
+Subsec. (b)(1), (2). Pub. L. 111–39, §301(1)(B)(i), (ii), substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
+
+Subsec. (b)(3)(A). Pub. L. 111–39, §301(1)(B)(iii), substituted “the Navajo Community College Act” for “the Navajo Community College Assistance Act of 1978”.
 
 2008—Subsec. (b)(3). Pub. L. 110–315, §303(1), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘Tribal College or University’ has the meaning give the term ‘tribally controlled college or university’ in section 1801 of title 25, and includes an institution listed in the Equity in Educational Land Grant Status Act of 1994.
 
@@ -170,6 +176,10 @@ Subsec. (d)(3). Pub. L. 106–211, §1(b)(1), added par. (3) and struck out head
 
 Examples of authorized activities.—Such programs may include—” for “Such programs may include—”.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–211, §1(c), May 26, 2000, 114 Stat. 331, provided that: “The amendments made by this Act \[amending this section and section 1059d of this title\] shall be effective on the date of the enactment of this Act \[May 26, 2000\].”
@@ -186,5 +196,7 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a third closing parenthesis.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a third closing parenthesis.</i>
 

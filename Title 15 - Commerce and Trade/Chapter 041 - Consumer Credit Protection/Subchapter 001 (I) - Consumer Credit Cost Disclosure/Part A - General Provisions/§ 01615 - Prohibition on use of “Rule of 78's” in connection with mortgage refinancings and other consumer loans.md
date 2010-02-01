@@ -70,3 +70,5 @@ For the purpose of this section—
 
 Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of the Consumer Credit Protection Act which comprises this chapter.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “de minimis”.</i>
+

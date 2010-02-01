@@ -6,7 +6,7 @@ Interest on amounts found due contractors on claims shall be paid to the contrac
 
 #### References in Text
 
-Provisions of Public Law 92–41, referred to in text, which authorized the Secretary of the Treasury to fix interest rates for the Renegotiation Board, were contained in section 2(a)(3) of Pub. L. 92–41, which wasclassified to section 1215(b)(2) of Title 50, Appendix, War and National Defense, and was omitted from the Code. See note preceding section 1211 of Title 50, Appendix.
+Provisions of Public Law 92–41, referred to in text, which authorized the Secretary of the Treasury to fix interest rates for the Renegotiation Board, were contained in section 2(a)(3) of Pub. L. 92–41, which was classified to section 1215(b)(2) of Title 50, Appendix, War and National Defense, and was omitted from the Code. See note preceding section 1211 of Title 50, Appendix.
 
 #### Interest Due on Claims With Defective Certifications
 

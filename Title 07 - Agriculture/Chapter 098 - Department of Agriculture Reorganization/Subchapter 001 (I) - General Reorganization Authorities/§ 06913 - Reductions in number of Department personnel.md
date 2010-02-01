@@ -14,7 +14,7 @@ For purposes of this section:
 
 #### (2) Field structure
 
-&emsp;The term “field structure” means the offices, functions, and employee positions of all agencies, offices, or other administrative units of the Department, other than the headquarters offices, except that the term does notinclude State, county, or area committees established under section 590h(b)(5) of title 16. The term includes the physical and geographic locations of such agencies, offices, or other administrative units.
+&emsp;The term “field structure” means the offices, functions, and employee positions of all agencies, offices, or other administrative units of the Department, other than the headquarters offices, except that the term does not include State, county, or area committees established under section 590h(b)(5) of title 16. The term includes the physical and geographic locations of such agencies, offices, or other administrative units.
 
 #### (b) Number of reductions required
 

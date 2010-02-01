@@ -6,7 +6,7 @@ The actuarial report described in subsection (b) shall be filed by the plan admi
 
 #### (b) Actuarial report
 
-The actuarial report of a plan required by subsection (a) shall be prepared and signed by an enrolled actuary (within the meaning of section 7701(a)(35)) and shall contain—
+The actuarial report of a plan required by subsection (a) shall be prepared and signed by anenrolled actuary (within the meaning of section 7701(a)(35)) and shall contain—
 
 &emsp;(1) a description of the funding method and actuarial assumptions used to determine costs under the plan,
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 109–280 applicable to plan years beginning after 2007, se
 
 #### Effective Date
 
-Requirements of section applicable only with respect to plan years to which part I of subtitle A of title II of Pub. L. 93–406 applies, see section 1034(1) of Pub. L.93–406, set out as an note under section 6057 of this title. For a description of the plan years to which part 1 applies, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
+Requirements of section applicable only with respect to plan years to which part I of subtitle A of title II of Pub. L. 93–406 applies, see section 1034(1) of Pub. L. 93–406, set out as an note under section 6057 of this title. For a description of the plan years to which part 1 applies, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 

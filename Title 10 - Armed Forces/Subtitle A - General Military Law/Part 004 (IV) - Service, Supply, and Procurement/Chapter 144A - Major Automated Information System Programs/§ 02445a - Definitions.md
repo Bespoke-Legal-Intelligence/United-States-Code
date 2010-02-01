@@ -30,9 +30,19 @@ Other Major Information Technology Investment Program.—In this chapter, the te
 
 &emsp;(2) Any other investment in automated information system products or services that is expected to exceed the thresholds established in subsection (a), as adjusted under subsection (b), but is not considered to be a major automated information system program because a formal acquisition decision has not yet been made with respect to such investment.
 
-(Added Pub. L. 109–364, div. A, title VIII, §816(a)(1), Oct. 17, 2006, 120 Stat. 2323; Pub. L. 110–417, \[div. A\], title VIII, §812(a)(1), (2), Oct. 14, 2008, 122 Stat. 4525.)
+(e)
+
+Full Deployment Decision.—In this chapter, the term “full deployment decision” means, with respect to a major automated information system program, the final decision made by the Milestone Decision Authority authorizing an increment of the program to deploy software for operational use.
+
+(f)
+
+Full Deployment.—In this chapter, the term “full deployment” means, with respect to a major automated information system program, the fielding of an increment of the program in accordance with the terms of a full deployment decision.
+
+(Added Pub. L. 109–364, div. A, title VIII, §816(a)(1), Oct. 17, 2006, 120 Stat. 2323; amended Pub. L. 110–417, \[div. A\], title VIII, §812(a)(1), (2), Oct. 14, 2008, 122 Stat. 4525; Pub. L. 111–84, div. A, title VIII, §841(c), Oct. 28, 2009, 123 Stat. 2418.)
 
 #### Amendments
+
+2009—Subsecs. (e), (f). Pub. L. 111–84 added subsecs. (e) and (f).
 
 2008—Pub. L. 110–417, §812(a)(2), substituted “Definitions” for “Major automated information system program defined” in section catchline.
 

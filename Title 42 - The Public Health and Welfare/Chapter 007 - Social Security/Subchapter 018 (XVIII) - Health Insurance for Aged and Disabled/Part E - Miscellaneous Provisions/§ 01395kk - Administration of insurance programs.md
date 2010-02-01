@@ -28,7 +28,7 @@ In the course of any hearing, investigation, or other proceeding that he is auth
 
 &emsp;The Financial Management Service and the Internal Revenue Service shall provide assistance to the Centers for Medicare \& Medicaid Services to ensure that all payments described in paragraph (1) are included in the Federal Payment Levy Program by the deadlines specified in that subsection.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1874, as added and amended Pub. L. 89–97, title I, §§102(a), 111(a), July 30, 1965, 79 Stat. 332, 340; Pub. L. 92–603, title II, §289, Oct. 30, 1972, 86 Stat. 1457; Pub. L. 93–445, title III, §310, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 110–275, title I, §189(a), July 15, 2008, 122 Stat. 2590.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1874, as added and amended Pub. L. 89–97, title I, §§102(a),111(a), July 30, 1965, 79 Stat. 332, 340; Pub. L. 92–603, title II, §289, Oct. 30, 1972, 86 Stat. 1457; Pub. L. 93–445, title III, §310, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 110–275, title I, §189(a), July 15, 2008, 122 Stat. 2590.)
 
 #### References in Text
 

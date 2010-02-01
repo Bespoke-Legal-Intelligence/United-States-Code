@@ -1,6 +1,6 @@
 ### §2312. Transportation of stolen vehicles
 
-Whoever transports in interstate or foreign commerce a motor vehicle, vessel, or aircraft, knowing the same to have been stolen, shall be fined under this title or imprisoned not more than 10 years, or both.
+Whoever transports in interstate or foreign commerce a motor vehicle, vessel, or aircraft, knowing the same to have been stolen, shall befined under this title or imprisoned not more than 10 years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 806; Pub. L. 102–519, title I, §103, Oct. 25, 1992, 106 Stat. 3385; Pub. L. 109–177, title III, §307(b)(2)(A), Mar. 9, 2006, 120 Stat. 240.)
 

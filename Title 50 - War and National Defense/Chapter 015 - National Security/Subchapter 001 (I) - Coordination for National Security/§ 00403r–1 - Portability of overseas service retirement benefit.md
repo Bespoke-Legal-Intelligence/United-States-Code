@@ -10,5 +10,5 @@ Section was enacted as part of the Intelligence Authorization Act, Fiscal Year 1
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–178 substituted reference to section 2153 of this title for reference in original to section 303 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees.
+1993—Pub. L. 103–178 substituted reference to section 2153 of this title for reference in original to section 303 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees.
 

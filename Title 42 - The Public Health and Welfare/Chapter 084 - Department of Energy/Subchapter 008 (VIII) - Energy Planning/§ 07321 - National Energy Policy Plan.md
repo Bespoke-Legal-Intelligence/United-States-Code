@@ -6,7 +6,7 @@ The President shall—
 
 &emsp;(1) prepare and submit to the Congress a proposed National Energy Policy Plan (hereinafter in this subchapter referred to as a “proposed Plan”) as provided in subsection (b) of this section;
 
-&emsp;(2) seek the active participation by regional, State, and local agencies and instrumentalities and the private sector through public hearings in cities and rural communities and other appropriate means to insure that the views and proposals of all segments of the economy are taken into account in the formulation and review of such proposed Plan;
+&emsp;(2) seek the active participation by regional, State, and local agencies and instrumentalities and the private sector through public hearings in cities and rural communities andother appropriate means to insure that the views and proposals of all segments of the economy are taken into account in the formulation and review of such proposed Plan;
 
 &emsp;(3) include within the proposed Plan a comprehensive summary of data pertaining to all fuel and energy needs of persons residing in—
 

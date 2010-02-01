@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;There shall be allowed as a deduction any charitable contribution (as defined in subsection (c)) payment of which is made within the taxable year. A charitable contribution shall be allowable as a deduction only if verified under regulations prescribed by the Secretary.
+&emsp;There shall be allowed as a deduction any charitable contribution (as defined in subsection (c)) payment of which is made within the taxable year. A charitable contributionshall be allowable as a deduction only if verified under regulations prescribed by the Secretary.
 
 #### (2) Corporations on accrual basis
 
@@ -56,11 +56,11 @@
 
 &emsp;&emsp;&emsp;(ii) the excess of 50 percent of the taxpayer's contribution base for the taxable year over the amount of charitable contributions allowable under subparagraph (A) (determined without regard to subparagraph (C)).
 
-> &emsp;&emsp;If the aggregate of such contributions exceeds the limitation of the preceding sentence, such excess shall be treated (in a manner consistent with the rules of subsection (d)(1)) as a charitable contribution (to which subparagraph (A) does not apply)in each of the 5 succeeding taxable years in order of time.
+> &emsp;&emsp;If the aggregate of such contributions exceeds the limitation of the preceding sentence, such excess shall be treated (in a manner consistent with the rules of subsection (d)(1)) as a charitable contribution (to which subparagraph (A) does not apply) in each of the 5 succeeding taxable years in order of time.
 
 #### (C) Special limitation with respect to contributions described in subparagraph (A) of certain capital gain property
 
-&emsp;&emsp;&emsp;(i) In the case of charitable contributions described in subparagraph (A) of capital gain property to which subsection (e)(1)(B) does not apply, the total amount of contributions of such property which may be taken into account under subsection (a) for any taxable year shall not exceed 30 percent of the taxpayer's contribution base for such year. For purposes of this subsection, contributions of capital gain property to which this subparagraph applies shall be taken into account after all other charitable contributions (other than charitable contributions to which subparagraph (D) applies).
+&emsp;&emsp;&emsp;(i) In the case of charitable contributions described in subparagraph (A) of capital gain property to which subsection (e)(1)(B) does not apply, the total amountof contributions of such property which may be taken into account under subsection (a) for any taxable year shall not exceed 30 percent of the taxpayer's contribution base for such year. For purposes of this subsection, contributions of capital gain property to which this subparagraph applies shall be taken into account after all other charitable contributions (other than charitable contributions to which subparagraph (D) applies).
 
 &emsp;&emsp;&emsp;(ii) If charitable contributions described in subparagraph (A) of capital gain property to which clause (i) applies exceeds 30 percent of the taxpayer's contribution base for any taxable year, such excess shall be treated, in a manner consistent with the rules of subsection (d)(1), as a charitable contribution of capital gain property to which clause (i) applies in each of the 5 succeeding taxable years in order of time.
 
@@ -106,7 +106,7 @@
 
 #### (II) Exception
 
-&emsp;&emsp;&emsp;&emsp;Subclause (I) shall not apply to any contribution of property made after the date of the enactment of this subparagraph which is used in agriculture orlivestock production (or available for such production) unless such contribution is subject to a restriction that such property remain available for such production. This subparagraph shall be applied separately with respect to property to which subclause (I) does not apply by reason of the preceding sentence prior to its application to property to which subclause (I) does apply.
+&emsp;&emsp;&emsp;&emsp;Subclause (I) shall not apply to any contribution of property made after the date of the enactment of this subparagraph which is used in agriculture or livestock production (or available for such production) unless such contribution is subject to a restriction that such property remain available for such production. This subparagraph shall be applied separately with respect to property to which subclause (I) does not apply by reason of the preceding sentence prior to its application to property to which subclause (I) does apply.
 
 #### (v) Definition
 
@@ -232,7 +232,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 #### (A) In general
 
-&emsp;&emsp;Any contribution made by a corporation in a taxable year (hereinafter in this paragraph referred to as the “contribution year”) in excess of the amount deductible for such year under subsection (b)(2)(A) shall be deductible for each of the 5 succeeding taxable years in order of time, but only to the extent of the lesser of the two following amounts: (i) the excess of the maximum amount deductible for such succeeding taxable year under subsection (b)(2)(A) over the sum of the contributions made in such year plus the aggregate of the excess contributions which were made in taxable years before the contribution year and which are deductible under this subparagraph for such succeeding taxable year; or (ii) in the case of the first succeeding taxable year, the amount of such excess contribution, and in the case of the second, third, fourth, or fifth succeeding taxable year, the portion of such excess contribution not deductible under this subparagraph for any taxable year intervening between the contribution year and such succeeding taxable year.
+&emsp;&emsp;Any contribution made by a corporation in a taxable year (hereinafter in this paragraphreferred to as the “contribution year”) in excess of the amount deductible for such year under subsection (b)(2)(A) shall be deductible for each of the 5 succeeding taxable years in order of time, but only to the extent of the lesser of the two following amounts: (i) the excess of the maximum amount deductible for such succeeding taxable year under subsection (b)(2)(A) over the sum of the contributions made in such year plus the aggregate of the excess contributions which were made in taxable years before the contribution year and which are deductible under this subparagraph for such succeeding taxable year; or (ii) in the case of the first succeeding taxable year, the amount of such excess contribution, and in the case of the second, third, fourth, or fifth succeeding taxable year, the portion of such excess contribution not deductible under this subparagraph for any taxable year intervening between the contribution year and such succeeding taxable year.
 
 #### (B) Special rule for net operating loss carryovers
 
@@ -268,7 +268,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 > &emsp;&emsp;the amount of gain which would have been long-term capital gain if the property contributed had been sold by the taxpayer at its fair market value (determined at the time of such contribution).
 
-> &emsp;For purposes of applying this paragraph (other than in the case of gain to which section 617(d)(1), 1245(a), 1250(a), 1252(a), or 1254(a) applies), property which is property used in the trade or business (as defined in section 1231(b)) shall be treated as a capital asset. For purposes of applying this paragraph in the case of a charitable contribution of stock in an S corporation, rules similar to the rules of section 751 shall apply in determining whether gain on such stock would have been long-term capital gain if such stock were sold by the taxpayer.
+> &emsp;For purposes of applying this paragraph (other than in the case of gain to which section 617(d)(1), 1245(a), 1250(a), 1252(a), or 1254(a) applies), property which is property used in the trade or business (as defined in section 1231(b)) shall be treated as a capital asset. For purposes of applying this paragraph in the case of a charitable contribution of stock in an S corporation, rules similar to the rules of section 751 shall apply in determining whether gain on such stock would have been long-term capital gain if such stock were sold by the taxpayer. For purposes of this paragraph, the determination of whether property is a capital asset shall be made without regard to the exception contained in section 1221(a)(3)(C) for basis determined under section 1022.
 
 #### (2) Allocation of basis
 
@@ -438,9 +438,9 @@ For purposes of this section, the term “charitable contribution” means a con
 
 #### (C) Contribution to private foundation
 
-&emsp;&emsp;A contribution by a corporation of any computer technology or equipment to a private foundation (as defined in section 509)shall be treated as a qualified computer contribution for purposes of this paragraph if—
+&emsp;&emsp;A contribution by a corporation of any computer technology or equipment to a private foundation (as defined in section 509) shall be treated as a qualified computer contribution for purposes of this paragraph if—
 
-&emsp;&emsp;&emsp;(i) the contribution to the private foundation satisfies the requirements of clauses (ii) and (v) of subparagraph (B), and
+&emsp;&emsp;&emsp;(i) the contribution to the private foundation satisfies the requirements ofclauses (ii) and (v) of subparagraph (B), and
 
 &emsp;&emsp;&emsp;(ii) within 30 days after such contribution, the private foundation—
 
@@ -534,7 +534,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 #### (B) Income interests, etc.
 
-&emsp;&emsp;No deduction shall be allowed under this section for the value of any interest in property (other than a remainder interest) transferred in trust unless the interest is in the form of a guaranteed annuity or the trust instrument specifies that the interest is a fixed percentage distributed yearly of the fair market value of the trust property (to be determined yearly) and the grantor is treated as the owner of such interest for purposes of applying section 671. If the donor ceases to be treated as the owner of such an interest for purposes of applying section 671, at the time the donor ceases to be so treated, the donor shall for purposes of this chapter be considered as having received an amount of income equal to the amount of any deduction he received under this section for the contribution reduced by the discounted value of all amounts of income earned by the trust and taxable to him before the time at which he ceases to be treated as the owner of the interest. Such amounts of income shall be discounted to the date of the contribution. The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subparagraph.
+&emsp;&emsp;No deduction shall be allowed under this section for the value of any interest in property (other than a remainder interest) transferred in trust unless the interest is in the form of a guaranteed annuity or the trust instrument specifies that the interest is a fixed percentage distributed yearly of the fair market value of the trust property (tobe determined yearly) and the grantor is treated as the owner of such interest for purposes of applying section 671. If the donor ceases to be treated as the owner of such an interest for purposes of applying section 671, at the time the donor ceases to be so treated, the donor shall for purposes of this chapter be considered as having received an amount of income equal to the amount of any deduction he received under this section for the contribution reduced by the discounted value of all amounts of income earned by the trust and taxable to him before the time at which he ceases to be treated as the owner of the interest. Such amounts of income shall be discounted to the date of the contribution. The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subparagraph.
 
 #### (C) Denial of deduction in case of payments by certain trusts
 
@@ -592,7 +592,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 #### (A) General rule
 
-&emsp;&emsp;No deduction shall be allowed under subsection (a) for any contribution of $250 or more unless the taxpayer substantiates the contribution by a contemporaneous written acknowledgment of the contribution by thedonee organization that meets the requirements of subparagraph (B).
+&emsp;&emsp;No deduction shall be allowed under subsection (a) for any contribution of $250 or more unless the taxpayer substantiates the contribution by a contemporaneous written acknowledgment of the contribution by the donee organization that meets the requirements of subparagraph (B).
 
 #### (B) Content of acknowledgement
 
@@ -1299,9 +1299,9 @@ No deduction shall be allowed under this section for traveling expenses (includi
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 58; Aug. 7, 1956, ch. 1031, §1, 70 Stat. 1117; Pub. L. 85–866, title I, §§10(a), 11, 12(a), Sept. 2, 1958, 72 Stat. 1609, 1610; Pub. L. 86–779, §7(a), Sept. 14, 1960, 74 Stat. 1002; Pub. L. 87–834, §13(d), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 87–858, §2(a), (b), Oct. 23, 1962, 76 Stat. 1134; Pub. L. 88–272, title II, §§209(a), (b), (c)(1), (d)(1), (e), 231(b)(1), Feb. 26, 1964, 78 Stat. 43, 45–47, 105; Pub. L. 89–570, §1(b)(1), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title I, §101(j)(2), title II, §201(a)(1), (2)(A), (h)(1), Dec. 30, 1969, 83 Stat. 526, 549, 558, 565; Pub. L. 94–455, title II, §205(c)(1)(A), title X, §1052(c)(2), title XIII, §§1307(c), (d)(1)(B)(i), 1313(b)(1), title XIX, §§1901(a)(28), (b)(8)(A), 1906(b)(13)(A), title XXI, §§2124(e)(1), 2135(a), Oct. 4, 1976, 90 Stat. 1535, 1648, 1726, 1727, 1730, 1768, 1794, 1834, 1919, 1928; Pub. L. 95–30, title III, §309(a), May 23, 1977, 91 Stat. 154; Pub. L. 95–600, title IV, §§402(b)(2), 403(c)(1), Nov. 6, 1978, 92 Stat. 2868; Pub. L. 96–465, title II, §2206(e)(2), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 96–541, §6(a), (b), Dec. 17, 1980, 94 Stat. 3206; Pub. L. 97–34, title I, §121(a), title II, §§222(a), 263(a), Aug. 13, 1981, 95 Stat. 196, 248, 264; Pub. L. 97–248, title II, §286(b)(1), Sept. 3, 1982, 96 Stat. 570; Pub. L. 97–258, §3(f)(1), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 97–354, §5(a)(21), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–448, title I, §102(f)(7), Jan. 12, 1983, 96 Stat. 2372; Pub. L. 97–473, title II, §202(b)(4), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–369, div. A, title I, §174(b)(5)(A), title III, §301(a)–(c), title IV, §492(b)(1), title X, §§1022(b), 1031(a), 1032(b)(1), 1035(a), July 18, 1984, 98 Stat. 707, 777, 778, 854, 1028, 1033, 1042; Pub. L. 99–514, title I, §142(d), title II, §231(f), title III, §301(b)(2), title XVIII, §1831, Oct. 22, 1986, 100 Stat. 2120, 2180, 2217, 2851; Pub. L. 100–203, title X, §10711(a)(1), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title VI, §6001(a), Nov. 10, 1988, 102 Stat. 3683; Pub. L. 101–508, title XI, §§11801(a)(11), (c)(5), 11813(b)(10), Nov. 5, 1990, 104 Stat. 1388–520, 1388–523, 1388–554; Pub. L. 103–66, title XIII, §§13172(a), 13222(b), Aug. 10, 1993, 107 Stat. 455, 479; Pub. L. 104–188, title I, §§1206(a), 1316(b), Aug. 20, 1996, 110 Stat. 1776, 1786; Pub. L. 105–34, title II, §224(a), title V, §508(d), title VI, §602(a), title IX, §973(a), Aug. 5, 1997, 111 Stat. 818, 860, 862, 898; Pub. L. 105–206, title VI, §6004(e), July 22, 1998, 112 Stat. 795; Pub. L. 105–277, div. J, title I, §1004(a)(1), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §§532(c)(1)(A), (B), 537(a), Dec. 17, 1999, 113 Stat. 1930, 1936; Pub. L. 106–554, §1(a)(7) \[title I, §165(a)–(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–626; Pub. L. 107–16, title V, §542(e)(2)(B), June 7, 2001, 115 Stat. 85; Pub. L. 107–147, title IV, §417(7), (22), Mar. 9, 2002, 116 Stat. 56, 57; Pub. L. 108–81, title V, §503, Sept. 25, 2003, 117 Stat. 1003; Pub. L. 108–311, title II, §207(15), (16), title III, §306(a), Oct. 4, 2004, 118 Stat. 1177, 1179; Pub. L. 108–357, title III, §335(a), title IV, §413(c)(30), title VIII, §§882(a), (b), (d), 883(a), 884(a), Oct. 22, 2004, 118 Stat. 1478, 1509, 1627, 1631, 1632; Pub. L. 109–73, title III, §§305(a), 306(a), Sept. 23, 2005, 119 Stat. 2025; Pub. L. 109–135, title IV, §403(a)(16), (gg), Dec. 21, 2005, 119 Stat. 2619, 2631; Pub. L. 109–222, title II, §204(b), May 17, 2006, 120 Stat. 350; Pub. L. 109–280, title XII, §§1202(a), 1204(a), 1206(a), (b)(1), 1213(a)–(d), 1214(a), (b), 1215(a), 1216(a), 1217(a), 1218(a), 1219(c)(1), 1234(a), Aug. 17, 2006, 120 Stat. 1066, 1068, 1069, 1075–1077, 1079, 1080, 1084, 1100; Pub. L. 109–432, div. A, title I, §116(a)(1), (b)(1), (2), Dec. 20, 2006, 120 Stat. 2941; Pub. L. 110–172, §§3(c), 11(a)(14)(A), (B), (15), (16), Dec. 29, 2007, 121 Stat. 2474, 2485; Pub. L. 110–234, title XV, §15302(a), May 22, 2008, 122 Stat. 1501; Pub. L. 110–246, §4(a), title XV, §15302(a), June 18, 2008, 122 Stat. 1664, 2263; Pub. L. 110–343, div. C, title III, §§321(a), 323(a)(1), (b)(1), 324(a), (b), Oct. 3, 2008, 122 Stat. 3873–3875.)
 
-#### Amendment of Subsection (e)(1)
+#### Amendment of Section
 
-<i>Pub. L. 107–16, title V, §542(e)(2)(B), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 85, 86, 150, provided that, applicable to estates of decedents</i><i>dying after Dec. 31, 2009, subsection (e)(1) of this section is temporarily amended by inserting at end “For purposes of this paragraph, the determination of whether property is a capital asset shall be made without regard to the exception contained in section 1221(a)(3)(C) for basis determined under section 1022.”. See Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -1452,6 +1452,8 @@ Subsec. (<i>o</i>). Pub. L. 108–357, §335(a), redesignated subsec. (n) as (<i
 2002—Subsec. (e)(6)(B)(i)(III). Pub. L. 107–147, §417(7), substituted “2000),” for “ 2000,”.
 
 Subsec. (e)(6)(B)(iv). Pub. L. 107–147, §417(22), provided that the amendment made by section 165(b)(1) of the Community Renewal Tax Relief Act of 2000 \[Pub. L. 106–554, §1(a)(7)\[title I, §165(b)(1)\]\] shall be applied as if it struck “in any of the grades K–12”. See 2000 Amendment note below.
+
+2001—Subsec. (e)(1). Pub. L. 107–16, §§542(e)(2)(B), 901, temporarily inserted at end “For purposes of this paragraph, the determination of whether property is a capital asset shall be made without regard to the exception contained in section 1221(a)(3)(C) for basis determined under section 1022.” See Effective and Termination Dates of 2001 Amendment note below.
 
 2000—Subsec. (e)(6). Pub. L. 106–554, §1(a)(7) \[title I, §165(b)(2)\], substituted “educational purposes” for “elementary or secondary school purposes” in heading.
 

@@ -26,7 +26,7 @@
 
 &emsp;(3) Transfers of chemical munitions.
 
-(Added Pub. L. 96–323, §2(a), Aug. 4, 1980, 94 Stat. 1017, §2324; amended Pub. L. 97–22, §11(a)(8), July10, 1981, 95 Stat. 138; renumbered §2344, Pub. L. 99–145, title XIII, §1304(a)(1), Nov. 8, 1985, 99 Stat. 741; Pub. L. 99–661, div. A, title XI, §1104(b), Nov. 14, 1986, 100 Stat. 3964; Pub. L. 101–189, div. A, title IX, §§931(e)(1), 938(a), (b), Nov. 29, 1989, 103 Stat. 1535, 1539; Pub. L. 102–25, title VII, §701(f)(2), Apr. 6, 1991, 105 Stat. 115; Pub. L. 103–337, div. A, title XIII, §1317(d), Oct. 5, 1994, 108 Stat. 2900; Pub. L. 109–163, div. A, title XII, §1204, Jan. 6, 2006, 119 Stat. 3456.)
+(Added Pub. L. 96–323, §2(a), Aug. 4, 1980, 94 Stat. 1017, §2324; amended Pub. L. 97–22, §11(a)(8), July 10, 1981, 95 Stat. 138; renumbered §2344, Pub. L. 99–145, title XIII, §1304(a)(1), Nov. 8, 1985, 99 Stat. 741; Pub. L. 99–661, div. A, title XI, §1104(b), Nov. 14, 1986, 100 Stat. 3964; Pub. L. 101–189, div. A, title IX, §§931(e)(1), 938(a), (b), Nov. 29, 1989, 103 Stat. 1535, 1539; Pub. L. 102–25, title VII, §701(f)(2), Apr. 6, 1991, 105 Stat. 115; Pub. L. 103–337, div. A, title XIII, §1317(d), Oct. 5, 1994, 108 Stat. 2900; Pub. L. 109–163, div. A, title XII, §1204, Jan. 6, 2006, 119 Stat. 3456.)
 
 #### References in Text
 

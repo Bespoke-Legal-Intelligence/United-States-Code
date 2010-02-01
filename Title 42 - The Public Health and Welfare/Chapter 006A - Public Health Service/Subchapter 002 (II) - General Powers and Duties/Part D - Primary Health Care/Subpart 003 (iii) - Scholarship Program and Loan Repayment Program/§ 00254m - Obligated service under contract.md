@@ -110,7 +110,7 @@ Subsec. (d). Pub. L. 97–35, §2709(c)(5), inserted provision relating to indiv
 
 Subsec. (e). Pub. L. 97–35, §2709(c)(6), substituted provisions respecting mandatory determination of service requirement, for provisions respecting discretionary determination of service requirement.
 
-1979—Subsec. (b)(5)(A). Pub. L. 96–76, §202(a), (b)(1), (2), inserted provisions authorizing a greater periodthan three years for individuals receiving degrees from schools of medicine, osteopathy, and dentistry, and provisions respecting individuals receiving degrees from schools of veterinary medicine, optometry, podiatry, and pharmacy, and substituted “No period” for “No such period”.
+1979—Subsec. (b)(5)(A). Pub. L. 96–76, §202(a), (b)(1), (2), inserted provisions authorizing a greater period than three years for individuals receiving degrees from schools of medicine, osteopathy, and dentistry, and provisions respecting individuals receiving degrees from schools of veterinary medicine, optometry, podiatry, and pharmacy, and substituted “No period” for “No such period”.
 
 Subsec. (b)(5)(B). Pub. L. 96–76, §202(b)(3), substituted “referred to in subparagraph (A)” for “of medicine, osteopathy, or dentistry”.
 

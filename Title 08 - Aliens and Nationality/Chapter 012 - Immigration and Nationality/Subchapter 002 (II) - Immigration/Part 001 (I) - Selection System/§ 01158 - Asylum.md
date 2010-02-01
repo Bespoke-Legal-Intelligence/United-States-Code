@@ -44,7 +44,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The burden of proof is on the applicant to establish that the applicant is a refugee, within the meaning of section 1101(a)(42)(A) of this title. To establish that the applicant is a refugee within the meaning of such section, the applicant must establish that race, religion, nationality, membership in a particular social group, or political opinion was or will be at least one central reason for persecuting the applicant.
+&emsp;&emsp;&emsp;The burden of proof is on the applicant to establish that the applicant is a refugee, within the meaning of section 1101(a)(42)(A) of this title. To establishthat the applicant is a refugee within the meaning of such section, the applicant must establish that race, religion, nationality, membership in a particular social group, or political opinion was or will be at least one central reason for persecuting the applicant.
 
 #### (ii) Sustaining burden
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(iv) there are reasonable grounds for regarding the alien as a danger to the security of the United States;
 
-&emsp;&emsp;&emsp;(v) the alien is described in subclause (I), (II), (III), (IV), or (VI) of section 1182(a)(3)(B)(i) of this title or section1227(a)(4)(B) of this title (relating to terrorist activity), unless, in the case only of an alien described in subclause (IV) of section 1182(a)(3)(B)(i) of this title, the Attorney General determines, in the Attorney General's discretion, that there are not reasonable grounds for regarding the alien as a danger to the security of the United States; or
+&emsp;&emsp;&emsp;(v) the alien is described in subclause (I), (II), (III), (IV), or (VI) of section 1182(a)(3)(B)(i) of this title or section 1227(a)(4)(B) of this title (relating to terrorist activity), unless, in the case only of an alien described in subclause (IV) of section 1182(a)(3)(B)(i) of this title, the Attorney General determines, in the Attorney General's discretion, that there are not reasonable grounds for regarding the alien as a danger to the security of the United States; or
 
 &emsp;&emsp;&emsp;(vi) the alien was firmly resettled in another country prior to arriving in the United States.
 
@@ -234,7 +234,7 @@ Amendment by Pub. L. 107–208 effective Aug. 6, 2002, and applicable to certain
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–56 effective Oct. 26, 2001, and applicable to actions taken by an alien before, on, or after Oct. 26, 2001, and to all aliens, regardless of date of entry or attempted entry into the United States, in removal proceedings on or after such date (except for proceedings in which there has been a final administrative decision before such date) or seeking admission to the United States on or after such date, with special rules and exceptions, see section 411(c) of Pub. L. 107–56, set out as a note under section 1182 of this title.
+Amendment by Pub. L. 107–56 effective Oct. 26, 2001, and applicable to actions taken by an alien before, on, or after Oct. 26, 2001, and to all aliens, regardless of date of entry or attempted entry into the United States, in removal proceedings on or after such date (except for proceedings in which there has been a final administrative decision before such date) or seeking admission to the United States on or after such date, with special rules and exceptions, see section 411(c) ofPub. L. 107–56, set out as a note under section 1182 of this title.
 
 #### Effective Date of 1996 Amendments
 

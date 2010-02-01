@@ -60,7 +60,7 @@ There is established the Office of Thrift Supervision, which shall be an office 
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of the Treasury shall appoint a Deputy Director, and may appoint not more than 3 additional Deputy Directors of the Office.
+&emsp;&emsp;The Secretary of the Treasury shall appoint a Deputy Director, and may appointnot more than 3 additional Deputy Directors of the Office.
 
 #### (B) First Deputy Director
 
@@ -142,7 +142,7 @@ The compensation of the Director and other employees of the Office and all other
 
 The Director shall make available to the Comptroller General of the United States all books and records necessary to audit all of the activities of the Office of Thrift Supervision.
 
-(June 13, 1933, ch. 64, §3, as added Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 278; amended Pub. L. 103–325, title III, §331(c), Sept. 23, 1994, 108 Stat. 2232; Pub. L. 103–328, title I, §102(b)(5), Sept. 29, 1994, 108 Stat. 2352; Pub. L. 109–351, title VII, §712, Oct. 13, 2006, 120 Stat. 1994.)
+(June 13, 1933, ch. 64, §3, as added Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 278; amended Pub. L. 103–325, title III, §331(c), Sept. 23, 1994, 108 Stat. 2232; Pub. L. 103–328, title I, §102(b)(5),Sept. 29, 1994, 108 Stat. 2352; Pub. L. 109–351, title VII, §712, Oct. 13, 2006, 120 Stat. 1994.)
 
 #### References in Text
 

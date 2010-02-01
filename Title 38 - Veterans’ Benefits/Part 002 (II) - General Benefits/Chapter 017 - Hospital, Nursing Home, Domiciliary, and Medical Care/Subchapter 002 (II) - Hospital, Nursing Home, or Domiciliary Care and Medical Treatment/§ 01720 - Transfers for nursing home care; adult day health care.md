@@ -40,7 +40,7 @@
 
 (4) A veteran who is furnished care by the Secretary in a hospital or domiciliary facility in Alaska or Hawaii may be furnished nursing home care at the expense of the United States under this subsection even if such hospital or domiciliary facility is not under the direct jurisdiction of the Secretary.
 
-(b) No veteran may be transferred or admitted to any institution for nursing home care under this section, unless such institution is determined by the Secretary to meet such standards as the Secretary may prescribe. The standards prescribed and any report of inspection of institutions furnishing care to veterans under this section made by or for the Secretary shall, to the extent possible, be made available to allFederal, State, and local agencies charged with the responsibility of licensing or otherwise regulating or inspecting such institutions.
+(b) No veteran may be transferred or admitted to any institution for nursing home care under this section, unless such institution is determined by the Secretary to meet such standards as the Secretary may prescribe. The standards prescribed and any report of inspection of institutions furnishing care to veterans under this section made by or for the Secretary shall, to the extent possible, be made available to all Federal, State, and local agencies charged with the responsibility of licensing or otherwise regulating or inspecting such institutions.
 
 (c)(1)(A) In furnishing nursing home care, adult day health care, or other extended care services under this section, the Secretary may enter into agreements for furnishing such care or services with—
 
@@ -178,7 +178,7 @@ Subsec. (e). Pub. L. 94–581, §106(4), added subsec. (e).
 
 1973—Subsec. (a). Pub. L. 93–82, §104(a), (b), designated cls. (1) and (2) as (i) and (ii), respectively, and in provisions preceding cl. (i) as so designated, substituted authority of the Administrator to transfer veterans and other persons under pars. (1) and (2), for authority of the Administrator to transfer veterans who have been furnished care by the Administrator in a hospital under the direct and exclusive jurisdiction of the Administrator, to any public or private institution not under the jurisdiction of the Administrator which furnishes nursing home care for care at the expense of the United States, and in the provisions following cl. (ii) as so designated, substituted designations (I) and (II) for designations (A) and (B).
 
-Subsec. (b). Pub. L. 93–82, §104(c), inserted provisions relating to the admissions of veterans to institutions for nursing home care and for the furnishing of standards and reports to Federal, State and local agencies charged with the responsibility of licensing or otherwise regulating or inspecting such institutions.
+Subsec. (b). Pub. L. 93–82, §104(c), inserted provisions relating to the admissions of veterans to institutionsfor nursing home care and for the furnishing of standards and reports to Federal, State and local agencies charged with the responsibility of licensing or otherwise regulating or inspecting such institutions.
 
 Subsec. (d). Pub. L. 93–82, §104(d), added subsec. (d).
 

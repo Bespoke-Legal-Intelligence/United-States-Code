@@ -52,7 +52,7 @@
 
 > and the master of any such vessel engaged in such fishery, shall be deemed to have violated this subchapter, and shall be subject to the penalties of this subchapter except in the case of unknowing violations before January 1, 1990.
 
-(D) If the owner of a vessel has obtained and maintains a current and valid exemption fromthe Secretary under this section and meets the requirements set forth in this section, the owner of such vessel, and the master and crew members of the vessel, shall not be subject to the penalties set forth in this subchapter for the incidental taking of marine mammals while such vessel is engaged in a fishery to which the exemption applies.
+(D) If the owner of a vessel has obtained and maintains a current and valid exemption from the Secretary under this section and meets the requirements set forth in this section, the owner of such vessel, and the master and crew members of the vessel, shall not be subject to the penalties set forth in this subchapter for the incidental taking of marine mammals while such vessel is engaged in a fishery to which the exemption applies.
 
 (E) Each owner of a vessel engaged in any fishery not identified in paragraph (1)(A)(i) or (ii), and the master and crew members of such a vessel, shall not be subject to the penalties set forth in this subchapter for the incidental taking of marine mammals if such owner reports to the Secretary, in such form and manner as the Secretary may require, instances of lethal incidental taking in the course of that fishery.
 
@@ -62,7 +62,7 @@
 
 (B) The Secretary shall utilize newspapers of general circulation, fishery trade associations, electronic media, and other means of advising commercial fishermen of the provisions of this section and the means by which they can comply with its requirements.
 
-(C) The Secretary is authorized to charge a fee for the granting of an exemption under this subsection. The level of fees charged under this subparagraph shall not exceed the administrative costs incurred in granting an exemption. Fees collected under this subparagraph shall be available to the Under Secretary of Commerce for Oceans and Atmosphere for expenses incurred in the granting and administration of exemptions under this section.
+(C) The Secretary is authorized to charge a fee for the granting of an exemption under this subsection. The level of fees charged under this subparagraph shall not exceed the administrativecosts incurred in granting an exemption. Fees collected under this subparagraph shall be available to the Under Secretary of Commerce for Oceans and Atmosphere for expenses incurred in the granting and administration of exemptions under this section.
 
 #### (c) Compilation of information by vessel owners; contents
 
@@ -118,7 +118,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 (4) Information gathered by observers shall be subject to the provisions of subsection (j) of this section. Consistent with the requirements of paragraph (1), the Secretary shall, if requested by the Appropriate <sup>1</sup> Regional Fishery Management Council, or in the case of a State fishery, the State, require observers to collect additional information, including but not limited to the quantities, species, and physical condition of target and non-target fishery resources and, if requested by the Secretary of the Interior, seabirds.
 
-(5) Notwithstanding the provisions of paragraph (4), the Secretary may decline to require observers to collect information described in such paragraph, if the Secretary finds in writing, following public notice and opportunity for comment, that such information will not contribute to the protection of marine mammals or the understanding of the marine ecosystem, including fishery resources and seabirds.
+(5) Notwithstanding the provisions of paragraph (4), the Secretary may decline to requireobservers to collect information described in such paragraph, if the Secretary finds in writing, following public notice and opportunity for comment, that such information will not contribute to the protection of marine mammals or the understanding of the marine ecosystem, including fishery resources and seabirds.
 
 (6) The Secretary shall not be required to place an observer on a vessel in a fishery if the Secretary finds that—
 
@@ -162,7 +162,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(A) a Regional Fishery Management Council or State does not act in a reasonable period of time on a request made by the Secretary under paragraph (3); or
 
-&emsp;(B) if the Secretary determines after notice and opportunity for public comment that the purposes of this section would be better served by such action.
+&emsp;(B) if the Secretary determines after notice and opportunity for public comment that thepurposes of this section would be better served by such action.
 
 #### (h) Information and management system for processing and analyzing reports and information; accessibility to public
 
@@ -274,7 +274,7 @@ Section 404(a)(2) of Pub. L. 104–43 provided that: “The amendment made by pa
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdictiontransferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

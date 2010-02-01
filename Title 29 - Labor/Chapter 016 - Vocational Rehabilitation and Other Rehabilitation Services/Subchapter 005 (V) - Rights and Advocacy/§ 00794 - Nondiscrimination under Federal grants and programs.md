@@ -84,7 +84,7 @@ Amendment by Pub. L. 100–259 not to be construed to force or require any indiv
 
 #### Construction of Prohibition Against Discrimination Under Federal Grants
 
-Rights or protections of this section not affected by any provision of Pub. L. 98–457, see section 127 of Pub. L. 98–457, set out as a note under section 5101 of Title 42, The Public Health and Welfare.
+Rights or protections of this section not affected by any provision of Pub. L. 98–457, see section 127 of Pub.L. 98–457, set out as a note under section 5101 of Title 42, The Public Health and Welfare.
 
 #### Coordination of Implementation and Enforcement of Provisions
 

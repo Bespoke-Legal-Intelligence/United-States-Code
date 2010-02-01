@@ -36,7 +36,7 @@ Pub. L. 104–106, div. C, title XXXI, §3153, Feb. 10, 1996, 110 Stat. 624; rep
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–375 substituted “May 1 of each year thereafter” for “March 15 of each year thereafter”.
+2004—Subsec. (c). Pub. L. 108–375 substituted “May 1 of each year thereafter” for “March 15 of each year thereafter”.
 
 #### Inclusion in 2005 Stockpile Stewardship Plan of Certain Information Relating to Stockpile Stewardship Criteria
 

@@ -14,7 +14,7 @@ Incidental Expenses.—Subject to such limitations as may be provided in appropr
 
 (d)
 
-Regulations and Reporting.—(1) The Secretary shall prescribe regulations to determinethe disposition of monetary awards accepted under this section and the payment of incidental expenses under subsection (c).
+Regulations and Reporting.—(1) The Secretary shall prescribe regulations to determine the disposition of monetary awards accepted under this section and the payment of incidental expenses under subsection (c).
 
 (2) At the end of each year, the Secretary shall submit to Congress a report for that year describing the disposition of monetary awards accepted under this section and the payment of incidental expenses under subsection (c).
 

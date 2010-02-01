@@ -40,7 +40,7 @@ In subsec. (f)(1), “section 60105 of title 46” substituted for “section 41
 
 #### Amendments
 
-1996—Subsec. (f). Pub. L. 104–324 amended heading and text of subsec. (f) generally. Prior to amendment, textread as follows: “The Secretary of the Treasury shall withhold or revoke, at the request of the Secretary, the clearance, required by section 91 of title 46, Appendix, of any vessel, the owner or operator of which is subject to any of the penalties in this section. Clearance may be granted in such cases upon the filing of a bond or other surety satisfactory to the Secretary.”
+1996—Subsec. (f). Pub. L. 104–324 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary of the Treasury shall withhold or revoke, at the request of the Secretary, the clearance, required by section 91 of title 46, Appendix, of any vessel, the owner or operator of which is subject to any of the penalties in this section. Clearance may be granted in such cases upon the filing of a bond or other surety satisfactory to the Secretary.”
 
 1990—Subsec. (b)(1). Pub. L. 101–380, §4302(j)(1), substituted “commits a class D felony” for “shall be fined not more than $50,000 for each violation or imprisoned for not more than five years, or both”.
 

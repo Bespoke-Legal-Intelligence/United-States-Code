@@ -62,7 +62,7 @@ Confidential phone records information.—The term “confidential phone records
 
 &emsp;&emsp;(B) is made available to a covered entity by a customer solely by virtue of the relationship between that covered entity and the customer; or
 
-&emsp;&emsp;(C) is contained in any bill, itemization, or account statement provided to a customer by or on behalf of a covered entity solely by virtue of the relationship between that covered entity and the customer.
+&emsp;&emsp;(C) is contained in any bill, itemization, or account statement provided to a customerby or on behalf of a covered entity solely by virtue of the relationship between that covered entity and the customer.
 
 &emsp;(2)
 

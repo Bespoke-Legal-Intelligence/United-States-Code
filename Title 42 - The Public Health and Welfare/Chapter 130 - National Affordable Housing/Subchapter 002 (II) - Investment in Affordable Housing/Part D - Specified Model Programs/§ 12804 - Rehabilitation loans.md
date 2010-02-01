@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall make available a model program to provide direct loans to finance the rehabilitation of low and moderate income single family and multifamily residential properties.
+The Secretary shall make available a model program to provide direct loans to finance therehabilitation of low and moderate income single family and multifamily residential properties.
 
 #### (b) Condition of loans
 

@@ -4,7 +4,7 @@
 
 (1) There shall be within the Department an Energy Information Administration to be headed by an Administrator who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate provided for in level IV of the Executive Schedule under section 5315 of title 5. The Administrator shall be a person who, by reason of professional background and experience, is specially qualified to manage an energy information system.
 
-(2) The Administrator shall be responsible for carrying out a central, comprehensive, and unified energy data and information program which will collect, evaluate, assemble, analyze, and disseminate data and information which is relevant to energy resource reserves, energy production, demand, and technology, and related economic and statistical information, or which is relevant to the adequacy of energy resources to meet demands in the near and longer term future for the Nation's economic and social needs.
+(2) The Administrator shall be responsible for carrying out a central, comprehensive, and unified energy data and information program which will collect, evaluate, assemble, analyze, and disseminate data and information which is relevant to energy resource reserves, energy production, demand, and technology, and related economic and statistical information, or which is relevant to the adequacy of energy resourcesto meet demands in the near and longer term future for the Nation's economic and social needs.
 
 #### (b) Delegation of functions
 
@@ -132,7 +132,7 @@ In order to improve the ability to evaluate the effectiveness of the Nation's en
 
 #### (m) Renewable fuels survey
 
-(1) In order to improve the ability to evaluate the effectiveness of the Nation's renewable fuels mandate, the Administrator shall conduct and publish the results of a survey of renewable fuels demand in the motor vehicle fuels market in the United States monthly, and in a manner designed to protect the confidentiality of individual responses. In conducting the survey, the Administrator shall collect information both on a national and regional basis, including each of the following:
+(1) In order to improve the ability to evaluate the effectiveness of the Nation's renewable fuels mandate, the Administrator shall conduct and publish the results of a survey of renewable fuelsdemand in the motor vehicle fuels market in the United States monthly, and in a manner designed to protect the confidentiality of individual responses. In conducting the survey, the Administrator shall collect information both on a national and regional basis, including each of the following:
 
 &emsp;(A) The quantity of renewable fuels produced.
 

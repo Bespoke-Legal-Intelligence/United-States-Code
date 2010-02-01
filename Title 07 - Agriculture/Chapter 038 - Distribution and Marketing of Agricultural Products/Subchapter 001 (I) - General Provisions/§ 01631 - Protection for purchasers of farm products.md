@@ -82,11 +82,11 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the name and address of the person indebted to the secured party;
 
-&emsp;&emsp;&emsp;(iii) the social security number, or other approved unique identifier, of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtor; and
+&emsp;&emsp;&emsp;(iii) the social security number, or other approved unique identifier, of the debtor or, in the case of a debtor doing businessother than as an individual, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtor; and
 
 &emsp;&emsp;&emsp;(iv) a description of the farm products subject to the security interest created by the debtor, including the amount of such products where applicable, and the name of each county or parish in which the farm products are produced or located;
 
-&emsp;&emsp;(D) must be amended in writing, within 3 months, similarly signed, authorized, orotherwise authenticated by the debtor and filed, to reflect material changes;
+&emsp;&emsp;(D) must be amended in writing, within 3 months, similarly signed, authorized, or otherwise authenticated by the debtor and filed, to reflect material changes;
 
 &emsp;&emsp;(E) remains effective for a period of 5 years from the date of filing, subject to extensions for additional periods of 5 years each by refiling or filing a continuation statement within 6 months before the expiration of the initial 5 year period;
 
@@ -152,7 +152,7 @@ A buyer of farm products takes subject to a security interest created by the sel
 
 &emsp;&emsp;(A) receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) that specifies both the seller and the farm product being sold by such seller as being subject to an effective financing statement or notice; and
 
-&emsp;&emsp;(B) does not secure a waiver or release of the security interest specified in such effective financing statement or notice from thesecured party by performing any payment obligation or otherwise.
+&emsp;&emsp;(B) does not secure a waiver or release of the security interest specified in such effective financing statement or notice from the secured party by performing any payment obligation or otherwise.
 
 #### (f) Law governing “receipt”
 
@@ -220,7 +220,7 @@ The Secretary of Agriculture shall prescribe regulations not later than 90 days 
 
 This section shall become effective 12 months after December 23, 1985.
 
-(Pub. L. 99–198, title XIII, §1324, Dec. 23, 1985, 99 Stat. 1535; Pub. L. 104–127, title VI, §662, Apr. 4, 1996, 110 Stat. 1107; Pub. L. 107–171, title X,§10604, May 13, 2002, 116 Stat. 512; Pub. L. 108–447, div. A, title VII, §776, Dec. 8, 2004, 118 Stat. 2849; Pub. L. 110–234, title XIV, §14215, May 22, 2008, 122 Stat. 1466; Pub. L. 110–246, §4(a), title XIV, §14215, June 18, 2008, 122 Stat. 1664, 2228.)
+(Pub. L. 99–198, title XIII, §1324, Dec. 23, 1985, 99 Stat. 1535; Pub. L. 104–127, title VI, §662, Apr. 4, 1996, 110 Stat. 1107; Pub. L. 107–171, title X, §10604, May 13, 2002, 116 Stat. 512; Pub. L. 108–447, div. A, title VII, §776, Dec. 8, 2004, 118 Stat. 2849; Pub. L. 110–234, title XIV, §14215, May 22, 2008, 122 Stat. 1466; Pub. L. 110–246, §4(a), title XIV, §14215, June 18, 2008, 122 Stat. 1664, 2228.)
 
 #### Codification
 

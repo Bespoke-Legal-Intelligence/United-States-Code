@@ -16,5 +16,5 @@ In this section, the term “intelligence community” has the meaning given tha
 
 #### Codification
 
-Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 2000, and not as part of the National Security Act of 1947 which comprises this chapter.
+Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 2000, and not as part ofthe National Security Act of 1947 which comprises this chapter.
 

@@ -1,6 +1,6 @@
 ### §2114d. Foreign export requirements; consultations and negotiations for reduction and elimination; restrictions on and exclusion from entry of products or services; savings provision; compensation authority applicable
 
-(1) If the United States Trade Representative, with the advice of the committee established by section 1872 of this title, determines that action by the United States is appropriate to respond to any export performance requirements of any foreign country or instrumentality that adversely affect the economic interests of the United States, then the United States Trade Representative shall seek to obtain the reduction and elimination of such export performance requirements through consultations and negotiations with the foreign country or instrumentality concerned.
+(1) If the United States Trade Representative, with the advice of the committee established by section 1872 of this title, determines that action by the United States is appropriate to respond to any export performance requirements of any foreign country or instrumentality that adversely affect the economic interests of the United States, then the United States Trade Representative shall seek to obtain the reduction and elimination of such export performancerequirements through consultations and negotiations with the foreign country or instrumentality concerned.
 
 (2) In addition to the action referred to in subsection (1), the United States Trade Representative may impose duties or other import restrictions on the products or services of such foreign country or instrumentality for such time as he determines appropriate, including the exclusion from entry into the United States of products subject to such requirements.
 
@@ -26,5 +26,5 @@ Section is comprised of subsec. (b) of section 307 of Pub. L. 98–573. Subsec. 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 

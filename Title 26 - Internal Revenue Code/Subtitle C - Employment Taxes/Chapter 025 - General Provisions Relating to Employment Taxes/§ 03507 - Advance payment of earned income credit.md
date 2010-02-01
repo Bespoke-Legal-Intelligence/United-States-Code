@@ -38,7 +38,7 @@ For purposes of this title, an earned income eligibility certificate is a statem
 
 &emsp;&emsp;(B) if the employee is not married, or if no earned income eligibility certificate is in effect with respect to the spouse of the employee, shall treat the credit provided by section 32 as if it were a credit—
 
-&emsp;&emsp;&emsp;(i) of not more than 60 percent of the credit percentage in effect under section 32(b)(1) for an eligible individual with 1 qualifying child and with earned income not in excess of the earned income amount in effect under section 32(b)(2) for such an eligible individual, which
+&emsp;&emsp;&emsp;(i) of not more than 60 percent of the credit percentage in effect under section32(b)(1) for an eligible individual with 1 qualifying child and with earned income not in excess of the earned income amount in effect under section 32(b)(2) for such an eligible individual, which
 
 &emsp;&emsp;&emsp;(ii) phases out at 60 percent of the phaseout percentage in effect under section 32(b)(1) for such an eligible individual between the phaseout amount in effect under section 32(b)(2) for such an eligible individual and the amount of earned income at which the credit under section 32(a) phases out for such an eligible individual, or
 
@@ -184,7 +184,7 @@ Subsec. (c)(3)(A)(i). Pub. L. 98–369, §474(r)(30), substituted “section 32�
 
 1983—Subsec. (d)(4). Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
-1982—Subsec. (d)(4). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, par. (4) is amended by inserting “subchapter A of” before“chapter 24”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+1982—Subsec. (d)(4). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, par. (4) is amended by inserting “subchapter A of” before “chapter 24”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 #### Effective Date of 1994 Amendment
 
@@ -196,7 +196,7 @@ Amendment by Pub. L. 103–66 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to taxable years beginning after Dec. 31, 1990, see section 11111(f) of Pub. L. 101–508, set out as a note under section 32 of this title.
+Amendment by Pub. L. 101–508 applicable to taxable years beginning after Dec. 31, 1990, see section 11111(f)of Pub. L. 101–508, set out as a note under section 32 of this title.
 
 #### Effective Date of 1986 Amendment
 

@@ -32,7 +32,7 @@
 
 #### (C) Intervention; etc.
 
-&emsp;&emsp;Notwithstanding any other law or rule of law, the person summoned shall have the right to intervene in any proceeding undersubparagraph (A). Such person shall be bound by the decision in such proceeding (whether or not the person intervenes in such proceeding).
+&emsp;&emsp;Notwithstanding any other law or rule of law, the person summoned shall have the right to intervene in any proceeding under subparagraph (A). Such person shall be bound by the decision in such proceeding (whether or not the person intervenes in such proceeding).
 
 #### (c) Summons to which section applies
 
@@ -122,7 +122,7 @@ A summons is described in this subsection if, upon petition by the Secretary, th
 
 #### (2) Secretary may give summoned party certificate
 
-&emsp;The Secretary may issue a certificate to the summoned party that the period prescribed for beginning a proceeding to quash a summons has expired and that no such proceeding began within such period, or that the taxpayer consents to the examination.
+&emsp;The Secretary may issue a certificate to the summoned party that the period prescribed forbeginning a proceeding to quash a summons has expired and that no such proceeding began within such period, or that the taxpayer consents to the examination.
 
 #### (3) Protection for summoned party who discloses
 
@@ -186,7 +186,7 @@ Subsec. (a)(4). Pub. L. 105–206, §3415(c)(1), struck out heading and text of 
 
 Subsec. (a)(5). Pub. L. 105–206, §3415(c)(1), redesignated par. (5) as (3).
 
-Subsec. (c). Pub. L. 105–206, §3415(c)(2), reenacted heading without change and amended text generally, substituting present provisions for provisions which had: in par. (1) declared a general rule of includingwithin subsection summons issued under sections 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602(a)(2); in par. (2) set forth exceptions where summons was solely to determine identity of person having a numbered account, or was in aid of collection of liability of person against whom assessment or judgment had been made, or his transferee or fiduciary; and in par. (3) defined “records” and declared that summons requiring testimony about records would be treated as summons requiring production of such records.
+Subsec. (c). Pub. L. 105–206, §3415(c)(2), reenacted heading without change and amended text generally, substituting present provisions for provisions which had: in par. (1) declared a general rule of including within subsection summons issued under sections 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602(a)(2); in par. (2) set forth exceptions where summons was solely to determine identity of person having a numbered account, or was in aid of collection of liability of person against whom assessment or judgment had been made, or his transferee or fiduciary; and in par. (3) defined “records” and declared that summons requiring testimony about records would be treated as summons requiring production of such records.
 
 Subsec. (e)(2). Pub. L. 105–206, §3415(c)(3), substituted “summoned party's response to the summons” for “third-party recordkeeper's response to the summons described in subsection (c), or the summoned party's response to a summons described in subsection (f)”.
 
@@ -258,7 +258,7 @@ Pub. L. 109–135, title IV, §408(b), Dec. 21, 2005, 119 Stat. 2635, provided t
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3415(d), July 22, 1998, 112 Stat. 756, provided that: “The amendments made bythis section \[amending this section\] shall apply to summonses served after the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3415(d), July 22, 1998, 112 Stat. 756, provided that: “The amendments made by this section \[amending this section\] shall apply to summonses served after the date of the enactment of this Act \[July 22, 1998\].”
 
 #### Effective Date of 1996 Amendment
 

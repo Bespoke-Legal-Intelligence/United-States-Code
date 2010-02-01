@@ -6,7 +6,7 @@ For the purpose of providing services described in section 300ff–22(a) of this
 
 &emsp;(1) whose applications under section 300ff–27 of this title have demonstrated the need in the State, on an objective and quantified basis, for supplemental financial assistance to provide such services; and
 
-&emsp;(2) that did not, for the most recent grant year pursuant to section 300ff–28(a)(1) or 300ff–28(a)(2)(G)(i) <sup>1</sup> of this title for which data is available, have more than 2 percent of grantfunds under such sections canceled or covered by any waivers under section 300ff–31a(c) of this title.
+&emsp;(2) that did not, for the most recent grant year pursuant to section 300ff–28(a)(1) or 300ff–28(a)(2)(F)(i) of this title for which data is available, have more than 5 percent of grant funds under such sections canceled, offset under section 300ff–31a(e) of this title, or covered by any waivers under section 300ff–31a(c) of this title.
 
 #### (b) Demonstrated need
 
@@ -58,11 +58,7 @@ The provisions of section 300ff–22(b) of this title apply with respect to a gr
 
 The authority to make grants under this section applies beginning with the first fiscal year for which amounts are made available for such grants under section 300ff–31b(b)(1) of this title.
 
-(July 1, 1944, ch. 373, title XXVI, §2620, as added Pub. L. 109–415, title II, §205(2), Dec. 19, 2006, 120 Stat. 2797.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2620, as added and amended Pub. L. 109–415, title II, §205(2), title VII, §703, Dec. 19, 2006, 120 Stat. 2797, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 5(c)(2), 8(a)(2), (b)(2)(D), Oct. 30, 2009, 123 Stat. 2885, 2891, 2893, 2894.)
 
 #### Prior Provisions
 
@@ -70,5 +66,15 @@ A prior section 2620 of act July 1, 1944, was renumbered section 2621 and is cla
 
 Another prior section 2620 of act July 1, 1944, was classified to section 300ff–30 of this title prior to repeal by Pub. L. 104–146.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “300ff–28(a)(2)(F)(i)”.</i>
+#### Amendments
+
+2009—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+Subsec. (a)(2). Pub. L. 111–87, §§5(c)(2), 8(a)(2), (b)(2)(D), substituted “300ff–28(a)(2)(F)(i)” for “300ff–28(a)(2)(G)(i)”, “5 percent” for “2 percent”, and “canceled, offset under section 300ff–31a(e) of this title,” for “canceled”.
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by sections 5(c)(2) and 8(a)(2), (b)(2)(D) of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 

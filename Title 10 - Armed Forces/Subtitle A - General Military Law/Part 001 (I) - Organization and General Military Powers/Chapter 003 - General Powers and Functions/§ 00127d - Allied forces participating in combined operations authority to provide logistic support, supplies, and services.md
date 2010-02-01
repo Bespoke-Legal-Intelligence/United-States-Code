@@ -50,3 +50,7 @@ The Arms Export Control Act, referred to in subsec. (b)(1), is Pub. L. 90–629,
 
 2008—Pub. L. 110–181 renumbered section 127c of this title, relating to allied forces participating in combined operations, as this section.
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

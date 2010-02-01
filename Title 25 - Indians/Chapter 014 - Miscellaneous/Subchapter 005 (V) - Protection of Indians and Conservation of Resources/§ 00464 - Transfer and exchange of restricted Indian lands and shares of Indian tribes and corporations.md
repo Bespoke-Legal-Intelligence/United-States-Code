@@ -1,6 +1,6 @@
 ### §464. Transfer and exchange of restricted Indian lands and shares of Indian tribes and corporations
 
-Except as provided in this Act, no sale, devise, gift, exchange, or other transfer of restricted Indian lands or of shares in the assets of any Indian tribe or corporation organized under this Act shall be made or approved: <i>Provided</i>, That such lands or interests may, with the approval of the Secretary of the Interior, be sold, devised, or otherwise transferred to the Indian tribe in which the lands or shares are located or from which the shares were derived, or to a successor corporation: <i>Provided further</i>, That, subject to section 8(b) of the American Indian Probate Reform Act of 2004 (Public Law 108–374; 25 U.S.C. 2201 note), lands and shares described in the preceding proviso shall descend or be devised to any member of an Indian tribe or corporation described in that proviso or to an heir or lineal descendant of such a member in accordance with the Indian Land Consolidation Act (25 U.S.C. 2201 et seq.), including a tribal probate code approved, or regulations promulgated under, that Act: <i>Provided further</i>, That the Secretary of the Interior may authorize any voluntary exchanges of lands of equal value and the voluntary exchange of shares of equal value whenever such exchange, in the judgment of the Secretary, is expedient and beneficial for or compatible with the proper consolidation of Indian lands and for the benefit of cooperative organizations.
+Except as provided in this Act, no sale, devise, gift, exchange, or other transfer of restricted Indian lands or of shares in the assets of any Indian tribe or corporation organized under this Act shall be made or approved: <i>Provided</i>, That such lands or interests may, with the approval of the Secretary of the Interior, be sold, devised, or otherwise transferred to the Indian tribe in which the lands or shares are located or from which the shares were derived, or to a successor corporation: <i>Provided further</i>, That, subject to section 8(b) of the American Indian Probate Reform Act of 2004 (Public Law 108–374; 25 U.S.C. 2201 note), lands and shares described in the preceding proviso shall descend or be devised to any member of an Indian tribe or corporation described in that proviso or to an heir or lineal descendant of such a member in accordance with the Indian Land Consolidation Act (25 U.S.C. 2201 et seq.), including a tribal probate code approved, or regulations promulgated under, that Act: <i>Provided further</i>, That the Secretary of the Interior may authorize any voluntary exchanges of lands of equal value and the voluntary exchange of shares of equal value whenever such exchange, in the judgment of the Secretary, isexpedient and beneficial for or compatible with the proper consolidation of Indian lands and for the benefit of cooperative organizations.
 
 (June 18, 1934, ch. 576, §4, 48 Stat. 985; Pub. L. 96–363, §1, Sept. 26, 1980, 94 Stat. 1207; Pub. L. 106–462, title I, §106(c), Nov. 7, 2000, 114 Stat. 2007; Pub. L. 108–374, §6(d), Oct. 27, 2004, 118 Stat. 1805; Pub. L. 109–157, §8(b), Dec. 30, 2005, 119 Stat. 2952; Pub. L. 109–221, title V, §501(b)(1), May 12, 2006, 120 Stat. 343.)
 
@@ -8,7 +8,7 @@ Except as provided in this Act, no sale, devise, gift, exchange, or other transf
 
 This Act, referred to in text, is act June 18, 1934, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 
-The Indian Land Consolidation Act, referred to in text, is title II of Pub. L. 97–459, Jan. 12, 1983, 96 Stat. 2517, as amended, which is classified generally to chapter 24 (§2201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
+The Indian Land Consolidation Act, referred to in text, is title II of Pub. L. 97–459, Jan. 12, 1983, 96 Stat. 2517, which is classified generally to chapter 24 (§2201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
 #### Amendments
 
@@ -26,7 +26,7 @@ Pub. L. 108–374, §6(d)(3), which directed insertion of “in accordance with 
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–221 effective as if included in the enactment of Pub. L. 108–374, see section 501(c) ofPub. L. 109–221, set out as a note under section 348 of this title.
+Amendment by Pub. L. 109–221 effective as if included in the enactment of Pub. L. 108–374, see section 501(c) of Pub. L. 109–221, set out as a note under section 348 of this title.
 
 #### Effective Date of 2005 Amendment
 
@@ -34,5 +34,5 @@ Pub. L. 109–157, §9, Dec. 30, 2005, 119 Stat. 2953, provided that: “The ame
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–374 applicable on and after the date that is 1 year after June 20, 2005, see section 8(b) of Pub. L. 108–374, as amended, set out as a Notice; Effective Date of 2004 Amendment note under section 2201 of this title.
+Amendment by Pub. L. 108–374 applicable on and after the date that is 1 year after June 20, 2005, see section 8(b) of Pub. L. 108–374, set out as a Notice; Effective Date of 2004 Amendment note under section 2201 of this title.
 

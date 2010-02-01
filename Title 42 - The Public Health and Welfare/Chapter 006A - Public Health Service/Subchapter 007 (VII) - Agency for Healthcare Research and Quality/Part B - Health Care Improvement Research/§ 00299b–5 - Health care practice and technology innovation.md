@@ -12,7 +12,7 @@ The Director shall promote innovation in evidence-based health care practices an
 
 &emsp;(4) promoting education and training and providing technical assistance in the use of health care practice and technology assessment methodologies and results; and
 
-&emsp;(5) working with the National Library of Medicine and the public and private sector to develop an electronic clearinghouse of currently available assessments and those in progress.
+&emsp;(5) working with the National Library of Medicine and the public and private sector todevelop an electronic clearinghouse of currently available assessments and those in progress.
 
 #### (b) Specification of process
 

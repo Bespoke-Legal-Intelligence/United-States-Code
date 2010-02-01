@@ -34,7 +34,7 @@ In this chapter:
 
 #### (5) Consumer product
 
-&emsp;The term “consumer product” means any article, or component part thereof, produced or distributed (i) for sale to a consumer for use in or around a permanent or temporary household or residence, a school, in recreation, or otherwise, or (ii) for the personal use, consumption or enjoyment of a consumer in or around a permanent or temporary household or residence, a school, in recreation, or otherwise; but such term does not include—
+&emsp;The term “consumer product” means any article, or component part thereof, produced or distributed (i) for sale to a consumer for use in or around a permanent or temporary household or residence, a school, in recreation, or otherwise, or (ii) for the personal use, consumption or enjoyment of a consumer in or around a permanent or temporary householdor residence, a school, in recreation, or otherwise; but such term does not include—
 
 &emsp;&emsp;(A) any article which is not customarily produced or distributed for sale to, or use or consumption by, or enjoyment of, a consumer,
 

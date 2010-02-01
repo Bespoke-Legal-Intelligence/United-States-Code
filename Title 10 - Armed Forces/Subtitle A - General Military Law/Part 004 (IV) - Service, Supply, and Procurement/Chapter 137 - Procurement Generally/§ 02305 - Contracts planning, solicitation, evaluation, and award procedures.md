@@ -26,7 +26,7 @@
 
 &emsp;(A) a statement of—
 
-&emsp;&emsp;(i) all significant factors and significant subfactors which the head of the agency reasonably expects to consider in evaluating sealed bids (including price) or competitive proposals (including cost or price, cost-related or price-related factors and subfactors, and noncost-related or nonprice-related factors and subfactors); and
+&emsp;&emsp;(i) all significant factors and significant subfactors which the head of the agency reasonably expects to consider in evaluating sealed bids (including price) or competitive proposals (including cost or price, cost-related or price-related factors and subfactors,and noncost-related or nonprice-related factors and subfactors); and
 
 &emsp;&emsp;(ii) the relative importance assigned to each of those factors and subfactors; and
 
@@ -156,7 +156,7 @@
 
 (3) If the head of an agency is making a noncompetitive award of a development contract or a production contract for a major system, the factors specified in paragraphs (1) and (2) to be considered in evaluating an offer for a contract may be considered as objectives in negotiating the contract to be awarded. Such objectives may not impair the rights of prospective contractors or subcontractors otherwise provided by law.
 
-(4)(A) Whenever the head of an agency requires that proposals described in paragraph (1)(B) or\(2)(B) be submitted by an offeror in its offer, the offeror shall not be required to provide a proposal that enables the United States to acquire competitively in the future an identical item if the item was developed exclusively at private expense unless the head of the agency determines that—
+(4)(A) Whenever the head of an agency requires that proposals described in paragraph (1)(B) or (2)(B) be submitted by an offeror in its offer, the offeror shall not be required to provide a proposal that enables the United States to acquire competitively in the future an identical item if the item was developed exclusively at private expense unless the head of the agency determines that—
 
 &emsp;(i) the original supplier of such item will be unable to satisfy program schedule or delivery requirements; or
 
@@ -186,7 +186,7 @@ Prohibition on Release of Contractor Proposals.—(1) Except as provided in para
 
 (3) In this subsection, the term “proposal” means any proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 85–861, §1(44), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 90–268, §3, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2723(b), July 18, 1984, 98 Stat. 1191; Pub. L. 98–525, title XII, §1213(a), Oct. 19, 1984, 98 Stat. 2591; Pub. L. 99–145, title XIII, §1303(a)(14), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §924(a), (b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §924(a), (b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title III, §313(b), title IX, formerly title IV, §924(a), (b), Nov. 14, 1986, 100 Stat. 3853, 3932, 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §806, Sept. 29, 1988, 102 Stat. 2010; Pub. L. 101–189, div. A, title VIII, §853(f), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 101–510, div. A, title VIII, §802(a)–(d), Nov. 5, 1990, 104 Stat. 1588, 1589; Pub. L. 103–160, div. A, title XI, §1182(a)(5), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 103–355, title I, §§1011–1016, title IV, §4401(b), Oct. 13, 1994, 108 Stat. 3254–3257, 3347; Pub. L. 104–106, div. D, title XLI, §§4103(a), 4104(a), title XLII, §4202(a)(2), div. E, title LVI, §5601(a), Feb. 10, 1996, 110 Stat. 643, 644, 653, 699; Pub. L. 104–201, div. A, title VIII, §821(a), title X, §1074(a)(11), (b)(4)(A), Sept. 23, 1996, 110 Stat. 2609, 2659, 2660; Pub. L. 106–65, div. A, title VIII, §821, Oct. 5, 1999, 113 Stat. 714.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 85–861, §1(44), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 90–268, §3, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2723(b), July 18, 1984, 98 Stat. 1191; Pub. L. 98–525, title XII, §1213(a), Oct. 19, 1984, 98 Stat. 2591; Pub. L. 99–145, title XIII, §1303(a)(14), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §924(a), (b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §924(a), (b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title III, §313(b), title IX, formerly title IV, §924(a), (b), Nov. 14, 1986, 100 Stat. 3853, 3932, 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §806, Sept. 29, 1988, 102 Stat. 2010; Pub. L. 101–189, div. A, title VIII, §853(f), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 101–510, div. A, title VIII, §802(a)–(d), Nov. 5, 1990, 104 Stat. 1588, 1589; Pub. L. 103–160, div. A, title XI, §1182(a)(5), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 103–355, title I, §§1011–1016, title IV, §4401(b), Oct. 13, 1994, 108Stat. 3254–3257, 3347; Pub. L. 104–106, div. D, title XLI, §§4103(a), 4104(a), title XLII, §4202(a)(2), div. E, title LVI, §5601(a), Feb. 10, 1996, 110 Stat. 643, 644, 653, 699; Pub. L. 104–201, div. A, title VIII, §821(a), title X, §1074(a)(11), (b)(4)(A), Sept. 23, 1996, 110 Stat. 2609, 2659, 2660; Pub. L. 106–65, div. A, title VIII, §821, Oct. 5, 1999, 113 Stat. 714.)
 
 Historical and Revision Notes<br>1956
 
@@ -380,7 +380,7 @@ Pub. L. 109–163, div. A, title VIII, §816, Jan. 6, 2006, 119 Stat. 3382, prov
 
 “(a)
 
-Guidance Required.—The Secretary of Defense shall prescribe guidance for the military departments and the Defense Agencies on the use of tiered evaluations of offers for contracts and for task or delivery orders under contracts.
+Guidance Required.—The Secretary of Defense shall prescribe guidance for the military departmentsand the Defense Agencies on the use of tiered evaluations of offers for contracts and for task or delivery orders under contracts.
 
 “(b)
 

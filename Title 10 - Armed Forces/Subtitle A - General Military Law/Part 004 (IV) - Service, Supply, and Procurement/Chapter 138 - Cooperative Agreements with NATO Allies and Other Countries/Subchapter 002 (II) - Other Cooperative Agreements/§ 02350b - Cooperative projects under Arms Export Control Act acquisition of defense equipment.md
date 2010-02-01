@@ -12,7 +12,7 @@
 
 &emsp;(B) terms and conditions to be included in contracts;
 
-&emsp;(C) requirements for or preferences to be given to goods grown, produced, or manufactured in the United States or in United States Government-owned facilities or for services to be performed in the United States; or
+&emsp;(C) requirements for or preferences to be given to goods grown, produced, or manufactured in the United States or in United StatesGovernment-owned facilities or for services to be performed in the United States; or
 
 &emsp;(D) requirements regulating the performance of contracts.
 

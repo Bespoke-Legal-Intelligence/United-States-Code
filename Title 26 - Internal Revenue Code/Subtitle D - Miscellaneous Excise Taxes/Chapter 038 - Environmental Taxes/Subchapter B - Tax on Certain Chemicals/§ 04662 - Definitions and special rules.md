@@ -62,7 +62,7 @@ For purposes of this subchapter—
 
 #### (3) Sulfuric acid produced as a byproduct of air pollution control
 
-&emsp;In the case of sulfuric acid produced solely as a byproduct of and on the same site as airpollution control equipment, no tax shall be imposed under section 4661.
+&emsp;In the case of sulfuric acid produced solely as a byproduct of and on the same site as air pollution control equipment, no tax shall be imposed under section 4661.
 
 #### (4) Substances derived from coal
 
@@ -142,7 +142,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;&emsp;(II) a final order under section 106 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, and
 
-&emsp;&emsp;&emsp;(ii) ending on the date the Administrator or such State (as the case may be) certifies to the Secretary that such corrective action has been completed.
+&emsp;&emsp;&emsp;(ii) ending on the date the Administrator or such State (as the case may be) certifiesto the Secretary that such corrective action has been completed.
 
 #### (D) Special rule for groundwater treatment
 
@@ -256,7 +256,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) any person uses such substance as a qualified fertilizer substance,
 
-> &emsp;then an amount equal to the excess of the tax so paid over the tax determined with regard tosubsection (b)(2) shall be allowed as a credit or refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.
+> &emsp;then an amount equal to the excess of the tax so paid over the tax determined with regard to subsection (b)(2) shall be allowed as a credit or refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.
 
 #### (3) Use as qualified fuel
 
@@ -354,7 +354,7 @@ Subsec. (b)(10). Pub. L. 99–499, §513(g), added par. (10).
 
 Subsec. (c). Pub. L. 99–499, §513(f), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Except as provided in subsection (b), if any person manufactures, produces, or imports a taxable chemical and uses such chemical, then such person shall be liable for tax under section 4661 in the same manner as if such chemical were sold by such person.”
 
-Subsec. (d)(1). Pub. L. 99–499, §513(b)(2), substituted “which is a taxable chemical” for “the sale of which by such person would be taxable under such section”, insubpar. (B), and substituted “imposed by such section on the other substance manufactured or produced (or which would have been imposed by such section on such other substance but for subsection (b) or (e) of this section)” for “imposed by such section on the other substance manufactured or produced” in last sentence.
+Subsec. (d)(1). Pub. L. 99–499, §513(b)(2), substituted “which is a taxable chemical” for “the sale of which by such person would be taxable under such section”, in subpar. (B), and substituted “imposed by such section on the other substance manufactured or produced (or which would have been imposed by such section on such other substance but for subsection (b) or (e) of this section)” for “imposed by such section on the other substance manufactured or produced” in last sentence.
 
 Subsec. (d)(4). Pub. L. 99–499, §513(e)(2), added par. (4).
 

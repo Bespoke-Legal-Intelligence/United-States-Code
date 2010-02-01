@@ -28,7 +28,7 @@ For purposes of this chapter—
 
 Section 1402 of this title, referred to in par. (4), was repealed by Pub. L. 96–39, title II, §201(b), July 26, 1979, 93 Stat. 201.
 
-The effective date of the amendments made by title II of the Trade Agreements Act of 1979, referred to in par. (4), is July 1, 1980. See section 204(a) of Pub. L. 96–39, set out as an Effective Date of 1979 Amendment note under section 1401a of this title.
+The effective date of the amendments made by title II of the Trade Agreements Act of 1979, referred to inpar. (4), is July 1, 1980. See section 204(a) of Pub. L. 96–39, set out as an Effective Date of 1979 Amendment note under section 1401a of this title.
 
 The Harmonized Tariff Schedule of the United States, referred to in par. (7), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
@@ -40,7 +40,7 @@ The Harmonized Tariff Schedule of the United States, referred to in par. (7), is
 
 1979—Par. (2). Pub. L. 96–39, §1106(h)(1), substituted “or exaction” for “and exaction”.
 
-Par. (4). Pub. L. 96–39, §202(c)(1), substituted “section 1401a or 1402 of this title (as in effect before the effective date of the amendments made by title II of the Trade Agreements Act of 1979) or in sections 1401a ofthis title (as in effect on the effective date of such title II amendments) whichever is applicable” for “section 1401a or 1402 of this title applicable”.
+Par. (4). Pub. L. 96–39, §202(c)(1), substituted “section 1401a or 1402 of this title (as in effect before the effective date of the amendments made by title II of the Trade Agreements Act of 1979) or in sections 1401a of this title (as in effect on the effective date of such title II amendments) whichever is applicable” for “section 1401a or 1402 of this title applicable”.
 
 #### Effective Date of 1988 Amendment
 

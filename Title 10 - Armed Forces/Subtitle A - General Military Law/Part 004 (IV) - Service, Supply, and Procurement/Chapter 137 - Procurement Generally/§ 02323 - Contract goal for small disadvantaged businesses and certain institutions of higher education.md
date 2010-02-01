@@ -12,7 +12,7 @@ Goal.—(1) Except as provided in subsection (d), a goal of 5 percent of the amo
 
 &emsp;(D) Hispanic-serving institutions (as defined in section 502(a) of the Higher Education Act of 1965 (20 U.S.C. 1101a(a));<sup>1</sup> and
 
-&emsp;(E) Native Hawaiian-serving institutions and Alaska Native-serving institutions (as defined in section 317 of the Higher Education Act of 1965).
+&emsp;(E) Native Hawaiian-serving institutions and Alaska Native-serving institutions (as definedin section 317 of the Higher Education Act of 1965).
 
 (2) The head of the agency shall establish a specific goal within the overall 5 percent goal for the award of prime contracts and subcontracts to historically Black colleges and universities, Hispanic-serving institutions, Native Hawaiian-serving institutions and Alaska Native-serving institutions, and minority institutions in order to increase the participation of such colleges and universities and institutions in the program provided for by this section.
 
@@ -182,7 +182,7 @@ Section, as added by Pub. L. 102–484, §801(a)(1), consists of text of Pub. L.
 
 #### Prior Provisions
 
-A prior section 2323, added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2598; amended Pub. L. 99–500, §101(c) \[title X, §926(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §926(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title IX, formerly title IV, §926(a)(1), Nov. 14, 1986, 100 Stat. 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, related to commercial pricing for spare or repair parts, prior to repeal by Pub. L. 101–510, div. A, title VIII, §804(a), Nov. 5, 1990, 104 Stat. 1591.
+A prior section 2323, added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2598; amended Pub. L. 99–500, §101(c) \[title X, §926(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §926(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title IX, formerly title IV, §926(a)(1), Nov. 14, 1986, 100 Stat. 3933, renumbered title IX, Pub.L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, related to commercial pricing for spare or repair parts, prior to repeal by Pub. L. 101–510, div. A, title VIII, §804(a), Nov. 5, 1990, 104 Stat. 1591.
 
 #### Amendments
 
@@ -272,7 +272,7 @@ Subsec. (j). Pub. L. 102–484, §802(1), redesignated subsec. (i) as (j).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1997 Amendment
 

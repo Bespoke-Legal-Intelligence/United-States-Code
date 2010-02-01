@@ -114,7 +114,7 @@ Suits.—
 
 &emsp;“(1)
 
-In general.—This Act shall not affect suits commenced before the date of the enactment of this Act \[Dec. 9, 1999\], except as provided in paragraphs (2) and (3). In all such suits, proceeding shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted.
+In general.—This Act shall not affect suits commenced before the date of the enactment of thisAct \[Dec. 9, 1999\], except as provided in paragraphs (2) and (3). In all such suits, proceeding shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted.
 
 &emsp;“(2)
 

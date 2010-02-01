@@ -10,7 +10,7 @@ The Board may not make any grant to RFE/RL, Incorporated, unless the certificate
 
 #### (b) Location of principal place of business
 
-(1) The Board may not make any grant to RFE/RL, Incorporated unless the headquartersof RFE/RL, Incorporated and its senior administrative and managerial staff are in a location which ensures economy, operational effectiveness, and accountability to the Board.
+(1) The Board may not make any grant to RFE/RL, Incorporated unless the headquarters of RFE/RL, Incorporated and its senior administrative and managerial staff are in a location which ensures economy, operational effectiveness, and accountability to the Board.
 
 (2) Not later than 90 days after confirmation of all members of the Board, the Board shall provide a report to Congress on the number of administrative, managerial, and technical staff of RFE/RL, Incorporated who will be located within the metropolitan area of Washington, D.C., and the number of employees whose principal place of business will be located outside the metropolitan area of Washington, D.C.
 
@@ -70,11 +70,11 @@ No grant funds provided under this section may be used for the following purpose
 
 (1) Such financial transactions of RFE/RL, Incorporated, as relate to functions carried out under this section may be audited by the Government Accountability Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States. Any such audit shall be conducted at the place or places where accounts of RFE/RL, Incorporated, are normally kept.
 
-(2) Representatives of the Government Accountability Office shall have access to allbooks, accounts, records, reports, files, papers, and property belonging to or in use by RFE/RL, Incorporated pertaining to such financial transactions and necessary to facilitate an audit. Such representatives shall be afforded full facilities for verifying transactions with any assets held by depositories, fiscal agents, and custodians. All such books, accounts, records, reports, files, papers, and property of RFE/RL, Incorporated, shall remain in the possession and custody of RFE/RL, Incorporated.
+(2) Representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, files, papers, and property belonging to or in use by RFE/RL, Incorporated pertaining to such financial transactions and necessary to facilitate an audit. Such representatives shall be afforded full facilities for verifying transactions with any assets held by depositories, fiscal agents, and custodians. All such books, accounts, records, reports, files, papers, and property of RFE/RL, Incorporated, shall remain in the possession and custody of RFE/RL, Incorporated.
 
 (3) Notwithstanding any other provision of law and upon repeal of the Board for International Broadcasting Act \[22 U.S.C. 2871 et seq.\], the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of the Inspector General Act of 1978 with respect to RFE/RL, Incorporated.
 
-(Pub. L. 103–236, title III, §308, Apr. 30, 1994, 108 Stat. 437; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1314(d), 1323(<i>l</i>)(1), Oct. 21, 1998, 112 Stat. 2681–777, 2681–780; Pub. L. 107–228, div. A, title V, §§501, 502, Sept. 30, 2002, 116 Stat. 1392; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 103–236, title III, §308, Apr. 30, 1994, 108 Stat. 437; Pub. L. 105–277, div. G, subdiv. A, titleXIII, §§1314(d), 1323(<i>l</i>)(1), Oct. 21, 1998, 112 Stat. 2681–777, 2681–780; Pub. L. 107–228, div. A, title V, §§501, 502, Sept. 30, 2002, 116 Stat. 1392; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 

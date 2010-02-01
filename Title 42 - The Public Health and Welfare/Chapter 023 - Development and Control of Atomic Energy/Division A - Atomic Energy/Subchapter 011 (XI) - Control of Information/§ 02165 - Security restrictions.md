@@ -24,13 +24,13 @@ In the event an investigation made pursuant to subsections (a) and (b) of this s
 
 #### (f) Performance of personnel security investigations by FBI
 
-(1) Notwithstanding the provisions of subsections (a), (b), and (c) of this section, but subject to subsection (e) of this section, a majority of the members of the Commission may direct that an investigation required by such provisions on an individual described in paragraph (2)be carried out by the Federal Bureau of Investigation rather than by the Civil Service Commission.
+(1) Notwithstanding the provisions of subsections (a), (b), and (c) of this section, but subject to subsection (e) of this section, a majority of the members of the Commission may direct that an investigation required by such provisions on an individual described in paragraph (2) be carried out by the Federal Bureau of Investigation rather than by the Civil Service Commission.
 
 (2) An individual described in this paragraph is an individual who is employed—
 
 &emsp;(A) in a program certified by a majority of the members of the Commission to be of a high degree of importance or sensitivity; or
 
-&emsp;(B) in any other specific position certified by a majority of the members of the Commission to be of a high degree of importance or sensitivity.
+&emsp;(B) in any other specific position certified by a majority of the members of the Commissionto be of a high degree of importance or sensitivity.
 
 #### (g) Investigation standards
 

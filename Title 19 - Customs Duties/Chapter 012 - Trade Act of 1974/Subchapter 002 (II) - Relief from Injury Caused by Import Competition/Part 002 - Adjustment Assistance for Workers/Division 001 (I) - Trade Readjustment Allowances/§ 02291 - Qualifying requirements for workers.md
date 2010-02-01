@@ -2,23 +2,23 @@
 
 #### (a) Trade readjustment allowance conditions
 
-Payment of a trade readjustment allowance shall be made to an adversely affected worker covered by a certification under subpart A of this part who files an application for such allowance for any week of unemployment which begins more than 60 days after the date on which the petition that resulted in such certification was filed under section 2271 of this title, if the following conditions are met:
+Payment of a trade readjustment allowance shall be made to an adversely affected worker covered by a certification under subpart A of this part who files an application for such allowance for any week of unemployment which begins on or after the date of such certification, if the following conditions are met:
 
-&emsp;(1) Such worker's total or partial separation before his application under this part occurred—
+&emsp;(1) Such worker's total or partial separation before the worker's application under this part occurred—
 
-&emsp;&emsp;(A) on or after the date, as specified in the certification under which he is covered, on which total or partial separation began or threatened to begin in the adversely affected employment,
+&emsp;&emsp;(A) on or after the date, as specified in the certification under which the worker is covered, on which total or partial separation began or threatened to begin in the adversely affected employment,
 
 &emsp;&emsp;(B) before the expiration of the 2-year period beginning on the date on which the determination under section 2273 of this title was made, and
 
 &emsp;&emsp;(C) before the termination date (if any) determined pursuant to section 2273(d) of this title.
 
-&emsp;(2) Such worker had, in the 52-week period ending with the week in which such total or partial separation occurred, at least 26 weeks of employment at wages of $30 or more a week in adversely affected employment with a single firm or subdivision of a firm, or, if data with respect to weeks of employment with a firm are not available, equivalent amounts of employment computed under regulations prescribed by the Secretary. For the purposes of this paragraph, any week in which such worker—
+&emsp;(2) Such worker had, in the 52-week period ending with the week in which such total or partial separation occurred, at least 26 weeks of employment at wages of $30 or more a week in adversely affected employment with a single firm, or, if data with respect to weeks of employment with a firm are not available, equivalent amounts of employment computed under regulations prescribed by the Secretary. For the purposes of this paragraph, any week in which such worker—
 
 &emsp;&emsp;(A) is on employer-authorized leave for purposes of vacation, sickness, injury, maternity, or inactive duty or active duty military service for training,
 
 &emsp;&emsp;(B) does not work because of a disability that is compensable under a workmen's compensation law or plan of a State or the United States,
 
-&emsp;&emsp;(C) had his employment interrupted in order to serve as a full-time representative of a labor organization in such firm or subdivision, or
+&emsp;&emsp;(C) had his employment interrupted in order to serve as a full-time representative of a labor organization in such firm, or
 
 &emsp;&emsp;(D) is on call-up for purposes of active duty in a reserve status in the Armed Forces of the United States, provided such active duty is “Federal service” as defined in section 8521(a)(1) of title 5,
 
@@ -26,11 +26,11 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 &emsp;(3) Such worker—
 
-&emsp;&emsp;(A) was entitled to (or would be entitled to if he applied therefor) unemployment insurance for a week within the benefit period (i) in which such total or partial separation took place, or (ii) which began (or would have begun) by reason of the filing of a claim for unemployment insurance by such worker after such total or partial separation;
+&emsp;&emsp;(A) was entitled to (or would be entitled to if the worker applied therefor) unemployment insurance for a week within the benefit period (i) in which such total or partial separation took place, or (ii) which began (or would have begun) by reason of the filing of a claim for unemployment insurance by such worker after such total or partial separation;
 
-&emsp;&emsp;(B) has exhausted all rights to any unemployment insurance, except additional compensation that is funded by a State and is not reimbursed from any Federal funds, to which he was entitled (or would be entitled if he applied therefor); and
+&emsp;&emsp;(B) has exhausted all rights to any unemployment insurance, except additional compensation that is funded by a State and is not reimbursed from any Federal funds, to which the worker was entitled (or would be entitled if the worker applied therefor); and
 
-&emsp;&emsp;(C) does not have an unexpired waiting period applicable to him for any such unemployment insurance.
+&emsp;&emsp;(C) does not have an unexpired waiting period applicable to the worker for any such unemployment insurance.
 
 &emsp;(4) Such worker, with respect to such week of unemployment, would not be disqualified for extended compensation payable under the Federal-State Extended Unemployment Compensation Act of 1970 by reason of the work acceptance and job search requirements in section 202(a)(3) of such Act.
 
@@ -40,13 +40,15 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 &emsp;&emsp;(ii) the enrollment required under clause (i) occurs no later than the latest of—
 
-&emsp;&emsp;&emsp;(I) the last day of the 16th week after the worker's most recent total separation from adversely affected employment which meets the requirements of paragraphs (1) and (2),
+&emsp;&emsp;&emsp;(I) in the case of a worker whose most recent total separation from adversely affected employment that meets the requirements of paragraphs (1) and (2) occurs after the date on which the Secretary issues a certification covering the worker, the last day of the 26th week after such total separation,
 
-&emsp;&emsp;&emsp;(II) the last day of the 8th week after the week in which the Secretary issues a certification covering the worker,
+&emsp;&emsp;&emsp;(II) in the case of a worker whose most recent total separation from adversely affected employment that meets the requirements of paragraphs (1) and (2) occurs before the date on which the Secretary issues a certification covering the worker, the last day of the 26th week after the date of such certification,
 
-&emsp;&emsp;&emsp;(III) 45 days after the later of the dates specified in subclause (I) or (II), if the Secretary determines there are extenuating circumstances that justify an extension in the enrollment period, or
+&emsp;&emsp;&emsp;(III) 45 days after the date specified in subclause (I) or (II), as the case may be, if the Secretary determines there are extenuating circumstances that justify an extension in the enrollment period,
 
-&emsp;&emsp;&emsp;(IV) the last day of a period determined by the Secretary to be approved for enrollment after the termination of a waiver issued pursuant to subsection (c) of this section,
+&emsp;&emsp;&emsp;(IV) in the case of a worker who fails to enroll by the date required by subclause (I), (II), or (III), as the case may be, due to the failure to provide the worker with timely information regarding the date specified in such subclause, the last day of a period determined by the Secretary, or
+
+&emsp;&emsp;&emsp;(V) the last day of a period determined by the Secretary to be approved for enrollment after the termination of a waiver issued pursuant to subsection (c) of this section,
 
 &emsp;&emsp;(B) has, after the date on which the worker became totally separated, or partially separated, from the adversely affected employment, completed a training program approved by the Secretary under section 2296(a) of this title, or
 
@@ -54,27 +56,21 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 #### (b) Withholding of trade readjustment allowance pending beginning or resumption of participation in training program; period of applicability
 
-(1) If—
+If—
 
-&emsp;(A) the Secretary determines that—
+&emsp;(1) the Secretary determines that—
 
-&emsp;&emsp;(i) the adversely affected worker—
+&emsp;&emsp;(A) the adversely affected worker—
 
-&emsp;&emsp;&emsp;(I) has failed to begin participation in the training program the enrollment in which meets the requirement of subsection (a)(5) of this section, or
+&emsp;&emsp;&emsp;(i) has failed to begin participation in the training program the enrollment in which meets the requirement of subsection (a)(5) of this section, or
 
-&emsp;&emsp;&emsp;(II) has ceased to participate in such training program before completing such training program, and
+&emsp;&emsp;&emsp;(ii) has ceased to participate in such training program before completing such training program, and
 
-&emsp;&emsp;(ii) there is no justifiable cause for such failure or cessation, or
+&emsp;&emsp;(B) there is no justifiable cause for such failure or cessation, or
 
-&emsp;(B) the certification made with respect to such worker under subsection (c)(1) of this section is revoked under subsection (c)(2) of this section,
+&emsp;(2) the certification made with respect to such worker under subsection (c)(1) of this section is revoked under subsection (c)(2) of this section,
 
 > no trade readjustment allowance may be paid to the adversely affected worker under this division for the week in which such failure, cessation, or revocation occurred, or any succeeding week, until the adversely affected worker begins or resumes participation in a training program approved under section 2296(a) of this title.
-
-(2) The provisions of subsection (a)(5) of this section and paragraph (1) shall not apply with respect to any week of unemployment which begins—
-
-&emsp;(A) after the date that is 60 days after the date on which the petition that results in the certification that covers the worker is filed under section 2271 of this title, and
-
-&emsp;(B) before the first week following the week in which such certification is made under subpart A of this part.
 
 #### (c) Waivers of training requirements
 
@@ -88,7 +84,13 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 #### (B) Marketable skills
 
-&emsp;&emsp;The worker possesses marketable skills for suitable employment (as determined pursuant to an assessment of the worker, which may include the profiling system under section 303(j) of the Social Security Act (42 U.S.C. 503(j)), carried out in accordance with guidelines issued by the Secretary) and there is a reasonable expectation of employment at equivalent wages in the foreseeable future.
+#### (i) In general
+
+&emsp;&emsp;&emsp;The worker possesses marketable skills for suitable employment (as determined pursuant to an assessment of the worker, which may include the profiling system under section 303(j) of the Social Security Act (42 U.S.C. 503(j)), carried out in accordance with guidelines issued by the Secretary) and there is a reasonable expectation of employment at equivalent wages in the foreseeable future.
+
+#### (ii) Marketable skills defined
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “marketable skills” may include the possession of a postgraduate degree from an institution of higher education (as defined in section 1002 of title 20) or an equivalent institution, or the possession of an equivalent postgraduate certification in a specialized field.
 
 #### (C) Retirement
 
@@ -114,7 +116,7 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 #### (A) In general
 
-&emsp;&emsp;A waiver issued under paragraph (1) shall be effective for not more than 6 months after the date on which the waiver is issued, unless the Secretary determines otherwise.
+&emsp;&emsp;Except as provided in paragraph (3)(B), a waiver issued under paragraph (1) shall be effective for not more than 6 months after the date on which the waiver is issued, unless the Secretary determines otherwise.
 
 #### (B) Revocation
 
@@ -124,13 +126,25 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 #### (A) Issuance by cooperating States
 
-&emsp;&emsp;Pursuant to an agreement under section 2311 of this title, the Secretary may authorize a cooperating State to issue waivers as described in paragraph (1).
+&emsp;&emsp;An agreement under section 2311 of this title shall authorize a cooperating State to issue waivers as described in paragraph (1).
 
-#### (B) Submission of statements
+#### (B) Review of waivers
+
+&emsp;&emsp;An agreement under section 2311 of this title shall require a cooperating State to review each waiver issued by the State under subparagraph (A), (B), (D), (E), or (F) of paragraph (1)—
+
+&emsp;&emsp;&emsp;(i) 3 months after the date on which the State issues the waiver; and
+
+&emsp;&emsp;&emsp;(ii) on a monthly basis thereafter.
+
+#### (C) Submission of statements
 
 &emsp;&emsp;An agreement under section 2311 of this title shall include a requirement that the cooperating State submit to the Secretary the written statements provided under paragraph (1) and a statement of the reasons for the waiver.
 
-(Pub. L. 93–618, title II, §231, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2503, Aug. 13, 1981, 95 Stat. 881; Pub. L. 99–272, title XIII, §13003(a)(1), (2), (b), Apr. 7, 1986, 100 Stat. 300, 301; Pub. L. 100–418, title I, §1423(a)(1)–(3), Aug. 23, 1988, 102 Stat. 1244, 1245; Pub. L. 102–318, title I, §106(a), July 3, 1992, 106 Stat. 294; Pub. L. 107–210, div. A, title I, §§114, 115, Aug. 6, 2002, 116 Stat. 939; Pub. L. 109–270, §2(b)(1), Aug. 12, 2006, 120 Stat. 746.)
+(Pub. L. 93–618, title II, §231, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2503, Aug. 13, 1981, 95 Stat. 881; Pub. L. 99–272, title XIII, §13003(a)(1), (2), (b), Apr. 7, 1986, 100 Stat. 300, 301; Pub. L. 100–418, title I, §1423(a)(1)–(3), Aug. 23, 1988, 102 Stat. 1244, 1245; Pub. L. 102–318, title I, §106(a), July 3, 1992, 106 Stat. 294; Pub. L. 107–210, div. A, title I, §§114, 115, Aug. 6, 2002, 116 Stat. 939; Pub. L. 109–270, §2(b)(1), Aug. 12, 2006, 120 Stat. 746; Pub. L. 111–5, div. B, title I, §§1801(e)(3), 1821(a)–(c)(1), 1858(b), Feb. 17, 2009, 123 Stat. 371, 375, 376, 395.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
 
 #### References in Text
 
@@ -139,6 +153,54 @@ The Federal-State Extended Unemployment Compensation Act of 1970, referred to in
 The Social Security Act, referred to in subsec. (c)(1)(C)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–5, §§1821(c)(1)(A), 1893, temporarily substituted “on or after the date of such certification” for “more than 60 days after the date on which the petition that resulted in such certification was filed under section 2271 of this title” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(1). Pub. L. 111–5, §§1858(b)(1)(A), 1893, temporarily substituted “the worker's application” for “his application” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(1)(A). Pub. L. 111–5, §§1858(b)(1)(B), 1893, temporarily substituted “the worker is covered” for “he is covered”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(2). Pub. L. 111–5, §§1801(e)(3)(A), 1893, temporarily struck out “or subdivision of a firm” after “single firm” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(2)(A). Pub. L. 111–5, §§1858(b)(2)(A), 1893, which directed the temporary substitution of a comma for a period, could not be executed because a period did not appear. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(2)(C). Pub. L. 111–5, §§1801(e)(3)(B), 1893, temporarily struck out “or subdivision” after “such firm”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(2)(D). Pub. L. 111–5, §§1858(b)(2)(B), 1893, temporarily made technical amendment to reference in original act which appears in text as reference to section 8521(a)(1) of title 5. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(3)(A). Pub. L. 111–5, §§1858(b)(3)(A), 1893, temporarily substituted “the worker” for “he”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(3)(B). Pub. L. 111–5, §§1858(b)(3)(A), 1893, temporarily substituted “the worker” for “he” in two places. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(3)(C). Pub. L. 111–5, §§1858(b)(3)(B), 1893, temporarily substituted “the worker” for “him”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(5)(A)(ii)(I), (II). Pub. L. 111–5, §§1821(a)(1), 1893, temporarily added subcls. (I) and (II) and struck out former subcls. (I) and (II) which read as follows:
+
+“(I) the last day of the 16th week after the worker's most recent total separation from adversely affected employment which meets the requirements of paragraphs (1) and (2),
+
+“(II) the last day of the 8th week after the week in which the Secretary issues a certification covering the worker,”.
+
+> See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(5)(A)(ii)(III). Pub. L. 111–5, §§1821(a)(2)(A), 1893, temporarily substituted “date specified in subclause (I) or (II), as the case may be” for “later of the dates specified in subclause (I) or (II)”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(5)(A)(ii)(IV), (V). Pub. L. 111–5, §§1821(a)(2)(B)–(4), 1893, temporarily added subcl. (IV) and redesignated former subcl. (IV) as (V). See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (b). Pub. L. 111–5, §§1821(c)(1)(B), 1893, temporarily struck out par. (1) designation before “If—”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, redesignated cls. (i) and (ii) of former par. (1)(A) as subpars. (A) and (B), respectively, redesignated subcls. (I) and (II) of former par. (1)(A)(i) as cls. (i) and (ii), respectively, and struck out former par. (2) which read as follows: “The provisions of subsection (a)(5) of this section and paragraph (1) shall not apply with respect to any week of unemployment which begins—
+
+&emsp;“(A) after the date that is 60 days after the date on which the petition that results in the certification that covers the worker is filed under section 2271 of this title, and
+
+&emsp;“(B) before the first week following the week in which such certification is made under subpart A of this part.”
+
+> See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (c)(1)(B). Pub. L. 111–5, §§1821(b)(1), 1893, temporarily designated existing provisions as cl. (i), inserted heading, and added cl. (ii). See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (c)(2)(A). Pub. L. 111–5, §§1821(b)(2), 1893, temporarily substituted “Except as provided in paragraph (3)(B), a waiver” for “A waiver”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (c)(3)(A). Pub. L. 111–5, §§1821(b)(3)(A), 1893, temporarily substituted “An agreement under section 2311 of this title shall authorize a” for “Pursuant to an agreement under section 2311 of this title, the Secretary may authorize a”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (c)(3)(B), (C). Pub. L. 111–5, §§1821(b)(3)(B), (C), 1893, temporarily added subpar. (B) and redesignated former subpar. (B) as (C). See Effective and Termination Dates of 2009 Amendment note below.
 
 2006—Subsec. (c)(1)(F). Pub. L. 109–270 substituted “area career and technical education schools” for “area vocational education schools” and made technical amendment to reference in original act which appears in text as reference to section 2302 of title 20.
 
@@ -170,6 +232,12 @@ Subsec. (c). Pub. L. 99–272, §13003(a)(2), added subsec. (c).
 
 1981—Pub. L. 97–35 designated existing provisions as subsec. (a), substituted provisions respecting applicability of date upon which petition was filed for provisions respecting applicability of date specified in certification under section 2273(a) of this title, substantially revised and reorganized conditions by, among other changes, adding pars. (3) and (4), and added subsec. (b).
 
+#### Effective and Termination Dates of 2009 Amendment
+
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
+
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–210 applicable to petitions for certification filed under this part or part 3 of this subchapter on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
@@ -200,11 +268,11 @@ Extension and Authorization.—Chapters 2 and 3 of title II of the Trade Act of 
 
 “(d)
 
-Application of Gramm-Rudman.—Trade readjustment allowances payable under part I \[of subchapter B\] of chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2291 et seq.\] for the period from March 1, 1986, and until October 1, 1986, shall be reduced by a percentage equal to the non-defense sequester percentage applied in the Sequestration Report (submitted under the Balanced Budget and Emergency Deficit ControlAct of 1985 \[see Short Title note set out under section 900 of Title 2, The Congress\] and dated January 21, 1986) of the Comptroller General of the United States for fiscal year 1986.”
+Application of Gramm-Rudman.—Trade readjustment allowances payable under part I \[of subchapter B\] of chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2291 et seq.\] for the period from March 1, 1986, and until October 1, 1986, shall be reduced by a percentage equal to the non-defense sequester percentage applied in the Sequestration Report (submitted under the Balanced Budget and Emergency Deficit Control Act of 1985 \[see Short Title note set out under section 900 of Title 2, The Congress\] and dated January 21, 1986) of the Comptroller General of the United States for fiscal year 1986.”
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 
-Section 2514 of Pub. L. 97–35, as amended by Pub. L. 97–362, title II, §204, Oct. 24, 1982, 96 Stat. 1733, provided that:
+Pub. L. 97–35, title XXV, §2514, Aug. 13, 1981, 95 Stat. 889, as amended by Pub. L. 97–362, title II, §204, Oct. 24, 1982, 96 Stat. 1733, provided that:
 
 “(a)(1) Except as provided in paragraph (2), this subtitle \[enacting section 2275 of this title, amending this section and sections 2272, 2274, 2292, 2293, 2296, 2297, 2298, 2311, 2313, 2315, 2317, and 2319 of this title, repealing section 2318 of this title, enacting provisions set out as a note under section 2292 of this title, and amending provisions set out as a note preceding section 2271 of this title and under section 3304 of Title 26, Internal Revenue Code\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\].
 
@@ -214,7 +282,7 @@ Section 2514 of Pub. L. 97–35, as amended by Pub. L. 97–362, title II, §204
 
 “(C) The amendments made by sections 2506, 2507, and 2508 \[amending sections 2296, 2297, and 2298 of this title\] shall take effect with respect to determinations regarding training and applications for allowances under sections 236, 237, and 238 of the Trade Act of 1974 \[sections 2296, 2297, and 2298 of this title\] that are made or filed after September 30, 1981.
 
-“(D)(i) Except as otherwise provided in clause (ii), the provisions of sections 233(d) and 236(a)(2) of the Trade Act of 1974 (as amended by this Act) \[sections 2293(d) and 2296(a)(2) of this title\], and the provisions of section 204(a)(2)(C) of the Federal-State Extended Unemployment Compensation Act of 1970 (as added by this Act) \[set out as a note under section 3304 of Title 26\] shall apply to State unemployment compensation laws for purposes of certifications under section 3304(c) of the Internal Revenue Code of 1954 \[section 3304(c) of Title 26\] on October 31, of any taxable year after 1981.
+“(D)(i) Except as otherwise provided in clause (ii), the provisions of sections 233(d) and 236(a)(2) of the Trade Act of 1974 (as amended by this Act) \[former subsec. (d), now (c), of section 2293 of this title and section 2296(a)(2) of this title\], and the provisions of section 204(a)(2)(C) of the Federal-State Extended Unemployment Compensation Act of 1970 (as added by this Act) \[set out as a note under section 3304 of Title 26\] shall apply to State unemployment compensation laws for purposes of certifications under section 3304(c) of the Internal Revenue Code of 1954 \[section 3304(c) of Title 26\] on October 31, of any taxable year after 1981.
 
 “(ii) In the case of any State the legislature of which—
 
@@ -238,5 +306,5 @@ Section 2514 of Pub. L. 97–35, as amended by Pub. L. 97–362, title II, §204
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

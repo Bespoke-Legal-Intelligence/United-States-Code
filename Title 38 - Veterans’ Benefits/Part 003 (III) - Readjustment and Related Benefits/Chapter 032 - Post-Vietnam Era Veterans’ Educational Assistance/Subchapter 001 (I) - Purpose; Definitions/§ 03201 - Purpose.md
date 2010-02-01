@@ -1,6 +1,6 @@
 ### §3201. Purpose
 
-It is the purpose of this chapter (1) to provide educational assistance to those men and women who enter the Armed Forces after December 31, 1976, and before July 1, 1985, (2) to assist young men and women in obtaining an education they might not otherwise be able to afford, and (3) to promote and assist the all volunteer military program of the United States by attracting qualified men and women to serve in the Armed Forces.
+It is the purpose of this chapter (1) to provide educational assistance to those men and women who enter the Armed Forces after December 31, 1976, and before July 1, 1985, (2) to assist young men and women in obtaining an education they might not otherwise be able to afford, and (3) topromote and assist the all volunteer military program of the United States by attracting qualified men and women to serve in the Armed Forces.
 
 (Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2393, §1601; amended Pub. L. 99–576, title III, §309(a)(1), Oct. 28, 1986, 100 Stat. 3270; renumbered §3201, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 

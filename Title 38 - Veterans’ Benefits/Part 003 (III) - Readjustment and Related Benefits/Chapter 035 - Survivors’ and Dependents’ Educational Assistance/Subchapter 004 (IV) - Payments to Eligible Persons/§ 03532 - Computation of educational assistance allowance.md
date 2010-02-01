@@ -24,7 +24,7 @@
 
 (d) If a program of education is pursued by an eligible person at an institution located in the Republic of the Philippines, the educational assistance allowance computed for such person under this section shall be paid at the rate of $0.50 for each dollar.
 
-(e) In the case of an eligible person who is pursuing a program of education under this chapter while incarcerated in a Federal, State, local, or other penal institution or correctional facility for conviction of a felony, the educational assistance allowance shall be paid in the same manner prescribed in section 3482(g) of this title for incarcerated veterans, except that the references therein to the monthly educational assistance allowance prescribed for a veteran with no dependents shall be deemed to refer to the applicable allowance payable to an eligible person under corresponding provisions of this chapter or chapter 36 of this title, as determined by the Secretary.
+(e) In the case of an eligible person who is pursuing a program of education under this chapter while incarcerated in a Federal, State, local, or other penal institution or correctional facilityfor conviction of a felony, the educational assistance allowance shall be paid in the same manner prescribed in section 3482(g) of this title for incarcerated veterans, except that the references therein to the monthly educational assistance allowance prescribed for a veteran with no dependents shall be deemed to refer to the applicable allowance payable to an eligible person under corresponding provisions of this chapter or chapter 36 of this title, as determined by the Secretary.
 
 (f)(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a licensing or certification test described in section 3501(a)(5) of this title is the lesser of $2,000 or the fee charged for the test.
 
@@ -146,7 +146,7 @@ Subsec. (b). Pub. L. 92–540, §103(3), substituted “$177” for “$141”.
 
 Subsec. (b). Pub. L. 91–219, §104(b), substituted “$141” for “$105”.
 
-Subsec. (c). Pub. L. 91–219, §210, substituted provision that if a program of education is pursued by an eligible person at an institution located in the Republic of thePhilippines, the educational assistance allowance computed for such person should be paid at a specified rate in Philippine pesos, for provision forbidding educational assistance allowance to a person who is pursuing an institutional course on a less than prescribed basis.
+Subsec. (c). Pub. L. 91–219, §210, substituted provision that if a program of education is pursued by an eligible person at an institution located in the Republic of the Philippines, the educational assistance allowance computed for such person should be paid at a specified rate in Philippine pesos, for provision forbidding educational assistance allowance to a person who is pursuing an institutional course on a less than prescribed basis.
 
 1965—Subsec. (a). Pub. L. 89–222, §1(a), substituted “$130”, “$95”, and “$60” for “$110”, “$80”, and “$50”, respectively.
 

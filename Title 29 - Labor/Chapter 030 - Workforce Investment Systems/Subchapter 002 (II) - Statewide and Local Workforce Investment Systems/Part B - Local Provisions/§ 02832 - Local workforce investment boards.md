@@ -62,7 +62,7 @@ There shall be established in each local area of a State, and certified by the G
 
 &emsp;&emsp;&emsp;In a case in which a local area includes more than 1 unit of general local government, the chief elected officials of such units may execute an agreement that specifies the respective roles of the individual chief elected officials—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the appointment of the members of the local board from the individualsnominated or recommended to be such members in accordance with the criteria established under subsection (b) of this section; and
+&emsp;&emsp;&emsp;&emsp;(I) in the appointment of the members of the local board from the individuals nominated or recommended to be such members in accordance with the criteria established under subsection (b) of this section; and
 
 &emsp;&emsp;&emsp;&emsp;(II) in carrying out any other responsibilities assigned to such officials under this subchapter.
 
@@ -72,7 +72,7 @@ There shall be established in each local area of a State, and certified by the G
 
 #### (C) Concentrated employment programs
 
-&emsp;&emsp;In the case of a local area designated in accordance with section 2831(a)(2)(B) of this title, the governing body of the concentrated employment program involved shall act in consultation with the chief elected official in the local area to appoint members of the local board, in accordance with the State criteria established under subsection (b) of this section, and to carry out any other responsibility relating to workforce investment activities assigned to such official under this Act.
+&emsp;&emsp;In the case of a local area designated in accordance with section 2831(a)(2)(B) of this title, the governing body of the concentrated employment program involved shall act inconsultation with the chief elected official in the local area to appoint members of the local board, in accordance with the State criteria established under subsection (b) of this section, and to carry out any other responsibility relating to workforce investment activities assigned to such official under this Act.
 
 #### (2) Certification
 
@@ -144,7 +144,7 @@ The functions of the local board shall include the following:
 
 #### (A) Budget
 
-&emsp;&emsp;The local board shall develop a budget for the purpose of carrying out the duties of thelocal board under this section, subject to the approval of the chief elected official.
+&emsp;&emsp;The local board shall develop a budget for the purpose of carrying out the duties of the local board under this section, subject to the approval of the chief elected official.
 
 #### (B) Administration
 
@@ -156,7 +156,7 @@ The functions of the local board shall include the following:
 
 #### (II) Designation
 
-&emsp;&emsp;&emsp;&emsp;In order to assist in the administration of the grant funds, the chief elected official or the Governor, where the Governor serves as the local grant recipient for a local area, may designate an entity to serve as a local grant subrecipient for such funds or as a local fiscal agent. Such designation shall not relieve the chief elected official or the Governor of the liability for any misuse of grant funds as described in subclause (I).
+&emsp;&emsp;&emsp;&emsp;In order to assist in the administration of the grant funds, the chief elected official or the Governor, where the Governorserves as the local grant recipient for a local area, may designate an entity to serve as a local grant subrecipient for such funds or as a local fiscal agent. Such designation shall not relieve the chief elected official or the Governor of the liability for any misuse of grant funds as described in subclause (I).
 
 #### (III) Disbursal
 
@@ -228,7 +228,7 @@ The local board shall make available to the public, on a regular basis through o
 
 #### (2) Core services; intensive services; designation or certification as one-stop operators
 
-&emsp;A local board may provide core services described in section 2864(d)(2) of this title or intensive services described in section 2864(d)(3) of this title through a one-stop delivery system described in section 2864(c) of this title or be designated or certified as a one-stop operator only with the agreement of the chief elected official and the Governor.
+&emsp;A local board may provide core services described in section 2864(d)(2) of this title or intensive services described in section 2864(d)(3)of this title through a one-stop delivery system described in section 2864(c) of this title or be designated or certified as a one-stop operator only with the agreement of the chief elected official and the Governor.
 
 #### (3) Limitation on authority
 
@@ -318,7 +318,7 @@ A member of a local board may not—
 
 &emsp;References in this Act to a local board or a youth council shall be considered to include such an entity or a subgroup of such an entity, respectively.
 
-(Pub. L. 105–220, title I, §117, Aug. 7, 1998, 112 Stat. 954; Pub. L. 105–277, div. A, §101(f) \[titleVIII, §401(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
+(Pub. L. 105–220, title I, §117, Aug. 7, 1998, 112 Stat. 954; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
 
 #### References in Text
 

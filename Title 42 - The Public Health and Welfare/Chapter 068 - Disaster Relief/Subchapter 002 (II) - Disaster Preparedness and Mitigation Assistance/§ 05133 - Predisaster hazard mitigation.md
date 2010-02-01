@@ -200,15 +200,17 @@ Not later than 18 months after October 30, 2000, the President, in consultation 
 
 #### (m) Termination of authority
 
-The authority provided by this section terminates September 30, 2009.
+The authority provided by this section terminates September 30, 2010.
 
-(Pub. L. 93–288, title II, §203, as added Pub. L. 106–390, title I, §102(a), Oct. 30, 2000, 114 Stat. 1553; amended Pub. L. 108–199, div. H, §135, Jan. 23, 2004, 118 Stat. 441; Pub. L. 108–447, div. J, title I, §105, Dec. 8, 2004, 118 Stat. 3343; Pub. L. 109–139, §2, Dec. 22, 2005, 119 Stat. 2649; Pub. L. 110–329, div. D, title V, §553, Sept. 30, 2008, 122 Stat. 3690.)
+(Pub. L. 93–288, title II, §203, as added Pub. L. 106–390, title I, §102(a), Oct. 30, 2000, 114 Stat. 1553; amended Pub. L. 108–199, div. H, §135, Jan. 23, 2004, 118 Stat. 441; Pub. L. 108–447, div. J, title I, §105, Dec. 8, 2004, 118 Stat. 3343; Pub. L. 109–139, §2, Dec. 22, 2005, 119 Stat. 2649; Pub. L. 110–329, div. D, title V, §553, Sept. 30, 2008, 122 Stat. 3690; Pub. L. 111–83, title V, §543, Oct. 28, 2009, 123 Stat. 2176.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (g)(5), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+This chapter, referred to in subsec. (g)(5), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Amendments
+
+2009—Subsec. (m). Pub. L. 111–83 substituted “September 30, 2010” for “September 30, 2009”.
 
 2008—Subsec. (m). Pub. L. 110–329 substituted “September 30, 2009” for “September 30, 2008”.
 

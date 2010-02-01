@@ -14,7 +14,7 @@
 
 &emsp;(C) considering appeals from such recommendations, nominations, removals, and designations (or any failure or refusal by a nominating authority to nominate or designate);
 
-&emsp;(D) nominating historic properties for inclusion in the World Heritage List in accordance with the terms of the Convention concerning the Protection of the World Cultural and Natural Heritage;
+&emsp;(D) nominating historic properties for inclusion in the World Heritage List in accordance with the terms of the Convention concerningthe Protection of the World Cultural and Natural Heritage;
 
 &emsp;(E) making determinations of eligibility of properties for inclusion on the National Register; and
 
@@ -26,7 +26,7 @@
 
 (5) Any person or local government may appeal to the Secretary a nomination of any historic property for inclusion on the National Register and may appeal to the Secretary the failure or refusal of a nominating authority to nominate a property in accordance with this subsection.
 
-(6) The Secretary shall promulgate regulations requiring that before any property or district may be included on the National Register or designated as a National Historic Landmark, the owner or owners of such property, or a majority of the owners of the properties within the district in the case of an historic district, shall be given the opportunity (including a reasonable period of time) to concur in, or object to, the nomination of the property or district for such inclusion or designation. If the owner or owners of any privately owned property, or a majority of the owners of such properties within the district in the case of an historic district, object to such inclusion or designation, such property shall not be included on the National Registeror designated as a National Historic Landmark until such objection is withdrawn. The Secretary shall review the nomination of the property or district where any such objection has been made and shall determine whether or not the property or district is eligible for such inclusion or designation, and if the Secretary determines that such property or district is eligible for such inclusion or designation, he shall inform the Advisory Council on Historic Preservation, the appropriate State Historic Preservation Officer, the appropriate chief elected local official and the owner or owners of such property, of his determination. The regulations under this paragraph shall include provisions to carry out the purposes of this paragraph in the case of multiple ownership of a single property.
+(6) The Secretary shall promulgate regulations requiring that before any property or district may be included on the National Register or designated as a National Historic Landmark, the owner or owners of such property, or a majority of the owners of the properties within the district in the case of an historic district, shall be given the opportunity (including a reasonable period of time) to concur in, or object to, the nomination of the property or district for such inclusion or designation. If the owner or owners of any privately owned property, or a majority of the owners of such properties within the district in the case of an historic district, object to such inclusion or designation, such property shall not be included on the National Register or designated as a National Historic Landmark until such objection is withdrawn. The Secretary shall review the nomination of the property or district where any such objection has been made and shall determine whether or not the property or district is eligible for such inclusion or designation, and if the Secretary determines that such property or district is eligible for such inclusion or designation, he shall inform the Advisory Council on Historic Preservation, the appropriate State Historic Preservation Officer, the appropriate chief elected local official and the owner or owners of such property, of his determination. The regulations under this paragraph shall include provisions to carry out the purposes of this paragraph in the case of multiple ownership of a single property.
 
 (7) The Secretary shall promulgate, or revise, regulations—
 
@@ -78,7 +78,7 @@
 
 &emsp;(D) administer the State program of Federal assistance for historic preservation within the State;
 
-&emsp;(E) advise and assist, as appropriate, Federal and State agencies and local governments incarrying out their historic preservation responsibilities;
+&emsp;(E) advise and assist, as appropriate, Federal and State agencies and local governments in carrying out their historic preservation responsibilities;
 
 &emsp;(F) cooperate with the Secretary, the Advisory Council on Historic Preservation, and other Federal and State agencies, local governments, and organizations and individuals to ensure that historic properties are taken into consideration at all levels of planning and development;
 
@@ -148,7 +148,7 @@
 
 > Where there is no approved State program, a local government may be certified by the Secretary if he determines that such local government meets the requirements of subparagraphs (A) through (E); and in any such case the Secretary may make grants-in-aid to the local government for purposes of this section.
 
-(2)(A) Before a property within the jurisdiction of the certified local government may beconsidered by the State to be nominated to the Secretary for inclusion on the National Register, the State Historic Preservation Officer shall notify the owner, the applicable chief local elected official, and the local historic preservation commission. The commission, after reasonable opportunity for public comment, shall prepare a report as to whether or not such property, in its opinion, meets the criteria of the National Register. Within sixty days of notice from the State Historic Preservation Officer, the chief local elected official shall transmit the report of the commission and his recommendation to the State Historic Preservation Officer. Except as provided in subparagraph (B), after receipt of such report and recommendation, or if no such report and recommendation are received within sixty days, the State shall make the nomination pursuant to subsection (a) of this section. The State may expedite such process with the concurrence of the certified local government.
+(2)(A) Before a property within the jurisdiction of the certified local government may be considered by the State to be nominated to the Secretary for inclusion on the National Register, the State Historic Preservation Officer shall notify the owner, the applicable chief local elected official, and the local historic preservation commission. The commission, after reasonable opportunity for public comment, shall prepare a report as to whether or not such property, in its opinion, meets the criteria of the National Register. Within sixty days of notice from the State Historic Preservation Officer, the chief local elected official shall transmit the report of the commission and his recommendation to the State Historic Preservation Officer. Except as provided in subparagraph (B), after receipt of such report and recommendation, or if no such report and recommendation are received within sixty days, the State shall make the nomination pursuant to subsection (a) of this section. The State may expedite such process with the concurrence of the certified local government.
 
 (B) If both the commission and the chief local elected official recommend that a property not be nominated to the National Register, the State Historic Preservation Officer shall take no further action, unless within thirty days of the receipt of such recommendation by the State Historic Preservation Officer an appeal is filed with the State. If such an appeal is filed, the State shall follow the procedures for making a nomination pursuant to subsection (a) of this section. Any report and recommendations made under this section shall be included with any nomination submitted by the State to the Secretary.
 
@@ -352,6 +352,332 @@ Subsecs. (c) to (h). Pub. L. 96–515 added subsecs. (c) to (h).
 
 For termination of Trust Territory of the Pacific Islands and the Trusteeship Agreement, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
+#### St. Augustine 450th Commemoration Commission
+
+Pub. L. 111–11, title VII, §7404, Mar. 30, 2009, 123 Stat. 1219, provided that:
+
+“(a)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Commemoration.—The term ‘commemoration’ means the commemoration of the 450th anniversary of the founding of the settlement of St. Augustine, Florida.
+
+&emsp;“(2)
+
+Commission.—The term ‘Commission’ means the St. Augustine 450th Commemoration Commission established by subsection (b)(1).
+
+&emsp;“(3)
+
+Governor.—The term ‘Governor’ means the Governor of the State.
+
+&emsp;“(4)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+
+&emsp;“(5)
+
+State.—
+
+&emsp;&emsp;“(A)
+
+In general.—The term ‘State’ means the State of Florida.
+
+&emsp;&emsp;“(B)
+
+Inclusion.—The term ‘State’ includes agencies and entities of the State of Florida.
+
+“(b)
+
+Establishment.—
+
+&emsp;“(1)
+
+In general.—There is established a commission, to be known as the ‘St. Augustine 450th Commemoration Commission’.
+
+&emsp;“(2)
+
+Membership.—
+
+&emsp;&emsp;“(A)
+
+Composition.—The Commission shall be composed of 14 members, of whom—
+
+&emsp;&emsp;&emsp;“(i) 3 members shall be appointed by the Secretary, after considering the recommendations of the St. Augustine City Commission;
+
+&emsp;&emsp;&emsp;“(ii) 3 members shall be appointed by the Secretary, after considering the recommendations of the Governor;
+
+&emsp;&emsp;&emsp;“(iii) 1 member shall be an employee of the National Park Service having experience relevant to the historical resources relating to the city of St. Augustine and the commemoration, to be appointed by the Secretary;
+
+&emsp;&emsp;&emsp;“(iv) 1 member shall be appointed by the Secretary, taking into consideration the recommendations of the Mayor of the city of St. Augustine;
+
+&emsp;&emsp;&emsp;“(v) 1 member shall be appointed by the Secretary, after considering the recommendations of the Chancellor of the University System of Florida; and
+
+&emsp;&emsp;&emsp;“(vi) 5 members shall be individuals who are residents of the State who have an interest in, support for, and expertise appropriate to the commemoration, to be appointed by the Secretary, taking into consideration the recommendations of Members of Congress.
+
+&emsp;&emsp;“(B)
+
+Time of appointment.—Each appointment of an initial member of the Commission shall be made before the expiration of the 120-day period beginning on the date of enactment of this Act \[Mar. 30, 2009\].
+
+&emsp;&emsp;“(C)
+
+Term; vacancies.—
+
+&emsp;&emsp;&emsp;“(i)
+
+Term.—A member of the Commission shall be appointed for the life of the Commission.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Vacancies.—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I)
+
+In general.—A vacancy on the Commission shall be filled in the same manner in which the original appointment was made.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
+
+Partial term.—A member appointed to fill a vacancy on the Commission shall serve for the remainder of the term for which the predecessor of the member was appointed.
+
+&emsp;&emsp;&emsp;“(iii)
+
+Continuation of membership.—If a member of the Commission was appointed to the Commission as Mayor of the city of St. Augustine or as an employee of the National Park Service orthe State University System of Florida, and ceases to hold such position, that member may continue to serve on the Commission for not longer than the 30-day period beginning on the date on which that member ceases to hold the position.
+
+&emsp;“(3)
+
+Duties.—The Commission shall—
+
+&emsp;&emsp;“(A) plan, develop, and carry out programs and activities appropriate for the commemoration;
+
+&emsp;&emsp;“(B) facilitate activities relating to the commemoration throughout the United States;
+
+&emsp;&emsp;“(C) encourage civic, patriotic, historical, educational, artistic, religious, economic, and other organizations throughout the United States to organize and participate in anniversary activities to expand understanding and appreciation of the significance of the founding and continuing history of St. Augustine;
+
+&emsp;&emsp;“(D) provide technical assistance to States, localities, and nonprofit organizations to further the commemoration;
+
+&emsp;&emsp;“(E) coordinate and facilitate for the public scholarly research on, publication about, and interpretation of, St. Augustine;
+
+&emsp;&emsp;“(F) ensure that the commemoration provides a lasting legacy and long-term public benefit by assisting in the development of appropriate programs; and
+
+&emsp;&emsp;“(G) help ensure that the observances of the foundation of St. Augustine are inclusive and appropriately recognize the experiences and heritage of all individuals present when St. Augustine was founded.
+
+“(c)
+
+Commission Meetings.—
+
+&emsp;“(1)
+
+Initial meeting.—Not later than 30 days after the date on which all members of the Commission have been appointed, the Commission shall hold the initial meeting of the Commission.
+
+&emsp;“(2)
+
+Meetings.—The Commission shall meet—
+
+&emsp;&emsp;“(A) at least 3 times each year; or
+
+&emsp;&emsp;“(B) at the call of the Chairperson or the majority of the members of the Commission.
+
+&emsp;“(3)
+
+Quorum.—A majority of the voting members shall constitute a quorum, but a lesser number may hold meetings.
+
+&emsp;“(4)
+
+Chairperson and vice chairperson.—
+
+&emsp;&emsp;“(A)
+
+Election.—The Commission shall elect the Chairperson and the Vice Chairperson of the Commission on an annual basis.
+
+&emsp;&emsp;“(B)
+
+Absence of the chairperson.—The Vice Chairperson shall serve as the Chairperson in the absence of the Chairperson.
+
+&emsp;“(5)
+
+Voting.—The Commission shall act only on an affirmative vote of a majority of the members of the Commission.
+
+“(d)
+
+Commission Powers.—
+
+&emsp;“(1)
+
+Gifts.—The Commission may solicit, accept, use, and dispose of gifts, bequests, or devises of money or other property for aiding or facilitating the work of the Commission.
+
+&emsp;“(2)
+
+Appointment of advisory committees.—The Commission may appoint such advisory committees as the Commission determines to be necessary to carry out this section.
+
+&emsp;“(3)
+
+Authorization of action.—The Commission may authorize any member or employee of the Commission to take any action that the Commission is authorized to take under this section.
+
+&emsp;“(4)
+
+Procurement.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Commission may procure supplies, services, and property, and make or enter into contracts, leases, or other legal agreements, to carry out this section (except that a contract, lease, or other legal agreement made or entered into by the Commission shall not extend beyond the date of termination of the Commission).
+
+&emsp;&emsp;“(B)
+
+Limitation.—The Commission may not purchase real property.
+
+&emsp;“(5)
+
+Postal services.—The Commission may use the United States mails in the same manner and under the same conditions as other agencies of the Federal Government.
+
+&emsp;“(6)
+
+Grants and technical assistance.—The Commission may—
+
+&emsp;&emsp;“(A) provide grants in amounts not to exceed $20,000 per grant to communities and nonprofit organizations for use in developing programs to assist in the commemoration;
+
+&emsp;&emsp;“(B) provide grants to research and scholarly organizations to research, publish, or distribute information relating to the early history of St. Augustine; and
+
+&emsp;&emsp;“(C) provide technical assistance to States, localities, and nonprofit organizations to further the commemoration.
+
+“(e)
+
+Commission Personnel Matters.—
+
+&emsp;“(1)
+
+Compensation of members.—
+
+&emsp;&emsp;“(A)
+
+In general.—Except as provided in paragraph (2), a member of the Commission shall serve without compensation.
+
+&emsp;&emsp;“(B)
+
+Federal employees.—A member of the Commission who is an officer or employee of the Federal Government shall serve without compensation other than the compensation received for the services of the member as an officer or employee of the Federal Government.
+
+&emsp;“(2)
+
+Travel expenses.—A member of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of the duties of the Commission.
+
+&emsp;“(3)
+
+Director and staff.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Chairperson of the Commission may, without regard to the civil service laws (including regulations), nominate an executive director to enable the Commission to perform the duties of the Commission.
+
+&emsp;&emsp;“(B)
+
+Confirmation of executive director.—The employment of an executive director shall be subject to confirmation by the Commission.
+
+&emsp;“(4)
+
+Compensation.—
+
+&emsp;&emsp;“(A)
+
+In general.—Except as provided in subparagraph (B), the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates.
+
+&emsp;&emsp;“(B)
+
+Maximum rate of pay.—The rate of pay for the executive director and other personnel shall not exceed the rate payable for level V of the Executive Schedule under section 5316 of title 5, United States Code.
+
+&emsp;“(5)
+
+Detail of government employees.—
+
+&emsp;&emsp;“(A)
+
+Federal employees.—
+
+&emsp;&emsp;&emsp;“(i)
+
+Detail.—At the request of the Commission, the head of any Federal agency may detail, on a reimbursable or nonreimbursable basis, any of the personnel of the agency to the Commission to assist the Commission in carrying out the duties of the Commission under this section.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Civil service status.—The detail of an employee under clause (i) shall be without interruption or loss of civil service status or privilege.
+
+&emsp;&emsp;“(B)
+
+State employees.—The Commission may—
+
+&emsp;&emsp;&emsp;“(i) accept the services of personnel detailed from the State; and
+
+&emsp;&emsp;&emsp;“(ii) reimburse the State for services of detailed personnel.
+
+&emsp;“(6)
+
+Procurement of temporary and intermittent services.—The Chairperson of the Commission may procure temporary and intermittent services in accordance with section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
+
+&emsp;“(7)
+
+Volunteer and uncompensated services.—Notwithstanding section 1342 of title 31, UnitedStates Code, the Commission may accept and use such voluntary and uncompensated services as the Commission determines to be necessary.
+
+&emsp;“(8)
+
+Support services.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Secretary shall provide to the Commission, on a reimbursable basis, such administrative support services as the Commission may request.
+
+&emsp;&emsp;“(B)
+
+Reimbursement.—Any reimbursement under this paragraph shall be credited to the appropriation, fund, or account used for paying the amounts reimbursed.
+
+&emsp;“(9) FACA
+
+nonapplicability.—Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
+
+&emsp;“(10)
+
+No effect on authority.—Nothing in this subsection supersedes the authority of the State, the National Park Service, the city of St. Augustine, or any designee of those entities, with respect to the commemoration.
+
+“(f)
+
+Plans; Reports.—
+
+&emsp;“(1)
+
+Strategic plan.—The Commission shall prepare a strategic plan for the activities of the Commission carried out under this section.
+
+&emsp;“(2)
+
+Final report.—Not later than September 30, 2015, the Commission shall complete and submit to Congress a final report that contains—
+
+&emsp;&emsp;“(A) a summary of the activities of the Commission;
+
+&emsp;&emsp;“(B) a final accounting of funds received and expended by the Commission; and
+
+&emsp;&emsp;“(C) the findings and recommendations of the Commission.
+
+“(g)
+
+Authorization of Appropriations.—
+
+&emsp;“(1)
+
+In general.—There is authorized to be appropriated to the Commission to carry out this section $500,000 for each of fiscal years 2009 through 2015.
+
+&emsp;“(2)
+
+Availability.—Amounts made available under paragraph (1) shall remain available until December 31, 2015.
+
+“(h)
+
+Termination of Commission.—
+
+&emsp;“(1)
+
+Date of termination.—The Commission shall terminate on December 31, 2015.
+
+&emsp;“(2)
+
+Transfer of documents and materials.—Before the date of termination specified in paragraph (1), the Commission shall transfer all documents and materials of the Commission to the National Archives or another appropriate Federal entity.”
+
 #### Recovery of Fees for Review Services for Historic Preservation Tax Certification
 
 Pub. L. 106–113, div. B, §1000(a)(3) \[title I\], Nov. 29, 1999, 113 Stat. 1535, 1501A–142, provided in part: “That notwithstanding any other provision of law, the National Park Service may hereafter recover all fees derived from providing necessary review services associated with historic preservation tax certification, and such funds shall be available until expended without further appropriation for the costs of such review services”.
@@ -450,7 +776,7 @@ Chairperson and Vice Chairperson.—The Commission shall select a Chairperson an
 
 #### “SEC. 4. DUTIES OF THE COMMISSION.
 
-“Not later than 1 year after the initial meeting of the Commission, the Commission, in cooperation with the Secretary of the Interior and other appropriate Federal, State, and local public and private entities, shall prepare and submit to the Secretary of the Interior a report that—
+“Not later than 1 year after the initial meeting of the Commission, the Commission, in cooperation with the Secretary of the Interior and other appropriate Federal, State, and local public and private entities, shallprepare and submit to the Secretary of the Interior a report that—
 
 &emsp;“(1) identifies sites of historical significance to the women's movement; and
 
@@ -552,7 +878,7 @@ Funding Provision.—
 
 &emsp;“(1)
 
-In general.—Under section 108 of the National Historic Preservation Act \[16 U.S.C. 470h\], $29,000,000 shall be made available to carry out the purposes of this section. Of amounts made available pursuant to this section, $5,000,000 shall be available for grants to Fisk University, $2,500,000 shall be available for grants to Knoxville College, $2,000,000 shall be available for grants to Miles College, Alabama, $1,500,000 shall be available for grants to Talladega College, Alabama, $1,550,000 shall be available for grants to Selma University, Alabama, $250,000 shall be available for grants to Stillman College, Alabama, $200,000 shall be available for grants to Concordia College, Alabama, $2,900,000 shall be available for grants to Allen University, South Carolina, $1,000,000 shall be available for grants to Claflin College, South Carolina, $2,000,000 shall be available for grants to Voorhees College, South Carolina, $1,000,000 shall be available for grants to Rust College, Mississippi, and $3,000,000 shall be available for grants to Tougaloo College, Mississippi.
+In general.—Under section 108 of the National Historic Preservation Act \[16 U.S.C. 470h\], $29,000,000 shall be made available to carry out the purposes of this section. Of amounts made available pursuant to this section, $5,000,000 shall be available for grants to Fisk University, $2,500,000 shall be available forgrants to Knoxville College, $2,000,000 shall be available for grants to Miles College, Alabama, $1,500,000 shall be available for grants to Talladega College, Alabama, $1,550,000 shall be available for grants to Selma University, Alabama, $250,000 shall be available for grants to Stillman College, Alabama, $200,000 shall be available for grants to Concordia College, Alabama, $2,900,000 shall be available for grants to Allen University, South Carolina, $1,000,000 shall be available for grants to Claflin College, South Carolina, $2,000,000 shall be available for grants to Voorhees College, South Carolina, $1,000,000 shall be available for grants to Rust College, Mississippi, and $3,000,000 shall be available for grants to Tougaloo College, Mississippi.
 
 &emsp;“(2)
 

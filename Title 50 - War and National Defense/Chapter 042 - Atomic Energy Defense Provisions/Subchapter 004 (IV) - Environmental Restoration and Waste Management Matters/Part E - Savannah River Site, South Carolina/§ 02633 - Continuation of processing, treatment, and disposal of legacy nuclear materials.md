@@ -6,7 +6,7 @@ The Secretary of Energy shall continue operations and maintain a high state of r
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–136, §3141(g)(23)(A)(iii), inserted section catchline and struck out former subsec. heading.
+2003—Pub. L. 108–136, §3141(g)(23)(A)(iii), inserted section catchline and struck out former subsec. heading.
 
 Pub. L. 108–136, §3115(a), substituted “H–canyon facility” for “F–canyon and H–canyon facilities” and “such facility” for “such facilities”.
 

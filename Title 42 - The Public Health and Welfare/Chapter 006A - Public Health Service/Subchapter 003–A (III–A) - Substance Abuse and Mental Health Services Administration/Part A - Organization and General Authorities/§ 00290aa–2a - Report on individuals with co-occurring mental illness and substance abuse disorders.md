@@ -12,7 +12,7 @@ The report under subsection (a) of this section shall be based on data collected
 
 &emsp;(2) a summary of improvements necessary to ensure that individuals with co-occurring mental illness and substance abuse disorders receive the services they need;
 
-&emsp;(3) a summary of practices for preventing substance abuse among individuals who have a mental illness and are at risk of having or acquiring a substance abuse disorder; and
+&emsp;(3) a summary of practices for preventing substance abuse among individuals who have amental illness and are at risk of having or acquiring a substance abuse disorder; and
 
 &emsp;(4) a summary of evidenced-based practices for treating individuals with co-occurring mental illness and substance abuse disorders and recommendations for implementing such practices.
 

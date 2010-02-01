@@ -10,7 +10,7 @@ The Institute shall prescribe procedures to ensure that grants, contracts, and f
 
 #### (c) Selection considerations
 
-In selecting persons to participate in Institute activities, the Institute may consider a person's practical experience or equivalency in peacestudy and activity as well as other formal requirements.
+In selecting persons to participate in Institute activities, the Institute may consider a person's practical experience or equivalency in peace study and activity as well as other formal requirements.
 
 #### (d) Accounts of receipts and disbursements; financial reports
 

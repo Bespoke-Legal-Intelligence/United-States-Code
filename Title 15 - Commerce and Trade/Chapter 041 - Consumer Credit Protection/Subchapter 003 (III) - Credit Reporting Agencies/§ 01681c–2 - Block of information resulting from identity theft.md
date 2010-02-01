@@ -38,7 +38,7 @@ A consumer reporting agency shall promptly notify the furnisher of information i
 
 #### (2) Notification to consumer
 
-&emsp;If a block of information is declined or rescinded under this subsection, the affectedconsumer shall be notified promptly, in the same manner as consumers are notified of the reinsertion of information under section 1681i(a)(5)(B) of this title.
+&emsp;If a block of information is declined or rescinded under this subsection, the affected consumer shall be notified promptly, in the same manner as consumers are notified of the reinsertion of information under section 1681i(a)(5)(B) of this title.
 
 #### (3) Significance of block
 
@@ -54,7 +54,7 @@ A consumer reporting agency shall promptly notify the furnisher of information i
 
 &emsp;&emsp;(B) is not, at the time of the request of the consumer under subsection (a) of this section, otherwise furnishing or reselling a consumer report concerning the information identified by the consumer; and
 
-&emsp;&emsp;(C) informs the consumer, by any means, that the consumer may report the identity theft to the Commission to obtain consumer information regarding identity theft.
+&emsp;&emsp;(C) informs the consumer, by any means, that the consumer may report the identitytheft to the Commission to obtain consumer information regarding identity theft.
 
 #### (2) Reseller with file
 

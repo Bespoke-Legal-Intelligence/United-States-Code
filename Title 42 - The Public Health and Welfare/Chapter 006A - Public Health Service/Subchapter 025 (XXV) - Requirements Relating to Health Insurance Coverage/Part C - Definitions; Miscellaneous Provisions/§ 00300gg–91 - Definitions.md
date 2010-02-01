@@ -28,7 +28,7 @@
 
 #### (2) Health insurance issuer
 
-&emsp;The term “health insurance issuer” means an insurance company, insurance service, or insurance organization (including a health maintenance organization, as defined in paragraph (3)) which is licensed to engage in the business of insurance in a State and which is subject to State law which regulates insurance (within the meaning of section 514(b)(2) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1144(b)(2)\]). Such term does not include a group health plan.
+&emsp;The term “health insurance issuer” means an insurance company, insurance service, or insurance organization (including a healthmaintenance organization, as defined in paragraph (3)) which is licensed to engage in the business of insurance in a State and which is subject to State law which regulates insurance (within the meaning of section 514(b)(2) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1144(b)(2)\]). Such term does not include a group health plan.
 
 #### (3) Health maintenance organization
 
@@ -42,7 +42,7 @@
 
 #### (4) Group health insurance coverage
 
-&emsp;The term “group health insurance coverage” means, in connection with a group healthplan, health insurance coverage offered in connection with such plan.
+&emsp;The term “group health insurance coverage” means, in connection with a group health plan, health insurance coverage offered in connection with such plan.
 
 #### (5) Individual health insurance coverage
 
@@ -130,7 +130,7 @@ For purposes of this subchapter, the term “excepted benefits” means benefits
 
 #### (6) Employer
 
-&emsp;The term “employer” has the meaning given such term under section 3(5) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(5)\], except that such term shall include only employers of two or more employees.
+&emsp;The term “employer” has the meaning given such term under section 3(5) of the EmployeeRetirement Income Security Act of 1974 \[29 U.S.C. 1002(5)\], except that such term shall include only employers of two or more employees.
 
 #### (7) Church plan
 
@@ -250,7 +250,7 @@ For purposes of this subchapter:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), such terms <sup>1</sup> includes coverage offered in connection witha group health plan that has fewer than two participants as current employees on the first day of the plan year.
+&emsp;&emsp;&emsp;Subject to clause (ii), such terms <sup>1</sup> includes coverage offered in connection with a group health plan that has fewer than two participants as current employees on the first day of the plan year.
 
 #### (ii) State exception
 

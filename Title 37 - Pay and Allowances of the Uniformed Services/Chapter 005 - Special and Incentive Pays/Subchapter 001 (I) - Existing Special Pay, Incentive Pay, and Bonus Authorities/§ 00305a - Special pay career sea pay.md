@@ -162,5 +162,5 @@ Pub. L. 95–485, title VIII, §804(a)(2), Oct. 20, 1978, 92 Stat. 1620, which a
 
 #### Determination of Amount of Sea Credit; Periods Prior to October 1, 1978
 
-Section 804(a)(3) of Pub. L. 95–485 provided that: “In determining the amount of sea duty to be credited to an enlisted member of a uniformed service for purposes of section 305a of title 37, United States Code (as added by paragraph (1)), the Secretary concerned shall credit such member with all periods of service by such member before October 1, 1978, during which such member served in a sea duty status.”
+Section 804(a)(3) of Pub. L. 95–485 provided that: “In determining the amount of sea duty to be credited toan enlisted member of a uniformed service for purposes of section 305a of title 37, United States Code (as added by paragraph (1)), the Secretary concerned shall credit such member with all periods of service by such member before October 1, 1978, during which such member served in a sea duty status.”
 

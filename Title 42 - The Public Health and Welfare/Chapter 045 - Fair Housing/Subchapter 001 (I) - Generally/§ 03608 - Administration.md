@@ -128,7 +128,7 @@ Pub. L. 105–276, title V, §589, Oct. 21, 1998, 112 Stat. 2651, provided that:
 
 “(a)
 
-Establishment of Policy.—Not later than 60 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary of Housing and Urban Development shall publish a notice in the Federal Register for effect that takes effect upon publication and providesthat the specific and unmodified standards provided in the March 20, 1991, Memorandum from the General Counsel of the Department of Housing and Urban Development to all Regional Counsel shall be the policy of the Department of Housing and Urban Development with respect to complaints of discrimination under the Fair Housing Act (42 U.S.C. 3601 et seq.) on the basis of familial status which involve an occupancy standard established by a housing provider.
+Establishment of Policy.—Not later than 60 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary of Housing and Urban Development shall publish a notice in the Federal Register for effect that takes effect upon publication and provides that the specific and unmodified standards provided in the March 20, 1991, Memorandum from the General Counsel of the Department of Housing and Urban Development to all Regional Counsel shall be the policy of the Department of Housing and Urban Development with respect to complaints of discrimination under the Fair Housing Act (42 U.S.C. 3601 et seq.) on the basis of familial status which involve an occupancy standard established by a housing provider.
 
 “(b)
 
@@ -158,7 +158,7 @@ Sec. 2. <i>Responsibilities of Executive Agencies.</i>
 
 2–203. In carrying out the responsibilities in this order, the head of each executive agency shall take appropriate steps to require that all persons or other entities who are applicants for, or participants in, or who are supervised or regulated under, agency programs and activities relating to housing and urban development shall comply with this order.
 
-2–204. Upon receipt of a complaint alleging facts that may constitute a violation of the Act or upon receipt of information from a consumer compliance examination or other information suggesting a violation of the Act, each executive agency shall forward such facts or information to the Secretary of Housing and Urban Development for processing under the Act. Where such facts or information indicate a possible pattern or practice of discrimination in violation of the Act, they also shall be forwarded to the Attorney General. The authority of the Federal depository institution regulatory agencies to take appropriate action under their statutory authority remains unaffected.
+2–204. Upon receipt of a complaint alleging facts that may constitute a violation of the Act or upon receiptof information from a consumer compliance examination or other information suggesting a violation of the Act, each executive agency shall forward such facts or information to the Secretary of Housing and Urban Development for processing under the Act. Where such facts or information indicate a possible pattern or practice of discrimination in violation of the Act, they also shall be forwarded to the Attorney General. The authority of the Federal depository institution regulatory agencies to take appropriate action under their statutory authority remains unaffected.
 
 Sec. 3. <i>President's Fair Housing Council.</i>
 
@@ -210,7 +210,7 @@ Sec. 5. <i>Administrative Enforcement.</i>
 
 (a) cancellation or termination of agreements or contracts with such person, entity, or any State or local public agency;
 
-(b) refusal to extend any further aid under any program or activity administered by it and affected by this order until it is satisfied that the affected person, entity, or State or local public agency will comply with the rules, regulations, and procedures issued or adopted pursuant to this order;
+(b) refusal to extend any further aid under any program or activity administered by it and affected bythis order until it is satisfied that the affected person, entity, or State or local public agency will comply with the rules, regulations, and procedures issued or adopted pursuant to this order;
 
 (c) refusal to grant supervisory or regulatory approval to such person, entity, or State or local public agency under any program or activity administered by it that is affected by this order or revoke such approval if previously given; and
 
@@ -236,7 +236,7 @@ Sec. 6. <i>General Provisions.</i>
 
 (c) Section 102 of Executive Order No. 11063 is revised by deleting the term “Housing and Home Finance Agency” and inserting in lieu thereof the term “Department of Housing and Urban Development.”
 
-6–605. Nothing in this order shall affect any requirement imposed under the Equal Credit Opportunity Act (15 U.S.C. 1691 <i>et seq</i>.), the Home Mortgage DisclosureAct (12 U.S.C. 2801 <i>et seq</i>.) or the Community Reinvestment Act (12 U.S.C. 2901 <i>et seq</i>.).
+6–605. Nothing in this order shall affect any requirement imposed under the Equal Credit Opportunity Act (15 U.S.C. 1691 <i>et seq</i>.), the Home Mortgage Disclosure Act (12 U.S.C. 2801 <i>et seq</i>.) or the Community Reinvestment Act (12 U.S.C. 2901 <i>et seq</i>.).
 
 6–606. Nothing in this order shall limit the authority of the Federal banking agencies to carry out their responsibilities under current law or regulations.
 
@@ -264,7 +264,7 @@ Racial and ethnic segregation, both in the private housing market and in public 
 
 The resulting decline in the very heart of too many of our metropolitan areas threatens all of us: the health of our dynamic regional economies—the very lifeblood of future national economic growth and higher living standards for all of us and all of our children—is placed at risk.
 
-We can do better. We can start by making sure that our own Federal policies and programs across all of our agencies support the fair housing and equal opportunity goals to which all Americans are committed. If all of our executive agencies affirmatively further fair housing in the design of their policies and administration of their programs relating to housing and urban development, a truly nondiscriminatory housing market will be closer to achievement.
+We can do better. We can start by making sure that our own Federal policies and programs across all of our agencies support the fair housing and equal opportunity goals to which all Americans are committed. Ifall of our executive agencies affirmatively further fair housing in the design of their policies and administration of their programs relating to housing and urban development, a truly nondiscriminatory housing market will be closer to achievement.
 
 By an Executive Order \[Ex. Ord. No. 12892, set out above\] (“the Order”) I am issuing today and this memorandum, I am addressing those needs. The Secretary of Housing and Urban Development and, where appropriate, the Attorney General—the officials with the primary responsibility for the enforcement of Federal fair housing laws—will take the lead in developing and coordinating measures to carry out the purposes of this Order.
 

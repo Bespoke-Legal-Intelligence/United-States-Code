@@ -70,7 +70,7 @@ Frequency of Payments.—Special pay payable to an officer under paragraphs (2),
 
 (e)
 
-Repayment.—An officer who does not complete the period of active duty specified in the agreement referred to in subsection (b) shall be subject to the repayment provisions of section 303a(e) of this title.
+Repayment.—An officer who does not complete the period of active duty specified in theagreement referred to in subsection (b) shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (f)
 
@@ -174,7 +174,7 @@ Subsec. (h). Pub. L. 104–201, §615(b), added subsec. (h).
 
 &emsp;“(4) $350 a month for each month of active duty if he has completed at least ten years of active duty in the Dental Corps or as a dental officer.”
 
-1980—Pub. L. 96–284 struck out “, in addition to any other pay or allowances to which he is entitled,” after“entitled” and last sentence containing prohibition against inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay.
+1980—Pub. L. 96–284 struck out “, in addition to any other pay or allowances to which he is entitled,” after “entitled” and last sentence containing prohibition against inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay.
 
 #### Effective Date of 2008 Amendment
 

@@ -28,7 +28,7 @@ Modal Security Plan for Aviation.—In addition to the requirements set forth in
 
 (d)
 
-Operational Criteria.—Not later than 90 days after the date of the submission of the National Strategy for Transportation Security under section 114(t)(4)(A),<sup>1</sup> the Assistant Secretary of Homeland Security (Transportation Security Administration) shall issue operational criteria to protect airport infrastructure and operations against the threats identified in theplans prepared under section 114(t)(1) <sup>1</sup> and shall approve best practices guidelines for airport assets.
+Operational Criteria.—Not later than 90 days after the date of the submission of the National Strategy for Transportation Security under section 114(t)(4)(A),<sup>1</sup> the Assistant Secretary of Homeland Security (Transportation Security Administration) shall issue operational criteria to protect airport infrastructure and operations against the threats identified in the plans prepared under section 114(t)(1) <sup>1</sup> and shall approve best practices guidelines for airport assets.
 
 (e)
 
@@ -90,7 +90,7 @@ Subsec. (c). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” fo
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

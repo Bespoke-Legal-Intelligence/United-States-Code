@@ -16,7 +16,7 @@ The following Federal standards are hereby established:
 
 #### (1) Master metering
 
-&emsp;To the extent determined appropriate under section 2625(d) of this title, master metering of electric service in the case of new buildingsshall be prohibited or restricted to the extent necessary to carry out the purposes of this chapter.
+&emsp;To the extent determined appropriate under section 2625(d) of this title, master metering of electric service in the case of new buildings shall be prohibited or restricted to the extent necessary to carry out the purposes of this chapter.
 
 #### (2) Automatic adjustment clauses
 

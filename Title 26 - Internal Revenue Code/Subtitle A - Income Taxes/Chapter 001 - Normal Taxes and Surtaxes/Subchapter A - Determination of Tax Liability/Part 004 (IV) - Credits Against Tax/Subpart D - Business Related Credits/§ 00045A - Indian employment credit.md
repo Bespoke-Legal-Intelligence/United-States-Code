@@ -92,7 +92,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) no wages (or qualified employee health insurance costs) with respect to such employee shall be taken into account under subsection (a) for the taxable year in which such employment is terminated, and
 
-&emsp;&emsp;(B) the tax under this chapter for the taxable year in which such employment is terminated shall be increased by the aggregate credits (if any) allowed under section 38(a) for prior taxable years by reason of wages (or qualified employee health insurance costs) taken into account with respect to such employee.
+&emsp;&emsp;(B) the tax under this chapter for the taxable year in which such employment is terminated shall be increased by the aggregate credits (if any) allowed under section 38(a) for prior taxable years by reason of wages\(or qualified employee health insurance costs) taken into account with respect to such employee.
 
 #### (2) Carrybacks and carryovers adjusted
 
@@ -186,7 +186,7 @@ Subsec. (f). Pub. L. 108–311, §315, substituted “December 31, 2005” for �
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. C, title III, §314(b), Oct. 3, 2008, 122 Stat. 3872, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2007.”
+Pub. L. 110–343, div. C, title III, §314(b), Oct. 3, 2008, 122 Stat. 3872, provided that: “The amendment made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 2007.”
 
 #### Effective Date of 2006 Amendment
 

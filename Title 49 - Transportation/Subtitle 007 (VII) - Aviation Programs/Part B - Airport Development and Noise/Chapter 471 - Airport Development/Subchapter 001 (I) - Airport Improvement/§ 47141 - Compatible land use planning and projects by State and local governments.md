@@ -46,15 +46,27 @@ Eligible Projects.—The Secretary may approve a grant under this section to a S
 
 (f)
 
-Sunset.—This section shall not be in effect after March 31, 2009.
+Sunset.—This section shall not be in effect after March 31, 2010.
 
-(Added Pub. L. 108–176, title I, §160(a), Dec. 12, 2003, 117 Stat. 2511; amended Pub. L. 110–253, §3(c)(2), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(g), Sept. 30, 2008, 122 Stat. 3718.)
+(Added Pub. L. 108–176, title I, §160(a), Dec. 12, 2003, 117 Stat. 2511; amended Pub. L. 110–253, §3(c)(2), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(g), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(f), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(g), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(f), Dec. 16, 2009, 123 Stat. 3032.)
 
 #### Amendments
+
+2009—Subsec. (f). Pub. L. 111–116 substituted “March 31, 2010.” for “December 31, 2009.”
+
+Pub. L. 111–69 substituted “December 31, 2009.” for “September 30, 2009.”
+
+Pub. L. 111–12 substituted “September 30, 2009.” for “March 31, 2009.”
 
 2008—Subsec. (f). Pub. L. 110–330 substituted “March 31, 2009” for “September 30, 2008”.
 
 Pub. L. 110–253 substituted “September 30, 2008” for “September 30, 2007”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–116 effective Jan. 1, 2010, see section 5(j) of Pub. L. 111–116, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 111–12 effective Apr. 1, 2009, see section 5(j) of Pub. L. 111–12, set out as a note under section 40117 of this title.
 
 #### Effective Date of 2008 Amendment
 

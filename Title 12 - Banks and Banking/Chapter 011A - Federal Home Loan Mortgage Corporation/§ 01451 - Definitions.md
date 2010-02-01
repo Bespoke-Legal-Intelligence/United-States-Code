@@ -22,11 +22,11 @@ As used in this chapter—
 
 (j) The term “security” has the meaning ascribed to it by section 77b of title 15.
 
-(k) The term “State”, whether used as a noun or otherwise, includes the several States, theDistrict of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
+(k) The term “State”, whether used as a noun or otherwise, includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
 
 (<i>l</i>) The term “mortgage insurance program” includes, in the case of a residential mortgage secured by a manufactured home, any manufactured home lending program under title I of the National Housing Act \[12 U.S.C. 1702 et seq.\].
 
-(Pub. L. 91–351, title III, §302, July 24, 1970, 84 Stat. 451; Pub. L. 95–619, title II, §245, Nov. 9, 1978, 92 Stat. 3233; Pub. L. 95–630, title XVII, §1702, Nov. 10, 1978, 92 Stat. 3718; Pub. L. 96–153, title III, §316(c), Dec. 21, 1979, 93 Stat. 1118; Pub. L. 96–294, title V, §534(a)(2), June 30, 1980, 94 Stat. 741; Pub. L. 98–440, title II, §§202, 203(b)(1), 204, Oct. 3, 1984, 98 Stat. 1693–1695; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–550, title XIII, §1382(b), Oct. 28, 1992, 106 Stat. 4002.)
+(Pub. L. 91–351, title III, §302, July 24, 1970, 84 Stat. 451; Pub. L. 95–619, title II, §245, Nov. 9, 1978, 92 Stat. 3233; Pub. L. 95–630, title XVII, §1702, Nov. 10, 1978, 92 Stat. 3718; Pub. L. 96–153, title III, §316(c), Dec. 21, 1979, 93 Stat. 1118; Pub. L. 96–294, title V, §534(a)(2), June 30, 1980, 94Stat. 741; Pub. L. 98–440, title II, §§202, 203(b)(1), 204, Oct. 3, 1984, 98 Stat. 1693–1695; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–550, title XIII, §1382(b), Oct. 28, 1992, 106 Stat. 4002.)
 
 #### References in Text
 
@@ -84,7 +84,7 @@ Section 301 of title III of Pub. L. 91–351, as amended by Pub. L. 101–73, ti
 
 #### Regulations
 
-Pub. L. 102–550, title XIII, §1383, Oct. 28, 1992, 106 Stat. 4008, directed the Secretary of Housing and Urban Development and the Director to issue final regulationsto implement amendments by subtitle D (§§1381–1383) of title XIII of Pub. L. 102–550 not later than the expiration of the 18-month period beginning on Oct. 28, 1992, prior to repeal by Pub. L. 110–289, div. A, title I, §1161(a)(4), July 30, 2008, 122 Stat. 2779.
+Pub. L. 102–550, title XIII, §1383, Oct. 28, 1992, 106 Stat. 4008, directed the Secretary of Housing and Urban Development and the Director to issue final regulations to implement amendments by subtitle D (§§1381–1383) of title XIII of Pub. L. 102–550 not later than the expiration of the 18-month period beginning on Oct. 28, 1992, prior to repeal by Pub. L. 110–289, div. A, title I, §1161(a)(4), July 30, 2008, 122 Stat. 2779.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

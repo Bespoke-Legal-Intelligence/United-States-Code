@@ -82,7 +82,7 @@
 
 #### (A) Amount
 
-&emsp;&emsp;The amount of a scholarship under paragraph (1)(B) shall be based on the amount ofneed of the scholarship recipient for financial assistance, as determined in accordance with part E of subchapter IV.
+&emsp;&emsp;The amount of a scholarship under paragraph (1)(B) shall be based on the amount of need of the scholarship recipient for financial assistance, as determined in accordance with part E of subchapter IV.
 
 #### (B) Agreement
 

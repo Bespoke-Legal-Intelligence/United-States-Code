@@ -24,5 +24,5 @@ Section 115(d) of Pub. L. 101–246 provided that:
 
 “(1) The Secretary of State shall enter into discussions with international air carriers and other appropriate entities to develop standardized procedures which will assist the Secretary in implementing the provisions of section 43 of the State Department Basic Authorities Act of 1956, as amended by subsection (c) \[22 U.S.C. 2715\].
 
-“(2) The Secretary of State shall consider the feasibility of establishing a toll-free telephone number to facilitate inquiries by the next-of-kin in cases of majordisasters or incidents abroad which affect the health and safety of citizens of the United States residing or traveling abroad.”
+“(2) The Secretary of State shall consider the feasibility of establishing a toll-free telephone number to facilitate inquiries by the next-of-kin in cases of major disasters or incidents abroad which affect the health and safety of citizens of the United States residing or traveling abroad.”
 

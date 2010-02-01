@@ -32,7 +32,7 @@ Oct. 30, 1984, Pub. L. 98–575, §11, 98 Stat. 3059.
 
 #### Amendments
 
-1998—Pub. L. 105–303, §102(a)(8)(A), substituted “Prohibition, suspension, and end of launches, operation oflaunch sites and reentry sites, and reentries” for “Prohibition, suspension, and end of launches and operation of launch sites” in section catchline.
+1998—Pub. L. 105–303, §102(a)(8)(A), substituted “Prohibition, suspension, and end of launches, operation of launch sites and reentry sites, and reentries” for “Prohibition, suspension, and end of launches and operation of launch sites” in section catchline.
 
 Subsec. (a). Pub. L. 105–303, §102(a)(8)(B), inserted “or reentry site, or reentry of a reentry vehicle,” after “operation of a launch site” and “or reentry” after “launch or operation”.
 

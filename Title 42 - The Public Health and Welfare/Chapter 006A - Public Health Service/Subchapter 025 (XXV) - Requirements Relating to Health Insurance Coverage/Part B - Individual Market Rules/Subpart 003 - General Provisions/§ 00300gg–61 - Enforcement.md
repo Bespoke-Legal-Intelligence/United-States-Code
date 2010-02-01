@@ -28,7 +28,7 @@ Amendment by Pub. L. 110–233 applicable, with respect to group health plans an
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–204 applicable to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market on or after Jan. 1, 1998, see section 605(c) of Pub. L. 104–204, set out as a note under section 300gg–44 of this title.
+Amendment by Pub. L. 104–204 applicable to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market on or afterJan. 1, 1998, see section 605(c) of Pub. L. 104–204, set out as a note under section 300gg–44 of this title.
 
 #### Effective Date
 

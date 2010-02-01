@@ -52,5 +52,5 @@ Section was formerly classified to section 7274d of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (e). Pub. L. 108–136, §3141(i)(12)(D), inserted “of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190)” after “section 3101(9)(A)”.
+2003—Subsec. (e). Pub. L. 108–136, §3141(i)(12)(D), inserted “of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190)” after “section 3101(9)(A)”.
 

@@ -36,7 +36,7 @@ Upon prescribing or issuing any regulation or order under subsection (a) of this
 
 &emsp;(3) provides justification, including proposed alternative regulations or orders, that the regulation or order applies only the minimum restrictions needed to protect the health and safety of the public or the common defense and security.
 
-(Aug. 1, 1946, ch. 724, title I, §147, as added Pub. L. 96–295, title II, §207(a)(1), June 30, 1980, 94Stat. 788; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §147, as added Pub. L. 96–295, title II, §207(a)(1), June 30, 1980, 94 Stat. 788; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Codification
 

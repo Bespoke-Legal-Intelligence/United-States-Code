@@ -68,7 +68,7 @@ Uses.—Effective on the date on which the Architect of the Capitol acquires the
 
 “(c)
 
-Transfer Payment by Architect.—Notwithstanding the limitation on reimbursement or transferof funds under subsection (a) of this section, the Architect of the Capitol may, not later than 90 days after acquisition of the property under this section, transfer funds to the entity from which the property was acquired by the Architect of the Capitol. Such transfers may not exceed a total of $16,500,000.
+Transfer Payment by Architect.—Notwithstanding the limitation on reimbursement or transfer of funds under subsection (a) of this section, the Architect of the Capitol may, not later than 90 days after acquisition of the property under this section, transfer funds to the entity from which the property was acquired by the Architect of the Capitol. Such transfers may not exceed a total of $16,500,000.
 
 #### “SEC. 2. LIBRARY BUILDINGS AND GROUNDS.
 
@@ -138,7 +138,7 @@ Section 205 of Pub. L. 101–520, as amended by Pub. L. 102–451, §§1–3, Oc
 
 &emsp;“(4) for general assembly and education programs of the Library;
 
-&emsp;“(5) for temporary living quarters and common areas for visiting scholars using the collections of the Library or participating in the programs of the Library; and
+&emsp;“(5) for temporary living quarters and common areas for visiting scholars using the collections of theLibrary or participating in the programs of the Library; and
 
 &emsp;“(6) for other purposes relating to the operations of the Library of Congress.
 

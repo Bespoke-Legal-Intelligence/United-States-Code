@@ -2,7 +2,7 @@
 
 #### (a) Review of projects by areawide agency or local government
 
-All applications made after June 30, 1967, for Federal loans or grants to assist in carrying out open-space land projects or for the planning orconstruction of hospitals, airports, libraries, water supply and distribution facilities, sewerage facilities and waste treatment works, highways, transportation facilities, law enforcement facilities, and water development and land conservation projects within any metropolitan area shall be submitted for review—
+All applications made after June 30, 1967, for Federal loans or grants to assist in carrying out open-space land projects or for the planning or construction of hospitals, airports, libraries, water supply and distribution facilities, sewerage facilities and waste treatment works, highways, transportation facilities, law enforcement facilities, and water development and land conservation projects within any metropolitan area shall be submitted for review—
 
 &emsp;(1) to any areawide agency which is designated to perform metropolitan or regional planning for the area within which the assistance is to be used, and which is, to the greatest practicable extent, composed of or responsible to the elected officials of a unit of areawide government or of the units of general local government within whose jurisdiction such agency is authorized to engage in such planning, and
 

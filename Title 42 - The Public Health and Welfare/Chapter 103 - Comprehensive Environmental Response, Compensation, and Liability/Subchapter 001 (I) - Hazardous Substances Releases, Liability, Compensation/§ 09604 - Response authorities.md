@@ -14,7 +14,7 @@ Limitations on Response.—The President shall not provide for a removal or reme
 
 &emsp;(A) of a naturally occurring substance in its unaltered form, or altered solely through naturally occurring processes or phenomena, from a location where it is naturally found;
 
-&emsp;(B) from products which are part of the structure of, and result in exposure within, residential buildings or business or community structures; or
+&emsp;(B) from products which are part of the structure of, and result in exposure within,residential buildings or business or community structures; or
 
 &emsp;(C) into public or private drinking water supplies due to deterioration of the system through ordinary use.
 
@@ -42,7 +42,7 @@ Exception to Limitations.—Notwithstanding paragraph (3) of this subsection, to
 
 (4)
 
-Selection of Remedial Action.—The President shall select remedial actions to carry out this section in accordance with section 9621 of this title (relating to cleanup standards).
+Selection of Remedial Action.—The President shall select remedial actions to carryout this section in accordance with section 9621 of this title (relating to cleanup standards).
 
 (5)
 
@@ -74,7 +74,7 @@ Item-by-item approval.—In the case of expenditures made after October 17, 1986
 
 &emsp;(F)
 
-Use of credits.—Credits granted under this paragraph for funds expended with respect to a facility may be used by the State to reduce all or part of the share of costs otherwise required to be paid by the State under paragraph (3) in connection with remedial actions at such facility. If the amount of funds for which credit is allowed under this paragraph exceeds such share of costs for such facility, the State may use the amount of such excess to reduce all or part of the share of such costsat other facilities in that State. A credit shall not entitle the State to any direct payment.
+Use of credits.—Credits granted under this paragraph for funds expended with respect to a facility may be used by the State to reduce all or part of the share of costs otherwise required to be paid by the State under paragraph (3) in connection with remedial actions at such facility. If the amount of funds for which credit is allowed under this paragraph exceeds such share of costs for such facility, the State may use the amount of such excess to reduce all or part of the share of such costs at other facilities in that State. A credit shall not entitle the State to any direct payment.
 
 (6)
 
@@ -176,7 +176,7 @@ Reimbursements.—Any State which expended funds during the period beginning Sep
 
 &emsp;&emsp;&emsp;(i) In the case of interference with entry or inspection, the court shall enjoin such interference or direct compliance with orders to prohibit interference with entry or inspection unless under the circumstances of the case the demand for entry or inspection is arbitrary and capricious, an abuse of discretion, or otherwise not in accordance with law.
 
-&emsp;&emsp;&emsp;(ii) In the case of information or document requests or orders, the court shall enjoin interference with such information or document requests or orders or direct compliance with the requests or orders to provide such information or documents unless under the circumstances of the case the demand for information or documents is arbitrary and capricious, an abuse ofdiscretion, or otherwise not in accordance with law.
+&emsp;&emsp;&emsp;(ii) In the case of information or document requests or orders, the court shall enjoin interference with such information or document requests or orders or direct compliance with the requests or orders to provide such information or documents unless under the circumstances of the case the demand for information or documents is arbitrary and capricious, an abuse of discretion, or otherwise not in accordance with law.
 
 > &emsp;&emsp;The court may assess a civil penalty not to exceed $25,000 for each day of noncompliance against any person who unreasonably fails to comply with the provisions of paragraph (2), (3), or (4) or an order issued pursuant to subparagraph (A) of this paragraph.
 
@@ -196,7 +196,7 @@ Reimbursements.—Any State which expended funds during the period beginning Sep
 
 &emsp;(E) No person required to provide information under this chapter may claim that the information is entitled to protection under this paragraph unless such person shows each of the following:
 
-&emsp;&emsp;(i) Such person has not disclosed the information to any other person, other than a member of a local emergency planning committee established under title III of the Amendments and Reauthorization Act of 1986 \[42 U.S.C. 11001 et seq.\], an officer or employee of the United States or a State or local government, an employee of such person, or a person who is bound by a confidentiality agreement, and such person has taken reasonable measures to protect the confidentiality of such information and intends to continue to take such measures.
+&emsp;&emsp;(i) Such person has not disclosed the information to any other person, other than a member of a local emergency planning committee established under title III of theAmendments and Reauthorization Act of 1986 \[42 U.S.C. 11001 et seq.\], an officer or employee of the United States or a State or local government, an employee of such person, or a person who is bound by a confidentiality agreement, and such person has taken reasonable measures to protect the confidentiality of such information and intends to continue to take such measures.
 
 &emsp;&emsp;(ii) The information is not required to be disclosed, or otherwise made available, to the public under any other Federal or State law.
 
@@ -228,7 +228,7 @@ In awarding contracts to any person engaged in response actions, the President o
 
 #### (g) Rates for wages and labor standards applicable to covered work
 
-(1) All laborers and mechanics employed by contractors or subcontractors in the performance of construction, repair, or alteration work funded in whole or in part under this section shall be paid wages at rates not less than those prevailing on projects of a character similar in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The President shall notapprove any such funding without first obtaining adequate assurance that required labor standards will be maintained upon the construction work.
+(1) All laborers and mechanics employed by contractors or subcontractors in the performance of construction, repair, or alteration work funded in whole or in part under this section shall be paid wages at rates not less than those prevailing on projects of a character similar in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The President shall not approve any such funding without first obtaining adequate assurance that required labor standards will be maintained upon the construction work.
 
 (2) The Secretary of Labor shall have, with respect to the labor standards specified in paragraph (1), the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267) and section 3145 of title 40.
 
@@ -262,7 +262,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;(C) Where appropriate, an identification of toxicological testing needed to identify the types or levels of exposure that may present significant risk of adverse health effects in humans.
 
-> Any toxicological profile or revision thereof shall reflect the Administrator of ATSDR's assessment of all relevant toxicological testingwhich has been peer reviewed. The profiles required to be prepared under this paragraph for those hazardous substances listed under subparagraph (A) of paragraph (2) shall be completed, at a rate of no fewer than 25 per year, within 4 years after October 17, 1986. A profile required on a substance listed pursuant to subparagraph (B) of paragraph (2) shall be completed within 3 years after addition to the list. The profiles prepared under this paragraph shall be of those substances highest on the list of priorities under paragraph (2) for which profiles have not previously been prepared. Profiles required under this paragraph shall be revised and republished as necessary, but no less often than once every 3 years. Such profiles shall be provided to the States and made available to other interested parties.
+> Any toxicological profile or revision thereof shall reflect the Administrator of ATSDR's assessment of all relevant toxicological testing which has been peer reviewed. The profiles required to be prepared under this paragraph for those hazardous substances listed under subparagraph (A) of paragraph (2) shall be completed, at a rate of no fewer than 25 per year, within 4 years after October 17, 1986. A profile required on a substance listed pursuant to subparagraph (B) of paragraph (2) shall be completed within 3 years after addition to the list. The profiles prepared under this paragraph shall be of those substances highest on the list of priorities under paragraph (2) for which profiles have not previously been prepared. Profiles required under this paragraph shall be revised and republished as necessary, but no less often than once every 3 years. Such profiles shall be provided to the States and made available to other interested parties.
 
 (4) The Administrator of the ATSDR shall provide consultations upon request on health issues relating to exposure to hazardous or toxic substances, on the basis of available information, to the Administrator of EPA, State officials, and local officials. Such consultations to individuals may be provided by States under cooperative agreements established under this chapter.
 
@@ -300,7 +300,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 (F) For the purposes of this subsection and section 9611(c)(4) of this title, the term “health assessments” shall include preliminary assessments of the potential risk to human health posed by individual sites and facilities, based on such factors as the nature and extent of contamination, the existence of potential pathways of human exposure (including ground or surface water contamination, air emissions, and food chain contamination), the size and potential susceptibility of the community within the likely pathways of exposure, the comparison of expected human exposure levels to the short-term and long-term health effects associated with identified hazardous substances and any available recommended exposure or tolerance limits for such hazardous substances, and the comparison of existing morbidity and mortality data on diseases that may be associated with the observed levels of exposure. The Administrator of ATSDR shall use appropriate data, risk assessments, risk evaluations and studies available from the Administrator of EPA.
 
-(G) The purpose of health assessments under this subsection shall be to assist in determining whether actions under paragraph (11) of this subsection should be taken to reduce human exposure to hazardous substances from a facility and whether additional information on human exposure and associated health risks is needed and should be acquired by conducting epidemiological studies under paragraph (7), establishing a registry under paragraph (8), establishing a health surveillance program under paragraph (9), or through other means. In using the results of health assessments for determining additional actions to be taken under this section, the Administrator of ATSDR may consider additional information on the risks to the potentially affected population from all sources of such hazardous substances including known point or nonpoint sources other than those from the facility in question.
+(G) The purpose of health assessments under this subsection shall be to assist in determining whether actions under paragraph (11) of this subsection should be taken to reduce human exposure to hazardous substances from a facility and whether additional information on human exposure and associated health risks is needed and should be acquired by conducting epidemiological studies under paragraph (7), establishing aregistry under paragraph (8), establishing a health surveillance program under paragraph (9), or through other means. In using the results of health assessments for determining additional actions to be taken under this section, the Administrator of ATSDR may consider additional information on the risks to the potentially affected population from all sources of such hazardous substances including known point or nonpoint sources other than those from the facility in question.
 
 (H) At the completion of each health assessment, the Administrator of ATSDR shall provide the Administrator of EPA and each affected State with the results of such assessment, together with any recommendations for further actions under this subsection or otherwise under this chapter. In addition, if the health assessment indicates that the release or threatened release concerned may pose a serious threat to human health or the environment, the Administrator of ATSDR shall so notify the Administrator of EPA who shall promptly evaluate such release or threatened release in accordance with the hazard ranking system referred to in section 9605(a)(8)(A) of this title to determine whether the site shall be placed on the National Priorities List or, if the site is already on the list, the Administrator of ATSDR may recommend to the Administrator of EPA that the site be accorded a higher priority.
 
@@ -310,7 +310,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 (8) In any case in which the results of a health assessment indicate a potential significant risk to human health, the Administrator of ATSDR shall consider whether the establishment of a registry of exposed persons would contribute to accomplishing the purposes of this subsection, taking into account circumstances bearing on the usefulness of such a registry, including the seriousness or unique character of identified diseases or the likelihood of population migration from the affected area.
 
-(9) Where the Administrator of ATSDR has determined that there is a significant increased risk of adverse health effects in humans from exposure to hazardous substances based on theresults of a health assessment conducted under paragraph (6), an epidemiologic study conducted under paragraph (7), or an exposure registry that has been established under paragraph (8), and the Administrator of ATSDR has determined that such exposure is the result of a release from a facility, the Administrator of ATSDR shall initiate a health surveillance program for such population. This program shall include but not be limited to—
+(9) Where the Administrator of ATSDR has determined that there is a significant increased risk of adverse health effects in humans from exposure to hazardous substances based on the results of a health assessment conducted under paragraph (6), an epidemiologic study conducted under paragraph (7), or an exposure registry that has been established under paragraph (8), and the Administrator of ATSDR has determined that such exposure is the result of a release from a facility, the Administrator of ATSDR shall initiate a health surveillance program for such population. This program shall include but not be limited to—
 
 &emsp;(A) periodic medical testing where appropriate of population subgroups to screen for diseases for which the population or subgroup is at significant increased risk; and
 
@@ -430,7 +430,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;&emsp;&emsp;(i) the extent to which a grant will facilitate the creation of, preservation of, or addition to a park, a greenway, undeveloped property, recreational property, or other property used for nonprofit purposes;
 
-&emsp;&emsp;&emsp;(ii) the extent to which a grant will meet the needs of a community that has an inability to draw on other sources of fundingfor environmental remediation and subsequent redevelopment of the area in which a brownfield site is located because of the small population or low income of the community;
+&emsp;&emsp;&emsp;(ii) the extent to which a grant will meet the needs of a community that has an inability to draw on other sources of funding for environmental remediation and subsequent redevelopment of the area in which a brownfield site is located because of the small population or low income of the community;
 
 &emsp;&emsp;&emsp;(iii) the extent to which a grant will facilitate the use or reuse of existing infrastructure;
 
@@ -600,7 +600,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 #### (8) Leveraging
 
-&emsp;An eligible entity that receives a grant under this subsection may use the grant fundsfor a portion of a project at a brownfield site for which funding is received from other sources if the grant funds are used only for the purposes described in paragraph (2) or (3).
+&emsp;An eligible entity that receives a grant under this subsection may use the grant funds for a portion of a project at a brownfield site for which funding is received from other sources if the grant funds are used only for the purposes described in paragraph (2) or (3).
 
 #### (9) Agreements
 
@@ -672,7 +672,7 @@ The Safe Drinking Water Act, referred to in subsec. (k)(11)(E), is title XIV of 
 
 #### Codification
 
-In subsec. (g)(1), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act” and, in subsec. (g)(2), “section 3145 of title 40” substituted for “section 276c of title 40 of the United States Code”, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (g)(1), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act” and, in subsec. (g)(2), “section 3145 of title 40” substituted for “section 276c of title 40 of the United States Code”, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -730,7 +730,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (i)(10) of thi
 
 #### Coordination of Titles I to IV of Pub. L. 99–499
 
-Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, or fee; establishing any trustfund; or authorizing expenditures from any trust fund, to have no force or effect, see section 531 of Pub. L. 99–499, set out as a note under section 1 of Title 26, Internal Revenue Code.
+Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, or fee; establishing any trust fund; or authorizing expenditures from any trust fund, to have no force or effect, see section 531 of Pub. L. 99–499, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -72,7 +72,7 @@ Any agreement made under subsection (a)(2)(G) of this section shall provide that
 
 &emsp;(B) the publication, at the direction of the Secretary, of the name of any person violating the order, together with a statement of the particular provisions of the order violated by the person.
 
-(3) No information obtained under the authority of this section may be made available to any agency, officer, or employee of the United States for any purpose other than the implementation of this subchapter and any investigatory or enforcement action necessary to implement this subchapter. Any person who violates this paragraph shall be subject to a fine of not more than $1,000, or to imprisonment for not more than one year, or both, and, if such person is employed by the board or the Department, shall be terminated from such employment.
+(3) No information obtained under the authority of this section may be made available to any agency, officer, or employee of the United States for any purpose other than the implementation of this subchapter and any investigatory or enforcement action necessary to implement this subchapter. Any person who violates this paragraph shall be subject to a fine of not more than $1,000, or to imprisonment for notmore than one year, or both, and, if such person is employed by the board or the Department, shall be terminated from such employment.
 
 (Pub. L. 98–180, title I, §133, as added Pub. L. 99–198, title I, §121, Dec. 23, 1985, 99 Stat. 1369.)
 

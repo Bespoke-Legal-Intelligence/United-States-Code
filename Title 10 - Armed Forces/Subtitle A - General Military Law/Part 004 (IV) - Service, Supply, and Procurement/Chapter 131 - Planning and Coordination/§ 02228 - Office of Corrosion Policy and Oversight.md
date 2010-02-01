@@ -16,7 +16,7 @@ Office and Director.—(1) There is an Office of Corrosion Policy and Oversight 
 
 (b)
 
-Duties.—(1) The Director of Corrosion Policy and Oversight (in this section referred to as the “Director”) shall oversee and coordinate efforts throughout the Department of Defense to prevent and mitigate corrosion of the militaryequipment and infrastructure of the Department. The duties under this paragraph shall include the duties specified in paragraphs (2) through (5).
+Duties.—(1) The Director of Corrosion Policy and Oversight (in this section referred to as the “Director”) shall oversee and coordinate efforts throughout the Department of Defense to prevent and mitigate corrosion of the military equipment and infrastructure of the Department. The duties under this paragraph shall include the duties specified in paragraphs (2) through (5).
 
 (2) The Director shall develop and recommend any policy guidance on the prevention and mitigation of corrosion to be issued by the Secretary of Defense.
 
@@ -92,11 +92,11 @@ Definitions.—In this section:
 
 &emsp;(2) The term “military equipment” includes all weapon systems, weapon platforms, vehicles, and munitions of the Department of Defense, and the components of such items.
 
-&emsp;(3) The term “infrastructure” includes all buildings, structures, airfields, port facilities, surface and subterranean utility systems, heating and cooling systems, fuel tanks, pavements, and bridges.
+&emsp;(3) The term “infrastructure” includes all buildings, structures, airfields, port facilities, surface and subterranean utility systems,heating and cooling systems, fuel tanks, pavements, and bridges.
 
 &emsp;(4) The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
 
-&emsp;(5) The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretaryof Defense in support of the budget for that fiscal year.
+&emsp;(5) The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
 
 (Added Pub. L. 107–314, div. A, title X, §1067(a)(1), Dec. 2, 2002, 116 Stat. 2657; amended Pub. L. 110–181, div. A, title III, §371(a)–(e), Jan. 28, 2008, 122 Stat. 79–81; Pub. L. 110–417, \[div. A\], title X, §1061(b)(1), Oct. 14, 2008, 122 Stat. 4612.)
 

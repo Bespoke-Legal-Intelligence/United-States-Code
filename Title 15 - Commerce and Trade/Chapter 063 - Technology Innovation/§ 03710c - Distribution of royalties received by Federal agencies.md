@@ -42,9 +42,13 @@ If the invention involved was one assigned to the Federal agency—
 
 #### (c) Reports
 
-The Comptroller General shall transmit a report to the appropriate committees of the Senate and House of Representatives on the effectiveness of Federal technology transfer programs, including findings, conclusions, and recommendations for improvements in such programs. The report shall be integrated with, and submitted at the same time as, the report required by section 202(b)(3) of title 35.
+The Comptroller General shall transmit a report to the appropriate committees of the Senate and House of Representatives on the effectiveness of Federal technology transfer programs, including findings, conclusions, and recommendations for improvements in such programs. The report shall be integrated with, and submitted at the same time as, the report required by section 202(b)(3) <sup>1</sup> of title 35.
 
 (Pub. L. 96–480, §14, as added, renumbered §13, and amended Pub. L. 99–502, §§7, 9(e)(1), (3), Oct. 20, 1986, 100 Stat. 1792, 1797; renumbered §14 and amended Pub. L. 100–418, title V, §§5122(a)(1), 5162(a), Aug. 23, 1988, 102 Stat. 1438, 1450; Pub. L. 100–519, title III, §303(a), Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, §3133(c), Nov. 29, 1989, 103 Stat. 1677; Pub. L. 104–113, §5, Mar. 7, 1996, 110 Stat. 777; Pub. L. 106–404, §§7(7), 10(b), Nov. 1, 2000, 114 Stat. 1746, 1749.)
+
+#### References in Text
+
+Section 202(b)(3) of title 35, referred to in subsec. (c), was struck out and section 202(b)(4) was redesignated section 202(b)(3) by Pub. L. 111–8, div. G, title I, §1301(h), Mar. 11, 2009, 123 Stat. 829.
 
 #### Amendments
 
@@ -89,4 +93,6 @@ Subsec. (a)(4). Pub. L. 100–418, §5162(a), substituted “may” for “shall
 #### Effective Date of 1988 Amendment
 
 Section 303(b) of Pub. L. 100–519 provided that: “This section \[amending this section\] shall be effective as of October 20, 1986.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

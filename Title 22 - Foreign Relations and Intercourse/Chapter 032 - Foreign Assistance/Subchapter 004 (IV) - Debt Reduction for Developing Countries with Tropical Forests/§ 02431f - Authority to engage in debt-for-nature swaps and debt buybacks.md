@@ -30,7 +30,7 @@
 
 #### (4) Terms and conditions
 
-&emsp;Notwithstanding any other provision of law, the President shall, in accordance with this section, establish the terms and conditionsunder which loans and credits may be sold, reduced, or canceled pursuant to this section.
+&emsp;Notwithstanding any other provision of law, the President shall, in accordance with this section, establish the terms and conditions under which loans and credits may be sold, reduced, or canceled pursuant to this section.
 
 #### (5) Administration
 
@@ -50,7 +50,7 @@ The proceeds from the sale, reduction, or cancellation of any loan sold, reduced
 
 #### Amendments
 
-2001—Subsec. (a)(1)(D). Pub. L. 107–26 substituted “to be appropriated under sections 2431d(a)(2), 2431e(a)(2), and 2431d(d) of this title” for “to appropriated under sections 2431d(a)(2) and 2431e(a)(2) of this title”.
+2001—Subsec. (a)(1)(D). Pub. L. 107–26 substituted “to be appropriated under sections 2431d(a)(2), 2431e(a)(2),and 2431d(d) of this title” for “to appropriated under sections 2431d(a)(2) and 2431e(a)(2) of this title”.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 

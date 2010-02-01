@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsection (b) of this section, whenever the Commissioner of Social Security determines that more than the correct amount of any payment has been made to a person under a program described in subsection (e) of this section, the Commissioner of Social Security may recover the amount incorrectly paid by decreasing any amount which is payable to such person under any other program specified in that subsection.
+Subject to subsection (b) of this section, whenever the Commissioner of Social Security determines that more than the correct amount of any payment has been made to a person under a program described in subsection (e) of this section,the Commissioner of Social Security may recover the amount incorrectly paid by decreasing any amount which is payable to such person under any other program specified in that subsection.
 
 #### (b) Limitation applicable to current benefits
 

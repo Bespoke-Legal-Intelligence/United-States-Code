@@ -28,7 +28,7 @@ It is the purpose of this section to provide for the immediate and future protec
 
 #### (d) Preparation and implementation of comprehensive long-range plan for management, use, etc.
 
-The Secretary, in accordance with section 1712 of this title, shall prepare and implement a comprehensive, long-range plan for the management, use, development, and protection of the public lands within the California Desert Conservation Area. Such plan shall take into account the principles of multiple use and sustained yield in providing for resource use anddevelopment, including, but not limited to, maintenance of environmental quality, rights-of-way, and mineral development. Such plan shall be completed and implementation thereof initiated on or before September 30, 1980.
+The Secretary, in accordance with section 1712 of this title, shall prepare and implement a comprehensive, long-range plan for the management, use, development, and protection of the public lands within the California Desert Conservation Area. Such plan shall take into account the principles of multiple use and sustained yield in providing for resource use and development, including, but not limited to, maintenance of environmental quality, rights-of-way, and mineral development. Such plan shall be completed and implementation thereof initiated on or before September 30, 1980.
 
 #### (e) Interim program for management, use, etc.
 
@@ -90,7 +90,7 @@ Pub. L. 103–433, title I, §108, Oct. 31, 1994, 108 Stat. 4483, provided that:
 
 “(a)
 
-Designation.—There is hereby established the Dinosaur Trackway Area of Critical Environmental Concern within the California Desert Conservation Area, of the Bureau of Land Management, comprising approximately five hundred and ninety acres as generally depicted on a map entitled ‘Dinosaur Trackway Area of Critical Environmental Concern’, dated July 1993. The Secretary \[of the Interior\] shall administerthe area to preserve the paleontological resources within the area.
+Designation.—There is hereby established the Dinosaur Trackway Area of Critical Environmental Concern within the California Desert Conservation Area, of the Bureau of Land Management, comprising approximately five hundred and ninety acres as generally depicted on a map entitled ‘Dinosaur Trackway Area of Critical Environmental Concern’, dated July 1993. The Secretary \[of the Interior\] shall administer the area to preserve the paleontological resources within the area.
 
 “(b)
 

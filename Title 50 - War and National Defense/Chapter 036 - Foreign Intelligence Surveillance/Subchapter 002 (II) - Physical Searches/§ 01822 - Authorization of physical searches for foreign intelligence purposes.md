@@ -36,7 +36,7 @@ Applications for a court order under this subchapter are authorized if the Presi
 
 #### (c) Jurisdiction of Foreign Intelligence Surveillance Court
 
-The Foreign Intelligence Surveillance Court shall have jurisdiction to hear applications for and grant orders approving a physical search for the purpose of obtaining foreign intelligence information anywhere within the United States under the procedures set forth in this subchapter, except that no judge (except when sitting en banc) shall hear the same application which has been denied previously by anotherjudge designated under section 1803(a) of this title. If any judge so designated denies an application for an order authorizing a physical search under this subchapter, such judge shall provide immediately for the record a written statement of each reason for such decision and, on motion of the United States, the record shall be transmitted, under seal, to the court of review established under section 1803(b) of this title.
+The Foreign Intelligence Surveillance Court shall have jurisdiction to hear applications for and grant orders approving a physical search for the purpose of obtaining foreign intelligence information anywhere within the United States under the procedures set forth in this subchapter, except that no judge (except when sitting en banc) shall hear the same application which has been denied previously by another judge designated under section 1803(a) of this title. If any judge so designated denies an application for an order authorizing a physical search under this subchapter, such judge shall provide immediately for the record a written statement of each reason for such decision and, on motion of the United States, the record shall be transmitted, under seal, to the court of review established under section 1803(b) of this title.
 
 #### (d) Court of review; record; transmittal to Supreme Court
 
@@ -50,9 +50,9 @@ Judicial proceedings under this subchapter shall be concluded as expeditiously a
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–261 inserted “(except when sitting en banc)” after “except that no judge”.
+2008—Subsec. (c). Pub. L. 110–261 inserted “(except when sitting en banc)” after “except that no judge”.
 
-<b>2004</b>—Subsecs. (a)(3), (4)(A)(ii), (e). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+2004—Subsecs. (a)(3), (4)(A)(ii), (e). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 #### Effective Date of 2008 Amendment
 

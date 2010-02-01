@@ -164,3 +164,7 @@ Section 1501 of the Homeland Security Act of 2002, referred to in subsec. (h), i
 
 Section effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as a note under section 101 of Title 6, Domestic Security.
 
+#### Allowances and Benefits for Personnel Abroad
+
+Pub. L. 111–83, title V, §546, Oct. 28, 2009, 123 Stat. 2177, provided that: “For fiscal year 2010 and thereafter, the Secretary \[of Homeland Security\] may provide to personnel appointed or assigned to serve abroad, allowances and benefits similar to those provided under chapter 9 of title I of the Foreign Service Act of 1990 \[1980\] (22 U.S.C. 4081 et seq.).”
+

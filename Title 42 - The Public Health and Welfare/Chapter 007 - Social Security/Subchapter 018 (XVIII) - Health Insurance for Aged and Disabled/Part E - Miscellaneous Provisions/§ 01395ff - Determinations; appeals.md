@@ -50,7 +50,7 @@
 
 #### (D) Construction
 
-&emsp;&emsp;For purposes of the succeeding provisions of this section a redetermination under thisparagraph shall be considered to be part of the initial determination.
+&emsp;&emsp;For purposes of the succeeding provisions of this section a redetermination under this paragraph shall be considered to be part of the initial determination.
 
 #### (4) Requirements of notice of determinations
 
@@ -246,7 +246,7 @@
 
 #### (III) Absence of national or local coverage determination
 
-&emsp;&emsp;&emsp;&emsp;In the absence of such a national coverage determination or local coveragedetermination, the qualified independent contractor shall make a decision with respect to the reconsideration based on applicable information, including clinical experience and medical, technical, and scientific evidence.
+&emsp;&emsp;&emsp;&emsp;In the absence of such a national coverage determination or local coverage determination, the qualified independent contractor shall make a decision with respect to the reconsideration based on applicable information, including clinical experience and medical, technical, and scientific evidence.
 
 #### (C) Deadlines for decisions
 
@@ -332,7 +332,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) is not a related party (as defined in subsection (g)(5) of this section);
 
-&emsp;&emsp;&emsp;&emsp;(II) does not have a material familial, financial, or professional relationship with such a party in relation to such case; and
+&emsp;&emsp;&emsp;&emsp;(II) does not have a material familial, financial, or professional relationshipwith such a party in relation to such case; and
 
 &emsp;&emsp;&emsp;&emsp;(III) does not otherwise have a conflict of interest with such a party.
 
@@ -500,7 +500,7 @@
 
 #### (C) Explanation of determination
 
-&emsp;&emsp;When issuing a determination under subparagraph (A), the Secretary shall include an explanation of the basis for the determination. An action taken under subparagraph (A) (other than clause (iv)) is deemedto be a national coverage determination for purposes of review under paragraph (1)(A).
+&emsp;&emsp;When issuing a determination under subparagraph (A), the Secretary shall include an explanation of the basis for the determination. An action taken under subparagraph (A) (other than clause (iv)) is deemed to be a national coverage determination for purposes of review under paragraph (1)(A).
 
 #### (5) Standing
 
@@ -826,7 +826,7 @@ Amendment by section 1(a)(6) \[title V, §522(a)\] of Pub. L. 106–554 applicab
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 applicable to services furnished on or after Jan. 1, 1998, and for purposes of applying such amendment, any home health spell of illness that began, but did not end, before such date, to be considered to have begun as of such date, see section 4611(f) of Pub. L. 105–33, set out as a note under section 1395d of this title.
+Amendment by Pub. L. 105–33 applicable to services furnished on or after Jan. 1, 1998, and for purposes of applying such amendment, any home health spell of illness that began, but did not end, before such date, tobe considered to have begun as of such date, see section 4611(f) of Pub. L. 105–33, set out as a note under section 1395d of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-It is the purpose of this section to enhance the education of children through the creation and production of television programming specifically directed toward the development of fundamental intellectual skills.
+It is the purpose of this section to enhance the education of children through the creation andproduction of television programming specifically directed toward the development of fundamental intellectual skills.
 
 #### (b) Establishment; contracts and grants
 

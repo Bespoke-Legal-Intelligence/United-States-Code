@@ -6,7 +6,7 @@ United States active participation in international financial institution activi
 
 #### (b) Effect of country adjustment programs; minimization of projected adverse impacts; avoidance of government subsidization
 
-The Secretary of the Treasury shall instruct the representatives of the United States to the international financial institutions described in subsection (d) of this section to take into account in their review of loans, credits, or other utilization of the resources of their respective institutions, the effect that country adjustment programs would have upon individual industry sectors and international commodity markets in order to—
+The Secretary of the Treasury shall instruct the representatives of the United States to the international financial institutions described in subsection (d) of this section to take into account in their review of loans, credits, or other utilization of the resources of their respective institutions, the effect that country adjustment programs would have upon individual industrysectors and international commodity markets in order to—
 
 &emsp;(1) minimize any projected adverse impacts on such sector or markets of making such loans, credits, or utilization of resources; and
 
@@ -20,7 +20,7 @@ More specifically, the following criteria should be considered as a basis for a 
 
 &emsp;(2) Analysis by the United States Bureau of Mines indicates that surplus capacity in the industry for the primary product of the defined project would exist over half the period of the economic life of the project because of projected world demand and capacity conditions.
 
-&emsp;(3) United States imports of the commodity constitute less than 50 percent of the domesticproduction of the primary product in those cases where the United States is the substantial producer of such commodities.
+&emsp;(3) United States imports of the commodity constitute less than 50 percent of the domestic production of the primary product in those cases where the United States is the substantial producer of such commodities.
 
 #### (d) International financial institutions
 

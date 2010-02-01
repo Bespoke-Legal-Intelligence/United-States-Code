@@ -28,7 +28,7 @@
 
 &emsp;(3) directly or indirectly, corruptly gives, offers, or promises anything of value to any person, or offers or promises such person to give anything of value to any other person or entity, with intent to influence the testimony under oath or affirmation of such first-mentioned person as a witness upon a trial, hearing, or other proceeding, before any court, any committee of either House or both Houses of Congress, or any agency, commission, or officer authorized by the laws of the United States to hear evidence or take testimony, or with intent to influence such person to absent himself therefrom;
 
-&emsp;(4) directly or indirectly, corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity in return for being influenced in testimony under oath or affirmation as a witness upon any such trial, hearing, or other proceeding, or in return for absenting himself therefrom;
+&emsp;(4) directly or indirectly, corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for anyother person or entity in return for being influenced in testimony under oath or affirmation as a witness upon any such trial, hearing, or other proceeding, or in return for absenting himself therefrom;
 
 &emsp;shall be fined under this title or not more than three times the monetary equivalent of the thing of value, whichever is greater, or imprisoned for not more than fifteen years, or both, and may be disqualified from holding any office of honor, trust, or profit under the United States.
 
@@ -46,7 +46,7 @@
 
 &emsp;shall be fined under this title or imprisoned for not more than two years, or both.
 
-(d) Paragraphs (3) and (4) of subsection (b) and paragraphs (2) and (3) of subsection (c) shall not be construed to prohibit the payment or receipt of witness fees provided by law, or the payment, by the party upon whose behalf a witness iscalled and receipt by a witness, of the reasonable cost of travel and subsistence incurred and the reasonable value of time lost in attendance at any such trial, hearing, or proceeding, or in the case of expert witnesses, a reasonable fee for time spent in the preparation of such opinion, and in appearing and testifying.
+(d) Paragraphs (3) and (4) of subsection (b) and paragraphs (2) and (3) of subsection (c) shall not be construed to prohibit the payment or receipt of witness fees provided by law, or the payment, by the party upon whose behalf a witness is called and receipt by a witness, of the reasonable cost of travel and subsistence incurred and the reasonable value of time lost in attendance at any such trial, hearing, or proceeding, or in the case of expert witnesses, a reasonable fee for time spent in the preparation of such opinion, and in appearing and testifying.
 
 (e) The offenses and penalties prescribed in this section are separate from and in addition to those prescribed in sections 1503, 1504, and 1505 of this title.
 
@@ -78,7 +78,7 @@ Subsec. (b)(2). Pub. L. 99–646, §46(c), redesignated former subsec. (c) as pa
 
 Subsec. (b)(3). Pub. L. 99–646, §46(d), redesignated former subsec. (d) as par. (3) and substituted “directly” for “Whoever, directly” and “therefrom;” for “therefrom; or”.
 
-Subsec. (b)(4). Pub. L. 99–646, §46(e), redesignated former subsec. (e) as par. (4), substituted “directly” for “Whoever, directly”, “demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally” for “asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive anything of value for himself”, “in testimony” for “in his testimony”, and “therefrom;” for “therefrom—”.
+Subsec. (b)(4). Pub. L. 99–646, §46(e), redesignated former subsec. (e) as par. (4), substituted “directly” for “Whoever, directly”, “demands, seeks, receives, accepts, or agrees to receive or accept anything of valuepersonally” for “asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive anything of value for himself”, “in testimony” for “in his testimony”, and “therefrom;” for “therefrom—”.
 
 Subsec. (c). Pub. L. 99–646, §46(f), (g)(1), (h)(1), (i)(1), redesignated former subsecs. (f) to (i) as subsec. (c)(1)(A), (B), (2), and (3), respectively. Former subsec. (c) redesignated (b)(2).
 
@@ -138,7 +138,7 @@ January 28, 1963.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Public Law 87–849, “To strengthen the criminal laws relating to bribery, graft, and conflicts of interest, and for other purposes,” came into force January 21, 1963. A number of departments and agencies of the Government have suggested that the Department of Justice prepare and distribute a memorandum analyzing the conflict of interest provisions contained in the new act. I am therefore distributing the attached memorandum.
 
-One of the main purposes of the new legislation merits specific mention. That purpose is to help the Government obtain the temporary or intermittent services of persons with special knowledge and skills whose principal employment is outside the Government. For the most part the conflict of interest statutes superseded by Public Law 87–849 imposed the same restraints on a person serving the Government temporarily or intermittently as on a full-time employee, and those statutes often had an unnecessarily severe impact on the former. As a result, they impeded the departments and agencies in the recruitment of experts for important work. Public Law 87–849 meets this difficulty by imposing a lesser array of prohibitions on temporary and intermittent employees than on regular employees. I believe that a widespread appreciation of this aspect of the new law will lead to a significant expansion of the pool of talent on which the departments and agencies can draw for their special needs.
+One of the main purposes of the new legislation merits specific mention. That purpose is to help the Government obtain the temporary or intermittent services of persons with special knowledge and skills whose principal employment is outside the Government. For the most part the conflict of interest statutes superseded by Public Law 87–849 imposed the same restraints on a person serving the Government temporarily or intermittently as on a full-time employee, and those statutes often had an unnecessarily severe impact on the former. As a result, they impeded the departments and agencies in the recruitment of experts for important work. Public Law 87–849 meets this difficulty by imposing a lesser array of prohibitions on temporary and intermittent employees than on regular employees. I believe that a widespread appreciation of this aspect of the new law will lead to a significant expansion ofthe pool of talent on which the departments and agencies can draw for their special needs.
 
 Robert F. Kennedy,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -268,7 +268,7 @@ Subsection (d) provides that the section does not prohibit the payment or accept
 
 #### Statutory Exemptions From Conflict of Interest Laws
 
-Congress has in the past enacted statutes exempting persons in certain positions—usually advisory in nature—from the provisions of some or all of the former conflict of interest laws. Section 2 of the Act grants corresponding exemptions from the new laws with respect to legislative and judicial positions carrying such past exemptions. However, section 2 excludes positions in the executive branch, an independent agency and the District of Columbia from this grant. As a consequence, all statutory exemptions for persons serving in these sectors of the Government ended on January 21, 1963.
+Congress has in the past enacted statutes exempting persons in certain positions—usually advisory in nature—from the provisions of some or all of the former conflict of interest laws. Section 2 of the Act grants corresponding exemptions from the new laws with respect to legislative and judicial positions carrying such past exemptions. However, section 2 excludes positionsin the executive branch, an independent agency and the District of Columbia from this grant. As a consequence, all statutory exemptions for persons serving in these sectors of the Government ended on January 21, 1963.
 
 #### Retired Officers of the Armed Forces
 

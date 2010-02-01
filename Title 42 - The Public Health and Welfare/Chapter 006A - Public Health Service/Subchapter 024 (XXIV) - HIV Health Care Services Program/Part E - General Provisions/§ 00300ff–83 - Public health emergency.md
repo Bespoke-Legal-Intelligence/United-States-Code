@@ -28,21 +28,27 @@ In this section:
 
 If funds under a grant under this section are not expended for an emergency in the fiscal year in which the emergency is declared, such funds shall be returned to the Secretary for reallocation under sections 300ff–13(b) and 300ff–29a of this title.
 
-(July 1, 1944, ch. 373, title XXVI, §2683, as added Pub. L. 109–415, title V, §501, Dec. 19, 2006, 120 Stat. 2813.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2683, as added and amended Pub. L. 109–415, title V, §501, title VII, §703, Dec. 19, 2006, 120 Stat. 2813, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### References in Text
 
-The National Emergencies Act, referred to in subsec. (b)(1)(A), (2)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in subsec. (b)(1)(A), (2)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat.1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(1)(A), (2)(A), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 300ff–83, act July 1, 1944, ch. 373, title XXVI, §2683, as added Pub. L. 101–381, title IV, §411(a), Aug. 18, 1990, 104 Stat. 624, related to request for notifications with respect to victims assisted, prior to the general amendment of this part by Pub. L. 109–415.
+
+#### Amendments
+
+2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “section” probably should not appear.</i>
 

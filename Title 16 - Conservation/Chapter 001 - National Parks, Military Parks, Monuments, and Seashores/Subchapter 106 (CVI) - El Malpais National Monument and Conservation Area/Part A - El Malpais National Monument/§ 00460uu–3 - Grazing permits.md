@@ -6,7 +6,7 @@ Where any lands included within the boundary of the monument on the map referred
 
 &emsp;(b) scheduled for termination before December 31, 1997,
 
-> the Secretary, notwithstanding any other provision of law, shall allow the persons holding such grazing privileges (or their heirs) to retain such grazing privileges until December 31, 1997, subject to such limitations, conditions, or regulations as the Secretary may prescribe to insure proper range management. No grazing shall be permitted on lands within the boundaries of the monument on or after January 1, 1998.
+> the Secretary, notwithstanding any other provision of law, shall allow the persons holding such grazing privileges (or their heirs) to retain suchgrazing privileges until December 31, 1997, subject to such limitations, conditions, or regulations as the Secretary may prescribe to insure proper range management. No grazing shall be permitted on lands within the boundaries of the monument on or after January 1, 1998.
 
 (Pub. L. 100–225, title I, §104, Dec. 31, 1987, 101 Stat. 1540.)
 

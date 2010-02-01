@@ -14,7 +14,7 @@ Any person who furnishes original information to the United States—
 
 #### Amendments
 
-<b>1974</b>—Pub. L. 93–377 in par. (a) made minor changes in phraseology, in par. (b) included information relating to the actual introduction, manufacture and acquisition, or conspiring to introduce into the United States or to manufacture or acquire special nuclear material or an atomic weapon as within the information for which a reward would be given, and added par. (c).
+1974—Pub. L. 93–377 in par. (a) made minor changes in phraseology, in par. (b) included information relating to the actual introduction, manufacture and acquisition, or conspiring to introduce into the United States or to manufacture or acquire special nuclear material or an atomic weapon as within the information for which a reward would be given, and added par. (c).
 
 #### Short Title
 

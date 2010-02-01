@@ -20,7 +20,7 @@ For the purpose of this subchapter and part C of subchapter I of chapter 34 of t
 
 &emsp;&emsp;(B) dependent care expenses (determined in accordance with paragraph (8)); and
 
-&emsp;&emsp;(C) room and board costs (determined in accordance with paragraph (3)), except that a student may receive an allowance for such costs under this subparagraph for not morethan 3 semesters or the equivalent, of which not more than 2 semesters or the equivalent may be consecutive;
+&emsp;&emsp;(C) room and board costs (determined in accordance with paragraph (3)), except that a student may receive an allowance for such costs under this subparagraph for not more than 3 semesters or the equivalent, of which not more than 2 semesters or the equivalent may be consecutive;
 
 &emsp;(5) for a student engaged in a program of study by correspondence, only tuition and fees and, if required, books and supplies, travel, and room and board costs incurred specifically in fulfilling a required period of residential training;
 
@@ -96,5 +96,5 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–325 applicable with respect to determinations of need under this part foraward years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102–325, set out as a note under section 1087kk of this title.
+Amendment by Pub. L. 102–325 applicable with respect to determinations of need under this part for award years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102–325, set out as a note under section 1087kk of this title.
 

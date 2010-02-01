@@ -82,7 +82,7 @@ Subject to the limitations in subsection (c) and the terms and conditions impose
 
 &emsp;(ii) not include any other Federal moneys received by such State and applied by it, directly or indirectly, for such purposes.
 
-(B) For purposes of subparagraph (A), inkind contributions may be in the form of, but are not limited to, personal services rendered by volunteers in carrying out surveys, censuses, and other scientific studies regarding fish and wildlife. The Secretary shall by regulation establish (i) the training experience, and other qualifications which such volunteers must have in order for their services to be considered as inkind contributions; and (ii) the standards under which the Secretary will determine the value of inkind contributions and real and personal property for purposes of subparagraph (A).
+(B) For purposes of subparagraph (A), inkind contributions may be in the form of, but are not limited to, personal services rendered by volunteers in carrying out surveys, censuses, and other scientific studies regarding fish and wildlife. The Secretary shall by regulation establish (i) the training experience, and other qualifications which such volunteers must have in orderfor their services to be considered as inkind contributions; and (ii) the standards under which the Secretary will determine the value of inkind contributions and real and personal property for purposes of subparagraph (A).
 
 (C) Any valuation determination made by the Secretary for purposes of this paragraph shall be final and conclusive.
 

@@ -18,7 +18,7 @@ The terms “applicant” and “registrant” embrace the legal representatives
 
 The term “Director” means the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.
 
-The term “related company” means any person whose use of a mark is controlled by the owner of the mark with respect to the nature and quality of the goods or services on or in connection with which the mark is used.
+The term “related company” means any person whose use of a mark is controlled by the owner of the mark with respect to the natureand quality of the goods or services on or in connection with which the mark is used.
 
 The terms “trade name” and “commercial name” mean any name used by a person to identify his or her business or vocation.
 
@@ -116,7 +116,7 @@ Pub. L. 106–43, §4(c), between pars. defining “person” inserted: “The t
 
 &emsp;“(1) When its use has been discontinued with intent not to resume such use. Intent not to resume may be inferred from circumstances. Nonuse for two consecutive years shall be prima facie evidence of abandonment. ‘Use’ of a mark means the bona fide use of that mark made in the ordinary course of trade, and not made merely to reserve a right in a mark.
 
-&emsp;“(2) When any course of conduct of the owner, including acts of omission as well as commission,causes the mark to become the generic name for the goods or services on or in connection with which it is used or otherwise to lose its significance as a mark. Purchaser motivation shall not be a test for determining abandonment under this paragraph.”
+&emsp;“(2) When any course of conduct of the owner, including acts of omission as well as commission, causes the mark to become the generic name for the goods or services on or in connection with which it is used or otherwise to lose its significance as a mark. Purchaser motivation shall not be a test for determining abandonment under this paragraph.”
 
 1992—Pub. L. 102–542 inserted after fourth undesignated par. “The term ‘person’ also includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.”
 
@@ -134,7 +134,7 @@ Pub. L. 100–667, §134(6), amended par. defining “collective mark” general
 
 Pub. L. 100–667, §134(7), amended par. defining “mark” generally. Prior to amendment, par. read as follows: “The term ‘mark’ includes any trade-mark, service mark, collective mark, or certification mark entitled to registration under this chapter whether registered or not.”
 
-Pub. L. 100–667, §134(8), substituted par. defining “use in commerce” for former par. which read as follows: “For the purposes of this chapter a mark shall be deemed to be used in commerce (a) on goods when it is placed in any manner on the goods or their containers or the displays associated therewith or on the tags or labels affixed thereto and the goods are sold or transported in commerce and (b) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in this and a foreign country and the person rendering the services is engaged in commerce in connection therewith.” and par. providing when a mark is deemed abandoned for former par. which read as follows: “A mark shall be deemed to be ‘abandoned’—
+Pub. L. 100–667, §134(8), substituted par. defining “use in commerce” for former par. which read as follows: “For the purposes of this chapter a mark shall bedeemed to be used in commerce (a) on goods when it is placed in any manner on the goods or their containers or the displays associated therewith or on the tags or labels affixed thereto and the goods are sold or transported in commerce and (b) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in this and a foreign country and the person rendering the services is engaged in commerce in connection therewith.” and par. providing when a mark is deemed abandoned for former par. which read as follows: “A mark shall be deemed to be ‘abandoned’—
 
 “(a) When its use has been discontinued with intent not to resume. Intent not to resume may be inferred from circumstances. Nonuse for two consecutive years shall be prima facie abandonment.
 

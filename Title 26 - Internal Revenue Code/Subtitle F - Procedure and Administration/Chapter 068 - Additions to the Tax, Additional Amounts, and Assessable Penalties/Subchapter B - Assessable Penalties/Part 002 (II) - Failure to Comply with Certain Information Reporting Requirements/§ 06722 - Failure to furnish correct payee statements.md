@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of each failure described in subsection (b) by any person with respect to a payee statement, such person shall pay a penalty of $50 for each statement with respect to which such a failure occurs, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $100,000.
+In the case of each failure described in subsection (b) by any person with respect to a payee statement, such person shall pay a penalty of $50 for each statement with respect to which such a failure occurs, but the total amount imposed onsuch person for all such failures during any calendar year shall not exceed $100,000.
 
 #### (b) Failures subject to penalty
 

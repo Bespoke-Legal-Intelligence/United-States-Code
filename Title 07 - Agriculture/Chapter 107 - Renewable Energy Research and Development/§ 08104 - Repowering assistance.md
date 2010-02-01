@@ -26,7 +26,7 @@ The Secretary shall carry out a program to encourage biorefineries in existence 
 
 #### (c) Eligibility
 
-To be eligible to receive a payment under this section, a biorefinery shall demonstrate to the Secretary that the renewable biomass system of the biorefinery is feasible based on an independent feasibility study that takes into account the economic, technical and environmental aspects of the system.
+To be eligible to receive a payment under this section, a biorefinery shall demonstrate to theSecretary that the renewable biomass system of the biorefinery is feasible based on an independent feasibility study that takes into account the economic, technical and environmental aspects of the system.
 
 #### (d) Funding
 

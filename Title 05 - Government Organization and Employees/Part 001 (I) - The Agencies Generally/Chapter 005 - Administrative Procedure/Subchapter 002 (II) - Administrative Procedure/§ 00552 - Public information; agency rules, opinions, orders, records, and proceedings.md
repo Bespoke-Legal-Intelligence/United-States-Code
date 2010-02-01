@@ -28,7 +28,7 @@
 
 &emsp;(E) a general index of the records referred to under subparagraph (D);
 
-> unless the materials are promptly published and copies offered for sale. For records created on orafter November 1, 1996, within one year after such date, each agency shall make such records available, including by computer telecommunications or, if computer telecommunications means have not been established by the agency, by other electronic means. To the extent required to prevent a clearly unwarranted invasion of personal privacy, an agency may delete identifying details when it makes available or publishes an opinion, statement of policy, interpretation, staff manual, instruction, or copies of records referred to in subparagraph (D). However, in each case the justification for the deletion shall be explained fully in writing, and the extent of such deletion shall be indicated on the portion of the record which is made available or published, unless including that indication would harm an interest protected by the exemption in subsection (b) under which the deletion is made. If technically feasible, the extent of the deletion shall be indicated at the place in the record where the deletion was made. Each agency shall also maintain and make available for public inspection and copying current indexes providing identifying information for the public as to any matter issued, adopted, or promulgated after July 4, 1967, and required by this paragraph to be made available or published. Each agency shall promptly publish, quarterly or more frequently, and distribute (by sale or otherwise) copies of each index or supplements thereto unless it determines by order published in the Federal Register that the publication would be unnecessary and impracticable, in which case the agency shall nonetheless provide copies of such index on request at a cost not to exceed the direct cost of duplication. Each agency shall make the index referred to in subparagraph (E) available by computer telecommunications by December 31, 1999. A final order, opinion, statement of policy, interpretation, or staff manual or instruction that affects a member of the public may be relied on, used, or cited as precedent by an agency against a party other than an agency only if—
+> unless the materials are promptly published and copies offered for sale. For records created on or after November 1, 1996, within one year after such date, each agency shall make such records available, including by computer telecommunications or, if computer telecommunications means have not been established by the agency, by other electronic means. To the extent required to prevent a clearly unwarranted invasion of personal privacy, an agency may delete identifying details when it makes available or publishes an opinion, statement of policy, interpretation, staff manual, instruction, or copies of records referred to in subparagraph (D). However, in each case the justification for the deletion shall be explained fully in writing, and the extent of such deletion shall be indicated on the portion of the record which is made available or published, unless including that indication would harm an interest protected by the exemption in subsection (b) under which the deletion is made. If technically feasible, the extent of the deletion shall be indicated at the place in the record where the deletion was made. Each agency shall also maintain and make available for public inspection and copying current indexes providing identifying information for the public as to any matter issued, adopted, or promulgated after July 4, 1967, and required by this paragraph to be made available or published. Each agency shall promptly publish, quarterly or more frequently, and distribute (by sale or otherwise) copies of each index or supplements thereto unless it determines by order published in the Federal Register that the publication would be unnecessary and impracticable, in which case the agency shall nonetheless provide copies of such index on request at a cost not to exceed the direct cost of duplication. Each agency shall make the index referred to in subparagraph (E) available by computer telecommunications by December 31, 1999. A final order, opinion, statement of policy, interpretation, or staff manual or instruction that affects a member of the public may be relied on, used, or cited as precedent by an agency against a party other than an agency only if—
 
 &emsp;(i) it has been indexed and either made available or published as provided by this paragraph; or
 
@@ -58,7 +58,7 @@
 
 &emsp;(III) for any request not described in (I) or (II), fees shall be limited to reasonable standard charges for document search and duplication.
 
-> In this clause, the term “a representative of the news media” means any person or entity that gathers information of potential interest to a segment of the public, uses its editorial skills to turn the raw materials into a distinct work, and distributes that work to an audience. In this clause, the term “news” means information that is about current events or that would be of current interest to the public. Examples of news-media entities are television or radio stations broadcasting to the public at large and publishers of periodicals (but only if such entities qualify as disseminators of “news”) who make their products available for purchase by or subscription by or free distribution to the general public. These examples are not all-inclusive. Moreover, as methods of news delivery evolve (for example, the adoption of the electronic dissemination of newspapers through telecommunications services), such alternative media shall be considered to be news-media entities. A freelancejournalist shall be regarded as working for a news-media entity if the journalist can demonstrate a solid basis for expecting publication through that entity, whether or not the journalist is actually employed by the entity. A publication contract would present a solid basis for such an expectation; the Government may also consider the past publication record of the requester in making such a determination.
+> In this clause, the term “a representative of the news media” means any person or entity that gathers information of potential interest to a segment of the public, uses its editorial skills to turn the raw materials into a distinct work, and distributes that work to an audience. In this clause, the term “news” means information that is about current events or that would be of current interest to the public. Examples of news-media entities are television or radio stations broadcasting to the public at large and publishers of periodicals (but only if such entities qualify as disseminators of “news”) who make their products available for purchase by or subscription by or free distribution to the general public. These examples are not all-inclusive. Moreover, as methods of news delivery evolve (for example, the adoption of the electronic dissemination of newspapers through telecommunications services), such alternative media shall be considered to be news-media entities. A freelance journalist shall be regarded as working for a news-media entity if the journalist can demonstrate a solid basis for expecting publication through that entity, whether or not the journalist is actually employed by the entity. A publication contract would present a solid basis for such an expectation; the Government may also consider the past publication record of the requester in making such a determination.
 
 (iii) Documents shall be furnished without any charge or at a charge reduced below the fees established under clause (ii) if disclosure of the information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and is not primarily in the commercial interest of the requester.
 
@@ -132,7 +132,7 @@
 
 (C)(i) Any person making a request to any agency for records under paragraph (1), (2), or (3) of this subsection shall be deemed to have exhausted his administrative remedies with respect to such request if the agency fails to comply with the applicable time limit provisions of this paragraph. If the Government can show exceptional circumstances exist and that the agency is exercising due diligence in responding to the request, the court may retain jurisdiction and allow the agency additional time to complete its review of the records. Upon any determination by an agency to comply with a request for records, the records shall be made promptly available to such person making such request. Any notification of denial of any request for records under this subsection shall set forth the names and titles or positions of each person responsible for the denial of such request.
 
-(ii) For purposes of this subparagraph, the term “exceptional circumstances” does not include a delay that results from a predictable agency workload of requests under this section, unless the agency demonstrates reasonable progress in reducing its backlog of pending requests.
+(ii) For purposes of this subparagraph, the term “exceptional circumstances” does not include a delay that results from a predictable agency workload of requests under this section, unless the agency demonstrates reasonableprogress in reducing its backlog of pending requests.
 
 (iii) Refusal by a person to reasonably modify the scope of a request or arrange an alternative time frame for processing a request (or a modified request) under clause (ii) after being given an opportunity to do so by the agency to whom the person made the request shall be considered as a factor in determining whether exceptional circumstances exist for purposes of this subparagraph.
 
@@ -184,7 +184,13 @@
 
 &emsp;(2) related solely to the internal personnel rules and practices of an agency;
 
-&emsp;(3) specifically exempted from disclosure by statute (other than section 552b of this title), provided that such statute (A) requires that the matters be withheld from the public in such a manner as to leave no discretion on the issue, or (B) establishes particular criteria for withholding or refers to particular types of matters to be withheld;
+&emsp;(3) specifically exempted from disclosure by statute (other than section 552b of this title), if that statute—
+
+&emsp;&emsp;(A)(i) requires that the matters be withheld from the public in such a manner as to leave no discretion on the issue; or
+
+&emsp;&emsp;(ii) establishes particular criteria for withholding or refers to particular types of matters to be withheld; and
+
+&emsp;&emsp;(B) if enacted after the date of enactment of the OPEN FOIA Act of 2009, specifically cites to this paragraph.
 
 &emsp;(4) trade secrets and commercial or financial information obtained from a person and privileged or confidential;
 
@@ -192,7 +198,7 @@
 
 &emsp;(6) personnel and medical files and similar files the disclosure of which would constitute a clearly unwarranted invasion of personal privacy;
 
-&emsp;(7) records or information compiled for law enforcement purposes, but only to the extent that the production of such law enforcement records or information (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C) could reasonably be expected to constitute an unwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, including a State, local, or foreign agency or authority or any private institution which furnished information on a confidential basis, and, in the case of a record or information compiled by criminal law enforcement authority in the course of a criminal investigation or by an agency conducting a lawful national security intelligence investigation, information furnished by a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcementinvestigations or prosecutions if such disclosure could reasonably be expected to risk circumvention of the law, or (F) could reasonably be expected to endanger the life or physical safety of any individual;
+&emsp;(7) records or information compiled for law enforcement purposes, but only to the extent that the production of such law enforcement records or information (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C) could reasonably be expected to constitute anunwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, including a State, local, or foreign agency or authority or any private institution which furnished information on a confidential basis, and, in the case of a record or information compiled by criminal law enforcement authority in the course of a criminal investigation or by an agency conducting a lawful national security intelligence investigation, information furnished by a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions if such disclosure could reasonably be expected to risk circumvention of the law, or (F) could reasonably be expected to endanger the life or physical safety of any individual;
 
 &emsp;(8) contained in or related to examination, operating, or condition reports prepared by, on behalf of, or for the use of an agency responsible for the regulation or supervision of financial institutions; or
 
@@ -304,7 +310,7 @@
 
 &emsp;(1) have agency-wide responsibility for efficient and appropriate compliance with this section;
 
-&emsp;(2) monitor implementation of this section throughout the agency and keep the head ofthe agency, the chief legal officer of the agency, and the Attorney General appropriately informed of the agency's performance in implementing this section;
+&emsp;(2) monitor implementation of this section throughout the agency and keep the head of the agency, the chief legal officer of the agency, and the Attorney General appropriately informed of the agency's performance in implementing this section;
 
 &emsp;(3) recommend to the head of the agency such adjustments to agency practices, policies, personnel, and funding as may be necessary to improve its implementation of this section;
 
@@ -316,7 +322,7 @@
 
 (<i>l</i>) FOIA Public Liaisons shall report to the agency Chief FOIA Officer and shall serve as supervisory officials to whom a requester under this section can raise concerns about the service the requester has received from the FOIA Requester Center, following an initial response from the FOIA Requester Center Staff. FOIA Public Liaisons shall be responsible for assisting in reducing delays, increasing transparency and understanding of the status of requests, and assisting in the resolution of disputes.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 383; Pub. L. 90–23, §1, June 5, 1967, 81 Stat. 54; Pub. L. 93–502, §§1–3, Nov. 21, 1974, 88 Stat. 1561–1564; Pub. L. 94–409, §5(b), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 95–454, title IX, §906(a)(10), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 98–620, title IV, §402(2), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–570, title I, §§1802, 1803, Oct. 27, 1986, 100 Stat. 3207–48, 3207–49; Pub. L. 104–231, §§3–11, Oct. 2, 1996, 110 Stat. 3049–3054; Pub. L. 107–306, title III, §312, Nov. 27, 2002, 116 Stat. 2390; Pub. L. 110–175, §§3, 4(a), 5, 6(a)(1), (b)(1), 7(a), 8–10(a), 12, Dec. 31, 2007, 121 Stat. 2525–2530.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 383; Pub. L. 90–23, §1, June 5, 1967, 81 Stat. 54; Pub. L. 93–502, §§1–3, Nov. 21, 1974, 88 Stat. 1561–1564; Pub. L. 94–409, §5(b), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 95–454, title IX, §906(a)(10), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 98–620, title IV, §402(2), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–570, title I, §§1802, 1803, Oct. 27, 1986, 100 Stat. 3207–48, 3207–49; Pub. L. 104–231, §§3–11, Oct. 2, 1996, 110 Stat. 3049–3054; Pub. L. 107–306, title III, §312, Nov. 27, 2002, 116 Stat. 2390; Pub. L. 110–175, §§3, 4(a), 5, 6(a)(1), (b)(1), 7(a), 8–10(a), 12, Dec. 31, 2007, 121 Stat. 2525–2530; Pub. L. 111–83, title V, §564(b), Oct. 28, 2009, 123 Stat. 2184.)
 
 Historical and Revision Notes<br>1966
 
@@ -358,11 +364,17 @@ In subsection (c), the words “This section does not authorize” and “This s
 
 5 App. U.S.C. 1002(h), prescribing the effective date, is omitted as unnecessary. That effective date is prescribed by section 4 of this bill.
 
+#### References in Text
+
+The date of enactment of the OPEN FOIA Act of 2009, referred to in subsec. (b)(3)(B), is the date of enactment of Pub. L. 111–83, which was approved Oct. 28, 2009.
+
 #### Codification
 
 Section 552 of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 2243 of Title 7, Agriculture.
 
 #### Amendments
+
+2009—Subsec. (b)(3). Pub. L. 111–83 added par. (3) and struck out former par. (3), which read as follows: “specifically exempted from disclosure by statute (other than section 552b of this title), provided that such statute (A) requires that the matters be withheld from the public in such a manner as to leave no discretion on the issue, or (B) establishes particular criteria for withholding or refers to particular types of matters to be withheld;”.
 
 2007—Subsec. (a)(4)(A)(ii). Pub. L. 110–175, §3, inserted concluding provisions.
 
@@ -390,7 +402,7 @@ Subsec. (e)(1)(F) to (O). Pub. L. 110–175, §8(a)(4), (5), added subpars. (F) 
 
 Subsec. (e)(2). Pub. L. 110–175, §8(b)(2), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (e)(3). Pub. L. 110–175, §8(b)(1), (c), redesignated par. (2) as (3) and inserted at end “In addition,each agency shall make the raw statistical data used in its reports available electronically to the public upon request.” Former par. (3) redesignated (4).
+Subsec. (e)(3). Pub. L. 110–175, §8(b)(1), (c), redesignated par. (2) as (3) and inserted at end “In addition, each agency shall make the raw statistical data used in its reports available electronically to the public upon request.” Former par. (3) redesignated (4).
 
 Subsec. (e)(4) to (6). Pub. L. 110–175, §8(b)(1), redesignated pars. (3) to (5) as (4) to (6), respectively.
 
@@ -442,7 +454,7 @@ Subsec. (f). Pub. L. 104–231, §3, amended subsec. (f) generally. Prior to ame
 
 Subsec. (g). Pub. L. 104–231, §11, added subsec. (g).
 
-1986—Subsec. (a)(4)(A). Pub. L. 99–570, §1803, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In order to carry out the provisions of this section, each agency shall promulgate regulations, pursuant to notice and receipt of public comment, specifying a uniform schedule of fees applicable to all constituent units of such agency. Such fees shall be limited to reasonable standard charges for document search and duplication and provide for recovery of only the direct costs of such search and duplication. Documents shall be furnished without charge or at a reduced charge where the agency determines that waiver or reduction of the fee is in the public interest because furnishing the information can be considered as primarily benefiting the general public.”
+1986—Subsec. (a)(4)(A). Pub. L. 99–570, §1803, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In order to carry out the provisions of this section, each agency shall promulgate regulations, pursuant to notice and receipt of public comment, specifying a uniform schedule of fees applicable to allconstituent units of such agency. Such fees shall be limited to reasonable standard charges for document search and duplication and provide for recovery of only the direct costs of such search and duplication. Documents shall be furnished without charge or at a reduced charge where the agency determines that waiver or reduction of the fee is in the public interest because furnishing the information can be considered as primarily benefiting the general public.”
 
 Subsec. (b)(7). Pub. L. 99–570, §1802(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “investigatory records compiled for law enforcement purposes, but only to the extent that the production of such records would (A) interfere with enforcement proceedings, (B) deprive a person of a right to a fair trial or an impartial adjudication, (C) constitute an unwarranted invasion of personal privacy, (D) disclose the identity of a confidential source and, in the case of a record compiled by a criminal law enforcement authority in the course of a criminal investigation, or by an agency conducting a lawful national security intelligence investigation, confidential information furnished only by the confidential source, (E) disclose investigative techniques and procedures, or (F) endanger the life or physical safety of law enforcement personnel;”.
 
@@ -450,7 +462,7 @@ Subsecs. (c) to (f). Pub. L. 99–570, §1802(b), added subsec. (c) and redesign
 
 1984—Subsec. (a)(4)(D). Pub. L. 98–620 repealed subpar. (D) which provided for precedence on the docket and expeditious disposition of district court proceedings authorized by subsec. (a).
 
-1978—Subsec. (a)(4)(F). Pub. L. 95–454 substituted references to the Special Counsel for references to theCivil Service Commission wherever appearing and reference to his findings for reference to its findings.
+1978—Subsec. (a)(4)(F). Pub. L. 95–454 substituted references to the Special Counsel for references to the Civil Service Commission wherever appearing and reference to his findings for reference to its findings.
 
 1976—Subsec. (b)(3). Pub. L. 94–409 inserted provision excluding section 552b of this title from applicability of exemption from disclosure and provision setting forth conditions for statute specifically exempting disclosure.
 
@@ -488,7 +500,7 @@ Subsec. (c). Pub. L. 90–23 added subsec. (c).
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee onOversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2007 Amendment
 
@@ -506,7 +518,7 @@ Section 12 of Pub. L. 104–231 provided that:
 
 “(a)
 
-In General.—Except as provided in subsection (b), this Act \[amending this section and enacting provisions set out as notes below\] shall take effect 180 daysafter the date of the enactment of this Act \[Oct. 2, 1996\].
+In General.—Except as provided in subsection (b), this Act \[amending this section and enacting provisions set out as notes below\] shall take effect 180 days after the date of the enactment of this Act \[Oct. 2, 1996\].
 
 “(b)
 
@@ -554,6 +566,68 @@ Section 1801 of Pub. L. 99–570 provided that: “This subtitle \[subtitle N (�
 
 This section is popularly known as the “Freedom of Information Act”.
 
+#### Protected National Security Documents
+
+Pub. L. 111–83, title V, §565, Oct. 28, 2009, 123 Stat. 2184, provided that:
+
+“(a)
+
+Short Title.—This section may be cited as the ‘Protected National Security Documents Act of 2009’.
+
+“(b) Notwithstanding any other provision of the law to the contrary, no protected document, as defined in subsection (c), shall be subject to disclosure under section 552 of title 5, United States Code\[,\] or any proceeding under that section.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Protected document.—The term ‘protected document’ means any record—
+
+&emsp;&emsp;“(A) for which the Secretary of Defense has issued a certification, as described in subsection (d), stating that disclosure of that record would endanger citizens of the United States, members of the United States Armed Forces, or employees of the United States Government deployed outside the United States; and
+
+&emsp;&emsp;“(B) that is a photograph that—
+
+&emsp;&emsp;&emsp;“(i) was taken during the period beginning on September 11, 2001, through January 22, 2009; and
+
+&emsp;&emsp;&emsp;“(ii) relates to the treatment of individuals engaged, captured, or detained after September 11, 2001, by the Armed Forces of the United States in operations outside of the United States.
+
+&emsp;“(2)
+
+Photograph.—The term ‘photograph’ encompasses all photographic images, whether originals or copies, including still photographs, negatives, digital images, films, video tapes, and motion pictures.
+
+“(d)
+
+Certification.—
+
+&emsp;“(1)
+
+In general.—For any photograph described under subsection (c)(1), the Secretary of Defense shall issue a certification if the Secretary of Defense determines that disclosure of that photograph would endanger citizens of the United States, members of the United States Armed Forces, or employees of the United States Government deployed outside the United States.
+
+&emsp;“(2)
+
+Certification expiration.—A certification and a renewal of a certification issued pursuant to subsection (d)(3) shall expire 3 years after the date on which the certification or renewal, \[sic\] is issued by the Secretary of Defense.
+
+&emsp;“(3)
+
+Certification renewal.—The Secretary of Defense may issue—
+
+&emsp;&emsp;“(A) a renewal of a certification at any time; and
+
+&emsp;&emsp;“(B) more than 1 renewal of a certification.
+
+&emsp;“(4)
+
+Notice to congress.—The Secretary of Defense shall provide Congress a timely notice of the Secretary's issuance of a certification and of a renewal of a certification.
+
+“(e)
+
+Rule of Construction.—Nothing in this section shall be construed to preclude the voluntary disclosure of a protected document.
+
+“(f)
+
+Effective Date.—This section shall take effect on the date of enactment of this Act \[Oct. 28, 2009\] and apply to any protected document.”
+
 #### Findings
 
 Pub. L. 110–175, §2, Dec. 31, 2007, 121 Stat. 2524, provided that: “Congress finds that—
@@ -598,7 +672,7 @@ Land Remote Sensing Information Defined.—In this section, the term ‘land rem
 
 &emsp;&emsp;“(B) are prohibited from sale to customers other than the United States Government and United States Government-approved customers for reasons of national security pursuant to the terms of an operating license issued pursuant to the Land Remote Sensing Policy Act of 1992 (15 U.S.C. 5601 et seq.); and
 
-&emsp;“(2) includes any imagery and other product that is derived from such data and which is prohibited fromsale to customers other than the United States Government and United States Government-approved customers for reasons of national security pursuant to the terms of an operating license described in paragraph (1)(B).
+&emsp;“(2) includes any imagery and other product that is derived from such data and which is prohibited from sale to customers other than the United States Government and United States Government-approved customers for reasons of national security pursuant to the terms of an operating license described in paragraph (1)(B).
 
 “(c)
 
@@ -708,7 +782,7 @@ Exemptions.—An agency head may exempt from release under subsection (a) specif
 
 &emsp;“(7) reveal information that would impair relations between the United States and a foreign government, or undermine ongoing diplomatic activities of the United States;
 
-&emsp;“(8) reveal information that would impair the current ability of United States Government officials toprotect the President, Vice President, and other officials for whom protection services are authorized in the interest of national security;
+&emsp;“(8) reveal information that would impair the current ability of United States Government officials to protect the President, Vice President, and other officials for whom protection services are authorized in the interest of national security;
 
 &emsp;“(9) reveal information that would impair current national security emergency preparedness plans; or
 
@@ -858,7 +932,7 @@ In general.—In applying the exemptions listed in subparagraphs (B) through (J)
 
 &emsp;&emsp;“(B)
 
-Application of title 5.—A determination by an agency head to apply an exemption listed in subparagraphs (B) through (I) of paragraph (2) shall be subject to the same standard of review that applies in the case of records withheld under section 552(b)(1) of title 5, United States Code.
+Application of title 5.—A determination by an agency head to apply an exemption listed in subparagraphs (B) through (I) of paragraph (2) shall besubject to the same standard of review that applies in the case of records withheld under section 552(b)(1) of title 5, United States Code.
 
 &emsp;“(4)
 
@@ -948,7 +1022,7 @@ Definitions.—For the purposes of this section—
 
 #### Classified National Security Information
 
-For provisions relating to a response to a request for information under this section when the fact of its existence or nonexistence is itself classified or when it was originally classified by another agency, see Ex. Ord. No. 12958, §3.7, Apr. 17, 1995, 60 F.R. 19835, set out as a note under section 435 of Title 50, War and National Defense.
+For provisions relating to a response to a request for information under this section when the fact of its existence or nonexistence is itself classified or when it was originally classified by another agency, see Ex. Ord. No. 13526, §3.6, Dec. 29, 2009, 75 F.R. 718, set out as a note under section 435 of Title 50, War and National Defense.
 
 #### Executive Order No. 12174
 
@@ -1072,7 +1146,7 @@ Sec. 2. <i>Agency Chief FOIA Officers.</i>
 
 (iii) recommend to the head of the agency such adjustments to agency practices, policies, personnel, and funding as may be necessary to carry out the policy set forth in section 1 of this order;
 
-(iv) review and report, through the head of the agency, at such times and in such formats as the AttorneyGeneral may direct, on the agency's performance in implementing the FOIA; and
+(iv) review and report, through the head of the agency, at such times and in such formats as the Attorney General may direct, on the agency's performance in implementing the FOIA; and
 
 (v) facilitate public understanding of the purposes of the FOIA's statutory exemptions by including concise descriptions of the exemptions in both the agency's FOIA handbook issued under section 552(g) of title 5, United States Code, and the agency's annual FOIA report, and by providing an overview, where appropriate, of certain general categories of agency records to which those exemptions apply.
 
@@ -1163,4 +1237,26 @@ Sec. 7. <i>General Provisions.</i>
 (iii) is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities, or entities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Freedom of Information Act
+
+Memorandum of President of the United States, Jan. 21, 2009, 74 F.R. 4683, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+A democracy requires accountability, and accountability requires transparency. As Justice Louis Brandeis wrote, “sunlight is said to be the best of disinfectants.” In our democracy, the Freedom of Information Act (FOIA), which encourages accountability through transparency, is the most prominent expression of a profound national commitment to ensuring an open Government. At the heart of that commitment is the idea that accountability is in the interest of the Government and the citizenry alike.
+
+The Freedom of Information Act should be administered with a clear presumption: In the face of doubt, openness prevails. The Government should not keep information confidential merely because public officials might be embarrassed by disclosure, because errors and failures might be revealed, or because of speculative or abstract fears. Nondisclosure should never be based on an effort to protect the personal interests of Government officials at the expense of those they are supposed to serve. In responding to requests under the FOIA, executive branch agencies (agencies) should act promptly and in a spirit of cooperation, recognizing that such agencies are servants of the public.
+
+All agencies should adopt a presumption in favor of disclosure, in order to renew their commitment to the principles embodied in FOIA, and to usher in a new era of open Government. The presumption of disclosure should be applied to all decisions involving FOIA.
+
+The presumption of disclosure also means that agencies should take affirmative steps to make information public. They should not wait for specific requests from the public. All agencies should use modern technology to inform citizens about what is known and done by their Government. Disclosure should be timely.
+
+I direct the Attorney General to issue new guidelines governing the FOIA to the heads of executive departments and agencies, reaffirming the commitment to accountability and transparency, and to publish such guidelines in the Federal Register. In doing so, the Attorney General should review FOIA reports produced by the agencies under Executive Order 13392 of December 14, 2005. I also direct the Director of the Office of Management and Budget to update guidance to the agencies to increase and improve information dissemination to the public, including through the use of new technologies, and to publish such guidance in the Federal Register.
+
+This memorandum does not create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+The Director of the Office of Management and Budget is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -18,7 +18,7 @@
 
 #### (2) On the management
 
-&emsp;In any case in which an additional tax is imposed by paragraph (1), if a foundation manager refused to agree to part or all of the removal from jeopardy, there is hereby imposed a tax equal to 5 percent of the amount of the investment. The tax imposed by this paragraph shall be paid by any foundation managerwho refused to agree to part or all of the removal from jeopardy.
+&emsp;In any case in which an additional tax is imposed by paragraph (1), if a foundation manager refused to agree to part or all of the removal from jeopardy, there is hereby imposed a tax equal to 5 percent of the amount of the investment. The tax imposed by this paragraph shall be paid by any foundation manager who refused to agree to part or all of the removal from jeopardy.
 
 #### (c) Exception for program-related investments
 

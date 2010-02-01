@@ -12,7 +12,7 @@
 
 #### (b) Indemnification
 
-(1) Except as provided in paragraph (3) and subject to subsection (c), in the sale or lease of real property pursuant to the regulations prescribed under subsection (a), the Secretary of Energy may hold harmless and indemnify a person or entity described in paragraph (2) against any claim for injury to person or property that results from the release or threatened release of a hazardous substance or pollutant or contaminant as a result of Department of Energy activities at the defense nuclear facility on which the real property is located. Before entering into any agreement for such a sale or lease, the Secretary shall notify the person or entity that theSecretary has authority to provide indemnification to the person or entity under this subsection. The Secretary shall include in any agreement for such a sale or lease a provision stating whether indemnification is or is not provided.
+(1) Except as provided in paragraph (3) and subject to subsection (c), in the sale or lease of real property pursuant to the regulations prescribed under subsection (a), the Secretary of Energy may hold harmless and indemnify a person or entity described in paragraph (2) against any claim for injury to person or property that results from the release or threatened release of a hazardous substance or pollutant or contaminant as a result of Department of Energy activities at the defense nuclear facility on which the real property is located. Before entering into any agreement for such a sale or lease, the Secretary shall notify the person or entity that the Secretary has authority to provide indemnification to the person or entity under this subsection. The Secretary shall include in any agreement for such a sale or lease a provision stating whether indemnification is or is not provided.
 
 (2) Paragraph (1) applies to the following persons and entities:
 
@@ -68,7 +68,7 @@ Section was formerly classified to section 7274q of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b)(2)(D). Pub. L. 108–137, §504(a), which directed that subsec. (b)(2) of section 3158 of the National Defense Authorization Act for Fiscal Year 1998 (42 U.S.C. 7274q(b)(2)) be amended by adding a subpar. (D), was executed to that section as renumbered by Pub. L. 108–136 to reflect the probable intent of Congress. See Amendment note below and Effective Date of 2003 Amendment note below.
+2003—Subsec. (b)(2)(D). Pub. L. 108–137, §504(a), which directed that subsec. (b)(2) of section 3158 of the National Defense Authorization Act for Fiscal Year 1998 (42 U.S.C. 7274q(b)(2)) be amended by adding a subpar. (D), was executed to that section as renumbered by Pub. L. 108–136 to reflect the probable intent of Congress. See Amendment note below and Effective Date of 2003 Amendment note below.
 
 Pub. L. 108–7, which directed the amendment of “Title 42 U.S.C. 7274g” by adding subpar. (D) to subsec. (b)(2), was probably intended to amend section 3158 of Pub. L. 105–85, which was formerly classified to section 7274q of title 42 prior to renumbering and transfer to this section by Pub. L. 108–136. However, the amendment was not executed in view of the enactment of section 504 of Pub. L. 108–137 which added a substantially identical subpar. (D). See Amendment note above and Effective Date of 2003 Amendment note below.
 

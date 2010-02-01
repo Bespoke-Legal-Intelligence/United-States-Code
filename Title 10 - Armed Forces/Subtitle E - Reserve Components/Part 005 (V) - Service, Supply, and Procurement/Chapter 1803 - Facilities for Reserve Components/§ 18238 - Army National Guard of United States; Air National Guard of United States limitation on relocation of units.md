@@ -20,7 +20,7 @@ Act
 
 Sept. 11, 1950, ch. 945, §4(b), 64 Stat. 830.
 
-The words “from any community or area” are omitted as surplusage. The word “relocated” is substituted for the words “location \* \* \* be changed”. The words “Territory, or Puerto Rico, or the commanding general of the National Guard of the District of Columbia” are inserted to reflect 50:886(b), since the source statute applied to the District of Columbia and there is no “governor” of the District of Columbia. The words “as the case may be” are substituted for the words “within which such unit is situated”. The words “with regard to such withdrawal or change of location” are omitted as surplusage.
+The words “from any community or area” are omitted as surplusage. The word “relocated” is substituted for the words “location be changed”. The words “Territory, or Puerto Rico, or the commanding general of the National Guard of the District of Columbia” are inserted to reflect 50:886(b), since the source statute applied to the District of Columbia and there is no “governor” of the District of Columbia. The words “as the case may be” are substituted for the words “within which such unit is situated”. The words “with regard to such withdrawal or change of location” are omitted as surplusage.
 
 1958
 

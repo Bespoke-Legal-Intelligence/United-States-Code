@@ -24,11 +24,11 @@
 
 > shall be punished as provided in subsection (4) or shall be subject to suit as provided in subsection (5).
 
-(2)(a)(i) It shall not be unlawful under this chapter for an operator of a switchboard, or an officer, employee, or agent of a provider of wire or electronic communication service, whose facilities are used in the transmission of a wire orelectronic communication, to intercept, disclose, or use that communication in the normal course of his employment while engaged in any activity which is a necessary incident to the rendition of his service or to the protection of the rights or property of the provider of that service, except that a provider of wire communication service to the public shall not utilize service observing or random monitoring except for mechanical or service quality control checks.
+(2)(a)(i) It shall not be unlawful under this chapter for an operator of a switchboard, or an officer, employee, or agent of a provider of wire or electronic communication service, whose facilities are used in the transmission of a wire or electronic communication, to intercept, disclose, or use that communication in the normal course of his employment while engaged in any activity which is a necessary incident to the rendition of his service or to the protection of the rights or property of the provider of that service, except that a provider of wire communication service to the public shall not utilize service observing or random monitoring except for mechanical or service quality control checks.
 
 (ii) Notwithstanding any other law, providers of wire or electronic communication service, their officers, employees, and agents, landlords, custodians, or other persons, are authorized to provide information, facilities, or technical assistance to persons authorized by law to intercept wire, oral, or electronic communications or to conduct electronic surveillance, as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978, if such provider, its officers, employees, or agents, landlord, custodian, or other specified person, has been provided with—
 
-&emsp;(A) a court order directing such assistance or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978 signed by the authorizing judge, or
+&emsp;(A) a court order directing such assistance or a court order pursuant to section 704 of theForeign Intelligence Surveillance Act of 1978 signed by the authorizing judge, or
 
 &emsp;(B) a certification in writing by a person specified in section 2518(7) of this title or the Attorney General of the United States that no warrant or court order is required by law, that all statutory requirements have been met, and that the specified assistance is required,
 
@@ -124,7 +124,7 @@
 
 (b) The court may use any means within its authority to enforce an injunction issued under paragraph (ii)(A), and shall impose a civil fine of not less than $500 for each violation of such an injunction.
 
-(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 213; amended Pub. L. 91–358, title II, §211(a), July 29, 1970, 84 Stat. 654; Pub. L. 95–511, title II, §201(a)–(c), Oct. 25, 1978, 92 Stat. 1796, 1797; Pub. L. 98–549, §6(b)(2), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 99–508, title I, §§101(b), (c)(1), (5), (6), (d), (f)\[(1)\], 102, Oct. 21, 1986, 100 Stat. 1849, 1851–1853; Pub. L. 103–322, title XXXII,§320901, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2123, 2147; Pub. L. 103–414, title II, §§202(b), 204, 205, Oct. 25, 1994, 108 Stat. 4290, 4291; Pub. L. 104–294, title VI, §604(b)(42), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 107–56, title II, §§204, 217(2), Oct. 26, 2001, 115 Stat. 281, 291; Pub. L. 107–296, title II, §225(h)(2), (j)(1), Nov. 25, 2002, 116 Stat. 2158; Pub. L. 110–261, title I, §§101(c)(1), 102(c)(1), title IV, §403(b)(2)(C), July 10, 2008, 122 Stat. 2459, 2474.)
+(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 213; amended Pub. L. 91–358, title II, §211(a), July 29, 1970, 84 Stat. 654; Pub. L. 95–511, title II, §201(a)–(c), Oct. 25, 1978, 92 Stat. 1796, 1797; Pub. L. 98–549, §6(b)(2), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 99–508, title I, §§101(b), (c)(1), (5), (6), (d), (f)\[(1)\], 102, Oct. 21, 1986, 100 Stat. 1849, 1851–1853; Pub. L. 103–322, title XXXII, §320901, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2123, 2147; Pub. L. 103–414, title II, §§202(b), 204, 205, Oct. 25, 1994, 108 Stat. 4290, 4291; Pub. L. 104–294, title VI, §604(b)(42), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 107–56, title II, §§204, 217(2), Oct. 26, 2001, 115 Stat. 281, 291; Pub. L. 107–296, title II, §225(h)(2), (j)(1), Nov. 25, 2002, 116 Stat. 2158; Pub. L. 110–261, title I, §§101(c)(1), 102(c)(1), title IV, §403(b)(2)(C), July 10, 2008, 122 Stat. 2459, 2474.)
 
 #### Amendment of Paragraph (2)(a)(ii)(A)
 
@@ -132,7 +132,7 @@
 
 #### References in Text
 
-The Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(e), (f), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. Sections 101 and 704 of the Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(a)(ii), (e), and (f), are classified to sections 1801 and 1881c of Title 50, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
+The Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(e), (f), is Pub. L. 95–511, Oct. 25, 1978,92 Stat. 1783, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. Sections 101 and 704 of the Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(a)(ii), (e), and (f), are classified to sections 1801 and 1881c of Title 50, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
 
 Sections 633, 705, and 706 of the Communications Act of 1934, referred to in par. (2)(e), (f), (g)(iii), are classified to sections 553, 605, and 606 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, respectively.
 
@@ -204,7 +204,7 @@ Par. (3). Pub. L. 95–511, §201(c), struck out par. (3) which provided that no
 
 #### Effective Date of 2008 Amendment
 
-Amendments by sections 101(c)(1) and 102(c)(1) of Pub. L. 110–261 effective July 10, 2008, except as otherwise provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of Title 50, War and National Defense, see section 402 of Pub. L. 110–261, set out as a note under section 1801 of Title 50.
+Amendments by sections 101(c)(1) and 102(c)(1) of Pub. L. 110–261 effective July 10, 2008, except as otherwiseprovided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of Title 50, War and National Defense, see section 402 of Pub. L. 110–261, set out as a note under section 1801 of Title 50.
 
 Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, provided that except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of Title 50, War and National Defense, the amendments made by section 403(b)(2) are effective Dec. 31, 2012.
 
@@ -226,7 +226,7 @@ Amendment by Pub. L. 98–549 effective 60 days after Oct. 30, 1984, see section
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–511 effective Oct. 25, 1978, except as specifically provided, see section 401 of Pub. L. 95–511, set out as an Effective Date note under section 1801 of Title 50, War and National Defense.
+Amendment by Pub. L. 95–511 effective Oct. 25, 1978, except as specifically provided, see section 401 of Pub. L. 95–511, formerly set out as an Effective Date note under section 1801 of Title 50, War and National Defense.
 
 #### Effective Date of 1970 Amendment
 

@@ -58,7 +58,7 @@ Ex. Ord. No. 11603, June 30, 1971, 36 F.R. 12675, as amended by Ex. Ord. No. 121
 
 #### Ex. Ord. No. 12137. Administration of Peace Corps as an Agency Within ACTION
 
-Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, as amended by Ex. Ord. No. 12245, Oct. 6, 1980, 45 F.R. 66769;Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, provided:
+Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, as amended by Ex. Ord. No. 12245, Oct. 6, 1980, 45 F.R. 66769; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, provided:
 
 By virtue of the authority vested in me by the Peace Corps Act, as amended (22 U.S.C. 2501–2523) and Section 301 of Title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 
@@ -80,7 +80,7 @@ Peace Corps
 
 1–107. The reports required by Section 11 of the Act, as amended (\[former\] 22 U.S.C. 2510), shall be prepared by the Director and submitted to the Congress through the President.
 
-1–108. Subject to applicable provisions of law, all funds appropriated or otherwise made available to the President for carrying out the provisions of the Act \[this chapter\] shall be deemed to be allocated without any further action of the President to the Director or to such subordinate officer as the Director may designate. The Director or such officer may allocate or transfer, as appropriate, any of such funds to any United States Government agency or part thereof for obligation or expenditures thereby consistent with applicable law.
+1–108. Subject to applicable provisions of law, all funds appropriated or otherwise made available to the President for carrying out the provisions of the Act\[this chapter\] shall be deemed to be allocated without any further action of the President to the Director or to such subordinate officer as the Director may designate. The Director or such officer may allocate or transfer, as appropriate, any of such funds to any United States Government agency or part thereof for obligation or expenditures thereby consistent with applicable law.
 
 1–109. Nothing in this Order shall be deemed to impair or limit the powers or functions vested in the Secretary of State by the Act \[this chapter\].
 
@@ -132,7 +132,7 @@ National Voluntary Action Program
 
 Director of ACTION
 
-1–601. In addition to the functions vested in the Director of ACTION by the Domestic Volunteer Service Actof 1973 (42 U.S.C., Section 4951 et seq.), Reorganization Plan No. 1 of 1971 \[5 U.S.C. App.\], and Section 1–401 of this Order, the Director of ACTION shall:
+1–601. In addition to the functions vested in the Director of ACTION by the Domestic Volunteer Service Act of 1973 (42 U.S.C., Section 4951 et seq.), Reorganization Plan No. 1 of 1971 \[5 U.S.C. App.\], and Section 1–401 of this Order, the Director of ACTION shall:
 
 (a) Encourage local, national and international voluntary activities directed toward the solution or mitigation of community problems.
 
@@ -156,7 +156,7 @@ General Provisions
 
 1–701. Except to the extent that they may be inconsistent with this Order, all determinations, authorizations, regulations, rulings, certifications, orders, directives, contracts, agreements, and other actions made, issued or entered into with respect to any function affected by this Order and not revoked, superseded, or otherwise made inapplicable before the effective date of this Order shall continue in full force and effect until amended, modified, or terminated by appropriate authority.
 
-1–702. Except as otherwise expressly provided herein, nothing in this Order shall be construed as subjecting any department, establishment, or other instrumentality of the Executive Branch of the Federal Government or the head thereof, or any function vested by law in or assigned pursuant to law to any such agency or head, to the authority of any other agency or head or as abrogating, modifying, or restricting any such function in any manner.
+1–702. Except as otherwise expressly provided herein, nothing in this Order shall be construed as subjecting any department, establishment, or other instrumentality of the Executive Branch of the Federal Governmentor the head thereof, or any function vested by law in or assigned pursuant to law to any such agency or head, to the authority of any other agency or head or as abrogating, modifying, or restricting any such function in any manner.
 
 1–703. So much of the personnel, property, records, and unexpended balances or appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the functions assigned to the Director of the Peace Corps or to the Director of ACTION by this Order as the Director of the Office of Management and Budget shall determine, shall be transferred to the Director of the Peace Corps or the Director of ACTION at such time or times as the Director of the Office of Management and Budget shall direct.
 

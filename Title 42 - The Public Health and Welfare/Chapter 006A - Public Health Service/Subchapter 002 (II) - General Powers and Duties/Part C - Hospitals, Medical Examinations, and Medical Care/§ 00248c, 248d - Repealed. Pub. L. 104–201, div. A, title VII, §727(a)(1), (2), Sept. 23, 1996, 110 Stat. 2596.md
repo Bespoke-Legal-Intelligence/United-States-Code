@@ -6,7 +6,7 @@ Section 248d, Pub. L. 98–94, title XII, §1252, Sept. 24, 1983, 97 Stat. 698; 
 
 #### Effective Date of Repeal
 
-Repeal effective Oct. 1, 1997, see section 727(b) of Pub. L. 104–201, set out in an Inclusion of Certain Designated Providers in Uniformed Services Health Care DeliverySystem note under section 1073 of Title 10, Armed Forces.
+Repeal effective Oct. 1, 1997, see section 727(b) of Pub. L. 104–201, set out in an Inclusion of Certain Designated Providers in Uniformed Services Health Care Delivery System note under section 1073 of Title 10, Armed Forces.
 
 #### Equitable Implementation of Uniform Cost Sharing Requirements for Uniformed Services Treatment Facilities
 

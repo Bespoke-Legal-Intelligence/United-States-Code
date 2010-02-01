@@ -30,7 +30,7 @@ For the purposes of this chapter—
 
 (i) The term “State” includes a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam, Wake Island, the Canal Zone, and Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\].
 
-(j) The term “firefighter” means an employee, the duties of whose position are primarily to perform work directly connected with the control and extinguishment of fires or the maintenance and use of firefighting apparatus and equipment, including an employee engaged in this activity who is transferred to a supervisory or administrative position.
+(j) The term “firefighter” means an employee, the duties of whose position are primarily to perform work directly connected with the control and extinguishment of fires or the maintenance and use of firefighting apparatus andequipment, including an employee engaged in this activity who is transferred to a supervisory or administrative position.
 
 (k) The term “law enforcement officer” means an employee, the duties of whose position are primarily the investigation, apprehension, or detention of individuals suspected or convicted of offenses against the criminal laws of a State, including an employee engaged in this activity who is transferred to a supervisory or administrative position. For the purpose of this subsection, “detention” includes the duties of employees assigned to guard individuals incarcerated in any penal institution.
 

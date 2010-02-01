@@ -2,7 +2,7 @@
 
 Section 941, added Pub. L. 106–519, §3(b), Nov. 15, 2000, 114 Stat. 2424, related to qualifying foreign trade income.
 
-A prior section 941, acts Aug. 16, 1954, ch. 736, 68A Stat. 293; Oct. 4, 1976, Pub. L. 94–455, title X, §1053(a),title XIX, §1906(b)(1)(A), 90 Stat. 1648, 1834, set forth provisions authorizing special deduction for China Trade Act corporations, prior to repeal by Pub. L. 94–455, title X, §1053(c), (e), Oct. 4, 1976, 90 Stat. 1649, effective with respect to taxable years beginning after Dec. 31, 1977.
+A prior section 941, acts Aug. 16, 1954, ch. 736, 68A Stat. 293; Oct. 4, 1976, Pub. L. 94–455, title X, §1053(a), title XIX, §1906(b)(1)(A), 90 Stat. 1648, 1834, set forth provisions authorizing special deduction for China Trade Act corporations, prior to repeal by Pub. L. 94–455, title X, §1053(c), (e), Oct. 4, 1976, 90 Stat. 1649, effective with respect to taxable years beginning after Dec. 31, 1977.
 
 Section 942, added Pub. L. 106–519, §3(b), Nov. 15, 2000, 114 Stat. 2426, defined “foreign trading gross receipts” and set forth economic process requirements.
 

@@ -46,5 +46,5 @@ Section 2 of Pub. L. 91–366 provided that: “If any provision of this Act \[s
 
 #### Construction of 1970 Amendment
 
-Section 3 of Pub. L. 91–366 provided that: “The provisions of this Act \[see Effective Date of 1970 Amendmentnote above\] and amendments made thereby shall be held to be in addition to, and not in substitution for or limitation of, the provisions of any other Act of the United States.”
+Section 3 of Pub. L. 91–366 provided that: “The provisions of this Act \[see Effective Date of 1970 Amendment note above\] and amendments made thereby shall be held to be in addition to, and not in substitution for or limitation of, the provisions of any other Act of the United States.”
 

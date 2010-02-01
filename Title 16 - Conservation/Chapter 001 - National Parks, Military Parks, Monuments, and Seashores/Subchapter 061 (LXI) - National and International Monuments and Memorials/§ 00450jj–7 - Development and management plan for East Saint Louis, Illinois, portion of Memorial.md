@@ -10,7 +10,7 @@
 
 &emsp;(4) indications of potential modifications to the external boundaries of the area, the reasons therefore,<sup>1</sup> and cost estimates;
 
-&emsp;(5) measures and commitments for insuring that the development, management, and operation of the area in the State of Illinois arecompatible with the portion of the Memorial in the State of Missouri;
+&emsp;(5) measures and commitments for insuring that the development, management, and operation of the area in the State of Illinois are compatible with the portion of the Memorial in the State of Missouri;
 
 &emsp;(6) opportunities and commitments for cooperative activities in the development, management, and operation of the East Saint Louis portion of the Memorial with other Federal, State, and local agencies, and the private sector; and
 
@@ -22,7 +22,7 @@
 
 &emsp;(2) cost estimates and recommendations for Federal, State, and local administrative and legislative actions.
 
-> In carrying out its duties under this section, the Commission shall take into account Federal, State, and local plans and studies respecting the area, including the study by the National Park Service on the feasibility of a museum of American ethnic culture to be a part of any development plans for the Memorial.
+> In carrying out its duties under this section, the Commission shall take into account Federal, State, and local plans and studies respecting the area, including the study by the National ParkService on the feasibility of a museum of American ethnic culture to be a part of any development plans for the Memorial.
 
 (May 17, 1954, ch. 204, §8, as added Pub. L. 98–398, title II, §201(a), Aug. 24, 1984, 98 Stat. 1470.)
 

@@ -42,7 +42,7 @@ Such order shall provide for the establishment of a Lime Board as follows:
 
 #### (F) Initial Board
 
-&emsp;&emsp;The Secretary shall establish an initial Board from among nominations solicited by the Secretary. For the purpose of obtaining nominations for the members of the initial Board described in paragraph (1), the Secretary shall perform the functions of the Board under this subsection as the Secretary determines necessary and appropriate. The Secretary shall terminate the initial Board established under this subsection as soon as practicable after December 14, 1993.
+&emsp;&emsp;The Secretary shall establish an initial Board from among nominations solicited by the Secretary. For the purpose of obtaining nominations for the members of the initialBoard described in paragraph (1), the Secretary shall perform the functions of the Board under this subsection as the Secretary determines necessary and appropriate. The Secretary shall terminate the initial Board established under this subsection as soon as practicable after December 14, 1993.
 
 #### (G) Board allocation
 

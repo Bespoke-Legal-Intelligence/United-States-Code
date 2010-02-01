@@ -40,7 +40,7 @@
 
 #### (c) Education center
 
-The Secretary may establish a World War II Home Front Education Center in the Ford Assembly Building. Such center shall include a program that allows for distance learning and linkages to other representative sites across the country, for the purpose of educating the publicas to the significance of the site and the World War II Home Front.
+The Secretary may establish a World War II Home Front Education Center in the Ford Assembly Building. Such center shall include a program that allows for distance learning and linkages to other representative sites across the country, for the purpose of educating the public as to the significance of the site and the World War II Home Front.
 
 #### (d) Use of Federal funds
 
@@ -94,7 +94,7 @@ The Secretary may accept and use donations of funds, property, and services to c
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–352, §6(2)(A), made technical amendment to reference in original act which appears in text as reference to sections 1, 2, 3, and 4 of this title.
+2004—Subsec. (a)(1). Pub. L. 108–352, §6(2)(A), made technical amendment to reference in original act whichappears in text as reference to sections 1, 2, 3, and 4 of this title.
 
 Subsec. (b)(1). Pub. L. 108–352, §6(2)(B), substituted “the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A” for “the World War II Child Development Centers, the World War II worker housing, the Kaiser-Permanente Field Hospital, and Fire Station 67A”.
 

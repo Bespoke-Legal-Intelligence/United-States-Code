@@ -210,6 +210,60 @@ In subsection (f)(4)(A)(i), the words “imposing” and “with respect to such
 
 Subsec. (d)(3). Pub. L. 105–134, §107(b), added par. (3).
 
+#### Amtrak Security Evaluation and Development of Procedures for Firearm Storage and Carriage in Checked Baggage Cars and Stations
+
+Pub. L. 111–117, div. A, title I, §159, Dec. 16, 2009, 123 Stat. 3061, provided that:
+
+“(a)
+
+Amtrak Security Evaluation.—No later than 180 days after the enactment of this Act \[Dec. 16, 2009\], Amtrak, in consultation with the Assistant Secretary of Homeland Security (Transportation Security Administration), shall submit a report to Congress that contains—
+
+&emsp;“(1) a comprehensive, system-wide, security evaluation; and
+
+&emsp;“(2) proposed guidance and procedures necessary to implement a new checked firearms program.
+
+“(b)
+
+Developement and Implementation of Guidance and Procedures.—
+
+&emsp;“(1)
+
+In General.—Not later than one year after the enactment of this Act \[Dec. 16, 2009\], Amtrak, in consultation with the Assistant Secretary, shall develop and implement guidance and procedures to carry out the duties and responsibilities of firearm storage and carriage in checked baggage cars and at Amtrak stations that accept checked baggage.
+
+&emsp;“(2)
+
+Scope.—The guidance and procedures developed under paragraph (1) shall—
+
+&emsp;&emsp;“(A) permit Amtrak passengers holding a ticket for a specific Amtrak route to place an unloaded firearm or starter pistol in a checked bag on such route if—
+
+&emsp;&emsp;&emsp;“(i) the Amtrak station accepts checked baggage for such route;
+
+&emsp;&emsp;&emsp;“(ii) the passenger declares to Amtrak, either orally or in writing, at the time the reservation is made or not later than 24 hours before departure, that the firearm will be placed in his or her bag and will be unloaded;
+
+&emsp;&emsp;&emsp;“(iii) the firearm is in a hard-sided container;
+
+&emsp;&emsp;&emsp;“(iv) such container is locked; and
+
+&emsp;&emsp;&emsp;“(v) only the passenger has the key or combination for such container;
+
+&emsp;&emsp;“(B) permit Amtrak passengers holding a ticket for a specific Amtrak route to place small arms ammunition for personal use in a checked bag on such route if the ammunition is securely packed—
+
+&emsp;&emsp;&emsp;“(i) in fiber, wood, or metal boxes; or
+
+&emsp;&emsp;&emsp;“(ii) in other packaging specifically designed to carry small amounts of ammunition; and
+
+&emsp;&emsp;“(C) include any other measures needed to ensure the safety and security of Amtrak employees, passengers, and infrastructure, including—
+
+&emsp;&emsp;&emsp;“(i) in fiber, wood, or metal boxes; or \[sic\]
+
+&emsp;&emsp;&emsp;“(ii) in other packaging specifically designed to carry small amounts of ammunition; and \[sic\]
+
+“(c)
+
+Definitions.—
+
+&emsp;“(1) \[sic\] For purposes of this section, the term ‘checked baggage’ refers to baggage transported that is accessible only to select Amtrak employees.”
+
 #### General Services Administration Services
 
 Pub. L. 110–432, div. B, title II, §218(b), Oct. 16, 2008, 122 Stat. 4930, provided that: “Amtrak may obtain from the Administrator of General Services, and the Administrator may provide to Amtrak, services under sections 502(a) and 602 of title 40, United States Code.”

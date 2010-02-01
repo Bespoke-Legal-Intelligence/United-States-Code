@@ -28,7 +28,7 @@ Civil Actions for Not Notifying.—(1) A manufacturer that does not notify owner
 
 Orders to Manufacturers.—If the Secretary prevails in a civil action referred to in subsection (a) of this section, the Secretary shall order the manufacturer—
 
-&emsp;(1) to notify each owner, purchaser, and dealer described in section 30119(d) of this title of the outcome of the action and other information the Secretary requires, and notification under this clause may be combined with notification required under section 30118(b) of this title;
+&emsp;(1) to notify each owner, purchaser, and dealer described in section 30119(d) of this title of the outcome of the action and other information the Secretary requires, and notificationunder this clause may be combined with notification required under section 30118(b) of this title;
 
 &emsp;(2) to specify the earliest date under section 30119(b) of this title on which the defect or noncompliance will be remedied without charge under section 30120 of this title; and
 

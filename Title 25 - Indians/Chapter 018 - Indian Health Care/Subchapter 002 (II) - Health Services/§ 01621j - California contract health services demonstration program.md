@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish a demonstration program to evaluate the use of a contract careintermediary to improve the accessibility of health services to California Indians.
+The Secretary shall establish a demonstration program to evaluate the use of a contract care intermediary to improve the accessibility of health services to California Indians.
 
 #### (b) Agreement with California Rural Indian Health Board
 
@@ -50,5 +50,5 @@ There are authorized to be appropriated for each of the fiscal years 1996 throug
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise providedby law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

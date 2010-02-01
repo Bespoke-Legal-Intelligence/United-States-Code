@@ -60,5 +60,5 @@ Pub. L. 108–83, title I, §1003(c), Sept. 30, 2003, 117 Stat. 1022, provided t
 
 #### Rule of Construction
 
-Pub. L. 108–83, title I, §1003(b), Sept. 30, 2003, 117 Stat. 1022, provided that: “Nothing in the amendments made by this section \[amending this section\] may be construed to limit the authority of the Capitol Police as in effect before the effective date of this section \[see Effective Date of 2003 Amendment note set out above\].”
+Pub. L. 108–83, title I, §1003(b), Sept. 30, 2003, 117 Stat. 1022, provided that: “Nothing in the amendments madeby this section \[amending this section\] may be construed to limit the authority of the Capitol Police as in effect before the effective date of this section \[see Effective Date of 2003 Amendment note set out above\].”
 

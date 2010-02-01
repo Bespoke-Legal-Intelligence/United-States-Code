@@ -28,7 +28,7 @@ For purposes of this chapter—
 
 #### (3) 1974 UMWA Pension Plan
 
-&emsp;The term “1974 UMWA Pension Plan” means a pension plan described in section 404(c) (or a continuation thereof), participation in which is substantially limited to individuals who retired in 1976 and thereafter.
+&emsp;The term “1974 UMWA Pension Plan” means a pension plan described in section 404(c) (or acontinuation thereof), participation in which is substantially limited to individuals who retired in 1976 and thereafter.
 
 #### (4) 1992 UMWA Benefit Plan
 
@@ -122,7 +122,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) is an unrelated person to an eligible seller described in subparagraph (C); and
 
-&emsp;&emsp;&emsp;(ii) purchases for fair market value assets, or all of the stock, of a related person to such seller, in a bona fide, arm's-length sale.
+&emsp;&emsp;&emsp;(ii) purchases for fair market value assets, or all of the stock, of a related personto such seller, in a bona fide, arm's-length sale.
 
 #### (B) Unrelated person
 
@@ -130,7 +130,7 @@ For purposes of this section—
 
 #### (C) Eligible seller
 
-&emsp;&emsp;For purposes of this paragraph, the term “eligible seller” means an assigned operatordescribed in section 9704(j)(2) or a related person to such assigned operator.
+&emsp;&emsp;For purposes of this paragraph, the term “eligible seller” means an assigned operator described in section 9704(j)(2) or a related person to such assigned operator.
 
 #### (d) Enactment date
 

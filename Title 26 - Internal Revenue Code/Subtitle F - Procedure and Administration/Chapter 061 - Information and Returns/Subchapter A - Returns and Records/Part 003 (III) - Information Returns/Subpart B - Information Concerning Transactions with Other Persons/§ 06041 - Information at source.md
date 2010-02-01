@@ -110,7 +110,7 @@ Amendment by Pub. L. 87–834 applicable to payments of dividends and interest m
 
 #### Allowance of Electronic 1099's
 
-Pub. L. 107–147, title IV, §401, Mar. 9, 2002, 116 Stat. 40, provided that: “Any person required to furnish a statement under any section of subpart B of part III of subchapter A of chapter 61 of the Internal Revenue Code of 1986 for any taxable year ending after the date of the enactment of this Act \[Mar. 9, 2002\], may electronically furnish such statement (without regard to any first class mailing requirement) to any recipient who hasconsented to the electronic provision of the statement in a manner similar to the one permitted under regulations issued under section 6051 of such Code or in such other manner as provided by the Secretary.”
+Pub. L. 107–147, title IV, §401, Mar. 9, 2002, 116 Stat. 40, provided that: “Any person required to furnish a statement under any section of subpart B of part III of subchapter A of chapter 61 of the Internal Revenue Code of 1986 for any taxable year ending after the date of the enactment of this Act \[Mar. 9, 2002\], may electronically furnish such statement (without regard to any first class mailing requirement) to any recipient who has consented to the electronic provision of the statement in a manner similar to the one permitted under regulations issued under section 6051 of such Code or in such other manner as provided by the Secretary.”
 
 #### Employer's Duties in Connection With Recording and Reporting of Tips
 

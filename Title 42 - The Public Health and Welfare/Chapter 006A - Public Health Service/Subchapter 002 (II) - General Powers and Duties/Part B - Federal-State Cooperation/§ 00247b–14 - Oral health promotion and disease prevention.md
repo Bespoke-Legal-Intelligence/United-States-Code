@@ -42,7 +42,7 @@
 
 #### (ii) Liaison
 
-&emsp;&emsp;&emsp;A fluoridation specialist shall serve as the principal technical liaison between the Indian Health Service and the Centers for Disease Control and Prevention with respect to engineering and fluoridation issues.
+&emsp;&emsp;&emsp;A fluoridation specialist shall serve as the principal technical liaison between theIndian Health Service and the Centers for Disease Control and Prevention with respect to engineering and fluoridation issues.
 
 #### (iii) CDC
 

@@ -92,13 +92,49 @@ Any person who is employed in the financial aid office of a covered educational 
 
 It shall be unlawful for any private educational lender to impose a fee or penalty on a borrower for early repayment or prepayment of any private education loan.
 
-(Pub. L. 90–321, title I, §140, as added Pub. L. 110–315, title X, §1011(a), Aug. 14, 2008, 122 Stat. 3479.)
+#### (f) Credit card protections for college students
+
+#### (1) Disclosure required
+
+&emsp;An institution of higher education shall publicly disclose any contract or other agreement made with a card issuer or creditor for the purpose of marketing a credit card.
+
+#### (2) Inducements prohibited
+
+&emsp;No card issuer or creditor may offer to a student at an institution of higher education any tangible item to induce such student to apply for or participate in an open end consumer credit plan offered by such card issuer or creditor, if such offer is made—
+
+&emsp;&emsp;(A) on the campus of an institution of higher education;
+
+&emsp;&emsp;(B) near the campus of an institution of higher education, as determined by rule of the Board; or
+
+&emsp;&emsp;(C) at an event sponsored by or related to an institution of higher education.
+
+#### (3) Sense of the Congress
+
+&emsp;It is the sense of the Congress that each institution of higher education should consider adopting the following policies relating to credit cards:
+
+&emsp;&emsp;(A) That any card issuer that markets a credit card on the campus of such institution notify the institution of the location at which such marketing will take place.
+
+&emsp;&emsp;(B) That the number of locations on the campus of such institution at which the marketing of credit cards takes place be limited.
+
+&emsp;&emsp;(C) That credit card and debt education and counseling sessions be offered as a regular part of any orientation program for new students of such institution.
+
+(Pub. L. 90–321, title I, §140, as added Pub. L. 110–315, title X, §1011(a), Aug. 14, 2008, 122 Stat. 3479; amended Pub. L. 111–24, title III, §304, May 22, 2009, 123 Stat. 1749.)
 
 #### References in Text
 
 The Higher Education Act of 1965, referred to in subsec. (a)(2)(B)(iv)(II), (7)(A)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
+#### Amendments
+
+2009—Subsec. (f). Pub. L. 111–24 added subsec. (f).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–24 effective 9 months after May 22, 2009, except as otherwise specifically provided, see section 3 of Pub. L. 111–24, set out as a note under section 1602 of this title.
+
 #### Effective Date
 
-Subsec. (c) of this section effective on the earlier of the date on which regulations issued under section 1002 of Pub. L. 110–315 (set out as a note under section 1638 of this title) become effective or 18 months after Aug. 14, 2008, see section 1003 of Pub. L. 110–315, set out as an Effective Date of 2008 Amendment note under section 1638 of this title.
+Subsec. (c) of this section effective on the earlier of the date on which regulations issued under section 1002 of Pub. L. 110–315 (set out as a Regulations note under section 1638 of this title) become effective or 18 months after Aug. 14, 2008, see section 1003(b) of Pub. L. 110–315, set out as an Effective Date of 2008 Amendment note under section 1638 of this title. Such regulations were issued effective Sept. 14, 2009, with compliance optional until Feb. 14, 2010.
+
+<i><sup>1</sup></i><i> So in original. The word “of” probably should not appear.</i>
 

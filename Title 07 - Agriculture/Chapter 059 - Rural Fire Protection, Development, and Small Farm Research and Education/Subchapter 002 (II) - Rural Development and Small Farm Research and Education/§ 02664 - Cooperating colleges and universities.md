@@ -10,7 +10,7 @@ All private and publicly supported colleges and universities in a State shall be
 
 #### (c) Designation of official for program coordination
 
-The institution of each State responsible for administering the programs authorized underthis subchapter shall designate an official who shall be responsible for the overall coordination of the programs.
+The institution of each State responsible for administering the programs authorized under this subchapter shall designate an official who shall be responsible for the overall coordination of the programs.
 
 #### (d) Appointment of advisory council for program administration; eligibility, membership, etc.
 
@@ -26,7 +26,7 @@ Act of August 30, 1890, referred to in subsec. (a), is act Aug. 30, 1890, ch. 84
 
 #### Prior Provisions
 
-A prior section 2664, Pub. L. 92–419, title V, §504, Aug. 30, 1972, 86 Stat. 673, related to conducting of programs authorized by this subchapter, by cooperating colleges and universities, prior to repeal by Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1326.
+A prior section 2664, Pub. L. 92–419, title V, §504, Aug. 30, 1972, 86 Stat. 673, related to conducting of programsauthorized by this subchapter, by cooperating colleges and universities, prior to repeal by Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1326.
 
 #### Effective Date
 

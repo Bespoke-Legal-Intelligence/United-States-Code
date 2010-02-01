@@ -8,7 +8,7 @@ With respect to contracts entered into after July 1, 2007, and except as provide
 
 An entity described in subsection (a) may have a direct financial interest in the development or construction of an individual system or element of a system of systems if—
 
-&emsp;(1) the Secretary of Homeland Security certifies to the Committees on Appropriations ofthe Senate and the House of Representatives, the Committee on Homeland Security of the House of Representatives, the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Commerce, Science and Transportation of the Senate that—
+&emsp;(1) the Secretary of Homeland Security certifies to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Homeland Security of the House of Representatives, the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Commerce, Science and Transportation of the Senate that—
 
 &emsp;&emsp;(A) the entity was selected by the Department of Homeland Security as a contractor to develop or construct the system or element concerned through the use of competitive procedures; and
 

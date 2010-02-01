@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) was in operation in such State on the day before September 29, 1994; or
 
-&emsp;&emsp;&emsp;&emsp;(II) has been in operation in such State for a period of time that meets theState's minimum age requirement permitted under section 1831u(a)(5) of this title.
+&emsp;&emsp;&emsp;&emsp;(II) has been in operation in such State for a period of time that meets the State's minimum age requirement permitted under section 1831u(a)(5) of this title.
 
 #### (8) Continuing requirement for meeting community credit needs after initial interstate entry by acquisition
 
@@ -76,7 +76,7 @@
 
 #### (b) Continuance of lawful interstate banking operations previously commenced
 
-Unless its authority to do so is lawfully revoked otherwise than pursuant to this section, a foreign bank, notwithstanding any restriction or limitation imposed under subsection (a) of this section, may establish and operate, outside its home State, any State branch, State agency, or bank or commercial lending company subsidiary which commenced lawful operation or for which an application to commence business had been lawfully filed with the appropriate State or Federal authority, as the case may be, on or before July 27, 1978. Notwithstanding subsection (a) of this section, a foreign bank may continue to operate, after September 29, 1994, any Federal branch, State branch, Federal agency, State agency, or commercial lending company subsidiary which such bank was operating on the day before September 29, 1994, to the extent the branch, agency, or subsidiary continues, after September 29, 1994, to engage in operations which were lawful under the laws in effect on the day before September 29, 1994.
+Unless its authority to do so is lawfully revoked otherwise than pursuant to this section, a foreign bank, notwithstanding any restriction or limitation imposed under subsection (a) of this section, may establish and operate, outside its home State, any State branch, State agency, or bank or commercial lending company subsidiary which commenced lawful operation or for which an application to commence business had been lawfully filed with the appropriate State or Federal authority, as the case may be, on or before July 27, 1978. Notwithstanding subsection (a) of this section, a foreign bank may continue to operate, after September 29, 1994, any Federal branch, State branch, Federal agency, State agency, or commercial lending company subsidiary which such bank was operating on the day before September 29, 1994, to the extent the branch, agency, or subsidiary continues, afterSeptember 29, 1994, to engage in operations which were lawful under the laws in effect on the day before September 29, 1994.
 
 #### (c) Determination of home State of foreign bank
 

@@ -6,7 +6,7 @@ Psychosis.—For the purposes of this chapter, any veteran of World War II, the 
 
 (b)
 
-Mental Illness.—For purposes of this chapter, any veteran of the Persian Gulf Warwho develops an active mental illness (other than psychosis) shall be deemed to have incurred such disability in the active military, naval, or air service if such veteran develops such disability—
+Mental Illness.—For purposes of this chapter, any veteran of the Persian Gulf War who develops an active mental illness (other than psychosis) shall be deemed to have incurred such disability in the active military, naval, or air service if such veteran develops such disability—
 
 &emsp;(1) within two years after discharge or release from the active military, naval, or air service; and
 
@@ -22,7 +22,7 @@ Subsecs. (a), (b). Pub. L. 110–181, §1708(a)(1), designated existing text as 
 
 1991—Pub. L. 102–83 renumbered section 602 of this title as this section.
 
-Pub. L. 102–25 substituted “the Vietnam era, or the Persian Gulf War” for “or the Vietnam era”, struck out “or” before “before May 8, 1977”, and inserted “or before the end of the two-year period beginning on the last day of the Persian Gulf War, in the case of a veteran of the Persian Gulf War,” after “Vietnam era veterans,”.
+Pub. L. 102–25 substituted “the Vietnam era, or the Persian Gulf War” for “or the Vietnam era”, struck out “or” before “before May 8, 1977”, and inserted “or before the end of the two-year period beginning on thelast day of the Persian Gulf War, in the case of a veteran of the Persian Gulf War,” after “Vietnam era veterans,”.
 
 1986—Pub. L. 99–576 struck out “his” before “discharge”.
 

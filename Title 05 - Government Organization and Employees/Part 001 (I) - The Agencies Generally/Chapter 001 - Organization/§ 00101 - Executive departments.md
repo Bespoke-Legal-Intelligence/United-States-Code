@@ -106,6 +106,14 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly §15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–83, title V, §564(a), Oct. 28, 2009, 123 Stat. 2184, provided that: “This section \[amending section 552 of this title\] may be cited as the ‘OPEN FOIA Act of 2009’.”
+
+Pub. L. 111–31, div. B, §100(a), June 22, 2009, 123 Stat. 1852, provided that: “This division \[enacting sections 8432d and 8480 of this title, amending sections 8432, 8433, 8437 to 8439, and 8477 of this title and section 1450 of Title 10, Armed Forces, and enacting provisions set out as notes under this section and section 8439 of this title\] may be cited as the ‘Federal Retirement Reform Act of 2009’.”
+
+Pub. L. 111–31, div. B, title I, §101, June 22, 2009, 123 Stat. 1853, provided that: “This title \[enacting sections 8432d and 8480 of this title, amending sections 8432, 8433, 8437 to 8439, and 8477 of this title, and enacting provisions set out as a note under section 8439 of this title\] may be cited as the ‘Thrift Savings Plan Enhancement Act of 2009’.”
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–372, §1, Oct. 8, 2008, 122 Stat. 4043, provided that: “This Act \[amending sections 3104, 3324, 3325, 5108, 5304, 5307 and 5376 of this title and enacting provisions set out as notes under sections 5307 and 5376 of this title\] may be cited as the ‘Senior Professional Performance Act of 2008’.”
@@ -128,7 +136,7 @@ Pub. L. 108–496, §1, Dec. 23, 2004, 118 Stat. 4001, provided that: “This Ac
 
 Pub. L. 108–469, §1(a), Dec. 21, 2004, 118 Stat. 3891, provided that: “This Act \[amending sections 8351, 8432, 8433, 8439, and 8440a to 8440e of this title and enacting provisions set out as a note under section 8350 of this title\] may be cited as the ‘Thrift Savings Plan Open Elections Act of 2004’.”
 
-Pub. L. 108–411, §1(a), Oct. 30, 2004, 118 Stat. 2305, provided that: “This Act \[enacting sections 4121, 5550b, 5753, and 5754 of this title, amending sections 4103, 4505a, 5302, 5304, 5305, 5314, 5334, 5361, 5363, 5365, 5377, and 6303 of this title, repealing former sections 5753 and 5754 of this title, enacting provisions set out as notes under sections 5304, 5363, 5550b, 5753, and 6303 of this title, and amending provisions set out as a note under section 5305 of this title\] may be cited as the ‘Federal Workforce Flexibility Act of 2004’.”
+Pub. L. 108–411, §1(a), Oct. 30, 2004, 118 Stat. 2305, provided that: “This Act \[enacting sections 4121, 5550b, 5753, and 5754 of this title, amending sections 4103, 4505a, 5302, 5304, 5305, 5314, 5334, 5361, 5363, 5365, 5377, and 6303 of this title, repealing former sections 5753 and 5754of this title, enacting provisions set out as notes under sections 5304, 5363, 5550b, 5753, and 6303 of this title, and amending provisions set out as a note under section 5305 of this title\] may be cited as the ‘Federal Workforce Flexibility Act of 2004’.”
 
 Pub. L. 108–401, §1, Oct. 30, 2004, 118 Stat. 2255, provided that: “This Act \[amending sections 591, 594, and 596 of this title\] may be cited as the ‘Federal Regulatory Improvement Act of 2004’.”
 

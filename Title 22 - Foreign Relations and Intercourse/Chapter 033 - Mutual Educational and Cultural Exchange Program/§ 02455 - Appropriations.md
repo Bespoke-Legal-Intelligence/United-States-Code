@@ -74,7 +74,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of State, Director of United States Information Agency, Secretary of Commerce, and Secretary of Education, see Ex. Ord. No. 11034, June 25, 1962, 27 F.R. 6071, set out as a note under section 2454 of this title.
+Functions of President under this section delegated to Secretary of State, Director of United States Information Agency, Secretary of Commerce, and Secretary of Education, see Ex. Ord. No. 11034, June 25, 1962, 27F.R. 6071, set out as a note under section 2454 of this title.
 
 #### Increase in Grants for Exchange-of-Persons Activities; Funds for Specific Programs, Reductions, Other Use of Funds, Report to Congressional Committees
 

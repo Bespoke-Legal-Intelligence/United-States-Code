@@ -2,7 +2,7 @@
 
 #### (a) Amounts
 
-There are authorized to be appropriated to carry out sections 469<i>l</i> to 469<i>l</i>–3 of this title$2,500,000 for each fiscal year, to be allocated as follows:
+There are authorized to be appropriated to carry out sections 469<i>l</i> to 469<i>l</i>–3 of this title $2,500,000 for each fiscal year, to be allocated as follows:
 
 &emsp;(1) $2,000,000 is to be used for the purposes of section 469<i>l</i>–1 of this title.
 

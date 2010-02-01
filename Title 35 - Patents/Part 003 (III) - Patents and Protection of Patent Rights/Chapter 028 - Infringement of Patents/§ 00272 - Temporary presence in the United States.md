@@ -6,7 +6,7 @@ The use of any invention in any vessel, aircraft or vehicle of any country which
 
 #### Historical and Revision Notes
 
-This section follows the requirement of the International Convention for the Protection of Industrial Property, to which the United States is a party, and also codifies the holding of the Supreme Court that useof a patented invention on board a foreign ship does not infringe a patent.
+This section follows the requirement of the International Convention for the Protection of Industrial Property, to which the United States is a party, and also codifies the holding of the Supreme Court that use of a patented invention on board a foreign ship does not infringe a patent.
 
 #### Amendments
 

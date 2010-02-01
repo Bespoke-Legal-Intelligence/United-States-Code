@@ -22,7 +22,7 @@ Amounts distributed by a charitable remainder annuity trust or by a charitable r
 
 #### (1) Income tax
 
-&emsp;A charitable remainder annuity trust and a charitable remainder unitrust shall, for any taxable year, not be subject to any tax imposed by this subtitle.
+&emsp;A charitable remainder annuity trust and a charitable remainder unitrust shall, for anytaxable year, not be subject to any tax imposed by this subtitle.
 
 #### (2) Excise tax
 
@@ -84,7 +84,7 @@ Amounts distributed by a charitable remainder annuity trust or by a charitable r
 
 #### (e) Valuation for purposes of charitable contribution
 
-For purposes of determining the amount of any charitable contribution, the remainder interest of a charitable remainder annuity trust or charitable remainder unitrust shall be computed on the basis that an amount equal to 5 percent of the net fair market value of its assets (or a greater amount, if required under the terms of the trust instrument) is to be distributed each year.
+For purposes of determining the amount of any charitable contribution, the remainder interest of a charitable remainder annuity trust orcharitable remainder unitrust shall be computed on the basis that an amount equal to 5 percent of the net fair market value of its assets (or a greater amount, if required under the terms of the trust instrument) is to be distributed each year.
 
 #### (f) Certain contingencies permitted
 

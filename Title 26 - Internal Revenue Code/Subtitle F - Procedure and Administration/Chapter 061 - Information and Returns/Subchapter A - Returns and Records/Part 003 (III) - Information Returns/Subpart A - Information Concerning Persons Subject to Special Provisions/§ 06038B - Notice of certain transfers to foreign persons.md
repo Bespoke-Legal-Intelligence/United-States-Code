@@ -78,5 +78,5 @@ Section applicable to transfers or exchanges after Dec. 31, 1984, in taxable yea
 
 #### Election of Retroactive Effect
 
-Section 1141(d)(2) of Pub. L. 105–34 provided that: “Section 1494(c) of the Internal Revenue Code of 1986 shall not apply to any transfer after August 20, 1996, if all applicable reporting requirements under section 6038B of such Code (as amended by this section) are satisfied. The Secretary of the Treasury or his delegate may prescribe simplified reporting requirements under the preceding sentence.”
+Section 1141(d)(2) of Pub. L. 105–34 provided that: “Section 1494(c) of the Internal Revenue Code of 1986shall not apply to any transfer after August 20, 1996, if all applicable reporting requirements under section 6038B of such Code (as amended by this section) are satisfied. The Secretary of the Treasury or his delegate may prescribe simplified reporting requirements under the preceding sentence.”
 

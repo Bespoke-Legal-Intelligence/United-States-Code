@@ -176,7 +176,7 @@ Pub. L. 103–138, title II, Nov. 11, 1993, 107 Stat. 1406, provided in part tha
 
 #### Study and Report on Oil Leasing and Other Arrangements To Fill SPR to One Billion Barrels
 
-Pub. L. 101–46, §2, June 30, 1989, 103 Stat. 132, directed Secretary of Energy to conduct a study on potential financial arrangements, including long-term leasing of crude oil and storage facilities, that could be used to provide additional, alternative means of financing the filling of the Strategic Petroleum Reserve to one billion barrels and directed Secretary to transmit an interim report to Committee on Energy and Natural Resources of Senate and Committee on Energy and Commerce of House of Representatives no later than Oct. 15, 1989, and no later than Feb. 1, 1990, to transmit tosuch committees a copy of the preliminary written solicitations for proposed alternative financial arrangements to assist in filling the Strategic Petroleum Reserve to one billion barrels and a final report containing findings and conclusions together with a draft of legislative changes necessary to authorize the most significant alternative financial arrangements.
+Pub. L. 101–46, §2, June 30, 1989, 103 Stat. 132, directed Secretary of Energy to conduct a study on potential financial arrangements, including long-term leasing of crude oil and storage facilities, that could be used to provide additional, alternative means of financing the filling of the Strategic Petroleum Reserve to one billion barrels and directed Secretary to transmit an interim report to Committee on Energy and Natural Resources of Senate and Committee on Energy and Commerce of House of Representatives no later than Oct. 15, 1989, and no later than Feb. 1, 1990, to transmit to such committees a copy of the preliminary written solicitations for proposed alternative financial arrangements to assist in filling the Strategic Petroleum Reserve to one billion barrels and a final report containing findings and conclusions together with a draft of legislative changes necessary to authorize the most significant alternative financial arrangements.
 
 #### Exchange of Agricultural Products for Crude Oil To Be Delivered to Strategic Petroleum Reserve
 
@@ -234,7 +234,7 @@ By the authority vested in me as President of the United States of America by Ti
 
 1–101. The functions vested in the President by Section 160(c) of the Energy Policy and Conservation Act, as amended, are delegated to the Secretary of Energy (42 U.S.C. 6240(c); see Section 801 of the Energy Security Act).
 
-1–102. The functions vested in the President by Section 7430(k) of Title 10 of the United States Code aredelegated to the Secretary of Energy (see Section 804(b) of the Energy Security Act).
+1–102. The functions vested in the President by Section 7430(k) of Title 10 of the United States Code are delegated to the Secretary of Energy (see Section 804(b) of the Energy Security Act).
 
 1–103. The functions vested in the President by Section 805(a) of the Energy Security Act \[section 805(a) of Pub. L. 96–294, set out as a note above\] are, consistent with Section 2 of Executive Order No. 11790, as amended \[set out as a note under section 761 of Title 15, Commerce and Trade\], delegated to the Secretary of Energy.
 

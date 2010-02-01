@@ -10,7 +10,7 @@ Waste treatment management plans and practices shall provide for the application
 
 #### (c) Waste treatment management area and scope
 
-To the extent practicable, waste treatment management shall be on an areawide basis and provide control or treatment of all point and nonpoint sources of pollution, including in place or accumulated pollution sources.
+To the extent practicable, waste treatment management shall be on an areawide basis andprovide control or treatment of all point and nonpoint sources of pollution, including in place or accumulated pollution sources.
 
 #### (d) Waste treatment management construction of revenue producing facilities
 
@@ -58,7 +58,7 @@ A grant may be made under this section to construct a privately owned treatment 
 
 &emsp;(2) such public body has entered into an agreement with the Administrator which guarantees that such treatment works will be properly operated and maintained and will comply with all other requirements of section 1284 of this title and includes a system of charges to assure that each recipient of waste treatment services under such a grant will pay its proportionate share of the cost of operation and maintenance (including replacement); and
 
-&emsp;(3) the total cost and environmental impact of providing waste treatment services to suchresidences or commercial establishments will be less than the cost of providing a system of collection and central treatment of such wastes.
+&emsp;(3) the total cost and environmental impact of providing waste treatment services to such residences or commercial establishments will be less than the cost of providing a system of collection and central treatment of such wastes.
 
 #### (i) Waste treatment management methods, processes, and techniques to reduce energy requirements
 
@@ -88,7 +88,7 @@ No grant made after November 15, 1981, for a publicly owned treatment works, oth
 
 (2) Notwithstanding any other provision of this chapter, the Administrator shall make a grant from any funds otherwise allotted to the State of California to the city of Eureka, California, in connection with project numbered C–06–2772, for the purchase of one hundred and thirty-nine acres of property as environmental mitigation for siting of the proposed treatment plant.
 
-(3) Notwithstanding any other provision of this chapter, the Administrator shall make a grant from any funds otherwise allotted to the State of California to the city of San Diego, California, in connection with that city's aquaculture sewage process (total resources recovery system) as an innovative and alternative waste treatment process.
+(3) Notwithstanding any other provision of this chapter, the Administrator shall make agrant from any funds otherwise allotted to the State of California to the city of San Diego, California, in connection with that city's aquaculture sewage process (total resources recovery system) as an innovative and alternative waste treatment process.
 
 #### (n) Water quality problems; funds, scope, etc.
 
@@ -252,7 +252,7 @@ Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 132
 
 #### Grants to Trust Territory of the Pacific Islands, American Samoa, Guam, Northern Mariana Islands, and Virgin Islands; Waiver of Collector Sewers Limitation
 
-Pub. L. 99–396, §12(b), Aug. 27, 1986, 100 Stat. 841, provided that: “In awarding grants to the Trust Territory of the Pacific Islands, American Samoa, Guam, the Northern Mariana Islands and the Virgin Islands under section 201(g)(1) of the Clean Water Act (33 U.S.C. 1251 et seq.) \[subsec. (g)(1) of this section\], the Administrator of the Environmental Protection Agency may waive limitations regarding grant eligibility for sewerage facilities and related appurtenances, insofar as such limitations relate to collector sewers, based upon a determination that applying such limitations could hinder the alleviation of threats to public health and water quality. In making such a determination, the Administrator shall take into consideration the public health and water quality benefits to be derived and the availability of alternate funding sources. The Administrator shall not award grants under this section for the operation and maintenance of sewerage facilities, for construction of facilities which are not an essential component of the sewerage facilities, or any other activities or facilities which are not concerned with the management of wastewater to alleviate threats to public health and water quality.” \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
+Pub. L. 99–396, §12(b), Aug. 27, 1986, 100 Stat. 841, provided that: “In awarding grants to the Trust Territory of the Pacific Islands, American Samoa, Guam, the Northern Mariana Islands and the Virgin Islands under section 201(g)(1) of the Clean Water Act (33 U.S.C. 1251 et seq.) \[subsec. (g)(1) of this section\], the Administrator of the Environmental Protection Agency may waive limitations regarding grant eligibility for sewerage facilities and related appurtenances, insofar as such limitations relate to collector sewers, based upon a determination that applying such limitations could hinder the alleviation of threats to public health and water quality. In making such a determination, the Administrator shall take into consideration the public health and water quality benefits to be derived and the availability of alternate funding sources. The Administrator shall not award grants under this section for the operation and maintenance of sewerage facilities, forconstruction of facilities which are not an essential component of the sewerage facilities, or any other activities or facilities which are not concerned with the management of wastewater to alleviate threats to public health and water quality.” \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 
 #### Environmental Financing Authority
 
@@ -308,7 +308,7 @@ Section 12 of Pub. L. 92–500, as amended by Pub. L. 97–258, §4(b), Sept. 13
 
 “(j) \[Tax Exemption, Exemptions\] The Authority, its property, its franchise, capital, reserves, surplus, security holdings, and other funds, and its income shall be exempt from all taxation now or hereafter imposed by the United States or by any State or local taxing authority; except that (A) any real property and any tangible personal property of the Authority shall be subject to Federal, State, and local taxation to the same extent according to its value as other such property is taxed, and (B) any and all obligations issued by the Authority shall be subject both as to principal and interest to Federal, State, and local taxation to the same extent as the obligations of private corporations are taxed.
 
-“(k) \[Nature of Obligations\] All obligations issued by the Authority shall be lawful investments, and may beaccepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under authority or control of the United States or of any officer or officers thereof. All obligations issued by the Authority pursuant to this section shall be deemed to be exempt securities within the meaning of laws administered by the Securities and Exchange Commission, to the same extent as securities which are issued by the United States.
+“(k) \[Nature of Obligations\] All obligations issued by the Authority shall be lawful investments, and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under authority or control of the United States or of any officer or officers thereof. All obligations issued by the Authority pursuant to this section shall be deemed to be exempt securities within the meaning of laws administered by the Securities and Exchange Commission, to the same extent as securities which are issued by the United States.
 
 “(<i>l</i>) \[Preparation of Obligations by Secretary of the Treasury\] In order to furnish obligations for delivery by the Authority, the Secretary of the Treasury is authorized to prepare such obligations in such form as the Authority may approve, such obligations when prepared to be held in the Treasury subject to delivery upon order by the Authority. The engraved plates, dies, bed pieces, and so forth, executed in connection therewith, shall remain in the custody of the Secretary of the Treasury. The Authority shall reimburse the Secretary of the Treasury for any expenditures made in the preparation, custody, and delivery of such obligations.
 

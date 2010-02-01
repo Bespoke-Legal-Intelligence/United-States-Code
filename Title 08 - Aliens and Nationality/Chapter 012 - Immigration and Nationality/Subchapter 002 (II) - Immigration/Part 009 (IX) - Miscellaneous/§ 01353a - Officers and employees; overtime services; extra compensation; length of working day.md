@@ -18,7 +18,7 @@ Section was formerly classified to section 342c of Title 5 prior to the general 
 
 #### Transfer of Functions
 
-Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or the performance of any of his functions by any of such officers, agencies, and employees by 1950 Reorg. Plan No. 2, §§1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix toTitle 5, Government Organization and Employees. See sections 509 and 510 of Title 28, Judiciary and Judicial Procedure.
+Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or the performance of any of his functions by any of such officers, agencies, and employees by 1950 Reorg. Plan No. 2, §§1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees. See sections 509 and 510 of Title 28, Judiciary and Judicial Procedure.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

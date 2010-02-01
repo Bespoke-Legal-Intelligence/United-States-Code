@@ -50,7 +50,7 @@ As used in this subchapter:
 
 #### (11) Health care facility
 
-&emsp;The term “health care facility” means an Indian Health Service health center, a Native Hawaiian health center, a hospital, a Federally qualified health center, a rural health clinic, a nursing home, a home health agency, a hospice program, a public health clinic, aState or local department of public health, a skilled nursing facility, an ambulatory surgical center, or any other facility designated by the Secretary.
+&emsp;The term “health care facility” means an Indian Health Service health center, a Native Hawaiian health center, a hospital, a Federally qualified health center, a rural health clinic, a nursing home, a home health agency, a hospice program, a public health clinic, a State or local department of public health, a skilled nursing facility, an ambulatory surgical center, or any other facility designated by the Secretary.
 
 #### (12) Home health agency
 
@@ -114,7 +114,7 @@ Pub. L. 105–392, title I, §122, Nov. 13, 1998, 112 Stat. 3562, provided that:
 
 Section 951 of Pub. L. 94–63, as amended by Pub. L. 95–623, §12(h), Nov. 9, 1978, 92 Stat. 3457, provided that:
 
-“(a)(1) Using procedures developed in accordance with paragraph (3), the Secretary of Health, Education, and Welfare \[now Health and Human Services\] (hereinafter in this section referred to as the ‘Secretary’) shall determine on a continuing basis—
+“(a)(1) Using procedures developed in accordance with paragraph (3), the Secretary of Health, Education, and Welfare \[now Health and Human Services\] (hereinafterin this section referred to as the ‘Secretary’) shall determine on a continuing basis—
 
 &emsp;“(A) the supply (both current and projected and within the United States and within each State) of registered nurses, licensed practical and vocational nurses, nurse's aides, registered nurses with advanced training or graduate degrees, and nurse practitioners;
 

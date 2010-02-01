@@ -262,7 +262,7 @@ Amendment by section 1730 of Pub. L. 101–624 effective Oct. 1, 1990, and amend
 
 #### Effective Date of 1988 Amendments
 
-Amendment by Pub. L. 100–435 effective Jan. 1, 1989, and implemented by States by Jan. 1, 1990, see section701(b)(3)(A) of Pub. L. 100–435, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 100–435 effective Jan. 1, 1989, and implemented by States by Jan. 1, 1990, see section 701(b)(3)(A) of Pub. L. 100–435, set out as a note under section 2012 of this title.
 
 Pub. L. 100–387, title V, §502(b), Aug. 11, 1988, 102 Stat. 960, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(JJ), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(JJ), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
 

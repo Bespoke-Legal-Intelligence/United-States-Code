@@ -30,7 +30,7 @@ When non-coastwise-qualified vessel offering service.—On a showing to the Secr
 
 (d)
 
-Delaying Expiration.—If the vessel offering or advertising the service described in subsection (c) has not begun that service within 270days after the Secretary's notification, the expiration provided by subsection (c) is delayed until 90 days after the vessel offering or advertising the service begins that service.
+Delaying Expiration.—If the vessel offering or advertising the service described in subsection (c) has not begun that service within 270 days after the Secretary's notification, the expiration provided by subsection (c) is delayed until 90 days after the vessel offering or advertising the service begins that service.
 
 (e)
 
@@ -74,7 +74,7 @@ Pub. L. 98–563, Oct. 30, 1984, 98 Stat. 2916.
 
 46 App.:289c(d).
 
-In subsection (a), the definition of “certificate” is added based on the language in 46 App. U.S.C. 289c(b)(1) and (2) to avoid repeating the substance of the definition twice in the section.
+In subsection (a), the definition of “certificate” is added based on the language in 46 App. U.S.C. 289c(b)(1)and (2) to avoid repeating the substance of the definition twice in the section.
 
 In subsection (b), the words “Notwithstanding any other provision of law” and “directly or by way of a foreign port” are omitted as unnecessary.
 

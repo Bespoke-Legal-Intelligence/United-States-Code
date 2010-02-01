@@ -38,7 +38,7 @@
 
 &emsp;(2) at a step of the appropriate grade that does not exceed the highest previous rate of pay received by him during that service in the legislative branch.
 
-(d) The rate of pay established for a teaching position as defined by section 901 of title 20 held by an individual who becomes subject to subsection (a) of this section is deemed increased by an amount determined under regulations which the Secretary of Defense shall prescribe for the determination of the yearly rate of pay of the position. The amount by which a rate of pay isincreased under the regulations may not exceed the amount equal to 20 percent of that rate of pay.
+(d) The rate of pay established for a teaching position as defined by section 901 of title 20 held by an individual who becomes subject to subsection (a) of this section is deemed increased by an amount determined under regulations which the Secretary of Defense shall prescribe for the determination of the yearly rate of pay of the position. The amount by which a rate of pay is increased under the regulations may not exceed the amount equal to 20 percent of that rate of pay.
 
 (e) An employee of a county committee established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) may, on appointment to a position subject to this subchapter, have the initial rate of basic pay of the employee fixed at—
 
@@ -50,7 +50,7 @@
 
 (f)(1) An employee of a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c) who moves, without a break in service of more than 3 days, to a position in the Department of Defense or the Coast Guard, respectively, that is subject to this subchapter, may have such employee's initial rate of basic pay fixed at the minimum rate of the appropriate grade or at any step of such grade that does not exceed—
 
-&emsp;(A) if the highest previous rate of basic pay received by that employee during the employee's service described in section 2105(c) is equal to a rate of the appropriate grade, such rate of the appropriate grade;
+&emsp;(A) if the highest previous rate of basic pay received by that employee during the employee's service described in section 2105(c) is equalto a rate of the appropriate grade, such rate of the appropriate grade;
 
 &emsp;(B) if the employee's highest previous rate of basic pay (as described in subparagraph (A)) is between two rates of the appropriate grade, the higher of those two rates; or
 
@@ -198,7 +198,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Effective Date of 1978 Amendment
 
-Section 504(a) of Pub. L. 95–454 provided that amendment by section 503(f) of Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions beforesuch day to extent prescribed by Director of Office of Personnel Management.
+Section 504(a) of Pub. L. 95–454 provided that amendment by section 503(f) of Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
 Amendment by section 801(a)(2), (3)(F), (G) of Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of this title.
 
@@ -220,5 +220,5 @@ Section 6 of Pub. L. 90–623 provided that:
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

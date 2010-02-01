@@ -42,7 +42,7 @@ Congressional Findings.—Congress finds that:
 
 Statement of Policy.—It is the policy of the United States—
 
-&emsp;“(1) to engage with the Government of Saudi Arabia to openly confront the issue of terrorism, as wellas other problematic issues such as the lack of political freedoms;
+&emsp;“(1) to engage with the Government of Saudi Arabia to openly confront the issue of terrorism, as well as other problematic issues such as the lack of political freedoms;
 
 &emsp;“(2) to enhance counterterrorism cooperation with the Government of Saudi Arabia; and
 
@@ -78,7 +78,7 @@ Form.—The report required by paragraph (1) shall be transmitted in unclassifie
 
 #### Findings
 
-Pub. L. 108–458, title VII, §7101, Dec. 17, 2004, 118 Stat. 3775, provided that: “Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
+Pub. L. 108–458, title VII, §7101, Dec. 17, 2004, 118 Stat. 3775, provided that: “Consistent with the report of theNational Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
 
 &emsp;“(1) Long-term success in the war on terrorism demands the use of all elements of national power, including diplomacy, military action, intelligence, covert action, law enforcement, economic policy, foreign aid, public diplomacy, and homeland defense.
 
@@ -162,7 +162,7 @@ Contents of international agreement.—The President should seek, as appropriate
 
 &emsp;&emsp;“(B) establish and implement a real-time verification system of passports and other travel documents with issuing authorities;
 
-&emsp;&emsp;“(C) share with officials at ports of entry in any such country information relating to lost, stolen, and fraudulent passports and other travel documents;
+&emsp;&emsp;“(C) share with officials at ports of entry in any such country information relating to lost, stolen,and fraudulent passports and other travel documents;
 
 &emsp;&emsp;“(D) encourage countries—
 
@@ -548,7 +548,7 @@ Experts and Consultants.—The chairperson of the Commission may procure tempora
 
 “(a)
 
-In General.—In the event the Commission is established, there are authorized to be appropriated to carry out this title $2,500,000 for the initial 24-month period of the existence of the Commission.
+In General.—In the event the Commission is established, there are authorized to be appropriated tocarry out this title $2,500,000 for the initial 24-month period of the existence of the Commission.
 
 “(b)
 
@@ -650,7 +650,7 @@ Availability of Funds.—The Secretary may make a grant to nongovernmental organ
 
 #### Report to Congress on Activities of North Korean Armed Forces
 
-Pub. L. 104–208, div. A, title I, §101(c) \[title V, §585\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–171, as amended by Pub. L. 107–228, div. B, title XIII, §1308(g)(1)(D), (2), Sept. 30, 2002, 116 Stat. 1441, provided that: “Ninety days after the date of enactment of this Act \[Sept. 30, 1996\], and every 180 days thereafter, the Secretary of State, in consultation with the Secretary of Defense, shall provide a report in a classified or unclassified form to the Committee on Appropriations including the following information:
+Pub. L. 104–208, div. A, title I, §101(c) \[title V, §585\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–171, as amended by Pub. L. 107–228, div. B, title XIII, §1308(g)(1)(D), (2), Sept. 30, 2002, 116 Stat. 1441, provided that: “Ninetydays after the date of enactment of this Act \[Sept. 30, 1996\], and every 180 days thereafter, the Secretary of State, in consultation with the Secretary of Defense, shall provide a report in a classified or unclassified form to the Committee on Appropriations including the following information:
 
 &emsp;“(a) a best estimate on fuel used by the military forces of the Democratic People's Republic of Korea (DPRK);
 
@@ -708,7 +708,7 @@ Pub. L. 103–236, title V, part D, Apr. 30, 1994, 108 Stat. 486, provided that:
 
 “(a)
 
-In General.—Consistent with international law, it is the policy of the United States to support efforts to bring to justice members of the Khmer Rouge fortheir crimes against humanity committed in Cambodia between April 17, 1975, and January 7, 1979.
+In General.—Consistent with international law, it is the policy of the United States to support efforts to bring to justice members of the Khmer Rouge for their crimes against humanity committed in Cambodia between April 17, 1975, and January 7, 1979.
 
 “(b)
 
@@ -794,7 +794,7 @@ Pub. L. 100–204, title I, §122, Dec. 22, 1987, 101 Stat. 1339, prohibited use
 
 #### Closing of Diplomatic and Consular Posts in Antigua and Barbuda
 
-Pub. L. 100–204, title I, §123, Dec. 22, 1987, 101 Stat. 1339, directed that none of the funds made available for the Department of State for any fiscal year be used for expenses of maintaining a United States diplomatic orconsular post in Antigua and Barbuda and provided that such prohibition take effect 60 days after Dec. 22, 1987, unless the President made a determination that such closing would not be in the national security interest of the United States and informed both the Chairman of the Senate Foreign Relations Committee and the House Foreign Affairs Committee of such determination, prior to repeal by Pub. L. 101–246, title I, §121, Feb. 16, 1990, 104 Stat. 27.
+Pub. L. 100–204, title I, §123, Dec. 22, 1987, 101 Stat. 1339, directed that none of the funds made available for the Department of State for any fiscal year be used for expenses of maintaining a United States diplomatic or consular post in Antigua and Barbuda and provided that such prohibition take effect 60 days after Dec. 22, 1987, unless the President made a determination that such closing would not be in the national security interest of the United States and informed both the Chairman of the Senate Foreign Relations Committee and the House Foreign Affairs Committee of such determination, prior to repeal by Pub. L. 101–246, title I, §121, Feb. 16, 1990, 104 Stat. 27.
 
 #### Closure of Mission in Antigua and Barbuda Not in United States Interests
 
@@ -818,7 +818,7 @@ Pub. L. 100–202, §101(a) \[title III, §305\], Dec. 22, 1987, 101 Stat. 1329,
 
 #### Report to Congress on Soviet Breach of Duties Obligations to United States Diplomats or Missions
 
-Pub. L. 99–500, §101(b) \[title III, §300\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–58, and Pub. L. 99–591, §101(b) \[title III, §300\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–58, which required the Secretary of State to report every six months to the Speaker of the House of Representatives and the President of the Senate on failures by Soviet agencies to perform obligations to United States diplomats or United States missions to the Soviet Union and on actions undertaken by the Department of State to redress these failures, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 127 of House Document No. 103–7.
+Pub. L. 99–500, §101(b) \[title III, §300\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–58, and Pub. L. 99–591, §101(b) \[title III, §300\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–58, which required the Secretary of State to report every six months to the Speaker of the House of Representatives and the President of the Senate on failures by Soviet agencies to perform obligations to United States diplomats or United States missions to the Soviet Union and on actions undertaken by the Department of State to redress these failures, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, asamended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 127 of House Document No. 103–7.
 
 #### Responsibility of United States Missions To Promote Freedom of Press Abroad
 
@@ -882,7 +882,7 @@ Pub. L. 97–241, title I, §103(b), (c), Aug. 24, 1982, 96 Stat. 273, as amende
 
 “(b) None of the funds made available under this \[Pub. L. 97–241\] or any other Act for ‘Administration of Foreign Affairs’ may be used for the establishment or operation of any United States consulate that did not exist on the date of enactment of this Act \[Aug. 24, 1982\] (other than the consulates specified in subsection (c)) until all the United States consulates specified in subsection (c) have been reopened as required by section 108 of the Department of State Authorization Act, Fiscal Years 1980 and 1981 \[section 108 of Pub. L. 96–60, set out as a note below\], to the extent such reopening is authorized by the foreign government involved.
 
-“(c) The consulates referred to in subsections (a) \[section 103(a) of Pub. L. 97–241, which was not classified to the Code\] and (b) of this section are the consulates in the following locations: Turin, Italy; Salzburg, Austria; Goteborg, Sweden; Bremen, Germany; Nice, France; Mandalay, Burma; and Brisbane, Australia.”
+“(c) The consulates referred to in subsections (a) \[section 103(a) of Pub. L. 97–241, which was not classified tothe Code\] and (b) of this section are the consulates in the following locations: Turin, Italy; Salzburg, Austria; Goteborg, Sweden; Bremen, Germany; Nice, France; Mandalay, Burma; and Brisbane, Australia.”
 
 #### United States Consulates
 

@@ -18,13 +18,17 @@
 | [2863\.](%C2%A7%2002863%20-%20Payment%20of%20contractor%20claims.md) | Payment of contractor claims. |
 | \[2864, 2865. Repealed.\] |  |
 | [2866\.](%C2%A7%2002866%20-%20Water%20conservation%20at%20military%20installations.md) | Water conservation at military installations. |
-| \[2867. | Renumbered.\] |
+| [2867\.](%C2%A7%2002867%20-%20Energy%20monitoring%20and%20utility%20control%20system%20specification%20for%20military%20construction%20and%20military%20family%20housing%20activities.md) | Energy monitoring and utility control system specification for military construction and military family housing activities. |
 | [2868\.](%C2%A7%2002868%20-%20Utility%20services%20furnishing%20for%20certain%20buildings.md) | Utility services: furnishing for certain buildings. |
-| [2869\.](%C2%A7%2002869%20-%20Conveyance%20of%20property%20at%20military%20installations%20to%20support%20military%20construction%20or%20limit%20encroachment.md) | Conveyance of property at military installations to support military construction or limit encroachment. |
+| [2869\.](%C2%A7%2002869%20-%20Conveyance%20of%20property%20at%20military%20installations%20to%20limit%20encroachment.md) | Conveyance of property at military installations to limit encroachment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. B, title XXVIII, §2841(a)(2), Oct. 28, 2009, 123 Stat. 2680, added item 2867.
+
+Pub. L. 111–84, div. B, title XXVIII, §2804(d)(2), Oct. 28, 2009, 123 Stat. 2662, which directed the general amendment of item 2869 “in the table of sections at the beginning of chapter 169”, was executed by amending item 2869 in the table of sections at the beginning of subchapter III of chapter 169, to reflect the probable intent of Congress. Prior to amendment, item 2869 read as follows: “Conveyance of property at military installations to support military construction or limit encroachment”.
 
 2006—Pub. L. 109–364, div. B, title XXVIII, §§2807(a)(2), 2808(b)(2), 2809(b), 2810(b), 2811(f)(2), 2851(c)(4), Oct. 17, 2006, 120 Stat. 2468–2471, 2473, 2495, added item 2861, inserted “or urban-training operations” after “force protection” in item 2859, substituted “Military unaccompanied housing: local comparability of floor areas” for “Limitations on barracks space by pay grade” in item 2856 and “to support military construction or limit encroachment” for “closed or realigned to support military construction” in item 2869, and struck out items 2857 “Use of renewable forms of energy in new facilities”, 2864 “Military construction contracts on Guam”, 2865 “Energy savings at military installations”, and 2867 “Sale of electricity from alternate energy and cogeneration production facilities”.
 
@@ -75,6 +79,6 @@ Pub. L. 108–375, div. B, title XXVIII, §2804(a)(2), Oct. 28, 2004, 118 Stat. 
 - [&sect; 02863 - Payment of contractor claims](%C2%A7%2002863%20-%20Payment%20of%20contractor%20claims.md)
 - [&sect; 02864, 2865 - Repealed. Pub. L. 109&#8211;364, div. B, title XXVIII, &sect;&sect;2810(a), 2851(a)(2), Oct. 17, 2006, 120 Stat. 2470, 2494](%C2%A7%2002864%2C%202865%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93364%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A7%C2%A72810%28a%29%2C%202851%28a%29%282%29%2C%20Oct.%2017%2C%202006%2C%20120%20Stat.%202470%2C%202494.md)
 - [&sect; 02866 - Water conservation at military installations](%C2%A7%2002866%20-%20Water%20conservation%20at%20military%20installations.md)
-- [&sect; 02867 - Renumbered &sect;2916](%C2%A7%2002867%20-%20Renumbered%20%C2%A72916.md)
+- [&sect; 02867 - Energy monitoring and utility control system specification for military construction and military family housing activities](%C2%A7%2002867%20-%20Energy%20monitoring%20and%20utility%20control%20system%20specification%20for%20military%20construction%20and%20military%20family%20housing%20activities.md)
 - [&sect; 02868 - Utility services furnishing for certain buildings](%C2%A7%2002868%20-%20Utility%20services%20furnishing%20for%20certain%20buildings.md)
-- [&sect; 02869 - Conveyance of property at military installations to support military construction or limit encroachment](%C2%A7%2002869%20-%20Conveyance%20of%20property%20at%20military%20installations%20to%20support%20military%20construction%20or%20limit%20encroachment.md)
+- [&sect; 02869 - Conveyance of property at military installations to limit encroachment](%C2%A7%2002869%20-%20Conveyance%20of%20property%20at%20military%20installations%20to%20limit%20encroachment.md)

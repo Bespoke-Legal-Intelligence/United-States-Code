@@ -8,7 +8,7 @@
 
 &emsp;(2) the Secretary of the Interior for the United States Park Police force; and
 
-&emsp;(3) The Secretary of the Treasury for the Executive Protective Service force.
+&emsp;(3) the Secretary of the Treasury for the Executive Protective Service force.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 90–623, §1(18), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 94–183, §2(28), (29), Dec. 31, 1975, 89 Stat. 1058.)
 

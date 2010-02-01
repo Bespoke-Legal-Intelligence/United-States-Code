@@ -2,7 +2,7 @@
 
 #### (a) Composition; appointment; establishment of policies of the Foundation
 
-The Board shall consist of twenty-four members to be appointed by the President, by and with the advice and consent of the Senate, and of the Director ex officio. In addition to any powers and functions otherwise granted to it by this chapter, the Board shall establish the policies of the Foundation, within the framework of applicable national policies as set forth by the President and the Congress.
+The Board shall consist of twenty-four members to be appointed by the President, by and with the advice and consent of the Senate, and of the Director ex officio. In addition to any powers and functions otherwise granted to it by this chapter, the Board shall establish the policies of the Foundation, within the framework ofapplicable national policies as set forth by the President and the Congress.
 
 #### (b) Executive Committee; delegation of powers and functions
 
@@ -48,7 +48,7 @@ Portions of Board meetings in which the Board considers proposed Foundation budg
 
 #### (<i>l</i>) Financial disclosure report for Board members
 
-Members of the Board shall be required to file a financial disclosure report under title II of the Ethics in Government Act of 1978 (5 U.S.C. App.; 92 Stat. 1836), except that such reports shall be held confidential and exempt from any law otherwise requiring their public disclosure.
+Members of the Board shall be required to file a financial disclosure report under title II of theEthics in Government Act of 1978 (5 U.S.C. App.; 92 Stat. 1836), except that such reports shall be held confidential and exempt from any law otherwise requiring their public disclosure.
 
 (May 10, 1950, ch. 171, §4, 64 Stat. 150; Pub. L. 86–232, §2, Sept. 8, 1959, 73 Stat. 467; Pub. L. 86–507, §1(36), June 11, 1960, 74 Stat. 202; Pub. L. 90–407, §2, July 18, 1968, 82 Stat. 361; Pub. L. 94–273, §11(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 94–282, title V, §503, May 11, 1976, 90 Stat. 473; Pub. L. 94–471, §9, Oct. 11, 1976, 90 Stat. 2057; Pub. L. 95–99, §12(b), formerly §14(b), Aug. 15, 1977, 91 Stat. 835, renumbered §12(b), Pub. L. 99–159, title I, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 96–516, §21(a), Dec. 12, 1980, 94 Stat. 3010; Pub. L. 97–375, title II, §214, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 99–159, title I, §§109(a), 110(a)(12), Nov. 22, 1985, 99 Stat. 889, 891; Pub. L. 100–570, title I, §§105(a), 108, Oct. 31, 1988, 102 Stat. 2868, 2869; Pub. L. 105–207, title II, §202(a)(1), July 29, 1998, 112 Stat. 873; Pub. L. 107–368, §15(a)(1), (c), Dec. 19, 2002, 116 Stat. 3058, 3059; Pub. L. 110–69, title VII, §§7015(b), 7016, Aug. 9, 2007, 121 Stat. 683, 684.)
 
@@ -104,7 +104,7 @@ Subsec. (c). Pub. L. 90–407 redesignated provisions of former subsec. (a) as (
 
 Subsec. (d). Pub. L. 90–407 redesignated former subsec. (b) as (d), substituted “term of office of each member” for “term of office of each voting member”, struck out “the terms of office of the members first taking office after May 10, 1950, shall expire, as designated by the President at the time of appointment, eight at the end of two years, eight at the end of four years, and eight at the end of six years, after May 10, 1950”, and provided for exemption of Director from prohibition against reappointment within two years following twelve consecutive years of Board membership. Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 90–407 redesignated former subsec. (d) as (e) and substituted “A majority of the members of the Board shall constitute a quorum” for “A majority of the voting members of the Board shall constitute a quorum”. Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 90–407 redesignated former subsec. (d) as (e) and substituted “A majority of the membersof the Board shall constitute a quorum” for “A majority of the voting members of the Board shall constitute a quorum”. Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 90–407 redesignated former subsec. (e) as (f) and substituted provisions that the election of the Chairman and Vice Chairman take place at each annual meeting occurring in an even-numbered year for provisions that their election take place at the first meeting of the National Science Board following the enactment of Pub. L. 86–232, and that thereafter such election take place at the second annual meeting occurring after each such election.
 

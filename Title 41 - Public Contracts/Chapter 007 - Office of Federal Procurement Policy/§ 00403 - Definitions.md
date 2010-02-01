@@ -20,7 +20,7 @@ As used in this chapter:
 
 &emsp;(5) The term “competitive procedures” means procedures under which an agency enters into a contract pursuant to full and open competition.
 
-&emsp;(6) The term “full and open competition”, when used with respect to a procurement,means that all responsible sources are permitted to submit sealed bids or competitive proposals on the procurement.
+&emsp;(6) The term “full and open competition”, when used with respect to a procurement, means that all responsible sources are permitted to submit sealed bids or competitive proposals on the procurement.
 
 &emsp;(7) The term “responsible source” means a prospective contractor who—
 
@@ -78,7 +78,7 @@ As used in this chapter:
 
 &emsp;&emsp;(G) Any item, combination of items, or service referred to in subparagraphs (A) through (F) notwithstanding the fact that the item, combination of items, or service is transferred between or among separate divisions, subsidiaries, or affiliates of a contractor.
 
-&emsp;&emsp;(H) A nondevelopmental item, if the procuring agency determines, in accordance with conditions set forth in the Federal Acquisition Regulation, that the item was developed exclusively at private expense andhas been sold in substantial quantities, on a competitive basis, to multiple State and local governments.
+&emsp;&emsp;(H) A nondevelopmental item, if the procuring agency determines, in accordance with conditions set forth in the Federal Acquisition Regulation, that the item was developed exclusively at private expense and has been sold in substantial quantities, on a competitive basis, to multiple State and local governments.
 
 &emsp;(13) The term “nondevelopmental item” means any of the following:
 

@@ -2,11 +2,11 @@
 
 #### (a) Time, manner, and content of application
 
-To be eligible to receive assistance under section 12571 of this title or approved national service positions for participants who serve in the national service programs to be carried out using the assistance, a State, subdivision of a State, Indian tribe, public or private nonprofit organization, institution of higher education, or Federal agency shall prepare and submit to the Corporation an application at such time, in such manner, and containing such information as the Corporation may reasonably require.
+To be eligible to receive assistance under section 12571(a) of this title or approved national service positions for participants who serve in the national service programs to be carried out using the assistance, a State, territory, subdivision of a State, Indian tribe, public or private nonprofit organization, or institution of higher education shall prepare and submit to the Corporation an application at such time, in such manner, and containing such information as the Corporation may reasonably require.
 
 #### (b) Types of permissible application information
 
-In order to have adequate information upon which to consider an application under section12585 of this title, the Corporation may require the following information to be provided in an application submitted under subsection (a) of this section:
+In order to have adequate information upon which to consider an application under section 12585 of this title, the Corporation may require the following information to be provided in an application submitted under subsection (a) of this section:
 
 &emsp;(1) A description of the national service programs proposed to be carried out directly by the applicant using assistance provided under section 12571 of this title.
 
@@ -32,13 +32,13 @@ In order to have adequate information upon which to consider an application unde
 
 &emsp;&emsp;(B) the service experience to be provided to participants in the programs.
 
-&emsp;(9) A description of the manner and extent to which the national service programs referred to in paragraphs (1) and (2) conform to the national service priorities established by the Corporation under section 12572(c) of this title.
+&emsp;(9) A description of the manner and extent to which the national service programs referred to in paragraphs (1) and (2) conform to the national service priorities established by the Corporation under section 12572(f) of this title.
 
 &emsp;(10) A description of the past experience of the applicant in operating a comparable program or in conducting a grant program in support of other comparable service programs.
 
 &emsp;(11) A description of the type and number of proposed service positions in which participants will receive the national service educational award described in division D of this subchapter and a description of the manner in which approved national service positions will be apportioned by the applicant.
 
-&emsp;(12) A description of the manner and extent to which participants, representatives of the community served, community-based agencies with a demonstrated record of experience in providing services, and labor organizations contributed to the development of the national service programs referred to in paragraphs (1) and (2), including the identity of the individual representing each appropriate labor organization (if any) who was consulted and the nature of the consultation.
+&emsp;(12) A description of the manner and extent to which participants, representatives of the community served, community-based agencies with a demonstrated record of experience in providing services, municipalities and governments of counties in which such a community is located, and labor organizations contributed to the development of the national service programs referred to in paragraphs (1) and (2), including the identity of the individual representing each appropriate labor organization (if any) who was consulted and the nature of the consultation.
 
 &emsp;(13) Such other information as the Corporation may reasonably require.
 
@@ -46,19 +46,33 @@ In order to have adequate information upon which to consider an application unde
 
 An application submitted under subsection (a) of this section shall contain the following information:
 
-&emsp;(1) A description of the jobs or positions into which participants will be placed using the assistance provided under section 12571 of this title, including descriptions of specific tasks to be performed by such participants.
+&emsp;(1) A description of the proposed positions into which participants will be placed using the assistance provided under section 12571 of this title.
 
-&emsp;(2) A description of the minimum qualifications that individuals shall meet to become participants in such programs.
+&emsp;(2) A description of the proposed minimum qualifications that individuals shall meet to become participants in such programs.
 
-#### (d) Application to receive only approved national service positions
+&emsp;(3) In the case of a nonprofit organization intending to operate programs in 2 or more States, a description of the manner in which and extent to which the organization consulted with the State Commissions of each State in which the organization intends to operate and the nature of the consultation.
+
+#### (d) Additional required application information
+
+An application submitted under subsection (a) for programs described in 12572(a) <sup>1</sup> of this title shall also contain—
+
+&emsp;(1) measurable goals, to be used for annual measurements of the program's performance on 1 or more of the corresponding indicators described in section 12572 of this title;
+
+&emsp;(2) information describing how the applicant proposes to utilize funds to improve performance on the corresponding indicators utilizing participants, including describing the activities in which such participants will engage to improve performance on those indicators;
+
+&emsp;(3) information identifying the geographical area in which the eligible entity proposing to carry out the program proposes to use funds to improve performance on the corresponding indicators, and demographic information on the students or individuals, as appropriate, in such area, and statistics demonstrating the need to improve such indicators in such area; and
+
+&emsp;(4) if applicable, information on how the eligible entity will work with other community-based entities to carry out activities to improve performance on the corresponding indicators using such funds.
+
+#### (e) Application to receive only approved national service positions
 
 #### (1) Applicability of subsection
 
 &emsp;This subsection shall apply in the case of an application in which—
 
-&emsp;&emsp;(A) the applicant is not seeking assistance under subsection (a) or (b) of section 12571 of this title, but requests national service educational awards for individuals serving in service positions described in section 12573 of this title; or
+&emsp;&emsp;(A) the applicant is not seeking assistance under section 12571(a) of this title, but requests national service educational awards for individuals serving in service positions described in section 12573 of this title; or
 
-&emsp;&emsp;(B) the applicant requests national service educational awards for service positions described in section 12573 of this title, but the positions are not positions in a national service program described in section 12572(a) of this title for which assistance may be provided under subsection (a) or (b) of section 12571 of this title.
+&emsp;&emsp;(B) the applicant requests national service educational awards for service positions described in section 12573 of this title, but the positions are not positions in a national service program described in subsection (a), (b), or (c) of section 12572 of this title for which assistance may be provided under section 12571(a) of this title.
 
 #### (2) Special application requirements
 
@@ -68,7 +82,7 @@ An application submitted under subsection (a) of this section shall contain the 
 
 &emsp;&emsp;(B) whether the Corporation should approve the positions as approved national service positions.
 
-#### (e) Special rule for State applicants
+#### (f) Special rule for State applicants
 
 #### (1) Submission by State Commission
 
@@ -76,33 +90,71 @@ An application submitted under subsection (a) of this section shall contain the 
 
 #### (2) Competitive selection
 
-&emsp;The application of a State shall contain an assurance that all assistance provided undersection 12571(a) of this title to the State will be used to support national service programs that were selected by the State on a competitive basis. In making such competitive selections, the State shall seek to ensure the equitable allocation within the State of assistance and approved national service positions provided under this division to the State taking into consideration such factors as the location of the programs applying to the State, population density, and economic distress.
+&emsp;The application of a State shall contain an assurance that all assistance provided under section 12571(a) of this title to the State will be used to support national service programs that were or will be selected by the State on a competitive basis. In making such competitive selections, the State shall seek to ensure the equitable allocation within the State of assistance and approved national service positions provided under this division to the State taking into consideration such factors as the location of the programs applying to the State, population density, and economic distress.
 
 #### (3) Assistance to non-State entities
 
 &emsp;The application of a State shall also contain an assurance that not less than 60 percent of the assistance will be used to make grants in support of national service programs other than national service programs carried out by a State agency. The Corporation may permit a State to deviate from the percentage specified by this subsection if the State has not received a sufficient number of acceptable applications to comply with the percentage.
 
-#### (f) Special rule for certain applicants
+#### (g) Special rule for certain applicants
 
 #### (1) Written concurrence
 
-&emsp;In the case of a program applicant that proposes to also serve as the service sponsor, the application shall include the written concurrence of any local labor organization representing employees of the service sponsor who are engaged in the same or substantially similar work as that proposed to be carried out.
+&emsp;In the case of an applicant that proposes to also serve as the service sponsor, the application shall include the written concurrence of any local labor organization representing employees of the service sponsor who are engaged in the same or substantially similar work as that proposed to be carried out.
 
-#### (2) “Program applicant” defined
+#### (2) Applicant defined
 
-&emsp;For purposes of this subsection, the term “program applicant” means—
+&emsp;For purposes of this subsection, the term “applicant” means—
 
-&emsp;&emsp;(A) a State, subdivision of a State, Indian tribe, public or private nonprofit organization, institution of higher education, or Federal agency submitting an application under this section; or
+&emsp;&emsp;(A) a State, subdivision of a State, territory, Indian tribe, public or private nonprofit organization, or institution of higher education submitting an application under this section; or
 
-&emsp;&emsp;(B) an entity applying for assistance or approved national service positions through a grant program conducted using assistance provided to a State, subdivision of a State, Indian tribe, public or private nonprofit organization, institution of higher education, or Federal agency under section 12571 of this title.
+&emsp;&emsp;(B) an entity applying for assistance or approved national service positions through a grant program conducted using assistance provided to a State, subdivision of a State, territory, Indian tribe, public or private nonprofit organization, or institution of higher education under section 12571 of this title.
 
-#### (g) Limitation on same project in multiple applications
+#### (h) Limitation on same project receiving multiple grants
 
-The Corporation shall reject an application submitted under this section if a project proposed to be conducted using assistance requested by the applicant is already described in another application pending before the Corporation.
+Unless specifically authorized by law, the Corporation may not provide more than 1 grantunder the national service laws for a fiscal year to support the same project under the national service laws.
 
-(Pub. L. 101–610, title I, §130, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 800.)
+(Pub. L. 101–610, title I, §130, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 800; amended Pub. L. 111–13, title I, §1308, Apr. 21, 2009, 123 Stat. 1505.)
 
 #### Prior Provisions
 
 A prior section 130 of Pub. L. 101–610 was renumbered section 199I and is classified to section 12655i of this title.
+
+#### Amendments
+
+2009—Subsec. (a). Pub. L. 111–13, §1308(1), substituted “section 12571(a)” for “section 12571”, inserted “territory,” after “assistance, a State,”, and substituted “or institution of higher education” for “institution of higher education, or Federal agency”.
+
+Subsec. (b)(9). Pub. L. 111–13, §1308(2)(A), substituted “section 12572(f)” for “section 12572(c)”.
+
+Subsec. (b)(12). Pub. L. 111–13, §1308(2)(B), inserted “municipalities and governments of counties in which such a community is located,” after “providing services,”.
+
+Subsec. (c)(1). Pub. L. 111–13, §1308(3)(A), substituted “proposed positions” for “jobs or positions” and a period for “, including descriptions of specific tasks to be performed by such participants.”
+
+Subsec. (c)(2). Pub. L. 111–13, §1308(3)(B), inserted “proposed” before “minimum”.
+
+Subsec. (c)(3). Pub. L. 111–13, §1308(3)(C), added par. (3).
+
+Subsec. (d). Pub. L. 111–13, §1308(5), added subsec. (d) and redesignated former subsec. (d) as (e).
+
+Subsec. (d)(1). Pub. L. 111–13, §1308(4), substituted “section 12571(a)” for “subsection (a) or (b) of section 12571” in subpars. (A) and (B) and “subsection (a), (b), or (c) of section 12572” for “section 12572(a)” in subpar. (B).
+
+Subsecs. (e), (f). Pub. L. 111–13, §1308(5), redesignated subsecs. (d) and (e) as (e) and (f), respectively. Former subsec. (f) redesignated (g).
+
+Subsec. (f)(2). Pub. L. 111–13, §1308(6), which directed substitution of “were or will be selected” for “were selected” in par. (2)(A), was executed by making the substitution in par. (2) to reflect the probable intent of Congress because par. (2) does not contain subpars.
+
+Subsec. (g). Pub. L. 111–13, §1308(5), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+
+Subsec. (g)(1). Pub. L. 111–13, §1308(7)(A), substituted “an applicant” for “a program applicant”.
+
+Subsec. (g)(2). Pub. L. 111–13, §1308(7)(B)(i), (ii), substituted “Applicant” for “Program applicant” in heading and “applicant” for “program applicant” in introductory provisions.
+
+Subsec. (g)(2)(A), (B). Pub. L. 111–13, §1308(7)(B)(iii), (iv), inserted “territory,” after “subdivision of a State,” and substituted “or institution of higher education” for “institution of higher education, or Federal agency”.
+
+Subsec. (h). Pub. L. 111–13, §1308(5), (8), redesignated subsec. (g) as (h) and amended subsec. (h) generally. Prior to amendment, text read as follows: “The Corporation shall reject an application submitted under this section if a project proposed to be conducted using assistance requested by the applicant is already described in another application pending before the Corporation.”
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
 

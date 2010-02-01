@@ -2,7 +2,7 @@
 
 #### (a) Establishment and operation
 
-During the period beginning 60 days after December 23, 1985, and ending on December 31, 2012,the Commodity Credit Corporation shall establish and operate an export incentive program as described in this section for dairy products under section 714c of this title.
+During the period beginning 60 days after December 23, 1985, and ending on December 31, 2012, the Commodity Credit Corporation shall establish and operate an export incentive program as described in this section for dairy products under section 714c of this title.
 
 #### (b) Payments to entity that sells for export United States dairy products; bid basis; criteria for acceptance or rejection of bids
 
@@ -46,7 +46,7 @@ The program shall be operated under such rules and regulations issued by the Sec
 
 #### (1) Funds and commodities
 
-&emsp;Except as provided in paragraph (2), the Commodity Credit Corporation shall in each year use money and commodities for the program under this section in the maximum amount consistent with the obligations of the United States under the Uruguay Round Agreements approved under section 3511 of title 19, minus the amount expended under section 1163 of this Act during that year.
+&emsp;Except as provided in paragraph (2), the Commodity Credit Corporation shall in eachyear use money and commodities for the program under this section in the maximum amount consistent with the obligations of the United States under the Uruguay Round Agreements approved under section 3511 of title 19, minus the amount expended under section 1163 of this Act during that year.
 
 #### (2) Volume limitations
 

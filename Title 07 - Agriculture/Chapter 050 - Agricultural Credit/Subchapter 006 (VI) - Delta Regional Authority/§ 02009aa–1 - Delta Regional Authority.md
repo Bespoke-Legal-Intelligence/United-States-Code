@@ -58,15 +58,9 @@
 
 #### (c) Voting
 
-#### (1) In general
+#### (1) In general—voting
 
-#### (A) Temporary method
-
-&emsp;&emsp;During the period beginning on May 13, 2002, and ending on December 31, 2008, a decision by the Authority shall require the affirmative vote of the Federal cochairperson and a majority of the State members (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.
-
-#### (B) Permanent method
-
-&emsp;&emsp;Effective beginning on January 1, 2009, a decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.
+&emsp;A decision by the Authority shall require the affirmative vote of the Federal cochairperson and a majority of the State members (not including any member representing a State that is delinquent under subsection (g)(2)(C)) to be effective.
 
 #### (2) Quorum
 
@@ -88,7 +82,7 @@
 
 #### (4) Voting by alternate members
 
-&emsp;An alternate member shall vote in the case of the absence, death, disability, removal, or resignation of the Federal or State representative for which the alternate member is an alternate.
+&emsp;An alternate member shall vote in the case of the absence, death, disability, removal, orresignation of the Federal or State representative for which the alternate member is an alternate.
 
 #### (d) Duties
 
@@ -204,7 +198,7 @@ A Federal agency shall—
 
 #### (B) No additional compensation
 
-&emsp;&emsp;No State member or alternate member shall receive any salary, or any contribution to or supplementation of salary from anysource other than the State for services provided by the member or alternate to the Authority.
+&emsp;&emsp;No State member or alternate member shall receive any salary, or any contribution to or supplementation of salary from any source other than the State for services provided by the member or alternate to the Authority.
 
 #### (4) Detailed employees
 
@@ -282,15 +276,25 @@ A Federal agency shall—
 
 The Authority may declare void any contract, loan, or grant of or by the Authority in relation to which the Authority determines that there has been a violation of any provision under subsection (h)(4) of this section, subsection (i) of this section, or sections 202 through 209 of title 18.
 
-(Pub. L. 87–128, title III, §382B, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–269; amended Pub. L. 107–171, title VI, §6027(a), (b), May 13, 2002, 116 Stat. 373; Pub. L. 108–447, div. C, title V, §506, Dec. 8, 2004, 118 Stat. 2963.)
+(Pub. L. 87–128, title III, §382B, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–269; amended Pub. L. 107–171, title VI, §6027(a), (b), May 13, 2002, 116 Stat. 373; Pub. L. 108–447, div. C, title V, §506, Dec. 8, 2004, 118 Stat. 2963; Pub. L. 111–85, title IV, §402, Oct. 28, 2009, 123 Stat. 2878.)
 
 #### Amendments
+
+2009—Subsec. (c)(1). Pub. L. 111–85, which directed amendment of section 382B(c) of the Delta Regional Authority Act of 2000 by adding par. (1) and striking out former par. (1), was executed to this section, which is section 382B of the Consolidated Farm and Rural Development Act, to reflect the probable intent of Congress. Prior to amendment, text read as follows:
+
+“(A)
+
+Temporary method.—During the period beginning on May 13, 2002, and ending on December 31, 2008, a decision by the Authority shall require the affirmative vote of the Federal cochairperson and a majority of the State members (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.
+
+“(B)
+
+Permanent method.—Effective beginning on January 1, 2009, a decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.”
 
 2004—Subsec. (c)(1)(A). Pub. L. 108–447, §506(1), substituted “2008” for “2004”.
 
 Subsec. (c)(1)(B). Pub. L. 108–447, §506(2), substituted “2009” for “2005”.
 
-2002—Subsec. (c)(1). Pub. L. 107–171, §6027(a), added par. (1) and struck out heading and text of former par.\(1). Text read as follows: “A decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.”
+2002—Subsec. (c)(1). Pub. L. 107–171, §6027(a), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.”
 
 Subsec. (e)(4). Pub. L. 107–171, §6027(b), substituted “, rules, and regulations” for “and rules”.
 

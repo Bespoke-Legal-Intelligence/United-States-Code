@@ -36,7 +36,7 @@ The funds appropriated by the Act of July 9, 1968 (82 Stat. 307), to pay the jud
 
 (2) The lands withdrawn by the Secretary pursuant to paragraph (1) of this subsection shall be located in the southeastern Alaska region and shall be of similar character and comparable value, to the extent possible, to those of the Chilkat Valley surrounding the village of Klukwan. Such withdrawal shall be made within six months of October 4, 1976, and the Village Corporation for the village of Klukwan shall select, within one year from the time that the withdrawal is made, and be conveyed, twenty-three thousand and forty acres. None of the lands withdrawn by the Secretary for selection by the Village Corporation for the village of Klukwan shall have been selected by, or be subject to an outstanding nomination for selection by, any other Native Corporation organized pursuant to this chapter, or located on Admiralty Island.
 
-(Pub. L. 92–203, §16, Dec. 18, 1971, 85 Stat. 705; Pub. L. 94–204, §§9, 10, Jan. 2, 1976, 89 Stat. 1150;Pub. L. 94–456, §1, Oct. 4, 1976, 90 Stat. 1934; Pub. L. 95–178, §1, Nov. 15, 1977, 91 Stat. 1369.)
+(Pub. L. 92–203, §16, Dec. 18, 1971, 85 Stat. 705; Pub. L. 94–204, §§9, 10, Jan. 2, 1976, 89 Stat. 1150; Pub. L. 94–456, §1, Oct. 4, 1976, 90 Stat. 1934; Pub. L. 95–178, §1, Nov. 15, 1977, 91 Stat. 1369.)
 
 #### References in Text
 

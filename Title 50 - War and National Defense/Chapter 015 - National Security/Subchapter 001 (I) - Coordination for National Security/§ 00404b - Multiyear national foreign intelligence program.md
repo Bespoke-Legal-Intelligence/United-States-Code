@@ -32,9 +32,9 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-<b>1999</b>—Subsec. (d)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+1999—Subsec. (d)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–106, §1502(c)(4)(B)(i), substituted “the congressional committees specified in subsection (d) of this section each year” for “the Committees on Armed Services and Appropriations of the Senate and the House of Representatives and the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives each year”.
+1996—Subsec. (a). Pub. L. 104–106, §1502(c)(4)(B)(i), substituted “the congressional committees specified in subsection (d) of this section each year” for “the Committees on Armed Services and Appropriations of the Senate and the House of Representatives and the SelectCommittee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives each year”.
 
 Subsec. (d). Pub. L. 104–106, §1502(c)(4)(B)(ii), added subsec. (d).
 

@@ -106,7 +106,7 @@ Intermodal equipment interchange agreement.—The term “intermodal equipment i
 
 &emsp;(3)
 
-Intermodal equipment provider.—The term “intermodal equipment provider” meansany person that interchanges intermodal equipment with a motor carrier pursuant to a written interchange agreement or has a contractual responsibility for the maintenance of the intermodal equipment.
+Intermodal equipment provider.—The term “intermodal equipment provider” means any person that interchanges intermodal equipment with a motor carrier pursuant to a written interchange agreement or has a contractual responsibility for the maintenance of the intermodal equipment.
 
 &emsp;(4)
 

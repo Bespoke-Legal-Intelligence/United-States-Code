@@ -134,7 +134,7 @@ In General.—Except as provided in section 261 \[amending this section and sect
 
 “(b)
 
-Date Described.—The date described in this subsection is the date on which the WTO Agreement (as defined in section 2(9) \[19 U.S.C. 3501(9)\]) enters into force with respect to the United States \[Jan. 1, 1995\].”
+Date Described.—The date described in this subsection is the date on which the WTO Agreement (asdefined in section 2(9) \[19 U.S.C. 3501(9)\]) enters into force with respect to the United States \[Jan. 1, 1995\].”
 
 #### Effective Date of 1988 Amendments
 
@@ -164,7 +164,7 @@ Prevention of Circumvention of Duties; Drawback.—The provisions of section 781
 
 “(e)
 
-Governmental Importations; Steel.—The amendments made by sections 1322 \[amending provisions set out as a note under section 2253 of this title\] and 1335 \[amending section 1677 of this title\] shall applywith respect to entries, and withdrawals from warehouse for consumption, that are liquidated on or after the date of enactment of this Act \[Aug. 23, 1988\].
+Governmental Importations; Steel.—The amendments made by sections 1322 \[amending provisions set out as a note under section 2253 of this title\] and 1335 \[amending section 1677 of this title\] shall apply with respect to entries, and withdrawals from warehouse for consumption, that are liquidated on or after the date of enactment of this Act \[Aug. 23, 1988\].
 
 “(f)
 
@@ -214,7 +214,7 @@ Functions of President under subsec. (b) of this section delegated to United Sta
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as anote under section 401 of Title 26, Internal Revenue Code.
 
 #### Investigations Pending on January 1, 1980
 
@@ -286,7 +286,7 @@ Effect of determination.—
 
 “(A) Affirmative determination.—Upon being notified by the Commission of an affirmative determination under paragraph (2), the administering authority shall terminate the waiver of imposition of countervailing duties for merchandise subject to the order, if any. The countervailing duty order under section 303 of the Tariff Act of 1930 \[section 1303 of this title\] which applies to that merchandise shall remain in effect until revoked, in whole or in part, under section 751(d) of such Act \[section 1675(d) of this title\].
 
-“(B) Negative determination.—Upon being notified by the Commission of a negative determination under paragraph (2), the administering authority shall revoke the countervailing duty order, and publish notice in the Federal Register of the revocation.
+“(B) Negative determination.—Upon being notified by the Commission of a negative determination under paragraph (2), the administering authorityshall revoke the countervailing duty order, and publish notice in the Federal Register of the revocation.
 
 “(b)
 

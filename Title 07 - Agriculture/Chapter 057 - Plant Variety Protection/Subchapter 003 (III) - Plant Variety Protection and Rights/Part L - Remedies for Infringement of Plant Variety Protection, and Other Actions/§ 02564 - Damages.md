@@ -4,7 +4,7 @@
 
 (b) When the damages are not determined by the jury, the court shall determine them. In either event the court may increase the damages up to three times the amount determined.
 
-(c) The court may receive expert testimony as an aid to the determination of damages or of what royalty would be reasonable under the circumstances.
+(c) The court may receive expert testimony as an aid to the determination of damages or ofwhat royalty would be reasonable under the circumstances.
 
 (d) As to infringement prior to, or resulting from a planting prior to, issuance of a certificate for the infringed variety, a court finding the infringer to have established innocent intentions, shall have discretion as to awarding damages.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;From amounts appropriated under section 1140e of this title, the Secretary may awardgrants, contracts, and cooperative agreements, on a competitive basis, to institutions of higher education to enable the institutions to carry out the activities under subsection (b).
+&emsp;From amounts appropriated under section 1140e of this title, the Secretary may award grants, contracts, and cooperative agreements, on a competitive basis, to institutions of higher education to enable the institutions to carry out the activities under subsection (b).
 
 #### (2) Awards for professional development and technical assistance
 

@@ -140,7 +140,7 @@ To be eligible to receive assistance under this part, a project shall advance ef
 
 #### (c) Financial criteria
 
-The Secretary shall not provide financial assistance under this part for a project unless therecipient documents to the satisfaction of the Secretary that—
+The Secretary shall not provide financial assistance under this part for a project unless the recipient documents to the satisfaction of the Secretary that—
 
 &emsp;(1) the recipient is financially responsible;
 
@@ -158,7 +158,7 @@ The Secretary shall provide financial assistance to projects that, as determined
 
 &emsp;&emsp;(A) to achieve overall cost reductions in the use of coal to generate useful forms of energy or chemical feedstocks;
 
-&emsp;&emsp;(B) to improve the competitiveness of coal among various forms of energy in order to maintain a diversity of fuel choices in the United States to meet electricity generation requirements; and
+&emsp;&emsp;(B) to improve the competitiveness of coal among various forms of energy in order to maintain a diversity of fuel choices in theUnited States to meet electricity generation requirements; and
 
 &emsp;&emsp;(C) to demonstrate methods and equipment that are applicable to 25 percent of the electricity generating facilities, using various types of coal, that use coal as the primary feedstock as of August 8, 2005.
 

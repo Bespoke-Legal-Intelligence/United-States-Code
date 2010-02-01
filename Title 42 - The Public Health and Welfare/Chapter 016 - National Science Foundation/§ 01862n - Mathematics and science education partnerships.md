@@ -10,7 +10,7 @@
 
 #### (2) Partnerships
 
-&emsp;(A) In order to be eligible to receive a grant under this subsection, an institution of higher education or eligible nonprofit organization (or consortium of such institutions or organizations) shall enter into a partnership with one or more local educational agencies that may also include the department, college, or program of education at an institution of higher education, a State educational agency, or one or more businesses.
+&emsp;(A) In order to be eligible to receive a grant under this subsection, an institution of highereducation or eligible nonprofit organization (or consortium of such institutions or organizations) shall enter into a partnership with one or more local educational agencies that may also include the department, college, or program of education at an institution of higher education, a State educational agency, or one or more businesses.
 
 &emsp;(B) A participating institution of higher education shall include mathematics, science, or engineering departments in the programs carried out through a partnership under this paragraph.
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(H) developing or adapting elementary school and secondary school mathematics and science curricular materials that incorporate contemporary research on the science of learning;
 
-&emsp;&emsp;(I) developing initiatives to increase and sustain the number, quality, and diversity of prekindergarten through grade 12 teachers of mathematics and science, including the useof induction programs, as defined in section 9813(h) of title 20, for teachers in their first 2 years of teaching, especially in underserved areas;
+&emsp;&emsp;(I) developing initiatives to increase and sustain the number, quality, and diversity of prekindergarten through grade 12 teachers of mathematics and science, including the use of induction programs, as defined in section 9813(h) of title 20, for teachers in their first 2 years of teaching, especially in underserved areas;
 
 &emsp;&emsp;(J) using mathematicians, scientists, and engineers employed by private businesses to help recruit and train mathematics and science teachers;
 
@@ -218,7 +218,7 @@
 
 #### (5) Technical assistance
 
-&emsp;At the request of an eligible partnership or a State educational agency, the Director shall provide the partnership or agency with technical assistance in meeting any requirements of this section, including providing advice from experts on how to develop—
+&emsp;At the request of an eligible partnership or a State educational agency, the Director shallprovide the partnership or agency with technical assistance in meeting any requirements of this section, including providing advice from experts on how to develop—
 
 &emsp;&emsp;(A) a quality application for a grant; and
 
@@ -262,7 +262,7 @@ Subsec. (b)(2)(E) to (G). Pub. L. 110–69, §7028(7), added subpar. (E) and red
 
 Subsec. (c)(2). Pub. L. 110–69, §7028(8), added par. (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows:
 
-“(A) The results of the evaluation required under paragraph (1) shall be made available to the public and shall be provided to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, andthe Committee on Health, Education, Labor, and Pensions of the Senate.
+“(A) The results of the evaluation required under paragraph (1) shall be made available to the public and shall be provided to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate.
 
 “(B) Materials developed under the program established under subsection (a) of this section that are demonstrated to be effective shall be made widely available to the public.”
 
@@ -366,7 +366,7 @@ Master teacher.—The term ‘master teacher’ means a mathematics or science t
 
 &emsp;“(12)
 
-National research facility.—The term ‘national research facility’ means a research facilityfunded by the Foundation which is available, subject to appropriate policies allocating access, for use by all scientists and engineers affiliated with research institutions located in the United States.
+National research facility.—The term ‘national research facility’ means a research facility funded by the Foundation which is available, subject to appropriate policies allocating access, for use by all scientists and engineers affiliated with research institutions located in the United States.
 
 &emsp;“(13)
 

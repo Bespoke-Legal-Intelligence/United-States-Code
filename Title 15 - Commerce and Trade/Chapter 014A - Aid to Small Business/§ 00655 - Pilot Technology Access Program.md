@@ -16,7 +16,7 @@ The Administrator of the Small Business Administration shall establish competiti
 
 #### (c) Matching requirement
 
-To be eligible to receive an award under this section, an applicant shall provide a matchingcontribution at least equal to that received under such award, not more than 50 percent of which may be waived overhead or in-kind contributions.
+To be eligible to receive an award under this section, an applicant shall provide a matching contribution at least equal to that received under such award, not more than 50 percent of which may be waived overhead or in-kind contributions.
 
 #### (d) Purpose of awards
 
@@ -48,7 +48,7 @@ There are authorized to be appropriated to the Small Business Administration $5 
 
 #### (i) Funding from other sources; employment of Centers by Federal agencies
 
-Centers are encouraged to seek funding from Federal and non-Federal sources other than those provided for in this section to assist small businesses in the identification of appropriate technologies to fill their needs, the transfer of technologies from Federal laboratories, public and private universities, and other public and private institutions, the analysis of commercial opportunities represented by such technologies, and such other functions as the development, business planning, market research, and financial packaging required for commercialization. Insofar as such Centers pursue these activities, Federal agencies are encouraged to employ these Centers to interface with small businesses for such purposes as facilitating small business participation in Federal procurement and fostering commercialization of Federally-funded research and development.
+Centers are encouraged to seek funding from Federal and non-Federal sources other than those provided for in this section to assist small businesses in the identification of appropriate technologies to fill their needs, the transfer of technologies from Federal laboratories, public and private universities, and other public andprivate institutions, the analysis of commercial opportunities represented by such technologies, and such other functions as the development, business planning, market research, and financial packaging required for commercialization. Insofar as such Centers pursue these activities, Federal agencies are encouraged to employ these Centers to interface with small businesses for such purposes as facilitating small business participation in Federal procurement and fostering commercialization of Federally-funded research and development.
 
 (Pub. L. 85–536, §2\[28\], as added Pub. L. 102–140, title VI, §609(d), Oct. 28, 1991, 105 Stat. 825.)
 

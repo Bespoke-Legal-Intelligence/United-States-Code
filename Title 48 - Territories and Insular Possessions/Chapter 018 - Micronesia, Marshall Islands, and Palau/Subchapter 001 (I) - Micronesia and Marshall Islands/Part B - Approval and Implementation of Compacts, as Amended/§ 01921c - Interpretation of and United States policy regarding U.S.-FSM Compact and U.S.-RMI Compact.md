@@ -152,10 +152,6 @@ It is the sense of Congress that not less than 30 percent of the United States a
 
 &emsp;During the year of the fifth, tenth, and fifteenth anniversaries of December 17, 2003, the Government of the United States shall review the terms of the respective Compacts and consider the overall nature and development of the U.S.-FSM and U.S.-RMI relationships including the topics set forth in subparagraphs (A) through (E) of paragraph (1). In conducting the reviews, the Government of the United States shall consider the operating requirements of the Government of the Federated States of Micronesia and the Government of the Republic of the Marshall Islands and their progress in meeting the development objectives set forth in their respective development plans. The President shall include in the annual reports to Congress for the years following the reviews the comments of the Government of the Federated States of Micronesia and the Government of the Republic of the Marshall Islands on the topics described in this paragraph, the President's response to the comments, the findings resulting from the reviews, and any recommendations for actions to respond to such findings.
 
-#### (3) By the Comptroller General
-
-&emsp;Not later than the date that is three years after December 17, 2003, and every 5 years thereafter, the Comptroller General of the United States shall submit to Congress a report on the Federated States of Micronesia and the Republic of the Marshall Islands including the topics set forth in paragraphs (1) (A) through (E) above, and on the effectiveness of administrative oversight by the United States.
-
 #### (i) Construction of section 141(f)
 
 Section 141(f)(2) of the Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Federated States of Micronesia and of the Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Republic of the Marshall Islands, shall be construed as though, after “may by regulations prescribe”, there were included the following: “, except that any such regulations that would have a significant effect on the admission, stay and employment privileges provided under this section shall not become effective until 90 days after the date of transmission of the regulations to the Committee on Energy and Natural Resources and the Committee on the Judiciary of the Senate and the Committee on Resources, the Committee on International Relations, and the Committee on the Judiciary of the House of Representatives”.
@@ -168,7 +164,7 @@ As of Fiscal Year 2015, if the United States Gross Domestic Product Implicit Pri
 
 In furtherance of the provisions of Title Three, Article IV, Section 341 of the U.S.-FSM and the U.S.-RMI Compacts, the purpose of which is to establish the privilege to volunteer for service in the U.S. Armed Forces, it is the sense of Congress that, to facilitate eligibility of FSM and RMI secondary school students to qualify for such service, the Department of Defense may extend the Armed Services Vocational Aptitude Battery (ASVAB) Student Testing Program (STP) and the ASVAB Career Exploration Program to selected secondary Schools in the FSM and the RMI to the extent such programs are available to Department of Defense Dependent Schools located in foreign jurisdictions.
 
-(Pub. L. 108–188, title I, §104, Dec. 17, 2003, 117 Stat. 2737; Pub. L. 110–229, title VIII, §806(a)(2), May 8, 2008, 122 Stat. 871.)
+(Pub. L. 108–188, title I, §104, Dec. 17, 2003, 117 Stat. 2737; Pub. L. 110–229, title VIII, §806(a)(2), May 8, 2008, 122 Stat. 871; Pub. L. 111–68, div. A, title I, §1501(c), Oct. 1, 2009, 123 Stat. 2041.)
 
 #### References in Text
 
@@ -189,6 +185,8 @@ The Compact of Free Association, as amended, between the Government of the Unite
 The enactment of this resolution, referred to in subsec. (h)(1), is the enactment of Pub. L. 108–188, which was approved Dec. 17, 2003.
 
 #### Amendments
+
+2009—Subsec. (h)(3). Pub. L. 111–68 struck out par. (3). Text read as follows: “Not later than the date that is three years after December 17, 2003, and every 5 years thereafter, the Comptroller General of the United States shall submit to Congress a report on the Federated States of Micronesia and the Republic of the Marshall Islands including the topics set forth in paragraphs (1) (A) through (E) above, and on the effectiveness of administrative oversight by the United States.”
 
 2008—Subsec. (b)(1). Pub. L. 110–229, §806(a)(2)(A), inserted “the” before “U.S.-RMI Compact,”.
 

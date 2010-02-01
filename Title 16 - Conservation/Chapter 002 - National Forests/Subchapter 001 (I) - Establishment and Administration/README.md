@@ -164,3 +164,5 @@
 - [&sect; 00539m&#8211;10 - Judicial review](%C2%A7%2000539m%E2%80%9310%20-%20Judicial%20review.md)
 - [&sect; 00539m&#8211;11 - Provisions relating to contributions and land exchange](%C2%A7%2000539m%E2%80%9311%20-%20Provisions%20relating%20to%20contributions%20and%20land%20exchange.md)
 - [&sect; 00539m&#8211;12 - Authorization of appropriations](%C2%A7%2000539m%E2%80%9312%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00539n - Crystal Springs Watershed Special Resources Management Unit](%C2%A7%2000539n%20-%20Crystal%20Springs%20Watershed%20Special%20Resources%20Management%20Unit.md)
+- [&sect; 00539o - Ancient Bristlecone Pine Forest](%C2%A7%2000539o%20-%20Ancient%20Bristlecone%20Pine%20Forest.md)

@@ -6,7 +6,7 @@ If the value of the aggregate foreign gifts received by a United States person (
 
 #### (b) Foreign gift
 
-For purposes of this section, the term “foreign gift” means any amount received from a person other than a United States person which the recipient treats as a gift or bequest. Such termshall not include any qualified transfer (within the meaning of section 2503(e)(2)) or any distribution properly disclosed in a return under section 6048(c).
+For purposes of this section, the term “foreign gift” means any amount received from a person other than a United States person which the recipient treats as a gift or bequest. Such term shall not include any qualified transfer (within the meaning of section 2503(e)(2)) or any distribution properly disclosed in a return under section 6048(c).
 
 #### (c) Penalty for failure to file information
 

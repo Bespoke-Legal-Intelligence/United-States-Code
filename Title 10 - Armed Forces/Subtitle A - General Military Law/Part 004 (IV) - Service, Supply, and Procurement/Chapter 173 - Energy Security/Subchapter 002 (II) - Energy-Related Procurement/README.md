@@ -9,8 +9,13 @@
 | [2922d.](%C2%A7%2002922d%20-%20Procurement%20of%20fuel%20derived%20from%20coal%2C%20oil%20shale%2C%20and%20tar%20sands.md) | Procurement of fuel derived from coal, oil shale, and tar sands. |
 | [2922e.](%C2%A7%2002922e%20-%20Acquisition%20of%20certain%20fuel%20sources%20authority%20to%20waive%20contract%20procedures%3B%20acquisition%20by%20exchange%3B%20sales%20authority.md) | Acquisition of certain fuel sources: authority to waive contract procedures; acquisition by exchange; sales authority. |
 | [2922f.](%C2%A7%2002922f%20-%20Preference%20for%20energy%20efficient%20electric%20equipment.md) | Preference for energy efficient electric equipment. |
+| [2922g.](%C2%A7%2002922g%20-%20Preference%20for%20motor%20vehicles%20using%20electric%20or%20hybrid%20propulsion%20systems.md) | Preference for motor vehicles using electric or hybrid propulsion systems. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+2009—Pub. L. 111–84, div. B, title XXVIII, §2844(b), Oct. 28, 2009, 123 Stat. 2682, added item 2922g.
 
 
 ---
@@ -24,3 +29,4 @@
 - [&sect; 02922d - Procurement of fuel derived from coal, oil shale, and tar sands](%C2%A7%2002922d%20-%20Procurement%20of%20fuel%20derived%20from%20coal%2C%20oil%20shale%2C%20and%20tar%20sands.md)
 - [&sect; 02922e - Acquisition of certain fuel sources authority to waive contract procedures; acquisition by exchange; sales authority](%C2%A7%2002922e%20-%20Acquisition%20of%20certain%20fuel%20sources%20authority%20to%20waive%20contract%20procedures%3B%20acquisition%20by%20exchange%3B%20sales%20authority.md)
 - [&sect; 02922f - Preference for energy efficient electric equipment](%C2%A7%2002922f%20-%20Preference%20for%20energy%20efficient%20electric%20equipment.md)
+- [&sect; 02922g - Preference for motor vehicles using electric or hybrid propulsion systems](%C2%A7%2002922g%20-%20Preference%20for%20motor%20vehicles%20using%20electric%20or%20hybrid%20propulsion%20systems.md)

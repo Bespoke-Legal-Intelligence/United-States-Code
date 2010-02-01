@@ -120,7 +120,7 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 #### (5) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to carry out subsection (a)(2)(C) of this section $3,000,000 for each of fiscal years 2004 through 2008.
+&emsp;There is authorized to be appropriated to carry out subsection (a)(2)(C) of this section$3,000,000 for each of fiscal years 2004 through 2008.
 
 #### (f) Plant declarations
 

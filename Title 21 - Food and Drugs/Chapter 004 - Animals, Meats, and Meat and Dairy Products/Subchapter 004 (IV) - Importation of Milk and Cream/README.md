@@ -2,7 +2,7 @@
 
 #### Federal Food, Drug, and Cosmetic Act
 
-By virtue of act June 25, 1938, ch. 675, §902(c), 52 Stat. 1059 \[section 392(b) of this title\], nothing contained in section 301 et seq. of this title shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of this subchapter.
+Nothing contained in chapter 9 (§301 et seq.) of this title shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of this subchapter, see section 392(b) of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Liens”.</i>
 

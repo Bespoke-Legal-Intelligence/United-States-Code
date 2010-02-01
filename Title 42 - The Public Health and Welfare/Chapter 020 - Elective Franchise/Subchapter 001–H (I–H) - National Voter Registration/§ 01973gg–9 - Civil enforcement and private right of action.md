@@ -26,5 +26,5 @@ In a civil action under this section, the court may allow the prevailing party (
 
 #### References in Text
 
-The Voting Rights Act of 1965, referred to in subsec. (d), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, as amended, which is classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb etseq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of this title and Tables.
+The Voting Rights Act of 1965, referred to in subsec. (d), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, as amended, which is classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of this title and Tables.
 

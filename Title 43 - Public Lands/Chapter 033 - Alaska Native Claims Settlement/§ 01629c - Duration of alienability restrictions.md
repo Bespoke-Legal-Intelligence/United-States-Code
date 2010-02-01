@@ -86,7 +86,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 > shall notify the Corporation within ninety days of the date of the vote of the shareholders on the amendment of his or her desire.
 
-(B) Within one hundred and twenty days after the date of the vote described in subparagraph\(A), the board of directors shall approve a resolution to provide that each shareholder who has notified the corporation pursuant to subparagraph (A) shall receive either—
+(B) Within one hundred and twenty days after the date of the vote described in subparagraph (A), the board of directors shall approve a resolution to provide that each shareholder who has notified the corporation pursuant to subparagraph (A) shall receive either—
 
 &emsp;(i) alienable common stock in exchange for his or her Settlement Common Stock pursuant to paragraph (6), or
 

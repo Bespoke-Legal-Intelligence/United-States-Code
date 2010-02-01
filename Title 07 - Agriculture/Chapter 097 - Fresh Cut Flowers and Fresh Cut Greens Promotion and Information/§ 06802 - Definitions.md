@@ -148,7 +148,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;The term “retailer” includes a distribution center that is—
 
-&emsp;&emsp;&emsp;&emsp;(I) owned or controlled by a person described in subparagraph (A), or owned or controlled cooperatively by a group of the persons, if the predominant retail business activity of the person is not floral sales; or
+&emsp;&emsp;&emsp;&emsp;(I) owned or controlled by a person described in subparagraph (A), or owned or controlled cooperatively by a group of the persons, if the predominant retailbusiness activity of the person is not floral sales; or
 
 &emsp;&emsp;&emsp;&emsp;(II) independently owned but operated primarily to provide food products to retail stores.
 
@@ -172,5 +172,5 @@ As used in this chapter:
 
 #### References in Text
 
-For ratification of Compact of Free Association with the Republic of Palau, referred to in par. (12), see Proc.No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
+For ratification of Compact of Free Association with the Republic of Palau, referred to in par. (12), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 

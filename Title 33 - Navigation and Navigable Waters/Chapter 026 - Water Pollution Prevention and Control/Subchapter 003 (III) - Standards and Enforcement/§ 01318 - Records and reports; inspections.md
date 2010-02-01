@@ -8,7 +8,7 @@ Whenever required to carry out the objective of this chapter, including but not 
 
 &emsp;(B) the Administrator or his authorized representative (including an authorized contractor acting as a representative of the Administrator), upon presentation of his credentials—
 
-&emsp;&emsp;(i) shall have a right of entry to, upon, or through any premises in which an effluent source is located or in which any records required to be maintained under clause (A) of this subsection are located, and
+&emsp;&emsp;(i) shall have a right of entry to, upon, or through any premises in which an effluentsource is located or in which any records required to be maintained under clause (A) of this subsection are located, and
 
 &emsp;&emsp;(ii) may at reasonable times have access to and copy any records, inspect any monitoring equipment or method required under clause (A), and sample any effluents which the owner or operator of such source is required to sample under such clause.
 

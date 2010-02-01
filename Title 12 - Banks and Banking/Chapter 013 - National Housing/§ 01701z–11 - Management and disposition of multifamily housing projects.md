@@ -98,7 +98,7 @@ For purposes of this section:
 
 #### (1) Disposition to purchasers
 
-&emsp;In carrying out this section, the Secretary may dispose of a multifamily housing project owned by the Secretary on a negotiated, competitive bid, or other basis, on such terms asthe Secretary deems appropriate considering the low-income character of the project and consistent with the goals in subsection (a) of this section, only to a purchaser determined by the Secretary to be capable of—
+&emsp;In carrying out this section, the Secretary may dispose of a multifamily housing project owned by the Secretary on a negotiated, competitive bid, or other basis, on such terms as the Secretary deems appropriate considering the low-income character of the project and consistent with the goals in subsection (a) of this section, only to a purchaser determined by the Secretary to be capable of—
 
 &emsp;&emsp;(A) satisfying the conditions of the disposition plan developed under paragraph (2) for the project;
 
@@ -150,7 +150,7 @@ For purposes of this section:
 
 &emsp;In carrying out this section, the Secretary may—
 
-&emsp;&emsp;(A) contract for management services for a multifamily housing project that is owned by the Secretary (or for which the Secretary is mortgagee in possession) with for-profit and nonprofit entities and public agencies (including public housing authorities) on a negotiated, competitive bid, or other basisat a price determined by the Secretary to be reasonable, with a manager the Secretary has determined is capable of—
+&emsp;&emsp;(A) contract for management services for a multifamily housing project that is owned by the Secretary (or for which the Secretary is mortgagee in possession) with for-profit and nonprofit entities and public agencies (including public housing authorities) on a negotiated, competitive bid, or other basis at a price determined by the Secretary to be reasonable, with a manager the Secretary has determined is capable of—
 
 &emsp;&emsp;&emsp;(i) implementing a sound financial and physical management program that is designed to enable the project to meet anticipated operating and maintenance expenses to ensure that the project will remain in decent, safe, and sanitary condition and in compliance with any standards under applicable State or local laws, rules, ordinances, or regulations relating to the physical condition of the project and any such standards established by the Secretary;
 
@@ -182,7 +182,7 @@ In disposing of multifamily housing property under this section, consistent with
 
 #### (1) Contract with owner for project-based assistance
 
-&emsp;In the case of multifamily housing projects that are acquired by a purchaser other than the Secretary at foreclosure or after sale by the Secretary, the Secretary may enter into contracts under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] (to the extent budget authority is available) with owners of the projects, subject to the following requirements:
+&emsp;In the case of multifamily housing projects that are acquired by a purchaser other than the Secretary at foreclosure or after sale by the Secretary, the Secretary may enter into contracts under section 8 of the United StatesHousing Act of 1937 \[42 U.S.C. 1437f\] (to the extent budget authority is available) with owners of the projects, subject to the following requirements:
 
 #### (A) Subsidized or formerly subsidized projects receiving mortgage-related assistance
 
@@ -268,7 +268,7 @@ In disposing of multifamily housing property under this section, consistent with
 
 #### (B) Very low-income tenants
 
-&emsp;&emsp;If, as a result of actions taken pursuant to this paragraph, the rents charged to any very low-income families residing in the project who are otherwise required (pursuant to subparagraph (A), (B), or (D) of paragraph (1)) to receive project-based assistance undersection 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] exceed the amount payable as rent under section 3(a) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(a)\], the Secretary shall provide tenant-based assistance under section 8 of such Act to such families.
+&emsp;&emsp;If, as a result of actions taken pursuant to this paragraph, the rents charged to any very low-income families residing in the project who are otherwise required (pursuant to subparagraph (A), (B), or (D) of paragraph (1)) to receive project-based assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] exceed the amount payable as rent under section 3(a) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(a)\], the Secretary shall provide tenant-based assistance under section 8 of such Act to such families.
 
 #### (f) Discretionary assistance
 
@@ -296,7 +296,7 @@ In addition to the actions required under subsection (e) of this section for a s
 
 #### (4) Up-front grants
 
-&emsp;If the Secretary determines that action under this paragraph is more cost-effective than establishing rents pursuant to subsection (h)(2) of this section, the Secretary may utilize the budget authority provided for contracts issued under this section for project-based assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] to (in addition to providing project-based section 8 rental assistance) provide up-front grants for the necessary cost of rehabilitation and other related development costs. This paragraph shall be effective during fiscal years 2006 through 2010 only to the extent that such budget authority is made available for use under this paragraph in advance in appropriation Acts.
+&emsp;If the Secretary determines that action under this paragraph is more cost-effective than establishing rents pursuant to subsection (h)(2) of this section, the Secretary may utilize the budget authority provided for contracts issued under this section for project-based assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] to (in addition to providing project-based section 8 rental assistance) provide up-front grants forthe necessary cost of rehabilitation and other related development costs. This paragraph shall be effective during fiscal years 2006 through 2010 only to the extent that such budget authority is made available for use under this paragraph in advance in appropriation Acts.
 
 #### (5) Tenant-based assistance
 
@@ -328,7 +328,7 @@ In addition to the actions required under subsection (e) of this section for a s
 
 &emsp;&emsp;&emsp;(i) to a public housing agency for use of the project as public housing; or
 
-&emsp;&emsp;&emsp;(ii) to an entity eligible to own or operate housing assisted under section 1701q of this title or under section 811 of the Cranston-Gonzalez National Affordable HousingAct \[42 U.S.C. 8013\] for use as supportive housing under either of such sections.
+&emsp;&emsp;&emsp;(ii) to an entity eligible to own or operate housing assisted under section 1701q of this title or under section 811 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 8013\] for use as supportive housing under either of such sections.
 
 #### (B) Requirements for agreement
 
@@ -490,7 +490,7 @@ Not later than June 1 of each year, the Secretary shall submit to the Congress a
 
 &emsp;(14) a description of the activities carried out under subsection (i) of this section during the preceding year.
 
-(Pub. L. 95–557, title II, §203, Oct. 31, 1978, 92 Stat. 2088; Pub. L. 96–153, title II, §208, Dec. 21, 1979, 93 Stat. 1109; Pub. L. 96–399, title II, §213, Oct. 8, 1980, 94 Stat. 1636; Pub. L. 100–242, title I, §181, Feb. 5, 1988, 101 Stat. 1868; Pub. L. 100–628, title X, §1010, Nov. 7, 1988, 102 Stat. 3266; Pub. L. 101–235, title II, §204(a), Dec. 15, 1989, 103 Stat. 2039; Pub. L. 101–625, title V, §579, Nov. 28, 1990, 104 Stat. 4245; Pub. L. 103–120, §6(c)(2), Oct. 27, 1993, 107 Stat. 1149; Pub. L. 103–233, title I, §101(b), Apr. 11, 1994, 108 Stat. 343; Pub. L. 105–276, title V, §514(b)(2)(C), Oct. 21, 1998, 112 Stat. 2548; Pub. L. 109–171, title II, §2003(b), Feb. 8, 2006, 120 Stat. 9.)
+(Pub. L. 95–557, title II, §203, Oct. 31, 1978, 92 Stat. 2088; Pub. L. 96–153, title II, §208, Dec. 21,1979, 93 Stat. 1109; Pub. L. 96–399, title II, §213, Oct. 8, 1980, 94 Stat. 1636; Pub. L. 100–242, title I, §181, Feb. 5, 1988, 101 Stat. 1868; Pub. L. 100–628, title X, §1010, Nov. 7, 1988, 102 Stat. 3266; Pub. L. 101–235, title II, §204(a), Dec. 15, 1989, 103 Stat. 2039; Pub. L. 101–625, title V, §579, Nov. 28, 1990, 104 Stat. 4245; Pub. L. 103–120, §6(c)(2), Oct. 27, 1993, 107 Stat. 1149; Pub. L. 103–233, title I, §101(b), Apr. 11, 1994, 108 Stat. 343; Pub. L. 105–276, title V, §514(b)(2)(C), Oct. 21, 1998, 112 Stat. 2548; Pub. L. 109–171, title II, §2003(b), Feb. 8, 2006, 120 Stat. 9.)
 
 #### References in Text
 
@@ -512,7 +512,7 @@ Section 6(c)(4)(A) of the United States Housing Act of 1937, referred to in subs
 
 Section 6 of the HUD Demonstration Act of 1993, referred to in subsec. (h)(1)(B)(i), is section 6 of Pub. L. 103–120, which is set out as a note under section 1437f of Title 42.
 
-The United States Housing Act of 1937, as amended, referred to in subsec. (j)(2)(C), is act Sept. 1, 1937, ch.896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, as amended, referred to in subsec. (j)(2)(C), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
 #### Codification
 
@@ -568,7 +568,7 @@ Subsec. (g). Pub. L. 100–242, §181(d)(1), (e)(1), redesignated former subsec.
 
 Subsec. (h). Pub. L. 100–242, §181(d)(1), (e)(1), (g), added subsec. (h).
 
-Subsec. (i). Pub. L. 100–628, §1010(d), (e), substituted “(excluding payments made for certificates under subsection (b)(1) or vouchers under subsection (<i>o</i>) of thissection), if (except for purposes of paragraphs (1) and (2) of subsection (h) of this section), and section 183(c) of the Housing and Community Development Act of 1987) such housing assistance payments are made to more than 50 percent of the units in the project” for “(other than subsection (b)(1) of such section), without regard to whether such payments are made to all or a portion of the units in the project” in par. (2) (E) and added par. (4).
+Subsec. (i). Pub. L. 100–628, §1010(d), (e), substituted “(excluding payments made for certificates under subsection (b)(1) or vouchers under subsection (<i>o</i>) of this section), if (except for purposes of paragraphs (1) and (2) of subsection (h) of this section), and section 183(c) of the Housing and Community Development Act of 1987) such housing assistance payments are made to more than 50 percent of the units in the project” for “(other than subsection (b)(1) of such section), without regard to whether such payments are made to all or a portion of the units in the project” in par. (2) (E) and added par. (4).
 
 Pub. L. 100–242, §181(e)(1), (g)(1), (h), redesignated former subsec. (f) as (i), designated existing provisions as par. (1), and added pars. (2) and (3).
 
@@ -638,7 +638,7 @@ Applicability.—This section shall not apply to any transaction that formally c
 
 Section 101(a) of Pub. L. 103–233 provided that: “The Congress finds that—
 
-&emsp;“(1) the portfolio of multifamily housing project mortgages insured by the FHA is severely troubledand at risk of default, requiring the Secretary to increase loss reserves from $5,500,000,000 in 1991 to $11,900,000,000 in 1992 to cover estimated future losses;
+&emsp;“(1) the portfolio of multifamily housing project mortgages insured by the FHA is severely troubled and at risk of default, requiring the Secretary to increase loss reserves from $5,500,000,000 in 1991 to $11,900,000,000 in 1992 to cover estimated future losses;
 
 &emsp;“(2) the inventory of multifamily housing projects owned by the Secretary has more than quadrupled since 1989, and, by the end of 1994, may exceed 69,000 units;
 

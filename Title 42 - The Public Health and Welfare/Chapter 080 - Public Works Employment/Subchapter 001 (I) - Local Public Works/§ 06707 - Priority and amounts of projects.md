@@ -14,7 +14,7 @@ The Secretary shall allocate funds appropriated after May 13, 1977, under sectio
 
 (1) In making grants under this chapter, the Secretary shall give priority and preference to public works projects of local governments.
 
-(2) In making grants for projects for construction, renovation, repair, or other improvement of buildings, the Secretary shall also give consideration as between such building projects tothose projects which will result in conserving energy, including, but not limited to, projects to redesign and retrofit existing public facilities for energy conservation purposes, and projects using alternative energy systems.
+(2) In making grants for projects for construction, renovation, repair, or other improvement of buildings, the Secretary shall also give consideration as between such building projects to those projects which will result in conserving energy, including, but not limited to, projects to redesign and retrofit existing public facilities for energy conservation purposes, and projects using alternative energy systems.
 
 (3) In making grants under this chapter, the Secretary shall also give priority and preference to any public works project requested by a State or by a special purpose unit of local government which is endorsed by a general purpose local government within such State.
 
@@ -36,7 +36,7 @@ The unemployment rate of a local government shall, for the purposes of this chap
 
 #### (g) Criteria for requests
 
-States and local governments making application under this chapter should (1) relate their specific requests to existing approved plans and programs of a local community development or regional development nature so as to avoid harmful or costly inconsistencies or contradictions; and (2) where feasible, make requests which, although capable of early initiation, will promote or advance longer range plans and programs.
+States and local governments making application under this chapter should (1) relate theirspecific requests to existing approved plans and programs of a local community development or regional development nature so as to avoid harmful or costly inconsistencies or contradictions; and (2) where feasible, make requests which, although capable of early initiation, will promote or advance longer range plans and programs.
 
 #### (h) Applications not submitted on or before December 23, 1976; grants prohibited; exceptions
 

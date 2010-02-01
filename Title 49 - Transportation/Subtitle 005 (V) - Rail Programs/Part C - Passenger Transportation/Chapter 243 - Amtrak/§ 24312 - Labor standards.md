@@ -2,7 +2,7 @@
 
 (a)
 
-Prevailing Wages and Health and Safety Standards.—Amtrak shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed under an agreement made under section 24308(a)of this title will be paid wages not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under sections 3141–3144, 3146, and 3147 of title 40. Amtrak may make such an agreement only after being assured that required labor standards will be maintained on the construction work. Health and safety standards prescribed by the Secretary under section 3704 of title 40 apply to all construction work performed under such an agreement, except for construction work performed by a rail carrier.
+Prevailing Wages and Health and Safety Standards.—Amtrak shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed under an agreement made under section 24308(a) of this title will be paid wages not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under sections 3141–3144, 3146, and 3147 of title 40. Amtrak may make such an agreement only after being assured that required labor standards will be maintained on the construction work. Health and safety standards prescribed by the Secretary under section 3704 of title 40 apply to all construction work performed under such an agreement, except for construction work performed by a rail carrier.
 
 (b)
 
@@ -76,7 +76,7 @@ Contracting out.—Any collective bargaining agreement entered into between Amtr
 
 &emsp;“(2)
 
-Enforceability of amendment.—The amendment to any such collective bargaining agreement deemed to be made by paragraph (1) of this subsection is binding on all parties to the agreement and has the same effect as if arrived at by agreement of the parties under the Railway Labor Act \[45 U.S.C. 151 et seq.\].
+Enforceability of amendment.—The amendment to any such collective bargaining agreement deemed to be made by paragraph (1) of this subsectionis binding on all parties to the agreement and has the same effect as if arrived at by agreement of the parties under the Railway Labor Act \[45 U.S.C. 151 et seq.\].
 
 “(c)
 

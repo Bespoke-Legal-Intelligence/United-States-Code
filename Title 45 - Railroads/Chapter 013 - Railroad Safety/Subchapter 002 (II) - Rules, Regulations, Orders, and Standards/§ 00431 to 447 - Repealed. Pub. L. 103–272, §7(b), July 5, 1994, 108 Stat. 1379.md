@@ -6,7 +6,7 @@ Section 432, Pub. L. 91–458, title II, §203, Oct. 16, 1970, 84 Stat. 972; Pub
 
 Section 433, Pub. L. 91–458, title II, §204, Oct. 16, 1970, 84 Stat. 972, required Secretary of Transportation to submit comprehensive study and recommendation of means of eliminating and protecting railroad grade crossings and protecting pedestrians. See section 20134 of Title 49.
 
-Section 434, Pub. L. 91–458, title II, §205, Oct. 16, 1970, 84 Stat. 972, declared that laws, rules, regulations, orders, and standards relating to railroad safety were tobe nationally uniform, but permitted more stringent yet compatible State regulation. See section 20106 of Title 49.
+Section 434, Pub. L. 91–458, title II, §205, Oct. 16, 1970, 84 Stat. 972, declared that laws, rules, regulations, orders, and standards relating to railroad safety were to be nationally uniform, but permitted more stringent yet compatible State regulation. See section 20106 of Title 49.
 
 Section 435, Pub. L. 91–458, title II, §206, Oct. 16, 1970, 84 Stat. 972; Pub. L. 96–423, §4, Oct. 10, 1980, 94 Stat. 1812; Pub. L. 101–615, §28(a)–(d), Nov. 16, 1990, 104 Stat. 3276, 3277, related to investigative and surveillance activities by State in connection with any rule, regulation, order, or standard related to railroad safety prescribed by Secretary of Transportation. See sections 20105, 20111, and 20117 of Title 49.
 

@@ -37,7 +37,7 @@
 
 1987—Pub. L. 100–26, §7(h)(2)(B), Apr. 21, 1987, 101 Stat. 282, substituted colon for semicolon and “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” in item 1403.
 
-1986—Pub. L. 99–348, title III, §304(b)(2), July 1, 1986, 100 Stat. 703, inserted “of members who first became members before September 8, 1980” in item 1402, substituted “Retired pay base for members who first became members before September 8, 1980: final basic pay” for “Limitations on revocation of retired pay” in item 1406 and “Retired pay base for members who first became members after September 7, 1980: high-36 month average” for “Retired pay base” in item 1407, and added items 1409 to 1412.
+1986—Pub. L. 99–348, title III, §304(b)(2), July 1, 1986, 100 Stat. 703, inserted “of members who first becamemembers before September 8, 1980” in item 1402, substituted “Retired pay base for members who first became members before September 8, 1980: final basic pay” for “Limitations on revocation of retired pay” in item 1406 and “Retired pay base for members who first became members after September 7, 1980: high-36 month average” for “Retired pay base” in item 1407, and added items 1409 to 1412.
 
 1982—Pub. L. 97–252, title X, §1002(b), Sept. 8, 1982, 96 Stat. 735, added item 1408.
 

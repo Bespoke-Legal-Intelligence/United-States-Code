@@ -76,7 +76,7 @@ In this section, the term “management official” means an officer, director, 
 
 #### (3) Judicial review
 
-&emsp;Not later than 10 days after any management official has been suspended from office or prohibited from participation in the management or conduct of the affairs of a licensee, or both, under paragraph (1), that management official may apply to the United States district court for the judicial district in which the home office of the licensee is located, or the United States District Court for the District of Columbia, for a stay of the suspension or prohibition pending the completion of the administrative proceedings pursuant to a notice of intent to remove served upon the management official under subsection (b) of this section, and such court shall have jurisdiction to stay such action.
+&emsp;Not later than 10 days after any management official has been suspended from officeor prohibited from participation in the management or conduct of the affairs of a licensee, or both, under paragraph (1), that management official may apply to the United States district court for the judicial district in which the home office of the licensee is located, or the United States District Court for the District of Columbia, for a stay of the suspension or prohibition pending the completion of the administrative proceedings pursuant to a notice of intent to remove served upon the management official under subsection (b) of this section, and such court shall have jurisdiction to stay such action.
 
 #### (d) Authority to suspend on criminal charges
 
@@ -94,7 +94,7 @@ In this section, the term “management official” means an officer, director, 
 
 #### (4) Authority upon dismissal or other disposition
 
-&emsp;A finding of not guilty or other disposition of charges described in paragraph (1) shall notpreclude the Administrator from thereafter instituting proceedings to suspend or remove the management official from office, or to prohibit the management official from participation in the management or conduct of the affairs of the licensee, or both, pursuant to subsection (b) or (c) of this section.
+&emsp;A finding of not guilty or other disposition of charges described in paragraph (1) shall not preclude the Administrator from thereafter instituting proceedings to suspend or remove the management official from office, or to prohibit the management official from participation in the management or conduct of the affairs of the licensee, or both, pursuant to subsection (b) or (c) of this section.
 
 #### (e) Notification to licensees
 

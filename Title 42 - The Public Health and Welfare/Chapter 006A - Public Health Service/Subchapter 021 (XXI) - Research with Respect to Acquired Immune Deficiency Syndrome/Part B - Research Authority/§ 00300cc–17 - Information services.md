@@ -6,7 +6,7 @@ The Secretary shall establish, maintain, and operate a program with respect to i
 
 #### (b) Toll-free telephone communications for health care entities
 
-(1) After consultation with the Director of the Office of AIDS Research, the Administrator of the Health Resources and Services Administration, and the Director of the Centers for Disease Control and Prevention, the Secretary shall provide for toll-free telephone communications to provide medical and technical information with respect to acquired immune deficiency syndrome to health care professionals, allied healthcare providers, and to professionals providing emergency health services.
+(1) After consultation with the Director of the Office of AIDS Research, the Administrator of the Health Resources and Services Administration, and the Director of the Centers for Disease Control and Prevention, the Secretary shall provide for toll-free telephone communications to provide medical and technical information with respect to acquired immune deficiency syndrome to health care professionals, allied health care providers, and to professionals providing emergency health services.
 
 (2) Information provided pursuant to paragraph (1) shall include—
 

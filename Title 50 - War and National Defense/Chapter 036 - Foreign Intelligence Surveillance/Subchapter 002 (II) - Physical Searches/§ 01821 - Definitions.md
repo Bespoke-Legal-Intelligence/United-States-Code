@@ -20,7 +20,7 @@ As used in this subchapter:
 
 &emsp;(5) “Physical search” means any physical intrusion within the United States into premises or property (including examination of the interior of property by technical means) that is intended to result in a seizure, reproduction, inspection, or alteration of information, material, or property, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes, but does not include (A) “electronic surveillance”, as defined in section 1801(f) of this title, or (B) the acquisition by the United States Government of foreign intelligence information from international or foreign communications, or foreign intelligence activities conducted in accordance with otherwise applicable Federal law involving a foreign electronic communications system, utilizing a means other than electronic surveillance as defined in section 1801(f) of this title.
 
-(Pub. L. 95–511, title III, §301, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3443; amended Pub. L. 107–108, title III, §314(a)(3), Dec. 28, 2001, 115 Stat. 1402 Pub. L. 110–261, title I, §110(c)(2), July 10, 2008, 122 Stat. 2467.)
+(Pub. L. 95–511, title III, §301, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3443; amended Pub. L. 107–108, title III, §314(a)(3), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 110–261, title I, §110(c)(2), July 10, 2008, 122 Stat. 2467.)
 
 #### Prior Provisions
 
@@ -28,9 +28,9 @@ A prior section 301 of Pub. L. 95–511 was renumbered section 701 and was set o
 
 #### Amendments
 
-<b>2008</b>—Par. (1). Pub. L. 110–261 which directed the insertion of “weapon of mass destruction,” after “person,”, was executed by inserting “ ‘weapon of mass destruction’,” after “ ‘person’,” to reflect the probable intent of Congress.
+2008—Par. (1). Pub. L. 110–261 which directed the insertion of “weapon of mass destruction,” after “person,”, was executed by inserting “ ‘weapon of mass destruction’,” after “ ‘person’,” to reflect the probable intent of Congress.
 
-<b>2001</b>—Par. (4)(D). Pub. L. 107–108 substituted “72 hours” for “24 hours”.
+2001—Par. (4)(D). Pub. L. 107–108 substituted “72 hours” for “24 hours”.
 
 #### Effective Date of 2008 Amendment
 

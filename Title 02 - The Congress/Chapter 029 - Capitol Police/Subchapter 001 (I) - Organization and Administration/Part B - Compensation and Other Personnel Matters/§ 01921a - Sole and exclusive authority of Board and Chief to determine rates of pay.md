@@ -22,7 +22,7 @@ The determination of a rate or amount described in subsection (a) of this sectio
 
 Nothing in this section may be construed to affect—
 
-&emsp;(1) any authority provided under law for a committee of the House of Representatives orSenate, or any other entity of the legislative branch, to review or approve any determination of a rate or amount described in subsection (a) of this section;
+&emsp;(1) any authority provided under law for a committee of the House of Representatives or Senate, or any other entity of the legislative branch, to review or approve any determination of a rate or amount described in subsection (a) of this section;
 
 &emsp;(2) any rate or amount described in subsection (a) of this section which is established under law; or
 

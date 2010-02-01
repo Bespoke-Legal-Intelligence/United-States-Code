@@ -94,7 +94,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 &emsp;&emsp;&emsp;(i) to make loans to the taxpayer to be secured by commercial financing security acquired by the taxpayer in the ordinary course of his trade or business, or
 
-&emsp;&emsp;&emsp;(ii) to purchase commercial financing security (other than inventory) acquired bythe taxpayer in the ordinary course of his trade or business;
+&emsp;&emsp;&emsp;(ii) to purchase commercial financing security (other than inventory) acquired by the taxpayer in the ordinary course of his trade or business;
 
 > &emsp;&emsp;but such an agreement shall be treated as coming within the term only to the extent that such loan or purchase is made before the 46th day after the date of tax lien filing or (if earlier) before the lender or purchaser had actual notice or knowledge of such tax lien filing.
 
@@ -160,7 +160,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 Even though notice of a lien imposed by section 6321 has been filed, such lien shall not be valid with respect to a security interest which came into existence after tax lien filing by reason of disbursements made before the 46th day after the date of tax lien filing, or (if earlier) before the person making such disbursements had actual notice or knowledge of tax lien filing, but only if such security interest—
 
-&emsp;(1) is in property (A) subject, at the time of tax lien filing, to the lien imposed by section 6321, and (B) covered by the terms of a written agreement entered into before tax lien filing, and
+&emsp;(1) is in property (A) subject, at the time of tax lien filing, to the lien imposed by section6321, and (B) covered by the terms of a written agreement entered into before tax lien filing, and
 
 &emsp;(2) is protected under local law against a judgment lien arising, as of the time of tax lien filing, out of an unsecured obligation.
 
@@ -172,7 +172,7 @@ If the lien imposed by section 6321 is not valid as against a lien or security i
 
 &emsp;(2) the reasonable charges and expenses of an indenture trustee or agent holding the security interest for the benefit of the holder of the security interest,
 
-&emsp;(3) the reasonable expenses, including reasonable compensation for attorneys, actuallyincurred in collecting or enforcing the obligation secured,
+&emsp;(3) the reasonable expenses, including reasonable compensation for attorneys, actually incurred in collecting or enforcing the obligation secured,
 
 &emsp;(4) the reasonable costs of insuring, preserving, or repairing the property to which the lien or security interest relates,
 
@@ -404,7 +404,7 @@ Subsec. (a)(3). Pub. L. 89–493 substituted the Recorder of Deeds of the Distri
 
 Subsec. (b)(1). Pub. L. 89–719 redesignated provisions of subsec. (c)(1) as subsec. (b)(1) and substituted “holder of a security interest” for “mortgagee and pledgee” and purchaser of such security interest for purchaser of such security for any adequate and full consideration in money or money's worth.
 
-Subsec. (b)(2). Pub. L. 89–719 redesignated provisions of subsec. (d)(1) as subsec. (b)(2) and substituted purchaser of such motor vehicle for purchaser of suchmotor vehicle for an adequate and full consideration in money or money's worth and substituted actual notice or knowledge for notice or knowledge.
+Subsec. (b)(2). Pub. L. 89–719 redesignated provisions of subsec. (d)(1) as subsec. (b)(2) and substituted purchaser of such motor vehicle for purchaser of such motor vehicle for an adequate and full consideration in money or money's worth and substituted actual notice or knowledge for notice or knowledge.
 
 Subsec. (b)(3) to (10). Pub. L. 89–719 added pars. (3) to (10).
 
@@ -504,7 +504,7 @@ Exceptions.—The amendments made by this title shall not apply in any case—
 
 Liability for Withheld Taxes.—
 
-&emsp;“(1) The amendments made by section 105(a) (relating to effect on third parties) \[adding section 3505 of this title\] shall apply only with respect to wages paid on or after January 1, 1967.
+&emsp;“(1) The amendments made by section 105(a) (relating to effect on third parties) \[adding section 3505 ofthis title\] shall apply only with respect to wages paid on or after January 1, 1967.
 
 &emsp;“(2) The amendments made by section 105(b) (relating to performance bonds of contractors for public buildings or works) \[amending section 270a of former Title 40\] shall apply to contracts entered into pursuant to invitations for bids issued after June 30, 1967.”
 

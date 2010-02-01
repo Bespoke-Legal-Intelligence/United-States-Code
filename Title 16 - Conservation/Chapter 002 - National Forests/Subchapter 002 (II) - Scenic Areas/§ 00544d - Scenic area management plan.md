@@ -8,7 +8,7 @@ Within one year after the date the Commission is established, it shall, in coope
 
 &emsp;The Commission shall complete a resource inventory. The resource inventory shall—
 
-&emsp;&emsp;(A) document all existing land uses, natural features and limitations, scenic, natural, cultural, archaeological and recreation and economic resources and activities: <i>Provided</i>, That the location of any Indian burial grounds, village sites, and other areas of archaeological or religious significance shall not be made public information and such information shall be used for administrative purposes only; and
+&emsp;&emsp;(A) document all existing land uses, natural features and limitations, scenic, natural, cultural, archaeological and recreation and economic resources and activities: <i>Provided</i>, That the location of any Indian burial grounds, village sites, and other areas of archaeological or religious significance shallnot be made public information and such information shall be used for administrative purposes only; and
 
 &emsp;&emsp;(B) incorporate without change the resource inventory developed by the Secretary pursuant to section 544f of this title for the special management areas.
 
@@ -82,7 +82,7 @@ The management plan and all land use ordinances and interim guidelines adopted p
 
 &emsp;(7) require that commercial development outside urban areas take place without adversely affecting the scenic, cultural, recreation, or natural resources of the scenic area;
 
-&emsp;(8) require that residential development outside urban areas take place without adversely affecting the scenic, cultural, recreation, and natural resources of the scenic area; and
+&emsp;(8) require that residential development outside urban areas take place without adverselyaffecting the scenic, cultural, recreation, and natural resources of the scenic area; and
 
 &emsp;(9) require that the exploration, development and production of mineral resources, and the reclamation of lands thereafter, take place without adversely affecting the scenic, cultural, recreation and natural resources of the scenic area.
 
@@ -110,7 +110,7 @@ The Secretary and the Commission shall exercise their responsibilities pursuant 
 
 #### (g) Revision of plan
 
-No sooner than five years after adoption of the management plan, but at least every ten years, the Commission shall review the management plan to determine whether it should be revised.The Commission shall submit any revised management plan to the Secretary for review and concurrence, in accordance with the provisions of this section for adoption of the management plan.
+No sooner than five years after adoption of the management plan, but at least every ten years, the Commission shall review the management plan to determine whether it should be revised. The Commission shall submit any revised management plan to the Secretary for review and concurrence, in accordance with the provisions of this section for adoption of the management plan.
 
 #### (h) Amendment of plan
 

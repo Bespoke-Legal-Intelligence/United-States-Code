@@ -12,7 +12,7 @@
 
 &emsp;(5) such other staff corps as may be established by the Secretary of the Navy under subsection (b).
 
-(b)(1) The Secretary of the Navy may establish staff corps of the Navy in addition to the Medical Corps, the Dental Corps, the Judge Advocate General's Corps, and the Chaplain Corps. The Secretary may designate commissioned officersin, and may assign members to, any such staff corps.
+(b)(1) The Secretary of the Navy may establish staff corps of the Navy in addition to the Medical Corps, the Dental Corps, the Judge Advocate General's Corps, and the Chaplain Corps. The Secretary may designate commissioned officers in, and may assign members to, any such staff corps.
 
 (2) Subject to subsection (c), the Secretary of the Navy may provide for the appointment of the chief of any staff corps established under this subsection.
 

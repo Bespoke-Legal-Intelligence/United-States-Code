@@ -28,7 +28,7 @@ Amounts not allocated under a program referred to in this section to a jurisdict
 
 #### (d) Rule of construction
 
-The provisions of this subchapter that are cast as directions to jurisdictions or their officials constitute, in relation to States, only conditionsrequired to avoid the reduction of Federal funding under this section.
+The provisions of this subchapter that are cast as directions to jurisdictions or their officials constitute, in relation to States, only conditions required to avoid the reduction of Federal funding under this section.
 
 (Pub. L. 109–248, title I, §125, July 27, 2006, 120 Stat. 598.)
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) any proceeding or custodianship superseded under section 543 of this title;
 
-&emsp;&emsp;(B) any transfer avoided under section 522, 544, 545, 547, 548, 549, or 724(a) of this title, orpreserved under section 510(c)(2), 522(i)(2), or 551 of this title; and
+&emsp;&emsp;(B) any transfer avoided under section 522, 544, 545, 547, 548, 549, or 724(a) of this title, or preserved under section 510(c)(2), 522(i)(2), or 551 of this title; and
 
 &emsp;&emsp;(C) any lien voided under section 506(d) of this title;
 

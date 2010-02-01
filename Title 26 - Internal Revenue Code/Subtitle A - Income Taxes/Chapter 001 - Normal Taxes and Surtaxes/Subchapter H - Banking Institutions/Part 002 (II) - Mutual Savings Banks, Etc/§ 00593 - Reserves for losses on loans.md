@@ -44,7 +44,7 @@
 
 #### (C) Overall limitation on paragraph
 
-&emsp;&emsp;The amount determined under this paragraph shall not exceed the amount necessary to increase the balance at the close of thetaxable year of the reserve for losses on qualifying real property loans to 6 percent of such loans outstanding at such time.
+&emsp;&emsp;The amount determined under this paragraph shall not exceed the amount necessary to increase the balance at the close of the taxable year of the reserve for losses on qualifying real property loans to 6 percent of such loans outstanding at such time.
 
 #### (D) Computation of taxable income
 
@@ -114,7 +114,7 @@ For purposes of this section—
 
 #### (4) Treatment of interests in REMIC's
 
-&emsp;A regular or residual interest in a REMIC shall be treated as a qualifying real property loan; except that, if less than 95 percent of theassets of such REMIC are qualifying real property loans (determined as if the taxpayer held the assets of the REMIC), such interest shall be so treated only in the proportion which the assets of such REMIC consist of such loans. For purposes of determining whether any interest in a REMIC qualifies under the preceding sentence, any interest in another REMIC held by such REMIC shall be treated as a qualifying real property loan under principles similar to the principles of the preceding sentence, except that if such REMIC's are part of a tiered structure, they shall be treated as 1 REMIC for purposes of this paragraph.
+&emsp;A regular or residual interest in a REMIC shall be treated as a qualifying real property loan; except that, if less than 95 percent of the assets of such REMIC are qualifying real property loans (determined as if the taxpayer held the assets of the REMIC), such interest shall be so treated only in the proportion which the assets of such REMIC consist of such loans. For purposes of determining whether any interest in a REMIC qualifies under the preceding sentence, any interest in another REMIC held by such REMIC shall be treated as a qualifying real property loan under principles similar to the principles of the preceding sentence, except that if such REMIC's are part of a tiered structure, they shall be treated as 1 REMIC for purposes of this paragraph.
 
 #### (e) Distributions to shareholders
 
@@ -174,13 +174,13 @@ Subsections (a), (b), (c), and (d) shall not apply to any taxable year beginning
 
 &emsp;&emsp;&emsp;&emsp;(I) the balance of such reserves as of the close of the taxpayer's last taxable year beginning before January 1, 1988, or
 
-&emsp;&emsp;&emsp;&emsp;(II) the balance of the reserves described in subclause (I), reduced in the same manner as under section585(b)(2)(B)(ii) on the basis of the taxable years described in clause (i) and this clause.
+&emsp;&emsp;&emsp;&emsp;(II) the balance of the reserves described in subclause (I), reduced in the same manner as under section 585(b)(2)(B)(ii) on the basis of the taxable years described in clause (i) and this clause.
 
 #### (B) Special rule for thrifts which become small banks
 
 &emsp;&emsp;In the case of a bank (as defined in section 581) which was not a large bank (as defined in section 585(c)(2)) for its first taxable year beginning after December 31, 1995—
 
-&emsp;&emsp;&emsp;(i) the balance taken into account under subparagraph (A)(ii) shall not be less than the amount which would be the balance of such reserves as of the close of its last taxable year beginning before such date if the additions to such reserves for all taxable years had been determined under section 585(b)(2)(A), and
+&emsp;&emsp;&emsp;(i) the balance taken into account under subparagraph (A)(ii) shall not be less than the amount which would be the balance of such reserves as of the close of its last taxable year beginning before such date if theadditions to such reserves for all taxable years had been determined under section 585(b)(2)(A), and
 
 &emsp;&emsp;&emsp;(ii) the opening balance of the reserve for bad debts as of the beginning of such first taxable year shall be the balance taken into account under subparagraph (A)(ii) (determined after the application of clause (i) of this subparagraph).
 
@@ -252,7 +252,7 @@ Subsections (a), (b), (c), and (d) shall not apply to any taxable year beginning
 
 &emsp;The Secretary shall prescribe such regulations as may be necessary to carry out this subsection and subsection (e), including regulations providing for the application of such subsections in the case of acquisitions, mergers, spin-offs, and other reorganizations.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 205; Pub. L. 87–834, §6(a), Oct. 16, 1962, 76 Stat. 977; Pub. L. 91–172, title IV, §432(a), (b), Dec. 30, 1969, 83 Stat. 620, 622; Pub. L. 94–455, title XIX, §1901(a)(84), Oct. 4, 1976, 90 Stat. 1778; Pub. L. 96–222, title I, §104(a)(3)(C), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–34, title II, §§243, 245(b), (c), Aug. 13, 1981, 95 Stat. 255, 256; Pub. L. 99–514, title III, §311(b)(2), title VI, §671(b)(2), title IX, §901(b)(1)–(3), (d)(2), Oct. 22, 1986, 100 Stat. 2219, 2317, 2378; Pub. L. 100–647, title I, §§1003(c)(3), 1006(t)(25)(B), Nov. 10, 1988, 102 Stat. 3384, 3426; Pub. L. 101–73, title XIV, §1401(b)(3), Aug. 9, 1989, 103 Stat. 550; Pub. L. 101–508, title XI, §11801(c)(12)(F), Nov. 5, 1990, 104 Stat. 1388–527; Pub. L. 104–188, title I, §§1616(a), (b)(7), 1704(t)(51), Aug. 20, 1996, 110 Stat. 1854, 1857, 1890; Pub. L. 105–34, title XVI, §1601(f)(5)(A), Aug. 5, 1997, 111 Stat. 1091.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 205; Pub. L. 87–834, §6(a), Oct. 16, 1962, 76 Stat. 977; Pub. L. 91–172, title IV, §432(a), (b), Dec. 30, 1969, 83 Stat.620, 622; Pub. L. 94–455, title XIX, §1901(a)(84), Oct. 4, 1976, 90 Stat. 1778; Pub. L. 96–222, title I, §104(a)(3)(C), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–34, title II, §§243, 245(b), (c), Aug. 13, 1981, 95 Stat. 255, 256; Pub. L. 99–514, title III, §311(b)(2), title VI, §671(b)(2), title IX, §901(b)(1)–(3), (d)(2), Oct. 22, 1986, 100 Stat. 2219, 2317, 2378; Pub. L. 100–647, title I, §§1003(c)(3), 1006(t)(25)(B), Nov. 10, 1988, 102 Stat. 3384, 3426; Pub. L. 101–73, title XIV, §1401(b)(3), Aug. 9, 1989, 103 Stat. 550; Pub. L. 101–508, title XI, §11801(c)(12)(F), Nov. 5, 1990, 104 Stat. 1388–527; Pub. L. 104–188, title I, §§1616(a), (b)(7), 1704(t)(51), Aug. 20, 1996, 110 Stat. 1854, 1857, 1890; Pub. L. 105–34, title XVI, §1601(f)(5)(A), Aug. 5, 1997, 111 Stat. 1091.)
 
 #### References in Text
 
@@ -396,7 +396,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 311(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 311(c) of Pub. L. 99–514, set out as a note under section 1201 of this title.
+Amendment by section 311(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 311(c) of Pub. L. 99–514, set out as a note under section 1201 of this title.
 
 Amendment by section 671(b)(2) of Pub. L. 99–514 effective Jan. 1, 1987, see section 675(a) of Pub. L. 99–514, as amended, set out as an Effective Date note under section 860A of this title.
 

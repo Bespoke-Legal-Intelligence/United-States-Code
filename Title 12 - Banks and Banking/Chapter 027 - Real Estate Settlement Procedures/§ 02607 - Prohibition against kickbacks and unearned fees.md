@@ -2,7 +2,7 @@
 
 #### (a) Business referrals
 
-No person shall give and no person shall accept any fee, kickback, or thing of value pursuant to any agreement or understanding, oral or otherwise, that business incident to or a part of a real estate settlement service involving a federally related mortgage loan shall be referred to any person.
+No person shall give and no person shall accept any fee, kickback, or thing of value pursuant to any agreement or understanding, oral or otherwise, that business incident to or a part ofa real estate settlement service involving a federally related mortgage loan shall be referred to any person.
 
 #### (b) Splitting charges
 

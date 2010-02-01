@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(ii) covering the services of homemakers for a maximum of 21 days, if institutional services are not medically appropriate,
 
-&emsp;&emsp;(iii) determining whether such coverage would reduce long-range costs by reducingthe lengths of stay in hospitals and skilled nursing facilities, and
+&emsp;&emsp;(iii) determining whether such coverage would reduce long-range costs by reducing the lengths of stay in hospitals and skilled nursing facilities, and
 
 &emsp;&emsp;(iv) establishing alternative eligibility requirements and determining the probable cost of applying each alternative, if the project suggests that such extension of coverage would be desirable;
 
@@ -198,7 +198,7 @@ Personal physician care management fee.—Under the project, the Secretary shall
 
 &emsp;“(2)
 
-Medical home sharing in savings.—The Secretary shall provide for payment under the project of a medical home based on the payment methodology applied to physician group practices under section 1866A of the Social Security Act (42 U.S.C. 1395cc–1). Under such methodology, 80 percent of the reductions in expenditures under title XVIII of the Social Security Act \[this subchapter\] resulting from participation of individuals that are attributable to the medical home (as reduced by the total care managements fees paid to the medical home under the project) shall be paid to the medical home. The amount of such reductions in expenditures shall be determined by using assumptions with respect to reductions in the occurrence of health complications, hospitalization rates, medical errors, and adverse drug reactions.
+Medical home sharing in savings.—The Secretary shall provide for payment under the project ofa medical home based on the payment methodology applied to physician group practices under section 1866A of the Social Security Act (42 U.S.C. 1395cc–1). Under such methodology, 80 percent of the reductions in expenditures under title XVIII of the Social Security Act \[this subchapter\] resulting from participation of individuals that are attributable to the medical home (as reduced by the total care managements fees paid to the medical home under the project) shall be paid to the medical home. The amount of such reductions in expenditures shall be determined by using assumptions with respect to reductions in the occurrence of health complications, hospitalization rates, medical errors, and adverse drug reactions.
 
 &emsp;“(3)
 
@@ -292,7 +292,7 @@ Duration.—The Secretary shall conduct the demonstration program under this sec
 
 &emsp;“(4)
 
-Consultation.—In carrying out the demonstration program under this section, the Secretary shallconsult with private sector and non-profit groups that are undertaking similar efforts to improve quality and reduce avoidable hospitalizations for chronically ill patients.
+Consultation.—In carrying out the demonstration program under this section, the Secretary shall consult with private sector and non-profit groups that are undertaking similar efforts to improve quality and reduce avoidable hospitalizations for chronically ill patients.
 
 “(b)
 
@@ -316,7 +316,7 @@ Practice standards.—Each physician participating in the demonstration program 
 
 &emsp;&emsp;“(A) to assess each eligible beneficiary for conditions other than chronic conditions, such as impaired cognitive ability and co-morbidities, for the purposes of developing care management requirements;
 
-&emsp;&emsp;“(B) to serve as the primary contact of eligible beneficiaries in accessing items and services for which payment may be made under the medicare program;
+&emsp;&emsp;“(B) to serve as the primary contact of eligible beneficiaries in accessing items and services forwhich payment may be made under the medicare program;
 
 &emsp;&emsp;“(C) to establish and maintain health care information system for such beneficiaries;
 
@@ -694,7 +694,7 @@ Objectives of Project.—The objectives of the project include the following:
 
 Eligible Health Care Provider Telemedicine Network Defined.—For purposes of this section, the term ‘eligible health care provider telemedicine network’ means a consortium that includes at least one tertiary care hospital (but no more than 2 such hospitals), at least one medical school, no more than 4 facilities in rural or urban areas, and at least one regional telecommunications provider and that meets the following requirements:
 
-&emsp;“(1) The consortium is located in an area with a high concentration of medical schools and tertiary care facilities in the United States and has appropriate arrangements (within or outside the consortium) with such schools and facilities, universities, and telecommunications providers, in order to conduct the project.
+&emsp;“(1) The consortium is located in an area with a high concentration of medical schools and tertiary care facilities in the United States and has appropriate arrangements (within or outside the consortium) with such schools and facilities, universities,and telecommunications providers, in order to conduct the project.
 
 &emsp;“(2) The consortium submits to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a description of the use to which the consortium would apply any amounts received under the project.
 
@@ -776,7 +776,7 @@ Pub. L. 101–239, title X, §10404, Dec. 19, 1989, 103 Stat. 2488, provided tha
 
 “(a)
 
-Number of Projects.—In order to determine whether, and if so, the extent to which, the use of volunteer senior aides to provide basic medical assistance and support to families with moderately or severely disabled or chronically ill children contributes to reducing the costs of care for such children, not morethan 10 communities may conduct demonstration projects under this section.
+Number of Projects.—In order to determine whether, and if so, the extent to which, the use of volunteer senior aides to provide basic medical assistance and support to families with moderately or severely disabled or chronically ill children contributes to reducing the costs of care for such children, not more than 10 communities may conduct demonstration projects under this section.
 
 “(b)
 
@@ -866,7 +866,7 @@ Project descriptions.—The demonstration projects referred to in paragraph (1) 
 
 “(3)
 
-Terms and conditions.—Except as provided in paragraph (4), the demonstration projects resumed pursuant to paragraph (1) shall be subject to the same terms and conditions established under section 425 of MCCA. In determining the 2-year duration period of a project resumed pursuant to paragraph (1), the Secretary may not take into account any period of timefor which the project was in effect under section 425 of MCCA.
+Terms and conditions.—Except as provided in paragraph (4), the demonstration projects resumed pursuant to paragraph (1) shall be subject to the same terms and conditions established under section 425 of MCCA. In determining the 2-year duration period of a project resumed pursuant to paragraph (1), the Secretary may not take into account any period of time for which the project was in effect under section 425 of MCCA.
 
 “(4)
 
@@ -914,7 +914,7 @@ Pub. L. 99–272, title IX, §9215, Apr. 7, 1986, 100 Stat. 180, as amended by P
 
 #### Demonstration Program for Reduction of Disability and Dependency Through Provision of Preventive Health Services Under Medicare
 
-Pub. L. 99–272, title IX, §9314, Apr. 7, 1986, 100 Stat. 194, as amended by Pub. L. 99–509, title IX, §9344(d), Oct. 21, 1986, 100 Stat. 2042; Pub. L. 101–508, title IV,§4164(a)(1), Nov. 5, 1990, 104 Stat. 1388–100, required Secretary of Health and Human Services to establish a 5-year demonstration program designed to reduce disability and dependency through the provision of preventive health services to individuals entitled to benefits under this subchapter and to submit reports to Congress including a final report on the project not later than April 1, 1995.
+Pub. L. 99–272, title IX, §9314, Apr. 7, 1986, 100 Stat. 194, as amended by Pub. L. 99–509, title IX, §9344(d), Oct. 21, 1986, 100 Stat. 2042; Pub. L. 101–508, title IV, §4164(a)(1), Nov. 5, 1990, 104 Stat. 1388–100, required Secretary of Health and Human Services to establish a 5-year demonstration program designed to reduce disability and dependency through the provision of preventive health services to individuals entitled to benefits under this subchapter and to submit reports to Congress including a final report on the project not later than April 1, 1995.
 
 #### Payment for Costs of Hospital-Based Mobile Intensive Care Units
 
@@ -964,7 +964,7 @@ Pub. L. 96–499, title IX, §919, Dec. 5, 1980, 94 Stat. 2627, required study o
 
 #### Demonstration Projects for Physician-Directed Clinics in Urban Medically Underserved Areas; Report Submitted No Later Than January 1, 1981
 
-Pub. L. 95–210, §3, Dec. 13, 1977, 91 Stat. 1489, required the Secretary to provide, through demonstration projects, reimbursement on a cost basis for services provided by physician-directed clinics in urban medically underserved areas for which payment may be made under this subchapter and, notwithstanding any other provision of this subchapter, for services provided by a physician assistant or nurse practitioner employed by such clinics which would otherwise be covered under this subchapter if provided by a physician. The Secretary was to evaluate the relative advantages and disadvantages of reimbursement on the basis of costs and fee-for-service for physician-directed clinics employing a physician assistant or nurse practitioner, the appropriate method of determining the compensation for physician services on a cost basis for the purposes of reimbursement of services provided in such clinics, the appropriate definition for such clinics, the appropriate criteria to use for the purposes of designating urban medically underserved areas, and such other possible changes in the provisions of this subchapter as might be appropriate for the efficient and cost-effective reimbursement of services provided in such clinics. Grants, payments under contracts, and other expenditures made for demonstration projects were to be made in appropriate part from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund. The Secretary was to submit to the Congress, no later than Jan. 1, 1981, a complete detailed report on the demonstration projects.
+Pub. L. 95–210, §3, Dec. 13, 1977, 91 Stat. 1489, required the Secretary to provide, through demonstration projects, reimbursement on a cost basis for services provided by physician-directed clinics in urban medically underserved areas for which payment may be made under this subchapter and, notwithstanding any other provision of this subchapter, for services provided by a physician assistant or nurse practitioner employed by such clinics which would otherwise be covered under this subchapter if provided by a physician. The Secretary was to evaluate the relative advantages and disadvantages of reimbursement on the basis of costs and fee-for-service for physician-directed clinics employing a physician assistant or nurse practitioner, the appropriate method of determining the compensation for physician services on a cost basis for the purposes of reimbursement of services provided in such clinics, the appropriate definition for such clinics, the appropriate criteria to use for the purposes of designating urban medically underserved areas, and such other possible changes in the provisions of this subchapter as might be appropriate for the efficient and cost-effective reimbursement of services provided in such clinics. Grants, payments under contracts, and other expenditures made for demonstration projects were to be made in appropriate part from the Federal Hospital InsuranceTrust Fund and the Federal Supplementary Medical Insurance Trust Fund. The Secretary was to submit to the Congress, no later than Jan. 1, 1981, a complete detailed report on the demonstration projects.
 
 #### Scope of Grants for Experiments and Demonstration Projects To Determine Methods for Prospective Payments to Hospitals, Skilled Nursing Facilities, and Other Providers of Services
 
@@ -988,7 +988,7 @@ Section 222(a) of Pub. L. 92–603, as amended by Pub. L. 97–35, title XXI, §
 
 “(3) In the case of any experiment or demonstration project under paragraph (1), the Secretary may waive compliance with the requirements of titles XVIII and XIX of the Social Security Act \[this subchapter and subchapter XIX of this chapter\] insofar as such requirements relate to methods of payment for services provided; and costs incurred in such experiment or project in excess of those which would otherwise be reimbursed or paid under such titles \[subchapters\] may be reimbursed or paid to the extent that such waiver applies to them (with such excess being borne by the Secretary). No experiment or demonstration project shall be developed or carried out under paragraph (1) until the Secretary obtains the advice and recommendations of specialists who are competent to evaluate the proposed experiment or project as to the soundness of its objectives, the possibilities of securing productive results, the adequacy of resources to conduct it, and its relationship to other similar experiments or projects already completed or in process; and no such experiment or project shall be actually placed in operation unless at least 30 days prior thereto a written report, prepared for purposes of notification and information only, containing a full and complete description thereof has been transmitted to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate.
 
-“(4) Grants, payments under contracts, and other expenditures made for experiments and demonstrationprojects under this subsection shall be made in appropriate part from the Federal Hospital Insurance Trust Fund (established by section 1817 of the Social Security Act \[section 1395i of this title\]) and the Federal Supplementary Medical Insurance Trust Fund (established by section 1841 of the Social Security Act \[section 1395t of this title\]) and from funds appropriated under title XIX of such Act \[subchapter XIX of this chapter\]. Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this subsection. With respect to any such grant, payment, or other expenditure, the amount to be paid from each of such trust funds (and from funds appropriated under such title XIX) shall be determined by the Secretary, giving due regard to the purposes of the experiment or project involved.
+“(4) Grants, payments under contracts, and other expenditures made for experiments and demonstration projects under this subsection shall be made in appropriate part from the Federal Hospital Insurance Trust Fund (established by section 1817 of the Social Security Act \[section 1395i of this title\]) and the Federal Supplementary Medical Insurance Trust Fund (established by section 1841 of the Social Security Act \[section 1395t of this title\]) and from funds appropriated under title XIX of such Act \[subchapter XIX of this chapter\]. Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this subsection. With respect to any such grant, payment, or other expenditure, the amount to be paid from each of such trust funds (and from funds appropriated under such title XIX) shall be determined by the Secretary, giving due regard to the purposes of the experiment or project involved.
 
 “(5) The Secretary shall submit to the Congress no later than July 1, 1974, a full report on the experiments and demonstration projects carried out under this subsection and on the experience of other programs with respect to prospective reimbursement together with any related data and materials which he may consider appropriate. Such report shall include detailed recommendations with respect to the specific methods which could be used in the full implementation of a system of prospective payment to providers of services under the programs involved.”
 

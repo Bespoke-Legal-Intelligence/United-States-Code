@@ -56,7 +56,7 @@ From the funds appropriated under section 6302(b)(4) of this title for a fiscal 
 
 #### (1) In general
 
-&emsp;From amounts made available under subsection (c)(1) of this section and not reservedunder subsections (b) and (j) of this section for a fiscal year, the Secretary shall award grants, on a competitive basis, to eligible local educational agencies that have applications approved under subsection (f)(2) of this section for activities described in subsection (g) of this section.
+&emsp;From amounts made available under subsection (c)(1) of this section and not reserved under subsections (b) and (j) of this section for a fiscal year, the Secretary shall award grants, on a competitive basis, to eligible local educational agencies that have applications approved under subsection (f)(2) of this section for activities described in subsection (g) of this section.
 
 #### (2) Duration
 
@@ -70,7 +70,7 @@ From the funds appropriated under section 6302(b)(4) of this title for a fiscal 
 
 #### (1) State educational agency
 
-&emsp;Each State educational agency desiring assistance under this section shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary shall require. The application shall contain a description of—
+&emsp;Each State educational agency desiring assistance under this section shall submit to theSecretary an application at such time, in such manner, and containing such information as the Secretary shall require. The application shall contain a description of—
 
 &emsp;&emsp;(A) how the State educational agency will assist eligible local educational agencies in meeting the requirements of this section and in using scientifically based research to implement effective school library media programs; and
 
@@ -122,7 +122,7 @@ Funds made available under this section shall be used to supplement, and not sup
 
 #### (1) Evaluations
 
-&emsp;From the funds appropriated under section 6302(b)(4) of this title for each fiscal year, theSecretary shall reserve not more than 1 percent for annual, independent, national evaluations of the activities assisted under this section and their impact on improving the reading skills of students. The evaluations shall be conducted not later than 3 years after January 8, 2002, and biennially thereafter.
+&emsp;From the funds appropriated under section 6302(b)(4) of this title for each fiscal year, the Secretary shall reserve not more than 1 percent for annual, independent, national evaluations of the activities assisted under this section and their impact on improving the reading skills of students. The evaluations shall be conducted not later than 3 years after January 8, 2002, and biennially thereafter.
 
 #### (2) Report to Congress
 
@@ -132,5 +132,5 @@ Funds made available under this section shall be used to supplement, and not sup
 
 #### Change of Name
 
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Education and the Workforce of House of Representatives changed to Committee on Educationand Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

@@ -54,7 +54,7 @@
 
 #### (3) Report to Congress
 
-&emsp;The President shall report to the Congress, not later than 90 days after making a determination under subsection (a)(1) of this section, on the status of consultations with the appropriate government under this subsection, and the basis for any determination under paragraph (2) of this subsection that such government has taken specific corrective actions.
+&emsp;The President shall report to the Congress, not later than 90 days after making a determination under subsection (a)(1) of this section, on the status of consultations with the appropriate government under this subsection, and the basis for any determination underparagraph (2) of this subsection that such government has taken specific corrective actions.
 
 #### (c) Sanctions
 

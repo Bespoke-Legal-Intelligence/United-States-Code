@@ -1,12 +1,12 @@
 ### §393. Entries under land laws; rights-of-way; lands excluded
 
-Nothing herein contained shall affect any valid claim, location, or entry existing under the land laws of the United States prior to August 1, 1916, whether for homestead, mineral, right-of-way, or any other purpose whatsoever, or shall affect the rights of any such claimant, locator, or entryman to the full use and enjoyment of his land. Whenever consistent with the primary purposes of the park, section 79 of this title shall be applicable to the lands included within the park. The Secretary of the Interior may, in his discretion and upon such conditions as he may deem wise, grant easements or rights-of-way for steam, electric, or similar transportation upon or across the park. No lands located within the park boundaries held in private or municipal ownership prior to August 1, 1916, shall be affected by or subject to the provisions of this section and sections 391 and 394 of this title.
+Nothing herein contained shall affect any valid claim, location, or entry existing under the land laws of the United States prior to August 1, 1916, whether for homestead, mineral, right-of-way, or any other purpose whatsoever, or shall affect the rights of any such claimant, locator, or entryman to the full use and enjoyment of his land. Whenever consistent with the primary purposes of the park, section 79 of this title shall be applicable to the lands included within the park. The Secretary of the Interior may, in his discretion and upon such conditionsas he may deem wise, grant easements or rights-of-way for steam, electric, or similar transportation upon or across the park. No lands located within the park boundaries held in private or municipal ownership prior to August 1, 1916, shall be affected by or subject to the provisions of this section and sections 391 and 394 of this title.
 
 (Aug. 1, 1916, ch. 264, §§2, 3, 39 Stat. 433, 434.)
 
 #### References in Text
 
-Herein, referred to in text, means act Aug. 1, 1916, which is classified to sections 391, 393 and 394 of thistitle. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act Aug. 1, 1916, which is classified to sections 391, 393 and 394 of this title. For complete classification of this Act to the Code, see Tables.
 
 The land laws of the United States, referred to in text, are classified generally to Title 43, Public Lands.
 

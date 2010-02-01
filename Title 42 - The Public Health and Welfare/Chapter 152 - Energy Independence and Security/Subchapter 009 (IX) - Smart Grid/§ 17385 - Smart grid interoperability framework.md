@@ -2,7 +2,7 @@
 
 #### (a) Interoperability framework
 
-The Director of the National Institute of Standards and Technology shall have primary responsibility to coordinate the development of a framework that includes protocols and model standards for information management to achieve interoperability of smart grid devices and systems. Such protocols and standards shall further align policy, business, and technology approaches in a manner that would enable all electric resources, including demand-side resources, to contribute to an efficient, reliable electricity network. In developing such protocols and standards—
+The Director of the National Institute of Standards and Technology shall have primaryresponsibility to coordinate the development of a framework that includes protocols and model standards for information management to achieve interoperability of smart grid devices and systems. Such protocols and standards shall further align policy, business, and technology approaches in a manner that would enable all electric resources, including demand-side resources, to contribute to an efficient, reliable electricity network. In developing such protocols and standards—
 
 &emsp;(1) the Director shall seek input and cooperation from the Commission, OEDER and its Smart Grid Task Force, the Smart Grid Advisory Committee, other relevant Federal and State agencies; and
 

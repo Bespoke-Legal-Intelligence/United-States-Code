@@ -8,13 +8,13 @@
 
 #### (2) On foundation manager
 
-&emsp;In any case in which a tax is imposed by paragraph (1), there is hereby imposed on the participation of any foundation manager in an act of self-dealing between a disqualified person and a private foundation, knowing that it is such an act, a tax equal to 5 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period, unless such participation is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any foundation manager who participated in the act of self-dealing.
+&emsp;In any case in which a tax is imposed by paragraph (1), there is hereby imposed on theparticipation of any foundation manager in an act of self-dealing between a disqualified person and a private foundation, knowing that it is such an act, a tax equal to 5 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period, unless such participation is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any foundation manager who participated in the act of self-dealing.
 
 #### (b) Additional taxes
 
 #### (1) On self-dealer
 
-&emsp;In any case in which an initial tax is imposed by subsection (a)(1) on an act of self-dealing by a disqualified person with a private foundation and the act is not corrected within the taxable period, there is hereby imposed a tax equal to 200 percent of the amount involved. The tax imposed by this paragraph shall be paid by any disqualified person (other than a foundation manager acting only assuch) who participated in the act of self-dealing.
+&emsp;In any case in which an initial tax is imposed by subsection (a)(1) on an act of self-dealing by a disqualified person with a private foundation and the act is not corrected within the taxable period, there is hereby imposed a tax equal to 200 percent of the amount involved. The tax imposed by this paragraph shall be paid by any disqualified person (other than a foundation manager acting only as such) who participated in the act of self-dealing.
 
 #### (2) On foundation manager
 

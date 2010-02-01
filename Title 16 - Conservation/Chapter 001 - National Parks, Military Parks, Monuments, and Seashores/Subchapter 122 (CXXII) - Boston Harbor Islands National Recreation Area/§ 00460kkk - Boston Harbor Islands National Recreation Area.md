@@ -48,11 +48,35 @@ For the purposes of this section—
 
 #### (2) State and local jurisdiction
 
-&emsp;Nothing in this section shall be construed to diminish, enlarge, or modify any right of the Commonwealth of Massachusetts or any political subdivision thereof, to exercise civil and criminal jurisdiction or to carry out State laws, rules, and regulations within the recreation area, including those relating to fish and wildlife, or to tax persons, corporations, franchises, or private property on the lands and waters included in the recreation area.
+&emsp;Nothing in this section shall be construed to diminish, enlarge, or modify any right of the Commonwealth of Massachusetts or any political subdivision thereof, to exercise civil and criminal jurisdiction or to carry out State laws, rules, and regulations within the recreation area, including those relating to fish andwildlife, or to tax persons, corporations, franchises, or private property on the lands and waters included in the recreation area.
 
-#### (3) Cooperative agreements
+#### (3) Agreements
 
-&emsp;The Secretary may consult and enter into cooperative agreements with the Commonwealth of Massachusetts or its political subdivisions to acquire from and provide to the Commonwealth or its political subdivisions goods and services to be used in the cooperative management of lands within the recreation area, if the Secretary determines that appropriations for that purpose are available and the agreement is in the best interest of the United States.
+#### (A) Definition of eligible entity
+
+&emsp;&emsp;In this paragraph, the term “eligible entity” means—
+
+&emsp;&emsp;&emsp;(i) the Commonwealth of Massachusetts;
+
+&emsp;&emsp;&emsp;(ii) a political subdivision of the Commonwealth of Massachusetts; or
+
+&emsp;&emsp;&emsp;(iii) any other entity that is a member of the Boston Harbor Islands Partnership described in subsection (e)(2).
+
+#### (B) Authority of Secretary
+
+&emsp;&emsp;Subject to subparagraph (C), the Secretary may consult with an eligible entity on, and enter into with the eligible entity—
+
+&emsp;&emsp;&emsp;(i) a cooperative management agreement to acquire from, and provide to, the eligible entity goods and services for the cooperative management of land within the recreation area; and
+
+&emsp;&emsp;&emsp;(ii) notwithstanding section 6305 of title 31, a cooperative agreement for the construction of recreation area facilities on land owned by an eligible entity for purposes consistent with the management plan under subsection (f).
+
+#### (C) Conditions
+
+&emsp;&emsp;The Secretary may enter into an agreement with an eligible entity under subparagraph (B) only if the Secretary determines that—
+
+&emsp;&emsp;&emsp;(i) appropriations for carrying out the purposes of the agreement are available; and
+
+&emsp;&emsp;&emsp;(ii) the agreement is in the best interests of the United States.
 
 #### (4) Construction of facilities on non-Federal lands
 
@@ -82,7 +106,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(A) One individual, appointed by the Secretary, to represent the National Park Service.
 
-&emsp;&emsp;(B) One individual, appointed by the Commandant of the Coast Guard <sup>1</sup>
+&emsp;&emsp;(B) One individual, appointed by the Commandant of the Coast Guard.
 
 &emsp;&emsp;(C) Two individuals, appointed by the Secretary, after consideration of recommendations by the Governor of Massachusetts, to represent the Department of Environmental Management and the Metropolitan District Commission.
 
@@ -140,7 +164,7 @@ For the purposes of this section—
 
 #### (11) Donations
 
-&emsp;Nothwithstanding <sup>2</sup> any other provision of law, the Partnership may seek and accept donations of funds, property, or services from individuals, foundations, corporations, and other private and public entities for the purpose of carrying out this section.
+&emsp;Notwithstanding any other provision of law, the Partnership may seek and accept donations of funds, property, or services from individuals, foundations, corporations, and other private and public entities for the purpose of carrying out this section.
 
 #### (12) Use of funds to obtain money
 
@@ -244,13 +268,19 @@ For the purposes of this section—
 
 &emsp;Amounts appropriated in any fiscal year to carry out this section may only be expended on a matching basis in a ratio of at least three non-Federal dollars to every Federal dollar. The non-Federal share of the match may be in the form of cash, services, or in-kind contributions, fairly valued.
 
-(Pub. L. 104–333, div. I, title X, §1029, Nov. 12, 1996, 110 Stat. 4232; Pub. L. 105–355, title V, §513, Nov. 6, 1998, 112 Stat. 3266; Pub. L. 106–176, title I, §126, Mar. 10, 2000, 114 Stat. 30; Pub. L. 108–352, §12, Oct. 21, 2004, 118 Stat. 1397; Pub. L. 109–241, title IX, §902(h)(1), July 11, 2006, 120 Stat. 567.)
+(Pub. L. 104–333, div. I, title X, §1029, Nov. 12, 1996, 110 Stat. 4232; Pub. L. 105–355, title V, §513, Nov. 6, 1998, 112 Stat. 3266; Pub. L. 106–176, title I, §126, Mar. 10, 2000, 114 Stat. 30; Pub. L. 108–352, §12, Oct. 21, 2004, 118 Stat. 1397; Pub. L. 109–241, title IX, §902(h)(1), July 11, 2006, 120 Stat. 567; Pub. L. 111–11, title VII, §7109, Mar. 30, 2009, 123 Stat. 1197.)
 
 #### References in Text
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g)(4), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2009—Subsec. (d)(3). Pub. L. 111–11, §7109(a), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Secretary may consult and enter into cooperative agreements with the Commonwealth of Massachusetts or its political subdivisions to acquire from and provide to the Commonwealth or its political subdivisions goods and services to be used in the cooperative management of lands within the recreation area, if the Secretary determines that appropriations for that purpose are available and the agreement is in the best interest of the United States.”
+
+Subsec. (e)(2)(B). Pub. L. 111–11, §7109(b)(1), substituted “Coast Guard.” for “Coast Guard”.
+
+Subsec. (e)(11). Pub. L. 111–11, §7109(b)(2), substituted “Notwithstanding” for “Nothwithstanding”.
 
 2006—Subsec. (e)(2)(B). Pub. L. 109–241, which directed amendment of section 1029(e)(2)(B) of the Bisti/De-Na-Zin Wilderness Expansion and Fossil Protection Act of 1996 by substituting “Commandant of the Coast Guard” for “Secretary of Transportation, to represent the United States Coast Guard.”, was executed to this section, which is section 1029 of Pub. L. 104–333, the Omnibus Parks and Public Lands Management Act of 1996, to reflect the probable intent of Congress.
 

@@ -20,7 +20,7 @@ As used in this chapter:
 
 “Vessel” means any watercraft or other contrivance used or designed for transportation or navigation on, under, or immediately above, water.
 
-(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 87–371, §1, Oct. 4, 1961, 75 Stat. 802; Pub. L. 98–547, title II, §202, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 103–322, title XXXII, §320912, Sept. 13, 1994, 108 Stat. 2128; Pub. L. 104–294, title VI, §604(b)(20), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 107–273, div. B, title IV, §4002(b)(8), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 109–177, title III, §307(b)(1), Mar. 9, 2006, 120 Stat. 240.)
+(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 87–371, §1, Oct. 4, 1961, 75 Stat. 802; Pub. L. 98–547, title II, §202, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 103–322, title XXXII, §320912, Sept. 13, 1994, 108 Stat. 2128; Pub. L. 104–294, title VI, §604(b)(20),Oct. 11, 1996, 110 Stat. 3507; Pub. L. 107–273, div. B, title IV, §4002(b)(8), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 109–177, title III, §307(b)(1), Mar. 9, 2006, 120 Stat. 240.)
 
 #### Historical and Revision Notes
 
@@ -70,7 +70,7 @@ Pub. L. 104–153, §1, July 2, 1996, 110 Stat. 1386, provided that: “This Act
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–519, §1, Oct. 25, 1992, 106 Stat. 3384, provided that: “This Act \[enacting sections 2119 and 2322 of this title, sections 2026a to 2026c and 2041 to 2044 of Title 15, Commerce and Trade, sections 1646b and 1646c of Title 19, Customs Duties, and sections 3750a to 3750d of Title 42, The Public Health and Welfare, amending sections 553, 981, 982, 2312, and 2313 of this title, sections 2021 to 2023, 2025, 2027, and 2034 of Title 15, and enactingprovisions set out as notes under section 2119 of this title, sections 2026a, 2026b, and 2041 of Title 15, and section 1646b of Title 19\] may be cited as the ‘Anti Car Theft Act of 1992’.”
+Pub. L. 102–519, §1, Oct. 25, 1992, 106 Stat. 3384, provided that: “This Act \[enacting sections 2119 and 2322 of this title, sections 2026a to 2026c and 2041 to 2044 of Title 15, Commerce and Trade, sections 1646b and 1646c of Title 19, Customs Duties, and sections 3750a to 3750d of Title 42, The Public Health and Welfare, amending sections 553, 981, 982, 2312, and 2313 of this title, sections 2021 to 2023, 2025, 2027, and 2034 of Title 15, and enacting provisions set out as notes under section 2119 of this title, sections 2026a, 2026b, and 2041 of Title 15, and section 1646b of Title 19\] may be cited as the ‘Anti Car Theft Act of 1992’.”
 
 #### Short Title of 1984 Amendments
 

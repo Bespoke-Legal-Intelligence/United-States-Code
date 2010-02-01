@@ -1,0 +1,96 @@
+### §1973ff–7. Technology pilot program
+
+#### (a) Definitions
+
+In this section:
+
+#### (1) Absent uniformed services voter
+
+&emsp;The term “absent uniformed services voter” has the meaning given such term in section 107(a) <sup>1</sup> of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.).
+
+#### (2) Overseas voter
+
+&emsp;The term “overseas voter” has the meaning given such term in section 107(5) of such Act \[42 U.S.C. 1973ff–6(5)\].
+
+#### (3) Presidential designee
+
+&emsp;The term “Presidential designee” means the individual designated under section 101(a) of such Act \[42 U.S.C. 1973ff(a)\].
+
+#### (b) Establishment
+
+#### (1) In general
+
+&emsp;The Presidential designee may establish 1 or more pilot programs under which the feasibility of new election technology is tested for the benefit of absent uniformed services voters and overseas voters claiming rights under the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.).
+
+#### (2) Design and conduct
+
+&emsp;The design and conduct of a pilot program established under this subsection—
+
+&emsp;&emsp;(A) shall be at the discretion of the Presidential designee; and
+
+&emsp;&emsp;(B) shall not conflict with or substitute for existing laws, regulations, or procedures with respect to the participation of absent uniformed services voters and military voters in elections for Federal office.
+
+#### (c) Considerations
+
+In conducting a pilot program established under subsection (b), the Presidential designee may consider the following issues:
+
+&emsp;(1) The transmission of electronic voting material across military networks.
+
+&emsp;(2) Virtual private networks, cryptographic voting systems, centrally controlled voting stations, and other information security techniques.
+
+&emsp;(3) The transmission of ballot representations and scanned pictures in a secure manner.
+
+&emsp;(4) Capturing, retaining, and comparing electronic and physical ballot representations.
+
+&emsp;(5) Utilization of voting stations at military bases.
+
+&emsp;(6) Document delivery and upload systems.
+
+&emsp;(7) The functional effectiveness of the application or adoption of the pilot program to operational environments, taking into account environmental and logistical obstacles and State procedures.
+
+#### (d) Reports
+
+The Presidential designee shall submit to Congress reports on the progress and outcomes of any pilot program conducted under this subsection, together with recommendations—
+
+&emsp;(1) for the conduct of additional pilot programs under this section; and
+
+&emsp;(2) for such legislation and administrative action as the Presidential designee determines appropriate.
+
+#### (e) Technical assistance
+
+#### (1) In general
+
+&emsp;The Election Assistance Commission and the National Institute of Standards and Technology shall provide the Presidential designee with best practices or standards in accordance with electronic absentee voting guidelines established under the first sentence of section 1604(a)(2) of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 115 Stat. 1277; 42 U.S.C. 1977ff <sup>2</sup> note), as amended by section 567 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 1919) to support the pilot program or programs.
+
+#### (2) Report
+
+&emsp;In the case in which the Election Assistance Commission has not established electronic absentee voting guidelines under such section 1604(a)(2), as so amended, by not later than 180 days after October 28, 2009, the Election Assistance Commission shall submit to the relevant committees of Congress a report containing the following information:
+
+&emsp;&emsp;(A) The reasons such guidelines have not been established as of such date.
+
+&emsp;&emsp;(B) A detailed timeline for the establishment of such guidelines.
+
+&emsp;&emsp;(C) A detailed explanation of the Commission's actions in establishing such guidelines since October 28, 2004.
+
+#### (3) Relevant committees of Congress defined
+
+&emsp;In this subsection, the term “relevant committees of Congress” means—
+
+&emsp;&emsp;(A) the Committees on Appropriations, Armed Services, and Rules and Administration of the Senate; and
+
+&emsp;&emsp;(B) the Committees on Appropriations, Armed Services, and House Administration of the House of Representatives.
+
+#### (f) Authorization of appropriations
+
+There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+(Pub. L. 111–84, div. A, title V, §589, Oct. 28, 2009, 123 Stat. 2334.)
+
+#### References in Text
+
+The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (b)(1), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which is classified principally to this subchapter. Sections 101 and 107 of the Act are classified to sections 1973ff and 1973ff–6, respectively, of this title. Section 107(a) of the Act probably means section 107(1) of the Act, which defines “absent uniformed services voter” and is classified to section 1973ff–6(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of this title and Tables.
+
+#### Codification
+
+Section was enacted as part of the Military and Overseas Voter Empowerment Act, and also as part of the National Defense Authorization Act for Fiscal Year 2010, and not as part of title I of the Uniformed and Overseas Citizens Absentee Voting Act, which comprises this subchapter.
+

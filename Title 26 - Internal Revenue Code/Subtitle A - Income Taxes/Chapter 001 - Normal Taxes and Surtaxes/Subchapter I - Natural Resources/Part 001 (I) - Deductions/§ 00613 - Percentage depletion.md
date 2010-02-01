@@ -156,7 +156,7 @@ Subsec. (d). Pub. L. 94–12, §501(b)(1), substituted provisions denying the pe
 
 1974—Subsec. (c)(4)(E). Pub. L. 93–499 inserted reference to decarbonation of trona.
 
-1969—Subsec. (b). Pub. L. 91–172, §501(a), reduced the percentage depletion rate on oil and gas wells from 271/2 percent to 22 percent, reduced to 22 percent other minerals formerly receiving percentage depletion at a rate of 23 percent, added molybdenum in the category of minerals subject to the 22 percent depletion rate, reduced to 14 percent the rate on minerals formerly receiving depletion at a 15 percent rate except in the case of domestic gold, silver, oil shale, copper, and iron ore, and inserted provision that for percentage depletion purposes, minerals other than sodium chloride, extracted from brine pumped from a saline perennial lake within the United States are not to be considered minerals from an inexhaustible source.
+1969—Subsec. (b). Pub. L. 91–172, §501(a), reduced the percentage depletion rate on oil and gas wells from 271/2 percent to 22 percent, reduced to 22 percent other minerals formerly receiving percentage depletion at a rateof 23 percent, added molybdenum in the category of minerals subject to the 22 percent depletion rate, reduced to 14 percent the rate on minerals formerly receiving depletion at a 15 percent rate except in the case of domestic gold, silver, oil shale, copper, and iron ore, and inserted provision that for percentage depletion purposes, minerals other than sodium chloride, extracted from brine pumped from a saline perennial lake within the United States are not to be considered minerals from an inexhaustible source.
 
 Subsec. (c)(4)(H), (I). Pub. L. 91–172, §502(a), added subpar. (H) and redesignated former subpar. (H) as (I).
 
@@ -306,7 +306,7 @@ Pub. L. 87–312, Sept. 26, 1961, 75 Stat. 674, provided for the election of, an
 
 #### Election for Quartzite and Clay Used in Production of Refractory Products
 
-Pub. L. 87–321, §2, Sept. 26, 1961, 75 Stat. 683, provided for an election of, and procedures for, a differing rate of depletion for quartzite and clay used in production of refractory products, such election to be effective on and after Jan. 1, 1951, for all taxable years beginning before Jan. 1, 1961, in respect of which the assessment of a deficiency, the refund or credit of an overpayment, or the commencement of a suit for recovery is not prevented on Sept. 26, 1961, by the operation of any law orrule of law, and also effective on and after Jan. 1, 1951, for any taxable year beginning before Jan. 1, 1961, in respect of which an assessment of a deficiency has been made but not collected on or before Sept. 26, 1961.
+Pub. L. 87–321, §2, Sept. 26, 1961, 75 Stat. 683, provided for an election of, and procedures for, a differing rate of depletion for quartzite and clay used in production of refractory products, such election to be effective on and after Jan. 1, 1951, for all taxable years beginning before Jan. 1, 1961, in respect of which the assessment of a deficiency, the refund or credit of an overpayment, or the commencement of a suit for recovery is not prevented on Sept. 26, 1961, by the operation of any law or rule of law, and also effective on and after Jan. 1, 1951, for any taxable year beginning before Jan. 1, 1961, in respect of which an assessment of a deficiency has been made but not collected on or before Sept. 26, 1961.
 
 #### Refund or Credit of Overpayments; Limitations; Interest
 

@@ -8,7 +8,7 @@ The Secretary of State, in coordination with the Secretary of Energy and the Adm
 
 #### (1) In general
 
-&emsp;The Secretaries and the Administrator shall plan, coordinate, and carry out, or provide assistance for the planning, coordination, or carrying out of, demonstration projects under this section in at least 10 eligible countries, asdetermined by the Secretaries and the Administrator.
+&emsp;The Secretaries and the Administrator shall plan, coordinate, and carry out, or provide assistance for the planning, coordination, or carrying out of, demonstration projects under this section in at least 10 eligible countries, as determined by the Secretaries and the Administrator.
 
 #### (2) Eligibility
 

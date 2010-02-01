@@ -66,7 +66,7 @@ The Secretary shall establish a beginning farmer and rancher development program
 
 &emsp;&emsp;(C) a community-based and nongovernmental organization;
 
-&emsp;&emsp;(D) a college or university (including an institution awarding an associate's degree)or foundation maintained by a college or university; or
+&emsp;&emsp;(D) a college or university (including an institution awarding an associate's degree) or foundation maintained by a college or university; or
 
 &emsp;&emsp;(E) any other appropriate partner, as determined by the Secretary.
 
@@ -222,7 +222,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Definitions
 
-Pub. L. 107–171, title VII, §7401, May 13, 2002, 116 Stat. 455, provided that: “In this subtitle \[subtitle D (§7401–7412) of title VII of Pub. L. 107–171, enacting this section and sections 3310a, 3319b, 5925c, 5925d, and 7630 of this title and provisions set out as notes under sections 3101, 3319b, 5925a, and 5925b of this title\]:
+Pub. L. 107–171, title VII, §7401, May 13, 2002, 116 Stat. 455, provided that: “In this subtitle \[subtitle D\(§7401–7412) of title VII of Pub. L. 107–171, enacting this section and sections 3310a, 3319b, 5925c, 5925d, and 7630 of this title and provisions set out as notes under sections 3101, 3319b, 5925a, and 5925b of this title\]:
 
 &emsp;“(1)
 

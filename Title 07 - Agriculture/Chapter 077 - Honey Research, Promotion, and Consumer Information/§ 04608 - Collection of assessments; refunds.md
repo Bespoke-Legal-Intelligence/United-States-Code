@@ -14,7 +14,7 @@ The first handler shall maintain a separate record on each producer's honey so h
 
 #### (c) Importers
 
-Except as otherwise provided in this section, at the time of entry of honey and honey products into the United States, an importer shallremit to the Honey Board through the United States Customs Service—
+Except as otherwise provided in this section, at the time of entry of honey and honey products into the United States, an importer shall remit to the Honey Board through the United States Customs Service—
 
 &emsp;(1) the assessment on the imported honey and honey products required under section 4606(e)(2)(B) of this title; or
 
@@ -88,7 +88,7 @@ Administration and remittance of the assessments under this chapter shall be con
 
 &emsp;(1) in the manner prescribed in the order and regulations issued under this chapter; and
 
-&emsp;(2) if approved in a referendum conducted under this chapter, in a manner that ensures that all honey and honey products are assesseda total of, but not more than, $0.015 per pound, including any producer or importer assessment.
+&emsp;(2) if approved in a referendum conducted under this chapter, in a manner that ensures that all honey and honey products are assessed a total of, but not more than, $0.015 per pound, including any producer or importer assessment.
 
 #### (i) Liability for assessments
 
@@ -116,7 +116,7 @@ Subsec. (e). Pub. L. 105–185, §605(h)(1)(C), added subsec. (e) and struck out
 
 Subsec. (f). Pub. L. 105–185, §605(h)(2), added subsec. (f) and struck out former subsec. (f) which read as follows: “Handlers, importers, producers, and producer-packers responsible for payment of assessments, and persons receiving an exemption from assessments under section 4606(e)(2) of this title, shall maintain and make available for inspection by the Secretary such books and records as are required by the order and file reports at the times, in the manner, and having the content prescribed by the order, so that information and data shall be made available to the Honey Board and to the Secretary which is appropriate or necessary to the effectuation, administration, or enforcement of the chapter or of any order or regulation issued pursuant to this chapter.”
 
-Subsec. (g). Pub. L. 105–185, §605(h)(3), added subsec. (g) and struck out former subsec. (g) which read as follows: “All information obtained pursuant to subsection (f) of this section shall be kept confidential by all officers and employees of the Department of Agriculture and of the Honey Board. Only such information as the Secretary deems relevant shall be disclosed and only in a suit or administrative hearing brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party involving the order with reference to which the information was furnished or acquired. Nothing in this section prohibits—
+Subsec. (g). Pub. L. 105–185, §605(h)(3), added subsec. (g) and struck out former subsec. (g) which read as follows: “All information obtained pursuant to subsection (f) of this section shall be kept confidential by all officers and employees of the Department of Agriculture and of the Honey Board. Only such information as the Secretary deems relevant shall be disclosed and only ina suit or administrative hearing brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party involving the order with reference to which the information was furnished or acquired. Nothing in this section prohibits—
 
 &emsp;“(1) issuance of general statements based upon the reports of a number of handlers subject to any order, if such statements do not identify the information furnished by any person; or
 
@@ -146,5 +146,5 @@ Subsec. (i). Pub. L. 101–624, §1984(b)(5), added subsec. (i).
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

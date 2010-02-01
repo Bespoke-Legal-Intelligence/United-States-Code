@@ -54,7 +54,7 @@
 
 > is entitled to an annuity.
 
-(d)(1) The Secretary of Defense may, during fiscal years 2002 and 2003, carry out a program under which an employee of the Department of Defense may be separated from the service entitled to an immediate annuity under this subchapter if the employee—
+(d)(1) The Secretary of Defense may, during fiscal years 2002 and 2003, carry out a programunder which an employee of the Department of Defense may be separated from the service entitled to an immediate annuity under this subchapter if the employee—
 
 &emsp;(A) has—
 

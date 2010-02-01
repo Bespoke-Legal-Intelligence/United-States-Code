@@ -22,7 +22,7 @@ Participation in Gas or Electric Utility Programs.—The Secretary of Defense sh
 
 (c)
 
-Acceptance of Financial Incentive, Goods, or Services.—The Secretary of Defensemay authorize any military installation to accept any financial incentive, goods, or services generally available from a gas or electric utility, to adopt technologies and practices that the Secretary determines are in the interests of the United States and consistent with the energy performance goals for the Department of Defense.
+Acceptance of Financial Incentive, Goods, or Services.—The Secretary of Defense may authorize any military installation to accept any financial incentive, goods, or services generally available from a gas or electric utility, to adopt technologies and practices that the Secretary determines are in the interests of the United States and consistent with the energy performance goals for the Department of Defense.
 
 (d)
 

@@ -18,7 +18,7 @@ Except as otherwise provided in this title, for purposes of this title, the term
 
 &emsp;&emsp;(A) the plan provides for the allocation for the plan year of all employer securities transferred to it or purchased by it (because of the requirements of section 41(c)(1)(B)) <sup>1</sup> to the accounts of all participants who are entitled to share in such allocation, and
 
-&emsp;&emsp;(B) for the plan year the allocation to each participant so entitled is an amount which bears substantially the same proportion to the amount of all such securities allocated to all such participants in the plan for that year as the amount of compensation paid to such participant during that year bears to the compensation paid to all such participants during that year.
+&emsp;&emsp;(B) for the plan year the allocation to each participant so entitled is an amount whichbears substantially the same proportion to the amount of all such securities allocated to all such participants in the plan for that year as the amount of compensation paid to such participant during that year bears to the compensation paid to all such participants during that year.
 
 #### (2) Compensation in excess of $100,000 disregarded
 
@@ -90,7 +90,7 @@ A plan meets the requirements of this subsection only if it provides that no emp
 
 #### (g) Transferred amounts must stay in plan even though investment credit is redetermined or recaptured
 
-A plan meets the requirement of this subsection only if it provides that amounts which are transferred to the plan (because of the requirements of section 48(n)(1) or 41(c)(1)(B)) <sup>2</sup> shall remain in the plan (and, if allocated under the plan, shall remain so allocated) even though part or all of the employee plan credit or the credit allowed under section 41 <sup>2</sup> (relating to employee stock ownership credit) is recaptured or redetermined. For purposes of the preceding sentence, the references to section 48(n)(1) <sup>2</sup> and the employee plan credit shall refer to such section and credit as in effect before the enactment of the Tax Reform Act of 1984.
+A plan meets the requirement of this subsection only if it provides that amounts whichare transferred to the plan (because of the requirements of section 48(n)(1) or 41(c)(1)(B)) <sup>2</sup> shall remain in the plan (and, if allocated under the plan, shall remain so allocated) even though part or all of the employee plan credit or the credit allowed under section 41 <sup>2</sup> (relating to employee stock ownership credit) is recaptured or redetermined. For purposes of the preceding sentence, the references to section 48(n)(1) <sup>2</sup> and the employee plan credit shall refer to such section and credit as in effect before the enactment of the Tax Reform Act of 1984.
 
 #### (h) Right to demand employer securities; put option
 
@@ -210,7 +210,7 @@ For purposes of this section—
 
 #### (3) Preferred stock may be issued in certain cases
 
-&emsp;Noncallable preferred stock shall be treated as employer securities if such stock is convertible at any time into stock which meets the requirements of paragraph (1) or (2) (whichever is applicable) and if such conversion is at a conversion price which (as of the date of the acquisition by the tax credit employee stock ownership plan) is reasonable. For purposes of the preceding sentence, underregulations prescribed by the Secretary, preferred stock shall be treated as noncallable if after the call there will be a reasonable opportunity for a conversion which meets the requirements of the preceding sentence.
+&emsp;Noncallable preferred stock shall be treated as employer securities if such stock is convertible at any time into stock which meets the requirements of paragraph (1) or (2) (whichever is applicable) and if such conversion is at a conversion price which (as of the date of the acquisition by the tax credit employee stock ownership plan) is reasonable. For purposes of the preceding sentence, under regulations prescribed by the Secretary, preferred stock shall be treated as noncallable if after the call there will be a reasonable opportunity for a conversion which meets the requirements of the preceding sentence.
 
 #### (4) Application to controlled group of corporations
 
@@ -304,7 +304,7 @@ A plan meets the requirements of this subsection if—
 
 #### (A) In general
 
-&emsp;&emsp;The plan provides that, if the participant and, if applicable pursuant to sections 401(a)(11) and 417, with the consent of the participant's spouse elects, the distribution of the participant's account balance in the plan will commence not later than 1 year after the close of the plan year—
+&emsp;&emsp;The plan provides that, if the participant and, if applicable pursuant to sections401(a)(11) and 417, with the consent of the participant's spouse elects, the distribution of the participant's account balance in the plan will commence not later than 1 year after the close of the plan year—
 
 &emsp;&emsp;&emsp;(i) in which the participant separates from service by reason of the attainment of normal retirement age under the plan, disability, or death, or
 
@@ -370,7 +370,7 @@ A plan meets the requirements of this subsection if—
 
 &emsp;&emsp;&emsp;Notwithstanding the employee trust exception in section 318(a)(2)(B)(i), an individual shall be treated as owning deemed-owned shares of the individual.
 
-> &emsp;&emsp;Solely for purposes of applying paragraph (5), this subparagraph shall be applied afterthe attribution rules of paragraph (5) have been applied.
+> &emsp;&emsp;Solely for purposes of applying paragraph (5), this subparagraph shall be applied after the attribution rules of paragraph (5) have been applied.
 
 #### (4) Disqualified person
 
@@ -396,7 +396,7 @@ A plan meets the requirements of this subsection if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the stock in the S corporation constituting employer securities of an employee stock ownership plan which is allocated to such person under the plan, and
 
-&emsp;&emsp;&emsp;&emsp;(II) such person's share of the stock in such corporation which is held by such plan but which is not allocated under the plan to participants.
+&emsp;&emsp;&emsp;&emsp;(II) such person's share of the stock in such corporation which is held by suchplan but which is not allocated under the plan to participants.
 
 #### (ii) Person's share of unallocated stock
 
@@ -468,7 +468,7 @@ A plan meets the requirements of this subsection if—
 
 #### References in Text
 
-Section 41, referred to in subsecs. (b)(1)(A), (4), (g), (i)(1)(A), (m), and (p), which related to employee stock ownership credit, was repealed by Pub. L. 99–514, title XI, §1171(a), Oct. 22, 1986, 100 Stat. 2513. Section 30 of this title, relating to credit for increasing research activities, was renumbered section 41.
+Section 41, referred to in subsecs. (b)(1)(A), (4), (g), (i)(1)(A), (m), and (p), which related to employee stockownership credit, was repealed by Pub. L. 99–514, title XI, §1171(a), Oct. 22, 1986, 100 Stat. 2513. Section 30 of this title, relating to credit for increasing research activities, was renumbered section 41.
 
 Section 12 of the Securities Exchange Act of 1934, referred to in subsec. (e)(4), is classified to section 78<i>l</i> of Title 15, Commerce and Trade.
 
@@ -550,7 +550,7 @@ Subsec. (<i>l</i>)(4). Pub. L. 99–514, §1176(b), added par. (4) relating to a
 
 Subsec. (n). Pub. L. 99–514, §1854(a)(3)(A), added subsec. (n). Former subsec. (n) redesignated (<i>o</i>).
 
-Subsec. (n)(1). Pub. L. 99–514, §1172(b)(1), as amended by Pub. L. 100–647, §1011B(g)(1), inserted “or section 2057” in two places in introductory provisions, “or any decedent if the executor of the estate of such decedent makes a qualified sale to which section 2057 applies,” in subpar. (A)(i), and “or the decedent” in subpar. (A)(ii).
+Subsec. (n)(1). Pub. L. 99–514, §1172(b)(1), as amended by Pub. L. 100–647, §1011B(g)(1), inserted “or section 2057” in two places in introductory provisions, “or any decedent if the executor of the estate of such decedentmakes a qualified sale to which section 2057 applies,” in subpar. (A)(i), and “or the decedent” in subpar. (A)(ii).
 
 Subsec. (<i>o</i>). Pub. L. 99–514, §1174(b)(1), added subsec. (<i>o</i>). Former subsec. (<i>o</i>) redesignated (p).
 
@@ -698,7 +698,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 331(c)(1) of Pub. L. 97–34 applicable to taxable years ending after Dec. 31, 1982, seesection 331(f)(2) of Pub. L. 97–34, set out as a note under section 404 of this title.
+Amendment by section 331(c)(1) of Pub. L. 97–34 applicable to taxable years ending after Dec. 31, 1982, see section 331(f)(2) of Pub. L. 97–34, set out as a note under section 404 of this title.
 
 Section 337(b) of Pub. L. 97–34, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply to distributions described in section 409A(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (or any corresponding provision of prior law) made after March 29, 1975.”
 

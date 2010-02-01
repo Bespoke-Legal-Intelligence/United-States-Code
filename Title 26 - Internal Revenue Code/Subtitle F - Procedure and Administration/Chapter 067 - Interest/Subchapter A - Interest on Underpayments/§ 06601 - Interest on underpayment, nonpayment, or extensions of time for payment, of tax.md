@@ -34,7 +34,7 @@ For purposes of this section, the last date prescribed for payment of the tax sh
 
 #### (c) Suspension of interest in certain income, estate, gift, and certain excise tax cases
 
-In the case of a deficiency as defined in section 6211 (relating to income, estate, gift, and certainexcise taxes), if a waiver of restrictions under section 6213(d) on the assessment of such deficiency has been filed, and if notice and demand by the Secretary for payment of such deficiency is not made within 30 days after the filing of such waiver, interest shall not be imposed on such deficiency for the period beginning immediately after such 30th day and ending with the date of notice and demand and interest shall not be imposed during such period on any interest with respect to such deficiency for any prior period. In the case of a settlement under section 6224(c) which results in the conversion of partnership items to nonpartnership items pursuant to section 6231(b)(1)(C), the preceding sentence shall apply to a computational adjustment resulting from such settlement in the same manner as if such adjustment were a deficiency and such settlement were a waiver referred to in the preceding sentence.
+In the case of a deficiency as defined in section 6211 (relating to income, estate, gift, and certain excise taxes), if a waiver of restrictions under section 6213(d) on the assessment of such deficiency has been filed, and if notice and demand by the Secretary for payment of such deficiency is not made within 30 days after the filing of such waiver, interest shall not be imposed on such deficiency for the period beginning immediately after such 30th day and ending with the date of notice and demand and interest shall not be imposed during such period on any interest with respect to such deficiency for any prior period. In the case of a settlement under section 6224(c) which results in the conversion of partnership items to nonpartnership items pursuant to section 6231(b)(1)(C), the preceding sentence shall apply to a computational adjustment resulting from such settlement in the same manner as if such adjustment were a deficiency and such settlement were a waiver referred to in the preceding sentence.
 
 #### (d) Income tax reduced by carryback or adjustment for certain unused deductions
 
@@ -44,7 +44,7 @@ In the case of a deficiency as defined in section 6211 (relating to income, esta
 
 #### (2) Foreign tax credit carrybacks
 
-&emsp;If any credit allowed for any taxable year is increased by reason of a carryback of tax paid or accrued to foreign countries or possessions of the United States, such increase shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which such taxes were in fact paid or accrued, or, with respect to any portion of such credit carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
+&emsp;If any credit allowed for any taxable year is increased by reason of a carryback of tax paid or accrued to foreign countries or possessions of the United States, such increase shall not affect the computation of interest under this section for the period ending with the filingdate for the taxable year in which such taxes were in fact paid or accrued, or, with respect to any portion of such credit carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
 
 #### (3) Certain credit carrybacks
 
@@ -322,7 +322,7 @@ Amendment by section 7106(c)(5) of Pub. L. 100–647 applicable to remuneration 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 31, 1987, see section 10301(c)of Pub. L. 100–203, set out as a note under section 585 of this title.
+Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 31, 1987, see section 10301(c) of Pub. L. 100–203, set out as a note under section 585 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -432,7 +432,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Administration of Penalties and Interest
 
-Pub. L. 105–206, title III, §3801, July 22, 1998, 112 Stat. 782, provided that: “The Joint Committee on Taxation and the Secretary of the Treasury shall each conduct a separate study—
+Pub. L. 105–206, title III, §3801, July 22, 1998, 112 Stat. 782, provided that: “The Joint Committee on Taxationand the Secretary of the Treasury shall each conduct a separate study—
 
 &emsp;“(1) reviewing the administration and implementation by the Internal Revenue Service of the interest and penalty provisions of the Internal Revenue Code of 1986 (including the penalty reform provisions of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239, see Tables for classification\]); and
 

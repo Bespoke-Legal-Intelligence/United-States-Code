@@ -2,7 +2,7 @@
 
 #### (a) Enforcement of orders by district court; referral of civil actions to Attorney General
 
-The several district courts of the United States are vested with jurisdiction specificallyto enforce, and to prevent and restrain any person from violating, any order or regulation made or issued pursuant to this chapter. Any civil action authorized to be brought under this subsection shall be referred to the Attorney General for appropriate action: <i>Provided</i>, That nothing in this chapter shall be construed as requiring the Secretary to refer to the Attorney General violations of this chapter whenever he believes that the administration and enforcement of the program would be adequately served by administrative action pursuant to subsection (b) of this section or suitable written notice or warning to any person committing such violations.
+The several district courts of the United States are vested with jurisdiction specifically to enforce, and to prevent and restrain any person from violating, any order or regulation made or issued pursuant to this chapter. Any civil action authorized to be brought under this subsection shall be referred to the Attorney General for appropriate action: <i>Provided</i>, That nothing in this chapter shall be construed as requiring the Secretary to refer to the Attorney General violations of this chapter whenever he believes that the administration and enforcement of the program would be adequately served by administrative action pursuant to subsection (b) of this section or suitable written notice or warning to any person committing such violations.
 
 #### (b) Civil penalty; review by court of appeals; noncompliance with final order; referral to Attorney General
 

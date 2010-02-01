@@ -8,7 +8,7 @@ Detail Authorized.—The Secretary of each military department may detail commis
 
 Eligibility for Detail.—To be eligible for detail under subsection (a), an officer must be a citizen of the United States and must—
 
-&emsp;(1) have served on active duty for a period of not less than two years nor more than six years and be in the pay grade 0–3 <sup>1</sup> or below as of the time the training is to begin; and
+&emsp;(1) have served on active duty for a period of not less than two years nor more than six years and be in the pay grade O–3 or below as of the time the training is to begin; and
 
 &emsp;(2) sign an agreement that unless sooner separated the officer will—
 
@@ -20,7 +20,7 @@ Eligibility for Detail.—To be eligible for detail under subsection (a), an off
 
 (c)
 
-Service Obligation.—An agreement under subsection (b) shall provide that the officer shall serve on active duty for two years for each year or part thereof of the officer's medical training under subsection (a), except that the agreement may authorize the officer to serve a portion of the officer's service obligation on active duty and to complete the service obligation that remains upon separation from active duty in the Selected Reserve, in which case the officer shall serve three years in the Selected Reserve for each year or part thereof of the officer's medical training under subsection (a) for any service obligation that was not completed before separation from active duty.
+Service Obligation.—An agreement under subsection (b) shall provide that the officer shall serve on active duty for two years for each year or part thereof of the officer's medical training under subsection (a), except that the agreement may authorize the officer to serve a portion of the officer's service obligation on active duty and to complete the service obligation that remains upon separation from active duty in theSelected Reserve, in which case the officer shall serve three years in the Selected Reserve for each year or part thereof of the officer's medical training under subsection (a) for any service obligation that was not completed before separation from active duty.
 
 (d)
 
@@ -30,7 +30,7 @@ Selection of Officers for Detail.—Officers detailed for medical training under
 
 Appointment and Treatment of Prior Active Service.—(1) A commissioned officer detailed as a student at a medical school under subsection (a) shall be appointed as a regular officer in the grade of second lieutenant or ensign and shall serve on active duty in that grade with full pay and allowances of that grade.
 
-(2) If an officer detailed to be a medical student has prior active service in a pay grade and with years of service credited for pay that would entitle the officer, if the officer remained in the former grade, to a rate of basic pay in excess of the rate of basic pay for regular officers in the grade of second lieutenant or ensign, the officer shall be paid basic pay based on the former grade and years of service credited for pay. The amount of such basic pay for the officer shall beincreased on January 1 of each year by the percentage by which basic pay is increased on average on that date for that year, and the officer shall continue to receive basic pay based on the former grade and years of service until the date, whether occurring before or after graduation, on which the basic pay for the officer in the officer's actual grade and years of service credited for pay exceeds the amount of basic pay to which the officer is entitled based on the officer's former grade and years of service.
+(2) If an officer detailed to be a medical student has prior active service in a pay grade and with years of service credited for pay that would entitle the officer, if the officer remained in the former grade, to a rate of basic pay in excess of the rate of basic pay for regular officers in the grade of second lieutenant or ensign, the officer shall be paid basic pay based on the former grade and years of service credited for pay. The amount of such basic pay for the officer shall be increased on January 1 of each year by the percentage by which basic pay is increased on average on that date for that year, and the officer shall continue to receive basic pay based on the former grade and years of service until the date, whether occurring before or after graduation, on which the basic pay for the officer in the officer's actual grade and years of service credited for pay exceeds the amount of basic pay to which the officer is entitled based on the officer's former grade and years of service.
 
 (f)
 
@@ -48,17 +48,17 @@ Failure to Complete Program.—(1) An officer who is dropped from a program of m
 
 (i)
 
-Limitation on Details.—No agreement detailing an officer of the armed forces to an accredited medical school or school of osteopathy may be entered into during any period in which the President is authorized by law to induct persons into the armed forces involuntarily. Nothing in this subsection shall affect any agreement entered into during any period when the President is not authorized by law to so induct persons into the armed forces <sup>2</sup>
+Limitation on Details.—No agreement detailing an officer of the armed forces to an accredited medical school or school of osteopathy may be entered into during any period in which the President is authorized by law to induct persons into the armed forces involuntarily. Nothing in this subsection shall affect any agreement entered into during any period when the President is not authorized by law to so induct persons into the armed forces.
 
-(Added Pub. L. 109–364, div. A, title V, §536(a), Oct. 17, 2006, 120 Stat. 2207; amended Pub. L. 110–181, div. A, title V, §524(c), Jan. 28, 2008, 122 Stat. 104.)
+(Added Pub. L. 109–364, div. A, title V, §536(a), Oct. 17, 2006, 120 Stat. 2207; amended Pub. L. 110–181, div. A, title V, §524(c), Jan. 28, 2008, 122 Stat. 104; Pub. L. 111–84, div. A, title X, §1073(a)(18), Oct. 28, 2009, 123 Stat. 2473.)
 
 #### Amendments
+
+2009—Subsec. (b)(1). Pub. L. 111–84, §1073(a)(18)(A), substituted “pay grade O–3” for “pay grade 0–3”.
+
+Subsec. (i). Pub. L. 111–84, §1073(a)(18)(B), inserted period at end.
 
 2008—Subsec. (c). Pub. L. 110–181, §524(c)(2), substituted “subsection (b)” for “subsection (c)”.
 
 Subsecs. (e) to (i). Pub. L. 110–181, §524(c)(1), added subsec. (e) and redesignated former subsecs. (e) to (h) as (f) to (i), respectively.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “O–3”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 

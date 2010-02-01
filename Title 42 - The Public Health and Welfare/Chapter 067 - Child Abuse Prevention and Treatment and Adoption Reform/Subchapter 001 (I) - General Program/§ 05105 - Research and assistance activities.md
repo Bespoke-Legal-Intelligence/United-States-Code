@@ -130,7 +130,7 @@ The Secretary may award grants to, and enter into contracts with, States or publ
 
 #### (1) Promotion of safe, family-friendly physical environments for visitation and exchange
 
-&emsp;The Secretary may award grants under this subsection to entities to assist such entities in establishing and operating safe, family-friendly physical environments—
+&emsp;The Secretary may award grants under this subsection to entities to assist such entities inestablishing and operating safe, family-friendly physical environments—
 
 &emsp;&emsp;(A) for court-ordered, supervised visitation between children and abusing parents; and
 
@@ -254,7 +254,7 @@ Subsecs. (b), (c). Pub. L. 98–457, §105(c), redesignated subsec. (c) as (b) a
 
 Subsec. (b). Pub. L. 95–266, §105(3), substituted provisions relating to review of the plan by the Advisory Board and submission to the President and Congress of a final plan, for provisions relating to a report by the Advisory Board on assisted programs, etc., and submission to the President and Congress.
 
-Subsec. (c). Pub. L. 95–266, §105(3), substituted provisions setting forth compensation and travel expense allowance authorizations for members of the Board, forprovisions authorizing use of appropriated funds for required report.
+Subsec. (c). Pub. L. 95–266, §105(3), substituted provisions setting forth compensation and travel expense allowance authorizations for members of the Board, for provisions authorizing use of appropriated funds for required report.
 
 #### Change of Name
 

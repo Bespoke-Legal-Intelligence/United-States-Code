@@ -26,7 +26,7 @@ Certification and Payment.—
 
 &emsp;“(1) Not later than two years after the entry into force of the Agreement, the Commission shall certify to the Secretary of State, in writing, its determinations as to the validity and amount of the claims authorized for decision under subsection (a).
 
-&emsp;“(2) In the case of claims found to be compensable under subsection (a), the Commission shall certify the awards entered in the claims to the Secretary of the Treasury in accordance with section 5 of title I of the International Claims Settlement Act of 1949 (22 U.S.C. 1624). Such awards shall be paid in accordance with subsections (a) and (c)–(f) of section 7 of such title (22 U.S.C. 1626) out of a special fund established in accordance with section 8 of such title (22 U.S.C. 1627), following conclusion of the negotiations provided for in Article 2(2) of the Agreement.
+&emsp;“(2) In the case of claims found to be compensable under subsection (a), the Commission shall certify the awards entered in the claims to the Secretary of the Treasury in accordance with section 5 of title I of the International Claims Settlement Act of 1949 (22U.S.C. 1624). Such awards shall be paid in accordance with subsections (a) and (c)–(f) of section 7 of such title (22 U.S.C. 1626) out of a special fund established in accordance with section 8 of such title (22 U.S.C. 1627), following conclusion of the negotiations provided for in Article 2(2) of the Agreement.
 
 “(d)
 

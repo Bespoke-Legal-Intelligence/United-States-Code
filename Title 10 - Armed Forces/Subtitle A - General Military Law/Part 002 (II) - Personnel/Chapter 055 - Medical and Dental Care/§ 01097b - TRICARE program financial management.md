@@ -24,7 +24,7 @@ Reimbursement of Providers.—(1) Subject to paragraph (2), the Secretary of Def
 
 Third-Party Collections.—(1) A medical treatment facility of the uniformed services under the TRICARE program has the same right as the United States under section 1095 of this title to collect from a third-party payer the reasonable charges for health care services described in paragraph (2) that are incurred by the facility on behalf of a covered beneficiary under that program.
 
-(2) The Secretary of Defense shall prescribe regulations for the administration of this subsection. The regulations shall set forth the method to be used for the computation of the reasonable charges for inpatient, outpatient,and other health care services. The method of computation may be—
+(2) The Secretary of Defense shall prescribe regulations for the administration of this subsection. The regulations shall set forth the method to be used for the computation of the reasonable charges for inpatient, outpatient, and other health care services. The method of computation may be—
 
 &emsp;(A) a method that is based on—
 
@@ -50,5 +50,5 @@ Pub. L. 106–65, div. A, title VII, §716(d), Oct. 5, 1999, 113 Stat. 692, prov
 
 #### Report on Implementation
 
-Pub. L. 106–65, div. A, title VII, §716(b), Oct. 5, 1999, 113 Stat. 691, directed the Secretary of Defense to submit to Congress a report assessing the effects of the implementation of the requirements and authorities set forth in this section not later than 6 months after Oct. 5, 1999.
+Pub. L. 106–65, div. A, title VII, §716(b), Oct. 5, 1999, 113 Stat. 691, directed the Secretary of Defense to submit to Congress a report assessing the effects of the implementation of the requirements and authorities setforth in this section not later than 6 months after Oct. 5, 1999.
 

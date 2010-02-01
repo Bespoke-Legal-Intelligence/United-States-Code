@@ -78,6 +78,18 @@ For purposes of this part—
 
 &emsp;&emsp;For purposes of subparagraph (A) and subsection (d)(4) of this section, any period that an individual is in a waiting period for any coverage under a group health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection (g)(2) of this section) shall not be taken into account in determining the continuous period under subparagraph (A).
 
+#### (C) TAA-eligible individuals
+
+&emsp;&emsp;In the case of plan years beginning before January 1, 2011—
+
+#### (i) TAA pre-certification period rule
+
+&emsp;&emsp;&emsp;In the case of a TAA-eligible individual, the period beginning on the date the individual has a TAA-related loss of coverage and ending on the date that is 7 days after the date of the issuance by the Secretary (or by any person or entity designated by the Secretary) of a qualified health insurance costs credit eligibility certificate for such individual for purposes of section 7527 of title 26 shall not be taken into account in determining the continuous period under subparagraph (A).
+
+#### (ii) Definitions
+
+&emsp;&emsp;&emsp;The terms “TAA-eligible individual” and “TAA-related loss of coverage” have the meanings given such terms in section 300bb–5(b)(4) of this title.
+
 #### (3) Method of crediting coverage
 
 #### (A) Standard method
@@ -132,7 +144,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;A group health plan, and a health insurance issuer offering group health insurancecoverage, shall provide the certification described in subparagraph (B)—
+&emsp;&emsp;A group health plan, and a health insurance issuer offering group health insurance coverage, shall provide the certification described in subparagraph (B)—
 
 &emsp;&emsp;&emsp;(i) at the time an individual ceases to be covered under the plan or otherwise becomes covered under a COBRA continuation provision,
 
@@ -216,6 +228,36 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(iii) in the case of a dependent's adoption or placement for adoption, the date of such adoption or placement for adoption.
 
+#### (3) Special rules for application in case of Medicaid and CHIP
+
+#### (A) In general
+
+&emsp;&emsp;A group health plan, and a health insurance issuer offering group health insurance coverage in connection with a group health plan, shall permit an employee who is eligible, but not enrolled, for coverage under the terms of the plan (or a dependent of such an employee if the dependent is eligible, but not enrolled, for coverage under such terms) to enroll for coverage under the terms of the plan if either of the following conditions is met:
+
+#### (i) Termination of Medicaid or CHIP coverage
+
+&emsp;&emsp;&emsp;The employee or dependent is covered under a Medicaid plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] or under a State child health plan under title XXI of such Act \[42 U.S.C. 1397aa et seq.\] and coverage of the employee or dependent under such a plan is terminated as a result of loss of eligibility for such coverage and the employee requests coverage under the group health plan (or health insurance coverage) not later than 60 days after the date of termination of such coverage.
+
+#### (ii) Eligibility for employment assistance under Medicaid or CHIP
+
+&emsp;&emsp;&emsp;The employee or dependent becomes eligible for assistance, with respect to coverage under the group health plan or health insurance coverage, under such Medicaid plan or State child health plan (including under any waiver or demonstration project conducted under or in relation to such a plan), if the employee requests coverage under the group health plan or health insurance coverage not later than 60 days after the date the employee or dependent is determined to be eligible for such assistance.
+
+#### (B) Coordination with Medicaid and CHIP
+
+#### (i) Outreach to employees regarding availability of Medicaid and CHIP coverage
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Each employer that maintains a group health plan in a State that provides medical assistance under a State Medicaid plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], or child health assistance under a State child health plan under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], in the form of premium assistance for the purchase of coverage under a group health plan, shall provide to each employee a written notice informing the employee of potential opportunities then currently available in the State in which the employee resides for premium assistance under such plans for health coverage of the employee or the employee's dependents. For purposes of compliance with this subclause, the employer may use any State-specific model notice developed in accordance with section 1181(f)(3)(B)(i)(II) of title 29.
+
+#### (II) Option to provide concurrent with provision of plan materials to employee
+
+&emsp;&emsp;&emsp;&emsp;An employer may provide the model notice applicable to the State in which an employee resides concurrent with the furnishing of materials notifying the employee of health plan eligibility, concurrent with materials provided to the employee in connection with an open season or election process conducted under the plan, or concurrent with the furnishing of the summary plan description as provided in section 1024(b) of title 29.
+
+#### (ii) Disclosure about group health plan benefits to States for Medicaid and CHIP eligible individuals
+
+&emsp;&emsp;&emsp;In the case of an enrollee in a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] or under a State child health plan under title XXI of such Act \[42 U.S.C. 1397aa etseq.\], the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under the group health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children's Health Insurance <sup>1</sup> Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act \[42 U.S.C. 1397ee(c)(2)(B), (3), (10)\] or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
+
 #### (g) Use of affiliation period by HMOs as alternative to preexisting condition exclusion
 
 #### (1) In general
@@ -244,15 +286,31 @@ For purposes of this part—
 
 &emsp;A health maintenance organization described in paragraph (1) may use alternative methods, from those described in such paragraph, to address adverse selection as approved by the State insurance commissioner or official or officials designated by the State to enforce the requirements of this part for the State involved with respect to such issuer.
 
-(July 1, 1944, ch. 373, title XXVII, §2701, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1955.)
+(July 1, 1944, ch. 373, title XXVII, §2701, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1955; amended Pub. L. 111–3, title III, §311(b)(2), Feb. 4, 2009, 123 Stat. 70; Pub. L. 111–5, div. B, title I, §1899D(c), Feb. 17, 2009, 123 Stat. 426.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(1)(C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII of chapter 7 of this title. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (c)(1)(C), (D) and (f)(3)(A)(i), (B)(i)(I), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of this title. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+Section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (f)(3)(B)(ii), is section 311(b)(1)(C) of Pub. L. 111–3, which is set out as a note under section 1181 of Title 29, Labor.
 
 #### Prior Provisions
 
 A prior section 2701 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238 of this title.
+
+#### Amendments
+
+2009—Subsec. (c)(2)(C). Pub. L. 111–5 added subpar. (C).
+
+Subsec. (f)(3). Pub. L. 111–3 added par. (3).
+
+#### Effective Date of 2009 Amendment
+
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
+
+Amendment by Pub. L. 111–5 applicable to plan years beginning after Feb. 17, 2009, see section 1899D(d) of Pub. L. 111–5, set out as a note under section 9801 of Title 26, Internal Revenue Code.
+
+Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of this title.
 
 #### Effective Date
 
@@ -276,7 +334,7 @@ In general.—Subject to clause (ii), no period before July 1, 1996, shall be ta
 
 &emsp;&emsp;“(ii)
 
-Special rule for certain periods.—The Secretary of Health and Human Services, consistent with section 104 \[set out as a note under section 300gg–92 of this title\], shall provide for a process whereby individuals who need to establish creditable coverage for periods before July 1, 1996, and who would have such coverage credited but for clause (i) may be given credit for creditable coverage for such periods through the presentation of documents or other means.
+Special rule for certain periods.—The Secretary of Health and Human Services, consistent with section 104 \[set out as a note under section 300gg–92 of this title\], shall provide for a processwhereby individuals who need to establish creditable coverage for periods before July 1, 1996, and who would have such coverage credited but for clause (i) may be given credit for creditable coverage for such periods through the presentation of documents or other means.
 
 &emsp;“(B)
 
@@ -367,4 +425,6 @@ Consultation.—The studies under this subsection shall be conducted in consulta
 “(b)
 
 Reports.—Not later than January 1, 2000, the Secretary shall submit to the appropriate committees of Congress a report on each of the studies under subsection (a).”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by the word “Program”.</i>
 

@@ -28,7 +28,7 @@ Required Cost or Pricing Data and Certification.—(1) The head of an agency sha
 
 &emsp;(D) The subcontractor for a subcontract covered by subparagraph (C) shall be required to submit cost or pricing data before the pricing of a change or modification to the subcontract if—
 
-&emsp;&emsp;(i) in the case of a change or modification to a subcontract referred to in subparagraph\(C)(i) or (C)(ii), the price adjustment is expected to exceed $500,000; and
+&emsp;&emsp;(i) in the case of a change or modification to a subcontract referred to in subparagraph (C)(i) or (C)(ii), the price adjustment is expected to exceed $500,000; and
 
 &emsp;&emsp;(ii) in the case of a change or modification to a subcontract referred to in subparagraph (C)(iii), the price adjustment is expected to exceed $100,000.
 
@@ -68,7 +68,7 @@ In general.—Submission of certified cost or pricing data shall not be required
 
 &emsp;(2)
 
-Modifications of contracts and subcontracts for commercial items.—In the case of a modification of a contract or subcontract for a commercial item that is not covered by the exception to the submission of certified cost or pricing data in paragraph (1)(A) or (1)(B), submission of certified cost or pricing data shall not be required under subsection (a) if—
+Modifications of contracts and subcontracts for commercial items.—In thecase of a modification of a contract or subcontract for a commercial item that is not covered by the exception to the submission of certified cost or pricing data in paragraph (1)(A) or (1)(B), submission of certified cost or pricing data shall not be required under subsection (a) if—
 
 &emsp;&emsp;(A) the contract or subcontract being modified is a contract or subcontract for which submission of certified cost or pricing data may not be required by reason of paragraph (1)(A) or (1)(B); and
 
@@ -188,7 +188,7 @@ Subcontract.—The term “subcontract” includes a transfer of commercial item
 
 Commercial item.—The term “commercial item” has the meaning provided such term in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)).
 
-(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277; Pub. L. 104–106, div. D, title XLII, §4201(a), title XLIII, §4321(a)(2), (b)(7), Feb. 10, 1996, 110 Stat. 649, 671, 672; Pub. L. 104–201, div. A, title X, §1074(a)(12), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, §§805(a), 808(a), Oct. 17, 1998, 112 Stat. 2083, 2085; Pub. L. 108–375, div. A, title VIII, §818(a), Oct. 28, 2004, 118 Stat. 2015; Pub. L. 110–181, div. A, title VIII, §814, Jan. 28, 2008, 122 Stat. 222.)
+(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277; Pub. L. 104–106, div. D, title XLII, §4201(a), title XLIII, §4321(a)(2), (b)(7), Feb. 10, 1996, 110 Stat. 649, 671, 672; Pub. L. 104–201,div. A, title X, §1074(a)(12), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, §§805(a), 808(a), Oct. 17, 1998, 112 Stat. 2083, 2085; Pub. L. 108–375, div. A, title VIII, §818(a), Oct. 28, 2004, 118 Stat. 2015; Pub. L. 110–181, div. A, title VIII, §814, Jan. 28, 2008, 122 Stat. 222.)
 
 #### References in Text
 
@@ -226,7 +226,7 @@ Subsec. (e)(4)(B)(ii). Pub. L. 104–106, §4321(b)(7)(B), struck out second com
 
 Subsec. (h). Pub. L. 104–106, §4201(a)(2), redesignated subsec. (i) as (h) and struck out former subsec. (h) which read as follows: “
 
-Required Regulations.—TheFederal Acquisition Regulation shall contain provisions concerning the types of information that offerors must submit for a contracting officer to consider in determining whether the price of a procurement to the Government is fair and reasonable when certified cost or pricing data are not required to be submitted under this section because the price of the procurement to the United States is not expected to exceed the applicable threshold amount set forth in subsection (a) (as adjusted pursuant to paragraph (7) of such subsection). Such information, at a minimum, shall include appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price of the proposed contract or subcontract for the procurement.”
+Required Regulations.—The Federal Acquisition Regulation shall contain provisions concerning the types of information that offerors must submit for a contracting officer to consider in determining whether the price of a procurement to the Government is fair and reasonable when certified cost or pricing data are not required to be submitted under this section because the price of the procurement to the United States is not expected to exceed the applicable threshold amount set forth in subsection (a) (as adjusted pursuant to paragraph (7) of such subsection). Such information, at a minimum, shall include appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price of the proposed contract or subcontract for the procurement.”
 
 Subsec. (h)(3). Pub. L. 104–201 inserted “(41 U.S.C. 403(12))” before period at end.
 
@@ -270,7 +270,7 @@ Subsec. (f)(1). Pub. L. 103–355, §1209, struck out “with the Department of 
 
 Subsec. (g). Pub. L. 103–355, §1205, added subsec. (g) and struck out heading and text of former subsec. (g). Text read as follows:
 
-“(1) For the purpose of evaluating the accuracy, completeness, and currency of cost or pricing data required to be submitted by this section with respect to a contract or subcontract, the head of the agency, acting through any authorized representative of the head of the agency who is an employee of the United States or a member of the armed forces, shall have the right to examine all records of the contractor or subcontractor related to—
+“(1) For the purpose of evaluating the accuracy, completeness, and currency of cost or pricing data required to be submitted by this section with respect to a contract or subcontract, the head of the agency, acting through any authorized representative of the head of the agency who is an employee of the United States or a member of the armed forces, shall have the right toexamine all records of the contractor or subcontractor related to—
 
 &emsp;“(A) the proposal for the contract or subcontract;
 
@@ -304,7 +304,7 @@ Subsec. (a)(1)(C). Pub. L. 102–190, §804(a), amended subpar. (C) generally. P
 
 &emsp;“(ii) the prime contractor and each higher-tier subcontractor have been required to make available cost or pricing data under this section.”
 
-Subsec. (a)(1)(C)(i). Pub. L. 102–25, §701(b)(2), substituted “the dollar amount applicable under subparagraph (A) to the prime contract of that subcontract”for “$500,000 or, in the case of a subcontract to be awarded after December 31, 1995, $100,000”.
+Subsec. (a)(1)(C)(i). Pub. L. 102–25, §701(b)(2), substituted “the dollar amount applicable under subparagraph (A) to the prime contract of that subcontract” for “$500,000 or, in the case of a subcontract to be awarded after December 31, 1995, $100,000”.
 
 Subsec. (a)(1)(D). Pub. L. 102–190, §804(a), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “The subcontractor for a subcontract covered by subparagraph (C) shall be required to submit cost or pricing data before the pricing of a change or modification to the subcontract if the price adjustment is expected to exceed the dollar amount applicable under subparagraph (A) to the prime contract of that subcontract (or such lesser amount as may be prescribed by the head of the agency).”
 
@@ -456,7 +456,7 @@ Commercial Price Trend Analysis.—(1) The Secretary of Defense shall develop an
 
 “(3) The head of a Department of Defense agency or the Secretary of a military department shall take appropriate action to address any unreasonable escalation in prices being paid for items procured by that agency or military department as identified in an analysis conducted pursuant to paragraph (1).
 
-“(4) Not later than April 1 of each of fiscal years 2000 through 2009, the Secretary of Defense shall submit tothe Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the analyses of price trends that were conducted by the Secretary of each military department and the Director of the Defense Logistics Agency for categories of exempt commercial items during the preceding fiscal year under the procedures prescribed pursuant to paragraph (1). The report shall include a description of the actions taken by each Secretary and the Director to identify and address any unreasonable price escalation for the categories of items.
+“(4) Not later than April 1 of each of fiscal years 2000 through 2009, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the analyses of price trends that were conducted by the Secretary of each military department and the Director of the Defense Logistics Agency for categories of exempt commercial items during the preceding fiscal year under the procedures prescribed pursuant to paragraph (1). The report shall include a description of the actions taken by each Secretary and the Director to identify and address any unreasonable price escalation for the categories of items.
 
 “(d)
 

@@ -28,7 +28,7 @@
 
 (c) For the purpose of this section “foreign government”, “foreign official”, “international organization”, and “official guest” shall have the same meanings as those provided in section 1116(b) of this title.
 
-(Added Pub. L. 92–539, title IV, §401, Oct. 24, 1972, 86 Stat. 1073; amended Pub. L. 94–467, §7, Oct. 8, 1976, 90 Stat. 2000; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §601(a)(2), Oct. 11, 1996, 110 Stat. 3498.)
+(Added Pub. L. 92–539, title IV, §401, Oct. 24, 1972, 86 Stat. 1073; amended Pub. L. 94–467, §7, Oct. 8,1976, 90 Stat. 2000; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §601(a)(2), Oct. 11, 1996, 110 Stat. 3498.)
 
 #### Amendments
 

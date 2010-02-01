@@ -8,6 +8,7 @@
 | [551a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000551a%20-%20Cooperation%20by%20Secretary%20of%20Agriculture%20with%20States%20and%20political%20subdivisions%20in%20law%20enforcement.md) | Cooperation by Secretary of Agriculture with States and political subdivisions in law enforcement. |
 | [551b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000551b%20-%20Omitted.md) | Omitted. |
 | [551c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000551c%20-%20Planning%20for%20fire%20protection.md) | Planning for fire protection. |
+| [551d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000551d%20-%20Wildland%20firefighter%20safety.md) | Wildland firefighter safety. |
 | [552\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000552%20-%20Consent%20to%20agreement%20by%20States%20for%20conservation%20of%20forests%20and%20water%20supply.md) | Consent to agreement by States for conservation of forests and water supply. |
 | [552a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000552a%20-%20Restoration%20of%20withdrawn%20national%20forest%20lands%20to%20appropriation.md) | Restoration of withdrawn national forest lands to appropriation. |
 | [552b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000552b%20-%20Administration%20of%20withdrawn%20lands%3B%20rules%20and%20regulations.md) | Administration of withdrawn lands; rules and regulations. |

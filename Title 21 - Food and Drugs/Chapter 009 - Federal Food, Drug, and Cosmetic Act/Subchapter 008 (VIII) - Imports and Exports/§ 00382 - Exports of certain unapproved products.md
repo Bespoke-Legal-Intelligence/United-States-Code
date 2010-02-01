@@ -50,7 +50,7 @@ A drug or device—
 
 (C) An appropriate country official, manufacturer, or exporter may request the Secretary to take action under subparagraph (B) to designate an additional country or countries to be added to the list of countries described in clauses (i) and (ii) of subparagraph (A) by submitting documentation to the Secretary in support of such designation. Any person other than a country requesting such designation shall include, along with the request, a letter from the country indicating the desire of such country to be designated.
 
-(2) A drug described in subsection (a) of this section may be directly exported to a countrywhich is not listed in clause (i) or (ii) of paragraph (1)(A) if—
+(2) A drug described in subsection (a) of this section may be directly exported to a country which is not listed in clause (i) or (ii) of paragraph (1)(A) if—
 
 &emsp;(A) the drug complies with the laws of that country and has valid marketing authorization by the responsible authority in that country; and
 
@@ -92,7 +92,7 @@ A drug or device intended for formulation, filling, packaging, labeling, or furt
 
 #### (e) Diagnosis, prevention, or treatment of tropical disease
 
-(1) A drug or device which is used in the diagnosis, prevention, or treatment of a tropical disease or another disease not of significant prevalence in the United States and which does not otherwise qualify for export under this section shall, upon approval of an application, be permitted to be exported if the Secretary finds that the drug or device will not expose patients in such country to an unreasonable risk of illness or injury and the probable benefit to health from the use of the drug or device (under conditions of use prescribed, recommended, or suggested in the labeling or proposed labeling of the drug or device) outweighs the risk of injury or illness from its use, taking into account the probable risks and benefits of currently available drug or device treatment.
+(1) A drug or device which is used in the diagnosis, prevention, or treatment of a tropical disease or another disease not of significant prevalence in the United States and which does not otherwise qualify for export under this sectionshall, upon approval of an application, be permitted to be exported if the Secretary finds that the drug or device will not expose patients in such country to an unreasonable risk of illness or injury and the probable benefit to health from the use of the drug or device (under conditions of use prescribed, recommended, or suggested in the labeling or proposed labeling of the drug or device) outweighs the risk of injury or illness from its use, taking into account the probable risks and benefits of currently available drug or device treatment.
 
 (2) The holder of an approved application for the export of a drug or device under this subsection shall report to the Secretary—
 
@@ -108,7 +108,7 @@ A drug or device intended for formulation, filling, packaging, labeling, or furt
 
 > the Secretary may, after providing the holder of the application an opportunity for an informal hearing, withdraw the approved application.
 
-(B) If the Secretary determines that the holder of an approved application under paragraph (1) or an importer is exporting a drug or device from the United States to an importer and such importer is exporting the drug or device to a country for which the Secretary cannot make afinding under paragraph (1) and such export presents an imminent hazard, the Secretary shall immediately prohibit the export of the drug or device to such importer, provide the person exporting the drug or device from the United States prompt notice of the prohibition, and afford such person an opportunity for an expedited hearing.
+(B) If the Secretary determines that the holder of an approved application under paragraph (1) or an importer is exporting a drug or device from the United States to an importer and such importer is exporting the drug or device to a country for which the Secretary cannot make a finding under paragraph (1) and such export presents an imminent hazard, the Secretary shall immediately prohibit the export of the drug or device to such importer, provide the person exporting the drug or device from the United States prompt notice of the prohibition, and afford such person an opportunity for an expedited hearing.
 
 #### (f) Prohibition of export of drug or device
 

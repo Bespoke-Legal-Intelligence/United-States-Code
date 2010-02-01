@@ -12,7 +12,7 @@ There is within the Office of the Director of National Intelligence a National C
 
 #### (c) Reporting
 
-(1) The Director of the National Counterterrorism Center shall report to the Director of National Intelligence with respect to matters described in paragraph (2) and the President with respect to matters described in paragraph (3).
+(1) The Director of the National Counterterrorism Center shall report to the Director ofNational Intelligence with respect to matters described in paragraph (2) and the President with respect to matters described in paragraph (3).
 
 (2) The matters described in this paragraph are as follows:
 
@@ -76,7 +76,7 @@ The Director of the National Counterterrorism Center may not direct the executio
 
 #### (h) Resolution of disputes
 
-The Director of National Intelligence shall resolve disagreements between the National Counterterrorism Center and the head of a department, agency, or element of the United States Government on designations, assignments, plans, or responsibilities under this section. The head of such a department, agency, or element may appeal the resolution of the disagreement by the Director of National Intelligence to the President.
+The Director of National Intelligence shall resolve disagreements between the NationalCounterterrorism Center and the head of a department, agency, or element of the United States Government on designations, assignments, plans, or responsibilities under this section. The head of such a department, agency, or element may appeal the resolution of the disagreement by the Director of National Intelligence to the President.
 
 #### (i) Directorate of Intelligence
 

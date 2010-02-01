@@ -44,7 +44,7 @@ The Congress finds that, through the use of various practices and procedures, ci
 
 #### (4) Special rule
 
-&emsp;The determinations of the Director of the Census under this subsection shall be effectiveupon publication in the Federal Register and shall not be subject to review in any court.
+&emsp;The determinations of the Director of the Census under this subsection shall be effective upon publication in the Federal Register and shall not be subject to review in any court.
 
 #### (c) Requirement of voting notices, forms, instructions, assistance, or other materials and ballots in minority language
 

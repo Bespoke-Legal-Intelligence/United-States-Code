@@ -14,5 +14,5 @@
 
 #### Separability
 
-Section 9 of act Aug. 17, 1950, provided that: “If any provision of this Act \[enacting this subchapter andamending of sections 264 and 321 of this title\], or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of such provision to other persons or circumstances shall not be affected thereby.”
+Section 9 of act Aug. 17, 1950, provided that: “If any provision of this Act \[enacting this subchapter and amending of sections 264 and 321 of this title\], or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of such provision to other persons or circumstances shall not be affected thereby.”
 

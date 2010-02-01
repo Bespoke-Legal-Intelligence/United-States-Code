@@ -60,7 +60,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 &emsp;&emsp;(C) under a grant under section 254r of this title; or
 
-&emsp;(2) for any purpose other than making payments on behalf of health professionals under contracts entered into pursuant to subsection (a)(2) of this section.
+&emsp;(2) for any purpose other than making payments on behalf of health professionals undercontracts entered into pursuant to subsection (a)(2) of this section.
 
 #### (e) Reports
 
@@ -126,7 +126,7 @@ For purposes of this section, the term “State” means each of the 50 States, 
 
 &emsp;There are authorized to be appropriated to carry out this subsection, such sums as may be necessary for each of fiscal years 2007 through 2010.
 
-(July 1, 1944, ch. 373, title III, §338I, formerly §338H, as added Pub. L. 100–177, title II, §203, Dec. 1, 1987, 101 Stat. 999; renumbered §338I and amended Pub. L. 101–597, title II, §204, title III, §301, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3027, 3029, 3035; Pub. L. 105–392, title IV, §408, Nov. 13, 1998, 112 Stat. 3589; Pub. L. 107–251, title III, §315, Oct. 26, 2002, 116 Stat. 1653; Pub. L. 109–417, title II, §203(b), Dec. 19, 2006, 120 Stat. 2849; Pub. L. 110–355, §3(e), Oct. 8, 2008, 122 Stat. 3994.)
+(July 1, 1944, ch. 373, title III, §338I, formerly §338H, as added Pub. L. 100–177, title II, §203, Dec. 1, 1987, 101 Stat. 999; renumbered §338I and amended Pub. L. 101–597, title II, §204, title III,§301, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3027, 3029, 3035; Pub. L. 105–392, title IV, §408, Nov. 13, 1998, 112 Stat. 3589; Pub. L. 107–251, title III, §315, Oct. 26, 2002, 116 Stat. 1653; Pub. L. 109–417, title II, §203(b), Dec. 19, 2006, 120 Stat. 2849; Pub. L. 110–355, §3(e), Oct. 8, 2008, 122 Stat. 3994.)
 
 #### References in Text
 

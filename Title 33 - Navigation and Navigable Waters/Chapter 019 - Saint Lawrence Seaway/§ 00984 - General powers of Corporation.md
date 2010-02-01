@@ -16,7 +16,7 @@
 
 &emsp;(7) may appoint and fix the compensation, in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5, of such officers, attorneys, and employees as may be necessary for the conduct of its business, define their authority and duties, and delegate to them such of the powers vested in the Corporation as the Administrator may determine;
 
-&emsp;(8) may acquire, by purchase, lease, condemnation, or donation such real and personal property and any interest therein, and may sell, lease, or otherwise dispose of such real and personal property, as the Administrator deems necessary for the conduct of its business;
+&emsp;(8) may acquire, by purchase, lease, condemnation, or donation such real and personal property and any interest therein, and may sell, lease, or otherwise dispose of such realand personal property, as the Administrator deems necessary for the conduct of its business;
 
 &emsp;(9) shall determine the character of and the necessity for its obligations and expenditures, and the manner in which they shall be incurred, allowed and paid, subject to provisions of law specifically applicable to Government corporations;
 

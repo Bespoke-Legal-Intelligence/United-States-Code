@@ -58,7 +58,7 @@ Report to Congress.—Not later than 18 months after the date of the enactment o
 
 Inherently Low-Emission Vehicle Activity Defined.—In this section, the term “inherently low-emission vehicle activity” means—
 
-&emsp;(1) the construction of infrastructure or modifications at public-use airports to enable the delivery of fuel and services necessary for the use of vehicles that are certified as inherently low-emission vehicles under title 40 of the Code of Federal Regulations and that—
+&emsp;(1) the construction of infrastructure or modifications at public-use airports to enablethe delivery of fuel and services necessary for the use of vehicles that are certified as inherently low-emission vehicles under title 40 of the Code of Federal Regulations and that—
 
 &emsp;&emsp;(A) operate exclusively on compressed natural gas, liquefied natural gas, liquefied petroleum gas, electricity, hydrogen, or a blend at least 85 percent of which is methanol;
 

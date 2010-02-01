@@ -14,7 +14,7 @@ Control, Administration, and Maintenance of War Memorials.—(1) The Commission 
 
 (2) If reasonable effort fails to locate the sponsors of a memorial, the Commission may assume responsibility for the memorial under this subsection by agreement with the appropriate foreign authorities. A decision of the Commission to assume responsibility for a war memorial under this subsection is final.
 
-(3) Sponsors of a war memorial for which the Commission assumes responsibility under thissubsection may transfer amounts accumulated to maintain and repair the memorial to the Commission for use in carrying out this chapter. Except as provided in subsection (c) of this section, the Commission shall deposit transferred amounts as provided in section 2103(e) of this title.
+(3) Sponsors of a war memorial for which the Commission assumes responsibility under this subsection may transfer amounts accumulated to maintain and repair the memorial to the Commission for use in carrying out this chapter. Except as provided in subsection (c) of this section, the Commission shall deposit transferred amounts as provided in section 2103(e) of this title.
 
 (c)
 

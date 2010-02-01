@@ -18,6 +18,10 @@ The Congress makes the following findings and declarations:
 
 This chapter, referred to in par. (3), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, as amended, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out below and Tables.
 
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–84, div. A, title XII, §1261, Oct. 28, 2009, 123 Stat. 2553, provided that: “This subtitle \[subtitle D (§§1261–1266) of title XII of div. A of Pub. L. 111–84, enacting provisions set out as notes under section 6204 of this title\] may be cited as the ‘Victims of Iranian Censorship Act’ or the ‘VOICE Act’.”
+
 #### Short Title of 2002 Amendment
 
 Pub. L. 107–148, §1, Mar. 11, 2002, 116 Stat. 64, provided that: “This Act \[enacting section 6215 of this title\] may be cited as the ‘Radio Free Afghanistan Act’.”

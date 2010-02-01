@@ -40,7 +40,7 @@ The Board shall perform the following functions:
 
 &emsp;&emsp;(A) which countries are not emphasized in other United States study abroad programs, such as countries in which few United States students are studying and countries which are of importance to the national security interests of the United States, and are, therefore, critical countries for the purposes of section 1902(a)(1)(A) of this title;
 
-&emsp;&emsp;(B) which areas within the disciplines described in section 1902(a)(1)(B) of this title relating to the national security interests of the United States are areas of study in which United States students are deficient in learning and are, therefore, critical areas within those disciplines for the purposes of that section;
+&emsp;&emsp;(B) which areas within the disciplines described in section 1902(a)(1)(B) of this titlerelating to the national security interests of the United States are areas of study in which United States students are deficient in learning and are, therefore, critical areas within those disciplines for the purposes of that section;
 
 &emsp;&emsp;(C) which areas within the disciplines described in section 1902(a)(1)(C) of this title are areas in which United States students, educators, and Government employees are deficient in learning and in which insubstantial numbers of United States institutions of higher education provide training and are, therefore, critical areas within those disciplines for the purposes of that section;
 
@@ -56,15 +56,15 @@ The Board shall perform the following functions:
 
 &emsp;(8) Review the administration of the program required under this chapter.
 
-(Pub. L. 102–183, title VIII, §803, Dec. 4, 1991, 105 Stat. 1273; Pub. L. 102–496, title IV, §404(d), Oct.24, 1992, 106 Stat. 3186; Pub. L. 104–201, div. A, title X, §1078(e), Sept. 23, 1996, 110 Stat. 2666; Pub. L. 105–272, title III, §305(a)(3), (b), Oct. 20, 1998, 112 Stat. 2401; Pub. L. 105–277, div. G, title XIII, §1335(g), Oct. 21, 1998, 112 Stat. 2681–788; Pub. L. 107–306, title III, §333(a)(4), Nov. 27, 2002, 116 Stat. 2396; Pub. L. 108–487, title VI, §603(a)(3), Dec. 23, 2004, 118 Stat. 3954.)
+(Pub. L. 102–183, title VIII, §803, Dec. 4, 1991, 105 Stat. 1273; Pub. L. 102–496, title IV, §404(d), Oct. 24, 1992, 106 Stat. 3186; Pub. L. 104–201, div. A, title X, §1078(e), Sept. 23, 1996, 110 Stat. 2666; Pub. L. 105–272, title III, §305(a)(3), (b), Oct. 20, 1998, 112 Stat. 2401; Pub. L. 105–277, div. G, title XIII, §1335(g), Oct. 21, 1998, 112 Stat. 2681–788; Pub. L. 107–306, title III, §333(a)(4), Nov. 27, 2002, 116 Stat. 2396; Pub. L. 108–487, title VI, §603(a)(3), Dec. 23, 2004, 118 Stat. 3954.)
 
 #### Amendments
 
 2004–Subsec. (d)(4)(E). Pub. L. 108–487 inserted “and section 1902(a)(1)(E) of this title (relating to the scholarship program for advanced English language studies by heritage community citizens)” before period.
 
-<b>2002</b>—Subsec. (d)(4)(E). Pub. L. 107–306 added subpar. (E).
+2002—Subsec. (d)(4)(E). Pub. L. 107–306 added subpar. (E).
 
-<b>1998</b>—Subsec. (b)(6). Pub. L. 105–277, §1335(g)(1), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “The Secretary of Energy.”
+1998—Subsec. (b)(6). Pub. L. 105–277, §1335(g)(1), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “The Secretary of Energy.”
 
 Pub. L. 105–272, §305(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The Director of the United States Information Agency.”
 
@@ -78,7 +78,7 @@ Subsec. (c). Pub. L. 105–277, §1335(g)(2), substituted “subsection (b)(6)�
 
 Subsec. (d)(4). Pub. L. 105–272, §305(a)(3), substituted “area, and counterproliferation” for “and area” in introductory provisions.
 
-<b>1996</b>—Subsec. (d)(1). Pub. L. 104–201, §1078(e)(1), inserted before period at end “, including an order of priority in such awards that favors individuals expressing an interest in national security issues or pursuing a career in a national security position”.
+1996—Subsec. (d)(1). Pub. L. 104–201, §1078(e)(1), inserted before period at end “, including an order of priority in such awards that favors individuals expressing an interest in national security issues or pursuing a career in a national security position”.
 
 Subsec. (d)(4). Pub. L. 104–201, §1078(e)(2)(A), in introductory provisions, substituted “After taking into account the annual analyses of trends in language, international, and area studies under section 1906(b)(1) of this title, make recommendations” for “Make recommendations”.
 
@@ -88,7 +88,7 @@ Subsec. (d)(4)(B). Pub. L. 104–201, §1078(e)(2)(C), substituted “relating t
 
 Subsec. (d)(5) to (8). Pub. L. 104–201, §1078(e)(3), (4), added pars. (5) to (7) and redesignated former par. (5) as (8).
 
-<b>1992</b>—Subsec. (b)(7). Pub. L. 102–496, §404(d)(2), added par. (7). Former par. (7) redesignated (8).
+1992—Subsec. (b)(7). Pub. L. 102–496, §404(d)(2), added par. (7). Former par. (7) redesignated (8).
 
 Subsec. (b)(8). Pub. L. 102–496, §404(d)(1), (3), redesignated par. (7) as (8), substituted “Six individuals” for “Four individuals”, and inserted before period at end “and who may not be officers or employees of the Federal Government”.
 

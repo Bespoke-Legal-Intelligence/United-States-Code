@@ -34,7 +34,7 @@ Indiana is divided into two judicial districts to be known as the Northern and S
 
 &emsp;&emsp;Court for the Evansville Division shall be held at Evansville.
 
-&emsp;&emsp;(4) The New Albany Division comprises the counties of Clark, Crawford, Dearborn, Floyd, Harrison, Jackson, Jefferson, Jennings, Lawrence, Ohio, Orange, Ripley, Scott, Switzerland, and Washington.
+&emsp;&emsp;(4) The New Albany Division comprises the counties of Clark, Crawford, Dearborn,Floyd, Harrison, Jackson, Jefferson, Jennings, Lawrence, Ohio, Orange, Ripley, Scott, Switzerland, and Washington.
 
 &emsp;&emsp;Court for the New Albany Division shall be held at New Albany.
 

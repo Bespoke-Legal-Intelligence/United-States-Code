@@ -30,5 +30,5 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 #### Deadline
 
-Pub. L. 107–295, title I, §102(c), Nov. 25, 2002, 116 Stat. 2084, provided that: “The Secretary shall establish theplans required under section 70104(a)(1) of title 46, United States Code, as enacted by this Act, before April 1, 2003.”
+Pub. L. 107–295, title I, §102(c), Nov. 25, 2002, 116 Stat. 2084, provided that: “The Secretary shall establish the plans required under section 70104(a)(1) of title 46, United States Code, as enacted by this Act, before April 1, 2003.”
 

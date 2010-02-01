@@ -84,7 +84,7 @@ Pub. L. 106–260, §2, Aug. 18, 2000, 114 Stat. 711, provided that: “Congress
 
 &emsp;“(5) although the Federal Government has made considerable strides in improving Indian health care, it has failed to fully meet its trust responsibilities and to satisfy its obligations to the Indian tribes under treaties and other laws; and
 
-&emsp;“(6) Congress has reviewed the results of the Tribal Self-Governance Demonstration Project and finds that transferring full control and funding to tribal governments, upon tribal request, over decision making for Federal programs, services, functions, and activities (or portions thereof)—
+&emsp;“(6) Congress has reviewed the results of the Tribal Self-Governance Demonstration Project and findsthat transferring full control and funding to tribal governments, upon tribal request, over decision making for Federal programs, services, functions, and activities (or portions thereof)—
 
 &emsp;&emsp;“(A) is an appropriate and effective means of implementing the Federal policy of government-to-government relations with Indian tribes; and
 

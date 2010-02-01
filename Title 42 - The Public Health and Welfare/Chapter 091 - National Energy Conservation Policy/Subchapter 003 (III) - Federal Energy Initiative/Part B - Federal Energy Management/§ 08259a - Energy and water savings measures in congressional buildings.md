@@ -4,7 +4,7 @@
 
 The Architect of the Capitol—
 
-&emsp;(1) shall develop, update, and implement a cost-effective energy conservation and management plan (referred to in this section as the “plan”) for all facilities administered by Congress (referred to in this section as “congressional buildings”) to meet the energy performance requirements for Federal buildings established under section 8253(a)(1) of this title; and
+&emsp;(1) shall develop, update, and implement a cost-effective energy conservation and management plan (referred to in this section as the “plan”) for all facilities administered by Congress (referred to in this section as “congressional buildings”) to meet the energy performance requirements for Federal buildingsestablished under section 8253(a)(1) of this title; and
 
 &emsp;(2) shall submit the plan to Congress, not later than 180 days after August 8, 2005.
 

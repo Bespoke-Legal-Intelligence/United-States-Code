@@ -8,7 +8,7 @@ A husband and wife may make a single return jointly of income taxes under subtit
 
 &emsp;(2) no joint return shall be made if the husband and wife have different taxable years; except that if such taxable years begin on the same day and end on different days because of the death of either or both, then the joint return may be made with respect to the taxable year of each. The above exception shall not apply if the surviving spouse remarries before the close of his taxable year, nor if the taxable year of either spouse is a fractional part of a year under section 443(a)(1);
 
-&emsp;(3) in the case of death of one spouse or both spouses the joint return with respect to the decedent may be made only by his executor or administrator; except that in the case of the death of one spouse the joint return may be made by the surviving spouse with respect to both himself and the decedent if no return for the taxable year has been made by the decedent, no executor or administrator has been appointed, and no executor or administrator is appointed before the last day prescribed by law for filing the return of the surviving spouse. If an executor or administrator of the decedent is appointed after the making of the joint return by the surviving spouse, the executor or administrator may disaffirm such joint return by making, within 1 year after the last day prescribed by law for filing the return of the surviving spouse, a separate return for the taxable year of the decedent with respect to which the joint return was made, in which case the return made by the survivor shall constitute his separate return.
+&emsp;(3) in the case of death of one spouse or both spouses the joint return with respect to thedecedent may be made only by his executor or administrator; except that in the case of the death of one spouse the joint return may be made by the surviving spouse with respect to both himself and the decedent if no return for the taxable year has been made by the decedent, no executor or administrator has been appointed, and no executor or administrator is appointed before the last day prescribed by law for filing the return of the surviving spouse. If an executor or administrator of the decedent is appointed after the making of the joint return by the surviving spouse, the executor or administrator may disaffirm such joint return by making, within 1 year after the last day prescribed by law for filing the return of the surviving spouse, a separate return for the taxable year of the decedent with respect to which the joint return was made, in which case the return made by the survivor shall constitute his separate return.
 
 #### (b) Joint return after filing separate return
 
@@ -26,7 +26,7 @@ A husband and wife may make a single return jointly of income taxes under subtit
 
 &emsp;&emsp;(C) after either spouse has commenced a suit in any court for the recovery of any part of the tax for such taxable year; or
 
-&emsp;&emsp;(D) after either spouse has entered into a closing agreement under section 7121 withrespect to such taxable year, or after any civil or criminal case arising against either spouse with respect to such taxable year has been compromised under section 7122.
+&emsp;&emsp;(D) after either spouse has entered into a closing agreement under section 7121 with respect to such taxable year, or after any civil or criminal case arising against either spouse with respect to such taxable year has been compromised under section 7122.
 
 #### (3) When return deemed filed
 
@@ -54,7 +54,7 @@ A husband and wife may make a single return jointly of income taxes under subtit
 
 #### (A) Coordination with part II of subchapter A of chapter 68
 
-&emsp;&emsp;For purposes of part II of subchapter A of chapter 68, where the sum of the amounts shown as tax on the separate returns of each spouse is less than the amount shown as tax on the joint return made under this subsection—
+&emsp;&emsp;For purposes of part II of subchapter A of chapter 68, where the sum of the amountsshown as tax on the separate returns of each spouse is less than the amount shown as tax on the joint return made under this subsection—
 
 &emsp;&emsp;&emsp;(i) such sum shall be treated as the amount shown on the joint return,
 
@@ -98,7 +98,7 @@ For purposes of this section and subtitle A—
 
 &emsp;&emsp;(B) the spouse of such individual is otherwise entitled to file a joint return for any taxable year which begins on or before the day which is 2 years after the date designated under section 112 as the date of termination of combatant activities in such zone,
 
-> &emsp;then such spouse may elect under subsection (a) to file a joint return for such taxable year.With respect to service in the combat zone designated for purposes of the Vietnam conflict, such election may be made for any taxable year while an individual is in missing status.
+> &emsp;then such spouse may elect under subsection (a) to file a joint return for such taxable year. With respect to service in the combat zone designated for purposes of the Vietnam conflict, such election may be made for any taxable year while an individual is in missing status.
 
 #### (2) Effect of election
 
@@ -136,7 +136,7 @@ For purposes of this section and subtitle A—
 
 #### (2) Individuals with respect to whom this subsection is in effect
 
-&emsp;This subsection shall be in effect with respect to any individual who, at the close of the taxable year for which an election under this subsection was made, was a nonresident alien individual married to a citizen or resident of the United States, if both of them made such election to have the benefits of this subsection apply to them.
+&emsp;This subsection shall be in effect with respect to any individual who, at the close of the taxable year for which an election under thissubsection was made, was a nonresident alien individual married to a citizen or resident of the United States, if both of them made such election to have the benefits of this subsection apply to them.
 
 #### (3) Duration of election
 
@@ -184,7 +184,7 @@ For purposes of this section and subtitle A—
 
 &emsp;If—
 
-&emsp;&emsp;(A) any individual is a nonresident alien individual at the beginning of any taxableyear but is a resident of the United States at the close of such taxable year,
+&emsp;&emsp;(A) any individual is a nonresident alien individual at the beginning of any taxable year but is a resident of the United States at the close of such taxable year,
 
 &emsp;&emsp;(B) at the close of such taxable year, such individual is married to a citizen or resident of the United States, and
 
@@ -228,7 +228,7 @@ Subsec. (e). Pub. L. 98–369, §424(a), in amending subsec. (e) generally, reen
 
 Subsec. (f)(1). Pub. L. 97–448 substituted “December 31, 1982” for “January 2, 1978”.
 
-1982—Subsecs. (g)(1)(B). (h)(1). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (g)(1)(B) is amended by substituting “(relating to withholding on wages, interest, dividends, and patronage dividends)” for “(relating to wage withholding)” and by striking out “of wages”, and subsec. (h)(1) is amended by substituting “(relating to withholding on wages, interest, dividends, and patronage dividends)” for “(relating to wage withholding)” and bystriking out “of wages”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+1982—Subsecs. (g)(1)(B). (h)(1). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (g)(1)(B) is amended by substituting “(relating to withholding on wages, interest, dividends, and patronage dividends)” for “(relating to wage withholding)” and by striking out “of wages”, and subsec. (h)(1) is amended by substituting “(relating to withholding on wages, interest, dividends, and patronage dividends)” for “(relating to wage withholding)” and by striking out “of wages”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 1981—Subsec. (b)(3)(A). Pub. L. 97–34 substituted “the exemption amount” for “$1,000” and “twice the exemption amount” for “$2,000” in cls. (ii) and (iii) and inserted provision following cl. (iii) defining “exemption amount”.
 
@@ -318,7 +318,7 @@ Transitional rule.—If—
 
 &emsp;“(C) the amount of such disallowed deductions exceeds the taxable income shown on such return,
 
-&emsp;“(D) without regard to any determination before October 21, 1988, the other spouse establishes that insigning the return he or she did not know, and had no reason to know, that there was such an understatement, and
+&emsp;“(D) without regard to any determination before October 21, 1988, the other spouse establishes that in signing the return he or she did not know, and had no reason to know, that there was such an understatement, and
 
 &emsp;“(E) the marriage between such spouses terminated and immediately after such termination the net worth of the other spouse was less than $10,000,
 
@@ -354,7 +354,7 @@ General rule.—Except as otherwise expressly provided in this section, the amen
 
 “(2)
 
-Amendments relating to income tax.—The amendments made by this section, when relating to a tax imposed by chapter 1 or chapter 2 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], shall take effect with respect to taxable years beginning after December 31, 1976.”
+Amendments relating to income tax.—The amendments made by this section, when relating to atax imposed by chapter 1 or chapter 2 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], shall take effect with respect to taxable years beginning after December 31, 1976.”
 
 Section 2114(b) of Pub. L. 94–455 provided that: “The application permitted under the amendment made by subsection (a) of this section \[amending section 3 of Pub. L. 91–679, set out as an Effective Date of 1971 Amendment note below\] must be filed with the Secretary of the Treasury during the first calendar year beginning after the date of the enactment of this Act \[Oct. 4, 1976\].”
 

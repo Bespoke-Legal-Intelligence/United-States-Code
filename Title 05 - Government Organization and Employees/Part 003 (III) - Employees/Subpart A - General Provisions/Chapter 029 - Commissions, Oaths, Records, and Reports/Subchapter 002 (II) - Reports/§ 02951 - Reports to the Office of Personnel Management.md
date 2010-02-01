@@ -10,7 +10,7 @@ The President may prescribe rules which shall provide, as nearly as conditions o
 
 &emsp;&emsp;(C) transfer;
 
-&emsp;&emsp;(D) resignation;
+&emsp;&emsp;(D) resignation; and
 
 &emsp;&emsp;(E) removal; and
 

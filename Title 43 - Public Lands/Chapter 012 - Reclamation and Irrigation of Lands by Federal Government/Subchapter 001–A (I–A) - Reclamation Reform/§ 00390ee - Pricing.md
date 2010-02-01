@@ -2,7 +2,7 @@
 
 #### (a) Delivery of irrigation water at full cost
 
-Notwithstanding any other provision of law, any contract with a district entered into by the Secretary as specified in section 390cc of this title, shall provide for the delivery of irrigation water at full cost as defined in section 390bb(3) of this title to:
+Notwithstanding any other provision of law, any contract with a district entered into by the Secretary as specified in section 390cc of this title, shall provide for the delivery of irrigationwater at full cost as defined in section 390bb(3) of this title to:
 
 &emsp;(1) a landholding in excess of nine hundred and sixty acres of class I lands or the equivalent thereof for a qualified recipient,<sup>1</sup>
 

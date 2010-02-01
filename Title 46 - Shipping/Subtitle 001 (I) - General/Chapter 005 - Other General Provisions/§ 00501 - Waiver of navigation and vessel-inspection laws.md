@@ -2,7 +2,7 @@
 
 (a)
 
-On Request of Secretary of Defense.—On request of the Secretary of Defense, the headof an agency responsible for the administration of the navigation or vessel-inspection laws shall waive compliance with those laws to the extent the Secretary considers necessary in the interest of national defense.
+On Request of Secretary of Defense.—On request of the Secretary of Defense, the head of an agency responsible for the administration of the navigation or vessel-inspection laws shall waive compliance with those laws to the extent the Secretary considers necessary in the interest of national defense.
 
 (b)
 

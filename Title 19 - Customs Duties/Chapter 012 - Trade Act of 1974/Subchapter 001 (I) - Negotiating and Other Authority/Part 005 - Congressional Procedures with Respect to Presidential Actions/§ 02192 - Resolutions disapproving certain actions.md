@@ -76,7 +76,7 @@ Sections 402(b) and 409(b) of the Trade Act of 1974, referred to in subsec. (a)(
 
 1996—Subsec. (a)(2). Pub. L. 104–295 amended directory language of Pub. L. 103–465. See 1994 Amendment note below.
 
-1994—Subsec. (a)(2). Pub. L. 103–465, as amended by Pub. L. 104–295, substituted comma for “as follows:” after “shall be filled” in introductory provisions,struck out “(B)” before “in the case”, and struck out subpar. (A) which read as follows: “in the case of a resolution referred to in section 1303(e) of this title, with the phrase ‘the determination of the Secretary of the Treasury under section 303(d) of the Tariff Act of 1930’; and”.
+1994—Subsec. (a)(2). Pub. L. 103–465, as amended by Pub. L. 104–295, substituted comma for “as follows:” after “shall be filled” in introductory provisions, struck out “(B)” before “in the case”, and struck out subpar. (A) which read as follows: “in the case of a resolution referred to in section 1303(e) of this title, with the phrase ‘the determination of the Secretary of the Treasury under section 303(d) of the Tariff Act of 1930’; and”.
 
 1990—Subsec. (a)(1)(B). Pub. L. 101–382, §132(c)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a resolution of either House of the Congress, the matter after the resolving clause of which is as follows: ‘That the \_\_\_\_\_\_ does not approve \_\_\_\_\_\_ transmitted to the Congress on \_\_\_\_\_\_.’, with the first blank space being filled with the name of the resolving House, the second blank space being filled in accordance with paragraph (2), and the third blank space being filled with the appropriate date.”
 

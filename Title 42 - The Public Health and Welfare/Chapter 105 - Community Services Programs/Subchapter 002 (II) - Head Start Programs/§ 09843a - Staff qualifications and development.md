@@ -102,7 +102,7 @@
 
 &emsp;&emsp;(B) as of October 1, 2011, a 3-year waiver of the requirements of paragraph (3)(B) for a Head Start agency that can demonstrate that—
 
-&emsp;&emsp;&emsp;(i) the agency has attempted unsuccessfully to recruit an individual who has the qualifications described in clause (i) or (ii) of such paragraph, with respect to an individual who is enrolled in a program that grants a degree described in clause (i) or (ii) of such paragraph and will receive such degree in a reasonable time; and
+&emsp;&emsp;&emsp;(i) the agency has attempted unsuccessfully to recruit an individual who has the qualifications described in clause (i) or (ii) of such paragraph, with respect to an individual who is enrolled in a program that grants a degree described in clause (i) or\(ii) of such paragraph and will receive such degree in a reasonable time; and
 
 &emsp;&emsp;&emsp;(ii) each Head Start classroom has a teacher who has, at a minimum—
 
@@ -138,7 +138,7 @@
 
 &emsp;&emsp;(A) provide technical assistance and training to enable Head Start agencies to establish such positions;
 
-&emsp;&emsp;(B) give priority consideration, in providing assistance pursuant to subparagraph (A), to Head Start programs that have substantial numbers of new classroom staff or thatare experiencing difficulty in meeting applicable education standards;
+&emsp;&emsp;(B) give priority consideration, in providing assistance pursuant to subparagraph (A), to Head Start programs that have substantial numbers of new classroom staff or that are experiencing difficulty in meeting applicable education standards;
 
 &emsp;&emsp;(C) encourage Head Start programs to give priority consideration for such positions to Head Start teachers at the appropriate level of career advancement in such programs; and
 
@@ -174,7 +174,7 @@ To improve the quality and effectiveness of staff providing in-home and other se
 
 &emsp;&emsp;Fellowship positions under the fellowship program may be located (subject to subparagraphs (B) and (C))—
 
-&emsp;&emsp;&emsp;(i) in agencies of the Department of Health and Human Services administering programs authorized under this subchapter (in national or regional offices of such agencies);
+&emsp;&emsp;&emsp;(i) in agencies of the Department of Health and Human Services administeringprograms authorized under this subchapter (in national or regional offices of such agencies);
 
 &emsp;&emsp;&emsp;(ii) in local Head Start agencies and programs;
 
@@ -214,7 +214,7 @@ To improve the quality and effectiveness of staff providing in-home and other se
 
 #### (e) Model staffing plans
 
-Not later than 1 year after May 18, 1994, the Secretary, in consultation with appropriate public agencies, private agencies, and organizations and with individuals with expertise in the fieldof children and family services, shall develop model staffing plans to provide guidance to local Head Start agencies and programs on the numbers, types, responsibilities, and qualifications of staff required to operate a Head Start program.
+Not later than 1 year after May 18, 1994, the Secretary, in consultation with appropriate public agencies, private agencies, and organizations and with individuals with expertise in the field of children and family services, shall develop model staffing plans to provide guidance to local Head Start agencies and programs on the numbers, types, responsibilities, and qualifications of staff required to operate a Head Start program.
 
 #### (f) Professional development plans
 
@@ -252,7 +252,7 @@ Subsec. (c). Pub. L. 110–134, §19(2), amended subsec. (c) generally. Prior to
 
 Subsec. (d)(3)(C). Pub. L. 110–134, §19(3)(A), inserted “(including a center)” after “agency”.
 
-Subsec. (d)(6). Pub. L. 110–134, §19(3)(B), substituted “amounts made available under section 9835(a)(2)(E) of this title” for “amounts appropriated under this subchapter and allotted under section 9835(a)(2)(D) of this title”.
+Subsec. (d)(6). Pub. L. 110–134, §19(3)(B), substituted “amounts made available under section 9835(a)(2)(E) ofthis title” for “amounts appropriated under this subchapter and allotted under section 9835(a)(2)(D) of this title”.
 
 Subsecs. (f), (g). Pub. L. 110–134, §19(4), added subsecs. (f) and (g).
 

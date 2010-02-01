@@ -12,7 +12,7 @@ Specific Requirements.—(1) Until such time as the Secretary of Defense develop
 
 (3) The description shall include a table depicting the active duty end strength for each of the armed forces for each of the preceding five years and also depicting the number of members of each of the armed forces deployed over the same period, as determined by the Secretary concerned.
 
-(4) The description shall identify the active and reserve component units of the armed forces participating at the battalion, squadron, or an equivalent level (or a higher level) in contingency operations, major training events, and other exercises and contingencies of such a scale that the exercises and contingencies receive an official designation, that were conducted during the period covered by the report and the duration of their participation.
+(4) The description shall identify the active and reserve component units of the armed forcesparticipating at the battalion, squadron, or an equivalent level (or a higher level) in contingency operations, major training events, and other exercises and contingencies of such a scale that the exercises and contingencies receive an official designation, that were conducted during the period covered by the report and the duration of their participation.
 
 (5) For each of the armed forces, the description shall indicate, for the period covered by the report—
 

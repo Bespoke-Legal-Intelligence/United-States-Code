@@ -94,7 +94,7 @@ Sept. 3, 1982, Pub. L. 97–248, §504(b), 96 Stat. 675; Nov. 5, 1990, Pub. L. 1
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §312(d); added Nov. 3, 1988, Pub. L. 100–591, §4(a), 102 Stat. 3011.
 
-In subsection (a), the word “Administrator” in section 312(a) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 752) is retained on authority of 49:106(g). The words “air navigation facilities” are substituted for “landing areas, Federal airways, radar installations and all other aids and facilities for air navigation” because of the definition of “air navigation facility” in section 40102(a) of the revised title. The words “the armed forces” are substituted for “military agencies” because of 10:101.
+In subsection (a), the word “Administrator” in section 312(a) of the Federal Aviation Act of 1958 (PublicLaw 85–726, 72 Stat. 752) is retained on authority of 49:106(g). The words “air navigation facilities” are substituted for “landing areas, Federal airways, radar installations and all other aids and facilities for air navigation” because of the definition of “air navigation facility” in section 40102(a) of the revised title. The words “the armed forces” are substituted for “military agencies” because of 10:101.
 
 In subsection (b), before clause (1), the words “the requirements of” are omitted as surplus. The text of 49 App.:2203(b) (1st sentence) is omitted as executed. The words “thereafter” and “For fiscal year 1991 and thereafter” are omitted as obsolete. In clauses (2)(C) and (3), the word “personnel” is substituted for “manpower” for consistency in the revised title. In clause (2)(C), the word “all” is omitted as surplus.
 
@@ -108,7 +108,7 @@ In subsection (d)(3), the words “beginning with the date of transmission of th
 
 #### References in Text
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(2)(B)(vi), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15,Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(2)(B)(vi), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 #### Amendments
 

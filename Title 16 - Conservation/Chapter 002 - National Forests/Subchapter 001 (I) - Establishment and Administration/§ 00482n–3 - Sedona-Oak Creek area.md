@@ -14,7 +14,7 @@ Sections 5, 6, 7, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 26, 27, 28, 29, 30, 31
 
 Sections 11, 12, 13, 14, 23, and 24, township 16 north, range 5 east.
 
-Sections 7, 8, 9, 10, 16, 17, 18, 19, and 20, township 16 north, range 6 east, Gila and Salt River Base and meridian: <i>Provided, however</i>, That as applied to any lands described in this section, the word “hereinafter” in sections 482n and482n–1 of this title and the words “date of the enactment of this Act” in section 482n–2 of this title, shall be deemed to relate to the date of the enactment of this section.
+Sections 7, 8, 9, 10, 16, 17, 18, 19, and 20, township 16 north, range 6 east, Gila and Salt River Base and meridian: <i>Provided, however</i>, That as applied to any lands described in this section, the word “hereinafter” in sections 482n and 482n–1 of this title and the words “date of the enactment of this Act” in section 482n–2 of this title, shall be deemed to relate to the date of the enactment of this section.
 
 (May 24, 1949, ch. 136, §4, as added May 19, 1955, ch. 42, 69 Stat. 50.)
 

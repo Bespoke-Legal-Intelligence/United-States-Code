@@ -6,7 +6,7 @@ For purposes of this Act—
 
 &emsp;(2) the term “commercial provider” means any person providing space transportation services or other space-related activities, primary control of which is held by persons other than Federal, State, local, and foreign governments;
 
-&emsp;(3) the term “payload” means anything that a person undertakes to transport to, from, or within outer space, or in suborbital trajectory, by means of a space transportation vehicle, but does not include the space transportation vehicle itself except for its components which are specifically designed or adapted for that payload;
+&emsp;(3) the term “payload” means anything that a person undertakes to transport to, from, or within outer space, or in suborbital trajectory, by means of a space transportation vehicle, but does not include the space transportationvehicle itself except for its components which are specifically designed or adapted for that payload;
 
 &emsp;(4) the term “space-related activities” includes research and development, manufacturing, processing, service, and other associated and support activities;
 

@@ -76,7 +76,7 @@ Actions to impede the board.—No person (including a State or political subdivi
 
 &emsp;(2)
 
-Unsolicited communications.—No unsolicited communication concerning a potential action or settlement offer for personal injury or wrongful death may be made by an attorney (including any associate, agent, employee, or other representative of an attorney) or any potential party to the litigation, including the railroad carrier or rail passenger carrier, to an individual (other than an employee of the rail passenger carrier) injured in the accident, or to a relative of an individual involved in the accident, before the 45th day following the date of the accident.
+Unsolicited communications.—No unsolicited communication concerning a potential action or settlement offer for personal injury or wrongful death may be made by an attorney (including any associate, agent, employee, or other representative of an attorney) or any potential party to the litigation, including the railroad carrier or rail passenger carrier, to an individual (other than an employee of the railpassenger carrier) injured in the accident, or to a relative of an individual involved in the accident, before the 45th day following the date of the accident.
 
 &emsp;(3)
 
@@ -152,7 +152,7 @@ Model Plan and Recommendations.—The task force established pursuant to subsect
 
 &emsp;“(1) a model plan to assist rail passenger carriers in responding to passenger rail accidents;
 
-&emsp;“(2) recommendations on methods to improve the timeliness of the notification provided by passengerrail carriers to the families of passengers involved in a passenger rail accident;
+&emsp;“(2) recommendations on methods to improve the timeliness of the notification provided by passenger rail carriers to the families of passengers involved in a passenger rail accident;
 
 &emsp;“(3) recommendations on methods to ensure that the families of passengers involved in a passenger rail accident who are not citizens of the United States receive appropriate assistance; and
 

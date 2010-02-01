@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(C) reimburse the victim for income lost by such victim as a result of such offense;
 
-&emsp;(3) in the case of an offense resulting in bodily injury also results in the death of a victim,pay an amount equal to the cost of necessary funeral and related services;
+&emsp;(3) in the case of an offense resulting in bodily injury also results in the death of a victim, pay an amount equal to the cost of necessary funeral and related services;
 
 &emsp;(4) in any case, reimburse the victim for lost income and necessary child care, transportation, and other expenses related to participation in the investigation or prosecution of the offense or attendance at proceedings related to the offense;
 
@@ -92,7 +92,7 @@ Subsec. (c). Pub. L. 104–132, §205(a)(2), (3), added subsec. (c) and struck o
 
 Subsec. (c)(4). Pub. L. 104–294, §601(r)(2), inserted “or chapter 96” after “under chapter 46”.
 
-Subsec. (d). Pub. L. 104–132, §205(a)(2), (3), added subsec. (d) and struck out former subsec. (d) which read asfollows: “To the extent that the court determines that the complication and prolongation of the sentencing process resulting from the fashioning of an order of restitution under this section outweighs the need to provide restitution to any victims, the court may decline to make such an order.”
+Subsec. (d). Pub. L. 104–132, §205(a)(2), (3), added subsec. (d) and struck out former subsec. (d) which read as follows: “To the extent that the court determines that the complication and prolongation of the sentencing process resulting from the fashioning of an order of restitution under this section outweighs the need to provide restitution to any victims, the court may decline to make such an order.”
 
 Subsecs. (e) to (i). Pub. L. 104–132, §205(a)(2), struck out subsecs. (e) to (i), relating to provisions for restitution to persons who had compensated victims for their loss as well as offsets for restitution received by victims against amounts later recovered as compensatory damages, court orders that defendant make restitution in specified time period or in specified installments, payment of restitution as condition of probation or of supervised release, enforcement of restitution orders by United States or by victim, and supervision, termination, or restoration of eligibility for Federal benefits of persons delinquent in making restitution, respectively.
 

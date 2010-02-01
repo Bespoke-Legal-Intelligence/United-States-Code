@@ -20,7 +20,7 @@ For purposes of this subtitle, the term “common trust fund” means a fund mai
 
 #### (b) Taxation of common trust funds
 
-A common trust fund shall not be subject to taxation under this chapter and for purposes of this chapter shall not be considered a corporation.
+A common trust fund shall not be subject to taxation under this chapter and for purposes ofthis chapter shall not be considered a corporation.
 
 #### (c) Income of participants in fund
 
@@ -94,7 +94,7 @@ The benefit of the deduction for net operating losses provided by section 172 sh
 
 &emsp;&emsp;&emsp;If, in any transfer referred to in paragraph (1)(A), the assumed liabilities exceed the aggregate adjusted bases (in the hands of the common trust fund) of the assets transferred to the regulated investment company or companies—
 
-&emsp;&emsp;&emsp;&emsp;(I) notwithstanding paragraph (1), gain shall be recognized to the common trust fund on such transfer in an amount equal to such excess,
+&emsp;&emsp;&emsp;&emsp;(I) notwithstanding paragraph (1), gain shall be recognized to the common trustfund on such transfer in an amount equal to such excess,
 
 &emsp;&emsp;&emsp;&emsp;(II) the basis of the assets received by the regulated investment company or companies in such transfer shall be increased by the amount so recognized, and
 

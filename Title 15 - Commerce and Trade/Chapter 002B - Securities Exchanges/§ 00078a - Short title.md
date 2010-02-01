@@ -18,7 +18,7 @@ Pub. L. 108–458, title VII, §7803(a), Dec. 17, 2004, 118 Stat. 3861, provided
 
 #### Short Title of 2002 Amendments
 
-Pub. L. 107–204, title XI, §1101, July 30, 2002, 116 Stat. 807, provided that: “This title \[amending sections 77h–1, 78u–3, and 78ff of this title and sections 1512 and 1513 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Corporate Fraud Accountability Act of 2002’.”
+Pub. L. 107–204, title XI, §1101, July 30, 2002, 116 Stat. 807, provided that: “This title \[amending sections 77h–1,78u–3, and 78ff of this title and sections 1512 and 1513 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Corporate Fraud Accountability Act of 2002’.”
 
 Pub. L. 107–123, §1, Jan. 16, 2002, 115 Stat. 2390, provided that: “This Act \[enacting chapter 48 of Title 5, Government Organization and Employees, amending sections 77f, 77ggg, 78d, 78m, 78n, and 78ee of this title, sections 3132 and 5373 of Title 5, and section 1833b of Title 12, Banks and Banking, and enacting provisions set out as notes under section 78ee of this title and section 4802 of Title 5\] may be cited as the ‘Investor and Capital Markets Fee Relief Act’.”
 
@@ -70,7 +70,7 @@ Pub. L. 101–429, title V, §501, Oct. 15, 1990, 104 Stat. 951, provided that: 
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100–704, §1, Nov. 19, 1988, 102 Stat. 4677, provided that: “This Act \[enacting sections 78t–1, 78u–1, and 80b–4a of this title, amending sections 78c, 78<i>o</i>, 78u, 78ff, and 78kk of this title, and enacting provisions set out as notes under sections 78b, 78<i>o</i>, and 78u–1 of this title\] may be cited as the ‘Insider Trading and Securities Fraud Enforcement Act of 1988’.”
+Pub. L. 100–704, §1, Nov. 19, 1988, 102 Stat. 4677, provided that: “This Act \[enacting sections 78t–1, 78u–1, and 80b–4a of this title, amending sections 78c, 78<i>o</i>, 78u, 78ff, and 78kk of this title, and enacting provisions setout as notes under sections 78b, 78<i>o</i>, and 78u–1 of this title\] may be cited as the ‘Insider Trading and Securities Fraud Enforcement Act of 1988’.”
 
 Pub. L. 100–418, title V, §5001, Aug. 23, 1988, 102 Stat. 1415, provided that: “This part \[part I (§§5001–5003) of subtitle A of title I of Pub. L. 100–418, amending sections 78m, 78dd–1, 78dd–2, and 78ff of this title and enacting provisions set out as a note under section 78dd–1 of this title\] may be cited as the ‘Foreign Corrupt Practices Act Amendments of 1988’.”
 

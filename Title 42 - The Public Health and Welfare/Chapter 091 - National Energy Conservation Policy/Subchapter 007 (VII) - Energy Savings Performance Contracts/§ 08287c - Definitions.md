@@ -20,7 +20,7 @@ For purposes of this subchapter, the following definitions apply:
 
 &emsp;&emsp;(D) the increased efficient use of existing water sources in interior or exterior applications.
 
-&emsp;(3) The terms “energy savings contract” and “energy savings performance contract” meana contract that provides for the performance of services for the design, acquisition, installation, testing, and, where appropriate, operation, maintenance, and repair, of an identified energy or water conservation measure or series of measures at 1 or more locations. Such contracts shall, with respect to an agency facility that is a public building (as such term is defined in section 3301 of title 40), be in compliance with the prospectus requirements and procedures of section 3307 of title 40.
+&emsp;(3) The terms “energy savings contract” and “energy savings performance contract” mean a contract that provides for the performance of services for the design, acquisition, installation, testing, and, where appropriate, operation, maintenance, and repair, of an identified energy or water conservation measure or series of measures at 1 or more locations. Such contracts shall, with respect to an agency facility that is a public building (as such term is defined in section 3301 of title 40), be in compliance with the prospectus requirements and procedures of section 3307 of title 40.
 
 &emsp;(4) The term “energy or water conservation measure” means—
 

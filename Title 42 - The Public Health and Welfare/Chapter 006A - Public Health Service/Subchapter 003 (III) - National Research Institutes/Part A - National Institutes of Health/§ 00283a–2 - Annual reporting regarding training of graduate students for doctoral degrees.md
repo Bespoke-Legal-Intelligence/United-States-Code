@@ -6,7 +6,7 @@ Each institution receiving an award under this subchapter for the training of gr
 
 &emsp;(1) the percentage of such students admitted for study who successfully attain a doctoral degree; and
 
-&emsp;(2) for students described in paragraph (1), the average time (not including any leaves ofabsence) between the beginning of graduate study and the receipt of a doctoral degree.
+&emsp;(2) for students described in paragraph (1), the average time (not including any leaves of absence) between the beginning of graduate study and the receipt of a doctoral degree.
 
 #### (3) <sup>1</sup> Provision of information to applicants
 

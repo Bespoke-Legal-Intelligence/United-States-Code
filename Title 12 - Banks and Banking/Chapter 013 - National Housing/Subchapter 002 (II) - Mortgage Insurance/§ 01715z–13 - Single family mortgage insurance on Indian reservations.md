@@ -14,7 +14,7 @@ Notwithstanding any other provision of this chapter, with respect to mortgages c
 
 &emsp;(3)(A) the Secretary may require an Indian tribe, only as a condition of insurance made under this subchapter pursuant to this section, to pledge income from tribal resources or income from tribal assets not subject to a restriction by the Secretary of the Interior or pledge grants under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\] or any other Federal grant program administered by the Secretary of Housing and Urban Development to be used to reimburse the Secretary for any mortgage insurance claims paid in connection with residences insured pursuant to this section; or
 
-&emsp;(B) in the case of an individual Indian mortgagor, the Secretary may require a pledge of his or her share of distributed income fromtribal resources or income from tribal assets, excluding any Federal grants received by the tribe.
+&emsp;(B) in the case of an individual Indian mortgagor, the Secretary may require a pledge of his or her share of distributed income from tribal resources or income from tribal assets, excluding any Federal grants received by the tribe.
 
 #### (c) Lack of tribal or trust fund income
 
@@ -34,7 +34,7 @@ Notwithstanding any other provision of this chapter, the insurance of a mortgage
 
 #### (g) Availability of status and payment history of loans; entitlement to benefit of insurance; reinstatement of loan upon cure of default; garnishment proceedings; foreclosure proceedings
 
-(1) The Secretary shall make information regarding the status and payment history of loans insured under this section available to local credit bureaus and prospective creditors. Prior to accepting assignment of a mortgage, the Secretary shall require mortgagees to submit documentation that mortgagors have been counseled in a face-to-face interview, informed of the provisions of this subsection or other available assistance, and provided with the names and addresses of officials of the Department of Housing and Urban Development to whom further communications shall be addressed.
+(1) The Secretary shall make information regarding the status and payment history of loansinsured under this section available to local credit bureaus and prospective creditors. Prior to accepting assignment of a mortgage, the Secretary shall require mortgagees to submit documentation that mortgagors have been counseled in a face-to-face interview, informed of the provisions of this subsection or other available assistance, and provided with the names and addresses of officials of the Department of Housing and Urban Development to whom further communications shall be addressed.
 
 (2) Notwithstanding the requirement for conveyance of title under section 1710 of this title, a mortgagee under this section shall be entitled to receive the benefit of insurance under this section in the case of a mortgage which is more than 90 days in default upon conveyance of the lease agreement and the mortgage documents.
 
@@ -54,7 +54,7 @@ For purposes of this section:
 
 &emsp;(1) The term “Indian tribe” means any Indian or Alaska native tribe, band, nation, or other organized group or community of Indians or Alaska natives recognized as eligible for the services provided to Indians or Alaska natives by the Secretary of the Interior because of its status as such an entity, or that was an eligible recipient under chapter 67 of title 31, prior to the repeal of such chapter.
 
-&emsp;(2) The term “trust or otherwise restricted land” means (A) that area of land, as defined by the Secretary of the Interior, over which an Indian tribe is recognized by the United States as having governmental jurisdiction; (B) land held in trust for the benefit of any Indian tribe or individual or held by any Indian tribe or individual subject to a restriction by the United States against alienation; or (C) land acquired by Alaska natives under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]or any other land acquired by Alaska natives pursuant to statute by virtue of their unique status as Alaska natives.
+&emsp;(2) The term “trust or otherwise restricted land” means (A) that area of land, as defined by the Secretary of the Interior, over which an Indian tribe is recognized by the United States as having governmental jurisdiction; (B) land held in trust for the benefit of any Indian tribe or individual or held by any Indian tribe or individual subject to a restriction by the United States against alienation; or (C) land acquired by Alaska natives under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] or any other land acquired by Alaska natives pursuant to statute by virtue of their unique status as Alaska natives.
 
 (June 27, 1934, ch. 847, title II, §248, as added Pub. L. 98–181, title IV, §422, Nov. 30, 1983, 97 Stat. 1214; amended Pub. L. 99–272, title XIV, §14001(b)(7), Apr. 7, 1986, 100 Stat. 329; Pub. L. 100–242, title IV, §§413(c), 429(i), Feb. 5, 1988, 101 Stat. 1906, 1919; Pub. L. 110–289, div. B, title I, §2119(b), July 30, 2008, 122 Stat. 2835.)
 

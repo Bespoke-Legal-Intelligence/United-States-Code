@@ -16,7 +16,7 @@
 
 (b) As part of any inquiry or investigation of any person under subsection (a), the Secretary shall request information concerning whether that person has been convicted of any offense under Federal or State law which resulted in imprisonment for more than one year. If that person has been convicted of such an offense, the Secretary may certify the person as a fiduciary only if the Secretary finds that the person is an appropriate person to act as fiduciary for the beneficiary concerned under the circumstances.
 
-(c)(1) In the case of a proposed fiduciary described in paragraph (2), the Secretary, in conducting an inquiry or investigation under subsection (a)(1), may carry out such inquiry or investigation on an expedited basis that may include waiver of any specific requirement relating to such inquiry or investigation, including the otherwise applicable provisions of subparagraphs (A), (B), and (C) of such subsection. Any such inquiry or investigation carried out on such an expedited basis shall be carried outunder regulations prescribed for purposes of this section.
+(c)(1) In the case of a proposed fiduciary described in paragraph (2), the Secretary, in conducting an inquiry or investigation under subsection (a)(1), may carry out such inquiry or investigation on an expedited basis that may include waiver of any specific requirement relating to such inquiry or investigation, including the otherwise applicable provisions of subparagraphs (A), (B), and (C) of such subsection. Any such inquiry or investigation carried out on such an expedited basis shall be carried out under regulations prescribed for purposes of this section.
 
 (2) Paragraph (1) applies with respect to a proposed fiduciary who is—
 

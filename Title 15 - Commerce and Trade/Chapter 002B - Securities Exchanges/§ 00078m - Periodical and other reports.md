@@ -50,7 +50,7 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 (1) Any person who, after acquiring directly or indirectly the beneficial ownership of any equity security of a class which is registered pursuant to section 78<i>l</i> of this title, or any equity security of an insurance company which would have been required to be so registered except for the exemption contained in section 78<i>l</i>(g)(2)(G) of this title, or any equity security issued by a closed-end investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] or any equity security issued by a Native Corporation pursuant to section 1629c(d)(6) of title 43, is directly or indirectly the beneficial owner of more than 5 per centum of such class shall, within ten days after such acquisition, send to the issuer of the security at its principal executive office, by registered or certified mail, send to each exchange where the security is traded, and file with the Commission, a statement containing such of the following information, and such additional information, as the Commission may by rules and regulations, prescribe as necessary or appropriate in the public interest or for the protection of investors—
 
-&emsp;(A) the background, and identity, residence, and citizenship of, and the nature of such beneficial ownership by, such person and all other persons by whom or on whose behalf the purchases have been or are to be effected;
+&emsp;(A) the background, and identity, residence, and citizenship of, and the nature of such beneficial ownership by, such person and all otherpersons by whom or on whose behalf the purchases have been or are to be effected;
 
 &emsp;(B) the source and amount of the funds or other consideration used or to be used in making the purchases, and if any part of the purchase price is represented or is to be represented by funds or other consideration borrowed or otherwise obtained for the purpose of acquiring, holding, or trading such security, a description of the transaction and the names of the parties thereto, except that where a source of funds is a loan made in the ordinary course of business by a bank, as defined in section 78c(a)(6) of this title, if the person filing such statement so requests, the name of the bank shall not be made available to the public;
 
@@ -58,7 +58,7 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 &emsp;(D) the number of shares of such security which are beneficially owned, and the number of shares concerning which there is a right to acquire, directly or indirectly, by (i) such person, and (ii) by each associate of such person, giving the background, identity, residence, and citizenship of each such associate; and
 
-&emsp;(E) information as to any contracts, arrangements, or understandings with any person with respect to any securities of the issuer, including but not limited to transfer of any of the securities, joint ventures, loan oroption arrangements, puts or calls, guaranties of loans, guaranties against loss or guaranties of profits, division of losses or profits, or the giving or withholding of proxies, naming the persons with whom such contracts, arrangements, or understandings have been entered into, and giving the details thereof.
+&emsp;(E) information as to any contracts, arrangements, or understandings with any person with respect to any securities of the issuer, including but not limited to transfer of any of the securities, joint ventures, loan or option arrangements, puts or calls, guaranties of loans, guaranties against loss or guaranties of profits, division of losses or profits, or the giving or withholding of proxies, naming the persons with whom such contracts, arrangements, or understandings have been entered into, and giving the details thereof.
 
 (2) If any material change occurs in the facts set forth in the statements to the issuer and the exchange, and in the statement filed with the Commission, an amendment shall be transmitted to the issuer and the exchange and shall be filed with the Commission, in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
@@ -92,7 +92,7 @@ Offsetting collections.—Fees collected pursuant to this subsection for any fis
 
 (5)
 
-Annual adjustment.—For each of the fiscal years 2003 through 2011, the Commissionshall by order adjust the rate required by paragraph (3) for such fiscal year to a rate that is equal to the rate (expressed in dollars per million) that is applicable under section 6(b) of the Securities Act of 1933 \[15 U.S.C. 77f(b)\] for such fiscal year.
+Annual adjustment.—For each of the fiscal years 2003 through 2011, the Commission shall by order adjust the rate required by paragraph (3) for such fiscal year to a rate that is equal to the rate (expressed in dollars per million) that is applicable under section 6(b) of the Securities Act of 1933 \[15 U.S.C. 77f(b)\] for such fiscal year.
 
 (6)
 
@@ -178,7 +178,7 @@ Publication.—The rate applicable under this subsection for each fiscal year is
 
 (2) If any material change occurs in the facts set forth in the statement sent to the issuer and filed with the Commission, an amendment shall be transmitted to the issuer and shall be filed with the Commission, in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
-(3) When two or more persons act as a partnership, limited partnership, syndicate, or other group for the purpose of acquiring, holding, or disposing of securities of an issuer, such syndicate or group shall be deemed a “person” for the purposes of this subsection.
+(3) When two or more persons act as a partnership, limited partnership, syndicate, or other group for the purpose of acquiring, holding, ordisposing of securities of an issuer, such syndicate or group shall be deemed a “person” for the purposes of this subsection.
 
 (4) In determining, for purposes of this subsection, any percentage of a class of any security, such class shall be deemed to consist of the amount of the outstanding securities of such class, exclusive of any securities of such class held by or for the account of the issuer or a subsidiary of the issuer.
 
@@ -224,7 +224,7 @@ Publication.—The rate applicable under this subsection for each fiscal year is
 
 #### (7) Authority of Commission to limit disclosure of information
 
-&emsp;Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any information required to be kept or reported under this subsection. Nothing in this subsection shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with a request for information from any other Federal department or agency requesting information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552.
+&emsp;Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any information required to be kept or reported under this subsection. Nothing in this subsection shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with arequest for information from any other Federal department or agency requesting information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552.
 
 #### (8) Definitions
 
@@ -232,7 +232,7 @@ Publication.—The rate applicable under this subsection for each fiscal year is
 
 &emsp;&emsp;(A) the term “large trader” means every person who, for his own account or an account for which he exercises investment discretion, effects transactions for the purchase or sale of any publicly traded security or securities by use of any means or instrumentality of interstate commerce or of the mails, or of any facility of a national securities exchange, directly or indirectly by or through a registered broker or dealer in an aggregate amount equal to or in excess of the identifying activity level;
 
-&emsp;&emsp;(B) the term “publicly traded security” means any equity security (including an option on individual equity securities, and an option on a group or index of such securities) listed, or admitted to unlisted trading privileges, on a national securities exchange, orquoted in an automated interdealer quotation system;
+&emsp;&emsp;(B) the term “publicly traded security” means any equity security (including an option on individual equity securities, and an option on a group or index of such securities) listed, or admitted to unlisted trading privileges, on a national securities exchange, or quoted in an automated interdealer quotation system;
 
 &emsp;&emsp;(C) the term “identifying activity level” means transactions in publicly traded securities at or above a level of volume, fair market value, or exercise value as shall be fixed from time to time by the Commission by rule or regulation, specifying the time interval during which such transactions shall be aggregated;
 
@@ -270,7 +270,7 @@ Not later than 180 days after July 30, 2002, the Commission shall issue final ru
 
 #### (<i>l</i>) Real time issuer disclosures
 
-Each issuer reporting under subsec. (a) of this section or section 78<i>o</i>(d) of this title shall disclose to the public on a rapid and current basis such additional information concerning material changes in the financial condition or operations of the issuer, in plain English, which may include trend and qualitative information and graphic presentations, as the Commission determines, by rule, is necessary or useful for the protection of investors and in the public interest.
+Each issuer reporting under subsec. (a) of this section or section 78<i>o</i>(d) of this title shall disclose to the public on a rapid and current basis such additional information concerning material changes in the financial condition or operations of the issuer, in plain English, which may include trend and qualitative information andgraphic presentations, as the Commission determines, by rule, is necessary or useful for the protection of investors and in the public interest.
 
 (June 6, 1934, ch. 404, title I, §13, 48 Stat. 894; Pub. L. 88–467, §4, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §2, July 29, 1968, 82 Stat. 454; Pub. L. 91–567, §§1, 2, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 94–29, §10, June 4, 1975, 89 Stat. 119; Pub. L. 94–210, title III, §308(b), Feb. 5, 1976, 90 Stat. 57; Pub. L. 95–213, title I, §102, title II, §§202, 203, Dec. 19, 1977, 91 Stat. 1494, 1498, 1499; Pub. L. 98–38, §2(a), June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §§315, 316, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–241, §12(d), Feb. 3, 1988, 101 Stat. 1810; Pub. L. 100–418, title V, §5002, Aug. 23, 1988, 102 Stat. 1415; Pub. L. 101–432, §3, Oct. 16, 1990, 104 Stat. 964; Pub. L. 107–123, §5, Jan. 16, 2002, 115 Stat. 2395; Pub. L. 107–204, title I, §109(h), title IV, §§401(a), 402(a), 409, July 30, 2002, 116 Stat. 771, 785, 787, 791.)
 

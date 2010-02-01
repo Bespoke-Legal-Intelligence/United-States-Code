@@ -26,7 +26,7 @@ For the purpose of this chapter—
 
 &emsp;(12) The term “State educational agency” has the meaning given that term under section 7801 of this title.
 
-(Pub. L. 98–377, §3, Aug. 11, 1984, 98 Stat. 1267; Pub. L. 99–159, title II, §221, Nov. 22, 1985, 99 Stat. 897; Pub. L. 105–244, title I, §102(a)(6)(F), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–110, title X, §1076(<i>l</i>)(1), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 109–270, §2(d), Aug. 12, 2006, 120 Stat. 747.)
+(Pub. L. 98–377, §3, Aug. 11, 1984, 98 Stat. 1267; Pub. L. 99–159, title II, §221, Nov. 22, 1985, 99 Stat. 897; Pub. L. 105–244, title I, §102(a)(6)(F),Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–110, title X, §1076(<i>l</i>)(1), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 109–270, §2(d), Aug. 12, 2006, 120 Stat. 747.)
 
 #### References in Text
 

@@ -10,7 +10,7 @@ It is the purpose of this section—
 
 #### (b) Grant program
 
-The Secretary of Agriculture shall establish a grant program within the Cooperative State Research, Education, and Extension Service and the Agricultural Research Service to provide the necessary funding for environmental assessment research concerning the introduction of genetically engineered animals, plants, and microorganisms into the environment.
+The Secretary of Agriculture shall establish a grant program within the National Institute of Food and Agriculture and the Agricultural Research Service to provide the necessary funding for environmental assessment research concerning the introduction of genetically engineered animals, plants, and microorganisms into the environment.
 
 #### (c) Research priorities
 
@@ -22,7 +22,7 @@ The following types of research shall be given priority for funding:
 
 &emsp;(3) Research designed to further existing knowledge with respect to the characteristics, rates, and methods of gene transfer that may occur between genetically engineered animals, plants, and microorganisms and related wild and agricultural organisms.
 
-&emsp;(4) Environmental assessment research designed to provide analysis which compares the relative impacts of animals, plants, and microorganisms modified through genetic engineering to other types of production systems.
+&emsp;(4) Environmental assessment research designed to provide analysis which compares therelative impacts of animals, plants, and microorganisms modified through genetic engineering to other types of production systems.
 
 &emsp;(5) Other areas of research designed to further the purposes of this section.
 
@@ -58,15 +58,13 @@ The Secretary of Agriculture shall coordinate research funded under this section
 
 (Pub. L. 101–624, title XVI, §1668, Nov. 28, 1990, 104 Stat. 3767; Pub. L. 102–237, title IV, §407(9), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 107–171, title VII, §7210, May 13, 2002, 116 Stat. 446; Pub. L. 110–234, title VII, §7511(c)(21), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(21), June 18, 2008, 122 Stat. 1664, 2031.)
 
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2031, provided that, effective Oct. 1, 2009, subsection (b) of this section is amended by substituting “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.</i>
-
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–246, §7511(c)(21), substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.
 
 2002—Pub. L. 107–171 reenacted section catchline and amended text generally, substituting substantially similar provisions in subsecs. (a), (b), and (d) to (g), and substituting in subsec. (c), provisions relating to research priorities for provisions relating to types of research.
 

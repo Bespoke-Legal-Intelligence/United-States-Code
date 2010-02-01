@@ -16,7 +16,7 @@ From funds appropriated under section 6302(e)(1) of this title for any fiscal ye
 
 #### Prior Provisions
 
-A prior section 6492, Pub. L. 89–10, title I, §1502, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3604, related to demonstrations of innovative practices, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6492, Pub. L. 89–10, title I, §1502, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3604, related to demonstrations of innovative practices, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 1502 of Pub. L. 89–10 was classified to section 2912 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 

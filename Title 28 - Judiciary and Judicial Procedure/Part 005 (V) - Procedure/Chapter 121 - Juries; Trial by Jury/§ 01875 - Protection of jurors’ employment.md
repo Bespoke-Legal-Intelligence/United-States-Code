@@ -16,7 +16,7 @@
 
 (2) In any action or proceeding under this section, the court may award a prevailing employee who brings such action by retained counsel a reasonable attorney's fee as part of the costs. The court may tax a defendant employer, as costs payable to the court, the attorney fees and expenses incurred on behalf of a prevailing employee, where such costs were expended by the court pursuant to paragraph (1) of this subsection. The court may award a prevailing employer a reasonable attorney's fee as part of the costs only if the court finds that the action is frivolous, vexatious, or brought in bad faith.
 
-(Added Pub. L. 95–572, §6(a)(1), Nov. 2, 1978, 92 Stat. 2456; amended Pub. L. 97–463, §1, Jan. 12,1983, 96 Stat. 2531; Pub. L. 110–406, §19, Oct. 13, 2008, 122 Stat. 4295.)
+(Added Pub. L. 95–572, §6(a)(1), Nov. 2, 1978, 92 Stat. 2456; amended Pub. L. 97–463, §1, Jan. 12, 1983, 96 Stat. 2531; Pub. L. 110–406, §19, Oct. 13, 2008, 122 Stat. 4295.)
 
 #### Amendments
 

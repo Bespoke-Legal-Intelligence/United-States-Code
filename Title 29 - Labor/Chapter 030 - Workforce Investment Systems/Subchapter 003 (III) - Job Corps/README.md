@@ -9,6 +9,7 @@
 - [&sect; 02882 - Definitions](%C2%A7%2002882%20-%20Definitions.md)
 - [&sect; 02883 - Establishment](%C2%A7%2002883%20-%20Establishment.md)
 - [&sect; 02883a - Office of Job Corps](%C2%A7%2002883a%20-%20Office%20of%20Job%20Corps.md)
+- [&sect; 02883b - Transfer of administration of Job Corps program to Employment and Training Administration](%C2%A7%2002883b%20-%20Transfer%20of%20administration%20of%20Job%20Corps%20program%20to%20Employment%20and%20Training%20Administration.md)
 - [&sect; 02884 - Individuals eligible for the Job Corps](%C2%A7%2002884%20-%20Individuals%20eligible%20for%20the%20Job%20Corps.md)
 - [&sect; 02885 - Recruitment, screening, selection, and assignment of enrollees](%C2%A7%2002885%20-%20Recruitment%2C%20screening%2C%20selection%2C%20and%20assignment%20of%20enrollees.md)
 - [&sect; 02886 - Enrollment](%C2%A7%2002886%20-%20Enrollment.md)

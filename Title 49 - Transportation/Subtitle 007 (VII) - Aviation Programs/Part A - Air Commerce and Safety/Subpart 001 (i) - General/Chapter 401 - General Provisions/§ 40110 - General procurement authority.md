@@ -52,7 +52,7 @@ Duties and Powers.—When carrying out subsection (a) of this section, the Admin
 
 &emsp;(4) use procedures other than competitive procedures only when the property or services needed by the Administrator of the Federal Aviation Administration are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the Administrator; and
 
-&emsp;(5) dispose of property under subsection (a)(2) of this section, except for airport and airway property and technical equipment used for the special purposes of the Administration, only under sections 121, 123, and 126 and chapter 5 of title 40.
+&emsp;(5) dispose of property under subsection (a)(2) of this section, except for airport andairway property and technical equipment used for the special purposes of the Administration, only under sections 121, 123, and 126 and chapter 5 of title 40.
 
 (d)
 
@@ -110,7 +110,7 @@ General rule.—Except as provided in paragraph (2), a proposal in the possessio
 
 &emsp;(2)
 
-Exception.—Paragraph (1) shall not apply to any portion of a proposal of an offeror the disclosure of which is authorized by the Administrator pursuant to procedures published in the Federal Register. The Administrator shall provide an opportunity for public comment on the procedures for a period of not less than 30 days beginning on the date of such publication in order to receive and consider the views of all interested parties on the procedures. The procedures shall not take effectbefore the 60th day following the date of such publication.
+Exception.—Paragraph (1) shall not apply to any portion of a proposal of an offeror the disclosure of which is authorized by the Administrator pursuant to procedures published in the Federal Register. The Administrator shall provide an opportunity for public comment on the procedures for a period of not less than 30 days beginning on the date of such publication in order to receive and consider the views of all interested parties on the procedures. The procedures shall not take effect before the 60th day following the date of such publication.
 
 &emsp;(3)
 
@@ -300,7 +300,7 @@ Pilot Program Implementation.—(1) The Secretary of Transportation should presc
 
 Special Authorities.—The authority provided by subsection (a) shall include authority for the Secretary of Transportation—
 
-&emsp;“(1) to apply any amendment or repeal of a provision of law made in this Act \[see Short Title of 1994Amendment note set out under section 251 of Title 41, Public Contracts\] to the pilot program before the effective date of such amendment or repeal; and
+&emsp;“(1) to apply any amendment or repeal of a provision of law made in this Act \[see Short Title of 1994 Amendment note set out under section 251 of Title 41, Public Contracts\] to the pilot program before the effective date of such amendment or repeal; and
 
 &emsp;“(2) to apply to a procurement of items other than commercial items under such program—
 

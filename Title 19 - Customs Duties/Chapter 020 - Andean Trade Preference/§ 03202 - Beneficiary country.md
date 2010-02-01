@@ -132,7 +132,7 @@ In determining whether to designate any country a beneficiary country under this
 
 #### (1) In general
 
-&emsp;Not later than April 30, 2003, and every 2 years thereafter during the period this chapteris in effect, the United States Trade Representative shall submit to the Congress a report regarding the operation of this chapter, including—
+&emsp;Not later than June 30, 2010, and every 2 years thereafter during the period this chapteris in effect, the United States Trade Representative shall submit to the Congress a report regarding the operation of this chapter, including—
 
 &emsp;&emsp;(A) with respect to subsections (c) and (d) of this section, the results of a general review of beneficiary countries based on the considerations described in such subsections; and
 
@@ -142,7 +142,7 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;Before submitting the report described in paragraph (1), the United States Trade Representative shall publish a notice in the Federal Register requesting public comments on whether beneficiary countries are meeting the criteria listed in section 3203(b)(6)(B) of this title.
 
-(Pub. L. 102–182, title II, §203, Dec. 4, 1991, 105 Stat. 1236; Pub. L. 103–465, title VI, §621(a)(3), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(2), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, §211(c)(2), May 18, 2000, 114 Stat. 287; Pub. L. 107–210, div. C, title XXXI, §3103(b), (e), Aug. 6, 2002, 116 Stat. 1033.)
+(Pub. L. 102–182, title II, §203, Dec. 4, 1991, 105 Stat. 1236; Pub. L. 103–465, title VI, §621(a)(3), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(2), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, §211(c)(2), May 18, 2000, 114 Stat. 287; Pub. L. 107–210, div. C, title XXXI, §3103(b), (e), Aug. 6, 2002, 116 Stat. 1033; Pub. L. 111–124, §2(c), Dec. 28, 2009, 123 Stat. 3484.)
 
 #### References in Text
 
@@ -153,6 +153,8 @@ Subsec. (h) of section 2291 of title 22, referred to in subsec. (d)(11), was rep
 This chapter, referred to in subsec. (d)(12), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 102–182 which enacted this chapter, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2009—Subsec. (f)(1). Pub. L. 111–124 substituted “June 30, 2010” for “April 30, 2003”.
 
 2002—Subsec. (e)(1). Pub. L. 107–210, §3103(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 

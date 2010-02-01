@@ -14,17 +14,17 @@ Subsection (a) of this section applies to—
 
 &emsp;(1) research activities conducted by the Agricultural Research Service; and
 
-&emsp;(2) research, extension, or education activities administered, on a competitive basis, by the Cooperative State Research, Education, and Extension Service.
+&emsp;(2) research, extension, or education activities administered, on a competitive basis, by the National Institute of Food and Agriculture.
 
 (Pub. L. 105–185, title I, §101, June 23, 1998, 112 Stat. 526; Pub. L. 110–234, title VII, §7511(c)(29), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, §4(a), title VII, §7511(c)(29), June 18, 2008, 122 Stat. 1664, 2031.)
-
-#### Amendment of Subsection (b)(2)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2031, provided that, effective Oct. 1, 2009, subsection (b)(2) of this section is amended by substituting “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.</i>
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (b)(2). Pub. L. 110–246, §7511(c)(29), substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.
 
 #### Effective Date of 2008 Amendment
 

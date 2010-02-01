@@ -48,7 +48,7 @@ For the purpose of this section—
 
 &emsp;&emsp;(B) has operated a comprehensive work-learning-service program for at least two years;
 
-&emsp;&emsp;(C) requires students, including at least one-half of all students who are enrolled on a full-time basis, to participate in a comprehensive work-learning-service program forat least five hours each week, or at least 80 hours during each period of enrollment, except summer school, unless the student is engaged in an institutionally organized or approved study abroad or externship program; and
+&emsp;&emsp;(C) requires students, including at least one-half of all students who are enrolled on a full-time basis, to participate in a comprehensive work-learning-service program for at least five hours each week, or at least 80 hours during each period of enrollment, except summer school, unless the student is engaged in an institutionally organized or approved study abroad or externship program; and
 
 &emsp;&emsp;(D) provides students participating in the comprehensive work-learning-service program with the opportunity to contribute to their education and to the welfare of the community as a whole; and
 

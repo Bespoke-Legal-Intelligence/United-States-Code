@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) In order to provide a center for the preservation, interpretation, and perpetuation of traditional native Hawaiian activities and culture, and to demonstrate historic land use patterns as well as to provide a needed resource for the education, enjoyment, and appreciation of such traditional native Hawaiian activities and culture by local residents and visitors, there is established the Kaloko-Honokōhau National Historical Park (hereinafter in this section referred to as the “park”) in Hawaii comprising approximately one thousand three hundred acres asgenerally depicted on the map entitled “Kaloko-Honokōhau National Historical Park,” numbered KHN–80,000, and dated May 1978.
+(1) In order to provide a center for the preservation, interpretation, and perpetuation of traditional native Hawaiian activities and culture, and to demonstrate historic land use patterns as well as to provide a needed resource for the education, enjoyment, and appreciation of such traditional native Hawaiian activities and culture by local residents and visitors, there is established the Kaloko-Honokōhau National Historical Park (hereinafter in this section referred to as the “park”) in Hawaii comprising approximately one thousand three hundred acres as generally depicted on the map entitled “Kaloko-Honokōhau National Historical Park,” numbered KHN–80,000, and dated May 1978.
 
 (2) The boundaries of the park are modified to include lands and interests therein comprised of Parcels 1 and 2 totaling 2.14 acres, identified as “Tract A” on the map entitled “Kaloko-Honokōhau National Historical Park Proposed Boundary Adjustment”, numbered PWR (PISO) 466/82,043 and dated April 2002.
 
@@ -44,21 +44,21 @@ In carrying out the purposes of this section the Secretary is authorized and dir
 
 (6) The Commission shall meet not less than twice a year. Additional meetings may be called by the Chairman.
 
-(7) The Advisory Commission shall terminate ten years after the date of enactment of the Na Hoa Pili Kaloko-Honokōhau Re-establishment Act of 1996.
+(7) The Advisory Commission shall terminate on December 31, 2018.
 
 #### (g) Authorization of appropriations
 
 There are hereby authorized to be appropriated not to exceed $25,000,000 for acquisition and $1,000,000 for development.
 
-(Pub. L. 95–625, title V, §505, Nov. 10, 1978, 92 Stat. 3499; Pub. L. 96–87, title IV, §401(i), Oct. 12, 1979, 93 Stat. 666; Pub. L. 104–333, div. I, title V, §503(b), Nov. 12, 1996, 110 Stat. 4155; Pub. L. 106–510, §3(c)(1), Nov. 13, 2000, 114 Stat. 2363; Pub. L. 108–142, §2, Dec. 2, 2003, 117 Stat. 1875.)
+(Pub. L. 95–625, title V, §505, Nov. 10, 1978, 92 Stat. 3499; Pub. L. 96–87, title IV, §401(i), Oct. 12, 1979, 93 Stat. 666; Pub. L. 104–333, div. I, title V,§503(b), Nov. 12, 1996, 110 Stat. 4155; Pub. L. 106–510, §3(c)(1), Nov. 13, 2000, 114 Stat. 2363; Pub. L. 108–142, §2, Dec. 2, 2003, 117 Stat. 1875; Pub. L. 111–11, title VII, §7401, Mar. 30, 2009, 123 Stat. 1219.)
 
 #### References in Text
 
-Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c), was in the original act “approved August 25,1916 (39 Stat. 535; 16 U.S.C. 461–467)”. Act Aug. 25, 1916, known as the “National Park Service Organic Act”, is classified to sections 1, 2, 3, and 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
-
-The date of enactment of the Na Hoa Pili Kaloko-Honokōhau Re-establishment Act of 1996, referred to in subsec. (f)(7), probably means the date of enactment of the Omnibus Parks and Public Lands Management Act of 1996, Pub. L. 104–333, which was approved Nov. 12, 1996. No act named the Na Hoa Pili Kaloko-Honokōhau Re-establishment Act of 1996 has been enacted. Section 503 of title V of div. I of Pub. L. 104–333, which amended this section and enacted provisions set out as a note below, relates to extension of Kaloko-Honokōhau Advisory Commission.
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c), was in the original a reference to the act “approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 461–467)”. Act Aug. 25, 1916, known as the “National Park Service Organic Act”, is classified to sections 1, 2, 3, and 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
 
 #### Amendments
+
+2009—Subsec. (f)(7). Pub. L. 111–11, which directed substitution of “on December 31, 2018” for “ten years after the date of enactment of the Na Hoa Pili O Kaloko-Honokohau Re-establishment Act of 1996”, was executed by making the substitution for “ten years after the date of enactment of the Na Hoa Pili Kaloko-Honokōhau Re-establishment Act of 1996”, to reflect the probable intent of Congress.
 
 2003—Subsec. (a). Pub. L. 108–142 designated existing provisions as par. (1), substituted “1978.” for “1978, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.”, and added pars. (2) and (3).
 

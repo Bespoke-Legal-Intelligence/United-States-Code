@@ -2,7 +2,7 @@
 
 Section 4241, Pub. L. 98–365, title IV, §401, July 17, 1984, 98 Stat. 459, related to authority of Secretary of Commerce to license private sector parties, conditions for grant of license, review of applications by Secretary, and provisions relating to denial of licenses.
 
-Section 4242, Pub. L. 98–365, title IV, §402, July 17, 1984, 98 Stat. 459; Pub. L. 102–567, title I, §114(b), Oct. 29, 1992, 106 Stat. 4279, provided licensing requirements for operation of private remote-sensing space system.
+Section 4242, Pub. L. 98–365, title IV, §402, July 17, 1984, 98 Stat. 459; Pub. L. 102–567, title I, §114(b), Oct. 29,1992, 106 Stat. 4279, provided licensing requirements for operation of private remote-sensing space system.
 
 Section 4243, Pub. L. 98–365, title IV, §403, July 17, 1984, 98 Stat. 460, related to administrative authority of Secretary of Commerce, review of adverse action on license application, and judicial review of final actions.
 

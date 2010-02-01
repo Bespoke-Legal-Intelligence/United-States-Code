@@ -2,7 +2,7 @@
 
 In addition to the duties described in section 290n–1 of this title, the Commission should be authorized to perform the following functions as the Commission determines to be appropriate—
 
-&emsp;(1) to conduct or support investigations, research, or studies designed to identify, study,and monitor, on an on-going basis, health problems that affect the general population in the United States-Mexico Border Area;
+&emsp;(1) to conduct or support investigations, research, or studies designed to identify, study, and monitor, on an on-going basis, health problems that affect the general population in the United States-Mexico Border Area;
 
 &emsp;(2) to conduct or support a binational, public-private effort to establish a comprehensive and coordinated system, which uses advanced technologies to the maximum extent possible, for gathering health-related data and monitoring health problems in the United States-Mexico Border Area; and
 

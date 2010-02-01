@@ -2,11 +2,11 @@
 
 #### (a) Establishment of National Institute of Standards and Technology
 
-There is established within the Department of Commerce a science, engineering, technology, and measurement laboratory to be known as the National Institute of Standards and Technology (hereafter in this chapter referred to as the “Institute”).
+There is established within the Department of Commerce a science, engineering, technology,and measurement laboratory to be known as the National Institute of Standards and Technology (hereafter in this chapter referred to as the “Institute”).
 
 #### (b) Functions of Secretary and Institute
 
-The Secretary of Commerce (hereafter in this chapter referred to as the “Secretary”) acting through the Director of the Institute (hereafter in this chapter referred to as the “Director”) isauthorized to take all actions necessary and appropriate to accomplish the purposes of this chapter, including the following functions of the Institute—
+The Secretary of Commerce (hereafter in this chapter referred to as the “Secretary”) acting through the Director of the Institute (hereafter in this chapter referred to as the “Director”) is authorized to take all actions necessary and appropriate to accomplish the purposes of this chapter, including the following functions of the Institute—
 
 &emsp;(1) to assist industry in the development of technology and procedures needed to improve quality, to modernize manufacturing processes, to ensure product reliability, manufacturability, functionality, and cost-effectiveness, and to facilitate the more rapid commercialization, especially by small- and medium-sized companies throughout the United States, of products based on new scientific discoveries in fields such as automation, electronics, advanced materials, biotechnology, and optical technologies;
 
@@ -146,7 +146,7 @@ Reports.—
 
 &emsp;&emsp;“(A)
 
-In general.—Not later than 1 year after the date of the enactment of this Act \[Oct. 30, 1998\], and annually thereafter, the Director of the NationalInstitute of Standards and Technology shall prepare and submit to the President a report. The President shall submit the report to Congress at the same time as the President submits a budget request to Congress under section 1105(a) of title 31, United States Code.
+In general.—Not later than 1 year after the date of the enactment of this Act \[Oct. 30, 1998\], and annually thereafter, the Director of the National Institute of Standards and Technology shall prepare and submit to the President a report. The President shall submit the report to Congress at the same time as the President submits a budget request to Congress under section 1105(a) of title 31, United States Code.
 
 &emsp;&emsp;“(B)
 
@@ -210,11 +210,11 @@ Pub. L. 100–418, title V, §5112(d), Aug. 23, 1988, 102 Stat. 1431, provided t
 
 “(2) The Director may revise the organization plan. Any revision of the organization plan submitted under paragraph (1) shall be submitted to the appropriate committees of the House of Representatives and the Senate at least 60 days before the effective date of such revision.
 
-“(3) Until the effective date of the organization plan, the major operating units of the Institute shall be the major operating units of the National Bureau of Standards that were in existence on the date of the enactment of this Act \[Aug. 23, 1988\] and the Advanced Technology Program.”
+“(3) Until the effective date of the organization plan, the major operating units of the Institute shall be themajor operating units of the National Bureau of Standards that were in existence on the date of the enactment of this Act \[Aug. 23, 1988\] and the Advanced Technology Program.”
 
 #### National Institute of Standards and Technology; Small Business Plan
 
-Pub. L. 100–418, title V, §5163(b), Aug. 23, 1988, 102 Stat. 1450, provided that: “The Director of the NationalInstitute of Standards and Technology shall prepare a plan detailing the manner in which the Institute will make small businesses more aware of the Institute's activities and research, and the manner in which the Institute will seek to increase the application by small businesses of the Institute's research, particularly in manufacturing. The plan shall be submitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology \[now Committee on Science and Technology\] of the House of Representatives not later than 120 days after the date of the enactment of this Act \[Aug. 23, 1988\].”
+Pub. L. 100–418, title V, §5163(b), Aug. 23, 1988, 102 Stat. 1450, provided that: “The Director of the National Institute of Standards and Technology shall prepare a plan detailing the manner in which the Institute will make small businesses more aware of the Institute's activities and research, and the manner in which the Institute will seek to increase the application by small businesses of the Institute's research, particularly in manufacturing. The plan shall be submitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology \[now Committee on Science and Technology\] of the House of Representatives not later than 120 days after the date of the enactment of this Act \[Aug. 23, 1988\].”
 
 #### Construction of Radio Laboratory Building
 

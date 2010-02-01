@@ -18,7 +18,7 @@ The Attorney General shall cooperate with local, State, and Federal agencies con
 
 &emsp;&emsp;(A) making periodic assessments of the capabilities of State and local governments to adequately control the diversion of controlled substances;
 
-&emsp;&emsp;(B) providing advice and counsel to State and local governments on the methods bywhich such governments may strengthen their controls against diversion; and
+&emsp;&emsp;(B) providing advice and counsel to State and local governments on the methods by which such governments may strengthen their controls against diversion; and
 
 &emsp;&emsp;(C) establishing cooperative investigative efforts to control diversion; and
 
@@ -34,7 +34,7 @@ The Attorney General shall annually (1) select the controlled substance (or cont
 
 #### (d) Grants by Attorney General
 
-(1) The Attorney General may make grants, in accordance with paragraph (2), to State and local governments to assist in meeting the costs of—
+(1) The Attorney General may make grants, in accordance with paragraph (2), to State andlocal governments to assist in meeting the costs of—
 
 &emsp;(A) collecting and analyzing data on the diversion of controlled substances,
 
@@ -104,7 +104,7 @@ Activities.—In order to combat the illegal manufacturing and trafficking in am
 
 &emsp;“(3) establish additional resident offices and posts of duty to assist State and local law enforcement in rural areas in combating such manufacturing and trafficking;
 
-&emsp;“(4) provide the Special Operations Division of the Administration with additional agents and staff tocollect, evaluate, interpret, and disseminate critical intelligence targeting the command and control operations of major amphetamine and methamphetamine manufacturing and trafficking organizations;
+&emsp;“(4) provide the Special Operations Division of the Administration with additional agents and staff to collect, evaluate, interpret, and disseminate critical intelligence targeting the command and control operations of major amphetamine and methamphetamine manufacturing and trafficking organizations;
 
 &emsp;“(5) enhance the investigative and related functions of the Chemical Control Program of the Administration to implement more fully the provisions of the Comprehensive Methamphetamine Control Act of 1996 (Public Law 104–237) \[see Short Title of 1996 Amendments note set out under section 801 of this title\];
 

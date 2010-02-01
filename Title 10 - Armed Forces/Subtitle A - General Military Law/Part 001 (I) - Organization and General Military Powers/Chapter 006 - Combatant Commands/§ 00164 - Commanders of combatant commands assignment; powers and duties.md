@@ -8,7 +8,7 @@ Assignment as Combatant Commander.—(1) The President may assign an officer to 
 
 &emsp;(B) has completed a full tour of duty in a joint duty assignment (as defined in section 664(f) of this title) as a general or flag officer.
 
-(2) The President may waive paragraph (1) in the case of an officer if the President determines that such action is necessary in the national interest.
+(2) The President may waive paragraph (1) in the case of an officer if the President determinesthat such action is necessary in the national interest.
 
 (b)
 
@@ -58,7 +58,7 @@ Authority Over Subordinate Commanders.—Unless otherwise directed by the Presid
 
 (e)
 
-Selection of Subordinate Commanders.—(1) An officer may be assigned to a position as the commander of a command directly subordinate to the commander of a combatant command or, in the case of such a position that is designated under section 601 of this title as a position of importance and responsibility, may berecommended to the President for assignment to that position, only—
+Selection of Subordinate Commanders.—(1) An officer may be assigned to a position as the commander of a command directly subordinate to the commander of a combatant command or, in the case of such a position that is designated under section 601 of this title as a position of importance and responsibility, may be recommended to the President for assignment to that position, only—
 
 &emsp;(A) with the concurrence of the commander of the combatant command; and
 

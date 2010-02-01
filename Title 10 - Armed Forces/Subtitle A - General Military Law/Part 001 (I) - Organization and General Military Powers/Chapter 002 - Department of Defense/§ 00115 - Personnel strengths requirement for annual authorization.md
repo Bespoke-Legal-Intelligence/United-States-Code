@@ -82,11 +82,13 @@ Authority for Secretary of Defense Variances for Active-Duty and Selected Reserv
 
 (g)
 
-Authority for Service Secretary Variances for Active-Duty End Strengths.—Upon determination by the Secretary of a military department that such action would enhance manning and readiness in essential units or in critical specialties or ratings, the Secretary may increase the end strength authorized pursuant to subsection (a)(1)(A) for a fiscal year for the armed force under the jurisdiction of that Secretary or, in the case of the Secretary of the Navy, for any of the armed forces under the jurisdiction of that Secretary. Any such increase for a fiscal year—
+Authority for Service Secretary Variances for Active-duty and Selected Reserve End Strengths.—(1) Upon determination by the Secretary of a military department that such action would enhance manning and readiness in essential units or in critical specialties or ratings, the Secretary may—
 
-&emsp;(1) shall be by a number equal to not more than 2 percent of such authorized end strength; and
+&emsp;(A) increase the end strength authorized pursuant to subsection (a)(1)(A) for a fiscal year for the armed force under the jurisdiction of that Secretary or, in the case of the Secretary of the Navy, for any of the armed forces under the jurisdiction of that Secretary, by a number equal to not more than 2 percent of such authorized end strength; and
 
-&emsp;(2) shall be counted as part of the increase for that armed force for that fiscal year authorized under subsection (f)(1).
+&emsp;(B) increase the end strength authorized pursuant to subsection (a)(2) for a fiscal year for the Selected Reserve of the reserve component of the armed force under the jurisdiction of that Secretary or, in the case of the Secretary of the Navy, for the Selected Reserve of the reserve component of any of the armed forces under the jurisdiction of that Secretary, by a number equal to not more than 2 percent of such authorized end strength.
+
+(2) Any increase under paragraph (1)(A) of the end strength for an armed force for a fiscal year shall be counted as part of the increase for that armed force for that fiscal year authorized under subsection (f)(1). Any increase under paragraph (1)(B) of the end strength for the Selected Reserve of a reserve component of an armed force for a fiscal year shall be counted as part of the increase for that Selected Reserve for that fiscal year authorized under subsection (f)(3).
 
 (h)
 
@@ -122,13 +124,15 @@ Certain Personnel Excluded From Counting for Active-Duty End Strengths.—In cou
 
 &emsp;(13) Members of the National Guard on full-time National Guard duty involuntarily and performing homeland defense activities under chapter 9 of title 32.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1710; amended Pub. L. 102–190, div. A, title III, §312(a), Dec. 5, 1991, 105 Stat. 1335; Pub. L. 104–106, div. A, title IV, §§401(c), 415, title V, §513(a)(1), title X, §1061(c), title XV, §1501(c)(3), Feb. 10, 1996, 110 Stat. 286, 288, 305, 442, 498; Pub. L. 105–85, div. A, title IV, §413(b), title V, §522(i)(1), Nov. 18, 1997, 111 Stat. 1720, 1736; Pub. L. 106–65, div. A, title IV, §415, Oct. 5, 1999, 113 Stat. 587; Pub. L. 106–398, §1 \[\[div. A\], title IV, §422\], Oct. 30, 2000, 114 Stat. 1654, 1654A–96; Pub. L. 107–107, div. A, title IV, §§421(a), 422, Dec. 28, 2001, 115 Stat. 1076, 1077; Pub. L. 107–314, div. A, title IV, §403, Dec. 2, 2002, 116 Stat. 2525; Pub. L. 108–136, div. A, title IV, §403(a), (b), Nov. 24, 2003, 117 Stat. 1450, 1451; Pub. L. 108–375, div. A, title IV, §416(a)–(d), title V, §512(b), Oct. 28, 2004, 118 Stat. 1866, 1867, 1880; Pub. L. 109–364, div. A, title X, §1071(a)(1), (g)(1)(A), Oct. 17, 2006, 120 Stat. 2398, 2402; Pub. L. 110–181, div. A, title IV, §§416(b), 417, Jan. 28, 2008, 122 Stat. 91, 92.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1710; amended Pub. L. 102–190, div. A, title III, §312(a), Dec. 5, 1991, 105 Stat. 1335; Pub. L. 104–106, div. A, title IV, §§401(c), 415, title V, §513(a)(1), title X, §1061(c), title XV, §1501(c)(3), Feb. 10, 1996, 110 Stat. 286, 288, 305, 442, 498; Pub. L. 105–85, div. A, title IV, §413(b), title V, §522(i)(1), Nov. 18, 1997, 111 Stat. 1720, 1736; Pub. L. 106–65, div. A, title IV, §415, Oct. 5, 1999, 113 Stat. 587; Pub. L. 106–398, §1 \[\[div. A\], title IV, §422\], Oct. 30, 2000, 114 Stat. 1654, 1654A–96; Pub. L. 107–107, div. A, title IV, §§421(a), 422, Dec. 28, 2001, 115 Stat. 1076, 1077; Pub. L. 107–314, div. A, title IV, §403, Dec. 2, 2002, 116 Stat. 2525; Pub. L. 108–136, div. A, title IV, §403(a), (b), Nov. 24, 2003, 117 Stat. 1450, 1451; Pub. L. 108–375, div. A, title IV, §416(a)–(d), title V, §512(b), Oct. 28, 2004, 118 Stat. 1866, 1867, 1880; Pub. L. 109–364, div. A, title X, §1071(a)(1), (g)(1)(A), Oct. 17, 2006, 120 Stat. 2398, 2402; Pub. L. 110–181, div. A, title IV, §§416(b), 417, Jan. 28, 2008, 122 Stat. 91, 92; Pub. L. 111–84, div. A, title IV, §418, Oct. 28, 2009, 123 Stat. 2268.)
 
 #### Prior Provisions
 
-A prior section 115, added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, §138(b)–(d); amended Pub. L. 94–361, title III, §302, July 14, 1976, 90 Stat. 924; Pub. L. 96–107, title III, §303(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–513, title I, §102, Dec. 12, 1980, 94 Stat. 2840; Pub. L. 97–22, §2(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IX, §§902, 903, Dec. 1, 1981, 95 Stat. 1113, 1114; Pub. L. 97–252, title IV, §402(a), Sept. 8, 1982, 96 Stat. 725; Pub. L. 97–295, §1(3), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 99–145, title XII, §1208, Nov. 8, 1985, 99 Stat. 723; renumbered §115 Pub. L. 99–433, title I, §§101(a)(2), 110(b)(4), (5), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 99–661, div. A, title IV, §§411(c) \[(d)\], 413, Nov. 14, 1986, 100 Stat. 3861, 3862; Pub. L. 100–26, §7(j)(2), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–456, div. A, title VI, §641, Sept. 29, 1988, 102 Stat. 1987, related to annual authorization of personnel strengths and annual manpower requirements reports, prior to repeal and reenactment as sections 115, 115a, 115b \[now 10541\], 123a, and 129a of this title by Pub. L. 101–510, §1483(a), (b).
+A prior section 115, added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, §138(b)–(d); amended Pub. L. 94–361, title III, §302, July 14, 1976, 90 Stat. 924;Pub. L. 96–107, title III, §303(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–513, title I, §102, Dec. 12, 1980, 94 Stat. 2840; Pub. L. 97–22, §2(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IX, §§902, 903, Dec. 1, 1981, 95 Stat. 1113, 1114; Pub. L. 97–252, title IV, §402(a), Sept. 8, 1982, 96 Stat. 725; Pub. L. 97–295, §1(3), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 99–145, title XII, §1208, Nov. 8, 1985, 99 Stat. 723; renumbered §115, Pub. L. 99–433, title I, §§101(a)(2), 110(b)(4), (5), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 99–661, div. A, title IV, §§411(c) \[(d)\], 413, Nov. 14, 1986, 100 Stat. 3861, 3862; Pub. L. 100–26, §7(j)(2), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–456, div. A, title VI, §641, Sept. 29, 1988, 102 Stat. 1987, related to annual authorization of personnel strengths and annual manpower requirements reports, prior to repeal and reenactment as sections 115, 115a, 115b \[now 10541\], 123a, and 129a of this title by Pub. L. 101–510, §1483(a), (b).
 
 #### Amendments
+
+2009—Subsec. (g). Pub. L. 111–84 amended subsec. (g) generally. Prior to amendment, subsec. (g) related to authority for service secretary variances for active-duty end strengths.
 
 2008—Subsec. (b)(4). Pub. L. 110–181, §416(b), added par. (4).
 
@@ -242,7 +246,7 @@ Pub. L. 109–364, div. A, title X, §1071(g), Oct. 17, 2006, 120 Stat. 2402, pr
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title IV, §403(d), Nov. 24, 2003, 117 Stat. 1452, provided that: “Subsection (d) of section115 of title 10, United States Code, as added by subsection (a)(3), shall apply with respect to the budget request for fiscal year 2005 and thereafter.”
+Pub. L. 108–136, div. A, title IV, §403(d), Nov. 24, 2003, 117 Stat. 1452, provided that: “Subsection (d) of section 115 of title 10, United States Code, as added by subsection (a)(3), shall apply with respect to the budget request for fiscal year 2005 and thereafter.”
 
 #### Effective Date of 1996 Amendment
 
@@ -300,7 +304,7 @@ Pub. L. 103–337, div. A, title XIII, §1316(c), Oct. 5, 1994, 108 Stat. 2899, 
 
 #### End Strengths for Active Forces
 
-Pub. L. 109–163, div. A, title IV, §401, Jan. 6, 2006, 119 Stat. 3218, which authorized specified strengths for Armed Forces active duty personnel as of Sept. 30, 2006, and provided that costs for that fiscal year of active duty personnel of the Army and the Marine Corps in excess of specified amounts would be paid out of funds authorized to be appropriated for that fiscal year for a contingent emergency reserve fund or as an emergency supplemental appropriation, was from the National Defense Authorization Act for Fiscal Year 2006 and was repeated in provisions of subsequent authorization acts which are not set out in the Code. Similar provisions were contained in the following prior authorization acts:
+Pub. L. 109–163, div. A, title IV, §401, Jan. 6, 2006, 119 Stat. 3218, which authorized specified strengths for Armed Forces active duty personnel as of Sept. 30, 2006, and provided that costs for that fiscal year of active duty personnel of the Army and the Marine Corps in excess of specified amounts would be paid out of funds authorized to be appropriated for that fiscal year for acontingent emergency reserve fund or as an emergency supplemental appropriation, was from the National Defense Authorization Act for Fiscal Year 2006 and was repeated in provisions of subsequent authorization acts which are not set out in the Code. Similar provisions were contained in the following prior authorization acts:
 
 Pub. L. 108–375, div. A, title IV, §401, Oct. 28, 2004, 118 Stat. 1862.
 

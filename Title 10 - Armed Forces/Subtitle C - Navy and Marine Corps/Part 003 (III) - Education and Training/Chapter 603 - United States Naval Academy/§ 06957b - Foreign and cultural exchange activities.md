@@ -14,7 +14,7 @@ Effect of Attendance.—Persons attending the Naval Academy under subsection (a)
 
 (d)
 
-Source of Funds; Limitation.—(1) The Naval Academy shall bear the costs of the attendance of persons under subsection (a) from funds appropriated for the Naval Academy and from such additional funds as may be availableto the Naval Academy from a source, other than appropriated funds, to support cultural immersion, regional awareness, or foreign language training activities in connection with their attendance.
+Source of Funds; Limitation.—(1) The Naval Academy shall bear the costs of the attendance of persons under subsection (a) from funds appropriated for the Naval Academy and from such additional funds as may be available to the Naval Academy from a source, other than appropriated funds, to support cultural immersion, regional awareness, or foreign language training activities in connection with their attendance.
 
 (2) Expenditures from appropriated funds in support of activities under this section may not exceed $40,000 during any fiscal year.
 

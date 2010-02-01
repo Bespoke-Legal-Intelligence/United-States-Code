@@ -14,7 +14,7 @@
 
 (2) The Commission may, by rule, provide for the presentation of data, views, and arguments before the Commission or a delegate of the Commission pursuant to such procedures as the Commission determines to be appropriate to carry out its responsibilities under paragraph (1) of this subsection. Such a rule shall, to the extent determined by the Commission, apply, notwithstanding any provision of law that would otherwise have applied to the presentation of data, views, and arguments.
 
-(3) The Commission may request such information and assistance from any Federal agency as the Commission determines to be necessary or appropriate to carry out its responsibilities under this chapter. Any Federal agency requested to submit information or provide assistance shall submit such information to the Commission at the earliest practicable time after receipt of a Commission request.
+(3) The Commission may request such information and assistance from any Federal agencyas the Commission determines to be necessary or appropriate to carry out its responsibilities under this chapter. Any Federal agency requested to submit information or provide assistance shall submit such information to the Commission at the earliest practicable time after receipt of a Commission request.
 
 #### (c) Report; public availability; factors to be discussed
 
@@ -26,7 +26,7 @@ The Commission shall accompany any recommendation under subsection (b)(1) of thi
 
 &emsp;&emsp;(B) transportation costs and delivered prices of any such volumes of gas by region;
 
-&emsp;(2) the effects of each of the factors described in subparagraphs (A) and (B) of paragraph (1) on the projected natural gas supply and demand for each region of the United States and on the projected supplies of alternative fuels available by region to offsetshortages of natural gas occurring in such region for each such year;
+&emsp;(2) the effects of each of the factors described in subparagraphs (A) and (B) of paragraph (1) on the projected natural gas supply and demand for each region of the United States and on the projected supplies of alternative fuels available by region to offset shortages of natural gas occurring in such region for each such year;
 
 &emsp;(3) the impact upon competition;
 

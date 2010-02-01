@@ -2,7 +2,7 @@
 
 (a) No compensation shall be paid to the surviving spouse of a veteran under this chapter unless such surviving spouse was married to such veteran—
 
-&emsp;(1) before the expiration of fifteen years after the termination of the period of servicein which the injury or disease causing the death of the veteran was incurred or aggravated; or
+&emsp;(1) before the expiration of fifteen years after the termination of the period of service in which the injury or disease causing the death of the veteran was incurred or aggravated; or
 
 &emsp;(2) for one year or more; or
 
@@ -10,7 +10,7 @@
 
 (b) Subsection (a) shall not be applicable to any surviving spouse who, with respect to date of marriage, could have qualified as a surviving spouse for death compensation under any law administered by the Secretary in effect on December 31, 1957.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1119, §302; Pub. L. 86–491, June 8, 1960, 74 Stat. 161; Pub. L. 90–77, title I, §101(a), Aug. 31, 1967, 81 Stat. 178; Pub. L. 94–433, title IV, §404(2)–(4), Sept. 30, 1976, 90 Stat. 1378; renumbered §1102 and amended Pub. L. 102–83, §§4(a)(1), 5(a), Aug. 6, 1991, 105 Stat. 403, 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1119, §302; Pub. L. 86–491, June 8, 1960, 74 Stat. 161; Pub. L. 90–77, title I, §101(a), Aug. 31, 1967, 81 Stat. 178; Pub. L. 94–433, title IV, §404(2)–(4), Sept. 30, 1976, 90 Stat. 1378; renumbered §1102 and amendedPub. L. 102–83, §§4(a)(1), 5(a), Aug. 6, 1991, 105 Stat. 403, 406.)
 
 #### Amendments
 

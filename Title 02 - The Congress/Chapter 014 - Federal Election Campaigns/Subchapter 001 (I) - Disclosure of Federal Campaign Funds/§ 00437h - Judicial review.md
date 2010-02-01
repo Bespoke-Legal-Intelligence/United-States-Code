@@ -56,7 +56,7 @@ Special Rules for Actions Brought on Constitutional Grounds.—If any action is 
 
 &emsp;“(3) A final decision in the action shall be reviewable only by appeal directly to the Supreme Court of the United States. Such appeal shall be taken by the filing of a notice of appeal within 10 days, and the filing of a jurisdictional statement within 30 days, of the entry of the final decision.
 
-&emsp;“(4) It shall be the duty of the United States District Court for the District of Columbia and the Supreme Court of the United States to advance on thedocket and to expedite to the greatest possible extent the disposition of the action and appeal.
+&emsp;“(4) It shall be the duty of the United States District Court for the District of Columbia and the Supreme Court of the United States to advance on the docket and to expedite to the greatest possible extent the disposition of the action and appeal.
 
 “(b)
 

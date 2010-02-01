@@ -78,7 +78,7 @@ Paragraph (2) of subsection (a) shall apply with respect to any transaction only
 
 &emsp;&emsp;&emsp;(iii) 95 percent or more of the net proceeds of the issue are to be used to finance property which—
 
-&emsp;&emsp;&emsp;&emsp;(I) is to be located on land which, throughout the 5-year period ending on the date of issuance of such issue, is partof the qualified Indian lands of the issuer, and
+&emsp;&emsp;&emsp;&emsp;(I) is to be located on land which, throughout the 5-year period ending on the date of issuance of such issue, is part of the qualified Indian lands of the issuer, and
 
 &emsp;&emsp;&emsp;&emsp;(II) is to be owned and operated by such issuer,
 
@@ -108,7 +108,7 @@ Paragraph (2) of subsection (a) shall apply with respect to any transaction only
 
 #### (II) Exception
 
-&emsp;&emsp;&emsp;&emsp;Subclause (I) shall not apply if the requirements of this subparagraph would be met if the aggregate face amount of all tax-exempt private activity bonds issued to provide financing for the establishment and outstanding at the close of the 90th day after the close of the calender <sup>1</sup> year were substituted in clause (i) for such bonds outstanding at the close of such calendar year.
+&emsp;&emsp;&emsp;&emsp;Subclause (I) shall not apply if the requirements of this subparagraph wouldbe met if the aggregate face amount of all tax-exempt private activity bonds issued to provide financing for the establishment and outstanding at the close of the 90th day after the close of the calender <sup>1</sup> year were substituted in clause (i) for such bonds outstanding at the close of such calendar year.
 
 #### (iii) Testing period
 
@@ -138,9 +138,59 @@ For the purposes specified in subsection (a), a subdivision of an Indian tribal 
 
 For purposes of this section, the term “essential governmental function” shall not include any function which is not customarily performed by State and local governments with general taxing powers.
 
-(Added Pub. L. 97–473, title II, §202(a), Jan. 14, 1983, 96 Stat. 2608; amended Pub. L. 98–21, title I, §122(c)(6), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title IV, §474(r)(41), title X, §1065(b), July 18, 1984, 98 Stat. 847, 1048; Pub. L. 99–514, title I, §§112(b)(4), 123(b)(3), title XIII, §1301(j)(6), (7), title XVIII, §§1878(i), 1899A(65), Oct. 22, 1986, 100 Stat. 2109, 2113, 2658, 2905, 2962; Pub. L. 100–203, title X, §10632(a), (b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 103–66, title XIII, §13222(d), Aug. 10, 1993, 107 Stat. 481.)
+#### (f) Tribal economic development bonds
+
+#### (1) Allocation of limitation
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall allocate the national tribal economic development bond limitation among the Indian tribal governments in such manner as the Secretary, in consultation with the Secretary of the Interior, determines appropriate.
+
+#### (B) National limitation
+
+&emsp;&emsp;There is a national tribal economic development bond limitation of $2,000,000,000.
+
+#### (2) Bonds treated as exempt from tax
+
+&emsp;In the case of a tribal economic development bond—
+
+&emsp;&emsp;(A) notwithstanding subsection (c), such bond shall be treated for purposes of this title in the same manner as if such bond were issued by a State,
+
+&emsp;&emsp;(B) the Indian tribal government issuing such bond and any instrumentality of such Indian tribal government shall be treated as a State for purposes of section 141, and
+
+&emsp;&emsp;(C) section 146 shall not apply.
+
+#### (3) Tribal economic development bond
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of this section, the term “tribal economic development bond” means any bond issued by an Indian tribal government—
+
+&emsp;&emsp;&emsp;(i) the interest on which would be exempt from tax under section 103 if issued by a State or local government, and
+
+&emsp;&emsp;&emsp;(ii) which is designated by the Indian tribal government as a tribal economic development bond for purposes of this subsection.
+
+#### (B) Exceptions
+
+&emsp;&emsp;Such term shall not include any bond issued as part of an issue if any portion of the proceeds of such issue are used to finance—
+
+&emsp;&emsp;&emsp;(i) any portion of a building in which class II or class III gaming (as defined in section 4 of the Indian Gaming Regulatory Act) is conducted or housed or any other property actually used in the conduct of such gaming, or
+
+&emsp;&emsp;&emsp;(ii) any facility located outside the Indian reservation (as defined in section 168(j)(6)).
+
+#### (C) Limitation on amount of bonds designated
+
+&emsp;&emsp;The maximum aggregate face amount of bonds which may be designated by any Indian tribal government under subparagraph (A) shall not exceed the amount of national tribal economic development bond limitation allocated to such government under paragraph (1).
+
+(Added Pub. L. 97–473, title II, §202(a), Jan. 14, 1983, 96 Stat. 2608; amended Pub. L. 98–21, title I, §122(c)(6), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title IV, §474(r)(41), title X, §1065(b), July 18, 1984, 98 Stat. 847, 1048; Pub. L. 99–514, title I, §§112(b)(4), 123(b)(3), title XIII, §1301(j)(6), (7), title XVIII, §§1878(i), 1899A(65), Oct. 22, 1986, 100 Stat. 2109, 2113, 2658, 2905, 2962; Pub. L. 100–203, title X, §10632(a), (b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 103–66, title XIII, §13222(d), Aug. 10, 1993, 107 Stat. 481; Pub. L. 111–5, div. B, title I, §1402(a), Feb. 17, 2009, 123 Stat. 351.)
+
+#### References in Text
+
+Section 4 of the Indian Gaming Regulatory Act, referred to in subsec. (f)(3)(B)(i), is classified to section 2703 of Title 25, Indians.
 
 #### Amendments
+
+2009—Subsec. (f). Pub. L. 111–5 added subsec. (f).
 
 1993—Subsec. (a)(6)(B) to (D). Pub. L. 103–66 redesignated former subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: “section 162(e) (relating to appearances, etc., with respect to legislation),”.
 
@@ -173,6 +223,10 @@ Subsec. (c)(2). Pub. L. 99–514, §1301(j)(7), amended par. (2) generally. Prio
 Subsec. (a)(6)(B) to (F). Pub. L. 98–369, §1065(b), as amended by Pub. L. 99–514, §1878(i), added subpars. (B), (D), and (F), and redesignated former subpars. (B) and (C) as (C) and (E), respectively.
 
 1983—Subsec. (a)(6). Pub. L. 98–21 redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A), which referred to section 37(e)(9)(A) (relating to certain public retirement systems).
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–5, div. B, title I, §1402(c), Feb. 17, 2009, 123 Stat. 352, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
 #### Effective Date of 1993 Amendment
 
@@ -226,7 +280,7 @@ For nonapplication of amendment by section 123(b)(3) of Pub. L. 99–514 to the 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “calendar”.</i>
 

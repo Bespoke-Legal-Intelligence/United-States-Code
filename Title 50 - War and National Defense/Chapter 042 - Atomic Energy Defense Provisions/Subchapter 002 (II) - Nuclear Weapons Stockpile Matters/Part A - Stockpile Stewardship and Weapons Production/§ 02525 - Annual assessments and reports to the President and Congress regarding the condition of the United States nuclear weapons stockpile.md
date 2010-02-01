@@ -2,7 +2,7 @@
 
 #### (a) Annual assessments required
 
-For each nuclear weapon type in the stockpile of the United States, each official specified in subsection (b) on an annual basis shall, to the extent such official is directly responsible for the safety, reliability, performance, or military effectiveness of that nuclear weapon type, complete an assessment of the safety, reliability,performance, or military effectiveness (as the case may be) of that nuclear weapon type.
+For each nuclear weapon type in the stockpile of the United States, each official specified in subsection (b) on an annual basis shall, to the extent such official is directly responsible for the safety, reliability, performance, or military effectiveness of that nuclear weapon type, complete an assessment of the safety, reliability, performance, or military effectiveness (as the case may be) of that nuclear weapon type.
 
 #### (b) Covered officials
 
@@ -12,17 +12,29 @@ The officials referred to in subsection (a) are the following:
 
 &emsp;(2) The commander <sup>1</sup> of the United States Strategic Command.
 
-#### (c) Use of teams of experts for assessments
+#### (c) Dual validation teams in support of assessments
+
+In support of the assessments required by subsection (a), the Administrator for Nuclear Security may establish teams, known as “dual validation teams”, to provide each national security laboratory responsible for weapons design with independent evaluations of the condition of each warhead for which such laboratory has lead responsibility. A dual validation team established by the Administrator shall—
+
+&emsp;(1) be comprised of weapons experts from the laboratory that does not have lead responsibility for fielding the warhead being evaluated;
+
+&emsp;(2) have access to all surveillance and underground test data for all stockpile systems for use in the independent evaluations;
+
+&emsp;(3) use all relevant available data to conduct independent calculations; and
+
+&emsp;(4) pursue independent experiments to support the independent evaluations.
+
+#### (d) Use of teams of experts for assessments
 
 The head of each national security laboratory shall establish and use one or more teams of experts, known as “red teams”, to assist in the assessments required by subsection (a). Each such team shall include experts from both of the other national security laboratories. Each such team for a national security laboratory shall—
 
-&emsp;(1) review the matters covered by the assessments under subsection (a) performed by the head of that laboratory;
+&emsp;(1) review both the matters covered by the assessments under subsection (a) performed by the head of that laboratory and any independent evaluations conducted by a dual validation team under subsection (c);
 
 &emsp;(2) subject such matters to challenge; and
 
 &emsp;(3) submit the results of such review and challenge, together with the findings and recommendations of such team with respect to such review and challenge, to the head of that laboratory.
 
-#### (d) Report on assessments
+#### (e) Report on assessments
 
 Not later than December 1 of each year, each official specified in subsection (b) shall submit to the Secretary concerned, and to the Nuclear Weapons Council, a report on the assessments that such official was required by subsection (a) to complete. The report shall include the following:
 
@@ -42,19 +54,21 @@ Not later than December 1 of each year, each official specified in subsection (b
 
 &emsp;&emsp;(A) a concise statement regarding the adequacy of the science-based tools and methods being used to determine the matters covered by the assessments;
 
-&emsp;&emsp;(B) a concise statement regarding the adequacy of the tools and methods employed by the manufacturing infrastructure required by section 2532 of this title to identify and fix any inadequacy with respect to the matters covered by the assessments; and
+&emsp;&emsp;(B) a concise statement regarding the adequacy of the tools and methods employed by the manufacturing infrastructure required by section 2532 of this title to identify and fix any inadequacy with respect to the matters covered by the assessments;
 
-&emsp;&emsp;(C) a concise summary of the findings and recommendations of any teams under subsection (c) that relate to the assessments, together with a discussion of those findings and recommendations.
+&emsp;&emsp;(C) a concise summary of the findings and recommendations of any teams under subsection (d) that relate to the assessments, together with a discussion of those findings and recommendations; and
+
+&emsp;&emsp;(D) a concise summary of the results of any independent evaluation conducted by a dual validation team under subsection (c).
 
 &emsp;(4) In the case of a report submitted by the Commander of the United States Strategic Command, a discussion of the relative merits of other nuclear weapon types (if any), or compensatory measures (if any) that could be taken, that could enable accomplishment of the missions of the nuclear weapon types to which the assessments relate, should such assessments identify any deficiency with respect to such nuclear weapon types.
 
 &emsp;(5) An identification and discussion of any matter having an adverse effect on the capability of the official submitting the report to accurately determine the matters covered by the assessments.
 
-#### (e) Submittals to the President and Congress
+#### (f) Submittals to the President and Congress
 
 (1) Not later than March 1 of each year, the Secretary of Defense and the Secretary of Energy shall submit to the President—
 
-&emsp;(A) each report, without change, submitted to either Secretary under subsection (d) during the preceding year;
+&emsp;(A) each report, without change, submitted to either Secretary under subsection (e) during the preceding year;
 
 &emsp;(B) any comments that the Secretaries individually or jointly consider appropriate with respect to each such report;
 
@@ -64,11 +78,11 @@ Not later than December 1 of each year, each official specified in subsection (b
 
 (2) Not later than March 15 of each year, the President shall forward to Congress the matters received by the President under paragraph (1) for that year, together with any comments the President considers appropriate.
 
-#### (f) Classified form
+#### (g) Classified form
 
-Each submittal under subsection (e) shall be in classified form only, with the classification level required for each portion of such submittal marked appropriately.
+Each submittal under subsection (f) shall be in classified form only, with the classification level required for each portion of such submittal marked appropriately.
 
-#### (g) Definitions
+#### (h) Definitions
 
 In this section:
 
@@ -80,13 +94,13 @@ In this section:
 
 &emsp;&emsp;(B) the Secretary of Defense, with respect to matters concerning the Department of Defense.
 
-#### (h) First submissions
+#### (i) First submissions
 
-(1) The first submissions made under subsection (d) shall be the submissions required to be made in 2003.
+(1) The first submissions made under subsection (e) shall be the submissions required to be made in 2003.
 
-(2) The first submissions made under subsection (e) shall be the submissions required to be made in 2004.
+(2) The first submissions made under subsection (f) shall be the submissions required to be made in 2004.
 
-(Pub. L. 107–314, div. D, title XLII, §4205, formerly div. C, title XXXI, §3141, Dec. 2, 2002, 116 Stat. 2730; renumbered div. D, title XLII, §4205, and amended Pub. L. 108–136, div. C, title XXXI, §3141(e)(6), Nov. 24, 2003, 117 Stat. 1759.)
+(Pub. L. 107–314, div. D, title XLII, §4205, formerly div. C, title XXXI, §3141, Dec. 2, 2002, 116 Stat. 2730; renumbered div. D, title XLII, §4205, and amended Pub. L. 108–136, div. C, title XXXI, §3141(e)(6), Nov. 24, 2003, 117 Stat. 1759; Pub. L. 111–84, div. C, title XXXI, §3114(a)(2)–(d), Oct. 28, 2009, 123 Stat. 2706, 2707.)
 
 #### Codification
 
@@ -94,7 +108,35 @@ Section was formerly classified to section 7274s of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (d)(3)(B). Pub. L. 108–136, §3141(e)(6)(D), substituted “section 2532 of this title” for “section 3137 of the National Defense Authorization Act for Fiscal Year 1996 (42 U.S.C. 2121 note)”.
+2009—Subsec. (c). Pub. L. 111–84, §3114(a)(2)(B), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 111–84, §3114(a)(2)(A), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (d)(1). Pub. L. 111–84, §3114(b), inserted “both” after “review” and “and any independent evaluations conducted by a dual validation team under subsection (c)” after “that laboratory”.
+
+Subsec. (e). Pub. L. 111–84, §3114(a)(2)(A), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (e)(3)(C). Pub. L. 111–84, §3114(d)(1), substituted “subsection (d)” for “subsection (c)”.
+
+Subsec. (e)(3)(D). Pub. L. 111–84, §3114(c), added subpar. (D).
+
+Subsec. (f). Pub. L. 111–84, §3114(a)(2)(A), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+
+Subsec. (f)(1)(A). Pub. L. 111–84, §3114(d)(2), substituted “subsection (e)” for “subsection (d)”.
+
+Subsec. (g). Pub. L. 111–84, §3114(d)(3), substituted “subsection (f)” for “subsection (e)”.
+
+Pub. L. 111–84, §3114(a)(2)(A), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 111–84, §3114(a)(2)(A), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+
+Subsec. (i). Pub. L. 111–84, §3114(a)(2)(A), redesignated subsec. (h) as (i).
+
+Subsec. (i)(1). Pub. L. 111–84, §3114(d)(4)(A), substituted “subsection (e)” for “subsection (d)”.
+
+Subsec. (i)(2). Pub. L. 111–84, §3114(d)(4)(B), substituted “subsection (f)” for “subsection (e)”.
+
+2003—Subsec. (d)(3)(B). Pub. L. 108–136, §3141(e)(6)(D), substituted “section 2532 of this title” for “section 3137 of the National Defense Authorization Act for Fiscal Year 1996 (42 U.S.C. 2121 note)”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

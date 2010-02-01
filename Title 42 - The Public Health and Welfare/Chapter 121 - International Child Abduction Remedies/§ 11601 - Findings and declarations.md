@@ -32,7 +32,7 @@ The Congress makes the following declarations:
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act” meaning Pub. L. 100–300, Apr. 29,1988, 102 Stat. 437, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act” meaning Pub. L. 100–300, Apr. 29, 1988, 102 Stat. 437, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Short Title of 2004 Amendment
 

@@ -68,7 +68,7 @@
 
 #### (B) Exception for members who serve full term
 
-&emsp;&emsp;The limitation contained in subparagraph (A)(ii) shall not apply to any member who has ceased to serve on the Board of Directors after serving the full term for which such member was appointed.
+&emsp;&emsp;The limitation contained in subparagraph (A)(ii) shall not apply to any member who has ceased to serve on the Board of Directorsafter serving the full term for which such member was appointed.
 
 #### (2) Restriction during service
 

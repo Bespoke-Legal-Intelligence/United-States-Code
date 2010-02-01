@@ -20,7 +20,7 @@ It is the sense of the Congress that the aggregate value of defense articles and
 
 > in any fiscal year should not exceed current levels.
 
-It is the sense of the Congress that the President maintain adherence to a policy of restraint in conventional arms transfers and that, in implementing this policy worldwide, a balanced approach should be taken and full regard given to the security interests of the United States in all regions of the world and that particular attention should be paid to controlling the flow of conventional arms to the nations of the developing world. To this end, the President is encouraged to continue discussions with other arms suppliers in order to restrain the flow of conventional arms to less developed countries.
+It is the sense of the Congress that the President maintain adherence to a policy of restraint in conventional arms transfers and that, in implementing this policy worldwide, a balanced approach should be taken and full regard given to the security interests of the United States in all regions of the world and that particular attention should be paid to controlling the flow of conventional arms to the nations of the developing world. To this end, the President is encouraged to continue discussions with other armssuppliers in order to restrain the flow of conventional arms to less developed countries.
 
 (Pub. L. 90–629, ch. 1, §1, Oct. 22, 1968, 82 Stat. 1321; Pub. L. 91–672, §4, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 93–189, §25(1), Dec. 17, 1973, 87 Stat. 729; Pub. L. 94–329, title II, §202, formerly §202(a), June 30, 1976, 90 Stat. 734, renumbered and amended Pub. L. 95–384, §§15(a), 29(c)(1)(A), Sept. 26, 1978, 92 Stat. 739, 747; Pub. L. 97–113, title VII, §734(a)(10), Dec. 29, 1981, 95 Stat. 1560.)
 
@@ -46,7 +46,7 @@ Section 45(c) of Pub. L. 90–629 provided that: “References in law to the pro
 
 1978—Pub. L. 95–384, §15(a), inserted paragraph relating to adherence to a policy of restraint in conventional arms transfer.
 
-1976—Pub. L. 94–329 substituted in last paragraph provision relating to a new statement of policy whereby the United States shall exert leadership in the reduction of international trade in arms, and in that regard, the President to initiate discussions and actively work with other nations with a view towards control of international trade in arms, for provisions relating to a reduction in the role of the United States in furnishing of defense articles and defense services to foreigncountries and international organizations by decreasing sales, credit sales and guarantees of such articles and services.
+1976—Pub. L. 94–329 substituted in last paragraph provision relating to a new statement of policy whereby the United States shall exert leadership in the reduction of international trade in arms, and in that regard, the President to initiate discussions and actively work with other nations with a view towards control of international trade in arms, for provisions relating to a reduction in the role of the United States in furnishing of defense articles and defense services to foreign countries and international organizations by decreasing sales, credit sales and guarantees of such articles and services.
 
 1973—Pub. L. 93–189 inserted last paragraph relating to a reduction by the United States in the furnishing of defense articles and defense services to foreign countries.
 
@@ -71,6 +71,114 @@ Pub. L. 102–228, §1, Dec. 12, 1991, 105 Stat. 1691, provided that: “This Ac
 #### Short Title
 
 Pub. L. 90–629, as amended by section 201(a) of Pub. L. 94–329, provided: “That this Act \[enacting this chapter, amending sections 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2344, 2345, 2394, and 2399 of this title, and enacting provisions set out as notes under this section and section 2341 of this title\] may be cited as the ‘Arms Export Control Act’.”
+
+#### Registration and End-Use Monitoring of Defense Articles and Defense Services Transferred to Afghanistan and Pakistan
+
+Pub. L. 111–84, div. A, title XII, §1225, Oct. 28, 2009, 123 Stat. 2523, provided that:
+
+“(a)
+
+Program Required.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Defense shall establish and carry out a program to provide for the registration and end-use monitoring of defense articles and defense services transferred to Afghanistan and Pakistan in accordance with the requirements under subsection (b) and to prohibit the retransfer of such defense articles and defense services without the consent of the United States. The program required under this subsection shall be limited to the transfer of defense articles and defense services—
+
+&emsp;&emsp;“(A) pursuant to authorities other than the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] or the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\]; and
+
+&emsp;&emsp;“(B) using funds made available to the Department of Defense, including funds available pursuant to the Pakistan Counterinsurgency Fund.
+
+&emsp;“(2)
+
+Prohibition.—No defense articles or defense services that would be subject to the program required under this subsection may be transferred to—
+
+&emsp;&emsp;“(A) the Government of Afghanistan or any other group, organization, citizen, or resident of Afghanistan, or
+
+&emsp;&emsp;“(B) the Government of Pakistan or any other group, organization, citizen, or resident of Pakistan,
+
+> &emsp;until the Secretary of Defense certifies to the specified congressional committees that the program required under this subsection has been established.
+
+“(b)
+
+Registration and End-use Monitoring Requirements.—The registration and end-use monitoring requirements under this subsection shall include the following:
+
+&emsp;“(1) A detailed record of the origin, shipping, and distribution of defense articles and defense services transferred to—
+
+&emsp;&emsp;“(A) the Government of Afghanistan and other groups, organizations, citizens, and residents of Afghanistan; and
+
+&emsp;&emsp;“(B) the Government of Pakistan and other groups, organizations, citizens, and residents of Pakistan.
+
+&emsp;“(2) The registration of the serial numbers of all small arms to be provided to—
+
+&emsp;&emsp;“(A) the Government of Afghanistan and other groups, organizations, citizens, and residents of Afghanistan; and
+
+&emsp;&emsp;“(B) the Government of Pakistan and other groups, organizations, citizens, and residents of Pakistan.
+
+&emsp;“(3) A program of end-use monitoring of lethal defense articles and defense services transferred to the entities and individuals described in subparagraphs (A) and (B) of paragraph (1).
+
+“(c)
+
+Review; Exemption.—
+
+&emsp;“(1)
+
+Review.—The Secretary of Defense shall periodically review the defense articles and defense services subject to the registration and end-use monitoring requirements under subsection (b) to determine which defense articles and defense services, if any, should no longer be subject to such registration and end-use monitoring requirements. The Secretary of Defense shall submit to the specified congressional committees the results of each review conducted under this paragraph.
+
+&emsp;“(2)
+
+Exemption.—The Secretary of Defense may exempt a defense article or defense service from the registration and end-use monitoring requirements under subsection (b) beginning on the date that is 30 days after the date on which the Secretary provides notice of the proposed exemption to the specified congressional committees. Such notice shall describe any controls to be imposed on such defense article or defense service, as the case may be, under any other provision of law.
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Defense article.—The term ‘defense article’ has the meaning given the term in section 644(d) of the Foreign Assistance Act of 1961 (22 U.S.C. 2403(d)).
+
+&emsp;“(2)
+
+Defense service.—The term ‘defense service’ has the meaning given the term in section 644(f) of the Foreign Assistance Act of 1961 (22 U.S.C. 2403(f)).
+
+&emsp;“(3)
+
+Small arm.—The term ‘small arm’ means—
+
+&emsp;&emsp;“(A) a handgun or pistol;
+
+&emsp;&emsp;“(B) a shoulder-fired weapon, including a sub-carbine, carbine, or rifle;
+
+&emsp;&emsp;“(C) a light, medium, or heavy automatic weapon up to and including a .50 caliber machine gun;
+
+&emsp;&emsp;“(D) a recoilless rifle up to and including 106mm;
+
+&emsp;&emsp;“(E) a mortar up to and including 81mm;
+
+&emsp;&emsp;“(F) a rocket launcher, man-portable;
+
+&emsp;&emsp;“(G) a grenade launcher, rifle and shoulder fired; and
+
+&emsp;&emsp;“(H) an individually-operated weapon which is portable or can be fired without special mounts or firing devices and which has potential use in civil disturbances and is vulnerable to theft.
+
+&emsp;“(4)
+
+Specified congressional committees.—The term ‘specified congressional committees’ means—
+
+&emsp;&emsp;“(A) the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives; and
+
+&emsp;&emsp;“(B) the Committee on Foreign Relations and the Committee on Armed Services of the Senate.
+
+“(e)
+
+Effective Date.—
+
+&emsp;“(1)
+
+In general.—Except as provided in paragraph (2), this section shall take effect 180 days after the date of the enactment of this Act \[Oct. 28, 2009\].
+
+&emsp;“(2)
+
+Exception.—The Secretary of Defense may delay the effective date of this section by an additional period of up to 120 days if the Secretary certifies in writing to the specified congressional committees for such additional period that it is in the vital interest of the United States to do so and includes in the certification a description of such vital interest.”
 
 #### Tracking and Monitoring of Defense Articles Provided to the Government of Iraq and Other Individuals and Groups in Iraq
 
@@ -286,7 +394,7 @@ Programs to Reduce MANPADS.—
 
 &emsp;“(1)
 
-In general.—The President is encouraged to pursue strong programs to reduce the number ofMANPADSs worldwide so that fewer MANPADSs will be available for trade, proliferation, and sale.
+In general.—The President is encouraged to pursue strong programs to reduce the number of MANPADSs worldwide so that fewer MANPADSs will be available for trade, proliferation, and sale.
 
 &emsp;“(2)
 
@@ -364,7 +472,7 @@ Pub. L. 104–164, title I, §154, July 21, 1996, 110 Stat. 1440, provided that:
 
 #### Reports on Counterproliferation Activities and Programs
 
-Pub. L. 103–337, div. A, title XV, §1503, Oct. 5, 1994, 108 Stat. 2916; Pub. L. 104–201, div. A, title XIII, §1309(d), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, §1504(c), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, §1208(b), (c), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 110–181, div. A, title XII, §1256(d), Jan. 28, 2008, 122 Stat. 404, provided that:
+Pub. L. 103–337, div. A, title XV, §1503, Oct. 5, 1994, 108 Stat. 2916; Pub. L. 104–201, div. A, title XIII, §1309(d),Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, §1504(c), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, §1208(b), (c), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 110–181, div. A, title XII, §1256(d), Jan. 28, 2008, 122 Stat. 404, provided that:
 
 “(a)
 
@@ -484,7 +592,7 @@ Report.—Not later than April 30 of each year, the Secretary of Defense shall s
 
 &emsp;“(3) The organizations that conducted the studies and analysis.
 
-&emsp;“(4) An explanation of the extent to which such studies and analysis contribute to the counterproliferation policy of the United States and UnitedStates military capabilities to deter and respond to terrorism, theft, and proliferation involving weapons of mass destruction.
+&emsp;“(4) An explanation of the extent to which such studies and analysis contribute to the counterproliferation policy of the United States and United States military capabilities to deter and respond to terrorism, theft, and proliferation involving weapons of mass destruction.
 
 &emsp;“(5) A description of the measures being taken to ensure that such studies and analysis within the Department of Defense are managed effectively and coordinated comprehensively.
 
@@ -594,7 +702,7 @@ Pub. L. 102–229, title I, §104, Dec. 12, 1991, 105 Stat. 1707, provided that:
 
 &emsp;“(2) In the case of Kuwait, $16,006,000,000.
 
-“(b) For purposes of this section, the term ‘any sale’ means any sale with respect to which the President is required to submit a numbered certification to theCongress pursuant to the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] on or after the effective date of this section.
+“(b) For purposes of this section, the term ‘any sale’ means any sale with respect to which the President is required to submit a numbered certification to the Congress pursuant to the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] on or after the effective date of this section.
 
 “(c) This section shall take effect 120 days after the date of enactment of this joint resolution \[Dec. 12, 1991\].
 
@@ -646,7 +754,7 @@ Section 217 of Pub. L. 94–329 set forth provisions respecting report by the Pr
 
 #### Study by Secretaries of State and Defense on Consequences of Enactment of Arms Export Control Provisions
 
-Section 218 of Pub. L. 94–329 set forth provisions respecting study by the Secretaries of State and Defenseon consequences of enactment of arms export control provisions by title II of Pub. L. 94–329, prior to repeal by Pub. L. 95–384, §29(c)(1)(C), Sept. 26, 1978, 92 Stat. 747.
+Section 218 of Pub. L. 94–329 set forth provisions respecting study by the Secretaries of State and Defense on consequences of enactment of arms export control provisions by title II of Pub. L. 94–329, prior to repeal by Pub. L. 95–384, §29(c)(1)(C), Sept. 26, 1978, 92 Stat. 747.
 
 #### Total Number of Credits To Be Extended Between July 1, 1976, and September 30, 1976
 
@@ -686,7 +794,7 @@ By virtue of the authority vested in me by the Constitution and statutes of the 
 
 Section 1. <i>Delegation of Functions</i>. The following functions conferred upon the President by the Arms Export Control Act (22 U.S.C. 2751 et seq.), hereinafter referred to as the Act, and related legislation, are delegated as follows:
 
-(a) Those under Section 3 of the Act \[22 U.S.C. 2753\], with the exception of subsections (a)(1), (b), (c)(3), (c)(4), and (f) to the Secretary of State: <i>Provided</i>, That the Secretary of State, in the implementation of the functions delegated to him under Sections 3(a) and (d) of the Act, is authorized to find, in the case of a proposed transfer of a defense article or related training or other defense service by a foreign country or international organization not otherwise eligible under Section 3(a)(1) of the Act, whether the proposed transfer will strengthen the security of the United States and promote world peace.
+(a) Those under Section 3 of the Act \[22 U.S.C. 2753\], with the exception of subsections (a)(1), (b), (c)(3), (c)(4), and (f) to the Secretary of State: <i>Provided</i>, That the Secretary of State, in the implementation of the functions delegated to him under Sections 3(a) and (d) of the Act, is authorized to find, in the case of a proposed transfer of a defense article or related training or other defense service by a foreign country or international organization not otherwise eligible under Section 3(a)(1) of the Act, whether the proposed transferwill strengthen the security of the United States and promote world peace.
 
 (b) Those under Section 5 \[22 U.S.C. 2755\] to the Secretary of State.
 

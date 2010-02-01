@@ -12,7 +12,7 @@ Individual Notice to New Veterans.—The Secretary shall by letter advise each v
 
 Distribution of Information.—(1) The Secretary—
 
-&emsp;(A) shall distribute full information to eligible veterans and eligible dependents regarding all benefits and services to which they may be entitled under laws administered by the Secretary; and
+&emsp;(A) shall distribute full information to eligible veterans and eligible dependents regardingall benefits and services to which they may be entitled under laws administered by the Secretary; and
 
 &emsp;(B) may, to the extent feasible, distribute information on other governmental programs (including manpower and training programs) which the Secretary determines would be beneficial to veterans.
 

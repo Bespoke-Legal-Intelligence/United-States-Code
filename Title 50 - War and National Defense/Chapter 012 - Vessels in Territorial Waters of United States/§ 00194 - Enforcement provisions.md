@@ -10,7 +10,7 @@ This title, referred to in text, means title II of act June 15, 1917, ch. 30, 40
 
 #### Amendments
 
-<b>1950</b>—Act Aug. 9, 1950, authorized President to employ such departments, agencies, etc., as he may deem necessary to carry out title II of act June 15, 1917.
+1950—Act Aug. 9, 1950, authorized President to employ such departments, agencies, etc., as he may deem necessary to carry out title II of act June 15, 1917.
 
 #### Termination Date of 1950 Amendment
 

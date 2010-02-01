@@ -30,7 +30,7 @@ The term of office of each member of the Commission shall be two years; members 
 
 #### Codification
 
-Section was formerly classified to section 2373 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 2373 of Title 5 prior to the general revision and enactment ofTitle 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
 

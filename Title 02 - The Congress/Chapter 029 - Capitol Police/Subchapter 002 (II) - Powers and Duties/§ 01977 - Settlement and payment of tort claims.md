@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the Chief of the Capitol Police, in accordance with regulations prescribed by the Attorney General and any regulations as the Capitol Police Board may prescribe, may consider, ascertain, determine, compromise, adjust, and settle, in accordance with the provisions of chapter 171 of title 28, any claim for money damages against the United States for injury or loss of property or personal injury or death caused by the negligent or wrongful act or omission of any employee of the Capitol Police while acting within the scope of his office or employment, under circumstances where the United States, if a private person, would be liable to the claimant in accordance with the law of the place where the act or omission occurred.
+&emsp;Except as provided in paragraph (2), the Chief of the Capitol Police, in accordance with regulations prescribed by the Attorney General and any regulations as the Capitol Police Board may prescribe, may consider, ascertain, determine, compromise, adjust, and settle, in accordance with the provisions of chapter 171 of title 28, any claim for money damages against the United States for injury or loss of property or personal injury or death caused by the negligent or wrongful act or omission of any employee of the Capitol Police while acting within the scope of his office or employment, under circumstances where the UnitedStates, if a private person, would be liable to the claimant in accordance with the law of the place where the act or omission occurred.
 
 #### (2) Special rule for claims made by Members of Congress and congressional employees
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(i) the Committee on Rules and Administration of the Senate, in the case of a claim of a Senator or an officer or employee whose pay is disbursed by the Secretary of the Senate; or
 
-&emsp;&emsp;&emsp;(ii) the Committee on House Administration of the House of Representatives, inthe case of a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) or an officer or employee whose pay is disbursed by the Chief Administrative Officer of the House of Representatives.
+&emsp;&emsp;&emsp;(ii) the Committee on House Administration of the House of Representatives, in the case of a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) or an officer or employee whose pay is disbursed by the Chief Administrative Officer of the House of Representatives.
 
 #### (3) Head of agency
 

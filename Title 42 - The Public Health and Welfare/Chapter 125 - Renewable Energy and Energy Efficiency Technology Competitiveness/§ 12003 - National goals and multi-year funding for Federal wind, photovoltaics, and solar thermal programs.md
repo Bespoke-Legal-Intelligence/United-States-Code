@@ -80,7 +80,7 @@ Whenever the Secretary determines that any of the goals established under this s
 
 #### (c) Authorizations
 
-There are authorized to be appropriated to the Secretary for the following renewable energy research, development, and demonstration programs: the Wind Energy Research Program, the Photovoltaic Energy Systems Program, the Solar Thermal Energy Systems Program, the Biofuels Energy Systems Program, the Hydrogen Energy Systems Program, the Solar Buildings Energy Systems Program, the Ocean Energy Systems Program, and the Geothermal Energy Systems Program—
+There are authorized to be appropriated to the Secretary for the following renewable energy research, development, and demonstration programs: the Wind Energy Research Program, the Photovoltaic Energy Systems Program, theSolar Thermal Energy Systems Program, the Biofuels Energy Systems Program, the Hydrogen Energy Systems Program, the Solar Buildings Energy Systems Program, the Ocean Energy Systems Program, and the Geothermal Energy Systems Program—
 
 &emsp;(1) not to exceed $113,000,000 for fiscal year 1991, of which—
 

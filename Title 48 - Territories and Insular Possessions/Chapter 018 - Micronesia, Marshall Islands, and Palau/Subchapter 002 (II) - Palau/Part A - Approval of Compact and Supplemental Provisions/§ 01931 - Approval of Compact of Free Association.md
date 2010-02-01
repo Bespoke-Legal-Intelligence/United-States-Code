@@ -16,9 +16,9 @@ Any reference in this joint resolution to the “Compact” shall be treated as 
 
 &emsp;(A) to all actions of the Government of the United States under the Compact including, but not limited to, actions taken pursuant to sections 431, 432, 441, or 442;
 
-&emsp;(B) to any amendment, change, or termination in any agreement that may be concluded at any time between the Government of the United States and the Government of Palau regarding friendship, cooperation and mutual security concluded pursuant to sections 321 and 323 of the Compact referred to in section 462(h);
+&emsp;(B) to any amendment, change, or termination in any agreement that may be concluded at any time between the Government of the United States and the Government of Palau regarding friendship, cooperation andmutual security concluded pursuant to sections 321 and 323 of the Compact referred to in section 462(h);
 
-&emsp;(C) to any amendment, change, or termination of the agreements concluded pursuantto Compact sections 175 and 221(a)(4), the terms of which are incorporated by reference into the Compact; and
+&emsp;(C) to any amendment, change, or termination of the agreements concluded pursuant to Compact sections 175 and 221(a)(4), the terms of which are incorporated by reference into the Compact; and
 
 &emsp;(D) to the following subsidiary agreements, or portions thereof:
 
@@ -84,7 +84,7 @@ Committee on Interior and Insular Affairs of House of Representatives changed to
 
 #### Regulations Regarding Habitual Residence
 
-Commissioner of Immigration and Naturalization to issue regulations, not later than 6 months after Sept. 30, 1996, governing rights of “habitual residence” inUnited States under terms of the Compact of Free Association between the Government of the United States and the Government of Palau, see section 643 of Pub. L. 104–208, formerly set out as a note under section 1901 of this title.
+Commissioner of Immigration and Naturalization to issue regulations, not later than 6 months after Sept. 30, 1996, governing rights of “habitual residence” in United States under terms of the Compact of Free Association between the Government of the United States and the Government of Palau, see section 643 of Pub. L. 104–208, formerly set out as a note under section 1901 of this title.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -160,7 +160,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 123
 
-“In recognition of the authority and responsibility of the Government of the United States under TitleThree, the Government of Palau shall consult with the Government of the United States. The Government of the United States, in the conduct of its foreign affairs, shall consult with the Government of Palau on matters which the Government of the United States regards as relating to or affecting the Government of Palau, and shall provide, on a regular basis, information on regional foreign policy matters.
+“In recognition of the authority and responsibility of the Government of the United States under Title Three, the Government of Palau shall consult with the Government of the United States. The Government of the United States, in the conduct of its foreign affairs, shall consult with the Government of Palau on matters which the Government of the United States regards as relating to or affecting the Government of Palau, and shall provide, on a regular basis, information on regional foreign policy matters.
 
 #### “Section 124
 
@@ -228,7 +228,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 142
 
-“(a) Any citizen or national of the United States may enter into, lawfully engage in occupations, and residein Palau, subject to the right of that Government to deny entry to or deport any such citizen or national as an undesirable alien. A citizen or national of the United States may establish habitual residence or domicile in Palau only in accordance with the laws of Palau. This subsection is without prejudice to the right of the Government of Palau to regulate occupations in Palau in a nondiscriminatory manner.
+“(a) Any citizen or national of the United States may enter into, lawfully engage in occupations, and reside in Palau, subject to the right of that Government to deny entry to or deport any such citizen or national as an undesirable alien. A citizen or national of the United States may establish habitual residence or domicile in Palau only in accordance with the laws of Palau. This subsection is without prejudice to the right of the Government of Palau to regulate occupations in Palau in a nondiscriminatory manner.
 
 “(b) With respect to the subject matter of this Section, the Government of Palau shall accord to citizens and nationals of the United States treatment no less favorable than that accorded to citizens of other countries; any denial of entry to or deportation of a citizen or national of the United States as an undesirable alien must be pursuant to reasonable statutory grounds.
 
@@ -288,7 +288,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 &emsp;“(2) shall develop, prior to conducting any activity included within the category described in this Section, appropriate mechanisms, including regulations or other standards and procedures, to regulate such activity in Palau in a manner appropriate to the special governmental relationship set forth in this Compact. The Government of the United States shall provide the Government of Palau with the opportunity to comment formally during the development of such mechanisms.
 
-“(b) The Government of Palau shall develop standards and procedures to protect the environment of Palau. As a reciprocal obligation to the undertakings of the Government of the United States under this Article, the Government of Palau, taking into account the particular environment of Palau, shall develop standards for environmental protection substantively similar to those required of the Government of the United States by Section 163(a)(1) prior to conducting activities in Palau substantively equivalent to activities conducted there by the Government of the United States and, as a further reciprocal obligation, shall enforce those standards.
+“(b) The Government of Palau shall develop standards and procedures to protect the environment of Palau. As a reciprocal obligation to the undertakings of the Government of the United States under this Article, the Government of Palau, taking into account the particular environment of Palau, shall develop standards for environmental protection substantivelysimilar to those required of the Government of the United States by Section 163(a)(1) prior to conducting activities in Palau substantively equivalent to activities conducted there by the Government of the United States and, as a further reciprocal obligation, shall enforce those standards.
 
 “(c) Section 163(a), including any standard or procedure applicable thereunder, and Section 163(b) may be modified or superseded in whole or in part by agreement of the Government of the United States and the Government of Palau.
 
@@ -342,7 +342,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 177
 
-“(a) Federal agencies of the Government of the United States which provide services and related programs in Palau are authorized to settle and pay tort claims arising in Palau from the activities of such agencies or from the acts or omissions of the employeesof such agencies. Except as provided in Section 177(b), the provisions of 28 U.S.C. 2672 and 31 U.S.C. 1304 shall apply exclusively to such administrative settlements and payments.
+“(a) Federal agencies of the Government of the United States which provide services and related programs in Palau are authorized to settle and pay tortclaims arising in Palau from the activities of such agencies or from the acts or omissions of the employees of such agencies. Except as provided in Section 177(b), the provisions of 28 U.S.C. 2672 and 31 U.S.C. 1304 shall apply exclusively to such administrative settlements and payments.
 
 “(b) Claims under Section 177(a) which cannot be settled under Section 177(a) shall be disposed of exclusively in accordance with Article II of Title Four. Arbitration awards rendered pursuant to this subsection shall be paid out of funds under 31 U.S.C. 1304.
 

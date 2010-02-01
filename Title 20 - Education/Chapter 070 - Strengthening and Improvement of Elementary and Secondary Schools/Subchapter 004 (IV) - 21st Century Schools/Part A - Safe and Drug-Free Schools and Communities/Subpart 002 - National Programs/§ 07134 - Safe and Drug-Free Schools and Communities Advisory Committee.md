@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is hereby established an advisory committee to be known as the “Safe and DrugFree Schools and Communities Advisory Committee” (referred to in this section as the “Advisory Committee”) to—
+&emsp;There is hereby established an advisory committee to be known as the “Safe and Drug Free Schools and Communities Advisory Committee” (referred to in this section as the “Advisory Committee”) to—
 
 &emsp;&emsp;(A) consult with the Secretary under subsection (b) of this section;
 

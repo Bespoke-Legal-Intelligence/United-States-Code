@@ -2,7 +2,7 @@
 
 (a) The Committees on the Budget of the House of Representatives and the Senate shall study on a continuing basis proposals designed to improve and facilitate methods of congressional budgetmaking. The proposals to be studied shall include, but are not limited to, proposals for—
 
-&emsp;(1) improving the information base required for determining the effectiveness of new programs by such means as pilot testing survey research, and other experimental and analytical techniques;
+&emsp;(1) improving the information base required for determining the effectiveness of new programs by such means as pilot testing, survey research, and other experimental and analytical techniques;
 
 &emsp;(2) improving analytical and systematic evaluation of the effectiveness of existing programs;
 
@@ -12,7 +12,7 @@
 
 (b) The Committee on the Budget of each House shall, from time to time, report to its House the results of the study carried on by it under subsection (a) of this section, together with its recommendations.
 
-(c) Nothing in this section shall preclude studies to improve the budgetary process by anyother committee of the House of Representatives or the Senate or any joint committee of the Congress.
+(c) Nothing in this section shall preclude studies to improve the budgetary process by any other committee of the House of Representatives or the Senate or any joint committee of the Congress.
 
 (Pub. L. 93–344, title VII, §703, July 12, 1974, 88 Stat. 326.)
 

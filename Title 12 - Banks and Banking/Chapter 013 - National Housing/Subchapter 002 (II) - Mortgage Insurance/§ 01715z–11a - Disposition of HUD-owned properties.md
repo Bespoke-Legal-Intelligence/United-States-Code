@@ -2,7 +2,7 @@
 
 #### (a) Flexible authority for multifamily projects
 
-During fiscal year 1997 and fiscal years thereafter, the Secretary may manage and dispose ofmultifamily properties owned by the Secretary, including, for fiscal years 1997, 1998, 1999, 2000, and thereafter, the provision of grants and loans from the General Insurance Fund (12 U.S.C. 1735c) for the necessary costs of rehabilitation, demolition, or construction on the properties (which shall be eligible whether vacant or occupied), and multifamily mortgages held by the Secretary on such terms and conditions as the Secretary may determine, notwithstanding any other provision of law. A grant provided under this subsection during fiscal years 2006 through 2010 shall be available only to the extent that appropriations are made in advance for such purposes and shall not be derived from the General Insurance Fund.
+During fiscal year 1997 and fiscal years thereafter, the Secretary may manage and dispose of multifamily properties owned by the Secretary, including, for fiscal years 1997, 1998, 1999, 2000, and thereafter, the provision of grants and loans from the General Insurance Fund (12 U.S.C. 1735c) for the necessary costs of rehabilitation, demolition, or construction on the properties (which shall be eligible whether vacant or occupied), and multifamily mortgages held by the Secretary on such terms and conditions as the Secretary may determine, notwithstanding any other provision of law. A grant provided under this subsection during fiscal years 2006 through 2010 shall be available only to the extent that appropriations are made in advance for such purposes and shall not be derived from the General Insurance Fund.
 
 #### (b) Transfer of unoccupied and substandard housing to local governments and community development corporations
 
@@ -64,7 +64,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 #### (A) Upon enactment
 
-&emsp;&emsp;Upon the enactment of this subsection \[December 21, 2000\], the Secretary shallpromptly assess each residential property owned by the Secretary to determine whether such property is a qualified HUD property.
+&emsp;&emsp;Upon the enactment of this subsection \[December 21, 2000\], the Secretary shall promptly assess each residential property owned by the Secretary to determine whether such property is a qualified HUD property.
 
 #### (B) Upon acquisition
 
@@ -148,7 +148,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 #### (A) Interim
 
-&emsp;&emsp;Not later than 30 days after December 21, 2000, the Secretary shall issue such interimregulations as are necessary to carry out this subsection.
+&emsp;&emsp;Not later than 30 days after December 21, 2000, the Secretary shall issue such interim regulations as are necessary to carry out this subsection.
 
 #### (B) Final
 
@@ -176,5 +176,5 @@ Pub. L. 106–377 substituted “2000, and thereafter” for “and 2000”.
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 not applicable to any transaction that formally commences within one year prior to Feb. 8, 2006, see section 2003(c) of Pub. L. 109–171, set out as a note under section 1701z–11 of this title.
+Amendment by Pub. L. 109–171 not applicable to any transaction that formally commences within one yearprior to Feb. 8, 2006, see section 2003(c) of Pub. L. 109–171, set out as a note under section 1701z–11 of this title.
 

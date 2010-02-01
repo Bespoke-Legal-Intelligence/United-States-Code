@@ -56,7 +56,7 @@ Upon granting a request.—Upon granting a request for exemption, the Secretary 
 
 &emsp;&emsp;(C)
 
-After denying a request.—After denying a request for exemption, the Secretaryshall publish in the Federal Register the name of the person denied the exemption and the reasons for such denial. The Secretary may meet the requirement of this subparagraph by periodically publishing in the Federal Register the names of persons denied exemptions and the reasons for such denials.
+After denying a request.—After denying a request for exemption, the Secretary shall publish in the Federal Register the name of the person denied the exemption and the reasons for such denial. The Secretary may meet the requirement of this subparagraph by periodically publishing in the Federal Register the names of persons denied exemptions and the reasons for such denials.
 
 &emsp;(5)
 

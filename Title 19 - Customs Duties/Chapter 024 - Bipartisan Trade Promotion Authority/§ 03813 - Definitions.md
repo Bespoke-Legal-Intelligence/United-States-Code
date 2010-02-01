@@ -52,7 +52,7 @@ In this chapter:
 
 &emsp;The term “import sensitive agricultural product” means an agricultural product—
 
-&emsp;&emsp;(A) with respect to which, as a result of the Uruguay Round Agreements the rate of duty was the subject of tariff reductions by the United States and, pursuant to suchAgreements, was reduced on January 1, 1995, to a rate that was not less than 97.5 percent of the rate of duty that applied to such article on December 31, 1994; or
+&emsp;&emsp;(A) with respect to which, as a result of the Uruguay Round Agreements the rate of duty was the subject of tariff reductions by the United States and, pursuant to such Agreements, was reduced on January 1, 1995, to a rate that was not less than 97.5 percent of the rate of duty that applied to such article on December 31, 1994; or
 
 &emsp;&emsp;(B) which was subject to a tariff-rate quota on August 6, 2002.
 

@@ -94,7 +94,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;&emsp;&emsp;(iii) the DNA and Cell Line Repository of the National Institute of Neurological Disorders and Stroke Human Genetics Resource Center at the National Institutes of Health;
 
-&emsp;&emsp;&emsp;(iv) Agency for Toxic Substances and Disease Registry studies, including studiesconducted in Illinois, Missouri, El Paso and San Antonio, Texas, and Massachusetts;
+&emsp;&emsp;&emsp;(iv) Agency for Toxic Substances and Disease Registry studies, including studies conducted in Illinois, Missouri, El Paso and San Antonio, Texas, and Massachusetts;
 
 &emsp;&emsp;&emsp;(v) State-based ALS registries;
 

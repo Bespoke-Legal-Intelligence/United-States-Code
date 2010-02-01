@@ -48,7 +48,7 @@ In subsec. (b)(2), “section 1342 of title 31” substituted for “section 367
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–376 amended subsec. (e) generally. Prior to amendment, text read as follows: “To the extent practicable, the Administrator shall utilize existing programs, data, information, and facilities already available in other Federal Government departments and agencies and, where appropriate, existing research organizations, centers, and universities. The Administrator shall provide liaison at an appropriate organizational level to assure coordination of his activities with State and local government agencies, departments, bureaus, or offices concerned with any matter related to programs of fire prevention and control and with private and other Federal organizations and offices so concerned.”
+2008—Subsec. (e). Pub. L. 110–376 amended subsec. (e) generally. Prior to amendment, text read as follows:“To the extent practicable, the Administrator shall utilize existing programs, data, information, and facilities already available in other Federal Government departments and agencies and, where appropriate, existing research organizations, centers, and universities. The Administrator shall provide liaison at an appropriate organizational level to assure coordination of his activities with State and local government agencies, departments, bureaus, or offices concerned with any matter related to programs of fire prevention and control and with private and other Federal organizations and offices so concerned.”
 
 2000—Subsec. (c). Pub. L. 106–503 substituted “Director” for “Secretary”.
 

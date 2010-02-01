@@ -10,7 +10,7 @@ Section was formerly set out as a note under section 7274h of Title 42, The Publ
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–136, §3141(k)(15)(C)(iii), substituted “section 2704(c)(6) of this title” for “section 3161(c)(6) of the National Defense Authorization Act of 1993 (42 U.S.C. 7274h(c)(6))”.
+2003—Pub. L. 108–136, §3141(k)(15)(C)(iii), substituted “section 2704(c)(6) of this title” for “section 3161(c)(6) of the National Defense Authorization Act of 1993 (42 U.S.C. 7274h(c)(6))”.
 
 Pub. L. 108–136, §3141(k)(15)(C)(i), (ii), inserted section catchline and directed striking subsec. heading “Semiannual reports to Congress of local impact assistance” which was executed by striking “Semiannual report to Congress of local impact assistance”, to reflect the probable intent of Congress.
 

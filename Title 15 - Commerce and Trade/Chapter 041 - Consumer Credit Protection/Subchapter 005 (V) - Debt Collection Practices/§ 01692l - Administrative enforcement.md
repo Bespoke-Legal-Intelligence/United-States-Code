@@ -2,7 +2,7 @@
 
 #### (a) Federal Trade Commission
 
-Compliance with this subchapter shall be enforced by the Commission, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to another agency under subsection (b) of this section. For purpose of the exercise by the Commission of its functions and powers under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], a violation of this subchapter shall be deemed an unfair or deceptive act or practice in violation of that Act. All of the functions and powers of the Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act, including the power to enforce the provisions of this subchapter in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule.
+Compliance with this subchapter shall be enforced by the Commission, except to the extentthat enforcement of the requirements imposed under this subchapter is specifically committed to another agency under subsection (b) of this section. For purpose of the exercise by the Commission of its functions and powers under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], a violation of this subchapter shall be deemed an unfair or deceptive act or practice in violation of that Act. All of the functions and powers of the Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act, including the power to enforce the provisions of this subchapter in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule.
 
 #### (b) Applicable provisions of law
 
@@ -12,7 +12,7 @@ Compliance with any requirements imposed under this subchapter shall be enforced
 
 &emsp;&emsp;(A) national banks, and Federal branches and Federal agencies of foreign banks, by the Office of the Comptroller of the Currency;
 
-&emsp;&emsp;(B) member banks of the Federal Reserve System (other than national banks),branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) <sup>1</sup> of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\], by the Board of Governors of the Federal Reserve System; and
+&emsp;&emsp;(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) <sup>1</sup> of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\], by the Board of Governors of the Federal Reserve System; and
 
 &emsp;&emsp;(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;
 
@@ -52,7 +52,7 @@ The Packers and Stockyards Act, 1921, referred to in subsec. (b)(6), is act Aug.
 
 In subsec. (b)(4), “subtitle IV of title 49” substituted for “the Acts to regulate commerce” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
 
-In subsec. (b)(5), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301 et seq.\]” and “that part” substituted for “that Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
+In subsec. (b)(5), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301 et seq.\]” and “that part” substituted for “that Act” on authority of Pub. L. 103–272, §6(b),July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
 
 #### Amendments
 
@@ -70,7 +70,7 @@ Pub. L. 102–242, §212(e)(1), added par. (1) and struck out former par. (1) wh
 
 &emsp;“(C) banks the deposits or accounts of which are insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), by the Board of Directors of the Federal Deposit Insurance Corporation;”.
 
-1989—Subsec. (b)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows:“section 5(d) of the Home Owners Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i) and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions;”.
+1989—Subsec. (b)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “section 5(d) of the Home Owners Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i) and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions;”.
 
 1984—Subsec. (b)(5). Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
 

@@ -26,7 +26,7 @@ Section 60e–11, Pub. L. 88–426, title II, §202(a)–(c), (h), Aug. 14, 1964
 
 Section 60e–12, Pub. L. 89–301, §11(a), (b), (i), Oct. 29, 1965, 79 Stat. 1120, 1121, provided for payment of additional compensation to legislative branch employees.
 
-Section 60e–13, Pub. L. 89–504, title III, §302(a), (b), (e), (i), July 18, 1966, 80 Stat. 294, provided for payment ofadditional compensation to legislative branch employees.
+Section 60e–13, Pub. L. 89–504, title III, §302(a), (b), (e), (i), July 18, 1966, 80 Stat. 294, provided for payment of additional compensation to legislative branch employees.
 
 Section 60e–14, Pub. L. 90–206, title II, §214(a), (b), (f), (m), Dec. 16, 1967, 81 Stat. 635–637, provided for payment of additional compensation to legislative branch employees.
 

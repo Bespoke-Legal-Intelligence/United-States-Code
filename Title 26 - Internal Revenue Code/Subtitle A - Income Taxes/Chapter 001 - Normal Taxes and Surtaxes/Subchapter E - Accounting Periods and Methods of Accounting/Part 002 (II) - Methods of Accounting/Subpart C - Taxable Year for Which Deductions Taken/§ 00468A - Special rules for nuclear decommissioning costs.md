@@ -6,7 +6,7 @@ If the taxpayer elects the application of this section, there shall be allowed a
 
 #### (b) Limitation on amounts paid into Fund
 
-The amount which a taxpayer may pay into the Fund for any taxable year shall not exceedthe ruling amount applicable to such taxable year.
+The amount which a taxpayer may pay into the Fund for any taxable year shall not exceed the ruling amount applicable to such taxable year.
 
 #### (c) Income and deductions of the taxpayer
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (7) Termination upon completion
 
-&emsp;Upon substantial completion of the nuclear decommissioning of the nuclear powerplantwith respect to which a Fund relates, the taxpayer shall terminate such Fund.
+&emsp;Upon substantial completion of the nuclear decommissioning of the nuclear powerplant with respect to which a Fund relates, the taxpayer shall terminate such Fund.
 
 #### (f) Transfers into qualified funds
 
@@ -198,7 +198,7 @@ Subsec. (e)(1). Pub. L. 99–514, §1807(a)(4)(E)(iv), substituted “this secti
 
 Subsec. (e)(2). Pub. L. 99–514, §1807(a)(4)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There is imposed on the gross income of the Fund for any taxable year a tax at a rate equal to the maximum rate in effect under section 11(b), except that—
 
-&emsp;“(A) there shall not be included in the gross income of the Fund any payment to the Fund with respect to which a deduction is allowable under subsection (a), and
+&emsp;“(A) there shall not be included in the gross income of the Fund any payment to the Fund with respect towhich a deduction is allowable under subsection (a), and
 
 &emsp;“(B) there shall be allowed as a deduction any amount paid by the Fund described in paragraph (4)(B) (other than to the taxpayer).”
 

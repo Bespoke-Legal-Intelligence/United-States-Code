@@ -20,7 +20,7 @@ A State shall select qualifying individuals, and provide such individuals with a
 
 #### (B) Carryover
 
-&emsp;&emsp;For calendar years after 1998, the State shall give preference to individuals who were provided such assistance (or other assistance described in section 1396a(a)(10)(E) of this title) in the last month of the previous year and who continue to be (or become) qualifying individuals.
+&emsp;&emsp;For calendar years after 1998, the State shall give preference to individuals who wereprovided such assistance (or other assistance described in section 1396a(a)(10)(E) of this title) in the last month of the previous year and who continue to be (or become) qualifying individuals.
 
 #### (3) Limit on number of individuals based on allocation
 
@@ -104,13 +104,17 @@ For each fiscal year, the Secretary shall provide for the transfer from the Fede
 
 &emsp;&emsp;(J) for the period that begins on October 1, 2008, and ends on December 31, 2008, the total allocation amount is $130,000,000;
 
-&emsp;&emsp;(K) for the period that begins on January 1, 2009, and ends on September 30, 2009, the total allocation amount is $350,000,000; and
+&emsp;&emsp;(K) for the period that begins on January 1, 2009, and ends on September 30, 2009, the total allocation amount is $350,000,000;
 
-&emsp;&emsp;(L) for the period that begins on October 1, 2009, and ends on December 31, 2009, the total allocation amount is $150,000,000.
+&emsp;&emsp;(L) for the period that begins on October 1, 2009, and ends on December 31, 2009, the total allocation amount is $150,000,000;
+
+&emsp;&emsp;(M) for the period that begins on January 1, 2010, and ends on September 30, 2010, the total allocation amount is $412,500,000; and
+
+&emsp;&emsp;(N) for the period that begins on October 1, 2010, and ends on December 31, 2010, the total allocation amount is $150,000,000.
 
 #### (3) Rules for periods that begin after January 1
 
-&emsp;For any specific period described in subparagraph (B), (D), (F), (H), (J), or (L) of paragraph (2), the following applies:
+&emsp;For any specific period described in subparagraph (B), (D), (F), (H), (J), (L), or (N) of paragraph (2), the following applies:
 
 &emsp;&emsp;(A) The specific period shall be treated as a continuation of the immediately preceding period in that calendar year for purposes of applying subsection (b)(2) of this section and qualifying individuals who received assistance in the last month of such immediately preceding period shall be deemed to be selected for the specific period (without the need to complete an application for assistance for such period).
 
@@ -118,13 +122,17 @@ For each fiscal year, the Secretary shall provide for the transfer from the Fede
 
 &emsp;&emsp;(C) The ratio to be applied under subsection (c)(2) of this section for the specific period shall be the same as the ratio applied under such subsection for the immediately preceding period.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1933, as added Pub. L. 105–33, title IV, §4732(c), Aug. 5, 1997, 111 Stat. 520; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(x)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 108–89, title IV, §401(b), (c), Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–173, title I, §103(f)(2), Dec. 8, 2003, 117 Stat. 2160; Pub. L. 108–448, §1(b), Dec. 8, 2004, 118 Stat. 3467; Pub. L. 109–91, title I, §101(b), Oct. 20, 2005, 119 Stat. 2091; Pub. L. 110–90, §3(b), Sept. 29, 2007, 121 Stat. 984; Pub. L. 110–173, title II, §203(b), Dec. 29, 2007, 121 Stat. 2513; Pub. L. 110–275, title I, §111(b), July 15, 2008, 122 Stat. 2503; Pub. L. 110–379, §2, Oct. 8, 2008, 122 Stat. 4075.)
+(Aug. 14, 1935, ch. 531, title XIX, §1933, as added Pub. L. 105–33, title IV, §4732(c), Aug. 5, 1997, 111 Stat. 520; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(x)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 108–89, title IV, §401(b), (c), Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–173, title I, §103(f)(2), Dec. 8, 2003, 117 Stat. 2160; Pub. L. 108–448, §1(b), Dec. 8, 2004, 118 Stat. 3467; Pub. L. 109–91, title I, §101(b), Oct. 20, 2005, 119 Stat. 2091; Pub. L. 110–90, §3(b), Sept. 29, 2007, 121 Stat. 984; Pub. L. 110–173, title II, §203(b), Dec. 29, 2007, 121 Stat. 2513; Pub. L. 110–275, title I, §111(b), July 15, 2008, 122 Stat. 2503; Pub. L. 110–379, §2, Oct. 8, 2008, 122 Stat. 4075; Pub. L. 111–5, div. B, title V, §5005(b), Feb. 17, 2009, 123 Stat. 505.)
 
 #### Prior Provisions
 
 A prior section 1933 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+2009—Subsec. (g)(2)(M), (N). Pub. L. 111–5, §5005(b)(1), added subpars. (M) and (N).
+
+Subsec. (g)(3). Pub. L. 111–5, §5005(b)(2), substituted “(L), or (N)” for “or (L)” in introductory provisions.
 
 2008—Subsec. (g)(2)(I). Pub. L. 110–379, §2(1), substituted “$315,000,000” for “$300,000,000”.
 

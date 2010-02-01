@@ -18,7 +18,7 @@ Determination of Cost Effectiveness.—(1) For the purposes of this section, an 
 
 (d)
 
-Exception to Square Feet and Cost Per Square Foot Limitations.—In order to equip amilitary construction project (including a military family housing project) with heating equipment, cooling equipment, or both heating and cooling equipment using solar energy or other renewable forms of energy or with a passive energy system using solar energy or other renewable forms of energy, the Secretary concerned may authorize an increase in any otherwise applicable limitation with respect to the number of square feet or the cost per square foot of the project by such amount as may be necessary for such purpose. Any such increase under this subsection shall be in addition to any other administrative increase in cost per square foot or variation in floor area authorized by law.
+Exception to Square Feet and Cost Per Square Foot Limitations.—In order to equip a military construction project (including a military family housing project) with heating equipment, cooling equipment, or both heating and cooling equipment using solar energy or other renewable forms of energy or with a passive energy system using solar energy or other renewable forms of energy, the Secretary concerned may authorize an increase in any otherwise applicable limitation with respect to the number of square feet or the cost per square foot of the project by such amount as may be necessary for such purpose. Any such increase under this subsection shall be in addition to any other administrative increase in cost per square foot or variation in floor area authorized by law.
 
 (e)
 
@@ -30,7 +30,7 @@ Use of Energy Efficiency Products in New Construction.—(1) The Secretary of De
 
 &emsp;(B) are listed on the Federal Energy Management Program Product Energy Efficiency Recommendations product list of the Department of Energy.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 166, §2857; amended Pub. L. 97–321, title VIII, §801(b)(1), (2), Oct. 15, 1982, 96 Stat. 1571; Pub. L. 98–525, title XIV, §1405(45)(A), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 101–218, §8(b), Dec. 11, 1989, 103 Stat. 1868; Pub. L. 101–510, div. B, title XXVIII, §2852(b), Nov. 5, 1990, 104 Stat. 1804; Pub. L. 102–25, title VII, §701(g)(2), Apr. 6, 1991, 105 Stat. 115; renumbered §2915 and amended Pub. L. 109–364, div. B, title XXVIII, §§2851(b)(1), (3)(A), 2854, Oct. 17, 2006, 120 Stat. 2494, 2497.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 166, §2857; amended Pub. L. 97–321, title VIII, §801(b)(1), (2), Oct. 15, 1982, 96 Stat. 1571; Pub. L. 98–525, title XIV, §1405(45)(A), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 101–218, §8(b), Dec. 11, 1989, 103 Stat. 1868; Pub. L. 101–510, div. B, title XXVIII, §2852(b), Nov. 5, 1990, 104 Stat. 1804; Pub. L. 102–25, title VII, §701(g)(2), Apr. 6, 1991, 105Stat. 115; renumbered §2915 and amended Pub. L. 109–364, div. B, title XXVIII, §§2851(b)(1), (3)(A), 2854, Oct. 17, 2006, 120 Stat. 2494, 2497.)
 
 #### Amendments
 

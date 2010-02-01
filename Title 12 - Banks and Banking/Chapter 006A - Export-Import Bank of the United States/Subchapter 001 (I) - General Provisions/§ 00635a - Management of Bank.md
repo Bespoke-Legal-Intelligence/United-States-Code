@@ -76,7 +76,7 @@ There shall be a President of the Export-Import Bank of the United States, who s
 
 &emsp;There is established a Small Business Division (in this subsection referred to as the “Division”) within the Bank in order to—
 
-&emsp;&emsp;(A) carry out the provisions of subparagraphs (E) and (I) of section 635(b)(1) of this title relating to outreach, feedback, product improvement, and transaction advocacy for small business concerns (as defined in section 632(a) of title 15);
+&emsp;&emsp;(A) carry out the provisions of subparagraphs (E) and (I) of section 635(b)(1) of thistitle relating to outreach, feedback, product improvement, and transaction advocacy for small business concerns (as defined in section 632(a) of title 15);
 
 &emsp;&emsp;(B) advise and seek feedback from small business concerns on the opportunities and benefits for small business concerns in the financing products offered by the Bank, with particular emphasis on conducting outreach, enhancing the tailoring of products to small business needs and increasing loans to small business concerns;
 
@@ -138,7 +138,7 @@ There shall be a President of the Export-Import Bank of the United States, who s
 
 &emsp;&emsp;The duties of the Small Business Committee shall be determined by the President of the Bank and shall include the following:
 
-&emsp;&emsp;&emsp;(i) Assisting in the development of the Bank's small business strategic plans, including the Bank's plans for carrying out section 635(b)(1)(E) (v) and (x) of this title, and measuring and reporting in writing to the President of the Bank, at least once a year, on the Bank's progress in achieving the goals set forth in the plans.
+&emsp;&emsp;&emsp;(i) Assisting in the development of the Bank's small business strategic plans, including the Bank's plans for carrying out section 635(b)(1)(E) (v) and (x) of this title, and measuring and reporting in writing tothe President of the Bank, at least once a year, on the Bank's progress in achieving the goals set forth in the plans.
 
 &emsp;&emsp;&emsp;(ii) Evaluating and reporting in writing to the President of the Bank, at least once a year, with respect to—
 
@@ -218,7 +218,7 @@ Subsec. (e). Pub. L. 105–121, §6, designated existing provisions as par. (1) 
 
 1983—Subsec. (c). Pub. L. 98–81, §614(a), designated first through seventh sentences as pars. (1) through (7), respectively, substituted “The” for “Terms of the directors shall be at the pleasure of the President of the United States, and the” at beginning of par. (5) as so designated, and added par. (8).
 
-Subsec. (d). Pub. L. 98–181, §613, amended subsec. (d) generally. Prior to amendment subsec. (d) read as follows: “There shall be an Advisory Committee of nine members, appointed by the Board of Directors on the recommendation of the President of the Bank, who shall be broadly representative of production, commerce, finance, agriculture and labor. The Advisory Committee shall meet one or more times per year, on the call of the President of the Bank, to advise with the Bank on its program. Members, not otherwise in the regular full-time employ of the United States, may be compensated at rates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule (5 U.S.C. 5332) for each day spent in travel or attendance at meetings of the Committee, and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently.”
+Subsec. (d). Pub. L. 98–181, §613, amended subsec. (d) generally. Prior to amendment subsec. (d) read as follows: “There shall be an Advisory Committee of nine members, appointed by the Board of Directors on therecommendation of the President of the Bank, who shall be broadly representative of production, commerce, finance, agriculture and labor. The Advisory Committee shall meet one or more times per year, on the call of the President of the Bank, to advise with the Bank on its program. Members, not otherwise in the regular full-time employ of the United States, may be compensated at rates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule (5 U.S.C. 5332) for each day spent in travel or attendance at meetings of the Committee, and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently.”
 
 Subsec. (e). Pub. L. 98–181, §620(b), substituted “such individual's” for “his” and “such individual” for “he”.
 
@@ -276,9 +276,13 @@ Report.—Not later than 1 year after the date of enactment of this Act, the Exp
 
 &emsp;&emsp;“(B) whether or not the authority of subsection (a) should be extended.”
 
-\[Pub. L. 110–161, div. J, title II, Dec. 26, 2007, 121 Stat. 2290, provided in part: “That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 2008.”\]
+\[Pub. L. 111–117, div. F, title VI, Dec. 16, 2009, 123 Stat. 3341, provided in part: “That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 2010.”\]
 
 \[Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
+
+\[Pub. L. 111–8, div. H, title VI, Mar. 11, 2009, 123 Stat. 859.
+
+\[Pub. L. 110–161, div. J, title II, Dec. 26, 2007, 121 Stat. 2290.
 
 \[Pub. L. 109–102, title I, Nov. 14, 2005, 119 Stat. 2173.
 
@@ -310,7 +314,7 @@ Section 118 of Pub. L. 102–429 directed Export-Import Bank, not later than 1 y
 
 #### Appointment of Member of Board To Represent Interests of Small Business Community
 
-Section 614(b) of Pub. L. 98–181 provided that: “In order to carry out the amendment made by subsection (a) regarding section 3(c)(8)(B) of the Export-Import Bank Act of 1945 \[subsec. (c)(8)(B) of this section\], the first member, other than a member who will serve as Chairman or Vice Chairman of the Bank, appointed by the President of the United States to the Board of Directors of the Export-Import Bank of the United States after the date of the enactment of this section \[Nov. 30, 1983\] shall be selected from among the small business community and shall represent the interests of small business.”
+Section 614(b) of Pub. L. 98–181 provided that: “In order to carry out the amendment made by subsection (a) regarding section 3(c)(8)(B) of the Export-Import Bank Act of 1945 \[subsec. (c)(8)(B) of this section\], the first member, other than a member who will serve as Chairman or Vice Chairman of the Bank, appointed bythe President of the United States to the Board of Directors of the Export-Import Bank of the United States after the date of the enactment of this section \[Nov. 30, 1983\] shall be selected from among the small business community and shall represent the interests of small business.”
 
 #### Board of Directors; Advisory Committee
 
@@ -364,7 +368,7 @@ The following are hereby abolished: (1) The Board of Directors of the Export-Imp
 
 Sections 3 to 7, inclusive, of this reorganization plan shall become effective when the Managing Director first appointed hereunder enters upon office pursuant to the provisions of this reorganization plan.
 
-\[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, which amended this section. The Board had previously been abolished and its functions transferred to the Managing Director of the Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See this section and 1954 Amendment and Effective Date of 1954 Amendment notes set out above. The “Export-Import Bank of Washington” was renamed the “Export-Import Bank of the UnitedStates” by Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47.\]
+\[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, which amended this section. The Board had previously been abolished and its functions transferred to the Managing Director of the Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See this section and 1954 Amendment and Effective Date of 1954 Amendment notes set out above. The “Export-Import Bank of Washington” was renamed the “Export-Import Bank of the United States” by Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47.\]
 
 #### United States Trade Representative and Secretary of Commerce as Additional Members of Board of Directors of Export-Import Bank of the United States
 

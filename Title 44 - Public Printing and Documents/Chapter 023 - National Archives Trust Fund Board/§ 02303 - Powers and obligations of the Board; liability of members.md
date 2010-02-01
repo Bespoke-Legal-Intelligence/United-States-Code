@@ -1,6 +1,6 @@
 ### §2303. Powers and obligations of the Board; liability of members
 
-Except as otherwise provided by this chapter, the Board shall have all the usual powers andobligations of a trustee with respect to property and funds administered by it, but the members of the Board are not personally liable, except for malfeasance.
+Except as otherwise provided by this chapter, the Board shall have all the usual powers and obligations of a trustee with respect to property and funds administered by it, but the members of the Board are not personally liable, except for malfeasance.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1292; Pub. L. 98–497, title II, §202(a), Oct. 19, 1984, 98 Stat. 2293.)
 

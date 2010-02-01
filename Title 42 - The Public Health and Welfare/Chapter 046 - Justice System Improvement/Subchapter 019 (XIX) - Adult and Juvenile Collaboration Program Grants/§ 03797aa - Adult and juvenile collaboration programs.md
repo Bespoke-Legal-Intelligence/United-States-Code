@@ -28,7 +28,7 @@ In this section, the following definitions shall apply:
 
 #### (B) Appropriate use
 
-&emsp;&emsp;In this paragraph, the term “appropriate use” includes the discretion of the judge orsupervising authority, the leveraging of graduated sanctions to encourage compliance with treatment, and law enforcement diversion, including crisis intervention teams.
+&emsp;&emsp;In this paragraph, the term “appropriate use” includes the discretion of the judge or supervising authority, the leveraging of graduated sanctions to encourage compliance with treatment, and law enforcement diversion, including crisis intervention teams.
 
 #### (C) Graduated sanctions
 
@@ -100,11 +100,11 @@ In this section, the following definitions shall apply:
 
 #### (A) In general
 
-&emsp;&emsp;To receive a planning grant or an implementation grant, the joint applicants shall prepare and submit a single application to the Attorney General at such time, in suchmanner, and containing such information as the Attorney General and the Secretary shall reasonably require. An application under subchapter XII–J of this chapter may be made in conjunction with an application under this section.
+&emsp;&emsp;To receive a planning grant or an implementation grant, the joint applicants shall prepare and submit a single application to the Attorney General at such time, in such manner, and containing such information as the Attorney General and the Secretary shall reasonably require. An application under subchapter XII–J of this chapter may be made in conjunction with an application under this section.
 
 #### (B) Combined planning and implementation grant application
 
-&emsp;&emsp;The Attorney General and the Secretary shall develop a procedure under which applicants may apply at the same time and in a single application for a planning grant and an implementation grant, with receipt of the implementation grant conditioned on successful completion of the activities funded by the planning grant.
+&emsp;&emsp;The Attorney General and the Secretary shall develop a procedure under which applicants may apply at the same time and in asingle application for a planning grant and an implementation grant, with receipt of the implementation grant conditioned on successful completion of the activities funded by the planning grant.
 
 #### (4) Planning grants
 
@@ -176,9 +176,9 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(IV) determine eligibility for Federal benefits;
 
-&emsp;&emsp;&emsp;&emsp;(V) ensure that preliminarily qualified offenders served by the collaboration program will have adequate supervision and access to effective and appropriate community-based mental health services, including, in the case of individualswith co-occurring mental health and substance abuse disorders, coordinated services, which may range from consultation or collaboration to integration in a single setting treatment model;
+&emsp;&emsp;&emsp;&emsp;(V) ensure that preliminarily qualified offenders served by the collaboration program will have adequate supervision and access to effective and appropriate community-based mental health services, including, in the case of individuals with co-occurring mental health and substance abuse disorders, coordinated services, which may range from consultation or collaboration to integration in a single setting treatment model;
 
-&emsp;&emsp;&emsp;&emsp;(VI) make available, to the extent practicable, other support services that will ensure the preliminarily qualified offender's successful reintegration into the community (such as housing, education, job placement, mentoring, and health care and benefits, as well as the services of faith-based and community organizations for mentally ill individuals served by the collaboration program); and
+&emsp;&emsp;&emsp;&emsp;(VI) make available, to the extent practicable, other support services that will ensure the preliminarily qualified offender's successful reintegration into the community (such as housing, education, job placement, mentoring, and health care and benefits, as well as theservices of faith-based and community organizations for mentally ill individuals served by the collaboration program); and
 
 &emsp;&emsp;&emsp;&emsp;(VII) include strategies, to the extent practicable, to address developmental and learning disabilities and problems arising from a documented history of physical or sexual abuse.
 
@@ -334,7 +334,7 @@ Unless all eligible applications submitted by any State or unit of local governm
 
 #### (E) Campus security personnel training
 
-&emsp;&emsp;To provide for programs that offer campus security personnel training in procedures toidentify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved.
+&emsp;&emsp;To provide for programs that offer campus security personnel training in procedures to identify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved.
 
 #### (2) BJA training models
 
@@ -428,7 +428,7 @@ Pub. L. 108–414, §3, Oct. 30, 2004, 118 Stat. 2328, provided that: “The pur
 
 &emsp;“(4) promote adequate training for criminal justice system personnel about mental illness and substance abuse disorders and the appropriate responses to people with such illnesses;
 
-&emsp;“(5) promote adequate training for mental health and substance abuse treatment personnel about criminal offenders with mental illness or co-occurring substance abuse disorders and the appropriate response to such offenders in the criminal justice system;
+&emsp;“(5) promote adequate training for mental health and substance abuse treatment personnel about criminal offenders with mental illness or co-occurring substance abuse disorders and the appropriateresponse to such offenders in the criminal justice system;
 
 &emsp;“(6) promote communication among adult or juvenile justice personnel, mental health and co-occurring mental illness and substance abuse disorders treatment personnel, nonviolent offenders with mental illness or co-occurring mental illness and substance abuse disorders, and support services such as housing, job placement, community, faith-based, and crime victims organizations; and
 

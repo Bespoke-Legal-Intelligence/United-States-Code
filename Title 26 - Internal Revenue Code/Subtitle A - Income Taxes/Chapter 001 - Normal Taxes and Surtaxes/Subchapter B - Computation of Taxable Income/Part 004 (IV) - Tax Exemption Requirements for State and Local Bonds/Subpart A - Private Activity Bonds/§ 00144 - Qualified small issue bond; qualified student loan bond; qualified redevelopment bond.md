@@ -14,7 +14,7 @@
 
 &emsp;If—
 
-&emsp;&emsp;(A) the proceeds of 2 or more issues of bonds (whether or not the issuer of each such issue is the same) are or will be used primarily with respect to facilities located in the same incorporated municipality or located in the same county (but not in any incorporated municipality),
+&emsp;&emsp;(A) the proceeds of 2 or more issues of bonds (whether or not the issuer of eachsuch issue is the same) are or will be used primarily with respect to facilities located in the same incorporated municipality or located in the same county (but not in any incorporated municipality),
 
 &emsp;&emsp;(B) the principal user of such facilities is or will be the same person or 2 or more related persons, and
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(ii) the principal user of which is or will be the same person or 2 or more related persons.
 
-> &emsp;&emsp;For purposes of clause (i), the determination of whether or not facilities are located inthe same governmental unit shall be made as of the date of issue of the issue in question.
+> &emsp;&emsp;For purposes of clause (i), the determination of whether or not facilities are located in the same governmental unit shall be made as of the date of issue of the issue in question.
 
 #### (C) Certain capital expenditures not taken into account
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;(A) more than 25 percent of the net proceeds of the issue are to be used to provide a facility the primary purpose of which is one of the following: retail food and beverage services, automobile sales or service, or the provision of recreation or entertainment; or
 
-&emsp;&emsp;(B) any portion of the proceeds of the issue is to be used to provide the following: any private or commercial golf course, country club, massage parlor, tennis club, skating facility (including roller skating, skateboard,and ice skating), racquet sports facility (including any handball or racquetball court), hot tub facility, suntan facility, or racetrack.
+&emsp;&emsp;(B) any portion of the proceeds of the issue is to be used to provide the following: any private or commercial golf course, country club, massage parlor, tennis club, skating facility (including roller skating, skateboard, and ice skating), racquet sports facility (including any handball or racquetball court), hot tub facility, suntan facility, or racetrack.
 
 #### (9) Aggregation of issues with respect to single project
 
@@ -150,7 +150,7 @@
 
 #### (ii) Owners
 
-&emsp;&emsp;&emsp;Except as otherwise provided in regulations, the portion of the face amount of an issue allocated to any test-period beneficiary who is an owner of a facility financed by the proceeds of such issue is an amount which bears the same relationship to the entire face amount of such issue as the portion of such facility owned by such beneficiary bears to the entire facility.
+&emsp;&emsp;&emsp;Except as otherwise provided in regulations, the portion of the face amount of anissue allocated to any test-period beneficiary who is an owner of a facility financed by the proceeds of such issue is an amount which bears the same relationship to the entire face amount of such issue as the portion of such facility owned by such beneficiary bears to the entire facility.
 
 #### (D) Test-period beneficiary
 
@@ -192,7 +192,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount of the refunding bond does not exceed the outstanding amount of the refunded bond, and
 
-&emsp;&emsp;&emsp;&emsp;(III) the net proceeds of the refunding bond are used to redeem the refunded bond not later than 90 days after thedate of the issuance of the refunding bond.
+&emsp;&emsp;&emsp;&emsp;(III) the net proceeds of the refunding bond are used to redeem the refunded bond not later than 90 days after the date of the issuance of the refunding bond.
 
 > &emsp;&emsp;For purposes of clause (ii)(I), average maturity shall be determined in accordance with section 147(b)(2)(A).
 
@@ -206,11 +206,27 @@
 
 #### (C) Manufacturing facility
 
-&emsp;&emsp;For purposes of this paragraph, the term “manufacturing facility” means any facility which is used in the manufacturing or production of tangible personal property (including the processing resulting in a change in the condition of such property). A rule similar to the rule of section 142(b)(2) shall apply for purposes of the preceding sentence. For purposes of the 1st sentence of this subparagraph, the term “manufacturing facility” includes facilities which are directly related and ancillary to a manufacturing facility (determined without regard to this sentence) if—
+&emsp;&emsp;For purposes of this paragraph—
 
-&emsp;&emsp;&emsp;(i) such facilities are located on the same site as the manufacturing facility, and
+#### (i) In general
 
-&emsp;&emsp;&emsp;(ii) not more than 25 percent of the net proceeds of the issue are used to provide such facilities.
+&emsp;&emsp;&emsp;The term “manufacturing facility” means any facility which is used in the manufacturing or production of tangible personal property (including the processing resulting in a change in the condition of such property). A rule similar to the rule of section 142(b)(2) shall apply for purposes of the preceding sentence.
+
+#### (ii) Certain facilities included
+
+&emsp;&emsp;&emsp;Such term includes facilities which are directly related and ancillary to a manufacturing facility (determined without regard to this clause) if—
+
+&emsp;&emsp;&emsp;&emsp;(I) such facilities are located on the same site as the manufacturing facility, and
+
+&emsp;&emsp;&emsp;&emsp;(II) not more than 25 percent of the net proceeds of the issue are used to provide such facilities.
+
+#### (iii) Special rules for bonds issued in 2009 and 2010
+
+&emsp;&emsp;&emsp;In the case of any issue made after the date of enactment of this clause and before January 1, 2011, clause (ii) shall not apply and the net proceeds from a bond shall be considered to be used to provide a manufacturing facility if such proceeds are used to provide—
+
+&emsp;&emsp;&emsp;&emsp;(I) a facility which is used in the creation or production of intangible property which is described in section 197(d)(1)(C)(iii), or
+
+&emsp;&emsp;&emsp;&emsp;(II) a facility which is functionally related and subordinate to a manufacturing facility (determined without regard to this subclause) if such facility is located on the same site as the manufacturing facility.
 
 #### (b) Qualified student loan bond
 
@@ -314,7 +330,7 @@ For purposes of this part—
 
 #### (B) New construction not permitted
 
-&emsp;&emsp;The term “redevelopment purposes” does not include the construction (other than the rehabilitation) of any property or the enlargement of an existing building.
+&emsp;&emsp;The term “redevelopment purposes” does not include the construction (other than therehabilitation) of any property or the enlargement of an existing building.
 
 #### (4) Designated blighted area
 
@@ -358,7 +374,7 @@ For purposes of this part—
 
 &emsp;&emsp;(A) no owner or user of property located in the financed area is subject to a charge or fee which similarly situated owners or users of comparable property located outside such area are not subject, and
 
-&emsp;&emsp;(B) the assessment method or rate of real property taxes with respect to property located in the financed area does not differfrom the assessment method or rate of real property taxes with respect to comparable property located outside such area.
+&emsp;&emsp;(B) the assessment method or rate of real property taxes with respect to property located in the financed area does not differ from the assessment method or rate of real property taxes with respect to comparable property located outside such area.
 
 > &emsp;For purposes of the preceding sentence, the term “comparable property” means property which is of the same type as the property to which it is being compared and which is located within the jurisdiction of the designating governmental unit.
 
@@ -378,13 +394,15 @@ For purposes of this part—
 
 &emsp;Section 147(c) (other than paragraphs (1)(B) and (2) thereof) shall not apply to any qualified redevelopment bond.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2621; amended Pub. L. 100–647, title I, §1013(a)(4)(A), (B)(i), (ii), (C), (5), title VI, §6176(a), Nov. 10, 1988, 102 Stat. 3537, 3538, 3726; Pub. L. 101–239, title VII, §7105, Dec. 19, 1989, 103 Stat. 2306; Pub. L. 101–508, title XI, §11409(a), Nov. 5, 1990, 104 Stat. 1388–478; Pub. L. 102–227, title I, §109(a), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13122(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 108–357, title III, §340, Oct. 22, 2004, 118 Stat. 1485; Pub. L. 109–222, title II, §208, May 17, 2006, 120 Stat. 351.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2621; amended Pub. L. 100–647, title I, §1013(a)(4)(A), (B)(i), (ii), (C), (5), title VI, §6176(a), Nov. 10, 1988, 102 Stat. 3537, 3538, 3726; Pub. L. 101–239, title VII, §7105, Dec. 19, 1989, 103 Stat. 2306; Pub. L. 101–508, title XI, §11409(a), Nov. 5, 1990, 104 Stat. 1388–478; Pub. L. 102–227, title I, §109(a), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13122(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 108–357, title III, §340, Oct. 22, 2004, 118 Stat. 1485; Pub. L. 109–222, title II, §208,May 17, 2006, 120 Stat. 351; Pub. L. 111–5, div. B, title I, §1301(a), Feb. 17, 2009, 123 Stat. 344.)
 
 #### References in Text
 
 Section 119 of the Housing and Community Development Act of 1974, referred to in subsec. (a)(4)(F), is classified to section 5318 of Title 42, The Public Health and Welfare.
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (a)(10)(B)(ii)(II), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
+
+The date of enactment of this clause, referred to in subsec. (a)(12)(C)(iii), is the date of enactment of Pub. L. 111–5, which was approved Feb. 17, 2009.
 
 The Higher Education Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education. Section 428B(a) of that Act as enacted in the general amendment of part B of title IV of that Act by Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386, which is classified to section 1078–2 of Title 20, does not contain a par. (1). Section 438 of that Act is classified to section 1087–1 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
@@ -395,6 +413,12 @@ The Public Health Service Act, referred to in subsec. (b)(1)(B), is act July 1, 
 A prior section 144, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Feb. 26, 1964, Pub. L. 88–272, title I, §112(c), title II, §232(c), 78 Stat. 24, 110; Dec. 10, 1971, Pub. L. 92–178, title II, §206, title III, §301(c), 85 Stat. 511, 520; Oct. 4, 1976, Pub. L. 94–455, title V, §501(b)(3)–(5), title XIX, §1906(b)(13)(A), 90 Stat. 1558, 1559, 1834, related to method for electing to take standard deduction, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
+
+2009—Subsec. (a)(12)(C). Pub. L. 111–5 substituted dash for comma after “For purposes of this paragraph”, designated remainder of first sentence and second sentence of existing provisions as cl. (i) and inserted heading, substituted “The term” for “the term”, added cls. (ii) and (iii), and struck out former last sentence which read as follows: “For purposes of the 1st sentence of this subparagraph, the term ‘manufacturing facility’ includes facilities which are directly related and ancillary to a manufacturing facility (determined without regard to this sentence) if—
+
+&emsp;“(i) such facilities are located on the same site as the manufacturing facility, and
+
+&emsp;“(ii) not more than 25 percent of the net proceeds of the issue are used to provide such facilities.”
 
 2006—Subsec. (a)(4)(F), (G). Pub. L. 109–222 substituted “December 31, 2006” for “September 30, 2009”.
 
@@ -426,7 +450,11 @@ Subsec. (a)(12)(A)(ii)(III), (IV). Pub. L. 100–647, §1013(a)(4)(C), redesigna
 
 Subsec. (a)(12)(C). Pub. L. 100–647, §6176(a), inserted sentence at end defining “manufacturing facility”.
 
-Subsec. (b)(1). Pub. L. 100–647, §1013(a)(5), in subpar. (B) struck out “to which part B of title IV of the Higher Education Act of 1965 (relating to guaranteed student loans) does not apply” after “by the State”, substituted “of the Higher Education Act of 1965” for “of such Act”, amended last sentence generally, and inserted a new flush sentence at end of par. (1). Prior to amendment, last sentence of subpar. (B) read as follows: “A bond issued as part of an issue shall be treatedas a qualified student loan bond only if no bond which is part of such issue meets the private business tests of paragraphs (1) and (2) of section 141(b).”
+Subsec. (b)(1). Pub. L. 100–647, §1013(a)(5), in subpar. (B) struck out “to which part B of title IV of the Higher Education Act of 1965 (relating to guaranteed student loans) does not apply” after “by the State”, substituted “of the Higher Education Act of 1965” for “of such Act”, amended last sentence generally, and inserted a new flush sentence at end of par. (1). Prior to amendment, last sentence of subpar. (B) read as follows: “A bond issued as part of an issue shall be treated as a qualified student loan bond only if no bond which is part of such issue meets the private business tests of paragraphs (1) and (2) of section 141(b).”
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–5, div. B, title I, §1301(b), Feb. 17, 2009, 123 Stat. 345, provided that: “The amendments made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
 #### Effective Date of 1993 Amendment
 
@@ -448,7 +476,7 @@ Section 6176(b) of Pub. L. 100–647 provided that:
 
 “(1)
 
-In general.—The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Nov. 10, 1988\].
+In general.—The amendment made by subsection (a) \[amending this section\] shall apply to bondsissued after the date of the enactment of this Act \[Nov. 10, 1988\].
 
 “(2)
 

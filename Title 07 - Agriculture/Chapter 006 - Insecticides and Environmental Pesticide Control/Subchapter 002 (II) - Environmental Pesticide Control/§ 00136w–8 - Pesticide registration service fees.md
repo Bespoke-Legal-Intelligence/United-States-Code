@@ -170,7 +170,7 @@ In this section, the term “costs”, when used with respect to review and deci
 
 &emsp;&emsp;The Administrator shall exempt an application from the registration service fee if the Administrator determines that—
 
-&emsp;&emsp;&emsp;(i) the application is solely associated with a tolerance petition submitted in connection with the Inter-Regional Project Number 4 (IR–4) as described in section 450i(e) of this title; and
+&emsp;&emsp;&emsp;(i) the application is solely associated with a tolerance petition submitted in connection with the Inter-Regional Project Number 4 (IR–4) as described in section 2 of Public Law 89–106 (7 U.S.C. 450i(e)); and
 
 &emsp;&emsp;&emsp;(ii) the exemption is in the public interest.
 

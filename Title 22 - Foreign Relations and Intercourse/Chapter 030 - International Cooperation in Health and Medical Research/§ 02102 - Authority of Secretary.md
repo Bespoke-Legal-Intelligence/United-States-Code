@@ -2,7 +2,7 @@
 
 #### (a) Use of health research and research training resources
 
-To carry out the purposes of clause (1) of section 2101 of this title, the Secretary of Health, Education, and Welfare (hereafter referred to as the “Secretary”) may in the exercise of his responsibilities under the Vocational Rehabilitation Act, sections 191 to 194 of title 42, and any other provision of law, to conduct and support health research and research training, including research and research training relating to the rehabilitation of the handicapped, make such use of health research and research training resources in participating foreign countries as he may deem necessary and desirable.
+To carry out the purposes of clause (1) of section 2101 of this title, the Secretary of Health, Education, and Welfare (hereafter referred to as the “Secretary”) may in the exercise of his responsibilities under the Vocational Rehabilitation Act, sections 191 to 194 of title 42, and any other provision of law, to conduct and support health research and research training, including research and research training relating to therehabilitation of the handicapped, make such use of health research and research training resources in participating foreign countries as he may deem necessary and desirable.
 
 #### (b) Fellowships; equipment, meetings and conferences; interchange of scientists and experts; consultants; compensation and travel expenses
 
@@ -40,5 +40,5 @@ In subsec. (b)(5), (6), “section 5703 of title 5” and “section 3109 of tit
 
 #### Transfer of Functions
 
-For transfer of functions and offices relating to the Rehabilitation Act of 1973 \[see References in Text noteabove\] of Secretary and Department of Health, Education, and Welfare to Secretary and Department of Education and redesignation of Secretary of Health, Education, and Welfare as Secretary of Health and Human Services, see sections 3441 and 3508 of Title 20, Education.
+For transfer of functions and offices relating to the Rehabilitation Act of 1973 \[see References in Text note above\] of Secretary and Department of Health, Education, and Welfare to Secretary and Department of Education and redesignation of Secretary of Health, Education, and Welfare as Secretary of Health and Human Services, see sections 3441 and 3508 of Title 20, Education.
 

@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In any case where the Administrator determines, on his own initiative or upon nomination of a State under paragraph (1), that the attainment or maintenance of that water quality in an estuary which assures protection of public water supplies and the protection and propagation of a balanced, indigenous population of shellfish, fish, and wildlife, and allows recreational activities,in and on the water, requires the control of point and nonpoint sources of pollution to supplement existing controls of pollution in more than one State, the Administrator shall select such estuary and convene a management conference.
+&emsp;&emsp;In any case where the Administrator determines, on his own initiative or upon nomination of a State under paragraph (1), that the attainment or maintenance of that water quality in an estuary which assures protection of public water supplies and the protection and propagation of a balanced, indigenous population of shellfish, fish, and wildlife, and allows recreational activities, in and on the water, requires the control of point and nonpoint sources of pollution to supplement existing controls of pollution in more than one State, the Administrator shall select such estuary and convene a management conference.
 
 #### (B) Priority consideration
 
@@ -66,7 +66,7 @@ A management conference convened under this section shall be convened for a peri
 
 #### (1) Approval
 
-&emsp;Not later than 120 days after the completion of a conservation and management plan and after providing for public review and comment, the Administrator shall approve such plan if the plan meets the requirements of this section and the affected Governor or Governors concur.
+&emsp;Not later than 120 days after the completion of a conservation and management plan and after providing for public review and comment, the Administrator shall approve suchplan if the plan meets the requirements of this section and the affected Governor or Governors concur.
 
 #### (2) Implementation
 
@@ -132,13 +132,13 @@ There are authorized to be appropriated to the Administrator not to exceed $35,0
 
 &emsp;&emsp;(B) an assessment of the state and health of the Nation's estuarine zones, to the extent evaluated under this subsection;
 
-&emsp;&emsp;(C) a discussion of pollution problems and trends in pollutant concentrations with a direct or indirect effect on water quality, the ecosystem, and designated or potential uses of each estuarine zone, to the extent evaluated under this subsection; and
+&emsp;&emsp;(C) a discussion of pollution problems and trends in pollutant concentrations with a direct or indirect effect on water quality, the ecosystem, and designated or potential usesof each estuarine zone, to the extent evaluated under this subsection; and
 
 &emsp;&emsp;(D) an evaluation of pollution abatement activities and management measures so far implemented to determine the degree of improvement toward the objectives expressed in subsection (b)(4) of this section.
 
 #### (k) Definitions
 
-For purposes of this section, the terms “estuary” and “estuarine zone” have the meanings such terms have in section 1254(n)(4) of this title, except that the term “estuarine zone” shall also include associated aquatic ecosystemsand those portions of tributaries draining into the estuary up to the historic height of migration of anadromous fish or the historic head of tidal influence, whichever is higher.
+For purposes of this section, the terms “estuary” and “estuarine zone” have the meanings such terms have in section 1254(n)(4) of this title, except that the term “estuarine zone” shall also include associated aquatic ecosystems and those portions of tributaries draining into the estuary up to the historic height of migration of anadromous fish or the historic head of tidal influence, whichever is higher.
 
 (June 30, 1948, ch. 758, title III, §320, as added Pub. L. 100–4, title III, §317(b), Feb. 4, 1987, 101 Stat. 61; amended Pub. L. 100–202, §101(f) \[title II, 201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–197; Pub. L. 100–653, title X, §1004, Nov. 14, 1988, 102 Stat. 3836; Pub. L. 100–688, title II, §2001, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 105–362, title V, §501(a)(2), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–457, title III, §§301—303, Nov. 7, 2000, 114 Stat. 1972; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361; Pub. L. 108–399, §1, Oct. 30, 2004, 118 Stat. 2253.)
 

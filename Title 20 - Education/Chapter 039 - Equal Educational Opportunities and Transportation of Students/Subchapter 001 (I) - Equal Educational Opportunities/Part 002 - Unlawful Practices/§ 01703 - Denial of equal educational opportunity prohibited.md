@@ -12,7 +12,7 @@ No State shall deny equal educational opportunity to an individual on account of
 
 &emsp;(e) the transfer by an educational agency, whether voluntary or otherwise, of a student from one school to another if the purpose and effect of such transfer is to increase segregation of students on the basis of race, color, or national origin among the schools of such agency; or
 
-&emsp;(f) the failure by an educational agency to take appropriate action to overcome language barriers that impede equal participation by its students in its instructional programs.
+&emsp;(f) the failure by an educational agency to take appropriate action to overcome languagebarriers that impede equal participation by its students in its instructional programs.
 
 (Pub. L. 93–380, title II, §204, Aug. 21, 1974, 88 Stat. 515.)
 

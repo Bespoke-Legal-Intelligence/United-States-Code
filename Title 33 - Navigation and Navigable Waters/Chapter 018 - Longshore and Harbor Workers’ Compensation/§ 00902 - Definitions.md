@@ -18,7 +18,7 @@ When used in this chapter—
 
 &emsp;&emsp;(E) aquaculture workers;
 
-&emsp;&emsp;(F) individuals employed to build, repair, or dismantle any recreational vessel under sixty-five feet in length;
+&emsp;&emsp;(F) individuals employed to build any recreational vessel under sixty-five feet in length, or individuals employed to repair any recreational vessel, or to dismantle any part of a recreational vessel in connection with the repair of such vessel;
 
 &emsp;&emsp;(G) a master or member of a crew of any vessel; or
 
@@ -74,13 +74,17 @@ When used in this chapter—
 
 &emsp;(22) The singular includes the plural and the masculine includes the feminine and neuter.
 
-(Mar. 4, 1927, ch. 509, §2, 44 Stat. 1424; June 25, 1938, ch. 685, §1, 52 Stat. 1164; Pub. L. 92–576, §§2(a), (b), 3, 5(b), 15(c), 18(b), 20(c)(1), Oct. 27, 1972, 86 Stat. 1251, 1253, 1262, 1263, 1265; Pub. L. 98–426, §§2, 5(a)(2), 27(a)(1), Sept. 28, 1984, 98 Stat. 1639, 1641, 1654.)
+(Mar. 4, 1927, ch. 509, §2, 44 Stat. 1424; June 25, 1938, ch. 685, §1, 52 Stat. 1164; Pub. L. 92–576, §§2(a), (b), 3, 5(b), 15(c), 18(b), 20(c)(1), Oct. 27, 1972, 86 Stat. 1251, 1253, 1262, 1263, 1265; Pub. L. 98–426, §§2, 5(a)(2), 27(a)(1), Sept. 28, 1984, 98 Stat. 1639, 1641, 1654; Pub. L. 111–5, div. A, title VIII, §803, Feb. 17, 2009, 123 Stat. 187.)
 
 #### References in Text
 
 The phrase “a student as defined in paragraph (19) of this section”, referred to in par. (14), probably means a student as defined in paragraph (18) of this section.
 
 #### Amendments
+
+2009—Par. (3)(F). Pub. L. 111–5, §803(2), substituted “, or individuals employed to repair any recreational vessel, or to dismantle any part of a recreational vessel in connection with the repair of such vessel;” for semicolon at end.
+
+Pub. L. 111–5, §803(1), which directed the striking out of “, repair or dismantle”, was executed by striking out “, repair, or dismantle” after “build” to reflect the probable intent of Congress.
 
 1984—Par. (3). Pub. L. 98–426, §2(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘employee’ means any person engaged in maritime employment, including any longshoreman or other person engaged in longshoring operations, and any harborworker including a ship repairman, shipbuilder, and shipbreaker, but such term does not include a master or member of a crew of any vessel, or any person engaged by the master to load or unload or repair any small vessel under eighteen tons net.”
 
@@ -122,7 +126,7 @@ Amendment by sections 2(a) and 5(a)(2) of Pub. L. 98–426 applicable with respe
 
 Section 20(c)(3) of Pub. L. 92–576 provided that: “The amendments made by this subsection \[amending this section and section 909 of this title\] shall apply only with respect to deaths or injuries occurring after the enactment of this Act, \[Oct. 27, 1972\].”
 
-Section 22 of Pub. L. 92–576 provided that: “The amendments made by this Act \[see Short Title note setout under section 901 of this title\] shall become effective thirty days after the date of enactment of this Act \[Oct. 27, 1972\].”
+Section 22 of Pub. L. 92–576 provided that: “The amendments made by this Act \[see Short Title note set out under section 901 of this title\] shall become effective thirty days after the date of enactment of this Act \[Oct. 27, 1972\].”
 
 #### Transfer of Functions
 

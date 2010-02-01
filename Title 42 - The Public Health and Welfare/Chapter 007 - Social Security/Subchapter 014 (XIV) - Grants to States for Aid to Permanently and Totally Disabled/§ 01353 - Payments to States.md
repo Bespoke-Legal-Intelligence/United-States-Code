@@ -1,6 +1,6 @@
 ### §1353. Payments to States
 
-(a) From the sums appropriated therefor, the Secretary of the Treasury shall pay to eachState which has an approved plan for aid to the permanently and totally disabled, for each quarter, beginning with the quarter commencing October 1, 1958—
+(a) From the sums appropriated therefor, the Secretary of the Treasury shall pay to each State which has an approved plan for aid to the permanently and totally disabled, for each quarter, beginning with the quarter commencing October 1, 1958—
 
 &emsp;(1) Repealed. Pub. L. 97–35, title XXI, §2184(c)(2)(A), Aug. 13, 1981, 95 Stat. 817.
 
@@ -78,7 +78,7 @@ Subsec. (c). Pub. L. 87–543, §101(b)(4)(C), added subsec. (c).
 
 Act Aug. 1, 1956, §314(c), struck out “, which shall be used exclusively as aid to the permanently and totally disabled,” after “the Virgin Islands, an amount” in cls. (1) and (2), and substituted “including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of such aid to help them attain self-support or self-care” for “which amount shall be used for paying the costs of administering the State plan or for aid to the permanently and totally disabled or both, and for no other purpose” in cl. (3).
 
-Act Aug. 1, 1956, §344, substituted “October 1, 1956” for “October 1, 1952”, struck out “, which shall be used exclusively as aid to the permanently and totally disabled,” after “the Virgin Islands, an amount” in cls. (1) and (2), and substituted “$60” for “$55”, “the product of $30” for “the product of $25”, “Secretary of Health, Education, and Welfare” for “Secretary”, and “including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for andrecipients of such aid to help them attain self-support or self-care” for “which amount shall be used for paying the costs of administering the State plan or for aid to the permanently and totally disabled, or both, and for no other purpose”.
+Act Aug. 1, 1956, §344, substituted “October 1, 1956” for “October 1, 1952”, struck out “, which shall be used exclusively as aid to the permanently and totally disabled,” after “the Virgin Islands, an amount” in cls. (1) and (2), and substituted “$60” for “$55”, “the product of $30” for “the product of $25”, “Secretary of Health, Education, and Welfare” for “Secretary”, and “including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of such aid to help them attain self-support or self-care” for “which amount shall be used for paying the costs of administering the State plan or for aid to the permanently and totally disabled, or both, and for no other purpose”.
 
 1952—Subsec. (a). Act July 18, 1952, increased the Federal share of the State's average monthly payment to four-fifths of the first $25 plus one-half of the remainder within individual maximums of $55, and changed formulas for computing the Federal share of public assistance for Puerto Rico and the Virgin Islands.
 

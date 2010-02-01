@@ -38,7 +38,7 @@ Limitation on Construction of Landfills.—
 
 &emsp;(1)
 
-In general.—No person shall construct or establish a municipal solid waste landfill (as defined in section 258.2 of title 40, Code of Federal Regulations, as in effect on the date of the enactment of this subsection) that receives putrescible waste (as defined in section 257.3–8 of such title) within 6 miles of a public airport that has received grants under chapter 471 and is primarily served by general aviation aircraft and regularly scheduled flights of aircraft designed for 60 passengers or less unless the State aviation agency of the State in which the airport is located requests that theAdministrator of the Federal Aviation Administration exempt the landfill from the application of this subsection and the Administrator determines that such exemption would have no adverse impact on aviation safety.
+In general.—No person shall construct or establish a municipal solid waste landfill (as defined in section 258.2 of title 40, Code of Federal Regulations, as in effect on the date of the enactment of this subsection) that receives putrescible waste (as defined in section 257.3–8 of such title) within 6 miles of a public airport that has received grants under chapter 471 and is primarily served by general aviation aircraft and regularly scheduled flights of aircraft designed for 60 passengers or less unless the State aviation agency of the State in which the airport is located requests that the Administrator of the Federal Aviation Administration exempt the landfill from the application of this subsection and the Administrator determines that such exemption would have no adverse impact on aviation safety.
 
 &emsp;(2)
 

@@ -8,7 +8,7 @@
 
 #### (b) Subcontracts
 
-(1) The Federal Acquisition Regulation shall include a list of provisions of law that are inapplicable to subcontracts under either a contractfor the procurement of commercial items or a subcontract for the procurement of commercial items. A provision of law that is properly included on the list pursuant to paragraph (2) may not be construed as applicable to such subcontracts. Nothing in this section shall be construed to render inapplicable to subcontracts under a contract for the procurement of commercial items any provision of law that is not included on such list.
+(1) The Federal Acquisition Regulation shall include a list of provisions of law that are inapplicable to subcontracts under either a contract for the procurement of commercial items or a subcontract for the procurement of commercial items. A provision of law that is properly included on the list pursuant to paragraph (2) may not be construed as applicable to such subcontracts. Nothing in this section shall be construed to render inapplicable to subcontracts under a contract for the procurement of commercial items any provision of law that is not included on such list.
 
 (2) A provision of law described in subsection (c) of this section shall be included on the list of inapplicable provisions of law required by paragraph (1) unless the Federal Acquisition Regulatory Council makes a written determination that it would not be in the best interest of the Federal Government to exempt subcontracts under a contract for the procurement of commercial items from the applicability of the provision.
 

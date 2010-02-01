@@ -18,7 +18,7 @@
 
 &emsp;(B) the Director determines that requiring an annual audited financial statement for the agency with respect to the fiscal year is not warranted due to the absence of risks associated with the agency's operations, the agency's demonstrated performance, or other factors that the Director considers relevant.
 
-(2) The Director shall annually notify the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate of each agencythe Director has exempted under this subsection and the reasons for each exemption.
+(2) The Director shall annually notify the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate of each agency the Director has exempted under this subsection and the reasons for each exemption.
 
 (f) The term “covered executive agency”—
 
@@ -44,7 +44,7 @@ Subsecs. (e) to (h). Pub. L. 106–531, §4(a)(2), struck out subsecs. (e) to (h
 
 “(e) The Director of the Office of Management and Budget may waive the application of all or part of subsection (a) for financial statements required for fiscal years 1996 and 1997.
 
-“(f) Not later than March 1 of 1995 and 1996, the head of each executive agency identified in section 901(b) of this title and designated by the Director of the Office of Management and Budget shall prepare and submit to the Director of the Office of Management and Budget an audited financial statement for the preceding fiscal year, covering all accounts and associated activities of each office, bureau, and activity of the agency.
+“(f) Not later than March 1 of 1995 and 1996, the head of each executive agency identified in section 901(b) of this title and designated by the Director of the Office of Management and Budget shall prepare and submit tothe Director of the Office of Management and Budget an audited financial statement for the preceding fiscal year, covering all accounts and associated activities of each office, bureau, and activity of the agency.
 
 “(g) Not later than March 31 of 1995 and 1996, for executive agencies not designated by the Director of the Office of Management and Budget under subsection (f), the head of each executive agency identified in section 901(b) of this title shall prepare and submit to the Director of the Office of Management and Budget a financial statement for the preceding fiscal year, covering—
 

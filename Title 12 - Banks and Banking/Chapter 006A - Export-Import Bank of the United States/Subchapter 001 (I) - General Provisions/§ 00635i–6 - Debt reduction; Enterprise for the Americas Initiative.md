@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (1) Authority to sell, reduce, or cancel certain loans
 
-&emsp;Notwithstanding any other provision of law, the President may, in accordance with this section, sell to any eligible purchaser any loan or portion thereof made before January 1, 1992, to any eligible country or any agency thereof pursuant to this subchapter, or, on receipt of payment from an eligible purchaser, reduce or cancel such loan or portion thereof, only for the purpose of facilitating—
+&emsp;Notwithstanding any other provision of law, the President may, in accordance with this section, sell to any eligible purchaser any loanor portion thereof made before January 1, 1992, to any eligible country or any agency thereof pursuant to this subchapter, or, on receipt of payment from an eligible purchaser, reduce or cancel such loan or portion thereof, only for the purpose of facilitating—
 
 &emsp;&emsp;(A) debt-for-equity swaps, debt-for-development swaps, or debt-for-nature swaps; or
 
@@ -80,7 +80,7 @@ For the sale, reduction, and cancellation of loans or portions thereof pursuant 
 
 #### References in Text
 
-The Securities Act of 1933, referred to in subsec. (c)(3), is title I of act May 27, 1933, ch. 38, 48 Stat. 74,as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in subsec. (c)(3), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (c)(5), is title V of Pub. L. 93–344, as added Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 621 of Title 2 and Tables.
 

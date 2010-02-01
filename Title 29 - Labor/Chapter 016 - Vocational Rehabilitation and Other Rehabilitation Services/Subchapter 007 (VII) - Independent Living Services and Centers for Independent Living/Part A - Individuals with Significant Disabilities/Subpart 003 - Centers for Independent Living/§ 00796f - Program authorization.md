@@ -8,7 +8,7 @@ From the funds appropriated for fiscal year 1999 and for each subsequent fiscal 
 
 #### (1) Grants; contracts; other arrangements
 
-&emsp;For any fiscal year in which the funds appropriated to carry out this subpart exceed the funds appropriated to carry out this subpart for fiscal year 1993, the Commissioner shall first reserve from such excess, to provide training and technical assistance to eligible agencies, centers for independent living, and Statewide Independent Living Councils for such fiscal year, not less than 1.8 percent, and not more than 2 percent, of the funds appropriated to carry out this subpart for the fiscal year involved.
+&emsp;For any fiscal year in which the funds appropriated to carry out this subpart exceed the funds appropriated to carry out this subpart for fiscal year 1993, the Commissioner shallfirst reserve from such excess, to provide training and technical assistance to eligible agencies, centers for independent living, and Statewide Independent Living Councils for such fiscal year, not less than 1.8 percent, and not more than 2 percent, of the funds appropriated to carry out this subpart for the fiscal year involved.
 
 #### (2) Allocation
 
@@ -52,7 +52,7 @@ From the funds appropriated for fiscal year 1999 and for each subsequent fiscal 
 
 #### (A) In general
 
-&emsp;&emsp;For the purposes of paragraph (1)(C), Guam, American Samoa, the United StatesVirgin Islands, and the Commonwealth of the Northern Mariana Islands shall not be considered to be States.
+&emsp;&emsp;For the purposes of paragraph (1)(C), Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands shall not be considered to be States.
 
 #### (B) Allotment
 

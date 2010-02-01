@@ -30,13 +30,13 @@
 
 &emsp;(4) Nothing in this section shall be considered to preclude the President, in his discretion, from adjusting comparability payments to a level higher than the minimum level otherwise required in a calendar year, including to the level necessary to eliminate a locality's pay disparity completely.
 
-(b) After the ninth calendar year (referred to in subsection (a)(3)(I)), the level of comparability payments payable within such locality may be reduced for any subsequent calendar year, but only if, or to the extent that, the reduction would not immediately create another pay disparity in excess of 5 percent within the locality (taking into consideration any comparability payments remaining payable).
+(b) After the ninth calendar year (referred to in subsection (a)(3)(I)), the level of comparability payments payable within such locality may be reduced for any subsequent calendar year, butonly if, or to the extent that, the reduction would not immediately create another pay disparity in excess of 5 percent within the locality (taking into consideration any comparability payments remaining payable).
 
 (c)(1) The amount of the comparability payment payable within any particular locality during a calendar year—
 
 &emsp;(A) shall be stated as a single percentage, which shall be uniformly applicable to General Schedule positions within the locality; and
 
-&emsp;(B) shall, for any employee entitled to receive a comparability payment, be computedby applying that percentage to such employee's scheduled rate of basic pay (or, if lower due to a limitation on the rate payable, the rate actually payable), subject to subsection (g).
+&emsp;(B) shall, for any employee entitled to receive a comparability payment, be computed by applying that percentage to such employee's scheduled rate of basic pay (or, if lower due to a limitation on the rate payable, the rate actually payable), subject to subsection (g).
 
 (2) A comparability payment—
 
@@ -98,7 +98,7 @@
 
 (f)(1) The pay agent may provide for such pay localities as the pay agent considers appropriate, except that—
 
-&emsp;(A) each General Schedule position (excluding any outside the continental United States, as defined in section 5701(6)) shall be included with a pay locality; and
+&emsp;(A) each General Schedule position in the United States, as defined under section 5921(4), and its territories and possessions, including the Commonwealth of Puerto Rico and the Commonwealth of the Northern Mariana Islands, shall be included within a pay locality; and
 
 &emsp;(B) the boundaries of pay localities shall be determined based on appropriate factors which may include local labor market patterns, commuting patterns, and practices of other employers.
 
@@ -110,17 +110,23 @@
 
 (2) The applicable maximum under this subsection shall be level III of the Executive Schedule for—
 
-&emsp;(A) positions under subparagraphs (A) and (B) of subsection (h)(1); and
+&emsp;(A) positions under subparagraphs (A) and (B) of subsection (h)(1);
 
-&emsp;(B) any positions under subsection (h)(1)(C) as the President may determine.
+&emsp;(B) positions under subsection (h)(1)(C) not covered by appraisal systems certified under subsection 5307(d); and
+
+&emsp;(C) any positions under subsection (h)(1)(D) as the President may determine.
+
+(3) The applicable maximum under this subsection shall be level II of the Executive Schedule for positions under subsection (h)(1)(C) covered by appraisal systems certified under section 5307(d).
 
 (h)(1) For the purpose of this subsection, the term “position” means—
 
 &emsp;(A) a position to which section 5372 applies (relating to administrative law judges appointed under section 3105);
 
-&emsp;(B) a position to which section 5372a applies (relating to contract appeals board members); and
+&emsp;(B) a position to which section 5372a applies (relating to contract appeals board members);
 
-&emsp;(C) a position within an Executive agency not covered under the General Schedule or any of the preceding subparagraphs, the rate of basic pay for which is (or, but for this section, would be) no more than the rate payable for level IV of the Executive Schedule;
+&emsp;(C) a Senior Executive Service position under section 3132 or 3151 or a senior level position under section 5376 stationed within the United States, but outside the 48 contiguous States and the District of Columbia in which the incumbent was an individual who on the day before the effective date of section 1912 of the Non-Foreign Area Retirement Equity Assurance Act of 2009 was eligible to receive a cost-of-living allowance under section 5941 and who thereafter has served continuously in an area in which such an allowance was payable; and
+
+&emsp;(D) a position within an Executive agency not covered under the General Schedule or any of the preceding subparagraphs, the rate of basic pay for which is (or, but for this section, would be) no more than the rate payable for level IV of the Executive Schedule;
 
 > but does not include—
 
@@ -130,21 +136,21 @@
 
 &emsp;(iii) a position to which subchapter II applies (relating to the Executive Schedule);
 
-&emsp;(iv) a Senior Executive Service position under section 3132;
+&emsp;(iv) a Senior Executive Service position under section 3132, except for a position covered by subparagraph (C);
 
-&emsp;(v) a position in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service under section 3151;
+&emsp;(v) a position in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service under section 3151, except for a position covered by subparagraph (C);
 
 &emsp;(vi) a position in a system equivalent to the system in clause (iv), as determined by the President's Pay Agent designated under subsection (d); or
 
-&emsp;(vii) a position to which section 5376 applies (relating to certain senior-level and scientific and professional positions).
+&emsp;(vii) a position to which section 5376 applies (relating to certain senior-level and scientific and professional positions), except for a position covered by subparagraph (C).
 
 (2)(A) Notwithstanding subsection (c)(4) or any other provision of this section, but subject to subparagraph (B) and paragraph (3), upon the request of the head of an Executive agency with respect to 1 or more categories of positions, the President may provide that each employee of such agency who holds a position within such category, and within the particular locality involved, shall be entitled to receive comparability payments.
 
 (B) A request by an agency head or exercise of authority by the President under subparagraph (A) shall cover—
 
-&emsp;(i) with respect to the positions under subparagraphs (A) and (B) of paragraph (1), all positions described in the subparagraph or subparagraphs involved (excluding any under clause (i), (ii), (iii), (iv), (v), (vi), or (vii) of such paragraph); and
+&emsp;(i) with respect to the positions under subparagraphs (A) through (C) of paragraph (1), all positions described in the subparagraph or subparagraphs involved (excluding any underclause (i), (ii), (iii), (iv), (v), (vi), or (vii) of such paragraph); and
 
-&emsp;(ii) with respect to positions under paragraph (1)(C), such positions as may be considered appropriate (excluding any under clause (i), (ii), (iii), (iv), (v), (vi), or (vii) of paragraph (1)).
+&emsp;(ii) with respect to positions under paragraph (1)(D), such positions as may be considered appropriate (excluding any under clause (i), (ii), (iii), (iv), (v), (vi), or (vii) of paragraph (1)).
 
 (C) Notwithstanding subsection (c)(4) or any other provision of law, but subject to paragraph (3), in the case of a category with positions that are in more than 1 Executive agency, the President may, on his own initiative, provide that each employee who holds a position within such category, and in the locality involved, shall be entitled to receive comparability payments. No later than 30 days before an employee receives comparability payments under this subparagraph, the President or the President's designee shall submit a detailed report to the Congress justifying the reasons for the extension, including consideration of recruitment and retention rates and the expense of extending locality pay.
 
@@ -160,7 +166,7 @@
 
 (i) The Office of Personnel Management may prescribe regulations, consistent with the provisions of this section, governing the payment of comparability payments to employees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 459; Pub. L. 91–375, §6(c)(11), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, §2314(c)(3), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1431; Pub. L. 102–378, §2(26), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 108–136, div. A, title XI, §1125(a)(1), Nov. 24, 2003, 117 Stat. 1638; Pub. L. 108–411, title III, §302(a)(1), Oct. 30, 2004, 118 Stat. 2318; Pub. L. 110–372, §2(a), Oct. 8, 2008, 122 Stat. 4043.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 459; Pub. L. 91–375, §6(c)(11), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, §2314(c)(3), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1431; Pub. L. 102–378, §2(26), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 108–136, div. A, title XI, §1125(a)(1), Nov. 24, 2003, 117 Stat. 1638; Pub. L. 108–411, title III, §302(a)(1), Oct. 30, 2004, 118 Stat. 2318; Pub. L. 110–372, §2(a), Oct. 8, 2008, 122 Stat. 4043; Pub. L. 111–84, div. A, title XIX, §1912(a), Oct. 28, 2009, 123 Stat. 2619.)
 
 Historical and Revision Notes
 
@@ -186,9 +192,27 @@ The General Schedule, referred to in text, is set out under section 5332 of this
 
 Section 5302(8)(C), referred to in subsec. (d)(1)(A), was redesignated 5302(8)(B) of this title by Pub. L. 103–89, §3(b)(1)(E)(i)(II), Sept. 30, 1993, 107 Stat. 981.
 
-Levels III and IV of the Executive Schedule, referred to in subsecs. (g) and (h)(1)(C), are set out in sections 5314 and 5315, respectively, of this title.
+Levels II, III, and IV of the Executive Schedule, referred to in subsecs. (g) and (h)(1)(D), are set out in sections 5313, 5314, and 5315, respectively, of this title.
+
+For the effective date of section 1912 of the Non-Foreign Area Retirement Equity Assurance Act of 2009 \[Pub. L. 111–84\], referred to in subsec. (h)(1)(C), see section 1919(b) of Pub. L. 111–84, set out in a note below.
 
 #### Amendments
+
+2009—Subsec. (f)(1)(A). Pub. L. 111–84, §1912(a)(1), added subpar. (A) and struck out former subpar. (A), which read as follows: “each General Schedule position (excluding any outside the continental United States, as defined in section 5701(6)) shall be included with a pay locality; and”.
+
+Subsec. (g)(2)(B), (C). Pub. L. 111–84, §1912(a)(2)(A), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “any positions under subsection (h)(1)(C) as the President may determine.”
+
+Subsec. (g)(3). Pub. L. 111–84, §1912(a)(2)(B), added par. (3).
+
+Subsec. (h)(1)(C), (D). Pub. L. 111–84, §1912(a)(3)(A)–(C), added subpar. (C) and redesignated former subpar. (C) as (D).
+
+Subsec. (h)(1)(iv), (v). Pub. L. 111–84, §1912(a)(3)(D), (E), inserted “, except for a position covered by subparagraph (C)” before the semicolon.
+
+Subsec. (h)(1)(vii). Pub. L. 111–84, §1912(a)(3)(F), inserted “, except for a position covered by subparagraph (C)” before the period.
+
+Subsec. (h)(2)(B)(i). Pub. L. 111–84, §1912(a)(4)(A), substituted “through (C)” for “and (B)”.
+
+Subsec. (h)(2)(B)(ii). Pub. L. 111–84, §1912(a)(4)(B), substituted “(1)(D)” for “(1)(C)”.
 
 2008—Subsec. (g)(2). Pub. L. 110–372, §2(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
@@ -256,6 +280,10 @@ Subsec. (h)(3)(B). Pub. L. 102–378, §2(26)(E)(iii), amended subpar. (B) gener
 
 1970—Pub. L. 91–375 struck out provisions making functions, duties and regulations of the agencies and the Civil Service Commission with respect to the provisions of part III of title 39 relating to employees in the postal field service subject to Presidential policies and regulations.
 
+#### Effective Date of 2009 Amendment
+
+For effective date of amendment by Pub. L. 111–84, see section 1919 of Pub. L. 111–84, set out in a Non-Foreign Area Retirement Equity Assurance note below.
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–372 effective on the first day of the first pay period beginning on or after the 180th day following Oct. 8, 2008, see section 2(d) of Pub. L. 110–372, set out as a note under section 5376 of this title.
@@ -294,7 +322,285 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 #### Delegation of Functions
 
-For designation of agents of President under subsecs. (d)(1) and (h) of this section, see Ex. Ord. No. 12748, §2(a), Feb. 1, 1991, 56 F.R. 4521, eff. Feb. 3, 1991, set out as a note under section 5301 of this title.
+For designation of agents of President under subsecs. (d)(1) and (h) of this section, see Ex. Ord. No. 12748,§2(a), Feb. 1, 1991, 56 F.R. 4521, eff. Feb. 3, 1991, set out as a note under section 5301 of this title.
+
+#### Non-Foreign Area Retirement Equity Assurance
+
+Pub. L. 111–84, div. A, title XIX, subtitle B, Oct. 28, 2009, 123 Stat. 2619, provided that:
+
+#### “SEC. 1911. SHORT TITLE.
+
+“This subtitle may be cited as the ‘Non-Foreign Area Retirement Equity Assurance Act of 2009’ or the ‘Non-Foreign AREA Act of 2009’.
+
+#### “SEC. 1912. EXTENSION OF LOCALITY PAY.
+
+“(a)
+
+Locality-based Comparability Payments.—\[Amended this section.\]
+
+“(b)
+
+Allowances Based on Living Costs and Conditions of Environment.—\[Amended section 5941 of this title.\]
+
+#### “SEC. 1913. ADJUSTMENT OF SPECIAL RATES.
+
+“(a)
+
+In General.—Each special rate of pay established under section 5305 of title 5, United States Code, and payable in an area designated as a cost-of-living allowance area under section 5941(a) of that title, shall be adjusted, on the dates prescribed by section 1914, in accordance with regulations prescribed by the Director of the Office of Personnel Management under section 1918.
+
+“(b)
+
+Agencies With Statutory Authority.—
+
+&emsp;“(1)
+
+In general.—Each special rate of pay established under an authority described under paragraph (2) and payable in a location designated as a cost-of-living allowance area under section 5941(a)(1) of title 5, United States Code, shall be adjusted in accordance with regulations prescribed by the applicable head of the agency that are consistent with the regulations issued by the Director of the Office of Personnel Management under subsection (a).
+
+&emsp;“(2)
+
+Statutory authority.—The authority referred to under paragraph (1), \[sic\] is any statutory authority that—
+
+&emsp;&emsp;“(A) is similar to the authority exercised under section 5305 of title 5, United States Code;
+
+&emsp;&emsp;“(B) is exercised by the head of an agency when the head of the agency determines it to be necessary in order to obtain or retain the services of persons specified by statute; and
+
+&emsp;&emsp;“(C) authorizes the head of the agency to increase the minimum, intermediate, or maximum rates of basic pay authorized under applicable statutes and regulations.
+
+“(c)
+
+Temporary Adjustment.—Regulations issued under subsection (a) or (b) may provide that statutory limitations on the amount of such special rates may be temporarily raised to a higher level during the transition period described in section 1914 ending on the first day of the first pay period beginning on or after January 1, 2012, at which time any special rate of pay in excess of the applicable limitation shall be converted to a retained rate under section 5363 of title 5, United States Code.
+
+#### “SEC. 1914. TRANSITION SCHEDULE FOR LOCALITY-BASED COMPARABILITY PAYMENTS.
+
+“Notwithstanding any other provision of this subtitle or section 5304 or 5304a of title 5, United States Code, in implementing the amendments made by this subtitle, for each non-foreign area determined under section 5941(b) of such title, the applicable rate for the locality-based comparability adjustment that is used in the computation required under section 5941(c) of such title shall be adjusted, effective on the first day of the first pay period beginning on or after January 1—
+
+&emsp;“(1) in calendar year 2010, by using 1/3 of the locality pay percentage for the rest of United States locality pay area;
+
+&emsp;“(2) in calendar year 2011, by using 2/3 of the otherwise applicable comparability payment approved by the President for each non-foreign area; and
+
+&emsp;“(3) in calendar year 2012 and each subsequent year, by using the full amount of the applicable comparability payment approved by the President for each non-foreign area.
+
+#### “SEC. 1915. SAVINGS PROVISION.
+
+“(a)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;“(1) the application of this subtitle to any employee should not result in a decrease in the take home pay of that employee;
+
+&emsp;“(2) in calendar year 2012 and each subsequent year, no employee shall receive less than the Rest of the U.S. locality pay rate;
+
+&emsp;“(3) concurrent with the surveys next conducted under the provisions of section 5304(d)(1)(A) of title 5, United States Code, beginning after the date of the enactment of this Act \[Oct. 28, 2009\], the Bureau of Labor Statistics should conduct separate surveys to determine the extent of any pay disparity (as defined by section 5302 of that title) that may exist with respect to positions located in the State of Alaska, the State of Hawaii, and the United States territories, including American Samoa, Guam, Commonwealth of the Northern Mariana Islands, Commonwealth of Puerto Rico, and the United States Virgin Islands;
+
+&emsp;“(4) if the surveys under paragraph (3) indicate that the pay disparity determined for the State of Alaska, the State of Hawaii, or any 1 of the United States territories including American Samoa, Guam, Commonwealth of the Northern Mariana Islands, Commonwealth of Puerto Rico, and the United States Virgin Islands exceeds the pay disparity determined for the locality which (for purposes of section 5304 of that title) is commonly known as the ‘Rest of the United States’, the President's Pay Agent should take appropriate measures to provide that each such surveyed area be treated as a separate pay locality for purposes of that section; and
+
+&emsp;“(5) the President's Pay Agent will establish 1 locality area for the entire State of Hawaii and 1 locality area for the entire State of Alaska.
+
+“(b)
+
+Savings Provisions.—
+
+&emsp;“(1)
+
+In general.—During the transition period described in section 1914 ending on the first day of the first pay period beginning on or after January 1, 2012, an employee paid a special rate under 5305 of title 5, United States Code, who the day before the date of enactment of this Act \[Oct. 28, 2009\] was eligible to receive a cost-of-living allowance under section 5941 of title 5, United States Code, and who continues to be officially stationed in an allowance area, shall receive an increase in the employee's special rate consistent with increases in the applicable special rate schedule. For employees in allowance areas, the minimum step rate for any grade of a special rate schedule shall be increased at the time of an increase in the applicable locality rate percentage for the allowance area by not less than the dollar increase in the locality-based comparability payment for a non-special rate employee at the same minimum step provided under section 1914 of this subtitle, and corresponding increases shall be provided for all step rates of the given pay range.
+
+&emsp;“(2)
+
+Continuation of cost of living allowance rate.—If an employee, who the day before the date of enactment of this Act was eligible to receive a cost-of-living allowance under section 5941 of title 5, United States Code, would receive a rate of basic pay and applicable locality-based comparability payment which is in excess of the maximum rate limitation set under section 5304(g) of title 5, United States Code, for his position (but for that maximum rate limitation) due to the operation of this subtitle, the employee shall continue to receive the cost-of-living allowance rate in effect on December 31, 2009 without adjustment until—
+
+&emsp;&emsp;“(A) the employee leaves the allowance area or pay system; or
+
+&emsp;&emsp;“(B) the employee is entitled to receive basic pay (including any applicable locality-based comparability payment or similar supplement) at a higher rate,
+
+> &emsp;but, when any such position becomes vacant, the pay of any subsequent appointee thereto shall be fixed inthe manner provided by applicable law and regulation.
+
+&emsp;“(3)
+
+Locality-based comparability payments.—Any employee covered under paragraph (2) shall receive any applicable locality-based comparability payment extended under section 1914 of this subtitle which is not in excess of the maximum rate set under section 5304(g) of title 5, United States Code, for his position including any future increase to statutory pay limitations under 5318 of title 5, United States Code. Notwithstanding paragraph (2), to the extent that an employee covered under that paragraph receives any amount of locality-based comparability payment, the cost-of-living allowance rate under that paragraph shall be reduced accordingly, as provided under section 5941(c)(2)(B) of title 5, United States Code.
+
+#### “SEC. 1916. APPLICATION TO OTHER ELIGIBLE EMPLOYEES.
+
+“(a)
+
+In General.—
+
+&emsp;“(1)
+
+Definition.—In this subsection, the term ‘covered employee’ means—
+
+&emsp;&emsp;“(A) any employee who—
+
+&emsp;&emsp;&emsp;“(i) on the day before the date of enactment of this Act \[Oct. 28, 2009\]—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) was eligible to be paid a cost-of-living allowance under 5941 of title 5, United States Code; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) was not eligible to be paid locality-based comparability payments under 5304 or 5304a of that title; or
+
+&emsp;&emsp;&emsp;“(ii) on or after the date of enactment of this Act becomes eligible to be paid a cost-of-living allowance under 5941 of title 5, United States Code; or
+
+&emsp;&emsp;“(B) any employee who—
+
+&emsp;&emsp;&emsp;“(i) on the day before the date of enactment of this Act—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) was eligible to be paid an allowance under section 1603(b) of title 10, United States Code;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) was eligible to be paid an allowance under section 1005(b) of title 39, United States Code;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) was employed by the Transportation Security Administration of the Department of Homeland Security and was eligible to be paid an allowance based on section 5941 of title 5, United States Code; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) was eligible to be paid under any other authority a cost-of-living allowance that is equivalent to the cost-of-living allowance under section 5941 of title 5, United States Code; or
+
+&emsp;&emsp;&emsp;“(ii) on or after the date of enactment of this Act \[Oct. 28, 2009\]—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) becomes eligible to be paid an allowance under section 1603(b) of title 10, United States Code;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) becomes eligible to be paid an allowance under section 1005(b) of title 39, United States Code;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) is employed by the Transportation Security Administration of the Department of Homeland Security and becomes eligible to be paid an allowance based on section 5941 of title 5, United States Code; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) becomes eligible to be paid under any other authority a cost-of-living allowance that is equivalent to the cost-of-living allowance under section 5941 of title 5, United States Code.
+
+&emsp;“(2)
+
+Application to covered employees.—
+
+&emsp;&emsp;“(A)
+
+In general.—Notwithstanding any other provision of law, for purposes of this subtitle (including the amendments made by this subtitle) any covered employee shall be treated as an employee to whom section 5941 of title 5, United States Code (as amended by section 1912 of this subtitle), and section 1914 of this subtitle apply.
+
+&emsp;&emsp;“(B)
+
+Pay fixed by statute.—Pay to covered employees under section 5304 or 5304a of title 5, United States Code, as a result of the application of this subtitle shall be considered to be fixed by statute.
+
+&emsp;&emsp;“(C)
+
+Performance appraisal system.—With respect to a covered employee who is subject to a performance appraisal system no part of pay attributable to locality-based comparability payments as a result of the application of this subtitle including section 5941 of title 5, United States Code (as amended by section 1912 of this subtitle), may be reduced on the basis of the performance of that employee.
+
+“(b)
+
+Postal Employees in Non-foreign Areas.—
+
+&emsp;“(1)
+
+In general.—\[Amended section 1005 of Title 39, Postal Service.\]
+
+&emsp;“(2)
+
+Continuation of cost of living allowance.—
+
+&emsp;&emsp;“(A)
+
+In general.—Notwithstanding any other provision of this subtitle, any employee of the Postal Service (other than an employee covered by section 1003(b) and (c) of title 39, United States Code, whose duty station is in a nonforeign area) who is paid an allowance under section 1005(b) of that title shall be treated for all purposes as if the provisions of this subtitle (including the amendments made by this subtitle) had not been enacted, except that the cost-of-living allowance rate paid to that employee—
+
+&emsp;&emsp;&emsp;“(i) may result in the allowance exceeding 25 percent of the rate of basic pay of that employee; and
+
+&emsp;&emsp;&emsp;“(ii) shall be the greater of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the cost-of-living allowance rate in effect on December 31, 2009 for the applicable area; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the applicable locality-based comparability pay percentage under section 1914.
+
+&emsp;&emsp;“(B)
+
+Rule of construction.—Nothing in this subtitle shall be construed to—
+
+&emsp;&emsp;&emsp;“(i) provide for an employee described under subparagraph (A) to be a covered employee as defined under subsection (a); or
+
+&emsp;&emsp;&emsp;“(ii) authorize an employee described under subparagraph (A) to file an election under section 1917 of this subtitle.
+
+#### “SEC. 1917. ELECTION OF ADDITIONAL BASIC PAY FOR ANNUITY COMPUTATION BY EMPLOYEES.
+
+“(a)
+
+Definition.—In this section the term ‘covered employee’ means any employee—
+
+&emsp;“(1) to whom section 1914 applies;
+
+&emsp;“(2) who is separated from service by reason of retirement under chapter 83 or 84 of title 5, United States Code, during the period of January 1, 2010, through December 31, 2012; and
+
+&emsp;“(3) who files an election with the Office of Personnel Management under subsection (b).
+
+“(b)
+
+Election.—
+
+&emsp;“(1)
+
+In general.—An employee described under subsection (a)(1) and (2) may file an election with the Office of Personnel Management to be covered under this section.
+
+&emsp;“(2)
+
+Deadline.—An election under this subsection may be filed not later than December 31, 2012.
+
+“(c)
+
+Computation of Annuity.—
+
+&emsp;“(1)
+
+In general.—Except as provided under paragraph (2), for purposes of the computation of an annuity of a covered employee any cost-of-living allowance under section 5941 of title 5, United States Code, paid to that employee during the first applicable pay period beginning on or after January 1, 2010 through the first applicable pay period ending on or after December 31, 2012, shall be considered basic pay as defined under section 8331(3) or 8401(4) of that title.
+
+&emsp;“(2)
+
+Limitation.—An employee's cost-of-living allowance may be considered basic pay under paragraph (1) only to the extent that, when added to the employee's locality-based comparability payments, the resulting sum does not exceed the amount of the locality-based comparability payments the employee would have received during that period for the applicable pay area if the limitation under section 1914 did not apply.
+
+“(d)
+
+Civil Service Retirement and Disability Retirement Fund.—
+
+&emsp;“(1)
+
+Employee contributions.—A covered employee shall pay into the Civil Service Retirement and Disability Retirement Fund—
+
+&emsp;&emsp;“(A) an amount equal to the difference between—
+
+&emsp;&emsp;&emsp;“(i) employee contributions that would have been deducted and withheld from pay under section 8334 or 8422 of title 5, United States Code, during the period described under subsection (c) of this section if the cost-of-living allowances described under that subsection had been treated as basic pay under section 8331(3) or 8401(4) of title 5, United States Code; and
+
+&emsp;&emsp;&emsp;“(ii) employee contributions that were actually deducted and withheld from pay under section 8334 or 8422 of title 5, United States Code, during that period; and
+
+&emsp;&emsp;“(B) interest as prescribed under section 8334(e) of title 5, United States Code, based on the amount determined under subparagraph (A).
+
+&emsp;“(2)
+
+Agency contributions.—
+
+&emsp;&emsp;“(A)
+
+In general.—The employing agency of a covered employee shall pay into the Civil Service Retirement and Disability Retirement Fund an amount for applicable agency contributions based on payments made under paragraph (1).
+
+&emsp;&emsp;“(B)
+
+Source.—Amounts paid under this paragraph shall be contributed from the appropriation or fund used to pay the employee.
+
+&emsp;“(3)
+
+Regulations.—The Office of Personnel Management may prescribe regulations to carry out this section.
+
+#### “SEC. 1918. REGULATIONS.
+
+“(a)
+
+In General.—The Director of the Office of Personnel Management shall prescribe regulations to carry out this subtitle, including—
+
+&emsp;“(1) rules for special rate employees described under section 1913;
+
+&emsp;“(2) rules for adjusting rates of basic pay for employees in pay systems administered by the Office of Personnel Management when such employees are not entitled to locality-based comparability payments under section 5304 of title 5, United States Code, without regard to otherwise applicable statutory pay limitations during the transition period described in section 1914 ending on the first day of the first pay period beginning on or after January 1, 2012; and
+
+&emsp;“(3) rules governing establishment and adjustment of saved or retained rates for any employee whose rate of pay exceeds applicable pay limitations on the first day of the first pay period beginning on or after January 1, 2012.
+
+“(b)
+
+Other Pay Systems.—With the concurrence of the Director of the Office of Personnel Management, the administrator of a pay system not administered by the Office of Personnel Management shall prescribe regulations to carry out this subtitle with respect to employees in such pay system, consistent with the regulations prescribed by the Office under subsection (a). With respect to employees not entitled to locality-based comparability payments under section 5304 of title 5, United States Code, regulations prescribed under this subsection may provide for special payments or adjustments for employees who were eligible to receive a cost-of-living allowance under section 5941 of that title on the date before the date of enactment of this Act \[Oct. 28, 2009\].
+
+#### “SEC. 1919. EFFECTIVE DATES.
+
+“(a)
+
+In General.—Except as provided by subsection (b), this subtitle (including the amendments made by this subtitle) shall take effect on the date of enactment of this Act \[Oct. 28, 2009\].
+
+“(b)
+
+Locality Pay and Schedule.—The amendments made by section 1912 and the provisions of section 1914 shall take effect on the first day of the first applicable pay period beginning on or after January 1, 2010.”
 
 #### Comparability Payments Between 2002 and 2007; Comparisons and Recommendations; Revision of Methodology
 
@@ -336,7 +642,7 @@ Pub. L. 106–554, §1(a)(3) \[title VI, §637\], Dec. 21, 2000, 114 Stat. 2763,
 
 “(D) Each of the five areas under subparagraph (A) that so warrants, as determined by the President's pay agent, shall be designated as a discrete pay locality under section 5304 of title 5, United States Code, in time for it to be treated as such for purposes of comparability payments becoming payable in 2002.
 
-“(2) The President's pay agent may, at any time after the 180th day following the submission of the reportunder subsection (f), make any initial or further determinations or recommendations under this section, based on any pay comparisons under subsection (b), with respect to any area described in paragraph (3).
+“(2) The President's pay agent may, at any time after the 180th day following the submission of the report under subsection (f), make any initial or further determinations or recommendations under this section, based on any pay comparisons under subsection (b), with respect to any area described in paragraph (3).
 
 “(3) An area described in this paragraph is any metropolitan statistical area within the continental United States that (as determined based on data made available by the Bureau of Labor Statistics and the Office of Personnel Management, respectively) has a high level of nonfarm employment and at least 2,500 General Schedule employees whose post of duty is within such area.
 

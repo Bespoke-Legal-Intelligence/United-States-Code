@@ -102,7 +102,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1212(f) ofPub. L. 99–514, set out as a note under section 863 of this title.
+Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1212(f) of Pub. L. 99–514, set out as a note under section 863 of this title.
 
 #### Effective Date of 1975 Amendment
 

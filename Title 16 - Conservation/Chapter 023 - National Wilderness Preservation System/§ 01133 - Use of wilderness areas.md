@@ -12,7 +12,7 @@ The purposes of this chapter are hereby declared to be within and supplemental t
 
 #### (b) Agency responsibility for preservation and administration to preserve wilderness character; public purposes of wilderness areas
 
-Except as otherwise provided in this chapter, each agency administering any area designated as wilderness shall be responsible for preservingthe wilderness character of the area and shall so administer such area for such other purposes for which it may have been established as also to preserve its wilderness character. Except as otherwise provided in this chapter, wilderness areas shall be devoted to the public purposes of recreational, scenic, scientific, educational, conservation, and historical use.
+Except as otherwise provided in this chapter, each agency administering any area designated as wilderness shall be responsible for preserving the wilderness character of the area and shall so administer such area for such other purposes for which it may have been established as also to preserve its wilderness character. Except as otherwise provided in this chapter, wilderness areas shall be devoted to the public purposes of recreational, scenic, scientific, educational, conservation, and historical use.
 
 #### (c) Prohibition provisions: commercial enterprise, permanent or temporary roads, mechanical transports, and structures or installations; exceptions: area administration and personal health and safety emergencies
 
@@ -28,7 +28,7 @@ Within wilderness areas designated by this chapter the use of aircraft or motorb
 
 #### (2) Mineral activities, surveys for mineral value
 
-Nothing in this chapter shall prevent within national forest wilderness areas any activity, including prospecting, for the purpose of gathering information about mineral or other resources, if such activity is carried on in a manner compatible with the preservation of the wilderness environment. Furthermore, in accordance with such program as the Secretary of the Interior shall develop and conduct in consultation with the Secretary of Agriculture, such areas shall be surveyed on a planned, recurring basis consistent with the concept of wilderness preservation by the United States Geological Survey and the United States Bureau of Mines to determine the mineral values, if any, that may be present; and the results of such surveys shall be made available to the public and submitted to the President and Congress.
+Nothing in this chapter shall prevent within national forest wilderness areas any activity, including prospecting, for the purpose of gathering information about mineral or other resources, if such activity is carried on in a manner compatible with the preservation of the wilderness environment. Furthermore, in accordance with such program as the Secretary of the Interior shall develop and conduct in consultation withthe Secretary of Agriculture, such areas shall be surveyed on a planned, recurring basis consistent with the concept of wilderness preservation by the United States Geological Survey and the United States Bureau of Mines to determine the mineral values, if any, that may be present; and the results of such surveys shall be made available to the public and submitted to the President and Congress.
 
 #### (3) Mining and mineral leasing laws; leases, permits, and licenses; withdrawal of minerals from appropriation and disposition
 
@@ -36,7 +36,7 @@ Notwithstanding any other provisions of this chapter, until midnight December 31
 
 #### (4) Water resources, reservoirs, and other facilities; grazing
 
-Within wilderness areas in the national forests designated by this chapter, (1) the President may, within a specific area and in accordance with such regulations as he may deem desirable,authorize prospecting for water resources, the establishment and maintenance of reservoirs, water-conservation works, power projects, transmission lines, and other facilities needed in the public interest, including the road construction and maintenance essential to development and use thereof, upon his determination that such use or uses in the specific area will better serve the interests of the United States and the people thereof than will its denial; and (2) the grazing of livestock, where established prior to September 3, 1964, shall be permitted to continue subject to such reasonable regulations as are deemed necessary by the Secretary of Agriculture.
+Within wilderness areas in the national forests designated by this chapter, (1) the President may, within a specific area and in accordance with such regulations as he may deem desirable, authorize prospecting for water resources, the establishment and maintenance of reservoirs, water-conservation works, power projects, transmission lines, and other facilities needed in the public interest, including the road construction and maintenance essential to development and use thereof, upon his determination that such use or uses in the specific area will better serve the interests of the United States and the people thereof than will its denial; and (2) the grazing of livestock, where established prior to September 3, 1964, shall be permitted to continue subject to such reasonable regulations as are deemed necessary by the Secretary of Agriculture.
 
 #### (5) Commercial services
 
@@ -58,7 +58,7 @@ Act of June 4, 1897, referred to in subsec. (a)(1), is act June 4, 1897, ch. 2, 
 
 The Multiple-Use Sustained-Yield Act of 1960, referred to in subsec. (a)(1), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
 
-The Shipstead-Nolan Act, referred to in subsec. (a)(2), is act July 10, 1930, ch. 881, 46 Stat. 1020, which is classified to sections 577 to 577b of this title. For complete classification of this Act to the Code, see Short Title note set out under section 577 of this title and Tables.
+The Shipstead-Nolan Act, referred to in subsec. (a)(2), is act July 10, 1930, ch. 881, 46 Stat. 1020, which is classified to sections 577 to 577b of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 577 of this title and Tables.
 
 The Thye-Blatnik Act, referred to in subsec. (a)(2), is act June 22, 1948, ch. 593, 62 Stat. 568, as amended, which is classified to sections 577c, 577d, and 577e to 577h of this title. For complete classification of this Act to the Code, see Short Title note set out under section 577 of this title and Tables.
 

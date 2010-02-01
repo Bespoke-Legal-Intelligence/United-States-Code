@@ -110,7 +110,7 @@ Section 2335, Pub. L. 88–210, title II, §221, as added Pub. L. 101–392, tit
 
 Section 2335a, Pub. L. 88–210, title II, §222, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 778, related to sex equity programs.
 
-Section 2335b, Pub. L. 88–210, title II, §223, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 778,related to competitive award of amounts and evaluation of programs.
+Section 2335b, Pub. L. 88–210, title II, §223, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 778, related to competitive award of amounts and evaluation of programs.
 
 Section 2336, Pub. L. 88–210, title II, §225, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 778, related to programs for criminal offenders.
 

@@ -12,7 +12,7 @@ Except as provided in subsection (d) of this section, the plan administrator of 
 
 #### (b) Computation of liability
 
-Except as provided in subsection (c) of this section, any one or more contributing sponsors who withdraw, during a plan year for which they constitute a substantial employer, from a single-employer plan which has two or more contributing sponsors at least two of whom are not under common control, shall, upon notification of such contributing sponsors by the corporation as provided by subsection (a) of this section, be liable, together with the members of their controlled groups, to the corporation in accordance with the provisions of section 1362 of this title and this section. The amount of liability shall be computed on the basis of an amount determined by the corporation to be the amount described in section 1362 of this title for the entire plan, as if the plan had been terminated by the corporation on the date of the withdrawal referred to in subsection (a)(1) of this section multiplied by a fraction—
+Except as provided in subsection (c) of this section, any one or more contributing sponsors who withdraw, during a plan year for which they constitute a substantial employer, from a single-employer plan which has two or more contributing sponsors at least two of whom are not under common control, shall, upon notification of such contributing sponsors by the corporation as provided by subsection (a) of this section, be liable, together with the members of their controlled groups, to the corporation in accordancewith the provisions of section 1362 of this title and this section. The amount of liability shall be computed on the basis of an amount determined by the corporation to be the amount described in section 1362 of this title for the entire plan, as if the plan had been terminated by the corporation on the date of the withdrawal referred to in subsection (a)(1) of this section multiplied by a fraction—
 
 &emsp;(1) the numerator of which is the total amount required to be contributed to the plan by such contributing sponsors for the last 5 years ending prior to the withdrawal, and
 
@@ -46,7 +46,7 @@ The provisions of this subsection apply in the case of a withdrawal described in
 
 #### (e) Indemnity agreement
 
-The corporation is authorized to waive the application of the provisions of subsections (b), (c),and (d) of this section whenever it determines that there is an indemnity agreement in effect among contributing sponsors under the plan which is adequate to satisfy the purposes of this section and of section 1364 of this title.
+The corporation is authorized to waive the application of the provisions of subsections (b), (c), and (d) of this section whenever it determines that there is an indemnity agreement in effect among contributing sponsors under the plan which is adequate to satisfy the purposes of this section and of section 1364 of this title.
 
 (Pub. L. 93–406, title IV, §4063, Sept. 2, 1974, 88 Stat. 1030; Pub. L. 96–364, title IV, §403(h), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11016(a)(5)(A), Apr. 7, 1986, 100 Stat. 268.)
 

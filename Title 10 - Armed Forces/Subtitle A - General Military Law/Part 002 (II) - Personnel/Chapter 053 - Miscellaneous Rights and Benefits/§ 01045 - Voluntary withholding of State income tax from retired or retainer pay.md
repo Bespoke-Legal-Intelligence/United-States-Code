@@ -6,7 +6,7 @@
 
 (c) A member or former member may have in effect at any time only one request for withholding under this section and may not have more than two such requests in effect during any one calendar year.
 
-(d)(1) This section does not give the consent of the United States to the application of a statutethat imposes more burdensome requirements on the United States than on employers generally or that subjects the United States or any member or former member entitled to retired or retainer pay to a penalty or liability because of this section.
+(d)(1) This section does not give the consent of the United States to the application of a statute that imposes more burdensome requirements on the United States than on employers generally or that subjects the United States or any member or former member entitled to retired or retainer pay to a penalty or liability because of this section.
 
 (2) The Secretary concerned may not accept pay from a State for services performed in withholding State income taxes from retired or retainer pay.
 

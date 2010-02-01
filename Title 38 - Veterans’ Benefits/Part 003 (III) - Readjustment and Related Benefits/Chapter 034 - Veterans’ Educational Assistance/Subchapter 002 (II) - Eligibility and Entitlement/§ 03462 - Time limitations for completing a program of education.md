@@ -8,7 +8,7 @@ Delimiting Period for Completion.—(1) Subject to paragraph (4) of this subsect
 
 \[(3) Repealed. Pub. L. 107–14, §8(a)(5), June 5, 2001, 115 Stat. 34.\]
 
-(4) For purposes of paragraph (1) of this subsection, a veteran's last discharge or release from active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service unless the individual involved is discharged or released for aservice-connected disability, for a medical condition which preexisted such service and which the Secretary determines is not service connected, for hardship, or as a result of a reduction in force as described in section 3011(a)(1)(A)(ii)(III) of this title.
+(4) For purposes of paragraph (1) of this subsection, a veteran's last discharge or release from active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service unless the individual involved is discharged or released for a service-connected disability, for a medical condition which preexisted such service and which the Secretary determines is not service connected, for hardship, or as a result of a reduction in force as described in section 3011(a)(1)(A)(ii)(III) of this title.
 
 (b)
 
@@ -16,7 +16,7 @@ Correction of Discharge.—In the case of any eligible veteran who has been prev
 
 (c)
 
-Savings Clause.—In the case of any eligible veteran who was discharged or released from active duty before June 1, 1966, the 10-year delimiting period shall run from such date, if it is later than the date which otherwise would be applicable. In the case of any eligible veteran who was discharged or released from active duty before August 31, 1967, and who pursues a course of farm cooperative training, apprenticeship or other training on the job, the 10-year delimiting period shall run from August 31, 1967, if it is later than the date which would otherwise be applicable.
+Savings Clause.—In the case of any eligible veteran who was discharged or released from active duty before June 1, 1966, the 10-year delimiting period shall run from such date, if it is later than the date which otherwise would be applicable. In the case of any eligible veteran who was discharged or released from active duty before August 31, 1967, and who pursues a course offarm cooperative training, apprenticeship or other training on the job, the 10-year delimiting period shall run from August 31, 1967, if it is later than the date which would otherwise be applicable.
 
 (d)
 

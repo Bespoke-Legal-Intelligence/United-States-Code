@@ -16,7 +16,7 @@ Except as provided in subsection (b) or (c) of this section, any confidential bu
 
 #### (3) Information for enforcement actions
 
-&emsp;Information shall be disclosed to other Federal agencies for enforcement of this chapter or any other law, and shall be disclosed or otherwise provided when relevant in any proceeding under this chapter or any other law, except that disclosure or provision in such a proceeding shall be made in such manner as to preserve confidentiality to the extent practicable without impairing the proceeding.
+&emsp;Information shall be disclosed to other Federal agencies for enforcement of this chapteror any other law, and shall be disclosed or otherwise provided when relevant in any proceeding under this chapter or any other law, except that disclosure or provision in such a proceeding shall be made in such manner as to preserve confidentiality to the extent practicable without impairing the proceeding.
 
 #### (c) Information disclosed in national interest
 
@@ -28,7 +28,7 @@ Except as provided in subsection (b) or (c) of this section, any confidential bu
 
 #### (A) Requirement
 
-&emsp;&emsp;If any Department or agency of the United States Government proposes pursuant toparagraph (1) to publish or disclose or otherwise provide information exempt from disclosure under subsection (a) of this section, the United States National Authority shall, unless contrary to national security or law enforcement needs, provide notice of intent to disclose the information—
+&emsp;&emsp;If any Department or agency of the United States Government proposes pursuant to paragraph (1) to publish or disclose or otherwise provide information exempt from disclosure under subsection (a) of this section, the United States National Authority shall, unless contrary to national security or law enforcement needs, provide notice of intent to disclose the information—
 
 &emsp;&emsp;&emsp;(i) to the person that submitted such information; and
 

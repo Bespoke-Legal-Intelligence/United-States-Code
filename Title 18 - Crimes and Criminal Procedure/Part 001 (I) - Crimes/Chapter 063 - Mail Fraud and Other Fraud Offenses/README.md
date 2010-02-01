@@ -9,7 +9,7 @@
 | [1345\.](%C2%A7%2001345%20-%20Injunctions%20against%20fraud.md) | Injunctions against fraud. |
 | [1346\.](%C2%A7%2001346%20-%20Definition%20of%20%E2%80%9Cscheme%20or%20artifice%20to%20defraud%E2%80%9D.md) | Definition of “scheme or artifice to defraud”. |
 | [1347\.](%C2%A7%2001347%20-%20Health%20care%20fraud.md) | Health care fraud. |
-| [1348\.](%C2%A7%2001348%20-%20Securities%20fraud.md) | Securities fraud. |
+| [1348\.](%C2%A7%2001348%20-%20Securities%20and%20commodities%20fraud.md) | Securities and commodities fraud. |
 | [1349\.](%C2%A7%2001349%20-%20Attempt%20and%20conspiracy.md) | Attempt and conspiracy. |
 | [1350\.](%C2%A7%2001350%20-%20Failure%20of%20corporate%20officers%20to%20certify%20financial%20reports.md) | Failure of corporate officers to certify financial reports. |
 | [1351\.](%C2%A7%2001351%20-%20Fraud%20in%20foreign%20labor%20contracting.md) | Fraud in foreign labor contracting. |
@@ -17,6 +17,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–21, §2(e)(2), May 20, 2009, 123 Stat. 1618, inserted “and commodities” after “Securities” in item 1348.
 
 2008—Pub. L. 110–457, title II, §222(e)(1), (3), Dec. 23, 2008, 122 Stat. 5070, 5071, inserted “AND OTHER FRAUD OFFENSES” after “MAIL FRAUD” in chapter heading and added item 1351.
 
@@ -44,7 +46,7 @@
 - [&sect; 01345 - Injunctions against fraud](%C2%A7%2001345%20-%20Injunctions%20against%20fraud.md)
 - [&sect; 01346 - Definition of &#8220;scheme or artifice to defraud&#8221;](%C2%A7%2001346%20-%20Definition%20of%20%E2%80%9Cscheme%20or%20artifice%20to%20defraud%E2%80%9D.md)
 - [&sect; 01347 - Health care fraud](%C2%A7%2001347%20-%20Health%20care%20fraud.md)
-- [&sect; 01348 - Securities fraud](%C2%A7%2001348%20-%20Securities%20fraud.md)
+- [&sect; 01348 - Securities and commodities fraud](%C2%A7%2001348%20-%20Securities%20and%20commodities%20fraud.md)
 - [&sect; 01349 - Attempt and conspiracy](%C2%A7%2001349%20-%20Attempt%20and%20conspiracy.md)
 - [&sect; 01350 - Failure of corporate officers to certify financial reports](%C2%A7%2001350%20-%20Failure%20of%20corporate%20officers%20to%20certify%20financial%20reports.md)
 - [&sect; 01351 - Fraud in foreign labor contracting](%C2%A7%2001351%20-%20Fraud%20in%20foreign%20labor%20contracting.md)

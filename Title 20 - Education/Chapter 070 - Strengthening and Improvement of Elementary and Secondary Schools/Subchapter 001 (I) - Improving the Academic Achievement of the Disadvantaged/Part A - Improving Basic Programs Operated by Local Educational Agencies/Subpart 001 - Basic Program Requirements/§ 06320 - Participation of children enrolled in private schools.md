@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(F) the method or sources of data that are used under subsection (c) of this section and section 6313(c)(1) of this title to determine the number of children from low-income families in participating school attendance areas who attend private schools;
 
-&emsp;&emsp;(G) how and when the agency will make decisions about the delivery of services tosuch children, including a thorough consideration and analysis of the views of the private school officials on the provision of services through a contract with potential third-party providers; and
+&emsp;&emsp;(G) how and when the agency will make decisions about the delivery of services to such children, including a thorough consideration and analysis of the views of the private school officials on the provision of services through a contract with potential third-party providers; and
 
 &emsp;&emsp;(H) how, if the agency disagrees with the views of the private school officials on the provision of services through a contract, the local educational agency will provide in writing to such private school officials an analysis of the reasons why the local educational agency has chosen not to use a contractor.
 

@@ -42,7 +42,7 @@ For purposes of this section, the term “insured depository institution” has 
 
 #### (e) Rulemaking authority; enforcement
 
-The Board may issue such regulations and orders, including definitions consistent with thissection, as may be necessary to administer and carry out the purpose of this section. The appropriate Federal banking agency shall enforce compliance with those regulations under section 1818 of this title.
+The Board may issue such regulations and orders, including definitions consistent with this section, as may be necessary to administer and carry out the purpose of this section. The appropriate Federal banking agency shall enforce compliance with those regulations under section 1818 of this title.
 
 (Dec. 23, 1913, ch. 6, §23, as added Pub. L. 102–242, title III, §308(a), Dec. 19, 1991, 105 Stat. 2362.)
 

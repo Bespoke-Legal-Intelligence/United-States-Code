@@ -16,7 +16,7 @@ The Secretary of Commerce, in consultation with the Secretary of Agriculture, ma
 
 #### (2) Civil penalty
 
-&emsp;The Secretary of Commerce, after providing notice and an opportunity for an agency hearing on the record, may impose a civil penalty of not to exceed $10,000 for each violation of this section or any regulation, order, or license issued under this section, either in addition to or in lieu of any other liability or penalty which may be imposed.
+&emsp;The Secretary of Commerce, after providing notice and an opportunity for an agency hearing on the record, may impose a civil penalty of not to exceed $10,000 for each violation ofthis section or any regulation, order, or license issued under this section, either in addition to or in lieu of any other liability or penalty which may be imposed.
 
 (Mar. 3, 1891, ch. 521, §3, as added Pub. L. 99–64, title I, §125, July 12, 1985, 99 Stat. 156.)
 

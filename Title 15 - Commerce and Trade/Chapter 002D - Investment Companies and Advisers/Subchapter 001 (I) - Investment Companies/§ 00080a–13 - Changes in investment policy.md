@@ -44,7 +44,7 @@ Person defined.—For purposes of this subsection the term “person” includes
 
 #### References in Text
 
-Section 3(d) of the Sudan Accountability and Divestment Act of 2007, referred to in subsec. (c)(1), is section 3(d) of Pub. L. 110–174, which is set out in a note under section 1701 of Title 50, War and National Defense.
+Section 3(d) of the Sudan Accountability and Divestment Act of 2007, referred to in subsec. (c)(1), is section3(d) of Pub. L. 110–174, which is set out in a note under section 1701 of Title 50, War and National Defense.
 
 #### Amendments
 

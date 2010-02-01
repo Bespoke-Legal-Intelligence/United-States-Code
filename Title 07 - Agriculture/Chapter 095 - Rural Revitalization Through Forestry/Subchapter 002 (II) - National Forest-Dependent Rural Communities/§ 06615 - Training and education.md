@@ -2,7 +2,7 @@
 
 #### (a) Programs
 
-In furtherance of an action plan, the Secretary may use the Extension Service and other appropriate agencies of the Department of Agriculture to develop and conduct education programs that assist businesses, elected or appointed officials, and individuals in rural communities to deal with the effects of a transition from being economically disadvantaged to economic diversification. These programs may include—
+In furtherance of an action plan, the Secretary may use the National Institute of Food and Agriculture and other appropriate agencies of the Department of Agriculture to develop and conduct education programs that assist businesses, elected or appointed officials, and individuals in rural communities to deal with the effects of a transition from being economically disadvantaged to economic diversification. These programs may include—
 
 &emsp;(1) community economic analysis and strategic planning;
 
@@ -18,15 +18,13 @@ Insofar as practicable, the Secretary shall use existing Federal, State, and pri
 
 (Pub. L. 101–624, title XXIII, §2377, Nov. 28, 1990, 104 Stat. 4048; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §345(e)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–204; Pub. L. 110–234, title VII, §7511(c)(26), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, §4(a), title VII, §7511(c)(26), June 18, 2008, 122 Stat. 1664, 2031.)
 
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2031, provided that, effective Oct. 1, 2009, subsection (a) of this section is amended by substituting “National Institute of Food and Agriculture” for “Extension Service” in introductory provisions.</i>
-
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–246, §7511(c)(26), substituted “National Institute of Food and Agriculture” for “Extension Service” in introductory provisions.
 
 1999—Subsec. (a)(2), (3). Pub. L. 106–113, which directed substitution of “National Forest System land resources” for “national forest resources” in pars. (3) and (4), was executed by making the substitution in pars. (2) and (3) to reflect the probable intent of Congress.
 

@@ -56,7 +56,7 @@ Rights-of-way through the submerged lands of the outer Continental Shelf, whethe
 
 &emsp;(B) Upon the specific request of one or more owner or nonowner shippers able to provide a guaranteed level of throughput, and on the condition that the shipper or shippers requesting such expansion shall be responsible for bearing their proportionate share of the costs and risks related thereto, the Federal Energy Regulatory Commission may, upon finding, after a full hearing with due notice thereof to the interested parties, that such expansion is within technological limits and economic feasibility, order a subsequent expansion of throughput capacity of any pipeline for which the permit, license, easement, right-of-way, or other grant of authority is approved or issued after September 18, 1978. This subparapraph <sup>1</sup> shall not apply to any such grant of authority approved or issued for the Gulf of Mexico or the Santa Barbara Channel.
 
-(2) The Federal Energy Regulatory Commission may, by order or regulation, exempt from any or all of the requirements of paragraph (1) of this subsection any pipeline or class of pipelines which feeds into a facility where oil and gas are first collected or a facility where oil and gas are first separated, dehydrated, or otherwise processed.
+(2) The Federal Energy Regulatory Commission may, by order or regulation, exempt fromany or all of the requirements of paragraph (1) of this subsection any pipeline or class of pipelines which feeds into a facility where oil and gas are first collected or a facility where oil and gas are first separated, dehydrated, or otherwise processed.
 
 (3) The Secretary of Energy and the Federal Energy Regulatory Commission shall consult with and give due consideration to the views of the Attorney General on specific conditions to be included in any permit, license, easement, right-of-way, or grant of authority in order to ensure that pipelines are operated in accordance with the competitive principles set forth in paragraph (1) of this subsection. In preparing any such views, the Attorney General shall consult with the Federal Trade Commission.
 
@@ -128,7 +128,7 @@ Functions of Secretary of the Interior to promulgate regulations under this subc
 
 #### West Delta Field
 
-Section 6004(b) of Pub. L. 101–380 provided that: “Section 5(j) of the Outer Continental Shelf Lands Act \[43U.S.C. 1334(j)\], as added by this section, shall not be applicable with respect to Blocks 17 and 18 of the West Delta Field offshore Louisiana.”
+Section 6004(b) of Pub. L. 101–380 provided that: “Section 5(j) of the Outer Continental Shelf Lands Act \[43 U.S.C. 1334(j)\], as added by this section, shall not be applicable with respect to Blocks 17 and 18 of the West Delta Field offshore Louisiana.”
 
 #### Key Largo Coral Reef Preserve
 

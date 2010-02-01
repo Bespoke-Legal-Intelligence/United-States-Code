@@ -20,7 +20,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(v) a person, institution, organization, or other entity that has denied initial employment in violation of section 4311.
 
-&emsp;(B) In the case of a National Guard technician employed under section 709 of title 32, the term “employer” means the adjutant general of the State in which the technician is employed.
+&emsp;(B) In the case of a National Guard technician employed under section 709 of title 32, the term “employer” means the adjutant generalof the State in which the technician is employed.
 
 &emsp;(C) Except as an actual employer of employees, an employee pension benefit plan described in section 3(2) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(2)) shall be deemed to be an employer only with respect to the obligation to provide benefits described in section 4318.
 
@@ -42,7 +42,7 @@ For the purposes of this chapter—
 
 &emsp;(13) The term “service in the uniformed services” means the performance of duty on a voluntary or involuntary basis in a uniformed service under competent authority and includes active duty, active duty for training, initial active duty for training, inactive duty training, full-time National Guard duty, a period for which a person is absent from a position of employment for the purpose of an examination to determine the fitness of the person to perform any such duty, and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by section 12503 of title 10 or section 115 of title 32.
 
-&emsp;(14) The term “State” means each of the several States of the United States, the Districtof Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and other territories of the United States (including the agencies and political subdivisions thereof).
+&emsp;(14) The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and other territories of the United States (including the agencies and political subdivisions thereof).
 
 &emsp;(15) The term “undue hardship”, in the case of actions taken by an employer, means actions requiring significant difficulty or expense, when considered in light of—
 

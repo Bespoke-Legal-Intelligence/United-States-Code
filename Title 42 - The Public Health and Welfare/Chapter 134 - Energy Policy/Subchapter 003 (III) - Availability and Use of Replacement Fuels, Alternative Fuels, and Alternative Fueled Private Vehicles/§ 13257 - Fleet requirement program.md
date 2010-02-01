@@ -28,7 +28,7 @@
 
 &emsp;(D) considering all actions needed to achieve those goals.
 
-> The Secretary shall provide for at least 3 regional hearings on the advance notice of proposed rulemaking, with respect to which official transcripts shall be maintained. The commentperiod in connection with such advance notice of proposed rulemaking shall be completed within 7 months after publication of the advance notice.
+> The Secretary shall provide for at least 3 regional hearings on the advance notice of proposed rulemaking, with respect to which official transcripts shall be maintained. The comment period in connection with such advance notice of proposed rulemaking shall be completed within 7 months after publication of the advance notice.
 
 (4) After the completion of such advance notice of proposed rulemaking, the Secretary shall publish in the Federal Register a proposed rule for the rule required under subsection (b) of this section, and shall provide for a public comment period, with hearings, of not less than 90 days.
 
@@ -74,7 +74,7 @@ Before May 1, 1999, the Secretary shall publish in the Federal Register a propos
 
 #### (e) Determination
 
-(1) Not later than January 1, 2000, the Secretary shall, through the rule required under subsection (g) of this section, determine whethera fleet requirement program is necessary under this section. Such a program shall be considered necessary and a rule therefor shall be promulgated if the Secretary finds that—
+(1) Not later than January 1, 2000, the Secretary shall, through the rule required under subsection (g) of this section, determine whether a fleet requirement program is necessary under this section. Such a program shall be considered necessary and a rule therefor shall be promulgated if the Secretary finds that—
 
 &emsp;(A) the goal of replacement fuel use described in section 13252(b)(2)(B) of this title, as modified under section 13254 of this title, is not expected to be actually achieved by 2010, or such other date as is established under section 13254 of this title, by voluntary means or pursuant to this subchapter or any other law without such a fleet requirement program, taking into consideration the status of the achievement of the interim goal described in section 13252(b)(2)(A) of this title, as modified under section 13254 of this title; and
 
@@ -142,7 +142,7 @@ Nothing in this subchapter or the amendments made by this subchapter shall requi
 
 #### (<i>l</i>) Consideration of factors
 
-In carrying out this section, the Secretary shall take into consideration energy security, costs, safety, lead time requirements, vehicle miles traveled annually, effect on greenhouse gases, technological feasibility, energy requirements, economic impacts, including impacts on workers and the impact on consumers (including users of the alternative fuel for purposes such as for residences, agriculture, process use, and non-fuel purposes) and fleets, the availability of alternative fuels and alternative fueled vehicles, and other relevant factors.
+In carrying out this section, the Secretary shall take into consideration energy security, costs, safety, lead time requirements, vehicle miles traveled annually, effect on greenhouse gases, technological feasibility, energy requirements, economic impacts, including impacts on workers and the impact on consumers (includingusers of the alternative fuel for purposes such as for residences, agriculture, process use, and non-fuel purposes) and fleets, the availability of alternative fuels and alternative fueled vehicles, and other relevant factors.
 
 #### (m) Consultation and participation of other Federal agencies
 

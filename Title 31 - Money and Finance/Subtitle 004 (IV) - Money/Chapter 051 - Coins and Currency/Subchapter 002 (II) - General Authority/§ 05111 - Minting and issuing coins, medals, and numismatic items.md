@@ -152,7 +152,7 @@ In subsection (d)(3), the words “and his delegates” are omitted as unnecessa
 
 #### References in Text
 
-The Internal Revenue Code of 1954, referred to in subsec. (d)(3), was redesignated the Internal Revenue Codeof 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, and is classified generally to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1954, referred to in subsec. (d)(3), was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, and is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
 
@@ -167,6 +167,12 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 #### Commemorative Medals
 
 Provisions authorizing commemorative medals were contained in the following acts:
+
+Pub. L. 111–65, Sept. 30, 2009, 123 Stat. 2003, recognizing Arnold Palmer.
+
+Pub. L. 111–44, Aug. 7, 2009, 123 Stat. 1966, recognizing Neil A. Armstrong, Edwin E. “Buzz” Aldrin, Jr., Michael Collins, and John Herschel Glenn, Jr.
+
+Pub. L. 111–40, July 1, 2009, 123 Stat. 1958, recognizing the Women Airforce Service Pilots (WASP).
 
 Pub. L. 110–420, Oct. 15, 2008, 122 Stat. 4774, recognizing Native American code talkers.
 

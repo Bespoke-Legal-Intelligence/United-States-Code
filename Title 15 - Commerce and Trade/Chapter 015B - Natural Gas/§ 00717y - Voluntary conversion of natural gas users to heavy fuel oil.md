@@ -54,7 +54,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the price under such contract for natural gas, subject to such contract, delivered during such period.
 
-> &emsp;For purposes of subparagraph (A), the reasonable costs directly associated with the use of heavy petroleum fuel oil as a fuel shall include an allowance for the amortization, over the remaining useful life, of the undepreciated value of depreciable assets located on the premises containing such facility, which assets were directly associated with the use of natural gas and are not usable in connection with the use of such heavy petroleum fuel oil.
+> &emsp;For purposes of subparagraph (A), the reasonable costs directly associated with the use ofheavy petroleum fuel oil as a fuel shall include an allowance for the amortization, over the remaining useful life, of the undepreciated value of depreciable assets located on the premises containing such facility, which assets were directly associated with the use of natural gas and are not usable in connection with the use of such heavy petroleum fuel oil.
 
 &emsp;(3) The term “just compensation”, when used with respect to any intrastate pipeline which would have transported or distributed natural gas with respect to which contractual interests are transferred pursuant to the rule required under subsection (a)(1) of this section, means an amount equal to any loss of revenue, during the remaining period of the contract with respect to which contractual interests are transferred pursuant to the rule required under subsection (a)(1) of this section, to the extent such loss—
 

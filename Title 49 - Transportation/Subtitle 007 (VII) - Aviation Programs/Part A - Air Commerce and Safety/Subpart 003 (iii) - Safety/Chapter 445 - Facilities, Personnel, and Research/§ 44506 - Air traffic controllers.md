@@ -10,7 +10,7 @@ Research on Effect of Automation on Performance.—To develop the means necessar
 
 &emsp;(3) the attributes and aptitudes needed to function well in a highly automated air traffic control system and the development of appropriate testing methods for identifying individuals with those attributes and aptitudes;
 
-&emsp;(4) innovative methods for training potential air traffic controllers to enhance the benefits of automation and maximize the effectiveness of the air traffic control system; and
+&emsp;(4) innovative methods for training potential air traffic controllers to enhance the benefitsof automation and maximize the effectiveness of the air traffic control system; and
 
 &emsp;(5) new technologies and procedures for exploiting automated communication systems, including Mode S Transponders, to improve information transfers between air traffic controllers and aircraft pilots.
 
@@ -82,7 +82,13 @@ In subsection (c), the words “institutions of higher education” are substitu
 
 #### Controller Staffing
 
-Pub. L. 110–161, div. K, title I, Dec. 26, 2007, 121 Stat. 2378, provided in part: “That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 \[set out below\]”.
+Pub. L. 111–117, div. A, title I, Dec. 16, 2009, 123 Stat. 3039, provided in part: “That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 \[set out below\]”.
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 111–8, div. I, title I, Mar. 11, 2009, 123 Stat. 918.
+
+Pub. L. 110–161, div. K, title I, Dec. 26, 2007, 121 Stat. 2378.
 
 Pub. L. 108–176, title II, §221, Dec. 12, 2003, 117 Stat. 2526, provided that:
 
@@ -100,7 +106,7 @@ Development.—The Administrator shall develop a comprehensive human capital wor
 
 &emsp;“(2)
 
-Completion date.—Not later than 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator shall complete development of the strategy.
+Completion date.—Not later than 1 year after the date of enactment of this Act \[Dec. 12, 2003\], theAdministrator shall complete development of the strategy.
 
 &emsp;“(3)
 

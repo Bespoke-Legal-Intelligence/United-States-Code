@@ -2,7 +2,7 @@
 
 #### (a) Appointment of incorporators; Chairman; initial board of directors
 
-The President of the United States shall appoint, by and with the advice and consent of theSenate, incorporators of the corporation, one of whom shall be designated by the President to serve as chairman. The incorporators shall serve as the initial board of directors until the first annual meeting of stockholders or until their successors are elected and have qualified.
+The President of the United States shall appoint, by and with the advice and consent of the Senate, incorporators of the corporation, one of whom shall be designated by the President to serve as chairman. The incorporators shall serve as the initial board of directors until the first annual meeting of stockholders or until their successors are elected and have qualified.
 
 #### (b) Action by incorporators; filing articles of incorporation
 

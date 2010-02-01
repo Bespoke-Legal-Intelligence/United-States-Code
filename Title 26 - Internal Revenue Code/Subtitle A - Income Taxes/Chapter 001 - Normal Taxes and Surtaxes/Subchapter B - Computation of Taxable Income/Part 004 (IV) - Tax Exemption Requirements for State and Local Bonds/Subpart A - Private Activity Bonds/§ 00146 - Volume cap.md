@@ -230,7 +230,7 @@ For purposes of the volume cap imposed by this section—
 
 &emsp;&emsp;(A) the average maturity date of the qualified student loan bonds to be refunded by the issue of which the refunding bond is a part, or
 
-&emsp;&emsp;(B) the date 17 years after the date on which the refunded bond was issued (or inthe case of a series of refundings, the date on which the original bond was issued).
+&emsp;&emsp;(B) the date 17 years after the date on which the refunded bond was issued (or in the case of a series of refundings, the date on which the original bond was issued).
 
 #### (3) Special rules for qualified mortgage bonds
 
@@ -310,7 +310,7 @@ The volume cap of any issuing authority for any calendar year shall be reduced b
 
 &emsp;(2) the amount of any reduction in such ceiling under section 25(f) applicable to such authority for such year.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2630; amended Pub. L. 100–203, title X, §10631(b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 100–647, title I, §1013(a)(9), (10), (28), (40), title VI, §6180(b)(3), Nov. 10, 1988, 102 Stat. 3538, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(2), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 102–486, title XIX, §1921(b)(3), Oct. 24, 1992, 106 Stat. 3028; Pub. L. 103–66, title XIII, §13121(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 105–277, div. J, title II, §2021(a), Oct. 21, 1998, 112 Stat. 2681–903; Pub. L. 106–554, §1(a)(7) \[title I, §161(a)\], Dec. 21, 2000, 114 Stat.2763, 2763A–624; Pub. L. 107–16, title IV, §422(c), June 7, 2001, 115 Stat. 66; Pub. L. 108–357, title VII, §701(c), Oct. 22, 2004, 118 Stat. 1539; Pub. L. 109–59, title XI, §11143(c), Aug. 10, 2005, 119 Stat. 1965; Pub. L. 110–289, div. C, title I, §§3007(a), 3021(a), July 30, 2008, 122 Stat. 2886, 2892.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2630; amended Pub. L. 100–203, title X, §10631(b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 100–647, title I, §1013(a)(9), (10), (28), (40), title VI, §6180(b)(3), Nov. 10, 1988, 102 Stat. 3538, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(2), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 102–486, title XIX, §1921(b)(3), Oct. 24, 1992, 106 Stat. 3028; Pub. L. 103–66, title XIII, §13121(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 105–277, div. J, title II, §2021(a), Oct. 21, 1998, 112 Stat. 2681–903; Pub. L. 106–554, §1(a)(7) \[title I, §161(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–624; Pub. L. 107–16, title IV, §422(c), June 7, 2001, 115 Stat. 66; Pub. L. 108–357, title VII, §701(c), Oct. 22, 2004, 118 Stat. 1539; Pub. L. 109–59, title XI, §11143(c), Aug. 10, 2005, 119 Stat. 1965; Pub. L. 110–289, div. C, title I, §§3007(a), 3021(a), July 30, 2008, 122 Stat. 2886, 2892.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -418,7 +418,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 Amendment by section 1013(a)(9), (10), (28), (40) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Amendment by section 6180(b)(3) of Pub. L. 100–647 applicable to bonds issued after Nov. 10, 1988, see section 6180(c) of Pub. L. 100–647, set out as a note under section 142 of this title.
+Amendment by section 6180(b)(3) of Pub. L. 100–647 applicable to bonds issued after Nov. 10, 1988, see section6180(c) of Pub. L. 100–647, set out as a note under section 142 of this title.
 
 #### Effective Date of 1987 Amendment
 

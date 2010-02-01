@@ -10,5 +10,5 @@ Herein, referred to in text, means Pub. L. 87–82, July 6, 1961, 75 Stat. 199, 
 
 #### Codification
 
-Section was classified to section 174j–3 of former Title 40, prior to the enactment of Title 40, PublicBuildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 174j–3 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 

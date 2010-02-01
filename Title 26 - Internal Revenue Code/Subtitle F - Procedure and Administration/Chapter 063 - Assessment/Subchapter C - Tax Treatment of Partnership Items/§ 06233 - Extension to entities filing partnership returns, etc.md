@@ -26,5 +26,5 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date
 
-Section effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 31 of this title.
+Section effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub.L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 31 of this title.
 

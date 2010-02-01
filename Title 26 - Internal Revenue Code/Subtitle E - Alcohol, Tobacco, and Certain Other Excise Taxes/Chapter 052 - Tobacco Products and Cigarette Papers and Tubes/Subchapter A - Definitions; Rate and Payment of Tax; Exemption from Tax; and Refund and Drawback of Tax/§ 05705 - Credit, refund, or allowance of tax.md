@@ -20,7 +20,7 @@ Any claim for credit or refund of tax under this section shall be filed within 6
 
 1965—Pub. L. 89–44, §808(c)(1), struck out “Refund or” and inserted in lieu thereof “Credit, refund, or” in section catchline.
 
-Subsec. (a). Pub. L. 89–44, §808(b)(1), substituted “Credit or refund” for “Refund” in heading and struck out “Refund of any tax imposed by this chapter shall be made”, replacing it with “Credit or refund of anytax imposed by this chapter or section 7652 shall be allowed or made”.
+Subsec. (a). Pub. L. 89–44, §808(b)(1), substituted “Credit or refund” for “Refund” in heading and struck out “Refund of any tax imposed by this chapter shall be made”, replacing it with “Credit or refund of any tax imposed by this chapter or section 7652 shall be allowed or made”.
 
 Subsec. (c). Pub. L. 89–44, §808(b)(2), inserted “credit or” before “refund”.
 

@@ -32,7 +32,7 @@ Nonapplication.—Subsection (b)(1) of this section does not apply to—
 
 Conspiracy.—If two or more persons conspire to violate subsection (b) or (c), and one or more of such persons do any act to effect the object of the conspiracy, each of the parties to such conspiracy shall be punished as provided in such subsection.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1244; Pub. L. 104–132, title VII, §705(b), Apr. 24, 1996,110 Stat. 1295; Pub. L. 107–56, title VIII, §§810(g), 811(j), Oct. 26, 2001, 115 Stat. 381, 382; Pub. L. 107–71, title I, §140(d)(8), Nov. 19, 2001, 115 Stat. 642.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1244; Pub. L. 104–132, title VII, §705(b), Apr. 24, 1996, 110 Stat. 1295; Pub. L. 107–56, title VIII, §§810(g), 811(j), Oct. 26, 2001, 115 Stat. 381, 382; Pub. L. 107–71, title I, §140(d)(8), Nov. 19, 2001, 115 Stat. 642.)
 
 Historical and Revision Notes
 
@@ -96,5 +96,5 @@ Subsec. (c). Pub. L. 104–132, §705(b)(2), substituted “15 years” for “5
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, DomesticSecurity, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

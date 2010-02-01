@@ -28,7 +28,7 @@ The agencies covered by this section are the following:
 
 #### (c) Plan elements
 
-The plan transmitted under subsection (a) of this section shall contain, consistent with thischapter, such elements as the President deems appropriate, including elements that—
+The plan transmitted under subsection (a) of this section shall contain, consistent with this chapter, such elements as the President deems appropriate, including elements that—
 
 &emsp;(1) identify the functions of each covered agency that will be transferred to the Department under the plan;
 
@@ -100,7 +100,7 @@ The report accompanying the reorganization plan for the Department and the cover
 
 #### (3) Effective date by Presidential determination
 
-&emsp;An effective date under this paragraph for a reorganization plan described in this section is such date as the President shall determine to be appropriate and announce by notice published in the Federal Register, which date may be not earlier than 90 calendar days after the President has transmitted the reorganization plan to the appropriate congressional committees pursuant to subsection (a) of this section.
+&emsp;An effective date under this paragraph for a reorganization plan described in this section is such date as the President shall determine to be appropriate and announce by notice published in the Federal Register, which date may be not earlier than 90 calendar days after the President has transmitted the reorganizationplan to the appropriate congressional committees pursuant to subsection (a) of this section.
 
 #### (4) Statutory construction
 

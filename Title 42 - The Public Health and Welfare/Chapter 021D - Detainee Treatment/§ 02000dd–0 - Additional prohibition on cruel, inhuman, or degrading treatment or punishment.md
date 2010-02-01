@@ -18,7 +18,3 @@
 
 Section was enacted as part of the Military Commissions Act of 2006, and not as part of the Detainee Treatment Act of 2005 which comprises this chapter.
 
-#### Delegation of Functions
-
-Functions of President under par. (3) of this section delegated to Director of National Intelligence by section 4 of Ex. Ord. No. 13440, July 20, 2007, 72 F.R. 40709, set out in a note under section 2441 of Title 18, Crimes and Criminal Procedure.
-

@@ -20,7 +20,7 @@ In General.—To the extent that funds are otherwise available for obligation, t
 
 (b)
 
-Regulations.—(1) Each official named in paragraph (2) shall prescribe acquisition regulations for the agency or agencies under the jurisdiction of such official to promote the use of multiyear contracting as authorized by subsection (a) in a manner that will allow the most efficient use of multiyear contracting.
+Regulations.—(1) Each official named in paragraph (2) shall prescribe acquisition regulations for the agency or agencies under the jurisdiction of such official to promote the use ofmultiyear contracting as authorized by subsection (a) in a manner that will allow the most efficient use of multiyear contracting.
 
 (2)(A) The Secretary of Defense shall prescribe the regulations applicable to the Department of Defense.
 
@@ -50,7 +50,7 @@ Protection of Existing Authority.—The regulations shall provide that, to the e
 
 (f)
 
-Cancellation or Termination for Insufficient Funding.—In the event funds are not madeavailable for the continuation of a contract made under this section into a subsequent fiscal year, the contract shall be canceled or terminated. The costs of cancellation or termination may be paid from—
+Cancellation or Termination for Insufficient Funding.—In the event funds are not made available for the continuation of a contract made under this section into a subsequent fiscal year, the contract shall be canceled or terminated. The costs of cancellation or termination may be paid from—
 
 &emsp;(1) appropriations originally available for the performance of the contract concerned;
 
@@ -84,9 +84,9 @@ Defense Acquisitions Specifically Authorized by Law.—(1) A multiyear contract 
 
 &emsp;(A) The Secretary has determined that each of the requirements in paragraphs (1) through (6) of subsection (a) will be met by such contract and has provided the basis for such determination to the congressional defense committees.
 
-&emsp;(B) The Secretary's determination under subparagraph (A) was made after the completion of a cost analysis performed by the Cost Analysis Improvement Group of the Department of Defense and such analysis supports the findings.
+&emsp;(B) The Secretary's determination under subparagraph (A) was made after the completion of a cost analysis performed by the Director of Cost Assessment and Program Analysis and such analysis supports the findings.
 
-&emsp;(C) The system being acquired pursuant to such contract has not been determined to have experienced cost growth in excess of the critical cost growth threshold pursuant to section 2433(d) of this title within 5 years prior to the date the Secretary anticipates such contract (or a contract for advance procurement entered into consistent with the authorization for such contract) will be awarded.
+&emsp;(C) The system being acquired pursuant to such contract has not been determined to haveexperienced cost growth in excess of the critical cost growth threshold pursuant to section 2433(d) of this title within 5 years prior to the date the Secretary anticipates such contract (or a contract for advance procurement entered into consistent with the authorization for such contract) will be awarded.
 
 &emsp;(D) A sufficient number of end items of the system being acquired under such contract have been delivered at or within the most current estimates of the program acquisition unit cost or procurement unit cost for such system to determine that current estimates of such unit costs are realistic.
 
@@ -136,7 +136,7 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 (3) The head of an agency may not initiate a multiyear procurement contract for any system (or component thereof) if the value of the multiyear contract would exceed $500,000,000 unless authority for the contract is specifically provided in an appropriations Act.
 
-(4) Not later than the date of the submission of the President's budget request under section 1105 of title 31, the Secretary of Defense shall submit a report to the congressional defense committees each year, providing the following information with respect to each multiyear contract (and each extension of an existing multiyear contract) entered into, or planned to be entered into, by the head of an agency during the current or preceding year, shown for each year in the current future-years defense program and in the aggregate over the period of the current future-years defense program:
+(4) Not later than the date of the submission of the President's budget request under section 1105 of title 31, the Secretary of Defense shallsubmit a report to the congressional defense committees each year, providing the following information with respect to each multiyear contract (and each extension of an existing multiyear contract) entered into, or planned to be entered into, by the head of an agency during the current or preceding year, shown for each year in the current future-years defense program and in the aggregate over the period of the current future-years defense program:
 
 &emsp;(A) The amount of total obligational authority under the contract (or contract extension) and the percentage that such amount represents of—
 
@@ -160,7 +160,7 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 (5) The head of an agency may not enter into a multiyear contract (or extend an existing multiyear contract), the value of which would exceed $500,000,000 (when entered into or when extended, as the case may be), until the Secretary of Defense submits to the congressional defense committees a report containing the information described in paragraph (4) with respect to the contract (or contract extension).
 
-(6) The head of an agency may not terminate a multiyear procurement contract until 10 daysafter the date on which notice of the proposed termination is provided to the congressional defense committees.
+(6) The head of an agency may not terminate a multiyear procurement contract until 10 days after the date on which notice of the proposed termination is provided to the congressional defense committees.
 
 (7) The execution of multiyear contracting authority shall require the use of a present value analysis to determine lowest cost compared to an annual procurement.
 
@@ -176,9 +176,11 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 Increased Funding and Reprogramming Requests.—Any request for increased funding for the procurement of a major system under a multiyear contract authorized under this section shall be accompanied by an explanation of how the request for increased funding affects the determinations made by the Secretary under subsection (i).
 
-(Added Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; amended Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, §806(a)(1), (b)(1), (c), title X, §1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, §809, title X, §1067(1), Oct. 5, 1999, 113 Stat. 705, 774; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§802(c), 806\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–207; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §820(a), Dec. 2, 2002, 116 Stat. 2613; Pub. L. 108–136, div. A, title X, §1043(b)(10), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VIII, §814(a), title X, §1084(b)(2), Oct. 28, 2004, 118 Stat. 2014, 2060; Pub. L. 110–181, div. A, title VIII, §811(a), Jan. 28, 2008, 122 Stat. 217.)
+(Added Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; amended Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, §806(a)(1), (b)(1), (c), title X, §1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, §809, title X, §1067(1), Oct. 5, 1999, 113 Stat. 705, 774; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§802(c), 806\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–207; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §820(a), Dec. 2, 2002, 116 Stat. 2613; Pub. L. 108–136, div. A, title X, §1043(b)(10), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VIII, §814(a), title X, §1084(b)(2), Oct. 28, 2004, 118 Stat. 2014, 2060; Pub. L. 110–181, div. A, title VIII, §811(a), Jan. 28, 2008, 122 Stat. 217; Pub. L. 111–23, title I, §101(d)(2), May 22, 2009, 123 Stat. 1709.)
 
 #### Amendments
+
+2009—Subsec. (i)(1)(B). Pub. L. 111–23 substituted “Director of Cost Assessment and Program Analysis” for “Cost Analysis Improvement Group of the Department of Defense”.
 
 2008—Subsec. (a)(7). Pub. L. 110–181, §811(a)(1), added par. (7).
 
@@ -293,6 +295,8 @@ Pub. L. 105–56, title VIII, §8008, Oct. 8, 1997, 111 Stat. 1221, provided tha
 &emsp;“(3) the Secretary of Defense makes such request in writing to the congressional defense committees.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 111–118, div. A, title VIII, §8011, Dec. 19, 2009, 123 Stat. 3428.
 
 Pub. L. 110–329, div. C, title VIII, §8011, Sept. 30, 2008, 122 Stat. 3621.
 

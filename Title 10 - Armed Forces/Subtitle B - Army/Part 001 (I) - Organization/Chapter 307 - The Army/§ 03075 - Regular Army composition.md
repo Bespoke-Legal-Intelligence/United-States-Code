@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 June 28, 1950, ch. 383, §302, 64 Stat. 268.
 
-In subsection (b), the words “holding appointments or enlisted in the Regular Army as now or hereafter provided by law”, “and such other persons as are now or may hereafter be specified by law”, and “commissioned \* \* \* warrant officers” are omitted as surplusage, since the revised section lists all persons in the Regular Army. 10:1c (last sentence) is omitted as executed.
+In subsection (b), the words “holding appointments or enlisted in the Regular Army as now or hereafter provided by law”, “and such other persons as are now or may hereafter be specified by law”, and “commissioned warrant officers” are omitted as surplusage, since therevised section lists all persons in the Regular Army. 10:1c (last sentence) is omitted as executed.
 
 #### Amendments
 

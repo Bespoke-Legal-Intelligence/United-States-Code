@@ -16,7 +16,7 @@ Compliance With Air and Water Quality Standards.—(1) The Secretary of Transpor
 
 (d)
 
-Compliance With Laws and Regulations.—The Secretary of Transportation may require a certification from a sponsor that the sponsor will comply with all applicable laws and regulations. The Secretary may rescind at any time acceptance of a certification from a sponsor under this subsection. This subsection does not affect any responsibility of the Secretary under another law, including—
+Compliance With Laws and Regulations.—The Secretary of Transportation mayrequire a certification from a sponsor that the sponsor will comply with all applicable laws and regulations. The Secretary may rescind at any time acceptance of a certification from a sponsor under this subsection. This subsection does not affect any responsibility of the Secretary under another law, including—
 
 &emsp;(1) section 303 of this title;
 

@@ -20,7 +20,7 @@ For purposes of this chapter, if—
 
 #### (A) In general
 
-&emsp;&emsp;If the generation-skipping transfer referred to in subsection (a) involves thetransfer of property from 1 trust to another trust (hereinafter in this paragraph referred to as the “pour-over trust”), the inclusion ratio for the pour-over trust shall be determined by treating the nontax portion of such distribution as if it were a part of a GST exemption allocated to such trust.
+&emsp;&emsp;If the generation-skipping transfer referred to in subsection (a) involves the transfer of property from 1 trust to another trust (hereinafter in this paragraph referred to as the “pour-over trust”), the inclusion ratio for the pour-over trust shall be determined by treating the nontax portion of such distribution as if it were a part of a GST exemption allocated to such trust.
 
 #### (B) Nontax portion
 

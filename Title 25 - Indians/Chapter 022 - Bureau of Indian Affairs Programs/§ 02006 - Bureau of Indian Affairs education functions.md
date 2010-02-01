@@ -52,7 +52,7 @@ Education personnel who are under the direction and supervision of the Director 
 
 &emsp;&emsp;&emsp;(iii) a notice of an allocation of appropriated funds from the Director of the Office of Indian Education Programs directly to the education line officers and appropriate school officials;
 
-&emsp;&emsp;&emsp;(iv) a method for determining the need for, and priority of, facilities repair andmaintenance projects, both major and minor (to be determined, through the conduct by the Assistant Secretary, of a series of meetings at the agency and area level with representatives of the Bureau-funded schools in those areas and agencies to receive comment on the lists and prioritization of such projects); and
+&emsp;&emsp;&emsp;(iv) a method for determining the need for, and priority of, facilities repair and maintenance projects, both major and minor (to be determined, through the conduct by the Assistant Secretary, of a series of meetings at the agency and area level with representatives of the Bureau-funded schools in those areas and agencies to receive comment on the lists and prioritization of such projects); and
 
 &emsp;&emsp;&emsp;(v) a system for the conduct of routine preventive maintenance.
 

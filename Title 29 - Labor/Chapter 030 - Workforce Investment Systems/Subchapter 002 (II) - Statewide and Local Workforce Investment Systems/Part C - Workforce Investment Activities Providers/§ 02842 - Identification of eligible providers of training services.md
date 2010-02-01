@@ -46,7 +46,7 @@
 
 #### (D) Requirements
 
-&emsp;&emsp;In establishing the procedure, the Governor shall require that, to be initially eligible to receive funds as described in subsection (a) of this section for a program, a provider described in subsection (a)(2)(C) of this section—
+&emsp;&emsp;In establishing the procedure, the Governor shall require that, to be initially eligible to receive funds as described in subsection (a) of this section for a program, aprovider described in subsection (a)(2)(C) of this section—
 
 &emsp;&emsp;&emsp;(i) shall submit an application, to the local board for the local area in which the provider desires to provide training services, at such time and in such manner as may be required, and containing a description of the program;
 
@@ -164,7 +164,7 @@
 
 #### (A) State list
 
-&emsp;&emsp;The designated State agency shall compile a single list of the providers identified under paragraph (3) from all local areas in the State and disseminate such list, and the performance information and program cost information described in paragraph (1), to the one-stop delivery systems within the State.Such list and information shall be made widely available to participants in employment and training activities authorized under section 2864 of this title and others through the one-stop delivery system.
+&emsp;&emsp;The designated State agency shall compile a single list of the providers identified under paragraph (3) from all local areas in the State and disseminate such list, and the performance information and program cost information described in paragraph (1), to the one-stop delivery systems within the State. Such list and information shall be made widely available to participants in employment and training activities authorized under section 2864 of this title and others through the one-stop delivery system.
 
 #### (B) Selection from State list
 
@@ -172,7 +172,7 @@
 
 #### (5) Acceptance of individual training accounts by other States
 
-&emsp;States may enter into agreements, on a reciprocal basis, to permit eligible providers of training services in a State to accept individual training accounts provided in another State.
+&emsp;States may enter into agreements, on a reciprocal basis, to permit eligible providers oftraining services in a State to accept individual training accounts provided in another State.
 
 #### (f) Enforcement
 

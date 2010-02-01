@@ -114,7 +114,7 @@ The Secretary may not conduct an authorized hazardous fuel reduction project tha
 
 &emsp;Except in old growth stands where the management direction is consistent with subsection (e)(2), the Secretary shall carry out a covered project in a manner that—
 
-&emsp;&emsp;(A) focuses largely on small diameter trees, thinning, strategic fuel breaks, and prescribed fire to modify fire behavior, asmeasured by the projected reduction of uncharacteristically severe wildfire effects for the forest type (such as adverse soil impacts, tree mortality or other impacts); and
+&emsp;&emsp;(A) focuses largely on small diameter trees, thinning, strategic fuel breaks, and prescribed fire to modify fire behavior, as measured by the projected reduction of uncharacteristically severe wildfire effects for the forest type (such as adverse soil impacts, tree mortality or other impacts); and
 
 &emsp;&emsp;(B) maximizes the retention of large trees, as appropriate for the forest type, to the extent that the trees promote fire-resilient stands.
 
@@ -158,7 +158,7 @@ The Secretary may not conduct an authorized hazardous fuel reduction project tha
 
 #### (A) In general
 
-&emsp;&emsp;In an area where significant interest is expressed in multiparty monitoring, the Secretary shall establish a multiparty monitoring, evaluation, and accountability process in order to assess the positive or negative ecological and social effects of authorized hazardous fuel reduction projects and projects conducted pursuant to section 6554 of this title.
+&emsp;&emsp;In an area where significant interest is expressed in multiparty monitoring, the Secretary shall establish a multiparty monitoring, evaluation, and accountability process in order to assess the positive or negative ecological and social effects of authorizedhazardous fuel reduction projects and projects conducted pursuant to section 6554 of this title.
 
 #### (B) Diverse stakeholders
 

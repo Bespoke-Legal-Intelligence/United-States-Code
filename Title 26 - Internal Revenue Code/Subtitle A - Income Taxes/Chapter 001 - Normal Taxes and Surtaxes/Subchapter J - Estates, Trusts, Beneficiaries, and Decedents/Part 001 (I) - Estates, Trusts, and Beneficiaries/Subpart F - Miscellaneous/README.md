@@ -5,16 +5,18 @@ Subpart F—Miscellaneous
 | [681\.](%C2%A7%2000681%20-%20Limitation%20on%20charitable%20deduction.md) | Limitation on charitable deduction. |
 | [682\.](%C2%A7%2000682%20-%20Income%20of%20an%20estate%20or%20trust%20in%20case%20of%20divorce%2C%20etc.md) | Income of an estate or trust in case of divorce, etc. |
 | [683\.](%C2%A7%2000683%20-%20Use%20of%20trust%20as%20an%20exchange%20fund.md) | Use of trust as an exchange fund. |
-| [684\.](%C2%A7%2000684%20-%20Recognition%20of%20gain%20on%20certain%20transfers%20to%20certain%20foreign%20trusts%20and%20estates.md) | Recognition of gain on certain transfers to certain foreign trusts and estates. |
+| [684\.](%C2%A7%2000684%20-%20Recognition%20of%20gain%20on%20certain%20transfers%20to%20certain%20foreign%20trusts%20and%20estates%20and%20nonresident%20aliens.md) | Recognition of gain on certain transfers to certain foreign trusts and estates and nonresident aliens. |
 | [685\.](%C2%A7%2000685%20-%20Treatment%20of%20funeral%20trusts.md) | Treatment of funeral trusts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendment of Analysis
 
-<i>Pub. L. 107–16, title V, §542(e)(1)(D), (f)(2), title IX, §901, June 7, 2001, 115 Stat. 85, 86, 150, provided that, applicable to transfers after Dec. 31, 2009, item 684 is temporarily amended by inserting “and nonresident aliens” after “estates”.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note set out under section 1 of this title.</i>
 
 #### Amendments
+
+2001—Pub. L. 107–16, title V, §542(e)(1)(D), title IX, §901, June 7, 2001, 115 Stat. 85, 150, temporarily inserted “and nonresident aliens” after “estates” in item 684.
 
 1997—Pub. L. 105–34, title XI, §1131(c)(6), title XIII, §1309(b), Aug. 5, 1997, 111 Stat. 980, 1043, added items 684 and 685.
 
@@ -28,5 +30,5 @@ Subpart F—Miscellaneous
 - [&sect; 00681 - Limitation on charitable deduction](%C2%A7%2000681%20-%20Limitation%20on%20charitable%20deduction.md)
 - [&sect; 00682 - Income of an estate or trust in case of divorce, etc](%C2%A7%2000682%20-%20Income%20of%20an%20estate%20or%20trust%20in%20case%20of%20divorce%2C%20etc.md)
 - [&sect; 00683 - Use of trust as an exchange fund](%C2%A7%2000683%20-%20Use%20of%20trust%20as%20an%20exchange%20fund.md)
-- [&sect; 00684 - Recognition of gain on certain transfers to certain foreign trusts and estates](%C2%A7%2000684%20-%20Recognition%20of%20gain%20on%20certain%20transfers%20to%20certain%20foreign%20trusts%20and%20estates.md)
+- [&sect; 00684 - Recognition of gain on certain transfers to certain foreign trusts and estates and nonresident aliens](%C2%A7%2000684%20-%20Recognition%20of%20gain%20on%20certain%20transfers%20to%20certain%20foreign%20trusts%20and%20estates%20and%20nonresident%20aliens.md)
 - [&sect; 00685 - Treatment of funeral trusts](%C2%A7%2000685%20-%20Treatment%20of%20funeral%20trusts.md)

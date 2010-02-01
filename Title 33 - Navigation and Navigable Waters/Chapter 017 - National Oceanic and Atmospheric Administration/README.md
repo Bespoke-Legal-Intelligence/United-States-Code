@@ -29,6 +29,7 @@
 | [877\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000877%20-%20Appropriations%3B%20advances%20from.md) | Appropriations; advances from. |
 | [878\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000878%20-%20Appropriations%3B%20purchases%20from.md) | Appropriations; purchases from. |
 | [878a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000878a%20-%20Contract%20for%20development%20of%20a%20major%20program%3B%20costs%3B%20Major%20Program%20Annual%20Report%20for%20satellite%20development%20program.md) | Contract for development of a major program; costs; Major Program Annual Report for satellite development program. |
+| [878b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000878b%20-%20Safety%20and%20health%20regulations%20for%20scientific%20and%20occupational%20diving.md) | Safety and health regulations for scientific and occupational diving. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

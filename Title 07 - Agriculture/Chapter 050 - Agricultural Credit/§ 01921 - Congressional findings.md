@@ -18,7 +18,7 @@ Former section 300.1 of Title 6, Code of Federal Regulations, promulgated on Oct
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title V, §501\], Dec. 21, 2000, 114 Stat. 2763, 2763A–268, provided that: “This title \[enacting subchapter VI of this chapter and amending provisions set out as a note under section 3121 of Title42, The Public Health and Welfare\] may be cited as the ‘Delta Regional Authority Act of 2000’.”
+Pub. L. 106–554, §1(a)(4) \[div. B, title V, §501\], Dec. 21, 2000, 114 Stat. 2763, 2763A–268, provided that: “This title \[enacting subchapter VI of this chapter and amending provisions set out as a note under section 3121 of Title 42, The Public Health and Welfare\] may be cited as the ‘Delta Regional Authority Act of 2000’.”
 
 #### Short Title of 1994 Amendment
 
@@ -72,7 +72,7 @@ Pub. L. 95–334, title I, §126, Aug. 4, 1978, 92 Stat. 429, provided that: “
 
 Section 341 of Pub. L. 87–128 provided that:
 
-“(a) Reference to any provisions of the Bankhead-Jones Farm Tenant Act \[see section 1000 of this title\] or the Act of August 28, 1937 (50 Stat. 869), as amended, superseded by any provision of this title \[this chapter\] shall be construed as referring to the appropriate provision of this title \[this chapter\]. Titles I, II, and IV of the Bankhead-Jones Farm Tenant Act, as amended, and the Act of August 28, 1937 (50 Stat. 869), as amended, the Act of April 6, 1949 (63 Stat. 43), as amended, and the Act of August 31, 1954 (68 Stat. 999), as amended, are hereby repealed effective one hundred and twenty days after enactment hereof \[Aug. 8, 1961\], or such earlier date as the provisions of this title \[this chapter\] are made effective by the Secretary's regulations except that the repeal of section 2(c) of the Act of April 6, 1949, shall not be effective prior to January 1, 1962. The foregoing provisions shall not have the effect of repealing the amendments to section 24, chapter 6 of the Federal Reserve Act \[section 371 of Title 12\], as amended, section 5200 of the Revised Statutes \[section 84 of Title 12\], section 35 of chapter III of the Act approved June 19, 1934 (D.C. Code, title 35, section 535), enacted by section 15 of the Bankhead-Jones Farm Tenant Act, as amended, and by section 10(f) of the Act of August 28, 1937 (50 Stat. 869), as amended.
+“(a) Reference to any provisions of the Bankhead-Jones Farm Tenant Act \[see section 1000 of this title\]or the Act of August 28, 1937 (50 Stat. 869), as amended, superseded by any provision of this title \[this chapter\] shall be construed as referring to the appropriate provision of this title \[this chapter\]. Titles I, II, and IV of the Bankhead-Jones Farm Tenant Act, as amended, and the Act of August 28, 1937 (50 Stat. 869), as amended, the Act of April 6, 1949 (63 Stat. 43), as amended, and the Act of August 31, 1954 (68 Stat. 999), as amended, are hereby repealed effective one hundred and twenty days after enactment hereof \[Aug. 8, 1961\], or such earlier date as the provisions of this title \[this chapter\] are made effective by the Secretary's regulations except that the repeal of section 2(c) of the Act of April 6, 1949, shall not be effective prior to January 1, 1962. The foregoing provisions shall not have the effect of repealing the amendments to section 24, chapter 6 of the Federal Reserve Act \[section 371 of Title 12\], as amended, section 5200 of the Revised Statutes \[section 84 of Title 12\], section 35 of chapter III of the Act approved June 19, 1934 (D.C. Code, title 35, section 535), enacted by section 15 of the Bankhead-Jones Farm Tenant Act, as amended, and by section 10(f) of the Act of August 28, 1937 (50 Stat. 869), as amended.
 
 “(b) The repeal of any provision of law by this title \[this chapter\] shall not—
 
@@ -80,5 +80,5 @@ Section 341 of Pub. L. 87–128 provided that:
 
 &emsp;“(2) prejudice the application of any person with respect to receiving assistance under the provisions of this title \[this chapter\], solely because such person is obligated to the Secretary under authorization contained in any such repealed provision.
 
-“(c) If any provision of this title \[this chapter\] or the application thereof to any person or circumstances isheld invalid, the remainder of the title \[this chapter\] and the application of such provision to other persons or circumstances shall not be affected thereby.”
+“(c) If any provision of this title \[this chapter\] or the application thereof to any person or circumstances is held invalid, the remainder of the title \[this chapter\] and the application of such provision to other persons or circumstances shall not be affected thereby.”
 

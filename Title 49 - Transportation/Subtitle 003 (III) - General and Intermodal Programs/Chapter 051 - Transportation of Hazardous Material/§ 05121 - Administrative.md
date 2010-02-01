@@ -10,7 +10,7 @@ Records, Reports, and Information.—A person subject to this chapter shall—
 
 &emsp;(1) maintain records and property, make reports, and provide information the Secretary by regulation or order requires; and
 
-&emsp;(2) make the records, property, reports, and information available for inspection when the Secretary undertakes an investigation or makes a request.
+&emsp;(2) make the records, property, reports, and information available for inspection when theSecretary undertakes an investigation or makes a request.
 
 (c)
 
@@ -72,7 +72,7 @@ Opportunity for review.—After taking action under paragraph (1), the Secretary
 
 &emsp;(4)
 
-Expiration of effectiveness of order.—If a petition for review of an action is filed under paragraph (3) and the review under thatparagraph is not completed by the end of the 30-day period beginning on the date the petition is filed, the action shall cease to be effective at the end of such period unless the Secretary determines, in writing, that the imminent hazard providing a basis for the action continues to exist.
+Expiration of effectiveness of order.—If a petition for review of an action is filed under paragraph (3) and the review under that paragraph is not completed by the end of the 30-day period beginning on the date the petition is filed, the action shall cease to be effective at the end of such period unless the Secretary determines, in writing, that the imminent hazard providing a basis for the action continues to exist.
 
 &emsp;(5)
 
@@ -96,7 +96,7 @@ Facility, Staff, and Reporting System on Risks, Emergencies, and Actions.—(1) 
 
 &emsp;(A) maintain a facility and technical staff sufficient to provide, within the United States Government, the capability of evaluating a risk related to the transportation of hazardous material and material alleged to be hazardous;
 
-&emsp;(B) maintain a central reporting system and information center capable of providing information and advice to law enforcement and firefighting personnel, other interested individuals, and officers and employees of the Government and State and local governments on meeting an emergency related to the transportation of hazardous material; and
+&emsp;(B) maintain a central reporting system and information center capable of providing information and advice to law enforcement and firefighting personnel, other interested individuals, and officers and employees of the Government and State and local governments onmeeting an emergency related to the transportation of hazardous material; and
 
 &emsp;(C) conduct a continuous review on all aspects of transporting hazardous material to decide on and take appropriate actions to ensure safe transportation of hazardous material.
 

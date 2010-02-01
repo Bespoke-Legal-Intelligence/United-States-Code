@@ -214,7 +214,7 @@ Performance standard.—Proposals submitted under paragraph (2) must meet any st
 
 Contents.—A proposal submitted under this subsection shall include—
 
-&emsp;&emsp;“(A) the names and qualifications of the persons submitting the proposal and the entities proposed to finance, design, construct, operate, and maintain the railroad, railroad equipment, and related facilities, stations, and infrastructure;
+&emsp;&emsp;“(A) the names and qualifications of the persons submitting the proposal and the entities proposedto finance, design, construct, operate, and maintain the railroad, railroad equipment, and related facilities, stations, and infrastructure;
 
 &emsp;&emsp;“(B) a detailed description of the proposed rail service, including possible routes, required infrastructure investments and improvements, equipment needs and type, train frequencies, peak and average operating speeds, and trip times;
 
@@ -344,7 +344,7 @@ Verbal presentation.—Proposers shall be given an opportunity to make a verbal 
 
 &emsp;“(3)
 
-Authorization of appropriations.—There are authorized to be appropriated to the Secretary for the use of each commission established under subsection (b)(2) such sums as are necessary to carry out this section.
+Authorization of appropriations.—There are authorized to be appropriated to the Secretary forthe use of each commission established under subsection (b)(2) such sums as are necessary to carry out this section.
 
 “(e)
 

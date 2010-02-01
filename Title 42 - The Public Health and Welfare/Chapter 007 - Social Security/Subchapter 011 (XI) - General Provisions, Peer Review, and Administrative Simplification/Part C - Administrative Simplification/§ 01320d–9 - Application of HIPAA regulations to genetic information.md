@@ -14,7 +14,7 @@ For purposes of this section:
 
 #### (1) Genetic information; genetic test; family member
 
-&emsp;The terms “genetic information”, “genetic test”, and “family member” have the meanings given such terms in section 300gg–91 ofthis title, as amended by the Genetic Information Nondiscrimination Act of 2007.<sup>1</sup>
+&emsp;The terms “genetic information”, “genetic test”, and “family member” have the meanings given such terms in section 300gg–91 of this title, as amended by the Genetic Information Nondiscrimination Act of 2007.<sup>1</sup>
 
 #### (2) Group health plan; health insurance coverage; medicare supplemental policy
 

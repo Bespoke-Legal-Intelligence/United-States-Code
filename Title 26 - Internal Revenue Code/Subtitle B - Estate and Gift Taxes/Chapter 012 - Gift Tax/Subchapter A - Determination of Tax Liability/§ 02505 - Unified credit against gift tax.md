@@ -4,7 +4,7 @@
 
 In the case of a citizen or resident of the United States, there shall be allowed as a credit against the tax imposed by section 2501 for each calendar year an amount equal to—
 
-&emsp;(1) the applicable credit amount in effect under section 2010(c) for such calendar year (determined as if the applicable exclusion amount were $1,000,000), reduced by
+&emsp;(1) the amount of the tentative tax which would be determined under the rate schedule set forth in section 2502(a)(2) if the amount with respect to which such tentative tax is to be computed were $1,000,000, reduced by
 
 &emsp;(2) the sum of the amounts allowable as a credit to the individual under this section for all preceding calendar periods.
 
@@ -22,17 +22,15 @@ The amount of the credit allowed under subsection (a) for any calendar year shal
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
-<i>Pub. L. 107–16, title V, §521(b)(2), (e)(2), title IX, §901, June 7, 2001, 115 Stat. 71, 72, 150, provided that, applicable to gifts made after Dec. 31, 2009, subsection (a)(1) of this section is temporarily amended to read as follows:</i>
-
-&emsp;<i>“(1) the amount of the tentative tax which would be determined under the rate schedule set forth in section 2502(a)(2) if the amount with respect to which such tentative tax is to be computed were $1,000,000, reduced by”.</i>
-
 #### References in Text
 
 The Tax Reform Act of 1976, referred to in subsec. (b), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, as amended. Section 2521 of this title was repealed by section 2001(b)(3) of Pub. L. 94–455. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-2001—Subsec. (a)(1). Pub. L. 107–16, §§521(b)(1), 901, temporarily inserted “(determined as if the applicable exclusion amount were $1,000,000)” after “calendar year”. See Effective and Termination Dates of 2001 Amendment note below.
+2001—Subsec. (a)(1). Pub. L. 107–16, §§521(b)(2), 901, temporarily amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the applicable credit amount in effect under section 2010(c) for such calendar year (determined as if the applicable exclusion amount were $1,000,000), reduced by”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Pub. L. 107–16, §§521(b)(1), 901, temporarily inserted “(determined as if the applicable exclusion amount were $1,000,000)” after “calendar year”. See Effective and Termination Dates of 2001 Amendment note below.
 
 1997—Subsec. (a)(1). Pub. L. 105–34 substituted “the applicable credit amount in effect under section 2010(c) for such calendar year” for “$192,800”.
 

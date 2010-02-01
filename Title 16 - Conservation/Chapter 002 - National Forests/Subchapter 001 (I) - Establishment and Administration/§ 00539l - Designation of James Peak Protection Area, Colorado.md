@@ -36,7 +36,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 #### (B) Mining withdrawal
 
-&emsp;&emsp;Subject to valid existing rights, all Federal land within the Protection Area and allland and interests in land acquired for the Protection Area by the United States are withdrawn from—
+&emsp;&emsp;Subject to valid existing rights, all Federal land within the Protection Area and all land and interests in land acquired for the Protection Area by the United States are withdrawn from—
 
 &emsp;&emsp;&emsp;(i) all forms of entry, appropriation, or disposal under the public land laws;
 
@@ -104,7 +104,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 #### (2) Colorado water law
 
-&emsp;The Secretary shall follow the procedural and substantive requirements of the law of theState of Colorado in order to obtain and hold any new water rights with respect to the Protection Area.
+&emsp;The Secretary shall follow the procedural and substantive requirements of the law of the State of Colorado in order to obtain and hold any new water rights with respect to the Protection Area.
 
 #### (3) Water infrastructure
 

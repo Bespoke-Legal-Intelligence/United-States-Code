@@ -56,7 +56,7 @@ There are authorized to be appropriated for each of fiscal years 1996 through 20
 
 #### References in Text
 
-Section 2397h of title 20, referred to in subsec. (g)(4), was omitted in the general amendment of chapter 44\(§2301 et seq.) of Title 20, Education, by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
+Section 2397h of title 20, referred to in subsec. (g)(4), was omitted in the general amendment of chapter 44 (§2301 et seq.) of Title 20, Education, by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
 
 #### Amendments
 

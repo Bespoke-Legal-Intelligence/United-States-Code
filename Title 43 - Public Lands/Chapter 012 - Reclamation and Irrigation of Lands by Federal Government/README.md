@@ -75,7 +75,7 @@
 | 390h–12g. | Albuquerque Metropolitan Area Water Reclamation and Reuse Project. |
 | 390h–12h. | El Paso Water Reclamation and Reuse Project. |
 | 390h–12i. | Reclaimed water in Pasadena. |
-| 390h–12j. | Phase 1 of Orange County Regional Water Reclamation Project. |
+| 390h–12j. | Orange County Regional Water Reclamation Project. |
 | 390h–12k. | City of West Jordan Water Reuse Project. |
 | 390h–12<i>l.</i> | Hi-Desert Water District in Yucca Valley, California wastewater collection and reuse facility. |
 | 390h–12m. Mission Basin Brackish Groundwater Desalting Demonstration Project. |  |
@@ -102,6 +102,14 @@
 | 390h–29. | Redwood City recycled water project. |
 | 390h–30. | South Santa Clara County recycled water project. |
 | 390h–31. | South Bay advanced recycled water treatment facility. |
+| 390h–32. | Rancho California Water District project, California. |
+| 390h–33. | Elsinore Valley Municipal Water District projects, California. |
+| 390h–34. | North Bay Water Reuse Program. |
+| 390h–35. | Prado Basin natural treatment system project. |
+| 390h–36. | Lower Chino Dairy Area desalination demonstration and reclamation project. |
+| 390h–37. | Oxnard, California, water reclamation, reuse, and treatment project. |
+| 390h–38. | Yucaipa Valley regional water supply renewal project. |
+| 390h–39. | City of Corona Water Utility, California, water recycling and reuse project. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -160,6 +168,14 @@
 | [400\.](Subchapter%20002%20%28II%29%20-%20Reclamation%20Fund%20Generally/%C2%A7%2000400%20-%20Advances%20as%20item%20of%20cost%20of%20construction%20and%20maintenance%20of%20project.md) | Advances as item of cost of construction and maintenance of project. |
 | [401\.](Subchapter%20002%20%28II%29%20-%20Reclamation%20Fund%20Generally/%C2%A7%2000401%20-%20Amounts%20collected%20from%20defaulting%20contractors%20and%20their%20sureties.md) | Amounts collected from defaulting contractors and their sureties. |
 | 402 to 404. Omitted or Repealed. |  |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER II–A—RECLAMATION WATER SETTLEMENTS FUND
+
+|  |  |
+| :--- | ---: |
+| [407\.](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20Reclamation%20Water%20Settlements%20Fund/%C2%A7%2000407%20-%20Reclamation%20Water%20Settlements%20Fund.md) | Reclamation Water Settlements Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -383,6 +399,18 @@
 | [508\.](Subchapter%20011%E2%80%93A%20%28XI%E2%80%93A%29%20-%20Reclamation%20Safety%20of%20Dams/%C2%A7%2000508%20-%20Costs%20incurred%20in%20the%20modification%20of%20structures.md) | Costs incurred in the modification of structures. |
 | [509\.](Subchapter%20011%E2%80%93A%20%28XI%E2%80%93A%29%20-%20Reclamation%20Safety%20of%20Dams/%C2%A7%2000509%20-%20Authorization%20of%20appropriations%3B%20report%20to%20Congress.md) | Authorization of appropriations; report to Congress. |
 | [509a.](Subchapter%20011%E2%80%93A%20%28XI%E2%80%93A%29%20-%20Reclamation%20Safety%20of%20Dams/%C2%A7%2000509a%20-%20Project%20beneficiaries.md) | Project beneficiaries. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER XI–B—AGING INFRASTRUCTURE
+
+|  |  |
+| :--- | ---: |
+| [510\.](Subchapter%20011%E2%80%93B%20%28XI%E2%80%93B%29%20-%20Aging%20Infrastructure/%C2%A7%2000510%20-%20Definitions.md) | Definitions. |
+| [510a.](Subchapter%20011%E2%80%93B%20%28XI%E2%80%93B%29%20-%20Aging%20Infrastructure/%C2%A7%2000510a%20-%20Guidelines%20and%20inspection%20of%20project%20facilities%20and%20technical%20assistance%20to%20transferred%20works%20operating%20entities.md) | Guidelines and inspection of project facilities and technical assistance to transferred works operating entities. |
+| [510b.](Subchapter%20011%E2%80%93B%20%28XI%E2%80%93B%29%20-%20Aging%20Infrastructure/%C2%A7%2000510b%20-%20Extraordinary%20operation%20and%20maintenance%20work%20performed%20by%20the%20Secretary.md) | Extraordinary operation and maintenance work performed by the Secretary. |
+| [510c.](Subchapter%20011%E2%80%93B%20%28XI%E2%80%93B%29%20-%20Aging%20Infrastructure/%C2%A7%2000510c%20-%20Relationship%20to%20Twenty-First%20Century%20Water%20Works%20Act.md) | Relationship to Twenty-First Century Water Works Act. |
+| [510d.](Subchapter%20011%E2%80%93B%20%28XI%E2%80%93B%29%20-%20Aging%20Infrastructure/%C2%A7%2000510d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -785,6 +813,7 @@
 - [Subchapter 001 (I) - General Provisions](Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md)
 - [Subchapter 001&#8211;A (I&#8211;A) - Reclamation Reform](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/README.md)
 - [Subchapter 002 (II) - Reclamation Fund Generally](Subchapter%20002%20%28II%29%20-%20Reclamation%20Fund%20Generally/README.md)
+- [Subchapter 002&#8211;A (II&#8211;A) - Reclamation Water Settlements Fund](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20Reclamation%20Water%20Settlements%20Fund/README.md)
 - [Subchapter 003 (III) - Institution and Construction of Projects](Subchapter%20003%20%28III%29%20-%20Institution%20and%20Construction%20of%20Projects/README.md)
 - [Subchapter 004 (IV) - Construction of Small Projects](Subchapter%20004%20%28IV%29%20-%20Construction%20of%20Small%20Projects/README.md)
 - [Subchapter 005 (V) - Administration of Existing Projects](Subchapter%20005%20%28V%29%20-%20Administration%20of%20Existing%20Projects/README.md)
@@ -795,6 +824,7 @@
 - [Subchapter 010 (X) - Payment of Construction Charges](Subchapter%20010%20%28X%29%20-%20Payment%20of%20Construction%20Charges/README.md)
 - [Subchapter 011 (XI) - Maintenance and Operation of Works Generally](Subchapter%20011%20%28XI%29%20-%20Maintenance%20and%20Operation%20of%20Works%20Generally/README.md)
 - [Subchapter 011&#8211;A (XI&#8211;A) - Reclamation Safety of Dams](Subchapter%20011%E2%80%93A%20%28XI%E2%80%93A%29%20-%20Reclamation%20Safety%20of%20Dams/README.md)
+- [Subchapter 011&#8211;B (XI&#8211;B) - Aging Infrastructure](Subchapter%20011%E2%80%93B%20%28XI%E2%80%93B%29%20-%20Aging%20Infrastructure/README.md)
 - [Subchapter 012 (XII) - Contracts with State Irrigation Districts for Payment of Charges](Subchapter%20012%20%28XII%29%20-%20Contracts%20with%20State%20Irrigation%20Districts%20for%20Payment%20of%20Charges/README.md)
 - [Subchapter 013 (XIII) - Sale or Lease of Surplus Waters, Water Power, Storage Capacity, and Water Transportation Facilities](Subchapter%20013%20%28XIII%29%20-%20Sale%20or%20Lease%20of%20Surplus%20Waters%2C%20Water%20Power%2C%20Storage%20Capacity%2C%20and%20Water%20Transportation%20Facilities/README.md)
 - [Subchapter 014 (XIV) - Patents and Final Water-Right Certificates](Subchapter%20014%20%28XIV%29%20-%20Patents%20and%20Final%20Water-Right%20Certificates/README.md)

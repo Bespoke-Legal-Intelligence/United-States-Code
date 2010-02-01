@@ -44,7 +44,7 @@ Notwithstanding any other provision of this chapter, the authorities, functions,
 
 #### (d) Certain transfers prohibited
 
-No mission, function, or asset (including for purposes of this subsection any ship, aircraft, or helicopter) of the Coast Guard may be diverted to the principal and continuing use of any other organization, unit, or entity of the Department, except for details or assignments that do not reduce the Coast Guard's capability to perform its missions.
+No mission, function, or asset (including for purposes of this subsection any ship, aircraft, or helicopter) of the Coast Guard may be divertedto the principal and continuing use of any other organization, unit, or entity of the Department, except for details or assignments that do not reduce the Coast Guard's capability to perform its missions.
 
 #### (e) Changes to missions
 

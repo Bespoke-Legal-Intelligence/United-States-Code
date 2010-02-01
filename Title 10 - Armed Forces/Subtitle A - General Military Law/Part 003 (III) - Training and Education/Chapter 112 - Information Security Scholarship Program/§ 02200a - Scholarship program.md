@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of Defense may, subject to subsection (g), provide financial assistance in accordance with this section to a person—
+Authority.—The Secretary of Defense may, subject to subsection (f), provide financial assistance in accordance with this section to a person—
 
 &emsp;(1) who is pursuing an associate, baccalaureate, or advanced degree, or a certification, in an information assurance discipline referred to in section 2200(a) of this title at an institution of higher education; and
 
@@ -22,7 +22,7 @@ Service Agreement for Scholarship Recipients.—(1) To receive financial assista
 
 &emsp;&emsp;(ii) to accept and continue employment in the Department of Defense for the period of obligated service determined under paragraph (2).
 
-(2) For the purposes of this subsection, the period of obligated service for a recipient of financial assistance under this section shall be the period determined by the Secretary of Defense as being appropriate to obtain adequate service in exchange for the financial assistance and otherwise to achieve the goals set forth in section 2200(a) of this title. In no event may the period of service required of a recipient be less than the period equal to three-fourths of the total period of pursuit of a degree for which the Secretary agrees to provide the recipient with financial assistance under this section. The period of obligated service is in addition to any other period for which the recipient is obligated to serve on active duty or in the civil service, as the case may be.
+(2) For the purposes of this subsection, the period of obligated service for a recipient of financial assistance under this section shall be the period determined by the Secretary of Defense as being appropriate to obtain adequate servicein exchange for the financial assistance and otherwise to achieve the goals set forth in section 2200(a) of this title. In no event may the period of service required of a recipient be less than the period equal to three-fourths of the total period of pursuit of a degree for which the Secretary agrees to provide the recipient with financial assistance under this section. The period of obligated service is in addition to any other period for which the recipient is obligated to serve on active duty or in the civil service, as the case may be.
 
 (3) An agreement entered into under this section by a person pursuing an academic degree shall include terms that provide the following:
 
@@ -42,7 +42,7 @@ Use of Assistance for Support of Internships.—The financial assistance for a p
 
 (e)
 
-Repayment for Period of Unserved Obligated Service.—(1) A member of an armed force who does not complete the period of active duty specified in the service agreement under section <sup>1</sup> (b) shall be subject to the repayment provisions of section 303a(e) of title 37.
+Repayment for Period of Unserved Obligated Service.—(1) A member of an armed force who does not complete the period of active duty specified in the service agreement under subsection (b) shall be subject to the repayment provisions of section 303a(e) of title 37.
 
 (2) A civilian employee of the Department of Defense who voluntarily terminates service before the end of the period of obligated service required under an agreement entered into under subsection (b) shall be subject to the repayment provisions of section 303a(e) of title 37 in the same manner and to the same extent as if the civilian employee were a member of the armed forces.
 
@@ -50,9 +50,23 @@ Repayment for Period of Unserved Obligated Service.—(1) A member of an armed f
 
 Allocation of Funding.—Not less than 50 percent of the amount available for financial assistance under this section for a fiscal year shall be available only for providing financial assistance for the pursuit of degrees referred to in subsection (a) at institutions of higher education that have established, improved, or are administering programs of education in information assurance under the grant program established in section 2200b of this title, as determined by the Secretary of Defense.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §922(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–234; amended Pub. L. 109–163, div. A, title VI, §687(c)(8), Jan. 6, 2006, 119 Stat. 3334.)
+(g)
+
+Employment of Program Participants.—The Secretary of Defense—
+
+&emsp;(1) may, without regard to any provision of title 5 governing appointments in the competitive service, appoint to an information technology position in the Department of Defense in the excepted service an individual who has successfully completed an academic program for which a scholarship under this section was awarded and who, under the terms of the agreement for such scholarship, at the time of such appointment owes a service commitment to the Department; and
+
+&emsp;(2) may, upon satisfactory completion of two years of substantially continuous service by an incumbent who was appointed to an excepted service position under the authority of paragraph (1), convert the appointment of such individual, without competition, to a career or career conditional appointment.
+
+(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §922(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–234; amended Pub. L. 109–163, div. A, title VI, §687(c)(8), Jan. 6, 2006, 119 Stat. 3334; Pub. L. 111–84, div. A, title X, §1073(a)(20), title XI, §1103, Oct. 28, 2009, 123 Stat. 2473, 2485.)
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–84, §1103(b), substituted “subsection (f),” for “subsection (g),” in introductory provisions.
+
+Subsec. (e)(1). Pub. L. 111–84, §1073(a)(20), substituted “subsection (b)” for “section (b)”.
+
+Subsec. (g). Pub. L. 111–84, §1103(a), added subsec. (g).
 
 2006—Subsec. (e). Pub. L. 109–163, §687(c)(8)(A), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows:
 
@@ -67,6 +81,4 @@ Subsecs. (f), (g). Pub. L. 109–163, §687(c)(8)(B), (C), redesignated subsec. 
 #### Savings Provision
 
 For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

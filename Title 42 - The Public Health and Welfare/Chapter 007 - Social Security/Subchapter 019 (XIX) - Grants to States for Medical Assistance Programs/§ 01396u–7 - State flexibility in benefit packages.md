@@ -6,23 +6,33 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of this subchapter, a State, at its option as a State plan amendment, may provide for medical assistance under this subchapter to individuals within one or more groups of individuals specified by the State through enrollment in coverage that provides—
+&emsp;&emsp;Notwithstanding section 1396a(a)(1) of this title (relating to statewideness), section 1396a(a)(10)(B) of this title (relating to comparability) and any other provision of this subchapter which would be directly contrary to the authority under this section and subject to subsection <sup>1</sup> (E), a State, at its option as a State plan amendment, may provide for medical assistance under this subchapter to individuals within one or more groups of individuals specified by the State through coverage that—
 
-&emsp;&emsp;&emsp;(i) benchmark coverage described in subsection (b)(1) or benchmark equivalent coverage described in subsection (b)(2); and
+&emsp;&emsp;&emsp;(i) provides benchmark coverage described in subsection (b)(1) or benchmark equivalent coverage described in subsection (b)(2); and
 
-&emsp;&emsp;&emsp;(ii) for any child under 19 years of age who is covered under the State plan under section 1396a(a)(10)(A) of this title, wrap-around benefits to the benchmark coverage or benchmark equivalent coverage consisting of early and periodic screening, diagnostic, and treatment services defined in section 1396d(r) of this title.
+&emsp;&emsp;&emsp;(ii) for any individual described in section 1396d(a)(4)(B) of this title who is eligible under the State plan in accordance with paragraphs (10) and (17) of section 1396a(a) of this title, consists of the items and services described in section 1396d(a)(4)(B) of this title (relating to early and periodic screening, diagnostic, and treatment services defined in section 1396d(r) of this title) and provided in accordance with the requirements of section 1396a(a)(43) of this title.
 
 #### (B) Limitation
 
 &emsp;&emsp;The State may only exercise the option under subparagraph (A) for an individual eligible under an eligibility category that had been established under the State plan on or before February 8, 2006.
 
-#### (C) Option of wrap-around benefits
+#### (C) Option of additional benefits
 
-&emsp;&emsp;In the case of coverage described in subparagraph (A), a State, at its option, may provide such wrap-around or additional benefits as the State may specify.
+&emsp;&emsp;In the case of coverage described in subparagraph (A), a State, at its option, may provide such additional benefits as the State may specify.
 
 #### (D) Treatment as medical assistance
 
 &emsp;&emsp;Payment of premiums for such coverage under this subsection shall be treated as payment of other insurance premiums described in the third sentence of section 1396d(a) of this title.
+
+#### (E) Rule of construction
+
+&emsp;&emsp;Nothing in this paragraph shall be construed as—
+
+&emsp;&emsp;&emsp;(i) requiring a State to offer all or any of the items and services required by subparagraph (A)(ii) through an issuer of benchmark coverage described in subsection (b)(1) or benchmark equivalent coverage described in subsection (b)(2);
+
+&emsp;&emsp;&emsp;(ii) preventing a State from offering all or any of the items and services required by subparagraph (A)(ii) through an issuer of benchmark coverage described in subsection (b)(1) or benchmark equivalent coverage described in subsection (b)(2); or
+
+&emsp;&emsp;&emsp;(iii) affecting a child's entitlement to care and services described in subsections (a)(4)(B) and (r) of section 1396d of this title and provided in accordance with section 1396a(a)(43) of this title whether provided through benchmark coverage, benchmark equivalent coverage, or otherwise.
 
 #### (2) Application
 
@@ -64,7 +74,7 @@
 
 #### (viii) Children in foster care receiving child welfare services and children receiving foster care or adoption assistance
 
-&emsp;&emsp;&emsp;The individual is an individual with respect to whom aid or assistance is made available under part B of subchapter IV to children in foster care and individuals with respect to whom adoption or foster care assistance is made available under part E of such subchapter, without regard to age.
+&emsp;&emsp;&emsp;The individual is an individual with respect to whom child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care or with respect to whom adoption or foster care assistance is made available under part E of such subchapter, without regard to age.
 
 #### (ix) TANF and section 1396u–1 parents
 
@@ -180,7 +190,11 @@
 
 &emsp;&emsp;(B) payment for such services is made in accordance with the requirements of section 1396a(bb) of this title.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1937, as added Pub. L. 109–171, title VI, §6044(a), Feb. 8, 2006, 120 Stat. 88.)
+#### (c) Publication of provisions affected
+
+With respect to a State plan amendment to provide benchmark benefits in accordance with subsections (a) and (b) that is approved by the Secretary, the Secretary shall publish on the Internet website of the Centers for Medicare \& Medicaid Services, a list of the provisions of this subchapter that the Secretary has determined do not apply in order to enable the State to carry out the plan amendment and the reason for each such determination on the date such approval is made, and shall publish such list in the Federal Register and <sup>2</sup> not later than 30 days after such date of approval.
+
+(Aug. 14, 1935, ch. 531, title XIX, §1937, as added Pub. L. 109–171, title VI, §6044(a), Feb. 8, 2006, 120 Stat. 88; amended Pub. L. 111–3, title VI, §611(a)–(c), Feb. 4, 2009, 123 Stat. 100, 101.)
 
 #### References in Text
 
@@ -190,7 +204,31 @@ Parts A, B, and E of subchapter IV, referred to in subsec. (a)(2)(B)(viii), (ix)
 
 A prior section 1937 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
+#### Amendments
+
+2009—Subsec. (a)(1)(A). Pub. L. 111–3, §611(a)(1)(A), in introductory provisions, substituted “Notwithstanding section 1396a(a)(1) of this title (relating to statewideness), section 1396a(a)(10)(B) of this title (relating to comparability) and any other provision of this subchapter which would be directly contrary to the authority under this section and subject to subsection (E)” for “Notwithstanding any other provision of this subchapter” and “coverage that” for “enrollment in coverage that provides”.
+
+Subsec. (a)(1)(A)(i). Pub. L. 111–3, §611(a)(1)(B), inserted “provides” before “benchmark coverage”.
+
+Subsec. (a)(1)(A)(ii). Pub. L. 111–3, §611(a)(1)(C), added cl. (ii) and struck out former cl. (ii) which read as follows: “for any child under 19 years of age who is covered under the State plan under section 1396a(a)(10)(A) of this title, wrap-around benefits to the benchmark coverage or benchmark equivalent coverage consisting of early and periodic screening, diagnostic, and treatment services defined in section 1396d(r) of this title.”
+
+Subsec. (a)(1)(C). Pub. L. 111–3, §611(a)(2), substituted “additional” for “wrap-around” in heading and struck out “wrap-around or” before “additional” in text.
+
+Subsec. (a)(1)(E). Pub. L. 111–3, §611(a)(3), added subpar. (E).
+
+Subsec. (a)(2)(B)(viii). Pub. L. 111–3, §611(b), substituted “child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care or” for “aid or assistance is made available under part B of subchapter IV to children in foster care and individuals”.
+
+Subsec. (c). Pub. L. 111–3, §611(c), added subsec. (c).
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–3, title VI, §611(d), Feb. 4, 2009, 123 Stat. 101, provided that: “The amendments made by subsections (a), (b), and (c) of this section \[amending this section\] shall take effect as if included in the amendment made by section 6044(a) of the Deficit Reduction Act of 2005 \[Pub. L. 109–171\].”
+
 #### Effective Date
 
 Pub. L. 109–171, title VI, §6044(b), Feb. 8, 2006, 120 Stat. 92, provided that: “The amendment made by subsection (a) \[enacting this section\] takes effect on March 31, 2006.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

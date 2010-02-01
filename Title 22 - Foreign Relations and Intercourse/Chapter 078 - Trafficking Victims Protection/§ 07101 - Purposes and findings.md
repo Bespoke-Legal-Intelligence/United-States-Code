@@ -34,7 +34,7 @@ Congress finds that:
 
 &emsp;(13) Involuntary servitude statutes are intended to reach cases in which persons are held in a condition of servitude through nonviolent coercion. In United States v. Kozminski, 487 U.S. 931 (1988), the Supreme Court found that section 1584 of title 18, should be narrowly interpreted, absent a definition of involuntary servitude by Congress. As a result, that section was interpreted to criminalize only servitude that is brought about through use or threatened use of physical or legal coercion, and to exclude other conduct that can have the same purpose and effect.
 
-&emsp;(14) Existing legislation and law enforcement in the United States and other countries are inadequate to deter trafficking and bring traffickers to justice, failing to reflect the gravity of the offenses involved. No comprehensive law exists in the United States that penalizes the range of offenses involved in the trafficking scheme. Instead, even the most brutal instances of trafficking in the sex industry are often punished under laws that also apply to lesser offenses, so that traffickers typically escape deserved punishment.
+&emsp;(14) Existing legislation and law enforcement in the United States and other countries are inadequate to deter trafficking and bringtraffickers to justice, failing to reflect the gravity of the offenses involved. No comprehensive law exists in the United States that penalizes the range of offenses involved in the trafficking scheme. Instead, even the most brutal instances of trafficking in the sex industry are often punished under laws that also apply to lesser offenses, so that traffickers typically escape deserved punishment.
 
 &emsp;(15) In the United States, the seriousness of this crime and its components is not reflected in current sentencing guidelines, resulting in weak penalties for convicted traffickers.
 
@@ -72,11 +72,11 @@ Pub. L. 109–164, §1(a), Jan. 10, 2006, 119 Stat. 3558, provided that: “This
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–193, §1, Dec. 19, 2003, 117 Stat. 2875, provided that: “This Act \[enacting section 7109a of this title and section 1595 of Title 18, Crimes and Criminal Procedure, amending sections 2152d, 7102 to 7107, and 7110 of this title, sections 1101, 1182, 1184, and 1255 of Title 8, Aliens and Nationality, and sections 1591 and 1961 of Title 18, enacting provisions set out as notes under this section and section 7103 of this title, and repealing provisions set out as a note under section 7103 of this title\] may be cited as the ‘Trafficking Victims Protection Reauthorization Act of 2003’.”
+Pub. L. 108–193, §1, Dec. 19, 2003, 117 Stat. 2875, provided that: “This Act \[enacting section 7109a of thistitle and section 1595 of Title 18, Crimes and Criminal Procedure, amending sections 2152d, 7102 to 7107, and 7110 of this title, sections 1101, 1182, 1184, and 1255 of Title 8, Aliens and Nationality, and sections 1591 and 1961 of Title 18, enacting provisions set out as notes under this section and section 7103 of this title, and repealing provisions set out as a note under section 7103 of this title\] may be cited as the ‘Trafficking Victims Protection Reauthorization Act of 2003’.”
 
 #### Short Title
 
-Pub. L. 106–386, §1, Oct. 28, 2000, 114 Stat. 1464, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Victims of Trafficking and Violence Protection Act of 2000’.”
+Pub. L. 106–386, §1, Oct. 28, 2000, 114 Stat. 1464, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Victims of Trafficking and Violence Protection Act of 2000’.”
 
 Pub. L. 106–386, div. A, §101, Oct. 28, 2000, 114 Stat. 1466, provided that: “This division \[enacting this chapter, section 2152d of this title, and sections 1589 to 1594 of Title 18, Crimes and Criminal Procedure, and amending sections 2151n and 2304 of this title, sections 1101, 1182, 1184, and 1255 of Title 8, Aliens and Nationality, and sections 1581, 1583, and 1584 of Title 18\] may be cited as the ‘Trafficking Victims Protection Act of 2000’.”
 
@@ -140,11 +140,11 @@ Pub. L. 108–193, §2, Dec. 19, 2003, 117 Stat. 2875, provided that: “Congres
 
 &emsp;“(2) Since the enactment of the Trafficking Victims Protection Act of 2000 (division A of Public Law 106–386) \[see Short Title note above\], the United States Government has made significant progress in investigating and prosecuting acts of trafficking and in responding to the needs of victims of trafficking in the United States and abroad.
 
-&emsp;“(3) On the other hand, victims of trafficking have faced unintended obstacles in the process of securing needed assistance, including admission to the United States under section 101(a)(15)(T)(i) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(T)(i)\].
+&emsp;“(3) On the other hand, victims of trafficking have faced unintended obstacles in the process of securingneeded assistance, including admission to the United States under section 101(a)(15)(T)(i) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(T)(i)\].
 
 &emsp;“(4) Additional research is needed to fully understand the phenomenon of trafficking in persons and to determine the most effective strategies for combating trafficking in persons.
 
 &emsp;“(5) Corruption among foreign law enforcement authorities continues to undermine the efforts by governments to investigate, prosecute, and convict traffickers.
 
-&emsp;“(6) International Law Enforcement Academies should be more fully utilized in the effort to train lawenforcement authorities, prosecutors, and members of the judiciary to address trafficking in persons-related crimes.”
+&emsp;“(6) International Law Enforcement Academies should be more fully utilized in the effort to train law enforcement authorities, prosecutors, and members of the judiciary to address trafficking in persons-related crimes.”
 

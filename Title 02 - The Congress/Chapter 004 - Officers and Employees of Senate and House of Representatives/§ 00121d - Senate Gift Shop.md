@@ -18,7 +18,7 @@ Office of the Secretary”, for amounts used from such account to pay the salari
 
 (2) The Secretary of the Senate may transfer from the fund to the Capitol Preservation Fund the net profits (as determined by the Secretary) from sales of items by the Senate Gift Shop which are intended to benefit the Capitol Visitor Center.
 
-(3) The Secretary of the Senate may transfer from the fund to the Senate Employee Child Care Center proceeds from the sale of holiday ornaments by the Senate Gift Shop for the purpose of funding necessary activities and expenses of the Center, including scholarships, educational supplies, and equipment.
+(3) The Secretary of the Senate may transfer from the fund to the Senate Employee ChildCare Center proceeds from the sale of holiday ornaments by the Senate Gift Shop for the purpose of funding necessary activities and expenses of the Center, including scholarships, educational supplies, and equipment.
 
 #### (d) Exception to prohibition of sale or solicitation on Capitol Grounds
 
@@ -26,7 +26,7 @@ The provisions of section 5104(c) of title 40 shall not be applicable to any act
 
 #### (e) Transfer of moneys from Stationery Revolving Fund
 
-To provide capital for the fund, the Secretary of the Senate is authorized to transfer, from moneys in the Stationery Revolving Fund in the contingent fund of the Senate, to the fund suchsum as he may determine necessary, not to exceed $300,000.
+To provide capital for the fund, the Secretary of the Senate is authorized to transfer, from moneys in the Stationery Revolving Fund in the contingent fund of the Senate, to the fund such sum as he may determine necessary, not to exceed $300,000.
 
 #### (f) Authorization to expend from appropriations account for initial expenses
 

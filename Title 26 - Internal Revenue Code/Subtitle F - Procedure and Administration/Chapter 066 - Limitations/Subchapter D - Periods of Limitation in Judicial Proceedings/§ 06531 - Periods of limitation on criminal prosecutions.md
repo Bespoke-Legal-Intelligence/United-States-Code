@@ -6,7 +6,7 @@ No person shall be prosecuted, tried, or punished for any of the various offense
 
 &emsp;(2) for the offense of willfully attempting in any manner to evade or defeat any tax or the payment thereof;
 
-&emsp;(3) for the offense of willfully aiding or assisting in, or procuring, counseling, or advising, the preparation or presentation under, or in connection with any matter arising under, the internal revenue laws, of a false or fraudulent return, affidavit, claim, or document\(whether or not such falsity or fraud is with the knowledge or consent of the person authorized or required to present such return, affidavit, claim, or document);
+&emsp;(3) for the offense of willfully aiding or assisting in, or procuring, counseling, or advising, the preparation or presentation under, or in connection with any matter arising under, the internal revenue laws, of a false or fraudulent return, affidavit, claim, or document (whether or not such falsity or fraud is with the knowledge or consent of the person authorized or required to present such return, affidavit, claim, or document);
 
 &emsp;(4) for the offense of willfully failing to pay any tax, or make any return (other than a return required under authority of part III of subchapter A of chapter 61) at the time or times required by law or regulations;
 

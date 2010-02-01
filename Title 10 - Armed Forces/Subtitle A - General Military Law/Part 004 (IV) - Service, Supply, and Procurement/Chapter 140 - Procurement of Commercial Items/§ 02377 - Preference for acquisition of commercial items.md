@@ -14,7 +14,7 @@ Preference.—The head of an agency shall ensure that, to the maximum extent pra
 
 &emsp;(2) such requirements are defined so that commercial items or, to the extent that commercial items suitable to meet the agency's needs are not available, nondevelopmental items other than commercial items, may be procured to fulfill such requirements; and
 
-&emsp;(3) offerors of commercial items and nondevelopmental items other than commercialitems are provided an opportunity to compete in any procurement to fill such requirements.
+&emsp;(3) offerors of commercial items and nondevelopmental items other than commercial items are provided an opportunity to compete in any procurement to fill such requirements.
 
 (b)
 

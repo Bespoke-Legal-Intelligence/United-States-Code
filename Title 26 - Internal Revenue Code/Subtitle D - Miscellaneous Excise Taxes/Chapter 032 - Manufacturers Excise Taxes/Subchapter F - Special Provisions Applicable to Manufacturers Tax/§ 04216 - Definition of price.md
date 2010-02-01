@@ -16,7 +16,7 @@ In determining, for the purposes of this chapter, the price for which an article
 
 &emsp;&emsp;(C) sold (otherwise than through an arm's length transaction) at less than the fair market price,
 
-> &emsp;the tax under this chapter shall (if based on the price for which the article is sold) be computed on the price for which such articles are sold, in the ordinary course of trade, by manufacturers or producers thereof, as determined by the Secretary. In the case of an article sold at retail, the computation under the preceding sentence shall be on whichever of the following prices is the lower: (i) the price for which such article is sold, or (ii) the highest price for which such articles are sold to wholesale distributors, in the ordinary course of trade, by manufacturers or producers thereof, as determined by the Secretary. This paragraph shall not apply if paragraph (2) applies.
+> &emsp;the tax under this chapter shall (if based on the price for which the article is sold) be computed on the price for which such articles are sold, in the ordinary course of trade, by manufacturers or producers thereof, as determined by the Secretary. In the case of an article sold at retail, the computation under the preceding sentence shall be on whichever of the following prices is the lower: (i) the price for which such article is sold, or (ii) the highest price forwhich such articles are sold to wholesale distributors, in the ordinary course of trade, by manufacturers or producers thereof, as determined by the Secretary. This paragraph shall not apply if paragraph (2) applies.
 
 #### (2) Special rule
 
@@ -76,11 +76,11 @@ In the case of—
 
 #### (d) Sales of installment accounts
 
-If installment accounts, with respect to payments on which tax is being computed as provided in subsection (c), are sold or otherwise disposed of, then subsection (c) shall not apply with respect to any subsequent payments on such accounts (other than subsequent payments on returned accounts with respect to whichcredit or refund is allowable by reason of section 6416(b)(5)), but instead—
+If installment accounts, with respect to payments on which tax is being computed as provided in subsection (c), are sold or otherwise disposed of, then subsection (c) shall not apply with respect to any subsequent payments on such accounts (other than subsequent payments on returned accounts with respect to which credit or refund is allowable by reason of section 6416(b)(5)), but instead—
 
 &emsp;(1) there shall be paid an amount equal to the difference between (A) the tax previously paid on the payments on such installment accounts, and (B) the total tax which would be payable if such installment accounts had not been sold or otherwise disposed of (computed as provided in subsection (c)); except that
 
-&emsp;(2) if any such sale is pursuant to the order of, or subject to the approval of, a court of competent jurisdiction in a bankruptcy or insolvency proceeding, the amount computed under paragraph (1) shall not exceed the sum of the amounts computed by multiplying (A) the proportionate share of the amount for which such accounts are sold which is allocable to each unpaid installment payment by (B) the rate of tax under this chapter in effect on the date such unpaid installment payment is or was due.
+&emsp;(2) if any such sale is pursuant to the order of, or subject to the approval of, a court ofcompetent jurisdiction in a bankruptcy or insolvency proceeding, the amount computed under paragraph (1) shall not exceed the sum of the amounts computed by multiplying (A) the proportionate share of the amount for which such accounts are sold which is allocable to each unpaid installment payment by (B) the rate of tax under this chapter in effect on the date such unpaid installment payment is or was due.
 
 > The sum of the amounts payable under this subsection and subsection (c) in respect of the sale of any article shall not exceed the total tax.
 
@@ -214,7 +214,7 @@ Section 932(b) of Pub. L. 91–172 provided that: “The amendment made by subse
 
 Amendment by section 207(a), (b) of Pub. L. 89–44 effective June 22, 1965, and amendment by section 208 of Pub. L. 89–44 applicable with respect to articles sold on or after June 22, 1965, except insofar as such amendments related to the taxes imposed by sections 4061(b), 4091, or 4131 and, as to such taxes, applicable with respect to articles sold on or after January 1, 1966, see section 701(a) of Pub. L. 89–44, set out as a note under section 4161 of this title.
 
-Section 801(e) of Pub. L. 89–44 provided that: “The amendments made by subsections (a), (b), and (d) \[amending this section and sections 4063, 4221, and 6416 of this title\] shall apply with respect to articles sold onor after the day after the date of the enactment of this Act \[June 21, 1965\]. The amendment made by subsection (c) \[amending section 4221 of this title\] shall apply with respect to articles sold on or after January 1, 1965.”
+Section 801(e) of Pub. L. 89–44 provided that: “The amendments made by subsections (a), (b), and (d) \[amending this section and sections 4063, 4221, and 6416 of this title\] shall apply with respect to articles sold on or after the day after the date of the enactment of this Act \[June 21, 1965\]. The amendment made by subsection (c) \[amending section 4221 of this title\] shall apply with respect to articles sold on or after January 1, 1965.”
 
 #### Effective Date of 1962 Amendments
 

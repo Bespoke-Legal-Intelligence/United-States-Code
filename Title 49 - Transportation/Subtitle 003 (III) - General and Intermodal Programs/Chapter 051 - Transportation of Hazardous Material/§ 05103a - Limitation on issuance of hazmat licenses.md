@@ -44,7 +44,7 @@ Scope.—A background records check regarding an individual under this subsectio
 
 (e)
 
-Reporting Requirement.—Each State shall submit to the Secretary of Homeland Security, at such time and in such manner as the Secretary of Homeland Security may prescribe, the name, address, and such other information as the Secretary of Homeland Security may require, concerning—
+Reporting Requirement.—Each State shall submit to the Secretary of Homeland Security, at such time and in such manner as the Secretary of Homeland Security may prescribe, the name, address, and such other informationas the Secretary of Homeland Security may require, concerning—
 
 &emsp;(1) each alien to whom the State issues a license described in subsection (a); and
 

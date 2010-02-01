@@ -162,7 +162,7 @@ nc
 
 &emsp;&emsp;(A) calculating the total cost incurred with respect to all goods produced by that producer, subtracting any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the total cost of all such goods, and reasonably allocating the resulting net cost of those goods to the good;
 
-&emsp;&emsp;(B) calculating the total cost incurred with respect to all goods produced by that producer, reasonably allocating the total cost to the good, and subtracting any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the portion of the total cost allocated to the good; or
+&emsp;&emsp;(B) calculating the total cost incurred with respect to all goods produced by thatproducer, reasonably allocating the total cost to the good, and subtracting any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the portion of the total cost allocated to the good; or
 
 &emsp;&emsp;(C) reasonably allocating each cost that is part of the total cost incurred with respect to the good so that the aggregate of these costs does not include any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, or nonallowable interest costs.
 
@@ -174,7 +174,7 @@ nc
 
 &emsp;&emsp;&emsp;(i) be the transaction value of the material determined in accordance with Article 1 of the Customs Valuation Code; or
 
-&emsp;&emsp;&emsp;(ii) in the event that there is no transaction value or the transaction value of the material is unacceptable under Article1 of the Customs Valuation Code, be determined in accordance with Articles 2 through 7 of the Customs Valuation Code; and
+&emsp;&emsp;&emsp;(ii) in the event that there is no transaction value or the transaction value of the material is unacceptable under Article 1 of the Customs Valuation Code, be determined in accordance with Articles 2 through 7 of the Customs Valuation Code; and
 
 &emsp;&emsp;(B) if not included under clause (i) or (ii) of subparagraph (A), shall include—
 
@@ -292,7 +292,7 @@ nc
 
 #### (7) Election for certain vehicles from Canada
 
-&emsp;In the case of goods provided for in subheadings 8703.21 through 8703.90, or subheading 8704.21 or 8704.31, exported from Canada directly to the United States, and entered on or after January 1, 1989, and before the date of entry into force of the Agreement between the United States and Canada, an importer may elect to use the rules of origin set out in this section in lieu of the rules of origin contained in section 202 of the United States-Canada Free-Trade Agreement Implementation Act of 1988 (19 U.S.C. 2112 note) and may elect to use the method for calculating the value of nonoriginating materials established in article 403(2) of the Agreement in lieu of the method established in article 403(1) of the Agreement for purposes of determining eligibility for preferential duty treatment under the United States-Canada Free-Trade Agreement. Any election under this paragraph shall be made in writing to the Customs Service not later than the date that is 180 days after the date of entry into force of the Agreement between the United States and Canada. Any such election may be made only if the liquidation of such entry has not become final. For purposes of averaging the calculation of regional value-content for the goods covered by such entry, where the producer's 1989–1990 fiscal year began after January 1, 1989, the producer may include the period between January 1, 1989, and the beginning of its first fiscal year after January 1, 1989, as part of fiscal year 1989–1990.
+&emsp;In the case of goods provided for in subheadings 8703.21 through 8703.90, or subheading 8704.21 or 8704.31, exported from Canada directly to the United States, and entered on or after January 1, 1989, and before the date of entry into force of the Agreement between the United States and Canada, an importer mayelect to use the rules of origin set out in this section in lieu of the rules of origin contained in section 202 of the United States-Canada Free-Trade Agreement Implementation Act of 1988 (19 U.S.C. 2112 note) and may elect to use the method for calculating the value of nonoriginating materials established in article 403(2) of the Agreement in lieu of the method established in article 403(1) of the Agreement for purposes of determining eligibility for preferential duty treatment under the United States-Canada Free-Trade Agreement. Any election under this paragraph shall be made in writing to the Customs Service not later than the date that is 180 days after the date of entry into force of the Agreement between the United States and Canada. Any such election may be made only if the liquidation of such entry has not become final. For purposes of averaging the calculation of regional value-content for the goods covered by such entry, where the producer's 1989–1990 fiscal year began after January 1, 1989, the producer may include the period between January 1, 1989, and the beginning of its first fiscal year after January 1, 1989, as part of fiscal year 1989–1990.
 
 #### (d) Accumulation
 
@@ -368,7 +368,7 @@ nc
 
 &emsp;&emsp;(G) a nonoriginating material provided for in chapter 17 of the HTS or heading 1805 that is used in the production of a good provided for in subheading 1806.10;
 
-&emsp;&emsp;(H) a nonoriginating material provided for in headings 2203 through 2208 that is used inthe production of a good provided for in headings 2207 through 2208;
+&emsp;&emsp;(H) a nonoriginating material provided for in headings 2203 through 2208 that is used in the production of a good provided for in headings 2207 through 2208;
 
 &emsp;&emsp;(I) a nonoriginating material used in the production of—
 
@@ -520,7 +520,7 @@ For purposes of this section—
 
 #### (5) Generally Accepted Accounting Principles
 
-&emsp;The term “Generally Accepted Accounting Principles” means the recognized consensus or substantial authoritative support in the territory of a NAFTA country with respect to the recording of revenues, expenses, costs, assets and liabilities, disclosure of information, andpreparation of financial statements. These standards may be broad guidelines of general application as well as detailed standards, practices, or procedures.
+&emsp;The term “Generally Accepted Accounting Principles” means the recognized consensus or substantial authoritative support in the territory of a NAFTA country with respect to the recording of revenues, expenses, costs, assets and liabilities, disclosure of information, and preparation of financial statements. These standards may be broad guidelines of general application as well as detailed standards, practices, or procedures.
 
 #### (6) Goods wholly obtained or produced entirely in the territory of one or more of the NAFTA countries
 
@@ -600,7 +600,7 @@ For purposes of this section—
 
 #### (13) Motor vehicle assembler
 
-&emsp;The term “motor vehicle assembler” means a producer of motor vehicles and any related persons or joint ventures in which the producer participates.
+&emsp;The term “motor vehicle assembler” means a producer of motor vehicles and any relatedpersons or joint ventures in which the producer participates.
 
 #### (14) NAFTA country
 
@@ -616,7 +616,7 @@ For purposes of this section—
 
 #### (17) Net cost of a good
 
-&emsp;The term “net cost of a good” means the net cost that can be reasonably allocated to agood using one of the methods set out in subsection (b)(8) of this section.
+&emsp;The term “net cost of a good” means the net cost that can be reasonably allocated to a good using one of the methods set out in subsection (b)(8) of this section.
 
 #### (18) Nonallowable interest costs
 
@@ -696,7 +696,7 @@ For purposes of this section—
 
 &emsp;&emsp;(H) Rent and depreciation of sales promotion, marketing, and after-sales service offices and distribution centers.
 
-&emsp;&emsp;(I) Property insurance, taxes, utilities, and repair and maintenance of sales promotion,marketing, and after-sales service offices and distribution centers, where such costs are identified separately for sales promotion, marketing, and after-sales service of goods on the financial statements or cost accounts of the producer.
+&emsp;&emsp;(I) Property insurance, taxes, utilities, and repair and maintenance of sales promotion, marketing, and after-sales service offices and distribution centers, where such costs are identified separately for sales promotion, marketing, and after-sales service of goods on the financial statements or cost accounts of the producer.
 
 &emsp;&emsp;(J) Payments by the producer to other persons for warranty repairs.
 
@@ -766,7 +766,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) modifications to the provisions proclaimed under the authority of paragraph (1)(A) as are necessary to implement an agreement with one or more of the NAFTA countries pursuant to paragraph 2 of section 7 of Annex 300–B of the Agreement, and
 
-&emsp;&emsp;(B) before December 8, 1994, modifications to correct any typographical, clerical, or other nonsubstantive technical error regarding the provisions of Appendix 6.A of Annex 300–B and section XI of part B of Annex 401 of the Agreement.
+&emsp;&emsp;(B) before December 8, 1994, modifications to correct any typographical, clerical, orother nonsubstantive technical error regarding the provisions of Appendix 6.A of Annex 300–B and section XI of part B of Annex 401 of the Agreement.
 
 (Pub. L. 103–182, title II, §202, Dec. 8, 1993, 107 Stat. 2069; Pub. L. 104–295, §21(a)(2), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 105–206, title V, §5003(b)(4), July 22, 1998, 112 Stat. 790.)
 

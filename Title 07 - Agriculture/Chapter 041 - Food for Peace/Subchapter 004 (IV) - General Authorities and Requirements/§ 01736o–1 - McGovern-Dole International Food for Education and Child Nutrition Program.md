@@ -6,7 +6,7 @@ In this section, the term “agricultural commodity” means an agricultural com
 
 #### (b) Program
 
-Subject to subsection (<i>l</i>) of this section, the Secretary may establish a program, to be knownas “McGovern-Dole International Food for Education and Child Nutrition Program”, requiring the procurement of agricultural commodities and the provision of financial and technical assistance to carry out—
+Subject to subsection (<i>l</i>) of this section, the Secretary may establish a program, to be known as “McGovern-Dole International Food for Education and Child Nutrition Program”, requiring the procurement of agricultural commodities and the provision of financial and technical assistance to carry out—
 
 &emsp;(1) preschool and school food for education programs in foreign countries to improve food security, reduce the incidence of hunger, and improve literacy and primary education, particularly with respect to girls; and
 

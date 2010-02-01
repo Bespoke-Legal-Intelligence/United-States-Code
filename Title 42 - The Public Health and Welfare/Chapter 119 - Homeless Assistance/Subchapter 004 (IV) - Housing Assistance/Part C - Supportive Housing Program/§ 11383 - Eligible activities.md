@@ -88,9 +88,103 @@ The Secretary may provide any project with one or more of the following types of
 
 (Pub. L. 100–77, title IV, §423, as added Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4015; amended Pub. L. 106–377, §1(a)(1) \[title II, §226\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 109–162, title VI, §605(1), Jan. 5, 2006, 119 Stat. 3041; Pub. L. 109–271, §5(b), Aug. 12, 2006, 120 Stat. 759.)
 
+#### Repeal of Section and Enactment of New Section
+
+<i>Pub. L. 111–22, div. B, title III, §1302, title V, §1503, May 20, 2009, 123 Stat. 1684, 1702, provided that, effective on, and applicable beginning on, the earlier of the expiration of the 18-month period beginning on May 20, 2009, or the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 of Pub. L. 111–22, this section is repealed and a new section 11383 is enacted to read as follows:</i>
+
+#### §11383. Eligible activities
+
+#### <i>(a) In general</i>
+
+<i>Grants awarded under section 11382 of this title to qualified applicants shall be used to carry out projects that serve homeless individuals or families that consist of one or more of the following eligible activities:</i>
+
+&emsp;<i>(1) Construction of new housing units to provide transitional or permanent housing.</i>
+
+&emsp;<i>(2) Acquisition or rehabilitation of a structure to provide transitional or permanent housing, other than emergency shelter, or to provide supportive services.</i>
+
+&emsp;<i>(3) Leasing of property, or portions of property, not owned by the recipient or project sponsor involved, for use in providing transitional or permanent housing, or providing supportive services.</i>
+
+&emsp;<i>(4) Provision of rental assistance to provide transitional or permanent housing to eligible persons. The rental assistance may include tenant-based, project-based, or sponsor-based rental assistance. Project-based rental assistance, sponsor-based rental assistance, and operating cost assistance contracts carried out by project sponsors receiving grants under this section may, at the discretion of the applicant and the project sponsor, have an initial term of 15 years, with assistance for the first 5 years paid with funds authorized for appropriation under this chapter, and assistance for the remainder of the term treated as a renewal of an expiring contract as provided in section 11386c of this title. Project-based rental assistance may include rental assistance to preserve existing permanent supportive housing for homeless individuals and families.</i>
+
+&emsp;<i>(5) Payment of operating costs for housing units assisted under this part or for the preservation of housing that will serve homeless individuals and families and for which another form of assistance is expiring or otherwise no longer available.</i>
+
+&emsp;<i>(6) Supportive services for individuals and families who are currently homeless, who have been homeless in the prior six months but are currently residing in permanent housing, or who were previously homeless and are currently residing in permanent supportive housing.</i>
+
+&emsp;<i>(7) Provision of rehousing services, including housing search, mediation or outreach to property owners, credit repair, providing security or utility deposits, rental assistance for a final month at a location, assistance with moving costs, or other activities that—</i>
+
+&emsp;&emsp;<i>(A) are effective at moving homeless individuals and families immediately into housing; or</i>
+
+&emsp;&emsp;<i>(B) may benefit individuals and families who in the prior 6 months have been homeless, but are currently residing in permanent housing.</i>
+
+&emsp;<i>(8) In the case of a collaborative applicant that is a legal entity, performance of the duties described under section 11360a(f)(3) of this title.</i>
+
+&emsp;<i>(9) Operation of, participation in, and ensuring consistent participation by project sponsors in, a community-wide homeless management information system.</i>
+
+&emsp;<i>(10) In the case of a collaborative applicant that is a legal entity, payment of administrative costs related to meeting the requirements described in paragraphs (1) and (2) of section 11360a(f) of this title, for which the collaborative applicant may use not more than 3 percent of the total funds made available in the geographic area under this part for such costs.</i>
+
+&emsp;<i>(11) In the case of a collaborative applicant that is a unified funding agency under section 11360a(g) of this title, payment of administrative costs related to meeting the requirements of that section, for which the unified funding agency may use not more than 3 percent of the total funds made available in the geographic area under this part for such costs, in addition to funds used under paragraph (10).</i>
+
+&emsp;<i>(12) Payment of administrative costs to project sponsors, for which each project sponsor may use not more than 10 percent of the total funds made</i><i>available to that project sponsor through this part for such costs.</i>
+
+#### <i>(b) Minimum grant terms</i>
+
+<i>The Secretary may impose minimum grant terms of up to 5 years for new projects providing permanent housing.</i>
+
+#### <i>(c) Use restrictions</i>
+
+#### <i>(1) Acquisition, rehabilitation, and new construction</i>
+
+&emsp;<i>A project that consists of activities described in paragraph (1) or (2) of subsection (a) shall be operated for the purpose specified in the application submitted for the project under section 11382 of this title for not less than 15 years.</i>
+
+#### <i>(2) Other activities</i>
+
+&emsp;<i>A project that consists of activities described in any of paragraphs (3) through (12) of subsection (a) shall be operated for the purpose specified in the application submitted for the project under section 11382 of this title for the duration of the grant period involved.</i>
+
+#### <i>(3) Conversion</i>
+
+&emsp;<i>If the recipient or project sponsor carrying out a project that provides transitional or permanent housing submits a request to the Secretary to carry out instead a project for the direct benefit of low-income persons, and the Secretary determines that the initial project is no longer needed to provide transitional or permanent housing, the Secretary may approve the project described in the request and authorize the recipient or project sponsor to carry out that project.</i>
+
+#### <i>(d) Repayment of assistance and prevention of undue benefits</i>
+
+#### <i>(1) Repayment</i>
+
+&emsp;<i>If a recipient or project sponsor receives assistance under section 11382 of this title to carry out a project that consists of activities described in paragraph (1) or (2) of subsection (a) and the project ceases to provide transitional or permanent housing—</i>
+
+&emsp;&emsp;<i>(A) earlier than 10 years after operation of the project begins, the Secretary shall require the recipient or project sponsor to repay 100 percent of the assistance; or</i>
+
+&emsp;&emsp;<i>(B) not earlier than 10 years, but earlier than 15 years, after operation of the project begins, the Secretary shall require the recipient or project sponsor to repay 20 percent of the assistance for each of the years in the 15-year period for which the project fails to provide that housing.</i>
+
+#### <i>(2) Prevention of undue benefits</i>
+
+&emsp;<i>Except as provided in paragraph (3), if any property is used for a project that receives assistance under subsection (a) and consists of activities described in paragraph (1) or (2) of subsection (a), and the sale or other disposition of the property occurs before the expiration of the 15-year period beginning on the date that operation of the project begins, the recipient or project sponsor who received the assistance shall comply with such terms and conditions as the Secretary may prescribe to prevent the recipient or project sponsor from unduly benefitting from such sale or disposition.</i>
+
+#### <i>(3) Exception</i>
+
+&emsp;<i>A recipient or project sponsor shall not be required to make the repayments, and comply with the terms and conditions, required under paragraph (1) or (2) if—</i>
+
+&emsp;&emsp;<i>(A) the sale or disposition of the property used for the project results in the use of the property for the direct benefit of very low-income persons;</i>
+
+&emsp;&emsp;<i>(B) all of the proceeds of the sale or disposition are used to provide transitional or permanent housing meeting the requirements of this part;</i>
+
+&emsp;&emsp;<i>(C) project-based rental assistance or operating cost assistance from any Federal program or an equivalent State or local program is no longer made available and the project is meeting applicable performance standards, provided that the portion of the project that had benefitted from such assistance continues to meet the tenant income and rent restrictions for low-income units under section 42(g) of title 26; or</i>
+
+&emsp;&emsp;<i>(D) there are no individuals and families in the geographic area who are homeless, in which case the project may serve individuals and families at risk of homelessness.</i>
+
+#### <i>(e) Staff training</i>
+
+<i>The Secretary may allow reasonable costs associated with staff training to be included as part of the activities described in subsection (a).</i>
+
+#### <i>(f) Eligibility for permanent housing</i>
+
+<i>Any project that receives assistance under subsection (a) and that provides project-based or sponsor-based permanent housing for homeless individuals or families with a disability, including projects that meet the requirements of subsection (a) and subsection (d)(2)(A) of section 11386b of this title may also serve individuals who had previously met the requirements for such project prior to moving into a different permanent housing project.</i>
+
+#### <i>(g) Administration of rental assistance</i>
+
+<i>Provision of permanent housing rental assistance shall be administered by a State, unit of general local government, or public housing agency.</i>
+
 #### References in Text
 
-This chapter, referred to in subsec. (a)(7), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+This chapter, referred to in subsec. (a)(7), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 #### Prior Provisions
 

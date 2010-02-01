@@ -18,7 +18,7 @@ Members Who Previously Served in Grade Higher Than Retired Grade.—(1) A retire
 
 (2) A retired member ordered to active duty in a grade that is higher than the member's retired grade pursuant to subsection (a) shall be treated for purposes of section 690 of this title as if the member was promoted to that higher grade while on that tour of active duty.
 
-(3) If, upon being released from that tour of active duty, such a retired member has served on active duty satisfactorily, as determined by the Secretary concerned, for not less than a total of 36 months in a grade that is a higher grade than the member's retired grade, the member is entitled to placement on the retired list in that grade.
+(3) If, upon being released from that tour of active duty, such a retired member has served on active duty satisfactorily, as determined by theSecretary concerned, for not less than a total of 36 months in a grade that is a higher grade than the member's retired grade, the member is entitled to placement on the retired list in that grade.
 
 (d)
 

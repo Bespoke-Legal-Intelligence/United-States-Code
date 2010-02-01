@@ -50,7 +50,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(iii) migratory children (as defined in section 6399 of title 20) who qualify as homeless under this section because the children are living in circumstances described in this paragraph;
 
-&emsp;(7) the term “homeless service provider” means a nonprofit, nongovernmental homeless service provider, such as a homeless shelter, a homeless service or advocacy program, a tribal organization serving homeless individuals, or coalition or other nonprofit, nongovernmental organization carrying out a community-based homeless or housing program that has a documented history of effective work concerning homelessness;
+&emsp;(7) the term “homeless service provider” means a nonprofit, nongovernmental homeless service provider, such as a homeless shelter, a homeless service or advocacy program, a tribal organization serving homeless individuals, or coalition or other nonprofit, nongovernmental organization carrying out a community-based homeless or housing program thathas a documented history of effective work concerning homelessness;
 
 &emsp;(8) the term “tribally designated housing” means housing assistance described in the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4101 et seq.); and
 

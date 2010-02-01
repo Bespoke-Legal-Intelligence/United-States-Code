@@ -22,7 +22,7 @@
 
 #### (3) Cash payments by Imperial Irrigation District
 
-&emsp;Within the time, in the manner, and upon the conditions specified in the Settlement Agreement, the Imperial Irrigation District shall pay the sum of $3,670,694.33 to the United States for the benefit of the Tribe and any affected allottees.
+&emsp;Within the time, in the manner, and upon the conditions specified in the Settlement Agreement, the Imperial Irrigation District shall pay the sum of $3,670,694.33 to the UnitedStates for the benefit of the Tribe and any affected allottees.
 
 #### (4) Cash payments by the United States
 

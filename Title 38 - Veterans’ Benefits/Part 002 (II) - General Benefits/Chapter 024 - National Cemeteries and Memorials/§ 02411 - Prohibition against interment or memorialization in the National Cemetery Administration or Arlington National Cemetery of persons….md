@@ -4,7 +4,7 @@
 
 &emsp;(A) inter the remains of such person in a cemetery in the National Cemetery Administration or in Arlington National Cemetery; or
 
-&emsp;(B) honor the memory of such person in a memorial area in a cemetery in the NationalCemetery Administration (described in section 2403(a) of this title) or in such an area in Arlington National Cemetery (described in section 2409(a) of this title).
+&emsp;(B) honor the memory of such person in a memorial area in a cemetery in the National Cemetery Administration (described in section 2403(a) of this title) or in such an area in Arlington National Cemetery (described in section 2409(a) of this title).
 
 (2) In the case of a person described in subsection (b)(1) or (b)(2), the prohibition under paragraph (1) shall not apply unless written notice of a conviction referred to in subsection (b)(1) or (b)(2), as the case may be, is received by the appropriate Federal official before such official approves an application for the interment or memorialization of such person. Such written notice shall be furnished to such official by the Attorney General, in the case of a Federal capital crime, or by an appropriate State official, in the case of a State capital crime.
 

@@ -15,3 +15,4 @@
 - [&sect; 08478 - Bonding](%C2%A7%2008478%20-%20Bonding.md)
 - [&sect; 08478a - Investigative authority](%C2%A7%2008478a%20-%20Investigative%20authority.md)
 - [&sect; 08479 - Exculpatory provisions; insurance](%C2%A7%2008479%20-%20Exculpatory%20provisions%3B%20insurance.md)
+- [&sect; 08480 - Subpoena authority](%C2%A7%2008480%20-%20Subpoena%20authority.md)

@@ -56,7 +56,7 @@ The tax imposed by subsection (a) on any covered gift or bequest shall be reduce
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a covered gift or bequest made to a foreign trust, subsection (a) shall apply to any distribution attributable to such gift or bequest from suchtrust (whether from income or corpus) to a United States citizen or resident in the same manner as if such distribution were a covered gift or bequest.
+&emsp;&emsp;&emsp;In the case of a covered gift or bequest made to a foreign trust, subsection (a) shall apply to any distribution attributable to such gift or bequest from such trust (whether from income or corpus) to a United States citizen or resident in the same manner as if such distribution were a covered gift or bequest.
 
 #### (ii) Deduction for tax paid by recipient
 

@@ -52,7 +52,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 #### Clean Water for the Americas Partnership
 
@@ -158,7 +158,7 @@ Subregion.—The term ‘subregion’ means an area within the region and includ
 
 “(a)
 
-In General.—The President is authorized to establish a Clean Water Technical Support Committee (inthis section referred to as the ‘Committee’) to provide technical support and training services for individual water projects.
+In General.—The President is authorized to establish a Clean Water Technical Support Committee (in this section referred to as the ‘Committee’) to provide technical support and training services for individual water projects.
 
 “(b)
 

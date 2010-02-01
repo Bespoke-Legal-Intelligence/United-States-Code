@@ -6,7 +6,7 @@
 
 &emsp;(1) a railroad;
 
-&emsp;(2) a domestic insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958, a small business investment company licensed by the Small Business Administration under section 301 of the Small Business Investment Act of 1958, credit union, or industrial bank or similar institution which is an insured bank as defined in section 3(h) of the Federal Deposit Insurance Act, except that an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor if a petition is filed at the direction of the Board of Governors of the Federal Reserve System; or
+&emsp;(2) a domestic insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958, a small business investment company licensed by the Small Business Administration under section 301 of the Small Business Investment Act of 1958, credit union, or industrial bank or similar institution which is an insured bank as defined in section 3(h) of the Federal Deposit Insurance Act, except that an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit InsuranceCorporation Improvement Act of 1991 may be a debtor if a petition is filed at the direction of the Board of Governors of the Federal Reserve System; or
 
 &emsp;(3)(A) a foreign insurance company, engaged in such business in the United States; or
 
@@ -52,15 +52,15 @@
 
 &emsp;(i) describes exigent circumstances that merit a waiver of the requirements of paragraph (1);
 
-&emsp;(ii) states that the debtor requested credit counseling services from an approved nonprofit budget and credit counseling agency, but was unable to obtain the services referred to in paragraph (1) during the 5-day period beginning on the date on which the debtor made that request; and
+&emsp;(ii) states that the debtor requested credit counseling services from an approved nonprofit budget and credit counseling agency, but was unable to obtain the services referred to in paragraph (1) during the 7-day period beginning on the date on which the debtor made that request; and
 
 &emsp;(iii) is satisfactory to the court.
 
 (B) With respect to a debtor, an exemption under subparagraph (A) shall cease to apply to that debtor on the date on which the debtor meets the requirements of paragraph (1), but in no case may the exemption apply to that debtor after the date that is 30 days after the debtor files a petition, except that the court, for cause, may order an additional 15 days.
 
-(4) The requirements of paragraph (1) shall not apply with respect to a debtor whom the court determines, after notice and hearing, is unable to complete those requirements because of incapacity, disability, or active military duty in a military combat zone. For the purposes of this paragraph, incapacity means that the debtor is impaired by reason of mental illness or mental deficiency so that he is incapable of realizing and making rational decisions with respect to his financial responsibilities; and “disability” means that the debtor is so physically impaired as to be unable, after reasonable effort, to participate in an in person, telephone, or Internet briefing required under paragraph (1).
+(4) The requirements of paragraph (1) shall not apply with respect to a debtor whom the courtdetermines, after notice and hearing, is unable to complete those requirements because of incapacity, disability, or active military duty in a military combat zone. For the purposes of this paragraph, incapacity means that the debtor is impaired by reason of mental illness or mental deficiency so that he is incapable of realizing and making rational decisions with respect to his financial responsibilities; and “disability” means that the debtor is so physically impaired as to be unable, after reasonable effort, to participate in an in person, telephone, or Internet briefing required under paragraph (1).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2557; Pub. L. 97–320, title VII, §703(d), Oct. 15, 1982, 96 Stat.1539; Pub. L. 98–353, title III, §§301, 425, July 10, 1984, 98 Stat. 352, 369; Pub. L. 99–554, title II, §253, Oct. 27, 1986, 100 Stat. 3105; Pub. L. 100–597, §2, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 103–394, title I, §108(a), title II, §220, title IV, §402, title V, §501(d)(2), Oct. 22, 1994, 108 Stat. 4111, 4129, 4141, 4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(1), (2)\], §1(a)(8) \[§1(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–665; Pub. L. 109–8, title I, §106(a), title VIII, §802(d)(1), title X, §1007(b), title XII, §1204(1), Apr. 20, 2005, 119 Stat. 37, 146, 188, 193.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2557; Pub. L. 97–320, title VII, §703(d), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 98–353, title III, §§301, 425, July 10, 1984, 98 Stat. 352, 369; Pub. L. 99–554, title II, §253, Oct. 27, 1986, 100 Stat. 3105; Pub. L. 100–597, §2, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 103–394, title I, §108(a), title II, §220, title IV, §402, title V, §501(d)(2), Oct. 22, 1994, 108 Stat. 4111, 4129, 4141, 4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(1), (2)\], §1(a)(8) \[§1(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–665; Pub. L. 109–8, title I, §106(a), title VIII, §802(d)(1), title X, §1007(b), title XII, §1204(1), Apr. 20, 2005, 119 Stat. 37, 146, 188, 193; Pub. L. 111–16, §2(1), May 7, 2009, 123 Stat. 1607.)
 
 #### Historical and Revision Notes
 
@@ -90,7 +90,7 @@ The second change deletes the four prerequisites to filing found in section 84 \
 
 Subsection (d) permits a person that may proceed under chapter 7 to be a debtor under chapter 11, Reorganization, with two exceptions. Railroads, which are excluded from chapter 7, are permitted to proceed under chapter 11. Stockbrokers and commodity brokers, which are permitted to be debtors under chapter 7, are excluded from chapter 11. The special rules for treatment of customer accounts that are the essence of stockbroker and commodity broker liquidations are available only in chapter 7. Customers would be unprotected under chapter 11. The special protective rules are unavailable in chapter 11 because their complexity would make reorganization very difficult at best, and unintelligible at worst. The variety of options available in reorganization cases make it extremely difficult to reorganize and continue to provide the special customer protection necessary in these cases.
 
-Subsection (e) specifies eligibility for chapter 13, Adjustment of Debts of an Individual with Regular Income. An individual with regular income, or an individual with regular income and the individual's spouse, may proceed under chapter 13. As noted in connection with the definition of the term “individual with regular income”, this represents a significant departure from current law. The change might have been too great, however, without some limitation. Thus, the debtor (or the debtor and spouse) must have unsecured debts that aggregate less than $100,000, and secured debts that aggregate less than $500,000. These figures will permit the small sole proprietor, for whom a chapter 11 reorganization is too cumbersome a procedure, to proceed under chapter 13. It does not create a presumption that any sole proprietor within that range is better off in chapter 13 than chapter 11. The conversion rules found in section 1307 will govern the appropriateness of thetwo chapters for any particular individual. The figures merely set maximum limits.
+Subsection (e) specifies eligibility for chapter 13, Adjustment of Debts of an Individual with Regular Income. An individual with regular income, or an individual with regular income and the individual's spouse, may proceed under chapter 13. As noted in connection with the definition of the term “individual with regular income”, this represents a significant departure from current law. The change might have been too great, however, without some limitation. Thus, the debtor (or the debtor and spouse) must have unsecured debts that aggregate less than $100,000, and secured debts that aggregate less than $500,000. These figures will permit the small sole proprietor, for whom a chapter 11 reorganization is too cumbersome a procedure, to proceed under chapter 13. It does not create a presumption that any sole proprietor within that range is better off in chapter 13 than chapter 11. The conversion rules found in section 1307 will govern the appropriateness of the two chapters for any particular individual. The figures merely set maximum limits.
 
 Whether a small business operated by a husband and wife, the so-called “mom and pop grocery store,” will be a partnership and thus excluded from chapter 13, or a business owned by an individual, will have to be determined on the facts of each case. Even if partnership papers have not been filed, for example, the issue will be whether the assets of the grocery store are for the benefit of all creditors of the debtor or only for business creditors, and whether such assets may be the subject of a chapter 13 proceeding. The intent of the section is to follow current law that a partnership by estoppel may be adjudicated in bankruptcy and therefore would not prevent a chapter 13 debtor from subjecting assets in such a partnership to the reach of all creditors in a chapter 13 case. However, if the partnership is found to be a partnership by agreement, even informal agreement, than a separate entity exists and the assets of that entity would be exempt from a case under chapter 13.
 
@@ -109,6 +109,8 @@ Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991
 Section 1(b) of the International Banking Act of 1978, referred to in subsec. (b)(3)(B), is classified to section 3101 of Title 12, Banks and Banking.
 
 #### Amendments
+
+2009—Subsec. (h)(3)(A)(ii). Pub. L. 111–16 substituted “7-day” for “5-day”.
 
 2005—Subsec. (b)(2). Pub. L. 109–8, §1204(1), struck out “subsection (c) or (d) of” before “section 301”.
 
@@ -146,6 +148,10 @@ Subsec. (f). Pub. L. 98–353, §301, added subsec. (f).
 
 1982—Subsec. (b)(2). Pub. L. 97–320 inserted reference to industrial banks or similar institutions which are insured banks as defined in section 3(h) of the Federal Deposit Insurance Act (12 U.S.C. 1813(h)).
 
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–16, §7, May 7, 2009, 123 Stat. 1609, provided that: “The amendments made by this Act \[amending this section, sections 322, 332, 342, 521, 704, 749, and 764 of this title, sections 983, 1514, 1963, 2252A, 2339B, 3060, 3432, 3509, and 3771 of Title 18, Crimes and Criminal Procedure, section 7 of the Classified Information Procedures Act set out in the Appendix to Title 18, section 853 of Title 21, Food and Drugs, and sections 636, 1453, and 2107 of Title 28, Judiciary and Judicial Procedure\] shall take effect on December 1, 2009.”
+
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
@@ -156,7 +162,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–597 effective Nov. 3, 1988, but not applicable to any case commenced under this title before that date, see section 12 of Pub. L. 100–597, set out as a note under section 101 of this title.
+Amendment by Pub. L. 100–597 effective Nov. 3, 1988, but not applicable to any case commenced under thistitle before that date, see section 12 of Pub. L. 100–597, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 

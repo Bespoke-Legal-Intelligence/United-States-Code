@@ -53,11 +53,14 @@
 | [139\.](%C2%A7%2000139%20-%20Disaster%20relief%20payments.md) | Disaster relief payments. |
 | [139A.](%C2%A7%2000139A%20-%20Federal%20subsidies%20for%20prescription%20drug%20plans.md) | Federal subsidies for prescription drug plans. |
 | [139B.](%C2%A7%2000139B%20-%20Benefits%20provided%20to%20volunteer%20firefighters%20and%20emergency%20medical%20responders.md) | Benefits provided to volunteer firefighters and emergency medical responders. |
+| [139C.](%C2%A7%2000139C%20-%20COBRA%20premium%20assistance.md) | COBRA premium assistance. |
 | [140\.](%C2%A7%2000140%20-%20Cross%20references%20to%20other%20Acts.md) | Cross references to other Acts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–5, div. B, title III, §3001(a)(15)(B), Feb. 17, 2009, 123 Stat. 465, added item 139C.
 
 2007—Pub. L. 110–142, §5(b), Dec. 20, 2007, 121 Stat. 1806, added item 139B.
 
@@ -89,7 +92,7 @@ Pub. L. 105–33, title IV, §4006(b)(3), Aug. 5, 1997, 111 Stat. 334, added ite
 
 Pub. L. 98–369, div. A, title I, §16(a), July 18, 1984, 98 Stat. 505, repealed an amendment made by Pub. L. 97–34, §302(c). See 1981 Amendment note below.
 
-1983—Pub. L. 97–473, title I, §101(b)(2), Jan. 14, 1983, 96 Stat. 2606, purported to strike out the item relating tosection 130, and added items 130 (relating to certain personal injury liability assignments) and 131 (relating to cross references to other Acts).
+1983—Pub. L. 97–473, title I, §101(b)(2), Jan. 14, 1983, 96 Stat. 2606, purported to strike out the item relating to section 130, and added items 130 (relating to certain personal injury liability assignments) and 131 (relating to cross references to other Acts).
 
 Pub. L. 97–473, title I, §102(b), Jan. 14, 1983, 96 Stat. 2607, struck out item 131 (relating to cross references to other Acts) and added items 131 (relating to certain foster care payments) and 132 (relating to cross references to other Acts).
 
@@ -214,4 +217,5 @@ No inference.—Nothing in this Act \[see Tables for classification\] shall be c
 - [&sect; 00139 - Disaster relief payments](%C2%A7%2000139%20-%20Disaster%20relief%20payments.md)
 - [&sect; 00139A - Federal subsidies for prescription drug plans](%C2%A7%2000139A%20-%20Federal%20subsidies%20for%20prescription%20drug%20plans.md)
 - [&sect; 00139B - Benefits provided to volunteer firefighters and emergency medical responders](%C2%A7%2000139B%20-%20Benefits%20provided%20to%20volunteer%20firefighters%20and%20emergency%20medical%20responders.md)
+- [&sect; 00139C - COBRA premium assistance](%C2%A7%2000139C%20-%20COBRA%20premium%20assistance.md)
 - [&sect; 00140 - Cross references to other Acts](%C2%A7%2000140%20-%20Cross%20references%20to%20other%20Acts.md)

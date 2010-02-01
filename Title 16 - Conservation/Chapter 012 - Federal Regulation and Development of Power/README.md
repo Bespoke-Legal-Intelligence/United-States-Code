@@ -115,6 +115,8 @@
 | 825s–3. | Southwestern area sale at uniform systemwide rates of electric power over transmission lines constructed with appropriated funds or used under contractual arrangements. |
 | 825s–4. | Southwestern Power Administration; deposit and availability of advance payments. |
 | 825s–5. | Southeastern Power Administration; deposit and availability of advance payments. |
+| 825s–6. | Southeastern Power Administration; deposit and availability of discretionary offsetting collections. |
+| 825s–7. | Southwestern Power Administration; deposit and availability of discretionary offsetting collections. |
 | [825t.](Subchapter%20003%20%28III%29%20-%20Licensees%20and%20Public%20Utilities%3B%20Procedural%20and%20Administrative%20Provisions/%C2%A7%2000825t%20-%20Utilization%20of%20power%20revenues.md) | Utilization of power revenues. |
 | [825u.](Subchapter%20003%20%28III%29%20-%20Licensees%20and%20Public%20Utilities%3B%20Procedural%20and%20Administrative%20Provisions/%C2%A7%2000825u%20-%20Interest%20rate%20on%20power%20bonds%20held%20by%20Administrator%20of%20General%20Services.md) | Interest rate on power bonds held by Administrator of General Services. |
 

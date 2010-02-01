@@ -1,5 +1,5 @@
 
-26 U.S.C.<br>United States Code, 2008 Edition<br>Title 26 - INTERNAL REVENUE CODE<br>From the U.S. Government Publishing Office, www.gpo.gov
+26 U.S.C.<br>United States Code, 2009 Edition<br>Title 26 - INTERNAL REVENUE CODE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 26—INTERNAL REVENUE CODE
 

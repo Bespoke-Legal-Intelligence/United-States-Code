@@ -24,7 +24,7 @@ Subject to the 11-member limit, the Secretary may adjust membership on the Board
 
 #### (3) Importers and exporters
 
-&emsp;The members who are importers or exporters referred to in subsection (a)(1) of this section shall be appointed from individuals nominated by importers or exporters.
+&emsp;The members who are importers or exporters referred to in subsection (a)(1) of this sectionshall be appointed from individuals nominated by importers or exporters.
 
 #### (4) Public representative
 

@@ -6,7 +6,7 @@ Notwithstanding any other applicable provision of law, the initial authorization
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 95–39, June 3, 1977, 91 Stat. 180. The provisions of this Act relating to an initial authorization for construction pursuant to section 5907 of this title are not classified to the Code.
+This Act, referred to in text, is Pub. L. 95–39, June 3, 1977, 91 Stat. 180. The provisions of this Act relating toan initial authorization for construction pursuant to section 5907 of this title are not classified to the Code.
 
 #### Codification
 

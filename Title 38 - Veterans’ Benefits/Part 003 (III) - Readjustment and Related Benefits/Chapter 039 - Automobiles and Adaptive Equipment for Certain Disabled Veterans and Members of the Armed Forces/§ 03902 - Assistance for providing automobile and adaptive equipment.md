@@ -74,5 +74,5 @@ Amendment by Pub. L. 95–479 effective Oct. 1, 1978, see section 401(a) of Pub.
 
 #### Effective Date of 1974 Amendment
 
-Amendment by section 3(1), (2) of Pub. L. 93–538 effective first day of second calendar month following Dec.22, 1974, and amendment by section 3(3) of Pub. L. 93–538 effective Jan. 11, 1971, see section 6 of Pub. L. 93–538, set out as a note under section 3901 of this title.
+Amendment by section 3(1), (2) of Pub. L. 93–538 effective first day of second calendar month following Dec. 22, 1974, and amendment by section 3(3) of Pub. L. 93–538 effective Jan. 11, 1971, see section 6 of Pub. L. 93–538, set out as a note under section 3901 of this title.
 

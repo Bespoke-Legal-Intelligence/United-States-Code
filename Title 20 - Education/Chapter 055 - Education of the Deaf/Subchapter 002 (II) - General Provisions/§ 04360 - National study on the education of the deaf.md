@@ -46,7 +46,7 @@ A prior section 4360, Pub. L. 99–371, title II, §211, formerly title IV, §41
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–315, §913(a), inserted “establish a commission on the education of the deaf (in this section referred to as the ‘commission’) to” after “The Secretary shall”.
+2008—Subsec. (a)(1). Pub. L. 110–315, §913(a), inserted “establish a commission on the education of the deaf\(in this section referred to as the ‘commission’) to” after “The Secretary shall”.
 
 Subsec. (b). Pub. L. 110–315, §913(b), substituted “commission” for “Secretary” wherever appearing.
 

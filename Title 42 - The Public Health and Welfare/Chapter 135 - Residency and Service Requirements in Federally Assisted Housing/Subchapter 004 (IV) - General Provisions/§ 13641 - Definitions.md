@@ -20,9 +20,11 @@ For purposes of this title: <sup>1</sup>
 
 &emsp;&emsp;(E) housing financed by a loan or mortgage insured under section 1715<i>l</i>(d)(3) of title 12 that bears interest at a rate determined under the proviso of section 1715<i>l</i>(d)(5) of title 12;
 
-&emsp;&emsp;(F) housing insured, assisted, or held by the Secretary or a State or State agency under section 1715z–1 of title 12; and
+&emsp;&emsp;(F) housing insured, assisted, or held by the Secretary or a State or State agency under section 1715z–1 of title 12;
 
-&emsp;&emsp;(G) housing constructed or substantially rehabilitated pursuant to assistance provided under section 8(b)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(b)(2)\], as in effect before October 1, 1983, that is assisted under a contract for assistance under such section.
+&emsp;&emsp;(G) housing constructed or substantially rehabilitated pursuant to assistance provided under section 8(b)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(b)(2)\], as in effect before October 1, 1983, that is assisted under a contract for assistance under such section; and
+
+&emsp;&emsp;(H) housing that is assisted under section 8013 <sup>1</sup> of this title.
 
 #### (3) Housing assistance
 
@@ -36,11 +38,17 @@ For purposes of this title: <sup>1</sup>
 
 &emsp;The term “Secretary” means the Secretary of Housing and Urban Development.
 
-(Pub. L. 102–550, title VI, §683, Oct. 28, 1992, 106 Stat. 3831.)
+(Pub. L. 102–550, title VI, §683, Oct. 28, 1992, 106 Stat. 3831; Pub. L. 111–8, div. I, title II, §228, Mar. 11, 2009, 123 Stat. 978.)
 
 #### References in Text
 
 This title, referred to in text, is title VI of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3802, which enacted this chapter, amended sections 1437a, 1437c to 1437g, 1437<i>l</i>, 1437<i>o</i>, 1438, 8011 to 8013, 12705, 12901 to 12910, and 12912 of this title and section 1701q of Title 12, Banks and Banking, enacted provisions set out as notes under sections 1437a, 8011, and 12901 of this title and section 1701q of Title 12, and amended provisions set out as a note under section 1701q of Title 12. For complete classification of this title to the Code, see Short Title of 1992 Amendment note set out under section 5301 of this title and Tables.
+
+Section 8013 of this title, referred to in par. (2)(H), was in the original “section 811 of the Cranston-Gonzalez Affording Housing Act (42 U.S.C. 8013)”, and was translated as reading “section 811 of the Cranston-Gonzalez National Affordable Housing Act”, which is classified to section 8013 of this title, to reflect the probable intent of Congress.
+
+#### Amendments
+
+2009—Par. (2)(H). Pub. L. 111–8 added subpar. (H).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -92,7 +92,7 @@
 
 #### (A) Reductions made after determination of tax for year
 
-&emsp;&emsp;The reductions described in paragraph (2) shall be made after the determination of the tax imposed by this chapter for the taxable year of the discharge.
+&emsp;&emsp;The reductions described in paragraph (2) shall be made after the determination of thetax imposed by this chapter for the taxable year of the discharge.
 
 #### (B) Reductions under subparagraph (A) or (D) of paragraph (2)
 
@@ -178,7 +178,7 @@
 
 #### (3) Insolvent
 
-&emsp;For purposes of this section, the term “insolvent” means the excess of liabilities over the fair market value of assets. With respect to any discharge, whether or not the taxpayer is insolvent, and the amount by which the taxpayer is insolvent, shall be determined on the basis of the taxpayer's assets and liabilities immediately before the discharge.
+&emsp;For purposes of this section, the term “insolvent” means the excess of liabilities over the fair market value of assets. With respect to any discharge, whether or not the taxpayeris insolvent, and the amount by which the taxpayer is insolvent, shall be determined on the basis of the taxpayer's assets and liabilities immediately before the discharge.
 
 #### \[(4) Repealed. Pub. L. 99–514, title VIII, §822(b)(3)(A), Oct. 22, 1986, 100 Stat. 2373\]
 
@@ -306,7 +306,7 @@ For purposes of this title—
 
 #### (C) Stock of parent corporation
 
-&emsp;&emsp;For purposes of this paragraph, stock of a corporation in control (within the meaningof section 368(c)) of the debtor corporation shall be treated as stock of the debtor corporation.
+&emsp;&emsp;For purposes of this paragraph, stock of a corporation in control (within the meaning of section 368(c)) of the debtor corporation shall be treated as stock of the debtor corporation.
 
 #### (D) Treatment of successor corporation
 
@@ -344,7 +344,7 @@ For purposes of this title—
 
 #### (1) In general
 
-&emsp;In the case of an individual, gross income does not include any amount which (but for this subsection) would be includible in gross income by reason of the discharge (in whole or in part) of any student loan if such discharge was pursuant to a provision of such loan under which all or part of the indebtedness of the individual would be discharged if the individual worked for a certain period of time in certain professions for any of a broad class of employers.
+&emsp;In the case of an individual, gross income does not include any amount which (but for this subsection) would be includible in gross income by reason of the discharge (in whole orin part) of any student loan if such discharge was pursuant to a provision of such loan under which all or part of the indebtedness of the individual would be discharged if the individual worked for a certain period of time in certain professions for any of a broad class of employers.
 
 #### (2) Student loan
 
@@ -442,13 +442,131 @@ For purposes of this title—
 
 &emsp;For purposes of this subsection, the term “principal residence” has the same meaning as when used in section 121.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; Pub. L. 88–496, §1(a), June 8, 1960, 74 Stat. 164; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, 90 Stat. 1834, 1836; Pub. L. 96–589, §2(a), Dec. 24, 1980, 94 Stat. 3389; Pub. L. 97–354, §3(e), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(h)(1), title III, §304(d), Jan. 12, 1983, 96 Stat. 2372, 2398; Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2), title X, §1076(a), July 18, 1984, 98 Stat. 576, 839, 966, 1053; Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), Oct. 22, 1986, 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), Nov. 10, 1988, 102 Stat. 3385, 3387; Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, 104 Stat. 1388–466, 1388–551; Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, 107 Stat. 446–448, 487, 488; Pub. L. 104–188, title I, §1703(n)(2), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title II, §225(a), Aug. 5, 1997, 111 Stat. 820; Pub. L. 105–206, title VI, §6004(f), July 22, 1998, 112 Stat. 795; Pub. L. 107–147, title IV, §402(a), Mar. 9, 2002, 116 Stat. 40; Pub. L. 108–357, title III, §320(a), title VIII, §896(a), Oct. 22, 2004, 118 Stat. 1473, 1648; Pub. L. 110–142, §2(a)–(c), Dec. 20, 2007, 121 Stat. 1803, 1804; Pub. L. 110–343, div. A, title III, §303(a), Oct. 3, 2008, 122 Stat. 3807.)
+#### (i) Deferral and ratable inclusion of income arising from business indebtedness discharged by the reacquisition of a debt instrument
+
+#### (1) In general
+
+&emsp;At the election of the taxpayer, income from the discharge of indebtedness in connection with the reacquisition after December 31, 2008, and before January 1, 2011, of an applicable debt instrument shall be includible in gross income ratably over the 5-taxable-year period beginning with—
+
+&emsp;&emsp;(A) in the case of a reacquisition occurring in 2009, the fifth taxable year following the taxable year in which the reacquisition occurs, and
+
+&emsp;&emsp;(B) in the case of a reacquisition occurring in 2010, the fourth taxable year following the taxable year in which the reacquisition occurs.
+
+#### (2) Deferral of deduction for original issue discount in debt for debt exchanges
+
+#### (A) In general
+
+&emsp;&emsp;If, as part of a reacquisition to which paragraph (1) applies, any debt instrument is issued for the applicable debt instrument being reacquired (or is treated as so issued under subsection (e)(4) and the regulations thereunder) and there is any original issue discount determined under subpart A of part V of subchapter P of this chapter with respect to the debt instrument so issued—
+
+&emsp;&emsp;&emsp;(i) except as provided in clause (ii), no deduction otherwise allowable under this chapter shall be allowed to the issuer of such debt instrument with respect to the portion of such original issue discount which—
+
+&emsp;&emsp;&emsp;&emsp;(I) accrues before the 1st taxable year in the 5-taxable-year period in which income from the discharge of indebtedness attributable to the reacquisition of the debt instrument is includible under paragraph (1), and
+
+&emsp;&emsp;&emsp;&emsp;(II) does not exceed the income from the discharge of indebtedness with respect to the debt instrument being reacquired, and
+
+&emsp;&emsp;&emsp;(ii) the aggregate amount of deductions disallowed under clause (i) shall be allowed as a deduction ratably over the 5-taxable-year period described in clause (i)(I).
+
+> &emsp;&emsp;If the amount of the original issue discount accruing before such 1st taxable year exceeds the income from the discharge of indebtedness with respect to the applicable debt instrument being reacquired, the deductions shall be disallowed in the order in which the original issue discount is accrued.
+
+#### (B) Deemed debt for debt exchanges
+
+&emsp;&emsp;For purposes of subparagraph (A), if any debt instrument is issued by an issuer and the proceeds of such debt instrument are used directly or indirectly by the issuer to reacquire an applicable debt instrument of the issuer, the debt instrument so issued shall be treated as issued for the debt instrument being reacquired. If only a portion of the proceeds from a debt instrument are so used, the rules of subparagraph (A) shall apply to the portion of any original issue discount on the newly issued debt instrument which is equal to the portion of the proceeds from such instrument used to reacquire the outstanding instrument.
+
+#### (3) Applicable debt instrument
+
+&emsp;For purposes of this subsection—
+
+#### (A) Applicable debt instrument
+
+&emsp;&emsp;The term “applicable debt instrument” means any debt instrument which was issued by—
+
+&emsp;&emsp;&emsp;(i) a C corporation, or
+
+&emsp;&emsp;&emsp;(ii) any other person in connection with the conduct of a trade or business by such person.
+
+#### (B) Debt instrument
+
+&emsp;&emsp;The term “debt instrument” means a bond, debenture, note, certificate, or any other instrument or contractual arrangement constituting indebtedness (within the meaning of section 1275(a)(1)).
+
+#### (4) Reacquisition
+
+&emsp;For purposes of this subsection—
+
+#### (A) In general
+
+&emsp;&emsp;The term “reacquisition” means, with respect to any applicable debt instrument, any acquisition of the debt instrument by—
+
+&emsp;&emsp;&emsp;(i) the debtor which issued (or is otherwise the obligor under) the debt instrument, or
+
+&emsp;&emsp;&emsp;(ii) a related person to such debtor.
+
+#### (B) Acquisition
+
+&emsp;&emsp;The term “acquisition” shall, with respect to any applicable debt instrument, include an acquisition of the debt instrument for cash, the exchange of the debt instrument for another debt instrument (including an exchange resulting from a modification of the debt instrument), the exchange of the debt instrument for corporate stock or a partnership interest, and the contribution of the debt instrument to capital. Such term shall also include the complete forgiveness of the indebtedness by the holder of the debt instrument.
+
+#### (5) Other definitions and rules
+
+&emsp;For purposes of this subsection—
+
+#### (A) Related person
+
+&emsp;&emsp;The determination of whether a person is related to another person shall be made in the same manner as under subsection (e)(4).
+
+#### (B) Election
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;An election under this subsection with respect to any applicable debt instrument shall be made by including with the return of tax imposed by chapter 1 for the taxable year in which the reacquisition of the debt instrument occurs a statement which—
+
+&emsp;&emsp;&emsp;&emsp;(I) clearly identifies such instrument, and
+
+&emsp;&emsp;&emsp;&emsp;(II) includes the amount of income to which paragraph (1) applies and such other information as the Secretary may prescribe.
+
+#### (ii) Election irrevocable
+
+&emsp;&emsp;&emsp;Such election, once made, is irrevocable.
+
+#### (iii) Pass-thru entities
+
+&emsp;&emsp;&emsp;In the case of a partnership, S corporation, or other pass-thru entity, the election under this subsection shall be made by the partnership, the S corporation, or other entity involved.
+
+#### (C) Coordination with other exclusions
+
+&emsp;&emsp;If a taxpayer elects to have this subsection apply to an applicable debt instrument, subparagraphs (A), (B), (C), and (D) of subsection (a)(1) shall not apply to the income from the discharge of such indebtedness for the taxable year of the election or any subsequent taxable year.
+
+#### (D) Acceleration of deferred items
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of the death of the taxpayer, the liquidation or sale of substantially all the assets of the taxpayer (including in a title 11 or similar case), the cessation of business by the taxpayer, or similar circumstances, any item of income or deduction which is deferred under this subsection (and has not previously been taken into account) shall be taken into account in the taxable year in which such event occurs (or in the case of a title 11 or similar case, the day before the petition is filed).
+
+#### (ii) Special rule for pass-thru entities
+
+&emsp;&emsp;&emsp;The rule of clause (i) shall also apply in the case of the sale or exchange or redemption of an interest in a partnership, S corporation, or other pass-thru entity by a partner, shareholder, or other person holding an ownership interest in such entity.
+
+#### (6) Special rule for partnerships
+
+&emsp;In the case of a partnership, any income deferred under this subsection shall be allocated to the partners in the partnership immediately before the discharge in the manner such amounts would have been included in the distributive shares of such partners under section 704 if such income were recognized at such time. Any decrease in a partner's share of partnership liabilities as a result of such discharge shall not be taken into account for purposes of section 752 at the time of the discharge to the extent it would cause the partner to recognize gain under section 731. Any decrease in partnership liabilities deferred under the preceding sentence shall be taken into account by such partner at the same time, and to the extent remaining in the same amount, as income deferred under this subsection is recognized.
+
+#### (7) Secretarial authority
+
+&emsp;The Secretary may prescribe such regulations, rules, or other guidance as may be necessary or appropriate for purposes of applying this subsection, including—
+
+&emsp;&emsp;(A) extending the application of the rules of paragraph (5)(D) to other circumstances where appropriate,
+
+&emsp;&emsp;(B) requiring reporting of the election (and such other information as the Secretary may require) on returns of tax for subsequent taxable years, and
+
+&emsp;&emsp;(C) rules for the application of this subsection to partnerships, S corporations, and other pass-thru entities, including for the allocation of deferred deductions.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; Pub. L. 88–496, §1(a), June 8, 1960, 74 Stat. 164; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, 90 Stat. 1834, 1836; Pub. L. 96–589, §2(a), Dec. 24, 1980, 94 Stat. 3389; Pub. L. 97–354, §3(e), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(h)(1), title III, §304(d), Jan. 12, 1983, 96 Stat. 2372, 2398; Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2), title X, §1076(a), July 18, 1984, 98 Stat. 576, 839, 966, 1053; Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), Oct. 22, 1986, 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), Nov. 10, 1988, 102 Stat. 3385, 3387; Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, 104 Stat. 1388–466, 1388–551; Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, 107 Stat. 446–448, 487, 488; Pub. L. 104–188, title I, §1703(n)(2), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title II, §225(a), Aug. 5, 1997, 111 Stat. 820; Pub. L. 105–206, title VI, §6004(f), July 22, 1998, 112 Stat. 795; Pub. L. 107–147, titleIV, §402(a), Mar. 9, 2002, 116 Stat. 40; Pub. L. 108–357, title III, §320(a), title VIII, §896(a), Oct. 22, 2004, 118 Stat. 1473, 1648; Pub. L. 110–142, §2(a)–(c), Dec. 20, 2007, 121 Stat. 1803, 1804; Pub. L. 110–343, div. A, title III, §303(a), Oct. 3, 2008, 122 Stat. 3807; Pub. L. 111–5, div. B, title I, §1231(a), Feb. 17, 2009, 123 Stat. 338.)
 
 #### References in Text
 
 Sections 338B(g) and 338I of the Public Health Service Act, referred to in subsec. (f)(4), are classified to sections 254<i>l</i>–1(g) and 254q–1, respectively, of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2009—Subsec. (i). Pub. L. 111–5 added subsec. (i).
 
 2008—Subsec. (a)(1)(E). Pub. L. 110–343 substituted “January 1, 2013” for “January 1, 2010”.
 
@@ -536,7 +654,7 @@ Subsec. (a)(2). Pub. L. 100–647, §1004(a)(2), amended par. (2) generally. Pri
 
 Subsec. (b). Pub. L. 100–647, §1004(a)(3), struck out “in title 11 case or insolvency” after “Reduction of tax attributes” in heading and substituted “subparagraph (A), (B), or (C)” for “subparagraph (A) or (B)” in text of par. (1).
 
-Subsec. (d). Pub. L. 100–647, §1004(a)(6)(B), which directed amendment of subsec. (d) heading by substituting “subsections (a), (b), and (g)” for “subsections (a), and (b)”, was executed by making the substitution for“subsections (a) and (b)” as the probable intent of Congress.
+Subsec. (d). Pub. L. 100–647, §1004(a)(6)(B), which directed amendment of subsec. (d) heading by substituting “subsections (a), (b), and (g)” for “subsections (a), and (b)”, was executed by making the substitution for “subsections (a) and (b)” as the probable intent of Congress.
 
 Subsec. (d)(6). Pub. L. 100–647, §1004(a)(6)(A), (C), substituted “Subsections (a), (b), and (g)” for “Subsections (a) and (b)” in heading and “subsections (a), (b), and (g)” for “subsections (a) and (b)” in text.
 
@@ -627,6 +745,10 @@ Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Se
 1960—Subsec. (b). Pub. L. 86–496 provided that if the discharge, cancellation, or modification of any indebtedness is effected pursuant to a court order in a receivership proceeding or in a proceeding under section 77 of the Bankruptcy Act, commenced before Jan. 1, 1960, then no amount is to be included in gross income with respect to it, and struck out provisions which made subsection inapplicable to discharges occurring in a taxable year beginning after Dec. 31, 1957.
 
 1956—Subsec. (b). Act June 29, 1956, substituted “December 31, 1957” for “December 31, 1955”.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–5, div. B, title I, §1231(b), Feb. 17, 2009, 123 Stat. 341, provided that: “The amendments made by this section \[amending this section\] shall apply to discharges in taxable years ending after December 31, 2008.”
 
 #### Effective Date of 2008 Amendment
 
@@ -942,5 +1064,5 @@ Effective Date.—This section shall apply to discharges made on or after Septem
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

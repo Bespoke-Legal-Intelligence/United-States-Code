@@ -74,7 +74,7 @@ Within 90 days after August 8, 2005, the Secretary of the Interior shall report 
 
 #### (4) Partnerships
 
-&emsp;The Task Force shall make recommendations with respect to initiating a partnership with the Province of Alberta, Canada, for purposes of sharing information relating to the development and production of oil from tar sands, and similar partnerships with other nations that contain significant oil shale resources.
+&emsp;The Task Force shall make recommendations with respect to initiating a partnership with the Province of Alberta, Canada, for purposes of sharing information relating to thedevelopment and production of oil from tar sands, and similar partnerships with other nations that contain significant oil shale resources.
 
 #### (5) Reports
 

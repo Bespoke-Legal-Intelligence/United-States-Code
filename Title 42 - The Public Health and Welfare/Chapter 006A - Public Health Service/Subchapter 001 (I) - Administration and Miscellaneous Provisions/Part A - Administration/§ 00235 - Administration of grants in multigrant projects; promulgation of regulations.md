@@ -8,7 +8,7 @@ For the purpose of facilitating the administration of, and expediting the carryi
 
 &emsp;(3) under which inconsistent or duplicative requirements imposed by such programs will be revised and made uniform with respect to such project;
 
-> except that nothing in this section shall be construed to authorize the Secretary to waive or suspend, with respect to any such project, any requirement with respect to any of such programs if such requirement is imposed by law or by any regulation required by law.
+> except that nothing in this section shall be construed to authorize the Secretary to waive orsuspend, with respect to any such project, any requirement with respect to any of such programs if such requirement is imposed by law or by any regulation required by law.
 
 (July 1, 1944, ch. 373, title II, §226, formerly title III, §310A, as added Pub. L. 91–515, title II, §270, Oct. 30, 1970, 84 Stat. 1306; amended Pub. L. 92–157, title II, §201, Nov. 18, 1971, 85 Stat. 461; renumbered §226, Pub. L. 93–353, title I, §102(e), July 23, 1974, 88 Stat. 362.)
 

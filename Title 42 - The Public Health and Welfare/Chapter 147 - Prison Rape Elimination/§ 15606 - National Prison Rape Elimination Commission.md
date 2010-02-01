@@ -222,7 +222,7 @@ The Commission may secure directly from any Federal department or agency such in
 
 #### (2) Other organizations
 
-&emsp;Nothing in this subsection shall be construed to limit the ability of the Commissionto enter into contracts with other entities or organizations for research necessary to carry out the duties of the Commission under this section.
+&emsp;Nothing in this subsection shall be construed to limit the ability of the Commission to enter into contracts with other entities or organizations for research necessary to carry out the duties of the Commission under this section.
 
 #### (k) Subpoenas
 

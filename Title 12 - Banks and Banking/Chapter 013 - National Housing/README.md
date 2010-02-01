@@ -155,6 +155,7 @@
 | 1715z–22a. | Definitions. |
 | 1715z–23. | HOPE for Homeowners Program. |
 | 1715z–24. | Pilot program for automated process for borrowers without sufficient credit history. |
+| 1715z–25. | Mortgage modification data collecting and reporting. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -218,7 +219,7 @@
 | 1735f–7a. | State constitution or laws limiting mortgage interest, discount points, and finance or other charges; exemption for obligations made after March 31, 1980. |
 | 1735f–8. | Time of payment of premium charges. |
 | 1735f–9. | Limitation on commitments to insure loans and mortgages. |
-| 1735f–10. | Purchaser-broker arrangement payments for insurance purposes. |
+| 1735f–10. | Change of mortgagee status. |
 | 1735f–11. | Review of mortgagee performance and authority to terminate. |
 | 1735f–12. | Assurance of adequate processing of applications for loan and mortgage insurance. |
 | 1735f–13. | Prohibition of requirement of minimum principal loan amount. |

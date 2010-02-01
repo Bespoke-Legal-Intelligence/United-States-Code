@@ -48,7 +48,7 @@
 
 (4)(A) Not later than 15 months after the date of the enactment of this subsection, the Director of the Office of Management and Budget shall submit the first financial management status report and governmentwide 5-year financial management plan under this subsection to the appropriate committees of the Congress.
 
-(B)(i) Not later than January 31 of each year thereafter, the Director of the Office of Management and Budget shall submit to the appropriate committees of the Congress a financial management status report and a revised governmentwide 5-year financial management plan to cover the succeeding 5 fiscal years, including areport on the accomplishments of the executive branch in implementing the plan during the preceding fiscal year.
+(B)(i) Not later than January 31 of each year thereafter, the Director of the Office of Management and Budget shall submit to the appropriate committees of the Congress a financial management status report and a revised governmentwide 5-year financial management plan to cover the succeeding 5 fiscal years, including a report on the accomplishments of the executive branch in implementing the plan during the preceding fiscal year.
 
 (ii) The Director shall include with each revised governmentwide 5-year financial management plan a description of any substantive changes in the financial statement audit plan required by paragraph (3)(B)(viii), progress made by executive agencies in implementing the audit plan, and any improvements in Federal Government financial management related to preparation and audit of financial statements of executive agencies.
 
@@ -160,7 +160,7 @@ In subsections (c) and (d), the words “Comptroller General” are substituted 
 
 In subsection (c), the text of 31:66a(b) is omitted as unnecessary. In clause (1), the words “the head of” are added for consistency with the revised title and other titles of the United States Code. In clause (2), the words “under section 3511 of this title” are substituted for “by him” in 31:66(b)(less Treasury Department) for clarity.
 
-In subsection (d), the word “concerned” is omitted as surplus. The word “President” is substituted for “Director of the Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
+In subsection (d), the word “concerned” is omitted as surplus. The word “President” is substituted for “Director of the Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No.2 of 1970 redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 
 1983
 
@@ -240,7 +240,7 @@ This section is popularly known as the “Federal Managers Financial Integrity A
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed inHouse Document No. 103–7 (in which the requirement to submit statements and reports to Congress under subsection (d)(3) of this section is listed on page 151), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement to submit statements and reports to Congress under subsection (d)(3) of this section is listed on page 151), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
 
 #### Federal Financial Management Improvement
 
@@ -372,7 +372,7 @@ Reports by the Director.—No later than March 31 of each year, the Director sha
 
 “(b)
 
-Reports by the Inspector General\[.\]—Each Inspector General who prepares a report under section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.) shall report to Congress instances and reasons when an agency has not met the intermediate target dates established in the remediation plan required under section 3(c) \[803(c)\]. Specifically the report shall include—
+Reports by the Inspector General\[.\]—Each Inspector General who prepares a report under section5(a) of the Inspector General Act of 1978 (5 U.S.C. App.) shall report to Congress instances and reasons when an agency has not met the intermediate target dates established in the remediation plan required under section 3(c) \[803(c)\]. Specifically the report shall include—
 
 &emsp;“(1) the entity or organization responsible for the non-compliance \[sic\];
 

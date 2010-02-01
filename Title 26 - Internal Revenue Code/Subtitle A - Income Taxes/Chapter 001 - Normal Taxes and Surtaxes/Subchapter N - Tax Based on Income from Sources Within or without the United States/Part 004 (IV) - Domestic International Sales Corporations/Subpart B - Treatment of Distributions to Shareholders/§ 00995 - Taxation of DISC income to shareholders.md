@@ -50,7 +50,7 @@ A shareholder of a DISC or former DISC shall be subject to taxation on the earni
 
 #### (B) Military property
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “military property” means any property which is an arm, ammunition, or implement of war designated in the munitions list published pursuant to section 38 of the Arms Export Control Act (22 U.S.C. 2778).
+&emsp;&emsp;For purposes of subparagraph (A), the term “military property” means any propertywhich is an arm, ammunition, or implement of war designated in the munitions list published pursuant to section 38 of the Arms Export Control Act (22 U.S.C. 2778).
 
 #### (4) Aggregation of qualified export receipts
 
@@ -108,7 +108,7 @@ For the purposes of this part—
 
 &emsp;&emsp;&emsp;(v) the uncommitted transitional funds of the group as determined under paragraph (4).
 
-> &emsp;&emsp;For purposes of this paragraph, assets which are qualified export assets of a DISC (or would be qualified export assets if owned by a DISC) shall not be taken into account. Amounts described in this paragraph (other than in subparagraphs (B)(ii) and (v)) shallbe taken into account only to the extent they are attributable to taxable years beginning after December 31, 1971.
+> &emsp;&emsp;For purposes of this paragraph, assets which are qualified export assets of a DISC (or would be qualified export assets if owned by a DISC) shall not be taken into account. Amounts described in this paragraph (other than in subparagraphs (B)(ii) and (v)) shall be taken into account only to the extent they are attributable to taxable years beginning after December 31, 1971.
 
 #### (3) Actual foreign investment
 

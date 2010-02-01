@@ -56,7 +56,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (r) The term “operator” means any individual who manipulates the controls of a utilization or production facility.
 
-(s) The term “person” means (1) any individual, corporation, partnership, firm, association,trust, estate, public or private institution, group, Government agency other than the Commission, any State or any political subdivision of, or any political entity within a State, any foreign government or nation or any political subdivision of any such government or nation, or other entity; and (2) any legal successor, representative, agent, or agency of the foregoing.
+(s) The term “person” means (1) any individual, corporation, partnership, firm, association, trust, estate, public or private institution, group, Government agency other than the Commission, any State or any political subdivision of, or any political entity within a State, any foreign government or nation or any political subdivision of any such government or nation, or other entity; and (2) any legal successor, representative, agent, or agency of the foregoing.
 
 (t) The term “person indemnified” means (1) with respect to a nuclear incident occurring within the United States or outside the United States as the term is used in section 2210(c) of this title, and with respect to any nuclear incident in connection with the design, development, construction, operation, repair, maintenance, or use of the nuclear ship Savannah, the person with whom an indemnity agreement is executed or who is required to maintain financial protection, and any other person who may be liable for public liability or (2) with respect to any other nuclear incident occurring outside the United States, the person with whom an indemnity agreement is executed and any other person who may be liable for public liability by reason of his activities under any contract with the Secretary of Energy or any project to which indemnification under the provisions of section 2210(d) of this title has been extended or under any subcontract, purchase order, or other agreement, of any tier, under any such contract or project.
 
@@ -132,7 +132,7 @@ Pub. L. 100–408, §16(b)(2), substituted “Secretary of Energy” for “Comm
 
 Subsec. (w). Pub. L. 100–408, §16(d)(3), substituted “subsections (a), (c), and (k) of section 2210 of this title” for “section 2210(a), (c), and (k) of this title”.
 
-Pub. L. 100–408, §5(a), inserted “or precautionary evacuation (including all reasonable additional costsincurred by a State, or a political subdivision of a State, in the course of responding to a nuclear incident or a precautionary evacuation)” after first reference to “nuclear incident”.
+Pub. L. 100–408, §5(a), inserted “or precautionary evacuation (including all reasonable additional costs incurred by a State, or a political subdivision of a State, in the course of responding to a nuclear incident or a precautionary evacuation)” after first reference to “nuclear incident”.
 
 Subsecs. (dd) to (ff). Pub. L. 100–408, §4(b), added subsecs. (dd) to (ff).
 

@@ -4,15 +4,15 @@ In this part:
 
 #### (1) Comprehensive transition and postsecondary program for students with intellectual disabilities
 
-&emsp;The term “comprehensive transition and postsecondary program for students with intellectual disabilities” means a degree, certificate, or nondegree program that is—
+&emsp;The term “comprehensive transition and postsecondary program for students with intellectual disabilities” means a degree, certificate, or nondegree program that meets each of the following:
 
-&emsp;&emsp;(A) offered by an institution of higher education;
+&emsp;&emsp;(A) Is offered by an institution of higher education.
 
-&emsp;&emsp;(B) designed to support students with intellectual disabilities who are seeking to continue academic, career and technical, and independent living instruction at an institution of higher education in order to prepare for gainful employment;
+&emsp;&emsp;(B) Is designed to support students with intellectual disabilities who are seeking to continue academic, career and technical, and independent living instruction at an institution of higher education in order to prepare for gainful employment.
 
-&emsp;&emsp;(C) includes an advising and curriculum structure; and
+&emsp;&emsp;(C) Includes an advising and curriculum structure.
 
-&emsp;&emsp;(D) requires students with intellectual disabilities to participate on not less than a half-time basis, as determined by the institution, with such participation focusing on academic components and occurring through one or more of the following activities:
+&emsp;&emsp;(D) Requires students with intellectual disabilities to participate on not less than a half-time basis as determined by the institution, with such participation focusing on academic components, and occurring through 1 or more of the following activities:
 
 &emsp;&emsp;&emsp;(i) Regular enrollment in credit-bearing courses with nondisabled students offered by the institution.
 
@@ -21,6 +21,8 @@ In this part:
 &emsp;&emsp;&emsp;(iii) Enrollment in noncredit-bearing, nondegree courses with nondisabled students.
 
 &emsp;&emsp;&emsp;(iv) Participation in internships or work-based training in settings with nondisabled individuals.
+
+&emsp;&emsp;(E) Requires students with intellectual disabilities to be socially and academically integrated with non-disabled students to the maximum extent possible.
 
 #### (2) Student with an intellectual disability
 
@@ -34,7 +36,7 @@ In this part:
 
 &emsp;&emsp;(B) who is currently, or was formerly, eligible for a free appropriate public education under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\].
 
-(Pub. L. 89–329, title VII, §760, as added Pub. L. 110–315, title VII, §709(2), Aug. 14, 2008, 122 Stat. 3361.)
+(Pub. L. 89–329, title VII, §760, as added Pub. L. 110–315, title VII, §709(2), Aug. 14, 2008, 122 Stat. 3361; amended Pub. L. 111–39, title VII, §701(4), July 1, 2009, 123 Stat. 1954.)
 
 #### References in Text
 
@@ -43,4 +45,12 @@ The Individuals with Disabilities Education Act, referred to in par. (2)(B), is 
 #### Prior Provisions
 
 A prior section 1140, Pub. L. 89–329, title VII, §761, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1801, stated the purpose of former part D, prior to repeal by Pub. L. 110–315, title VII, §709(2), Aug. 14, 2008, 122 Stat. 3361.
+
+#### Amendments
+
+2009—Par. (1). Pub. L. 111–39 added par. (1) and struck out former par. (1) which contained provisions substantially similar to new subpars. (A) to (D), defining “comprehensive transition and postsecondary program for students with intellectual disabilities”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

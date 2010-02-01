@@ -1,5 +1,7 @@
 ### SUBCHAPTER II—ASSISTANCE TO ACCELERATE PROGRAMS TO PREVENT WEAPONS OF MASS DESTRUCTION PROLIFERATION AND TERRORISM
 
+<i><sup>1</sup></i><i> So in original. The word “defense” probably should not appear before “excess”.</i>
+
 
 ---
 

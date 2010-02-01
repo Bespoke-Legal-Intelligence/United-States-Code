@@ -26,7 +26,7 @@
 
 #### (E) Reallotment
 
-&emsp;&emsp;The grants not obligated by the last day of the period for which the grants are availableshall be reallotted according to the appropriate criteria set forth in subparagraph (D), except that the Administrator may reserve and allocate 10 percent of the remaining amount for financial assistance to Indian Tribes in addition to the amount allotted under subsection (i) of this section and none of the funds reallotted by the Administrator shall be reallotted to any State that has not obligated all sums allotted to the State pursuant to this section during the period in which the sums were available for obligation.
+&emsp;&emsp;The grants not obligated by the last day of the period for which the grants are available shall be reallotted according to the appropriate criteria set forth in subparagraph (D), except that the Administrator may reserve and allocate 10 percent of the remaining amount for financial assistance to Indian Tribes in addition to the amount allotted under subsection (i) of this section and none of the funds reallotted by the Administrator shall be reallotted to any State that has not obligated all sums allotted to the State pursuant to this section during the period in which the sums were available for obligation.
 
 #### (F) Nonprimacy States
 
@@ -40,7 +40,7 @@
 
 #### (ii) Operator certification
 
-&emsp;&emsp;&emsp;The Administrator shall withhold 20 percent of each capitalization grant made pursuant to this section unless the State has met the requirements of 300g–8 <sup>1</sup> of this title (relating to operator certification). All funds withheld by the Administrator pursuant to this clause shall be reallotted by the Administrator on the basis of the same ratio as applicable to funds allotted under subparagraph (D). None of the funds reallotted by the Administrator pursuant to this paragraph shall be allotted to a State unless the State has met the requirements of section 300g–8 of this title (relating to operator certification).
+&emsp;&emsp;&emsp;The Administrator shall withhold 20 percent of each capitalization grant madepursuant to this section unless the State has met the requirements of 300g–8 <sup>1</sup> of this title (relating to operator certification). All funds withheld by the Administrator pursuant to this clause shall be reallotted by the Administrator on the basis of the same ratio as applicable to funds allotted under subparagraph (D). None of the funds reallotted by the Administrator pursuant to this paragraph shall be allotted to a State unless the State has met the requirements of section 300g–8 of this title (relating to operator certification).
 
 #### (2) Use of funds
 
@@ -98,7 +98,7 @@
 
 #### (B) List of projects
 
-&emsp;&emsp;Each State shall, after notice and opportunity for public comment, publish and periodically update a list of projects in the State that are eligible for assistance under this section, including the priority assigned to each project and, to the extent known, the expected funding schedule for each project.
+&emsp;&emsp;Each State shall, after notice and opportunity for public comment, publish and periodically update a list of projects in the State that are eligible for assistance under thissection, including the priority assigned to each project and, to the extent known, the expected funding schedule for each project.
 
 #### (c) Fund management
 
@@ -212,7 +212,7 @@ The Administrator shall conduct an assessment of water system capital improvemen
 
 #### (j) Other areas
 
-Of the funds annually available under this section for grants to States, the Administrator shall make allotments in accordance with section 300j–2(a)(4) of this title for the Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and Guam. The grants allotted as provided in this subsection may be provided by the Administrator to the governments of such areas, to public water systems in such areas, or to both, to be used for the public water system expenditures referred to in subsection (a)(2) of this section. The grants, and grants for the District of Columbia, shall not be deposited in State loan funds. The total allotment of grants under this section for all areas described in this subsection in any fiscal year shall not exceed 0.33 percent of the aggregate amount made available to carry out this section in that fiscal year.
+Of the funds annually available under this section for grants to States, the Administrator shall make allotments in accordance with section 300j–2(a)(4) of this title for the Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and Guam. The grants allotted as provided in this subsection may be provided by the Administrator to the governments of such areas, to public water systems in such areas, or to both, to be used for the public water system expenditures referred to in subsection (a)(2) of this section. The grants, and grants for the District of Columbia, shall not be deposited in State loan funds. The total allotment of grants under this section for all areas described in this subsection in any fiscal yearshall not exceed 0.33 percent of the aggregate amount made available to carry out this section in that fiscal year.
 
 #### (k) Other authorized activities
 
@@ -270,7 +270,7 @@ From funds appropriated pursuant to this section for each fiscal year beginning 
 
 #### (p) Demonstration project for State of Virginia
 
-Notwithstanding the other provisions of this section limiting the use of funds deposited in a State loan fund from any State allotment, the State of Virginia may, as a single demonstration and with the approval of the Virginia General Assembly and the Administrator, conduct a program to demonstrate alternative approaches to intergovernmental coordination to assist in the financing of new drinking water facilities in the following rural communities in southwestern Virginia where none exists on August 6, 1996, and where such communities are experiencing economic hardship: Lee County, Wise County, Scott County, Dickenson County, Russell County, Buchanan County, Tazewell County, and the city of Norton, Virginia. The funds allotted to that State and deposited in the State loan fund may be loaned to a regional endowment fund for the purpose set forth in this subsection under a plan to be approved by the Administrator. The plan may include an advisory group that includes representatives of such counties.
+Notwithstanding the other provisions of this section limiting the use of funds deposited in a State loan fund from any State allotment, the State of Virginia may, as a single demonstration and with the approval of the Virginia General Assembly and the Administrator, conduct a program to demonstrate alternative approaches to intergovernmental coordination to assist in the financing of new drinking water facilities in the following rural communities in southwestern Virginia where none exists on August 6, 1996, and where such communities are experiencingeconomic hardship: Lee County, Wise County, Scott County, Dickenson County, Russell County, Buchanan County, Tazewell County, and the city of Norton, Virginia. The funds allotted to that State and deposited in the State loan fund may be loaned to a regional endowment fund for the purpose set forth in this subsection under a plan to be approved by the Administrator. The plan may include an advisory group that includes representatives of such counties.
 
 #### (q) Small system technical assistance
 

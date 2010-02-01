@@ -22,7 +22,7 @@ The term “foreign government” includes in its meaning any person or persons 
 
 The term “communication intelligence” means all procedures and methods used in the interception of communications and the obtaining of information from such communications by other than the intended recipients;
 
-The term “unauthorized person” means any person who, or agency which, is not authorized to receive information of the categories set forth in subsection (a) of this section, by the President, or by the head of a department or agency of the United States Government which is expressly designated by the President to engage in communication intelligence activities for the United States.
+The term “unauthorized person” means any person who, or agency which, is not authorized to receive information of the categories set forth in subsection (a) of this section, by thePresident, or by the head of a department or agency of the United States Government which is expressly designated by the President to engage in communication intelligence activities for the United States.
 
 (c) Nothing in this section shall prohibit the furnishing, upon lawful demand, of information to any regularly constituted committee of the Senate or House of Representatives of the United States of America, or joint committee thereof.
 

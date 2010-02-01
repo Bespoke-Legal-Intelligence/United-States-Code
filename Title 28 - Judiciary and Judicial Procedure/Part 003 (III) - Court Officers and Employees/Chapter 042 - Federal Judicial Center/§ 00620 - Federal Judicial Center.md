@@ -12,7 +12,7 @@
 
 &emsp;(4) insofar as may be consistent with the performance of the other functions set forth in this section, to provide staff, research, and planning assistance to the Judicial Conference of the United States and its committees;
 
-&emsp;(5) Insofar <sup>1</sup> as may be consistent with the performance of the other functions set forth inthis section, to cooperate with the State Justice Institute in the establishment and coordination of research and programs concerning the administration of justice; and
+&emsp;(5) Insofar <sup>1</sup> as may be consistent with the performance of the other functions set forth in this section, to cooperate with the State Justice Institute in the establishment and coordination of research and programs concerning the administration of justice; and
 
 &emsp;(6) insofar as may be consistent with the performance of the other functions set forth in this section, to cooperate with and assist agencies of the Federal Government and other appropriate organizations in providing information and advice to further improvement in the administration of justice in the courts of foreign countries and to acquire information about judicial administration in foreign countries that may contribute to performing the other functions set forth in this section.
 

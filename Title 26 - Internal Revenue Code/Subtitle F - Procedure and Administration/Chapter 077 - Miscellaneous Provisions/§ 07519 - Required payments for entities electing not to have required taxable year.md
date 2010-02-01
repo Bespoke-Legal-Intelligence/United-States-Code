@@ -20,7 +20,7 @@ For purposes of this section, the term “required payment” means, with respec
 
 &emsp;(2) the net required payment balance.
 
-> For purposes of paragraph (1)(A), the term “adjusted highest section 1 rate” means the highest rate of tax in effect under section 1 as of the end of the base year plus 1 percentage point (or, in the case of applicable election years beginning in 1987, 36 percent).
+> For purposes of paragraph (1)(A), the term “adjusted highest section 1 rate” means the highestrate of tax in effect under section 1 as of the end of the base year plus 1 percentage point (or, in the case of applicable election years beginning in 1987, 36 percent).
 
 #### (c) Refund of payments
 
@@ -152,7 +152,7 @@ For purposes of this section—
 
 #### (A) Base year
 
-&emsp;&emsp;The term “base year” means, with respect to any applicable election year, the taxableyear of the partnership or S corporation preceding such applicable election year.
+&emsp;&emsp;The term “base year” means, with respect to any applicable election year, the taxable year of the partnership or S corporation preceding such applicable election year.
 
 #### (B) Applicable election year
 
@@ -228,11 +228,11 @@ Subsec. (c). Pub. L. 100–647, §2004(e)(5), amended subsec. (c) generally. Pri
 
 Subsec. (d)(2)(A). Pub. L. 100–647, §2004(e)(10), substituted “(other than credits and tax-exempt income)” for “(other than credits)”.
 
-Subsec. (d)(2)(B). Pub. L. 100–647, §2004(e)(7), (10), substituted “(other than credits and tax-exempt income)” for “(other than credits)” and inserted before period at end “(and such corporation shall be treated as an S corporation for such taxable year for purposes of paragraph (3))”.
+Subsec. (d)(2)(B). Pub. L. 100–647, §2004(e)(7), (10), substituted “(other than credits and tax-exempt income)” for “(other than credits)” and inserted before period atend “(and such corporation shall be treated as an S corporation for such taxable year for purposes of paragraph (3))”.
 
 Subsec. (d)(3)(A). Pub. L. 100–647, §2004(e)(14)(B), struck out “or incurred” after “amounts paid”.
 
-Subsec. (d)(4). Pub. L. 100–647, §2004(e)(9), inserted at end “Notwithstanding the preceding provisions of this paragraph, for taxable years beginning after 1987, the applicable percentage for any partnership or S corporation shall be 100 percent if more than 50 percent of such entity's net income for the short taxable year whichwould have resulted if the entity had not made an election under section 444 would have been allocated to partners or shareholders who would not have been entitled to the benefits of section 806(e)(2)(C) of the Tax Reform Act of 1986 with respect to such income.”
+Subsec. (d)(4). Pub. L. 100–647, §2004(e)(9), inserted at end “Notwithstanding the preceding provisions of this paragraph, for taxable years beginning after 1987, the applicable percentage for any partnership or S corporation shall be 100 percent if more than 50 percent of such entity's net income for the short taxable year which would have resulted if the entity had not made an election under section 444 would have been allocated to partners or shareholders who would not have been entitled to the benefits of section 806(e)(2)(C) of the Tax Reform Act of 1986 with respect to such income.”
 
 Subsec. (d)(5). Pub. L. 100–647, §2004(e)(8), added par. (5).
 

@@ -38,7 +38,7 @@ If—
 
 #### (d) Proration of deficiency to installments
 
-If an election is made under subsection (a), and a deficiency attributable to the recovery of a foreign expropriation loss has been assessed, the deficiency shall be prorated to such installments. The part of the deficiency so prorated to any installment the date for payment of which has not arrived shall be collected at the sametime as, and as part of, such installment. The part of the deficiency so prorated to any installment the date for payment of which has arrived shall be paid upon notice and demand from the Secretary. This subsection shall not apply if the deficiency is due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax.
+If an election is made under subsection (a), and a deficiency attributable to the recovery of a foreign expropriation loss has been assessed, the deficiency shall be prorated to such installments. The part of the deficiency so prorated to any installment the date for payment of which has not arrived shall be collected at the same time as, and as part of, such installment. The part of the deficiency so prorated to any installment the date for payment of which has arrived shall be paid upon notice and demand from the Secretary. This subsection shall not apply if the deficiency is due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax.
 
 #### (e) Time for payment of interest
 
@@ -62,7 +62,7 @@ If any installment under this section is not paid on or before the date fixed fo
 
 &emsp;&emsp;<b>(2) Period of limitation.—For extension of the period of limitation in the case of an extension under this section, see section 6503(e).</b>
 
-(Added Pub. L. 89–384, §1(d), Apr. 8, 1966, 80 Stat. 102; amended Pub. L. 93–625, §7(d)(2), (3), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §§1902(b)(2)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1806, 1834.)
+(Added Pub. L. 89–384, §1(d), Apr. 8, 1966, 80 Stat. 102; amended Pub. L. 93–625, §7(d)(2), (3), Jan. 3,1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §§1902(b)(2)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1806, 1834.)
 
 #### Amendments
 

@@ -46,7 +46,7 @@ An administrative law judge may not continue administrative proceedings under th
 
 (4) No such order shall affect any contract, sale, encumbrance, or lease consummated before the issuance of such order and involving a bona fide purchaser, encumbrancer, or tenant without actual notice of the charge filed under this subchapter.
 
-(5) In the case of an order with respect to a discriminatory housing practice that occurred in the course of a business subject to a licensing or regulation by a governmental agency, the Secretary shall, not later than 30 days after the date of the issuance of such order (or, if such order is judicially reviewed, 30 days after such order is in substance affirmed upon such review)—
+(5) In the case of an order with respect to a discriminatory housing practice that occurred in the course of a business subject to a licensing or regulation by a governmental agency, the Secretary shall, not later than 30 days after the date of the issuance of such order (or, if such order is judicially reviewed, 30 days after suchorder is in substance affirmed upon such review)—
 
 &emsp;(A) send copies of the findings of fact, conclusions of law, and the order, to that governmental agency; and
 

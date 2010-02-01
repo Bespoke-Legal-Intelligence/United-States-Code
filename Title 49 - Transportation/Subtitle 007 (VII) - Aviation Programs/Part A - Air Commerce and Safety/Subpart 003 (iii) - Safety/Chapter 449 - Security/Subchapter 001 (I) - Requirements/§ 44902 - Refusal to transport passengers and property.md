@@ -10,7 +10,7 @@ Mandatory Refusal.—The Under Secretary of Transportation for Security shall pr
 
 (b)
 
-Permissive Refusal.—Subject to regulations of the Under Secretary, an air carrier, intrastate air carrier, or foreign air carrier may refuse to transport a passenger or property the carrier decides is, or might be, inimical to safety.
+Permissive Refusal.—Subject to regulations of the Under Secretary, an air carrier,intrastate air carrier, or foreign air carrier may refuse to transport a passenger or property the carrier decides is, or might be, inimical to safety.
 
 (c)
 

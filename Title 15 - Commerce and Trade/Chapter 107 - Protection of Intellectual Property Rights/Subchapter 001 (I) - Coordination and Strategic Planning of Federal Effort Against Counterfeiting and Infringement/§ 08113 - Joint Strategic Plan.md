@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The objectives of the Joint Strategic Plan against counterfeiting and infringement that isreferred to in section 8111(b)(1)(B) of this title (in this section referred to as the “joint strategic plan”) are the following:
+The objectives of the Joint Strategic Plan against counterfeiting and infringement that is referred to in section 8111(b)(1)(B) of this title (in this section referred to as the “joint strategic plan”) are the following:
 
 &emsp;(1) Reducing counterfeit and infringing goods in the domestic and international supply chain.
 
@@ -56,7 +56,7 @@ Each joint strategic plan shall include the following:
 
 &emsp;(4) The performance measures to be used to monitor results under the joint strategic plan during the following year.
 
-&emsp;(5) An analysis of the threat posed by violations of intellectual property rights, including the costs to the economy of the United States resulting from violations of intellectual property laws, and the threats to public health andsafety created by counterfeiting and infringement.
+&emsp;(5) An analysis of the threat posed by violations of intellectual property rights, including the costs to the economy of the United States resulting from violations of intellectual property laws, and the threats to public health and safety created by counterfeiting and infringement.
 
 &emsp;(6) An identification of the departments and agencies that will be involved in implementing each priority under paragraph (1).
 

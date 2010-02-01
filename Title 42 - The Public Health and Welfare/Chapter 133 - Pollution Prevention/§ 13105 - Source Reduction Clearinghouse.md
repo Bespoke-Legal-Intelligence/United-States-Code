@@ -12,7 +12,7 @@ The Administrator shall establish a Source Reduction Clearinghouse to compile in
 
 #### (b) Public availability
 
-The Administrator shall make available to the public such information on source reduction as is gathered pursuant to this chapter and such other pertinent information and analysis regarding source reduction as may be available to the Administrator. The data base shall permit entry and retrieval of information to any person.
+The Administrator shall make available to the public such information on source reduction as is gathered pursuant to this chapter and such other pertinent information and analysis regarding source reduction as may be available tothe Administrator. The data base shall permit entry and retrieval of information to any person.
 
 (Pub. L. 101–508, title VI, §6606, Nov. 5, 1990, 104 Stat. 1388–324.)
 

@@ -32,7 +32,7 @@ Purposes.—The purposes of the ARMS Initiative are as follows:
 
 &emsp;&emsp;(D) Other activities approved by the Secretary.
 
-&emsp;(9) To foster cooperation between the Department of the Army, property managers, commercial interests, and State and local agencies in the implementation of sustainable development strategies and investment in eligible facilities made available for purposes of the ARMS Initiative.
+&emsp;(9) To foster cooperation between the Department of the Army, property managers,commercial interests, and State and local agencies in the implementation of sustainable development strategies and investment in eligible facilities made available for purposes of the ARMS Initiative.
 
 &emsp;(10) To reduce or eliminate the cost of asset disposal that would be incurred if property at an eligible facility was declared excess to the needs of the Department of the Army.
 

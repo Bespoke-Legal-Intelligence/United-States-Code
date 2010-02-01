@@ -50,7 +50,7 @@ To be eligible to receive a grant under this section, a protection and advocacy 
 
 #### (4) Inflation adjustment
 
-&emsp;For each fiscal year in which the total amount appropriated under subsection (<i>l</i>) of this section to carry out this section is $5,000,000 or more, and such appropriated amount exceeds the total amount appropriated to carry out this section in the preceding fiscal year, the Administrator shall increase each of the minimum grants amount described in subparagraphs (A) and (B) of paragraph (3) by a percentage equal to the percentage increase in the total amount appropriated under subsection (<i>l</i>) of this section to carry out this section between the preceding fiscal year and the fiscal year involved.
+&emsp;For each fiscal year in which the total amount appropriated under subsection (<i>l</i>) ofthis section to carry out this section is $5,000,000 or more, and such appropriated amount exceeds the total amount appropriated to carry out this section in the preceding fiscal year, the Administrator shall increase each of the minimum grants amount described in subparagraphs (A) and (B) of paragraph (3) by a percentage equal to the percentage increase in the total amount appropriated under subsection (<i>l</i>) of this section to carry out this section between the preceding fiscal year and the fiscal year involved.
 
 #### (f) Carryover
 
@@ -72,7 +72,7 @@ The Administrator of the Health Resources and Services Administration and the Co
 
 #### (1) Grants
 
-&emsp;For any fiscal year for which the amount appropriated to carry out this section is$6,000,000 or greater, the Administrator shall use 2 percent of such amount to make a grant to an eligible national association for providing for training and technical assistance to protection and advocacy systems.
+&emsp;For any fiscal year for which the amount appropriated to carry out this section is $6,000,000 or greater, the Administrator shall use 2 percent of such amount to make a grant to an eligible national association for providing for training and technical assistance to protection and advocacy systems.
 
 #### (2) Definition
 

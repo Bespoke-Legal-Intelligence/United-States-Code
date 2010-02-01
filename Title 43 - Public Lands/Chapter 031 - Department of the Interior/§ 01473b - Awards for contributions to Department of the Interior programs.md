@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, in fiscal year 1992 and thereafter, 
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 102–154, Nov. 13, 1991, 105 Stat. 990, known as the Department of theInterior and Related Agencies Appropriations Act, 1992. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 102–154, Nov. 13, 1991, 105 Stat. 990, known as the Department of the Interior and Related Agencies Appropriations Act, 1992. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 

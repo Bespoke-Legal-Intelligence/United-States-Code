@@ -26,7 +26,7 @@ During the period specified in subsection (a) of this section, the price of milk
 
 #### (2) Timing of purchase price adjustments
 
-&emsp;The Secretary may make any such adjustments in the purchase prices for nonfat dry milk and butter the Secretary considers to be necessary not more than twice in each calendar year.
+&emsp;The Secretary may make any such adjustments in the purchase prices for nonfat drymilk and butter the Secretary considers to be necessary not more than twice in each calendar year.
 
 #### (e) Commodity Credit Corporation
 

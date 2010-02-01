@@ -176,7 +176,7 @@ The following shall not be considered to be a compensation arrangement described
 
 &emsp;&emsp;&emsp;(i) the arrangement is set out in writing, signed by the parties, and specifies the services covered by the arrangement,
 
-&emsp;&emsp;&emsp;(ii) the arrangement covers all of the services to be provided by the physician\(or an immediate family member of such physician) to the entity,
+&emsp;&emsp;&emsp;(ii) the arrangement covers all of the services to be provided by the physician (or an immediate family member of such physician) to the entity,
 
 &emsp;&emsp;&emsp;(iii) the aggregate services contracted for do not exceed those that are reasonable and necessary for the legitimate business purposes of the arrangement,
 
@@ -240,7 +240,7 @@ The following shall not be considered to be a compensation arrangement described
 
 &emsp;&emsp;&emsp;(iv) the arrangement is pursuant to an agreement that is set out in writing and that specifies the services to be provided by the parties and the compensation for services provided under the agreement,
 
-&emsp;&emsp;&emsp;(v) the compensation paid over the term of the agreement is consistent with fair market value and the compensation per unit of services is fixed in advance and isnot determined in a manner that takes into account the volume or value of any referrals or other business generated between the parties,
+&emsp;&emsp;&emsp;(v) the compensation paid over the term of the agreement is consistent with fair market value and the compensation per unit of services is fixed in advance and is not determined in a manner that takes into account the volume or value of any referrals or other business generated between the parties,
 
 &emsp;&emsp;&emsp;(vi) the compensation is provided pursuant to an agreement which would be commercially reasonable even if no referrals were made to the entity, and
 
@@ -276,7 +276,7 @@ Each entity providing covered items or services for which payment may be made un
 
 #### (3) Civil money penalty and exclusion for improper claims
 
-&emsp;Any person that presents or causes to be presented a bill or a claim for a service that such person knows or should know is for a service for which payment may not be made under paragraph (1) or for which a refund has not been made under paragraph (2) shall be subject to a civil money penalty of not more than $15,000 for each such service. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;Any person that presents or causes to be presented a bill or a claim for a service that suchperson knows or should know is for a service for which payment may not be made under paragraph (1) or for which a refund has not been made under paragraph (2) shall be subject to a civil money penalty of not more than $15,000 for each such service. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (4) Civil money penalty and exclusion for circumvention schemes
 
@@ -336,7 +336,7 @@ For purposes of this section:
 
 #### (2) Employee
 
-&emsp;An individual is considered to be “employed by” or an “employee” of an entity if the individual would be considered to be an employee of the entity under the usual common law rules applicable in determining the employer-employee relationship (as applied for purposes of section 3121(d)(2) of the Internal Revenue Code of 1986).
+&emsp;An individual is considered to be “employed by” or an “employee” of an entity if the individual would be considered to be an employee of the entity under the usual common law rules applicable in determining the employer-employee relationship (as applied for purposesof section 3121(d)(2) of the Internal Revenue Code of 1986).
 
 #### (3) Fair market value
 
@@ -368,7 +368,7 @@ For purposes of this section:
 
 #### (ii) Faculty practice plans
 
-&emsp;&emsp;&emsp;In the case of a faculty practice plan associated with a hospital, institution of higher education, or medical school with an approved medical residency trainingprogram in which physician members may provide a variety of different specialty services and provide professional services both within and outside the group, as well as perform other tasks such as research, subparagraph (A) shall be applied only with respect to the services provided within the faculty practice plan.
+&emsp;&emsp;&emsp;In the case of a faculty practice plan associated with a hospital, institution of higher education, or medical school with an approved medical residency training program in which physician members may provide a variety of different specialty services and provide professional services both within and outside the group, as well as perform other tasks such as research, subparagraph (A) shall be applied only with respect to the services provided within the faculty practice plan.
 
 #### (5) Referral; referring physician
 
@@ -454,7 +454,7 @@ Section 300e–9(d) of this title, referred to in subsec. (b)(3)(D), was redesig
 
 Part C of this subchapter, referred to in subsec. (b)(3)(E), is classified to section 1395w–21 et seq. of this title.
 
-Section 1395w–104(e)(6) of this title, referred to in subsec. (b)(5), was in the original “section 1860D–3(e)(6)”, and was translated as reading “section 1860D–4(e)(6)”, meaning section 1860D–4(e)(6) of the Social SecurityAct, to reflect the probable intent of Congress, because section 1860D–3, which is classified to section 1395w–103 of this title, does not contain a subsec. (e), and section 1860D–4(e)(6) relates to electronic prescription program regulations.
+Section 1395w–104(e)(6) of this title, referred to in subsec. (b)(5), was in the original “section 1860D–3(e)(6)”, and was translated as reading “section 1860D–4(e)(6)”, meaning section 1860D–4(e)(6) of the Social Security Act, to reflect the probable intent of Congress, because section 1860D–3, which is classified to section 1395w–103 of this title, does not contain a subsec. (e), and section 1860D–4(e)(6) relates to electronic prescription program regulations.
 
 The Internal Revenue Code, referred to in subsecs. (c)(2) and (h)(2), is classified generally to Title 26, Internal Revenue Code.
 
@@ -506,7 +506,7 @@ Subsec. (f)(2). Pub. L. 101–508, §4207(e)(3)(A), formerly §4027(e)(3)(A), as
 
 Subsec. (g)(5). Pub. L. 101–508, §4207(k)(2), formerly §4027(k)(2), as renumbered by Pub. L. 103–432, §160(d)(4), inserted at end “The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.”
 
-Subsec. (h)(6). Pub. L. 101–508, §4207(e)(1)(C), formerly §4027(e)(1)(C), as renumbered by Pub. L. 103–432,§160(d)(4), added par. (6). Former par. (6) redesignated (7).
+Subsec. (h)(6). Pub. L. 101–508, §4207(e)(1)(C), formerly §4027(e)(1)(C), as renumbered by Pub. L. 103–432, §160(d)(4), added par. (6). Former par. (6) redesignated (7).
 
 Pub. L. 101–508, §4207(e)(1)(A), (B), formerly §4027(e)(1)(A), (B), as renumbered by Pub. L. 103–432, §160(d)(4), substituted “in the case of an item or service for which payment may be made under part B of this subchapter, the request by a physician for the item or service,” for “in the case of a clinical laboratory service which under law is required to be provided by (or under the supervision of) a physician, the request by a physician for the service,” in subpar. (A) and struck out “in the case of another clinical laboratory service,” after “subparagraph (C),” in subpar. (B).
 
@@ -550,7 +550,7 @@ Exceptions.—With respect to referrals made for clinical laboratory services on
 
 &emsp;“(C) the requirements of section 1877(c)(2) of the Social Security Act \[subsec. (c)(2) of this section\] (as amended by this Act) shall not apply to any securities of a corporation that meets the requirements of section 1877(c)(2) of the Social Security Act (as in effect on the day before the date of the enactment of this Act);
 
-&emsp;“(D) section 1877(e)(3) of the Social Security Act \[subsec. (e)(3) of this section\] (as amended by this Act) shall apply, except that it shall not apply to any arrangement that meets the requirements of subsection (e)(2) or subsection (e)(3) of section 1877 of the Social Security Act (as in effect on the day before the date of the enactment of this Act);
+&emsp;“(D) section 1877(e)(3) of the Social Security Act \[subsec. (e)(3) of this section\] (as amended by this Act) shall apply, except that it shall not apply to anyarrangement that meets the requirements of subsection (e)(2) or subsection (e)(3) of section 1877 of the Social Security Act (as in effect on the day before the date of the enactment of this Act);
 
 &emsp;“(E) the requirements of clauses (iv) and (v) of section 1877(h)(4)(A), and of clause (i) of section 1877(h)(4)(B), of the Social Security Act \[subsec. (h)(4)(A)(iv), (v), (B)(i) of this section\] (as amended by this Act) shall not apply; and
 

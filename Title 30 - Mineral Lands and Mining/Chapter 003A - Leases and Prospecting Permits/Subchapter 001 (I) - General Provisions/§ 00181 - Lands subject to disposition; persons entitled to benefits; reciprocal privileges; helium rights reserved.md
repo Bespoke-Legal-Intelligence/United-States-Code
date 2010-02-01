@@ -30,7 +30,7 @@ The Appalachian Forest Act, referred to in the first undesignated paragraph, is 
 
 Pub. L. 106–463, §1, Nov. 7, 2000, 114 Stat. 2010, provided that: “This Act \[amending section 184 of this title and enacting provisions set out as a note under section 184 of this title\] may be cited as the ‘Coal Market Competition Act of 2000’.”
 
-Pub. L. 106–393, title V, §501, Oct. 30, 2000, 114 Stat. 1624, provided that: “This title \[amending section 191 of this title and enacting provisions set out as a note under section 191 of this title\] may be cited as the ‘Mineral Revenue Payments Clarification Act of 2000’.”
+Pub. L. 106–393, title V, §501, Oct. 30, 2000, 114 Stat. 1624, provided that: “This title \[amending section 191 ofthis title and enacting provisions set out as a note under section 191 of this title\] may be cited as the ‘Mineral Revenue Payments Clarification Act of 2000’.”
 
 #### Short Title of 1987 Amendment
 
@@ -64,7 +64,7 @@ Section 15 of act Aug. 8, 1946, provided: “No repeal or amendment made by this
 
 Section 1(10), (11) of Pub. L. 97–78 provided that:
 
-“(10) Nothing in this Act \[see Short Title of 1981 Amendment note above\] shall affect the taxable statusof production from tar sand under the Crude Oil Windfall Profit Tax Act of 1980 (Public Law 96–223) \[see Tables for classification\], reduce the depletion allowance for production from tar sand, or otherwise affect the existing tax status applicable to such production.
+“(10) Nothing in this Act \[see Short Title of 1981 Amendment note above\] shall affect the taxable status of production from tar sand under the Crude Oil Windfall Profit Tax Act of 1980 (Public Law 96–223) \[see Tables for classification\], reduce the depletion allowance for production from tar sand, or otherwise affect the existing tax status applicable to such production.
 
 “(11) No provision of this Act \[see Short Title of 1981 Amendment note above\] shall apply to national parks, national monuments, or other lands where mineral leasing is prohibited by law. The Secretary of the Interior shall apply the provisions of this Act to the Glen Canyon National Recreation Area, and to any other units of the national park system where mineral leasing is permitted, in accordance with any applicable minerals management plan if the Secretary finds that there will be no resulting significant adverse impacts on the administration of such area, or on other contiguous units of the national park system.”
 

@@ -78,9 +78,13 @@ For purposes of this section—
 
 (Pub. L. 100–77, title IV, §441, July 22, 1987, 101 Stat. 508; Pub. L. 100–628, title IV, §481(a)–(d)(1), Nov. 7, 1988, 102 Stat. 3237, 3238; Pub. L. 101–625, title VIII, §835, Nov. 28, 1990, 104 Stat. 4366; Pub. L. 102–550, title XIV, §1405(a)–(d), Oct. 28, 1992, 106 Stat. 4028, 4029; Pub. L. 104–330, title V, §506(a)(8), Oct. 26, 1996, 110 Stat. 4044.)
 
+#### Repeal of Section
+
+<i>Pub. L. 111–22, div. B, title V, §§1501, 1503, May 20, 2009, 123 Stat. 1701, 1702, provided that, effective on, and applicable beginning on, the earlier of the expiration of the 18-month period beginning on May 20, 2009, or the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 of Pub. L. 111–22, this section is repealed.</i>
+
 #### References in Text
 
-Section 1437f(e)(2) of this title, referred to in subsec. (a), was repealed effective Oct. 1, 1991, but to remain in effect with respect to single room occupancy dwellings as authorized by this subchapter, see section 12839(b) of this title.
+Section 1437f(e)(2) of this title, referred to in subsec. (a), was repealed effective Oct. 1, 1991, but to remain ineffect with respect to single room occupancy dwellings as authorized by this subchapter, see section 12839(b) of this title.
 
 Section 1437f(n) of this title, referred to in subsec. (b), was repealed by Pub. L. 105–276, title V, §550(a)(7), Oct. 21, 1998, 112 Stat. 2609.
 

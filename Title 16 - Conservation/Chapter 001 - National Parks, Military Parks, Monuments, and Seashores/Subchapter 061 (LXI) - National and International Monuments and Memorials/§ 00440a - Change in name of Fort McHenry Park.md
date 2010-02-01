@@ -6,5 +6,5 @@ The Fort McHenry National Park, in the State of Maryland, authorized by sections
 
 #### Codification
 
-Section consists of a part of act Aug. 11, 1939. The remainder, relating to changing the name of “Abraham Lincoln National Park” to “Abraham Lincoln National Historical Park” is set out as section 217 of this title.
+Section consists of a part of act Aug. 11, 1939. The remainder, relating to changing the name of “Abraham Lincoln National Park” to “Abraham Lincoln National Historical Park” (now “Abraham Lincoln Birthplace National Historical Park”) is set out as section 217 of this title.
 

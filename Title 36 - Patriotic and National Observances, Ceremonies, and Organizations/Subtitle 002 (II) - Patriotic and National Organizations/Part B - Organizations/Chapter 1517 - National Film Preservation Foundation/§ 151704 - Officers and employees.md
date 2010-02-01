@@ -28,7 +28,7 @@ Status and Compensation of Employees.—Employees of the corporation (including 
 
 &emsp;(2) shall be appointed and removed without regard to the provisions of title 5 governing appointments in the competitive service; and
 
-&emsp;(3) may be paid without regard to chapter 51 and subchapter III of chapter 53 of title 5, except that an employee may not be paid more than the annual rate of basic pay for levelGS–15 of the General Schedule under section 5107 of title 5.
+&emsp;(3) may be paid without regard to chapter 51 and subchapter III of chapter 53 of title 5, except that an employee may not be paid more than the annual rate of basic pay for level GS–15 of the General Schedule under section 5107 of title 5.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1405.)
 

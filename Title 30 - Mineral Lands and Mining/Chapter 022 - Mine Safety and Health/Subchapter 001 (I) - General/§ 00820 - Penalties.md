@@ -14,7 +14,7 @@
 
 #### (b) Civil penalty for failure to correct violation for which citation has been issued
 
-(1) Any operator who fails to correct a violation for which a citation has been issued under section 814(a) of this title within the period permitted for its correction may be assessed a civil penalty of not more than $$5,000 <sup>1</sup> for each dayduring which such failure or violation continues.
+(1) Any operator who fails to correct a violation for which a citation has been issued under section 814(a) of this title within the period permitted for its correction may be assessed a civil penalty of not more than $$5,000 <sup>1</sup> for each day during which such failure or violation continues.
 
 (2) Violations under this section that are deemed to be flagrant may be assessed a civil penalty of not more than $220,000. For purposes of the preceding sentence, the term “flagrant” with respect to a violation means a reckless or repeated failure to make reasonable efforts to eliminate a known violation of a mandatory health or safety standard that substantially and proximately caused, or reasonably could have been expected to cause, death or serious bodily injury.
 
@@ -36,7 +36,7 @@ Whoever knowingly makes any false statement, representation, or certification in
 
 #### (g) Violation by miners of safety standards relating to smoking
 
-Any miner who willfully violates the mandatory safety standards relating to smoking or the carrying of smoking materials, matches, or lighters shall be subject to a civil penalty assessed by the Commission, which penalty shall not be more than $250 for each occurrence of such violation.
+Any miner who willfully violates the mandatory safety standards relating to smoking or the carrying of smoking materials, matches, orlighters shall be subject to a civil penalty assessed by the Commission, which penalty shall not be more than $250 for each occurrence of such violation.
 
 #### (h) Equipment falsely represented as complying with statute, specification, or regulations
 
@@ -58,7 +58,7 @@ No proposed penalty which has been contested before the Commission under section
 
 The provisions of this section shall not be applicable with respect to subchapter IV of this chapter.
 
-(Pub. L. 91–173, title I, §110, Dec. 30, 1969, 83 Stat. 758; Pub. L. 95–164, title II, §201, Nov. 9, 1977, 91Stat. 1311; Pub. L. 101–508, title III, §3102, Nov. 5, 1990, 104 Stat. 1388–29; Pub. L. 109–236, §5(b), §8(a), June 15, 2006, 120 Stat. 498, 500; Pub. L. 109–280, title XIII, §1301, Aug. 17, 2006, 120 Stat. 1108.)
+(Pub. L. 91–173, title I, §110, Dec. 30, 1969, 83 Stat. 758; Pub. L. 95–164, title II, §201, Nov. 9, 1977, 91 Stat. 1311; Pub. L. 101–508, title III, §3102, Nov. 5, 1990, 104 Stat. 1388–29; Pub. L. 109–236, §5(b), §8(a), June 15, 2006, 120 Stat. 498, 500; Pub. L. 109–280, title XIII, §1301, Aug. 17, 2006, 120 Stat. 1108.)
 
 #### References in Text
 

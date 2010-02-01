@@ -2,7 +2,7 @@
 
 #### (a) Establishment; membership; representation of interests; term of office, vacancies; reappointment
 
-There is established a National Drinking Water Advisory Council which shall consist of fifteen members appointed by the Administrator after consultation with the Secretary. Five members shall be appointed from the general public; five members shall be appointed from appropriate State and local agencies concerned with water hygiene and public water supply; and five members shall be appointed from representatives of private organizations or groups demonstrating an active interest in the field of water hygiene and public water supply, of which two such members shall be associated with small, rural public water systems. Each member of the Council shall hold office for a term of three years, except that—
+There is established a National Drinking Water Advisory Council which shall consist offifteen members appointed by the Administrator after consultation with the Secretary. Five members shall be appointed from the general public; five members shall be appointed from appropriate State and local agencies concerned with water hygiene and public water supply; and five members shall be appointed from representatives of private organizations or groups demonstrating an active interest in the field of water hygiene and public water supply, of which two such members shall be associated with small, rural public water systems. Each member of the Council shall hold office for a term of three years, except that—
 
 &emsp;(1) any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term; and
 
@@ -26,7 +26,7 @@ Section 14(a) of the Federal Advisory Committee Act (relating to termination) sh
 
 #### References in Text
 
-Section 5703 of title 5, referred to in subsec. (c), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89Stat. 85, and, as so amended, does not contain a subsec. (b).
+Section 5703 of title 5, referred to in subsec. (c), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
 Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (d), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

@@ -28,7 +28,7 @@ The United States Anti-Doping Agency shall—
 
 &emsp;(2) ensure that athletes participating in amateur athletic activities recognized by the United States Olympic Committee are prevented from using performance-enhancing drugs, or performance-enhancing genetic modifications accomplished through gene-doping;
 
-&emsp;(3) implement anti-doping education, research, testing, and adjudication programs to prevent United States Amateur Athletes participating in any activity recognized by theUnited States Olympic Committee from using performance-enhancing drugs, or performance-enhancing genetic modifications accomplished through gene-doping;
+&emsp;(3) implement anti-doping education, research, testing, and adjudication programs to prevent United States Amateur Athletes participating in any activity recognized by the United States Olympic Committee from using performance-enhancing drugs, or performance-enhancing genetic modifications accomplished through gene-doping;
 
 &emsp;(4) serve as the United States representative responsible for coordination with other anti-doping organizations coordinating amateur athletic competitions recognized by the United States Olympic Committee to ensure the integrity of athletic competition, the health of the athletes and the prevention of use of performance-enhancing drugs, or performance-enhancing genetic modifications accomplished through gene-doping by United States amateur athletes; and
 

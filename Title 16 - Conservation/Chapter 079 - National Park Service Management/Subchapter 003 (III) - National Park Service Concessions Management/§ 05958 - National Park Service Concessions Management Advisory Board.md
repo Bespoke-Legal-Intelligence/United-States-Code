@@ -10,7 +10,7 @@ There is hereby established a National Park Service Concessions Management Advis
 
 &emsp;The Advisory Board shall advise on each of the following:
 
-&emsp;&emsp;(A) Policies and procedures intended to assure that services and facilities provided by concessioners are necessary and appropriate, meet acceptable standards at reasonablerates with a minimum of impact on park resources and values, and provide the concessioners with a reasonable opportunity to make a profit.
+&emsp;&emsp;(A) Policies and procedures intended to assure that services and facilities provided by concessioners are necessary and appropriate, meet acceptable standards at reasonable rates with a minimum of impact on park resources and values, and provide the concessioners with a reasonable opportunity to make a profit.
 
 &emsp;&emsp;(B) Ways to make National Park Service concessions programs and procedures more cost effective, more process efficient, less burdensome, and timelier.
 
@@ -50,17 +50,21 @@ Members of the Advisory Board shall be appointed on a staggered basis by the Sec
 
 #### (d) Termination
 
-The Advisory Board shall continue to exist until December 31, 2008. In all other respects, it shall be subject to the provisions of the Federal Advisory Committee Act.
+The Advisory Board shall continue to exist until December 31, 2009. In all other respects, it shall be subject to the provisions of the Federal Advisory Committee Act.
 
 #### (e) Service on Advisory Board
 
 Service of an individual as a member of the Advisory Board shall not be considered as service or employment bringing such individual within the provisions of any Federal law relating to conflicts of interest or otherwise imposing restrictions, requirements, or penalties in relation to the employment of persons, the performance of services, or the payment or receipt of compensation in connection with claims, proceedings, or matters involving the United States. Service as a member of the Advisory Board shall not be considered service in an appointive or elective position in the Government for purposes of section 8344 of title 5 or other comparable provisions of Federal law.
 
-(Pub. L. 105–391, title IV, §409, Nov. 13, 1998, 112 Stat. 3512.)
+(Pub. L. 105–391, title IV, §409, Nov. 13, 1998, 112 Stat. 3512; Pub. L. 111–11, title VII, §7403, Mar. 30, 2009, 123 Stat. 1219.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2009—Subsec. (d). Pub. L. 111–11 substituted “2009” for “2008”.
 
 #### Change of Name
 

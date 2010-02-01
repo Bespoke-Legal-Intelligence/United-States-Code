@@ -62,7 +62,7 @@ Each insured depository institution shall make, to the extent that the regulatio
 
 #### (e) Identity of persons making reportable currency and foreign transactions
 
-Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, whenever any individual engages (whether as principal, agent, or bailee) in any transaction with an insured depository institution which is required to be reported or recorded under subchapter II of chapter 53 of title 31, the insured depository institution shall require and retain such evidence of the identity of that individual as the Secretary may prescribe as appropriate under the circumstances.
+Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, whenever any individual engages (whether as principal, agent, or bailee) in any transaction with an insured depository institution which is required to be reported or recorded under subchapter II of chapter 53 of title 31, the insured depository institution shall require and retain such evidence of the identityof that individual as the Secretary may prescribe as appropriate under the circumstances.
 
 #### (f) Additions to or substitutes for required records
 
@@ -150,7 +150,7 @@ Willful violation of regulations under this section punishable by fine of not mo
 
 #### Administrative Procedure
 
-Administrative procedure and judicial review provisions of subchapter II (§551 et seq.) of chapter 5 andchapter 7 (§701 et seq.) of Title 5, Government Organization and Employees, applicable to all proceedings under this section, see section 1959 of this title.
+Administrative procedure and judicial review provisions of subchapter II (§551 et seq.) of chapter 5 and chapter 7 (§701 et seq.) of Title 5, Government Organization and Employees, applicable to all proceedings under this section, see section 1959 of this title.
 
 #### Responsibility for Compliance
 

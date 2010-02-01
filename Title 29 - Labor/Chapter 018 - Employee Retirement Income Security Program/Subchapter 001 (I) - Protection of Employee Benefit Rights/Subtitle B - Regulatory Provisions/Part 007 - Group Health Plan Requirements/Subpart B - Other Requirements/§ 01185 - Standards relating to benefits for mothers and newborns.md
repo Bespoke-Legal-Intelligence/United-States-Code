@@ -62,7 +62,7 @@ Nothing in this section shall be construed to prevent a group health plan or a h
 
 &emsp;&emsp;(B) Such State law requires such coverage to provide for maternity and pediatric care in accordance with guidelines established by the American College of Obstetricians and Gynecologists, the American Academy of Pediatrics, or other established professional medical associations.
 
-&emsp;&emsp;(C) Such State law requires, in connection with such coverage for maternity care, that the hospital length of stay for such care isleft to the decision of (or required to be made by) the attending provider in consultation with the mother.
+&emsp;&emsp;(C) Such State law requires, in connection with such coverage for maternity care, that the hospital length of stay for such care is left to the decision of (or required to be made by) the attending provider in consultation with the mother.
 
 #### (2) Construction
 
@@ -76,7 +76,7 @@ Section 1022(a)(1) of this title, referred to in subsec. (d), was redesignated s
 
 #### Effective Date
 
-Section applicable with respect to group health plans for plan years beginning on and after Jan. 1, 1998, see section 603(c) of Pub. L. 104–204, set out as an Effective Date of 1996 Amendment note under section 1003 of this title.
+Section applicable with respect to group health plans for plan years beginning on and after Jan. 1, 1998, seesection 603(c) of Pub. L. 104–204, set out as an Effective Date of 1996 Amendment note under section 1003 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

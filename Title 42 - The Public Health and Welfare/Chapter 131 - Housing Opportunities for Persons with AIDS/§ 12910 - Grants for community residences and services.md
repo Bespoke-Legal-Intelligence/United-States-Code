@@ -38,7 +38,7 @@ The Secretary of Housing and Urban Development may make grants to States and met
 
 #### (2) Services
 
-&emsp;Services provided with a grant under this section shall consist of services appropriate in assisting eligible persons to enhance their quality of life, enable such individuals to more fully participate in community life, and delay or prevent the placement of such individuals in hospitals or other institutions.
+&emsp;Services provided with a grant under this section shall consist of services appropriate in assisting eligible persons to enhance their quality of life, enable such individuals to more fully participate in community life, and delayor prevent the placement of such individuals in hospitals or other institutions.
 
 #### (c) Use of grants
 
@@ -96,7 +96,7 @@ Any amounts received from a grant under this section may be used only as follows
 
 #### (2) Services
 
-&emsp;Any jurisdiction that receives a grant under this section may use any amounts receivedunder the grant for the purposes under subsection (c)(2) of this section only for the provision of services by service providers qualified to provide such services to eligible persons.
+&emsp;Any jurisdiction that receives a grant under this section may use any amounts received under the grant for the purposes under subsection (c)(2) of this section only for the provision of services by service providers qualified to provide such services to eligible persons.
 
 (Pub. L. 101–625, title VIII, §861, Nov. 28, 1990, 104 Stat. 4382; Pub. L. 102–550, title VI, §606(i), (j)(8)–(10), (11)(E), Oct. 28, 1992, 106 Stat. 3810, 3811; Pub. L. 105–276, title V, §550(b), Oct. 21, 1998, 112 Stat. 2609.)
 
@@ -118,7 +118,7 @@ Subsec. (b)(2). Pub. L. 102–550, §606(j)(11)(E)(i), which directed the substi
 
 Subsec. (c)(1)(C). Pub. L. 102–550, §606(i)(1), inserted before period at end “, and expenses relating to community outreach and educational activities regarding acquired immunodeficiency syndrome and related diseases provided for individuals residing in proximity of eligible persons assisted under this chapter”.
 
-Subsec. (c)(3). Pub. L. 102–550, §606(i)(2), added par. (3) and struck out former par. (3) which read as follows: “For administrative expenses related to the planning and execution of activities under this section, except that a jurisdiction that receives a grant under this section may expend not more than 10 percent of the amount received under the grant for such administrative expenses. Administrative expenses under this paragraph may include expenses relating to community outreach and educational activities regarding acquired immunodeficiency syndrome and related diseases, for staff carrying out activities assisted with a grant under this section and for individuals who reside in proximity of individuals assisted under this chapter.”
+Subsec. (c)(3). Pub. L. 102–550, §606(i)(2), added par. (3) and struck out former par. (3) which read as follows:“For administrative expenses related to the planning and execution of activities under this section, except that a jurisdiction that receives a grant under this section may expend not more than 10 percent of the amount received under the grant for such administrative expenses. Administrative expenses under this paragraph may include expenses relating to community outreach and educational activities regarding acquired immunodeficiency syndrome and related diseases, for staff carrying out activities assisted with a grant under this section and for individuals who reside in proximity of individuals assisted under this chapter.”
 
 Subsec. (d). Pub. L. 102–550, §606(j)(11)(E)(ii), which directed the substitution of “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” wherever appearing in subsec. (d), was executed by making the substitution for “individuals with acquired immunodeficiency syndrome and related diseases” in pars. (1)(B) and (2) to reflect the probable intent of Congress.
 

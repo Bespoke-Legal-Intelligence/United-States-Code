@@ -24,7 +24,7 @@
 
 &emsp;(9) The storage of any material that is not owned by the Department of Defense if the Secretary of the military department concerned determines that the material is required or generated in connection with the authorized and compatible use of a facility of the Department of Defense, including the use of such a facility for testing material or training personnel.
 
-&emsp;(10) The treatment and disposal of any material that is not owned by the Department of Defense if the Secretary of the military department concerned determines that the material is required or generated in connectionwith the authorized and compatible use of a facility of that military department and the Secretary enters into a contract or agreement with the prospective user that—
+&emsp;(10) The treatment and disposal of any material that is not owned by the Department of Defense if the Secretary of the military department concerned determines that the material is required or generated in connection with the authorized and compatible use of a facility of that military department and the Secretary enters into a contract or agreement with the prospective user that—
 
 &emsp;&emsp;(A) is consistent with the best interest of national defense and environmental security; and
 

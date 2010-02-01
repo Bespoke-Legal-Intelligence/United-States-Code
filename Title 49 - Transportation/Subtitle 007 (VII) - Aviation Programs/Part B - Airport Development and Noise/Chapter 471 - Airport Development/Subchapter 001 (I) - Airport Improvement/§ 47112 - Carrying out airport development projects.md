@@ -48,7 +48,7 @@ In this section, the words “for an airport development project carried out und
 
 In subsection (a), the words “or sponsors” are omitted because of 1:1.
 
-In subsection (b), the words “must require contractors to pay labor minimum wage rates” are substituted for “shall contain provisions establishing minimum rates of wages . . . which contractors shall pay to skilled and unskilled labor” to eliminate unnecessary words. The word “proposals” is omitted as included in “bids”.
+In subsection (b), the words “must require contractors to pay labor minimum wage rates” are substituted for “shall contain provisions establishing minimum rates of wages . . . which contractors shall pay to skilled and unskilled labor” to eliminate unnecessarywords. The word “proposals” is omitted as included in “bids”.
 
 Subsection (c)(1)(A) is substituted for “a disabled veteran is an individual described in section 2108(2) of title 5” for consistency in the revised title and with other titles of the Code.
 

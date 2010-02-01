@@ -92,7 +92,7 @@ Except as provided in subsection (a)(1) of this section and subsections (c), (d)
 
 &emsp;The fee revenues shall be adjusted each fiscal year after fiscal year 2009 to reflect changes in review workload. With respect to such adjustment:
 
-&emsp;&emsp;(A) This adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of animal drug applications, supplemental animal drug applications for which data with respect to safety or effectiveness are required, manufacturing supplemental animal drug applications, investigational animal drug study submissions, and investigational animal drug protocol submissions submitted to the Secretary. The Secretary shall publish in the Federal Register the fees resulting from this adjustment and the supporting methodologies.
+&emsp;&emsp;(A) This adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of animal drug applications, supplemental animaldrug applications for which data with respect to safety or effectiveness are required, manufacturing supplemental animal drug applications, investigational animal drug study submissions, and investigational animal drug protocol submissions submitted to the Secretary. The Secretary shall publish in the Federal Register the fees resulting from this adjustment and the supporting methodologies.
 
 &emsp;&emsp;(B) Under no circumstances shall this workload adjustment result in fee revenues for a fiscal year that are less than the fee revenues for that fiscal year established in subsection (b) of this section.
 
@@ -148,13 +148,13 @@ Except as provided in subsection (a)(1) of this section and subsections (c), (d)
 
 #### (e) Effect of failure to pay fees
 
-An animal drug application or supplemental animal drug application submitted by a personsubject to fees under subsection (a) of this section shall be considered incomplete and shall not be accepted for filing by the Secretary until all fees owed by such person have been paid. An investigational animal drug submission under section 379j–11(5)(B) of this title that is submitted by a person subject to fees under subsection (a) of this section shall be considered incomplete and shall not be accepted for review by the Secretary until all fees owed by such person have been paid. The Secretary may discontinue review of any animal drug application, supplemental animal drug application or investigational animal drug submission from a person if such person has not submitted for payment all fees owed under this section by 30 days after the date upon which they are due.
+An animal drug application or supplemental animal drug application submitted by a person subject to fees under subsection (a) of this section shall be considered incomplete and shall not be accepted for filing by the Secretary until all fees owed by such person have been paid. An investigational animal drug submission under section 379j–11(5)(B) of this title that is submitted by a person subject to fees under subsection (a) of this section shall be considered incomplete and shall not be accepted for review by the Secretary until all fees owed by such person have been paid. The Secretary may discontinue review of any animal drug application, supplemental animal drug application or investigational animal drug submission from a person if such person has not submitted for payment all fees owed under this section by 30 days after the date upon which they are due.
 
 #### (f) Assessment of fees
 
 #### (1) Limitation
 
-&emsp;Fees may not be assessed under subsection (a) of this section for a fiscal year beginning after fiscal year 2003 unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for the fiscal year 2003 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor applicable to the fiscal year involved.
+&emsp;Fees may not be assessed under subsection (a) of this section for a fiscal year beginningafter fiscal year 2003 unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for the fiscal year 2003 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor applicable to the fiscal year involved.
 
 #### (2) Authority
 
@@ -208,7 +208,7 @@ An animal drug application or supplemental animal drug application submitted by 
 
 #### (h) Collection of unpaid fees
 
-In any case where the Secretary does not receive payment of a fee assessed under subsection (a) of this section within 30 days after it is due, such fee shall be treated as a claim of the UnitedStates Government subject to subchapter II of chapter 37 of title 31.
+In any case where the Secretary does not receive payment of a fee assessed under subsection (a) of this section within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
 
 #### (i) Written requests for waivers, reductions, and refunds
 

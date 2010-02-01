@@ -44,7 +44,7 @@ To carry out the foregoing purposes and engage in the foregoing activities, the 
 
 &emsp;(B) local governmental bodies.
 
-(3) The Secretary of Housing and Urban Development, the Federal Home Loan Bank Board and the Federal home loan banks, the Board ofGovernors of the Federal Reserve System and the Federal Reserve banks, the Federal Deposit Insurance Corporation, and the Comptroller of the Currency, the National Credit Union Administration or any other department, agency, or other instrumentality of the Federal Government are authorized to provide funds, services and facilities, with or without reimbursement, necessary to achieve the objectives and to carry out the purposes of this subchapter.
+(3) The Secretary of Housing and Urban Development, the Federal Home Loan Bank Board and the Federal home loan banks, the Board of Governors of the Federal Reserve System and the Federal Reserve banks, the Federal Deposit Insurance Corporation, and the Comptroller of the Currency, the National Credit Union Administration or any other department, agency, or other instrumentality of the Federal Government are authorized to provide funds, services and facilities, with or without reimbursement, necessary to achieve the objectives and to carry out the purposes of this subchapter.
 
 #### (d) Non-profit nature of corporation
 

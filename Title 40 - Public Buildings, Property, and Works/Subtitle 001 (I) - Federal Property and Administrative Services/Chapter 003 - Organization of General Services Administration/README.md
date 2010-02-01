@@ -17,7 +17,12 @@
 |  |  |
 | :--- | ---: |
 | [311\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2000311%20-%20Personnel.md) | Personnel. |
-| [312\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2000312%20-%20Transfer%20and%20use%20of%20amounts%20for%20major%20equipment%20acquisitions.md) | Transfer and use of amounts for major equipment acquisitions. |
+| [312\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2000312%20-%20Repealed.%20Pub.%20L.%20111%E2%80%938%2C%20div.%20D%2C%20title%20V%2C%20%C2%A7518%28c%29%281%29%2C%20Mar.%2011%2C%202009%2C%20123%20Stat.%20665.md) | Transfer and use of amounts for major equipment acquisitions.<sup>2</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [313\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2000313%20-%20Tests%20of%20materials.md) | Tests of materials. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,7 +33,7 @@
 | :--- | ---: |
 | [321\.](Subchapter%20003%20%28III%29%20-%20Funds/%C2%A7%2000321%20-%20Acquisition%20Services%20Fund.md) | Acquisition Services Fund. |
 | \[322. | Repealed.\] |
-| [323\.](Subchapter%20003%20%28III%29%20-%20Funds/%C2%A7%2000323%20-%20Consumer%20Information%20Center%20Fund.md) | Consumer Information Center Fund. |
+| [323\.](Subchapter%20003%20%28III%29%20-%20Funds/%C2%A7%2000323%20-%20Consumer%20Information%20Center%20Fund%201.md) | Consumer Information Center Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

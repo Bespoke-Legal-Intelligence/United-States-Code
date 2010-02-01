@@ -2,25 +2,33 @@
 
 #### (a) Authority of Secretary to enter into agreements
 
-The Secretary is authorized on behalf of the United States to enter into an agreement with any State, or with any State agency (referred to in this subpart as “cooperating States” and “cooperating States agencies” respectively). Under such an agreement, the cooperating State agency (1) as agent of the United States, will receive applications for, and will provide, payments on the basis provided in this part, (2) where appropriate, but in accordance with subsection (f) of this section, will afford adversely affected workers testing, counseling, referral to training and job search programs, and placement services, (3) will make any certifications required under section 2291(c)(2) <sup>1</sup> of this title, and (4) will otherwise cooperate with the Secretary and with other State and Federal agencies in providing payments and services under this part.
+The Secretary is authorized on behalf of the United States to enter into an agreement with any State, or with any State agency (referred to in this subpart as “cooperating States” and “cooperating States agencies” respectively). Under such an agreement, the cooperating State agency (1) as agent of the United States, shall receive applications for, and shall provide, payments on the basis provided in this part, (2) in accordance with subsection (f), shall make available to adversely affected workers and adversely affected incumbent workers covered by a certification under subpart A the employment and case management services described in section 2295 of this title, (3) shall make any certifications required under section 2291(c)(2) <sup>1</sup> of this title, and (4) shall otherwise cooperate with the Secretary and with other State and Federal agencies in providing payments and services under this part.
 
 #### (b) Amendment, suspension, and termination of agreements
 
 Each agreement under this subpart shall provide the terms and conditions upon which the agreement may be amended, suspended, or terminated.
 
-#### (c) Unemployment insurance
+#### (c) Form and manner of data
+
+Each agreement under this subpart shall—
+
+&emsp;(1) provide the Secretary with the authority to collect any data the Secretary determines necessary to meet the requirements of this part; and
+
+&emsp;(2) specify the form and manner in which any such data requested by the Secretary shall be reported.
+
+#### (d) Unemployment insurance
 
 Each agreement under this subpart shall provide that unemployment insurance otherwise payable to any adversely affected worker will not be denied or reduced for any week by reason of any right to payments under this part.
 
-#### (d) Review
+#### (e) Review
 
 A determination by a cooperating State agency with respect to entitlement to program benefits under an agreement is subject to review in the same manner and to the same extent as determinations under the applicable State law and only in that manner and to that extent.
 
-#### (e) Coordination of benefits and assistance
+#### (f) Coordination of benefits and assistance
 
 Any agreement entered into under this section shall provide for the coordination of the administration of the provisions for employment services, training, and supplemental assistance under sections 2295 and 2296 of this title and under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] upon such terms and conditions as are established by the Secretary in consultation with the States and set forth in such agreement. Any agency of the State jointly administering such provisions under such agreement shall be considered to be a cooperating State agency for purposes of this part.
 
-#### (f) Advising and interviewing adversely affected workers
+#### (g) Advising and interviewing adversely affected workers
 
 Each cooperating State agency shall, in carrying out subsection (a)(2) of this section—
 
@@ -28,29 +36,113 @@ Each cooperating State agency shall, in carrying out subsection (a)(2) of this s
 
 &emsp;(2) facilitate the early filing of petitions under section 2271 of this title for any workers that the agency considers are likely to be eligible for benefits under this part,
 
-&emsp;(3) advise each adversely affected worker to apply for training under section 2296(a) of this title before, or at the same time, the worker applies for trade readjustment allowances under division I of subpart B of this part, and
+&emsp;(3) advise each adversely affected worker to apply for training under section 2296(a) of this title before, or at the same time, the worker applies for trade readjustment allowances under division I of subpart B of this part,
 
-&emsp;(4) as soon as practicable, interview the adversely affected worker regarding suitable training opportunities available to the worker under section 2296 of this title and review such opportunities with the worker.
+&emsp;(4) perform outreach to, intake of, and orientation for adversely affected workers and adversely affected incumbent workers covered by a certification under subpart A with respect to assistance and benefits available under this part, and
 
-#### (g) Submission of information for coordination of workforce investment activities
+&emsp;(5) make employment and case management services described in section 2295 of this title available to adversely affected workers and adversely affected incumbent workers covered by a certification under subpart A and, if funds provided to carry out this part are insufficient to make such services available, make arrangements to make such services available through other Federal programs.
 
-In order to promote the coordination of workforce investment activities in each State with activities carried out under this part, any agreement entered into under this section shall provide that the State shall submit to the Secretary, in such form as the Secretary may require, the description and information described in paragraphs (8) and (14) of section 112(b) of the Workforce Investment Act of 1998 \[29 U.S.C. 2822(b)\].
+#### (h) Submission of information for coordination of workforce investment activities
 
-(Pub. L. 93–618, title II, §239, Jan. 3, 1975, 88 Stat. 2024; Pub. L. 97–35, title XXV, §2513(d)(6), Aug. 13, 1981, 95 Stat. 889; Pub. L. 99–272, title XIII, §§13003(a)(3), 13004(c), Apr. 7, 1986, 100 Stat. 301, 303; Pub. L. 100–418, title I, §§1423(a)(4), 1424(d)(1)(B), (2), Aug. 23, 1988, 102 Stat. 1246, 1250; Pub. L. 105–220, title III, §321, Aug. 7, 1998, 112 Stat. 1087; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(B), (f)(11)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431.)
+In order to promote the coordination of workforce investment activities in each State with activities carried out under this part, any agreement entered into under this section shall provide that the State shall submit to the Secretary, in such form as the Secretary may require, the description and information described in paragraphs (8) and (14) of section 112(b) of the Workforce Investment Act of 1998 (29 U.S.C. 2822(b)) and a description of the State's rapid response activities under section 2271(a)(2)(A) of this title.
+
+#### (i) Control measures
+
+#### (1) In general
+
+&emsp;The Secretary shall require each cooperating State and cooperating State agency to implement effective control measures and to effectively oversee the operation and administration of the trade adjustment assistance program under this part, including by means of monitoring the operation of control measures to improve the accuracy and timeliness of the data being collected and reported.
+
+#### (2) Definition
+
+&emsp;For purposes of paragraph (1), the term “control measures” means measures that—
+
+&emsp;&emsp;(A) are internal to a system used by a State to collect data; and
+
+&emsp;&emsp;(B) are designed to ensure the accuracy and verifiability of such data.
+
+#### (j) Data reporting
+
+#### (1) In general
+
+&emsp;Any agreement entered into under this section shall require the cooperating State or cooperating State agency to report to the Secretary on a quarterly basis comprehensive performance accountability data, to consist of—
+
+&emsp;&emsp;(A) the core indicators of performance described in paragraph (2)(A);
+
+&emsp;&emsp;(B) the additional indicators of performance described in paragraph (2)(B), if any; and
+
+&emsp;&emsp;(C) a description of efforts made to improve outcomes for workers under the trade adjustment assistance program.
+
+#### (2) Core indicators described
+
+#### (A) In general
+
+&emsp;&emsp;The core indicators of performance described in this paragraph are—
+
+&emsp;&emsp;&emsp;(i) the percentage of workers receiving benefits under this part who are employed during the second calendar quarter following the calendar quarter in which the workers cease receiving such benefits;
+
+&emsp;&emsp;&emsp;(ii) the percentage of such workers who are employed in each of the third and fourth calendar quarters following the calendar quarter in which the workers cease receiving such benefits; and
+
+&emsp;&emsp;&emsp;(iii) the earnings of such workers in each of the third and fourth calendar quarters following the calendar quarter in which the workers cease receiving such benefits.
+
+#### (B) Additional indicators
+
+&emsp;&emsp;The Secretary and a cooperating State or cooperating State agency may agree upon additional indicators of performance for the trade adjustment assistance program under this part, as appropriate.
+
+#### (3) Standards with respect to reliability of data
+
+&emsp;In preparing the quarterly report required by paragraph (1), each cooperating State or cooperating State agency shall establish procedures that are consistent with guidelines to be issued by the Secretary to ensure that the data reported are valid and reliable.
+
+#### (k) Verification of eligibility for program benefits
+
+#### (1) In general
+
+&emsp;An agreement under this subpart shall provide that the State shall periodically redetermine that a worker receiving benefits underthis subpart who is not a citizen or national of the United States remains in a satisfactory immigration status. Once satisfactory immigration status has been initially verified through the immigration status verification system described in section 1320b–7(d) of title 42 for purposes of establishing a worker's eligibility for unemployment compensation, the State shall reverify the worker's immigration status if the documentation provided during initial verification will expire during the period in which that worker is potentially eligible to receive benefits under this subpart. The State shall conduct such redetermination in a timely manner, utilizing the immigration status verification system described in section 1320b–7(d) of title 42.
+
+#### (2) Procedures
+
+&emsp;The Secretary shall establish procedures to ensure the uniform application by the States of the requirements of this subsection.
+
+(Pub. L. 93–618, title II, §239, Jan. 3, 1975, 88 Stat. 2024; Pub. L. 97–35, title XXV, §2513(d)(6), Aug. 13, 1981, 95 Stat. 889; Pub. L. 99–272, title XIII, §§13003(a)(3), 13004(c), Apr. 7, 1986, 100 Stat. 301, 303; Pub. L. 100–418, title I, §§1423(a)(4), 1424(d)(1)(B), (2), Aug. 23, 1988, 102 Stat. 1246, 1250; Pub. L. 105–220, title III, §321, Aug. 7, 1998, 112 Stat. 1087; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(B), (f)(11)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 111–5, div. B, title I, §§1852, 1853, Feb. 17, 2009, 123 Stat. 390, 392.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
 
 #### References in Text
 
 Section 2291(c)(2) of this title, referred to in subsec. (a)(3), was subsequently amended, and no longer contains provisions relating to certifications.
 
-The Workforce Investment Act of 1998, referred to in subsec. (e), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (f), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Codification
 
-Section is comprised of subsecs. (a) to (g) of Pub. L. 93–618. Another subsec. (e) of section 239 of Pub. L. 93–618 amended section 3302 of Title 26, Internal Revenue Code.
+Section is comprised of subsecs. (a) to (k) of Pub. L. 93–618. Another subsec. (e) of section 239 of Pub. L. 93–618 amended section 3302 of Title 26, Internal Revenue Code.
 
-Amendment by section 1424(d)(1)(B) of Pub. L. 100–418, which directed amendment of subsection (e) of section 239 of Pub. L. 93–618, was executed to the subsection (e) set out in this section and not the subsection (e) that amended section 3302 of Title 26, Internal Revenue Code, to reflect the probable intent of Congress.
+Amendment by section 1852(b)(1) of Pub. L. 111–5, which directed the temporary redesignation of subsecs. (c) through (g) of section 239 of Pub. L. 93–618 as subsecs. (d) through (h), respectively, was executed by redesignating subsecs. (c) to (g) set out in this section and not redesignating the subsec. (e) that amended section 3302 of Title 26, Internal Revenue Code, to reflect the probable intent of Congress.
+
+Amendment by section 1424(d)(1)(B) of Pub. L. 100–418, which directed amendment of subsec. (e) of section 239 of Pub. L. 93–618, was executed to the subsec. (e) (now subsec. (f)) set out in this section and not the subsec. (e) that amended section 3302 of Title 26, Internal Revenue Code, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2009—Subsec. (a)(1). Pub. L. 111–5, §§1852(a)(2), 1893, temporarily substituted “shall” for “will” in two places. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(2). Pub. L. 111–5, §§1852(a)(1), 1893, temporarily amended cl. (2) generally. Prior to amendment, cl. (2) read as follows: “where appropriate, but in accordance with subsection (f) of this section, will afford adversely affected workers testing, counseling, referral to training and job search programs, and placement services,”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(3), (4). Pub. L. 111–5, §§1852(a)(2), 1893, temporarily substituted “shall” for “will”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsecs. (c) to (f). Pub. L. 111–5, §§1852(b), 1893, temporarily added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) temporarily redesignated (g). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (g). Pub. L. 111–5, §§1852(b)(1), 1893, temporarily redesignated subsec. (f) as (g). Former subsec. (g) temporarily redesignated (h). See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (g)(3). Pub. L. 111–5, §§1852(c)(1), 1893, temporarily struck out “and” at end. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (g)(4). Pub. L. 111–5, §§1852(c)(2), 1893, temporarily amended par. (4) generally. Prior to amendment, par. (4) read as follows: “as soon as practicable, interview the adversely affected worker regarding suitable training opportunities available to the worker under section 2296 of this title and review such opportunities with the worker.” See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (g)(5). Pub. L. 111–5, §§1852(c)(3), 1893, temporarily added par. (5). See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (h). Pub. L. 111–5, §§1852(b)(1), (d), 1893, temporarily redesignated subsec. (g) as (h) and substituted “1998 (29 U.S.C. 2822(b)) and a description of the State's rapid response activities under section 2271(a)(2)(A) of this title.” for “1998.” See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsecs. (i) to (k). Pub. L. 111–5, §§1852(e), 1853, 1893, temporarily added subsecs. (i) to (k). See Effective and Termination Dates of 2009 Amendment note below.
 
 1998—Subsec. (e). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(11)(B)\], struck out “title III of the Job Training Partnership Act or” before “title I of the”.
 
@@ -72,7 +164,7 @@ Subsec. (e). Pub. L. 100–418, §1424(d)(1)(B), amended subsec. (e) generally. 
 
 Subsec. (f). Pub. L. 100–418, §1424(d)(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Each cooperating State agency shall, in carrying out subsection (a)(2) of this section—
 
-&emsp;“(1) advise each adversely affected worker to apply for training under section 2296(a) of this title at the time the worker makes application for trade readjustment allowances (but failure of the worker to do so may not be treated as cause for denial of those allowances), and
+&emsp;“(1) advise each adversely affected worker to apply for training under section 2296(a) of this title at the time the worker makes application for trade readjustment allowances (but failure of the worker to doso may not be treated as cause for denial of those allowances), and
 
 &emsp;“(2) within 60 days after application for training is made by the worker, interview the adversely affected worker regarding suitable training opportunities available to the worker under section 2296 of this title and review such opportunities with the worker.”
 
@@ -83,6 +175,12 @@ Pub. L. 99–272, §13003(a)(3), substituted “training and job search programs
 Subsecs. (e), (f). Pub. L. 99–272, §13004(c)(2), added subsecs. (e) and (f).
 
 1981—Subsec. (a). Pub. L. 97–35 struck out provisions respecting persons applying for payments under this part.
+
+#### Effective and Termination Dates of 2009 Amendment
+
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
+
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -102,7 +200,7 @@ Amendment by Pub. L. 97–35 effective Aug. 1981, with transition provisions app
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

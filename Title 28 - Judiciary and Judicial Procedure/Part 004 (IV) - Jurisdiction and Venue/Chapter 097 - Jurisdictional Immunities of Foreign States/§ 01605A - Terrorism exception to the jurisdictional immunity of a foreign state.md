@@ -48,7 +48,7 @@ Private Right of Action.—A foreign state that is or was a state sponsor of ter
 
 &emsp;(4) the legal representative of a person described in paragraph (1), (2), or (3),
 
-> for personal injury or death caused by acts described in subsection (a)(1) of that foreign state, or of an official, employee, or agent of that foreign state, for which the courts of the United States may maintain jurisdiction under this section for money damages. In any such action, damages may include economic damages, solatium, pain and suffering, and punitive damages. In any such action, a foreign state shall be vicariously liable for the acts of its officials, employees, or agents.
+> for personal injury or death caused by acts described in subsection (a)(1) of that foreign state,or of an official, employee, or agent of that foreign state, for which the courts of the United States may maintain jurisdiction under this section for money damages. In any such action, damages may include economic damages, solatium, pain and suffering, and punitive damages. In any such action, a foreign state shall be vicariously liable for the acts of its officials, employees, or agents.
 
 (d)
 
@@ -144,7 +144,7 @@ In general.—With respect to any action that—
 
 &emsp;&emsp;“(iii) has been adversely affected on the grounds that either or both of these provisions fail to create a cause of action against the state, and
 
-&emsp;&emsp;“(iv) as of such date of enactment, is before the courts in any form, including on appeal or motion under rule 60(b) of the Federal Rules of Civil Procedure \[28 U.S.C. App.\],
+&emsp;&emsp;“(iv) as of such date of enactment, is before the courts in any form, including on appeal or motionunder rule 60(b) of the Federal Rules of Civil Procedure \[28 U.S.C. App.\],
 
 > &emsp;that action, and any judgment in the action shall, on motion made by plaintiffs to the United States district court where the action was initially brought, or judgment in the action was initially entered, be given effect as if the action had originally been filed under section 1605A(c) of title 28, United States Code.
 

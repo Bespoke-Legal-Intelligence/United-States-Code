@@ -72,7 +72,7 @@ To be eligible to use assistance under section 5711(a) of this title to provide 
 
 &emsp;(1) provide counseling and information to youth and the families (including unrelated individuals in the family households) of such youth, including services relating to basic life skills, interpersonal skill building, educational advancement, job attainment skills, mental and physical health care, parenting skills, financial planning, and referral to sources of other needed services;
 
-&emsp;(2) provide directly, or through an arrangement made by the applicant, 24-hour service to respond to family crises (including immediate access to temporary shelter for runaway and homeless youth, and youth at risk of separation from the family);
+&emsp;(2) provide directly, or through an arrangement made by the applicant, 24-hour service to respond to family crises (including immediateaccess to temporary shelter for runaway and homeless youth, and youth at risk of separation from the family);
 
 &emsp;(3) establish, in partnership with the families of runaway and homeless youth, and youth at risk of separation from the family, objectives and measures of success to be achieved as a result of receiving home-based services;
 
@@ -112,7 +112,7 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(B), is
 
 Subsec. (b)(2)(A). Pub. L. 108–96, §106, inserted “, except where the applicant assures that the State where the center or locally controlled facility is located has a State or local law or regulation that requires a higher maximum to comply with licensure requirements for child and youth serving facilities” after “youth”.
 
-Subsec. (b)(4)(B). Pub. L. 108–96, §109, substituted “McKinney-Vento school district liaisons, designatedunder section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii)), to assure that runaway and homeless youth are provided information about the educational services available to such youth under subtitle B of title VII of that Act;” for “personnel of the schools to which runaway and homeless youth will return, to assist such youth to stay current with the curricula of those schools;”.
+Subsec. (b)(4)(B). Pub. L. 108–96, §109, substituted “McKinney-Vento school district liaisons, designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii)), to assure that runaway and homeless youth are provided information about the educational services available to such youth under subtitle B of title VII of that Act;” for “personnel of the schools to which runaway and homeless youth will return, to assist such youth to stay current with the curricula of those schools;”.
 
 1999—Subsec. (b)(8). Pub. L. 106–71, §3(c)(1)(A), substituted “paragraph (7)” for “paragraph (6)”.
 
@@ -148,7 +148,7 @@ Subsec. (b)(3). Pub. L. 100–690, §7271(c)(3)(C), substituted “runaway and h
 
 Subsec. (b)(4). Pub. L. 100–690, §7271(c)(3)(D), substituted “runaway and homeless youth” for “runaway youths”.
 
-Subsec. (b)(5). Pub. L. 100–690, §7271(c)(3)(C), (E), substituted “runaway and homeless youth” for “runaway youth” and substituted “runaway and homeless youth center” for “runaway center” in two places.
+Subsec. (b)(5). Pub. L. 100–690, §7271(c)(3)(C), (E), substituted “runaway and homeless youth” for “runawayyouth” and substituted “runaway and homeless youth center” for “runaway center” in two places.
 
 Subsec. (b)(6). Pub. L. 100–690, §7271(c)(3)(D), (E), substituted “individual runaway and homeless youth” for “individual runaway youths” in two places and “against an individual runaway and homeless youth” for “against an individual runaway youth”.
 

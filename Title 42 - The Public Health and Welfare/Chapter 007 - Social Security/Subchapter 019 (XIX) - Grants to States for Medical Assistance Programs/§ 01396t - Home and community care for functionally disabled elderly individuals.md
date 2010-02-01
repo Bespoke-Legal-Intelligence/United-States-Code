@@ -32,7 +32,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 &emsp;&emsp;(B) is determined to be a functionally disabled individual under subsection (c) of this section, and
 
-&emsp;&emsp;(C) subject to section 1396a(f) of this title (as applied consistent with section 1396a(r)(2)of this title), is receiving supplemental security income benefits under subchapter XVI of this chapter (or under a State plan approved under subchapter XVI of this chapter) or, at the option of the State, is described in section 1396a(a)(10)(C) of this title.
+&emsp;&emsp;(C) subject to section 1396a(f) of this title (as applied consistent with section 1396a(r)(2) of this title), is receiving supplemental security income benefits under subchapter XVI of this chapter (or under a State plan approved under subchapter XVI of this chapter) or, at the option of the State, is described in section 1396a(a)(10)(C) of this title.
 
 #### (2) Treatment of certain individuals previously covered under a waiver
 
@@ -100,7 +100,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (D) Periodic review
 
-&emsp;&emsp;Each individual who qualifies as a functionally disabled elderly individual shall have the individual's assessment periodically reviewed and revised not less often than once every 12 months.
+&emsp;&emsp;Each individual who qualifies as a functionally disabled elderly individual shallhave the individual's assessment periodically reviewed and revised not less often than once every 12 months.
 
 #### (E) Conduct of assessment by interdisciplinary teams
 
@@ -170,7 +170,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (1) Ceiling on payment amounts
 
-&emsp;Payments may not be made under section 1396b(a) of this title to a State for home and community care provided under this section in a quarter to the extent that the medical assistance for such care in the quarter exceeds 50 percent of the product of—
+&emsp;Payments may not be made under section 1396b(a) of this title to a State for home andcommunity care provided under this section in a quarter to the extent that the medical assistance for such care in the quarter exceeds 50 percent of the product of—
 
 &emsp;&emsp;(A) the average number of individuals in the quarter receiving such care under this section;
 
@@ -366,7 +366,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (A) In general
 
-&emsp;&emsp;If a State finds, on the basis of a review under subsection (i)(2) of this section or otherwise, that a provider of home or community care no longer meets the requirements of this section, the State may terminate the provider's participation under the State plan and may provide in addition for a civil money penalty. Nothing in this subparagraph shall be construed as restrictingthe remedies available to a State to remedy a provider's deficiencies. If the State finds that a provider meets such requirements but, as of a previous period, did not meet such requirements, the State may provide for a civil money penalty under paragraph (2)(A) for the period during which it finds that the provider was not in compliance with such requirements.
+&emsp;&emsp;If a State finds, on the basis of a review under subsection (i)(2) of this section or otherwise, that a provider of home or community care no longer meets the requirements of this section, the State may terminate the provider's participation under the State plan and may provide in addition for a civil money penalty. Nothing in this subparagraph shall be construed as restricting the remedies available to a State to remedy a provider's deficiencies. If the State finds that a provider meets such requirements but, as of a previous period, did not meet such requirements, the State may provide for a civil money penalty under paragraph (2)(A) for the period during which it finds that the provider was not in compliance with such requirements.
 
 #### (B) Civil money penalty
 

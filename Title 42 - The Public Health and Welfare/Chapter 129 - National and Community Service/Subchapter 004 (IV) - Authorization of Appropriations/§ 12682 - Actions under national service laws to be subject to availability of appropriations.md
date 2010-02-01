@@ -1,8 +1,12 @@
 ### §12682. Actions under national service laws to be subject to availability of appropriations
 
-No action involving the obligation or expenditure of funds may be taken under one of the national service laws (as defined in section 12511(15) of this title) unless and until the Corporation for National and Community Service has sufficient appropriations available at the time such action is taken to satisfy the obligation to be incurred or make the expenditure to be made.
+No action involving the obligation or expenditure of funds may be taken under one of the national service laws (as defined in section 12511(15) <sup>1</sup> of this title) unless and until the Corporation for National and Community Service has sufficient appropriations available at the time such action is taken to satisfy the obligation to be incurred or make the expenditure to be made.
 
 (Pub. L. 103–82, title II, §205, Sept. 21, 1993, 107 Stat. 897.)
+
+#### References in Text
+
+Section 12511(15) of this title, referred to in text, was redesignated section 12511(26) by Pub. L. 111–13, title I, §1102(b)(1), Apr. 21, 2009, 123 Stat. 1467.
 
 #### Codification
 

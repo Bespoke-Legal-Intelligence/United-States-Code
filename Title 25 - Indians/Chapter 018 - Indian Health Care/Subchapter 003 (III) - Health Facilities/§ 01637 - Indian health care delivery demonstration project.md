@@ -6,7 +6,7 @@ The Secretary, acting through the Service, is authorized to enter into contracts
 
 #### (b) Use of funds
 
-The Secretary, in approving projects pursuant to this section, may authorize funding for the construction and renovation of hospitals, health centers, health stations, and other facilities to deliver health care services and is authorized to—
+The Secretary, in approving projects pursuant to this section, may authorize funding for theconstruction and renovation of hospitals, health centers, health stations, and other facilities to deliver health care services and is authorized to—
 
 &emsp;(1) waive any leasing prohibition;
 
@@ -86,7 +86,7 @@ The Secretary shall ensure that the planning, design, construction, and renovati
 
 #### References in Text
 
-The Indian Self-Determination Act, referred to in subsecs. (f) and (g), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsecs. (f) and (g), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of thisAct to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Amendments
 

@@ -12,7 +12,7 @@ The Secretary may allocate or reallocate functions among the officers of the Dep
 
 #### (1) In general
 
-&emsp;Authority under subsection (a)(1) of this section does not extend to the abolition of any agency, entity, organizational unit, program, or function established or required to be maintained by this chapter.
+&emsp;Authority under subsection (a)(1) of this section does not extend to the abolition of anyagency, entity, organizational unit, program, or function established or required to be maintained by this chapter.
 
 #### (2) Abolitions
 

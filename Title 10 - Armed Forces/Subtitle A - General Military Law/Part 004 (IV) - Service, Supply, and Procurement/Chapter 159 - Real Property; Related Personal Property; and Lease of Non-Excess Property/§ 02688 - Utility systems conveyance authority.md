@@ -10,11 +10,15 @@ Conveyance Authority.—(1) The Secretary of a military department may convey a 
 
 &emsp;&emsp;(i) the long-term economic benefit to the United States of the conveyance of the utility system, or part thereof, exceeds the long-term economic cost to the United States of the conveyance;
 
-&emsp;&emsp;(ii) the conveyance of the utility system, or part thereof, will reduce the long-term cost to the United States of utility services provided by the utility system; and
+&emsp;&emsp;(ii) the conveyance of the utility system, or part thereof, will reduce the long-term cost to the United States of utility services provided by the utility system by 10 percent of the long-term cost for provision of those utility services in the agency tender; and
 
 &emsp;&emsp;(iii) the economic benefit analysis under clause (i) and the cost reduction analysis under clause (ii) incorporate margins of error in the estimates, based upon guidance approved by the Secretary of Defense that minimize any underestimation of the costs resulting from privatization of the utility system, or part thereof, or any overestimation of the costs resulting from continued Government ownership and management of the utility system, or part thereof; and
 
 &emsp;(B) the end of the 21-day period beginning on the date on which the economic analysis prepared under subparagraph (A) with respect to the conveyance of the utility system, or part thereof, is received by the congressional defense committees or, if over earlier, the end of the 14-day period beginning on the date on which a copy of the economic analysis is provided in an electronic medium pursuant to section 480 of this title.
+
+(3)(A) If, as a result of the economic analysis required by paragraph (2)(A), the Secretary concerned determines that a utility system, or part of a utility system, is not eligible for conveyance under this subsection, the Secretary concerned may not further reconsider the utility system, or part of a utility system, for conversion to contractor operation under section 2461 of this title for a period of five years beginning on the date of the determination.
+
+(B) If the results of a public-private competition for conversion of a utility system, or part of a utility system, to operation by a contractor favors continued operation by civilian employees of the Department of Defense, the Secretary concerned may not reconsider the utility system, or part of a utility system, for conversion under section 2461 of this title or for conveyance under this subsection for a period of five years beginning on the date of the completion of the public-private competition.
 
 (b)
 
@@ -22,7 +26,7 @@ Selection of Conveyee.—(1) If more than one utility or entity referred to in s
 
 (2) Notwithstanding paragraph (1), the Secretary concerned may use procedures other than competitive procedures, but only in accordance with subsections (c) through (f) of section 2304 of this title, to select the conveyee of a utility system (or part of a utility system) under subsection (a).
 
-(3) With respect to the solicitation process used in connection with the conveyance of autility system (or part of a utility system) under subsection (a), the Secretary concerned shall ensure that the process is conducted in a manner consistent with the laws and regulations of the State in which the utility system is located to the extent necessary to ensure that all interested regulated and unregulated utility companies and other interested entities receive an opportunity to acquire and operate the utility system to be conveyed.
+(3) With respect to the solicitation process used in connection with the conveyance of a utility system (or part of a utility system) under subsection (a), the Secretary concerned shall ensure that the process is conducted in a manner consistent with the laws and regulations of the State in which the utility system is located to the extent necessary to ensure that all interested regulated and unregulated utility companies and other interested entities receive an opportunity to acquire and operate the utility system to be conveyed.
 
 (c)
 
@@ -104,15 +108,19 @@ Construction of Utility Infrastructure After Conveyance of a Utility System.—(
 
 (k)
 
-Limitation.—This section shall not apply to projects constructed or operated by the Army Corps of Engineers under its civil works authorities.
+Limitation.—This section shall not apply to projects constructed or operated by the ArmyCorps of Engineers under its civil works authorities.
 
-(Added Pub. L. 105–85, div. B, title XXVIII, §2812(a), Nov. 18, 1997, 111 Stat. 1992; amended Pub. L. 106–65, div. A, title X, §1067(1), div. B, title XXVIII, §2812, Oct. 5, 1999, 113 Stat. 774, 851; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(15), div. B, title XXVIII, §2813\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291, 1654A–418; Pub. L. 108–136, div. A, title X, §1031(a)(32), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 109–163, div. B, title XXVIII, §2823(a)–(d), Jan. 6, 2006, 119 Stat. 3514–3516; Pub. L. 110–417, div. B, title XXVIII, §2813, Oct. 14, 2008, 122 Stat. 4728.)
+(Added Pub. L. 105–85, div. B, title XXVIII, §2812(a), Nov. 18, 1997, 111 Stat. 1992; amended Pub. L. 106–65, div. A, title X, §1067(1), div. B, title XXVIII, §2812, Oct. 5, 1999, 113 Stat. 774, 851; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(15), div. B, title XXVIII, §2813\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291, 1654A–418; Pub. L. 108–136, div. A, title X, §1031(a)(32), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 109–163, div. B, title XXVIII, §2823(a)–(d), Jan. 6, 2006, 119 Stat. 3514–3516; Pub. L. 110–417, div. B, title XXVIII, §2813, Oct. 14, 2008, 122 Stat. 4728; Pub. L. 111–84, div. B, title XXVIII, §2821, Oct. 28, 2009, 123 Stat. 2664.)
 
 #### Prior Provisions
 
 A prior section 2688, added Pub. L. 96–125, title VIII, §804(a)(1), Nov. 26, 1979, 93 Stat. 948; amended Pub. L. 96–418, title VIII, §804, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 97–22, §11(a)(9), July 10, 1981, 95 Stat. 138; Pub. L. 97–99, title IX, §901, Dec. 23, 1981, 95 Stat. 1381, related to use of solar energy systems in new facilities, prior to repeal by Pub. L. 97–214, §§7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2915 of this title.
 
 #### Amendments
+
+2009—Subsec. (a)(2)(A)(ii). Pub. L. 111–84, §2821(a), substituted “system by 10 percent of the long-term cost for provision of those utility services in the agency tender; and” for “system; and”.
+
+Subsec. (a)(3). Pub. L. 111–84, §2821(b), added par. (3).
 
 2008—Subsecs. (j), (k). Pub. L. 110–417 added subsec. (j) and redesignated former subsec. (j) as (k).
 

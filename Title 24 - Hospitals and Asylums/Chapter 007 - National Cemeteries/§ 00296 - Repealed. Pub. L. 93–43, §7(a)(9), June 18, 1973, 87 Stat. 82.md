@@ -1,6 +1,6 @@
 ### §296. Repealed. Pub. L. 93–43, §7(a)(9), June 18, 1973, 87 Stat. 82
 
-Section, act July 1, 1947, ch. 187, 61 Stat. 234, related to preservation of historic graveyards in abandonedmilitary posts and conveyance to grantees. See section 2405(b) of Title 38, Veterans’ Benefits.
+Section, act July 1, 1947, ch. 187, 61 Stat. 234, related to preservation of historic graveyards in abandoned military posts and conveyance to grantees. See section 2405(b) of Title 38, Veterans’ Benefits.
 
 #### Effective Date of Repeal
 

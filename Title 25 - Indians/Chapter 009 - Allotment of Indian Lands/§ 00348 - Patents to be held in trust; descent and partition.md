@@ -8,11 +8,11 @@ Upon the approval of the allotments provided for in this act by the Secretary of
 
 #### References in Text
 
-This act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, as amended, and is popularly known as the Indian General Allotment Act. For classification of this act to the Code, see Short Title note set out under section 331 of this title and Tables.
+This act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, and is popularly known as the Indian General Allotment Act. For classification of this act to the Code, see Short Title note set out under section 331 of this title and Tables.
 
 Section 8(b) of the American Indian Probate Reform Act of 2004, referred to in text, is section 8(b) of Pub. L. 108–374, which is set out as a note under section 2201 of this title.
 
-The Indian Land Consolidation Act, referred to in text, is title II of Pub. L. 97–459, Jan. 12, 1983, 96 Stat. 2517, as amended, which is classified generally to chapter 24 (§2201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
+The Indian Land Consolidation Act, referred to in text, is title II of Pub. L. 97–459, Jan. 12, 1983, 96 Stat. 2517, which is classified generally to chapter 24 (§2201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
 #### Amendments
 
@@ -28,7 +28,7 @@ Pub. L. 109–221, title V, §501(c), May 12, 2006, 120 Stat. 344, provided that
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–374 applicable on and after the date that is 1 year after June 20, 2005, see section 8(b) of Pub. L. 108–374, as amended, set out as a Notice; Effective Date of 2004 Amendment note under section 2201 of this title.
+Amendment by Pub. L. 108–374 applicable on and after the date that is 1 year after June 20, 2005, see section 8(b) of Pub. L. 108–374, set out as a Notice; Effective Date of 2004 Amendment note under section 2201 of this title.
 
 #### Transfer of Functions
 

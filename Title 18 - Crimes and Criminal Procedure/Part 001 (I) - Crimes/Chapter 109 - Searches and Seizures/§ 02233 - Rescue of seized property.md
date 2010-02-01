@@ -12,7 +12,7 @@ Section consolidates that portion of section 121 of title 18, U.S.C., 1940 ed., 
 
 The remaining provisions of section 121 of present title 18, U.S.C., 1940 ed., relating to assaulting, resisting, or interfering with customs officers, revenue officers, or other persons, and to the destruction or removal of property to prevent seizure, constitute sections 2231 and 2232 of this title, the former provisions being consolidated with certain provisions of other sections.
 
-Said section 121 of present title 18, U.S.C., 1940 ed., provided for punishment by fine of not more than $2,000 or imprisonment of not more than 1 year, or both, of persons rescuing, attempting to rescue, or causing to be rescued, “any property” which has been seized by “any person” authorized to make searches and seizures.
+Said section 121 of present title 18, U.S.C., 1940 ed., provided for punishment by fine of not more than $2,000 or imprisonment of not more than 1 year, or both, of persons rescuing, attempting to rescue, or causing to be rescued, “any property” which has been seized by“any person” authorized to make searches and seizures.
 
 Said section 128 of present title 18, U.S.C., 1940 ed., provided for punishment by fine of not more than $300 and imprisonment for not more than 1 year of persons dispossessing, rescuing, or attempting to dispossess or rescue, or aiding or assisting in dispossessing or rescuing, “any property taken or detained by any officer or other person under the authority of any revenue law of the United States.”
 

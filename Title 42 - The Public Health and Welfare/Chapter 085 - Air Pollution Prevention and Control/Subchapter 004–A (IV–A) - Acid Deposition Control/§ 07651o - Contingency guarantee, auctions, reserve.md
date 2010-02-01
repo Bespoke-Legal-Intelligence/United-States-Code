@@ -92,7 +92,7 @@ Allowances sold in the spot sale in any year are allowances which may only be us
 
 #### (6) Proceeds
 
-&emsp;Notwithstanding section 3302 of title 31 or any other provision of law, the Administrator shall require that the proceeds of any sale under this subsection be transferred, within 90 days after the sale, without charge, on a prorata basis to the owners or operators of the affected units from whom the allowances were withheld under subsection (b) of this section and that any unsold allowances be transferred to the Subaccount for Auction Sales established under subsection (d) of this section. No proceeds of any sale under this subsection shall be held by any officer or employee of the United States or treated for any purpose as revenue to the United States or to the Administrator.
+&emsp;Notwithstanding section 3302 of title 31 or any other provision of law, the Administrator shall require that the proceeds of any sale under this subsection be transferred, within 90 days after the sale, without charge, on a pro rata basis to the owners or operators of the affected units from whom the allowances were withheld under subsection (b) of this section and that any unsold allowances be transferred to the Subaccount for Auction Sales established under subsection (d) of this section. No proceeds of any sale under this subsection shall be held by any officer or employee of the United States or treated for any purpose as revenue to the United States or to the Administrator.
 
 #### (7) Termination of subaccount
 
@@ -184,7 +184,7 @@ Allowances sold in the spot sale in any year are allowances which may only be us
 
 #### (5) Recording by EPA
 
-&emsp;The Administrator shall record and publicly report the nature, prices and results of each auction under this subsection, including the prices of successful bids, and shall record the transfers of allowances as a result of each auction in accordance with the requirements ofthis section. The transfer of allowances at such auction shall be recorded in accordance with the regulations promulgated by the Administrator under this subchapter.
+&emsp;The Administrator shall record and publicly report the nature, prices and results of each auction under this subsection, including the prices of successful bids, and shall record the transfers of allowances as a result of each auction in accordance with the requirements of this section. The transfer of allowances at such auction shall be recorded in accordance with the regulations promulgated by the Administrator under this subchapter.
 
 #### (e) Changes in sales, auctions, and withholding
 

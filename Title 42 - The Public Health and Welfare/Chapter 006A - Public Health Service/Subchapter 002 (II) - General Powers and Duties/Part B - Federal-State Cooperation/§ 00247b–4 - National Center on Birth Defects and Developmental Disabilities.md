@@ -60,7 +60,7 @@
 
 #### (c) Biennial report
 
-Not later than February 1 of fiscal year 1999 and of every second such year thereafter, the Secretary shall submit to the Committee on Commerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, a report that, with respect to the preceding 2 fiscal years—
+Not later than February 1 of fiscal year 1999 and of every second such year thereafter, the Secretary shall submit to the Committee onCommerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, a report that, with respect to the preceding 2 fiscal years—
 
 &emsp;(1) contains information regarding the incidence and prevalence of birth defects, developmental disabilities, and the health status of individuals with disabilities and the extent to which these conditions have contributed to the incidence and prevalence of infant mortality and affected quality of life;
 
@@ -102,7 +102,7 @@ Subsec. (d). Pub. L. 108–154, §2(4), redesignated subsec. (e) as (d). Former 
 
 Subsec. (d)(1). Pub. L. 108–154, §2(3)(A), added par. (1) and struck out former par. (1) which read as follows: “contains information regarding the incidence and prevalence of birth defects and the extent to which birth defects have contributed to the incidence and prevalence of infant mortality;”.
 
-Subsec. (d)(3). Pub. L. 108–154, §2(3)(B), inserted “, developmental disabilities, and secondary healthconditions among individuals with disabilities” after “defects”.
+Subsec. (d)(3). Pub. L. 108–154, §2(3)(B), inserted “, developmental disabilities, and secondary health conditions among individuals with disabilities” after “defects”.
 
 Subsec. (d)(5) to (7). Pub. L. 108–154, §2(3)(C)–(E), added pars. (5) and (6) and redesignated former par. (5) as (7).
 

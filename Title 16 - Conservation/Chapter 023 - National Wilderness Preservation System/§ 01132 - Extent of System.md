@@ -48,7 +48,9 @@ Absaroka-Beartooth Wilderness, Custer, Gallatin, and Shoshone National Forests, 
 
 Agassiz Wilderness, Agassiz National Wildlife Refuge, Minnesota.—Pub. L. 94–557, §1(h), Oct. 19, 1976, 90 Stat. 2633.
 
-Agua Tibia Wilderness, Cleveland National Forest, California.—Pub. L. 93–632, §2(a), Jan. 3, 1975, 88 Stat. 2154.
+Agua Tibia Wilderness, Cleveland National Forest, California.—Pub. L. 93–632, §2(a), Jan. 3, 1975, 88 Stat. 2154; Pub. L. 111–11, title I, §1851(b)(1)(A), Mar. 30, 2009, 123 Stat. 1062.
+
+Alaska Peninsula National Wildlife Refuge Wilderness, Alaska.—Pub. L. 111–11, title VI, §6404(3), Mar. 30, 2009, 123 Stat. 1182.
 
 Aldo Leopold Wilderness, Gila National Forest, New Mexico.—Pub. L. 96–550, title I, §102(a)(1), Dec. 19, 1980, 94 Stat. 3221.
 
@@ -66,7 +68,7 @@ Anaconda-Pintler Wilderness, Beaverhead, Bitterroot, and Deerlodge National Fore
 
 Andreafsky Wilderness, Yukon Delta National Wildlife Refuge, Alaska.—Pub. L. 96–487, title VII, §702(2), Dec. 2, 1980, 94 Stat. 2418.
 
-Ansel Adams Wilderness, Sierra and Inyo National Forests, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, §101(a)(15), (25), Sept. 28, 1984, 98 Stat. 1621, 1622.
+Ansel Adams Wilderness, Sierra and Inyo National Forests, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, §101(a)(15), (25), Sept. 28, 1984, 98 Stat. 1621, 1622; Pub. L. 111–11, title I, §1802(4), Mar. 30, 2009, 123 Stat. 1054.
 
 Apache Creek Wilderness, Prescott National Forest, Arizona.—Pub. L. 98–406, title I, §101(a)(1), Aug. 28, 1984, 98 Stat. 1485; Pub. L. 103–365, Oct. 14, 1994, 108 Stat. 3469.
 
@@ -88,7 +90,7 @@ Aubrey Peak Wilderness, Mohave County, Arizona.—Pub. L. 101–628, title I, §
 
 Baboquivari Peak Wilderness, Pima County, Arizona.—Pub. L. 101–628, title I, §101(a)(19), Nov. 28, 1990, 104 Stat. 4471.
 
-Badger Creek Wilderness, Mount Hood National Forest, Oregon.—Pub. L. 98–328, §3(3), June 26, 1984, 98 Stat. 273.
+Badger Creek Wilderness, Mount Hood National Forest, Oregon.—Pub. L. 98–328, §3(3), June 26, 1984, 98 Stat. 273; Pub. L. 111–11, title I, §§1202(a)(1), 1301(a)(1), Mar. 30, 2009, 123 Stat. 1008, 1025.
 
 Badlands Wilderness, Badlands National Monument, South Dakota.—Pub. L. 94–567, §1(<i>l</i>), Oct. 20, 1976, 90 Stat. 2693.
 
@@ -100,13 +102,19 @@ Bald River Gorge Wilderness, Cherokee National Forest, Tennessee.—Pub. L. 98�
 
 Bandelier Wilderness, Bandelier National Monument, New Mexico.—Pub. L. 94–567, §1(a), Oct. 20, 1976, 90 Stat. 2692.
 
-Barbours Creek Wilderness Area, Jefferson and George Washington National Forests, Virginia.—Pub. L. 100–326, §1(3), June 7, 1988, 102 Stat. 584.
+Barbours Creek Wilderness Area, Jefferson and George Washington National Forests, Virginia.—Pub. L. 100–326, §1(3), June 7, 1988, 102 Stat. 584; Pub. L. 111–11, title I, §1102(a)(1)–(3), Mar. 30, 2009, 123 Stat. 1002.
 
 Bay Creek Wilderness, Shawnee National Forest, Illinois.—Pub. L. 101–633, §3(2), Nov. 28, 1990, 104 Stat. 4577.
 
 Bear Wallow Wilderness, Apache-Sitgreaves National Forest, Arizona.—Pub. L. 98–406, title I, §101(a)(3), Aug. 28, 1984, 98 Stat. 1488.
 
 Beartown Wilderness, Jefferson National Forest, Virginia.—Pub. L. 98–586, §2(1), Oct. 30, 1984, 98 Stat. 3105.
+
+Beartrap Canyon Wilderness, Washington County, Utah.—Pub. L. 111–11, title I, §1972(a)(1)(A), Mar. 30, 2009, 123 Stat. 1076.
+
+Beauty Mountain Wilderness, California.—Pub. L. 111–11, title I, §1851(b)(1)(E), Mar. 30, 2009, 123 Stat. 1062.
+
+Beaver Basin Wilderness, Pictured Rocks National Lakeshore, Michigan.—Pub. L. 111–11, title I, §1652(a)–(c), Mar. 30, 2009, 123 Stat. 1043.
 
 Beaver Creek Wilderness, Daniel Boone National Forest, Kentucky.—Pub. L. 93–622, §3(a)(5), Jan. 3, 1975, 88 Stat. 2097.
 
@@ -122,6 +130,8 @@ Bering Sea Wilderness, Bering Sea National Wildlife Refuge, Alaska.—Pub. L. 91
 
 Big Branch Wilderness, Green Mountain National Forest, Vermont.—Pub. L. 98–322, title I, §102(2), June 19, 1984, 98 Stat. 254; Pub. L. 109–382, title II, §211(6), Dec. 1, 2006, 120 Stat. 2675.
 
+Big Draft Wilderness, Monongahela National Forest, West Virginia.—Pub. L. 111–11, title I, §1001(a)(1), Mar. 30, 2009, 123 Stat. 1000.
+
 Big Frog Wilderness, Cherokee National Forest, Tennessee.—Pub. L. 98–578, §2(1), Oct. 30, 1984, 98 Stat. 3088; Pub. L. 99–490, §2(6), Oct. 16, 1986, 100 Stat. 1235.
 
 Big Gum Swamp Wilderness, Osceola National Forest, Florida.—Pub. L. 98–430, §1(3), Sept. 28, 1984, 98 Stat. 1665.
@@ -129,6 +139,8 @@ Big Gum Swamp Wilderness, Osceola National Forest, Florida.—Pub. L. 98–430, 
 Big Horn Mountains Wilderness, Maricopa County, Arizona.—Pub. L. 101–628, title I, §101(a)(11), Nov. 28, 1990, 104 Stat. 4470.
 
 Big Island Lake Wilderness, Hiawatha National Forest, Michigan.—Pub. L. 100–184, §3(e), Dec. 8, 1987, 101 Stat. 1275.
+
+Big Jacks Creek Wilderness, Idaho.—Pub. L. 111–11, title I, §1503(a)(1)(A), Mar. 30, 2009, 123 Stat. 1032.
 
 Big Lake Wilderness, Big Lake National Wildlife Refuge, Arkansas.—Pub. L. 94–557, §1(b), Oct. 19, 1976, 90 Stat. 2633.
 
@@ -154,7 +166,7 @@ Black Canyon of the Gunnison Wilderness, Black Canyon of the Gunnison National M
 
 Black Canyon Wilderness, Lake Mead National Recreation Area, Nevada.—Pub. L. 107–282, title II, §202(a)(2), Nov. 6, 2002, 116 Stat. 1999.
 
-Black Canyon Wilderness, Ochoco National Forest, Oregon.—Pub. L. 98–328, §3(18), June 26, 1984, 98 Stat. 274.
+Black Canyon Wilderness, Ochoco National Forest, Oregon.—Pub. L. 98–328, §3(18), June 26, 1984, 98 Stat. 274; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
 Black Creek Wilderness, De Soto National Forest, Mississippi.—Pub. L. 98–515, §2(1), Oct. 19, 1984, 98 Stat. 2420.
 
@@ -172,6 +184,8 @@ Blackbeard Island Wilderness, Blackbeard Island National Wildlife Refuge, Georgi
 
 Blackjack Springs Wilderness, Nicolet National Forest, Wisconsin.—Pub. L. 95–494, §1(1), Oct. 21, 1978, 92 Stat. 1648.
 
+Blackridge Wilderness, Washington County, Utah.—Pub. L. 111–11, title I, §1972(a)(1)(B), Mar. 30, 2009, 123 Stat. 1076.
+
 Blood Mountain Wilderness, Chattahoochee National Forest, Georgia.—Pub. L. 102–217, §2(a)(1), Dec. 11, 1991, 105 Stat. 1667.
 
 Blue Range Wilderness, Apache and Gila National Forests, New Mexico.—Pub. L. 96–550, title I, §102(a)(3), Dec. 19, 1980, 94 Stat. 3221.
@@ -182,7 +196,7 @@ Bogoslof Wilderness, Bogoslof National Wildlife Refuge, Alaska.—Pub. L. 91–5
 
 Bosque del Apache Wilderness, Bosque del Apache National Wildlife Refuge, New Mexico.—Pub. L. 93–632, §1(i), Jan. 3, 1975, 88 Stat. 2154.
 
-Boulder Creek Wilderness, Umpqua National Forest, Oregon.—Pub. L. 98–328, §3(8), June 26, 1984, 98 Stat. 273.
+Boulder Creek Wilderness, Umpqua National Forest, Oregon.—Pub. L. 98–328, §3(8), June 26, 1984, 98 Stat. 273; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
 Boulder River Wilderness, Mount Baker-Snoqualmie National Forest, Washington.—Pub. L. 98–339, §3(1), July 3, 1984, 98 Stat. 300.
 
@@ -202,7 +216,7 @@ Breton Wilderness, Breton National Wildlife Refuge, Louisiana.—Pub. L. 93–63
 
 Bridge Canyon Wilderness, Lake Mead National Recreation Area, Nevada.—Pub. L. 107–282, title II, §202(a)(3), Nov. 6, 2002, 116 Stat. 1999.
 
-Bridge Creek Wilderness, Ochoco National Forest, Oregon.—Pub. L. 98–328, §3(16), June 26, 1984, 98 Stat. 274.
+Bridge Creek Wilderness, Ochoco National Forest, Oregon.—Pub. L. 98–328, §3(16), June 26, 1984, 98 Stat. 274; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
 Bridger Wilderness, Bridger National Forest, Wyoming.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–550, title II, §201(a)(10), Oct. 30, 1984, 98 Stat. 2809.
 
@@ -216,6 +230,12 @@ Bristol Cliffs Wilderness, Green Mountain National Forest, Vermont.—Pub. L. 93
 
 Bristol Mountains Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(7), Oct. 31, 1994, 108 Stat. 4473.
 
+Bruneau-Jarbidge Rivers Wilderness, Idaho.—Pub. L. 111–11, title I, §1503(a)(1)(B), Mar. 30, 2009, 123 Stat. 1032.
+
+Brush Mountain East Wilderness, Jefferson National Forest, Virginia.—Pub. L. 100–326, §1(9), as added and amended Pub. L. 111–11, title I, §1102(a)(1), (5), Mar. 30, 2009, 123 Stat. 1002, 1003.
+
+Brush Mountain Wilderness, Jefferson National Forest, Virginia.—Pub. L. 100–326, §1(10), as added and amended Pub. L. 111–11, title I, §1102(a)(1), (5), Mar. 30, 2009, 123 Stat. 1002, 1003.
+
 Buckhorn Wilderness, Olympic National Forest, Washington.—Pub. L. 98–339, §3(2), July 3, 1984, 98 Stat. 300; Pub. L. 99–635, §1(c)(1), Nov. 7, 1986, 100 Stat. 3528.
 
 Bucks Lake Wilderness, Plumas National Forest, California.—Pub. L. 98–425, title I, §101(a)(37), Sept. 28, 1984, 98 Stat. 1624.
@@ -224,7 +244,7 @@ Buffalo National River Wilderness, Buffalo National River, Arkansas.—Pub. L. 9
 
 Buffalo Peaks Wilderness, Pike and San Isabel National Forests, Colorado.—Pub. L. 103–77, §2(a)(3), Aug. 13, 1993, 107 Stat. 756.
 
-Bull of the Woods Wilderness, Mount Hood National Forest, Oregon.—Pub. L. 98–328, §3(4), June 26, 1984, 98 Stat. 273; Pub. L. 104–208, div. B, title I, §104(a)(2), Sept. 30, 1996, 110 Stat. 3009–523.
+Bull of the Woods Wilderness, Mount Hood National Forest, Oregon.—Pub. L. 98–328, §3(4), June 26, 1984, 98 Stat. 273; Pub. L. 104–208, div. B, title I, §104(a)(2), Sept. 30, 1996, 110 Stat. 3009–523; Pub. L. 111–11, title I, §§1202(a)(2), 1301(a)(1), Mar. 30, 2009, 123 Stat. 1008, 1025.
 
 Burden Falls Wilderness, Shawnee National Forest, Illinois.—Pub. L. 101–633, §3(3), Nov. 28, 1990, 104 Stat. 4577.
 
@@ -240,7 +260,11 @@ Cache La Poudre Wilderness, Roosevelt National Forest, Colorado.—Pub. L. 96–
 
 Cadiz Dunes Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(8), Oct. 31, 1994, 108 Stat. 4474.
 
+Cahuilla Mountain Wilderness, San Bernardino National Forest, California.—Pub. L. 111–11, title I, §1851(b)(1)(B), Mar. 30, 2009, 123 Stat. 1062.
+
 Calico Mountains Wilderness, Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area, Nevada.—Pub. L. 106–554, §1(a)(4) \[div. B, title I, §125 \[§8(a)(8)\]\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–357; Pub. L. 107–63, title I, §135(a), Nov. 5, 2001, 115 Stat. 443.
+
+Canaan Mountain Wilderness, Washington County, Utah.—Pub. L. 111–11, title I, §1972(a)(1)(C), Mar. 30, 2009, 123 Stat. 1076.
 
 Caney Creek Wilderness, Ouachita National Forest, Arkansas.—Pub. L. 93–622, §3(a)(2), Jan. 3, 1975, 88 Stat. 2097.
 
@@ -296,13 +320,15 @@ Chiricahua National Monument Wilderness, Chiricahua National Monument, Arizona.�
 
 Chiricahua Wilderness, Coronado National Forest, Arizona.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–406, title I, §101(a)(5), Aug. 28, 1984, 98 Stat. 1485.
 
-Chuck River Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, §703(c)(4), as added by Pub. L. 101–626, title II, §202, Nov. 28, 1990, 104 Stat. 4429.
+Chuck River Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, §703(c)(4), as added Pub. L. 101–626, title II, §202, Nov. 28, 1990, 104 Stat. 4429.
 
-Chuckwalla Mountains Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(12), Oct. 31, 1994, 108 Stat. 4474.
+Chuckwalla Mountains Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(12), Oct. 31, 1994, 108 Stat. 4474; Pub. L. 111–11, title I, §1851(b)(1)(J), Mar. 30, 2009, 123 Stat. 1064.
 
 Chumash Wilderness, Los Padres National Forest, California.—Pub. L. 102–301, §2(5), June 19, 1992, 106 Stat. 243.
 
 Citico Creek Wilderness, Cherokee National Forest, Tennessee.—Pub. L. 98–578, §2(2), Oct. 30, 1984, 98 Stat. 3088.
+
+Clackamas Wilderness, Oregon.—Pub. L. 111–11, title I, §1202(a)(3), Mar. 30, 2009, 123 Stat. 1008.
 
 Clear Springs Wilderness, Shawnee National Forest, Illinois.—Pub. L. 101–633, §3(4), Nov. 28, 1990, 104 Stat. 4577.
 
@@ -328,11 +354,19 @@ Comanche Peak Wilderness, Roosevelt National Forest, Colorado.—Pub. L. 96–56
 
 Congaree National Park Wilderness, Congaree Swamp National Park, South Carolina.—Pub. L. 100–524, §2, Oct. 24, 1988, 102 Stat. 2606; Pub. L. 108–108, title I, §135, Nov. 10, 2003, 117 Stat. 1270; Pub. L. 108–199, div. H, §139(b), Jan. 23, 2004, 118 Stat. 442.
 
+Copper Salmon Wilderness, Siskiyou National Forest, Oregon.—Pub. L. 98–328, §3(30), as added Pub. L. 111–11, title I, §1301(a)(1), (3), Mar. 30, 2009, 123 Stat. 1025.
+
 Coronation Island Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, §703(a)(2), Dec. 2, 1980, 94 Stat. 2418.
 
 Coso Range Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(15), Oct. 31, 1994, 108 Stat. 4474.
 
+Cottonwood Canyon Wilderness, Washington County, Utah.—Pub. L. 111–11, title I, §1972(a)(1)(D), Mar. 30, 2009, 123 Stat. 1076.
+
+Cottonwood Forest Wilderness, Washington County, Utah.—Pub. L. 111–11, title I, §1972(a)(1)(E), Mar. 30, 2009, 123 Stat. 1076.
+
 Cottonwood Point Wilderness, Arizona Strip District of Bureau of Land Management, Arizona.—Pub. L. 98–406, title III, §301(a)(1), Aug. 28, 1984, 98 Stat. 1492.
+
+Cougar Canyon Wilderness, Washington County, Utah.—Pub. L. 111–11, title I, §1972(a)(1)(F), Mar. 30, 2009, 123 Stat. 1076.
 
 Coyote Mountains Wilderness, Pima County, Arizona.—Pub. L. 101–628, title I, §101(a)(18), Nov. 28, 1990, 104 Stat. 4470.
 
@@ -340,7 +374,7 @@ Coyote Mountains Wilderness, California Desert Conservation Area, of Bureau of L
 
 Crab Orchard Wilderness, Crab Orchard National Wildlife Refuge, Illinois.—Pub. L. 94–557, §1(f), Oct. 19, 1976, 90 Stat. 2633.
 
-Cranberry Wilderness, Monongahela National Forest, West Virginia.—Pub. L. 97–466, §1(1), Jan. 13, 1983, 96 Stat. 2538; Pub. L. 101–512, title I, §122, Nov. 5, 1990, 104 Stat. 1938.
+Cranberry Wilderness, Monongahela National Forest, West Virginia.—Pub. L. 97–466, §1(1), Jan. 13, 1983, 96 Stat. 2538; Pub. L. 101–512, title I, §122, Nov. 5, 1990, 104 Stat. 1938; Pub. L. 111–11, title I, §1001(a)(2), Mar. 30, 2009, 123 Stat. 1000.
 
 Craters of the Moon National Wilderness, Craters of the Moon National Monument, Idaho.—Pub. L. 91–504, §2(a), Oct. 23, 1970, 84 Stat. 1105.
 
@@ -348,9 +382,9 @@ Cruces Basin Wilderness, Carson National Forest, New Mexico.—Pub. L. 96–550,
 
 Cucamonga Wilderness, Angeles and San Bernardino National Forests, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, §101(a)(5), Sept. 28, 1984, 98 Stat. 1619.
 
-Cumberland Island Wilderness, Cumberland Island National Seashore, Georgia.—Pub. L. 97–250, §2, as added Pub. L. 108–447, div. E, title I, §145(a), Dec. 8, 2004, 118 Stat. 3072.
+Cumberland Island Wilderness, Cumberland Island National Seashore, Georgia.—Pub. L. 97–250, §2, as added Pub. L. 108–447, div. E, title I, §145(a), Dec. 8, 2004, 118 Stat. 3072; Pub. L. 111–11, title VII, §7116(c), Mar. 30, 2009, 123 Stat. 1203.
 
-Cummins Creek Wilderness, Siuslaw National Forest, Oregon.—Pub. L. 98–328, §3(7), June 26, 1984, 98 Stat. 273.
+Cummins Creek Wilderness, Siuslaw National Forest, Oregon.—Pub. L. 98–328, §3(7), June 26, 1984, 98 Stat. 273; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
 Currant Mountain Wilderness, Humboldt National Forest, Nevada.—Pub. L. 101–195, §2(4), Dec. 5, 1989, 103 Stat. 1784; Pub. L. 109–432, div. C, title III, §323(a)(6), Dec. 20, 2006, 120 Stat. 3031.
 
@@ -361,6 +395,10 @@ Darwin Falls Wilderness, California Desert Conservation Area, of Bureau of Land 
 Dead Mountains Wilderness, California Desert Conservation Area, and Yuma District, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(18), Oct. 31, 1994, 108 Stat. 4475.
 
 Death Valley Wilderness, Death Valley National Park, California.—Pub. L. 103–433, title VI, §601(a)(1), Oct. 31, 1994, 108 Stat. 4496.
+
+Deep Creek North Wilderness, Washington County, Utah.—Pub. L. 111–11, title I, §1972(a)(1)(H), Mar. 30, 2009, 123 Stat. 1076.
+
+Deep Creek Wilderness, Washington County, Utah.—Pub. L. 111–11, title I, §1972(a)(1)(G), Mar. 30, 2009, 123 Stat. 1076.
 
 Delamar Mountains Wilderness, of Bureau of Land Management, Nevada.–Pub. L. 108–424, title II, §203(a)(3), Nov. 30, 2004, 118 Stat. 2407.
 
@@ -380,21 +418,25 @@ Dick Smith Wilderness, Los Padres National Forest, California.—Pub. L. 98–42
 
 Dinkey Lakes Wilderness, Sierra National Forest, California.—Pub. L. 98–425, title I, §101(a)(7), (13), Sept. 28, 1984, 98 Stat. 1620.
 
-Dolly Sods Wilderness, Monongahela National Forest, West Virginia.—Pub. L. 93–622, §3(a)(13), Jan. 3, 1975, 88 Stat. 2098.
+Doc's Pass Wilderness, Washington County, Utah.—Pub. L. 111–11, title I, §1972(a)(1)(I), Mar. 30, 2009, 123 Stat. 1076.
+
+Dolly Sods Wilderness, Monongahela National Forest, West Virginia.—Pub. L. 93–622, §3(a)(13), Jan. 3, 1975, 88 Stat. 2098; Pub. L. 111–11, title I, §1001(a)(3), Mar. 30, 2009, 123 Stat. 1000.
 
 Dome Wilderness, Santa Fe National Forest, New Mexico.—Pub. L. 96–550, title I, §102(a)(6), Dec. 19, 1980, 94 Stat. 3222.
 
 Domeland Wilderness, Sequoia National Forest, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, §101(a)(8), Sept. 28, 1984, 98 Stat. 1620; Pub. L. 103–433, title I, §102(19), Oct. 31, 1994, 108 Stat. 4475.
 
+Dominguez Canyon Wilderness Area, Mesa, Montrose, and Delta Counties, Colorado.—Pub. L. 111–11, title II, §2403(a), Mar. 30, 2009, 123 Stat. 1103.
+
 Dos Cabezas Mountains Wilderness, Cochise County, Arizona.—Pub. L. 101–628, title I, §101(a)(23), Nov. 28, 1990, 104 Stat. 4471.
 
-Drift Creek Wilderness, Siuslaw National Forest, Oregon.—Pub. L. 98–328, §3(5), June 26, 1984, 98 Stat. 273.
+Drift Creek Wilderness, Siuslaw National Forest, Oregon.—Pub. L. 98–328, §3(5), June 26, 1984, 98 Stat. 273; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
 Dry Creek Wilderness, Ouachita National Forest, Arkansas.—Pub. L. 98–508, §3(b), Oct. 19, 1984, 98 Stat. 2350.
 
 Dugger Mountain Wilderness, Alabama.—Pub. L. 106–156, §2(a), Dec. 9, 1999, 113 Stat. 1741.
 
-Eagle Cap Wilderness, Wallowa and Whitman National Forests, Oregon.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 92–521, Oct. 21, 1972, 86 Stat. 1026; Pub. L. 98–328, §3(28), June 26, 1984, 98 Stat. 275.
+Eagle Cap Wilderness, Wallowa and Whitman National Forests, Oregon.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 92–521, Oct. 21, 1972, 86 Stat. 1026; Pub. L. 98–328, §3(28), June 26, 1984, 98 Stat. 275; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
 Eagles Nest Wilderness, Arapaho and White River National Forests, Colorado.—Pub. L. 94–352, July 12, 1976, 90 Stat. 870; Pub. L. 105–75, §1, Nov. 12, 1997, 111 Stat. 1462.
 
@@ -456,7 +498,7 @@ Fossil Springs Wilderness, Coconino National Forest, Arizona.—Pub. L. 98–406
 
 Four Peaks Wilderness, Tonto National Forest, Arizona.—Pub. L. 98–406, title I, §101(a)(7), Aug. 28, 1984, 98 Stat. 1485.
 
-Frank Church—River of No Return Wilderness, Boise, Challis, Payette, Salmon, Bitterroot, and Nezperce National Forests, Idaho.—Pub. L. 96–312, §3, July 23, 1980, 94 Stat. 948; Pub. L. 98–231, §1, Mar. 14, 1984, 98 Stat. 60.
+Frank Church—River of No Return Wilderness, Boise, Challis, Payette, Salmon, Bitterroot, and Nezperce National Forests, Idaho.—Pub. L. 96–312, §3, July 23, 1980, 94 Stat. 948; Pub. L. 98–231, §1, Mar. 14, 1984, 98 Stat. 60; Pub. L. 111–11, title III, §3308, Mar. 30, 2009, 123 Stat. 1137.
 
 Funeral Mountains Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(22), Oct. 31, 1994, 108 Stat. 4475.
 
@@ -464,15 +506,17 @@ Galiuro Wilderness, Coronado National Forest, Arizona.—Pub. L. 88–577, §3, 
 
 Garcia Wilderness, Los Padres National Forest, California.—Pub. L. 102–301, §2(4), June 19, 1992, 106 Stat. 243.
 
+Garden Mountain Wilderness, Jefferson National Forest, Virginia.—Pub. L. 100–326, §1(14), as added and amended Pub. L. 111–11, title I, §1102(a)(1), (5), Mar. 30, 2009, 123 Stat. 1002, 1003.
+
 Garden of the Gods Wilderness, Shawnee National Forest, Illinois.—Pub. L. 101–633, §3(5), Nov. 28, 1990, 104 Stat. 4577.
 
 Gates of the Arctic Wilderness, Gates of the Arctic National Park, Alaska.—Pub. L. 96–487, title VII, §701(2), Dec. 2, 1980, 94 Stat. 2417; Pub. L. 104–333, div. I, title III, §302(c)(1), Nov. 12, 1996, 110 Stat. 4118.
 
 Gates of the Mountains Wilderness, Helena National Forest, Montana.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891.
 
-Gaylord A. Nelson Wilderness (former Gaylord A. Nelson National Wilderness), Apostle Islands National Lakeshore, Wisconsin.—Pub. L. 108–447, div. E, title I, §140(c), Dec. 8, 2004, 118 Stat. 3069; Pub. L. 109–54, title IV, §440, as added Pub. L. 109–97, title VII, §799(6), Nov. 10, 2005, 119 Stat. 2167.
+Gaylord Nelson Wilderness (former Gaylord A. Nelson Wilderness, former Gaylord A. Nelson National Wilderness), Apostle Islands National Lakeshore, Wisconsin.—Pub. L. 108–447, div. E, title I, §140(c), Dec. 8, 2004, 118 Stat. 3069; Pub. L. 109–54, title IV, §440, as added Pub. L. 109–97, title VII, §799(6), Nov. 10, 2005, 119 Stat. 2167; Pub. L. 111–11, title VII, §7116(a)(1)(B), (2), Mar. 30, 2009, 123 Stat. 1202, 1203.
 
-Gearhart Mountain Wilderness, Fremont National Forest, Oregon.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–328, §3(26), June 26, 1984, 98 Stat. 275.
+Gearhart Mountain Wilderness, Fremont National Forest, Oregon.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–328, §3(26), June 26, 1984, 98 Stat. 275; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
 Gee Creek Wilderness, Cherokee National Forest, Tennessee.—Pub. L. 93–622, §3(a)(9), Jan. 3, 1975, 88 Stat. 2097.
 
@@ -496,6 +540,8 @@ Golden Trout Wilderness, Inyo and Sequoia National Forests, California.—Pub. L
 
 Golden Valley Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(23), Oct. 31, 1994, 108 Stat. 4475.
 
+Goose Creek Wilderness, Washington County, Utah.—Pub. L. 111–11, title I, §1972(a)(1)(J), Mar. 30, 2009, 123 Stat. 1077.
+
 Goshute Canyon Wilderness, Northern White Pine County, Nevada.—Pub. L. 109–432, div. C, title III, §323(a)(13), Dec. 20, 2006, 120 Stat. 3032.
 
 Gospel-Hump Wilderness, Nezperce National Forest, Idaho.—Pub. L. 95–237, §4(a), Feb. 24, 1978, 92 Stat. 43.
@@ -506,13 +552,15 @@ Grand Wash Cliffs Wilderness, Arizona Strip District of Bureau of Land Managemen
 
 Granite Chief Wilderness, Tahoe National Forest, California.—Pub. L. 98–425, title I, §101(a)(10), Sept. 28, 1984, 98 Stat. 1620.
 
+Granite Mountain Wilderness, Mono County, and Inyo National Forest, California.—Pub. L. 111–11, title I, §1802(6), Mar. 30, 2009, 123 Stat. 1054.
+
 Granite Mountain Wilderness, Prescott National Forest, Arizona.—Pub. L. 98–406, title I, §101(a)(9), Aug. 28, 1984, 98 Stat. 1486.
 
 Grant Range Wilderness, Humboldt National Forest, Nevada.—Pub. L. 101–195, §2(12), Dec. 5, 1989, 103 Stat. 1785.
 
 Grass Valley Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(24), Oct. 31, 1994, 108 Stat. 4475.
 
-Grassy Knob Wilderness, Siskiyou National Forest, Oregon.—Pub. L. 98–328, §3(13), June 26, 1984, 98 Stat. 274.
+Grassy Knob Wilderness, Siskiyou National Forest, Oregon.—Pub. L. 98–328, §3(13), June 26, 1984, 98 Stat. 274; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
 Great Bear Wilderness, Flathead National Forest, Montana.—Pub. L. 95–546, Oct. 28, 1978, 92 Stat. 2062.
 
@@ -554,7 +602,7 @@ Headwaters Wilderness, Nicolet National Forest, Wisconsin.—Pub. L. 98–321, �
 
 Hell Hole Bay Wilderness, Francis Marion National Forest, South Carolina.—Pub. L. 96–560, title II, §201(f), Dec. 22, 1980, 94 Stat. 3273.
 
-Hells Canyon Wilderness, Hells Canyon National Recreation Area, Nez Perce, Payette, Wallowa, and Whitman National Forests, Idaho and Oregon.—Pub. L. 94–199, §2, Dec. 31, 1975, 89 Stat. 1117; Pub. L. 98–328, §3(29), June 26, 1984, 98 Stat. 275.
+Hells Canyon Wilderness, Hells Canyon National Recreation Area, Nez Perce, Payette, Wallowa, and Whitman National Forests, Idaho and Oregon.—Pub. L. 94–199, §2, Dec. 31, 1975, 89 Stat. 1117; Pub. L. 98–328, §3(29), June 26, 1984, 98 Stat. 275; Pub. L. 111–11, title I, §1301(a)(1), (2), Mar. 30, 2009, 123 Stat. 1025.
 
 Hells Canyon Wilderness, Yavapai and Maricopa Counties, Arizona.—Pub. L. 101–628, title I, §101(a)(29), Nov. 28, 1990, 104 Stat. 4471.
 
@@ -580,13 +628,15 @@ Hollow Hills Wilderness, California Desert Conservation Area, of Bureau of Land 
 
 Holy Cross Wilderness, San Isabel and White River National Forests, Colorado.—Pub. L. 96–560, title I, §102(a)(5), Dec. 22, 1980, 94 Stat. 3266; Pub. L. 103–255, §4, May 19, 1994, 108 Stat. 686.
 
-Hoover Wilderness, Inyo and Toiyabe National Forests, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891.
+Hoover Wilderness, Inyo and Toiyabe National Forests, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 111–11, title I, §1802(1), Mar. 30, 2009, 123 Stat. 1053.
 
 Horseshoe Bay Wilderness, Hiawatha National Forest, Michigan.—Pub. L. 100–184, §3(g), Dec. 8, 1987, 101 Stat. 1275.
 
 Hummingbird Springs Wilderness, Maricopa County, Arizona.—Pub. L. 101–628, title I, §101(a)(12), Nov. 28, 1990, 104 Stat. 4470.
 
 Hunter-Fryingpan Wilderness, White River National Forest, Colorado.—Pub. L. 95–237, §2(e), Feb. 24, 1978, 92 Stat. 41; Pub. L. 103–77, §§2(a)(13), 3(d), Aug. 13, 1993, 107 Stat. 758, 759; Pub. L. 103–255, §4, May 19, 1994, 108 Stat. 686.
+
+Hunting Camp Creek Wilderness, Jefferson National Forest, Virginia.—Pub. L. 100–326, §1(13), as added and amended Pub. L. 111–11, title I, §1102(a)(1), (5), Mar. 30, 2009, 123 Stat. 1002, 1003.
 
 Huron Islands Wilderness, Huron Islands National Wildlife Refuge, Michigan.—Pub. L. 91–504, §1(e), Oct. 23, 1970, 84 Stat. 1105.
 
@@ -606,7 +656,7 @@ Indian Mounds Wilderness, Sabine National Forest, Texas.—Pub. L. 98–574, §2
 
 Indian Pass Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(27), Oct. 31, 1994, 108 Stat. 4476.
 
-Indian Peaks Wilderness, Arapaho and Roosevelt National Forests, Colorado.—Pub. L. 95–450, §3, Oct. 11, 1978, 92 Stat. 1095; Pub. L. 96–560, title I, §111(a), Dec. 22, 1980, 94 Stat. 3271; Pub. L. 107–216, §2(b), Aug. 21, 2002, 116 Stat. 1055.
+Indian Peaks Wilderness, Arapaho and Roosevelt National Forests, Colorado.—Pub. L. 95–450, §3, Oct. 11, 1978, 92 Stat. 1095; Pub. L. 96–560, title I, §111(a), Dec. 22, 1980, 94 Stat. 3271; Pub. L. 107–216, §2(b), Aug. 21, 2002, 116 Stat. 1055; Pub. L. 111–11, title I, §1955(a), Mar. 30, 2009, 123 Stat. 1074.
 
 Innoko Wilderness, Innoko National Wildlife Refuge, Alaska.—Pub. L. 96–487, title VII, §702(5), Dec. 2, 1980, 94 Stat. 2418.
 
@@ -622,11 +672,11 @@ Island Bay Wilderness, Island Bay National Wildlife Refuge, Florida.—Pub. L. 9
 
 Isle Royale Wilderness, Isle Royale National Park, Michigan.—Pub. L. 94–567, §1(f), Oct. 20, 1976, 90 Stat. 2692.
 
-Izembek Wilderness, Izembek National Wildlife Refuge, Alaska.—Pub. L. 96–487, title VII, §702(6), Dec. 2, 1980, 94 Stat. 2418.
+Izembek Wilderness, Izembek National Wildlife Refuge, Alaska.—Pub. L. 96–487, title VII, §702(6), Dec. 2, 1980, 94 Stat. 2418; Pub. L. 111–11, title VI, §6404(3), Mar. 30, 2009, 123 Stat. 1182.
 
 Jacumba Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(29), Oct. 31, 1994, 108 Stat. 4476.
 
-James Peak Wilderness, Arapaho/Roosevelt National Forest, Colorado.—Pub. L. 103–77, §2(a)(21), as added by Pub. L. 107–216, §2(a), Aug. 21, 2002, 116 Stat. 1055.
+James Peak Wilderness, Arapaho/Roosevelt National Forest, Colorado.—Pub. L. 103–77, §2(a)(21), as added Pub. L. 107–216, §2(a), Aug. 21, 2002, 116 Stat. 1055.
 
 James River Face Wilderness, Jefferson National Forest, Virginia.—Pub. L. 93–622, §3(a)(12), Jan. 3, 1975, 88 Stat. 2098; Pub. L. 98–586, §2(9), Oct. 30, 1984, 98 Stat. 3106.
 
@@ -640,11 +690,13 @@ Jimbilnan Wilderness, Lake Mead National Recreation Area, Nevada.—Pub. L. 107�
 
 J. N. “Ding” Darling Wilderness, J. N. “Ding” Darling National Wildlife Refuge, Florida.—Pub. L. 94–557, §1(d), Oct. 19, 1976, 90 Stat. 2633.
 
-John Muir Wilderness, Inyo and Sierra National Forests, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, §101(a)(13), Sept. 28, 1984, 98 Stat. 1620.
+John Krebs Wilderness, Sequoia and Kings Canyon National Parks, California.—Pub. L. 111–11, title I, §1902(1), Mar. 30, 2009, 123 Stat. 1068.
+
+John Muir Wilderness, Inyo and Sierra National Forests, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, §101(a)(13), Sept. 28, 1984, 98 Stat. 1620; Pub. L. 111–11, title I, §1802(3), Mar. 30, 2009, 123 Stat. 1053.
 
 Joseph Battell Wilderness, Vermont.—Pub. L. 109–382, title II, §211(2), Dec. 1, 2006, 120 Stat. 2675.
 
-Joshua Tree Wilderness, Joshua Tree National Park, California.—Pub. L. 94–567, §1(g), Oct. 20, 1976, 90 Stat. 2692; Pub. L. 103–433, title IV, §402, title VI, §601(a)(2), Oct. 31, 1994, 108 Stat. 4488, 4496.
+Joshua Tree Wilderness, Joshua Tree National Park, California.—Pub. L. 94–567, §1(g), Oct. 20, 1976, 90 Stat. 2692; Pub. L. 103–433, title IV, §402, title VI, §601(a)(2), Oct. 31, 1994, 108 Stat. 4488, 4496; Pub. L. 111–11, title I, §1851(b)(1)(F), (c), Mar. 30, 2009, 123 Stat. 1063, 1064.
 
 Joyce Kilmer-Slickrock Wilderness, Nantahala and Cherokee National Forests, North Carolina and Tennessee.—Pub. L. 93–622, §3(a)(7), Jan. 3, 1975, 88 Stat. 2097; Pub. L. 98–324, §2(4), June 19, 1984, 98 Stat. 263.
 
@@ -664,7 +716,7 @@ Kalmiopsis Wilderness, Siskiyou National Forest, Oregon.—Pub. L. 88–577, §3
 
 Kanab Creek Wilderness, Kaibab National Forest and Arizona Strip District of Bureau of Land Management, Arizona.—Pub. L. 98–406, title III, §301(a)(3), Aug. 28, 1984, 98 Stat. 1492.
 
-Karta River Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, §703(c)(5), as added by Pub. L. 101–626, title II, §202, Nov. 28, 1990, 104 Stat. 4429.
+Karta River Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, §703(c)(5), as added Pub. L. 101–626, title II, §202, Nov. 28, 1990, 104 Stat. 4429.
 
 Katmai Wilderness, Katmai National Park and Preserve, Alaska.—Pub. L. 96–487, title VII, §701(4), Dec. 2, 1980, 94 Stat. 2417; Pub. L. 105–277, div. A, §101(e) \[title I, §135(b)\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–265.
 
@@ -676,7 +728,7 @@ Kendrick Mountain Wilderness, Kaibab and Coconino National Forests, Arizona.—P
 
 Kiavah Wilderness, California Desert Conservation Area, of Bureau of Land Management, and Sequoia National Forest, California.—Pub. L. 103–433, title I, §102(31), Oct. 31, 1994, 108 Stat. 4476.
 
-Kimberling Creek Wilderness, Jefferson National Forest, Virginia.—Pub. L. 98–586, §2(2), Oct. 30, 1984, 98 Stat. 3105.
+Kimberling Creek Wilderness, Jefferson National Forest, Virginia.—Pub. L. 98–586, §2(2), Oct. 30, 1984, 98 Stat. 3105; Pub. L. 100–326, §1(20), as added and amended Pub. L. 111–11, title I, §§1102(a)(1), (5), 1103, Mar. 30, 2009, 123 Stat. 1002–1004.
 
 King Range Wilderness, Humboldt and Mendocino Counties, California.—Pub. L. 109–362, §3(11), Oct. 17, 2006, 120 Stat. 2066.
 
@@ -692,7 +744,7 @@ Kootznoowoo Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, tit
 
 Koyukuk Wilderness, Koyukuk National Wildlife Refuge, Alaska.—Pub. L. 96–487, title VII, §702(8), Dec. 2, 1980, 94 Stat. 2418.
 
-Kuiu Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, §703(c)(6), as added by Pub. L. 101–626, title II, §202, Nov. 28, 1990, 104 Stat. 4430.
+Kuiu Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, §703(c)(6), as added Pub. L. 101–626, title II, §202, Nov. 28, 1990, 104 Stat. 4430.
 
 Lacassine Wilderness, Lacassine National Wildlife Refuge, Louisiana.—Pub. L. 94–557, §1(g), Oct. 19, 1976, 90 Stat. 2633.
 
@@ -712,9 +764,11 @@ Latir Peak Wilderness, Carson National Forest, New Mexico.—Pub. L. 96–550, t
 
 Laurel Fork North Wilderness, Monongahela National Forest, West Virginia.—Pub. L. 97–466, §1(2), Jan. 13, 1983, 96 Stat. 2538.
 
-Laurel Fork South Wilderness, Monongahela National Forest, West Virginia.—Pub. L. 97–466, §1(3), Jan. 13, 1983, 96 Stat. 2538.
+Laurel Fork South Wilderness, Monongahela National Forest, West Virginia.—Pub. L. 97–466, §1(3), Jan. 13, 1983, 96 Stat. 2538; Pub. L. 111–11, title I, §1002(a), Mar. 30, 2009, 123 Stat. 1001.
 
 Lava Beds Wilderness, Lava Beds National Monument, California.—Pub. L. 92–493, Oct. 13, 1972, 86 Stat. 811.
+
+LaVerkin Creek Wilderness, Washington County, Utah.—Pub. L. 111–11, title I, §1972(a)(1)(K), Mar. 30, 2009, 123 Stat. 1077.
 
 Leaf Wilderness, De Soto National Forest, Mississippi.—Pub. L. 98–515, §2(2), Oct. 19, 1984, 98 Stat. 2420.
 
@@ -722,7 +776,7 @@ Leatherwood Wilderness, Ozark-Saint Francis National Forest, Arkansas.—Pub. L.
 
 Lee Metcalf Wilderness, Beaverhead and Gallatin National Forests and Dillon Resource Area, Montana.—Pub. L. 98–140, §2, Oct. 31, 1983, 97 Stat. 901.
 
-Lewis Fork Wilderness, Jefferson National Forest, Virginia.—Pub. L. 98–586, §2(3), Oct. 30, 1984, 98 Stat. 3105; Pub. L. 100–326, §1(5), June 7, 1988, 102 Stat. 584; Pub. L. 106–471, §1(1), Nov. 9, 2000, 114 Stat. 2057.
+Lewis Fork Wilderness, Jefferson National Forest, Virginia.—Pub. L. 98–586, §2(3), Oct. 30, 1984, 98 Stat. 3105; Pub. L. 100–326, §1(5), (16), June 7, 1988, 102 Stat. 584; Pub. L. 106–471, §1(1), Nov. 9, 2000, 114 Stat. 2057; Pub. L. 111–11, title I, §1102(a)(1)–(3), (5), Mar. 30, 2009, 123 Stat. 1002, 1003.
 
 Lime Canyon Wilderness, of Bureau of Land Management, Nevada.—Pub. L. 107–282, title II, §202(a)(9), Nov. 6, 2002, 116 Stat. 2000.
 
@@ -736,13 +790,15 @@ Little Frog Mountain Wilderness, Cherokee National Forest, Tennessee.—Pub. L. 
 
 Little High Rock Canyon Wilderness, Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area, Nevada.—Pub. L. 106–554, §1(a)(4) \[div. B, title I, §125 \[§8(a)(6)\]\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–356; Pub. L. 107–63, title I, §135(a), Nov. 5, 2001, 115 Stat. 443.
 
+Little Jacks Creek Wilderness, Idaho.—Pub. L. 111–11, title I, §1503(a)(1)(C), Mar. 30, 2009, 123 Stat. 1033.
+
 Little Lake Creek Wilderness, Sam Houston National Forest, Texas.—Pub. L. 98–574, §2(5), Oct. 30, 1984, 98 Stat. 3051; Pub. L. 99–584, Oct. 29, 1986, 100 Stat. 3322.
 
 Little Lake George Wilderness, Ocala National Forest, Florida.—Pub. L. 98–430, §1(6), Sept. 28, 1984, 98 Stat. 1665.
 
 Little Picacho Wilderness, California Desert Conservation Area and Yuma District, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(34), Oct. 31, 1994, 108 Stat. 4477.
 
-Little Wilson Creek Wilderness, Jefferson National Forest, Virginia.—Pub. L. 98–586, §2(5), Oct. 30, 1984, 98 Stat. 3105.
+Little Wilson Creek Wilderness, Jefferson National Forest, Virginia.—Pub. L. 98–586, §2(5), Oct. 30, 1984, 98 Stat. 3105; Pub. L. 100–326, §1(17), as added and amended Pub. L. 111–11, title I, §1102(a)(1), (5), Mar. 30, 2009, 123 Stat. 1002, 1003.
 
 Lizard Head Wilderness, San Juan and Uncompahgre National Forests, Colorado.—Pub. L. 96–560, title I, §102(a)(7), Dec. 22, 1980, 94 Stat. 3266.
 
@@ -752,6 +808,8 @@ Lost Creek Wilderness, Pike National Forest, Colorado.—Pub. L. 96–560, title
 
 Lostwood Wilderness, Lostwood National Wildlife Refuge, North Dakota.—Pub. L. 93–632, §1(k), Jan. 3, 1975, 88 Stat. 2154.
 
+Lower White River Wilderness, Oregon.—Pub. L. 111–11, title I, §1202(a)(8), Mar. 30, 2009, 123 Stat. 1009.
+
 Lusk Creek Wilderness, Shawnee National Forest, Illinois.—Pub. L. 101–633, §3(6), Nov. 28, 1990, 104 Stat. 4577.
 
 Lye Brook Wilderness, Green Mountain National Forest, Vermont.—Pub. L. 93–622, §3(a)(11), Jan. 3, 1975, 88 Stat. 2097; Pub. L. 98–322, title I, §102(4), June 19, 1984, 98 Stat. 254; Pub. L. 109–382, title II, §211(4), Dec. 1, 2006, 120 Stat. 2675.
@@ -759,6 +817,8 @@ Lye Brook Wilderness, Green Mountain National Forest, Vermont.—Pub. L. 93–62
 Machesna Mountain Wilderness, Bakersfield District Conservation Area, of Bureau of Land Management, and Los Padres National Forest, California.—Pub. L. 98–425, title I, §101(a)(38), Sept. 28, 1984, 98 Stat. 1624.
 
 Mackinac Wilderness, Hiawatha National Forest, Michigan.—Pub. L. 100–184, §3(f), Dec. 8, 1987, 101 Stat. 1275.
+
+Magic Mountain Wilderness, Angeles National Forest, California.—Pub. L. 111–11, title I, §1802(7), Mar. 30, 2009, 123 Stat. 1054.
 
 Malpais Mesa Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(35), Oct. 31, 1994, 108 Stat. 4477.
 
@@ -770,7 +830,7 @@ Marble Mountain Wilderness, Klamath National Forest, California.—Pub. L. 88–
 
 Marjory Stoneman Douglas Wilderness (former Everglades Wilderness), Everglades National Park, Florida.—Pub. L. 95–625, title IV, §401(3), Nov. 10, 1978, 92 Stat. 3490; Pub. L. 105–82, §3, Nov. 13, 1997, 111 Stat. 1541.
 
-Mark O. Hatfield Wilderness (former Columbia Wilderness), Mount Hood National Forest, Oregon.—Pub. L. 98–328, §3(1), June 26, 1984, 98 Stat. 273; Pub. L. 104–208, div. A, title I, §101(d) \[title III, §328\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–227.
+Mark O. Hatfield Wilderness (former Columbia Wilderness), Mount Hood National Forest, Oregon.—Pub. L. 98–328, §3(1), June 26, 1984, 98 Stat. 273; Pub. L. 104–208, div. A, title I, §101(d) \[title III, §328\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–227; Pub. L. 111–11, title I, §§1202(a)(4), 1301(a)(1), Mar. 30, 2009, 123 Stat. 1008, 1025.
 
 Mark Trail Wilderness, Chattahoochee National Forest, Georgia.—Pub. L. 102–217, §2(a)(2), Dec. 11, 1991, 105 Stat. 1667.
 
@@ -790,7 +850,7 @@ Mecca Hills Wilderness, California Desert Conservation Area, of Bureau of Land M
 
 Medicine Lake Wilderness, Medicine Lake National Wildlife Refuge, Montana.—Pub. L. 94–557, §1(<i>l</i>), Oct. 19, 1976, 90 Stat. 2634.
 
-Menagerie Wilderness, Willamette National Forest, Oregon.—Pub. L. 98–328, §3(11), June 26, 1984, 98 Stat. 273.
+Menagerie Wilderness, Willamette National Forest, Oregon.—Pub. L. 98–328, §3(11), June 26, 1984, 98 Stat. 273; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
 Mesa Verde Wilderness, Mesa Verde National Park, Colorado.—Pub. L. 94–567, §1(h), Oct. 20, 1976, 90 Stat. 2693.
 
@@ -800,9 +860,9 @@ Michigan Islands Wilderness, Michigan Islands National Wildlife Refuge, Michigan
 
 Middle Prong Wilderness, Pisgah National Forest, North Carolina.—Pub. L. 98–324, §2(6), June 19, 1984, 98 Stat. 263.
 
-Middle Santiam Wilderness, Willamette National Forest, Oregon.—Pub. L. 98–328, §3(12), June 26, 1984, 98 Stat. 273.
+Middle Santiam Wilderness, Willamette National Forest, Oregon.—Pub. L. 98–328, §3(12), June 26, 1984, 98 Stat. 273; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
-Mill Creek Wilderness, Ochoco National Forest, Oregon.—Pub. L. 98–328, §3(17), June 26, 1984, 98 Stat. 274.
+Mill Creek Wilderness, Ochoco National Forest, Oregon.—Pub. L. 98–328, §3(17), June 26, 1984, 98 Stat. 274; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
 Miller Peak Wilderness, Coronado National Forest, Arizona.—Pub. L. 98–406, title I, §101(a)(14), Aug. 28, 1984, 98 Stat. 1486.
 
@@ -822,7 +882,7 @@ Monarch Wilderness, Sierra and Sequoia National Forests, California.—Pub. L. 9
 
 Monomoy Wilderness, Monomoy National Wildlife Refuge, Massachusetts.—Pub. L. 91–504, §1(g), Oct. 23, 1970, 84 Stat. 1105.
 
-Monument Rock Wilderness, Malheur and Wallowa-Whitman National Forests, Oregon.—Pub. L. 98–328, §3(21), June 26, 1984, 98 Stat. 274.
+Monument Rock Wilderness, Malheur and Wallowa-Whitman National Forests, Oregon.—Pub. L. 98–328, §3(21), June 26, 1984, 98 Stat. 274; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
 Moosehorn Wilderness, Moosehorn National Wildlife Refuge, Maine.—Pub. L. 91–504, §1(e), Oct. 23, 1970, 84 Stat. 1105.
 
@@ -842,11 +902,11 @@ Mount Evans Wilderness, Arapaho and Pike National Forests, Colorado.—Pub. L. 9
 
 Mount Grafton Wilderness, Southern White Pine County, Nevada.—Pub. L. 109–432, div. C, title III, §323(a)(2), Dec. 20, 2006, 120 Stat. 3031.
 
-Mount Hood Wilderness, Mount Hood National Forest, Oregon.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 95–237, §3(d), Feb. 24, 1978, 92 Stat. 43.
+Mount Hood Wilderness, Mount Hood National Forest, Oregon.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 95–237, §3(d), Feb. 24, 1978, 92 Stat. 43; Pub. L. 111–11, title I, §1202(a)(5), (c)(2), Mar. 30, 2009, 123 Stat. 1008, 1009.
 
 Mt. Irish Wilderness, of Bureau of Land Management, Nevada.–Pub. L. 108–424, title II, §203(a)(14), Nov. 30, 2004, 118 Stat. 2408.
 
-Mount Jefferson Wilderness, Williamette, Deschutes, and Mount Hood National Forests, Oregon.—Pub. L. 90–548, Oct. 2, 1968, 82 Stat. 936; Pub. L. 98–328, §3(23), June 26, 1984, 98 Stat. 274.
+Mount Jefferson Wilderness, Williamette, Deschutes, and Mount Hood National Forests, Oregon.—Pub. L. 90–548, Oct. 2, 1968, 82 Stat. 936; Pub. L. 98–328, §3(23), June 26, 1984, 98 Stat. 274; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
 Mount Lassic Wilderness, Six Rivers National Forest, California.—Pub. L. 109–362, §3(6), Oct. 17, 2006, 120 Stat. 2065.
 
@@ -882,7 +942,7 @@ Mount Tipton Wilderness, Mohave County, Arizona.—Pub. L. 101–628, title I, �
 
 Mount Trumbull Wilderness, Arizona Strip District of Bureau of Land Management, Arizona.—Pub. L. 98–406, title III, §301(a)(5), Aug. 28, 1984, 98 Stat. 1493.
 
-Mount Washington Wilderness, Deschutes and Willamette National Forests, Oregon.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–328, §3(24), June 26, 1984, 98 Stat. 275.
+Mount Washington Wilderness, Deschutes and Willamette National Forests, Oregon.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–328, §3(24), June 26, 1984, 98 Stat. 275; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
 Mount Wilson Wilderness, Mohave County, Arizona.—Pub. L. 101–628, title I, §101(a)(1), Nov. 28, 1990, 104 Stat. 4469.
 
@@ -890,7 +950,7 @@ Mt. Wrightson Wilderness, Coronado National Forest, Arizona.—Pub. L. 98–406,
 
 Mount Zirkel Wilderness, Routt National Forest, Colorado.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 96–560, title I, §102(a)(13), Dec. 22, 1980, 94 Stat. 3267; Pub. L. 103–77, §2(a)(5), Aug. 13, 1993, 107 Stat. 757.
 
-Mountain Lake Wilderness, Jefferson National Forest, Virginia and West Virginia.—Pub. L. 98–586, §2(6), Oct. 30, 1984, 98 Stat. 3105; Pub. L. 100–326, §1(6), June 7, 1988, 102 Stat. 584; Pub. L. 106–471, §1(2), Nov. 9, 2000, 114 Stat. 2057.
+Mountain Lake Wilderness, Jefferson National Forest, Virginia and West Virginia.—Pub. L. 98–586, §2(6), Oct. 30, 1984, 98 Stat. 3105; Pub. L. 100–326, §1(6), (15), June 7, 1988, 102 Stat. 584; Pub. L. 106–471, §1(2), Nov. 9, 2000, 114 Stat. 2057; Pub. L. 111–11, title I, §1102(a)(1)–(3), (5), Mar. 30, 2009, 123 Stat. 1002, 1003.
 
 Mountain Lakes Wilderness, Winema National Forest, Oregon.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891.
 
@@ -930,9 +990,11 @@ North Algodones Dunes Wilderness, California Desert Conservation Area, of Bureau
 
 North Black Rock Range Wilderness, Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area, Nevada.—Pub. L. 106–554, §1(a)(4) \[div. B, title I, §125 \[§8(a)(3)\]\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–356; Pub. L. 107–63, title I, §135(a), Nov. 5, 2001, 115 Stat. 443.
 
-North Fork John Day Wilderness, Wallowa-Whitman and Umatilla National Forests, Oregon.—Pub. L. 98–328, §3(19), June 26, 1984, 98 Stat. 274.
+North Fork John Day Wilderness, Wallowa-Whitman and Umatilla National Forests, Oregon.—Pub. L. 98–328, §3(19), June 26, 1984, 98 Stat. 274; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
-North Fork Umatilla Wilderness, Umatilla National Forest, Oregon.—Pub. L. 98–328, §3(20), June 26, 1984, 98 Stat. 274.
+North Fork Owyhee Wilderness, Idaho.—Pub. L. 111–11, title I, §1503(a)(1)(D), Mar. 30, 2009, 123 Stat. 1033.
+
+North Fork Umatilla Wilderness, Umatilla National Forest, Oregon.—Pub. L. 98–328, §3(20), June 26, 1984, 98 Stat. 274; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
 North Fork Wilderness, Six Rivers National Forest, California.—Pub. L. 98–425, title I, §101(a)(19), Sept. 28, 1984, 98 Stat. 1621.
 
@@ -958,17 +1020,23 @@ Olympic Wilderness, Olympic National Park, Washington.—Pub. L. 100–668, titl
 
 Opal Creek Wilderness, Willamette National Forest, Oregon.—Pub. L. 104–208, div. B, title I, §104, Sept. 30, 1996, 110 Stat. 3009–523; Pub. L. 104–333, div. I, title X, §1023(c), Nov. 12, 1996, 110 Stat. 4215; Pub. L. 106–176, title I, §125, Mar. 10, 2000, 114 Stat. 30.
 
+Oregon Badlands Wilderness, Oregon.—Pub. L. 111–11, title I, §1702(a), (c), Mar. 30, 2009, 123 Stat. 1044, 1045.
+
 Oregon Islands Wilderness, Oregon Islands National Wildlife Refuge, Oregon.—Pub. L. 91–504, §1(b), Oct. 23, 1970, 84 Stat. 1104; Pub. L. 95–450, §12(a), Oct. 11, 1978, 92 Stat. 1098; Pub. L. 104–208, div. B, title VII, §701, Sept. 30, 1996, 110 Stat. 3009–543; Pub. L. 104–333, div. I, title X, §1027, Nov. 12, 1996, 110 Stat. 4230.
 
 Organ Pipe Cactus Wilderness, Organ Pipe Cactus National Monument, Arizona.—Pub. L. 95–625, title IV, §401(7), Nov. 10, 1978, 92 Stat. 3490.
 
-Orocopia Mountains Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(44), Oct. 31, 1994, 108 Stat. 4478.
+Orocopia Mountains Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(44), Oct. 31, 1994, 108 Stat. 4478; Pub. L. 111–11, title I, §1851(b)(1)(G), Mar. 30, 2009, 123 Stat. 1063.
 
 Otay Mountain Wilderness, California.—Pub. L. 106–145, §3, Dec. 9, 1999, 113 Stat. 1711.
 
-Otter Creek Wilderness Monongahela National Forest, West Virginia.—Pub. L. 93–622, §3(a)(14), Jan. 3, 1975, 88 Stat. 2098.
+Otter Creek Wilderness, Monongahela National Forest, West Virginia.—Pub. L. 93–622, §3(a)(14), Jan. 3, 1975, 88 Stat. 2098; Pub. L. 111–11, title I, §1001(a)(4), Mar. 30, 2009, 123 Stat. 1000.
 
 Owens Peak Wilderness, California Desert Conservation Area and Bakersfield District, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(45), Oct. 31, 1994, 108 Stat. 4478.
+
+Owens River Headwaters Wilderness, Inyo National Forest, California.—Pub. L. 111–11, title I, §1802(2), Mar. 30, 2009, 123 Stat. 1053.
+
+Owyhee River Wilderness, Idaho.—Pub. L. 111–11, title I, §1503(a)(1)(E), Mar. 30, 2009, 123 Stat. 1033.
 
 Paddy Creek Wilderness, Mark Twain National Forest, Missouri.—Pub. L. 97–407, Jan. 3, 1983, 96 Stat. 2033.
 
@@ -980,7 +1048,7 @@ Paiute Wilderness, Arizona Strip District of Bureau of Land Management, Arizona.
 
 Pajarita Wilderness, Coronado National Forest, Arizona.—Pub. L. 98–406, title I, §101(a)(17), Aug. 28, 1984, 98 Stat. 1487.
 
-Palen/McCoy Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(47), Oct. 31, 1994, 108 Stat. 4478.
+Palen/McCoy Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(47), Oct. 31, 1994, 108 Stat. 4478; Pub. L. 111–11, title I, §1851(b)(1)(H), Mar. 30, 2009, 123 Stat. 1063.
 
 Palo Verde Mountains Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(48), Oct. 31, 1994, 108 Stat. 4478.
 
@@ -1004,7 +1072,7 @@ Pemigewasset Wilderness, White Mountain National Forest, New Hampshire.—Pub. L
 
 Peru Peak Wilderness, Green Mountain National Forest, Vermont.—Pub. L. 98–322, title I, §102(3), June 19, 1984, 98 Stat. 254; Pub. L. 109–382, title II, §211(5), Dec. 1, 2006, 120 Stat. 2675.
 
-Peters Mountain Wilderness, Jefferson National Forest, Virginia.—Pub. L. 98–586, §2(7), Oct. 30, 1984, 98 Stat. 3105.
+Peters Mountain Wilderness, Jefferson National Forest, Virginia.—Pub. L. 98–586, §2(7), Oct. 30, 1984, 98 Stat. 3105; Pub. L. 100–326, §1(19), as added and amended Pub. L. 111–11, title I, §1102(a)(1), (5), Mar. 30, 2009, 123 Stat. 1002, 1003.
 
 Petersburg Creek-Duncan Salt Chuck Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, §703(a)(6), Dec. 2, 1980, 94 Stat. 2419.
 
@@ -1024,6 +1092,8 @@ Piney Creek Wilderness, Mark Twain National Forest, Missouri.—Pub. L. 96–560
 
 Pinnacles Wilderness, Pinnacles National Monument, California.—Pub. L. 94–567, §1(i), Oct. 20, 1976, 90 Stat. 2693; Pub. L. 107–370, §2(c), Dec. 19, 2002, 116 Stat. 3072.
 
+Pinto Mountains Wilderness, Riverside County, California.—Pub. L. 111–11, title I, §1851(b)(1)(I), Mar. 30, 2009, 123 Stat. 1063.
+
 Pinto Valley Wilderness, Lake Mead National Recreation Area, Nevada.—Pub. L. 107–282, title II, §202(a)(14), Nov. 6, 2002, 116 Stat. 2000.
 
 Piper Mountain Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(50), Oct. 31, 1994, 108 Stat. 4478.
@@ -1032,9 +1102,13 @@ Piute Mountains Wilderness, California Desert Conservation Area, of Bureau of La
 
 Platte River Wilderness, Medicine Bow and Routt National Forests, Wyoming and Colorado.—Pub. L. 98–550, title II, §201(a)(8), Oct. 30, 1984, 98 Stat. 2808.
 
-Pleasant/Lemusurier/Inian Islands Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, §703(c)(1), as added by Pub. L. 101–626, title II, §202, Nov. 28, 1990, 104 Stat. 4429.
+Pleasant/Lemusurier/Inian Islands Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, §703(c)(1), as added Pub. L. 101–626, title II, §202, Nov. 28, 1990, 104 Stat. 4429.
+
+Pleasant View Ridge Wilderness, Angeles National Forest, California.—Pub. L. 111–11, title I, §1802(8), Mar. 30, 2009, 123 Stat. 1054.
 
 Pocosin Wilderness, Croatan National Forest, North Carolina.—Pub. L. 98–324, §2(7), June 19, 1984, 98 Stat. 264.
+
+Pole Creek Wilderness, Idaho.—Pub. L. 111–11, title I, §1503(a)(1)(F), Mar. 30, 2009, 123 Stat. 1033.
 
 Pond Mountain Wilderness, Cherokee National Forest, Tennessee.—Pub. L. 99–490, §2(1), Oct. 16, 1986, 100 Stat. 1235.
 
@@ -1050,13 +1124,15 @@ Powderhorn Wilderness, Gunnison National Forest and Powderhorn Primitive Area, C
 
 Presidential Range-Dry River Wilderness, White Mountain National Forest, New Hampshire.—Pub. L. 93–622, §3(a)(6), Jan. 3, 1975, 88 Stat. 2097; Pub. L. 98–323, title I, §101(3), June 19, 1984, 98 Stat. 259.
 
-Priest Wilderness Area, George Washington National Forest, Virginia.—Pub. L. 100–326, §1(7), as added Pub. L. 106–471, §1(3), Nov. 9, 2000, 114 Stat. 2057.
+Priest Wilderness Area, George Washington National Forest, Virginia.—Pub. L. 100–326, §1(7), as added Pub. L. 106–471, §1(3), Nov. 9, 2000, 114 Stat. 2057; amended Pub. L. 111–11, title I, §1102(a)(1), (2), (4), Mar. 30, 2009, 123 Stat. 1002.
 
 Ptarmigan Peak Wilderness, Arapaho National Forest, Colorado.—Pub. L. 103–77, §2(a)(18), Aug. 13, 1993, 107 Stat. 758.
 
 Pusch Ridge Wilderness, Coronado National Forest, Arizona.—Pub. L. 95–237, §2(a), Feb. 24, 1978, 92 Stat. 40.
 
 Quinn Canyon Wilderness, Humboldt National Forest, Nevada.—Pub. L. 101–195, §2(8), Dec. 5, 1989, 103 Stat. 1785.
+
+Raccoon Branch Wilderness, Jefferson National Forest, Virginia.—Pub. L. 100–326, §1(11), as added and amended Pub. L. 111–11, title I, §1102(a)(1), (5), Mar. 30, 2009, 123 Stat. 1002, 1003.
 
 Raggeds Wilderness, Gunnison and White River National Forests, Colorado.—Pub. L. 96–560, title I, §102(a)(16), Dec. 22, 1980, 94 Stat. 3267; Pub. L. 103–77, §2(a)(9), Aug. 13, 1993, 107 Stat. 757; Pub. L. 105–76, §1, Nov. 12, 1997, 111 Stat. 1463.
 
@@ -1074,7 +1150,11 @@ Rawah Wilderness, Roosevelt National Forest, Colorado.—Pub. L. 88–577, §3, 
 
 Rawhide Mountains Wilderness, Mohave and La Paz Counties, Arizona.—Pub. L. 101–628, title I, §101(a)(7), Nov. 28, 1990, 104 Stat. 4469.
 
-Red Buttes Wilderness, Rogue River and Siskiyou National Forests, California and Oregon.—Pub. L. 98–328, §3(14), June 26, 1984, 98 Stat. 274; Pub. L. 98–425, title I, §101(a)(21), Sept. 28, 1984, 98 Stat. 1621.
+Red Butte Wilderness, Washington County, Utah.—Pub. L. 111–11, title I, §1972(a)(1)(L), Mar. 30, 2009, 123 Stat. 1077.
+
+Red Buttes Wilderness, Rogue River and Siskiyou National Forests, California and Oregon.—Pub. L. 98–328, §3(14), June 26, 1984, 98 Stat. 274; Pub. L. 98–425, title I, §101(a)(21), Sept. 28, 1984, 98 Stat. 1621; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
+
+Red Mountain Wilderness, Washington County, Utah.—Pub. L. 111–11, title I, §1972(a)(1)(M), Mar. 30, 2009, 123 Stat. 1077.
 
 Red Mountain Wilderness, Western White Pine County, Nevada.—Pub. L. 109–432, div. C, title III, §323(a)(7), Dec. 20, 2006, 120 Stat. 3032.
 
@@ -1088,7 +1168,7 @@ Resting Spring Range Wilderness, California Desert Conservation Area, of Bureau 
 
 Rice Valley Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(53), Oct. 31, 1994, 108 Stat. 4479.
 
-Rich Hole Wilderness Area, George Washington National Forest, Virginia.—Pub. L. 100–326, §1(2), June 7, 1988, 102 Stat. 584.
+Rich Hole Wilderness Area, George Washington National Forest, Virginia.—Pub. L. 100–326, §1(2), June 7, 1988, 102 Stat. 584; Pub. L. 111–11, title I, §1102(a)(1)–(3), Mar. 30, 2009, 123 Stat. 1002.
 
 Rich Mountain Wilderness, Chattahoochee National Forest, Georgia.—Pub. L. 99–555, §2(4), Oct. 27, 1986, 100 Stat. 3129.
 
@@ -1098,17 +1178,23 @@ Rincon Mountain Wilderness, Coronado National Forest, Arizona.—Pub. L. 98–40
 
 Riverside Mountains Wilderness, California Desert Conservation Area and Yuma District, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(54), Oct. 31, 1994, 108 Stat. 4479.
 
-Rock Creek Wilderness, Siuslaw National Forest, Oregon.—Pub. L. 98–328, §3(6), June 26, 1984, 98 Stat. 273.
+Roaring Plains West Wilderness, Monongahela National Forest, West Virginia.—Pub. L. 111–11, title I, §1001(a)(5), Mar. 30, 2009, 123 Stat. 1000.
+
+Roaring River Wilderness, Oregon.—Pub. L. 111–11, title I, §1202(a)(6), (c)(1), Mar. 30, 2009, 123 Stat. 1008, 1009.
+
+Rock Creek Wilderness, Siuslaw National Forest, Oregon.—Pub. L. 98–328, §3(6), June 26, 1984, 98 Stat. 273; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
 Rock River Canyon Wilderness, Hiawatha National Forest, Michigan.—Pub. L. 100–184, §3(d), Dec. 8, 1987, 101 Stat. 1275.
 
 Rockpile Mountain Wilderness, Mark Twain National Forest, Missouri.—Pub. L. 96–560, title II, §201(b), Dec. 22, 1980, 94 Stat. 3273.
 
+Rocky Mountain National Park Wilderness, Colorado.—Pub. L. 111–11, title I, §§1952(a), (c)(1), 1954(c), Mar. 30, 2009, 123 Stat. 1070, 1071, 1074.
+
 Rodman Mountains Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(55), Oct. 31, 1994, 108 Stat. 4479.
 
-Rogue-Umpqua Divide Wilderness, Umpqua and Rogue River National Forests, Oregon.—Pub. L. 98–328, §3(9), June 26, 1984, 98 Stat. 273.
+Rogue-Umpqua Divide Wilderness, Umpqua and Rogue River National Forests, Oregon.—Pub. L. 98–328, §3(9), June 26, 1984, 98 Stat. 273; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
-Rough Mountain Wilderness Area, George Washington National Forest, Virginia.—Pub. L. 100–326, §1(1), June 7, 1988, 102 Stat. 584.
+Rough Mountain Wilderness Area, George Washington National Forest, Virginia.—Pub. L. 100–326, §1(1), June 7, 1988, 102 Stat. 584; Pub. L. 111–11, title I, §1102(a)(1)–(3), Mar. 30, 2009, 123 Stat. 1002.
 
 Round Island Wilderness, Hiawatha National Forest, Michigan.—Pub. L. 100–184, §3(h), Dec. 8, 1987, 101 Stat. 1275.
 
@@ -1117,6 +1203,8 @@ Ruby Mountains Wilderness, Humboldt National Forest, Nevada.—Pub. L. 101–195
 Russell Fjord Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, §703(a)(7), Dec. 2, 1980, 94 Stat. 2419.
 
 Russian Wilderness, Klamath National Forest, California.—Pub. L. 98–425, title I, §101(a)(22), Sept. 28, 1984, 98 Stat. 1622.
+
+Sabinoso Wilderness, New Mexico.—Pub. L. 111–11, title I, §1602(a), Mar. 30, 2009, 123 Stat. 1041.
 
 Sacatar Trail Wilderness, California Desert Conservation Area and Bakersfield District, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(56), Oct. 31, 1994, 108 Stat. 4479.
 
@@ -1134,7 +1222,7 @@ Saint Mary's Wilderness, George Washington National Forest, Virginia.—Pub. L. 
 
 Salmo-Priest Wilderness, Kaniksu and Colville National Forests, Washington.—Pub. L. 98–339, §3(17), July 3, 1984, 98 Stat. 301.
 
-Salmon-Huckleberry Wilderness, Mount Hood National Forest, Oregon.—Pub. L. 98–328, §3(2), June 26, 1984, 98 Stat. 273.
+Salmon-Huckleberry Wilderness, Mount Hood National Forest, Oregon.—Pub. L. 98–328, §3(2), June 26, 1984, 98 Stat. 273; Pub. L. 111–11, title I, §§1202(a)(7), (c)(3), 1301(a)(1), Mar. 30, 2009, 123 Stat. 1009, 1010, 1025.
 
 Salome Wilderness, Tonto National Forest, Arizona.—Pub. L. 98–406, title I, §101(a)(20), Aug. 28, 1984, 98 Stat. 1487.
 
@@ -1170,7 +1258,7 @@ Santa Lucia Wilderness, Bakersfield District Conservation Area, of Bureau of Lan
 
 Santa Rosa-Paradise Peak Wilderness, Humboldt National Forest, Nevada.—Pub. L. 101–195, §2(14), Dec. 5, 1989, 103 Stat. 1785.
 
-Santa Rosa Wilderness, California Desert Conservation Area, os Bureau of Land Management, and San Bernardino National Forest, California.—Pub. L. 98–425, title I, §101(a)(28), Sept. 28, 1984, 98 Stat. 1623; Pub. L. 103–433, title I, §102(59), Oct. 31, 1994, 108 Stat. 4479.
+Santa Rosa Wilderness, California Desert Conservation Area, os Bureau of Land Management, and San Bernardino National Forest, California.—Pub. L. 98–425, title I, §101(a)(28), Sept. 28, 1984, 98 Stat. 1623; Pub. L. 103–433, title I, §102(59), Oct. 31, 1994, 108 Stat. 4479; Pub. L. 111–11, title I, §1851(b)(1)(D), Mar. 30, 2009, 123 Stat. 1062.
 
 Santa Teresa Wilderness, Coronado National Forest, Arizona.—Pub. L. 98–406, title I, §101(a)(23), Aug. 28, 1984, 98 Stat. 1487; Pub. L. 101–628, title I, §101(k)(1), Nov. 28, 1990, 104 Stat. 4474.
 
@@ -1192,11 +1280,11 @@ Semidi Wilderness, Alaska Maritime National Wildlife Refuge, Alaska Peninsula Un
 
 Seney Wilderness, Seney National Wildlife Refuge, Michigan.—Pub. L. 91–504, §1(e), Oct. 23, 1970, 84 Stat. 1105.
 
-Sequoia-Kings Canyon Wilderness, Sequoia-Kings Canyon National Parks, California.—Pub. L. 98–425, title I, §106(a)(2), Sept. 28, 1984, 98 Stat. 1627.
+Sequoia-Kings Canyon Wilderness, Sequoia and Kings Canyon National Parks, California.—Pub. L. 98–425, title I, §106(a)(2), Sept. 28, 1984, 98 Stat. 1627; Pub. L. 111–11, title I, §1902(2), Mar. 30, 2009, 123 Stat. 1069.
 
 Sespe Wilderness, Los Padres and Angeles National Forests, California.—Pub. L. 102–301, §2(1), June 19, 1992, 106 Stat. 242.
 
-Shawvers Run Wilderness Area, Jefferson and George Washington National Forests, Virginia.—Pub. L. 100–326, §1(4), June 7, 1988, 102 Stat. 584.
+Shawvers Run Wilderness Area, Jefferson and George Washington National Forests, Virginia.—Pub. L. 100–326, §1(4), (18), June 7, 1988, 102 Stat. 584; Pub. L. 111–11, title I, §1102(a)(1)–(3), (5), Mar. 30, 2009, 123 Stat. 1002, 1003.
 
 Sheep Mountain Wilderness, Angeles and San Bernardino National Forests, California.—Pub. L. 98–425, title I, §101(a)(29), Sept. 28, 1984, 98 Stat. 1623.
 
@@ -1224,9 +1312,13 @@ Sipsey Wilderness, Bankhead National Forest, Alabama.—Pub. L. 93–622, §3(a)
 
 Siskiyou Wilderness, Six Rivers, Klamath, and Siskiyou National Forests, California.—Pub. L. 98–425, title I, §101(a)(30), Sept. 28, 1984, 98 Stat. 1623; Pub. L. 109–362, §3(5), Oct. 17, 2006, 120 Stat. 2065.
 
-Sky Lakes Wilderness, Rogue River and Winema National Forests, Oregon.—Pub. L. 98–328, §3(15), June 26, 1984, 98 Stat. 274.
+Sky Lakes Wilderness, Rogue River and Winema National Forests, Oregon.—Pub. L. 98–328, §3(15), June 26, 1984, 98 Stat. 274; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
+
+Slaughter Creek Wilderness, Washington County, Utah.—Pub. L. 111–11, title I, §1972(a)(1)(N), Mar. 30, 2009, 123 Stat. 1077.
 
 Snow Mountain Wilderness, Mendocino National Forest, California.—Pub. L. 98–425, title I, §101(a)(31), Sept. 28, 1984, 98 Stat. 1623; Pub. L. 109–362, §3(1), Oct. 17, 2006, 120 Stat. 2064.
+
+Soda Mountain Wilderness, Cascade-Siskiyou National Monument, Oregon.—Pub. L. 111–11, title I, §1405(a), Mar. 30, 2009, 123 Stat. 1030.
 
 Soldier Creek Wilderness, Nebraska National Forest, Nebraska.—Pub. L. 99–504, title I, §101, Oct. 20, 1986, 100 Stat. 1802.
 
@@ -1234,9 +1326,11 @@ South Baranof Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, t
 
 South Egan Range Wilderness, Southern White Pine County, Nevada.—Pub. L. 109–432, div. C, title III, §323(a)(3), Dec. 20, 2006, 120 Stat. 3031.
 
-South Etolin Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, §703(c)(3), as added by Pub. L. 101–626, title II, §202, Nov. 28, 1990, 104 Stat. 4429.
+South Etolin Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, §703(c)(3), as added Pub. L. 101–626, title II, §202, Nov. 28, 1990, 104 Stat. 4429.
 
 South Fork Eel River Wilderness, Mendocino County, California.—Pub. L. 109–362, §3(10), Oct. 17, 2006, 120 Stat. 2066.
+
+South Fork San Jacinto Wilderness, San Bernardino National Forest, California.—Pub. L. 111–11, title I, §1851(b)(1)(C), Mar. 30, 2009, 123 Stat. 1062.
 
 South Jackson Mountains Wilderness, Nevada.—Pub. L. 106–554, §1(a)(4) \[div. B, title I, §125 \[§8(a)(9)\]\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–357; Pub. L. 107–63, title I, §135(a), Nov. 5, 2001, 115 Stat. 443.
 
@@ -1260,7 +1354,11 @@ Southern Nantahala Wilderness, Chattahoochee and Nantahala National Forests, Nor
 
 Spanish Peaks Wilderness, San Isabel National Forest, Colorado.—Pub. L. 103–77, §2(a)(20), as added Pub. L. 106–456, §2(a), Nov. 7, 2000, 114 Stat. 1955.
 
+Spice Run Wilderness, Monongahela National Forest, West Virginia.—Pub. L. 111–11, title I, §1001(a)(6), Mar. 30, 2009, 123 Stat. 1000.
+
 Spirit Mountain Wilderness, Lake Mead National Recreation Area, Nevada.—Pub. L. 107–282, title II, §202(a)(17), Nov. 6, 2002, 116 Stat. 2001.
+
+Spring Basin Wilderness, Oregon.—Pub. L. 111–11, title I, §1752(a), Mar. 30, 2009, 123 Stat. 1048.
 
 Stateline Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(63), Oct. 31, 1994, 108 Stat. 4480.
 
@@ -1272,9 +1370,11 @@ Stepladder Mountains Wilderness, California Desert Conservation Area, of Bureau 
 
 Stikine-LeConte Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, §703(a)(10), Dec. 2, 1980, 94 Stat. 2419.
 
+Stone Mountain Wilderness, Jefferson National Forest, Virginia.—Pub. L. 100–326, §1(12), as added and amended Pub. L. 111–11, title I, §1102(a)(1), (5), Mar. 30, 2009, 123 Stat. 1002, 1003.
+
 Strawberry Crater Wilderness, Coconino National Forest, Arizona.—Pub. L. 98–406, title I, §101(a)(29), Aug. 28, 1984, 98 Stat. 1488.
 
-Strawberry Mountain Wilderness, Malheur National Forest, Oregon.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–328, §3(27), June 26, 1984, 98 Stat. 275.
+Strawberry Mountain Wilderness, Malheur National Forest, Oregon.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–328, §3(27), June 26, 1984, 98 Stat. 275; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
 Sturgeon River Gorge Wilderness, Ottawa National Forest, Michigan.—Pub. L. 100–184, §3(c), Dec. 8, 1987, 101 Stat. 1274.
 
@@ -1294,13 +1394,15 @@ Sylvania Wilderness, Ottawa National Forest, Michigan.—Pub. L. 100–184, §3(
 
 Table Mountain Wilderness, Toiyabe National Forest, Nevada.—Pub. L. 101–195, §2(11), Dec. 5, 1989, 103 Stat. 1785.
 
-Table Rock Wilderness, Salem District of Bureau of Land Management, Oregon.—Pub. L. 98–328, §3(22), June 26, 1984, 98 Stat. 274.
+Table Rock Wilderness, Salem District of Bureau of Land Management, Oregon.—Pub. L. 98–328, §3(22), June 26, 1984, 98 Stat. 274; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
 Table Top Wilderness, Maricopa and Pinal Counties, Arizona.—Pub. L. 101–628, title I, §101(a)(17), Nov. 28, 1990, 104 Stat. 4470.
 
 Tamarac Wilderness, Tamarac National Wildlife Refuge, Minnesota.—Pub. L. 94–557, §1(i), Oct. 19, 1976, 90 Stat. 2634.
 
 Tatoosh Wilderness, Gifford Pinchot National Forest, Washington.—Pub. L. 98–339, §3(18), July 3, 1984, 98 Stat. 301.
+
+Taylor Creek Wilderness, Washington County, Utah.—Pub. L. 111–11, title I, §1972(a)(1)(O), Mar. 30, 2009, 123 Stat. 1077.
 
 Tebenkof Bay Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, §703(a)(11), Dec. 2, 1980, 94 Stat. 2419.
 
@@ -1314,9 +1416,9 @@ Thousand Lakes Wilderness, Lassen National Forest, California.—Pub. L. 88–57
 
 Three Arch Rocks Wilderness, Three Arch Rocks National Wildlife Refuge, Oregon.—Pub. L. 91–504, §1(b), Oct. 23, 1970, 84 Stat. 1104.
 
-Three Ridges Wilderness, George Washington National Forest, Virginia.—Pub. L. 100–326, §1(8), as added Pub. L. 106–471, §1(3), Nov. 9, 2000, 114 Stat. 2057.
+Three Ridges Wilderness, George Washington National Forest, Virginia.—Pub. L. 100–326, §1(8), as added Pub. L. 106–471, §1(3), Nov. 9, 2000, 114 Stat. 2057; Pub. L. 111–11, title I, §1102(a)(1), (2), Mar. 30, 2009, 123 Stat. 1002.
 
-Three Sisters Wilderness, Deschutes and Willamette National Forests, Oregon.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 95–237, §3(e), Feb. 24, 1978, 92 Stat. 43; Pub. L. 98–328, §3(25), June 26, 1984, 98 Stat. 275.
+Three Sisters Wilderness, Deschutes and Willamette National Forests, Oregon.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 95–237, §3(e), Feb. 24, 1978, 92 Stat. 43; Pub. L. 98–328, §3(25), June 26, 1984, 98 Stat. 275; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
 Thunder Ridge Wilderness, Jefferson National Forest, Virginia.—Pub. L. 98–586, §2(8), Oct. 30, 1984, 98 Stat. 3106.
 
@@ -1368,7 +1470,7 @@ Ventana Wilderness, Los Padres National Forest, California.—Pub. L. 91–58, A
 
 Wabayuma Peak Wilderness, Mohave County, Arizona.—Pub. L. 101–628, title I, §101(a)(32), Nov. 28, 1990, 104 Stat. 4472.
 
-Waldo Lake Wilderness, Willamette National Forest, Oregon.—Pub. L. 98–328, §3(10), June 26, 1984, 98 Stat. 273.
+Waldo Lake Wilderness, Willamette National Forest, Oregon.—Pub. L. 98–328, §3(10), June 26, 1984, 98 Stat. 273; Pub. L. 111–11, title I, §1301(a)(1), Mar. 30, 2009, 123 Stat. 1025.
 
 Wambaw Creek Wilderness, Francis Marion National Forest, South Carolina.—Pub. L. 96–560, title II, §201(h), Dec. 22, 1980, 94 Stat. 3273.
 
@@ -1416,6 +1518,8 @@ White Canyon Wilderness, Pinal County, Arizona.—Pub. L. 101–628, title I, §
 
 White Mountain Wilderness, Lincoln National Forest, New Mexico.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 96–550, title I, §102(a)(11), Dec. 19, 1980, 94 Stat. 3222.
 
+White Mountains Wilderness, California.—Pub. L. 111–11, title I, §1802(5), Mar. 30, 2009, 123 Stat. 1054.
+
 White Pine Range Wilderness, Western White Pine County, Nevada.—Pub. L. 109–432, div. C, title III, §323(a)(9), Dec. 20, 2006, 120 Stat. 3032.
 
 White Rock Range Wilderness, of Bureau of Land Management, Nevada.–Pub. L. 108–424, title II, §203(a)(9), Nov. 30, 2004, 118 Stat. 2408.
@@ -1453,4 +1557,6 @@ Yolla Bolly-Middle Eel Wilderness, Ukiah District Conservation Area, of Bureau o
 Yosemite Wilderness, Yosemite National Park Wilderness, California.—Pub. L. 98–425, title I, §106(a)(1), Sept. 28, 1984, 98 Stat. 1626.
 
 Yuki Wilderness, Mendocino National Forest, and Lake and Mendocino Counties, California.—Pub. L. 109–362, §3(3), Oct. 17, 2006, 120 Stat. 2065.
+
+Zion Wilderness, Washington and Iron Counties, Utah.—Pub. L. 111–11, title I, §1973, Mar. 30, 2009, 123 Stat. 1080.
 

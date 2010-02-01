@@ -158,7 +158,7 @@ For purposes of this section—
 
 #### (B) Reorganizations, etc.
 
-&emsp;&emsp;An exchange described in section 356 which is treated as a dividend shall be treated as aredemption of stock for purposes of applying subparagraph (A).
+&emsp;&emsp;An exchange described in section 356 which is treated as a dividend shall be treated as a redemption of stock for purposes of applying subparagraph (A).
 
 #### (2) Qualifying dividends
 
@@ -274,7 +274,7 @@ In general.—Except as provided in subparagraph (B), any reduction in basis und
 
 “(B)
 
-Special rule for computing extraordinary dividend.—In determining a taxpayer's adjusted basis for purposes of subsection (c)(1), any reduction in basis under subsection (a)(1) by reason of a prior distribution which was an extraordinary dividend shall be treated as occurring at the beginning of the ex-dividend date for such distribution.”
+Special rule for computing extraordinary dividend.—In determining a taxpayer's adjusted basisfor purposes of subsection (c)(1), any reduction in basis under subsection (a)(1) by reason of a prior distribution which was an extraordinary dividend shall be treated as occurring at the beginning of the ex-dividend date for such distribution.”
 
 Subsec. (d)(3). Pub. L. 105–34, §1604(d)(1), substituted “subsection (a)” for “subsection (a)(2)”.
 
@@ -350,7 +350,7 @@ Subsecs. (e), (f). Pub. L. 99–514, §614(e), added subsec. (e) and redesignate
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -372,7 +372,7 @@ Transition rule.—The amendments made by this section shall not apply to any di
 
 Certain dividends not pursuant to certain redemptions.—In determining whether the amendment made by subsection (a) applies to any extraordinary dividend other than a dividend treated as an extraordinary dividend under section 1059(e)(1) of the Internal Revenue Code of 1986 (as amended by this Act), paragraphs (1) and (2) shall be applied by substituting ‘September 13, 1995’ for ‘May 3, 1995’.”
 
-Amendment by section 1013(b) of Pub. L. 105–34 applicable to distributions and acquisitions after June 8, 1997, with certain exceptions, see section 1013(d) of Pub. L. 105–34, set out as a note under section 304 of this title.
+Amendment by section 1013(b) of Pub. L. 105–34 applicable to distributions and acquisitions after June 8, 1997, with certain exceptions, see section 1013(d) of Pub.L. 105–34, set out as a note under section 304 of this title.
 
 #### Effective Date of 1989 Amendment
 

@@ -18,6 +18,7 @@
 - [&sect; 01693j - Suspension of obligations](%C2%A7%2001693j%20-%20Suspension%20of%20obligations.md)
 - [&sect; 01693k - Compulsory use of electronic fund transfers](%C2%A7%2001693k%20-%20Compulsory%20use%20of%20electronic%20fund%20transfers.md)
 - [&sect; 01693l - Waiver of rights](%C2%A7%2001693l%20-%20Waiver%20of%20rights.md)
+- [&sect; 01693l&#8211;1 - General-use prepaid cards, gift certificates, and store gift cards](%C2%A7%2001693l%E2%80%931%20-%20General-use%20prepaid%20cards%2C%20gift%20certificates%2C%20and%20store%20gift%20cards.md)
 - [&sect; 01693m - Civil liability](%C2%A7%2001693m%20-%20Civil%20liability.md)
 - [&sect; 01693n - Criminal liability](%C2%A7%2001693n%20-%20Criminal%20liability.md)
 - [&sect; 01693o - Administrative enforcement](%C2%A7%2001693o%20-%20Administrative%20enforcement.md)

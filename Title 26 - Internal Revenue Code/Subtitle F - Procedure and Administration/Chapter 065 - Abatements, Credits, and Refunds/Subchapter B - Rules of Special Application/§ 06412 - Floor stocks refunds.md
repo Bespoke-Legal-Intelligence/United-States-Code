@@ -38,7 +38,7 @@ All provisions of law, including penalties, applicable in respect of the taxes i
 
 1987—Subsec. (a)(1). Pub. L. 100–17 substituted “1993” for “1988” and “1994” for “1989” wherever appearing.
 
-1984—Subsec. (a)(1). Pub. L. 98–369, §735(c)(12)(A), (B), substituted “Tires and gasoline” for “Trucks, tires, tubes, tread rubber, and gasoline” in heading, and in text substituted “Where before October 1, 1988, any article subject to the tax imposed by section 4071 or 4081 has been sold by the manufacturer, producer, or importer and on such date is held by a dealer and has not been used and is intended for sale,” for “Where before October 1, 1988, any article subject to the tax imposed by section 4061(a)(1), 4071((a)(1), (3) or (4), or 4081 has been sold by the manufacturer, producer, or importer and on such date is held by a dealer and has not been used and is intended for sale (or, in the case of tread rubber, is intended for sale or is held for use),”, andstruck out provision that no credit or refund shall be allowable under this paragraph with respect to inner tubes for bicycle tires (as defined in section 4221(e)(4)(B)).
+1984—Subsec. (a)(1). Pub. L. 98–369, §735(c)(12)(A), (B), substituted “Tires and gasoline” for “Trucks, tires, tubes, tread rubber, and gasoline” in heading, and in text substituted “Where before October 1, 1988, any article subject to the tax imposed by section 4071 or 4081 has been sold by the manufacturer, producer, or importer and on such date is held by a dealer and has not been used and is intended for sale,” for “Where before October 1, 1988, any article subject to the tax imposed by section 4061(a)(1), 4071((a)(1), (3) or (4), or 4081 has been sold by the manufacturer, producer, or importer and on such date is held by a dealer and has not beenused and is intended for sale (or, in the case of tread rubber, is intended for sale or is held for use),”, and struck out provision that no credit or refund shall be allowable under this paragraph with respect to inner tubes for bicycle tires (as defined in section 4221(e)(4)(B)).
 
 Subsec. (a)(2)(A). Pub. L. 98–369, §735(c)(12)(C), substituted “The term ‘dealer’ includes a wholesaler, jobber, distributor, or retailer” for “The term ‘dealer’ includes a wholesaler, jobber, distributor, or retailer, or, in the case of tread rubber subject to tax under section 4071(a)(4), includes any person (other than the manufacturer, producer, or importer thereof) who holds such tread rubber for sale or use”.
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 103–66 effective Jan. 1, 1994, see section 13242(e) of Pu
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions ofthe Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
+Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
 
 #### Effective Date of 1978 Amendment
 

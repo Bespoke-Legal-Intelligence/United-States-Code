@@ -4,7 +4,7 @@
 
 The permit program required by section 7502(b)(6) <sup>1</sup> of this title shall provide that permits to construct and operate may be issued if—
 
-&emsp;(1) in accordance with regulations issued by the Administrator for the determination of baseline emissions in a manner consistent with the assumptions underlying the applicable implementation plan approved under section 7410 of this title and this part, the permitting agency determines that—
+&emsp;(1) in accordance with regulations issued by the Administrator for the determination of baseline emissions in a manner consistentwith the assumptions underlying the applicable implementation plan approved under section 7410 of this title and this part, the permitting agency determines that—
 
 &emsp;&emsp;(A) by the time the source is to commence operation, sufficient offsetting emissions reductions have been obtained, such that total allowable emissions from existing sources in the region, from new or modified sources which are not major emitting facilities, and from the proposed source will be sufficiently less than total emissions from existing sources (as determined in accordance with the regulations under this paragraph) prior to the application for such permit to construct or modify so as to represent (when considered together with the plan provisions required under section 7502 of this title) reasonable further progress (as defined in section 7501 of this title); or
 

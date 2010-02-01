@@ -12,5 +12,5 @@ Section is based on section 102 of title I of H.R. 4390 (Legislative Branch Appr
 
 #### Effective Date
 
-Section 106 of Pub. L. 100–202 provided in part that this section is effective on date of enactment \[Oct. 12, 1979\] of the “pertinent joint resolution” making continuing appropriations for fiscal year 1980 \[Pub. L. 96–86\].
+Section 106 of Pub. L. 100–202 provided in part that this section is effective on date of enactment \[Oct. 12,1979\] of the “pertinent joint resolution” making continuing appropriations for fiscal year 1980 \[Pub. L. 96–86\].
 

@@ -16,7 +16,7 @@
 
 &emsp;(E) reimbursements of uncollectible withdrawal liability under section 1402 of this title.
 
-> The corporation may revise such schedules whenever it determines that revised schedules are necessary. Except as provided in section 1322a(f) of this title, in order to place a revised schedule described in subparagraph (A) or (B) in effect, the corporation shall proceed in accordance with subsection (b)(1) of this section, and such schedule shall apply only to plan years beginning more than 30 days after the date on which a joint resolution approving such revised schedule is enacted.
+> The corporation may revise such schedules whenever it determines that revised schedules are necessary. Except as provided in section 1322a(f) of this title, in order to place a revised schedule described in subparagraph (A) or (B) in effect, the corporation shall proceed in accordance with subsection (b)(1) of this section, and such schedule shall apply only to plan years beginning more than 30 days after the date onwhich a joint resolution approving such revised schedule is enacted.
 
 (3)(A) Except as provided in subparagraph (C), the annual premium rate payable to the corporation by all plans for basic benefits guaranteed under this subchapter is—
 
@@ -62,7 +62,7 @@
 
 (E)(i) Except as provided in subparagraph (H), the additional premium determined under this subparagraph with respect to any plan for any plan year shall be an amount equal to the amount determined under clause (ii) divided by the number of participants in such plan as of the close of the preceding plan year.
 
-(ii) The amount determined under this clause for any plan year shall be an amount equal to$9.00 for each $1,000 (or fraction thereof) of unfunded vested benefits under the plan as of the close of the preceding plan year.
+(ii) The amount determined under this clause for any plan year shall be an amount equal to $9.00 for each $1,000 (or fraction thereof) of unfunded vested benefits under the plan as of the close of the preceding plan year.
 
 (iii) For purposes of clause (ii), the term “unfunded vested benefits” means, for a plan year, the excess (if any) of—
 
@@ -120,7 +120,7 @@
 
 &emsp;(ii) an additional charge based on a rate applicable to the present value of the basic benefits of the plan which are guaranteed.
 
-> The rate for the additional charge referred to in clause (ii) shall be set by the corporation for every year at a level which the corporation estimates will yield total revenue approximately equal to the total revenue to be derived by thecorporation from the charges referred to in clause (i) of this subparagraph.
+> The rate for the additional charge referred to in clause (ii) shall be set by the corporation for every year at a level which the corporation estimates will yield total revenue approximately equal to the total revenue to be derived by the corporation from the charges referred to in clause (i) of this subparagraph.
 
 (C) The corporation may establish annual premiums for single-employer plans based on—
 
@@ -186,7 +186,7 @@ Coordination with section 1307.—
 
 (5) If a committee to which has been referred a resolution has not reported it before the expiration of 10 calendar days after its introduction, it shall then (but not before) be in order to move to discharge the committee from further consideration of that resolution, or to discharge the committee from further consideration of any other resolution with respect to the proposed adjustment which has been referred to the committee. The motion to discharge may be made only by a person favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same proposed rate), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution with respect to the same proposed rate.
 
-(6) When a committee has reported, or has been discharged from further consideration of a resolution, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. Debate on the resolution shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
+(6) When a committee has reported, or has been discharged from further consideration of a resolution, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. Anamendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. Debate on the resolution shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
 
 (7) Motions to postpone, made with respect to the discharge from committee, or the consideration of, a resolution and motions to proceed to the consideration of other business shall be decided without debate. Appeals from the decisions of the Chair relating to the application of the rules of the Senate or the House of Representatives, as the case may be, to the procedure relating to a resolution shall be decided without debate.
 
@@ -236,7 +236,7 @@ Subsec. (a)(3)(B). Pub. L. 109–171, §8101(c), substituted “clause (iii) or 
 
 Subsec. (a)(3)(E)(i). Pub. L. 109–280, §405(a)(1), substituted “Except as provided in subparagraph (H), the additional” for “The additional”.
 
-Subsec. (a)(3)(E)(iii). Pub. L. 109–280, §401(a)(1), added cl. (iii) and struck out former cl. (iii), which defined“unfunded vested benefits” for purposes of clause (ii) and set forth provisions relating to the interest rate used in valuing vested benefits, the value of the plan's assets in the case of any plan year for which the applicable percentage is 100 percent, the applicable percentage in the case of plan years beginning after Dec. 31, 2001, and before Jan. 1, 2004, and the annual yield taken into account in the case of plan years beginning after Dec. 31, 2003, and before Jan. 1, 2008.
+Subsec. (a)(3)(E)(iii). Pub. L. 109–280, §401(a)(1), added cl. (iii) and struck out former cl. (iii), which defined “unfunded vested benefits” for purposes of clause (ii) and set forth provisions relating to the interest rate used in valuing vested benefits, the value of the plan's assets in the case of any plan year for which the applicable percentage is 100 percent, the applicable percentage in the case of plan years beginning after Dec. 31, 2001, and before Jan. 1, 2004, and the annual yield taken into account in the case of plan years beginning after Dec. 31, 2003, and before Jan. 1, 2008.
 
 Subsec. (a)(3)(E)(iii)(V). Pub. L. 109–280, §301(a)(3), substituted “2008” for “2006”.
 
@@ -426,7 +426,7 @@ Section 11005(e) of Pub. L. 99–272 provided that:
 
 “(1)
 
-Notice of premium increase.—Not later than 30 days after the date of the enactment of this Act \[Apr.7, 1986\], the Pension Benefit Guaranty Corporation shall send a notice to the plan administrator of each single-employer plan affected by the premium increase established by the amendment made by subsection (a)(1) \[amending this section\]. Such notice shall describe such increase and the requirements of this subsection.
+Notice of premium increase.—Not later than 30 days after the date of the enactment of this Act \[Apr. 7, 1986\], the Pension Benefit Guaranty Corporation shall send a notice to the plan administrator of each single-employer plan affected by the premium increase established by the amendment made by subsection (a)(1) \[amending this section\]. Such notice shall describe such increase and the requirements of this subsection.
 
 “(2)
 
@@ -438,7 +438,7 @@ Enforcement.—For purposes of enforcement, the requirements of paragraphs (1) a
 
 #### Single-Employer Pension Plan Termination Insurance Premium Study
 
-Section 11017(a) of Pub. L. 99–272 directed Pension Benefit Guaranty Corporation to conduct a study of, and submit to an advisory council not later than one year after Apr. 7, 1986, a report on the premiums established under the single-employer pension plan termination insurance program under this subchapter, including (1) the long-term stability of the program, (2) alternatives with respect to proposals for changes in the premium levels under such program, (3) methods currently used in projecting future costs, (4) alternative methods of projecting such future costs, (5) methods currently used in determining premiums needed to allocate and adequately fund such future costs, along with any alternative methods of making such premium determinations, and (6) alternative premium bases upon which some or all of such projected future costs would be allocated on an exposure-related or risk-related computation; and further provided for submission of the advisory council's report to Congress 180 days after submission of the Corporation's report to the advisory council, as well as the cooperation and consultation with other Federal agencies in compilation of reports.
+Section 11017(a) of Pub. L. 99–272 directed Pension Benefit Guaranty Corporation to conduct a study of, and submit to an advisory council not later than oneyear after Apr. 7, 1986, a report on the premiums established under the single-employer pension plan termination insurance program under this subchapter, including (1) the long-term stability of the program, (2) alternatives with respect to proposals for changes in the premium levels under such program, (3) methods currently used in projecting future costs, (4) alternative methods of projecting such future costs, (5) methods currently used in determining premiums needed to allocate and adequately fund such future costs, along with any alternative methods of making such premium determinations, and (6) alternative premium bases upon which some or all of such projected future costs would be allocated on an exposure-related or risk-related computation; and further provided for submission of the advisory council's report to Congress 180 days after submission of the Corporation's report to the advisory council, as well as the cooperation and consultation with other Federal agencies in compilation of reports.
 
 #### Studies and Reports Respecting Graduated Premium Rate Schedules and Union Mandated Withdrawals From Multiemployer Pension Plans
 

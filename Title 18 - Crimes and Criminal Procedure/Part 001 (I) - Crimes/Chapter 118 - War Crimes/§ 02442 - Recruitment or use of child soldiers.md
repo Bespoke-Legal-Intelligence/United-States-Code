@@ -18,7 +18,7 @@ Penalty.—Whoever violates, or attempts or conspires to violate, subsection (a)
 
 Jurisdiction.—There is jurisdiction over an offense described in subsection (a), and any attempt or conspiracy to commit such offense, if—
 
-&emsp;(1) the alleged offender is a national of the United States (as defined in section 101(a)(22)of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22))) or an alien lawfully admitted for permanent residence in the United States (as defined in section 101(a)(20) of such Act (8 U.S.C. 1101(a)(20)); <sup>1</sup>
+&emsp;(1) the alleged offender is a national of the United States (as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22))) or an alien lawfully admitted for permanent residence in the United States (as defined in section 101(a)(20) of such Act (8 U.S.C. 1101(a)(20)); <sup>1</sup>
 
 &emsp;(2) the alleged offender is a stateless person whose habitual residence is in the United States;
 
@@ -40,7 +40,7 @@ Participate actively in hostilities.—The term “participate actively in hosti
 
 &emsp;(2)
 
-Armed force or group.—The term “armed force or group” means any army, militia, or other military organization, whether or not it is state-sponsored, excluding any group assembled solely for nonviolent political association.
+Armed force or group.—The term “armed force or group” means any army, militia, or other military organization, whether or not it is state-sponsored, excluding any groupassembled solely for nonviolent political association.
 
 (Added Pub. L. 110–340, §2(a)(1), Oct. 3, 2008, 122 Stat. 3735.)
 

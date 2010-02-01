@@ -20,5 +20,5 @@ The requirements referred to in subsection (a) of this section are the following
 
 #### Prior Provisions
 
-A prior section 253 of Pub. L. 87–195 was classified to section 2213 of this title, prior to repeal by Pub. L.95–424, title I, §102(g)(1)(A), title VI, §605, Oct. 6, 1978, 92 Stat. 942, 961, effective Oct. 1, 1978.
+A prior section 253 of Pub. L. 87–195 was classified to section 2213 of this title, prior to repeal by Pub. L. 95–424, title I, §102(g)(1)(A), title VI, §605, Oct. 6, 1978, 92 Stat. 942, 961, effective Oct. 1, 1978.
 

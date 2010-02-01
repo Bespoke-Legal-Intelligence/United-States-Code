@@ -40,7 +40,7 @@ The Ethics in Government Act of 1978, referred to in subsec. (h), is Pub. L. 95�
 
 #### Amendments
 
-2000—Subsecs. (h), (i). Pub. L. 106–398 redesignated subsec. (i) as (h) and struck out former subsec. (h) which read as follows: “Not later than March 15 of each year, the Advisory Board shall submit to the Congress an annual report setting forth its actions during the year preceding the year in which the report is submitted and any recommendations, including recommendations on projects, programs, and information exchange and recommendations for legislation, that the Advisory Board considers appropriate regarding the Strategic Environmental Research and Development Program.”
+2000—Subsecs. (h), (i). Pub. L. 106–398 redesignated subsec. (i) as (h) and struck out former subsec. (h) which read as follows: “Not later than March 15 of each year, the Advisory Board shall submit to the Congress an annual report setting forth its actions during the year preceding the year in which the report is submitted and any recommendations, including recommendations on projects, programs, and information exchange and recommendations for legislation, that the AdvisoryBoard considers appropriate regarding the Strategic Environmental Research and Development Program.”
 
 1997—Subsec. (b)(4). Pub. L. 105–85 substituted “not less than two and not more than four” for “three years”.
 

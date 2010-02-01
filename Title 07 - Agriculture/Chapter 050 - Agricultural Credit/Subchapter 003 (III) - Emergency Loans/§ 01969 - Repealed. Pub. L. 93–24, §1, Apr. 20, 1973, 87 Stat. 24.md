@@ -8,5 +8,5 @@ Section 8 of Pub. L. 93–24 provided that: “Notwithstanding the repeal herein
 
 #### Continuation of Secretary's Authority With Respect to Natural Disasters Occurring After December 26, 1972, and Prior to April 20, 1973
 
-Pub. L. 93–237, §4, Jan. 2, 1974, 87 Stat. 1024, provided that: “Notwithstanding the provisions of Public Law 93–24 \[which repealed this section\], the Secretary of Agriculture shall continue to exercise his authority with respect to natural disasters which occurred after December 26, 1972, but prior to April 20, 1973, in accordance with the provisions of section 5 of Public Law 92–385 \[this section\] as such section was in effect prior to April 20, 1973.”
+Pub. L. 93–237, §4, Jan. 2, 1974, 87 Stat. 1024, provided that: “Notwithstanding the provisions of Public Law93–24 \[which repealed this section\], the Secretary of Agriculture shall continue to exercise his authority with respect to natural disasters which occurred after December 26, 1972, but prior to April 20, 1973, in accordance with the provisions of section 5 of Public Law 92–385 \[this section\] as such section was in effect prior to April 20, 1973.”
 

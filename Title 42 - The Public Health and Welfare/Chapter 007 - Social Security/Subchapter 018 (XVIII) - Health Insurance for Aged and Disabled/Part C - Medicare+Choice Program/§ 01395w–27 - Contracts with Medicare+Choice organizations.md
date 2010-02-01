@@ -98,7 +98,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;For the purposes of this paragraph, the term “party in interest” means—
 
-&emsp;&emsp;&emsp;(i) any director, officer, partner, or employee responsible for management or administration of a Medicare+Choice organization, any person who is directly or indirectly the beneficial owner of more than 5 percent of the equity of the organization, any person who is the beneficial owner of a mortgage, deed of trust, note, or other interest secured by, and valuing more than 5 percent of the organization, and, in the case of a Medicare+Choice organization organized as a nonprofit corporation, an incorporator or member of such corporation under applicable State corporation law;
+&emsp;&emsp;&emsp;(i) any director, officer, partner, or employee responsible for management or administration of a Medicare+Choice organization, any person who is directly or indirectly the beneficial owner of more than 5 percent of the equity of the organization, any person who is the beneficial owner of a mortgage, deed of trust, note, or other interest secured by, and valuing more than 5 percent of the organization, and, in thecase of a Medicare+Choice organization organized as a nonprofit corporation, an incorporator or member of such corporation under applicable State corporation law;
 
 &emsp;&emsp;&emsp;(ii) any entity in which a person described in clause (i)—
 
@@ -150,7 +150,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;In any fiscal year the fees collected by the Secretary under subparagraph (B) shall not exceed the lesser of—
 
-&emsp;&emsp;&emsp;(i) the estimated costs to be incurred by the Secretary in the fiscal year in carrying out the activities described in section 1395w–21 of this title and section1395w–101(c) of this title and section 1395b–4 of this title; or
+&emsp;&emsp;&emsp;(i) the estimated costs to be incurred by the Secretary in the fiscal year in carrying out the activities described in section 1395w–21 of this title and section 1395w–101(c) of this title and section 1395b–4 of this title; or
 
 &emsp;&emsp;&emsp;(ii)(I) $200,000,000 in fiscal year 1998;
 
@@ -278,7 +278,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (2) Exception for imminent and serious risk to health
 
-&emsp;Paragraph (1) shall not apply if the Secretary determines that a delay in termination,resulting from compliance with the procedures specified in such paragraph prior to termination, would pose an imminent and serious risk to the health of individuals enrolled under this part with the organization.
+&emsp;Paragraph (1) shall not apply if the Secretary determines that a delay in termination, resulting from compliance with the procedures specified in such paragraph prior to termination, would pose an imminent and serious risk to the health of individuals enrolled under this part with the organization.
 
 #### (i) Medicare+Choice program compatibility with employer or union group health plans
 
@@ -290,7 +290,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;To facilitate the offering of MA plans by employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such MA plans. Notwithstanding section 1395w–21(g) of this title, an MA plan described in the previous sentence may restrict the enrollment of individuals under this part to individuals who are beneficiaries and participants in such plan.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566; Pub. L. 108–173, title II, §§222(j), (k), (<i>l</i>)(3)(C), 237(c), title IX, §900(e)(1)(I), Dec. 8, 2003, 117 Stat. 2205, 2207, 2213, 2372; Pub. L. 110–275, title I, §§164(d)(2), 171(b), 172(a)(2), 173(b), July 15, 2008, 122 Stat. 2574, 2580, 2581.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B,§1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566; Pub. L. 108–173, title II, §§222(j), (k), (<i>l</i>)(3)(C), 237(c), title IX, §900(e)(1)(I), Dec. 8, 2003, 117 Stat. 2205, 2207, 2213, 2372; Pub. L. 110–275, title I, §§164(d)(2), 171(b), 172(a)(2), 173(b), July 15, 2008, 122 Stat. 2574, 2580, 2581.)
 
 #### References in Text
 

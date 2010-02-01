@@ -34,7 +34,7 @@
 
 > At no time may the number of appointments or assignments of United States citizens in effect under paragraph (2) for periods in excess of five years exceed fifteen percent of the total of all appointments and assignments of United States citizens then in effect under paragraph (2).
 
-(6) Notwithstanding the limitation set forth in paragraph (2)(A) on the length of an appointment or assignment under paragraph (2) and notwithstanding the limitations set forth in paragraph (5) on the circumstances under which such an appointment or assignment may exceed five years, the Director of the Peace Corps, under special circumstances, may personally approve an extension of an appointment or assignment under paragraph (2) for not more than one year on an individual basis.
+(6) Notwithstanding the limitation set forth in paragraph (2)(A) on the length of an appointment or assignment under paragraph (2) and notwithstanding the limitations set forth inparagraph (5) on the circumstances under which such an appointment or assignment may exceed five years, the Director of the Peace Corps, under special circumstances, may personally approve an extension of an appointment or assignment under paragraph (2) for not more than one year on an individual basis.
 
 #### (b) Repealed. Pub. L. 96–465, title II, §2205(9), Oct. 17, 1980, 94 Stat. 2160
 
@@ -66,7 +66,7 @@ Subsec. (a)(5), (6). Pub. L. 99–83, §1103(a)(2), added pars. (5) and (6).
 
 1980—Subsec. (a)(1). Pub. L. 96–465, §2202(b)(1)(A), substituted “which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates established under section 402 or 403 of the Foreign Service Act of 1980” for “, who shall receive compensation at any of the rates provided for persons appointed to the Foreign Service Reserve and Staff under the Foreign Service Act of 1946, as amended (22 U.S.C. 801 et seq.)” and “section 310” for “section 528” and struck out reference to the applicability of section 1005 of the Foreign Service Act of 1946.
 
-Subsec. (a)(2). Pub. L. 96–465, §2202(b)(1)(B), among other changes, substituted references to the ForeignService Act of 1980 for references to the Foreign Service Act of 1946 and references to class 9 for class 10, and inserted provision relating to section 206(a)(1) of title 29.
+Subsec. (a)(2). Pub. L. 96–465, §2202(b)(1)(B), among other changes, substituted references to the Foreign Service Act of 1980 for references to the Foreign Service Act of 1946 and references to class 9 for class 10, and inserted provision relating to section 206(a)(1) of title 29.
 
 Subsec. (a)(4). Pub. L. 96–465, §2202(b)(2), among other changes, struck out provisions relating to the time Congress enacts Foreign Service personnel reform legislation, inserted reference to September 30, 1982, and substituted “such individual” for “such person” and “continuous basis without a break in service of more than three days” for “substantially continuous basis”.
 
@@ -130,7 +130,7 @@ Section 1103(b) of Pub. L. 99–83, which required the Director of the Peace Cor
 
 #### Benefits for Persons Appointed or Assigned Under Subsec. (a)
 
-Persons appointed, employed, or assigned under subsec. (a) of this section are not, unless otherwise agreed by the agency in which such benefits may be exercised, entitled to the benefits provided by section 928 of this title in cases in which their service under the appointment, employment, or assignment exceeds thirtymonths, see section 1–401 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, set out as a note under section 2501 of this title.
+Persons appointed, employed, or assigned under subsec. (a) of this section are not, unless otherwise agreed by the agency in which such benefits may be exercised, entitled to the benefits provided by section 928 of this title in cases in which their service under the appointment, employment, or assignment exceeds thirty months, see section 1–401 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, set out as a note under section 2501 of this title.
 
 #### Transfer of Washington Headquarters Personnel from Civil Service to Foreign Service Appointments
 

@@ -106,7 +106,7 @@ A prior section 4042, act Aug. 16, 1954, ch. 736, 68A Stat. 478, provided a cros
 
 #### Amendments
 
-2007—Subsec. (b)(3). Pub. L. 110–172 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The Leaking Underground StorageTank Trust Fund financing rate under paragraph (2)(B) shall not apply to the use of any fuel if tax under section 4041(d) was imposed on the sale of such fuel or is imposed on such use.”
+2007—Subsec. (b)(3). Pub. L. 110–172 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The Leaking Underground Storage Tank Trust Fund financing rate under paragraph (2)(B) shall not apply to the use of any fuel if tax under section 4041(d) was imposed on the sale of such fuel or is imposed on such use.”
 
 2004—Subsec. (b)(2)(C). Pub. L. 108–357 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “The deficit reduction rate is 4.3 cents per gallon.”
 
@@ -127,7 +127,7 @@ Subsec. (b)(2)(C). Pub. L. 103–66, §13241(d)(2), added subpar. (C).
 | <b>“If the use occurs—</b> | <b>The tax is—</b> |
 | :--- | ---: |
 | After September 30, 1980 and before October 1, 1981 | 4 cents a gallon&nbsp;&nbsp; |
-| After September 30, 1981 and before October 1, 1983 | 6 cents a gallon&nbsp;&nbsp; |
+| After September 30, 1981 and before October 1, 1983 | 6 cents a gallon   |
 | After September 30, 1983 and before October 1, 1985 | 8 cents a gallon&nbsp;&nbsp; |
 | After September 30, 1985 | 10 cents a gallon”. |
 

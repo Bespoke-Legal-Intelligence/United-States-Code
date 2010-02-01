@@ -6,7 +6,7 @@ Preemption After Decision.—A State may not enforce a State law or regulation o
 
 (b)
 
-Submission of Regulation.—A State receiving funds made available under section 31104 that enacts a State law or issues a regulation on commercial motor vehicle safety shall submit a copy of the law or regulation to the Secretary immediately after the enactment or issuance.
+Submission of Regulation.—A State receiving funds made available under section 31104that enacts a State law or issues a regulation on commercial motor vehicle safety shall submit a copy of the law or regulation to the Secretary immediately after the enactment or issuance.
 
 (c)
 

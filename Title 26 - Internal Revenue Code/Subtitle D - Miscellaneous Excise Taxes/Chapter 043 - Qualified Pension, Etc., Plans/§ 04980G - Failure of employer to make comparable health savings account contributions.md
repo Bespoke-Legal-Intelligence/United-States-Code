@@ -10,7 +10,7 @@ Rules and requirements similar to the rules and requirements of section 4980E sh
 
 #### (c) Regulations
 
-The Secretary shall issue regulations to carry out the purposes of this section, including regulations providing special rules for employers who make contributions to Archer MSAs and health savings accounts during the calendar year.
+The Secretary shall issue regulations to carry out the purposes of this section, including regulations providing special rules for employers who make contributions to Archer MSAs andhealth savings accounts during the calendar year.
 
 #### (d) Exception
 

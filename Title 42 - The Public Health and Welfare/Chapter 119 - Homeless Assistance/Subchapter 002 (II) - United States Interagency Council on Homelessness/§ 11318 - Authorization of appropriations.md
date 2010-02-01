@@ -1,14 +1,14 @@
 ### §11318. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this subchapter $1,500,000 for fiscal year 1993 and $1,563,000 for fiscal year 1994.
+There are authorized to be appropriated to carry out this subchapter $3,000,000 for fiscal year 2010 and such sums as may be necessary for fiscal years 2011. Any amounts appropriated to carry out this subchapter shall remain available until expended.
 
-(Pub. L. 100–77, title II, §208, July 22, 1987, 101 Stat. 489; Pub. L. 100–628, title II, §204, Nov. 7, 1988, 102 Stat. 3228; Pub. L. 101–645, title I, §102, Nov. 29, 1990, 104 Stat. 4674; Pub. L. 102–550, title XIV, §1421, Oct. 28, 1992, 106 Stat. 4043.)
+(Pub. L. 100–77, title II, §208, as added Pub. L. 111–22, div. B, §1004(a)(6), May 20, 2009, 123 Stat. 1668.)
 
-#### Amendments
+#### Prior Provisions
 
-1992—Pub. L. 102–550 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to carry out this subchapter $1,200,000 for fiscal year 1991 and $1,300,000 for fiscal year 1992.”
+A prior section 11318, Pub. L. 100–77, title II, §208, July 22, 1987, 101 Stat. 489; Pub. L. 100–628, title II, §204, Nov. 7, 1988, 102 Stat. 3228; Pub. L. 101–645, title I, §102, Nov. 29, 1990, 104 Stat. 4674; Pub. L. 102–550, title XIV, §1421, Oct. 28, 1992, 106 Stat. 4043, which authorized appropriations for fiscal years 1993 and 1994, was repealed by Pub. L. 111–22, div. B, §1004(a)(6), (b), May 20, 2009, 123 Stat. 1668, effective on, and applicable beginning on, May 20, 2009.
 
-1990—Pub. L. 101–645 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to carry out this subchapter $1,100,000 for fiscal year 1989 and $1,200,000 for fiscal year 1990.”
+#### Effective Date
 
-1988—Pub. L. 100–628 amended section generally, substituting “$1,100,000 for fiscal year 1989 and $1,200,000 for fiscal year 1990” for “$200,000 for fiscal year 1987 and $2,500,000 for fiscal year 1988”.
+Section effective on, and applicable beginning on, May 20, 2009, see section 1004(b) of Pub L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11311 of this title.
 

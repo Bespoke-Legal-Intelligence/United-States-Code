@@ -52,7 +52,7 @@ It is unlawful to import into the United States any of the following:
 
 &emsp;&emsp;(B) the sale in commerce of such product in the country of origin of the product is illegal;
 
-&emsp;(3) Any fish, whether fresh, frozen, or otherwise prepared, if such fish was caught in a manner which the Secretary has proscribed for persons subject to the jurisdiction of the United States, whether or not any marine mammals were in fact taken incident to the catching of the fish.
+&emsp;(3) Any fish, whether fresh, frozen, or otherwise prepared, if such fish was caught in amanner which the Secretary has proscribed for persons subject to the jurisdiction of the United States, whether or not any marine mammals were in fact taken incident to the catching of the fish.
 
 #### (d) Nonapplicability of prohibitions
 

@@ -10,7 +10,7 @@ In the case of a member or former member who first became a member of a uniforme
 
 #### References in Text
 
-Section 322 of title 37 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008), referred to in text, means section 322 of title 37 as in effect before enactment of Pub. L. 110–181. Section 322 of title 37 was renumbered as section 354 of title 37 and amended by Pub. L. 110–181, div. A, title VI, §661(b)(1), (2), Jan. 28, 2008, 122 Stat. 178.
+Section 322 of title 37 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008), referred to in text, means section 322 of title 37 as in effect before enactment of Pub. L.110–181. Section 322 of title 37 was renumbered as section 354 of title 37 and amended by Pub. L. 110–181, div. A, title VI, §661(b)(1), (2), Jan. 28, 2008, 122 Stat. 178.
 
 #### Amendments
 

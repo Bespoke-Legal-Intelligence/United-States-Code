@@ -26,7 +26,7 @@ The Administrator shall consult with other appropriate Federal agencies and with
 
 #### Change of Name
 
-Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Science of House of Representatives changed to Committee on Science and Technology ofHouse of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Strategy for Minimizing Job Losses in Transition From Space Shuttle to Successor Human-Rated Space Transport Vehicle
 

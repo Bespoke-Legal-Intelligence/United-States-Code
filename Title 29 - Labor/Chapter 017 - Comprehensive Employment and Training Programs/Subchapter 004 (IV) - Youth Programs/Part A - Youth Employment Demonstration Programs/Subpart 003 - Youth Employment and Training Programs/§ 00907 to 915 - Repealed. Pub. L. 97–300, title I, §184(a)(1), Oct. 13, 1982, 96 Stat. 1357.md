@@ -28,7 +28,7 @@ A prior section 912, Pub. L. 93–203, title IV, §402, Dec. 28, 1973, 87 Stat. 
 
 Provisions similar to those comprising this section were contained in former section 894e of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Section 913, Pub. L. 93–203, title IV, §437, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1987, related to review of youth employment and training plans by Secretary.
+Section 913, Pub. L. 93–203, title IV, §437, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1987, related toreview of youth employment and training plans by Secretary.
 
 A prior section 913, Pub. L. 93–203, title IV, §403, Dec. 28, 1973, 87 Stat. 864, related to eligibility for enrollment in the Job Corps, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

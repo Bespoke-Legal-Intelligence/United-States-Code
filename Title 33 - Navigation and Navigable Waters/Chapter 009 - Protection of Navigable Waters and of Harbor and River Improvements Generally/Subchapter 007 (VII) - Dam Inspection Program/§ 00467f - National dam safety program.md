@@ -156,7 +156,7 @@ The objectives of the Program are to—
 
 #### (6) Review of State dam safety programs
 
-&emsp;Using the expertise of the Board, the Director shall periodically review State dam safety programs. If the Board finds that a State dam safety program has proven inadequate to reasonably protect human life and property and the Director concurs, the Director shall revoke approval of the State dam safety program, and withhold assistance under this subsection, until the State dam safety program again meets the requirements for approval.
+&emsp;Using the expertise of the Board, the Director shall periodically review State dam safety programs. If the Board finds that a State damsafety program has proven inadequate to reasonably protect human life and property and the Director concurs, the Director shall revoke approval of the State dam safety program, and withhold assistance under this subsection, until the State dam safety program again meets the requirements for approval.
 
 #### (f) Board
 

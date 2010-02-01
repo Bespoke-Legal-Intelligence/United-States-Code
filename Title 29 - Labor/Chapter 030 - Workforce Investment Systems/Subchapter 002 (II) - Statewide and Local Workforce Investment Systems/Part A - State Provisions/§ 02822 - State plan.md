@@ -12,7 +12,7 @@ The State plan shall include—
 
 &emsp;(2) a description of State-imposed requirements for the statewide workforce investment system;
 
-&emsp;(3) a description of the State performance accountability system developed for the workforce investment activities to be carried outthrough the statewide workforce investment system, that includes information identifying State performance measures as described in section 2871(b)(3)(A)(ii) of this title;
+&emsp;(3) a description of the State performance accountability system developed for the workforce investment activities to be carried out through the statewide workforce investment system, that includes information identifying State performance measures as described in section 2871(b)(3)(A)(ii) of this title;
 
 &emsp;(4) information describing—
 
@@ -26,7 +26,7 @@ The State plan shall include—
 
 &emsp;(5) an identification of local areas designated in the State, including a description of the process used for the designation of such areas;
 
-&emsp;(6) an identification of criteria to be used by chief elected officials for the appointment of members of local boards based on the requirements of section 2832 of this title;
+&emsp;(6) an identification of criteria to be used by chief elected officials for the appointment ofmembers of local boards based on the requirements of section 2832 of this title;
 
 &emsp;(7) the detailed plans required under section 8 of the Wagner-Peyser Act (29 U.S.C. 49g);
 
@@ -84,7 +84,7 @@ The State plan shall include—
 
 &emsp;&emsp;&emsp;(i) the employment and training activities that will be carried out with the funds received by the State through the allotment made under section 2862 of this title;
 
-&emsp;&emsp;&emsp;(ii) how the State will provide rapid response activities to dislocated workersfrom funds reserved under section 2863(a)(2) of this title for such purposes, including the designation of an identifiable State rapid response dislocated worker unit to carry out statewide rapid response activities;
+&emsp;&emsp;&emsp;(ii) how the State will provide rapid response activities to dislocated workers from funds reserved under section 2863(a)(2) of this title for such purposes, including the designation of an identifiable State rapid response dislocated worker unit to carry out statewide rapid response activities;
 
 &emsp;&emsp;&emsp;(iii) the procedures the local boards in the State will use to identify eligible providers of training services described in section 2864(d)(4) of this title (other than on-the-job training or customized training), as required under section 2842 of this title; and
 
@@ -150,7 +150,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by section 4002(b)(1)(B), (2)(R) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

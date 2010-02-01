@@ -8,13 +8,15 @@ For purposes of section 38, the carbon dioxide sequestration credit for any taxa
 
 &emsp;&emsp;(A) captured by the taxpayer at a qualified facility, and
 
-&emsp;&emsp;(B) disposed of by the taxpayer in secure geological storage, and
+&emsp;&emsp;(B) disposed of by the taxpayer in secure geological storage and not used by the taxpayer as described in paragraph (2)(B), and
 
 &emsp;(2) $10 per metric ton of qualified carbon dioxide which is—
 
-&emsp;&emsp;(A) captured by the taxpayer at a qualified facility, and
+&emsp;&emsp;(A) captured by the taxpayer at a qualified facility,
 
-&emsp;&emsp;(B) used by the taxpayer as a tertiary injectant in a qualified enhanced oil or natural gas recovery project.
+&emsp;&emsp;(B) used by the taxpayer as a tertiary injectant in a qualified enhanced oil or natural gas recovery project, and
+
+&emsp;&emsp;(C) disposed of by the taxpayer in secure geological storage.
 
 #### (b) Qualified carbon dioxide
 
@@ -56,7 +58,7 @@ For purposes of this section—
 
 #### (2) Secure geological storage
 
-&emsp;The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall establish regulations for determining adequate security measures for the geological storage of carbon dioxide under subsection (a)(1)(B) such that the carbon dioxide does not escape into the atmosphere. Such term shall include storage at deep saline formations and unminable coal seems <sup>1</sup> under such conditions as the Secretary may determine under such regulations.
+&emsp;The Secretary, in consultation with the Administrator of the Environmental Protection Agency <sup>1</sup> the Secretary of Energy, and the Secretary of the Interior,,<sup>2</sup> shall establish regulations for determining adequate security measures for the geological storage of carbon dioxide under paragraph (1)(B) or (2)(C) of subsection (a) such that the carbon dioxide does not escape into the atmosphere. Such term shall include storage at deep saline formations, oil and gas reservoirs, and unminable coal seams under such conditions as the Secretary may determine under such regulations.
 
 #### (3) Tertiary injectant
 
@@ -84,9 +86,23 @@ For purposes of this section—
 
 #### (e) Application of section
 
-The credit under this section shall apply with respect to qualified carbon dioxide before the end of the calendar year in which the Secretary, in consultation with the Administrator of the Environmental Protection Agency, certifies that 75,000,000 metric tons of qualified carbon dioxide have been captured and disposed of or used as a tertiary injectant.
+The credit under this section shall apply with respect to qualified carbon dioxide before the end of the calendar year in which the Secretary, in consultation with the Administrator of the Environmental Protection Agency, certifies that 75,000,000 metric tons of qualified carbon dioxide have been taken into account in accordance with subsection (a).
 
-(Added Pub. L. 110–343, div. B, title I, §115(a), Oct. 3, 2008, 122 Stat. 3829.)
+(Added Pub. L. 110–343, div. B, title I, §115(a), Oct. 3, 2008, 122 Stat. 3829; amended Pub. L. 111–5, div. B, title I, §1131(a), (b), Feb. 17, 2009, 123 Stat. 325.)
+
+#### Amendments
+
+2009—Subsec. (a)(1)(B). Pub. L. 111–5, §1131(b)(2), inserted “and not used by the taxpayer as described in paragraph (2)(B)” after “storage”.
+
+Subsec. (a)(2)(C). Pub. L. 111–5, §1131(a), added subpar. (C).
+
+Subsec. (d)(2). Pub. L. 111–5, §1131(b)(1), inserted “the Secretary of Energy, and the Secretary of the Interior,” after “Environmental Protection Agency” and substituted “paragraph (1)(B) or (2)(C) of subsection (a)” for “subsection (a)(1)(B)” and “, oil and gas reservoirs, and unminable coal seams” for “and unminable coal seems”.
+
+Subsec. (e). Pub. L. 111–5, §1131(b)(3), substituted “taken into account in accordance with subsection (a)”for “captured and disposed of or used as a tertiary injectant”.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–5, div. B, title I, §1131(c), Feb. 17, 2009, 123 Stat. 325, provided that: “The amendments made by this section \[amending this section\] shall apply to carbon dioxide captured after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
 #### Effective Date
 

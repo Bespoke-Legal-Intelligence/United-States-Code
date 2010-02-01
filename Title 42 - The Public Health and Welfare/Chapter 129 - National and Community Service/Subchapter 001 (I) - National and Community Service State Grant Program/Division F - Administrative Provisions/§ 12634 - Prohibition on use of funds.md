@@ -16,5 +16,17 @@ Assistance provided under this subchapter shall not be used by program participa
 
 A program that receives assistance under this subchapter shall not impair existing contracts for services or collective bargaining agreements.
 
-(Pub. L. 101–610, title I, §174, Nov. 16, 1990, 104 Stat. 3160.)
+#### (d) Referrals for Federal assistance
+
+A program may not receive assistance under the national service laws for the sole purpose of referring individuals to Federal assistance programs or State assistance programs funded in part by the Federal Government.
+
+(Pub. L. 101–610, title I, §174, Nov. 16, 1990, 104 Stat. 3160; Pub. L. 111–13, title I, §1603, Apr. 21, 2009, 123 Stat. 1529.)
+
+#### Amendments
+
+2009—Subsec. (d). Pub. L. 111–13 added subsec. (d).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 

@@ -32,7 +32,7 @@ The Secretary shall prepare and prescribe a single application form which—
 
 &emsp;(C) to meet all of its financial obligations, including (but not limited to) refunds of institutional charges and repayments to the Secretary for liabilities and debts incurred in programs administered by the Secretary.
 
-(2) Notwithstanding paragraph (1), if an institution fails to meet criteria prescribed by the Secretary regarding ratios that demonstrate financial responsibility, then the institution shall provide the Secretary with satisfactory evidence of its financial responsibility in accordance with paragraph (3). Such criteria shall take into account any differences in generally accepted accounting principles, and the financial statements required thereunder, that are applicable to for profit, public, and nonprofit institutions. The Secretary shall take into account an institution's total financial circumstances in making a determination of its ability to meet the standards herein required.
+(2) Notwithstanding paragraph (1), if an institution fails to meet criteria prescribed by the Secretary regarding ratios that demonstrate financial responsibility, then the institution shall provide the Secretary with satisfactory evidence of its financial responsibility in accordance with paragraph (3). Such criteria shall take into account any differences in generally accepted accounting principles, and the financial statements required thereunder, that are applicable to for-profit, public, and nonprofit institutions.The Secretary shall take into account an institution's total financial circumstances in making a determination of its ability to meet the standards herein required.
 
 (3) The Secretary shall determine an institution to be financially responsible, notwithstanding the institution's failure to meet the criteria under paragraphs (1) and (2), if—
 
@@ -82,7 +82,7 @@ The Secretary is authorized—
 
 &emsp;(A) financial guarantees from an institution participating, or seeking to participate, in a program under this subchapter and part C of subchapter I of chapter 34 of title 42, or from one or more individuals who the Secretary determines, in accordance with paragraph (2), exercise substantial control over such institution, or both, in an amount determined by the Secretary to be sufficient to satisfy the institution's potential liability to the Federal Government, student assistance recipients, and other program participants for funds under this subchapter and part C of subchapter I of chapter 34 of title 42; and
 
-&emsp;(B) the assumption of personal liability, by one or more individuals who exercise substantial control over such institution, as determined by the Secretary in accordance with paragraph (2), for financial losses to the Federal Government, student assistance recipients, and other program participants for funds under this subchapter and part C of subchapter I of chapter 34 of title 42, and civil and criminal monetary penalties authorized under this subchapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;(B) the assumption of personal liability, by one or more individuals who exercise substantial control over such institution, as determined by the Secretary in accordance with paragraph (2), for financial losses to the Federal Government, student assistance recipients, and other program participants for funds under this subchapter and part C of subchapterI of chapter 34 of title 42, and civil and criminal monetary penalties authorized under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
 (2)(A) The Secretary may determine that an individual exercises substantial control over one or more institutions participating in a program under this subchapter and part C of subchapter I of chapter 34 of title 42 if the Secretary determines that—
 
@@ -124,7 +124,7 @@ The Secretary is authorized—
 
 &emsp;(C) willfully fails to pay such refund or willfully attempts in any manner to evade payment of such refund,
 
-> shall, in addition to other penalties provided by law, be liable to the Secretary for the amount ofthe refund not paid, to the same extent with respect to such refund that such an individual would be liable as a responsible person for a penalty under section 6672(a) of title 26 with respect to the nonpayment of taxes.
+> shall, in addition to other penalties provided by law, be liable to the Secretary for the amount of the refund not paid, to the same extent with respect to such refund that such an individual would be liable as a responsible person for a penalty under section 6672(a) of title 26 with respect to the nonpayment of taxes.
 
 #### (f) Actions on applications and site visits
 
@@ -142,7 +142,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 #### (3) Institutions outside the United States
 
-&emsp;The Secretary shall promulgate regulations regarding the recertification requirements applicable to an institution of higher education outside of the United States that meets the requirements of section 1002(a)(1)(C) of this title and received less than $500,000 in funds under part B of this subchapter for the most recent year for which data are available.
+&emsp;The Secretary shall promulgate regulations regarding the recertification requirements applicable to an institution of higher education outside of the United States that meets the requirements of section 1002(a)(1)(C) of this title and received less than $500,000 in funds underpart B of this subchapter for the most recent year for which data are available.
 
 #### (h) Provisional certification of institutional eligibility
 
@@ -186,7 +186,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 &emsp;(B) another action determined by the Secretary to be a routine business practice.
 
-(4)(A) The Secretary may provisionally certify an institution seeking approval of a change inownership based on the preliminary review by the Secretary of a materially complete application that is received by the Secretary within 10 business days of the transaction for which the approval is sought.
+(4)(A) The Secretary may provisionally certify an institution seeking approval of a change in ownership based on the preliminary review by the Secretary of a materially complete application that is received by the Secretary within 10 business days of the transaction for which the approval is sought.
 
 (B) A provisional certification under this paragraph shall expire not later than the end of the month following the month in which the transaction occurred, except that if the Secretary has not issued a decision on the application for the change of ownership within that period, the Secretary may continue such provisional certification on a month-to-month basis until such decision has been issued.
 
@@ -200,7 +200,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 #### (1) In general
 
-&emsp;A location of a closed institution of higher education shall be eligible as an additional location of an eligible institution of higher education, as defined pursuant to regulations of the Secretary, for the purposes of a teach-out described in section 1094(f) of this title, if such teach-out has been approved by the institution's accrediting agency.
+&emsp;A location of a closed institution of higher education shall be eligible as an additional location of an eligible institution of higher education, as defined pursuant to regulations of the Secretary, for the purposes of a teach-out described in section 1094(f) of this title, if suchteach-out has been approved by the institution's accrediting agency.
 
 #### (2) Special rule
 
@@ -210,13 +210,15 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 &emsp;&emsp;(B) to assume the liabilities of the closed institution.
 
-(Pub. L. 89–329, title IV, §498, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 647; amended Pub. L. 103–208, §2(i)(9)–(14), Dec. 20, 1993, 107 Stat. 2479, 2480; Pub. L. 105–244, title I, §102(a)(6)(B), (b)(6), (7), title IV, §493(a)–(c)(1), (d)–(h), Oct. 7, 1998, 112 Stat. 1618, 1622, 1761–1763; Pub. L. 110–315, title IV, §496, Aug. 14, 2008, 122 Stat. 3327.)
+(Pub. L. 89–329, title IV, §498, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 647; amended Pub. L. 103–208, §2(i)(9)–(14), Dec. 20, 1993, 107 Stat. 2479, 2480; Pub. L. 105–244, title I, §102(a)(6)(B), (b)(6), (7), title IV, §493(a)–(c)(1), (d)–(h), Oct. 7, 1998, 112 Stat. 1618, 1622, 1761–1763; Pub. L. 110–315, title IV, §496, Aug. 14, 2008, 122 Stat. 3327; Pub. L. 111–39, title IV, §408(2), July 1, 2009, 123 Stat. 1953.)
 
 #### References in Text
 
 Subsections (b)(5) and (c)(3), referred to in subsec. (i)(1), originally meant subsections (b)(5) and (c)(3) of section 1088 of this title, see 1998 Amendment note below for subsec. (i)(1). Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617, amended section 1088 by striking out subsecs. (b) and (c) and redesignating subsecs. (e) and (f) as (b) and (c), respectively. Section 1002 of this title does not contain a subsec. (b)(5) or (c)(3), but provisions similar to those appearing in former subsecs. (b)(5) and (c)(3) of section 1088 are contained in subsecs. (b)(1)(E) and (c)(1)(C) of section 1002.
 
 #### Amendments
+
+2009—Subsec. (c)(2). Pub. L. 111–39 substituted “for-profit” for “for profit”.
 
 2008—Subsec. (d)(1)(B). Pub. L. 110–315, §496(1), inserted “and” after semicolon.
 
@@ -283,6 +285,10 @@ Subsec. (i)(1). Pub. L. 103–208, §2(i)(12), amended par. (1) generally. Prior
 Subsec. (i)(3)(A). Pub. L. 103–208, §2(i)(13), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the death of an owner of an institution, when the owner's interest is sold or transferred to either a family member or a current stockholder of the corporation; or”.
 
 Subsec. (j)(1). Pub. L. 103–208, §2(i)(14), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purposes of this subchapter and part C of subchapter I of chapter 34 of title 42, a branch of an eligible institution, as defined pursuant to regulations of the Secretary, is a separate institution of higher education and shall separately meet all the requirements of this subchapter and part C of subchapter I of chapter 34 of title 42, except that such institution shall not be required (under section 1088(b)(5) or 1088(c)(3) of this title) to be in existence for 2 years prior to seeking such certification unless such institution was in existence as a branch for less than 2 years.”
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1998 Amendment
 

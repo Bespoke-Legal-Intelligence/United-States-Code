@@ -34,7 +34,7 @@ If the administering authority or the Commission (as the case may be) finds that
 
 When the administering authority or the Commission relies on secondary information rather than on information obtained in the course of an investigation or review, the administering authority or the Commission, as the case may be, shall, to the extent practicable, corroborate that information from independent sources that are reasonably at their disposal.
 
-(June 17, 1930, ch. 497, title VII, §776, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat.186; amended Pub. L. 98–573, title VI, §618, Oct. 30, 1984, 98 Stat. 3037; Pub. L. 100–418, title I, §§1326(d)(1), 1331, Aug. 23, 1988, 102 Stat. 1204, 1207; Pub. L. 103–465, title II, §231(c), Dec. 8, 1994, 108 Stat. 4896.)
+(June 17, 1930, ch. 497, title VII, §776, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 186; amended Pub. L. 98–573, title VI, §618, Oct. 30, 1984, 98 Stat. 3037; Pub. L. 100–418, title I, §§1326(d)(1), 1331, Aug. 23, 1988, 102 Stat. 1204, 1207; Pub. L. 103–465, title II, §231(c), Dec. 8, 1994, 108 Stat. 4896.)
 
 #### Amendments
 
@@ -48,7 +48,7 @@ Subsec. (b)(3)(A). Pub. L. 100–418, §1326(d)(1), which directed the amendment
 
 Subsec. (c). Pub. L. 100–418, §1331(1), redesignated former subsec. (b) as (c).
 
-1984—Subsec. (a). Pub. L. 98–573 amended subsec. (a) generally, which prior to amendment read as follows: “Except with respect to information the verification of which is waived under section 1673b(b)(2) of this title, the administering authority shall verify all information relied upon in making a final determination in an investigation. In publishing such a determination, the administering authority shall report the methods and procedures used to verify such information. If the administering authority is unable to verify the accuracy of the information submitted, it shall use the best information available to it as the basis for its determination, which may include the information submitted in support of the petition.”
+1984—Subsec. (a). Pub. L. 98–573 amended subsec. (a) generally, which prior to amendment read as follows: “Except with respect to information the verification of which is waived under section 1673b(b)(2) of this title, the administering authority shall verify all information relied upon in making a final determination in aninvestigation. In publishing such a determination, the administering authority shall report the methods and procedures used to verify such information. If the administering authority is unable to verify the accuracy of the information submitted, it shall use the best information available to it as the basis for its determination, which may include the information submitted in support of the petition.”
 
 #### Effective Date of 1994 Amendment
 

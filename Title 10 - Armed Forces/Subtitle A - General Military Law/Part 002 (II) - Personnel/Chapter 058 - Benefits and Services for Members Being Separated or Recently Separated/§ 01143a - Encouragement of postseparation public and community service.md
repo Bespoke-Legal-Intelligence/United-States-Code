@@ -94,7 +94,7 @@ Recomputation of Retired Pay.—(1) If a member or former member of the Armed Fo
 
 “(3) Section 1405(b) of title 10, United States Code, shall apply in determining years of service under this subsection.
 
-“(4) In this subsection, the term ‘enhanced retirement qualification period’, with respect to a member or former member retired under a provision of law referred to in paragraph (1), means the period beginning on the date of the retirement of the member or former member and ending the number of years (including any fraction of a year) after that date which when added to the number of years (including any fraction of a year)of service credited for purposes of computing the retired pay of the member or former member upon retirement equals 20 years.
+“(4) In this subsection, the term ‘enhanced retirement qualification period’, with respect to a member or former member retired under a provision of law referred to in paragraph (1), means the period beginning on the date of the retirement of the member or former member and ending the number of years (including any fraction of a year) after that date which when added to the number of years (including any fraction of a year) of service credited for purposes of computing the retired pay of the member or former member upon retirement equals 20 years.
 
 “(b)
 

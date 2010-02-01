@@ -10,7 +10,7 @@ Any person seeking to initiate judicial proceedings under the Convention for the
 
 #### (c) Notice
 
-Notice of an action brought under subsection (b) of this section shall be given in accordance with the applicable law governing notice in interstate child custody proceedings.
+Notice of an action brought under subsection (b) of this section shall be given in accordancewith the applicable law governing notice in interstate child custody proceedings.
 
 #### (d) Determination of case
 

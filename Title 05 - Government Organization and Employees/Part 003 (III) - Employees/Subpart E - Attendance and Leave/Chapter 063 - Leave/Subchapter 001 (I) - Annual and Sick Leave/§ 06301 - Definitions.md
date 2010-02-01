@@ -32,7 +32,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(x) an officer in the executive branch or in the government of the District of Columbia who is appointed by the President and whose rate of basic pay exceeds the highest rate payable under section 5332 of this title;
 
-&emsp;&emsp;(xi) an officer in the executive branch or in the government of the District of Columbiawho is designated by the President, except a postmaster, United States attorney, or United States marshal;
+&emsp;&emsp;(xi) an officer in the executive branch or in the government of the District of Columbia who is designated by the President, except a postmaster, United States attorney, or United States marshal;
 
 &emsp;&emsp;(xii) a chief of mission (as defined in section 102(a)(3) of the Foreign Service Act of 1980); or
 
@@ -138,7 +138,7 @@ Pub. L. 106–56, §1(a), Sept. 24, 1999, 113 Stat. 407, provided that: “This 
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–388, §1, Oct. 22, 1994, 108 Stat. 4079, provided that: “This Act \[amending section 6307 of thistitle\] may be cited as the ‘Federal Employees Family Friendly Leave Act’.”
+Pub. L. 103–388, §1, Oct. 22, 1994, 108 Stat. 4079, provided that: “This Act \[amending section 6307 of this title\] may be cited as the ‘Federal Employees Family Friendly Leave Act’.”
 
 #### Short Title of 1993 Amendment
 
@@ -150,7 +150,7 @@ Pub. L. 100–566, §1, Oct. 31, 1988, 102 Stat. 2834, provided that: “This Ac
 
 #### Employees of the District of Columbia
 
-Pub. L. 99–335, title II, §207(c)(2), as added by Pub. L. 99–556, title II, §201, Oct. 27, 1986, 100 Stat. 3135, provided that: “The amendment made by paragraph (1) \[amending this section\] shall not result in the coverage, under subchapter I of chapter 63 of title 5, United States Code, of any individual (or class of individuals) employed by the government of the District of Columbia who would not have been covered under such subchapter if such amendment had not been made.”
+Pub. L. 99–335, title II, §207(c)(2), as added by Pub. L. 99–556, title II, §201, Oct. 27, 1986, 100 Stat. 3135, providedthat: “The amendment made by paragraph (1) \[amending this section\] shall not result in the coverage, under subchapter I of chapter 63 of title 5, United States Code, of any individual (or class of individuals) employed by the government of the District of Columbia who would not have been covered under such subchapter if such amendment had not been made.”
 
 #### Executive Order No. 10540
 

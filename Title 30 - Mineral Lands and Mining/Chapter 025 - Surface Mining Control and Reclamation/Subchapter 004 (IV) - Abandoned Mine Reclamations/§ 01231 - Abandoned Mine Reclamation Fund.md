@@ -164,7 +164,7 @@ Section 6013 of Pub. L. 101–508 provided that: “Nothing in this subtitle \[s
 
 #### Abandoned Mine Reclamation Fund; Deposit and Expenditure of Certain Donations
 
-Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–245, provided in part: “That hereafter, donations received to support projects under the Appalachian Clean Streams Initiative and under the Western Mine Lands Restoration Partnerships Initiative, pursuant to 30 U.S.C. 1231, shall be credited to this account and remain available until expended without further appropriation for projects sponsored under these initiatives, directly through agreements with other Federal agencies, or through grants to States, and funding to local governments, or tax exempt private entities.”
+Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–245, provided in part: “That hereafter, donations received to support projects under the Appalachian Clean Streams Initiative and under the Western Mine Lands Restoration Partnerships Initiative, pursuant to 30 U.S.C. 1231, shall be credited to this account and remain available until expended without further appropriation for projects sponsored under these initiatives, directly through agreements with other Federal agencies, or through grants to States,and funding to local governments, or tax exempt private entities.”
 
 #### Abandoned Mine Reclamation Research and Development
 

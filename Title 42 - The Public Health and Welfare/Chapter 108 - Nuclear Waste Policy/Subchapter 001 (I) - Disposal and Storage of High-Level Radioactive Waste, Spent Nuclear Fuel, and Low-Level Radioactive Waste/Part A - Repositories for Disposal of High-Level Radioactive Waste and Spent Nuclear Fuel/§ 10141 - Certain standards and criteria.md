@@ -2,7 +2,7 @@
 
 #### (a) Environmental Protection Agency standards
 
-Not later than 1 year after January 7, 1983, the Administrator, pursuant to authority under other provisions of law, shall, by rule, promulgate generally applicable standards for protection of the general environment from offsite releases from radioactive material in repositories.
+Not later than 1 year after January 7, 1983, the Administrator, pursuant to authority underother provisions of law, shall, by rule, promulgate generally applicable standards for protection of the general environment from offsite releases from radioactive material in repositories.
 
 #### (b) Commission requirements and criteria
 

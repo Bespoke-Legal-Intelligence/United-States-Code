@@ -204,7 +204,7 @@ For purposes of this section—
 
 #### (2) Adjusted funding target attainment percentage
 
-&emsp;The term “adjusted funding target attainment percentage” means the funding target attainment percentage which is determined under paragraph (1) by increasing each of the amounts under subparagraphs (A) and (B) of section 430(d)(2) by the aggregate amount of purchases of annuities for employees other than highly compensated employees (as defined in section 414(q)) which were made by the plan during the preceding 2 plan years.
+&emsp;The term “adjusted funding target attainment percentage” means the funding targetattainment percentage which is determined under paragraph (1) by increasing each of the amounts under subparagraphs (A) and (B) of section 430(d)(2) by the aggregate amount of purchases of annuities for employees other than highly compensated employees (as defined in section 414(q)) which were made by the plan during the preceding 2 plan years.
 
 #### (3) Application to plans which are fully funded without regard to reductions for funding balances
 
@@ -308,7 +308,7 @@ Collective bargaining exception.—In the case of a plan maintained pursuant to 
 
 #### Temporary Modification of Application of Limitation on Benefit Accruals
 
-Pub. L. 110–458, title II, §203, Dec. 23, 2008, 122 Stat. 5118, provided that: “In the case of the first plan year beginning during the period beginning on October 1, 2008, and ending on September 30, 2009, sections 206(g)(4)(A) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1056(g)(4)(A)) and 436(e)(1) of the Internal Revenue Code of 1986 shall be applied by substituting the plan's adjusted funding target attainment percentage for the preceding plan year for such percentage for such plan year but only if the adjusted funding target attainment percentage for the preceding plan year is greater.”
+Pub. L. 110–458, title II, §203, Dec. 23, 2008, 122 Stat. 5118, provided that: “In the case of the first plan year beginning during the period beginning on October 1, 2008, and ending on September 30, 2009, sections206(g)(4)(A) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1056(g)(4)(A)) and 436(e)(1) of the Internal Revenue Code of 1986 shall be applied by substituting the plan's adjusted funding target attainment percentage for the preceding plan year for such percentage for such plan year but only if the adjusted funding target attainment percentage for the preceding plan year is greater.”
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 

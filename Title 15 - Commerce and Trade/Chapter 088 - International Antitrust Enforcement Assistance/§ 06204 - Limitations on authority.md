@@ -24,5 +24,5 @@ Sections 6201, 6202, and 6203 of this title shall not apply with respect to the 
 
 Rule 6(e)(3)(C)(iv) of the Federal Rules of Criminal Procedure, referred to in par. (2), is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-Executive Order 12356, referred to in par. (3), is Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which was set out as a note under section 435 of Title 50, War and National Defense, prior to revocation by Ex. Ord. No. 12958, §6.1(d), Apr. 17, 1995, 60 F.R. 19843, set out as a note under section 435 of Title 50.
+Executive Order 12356, referred to in par. (3), is Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which was set out as a note under section 435 of Title 50, War and National Defense, prior to revocation by Ex. Ord. No. 12958, §6.1(d), Apr. 17, 1995, 60 F.R. 19843, which was itself revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731, set out as a note under section 435 of Title 50.
 

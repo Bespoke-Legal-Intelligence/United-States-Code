@@ -130,7 +130,7 @@ As used in this subchapter:
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(7). Pub. L. 110–261, §110(a)(1), added par. (7).
+2008—Subsec. (a)(7). Pub. L. 110–261, §110(a)(1), added par. (7).
 
 Subsec. (b)(1)(D), (E). Pub. L. 110–261, §110(a)(2), added subpars. (D) and (E).
 
@@ -138,15 +138,15 @@ Subsec. (e)(1)(B). Pub. L. 110–261, §110(a)(3), substituted “sabotage, inte
 
 Subsec. (p). Pub. L. 110–261, §110(a)(4), added subsec. (p).
 
-<b>2006</b>—Subsec. (g). Pub. L. 109–177 substituted “, the Deputy Attorney General, or, upon the designation of the Attorney General, the Assistant Attorney General designated as the Assistant Attorney General for National Security under section 507A of title 28” for “or the Deputy Attorney General”.
+2006—Subsec. (g). Pub. L. 109–177 substituted “, the Deputy Attorney General, or, upon the designation of the Attorney General, the Assistant Attorney General designated as the Assistant Attorney General for National Security under section 507A of title 28” for “or the Deputy Attorney General”.
 
-<b>2004</b>—Subsec. (b)(1)(C). Pub. L. 108–458, §6001, temporarily added subpar. (C). See Termination Date of 2004 Amendment note below.
+2004—Subsec. (b)(1)(C). Pub. L. 108–458, §6001, temporarily added subpar. (C). See Termination Date of 2004 Amendment note below.
 
-<b>2001</b>—Subsec. (f)(2). Pub. L. 107–56, §1003, as amended by Pub. L. 107–108, §314(c)(2), inserted “, but does not include the acquisition of those communications of computer trespassers that would be permissible under section 2511(2)(i) of title 18” before semicolon at end.
+2001—Subsec. (f)(2). Pub. L. 107–56, §1003, as amended by Pub. L. 107–108, §314(c)(2), inserted “, but does not include the acquisition of those communications of computer trespassers that would be permissible under section 2511(2)(i) of title 18” before semicolon at end.
 
 Subsec. (h)(4). Pub. L. 107–108, §314(a)(1), substituted “72 hours” for “twenty-four hours”.
 
-<b>1999</b>—Subsec. (b)(2)(D), (E). Pub. L. 106–120 added subpar. (D) and redesignated former subpar. (D) as (E).
+1999—Subsec. (b)(2)(D), (E). Pub. L. 106–120 added subpar. (D) and redesignated former subpar. (D) as (E).
 
 #### Effective Date of 2008 Amendment
 
@@ -154,11 +154,11 @@ Pub. L. 110–261, title IV, §402, July 10, 2008, 122 Stat. 2473, provided that
 
 #### Termination Date of 2004 Amendment
 
-Pub. L. 108–458, title VI, §6001(b), Dec. 17, 2004, 118 Stat. 3742, as amended by Pub. L. 109–177, title I, §103, Mar. 9, 2006, 120 Stat. 195, provided that:
+Pub. L. 108–458, title VI, §6001(b), Dec. 17, 2004, 118 Stat. 3742, as amended by Pub. L. 109–177, title I, §103, Mar. 9, 2006, 120 Stat. 195; Pub. L. 111–118, div. B, §1004(b), Dec. 19, 2009, 123 Stat. 3470, provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall cease to have effect on December 31, 2009.
+In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall cease to have effect on February 28, 2010.
 
 “(2)
 
@@ -228,7 +228,9 @@ Use of information.—Information acquired from an acquisition conducted pursuan
 
 Protection from liability.—Subsection (<i>l</i>) of section 105B of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1805b(<i>l</i>)\], as added by section 2 of the Protect America Act of 2007, shall continue to apply with respect to any directives issued pursuant to such section 105B.
 
-&emsp;“(5) Jurisdiction of foreign intelligence surveillance court.—Notwithstanding any other provision of this Act or of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), section 103(e) of the Foreign Intelligence Surveillance Act \[of 1978\] (50 U.S.C. 1803(e)), as amended by section 5(a) of the Protect America Act of 2007 (Public Law 110–55; 121 Stat. 556), shall continue to apply with respect to a directive issued pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1805b\], as added by section 2 of the Protect America Act of 2007, until the later of—
+&emsp;“(5)
+
+Jurisdiction of foreign intelligence surveillance court.—Notwithstanding any other provision of this Act or of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), section 103(e) of the Foreign Intelligence Surveillance Act \[of 1978\] (50 U.S.C. 1803(e)), as amended by section 5(a) of the Protect America Act of 2007 (Public Law 110–55; 121 Stat. 556), shall continue to apply with respect to a directive issued pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1805b\], as added by section 2 of the Protect America Act of 2007, until the later of—
 
 &emsp;&emsp;“(A) the expiration of all orders, authorizations, or directives referred to in paragraph (1); or
 

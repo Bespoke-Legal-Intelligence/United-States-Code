@@ -30,7 +30,7 @@
 
 #### (4) Compliance assurance
 
-&emsp;Whenever a seller or lessor has entered into a contract with an agent for the purpose ofselling or leasing a unit of target housing, the regulations promulgated under this section shall require the agent, on behalf of the seller or lessor, to ensure compliance with the requirements of this section.
+&emsp;Whenever a seller or lessor has entered into a contract with an agent for the purpose of selling or leasing a unit of target housing, the regulations promulgated under this section shall require the agent, on behalf of the seller or lessor, to ensure compliance with the requirements of this section.
 
 #### (5) Promulgation
 

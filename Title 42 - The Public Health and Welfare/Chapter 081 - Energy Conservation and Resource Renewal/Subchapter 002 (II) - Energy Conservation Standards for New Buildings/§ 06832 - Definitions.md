@@ -24,7 +24,7 @@ As used in this subchapter:
 
 &emsp;(11) The term “State” includes each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory and possession of the United States.
 
-&emsp;(12) The term “unit of general purpose local government” means any city, county, town,municipality, or other political subdivision of a State (or any combination thereof), which has a building code or similar authority over a particular geographic area.
+&emsp;(12) The term “unit of general purpose local government” means any city, county, town, municipality, or other political subdivision of a State (or any combination thereof), which has a building code or similar authority over a particular geographic area.
 
 &emsp;(13) The term “Federal building energy standards” means energy consumption objectives to be met without specification of the methods, materials, or equipment to be employed in achieving those objectives, but including statements of the requirements, criteria, and evaluation methods to be used, and any necessary commentary.
 

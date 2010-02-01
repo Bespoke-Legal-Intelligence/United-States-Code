@@ -10,7 +10,7 @@ The Commission shall, within 30 months after February 8, 1996, and annually ther
 
 #### (c) Demographic information for unserved areas
 
-As part of the inquiry required by subsection (b), the Commission shall compile a list of geographical areas that are not served by any provider of advanced telecommunications capability (as defined by subsection (d)(1)) <sup>1</sup> and to the extent that data from the Census Bureau is available, determine, for each such unserved area—
+As part of the inquiry required by subsection (b), the Commission shall compile a list of geographical areas that are not served by any provider of advanced telecommunications capability (as defined by subsection (d)(1)) <sup>1</sup> and to theextent that data from the Census Bureau is available, determine, for each such unserved area—
 
 &emsp;(1) the population;
 

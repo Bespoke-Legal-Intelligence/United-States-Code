@@ -30,7 +30,7 @@ Determining Number of Credits.—The number of credits a manufacturer earns unde
 
 (d)
 
-Applying Credits for Passenger Automobiles.—The Secretary of Transportation shall apply credits to a model year on the basis of the number of tenths of a mile a gallon by which the manufacturer involved was below the applicable average fuel economy standard for that model year and the number of passenger automobiles manufactured that model year by the manufacturer. Credits applied to a model year are no longer available for another model year. Before applying credits, the Secretary shall give the manufacturer written notice and reasonable opportunity to comment.
+Applying Credits for Passenger Automobiles.—The Secretary of Transportation shall apply credits to a model year on the basis of the number of tenths of a mile a gallon by which themanufacturer involved was below the applicable average fuel economy standard for that model year and the number of passenger automobiles manufactured that model year by the manufacturer. Credits applied to a model year are no longer available for another model year. Before applying credits, the Secretary shall give the manufacturer written notice and reasonable opportunity to comment.
 
 (e)
 
@@ -150,7 +150,7 @@ Subsection (b)(1) is substituted for 15:2002(<i>l</i>)(1)(A) to eliminate unnece
 
 In subsection (b)(2)(A) is substituted for 15:2002(<i>l</i>)(1)(C)(i)–(iii) to eliminate unnecessary words.
 
-In subsection (e), the words “as provided in this section for passenger automobiles” are substituted for “as provided for under paragraph (1)” for clarity. The text of 15:2002(<i>l</i>)(2) (last sentence) is omitted as expired.
+In subsection (e), the words “as provided in this section for passenger automobiles” are substituted for “asprovided for under paragraph (1)” for clarity. The text of 15:2002(<i>l</i>)(2) (last sentence) is omitted as expired.
 
 #### Amendments
 

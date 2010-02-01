@@ -48,7 +48,7 @@
 
 #### (4) Definition
 
-&emsp;As used in this subsection, the term “advanced degree programs in clinical investigation” means programs that award a master'sor Ph.D. degree in clinical investigation after 2 or more years of training in areas such as the following:
+&emsp;As used in this subsection, the term “advanced degree programs in clinical investigation” means programs that award a master's or Ph.D. degree in clinical investigation after 2 or more years of training in areas such as the following:
 
 &emsp;&emsp;(A) Analytical methods, biostatistics, and study design.
 
@@ -102,5 +102,5 @@ Subsec. (d)(4). Pub. L. 109–482, §103(b)(13)(D), struck out heading and text 
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 orsubsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 

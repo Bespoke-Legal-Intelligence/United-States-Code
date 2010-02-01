@@ -40,7 +40,7 @@ Except as provided in subsection (b) of this section, the Secretary of the Inter
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), if the Secretary of the Interior determines that available amounts under section section 777c(b) of this title should be used for an expense for administration other than an expense for administration described in subsection (a) of this section, the Secretary—
+&emsp;Subject to paragraph (2), if the Secretary of the Interior determines that available amounts under section 777c(b) of this title should be used for an expense for administration other than an expense for administration described in subsection (a) of this section, the Secretary—
 
 &emsp;&emsp;(A) shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives a report describing the expense for administration and stating the amount of the expense; and
 
@@ -64,7 +64,7 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 #### (A) In general
 
-&emsp;&emsp;An audit under this subsection shall be performed under a contract that is awarded under competitive procedures (as defined in section 403 of title 41) by a person or entity that is not associated in any way with the Department of the Interior (except by way of a contract for the performance of an audit or other review).
+&emsp;&emsp;An audit under this subsection shall be performed under a contract that is awarded under competitive procedures (as defined in section 403 of title 41) by a person or entity that is not associated in any way with the Department of the Interior (except by way ofa contract for the performance of an audit or other review).
 
 #### (B) Supervision of auditor
 

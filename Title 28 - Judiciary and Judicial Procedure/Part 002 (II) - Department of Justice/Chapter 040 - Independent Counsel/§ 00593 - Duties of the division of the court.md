@@ -2,7 +2,7 @@
 
 (a)
 
-Reference to Division of the Court.—The division of the court to which this chapter refers is the division established under section 49 of this title.
+Reference to Division of the Court.—The division of the court to which this chapter refersis the division established under section 49 of this title.
 
 (b)
 
@@ -60,7 +60,7 @@ Attorneys’ Fees.—
 
 &emsp;(1)
 
-Award of fees.—Upon the request of an individual who is the subject of an investigation conducted by an independent counsel pursuant to this chapter, the division of the court may, if no indictment is brought against such individual pursuant to that investigation, award reimbursement for those reasonable attorneys’ fees incurred by that individual during that investigation which would not have been incurred but for the requirements of this chapter. The division of the court shall notify the the <sup>1</sup> independent counsel who conducted the investigation and Attorney <sup>2</sup> General of any request for attorneys’ fees under this subsection.
+Award of fees.—Upon the request of an individual who is the subject of an investigation conducted by an independent counsel pursuant to this chapter, the division of the court may, if no indictment is brought against such individual pursuant to that investigation, award reimbursement for those reasonable attorneys’ fees incurred by that individual during that investigation which would not have been incurred but for the requirements of this chapter. The division of the court shall notify the the <sup>1</sup> independent counsel who conductedthe investigation and Attorney <sup>2</sup> General of any request for attorneys’ fees under this subsection.
 
 &emsp;(2)
 

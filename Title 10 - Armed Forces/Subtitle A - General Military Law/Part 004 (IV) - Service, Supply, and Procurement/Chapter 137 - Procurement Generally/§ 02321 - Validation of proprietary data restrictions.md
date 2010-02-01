@@ -2,7 +2,7 @@
 
 (a)
 
-Contracts Covered by Section.—This section applies to any contract for supplies or services entered into by the Department of Defensethat includes provisions for the delivery of technical data.
+Contracts Covered by Section.—This section applies to any contract for supplies or services entered into by the Department of Defense that includes provisions for the delivery of technical data.
 
 (b)
 
@@ -134,7 +134,7 @@ Subsec. (b). Pub. L. 100–26, §7(a)(5)(A)(ii), added subsec. (b) and struck ou
 
 &emsp;&emsp;“(I) the validation occurred after a review of the validated restriction under this subsection; and
 
-&emsp;&emsp;“(II) the validated restriction was asserted by the same contractor or subcontractor (or any licensee of such contractor or subcontractor) to which such notice is being provided.
+&emsp;&emsp;“(II) the validated restriction was asserted by the same contractor or subcontractor (or any licenseeof such contractor or subcontractor) to which such notice is being provided.
 
 “(B) Notwithstanding subparagraph (A), the United States may challenge a restriction on the release, disclosure, or use of technical data delivered under a contract at any time if such technical data—
 

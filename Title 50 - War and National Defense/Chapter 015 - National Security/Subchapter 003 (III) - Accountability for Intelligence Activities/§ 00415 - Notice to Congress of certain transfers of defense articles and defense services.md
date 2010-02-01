@@ -40,7 +40,7 @@
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(B)(i), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Part II of the Act is classified generally to subchapter II (§2301 et seq.) of chapter 32 of Title 22, Foreign Relations and Intercourse. For provisions deeming references to subchapter II to exclude parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II, see section 202(b) of Pub. L. 92–228, set out as a note under section 2346 of Title 22, and sections 2348c and 2349aa–5 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(B)(i), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part II of the Act is classified generally to subchapter II (§2301 et seq.) of chapter 32 of Title 22, Foreign Relations and Intercourse. For provisions deeming references to subchapter II to exclude parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of Title 22, and sections 2348c and 2349aa–5 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 The Arms Export Control Act, referred to in subsec. (a)(2)(B)(i), is Pub. L. 90–269, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
@@ -48,9 +48,9 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a)(2)(B)(i). Pub. L. 103–160 substituted “section 7307(a)” for “section 7307(b)(1)”.
+1993—Subsec. (a)(2)(B)(i). Pub. L. 103–160 substituted “section 7307(a)” for “section 7307(b)(1)”.
 
-<b>1991</b>—Subsec. (a)(1). Pub. L. 102–88 inserted “, or the anticipated transfer in any fiscal year of any aggregation of defense articles or defense services,” after “service” and substituted “this subchapter” for “section 413 of this title”.
+1991—Subsec. (a)(1). Pub. L. 102–88 inserted “, or the anticipated transfer in any fiscal year of any aggregation of defense articles or defense services,” after “service” and substituted “this subchapter” for “section 413 of this title”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

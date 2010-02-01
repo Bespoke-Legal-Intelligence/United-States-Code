@@ -8,7 +8,7 @@
 
 #### (2) Request for designation
 
-&emsp;The sponsor of a new drug may request the Secretary to designate the drug as a fast track product. A request for the designation may bemade concurrently with, or at any time after, submission of an application for the investigation of the drug under section 355(i) of this title or section 262(a)(3) of title 42.
+&emsp;The sponsor of a new drug may request the Secretary to designate the drug as a fast track product. A request for the designation may be made concurrently with, or at any time after, submission of an application for the investigation of the drug under section 355(i) of this title or section 262(a)(3) of title 42.
 
 #### (3) Designation
 
@@ -74,5 +74,5 @@ Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see
 
 #### Guidance
 
-Section 112(b) of Pub. L. 105–115 provided that: “Within 1 year after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall issue guidance for fast track products (as defined in section 506(a)(1) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 356(a)(1)\]) that describes the policies and procedures that pertain to section 506 of such Act.”
+Section 112(b) of Pub. L. 105–115 provided that: “Within 1 year after the date of enactment of this Act \[Nov.21, 1997\], the Secretary of Health and Human Services shall issue guidance for fast track products (as defined in section 506(a)(1) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 356(a)(1)\]) that describes the policies and procedures that pertain to section 506 of such Act.”
 

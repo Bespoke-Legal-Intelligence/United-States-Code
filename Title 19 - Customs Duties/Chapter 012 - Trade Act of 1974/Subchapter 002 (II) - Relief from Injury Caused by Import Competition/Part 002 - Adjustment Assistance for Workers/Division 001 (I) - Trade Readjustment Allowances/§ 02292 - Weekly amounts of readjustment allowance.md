@@ -2,11 +2,11 @@
 
 #### (a) Formula
 
-Subject to subsections (b) and (c) of this section, the trade readjustment allowance payable to an adversely affected worker for a week of total unemployment shall be an amount equal to the most recent weekly benefit amount of the unemployment insurance payable to the worker for a week of total unemployment preceding the worker's first exhaustion of unemployment insurance (as determined for purposes of section 2291(a)(3)(B) of this title) reduced (but not below zero) by—
+Subject to subsections (b), (c), and (d), the trade readjustment allowance payable to an adversely affected worker for a week of unemployment shall be an amount equal to the most recent weekly benefit amount of the unemployment insurance payable to the worker for a week of total unemployment preceding the worker's first exhaustion of unemployment insurance (as determined for purposes of section 2291(a)(3)(B) of this title) reduced (but not below zero) by—
 
 &emsp;(1) any training allowance deductible under subsection (c) of this section; and
 
-&emsp;(2) income that is deductible from unemployment insurance under the disqualifying income provisions of the applicable State law or Federal unemployment insurance law.
+&emsp;(2) income that is deductible from unemployment insurance under the disqualifying income provisions of the applicable State law or Federal unemployment insurance law, except that in the case of an adversely affected worker who is participating in training under this part, such income shall not include earnings from work for such week that are equal to or less than the most recent weekly benefit amount of the unemployment insurance payable to the worker for a week of total unemployment preceding the worker's first exhaustion of unemployment insurance (as determined for purposes of section 2291(a)(3)(B) of this title).
 
 #### (b) Adversely affected workers who are undergoing training
 
@@ -16,13 +16,31 @@ Any adversely affected worker who is entitled to trade readjustment allowances a
 
 If a training allowance under any Federal law other than this chapter is paid to an adversely affected worker for any week of unemployment with respect to which he would be entitled (determined without regard to any disqualification under section 2291(b) of this title) to a trade readjustment allowance if he applied for such allowance, each such week shall be deducted from the total number of weeks of trade readjustment allowance otherwise payable to him under section 2293(a) of this title when he applies for a trade readjustment allowance and is determined to be entitled to such allowance. If such training allowance paid to such worker for any week of unemployment is less than the amount of the trade readjustment allowance to which he would be entitled if he applied for such allowance, he shall receive, when he applies for a trade readjustment allowance and is determined to be entitled to such allowance, a trade readjustment allowance for such week equal to such difference.
 
-(Pub. L. 93–618, title II, §232, Jan. 3, 1975, 88 Stat. 2021; Pub. L. 97–35, title XXV, §2504(a), Aug. 13, 1981, 95 Stat. 883; Pub. L. 99–272, title XIII, §13003(c), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1423(b), Aug. 23, 1988, 102 Stat. 1246.)
+#### (d) Election of trade readjustment allowance or unemployment insurance
+
+Notwithstanding section 2291(a)(3)(B) of this title, an adversely affected worker may elect to receive a trade readjustment allowance instead of unemployment insurance during any week with respect to which the worker—
+
+&emsp;(1) is entitled to receive unemployment insurance as a result of the establishment by the worker of a new benefit year under State law, based in whole or in part upon part-time or short-term employment in which the worker engaged after the worker's most recent total separation from adversely affected employment; and
+
+&emsp;(2) is otherwise entitled to a trade readjustment allowance.
+
+(Pub. L. 93–618, title II, §232, Jan. 3, 1975, 88 Stat. 2021; Pub. L. 97–35, title XXV, §2504(a), Aug. 13, 1981, 95 Stat. 883; Pub. L. 99–272, title XIII, §13003(c), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1423(b), Aug. 23, 1988, 102 Stat. 1246; Pub. L. 111–5, div. B, title I, §1822, Feb. 17, 2009, 123 Stat. 377.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
 
 #### References in Text
 
 This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–5, §§1822(1)(A), (B), 1893, temporarily substituted “unemployment shall” for “total unemployment shall” and “subsections (b), (c), and (d)” for “subsections (b) and (c)” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(2). Pub. L. 111–5, §§1822(1)(C), 1893, temporarily inserted “, except that in the case of an adversely affected worker who is participating in training under this part, such income shall not include earnings from work for such week that are equal to or less than the most recent weekly benefit amount of the unemployment insurance payable to the worker for a week of total unemployment preceding the worker's first exhaustion of unemployment insurance (as determined for purposes of section 2291(a)(3)(B) of this title)” before period. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (d). Pub. L. 111–5, §§1822(2), 1893, temporarily added subsec. (d). See Effective and Termination Dates of 2009 Amendment note below.
 
 1988—Subsec. (b). Pub. L. 100–418, §1423(b)(1), struck out “, including on-the-job training,” after “approved by the Secretary”.
 
@@ -38,6 +56,12 @@ Subsec. (e). Pub. L. 97–35, §2504(a)(2), struck out subsec. (e) which related
 
 Subsec. (f). Pub. L. 97–35, §2504(a)(2), struck out subsec. (f) which authorized rounding off to whole dollar amounts.
 
+#### Effective and Termination Dates of 2009 Amendment
+
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
+
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+
 #### Effective Date of 1988 Amendment
 
 Amendment by section 1423(b)(1) effective Aug. 23, 1988, and amendment by section 1423(b)(2) of Pub. L. 100–418 effective on the date that is 90 days after Aug. 23, 1988, see section 1430(a), (f) of Pub. L. 100–418, set out as an Effective Date note under section 2397 of this title.
@@ -48,9 +72,9 @@ Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemp
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 
 #### Reference to Subsection (d) Deemed Reference to (c)
 
-Section 2504(b) of Pub. L. 97–35 provided that: “Any reference in any law to subsection (d) of section 232 of the Trade Act of 1974 \[subsec. (d) of this section\] shall be considered a reference to subsection (c) thereof \[subsec. (c) of this section\].”
+Section 2504(b) of Pub. L. 97–35 provided that: “Any reference in any law to subsection (d) of section 232 of the Trade Act of 1974 \[subsec. (d) of this section\] shallbe considered a reference to subsection (c) thereof \[subsec. (c) of this section\].”
 

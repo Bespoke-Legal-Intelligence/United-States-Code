@@ -62,5 +62,5 @@ Act Aug. 9, 1955, §2, substituted “subchapter” for “chapter”.
 
 International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1, of 1954, §§1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
 
-For provisions transferring Foreign Claims Settlement Commission of the United States as a separateagency within the Department of Justice, see section 1622a et seq. of this title.
+For provisions transferring Foreign Claims Settlement Commission of the United States as a separate agency within the Department of Justice, see section 1622a et seq. of this title.
 

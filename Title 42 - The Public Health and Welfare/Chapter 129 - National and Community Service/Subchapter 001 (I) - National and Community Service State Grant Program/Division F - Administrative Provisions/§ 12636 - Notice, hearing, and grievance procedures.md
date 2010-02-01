@@ -10,7 +10,7 @@
 
 &emsp;The Corporation shall prescribe procedures to ensure that—
 
-&emsp;&emsp;(A) assistance provided under this subchapter shall not be suspended for failure to comply with the applicable terms and conditions of this subchapter except, in emergency situations, a suspension may be granted for 30 days; and
+&emsp;&emsp;(A) assistance provided under this subchapter shall not be suspended for failure to comply with the applicable terms and conditions of this subchapter except, in emergency situations, a suspension may be granted for 1 or more periods of 30 days not to exceed a total of 90 days; and
 
 &emsp;&emsp;(B) assistance provided under this subchapter shall not be terminated or revoked for failure to comply with applicable terms and conditions of this subchapter unless the recipient of such assistance has been afforded reasonable notice and opportunity for a full and fair hearing.
 
@@ -34,7 +34,7 @@ Nothing in this subchapter shall be construed to link performance of service wit
 
 #### (1) In general
 
-&emsp;A State or local applicant that receives assistance under this subchapter shall establish and maintain a procedure for the filing and adjudication of grievances from participants, labor organizations, and other interested individuals concerning projects that receive assistance under this subchapter, including grievances regarding proposed placements of such participants in such projects.
+&emsp;An entity that receives assistance under this subchapter shall establish and maintain a procedure for the filing and adjudication of grievances from participants, labor organizations, and other interested individuals concerning projects that receive assistance under this subchapter, including grievances regarding proposed placements of such participants in such projects.
 
 #### (2) Deadline for grievances
 
@@ -44,7 +44,7 @@ Nothing in this subchapter shall be construed to link performance of service wit
 
 #### (A) Hearing
 
-&emsp;&emsp;A hearing on any grievance conducted under this subsection shall be conducted not later than 30 days after the filing of such grievance.
+&emsp;&emsp;A hearing on any grievance conducted under this subsection shall be conducted notlater than 30 days after the filing of such grievance.
 
 #### (B) Decision
 
@@ -92,9 +92,15 @@ Nothing in this subchapter shall be construed to link performance of service wit
 
 &emsp;&emsp;(B) termination of such payments;
 
-&emsp;&emsp;(C) prohibition of the placement described in paragraph (5); and
+&emsp;&emsp;(C) prohibition of the placement described in paragraph (5);
 
-&emsp;&emsp;(D) in a case in which the grievance involves a violation of subsection (a) or (b) of section 12637 of this title and the employer of the displaced employee is the recipient of assistance under this subchapter—
+&emsp;&emsp;(D) in a case in which the grievance is filed by an individual applicant or participant—
+
+&emsp;&emsp;&emsp;(i) the applicant's selection or the participant's reinstatement, as the case may be; and
+
+&emsp;&emsp;&emsp;(ii) other changes in the terms and conditions of service applicable to the individual; and
+
+&emsp;&emsp;(E) in a case in which the grievance involves a violation of subsection (a) or (b) of section 12637 of this title and the employer of the displaced employee is the recipient of assistance under this subchapter—
 
 &emsp;&emsp;&emsp;(i) reinstatement of the displaced employee to the position held by such employee prior to displacement;
 
@@ -108,9 +114,15 @@ Nothing in this subchapter shall be construed to link performance of service wit
 
 &emsp;Suits to enforce arbitration awards under this section may be brought in any district court of the United States having jurisdiction of the parties, without regard to the amount in controversy and without regard to the citizenship of the parties.
 
-(Pub. L. 101–610, title I, §176, Nov. 16, 1990, 104 Stat. 3161; Pub. L. 103–82, title I, §116, title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 863, 918.)
+(Pub. L. 101–610, title I, §176, Nov. 16, 1990, 104 Stat. 3161; Pub. L. 103–82, title I, §116, title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 863, 918; Pub. L. 111–13, title I, §1604, Apr. 21, 2009, 123 Stat. 1529.)
 
 #### Amendments
+
+2009—Subsec. (a)(2)(A). Pub. L. 111–13, §1604(1), substituted “1 or more periods of 30 days not to exceed a total of 90 days” for “30 days”.
+
+Subsec. (f)(1). Pub. L. 111–13, §1604(2)(A), substituted “An entity” for “A State or local applicant”.
+
+Subsec. (f)(6)(D), (E). Pub. L. 111–13, §1604(2)(B), added subpar. (D) and redesignated former subpar. (D) as (E).
 
 1993—Subsec. (a)(1). Pub. L. 103–82, §402(b)(1), substituted “Corporation” for “Commission” in two places.
 
@@ -123,6 +135,10 @@ Subsec. (a)(2)(B). Pub. L. 103–82, §116(a)(2), inserted “or revoked” afte
 Subsec. (e). Pub. L. 103–82, §116(b), inserted before period at end “, other than assistance provided pursuant to this chapter”.
 
 Subsec. (f). Pub. L. 103–82, §116(c), amended subsec. (f) generally, substituting pars. (1) to (6) for former pars. (1) to (6) relating to same subjects and adding par. (7).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 
 #### Effective Date of 1993 Amendment
 

@@ -1,24 +1,12 @@
 ### §948d. Jurisdiction of military commissions
 
-(a)
+A military commission under this chapter shall have jurisdiction to try persons subject to this chapter for any offense made punishable by this chapter, sections 904 and 906 of this title (articles 104 and 106 of the Uniform Code of Military Justice), or the law of war, whether such offense was committed before, on, or after September 11, 2001, and may, under such limitations as the President may prescribe, adjudge any punishment not forbidden by this chapter, including the penalty of death when specificallyauthorized under this chapter. A military commission is a competent tribunal to make a finding sufficient for jurisdiction.
 
-Jurisdiction.—A military commission under this chapter shall have jurisdiction to try any offense made punishable by this chapter or the law of war when committed by an alien unlawful enemy combatant before, on, or after September 11, 2001.
+(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2576.)
 
-(b)
+#### Prior Provisions
 
-Lawful Enemy Combatants.—Military commissions under this chapter shall not have jurisdiction over lawful enemy combatants. Lawful enemy combatants who violate the law of war are subject to chapter 47 of this title. Courts-martial established under that chapter shall have jurisdiction to try a lawful enemy combatant for any offense made punishable under this chapter.
+A prior section 948d, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2603, related to jurisdiction of military commissions, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-(c)
-
-Determination of Unlawful Enemy Combatant Status Dispositive.—A finding, whether before, on, or after the date of the enactment of the Military Commissions Act of 2006, by a Combatant Status Review Tribunal or another competent tribunal established under the authority of the President or the Secretary of Defense that a person is an unlawful enemy combatant is dispositive for purposes of jurisdiction for trial by military commission under this chapter.
-
-(d)
-
-Punishments.—A military commission under this chapter may, under such limitations as the Secretary of Defense may prescribe, adjudge any punishment not forbidden by this chapter, including the penalty of death when authorized under this chapter or the law of war.
-
-(Added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2603.)
-
-#### References in Text
-
-The date of the enactment of the Military Commissions Act of 2006, referred to in subsec. (c), is the date of enactment of Pub. L. 109–366, which was approved Oct. 17, 2006.
+A prior section 948e, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2603, which required the Secretary of Defense to submit an annual report to congressional committees, was omitted in the general amendment of this chapter by Pub. L. 111–84. See section 1806 of Pub. L. 111–84, set out as a note under section 948a of this title.
 

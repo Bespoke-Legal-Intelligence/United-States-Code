@@ -76,7 +76,7 @@ A hazardous chemical subject to the requirements of this section is any hazardou
 
 #### (2) Availability to other State and local officials
 
-&emsp;A State or local official acting in his or her official capacity may have access to tier II information by submitting a request to the State emergency response commission or the local emergency planning committee. Upon receipt of a request for tier II information, the State commission or local committee shall, pursuant to paragraph (1), request the facility owner or operator for the tier II information and make available such information to the official.
+&emsp;A State or local official acting in his or her official capacity may have access to tier II information by submitting a request to theState emergency response commission or the local emergency planning committee. Upon receipt of a request for tier II information, the State commission or local committee shall, pursuant to paragraph (1), request the facility owner or operator for the tier II information and make available such information to the official.
 
 #### (3) Availability to public
 

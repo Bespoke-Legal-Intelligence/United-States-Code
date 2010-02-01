@@ -4,7 +4,7 @@ For the purposes of this chapter—
 
 &emsp;(1) “alluvial valley floors” means the unconsolidated stream laid deposits holding streams where water availability is sufficient for subirrigation or flood irrigation agricultural activities but does not include upland areas which are generally overlain by a thin veneer of colluvial deposits composed chiefly of debris from sheet erosion, deposits by unconcentrated runoff or slope wash, together with talus, other mass movement accumulation and windblown deposits;
 
-&emsp;(2) “approximate original contour” means that surface configuration achieved by backfilling and grading of the mined area so that the reclaimed area, including any terracing or access roads, closely resembles the general surface configuration of the land prior to mining and blends into and complements the drainage pattern of the surrounding terrain, with all highwalls and spoil piles eliminated; water impoundments may be permitted wherethe regulatory authority determines that they are in compliance with section 1265(b)(8) of this title;
+&emsp;(2) “approximate original contour” means that surface configuration achieved by backfilling and grading of the mined area so that the reclaimed area, including any terracing or access roads, closely resembles the general surface configuration of the land prior to mining and blends into and complements the drainage pattern of the surrounding terrain, with all highwalls and spoil piles eliminated; water impoundments may be permitted where the regulatory authority determines that they are in compliance with section 1265(b)(8) of this title;
 
 &emsp;(3) “commerce” means trade, traffic, commerce, transportation, transmission, or communication among the several States, or between a State and any other place outside thereof, or between points in the same State which directly or indirectly affect interstate commerce;
 
@@ -40,7 +40,7 @@ For the purposes of this chapter—
 
 &emsp;(19) “person” means an individual, partnership, association, society, joint stock company, firm, company, corporation, or other business organization;
 
-&emsp;(20) the term “prime farmland” shall have the same meaning as that previously prescribed by the Secretary of Agriculture on the basis of such factors as moisture availability, temperature regime, chemical balance, permeability, surface layer composition, susceptibility to flooding, and erosion characteristics, and which historically have been used for intensive agricultural purposes, and as published in the Federal Register.<sup>2</sup>
+&emsp;(20) the term “prime farmland” shall have the same meaning as that previously prescribed by the Secretary of Agriculture on the basis of such factors as moisture availability, temperature regime, chemical balance, permeability, surface layer composition, susceptibility to flooding, and erosion characteristics, and which historically have been used for intensive agricultural purposes, and as published in the Federal Register.<sup>1</sup>
 
 &emsp;(21) “reclamation plan” means a plan submitted by an applicant for a permit under a State program or Federal program which sets forth a plan for reclamation of the proposed surface coal mining operations pursuant to section 1258 of this title;
 
@@ -50,7 +50,7 @@ For the purposes of this chapter—
 
 &emsp;(24) “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, and Guam;
 
-&emsp;(25) “State program” means a program established by a State pursuant to section 1253 of this title to regulate surface coal mining and reclamation operations, on lands within such State in accord with the requirements ofthis chapter and regulations issued by the Secretary pursuant to this chapter;
+&emsp;(25) “State program” means a program established by a State pursuant to section 1253 of this title to regulate surface coal mining and reclamation operations, on lands within such State in accord with the requirements of this chapter and regulations issued by the Secretary pursuant to this chapter;
 
 &emsp;(26) “State regulatory authority” means the department or agency in each State which has primary responsibility at the State level for administering this chapter;
 
@@ -60,15 +60,15 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(A) activities conducted on the surface of lands in connection with a surface coal mine or subject to the requirements of section 1266 of this title surface operations and surface impacts incident to an underground coal mine, the products of which enter commerce or the operations of which directly or indirectly affect interstate commerce. Such activities include excavation for the purpose of obtaining coal including such common methods as contour, strip, auger, mountaintop removal, box cut, open pit, and area mining, the uses of explosives and blasting, and in situ distillation or retorting, leaching or other chemical or physical processing, and the cleaning, concentrating, or other processing or preparation, loading of coal for interstate commerce at or near the mine site: <i>Provided, however</i>, That such activities do not include the extraction of coal incidental to the extraction of other minerals where coal does not exceed 162/3 per centum of the tonnage of minerals removed for purposes of commercial use or sale or coal explorations subject to section 1262 of this title; and
 
-&emsp;&emsp;(B) the areas upon which such activities occur or where such activities disturb the natural land surface. Such areas shall also include any adjacent land the use of which is incidental to any such activities, all lands affected by the construction of new roads or the improvement or use of existing roads to gain access to the site of such activities and for haulage, and excavations, workings, impoundments, dams, ventilation shafts, entryways, refuse banks, dumps, stockpiles, overburden piles, spoil banks, culm banks, tailings, holes or depressions, repair areas, storage areas, processing areas, shipping areas and other areas upon which are sited structures, facilities, or other property or materials on the surface, resulting from or incident to such activities; and <sup>3</sup>
+&emsp;&emsp;(B) the areas upon which such activities occur or where such activities disturb the natural land surface. Such areas shall also include any adjacent land the use of which is incidental to any such activities, all lands affected by the construction of new roads or the improvement or use of existing roads to gain access to the site of such activities and for haulage, and excavations, workings, impoundments, dams, ventilation shafts, entryways, refuse banks, dumps, stockpiles, overburden piles, spoil banks, culm banks, tailings, holes or depressions, repair areas, storage areas, processing areas, shipping areas and other areas upon which are sited structures, facilities, or other property or materials on the surface, resulting from or incident to such activities; and <sup>2</sup>
 
-&emsp;(29) “unwarranted failure to comply” means the failure of a permittee to prevent the occurrence of any violation of his permit or any requirement of this chapter due to indifference, lack of diligence, or lack of reasonable care, or the failure to abate any violation of such permit or the chapter due to indifference, lack of diligence, or lack of reasonable care;
+&emsp;(29) “unwarranted failure to comply” means the failure of a permittee to prevent the occurrence of any violation of his permit or any requirement of this chapter due to indifference, lack of diligence, or lack of reasonable care, or the failure to abate any violation ofsuch permit or the chapter due to indifference, lack of diligence, or lack of reasonable care;
 
 &emsp;(30) “lignite coal” means consolidated lignitic coal having less than 8,300 British thermal units per pound, moist and mineral matter free;
 
 &emsp;(31) the term “coal laboratory”, as used in subchapter VIII, means a university coal research laboratory established and operated pursuant to a designation made under section 1311 of this title;
 
-&emsp;(32) the term “institution of higher education” as used in subchapters VIII and IX, means any such institution as defined by section 1001 of title 20;
+&emsp;(32) the term “institution of higher education” as used in subchapters VIII and IX, means any such institution as defined by section 1001 <sup>3</sup> of title 20;
 
 &emsp;(33) the term “unanticipated event or condition” as used in section 1260(e) of this title means an event or condition encountered in a remining operation that was not contemplated by the applicable surface coal mining and reclamation permit; and
 
@@ -79,6 +79,8 @@ For the purposes of this chapter—
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which enacted this chapter and amended section 1114 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
+
+Section 1001 of title 20, referred to in par. (32), was in the original “section 101 of the Higher Education Act of 1968” and was translated as reading “section 101 of the Higher Education Act of 1965”, meaning section 101 of Pub. L. 89–329, to reflect the probable intent of Congress because section 101 was added to the Higher Education Act of 1965 by Pub. L. 105–244.
 
 #### Amendments
 
@@ -92,7 +94,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
-<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
+<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
 
-<i><sup>3</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

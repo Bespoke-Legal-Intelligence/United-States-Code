@@ -22,7 +22,7 @@
 
 #### (b) Briefing
 
-(1) The United States Trade Representative shall keep each official adviser designated under subsection (a)(1) of this section currently informed on matters affecting the trade policy of the United States and, with respect to possible agreements, negotiating objectives, the status of negotiations in progress, and the nature of any changes in domestic law or the administration thereof which may be recommended to Congress to carry out any trade agreement or any requirement of, amendment to, or recommendation under, such agreement.
+(1) The United States Trade Representative shall keep each official adviser designated undersubsection (a)(1) of this section currently informed on matters affecting the trade policy of the United States and, with respect to possible agreements, negotiating objectives, the status of negotiations in progress, and the nature of any changes in domestic law or the administration thereof which may be recommended to Congress to carry out any trade agreement or any requirement of, amendment to, or recommendation under, such agreement.
 
 (2) The United States Trade Representative shall keep each official adviser designated under subsection (a)(2) of this section currently informed regarding the trade policy matters and negotiations with respect to which the adviser is designated.
 

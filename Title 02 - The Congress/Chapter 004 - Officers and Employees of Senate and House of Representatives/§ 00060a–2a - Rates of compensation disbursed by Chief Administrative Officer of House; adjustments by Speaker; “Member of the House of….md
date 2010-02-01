@@ -26,7 +26,7 @@
 
 #### References in Text
 
-This Act, referred to in par. (1), probably means the Legislative Branch Appropriations Act, 1988, Pub. L.100–202, §101(i), Dec. 22, 1987, 101 Stat. 1329–290. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in par. (1), probably means the Legislative Branch Appropriations Act, 1988, Pub. L. 100–202, §101(i), Dec. 22, 1987, 101 Stat. 1329–290. For complete classification of this Act to the Code, see Tables.
 
 The amendments made by this section, referred to in par. (1), means the amendments made by section 101(i) \[title III, §311\] of Pub. L. 100–202, Dec. 22, 1987, 101 Stat. 1329–290, 1329–310, which enacted this section, amended section 60a–1 of this title, and enacted provisions set out as a note under section 60a–1 of this title.
 
@@ -118,7 +118,7 @@ Sec. 5. (a) Subject to the approval of the Speaker, the Clerk may establish the 
 
 #### general limitation
 
-Sec. 6. The maximum annual rate of pay is $168,411 for any employee whose pay is disbursed by the ChiefAdministrative Officer and is not otherwise provided for in this Order or otherwise limited by law, rule, or regulation.
+Sec. 6. The maximum annual rate of pay is $168,411 for any employee whose pay is disbursed by the Chief Administrative Officer and is not otherwise provided for in this Order or otherwise limited by law, rule, or regulation.
 
 #### shared employees
 

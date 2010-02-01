@@ -6,7 +6,7 @@
 
 (2) The Board may call for such other reports as it may from time to time require.
 
-(3) The Board may require reports of condition to be published in such manner, not inconsistent with any applicable law, as it may direct. Any insured credit union which maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such an error, fails to submit or publish any report required under this subsection or section 1756 of this title, within the period of time specified by the Board, or submits or publishes any false or misleading report or information, or inadvertently transmits or publishes any report which is minimally late, shall be subject to a penalty of not more than $2,000 for each day during which such failure continues or such false or misleading information is not corrected. The insured credit union shall have the burden of proving that an error was inadvertent and that a report was inadvertently transmitted or published late. Any insured credit union which fails to submit or publish any report required under this subsection or section 1756 of this title, within the period of time specified by the Board, or submits or publishes any false or misleading report or information, in a manner not described in the 2nd preceding sentence shall be subject to a penalty of not more than $20,000 for each day during which such failure continues or such false or misleading information is not corrected. Notwithstanding the preceding sentence, if any insured credit union knowingly or with reckless disregard for the accuracy of any information or report described in such sentence submits or publishes any false or misleading report or information, the Board may assess a penalty of not more than $1,000,000 or 1 percent of total assets of such credit union, whichever is less, per day for each day during which such failure continues or such false or misleading information is not corrected. Any penalty imposed under any of the 4 preceding sentences shall be assessed and collected by the Board in the manner provided in section 1786(k)(2) of this title (for penalties imposed under such section) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such section. Any insured credit union against which any penalty is assessed under this subsection shall be afforded an agency hearing if such insured credit union submits a request for such hearing within 20 days afterthe issuance of the notice of assessment. Section 1786(j) of this title shall apply to any proceeding under this subsection.
+(3) The Board may require reports of condition to be published in such manner, not inconsistent with any applicable law, as it may direct. Any insured credit union which maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such an error, fails to submit or publish any report required under this subsection or section 1756 of this title, within the period of time specified by the Board, or submits or publishes any false or misleading report or information, or inadvertently transmits or publishes any report which is minimally late, shall be subject to a penalty of not more than $2,000 for each day during which such failure continues or such false or misleading information is not corrected. The insured credit union shall have the burden of proving that an error was inadvertent and that a report was inadvertently transmitted or published late. Any insured credit union which fails to submit or publish any report required under this subsection or section 1756 of this title, within the period of time specified by the Board, or submits or publishes any false or misleading report or information, in a manner not described in the 2nd preceding sentence shall be subject to a penalty of not more than $20,000 for each day during which such failure continues or such false or misleading information is not corrected. Notwithstanding the preceding sentence, if any insured credit union knowingly or with reckless disregard for the accuracy of any information or report described in such sentence submits or publishes any false or misleading report or information, the Board may assess a penalty of not more than $1,000,000 or 1 percent of total assets of such credit union, whichever is less, per day for each day during which such failure continues or such false or misleading information is not corrected. Any penalty imposed under any of the 4 preceding sentences shall be assessed and collected by the Board in the manner provided in section 1786(k)(2) of this title (for penalties imposed under such section) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such section. Any insured creditunion against which any penalty is assessed under this subsection shall be afforded an agency hearing if such insured credit union submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1786(j) of this title shall apply to any proceeding under this subsection.
 
 (4) The Board may accept any report of condition made to any commission, board, or authority having supervision of a State-chartered credit union and may furnish to any such commission, board, or authority reports of condition made to the Board.
 
@@ -150,13 +150,35 @@ Relation of premium charge to equity ratio of Fund.—The Board may assess a pre
 
 Premium charge required if equity ratio falls below 1.2 percent.—If the Fund's equity ratio is less than 1.2 percent, the Board shall, subject to subparagraph (B), assess a premium charge in such an amount as the Board determines to be necessary to restore the equity ratio to, and maintain that ratio at, 1.2 percent.
 
+&emsp;(D)
+
+Fund restoration plans.—
+
+&emsp;&emsp;(i)
+
+In general.—Whenever—
+
+&emsp;&emsp;&emsp;(I) the Board projects that the equity ratio of the Fund will, within 6 months of such determination, fall below the minimum amount specified in subparagraph (C); or
+
+&emsp;&emsp;&emsp;(II) the equity ratio of the Fund actually falls below the minimum amount specified in subparagraph (C) without any determination under sub-clause (I) having been made,
+
+> &emsp;&emsp;the Board shall establish and implement a restoration plan within 90 days that meets the requirements of clause (ii) and such other conditions as the Board determines to be appropriate.
+
+&emsp;&emsp;(ii)
+
+Requirements of restoration plan.—A restoration plan meets the requirements of this clause if the plan provides that the equity ratio of the Fund will meet or exceed the minimum amount specified in subparagraph (C) before the end of the 8-year period beginning upon the implementation of the plan (or such longer period as the Board may determine to be necessary due to extraordinary circumstances).
+
+&emsp;&emsp;(iii)
+
+Transparency.—Not more than 30 days after the Board establishes and implements a restoration plan under clause (i), the Board shall publish in the Federal Register a detailed analysis of the factors considered and the basis for the actions taken with regard to the plan.
+
 (3)
 
 Distributions from Fund required.—
 
 &emsp;(A)
 
-In general.—The Board shall effect a pro rata distribution to insured credit unions after each calendar year if, as of the end of that calendar year—
+In general.—The Board shall, subject to the requirements of section 1790e(e) of this title, effect a pro rata distribution to insured credit unions after each calendar year if, as of the end of that calendar year—
 
 &emsp;&emsp;(i) any loans to the Fund from the Federal Government, and any interest on those loans, have been repaid;
 
@@ -274,9 +296,13 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The term “normal operating level”, when applied to the Fund, means an equity ratio specified by the Board, which shall be not less than 1.2 percent and not more than 1.5 percent.
 
-(June 26, 1934, ch. 750, title II, §202, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 995; amended Pub. L. 93–383, title VII, §727, Aug. 22, 1974, 88 Stat. 720; Pub. L. 95–630, title V, §§502(b), 505, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 97–320, title V, §§528, 529, Oct. 15, 1982, 96 Stat. 1535; Pub. L. 97–457, §29, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 98–369, div. B, title VIII, §§2802–2810, July 18, 1984, 98 Stat. 1204, 1205; Pub. L. 101–73, title IX, §§911(f), 919, 931(b), Aug. 9, 1989, 103 Stat. 482, 488, 493; Pub. L. 102–242, title III, §313(b), Dec. 19, 1991, 105 Stat. 2369; Pub. L. 102–550, title XVI, §1605(b)(3), Oct. 28, 1992, 106 Stat. 4087; Pub. L. 105–219, title II, §201, title III, §302(a), Aug. 7, 1998, 112 Stat. 918, 931; Pub. L. 109–351, title VII, §§707(b), 726(12), Oct. 13, 2006, 120 Stat. 1987, 2002.)
+(June 26, 1934, ch. 750, title II, §202, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 995; amended Pub. L. 93–383, title VII, §727, Aug. 22, 1974, 88 Stat. 720; Pub. L. 95–630, title V, §§502(b), 505, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 97–320, title V, §§528, 529, Oct. 15, 1982, 96 Stat. 1535; Pub. L. 97–457, §29, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 98–369, div. B, title VIII, §§2802–2810, July 18, 1984, 98 Stat. 1204, 1205; Pub. L. 101–73, title IX, §§911(f), 919, 931(b), Aug. 9, 1989, 103 Stat. 482, 488, 493; Pub. L. 102–242, title III, §313(b), Dec. 19, 1991, 105 Stat. 2369; Pub. L. 102–550, title XVI, §1605(b)(3), Oct. 28, 1992, 106 Stat. 4087; Pub. L. 105–219, title II, §201, title III, §302(a), Aug. 7, 1998, 112 Stat. 918, 931; Pub. L. 109–351, title VII, §§707(b), 726(12), Oct. 13, 2006, 120 Stat. 1987, 2002; Pub. L. 111–22, div. A, title II, §204(e), (f)(2), May 20, 2009, 123 Stat. 1651, 1653.)
 
 #### Amendments
+
+2009—Subsec. (c)(2)(D). Pub. L. 111–22, §204(e), added subpar. (D).
+
+Subsec. (c)(3)(A). Pub. L. 111–22, §204(f)(2), inserted “, subject to the requirements of section 1790e(e) of this title,” after “The Board shall” in introductory provisions.
 
 2006—Subsec. (a)(8). Pub. L. 109–351, §707(b), added par. (8).
 
@@ -286,7 +312,7 @@ Subsec. (h)(3). Pub. L. 109–351, §726(12), substituted “section 1787(k)(1) 
 
 Subsec. (b). Pub. L. 105–219, §302(a)(1), added subsec. (b) and struck out former subsec. (b) which read as follows:
 
-“(b)(1) For each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the preceding insurance year and both the amount of its deposit or adjustment thereof and theamount of the premium charge for insurance due to the fund for that year, both as computed under subsection (c) of this section.
+“(b)(1) For each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the preceding insurance year and both the amount of its deposit or adjustment thereof and the amount of the premium charge for insurance due to the fund for that year, both as computed under subsection (c) of this section.
 
 “(2) The certified statements required to be filed with the Board pursuant to this subsection shall be in such form and shall set forth such supporting information as the Board shall require.
 

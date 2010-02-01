@@ -16,7 +16,7 @@ Subject to such limitations as may be provided for under this section, the Board
 
 &emsp;(A) communication with local Congressional Award Councils concerning the Congressional Award Program;
 
-&emsp;(B) provision, upon the request of any local Congressional Award Council, of such technical assistance as may be necessary to assist such council with its responsibilities, including the provision of medals, the preparation and provision of applications, guidance on disposition of applications, arrangements with respect to local award ceremonies, and other responsibilities of such council;
+&emsp;(B) provision, upon the request of any local Congressional Award Council, of such technical assistance as may be necessary to assistsuch council with its responsibilities, including the provision of medals, the preparation and provision of applications, guidance on disposition of applications, arrangements with respect to local award ceremonies, and other responsibilities of such council;
 
 &emsp;(C) conduct of outreach activities to establish new local Congressional Award Councils, particularly in inner-city areas and rural areas;
 
@@ -94,7 +94,7 @@ The Board shall have no power—
 
 #### (i) Establishment, functions, etc., of private nonprofit corporation; articles of incorporation of corporation; compensation, etc., for director, officer, or employee of corporation
 
-(1) The Board shall provide for the establishment of a private nonprofit corporation for the sole purpose of assisting the Board to carry out the Congressional Award Program, and shall delegate to the corporation such duties as it considers appropriate.
+(1) The Board shall provide for the establishment of a private nonprofit corporation for thesole purpose of assisting the Board to carry out the Congressional Award Program, and shall delegate to the corporation such duties as it considers appropriate.
 
 (2) The articles of incorporation of the corporation established under this subsection shall provide that—
 

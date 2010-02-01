@@ -30,7 +30,7 @@ In addition to the tax imposed by the preceding subsection, there is hereby impo
 
 #### (c) Relief from taxes in cases covered by certain international agreements
 
-During any period in which there is in effect an agreement entered into pursuant to section 233 of the Social Security Act with any foreign country, wages received by or paid to an individual shall be exempt from the taxes imposed by this section to the extent that such wages are subject under such agreement exclusively to thelaws applicable to the social security system of such foreign country.
+During any period in which there is in effect an agreement entered into pursuant to section 233 of the Social Security Act with any foreign country, wages received by or paid to an individual shall be exempt from the taxes imposed by this section to the extent that such wages are subject under such agreement exclusively to the laws applicable to the social security system of such foreign country.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 415; Sept. 1, 1954, ch. 1206, title II, §208(b), 68 Stat. 1094; Aug. 1, 1956, ch. 836, title II, §202(b), 70 Stat. 845; Pub. L. 85–840, title IV, §401(b), Aug. 28, 1958, 72 Stat. 1041; Pub. L. 87–64, title II, §201(b), June 30, 1961, 75 Stat. 141; Pub. L. 89–97, title I, §111(c)(5), title III, §321(b), July 30, 1965, 79 Stat. 342, 395; Pub. L. 90–248, title I, §109(a)(2), (b)(2), Jan. 2, 1968, 81 Stat. 836; Pub. L. 92–5, title II, §204(a)(1), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, §204(a)(2), (b)(2), July 1, 1972, 86 Stat. 421, 422; Pub. L. 92–603, §135(a)(2), (b)(2), Oct. 30, 1972, 86 Stat. 1362, 1363; Pub. L. 93–233, §6(a)(1), (b)(2), Dec. 31, 1973, 87 Stat. 954, 955; Pub. L. 94–455, title XIX, §1903(a)(1), Oct. 4, 1976, 90 Stat. 1806; Pub. L. 95–216, title I, §101(a)(1), (b)(1), title III, §317(b)(2), Dec. 20, 1977, 91 Stat. 1510, 1511, 1540; Pub. L. 98–21, title I, §123(a)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530.)
 
@@ -74,7 +74,7 @@ Subsec. (b)(6). Pub. L. 93–233, §6(b)(2), incorporated former provision of pa
 
 Subsec. (a)(3) to (5). Pub. L. 92–336, §204(a)(2), substituted “any of the calendar years 1971 through 1977” for “the calendar years 1971 and 1972” in par. (3), “any of the calendar years 1978 through 2010” for “the calendar years 1973, 1974, and 1975” and “4.5” for “5.0” in par. (4), and “December 31, 2010” for “December 31, 1975” and “5.35” for “5.15” in par. (5).
 
-Subsec. (a)(4). Pub. L. 92–603, §135(a)(2)(B), substituted “wages received during the calendar years 1973, 1974, 1975, 1976, and 1977, the rate shall be 4.85 percent;” for “wages paid during any of the calendar years 1978 through 2010, the rate shall be 4.5 per cent; and”.
+Subsec. (a)(4). Pub. L. 92–603, §135(a)(2)(B), substituted “wages received during the calendar years 1973, 1974,1975, 1976, and 1977, the rate shall be 4.85 percent;” for “wages paid during any of the calendar years 1978 through 2010, the rate shall be 4.5 per cent; and”.
 
 Subsec. (a)(5). Pub. L. 92–603, §135(a)(2)(B), substituted “wages received during the calendar years 1978 through 2010, the rate shall be 4.80 percent; and” for “wages paid after December 31, 2010, the rate shall be 5.35 percent”.
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 92–336 applicable only with respect to remuneration paid 
 
 #### Effective Date of 1971 Amendment
 
-Section 204(b) of Pub. L. 92–5 provided that: “The amendments made by subsection (a)(1) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1971. The remaining amendments made by this section \[amending section 3111 of this title\] shall apply only with respect to remuneration paid after December 31, 1971.”
+Section 204(b) of Pub. L. 92–5 provided that: “The amendments made by subsection (a)(1) \[amending thissection\] shall apply only with respect to taxable years beginning after December 31, 1971. The remaining amendments made by this section \[amending section 3111 of this title\] shall apply only with respect to remuneration paid after December 31, 1971.”
 
 #### Effective Date of 1968 Amendment
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 90–248 applicable only with respect to remuneration paid 
 
 #### Effective Date of 1965 Amendment
 
-Amendment by section 111(c)(5) of Pub. L. 89–97 applicable to calendar year 1966 or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act (section 3201 et seq. of this title) provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act (section 3101 et seq. of thistitle) provides may be counted for such calendar year, see section 111(e) of Pub. L. 89–97, set out as an Effective Date note under section 1395i–1 of Title 42, The Public Health and Welfare.
+Amendment by section 111(c)(5) of Pub. L. 89–97 applicable to calendar year 1966 or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act (section 3201 et seq. of this title) provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act (section 3101 et seq. of this title) provides may be counted for such calendar year, see section 111(e) of Pub. L. 89–97, set out as an Effective Date note under section 1395i–1 of Title 42, The Public Health and Welfare.
 
 Amendment by section 321(b) of Pub. L. 89–97 applicable with respect to remuneration paid after December 31, 1965, see section 321(d) of Pub. L. 89–97, set out as a note under section 1401 of this title.
 

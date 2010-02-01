@@ -68,11 +68,11 @@ Definitions.—For purposes of this paragraph, the following definitions shall a
 
 #### (b) Location in rural areas; inclusion of qualified nonrural residents who will become rural residents
 
-Housing and related facilities provided with loans described in subsection (a) of this section shall be located in rural areas; and applicants eligible for such loans under section 1472, 1487(a)(1),<sup>2</sup> or 1490f(a) of this title, or for occupancy of housing provided with such loans under section 1485 or 1490f(c) of this title, shall include otherwise qualified nonrural residents who will become rural residents.
+Housing and related facilities provided with loans described in subsection (a) of this sectionshall be located in rural areas; and applicants eligible for such loans under section 1472, 1487(a)(1),<sup>2</sup> or 1490f(a) of this title, or for occupancy of housing provided with such loans under section 1485 or 1490f(c) of this title, shall include otherwise qualified nonrural residents who will become rural residents.
 
 #### (c) Reimbursement of Rural Housing Insurance Fund
 
-There shall be reimbursed to the Rural Housing Insurance Fund by annual appropriations (1) the amounts by which nonprincipal payments made from the fund during each fiscal year to the holders of insured loans described in subsection (a)(1) of this section exceed interest due from the borrowers during each year, and (2) theamount of assistance payments described in subsections (a)(2) and (a)(5) of this section. There are authorized to be appropriated to the Rural Housing Insurance Fund such sums as may be necessary to reimburse such fund for the amount of assistance payments described in subsection (a)(1)(C) of this section. The Secretary may from time to time issue notes to the Secretary of the Treasury under section 1487(h) and of this title and section 1490f of this title to obtain amounts equal to such unreimbursed payments, pending the annual reimbursement by appropriation.
+There shall be reimbursed to the Rural Housing Insurance Fund by annual appropriations (1) the amounts by which nonprincipal payments made from the fund during each fiscal year to the holders of insured loans described in subsection (a)(1) of this section exceed interest due from the borrowers during each year, and (2) the amount of assistance payments described in subsections (a)(2) and (a)(5) of this section. There are authorized to be appropriated to the Rural Housing Insurance Fund such sums as may be necessary to reimburse such fund for the amount of assistance payments described in subsection (a)(1)(C) of this section. The Secretary may from time to time issue notes to the Secretary of the Treasury under section 1487(h) and of this title and section 1490f of this title to obtain amounts equal to such unreimbursed payments, pending the annual reimbursement by appropriation.
 
 #### (d) Rental assistance contract authority; preconditions, limitations, etc.
 
@@ -174,7 +174,7 @@ Subsec. (a)(2). Pub. L. 93–383, §514(a), added par. (2).
 
 Subsec. (b). Pub. L. 93–383, §516(c)(2), inserted references to sections 1490f(a) and 1490f(c) of this title.
 
-Subsec. (c). Pub. L. 93–383, §§514(b), 516(c)(3), reorganized structure of subsec. (c) by designating existingprovisions as cl. (1) and, as so designated, substituted reference to subsec. (a)(1) of this section for reference to subsec. (a) of this section, added cl. (2), and made former second clause into second sentence, and, as so amended, inserted reference to section 1490f of this title and struck out “excess” after “unreimbursed”.
+Subsec. (c). Pub. L. 93–383, §§514(b), 516(c)(3), reorganized structure of subsec. (c) by designating existing provisions as cl. (1) and, as so designated, substituted reference to subsec. (a)(1) of this section for reference to subsec. (a) of this section, added cl. (2), and made former second clause into second sentence, and, as so amended, inserted reference to section 1490f of this title and struck out “excess” after “unreimbursed”.
 
 #### Effective Date of 1983 Amendment
 

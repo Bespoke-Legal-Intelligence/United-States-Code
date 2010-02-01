@@ -16,7 +16,7 @@ There is established in the Institute a Medication Development Program through w
 
 &emsp;(6) directly or through grants, contracts, or cooperative agreements, support training in the fundamental sciences and clinical disciplines related to the pharmacotherapeutic treatment of drug abuse, including the use of training stipends, fellowships, and awards where appropriate; and
 
-&emsp;(7) coordinate the activities conducted under this section with related activities conducted within the National Institute on Alcohol Abuse and Alcoholism, the National Institute of Mental Health, and other appropriate institutes and shall consult with the Directors of such Institutes.
+&emsp;(7) coordinate the activities conducted under this section with related activities conducted within the National Institute on Alcohol Abuse and Alcoholism, the National Instituteof Mental Health, and other appropriate institutes and shall consult with the Directors of such Institutes.
 
 #### (b) Duties
 

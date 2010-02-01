@@ -10,7 +10,21 @@
 
 (c) This section does not prevent the immediate transfer of a member to a facility of the Department of Veterans Affairs for necessary hospital care.
 
-(Added Pub. L. 85–56, title XXII, §2201(31)(A), June 17, 1957, 71 Stat. 160; amended Pub. L. 87–651, title I, §107(c), Sept. 7, 1962, 76 Stat. 508; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), (4), Nov. 29, 1989, 103 Stat. 1602, 1603.)
+(d)(1) The Secretary of a military department shall ensure that each member of a reserve component under the jurisdiction of the Secretary who is determined, after a mobilization and deployment to an area in which imminent danger pay is authorized under section 310 of title 37, to require evaluation for a physical or mental disability which could result in separation or retirement for disability under this chapter or placement on the temporary disability retired list or inactive status list under this chapter is retained on active duty during the disability evaluation process until such time as such member is—
+
+&emsp;(A) cleared by appropriate authorities for continuation on active duty; or
+
+&emsp;(B) separated, retired, or placed on the temporary disability retired list or inactive status list.
+
+(2)(A) A member described in paragraph (1) may request termination of active duty under such paragraph at any time during the demobilization or disability evaluation process of such member.
+
+(B) Upon a request under subparagraph (A), a member described in paragraph (1) shall only be released from active duty after the member receives counseling about the consequences of termination of active duty.
+
+(C) Each release from active duty under subparagraph (B) shall be thoroughly documented.
+
+(3) The requirements in paragraph (1) shall expire on the date that is five years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010.
+
+(Added Pub. L. 85–56, title XXII, §2201(31)(A), June 17, 1957, 71 Stat. 160; amended Pub. L. 87–651, title I, §107(c), Sept. 7, 1962, 76 Stat. 508; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), (4), Nov. 29, 1989, 103 Stat. 1602, 1603; Pub. L. 111–84, div. A, title V, §511, Oct. 28, 2009, 123 Stat. 2280.)
 
 #### Historical and Revision Notes
 
@@ -18,7 +32,13 @@
 
 Sections 1218 and 1219 are restated, without substantive change, to conform to the style adopted for title 10.
 
+#### References in Text
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (d)(3), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
+
 #### Amendments
+
+2009—Subsec. (d). Pub. L. 111–84 added subsec. (d).
 
 1989—Subsec. (a)(1). Pub. L. 101–189, §1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 

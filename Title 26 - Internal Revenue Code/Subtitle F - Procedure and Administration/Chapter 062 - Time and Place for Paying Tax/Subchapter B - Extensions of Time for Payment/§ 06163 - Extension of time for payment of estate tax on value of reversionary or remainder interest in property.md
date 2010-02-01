@@ -46,5 +46,5 @@ Section 240(c) of Pub. L. 88–272, as amended by Pub. L. 99–514, §2, Oct. 22
 
 #### Effective Date of 1958 Amendment
 
-Section 66(b)(3) of Pub. L. 85–866 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and sections 925 and 926 of I.R.C. 1939\] shall apply in the case of any reversionary or remainder interest only if the precedent interest or interests in the property did not terminate before the beginning of the 6-month period which ends on the date of the enactment of this Act \[Sept. 2, 1958\].”
+Section 66(b)(3) of Pub. L. 85–866 provided that: “The amendments made by paragraphs (1) and (2) \[amendingthis section and sections 925 and 926 of I.R.C. 1939\] shall apply in the case of any reversionary or remainder interest only if the precedent interest or interests in the property did not terminate before the beginning of the 6-month period which ends on the date of the enactment of this Act \[Sept. 2, 1958\].”
 

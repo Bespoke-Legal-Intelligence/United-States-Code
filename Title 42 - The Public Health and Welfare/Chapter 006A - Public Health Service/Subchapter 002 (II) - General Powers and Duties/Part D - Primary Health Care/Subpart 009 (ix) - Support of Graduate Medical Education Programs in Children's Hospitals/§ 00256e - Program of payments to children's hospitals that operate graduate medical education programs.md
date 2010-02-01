@@ -72,7 +72,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 #### (D) Report to Congress
 
-&emsp;&emsp;Not later than the end of fiscal year 2011, the Secretary, acting through the Administrator of the Health Resources and ServicesAdministration, shall submit a report to the Congress—
+&emsp;&emsp;Not later than the end of fiscal year 2011, the Secretary, acting through the Administrator of the Health Resources and Services Administration, shall submit a report to the Congress—
 
 &emsp;&emsp;&emsp;(i) summarizing the information submitted in reports to the Secretary under subparagraph (B);
 
@@ -142,7 +142,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 &emsp;&emsp;(A) take into account variations in case mix among children's hospitals and the ratio of the number of full-time equivalent residents in the hospitals’ approved graduate medical residency training programs to beds (but excluding beds or bassinets assigned to healthy newborn infants); and
 
-&emsp;&emsp;(B) assure that the aggregate of the payments for indirect expenses associated with the treatment of more severely ill patients and the additional costs related to the teaching of residents under this section in a fiscal year are equal to the amount appropriated for such expenses for the fiscal yearinvolved under subsection (f)(2) of this section.
+&emsp;&emsp;(B) assure that the aggregate of the payments for indirect expenses associated with the treatment of more severely ill patients and the additional costs related to the teaching of residents under this section in a fiscal year are equal to the amount appropriated for such expenses for the fiscal year involved under subsection (f)(2) of this section.
 
 #### (e) Making of payments
 
@@ -224,7 +224,7 @@ Subsec. (c)(2)(E)(ii). Pub. L. 109–307, §2(c)(1), substituted “applied unde
 
 Subsec. (e)(1). Pub. L. 109–307, §2(a)(2), substituted “12” for “26”.
 
-Subsec. (e)(2). Pub. L. 109–307, §2(c)(2), struck out first sentence which read as follows: “The Secretary shallwithhold up to 25 percent from each interim installment for direct and indirect graduate medical education paid under paragraph (1).”
+Subsec. (e)(2). Pub. L. 109–307, §2(c)(2), struck out first sentence which read as follows: “The Secretary shall withhold up to 25 percent from each interim installment for direct and indirect graduate medical education paid under paragraph (1).”
 
 Subsec. (e)(3). Pub. L. 109–307, §2(c)(3), substituted “made and pay” for “made to pay”.
 

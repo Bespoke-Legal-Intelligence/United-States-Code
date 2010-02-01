@@ -34,7 +34,7 @@ In this section, the term “eligible entity” means—
 
 An eligible entity desiring a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require, including a description of—
 
-&emsp;(1) how the eligible entity will ensure that student privacy is protected and that individually identifiable information about students, the students’ achievements, and the students’ families remains confidential in accordance with section 1232g of this title; and
+&emsp;(1) how the eligible entity will ensure that student privacy is protected and that individually identifiable information about students, the students’ achievements, and the students’ families remains confidential in accordance with section 1232g of this title (commonly known as the “Family Educational Rights and Privacy Act of 1974”); and
 
 &emsp;(2) how the activities funded by the grant will be supported after the three-year grant period.
 
@@ -70,5 +70,13 @@ Not later than six months after the end of the projects funded by grants awarded
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-(Pub. L. 89–329, title I, §136, as added Pub. L. 110–315, title I, §115, Aug. 14, 2008, 122 Stat. 3111.)
+(Pub. L. 89–329, title I, §136, as added Pub. L. 110–315, title I, §115, Aug. 14, 2008, 122 Stat. 3111; amended Pub. L. 111–39, title I, §101(b)(4), July 1, 2009, 123 Stat. 1935.)
+
+#### Amendments
+
+2009—Subsec. (d)(1). Pub. L. 111–39 substituted “(commonly known as the ‘Family Educational Rights and Privacy Act of 1974’)” for “(Family Educational Rights and Privacy Act of 1974)”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

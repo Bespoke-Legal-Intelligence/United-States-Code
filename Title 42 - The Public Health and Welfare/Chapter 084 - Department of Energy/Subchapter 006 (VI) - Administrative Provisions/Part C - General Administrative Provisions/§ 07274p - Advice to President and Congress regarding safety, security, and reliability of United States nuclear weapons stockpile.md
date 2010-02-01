@@ -8,7 +8,7 @@ Congress makes the following findings:
 
 &emsp;(2) On September 24, 1996, President Clinton signed the Comprehensive Test Ban Treaty.
 
-&emsp;(3) Effective as of September 30, 1996, the United States is prohibited by section 507 ofthe Energy and Water Development Appropriations Act, 1993 (Public Law 102–377; 42 U.S.C. 2121 note) <sup>1</sup> from conducting underground nuclear tests “unless a foreign state conducts a nuclear test after this date, at which time the prohibition on United States nuclear testing is lifted”.
+&emsp;(3) Effective as of September 30, 1996, the United States is prohibited by section 507 of the Energy and Water Development Appropriations Act, 1993 (Public Law 102–377; 42 U.S.C. 2121 note) <sup>1</sup> from conducting underground nuclear tests “unless a foreign state conducts a nuclear test after this date, at which time the prohibition on United States nuclear testing is lifted”.
 
 &emsp;(4) Section 1436(b) of the National Defense Authorization Act, Fiscal Year 1989 (Public Law 100–456; 42 U.S.C. 2121 note) <sup>1</sup> requires the Secretary of Energy to “establish and support a program to assure that the United States is in a position to maintain the reliability, safety, and continued deterrent effect of its stockpile of existing nuclear weapons designs in the event that a low-threshold or comprehensive test ban on nuclear explosive testing is negotiated and ratified.”.
 
@@ -52,7 +52,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(B) the United States should continue to maintain nuclear forces of sufficient size and capability to implement an effective and robust deterrent strategy; and
 
-&emsp;&emsp;(C) the advice of the persons required to provide the President and Congress with assurances of the safety, security, effectiveness, and reliability of the nuclear weapons force should be scientifically based, without regard for politics, and of the highest quality and integrity.
+&emsp;&emsp;(C) the advice of the persons required to provide the President and Congress with assurances of the safety, security, effectiveness, and reliability of the nuclear weapons force should be scientifically based, withoutregard for politics, and of the highest quality and integrity.
 
 #### (c), (d) Omitted
 

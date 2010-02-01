@@ -54,5 +54,5 @@ Purposes.—The purposes of this section are—
 
 &emsp;“(B) to assist the Freedom Center in the development of its programs and facilities in Cincinnati, Ohio; and
 
-&emsp;“(C) to assist the National Park Service in the implementation of the National Underground Railroad Network to Freedom Act (112 Stat. 679; 16 U.S.C. 469<i>l</i> and following).”
+&emsp;“(C) to assist the National Park Service in the implementation of the National Underground RailroadNetwork to Freedom Act (112 Stat. 679; 16 U.S.C. 469<i>l</i> and following).”
 

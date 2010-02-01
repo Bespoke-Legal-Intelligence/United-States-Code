@@ -12,15 +12,17 @@
 
 &emsp;&emsp;&emsp;(ii) cost reduction;
 
-&emsp;&emsp;&emsp;(iii) whether it has provided stability or prevented disruption to the financial markets or the banking system; and
+&emsp;&emsp;&emsp;(iii) whether it has provided stability or prevented disruption to the financial markets or the banking system;
 
-&emsp;&emsp;&emsp;(iv) whether it has protected taxpayers.
+&emsp;&emsp;&emsp;(iv) whether it has protected taxpayers; and
+
+&emsp;&emsp;&emsp;(v) public accountability for the exercise of such authority, including with respect to actions taken by those entities participating in programs established under this chapter.
 
 &emsp;&emsp;(B) The financial condition and internal controls of the TARP, its representatives and agents.
 
 &emsp;&emsp;(C) Characteristics of transactions and commitments entered into, including transaction type, frequency, size, prices paid, and all other relevant terms and conditions, and the timing, duration and terms of any future commitments to purchase assets.
 
-&emsp;&emsp;(D) Characteristics and disposition of acquired assets, including type, acquisitionprice, current market value, sale prices and terms, and use of proceeds from sales.
+&emsp;&emsp;(D) Characteristics and disposition of acquired assets, including type, acquisition price, current market value, sale prices and terms, and use of proceeds from sales.
 
 &emsp;&emsp;(E) Efficiency of the operations of the TARP in the use of appropriated funds.
 
@@ -32,15 +34,47 @@
 
 #### (2) Conduct and administration of oversight
 
-#### (A) GAO presence
+#### (A) Definition
 
-&emsp;&emsp;The Secretary shall provide the Comptroller General with appropriate space and facilities in the Department of the Treasury as necessary to facilitate oversight of the TARP until the termination date established in section 5230 of this title.
+&emsp;&emsp;In this paragraph, the term “governmental unit” has the meaning given under section 101(27) of title 11, and does not include any insured depository institution as defined under section 1813 of this title.
 
-#### (B) Access to records
+#### (B) GAO presence
 
-&emsp;&emsp;To the extent otherwise consistent with law, the Comptroller General shall have access, upon request, to any information, data, schedules, books, accounts, financial records, reports, files, electronic communications, or other papers, things, or property belonging to or in use by the TARP, or any vehicles established by the Secretary under this chapter, and to the officers, directors, employees, independent public accountants, financial advisors, and other agents and representatives of the TARP (as related to the agent or representative's activities on behalf of or under the authority of the TARP) or any such vehicle at such reasonable time as the Comptroller General may request. The Comptroller General shall be afforded full facilities for verifying transactions with the balances or securities held by depositaries, fiscal agents, and custodians. The Comptroller General may make and retain copies of such books, accounts, and other records as the Comptroller General deems appropriate.
+&emsp;&emsp;The Secretary shall provide the Comptroller General with appropriate space and facilities in the Department of the Treasury as necessary to facilitate oversight of the TARP until the termination date established in section 5230 <sup>3</sup> of this title.
 
-#### (C) Reimbursement of costs
+#### (C) Access to records
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Notwithstanding any other provision of law, and for purposes of reviewing the performance of the TARP, the Comptroller General shall have access, upon request, to any information, data, schedules, books, accounts, financial records, reports, files, electronic communications, or other papers, things, or property belonging to or in use by the TARP, any entity established by the Secretary under this chapter, any entity that is established by a Federal reserve bank and receives funding from the TARP, or any entity (other than a governmental unit) participating in a program established under the authority of this chapter, and to the officers, employees, directors, independent public accountants, financial advisors and any and all other agents and representatives thereof, at such time as the Comptroller General may request.
+
+#### (ii) Verification
+
+&emsp;&emsp;&emsp;The Comptroller General shall be afforded full facilities for verifying transactions with the balances or securities held by, among others, depositories, fiscal agents, and custodians.
+
+#### (iii) Copies
+
+&emsp;&emsp;&emsp;The Comptroller General may make and retain copies of such books, accounts, and other records as the Comptroller General determines appropriate.
+
+#### (D) Agreement by entities
+
+&emsp;&emsp;Each contract, term sheet, or other agreement between the Secretary or the TARP (or any TARP vehicle, officer, director, employee, independent public accountant, financial advisor, or other TARP agent or representative) and an entity (other than a governmental unit) participating in a program established under this chapter shall provide for access by the Comptroller General in accordance with this section.
+
+#### (E) Restriction on public disclosure
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Comptroller General may not publicly disclose proprietary or trade secret information obtained under this section.
+
+#### (ii) Exception for congressional committees
+
+&emsp;&emsp;&emsp;This subparagraph does not limit disclosures to congressional committees or members thereof having jurisdiction over a private or public entity referred to under subparagraph (C).
+
+#### (iii) Rule of construction
+
+&emsp;&emsp;&emsp;Nothing in this section shall be construed to alter or amend the prohibitions against the disclosure of trade secrets or other information prohibited by section 1905 of title 18, section 714(c) of title 31, or other applicable provisions of law.
+
+#### (F) Reimbursement of costs
 
 &emsp;&emsp;The Treasury shall reimburse the Government Accountability Office for the full cost of any such oversight activities as billed therefor by the Comptroller General of the United States. Such reimbursements shall be credited to the appropriation account “Salaries and Expenses, Government Accountability Office” current when the payment is received and remain available until expended.
 
@@ -82,7 +116,7 @@
 
 &emsp;In conjunction with each annual financial statement issued under this section, the TARP shall—
 
-&emsp;&emsp;(A) state the responsibility of management for establishing and maintaining adequate internal control over financial reporting; and
+&emsp;&emsp;(A) state the responsibility of management for establishing and maintaining adequateinternal control over financial reporting; and
 
 &emsp;&emsp;(B) state its assessment, as of the end of the most recent year covered by such financial statement of the TARP, of the effectiveness of the internal control over financial reporting.
 
@@ -98,13 +132,21 @@ Any oversight, reporting, or audit requirement under this section shall terminat
 
 &emsp;(2) the date of expiration of the last insurance contract issued under section 5212 of this title.
 
-(Pub. L. 110–343, div. A, title I, §116, Oct. 3, 2008, 122 Stat. 3783.)
+(Pub. L. 110–343, div. A, title I, §116, Oct. 3, 2008, 122 Stat. 3783; Pub. L. 111–22, div. A, title VI, §601, May 20, 2009, 123 Stat. 1659.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (b)(2), was in the original “this Act” and was translated as reading “this division”, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
 Section 1204 of the Financial Institutions Reform, Recovery, and Enhancement Act of 1989, referred to in subsec. (a)(1)(H), probably means section 1204 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, Pub. L. 101–73, which is set out as a note under section 1811 of this title.
+
+Section 5230 of this title, referred to in subsec. (a)(2)(B), was so in the original, but probably should have been a reference to section 120 of title I of div. A of Pub. L. 110–343, which is classified to section 5230 of this title.
+
+#### Amendments
+
+2009—Subsec. (a)(1)(A)(v). Pub. L. 111–22, §601(1), added cl. (v).
+
+Subsec. (a)(2). Pub. L. 111–22, §601(2), added subpars. (A) to (E), redesignated former subpar. (C) as (F), and struck out former subpars. (A) and (B) which related to GAO presence and access to records, respectively.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Troubled Asset Relief Program”.</i>
 

@@ -82,7 +82,7 @@ No Effect on Pipelines.—Nothing in this title \[Act\] shall have the effect of
 
 “(c)
 
-Relation to Other Laws.—Nothing in this Act shall be construed as increasing or diminishing theability of any party to seek compensation pursuant to other applicable law, including but not limited to the Tucker Act (28 U.S.C. 1491), or as precluding any defenses or claims otherwise available to the United States in connection with any action seeking such compensation from the United States.
+Relation to Other Laws.—Nothing in this Act shall be construed as increasing or diminishing the ability of any party to seek compensation pursuant to other applicable law, including but not limited to the Tucker Act (28 U.S.C. 1491), or as precluding any defenses or claims otherwise available to the United States in connection with any action seeking such compensation from the United States.
 
 #### “SEC. 6. AUTHORIZATION OF APPROPRIATIONS.
 

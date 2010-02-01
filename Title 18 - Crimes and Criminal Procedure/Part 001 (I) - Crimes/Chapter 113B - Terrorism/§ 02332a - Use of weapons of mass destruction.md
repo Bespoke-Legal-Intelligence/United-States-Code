@@ -2,7 +2,7 @@
 
 (a)
 
-Offense Against a National of the United States or Within the United States.—A person who, without lawful authority, uses, threatens, or attempts or conspires to use, a weapon of mass destruction—
+Offense Against a National of the United States or Within the United States.—A person who, without lawful authority, uses,threatens, or attempts or conspires to use, a weapon of mass destruction—
 
 &emsp;(1) against a national of the United States while such national is outside of the United States;
 
@@ -52,7 +52,7 @@ Definitions.—For purposes of this section—
 
 Subsec. (a). Pub. L. 108–458, §6802(b)(2), struck out “(other than a chemical weapon as that term is defined in section 229F)” after “mass destruction” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 108–458, §6802(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “against any person within the United States, and the results of such use affect interstate or foreigncommerce or, in the case of a threat, attempt, or conspiracy, would have affected interstate or foreign commerce; or”.
+Subsec. (a)(2). Pub. L. 108–458, §6802(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “against any person within the United States, and the results of such use affect interstate or foreign commerce or, in the case of a threat, attempt, or conspiracy, would have affected interstate or foreign commerce; or”.
 
 Subsec. (a)(4). Pub. L. 108–458, §6802(a)(2), (3), added par. (4).
 

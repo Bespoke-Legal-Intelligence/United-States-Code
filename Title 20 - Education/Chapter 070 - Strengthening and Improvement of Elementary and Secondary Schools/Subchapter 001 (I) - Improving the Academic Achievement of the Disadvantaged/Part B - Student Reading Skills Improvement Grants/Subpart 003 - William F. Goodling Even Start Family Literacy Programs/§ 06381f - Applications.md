@@ -30,7 +30,7 @@ Each application shall include documentation, satisfactory to the State educatio
 
 &emsp;&emsp;&emsp;(i) to ensure that the programs will serve families most in need of the activities and services provided by this subpart;
 
-&emsp;&emsp;&emsp;(ii) to provide services under this subpart to individuals with special needs,such as individuals with limited English proficiency and individuals with disabilities; and
+&emsp;&emsp;&emsp;(ii) to provide services under this subpart to individuals with special needs, such as individuals with limited English proficiency and individuals with disabilities; and
 
 &emsp;&emsp;&emsp;(iii) to encourage participants to remain in the program for a time sufficient to meet the program's purpose;
 

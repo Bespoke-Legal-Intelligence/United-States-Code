@@ -14,7 +14,7 @@
 
 I74legislative statements
 
-Section 723(c) of the House amendment is a compromise between similar provisions contained in the House bill and Senate amendment. The section makes clear that the trustee of a partnership has a claim against each general partner for the full amount of all claims of creditors allowed in the case concerning the partnership. By restricting the trustee's rights to claims of “creditors,” the trustee of the partnership will not have a claim against the general partners for administrative expenses or claims allowed in the case concerning the partnership. As under present law, sections of the Bankruptcy Act \[former title 11\] applying to codebtors and sureties apply to the relationship of a partner with respect to a partnership debtor. See sections 501(b), 502(e), 506(d)(2), 509, 524(d), and 1301 of title 11.
+Section 723(c) of the House amendment is a compromise between similar provisions contained in the House bill and Senate amendment. The section makesclear that the trustee of a partnership has a claim against each general partner for the full amount of all claims of creditors allowed in the case concerning the partnership. By restricting the trustee's rights to claims of “creditors,” the trustee of the partnership will not have a claim against the general partners for administrative expenses or claims allowed in the case concerning the partnership. As under present law, sections of the Bankruptcy Act \[former title 11\] applying to codebtors and sureties apply to the relationship of a partner with respect to a partnership debtor. See sections 501(b), 502(e), 506(d)(2), 509, 524(d), and 1301 of title 11.
 
 #### senate report no. 95–989
 

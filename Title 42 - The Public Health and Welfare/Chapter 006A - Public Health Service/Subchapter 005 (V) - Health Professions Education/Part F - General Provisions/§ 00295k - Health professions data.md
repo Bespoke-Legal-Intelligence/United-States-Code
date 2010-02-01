@@ -38,11 +38,11 @@ The Secretary shall submit to the Congress on October 1, 1993, and biennially th
 
 &emsp;The Secretary and each program entity shall in securing and maintaining any record of individually identifiable personal data (hereinafter in this subsection referred to as “personal data”) for purposes of this section—
 
-&emsp;&emsp;(A) inform any individual who is asked to supply personal data whether he is legally required, or may refuse, to supply such data and inform him of any specific consequences, known to the Secretary or program entity, as the case may be, of providing or not providing such data;
+&emsp;&emsp;(A) inform any individual who is asked to supply personal data whether he is legally required, or may refuse, to supply such dataand inform him of any specific consequences, known to the Secretary or program entity, as the case may be, of providing or not providing such data;
 
 &emsp;&emsp;(B) upon request, inform any individual if he is the subject of personal data secured or maintained by the Secretary or program entity, as the case may be, and make the data available to him in a form comprehensible to him;
 
-&emsp;&emsp;(C) assure that no use is made of personal data which use is not within the purposes ofthis section unless an informed consent has been obtained from the individual who is the subject of such data; and
+&emsp;&emsp;(C) assure that no use is made of personal data which use is not within the purposes of this section unless an informed consent has been obtained from the individual who is the subject of such data; and
 
 &emsp;&emsp;(D) upon request, inform any individual of the use being made of personal data respecting such individual and of the identity of the individuals and entities which will use the data and their relationship to the programs under this section.
 
@@ -104,7 +104,7 @@ Section 301 of Pub. L. 102–408, as amended by Pub. L. 102–531, title III, §
 
 #### Commission on Allied Health
 
-Section 302 of Pub. L. 102–408 provided for establishment of a National Commission on Allied Health, charged with (1) making recommendations to the Secretary of Health and Human Services and Congress with respect to nationwide supply and distribution of allied health personnel, current and future shortages of personnel, priority research needs within allied health professions, Federal policies relating to personnel and research as well as undergraduate and graduate financing, concerted efforts on part of allied health facilities and educational institutions to address such matters, and needs with respect to nationwide data bases concerning supply and distribution of allied health personnel, and (2) encouraging entities providing allied health education to voluntarily achieve recommendations of Commission, and further provided for composition of Commission, date certain for appointments to Commission, resources for Commission activities, an interim progress report due not later than Oct. 1, 1993, a finalreport due not later than Apr. 1, 1994, and termination of Commission 60 days after submission of final report.
+Section 302 of Pub. L. 102–408 provided for establishment of a National Commission on Allied Health, charged with (1) making recommendations to the Secretary of Health and Human Services and Congress with respect to nationwide supply and distribution of allied health personnel, current and future shortages of personnel, priority research needs within allied health professions, Federal policies relating to personnel and research as well as undergraduate and graduate financing, concerted efforts on part of allied health facilities and educational institutions to address such matters, and needs with respect to nationwide data bases concerning supply and distribution of allied health personnel, and (2) encouraging entities providing allied health education to voluntarily achieve recommendations of Commission, and further provided for composition of Commission, date certain for appointments to Commission, resources for Commission activities, an interim progress report due not later than Oct. 1, 1993, a final report due not later than Apr. 1, 1994, and termination of Commission 60 days after submission of final report.
 
 #### Study Regarding Shortage of Clinical Laboratory Technologists for Medically Underserved and Rural Communities
 

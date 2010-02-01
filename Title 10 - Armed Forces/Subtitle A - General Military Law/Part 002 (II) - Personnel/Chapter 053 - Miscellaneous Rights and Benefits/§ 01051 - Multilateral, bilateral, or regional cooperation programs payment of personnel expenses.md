@@ -4,7 +4,7 @@
 
 (b)(1) Except as provided in paragraphs (2) and (3), expenses authorized to be paid under subsection (a) may be paid on behalf of personnel from a developing country only in connection with travel to, from, and within the area of responsibility of the unified combatant command (as such term is defined in section 161(c) of this title) in which the multilateral, bilateral, or regional conference, seminar, or similar meeting for which expenses are authorized is located or in connection with travel to Canada or Mexico.
 
-(2) In a case in which the headquarters of a unified combatant command is located within the United States, expenses authorized to be paid under subsection (a) may be paid in connection with travel of personnel to the United States to attend a multilateral, bilateral, or regional conference, seminar, or similar meeting.
+(2) In a case in which the headquarters of a unified combatant command is located within the United States, expenses authorized to be paid under subsection (a) may be paid in connection with travel of personnel to the UnitedStates to attend a multilateral, bilateral, or regional conference, seminar, or similar meeting.
 
 (3) In the case of defense personnel of a developing country that is not a member of the North Atlantic Treaty Organization and that is participating in the Partnership for Peace program of the North Atlantic Treaty Organization (NATO), expenses authorized to be paid under subsection (a) may be paid in connection with travel of personnel to the territory of any of the countries participating in the Partnership for Peace program or the territory of any NATO member country.
 
@@ -24,7 +24,7 @@ Another section 1051 was renumbered section 1032 of this title.
 
 #### Amendments
 
-2008—Pub. L. 110–417, in section catchline substituted “Multilateral, bilateral, or regional” for “Bilateral orregional”, in subsec. (a) substituted “a multilateral, bilateral,” for “a bilateral”, in subsec. (b)(1) substituted “to, from, and” for “to and” and “multilateral, bilateral,” for “bilateral”, in subsec. (b)(2) substituted “multilateral, bilateral,” for “bilateral”, and added subsec. (e).
+2008—Pub. L. 110–417, in section catchline substituted “Multilateral, bilateral, or regional” for “Bilateral or regional”, in subsec. (a) substituted “a multilateral, bilateral,” for “a bilateral”, in subsec. (b)(1) substituted “to, from, and” for “to and” and “multilateral, bilateral,” for “bilateral”, in subsec. (b)(2) substituted “multilateral, bilateral,” for “bilateral”, and added subsec. (e).
 
 2006—Subsec. (b)(1). Pub. L. 109–163 inserted “to and” after “in connection with travel” and substituted “in which the bilateral or regional conference, seminar, or similar meeting for which expenses are authorized is located” for “in which the developing country is located”.
 

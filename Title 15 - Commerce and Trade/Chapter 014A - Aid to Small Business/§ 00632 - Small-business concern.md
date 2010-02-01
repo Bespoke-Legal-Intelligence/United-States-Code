@@ -50,7 +50,7 @@ Action required.—Not later than 60 days after January 6, 2006, the Administrat
 
 &emsp;&emsp;(i) initiate an adjustment to the size standards, as described in subparagraph (A), if the Administrator determines that such an adjustment would be fair and appropriate; or
 
-&emsp;&emsp;(ii) provide a report to the Committee on Small Business and Entrepreneurship of theSenate and the Committee on Small Business of the House of Representatives explaining in detail the basis for the determination by the Administrator that such an adjustment would not be fair and appropriate.
+&emsp;&emsp;(ii) provide a report to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives explaining in detail the basis for the determination by the Administrator that such an adjustment would not be fair and appropriate.
 
 &emsp;(C)
 
@@ -106,7 +106,7 @@ For purposes of this chapter, any reference to an agency or department of the Un
 
 #### (d) “Qualified Indian tribe” defined
 
-For purposes of section 636 of this title, the term “qualified Indian tribe” means an Indian tribe as defined in section 450b(e) of title 25, which owns and controls 100 per centum of a small business concern.
+For purposes of section 636 of this title, the term “qualified Indian tribe” means an Indian tribe as defined in section 450b(e) of title 25,which owns and controls 100 per centum of a small business concern.
 
 #### (e) “Public or private organization for the handicapped” defined
 
@@ -346,7 +346,7 @@ In this chapter:
 
 #### (C) Construction and other contracts
 
-&emsp;&emsp;The Administrator shall promulgate final regulations imposing requirements that are similar to those specified in items (aa) and (bb) of subparagraph (A)(i)(III) on contracts for general and specialty construction, and on contracts for any other industry category that would not otherwise be subject to those requirements. The percentage applicable to any such requirement shall be determined in accordance with subparagraph (B).
+&emsp;&emsp;The Administrator shall promulgate final regulations imposing requirements that aresimilar to those specified in items (aa) and (bb) of subparagraph (A)(i)(III) on contracts for general and specialty construction, and on contracts for any other industry category that would not otherwise be subject to those requirements. The percentage applicable to any such requirement shall be determined in accordance with subparagraph (B).
 
 #### (D) List of qualified small business concerns
 
@@ -444,7 +444,7 @@ As used in section 650 of this title:
 
 #### (1) Small business lending company
 
-&emsp;The term “small business lending company” means a business concern that is authorizedby the Administrator to make loans pursuant to section 636(a) of this title and whose lending activities are not subject to regulation by any Federal or State regulatory agency.
+&emsp;The term “small business lending company” means a business concern that is authorized by the Administrator to make loans pursuant to section 636(a) of this title and whose lending activities are not subject to regulation by any Federal or State regulatory agency.
 
 #### (2) Non-Federally regulated SBA lender
 
@@ -508,7 +508,7 @@ Subsec. (p)(3)(A). Pub. L. 108–447, §151(a)(1)(A), amended subpar. (A) genera
 
 Subsec. (p)(3)(E). Pub. L. 108–447, §151(a)(1)(B)–(D), added subpar. (E).
 
-Subsec. (p)(4)(B)(ii)(II). Pub. L. 108–447, §152(b), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “the unemployment rate isnot less than 140 percent of the Statewide average unemployment rate for the State in which the county is located, based on the most recent data available from the Secretary of Labor.”
+Subsec. (p)(4)(B)(ii)(II). Pub. L. 108–447, §152(b), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “the unemployment rate is not less than 140 percent of the Statewide average unemployment rate for the State in which the county is located, based on the most recent data available from the Secretary of Labor.”
 
 Subsec. (p)(4)(C). Pub. L. 108–447, §152(c)(1), substituted “only until the later of—
 
@@ -588,7 +588,7 @@ Subsec. (m). Pub. L. 103–355, §4404(a), substituted “ ‘simplified acquis
 
 Subsec. (n). Pub. L. 103–355, §7106(d), added subsec. (n).
 
-1992—Subsec. (a). Pub. L. 102–366 added pars. (2) and (3) and struck out at end of par. (1) “In addition to the foregoing criteria the Administrator, in making a detailed definition, may use these criteria, among others: Number of employees and dollar volume of business: <i>Provided</i>, That the Administration shall not promulgate, amend, or rescind any rule \[or\] regulation with respect to size standards prior to March 31, 1981. Where the number of employees is used as one of the criteria in making such definition for any of the purposes of this chapter, the maximum number of employees which a small-business concern may have under the definition shall vary from industry to industry to the extent necessary to reflect differing characteristics of such industries and to take proper account of other relevant factors.”
+1992—Subsec. (a). Pub. L. 102–366 added pars. (2) and (3) and struck out at end of par. (1) “In addition to theforegoing criteria the Administrator, in making a detailed definition, may use these criteria, among others: Number of employees and dollar volume of business: <i>Provided</i>, That the Administration shall not promulgate, amend, or rescind any rule \[or\] regulation with respect to size standards prior to March 31, 1981. Where the number of employees is used as one of the criteria in making such definition for any of the purposes of this chapter, the maximum number of employees which a small-business concern may have under the definition shall vary from industry to industry to the extent necessary to reflect differing characteristics of such industries and to take proper account of other relevant factors.”
 
 1990—Subsec. (m). Pub. L. 101–510 added subsec. (m).
 
@@ -660,13 +660,13 @@ Initial Review of Size Standards.—(1) Paragraph (2) of section 3(a) of the Sma
 
 “(2) The first review conducted by the Administrator under such paragraph shall review the periods beginning on October 1, 1983, and ending on September 30, 1986, and shall be completed not later than 180 days after the date of the enactment of this Act.
 
-“(3) If the Administrator of the Small Business Administration determines, on the basis of the review referred to in paragraph (2), that contracts awarded under the set-aside programs under sections 8(a) and 15(a) of the Small Business Act \[15 U.S.C. 637(a), 644(a)\] in any industry category subject to that review exceed 30 percent of the dollar value of the total contract awards for that industry category, as determined in accordance with the last sentence of section 15(a)(3) of such Act, the Administrator shall propose adjustments to the size standards for such industry category establishing eligibility for a set-aside program to a size that will likely reduce the number of contracts which may be set aside to approximately 30 percent of the dollar value of the contracts to be awarded in that industry category. The Administrator shall publish proposed regulations, including any revised size standards, in the Federal Register by November 30, 1987, or the date of enactment of the National Defense Authorization Act for Fiscal Years 1988 and 1989 \[Pub. L. 100–180, Dec. 4, 1987\], whichever is later. The proposed regulations shall provide not less than 60 days for public comment. The Administrator shall issue final regulations not later than May 31, 1988.
+“(3) If the Administrator of the Small Business Administration determines, on the basis of the review referred to in paragraph (2), that contracts awarded under the set-aside programs under sections 8(a) and 15(a) of the Small Business Act \[15 U.S.C. 637(a), 644(a)\] in any industry category subject to that review exceed 30 percent of the dollar value of the total contract awards for that industry category, as determined in accordance with the last sentence of section 15(a)(3) of such Act, the Administrator shall propose adjustments to the size standards for such industry category establishing eligibility for a set-aside program to a size that will likely reduce the number of contracts which maybe set aside to approximately 30 percent of the dollar value of the contracts to be awarded in that industry category. The Administrator shall publish proposed regulations, including any revised size standards, in the Federal Register by November 30, 1987, or the date of enactment of the National Defense Authorization Act for Fiscal Years 1988 and 1989 \[Pub. L. 100–180, Dec. 4, 1987\], whichever is later. The proposed regulations shall provide not less than 60 days for public comment. The Administrator shall issue final regulations not later than May 31, 1988.
 
 #### Effective Date of 1984 Amendments
 
 Section 312 of title III of Pub. L. 98–270 provided that: “The amendments made by sections 310 and 311 of this title \[amending this section and section 636 of this title\] shall apply to loans granted on the basis of any disaster with respect to which a declaration has been issued after September 1, 1982, under section 7(b)(2) (A), (B), or (C) of the Small Business Act \[15 U.S.C. 636(b)(2)(A), (B), (C)\] or with respect to which a certification has been made after such date under section 7(b)(2)(D) of such Act.”
 
-Section 313 of title III of Pub. L. 98–270 provided that: “This title \[amending this section and sections 633, 636, and 647 of this title, enacting provisions set out asnotes under sections 632 and 636 of this title, and amending provisions set out as a note under section 631 of this title\] shall take effect October 1, 1983.”
+Section 313 of title III of Pub. L. 98–270 provided that: “This title \[amending this section and sections 633, 636, and 647 of this title, enacting provisions set out as notes under sections 632 and 636 of this title, and amending provisions set out as a note under section 631 of this title\] shall take effect October 1, 1983.”
 
 Amendment by Pub. L. 98–362 effective Oct. 1, 1984, see section 7(a) of Pub. L. 98–362, set out as an Effective and Termination Dates of 1984 Amendments note under section 633 of this title.
 

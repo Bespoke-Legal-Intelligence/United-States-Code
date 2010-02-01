@@ -26,7 +26,7 @@ Grants under this section may be used to purchase needed equipment and to provid
 
 #### Codification
 
-Section was enacted as part of the Uniting and Strengthening America by Providing Appropriate ToolsRequired to Intercept and Obstruct Terrorism Act of 2001 or USA PATRIOT Act, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
+Section was enacted as part of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or USA PATRIOT Act, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
 
 #### Amendments
 

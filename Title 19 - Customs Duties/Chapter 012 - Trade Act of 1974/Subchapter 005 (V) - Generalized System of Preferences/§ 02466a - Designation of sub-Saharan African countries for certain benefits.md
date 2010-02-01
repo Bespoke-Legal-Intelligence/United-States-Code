@@ -22,13 +22,13 @@
 
 #### (1) In general
 
-&emsp;The President may provide duty-free treatment for any article described in section 2463(b)(1)(B) through (G) of this title that is the growth, product, or manufacture of a beneficiary sub-Saharan African country described in subsection (a) of this section, if, after receiving the advice of the International Trade Commission in accordance with section 2463(e) of this title, the President determines that such article is not import-sensitive in the context of imports from beneficiary sub-Saharan African countries.
+&emsp;The President may provide duty-free treatment for any article described in section 2463(b)(1)(B) through (G) of this title that isthe growth, product, or manufacture of a beneficiary sub-Saharan African country described in subsection (a) of this section, if, after receiving the advice of the International Trade Commission in accordance with section 2463(e) of this title, the President determines that such article is not import-sensitive in the context of imports from beneficiary sub-Saharan African countries.
 
 #### (2) Rules of origin
 
 &emsp;The duty-free treatment provided under paragraph (1) shall apply to any article described in that paragraph that meets the requirements of section 2463(a)(2) of this title, except that—
 
-&emsp;&emsp;(A) if the cost or value of materials produced in the customs territory of the United States is included with respect to that article, an amount not to exceed 15 percent of the appraised value of the article at the time it is entered that is attributed to suchUnited States cost or value may be applied toward determining the percentage referred to in subparagraph (A) of section 2463(a)(2) of this title; and
+&emsp;&emsp;(A) if the cost or value of materials produced in the customs territory of the United States is included with respect to that article, an amount not to exceed 15 percent of the appraised value of the article at the time it is entered that is attributed to such United States cost or value may be applied toward determining the percentage referred to in subparagraph (A) of section 2463(a)(2) of this title; and
 
 &emsp;&emsp;(B) the cost or value of the materials included with respect to that article that are produced in one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries shall be applied in determining such percentage.
 

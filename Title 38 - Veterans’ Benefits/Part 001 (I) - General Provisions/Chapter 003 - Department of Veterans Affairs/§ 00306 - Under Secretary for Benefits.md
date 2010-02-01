@@ -36,7 +36,7 @@ Provisions similar to those in this section were contained in section 3(c) of Pu
 
 #### Amendments
 
-2006—Subsecs. (c), (d). Pub. L. 109–461 redesignated subsec. (d) as (c) and struck out former subsec. (c)which read as follows: “The Under Secretary for Benefits shall be appointed for a period of four years, with reappointment permissible for successive like periods. If the President removes the Under Secretary for Benefits before the completion of the term for which the Under Secretary for Benefits was appointed, the President shall communicate the reasons for the removal to Congress.”
+2006—Subsecs. (c), (d). Pub. L. 109–461 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The Under Secretary for Benefits shall be appointed for a period of four years, with reappointment permissible for successive like periods. If the President removes the Under Secretary for Benefits before the completion of the term for which the Under Secretary for Benefits was appointed, the President shall communicate the reasons for the removal to Congress.”
 
 1994—Subsec. (a). Pub. L. 103–446, §1201(c)(2)(A), substituted “an Under Secretary” for “a Under Secretary”.
 

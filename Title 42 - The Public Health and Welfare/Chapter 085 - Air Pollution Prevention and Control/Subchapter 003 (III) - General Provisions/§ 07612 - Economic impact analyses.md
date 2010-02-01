@@ -18,7 +18,7 @@ The Administrator, in consultation with the Secretary of Commerce, the Secretary
 
 #### (b) Benefits
 
-In describing the benefits of a standard described in subsection (a) of this section, the Administrator shall consider all of the economic, public health, and environmental benefits of efforts to comply with such standard. In any case where numerical values are assigned to such benefits, a default assumption of zero value shall not be assigned to such benefits unless supported by specific data. The Administrator shall assess how benefits are measured in order to assure that damage to human health and the environment is more accurately measured and taken into account.
+In describing the benefits of a standard described in subsection (a) of this section, the Administrator shall consider all of the economic, public health, and environmental benefits of efforts to comply with such standard. In any casewhere numerical values are assigned to such benefits, a default assumption of zero value shall not be assigned to such benefits unless supported by specific data. The Administrator shall assess how benefits are measured in order to assure that damage to human health and the environment is more accurately measured and taken into account.
 
 #### (c) Costs
 

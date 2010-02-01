@@ -2,7 +2,7 @@
 
 #### (a) Local control
 
-Nothing in this chapter shall be construed to authorize an officer or employee of the Federal Government to mandate, direct, or control a State, local educational agency, or school's curriculum, program of instruction, or allocation of State or local resources, or mandate a State orany subdivision thereof to spend any funds or incur any costs not paid for under this chapter, except as required under sections 2322(b), 2391(b), and 2413 of this title.
+Nothing in this chapter shall be construed to authorize an officer or employee of the Federal Government to mandate, direct, or control a State, local educational agency, or school's curriculum, program of instruction, or allocation of State or local resources, or mandate a State or any subdivision thereof to spend any funds or incur any costs not paid for under this chapter, except as required under sections 2322(b), 2391(b), and 2413 of this title.
 
 #### (b) No preclusion of other assistance
 

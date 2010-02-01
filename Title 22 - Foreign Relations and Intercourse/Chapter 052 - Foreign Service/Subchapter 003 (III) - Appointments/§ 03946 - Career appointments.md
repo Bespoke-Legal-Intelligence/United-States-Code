@@ -2,7 +2,7 @@
 
 #### (a) Trial period under limited appointment
 
-Before receiving a career appointment in the Service, an individual shall first serve under alimited appointment as a career candidate for a trial period of service prescribed by the Secretary. During such trial period of service, the Secretary shall decide whether—
+Before receiving a career appointment in the Service, an individual shall first serve under a limited appointment as a career candidate for a trial period of service prescribed by the Secretary. During such trial period of service, the Secretary shall decide whether—
 
 &emsp;(1) to offer a career appointment to the candidate under section 3943 of this title, or
 

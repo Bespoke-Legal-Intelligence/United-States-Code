@@ -82,7 +82,7 @@
 
 (B) For the purpose of this paragraph, members of an individual's family shall be determined in the same way as would apply under this chapter in the case of an enrolled employee.
 
-(C) Nothing in this paragraph shall be considered to limit an individual making an election under subsection (c)(2)(A) to coverage for self alone.
+(C) Nothing in this paragraph shall be considered to limit an individual making an electionunder subsection (c)(2)(A) to coverage for self alone.
 
 (4)(A) If the basis for continued coverage under this section is an involuntary separation from a position, or a voluntary separation from a surplus position, in or under the Department of Defense due to a reduction in force, or the Department of Energy due to a reduction in force resulting from the establishment of the National Nuclear Security Administration—
 
@@ -138,7 +138,7 @@
 
 > extended coverage under this section may not extend beyond the date which is 36 months after the separation date referred to in subparagraph (C).
 
-(f)(1) The Office shall prescribe regulations under which, in addition to any individualotherwise eligible for continued coverage under this section, and to the extent practicable, continued coverage may also, upon appropriate written application, be afforded under this section—
+(f)(1) The Office shall prescribe regulations under which, in addition to any individual otherwise eligible for continued coverage under this section, and to the extent practicable, continued coverage may also, upon appropriate written application, be afforded under this section—
 
 &emsp;(A) to any individual who—
 

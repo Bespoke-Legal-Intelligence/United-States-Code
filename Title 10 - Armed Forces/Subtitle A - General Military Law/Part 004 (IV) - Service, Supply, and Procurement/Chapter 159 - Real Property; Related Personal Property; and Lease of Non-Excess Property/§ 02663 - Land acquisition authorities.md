@@ -116,15 +116,15 @@ July 2, 1917, ch. 35; restated Apr. 11, 1918, ch. 51, 40 Stat. 518.
 
 Oct. 25, 1951, ch. 563, §101 (less 22d through 43d words), 65 Stat. 641.
 
-In subsection (a), the words “brought \* \* \* in a court of proper jurisdiction” are substituted for the words “instituted \* \* \* in any court having jurisdiction of such proceedings”. The words “any interest in land, including temporary use” are substituted for the words “any land, temporary use thereof or other interest therein, or right pertaining thereto”. The words “relating to suits for the condemnation of property” are omitted as surplusage. The last sentence is substituted for 50:171 (words between semicolon and first proviso). The Act of July 2, 1917, ch. 35, as restated by the Act of April 11, 1918, ch. 51 (last 77 words), are not contained in 50:171. They are also omitted from the revised section as executed.
+In subsection (a), the words “brought in a court of proper jurisdiction” are substituted for the words “instituted in any court having jurisdiction of such proceedings”. The words “any interest in land, including temporary use” are substituted for the words “any land, temporary use thereof or other interest therein, or right pertaining thereto”. The words “relating to suits for the condemnation of property” are omitted as surplusage. The last sentence is substituted for 50:171 (words between semicolon and first proviso). The Act of July 2, 1917, ch. 35, as restated by the Act of April 11, 1918, ch. 51 (last 77 words), are not contained in 50:171. They are also omitted from the revised section as executed.
 
 In subsection (a)(1), the word “location” is omitted as surplusage. The words “operation of” are substituted for the words “prosecution of works for”.
 
-In subsection (b), the words “That when such property is acquired” are omitted as surplusage. The words “under subsection (a)” are substituted for the words “of any land, temporary use thereof or other use therein or right pertaining thereto to be acquired for any of the purposes aforesaid”. The words “take and use” are substituted for the words “possession thereof may be taken \* \* \* and used for military purposes”.
+In subsection (b), the words “That when such property is acquired” are omitted as surplusage. The words “under subsection (a)” are substituted for the words “of any land, temporary use thereof or other use therein or right pertaining thereto to be acquired for any of the purposes aforesaid”. The words “take and use” are substituted for the words “possession thereof may be taken and used for military purposes”.
 
-In subsection (c), the words “as soon as the owner fixes a price for it” are substituted for the words “That when the owner of such land, interest, or rights pertaining thereto shall fix a price for the same”. The word “considers” is substituted for the words “which in the opinion”. The words “contract for or buy” are substituted for the words “purchase or enter into a contract”. The words “without further delay” are omitted as surplusage.
+In subsection (c), the words “as soon as the owner fixes a price for it” are substituted for the words “Thatwhen the owner of such land, interest, or rights pertaining thereto shall fix a price for the same”. The word “considers” is substituted for the words “which in the opinion”. The words “contract for or buy” are substituted for the words “purchase or enter into a contract”. The words “without further delay” are omitted as surplusage.
 
-In subsection (d), the words “a gift of any interest in land \* \* \* for any purpose named in subsection (a)” are substituted for 50:171 (last 15 words of 2d proviso).
+In subsection (d), the words “a gift of any interest in land for any purpose named in subsection (a)” are substituted for 50:171 (last 15 words of 2d proviso).
 
 #### 1958 Act
 

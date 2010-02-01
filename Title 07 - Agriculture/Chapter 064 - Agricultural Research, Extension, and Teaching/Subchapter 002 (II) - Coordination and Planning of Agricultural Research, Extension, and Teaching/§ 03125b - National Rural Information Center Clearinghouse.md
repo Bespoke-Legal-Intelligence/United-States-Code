@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish, within the National Agricultural Library, in coordination with the Extension Service, a National Rural Information Center Clearinghouse (in this section referred to as the “Clearinghouse”) to perform the functions specified in subsection (b) of this section.
+The Secretary shall establish, within the National Agricultural Library, in coordination with the National Institute of Food and Agriculture, a National Rural Information Center Clearinghouse (in this section referred to as the “Clearinghouse”) to perform the functions specified in subsection (b) of this section.
 
 #### (b) Functions
 
@@ -22,10 +22,6 @@ To carry out this section, there are authorized to be appropriated $500,000 for 
 
 (Pub. L. 101–624, title XXIII, §2381, Nov. 28, 1990, 104 Stat. 4049; Pub. L. 104–127, title VIII, §842, Apr. 4, 1996, 110 Stat. 1170; Pub. L. 105–185, title III, §301(b)(3), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, §7101, May 13, 2002, 116 Stat. 431; Pub. L. 110–234, title VII, §§7212, 7511(c)(9), May 22, 2008, 122 Stat. 1242, 1268; Pub. L. 110–246, §4(a), title VII, §§7212, 7511(c)(9), June 18, 2008, 122 Stat. 1664, 2003, 2029.)
 
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2029, provided that, effective Oct. 1, 2009, subsection (a) of this section is amended by substituting “National Institute of Food and Agriculture” for “Extension Service”.</i>
-
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -34,7 +30,9 @@ Section was enacted as part of the Rural Economic Development Act of 1990, and a
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–246, §7212, substituted “2012” for “2007”.
+2008—Subsec. (a). Pub. L. 110–246, §7511(c)(9), substituted “National Institute of Food and Agriculture” for “Extension Service”.
+
+Subsec. (e). Pub. L. 110–246, §7212, substituted “2012” for “2007”.
 
 2002—Subsec. (e). Pub. L. 107–171 substituted “2007” for “2002”.
 

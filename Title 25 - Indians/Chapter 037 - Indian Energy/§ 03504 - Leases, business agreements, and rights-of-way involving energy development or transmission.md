@@ -90,7 +90,7 @@ No lease, business agreement, or right-of-way relating to the development of tri
 
 &emsp;&emsp;&emsp;(aa) the provision shall be null and void; and
 
-&emsp;&emsp;&emsp;(bb) if the Secretary determines the provision to be material, the Secretary maysuspend or rescind the lease, business agreement, or right-of-way or take other appropriate action that the Secretary determines to be in the best interest of the Indian tribe;
+&emsp;&emsp;&emsp;(bb) if the Secretary determines the provision to be material, the Secretary may suspend or rescind the lease, business agreement, or right-of-way or take other appropriate action that the Secretary determines to be in the best interest of the Indian tribe;
 
 &emsp;&emsp;(XIII) require each lease, business agreement, and right-of-way to provide that it will become effective on the date on which a copy of the executed lease, business agreement, or right-of-way is delivered to the Secretary in accordance with regulations promulgated under paragraph (8);
 
@@ -142,7 +142,7 @@ No lease, business agreement, or right-of-way relating to the development of tri
 
 &emsp;(A) a copy of the lease, business agreement, or right-of-way document (including all amendments to and renewals of the document); and
 
-&emsp;(B) in the case of a tribal energy resource agreement or a lease, business agreement, or right-of-way that permits payments to be made directly to the Indian tribe, information and documentation of those payments sufficient to enable the Secretary to discharge thetrust responsibility of the United States to enforce the terms of, and protect the rights of the Indian tribe under, the lease, business agreement, or right-of-way.
+&emsp;(B) in the case of a tribal energy resource agreement or a lease, business agreement, or right-of-way that permits payments to be made directly to the Indian tribe, information and documentation of those payments sufficient to enable the Secretary to discharge the trust responsibility of the United States to enforce the terms of, and protect the rights of the Indian tribe under, the lease, business agreement, or right-of-way.
 
 (6)(A) In carrying out this section, the Secretary shall—
 
@@ -186,7 +186,7 @@ No lease, business agreement, or right-of-way relating to the development of tri
 
 (iii) Subject to subparagraph (E), if the Secretary determines that the Indian tribe is not in compliance with the tribal energy resource agreement, the Secretary shall take such action as the Secretary determines to be necessary to ensure compliance with the tribal energy resource agreement, including—
 
-&emsp;(I) temporarily suspending any activity under a lease, business agreement, or right-of-way under this section until the Indian tribe is in compliance with the approved tribal energy resource agreement; or
+&emsp;(I) temporarily suspending any activity under a lease, business agreement, or right-of-way under this section until the Indian tribe isin compliance with the approved tribal energy resource agreement; or
 
 &emsp;(II) rescinding approval of all or part of the tribal energy resource agreement, and if all of the agreement is rescinded, reassuming the responsibility for approval of any future leases, business agreements, or rights-of-way described in subsection (a) or (b).
 

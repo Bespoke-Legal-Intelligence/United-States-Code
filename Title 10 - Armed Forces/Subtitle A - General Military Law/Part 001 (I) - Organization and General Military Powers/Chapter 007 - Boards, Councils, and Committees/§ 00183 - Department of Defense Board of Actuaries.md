@@ -12,7 +12,7 @@ Members.—(1) The Board shall consist of three members who shall be appointed b
 
 (3) A member of the Board may be removed by the Secretary of Defense only for misconduct or failure to perform functions vested in the Board.
 
-(4) A member of the Board who is not an employee of the United States is entitled to receive pay at the daily equivalent of the annual rate of basic pay of the highest rate of basic pay then currently being paid under the General Schedule of subchapter III of chapter 53 of title 5 for eachday the member is engaged in the performance of the duties of the Board and is entitled to travel expenses, including a per diem allowance, in accordance with section 5703 of that title in connection with such duties.
+(4) A member of the Board who is not an employee of the United States is entitled to receive pay at the daily equivalent of the annual rate of basic pay of the highest rate of basic pay then currently being paid under the General Schedule of subchapter III of chapter 53 of title 5 for each day the member is engaged in the performance of the duties of the Board and is entitled to travel expenses, including a per diem allowance, in accordance with section 5703 of that title in connection with such duties.
 
 (c)
 
@@ -44,7 +44,7 @@ Reports.—(1) The Board shall submit to the Secretary of Defense on an annual b
 
 #### Prior Provisions
 
-A prior section 183, added Pub. L. 105–85, div. A, title IX, §904(a), Nov. 18, 1997, 111 Stat. 1854, required the Secretary of Defense to report annually on the justification or requirement and projected costs of Department of Defense advisory committees, prior to repeal by Pub. L. 107–314, div. A, title X, §1041(a)(1)(A), Dec. 2, 2002, 116 Stat. 2645.
+A prior section 183, added Pub. L. 105–85, div. A, title IX, §904(a), Nov. 18, 1997, 111 Stat. 1854, required theSecretary of Defense to report annually on the justification or requirement and projected costs of Department of Defense advisory committees, prior to repeal by Pub. L. 107–314, div. A, title X, §1041(a)(1)(A), Dec. 2, 2002, 116 Stat. 2645.
 
 #### Initial Service as Board Members
 

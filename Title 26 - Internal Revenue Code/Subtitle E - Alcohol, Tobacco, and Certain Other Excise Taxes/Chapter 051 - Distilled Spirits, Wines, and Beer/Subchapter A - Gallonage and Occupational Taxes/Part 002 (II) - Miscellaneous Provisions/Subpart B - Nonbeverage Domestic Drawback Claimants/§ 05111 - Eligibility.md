@@ -12,7 +12,7 @@ Another prior section 5111, act Aug. 16, 1954, ch. 736, 68A Stat. 618, related t
 
 #### Amendments
 
-2005—Pub. L. 109–59, §11125(b)(3)(C), struck out “and rate of tax” after “Eligibility” in section catchline,struck out “(a) Eligibility for drawback” before “Any person”, and struck out subsec. (b). Text read as follows: “The special tax imposed by subsection (a) shall be $500 per year.”
+2005—Pub. L. 109–59, §11125(b)(3)(C), struck out “and rate of tax” after “Eligibility” in section catchline, struck out “(a) Eligibility for drawback” before “Any person”, and struck out subsec. (b). Text read as follows: “The special tax imposed by subsection (a) shall be $500 per year.”
 
 Pub. L. 109–59, §11125(b)(3)(A), renumbered section 5131 of this title as this section.
 

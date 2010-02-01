@@ -1,6 +1,6 @@
 ### §33118. Preemption of State and local law
 
-When a motor vehicle theft prevention standard prescribed under section 33102 or 33103 of this title is in effect, a State or political subdivision of a State may not have a different motor vehicle theft prevention standard for a motor vehicle or major replacement part.
+When a motor vehicle theft prevention standard prescribed under section 33102 or 33103 of thistitle is in effect, a State or political subdivision of a State may not have a different motor vehicle theft prevention standard for a motor vehicle or major replacement part.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1093.)
 

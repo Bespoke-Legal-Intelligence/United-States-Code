@@ -16,6 +16,7 @@ Part V—Adjustment and Change of Status
 - [&sect; 01253 - Penalties related to removal](%C2%A7%2001253%20-%20Penalties%20related%20to%20removal.md)
 - [&sect; 01254 - Repealed. Pub. L. 104&#8211;208, div. C, title III, &sect;308(b)(7), Sept. 30, 1996, 110 Stat. 3009&#8211;615](%C2%A7%2001254%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93208%2C%20div.%20C%2C%20title%20III%2C%20%C2%A7308%28b%29%287%29%2C%20Sept.%2030%2C%201996%2C%20110%20Stat.%203009%E2%80%93615.md)
 - [&sect; 01254a - Temporary protected status](%C2%A7%2001254a%20-%20Temporary%20protected%20status.md)
+- [&sect; 01254b - Collection of fees under temporary protected status program](%C2%A7%2001254b%20-%20Collection%20of%20fees%20under%20temporary%20protected%20status%20program.md)
 - [&sect; 01255 - Adjustment of status of nonimmigrant to that of person admitted for permanent residence](%C2%A7%2001255%20-%20Adjustment%20of%20status%20of%20nonimmigrant%20to%20that%20of%20person%20admitted%20for%20permanent%20residence.md)
 - [&sect; 01255a - Adjustment of status of certain entrants before January 1, 1982, to that of person admitted for lawful residence](%C2%A7%2001255a%20-%20Adjustment%20of%20status%20of%20certain%20entrants%20before%20January%201%2C%201982%2C%20to%20that%20of%20person%20admitted%20for%20lawful%20residence.md)
 - [&sect; 01255b - Adjustment of status of certain nonimmigrants to that of persons admitted for permanent residence](%C2%A7%2001255b%20-%20Adjustment%20of%20status%20of%20certain%20nonimmigrants%20to%20that%20of%20persons%20admitted%20for%20permanent%20residence.md)

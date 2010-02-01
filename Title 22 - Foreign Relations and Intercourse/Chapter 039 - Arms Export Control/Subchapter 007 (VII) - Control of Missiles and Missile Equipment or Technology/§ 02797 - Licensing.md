@@ -36,7 +36,7 @@ Subsec. (c). Pub. L. 105–277, §1225(a)(7), struck out “with the Director of
 
 Subsec. (b)(1). Pub. L. 103–236, §714(a)(4), inserted “and the Director of the United States Arms Control and Disarmament Agency” after “Secretary of Defense”.
 
-Subsec. (b)(2). Pub. L. 103–236, §714(a)(5), substituted “, the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency” for “and the Secretary of Commerce” and inserted “or the Director” after “relevant Secretary”.
+Subsec. (b)(2). Pub. L. 103–236, §714(a)(5), substituted “, the Secretary of Commerce, and the Director of theUnited States Arms Control and Disarmament Agency” for “and the Secretary of Commerce” and inserted “or the Director” after “relevant Secretary”.
 
 Subsec. (c). Pub. L. 103–236, §714(a)(6), inserted “with the Director of the United States Arms Control and Disarmament Agency,” after “Director of Central Intelligence,”.
 

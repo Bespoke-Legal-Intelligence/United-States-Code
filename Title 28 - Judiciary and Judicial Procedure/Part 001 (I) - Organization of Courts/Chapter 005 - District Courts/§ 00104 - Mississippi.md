@@ -14,7 +14,7 @@ Mississippi is divided into two judicial districts to be known as the northern a
 
 &emsp;&emsp;Court for the Western division shall be held at Oxford.
 
-&emsp;&emsp;(3) The Delta division comprises the counties of Bolivar, Coahoma, De Soto, Panola, Quitman, Tallahatchie, Tate, and Tunica.
+&emsp;&emsp;(3) The Delta division comprises the counties of Bolivar, Coahoma, De Soto, Panola,Quitman, Tallahatchie, Tate, and Tunica.
 
 &emsp;&emsp;Court for the Delta division shall be held at Clarksdale and Cleveland.
 

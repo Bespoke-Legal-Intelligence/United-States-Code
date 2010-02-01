@@ -18,13 +18,13 @@ Appropriations for the purposes of or pursuant to this chapter (except for subch
 
 &emsp;(7) exchange of funds without regard to section 3651 <sup>1</sup> of the Revised Statutes (31 U.S.C. 543) and loss by exchange;
 
-&emsp;(8) expenditures (not to exceed $50,000 in any fiscal year except as may otherwise be provided in an appropriation or other Act) of aconfidential character other than entertainment: <i>Provided</i>, That a certificate of the amount of each such expenditure, the nature of which it is considered inadvisable to specify, shall be made by the head of the agency primarily responsible for administering subchapter I of this chapter or such person as he may designate, and every such certificate shall be deemed a sufficient voucher for the amount therein specified;
+&emsp;(8) expenditures (not to exceed $50,000 in any fiscal year except as may otherwise be provided in an appropriation or other Act) of a confidential character other than entertainment: <i>Provided</i>, That a certificate of the amount of each such expenditure, the nature of which it is considered inadvisable to specify, shall be made by the head of the agency primarily responsible for administering subchapter I of this chapter or such person as he may designate, and every such certificate shall be deemed a sufficient voucher for the amount therein specified;
 
 &emsp;(9) insurance of official motor vehicles or aircraft acquired for use in foreign countries;
 
 &emsp;(10) rent or lease outside the United States for not to exceed ten years of offices, buildings, grounds, and quarters, including living quarters to house personnel, and payments therefor in advance; maintenance, furnishings, necessary repairs, improvements, and alterations to properties owned or rented by the United States Government or made available for use to the United States Government outside the United States; and costs of fuel, water, and utilities for such properties;
 
-&emsp;(11) expenses of preparing and transporting to their former homes, or, with respect to foreign participants engaged in any program under subchapter I of this chapter, to their former homes or places of burial, and of care and disposition of, the remains of persons or members of the families of persons who may die while such persons are away from their homes participating in activities carried out with funds covered by this subsection;
+&emsp;(11) expenses of preparing and transporting to their former homes, or, with respect to foreign participants engaged in any programunder subchapter I of this chapter, to their former homes or places of burial, and of care and disposition of, the remains of persons or members of the families of persons who may die while such persons are away from their homes participating in activities carried out with funds covered by this subsection;
 
 &emsp;(12) purchase of uniforms;
 
@@ -50,7 +50,7 @@ Not to exceed $2,500,000 of the funds available for assistance under this chapte
 
 #### (e) Training costs
 
-Funds available under this chapter may be used to pay costs of training United States citizen personnel employed or assigned pursuant to section 2385(d)(2) <sup>3</sup> of this title (through interchange or otherwise) at any State or local unit of government, public or private nonprofit institution, trade, labor, agricultural, or scientific association or organization, or commercial firm; and the provisions of sections 1881 to 1888 <sup>3</sup> of title 7 may be used to carry out the foregoing authority notwithstanding that interchange of personnel may not be involved or that the training may not take place at the institutions specified in sections 1881 to 1888 <sup>3</sup> of title 7. Such training shall not be considered employment or holding of office under section 5533 of title 5, and any payments or contributions in connection therewith may, as deemed appropriate by the head of the agency of the United States Government authorizing such training, be made by private or public sources and be accepted by any trainee, or may be accepted by and credited to the current applicable appropriation of such agency: <i>Provided, however</i>, That any such payments to any employee in the nature of compensation shall be in lieu, or in reduction, ofcompensation received from the United States Government.
+Funds available under this chapter may be used to pay costs of training United States citizen personnel employed or assigned pursuant to section 2385(d)(2) <sup>3</sup> of this title (through interchange or otherwise) at any State or local unit of government, public or private nonprofit institution, trade, labor, agricultural, or scientific association or organization, or commercial firm; and the provisions of sections 1881 to 1888 <sup>3</sup> of title 7 may be used to carry out the foregoing authority notwithstanding that interchange of personnel may not be involved or that the training may not take place at the institutions specified in sections 1881 to 1888 <sup>3</sup> of title 7. Such training shall not be considered employment or holding of office under section 5533 of title 5, and any payments or contributions in connection therewith may, as deemed appropriate by the head of the agency of the United States Government authorizing such training, be made by private or public sources and be accepted by any trainee, or may be accepted by and credited to the current applicable appropriation of such agency: <i>Provided, however</i>, That any such payments to any employee in the nature of compensation shall be in lieu, or in reduction, of compensation received from the United States Government.
 
 #### (f) Assistance in carrying out functions under certain laws
 
@@ -180,7 +180,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

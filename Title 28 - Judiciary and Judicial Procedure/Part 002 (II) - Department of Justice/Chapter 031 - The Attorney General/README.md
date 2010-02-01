@@ -14,6 +14,7 @@
 | [508\.](%C2%A7%2000508%20-%20Vacancies.md) | Vacancies. |
 | [509\.](%C2%A7%2000509%20-%20Functions%20of%20the%20Attorney%20General.md) | Functions of the Attorney General. |
 | [509A.](%C2%A7%2000509A%20-%20National%20Security%20Division.md) | National Security Division. |
+| [509B.](%C2%A7%2000509B%20-%20Section%20to%20enforce%20human%20rights%20laws.md) | Section to enforce human rights laws. |
 | [510\.](%C2%A7%2000510%20-%20Delegation%20of%20authority.md) | Delegation of authority. |
 | [511\.](%C2%A7%2000511%20-%20Attorney%20General%20to%20advise%20the%20President.md) | Attorney General to advise the President. |
 | [512\.](%C2%A7%2000512%20-%20Attorney%20General%20to%20advise%20heads%20of%20executive%20departments.md) | Attorney General to advise heads of executive departments. |
@@ -48,6 +49,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–122, §2(c), Dec. 22, 2009, 123 Stat. 3480, added item 509B.
 
 2006—Pub. L. 109–177, title V, §506(c), Mar. 9, 2006, 120 Stat. 249, added items 507A and 509A.
 
@@ -96,6 +99,7 @@ Pub. L. 95–521, title VI, §603(b), Oct. 26, 1978, 92 Stat. 1875, added items 
 - [&sect; 00508 - Vacancies](%C2%A7%2000508%20-%20Vacancies.md)
 - [&sect; 00509 - Functions of the Attorney General](%C2%A7%2000509%20-%20Functions%20of%20the%20Attorney%20General.md)
 - [&sect; 00509A - National Security Division](%C2%A7%2000509A%20-%20National%20Security%20Division.md)
+- [&sect; 00509B - Section to enforce human rights laws](%C2%A7%2000509B%20-%20Section%20to%20enforce%20human%20rights%20laws.md)
 - [&sect; 00510 - Delegation of authority](%C2%A7%2000510%20-%20Delegation%20of%20authority.md)
 - [&sect; 00511 - Attorney General to advise the President](%C2%A7%2000511%20-%20Attorney%20General%20to%20advise%20the%20President.md)
 - [&sect; 00512 - Attorney General to advise heads of executive departments](%C2%A7%2000512%20-%20Attorney%20General%20to%20advise%20heads%20of%20executive%20departments.md)

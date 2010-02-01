@@ -14,7 +14,7 @@ Suspensions and Revocations of Certificates.—
 
 &emsp;(1)
 
-Failure to carry out effective security measures.—If, after the 90th day on which a notice is provided to a foreign repair station under subsection (b), the Under Secretary determines that the foreign repair station does not maintain and carry out effective security measures, the Under Secretary shall notify the Administrator of the determination. Upon receipt of the determination, the Administrator shall suspend the certification of the repair station until such time as the Under Secretary determines that the repair station maintains and carries out effective security measures and transmits the determination to the Administrator.
+Failure to carry out effective security measures.—If, after the 90th day on which a notice is provided to a foreign repair station under subsection (b), the Under Secretary determines that the foreign repair station does not maintain and carry out effective security measures, the Under Secretary shall notify the Administrator of the determination. Upon receipt of the determination, the Administrator shall suspend the certificationof the repair station until such time as the Under Secretary determines that the repair station maintains and carries out effective security measures and transmits the determination to the Administrator.
 
 &emsp;(2)
 

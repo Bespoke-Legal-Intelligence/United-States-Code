@@ -18,7 +18,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) such organization is organized and operated to provide for the acquisition, construction, management, maintenance, and care of association property,
 
-&emsp;&emsp;(B) 60 percent or more of the gross income of such organization for the taxable yearconsists solely of amounts received as membership dues, fees, or assessments from—
+&emsp;&emsp;(B) 60 percent or more of the gross income of such organization for the taxable year consists solely of amounts received as membership dues, fees, or assessments from—
 
 &emsp;&emsp;&emsp;(i) owners of residential units in the case of a condominium management association,
 

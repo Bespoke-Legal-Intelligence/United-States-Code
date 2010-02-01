@@ -102,7 +102,7 @@ Other References.—Until otherwise provided by law—
 
 “(d)
 
-Regulations.—The Office of Personnel Management may prescribe regulations, consistent with subsection (c)(1)(B) and section 303 \[section 529 \[title III, §303\] of Pub. L. 101–509, set out as a note under section 5301 of this title\], governing the conversion or adjustment of rates of pay, where necessary because of theabolishment of grades GS–16, 17, and 18 of the General Schedule.”
+Regulations.—The Office of Personnel Management may prescribe regulations, consistent with subsection (c)(1)(B) and section 303 \[section 529 \[title III, §303\] of Pub. L. 101–509, set out as a note under section 5301 of this title\], governing the conversion or adjustment of rates of pay, where necessary because of the abolishment of grades GS–16, 17, and 18 of the General Schedule.”
 
 \[Except as otherwise provided, reference to maximum rate under section 5376 of this title before first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level IV of Executive Schedule (5 U.S.C. 5315) and reference to maximum rate on or after first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level III of Executive Schedule (5 U.S.C. 5314), or for level II of the Executive Schedule (5 U.S.C. 5313) for certain employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under this section.\]
 

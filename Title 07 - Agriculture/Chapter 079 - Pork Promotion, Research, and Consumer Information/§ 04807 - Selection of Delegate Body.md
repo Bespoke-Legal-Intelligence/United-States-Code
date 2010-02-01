@@ -6,7 +6,7 @@
 
 (2) Each State association may nominate producers who are residents of such State to serve as such candidates.
 
-(3)(A) <sup>1</sup> Additional producers who are residents of a State may be nominated as candidates of such State by written petition signed by 100 producers or 5 percent of the pork producers in such State, whichever is less. The Secretary shall establish and publicize the procedures governing the time and place for filing petitions.
+(3)(A) <sup>1</sup> Additional producers who are residents of a State may be nominated as candidates of such State by written petition signed by 100 producers or 5 percent of the pork producers in suchState, whichever is less. The Secretary shall establish and publicize the procedures governing the time and place for filing petitions.
 
 #### (b) Election; eligibility to vote; notice of election; number of members nominated
 

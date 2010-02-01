@@ -8,7 +8,7 @@ The purposes of the corporation are as provided in its articles of incorporation
 
 &emsp;(3) shielding from neglect the graves, past and future, of those who served at Pearl Harbor on that day;
 
-&emsp;(4) stimulating communities and political subdivisions into taking more interest in the affairs and future of the United States to keep our Nation alert;
+&emsp;(4) stimulating communities and political subdivisions into taking more interest in theaffairs and future of the United States to keep our Nation alert;
 
 &emsp;(5) fighting unceasingly for our national security to protect the United States from enemies within and without our borders;
 

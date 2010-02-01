@@ -68,7 +68,7 @@ Section 1 of Pub. L. 87–341, Oct. 3, 1961, 75 Stat. 752, provided: “That thi
 
 #### Short Title of 1960 Amendment
 
-Section 1 of Pub. L. 86–502, June 11, 1960, 74 Stat. 196, provided: “That this Act \[amending sections 662, 681, 682, and 684 of this title, and section 26–610 of the District of Columbia Code, 1973 edition\] may be cited as the ‘Small Business Investment Act Amendments of 1960’.”
+Section 1 of Pub. L. 86–502, June 11, 1960, 74 Stat. 196, provided: “That this Act \[amending sections 662, 681,682, and 684 of this title, and section 26–610 of the District of Columbia Code, 1973 edition\] may be cited as the ‘Small Business Investment Act Amendments of 1960’.”
 
 #### Short Title
 

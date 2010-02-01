@@ -247,7 +247,7 @@ Vacancies.—
 
 &emsp;&emsp;“(A)
 
-Districts with single appointments.—Except as provided in subparagraphs (B), (C), (D), and\(E), the first vacancy occurring in the office of bankruptcy judge in each of the judicial districts set forth in paragraph (1)—
+Districts with single appointments.—Except as provided in subparagraphs (B), (C), (D), and (E), the first vacancy occurring in the office of bankruptcy judge in each of the judicial districts set forth in paragraph (1)—
 
 &emsp;&emsp;&emsp;“(i) occurring 5 years or more after the appointment date of the bankruptcy judge appointed under paragraph (1) to such office; and
 
@@ -355,7 +355,7 @@ Section 106 of Pub. L. 98–353 provided that:
 
 Section 120 of Pub. L. 98–353, as amended by Pub. L. 99–554, title I, §102, Oct. 27, 1986, 100 Stat. 3089; Pub. L. 104–317, title III, §303, Oct. 19, 1996, 110 Stat. 3852, provided that:
 
-“(a)(1) Whenever a court of appeals is authorized to fill a vacancy that occurs on a bankruptcy court of theUnited States, such court of appeals shall appoint to fill that vacancy a person whose character, experience, ability, and impartiality qualify such person to serve in the Federal judiciary.
+“(a)(1) Whenever a court of appeals is authorized to fill a vacancy that occurs on a bankruptcy court of the United States, such court of appeals shall appoint to fill that vacancy a person whose character, experience, ability, and impartiality qualify such person to serve in the Federal judiciary.
 
 “(2) It is the sense of the Congress that the courts of appeals should consider for appointment under section 152 of title 28, United States Code, to the first vacancy which arises after the date of the enactment of this Act \[July 10, 1984\] in the office of each bankruptcy judge, the bankruptcy judge who holds such office immediately before such vacancy arises, if such bankruptcy judge requests to be considered for such appointment.
 

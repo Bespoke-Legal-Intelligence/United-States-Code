@@ -18,7 +18,7 @@ In order to accelerate multilateral debt relief and promote human and economic d
 
 &emsp;&emsp;(E) to implement transparent policy making and budget procedures, good governance, and effective anticorruption measures;
 
-&emsp;&emsp;(F) to broaden public participation and popular understanding of the principles and goals of poverty reduction, particularly through economic growth, and good governance; and
+&emsp;&emsp;(F) to broaden public participation and popular understanding of the principles andgoals of poverty reduction, particularly through economic growth, and good governance; and
 
 &emsp;&emsp;(G) to promote the participation of citizens and nongovernmental organizations in the economic policy choices of the government.
 

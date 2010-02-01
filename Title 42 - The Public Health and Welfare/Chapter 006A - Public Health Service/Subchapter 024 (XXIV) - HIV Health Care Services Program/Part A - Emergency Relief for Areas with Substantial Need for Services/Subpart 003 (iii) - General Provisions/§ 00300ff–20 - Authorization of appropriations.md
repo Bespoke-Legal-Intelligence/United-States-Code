@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purpose of carrying out this part, there are authorized to be appropriated $604,000,000 for fiscal year 2007, $626,300,000 for fiscal year 2008, and $649,500,000 for fiscal year 2009. Amounts appropriated under the preceding sentence for a fiscal year are available for obligation by the Secretary until the end of the second succeeding fiscal year.
+For the purpose of carrying out this part, there are authorized to be appropriated $604,000,000 for fiscal year 2007, $626,300,000 for fiscal year 2008, $649,500,000 for fiscal year 2009, $681,975,000 for fiscal year 2010, $716,074,000 for fiscal year 2011, $751,877,000 for fiscal year 2012, and $789,471,000 for fiscal year 2013. Amounts appropriated under the preceding sentence for a fiscal year are available for obligation by the Secretary until the end of the second succeeding fiscal year.
 
 #### (b) Reservation of amounts
 
@@ -30,7 +30,7 @@ Notwithstanding subsection (b):
 
 &emsp;&emsp;(A)(i) the amount reserved under paragraph (1)(A) or (2)(A) of subsection (b) of this section for the first such subsequent year of not being an eligible area is deemed to be reduced by an amount equal to the amount of the grant made pursuant to section 300ff–13(a) of this title for the metropolitan area for the preceding fiscal year; and
 
-&emsp;&emsp;(ii)(I) if the metropolitan area qualifies for such first subsequent fiscal year as a transitional area under 300ff–19 <sup>1</sup> of this title, the amount reserved under paragraph (1)(B) or (2)(B) of subsection (b) for such fiscal year is deemed to be increased by an amount equal to the amount of the reduction under subparagraph (A) for such year; or
+&emsp;&emsp;(ii)(I) if the metropolitan area qualifies for such first subsequent fiscal year as a transitional area under 300ff–19 <sup>1</sup> of this title, theamount reserved under paragraph (1)(B) or (2)(B) of subsection (b) for such fiscal year is deemed to be increased by an amount equal to the amount of the reduction under subparagraph (A) for such year; or
 
 &emsp;&emsp;(II) if the metropolitan area does not qualify for such first subsequent fiscal year as a transitional area under 300ff–19 <sup>1</sup> of this title, an amount equal to the amount of such reduction is, notwithstanding subsection (a), transferred and made available for grants pursuant to section 300ff–28(a)(1) of this title, in addition to amounts available for such grants under section 300ff–31b of this title; and
 
@@ -48,7 +48,19 @@ Notwithstanding subsection (b):
 
 &emsp;&emsp;&emsp;(ii) $500,000; and
 
-&emsp;&emsp;(B) an amount equal to the amount of the reduction under subparagraph (A) for such year is, notwithstanding subsection (a), transferred and made available for grants pursuant to section 300ff–28(a)(1) of this title, in addition to amounts available for such grants under section 300ff–31b of this title.
+&emsp;&emsp;(B)(i) subject to clause (ii), an amount equal to the amount of the reduction under subparagraph (A) for such year is, notwithstanding subsection (a), transferred and made available for grants pursuant to section 300ff–28(a)(1) of this title, in addition to amounts available for such grants under section 300ff–31b of this title; and
+
+&emsp;&emsp;(ii) for each of fiscal years 2010 through 2013, notwithstanding subsection (a)—
+
+&emsp;&emsp;&emsp;(I) there shall be transferred to the State containing the metropolitan area, for purposes described in section 300ff–22(a) of this title, an amount (which shall not be taken into account in applying section 300ff–28(a)(2)(H) of this title) equal to—
+
+&emsp;&emsp;&emsp;&emsp;(aa) for the first fiscal year of the metropolitan area not being a transitional area, 75 percent of the amount described in subparagraph (A)(i) for such area;
+
+&emsp;&emsp;&emsp;&emsp;(bb) for the second fiscal year of the metropolitan area not being a transitional area, 50 percent of such amount; and
+
+&emsp;&emsp;&emsp;&emsp;(cc) for the third fiscal year of the metropolitan area not being a transitional area, 25 percent of such amount; and
+
+&emsp;&emsp;&emsp;(II) there shall be transferred and made available for grants pursuant to section 300ff–28(a)(1) of this title for the fiscal year, in addition to amounts available for such grants under section 300ff–31b of this title, an amount equal to the total amount of the reduction for such fiscal year under subparagraph (A), less the amount transferred for such fiscal year under subclause (I).
 
 &emsp;(3) If a metropolitan area is a transitional area under section 300ff–19 of this title for a fiscal year, but for a subsequent fiscal year qualifies as an eligible area under subpart I—
 
@@ -70,9 +82,19 @@ With respect to paragraphs (1)(B)(i) and (2)(A)(ii) of subsection (c), the Secre
 
 Paragraphs (1) and (2) of subsection (c) apply with respect to each series of fiscal years during which a metropolitan area is an eligible area under subpart I or a transitional area under section 300ff–19 of this title for a fiscal year and then for a subsequent fiscal year ceases to be such an area by reason of section 300ff–11(b) or 300ff–19(c)(2) of this title, respectively, rather than applying to a single such series. Paragraph (3) of subsection (c) applies with respect to each series of fiscal years during which a metropolitan area is a transitional area under section 300ff–19 of this title for a fiscal year and then for a subsequent fiscal year becomes an eligible area under subpart I, rather than applying to a single such series.
 
-(July 1, 1944, ch. 373, title XXVI, §2610, as added Pub. L. 109–415, title I, §108, Dec. 19, 2006, 120 Stat. 2783.)
+(July 1, 1944, ch. 373, title XXVI, §2610, as added and amended Pub. L. 109–415, title I, §108, title VII, §703, Dec. 19, 2006, 120 Stat. 2783, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), (b), 4(b), Oct. 30, 2009, 123 Stat. 2885, 2889.)
 
-#### Repeal of Section
+#### Amendments
 
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+2009—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+Subsec. (a). Pub. L. 111–87, §2(b), substituted “$649,500,000 for fiscal year 2009, $681,975,000 for fiscal year 2010, $716,074,000 for fiscal year 2011, $751,877,000 for fiscal year 2012, and $789,471,000 for fiscal year 2013” for “and $649,500,000 for fiscal year 2009”.
+
+Subsec. (c)(2)(B). Pub. L. 111–87, §4(b), designated existing provisions as cl. (i), inserted “subject to clause (ii),” before “an amount equal to the amount”, and added cl. (ii).
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by sections 2(b) and 4(b) of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 

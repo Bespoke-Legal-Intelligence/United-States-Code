@@ -2,7 +2,7 @@
 
 The publication under the treaty defined in section 351(a) of this title, of an international application designating the United States shall be deemed a publication under section 122(b), except as provided in sections 102(e) and 154(d) of this title.
 
-(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 689; amended Pub. L. 106–113, div. B, §1000(a)(9)\[title IV, §4507(10)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566; Pub. L. 107–273, div. C, title III, §13205(2)(E), Nov. 2, 2002, 116 Stat. 1903.)
+(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 689; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4507(10)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566; Pub. L. 107–273, div. C, title III, §13205(2)(E), Nov. 2, 2002, 116 Stat. 1903.)
 
 #### Amendments
 

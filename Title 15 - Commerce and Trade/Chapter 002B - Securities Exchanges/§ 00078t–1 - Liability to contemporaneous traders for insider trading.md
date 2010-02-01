@@ -20,7 +20,7 @@ Any person who violates any provision of this chapter or the rules or regulation
 
 #### (4) Statute of limitations
 
-&emsp;No action may be brought under this section more than 5 years after the date of the last transaction that is the subject of the violation.
+&emsp;No action may be brought under this section more than 5 years after the date of the lasttransaction that is the subject of the violation.
 
 #### (c) Joint and several liability for communicating
 

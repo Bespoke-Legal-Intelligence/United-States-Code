@@ -18,7 +18,7 @@ An eligible entity that receives a grant under subsection (a) of this section sh
 
 #### (c) Application
 
-An eligible entity desiring a grant under subsection (a) of this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
+An eligible entity desiring a grant under subsection (a) of this section shall submit an application to the Secretary at such time, in suchmanner, and containing such information as the Secretary may reasonably require.
 
 #### (d) Eligible entity
 
@@ -32,7 +32,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### Prior Provisions
 
-A prior section 298, act July 1, 1944, ch. 373, title VIII, §851, formerly §841, as added Pub. L. 88–581, §2, Sept. 4,1964, 78 Stat. 917; amended Pub. L. 89–751, §3(b), Nov. 3, 1966, 80 Stat. 1230; Pub. L. 91–515, title VI, §601(b)(2), Oct. 30, 1970, 84 Stat. 1311; Pub. L. 92–158, §§9, 13, Nov. 18, 1971, 85 Stat. 479, 480; renumbered §851 and amended Pub. L. 94–63, title IX, §941(k)(1), (2), July 29, 1975, 89 Stat. 366; Pub. L. 97–35, title XXVII, §2759(a), Aug. 13, 1981, 95 Stat. 932; Pub. L. 99–92, §9(d), Aug. 16, 1985, 99 Stat. 402; Pub. L. 100–607, title VII, §721(a), Nov. 4, 1988, 102 Stat. 3165; Pub. L. 102–408, title II, §212, Oct. 13, 1992, 106 Stat. 2079, related to Advisory Council on Nurse Education and Practice, prior to repeal by Pub. L. 105–392, title I, §123(1), Nov. 13, 1998, 112 Stat. 3562. See section 297t of this title.
+A prior section 298, act July 1, 1944, ch. 373, title VIII, §851, formerly §841, as added Pub. L. 88–581, §2, Sept. 4, 1964, 78 Stat. 917; amended Pub. L. 89–751, §3(b), Nov. 3, 1966, 80 Stat. 1230; Pub. L. 91–515, title VI, §601(b)(2), Oct. 30, 1970, 84 Stat. 1311; Pub. L. 92–158, §§9, 13, Nov. 18, 1971, 85 Stat. 479, 480; renumbered §851 and amended Pub. L. 94–63, title IX, §941(k)(1), (2), July 29, 1975, 89 Stat. 366; Pub. L. 97–35, title XXVII, §2759(a), Aug. 13, 1981, 95 Stat. 932; Pub. L. 99–92, §9(d), Aug. 16, 1985, 99 Stat. 402; Pub. L. 100–607, title VII, §721(a), Nov. 4, 1988, 102 Stat. 3165; Pub. L. 102–408, title II, §212, Oct. 13, 1992, 106 Stat. 2079, related to Advisory Council on Nurse Education and Practice, prior to repeal by Pub. L. 105–392, title I, §123(1), Nov. 13, 1998, 112 Stat. 3562. See section 297t of this title.
 
 A prior section 855 of act July 1, 1944, was classified to section 298b–2 of this title, prior to renumbering by Pub. L. 105–392 and transfer to section 296g of this title.
 

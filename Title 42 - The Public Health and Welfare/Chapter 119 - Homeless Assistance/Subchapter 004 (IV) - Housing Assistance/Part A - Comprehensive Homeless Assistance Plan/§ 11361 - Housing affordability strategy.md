@@ -6,7 +6,19 @@ Assistance may be made under this subchapter only if the grantee certifies that 
 
 &emsp;(2) a comprehensive homeless assistance plan which was approved by the Secretary during the 180-day period beginning on November 28, 1990, or during such longer period as may be prescribed by the Secretary in any case for good cause.
 
-(Pub. L. 100–77, title IV, §401, July 22, 1987, 101 Stat. 494; Pub. L. 100–628, title IV, §§401–404, Nov. 7, 1988, 102 Stat. 3230, 3231; Pub. L. 101–625, title VIII, §§831, 832(e)(3), 836(a), Nov. 28, 1990, 104 Stat. 4357, 4360, 4366.)
+(Pub. L. 100–77, title IV, §401, July 22, 1987, 101 Stat. 494; Pub. L. 100–628, title IV, §§401–404, Nov. 7, 1988, 102 Stat. 3230, 3231; Pub. L. 101–625, title VIII, §§831, 832(e)(3), 836(a), Nov. 28, 1990, 104 Stat. 4357, 4360, 4366; Pub. L. 111–22, div. B, title I, §1101(2), title V, §1502(a), May 20, 2009, 123 Stat. 1669, 1701.)
+
+#### Renumbering and Amendment of Section
+
+<i>Pub. L. 111–22, div. B, title I, §1101(2), title V, §§1502(a), 1503, May 20, 2009, 123 Stat. 1669, 1701, 1702, provided that, effective on, and applicable beginning on, the earlier of the expiration of the 18-month period beginning on May 20, 2009, or the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 of Pub. L. 111–22:</i>
+
+<i>(1) section 401 of Pub. L. 100–77, which is classified to this section, is renumbered as section 403 of Pub. L. 100–77; and</i>
+
+<i>(2) paragraph (1) of this section is amended—</i>
+
+<i>(A) by substituting “consolidated plan” for “current housing affordability strategy”; and</i>
+
+<i>(B) by inserting before the comma “(referred to in such section as a ‘comprehensive housing affordability strategy’)”.</i>
 
 #### Amendments
 
@@ -45,6 +57,10 @@ Subsec. (b)(5), (6). Pub. L. 100–628, §402(3), added pars. (5) and (6).
 Subsec. (d)(3). Pub. L. 100–628, §403, inserted before period at end “or to respond to recommendations made in accordance with paragraph (2) that are received at least 60 days prior to the beginning of the fiscal year”.
 
 Subsec. (g). Pub. L. 100–628, §404, added subsec. (g).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–22 effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as a note under section 11302 of this title.
 
 #### Effective Date of 1990 Amendment
 

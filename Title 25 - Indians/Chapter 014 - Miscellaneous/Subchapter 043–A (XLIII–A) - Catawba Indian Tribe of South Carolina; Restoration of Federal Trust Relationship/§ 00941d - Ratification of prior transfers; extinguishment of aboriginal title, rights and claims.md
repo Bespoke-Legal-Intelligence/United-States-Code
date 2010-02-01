@@ -2,7 +2,7 @@
 
 #### (a) Ratification of transfers
 
-Any transfer of land or natural resources located anywhere within the United States from, by, or on behalf of the Tribe, any one or more of its Members, or anyone purporting to be a Member, including but without limitation any transfer pursuant to any treaty, compact, or statute of any State, shall be deemed to have been made in accordance with the Constitution and all laws of the United States, and Congress hereby approves and ratifies any such transfer effective as of the date of such transfer. Nothing in this section shall be construed to affect, eliminate, or revive the personal claim of any individualMember (except for any Federal common law fraud claim) which is pursued under any law of general applicability that protects non-Indians as well as Indians.
+Any transfer of land or natural resources located anywhere within the United States from, by, or on behalf of the Tribe, any one or more of its Members, or anyone purporting to be a Member, including but without limitation any transfer pursuant to any treaty, compact, or statute of any State, shall be deemed to have been made in accordance with the Constitution and all laws of the United States, and Congress hereby approves and ratifies any such transfer effective as of the date of such transfer. Nothing in this section shall be construed to affect, eliminate, or revive the personal claim of any individual Member (except for any Federal common law fraud claim) which is pursued under any law of general applicability that protects non-Indians as well as Indians.
 
 #### (b) Aboriginal title
 
@@ -32,7 +32,7 @@ The parties to the Suits shall bear their own costs and attorneys’ fees. As pr
 
 #### (h) Personal claims not affected
 
-Nothing in this section shall be deemed to affect, diminish, or eliminate the personal claim of any individual Indian which is pursued under any law of general applicability (other than Federal common law fraud) that protects non-Indians as well as Indians.
+Nothing in this section shall be deemed to affect, diminish, or eliminate the personal claimof any individual Indian which is pursued under any law of general applicability (other than Federal common law fraud) that protects non-Indians as well as Indians.
 
 #### (i) Federal payment
 

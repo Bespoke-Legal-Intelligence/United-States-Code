@@ -36,9 +36,9 @@ Duties.—A Reserve on active duty under subsection (a) may perform the followin
 
 (c)
 
-Operations Relating to Defense Against Weapons of Mass Destruction and TerroristAttacks.—(1) Notwithstanding subsection (b), a Reserve on active duty as described in subsection (a), or a Reserve who is a member of the National Guard serving on full-time National Guard duty under section 502(f) of title 32 in connection with functions referred to in subsection (a), may, subject to paragraph (3), perform duties in support of emergency preparedness programs to prepare for or to respond to any emergency involving any of the following:
+Operations Relating to Defense Against Weapons of Mass Destruction and Terrorist Attacks.—(1) Notwithstanding subsection (b), a Reserve on active duty as described in subsection (a), or a Reserve who is a member of the National Guard serving on full-time National Guard duty under section 502(f) of title 32 in connection with functions referred to in subsection (a), may, subject to paragraph (3), perform duties in support of emergency preparedness programs to prepare for or to respond to any emergency involving any of the following:
 
-&emsp;(A) The use or threatened use of a weapon of mass destruction (as defined in section 12304(i)(2) <sup>1</sup> of this title) in the United States.
+&emsp;(A) The use or threatened use of a weapon of mass destruction (as defined in section 1403 of the Defense Against Weapons of Mass Destruction Act of 1996 (50 U.S.C. 2302(1))) in the United States.
 
 &emsp;(B) A terrorist attack or threatened terrorist attack in the United States that results, or could result, in catastrophic loss of life or property.
 
@@ -66,7 +66,7 @@ Operations Relating to Defense Against Weapons of Mass Destruction and Terrorist
 
 Training.—A Reserve on active duty as described in subsection (a) may be provided training consistent with training provided to other members on active duty, as the Secretary concerned sees fit.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 30, §678; renumbered §12310 and amended Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(7), Oct. 5, 1994, 108 Stat. 2992, 3017; Pub. L. 104–201, div. A, title V, §541, Sept. 23, 1996, 110 Stat. 2521; Pub. L. 105–261, div. A, title V, §511(b)(1), Oct. 17, 1998, 112 Stat. 2006; Pub. L. 106–65, div. A, title V, §§555(a), (b), 556, title X, §1067(1), Oct. 5, 1999, 113 Stat. 617–619, 774; Pub. L. 107–314, div. A, title V, §514(b), title IX, §933, Dec. 2, 2002, 116 Stat. 2539, 2626; Pub. L. 109–364, div. A, title V, §§525(a), 527, Oct. 17, 2006, 120 Stat. 2193, 2196.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 30, §678; renumbered §12310 and amended Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(7), Oct. 5, 1994, 108 Stat. 2992, 3017; Pub. L. 104–201, div. A, title V, §541, Sept. 23, 1996, 110 Stat. 2521; Pub. L. 105–261, div. A, title V, §511(b)(1), Oct. 17, 1998, 112 Stat. 2006; Pub. L. 106–65, div. A, title V, §§555(a), (b),556, title X, §1067(1), Oct. 5, 1999, 113 Stat. 617–619, 774; Pub. L. 107–314, div. A, title V, §514(b), title IX, §933, Dec. 2, 2002, 116 Stat. 2539, 2626; Pub. L. 109–364, div. A, title V, §§525(a), 527, Oct. 17, 2006, 120 Stat. 2193, 2196; Pub. L. 111–84, div. A, title X, §1073(a)(34), Oct. 28, 2009, 123 Stat. 2474.)
 
 Historical and Revision Notes
 
@@ -91,6 +91,8 @@ In subsection (a), the words “to active duty under section 672(d) of this titl
 Subsection (b) is substituted for 50:962 (less 1st and 2d sentences).
 
 #### Amendments
+
+2009—Subsec. (c)(1)(A). Pub. L. 111–84 substituted “section 1403 of the Defense Against Weapons of Mass Destruction Act of 1996 (50 U.S.C. 2302(1))” for “section 12304(i)(2) of this title”.
 
 2006—Subsecs. (a), (b). Pub. L. 109–364, §525(a), amended subsecs. (a) and (b) generally, substituting provisions relating to authority of the Secretary concerned to order a member of a reserve component to active duty and setting forth duties including supporting operations or missions, providing advice regarding reserve component matters, and providing instruction or training of active-duty members of the armed forces or foreign military forces and Department of Defense contractor personnel or civilian employees, for provisions relating to grade when a Reserve is ordered to active duty and setting forth duties including supporting operations or missions and providing advice regarding reserve component matters.
 
@@ -170,7 +172,7 @@ Establishment of Additional Teams.—The Secretary of Defense shall—
 
 “(b)
 
-Plan.—Not later than 180 days after the date of the enactment of this Act \[Dec. 2, 2002\], the Secretary shall submit to Congress a plan, in furtherance of subsection (a), for establishing at least one Weapons of Mass Destruction Civil Support Team in each State and territory that does not have such a team as of the date of the enactment of this Act. The plan shall include the following:
+Plan.—Not later than 180 days after the date of the enactment of this Act \[Dec. 2, 2002\], the Secretaryshall submit to Congress a plan, in furtherance of subsection (a), for establishing at least one Weapons of Mass Destruction Civil Support Team in each State and territory that does not have such a team as of the date of the enactment of this Act. The plan shall include the following:
 
 &emsp;“(1) A schedule and budget for manning, training, and equipping the new teams as rapidly as is possible without jeopardizing the attainment of full effectiveness by the new teams.
 
@@ -183,6 +185,4 @@ Definitions.—For purposes of this section:
 &emsp;“(1) The term ‘Weapons of Mass Destruction Civil Support Team’ means a team of members of the reserve components of the Armed Forces that is established under section 12310(c) of title 10, United States Code, in support of emergency preparedness programs to prepare for or to respond to any emergency involving the use of a weapon of mass destruction.
 
 &emsp;“(2) The term ‘State and territory’ means each of the several States, the District of Columbia, Puerto Rico, Guam, and the Virgin Islands.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be section “12304(j)(2)”.</i>
 

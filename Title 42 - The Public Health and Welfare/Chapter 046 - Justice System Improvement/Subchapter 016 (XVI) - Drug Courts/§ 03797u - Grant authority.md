@@ -42,7 +42,7 @@ Economic sanctions imposed on an offender pursuant to this section shall not be 
 
 #### (2) Mandatory sanctions
 
-&emsp;The Attorney General shall, by prescribing guidelines or regulations, specify that grantamounts under this subchapter may be used for a drug court only if the drug court imposes graduated sanctions that increase punitive measures, therapeutic measures, or both whenever a participant fails a drug test. Such sanctions and measures may include, but are not limited to, one or more of the following:
+&emsp;The Attorney General shall, by prescribing guidelines or regulations, specify that grant amounts under this subchapter may be used for a drug court only if the drug court imposes graduated sanctions that increase punitive measures, therapeutic measures, or both whenever a participant fails a drug test. Such sanctions and measures may include, but are not limited to, one or more of the following:
 
 &emsp;&emsp;(A) Incarceration.
 

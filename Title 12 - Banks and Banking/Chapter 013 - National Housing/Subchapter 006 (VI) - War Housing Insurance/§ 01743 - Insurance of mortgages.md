@@ -8,7 +8,7 @@ In addition to mortgages insured under section 1738 of this title, the Secretary
 
 To be eligible for insurance under this section a mortgage shall meet the following conditions:
 
-&emsp;(1) The mortgaged property shall be held by a mortgagor approved by the Secretary. The Secretary may, in his discretion, require such mortgagor to be regulated or restricted as to rents or sales, charges, capital structure, rate of return, and methods of operation. The Secretary may make such contracts with, and acquire for not to exceed $100 stock or interest in any such mortgagor, as the Secretary may deem necessary to render effective such restriction or regulation. Such stock or interest shall be paid for out of the General InsuranceFund, and shall be redeemed by the mortgagor at par upon the termination of all obligations of the Secretary under the insurance.
+&emsp;(1) The mortgaged property shall be held by a mortgagor approved by the Secretary. The Secretary may, in his discretion, require such mortgagor to be regulated or restricted as to rents or sales, charges, capital structure, rate of return, and methods of operation. The Secretary may make such contracts with, and acquire for not to exceed $100 stock or interest in any such mortgagor, as the Secretary may deem necessary to render effective such restriction or regulation. Such stock or interest shall be paid for out of the General Insurance Fund, and shall be redeemed by the mortgagor at par upon the termination of all obligations of the Secretary under the insurance.
 
 &emsp;(2) Preference or priority of opportunity in the occupancy of the mortgaged property for veterans of World War II and their immediate families, and for hardship cases as defined by the Secretary, shall be provided under such regulations and procedures as may be prescribed by the Secretary.
 
@@ -28,7 +28,7 @@ The failure of the mortgagor to make any payment due under or provided to be pai
 
 #### (d) Certificates of claim; amount
 
-The certificate of claim issued by the Secretary to any mortgagee in connection with the insurance of mortgages under this section shall be for an amount determined in accordance with subsections (e) and (f) of section 1739 of this title, except that any amount remaining afterthe payment of the full amount under the certificate of claim shall be retained by the Secretary and credited to the General Insurance Fund.
+The certificate of claim issued by the Secretary to any mortgagee in connection with the insurance of mortgages under this section shall be for an amount determined in accordance with subsections (e) and (f) of section 1739 of this title, except that any amount remaining after the payment of the full amount under the certificate of claim shall be retained by the Secretary and credited to the General Insurance Fund.
 
 #### (e) Debentures; date of issuance; interest
 

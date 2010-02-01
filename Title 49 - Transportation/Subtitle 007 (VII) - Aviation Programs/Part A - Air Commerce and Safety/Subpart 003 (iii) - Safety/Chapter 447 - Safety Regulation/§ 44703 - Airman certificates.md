@@ -184,7 +184,7 @@ Right of pilot to review certain records.—Notwithstanding any other provision 
 
 &emsp;(11)
 
-Privacy protections.—An air carrier that receives the records of an individual under paragraph (1) may use such records only to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the pilot and the confidentiality of the records, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
+Privacy protections.—An air carrier that receives the records of an individual under paragraph (1) may use such records only to assess the qualifications of the individual indeciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the pilot and the confidentiality of the records, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
 
 &emsp;(12)
 
@@ -214,7 +214,7 @@ Special rules with respect to certain pilots.—
 
 &emsp;&emsp;(A)
 
-Pilots of certain small aircraft.—Notwithstanding paragraph (1), an air carrier, before receiving information requested about an individual under paragraph (1), may allow the individual to begin service for a period not to exceed 90 days as a pilot of an aircraft with a maximum payload capacity (as defined in section 119.3 of title 14, Code of Federal Regulations) of 7,500 pounds or less, or a helicopter, on a flight that isnot a scheduled operation (as defined in such section). Before the end of the 90-day period, the air carrier shall obtain and evaluate such information. The contract between the carrier and the individual shall contain a term that provides that the continuation of the individual's employment, after the last day of the 90-day period, depends on a satisfactory evaluation.
+Pilots of certain small aircraft.—Notwithstanding paragraph (1), an air carrier, before receiving information requested about an individual under paragraph (1), may allow the individual to begin service for a period not to exceed 90 days as a pilot of an aircraft with a maximum payload capacity (as defined in section 119.3 of title 14, Code of Federal Regulations) of 7,500 pounds or less, or a helicopter, on a flight that is not a scheduled operation (as defined in such section). Before the end of the 90-day period, the air carrier shall obtain and evaluate such information. The contract between the carrier and the individual shall contain a term that provides that the continuation of the individual's employment, after the last day of the 90-day period, depends on a satisfactory evaluation.
 
 &emsp;&emsp;(B)
 

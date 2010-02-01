@@ -26,7 +26,7 @@ Whoever—
 
 (3) If the court does not order restitution, or orders only partial restitution, under this subsection, the court shall state on the record the reasons therefor.
 
-(4)(A) Except as provided in subparagraph (B), funds paid to the Commissioner of Social Security as restitution pursuant to a court order shall be deposited as miscellaneous receipts in the general fund of the Treasury.
+(4)(A) Except as provided in subparagraph (B), funds paid to the Commissioner of Social Security as restitution pursuant to a court ordershall be deposited as miscellaneous receipts in the general fund of the Treasury.
 
 (B) In the case of funds paid to the Commissioner of Social Security pursuant to paragraph (1)(B), the Commissioner of Social Security shall certify for payment to the individual described in such paragraph an amount equal to the lesser of the amount of the funds so paid or the individual's outstanding financial loss as described in such paragraph, except that such amount may be reduced by any overpayment of benefits owed under this subchapter, subchapter II of this chapter, or subchapter VIII of this chapter by the individual.
 

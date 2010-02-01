@@ -6,7 +6,7 @@ The Secretary shall make payments directly to a living enrollee. The Secretary s
 
 #### (b) Minors and persons under legal disability; guardians
 
-Payments due persons under twenty-one years of age or persons under legal disability shall be made in accordance with laws applicable to such persons in the State of domicile of the payee. The Secretary may apply to any court of competent jurisdiction for the appointment of a guardian to receive and administer payments due a person under twenty-one years of age or under legal disability, and may take such other action as he deems appropriate for the protection of the interests of any such person in connection with payments hereunder.
+Payments due persons under twenty-one years of age or persons under legal disability shall bemade in accordance with laws applicable to such persons in the State of domicile of the payee. The Secretary may apply to any court of competent jurisdiction for the appointment of a guardian to receive and administer payments due a person under twenty-one years of age or under legal disability, and may take such other action as he deems appropriate for the protection of the interests of any such person in connection with payments hereunder.
 
 #### (c) Payments not subject to debts; time limits
 

@@ -12,7 +12,7 @@ Sections 7423 and 7425 of this title shall not apply to any action or actions wi
 
 #### (2) Exception
 
-&emsp;If the President determines that a full notification under paragraph (1) could jeopardize the national security of the United States or compromise a United States law enforcement activity, not later than 15 days after the President takes or directs an action or actions referred to in paragraph (1) the President shall notify the appropriate congressional committees that an action has been taken and a determination has been made pursuant to this paragraph. The President shall provide a full notification under paragraph (1) not later than15 days after the reasons for the determination under this paragraph no longer apply.
+&emsp;If the President determines that a full notification under paragraph (1) could jeopardize the national security of the United States or compromise a United States law enforcement activity, not later than 15 days after the President takes or directs an action or actions referred to in paragraph (1) the President shall notify the appropriate congressional committees that an action has been taken and a determination has been made pursuant to this paragraph. The President shall provide a full notification under paragraph (1) not later than 15 days after the reasons for the determination under this paragraph no longer apply.
 
 #### (c) Construction
 

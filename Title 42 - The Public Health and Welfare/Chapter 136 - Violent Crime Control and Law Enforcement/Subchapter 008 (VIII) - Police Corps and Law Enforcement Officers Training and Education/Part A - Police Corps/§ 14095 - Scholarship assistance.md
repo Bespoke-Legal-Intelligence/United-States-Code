@@ -64,7 +64,7 @@ Scholarships awarded under this subsection <sup>1</sup> shall only be used to a
 
 &emsp;(ii) becomes permanently and totally disabled as established by the sworn affidavit of a qualified physician.
 
-(B) If a scholarship recipient is unable to comply with the repayment provision set forth in paragraph (1)(B)(ii) <sup>2</sup> because of a physical oremotional disability or for good cause as determined by the Director, the Director may substitute community service in a form prescribed by the Director for the required repayment.
+(B) If a scholarship recipient is unable to comply with the repayment provision set forth in paragraph (1)(B)(ii) <sup>2</sup> because of a physical or emotional disability or for good cause as determined by the Director, the Director may substitute community service in a form prescribed by the Director for the required repayment.
 
 (C) The Director shall expeditiously seek repayment from a participant who violates an agreement described in paragraph (1).
 

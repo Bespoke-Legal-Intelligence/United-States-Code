@@ -38,9 +38,9 @@ A prior section 413, act July 26, 1947, ch. 343, title V, §501, as added Oct. 1
 
 #### Amendments
 
-<b>2004</b>—Subsec. (d). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+2004—Subsec. (d). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–306, §353(b)(3)(A), substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
+2002—Subsec. (a). Pub. L. 107–306, §353(b)(3)(A), substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
 
 Subsec. (a)(2), (3). Pub. L. 107–306, §353(b)(7), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “As used in this subchapter, the term ‘congressional intelligence committees’ means the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.”
 

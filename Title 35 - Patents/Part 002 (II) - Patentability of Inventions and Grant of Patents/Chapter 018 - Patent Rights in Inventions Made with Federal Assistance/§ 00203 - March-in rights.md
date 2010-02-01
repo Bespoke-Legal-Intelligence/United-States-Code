@@ -10,13 +10,15 @@
 
 &emsp;(4) action is necessary because the agreement required by section 204 has not been obtained or waived or because a licensee of the exclusive right to use or sell any subject invention in the United States is in breach of its agreement obtained pursuant to section 204.
 
-(b) A determination pursuant to this section or section 202(b)(4) shall not be subject to the Contract Disputes Act (41 U.S.C. §601 et seq.). An administrative appeals procedure shall be established by regulations promulgated in accordance with section 206. Additionally, any contractor, inventor, assignee, or exclusive licensee adversely affected by a determination under this section may, at any time within sixty days after the determination is issued, file a petition in the United States Court of Federal Claims, which shall have jurisdiction to determine the appeal on the record and to affirm, reverse, remand or modify, as appropriate, the determination of the Federal agency. In cases described in paragraphs (1) and (3) of subsection (a), the agency's determination shall be held in abeyance pending the exhaustion of appeals or petitions filed under the preceding sentence.
+(b) A determination pursuant to this section or section 202(b)(4) <sup>1</sup> shall not be subject to the Contract Disputes Act (41 U.S.C. §601 et seq.). An administrative appeals procedure shall be established by regulations promulgated in accordance with section 206. Additionally, any contractor, inventor, assignee, or exclusive licensee adversely affected by a determination under this section may, at any time within sixty days after the determination is issued, file a petition in the United States Court of Federal Claims, which shall have jurisdiction to determine the appeal on the record and to affirm, reverse, remand or modify, as appropriate, the determination of the Federal agency. In cases described in paragraphs (1) and (3) of subsection (a), the agency's determination shall be held in abeyance pending the exhaustion of appeals or petitions filed under the preceding sentence.
 
 (Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3022; amended Pub. L. 98–620, title V, §501(9), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 107–273, div. C, title III, §13206(a)(14), Nov. 2, 2002, 116 Stat. 1905.)
 
 #### References in Text
 
-The Contract Disputes Act of 1978, referred to in subsec. (b), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, asamended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code see Short Title note set out under section 601 of Title 41 and Tables.
+Section 202(b)(4), referred to in subsec. (b), was redesignated section 202(b)(3) of this title by Pub. L. 111–8, div. G, title I, §1301(h), Mar. 11, 2009, 123 Stat. 829.
+
+The Contract Disputes Act of 1978, referred to in subsec. (b), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code see Short Title note set out under section 601 of Title 41 and Tables.
 
 #### Amendments
 
@@ -29,4 +31,6 @@ The Contract Disputes Act of 1978, referred to in subsec. (b), is Pub. L. 95–5
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

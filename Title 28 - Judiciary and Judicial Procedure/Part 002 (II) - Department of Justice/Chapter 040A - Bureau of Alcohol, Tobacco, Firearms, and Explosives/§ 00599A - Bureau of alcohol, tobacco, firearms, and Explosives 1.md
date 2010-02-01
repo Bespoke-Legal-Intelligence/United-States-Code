@@ -58,7 +58,7 @@ The section catchline and text of subsecs. (a) to (c)(1), (3) of section 1111 of
 
 #### Amendments
 
-2006—Pub. L. 109–162, §1187(b), (c)(1)(A), transferred the section catchline and subsecs. (a) to (c)(1), (3) of section 1111 of Pub. L. 107–296 to this chapter, redesignated them as this section, and substituted “alcohol,tobacco, firearms” for “Alcohol, Tobacco, Firearms”in the section catchline. See Codification note above.
+2006—Pub. L. 109–162, §1187(b), (c)(1)(A), transferred the section catchline and subsecs. (a) to (c)(1), (3) of section 1111 of Pub. L. 107–296 to this chapter, redesignated them as this section, and substituted “alcohol, tobacco, firearms” for “Alcohol, Tobacco, Firearms”in the section catchline. See Codification note above.
 
 Subsec. (a)(2). Pub. L. 109–177, which directed amendment of second sentence of “section 1111(a)(2) of the Homeland Security Act of 2002 (6 U.S.C. 531(a)(2))” by substituting “President, by and with the advice and consent of the Senate” for “Attorney General” the first time appearing, was executed to this section to reflect the probable intent of Congress in light of the transfer of subsec. (a) of section 1111 of the Homeland Security Act of 2002 to this section by Pub. L. 109–162, §1187(b). See Amendment and Codification notes above.
 

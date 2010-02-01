@@ -154,7 +154,7 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 #### (B) Exception
 
-&emsp;&emsp;Publication of a notice is not required under this paragraph with respect to a use ofprocedures authorized under paragraph (4) if the contractor referred to in that subparagraph (who is to be solicited to submit an offer) has previously provided a module for the system under a contract that contained cost, schedule, and performance goals and the contractor met those goals.
+&emsp;&emsp;Publication of a notice is not required under this paragraph with respect to a use of procedures authorized under paragraph (4) if the contractor referred to in that subparagraph (who is to be solicited to submit an offer) has previously provided a module for the system under a contract that contained cost, schedule, and performance goals and the contractor met those goals.
 
 #### (C) Content of notice
 
@@ -200,7 +200,7 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 #### (3) Compliance with OFPP guidance
 
-&emsp;The head of the PBO shall ensure that the procurements of the PBO under this section are carried out in a manner that is consistent with the guidance provided for the PBO under paragraph (2).
+&emsp;The head of the PBO shall ensure that the procurements of the PBO under this sectionare carried out in a manner that is consistent with the guidance provided for the PBO under paragraph (2).
 
 #### (j) Limitation on multiagency contracting
 
@@ -238,7 +238,7 @@ In this section:
 
 #### References in Text
 
-Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (e)(2), is section 4202(e) of Pub. L.104–106, which is set out as a note under section 2304 of Title 10, Armed Forces.
+Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (e)(2), is section 4202(e) of Pub. L. 104–106, which is set out as a note under section 2304 of Title 10, Armed Forces.
 
 #### Prior Provisions
 

@@ -8,7 +8,7 @@
 
 #### (2) Federal Register notice
 
-&emsp;The Secretary, the Secretary of the Treasury, and the Director of the Office of Management and Budget, shall jointly publish a notice in the Federal Register prior to any purchase of loans under this section that—
+&emsp;The Secretary, the Secretary of the Treasury, and the Director of the Office of Management and Budget, shall jointly publish a notice in the Federal Register prior to any purchase of loans under paragraph (1) that—
 
 &emsp;&emsp;(A) establishes the terms and conditions governing the purchases authorized by paragraph (1);
 
@@ -16,9 +16,31 @@
 
 &emsp;&emsp;(C) describes how the use of such methodology and consideration of such factors used to determine purchase price will ensure that loan purchases do not result in any net cost to the Federal Government (including the cost of servicing the loans purchased).
 
+#### (3) Temporary authority to purchase rehabilitated loans
+
+#### (A) Authority
+
+&emsp;&emsp;In addition to the authority described in paragraph (1), the Secretary, in consultation with the Secretary of the Treasury, is authorized to purchase, or enter into forward commitments to purchase, from any eligible lender (as defined in section 1085(d)(1) of this title), loans that such lender purchased under section 1078–6 of this title on or after October 1, 2003, and before July 1, 2010, and that are not in default, on such terms as the Secretary, the Secretary of the Treasury, and the Director of the Office of Management and Budget jointly determine are in the best interest of the United States, except that any purchase under this paragraphshall not result in any net cost to the Federal Government (including the cost of servicing the loans purchased), as determined jointly by the Secretary, the Secretary of the Treasury, and the Director of the Office of Management and Budget.
+
+#### (B) Federal Register notice
+
+&emsp;&emsp;The Secretary, the Secretary of the Treasury, and the Director of the Office of Management and Budget shall jointly publish a notice in the Federal Register prior to any purchase of loans under this paragraph that—
+
+&emsp;&emsp;&emsp;(i) establishes the terms and conditions governing the purchases authorized by this paragraph;
+
+&emsp;&emsp;&emsp;(ii) includes an outline of the methodology and factors that the Secretary, the Secretary of the Treasury, and the Director of the Office of Management and Budget will jointly consider in evaluating the price at which to purchase loans rehabilitated pursuant to section 1078–6(a) of this title; and
+
+&emsp;&emsp;&emsp;(iii) describes how the use of such methodology and consideration of such factors used to determine purchase price will ensure that loan purchases do not result in any net cost to the Federal Government (including the cost of servicing the loans purchased).
+
 #### (b) Proceeds
 
-The Secretary shall require, as a condition of any purchase under subsection (a), that the funds paid by the Secretary to any eligible lender under this section shall be used: (1) to ensure continued participation of such lender in the Federal student loan programs authorized under part B of this subchapter; and (2) to originate new Federal loans to students, as authorized under part B of this subchapter.
+The Secretary shall require, as a condition of any purchase under subsection (a), that the funds paid by the Secretary to any eligible lender under this section be used—
+
+&emsp;(1) to ensure continued participation of such lender in the Federal student loan programs authorized under part B of this subchapter; and
+
+&emsp;(2)(A) in the case of loans purchased pursuant to subsection (a)(1), to originate new Federal loans to students, as authorized under part B of this subchapter; or
+
+&emsp;(B) in the case of loans purchased pursuant to subsection (a)(3), to originate such new Federal loans to students, or to purchase loans in accordance with section 1078–6(a) of this title.
 
 #### (c) Maintaining servicing arrangements
 
@@ -58,13 +80,13 @@ The Secretary shall prepare, transmit to the authorizing committees, and make av
 
 &emsp;Not later than February 15, 2011, an estimate of the costs associated with the program of purchasing loans described in paragraph (1)(A)(i) during the period beginning July 1, 2008, and ending September 30, 2010, and an estimate of the costs associated with the program of purchasing a participation interest in loans described in paragraph (1)(A)(ii) during such period. Each such estimate shall—
 
-&emsp;&emsp;(A) contain the same level of detail, and be reported in a similar manner, as the budget estimates provided for the loan program under part B and the direct student loan program under this part in the President's annual budget submission to Congress, exceptthat current and future administrative costs shall also be reported;
+&emsp;&emsp;(A) contain the same level of detail, and be reported in a similar manner, as the budget estimates provided for the loan program under part B and the direct student loan program under this part in the President's annual budget submission to Congress, except that current and future administrative costs shall also be reported;
 
 &emsp;&emsp;(B) include an estimate of the gross and net outlays that have been, or will be, incurred by the Federal Government (including subsidy and administrative costs, and any payments made by the Department to lenders, trusts, or other entities related to such activities) in purchasing such loans or purchasing a participation interest in such loans during such period (as applicable); and
 
 &emsp;&emsp;(C) include a comparison of—
 
-&emsp;&emsp;&emsp;(i) the average amount of the gross and net outlays (including costs and payments) described in subparagraph (B) for each $100 of loans purchased or for which a participation interest was purchased (as applicable) during such period, disaggregated by type of loan; with
+&emsp;&emsp;&emsp;(i) the average amount of the gross and net outlays (including costs and payments)described in subparagraph (B) for each $100 of loans purchased or for which a participation interest was purchased (as applicable) during such period, disaggregated by type of loan; with
 
 &emsp;&emsp;&emsp;(ii) the average amount of such gross and net outlays (including costs and payments) to the Federal Government for each $100 of comparable loans made under this part and part B during such period, disaggregated by part and by type of loan.
 
@@ -76,13 +98,19 @@ The Secretary shall prepare, transmit to the authorizing committees, and make av
 
 The Secretary's authority to purchase loans under this section shall expire on July 1, 2010.
 
-(Pub. L. 89–329, title IV, §459A, as added Pub. L. 110–227, §7(b), May 7, 2008, 122 Stat. 746; amended Pub. L. 110–315, title IV, §453, Aug. 14, 2008, 122 Stat. 3263; Pub. L. 110–350, §1, Oct. 7, 2008, 122 Stat. 3947.)
+(Pub. L. 89–329, title IV, §459A, as added Pub. L. 110–227, §7(b), May 7, 2008, 122 Stat. 746; amended Pub. L. 110–315, title IV, §453, Aug. 14, 2008, 122 Stat. 3263; Pub. L. 110–350, §1, Oct. 7, 2008, 122 Stat. 3947; Pub. L. 111–39, title IV, §404(a), July 1, 2009, 123 Stat. 1945.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 89–329, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
+
+2009—Subsec. (a)(2). Pub. L. 111–39, §404(a)(1)(A), substituted “purchase of loans under paragraph (1)” for “purchase of loans under this section” in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 111–39, §404(a)(1)(B), added par. (3).
+
+Subsec. (b). Pub. L. 111–39, §404(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary shall require, as a condition of any purchase under subsection (a), that the funds paid by the Secretary to any eligible lender under this section shall be used: (1) to ensure continued participation of such lender in the Federal student loan programs authorized under part B of this subchapter; and (2) to originate new Federal loans to students, as authorized under part B of this subchapter.”
 
 2008—Subsec. (a)(1). Pub. L. 110–350, §1(1), substituted “July 1, 2010” for “July 1, 2009”.
 
@@ -97,4 +125,8 @@ Subsec. (e)(3). Pub. L. 110–350, §1(2)(C), substituted “2009, 2010, and 201
 Subsec. (f). Pub. L. 110–350, §1(1), substituted “July 1, 2010” for “July 1, 2009”.
 
 Pub. L. 110–315, §453(1), redesignated subsec. (d) as (f).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

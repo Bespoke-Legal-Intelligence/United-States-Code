@@ -38,7 +38,7 @@ Pursuant to regulations promulgated by the Attorney General hereunder, in this s
 
 &emsp;&emsp;(B) with respect to the individual described in paragraph (1) or (2), as applicable, the individual had served not less than 85 percent of the term of imprisonment to which that individual was sentenced for the prior offense.
 
-> &emsp;For purposes of subparagraph (B), in a State that has indeterminate sentencing, the term of imprisonment to which that individual was sentenced for the prior offense shall be based on the lower of the range of sentences.
+> &emsp;For purposes of subparagraph (B), in a State that has indeterminate sentencing, the termof imprisonment to which that individual was sentenced for the prior offense shall be based on the lower of the range of sentences.
 
 #### (d) State applications
 

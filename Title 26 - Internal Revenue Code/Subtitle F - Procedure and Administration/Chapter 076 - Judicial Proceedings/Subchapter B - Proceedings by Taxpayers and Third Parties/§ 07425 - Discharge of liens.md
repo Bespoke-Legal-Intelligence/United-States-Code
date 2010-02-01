@@ -46,7 +46,7 @@ Notwithstanding subsection (a) sale of property on which the United States has o
 
 #### (1) Right to redeem
 
-&emsp;In the case of a sale of real property to which subsection (b) applies to satisfy a lienprior to that of the United States, the Secretary may redeem such property within the period of 120 days from the date of such sale or the period allowable for redemption under local law, whichever is longer.
+&emsp;In the case of a sale of real property to which subsection (b) applies to satisfy a lien prior to that of the United States, the Secretary may redeem such property within the period of 120 days from the date of such sale or the period allowable for redemption under local law, whichever is longer.
 
 #### (2) Amount to be paid
 

@@ -72,5 +72,5 @@ Section 1211(a)(1) of Pub. L. 109–280, which directed the addition of section 
 
 #### Effective Date
 
-Pub. L. 109–280, title XII, §1211(d), Aug. 17, 2006, 120 Stat. 1074, provided that: “The amendments made by this section \[enacting this section and amending sections 6721 and 6724 of this title\] shall apply to acquisitions of contracts after the date of enactment of this Act \[Aug. 17, 2006\].”
+Pub. L. 109–280, title XII, §1211(d), Aug. 17, 2006, 120 Stat. 1074, provided that: “The amendments made bythis section \[enacting this section and amending sections 6721 and 6724 of this title\] shall apply to acquisitions of contracts after the date of enactment of this Act \[Aug. 17, 2006\].”
 

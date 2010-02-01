@@ -70,7 +70,7 @@ All acquisitions of contiguous land to expand the Reservation or of non-contiguo
 
 #### (<i>l</i>) Leases of Reservation lands
 
-The provisions of section 415 of this title shall not apply to the Tribe and its Reservation. The Tribe is authorized to lease its Reservation lands for terms up to but not exceeding 99 years, with or without the approval of the Secretary. With regard to any lease of Reservation lands not approved by the Secretary, the Secretary shall be exculpated by the Tribe from any liability arising out of any loss incurred by the Tribe as a result of the unapproved lease.
+The provisions of section 415 of this title shall not apply to the Tribe and its Reservation. TheTribe is authorized to lease its Reservation lands for terms up to but not exceeding 99 years, with or without the approval of the Secretary. With regard to any lease of Reservation lands not approved by the Secretary, the Secretary shall be exculpated by the Tribe from any liability arising out of any loss incurred by the Tribe as a result of the unapproved lease.
 
 #### (m) Non-applicability of BIA land acquisition regulations
 

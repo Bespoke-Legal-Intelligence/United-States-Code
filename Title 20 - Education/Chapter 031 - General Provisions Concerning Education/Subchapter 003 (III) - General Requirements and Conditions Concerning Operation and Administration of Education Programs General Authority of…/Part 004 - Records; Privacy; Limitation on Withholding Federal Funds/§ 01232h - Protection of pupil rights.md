@@ -56,7 +56,7 @@ No student shall be required, as part of any applicable program, to submit to a 
 
 &emsp;&emsp;(C)(i) The right of a parent of a student to inspect, upon the request of the parent, any instructional material used as part of the educational curriculum for the student; and
 
-&emsp;&emsp;(ii) any applicable procedures for granting a request by a parent for reasonable access to instructional material within a reasonable period of time after the request is received.
+&emsp;&emsp;(ii) any applicable procedures for granting a request by a parent for reasonable accessto instructional material within a reasonable period of time after the request is received.
 
 &emsp;&emsp;(D) The administration of physical examinations or screenings that the school or agency may administer to a student.
 

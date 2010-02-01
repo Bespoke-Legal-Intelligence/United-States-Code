@@ -30,7 +30,7 @@ Remainder of section 203 of title 13, U.S.C., 1952 ed., is incorporated in this 
 
 #### References in Text
 
-The Classification Act of 1949, referred to in subsec. (a), is act Oct. 28, 1949, ch. 782, 63 Stat. 954, as amended, which was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees.
+The Classification Act of 1949, referred to in subsec. (a), is act Oct. 28, 1949, ch. 782, 63 Stat. 954, as amended,which was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees.
 
 The civil service laws, referred to in subsec. (a), are set forth in Title 5. See, particularly, section 3301 et seq. of Title 5.
 

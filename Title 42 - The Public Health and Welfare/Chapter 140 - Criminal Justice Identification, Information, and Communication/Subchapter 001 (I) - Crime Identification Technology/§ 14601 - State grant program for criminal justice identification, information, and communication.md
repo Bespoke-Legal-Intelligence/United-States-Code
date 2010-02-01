@@ -56,7 +56,7 @@ Grants under this section may be used for programs to establish, develop, update
 
 &emsp;(13) domestic violence offender identification and information systems;
 
-&emsp;(14) programs for fingerprint-supported background checks capability for noncriminaljustice purposes, including youth service employees and volunteers and other individuals in positions of responsibility, if authorized by Federal or State law and administered by a government agency;
+&emsp;(14) programs for fingerprint-supported background checks capability for noncriminal justice purposes, including youth service employees and volunteers and other individuals in positions of responsibility, if authorized by Federal or State law and administered by a government agency;
 
 &emsp;(15) criminal justice information systems with a capacity to provide statistical and research products including incident-based reporting systems that are compatible with the National Incident-Based Reporting System (NIBRS) and uniform crime reports;
 
@@ -124,7 +124,7 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 
 #### Amendments
 
-2006—Subsec. (c)(2)(G). Pub. L. 109–162 substituted “such as the Edward Byrne Justice Assistance GrantProgram and the M.O.R.E. program” for “such as the Local Law Enforcement Block Grant program (described under the heading ‘Violent Crime Reduction Programs, State and Local Law Enforcement Assistance’ of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119)) and the M.O.R.E. program”.
+2006—Subsec. (c)(2)(G). Pub. L. 109–162 substituted “such as the Edward Byrne Justice Assistance Grant Program and the M.O.R.E. program” for “such as the Local Law Enforcement Block Grant program (described under the heading ‘Violent Crime ReductionPrograms, State and Local Law Enforcement Assistance’ of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119)) and the M.O.R.E. program”.
 
 2001—Subsec. (b)(18). Pub. L. 107–56, §1015(1), added par. (18).
 

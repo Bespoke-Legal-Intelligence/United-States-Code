@@ -1,6 +1,6 @@
 ### §5313. Reporting requirements
 
-(a) Not later than 180 days after the close of each fiscal year in which assistance under thischapter is furnished, the Secretary shall submit to the Congress a report which shall contain—
+(a) Not later than 180 days after the close of each fiscal year in which assistance under this chapter is furnished, the Secretary shall submit to the Congress a report which shall contain—
 
 &emsp;(1) a description of the progress made in accomplishing the objectives of this chapter;
 

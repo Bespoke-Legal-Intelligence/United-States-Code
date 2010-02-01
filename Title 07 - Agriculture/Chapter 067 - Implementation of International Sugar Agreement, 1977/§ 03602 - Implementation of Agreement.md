@@ -38,7 +38,7 @@ Reallocation of Quota Amounts.—For any quota year for which the President does
 
 “(c)
 
-Certification.—The provisions of subsections (a) and (b), and the amendments made by subsection (c) of section 571 of the Foreign Operations, Export Financing, and Related Programs, Appropriations Act, 1988 \[section 101(e) \[title V, §571\] of Pub. L. 100–202, formerly set out below\], shall cease to apply if the President certifies to Congress pursuant to section 561(a) of this Act \[section 561(a) of Pub. L. 101–167, which is set out as a note under section 2151 of Title 22, Foreign Relations and Intercourse\].”
+Certification.—The provisions of subsections (a) and (b), and the amendments made by subsection (c) ofsection 571 of the Foreign Operations, Export Financing, and Related Programs, Appropriations Act, 1988 \[section 101(e) \[title V, §571\] of Pub. L. 100–202, formerly set out below\], shall cease to apply if the President certifies to Congress pursuant to section 561(a) of this Act \[section 561(a) of Pub. L. 101–167, which is set out as a note under section 2151 of Title 22, Foreign Relations and Intercourse\].”
 
 Similar provisions were contained in the following prior appropriation acts:
 

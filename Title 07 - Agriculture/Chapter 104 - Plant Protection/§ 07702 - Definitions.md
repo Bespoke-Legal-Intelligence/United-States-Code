@@ -116,7 +116,7 @@ In this chapter:
 
 #### (19) This chapter
 
-&emsp;Except when used in this section, the term “this chapter” includes any regulation ororder issued by the Secretary under the authority of this chapter.
+&emsp;Except when used in this section, the term “this chapter” includes any regulation or order issued by the Secretary under the authority of this chapter.
 
 #### (20) United States
 

@@ -6,7 +6,7 @@ In order to promote the establishment and operation of direct marketing from far
 
 &emsp;(1) sponsoring conferences which are designed to facilitate the sharing of information (among farm producers, consumers, and other interested persons or groups) concerning the establishment and operation of direct marketing from farmers to consumers;
 
-&emsp;(2) compiling laws and regulations relevant to the conduct of the various methods of such direct marketing within the State, formulating drafts and enabling legislation needed to facilitate such direct marketing, determining feasible locations for additional facilities for such direct marketing, and preparing and disseminating practical information on the establishment and operation of such direct marketing; and
+&emsp;(2) compiling laws and regulations relevant to the conduct of the various methods of such direct marketing within the State, formulating drafts of enabling legislation needed to facilitate such direct marketing, determining feasible locations for additional facilities for such direct marketing, and preparing and disseminating practical information on the establishment and operation of such direct marketing; and
 
 &emsp;(3) providing technical assistance for the purpose of aiding interested individuals or groups in the establishment of arrangements for direct marketing from farmers to consumers.
 

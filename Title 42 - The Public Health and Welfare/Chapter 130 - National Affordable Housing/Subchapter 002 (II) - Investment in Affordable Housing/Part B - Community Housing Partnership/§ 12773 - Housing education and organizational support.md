@@ -66,13 +66,13 @@ The Secretary shall provide this assistance only through contract—
 
 Contracts under this section with any one contractor for a fiscal year may not—
 
-&emsp;(1) exceed 20 percent of the amount appropriated for this section for such fiscal year; or
+&emsp;(1) exceed 40 percent of the amount appropriated for this section for such fiscal year; or
 
 &emsp;(2) provide more than 20 percent of the operating budget (which shall not include funds that are passed through to community housing development organizations) of the contracting organization for any one year.
 
 #### (e) Single-State contractors
 
-Not less than 40 percent of the funds made available for this section in an appropriations Act in any fiscal year shall be made available for eligible contractors that have worked primarily in one State. The Secretary shall provide assistance under this section, to the extent applications are submitted and approved, to contractors in each of the geographic regions having a regional office of the Department of Housing and Urban Development.
+Not less than 25 percent of the funds made available for this section in an appropriations Act in any fiscal year shall be made available for eligible contractors that have worked primarily in one State. The Secretary shall provide assistance under this section, to the extent applications are submitted and approved, to contractors in each of the geographic regions having a regional office of the Department of Housing and Urban Development.
 
 #### (f) “Community land trust” defined
 
@@ -98,15 +98,19 @@ For purposes of this section, the term “community land trust” means a commun
 
 &emsp;&emsp;(B) is composed of equal numbers of (i) lessees pursuant to paragraph (3)(B), (ii) corporate members who are not lessees, and (iii) any other category of persons described in the bylaws of the organization.
 
-(Pub. L. 101–625, title II, §233, Nov. 28, 1990, 104 Stat. 4116; Pub. L. 102–550, title II, §213, Oct. 28, 1992, 106 Stat. 3757.)
+(Pub. L. 101–625, title II, §233, Nov. 28, 1990, 104 Stat. 4116; Pub. L. 102–550, title II, §213, Oct. 28, 1992, 106 Stat. 3757; Pub. L. 111–8, div. I, title II, §229(1), (2), Mar. 11, 2009, 123 Stat. 978.)
 
 #### References in Text
 
-The National Housing Act, referred to in subsec. (b)(7), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsec. (b)(7), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
-Section 4 of the Job Training Partnership Act, referred to in subsec. (c)(1)(E), which was classified to section 1503 of Title 29, Labor, was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+Section 4 of the Job Training Partnership Act, referred to in subsec. (c)(1)(E), which was classified to section 1503 of Title 29, Labor, was repealed by Pub. L.105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
+
+2009—Subsec. (d)(1). Pub. L. 111–8, §229(1), substituted “40” for “20”.
+
+Subsec. (e). Pub. L. 111–8, §229(2), substituted “25” for “40”.
 
 1992—Subsec. (a)(2). Pub. L. 102–550, §213(a)(1), inserted “, including community land trusts,” after “organizations”.
 

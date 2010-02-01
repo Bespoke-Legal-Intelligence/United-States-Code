@@ -1,6 +1,6 @@
 # Printed pages - Title 13 - Census
 
-GPO's 2008 edition (laws in effect as of 2009-01-05), from its printed page marks. The exact position of
+GPO's 2009 edition (laws in effect as of 2010-02-01), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title13.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -45,8 +45,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00063 - Duplicate collection of statistics prohibited; access to available statistics](Chapter%20003%20-%20Collection%20and%20Publication%20of%20Statistics/Subchapter%20002%20%28II%29%20-%20Oilseeds%2C%20Nuts%2C%20and%20Kernels%3B%20Fats%2C%20Oils%2C%20and%20Greases/%C2%A7%2000063%20-%20Duplicate%20collection%20of%20statistics%20prohibited%3B%20access%20to%20available%20statistics.md) | 14 |
 | [Subchapter 003 (III) - Apparel and Textiles](Chapter%20003%20-%20Collection%20and%20Publication%20of%20Statistics/Subchapter%20003%20%28III%29%20-%20Apparel%20and%20Textiles/README.md) | 14 |
 | [&sect; 00081 - Statistics on apparel and textile industries](Chapter%20003%20-%20Collection%20and%20Publication%20of%20Statistics/Subchapter%20003%20%28III%29%20-%20Apparel%20and%20Textiles/%C2%A7%2000081%20-%20Statistics%20on%20apparel%20and%20textile%20industries.md) | 14 |
-| [Subchapter 004 (IV) - Quarterly Financial Statistics](Chapter%20003%20-%20Collection%20and%20Publication%20of%20Statistics/Subchapter%20004%20%28IV%29%20-%20Quarterly%20Financial%20Statistics/README.md) | 14 |
-| [&sect; 00091 - Collection and publication](Chapter%20003%20-%20Collection%20and%20Publication%20of%20Statistics/Subchapter%20004%20%28IV%29%20-%20Quarterly%20Financial%20Statistics/%C2%A7%2000091%20-%20Collection%20and%20publication.md) | 14–16 |
+| [Subchapter 004 (IV) - Quarterly Financial Statistics](Chapter%20003%20-%20Collection%20and%20Publication%20of%20Statistics/Subchapter%20004%20%28IV%29%20-%20Quarterly%20Financial%20Statistics/README.md) | 14–15 |
+| [&sect; 00091 - Collection and publication](Chapter%20003%20-%20Collection%20and%20Publication%20of%20Statistics/Subchapter%20004%20%28IV%29%20-%20Quarterly%20Financial%20Statistics/%C2%A7%2000091%20-%20Collection%20and%20publication.md) | 15–16 |
 | [Subchapter 005 (V) - Miscellaneous](Chapter%20003%20-%20Collection%20and%20Publication%20of%20Statistics/Subchapter%20005%20%28V%29%20-%20Miscellaneous/README.md) | 16 |
 | [&sect; 00101 - Defective, dependent, and delinquent classes; crime](Chapter%20003%20-%20Collection%20and%20Publication%20of%20Statistics/Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2000101%20-%20Defective%2C%20dependent%2C%20and%20delinquent%20classes%3B%20crime.md) | 16 |
 | [&sect; 00102 - Religion](Chapter%20003%20-%20Collection%20and%20Publication%20of%20Statistics/Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2000102%20-%20Religion.md) | 16 |
@@ -97,4 +97,4 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00307 - Relationship to general census law](Chapter%20009%20-%20Collection%20and%20Publication%20of%20Foreign%20Commerce%20and%20Trade%20Statistics/%C2%A7%2000307%20-%20Relationship%20to%20general%20census%20law.md) | 36 |
 | [Chapter 010 - Exchange of Census Information](Chapter%20010%20-%20Exchange%20of%20Census%20Information/README.md) | 36 |
 | [&sect; 00401 - Exchange of census information with Bureau of Economic Analysis](Chapter%20010%20-%20Exchange%20of%20Census%20Information/%C2%A7%2000401%20-%20Exchange%20of%20census%20information%20with%20Bureau%20of%20Economic%20Analysis.md) | 36 |
-| [&sect; 00402 - Providing business data to Designated Statistical Agencies](Chapter%20010%20-%20Exchange%20of%20Census%20Information/%C2%A7%2000402%20-%20Providing%20business%20data%20to%20Designated%20Statistical%20Agencies.md) | 36 |
+| [&sect; 00402 - Providing business data to Designated Statistical Agencies](Chapter%20010%20-%20Exchange%20of%20Census%20Information/%C2%A7%2000402%20-%20Providing%20business%20data%20to%20Designated%20Statistical%20Agencies.md) | 36–37 |

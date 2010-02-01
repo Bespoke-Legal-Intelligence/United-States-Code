@@ -12,7 +12,7 @@ The Administrator of the Rural Utilities Service (in this chapter referred to as
 
 &emsp;&emsp;(A) shall maintain assets, equipment, facilities, and operations on a continuing basis;
 
-&emsp;&emsp;(B) shall not make any discretionary dividend payments that impair its ability to repay obligations guaranteed under this chapter;
+&emsp;&emsp;(B) shall not make any discretionary dividend payments that impair its ability torepay obligations guaranteed under this chapter;
 
 &emsp;&emsp;(C) shall remain sufficiently capitalized; and
 
@@ -50,7 +50,7 @@ The holder of a loan guarantee under this chapter may assign the loan guaranteed
 
 #### (d) Expiration of loan guarantee upon stripping
 
-Notwithstanding subsections (c), (e), and (h) of this section, a loan guarantee under this chaptershall have no force or effect if any part of the guaranteed portion of the loan is transferred separate and apart from the unguaranteed portion of the loan.
+Notwithstanding subsections (c), (e), and (h) of this section, a loan guarantee under this chapter shall have no force or effect if any part of the guaranteed portion of the loan is transferred separate and apart from the unguaranteed portion of the loan.
 
 #### (e) Adjustment
 
@@ -88,7 +88,7 @@ A loan guarantee under this chapter shall be incontestable—
 
 &emsp;(1) in the hands of an applicant on whose behalf the loan guarantee is made, unless the applicant engaged in fraud or misrepresentation in securing the loan guarantee; and
 
-&emsp;(2) as to any person or entity (or their respective successor in interest) who makes or contracts to make a loan to the applicant for the loan guarantee in reliance thereon, unless such person or entity (or respective successor in interest) engaged in fraud or misrepresentation in making or contracting to make such loan.
+&emsp;(2) as to any person or entity (or their respective successor in interest) who makes or contracts to make a loan to the applicant forthe loan guarantee in reliance thereon, unless such person or entity (or respective successor in interest) engaged in fraud or misrepresentation in making or contracting to make such loan.
 
 #### (i) Defaults
 

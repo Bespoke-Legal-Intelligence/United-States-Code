@@ -226,6 +226,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER XV—CIVIL RIGHTS HISTORY PROJECT
+
+|  |  |
+| :--- | ---: |
+| [80s.](Subchapter%20015%20%28XV%29%20-%20Civil%20Rights%20History%20Project/%C2%A7%2000080s%20-%20Findings%3B%20purpose.md) | Findings; purpose. |
+| 80s–1. | Establishment of joint project at Library of Congress and National Museum of African American History and Culture to collect video and audio recordings of histories of participants in American Civil Rights movement. |
+| 80s–2. | Private support for civil rights history project. |
+| 80s–3. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -245,3 +256,4 @@
 - [Subchapter 012 (XII) - Museum of African Art](Subchapter%20012%20%28XII%29%20-%20Museum%20of%20African%20Art/README.md)
 - [Subchapter 013 (XIII) - National Museum of the American Indian](Subchapter%20013%20%28XIII%29%20-%20National%20Museum%20of%20the%20American%20Indian/README.md)
 - [Subchapter 014 (XIV) - National Museum of African American History and Culture](Subchapter%20014%20%28XIV%29%20-%20National%20Museum%20of%20African%20American%20History%20and%20Culture/README.md)
+- [Subchapter 015 (XV) - Civil Rights History Project](Subchapter%20015%20%28XV%29%20-%20Civil%20Rights%20History%20Project/README.md)

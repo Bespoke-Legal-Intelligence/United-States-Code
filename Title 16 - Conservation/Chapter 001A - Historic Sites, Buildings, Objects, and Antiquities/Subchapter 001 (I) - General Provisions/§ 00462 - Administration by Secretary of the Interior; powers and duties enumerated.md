@@ -4,7 +4,7 @@ The Secretary of the Interior (hereinafter in sections 461 to 467 of this title 
 
 (a) Secure, collate, and preserve drawings, plans, photographs, and other data of historic and archaeologic sites, buildings, and objects.
 
-(b) Make a survey of historic and archaeologic sites, buildings, and objects for the purpose of determining which possess exceptional value ascommemorating or illustrating the history of the United States.
+(b) Make a survey of historic and archaeologic sites, buildings, and objects for the purpose of determining which possess exceptional value as commemorating or illustrating the history of the United States.
 
 (c) Make necessary investigations and researches in the United States relating to particular sites, buildings, or objects to obtain true and accurate historical and archaeological facts and information concerning the same.
 

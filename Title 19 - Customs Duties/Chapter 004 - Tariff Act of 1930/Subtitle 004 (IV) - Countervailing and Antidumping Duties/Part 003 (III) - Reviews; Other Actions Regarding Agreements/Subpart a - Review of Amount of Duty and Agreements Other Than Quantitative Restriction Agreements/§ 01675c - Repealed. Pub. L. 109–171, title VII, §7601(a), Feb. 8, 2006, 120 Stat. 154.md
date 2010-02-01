@@ -6,6 +6,42 @@ Section 1675c, act June 17, 1930, ch. 497, title VII, §754, as added Pub. L. 10
 
 Pub. L. 109–171, title VII, §7601(a), Feb. 8, 2006, 120 Stat. 154, provided that the repeal made by section 7601(a) is effective Feb. 8, 2006.
 
+#### Prohibition on Collection of Certain Payments Made Under the Continued Dumping and Subsidy Offset Act of 2000.
+
+Pub. L. 111–5, div. B, title I, §1701, Feb. 17, 2009, 123 Stat. 366, provided that:
+
+“(a)
+
+In General.—Notwithstanding any other provision of law, neither the Secretary of Homeland Security nor any other person may—
+
+&emsp;“(1) require repayment of, or attempt in any other way to recoup, any payments described in subsection (b); or
+
+&emsp;“(2) offset any past, current, or future distributions of antidumping or countervailing duties assessed with respect to imports from countries that are not parties to the North American Free Trade Agreement in an attempt to recoup any payments described in subsection (b).
+
+“(b)
+
+Payments Described.—Payments described in this subsection are payments of antidumping or countervailing duties made pursuant to the Continued Dumping and Subsidy Offset Act of 2000 (section 754 of the Tariff Act of 1930 (19 U.S.C. 1675c; repealed by subtitle F of title VII of the Deficit Reduction Act of 2005 (Public Law 109–171; 120 Stat. 154))) that were—
+
+&emsp;“(1) assessed and paid on imports of goods from countries that are parties to the North American Free Trade Agreement; and
+
+&emsp;“(2) distributed on or after January 1, 2001, and before January 1, 2006.
+
+“(c)
+
+Payment of Funds Collected or Withheld.—Not later than the date that is 60 days after the date of the enactment of this Act \[Feb. 17, 2009\], the Secretary of Homeland Security shall—
+
+&emsp;“(1) refund any repayments, or any other recoupment, of payments described in subsection (b); and
+
+&emsp;“(2) fully distribute any antidumping or countervailing duties that the U.S. Customs and Border Protection is withholding as an offset as described in subsection (a)(2).
+
+“(d)
+
+Limitation.—Nothing in this section shall be construed to prevent the Secretary of Homeland Security, or any other person, from requiring repayment of, or attempting to otherwise recoup, any payments described in subsection (b) as a result of—
+
+&emsp;“(1) a finding of false statements or other misconduct by a recipient of such a payment; or
+
+&emsp;“(2) the reliquidation of an entry with respect to which such a payment was made.”
+
 #### Distributions on Certain Entries
 
 Pub. L. 109–171, title VII, §7601(b), Feb. 8, 2006, 120 Stat. 154, provided that: “All duties on entries of goods made and filed before October 1, 2007, that would, but for subsection (a) of this section \[repealing this section\], be distributed under section 754 of the Tariff Act of 1930 \[this section\], shall be distributed as if section 754 of the Tariff Act of 1930 had not been repealed by subsection (a).”

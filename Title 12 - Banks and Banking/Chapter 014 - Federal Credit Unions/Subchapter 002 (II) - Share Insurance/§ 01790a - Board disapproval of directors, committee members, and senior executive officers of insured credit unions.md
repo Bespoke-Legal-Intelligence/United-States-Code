@@ -20,7 +20,7 @@ An insured credit union may not add any individual to the board of directors or 
 
 #### (2) No effect on disapproval authority of Board
 
-&emsp;Such waivers shall not affect the authority of the Board to issue notices of disapproval ofsuch additions or employment of such individuals within 30 days after each such waiver.
+&emsp;Such waivers shall not affect the authority of the Board to issue notices of disapproval of such additions or employment of such individuals within 30 days after each such waiver.
 
 #### (d) Additional information
 

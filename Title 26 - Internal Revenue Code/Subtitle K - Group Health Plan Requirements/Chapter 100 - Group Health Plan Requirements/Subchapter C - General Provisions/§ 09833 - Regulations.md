@@ -2,7 +2,7 @@
 
 The Secretary, consistent with section 104 of the Health Care Portability and Accountability Act of 1996, may promulgate such regulations as may be necessary or appropriate to carry out the provisions of this chapter. The Secretary may promulgate any interim final rules as the Secretary determines are appropriate to carry out this chapter.
 
-(Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2082; §9806; renumbered §9833, Pub. L. 105–34, title XV, §1531(a)(2), Aug. 5, 1997, 111 Stat. 1081.)
+(Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2082; §9806; renumbered §9833, Pub.L. 105–34, title XV, §1531(a)(2), Aug. 5, 1997, 111 Stat. 1081.)
 
 #### References in Text
 

@@ -12,7 +12,7 @@ In accordance with the provisions of this subchapter, effective on the transfer 
 
 #### (1) In general
 
-&emsp;Any individual who is an employee of the Congressional Special Services Office of the Capitol Guide Service on a non-temporary basis on the transfer date who is transferred under subsection (a) shall be subject to the authority of the Director of Accessibility Services under section 130e(b) of this title (asamended by section 2251 of this title), except that the individual's grade, compensation, rate of leave, or other benefits that apply with respect to the individual at the time of transfer shall not be reduced while such individual remains continuously so employed in the same position within the Office of Congressional Accessibility Services established under section 130e(a) of this title (as amended by section 2251 of this title), other than for cause.
+&emsp;Any individual who is an employee of the Congressional Special Services Office of the Capitol Guide Service on a non-temporary basis on the transfer date who is transferred under subsection (a) shall be subject to the authority of the Director of Accessibility Services under section 130e(b) of this title (as amended by section 2251 of this title), except that the individual's grade, compensation, rate of leave, or other benefits that apply with respect to the individual at the time of transfer shall not be reduced while such individual remains continuously so employed in the same position within the Office of Congressional Accessibility Services established under section 130e(a) of this title (as amended by section 2251 of this title), other than for cause.
 
 #### (2) Eligibility for immediate retirement on basis of involuntary separation
 

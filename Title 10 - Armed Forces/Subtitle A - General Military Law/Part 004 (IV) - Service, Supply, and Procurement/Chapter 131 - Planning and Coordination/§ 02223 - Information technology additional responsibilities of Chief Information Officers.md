@@ -12,7 +12,7 @@ Additional Responsibilities of Chief Information Officer of Department of Defens
 
 &emsp;(4) provide for the elimination of duplicate information technology and national security systems within and between the military departments and Defense Agencies; and
 
-&emsp;(5) maintain a consolidated inventory of Department of Defense mission critical and mission essential information systems, identify interfaces between those systems and other information systems, and develop and maintain contingency plans for responding to a disruption in the operation of any of those information systems.
+&emsp;(5) maintain a consolidated inventory of Department of Defense mission critical and mission essential information systems, identify interfaces between those systems and other information systems, and develop and maintaincontingency plans for responding to a disruption in the operation of any of those information systems.
 
 (b)
 

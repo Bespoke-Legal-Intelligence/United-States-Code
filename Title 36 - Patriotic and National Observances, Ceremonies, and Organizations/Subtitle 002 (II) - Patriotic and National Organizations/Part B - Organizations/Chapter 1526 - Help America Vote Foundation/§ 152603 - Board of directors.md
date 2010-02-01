@@ -18,7 +18,7 @@ Members and Appointment.—(1) The board consists of 12 directors, who shall be 
 
 &emsp;(E) Two directors shall be appointed by the Minority Leader of the Senate.
 
-(2) In addition to the directors described in paragraph (1), the chair and ranking minoritymember of the Committee on House Administration of the House of Representatives (or their designees) and the chair and ranking minority member of the Committee on Rules and Administration of the Senate (or their designees) shall each serve as an ex officio nonvoting member of the board.
+(2) In addition to the directors described in paragraph (1), the chair and ranking minority member of the Committee on House Administration of the House of Representatives (or their designees) and the chair and ranking minority member of the Committee on Rules and Administration of the Senate (or their designees) shall each serve as an ex officio nonvoting member of the board.
 
 (3) A director is not an employee of the Federal Government and appointment to the board does not constitute appointment as an officer or employee of the United States Government for the purpose of any law of the United States (except as may otherwise be provided in this chapter).
 

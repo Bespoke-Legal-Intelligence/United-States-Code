@@ -1,6 +1,6 @@
 ### §91. Collection and publication
 
-(a) The Secretary shall collect and publish quarterly financial statistics of business operations, organization, practices, management,and relation to other businesses, including data on sales, expenses, profits, assets, liabilities, stockholders’ equity, and related accounts generally used by businesses in income statements, balance sheets, and other measures of financial condition.
+(a) The Secretary shall collect and publish quarterly financial statistics of business operations, organization, practices, management, and relation to other businesses, including data on sales, expenses, profits, assets, liabilities, stockholders’ equity, and related accounts generally used by businesses in income statements, balance sheets, and other measures of financial condition.
 
 (b) Except to the extent determined otherwise by the Secretary on the basis of changed circumstances, the nature of statistics collected and published under this section, and the manner of the collection and publication of such statistics, shall conform to the quarterly financial reporting program carried out by the Federal Trade Commission before the effective date of this section under section 6(b) of the Federal Trade Commission Act.
 

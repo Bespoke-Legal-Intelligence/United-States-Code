@@ -30,7 +30,7 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 &emsp;(7) set forth the jurisdiction's plan for investment or other use of housing funds made available under subchapter II of this chapter, the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the Housing and Community Development Act of 1974, and the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11301 et seq.\], during the ensuing year or such longer period as the Secretary determines to be appropriate, indicating the general priorities for allocating investment geographically within the jurisdiction and among different activities and housing needs;
 
-&emsp;(8) describe how the jurisdiction's plan will address the housing needs identified pursuant to subparagraphs <sup>1</sup> (1) and (2), describe the reasons for allocation priorities, and identify any obstacles to addressing underserved needs;
+&emsp;(8) describe how the jurisdiction's plan will address the housing needs identified pursuantto subparagraphs <sup>1</sup> (1) and (2), describe the reasons for allocation priorities, and identify any obstacles to addressing underserved needs;
 
 &emsp;(9) describe the means of cooperation and coordination among the State and any units of general local government in the development, submission, and implementation of their housing strategies;
 
@@ -62,7 +62,7 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 #### (1) In general
 
-&emsp;The Secretary shall review the housing strategy upon receipt. Not later than 60 daysafter receipt by the Secretary, the housing strategy shall be approved unless the Secretary determines before that date that (A) the housing strategy is inconsistent with the purposes of this Act, or (B) the information described in subsection (b) of this section has not been provided in a substantially complete manner. For the purpose of the preceding sentence, the adoption or continuation of a public policy identified pursuant to subsection (b)(4) of this section shall not be a basis for the Secretary's disapproval of a housing strategy. During the 18-month period following November 28, 1990, the Secretary may extend the review period to not longer than 90 days.
+&emsp;The Secretary shall review the housing strategy upon receipt. Not later than 60 days after receipt by the Secretary, the housing strategy shall be approved unless the Secretary determines before that date that (A) the housing strategy is inconsistent with the purposes of this Act, or (B) the information described in subsection (b) of this section has not been provided in a substantially complete manner. For the purpose of the preceding sentence, the adoption or continuation of a public policy identified pursuant to subsection (b)(4) of this section shall not be a basis for the Secretary's disapproval of a housing strategy. During the 18-month period following November 28, 1990, the Secretary may extend the review period to not longer than 90 days.
 
 #### (2) Actions in case of disapproval
 
@@ -112,7 +112,7 @@ The Housing and Community Development Act of 1974, referred to in subsec. (b)(7)
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(7), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
-The effective date of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (g)(2),probably means the general effective date for title V of Pub. L. 105–276, included in section 503 of Pub. L. 105–276 which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
+The effective date of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (g)(2), probably means the general effective date for title V of Pub. L. 105–276, included in section 503 of Pub. L. 105–276 which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
 #### Amendments
 

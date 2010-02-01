@@ -6,7 +6,7 @@
 
 #### (A) Solicitation of proposals for safe harbors
 
-&emsp;&emsp;Not later than January 1, 1997, and not less than annually thereafter, the Secretaryshall publish a notice in the Federal Register soliciting proposals, which will be accepted during a 60-day period, for—
+&emsp;&emsp;Not later than January 1, 1997, and not less than annually thereafter, the Secretary shall publish a notice in the Federal Register soliciting proposals, which will be accepted during a 60-day period, for—
 
 &emsp;&emsp;&emsp;(i) modifications to existing safe harbors issued pursuant to section 14(a) of the Medicare and Medicaid Patient and Program Protection Act of 1987 (42 U.S.C. 1320a–7b note);
 
@@ -86,7 +86,7 @@
 
 #### (B) Failure to seek opinion
 
-&emsp;&emsp;The failure of a party to seek an advisory opinion may not be introduced into evidenceto prove that the party intended to violate the provisions of sections <sup>1</sup> 1320a–7, 1320a–7a, or 1320a–7b of this title.
+&emsp;&emsp;The failure of a party to seek an advisory opinion may not be introduced into evidence to prove that the party intended to violate the provisions of sections <sup>1</sup> 1320a–7, 1320a–7a, or 1320a–7b of this title.
 
 #### (5) Regulations
 
@@ -126,7 +126,7 @@
 
 #### (B) Issuance and publication of special fraud alerts
 
-&emsp;&emsp;Upon receipt of a request described in subparagraph (A), the Inspector General shall investigate the subject matter of the request to determine whether a special fraud alert should be issued. If appropriate, the Inspector General shall issue a special fraud alert in response to the request. All special fraud alerts issued pursuant to this subparagraph shall be published in the Federal Register.
+&emsp;&emsp;Upon receipt of a request described in subparagraph (A), the Inspector General shallinvestigate the subject matter of the request to determine whether a special fraud alert should be issued. If appropriate, the Inspector General shall issue a special fraud alert in response to the request. All special fraud alerts issued pursuant to this subparagraph shall be published in the Federal Register.
 
 #### (2) Criteria for special fraud alerts
 

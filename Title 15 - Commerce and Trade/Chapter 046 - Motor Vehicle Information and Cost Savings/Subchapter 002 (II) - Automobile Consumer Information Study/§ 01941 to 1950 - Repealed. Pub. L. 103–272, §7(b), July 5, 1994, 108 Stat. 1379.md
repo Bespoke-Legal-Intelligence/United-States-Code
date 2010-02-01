@@ -4,7 +4,7 @@ Section 1941, Pub. L. 92–513, title II, §201, Oct. 20, 1972, 86 Stat. 956; Pu
 
 Section 1942, Pub. L. 92–513, title II, §202, Oct. 20, 1972, 86 Stat. 956, related to appointment and compensation of personnel by Secretary to carry out this subchapter. See section 32306 of Title 49.
 
-Section 1943, Pub. L. 92–513, title II, §203, Oct. 20, 1972, 86 Stat. 957, related to provision of information and detailing of personnel from other Federal departments toSecretary to carry out this subchapter. See section 32305 of Title 49.
+Section 1943, Pub. L. 92–513, title II, §203, Oct. 20, 1972, 86 Stat. 957, related to provision of information and detailing of personnel from other Federal departments to Secretary to carry out this subchapter. See section 32305 of Title 49.
 
 Section 1944, Pub. L. 92–513, title II, §204, Oct. 20, 1972, 86 Stat. 957, related to powers of Secretary to carry out this subchapter. See section 32307 of Title 49.
 

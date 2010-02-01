@@ -1,16 +1,22 @@
 ### §5722. Reports
 
-Every manufacturer or importer of tobacco products or cigarette papers and tubes, and every export warehouse proprietor, shall make reports containing such information, in such form, at such times, and for such periods as the Secretary shall by regulation prescribe.
+Every manufacturer or importer of tobacco products, processed tobacco, or cigarette papers and tubes, and every export warehouse proprietor, shall make reports containing such information, in such form, at such times, and for such periods as the Secretary shall by regulation prescribe.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 713; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1422; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–33, title IX, §9302(h)(2)(A), Aug. 5, 1997, 111 Stat. 674.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 713; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1422; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–33, title IX, §9302(h)(2)(A), Aug. 5, 1997, 111 Stat. 674; Pub. L. 111–3, title VII, §702(a)(2)(B), Feb. 4, 2009, 123 Stat. 108.)
 
 #### Amendments
+
+2009—Pub. L. 111–3 inserted “, processed tobacco,” after “tobacco products”.
 
 1997—Pub. L. 105–33 inserted “or importer” after “manufacturer”.
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 1958—Pub. L. 85–859 substituted “manufacturer of tobacco products or cigarette papers and tubes, and every export warehouse proprietor” for “manufacturer of articles”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–3 effective Apr. 1, 2009, see section 702(a)(6) of Pub. L. 111–3, set out as a note under section 5702 of this title.
 
 #### Effective Date of 1997 Amendment
 

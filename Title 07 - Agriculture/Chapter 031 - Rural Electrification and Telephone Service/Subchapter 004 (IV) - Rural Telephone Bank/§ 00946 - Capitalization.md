@@ -14,7 +14,7 @@ Class A stock shall be issued only to the Secretary on behalf of the United Stat
 
 #### (d) Class B stock; borrowers as holders; dividend prohibition; patronage refunds
 
-Class B stock shall be held only by recipients of loans under section 948 of this title. Borrowers receiving loan funds pursuant to section 948(a)(1) or (2) of this title shall be required to invest in class B stock 5 per centum of the amount of loan funds so provided, by paying an amount equal to 5 per centum of the amount of each loan advance, at the time of such advance. No dividends shall be payable on class B stock. All holders of class B shall be entitled to patronage refunds in class B stock under terms and conditions to be specified in the bylaws of the telephone bank.
+Class B stock shall be held only by recipients of loans under section 948 of this title. Borrowers receiving loan funds pursuant to section 948(a)(1) or (2) of this title shall be required to invest in class B stock 5 per centum of the amount of loan funds so provided, by paying an amount equal to 5 per centum of the amount of each loan advance, at the time of such advance. No dividends shall be payable on class B stock. All holders of class B stock shall be entitled to patronage refunds in class B stock under terms and conditions to be specified in the bylaws of the telephone bank.
 
 #### (e) Class C stock; borrowers as purchasers; dividends
 

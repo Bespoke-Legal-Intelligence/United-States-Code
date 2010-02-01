@@ -27,3 +27,5 @@
 - [&sect; 00284s - Ninth replenishment](%C2%A7%2000284s%20-%20Ninth%20replenishment.md)
 - [&sect; 00284t - Thirteenth replenishment](%C2%A7%2000284t%20-%20Thirteenth%20replenishment.md)
 - [&sect; 00284u - Fourteenth replenishment](%C2%A7%2000284u%20-%20Fourteenth%20replenishment.md)
+- [&sect; 00284v - Fifteenth replenishment](%C2%A7%2000284v%20-%20Fifteenth%20replenishment.md)
+- [&sect; 00284w - Multilateral debt relief](%C2%A7%2000284w%20-%20Multilateral%20debt%20relief.md)

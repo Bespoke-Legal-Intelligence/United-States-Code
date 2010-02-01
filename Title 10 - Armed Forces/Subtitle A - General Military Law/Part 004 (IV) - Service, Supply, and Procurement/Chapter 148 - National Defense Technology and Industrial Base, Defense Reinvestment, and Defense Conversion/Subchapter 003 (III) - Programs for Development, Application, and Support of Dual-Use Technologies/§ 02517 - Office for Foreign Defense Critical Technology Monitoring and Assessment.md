@@ -16,7 +16,7 @@ Relationship to Department of Commerce.—The head of the Office shall consult c
 
 Responsibilities.—The Office shall have the following responsibilities:
 
-&emsp;(1) To maintain within the Department of Defense a central library for the compilationand appropriate dissemination of unclassified and classified information and assessments regarding significant foreign activities in research, development, and applications of defense critical technologies.
+&emsp;(1) To maintain within the Department of Defense a central library for the compilation and appropriate dissemination of unclassified and classified information and assessments regarding significant foreign activities in research, development, and applications of defense critical technologies.
 
 &emsp;(2) To establish and maintain—
 

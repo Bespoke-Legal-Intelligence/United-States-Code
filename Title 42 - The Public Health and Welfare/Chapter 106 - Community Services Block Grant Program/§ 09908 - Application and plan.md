@@ -26,7 +26,7 @@ Beginning with fiscal year 2000, to be eligible to receive a grant or allotment 
 
 &emsp;(1) an assurance that funds made available through the grant or allotment will be used—
 
-&emsp;&emsp;(A) to support activities that are designed to assist low-income families and individuals, including families and individuals receiving assistance under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), homeless families and individuals, migrant or seasonal farmworkers, and elderly low-income individuals and families, and a description of how such activities will enable the families and individuals—
+&emsp;&emsp;(A) to support activities that are designed to assist low-income families and individuals, including families and individuals receiving assistance under part A of title IV of the Social Security Act (42 U.S.C. 601 etseq.), homeless families and individuals, migrant or seasonal farmworkers, and elderly low-income individuals and families, and a description of how such activities will enable the families and individuals—
 
 &emsp;&emsp;&emsp;(i) to remove obstacles and solve problems that block the achievement of self-sufficiency (including self-sufficiency for families and individuals who are attempting to transition off a State program carried out under part A of title IV of the Social Security Act);
 
@@ -54,7 +54,7 @@ Beginning with fiscal year 2000, to be eligible to receive a grant or allotment 
 
 &emsp;&emsp;(C) to make more effective use of, and to coordinate with, other programs related to the purposes of this chapter (including State welfare reform efforts);
 
-&emsp;(2) a description of how the State intends to use discretionary funds made available fromthe remainder of the grant or allotment described in section 9907(b) of this title in accordance with this chapter, including a description of how the State will support innovative community and neighborhood-based initiatives related to the purposes of this chapter;
+&emsp;(2) a description of how the State intends to use discretionary funds made available from the remainder of the grant or allotment described in section 9907(b) of this title in accordance with this chapter, including a description of how the State will support innovative community and neighborhood-based initiatives related to the purposes of this chapter;
 
 &emsp;(3) information provided by eligible entities in the State, containing—
 
@@ -136,7 +136,7 @@ Title XXVI, referred to in subsec. (b)(6), is title XXVI of Pub. L. 97–35, Aug
 
 #### Prior Provisions
 
-A prior section 9908, Pub. L. 97–35, title VI, §679, Aug. 13, 1981, 95 Stat. 517; Pub. L. 98–558, title II, §205, Oct. 30, 1984, 98 Stat. 2886; Pub. L. 99–425, title IV, §404(a), Sept. 30, 1986, 100 Stat. 969, related to withholding of funds, prior to the general amendment of this chapter by Pub. L. 105–285.
+A prior section 9908, Pub. L. 97–35, title VI, §679, Aug. 13, 1981, 95 Stat. 517; Pub. L. 98–558, title II, §205, Oct.30, 1984, 98 Stat. 2886; Pub. L. 99–425, title IV, §404(a), Sept. 30, 1986, 100 Stat. 969, related to withholding of funds, prior to the general amendment of this chapter by Pub. L. 105–285.
 
 A prior section 676 of Pub. L. 97–35 was classified to section 9905 of this title, prior to the general amendment of this chapter by Pub. L. 105–285.
 

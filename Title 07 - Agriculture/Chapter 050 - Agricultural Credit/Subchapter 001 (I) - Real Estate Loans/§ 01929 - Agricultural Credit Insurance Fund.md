@@ -24,7 +24,7 @@ The Secretary shall deposit in the fund all or a portion, not to exceed one-half
 
 The Secretary may utilize the fund—
 
-&emsp;(1) to pay amounts to which the holder of the note is entitled on loans heretofore or hereafter insured accruing between the date of any payments made by the borrower and the date of transmittal of any such payments to the lender. In the discretion of the Secretary, payments other than final payments need not be remitted to the holder until due or until the next agreed annual or semiannual remittance date;
+&emsp;(1) to pay amounts to which the holder of the note is entitled on loans heretofore or hereafter insured accruing between the date ofany payments made by the borrower and the date of transmittal of any such payments to the lender. In the discretion of the Secretary, payments other than final payments need not be remitted to the holder until due or until the next agreed annual or semiannual remittance date;
 
 &emsp;(2) to pay to the holder of the notes any deferred or defaulted installment or, upon assignment of the note to the Secretary at the Secretary's request, the entire balance due on the loan;
 
@@ -32,7 +32,7 @@ The Secretary may utilize the fund—
 
 &emsp;(4) to pay for contract services, taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections and other expenses and advances authorized in connection with insured loans, including the difference between interest payable by borrowers and interest to which insured lenders or insured holders are entitled under agreements with the Secretary included in contracts of insurance;
 
-&emsp;(5) to pay the Secretary's costs of administration necessary to insure, make grants, service, and otherwise carry out the programs under this chapter not specifically covered by the Rural Development Insurance Fund of section 1929a of this title, including costs of the Secretary incidental to guaranteeing loansunder this chapter, either directly from the Fund or by transfers from the Fund to, and merger with, any appropriations for administrative expenses.
+&emsp;(5) to pay the Secretary's costs of administration necessary to insure, make grants, service, and otherwise carry out the programs under this chapter not specifically covered by the Rural Development Insurance Fund of section 1929a of this title, including costs of the Secretary incidental to guaranteeing loans under this chapter, either directly from the Fund or by transfers from the Fund to, and merger with, any appropriations for administrative expenses.
 
 #### (g) Transfer of funds from Farmers Home Administration direct loan account and Emergency Credit Revolving Fund; abolition of such account and fund; payments from Agricultural Credit Insurance Fund; interest
 
@@ -82,7 +82,7 @@ Amount of guarantee of loans for farm operations on tribal lands.—In the case 
 
 (2) The memorandum of understanding shall provide that if a State beginning farmer program makes a commitment to provide a qualified beginning farmer or rancher with financing to establish or maintain a viable farming or ranching operation, the Secretary shall, subject to applicable law, normal loan approval criteria, and the availability of funds provide the farmer or rancher with a down payment loan under section 1935 of this title or a guarantee of the financing provided by the State program, or both.
 
-(3) The Secretary shall not charge any person (including a lender) any fee with respect to theprovision of any guarantee under this subsection.
+(3) The Secretary shall not charge any person (including a lender) any fee with respect to the provision of any guarantee under this subsection.
 
 (4) The Secretary shall notify each State of the provisions of this subsection.
 
@@ -164,7 +164,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Advisory Committee on Beginning Farmers and Ranchers
 
-Pub. L. 102–554, §5(b), Oct. 28, 1992, 106 Stat. 4143, as amended by Pub. L. 110–234, title VII, §7511(c)(4), May22, 2008, 122 Stat. 1267; Pub. L. 110–246, §4(a), title VII, §7511(c)(4), June 18, 2008, 122 Stat. 1664, 2029, provided that:
+Pub. L. 102–554, §5(b), Oct. 28, 1992, 106 Stat. 4143, as amended by Pub. L. 110–234, title VII, §7511(c)(4), May 22, 2008, 122 Stat. 1267; Pub. L. 110–246, §4(a), title VII, §7511(c)(4), June 18, 2008, 122 Stat. 1664, 2029, provided that:
 
 “(1)
 
@@ -192,13 +192,11 @@ Membership.—The Secretary shall appoint the members of the Advisory Committee.
 
 &emsp;“(D) Private nonprofit organizations with active beginning farmer or rancher programs.
 
-&emsp;“(E) The Cooperative Extension Service.
+&emsp;“(E) The National Institute of Food and Agriculture.
 
 &emsp;“(F) Community colleges or other educational institutions with demonstrated experience in training beginning farmers or ranchers.
 
 &emsp;“(G) Other entities or persons providing lending or technical assistance for qualified beginning farmers or ranchers.”
-
-\[Pub. L. 110–234, title VII, §7511(c)(4), May 22, 2008, 122 Stat. 1267, and Pub. L. 110–246, §4(a), title VII, §7511(c), June 18, 2008, 122 Stat. 1664, 2028, 2029, provided that, effective Oct. 1, 2009, section 5(b)(2)(E) of Pub. L. 102–554, set out above, is amended by substituting “National Institute of Food and Agriculture” for “Cooperative Extension Service”.\]
 
 #### Limitation on Sales From Agricultural Credit Insurance Fund
 

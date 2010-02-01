@@ -8,7 +8,7 @@ Federal government.—The term “Federal Government” includes the government 
 
 &emsp;(2)
 
-Motor vehicle.—The term “motor vehicle” means a vehicle, self-propelled or drawn by mechanical power, designed for use on the highways principally for the transportation ofpassengers, except a vehicle designed or used for military field training, combat, or tactical purposes.
+Motor vehicle.—The term “motor vehicle” means a vehicle, self-propelled or drawn by mechanical power, designed for use on the highways principally for the transportation of passengers, except a vehicle designed or used for military field training, combat, or tactical purposes.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1279.)
 

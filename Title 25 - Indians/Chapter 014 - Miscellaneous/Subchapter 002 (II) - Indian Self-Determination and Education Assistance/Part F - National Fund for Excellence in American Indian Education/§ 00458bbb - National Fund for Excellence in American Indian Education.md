@@ -106,7 +106,7 @@ The Foundation shall be liable for the acts of its officers and agents acting wi
 
 #### (m) Transfer of donated funds
 
-The Secretary may transfer to the Foundation funds held by the Department of the Interiorunder section 451 of this title, if the transfer or use of such funds is not prohibited by any term under which the funds were donated.
+The Secretary may transfer to the Foundation funds held by the Department of the Interior under section 451 of this title, if the transfer or use of such funds is not prohibited by any term under which the funds were donated.
 
 #### (n) Audits
 

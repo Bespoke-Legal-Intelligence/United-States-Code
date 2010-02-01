@@ -34,7 +34,7 @@ First sentence of section is based on R.S. §3741, as amended, and second senten
 
 1934—Act June 27, 1934, inserted in second sentence “, the Federal Farm Loan Act, the Emergency Farm Mortgage Act of 1933, the Federal Farm Mortgage Corporation Act, the Farm Credit Act of 1933, and the Home Owners’ Loan Act of 1933”.
 
-Act Jan. 25, 1934, added second sentence providing that this section shall not apply to any contracts oragreements heretofore or hereafter entered into under the Agricultural Adjustment Act.
+Act Jan. 25, 1934, added second sentence providing that this section shall not apply to any contracts or agreements heretofore or hereafter entered into under the Agricultural Adjustment Act.
 
 1877—Act Feb. 27, 1877, inserted “or Delegate to” after “that no Member of” in first sentence.
 

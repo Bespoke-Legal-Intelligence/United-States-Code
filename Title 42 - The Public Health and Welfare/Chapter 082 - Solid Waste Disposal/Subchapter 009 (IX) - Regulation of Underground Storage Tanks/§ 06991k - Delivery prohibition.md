@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) the process for reclassifying ineligible facilities as eligible for delivery, deposit, or acceptance of a regulated substance;
 
-&emsp;&emsp;(D) one or more processes for providing adequate notice to underground storage tank owners and operators and supplier industries that an underground storage tankhas been determined to be ineligible for delivery, deposit, or acceptance of a regulated substance; and
+&emsp;&emsp;(D) one or more processes for providing adequate notice to underground storage tank owners and operators and supplier industries that an underground storage tank has been determined to be ineligible for delivery, deposit, or acceptance of a regulated substance; and
 
 &emsp;&emsp;(E) a delineation of, or a process for determining, the specified geographic areas subject to paragraph (4).
 

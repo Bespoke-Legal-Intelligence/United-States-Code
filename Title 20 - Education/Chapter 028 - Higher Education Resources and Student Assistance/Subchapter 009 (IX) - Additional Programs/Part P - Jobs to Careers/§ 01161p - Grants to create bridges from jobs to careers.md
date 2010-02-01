@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to provide grants on a competitive basis to institutions of higher education for the purpose of improving developmental education to help students move more rapidly into for-credit occupational courses and into better jobs that may require a certificate or degree.
+The purpose of this section is to provide grants on a competitive basis to institutions ofhigher education for the purpose of improving developmental education to help students move more rapidly into for-credit occupational courses and into better jobs that may require a certificate or degree.
 
 #### (b) Authorization of program
 
@@ -34,7 +34,7 @@ An institution of higher education that receives a grant under this section may 
 
 &emsp;(1) Designing and implementing innovative ways to improve retention in and completion of developmental education courses, including enrolling students in cohorts, accelerating course content, dually enrolling students in developmental and college-level courses, tutoring, providing counseling and other supportive services, and giving small, material incentives for attendance and performance.
 
-&emsp;(2) In consultation with faculty in the appropriate departments, reconfiguring courses offered on-site during standard academic terms for modular, compressed, or other alternativeschedules, or for distance-learning formats, to meet the needs of working adults.
+&emsp;(2) In consultation with faculty in the appropriate departments, reconfiguring courses offered on-site during standard academic terms for modular, compressed, or other alternative schedules, or for distance-learning formats, to meet the needs of working adults.
 
 &emsp;(3) Developing counseling strategies that address the needs of students in remedial education courses, and including counseling students on career options and the range of programs available, such as certificate programs that are articulated to degree programs and programs designed to facilitate transfer to four-year institutions of higher education.
 
@@ -56,7 +56,15 @@ Each institution of higher education that receives a grant under this section sh
 
 #### (j) Authorization of appropriations
 
-There are authorized to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-(Pub. L. 89–329, title VIII, §851, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3421.)
+(Pub. L. 89–329, title VIII, §851, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3421; amended Pub. L. 111–39, title VIII, §801(13), July 1, 2009, 123 Stat. 1956.)
+
+#### Amendments
+
+2009—Subsec. (j). Pub. L. 111–39 inserted “to be appropriated” after “authorized”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

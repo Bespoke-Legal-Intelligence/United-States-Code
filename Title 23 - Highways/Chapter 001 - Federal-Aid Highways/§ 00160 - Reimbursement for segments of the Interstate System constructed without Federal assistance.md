@@ -96,7 +96,7 @@ Subsection (d)(1) of section 133 of this title, referred to in subsec. (e)(1), w
 
 #### Effective Date
 
-Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, setout as an Effective Date of 1991 Amendment note under section 104 of this title.
+Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

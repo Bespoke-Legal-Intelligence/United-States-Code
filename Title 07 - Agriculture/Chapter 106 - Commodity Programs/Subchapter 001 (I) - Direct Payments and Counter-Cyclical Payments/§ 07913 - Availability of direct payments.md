@@ -52,7 +52,7 @@ The amount of the direct payment to be paid to the producers on a farm for a cov
 
 #### (3) Repayment of advance payments
 
-&emsp;If a producer on a farm that receives an advance direct payment for a crop year ceases to be a producer on that farm, or the extent to which the producer shares in the risk of producing a crop changes, before the date the remainder of the direct payment is made, the producer shall be responsible for repaying the Secretary the applicable amount of the advance payment, as determined by the Secretary.
+&emsp;If a producer on a farm that receives an advance direct payment for a crop year ceases tobe a producer on that farm, or the extent to which the producer shares in the risk of producing a crop changes, before the date the remainder of the direct payment is made, the producer shall be responsible for repaying the Secretary the applicable amount of the advance payment, as determined by the Secretary.
 
 (Pub. L. 107–171, title I, §1103, May 13, 2002, 116 Stat. 149; Pub. L. 109–171, title I, §1102(a), Feb. 8, 2006, 120 Stat. 5.)
 

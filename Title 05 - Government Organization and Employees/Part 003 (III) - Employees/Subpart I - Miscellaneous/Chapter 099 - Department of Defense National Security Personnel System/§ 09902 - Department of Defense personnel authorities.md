@@ -1,0 +1,414 @@
+### §9902. Department of Defense personnel authorities
+
+(a)
+
+Performance Management and Workforce Incentives.—(1) The Secretary, in coordination with the Director, shall promulgate regulations providing for the following:
+
+&emsp;(A) A fair, credible, and transparent performance appraisal system for employees.
+
+&emsp;(B) A fair, credible, and transparent system for linking employee bonuses and other performance-based actions to performance appraisals of employees.
+
+&emsp;(C) A process for ensuring ongoing performance feedback and dialogue among supervisors, managers, and employees throughout the appraisal period and setting timetables for review.
+
+&emsp;(D) Development of “performance assistance plans” that are designed to give employees formal training, on-the-job training, counseling, mentoring, and other assistance.
+
+(2) In developing the regulations required by this subsection, the Secretary, in coordination with the Director, may waive the requirements of chapters 43 (other than sections 4302 and 4303(e)) and the regulations implementing such chapters, to the extent necessary to achieve the objectives of this subsection.
+
+(3)(A) The Secretary may establish a fund, to be known as the “Department of Defense Civilian Workforce Incentive Fund” (in this paragraph referred to as the “Fund”).
+
+(B) The Fund shall consist of the following:
+
+&emsp;(i) Amounts appropriated to the Fund.
+
+&emsp;(ii) Amounts available for compensation of employees that are transferred to the Fund.
+
+(C) Amounts in the Fund shall be available for the following:
+
+&emsp;(i) Incentive payments for employees based on team or individual performance (which payments shall be in addition to basic pay).
+
+&emsp;(ii) Incentive payments to attract or retain employees with particular or superior qualifications or abilities.
+
+(D) The authority provided in this paragraph is in addition to, and does not supersede or replace, any authority or source of funding otherwise available to the Secretary to pay bonuses or make incentive payments to civilian employees of the Department.
+
+(4)(A) Any action taken by the Secretary under this subsection, or to implement this subsection, shall be subject to the requirements of subsection (c) and chapter 71.
+
+(B) Any rules or regulations promulgated pursuant to this subsection shall be deemed an agency rule or regulation under section 7117(a)(2), and shall not be deemed a Government-wide rule or regulation under section 7117(a)(1).
+
+(b)
+
+Flexibilities Relating to Appointments.—(1) The Secretary, in coordination with the Director, shall promulgate regulations to redesign the procedures which are applied by the Department of Defense in making appointments to positions within the competitive service in order to—
+
+&emsp;(A) better meet mission needs;
+
+&emsp;(B) respond to managers’ needs and the needs of applicants;
+
+&emsp;(C) produce high-quality applicants;
+
+&emsp;(D) support timely decisions;
+
+&emsp;(E) uphold appointments based on merit system principles; and
+
+&emsp;(F) promote competitive job offers.
+
+(2) In redesigning the process by which such appointments shall be made, the Secretary, in coordination with the Director, may waive the requirements of chapter 33, and the regulations implementing such chapter, to the extent necessary to achieve the objectives of this section, while providing for the following:
+
+&emsp;(A) Fair, credible, and transparent methods of establishing qualification requirements for, recruitment for, and appointments to positions.
+
+&emsp;(B) Fair and open competition and equitable treatment in the consideration and selection of individuals to positions.
+
+&emsp;(C) Fair, credible, and transparent methods of assigning, reassigning, detailing, transferring, or promoting employees.
+
+(3) In implementing this subsection, the Secretary shall comply with the provisions of section 2302(b)(11), regarding veterans’ preference requirements, in a manner consistent with that in which such provisions are applied under chapter 33.
+
+(4)(A) Any action taken by the Secretary under this subsection, or to implement this subsection, shall be subject to the requirements of subsection (c) and chapter 71.
+
+(B) Any rules or regulations promulgated pursuant to this section shall be deemed an agency rule or regulation under section 7117(a)(2), and shall not be deemed a Government-wide rule or regulation under section 7117(a)(1).
+
+(c)
+
+Criteria for Use of New Personnel Authorities.—In establishing any new performance management and workforce incentive system under subsection (a) or utilizing appointment flexibilities under subsection (b), the Secretary shall—
+
+&emsp;(1) adhere to merit principles set forth in section 2301;
+
+&emsp;(2) include a means for ensuring employee involvement (for bargaining unit employees, through their exclusive representatives) in the design and implementation of such system;
+
+&emsp;(3) provide for adequate training and retraining for supervisors, managers, and employees in the implementation and operation of such system;
+
+&emsp;(4) develop—
+
+&emsp;&emsp;(A) a comprehensive management succession program to provide training to employees to develop managers for the agency; and
+
+&emsp;&emsp;(B) a program to provide training to supervisors on actions, options, and strategies a supervisor may use in administering such system;
+
+&emsp;(5) include effective transparency and accountability measures and safeguards to ensure that the management of such system is fair, credible, and equitable, including appropriate independent reasonableness reviews, internal assessments, and employee surveys;
+
+&emsp;(6) utilize the annual strategic workforce plan, required by section 115b of title 10; and
+
+&emsp;(7) ensure that adequate agency resources are allocated for the design, implementation, and administration of such system.
+
+(d)
+
+Development of Training Program for Supervisors.—(1) The Secretary shall develop—
+
+&emsp;(A) a program to provide training to supervisors on use of the new authorities provided in this section, including the actions, options, and strategies a supervisor may use in—
+
+&emsp;&emsp;(i) developing and discussing relevant goals and objectives with the employee, communicating and discussing progress relative to performance goals and objectives, and conducting performance appraisals;
+
+&emsp;&emsp;(ii) mentoring and motivating employees, and improving employee performance and productivity;
+
+&emsp;&emsp;(iii) fostering a work environment characterized by fairness, respect, equal opportunity, and attention to the quality of the work of employees;
+
+&emsp;&emsp;(iv) effectively managing employees with unacceptable performance;
+
+&emsp;&emsp;(v) addressing reports of a hostile work environment, reprisal, or harassment of or by another supervisor or employee; and
+
+&emsp;&emsp;(vi) otherwise carrying out the duties and responsibilities of a supervisor;
+
+&emsp;(B) a program to provide training to supervisors on the prohibited personnel practices under section 2302 (particularly with respect to such practices described under subsections (b)(1) and (b)(8) of such section), employee collective bargaining and union participation rights, and the procedures and processes used to enforce employee rights; and
+
+&emsp;(C) a program under which experienced supervisors mentor new supervisors by—
+
+&emsp;&emsp;(i) sharing knowledge and advice in areas such as communication, critical thinking, responsibility, flexibility, motivating employees, teamwork, leadership, and professional development; and
+
+&emsp;&emsp;(ii) pointing out strengths and areas for development.
+
+(2) Each supervisor shall be required to complete a program at least once every 3 years.
+
+(e)
+
+Provisions Regarding National Level Bargaining.—
+
+&emsp;(1) The Secretary may bargain with a labor organization which has been accorded exclusive recognition under chapter 71 at an organizational level above the level of exclusive recognition. The decision to bargain above the level of exclusive recognition shall not be subject to review. The Secretary shall consult with the labor organization before determining the appropriate organizational level of bargaining.
+
+&emsp;(2) Any such bargaining shall—
+
+&emsp;&emsp;(A) address issues that are—
+
+&emsp;&emsp;&emsp;(i) subject to bargaining under chapter 71 and this chapter;
+
+&emsp;&emsp;&emsp;(ii) applicable to multiple bargaining units; and
+
+&emsp;&emsp;&emsp;(iii) raised by either party to the bargaining;
+
+&emsp;&emsp;(B) except as agreed by the parties or directed through an independent dispute resolution process agreed upon by the parties, be binding on all affected subordinate bargaining units of the labor organization at the level of recognition and their exclusive representatives, and the Department of Defense and its subcomponents, without regard to levels of recognition;
+
+&emsp;&emsp;(C) to the extent agreed by the parties or directed through an independent dispute resolution process agreed upon by the parties, supersede conflicting provisions of all other collective bargaining agreements of the labor organization, including collective bargaining agreements negotiated with an exclusive representative at the level of recognition; and
+
+&emsp;&emsp;(D) except as agreed by the parties or directed through an independent dispute resolution process agreed upon by the parties, not be subject to further negotiations for any purpose, including bargaining at the level of recognition.
+
+&emsp;(3) Any independent dispute resolution process agreed to by the parties for the purposes of paragraph (2) shall have the authority to address all issues on which the parties are unable to reach agreement.
+
+&emsp;(4) The National Guard Bureau and the Army and Air Force National Guard may be included in coverage under this subsection.
+
+&emsp;(5) Any bargaining completed pursuant to this subsection with a labor organization not otherwise having national consultation rights with the Department of Defense or its subcomponents shall not create any obligation on the Department of Defense or its subcomponents to confer national consultation rights on such a labor organization.
+
+(f)
+
+Provisions Related to Separation and Retirement Incentives.—
+
+&emsp;(1) The Secretary may establish a program within the Department of Defense under which employees may be eligible for early retirement, offered separation incentive pay to separate from service voluntarily, or both. This authority may be used to reduce the number of personnel employed by the Department of Defense or to restructure the workforce to meet mission objectives without reducing the overall number of personnel. This authority is in addition to, and notwithstanding, any other authorities established by law or regulation for such programs.
+
+&emsp;(2)(A) The Secretary may not authorize the payment of voluntary separation incentive pay under paragraph (1) to more than 25,000 employees in any fiscal year, except that employees who receive voluntary separation incentive pay as a result of a closure or realignment of a military installation under the Defense Base Closure and Realignment Act of 1990 (title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) shall not be included in that number.
+
+&emsp;(B) The Secretary shall prepare a report each fiscal year setting forth the number of employees who received such pay as a result of a closure or realignment of a military base as described under subparagraph (A).
+
+&emsp;(C) The Secretary shall submit the report under subparagraph (B) to the Committee on Armed Services and the Committee on Governmental Affairs of the Senate, and the Committee on Armed Services and the Committee on Government Reform of the House of Representatives.
+
+&emsp;(3) For purposes of this section, the term “employee” means an employee of the Department of Defense, serving under an appointment without time limitation, except that such term does not include—
+
+&emsp;&emsp;(A) a reemployed annuitant under subchapter III of chapter 83 or chapter 84, or another retirement system for employees of the Federal Government;
+
+&emsp;&emsp;(B) an employee having a disability on the basis of which such employee is or would be eligible for disability retirement under any of the retirement systems referred to in subparagraph (A); or
+
+&emsp;&emsp;(C) for purposes of eligibility for separation incentives under this section, an employee who is in receipt of a decision notice of involuntary separation for misconduct or unacceptable performance.
+
+&emsp;(4) An employee who is at least 50 years of age and has completed 20 years of service, or has at least 25 years of service, may, pursuant to regulations promulgated under this section, apply and be retired from the Department of Defense and receive benefits in accordance with chapter 83 or 84 if the employee has been employed continuously within the Department of Defense for more than 30 days before the date on which the determination to conduct a reduction or restructuring within 1 or more Department of Defense components is approved.
+
+&emsp;(5)(A) Separation pay shall be paid in a lump sum or in installments and shall be equal to the lesser of—
+
+&emsp;&emsp;(i) an amount equal to the amount the employee would be entitled to receive under section 5595(c), if the employee were entitled to payment under such section; or
+
+&emsp;&emsp;(ii) $25,000.
+
+&emsp;(B) Separation pay shall not be a basis for payment, and shall not be included in thecomputation, of any other type of Government benefit. Separation pay shall not be taken into account for the purpose of determining the amount of any severance pay to which an individual may be entitled under section 5595, based on any other separation.
+
+&emsp;(C) Separation pay, if paid in installments, shall cease to be paid upon the recipient's acceptance of employment by the Federal Government, or commencement of work under a personal services contract as described in paragraph (6).
+
+&emsp;(6)(A) An employee who receives separation pay under such program may not be reemployed by the Department of Defense for a 12-month period beginning on the effective date of the employee's separation, unless this prohibition is waived by the Secretary on a case-by-case basis.
+
+&emsp;(B) An employee who receives separation pay under this section on the basis of a separation occurring on or after the date of the enactment of the Federal Workforce Restructuring Act of 1994 (Public Law 103–226; 108 Stat. 111) and accepts employment with the Government of the United States, or who commences work through a personal services contract with the United States within 5 years after the date of the separation on which payment of the separation pay is based, shall be required to repay the entire amount of the separation pay to the Department of Defense. If the employment is with an Executive agency (as defined by section 105) other than the Department of Defense, the Director may, at the request of the head of that agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is within the Department of Defense, the Secretary may waive the repayment if the individual involved is the only qualified applicant available for the position. If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
+
+&emsp;(7) Under this program, early retirement and separation pay may be offered only pursuant to regulations established by the Secretary, subject to such limitations or conditions as the Secretary may require.
+
+(g)
+
+Provisions Relating to Reemployment.—
+
+&emsp;(1) Except as provided under paragraph (2), if an annuitant receiving an annuity from the Civil Service Retirement and Disability Fund becomes employed in a position within the Department of Defense, his annuity shall continue. An annuitant so reemployed shall not be considered an employee for purposes of subchapter III of chapter 83 or chapter 84.
+
+&emsp;(2)(A) An annuitant retired under section 8336(d)(1) or 8414(b)(1)(A) receiving an annuity from the Civil Service Retirement and Disability Fund, who becomes employed in a position within the Department of Defense after the date of enactment of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136), may elect to be subject to section 8344 or 8468 (as the case may be).
+
+&emsp;(B) An election for coverage under this paragraph shall be filed not later than the later of 90 days after the date the Department of Defense—
+
+&emsp;&emsp;(i) prescribes regulations to carry out this subsection; or
+
+&emsp;&emsp;(ii) takes reasonable actions to notify employees who may file an election.
+
+&emsp;(C) If an employee files an election under this paragraph, coverage shall be effective beginning on the first day of the first applicable pay period beginning on or after the date of the filing of the election.
+
+&emsp;(D) Paragraph (1) shall apply to an individual who is eligible to file an election under subparagraph (A) and does not file a timely election under subparagraph (B).
+
+&emsp;(3) Benefits similar to those provided by paragraphs (1) and (2) may be extended, in accordance with regulations prescribed by the President, so as to be made available with respect to reemployed annuitants within the Department of Defense who are subject to such other retirement systems for Government employees (whose annuities are payable under authorities other than subchapter III of chapter 83 or chapter 84 of title 5) as may be provided for under such regulations.
+
+&emsp;(4) The Secretary shall prescribe regulations to carry out this subsection, excluding paragraph (3).
+
+(Added Pub. L. 108–136, div. A, title XI, §1101(a)(1), Nov. 24, 2003, 117 Stat. 1621; amended Pub. L. 110–181, div. A, title XI, §1106(a), Jan. 28, 2008, 122 Stat. 349; Pub. L. 110–417, \[div. A\], title XI, §1106, Oct. 14, 2008, 122 Stat. 4617; Pub. L. 111–84, div. A, title XI, §§1113(b)(1), (d), (f)(1), 1121, Oct. 28, 2009, 123 Stat. 2498, 2499, 2502, 2505.)
+
+#### References in Text
+
+The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (f)(2)(A), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, which is set out as a note under section 2687 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Tables.
+
+The date of the enactment of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (f)(6)(B), is the date of enactment of Pub. L. 103–226, which was approved Mar. 30, 1994.
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2004, referred to in subsec. (g)(2)(A), is the date of enactment of Pub. L. 108–136, which was approved Nov. 24, 2003.
+
+#### Amendments
+
+2009—Pub. L. 111–84, §1113(f)(1), amended section catchline generally, substituting “Department of Defense personnel authorities” for “Establishment of human resources management system”.
+
+Pub. L. 111–84, §1113(b)(1), (d), added subsecs. (a) to (d), redesignated subsecs. (f) to (h) as (e) to (g), respectively, and struck out former subsecs. (a) to (e), (i), and (j) which, respectively, authorized the Secretary of Defense to establish and adjust the National Security Personnel System (NSPS), provided for certain requirements of the NSPS, provided for certain exceptions tothe NSPS with respect to certain laboratories, enumerated nonwaivable provisions referred to in former subsec. (b)(3)(D), established limitations relating to pay, preserved certain rights of and limitations on the Secretary, and prohibited the addition of an organizational or functional unit to the NSPS that would cause the number of employees added to the NSPS to exceed 100,000 in that year.
+
+Subsec. (g)(3), (4). Pub. L. 111–84, §1121, which directed amendment of subsec. (h) by adding par. (3), redesignating former par. (3) as (4), and substituting “, excluding paragraph (3)” for the period, was executed by making the amendment to subsec. (g) to reflect the probable intent of Congress and the redesignation of subsec. (h) as (g) by Pub. L. 111–84, §1113(b)(1)(B). See above.
+
+2008—Pub. L. 110–181 amended section generally, substituting provisions relating to establishment of human resources management system for former provisions which related to, in subsec. (a), general authority of Secretary of Defense to establish and adjust a human resources management system, in subsec. (b), system requirements, in subsec. (c), personnel management at defense laboratories, in subsec. (d), nonwaivable provisions, in subsec. (e), limitations relating to pay, in subsec. (f), collaboration with employee representatives, in subsec. (g), national level bargaining, in subsec. (h), appellate procedures, in subsec. (i), separation and retirement incentives, in subsec. (j), reemployment, in subsec. (k), personnel management, in subsec. (<i>l</i>), phase-in of the National Security Personnel System, and, in subsec. (m), labor management relations.
+
+Subsec. (i). Pub. L. 110–417 substituted “the requirements and limitations in paragraph (3)” for “the requirements of chapter 71 and the limitations in subsection (b)(3)” in par. (1), inserted “, in a manner comparable to that in which such provisions are applied under chapter 33” before period at end of par. (2), and added par. (3).
+
+#### Change of Name
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Provisions Relating to the National Security Personnel System
+
+Pub. L. 111–84, div. A, title XI, §1113(a)–(g), Oct. 28, 2009, 123 Stat. 2498–2502, provided that:
+
+“(a)
+
+Definitions.—For purposes of this section—
+
+&emsp;“(1) the term ‘National Security Personnel System’ or ‘NSPS’ refers to a human resources management system established under authority of section 9902 of title 5, United States Code (as in effect before the date of the enactment of this Act \[Oct. 28, 2009\]); and
+
+&emsp;“(2) the term ‘statutory pay system’ means a pay system under—
+
+&emsp;&emsp;“(A) subchapter III of chapter 53 of title 5, United States Code (relating to General Schedule pay rates); or
+
+&emsp;&emsp;“(B) such other provisions of law as would apply if section 9902 of title 5, United States Code, had never been enacted.
+
+“(b)
+
+Repeal of Provisions Relating to NSPS.—
+
+&emsp;“(1)
+
+In general.—\[Amended this section.\]
+
+&emsp;“(2)
+
+Expansion prohibited.—The National Security Personnel System may not be extended to any organizational or functional unit of the Department of Defense (or any component thereof) not included in such System as of March 1, 2009.
+
+&emsp;“(3)
+
+Current rules invalid.—Any regulations in effect as of the day before the date of the enactment of this Act \[Oct. 28, 2009\] which were issued pursuant to any provision of law repealed by paragraph (1)(A)—
+
+&emsp;&emsp;“(A) may not be modified on or after the date of the enactment of this Act, except as necessary to implement this Act \[see Tables for classification\]; and
+
+&emsp;&emsp;“(B) shall cease to be effective as of January 1, 2012.
+
+“(c)
+
+Termination of NSPS and Conversion of Employees and Positions.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Defense shall take all actions which may be necessary to provide, beginning no later than 6 months after the date of enactment of this Act \[Oct. 28, 2009\], for the orderly termination of the National Security Personnel System and conversion of all employees and positions from such System, by not later than January 1, 2012, to—
+
+&emsp;&emsp;“(A) the statutory pay system and all other aspects of the personnel system that last applied to such employee or position (as the case may be) before the National Security Personnel System applied; or
+
+&emsp;&emsp;“(B) if subparagraph (A) does not apply, the statutory pay system and all other aspects of the personnel system that would have applied if the National Security Personnel System had never been established.
+
+> &emsp;No employee shall suffer any loss of or decrease in pay because of the preceding sentence, and, for purposes of carrying out such preceding sentence, any determination of the system that last applied (or that would have applied) with respect to an employee or position shall take into account any modifications to such system pursuant to the provisions of subsections (a) and (b) of section 9902 of title 5, United States Code, as amended by subsection (d).
+
+&emsp;“(2)
+
+Transition period appointments.—To the extent practicable, any individual who, during the NSPS transition period, is appointed to any position within the Department of Defense which is subject to the NSPS shall be subject to the statutory pay system and all other aspects of the personnel system to which such individual or position is to be converted in accordance with the requirements of paragraph (1).
+
+&emsp;“(3)
+
+Temporary continuation of nsps.—Notwithstanding any other provision of this section, the National Security Personnel System, as in effect on the day before the date of the enactment of this Act, shall continue to apply with respect to any employees and positions remaining subject to the NSPS, in accordance with paragraph (1), during the NSPS transition period.
+
+&emsp;“(4)
+
+Restoration of full annual pay adjustments under nsps pending its termination.—Notwithstanding subsection (b)(1)(A) \[amending this section\], section 9902(e)(7) of title 5, United States Code, to the extent that it remains in force under paragraph (3), shall be applied by substituting ‘100 percent’ for ‘no less than 60 percent’.
+
+&emsp;“(5)
+
+NSPS transition period defined.—For purposes of this subsection, the term ‘NSPS transition period’ means the period beginning on the date of the enactment of this Act and ending on January 1, 2012.
+
+“(d)
+
+Authority Relating to Performance Management and Workforce Incentives, Hiring Flexibilities, and Training of Supervisors.—\[Amended this section.\]
+
+“(e)
+
+Reports.—The Secretary of Defense shall provide a report to the covered committees (as defined by subsection (g)(6))—
+
+&emsp;“(1) no later than 6 months after the date of enactment of this Act \[Oct. 28, 2009\], on the initial steps being taken to reclassify positions from the NSPS and the initial conversion plan to begin converting employees from the NSPS, which information shall be supplemented by reports describing the progress of the conversion process which shall be submitted to the same committees on a semiannual basis;
+
+&emsp;“(2) no later than 12 months after date of enactment, \[on\] a plan for the personnel management system as authorized by section 9902(a) of title 5, United States Code, as amended by this section, which planshall not take effect until 90 days after the submission of the plan to Congress; and
+
+&emsp;“(3) no later than 12 months after date of enactment, \[on\] a plan for the appointment procedures as authorized by section 9902(b) of title 5, United States Code, as amended by this section.
+
+“(f)
+
+Clerical Amendments.—\[Amended this section and analysis preceding section 9901 of this title.\]
+
+“(g)
+
+Other Personnel Flexibilities.—
+
+&emsp;“(1)
+
+In general.—If the Secretary of Defense determines that it would be in the best interest of the Department of Defense to implement personnel flexibilities in addition to those authorized under section 9902 of title 5, as amended by this section, the Secretary, in coordination with the Director of the Office of Personnel Management, may develop and submit to the covered committees, not later than 6 months after the date of the enactment of this Act \[Oct. 28, 2009\], a proposal to implement—
+
+&emsp;&emsp;“(A) additional personnel flexibilities and associated statutory waivers with respect to the application of the General Schedule (as defined in section 5332 of title 5, United States Code); or
+
+&emsp;&emsp;“(B) additional personnel flexibilities and associated statutory waivers, which would require exemption from the application of the General Schedule (as so defined).
+
+&emsp;“(2)
+
+Rationale.—If the Secretary's proposal is to implement authorities described in paragraph (1)(B), the Secretary shall provide a detailed rationale as to why implementation of authorities described in paragraph (1)(A) are not adequate or appropriate to meet the interests of the Department.
+
+&emsp;“(3)
+
+Requirements.—The Secretary's proposal (whether as described in paragraph (1)(A) or (1)(B))—
+
+&emsp;&emsp;“(A) shall be developed in a manner consistent with the requirements of subsections (c) and (d) of section 9902 of title 5, United States Code, as amended by this section;
+
+&emsp;&emsp;“(B) shall include a description of proposed regulations and implementing rules that the Secretary plans to adopt for the proposed system;
+
+&emsp;&emsp;“(C) shall identify and provide a rationale for any statutory waiver that would be required to implement the proposed system;
+
+&emsp;&emsp;“(D) shall describe the steps that the Department would take to avoid problems of the type described in the report of the Defense Business Board, dated August 2009, regarding the National Security Personnel System; and
+
+&emsp;&emsp;“(E) may not provide for the waiver of any provision of law that cannot be waived under paragraph (3) of section 9902(b) of title 5, United States Code (as in effect on the day before the date of the enactment of this Act), and shall be subject to the requirements in paragraphs (4) and (5) of such section (as then in effect).
+
+&emsp;“(4)
+
+Congressional approval required.—If Congress approves the Secretary's proposal in the National Defense Authorization Act for Fiscal Year 2011, the Secretary may implement the proposal (subject to any changes required by law) and begin the implementation of such proposal for personnel included in the National Security Personnel System, in lieu of the transition that would otherwise be required by subsection (b), subject to paragraph (5).
+
+&emsp;“(5)
+
+Restrictions.—Notwithstanding any approval under paragraph (4), the provisions of subsection (b)(2) and (c)(4) shall apply with respect to any proposal approved under such paragraph, unless and until modified or repealed in legislation enacted after the date of the enactment of this Act.
+
+&emsp;“(6)
+
+Definitions.—For purposes of this subsection, the term ‘covered committees’ means—
+
+&emsp;&emsp;“(A) the Committees on Armed Services of the Senate and the House of Representatives;
+
+&emsp;&emsp;“(B) the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+&emsp;&emsp;“(C) the Committee on Oversight and Government Reform of the House of Representatives.”
+
+#### Implementation
+
+Pub. L. 110–181, div. A, title XI, §1106(b), Jan. 28, 2008, 122 Stat. 356, which related to implementation of requirements of this section as amended by Pub. L. 110–181, was repealed by Pub. L. 111–84, div. A, title XI, §1113(h)(1), Oct. 28, 2009, 123 Stat. 2503.
+
+#### Civilian Pay
+
+Pub. L. 109–13, div. A, title I, §1020, May 11, 2005, 119 Stat. 251, provided that: “None of the funds appropriated to the Department of Defense by this Act or any other Act for fiscal year 2005 or any other fiscal year may be expended for any pay raise granted on or after January 1, 2005, that is implemented in a manner that provides a greater increase for non-career employees than for career employees on the basis of their status as career or non-career employees, unless specifically authorized by law: <i>Provided</i>, That this provision shall be implemented for fiscal year 2005 without regard to the requirements of section 5383 of title 5, United States Code: <i>Provided further</i>, That no employee of the Department of Defense shall have his or her pay reduced for the purpose of complying with the requirements of this provision.”
+
+#### Pilot Program for Improved Civilian Personnel Management
+
+Pub. L. 108–136, div. A, title XI, §1111, Nov. 24, 2003, 117 Stat. 1634, provided that:
+
+“(a)
+
+Pilot Program.—The Secretary of Defense may carry out a pilot program using an automated workforce management system to demonstrate improved efficiency in the performance of civilian personnel management. The automated workforce management system used for the pilot program shall be capable of automating the following workforce management functions:
+
+&emsp;“(1) Job definition.
+
+&emsp;“(2) Position management.
+
+&emsp;“(3) Recruitment.
+
+&emsp;“(4) Staffing.
+
+&emsp;“(5) Performance management.
+
+“(b)
+
+Authorities Under Pilot Program.—Under the pilot program, the Secretary of Defense shall provide the Secretary of each military department with the authority for the following:
+
+&emsp;“(1) To use an automated workforce management system for the civilian workforce of that military department to assess the potential of such a system to do the following:
+
+&emsp;&emsp;“(A) Substantially reduce hiring cycle times.
+
+&emsp;&emsp;“(B) Lower labor costs.
+
+&emsp;&emsp;“(C) Increase efficiency.
+
+&emsp;&emsp;“(D) Improve performance management.
+
+&emsp;&emsp;“(E) Provide better management reporting.
+
+&emsp;&emsp;“(F) Enable that system to make operational new personnel management flexibilities granted under the civilian personnel transformation program.
+
+&emsp;“(2) Identify at least one regional civilian personnel center (or equivalent) in that military department for participation in the pilot program.
+
+“(c)
+
+Duration of Pilot Program.—The Secretary of Defense may carry out the pilot program under this section at each selected regional civilian personnel center for a period of two years beginning not later than March 1, 2004.”
+

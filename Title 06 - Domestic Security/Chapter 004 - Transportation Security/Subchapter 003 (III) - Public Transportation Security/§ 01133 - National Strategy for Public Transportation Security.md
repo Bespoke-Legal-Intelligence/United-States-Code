@@ -20,7 +20,7 @@ Not later than 9 months after August 3, 2007, and based upon the previous and on
 
 &emsp;&emsp;(A) use established and ongoing public transportation security assessments as the basis of the National Strategy for Public Transportation Security; and
 
-&emsp;&emsp;(B) consult with all relevant stakeholders, including public transportation agencies, nonprofit labor organizations representing public transportation employees, emergency responders, public safety officials, and other relevant parties.
+&emsp;&emsp;(B) consult with all relevant stakeholders, including public transportation agencies,nonprofit labor organizations representing public transportation employees, emergency responders, public safety officials, and other relevant parties.
 
 #### (c) Contents
 

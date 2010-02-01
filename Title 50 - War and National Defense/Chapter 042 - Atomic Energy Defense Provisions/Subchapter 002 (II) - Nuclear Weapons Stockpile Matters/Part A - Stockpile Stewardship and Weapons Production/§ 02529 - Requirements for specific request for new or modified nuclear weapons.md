@@ -24,37 +24,41 @@ The Secretary shall include in a request for funds under subsection (a) the foll
 
 #### (c) Exception
 
-Subsection (a) shall not apply to funds for purposes of conducting, or providing for the conduct of, research and development, or manufacturing and engineering, determined by the Secretary to be necessary—
-
-&emsp;(1) for the nuclear weapons life extension program;
-
-&emsp;(2) to modify an existing nuclear weapon solely to address safety or reliability concerns; or
-
-&emsp;(3) to address proliferation concerns.
+Subsection (a) shall not apply to funds for purposes of conducting, or providing for the conduct of, research and development, or manufacturing and engineering, determined by the Secretary to be necessary to address proliferation concerns.
 
 #### (d) Definitions
 
 In this section:
 
-&emsp;(1) The term “life extension program” means the program to repair or replace non-nuclear components, or to modify the pit or canned subassembly, of nuclear weapons that are in the nuclear weapons stockpile on December 2,2002, in order to assure that such nuclear weapons retain the ability to meet the military requirements applicable to such nuclear weapons when first placed in the nuclear weapons stockpile.
-
-&emsp;(2) The term “modified nuclear weapon” means a nuclear weapon that contains a pit or canned subassembly, either of which—
+&emsp;(1) The term “modified nuclear weapon” means a nuclear weapon that contains a pit or canned subassembly, either of which—
 
 &emsp;&emsp;(A) is in the nuclear weapons stockpile as of December 2, 2002; and
 
 &emsp;&emsp;(B) is being modified in order to meet a military requirement that is other than the military requirements applicable to such nuclear weapon when first placed in the nuclear weapons stockpile.
 
-&emsp;(3) The term “new nuclear weapon” means a nuclear weapon that contains a pit or canned subassembly, either of which is neither—
+&emsp;(2) The term “new nuclear weapon” means a nuclear weapon that contains a pit or canned subassembly, either of which is neither—
 
 &emsp;&emsp;(A) in the nuclear weapons stockpile on December 2, 2002; nor
 
 &emsp;&emsp;(B) in production as of that date.
 
-(Pub. L. 107–314, div. D, title XLII, §4209, formerly div. C, title XXXI, §3143, Dec. 2, 2002, 116 Stat. 2733; renumbered div. D, title XLII, §4209, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(10), Nov. 24, 2003, 117 Stat. 1759.)
+(Pub. L. 107–314, div. D, title XLII, §4209, formerly div. C, title XXXI, §3143, Dec. 2, 2002, 116 Stat. 2733; renumbered div. D, title XLII, §4209, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(10), Nov. 24, 2003, 117 Stat. 1759; Pub. L. 111–84, div. C, title XXXI, §3115, Oct. 28, 2009, 123 Stat. 2707.)
 
 #### Codification
 
 Section was formerly classified to section 7271d of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
+
+#### Amendments
+
+2009—Subsec. (c). Pub. L. 111–84, §3115(1), substituted “necessary to address proliferation concerns.” for “necessary—
+
+&emsp;“(1) for the nuclear weapons life extension program;
+
+&emsp;“(2) to modify an existing nuclear weapon solely to address safety or reliability concerns; or
+
+&emsp;“(3) to address proliferation concerns.”
+
+Subsec. (d). Pub. L. 111–84, §3115(2), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1), which read as follows: “The term ‘life extension program’ means the program to repair or replace non-nuclear components, or to modify the pit or canned subassembly, of nuclear weapons that are in the nuclear weapons stockpile on December 2, 2002, in order to assure that such nuclear weapons retain the ability to meet the military requirements applicable to such nuclear weapons when first placed in the nuclear weapons stockpile.”
 
 #### Limitation on Development of Low-Yield Nuclear Weapons
 

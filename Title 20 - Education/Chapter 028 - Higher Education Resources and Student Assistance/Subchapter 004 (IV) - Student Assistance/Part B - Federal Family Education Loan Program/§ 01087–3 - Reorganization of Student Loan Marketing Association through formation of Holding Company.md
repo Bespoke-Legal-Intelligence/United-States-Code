@@ -66,7 +66,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (B) Agreement
 
-&emsp;&emsp;The Secretary is authorized to enter into an agreement described in clause (iv) of subparagraph (A) with the Association covering such secondary market activities. Any agreement entered into under such clause shall cover a period of 12 months, but may be renewed if the Secretary determines that liquidity remains inadequate. The fee provided under section 1087–2(h)(7) of this titleshall not apply to loans acquired under any such agreement with the Secretary.
+&emsp;&emsp;The Secretary is authorized to enter into an agreement described in clause (iv) of subparagraph (A) with the Association covering such secondary market activities. Any agreement entered into under such clause shall cover a period of 12 months, but may be renewed if the Secretary determines that liquidity remains inadequate. The fee provided under section 1087–2(h)(7) of this title shall not apply to loans acquired under any such agreement with the Secretary.
 
 #### (7) Issuance of debt obligations during the transition period; attributes of debt obligations
 
@@ -140,7 +140,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (A) In general
 
-&emsp;&emsp;On the reorganization effective date, the Holding Company shall issue to the District of Columbia Financial Responsibility and Management Assistance Authority a number of stock warrants that is equal to one percent of the outstanding shares of the Association, determined as of the last day of the fiscal quarter preceding September 30, 1996, with each stock warrant entitling the holder of the stock warrant to purchase from the Holding Company one share of the registered common stock of the Holding Company or the Holding Company's successors or assigns, at any time on or before September 30, 2008. The exercise price for such warrants shall be an amount equal to the average closing price of the common stock of the Association for the 20 business days prior to September 30, 1996, on the exchange or market which is then the primary exchange or market for the common stock of the Association. The number of shares of Holding Company common stock subject to each stock warrant and the exercise price of each stock warrant shall be adjusted as necessary to reflect—
+&emsp;&emsp;On the reorganization effective date, the Holding Company shall issue to the District of Columbia Financial Responsibility and Management Assistance Authority a number of stock warrants that is equal to one percent of the outstanding shares of the Association, determined as of the last day of the fiscal quarter preceding September 30, 1996, with each stock warrant entitling the holderof the stock warrant to purchase from the Holding Company one share of the registered common stock of the Holding Company or the Holding Company's successors or assigns, at any time on or before September 30, 2008. The exercise price for such warrants shall be an amount equal to the average closing price of the common stock of the Association for the 20 business days prior to September 30, 1996, on the exchange or market which is then the primary exchange or market for the common stock of the Association. The number of shares of Holding Company common stock subject to each stock warrant and the exercise price of each stock warrant shall be adjusted as necessary to reflect—
 
 &emsp;&emsp;&emsp;(i) the conversion of Association common stock into Holding Company common stock as part of the plan of reorganization approved by the Association's shareholders; and
 
@@ -180,7 +180,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (1) Holding Company Board of Directors
 
-&emsp;The number of members and composition of the Board of Directors of the Holding Company shall be determined as set forth in the Holding Company's charter or like instrument (as amended from time to time) or bylaws (as amended from time to time) and as permitted under the laws of the jurisdiction of the Holding Company's incorporation.
+&emsp;The number of members and composition of the Board of Directors of the Holding Company shall be determined as set forth in theHolding Company's charter or like instrument (as amended from time to time) or bylaws (as amended from time to time) and as permitted under the laws of the jurisdiction of the Holding Company's incorporation.
 
 #### (2) Holding Company name
 
@@ -250,7 +250,7 @@ For purposes of this section:
 
 #### (6) Reorganization
 
-&emsp;The term “reorganization” means the restructuring event or events (including any merger event) giving effect to the Holding Company structure described in subsection (a) of this section.
+&emsp;The term “reorganization” means the restructuring event or events (including anymerger event) giving effect to the Holding Company structure described in subsection (a) of this section.
 
 #### (7) Reorganization effective date
 

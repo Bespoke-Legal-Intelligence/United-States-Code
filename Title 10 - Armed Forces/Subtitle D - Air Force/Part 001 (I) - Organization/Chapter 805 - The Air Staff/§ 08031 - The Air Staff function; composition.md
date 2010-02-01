@@ -56,9 +56,9 @@ In subsection (a), the words “an Air Staff consisting of—” are substituted
 
 In subsection (b), 10:1811(b) (proviso) is omitted as superseded by section 264(c) of this title.
 
-In subsection (c), the third sentence is substituted for 10:1811(c) (1st 13 words and 1st proviso). The words “officers and employees \* \* \* or under the jurisdiction of” are omitted as surplusage.
+In subsection (c), the third sentence is substituted for 10:1811(c) (1st 13 words and 1st proviso). The words “officers and employees or under the jurisdiction of” are omitted as surplusage.
 
-In subsections (c) and (d), the word “hereafter” is omitted, since all wars and emergencies declared by Congress before September 19, 1951, have been terminated.
+In subsections (c) and (d), the word “hereafter” is omitted, since all wars and emergencies declared byCongress before September 19, 1951, have been terminated.
 
 In subsection (d), the words “now or hereafter” are omitted as surplusage and as executed. The second sentence is substituted for 10:1811(d) (last 31 words of 1st sentence). The third sentence is substituted for 10:1811(d) (2d sentence). 10:1811(d) (1st 13 words of last sentence) is omitted as executed. The words “This subsection does not apply” are substituted for the words “and shall be inapplicable”.
 

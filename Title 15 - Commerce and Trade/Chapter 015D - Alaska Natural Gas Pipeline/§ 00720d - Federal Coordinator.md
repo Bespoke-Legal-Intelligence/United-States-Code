@@ -68,7 +68,7 @@ On appointment of the Federal Coordinator by the President, all of the functions
 
 #### (g) Temporary authority
 
-The functions, authorities, duties, and responsibilities of the Federal Coordinator shall be vested in the Secretary until the earlier of the appointment of the Federal Coordinator by the President, or 18 months after October 13, 2004.
+The functions, authorities, duties, and responsibilities of the Federal Coordinator shall bevested in the Secretary until the earlier of the appointment of the Federal Coordinator by the President, or 18 months after October 13, 2004.
 
 #### (h) Administration
 

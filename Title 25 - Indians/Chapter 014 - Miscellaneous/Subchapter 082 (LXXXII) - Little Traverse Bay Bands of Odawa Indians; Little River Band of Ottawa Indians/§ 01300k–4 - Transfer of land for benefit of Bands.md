@@ -10,7 +10,7 @@ The Secretary shall acquire real property in Manistee and Mason Counties for the
 
 #### (c) Additional lands
 
-The Secretary may accept any additional acreage in each of the Bands’ service area specified by section 1300k–2(b) of this title pursuantto his authority under the Act of June 18, 1934 (25 U.S.C. 461 et seq.; commonly referred to as the “Indian Reorganization Act”).
+The Secretary may accept any additional acreage in each of the Bands’ service area specified by section 1300k–2(b) of this title pursuant to his authority under the Act of June 18, 1934 (25 U.S.C. 461 et seq.; commonly referred to as the “Indian Reorganization Act”).
 
 #### (d) Reservation
 

@@ -6,7 +6,7 @@ In the case of any interest in qualified real property (within the meaning of se
 
 #### (b) Period of lien
 
-The lien imposed by this section shall arise at the time an election is filed under section 2032A and shall continue with respect to any interest in the qualified real property—
+The lien imposed by this section shall arise at the time an election is filed under section 2032Aand shall continue with respect to any interest in the qualified real property—
 
 &emsp;(1) until the liability for tax under subsection (c) of section 2032A with respect to such interest has been satisfied or has become unenforceable by reason of lapse of time, or
 
@@ -16,7 +16,7 @@ The lien imposed by this section shall arise at the time an election is filed un
 
 #### (1) In general
 
-&emsp;The rule set forth in paragraphs (1), (3), and (4) of section 6324A(d) shall apply with respectto the lien imposed by this section as if it were a lien imposed by section 6324A.
+&emsp;The rule set forth in paragraphs (1), (3), and (4) of section 6324A(d) shall apply with respect to the lien imposed by this section as if it were a lien imposed by section 6324A.
 
 #### (2) Qualified real property
 

@@ -16,7 +16,7 @@ To the extent consistent with the provisions of this chapter or as otherwise ord
 
 &emsp;(1) deliver securities to or on behalf of customers to the maximum extent practicable in satisfaction of customer claims for securities of the same class and series of an issuer; and
 
-&emsp;(2) subject to the prior approval of SIPC but without any need for court approval, pay or guarantee all or any part of the indebtedness of the debtor to a bank, lender, or other person if the trustee determines that the aggregate market value of securities to be made available to the trustee upon the payment or guarantee of such indebtedness does not appear to be less than the total amount of such payment or guarantee.
+&emsp;(2) subject to the prior approval of SIPC but without any need for court approval, pay or guarantee all or any part of the indebtedness of the debtor to a bank, lender, or other personif the trustee determines that the aggregate market value of securities to be made available to the trustee upon the payment or guarantee of such indebtedness does not appear to be less than the total amount of such payment or guarantee.
 
 #### (c) Reports by trustee to court
 
@@ -30,7 +30,7 @@ The trustee shall—
 
 &emsp;(2) examine, by deposition or otherwise, the directors and officers of the debtor and any other witnesses concerning any of the matters referred to in paragraph (1);
 
-&emsp;(3) report to the court any facts ascertained by the trustee with respect to fraud, misconduct, mismanagement, and irregularities,and to any causes of action available to the estate; and
+&emsp;(3) report to the court any facts ascertained by the trustee with respect to fraud, misconduct, mismanagement, and irregularities, and to any causes of action available to the estate; and
 
 &emsp;(4) as soon as practicable, prepare and submit, to SIPC and such other persons as the court designates and in such form and manner as the court directs, a statement of his investigation of matters referred to in paragraph (1).
 

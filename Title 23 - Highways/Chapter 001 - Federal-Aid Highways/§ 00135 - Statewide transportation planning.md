@@ -134,7 +134,7 @@ Mitigation activities.—
 
 &emsp;&emsp;(A)
 
-In general.—A long-range transportation plan shall include a discussion of potential environmental mitigation activities and potential areas to carry out these activities, including activities that may have thegreatest potential to restore and maintain the environmental functions affected by the plan.
+In general.—A long-range transportation plan shall include a discussion of potential environmental mitigation activities and potential areas to carry out these activities, including activities that may have the greatest potential to restore and maintain the environmental functions affected by the plan.
 
 &emsp;&emsp;(B)
 
@@ -224,7 +224,7 @@ Requirement of anticipated full funding.—The transportation improvement progra
 
 &emsp;&emsp;(F)
 
-Financial plan.—The transportation improvement program may include a financial plan that demonstrates how the approved transportation improvement program can be implemented, indicates resources from public and private sources that are reasonably expected to be made available to carry out the transportation improvementprogram, and recommends any additional financing strategies for needed projects and programs. The financial plan may include, for illustrative purposes, additional projects that would be included in the adopted transportation plan if reasonable additional resources beyond those identified in the financial plan were available.
+Financial plan.—The transportation improvement program may include a financial plan that demonstrates how the approved transportation improvement program can be implemented, indicates resources from public and private sources that are reasonably expected to be made available to carry out the transportation improvement program, and recommends any additional financing strategies for needed projects and programs. The financial plan may include, for illustrative purposes, additional projects that would be included in the adopted transportation plan if reasonable additional resources beyond those identified in the financial plan were available.
 
 &emsp;&emsp;(G)
 
@@ -284,7 +284,7 @@ A prior section 135, Pub. L. 89–139, §4(a), Aug. 28, 1965, 79 Stat. 578, call
 
 #### Amendments
 
-2005—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating tostatewide transportation planning for provisions relating to, in subsec. (a), development of plans and programs by each State, in subsec. (b), coordination of State with Federal planning, in subsec. (c), scope of planning process, in subsec. (d), additional minimum requirements for each State to consider, in subsec. (e), development of a long-range transportation plan, in subsec. (f), development of a State transportation improvement program, in subsec. (g), funding, in subsec. (h), treatment of certain State laws as congestion management systems, and, in subsec. (i), review of plans and programs under the National Environmental Policy Act of 1969.
+2005—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to statewide transportation planning for provisions relating to, in subsec. (a), development of plans and programs by each State, in subsec. (b), coordination of State with Federal planning, in subsec. (c), scope of planning process, in subsec. (d), additional minimum requirements for each State to consider, in subsec. (e), development of a long-range transportation plan, in subsec. (f), development of a State transportation improvement program, in subsec. (g), funding, in subsec. (h), treatment of certain State laws as congestion management systems, and, in subsec. (i), review of plans and programs under the National Environmental Policy Act of 1969.
 
 1998—Subsec. (a). Pub. L. 105–178, §1204(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “It is in the national interest to encourage and promote the development of transportation systems embracing various modes of transportation in a manner that will serve all areas of the State efficiently and effectively. Subject to section 134 of this title, the State shall develop transportation plans and programs for all areas of the State. Such plans and programs shall provide for development of transportation facilities (including pedestrian walkways and bicycle transportation facilities) which will function as an intermodal State transportation system. The process for developing such plans and programs shall provide for consideration of all modes of transportation and shall be continuing, cooperative, and comprehensive to the degree appropriate, based on the complexity of the transportation problems.”
 
@@ -294,7 +294,7 @@ Subsec. (c). Pub. L. 105–178, §1204(c), amended heading and text of subsec. (
 
 Subsec. (d). Pub. L. 105–178, §1204(d), reenacted heading without change and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “Each State in carrying out planning under this section shall, at a minimum, consider the following:
 
-&emsp;“(1) The coordination of transportation plans and programs developed for metropolitan areas of the State under section 134 with the State transportation plans and programs developed under this section and the reconciliation of such plans and programs as necessary to ensure connectivity within transportation systems.
+&emsp;“(1) The coordination of transportation plans and programs developed for metropolitan areas of theState under section 134 with the State transportation plans and programs developed under this section and the reconciliation of such plans and programs as necessary to ensure connectivity within transportation systems.
 
 &emsp;“(2) Investment strategies to improve adjoining State and local roads that support rural economic growth and tourism development, Federal agency renewable resources management, and multipurpose land management practices, including recreation development.
 

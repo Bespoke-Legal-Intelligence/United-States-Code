@@ -26,7 +26,7 @@ Section was formerly classified to section 7274a of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–136, §3141(g)(7)(D), made technical amendment to section catchline.
+2003—Pub. L. 108–136, §3141(g)(7)(D), made technical amendment to section catchline.
 
-<b>1997</b>—Subsecs. (c), (d). Pub. L. 105–85 redesignated subsec. (d) as (c) and struck out former subsec. (c) which required Secretary of Energy to submit to Congress not later than Apr. 1 each year a report on research activities of Department of Energy for development of technologies referred to in subsec. (a).
+1997—Subsecs. (c), (d). Pub. L. 105–85 redesignated subsec. (d) as (c) and struck out former subsec. (c) which required Secretary of Energy to submit to Congress not later than Apr. 1 each year a report on research activities of Department of Energy for development of technologies referred to in subsec. (a).
 

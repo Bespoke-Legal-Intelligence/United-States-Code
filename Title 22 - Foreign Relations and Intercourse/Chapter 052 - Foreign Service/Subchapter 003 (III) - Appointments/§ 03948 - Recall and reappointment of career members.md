@@ -12,11 +12,11 @@ Former career members of the Service may be reappointed under section 3942(a)(1)
 
 #### USAID Overseas Program
 
-Pub. L. 110–161, div. J, title VI, §676, Dec. 26, 2007, 121 Stat. 2357, provided that:
+Pub. L. 111–117, div. F, title VII, §7059(a)–(g), Dec. 16, 2009, 123 Stat. 3380, 3381, provided that:
 
 “(a)
 
-Authority.—Up to $81,000,000 of the funds made available in title III of this Act \[div. J of Pub. L. 110–161, 121 Stat. 2292\] to carry out the provisions of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], including funds appropriated under the heading ‘Assistance for Eastern Europe and the Baltic States’, may be used by the United States Agency for International Development (USAID) to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 \[22 U.S.C. 3948, 3949\].
+Authority.—Up to $93,000,000 of the funds made available in title III of this Act \[title III of div. F of Pub. L. 111–117, 123 Stat. 3323\] to carry out the provisions of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], including funds appropriated under the heading ‘Assistance for Europe, Eurasia and Central Asia’, may be used by the United States Agency for International Development (USAID) to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 \[22 U.S.C. 3948, 3949\].
 
 “(b)
 
@@ -24,11 +24,11 @@ Restrictions.—
 
 &emsp;“(1) The number of individuals hired in any fiscal year pursuant to the authority contained in subsection (a) may not exceed 175.
 
-&emsp;“(2) The authority to hire individuals contained in subsection (a) shall expire on September 30, 2009.
+&emsp;“(2) The authority to hire individuals contained in subsection (a) shall expire on September 30, 2011.
 
 “(c)
 
-Conditions.—The authority of subsection (a) may only be used to the extent that an equivalent number of positions that are filled by personal services contractors or other non-direct hire employees of USAID, who are compensated with funds appropriated to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], including funds appropriated under the heading ‘Assistance for Eastern Europe and the Baltic States’, are eliminated.
+Conditions.—The authority of subsection (a) may only be used to the extent that an equivalent number of positions that are filled by personal services contractors or other non-direct hire employees of USAID, who are compensated with funds appropriated to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], including funds appropriated under the heading ‘Assistance for Europe, Eurasia and Central Asia’, are eliminated.
 
 “(d)
 
@@ -36,59 +36,23 @@ Priority Sectors.—In exercising the authority of this section, primary emphasi
 
 “(e)
 
-Consultations.—The USAID Administrator shall consult with the Committees on Appropriations at least on a quarterly basis concerning the implementation of this section.
+Consultations.—The USAID Administrator shall consult with the Committees on Appropriations on a quarterly basis concerning the implementation of this section.
 
 “(f)
 
-Program Account Charged.—The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which such individual's responsibilities primarily relate. Funds made available to carry out this section may be transferred to and merged and consolidated with funds appropriated for ‘Operating Expenses of the United States Agency for International Development’.
+Program Account Charged.—The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which such individual's responsibilities primarily relate: <i>Provided</i>, That funds made available to carry out this section may be transferred to, and merged with, funds appropriated by this Act in title II \[title II of div. F of Pub. L. 111–117, 123 Stat. 3321\] under the heading ‘Operating Expenses’.
 
 “(g)
 
-Management Reform Pilot.—Of the funds made available in subsection (a), USAID may use, in addition to funds otherwise available for such purposes, up to $15,000,000 to fund overseas support costs of members of the Foreign Service with a Foreign Service rank of four or below: <i>Provided</i>, That such authority is only used to reduce USAID's reliance on overseas personal services contractors or other non-direct hire employees compensated with funds appropriated to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 etseq.\], including funds appropriated under the heading ‘Assistance for Eastern Europe and the Baltic States’.
+Foreign Service Limited Extensions.—Individuals hired and employed by USAID, with funds made available in this Act \[div. F of Pub. L. 111–117, 123 Stat. 3312\] or prior Acts making appropriations for the Department of State, foreign operations, and related programs \[see similar provisions listed below\], pursuant to the authority of section 309 of the Foreign Service Act of 1980 \[22 U.S.C. 3949\], may be extended for a period of up to 4 years notwithstanding the limitation set forth in such section.”
 
-“(h)
+Similar provisions were contained in the following prior appropriation acts:
 
-Disaster Surge Capacity.—Funds appropriated under title III of this Act \[div. J of Pub. L. 110–161, 121 Stat. 2292\] to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], including funds appropriated under the heading ‘Assistance for Eastern Europe and the Baltic States’, may be used, in addition to funds otherwise available for such purposes, for the cost (including the support costs) of individuals detailed to or employed by the United States Agency for International Development whose primary responsibility is to carry out programs in response to natural disasters.”
+Pub. L. 111–8, div. H, title VII, §7059(a)–(g), Mar. 11, 2009, 123 Stat. 896.
 
-Pub. L. 109–102, title V, §577, Nov. 14, 2005, 119 Stat. 2231, provided that:
+Pub. L. 110–161, div. J, title VI, §676, Dec. 26, 2007, 121 Stat. 2357.
 
-“(a)
-
-Authority.—Up to $75,000,000 of the funds made available in this Act \[see Tables for classification\] to carry out the provisions of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], including funds appropriated under the heading ‘Assistance for Eastern Europe and the Baltic States’, may be used by the United States Agency for International Development (USAID) to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 \[22 U.S.C. 3948, 3949\].
-
-“(b)
-
-Restrictions.—
-
-&emsp;“(1) The number of individuals hired in any fiscal year pursuant to the authority contained in subsection (a) may not exceed 175.
-
-&emsp;“(2) The authority to hire individuals contained in subsection (a) shall expire on September 30, 2008.
-
-“(c)
-
-Conditions.—The authority of subsection (a) may only be used to the extent that an equivalent number of positions that are filled by personal services contractors or other nondirect-hire employees of USAID, who are compensated with funds appropriated to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], including funds appropriated under the heading ‘Assistance for Eastern Europe and the Baltic States’, are eliminated.
-
-“(d)
-
-Priority Sectors.—In exercising the authority of this section, primary emphasis shall be placed on enabling USAID to meet personnel positions in technical skill areas currently encumbered by contractor or other nondirect-hire personnel.
-
-“(e)
-
-Consultations.—The USAID Administrator shall consult with the Committees on Appropriations at least on a quarterly basis concerning the implementation of this section.
-
-“(f)
-
-Program Account Charged.—The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which such individual's responsibilities primarily relate. Funds made available to carry out this section may be transferred to and merged and consolidated with funds appropriated for ‘Operating Expenses of the United States Agency for International Development’.
-
-“(g)
-
-Management Reform Pilot.—Of the funds made available in subsection (a), USAID may use, in addition to funds otherwise available for such purposes, up to $10,000,000 to fund overseas support costs of members of the Foreign Service with a Foreign Service rank of four or below: <i>Provided</i>, That such authority is only used to reduce USAID's reliance on overseas personal services contractors or other nondirect-hire employees compensated with funds appropriated to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], including funds appropriated under the heading ‘Assistance for Eastern Europe and the Baltic States’.
-
-“(h)
-
-Disaster Surge Capacity.—Funds appropriated by this Act to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], including funds appropriated under the heading ‘Assistance for Eastern Europe and the Baltic States’, may be used, in addition to funds otherwise available for such purposes, for the cost (including the support costs) of individuals detailed to or employed by the United States Agency for International Development whose primary responsibility is to carry out programs in response to natural disasters.”
-
-Similar provisions were contained in the following prior appropriation act:
+Pub. L. 109–102, title V, §577, Nov. 14, 2005, 119 Stat. 2231.
 
 Pub. L. 108–447, div. D, title V, §588, Dec. 8, 2004, 118 Stat. 3034.
 

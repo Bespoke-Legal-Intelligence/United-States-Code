@@ -6,7 +6,7 @@
 
 (c) Sales under subsection (a) or (b) shall be at prices determined by the President acting through the selling agency.
 
-(d) Appropriations of the Department of Defense may be reimbursed for all costs of production of forest products pursuant to this sectionfrom amounts received as proceeds from the sale of any such property.
+(d) Appropriations of the Department of Defense may be reimbursed for all costs of production of forest products pursuant to this section from amounts received as proceeds from the sale of any such property.
 
 (e)(1) Each State in which is located a military installation or facility from which forest products are sold in a fiscal year is entitled at the end of such year to an amount equal to 40 percent of (A) the amount received by the United States during such year as proceeds from the sale of forest products produced on such installation or facility, less (B) the amount of reimbursement of appropriations of the Department of Defense under subsection (d) during such year attributable to such installation or facility.
 
@@ -88,7 +88,7 @@ Subsec. (f)(2), (3). Pub. L. 99–561, §4(3)(C), amended pars. (2) and (3) gene
 
 “(2) Subject to paragraph (3), there shall be deposited into the reserve account not later than December 31 of each year, for credit to the preceding fiscal year, an amount equal to one-half of the amount (if any) remaining of the total amount received by the United States during that fiscal year as proceeds from the sale of forest products after (A) the reimbursement of appropriations of the Department of Defense under subsection (d) for expenses of production of forest products during that fiscal year, and (B) the payment to States under subsection (e) for that fiscal year.
 
-“(3) The balance in the reserve account may not exceed $4,000,000. If a deposit under paragraph (2) would cause the balance in the account to exceed that amount, the deposit shall be made only to the extentthe amount of the deposit would not cause the balance in the account to exceed $4,000,000.”
+“(3) The balance in the reserve account may not exceed $4,000,000. If a deposit under paragraph (2) would cause the balance in the account to exceed that amount, the deposit shall be made only to the extent the amount of the deposit would not cause the balance in the account to exceed $4,000,000.”
 
 1984—Subsec. (b). Pub. L. 98–407, §809(a)(1), substituted “forest products produced on land owned or leased by a military department or the” for “logs wholly or partly manufactured by, or otherwise procured for, the Army, Navy, or Air Force, or”.
 

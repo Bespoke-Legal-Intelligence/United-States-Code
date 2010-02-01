@@ -2,13 +2,13 @@
 
 #### (a) Common stock; issuance
 
-The common stock of the Corporation shall consist of voting common stock, which shall be issued to such holders in the manner andamount, and subject to any limitations on concentration of ownership, as may be established by the Corporation.
+The common stock of the Corporation shall consist of voting common stock, which shall be issued to such holders in the manner and amount, and subject to any limitations on concentration of ownership, as may be established by the Corporation.
 
 #### (b) Par value
 
 The voting common stock shall have such par value and other characteristics as the Corporation provides. The voting common stock shall be vested with all voting rights, each share being entitled to 1 vote. The free transferability of the voting common stock at all times to any person, firm, corporation or other entity shall not be restricted except that, as to the Corporation, it shall be transferable only on the books of the Corporation.
 
-(Pub. L. 91–351, title III, §304, July 24, 1970, 84 Stat. 454; Pub. L. 101–73, title VII, §731(d)(1), (3), Aug. 9, 1989, 103 Stat. 432; Pub. L. 102–550, title XIII, §1382(i), Oct. 28, 1992, 106 Stat. 4004.)
+(Pub. L. 91–351, title III, §304, July 24, 1970, 84 Stat. 454; Pub. L. 101–73, title VII, §731(d)(1), (3),Aug. 9, 1989, 103 Stat. 432; Pub. L. 102–550, title XIII, §1382(i), Oct. 28, 1992, 106 Stat. 4004.)
 
 #### Amendments
 

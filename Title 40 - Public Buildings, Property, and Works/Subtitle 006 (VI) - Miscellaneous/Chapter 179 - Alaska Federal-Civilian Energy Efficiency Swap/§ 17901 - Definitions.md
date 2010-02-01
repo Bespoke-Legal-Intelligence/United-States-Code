@@ -32,7 +32,7 @@ Historical and Revision Notes
 
 Pub. L. 96–571, §2, Dec. 22, 1980, 94 Stat. 3341.
 
-In clause (1), the definition of “agency” as referring to the head of any department, agency, or instrumentality of the United States Government is rewritten as a definition of “federal agency” to avoid confusion between the role of the “agency” and the “head of the agency”. Throughout the chapter, the words “head of the federal agency” are used when the source provision is referring to action taken by an official as opposed to the concept of the agency as an institution.
+In clause (1), the definition of “agency” as referring to the head of any department, agency, or instrumentality of the United States Government is rewritten as a definition of “federal agency” to avoid confusion between the role of the “agency” and the “head of the agency”. Throughout the chapter, the words “head ofthe federal agency” are used when the source provision is referring to action taken by an official as opposed to the concept of the agency as an institution.
 
 In clause (3), the text of 40:795(1) and (4) is combined to eliminate a definition (40:795(1)) that is used only once.
 

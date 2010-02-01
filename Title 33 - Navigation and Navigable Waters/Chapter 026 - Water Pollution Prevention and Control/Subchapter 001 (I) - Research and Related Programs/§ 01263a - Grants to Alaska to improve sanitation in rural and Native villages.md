@@ -18,7 +18,7 @@ The State of Alaska may use an amount not to exceed 4 percent of any grant made 
 
 #### (d) Consultation with State of Alaska
 
-The Administrator shall consult with the State of Alaska on a method of prioritizing theallocation of grants under subsection (a) of this section according to the needs of, and relative health and sanitation conditions in, each eligible village.
+The Administrator shall consult with the State of Alaska on a method of prioritizing the allocation of grants under subsection (a) of this section according to the needs of, and relative health and sanitation conditions in, each eligible village.
 
 #### (e) Authorization of appropriations
 

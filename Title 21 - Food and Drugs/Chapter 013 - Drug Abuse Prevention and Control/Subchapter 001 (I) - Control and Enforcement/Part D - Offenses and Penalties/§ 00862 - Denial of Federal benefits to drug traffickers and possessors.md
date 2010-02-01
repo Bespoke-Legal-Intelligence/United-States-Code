@@ -50,7 +50,7 @@ As used in this section—
 
 &emsp;&emsp;(B) does not include any retirement, welfare, Social Security, health, disability, veterans benefit, public housing, or other similar benefit, or any other benefit for which payments or services are required for eligibility; and
 
-&emsp;(2) the term “veterans benefit” means all benefits provided to veterans, their families, or survivors by virtue of the service of a veteran in the Armed Forces of the United States.
+&emsp;(2) the term “veterans benefit” means all benefits provided to veterans, their families,or survivors by virtue of the service of a veteran in the Armed Forces of the United States.
 
 #### (e) Inapplicability of this section to Government witnesses
 

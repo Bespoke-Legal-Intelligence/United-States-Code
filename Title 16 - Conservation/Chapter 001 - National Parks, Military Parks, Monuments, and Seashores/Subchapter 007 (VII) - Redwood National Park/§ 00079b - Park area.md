@@ -32,7 +32,7 @@ Act of October 21, 1976 (90 Stat. 2743), referred to in subsec. (c), is Pub. L. 
 
 1994—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-1978—Subsec. (a). Pub. L. 95–250, §101(a)(1), (2), inserted “and the area indicated as ‘Proposed Additions’on the map entitled ‘Additional Lands, Redwood National Park, California’, numbered 167–80005–D and dated March 1978,” after “and dated September 1968,” and substituted “one hundred and six thousand acres, exclusive of submerged lands and publicly owned highways and roads” for “fifty-eight thousand acres, exclusive of submerged lands”.
+1978—Subsec. (a). Pub. L. 95–250, §101(a)(1), (2), inserted “and the area indicated as ‘Proposed Additions’ on the map entitled ‘Additional Lands, Redwood National Park, California’, numbered 167–80005–D and dated March 1978,” after “and dated September 1968,” and substituted “one hundred and six thousand acres, exclusive of submerged lands and publicly owned highways and roads” for “fifty-eight thousand acres, exclusive of submerged lands”.
 
 Subsec. (b). Pub. L. 95–250, §101(a)(2), struck out “by donation only” after “The Secretary is authorized to acquire”.
 

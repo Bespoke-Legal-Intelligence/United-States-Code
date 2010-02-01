@@ -144,7 +144,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The allocation under paragraph (1) shall be made among the properties described in subparagraph (A) thereof and the trusts described in subparagraph (B) thereof, as the case may be, in proportion to the respective amounts (at the time of allocation) of the nonexempt portions of such properties or trusts.
+&emsp;&emsp;The allocation under paragraph (1) shall be made among the properties described in subparagraph (A) thereof and the trusts described in subparagraph (B) thereof, as the case may be, in proportion to the respectiveamounts (at the time of allocation) of the nonexempt portions of such properties or trusts.
 
 #### (B) Nonexempt portion
 
@@ -160,7 +160,7 @@
 
 2001—Subsec. (b)(2). Pub. L. 107–16, §§561(b), 901, temporarily substituted “or subsection (c)(1)” for “with respect to a prior direct skip”. See Effective and Termination Dates of 2001 Amendment note below.
 
-Subsecs. (c) to (e). Pub. L. 107–16, §§561(a), 901, temporarily added subsecs. (c) and (d) and redesignatedformer subsec. (c) as (e). See Effective and Termination Dates of 2001 Amendment note below.
+Subsecs. (c) to (e). Pub. L. 107–16, §§561(a), 901, temporarily added subsecs. (c) and (d) and redesignated former subsec. (c) as (e). See Effective and Termination Dates of 2001 Amendment note below.
 
 1988—Subsec. (b)(2). Pub. L. 100–647 substituted “paragraph (1) with respect to a prior direct skip)” for “paragraph (1)) with respect to a prior direct skip”.
 

@@ -1,5 +1,5 @@
 
-33 U.S.C.<br>United States Code, 2008 Edition<br>Title 33 - NAVIGATION AND NAVIGABLE WATERS<br>From the U.S. Government Publishing Office, www.gpo.gov
+33 U.S.C.<br>United States Code, 2009 Edition<br>Title 33 - NAVIGATION AND NAVIGABLE WATERS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 33—NAVIGATION AND NAVIGABLE WATERS
 
@@ -52,6 +52,10 @@
 | [<b>44.</b>](Chapter%20044%20-%20Oceans%20and%20Human%20Health/README.md) | <b>Oceans and Human Health</b> | <b>3101</b> |
 | [<b>45.</b>](Chapter%20045%20-%20Tsunami%20Warning%20and%20Education/README.md) | <b>Tsunami Warning and Education</b> | <b>3201</b> |
 | [<b>46.</b>](Chapter%20046%20-%20National%20Levee%20Safety%20Program/README.md) | <b>National Levee Safety Program</b> | <b>3301</b> |
+| [<b>47.</b>](Chapter%20047%20-%20Ocean%20Exploration/README.md) | <b>Ocean Exploration</b> | <b>3401</b> |
+| [<b>48.</b>](Chapter%20048%20-%20Ocean%20and%20Coastal%20Mapping%20Integration/README.md) | <b>Ocean and Coastal Mapping Integration</b> | <b>3501</b> |
+| [<b>49.</b>](Chapter%20049%20-%20Integrated%20Coastal%20and%20Ocean%20Observation%20System/README.md) | <b>Integrated Coastal and Ocean Observation System</b> | <b>3601</b> |
+| [<b>50.</b>](Chapter%20050%20-%20Federal%20Ocean%20Acidification%20Research%20and%20Monitoring/README.md) | <b>Federal Ocean Acidification Research and Monitoring</b> | <b>3701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -108,3 +112,7 @@
 - [Chapter 044 - Oceans and Human Health](Chapter%20044%20-%20Oceans%20and%20Human%20Health/README.md)
 - [Chapter 045 - Tsunami Warning and Education](Chapter%20045%20-%20Tsunami%20Warning%20and%20Education/README.md)
 - [Chapter 046 - National Levee Safety Program](Chapter%20046%20-%20National%20Levee%20Safety%20Program/README.md)
+- [Chapter 047 - Ocean Exploration](Chapter%20047%20-%20Ocean%20Exploration/README.md)
+- [Chapter 048 - Ocean and Coastal Mapping Integration](Chapter%20048%20-%20Ocean%20and%20Coastal%20Mapping%20Integration/README.md)
+- [Chapter 049 - Integrated Coastal and Ocean Observation System](Chapter%20049%20-%20Integrated%20Coastal%20and%20Ocean%20Observation%20System/README.md)
+- [Chapter 050 - Federal Ocean Acidification Research and Monitoring](Chapter%20050%20-%20Federal%20Ocean%20Acidification%20Research%20and%20Monitoring/README.md)

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(ii) merchandise related to the component part and manufactured in the same foreign country in which the component part is manufactured has been the subject of a significant number of investigations suspended under section 1671c or 1673c of this title or countervailing or antidumping duty orders issued under this subtitle or section 1303 <sup>1</sup> of this title, or
 
-&emsp;&emsp;&emsp;(iii) merchandise manufactured or exported by the manufacturer or exporter of the component part that is similar in description and use to the component part has been the subject of at least 2 investigations suspended under section 1671c or 1673c of this title or countervailing or antidumping duty orders issued under this subtitle or section 1303 <sup>1</sup> of this title.
+&emsp;&emsp;&emsp;(iii) merchandise manufactured or exported by the manufacturer or exporter of the component part that is similar in description and use to the component parthas been the subject of at least 2 investigations suspended under section 1671c or 1673c of this title or countervailing or antidumping duty orders issued under this subtitle or section 1303 <sup>1</sup> of this title.
 
 #### (3) Factors to take into account
 

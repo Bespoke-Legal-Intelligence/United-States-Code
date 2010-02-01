@@ -62,7 +62,7 @@ Report on Assistance.—Not later than January 30 of each year following a year 
 
 (f)
 
-Relationship to Other Laws.—Assistance provided under this section shall be subject tothe provisions of sections 375 and 376 of this title.
+Relationship to Other Laws.—Assistance provided under this section shall be subject to the provisions of sections 375 and 376 of this title.
 
 (g)
 
@@ -70,7 +70,7 @@ Funding for Support of Certain Events.—(1) Amounts for the provision of suppor
 
 (2) The total amount expended for any fiscal year to provide support for sporting events described in subsection (c)(5) may not exceed $1,000,000.
 
-(Added Pub. L. 104–201, div. A, title III, §367(a), Sept. 23, 1996, 110 Stat. 2496, §2554; amended by Pub. L. 105–85, div. A, title X, §1073(a)(56), (c)(2)(A), Nov. 18, 1997, 111 Stat. 1903, 1904; renumbered §2564, Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; (As amended Pub. L. 110–181, div. A, title III, §372(a), Jan. 28, 2008, 122 Stat. 81.)
+(Added Pub. L. 104–201, div. A, title III, §367(a), Sept. 23, 1996, 110 Stat. 2496, §2554; amended Pub. L. 105–85, div. A, title X, §1073(a)(56), (c)(2)(A), Nov. 18, 1997, 111 Stat. 1903, 1904; renumbered §2564, Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 110–181, div. A, title III, §372(a), Jan. 28, 2008, 122 Stat. 81.)
 
 #### Amendments
 

@@ -6,7 +6,7 @@ The cross references in this title to other portions of the title, or other prov
 
 #### (b) Arrangement and classification
 
-No inference, implication, or presumption of legislative construction shall be drawn or made by reason of the location or grouping of any particular section or provision or portion of this title, nor shall any table of contents, table of cross references, or similar outline, analysis, or descriptive matter relating to the contents of this title be given any legal effect. The preceding sentence also applies to the sidenotes and ancillary tables contained in the various prints of this Act before its enactment into law.
+No inference, implication, or presumption of legislative construction shall be drawn or made by reason of the location or grouping of any particular section or provision or portion of this title, nor shall any table of contents, table ofcross references, or similar outline, analysis, or descriptive matter relating to the contents of this title be given any legal effect. The preceding sentence also applies to the sidenotes and ancillary tables contained in the various prints of this Act before its enactment into law.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 917.)
 

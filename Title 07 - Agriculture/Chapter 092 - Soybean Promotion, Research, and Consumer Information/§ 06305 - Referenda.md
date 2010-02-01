@@ -32,7 +32,7 @@
 
 #### (C) Eligible producers
 
-&emsp;&emsp;Each additional referendum shall be conducted among all producers who, during a representative period, as determined by the Secretary, have been engaged in the production of soybeans to determine whether such producers favor the termination or suspension of the order.
+&emsp;&emsp;Each additional referendum shall be conducted among all producers who, during arepresentative period, as determined by the Secretary, have been engaged in the production of soybeans to determine whether such producers favor the termination or suspension of the order.
 
 #### (2) Disapproval of order
 
@@ -52,7 +52,7 @@
 
 #### (ii) Mail-in requests
 
-&emsp;&emsp;&emsp;In lieu of making such requests in person, producers may make requests by mail.Mail-in requests shall be postmarked no later than the end of the period established under clause (i) for in-person requests. To facilitate such submission of requests by mail, the Secretary may make mail-in request forms available to producers.
+&emsp;&emsp;&emsp;In lieu of making such requests in person, producers may make requests by mail. Mail-in requests shall be postmarked no later than the end of the period established under clause (i) for in-person requests. To facilitate such submission of requests by mail, the Secretary may make mail-in request forms available to producers.
 
 #### (C) Notifications
 

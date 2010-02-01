@@ -2,7 +2,7 @@
 
 (a)
 
-Purpose.—This chapter establishes procedures governing the use of military commissions to try alien unlawful enemy combatants engaged in hostilities against the United States for violations of the law of war and other offenses triable by military commission.
+Purpose.—This chapter establishes procedures governing the use of military commissions to try alien unprivileged enemy belligerents for violations of the law of war and other offenses triable by military commission.
 
 (b)
 
@@ -10,11 +10,11 @@ Authority for Military Commissions Under This Chapter.—The President is author
 
 (c)
 
-Construction of Provisions.—The procedures for military commissions set forth in this chapter are based upon the procedures for trial by general courts-martial under chapter 47 of this title (the Uniform Code of Military Justice). Chapter 47 of this title does not, by its terms, apply to trial by military commission except as specifically provided in this chapter. The judicial construction and application of that chapter are not binding on military commissions established under this chapter.
+Construction of Provisions.—The procedures for military commissions set forth in this chapter are based upon the procedures for trial by general courts-martial under chapter 47 of this title (the Uniform Code of Military Justice). Chapter 47 of this title does not, by its terms, apply to trial by military commission except as specifically provided therein or in this chapter, and many of the provisions of chapter 47 of this title are by their terms inapplicable to military commissions. The judicial construction and application of chapter 47 of this title, while instructive, is therefore not of its own force binding on military commissions established under this chapter.
 
 (d)
 
-Inapplicability of Certain Provisions.—(1) The following provisions of this title shallnot apply to trial by military commission under this chapter:
+Inapplicability of Certain Provisions.—(1) The following provisions of this title shall not apply to trial by military commission under this chapter:
 
 &emsp;(A) Section 810 (article 10 of the Uniform Code of Military Justice), relating to speedy trial, including any rule of courts-martial relating to speedy trial.
 
@@ -22,21 +22,17 @@ Inapplicability of Certain Provisions.—(1) The following provisions of this ti
 
 &emsp;(C) Section 832 (article 32 of the Uniform Code of Military Justice), relating to pretrial investigation.
 
-(2) Other provisions of chapter 47 of this title shall apply to trial by military commission under this chapter only to the extent provided by this chapter.
+(2) Other provisions of chapter 47 of this title shall apply to trial by military commission under this chapter only to the extent provided by the terms of such provisions or by this chapter.
 
 (e)
 
-Treatment of Rulings and Precedents.—The findings, holdings, interpretations, and other precedents of military commissions under this chapter may not be introduced or considered in any hearing, trial, or other proceeding of a court-martial convened under chapter 47 of this title. The findings, holdings, interpretations, and other precedents of military commissions under this chapter may not form the basis of any holding, decision, or other determination of a court-martial convened under that chapter.
+Geneva Conventions Not Establishing Private Right of Action.—No alien unprivileged enemy belligerent subject to trial by military commission under this chapter may invoke the Geneva Conventions as a basis for a private right of action.
 
-(f)
+(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2575.)
 
-Status of Commissions Under Common Article 3.—A military commission established under this chapter is a regularly constituted court, affording all the necessary “judicial guarantees which are recognized as indispensable by civilized peoples” for purposes of common Article 3 of the Geneva Conventions.
+#### Prior Provisions
 
-(g)
-
-Geneva Conventions Not Establishing Source of Rights.—No alien unlawful enemy combatant subject to trial by military commission under this chapter may invoke the Geneva Conventions as a source of rights.
-
-(Added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2602.)
+A prior section 948b, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2602, related to military commissions generally, prior to the general amendment of this chapter by Pub. L. 111–84.
 
 #### Ex. Ord. No. 13425. Trial of Alien Unlawful Enemy Combatants by Military Commission
 

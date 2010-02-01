@@ -4,25 +4,25 @@
 
 (2) Under regulations prescribed by the Secretary, benefits under this section may be paid less frequently than monthly if the amount of the annual benefit is less than 4 percent of the maximum annual rate payable under this section.
 
-(b)(1) Except as provided in paragraph (4) of this subsection, if there is only one parent, the monthly rate of dependency and indemnity compensation paid to such parent shall be $163, as increased from time to time under section 5312(b)(1) of this title and reduced by an amount, based upon the amount of such parent's annual income, determined in accordance with regulations which the Secretary shall prescribe under section 5312(b)(2) of this title.
+(b)(1) Except as provided in paragraph (4) of this subsection, if there is only one parent, the monthly rate of dependency and indemnity compensation paid to such parent shall be $569, as increased from time to time under section 5312(b)(1) of this title and reduced by an amount, based upon the amount of such parent's annual income, determined in accordance with regulations which the Secretary shall prescribe under section 5312(b)(2) of this title.
 
 (2) In no case may the amount of dependency and indemnity compensation payable to any parent under this subsection be less than $5 monthly.
 
-(3) In no case may dependency and indemnity compensation be paid under paragraph (1) of this subsection to any parent if the annual income of such parent exceeds $4,038, as increased from time to time under section 5312 of this title.
+(3) In no case may dependency and indemnity compensation be paid under paragraph (1) of this subsection to any parent if the annual income of such parent exceeds $13,456, as increased from time to time under section 5312 of this title.
 
 (4) If there is only one parent and such parent has remarried and is living with such parent's spouse, dependency and indemnity compensation shall be paid to such parent under either paragraph (1) of this subsection or under subsection (d) of this section, whichever will result in the greater amount of such compensation being paid to such parent. In such a case of remarriage the total combined annual income of the parent and such parent's spouse shall be counted in determining the monthly rate of dependency and indemnity compensation under the appropriate formula.
 
-(c)(1) Except as provided in subsection (d) of this section, if there are two parents, but they are not living together, the monthly rate of dependency and indemnity compensation paid to each such parent shall be $115, as increased from time to time under section 5312(b)(1) of this title and reduced by an amount, based upon the amount of such parent's annual income, determined in accordance with regulations which the Secretary shall prescribe under section 5312(b)(2) of this title.
+(c)(1) Except as provided in subsection (d) of this section, if there are two parents, but they are not living together, the monthly rate of dependency and indemnity compensation paid to each such parent shall be $412, as increased from time to time under section 5312(b)(1) of this title and reduced by an amount, based upon the amount of such parent's annual income, determined in accordance with regulations which the Secretary shall prescribe under section 5312(b)(2) of this title.
 
 (2) In no case may the amount of dependency and indemnity compensation payable to any parent under this subsection be less than $5 monthly.
 
-(3) In no case may dependency and indemnity compensation be paid under paragraph (1) of this subsection to any parent if the annual income of such parent exceeds $4,038, as increased from time to time under section 5312 of this title.
+(3) In no case may dependency and indemnity compensation be paid under paragraph (1) of this subsection to any parent if the annual income of such parent exceeds $13,456, as increased from time to time under section 5312 of this title.
 
-(d)(1) If there are two parents who are living together, or if a parent has remarried and is living with such parent's spouse, the monthly rate of dependency and indemnity compensation paid to such parent shall be $109, as increased from time to time under section 5312(b)(1) of this title and reduced by an amount, based upon the amount of the combined annual income of the parents or the parent and the parent's spouse, determined in accordance with regulations which the Secretary shall prescribe under section 5312(b)(2) of this title.
+(d)(1) If there are two parents who are living together, or if a parent has remarried and is living with such parent's spouse, the monthly rate of dependency and indemnity compensation paid to such parent shall be $387, as increased from time to time under section 5312(b)(1) of this title and reduced by an amount, based upon the amount of the combined annual income of the parents or the parent and the parent's spouse, determined in accordance with regulations which the Secretary shall prescribe under section 5312(b)(2) of this title.
 
 (2) In no case may the amount of dependency and indemnity compensation payable to any parent under this subsection be less than $5 monthly.
 
-(3) In no case may dependency and indemnity compensation be paid under this subsection to a parent if the total combined annual income of the parent and such parent's spouse exceeds $5,430, as increased from time to time under section 5312 of this title.
+(3) In no case may dependency and indemnity compensation be paid under this subsection to a parent if the total combined annual income of the parent and such parent's spouse exceeds $18,087, as increased from time to time under section 5312 of this title.
 
 (e) The Secretary may require as a condition of granting or continuing dependency and indemnity compensation to a parent that such parent, other than one who has attained seventy-two years of age and has been paid dependency and indemnity compensation during two consecutive calendar years, file for a calendar year with the Secretary (on the form prescribed by the Secretary) a report showing the total income which such parent expects to receive in that year and the total income which such parent received in the preceding year. The parent or parents shall notify the Secretary whenever there is a material change in annual income.
 
@@ -68,9 +68,9 @@
 
 (3) The Secretary may provide by regulation for the exclusion from income under this section of amounts paid by a parent for unusual medical expenses.
 
-(g) The monthly rate of dependency and indemnity compensation payable to a parent shall be increased by $85, as increased from time to time under section 5312 of this title, if such parent is (1) a patient in a nursing home or (2) blind, or so nearly blind or significantly disabled as to need or require the regular aid and attendance of another person.
+(g) The monthly rate of dependency and indemnity compensation payable to a parent shall be increased by $308, as increased from time to time under section 5312 of this title, if such parent is (1) a patient in a nursing home or (2) blind, or so nearly blind or significantly disabled as to need or require the regular aid and attendance of another person.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1129, §415; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–21, §4, May 15, 1963, 77 Stat. 17; Pub. L. 89–730, §§1, 2, Nov. 2, 1966, 80 Stat. 1157, 1158; Pub. L. 90–275, §2, Mar. 28, 1968, 82 Stat. 66; Pub. L. 91–588, §§2, 8(a), Dec. 24, 1970, 84 Stat. 1582, 1584; Pub. L. 92–197, §4, Dec. 15, 1971, 85 Stat. 661; Pub. L. 92–425, §6(1), Sept. 21, 1972, 86 Stat. 713; Pub. L. 93–177, §4, Dec. 6, 1973, 87 Stat. 695; Pub. L. 93–527, §7, Dec. 21, 1974, 88 Stat. 1704; Pub. L. 94–169, title II, §201, Dec. 23, 1975, 89 Stat. 1019; Pub. L. 94–432, title III, §301, Sept. 30, 1976, 90 Stat. 1371; Pub. L. 95–204, title II, §201, Dec. 2, 1977, 91 Stat. 1457; Pub. L. 95–588, title II, §201, Nov. 4, 1978, 92 Stat. 2505; Pub. L. 96–466, title VI, §605(c)(1), Oct. 17, 1980, 94 Stat. 2211; Pub. L. 97–295, §4(10), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–687, div. B, title XIV, §1402(a), Nov. 18, 1988, 102 Stat. 4129; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1315 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L.102–86, title I, §102, Aug. 14, 1991, 105 Stat. 414; Pub. L. 103–271, §9(a), July 1, 1994, 108 Stat. 743; Pub. L. 104–275, title IV, §405(c)(1), Oct. 9, 1996, 110 Stat. 3340; Pub. L. 109–233, title V, §502(3), June 15, 2006, 120 Stat. 415.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1129, §415; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–21, §4, May 15, 1963, 77 Stat. 17; Pub. L. 89–730, §§1, 2, Nov. 2, 1966, 80 Stat. 1157, 1158; Pub. L. 90–275, §2, Mar. 28, 1968, 82 Stat. 66; Pub. L. 91–588, §§2, 8(a), Dec. 24, 1970, 84 Stat. 1582, 1584; Pub. L. 92–197, §4, Dec. 15, 1971, 85 Stat. 661; Pub. L. 92–425, §6(1), Sept. 21, 1972, 86 Stat. 713; Pub. L. 93–177, §4, Dec. 6, 1973, 87 Stat. 695; Pub. L. 93–527, §7, Dec. 21, 1974, 88 Stat. 1704; Pub. L. 94–169, title II, §201, Dec. 23, 1975, 89 Stat. 1019; Pub. L. 94–432, title III, §301, Sept. 30, 1976, 90 Stat. 1371; Pub. L. 95–204, title II, §201, Dec. 2, 1977, 91 Stat. 1457; Pub. L. 95–588, title II, §201, Nov. 4, 1978, 92 Stat. 2505; Pub. L. 96–466, title VI, §605(c)(1), Oct. 17, 1980, 94 Stat. 2211; Pub. L. 97–295, §4(10), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–687, div. B, title XIV, §1402(a), Nov. 18, 1988, 102 Stat. 4129; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1315 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title I, §102, Aug. 14, 1991, 105 Stat. 414; Pub. L. 103–271, §9(a), July 1, 1994, 108 Stat. 743; Pub. L. 104–275, title IV, §405(c)(1), Oct. 9, 1996, 110 Stat. 3340; Pub. L. 109–233, title V, §502(3), June 15, 2006, 120 Stat. 415; Pub. L. 111–37, §3(f), June 30, 2009, 123 Stat. 1930.)
 
 #### References in Text
 
@@ -80,6 +80,20 @@ The Social Security Act, referred to in subsec. (f)(1)(D), is act Aug. 14, 1935,
 
 #### Amendments
 
+2009—Subsec. (b)(1). Pub. L. 111–37, §3(f)(1)(A), substituted “$569” for “$163”.
+
+Subsec. (b)(3). Pub. L. 111–37, §3(f)(1)(B), substituted “$13,456” for “$4,038”.
+
+Subsec. (c)(1). Pub. L. 111–37, §3(f)(2)(A), substituted “$412” for “$115”.
+
+Subsec. (c)(3). Pub. L. 111–37, §3(f)(2)(B), substituted “$13,456” for “$4,038”.
+
+Subsec. (d)(1). Pub. L. 111–37, §3(f)(3)(A), substituted “$387” for “$109”.
+
+Subsec. (d)(3). Pub. L. 111–37, §3(f)(3)(B), substituted “$18,087” for “$5,430”.
+
+Subsec. (g). Pub. L. 111–37, §3(f)(4), substituted “$308” for “$85”.
+
 2006—Subsec. (g)(2). Pub. L. 109–233 substituted “blind, or so nearly blind or significantly disabled as to” for “helpless or blind, or so nearly helpless or blind as to”.
 
 1996—Subsec. (f)(1)(F). Pub. L. 104–275 substituted “servicemembers’ group” for “servicemen's group”.
@@ -88,7 +102,7 @@ The Social Security Act, referred to in subsec. (f)(1)(D), is act Aug. 14, 1935,
 
 1991—Pub. L. 102–83, §5(a), renumbered section 415 of this title as this section.
 
-Subsec. (a). Pub. L. 102–86 amended this section as in effect before the redesignations made by Pub. L. 102–83, §5, by amending subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Dependency and indemnity compensation shall be paid monthly to parents of a deceased veteran in the amounts prescribed by this section.”
+Subsec. (a). Pub. L. 102–86 amended this section as in effect before the redesignations made by Pub. L. 102–83,§5, by amending subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Dependency and indemnity compensation shall be paid monthly to parents of a deceased veteran in the amounts prescribed by this section.”
 
 Subsec. (b)(1). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
@@ -174,7 +188,7 @@ Subsec. (h). Pub. L. 94–432, §301(7), substituted “$74” for “$69”.
 
 Subsec. (b)(2). Pub. L. 94–169, §201(1), redesignated, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, subsec. (b)(2) as (b)(4), and in subsec. (b)(4) as so redesignated, substituted “such parent has remarried” for “he has remarried”, “with such parent's spouse” for “with his spouse”, “paid to such parent” for “paid to him” and “parent and such parent's spouse” for “parent and his spouse”.
 
-Subsec. (c). Pub. L. 94–169, §201(3), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, monthly rate of compensation from $86 to $93, substituted $1100 to $1600 for $1100 to $2100, $1600 to $2400 for $2100 to $2500 and $2400 to $3300 for $2500 to $3000, the minimum and maximum income ranges for which the compensation rate will be reduced 4, 5 and 6 cents, respectively, increased from $4.00 to $5.00 the minimum payable compensation, and increased from $3000 to $3300 the income in excess of which no compensation will be paid.
+Subsec. (c). Pub. L. 94–169, §201(3), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, monthly rate of compensation from $86 to $93, substituted $1100 to $1600 for $1100 to $2100, $1600 to $2400 for $2100 to $2500 and $2400 to $3300 for $2500 to $3000, the minimum and maximum income ranges for which the compensation rate will be reduced 4, 5 and 6 cents, respectively, increased from $4.00 to $5.00 the minimum payable compensation, and increased from $3000 to $3300the income in excess of which no compensation will be paid.
 
 Subsec. (d). Pub. L. 94–169, §201(3), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, basic rate of monthly compensation from $83 to $90, substituted $1000 to $2300 for $1100 to $2500, $2300 to $3300 for $2500 to $3500 and $3300 to $4500 for $3500 to $4200 the minimum and maximum income ranges for which the compensation rate will be reduced by 2, 3, and 4 cents, respectively, struck out the income range of $1000 to $1100 for which the reduction rate is 1 cent per dollar, increased from $4.00 to $5.00 the minimum payable compensation, and increased from $4200 to $4500 the income in excess of which no compensation will be paid.
 
@@ -218,11 +232,11 @@ Subsec. (g)(2), (3). Pub. L. 92–197, §4(d), redesignated par. (2) as par. (3)
 
 Subsec. (h). Pub. L. 92–197, §4(e), added subsec. (h).
 
-1970—Subsec. (b)(1). Pub. L. 91–588, §2(a), provided new annual income limits to measure monthly compensation of one parent by adding minimum income limits of $2,000, $2,100, and $2,200 with maximum limitsof $2,100, $2,200, and $2,300 for monthly benefits of $18, $12, and $10, respectively, and within existing annual income limits from a maximum of $800 to a maximum of $2,000, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II “$96” for “$87”, “94” for “81”, “91” for “75”, “87” for “69”, “81” for “62”, “75” for “54”, “69” for “46”, “62” for “38”, “54” for “31”, “46” for “25”, “38” for “18”, “31” for “12”, and “25” for “10”.
+1970—Subsec. (b)(1). Pub. L. 91–588, §2(a), provided new annual income limits to measure monthly compensation of one parent by adding minimum income limits of $2,000, $2,100, and $2,200 with maximum limits of $2,100, $2,200, and $2,300 for monthly benefits of $18, $12, and $10, respectively, and within existing annual income limits from a maximum of $800 to a maximum of $2,000, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II “$96” for “$87”, “94” for “81”, “91” for “75”, “87” for “69”, “81” for “62”, “75” for “54”, “69” for “46”, “62” for “38”, “54” for “31”, “46” for “25”, “38” for “18”, “31” for “12”, and “25” for “10”.
 
 Subsec. (c). Pub. L. 91–588, §2(b), provided new annual income limits to measure monthly compensation of two parents not living together by adding minimum income limits of $2,000, $2,100, and $2,200 with maximum limits of $2,100, $2,200, and $2,300 for monthly benefits of $14, $12, and $10, respectively, and within existing annual income limits from a maximum of $800 to a maximum of $2,000, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II “$66” for “$58”, “64” for “54”, “61” for “50”, “58” for “46”, “54” for “41”, “50” for “35”, “46” for “29”, “41” for “23”, “35” for “20”, “29” for “16”, “23” for “12”, “20” for “11”, and “16” for “10”.
 
-Subsec. (d). Pub. L. 91–588, §2(c), provided new annual income limits to measure monthly compensation of two parents living together by adding minimum income limits of $3,200, $3,300, and $3,400 with maximum limits of $3,300, $3,400, and $3,500 for monthly benefits of $14, $12, and $10, respectively, and within existing annual income limits from a maximum of $1,000 to a maximum of $3,200, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II “$64” for “$58”, “62” for “56”, “60” for “54”, “58” for “52”, “56” for “49”, “54” for “46”, “52” for “44”, “49” for “42”, “46” for “40”, “44” for “38”, “42” for “35”, “40” for “33”, “38” for “31”, “35” for “29”, “33” for “26”, “31” for “23”, “29” for “21”, “27” for “19”, “25” for “17”, “23” for “15”, “21” for “12”, “19” for “11”, and “17” for “10”.
+Subsec. (d). Pub. L. 91–588, §2(c), provided new annual income limits to measure monthly compensation of two parents living together by adding minimum income limits of $3,200, $3,300, and $3,400 with maximum limits of $3,300, $3,400, and $3,500 for monthly benefits of $14, $12, and $10, respectively, and within existing annual income limits from a maximum of $1,000 to a maximum of $3,200, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II “$64” for “$58”, “62” for “56”, “60” for “54”, “58” for “52”, “56” for “49”, “54” for “46”, “52” for “44”, “49” for “42”, “46” for “40”, “44” for “38”, “42” for “35”, “40” for “33”, “38” for “31”, “35” for “29”, “33” for “26”, “31” for“23”, “29” for “21”, “27” for “19”, “25” for “17”, “23” for “15”, “21” for “12”, “19” for “11”, and “17” for “10”.
 
 Subsec. (e). Pub. L. 91–588, §2(d), exempted from filing requirement any parent who has attained 72 years of age and has been paid dependency and indemnity compensation during two consecutive calendar years.
 
@@ -249,6 +263,10 @@ Subsec. (g)(1). Pub. L. 89–730, §2, in cl. (C) struck out “chapter 11” an
 Subsecs. (c), (d). Pub. L. 88–21, §4(b), substituted in Column II of tables “$55”, “$44”, “$33”, “$22”, and “$11” for “50”, “$40”, “$30”, “$20” and “$10”, respectively.
 
 1961—Subsec. (g)(1)(C). Pub. L. 87–268 substituted “section 412(a)” for “section 412”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–37 effective Dec. 1, 2008, see section 3(g) of Pub. L. 111–37, set out as a note under section 1114 of this title.
 
 #### Effective Date of 1980 Amendment
 

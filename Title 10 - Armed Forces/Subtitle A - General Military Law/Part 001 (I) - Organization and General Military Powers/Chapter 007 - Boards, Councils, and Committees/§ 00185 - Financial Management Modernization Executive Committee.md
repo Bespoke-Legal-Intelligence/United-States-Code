@@ -28,7 +28,7 @@ Duties.—In addition to other matters assigned to it by the Secretary of Defens
 
 &emsp;(3) To supervise and monitor the actions that are necessary to implement the management plan developed pursuant to paragraph (2), as approved by the Secretary of Defense.
 
-&emsp;(4) To ensure that a Department of Defense financial management enterprise architecture is developed and maintained in accordance with—
+&emsp;(4) To ensure that a Department of Defense financial management enterprise architectureis developed and maintained in accordance with—
 
 &emsp;&emsp;(A) the overall business process transformation strategy of the Department; and
 

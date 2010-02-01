@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(A) each invoice be reviewed as soon as practicable after receipt for the purpose of determining that such an invoice is a proper invoice within the meaning of section 3901(a)(3) of this title;
 
-&emsp;&emsp;(B) any invoice determined not to be such a proper invoice suitable for payment shallbe returned as soon as practicable, but not later than 7 days, after receipt, specifying the reasons that the invoice is not a proper invoice; and
+&emsp;&emsp;(B) any invoice determined not to be such a proper invoice suitable for payment shall be returned as soon as practicable, but not later than 7 days, after receipt, specifying the reasons that the invoice is not a proper invoice; and
 
 &emsp;&emsp;(C) the number of days available to an agency to make a timely payment of an invoice without incurring an interest penalty shall be reduced by the number of days by which an agency exceeds the requirements of subparagraph (B) of this paragraph;
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(ii) payments to subcontractors and suppliers have been made from previous payments received under the contract, and timely payments will be made from the proceeds of the payment covered by the certification, in accordance with their subcontract agreements and the requirements of this chapter; and
 
-&emsp;&emsp;(iii) the application does not include any amounts which the prime contractor intends to withhold or retain from a subcontractor or supplier in accordance with the terms and conditions of their subcontract.
+&emsp;&emsp;(iii) the application does not include any amounts which the prime contractor intendsto withhold or retain from a subcontractor or supplier in accordance with the terms and conditions of their subcontract.
 
 (2) The agency shall return any such payment request which is defective to the contractor within 7 days after receipt, with a statement identifying the defect.
 

@@ -6,7 +6,7 @@ The purpose of this chapter is—
 
 &emsp;(2) to provide a statutory basis for the regulation of gaming by an Indian tribe adequate to shield it from organized crime and other corrupting influences, to ensure that the Indian tribe is the primary beneficiary of the gaming operation, and to assure that gaming is conducted fairly and honestly by both the operator and players; and
 
-&emsp;(3) to declare that the establishment of independent Federal regulatory authority for gaming on Indian lands, the establishment of Federal standards for gaming on Indian lands, and the establishment of a National Indian Gaming Commission are necessary to meet congressional concerns regarding gaming and to protect such gaming as a means of generating tribal revenue.
+&emsp;(3) to declare that the establishment of independent Federal regulatory authority for gaming on Indian lands, the establishment of Federal standards for gaming on Indian lands, andthe establishment of a National Indian Gaming Commission are necessary to meet congressional concerns regarding gaming and to protect such gaming as a means of generating tribal revenue.
 
 (Pub. L. 100–497, §3, Oct. 17, 1988, 102 Stat. 2467.)
 

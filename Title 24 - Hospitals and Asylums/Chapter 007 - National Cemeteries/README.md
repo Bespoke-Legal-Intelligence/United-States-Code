@@ -40,7 +40,7 @@ Vicksburg National Military Park, Mississippi.
 
 #### national parks
 
-Abraham Lincoln National Park, Kentucky.
+Abraham Lincoln National Park (now Abraham Lincoln Birthplace National Historical Park), Kentucky.
 
 Fort McHenry National Park, Maryland.
 

@@ -14,7 +14,7 @@
 
 &emsp;(iii) Any veteran who served on active duty—
 
-&emsp;&emsp;(I) in a theater of combat operations (as determined by the Secretary in consultationwith the Secretary of Defense) during a period of war after the Persian Gulf War; or
+&emsp;&emsp;(I) in a theater of combat operations (as determined by the Secretary in consultation with the Secretary of Defense) during a period of war after the Persian Gulf War; or
 
 &emsp;&emsp;(II) in combat against a hostile force during a period of hostilities (as defined in paragraph (2)(B)) after November 11, 1998.
 
@@ -24,7 +24,7 @@
 
 (3) Upon request of a veteran described in paragraph (1)(B)(iii), the Secretary shall provide the veteran a preliminary general mental health assessment as soon as practicable after receiving the request, but not later than 30 days after receiving the request.
 
-(b)(1) If, on the basis of the assessment furnished under subsection (a) of this section, a physician or psychologist employed by the Department (or, in areas where no such physician or psychologist is available, a physician or psychologist carrying out such function under a contract or fee arrangement with the Secretary) determines that the provision of mental health services to such veteran is necessary to facilitate the successful readjustment of the veteran to civilian life, such veteran shall, within the limits of Department facilities, be furnished such services on an outpatient basis. For the purposes of furnishing such mental health services, the counseling furnished under subsection (a) of this section shall be considered to have been furnished by the Department as a part of hospital care. Any hospital care and other medical services considered necessary on the basis of the assessment furnished under subsection (a) of this section shall be furnished only in accordance with the eligibility criteria otherwise set forth in this chapter (including the eligibility criteria set forth in section 1784 of this title).
+(b)(1) If, on the basis of the assessment furnished under subsection (a) of this section, a physician or psychologist employed by the Department (or, in areas where no such physician or psychologist is available, a physician or psychologist carrying out such function under a contract or fee arrangement with the Secretary) determines that the provision of mental health services to such veteran is necessary to facilitate the successful readjustment of the veteran to civilian life, such veteran shall, within thelimits of Department facilities, be furnished such services on an outpatient basis. For the purposes of furnishing such mental health services, the counseling furnished under subsection (a) of this section shall be considered to have been furnished by the Department as a part of hospital care. Any hospital care and other medical services considered necessary on the basis of the assessment furnished under subsection (a) of this section shall be furnished only in accordance with the eligibility criteria otherwise set forth in this chapter (including the eligibility criteria set forth in section 1784 of this title).
 
 (2) Mental health services furnished under paragraph (1) of this subsection may, if determined to be essential to the effective treatment and readjustment of the veteran, include such consultation, counseling, training, services, and expenses as are described in sections 1782 and 1783 of this title.
 
@@ -622,7 +622,7 @@ Covered Programs.—For purposes of this section, the term ‘specialized mental
 
 “(c)
 
-Funding.—(1) In carrying out the program described in subsection (a), the Secretary shall identify,from funds available to the Department \[of Veterans Affairs\] for medical care, an amount of not less than $25,000,000 in each of fiscal years 2004, 2005, and 2006 to be available to carry out the program and to be allocated to facilities of the Department pursuant to subsection (d).
+Funding.—(1) In carrying out the program described in subsection (a), the Secretary shall identify, from funds available to the Department \[of Veterans Affairs\] for medical care, an amount of not less than $25,000,000 in each of fiscal years 2004, 2005, and 2006 to be available to carry out the program and to be allocated to facilities of the Department pursuant to subsection (d).
 
 “(2) In identifying available amounts pursuant to paragraph (1), the Secretary shall ensure that, after the allocation of those funds under subsection (d), the total expenditure for programs relating to (A) the treatment of post-traumatic stress disorder, and (B) substance use disorders is not less than $25,000,000 in excess of the baseline amount.
 
@@ -704,7 +704,7 @@ Contract Counseling Services.—(1) Subject to paragraphs (2) and (4), a mental 
 
 “(B) The Secretary may waive the prohibition referred to in subparagraph (A) for locations (as determined by the Secretary) in which the Secretary is unable to obtain the assessment referred to in that subparagraph from a mental health professional other than the mental health professional with whom the Secretary enters into contracts under subsection (d)(1)(C) for the furnishing of counseling services.
 
-“(3) The Secretary shall reimburse mental health professionals for the reasonable cost (as determined bythe Secretary) of furnishing counseling services under paragraph (1). In the event of the disapproval of a treatment plan of a person submitted by a mental health professional under paragraph (1)(B)(i), the Secretary shall reimburse the mental health professional for the reasonable cost (as so determined) of furnishing counseling services to the person for the period beginning on the date of the commencement of such services and ending on the date of the disapproval.
+“(3) The Secretary shall reimburse mental health professionals for the reasonable cost (as determined by the Secretary) of furnishing counseling services under paragraph (1). In the event of the disapproval of a treatment plan of a person submitted by a mental health professional under paragraph (1)(B)(i), the Secretary shall reimburse the mental health professional for the reasonable cost (as so determined) of furnishing counseling services to the person for the period beginning on the date of the commencement of such services and ending on the date of the disapproval.
 
 “(4) The Secretary may authorize the furnishing of counseling in an individual case for a period shorter than the 90-day period specified in subparagraph (B) or (C) of paragraph (1) and, upon further consideration, extend the shorter period to the full 90 days.
 
@@ -806,7 +806,7 @@ Pub. L. 100–322, title I, §107(f), May 20, 1988, 102 Stat. 496, as amended by
 
 Pub. L. 98–528, title I, §110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pub. L. 106–117, title II, §206, Nov. 30, 1999, 113 Stat. 1563; Pub. L. 108–170, title IV, §405(e), Dec. 6, 2003, 117 Stat. 2063; Pub. L. 110–387, §202, Oct. 10, 2008, 122 Stat. 4120, provided that:
 
-“(a)(1) The Under Secretary for Health of the Department of Veterans Affairs may designate special programs within the Veterans Health Administration for the diagnosis and treatment of post-traumatic-stress disorder (hereinafter in this section referred to as ‘PTSD’).
+“(a)(1) The Under Secretary for Health of the Department of Veterans Affairs may designate special programs within the Veterans Health Administration for the diagnosis and treatment of post-traumatic-stressdisorder (hereinafter in this section referred to as ‘PTSD’).
 
 “(2) The Under Secretary for Health shall direct (A) that (in addition to providing diagnostic and treatment services for PTSD) Department programs designated under paragraph (1) (hereinafter in this section referred to as ‘designated PTSD programs’) carry out activities to promote the education and training of health-care personnel (including health-care personnel not working for the Department or the Federal Government) in the causes, diagnosis, and treatment of PTSD, and (B) that (when appropriate) the provision of treatment services under such program be coordinated with the provision of readjustment counseling services under section 1712A of title 38, United States Code.
 
@@ -852,7 +852,7 @@ Pub. L. 98–528, title I, §110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pu
 
 &emsp;“(G) A description of the steps taken, plans made (and a timetable for their execution), and resources to be applied to implement subsections (b) and (c).
 
-&emsp;“(H) The assessment of the Administrator \[now Secretary\] of the capacity of the Department to meet in all geographic areas of the United States the needs described in subparagraph (C) and any plans andtimetable for increasing that capacity (including the costs of such action).
+&emsp;“(H) The assessment of the Administrator \[now Secretary\] of the capacity of the Department to meet in all geographic areas of the United States the needs described in subparagraph (C) and any plans and timetable for increasing that capacity (including the costs of such action).
 
 “(2) Not later than February 1, 2001, and May 1 of each year through 2012, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report containing information updating the reports submitted under this subsection since the enactment of the Veterans’ Millennium Health Care and Benefits Act \[Nov. 30, 1999\].”
 

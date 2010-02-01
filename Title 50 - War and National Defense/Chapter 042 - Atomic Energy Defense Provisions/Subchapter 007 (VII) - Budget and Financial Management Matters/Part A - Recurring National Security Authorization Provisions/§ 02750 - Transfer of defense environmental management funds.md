@@ -50,5 +50,5 @@ Section was formerly classified to section 7386i of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (c). Pub. L. 108–136, §3141(j)(2)(D)(iv), made technical amendment to reference in original act which appears in text as reference to section 2742 of this title.
+2003—Subsec. (c). Pub. L. 108–136, §3141(j)(2)(D)(iv), made technical amendment to reference in original act which appears in text as reference to section 2742 of this title.
 

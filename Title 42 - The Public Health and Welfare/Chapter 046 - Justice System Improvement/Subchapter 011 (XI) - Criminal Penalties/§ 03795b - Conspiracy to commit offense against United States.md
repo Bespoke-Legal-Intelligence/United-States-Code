@@ -1,6 +1,6 @@
 ### §3795b. Conspiracy to commit offense against United States
 
-Any law enforcement or criminal justice program or project underwritten, in whole or in part, by any grant, or contract or other form of assistance pursuant to this chapter, whether received directly or indirectly from the Office of Justice Programs, Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics shall be subject to the provisions of section 371 of title 18.
+Any law enforcement or criminal justice program or project underwritten, in whole or inpart, by any grant, or contract or other form of assistance pursuant to this chapter, whether received directly or indirectly from the Office of Justice Programs, Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics shall be subject to the provisions of section 371 of title 18.
 
 (Pub. L. 90–351, title I, §1103, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1219; amended Pub. L. 98–473, title II, §609E(b), Oct. 12, 1984, 98 Stat. 2098.)
 

@@ -38,13 +38,13 @@ Section was formerly classified to section 404d–1 of this title prior to renum
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(K), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+2004—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(K), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 Subsec. (d)(1). Pub. L. 108–458, §1072(a)(4), which directed amendment of par. (1) by substituting “section 403–1(i)” for “section 403–3(c)(6)”, was executed by making the substitution for “section 403–3(c)(7)” to reflect the probable intent of Congress and the amendment by Pub. L. 108–177, §377(a). See 2003 Amendment note below.
 
 Pub. L. 108–458, §1071(a)(1)(L), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–177, §361(b)(1), substituted “Annual” for “Periodic” in heading.
+2003—Subsec. (b). Pub. L. 108–177, §361(b)(1), substituted “Annual” for “Periodic” in heading.
 
 Subsec. (b)(1). Pub. L. 108–177, §361(b)(2), substituted “annually” for “semiannually”.
 
@@ -52,7 +52,7 @@ Subsec. (b)(3). Pub. L. 108–177, §361(b)(3), substituted “the annual” for
 
 Subsec. (d)(1). Pub. L. 108–177, §377(a), substituted “section 403–3(c)(7)” for “section 403–3(c)(6)”.
 
-<b>2002</b>—Subsec. (b)(3). Pub. L. 107–306 added par. (3).
+2002—Subsec. (b)(3). Pub. L. 107–306 added par. (3).
 
 #### Effective Date of 2004 Amendment
 

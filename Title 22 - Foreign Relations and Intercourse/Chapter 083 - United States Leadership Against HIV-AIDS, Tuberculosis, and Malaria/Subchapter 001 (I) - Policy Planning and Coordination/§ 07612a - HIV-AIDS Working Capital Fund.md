@@ -18,7 +18,7 @@
 
 (3) There may be deposited during any fiscal year in the HIV/AIDS Fund payments for HIV/AIDS pharmaceuticals and products provided from the HIV/AIDS Fund received from applicable appropriations and funds of the United States Agency for International Development, the Department of Health and Human Services, the Department of Defense, or other Federal agencies and other sources at actual cost of the HIV/AIDS pharmaceuticals and other products, actual cost plus the additional costs of providing such HIV/AIDS pharmaceuticals and other products, or at any other price agreed to by the Coordinator or his designee.
 
-(4) There may be deposited in the HIV/AIDS Fund payments for the loss of, or damage to, HIV/AIDS pharmaceuticals and products held inthe HIV/AIDS Fund, rebates, reimbursements, refunds and other credits applicable to the operation of the HIV/AIDS Fund.
+(4) There may be deposited in the HIV/AIDS Fund payments for the loss of, or damage to, HIV/AIDS pharmaceuticals and products held in the HIV/AIDS Fund, rebates, reimbursements, refunds and other credits applicable to the operation of the HIV/AIDS Fund.
 
 (5) At the close of each fiscal year the Coordinator may transfer out of the HIV/AIDS Fund to other HIV/AIDS programmatic areas such amounts as the Coordinator determines to be in excess of the needs of the HIV/AIDS Fund.
 

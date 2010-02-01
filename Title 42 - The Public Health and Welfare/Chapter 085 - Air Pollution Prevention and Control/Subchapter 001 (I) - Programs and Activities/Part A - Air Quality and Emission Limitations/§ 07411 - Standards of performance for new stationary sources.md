@@ -38,7 +38,7 @@ For purposes of this section:
 
 (5) Except as otherwise authorized under subsection (h) of this section, nothing in this section shall be construed to require, or to authorize the Administrator to require, any new or modified source to install and operate any particular technological system of continuous emission reduction to comply with any new source standard of performance.
 
-(6) The revised standards of performance required by enactment of subsection (a)(1)(A)(i) and (ii) <sup>1</sup> of this section shall be promulgated not later than one year after August 7, 1977. Any new or modified fossil fuel fired stationary source which commences construction prior to the date of publication of the proposed revised standards shall not be required to comply with such revised standards.
+(6) The revised standards of performance required by enactment of subsection (a)(1)(A)(i)and (ii) <sup>1</sup> of this section shall be promulgated not later than one year after August 7, 1977. Any new or modified fossil fuel fired stationary source which commences construction prior to the date of publication of the proposed revised standards shall not be required to comply with such revised standards.
 
 #### (c) State implementation and enforcement of standards of performance
 
@@ -84,7 +84,7 @@ After the effective date of standards of performance promulgated under this sect
 
 #### (g) Revision of regulations
 
-(1) Upon application by the Governor of a State showing that the Administrator has failedto specify in regulations under subsection (f)(1) of this section any category of major stationary sources required to be specified under such regulations, the Administrator shall revise such regulations to specify any such category.
+(1) Upon application by the Governor of a State showing that the Administrator has failed to specify in regulations under subsection (f)(1) of this section any category of major stationary sources required to be specified under such regulations, the Administrator shall revise such regulations to specify any such category.
 
 (2) Upon application of the Governor of a State, showing that any category of stationary sources which is not included in the list under subsection (b)(1)(A) of this section contributes significantly to air pollution which may reasonably be anticipated to endanger public health or welfare (notwithstanding that such category is not a category of major stationary sources), the Administrator shall revise such regulations to specify such category of stationary sources.
 
@@ -128,7 +128,7 @@ Any regulations promulgated by the Administrator under this section applicable t
 
 &emsp;(i) the proposed system or systems have not been adequately demonstrated,
 
-&emsp;(ii) the proposed system or systems will operate effectively and there is a substantiallikelihood that such system or systems will achieve greater continuous emission reduction than that required to be achieved under the standards of performance which would otherwise apply, or achieve at least an equivalent reduction at lower cost in terms of energy, economic, or nonair quality environmental impact,
+&emsp;(ii) the proposed system or systems will operate effectively and there is a substantial likelihood that such system or systems will achieve greater continuous emission reduction than that required to be achieved under the standards of performance which would otherwise apply, or achieve at least an equivalent reduction at lower cost in terms of energy, economic, or nonair quality environmental impact,
 
 &emsp;(iii) the owner or operator of the proposed source has demonstrated to the satisfaction of the Administrator that the proposed system will not cause or contribute to an unreasonable risk to public health, welfare, or safety in its operation, function, or malfunction, and
 
@@ -178,7 +178,7 @@ Any regulations promulgated by the Administrator under this section applicable t
 
 Such Act, referred to in subsec. (a)(8), means Pub. L. 93–319, June 22, 1974, 88 Stat. 246, as amended, known as the Energy Supply and Environmental Coordination Act of 1974, which is classified principally to chapter 16C (§791 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 791 of Title 15 and Tables.
 
-Section 7413 of this title, referred to in subsec. (a)(8), was amended generally by Pub. L. 101–549, title VII,§701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, subsec. (d) of section 7413 no longer relates to final compliance orders.
+Section 7413 of this title, referred to in subsec. (a)(8), was amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, subsec. (d) of section 7413 no longer relates to final compliance orders.
 
 Subsection (a)(1) of this section, referred to in subsec. (b)(6), was amended generally by Pub. L. 101–549, title VII, §403(a), Nov. 15, 1990, 104 Stat. 2631, and, as so amended, no longer contains subpars.
 
@@ -196,7 +196,7 @@ A prior section 111 of act July 14, 1955, was renumbered section 118 by Pub. L. 
 
 Subsec. (a)(3). Pub. L. 101–549, §108(f), inserted at end “Nothing in subchapter II of this chapter relating to nonroad engines shall be construed to apply to stationary internal combustion engines.”
 
-Subsec. (b)(1)(B). Pub. L. 101–549, §108(e)(1), substituted “Within one year” for “Within 120 days”, “within one year” for “within 90 days”, and “every 8 years” for “every four years”, inserted before last sentence “Notwithstanding the requirements of the previous sentence, the Administrator need not review any such standard if the Administrator determines that such review is not appropriate in light of readily available information on the efficacy of such standard.”, and inserted at end “When implementation and enforcement of any requirement of this chapter indicate that emission limitations and percent reductions beyond those required by the standards promulgated under this section are achieved in practice, the Administrator shall, when revising standards promulgated under this section, consider the emission limitations and percent reductions achieved in practice.”
+Subsec. (b)(1)(B). Pub. L. 101–549, §108(e)(1), substituted “Within one year” for “Within 120 days”,“within one year” for “within 90 days”, and “every 8 years” for “every four years”, inserted before last sentence “Notwithstanding the requirements of the previous sentence, the Administrator need not review any such standard if the Administrator determines that such review is not appropriate in light of readily available information on the efficacy of such standard.”, and inserted at end “When implementation and enforcement of any requirement of this chapter indicate that emission limitations and percent reductions beyond those required by the standards promulgated under this section are achieved in practice, the Administrator shall, when revising standards promulgated under this section, consider the emission limitations and percent reductions achieved in practice.”
 
 Subsec. (d)(1)(A)(i). Pub. L. 101–549, §302(a), which directed the substitution of “7412(b)” for “7412(b)(1)(A)”, could not be executed, because of the prior amendment by Pub. L. 101–549, §108(g), see below.
 
@@ -246,7 +246,7 @@ Pub. L. 95–95, §109(e), added subsec. (k).
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d)of Pub. L. 95–95, set out as a note under section 7401 of this title.
+Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
 #### Regulations
 
@@ -262,7 +262,7 @@ Applicability.—The provisions of subsections (a) \[amending this section\] and
 
 #### Transfer of Functions
 
-Enforcement functions of Administrator or other official in Environmental Protection Agency related to compliance with new source performance standards under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, eff. July 1, 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Administrator or other official in Environmental Protection Agency related to compliance with new source performance standards under this section with respect to pre-construction, construction, and initial operation of transportationsystem for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, eff. July 1, 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 #### Pending Actions and Proceedings
 

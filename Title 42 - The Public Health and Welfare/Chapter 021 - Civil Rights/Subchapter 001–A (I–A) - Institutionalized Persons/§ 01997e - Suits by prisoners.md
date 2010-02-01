@@ -18,7 +18,7 @@ The failure of a State to adopt or adhere to an administrative grievance procedu
 
 (1) In any action brought by a prisoner who is confined to any jail, prison, or other correctional facility, in which attorney's fees are authorized under section 1988 <sup>1</sup> of this title, such fees shall not be awarded, except to the extent that—
 
-&emsp;(A) the fee was directly and reasonably incurred in proving an actual violation of theplaintiff's rights protected by a statute pursuant to which a fee may be awarded under section 1988 <sup>1</sup> of this title; and
+&emsp;(A) the fee was directly and reasonably incurred in proving an actual violation of the plaintiff's rights protected by a statute pursuant to which a fee may be awarded under section 1988 <sup>1</sup> of this title; and
 
 &emsp;(B)(i) the amount of the fee is proportionately related to the court ordered relief for the violation; or
 
@@ -50,7 +50,7 @@ No Federal civil action may be brought by a prisoner confined in a jail, prison,
 
 As used in this section, the term “prisoner” means any person incarcerated or detained in any facility who is accused of, convicted of, sentenced for, or adjudicated delinquent for, violations of criminal law or the terms and conditions of parole, probation, pretrial release, or diversionary program.
 
-(Pub. L. 96–247, §7, May 23, 1980, 94 Stat. 352; Pub. L. 103–322, title II, §20416(a), Sept. 13, 1994, 108 Stat. 1833; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §803(d)\], Apr. 26, 1996, 110 Stat. 1321, 1321–71; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 96–247, §7, May 23, 1980, 94 Stat. 352; Pub. L. 103–322, title II, §20416(a), Sept. 13, 1994, 108Stat. 1833; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §803(d)\], Apr. 26, 1996, 110 Stat. 1321, 1321–71; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
@@ -76,7 +76,7 @@ Pub. L. 105–277, div. A, §101(b) \[title I, §127\], Oct. 21, 1998, 112 Stat.
 
 &emsp;“(2) the home address, home phone number, social security number, identity of family members, personal tax returns, and personal banking information of a person described in paragraph (1), and any other records or information of a similar nature relating to that person, shall not be subject to disclosure without the written consent of that person, or pursuant to a court order.”
 
-\[Pub. L. 105–277, div. A, §101(b) \[title I, §127\], set out above, applicable to fiscal year 2000 and thereafter, see Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §109\], set out as an Applicability of Provisions Relating to Use of Counterterrorism Appropriations and Nondisclosure ofInformation in Actions Brought by Prisoners note under section 524 of Title 28, Judiciary and Judicial Procedure.\]
+\[Pub. L. 105–277, div. A, §101(b) \[title I, §127\], set out above, applicable to fiscal year 2000 and thereafter, see Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §109\], set out as an Applicability of Provisions Relating to Use of Counterterrorism Appropriations and Nondisclosure of Information in Actions Brought by Prisoners note under section 524 of Title 28, Judiciary and Judicial Procedure.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

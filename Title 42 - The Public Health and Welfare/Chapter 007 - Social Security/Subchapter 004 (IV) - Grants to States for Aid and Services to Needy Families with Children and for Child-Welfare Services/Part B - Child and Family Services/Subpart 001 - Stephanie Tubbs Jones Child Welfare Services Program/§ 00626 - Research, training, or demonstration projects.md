@@ -8,7 +8,7 @@ There are hereby authorized to be appropriated for each fiscal year such sums as
 
 &emsp;&emsp;(A) to public or other nonprofit institutions of higher learning, and to public or other nonprofit agencies and organizations engaged in research or child-welfare activities, for special research or demonstration projects in the field of child welfare which are of regional or national significance and for special projects for the demonstration of new methods or facilities which show promise of substantial contribution to the advancement of child welfare;
 
-&emsp;&emsp;(B) to State or local public agencies responsible for administering, or supervising the administration of, the plan under this part, for projects for the demonstration of the utilization of research (including findings resulting therefrom) in the field of childwelfare in order to encourage experimental and special types of welfare services; and
+&emsp;&emsp;(B) to State or local public agencies responsible for administering, or supervising the administration of, the plan under this part, for projects for the demonstration of the utilization of research (including findings resulting therefrom) in the field of child welfare in order to encourage experimental and special types of welfare services; and
 
 &emsp;&emsp;(C) to public or other nonprofit institutions of higher learning for special projects for training personnel for work in the field of child welfare, including traineeships described in section 628a <sup>1</sup> of this title with such stipends and allowances as may be permitted by the Secretary; and
 

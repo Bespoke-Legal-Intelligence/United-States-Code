@@ -18,7 +18,7 @@ Recognition.—(1) Except as provided in paragraph (4), the Secretary may recogn
 
 (5) The Secretary may prescribe in regulations reasonable restrictions on the amount of fees that an agent or attorney may charge a claimant for services rendered in the preparation, presentation, and prosecution of a claim before the Department. A fee that does not exceed 20 percent of the past due amount of benefits awarded on a claim shall be presumed to be reasonable.
 
-(6)(A) The Secretary may charge and collect an assessment from an individual recognized as an agent or attorney under this section in any case in which the Secretary pays to the agent orattorney, from past-due benefits owed to a claimant represented by the agent or attorney, an amount as a fee in accordance with a fee arrangement between the claimant and the agent or attorney.
+(6)(A) The Secretary may charge and collect an assessment from an individual recognized as an agent or attorney under this section in any case in which the Secretary pays to the agent or attorney, from past-due benefits owed to a claimant represented by the agent or attorney, an amount as a fee in accordance with a fee arrangement between the claimant and the agent or attorney.
 
 (B) The amount of an assessment under subparagraph (A) shall be equal to five percent of the amount of the fee required to be paid to the agent or attorney, except that the amount of such an assessment may not exceed $100.
 
@@ -50,7 +50,7 @@ Suspension of Agents and Attorneys.—The Secretary, after notice and opportunit
 
 &emsp;(9) has failed to comply with any other condition specified in regulations prescribed by the Secretary for purposes of this subsection.
 
-(c)(1) Except as provided in paragraph (4), in connection with a proceeding before the Department with respect to benefits under laws administered by the Secretary, a fee may not be charged, allowed, or paid for services of agents and attorneys with respect to services provided before the date on which a notice of disagreement is filed with respect to the case. The limitation in the preceding sentence does not apply to fees charged, allowed, or paid for services provided with respect to proceedings before a court.
+(c)(1) Except as provided in paragraph (4), in connection with a proceeding before the Department with respect to benefits under laws administered by the Secretary, a fee may not be charged, allowed, or paid for services of agents and attorneys with respect to services provided before the date on which a notice of disagreement is filed with respect to the case. The limitation in the preceding sentence does not applyto fees charged, allowed, or paid for services provided with respect to proceedings before a court.
 
 (2) A person who, acting as agent or attorney in a case referred to in paragraph (1) of this subsection, represents a person before the Department or the Board of Veterans’ Appeals after a notice of disagreement is filed with respect to the case shall file a copy of any fee agreement between them with the Secretary pursuant to regulations prescribed by the Secretary.
 
@@ -74,7 +74,7 @@ Payment of Fees Out of Past-Due Benefits.—(1) When a claimant and an agent or 
 
 (B) For purposes of subparagraph (A), a claim shall be considered to have been resolved in a manner favorable to the claimant if all or any part of the relief sought is granted.
 
-(3) To the extent that past-due benefits are awarded in any proceeding before the Secretary, the Board of Veterans’ Appeals, or the United States Court of Appeals for Veterans Claims, the Secretary may direct that payment of any fee to an agent or attorney under a fee arrangement described in paragraph (1) be made out of such past-due benefits. In no event may the Secretarywithhold for the purpose of such payment any portion of benefits payable for a period after the date of the final decision of the Secretary, the Board of Veterans’ Appeals, or Court of Appeals for Veterans Claims making (or ordering the making of) the award.
+(3) To the extent that past-due benefits are awarded in any proceeding before the Secretary, the Board of Veterans’ Appeals, or the United States Court of Appeals for Veterans Claims, the Secretary may direct that payment of any fee to an agent or attorney under a fee arrangement described in paragraph (1) be made out of such past-due benefits. In no event may the Secretary withhold for the purpose of such payment any portion of benefits payable for a period after the date of the final decision of the Secretary, the Board of Veterans’ Appeals, or Court of Appeals for Veterans Claims making (or ordering the making of) the award.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1238, §3404; Pub. L. 99–576, title VII, §701(80), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–687, div. A, title I, §104(a), Nov. 18, 1988, 102 Stat. 4108; renumbered §5904 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 102–405, title III, §303(a), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–446, title V, §504(a), Nov. 2, 1994, 108 Stat. 4663; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 109–461, title I, §101(a)(1), (b), (c)(1), (d)–(f), Dec. 22, 2006, 120 Stat. 3405, 3407, 3408.)
 
@@ -174,9 +174,9 @@ Amendment by Pub. L. 100–687 effective Sept. 1, 1989, see section 401(a) of Pu
 
 Subsec. (d) of this section not to prevent award of fees and expenses under section 2412(d) of Title 28, Judiciary and Judicial Procedure, but subsec. (d) of this section inapplicable to such award where fees for the same work are received under both sections and claimant's attorney refunds to claimant amount of smaller fee, see section 506(c) of Pub. L. 102–572, set out as a note under section 2412 of Title 28.
 
-#### Applicability to Attorneys Fees
+#### Applicability to Attorneys’ Fees
 
-Section 403 of Pub. L. 100–687, which provided that the amendment to subsec. (c) of this section by section 104(a) of Pub. L. 100–687 applied only to services of agents and attorneys in cases in which a notice of disagreement was filed with the Department of Veterans Affairs on or after Nov. 18, 1988, was repealed by Pub. L. 107–103, title VI, §603(b), Dec. 27, 2001, 115 Stat. 999.
+Pub. L. 100–687, title IV, §403, Nov. 18, 1988, 102 Stat. 4122, which provided that the amendment to subsec. (c) of this section by section 104(a) of Pub. L. 100–687 applied only to services of agents and attorneys in cases in which a notice of disagreement was filed with the Department of Veterans Affairs on or after Nov. 18, 1988, was repealed by Pub. L. 107–103, title VI, §603(b), Dec. 27, 2001, 115 Stat. 999.
 
-\[Repeal of section 403 of Pub. L. 100–687, formerly set out above, applicable to any appeal filed with the United States Court of Appeals for Veterans Claims on or after Dec. 27, 2001, or before that date but in which a final decision has not been made under section 7291 of this title as of that date, see section 603(d) of Pub. 107–103, set out as a note under section 7251 of this title.\]
+\[Repeal of section 403 of Pub. L. 100–687, formerly set out above, applicable to any appeal filed with the United States Court of Appeals for Veterans Claims on or after Dec. 27, 2001, or before that date but in which a final decision has not been made under section 7291 of this title as of that date, see section 603(d) of Pub. L. 107–103, set out as a note under section 7251 of this title.\]
 

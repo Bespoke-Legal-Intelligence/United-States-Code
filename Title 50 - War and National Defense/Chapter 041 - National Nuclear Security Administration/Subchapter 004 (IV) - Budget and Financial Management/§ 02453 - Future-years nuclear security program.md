@@ -8,7 +8,7 @@ The Administrator shall submit to Congress each year, at or about the time that 
 
 Each future-years nuclear security program shall contain the following:
 
-&emsp;(1) A detailed description of the program elements (and the projects, activities, and construction projects associated with each such program element) during the applicable five-fiscal year period for at least each of the following:
+&emsp;(1) A detailed description of the program elements (and the projects, activities, and construction projects associated with each suchprogram element) during the applicable five-fiscal year period for at least each of the following:
 
 &emsp;&emsp;(A) For defense programs—
 
@@ -44,7 +44,7 @@ Each future-years nuclear security program shall contain the following:
 
 &emsp;&emsp;(B) for each site and for the nuclear weapons complex, the methods used by the National Nuclear Security Administration to establish priorities among investments in physical and cyber security technologies; and
 
-&emsp;&emsp;(C) a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal yearduring that five-fiscal year period will help carry out that plan.
+&emsp;&emsp;(C) a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal year period will help carry out that plan.
 
 #### (c) Consistency in budgeting
 
@@ -68,13 +68,13 @@ Section 3158 of the Strom Thurmond National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(6). Pub. L. 110–181 added par. (6).
+2008—Subsec. (b)(6). Pub. L. 110–181 added par. (6).
 
-<b>2006</b>—Subsec. (b)(5). Pub. L. 109–364 added par. (5).
+2006—Subsec. (b)(5). Pub. L. 109–364 added par. (5).
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–398, §1 \[div. C, title XXXI, §3154(a)\], added pars. (1) to (3), redesignated former par. (2) as (4), and struck out former par. (1) which read as follows: “The estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the Administration during the five-fiscal year period covered by the program, expressed in a level of detail comparable to that contained in the budget submitted by the President to Congress under section 1105 of title 31.”
+2000—Subsec. (b). Pub. L. 106–398, §1 \[div. C, title XXXI, §3154(a)\], added pars. (1) to (3), redesignated former par. (2) as (4), and struck out former par. (1) which read as follows: “The estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the Administration during the five-fiscal year period covered by the program, expressed in a level of detail comparable to that contained in the budget submitted by the President to Congress under section 1105 of title 31.”
 
-Subsec. (c). Pub. L. 106–398, §1 \[div. C, title XXXI, §3154(b)(1), (2)\], redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “The Administrator shall include in the materials the Administrator submits to Congress in support of the budget for any fiscal year that is submitted by the President pursuant to section 1105 of title 31 a description of how the funds identified for each program element in the weapons activities budget of the Administration for such fiscal year will help ensure that the nuclear weapons stockpile is safe and reliable as determined in accordance with the criteria established under section 3158 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 2257; 42 U.S.C. 2121 note).”
+Subsec. (c). Pub. L. 106–398, §1 \[div. C, title XXXI, §3154(b)(1), (2)\], redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “The Administrator shall include in the materials the Administrator submits to Congress insupport of the budget for any fiscal year that is submitted by the President pursuant to section 1105 of title 31 a description of how the funds identified for each program element in the weapons activities budget of the Administration for such fiscal year will help ensure that the nuclear weapons stockpile is safe and reliable as determined in accordance with the criteria established under section 3158 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 2257; 42 U.S.C. 2121 note).”
 
 Subsec. (d). Pub. L. 106–398, §1 \[div. C, title XXXI, §3154(b)(2), (3)\], redesignated subsec. (e) as (d) and substituted “subsection (c)” for “subsection (d)”. Former subsec. (d) redesignated (c).
 

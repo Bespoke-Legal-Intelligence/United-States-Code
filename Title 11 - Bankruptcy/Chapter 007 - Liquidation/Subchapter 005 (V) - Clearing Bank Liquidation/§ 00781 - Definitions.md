@@ -22,5 +22,5 @@ Section 3 of the Federal Deposit Insurance Act, referred to in par. (2), is clas
 
 Section 25A of the Federal Reserve Act, referred to in par. (3), popularly known as the Edge Act, is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 12 and Tables.
 
-Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in par. (3), is classified to section 4422 of Title 12, Banks and Banking.
+Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in par. (3), isclassified to section 4422 of Title 12, Banks and Banking.
 

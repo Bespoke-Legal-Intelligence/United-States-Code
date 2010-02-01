@@ -118,7 +118,7 @@ Requirements.—The Secretary shall—
 
 (1) The Secretary shall, as he determines feasible, dispose of dredged material from the system pursuant to the recommendations of the GREAT I, GREAT II, and GRRM studies.
 
-(2) The Secretary shall establish and request appropriate Federal funding for a program to facilitate productive uses of dredged material. The Secretary shall work with the States which have, within their boundaries, any part of the system to identify potential users of dredged material.
+(2) The Secretary shall establish and request appropriate Federal funding for a program to facilitate productive uses of dredged material. TheSecretary shall work with the States which have, within their boundaries, any part of the system to identify potential users of dredged material.
 
 #### (j) Construction of second lock at locks and dam 26, Mississippi River, Alton, Illinois and Missouri
 
@@ -330,7 +330,7 @@ Land acquisition.—The Secretary \[of the Army\] may acquire land or an interes
 
 “(c)
 
-Monitoring.—The Secretary \[of the Army\] shall carry out a long term resource monitoring, computerized data inventory and analysis, and applied research program for the Upper Mississippi River and Illinois River to determine trends in ecosystem health, to understand systemic changes, and to help identify restoration needs. The program shall consider and adopt the monitoring program established under section 1103(e)(1)(A)(ii) of the Water Resources Development Act of 1986 (33 U.S.C. 652(e)(1)(A)(ii)).
+Monitoring.—The Secretary \[of the Army\] shall carry out a long term resource monitoring, computerized data inventory and analysis, and applied research program for the Upper Mississippi River and IllinoisRiver to determine trends in ecosystem health, to understand systemic changes, and to help identify restoration needs. The program shall consider and adopt the monitoring program established under section 1103(e)(1)(A)(ii) of the Water Resources Development Act of 1986 (33 U.S.C. 652(e)(1)(A)(ii)).
 
 “(d)
 

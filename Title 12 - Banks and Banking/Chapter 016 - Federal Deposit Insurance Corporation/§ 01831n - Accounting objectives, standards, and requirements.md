@@ -42,7 +42,7 @@
 
 #### (C) Inclusion of “off balance sheet” items
 
-&emsp;&emsp;Develop and prescribe regulations which require that all assets and liabilities, including contingent assets and liabilities, of insured depository institutions be reported in, or otherwise taken into account in the preparation of any balance sheet, financial statement, report of condition, or other report ofsuch institution, required to be filed with a Federal banking agency.
+&emsp;&emsp;Develop and prescribe regulations which require that all assets and liabilities, including contingent assets and liabilities, of insured depository institutions be reported in, or otherwise taken into account in the preparation of any balance sheet, financial statement, report of condition, or other report of such institution, required to be filed with a Federal banking agency.
 
 #### (b) Uniform accounting of capital standards
 
@@ -116,7 +116,7 @@ Requirements.—Subparagraph (A) shall apply to any construction loan—
 
 &emsp;&emsp;&emsp;“(ii) under which the lender has acquired from the lender originating the mortgage loan for purchase of the residence, before the making of the construction loan—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) documentation demonstrating that the buyer of the residence intends to purchase the residence and has the ability to obtain a mortgage loan sufficient to purchase the residence; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) documentation demonstrating that the buyer of the residence intends to purchase theresidence and has the ability to obtain a mortgage loan sufficient to purchase the residence; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) any other documentation from the mortgage lender that the appropriate Federal banking agency may consider appropriate to provide assurance of the buyer's intent to purchase the property (including written commitments and letters of intent);
 
@@ -128,7 +128,7 @@ Requirements.—Subparagraph (A) shall apply to any construction loan—
 
 percent risk-weighted classification.—Not later than the expiration of the 120-day period beginning on the date of this Act \[Dec. 12, 1991\] each Federal banking agency shall amend the regulations and guidelines of the agency establishing minimum acceptable capital levels to provide that—
 
-&emsp;&emsp;“(A) any single family residence construction loan for a residence for which the purchase contractis canceled shall be considered as a loan within the 100 percent risk-weighted category; and
+&emsp;&emsp;“(A) any single family residence construction loan for a residence for which the purchase contract is canceled shall be considered as a loan within the 100 percent risk-weighted category; and
 
 &emsp;&emsp;“(B) the lender of any single family residence construction loan shall promptly notify the appropriate Federal banking agency of any such cancellation.
 

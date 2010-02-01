@@ -40,7 +40,7 @@ On an annual basis, each State having an approved State Reclamation Plan may sub
 
 #### (g) Costs
 
-The costs for each proposed project under this section shall include: actual construction costs, actual operation and maintenance costs of permanent facilities, planning and engineeringcosts, construction inspection costs, and other necessary administrative expenses.
+The costs for each proposed project under this section shall include: actual construction costs, actual operation and maintenance costs of permanent facilities, planning and engineering costs, construction inspection costs, and other necessary administrative expenses.
 
 #### (h) Grant of funds
 
@@ -72,7 +72,7 @@ Subsec. (h). Pub. L. 101–508, §6012(d)(2), substituted “Upon approval” fo
 
 Subsec. (<i>l</i>). Pub. L. 101–508, §6007, added subsec. (<i>l</i>).
 
-1987—Subsec. (k). Pub. L. 100–71 inserted “except for purposes of subsection (c) of this section with respect to the Navajo, Hopi and Crow Indian Tribes” before period.
+1987—Subsec. (k). Pub. L. 100–71, which directed the amendment of subsec. (k) by inserting “except for purposes of subsection (c) of this section with respect to the Navajo, Hopi and Crow Indian Tribes” at the end thereof, was executed by making the insertion before the period to reflect the probable intent of Congress.
 
 #### Effective Date of 1990 Amendment
 

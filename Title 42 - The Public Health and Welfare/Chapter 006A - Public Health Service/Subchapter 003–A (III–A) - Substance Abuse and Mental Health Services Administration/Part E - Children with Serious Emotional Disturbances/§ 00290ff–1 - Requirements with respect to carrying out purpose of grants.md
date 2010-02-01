@@ -54,7 +54,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that men
 
 &emsp;A funding agreement for a grant under section 290ff(a) of this title is that—
 
-&emsp;&emsp;(A) a system of care under subsection (a) of this section will enter into a memorandum of understanding with each of the providers specified in paragraph (2) in order tofacilitate the availability of the services of the provider involved to each child provided access to the system; and
+&emsp;&emsp;(A) a system of care under subsection (a) of this section will enter into a memorandum of understanding with each of the providers specified in paragraph (2) in order to facilitate the availability of the services of the provider involved to each child provided access to the system; and
 
 &emsp;&emsp;(B) the grant under such section 290ff(a) of this title, and the non-Federal contributions made with respect to the grant, will not be expended to pay the costs of providing such non-mental health services to any individual.
 
@@ -124,7 +124,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that the
 
 &emsp;(3) to provide for room and board or other services or expenditures associated with care of children in residential treatment centers serving more than 10 children or in inpatient hospital settings, except intensive home-based services and other services provided on an ambulatory or outpatient basis; or
 
-&emsp;(4) to provide for the training of any individual, except training authorized in section 290ff–3(a)(2) of this title and training provided through any appropriate course in continuingeducation whose duration does not exceed 2 days.
+&emsp;(4) to provide for the training of any individual, except training authorized in section 290ff–3(a)(2) of this title and training provided through any appropriate course in continuing education whose duration does not exceed 2 days.
 
 #### (g) Waivers
 

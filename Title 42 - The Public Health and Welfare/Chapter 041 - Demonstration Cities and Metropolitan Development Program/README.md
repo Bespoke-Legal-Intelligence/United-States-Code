@@ -38,7 +38,7 @@
 | :--- | ---: |
 | 3371\. | Assistance for housing in Alaska. |
 | 3372, 3373. Repealed. |  |
-| 3374\. | Acquisition of property at or near military bases which have been ordered to be closed. |
+| 3374\. | Acquisition of property at or near military bases which have been ordered to be closed and certain property owned by members of the Armed Forces, Department of Defense and United States Coast Guard civilian employees, and surviving spouses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

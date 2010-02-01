@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;Whenever an issuer or custodian approved under section 1721(g) of this title knowingly and materially violates any provisions of subsection (b) of this section, the Secretary of Housing and Urban Development may impose a civil money penalty on the issuer or the custodian in accordance with the provisions of this section. The penalty shall be in addition to any other available civil remedy or any available criminal penalty and may be imposed whether or not the Secretary imposes other administrative sanctions.
+&emsp;Whenever an issuer or custodian approved under section 1721(g) of this title knowinglyand materially violates any provisions of subsection (b) of this section, the Secretary of Housing and Urban Development may impose a civil money penalty on the issuer or the custodian in accordance with the provisions of this section. The penalty shall be in addition to any other available civil remedy or any available criminal penalty and may be imposed whether or not the Secretary imposes other administrative sanctions.
 
 #### (2) Amount of penalty
 
@@ -46,7 +46,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish standards and procedures governing the imposition of civilmoney penalties under subsection (a) of this section. The standards and procedures—
+&emsp;The Secretary shall establish standards and procedures governing the imposition of civil money penalties under subsection (a) of this section. The standards and procedures—
 
 &emsp;&emsp;(A) shall provide for the Secretary to make the determination to impose the penalty;
 
@@ -70,7 +70,7 @@
 
 #### (1) In general
 
-&emsp;After exhausting all administrative remedies established by the Secretary under subsection (c)(1) of this section, an issuer or a custodian against which the Secretary has imposed a civil money penalty under subsection (a) of this section may obtain a review of the penalty and such ancillary issues as may be addressed in the notice provided under subsection (c)(1)(A) of this section in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's order or determination be modified or be set aside in whole or in part.
+&emsp;After exhausting all administrative remedies established by the Secretary under subsection (c)(1) of this section, an issuer or a custodian against which the Secretary has imposed a civil money penalty under subsection (a) of this section may obtain a review of the penalty and such ancillary issues as may beaddressed in the notice provided under subsection (c)(1)(A) of this section in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's order or determination be modified or be set aside in whole or in part.
 
 #### (2) Objections not raised in hearing
 
@@ -112,7 +112,7 @@ The Secretary shall deposit all civil money penalties collected under this secti
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(13)(A). See 1996 Amendment note below.
 
-1996—Subsec. (b)(1)(B). Pub. L. 104–208, §2704(d)(13)(A), which directed substitution of “Deposit InsuranceFund” for “Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+1996—Subsec. (b)(1)(B). Pub. L. 104–208, §2704(d)(13)(A), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 #### Effective Date of 2006 Amendment
 

@@ -12,7 +12,7 @@ There is hereby imposed on the undistributed income of a private foundation for 
 
 &emsp;&emsp;(B) such amount is distributed as qualifying distributions (within the meaning of subsection (g)) by the foundation during the allowable distribution period (as defined in subsection (j)(2)),
 
-&emsp;&emsp;(C) the foundation notifies the Secretary that such amount has been distributed (within the meaning of subparagraph (B)) to correct such failure, and
+&emsp;&emsp;(C) the foundation notifies the Secretary that such amount has been distributed\(within the meaning of subparagraph (B)) to correct such failure, and
 
 &emsp;&emsp;(D) such distribution is treated under subsection (h)(2) as made out of the undistributed income for the taxable year for which a tax would (except for this paragraph) have been imposed under this subsection.
 
@@ -96,7 +96,7 @@ For purposes of this section, the term “distributable amount” means, with re
 
 &emsp;The deduction modifications referred to in paragraph (1)(B) are as follows:
 
-&emsp;&emsp;(A) no deduction shall be allowed other than all the ordinary and necessary expenses paid or incurred for the production or collection of gross income or for the management, conservation, or maintenance of property held for the production of such income and the allowances for depreciation and depletion determined under section 4940(c)(3)(B), and
+&emsp;&emsp;(A) no deduction shall be allowed other than all the ordinary and necessary expenses paid or incurred for the production or collection of gross income or for the management,conservation, or maintenance of property held for the production of such income and the allowances for depreciation and depletion determined under section 4940(c)(3)(B), and
 
 &emsp;&emsp;(B) section 265 (relating to expenses and interest relating to tax-exempt interest) shall not apply.
 
@@ -110,7 +110,7 @@ For purposes of this section, the term “distributable amount” means, with re
 
 &emsp;For purposes of this section, the term “qualifying distribution” means—
 
-&emsp;&emsp;(A) any amount (including that portion of reasonable and necessary administrative expenses) paid to accomplish one or more purposes described in section 170(c)(2)(B), other than any contribution to (i) an organizationcontrolled (directly or indirectly) by the foundation or one or more disqualified persons (as defined in section 4946) with respect to the foundation, except as provided in paragraph (3), or (ii) a private foundation which is not an operating foundation (as defined in subsection (j)(3)), except as provided in paragraph (3), or
+&emsp;&emsp;(A) any amount (including that portion of reasonable and necessary administrative expenses) paid to accomplish one or more purposes described in section 170(c)(2)(B), other than any contribution to (i) an organization controlled (directly or indirectly) by the foundation or one or more disqualified persons (as defined in section 4946) with respect to the foundation, except as provided in paragraph (3), or (ii) a private foundation which is not an operating foundation (as defined in subsection (j)(3)), except as provided in paragraph (3), or
 
 &emsp;&emsp;(B) any amount paid to acquire an asset used (or held for use) directly in carrying out one or more purposes described in section 170(c)(2)(B).
 

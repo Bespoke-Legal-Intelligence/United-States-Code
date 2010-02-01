@@ -32,7 +32,7 @@ No insurance, guaranty, or reinsurance of any equity investment shall extend bey
 
 #### (f) Limitations on amounts
 
-Compensation for insurance, reinsurance, or guaranties issued under this subpart shall not exceed the dollar value, as of the date of the investment, of the investment made in the project with the approval of the Corporation plus interest, earnings, or profits actually accrued on such investment to the extent provided by such insurance, reinsurance, or guaranty, except that theCorporation may provide that (1) appropriate adjustments in the insured dollar value be made to reflect the replacement cost of project assets, (2) compensation for a claim of loss under insurance of an equity investment may be computed on the basis of the net book value attributable to such equity investment on the date of loss, and (3) compensation for loss due to business interruption may be computed on a basis to be determined by the Corporation which reflects amounts lost. Notwithstanding the preceding sentence, the Corporation shall limit the amount of direct insurance and reinsurance issued by it under section 2194 or 2194b of this title so that risk of loss as to at least 10 per centum of the total investment of the insured and its affiliates in the project is borne by the insured and such affiliates, except that such limitation shall not apply to direct insurance or reinsurance of loans by banks or other financial institutions to unrelated parties.
+Compensation for insurance, reinsurance, or guaranties issued under this subpart shall not exceed the dollar value, as of the date of the investment, of the investment made in the project with the approval of the Corporation plus interest, earnings, or profits actually accrued on such investment to the extent provided by such insurance, reinsurance, or guaranty, except that the Corporation may provide that (1) appropriate adjustments in the insured dollar value be made to reflect the replacement cost of project assets, (2) compensation for a claim of loss under insurance of an equity investment may be computed on the basis of the net book value attributable to such equity investment on the date of loss, and (3) compensation for loss due to business interruption may be computed on a basis to be determined by the Corporation which reflects amounts lost. Notwithstanding the preceding sentence, the Corporation shall limit the amount of direct insurance and reinsurance issued by it under section 2194 or 2194b of this title so that risk of loss as to at least 10 per centum of the total investment of the insured and its affiliates in the project is borne by the insured and such affiliates, except that such limitation shall not apply to direct insurance or reinsurance of loans by banks or other financial institutions to unrelated parties.
 
 #### (g) Fraud or misrepresentation
 
@@ -80,7 +80,7 @@ In making a determination to issue insurance, guaranties, or reinsurance under t
 
 #### (n) Penalties for fraud
 
-Whoever knowingly makes any false statement or report, or willfully overvalues any land,property, or security, for the purpose of influencing in any way the action of the Corporation with respect to any insurance, reinsurance, guarantee, loan, equity investment, or other activity of the Corporation under section 2194 of this title or any change or extension of any such insurance, reinsurance, guarantee, loan, equity investment, or activity, by renewal, deferment of action or otherwise, or the acceptance, release, or substitution of security therefor, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
+Whoever knowingly makes any false statement or report, or willfully overvalues any land, property, or security, for the purpose of influencing in any way the action of the Corporation with respect to any insurance, reinsurance, guarantee, loan, equity investment, or other activity of the Corporation under section 2194 of this title or any change or extension of any such insurance, reinsurance, guarantee, loan, equity investment, or activity, by renewal, deferment of action or otherwise, or the acceptance, release, or substitution of security therefor, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
 
 #### (<i>o</i>) Use of local currencies
 
@@ -128,7 +128,7 @@ Subsec. (<i>l</i>). Pub. L. 95–268, §6, added subsec. (<i>l</i>).
 
 Subsec. (d). Pub. L. 93–390, §2(4)(D), inserted provisions authorizing fees to be charged for reinsurance and reduction of reinsurance fees under existing contracts in the event fees charged for reinsurance are reduced.
 
-Subsec. (e). Pub. 93–390, §2(4)(E), inserted reference to reinsurance.
+Subsec. (e). Pub. L. 93–390, §2(4)(E), inserted reference to reinsurance.
 
 Subsec. (f). Pub. L. 93–390, §2(4)(F), (G), inserted “reinsurance” before “or guaranty” wherever appearing and provisions relating to limitations on the amount of direct insurance or reinsurance.
 
@@ -138,7 +138,7 @@ Subsecs. (h) to (k). Pub. L. 93–390, §2(4)(I)–(K), inserted reference to re
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

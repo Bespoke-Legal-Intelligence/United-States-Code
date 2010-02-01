@@ -10,7 +10,7 @@ In this section:
 
 &emsp;&emsp;(A) who is an employee of the Senate; and
 
-&emsp;&emsp;(B) whose rate of pay as an employee of the Senate, on the date on which such eligibility is determined, does not exceed therate of basic pay for an employee for a position at ES–1 of the Senior Executive Schedule as provided for in subchapter VIII of chapter 53 of title 5 (including any locality pay adjustment applicable to the Washington, D.C.-Baltimore Maryland consolidated metropolitan statistical area).
+&emsp;&emsp;(B) whose rate of pay as an employee of the Senate, on the date on which such eligibility is determined, does not exceed the rate of basic pay for an employee for a position at ES–1 of the Senior Executive Schedule as provided for in subchapter VIII of chapter 53 of title 5 (including any locality pay adjustment applicable to the Washington, D.C.-Baltimore Maryland consolidated metropolitan statistical area).
 
 #### (2) Employee of the Senate
 
@@ -98,7 +98,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;An employee shall not be eligible for continued student loan payments under a service agreement under this section and (except in a case in which an employee's duty is terminated under paragraph (2) or an employing office assumes responsibilities under paragraph (3)) shall reimburse the Senate for the amount of all student loan payments made on behalf of the employee under the agreement, if, before the employee completes the required period of employment specified in the agreement—
+&emsp;An employee shall not be eligible for continued student loan payments under a serviceagreement under this section and (except in a case in which an employee's duty is terminated under paragraph (2) or an employing office assumes responsibilities under paragraph (3)) shall reimburse the Senate for the amount of all student loan payments made on behalf of the employee under the agreement, if, before the employee completes the required period of employment specified in the agreement—
 
 &emsp;&emsp;(A) the employee voluntarily separates from service with the employing office;
 
@@ -184,7 +184,7 @@ In this section:
 
 #### (5) Treatment of payments
 
-&emsp;Student loan payments made on behalf of an eligible employee under this section shall bein addition to any basic pay and other forms of compensation otherwise payable to the eligible employee, and shall be subject to withholding for income and employment tax obligations as provided for by law.
+&emsp;Student loan payments made on behalf of an eligible employee under this section shall be in addition to any basic pay and other forms of compensation otherwise payable to the eligible employee, and shall be subject to withholding for income and employment tax obligations as provided for by law.
 
 #### (6) No relief from liability
 
@@ -256,7 +256,7 @@ This section shall apply to fiscal year 2002 and each fiscal year thereafter.
 
 The Higher Education Act of 1965, referred to in subsec. (a)(5)(A), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B, D, and E of title IV of the Act are classified to parts B (§1071 et seq.), C (§1087a et seq.), and D (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(5)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part E of title VIII of the Act is classified generally to part E (§297a et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(5)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare.Part E of title VIII of the Act is classified generally to part E (§297a et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 Section 60c–2a(c) of this title, referred to in subsec. (d)(4)(A), was in the original “section 104(c) of the Legislative Appropriation Act, 1977”, and was translated as reading “section 104(c) of the Legislative Branch Appropriation Act, 1977”, to reflect the probable intent of Congress.
 

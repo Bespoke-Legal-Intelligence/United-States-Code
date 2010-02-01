@@ -52,7 +52,7 @@
 
 &emsp;(4) provide for the sale of all or substantially all of the property of the estate, and the distribution of the proceeds of such sale among holders of claims or interests;
 
-&emsp;(5) modify the rights of holders of secured claims, other than a claim secured only by asecurity interest in real property that is the debtor's principal residence, or of holders of unsecured claims, or leave unaffected the rights of holders of any class of claims; and
+&emsp;(5) modify the rights of holders of secured claims, other than a claim secured only by a security interest in real property that is the debtor's principal residence, or of holders of unsecured claims, or leave unaffected the rights of holders of any class of claims; and
 
 &emsp;(6) include any other appropriate provision not inconsistent with the applicable provisions of this title.
 

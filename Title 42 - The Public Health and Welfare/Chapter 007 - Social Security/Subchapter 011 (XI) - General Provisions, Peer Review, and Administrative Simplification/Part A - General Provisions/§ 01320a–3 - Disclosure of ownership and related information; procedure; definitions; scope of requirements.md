@@ -26,7 +26,7 @@
 
 &emsp;(C) is a partner in the entity, if the entity is organized as a partnership.
 
-(b) To the extent determined to be feasible under regulations of the Secretary, a disclosingentity shall also include in the information supplied under subsection (a)(1) of this section, with respect to each person with an ownership or control interest in the entity, the name of any other disclosing entity with respect to which the person is a person with an ownership or control interest.
+(b) To the extent determined to be feasible under regulations of the Secretary, a disclosing entity shall also include in the information supplied under subsection (a)(1) of this section, with respect to each person with an ownership or control interest in the entity, the name of any other disclosing entity with respect to which the person is a person with an ownership or control interest.
 
 (Aug. 14, 1935, ch. 531, title XI, §1124, as added Pub. L. 95–142, §3(a)(1), Oct. 25, 1977, 91 Stat. 1177; amended Pub. L. 96–499, title IX, §912(a), Dec. 5, 1980, 94 Stat. 2619; Pub. L. 97–35, title XXIII, §2353(i), Aug. 13, 1981, 95 Stat. 872; Pub. L. 100–93, §11, Aug. 18, 1987, 101 Stat. 697; Pub. L. 105–33, title IV, §§4313(a), 4707(c), Aug. 5, 1997, 111 Stat. 388, 506.)
 
@@ -46,7 +46,7 @@ Subsec. (a)(2)(A). Pub. L. 105–33, §4707(c), inserted “a managed care entit
 
 1981—Subsec. (a)(1). Pub. L. 97–35, §2353(i)(1), substituted in subpars. (A) and (B) “and XIX of this chapter” for “XIX, and XX of this chapter”.
 
-Subsec. (a)(2)(D). Pub. L. 97–35, §2353(i)(2)(C), struck out subpar. (D) which included within term “disclosing entity” an entity, other than an individual practitioner or group of practitioners, that furnishes, or arranges for the furnishing of, health related services with respect to which payment may be claimed by the entity under a State plan or program approved under subchapter XX of this chapter.
+Subsec. (a)(2)(D). Pub. L. 97–35, §2353(i)(2)(C), struck out subpar. (D) which included within term “disclosing entity” an entity, other than an individual practitioner or group of practitioners, that furnishes, or arranges for the furnishing of, health related services with respect to which payment may be claimed by the entityunder a State plan or program approved under subchapter XX of this chapter.
 
 1980—Subsec. (a)(3)(A)(ii). Pub. L. 96–499 substituted “of a whole or part interest” for “(in whole or in part) of an interest of 5 per centum or more” and inserted “, which whole or part interest is equal to or exceeds $25,000 or 5 per centum of the total property and assets of the entity”.
 

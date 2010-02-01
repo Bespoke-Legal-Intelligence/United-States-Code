@@ -2,7 +2,7 @@
 
 #### (a) Division of Alaska into twelve geographic regions; common heritage and common interest of region; area of region commensurate with operations of Native association; boundary disputes, arbitration
 
-For purposes of this chapter, the State of Alaska shall be divided by the Secretary withinone year after December 18, 1971, into twelve geographic regions, with each region composed as far as practicable of Natives having a common heritage and sharing common interests. In the absence of good cause shown to the contrary, such regions shall approximate the areas covered by the operations of the following existing Native associations:
+For purposes of this chapter, the State of Alaska shall be divided by the Secretary within one year after December 18, 1971, into twelve geographic regions, with each region composed as far as practicable of Natives having a common heritage and sharing common interests. In the absence of good cause shown to the contrary, such regions shall approximate the areas covered by the operations of the following existing Native associations:
 
 &emsp;(1) Arctic Slope Native Association (Barrow, Point Hope);
 
@@ -64,7 +64,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 &emsp;&emsp;(III) Natives who have attained the age of 65,
 
-> &emsp;for no consideration or for such consideration and upon such terms and conditions as may be specified in such amendment or in a resolution approved by the board of directors pursuant toauthority expressly vested in the board by the amendment. The amendment to the articles of incorporation may specify which class of Settlement Common Stock shall be issued to the various groups of Natives.
+> &emsp;for no consideration or for such consideration and upon such terms and conditions as may be specified in such amendment or in a resolution approved by the board of directors pursuant to authority expressly vested in the board by the amendment. The amendment to the articles of incorporation may specify which class of Settlement Common Stock shall be issued to the various groups of Natives.
 
 &emsp;(ii) Not more than one hundred shares of Settlement Common Stock shall be issued to any one individual pursuant to clause (i).
 
@@ -210,7 +210,7 @@ Conditions.—A condition referred to in subclause (I) is a condition that—
 
 &emsp;(A) Upon the death of a holder of Settlement Common Stock, ownership of such stock (unless canceled in accordance with subsection (g)(1)(B)(iii) of this section) shall be transferred in accordance with the lawful will of such holder or pursuant to applicable laws of intestate succession. If the holder fails to dispose of his or her stock by will and has no heirs under applicable laws of intestate succession, the stock shall escheat to the issuing Regional Corporation and be canceled.
 
-&emsp;(B) The issuing Regional Corporation shall have the right to purchase at fair value Settlement Common Stock transferred pursuant toapplicable laws of intestate succession to a person not a Native or a descendant of a Native after February 3, 1988, if—
+&emsp;(B) The issuing Regional Corporation shall have the right to purchase at fair value Settlement Common Stock transferred pursuant to applicable laws of intestate succession to a person not a Native or a descendant of a Native after February 3, 1988, if—
 
 &emsp;&emsp;(i) the corporation—
 
@@ -296,7 +296,7 @@ Conditions.—A condition referred to in subclause (I) is a condition that—
 
 &emsp;&emsp;&emsp;(II) for the purposes of subsection (m) of this section, shares of stock registered on the books of the Cook Inlet Regional Corporation in the names of nonresidents of villages;
 
-&emsp;&emsp;(ii) any amount of funds that would be distributable with respect to non-village shares or non-voting securities pursuant to subsection (j) or (m) of this section shall be distributed by Cook Inlet Regional Corporation to itself; and
+&emsp;&emsp;(ii) any amount of funds that would be distributable with respect to non-village sharesor non-voting securities pursuant to subsection (j) or (m) of this section shall be distributed by Cook Inlet Regional Corporation to itself; and
 
 &emsp;&emsp;(iii) village shares that are purchased pursuant to this paragraph shall be considered to be—
 

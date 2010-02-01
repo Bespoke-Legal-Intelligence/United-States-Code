@@ -6,7 +6,7 @@ The Secretary shall assemble from existing personnel with appropriate expertise,
 
 #### (b) Monitoring programs
 
-The Secretary shall also assist in establishing, at each site that has utilized an energy audit team, a program for monitoring the implementation of energy efficiency improvements based upon energy audit team recommendations, and for recording the operating history of such improvements.
+The Secretary shall also assist in establishing, at each site that has utilized an energy auditteam, a program for monitoring the implementation of energy efficiency improvements based upon energy audit team recommendations, and for recording the operating history of such improvements.
 
 (Pub. L. 102–486, title I, §158, Oct. 24, 1992, 106 Stat. 2857.)
 

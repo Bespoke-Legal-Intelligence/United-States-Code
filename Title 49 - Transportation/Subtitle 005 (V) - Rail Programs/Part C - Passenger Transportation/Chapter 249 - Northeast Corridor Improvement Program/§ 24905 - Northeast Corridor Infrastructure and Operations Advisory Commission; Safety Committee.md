@@ -38,7 +38,7 @@ Statement of Goals and Recommendations.—
 
 &emsp;(1)
 
-Statement of goals.—The Commission shall develop a statement of goals concerning the future of Northeast Corridor rail infrastructure and operations based on achieving expanded and improved intercity, commuter, and freight rail services operating with greater safety and reliability, reduced travel times, increased frequencies and enhanced intermodal connections designed to address airport and highway congestion, reduce transportation energy consumption, improve air quality, and increase economic development of the Northeast Corridor region.
+Statement of goals.—The Commission shall develop a statement of goals concerningthe future of Northeast Corridor rail infrastructure and operations based on achieving expanded and improved intercity, commuter, and freight rail services operating with greater safety and reliability, reduced travel times, increased frequencies and enhanced intermodal connections designed to address airport and highway congestion, reduce transportation energy consumption, improve air quality, and increase economic development of the Northeast Corridor region.
 
 &emsp;(2)
 
@@ -76,7 +76,7 @@ Development of formula.—Within 2 years after the date of enactment of the Pass
 
 &emsp;&emsp;&emsp;(i) there is no cross-subsidization of commuter rail passenger, intercity rail passenger, or freight rail transportation;
 
-&emsp;&emsp;&emsp;(ii) each service is assigned the costs incurred only for the benefit of that service,and a proportionate share, based upon factors that reasonably reflect relative use, of costs incurred for the common benefit of more than 1 service; and
+&emsp;&emsp;&emsp;(ii) each service is assigned the costs incurred only for the benefit of that service, and a proportionate share, based upon factors that reasonably reflect relative use, of costs incurred for the common benefit of more than 1 service; and
 
 &emsp;&emsp;&emsp;(iii) all financial contributions made by an operator of a service that benefit an infrastructure owner other than the operator are considered, including but not limited to, any capital infrastructure investments and in-kind services;
 
@@ -130,7 +130,7 @@ In general.—The Secretary shall establish a Northeast Corridor Safety Committe
 
 &emsp;(2)
 
-Function; meetings.—The Secretary shall consult with the Committee about safety and security improvements on the Northeast Corridor main line. The Committee shall meet at least two times per year to consider safety and security matters on the main line.
+Function; meetings.—The Secretary shall consult with the Committee about safetyand security improvements on the Northeast Corridor main line. The Committee shall meet at least two times per year to consider safety and security matters on the main line.
 
 &emsp;(3)
 

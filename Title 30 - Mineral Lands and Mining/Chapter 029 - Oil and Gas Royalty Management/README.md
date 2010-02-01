@@ -21,6 +21,7 @@
 | [1718\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001718%20-%20Inspections.md) | Inspections. |
 | [1719\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001719%20-%20Civil%20penalties.md) | Civil penalties. |
 | [1720\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001720%20-%20Criminal%20penalties.md) | Criminal penalties. |
+| [1720a.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001720a%20-%20Applicability%20of%20civil%20and%20criminal%20penalties%20to%20various%20uses%20of%20Federal%20or%20Indian%20lands%20and%20Outer%20Continental%20Shelf.md) | Applicability of civil and criminal penalties to various uses of Federal or Indian lands and Outer Continental Shelf. |
 | [1721\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001721%20-%20Royalty%20terms%20and%20conditions%2C%20interest%2C%20and%20penalties.md) | Royalty terms and conditions, interest, and penalties. |
 | [1721a.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001721a%20-%20Adjustments%20and%20refunds.md) | Adjustments and refunds. |
 | [1722\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001722%20-%20Injunction%20and%20specific%20enforcement%20authority.md) | Injunction and specific enforcement authority. |
@@ -57,6 +58,7 @@
 | [1756\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001756%20-%20Expanded%20royalty%20obligations.md) | Expanded royalty obligations. |
 | [1757\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001757%20-%20Severability.md) | Severability. |
 | [1758\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001758%20-%20Use%20of%20royalty-in-kind%20revenue%20by%20Minerals%20Management%20Service.md) | Use of royalty-in-kind revenue by Minerals Management Service. |
+| [1759\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001759%20-%20Fees%20and%20charges.md) | Fees and charges. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

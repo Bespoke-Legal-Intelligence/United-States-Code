@@ -138,7 +138,7 @@ Subsec. (a)(25). Pub. L. 103–322, §32101(c)(3), added par. (25).
 
 Subsec. (a)(3). Pub. L. 99–396, §7(2), substituted “and” for “, Guam, American Samoa” after “in and for the District of Columbia” and struck out “, or the Commonwealth of the Northern Mariana Islands” after “Trust Territory of the Pacific Islands”.
 
-1984—Subsec. (a)(2). Pub. L. 98–473, §609C(b)(1), struck out references to Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
+1984—Subsec. (a)(2). Pub. L. 98–473, §609C(b)(1), struck out references to Guam, American Samoa, the TrustTerritory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 
 Subsec. (a)(3). Pub. L. 98–473, §609C(b)(2), inserted references to Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 

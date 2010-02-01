@@ -152,7 +152,7 @@ Deposits not required when participant on active duty.—Paragraph (1) does not 
 
 (e)
 
-Deposits Not Required for Certain Participants in CSRS.—When a person who has elected to participate in the Plan waives that person's retired pay for the purposes of subchapter III of chapter 83 of title 5, that person shall not be required to make the deposit otherwise required by subsection (d) as long as that waiver is in effect unless, in accordance with section 8339(j) of title 5, that person has notifiedthe Office of Personnel Management that he does not desire a spouse surviving him to receive an annuity under section 8341(b) of title 5.
+Deposits Not Required for Certain Participants in CSRS.—When a person who has elected to participate in the Plan waives that person's retired pay for the purposes of subchapter III of chapter 83 of title 5, that person shall not be required to make the deposit otherwise required by subsection (d) as long as that waiver is in effect unless, in accordance with section 8339(j) of title 5, that person has notified the Office of Personnel Management that he does not desire a spouse surviving him to receive an annuity under section 8341(b) of title 5.
 
 (f)
 
@@ -252,7 +252,7 @@ Delay not to affect computation of annuity.—Subparagraph (A) may not be constr
 
 (i)
 
-Recomputation of Reduction Upon Recomputation of Retired Pay.—Whenever the retired pay of a person who first became a member of a uniformed service on or after August 1, 1986, and who is a participant in the Plan is recomputed under section 1410 of this title upon the person's becoming 62 years of age, the amount of the reduction in such retired pay under this section shall be recomputed (effective on the effective date of the recomputation of such retired pay under section 1410 of this title) so as to be the amount equal to the amount of such reduction that would be in effect on that date if increases in such retired pay under section 1401a(b) of this title, and increases in reductions in such retired pay under subsection (h), had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section).
+Recomputation of Reduction Upon Recomputation of Retired Pay.—Whenever theretired pay of a person who first became a member of a uniformed service on or after August 1, 1986, and who is a participant in the Plan is recomputed under section 1410 of this title upon the person's becoming 62 years of age, the amount of the reduction in such retired pay under this section shall be recomputed (effective on the effective date of the recomputation of such retired pay under section 1410 of this title) so as to be the amount equal to the amount of such reduction that would be in effect on that date if increases in such retired pay under section 1401a(b) of this title, and increases in reductions in such retired pay under subsection (h), had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section).
 
 (j)
 
@@ -322,7 +322,7 @@ Pub. L. 99–145, §723(b)(2)(1), inserted “or former spouse” after first tw
 
 Subsec. (a)(2). Pub. L. 99–145, §714(a)(3), designated existing second sentence of subsec. (a) as par. (2), and substituted “If there is a dependent child as well as a spouse or former spouse, the amount prescribed under paragraph (1)” for “As long as there is an eligible spouse and a dependent child, that amount”.
 
-Subsec. (a)(3). Pub. L. 99–145, §714(a)(4), designated existing third sentence of subsec. (a) as par. (3), substituted “paragraph (1)” for “the first sentence of this subsection”, and inserted “or former spouse” after “eligible spouse”.
+Subsec. (a)(3). Pub. L. 99–145, §714(a)(4), designated existing third sentence of subsec. (a) as par. (3), substituted “paragraph (1)” for “the first sentence of thissubsection”, and inserted “or former spouse” after “eligible spouse”.
 
 Pub. L. 99–145, §719(8)(A), substituted “retired pay” for “retired or retainer pay”.
 
@@ -416,5 +416,5 @@ Amount of recomputed premium.—The amount of an SBP premium recomputed under th
 
 “(4)
 
-SBP premium defined.—For purposes of this subsection, the term ‘SBP premium’ means a reduction in retired pay under section 1452 of title 10, United States Code.”
+SBP premium defined.—For purposes of this subsection, the term ‘SBP premium’ means a reduction inretired pay under section 1452 of title 10, United States Code.”
 

@@ -10,5 +10,5 @@ Section was enacted as part of the Farmers’ Home Administration Act of 1946, a
 
 #### Exceptions From Transfer of Functions
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of the Commodity CreditCorporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of the said Administration were excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of the Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of the said Administration were excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 

@@ -96,7 +96,7 @@ Pub. L. 110–343, div. B, title II, §206(b), Oct. 3, 2008, 122 Stat. 3839, pro
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §851(a)(2), Oct. 22, 2004, 118 Stat. 1607, provided that: “The amendment made by this subsection \[amending this section\] shall take effect on the day after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title VIII, §851(a)(2), Oct. 22, 2004, 118 Stat. 1607, provided that: “The amendment made bythis subsection \[amending this section\] shall take effect on the day after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective Date of 1984 Amendment
 

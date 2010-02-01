@@ -60,7 +60,7 @@
 
 (2) A release of information under paragraph (1) of this subsection may be made for the purpose of—
 
-&emsp;(A) determining the creditworthiness, credit capacity, income, or financial resources of a person who has (i) applied for any benefit under chapter 37 of this title, or (ii) submittedan offer to the Secretary for the purchase of property acquired by the Secretary under section 3720(a)(5) of this title;
+&emsp;(A) determining the creditworthiness, credit capacity, income, or financial resources of a person who has (i) applied for any benefit under chapter 37 of this title, or (ii) submitted an offer to the Secretary for the purchase of property acquired by the Secretary under section 3720(a)(5) of this title;
 
 &emsp;(B) verifying, either before or after the Secretary has approved a person's application for assistance in the form of a loan guaranty or loan insurance under chapter 37 of this title, information submitted by a lender to the Secretary regarding the creditworthiness, credit capacity, income, or financial resources of such person;
 
@@ -88,7 +88,7 @@
 
 &emsp;(i) the individual is near death (as determined by the Secretary) or is deceased; and
 
-&emsp;(ii) the disclosure is permitted under regulations promulgated pursuant to section 264 of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note).
+&emsp;(ii) the disclosure is permitted under regulations promulgated pursuant to section 264 ofthe Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note).
 
 (B) An entity described in this subparagraph is—
 
@@ -188,7 +188,7 @@ Subsec. (j). Pub. L. 96–466, §606(e), (f), redesignated former subsec. (g) as
 
 Subsec. (b). Pub. L. 94–321, §1(a)(2), added subsec. (b). Pars. (1) to (5), formerly set out following introductory par., became part of such subsec. (b).
 
-Subsec. (b)(1). Pub. L. 94–581, §210(b)(1), substituted “claimant or duly authorized agent or representative of a claimant as to matters concerning the claimant alone” for “claimant or his duly authorized agent or representative as to matters concerning himself alone”.
+Subsec. (b)(1). Pub. L. 94–581, §210(b)(1), substituted “claimant or duly authorized agent or representative ofa claimant as to matters concerning the claimant alone” for “claimant or his duly authorized agent or representative as to matters concerning himself alone”.
 
 Subsec. (c). Pub. L. 94–321, §1(a)(3), redesignated par. (6) as subsec. (c).
 

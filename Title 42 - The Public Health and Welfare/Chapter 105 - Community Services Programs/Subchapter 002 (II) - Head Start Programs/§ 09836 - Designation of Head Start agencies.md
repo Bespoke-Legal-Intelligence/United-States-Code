@@ -62,7 +62,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 #### (6) Designation renewal system
 
-&emsp;Not later than 12 months after publishing a notice describing the proposed system under paragraph (5), the Secretary shall implement the system for designation renewal and use that system to determine—
+&emsp;Not later than 12 months after publishing a notice describing the proposed system underparagraph (5), the Secretary shall implement the system for designation renewal and use that system to determine—
 
 &emsp;&emsp;(A) whether a Head Start grantee is successfully delivering a high-quality and comprehensive Head Start program; and
 
@@ -230,7 +230,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 #### (2) Exception
 
-&emsp;In a community in which there is no Indian Head Start agency available for designation to carry out an Indian Head Start program, anon-Indian Head Start agency may receive a grant to carry out an Indian Head Start program but only until such time as an Indian Head Start agency in such community becomes available and is designated pursuant to this section.
+&emsp;In a community in which there is no Indian Head Start agency available for designation to carry out an Indian Head Start program, a non-Indian Head Start agency may receive a grant to carry out an Indian Head Start program but only until such time as an Indian Head Start agency in such community becomes available and is designated pursuant to this section.
 
 #### (f) Interim provider
 
@@ -254,7 +254,7 @@ The Individuals with Disabilities Education Act, referred to in subsec. (d)(2)(H
 
 #### Amendments
 
-2007—Pub. L. 110–134 amended section generally. Prior to amendment, section related to authorization of and prerequisites for designation of Head Start agencies in subsec. (a), definition of community in subsec. (b), priority in administration of section provisions in subsec. (c), designation in community without entity entitled to priority and qualified applicants in subsec. (d), designation on interim basis in subsec. (e), involvement of parents and area residents in selection of agencies in subsec. (f), and priority for nonprofit agencies and applicants with demonstrated capacity in subsec. (g).
+2007—Pub. L. 110–134 amended section generally. Prior to amendment, section related to authorization of and prerequisites for designation of Head Start agencies in subsec. (a), definition of community in subsec. (b), priority in administration of section provisions in subsec. (c), designation in community without entity entitledto priority and qualified applicants in subsec. (d), designation on interim basis in subsec. (e), involvement of parents and area residents in selection of agencies in subsec. (f), and priority for nonprofit agencies and applicants with demonstrated capacity in subsec. (g).
 
 2004—Subsec. (d)(3). Pub. L. 108–446 substituted “U.S.C. 1431–1444” for “U.S.C 1431–1445”.
 
@@ -290,7 +290,7 @@ Subsec. (d)(7). Pub. L. 105–285, §107(4)(D), amended par. (7) generally. Prio
 
 Subsec. (d)(8) to (10). Pub. L. 105–285, §107(4)(E)–(G), added pars. (8) and (10) and redesignated former par. (8) as (9).
 
-Subsec. (e). Pub. L. 105–285, §107(5), added subsec. (e) and struck out former subsec. (e) which read as follows: “If, in a community served by a Head Start program,there is no applicant qualified for designation as a Head Start agency to carry out such program, the Secretary may appoint an interim grantee to carry out such program until a qualified applicant is so designated.”
+Subsec. (e). Pub. L. 105–285, §107(5), added subsec. (e) and struck out former subsec. (e) which read as follows: “If, in a community served by a Head Start program, there is no applicant qualified for designation as a Head Start agency to carry out such program, the Secretary may appoint an interim grantee to carry out such program until a qualified applicant is so designated.”
 
 Subsec. (g). Pub. L. 105–285, §107(6), added subsec. (g).
 
@@ -322,7 +322,7 @@ Subsec. (d). Pub. L. 103–252, §107(c)(1)–(3)(A), in introductory provisions
 
 Subsec. (d)(3). Pub. L. 103–252, §107(c)(3)(B), inserted “, including Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2741 et seq.),” after “preschool programs”.
 
-Subsec. (d)(4). Pub. L. 103–252, §107(c)(3)(C), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the plan of such applicant to involve parents of children who will participate in the proposed Head Start program in appropriate educational services (in accordance with the performance standards in effect under section 9846(b) of this title or through referral of such parents to educational services available in the community) in order to aid their children to attain their full potential;”.
+Subsec. (d)(4). Pub. L. 103–252, §107(c)(3)(C), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the plan of such applicant to involve parents of children who will participate in the proposed Head Start program in appropriate educational services (inaccordance with the performance standards in effect under section 9846(b) of this title or through referral of such parents to educational services available in the community) in order to aid their children to attain their full potential;”.
 
 Subsec. (d)(7). Pub. L. 103–252, §107(c)(4), substituted “non-English language background children and their families” for “non-English language children” and inserted “and” after semicolon.
 

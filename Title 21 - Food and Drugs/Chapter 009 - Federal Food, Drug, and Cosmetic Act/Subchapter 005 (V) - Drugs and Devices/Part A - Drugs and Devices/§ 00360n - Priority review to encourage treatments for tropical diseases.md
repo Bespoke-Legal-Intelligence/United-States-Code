@@ -48,7 +48,7 @@ In this section:
 
 &emsp;&emsp;(P) Yaws.
 
-&emsp;&emsp;(Q) Any other infectious disease for which there is no significant market in developednations and that disproportionately affects poor and marginalized populations, designated by regulation by the Secretary.
+&emsp;&emsp;(Q) Any other infectious disease for which there is no significant market in developed nations and that disproportionately affects poor and marginalized populations, designated by regulation by the Secretary.
 
 #### (4) Tropical disease product application
 
@@ -128,5 +128,5 @@ In this section:
 
 #### References in Text
 
-Section 101(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (a)(1), is section 101(c) of Pub. L. 110–85, which is set out as a note under section 379g of this title.
+Section 101(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (a)(1), issection 101(c) of Pub. L. 110–85, which is set out as a note under section 379g of this title.
 

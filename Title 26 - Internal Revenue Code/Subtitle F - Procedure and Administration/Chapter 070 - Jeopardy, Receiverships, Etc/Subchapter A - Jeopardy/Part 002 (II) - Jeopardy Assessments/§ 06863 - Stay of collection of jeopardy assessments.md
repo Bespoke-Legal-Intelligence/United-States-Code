@@ -24,7 +24,7 @@ In the case of taxes subject to the jurisdiction of the Tax Court—
 
 &emsp;&emsp;&emsp;(i) before the expiration of the periods described in subsection (c)(1)(A) and (B),
 
-&emsp;&emsp;&emsp;(ii) before the issuance of the notice of deficiency described in section 6851(b) or 6861(b), and the expiration of the period provided in section 6213(a) for filing a petition with the Tax Court, and
+&emsp;&emsp;&emsp;(ii) before the issuance of the notice of deficiency described in section 6851(b) or 6861(b), and the expiration of the periodprovided in section 6213(a) for filing a petition with the Tax Court, and
 
 &emsp;&emsp;&emsp;(iii) if a petition is filed with the Tax Court (whether before or after the making of such assessment), before the expiration of the period during which the assessment of the deficiency would be prohibited if neither sections 6851(a), 6852(a), nor 6861(a) were applicable.
 

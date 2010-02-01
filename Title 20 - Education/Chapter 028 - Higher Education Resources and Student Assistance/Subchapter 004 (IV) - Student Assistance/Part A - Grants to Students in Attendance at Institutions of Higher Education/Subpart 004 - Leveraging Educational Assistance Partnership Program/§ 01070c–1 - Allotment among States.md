@@ -8,13 +8,13 @@
 
 #### (b) Reallotment
 
-The amount of any State's allotment under subsection (a) of this section for any fiscal year which the Secretary determines will not be required for such fiscal year for the leveraging educational assistance partnership program of that State shall be available for reallotment from time to time, on such dates during such year as the Secretary may fix, to other States in proportion to the original allotments to such States under such part for such year, but with such proportionate amount for any of such States being reduced to the extent it exceeds the sum the Secretary estimates such State needs and will be able to use for such year for carrying out the State plan. The total of such reductions shall be similarly reallotted among the States whose proportionate amounts were not so reduced. Any amount reallotted to a State under this part during a year from funds appropriated pursuant to section 1070c(b)(1) of this title shall be deemed part of its allotment under subsection (a) of this section for such year.
+The amount of any State's allotment under subsection (a) of this section for any fiscal yearwhich the Secretary determines will not be required for such fiscal year for the leveraging educational assistance partnership program of that State shall be available for reallotment from time to time, on such dates during such year as the Secretary may fix, to other States in proportion to the original allotments to such States under such part for such year, but with such proportionate amount for any of such States being reduced to the extent it exceeds the sum the Secretary estimates such State needs and will be able to use for such year for carrying out the State plan. The total of such reductions shall be similarly reallotted among the States whose proportionate amounts were not so reduced. Any amount reallotted to a State under this part during a year from funds appropriated pursuant to section 1070c(b)(1) of this title shall be deemed part of its allotment under subsection (a) of this section for such year.
 
 #### (c) Allotments subject to continuing compliance
 
 The Secretary shall make payments for continuing incentive grants only to States which continue to meet the requirements of section 1070c–2(b) of this title.
 
-(Pub. L. 89–329, title IV, §415B, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat.1333; amended Pub. L. 105–244, title IV, §407(a)(2)(A), (c)(2), Oct. 7, 1998, 112 Stat. 1666, 1667.)
+(Pub. L. 89–329, title IV, §415B, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1333; amended Pub. L. 105–244, title IV, §407(a)(2)(A), (c)(2), Oct. 7, 1998, 112 Stat. 1666, 1667.)
 
 #### Prior Provisions
 

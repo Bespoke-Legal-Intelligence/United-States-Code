@@ -56,7 +56,7 @@ A Mentoring Network established using assistance under section 657d of this titl
 
 The Administrator shall—
 
-&emsp;(1) include in the database required by section 638(k)(1) of this title, in cooperation with the SBIR, STTR, and FAST programs, information on Mentoring Networks and mentors participating under this section, including a description of their areas of expertise;
+&emsp;(1) include in the database required by section 638(k)(1) of this title, in cooperation with the SBIR, STTR, and FAST programs, information on Mentoring Networks and mentorsparticipating under this section, including a description of their areas of expertise;
 
 &emsp;(2) work cooperatively with Mentoring Networks to maintain and update the database;
 

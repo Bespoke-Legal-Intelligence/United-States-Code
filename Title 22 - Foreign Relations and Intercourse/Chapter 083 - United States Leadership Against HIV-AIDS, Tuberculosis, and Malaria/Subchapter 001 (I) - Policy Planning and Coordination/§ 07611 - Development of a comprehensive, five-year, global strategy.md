@@ -42,7 +42,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;&emsp;(J) help partner countries to train and support retention of health care professionals and paraprofessionals, with the target of training and retaining at least 140,000 new health care professionals and paraprofessionals with an emphasis on training and in country deployment of critically needed doctors and nurses and to strengthen capacities in developing countries, especially in sub-Saharan Africa, to deliver primary health care with the objective of helping countries achieve staffing levels of at least 2.3 doctors, nurses, and midwives per 1,000 population, as called for by the World Health Organization;
 
-&emsp;(5) include multisectoral approaches and specific strategies to treat individuals infectedwith HIV/AIDS and to prevent the further transmission of HIV infections, with a particular focus on the needs of families with children (including the prevention of mother-to-child transmission), women, young people, orphans, and vulnerable children;
+&emsp;(5) include multisectoral approaches and specific strategies to treat individuals infected with HIV/AIDS and to prevent the further transmission of HIV infections, with a particular focus on the needs of families with children (including the prevention of mother-to-child transmission), women, young people, orphans, and vulnerable children;
 
 &emsp;(6) establish a timetable with annual global treatment targets with country-level benchmarks for antiretroviral treatment;
 
@@ -160,7 +160,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;(28) ensure coordination between the Global AIDS Coordinator and the Malaria Coordinator and address issues of comorbidity between HIV/AIDS and malaria; and
 
-&emsp;(29) include a longer term estimate of the projected resource needs, progress toward greater sustainability and country ownership of HIV/AIDS programs, and the anticipated role of the United States in the global effort to combat HIV/AIDS during the 10-year period beginning on October 1, 2013.
+&emsp;(29) include a longer term estimate of the projected resource needs, progress toward greater sustainability and country ownership of HIV/AIDS programs, and the anticipated role of the United States in the global effortto combat HIV/AIDS during the 10-year period beginning on October 1, 2013.
 
 #### (b) Report
 
@@ -286,7 +286,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 #### (1) Design and budget plan for data evaluation
 
-&emsp;The Global AIDS Coordinator shall enter into a contract with the Institute of Medicine of the National Academies that provides that not later than 18 months after July 30, 2008,the Institute, in consultation with the Global AIDS Coordinator and other relevant parties representing the public and private sector, shall provide the Global AIDS Coordinator with a design plan and budget for the evaluation and collection of baseline and subsequent data to address the elements set forth in paragraph (2)(B). The Global AIDS Coordinator shall submit the budget and design plan to the appropriate congressional committees.
+&emsp;The Global AIDS Coordinator shall enter into a contract with the Institute of Medicine of the National Academies that provides that not later than 18 months after July 30, 2008, the Institute, in consultation with the Global AIDS Coordinator and other relevant parties representing the public and private sector, shall provide the Global AIDS Coordinator with a design plan and budget for the evaluation and collection of baseline and subsequent data to address the elements set forth in paragraph (2)(B). The Global AIDS Coordinator shall submit the budget and design plan to the appropriate congressional committees.
 
 #### (2) Study
 
@@ -324,7 +324,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 #### (3) Contract authority
 
-&emsp;The Institute of Medicine may enter into contracts or cooperative agreements or award grants to conduct the study under paragraph (2).
+&emsp;The Institute of Medicine may enter into contracts or cooperative agreements or awardgrants to conduct the study under paragraph (2).
 
 #### (4) Authorization of appropriations
 
@@ -462,7 +462,7 @@ Memorandum of President of the United States, Feb. 23, 2004, 69 F.R. 9509, provi
 
 Memorandum for the Secretary of State
 
-By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority conferred upon the President by sections 202(c), 305, and 313 of theUnited States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 (Public Law 108–25) \[22 U.S.C. 7622(c), 7635, and 7653\], to provide the specified reports to the Congress. In addition, I delegate to you the authority vested in the President by section 101 of Public Law 108–25 \[22 U.S.C. 7611\] to establish a comprehensive, integrated, 5-year strategy to combat global HIV/AIDS and to submit to the appropriate congressional committees a report setting forth the strategy.
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority conferred upon the President by sections 202(c), 305, and 313 of the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 (Public Law 108–25) \[22 U.S.C. 7622(c), 7635, and 7653\], to provide the specified reports to the Congress. In addition, I delegate to you the authority vested in the President by section 101 of Public Law 108–25 \[22 U.S.C. 7611\] to establish a comprehensive, integrated, 5-year strategy to combat global HIV/AIDS and to submit to the appropriate congressional committees a report setting forth the strategy.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

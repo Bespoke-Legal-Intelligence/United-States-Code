@@ -82,7 +82,7 @@ Subsec. (a)(2)(C). Pub. L. 110–394, §10(2)(C), substituted “blooms; and” 
 
 Subsec. (c)(1). Pub. L. 110–394, §10(3), substituted “performance assessments” for “rating under section 1123(d)(3)(A) of this title”.
 
-Subsec. (c)(2). Pub. L. 110–394, §10(4), added par. (2) and struck out former par. (2) which read as follows:“national strategic investments authorized under section 1123(b)(4) of this title;”.
+Subsec. (c)(2). Pub. L. 110–394, §10(4), added par. (2) and struck out former par. (2) which read as follows: “national strategic investments authorized under section 1123(b)(4) of this title;”.
 
 2002—Subsecs. (a) to (c). Pub. L. 107–299 amended subsecs. (a) to (c) generally, substituting provisions relating to authorization, limitations, and distribution of funds for provisions relating to authorization, program elements, and priority oyster disease research.
 

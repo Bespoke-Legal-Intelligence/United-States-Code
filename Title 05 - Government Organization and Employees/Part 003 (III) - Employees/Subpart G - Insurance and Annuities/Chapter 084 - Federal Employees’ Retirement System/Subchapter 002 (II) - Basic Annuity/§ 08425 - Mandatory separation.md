@@ -10,7 +10,7 @@
 
 (c) A member of the Capitol Police who is otherwise eligible for immediate retirement under section 8412(d) shall be separated from the service on the last day of the month in which such member becomes 57 years of age or completes 20 years of service if then over that age. The Capitol Police Board, when in its judgment the public interest so requires, may exempt such a member from automatic separation under this subsection until that member becomes 60 years of age. The Board shall notify the member in writing of the date of separation at least 60 days before that date. Action to separate the member is not effective, without the consent of the member, until the last day of the month in which the 60-day notice expires.
 
-(d) A member of the Supreme Court Police who is otherwise eligible for immediate retirement under section 8412(d) shall be separated from the service on the last day of the month in which such member becomes 57 years of age or completes 20 years of service if then over that age. The Marshal of the Supreme Court of the United States, when in his judgment the public interest so requires, may exempt such a member from automatic separation under this subsection until that member becomes 60 years of age. The Marshal shall notify the member in writing of the date of separation at least 60 days before the date. Action to separate the member is not effective, without the consent of the member, until the last day of the month in which the 60-day notice expires.
+(d) A member of the Supreme Court Police who is otherwise eligible for immediate retirement under section 8412(d) shall be separatedfrom the service on the last day of the month in which such member becomes 57 years of age or completes 20 years of service if then over that age. The Marshal of the Supreme Court of the United States, when in his judgment the public interest so requires, may exempt such a member from automatic separation under this subsection until that member becomes 60 years of age. The Marshal shall notify the member in writing of the date of separation at least 60 days before the date. Action to separate the member is not effective, without the consent of the member, until the last day of the month in which the 60-day notice expires.
 
 (e) The President, by Executive order, may exempt an employee (other than a member of the Capitol Police or Supreme Court Police) from automatic separation under this section if the President determines the public interest so requires.
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 106–553 effective on the first day of the first applicabl
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–261 effective 1 year after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
+Amendment by Pub. L. 105–261 effective 1 year after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17,1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
 
 #### Effective Date of 1992 Amendment
 

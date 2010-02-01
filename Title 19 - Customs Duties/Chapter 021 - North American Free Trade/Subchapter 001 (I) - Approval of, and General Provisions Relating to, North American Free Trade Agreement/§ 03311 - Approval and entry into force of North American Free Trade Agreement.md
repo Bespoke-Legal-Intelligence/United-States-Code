@@ -48,7 +48,7 @@ Termination of NAFTA Status.—During any period in which a country ceases to be
 
 #### North American Free Trade Agreement: Entry Into Force
 
-A Presidential Memorandum on the Implementation of the North American Free Trade Agreement, datedDec. 27, 1993, directing the Secretary of State to exchange notes with the Government of Canada and the Government of Mexico to provide for the entry into force of the Agreement on Jan. 1, 1994, is set out in 29 Weekly Compilation of Presidential Documents 2641, Jan. 3, 1994.
+A Presidential Memorandum on the Implementation of the North American Free Trade Agreement, dated Dec. 27, 1993, directing the Secretary of State to exchange notes with the Government of Canada and the Government of Mexico to provide for the entry into force of the Agreement on Jan. 1, 1994, is set out in 29 Weekly Compilation of Presidential Documents 2641, Jan. 3, 1994.
 
 #### Ex. Ord. No. 12889. Implementation of North American Free Trade Agreement
 
@@ -98,7 +98,7 @@ Sec. 5. <i>Government Procurement Procedures</i>. (a) Waiver.
 
 Sec. 6. <i>Government Use of Patented Technology</i>. (a) Each agency shall, within 30 days from the date this order is issued, modify or adopt procedures to ensure compliance with Article 1709(10) of the NAFTA regarding notice when patented technology is used by or for the Federal Government without a license from the owner, except that the requirement of Article 1709(10)(b) regarding reasonable efforts to obtain advance authorization from the patent owner:
 
-&emsp;(1) is hereby waived for an invention used or manufactured by or for the Federal Government, except that the patent owner must be notified whenever the agency or its contractor, without making a patent search, knows or has demonstrable reasonable grounds to know that an invention described in and covered by a valid United States patent is or will be used or manufactured without a license; and
+&emsp;(1) is hereby waived for an invention used or manufactured by or for the Federal Government, exceptthat the patent owner must be notified whenever the agency or its contractor, without making a patent search, knows or has demonstrable reasonable grounds to know that an invention described in and covered by a valid United States patent is or will be used or manufactured without a license; and
 
 &emsp;(2) is waived whenever a national emergency or other circumstances of extreme urgency exists, except that the patent owner must be notified as soon as it is reasonably practicable to do so.
 
@@ -106,7 +106,7 @@ Sec. 6. <i>Government Use of Patented Technology</i>. (a) Each agency shall, wit
 
 (c) In addition to the general provisions of section 7 of this order regarding enforceable rights, nothing in this order is intended to suggest that the giving of notice to a patent owner under Article 1709(10) of the NAFTA constitutes an admission that the Federal Government has infringed a valid privately-owned patent.
 
-Sec. 7. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceableat law by a party against the United States, its agencies, its officers, or any person.
+Sec. 7. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
 Sec. 8. <i>Effective Date</i>. This order shall take effect upon the date of entry into force of the NAFTA for the United States.
 

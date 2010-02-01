@@ -142,7 +142,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) any—
 
-&emsp;&emsp;&emsp;&emsp;(I) gross income from interest, dividends, annuities, or royalties not derived in the ordinary course of a trade or business,
+&emsp;&emsp;&emsp;&emsp;(I) gross income from interest, dividends, annuities, or royalties not derivedin the ordinary course of a trade or business,
 
 &emsp;&emsp;&emsp;&emsp;(II) expenses (other than interest) which are clearly and directly allocable to such gross income, and
 
@@ -216,7 +216,7 @@ For purposes of this section—
 
 #### (g) Dispositions of entire interest in passive activity
 
-If during the taxable year a taxpayer disposes of his entire interest in any passive activity (orformer passive activity), the following rules shall apply:
+If during the taxable year a taxpayer disposes of his entire interest in any passive activity (or former passive activity), the following rules shall apply:
 
 #### (1) Fully taxable transaction
 
@@ -236,7 +236,7 @@ If during the taxable year a taxpayer disposes of his entire interest in any pas
 
 #### (C) Income from prior years
 
-&emsp;&emsp;To the extent provided in regulations, income or gain from the activity for preceding taxable years shall be taken into account under subparagraph (A)(ii) for the taxable year to the extent necessary to prevent the avoidance of this section.
+&emsp;&emsp;To the extent provided in regulations, income or gain from the activity for preceding taxable years shall be taken into account under subparagraph (A)(ii) for the taxableyear to the extent necessary to prevent the avoidance of this section.
 
 #### (2) Disposition by death
 
@@ -412,7 +412,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) by substituting “any” for “50 percent or more in value” in section 318(a)(2)(C).
 
-> &emsp;A corporation shall not be treated as a personal service corporation unless more than 10percent of the stock (by value) in such corporation is held by employee-owners (within the meaning of section 269A(b)(2), as modified by the preceding sentence).
+> &emsp;A corporation shall not be treated as a personal service corporation unless more than 10 percent of the stock (by value) in such corporation is held by employee-owners (within the meaning of section 269A(b)(2), as modified by the preceding sentence).
 
 #### (3) Regular tax liability
 
@@ -525,7 +525,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;&emsp;The portion of the passive activity loss (or passive activity credit) for any taxable year which is attributable to pre-enactment interests is the lesser of—
 
-&emsp;&emsp;&emsp;(i) the amount of the passive activity loss (or passive activity credit) which is disallowed for the taxable year under subsection (a) (without regard to this subsection), or
+&emsp;&emsp;&emsp;(i) the amount of the passive activity loss (or passive activity credit) which isdisallowed for the taxable year under subsection (a) (without regard to this subsection), or
 
 &emsp;&emsp;&emsp;(ii) the amount of the passive activity loss (or passive activity credit) which would be disallowed for the taxable year (without regard to this subsection and without regard to any amount allocable to an activity for the taxable year under subsection (b)) taking into account only pre-enactment interests.
 
@@ -583,7 +583,7 @@ Subsec. (k)(4). Pub. L. 108–357, §331(g), added par. (4).
 
 &emsp;“(iv) then to the portion of such credit to which subparagraph (C) applies.”
 
-Subsec. (i)(6)(B). Pub. L. 106–554, §1(a)(7) \[title I, §101(b)(3)(B)\], substituted “, rehabilitation credit, orcommercial revitalization deduction” for “or rehabilitation credit” in heading.
+Subsec. (i)(6)(B). Pub. L. 106–554, §1(a)(7) \[title I, §101(b)(3)(B)\], substituted “, rehabilitation credit, or commercial revitalization deduction” for “or rehabilitation credit” in heading.
 
 Subsec. (i)(6)(B)(iii). Pub. L. 106–554, §1(a)(7) \[title I, §101(b)(3)(A)\], added cl. (iii).
 
@@ -711,7 +711,7 @@ Amendment by Pub. L. 105–277 effective as if included in the provision of the 
 
 #### Effective Date of 1996 Amendment
 
-Section 1704(d)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Section 1704(d)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply to taxable years beginning after December 31, 1986.”
 
 Section 1704(e)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 

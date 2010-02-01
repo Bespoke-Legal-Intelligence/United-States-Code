@@ -70,7 +70,7 @@
 
 #### (E) Minimum content standards
 
-&emsp;&emsp;Subject to subparagraph (B), a procuring agency adopting the minimum contentstandards policy shall establish minimum biobased products content specifications for awarding contracts in a manner that ensures that the biobased products content required is consistent with this subsection.
+&emsp;&emsp;Subject to subparagraph (B), a procuring agency adopting the minimum content standards policy shall establish minimum biobased products content specifications for awarding contracts in a manner that ensures that the biobased products content required is consistent with this subsection.
 
 #### (F) Certification
 
@@ -88,7 +88,7 @@
 
 &emsp;&emsp;&emsp;(i) designate those items (including finished products) that are or can be produced with biobased products (including biobased products for which there is only a single product or manufacturer in the category) that will be subject to the preference described in paragraph (2);
 
-&emsp;&emsp;&emsp;(ii) designate those intermediate ingredients and feedstocks that are or can be used to produce items that will be subject to the preference described in paragraph (2);
+&emsp;&emsp;&emsp;(ii) designate those intermediate ingredients and feedstocks that are or can be usedto produce items that will be subject to the preference described in paragraph (2);
 
 &emsp;&emsp;&emsp;(iii) automatically designate items composed of intermediate ingredients and feedstocks designated under clause (ii), if the content of the designated intermediate ingredients and feedstocks exceeds 50 percent of the item (unless the Secretary determines a different composition percentage is appropriate);
 
@@ -148,7 +148,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(V) the types and dollar value of biobased products actually used by contractors in carrying out service and construction (including renovations) contracts during the previous year; and
 
-&emsp;&emsp;&emsp;(ii) the General Services Administration and the Defense Logistics Agency shallsubmit each year to the Office of Federal Procurement Policy information concerning, to the maximum extent practicable, the types and dollar value of biobased products purchased by procuring agencies.
+&emsp;&emsp;&emsp;(ii) the General Services Administration and the Defense Logistics Agency shall submit each year to the Office of Federal Procurement Policy information concerning, to the maximum extent practicable, the types and dollar value of biobased products purchased by procuring agencies.
 
 #### (C) Procurement subject to other law
 
@@ -242,7 +242,7 @@ The Secretary shall establish a national registry of testing centers for biobase
 
 #### References in Text
 
-The date of the enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(2)(A),\(e), and (g)(1), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+The date of the enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(2)(A), (e), and (g)(1), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 #### Codification
 

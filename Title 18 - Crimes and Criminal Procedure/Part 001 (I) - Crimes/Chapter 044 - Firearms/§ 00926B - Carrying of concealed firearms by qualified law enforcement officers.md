@@ -1,6 +1,6 @@
 ### §926B. Carrying of concealed firearms by qualified law enforcement officers
 
-(a) Notwithstanding any other provision of the law of any State or any political subdivisionthereof, an individual who is a qualified law enforcement officer and who is carrying the identification required by subsection (d) may carry a concealed firearm that has been shipped or transported in interstate or foreign commerce, subject to subsection (b).
+(a) Notwithstanding any other provision of the law of any State or any political subdivision thereof, an individual who is a qualified law enforcement officer and who is carrying the identification required by subsection (d) may carry a concealed firearm that has been shipped or transported in interstate or foreign commerce, subject to subsection (b).
 
 (b) This section shall not be construed to supersede or limit the laws of any State that—
 

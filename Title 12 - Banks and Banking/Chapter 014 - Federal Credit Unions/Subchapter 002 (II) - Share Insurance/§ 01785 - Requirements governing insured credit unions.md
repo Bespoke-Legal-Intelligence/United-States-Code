@@ -42,7 +42,7 @@ In general.—Notwithstanding paragraph (1), an insured credit union may convert
 
 &emsp;(B)
 
-Conversion proposal.—A proposal for a conversion described in subparagraph (A) shall first be approved, and a date set for a vote thereon by the members (either at a meeting to be held on that date or by written ballot to be filed on or before that date), by a majority of the directors of the insured credit union. Approval of the proposal for conversion shall be by the affirmative vote of a majority of the members of the insured credit union who vote on the proposal.
+Conversion proposal.—A proposal for a conversion described in subparagraph (A) shall first be approved, and a date set for a vote thereon by the members (either at a meeting to be held on that date or by written ballot tobe filed on or before that date), by a majority of the directors of the insured credit union. Approval of the proposal for conversion shall be by the affirmative vote of a majority of the members of the insured credit union who vote on the proposal.
 
 &emsp;(C)
 
@@ -168,7 +168,7 @@ In granting or withholding approval or consent under subsection (b) of this sect
 
 #### (g) Interest rates
 
-(1) If the applicable rate prescribed in this subsection exceeds the rate an insured credit union would be permitted to charge in the absence of this subsection, such credit union may, notwithstanding any State constitution or statute which is hereby preempted for the purposes ofthis subsection, take, receive, reserve, and charge on any loan, interest at a rate of not more than 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where such insured credit union is located or at the rate allowed by the laws of the State, territory, or district where such credit union is located, whichever may be greater.
+(1) If the applicable rate prescribed in this subsection exceeds the rate an insured credit union would be permitted to charge in the absence of this subsection, such credit union may, notwithstanding any State constitution or statute which is hereby preempted for the purposes of this subsection, take, receive, reserve, and charge on any loan, interest at a rate of not more than 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where such insured credit union is located or at the rate allowed by the laws of the State, territory, or district where such credit union is located, whichever may be greater.
 
 (2) If the rate prescribed in paragraph (1) exceeds the rate such credit union would be permitted to charge in the absence of this subsection, and such State fixed rate is thereby preempted by the rate described in paragraph (1), the taking, receiving, reserving, or charging a greater rate than is allowed by paragraph (1), when knowingly done, shall be deemed a forfeiture of the entire interest which the loan carries with it, or which has been agreed to be paid thereon. If such greater rate of interest has been paid, the person who paid it may recover, in a civil action commenced in a court of appropriate jurisdiction not later than two years after the date of such payment, an amount equal to twice the amount of interest paid from the credit union taking or receiving such interest.
 
@@ -184,7 +184,7 @@ Notwithstanding any other provision of law, the Board may authorize a merger or 
 
 #### (i) Emergency purchase of assets; conversion to insured deposits
 
-(1) Notwithstanding any other provision of this chapter or of State law, the Board may authorize an institution whose deposits or accounts are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation to purchase any of the assets of or assume any of the liabilities of an insured credit union which is insolvent or in danger of insolvency, except that prior to exercising this authority the Board must attempt to effect the merger or consolidation of an insured credit union which is insolvent or in danger of insolvency with another insured credit union, as provided in subsection (h) of this section.
+(1) Notwithstanding any other provision of this chapter or of State law, the Board may authorize an institution whose deposits or accounts are insured by the Federal Deposit Insurance Corporation or the Federal Savings andLoan Insurance Corporation to purchase any of the assets of or assume any of the liabilities of an insured credit union which is insolvent or in danger of insolvency, except that prior to exercising this authority the Board must attempt to effect the merger or consolidation of an insured credit union which is insolvent or in danger of insolvency with another insured credit union, as provided in subsection (h) of this section.
 
 (2) For purposes of the authority contained in paragraph (1), insured accounts of the credit union may upon consummation of the purchase and assumption be converted to insured deposits or other comparable accounts in the acquiring institution, and the Board and the National Credit Union Share Insurance Fund shall be absolved of any liability to the credit union's members with respect to those accounts.
 
@@ -254,7 +254,7 @@ Pub. L. 109–173, §2(e), Feb. 15, 2006, 119 Stat. 3605, provided that: “This
 
 #### Effective Date of 1980 Amendment
 
-Enactment of subsec. (f) by Pub. L. 96–221 effective at the close of Mar. 31, 1980, see section 306 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 371a of this title.
+Enactment of subsec. (f) by Pub. L. 96–221 effective at the close of Mar. 31, 1980, see section 306 of Pub. L.96–221, set out as an Effective Date of 1980 Amendment note under section 371a of this title.
 
 Section 525 of Pub. L. 96–221 provided that: “The amendments made by sections 521 through 523 of this title \[amending this section and enacting sections 1730g and 1831d of this title\] shall apply only with respect to loans made in any State during the period beginning on April 1, 1980, and ending on the date, on or after April 1, 1980, on which such State adopts a law or certifies that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly and by its terms that such State does not want the amendments made by such sections to apply with respect to loans made in such State, except that such amendments shall apply to a loan made on or after the date such law is adopted or such certification is made if such loan is made pursuant to a commitment to make such loan which was entered into on or after April 1, 1980, and prior to the date on which such law is adopted or such certification is made.”
 

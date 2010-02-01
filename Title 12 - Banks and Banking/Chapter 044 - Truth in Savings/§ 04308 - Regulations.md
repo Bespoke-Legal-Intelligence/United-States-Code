@@ -26,7 +26,7 @@
 
 #### (2) Use of forms and clauses deemed in compliance
 
-&emsp;Nothing in this chapter may be construed to require a depository institution to use any such model form or clause prescribed by the Board under this subsection. A depository institution shall be deemed to be in compliance with the disclosure provisions of this chapter if the depository institution—
+&emsp;Nothing in this chapter may be construed to require a depository institution to use anysuch model form or clause prescribed by the Board under this subsection. A depository institution shall be deemed to be in compliance with the disclosure provisions of this chapter if the depository institution—
 
 &emsp;&emsp;(A) uses any appropriate model form or clause as published by the Board; or
 

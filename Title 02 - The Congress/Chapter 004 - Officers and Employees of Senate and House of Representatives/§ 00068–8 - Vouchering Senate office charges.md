@@ -14,7 +14,7 @@ Payments under this section shall be charged to the official funds of the office
 
 #### (c) Certification
 
-Any voucher submitted by a Senate support office pursuant to this section shall be accompanied by a certification from such office of the amount and that such purchases were of the nature that they could be charged to the official funds of the office on whose behalf charges were paid, or to which goods or services were provided.
+Any voucher submitted by a Senate support office pursuant to this section shall be accompanied by a certification from such office of the amount and that such purchases were of the nature that they could be charged to the officialfunds of the office on whose behalf charges were paid, or to which goods or services were provided.
 
 #### (d) Regulations
 

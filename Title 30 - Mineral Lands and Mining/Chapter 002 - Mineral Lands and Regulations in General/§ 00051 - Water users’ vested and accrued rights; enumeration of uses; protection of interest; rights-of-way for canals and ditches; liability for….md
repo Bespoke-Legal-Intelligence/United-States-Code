@@ -6,7 +6,7 @@ Whenever, by priority of possession, rights to the use of water for mining, agri
 
 #### Repeals
 
-<i>Provision of this section, “and the right-of-way for the construction of ditches and canals for the purposes herein specified is acknowledged and confirmed; but whenever any person, in the construction of any ditch or canal, injures or damages the possession of any settler on the public domain, the party committing such injury or damage shall be liable to the party injured for such injury or damage.” was repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.</i>
+<i>Provision of this section, “and the right-of-way for the construction of ditches and canals for the purposes herein specified is acknowledged and confirmed; but whenever any person, in the construction of any ditch or canal, injures or damages the possession of any settler on the public domain, the party committing</i><i>such injury or damage shall be liable to the party injured for such injury or damage.” was repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.</i>
 
 #### Codification
 

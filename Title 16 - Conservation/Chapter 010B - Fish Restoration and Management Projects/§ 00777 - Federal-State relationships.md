@@ -64,7 +64,7 @@ Section 204 of title II of Pub. L. 91–503, Oct. 23, 1970, 84 Stat. 1104, provi
 
 #### Short Title
 
-Act Aug. 9, 1950, ch. 658, §16, formerly §15, as added by Pub. L. 106–408, title I, §101(c), Nov. 1, 2000, 114 Stat. 1763; renumbered §16, Pub. L. 109–59, title X, §10119, Aug. 10, 2005, 119 Stat. 1929, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Dingell-Johnson Sport Fish Restoration Act’.”
+Act Aug. 9, 1950, ch. 658, §16, formerly §15, as added by Pub. L. 106–408, title I, §101(c), Nov. 1, 2000, 114 Stat.1763; renumbered §16, Pub. L. 109–59, title X, §10119, Aug. 10, 2005, 119 Stat. 1929, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Dingell-Johnson Sport Fish Restoration Act’.”
 
 Act Aug. 9, 1950, ch. 658, as amended, is also popularly known as the “Federal Aid in Fish Restoration Act” and the “Fish Restoration and Management Projects Act”.
 
@@ -74,7 +74,7 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior in
 
 #### Fisheries Restoration and Irrigation Mitigation
 
-Pub. L. 106–502, Nov. 13, 2000, 114 Stat. 2294, provided that:
+Pub. L. 106–502, Nov. 13, 2000, 114 Stat. 2294, as amended by Pub. L. 111–11, title XIII, §13002, Mar. 30, 2009, 123 Stat. 1447, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -134,7 +134,7 @@ Types of projects.—Projects eligible under the Program may include—
 
 &emsp;“(3)
 
-Priority.—The Secretary shall give priority to any project that has a total cost of less than $5,000,000.
+Priority.—The Secretary shall give priority to any project that has a total cost of less than $2,500,000.
 
 #### “SEC. 4. PARTICIPATION IN THE PROGRAM.
 
@@ -198,7 +198,23 @@ Non-Federal Contributions.—The non-Federal participants in any project under t
 
 “(c)
 
-Credit for Contributions.—The value of land, easements, rights-of-way, dredged material disposal areas, and relocations provided under subsection (b) for a project shall be credited toward the non-Federal share of the costs of the project.
+Credit for Contributions.—
+
+&emsp;“(1)
+
+In general.—The value of land, easements, rights-of-way, dredged material disposal areas, and relocations provided under subsection (b) for a project shall be credited toward the non-Federal share of the costs of the project.
+
+&emsp;“(2)
+
+Bonneville Power Administration.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Secretary may, without further appropriation and without fiscal year limitation, accept any amounts provided to the Secretary by the Administrator of the Bonneville Power Administration.
+
+&emsp;&emsp;“(B)
+
+Non-federal share.—Any amounts provided by the Bonneville Power Administration directly or through a grant to another entity for a project carried under the Program shall be credited toward the non-Federal share of the costs of the project.
 
 “(d)
 
@@ -218,7 +234,7 @@ Federal responsibility.—The Federal Government shall be responsible for costs 
 
 #### “SEC. 9. REPORT.
 
-“On the expiration of the third fiscal year for which amounts are made available to carry out this Act, the Secretary shall submit to Congress a report describing—
+“On the expiration of the third fiscal year for which any amounts are made available to carry out this Act, the Secretary shall, after partnering with local governmental entities and the States in the Pacific Ocean drainage area, submit to Congress a report describing—
 
 &emsp;“(1) the projects that have been completed under this Act;
 
@@ -230,7 +246,7 @@ Federal responsibility.—The Federal Government shall be responsible for costs 
 
 “(a)
 
-In General.—There is authorized to be appropriated to carry out this Act $25,000,000 for each of fiscal years 2001 through 2005.
+In General.—There is authorized to be appropriated to carry out this Act $25,000,000 for each of fiscal years 2009 through 2015.
 
 “(b)
 
@@ -250,5 +266,43 @@ Waiver.—On notification to Congress, the Secretary may waive the limitation un
 
 &emsp;“(2)
 
-Administrative expenses.—Not more than 6 percent of the funds authorized under this section for any fiscal year may be used for Federal administrative expenses of carrying out this Act.”
+Administrative expenses.—
+
+&emsp;&emsp;“(A)
+
+Definition of administrative expense.—In this paragraph, the term ‘administrative expense’ means, except as provided in subparagraph (B)(iii)(II), any expenditure relating to—
+
+&emsp;&emsp;&emsp;“(i) staffing and overhead, such as the rental of office space and the acquisition of office equipment; and
+
+&emsp;&emsp;&emsp;“(ii) the review, processing, and provision of applications for funding under the Program.
+
+&emsp;&emsp;“(B)
+
+Limitation.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—Not more than 6 percent of amounts made available to carry out this Act for each fiscal year may be used for Federal and State administrative expenses of carrying out this Act.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Federal and state shares.—To the maximum extent practicable, of the amounts made available for administrative expenses under clause (i)—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) 50 percent shall be provided to the State agencies provided assistance under the Program; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) an amount equal to the cost of 1 full-time equivalent Federal employee, as determined by the Secretary, shall be provided to the Federal agency carrying out the Program.
+
+&emsp;&emsp;&emsp;“(iii)
+
+State expenses.—Amounts made available to States for administrative expenses under clause (i)—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) shall be divided evenly among all States provided assistance under the Program; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) may be used by a State to provide technical assistance relating to the program, including any staffing expenditures (including staff travel expenses) associated with—
+
+&emsp;&emsp;&emsp;“(aa) arranging meetings to promote the Program to potential applicants;
+
+&emsp;&emsp;&emsp;“(bb) assisting applicants with the preparation of applications for funding under the Program; and
+
+&emsp;&emsp;&emsp;“(cc) visiting construction sites to provide technical assistance, if requested by the applicant.”
 

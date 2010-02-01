@@ -72,7 +72,7 @@ In the sole discretion of the Secretary (except as provided in subsection (c)(2)
 
 #### (1) Authorization of appropriations
 
-&emsp;Notwithstanding section 102 of the Foreign Relations Authorization Act, Fiscal Years 1986and 1987 (Public Law 99–93; 99 Stat. 408), but subject to paragraph (2), there are authorized to be appropriated to the Department of State from time to time such amounts as may be necessary to carry out this section.
+&emsp;Notwithstanding section 102 of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987 (Public Law 99–93; 99 Stat. 408), but subject to paragraph (2), there are authorized to be appropriated to the Department of State from time to time such amounts as may be necessary to carry out this section.
 
 #### (2) Period of availability
 
@@ -112,7 +112,7 @@ An officer or employee of any entity of Federal, State, or local government or o
 
 #### (1) Reports on payment of rewards
 
-&emsp;Not later than 30 days after the payment of any reward under this section, the Secretary shall submit a report to the appropriate congressional committees with respect to such reward. The report, which may be submitted in classified form if necessary, shall specify the amount of the reward paid, to whom the reward was paid, and the acts with respect to which the reward was paid. The report shall also discuss the significance of the information for which the reward was paid in dealing with those acts.
+&emsp;Not later than 30 days after the payment of any reward under this section, the Secretary shall submit a report to the appropriate congressional committees with respect to such reward. The report, which may be submitted inclassified form if necessary, shall specify the amount of the reward paid, to whom the reward was paid, and the acts with respect to which the reward was paid. The report shall also discuss the significance of the information for which the reward was paid in dealing with those acts.
 
 #### (2) Annual reports
 

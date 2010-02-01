@@ -72,7 +72,7 @@
 
 &emsp;&emsp;Any bank which files an application for an interstate merger transaction shall—
 
-&emsp;&emsp;&emsp;(i) comply with the filing requirements of any host State of the bank which willresult from such transaction to the extent that the requirement—
+&emsp;&emsp;&emsp;(i) comply with the filing requirements of any host State of the bank which will result from such transaction to the extent that the requirement—
 
 &emsp;&emsp;&emsp;&emsp;(I) does not have the effect of discriminating against out-of-State banks or out-of-State bank holding companies or subsidiaries of such banks or bank holding companies; and
 
@@ -200,19 +200,47 @@ If an application under subsection (a)(1) of this section for approval of a merg
 
 #### (1) In general
 
-&emsp;In the case of any State that has a constitutional provision that sets a maximum lawful annual percentage rate of interest on any contract at not more than 5 percent above the discount rate for 90-day commercial paper in effect at the Federal reserve bank for the Federal reserve district in which such State is located, except as provided in paragraph (2), upon the establishment in such State of a branch of any out-of-State insured depository institution in such State under this section, the maximum interest rate or amount of interest, discount points, finance charges, or other similar charges that may be charged, taken, received, or reserved from time to time in any loan or discount made or upon any note, bill of exchange, financing transaction, or other evidence of debt by any insured depository institution whose home State is such State shall be equal to not more than the greater of—
+&emsp;In the case of any State that has a constitutional provision that sets a maximum lawful annual percentage rate of interest on any contract at not more than 5 percent above the discount rate for 90-day commercial paper in effect at the Federal reserve bank for the Federal reserve district in which such State is located, except as provided in paragraph (2), upon the establishment in such State of a branch of any out-of-State insured depository institution in such State under this section,the maximum interest rate or amount of interest, discount points, finance charges, or other similar charges that may be charged, taken, received, or reserved (or in the case of a governmental entity located in such State, paid) from time to time in any loan or discount made or upon any note, bill of exchange, financing transaction, or other evidence of debt by—
 
-&emsp;&emsp;(A) the maximum interest rate or amount of interest, discount points, finance charges, or other similar charges that may be charged, taken, received, or reserved in a similar transaction under the constitution or any statute or other law of the home State of the out-of-State insured depository institution establishing any such branch, without reference to this section, as such maximum interest rate or amount of interest may change from time to time; or
+&emsp;&emsp;(A) any insured depository institution whose home State is such State shall be equal to not more than the greater of—
 
-&emsp;&emsp;(B) the maximum rate or amount of interest, discount points, finance charges, or other similar charges that may be charged, taken, received, or reserved in a similar transaction by a State insured depository institution chartered under the laws of such State or a national bank or Federal savings association whose main office is located in such State without reference to this section.
+&emsp;&emsp;&emsp;(i) the maximum interest rate or amount of interest, discount points, finance charges, or other similar charges that may be charged, taken, received, or reserved in a similar transaction under the constitution or any statute or other law of the home State of the out-of-State insured depository institution establishing any such branch, without reference to this section, as such maximum interest rate or amount of interest may change from time to time; or
+
+&emsp;&emsp;&emsp;(ii) the maximum rate or amount of interest, discount points, finance charges, or other similar charges that may be charged, taken, received, or reserved in a similar transaction by a State insured depository institution chartered under the laws of such State or a national bank or Federal savings association whose main office is located in such State without reference to this section; and
+
+&emsp;&emsp;(B) any governmental entity located in such State or any person that is not a depository institution described in subparagraph (A) doing business in such State, shall be equal to not more than the greater of the State's maximum lawful annual percentage rate or 17 percent—
+
+&emsp;&emsp;&emsp;(i) to facilitate the uniform implementation of federally mandated or federally established programs and financings related thereto, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) uniform accessibility of student loans, including the issuance of qualified student loan bonds as set forth in section 144(b) of title 26;
+
+&emsp;&emsp;&emsp;&emsp;(II) the uniform accessibility of mortgage loans, including the issuance of qualified mortgage bonds and qualified veterans’ mortgage bonds as set forth in section 143 of such title;
+
+&emsp;&emsp;&emsp;&emsp;(III) the uniform accessibility of safe and affordable housing programs administered or subject to review by the Department of Housing and Urban Development, including—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the issuance of exempt facility bonds for qualified residential rental property as set forth in section 142(d) of such title; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the issuance of low income housing tax credits as set forth in section 42 of such title; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) the uniform accessibility of bonds and obligations issued under the American Recovery and Reinvestment Act of 2009;
+
+&emsp;&emsp;&emsp;(ii) to facilitate interstate commerce through the issuance of bonds and obligations under any provision of State law, including bonds and obligations for the purpose of economic development, education, and improvements to infrastructure; and
+
+&emsp;&emsp;&emsp;(iii) to facilitate interstate commerce generally, including consumer loans, in the case of any person or governmental entity (other than a depository institution subject to subparagraph (A) and paragraph (2)).
 
 #### (2) Rule of construction
 
-&emsp;No provision of this subsection shall be construed as superseding or affecting—
+#### (A) In general
 
-&emsp;&emsp;(A) the authority of any insured depository institution to take, receive, reserve, and charge interest on any loan made in any State other than the State referred to in paragraph (1); or
+&emsp;&emsp;No provision of this subsection shall be construed as superseding or affecting—
 
-&emsp;&emsp;(B) the applicability of section 1735f–7a of this title, section 85 of this title, or section 1831d of this title.
+&emsp;&emsp;&emsp;(i) the authority of any insured depository institution to take, receive, reserve, and charge interest on any loan made in any State other than the State referred to in paragraph (1); or
+
+&emsp;&emsp;&emsp;(ii) the applicability of section 1735f–7a of this title, section 85 of this title, or section 1831d of this title.
+
+#### (B) Applicability
+
+&emsp;&emsp;This subsection shall be construed to apply to any loan or discount made, or note, bill of exchange, financing transaction, or other evidence of debt, originated by an insured depository institution, a governmental entity located in such State, or a person that is not a depository institution described in subparagraph (A) doing business in such State.
 
 #### (g) Definitions
 
@@ -274,9 +302,37 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The term “resulting bank” means a bank that has resulted from an interstate merger transaction under this section.
 
-(Sept. 21, 1950, ch. 967, §2\[44\], as added Pub. L. 103–328, title I, §102(a), Sept. 29, 1994, 108 Stat. 2343; amended Pub. L. 106–102, title VII, §731, Nov. 12, 1999, 113 Stat. 1477.)
+(Sept. 21, 1950, ch. 967, §2\[44\], as added Pub. L. 103–328, title I, §102(a), Sept. 29, 1994, 108 Stat. 2343; amended Pub. L. 106–102, title VII, §731, Nov. 12, 1999, 113 Stat. 1477; Pub. L. 111–32, title V, §504(a), June 24, 2009, 123 Stat. 1880; Pub. L. 111–83, title V, §563(a), (b), Oct. 28, 2009, 123 Stat. 2183.)
+
+#### References in Text
+
+The American Recovery and Reinvestment Act of 2009, referred to in subsec. (f)(1)(B)(i)(IV), is Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 115. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
 
 #### Amendments
 
+2009—Subsec. (f)(1). Pub. L. 111–83, §563(a)(1), inserted “(or in the case of a governmental entity located in such State, paid)” after “received, or reserved” in introductory provisions.
+
+Pub. L. 111–32 substituted “evidence of debt by—” for “evidence of debt by”, inserted subpar. (A) designation, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, realigned margins, and added subpar. (B).
+
+Subsec. (f)(1)(B). Pub. L. 111–83, §563(a)(2)(A), substituted “governmental entity located in such State or any person that is not a depository institution described in subparagraph (A) doing business in such State” for “nondepository institution operating in such State” in introductory provisions.
+
+Subsec. (f)(1)(B)(i)(III)(aa). Pub. L. 111–83, §563(a)(2)(C)(i)(I), inserted “and” at end.
+
+Subsec. (f)(1)(B)(i)(III)(bb). Pub. L. 111–83, §563(a)(2)(C)(i)(II), struck out “, to facilitate the uniform accessibility of provisions of the American Recovery and Reinvestment Act of 2009” after “section 42 of such title”.
+
+Subsec. (f)(1)(B)(i)(III)(cc). Pub. L. 111–83, §563(a)(2)(C)(i)(III), struck out item (cc), which read as follows: “the issuance of bonds and obligations issued under that Act, to facilitate economic development, higher education, and improvements to infrastructure, and the issuance of bonds and obligations issued under any provision of law to further the same; and”.
+
+Subsec. (f)(1)(B)(i)(IV). Pub. L. 111–83, §563(a)(2)(C)(ii), added subcl. (IV).
+
+Subsec. (f)(1)(B)(ii), (iii). Pub. L. 111–83, §563(a)(2)(B), (D), added cl. (ii) and redesignated former cl. (ii) as (iii).
+
+Subsec. (f)(2). Pub. L. 111–83, §563(b), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), realigned margins, and added subpar. (B).
+
 1999—Subsecs. (f), (g). Pub. L. 106–102 added subsec. (f) and redesignated former subsec. (f) as (g).
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–83, title V, §563(c), Oct. 28, 2009, 123 Stat. 2184, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to contracts consummated during the period beginning on the date of enactment of this Act \[Oct. 28, 2009\] and ending on December 31, 2010.”
+
+Pub. L. 111–32, title V, §504(b), June 24, 2009, 123 Stat. 1880, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to contracts consummated during the period beginning on the date of enactment of this Act \[June 24, 2009\] and ending on December 31, 2010.”
 

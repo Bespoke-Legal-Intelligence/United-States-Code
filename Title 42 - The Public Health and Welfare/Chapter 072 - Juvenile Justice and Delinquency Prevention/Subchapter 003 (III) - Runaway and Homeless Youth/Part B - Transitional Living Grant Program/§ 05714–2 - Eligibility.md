@@ -38,7 +38,7 @@ To be eligible for assistance under this part, an applicant shall propose to est
 
 #### (b) Priority
 
-In selecting eligible applicants to receive grants under this part, the Secretary shall givepriority to entities that have experience in providing to homeless youth shelter and services of the types described in subsection (a)(1) of this section.
+In selecting eligible applicants to receive grants under this part, the Secretary shall give priority to entities that have experience in providing to homeless youth shelter and services of the types described in subsection (a)(1) of this section.
 
 #### (c) Definition
 
@@ -66,7 +66,7 @@ Subsec. (a)(2). Pub. L. 110–378, §4(a)(2), substituted “a continuous period
 
 Subsec. (a)(16). Pub. L. 110–378, §4(a)(3)–(5), added par. (16).
 
-Subsec. (c). Pub. L. 110–378, §4(b), substituted “part—” for “part,”, inserted par. (1) designation before “the term”, substituted “; and” for period at end, and added par. (2).
+Subsec. (c). Pub. L. 110–378, §4(b), substituted “part—” for “part,”, inserted par. (1) designation before “theterm”, substituted “; and” for period at end, and added par. (2).
 
 2003—Subsec. (a)(1). Pub. L. 108–96, §107(a), inserted “including maternity group homes,” after “group homes,” and “parenting skills (as appropriate),” after “use of credit,”.
 

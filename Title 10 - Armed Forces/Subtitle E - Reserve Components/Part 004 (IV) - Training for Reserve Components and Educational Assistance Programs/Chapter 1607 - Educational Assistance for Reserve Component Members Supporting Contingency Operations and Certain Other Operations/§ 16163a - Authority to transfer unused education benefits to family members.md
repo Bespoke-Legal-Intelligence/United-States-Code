@@ -78,7 +78,7 @@ Additional Administrative Matters.—(1) The use of any entitlement to basic edu
 
 (4) The death of a member transferring an entitlement under this section shall not affect the use of the entitlement by the dependent to whom the entitlement is transferred.
 
-(5) Notwithstanding section 16164(a)(2), a child to whom entitlement is transferred under this section may use the benefit without regard tothe 10-year delimiting date, but may not use any entitlement so transferred after attaining the age of 26 years.
+(5) Notwithstanding section 16164(a)(2), a child to whom entitlement is transferred under this section may use the benefit without regard to the 10-year delimiting date, but may not use any entitlement so transferred after attaining the age of 26 years.
 
 (6) The administrative provisions of this chapter shall apply to the use of entitlement transferred under this section, except that the dependent to whom the entitlement is transferred shall be treated as the eligible member for purposes of such provisions.
 

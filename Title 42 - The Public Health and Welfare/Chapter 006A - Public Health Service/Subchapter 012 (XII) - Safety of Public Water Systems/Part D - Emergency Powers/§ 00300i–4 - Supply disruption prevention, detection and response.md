@@ -10,7 +10,7 @@ The Administrator, in coordination with the appropriate departments and agencies
 
 &emsp;(3) Methods and means by which pipes, constructed conveyances, collection, pretreatment, treatment, storage and distribution systems that are utilized in connection with public water systems could be altered or affected so as to be subject to cross-contamination of drinking water supplies.
 
-&emsp;(4) Methods and means by which pipes, constructed conveyances, collection, pretreatment, treatment, storage and distribution systems that are utilized in connection with public water systems could be reasonablyprotected from terrorist attacks or other acts intended to disrupt the supply or affect the safety of drinking water.
+&emsp;(4) Methods and means by which pipes, constructed conveyances, collection, pretreatment, treatment, storage and distribution systems that are utilized in connection with public water systems could be reasonably protected from terrorist attacks or other acts intended to disrupt the supply or affect the safety of drinking water.
 
 &emsp;(5) Methods and means by which information systems, including process controls and supervisory control and data acquisition and cyber systems at community water systems could be disrupted by terrorists or other groups.
 

@@ -2,7 +2,7 @@
 
 #### (a) Prerequisites
 
-Except as otherwise specifically provided in this subchapter, any civil action for a violation of this subchapter or proceeding under section 1607 of this title which may be brought against a creditor may be maintained against any assignee of such creditor only if the violation for which such action or proceeding is brought is apparent on the face of the disclosure statement, except where the assignment was involuntary. For the purpose of this section, a violation apparent on the face of the disclosure statement includes, but is not limited to (1) a disclosure which can be determined to be incomplete or inaccurate from the face of the disclosure statement or other documents assigned, or (2) a disclosure which does not use the terms required to be used by this subchapter.
+Except as otherwise specifically provided in this subchapter, any civil action for a violation of this subchapter or proceeding under section1607 of this title which may be brought against a creditor may be maintained against any assignee of such creditor only if the violation for which such action or proceeding is brought is apparent on the face of the disclosure statement, except where the assignment was involuntary. For the purpose of this section, a violation apparent on the face of the disclosure statement includes, but is not limited to (1) a disclosure which can be determined to be incomplete or inaccurate from the face of the disclosure statement or other documents assigned, or (2) a disclosure which does not use the terms required to be used by this subchapter.
 
 #### (b) Proof of compliance with statutory provisions
 
@@ -74,9 +74,31 @@ Any consumer who has the right to rescind a transaction under section 1635 of th
 
 &emsp;This subsection shall apply to all consumer credit transactions in existence or consummated on or after September 30, 1995.
 
-(Pub. L. 90–321, title I, §131, May 29, 1968, 82 Stat. 157; Pub. L. 96–221, title VI, §616(a), Mar. 31, 1980, 94 Stat. 182; Pub. L. 103–325, title I, §153(c), Sept. 23, 1994, 108 Stat. 2195; Pub. L. 104–29, §7, Sept. 30, 1995, 109 Stat. 274.)
+#### (g) Notice of new creditor
+
+#### (1) In general
+
+&emsp;In addition to other disclosures required by this subchapter, not later than 30 days after the date on which a mortgage loan is sold or otherwise transferred or assigned to a third party, the creditor that is the new owner or assignee of the debt shall notify the borrower in writing of such transfer, including—
+
+&emsp;&emsp;(A) the identity, address, telephone number of the new creditor;
+
+&emsp;&emsp;(B) the date of transfer;
+
+&emsp;&emsp;(C) how to reach an agent or party having authority to act on behalf of the new creditor;
+
+&emsp;&emsp;(D) the location of the place where transfer of ownership of the debt is recorded; and
+
+&emsp;&emsp;(E) any other relevant information regarding the new creditor.
+
+#### (2) Definition
+
+&emsp;As used in this subsection, the term “mortgage loan” means any consumer credit transaction that is secured by the principal dwelling of a consumer.
+
+(Pub. L. 90–321, title I, §131, May 29, 1968, 82 Stat. 157; Pub. L. 96–221, title VI, §616(a), Mar. 31, 1980, 94 Stat. 182; Pub. L. 103–325, title I, §153(c), Sept. 23, 1994, 108 Stat. 2195; Pub. L. 104–29, §7, Sept. 30, 1995, 109 Stat. 274; Pub. L. 111–22, div. A, title IV, §404(a), May 20, 2009, 123 Stat. 1658.)
 
 #### Amendments
+
+2009—Subsec. (g). Pub. L. 111–22 added subsec. (g).
 
 1995—Subsec. (e). Pub. L. 104–29, §7(a), added subsec. (e).
 

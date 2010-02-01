@@ -8,9 +8,11 @@ There is established in the Treasury a fund to be known as the Christopher Colum
 
 &emsp;(2) obligations obtained under subsection (c) of this section;
 
-&emsp;(3) amounts contributed to the Foundation; and
+&emsp;(3) amounts contributed to the Foundation;
 
-&emsp;(4) all surcharges received by the Secretary of the Treasury from the sale of coins minted under the Christopher Columbus Quincentenary Coin Act.
+&emsp;(4) amounts appropriated to the Foundation, as authorized under section 5709 of this title; and
+
+&emsp;(5) all surcharges received by the Secretary of the Treasury from the sale of coins minted under the Christopher Columbus Quincentenary Coin Act.
 
 #### (b) Investments
 
@@ -52,11 +54,15 @@ The interest on, and the proceeds from, the sale or redemption of any obligation
 
 Disbursements from the fund shall be made on vouchers approved by the Foundation and signed by the Chairman.
 
-(Pub. L. 102–281, title IV, §426, May 13, 1992, 106 Stat. 143.)
+(Pub. L. 102–281, title IV, §426, May 13, 1992, 106 Stat. 143; Pub. L. 111–8, div. D, title VI, §623(1), Mar. 11, 2009, 123 Stat. 678.)
 
 #### References in Text
 
-The Christopher Columbus Quincentenary Coin Act, referred to in subsec. (a)(4), is subtitle A (§§401–411) of title IV of Pub. L. 102–281, May 13, 1992, 106 Stat. 139, which is classified as a note under section 5112 of Title 31, Money and Finance.
+The Christopher Columbus Quincentenary Coin Act, referred to in subsec. (a)(5), is subtitle A (§§401–411) of title IV of Pub. L. 102–281, May 13, 1992, 106 Stat. 139, which is classified as a note under section 5112 of Title 31, Money and Finance.
+
+#### Amendments
+
+2009—Subsec. (a)(4), (5). Pub. L. 111–8 added par. (4) and redesignated former par. (4) as (5).
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Fellowship”.</i>
 

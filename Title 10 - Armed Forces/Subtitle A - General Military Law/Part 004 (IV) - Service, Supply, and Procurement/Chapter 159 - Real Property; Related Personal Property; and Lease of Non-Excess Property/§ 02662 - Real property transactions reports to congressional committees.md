@@ -100,15 +100,15 @@ Sept. 28, 1951, ch. 434, §§601–604, 65 Stat. 365, 366.
 
 40:554.
 
-In subsection (a), the words “must come to an agreement \* \* \* before entering into any of the following transactions by or for the use of that department:” are substituted for the words “shall come into agreement \* \* \* with respect to those real-estate actions by or for the use of the military departments \* \* \* that are described in subsection (a)–(e) of this section, and in the manner therein described”. The last sentence is substituted for the last sentence of 40:551(a) and 40:551(b).
+In subsection (a), the words “must come to an agreement before entering into any of the following transactions by or for the use of that department:” are substituted for the words “shall come into agreement with respect to those real-estate actions by or for the use of the military departments that are described in subsection (a)–(e) of this section, and in the manner therein described”. The last sentence is substituted for the last sentence of 40:551(a) and 40:551(b).
 
 In subsection (a)(4), the words “or another military department” are substituted for the words “including transfers between the military departments”. The words “under the jurisdiction of the military departments” are omitted as surplusage.
 
-In subsection (b), the words “more than $5,000 but not more than $25,000” are substituted for the words “between $5,000 and $25,000”. The words “shall report” are substituted for the words “will, in addition, furnish \* \* \* reports”.
+In subsection (b), the words “more than $5,000 but not more than $25,000” are substituted for the words “between $5,000 and $25,000”. The words “shall report” are substituted for the words “will, in addition, furnish reports”.
 
 In subsection (c), the words “the United States, Alaska, Hawaii” are substituted for the words “the continental United States, the Territory of Alaska, the Territory of Hawaii”, since, as defined in section 101(1) of this title, “United States” includes the States and the District of Columbia; and “Territories” includes Alaska and Hawaii.
 
-In subsection (d), the words “A statement \* \* \* that the requirements of this section have been met” are substituted for the words “A recital of compliance with this chapter \* \* \* to the effect that the requirements of this chapter have been complied with”. The words “in the alternative”, “or lease”, and “evidence thereof” are omitted as surplusage.
+In subsection (d), the words “A statement that the requirements of this section have been met” are substituted for the words “A recital of compliance with this chapter to the effect that the requirements of this chapter have been complied with”. The words “in the alternative”, “or lease”, and “evidence thereof” are omitted as surplusage.
 
 #### References in Text
 
@@ -132,7 +132,7 @@ Subsec. (g)(4). Pub. L. 110–181, §2821(a)(3), added par. (4).
 
 2004—Subsec. (a)(2). Pub. L. 108–375 substituted “shall include a summary” for “must include a summarization” and inserted “of paragraph (1)” after “in subparagraph (E)”.
 
-2003—Subsec. (a). Pub. L. 108–136, §1031(a)(27)(A)(i)–(v), inserted “(1)” after subsec. heading, substituted “the Secretary submits a report, subject to paragraph (3),” for “after the expiration of 30 days from the date upon which a report of the facts concerning the proposed transaction is submitted”, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), substituted “$750,000” for “$500,000” in subpars. (A) to\(E), designated concluding provisions as par. (2), and substituted “subparagraph (A) or (B) of paragraph (1)” for “clause (1) or (2)” and “subparagraph (E)” for “clause (5)”.
+2003—Subsec. (a). Pub. L. 108–136, §1031(a)(27)(A)(i)–(v), inserted “(1)” after subsec. heading, substituted “the Secretary submits a report, subject to paragraph (3),” for “after the expiration of 30 days from the date upon which a report of the facts concerning the proposed transaction is submitted”, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), substituted “$750,000” for “$500,000” in subpars. (A) to (E), designated concluding provisions as par. (2), and substituted “subparagraph (A) or (B) of paragraph (1)” for “clause (1) or (2)” and “subparagraph (E)” for “clause (5)”.
 
 Subsec. (a)(3), (4). Pub. L. 108–136, §1031(a)(27)(A)(vi), added pars. (3) and (4).
 
@@ -172,7 +172,7 @@ Subsec. (f). Pub. L. 102–496, §403(a)(1), added subsec. (f).
 
 1980—Subsecs. (a), (b), (e). Pub. L. 96–418 substituted “$100,000” for “$50,000” wherever appearing.
 
-1976—Subsec. (a). Pub. L. 94–431 provided that the report on the excess property owned by the United States contain a certification by the Secretary concerned that he has considered the feasibility of exchanging such excess property for property suitable for military purposes and has determined such excess property not suitable for exchange.
+1976—Subsec. (a). Pub. L. 94–431 provided that the report on the excess property owned by the United Statescontain a certification by the Secretary concerned that he has considered the feasibility of exchanging such excess property for property suitable for military purposes and has determined such excess property not suitable for exchange.
 
 1975—Subsec. (b). Pub. L. 94–107, §607(5), substituted requirement of annual reports for requirement of quarterly reports.
 

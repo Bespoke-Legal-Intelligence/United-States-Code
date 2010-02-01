@@ -1,6 +1,6 @@
 ### §1693. Carriage of mail generally
 
-Whoever, being concerned in carrying the mail, collects, receives, or carries any letter orpacket, contrary to law, shall be fined under this title or imprisoned not more than thirty days, or both.
+Whoever, being concerned in carrying the mail, collects, receives, or carries any letter or packet, contrary to law, shall be fined under this title or imprisoned not more than thirty days, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 776; Pub. L. 103–322, title XXXIII, §330016(1)(A), Sept. 13, 1994, 108 Stat. 2146.)
 

@@ -30,7 +30,7 @@
 
 #### References in Text
 
-Section 916(c) of the Electronic Fund Transfer Act, referred to in par. (3)(A), is classified to section 1693n(c) of Title 15, Commerce and Trade.
+Section 916(c) of the Electronic Fund Transfer Act, referred to in subsec. (c)(3)(A), is classified to section 1693n(c) of Title 15, Commerce and Trade.
 
 #### Amendments
 

@@ -4,7 +4,7 @@ The compensation of the Vice President, Senators, and officers and employees, wh
 
 &emsp;(1) Repealed. Pub. L. 97–51, §111(a)(1), Oct. 1, 1981, 95 Stat. 962;
 
-&emsp;(2) when such fifth or twentieth day falls on Saturday, Sunday, or on a legal holiday (including any holiday on which the banks of the District of Columbia are closed pursuant to law) such compensation shall be payable on the next preceding workday; and
+&emsp;(2) when such fifth or twentieth day falls on Saturday, Sunday, or on a legal holiday (including any holiday on which the banks of the District of Columbia are closed pursuant to law), such compensation shall be payable on the next preceding workday; and
 
 &emsp;(3) any part of such compensation accrued for any month may, in the discretion of the Secretary of the Senate, be paid prior to the day specified in the preceding provisions of this section.
 

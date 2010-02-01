@@ -76,9 +76,9 @@ The Secretary may waive the requirements set forth in section 1058(b)(1)(A) of t
 
 #### (B) Area affected by a Gulf hurricane disaster; Gulf hurricane disaster
 
-&emsp;&emsp;The terms “area affected by a Gulf hurricane disaster” and “Gulf hurricane disaster”have the meanings given such terms in section 209 of the Higher Education Hurricane Relief Act of 2005 (Public Law 109–148, 119 Stat. 2809).
+&emsp;&emsp;The terms “area affected by a Gulf hurricane disaster” and “Gulf hurricane disaster” have the meanings given such terms in section 209 of the Higher Education Hurricane Relief Act of 2005 (Public Law 109–148, 119 Stat. 2809).
 
-(Pub. L. 89–329, title III, §392, formerly §352, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1304; amended Pub. L. 100–50, §2(a)(14), (15), June 3, 1987, 101 Stat. 336; Pub. L. 102–325, title III, §305(b), July 23, 1992, 106 Stat. 478; renumbered §392 and amended Pub. L. 105–244, title III, §§301(a)(2), 308(d), Oct. 7, 1998, 112 Stat. 1636, 1649; Pub. L. 110–315, title III, §§318, 320(5), Aug. 14, 2008, 122 Stat. 3185, 3188.)
+(Pub. L. 89–329, title III, §392, formerly §352, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1304; amended Pub. L. 100–50, §2(a)(14), (15), June 3, 1987, 101 Stat. 336; Pub. L. 102–325, title III, §305(b), July 23, 1992, 106 Stat. 478; renumbered §392 and amended Pub. L. 105–244, title III, §§301(a)(2), 308(d), Oct. 7, 1998, 112 Stat. 1636, 1649; Pub. L. 110–315, title III, §§318, 320(5), Aug. 14, 2008, 122 Stat. 3185, 3188; Pub. L. 111–39, title III, §301(8), July 1, 2009, 123 Stat. 1938.)
 
 #### References in Text
 
@@ -92,6 +92,8 @@ Section was formerly classified to section 1067 of this title prior to renumberi
 
 #### Amendments
 
+2009—Subsec. (a)(6). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to section 1801 of title 25.
+
 2008—Subsec. (b)(2). Pub. L. 110–315, §320(5), substituted “eligible institutions under part A” for “eligible institutions under part A institutions” in introductory provisions. See Codification note above.
 
 Subsec. (c). Pub. L. 110–315, §318, added subsec. (c).
@@ -103,6 +105,10 @@ Subsec. (c). Pub. L. 110–315, §318, added subsec. (c).
 1987—Subsec. (a)(2). Pub. L. 100–50, §2(a)(14), substituted “low-income” for “low- and middle-income”.
 
 Subsec. (b)(3). Pub. L. 100–50, §2(a)(15), added par. (3).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1998 Amendment
 

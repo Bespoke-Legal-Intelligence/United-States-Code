@@ -26,7 +26,7 @@ As soon as practicable after the acquisition of any land or interest under this 
 
 #### (2) Forest service administration
 
-&emsp;(A) Any lands acquired within the area depicted on the map as being located withinZone B shall be transferred to the Secretary of Agriculture and shall be added to and managed as part of the Rio Grande National Forest.
+&emsp;(A) Any lands acquired within the area depicted on the map as being located within Zone B shall be transferred to the Secretary of Agriculture and shall be added to and managed as part of the Rio Grande National Forest.
 
 &emsp;(B) For the purposes of section 460<i>l</i>–9 of this title, the boundaries of the Rio Grande National Forest, as revised by the transfer of land under paragraph (A), shall be considered to be the boundaries of the national forest.
 

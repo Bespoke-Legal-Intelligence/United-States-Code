@@ -22,7 +22,7 @@ An organization is a qualified community organization which is eligible to recei
 
 &emsp;&emsp;(B) providing services to the community in which the organization is located,
 
-&emsp;&emsp;(C) developing and managing services and techniques to recruit individuals to become members of a police department and to assist such individuals in meeting the membership requirements of police departments,
+&emsp;&emsp;(C) developing and managing services and techniques to recruit individuals to becomemembers of a police department and to assist such individuals in meeting the membership requirements of police departments,
 
 &emsp;&emsp;(D) developing and managing services and techniques to assist in the retention of applicants to police departments, and
 
@@ -80,7 +80,7 @@ A grant under subsection (a) of this section shall be made for a period not long
 
 #### (h) Grantee reporting
 
-(1) For each year of a grant period for a grant under subsection (a) of this section, the recipient of the grant shall file a performance report with the Attorney General explaining the activities carried out with the funds received and assessing the effectiveness of such activities inmeeting the purpose of the recipient's qualified program.
+(1) For each year of a grant period for a grant under subsection (a) of this section, the recipient of the grant shall file a performance report with the Attorney General explaining the activities carried out with the funds received and assessing the effectiveness of such activities in meeting the purpose of the recipient's qualified program.
 
 (2) If there was more than one recipient of a grant, each recipient shall file such report.
 

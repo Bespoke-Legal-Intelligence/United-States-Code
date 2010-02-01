@@ -92,7 +92,7 @@ Pub. L. 103–384, Oct. 22, 1994, 108 Stat. 4067, provided that:
 
 &emsp;“(1) Native Americans across the Nation—Indians, Native Alaskans, and Native Hawaiians—have a long, proud and distinguished tradition of service in the Armed Forces of the United States.
 
-&emsp;“(2) Native Americans have historically served in the Armed Forces of the United States in numbers which far exceed their representation in the population of the United States.
+&emsp;“(2) Native Americans have historically served in the Armed Forces of the United States in numberswhich far exceed their representation in the population of the United States.
 
 &emsp;“(3) Native American veterans count among themselves a number of Medal of Honor recipients. Their numbers are also conspicuous in the ranks of those who have received other decorations for valor and distinguished service.
 
@@ -112,7 +112,7 @@ In General.—The National Museum of the American Indian (established by the Nat
 
 “(b)
 
-Location.—The memorial shall be located at a site determined to be suitable by the Museum within the interior structure of the facility provided for by section 7(a) of such Act (20 U.S.C. 80q–5(a)) (relating tohousing the portion of the Museum to be located in the District of Columbia).
+Location.—The memorial shall be located at a site determined to be suitable by the Museum within the interior structure of the facility provided for by section 7(a) of such Act (20 U.S.C. 80q–5(a)) (relating to housing the portion of the Museum to be located in the District of Columbia).
 
 “(c)
 

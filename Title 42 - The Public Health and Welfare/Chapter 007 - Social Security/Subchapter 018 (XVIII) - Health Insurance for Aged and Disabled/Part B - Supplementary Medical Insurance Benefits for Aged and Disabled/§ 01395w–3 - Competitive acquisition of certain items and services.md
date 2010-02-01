@@ -104,7 +104,7 @@
 
 #### (A) Durable medical equipment and medical supplies
 
-&emsp;&emsp;Covered items (as defined in section 1395m(a)(13) of this title) for which payment would otherwise be made under section 1395m(a) of this title, including items used in infusion and drugs (other than inhalation drugs) and supplies used in conjunction with durable medical equipment, but excluding class III devices under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] and excluding certain complex rehabilitative power wheelchairs recognized by the Secretary as classified within group 3 or higher (and related accessories when furnished in connection with such wheelchairs).
+&emsp;&emsp;Covered items (as defined in section 1395m(a)(13) of this title) for which payment would otherwise be made under section1395m(a) of this title, including items used in infusion and drugs (other than inhalation drugs) and supplies used in conjunction with durable medical equipment, but excluding class III devices under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] and excluding certain complex rehabilitative power wheelchairs recognized by the Secretary as classified within group 3 or higher (and related accessories when furnished in connection with such wheelchairs).
 
 #### (B) Other equipment and supplies
 
@@ -198,7 +198,7 @@
 
 #### (i) Initial disclosure
 
-&emsp;&emsp;&emsp;Not later than 10 days after the date a supplier enters into a contract with theSecretary under this section, such supplier shall disclose to the Secretary, in a form and manner specified by the Secretary, the information on—
+&emsp;&emsp;&emsp;Not later than 10 days after the date a supplier enters into a contract with the Secretary under this section, such supplier shall disclose to the Secretary, in a form and manner specified by the Secretary, the information on—
 
 &emsp;&emsp;&emsp;&emsp;(I) each subcontracting relationship that such supplier has in furnishing items and services under the contract; and
 
@@ -266,7 +266,7 @@
 
 #### (7) Consideration in determining categories for bids
 
-&emsp;The Secretary may consider the clinical efficiency and value of specific items within codes, including whether some items have a greater therapeutic advantage to individuals.
+&emsp;The Secretary may consider the clinical efficiency and value of specific items withincodes, including whether some items have a greater therapeutic advantage to individuals.
 
 #### (8) Authority to contract for education, monitoring, outreach, and complaint services
 
@@ -280,7 +280,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;With respect to the competitive acquisition program for diabetic testing strips conducted after the first round of the competitive acquisition programs, if an entity does not demonstrate to the Secretary that its bid covers types of diabetic testing stripproducts that, in the aggregate and taking into account volume for the different products, cover 50 percent (or such higher percentage as the Secretary may specify) of all such types of products, the Secretary shall reject such bid. The volume for such types of products may be determined in accordance with such data (which may be market based data) as the Secretary recognizes.
+&emsp;&emsp;With respect to the competitive acquisition program for diabetic testing strips conducted after the first round of the competitive acquisition programs, if an entity does not demonstrate to the Secretary that its bid covers types of diabetic testing strip products that, in the aggregate and taking into account volume for the different products, cover 50 percent (or such higher percentage as the Secretary may specify) of all such types of products, the Secretary shall reject such bid. The volume for such types of products may be determined in accordance with such data (which may be market based data) as the Secretary recognizes.
 
 #### (B) Study of types of testing strip products
 
@@ -350,7 +350,7 @@ Not later than July 1, 2011, the Secretary shall submit to Congress a report on 
 
 #### (f) Competitive acquisition ombudsman
 
-The Secretary shall provide for a competitive acquisition ombudsman within the Centers for Medicare \& Medicaid Services in order to respond to complaints and inquiries made by suppliers and individuals relating to the application of the competitive acquisition program under this section. The ombudsman may be within the office of the Medicare Beneficiary Ombudsman appointed under section 1395b–9(c) of this title. The ombudsman shall submit to Congress an annual report on the activities under this subsection, which report shall be coordinated with the report provided under section 1395b–9(c)(2)(C) of this title.
+The Secretary shall provide for a competitive acquisition ombudsman within the Centers for Medicare \& Medicaid Services in order to respond to complaints and inquiries made by suppliers and individuals relating to the application of the competitive acquisition program under this section. The ombudsman may be within theoffice of the Medicare Beneficiary Ombudsman appointed under section 1395b–9(c) of this title. The ombudsman shall submit to Congress an annual report on the activities under this subsection, which report shall be coordinated with the report provided under section 1395b–9(c)(2)(C) of this title.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1847, as added Pub. L. 105–33, title IV, §4319(a), Aug. 5, 1997, 111 Stat. 392; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title III, §302(b)(1), Dec. 8, 2003, 117 Stat. 2224; Pub. L. 110–275, title I, §§145(a)(1), 154(a)(1), (b)(2), (3), (c)(2)(A), (B), (d)(1), (3), (4), July 15, 2008, 122 Stat. 2547, 2560, 2565–2568.)
 

@@ -4,7 +4,7 @@
 
 (b) The Dean of the Academic Board shall perform such duties as the Superintendent of the Academy may prescribe with the approval of the Secretary of the Army.
 
-(c) While serving as Dean of the Academic Board, an officer of the Army who holds a grade lower than brigadier general shall hold the grade of brigadier general, if appointed to that grade by the President, by and with the advice and consent of the Senate. The retirement age of an officer so appointed is that of a permanent professor of the Academy. An officer so appointed is counted for purposes of the limitation in section 526(a) of this title on general officers of the Army on active duty.
+(c) While serving as Dean of the Academic Board, an officer of the Army who holds a gradelower than brigadier general shall hold the grade of brigadier general, if appointed to that grade by the President, by and with the advice and consent of the Senate. The retirement age of an officer so appointed is that of a permanent professor of the Academy. An officer so appointed is counted for purposes of the limitation in section 526(a) of this title on general officers of the Army on active duty.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 239; Pub. L. 85–861, §33(a)(46)(A), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 99–661, div. A, title V, §508(a), Nov. 14, 1986, 100 Stat. 3866; Pub. L. 102–484, div. A, title V, §521(a), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 106–65, div. A, title V, §533(a), Oct. 5, 1999, 113 Stat. 604.)
 

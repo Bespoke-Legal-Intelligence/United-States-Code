@@ -10,7 +10,7 @@ The Attorney General shall conduct a review of existing criminal statutes concer
 
 #### (b) Report
 
-The Attorney General shall submit a report to the Committees on the Judiciary of the Senateand House of Representatives, the Committee on Rules and Administration of the Senate, and the Committee on House Administration of the House of Representatives on the review conducted under subsection (a) of this section together with such recommendations for legislative and administrative action as the Attorney General determines appropriate.
+The Attorney General shall submit a report to the Committees on the Judiciary of the Senate and House of Representatives, the Committee on Rules and Administration of the Senate, and the Committee on House Administration of the House of Representatives on the review conducted under subsection (a) of this section together with such recommendations for legislative and administrative action as the Attorney General determines appropriate.
 
 (Pub. L. 107–252, title IX, §904, Oct. 29, 2002, 116 Stat. 1729.)
 

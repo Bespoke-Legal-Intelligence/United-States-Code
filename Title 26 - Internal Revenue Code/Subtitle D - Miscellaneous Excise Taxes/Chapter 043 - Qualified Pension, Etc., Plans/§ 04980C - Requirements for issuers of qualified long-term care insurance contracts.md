@@ -8,7 +8,7 @@ There is hereby imposed on any person failing to meet the requirements of subsec
 
 #### (1) In general
 
-&emsp;The amount of the tax imposed by subsection (a) shall be $100 per insured for each day any requirement of subsection (c) or (d) isnot met with respect to each qualified long-term care insurance contract.
+&emsp;The amount of the tax imposed by subsection (a) shall be $100 per insured for each day any requirement of subsection (c) or (d) is not met with respect to each qualified long-term care insurance contract.
 
 #### (2) Waiver
 
@@ -60,7 +60,7 @@ The requirements of this subsection are as follows:
 
 #### (C) Definitions
 
-&emsp;&emsp;For purposes of this paragraph, the terms “model regulation” and “model Act” have the meanings given such terms by section 7702B(g)(2)(B).
+&emsp;&emsp;For purposes of this paragraph, the terms “model regulation” and “model Act” havethe meanings given such terms by section 7702B(g)(2)(B).
 
 #### (2) Delivery of policy
 

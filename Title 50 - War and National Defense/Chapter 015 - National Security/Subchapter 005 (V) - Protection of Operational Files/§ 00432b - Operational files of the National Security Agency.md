@@ -72,7 +72,7 @@ The provisions of subsection (a) of this section may not be superseded except by
 
 &emsp;(E) In proceedings under subparagraphs (C) and (D), the parties may not obtain discovery pursuant to rules 26 through 36 of the Federal Rules of Civil Procedure, except that requests for admissions may be made pursuant to rules 26 and 36.
 
-&emsp;(F) If the court finds under this subsection that the National Security Agency has improperly withheld requested records because offailure to comply with any provision of this subsection, the court shall order the Agency to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5, and such order shall be the exclusive remedy for failure to comply with this section (other than subsection (g) of this section).
+&emsp;(F) If the court finds under this subsection that the National Security Agency has improperly withheld requested records because of failure to comply with any provision of this subsection, the court shall order the Agency to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5, and such order shall be the exclusive remedy for failure to comply with this section (other than subsection (g) of this section).
 
 &emsp;(G) If at any time following the filing of a complaint pursuant to this paragraph the National Security Agency agrees to search the appropriate exempted operational file or files for the requested records, the court shall dismiss the claim based upon such complaint.
 
@@ -98,9 +98,9 @@ The Federal Rules of Civil Procedure, referred to in subsec. (f)(2)(E), are set 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c)(3)(H). Pub. L. 109–163 added subpar. (H).
+2006—Subsec. (c)(3)(H). Pub. L. 109–163 added subpar. (H).
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–458, §1071(a)(1)(JJ), which directed amendment of par. (1) of subsec. (a) by substituting “Director of National Intelligence” for “Director of Central Intelligence”, was executed to text of subsec. (a), which does not contain any pars., to reflect the probable intent of Congress.
+2004—Subsec. (a). Pub. L. 108–458, §1071(a)(1)(JJ), which directed amendment of par. (1) of subsec. (a) by substituting “Director of National Intelligence” for “Director of Central Intelligence”, was executed to text of subsec. (a), which does not contain any pars., to reflect the probable intent of Congress.
 
 Subsec. (f)(2)(D)(i). Pub. L. 108–375 substituted “responsive records” for “responsible records”.
 

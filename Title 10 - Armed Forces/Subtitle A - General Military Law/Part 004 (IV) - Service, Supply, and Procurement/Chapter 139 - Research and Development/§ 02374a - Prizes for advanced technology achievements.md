@@ -48,11 +48,13 @@ Suspension of authority for failure to include information.—For each program u
 
 (f)
 
-Period of Authority.—The authority to award prizes under subsection (a) shall terminate at the end of September 30, 2010.
+Period of Authority.—The authority to award prizes under subsection (a) shall terminate at the end of September 30, 2013.
 
-(Added Pub. L. 106–65, div. A, title II, §244(a), Oct. 5, 1999, 113 Stat. 552; amended Pub. L. 107–314, div. A, title II, §248(a), Dec. 2, 2002, 116 Stat. 2502; Pub. L. 108–136, div. A, title X, §1031(a)(20), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 109–163, div. A, title II, §257, Jan. 6, 2006, 119 Stat. 3184; Pub. L. 109–364, div. A, title II, §212, Oct. 17, 2006, 120 Stat. 2119.)
+(Added Pub. L. 106–65, div. A, title II, §244(a), Oct. 5, 1999, 113 Stat. 552; amended Pub. L. 107–314, div. A, title II, §248(a), Dec. 2, 2002, 116 Stat. 2502; Pub. L. 108–136, div. A, title X, §1031(a)(20), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 109–163, div. A, title II, §257, Jan. 6, 2006, 119 Stat. 3184; Pub. L. 109–364, div. A, title II, §212, Oct. 17, 2006, 120 Stat. 2119; Pub. L. 111–84, div. A, title II, §253, Oct. 28, 2009, 123 Stat. 2243.)
 
 #### Amendments
+
+2009—Subsec. (f). Pub. L. 111–84 substituted “2013” for “2010”.
 
 2006—Subsec. (a). Pub. L. 109–364, §212(a)(1), substituted “Director of Defense Research and Engineering and the service acquisition executive for each military department” for “Director of the Defense Advanced Research Projects Agency” and “programs” for “a program”.
 

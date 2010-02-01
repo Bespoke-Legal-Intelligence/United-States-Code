@@ -46,7 +46,7 @@ Specific Costs Not Allowable.—(1) The following costs are not allowable under 
 
 &emsp;(C) Costs incurred in defense of any civil or criminal fraud proceeding or similar proceeding (including filing of any false certification) brought by the United States where the contractor is found liable or has pleaded nolo contendere to a charge of fraud or similar proceeding (including filing of a false certification).
 
-&emsp;(D) Payments of fines and penalties resulting from violations of, or failure to comply with, Federal, State, local, or foreign laws and regulations, except when incurred as a resultof compliance with specific terms and conditions of the contract or specific written instructions from the contracting officer authorizing in advance such payments in accordance with applicable provisions of the Federal Acquisition Regulation.
+&emsp;(D) Payments of fines and penalties resulting from violations of, or failure to comply with, Federal, State, local, or foreign laws and regulations, except when incurred as a result of compliance with specific terms and conditions of the contract or specific written instructions from the contracting officer authorizing in advance such payments in accordance with applicable provisions of the Federal Acquisition Regulation.
 
 &emsp;(E) Costs of membership in any social, dining, or country club or organization.
 
@@ -198,7 +198,7 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 &emsp;(E) A disposition of the proceeding by consent or compromise if such action could have resulted in a disposition described in subparagraph (A), (B), (C), or (D).
 
-(3) In the case of a proceeding referred to in paragraph (1) that is commenced by the United States and is resolved by consent or compromise pursuant to an agreement entered into by a contractor and the United States, the costs incurred by the contractor in connection with such proceeding that are otherwise not allowable as reimbursable costs under such paragraph may be allowed to the extent specifically provided in such agreement.
+(3) In the case of a proceeding referred to in paragraph (1) that is commenced by the United States and is resolved by consent or compromise pursuant to an agreement entered into by a contractor and the United States, the costs incurred by the contractor in connection withsuch proceeding that are otherwise not allowable as reimbursable costs under such paragraph may be allowed to the extent specifically provided in such agreement.
 
 (4) In the case of a proceeding referred to in paragraph (1) that is commenced by a State, the head of the agency or Secretary of the military department concerned that awarded the covered contract involved in the proceeding may allow the costs incurred by the contractor in connection with such proceeding as reimbursable costs if the agency head or Secretary determines, in accordance with the Federal Acquisition Regulation, that the costs were incurred as a result of (A) a specific term or condition of the contract, or (B) specific written instructions of the agency or military department.
 
@@ -248,7 +248,7 @@ Definitions.—In this section:
 
 &emsp;(6) The term “fiscal year” means a fiscal year established by a contractor for accounting purposes.
 
-(Added Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 682; amended Pub. L. 99–190, §101(b) \[title VIII, §8112(a)\], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VIII, §805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, §1(f)(2)(A), (3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, §322(a), title VIII, §§826(a), 832(a), Sept. 29, 1988, 102 Stat. 1952, 2022, 2023; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 100–700 §8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, §311(a)(1), title VIII, §853(a)(1), (b)(3), Nov. 29, 1989, 103 Stat. 1411, 1518; Pub. L. 101–510, div. A, title XIII,§1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, §346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title VIII, §818(a), title X, §1052(26), title XIII, §1352(b), Oct. 23, 1992, 106 Stat. 2457, 2500, 2559; Pub. L. 103–355, title II, §2101(a)–(d), Oct. 13, 1994, 108 Stat. 3306–3308; Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), (b)(9), Feb. 10, 1996, 110 Stat. 671, 672; Pub. L. 105–85, div. A, title VIII, §808(a), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(a), Oct. 17, 1998, 112 Stat. 2083.)
+(Added Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 682; amended Pub. L. 99–190, §101(b) \[title VIII, §8112(a)\], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VIII, §805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, §1(f)(2)(A), (3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, §322(a), title VIII, §§826(a), 832(a), Sept. 29, 1988, 102 Stat. 1952, 2022, 2023; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 100–700 §8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, §311(a)(1), title VIII, §853(a)(1), (b)(3), Nov. 29, 1989, 103 Stat. 1411, 1518; Pub. L. 101–510, div. A, title XIII, §1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, §346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title VIII, §818(a), title X, §1052(26), title XIII, §1352(b), Oct. 23, 1992, 106 Stat. 2457, 2500, 2559; Pub. L. 103–355, title II, §2101(a)–(d), Oct. 13, 1994, 108 Stat. 3306–3308; Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), (b)(9), Feb. 10, 1996, 110 Stat. 671, 672; Pub. L. 105–85, div. A, title VIII, §808(a), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(a), Oct. 17, 1998, 112 Stat. 2083.)
 
 #### Historical and Revision Notes
 
@@ -410,7 +410,7 @@ Subsec. (e)(1)(N). Pub. L. 100–700, §8(b)(1)(A), which directed amendment of 
 
 Pub. L. 100–456, §832(a)(1), added subpar. (N).
 
-Subsec. (e)(2), (3). Pub. L. 100–700, §8(b)(1)(B), (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “If a civil, criminal, or administrative action referred to in paragraph (1)(N) is resolved by consent or compromise pursuant to an agreement entered into by a contractor and the United States, the contractor's costs that are otherwise not allowable under paragraph (1)(N) may be allowed to the extent provided in such agreement.”
+Subsec. (e)(2), (3). Pub. L. 100–700, §8(b)(1)(B), (C), redesignated par. (3) as (2) and struck out former par. (2)which read as follows: “If a civil, criminal, or administrative action referred to in paragraph (1)(N) is resolved by consent or compromise pursuant to an agreement entered into by a contractor and the United States, the contractor's costs that are otherwise not allowable under paragraph (1)(N) may be allowed to the extent provided in such agreement.”
 
 Pub. L. 100–456, §832(a)(2), (3), added par. (2) and redesignated former par. (2) as (3).
 
@@ -476,7 +476,7 @@ Section 853(a)(3) of Pub. L. 101–189 provided that: “The amendments made by 
 
 Section 8(e) of Pub. L. 100–700 provided that: “The amendments made by subsections (a) and (b) \[enacting section 256 of Title 41, Public Contracts, and amending this section\] shall take effect with respect to contracts awarded after the date of the enactment of this Act \[Nov. 19, 1988\].”
 
-Section 8105(d) of Pub. L. 100–463 provided that subsec. (f)(5) of this section, as enacted by section 8105(a) of Pub. L. 100–463, would cease to be effective three years after Oct. 1, 1988. Section 106(a)(2) of Pub. L.100–526 provided that section 8105 of Pub. L. 100–463 “and the amendment made by that section shall cease to be effective”.
+Section 8105(d) of Pub. L. 100–463 provided that subsec. (f)(5) of this section, as enacted by section 8105(a) of Pub. L. 100–463, would cease to be effective three years after Oct. 1, 1988. Section 106(a)(2) of Pub. L. 100–526 provided that section 8105 of Pub. L. 100–463 “and the amendment made by that section shall cease to be effective”.
 
 Section 322(b) of Pub. L. 100–456 provided that: “Subparagraph (M) of section 2324(e)(1) of title 10, United States Code, as added by subsection (a), shall apply with respect to any contract entered into after the end of the 180-day period beginning on the date of the enactment of this Act \[Sept. 29, 1988\].”
 
@@ -484,7 +484,7 @@ Section 826(d) of Pub. L. 100–456, as amended by Pub. L. 100–526, title I, �
 
 #### Effective Date of 1987 Amendment
 
-Section 805(b) of Pub. L. 100–180 provided that: “Subparagraph (K) of section 2324(e)(1) of title 10, United States Code, as added by subsection (a), shall apply to any contract entered into after the end of the 120-day period beginning on the date of the enactment of this Act \[Dec. 4, 1987\].”
+Section 805(b) of Pub. L. 100–180 provided that: “Subparagraph (K) of section 2324(e)(1) of title 10, UnitedStates Code, as added by subsection (a), shall apply to any contract entered into after the end of the 120-day period beginning on the date of the enactment of this Act \[Dec. 4, 1987\].”
 
 #### Effective Date
 
@@ -660,7 +660,7 @@ Section 826(c) of Pub. L. 100–456, as amended by Pub. L. 100–526, title I, �
 
 #### Air Travel Expenses of Defense Contractor Personnel
 
-Pub. L. 100–456, div. A, title VIII, §833, Sept. 29, 1988, 102 Stat. 2024, as amended by Pub. L. 101–189, div. A,title VIII, §853(a)(2), Nov. 29, 1989, 103 Stat. 1518, directed the Administrator of General Services to enter into negotiations with commercial air carriers for agreements that would permit personnel of contractors who were traveling solely in the performance of covered contracts to be transported by such carriers at the same discount rates as such carriers charged for travel by Federal Government employees traveling at Government expense, directed the Secretary of Defense, not later than 120 days after the first such agreement would go into effect, to prescribe regulations that would provide that costs in excess of the rates established under the agreement were not allowable if the rate had been available and travel could have reasonably been performed under the conditions required by the air carrier to qualify for such rate, and provided that section 833 of Pub. L. 100–456 would cease to be effective three years after Sept. 29, 1988.
+Pub. L. 100–456, div. A, title VIII, §833, Sept. 29, 1988, 102 Stat. 2024, as amended by Pub. L. 101–189, div. A, title VIII, §853(a)(2), Nov. 29, 1989, 103 Stat. 1518, directed the Administrator of General Services to enter into negotiations with commercial air carriers for agreements that would permit personnel of contractors who were traveling solely in the performance of covered contracts to be transported by such carriers at the same discount rates as such carriers charged for travel by Federal Government employees traveling at Government expense, directed the Secretary of Defense, not later than 120 days after the first such agreement would go into effect, to prescribe regulations that would provide that costs in excess of the rates established under the agreement were not allowable if the rate had been available and travel could have reasonably been performed under the conditions required by the air carrier to qualify for such rate, and provided that section 833 of Pub. L. 100–456 would cease to be effective three years after Sept. 29, 1988.
 
 #### Burden of Proof in Government Contract Dispute Resolution
 

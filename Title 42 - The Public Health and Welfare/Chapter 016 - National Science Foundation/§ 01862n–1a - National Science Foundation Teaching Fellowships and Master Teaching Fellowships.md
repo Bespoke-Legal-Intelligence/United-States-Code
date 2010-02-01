@@ -88,7 +88,7 @@ Grants awarded under this section shall be used by the eligible entity (and part
 
 &emsp;In evaluating the applications submitted under paragraph (2), the Director shall consider, at a minimum—
 
-&emsp;&emsp;(A) the ability of the applicant (and participating institutions of higher education of the consortium, if applicable) to effectively carry out the program and to meet the requirements of subsection (f);
+&emsp;&emsp;(A) the ability of the applicant (and participating institutions of higher education ofthe consortium, if applicable) to effectively carry out the program and to meet the requirements of subsection (f);
 
 &emsp;&emsp;(B) the extent to which the mathematics, science, or engineering faculty and the education faculty at the eligible entity (and participating institutions of higher education of the consortium, if applicable) have worked or will work collaboratively to design new or revised curricula that recognizes the specialized pedagogy required to teach science, technology, engineering, and mathematics effectively in elementary schools and secondary schools;
 
@@ -154,7 +154,7 @@ An individual awarded a fellowship under this section shall serve as a mathemati
 
 #### (1) In general
 
-&emsp;An eligible entity receiving a grant under this section shall provide, from non-Federal sources, an amount equal to 50 percent of the amount of the grant (which may be provided in cash or in-kind) to carry out the activities supported by the grant.
+&emsp;An eligible entity receiving a grant under this section shall provide, from non-Federal sources, an amount equal to 50 percent of theamount of the grant (which may be provided in cash or in-kind) to carry out the activities supported by the grant.
 
 #### (2) Waiver
 

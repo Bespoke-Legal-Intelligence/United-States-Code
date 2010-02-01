@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;For purposes of clause (i), the term “gross receipts advantage” means the excess, if any, of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of 50 percent of gross receipts of a candidate's authorized committee during any election cycle\(not including contributions from personal funds of the candidate) that may be expended in connection with the election, as determined on June 30 and December 31 of the year preceding the year in which a general election is held, over
+&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of 50 percent of gross receipts of a candidate's authorized committee during any election cycle (not including contributions from personal funds of the candidate) that may be expended in connection with the election, as determined on June 30 and December 31 of the year preceding the year in which a general election is held, over
 
 &emsp;&emsp;&emsp;&emsp;(II) the aggregate amount of 50 percent of gross receipts of the opposing candidate's authorized committee during any election cycle (not including contributions from personal funds of the candidate) that may be expended in connection with the election, as determined on June 30 and December 31 of the year preceding the year in which a general election is held.
 

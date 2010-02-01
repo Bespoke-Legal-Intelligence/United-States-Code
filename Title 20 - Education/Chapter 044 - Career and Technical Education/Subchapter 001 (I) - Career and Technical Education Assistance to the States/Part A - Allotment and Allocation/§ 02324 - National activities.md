@@ -122,7 +122,7 @@
 
 #### (B) Report
 
-&emsp;&emsp;The Secretary shall gather any information collected pursuant to subparagraph (A)and submit a report to the relevant committees in Congress.
+&emsp;&emsp;The Secretary shall gather any information collected pursuant to subparagraph (A) and submit a report to the relevant committees in Congress.
 
 #### (4) Research
 

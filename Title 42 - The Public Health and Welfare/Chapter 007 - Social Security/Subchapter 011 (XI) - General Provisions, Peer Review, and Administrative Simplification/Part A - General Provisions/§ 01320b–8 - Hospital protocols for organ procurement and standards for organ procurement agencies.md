@@ -18,7 +18,7 @@
 
 &emsp;(i) the waiver is expected to increase organ donation; and
 
-&emsp;(ii) the waiver will assure equitable treatment of patients referred for transplants within the service area served by such hospital's designated organ procurement agency and within the service area served by the organ procurement agency with which the hospital seeks to enter into an agreement under the waiver.
+&emsp;(ii) the waiver will assure equitable treatment of patients referred for transplants within the service area served by such hospital's designated organ procurement agency and within the service area served by the organprocurement agency with which the hospital seeks to enter into an agreement under the waiver.
 
 (B) In making a determination under subparagraph (A), the Secretary may consider factors that would include, but not be limited to—
 
@@ -62,7 +62,7 @@
 
 &emsp;(F) is designated by the Secretary as an organ procurement organization payments to which may be treated as organ procurement costs for purposes of reimbursement under such subchapter.
 
-(2) The Secretary may not designate more than one organ procurement organization foreach service area (described in section 273(b)(1)(E) <sup>1</sup> of this title) under paragraph (1)(F).
+(2) The Secretary may not designate more than one organ procurement organization for each service area (described in section 273(b)(1)(E) <sup>1</sup> of this title) under paragraph (1)(F).
 
 (Aug. 14, 1935, ch. 531, title XI, §1138, as added Pub. L. 99–509, title IX, §9318(a), Oct. 21, 1986, 100 Stat. 2009; amended Pub. L. 100–203, title IV, §4039(h)(2), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 775; amended Pub. L. 101–239, title VI, §6003(g)(3)(D)(iv), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 103–432, title I, §155(a)(1), Oct. 31, 1994, 108 Stat. 4438; Pub. L. 105–33, title IV, §§4201(c)(1), 4642, Aug. 5, 1997, 111 Stat. 373, 487.)
 
@@ -94,7 +94,7 @@ Pub. L. 103–432, §155(a)(1)(C)(i), redesignated par. (2) as (3).
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
+Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997,see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
 
 #### Effective Date of 1994 Amendment
 

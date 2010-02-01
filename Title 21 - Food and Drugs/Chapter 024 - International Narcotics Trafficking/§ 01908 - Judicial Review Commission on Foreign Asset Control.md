@@ -14,7 +14,7 @@ There is established a commission to be known as the “Judicial Review Commissi
 
 &emsp;(C) One member shall be appointed by the Chairman of the Permanent Select Committee on Intelligence of the House of Representatives.
 
-&emsp;(D) One member shall be appointed by the Ranking Minority Member of the PermanentSelect Committee on Intelligence of the House of Representatives.
+&emsp;(D) One member shall be appointed by the Ranking Minority Member of the Permanent Select Committee on Intelligence of the House of Representatives.
 
 &emsp;(E) One member shall be appointed jointly by the members appointed under subparagraphs (A) through (D).
 

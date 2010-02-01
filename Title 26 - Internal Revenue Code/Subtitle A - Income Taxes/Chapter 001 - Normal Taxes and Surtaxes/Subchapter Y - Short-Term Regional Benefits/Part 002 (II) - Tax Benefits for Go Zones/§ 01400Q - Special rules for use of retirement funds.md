@@ -18,7 +18,7 @@
 
 #### (B) Treatment of plan distributions
 
-&emsp;&emsp;If a distribution to an individual would (without regard to subparagraph (A)) be a qualified hurricane distribution, a plan shall not be treated as violating any requirementof this title merely because the plan treats such distribution as a qualified hurricane distribution, unless the aggregate amount of such distributions from all plans maintained by the employer (and any member of any controlled group which includes the employer) to such individual exceeds $100,000.
+&emsp;&emsp;If a distribution to an individual would (without regard to subparagraph (A)) be a qualified hurricane distribution, a plan shall not be treated as violating any requirement of this title merely because the plan treats such distribution as a qualified hurricane distribution, unless the aggregate amount of such distributions from all plans maintained by the employer (and any member of any controlled group which includes the employer) to such individual exceeds $100,000.
 
 #### (C) Controlled group
 
@@ -36,7 +36,7 @@
 
 #### (C) Treatment of repayments for distributions from IRAs
 
-&emsp;&emsp;For purposes of this title, if a contribution is made pursuant to subparagraph (A) with respect to a qualified hurricane distribution from an individual retirement plan (as defined by section 7701(a)(37)), then, to the extent of the amount of the contribution, the qualified hurricane distribution shall be treated as a distribution described in section 408(d)(3) and as having been transferred to the eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution.
+&emsp;&emsp;For purposes of this title, if a contribution is made pursuant to subparagraph (A) with respect to a qualified hurricane distribution from an individual retirement plan (as defined by section 7701(a)(37)), then, to the extent of the amount of the contribution, thequalified hurricane distribution shall be treated as a distribution described in section 408(d)(3) and as having been transferred to the eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution.
 
 #### (4) Definitions
 
@@ -174,7 +174,7 @@
 
 #### (D) Qualified Hurricane Wilma individual
 
-&emsp;&emsp;The term “qualified Hurricane Wilma individual” means an individual (other than aqualified Hurricane Katrina individual or a qualified Hurricane Rita individual) whose principal place of abode on October 23, 2005, is located in the Hurricane Wilma disaster area and who has sustained an economic loss by reason of Hurricane Wilma.
+&emsp;&emsp;The term “qualified Hurricane Wilma individual” means an individual (other than a qualified Hurricane Katrina individual or a qualified Hurricane Rita individual) whose principal place of abode on October 23, 2005, is located in the Hurricane Wilma disaster area and who has sustained an economic loss by reason of Hurricane Wilma.
 
 #### (4) Applicable period; qualified beginning date
 

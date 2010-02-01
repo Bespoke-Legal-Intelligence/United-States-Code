@@ -58,7 +58,7 @@ To whom applicable.—If—
 
 &emsp;\[(2) Repealed. Pub. L. 108–21, title I, §104(b), Apr. 30, 2003, 117 Stat. 653.\]
 
-(h) As used in this section, the term “parent” does not include a person whose parental rights with respect to the victim of an offense under this section have been terminated by a final court order.
+(h) As used in this section, the term “parent” does not include a person whose parental rights with respect to the victim of an offense underthis section have been terminated by a final court order.
 
 (June 25, 1948, ch. 645, 62 Stat. 760; Aug. 6, 1956, ch. 971, 70 Stat. 1043; Pub. L. 92–539, title II, §201, Oct. 24, 1972, 86 Stat. 1072; Pub. L. 94–467, §4, Oct. 8, 1976, 90 Stat. 1998; Pub. L. 95–163, §17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, §2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 98–473, title II, §1007, Oct. 12, 1984, 98 Stat. 2139; Pub. L. 99–646, §§36, 37(b), Nov. 10, 1986, 100 Stat. 3599; Pub. L. 101–647, title IV, §401, title XXXV, §3538, Nov. 29, 1990, 104 Stat. 4819, 4925; Pub. L. 103–272, §5(e)(2), (8), July 5, 1994, 108 Stat. 1373, 1374; Pub. L. 103–322, title VI, §60003(a)(6), title XXXII, §§320903(b), 320924, title XXXIII, §330021, Sept. 13, 1994, 108 Stat. 1969, 2124, 2131, 2150; Pub. L. 104–132, title VII, §721(f), Apr. 24, 1996, 110 Stat. 1299; Pub. L. 105–314, title VII, §702, Oct. 30, 1998, 112 Stat. 2987; Pub. L. 108–21, title I, §104(b), Apr. 30, 2003, 117 Stat. 653; Pub. L. 109–248, title II, §213, July 27, 2006, 120 Stat. 616.)
 

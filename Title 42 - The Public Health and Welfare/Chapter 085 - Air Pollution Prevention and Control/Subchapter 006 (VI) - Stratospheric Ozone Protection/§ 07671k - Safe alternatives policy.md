@@ -10,7 +10,7 @@ The Administrator shall—
 
 &emsp;(1) in consultation and coordination with interested members of the public and the heads of relevant Federal agencies and departments, recommend Federal research programs and other activities to assist in identifying alternatives to the use of class I and class II substances as refrigerants, solvents, fire retardants, foam blowing agents, and other commercial applications and in achieving a transition to such alternatives, and, where appropriate, seek to maximize the use of Federal research facilities and resources to assist users of class I and class II substances in identifying and developing alternatives to the use of such substances as refrigerants, solvents, fire retardants, foam blowing agents, and other commercial applications;
 
-&emsp;(2) examine in consultation and coordination with the Secretary of Defense and the heads ofother relevant Federal agencies and departments, including the General Services Administration, Federal procurement practices with respect to class I and class II substances and recommend measures to promote the transition by the Federal Government, as expeditiously as possible, to the use of safe substitutes;
+&emsp;(2) examine in consultation and coordination with the Secretary of Defense and the heads of other relevant Federal agencies and departments, including the General Services Administration, Federal procurement practices with respect to class I and class II substances and recommend measures to promote the transition by the Federal Government, as expeditiously as possible, to the use of safe substitutes;
 
 &emsp;(3) specify initiatives, including appropriate intergovernmental, international, and commercial information and technology transfers, to promote the development and use of safe substitutes for class I and class II substances, including alternative chemicals, product substitutes, and alternative manufacturing processes; and
 
@@ -32,7 +32,7 @@ Any person may petition the Administrator to add a substance to the lists under 
 
 #### (e) Studies and notification
 
-The Administrator shall require any person who produces a chemical substitute for a class I substance to provide the Administrator with such person's unpublished health and safety studies on such substitute and require producers to notify the Administrator not less than 90 days before new or existing chemicals are introduced into interstate commerce for significant new uses as substitutes for a class I substance. This subsection shall be subject to section 7414(c) of this title.
+The Administrator shall require any person who produces a chemical substitute for a class I substance to provide the Administrator with such person's unpublished health and safety studies on such substitute and require producers to notify the Administrator not less than 90 days before new or existing chemicals are introduced into interstate commerce for significantnew uses as substitutes for a class I substance. This subsection shall be subject to section 7414(c) of this title.
 
 (July 14, 1955, ch. 360, title VI, §612, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2667.)
 

@@ -134,7 +134,7 @@ In general.—Administrative jurisdiction over each of the following properties 
 
 &emsp;&emsp;“(G) An unimproved portion of 30th Street Northwest, north of Broad Branch Road Northwest, that is within the boundaries of U.S. Reservation 515 (National Park Service property).
 
-&emsp;&emsp;“(H) Subject to paragraph (2), lands over I–395 bounded by Washington Avenue Southwest, 2ndStreet Southwest, and the C Street Southwest ramps to I–295.
+&emsp;&emsp;“(H) Subject to paragraph (2), lands over I–395 bounded by Washington Avenue Southwest, 2nd Street Southwest, and the C Street Southwest ramps to I–295.
 
 &emsp;&emsp;“(I) A portion of U.S. Reservation 357 at Whitehaven Parkway Northwest, previously transferred to the District of Columbia in conjunction with the former proposal for a residence for the Mayor of the District of Columbia.
 
@@ -244,7 +244,7 @@ Study.—The Architect of the Capitol shall not construct a mail screening facil
 
 “(a)
 
-District of Columbia.—Not later than January 31 of each year, the Mayor of the District of Columbia shall report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform, the Committee on Energy and Commerce, the Committee on Resources, andthe Committee on Transportation and Infrastructure of the House of Representatives on the use and development during the previous year of land for which title is conveyed to the District of Columbia and land for which administrative jurisdiction is transferred to the District of Columbia pursuant to this Act.
+District of Columbia.—Not later than January 31 of each year, the Mayor of the District of Columbia shall report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform, the Committee on Energy and Commerce, the Committee on Resources, and the Committee on Transportation and Infrastructure of the House of Representatives on the use and development during the previous year of land for which title is conveyed to the District of Columbia and land for which administrative jurisdiction is transferred to the District of Columbia pursuant to this Act.
 
 “(b)
 
@@ -406,7 +406,7 @@ Jurisdiction of capitol police.—The United States Capitol Police shall have ju
 
 Effect of transfers.—A person relinquishing jurisdiction over a parcel of Federal real property transferred by subsection (b) shall not retain any interest in the parcel except as specifically provided by this section.”
 
-Pub. L. 97–379, Dec. 22, 1982, 96 Stat. 1935, provided: “That section 1 of the Act of July 31, 1946, as amended (40 U.S.C. 193a) \[now 40 U.S.C. 5102\], is amended to include within the definition of the United States Capitol Grounds the following additional areas which are situated as follows:
+Pub. L. 97–379, Dec. 22, 1982, 96 Stat. 1935, provided: “That section 1 of the Act of July 31, 1946, as amended (40 U.S.C. 193a) \[now 40 U.S.C. 5102\], is amended to include within the definition of the United States CapitolGrounds the following additional areas which are situated as follows:
 
 “(1) All sidewalks and contiguous areas presently under the jurisdiction of the District of Columbia located on the south side of Pennsylvania Avenue, Northwest, between the west curb of First Street, Northwest and the east curb of Third Street, Northwest.
 
@@ -452,7 +452,7 @@ Pub. L. 96–432, §1, Oct. 10, 1980, 94 Stat. 1851, provided: “That section 1
 
 “(17) that portion of D Street Southwest from the west curb of Third Street Southwest to the east curb of Second Street Southwest;
 
-“(18) that portion of Canal Street Southwest, including sidewalks and traffic islands, from the south curbof Independence Avenue Southwest to the west curb of South Capitol Street; and
+“(18) that portion of Canal Street Southwest, including sidewalks and traffic islands, from the south curb of Independence Avenue Southwest to the west curb of South Capitol Street; and
 
 “(19) all that area contiguous to, and surrounding, square numbered 724 from the property line thereof to the contiguous curb;
 
@@ -472,7 +472,7 @@ Pub. L. 96–432, §3, Oct. 10, 1980, 94 Stat. 1852, provided that: “On and af
 
 Pub. L. 96–432, §6(a), (b), Oct. 10, 1980, 94 Stat. 1853, provided that:
 
-“(a) Notwithstanding any other provisions of this Act \[enacting section 1962 of Title 2, The Congress, amending section 193a of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as notes under this section\], with respect to those squares occupied by the United States Supreme Court and the Library of Congress, those streets or portions thereof referred to in the first section of this Act \[set out as a note above\] which surround such squares shall be considered a part of the Capitol Grounds only to the face of the curbs contiguous to such squares.
+“(a) Notwithstanding any other provisions of this Act \[enacting section 1962 of Title 2, The Congress, amending section 193a of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as notes under this section\], with respect to those squares occupied by the United States Supreme Court and the Library of Congress, those streets or portions thereof referred to in the first section of this Act \[set out as a note above\] which surround such squares shallbe considered a part of the Capitol Grounds only to the face of the curbs contiguous to such squares.
 
 “(b) Nothing in this Act shall be construed as repealing, or otherwise altering, modifying, affecting, or superseding those provisions of law in effect on the date immediately preceding the date of the enactment of this Act \[Oct. 10, 1980\] vesting authority in the United States Supreme Court Police and the Library of Congress Police to make arrests in adjacent streets.”
 
@@ -494,7 +494,7 @@ Pub. L. 96–432, §§7–10, Oct. 10, 1980, 94 Stat. 1853, 1854, provided that:
 
 “
 
-Sec. 10. Any contract entered into pursuant to this Act or pursuant to any amendment made by this Actshall be effective only to such extent and in such amounts as may be provided in advance in an appropriation Act.”
+Sec. 10. Any contract entered into pursuant to this Act or pursuant to any amendment made by this Act shall be effective only to such extent and in such amounts as may be provided in advance in an appropriation Act.”
 
 #### Acquisition of Property for Additions to United States Capitol Grounds
 
@@ -516,7 +516,7 @@ WHEREAS, subsequent to acquisition of these 8 squares, under the aforesaid autho
 
 WHEREAS, the Rayburn House Office Building has been constructed on Squares 635 and 636 (the latter square being already owned by the government and having been combined with Square 635 as a site for this building under the aforesaid authority), and the said building is now maintained by the Architect of the Capitol as a part of the House Office Buildings, and the sidewalks and other paved and grassed areas surrounding this building are now maintained as part of the Capitol Grounds;
 
-WHEREAS, underground garages for the House of Representatives have been constructed in Squares 637 and 691 and are now maintained by the Architect of the Capitol as part of the House Office Buildings, and the areas above these garages have been landscaped as a part of the Capitol Grounds;
+WHEREAS, underground garages for the House of Representatives have been constructed in Squares 637and 691 and are now maintained by the Architect of the Capitol as part of the House Office Buildings, and the areas above these garages have been landscaped as a part of the Capitol Grounds;
 
 WHEREAS, Squares South of 635 and 639 have been developed as parking lots for automobiles for Members and employees of the House and are now maintained as part of the Capitol Grounds;
 

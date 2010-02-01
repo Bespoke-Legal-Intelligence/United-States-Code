@@ -4,7 +4,7 @@
 
 &emsp;(1) dairy products are basic foods that are a valuable part of the human diet;
 
-&emsp;(2) the production of dairy products plays a significant role in the Nation's economy the milk from which dairy products are manufactured is produced by thousands of milk producers, and dairy products are consumed by millions of people throughout the United States;
+&emsp;(2) the production of dairy products plays a significant role in the Nation's economy, the milk from which dairy products are manufactured is produced by thousands of milk producers, and dairy products are consumed by millions of people throughout the United States;
 
 &emsp;(3) dairy products must be readily available and marketed efficiently to ensure that the people of the United States receive adequate nourishment;
 

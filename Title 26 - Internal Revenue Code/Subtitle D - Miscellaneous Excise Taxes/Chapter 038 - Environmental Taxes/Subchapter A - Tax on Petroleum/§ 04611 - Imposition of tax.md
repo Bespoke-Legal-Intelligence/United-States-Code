@@ -96,7 +96,7 @@ There is hereby imposed a tax at the rate specified in subsection (c) on—
 
 &emsp;The Oil Spill Liability Trust Fund financing rate shall not apply after December 31, 2017.
 
-(Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2797; amended Pub. L. 99–499, title V, §§511(a), 512(a), (b), Oct. 17, 1986, 100 Stat. 1760, 1761; Pub. L. 99–509, title VIII, §8032(a), (c)(1), (2), Oct. 21, 1986, 100 Stat. 1957, 1958; Pub. L. 100–647, title VI, §6108, Nov. 10, 1988, 102 Stat. 3712; Pub.L. 101–221, §8(a), Dec. 12, 1989, 103 Stat. 1891; Pub. L. 101–239, title VII, §7505(a), (b), Dec. 19, 1989, 103 Stat. 2363; Pub. L. 101–508, title XI, §11231(a)(1)(B), (2), (b), Nov. 5, 1990, 104 Stat. 1388–445; Pub. L. 109–58, title XIII, §1361, Aug. 8, 2005, 119 Stat. 1058; Pub. L. 110–343, div. B, title IV, §405(a)(1), (b)(1), (2), Oct. 3, 2008, 122 Stat. 3860, 3861.)
+(Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2797; amended Pub. L. 99–499, title V, §§511(a), 512(a), (b), Oct. 17, 1986, 100 Stat. 1760, 1761; Pub. L. 99–509, title VIII, §8032(a), (c)(1), (2), Oct. 21, 1986, 100 Stat. 1957, 1958; Pub. L. 100–647, title VI, §6108, Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–221, §8(a), Dec. 12, 1989, 103 Stat. 1891; Pub. L. 101–239, title VII, §7505(a), (b), Dec. 19, 1989, 103 Stat. 2363; Pub. L. 101–508, title XI, §11231(a)(1)(B), (2), (b), Nov. 5, 1990, 104 Stat. 1388–445; Pub. L. 109–58, title XIII, §1361, Aug. 8, 2005, 119 Stat. 1058; Pub. L. 110–343, div. B, title IV, §405(a)(1), (b)(1), (2), Oct. 3, 2008, 122 Stat. 3860, 3861.)
 
 #### Codification
 
@@ -174,7 +174,7 @@ Subsec. (f). Pub. L. 99–509, §8032(c)(2), added subsec. (f).
 
 Pub. L. 110–343, div. B, title IV, §405(a)(2), Oct. 3, 2008, 122 Stat. 3860, provided that: “The amendment made by this subsection \[amending this section\] shall apply on and after the first day of the first calendar quarter beginning more than 60 days after the date of the enactment of this Act \[Oct. 3, 2008\].”
 
-Pub. L. 110–343, div. B, title IV, §405(b)(3), Oct. 3, 2008, 122 Stat. 3861, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\].”
+Pub. L. 110–343, div. B, title IV, §405(b)(3), Oct. 3, 2008, 122 Stat. 3861, provided that: “The amendments madeby this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\].”
 
 #### Effective Date of 1989 Amendment
 

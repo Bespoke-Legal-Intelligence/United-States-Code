@@ -40,7 +40,7 @@
 
 #### (1) Individual institutions
 
-&emsp;Grants made under subsection (a) may be used by an eligible entity that is an individualinstitution of higher education for the following purposes:
+&emsp;Grants made under subsection (a) may be used by an eligible entity that is an individual institution of higher education for the following purposes:
 
 &emsp;&emsp;(A) To develop and implement administrative and operations practices at an institution of higher education that test, model, and analyze principles of sustainability.
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(D) To conduct professional development programs for faculty in all disciplines to enable faculty to incorporate sustainability content in their courses.
 
-&emsp;&emsp;(E) To create the analytical tools necessary for institutions of higher education to assess and measure their individual progress toward fully sustainable campus operations and fully integrating sustainability into the curriculum.
+&emsp;&emsp;(E) To create the analytical tools necessary for institutions of higher education toassess and measure their individual progress toward fully sustainable campus operations and fully integrating sustainability into the curriculum.
 
 &emsp;&emsp;(F) To develop educational benchmarks for institutions of higher education to determine the necessary rigor and effectiveness of academic sustainability programs.
 

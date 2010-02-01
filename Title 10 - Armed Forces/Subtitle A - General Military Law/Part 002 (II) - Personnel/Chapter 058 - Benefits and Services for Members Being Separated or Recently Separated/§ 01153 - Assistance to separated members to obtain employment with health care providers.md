@@ -12,7 +12,7 @@ Eligible Members.—(1) Except as provided in paragraph (2), a member shall be e
 
 &emsp;(B) has received an associate degree, baccalaureate, or advanced degree from an accredited institution of higher education or a junior or community college; and
 
-&emsp;(C) has a military occupational specialty, training, or experience related to health care,is likely to be able to obtain such training in a short period of time (as determined by the Secretary concerned), or satisfies such other criteria for selection as the Secretary concerned may prescribe.
+&emsp;(C) has a military occupational specialty, training, or experience related to health care, is likely to be able to obtain such training in a short period of time (as determined by the Secretary concerned), or satisfies such other criteria for selection as the Secretary concerned may prescribe.
 
 (2) For purposes of this section, a former member of the armed forces who did not meet the minimum educational qualification criterion set forth in paragraph (1)(B) for placement assistance before discharge or release from active duty shall be considered to be a member satisfying such educational qualification criterion upon satisfying that criterion within five years after discharge or release from active duty.
 

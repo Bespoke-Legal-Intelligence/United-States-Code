@@ -26,7 +26,7 @@
 
 #### (3) Allocation of additional funds
 
-&emsp;For any fiscal year for which the funds reserved by a State under section 6613(a)(1) of this title exceed the total amount required to make allocations under paragraph (2), the State educational agency shall allocate toeach of the eligible local educational agencies in the State the sum of—
+&emsp;For any fiscal year for which the funds reserved by a State under section 6613(a)(1) of this title exceed the total amount required to make allocations under paragraph (2), the State educational agency shall allocate to each of the eligible local educational agencies in the State the sum of—
 
 &emsp;&emsp;(A) an amount that bears the same relationship to 20 percent of the excess amount as the number of individuals age 5 through 17 in the geographic area served by the agency, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in the geographic areas served by all the local educational agencies in the State, as so determined; and
 
@@ -36,7 +36,7 @@
 
 #### References in Text
 
-Section 2203(1)(B) of this Act (as in effect on the day before January 8, 2002), referred to in subsec. (a)(2)(A)(i), is section 2203(1)(B) of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3621, which was classified to section 6643(1)(B) of this title prior to the general amendment of this subchapter by Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1620.
+Section 2203(1)(B) of this Act (as in effect on the day before January 8, 2002), referred to in subsec.\(a)(2)(A)(i), is section 2203(1)(B) of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3621, which was classified to section 6643(1)(B) of this title prior to the general amendment of this subchapter by Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1620.
 
 Section 306 of the Department of Education Appropriations Act, 2001, referred to in subsec. (a)(2)(A)(ii), is section 1(a)(1) \[title III, §306\] of Pub. L. 106–554, Nov. 29, 1999, 113 Stat. 2763, 2763A–41, which is not classified to the Code.
 

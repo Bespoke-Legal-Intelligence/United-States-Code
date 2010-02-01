@@ -2,7 +2,7 @@
 
 #### (a) Appearance by counsel
 
-The Commission is authorized to appear in and defend against any action filed under section 9011, either by attorneys employed in its office or by counsel whom it may appoint without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and whose compensation it may fixwithout regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title.
+The Commission is authorized to appear in and defend against any action filed under section 9011, either by attorneys employed in its office or by counsel whom it may appoint without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and whose compensation it may fix without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title.
 
 #### (b) Recovery of certain payments
 

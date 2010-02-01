@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(i) the financial requirements applicable to such mental health or substance use disorder benefits are no more restrictive than the predominant financial requirements applied to substantially all medical and surgical benefits covered by the plan, and there are no separate cost sharing requirements that are applicable only with respect to mental health or substance use disorder benefits; and
 
-&emsp;&emsp;&emsp;(ii) the treatment limitations applicable to such mental health or substance use disorder benefits are no more restrictive than the predominant treatment limitations applied to substantially all medical and surgical benefits covered by the plan and there are no separate treatment limitations that are applicable only with respect to mental health or substance use disorder benefits.
+&emsp;&emsp;&emsp;(ii) the treatment limitations applicable to such mental health or substance use disorder benefits are no more restrictivethan the predominant treatment limitations applied to substantially all medical and surgical benefits covered by the plan and there are no separate treatment limitations that are applicable only with respect to mental health or substance use disorder benefits.
 
 #### (B) Definitions
 
@@ -116,7 +116,7 @@ Nothing in this section shall be construed—
 
 #### (D) 6-month determinations
 
-&emsp;&emsp;If a group health plan seeks an exemption under this paragraph, determinations under subparagraph (A) shall be made after such plan has complied with this section for the first 6 months of the plan year involved.
+&emsp;&emsp;If a group health plan seeks an exemption under this paragraph, determinations undersubparagraph (A) shall be made after such plan has complied with this section for the first 6 months of the plan year involved.
 
 #### (E) Notification
 
@@ -188,7 +188,7 @@ Subsec. (a)(3) to (5). Pub. L. 110–343, §512(c)(1), added pars. (3) to (5).
 
 Subsec. (b)(1). Pub. L. 110–343, §512(c)(7), substituted “mental health or substance use disorder benefits” for “mental health benefits”.
 
-Subsec. (b)(2). Pub. L. 110–343, §512(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in the case of a group health plan that provides mental health benefits, as affecting the terms and conditions (including cost sharing, limits on numbers of visits or days of coverage, and requirements relating to medical necessity) relating to the amount, duration, or scope of mental health benefits under the plan, except as specifically provided in subsection (a) (in regard to parity in the imposition of aggregate lifetime limits and annual limits for mental health benefits).”
+Subsec. (b)(2). Pub. L. 110–343, §512(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in the case of a group health plan that provides mental health benefits, as affecting the terms and conditions (including cost sharing, limits on numbers of visits or days of coverage, and requirements relating tomedical necessity) relating to the amount, duration, or scope of mental health benefits under the plan, except as specifically provided in subsection (a) (in regard to parity in the imposition of aggregate lifetime limits and annual limits for mental health benefits).”
 
 Subsec. (c)(1). Pub. L. 110–343, §512(c)(3)(A), amended par. (1) generally. Prior to amendment, text read as follows: “This section shall not apply to any group health plan for any plan year of a small employer (as defined in section 4980D(d)(2)).”
 

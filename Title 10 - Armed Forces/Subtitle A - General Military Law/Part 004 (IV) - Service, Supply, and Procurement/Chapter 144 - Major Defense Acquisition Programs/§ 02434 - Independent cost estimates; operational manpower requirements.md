@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement for Approval.—The Secretary of Defense may not approve the system development and demonstration, or the production and deployment, of a major defense acquisition program unless an independent estimate of the full life-cycle cost of the program and a manpower estimate for the program have been considered by the Secretary.
+Requirement for Approval.—The Secretary of Defense may not approve the system development and demonstration, or the production and deployment, of a major defense acquisition program unless an independent estimate ofthe full life-cycle cost of the program and a manpower estimate for the program have been considered by the Secretary.
 
 (b)
 
@@ -10,11 +10,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations governing th
 
 &emsp;(1) that the independent estimate of the full life-cycle cost of a program—
 
-&emsp;&emsp;(A) be prepared—
-
-&emsp;&emsp;&emsp;(i) by an office or other entity that is not under the supervision, direction, or control of the military department, Defense Agency, or other component of the Department of Defense that is directly responsible for carrying out the development or acquisition of the program; or
-
-&emsp;&emsp;&emsp;(ii) if the decision authority for the program has been delegated to an official of a military department, Defense Agency, or other component of the Department of Defense, by an office or other entity that is not directly responsible for carrying out the development or acquisition of the program; and
+&emsp;&emsp;(A) be prepared or approved by the Director of Cost Assessment and Program Evaluation; and
 
 &emsp;&emsp;(B) include all costs of development, procurement, military construction, and operations and support, without regard to funding source or management control; and
 
@@ -24,9 +20,15 @@ Regulations.—The Secretary of Defense shall prescribe regulations governing th
 
 &emsp;&emsp;(B) to train personnel to carry out the activities referred to in subparagraph (A).
 
-(Added Pub. L. 98–94, title XII, §1203(a)(1), Sept. 24, 1983, 97 Stat. 682, §139c; renumbered §2434 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(15), (g)(9), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–661, div. A, title XII, §1208(a)–(c)(1), Nov. 14, 1986, 100 Stat. 3975; Pub. L. 100–26, §7(b)(5), Apr. 21, 1987, 101 Stat. 279; Pub. L. 100–180, div. A, title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title V, §525, Sept. 29, 1988, 102 Stat. 1975; Pub. L. 102–190, div. A, title VIII, §801(a), (b)(1), Dec. 5, 1991, 105 Stat. 1412; Pub. L. 103–355, title III, §3004, Oct. 13, 1994, 108 Stat. 3330; Pub. L. 104–106, div. A, title VIII, §814, Feb. 10, 1996, 110 Stat. 395; Pub. L. 107–107, div. A, title VIII, §821(a), Dec. 28, 2001, 115 Stat. 1181.)
+(Added Pub. L. 98–94, title XII, §1203(a)(1), Sept. 24, 1983, 97 Stat. 682, §139c; renumbered §2434 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(15), (g)(9), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–661, div. A, title XII, §1208(a)–(c)(1), Nov. 14, 1986, 100 Stat. 3975; Pub. L. 100–26, §7(b)(5), Apr. 21, 1987, 101 Stat. 279; Pub. L. 100–180, div. A, title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title V, §525, Sept. 29, 1988, 102 Stat. 1975; Pub. L. 102–190, div. A, title VIII, §801(a), (b)(1), Dec. 5, 1991, 105 Stat. 1412; Pub. L. 103–355, title III, §3004, Oct. 13, 1994, 108 Stat. 3330; Pub. L. 104–106, div. A, title VIII, §814, Feb. 10, 1996, 110 Stat. 395; Pub. L. 107–107, div. A, title VIII, §821(a), Dec. 28, 2001, 115 Stat. 1181; Pub. L. 111–23, title I, §101(d)(5), May 22, 2009, 123 Stat. 1710.)
 
 #### Amendments
+
+2009—Subsec. (b)(1)(A). Pub. L. 111–23 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “be prepared—
+
+&emsp;“(i) by an office or other entity that is not under the supervision, direction, or control of the military department, Defense Agency, or other component of the Department of Defense that is directly responsible for carrying out the development or acquisition of the program; or
+
+&emsp;“(ii) if the decision authority for the program has been delegated to an official of a military department, Defense Agency, or other component of the Department of Defense, by an office or other entity that is not directly responsible for carrying out the development or acquisition of the program; and”.
 
 2001—Subsec. (a). Pub. L. 107–107 substituted “system development and demonstration” for “engineering and manufacturing development”.
 

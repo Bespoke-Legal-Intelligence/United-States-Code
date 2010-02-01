@@ -18,7 +18,7 @@
 
 #### (B) Treatment of stock and retained earnings
 
-&emsp;&emsp;In determining compliance with the minimum leverage ratio established under subparagraph (A), the paid-in value of the outstanding Class B stock and the amount of retained earnings shall be multiplied by 1.5, and such higher amounts shall be deemed to be capital for purposes of meeting the 5 percent minimum leverage ratio, except that aFederal home loan bank's total capital (determined without taking into account any such multiplier) shall not be less than 4 percent of the total assets of the bank.
+&emsp;&emsp;In determining compliance with the minimum leverage ratio established under subparagraph (A), the paid-in value of the outstanding Class B stock and the amount of retained earnings shall be multiplied by 1.5, and such higher amounts shall be deemed to be capital for purposes of meeting the 5 percent minimum leverage ratio, except that a Federal home loan bank's total capital (determined without taking into account any such multiplier) shall not be less than 4 percent of the total assets of the bank.
 
 #### (3) Risk-based capital standards
 
@@ -116,7 +116,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (D) Adjustments to minimum required investment
 
-&emsp;&emsp;The capital structure plan of each Federal home loan bank shall impose a continuing obligation on the board of directors of the bank to review and adjust the minimum investment required of each member of that bank, as necessary to ensure that the bank remains in compliance with applicable minimum capital levels established by the Director, and shall require each member to comply promptly with any adjustments to the required minimum investment.
+&emsp;&emsp;The capital structure plan of each Federal home loan bank shall impose a continuing obligation on the board of directors of thebank to review and adjust the minimum investment required of each member of that bank, as necessary to ensure that the bank remains in compliance with applicable minimum capital levels established by the Director, and shall require each member to comply promptly with any adjustments to the required minimum investment.
 
 #### (2) Transition rule
 
@@ -250,7 +250,7 @@ If the Director or the board of directors of a Federal home loan bank determines
 
 #### References in Text
 
-The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, referred to in subsec. (a)(3)(B), is title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to chapter 46 (§4501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note under section 4501 of this title and Tables.
+The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, referred to in subsec. (a)(3)(B), is title XIII of Pub. L. 102–550, Oct. 28, 1992, 106Stat. 3941, which is classified principally to chapter 46 (§4501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note under section 4501 of this title and Tables.
 
 #### Amendments
 
@@ -312,7 +312,7 @@ Subsec. (m). Pub. L. 97–320, §355(b), added subsec. (m).
 
 1961—Subsec. (c). Pub. L. 87–210, §1, amended subsection generally, and among other changes, authorized the bank to adjust at the end of each calendar year, under Board regulations, the stock held by each member, to retire stock of members in excess of required amounts, prohibited members to reduce stock to less than the amount held on Sept. 8, 1961, except for a reduction at any time to not less than 2 percent of its aggregate unpaid loan principal as of the beginning of the calendar year in which reduction is made, but not less than $500, or if reduced to less than 2 percent, such reduction to be in the discretion of the Board, provided that no bank shall act so as to cause the aggregate outstanding advances, within the meaning of regulations of the Board defining said term, to exceed 12 times the amounts paid in by members for outstanding capital stock held by such members, defined term “aggregate unpaid loan principal” and authorized the board to require members to submit reports and information for purposes of this subsection.
 
-Subsec. (<i>l</i>). Pub. L. 87–210, §2, repealed subsec. (<i>l</i>) which required members to acquire, hold and maintain their stock holding in an amount equal to at least 2 per centum of the aggregate of the unpaid principal of such member's home mortgage loans, home-purchase contracts, and similar obligations, but not less than $500, and provided for the retirement of Government-owned stock.
+Subsec. (<i>l</i>). Pub. L. 87–210, §2, repealed subsec. (<i>l</i>) which required members to acquire, hold and maintain their stock holding in an amount equal to at least 2 percentum of the aggregate of the unpaid principal of such member's home mortgage loans, home-purchase contracts, and similar obligations, but not less than $500, and provided for the retirement of Government-owned stock.
 
 1955—Subsec. (i). Act Aug. 11, 1955, provided that a Federal savings and loan association may not withdraw voluntarily, inserted proviso clause in item (ii), and inserted provisions authorizing removal of a member institution which has a management or home-financing policy of a character inconsistent with sound and economical home financing or with the purposes of this chapter.
 

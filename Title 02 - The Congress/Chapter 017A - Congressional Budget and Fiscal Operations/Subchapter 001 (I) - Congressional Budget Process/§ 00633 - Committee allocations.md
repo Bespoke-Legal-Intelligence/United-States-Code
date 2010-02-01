@@ -46,7 +46,7 @@ As soon as practicable after a concurrent resolution on the budget is agreed to,
 
 #### (c) Point of order
 
-After the Committee on Appropriations has received an allocation pursuant to subsection (a) of this section for a fiscal year, it shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report within the jurisdiction of that committee providing new budget authority for that fiscal year, until that committee makes the suballocations required by subsection (b) of this section.
+After the Committee on Appropriations has received an allocation pursuant to subsection (a) of this section for a fiscal year, it shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report within the jurisdiction of that committee providingnew budget authority for that fiscal year, until that committee makes the suballocations required by subsection (b) of this section.
 
 #### (d) Subsequent concurrent resolutions
 
@@ -104,7 +104,7 @@ At any time after a committee reports the allocations required to be made under 
 
 #### (2) Revised allocations
 
-&emsp;(A) As soon as practicable after Congress agrees to a bill or joint resolution that wouldhave been subject to a point of order under subsection (f)(1) of this section but for the exception provided in paragraph (1)(A) or would have been subject to a point of order under section 642(a) of this title but for the exception provided in paragraph (1)(B), the chairman of the committee <sup>1</sup> on the Budget of the House of Representatives shall file with the House appropriately revised allocations under subsection (a) of this section and revised functional levels and budget aggregates to reflect that bill.
+&emsp;(A) As soon as practicable after Congress agrees to a bill or joint resolution that would have been subject to a point of order under subsection (f)(1) of this section but for the exception provided in paragraph (1)(A) or would have been subject to a point of order under section 642(a) of this title but for the exception provided in paragraph (1)(B), the chairman of the committee <sup>1</sup> on the Budget of the House of Representatives shall file with the House appropriately revised allocations under subsection (a) of this section and revised functional levels and budget aggregates to reflect that bill.
 
 &emsp;(B) Such revised allocations, functional levels, and budget aggregates shall be considered for the purposes of this Act as allocations, functional levels, and budget aggregates contained in the most recently agreed to concurrent resolution on the budget.
 
@@ -180,9 +180,9 @@ Subsecs. (d) to (g). Pub. L. 99–177, in amending section generally, added subs
 
 #### Effective and Termination Dates of 1990 Amendment
 
-Section 13201(b)(2) of Pub. L. 101–508 provided that the amendment made by that section is effective Jan. 1, 1991, for fiscal year 1991 only.
+Pub. L. 101–508, title XIII, §13201(b)(2), Nov. 5, 1990, 104 Stat. 1388–614, provided that the amendment made by section 13201(b)(2) is effective Jan. 1, 1991, for fiscal year 1991 only.
 
-Section 13201(b)(3) of Pub. L. 101–508 provided that the amendment made by that section is effective for fiscal years beginning after Sept. 30, 1991.
+Pub. L. 101–508, title XIII, §13201(b)(3), Nov. 5, 1990, 104 Stat. 1388–614, provided that the amendment made by section 13201(b)(3) is effective for fiscal years beginning after Sept. 30, 1991.
 
 Amendment by section 13303(c) of Pub. L. 101–508 applicable with respect to fiscal years beginning on or after Oct. 1, 1990, see section 13306 of Pub. L. 101–508, set out as an Effective Date of 1990 Amendment note under section 632 of this title.
 

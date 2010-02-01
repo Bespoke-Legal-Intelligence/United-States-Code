@@ -14,7 +14,7 @@ Except as otherwise provided in this subsection, the Equal Employment Opportunit
 
 &emsp;(3) provide for the acceptance and processing of complaints of discrimination in Federal employment on account of age.
 
-> The head of each such department, agency, or unit shall comply with such rules, regulations, orders, and instructions of the Equal Employment Opportunity Commission which shall include a provision that an employee or applicant for employment shall be notified of any final action taken on any complaint of discrimination filed by him thereunder. Reasonable exemptions to the provisions of this section may be established by the Commission but only when the Commission has established a maximum age requirement on the basis of a determination that age is a bona fide occupational qualification necessary to the performance of the duties of the position. With respect to employment in the Library of Congress, authorities granted in thissubsection to the Equal Employment Opportunity Commission shall be exercised by the Librarian of Congress.
+> The head of each such department, agency, or unit shall comply with such rules, regulations, orders, and instructions of the Equal Employment Opportunity Commission which shall include a provision that an employee or applicant for employment shall be notified of any final action taken on any complaint of discrimination filed by him thereunder. Reasonable exemptions to the provisions of this section may be established by the Commission but only when the Commission has established a maximum age requirement on the basis of a determination that age is a bona fide occupational qualification necessary to the performance of the duties of the position. With respect to employment in the Library of Congress, authorities granted in this subsection to the Equal Employment Opportunity Commission shall be exercised by the Librarian of Congress.
 
 #### (c) Civil actions; jurisdiction; relief
 
@@ -30,7 +30,7 @@ Nothing contained in this section shall relieve any Government agency or officia
 
 #### (f) Applicability of statutory provisions to personnel action of Federal departments, etc.
 
-Any personnel action of any department, agency, or other entity referred to in subsection (a) of this section shall not be subject to, or affected by, any provision of this chapter, other than the provisions of section 631(b) of this title and the provisions of this section.
+Any personnel action of any department, agency, or other entity referred to in subsection (a) of this section shall not be subject to, or affected by, any provision of this chapter, other than the provisions of sections 626(d)(3) and 631(b) of this title and the provisions of this section.
 
 #### (g) Study and report to President and Congress by Equal Employment Opportunity Commission; scope
 
@@ -38,13 +38,15 @@ Any personnel action of any department, agency, or other entity referred to in s
 
 (2) The Equal Employment Opportunity Commission shall transmit a report to the President and to the Congress containing the findings of the Commission resulting from the study of the Commission under paragraph (1) of this subsection. Such report shall be transmitted no later than January 1, 1980.
 
-(Pub. L. 90–202, §15, as added Pub. L. 93–259, §28(b)(2), Apr. 8, 1974, 88 Stat. 74; amended Pub. L. 95–256, §5(a), (e), Apr. 6, 1978, 92 Stat. 191; 1978 Reorg. Plan No. 1, eff. Jan. 1, 1979, §2, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 104–1, title II, §201(c)(2), Jan. 23, 1995, 109 Stat. 8; Pub. L. 105–220, title III, §341(b), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
+(Pub. L. 90–202, §15, as added Pub. L. 93–259, §28(b)(2), Apr. 8, 1974, 88 Stat. 74; amended Pub. L. 95–256, §5(a), (e), Apr. 6, 1978, 92 Stat. 191; 1978 Reorg. Plan No. 1, eff. Jan. 1, 1979, §2, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 104–1, title II, §201(c)(2), Jan. 23, 1995, 109 Stat. 8; Pub. L. 105–220, title III, §341(b), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–2, §5(c)(3), Jan. 29, 2009, 123 Stat. 7.)
 
 #### References in Text
 
 The amendments made to this section by the Age Discrimination in Employment Act Amendments of 1978, referred to in subsec. (g)(1), are amendments by section 5(a) and (e) of Pub. L. 95–256, which amended subsecs. (a), (f), and (g) of this section.
 
 #### Amendments
+
+2009—Subsec. (f). Pub. L. 111–2 substituted “of sections 626(d)(3) and” for “of section”.
 
 2006—Subsec. (a). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
@@ -57,6 +59,10 @@ The amendments made to this section by the Age Discrimination in Employment Act 
 1978—Subsec. (a). Pub. L. 95–256, §5(a), inserted age requirement of at least 40 years of age, and “personnel actions” after “except”.
 
 Subsecs. (f), (g). Pub. L. 95–256, §5(e), added subsecs. (f) and (g).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–2 effective as if enacted May 28, 2007, and applicable to certain claims of discrimination in compensation pending on or after that date, see section 6 of Pub. L. 111–2, set out as a note under section 2000e–5 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1998 Amendment
 

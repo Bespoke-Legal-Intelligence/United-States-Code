@@ -4,7 +4,7 @@
 
 #### (1) Parallel terms, conditions, benefits, and amounts
 
-&emsp;Unless otherwise specified in this part, loans made to borrowers under this part shall havethe same terms, conditions, and benefits, and be available in the same amounts, as loans made to borrowers under sections 1078, 1078–2, 1078–3, and 1078–8 of this title.
+&emsp;Unless otherwise specified in this part, loans made to borrowers under this part shall have the same terms, conditions, and benefits, and be available in the same amounts, as loans made to borrowers under sections 1078, 1078–2, 1078–3, and 1078–8 of this title.
 
 #### (2) Designation of loans
 
@@ -22,7 +22,7 @@
 
 #### (1) Rates for FDSL and FDUSL
 
-&emsp;For Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans for which the first disbursement is made on or after July 1, 1994, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;For Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans forwhich the first disbursement is made on or after July 1, 1994, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;(A) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1; plus
 
@@ -108,7 +108,7 @@
 
 #### (C) PLUS loans
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to Federal Direct PLUS Loan for which the first disbursement is made on or after July 1, 1998, and before October 1, 1998, the applicable rate of interest shall be determined under subparagraph (A)—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to FederalDirect PLUS Loan for which the first disbursement is made on or after July 1, 1998, and before October 1, 1998, the applicable rate of interest shall be determined under subparagraph (A)—
 
 &emsp;&emsp;&emsp;(i) by substituting “3.1 percent” for “2.3 percent”; and
 
@@ -174,7 +174,7 @@
 
 #### (C) Consolidation loans
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, any Federal Direct Consolidation loan for which the application is received on or after July 1, 2006, shall bear interest at an annual rate on the unpaidprincipal balance of the loan that is equal to the lesser of—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, any Federal Direct Consolidation loan for which the application is received on or after July 1, 2006, shall bear interest at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
 
 &emsp;&emsp;&emsp;(i) the weighted average of the interest rates on the loans consolidated, rounded to the nearest higher one-eighth of one percent; or
 
@@ -238,7 +238,7 @@
 
 &emsp;&emsp;(B) a graduated repayment plan, consistent with section 1078(b)(9)(A)(ii) of this title;
 
-&emsp;&emsp;(C) an extended repayment plan, consistent with section 1078(b)(9)(A)(v) of this title, except that the borrower shall annually repay a minimum amount determined by the Secretary in accordance with section 1078(b)(1)(L) of this title;
+&emsp;&emsp;(C) an extended repayment plan, consistent with section 1078(b)(9)(A)(iv) of this title, except that the borrower shall annually repay a minimum amount determined by the Secretary in accordance with section 1078(b)(1)(L) of this title;
 
 &emsp;&emsp;(D) an income contingent repayment plan, with varying annual repayment amounts based on the income of the borrower, paid over an extended period of time prescribed by the Secretary, not to exceed 25 years, except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS loan made on behalf of a dependent student; and
 
@@ -292,7 +292,7 @@
 
 &emsp;&emsp;(A) that the Internal Revenue Service will disclose to the Secretary tax return information as authorized under section 6103(<i>l</i>)(13) of title 26; and
 
-&emsp;&emsp;(B) that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower's spouse, warrant an adjustment in the borrower's loan repayment as determined using the information described in subparagraph (A), or the alternative documentation described in paragraph (3), the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, inaccordance with criteria established by the Secretary.
+&emsp;&emsp;(B) that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower's spouse, warrant an adjustment in the borrower's loan repayment as determined using the information described in subparagraph (A), or the alternative documentation described in paragraph (3), the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, in accordance with criteria established by the Secretary.
 
 #### (7) Maximum repayment period
 
@@ -304,7 +304,7 @@
 
 &emsp;&emsp;(ii) makes monthly payments under paragraph (1) or (6) of section 1098e(b) of this title;
 
-&emsp;&emsp;(iii) makes monthly payments of not less than the monthly amount calculated under section 1078(b)(9)(A)(i) of this title or subsection (d)(1)(A), based on a 10-year repayment period, when the borrower first made the election described in section 1098e(b)(1) of this title;
+&emsp;&emsp;(iii) makes monthly payments of not less than the monthly amount calculated under section 1078(b)(9)(A)(i) of this title or subsection (d)(1)(A), based on a 10-year repayment period, when the borrower first madethe election described in section 1098e(b)(1) of this title;
 
 &emsp;&emsp;(iv) makes payments of not less than the payments required under a standard repayment plan under section 1078(b)(9)(A)(i) of this title or subsection (d)(1)(A) with a repayment period of 10 years; or
 
@@ -362,7 +362,7 @@ A borrower of a loan made under this part may consolidate such loan with the loa
 
 #### (h) Borrower defenses
 
-Notwithstanding any other provision of State or Federal law, the Secretary shall specify in regulations (except as authorized under section 1087g(a)(1) of this title) which acts or omissions of an institution of higher education a borrower may assert as a defense to repayment of a loan made under this part, except that in no event may a borrower recover from the Secretary, in any action arising from or relating to a loan made under this part, an amount in excess of the amount such borrower has repaid on such loan.
+Notwithstanding any other provision of State or Federal law, the Secretary shall specify in regulations which acts or omissions of an institution of higher education a borrower may assert as a defense to repayment of a loan made under this part, except that in no event may a borrower recover from the Secretary, in any action arising from or relating to a loan made under this part, an amount in excess of the amount such borrower has repaid on such loan.
 
 #### (i) Loan application and promissory note
 
@@ -384,7 +384,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 &emsp;(A) An institution shall maintain financial records in a manner consistent with records maintained for other programs under this subchapter.
 
-&emsp;(B) Except as otherwise required by regulations of the Secretary, or in a notice under section 1087g(a)(1) of this title, an institution may maintain loan funds under this part in the same account as other Federal student financial assistance.
+&emsp;(B) Except as otherwise required by regulations of the Secretary <sup>1</sup> an institution may maintain loan funds under this part in the same account as other Federal student financial assistance.
 
 #### (2) Payments and refunds
 
@@ -440,13 +440,13 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 &emsp;&emsp;The term “public service job” means—
 
-&emsp;&emsp;&emsp;(i) a full-time job in emergency management, government (excluding time served as a member of Congress), military service, public safety, law enforcement, public health (including nurses, nurse practitioners, nurses in a clinical setting, and full-time professionals engaged in health care practitioner occupations and health care support occupations, as such terms are defined by the Bureau of Labor Statistics), public education, social work in a public child or family service agency, public interest law services (including prosecutionor public defense or legal advocacy on behalf of low-income communities at a nonprofit organization), early childhood education (including licensed or regulated childcare, Head Start, and State funded prekindergarten), public service for individuals with disabilities, public service for the elderly, public library sciences, school-based library sciences and other school-based services, or at an organization that is described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of such title; or
+&emsp;&emsp;&emsp;(i) a full-time job in emergency management, government (excluding time served as a member of Congress), military service, public safety, law enforcement, public health (including nurses, nurse practitioners, nurses in a clinical setting, and full-time professionals engaged in health care practitioner occupations and health care support occupations, as such terms are defined by the Bureau of Labor Statistics), public education, social work in a public child or family service agency, public interest law services (including prosecution or public defense or legal advocacy on behalf of low-income communities at a nonprofit organization), early childhood education (including licensed or regulated childcare, Head Start, and State funded prekindergarten), public service for individuals with disabilities, public service for the elderly, public library sciences, school-based library sciences and other school-based services, or at an organization that is described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of such title; or
 
 &emsp;&emsp;&emsp;(ii) teaching as a full-time faculty member at a Tribal College or University as defined in section 1059c(b) of this title and other faculty teaching in high-needs subject areas or areas of shortage (including nurse faculty, foreign language faculty, and part-time faculty at community colleges), as determined by the Secretary.
 
 #### (4) Ineligibility for double benefits
 
-&emsp;No borrower may, for the same service, receive a reduction of loan obligations under both this subsection and section 1078–10, 1078–11, 1078–12, or 1087j of this title.
+&emsp;No borrower may, for the same service, receive a reduction of loan obligations underboth this subsection and section 1078–10, 1078–11, 1078–12, or 1087j of this title.
 
 #### (n) Identity fraud protection
 
@@ -480,13 +480,19 @@ The Secretary shall take such steps as may be necessary to ensure that monthly F
 
 Each institution of higher education with which the Secretary has an agreement under section 1087c of this title, and each contractor with which the Secretary has a contract under section 1087f of this title, shall, with respect to loans under this part and in accordance with such regulations as the Secretary shall prescribe, comply with each of the requirements under section 1083 of this title that apply to a lender with respect to a loan under part B.
 
-(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261.)
+(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946.)
 
 #### References in Text
 
 Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(4), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102–325, title IV, July 23, 1992, 106 Stat. 513, 519.
 
 #### Amendments
+
+2009—Subsec. (d)(1)(C). Pub. L. 111–39, §404(b)(2)(A), substituted “1078(b)(9)(A)(iv)” for “1078(b)(9)(A)(v)”.
+
+Subsec. (h). Pub. L. 111–39, §404(b)(2)(B), struck out “(except as authorized under section 1087g(a)(1) of this title)” after “regulations”.
+
+Subsec. (k)(1)(B). Pub. L. 111–39, §404(b)(2)(C), struck out “, or in a notice under section 1087g(a)(1) of this title,” after “regulations of the Secretary”.
 
 2008—Subsec. (b)(8)(B). Pub. L. 110–315, §103(b)(8), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
 
@@ -572,6 +578,10 @@ Subsecs. (j)(2), (k)(3). Pub. L. 105–244, §401(g)(6), substituted “Federal 
 
 1992—Pub. L. 102–325 amended section generally, substituting provisions relating to withdrawal and termination procedures for former provisions relating to feasibility study.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+
 #### Effective Date of 2007 Amendment
 
 Amendment by sections 201(b), 202(b), 205, and 401 of Pub. L. 110–84 effective Oct. 1, 2007, see section 1(c) of Pub. L. 110–84, set out as a note under section 1070a of this title.
@@ -604,5 +614,7 @@ Nothing in amendment by section 8007(b) of Pub. L. 109–171 to be construed to 
 
 #### Limitation on Consolidation Loans During Temporary Interest Rate
 
-Pub. L. 105–244, title IV, §452(a)(2), Oct. 7, 1998, 112 Stat. 1716, provided that: “Notwithstanding section 455(g) of the Higher Education Act of 1965 \[subsec. (g) of this section\], a borrower who is enrolled or accepted for enrollment in an institution of higher education may not consolidate loans under such section during the period beginning October 1, 1998, and ending February 1, 1999, unless the borrower certifies that the borrower has no outstanding loans made, insured, or guaranteed under title IV of such Act \[20 U.S.C. 1070 et seq.; 42 U.S.C. 2751 et seq.\] other than loans made under part D of such title \[this part\].”
+Pub. L. 105–244, title IV, §452(a)(2), Oct. 7, 1998, 112 Stat. 1716, provided that: “Notwithstanding section455(g) of the Higher Education Act of 1965 \[subsec. (g) of this section\], a borrower who is enrolled or accepted for enrollment in an institution of higher education may not consolidate loans under such section during the period beginning October 1, 1998, and ending February 1, 1999, unless the borrower certifies that the borrower has no outstanding loans made, insured, or guaranteed under title IV of such Act \[20 U.S.C. 1070 et seq.; 42 U.S.C. 2751 et seq.\] other than loans made under part D of such title \[this part\].”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

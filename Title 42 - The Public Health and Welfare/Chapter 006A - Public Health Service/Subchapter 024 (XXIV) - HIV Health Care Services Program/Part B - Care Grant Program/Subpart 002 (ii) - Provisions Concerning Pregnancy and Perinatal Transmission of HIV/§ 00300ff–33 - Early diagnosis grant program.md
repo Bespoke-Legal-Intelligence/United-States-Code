@@ -58,21 +58,25 @@ In this section:
 
 Of the funds appropriated annually to the Centers for Disease Control and Prevention for HIV/AIDS prevention activities, $30,000,000 shall be made available for each of the fiscal years 2007 through 2009 for grants under subsection (a), of which $20,000,000 shall be made available for grants to States with the policies described in subsection (b)(1), and $10,000,000 shall be made available for grants to States with the policies described in subsection (b)(2). Funds provided under this section are available until expended.
 
-(July 1, 1944, ch. 373, title XXVI, §2625, as added Pub. L. 104–146, §7(b)(3), May 20, 1996, 110 Stat. 1369; amended Pub. L. 106–345, title II, §212(a), Oct. 20, 2000, 114 Stat. 1339; Pub. L. 109–415, title II, §209, Dec. 19, 2006, 120 Stat. 2802.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2625, as added Pub. L. 104–146, §7(b)(3), May 20, 1996, 110 Stat. 1369; amended Pub. L. 106–345, title II, §212(a), Oct. 20, 2000, 114 Stat. 1339; Pub. L. 109–415, title II, §209, title VII, §703, Dec. 19, 2006, 120 Stat. 2802, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### Amendments
 
-2006—Pub. L. 109–415 amended section catchline and text generally, substituting provisions relating to early diagnosis grant program for provisions requiring State certification of measures to adopt CDC guidelines for pregnant women not later than 120 days after May 20, 1996, and authorizing additional funds if such certification was provided.
+2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+Pub. L. 109–415, §209, amended section catchline and text generally, substituting provisions relating to early diagnosis grant program for provisions requiring State certification of measures to adopt CDC guidelines for pregnant women not later than 120 days after May 20, 1996, and authorizing additional funds if such certification was provided.
 
 2000—Subsec. (c)(1)(F). Pub. L. 106–345, §212(a)(1), added subpar. (F).
 
-Subsec. (c)(2). Pub. L. 106–345, §212(a)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “For purposes of carryingout this subsection, there are authorized to be appropriated $10,000,000 for each of the fiscal years 1996 through 2000. Amounts made available under section 300ff–77 of this title for carrying out this part are not available for carrying out this section unless otherwise authorized.”
+Subsec. (c)(2). Pub. L. 106–345, §212(a)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “For purposes of carrying out this subsection, there are authorized to be appropriated $10,000,000 for each of the fiscal years 1996 through 2000. Amounts made available under section 300ff–77 of this title for carrying out this part are not available for carrying out this section unless otherwise authorized.”
 
 Subsec. (c)(4). Pub. L. 106–345, §212(a)(3), added par. (4).
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date
 

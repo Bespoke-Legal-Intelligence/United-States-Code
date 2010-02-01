@@ -22,7 +22,13 @@ In this section:
 
 &emsp;&emsp;(E) is accredited by a nationally recognized accrediting agency or association determined by the Secretary to be a reliable authority as to the quality of training offered or is, according to such an agency or association, making reasonable progress toward accreditation; and
 
-&emsp;&emsp;(F) is not receiving assistance under part B or part A of subchapter V.
+&emsp;&emsp;(F) is not receiving assistance under—
+
+&emsp;&emsp;&emsp;(i) part B;
+
+&emsp;&emsp;&emsp;(ii) part A of subchapter V; or
+
+&emsp;&emsp;&emsp;(iii) an annual authorization of appropriations under the Act of March 2, 1867 (14 Stat. 438; 20 U.S.C. 123).
 
 #### (2) Enrollment of needy students
 
@@ -150,7 +156,7 @@ In this section:
 
 #### (5) Reallotment
 
-&emsp;The amount of a Predominantly Black Institution's allotment under paragraph (1), (2), (3),or (4) for any fiscal year that the Secretary determines will not be needed for such institution for the period for which such allotment is available, shall be available for reallotment to other Predominantly Black Institutions in proportion to the original allotments to such other institutions under this section for such fiscal year. The Secretary shall reallot such amounts from time to time, on such date and during such period as the Secretary determines appropriate.
+&emsp;The amount of a Predominantly Black Institution's allotment under paragraph (1), (2), (3), or (4) for any fiscal year that the Secretary determines will not be needed for such institution for the period for which such allotment is available, shall be available for reallotment to other Predominantly Black Institutions in proportion to the original allotments to such other institutions under this section for such fiscal year. The Secretary shall reallot such amounts from time to time, on such date and during such period as the Secretary determines appropriate.
 
 #### (f) Applications
 
@@ -168,11 +174,21 @@ Any grant funds paid to a Predominantly Black Institution under this section tha
 
 No Predominantly Black Institution that receives funds under this section shall concurrently receive funds under any other provision of this part, part B, or part A of subchapter V.
 
-(Pub. L. 89–329, title III, §318, as added Pub. L. 110–315, title III, §305(a), Aug. 14, 2008, 122 Stat. 3169.)
+(Pub. L. 89–329, title III, §318, as added Pub. L. 110–315, title III, §305(a), Aug. 14, 2008, 122 Stat. 3169; amended Pub. L. 111–39, title III, §301(2), July 1, 2009, 123 Stat. 1937.)
 
 #### References in Text
 
+The Act of March 2, 1867, referred to in subsec. (b)(1)(F)(iii), is act Mar. 2, 1867, ch. 162, 14 Stat. 438. Provisions relating to authorization of appropriations are contained in section 8 of the Act, which is classified to section 123 of this title. For complete classification of this Act to the Code, see Tables.
+
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(C)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+
+#### Amendments
+
+2009—Subsec. (b)(1)(F). Pub. L. 111–39 added subpar. (F) and struck out former subpar. (F) which read as follows: “is not receiving assistance under part B or part A of subchapter V.”
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

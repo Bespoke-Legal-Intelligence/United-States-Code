@@ -16,7 +16,7 @@ The Association shall be a government corporation of the District of Columbia su
 
 (1) The Board of Directors of the Association shall consist of five individuals, as follows:
 
-&emsp;(A) The Chairman, who shall be the individual serving as Chairman on August 13, 1981, until the expiration of his term of office or his resignation, or his replacement, who shall be selected by the outgoing Chairman and the other members of the Board.
+&emsp;(A) The Chairman, who shall be the individual serving as Chairman on August 13, 1981,until the expiration of his term of office or his resignation, or his replacement, who shall be selected by the outgoing Chairman and the other members of the Board.
 
 &emsp;(B) The Secretary of Transportation.
 
@@ -94,7 +94,7 @@ Subsecs. (j), (k). Pub. L. 97–35 redesignated former subsecs. (j) relating to 
 
 Subsec. (i). Pub. L. 96–448, §508(c)(2), substituted “in the case of the Secretary, through the Deputy Secretary of Transportation, the General Counsel of the Department of Transportation, the Federal Railroad Administrator, or the Deputy Administrator of the Federal Railroad Administration, and, in the case of the Secretary of the Treasury, through an officer of the Department of the Treasury who has been appointed with the advice and consent of the Senate” for “through their respective Deputy Secretaries”.
 
-Subsec. (j)(4). Pub. L. 96–448, §508(c)(3), struck out provision that any reference in this chapter to Secretary of the Treasury is to Secretary of the Treasuryor person who is at time performing duties of the Office of Secretary of the Treasury or, in his absence, Deputy Secretary of the Treasury.
+Subsec. (j)(4). Pub. L. 96–448, §508(c)(3), struck out provision that any reference in this chapter to Secretary of the Treasury is to Secretary of the Treasury or person who is at time performing duties of the Office of Secretary of the Treasury or, in his absence, Deputy Secretary of the Treasury.
 
 1978—Subsec. (e). Pub. L. 95–611 inserted provision that members of Board shall continue to serve until their successors have been appointed and qualified.
 

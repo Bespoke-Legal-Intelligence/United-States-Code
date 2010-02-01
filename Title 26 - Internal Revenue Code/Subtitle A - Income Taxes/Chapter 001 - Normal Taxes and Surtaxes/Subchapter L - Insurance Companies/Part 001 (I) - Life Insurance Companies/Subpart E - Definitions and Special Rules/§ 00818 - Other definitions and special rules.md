@@ -86,7 +86,7 @@ For purposes of this part, the term “insurance or annuity contract” includes
 
 #### (A) In general
 
-&emsp;&emsp;On or before September 15, 1985, any life insurance company may elect to treat itemsdescribed in paragraph (1) as properly apportioned or allocated among items of gross income to the extent (and in the manner) prescribed in regulations.
+&emsp;&emsp;On or before September 15, 1985, any life insurance company may elect to treat items described in paragraph (1) as properly apportioned or allocated among items of gross income to the extent (and in the manner) prescribed in regulations.
 
 #### (B) Election irrevocable
 
@@ -124,7 +124,7 @@ A prior section 818, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 133;
 
 Another prior section 818, act Aug. 16, 1954, ch. 736, §818, as added Mar. 13, 1956, ch. 83, §2, 70 Stat. 46, related to certain new insurance companies, prior to the general revision of this part by Pub. L. 86–69, §2(a).
 
-A prior section 819, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 136; amended Pub. L. 89–809, title I, §104(i)(3), Nov. 13, 1966, 80 Stat. 1561; Pub. L. 94–455, title XIX, §§1901(a)(102), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1781, 1834, related to foreign life insurance companies, prior to the general revision of this part by Pub. L. 98–369, §211(a). See section 813 of this title.
+A prior section 819, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 136; amended Pub. L. 89–809, title I, §104(i)(3), Nov. 13, 1966, 80 Stat. 1561; Pub. L. 94–455, title XIX, §§1901(a)(102), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1781, 1834, related to foreign life insurance companies,prior to the general revision of this part by Pub. L. 98–369, §211(a). See section 813 of this title.
 
 A prior section 819A, added Pub. L. 94–455, title X, §1043(a), Oct. 4, 1976, 90 Stat. 1639, related to contiguous country branches of domestic life insurance companies, prior to the general revision of this part by Pub. L. 98–369, §211(a). See section 814 of this title.
 
@@ -200,7 +200,7 @@ Amendment by section 1010(k) of Pub. L. 100–647 effective, except as otherwise
 
 Amendment by section 1106(d)(3)(C) of Pub. L. 99–514 applicable to benefits accruing in years beginning after Dec. 31, 1988, except as otherwise provided, see section 1106(i)(5) of Pub. L. 99–514 set out as a note under section 415 of this title.
 
-Amendment by section 1112(d)(4) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule regarding collective bargaining agreements ratified before Mar. 1, 1986, and with provision for waiver of the excise tax on reversions, see section 1112(e) of Pub. L. 99–514, set out as a note under section 401 of this title.
+Amendment by section 1112(d)(4) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule regarding collective bargaining agreements ratified before Mar. 1, 1986, and with provision for waiver of the excise tax on reversions, see section 1112(e) ofPub. L. 99–514, set out as a note under section 401 of this title.
 
 Amendment by section 1821(n), (<i>o</i>) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

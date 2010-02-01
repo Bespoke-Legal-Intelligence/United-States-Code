@@ -16,7 +16,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 #### (3) Customer name securities
 
-&emsp;The term “customer name securities” means securities which were held for the account of a customer on the filing date by or on behalf of the debtor and which on the filing date were registered in the name of the customer, or were in the process of being so registered pursuant to instructions from the debtor, but does not include securities registered in the name of the customer which, by endorsement or otherwise, were in negotiable form.
+&emsp;The term “customer name securities” means securities which were held for the account of a customer on the filing date by or on behalf of the debtor and which on the filing date were registered in the name of the customer, orwere in the process of being so registered pursuant to instructions from the debtor, but does not include securities registered in the name of the customer which, by endorsement or otherwise, were in negotiable form.
 
 #### (4) Customer property
 
@@ -28,7 +28,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 &emsp;&emsp;(C) any cash or securities apportioned to customer property pursuant to section 78fff(d) of this title; and
 
-&emsp;&emsp;(D) any other property of the debtor which, upon compliance with applicable laws, rules, and regulations, would have been set aside or held for the benefit of customers, unless the trustee determines thatincluding such property within the meaning of such term would not significantly increase customer property.
+&emsp;&emsp;(D) any other property of the debtor which, upon compliance with applicable laws, rules, and regulations, would have been set aside or held for the benefit of customers, unless the trustee determines that including such property within the meaning of such term would not significantly increase customer property.
 
 #### (5) Debtor
 
@@ -76,7 +76,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 &emsp;&emsp;(J) fees in connection with put, call, and other option transactions in securities;
 
-&emsp;&emsp;(K) commissions earned from transactions in (i) certificates of deposit, and (ii) Treasury bills, bankers acceptances, or commercial paper which have a maturity at the time of issuance of not exceeding nine months, exclusive of days of grace, or any renewal thereof, the maturity of which is likewise limited, except that SIPC shall by bylaw include in the aggregate of gross revenues only an appropriate percentage of such commissions based on SIPC's loss experience with respect to such instruments over at least the preceding five years; and
+&emsp;&emsp;(K) commissions earned from transactions in (i) certificates of deposit, and (ii) Treasury bills, bankers acceptances, or commercial paper which have a maturity at the time of issuance of not exceeding nine months, exclusive of days of grace, or any renewal thereof, the maturity of which is likewise limited, except that SIPC shall by bylaw include in the aggregate of gross revenues only an appropriate percentage of such commissions based on SIPC's loss experiencewith respect to such instruments over at least the preceding five years; and
 
 &emsp;&emsp;(L) fees and other income from such other categories of the securities business as SIPC shall provide by bylaw.
 

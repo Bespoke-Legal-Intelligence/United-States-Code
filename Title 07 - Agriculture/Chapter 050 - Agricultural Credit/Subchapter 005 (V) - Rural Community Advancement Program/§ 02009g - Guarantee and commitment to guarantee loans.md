@@ -10,7 +10,7 @@ The Secretary, on such terms and conditions as the Secretary may prescribe, may 
 
 #### (c) Limitation
 
-The Secretary may not make a guarantee or commitment to guarantee with respect to a noteor other obligation if the total amount of outstanding notes or obligations guaranteed under this section (excluding any amount repaid under the contract entered into under subsection (e)(1)(A) of this section) for issuers in the State would exceed an amount equal to 5 times the sum of the total amount of grants made to the State under section 2009f of this title.
+The Secretary may not make a guarantee or commitment to guarantee with respect to a note or other obligation if the total amount of outstanding notes or obligations guaranteed under this section (excluding any amount repaid under the contract entered into under subsection (e)(1)(A) of this section) for issuers in the State would exceed an amount equal to 5 times the sum of the total amount of grants made to the State under section 2009f of this title.
 
 #### (d) Payment of principal, interest, and costs
 

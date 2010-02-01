@@ -40,7 +40,7 @@ The Secretary and each guaranty agency, eligible lender, and subsequent holder o
 
 #### (f) Duration of authority
 
-Notwithstanding paragraphs (4) and (6) <sup>1</sup> of subsection (a) of section 605 of the Fair Credit Reporting Act (15 U.S.C. 1681c(a)(4), (a)(6)), a consumer reporting agency may make a report containing information received from the Secretary or a guaranty agency, eligible lender, or subsequent holder regarding the status of a borrower's defaulted account on a loan guaranteed under this part until—
+Notwithstanding paragraphs (4) and (5) of subsection (a) of section 605 of the Fair Credit Reporting Act (15 U.S.C. 1681c(a)(4), (a)(5)), a consumer reporting agency may make a report containing information received from the Secretary or a guaranty agency, eligible lender, or subsequent holder regarding the status of a borrower's defaulted account on a loan guaranteed under this part until—
 
 &emsp;(1) 7 years from the date on which the Secretary or the agency paid a claim to the holder on the guaranty;
 
@@ -48,19 +48,19 @@ Notwithstanding paragraphs (4) and (6) <sup>1</sup> of subsection (a) of sectio
 
 &emsp;(3) in the case of a borrower who reenters repayment after defaulting on a loan and subsequently goes into default on such loan, 7 years from the date the loan entered default such subsequent time.
 
-(Pub. L. 89–329, title IV, §430A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1398; amended Pub. L. 100–50, §10(v), June 3, 1987, 101 Stat. 346; Pub. L. 102–325, title IV, §424, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(c)(52), Dec. 20, 1993, 107 Stat. 2467; Pub. L. 110–315, title IV, §432(a), Aug. 14, 2008, 122 Stat. 3245.)
+(Pub. L. 89–329, title IV, §430A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1398; amended Pub. L. 100–50, §10(v), June 3, 1987, 101 Stat. 346; Pub. L. 102–325, title IV, §424, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(c)(52), Dec. 20, 1993, 107 Stat. 2467; Pub. L. 110–315, title IV, §432(a), Aug. 14, 2008, 122 Stat. 3245; Pub. L. 111–39, title IV, §402(f)(8), July 1, 2009, 123 Stat. 1944.)
 
 #### References in Text
 
-The Fair Credit Reporting Act, referred to in subsec. (a), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
-
-Paragraph (6) of subsection (a) of section 605 of the Fair Credit Reporting Act, referred to in subsec. (f), was redesignated paragraph (5) of subsection (a) of section 605 of the Act by Pub. L. 105–347, §5(4), Nov. 2, 1998, 112 Stat. 3211.
+The Fair Credit Reporting Act, referred to in subsec. (a), is title VI of Pub. L. 90–321, as added by Pub. L.91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 #### Prior Provisions
 
 A prior section 1080a, Pub. L. 89–329, title IV, §430A, as added Pub. L. 99–272, title XVI, §16023, Apr. 7, 1986, 100 Stat. 349; amended Pub. L. 99–320, §2(c), May 23, 1986, 100 Stat. 491, related to reports to credit bureaus and institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2009—Subsec. (f). Pub. L. 111–39, in introductory provisions, substituted “and (5)” for “and (6)” and “(a)(5)” for “(a)(6)”.
 
 2008—Pub. L. 110–315, §432(a)(1), substituted “consumer reporting agencies” for “credit bureaus” in section catchline.
 
@@ -84,6 +84,10 @@ Subsec. (d). Pub. L. 110–315, §432(a)(5), substituted “consumer reporting a
 
 1987—Subsec. (e). Pub. L. 100–50 inserted sentence at end permitting an eligible institution to enter into arrangements with holders of delinquent loans made to borrowers for purpose of providing current information on borrower's location or employment or to assist holder in contacting and influencing borrower to avoid default.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
@@ -91,6 +95,4 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

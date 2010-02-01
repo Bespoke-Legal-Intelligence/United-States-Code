@@ -6,7 +6,7 @@
 
 (c) The clerk of each district court shall reside in the district for which he is appointed, except that the clerk of the district court for the District of Columbia and the Southern District of New York may reside within twenty miles thereof. The district court may designate places within the district for the offices of the clerk and his deputies, and their official stations.
 
-(d) A clerk of a district court or his deputy or assistant shall not receive any compensation or emoluments through any office or position to which he is appointed by the court, other than that received as such clerk, deputy or assistant, whether from the United States or from private litigants.
+(d) A clerk of a district court or his deputy or assistant shall not receive any compensation or emoluments through any office or position to which he is appointed by the court, other than that received as such clerk, deputy or assistant,whether from the United States or from private litigants.
 
 This subsection shall not apply to clerks or deputy clerks appointed as United States magistrate judges pursuant to section 631 of this title.
 

@@ -34,7 +34,7 @@ Not later than October 1, 1993, the Commissioner shall develop and publish in th
 
 &emsp;The Commissioner shall—
 
-&emsp;&emsp;(A) to the maximum extent practicable, carry out such a review by using employees of the Department who are knowledgeable about the provision of independent living services;
+&emsp;&emsp;(A) to the maximum extent practicable, carry out such a review by using employees of the Department who are knowledgeableabout the provision of independent living services;
 
 &emsp;&emsp;(B) ensure that the employee of the Department with responsibility for supervising such a review shall have such knowledge; and
 

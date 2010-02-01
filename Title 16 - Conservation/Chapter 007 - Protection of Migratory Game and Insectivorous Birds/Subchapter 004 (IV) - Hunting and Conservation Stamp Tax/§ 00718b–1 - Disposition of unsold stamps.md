@@ -2,7 +2,7 @@
 
 #### (a) Disposition of unsold stamps
 
-A Migratory Bird Hunting and Conservation Stamp shall be transferred to the Postal Service or the Secretary of the Interior (or a designee) for sale to a collector if the stamp—
+A Migratory Bird Hunting and Conservation Stamp shall be transferred to the Postal Serviceor the Secretary of the Interior (or a designee) for sale to a collector if the stamp—
 
 &emsp;(1) has not been sold by the end of the hunting year (as that term is defined in section 718j of this title) during which the stamp is issued; and
 

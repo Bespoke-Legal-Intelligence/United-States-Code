@@ -6,13 +6,25 @@ As used in this chapter—
 
 &emsp;(2) the term “remote computing service” means the provision to the public of computer storage or processing services by means of an electronic communications system;
 
-&emsp;(3) the term “court of competent jurisdiction” has the meaning assigned by section 3127, and includes any Federal court within that definition, without geographic limitation; and
+&emsp;(3) the term “court of competent jurisdiction” includes—
+
+&emsp;&emsp;(A) any district court of the United States (including a magistrate judge of such a court) or any United States court of appeals that—
+
+&emsp;&emsp;&emsp;(i) has jurisdiction over the offense being investigated;
+
+&emsp;&emsp;&emsp;(ii) is in or for a district in which the provider of a wire or electronic communication service is located or in which the wire or electronic communications, records, or other information are stored; or
+
+&emsp;&emsp;&emsp;(iii) is acting on a request for foreign assistance pursuant to section 3512 of this title; or
+
+&emsp;&emsp;(B) a court of general criminal jurisdiction of a State authorized by the law of that State to issue search warrants; and
 
 &emsp;(4) the term “governmental entity” means a department or agency of the United States or any State or political subdivision thereof.
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1868, §2710; renumbered §2711, Pub. L. 100–618, §2(a)(1), Nov. 5, 1988, 102 Stat. 3195; amended Pub. L. 107–56, title II, §220(a)(2), Oct. 26, 2001, 115 Stat. 292; Pub. L. 109–177, title I, §107(b)(2), Mar. 9, 2006, 120 Stat. 202.)
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1868, §2710; renumbered §2711, Pub. L. 100–618, §2(a)(1), Nov. 5, 1988, 102 Stat. 3195; amended Pub. L. 107–56, title II, §220(a)(2), Oct. 26, 2001, 115 Stat. 292; Pub. L. 109–177, title I, §107(b)(2), Mar. 9, 2006, 120 Stat. 202; Pub. L. 111–79, §2(2), Oct. 19, 2009, 123 Stat. 2086.)
 
 #### Amendments
+
+2009—Par. (3). Pub. L. 111–79 substituted “includes—” and subpars. (A) and (B) for “has the meaning assigned by section 3127, and includes any Federal court within that definition, without geographic limitation; and”.
 
 2006—Par. (4). Pub. L. 109–177 added par. (4).
 

@@ -20,7 +20,7 @@ The Secretary shall carry out a program, through the holder of the loan, of assu
 
 #### (1) In general
 
-&emsp;The Secretary shall repay not more than $5,000 in the aggregate of the loan obligation on a loan made under section 1078 or 1078–8 of this title that is outstanding after the completion of the fifth complete school year of teaching described in subsection (b)(1) of this section.
+&emsp;The Secretary shall repay not more than $5,000 in the aggregate of the loan obligation on a loan made under section 1078 or 1078–8 of this title that is outstanding after the completion of the fifth complete school year of teaching described in subsection (b)(1) of this section. No borrower may receive a reduction of loan obligations under both this section and section 1087j of this title.
 
 #### (2) Treatment of consolidation loans
 
@@ -54,7 +54,7 @@ Nothing in this section shall be construed to authorize any refunding of any rep
 
 #### (f) List
 
-If the list of schools in which a teacher may perform service pursuant to subsection (b) of this section is not available before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
+If the list of schools in which a teacher may perform service pursuant to subsection (b) of this section is not available before May 1 of anyyear, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
 
 #### (g) Additional eligibility provisions
 
@@ -74,11 +74,9 @@ If the list of schools in which a teacher may perform service pursuant to subsec
 
 &emsp;&emsp;(A) section 1078–11 of this title;
 
-&emsp;&emsp;(B) section 1087e(m) of this title;
+&emsp;&emsp;(B) section 1087e(m) of this title; or
 
-&emsp;&emsp;(C) section 1087j of this title; or
-
-&emsp;&emsp;(D) subtitle D of title I of the National and Community Service Act of 1990 (42 U.S.C. 12571 \[12601\] et seq.).
+&emsp;&emsp;(C) subtitle D of title I of the National and Community Service Act of 1990 (42 U.S.C. 12601 et seq.).
 
 #### (3) Private school teachers
 
@@ -88,15 +86,19 @@ If the list of schools in which a teacher may perform service pursuant to subsec
 
 For purposes of this section, the term “year”, where applied to service as a teacher, means an academic year as defined by the Secretary.
 
-(Pub. L. 89–329, title IV, §428J, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 541; amended Pub. L. 103–82, title I, §102(c)(2), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(c)(47)–(51), Dec. 20, 1993, 107 Stat. 2467; Pub. L. 105–244, title IV, §424, Oct. 7, 1998, 112 Stat. 1698; Pub. L. 108–409, §3(a)(1)(A), (b)(1), Oct. 30, 2004, 118 Stat. 2300; Pub. L. 109–171, title VIII, §8013(e)(1), Feb. 8, 2006, 120 Stat. 167; Pub. L. 110–315, title IV, §429, Aug. 14, 2008, 122 Stat. 3236.)
+(Pub. L. 89–329, title IV, §428J, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 541; amended Pub. L. 103–82, title I, §102(c)(2), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(c)(47)–(51), Dec. 20, 1993, 107 Stat. 2467; Pub. L. 105–244, title IV, §424, Oct. 7, 1998, 112 Stat. 1698; Pub. L. 108–409, §3(a)(1)(A), (b)(1), Oct. 30, 2004, 118 Stat. 2300; Pub. L. 109–171, title VIII, §8013(e)(1), Feb. 8, 2006, 120 Stat. 167; Pub. L. 110–315, title IV, §429, Aug. 14, 2008, 122 Stat. 3236; Pub. L. 111–39, title IV, §402(f)(6), July 1, 2009, 123 Stat. 1944.)
 
 #### References in Text
 
 Section 7801 of this title, referred to in subsec. (b)(1)(B), was in the original “section 9101 of the Elementary Secondary Education Act of 1965”, which was translated as meaning section 9101 of the Elementary and Secondary Education Act of 1965, to reflect the probable intent of Congress.
 
-The National and Community Service Act of 1990, referred to in subsec. (g)(2)(D), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (g)(2)(C), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Amendments
+
+2009—Subsec. (c)(1). Pub. L. 111–39, §402(f)(6)(A), inserted at end “No borrower may receive a reduction of loan obligations under both this section and section 1087j of this title.”
+
+Subsec. (g)(2)(B) to (D). Pub. L. 111–39, §402(f)(6)(B), inserted “or” at end of subpar. (B), redesignated subpar. (D) as (C) and substituted “12601” for “12571”, and struck out former subpar. (C) which read as follows: “section 1087j of this title; or”.
 
 2008—Subsec. (b)(1)(A). Pub. L. 110–315, §429(1), inserted “or location” after “a school” and “or locations” after “schools”.
 
@@ -132,7 +134,11 @@ Subsec. (c)(5). Pub. L. 103–82, §102(c)(2)(B), added par. (5).
 
 Subsec. (d). Pub. L. 103–208, §2(c)(50), substituted “to eligible” for “of eligibility” in heading.
 
-Subsec. (e). Pub. L. 103–208, §2(c)(51), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Each eligible individual desiring loan repayment under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.”
+Subsec. (e). Pub. L. 103–208, §2(c)(51), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Each eligible individual desiring loan repayment under this section shall submit an application tothe Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.”
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2006 Amendment
 

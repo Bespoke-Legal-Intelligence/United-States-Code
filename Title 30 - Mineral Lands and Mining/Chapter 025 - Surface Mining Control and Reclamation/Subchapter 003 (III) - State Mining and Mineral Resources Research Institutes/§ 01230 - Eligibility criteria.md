@@ -6,7 +6,7 @@
 
 &emsp;(2) evidence of institutional commitment for the purposes of this subchapter;
 
-&emsp;(3) evidence that such institution has or can obtain significant industrial cooperation in activities within the scope of this subchapter; and
+&emsp;(3) evidence that such institution has or can obtain significant industrial cooperation inactivities within the scope of this subchapter; and
 
 &emsp;(4) the presence of an engineering program in mining or minerals extraction that is accredited by the Accreditation Board for Engineering and Technology, or evidence of equivalent institutional capability as determined by the Committee.
 

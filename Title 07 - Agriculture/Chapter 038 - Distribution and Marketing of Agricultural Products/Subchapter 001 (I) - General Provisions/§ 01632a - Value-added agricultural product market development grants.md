@@ -14,7 +14,7 @@ In this section:
 
 #### (3) Mid-tier value chain
 
-&emsp;The term “mid-tier value chain” means local and regional supply networks that linkindependent producers with businesses and cooperatives that market value-added agricultural products in a manner that—
+&emsp;The term “mid-tier value chain” means local and regional supply networks that link independent producers with businesses and cooperatives that market value-added agricultural products in a manner that—
 
 &emsp;&emsp;(A) targets and strengthens the profitability and competitiveness of small and medium-sized farms and ranches that are structured as a family farm; and
 
@@ -102,7 +102,7 @@ In this section:
 
 #### (A) Mandatory funding
 
-&emsp;&emsp;On October 1, 2008, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this subsection $15,000,000, to remain available until expended.
+&emsp;&emsp;On October 1, 2008, of the funds of the Commodity Credit Corporation, the Secretaryshall make available to carry out this subsection $15,000,000, to remain available until expended.
 
 #### (B) Discretionary funding
 
@@ -112,7 +112,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall reserve 10 percent of the amounts made available for each fiscalyear under this paragraph to fund projects that benefit beginning farmers or ranchers or socially disadvantaged farmers or ranchers.
+&emsp;&emsp;&emsp;The Secretary shall reserve 10 percent of the amounts made available for each fiscal year under this paragraph to fund projects that benefit beginning farmers or ranchers or socially disadvantaged farmers or ranchers.
 
 #### (ii) Mid-tier value chains
 

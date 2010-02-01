@@ -76,7 +76,7 @@ Changes.—The administrative and procedural changes referred to in paragraph (1
 
 “(b)
 
-Consultation.—The Secretary shall consult with the Commissioner of the Internal Revenue Service and take such actions as are appropriate in conjunction with such consultation to simplify the coordination of rules, regulations, forms, and approval requirements for multifamily housing projects projects for which assistance is provided by such Department in conjunction with any low-income housing tax credits under section 42 of the Internal Revenue Code of 1986 \[26 U.S.C. 42\] or tax-exempt housing bonds.
+Consultation.—The Secretary shall consult with the Commissioner of the Internal Revenue Service and take such actions as are appropriate in conjunction with such consultation to simplify the coordination of rules, regulations, forms, and approval requirements for multifamily housing projects projects \[sic\] for which assistance is provided by such Department in conjunction with any low-income housing tax credits under section 42 of the Internal Revenue Code of 1986 \[26 U.S.C. 42\] or tax-exempt housing bonds.
 
 “(c)
 

@@ -22,11 +22,11 @@
 
 (B) If a plaintiff has pending a civil action for damages for a vaccine-related injury or death, such person may not file a petition under subsection (b) of this section for such injury or death.
 
-(6) If a person brings a civil action after November 15, 1988 <sup>1</sup> for damages for a vaccine-related injury or death associated with the administration of a vaccine before November 15, 1988, such person may not file a petition under subsection (b) of this section for such injury or death.
+(6) If a person brings a civil action after November 15, 1988 for damages for a vaccine-related injury or death associated with the administration of a vaccine before November 15, 1988, such person may not file a petition under subsection (b) of this section for such injury or death.
 
 (7) If in a civil action brought against a vaccine administrator or manufacturer for a vaccine-related injury or death damages are awarded under a judgment of a court or a settlement of such action, the person who brought such action may not file a petition under subsection (b) of this section for such injury or death.
 
-(8) If on October 1, 1988, there was pending an appeal or rehearing with respect to a civil action brought against a vaccine administrator or manufacturer and if the outcome of the last appellate review of such action or the last rehearing of such action is the denial of damages for a vaccine-related injury or death, the person who brought such action may file a petition under subsection (b) of this section for such injury or death.
+(8) If on October 1, 1988, there was pending an appeal or rehearing with respect to a civil action brought against a vaccine administrator or manufacturer and if the outcome of the last appellate review of such action or the last rehearing of such action is the denial of damages for a vaccine-related injury or death, the person who brought such action may file a petition undersubsection (b) of this section for such injury or death.
 
 (9) This subsection applies only to a person who has sustained a vaccine-related injury or death and who is qualified to file a petition for compensation under the Program.
 
@@ -80,7 +80,7 @@ A petition may also include other available relevant medical records relating to
 
 The petitioner shall submit in accordance with a schedule set by the special master assigned to the petition assessments, evaluations, and prognoses and such other records and documents as are reasonably necessary for the determination of the amount of compensation to be paid to, or on behalf of, the person who suffered such injury or who died from the administration of the vaccine.
 
-(July 1, 1944, ch. 373, title XXI, §2111, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3758; amended Pub. L. 100–203, title IV, §§4302(b), 4304(a), (b), 4306, 4307(1), (2), Dec. 22, 1987, 101 Stat. 1330–221, 1330–223, 1330–224; Pub. L. 101–239, title VI, §6601(c)(1)–(7), Dec. 19, 1989, 103 Stat. 2285, 2286; Pub. L. 101–502, §5(a), Nov. 3, 1990, 104 Stat. 1286; Pub. L. 102–168, title II, §201(h)(1), Nov. 26, 1991, 105 Stat. 1104; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–43, title XX, §2012, June 10, 1993, 107 Stat. 214; Pub. L. 105–277, div. C, title XV, §1502, Oct. 21, 1998, 112 Stat. 2681–741; Pub. L. 106–310, div. A, title XVII, §1701(a), Oct. 17, 2000, 114 Stat. 1151.)
+(July 1, 1944, ch. 373, title XXI, §2111, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3758; amended Pub. L. 100–203, title IV,§§4302(b), 4304(a), (b), 4306, 4307(1), (2), Dec. 22, 1987, 101 Stat. 1330–221, 1330–223, 1330–224; Pub. L. 101–239, title VI, §6601(c)(1)–(7), Dec. 19, 1989, 103 Stat. 2285, 2286; Pub. L. 101–502, §5(a), Nov. 3, 1990, 104 Stat. 1286; Pub. L. 102–168, title II, §201(h)(1), Nov. 26, 1991, 105 Stat. 1104; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–43, title XX, §2012, June 10, 1993, 107 Stat. 214; Pub. L. 105–277, div. C, title XV, §1502, Oct. 21, 1998, 112 Stat. 2681–741; Pub. L. 106–310, div. A, title XVII, §1701(a), Oct. 17, 2000, 114 Stat. 1151.)
 
 #### Codification
 
@@ -207,8 +207,6 @@ Section 5(h) of Pub. L. 101–502 provided that: “The amendments made by subse
 #### Effective Date of 1989 Amendment
 
 For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
 <i><sup>2</sup></i><i> See Change of Name note below.</i>
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the Corporation shall carry out the program established under paragraph (2); and
 
-&emsp;&emsp;(B) the Secretary, acting through the Cooperative State Research, Education, and Extension Service, shall carry out the program established under paragraph (3).
+&emsp;&emsp;(B) the Secretary, acting through the National Institute of Food and Agriculture, shall carry out the program established under paragraph (3).
 
 #### (2) Education and information
 
@@ -22,7 +22,7 @@
 
 #### (A) Authority
 
-&emsp;&emsp;The Secretary, acting through the Cooperative State Research, Education, and Extension Service, shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers about the full range of risk management activities, including futures, options, agricultural trade options, crop insurance, cash forward contracting, debt reduction, production diversification, farm resources risk reduction, and other risk management strategies.
+&emsp;&emsp;The Secretary, acting through the National Institute of Food and Agriculture, shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers about the full range of risk management activities, including futures, options, agricultural trade options, crop insurance, cash forward contracting, debt reduction, production diversification, farm resources risk reduction, and other risk management strategies.
 
 #### (B) Basis for grants
 
@@ -128,13 +128,9 @@
 
 (Feb. 16, 1938, ch. 30, title V, §524, as added Pub. L. 106–224, title I, §133, June 20, 2000, 114 Stat. 387; amended Pub. L. 107–171, title II, §2501, May 13, 2002, 116 Stat. 263; Pub. L. 108–199, div. A, title VII, §769, Jan. 23, 2004, 118 Stat. 40; Pub. L. 110–234, title I, §1603(g)(3), title II, §2801, title VII, §7511(c)(2), title XII, §12026, May 22, 2008, 122 Stat. 1011, 1085, 1267, 1390; Pub. L. 110–246, §4(a), title I, §1603(g)(3), title II, §2801, title VII, §7511(c)(2), title XII, §12026, June 18, 2008, 122 Stat. 1664, 1739, 1813, 2028, 2152.)
 
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, provided that, effective Oct.</i><i>1, 2009, subsection (a) of this section is amended by substituting “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service” in paragraphs (1)(B) and (3)(A).</i>
-
 #### References in Text
 
-Section 1308(5) of this title, which required the Secretary to issue regulations defining “person”, referred to in subsec. (b)(3), was redesignated section 1308(e) and amended by section 1603(b)(1) of Pub. L. 107–171. Section 1308 was subsequently amended by section 1603 of the Food, Conservation, and Energy Act of 2008, Pub. L. 110–246, to strike out subsec. (e) and add a new subsec. (a)(4) defining “person”. The Food, Conservation, and Energy Act of 2008 does not contain a section 1703(a).
+Section 1308(5) of this title, which required the Secretary to issue regulations defining “person”, referredto in subsec. (b)(3), was redesignated section 1308(e) and amended by section 1603(b)(1) of Pub. L. 107–171. Section 1308 was subsequently amended by section 1603 of the Food, Conservation, and Energy Act of 2008, Pub. L. 110–246, to strike out subsec. (e) and add a new subsec. (a)(4) defining “person”. The Food, Conservation, and Energy Act of 2008 does not contain a section 1703(a).
 
 #### Codification
 
@@ -143,6 +139,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 #### Amendments
 
 2008—Subsec. (a)(1). Pub. L. 110–246, §12026(1), substituted “paragraph (5)” for “paragraph (4)” in introductory provisions.
+
+Subsec. (a)(1)(B), (3)(A). Pub. L. 110–246, §7511(c)(2), substituted “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service”.
 
 Subsec. (a)(4), (5). Pub. L. 110–246, §12026(2), (3), added par. (4) and redesignated former par. (4) as (5).
 

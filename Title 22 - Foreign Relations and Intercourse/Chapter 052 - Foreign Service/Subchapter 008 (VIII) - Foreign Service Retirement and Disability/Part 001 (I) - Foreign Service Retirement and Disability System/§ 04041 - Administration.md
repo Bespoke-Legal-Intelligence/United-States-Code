@@ -38,5 +38,5 @@ Waiver.—The Secretary of State may waive the applicability of subsection (a) o
 
 #### Temporary Retirement Contributions and Procedures for Certain Participants
 
-For temporary provisions providing modified contributions and procedures for members of the Service participating in the Foreign Service Retirement and Disability System who are also required to pay employment taxes relating to benefits under title II of the Social Security Act, 42 U.S.C. 401 et seq., until they are covered by a new Government retirement system or Jan. 1, 1986, whichever is earlier, see title II of Pub. L. 98–168, set out as a note under section 8331 of Title 5, Government Organization and Employees.
+For temporary provisions providing modified contributions and procedures for members of the Serviceparticipating in the Foreign Service Retirement and Disability System who are also required to pay employment taxes relating to benefits under title II of the Social Security Act, 42 U.S.C. 401 et seq., until they are covered by a new Government retirement system or Jan. 1, 1986, whichever is earlier, see title II of Pub. L. 98–168, set out as a note under section 8331 of Title 5, Government Organization and Employees.
 

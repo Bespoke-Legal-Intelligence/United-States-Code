@@ -30,7 +30,7 @@
 
 &emsp;(D) Chapter 37, relating to housing loans.
 
-(e) The marriage of a child of a veteran shall not bar recognition of such child as the child of the veteran for benefit purposes if the marriageis void, or has been annulled by a court with basic authority to render annulment decrees unless the Secretary determines that the annulment was secured through fraud by either party or collusion.
+(e) The marriage of a child of a veteran shall not bar recognition of such child as the child of the veteran for benefit purposes if the marriage is void, or has been annulled by a court with basic authority to render annulment decrees unless the Secretary determines that the annulment was secured through fraud by either party or collusion.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1109; Pub. L. 87–674, §2, Sept. 19, 1962, 76 Stat. 558; Pub. L. 90–77, title I, §101(b), Aug. 31, 1967, 81 Stat. 178; Pub. L. 91–376, §4, Aug. 12, 1970, 84 Stat. 789; Pub. L. 93–527, §9(a), Dec. 21, 1974, 88 Stat. 1705; Pub. L. 99–576, title VII, §701(2), Oct. 28, 1986, 100 Stat. 3290; Pub. L. 101–508, title VIII, §8004(a), Nov. 5, 1990, 104 Stat. 1388–343; Pub. L. 102–83, §4(a)(1), (2)(A)(i), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 106–117, title V, §502(a), Nov. 30, 1999, 113 Stat. 1574; Pub. L. 107–135, title II, §208(e)(1), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 107–330, title I, §101(a), Dec. 6, 2002, 116 Stat. 2821; Pub. L. 108–183, title I, §101(a), title VII, §708(a)(1), Dec. 16, 2003, 117 Stat. 2652, 2673.)
 
@@ -98,7 +98,7 @@ Pub. L. 106–117, title V, §502(c), Nov. 30, 1999, 113 Stat. 1574, provided th
 
 #### Effective Date of 1990 Amendment
 
-Section 8004(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to claims filed after October 31, 1990, and shall not operate to reduce or terminate benefits to any individual whose benefits were predicated on section 103(d)(2), 103(d)(3), or 103(e)(2) before the effective date of those amendments.”
+Section 8004(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to claims filed after October 31, 1990, and shall not operate to reduce or terminate benefits to any individual whose benefits were predicated on section 103(d)(2), 103(d)(3), or 103(e)(2) before the effective date of those amendments.”
 
 #### Effective Date of 1974 Amendment
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 91–376 effective Jan. 1, 1971, see section 9 of Pub. L. 9
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten daysafter Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
+Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
 
 #### Retroactive Benefits Prohibited
 

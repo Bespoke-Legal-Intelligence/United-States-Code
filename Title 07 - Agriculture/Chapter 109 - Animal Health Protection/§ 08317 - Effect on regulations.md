@@ -1,6 +1,6 @@
 ### §8317. Effect on regulations
 
-A regulation issued under a provision of law repealed by subsection (a) shall remain in effect until the Secretary issues a regulation under section 8303(b) or 8315 of this title that supersedes the earlier regulation.
+A regulation issued under a provision of law repealed by subsection (a) shall remain in effectuntil the Secretary issues a regulation under section 8303(b) or 8315 of this title that supersedes the earlier regulation.
 
 (Pub. L. 107–171, title X, §10418(c), May 13, 2002, 116 Stat. 509.)
 

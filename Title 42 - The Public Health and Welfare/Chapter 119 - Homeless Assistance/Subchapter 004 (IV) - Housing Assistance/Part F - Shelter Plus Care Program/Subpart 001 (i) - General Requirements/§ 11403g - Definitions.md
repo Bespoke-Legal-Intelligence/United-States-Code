@@ -30,6 +30,10 @@ For purposes of this part:
 
 (Pub. L. 100–77, title IV, §463, formerly §458, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4369; renumbered §462 and amended Pub. L. 102–550, title XIV, §1406(e)(2), Oct. 28, 1992, 106 Stat. 4031; Pub. L. 104–330, title V, §506(a)(9), Oct. 26, 1996, 110 Stat. 4045; renumbered §463, Pub. L. 110–289, div. B, title VIII, §2835(c)(1)(A), July 30, 2008, 122 Stat. 2874.)
 
+#### Repeal of Section
+
+<i>Pub. L. 111–22, div. B, title V, §§1501, 1503, May 20, 2009, 123 Stat. 1701, 1702, provided that, effective on, and applicable beginning on, the earlier of the expiration of the 18-month period beginning on May 20, 2009, or the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 of Pub. L. 111–22, this section is repealed.</i>
+
 #### Prior Provisions
 
 A prior section 463 of Pub. L. 100–77 was renumbered section 464 and is classified to section 11403h of this title.

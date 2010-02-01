@@ -4,11 +4,11 @@
 
 For purposes of this chapter, other than subchapter IV, the term “institution of higher education” means an educational institution in any State that—
 
-&emsp;(1) admits as regular students only persons having a certificate of graduation from a school providing secondary education, or the recognized equivalent of such a certificate;
+&emsp;(1) admits as regular students only persons having a certificate of graduation from a school providing secondary education, or the recognized equivalent of such a certificate, or persons who meet the requirements of section 1091(d)(3) of this title;
 
 &emsp;(2) is legally authorized within such State to provide a program of education beyond secondary education;
 
-&emsp;(3) provides an educational program for which the institution awards a bachelor's degree or provides not less than a 2-year program that is acceptable for full credit toward such a degree;
+&emsp;(3) provides an educational program for which the institution awards a bachelor's degree or provides not less than a 2-year program that is acceptable for full credit toward such a degree, or awards a degree that is acceptable for admission to a graduate or professional degree program, subject to review and approval by the Secretary;
 
 &emsp;(4) is a public or other nonprofit institution; and
 
@@ -20,31 +20,17 @@ For purposes of this chapter, other than subchapter IV, the term “institution 
 
 &emsp;(1) any school that provides not less than a 1-year program of training to prepare students for gainful employment in a recognized occupation and that meets the provision of paragraphs (1), (2), (4), and (5) of subsection (a) of this section; and
 
-&emsp;(2) a public or nonprofit private educational institution in any State that, in lieu of the requirement in subsection (a)(1) of this section, admits as regular students persons who are beyond the age of compulsory school attendance in the State in which the institution is located.
+&emsp;(2) a public or nonprofit private educational institution in any State that, in lieu of the requirement in subsection (a)(1), admits as regular students individuals—
+
+&emsp;&emsp;(A) who are beyond the age of compulsory school attendance in the State in which the institution is located; or
+
+&emsp;&emsp;(B) who will be dually or concurrently enrolled in the institution and a secondary school.
 
 #### (c) List of accrediting agencies
 
 For purposes of this section and section 1002 of this title, the Secretary shall publish a list of nationally recognized accrediting agencies or associations that the Secretary determines, pursuant to subpart 2 of part G of subchapter IV of this chapter, to be reliable authority as to the quality of the education or training offered.
 
 (Pub. L. 89–329, title I, §101, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1585; amended Pub. L. 110–315, title I, §101(a), Aug. 14, 2008, 122 Stat. 3083.)
-
-#### Amendment of Subsections (a) and (b)
-
-<i>Pub. L. 110–315, title I, §101, Aug. 14, 2008, 122 Stat. 3083, provided that, effective July 1, 2010, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)—</i>
-
-<i>(A) in paragraph (1), by inserting before the semicolon the following: “, or persons who meet the requirements of section 1091(d)(3) of this title”; and</i>
-
-<i>(B) in paragraph (3), by inserting “, or awards a degree that is acceptable for admission to a graduate or professional degree program, subject to review and approval by the Secretary” after “such a degree”; and</i>
-
-<i>(2) by striking paragraph (2) of subsection (b) and inserting the following:</i>
-
-&emsp;<i>“(2) a public or nonprofit private educational institution in any State that, in lieu of the requirement in subsection (a)(1), admits as regular students individuals—</i>
-
-&emsp;&emsp;<i>“(A) who are beyond the age of compulsory school attendance in the State in which the institution is located; or</i>
-
-&emsp;&emsp;<i>“(B) who will be dually or concurrently enrolled in the institution and a secondary school.”</i>
 
 #### References in Text
 
@@ -64,11 +50,23 @@ Another prior section 1001, Pub. L. 89–329, title I, §101, as added Pub. L. 9
 
 Another prior section 1001, Pub. L. 89–329, title I, §101, Nov. 8, 1965, 79 Stat. 1219; Pub. L. 90–575, title II, §201, Oct. 16, 1968, 82 Stat. 1035; Pub. L. 92–318, title I, §101(a), June 23, 1972, 86 Stat. 236; Pub. L. 94–482, title I, §101(a), Oct. 12, 1976, 90 Stat. 2083; Pub. L. 96–49, §2, Aug. 13, 1979, 93 Stat. 351, authorized appropriations for the community service, continuing education, and lifelong learning program grant programs through fiscal year 1980, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
+#### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–315, §101(a)(1)(A), inserted “, or persons who meet the requirements of section 1091(d)(3) of this title” before semicolon at end.
+
+Subsec. (a)(3). Pub. L. 110–315, §101(a)(1)(B), inserted “, or awards a degree that is acceptable for admission to a graduate or professional degree program, subject to review and approval by the Secretary” before semicolon at end.
+
+Subsec. (b)(2). Pub. L. 110–315, §101(a)(2), added par. (2) and struck out former par. (2) which read as follows: “a public or nonprofit private educational institution in any State that, in lieu of the requirement in subsection (a)(1) of this section, admits as regular students persons who are beyond the age of compulsory school attendance in the State in which the institution is located.”
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–39, §3, July 1, 2009, 123 Stat. 1935, provided that: “Except as otherwise provided in this Act \[see Tables for classification\], the amendments made by this Act shall take effect as if enacted on the date of enactment of the Higher Education Opportunity Act (Public Law 110–315) \[Aug. 14, 2008\].”
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–315, §3, Aug. 14, 2008, 122 Stat. 3083, provided that: “Except as otherwise provided in this Act \[see Tables for classification\] or the amendments made by this Act, this Act and the amendments made by this Act shall take effect on the date of enactment of this Act \[Aug. 14, 2008\].”
 
-Pub. L. 110–315, title I, §101(b), Aug. 14, 2008, 122 Stat. 3083, provided that: “The amendments made by this section \[amending this section\] shall take effect on July 1, 2010.”
+Pub. L. 110–315, title I, §101(b), Aug. 14, 2008, 122 Stat. 3083, as amended by Pub. L. 111–39, title I, §101(a)(1), July 1, 2009, 123 Stat. 1935, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Aug. 14, 2008\].”
 
 #### Effective Date of 1998 Amendment
 
@@ -154,9 +152,9 @@ Pub. L. 108–409, §1, Oct. 30, 2004, 118 Stat. 2299, provided that: “This Ac
 
 #### Short Title of 2000 Amendments
 
-Pub. L. 106–420, §1, Nov. 1, 2000, 114 Stat. 1867, provided that: “This Act \[enacting section 1092d of this title, amending section 522 of Title 11, Bankruptcy, and enacting provisions set out as notes under section 1092d of this title and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘College Scholarship Fraud Prevention Act of 2000’.”
+Pub. L. 106–420, §1, Nov. 1, 2000, 114 Stat. 1867, provided that: “This Act \[enacting section 1092d of this title, amending section 522 of Title 11, Bankruptcy, and enacting provisions set out as notes under section 1092d of this title and section 994 of Title 28, Judiciary andJudicial Procedure\] may be cited as the ‘College Scholarship Fraud Prevention Act of 2000’.”
 
-Pub. L. 106–386, div. B, title VI, §1601(a), Oct. 28, 2000, 114 Stat. 1537, provided that: “This section \[amending sections 1092 and 1232g of this title and section 14071 of Title 42, The Public Health and Welfare, and enactingprovisions set out as notes under section 1092 of this title and section 14071 of Title 42\] may be cited as the ‘Campus Sex Crimes Prevention Act’.”
+Pub. L. 106–386, div. B, title VI, §1601(a), Oct. 28, 2000, 114 Stat. 1537, provided that: “This section \[amending sections 1092 and 1232g of this title and section 14071 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 1092 of this title and section 14071 of Title 42\] may be cited as the ‘Campus Sex Crimes Prevention Act’.”
 
 #### Short Title of 1998 Amendment
 
@@ -216,7 +214,7 @@ Pub. L. 99–272, title XVI, §16001(a), Apr. 7, 1986, 100 Stat. 339, provided t
 
 #### Short Title of 1983 Amendments
 
-Pub. L. 98–95, §1, Sept. 26, 1983, 97 Stat. 708, provided: “That this Act \[enacting section 1065a of this title, amending section 1069c of this title, enacting provisions set out as a note under section 1132a–1 of this title, andamending provisions set out as notes under sections 123 and 1069c of this title\] may be cited as the ‘Challenge Grant Amendments of 1983’.”
+Pub. L. 98–95, §1, Sept. 26, 1983, 97 Stat. 708, provided: “That this Act \[enacting section 1065a of this title, amending section 1069c of this title, enacting provisions set out as a note under section 1132a–1 of this title, and amending provisions set out as notes under sections 123 and 1069c of this title\] may be cited as the ‘Challenge Grant Amendments of 1983’.”
 
 Pub. L. 98–79, §1, Aug. 15, 1983, 97 Stat. 476, provided: “That this Act \[amending sections 1071, 1077, 1077a, 1078, 1078–2, 1083a, 1087–1, 1087–2, 1087cc–1, and 1098 of this title, repealing section 1087–1a of this title, enacting provisions set out as notes under sections 1077, 1077a, 1078, and 1087–1 of this title, and amending provisions set out as notes under sections 1070a, 1078, and 1089 of this title\] may be cited as the ‘Student Loan Consolidation and Technical Amendments Act of 1983’.”
 
@@ -254,7 +252,7 @@ Pub. L. 92–318, §1, June 23, 1972, 86 Stat. 235, provided: “That this Act \
 
 #### Short Title of 1968 Amendment
 
-Pub. L. 90–575, §1, Oct. 16, 1968, 82 Stat. 1014, provided: “That this Act \[enacting sections 451 to 455, 746, 1056, 1060, 1087, 1087a to 1087c, 1088 to 1088c, 1089, 1119a–1, 1129a, 1133 to 1133b, 1134 to 1134<i>l</i>, 1135, 1135a, 1135b, 1135c, 1136 to 1136b, 1145, 1146 to 1150 of this title, amending this section and sections 403, 421 to 425, 425 note, 426, 441 to 445, 462 to 464, 481 to 484, 511, 513, 562, 581, 584, 588, 591, 711, 713 to 718, 731, 732, 743, 751, 758, 961, 1005, 1006, 1021 to 1024, 1031, 1033, 1041, 1051, 1061, 1062, 1065 to 1068, 1071 to 1075, 1077, 1078, 1080, 1083 to 1086, 1091c, 1101, 1104, 1108 to 1111, 1113, 1114, 1115, 1118, 1119a, 1119b–2, 1121, 1124, 1125, 1141, 1142, 1143, 1144 and 1176 of this title, section 1464 of Title 12, Banks and Banking, and sections 2741, 2751 to 2756, and 2809 of Title 42, The Public Health and Welfare, repealing sections 733, 981 to 996 of this title, and section 2757 of Title 42, and enacting provisions set out as notes under this section and sections 423 to 425, 445, 462 to 464, 588, 713, 716 to 718, 743, 751, 981, 1006, 1022, 1024, 1051, 1056, 1060, 1067, 1071, 1077, 1078, 1083, 1088b, and 1109 of this title, and sections 2751, 2753, 2754, and 2809 of Title 42\] may be cited as the ‘Higher Education Amendments of 1968’.”
+Pub. L. 90–575, §1, Oct. 16, 1968, 82 Stat. 1014, provided: “That this Act \[enacting sections 451 to 455, 746, 1056, 1060, 1087, 1087a to 1087c, 1088 to 1088c, 1089, 1119a–1, 1129a, 1133 to 1133b, 1134 to 1134<i>l</i>, 1135, 1135a, 1135b, 1135c, 1136 to 1136b, 1145, 1146 to 1150 of this title, amending this section and sections 403, 421 to 425, 425 note, 426, 441 to 445, 462 to 464, 481 to 484, 511, 513, 562, 581, 584, 588, 591, 711, 713 to 718, 731, 732, 743, 751, 758, 961, 1005, 1006, 1021 to 1024, 1031, 1033, 1041, 1051, 1061, 1062, 1065 to 1068, 1071 to 1075, 1077, 1078, 1080, 1083 to 1086, 1091c, 1101, 1104, 1108 to 1111, 1113, 1114, 1115, 1118, 1119a, 1119b–2, 1121, 1124, 1125, 1141, 1142, 1143, 1144 and 1176 of this title, section 1464 of Title 12, Banks and Banking, and sections 2741,2751 to 2756, and 2809 of Title 42, The Public Health and Welfare, repealing sections 733, 981 to 996 of this title, and section 2757 of Title 42, and enacting provisions set out as notes under this section and sections 423 to 425, 445, 462 to 464, 588, 713, 716 to 718, 743, 751, 981, 1006, 1022, 1024, 1051, 1056, 1060, 1067, 1071, 1077, 1078, 1083, 1088b, and 1109 of this title, and sections 2751, 2753, 2754, and 2809 of Title 42\] may be cited as the ‘Higher Education Amendments of 1968’.”
 
 #### Short Title of 1966 Amendment
 
@@ -314,7 +312,7 @@ Exception.—The programs described in subsection (a) for which the authorizatio
 
 \[Pub. L. 110–256, §1(b), June 30, 2008, 122 Stat. 2425, provided that: “Nothing in this section \[amending Pub. L. 109–81, set out above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\], by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\], or by the Ensuring Continued Access to Student Loans Act of 2008 (Public Law 110–227) \[see Short Title of 2008 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\].”\]
 
-\[Pub. L. 110–238, §1(b), May 30, 2008, 122 Stat. 1558, provided that: “Nothing in this section \[amending Pub. L. 109–81, set out above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriationsfor, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\], by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\], or by the Ensuring Continued Access to Student Loans Act of 2008 (Public Law 110–227) \[see Short Title of 2008 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\].”\]
+\[Pub. L. 110–238, §1(b), May 30, 2008, 122 Stat. 1558, provided that: “Nothing in this section \[amending Pub. L. 109–81, set out above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\], by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\], or by the Ensuring Continued Access to Student Loans Act of 2008 (Public Law 110–227) \[see Short Title of 2008 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\].”\]
 
 \[Pub. L. 110–230, §1(b), May 13, 2008, 122 Stat. 877, provided that: “Nothing in this section \[enacting provisions set out above and amending Pub. L. 109–81, set out above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\] or by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\].”\]
 
@@ -344,7 +342,7 @@ Pub. L. 103–208, §2(m), Dec. 20, 1993, 107 Stat. 2486, provided that: “The 
 
 #### Terms Defined for Purposes of Titles XIII, XIV, and XV of Pub. L. 102–325
 
-Pub. L. 102–325, §1(c), July 23, 1992, 106 Stat. 448, as amended by Pub. L. 105–244, title I, §102(a)(6)(A), Oct. 7, 1998, 112 Stat. 1618, provided that: “Unless otherwise provided therein, terms used in titles XIII, XIV, and XV \[enacting sections 1145h and 4426 of this title, sections 3301 to 3371 of Title 25, Indians, and sections 2401 to 2405 of Title 29, Labor, amending sections 1221e–1, 1232g, 3412, 4412, 4414, 4416, 4417, 4418, 4421, 4422, 4423, 4424, 4425, 5381, and 5411 of this title, section 5315 of Title 5, Government Organization and Employees, sections 4604 and 4609 of Title 22, Foreign Relations and Intercourse, sections 640c–1, 1810, 1836, and 1852 of Title 25, and sections295g–8 and 12576 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 1070, 1070a–11, 1070a–21, 1071, 1080, 1088, 1101, 1132a, 1134, 1221–1, 1221e, 1232g, 1452, and 9003 of this title, amending provisions set out as a note under section 1091a of this title, and repealing provisions set out as a note under section 362 of Title 11, Bankruptcy\] shall have the same meaning given to such terms in section 101 of the Higher Education Act of 1965 \[this section\].”
+Pub. L. 102–325, §1(c), July 23, 1992, 106 Stat. 448, as amended by Pub. L. 105–244, title I, §102(a)(6)(A), Oct. 7,1998, 112 Stat. 1618, provided that: “Unless otherwise provided therein, terms used in titles XIII, XIV, and XV \[enacting sections 1145h and 4426 of this title, sections 3301 to 3371 of Title 25, Indians, and sections 2401 to 2405 of Title 29, Labor, amending sections 1221e–1, 1232g, 3412, 4412, 4414, 4416, 4417, 4418, 4421, 4422, 4423, 4424, 4425, 5381, and 5411 of this title, section 5315 of Title 5, Government Organization and Employees, sections 4604 and 4609 of Title 22, Foreign Relations and Intercourse, sections 640c–1, 1810, 1836, and 1852 of Title 25, and sections 295g–8 and 12576 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 1070, 1070a–11, 1070a–21, 1071, 1080, 1088, 1101, 1132a, 1134, 1221–1, 1221e, 1232g, 1452, and 9003 of this title, amending provisions set out as a note under section 1091a of this title, and repealing provisions set out as a note under section 362 of Title 11, Bankruptcy\] shall have the same meaning given to such terms in section 101 of the Higher Education Act of 1965 \[this section\].”
 
 #### General Provisions of 1972 Amendment
 

@@ -42,7 +42,7 @@ The social security account number issued to an individual for purposes of secti
 
 #### (1) In general
 
-&emsp;In the administration of section 9 of the Food and Nutrition Act of 2008 (7 U.S.C. 2018) involving the determination of the qualifications of applicants under such Act, the Secretary of Agriculture may, subject to this subsection, require each applicant retail store or wholesale food concern to furnish to the Secretary of Agriculture the employer identification number assigned to the store or concern pursuant to this section. The Secretary of Agriculture shall not have access to any such number for any purpose other than the establishment and maintenance of a list of the names and employer identification numbers of the stores and concerns for use in determining those applicants who have been previously sanctioned or convicted under section 12 or 15 of such Act (7 U.S.C. 2021 or 2024).
+&emsp;In the administration of section 9 of the Food and Nutrition Act of 2008 (7 U.S.C. 2018) involving the determination of the qualifications of applicants under such Act, the Secretary of Agriculture may, subject to this subsection, require each applicant retail store or wholesale food concern to furnish to the Secretary of Agriculture the employer identification number assigned to the store or concern pursuant to this section. The Secretary of Agriculture shall not have access to any such number for any purpose other than the establishment and maintenance of a list of the names and employer identification numbers ofthe stores and concerns for use in determining those applicants who have been previously sanctioned or convicted under section 12 or 15 of such Act (7 U.S.C. 2021 or 2024).
 
 #### (2) Sharing of information and safeguards
 
@@ -60,7 +60,7 @@ The social security account number issued to an individual for purposes of secti
 
 #### (4) Sanctions
 
-&emsp;Paragraphs (1), (2), and (3) of section 7213(a) shall apply with respect to the unauthorized willful disclosure to any person of employer identification numbers maintained pursuant to this subsection by the Secretary of Agriculture or any agency or instrumentality with which information is shared pursuant to paragraph (2) in the same manner and to the same extent as such paragraphs apply with respect to unauthorized disclosures of return and return information described in such paragraphs. Paragraph (4) of section 7213(a) shall apply with respect to the willful offer of any item of material value in exchange for any such employer identification number in the same manner and to the same extent as suchparagraph applies with respect to offers (in exchange for any return or return information) described in such paragraph.
+&emsp;Paragraphs (1), (2), and (3) of section 7213(a) shall apply with respect to the unauthorized willful disclosure to any person of employer identification numbers maintained pursuant to this subsection by the Secretary of Agriculture or any agency or instrumentality with which information is shared pursuant to paragraph (2) in the same manner and to the same extent as such paragraphs apply with respect to unauthorized disclosures of return and return information described in such paragraphs. Paragraph (4) of section 7213(a) shall apply with respect to the willful offer of any item of material value in exchange for any such employer identification number in the same manner and to the same extent as such paragraph applies with respect to offers (in exchange for any return or return information) described in such paragraph.
 
 #### (g) Access to employer identification numbers by Federal Crop Insurance Corporation for purposes of the Federal Crop Insurance Act
 
@@ -100,7 +100,7 @@ The social security account number issued to an individual for purposes of secti
 
 Section 205 of the Social Security Act, referred to in subsec. (d), is classified to section 405 of Title 42, The Public Health and Welfare.
 
-The Food and Nutrition Act of 2008, referred to in subsec. (f), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.)of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (f), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Federal Crop Insurance Act, referred to in subsec. (g), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. Section 506 of the Act is classified to section 1506 of Title 7. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
 

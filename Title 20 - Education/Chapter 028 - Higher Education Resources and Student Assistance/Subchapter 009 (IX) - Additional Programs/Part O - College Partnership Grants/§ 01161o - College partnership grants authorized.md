@@ -16,7 +16,7 @@ For purposes of this part, an eligible partnership shall include at least two in
 
 The Secretary shall give priority to eligible partnerships that—
 
-&emsp;(1) are located in a State that has employed strategies described in section 1093a(d) <sup>1</sup> of this title; or
+&emsp;(1) are located in a State that has employed strategies described in section 1093a(b)(1) of this title; or
 
 &emsp;(2) include—
 
@@ -58,5 +58,13 @@ For purposes of this section, the term “articulation agreement” means an agr
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-(Pub. L. 89–329, title VIII, §841, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3420.)
+(Pub. L. 89–329, title VIII, §841, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3420; amended Pub. L. 111–39, title VIII, §801(12), July 1, 2009, 123 Stat. 1956.)
+
+#### Amendments
+
+2009—Subsec. (c)(1). Pub. L. 111–39 substituted “1093a(b)(1)” for “1093a(d)”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

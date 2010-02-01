@@ -102,7 +102,7 @@ Qualified nonprofit organizations and public agencies.—
 
 Local nonprofit organization or public agency.—A local nonprofit organization or public agency may purchase housing and related facilities under this paragraph only if—
 
-&emsp;&emsp;(I) the organization or agency is determined by the Secretary to be capable of managing the housing and related facilities (either directly or through a contract) for the remaining useful life of the housing and related facilities; and
+&emsp;&emsp;(I) the organization or agency is determined by the Secretary to be capable of managing the housing and related facilities (either directly or through a contract) forthe remaining useful life of the housing and related facilities; and
 
 &emsp;&emsp;(II) the organization or agency has entered into an agreement that obligates it (and successors in interest thereof) to maintain the housing and related facilities as affordable for very low-income families or persons and low income families or persons for the remaining useful life of the housing and related facilities.
 
@@ -272,7 +272,7 @@ On and after November 30, 1983—
 
 #### (5) Priority and counseling for first-time homebuyers
 
-&emsp;(A) In providing guaranteed loans under this subsection, the Secretary shall give priority to first-time homebuyers (as defined in paragraph (13)).
+&emsp;(A) In providing guaranteed loans under this subsection, the Secretary shall give priority to first-time homebuyers (as defined in paragraph (17)).
 
 &emsp;(B) The Secretary may require that, as a condition of receiving a guaranteed loan pursuant to this subsection, a borrower who is a first-time homebuyer successfully complete a program of homeownership counseling under section 1701x(a)(1)(iii) of title 12 and obtain certification from the provider of the program that the borrower is adequately prepared for the obligations of homeownership.
 
@@ -292,7 +292,7 @@ On and after November 30, 1983—
 
 &emsp;&emsp;&emsp;(i) for a first-time homebuyer, in any amount not in excess of 100 percent of the appraised value of the property as of the date the loan is accepted or the acquisition cost of the property, whichever is less, plus the guarantee fee as authorized by subsection (h)(7) <sup>2</sup> of this section; and
 
-&emsp;&emsp;&emsp;(ii) for any borrower other than a first-time homebuyer, in an amount not in excess of the percentage of the property or the acquisition cost of the property that the Secretary shall determine, such percentage or cost in any event not to exceed 100 percent of the appraised value of the property as of the date the loan is accepted or the acquisition cost of the property, whichever is less, plus the guarantee fee asauthorized by subsection (h)(7) <sup>2</sup> of this section.
+&emsp;&emsp;&emsp;(ii) for any borrower other than a first-time homebuyer, in an amount not in excess of the percentage of the property or the acquisition cost of the property that the Secretary shall determine, such percentage or cost in any event not to exceed 100 percent of the appraised value of the property as of the date the loan is accepted or the acquisition cost of the property, whichever is less, plus the guarantee fee as authorized by subsection (h)(7) <sup>2</sup> of this section.
 
 #### (8) Guarantee fee
 
@@ -300,7 +300,7 @@ On and after November 30, 1983—
 
 #### (9) Refinancing
 
-&emsp;Any guaranteed loan under this subsection may be refinanced and extended in accordance with terms and conditions that the Secretary shall prescribe, but in no event for an additional amount or term which exceeds the limitations under this subsection.
+&emsp;Any guaranteed loan under this subsection may be refinanced and extended in accordancewith terms and conditions that the Secretary shall prescribe, but in no event for an additional amount or term which exceeds the limitations under this subsection.
 
 #### (10) Nonassumption
 
@@ -314,7 +314,71 @@ On and after November 30, 1983—
 
 &emsp;The Secretary shall provide that, in each fiscal year, guaranteed loans under this subsection shall be allocated among the States on the basis of the need of eligible borrowers in each State for such loans in comparison with the need of eligible borrowers for such loans among all States.
 
-#### (13) Definitions
+#### (13) Loss mitigation
+
+&emsp;Upon default or imminent default of any mortgage guaranteed under this subsection, mortgagees shall engage in loss mitigation actions for the purpose of providing an alternative to foreclosure (including actions such as special forbearance, loan modification, pre-foreclosure sale, deed in lieu of foreclosure, as required, support for borrower housing counseling, subordinate lien resolution, and borrower relocation), as provided for by the Secretary.
+
+#### (14) Payment of partial claims and mortgage modifications
+
+&emsp;The Secretary may authorize the modification of mortgages, and establish a program for payment of a partial claim to a mortgagee that agrees to apply the claim amount to payment of a mortgage on a 1- to 4-family residence, for mortgages that are in default or face imminent default, as defined by the Secretary. Any payment under such program directed to the mortgagee shall be made at the sole discretion of the Secretary and on terms and conditions acceptable to the Secretary, except that—
+
+&emsp;&emsp;(A) the amount of the partial claim payment shall be in an amount determined by the Secretary, and shall not exceed an amount equivalent to 30 percent of the unpaid principal balance of the mortgage and any costs that are approved by the Secretary;
+
+&emsp;&emsp;(B) the amount of the partial claim payment shall be applied first to any outstanding indebtedness on the mortgage, including any arrearage, but may also include principal reduction;
+
+&emsp;&emsp;(C) the mortgagor shall agree to repay the amount of the partial claim to the Secretary upon terms and conditions acceptable to the Secretary;
+
+&emsp;&emsp;(D) expenses related to a partial claim or modification are not to be charged to the borrower;
+
+&emsp;&emsp;(E) the Secretary may authorize compensation to the mortgagee for lost income on monthly mortgage payments due to interest rate reduction;
+
+&emsp;&emsp;(F) the Secretary may reimburse the mortgagee from the appropriate guaranty fund in connection with any activities that the mortgagee is required to undertake concerning repayment by the mortgagor of the amount owed to the Secretary;
+
+&emsp;&emsp;(G) the Secretary may authorize payments to the mortgagee on behalf of the borrower, under such terms and conditions as are defined by the Secretary, based on successful performance under the terms of the mortgage modification, which shall be used to reduce the principal obligation under the modified mortgage; and
+
+&emsp;&emsp;(H) the Secretary may authorize the modification of mortgages with terms extended up to 40 years from the date of modification.
+
+#### (15) Assignment
+
+#### (A) Program authority
+
+&emsp;&emsp;The Secretary may establish a program for assignment to the Secretary, upon request of the mortgagee, of a mortgage on a 1- to 4-family residence guaranteed under this chapter.<sup>1</sup>
+
+#### (B) Program requirements
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary may encourage loan modifications for eligible delinquent mortgages or mortgages facing imminent default, as defined by the Secretary, through the payment of the guaranty and assignment of the mortgage to the Secretary and the subsequent modification of the terms of the mortgage according to a loan modification approved under this section.
+
+#### (ii) Acceptance of assignment
+
+&emsp;&emsp;&emsp;The Secretary may accept assignment of a mortgage under a program under this subsection only if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the mortgage is in default or facing imminent default;
+
+&emsp;&emsp;&emsp;&emsp;(II) the mortgagee has modified the mortgage or qualified the mortgage for modification sufficient to cure the default and provide for mortgage payments the mortgagor is reasonably able to pay, at interest rates not exceeding current market interest rates; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the Secretary arranges for servicing of the assigned mortgage by a mortgagee (which may include the assigning mortgagee) through procedures that the Secretary has determined to be in the best interests of the appropriate guaranty fund.
+
+#### (C) Payment of guaranty
+
+&emsp;&emsp;Under the program under this paragraph, the Secretary may pay the guaranty for a mortgage, in the amount determined in accordance with paragraph (2), without reduction for any amounts modified, but only upon the assignment, transfer, and delivery to the Secretary of all rights, interest, claims, evidence, and records with respect to the mortgage, as defined by the Secretary.
+
+#### (D) Disposition
+
+&emsp;&emsp;After modification of a mortgage pursuant to this paragraph, and assignment of the mortgage, the Secretary may provide guarantees under this subsection for the mortgage. The Secretary may subsequently—
+
+&emsp;&emsp;&emsp;(i) re-assign the mortgage to the mortgagee under terms and conditions as are agreed to by the mortgagee and the Secretary;
+
+&emsp;&emsp;&emsp;(ii) act as a Government National Mortgage Association issuer, or contract with an entity for such purpose, in order to pool the mortgage into a Government National Mortgage Association security; or
+
+&emsp;&emsp;&emsp;(iii) re-sell the mortgage in accordance with any program that has been established for purchase by the Federal Government of mortgages insured under this subchapter, and the Secretary may coordinate standards for interest rate reductions available for loan modification with interest rates established for such purchase.
+
+#### (E) Loan servicing
+
+&emsp;&emsp;In carrying out the program under this subsection, the Secretary may require the existing servicer of a mortgage assigned to the Secretary under the program to continue servicing the mortgage as an agent of the Secretary during the period that the Secretary acquires and holds the mortgage for the purpose of modifying the terms of the mortgage. If the mortgage is resold pursuant to subparagraph (D)(iii), the Secretary may provide for the existing servicer to continue to service the mortgage or may engage another entity to service the mortgage.
+
+#### (16) Definitions
 
 &emsp;For purposes of this subsection:
 
@@ -342,7 +406,7 @@ On and after November 30, 1983—
 
 &emsp;&emsp;(D) The term “State” means the States of the United States, the Commonwealth of Puerto Rico, the District of Columbia, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territories of the Pacific, and any other possession of the United States.
 
-#### (14) Guarantees for refinancing loans
+#### (17) Guarantees for refinancing loans
 
 #### (A) In general
 
@@ -362,25 +426,35 @@ On and after November 30, 1983—
 
 #### (E) Other requirements
 
-&emsp;&emsp;The provisions of the last sentence of paragraph (2) and paragraphs (3), (6), (7)(A), (8), and (10) shall apply to loans guaranteed under this paragraph, and no other provisions of paragraphs (2) through (13) shall apply to such loans.
+&emsp;&emsp;The provisions of the last sentence of paragraph (2) and paragraphs (3), (6), (7)(A), (8), (10), (13), and (14) shall apply to loans guaranteed under this paragraph, and no other provisions of paragraphs (2) through (15) shall apply to such loans.
 
 #### (F) Authority to establish limitation
 
 &emsp;&emsp;The Secretary may establish limitations on the number of loans guaranteed under this paragraph, which shall be based on market conditions and other factors as the Secretary considers appropriate.
 
-(July 15, 1949, ch. 338, title V, §502, 63 Stat. 433; Pub. L. 87–70, title VIII, §801(b), June 30, 1961, 75 Stat. 186; Pub. L. 87–723, §4(a)(2), Sept. 28, 1962, 76 Stat. 671; Pub. L. 89–117, title X, §1002, Aug. 10, 1965, 79 Stat. 497; Pub. L. 89–754, title VIII, §802, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 93–383, title V, §505(b), Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–128, title V, §502(a), Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §503, Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–399, title V, §514(a), Oct. 8, 1980, 94 Stat. 1671; Pub. L. 98–181, title V, §503(a), (d), Nov. 30, 1983, 97 Stat. 1240, 1241; Pub. L. 98–479, title I, §105(b)(1), Oct. 17, 1984, 98 Stat. 2226; Pub. L. 100–242, title II, §241, title III, §314, Feb. 5, 1988, 101 Stat. 1886, 1897; Pub. L. 100–628, title X, §1028, Nov. 7, 1988, 102 Stat. 3271; Pub. L. 101–235, title II, §206, Dec. 15, 1989, 103 Stat. 2041; Pub. L. 101–625, title VII, §§704(a), 705(a), 706(b), 719(b), Nov. 28, 1990, 104 Stat. 4283, 4284, 4297; Pub. L. 102–142, title VII, §743(b), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–550, title VII, §§701(g), 702(a), 703, 704, 712(a), (b), Oct. 28, 1992, 106 Stat. 3834, 3835, 3841; Pub. L. 104–180, title VII, §734(c)(3)(A), (B), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–276, title V, §599C(e)(2)(A), (f), Oct. 21, 1998, 112 Stat. 2662, 2663; Pub. L. 106–569, title VII, §701, Dec. 27, 2000, 114 Stat. 3013; Pub. L. 108–285, §3(b), (c), Aug. 2, 2004, 118 Stat. 917, 918; Pub. L. 108–447, div. A, title VII, §726(b), Dec. 8, 2004, 118 Stat. 2842.)
+(July 15, 1949, ch. 338, title V, §502, 63 Stat. 433; Pub. L. 87–70, title VIII, §801(b), June 30, 1961, 75 Stat. 186; Pub. L. 87–723, §4(a)(2), Sept. 28, 1962, 76 Stat. 671; Pub. L. 89–117, title X, §1002, Aug. 10, 1965, 79 Stat. 497; Pub. L. 89–754, title VIII, §802, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 93–383, title V, §505(b), Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–128, title V, §502(a), Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §503, Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–399, title V, §514(a), Oct. 8, 1980, 94 Stat. 1671; Pub. L. 98–181, title V, §503(a), (d), Nov. 30, 1983, 97 Stat. 1240, 1241; Pub. L. 98–479, title I, §105(b)(1), Oct. 17, 1984, 98 Stat. 2226; Pub. L. 100–242, title II, §241, title III, §314, Feb. 5, 1988, 101 Stat. 1886, 1897; Pub. L. 100–628, title X, §1028, Nov. 7, 1988, 102 Stat. 3271; Pub. L. 101–235, title II, §206, Dec. 15, 1989, 103 Stat. 2041; Pub. L. 101–625, title VII, §§704(a), 705(a), 706(b), 719(b), Nov. 28, 1990, 104 Stat. 4283, 4284, 4297; Pub. L. 102–142, title VII, §743(b), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–550, title VII, §§701(g), 702(a), 703, 704, 712(a), (b), Oct. 28, 1992, 106 Stat. 3834, 3835, 3841; Pub. L. 104–180, title VII, §734(c)(3)(A), (B), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–276, title V, §599C(e)(2)(A), (f), Oct. 21, 1998, 112 Stat. 2662, 2663; Pub. L. 106–569, title VII, §701, Dec. 27, 2000, 114 Stat. 3013; Pub. L. 108–285, §3(b), (c), Aug. 2, 2004, 118 Stat. 917, 918; Pub. L. 108–447, div. A, title VII, §726(b), Dec. 8, 2004, 118 Stat. 2842; Pub. L. 111–22, div. A, title I, §101(a), (b), May 20, 2009, 123 Stat. 1633, 1635.)
 
 #### References in Text
 
 Section 1484(j) of this title, referred to in subsec. (c)(4)(B)(iv), was repealed by Pub. L. 106–569, title VII, §708(b), Dec. 27, 2000, 114 Stat. 3018.
 
-The Housing and Community Development Act of 1974, referred to in subsec. (e)(1)(A), (2)(B), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title VI of the Housing and Community Development Act of 1974 is known as the National Manufactured Housing Construction and Safety Standards Act of 1974 and is classified generally to chapter 70 (§5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (e)(1)(A), (2)(B), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title VI of the Housing and Community Development Act of 1974 is known as the National Manufactured Housing Construction and Safety Standards Act of 1974 and is classified generally to chapter 70 (§5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The National Housing Act, referred to in subsec. (e)(1)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the National Housing Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsec. (e)(1)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the National Housing Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 Section 502, referred to in subsec. (h), means section 502 of act July 15, 1949, ch. 338, which is classifed to this section.
 
+This chapter, referred to in subsec. (h)(15)(A), appearing in the original is unidentifiable because title V of act July 15, 1949, does not contain chapters.
+
 #### Amendments
+
+2009—Subsec. (h)(5)(A). Pub. L. 111–22, §101(b)(1), substituted “(as defined in paragraph (17))” for “(as defined in paragraph (13))”.
+
+Subsec. (h)(13) to (16). Pub. L. 111–22, §101(a), added pars. (13) to (15) and redesignated former par. (13) as (16). Former par. (14) redesignated (17).
+
+Subsec. (h)(17). Pub. L. 111–22, §101(a)(1), redesignated par. (14) as (17).
+
+Subsec. (h)(17)(E). Pub. L. 111–22, §101(b)(2), which directed amendment of “paragraph (18)(E)\[ \](as so redesignated by subsection (a)(2))” by substituting “paragraphs (3), (6), (7)(A), (8), (10), (13), and (14)” for “paragraphs (3), (6), (7)(A), (8), and (10)” and “paragraphs (2) through (15)” for “paragraphs (2) through (13)”, was executed by making the substitutions in par. (17)(E) to reflect the probable intent of Congress.
 
 2004—Subsec. (h). Pub. L. 108–285, §3(b)(3), substituted “Doug Bereuter section 502 single family housing loan guarantee program” for “Guaranteed loans” in heading.
 
@@ -420,7 +494,7 @@ Subsec. (c)(5)(D). Pub. L. 105–276, §599C(e)(2)(A)(vi), inserted before perio
 
 Subsec. (h)(6)(C). Pub. L. 105–276, §599C(f), which directed the striking out of “, subject to the maximum dollar amount limitation of section 203(b)(2) of the National Housing Act” each place it appeared, was executed by striking out “, subject to the maximum dollar limitation of section 203(b)(2) of the National Housing Act” after “whichever is less” in cl. (i) and after “Secretary shall determine” in cl. (ii), to reflect the probable intent of Congress.
 
-1996—Subsec. (c)(4)(B)(iv). Pub. L. 104–180, §734(c)(3)(A), inserted before period at end “or under paragraphs (1) and (2) of section 1484(j) of this title, except that an equity loan referred to in this clause may not be made available after August 6, 1996, unless the Secretary determines that the other incentives available under this subparagraph are not adequate to provide a fair return on the investment of the borrower, to prevent prepayment of the loan insured under section 1484 or 1485 of this title, or to prevent the displacement of tenants of the housing for which the loan was made”.
+1996—Subsec. (c)(4)(B)(iv). Pub. L. 104–180, §734(c)(3)(A), inserted before period at end “or under paragraphs (1) and (2) of section 1484(j) of this title, except that an equity loan referred to in this clause may not be made available after August 6, 1996, unless the Secretary determines that the other incentives available under this subparagraph are not adequate to provide a fair return on the investment of the borrower, to prevent prepayment of the loan insured under section1484 or 1485 of this title, or to prevent the displacement of tenants of the housing for which the loan was made”.
 
 Subsec. (c)(4)(C). Pub. L. 104–180, §734(c)(3)(B), in introductory provisions substituted “The Secretary may approve assistance under subparagraph (B) for assisted housing only if the restrictive period has expired for any loan for the housing made or insured under section 1484 or 1485 of this title pursuant to a contract entered into after December 21, 1979, but before December 15, 1989, and the Secretary determines that the combination of assistance provided—” for “The Secretary may approve assistance under subparagraph (B) only if the Secretary determines that the combination of assistance provided—”.
 
@@ -536,6 +610,24 @@ Consultation.—In developing and promulgating the regulations under paragraphs 
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
+#### Procedure
+
+Pub. L. 111–22, div. A, title I, §101(c), May 20, 2009, 123 Stat. 1635, provided that:
+
+“(1)
+
+In general.—The promulgation of regulations necessitated and the administration actions required by the amendments made by this section \[amending this section\] shall be made without regard to—
+
+&emsp;“(A) the notice and comment provisions of section 553 of title 5, United States Code;
+
+&emsp;“(B) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and
+
+&emsp;“(C) chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’).
+
+“(2)
+
+Congressional review of agency rulemaking.—In carrying out this section, and the amendments made by this section, the Secretary shall use the authority provided under section 808 of title 5, United States Code.”
+
 #### Congressional Findings for 2004 Amendment
 
 Pub. L. 108–285, §3(a), Aug. 2, 2004, 118 Stat. 917, provided that: “The Congress finds that—
@@ -576,7 +668,7 @@ Section 706(a) of Pub. L. 101–625 provided that:
 
 Findings.—The Congress finds that—
 
-&emsp;“(A) the Federal Government should encourage support for homeownership through nonsubsidized mortgage loans guaranteed by the Secretary of Agriculture for the purchase of modest homes located in rural areas and small communities of the country that are not adequately served by private conventional, federally insured, or guaranteed mortgage credit providers; and
+&emsp;“(A) the Federal Government should encourage support for homeownership through nonsubsidized mortgage loans guaranteed by the Secretary of Agriculture for the purchase of modest homes located inrural areas and small communities of the country that are not adequately served by private conventional, federally insured, or guaranteed mortgage credit providers; and
 
 &emsp;“(B) many rural areas contain disproportionate amounts of substandard housing in need of repair, but lack the necessary funding and support to modernize such housing through preservation.
 

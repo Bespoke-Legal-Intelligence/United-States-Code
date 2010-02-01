@@ -2,7 +2,7 @@
 
 #### (a) Manner of submission; contents
 
-A grant or contract under this part may be made upon application submitted to the Secretary at such time, in such manner, and containing and accompanied by such information, as the Secretary may require, including assurances for an evaluation whether performed by the applicant or by the Secretary. Such grant or contract may be made available on less than a statewide or regional basis. Each applicant shall—
+A grant or contract under this part may be made upon application submitted to the Secretary at such time, in such manner, and containing and accompanied by such information, as the Secretary may require, including assurances for an evaluation whether performed by the applicant or by the Secretary. Such grant orcontract may be made available on less than a statewide or regional basis. Each applicant shall—
 
 &emsp;(1) provide that the programs and activities for which assistance under this part is sought will be administered by or under the supervision of the applicant;
 

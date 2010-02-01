@@ -14,7 +14,7 @@ An individual may not be awarded the medal unless at the time such award is made
 
 &emsp;(1) is a citizen or other national of the United States; or
 
-&emsp;(2) is an alien lawfully admitted to the United States for permanent residence who (A) has filed an application for petition for naturalization in the manner prescribed by section 1445(b) of title 8 and (B) is not permanently ineligible to become a citizen of the United States.
+&emsp;(2) is an alien lawfully admitted to the United States for permanent residence who (A) has filed an application for petition for naturalization in the manner prescribed by section1445(b) of title 8 and (B) is not permanently ineligible to become a citizen of the United States.
 
 #### (d) Ceremonies
 
@@ -54,7 +54,7 @@ Section 1. <i>Award of Medal</i>. (a) The President shall award the National Med
 
 (d) The presentation of the Medal shall be made in accordance with Section 2(d) of the Act.
 
-Sec. 2. <i>The President's Committee</i>. (a) There is hereby established the President's Committee on the National Medal of Science (hereinafter referred to as the Committee), which shall be composed of twelve appointive members and two ex officio members and shall assistthe President, as provided in this order, in connection with the carrying out of the Act.
+Sec. 2. <i>The President's Committee</i>. (a) There is hereby established the President's Committee on the National Medal of Science (hereinafter referred to as the Committee), which shall be composed of twelve appointive members and two ex officio members and shall assist the President, as provided in this order, in connection with the carrying out of the Act.
 
 (b) Each appointive member of the Committee shall be appointed by the President from among appropriately qualified citizens of the United States. Except as otherwise provided in subsection (e) of this Section, each such member shall be so appointed for a term of three years or for the balance of the unexpired term of his predecessor, whichever is appropriate. Members may be reappointed to serve one additional term of three years. As nearly as practicable, the appointive members of the Committee shall comprise a cross section of the major fields of science and engineering.
 
@@ -118,5 +118,7 @@ Term of the President's Committee on the National Medal of Science extended unti
 
 Term of the President's Committee on the National Medal of Science extended until Sept. 30, 2007, by Ex. Ord. No. 13385, §1(j), Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee on the National Medal of Science extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee on the National Medal of Science extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Committee on the National Medal of Science extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

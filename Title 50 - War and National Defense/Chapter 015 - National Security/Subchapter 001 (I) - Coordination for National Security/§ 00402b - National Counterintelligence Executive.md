@@ -4,7 +4,7 @@
 
 (1) There shall be a National Counterintelligence Executive, who shall be appointed by the Director of National Intelligence.
 
-(2) It is the sense of Congress that the Director of National Intelligence should seek the views of the Attorney General, Secretary of Defense, and Director of the Central Intelligence Agency in selecting an individual for appointment as the Executive.
+(2) It is the sense of Congress that the Director of National Intelligence should seek the views of the Attorney General, Secretary of Defense, andDirector of the Central Intelligence Agency in selecting an individual for appointment as the Executive.
 
 #### (b) Mission
 
@@ -30,7 +30,7 @@ Section was enacted as part of the Counterintelligence Enhancement Act of 2002, 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §1072(d)(1)(B)(i), substituted “Director of National Intelligence” for “President”.
+2004—Subsec. (a)(1). Pub. L. 108–458, §1072(d)(1)(B)(i), substituted “Director of National Intelligence” for “President”.
 
 Subsec. (a)(2). Pub. L. 108–458, §1072(d)(1)(B), substituted “Director of National Intelligence” for “President” and “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 

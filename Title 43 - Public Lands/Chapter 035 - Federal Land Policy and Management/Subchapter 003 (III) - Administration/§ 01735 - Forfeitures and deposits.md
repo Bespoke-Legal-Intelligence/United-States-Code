@@ -26,6 +26,10 @@ Pub. L. 104–134, title I, §101(c) \[title I\], Apr. 26, 1996, 110 Stat. 1321�
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 111–88, div. A, title I, Oct. 30, 2009, 123 Stat. 2906.
+
+Pub. L. 111–8, div. E, title I, Mar. 11, 2009, 123 Stat. 703.
+
 Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2099.
 
 Pub. L. 109–54, title I, Aug. 2, 2005, 119 Stat. 502.

@@ -76,7 +76,7 @@ For purposes of this section—
 
 #### (3) Special rule for certain contracts, etc.
 
-&emsp;In the case of any section 988 transaction described in subsection (c)(1)(B)(iii), any gain or loss from such transaction shall be treated as foreign currency gain or loss (as the case may be).
+&emsp;In the case of any section 988 transaction described in subsection (c)(1)(B)(iii), any gain orloss from such transaction shall be treated as foreign currency gain or loss (as the case may be).
 
 #### (c) Other definitions
 
@@ -136,7 +136,7 @@ For purposes of this section—
 
 #### (III) Special rule for partnerships, etc.
 
-&emsp;&emsp;&emsp;&emsp;In the case of a partnership, an election under subclause (I) shall be made by each partner separately. A similar ruleshall apply in the case of an S corporation.
+&emsp;&emsp;&emsp;&emsp;In the case of a partnership, an election under subclause (I) shall be made by each partner separately. A similar rule shall apply in the case of an S corporation.
 
 #### (iii) Treatment of certain partnerships
 
@@ -160,7 +160,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) the principal activity of such partnership for such taxable year (and each such preceding taxable year) consists of buying and selling options, futures, or forwards with respect to commodities,
 
-&emsp;&emsp;&emsp;&emsp;(III) at least 90 percent of the gross income of the partnership for the taxable year (and for each such preceding taxable year) consisted of income or gains described in subparagraph (A), (B), or (G) of section 7704(d)(1) or gain from the sale or disposition of capital assets held for the production of interest or dividends,
+&emsp;&emsp;&emsp;&emsp;(III) at least 90 percent of the gross income of the partnership for the taxableyear (and for each such preceding taxable year) consisted of income or gains described in subparagraph (A), (B), or (G) of section 7704(d)(1) or gain from the sale or disposition of capital assets held for the production of interest or dividends,
 
 &emsp;&emsp;&emsp;&emsp;(IV) no more than a de minimis amount of the gross income of the partnership for the taxable year (and each such preceding taxable year) was derived from buying and selling commodities, and
 
@@ -202,7 +202,7 @@ For purposes of this section—
 
 #### (I) Related persons
 
-&emsp;&emsp;&emsp;&emsp;Interests in the partnership held by persons related to each other (within themeaning of sections 267(b) and 707(b)) shall be treated as held by 1 person.
+&emsp;&emsp;&emsp;&emsp;Interests in the partnership held by persons related to each other (within the meaning of sections 267(b) and 707(b)) shall be treated as held by 1 person.
 
 #### (II) Predecessors
 
@@ -234,7 +234,7 @@ For purposes of this section—
 
 #### (5) Special rules where taxpayer takes or makes delivery
 
-&emsp;If the taxpayer takes or makes delivery in connection with any section 988 transaction described in paragraph (1)(B)(iii), any gain or loss (determined as if the taxpayer sold the contract, option, or instrument on the date on which he took or made delivery for its fair market value on such date) shall be recognized in the same manner as if such contract, option, or instrument were so sold.
+&emsp;If the taxpayer takes or makes delivery in connection with any section 988 transaction described in paragraph (1)(B)(iii), any gain or loss (determined as if the taxpayer sold the contract, option, or instrument on the date onwhich he took or made delivery for its fair market value on such date) shall be recognized in the same manner as if such contract, option, or instrument were so sold.
 
 #### (d) Treatment of 988 hedging transactions
 

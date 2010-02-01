@@ -10,7 +10,7 @@ Section 1 of Pub. L. 92–70 provided that: “This Act \[enacting this chapter\
 
 #### Emergency Steel Loan Guarantees and Emergency Oil and Gas Guaranteed Loans
 
-Pub. L. 106–51, Aug. 17, 1999, 113 Stat. 252, as amended by Pub. L. 106–102, title VII, §734, Nov. 12, 1999, 113 Stat. 1478; Pub. L. 107–63, title III, §336(a), Nov. 5, 2001, 115 Stat. 472; Pub. L. 108–199, div. B, title II, §211(a), Jan. 23, 2004, 118 Stat. 75; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–108, title II, §205, Nov. 22, 2005, 119 Stat. 2315; Pub. L. 110–161, div. B, title I, §105, Dec. 26, 2007, 121 Stat. 1892, provided that:
+Pub. L. 106–51, Aug. 17, 1999, 113 Stat. 252, as amended by Pub. L. 106–102, title VII, §734, Nov. 12, 1999, 113 Stat. 1478; Pub. L. 107–63, title III, §336(a), Nov. 5, 2001, 115 Stat. 472; Pub. L. 108–199, div. B, title II, §211(a), Jan. 23, 2004, 118 Stat. 75; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–108, title II, §205, Nov. 22, 2005, 119 Stat. 2315; Pub. L. 110–161, div. B, title I, §105, Dec. 26, 2007, 121 Stat. 1892; Pub. L. 111–117, div. B, title I, §108, Dec. 16, 2009, 123 Stat. 3122, provided that:
 
 #### “CHAPTER 1
 
@@ -166,7 +166,7 @@ Salaries and Administrative Expenses.—For necessary expenses to administer the
 
 “(k)
 
-Termination of Guarantee Authority.—The authority of the Board to make commitments to guarantee any loan under this section shall terminate on December 31, 2009.
+Termination of Guarantee Authority.—The authority of the Board to make commitments to guarantee any loan under this section shall terminate on December 31, 2011.
 
 “(<i>l</i>)
 
@@ -182,7 +182,7 @@ In general.—Subject to the requirements of this subsection, an iron ore compan
 
 &emsp;“(2)
 
-Total guarantee limit for iron ore company.—Of the aggregate amount of loans authorizedto be guaranteed and outstanding at any one time under subsection (f)(2), an amount not to exceed $30,000,000 shall be loans with respect to iron ore companies.
+Total guarantee limit for iron ore company.—Of the aggregate amount of loans authorized to be guaranteed and outstanding at any one time under subsection (f)(2), an amount not to exceed $30,000,000 shall be loans with respect to iron ore companies.
 
 #### “federal administrative and travel expenses
 
@@ -272,7 +272,7 @@ Loan guarantee board.—There is established to administer the Program a Loan Gu
 
 &emsp;&emsp;“(A) the Secretary of Commerce;
 
-&emsp;&emsp;“(B) the Chairman of the Board of Governors of the Federal Reserve System, or a member of the Board of Governors of the Federal Reserve System designated by the Chairman, who shall serve as Chairman of the Board; and
+&emsp;&emsp;“(B) the Chairman of the Board of Governors of the Federal Reserve System, or a member of theBoard of Governors of the Federal Reserve System designated by the Chairman, who shall serve as Chairman of the Board; and
 
 &emsp;&emsp;“(C) the Chairman of the Securities and Exchange Commission, or a commissioner of the Securities and Exchange Commission designated by the Chairman.
 
@@ -306,7 +306,7 @@ Requirements for Loan Guarantees.—The Board may issue a loan guarantee on appl
 
 &emsp;“(1) credit is not otherwise available to the company under reasonable terms or conditions sufficient to meet its financing needs, as reflected in the financial and business plans of the company;
 
-&emsp;“(2) the prospective earning power of the company, together with the character and value of the securitypledged, provide a reasonable assurance of repayment of the loan to be guaranteed in accordance with its terms;
+&emsp;“(2) the prospective earning power of the company, together with the character and value of the security pledged, provide a reasonable assurance of repayment of the loan to be guaranteed in accordance with its terms;
 
 &emsp;“(3) the loan to be guaranteed bears interest at a rate determined by the Board to be reasonable, taking into account the current average yield on outstanding obligations of the United States with remaining periods of maturity comparable to the maturity of the loan; and
 

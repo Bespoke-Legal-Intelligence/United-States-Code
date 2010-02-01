@@ -397,7 +397,7 @@ Subsec. (d)(2)(B), (C). Pub. L. 104–264, §121(b)(3), (4), substituted “49.6
 
 1994—Subsec. (c)(1)(B). Pub. L. 103–429, §6(66)(A), substituted “$500,000” for “$400,000”.
 
-Subsec. (c)(3). Pub. L. 103–429, §6(66)(B), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B) of this paragraph, the” for “The”, “49.5” for “44” in two places, and “If this subparagraph” for “If this paragraph”, and added subpar. (B).
+Subsec. (c)(3). Pub. L. 103–429, §6(66)(B), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B) of this paragraph, the”for “The”, “49.5” for “44” in two places, and “If this subparagraph” for “If this paragraph”, and added subpar. (B).
 
 #### Effective Date of 2003 Amendment
 

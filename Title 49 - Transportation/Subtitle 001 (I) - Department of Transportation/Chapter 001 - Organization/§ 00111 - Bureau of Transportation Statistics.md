@@ -34,7 +34,7 @@ Data modernization.—Continually improving surveys and data collection methods 
 
 &emsp;(4)
 
-Encouraging data standardization.—Encouraging the standardization of data, data collection methods, and data management andstorage technologies for data collected by the Bureau, the operating administrations of the Department of Transportation, States, local governments, metropolitan planning organizations, and private sector entities.
+Encouraging data standardization.—Encouraging the standardization of data, data collection methods, and data management and storage technologies for data collected by the Bureau, the operating administrations of the Department of Transportation, States, local governments, metropolitan planning organizations, and private sector entities.
 
 &emsp;(5)
 
@@ -116,7 +116,7 @@ Report to congress.—Not later than 180 days after the date on which the Nation
 
 &emsp;&emsp;(B) how the Department plans to stop collecting data identified under paragraph (2)(C);
 
-&emsp;&emsp;(C) how the Department plans to implement improved data collection methods andother changes identified under paragraph (2)(D);
+&emsp;&emsp;(C) how the Department plans to implement improved data collection methods and other changes identified under paragraph (2)(D);
 
 &emsp;&emsp;(D) the expected costs of implementing subparagraphs (A), (B), and (C) of this paragraph;
 
@@ -348,7 +348,7 @@ Subsec. (g). Pub. L. 105–178, §5109(a)(4), (5), added subsec. (g) and struck 
 
 Subsec. (h). Pub. L. 105–178, §5109(a)(3), redesignated subsec. (d) as (h).
 
-Subsec. (i). Pub. L. 105–178, §5109(a)(6), added subsec. (i) and struck out heading and text of former subsec. (i). Text read as follows: “Information compiled by the Bureau shall not be disclosed publicly in a manner that would reveal the personal identity of any individual, consistent with the Privacy Act of 1974 (5 U.S.C. 552a), or to reveal trade secrets or allow commercial or financial information provided by any person to be identified with such person.”
+Subsec. (i). Pub. L. 105–178, §5109(a)(6), added subsec. (i) and struck out heading and text of former subsec. (i). Text read as follows: “Information compiled by the Bureau shall not be disclosed publicly in a manner thatwould reveal the personal identity of any individual, consistent with the Privacy Act of 1974 (5 U.S.C. 552a), or to reveal trade secrets or allow commercial or financial information provided by any person to be identified with such person.”
 
 Pub. L. 105–178, §5109(a)(3), redesignated subsec. (e) as (i).
 
@@ -404,7 +404,7 @@ Establishment.—The Director of the Bureau of Transportation Statistics shall e
 
 “(b)
 
-Function.—It shall be the function of the advisory council established under this section to advisethe Director of the Bureau of Transportation Statistics on transportation statistics and analyses, including whether or not the statistics and analysis disseminated by the Bureau of Transportation Statistics are of high quality and are based upon the best available objective information.
+Function.—It shall be the function of the advisory council established under this section to advise the Director of the Bureau of Transportation Statistics on transportation statistics and analyses, including whether or not the statistics and analysis disseminated by the Bureau of Transportation Statistics are of high quality and are based upon the best available objective information.
 
 “(c)
 

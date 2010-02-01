@@ -98,7 +98,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;&emsp;(ii) the trading or holding of securities publicly traded or held, unless the trading is with or by a person determined by the Secretary of the Treasury to be a specially designated national;
 
-&emsp;&emsp;(iii) transactions and uses of property incident to lawful travel to Cuba, to the extent that such transactions and uses of property are necessary to the conduct of such travel; or
+&emsp;&emsp;(iii) transactions and uses of property incident to lawful travel to Cuba, to the extent that such transactions and uses of propertyare necessary to the conduct of such travel; or
 
 &emsp;&emsp;(iv) transactions and uses of property by a person who is both a citizen of Cuba and a resident of Cuba, and who is not an official of the Cuban Government or the ruling political party in Cuba.
 

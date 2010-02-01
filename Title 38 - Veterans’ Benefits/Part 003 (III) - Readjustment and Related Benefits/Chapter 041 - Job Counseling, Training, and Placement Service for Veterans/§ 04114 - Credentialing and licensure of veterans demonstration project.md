@@ -34,7 +34,7 @@ Period of Project.—The period during which the Assistant Secretary may carry o
 
 (h)
 
-Funding.—The Assistant Secretary may carry out the demonstration project under thissection utilizing unobligated funds that are appropriated in accordance with the authorization set forth in section 4106 of this title.
+Funding.—The Assistant Secretary may carry out the demonstration project under this section utilizing unobligated funds that are appropriated in accordance with the authorization set forth in section 4106 of this title.
 
 (Added Pub. L. 109–461, title VI, §604(a)(1), Dec. 22, 2006, 120 Stat. 3437.)
 

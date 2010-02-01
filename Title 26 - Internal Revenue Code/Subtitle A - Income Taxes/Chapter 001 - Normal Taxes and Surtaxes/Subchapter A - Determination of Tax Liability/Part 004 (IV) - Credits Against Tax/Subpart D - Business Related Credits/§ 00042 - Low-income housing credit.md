@@ -1130,6 +1130,16 @@ For purposes of this section—
 
 &emsp;For purposes of this section, in the case of any project for residential rental property located in a rural area (as defined in section 520 of the Housing Act of 1949), any income limitation measured by reference to area median gross income shall be measured by reference to the greater of area median gross income or national non-metropolitan median income. The preceding sentence shall not apply with respect to any building if paragraph (1) of section 42(h) does not apply by reason of paragraph (4) thereof to any portion of the credit determined under this section with respect to such building.
 
+#### (9) Coordination with low-income housing grants
+
+#### (A) Reduction in State housing credit ceiling for low-income housing grants received in 2009
+
+&emsp;&emsp;For purposes of this section, the amounts described in clauses (i) through (iv) of subsection (h)(3)(C) with respect to any State for 2009 shall each be reduced by so much of such amount as is taken into account in determining the amount of any grant to such State under section 1602 of the American Recovery and Reinvestment Tax Act of 2009.
+
+#### (B) Special rule for basis
+
+&emsp;&emsp;Basis of a qualified low-income building shall not be reduced by the amount of any grant described in subparagraph (A).
+
 #### (j) Recapture of credit
 
 #### (1) In general
@@ -1458,7 +1468,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(4) providing the opportunity for housing credit agencies to correct administrative errors and omissions with respect to allocations and record keeping within a reasonable period after their discovery, taking into account the availability of regulations and other administrative guidance from the Secretary.
 
-(Added Pub. L. 99–514, title II, §252(a), Oct. 22, 1986, 100 Stat. 2189; amended Pub. L. 99–509, title VIII, §8072(a), Oct. 21, 1986, 100 Stat. 1964; Pub. L. 100–647, title I, §§1002(<i>l</i>)(1)–(25), (32), 1007(g)(3)(B), title IV, §§4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, 102 Stat. 3373–3381, 3435, 3643, 3644; Pub. L. 101–239, title VII, §§7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, 103 Stat. 2306–2321, 2406, 2426, 2429; Pub. L. 101–508, title XI, §§11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, 104 Stat. 1388–474, 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; Pub. L. 102–227, title I, §107(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13142(a)(1), (b)(1)–(5), Aug. 10, 1993, 107 Stat. 437–439; Pub. L. 104–188, title I, §1704(t)(53), (64), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title VI, §6004(g)(5), July 22, 1998, 112 Stat. 796; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–554, §1(a)(7) \[title I, §§131(a)–(c), 132–136\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610 to 2763A–613; Pub. L. 107–147, title IV, §417(2), (3), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(8), title IV, §408(a)(3), Oct. 4, 2004, 118 Stat. 1177, 1191; Pub. L. 110–142, §6(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–289, div. C, title I, §§3001–3002(b), 3003(a)–(g), 3004(a)–(g), 3007(b), July 30, 2008, 122 Stat. 2878–2884, 2886.)
+(Added Pub. L. 99–514, title II, §252(a), Oct. 22, 1986, 100 Stat. 2189; amended Pub. L. 99–509, title VIII, §8072(a), Oct. 21, 1986, 100 Stat. 1964; Pub. L. 100–647, title I, §§1002(<i>l</i>)(1)–(25), (32), 1007(g)(3)(B), title IV, §§4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, 102 Stat. 3373–3381, 3435, 3643, 3644; Pub. L. 101–239, title VII, §§7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, 103 Stat. 2306–2321, 2406, 2426, 2429; Pub. L. 101–508, title XI, §§11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, 104 Stat. 1388–474,1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; Pub. L. 102–227, title I, §107(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13142(a)(1), (b)(1)–(5), Aug. 10, 1993, 107 Stat. 437–439; Pub. L. 104–188, title I, §1704(t)(53), (64), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title VI, §6004(g)(5), July 22, 1998, 112 Stat. 796; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–554, §1(a)(7) \[title I, §§131(a)–(c), 132–136\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610 to 2763A–613; Pub. L. 107–147, title IV, §417(2), (3), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(8), title IV, §408(a)(3), Oct. 4, 2004, 118 Stat. 1177, 1191; Pub. L. 110–142, §6(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–289, div. C, title I, §§3001–3002(b), 3003(a)–(g), 3004(a)–(g), 3007(b), July 30, 2008, 122 Stat. 2878–2884, 2886; Pub. L. 111–5, div. B, title I, §1404, Feb. 17, 2009, 123 Stat. 352.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -1486,6 +1496,8 @@ The Social Security Act, referred to in subsec. (i)(3)(D)(i)(I), (II), is act Au
 
 The Job Training Partnership Act, referred to in subsec. (i)(3)(D)(i)(III), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
+Section 1602 of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (i)(9)(A), is section 1602 of Pub. L. 111–5, which is set out as a note below.
+
 #### Prior Provisions
 
 A prior section 42, added Pub. L. 94–12, title II, §203(a), Mar. 29, 1975, 89 Stat. 29; amended Pub. L. 94–164, §3(a)(1), Dec. 23, 1975, 89 Stat. 972; Pub. L. 94–455, title IV, §401(a)(2)(A), (B), title V, §503(b)(4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1555, 1562, 1834; Pub. L. 95–30, title I, §101(c), May 23, 1977, 91 Stat. 132, which related to general tax credit allowed to individuals in an amount equal to the greater of (1) 2% of taxable income not exceeding $9,000 or (2) $35 multiplied by each exemption the taxpayer was entitled to, expired Dec. 31, 1978, pursuant to the terms of: (1) Pub. L. 94–12, §209(a) as amended by Pub. L. 94–164, §2(e), set out as an Effective and Termination Dates of 1975 Amendment note under section 56 of this title; (2) Pub. L. 94–164, §3(b), as amended by Pub. L. 94–455, §401(a)(1) and Pub. L. 95–30, §103(a); and (3) Pub. L. 94–455, §401(e), as amended by Pub. L. 95–30, §103(c) and Pub. L. 95–600, title I, §103(b), Nov. 6, 1978, 92 Stat. 2771, set out as an Effective and Termination Dates of 1976 Amendment note under section 32 of this title.
@@ -1493,6 +1505,8 @@ A prior section 42, added Pub. L. 94–12, title II, §203(a), Mar. 29, 1975, 89
 Another prior section 42 was renumbered section 37 of this title.
 
 #### Amendments
+
+2009—Subsec. (i). Pub. L. 111–5 added par. (9).
 
 2008—Subsec. (b). Pub. L. 110–289, §3002(a), redesignated par. (2) as (1), in heading, substituted “Determination of applicable percentage” for “Buildings placed in service after 1987”, in text, substituted “For purposes of this section, the term ‘applicable percentage’ means, with respect to any building, the appropriate percentage” for “(A)
 
@@ -1584,7 +1598,7 @@ Subsec. (h)(1)(E)(ii). Pub. L. 106–554, §1(a)(7) \[title I, §135(a)(1)\], in
 
 Subsec. (h)(3)(C). Pub. L. 106–554, §1(a)(7) \[title I, §136(b)\], which directed the substitution of “clauses (i) through (iv)” for “clauses (i) and (iii)” in the first sentence of concluding provisions, could not be executed because the words “clauses (i) and (iii)” did not appear subsequent to the amendment by Pub. L. 106–554, §1(a)(7) \[title I, §131(c)(1)(B)\]. See below.
 
-Pub. L. 106–554, §1(a)(7) \[title I, §135(a)(2)\], in last sentence of concluding provisions, substituted “project which fails to meet the 10 percent test under paragraph (1)(E)(ii) on a date after the close of the calendar year in which the allocation was made or which” for “project which”.
+Pub. L. 106–554, §1(a)(7) \[title I, §135(a)(2)\], in last sentence of concluding provisions, substituted “project which fails to meet the 10 percent test under paragraph\(1)(E)(ii) on a date after the close of the calendar year in which the allocation was made or which” for “project which”.
 
 Pub. L. 106–554, §1(a)(7) \[title I, §131(c)(1)\], in first sentence of concluding provisions, substituted “clause (i)” for “clause (ii)” and “clauses (ii)” for “clauses (i)”.
 
@@ -1688,7 +1702,7 @@ Subsec. (h)(5)(C)(i) to (iii). Pub. L. 101–508, §11407(b)(9)(B), added cl. (i
 
 Subsec. (h)(5)(D)(i). Pub. L. 101–508, §11407(b)(9)(C), inserted “ownership and” before “material participation”.
 
-Subsec. (h)(6)(B)(i). Pub. L. 101–508, §11701(a)(7)(A), inserted before comma at end “and which prohibits theactions described in subclauses (I) and (II) of subparagraph (E)(ii)”.
+Subsec. (h)(6)(B)(i). Pub. L. 101–508, §11701(a)(7)(A), inserted before comma at end “and which prohibits the actions described in subclauses (I) and (II) of subparagraph (E)(ii)”.
 
 Subsec. (h)(6)(B)(ii). Pub. L. 101–508, §11701(a)(7)(B), substituted “requirement and prohibitions” for “requirement”.
 
@@ -1774,7 +1788,7 @@ Subsec. (d)(7)(A)(ii). Pub. L. 101–239, §7841(d)(14), substituted “under su
 
 Subsec. (e)(2)(A). Pub. L. 101–239, §7841(d)(15), substituted “to capital account” for “to captial account”.
 
-Subsec. (e)(3). Pub. L. 101–239, §7108(d)(3), substituted “Minimum expenditures to qualify” for “Average of rehabilitation expenditures must be $2,000 or more” inheading, added subpars. (A) and (B), redesignated former subpar. (B) as (C), and struck out former subpar. (A) which read as follows: “Paragraph (1) shall apply to rehabilitation expenditures with respect to any building only if the qualified basis attributable to such expenditures incurred during any 24-month period, when divided by the low-income units in the building, is $2,000 or more.”
+Subsec. (e)(3). Pub. L. 101–239, §7108(d)(3), substituted “Minimum expenditures to qualify” for “Average of rehabilitation expenditures must be $2,000 or more” in heading, added subpars. (A) and (B), redesignated former subpar. (B) as (C), and struck out former subpar. (A) which read as follows: “Paragraph (1) shall apply to rehabilitation expenditures with respect to any building only if the qualified basis attributable to such expenditures incurred during any 24-month period, when divided by the low-income units in the building, is $2,000 or more.”
 
 Subsec. (e)(5). Pub. L. 101–239, §7108(<i>l</i>)(3)(C), substituted “subsection (d)(2)(A)(i)” for “subsection (d)(2)(A)(i)(II)”.
 
@@ -1958,7 +1972,7 @@ Subsec. (n)(1). Pub. L. 100–647, §1002(<i>l</i>)(25), inserted “, and, exc
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–289, div. C, title I, §3002(c), July 30, 2008, 122 Stat. 2880, provided that: “The amendments madeby this subsection \[probably means this section, amending this section\] shall apply to buildings placed in service after the date of the enactment of this Act \[July 30, 2008\].”
+Pub. L. 110–289, div. C, title I, §3002(c), July 30, 2008, 122 Stat. 2880, provided that: “The amendments made by this subsection \[probably means this section, amending this section\] shall apply to buildings placed in service after the date of the enactment of this Act \[July 30, 2008\].”
 
 Pub. L. 110–289, div. C, title I, §3003(h), July 30, 2008, 122 Stat. 2882, provided that:
 
@@ -2052,7 +2066,7 @@ In general.—Except as provided in subparagraphs (B) and (C), the amendments ma
 
 &emsp;“(i) determinations under section 42 of the Internal Revenue Code of 1986 with respect to housing credit dollar amounts allocated from State housing credit ceilings after June 30, 1992, or
 
-&emsp;“(ii) buildings placed in service after June 30, 1992, to the extent paragraph (1) of section 42(h) of such Code does not apply to any building by reason of paragraph (4) thereof, but only with respect to bonds issued after such date.
+&emsp;“(ii) buildings placed in service after June 30, 1992, to the extent paragraph (1) of section 42(h) of suchCode does not apply to any building by reason of paragraph (4) thereof, but only with respect to bonds issued after such date.
 
 “(B)
 
@@ -2076,7 +2090,7 @@ Section 11407(b)(10) of Pub. L. 101–508 provided that:
 
 In general.—Except as otherwise provided in this paragraph, the amendments made by this subsection \[amending this section\] shall apply to—
 
-&emsp;“(i) determinations under section 42 of the Internal Revenue Code of 1986 with respect to housing creditdollar amounts allocated from State housing credit ceilings for calendar years after 1990, or
+&emsp;“(i) determinations under section 42 of the Internal Revenue Code of 1986 with respect to housing credit dollar amounts allocated from State housing credit ceilings for calendar years after 1990, or
 
 &emsp;“(ii) buildings placed in service after December 31, 1990, to the extent paragraph (1) of section 42(h) of such Code does not apply to any building by reason of paragraph (4) thereof, but only with respect to bonds issued after such date.
 
@@ -2168,7 +2182,7 @@ Guidance on difficult development areas and posting of bond to avoid recapture.�
 
 Amendment by section 7811(a) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
-Amendment by section 7831(c) of Pub. L. 101–239 effective as if included in the provision of the Tax ReformAct of 1986, Pub. L. 99–514, to which such amendment relates, see section 7831(g) of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by section 7831(c) of Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7831(g) of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -2205,6 +2219,58 @@ Special rule for rehabilitation expenditures.—Subsection (e) of section 42 of 
 #### Savings Provision
 
 For provisions that nothing in amendment by sections 11812(b)(3) and 11813(b)(3) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+
+#### Grants to States for Low-Income Housing Projects in Lieu of Low-Income Housing Credit Allocations for 2009
+
+Pub. L. 111–5, div. B, title I, §1602, Feb. 17, 2009, 123 Stat. 362, provided that:
+
+“(a)
+
+In General.—The Secretary of the Treasury shall make a grant to the housing credit agency of each State in an amount equal to such State's low-income housing grant election amount.
+
+“(b)
+
+Low-Income Housing Grant Election Amount.—For purposes of this section, the term ‘low-income housing grant election amount’ means, with respect to any State, such amount as the State may elect which does not exceed 85 percent of the product of—
+
+&emsp;“(1) the sum of—
+
+&emsp;&emsp;“(A) 100 percent of the State housing credit ceiling for 2009 which is attributable to amounts described in clauses (i) and (iii) of section 42(h)(3)(C) of the Internal Revenue Code of 1986, and
+
+&emsp;&emsp;“(B) 40 percent of the State housing credit ceiling for 2009 which is attributable to amounts described in clauses (ii) and (iv) of such section, multiplied by
+
+&emsp;“(2) 10.
+
+“(c)
+
+Subawards for Low-Income Buildings.—
+
+&emsp;“(1)
+
+In general.—A State housing credit agency receiving a grant under this section shall use such grant to make subawards to finance the construction or acquisition and rehabilitation of qualified low-income buildings. A subaward under this section may be made to finance a qualified low-income building with or without an allocation under section 42 of the Internal Revenue Code of 1986, except that a State housing credit agency may make subawards to finance qualified low-income buildings without an allocation only if it makes a determination that such use will increase the total funds available to the State to build and rehabilitate affordable housing. In complying with such determination requirement, a State housing credit agency shall establish a process in which applicants that are allocated credits are required to demonstrate good faith efforts to obtain investment commitments for such credits before the agency makes such subawards.
+
+&emsp;“(2)
+
+Subawards subject to same requirements as low-income housing credit allocations.—Any such subaward with respect to any qualified low-income building shall be made in the same manner and shall be subject to the same limitations (including rent, income, and use restrictions on such building) as an allocation of housing credit dollar amount allocated by such State housing credit agency under section 42 of the Internal Revenue Code of 1986, except that such subawards shall not be limited by, or otherwise affect (except as provided in subsection (h)(3)(J) of such section \[section 42(h)(3) has no subpar. (J)\]), the State housing credit ceiling applicable to such agency.
+
+&emsp;“(3)
+
+Compliance and asset management.—The State housing credit agency shall perform asset management functions to ensure compliance with section 42 of the Internal Revenue Code of 1986 and the long-term viability of buildings funded by any subaward under this section. The State housing credit agency may collect reasonable fees from a subaward recipient to cover expenses associated with the performance of its duties under this paragraph. The State housing credit agency may retain an agent or other private contractor to satisfy the requirements of this paragraph.
+
+&emsp;“(4)
+
+Recapture.—The State housing credit agency shall impose conditions or restrictions, including a requirement providing for recapture, on any subaward under this section so as to assure that thebuilding with respect to which such subaward is made remains a qualified low-income building during the compliance period. Any such recapture shall be payable to the Secretary of the Treasury for deposit in the general fund of the Treasury and may be enforced by means of liens or such other methods as the Secretary of the Treasury determines appropriate.
+
+“(d)
+
+Return of Unused Grant Funds.—Any grant funds not used to make subawards under this section before January 1, 2011, shall be returned to the Secretary of the Treasury on such date. Any subawards returned to the State housing credit agency on or after such date shall be promptly returned to the Secretary of the Treasury. Any amounts returned to the Secretary of the Treasury under this subsection shall be deposited in the general fund of the Treasury.
+
+“(e)
+
+Definitions.—Any term used in this section which is also used in section 42 of the Internal Revenue Code of 1986 shall have the same meaning for purposes of this section as when used in such section 42. Any reference in this section to the Secretary of the Treasury shall be treated as including the Secretary's delegate.
+
+“(f)
+
+Appropriations.—There is hereby appropriated to the Secretary of the Treasury such sums as may be necessary to carry out this section.”
 
 #### Election To Determine Rent Limitation Based on Number of Bedrooms and Deep Rent Skewing
 

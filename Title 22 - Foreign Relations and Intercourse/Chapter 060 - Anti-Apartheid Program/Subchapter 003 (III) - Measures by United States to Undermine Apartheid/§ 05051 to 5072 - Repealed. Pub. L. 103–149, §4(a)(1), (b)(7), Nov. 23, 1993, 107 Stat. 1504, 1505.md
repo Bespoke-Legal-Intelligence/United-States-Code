@@ -18,7 +18,7 @@ Section 5057, Pub. L. 99–440, title III, §307, Oct. 2, 1986, 100 Stat. 1101, 
 
 Section 5058, Pub. L. 99–440, title III, §308, Oct. 2, 1986, 100 Stat. 1102, related to bank accounts of Government of South Africa.
 
-Section 5059, Pub. L. 99–440, title III, §309, Oct. 2, 1986, 100 Stat. 1102; Pub. L. 99–631, §1(a)(14), Nov. 7, 1986, 100 Stat. 3516; Pub. L. 100–418, title I, §1214(n), Aug. 23, 1988, 102 Stat. 1158, prohibited importation of uranium, coal, and textiles from South Africa.
+Section 5059, Pub. L. 99–440, title III, §309, Oct. 2, 1986, 100 Stat. 1102; Pub. L. 99–631, §1(a)(14), Nov. 7, 1986, 100Stat. 3516; Pub. L. 100–418, title I, §1214(n), Aug. 23, 1988, 102 Stat. 1158, prohibited importation of uranium, coal, and textiles from South Africa.
 
 Section 5060, Pub. L. 99–440, title III, §310, Oct. 2, 1986, 100 Stat. 1102, prohibited new investment in South Africa.
 

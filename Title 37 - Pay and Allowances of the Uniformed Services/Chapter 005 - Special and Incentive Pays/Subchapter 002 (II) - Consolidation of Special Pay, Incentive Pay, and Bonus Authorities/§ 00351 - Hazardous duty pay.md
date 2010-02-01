@@ -22,21 +22,25 @@ Maximum Amount.—The amount of hazardous duty pay paid to a member under subsec
 
 (c)
 
-Method of Payment.—Hazardous duty pay shall be paid on a monthly basis. A member who is eligible for hazardous duty pay by reason of paragraph (1) or (3) of subsection (a) shall receive the full monthly rate of hazardous duty pay authorized by the Secretary concerned under such paragraph, notwithstanding subsection (d).
+Method of Payment; Proration.—
+
+&emsp;(1)
+
+Monthly payment.—Subject to paragraph (2), hazardous duty pay shall be paid on a monthly basis.
+
+&emsp;(2)
+
+Proration.—If a member does not satisfy the eligibility requirements specified in paragraph (1), (2), or (3) of subsection (a) for an entire month for receipt of hazardous duty pay, the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month.
 
 (d)
 
-Reserve Component Members Performing Inactive Duty Training.—A member of a reserve component entitled to compensation under section 206 of this title who is authorized hazardous duty pay under this section may be paid an amount of hazardous duty pay that is proportionate to the compensation received by the member under section 206 of this title for inactive-duty training.
+Administration and Retroactive Payments.—The effective date for the designation of a hostile fire area, as described in paragraph (1) of subsection (a), and for the designation of a foreign area as an imminent danger area, as described in paragraph (3) of such subsection, may be a date that occurs before, on, or after the actual date of the designation by the Secretary concerned.
 
 (e)
 
-Administration and Retroactive Payments.—The effective date for the designation of a hostile fire area, as described in paragraph (1) of subsection (a), and for the designation of a foreign area as an imminent danger area, as described in paragraph (3) of such subsection, may be a date that occurs before, on, or after the actual date of the designation by the Secretary concerned.
-
-(f)
-
 Determination of Fact.—Any determination of fact that is made in connection with determining whether a triggering event has occurred for the provision of hazardous duty pay under subsection (a)(1) is conclusive. The determination may not be reviewed by any other officer or agency of the United States unless there has been fraud or gross negligence. However, the Secretary concerned may change the determination on the basis of new evidence or for other good cause.
 
-(g)
+(f)
 
 Relationship to Other Pay and Allowances.—
 
@@ -48,17 +52,23 @@ In addition to other pay and allowances.—A member may be paid hazardous duty p
 
 Limitation.—A member may not receive hazardous duty pay under this section for a month for more than three qualifying instances described in subsection (a)(2).
 
-(h)
+(g)
 
 Prohibition on Variable Rates.—The regulations prescribed to administer this section may not include varied criteria or rates for payment of hazardous duty for officers and enlisted members.
 
-(i)
+(h)
 
-Termination of Authority.—No hazardous duty pay under this section may be paid after December 31, 2009.
+Termination of Authority.—No hazardous duty pay under this section may be paid after December 31, 2010.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 172; amended Pub. L. 110–417, \[div. A\], title VI, §618(d), (e), Oct. 14, 2008, 122 Stat. 4486.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 172; amended Pub. L. 110–417, \[div. A\], title VI, §618(d), (e), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §§614(6), 618(b), Oct. 28, 2009, 123 Stat. 2354, 2356.)
 
 #### Amendments
+
+2009—Subsecs. (c) to (h). Pub. L. 111–84, §618(b), added subsec. (c), redesignated former subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsecs. (c) and (d), which related to method of payment and reserve component members performing inactive duty training.
+
+Subsec. (i). Pub. L. 111–84, §618(b)(1), redesignated subsec. (i) as (h).
+
+Pub. L. 111–84, §614(6), substituted “December 31, 2010” for “December 31, 2009”.
 
 2008—Subsec. (c). Pub. L. 110–417, §618(d), substituted “paragraph (1) or (3) of subsection (a)” for “subsection (a)”.
 

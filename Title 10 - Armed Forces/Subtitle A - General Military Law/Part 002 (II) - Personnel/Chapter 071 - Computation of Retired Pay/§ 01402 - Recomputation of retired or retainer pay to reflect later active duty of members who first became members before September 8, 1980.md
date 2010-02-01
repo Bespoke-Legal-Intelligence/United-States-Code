@@ -46,7 +46,7 @@
 
 (f)(1) In the case of a member who is entitled to recompute retired pay under this section upon release from active duty served after retiring under section 3914 or 8914 of this title, the member's retired pay as recomputed under another provision of this section shall be increased by 10 percent of the amount so recomputed if the member has been credited by the Secretary concerned with extraordinary heroism in the line of duty during any period of active duty service in the armed forces.
 
-(2) The amount of the retired pay as recomputed under another provision of this section and as increased under paragraph (1) may not exceed the amount equal to 75 percent of the monthly rate of basic pay upon which the recomputation of such retired pay is based.
+(2) The amount of the retired pay as recomputed under another provision of this section and as increased under paragraph (1) may not exceed the amount equal to 75 percent of themonthly rate of basic pay upon which the recomputation of such retired pay is based.
 
 (3) The determination of the Secretary concerned as to extraordinary heroism is conclusive for all purposes.
 
@@ -124,7 +124,7 @@ Subsec. (e). Pub. L. 90–207, §2(a)(2)(B), added subsec. (e).
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–181, div. A, title VI, §646(c), Jan. 28, 2008, 122 Stat. 160, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 6333 of this title\] shall take effect as of January 1, 2007, and shall apply with respect to retired pay and retainer pay payable on or after that date.”
+Pub. L. 110–181, div. A, title VI, §646(c), Jan. 28, 2008, 122 Stat. 160, provided that: “The amendments made bysubsections (a) and (b) \[amending this section and section 6333 of this title\] shall take effect as of January 1, 2007, and shall apply with respect to retired pay and retainer pay payable on or after that date.”
 
 #### Effective Date of 1983 Amendment
 
@@ -166,7 +166,7 @@ Pub. L. 98–525, title VI, §655, Oct. 19, 1984, 98 Stat. 2552, provided that:
 
 “(b) The retired or retainer pay of a member of the Armed Forces described in subsection (a) shall be the amount determined under section 1402(a) of title 10, United States Code (as modified with respect to such member by subsection (a)), and increased by the amount by which the member's retired or retainer pay would have been increased during the period beginning on the date of the member's release from active duty referred to in subsection (a)(4) and ending on the day before the day on which this section becomes effective had subsection (a) applied in the case of the member at the time of that release from active duty.
 
-“(c) This section shall apply only with respect to retired pay and retainer pay payable for months beginning after September 30, 1984, or on or after the date ofthe enactment of this Act \[Oct. 19, 1984\], whichever is later.”
+“(c) This section shall apply only with respect to retired pay and retainer pay payable for months beginning after September 30, 1984, or on or after the date of the enactment of this Act \[Oct. 19, 1984\], whichever is later.”
 
 #### Retired Pay and Retainer Pay; Prohibition Against Recomputation Under 1963 Pay Rates; Exceptions; Increments Based on the Greater of a 5 Percent Increase or Recomputation Under 1958 Pay Rates for Members Retired Prior to October 1949 for Reasons Other Than Physical Disability, Members Receiving Retired Pay Under Career Compensation Act of 1949 and Former Chiefs of Staff; Additional 5 Percent Increase for Other Retired Members; Exclusion From Increase of Officers Retired Under Certain Provisions
 

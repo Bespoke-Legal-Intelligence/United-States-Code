@@ -156,7 +156,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(i) Where the authority providing the subsidy, or the legislation pursuant to which the authority operates, expressly limits access to the subsidy to an enterprise or industry, the subsidy is specific as a matter of law.
 
-&emsp;&emsp;&emsp;(ii) Where the authority providing the subsidy, or the legislation pursuant towhich the authority operates, establishes objective criteria or conditions governing the eligibility for, and the amount of, a subsidy, the subsidy is not specific as a matter of law, if—
+&emsp;&emsp;&emsp;(ii) Where the authority providing the subsidy, or the legislation pursuant to which the authority operates, establishes objective criteria or conditions governing the eligibility for, and the amount of, a subsidy, the subsidy is not specific as a matter of law, if—
 
 &emsp;&emsp;&emsp;&emsp;(I) eligibility is automatic,
 
@@ -286,7 +286,7 @@ For purposes of this subtitle—
 
 #### (i) General rule
 
-&emsp;&emsp;&emsp;If a subsidy is provided pursuant to a program that has been notified in accordance with Article 8.3 of the SubsidiesAgreement, the subsidy shall be treated as noncountervailable and shall not be subject to investigation or review under this subtitle.
+&emsp;&emsp;&emsp;If a subsidy is provided pursuant to a program that has been notified in accordance with Article 8.3 of the Subsidies Agreement, the subsidy shall be treated as noncountervailable and shall not be subject to investigation or review under this subtitle.
 
 #### (ii) Exception
 
@@ -304,7 +304,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;(i) Subparagraphs (B), (C), (D), and (E) shall not apply on or after the first day of the month that is 66 months after the WTO Agreement enters into force, unless the provisions of such subparagraphs are extended pursuant to section 3572(c) of this title.
 
-&emsp;&emsp;(ii) Subparagraph (F) shall not apply to imports from a WTO member country at the end of the 9-year period beginning on January 1, 1995. The Trade Representative shall determine the precise termination date for each WTO member country in accordance with paragraph (i) of Article 1 of the Agreement on Agriculture and such date shall be notified to the administering authority.
+&emsp;&emsp;(ii) Subparagraph (F) shall not apply to imports from a WTO member country at theend of the 9-year period beginning on January 1, 1995. The Trade Representative shall determine the precise termination date for each WTO member country in accordance with paragraph (i) of Article 1 of the Agreement on Agriculture and such date shall be notified to the administering authority.
 
 #### (6) Net countervailable subsidy
 
@@ -364,7 +364,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;&emsp;(III) actual and potential negative effects on cash flow, inventories, employment, wages, growth, ability to raise capital, and investment,
 
-&emsp;&emsp;&emsp;&emsp;(IV) actual and potential negative effects on the existing development andproduction efforts of the domestic industry, including efforts to develop a derivative or more advanced version of the domestic like product, and
+&emsp;&emsp;&emsp;&emsp;(IV) actual and potential negative effects on the existing development and production efforts of the domestic industry, including efforts to develop a derivative or more advanced version of the domestic like product, and
 
 &emsp;&emsp;&emsp;&emsp;(V) in a proceeding under part II of this subtitle, the magnitude of the margin of dumping.
 
@@ -478,7 +478,7 @@ For purposes of this subtitle—
 
 #### (H) Cumulation for determining threat of material injury
 
-&emsp;&emsp;To the extent practicable and subject to subparagraph (G)(ii), for purposes of clause\(i)(III) and (IV) of subparagraph (F), the Commission may cumulatively assess the volume and price effects of imports of the subject merchandise from all countries with respect to which—
+&emsp;&emsp;To the extent practicable and subject to subparagraph (G)(ii), for purposes of clause (i)(III) and (IV) of subparagraph (F), the Commission may cumulatively assess the volume and price effects of imports of the subject merchandise from all countries with respect to which—
 
 &emsp;&emsp;&emsp;(i) petitions were filed under section 1671a(b) or 1673a(b) of this title on the same day,
 
@@ -710,7 +710,7 @@ For purposes of this subtitle—
 
 #### (D) Regional industries
 
-&emsp;&emsp;In an investigation in which the Commission makes a regional industry determination under paragraph (4)(C), the Commission's examination under subparagraphs (A) and (B) shall be based upon the volume of subject merchandise exported for sale in the regional market in lieu of the volume of allsubject merchandise imported into the United States.
+&emsp;&emsp;In an investigation in which the Commission makes a regional industry determination under paragraph (4)(C), the Commission's examination under subparagraphs (A) and (B) shall be based upon the volume of subject merchandise exported for sale in the regional market in lieu of the volume of all subject merchandise imported into the United States.
 
 #### (25) Subject merchandise
 
@@ -876,7 +876,7 @@ Par. (7)(C)(v). Pub. L. 103–465, §222(d)(1), struck out heading and text of c
 
 &emsp;“(III) the domestic market for the like product is price sensitive by reason of the nature of the product, so that a small quantity of imports can result in price suppression or depression.
 
-> For purposes of this clause, the Commission may treat as negligible and having no discernable adverse impact on the domestic industry imports that are the product of any country that is a party to a free trade area agreement with the United States which entered into force and effect before January 1, 1987, if the Commission determines that the domestic industry is not being materially injured by reason of such imports.”
+> For purposes of this clause, the Commission may treat as negligible and having no discernable adverse impact on the domestic industry imports that are the productof any country that is a party to a free trade area agreement with the United States which entered into force and effect before January 1, 1987, if the Commission determines that the domestic industry is not being materially injured by reason of such imports.”
 
 Par. (7)(E)(i). Pub. L. 103–465, §266, amended heading and text of cl. (i) generally. Prior to amendment, text read as follows: “In determining whether there is a threat of material injury, the Commission shall consider such information as may be presented to it by the administering authority as to the nature of the subsidy (particularly as to whether the subsidy is an export subsidy inconsistent with the Agreement) provided by a foreign country and the effects likely to be caused by the subsidy.”
 
@@ -956,7 +956,7 @@ Par. (5). Pub. L. 100–418, §1312, amended par. (5) generally. Prior to amendm
 
 &emsp;“(A) Any export subsidy described in Annex A to the Agreement (relating to illustrative list of export subsidies).
 
-&emsp;“(B) The following domestic subsidies, if provided or required by government action to a specific enterprise or industry, or group of enterprises or industries, whether publicly or privately owned, and whether paid or bestowed directly or indirectly on the manufacture, production, or export of any class or kind of merchandise:
+&emsp;“(B) The following domestic subsidies, if provided or required by government action to a specific enterprise or industry, or group of enterprises or industries, whether publicly or privately owned, andwhether paid or bestowed directly or indirectly on the manufacture, production, or export of any class or kind of merchandise:
 
 &emsp;&emsp;“(i) The provision of capital, loans, or loan guarantees on terms inconsistent with commercial considerations.
 
@@ -1046,7 +1046,7 @@ Amendment by section 1335 of Pub. L. 100–418 applicable with respect to entrie
 
 #### Effective and Termination Dates of 1984 Amendment
 
-Amendment by Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under section 1675 of this title, on or after Oct. 30, 1984; but provisions of this subtitle not to be interpreted to prevent refiling of a petition under section 1671a or 1673a of this title that was filed before Oct. 30, 1984, if the purpose of refiling was to avail petitioner of amendment of par. (4)(A) of this section by Pub. L. 98–573, and such amendment of par. (4)(A) inapplicable to petitions filed (or refiled) under section 1671a or 1673a of this title after Sept. 30, 1986, see section 626(b)(1), (c)(1), (2) of Pub. L. 98–573, as amended, set out as an Effective Date of 1984 Amendment note under section 1671 of this title.
+Amendment by Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under section 1675 of this title, onor after Oct. 30, 1984; but provisions of this subtitle not to be interpreted to prevent refiling of a petition under section 1671a or 1673a of this title that was filed before Oct. 30, 1984, if the purpose of refiling was to avail petitioner of amendment of par. (4)(A) of this section by Pub. L. 98–573, and such amendment of par. (4)(A) inapplicable to petitions filed (or refiled) under section 1671a or 1673a of this title after Sept. 30, 1986, see section 626(b)(1), (c)(1), (2) of Pub. L. 98–573, as amended, set out as an Effective Date of 1984 Amendment note under section 1671 of this title.
 
 #### Effective Date
 

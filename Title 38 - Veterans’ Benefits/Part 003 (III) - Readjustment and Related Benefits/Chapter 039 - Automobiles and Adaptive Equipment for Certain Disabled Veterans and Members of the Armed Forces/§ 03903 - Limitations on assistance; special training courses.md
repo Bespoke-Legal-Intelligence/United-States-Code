@@ -12,7 +12,7 @@
 
 (e)(1) The Secretary shall provide, directly or by contract, for the conduct of special driver training courses at every hospital and, where appropriate, at regional offices and other medical facilities, of the Department to instruct such eligible person to operate the type of automobile or other conveyance such person wishes to obtain with assistance under this chapter, and may make such courses available to any veteran, eligible for care under chapter 17 of this title or member of the Armed Forces, who is determined by the Secretary to need the special training provided in such courses even though such veteran or member is not eligible for the assistance provided under this chapter.
 
-(2) The Secretary is authorized to obtain insurance on automobiles and other conveyances used in conducting the special driver training courses provided under this subsection and to obtain, at Government expense, personal liability and property damage insurance for all persons taking such courses without regard to whether such persons are taking the course on an in-patient or out-patient basis.
+(2) The Secretary is authorized to obtain insurance on automobiles and other conveyancesused in conducting the special driver training courses provided under this subsection and to obtain, at Government expense, personal liability and property damage insurance for all persons taking such courses without regard to whether such persons are taking the course on an in-patient or out-patient basis.
 
 (3) Notwithstanding any other provision of law, the Secretary may obtain, by purchase, lease, gift, or otherwise, any automobile, motor vehicle, or other conveyance deemed necessary to carry out the purposes of this subsection, and may sell, assign, transfer, or convey any such automobile, vehicle, or conveyance to which the Department obtains title for such price and upon such terms as the Secretary deems appropriate; and any proceeds received from any such disposition shall be credited to the applicable Department appropriation.
 
@@ -48,7 +48,7 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 1981—Subsec. (b). Pub. L. 97–66 substituted “the Administrator shall prescribe” for “he shall prescribe” and “such person's” for “his” in two places.
 
-1976—Subsec. (e)(1). Pub. L. 94–581, §108(1), substituted “any veteran, eligible for care under chapter 17 of this title or member of the Armed Forces, who is determined” for “any veteran or member of the ArmedForces, eligible for care under chapter 17 of this title, who is determined”.
+1976—Subsec. (e)(1). Pub. L. 94–581, §108(1), substituted “any veteran, eligible for care under chapter 17 of this title or member of the Armed Forces, who is determined” for “any veteran or member of the Armed Forces, eligible for care under chapter 17 of this title, who is determined”.
 
 Subsec. (e)(3). Pub. L. 94–581, §108(2), added par. (3).
 

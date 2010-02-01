@@ -40,11 +40,11 @@ The Secretary of Energy shall, within ninety days after March 10, 1978, establis
 
 #### (d) Activities not prohibited, precluded, or limited
 
-Nothing in this section is intended to prohibit, permanently or unconditionally, the reprocessing of spent fuel owned by a foreign nation which fuel has been supplied by the United States, to preclude the United States from fullparticipation in the International Nuclear Fuel Cycle Evaluation provided for in section 3224 of title 22; to in any way limit the presentation or consideration in that evaluation of any nuclear fuel cycle by the United States or any other participation; nor to prejudice open and objective consideration of the results of the evaluation.
+Nothing in this section is intended to prohibit, permanently or unconditionally, the reprocessing of spent fuel owned by a foreign nation which fuel has been supplied by the United States, to preclude the United States from full participation in the International Nuclear Fuel Cycle Evaluation provided for in section 3224 of title 22; to in any way limit the presentation or consideration in that evaluation of any nuclear fuel cycle by the United States or any other participation; nor to prejudice open and objective consideration of the results of the evaluation.
 
 #### (e) Jurisdiction of Secretary of Energy
 
-Notwithstanding section 7172(d) of this title, the Secretary of Energy, and not the Federal Energy Regulatory Commission, shall have sole jurisdiction within the Department of Energy over any matter arising from any function of the Secretary of Energy in this section.
+Notwithstanding section 7172(d) of this title, the Secretary of Energy, and not the FederalEnergy Regulatory Commission, shall have sole jurisdiction within the Department of Energy over any matter arising from any function of the Secretary of Energy in this section.
 
 #### (f) Subsequent arrangements involving direct or indirect commitment of United States for storage or other disposition of foreign spent nuclear fuel in United States
 

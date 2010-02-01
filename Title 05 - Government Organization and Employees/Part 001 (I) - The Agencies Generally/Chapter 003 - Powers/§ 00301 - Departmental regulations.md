@@ -110,7 +110,7 @@ Types of support.—Support described in paragraph (1) includes—
 
 &emsp;&emsp;“(D) providing personnel services and logistical support for a youth organization.”
 
-Pub. L. 109–148, div. A, title VIII, §8126(b), Dec. 30, 2005, 119 Stat. 2728, which contained provisions substantially similar to those in Pub. L. 109–163, §1058(a), (b),set out above, was repealed by Pub. L. 109–364, div. A, title X, §1071(f)(3), Oct. 17, 2006, 120 Stat. 2402.
+Pub. L. 109–148, div. A, title VIII, §8126(b), Dec. 30, 2005, 119 Stat. 2728, which contained provisions substantially similar to those in Pub. L. 109–163, §1058(a), (b), set out above, was repealed by Pub. L. 109–364, div. A, title X, §1071(f)(3), Oct. 17, 2006, 120 Stat. 2402.
 
 #### Minimum Standards for Birth Certificates
 
@@ -242,5 +242,5 @@ Pub. L. 104–208, div. C, title VI, §656, Sept. 30, 1996, 110 Stat. 3009–716
 
 #### Equal Opportunity in Federal Employment
 
-Establishment of equal employment opportunity programs by heads of Executive departments and agencies,see Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319 and Ex. Ord. No. 11478, Aug. 8, 1969, 34 F.R. 12985, set out as notes under section 2000e of Title 42, The Public Health and Welfare.
+Establishment of equal employment opportunity programs by heads of Executive departments and agencies, see Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319 and Ex. Ord. No. 11478, Aug. 8, 1969, 34 F.R. 12985, set out as notes under section 2000e of Title 42, The Public Health and Welfare.
 

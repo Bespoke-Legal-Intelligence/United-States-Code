@@ -8,7 +8,7 @@
 
 (d) A program of independent living services and assistance for a veteran shall consist of such services described in section 3104(a) of this title as the Secretary determines necessary to enable such veteran to achieve maximum independence in daily living. Such veteran shall have the same rights with respect to an individualized written plan of services and assistance as are afforded veterans under section 3107 of this title.
 
-(e) Programs of independent living services and assistance shall be initiated for no more than 2600 <sup>1</sup> veterans in each fiscal year, and the first priority in the provision of such programsshall be afforded to veterans for whom the reasonable feasibility of achieving a vocational goal is precluded solely as a result of a service-connected disability.
+(e) Programs of independent living services and assistance shall be initiated for no more than 2600 <sup>1</sup> veterans in each fiscal year, and the first priority in the provision of such programs shall be afforded to veterans for whom the reasonable feasibility of achieving a vocational goal is precluded solely as a result of a service-connected disability.
 
 (f) Entities described in this subsection are (1) public or nonprofit agencies or organizations, and (2) for-profit entities in cases in which the Secretary determines that services comparable in effectiveness to services available from such an entity are not available, or cannot be obtained cost-effectively from, public or nonprofit agencies or through facilities of the Veterans Health Administration.
 
@@ -44,7 +44,7 @@ Pub. L. 101–237, §404(2)–(4), redesignated former par. (1) of subsec. (a) a
 
 Subsec. (b). Pub. L. 101–237, §404(1), (3), (5), redesignated former subsec. (a)(2) as (b), struck out before period at end “and who is selected pursuant to criteria provided for in regulations prescribed under paragraph (1) of this subsection” and struck out former subsec. (b) which read as follows: “Not later than February 1, 1989, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives statistical data regarding veterans’ participation in the program conducted under subsection (a) of this section during fiscal years 1987 and 1988 and any recommendations of the Administrator for administrative or legislative action or both regarding the program.”
 
-Subsec. (c). Pub. L. 101–237, §423(b)(1), substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
+Subsec. (c). Pub. L. 101–237, §423(b)(1), substituted “Secretary” and “Department of Veterans Affairs” for“Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
 Pub. L. 101–237, §404(3), (6), redesignated former subsec. (a)(3) as (c) and substituted “subsection (b) of this section” for “paragraph (2) of this subsection”.
 

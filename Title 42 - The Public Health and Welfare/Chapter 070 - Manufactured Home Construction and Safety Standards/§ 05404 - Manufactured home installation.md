@@ -34,7 +34,7 @@ A manufacturer shall provide with each manufactured home, design and instruction
 
 #### (4) Issuance
 
-&emsp;The model manufactured home installation standards shall be issued after notice and an opportunity for public comment in accordance with section 553 of title 5.
+&emsp;The model manufactured home installation standards shall be issued after notice and anopportunity for public comment in accordance with section 553 of title 5.
 
 #### (c) Manufactured home installation programs
 

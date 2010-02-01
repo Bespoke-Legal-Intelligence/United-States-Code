@@ -30,7 +30,7 @@ Funds made available under this chapter for career and technical education activ
 
 A prior section 2391, Pub. L. 88–210, title III, §311, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3121, related to fiscal requirements, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2391, Pub. L. 88–210, title III, §331, formerly §341, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2463; renumbered §331 and amended Pub. L. 101–392, title III, §307(a)(2), (c), Sept. 25, 1990, 104Stat. 787, stated findings of Congress, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2391, Pub. L. 88–210, title III, §331, formerly §341, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2463; renumbered §331 and amended Pub. L. 101–392, title III, §307(a)(2), (c), Sept. 25, 1990, 104 Stat. 787, stated findings of Congress, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 A prior section 311 of Pub. L. 88–210 was classified to section 2361 of this title, prior to the general amendment of this chapter by Pub. L. 105–332.
 

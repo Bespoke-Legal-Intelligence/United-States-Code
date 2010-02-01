@@ -70,5 +70,5 @@ Deadline for Regulations.—Within 30 days after the date of the enactment of th
 
 “(d)
 
-Department of Veterans Affairs Health-Care Professionals.—The Secretary of Veterans Affairsshall establish a program similar to that established under subsection (a) for the benefit of health-care professionals covered under section 7423(e) of title 38, United States Code. Such program shall be as similar and \[as\] practicable to the program established under subsection (a).”
+Department of Veterans Affairs Health-Care Professionals.—The Secretary of Veterans Affairs shall establish a program similar to that established under subsection (a) for the benefit of health-care professionals covered under section 7423(e) of title 38, United States Code. Such program shall be as similar and \[as\] practicable to the program established under subsection (a).”
 

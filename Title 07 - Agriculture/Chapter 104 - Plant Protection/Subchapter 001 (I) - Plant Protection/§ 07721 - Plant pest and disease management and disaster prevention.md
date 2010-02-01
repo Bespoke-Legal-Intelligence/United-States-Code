@@ -42,7 +42,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;A State department of agriculture seeking to enter into a cooperative agreement underthis subsection shall submit to the Secretary an application containing such information as the Secretary may require.
+&emsp;&emsp;A State department of agriculture seeking to enter into a cooperative agreement under this subsection shall submit to the Secretary an application containing such information as the Secretary may require.
 
 #### (B) Notification
 

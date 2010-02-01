@@ -192,7 +192,7 @@
 | :--- | ---: |
 | [2009bb.](Subchapter%20007%20%28VII%29%20-%20Northern%20Great%20Plains%20Regional%20Authority/%C2%A7%2002009bb%20-%20Definitions.md) | Definitions. |
 | 2009bb–1. | Northern Great Plains Regional Authority. |
-| 2009bb–1a. | Interstate cooperation for economic opportunity and efficiency. |
+| 2009bb–1a. | &nbsp;Interstate cooperation for economic opportunity and efficiency. |
 | 2009bb–2. | Economic and community development grants. |
 | 2009bb–3. | Supplements to Federal grant programs. |
 | 2009bb–4. | Multistate and local development districts and organizations and Northern Great Plains Inc. |

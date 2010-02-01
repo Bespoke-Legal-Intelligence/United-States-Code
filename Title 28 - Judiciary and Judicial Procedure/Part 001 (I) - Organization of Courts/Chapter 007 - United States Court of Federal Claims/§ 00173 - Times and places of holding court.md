@@ -6,7 +6,7 @@ The principal office of the United States Court of Federal Claims shall be in th
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §241 (Mar. 3, 1911, ch. 231, §136, 36 Stat. 1135; Feb. 25, 1919, ch. 29, §4, 40 Stat. 1157; Dec. 13, 1926, ch. 6, §1, 44 Stat. 919; July 31, 1946, ch. 704, §1, 60 Stat. 716).
+Based on title 28, U.S.C., 1940 ed., §241 (Mar. 3, 1911, ch. 231, §136, 36 Stat. 1135; Feb. 25, 1919, ch. 29, §4, 40Stat. 1157; Dec. 13, 1926, ch. 6, §1, 44 Stat. 919; July 31, 1946, ch. 704, §1, 60 Stat. 716).
 
 This section is based on part of section 241 of title 28, U.S.C., 1940 ed. That portion relating to number, appointment of judges and their oaths, is incorporated in sections 171 and 453 of this title.
 

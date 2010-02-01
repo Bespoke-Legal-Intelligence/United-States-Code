@@ -22,7 +22,7 @@ Applications and Selection.—A State wishing to participate in the program must
 
 Safety and Security Needs and Needs of System.—Before deciding whether a planning process is satisfactory or a programming process is acceptable under subsection (b)(2) or (b)(3) of this section, the Secretary shall ensure that the process provides for meeting critical safety and security needs and that the programming process ensures that the needs of the national airport system will be addressed in deciding which projects will receive money from the Government. In carrying out this subsection, the Secretary shall permit a State to use the priority system of the State if such system is not inconsistent with the national priority system.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1277; Pub. L. 103–429, §6(70), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §147(a)–(c)(1), Oct. 9, 1996, 110 Stat. 3223; Pub. L. 104–287, §5(84), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(d)(1)(E), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title I, §138, Apr. 5, 2000, 114 Stat. 85.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1277; Pub. L. 103–429, §6(70), Oct. 31, 1994, 108 Stat.4387; Pub. L. 104–264, title I, §147(a)–(c)(1), Oct. 9, 1996, 110 Stat. 3223; Pub. L. 104–287, §5(84), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(d)(1)(E), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title I, §138, Apr. 5, 2000, 114 Stat. 85.)
 
 Historical and Revision Notes
 

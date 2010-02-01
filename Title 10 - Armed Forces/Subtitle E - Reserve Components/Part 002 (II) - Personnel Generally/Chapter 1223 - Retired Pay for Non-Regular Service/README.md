@@ -14,11 +14,13 @@
 | [12738\.](%C2%A7%2012738%20-%20Limitations%20on%20revocation%20of%20retired%20pay.md) | Limitations on revocation of retired pay. |
 | [12739\.](%C2%A7%2012739%20-%20Computation%20of%20retired%20pay.md) | Computation of retired pay. |
 | [12740\.](%C2%A7%2012740%20-%20Eligibility%20denial%20upon%20certain%20punitive%20discharges%20or%20dismissals.md) | Eligibility: denial upon certain punitive discharges or dismissals. |
-| [12741\.](%C2%A7%2012741%20-%20Retirement%20from%20active%20reserve%20service%20performed%20after%20regular%20retirement.md) | Retirement from active reserve service performed after regular retirement. |
+| [12741\.](%C2%A7%2012741%20-%20Retirement%20for%20service%20in%20an%20active%20status%20performed%20in%20the%20Selected%20Reserve%20of%20the%20Ready%20Reserve%20after%20eligibility%20for%20regular%20retirement.md) | Retirement for service in an active status performed in the Selected Reserve of the Ready Reserve after eligibility for regular retirement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. A, title VI, §643(e)(2), Oct. 28, 2009, 123 Stat. 2367, substituted “Retirement for service in an active status performed in the Selected Reserve of the Ready Reserve after eligibility for regular retirement” for “Retirement from active reserve service performed after regular retirement” in item 12741.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title VI, §653(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, added item 12741.
 
@@ -49,4 +51,4 @@
 - [&sect; 12738 - Limitations on revocation of retired pay](%C2%A7%2012738%20-%20Limitations%20on%20revocation%20of%20retired%20pay.md)
 - [&sect; 12739 - Computation of retired pay](%C2%A7%2012739%20-%20Computation%20of%20retired%20pay.md)
 - [&sect; 12740 - Eligibility denial upon certain punitive discharges or dismissals](%C2%A7%2012740%20-%20Eligibility%20denial%20upon%20certain%20punitive%20discharges%20or%20dismissals.md)
-- [&sect; 12741 - Retirement from active reserve service performed after regular retirement](%C2%A7%2012741%20-%20Retirement%20from%20active%20reserve%20service%20performed%20after%20regular%20retirement.md)
+- [&sect; 12741 - Retirement for service in an active status performed in the Selected Reserve of the Ready Reserve after eligibility for regular retirement](%C2%A7%2012741%20-%20Retirement%20for%20service%20in%20an%20active%20status%20performed%20in%20the%20Selected%20Reserve%20of%20the%20Ready%20Reserve%20after%20eligibility%20for%20regular%20retirement.md)

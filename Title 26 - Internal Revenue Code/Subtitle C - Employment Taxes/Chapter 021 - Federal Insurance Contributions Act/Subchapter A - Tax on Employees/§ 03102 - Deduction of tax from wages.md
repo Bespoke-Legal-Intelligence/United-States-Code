@@ -18,7 +18,7 @@ Every employer required so to deduct the tax shall be liable for the payment of 
 
 &emsp;(A) to estimate the amount of tips that will be reported by the employee pursuant to section 6053(a) in any calendar year,
 
-&emsp;(B) to determine the amount to be deducted upon each payment of wages (exclusive of tips)during such year as if the tips so estimated constituted the actual tips so reported, and
+&emsp;(B) to determine the amount to be deducted upon each payment of wages (exclusive of tips) during such year as if the tips so estimated constituted the actual tips so reported, and
 
 &emsp;(C) to deduct upon any payment of wages (other than tips, but including funds turned over by the employee to the employer pursuant to paragraph (2)) to such employee during such year (and within 30 days thereafter) such amount as may be necessary to adjust the amount actually deducted upon such wages of the employee during the year to the amount required to be deducted in respect of tips included in written statements furnished to the employer during the year.
 

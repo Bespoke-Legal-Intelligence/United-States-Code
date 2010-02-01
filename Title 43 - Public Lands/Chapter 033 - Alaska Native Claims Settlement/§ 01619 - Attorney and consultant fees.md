@@ -2,7 +2,7 @@
 
 #### (a) Holding moneys in Fund for authorized payments
 
-The Secretary of the Treasury shall hold in the Alaska Native Fund, from the appropriationmade pursuant to section 1605 of this title for the second fiscal year, moneys sufficient to make the payments authorized by this section.
+The Secretary of the Treasury shall hold in the Alaska Native Fund, from the appropriation made pursuant to section 1605 of this title for the second fiscal year, moneys sufficient to make the payments authorized by this section.
 
 #### (b) Claims; submission
 
@@ -30,7 +30,7 @@ The Chief Commissioner or his delegate is authorized to receive, determine, and 
 
 (5) Upon the filing of a claim, the clerk of the Court of Claims shall forward a copy of such claims to the individuals or entities on whose behalf services were rendered or fees and expenses were allegedly incurred, as shown by the pleadings, to the Attorney General of the United States, to the Attorney General of the State of Alaska, to the Secretary of the Interior, and to any other person who appears to have an interest in the claim, and shall give such persons ninety days within which to file an answer contesting the claim.
 
-(6) The Chief Commissioner may designate a trial commissioner for any claim made under this section and a panel of three commissioners of the court to serve as a reviewing body. One member of the review panel shall be designated as presiding commissioner of the panel.
+(6) The Chief Commissioner may designate a trial commissioner for any claim made underthis section and a panel of three commissioners of the court to serve as a reviewing body. One member of the review panel shall be designated as presiding commissioner of the panel.
 
 (7) Proceedings in all claims shall be pursuant to rules and orders prescribed for the purpose by the Chief Commissioner who is hereby authorized and directed to require the application of the pertinent rules of practice of the Court of Claims insofar as feasible. Claimants may appear before a trial commissioner in person or by attorney, and may produce evidence and examine witnesses. In the discretion of the Chief Commissioner or his designate, hearings may be held in the localities where the claimants reside if convenience so demands.
 
@@ -46,7 +46,7 @@ The Chief Commissioner shall certify to the Secretary of the Treasury, and repor
 
 #### (f) Contract restriction; penalty
 
-(1) No remuneration on account of any services or expenses for which a claim is made orcould be made pursuant to this section shall be received by any person for such services and expenses in addition to the amount paid in accordance with this section, and any contract or agreement to the contrary shall be void.
+(1) No remuneration on account of any services or expenses for which a claim is made or could be made pursuant to this section shall be received by any person for such services and expenses in addition to the amount paid in accordance with this section, and any contract or agreement to the contrary shall be void.
 
 (2) Any person who receives, and any corporation or association official who pays, on account of such services and expenses, any remuneration in addition to the amount allowed in accordance with this section shall be guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $5,000, or imprisoned not more than twelve months, or both.
 

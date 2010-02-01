@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(viii) assist Head Start agencies in developing innovative program models, including mobile and home-based programs;
 
-&emsp;&emsp;&emsp;(ix) provide support for Head Start agencies (including policy councils and policycommittees) that meet the standards described in section 9836a(a) of this title but that have, as documented by the Secretary through reviews conducted pursuant to section 9836a(c) of this title, programmatic, quality, and fiscal issues to address;
+&emsp;&emsp;&emsp;(ix) provide support for Head Start agencies (including policy councils and policy committees) that meet the standards described in section 9836a(a) of this title but that have, as documented by the Secretary through reviews conducted pursuant to section 9836a(c) of this title, programmatic, quality, and fiscal issues to address;
 
 &emsp;&emsp;&emsp;(x) assist Head Start agencies and programs in improving outreach to, increasing program participation of, and improving the quality of services available to meet the unique needs of—
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;(xiv) provide activities that help ensure that Head Start programs have qualified staff who can promote prevention of childhood obesity by integrating developmentally appropriate research-based initiatives that stress the importance of physical activity and healthy, nutritional choices in daily classroom and family routines;
 
-&emsp;&emsp;&emsp;(xv) assist Indian Head Start agencies to provide on-site and off-site training to staff, using approaches that identify and enhance the positive resources and strengths of Indian children and families, to improve parent and family engagement and staff development, particularly with regard to child and family development; and
+&emsp;&emsp;&emsp;(xv) assist Indian Head Start agencies to provide on-site and off-site training tostaff, using approaches that identify and enhance the positive resources and strengths of Indian children and families, to improve parent and family engagement and staff development, particularly with regard to child and family development; and
 
 &emsp;&emsp;&emsp;(xvi) assisting Head Start agencies in selecting and using the measures described in section 9836a(b) of this title.
 
@@ -118,7 +118,7 @@ Funds made available under section 9835(a)(2)(C)(i)(II)(aa) of this title shall 
 
 &emsp;&emsp;(B) Activities that ensure that Head Start programs have adequate numbers of trained, qualified staff who have skills in working with children and families, including children and families who are limited English proficient and children with disabilities and their families.
 
-&emsp;&emsp;(C) Activities to improve the management and implementation of Head Start servicesand systems, including direct training for expert consultants working with staff.
+&emsp;&emsp;(C) Activities to improve the management and implementation of Head Start services and systems, including direct training for expert consultants working with staff.
 
 &emsp;&emsp;(D) Activities that help ensure that Head Start programs have qualified staff who can promote language skills and literacy growth of children and who can provide children with a variety of skills that have been identified as predictive of later reading achievement, school success, and the skills, knowledge, abilities, development, and progress described in section 9836a(a)(1)(B)(ii) of this title.
 
@@ -136,7 +136,7 @@ Funds made available under section 9835(a)(2)(C)(i)(II)(aa) of this title shall 
 
 &emsp;&emsp;(A) all of the agency's Head Start teachers receive ongoing training in language and emergent literacy (referred to in this subsection as “literacy training”), including appropriate curricula and assessment to improve instruction and learning;
 
-&emsp;&emsp;(B) such literacy training shall include training in methods to promote vocabulary development and phonological awareness (including phonemic awareness) in a developmentally, culturally, and linguistically appropriate manner and support children's development in their native language;
+&emsp;&emsp;(B) such literacy training shall include training in methods to promote vocabulary development and phonological awareness (including phonemic awareness) in a developmentally, culturally, and linguisticallyappropriate manner and support children's development in their native language;
 
 &emsp;&emsp;(C) the literacy training shall include training in how to work with parents to enhance positive language and early literacy development at home;
 
@@ -162,7 +162,7 @@ For the purposes of delivering a State-based training and technical assistance s
 
 &emsp;&emsp;(C) the State Head Start Association;
 
-&emsp;(3) encourage States to supplement the funds authorized in section 9835(a)(2)(C)(i)(II)(bb) of this title with Federal, State, or local funds other than funds made available under this subchapter, to expand training and technical assistance activities beyond Head Start agencies to include other providers of other earlychildhood education and development programs within a State;
+&emsp;(3) encourage States to supplement the funds authorized in section 9835(a)(2)(C)(i)(II)(bb) of this title with Federal, State, or local funds other than funds made available under this subchapter, to expand training and technical assistance activities beyond Head Start agencies to include other providers of other early childhood education and development programs within a State;
 
 &emsp;(4) provide a report to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, not later than 90 days after the end of the fiscal year, summarizing the funding for such contracts and the activities carried out thereunder;
 
@@ -188,7 +188,7 @@ The Secretary shall consult with appropriate Federal agencies and other experts,
 
 &emsp;&emsp;&emsp;(i) in the case of historically Black colleges and universities, to help Head Start Agency staff members develop skills and expertise needed to teach in programs serving large numbers of African American children;
 
-&emsp;&emsp;&emsp;(ii) in the case of Hispanic-serving institutions, programs to help Head Start Agency staff members develop skills and expertise needed to teach in programs serving large numbers of Hispanic children, including programs to develop the linguistic skills and expertise needed to teach in programs serving a large number of children with limited English proficiency; and
+&emsp;&emsp;&emsp;(ii) in the case of Hispanic-serving institutions, programs to help Head Start Agency staff members develop skills and expertise needed to teach in programs serving large numbers of Hispanic children, including programs to develop the linguistic skills and expertise needed to teach in programs serving a large numberof children with limited English proficiency; and
 
 &emsp;&emsp;&emsp;(iii) in the case of Tribal Colleges and Universities, to help Head Start Agency staff members develop skills and expertise needed to teach in programs serving large numbers of Indian children, including programs concerning tribal culture and language;
 

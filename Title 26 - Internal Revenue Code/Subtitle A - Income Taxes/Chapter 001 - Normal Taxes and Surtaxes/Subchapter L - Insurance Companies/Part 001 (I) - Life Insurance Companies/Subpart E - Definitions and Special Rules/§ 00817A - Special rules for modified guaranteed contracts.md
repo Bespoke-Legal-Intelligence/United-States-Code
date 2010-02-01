@@ -110,7 +110,7 @@ Limitation on deduction for increase in reserves.—
 
 &emsp;&emsp;“(i)
 
-In general.—The deduction allowed for the first taxable year of the taxpayer beginning after December 31, 1995, by reason of the application of section 481 of such Code with respect to section 817A(a) of such Code (as added by this section) shall not exceed the aggregate built-in gain recognized by reason of the application of such section 481 with respect to section 817A(b) of such Code (as added by this section) for such first taxable year.
+In general.—The deduction allowed for the first taxable year of the taxpayer beginning after December 31, 1995, by reason of the application of section 481 of such Code with respect to section 817A(a) of such Code (as added by this section) shallnot exceed the aggregate built-in gain recognized by reason of the application of such section 481 with respect to section 817A(b) of such Code (as added by this section) for such first taxable year.
 
 &emsp;&emsp;“(ii)
 

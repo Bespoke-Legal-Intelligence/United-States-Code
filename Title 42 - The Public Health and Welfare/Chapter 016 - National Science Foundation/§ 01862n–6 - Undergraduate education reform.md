@@ -20,7 +20,7 @@ Activities supported by grants under this section may include—
 
 &emsp;(6) improvement of undergraduate science, mathematics, engineering, and technology education for nonmajors, including education majors; and
 
-&emsp;(7) implementation of technology-driven reform efforts, including the installation of technology to facilitate such reform, that directly impact undergraduate science, mathematics, engineering, or technology instruction or research experiences.
+&emsp;(7) implementation of technology-driven reform efforts, including the installation oftechnology to facilitate such reform, that directly impact undergraduate science, mathematics, engineering, or technology instruction or research experiences.
 
 #### (c) Selection process
 

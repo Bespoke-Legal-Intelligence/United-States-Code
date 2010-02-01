@@ -34,7 +34,7 @@ In General.—The following definitions apply in this title:
 
 &emsp;&emsp;(C) the Secretary of the Air Force, with respect to matters concerning the Air Force; and
 
-&emsp;&emsp;(D) the Secretary of Homeland Security, with respect to matters concerning the Coast Guard when it is not operating as a service in the Department of the Navy.
+&emsp;&emsp;(D) the Secretary of Homeland Security, with respect to matters concerning theCoast Guard when it is not operating as a service in the Department of the Navy.
 
 &emsp;(10) The term “service acquisition executive” means the civilian official within a military department who is designated as the service acquisition executive for purposes of regulations and procedures providing for a service acquisition executive for that military department.
 
@@ -106,7 +106,7 @@ Personnel Generally.—The following definitions relating to military personnel 
 
 &emsp;(14) The term “medical officer” means an officer of the Medical Corps of the Army, an officer of the Medical Corps of the Navy, or an officer in the Air Force designated as a medical officer.
 
-&emsp;(15) The term “dental officer” means an officer of the Dental Corps of the Army, an officer of the Dental Corps of the Navy, or an officer of the Air Force designated as a dental officer.
+&emsp;(15) The term “dental officer” means an officer of the Dental Corps of the Army, an officerof the Dental Corps of the Navy, or an officer of the Air Force designated as a dental officer.
 
 &emsp;(16) The term “Active Guard and Reserve” means a member of a reserve component who is on active duty pursuant to section 12301(d) of this title or, if a member of the Army National Guard or Air National Guard, is on full-time National Guard duty pursuant to section 502(f) of title 32, and who is performing Active Guard and Reserve duty.
 
@@ -248,7 +248,7 @@ Rules of Construction.—In this title—
 
 &emsp;(2) “may” is used in a permissive sense;
 
-&emsp;(3) “no person may \* \* \*” means that no person is required, authorized, or permitted to do the act prescribed;
+&emsp;(3) “no person may ” means that no person is required, authorized, or permitted to do the act prescribed;
 
 &emsp;(4) “includes” means “includes but is not limited to”; and
 
@@ -678,6 +678,10 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 Section 33(g) of Pub. L. 85–861 provided that: “This section \[see Tables for classification\] is effective as of August 10, 1956, for all purposes.”
 
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–23, §1(a), May 22, 2009, 123 Stat. 1704, provided that: “This Act \[enacting sections 139c, 139d, 2334, and 2433a of this title, amending sections 139a, 181, 2306b, 2366a, 2366b, 2430, 2433, 2434, 2445c, 2501, and 2505 of this title and section 5315 of Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 139a, 139c, 181, 2302, 2366a, 2366b, 2430, and 2433a of this title, and amending provisions set out as a note under section 2304 of this title\] may be cited as the ‘Weapon Systems Acquisition Reform Act of 2009’.”
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–317, §1(a), Aug. 29, 2008, 122 Stat. 3526, provided that: “This Act \[amending sections 1145, 1146, and 1174 of this title, sections 2108 and 8521 of Title 5, Government Organization and Employees, section 685 of Title 26, Internal Revenue Code, section 303a of Title 37, Pay and Allowances of the Uniformed Services, and sections 3011, 3012, 3702, and 4211 of Title 38, Veterans’ Benefits, and enacting provisions set out as notes under section 2108 of Title 5 and section 685 of Title 26\] may be cited as the ‘Hubbard Act’.”
@@ -712,7 +716,7 @@ Section 1(a) of Pub. L. 96–513 provided that: “This Act \[see Tables for cla
 
 #### Savings Provision
 
-Section 703 of Pub. L. 96–513 provided that: “Except as otherwise provided in this Act, the provisions of this Act and the amendments made by this Act \[see Tables for classification\] do not affect rights and duties that matured, penalties that were incurred, and proceedingsthat were begun before the effective date of this Act \[see Effective Date of 1980 Amendment note above\].”
+Section 703 of Pub. L. 96–513 provided that: “Except as otherwise provided in this Act, the provisions of this Act and the amendments made by this Act \[see Tables for classification\] do not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this Act \[see Effective Date of 1980 Amendment note above\].”
 
 #### Transfer of Functions
 
@@ -758,6 +762,8 @@ Section 1055 of Pub. L. 102–484 provided that: “For purposes of applying the
 
 The following provisions provided that the term “congressional defense committees” for purposes of the Acts in which they were contained has the meaning given that term in subsec. (a)(16) of this section:
 
+Pub. L. 111–84, §3, Oct. 28, 2009, 123 Stat. 2208.
+
 Pub. L. 110–417, §3, Oct. 14, 2008, 122 Stat. 4372.
 
 Pub. L. 110–181, §3, Jan. 28, 2007, 122 Stat. 23.
@@ -771,6 +777,8 @@ Pub. L. 108–375, §3, Oct. 28, 2004, 118 Stat. 1825.
 Pub. L. 109–148, div. A, title VIII, §8028, Dec. 30, 2005, 119 Stat. 2704, provided that for purposes of Pub. L. 109–148 the term “congressional defense committees” means the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives and, for any matter pertaining to basic allowance for housing, facilities sustainment, restoration and modernization, environmental restoration and the Defense Health Program, “congressional defense committees” also means the Subcommittee on Military Quality of Life and Veterans Affairs, and Related Agencies \[subcommittee jurisdiction now in Subcommittee on Military Construction, Veterans Affairs, and Related Agencies and Subcommittee on Defense\] of the Committee on Appropriations of the House of Representatives.
 
 The following provisions defined the term “congressional defense committees” for purposes of the Acts in which they were contained to mean the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives:
+
+Pub. L. 111–118, div. A, title VIII, §8028, Dec. 19, 2009, 123 Stat. 3434.
 
 Pub. L. 110–329, div. C, title VIII, §8028, Sept. 30, 2008, 122 Stat. 3627 (definition applies to div. C only).
 

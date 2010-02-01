@@ -52,7 +52,7 @@ This expansion also creates a need for a growing supply of new management manpow
 
 Sec. 2. <i>Establishment of a National Center for Housing Management</i>. (a) The Secretary of Housing and Urban Development is directed to call upon public-spirited citizens, dedicated and experienced in the appropriate disciplines, to create, in accordance with existing laws, a new, non-governmental, not-for-profit institution to serve as a National Center for Housing Management (referred to herein as the Center).
 
-(b) The Center should be designed to provide objective and independent leadership at the national level in helping meet the Nation's housing management and training needs and should work cooperatively with the Department of Housing and Urban Development and with the public and private organizations and institutions involved in, or affected by, its activities.
+(b) The Center should be designed to provide objective and independent leadership at the national level in helping meet the Nation's housing management and training needs and should work cooperatively with theDepartment of Housing and Urban Development and with the public and private organizations and institutions involved in, or affected by, its activities.
 
 Sec. 3. <i>Activities of the Center</i>. The activities of the Center should be developed along lines that include the following objectives:
 

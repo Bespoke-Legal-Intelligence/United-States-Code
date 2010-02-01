@@ -6,7 +6,7 @@ For purposes of this part—
 
 &emsp;(2) The term “unit of local government” means the government of a county, municipality, or township, which is a unit of general purpose government below the State (determined on the basis of the same principles as are used by the Bureau of the Census for general statistical purposes) and the District of Columbia. Such term also means the recognized governing body of an Indian tribe (as defined in section 6862 of this title) which governing body performs substantial governmental functions.
 
-&emsp;(3) The term “building” has the meaning provided in section 6371 of this title except that for purposes of this part such term includes only buildings which are owned and primarily occupied by offices or agencies of a unit of local government or by a public care institution and does not include any building intended for seasonal use or any building utilized primarily by a school or hospital.
+&emsp;(3) The term “building” has the meaning provided in section 6371 of this title exceptthat for purposes of this part such term includes only buildings which are owned and primarily occupied by offices or agencies of a unit of local government or by a public care institution and does not include any building intended for seasonal use or any building utilized primarily by a school or hospital.
 
 &emsp;(4) The term “public care institution” means a public or nonprofit institution which owns—
 

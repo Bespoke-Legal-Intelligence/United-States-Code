@@ -48,7 +48,7 @@
 
 #### (d) State administration and enforcement
 
-(1) The authority to administer and enforce any measure described in subsection (b)(1)(B) of this section which is in a State plan approved under this section is hereby delegated to the Governor of the State and the other State and local officers and employees designated by the Governor. Such authority includes the authority to institute actions on behalf of the United States for the imposition and collection of civil penalties under subsection (e) of this section.
+(1) The authority to administer and enforce any measure described in subsection (b)(1)(B) of this section which is in a State plan approvedunder this section is hereby delegated to the Governor of the State and the other State and local officers and employees designated by the Governor. Such authority includes the authority to institute actions on behalf of the United States for the imposition and collection of civil penalties under subsection (e) of this section.
 
 (2) All delegation of authority under paragraph (1) with respect to any State shall be considered revoked effective upon a determination by the President that such delegation should be revoked, but only to the extent of that determination.
 

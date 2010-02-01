@@ -6,7 +6,7 @@
 
 (c) A suit, action, or other proceeding lawfully commenced by or against the head of an agency or other officer of the United States, in his official capacity or in relation to the discharge of his official duties, does not abate by reason of the taking effect of a reorganization plan under this chapter. On motion or supplemental petition filed at any time within twelve months after the reorganization plan takes effect, showing a necessity for a survival of the suit, action, or other proceeding to obtain a settlement of the questions involved, the court may allow the suit, action, or other proceeding to be maintained by or against the successor of the head or officer under the reorganization effected by the plan or, if there is no successor, against such agency or officer as the President designates.
 
-(d) The appropriations or portions of appropriations unexpended by reason of the operationof the chapter may not be used for any purpose, but shall revert to the Treasury.
+(d) The appropriations or portions of appropriations unexpended by reason of the operation of the chapter may not be used for any purpose, but shall revert to the Treasury.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 396; Pub. L. 95–17, §2, Apr. 6, 1977, 91 Stat. 32.)
 

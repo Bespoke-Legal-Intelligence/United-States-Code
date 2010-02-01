@@ -2,7 +2,7 @@
 
 #### (a) Imposition of certain charges under plan in case of individuals described in section 1396a(a)(10)(A) or (E)
 
-Subject to subsections (g) and (i) of this section, the State plan shall provide that in the case of individuals described in subparagraph (A) or (E)(i) of section 1396a(a)(10) of this title who are eligible under the plan—
+Subject to subsections (g), (i), and (j) of this section, the State plan shall provide that in the case of individuals described in subparagraph (A) or (E)(i) of section 1396a(a)(10) of this title who are eligible under the plan—
 
 &emsp;(1) no enrollment fee, premium, or similar charge will be imposed under the plan (except for a premium imposed under subsection (c) of this section);
 
@@ -106,13 +106,33 @@ In applying this section and subsections (c) and (e) of section 1396<i>o</i>–1
 
 (3) A State shall not require prepayment of a premium imposed pursuant to paragraph (1) and shall not terminate eligibility of a child under section 1396a(a)(10)(A)(ii)(XIX) of this title for medical assistance under this subchapter on the basis of failure to pay any such premium until such failure continues for a period of at least 60 days from the date on which the premium became past due. The State may waive payment of any such premium in any case where the State determines that requiring such payment would create an undue hardship.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1916, as added Pub. L. 97–248, title I, §131(b), Sept. 3, 1982, 96Stat. 367; amended Pub. L. 97–448, title III, §309(b)(18)–(20), Jan. 12, 1983, 96 Stat. 2409, 2410; Pub. L. 99–272, title IX, §9505(c)(2), Apr. 7, 1986, 100 Stat. 209; Pub. L. 99–509, title IX, §9403(g)(4)(B), Oct. 21, 1986, 100 Stat. 2056; Pub. L. 100–203, title IV, §§4101(d)(1), 4211(h)(11), Dec. 22, 1987, 101 Stat. 1330–142, 1330–207; Pub. L. 100–360, title IV, §411(k)(2), July 1, 1988, 102 Stat. 791; Pub. L. 101–239, title VI, §6408(d)(3), Dec. 19, 1989, 103 Stat. 2269; Pub. L. 105–33, title IV, §4708(b), Aug. 5, 1997, 111 Stat. 506; Pub. L. 106–170, title II, §201(a)(3), Dec. 17, 1999, 113 Stat. 1893; Pub. L. 109–171, title VI, §§6041(b), 6062(b), Feb. 8, 2006, 120 Stat. 84, 98.)
+#### (j) No premiums or cost sharing for Indians furnished items or services directly by Indian health programs or through referral under contract health services
+
+#### (1) No cost sharing for items or services furnished to Indians through Indian health programs
+
+#### (A) In general
+
+&emsp;&emsp;No enrollment fee, premium, or similar charge, and no deduction, copayment, cost sharing, or similar charge shall be imposed against an Indian who is furnished an item or service directly by the Indian Health Service, an Indian Tribe, Tribal Organization, or Urban Indian Organization or through referral under contract health services for which payment may be made under this subchapter.
+
+#### (B) No reduction in amount of payment to Indian health providers
+
+&emsp;&emsp;Payment due under this subchapter to the Indian Health Service, an Indian Tribe, Tribal Organization, or Urban Indian Organization, or a health care provider through referral under contract health services for the furnishing of an item or service to an Indian who is eligible for assistance under such subchapter, may not be reduced by the amount of any enrollment fee, premium, or similar charge, or any deduction, copayment, cost sharing, or similar charge that would be due from the Indian but for the operation of subparagraph (A).
+
+#### (2) Rule of construction
+
+&emsp;Nothing in this subsection shall be construed as restricting the application of any other limitations on the imposition of premiums or cost sharing that may apply to an individual receiving medical assistance under this subchapter who is an Indian.
+
+(Aug. 14, 1935, ch. 531, title XIX, §1916, as added Pub. L. 97–248, title I, §131(b), Sept. 3, 1982, 96 Stat. 367; amended Pub. L. 97–448, title III, §309(b)(18)–(20), Jan. 12, 1983, 96 Stat. 2409, 2410; Pub. L. 99–272, title IX, §9505(c)(2), Apr. 7, 1986, 100 Stat. 209; Pub. L. 99–509, title IX, §9403(g)(4)(B), Oct. 21, 1986, 100 Stat. 2056; Pub. L. 100–203, title IV, §§4101(d)(1), 4211(h)(11), Dec. 22, 1987, 101 Stat. 1330–142, 1330–207; Pub. L. 100–360, title IV, §411(k)(2), July 1, 1988, 102 Stat. 791; Pub. L. 101–239, title VI, §6408(d)(3), Dec. 19, 1989, 103 Stat. 2269; Pub. L. 105–33, title IV, §4708(b), Aug. 5, 1997, 111 Stat. 506; Pub. L. 106–170, title II, §201(a)(3), Dec. 17, 1999, 113 Stat. 1893; Pub. L. 109–171, title VI, §§6041(b), 6062(b), Feb. 8, 2006, 120 Stat. 84, 98; Pub. L. 111–5, div. B, title V, §5006(a)(1), Feb. 17, 2009, 123 Stat. 505.)
 
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (g)(2), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–5, §5006(a)(1)(A), substituted “, (i), and (j)” for “and (i)” in introductory provisions.
+
+Subsec. (j). Pub. L. 111–5, §5006(a)(1)(B), added subsec. (j).
 
 2006—Subsec. (a). Pub. L. 109–171, §6062(b)(1), substituted “subsections (g) and (i)” for “subsection (g)” in introductory provisions.
 
@@ -154,6 +174,10 @@ Subsec. (b)(2)(E). Pub. L. 99–272 added subpar. (E).
 
 Subsec. (d). Pub. L. 97–448, §309(b)(19), (20), substituted in introductory text “, except as provided in subsections (a)(3) and (b)(3) of this section” for “unless authorized under this section”, and in cl. (5) substituted “is voluntary, or makes provision” for “in which participation is voluntary, or in which provision is made”.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–5 effective July 1, 2009, see section 5006(f) of Pub. L. 111–5, set out as a note under section 1396a of this title.
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–171, title VI, §6041(c), Feb. 8, 2006, 120 Stat. 85, provided that: “The amendments made by this section \[enacting section 1396<i>o</i>–1 of this title and amending this section\] shall apply to cost sharing imposed for items and services furnished on or after March 31, 2006.”
@@ -190,7 +214,7 @@ Amendment by Pub. L. 99–272 applicable to medical assistance provided for hosp
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective as if originally included as a part of this section as this section wasadded by the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 309(c)(2) of Pub. L. 97–448, set out as a note under section 426–1 of this title.
+Amendment by Pub. L. 97–448 effective as if originally included as a part of this section as this section was added by the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 309(c)(2) of Pub. L. 97–448, set out as a note under section 426–1 of this title.
 
 #### Effective Date
 

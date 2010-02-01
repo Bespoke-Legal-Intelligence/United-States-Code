@@ -10,7 +10,7 @@ There is hereby established in the Treasury of the United States a fund, to be k
 
 &emsp;(4) all appropriations for interest subsidies and losses required under this subchapter which may hereafter be made by the Congress and the unobligated balances of any funds made available for loans under the item “Rural Electrification Administration” in the Department of Agriculture and Agriculture-Environmental and Consumer Protection Appropriations Acts;
 
-&emsp;(5) moneys borrowed from the Secretary of the Treasury pursuant to section 934(a) of this title;
+&emsp;(5) moneys borrowed from the Secretary of the Treasury pursuant to section 934(a) of this title; and
 
 &emsp;(6) shares of the capital stock of the Rural Telephone Bank purchased by the United States pursuant to section 946(a) of this title and moneys received from said bank upon retirement of said shares of stock in accordance with the provisions of subchapter IV of this chapter, which said shares and moneys shall be assets of the fund.
 

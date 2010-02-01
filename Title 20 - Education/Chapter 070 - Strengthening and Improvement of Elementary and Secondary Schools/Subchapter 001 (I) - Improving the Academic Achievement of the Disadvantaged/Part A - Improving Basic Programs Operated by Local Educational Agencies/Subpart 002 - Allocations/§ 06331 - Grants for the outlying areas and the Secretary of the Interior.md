@@ -56,7 +56,7 @@ For the purpose of subsections (a) and (b) of this section—
 
 #### (1) In general
 
-&emsp;The amount allotted for payments to the Secretary of the Interior under subsection (a)(2) of this section for any fiscal year shall be, as determined pursuant to criteria established by the Secretary, the amount necessary to meet the special educational needs of—
+&emsp;The amount allotted for payments to the Secretary of the Interior under subsection\(a)(2) of this section for any fiscal year shall be, as determined pursuant to criteria established by the Secretary, the amount necessary to meet the special educational needs of—
 
 &emsp;&emsp;(A) Indian children on reservations served by elementary schools and secondary schools for Indian children operated or supported by the Department of the Interior; and
 

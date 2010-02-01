@@ -52,7 +52,7 @@ Subsec. (d)(2). Pub. L. 104–127, §208(4), inserted “or within a country in 
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to the payment of costs and charges by the Commodity Credit Corporation for packaging, enrichment, preservation, processing, transportation, handling, and other incidental charges relating to commodities.
 
-1984—Pub. L. 98–473 inserted following cl. (4): “in the case of commodities for urgent and extraordinary reliefrequirements, including pre-positioned commodities, transportation costs from designated points of entry or ports of entry abroad to storage and distribution sites and associated storage and distribution costs;”.
+1984—Pub. L. 98–473 inserted following cl. (4): “in the case of commodities for urgent and extraordinary relief requirements, including pre-positioned commodities, transportation costs from designated points of entry or ports of entry abroad to storage and distribution sites and associated storage and distribution costs;”.
 
 1977—Pub. L. 95–88 substituted “transportation from United States ports to designated points of entry abroad in the case (1) of landlocked countries, (2) where ports cannot be used effectively because of natural or other disturbances, (3) where carriers to a specific country are unavailable, or (4) where a substantial savings in costs or time can be effected by the utilization of points of entry other than ports” for “, or, in the case of landlocked countries, transportation from United States ports to designated points of entry abroad”.
 

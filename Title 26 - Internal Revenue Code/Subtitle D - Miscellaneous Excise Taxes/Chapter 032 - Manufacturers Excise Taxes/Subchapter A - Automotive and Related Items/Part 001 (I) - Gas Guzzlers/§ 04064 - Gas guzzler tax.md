@@ -31,7 +31,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “automobile” means any 4-wheeled vehicle propelled by fuel—
 
-&emsp;&emsp;&emsp;(i) which is manufactured primarily for use on public streets, roads, and highways (except any vehicle operated exclusively on a rail or rails), and
+&emsp;&emsp;&emsp;(i) which is manufactured primarily for use on public streets, roads, and highways\(except any vehicle operated exclusively on a rail or rails), and
 
 &emsp;&emsp;&emsp;(ii) which is rated at 6,000 pounds unloaded gross vehicle weight or less.
 
@@ -95,7 +95,7 @@ For purposes of this section—
 
 &emsp;Testing and calculation procedures applicable to a model year, and any amendment to such procedures (other than a technical or clerical amendment), shall be promulgated not less than 12 months before the model year to which such procedures apply.
 
-(Added Pub. L. 95–618, title II, §201(a), Nov. 9, 1978, 92 Stat. 3180; amended Pub. L. 99–514, title XVIII, §1812(e)(1)(B)(i), (ii), Oct. 22, 1986, 100Stat. 2836; Pub. L. 101–508, title XI, §11216(a)–(d), Nov. 5, 1990, 104 Stat. 1388–437; Pub. L. 103–272, §5(g)(1), July 5, 1994, 108 Stat. 1374; Pub. L. 109–59, title XI, §11111(a), Aug. 10, 2005, 119 Stat. 1946.)
+(Added Pub. L. 95–618, title II, §201(a), Nov. 9, 1978, 92 Stat. 3180; amended Pub. L. 99–514, title XVIII, §1812(e)(1)(B)(i), (ii), Oct. 22, 1986, 100 Stat. 2836; Pub. L. 101–508, title XI, §11216(a)–(d), Nov. 5, 1990, 104 Stat. 1388–437; Pub. L. 103–272, §5(g)(1), July 5, 1994, 108 Stat. 1374; Pub. L. 109–59, title XI, §11111(a), Aug. 10, 2005, 119 Stat. 1946.)
 
 #### References in Text
 

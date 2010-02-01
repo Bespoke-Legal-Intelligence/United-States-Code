@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) a country (or with the government, a company, or a national of a country) which is on the list maintained by the Secretary under paragraph (3), or
 
-&emsp;&emsp;(B) any other country (or with the government, a company, or a national of that country) in which such person or such member had operations during the taxable year if such person (or, if such person is a foreign corporation, any United States shareholder of that corporation) knows or has reason to know that participation in or co-operation with an international boycott is required as a condition of doing business within such country or with such government, company, or national,
+&emsp;&emsp;(B) any other country (or with the government, a company, or a national of that country) in which such person or such member had operations during the taxable year if such person (or, if such person is a foreign corporation, any United States shareholder of that corporation) knows or has reason toknow that participation in or co-operation with an international boycott is required as a condition of doing business within such country or with such government, company, or national,
 
 > &emsp;that person or shareholder (within the meaning of section 951(b)) shall report such operations to the Secretary at such time and in such manner as the Secretary prescribes, except that in the case of a foreign corporation such report shall be required only of a United States shareholder (within the meaning of such section) of such corporation.
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 108–357 applicable to transactions after Dec. 31, 2004, s
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–519 applicable to transactions after Sept. 30, 2000, with special rules relatingto existing foreign sales corporations, see section 5 of Pub. L. 106–519, set out as a note under section 56 of this title.
+Amendment by Pub. L. 106–519 applicable to transactions after Sept. 30, 2000, with special rules relating to existing foreign sales corporations, see section 5 of Pub. L. 106–519, set out as a note under section 56 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -138,5 +138,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Reports by the Secretary
 
-Pub. L. 94–455, title X, §1067, Oct. 4, 1976, 90 Stat. 1654, as amended by Pub. L. 98–369, div. A, title IV, §441(c), July 18, 1984, 98 Stat. 815, which required the Secretary to transmit a report every four years to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate relating to reports filed under section 999(a) of this title and describing the administration of provisions relating to international boycott activity, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 141 of House Document No. 103–7.
+Pub. L. 94–455, title X, §1067, Oct. 4, 1976, 90 Stat. 1654, as amended by Pub. L. 98–369, div. A, title IV, §441(c),July 18, 1984, 98 Stat. 815, which required the Secretary to transmit a report every four years to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate relating to reports filed under section 999(a) of this title and describing the administration of provisions relating to international boycott activity, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 141 of House Document No. 103–7.
 

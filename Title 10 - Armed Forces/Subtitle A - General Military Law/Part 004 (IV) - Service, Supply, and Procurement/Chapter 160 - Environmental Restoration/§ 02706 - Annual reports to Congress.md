@@ -18,7 +18,7 @@ Report on Environmental Restoration Activities.—(1) The Secretary of Defense s
 
 &emsp;&emsp;(ii) any deviation in the schedule (including a milestone schedule specified in an agreement, order, or mandate) for such response actions of more than 180 days.
 
-&emsp;(E) A statement of the amount of funds allocated by the Secretary for, and the anticipated progress in implementing, such response actions during the fiscal year in which the report is submitted.
+&emsp;(E) A statement of the amount of funds allocated by the Secretary for, and the anticipated progress in implementing, such responseactions during the fiscal year in which the report is submitted.
 
 &emsp;(F) A statement of the amount of funds requested for such response actions for the five fiscal years following the fiscal year in which the report is submitted, and the anticipated progress in implementing such response actions for the fiscal year for which the budget is submitted.
 
@@ -48,7 +48,7 @@ Report on Environmental Quality Programs and Other Environmental Activities.—(
 
 &emsp;(C) A summary of the major achievements of the environmental quality programs and of any major problems with the programs.
 
-&emsp;(D) A summary of fines and penalties imposed or assessed against the Department of Defense and the military departments under Federal, State, or local environmental lawsduring the fiscal year in which the report is submitted and the four preceding fiscal years, which summary shall include—
+&emsp;(D) A summary of fines and penalties imposed or assessed against the Department of Defense and the military departments under Federal, State, or local environmental laws during the fiscal year in which the report is submitted and the four preceding fiscal years, which summary shall include—
 
 &emsp;&emsp;(i) a trend analysis of such fines and penalties for military installations inside and outside the United States; and
 

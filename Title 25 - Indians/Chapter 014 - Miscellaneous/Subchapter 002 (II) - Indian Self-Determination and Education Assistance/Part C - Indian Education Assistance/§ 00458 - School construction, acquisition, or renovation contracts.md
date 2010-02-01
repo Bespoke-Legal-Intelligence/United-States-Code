@@ -36,7 +36,7 @@ Within ninety days following the expiration of the three year period following J
 
 &emsp;(4) a description of the working relationship of the Department of the Interior with local or State educational agencies in connection with the contracting for construction, acquisition, or renovation of school facilities pursuant to this section; and
 
-&emsp;(5) the recommendations of the Secretary with respect to the transfer of the responsibility for administering subsections (a) and (b) of section 644 <sup>1</sup> of title 20 from the Department of Education to the Department of the Interior.
+&emsp;(5) the recommendations of the Secretary with respect to the transfer of the responsibility for administering subsections (a) and (b) ofsection 644 <sup>1</sup> of title 20 from the Department of Education to the Department of the Interior.
 
 #### (g) Authorization of appropriations
 

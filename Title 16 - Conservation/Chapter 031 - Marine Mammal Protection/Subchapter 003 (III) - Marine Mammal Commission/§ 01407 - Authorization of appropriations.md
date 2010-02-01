@@ -1,6 +1,6 @@
 ### §1407. Authorization of appropriations
 
-There are authorized to be appropriated to the Marine Mammal Commission, for purposes of carrying out this subchapter, $1,500,000 for fiscal year 1994, $1,550,000 for fiscal year 1995, $1,600,000 for fiscal year 1996, $1,650,000 for fiscal year 1997, $1,700,000 for fiscal year 1998, and $1,750,000 for fiscal year 1999.
+There are authorized to be appropriated to the Marine Mammal Commission, for purposes of carrying out this subchapter, $1,500,000 for fiscal year 1994, $1,550,000 for fiscal year 1995, $1,600,000for fiscal year 1996, $1,650,000 for fiscal year 1997, $1,700,000 for fiscal year 1998, and $1,750,000 for fiscal year 1999.
 
 (Pub. L. 92–522, title II, §207, Oct. 21, 1972, 86 Stat. 1046; Pub. L. 95–136, §3, Oct. 18, 1977, 91 Stat. 1167; Pub. L. 95–316, §4, July 10, 1978, 92 Stat. 381; Pub. L. 103–238, §9(b), Apr. 30, 1994, 108 Stat. 543.)
 

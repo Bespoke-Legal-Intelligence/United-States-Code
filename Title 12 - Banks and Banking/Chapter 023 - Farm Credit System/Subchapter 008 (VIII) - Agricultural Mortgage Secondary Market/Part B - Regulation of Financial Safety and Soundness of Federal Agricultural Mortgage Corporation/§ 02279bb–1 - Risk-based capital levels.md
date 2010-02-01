@@ -12,7 +12,7 @@ Not sooner than the expiration of the 3-year period beginning on February 10, 19
 
 #### (B) Rural utility loans
 
-&emsp;&emsp;With respect to securities representing an interest in, or obligation backed by, a pool of qualified loans described in section 2279aa(9)(C) of this title owned or guaranteed by the Corporation, losses occur at a rate of default and severity reasonably related to risks in electric and telephone facility loans\(as applicable), as determined by the Director.
+&emsp;&emsp;With respect to securities representing an interest in, or obligation backed by, a pool of qualified loans described in section 2279aa(9)(C) of this title owned or guaranteed by the Corporation, losses occur at a rate of default and severity reasonably related to risks in electric and telephone facility loans (as applicable), as determined by the Director.
 
 #### (2) Interest rate risk
 

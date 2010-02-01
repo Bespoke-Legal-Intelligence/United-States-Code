@@ -64,7 +64,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 &emsp;The Secretary shall develop a formula for determining the amount of assistance provided to public housing agencies from the Capital Fund for a fiscal year, which shall include a mechanism to reward performance. The formula may take into account such factors as—
 
-&emsp;&emsp;(A) the number of public housing dwelling units owned, assisted, or operated by thepublic housing agency, the characteristics and locations of the projects, and the characteristics of the families served and to be served (including the incomes of the families);
+&emsp;&emsp;(A) the number of public housing dwelling units owned, assisted, or operated by the public housing agency, the characteristics and locations of the projects, and the characteristics of the families served and to be served (including the incomes of the families);
 
 &emsp;&emsp;(B) the need of the public housing agency to carry out rehabilitation and modernization activities, replacement housing, and reconstruction, construction, and demolition activities related to public housing dwelling units owned, assisted, or operated by the public housing agency, including backlog and projected future needs of the agency;
 
@@ -94,7 +94,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (1) In general
 
-&emsp;The Secretary shall establish an Operating Fund for the purpose of making assistance available to public housing agencies for the operation and management of public housing, including—
+&emsp;The Secretary shall establish an Operating Fund for the purpose of making assistanceavailable to public housing agencies for the operation and management of public housing, including—
 
 &emsp;&emsp;(A) procedures and systems to maintain and ensure the efficient management and operation of public housing units (including amounts sufficient to pay for the reasonable costs of review by an independent auditor of the documentation or other information maintained pursuant to section 1437d(j)(6) of this title by a public housing agency or resident management corporation to substantiate the performance of that agency or corporation);
 
@@ -158,7 +158,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (iv) Existing contracts
 
-&emsp;&emsp;&emsp;The term of a contract described in clause (i) that, as of December 26, 2007, is in repayment and has a term of not more than 12 years, may be extended to a term of not more than 20 years to permit additional energy conservation improvements without requiring the reprocurement of energy performance contractors.
+&emsp;&emsp;&emsp;The term of a contract described in clause (i) that, as of December 26, 2007, isin repayment and has a term of not more than 12 years, may be extended to a term of not more than 20 years to permit additional energy conservation improvements without requiring the reprocurement of energy performance contractors.
 
 #### (3) Condition on use
 
@@ -186,7 +186,7 @@ The formulas under subsections (d)(2) and (e)(2) of this section shall be develo
 
 #### (B) Exception regarding use of assistance
 
-&emsp;&emsp;A public housing agency may use amounts allocated for the agency from the CapitalFund or Operating Fund for the construction and operation of housing units that are available and affordable to low-income families in excess of the limitations on new construction set forth in subparagraph (A), but the formulas established under subsections (d)(2) and (e)(2) of this section shall not provide additional funding for the specific purpose of allowing construction and operation of housing in excess of those limitations (except to the extent provided in subparagraph (C)).
+&emsp;&emsp;A public housing agency may use amounts allocated for the agency from the Capital Fund or Operating Fund for the construction and operation of housing units that are available and affordable to low-income families in excess of the limitations on new construction set forth in subparagraph (A), but the formulas established under subsections (d)(2) and (e)(2) of this section shall not provide additional funding for the specific purpose of allowing construction and operation of housing in excess of those limitations (except to the extent provided in subparagraph (C)).
 
 #### (C) Exception regarding formulas
 
@@ -262,7 +262,7 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 &emsp;&emsp;&emsp;(ii) the complexity of capital program of the public housing agency;
 
-&emsp;&emsp;&emsp;(iii) any limitation on the ability of the public housing agency to obligate the amounts allocated for the agency from theCapital Fund in a timely manner as a result of State or local law; or
+&emsp;&emsp;&emsp;(iii) any limitation on the ability of the public housing agency to obligate the amounts allocated for the agency from the Capital Fund in a timely manner as a result of State or local law; or
 
 &emsp;&emsp;&emsp;(iv) such other factors as the Secretary determines to be relevant.
 
@@ -306,7 +306,7 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 #### (k) Treatment of nonrental income
 
-A public housing agency that receives income from nonrental sources (as determined by the Secretary) may retain and use such amounts without any decrease in the amounts received under this section from the Capital or Operating Fund. Any such nonrental amounts retained shall be used only for low-income housing or to benefit the residents assisted by the public housing agency.
+A public housing agency that receives income from nonrental sources (as determined by theSecretary) may retain and use such amounts without any decrease in the amounts received under this section from the Capital or Operating Fund. Any such nonrental amounts retained shall be used only for low-income housing or to benefit the residents assisted by the public housing agency.
 
 #### (<i>l</i>) Provision of only capital or operating assistance
 
@@ -328,7 +328,7 @@ A public housing agency that receives income from nonrental sources (as determin
 
 #### (3) Services for elderly residents
 
-&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before the amounts are made available from such Funds, use not more than $600,000 per year for the purpose of developing a comprehensive plan to address the need for services for elderly residents. Such plan may be developed by a partnership created by such Housing Authority and may include the creation of a model project for assisted living at one ormore developments. The model project may provide for contracting with private parties for the delivery of services.
+&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before the amounts are made available from such Funds, use not more than $600,000 per year for the purpose of developing a comprehensive plan to address the need for services for elderly residents. Such plan may be developed by a partnership created by such Housing Authority and may include the creation of a model project for assisted living at one or more developments. The model project may provide for contracting with private parties for the delivery of services.
 
 #### (4) Effective date
 
@@ -498,13 +498,19 @@ Section effective on such date or dates as the Secretary of Housing and Urban De
 
 #### Regulations
 
-Pub. L. 108–199, div. G, title II, §222, Jan. 23, 2004, 118 Stat. 398, provided that: “The Secretary of Housing and Urban Development shall conduct negotiated rulemaking with representatives from interested parties for purposes of any changes to the formula governing the Public Housing Operating Fund. A final rule shall be issued no later than July 1, 2004.”
+Pub. L. 108–199, div. G, title II, §222, Jan. 23, 2004, 118 Stat. 398, provided that: “The Secretary of Housing andUrban Development shall conduct negotiated rulemaking with representatives from interested parties for purposes of any changes to the formula governing the Public Housing Operating Fund. A final rule shall be issued no later than July 1, 2004.”
 
 Pub. L. 108–7, div. K, title II, Feb. 20, 2003, 117 Stat. 487, provided in part: “That the Secretary shall issue final regulations to carry out section 9(j) of the United States Housing Act of 1937 (42 U.S.C. 1437g(j)), not later than August 1, 2003”.
 
 #### Capital Funds for Central Office Costs
 
-Pub. L. 110–161, div. K, title II, §226, Dec. 26, 2007, 121 Stat. 2437, provided that: “With respect to the use of amounts provided in this Act \[div. K of Pub. L. 110–161, see Tables for classification\] and in future Acts for the operation, capital improvement and management of public housing as authorized by sections 9(d) and 9(e) of the United States Housing Act of 1937 (42 U.S.C. 1437g(d) and (e)), the Secretary \[of Housing and Urban Development\] shall not impose any requirement or guideline relating to asset management that restricts or limits in any way the use of capital funds for central office costs pursuant to section 9(g)(1) or 9(g)(2) of the United States Housing Act of 1937 (42 U.S.C. 1437g(g)(1), (2)): <i>Provided</i>, however, that a public housing agency may not use capital funds authorized under section 9(d) for activities that are eligible under section 9(e) for assistance with amounts from the operating fund in excess of the amounts permitted under section 9(g)(1) or 9(g)(2).”
+Pub. L. 111–117, div. A, title II, §224, Dec. 16, 2009, 123 Stat. 3102, provided that: “With respect to the use of amounts provided in this Act \[div. A of Pub. L. 111–117, see Tables for classification\] and in future Acts for the operation, capital improvement and management of public housing as authorized by sections 9(d) and 9(e) of the United States Housing Act of 1937 (42 U.S.C. 1437g(d) and (e)), the Secretary shall not impose any requirement or guideline relating to asset management that restricts or limits in any way the use of capital funds for central office costs pursuant to section 9(g)(1) or 9(g)(2) of the United States Housing Act of 1937 (42 U.S.C. 1437g(g)(1), (2)): <i>Provided</i>, That a public housing agency may not use capital funds authorized under section 9(d) for activities that are eligible under section 9(e) for assistance with amounts from the operating fund in excess of the amounts permitted under section 9(g)(1) or 9(g)(2).”
+
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 111–8, div. I, title II, §226, Mar. 11, 2009, 123 Stat. 977.
+
+Pub. L. 110–161, div. K, title II, §226, Dec. 26, 2007, 121 Stat. 2437.
 
 #### Payments for Costs of Operation and Management of Public Housing Prohibited
 
@@ -513,6 +519,10 @@ Pub. L. 108–447, div. I, title II, Dec. 8, 2004, 118 Stat. 3298, provided in p
 Public Housing Operating Fund\] to public housing agencies on a calendar year basis: <i>Provided further</i>, That, in fiscal year 2005 and all fiscal years hereafter, no amounts under this heading in any appropriations Act may be used for payments to public housing agencies for the costs of operation and management of public housing for any year prior to the current year of such Act”.
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 111–117, div. A, title II, Dec. 16, 2009, 123 Stat. 3080.
+
+Pub. L. 111–8, div. I, title II, Mar. 11, 2009, 123 Stat. 956.
 
 Pub. L. 110–161, div. K, title II, Dec. 26, 2007, 121 Stat. 2417.
 

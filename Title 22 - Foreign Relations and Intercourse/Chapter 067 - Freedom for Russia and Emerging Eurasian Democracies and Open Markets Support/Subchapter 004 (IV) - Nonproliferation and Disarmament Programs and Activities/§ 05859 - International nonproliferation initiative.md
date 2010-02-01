@@ -14,5 +14,5 @@ The National Defense Authorization Act for Fiscal Year 1993, referred to in subs
 
 #### Codification
 
-Section is comprised of section 509 of Pub. L. 102–511. Subsecs. (a) to (e) were omitted pursuant to subsec. (f) because section 1505 of the National Defense Authorization Act for Fiscal Year 1993, Pub. L. 102–484, which is classified to section 5859a of this title, enacted thesame authorities and requirements as contained in subsecs. (a) to (e) and authorized the appropriation of the same or a greater amount to carry out such authorities.
+Section is comprised of section 509 of Pub. L. 102–511. Subsecs. (a) to (e) were omitted pursuant to subsec. (f) because section 1505 of the National Defense Authorization Act for Fiscal Year 1993, Pub. L. 102–484, which is classified to section 5859a of this title, enacted the same authorities and requirements as contained in subsecs. (a) to (e) and authorized the appropriation of the same or a greater amount to carry out such authorities.
 

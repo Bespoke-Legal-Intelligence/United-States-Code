@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1994—Subsec. (a)(3)(A). Pub. L. 103–446 substituted “Veterans Health Administration” for “Department of Medicine and Surgery” and “Veterans Benefits Administration” for “Department of Veterans’ Benefits”.
+1994—Subsec. (a)(3)(A). Pub. L. 103–446 substituted “Veterans Health Administration” for “Department ofMedicine and Surgery” and “Veterans Benefits Administration” for “Department of Veterans’ Benefits”.
 
 1991—Pub. L. 102–83, §5(a), renumbered section 1521 of this title as this section.
 

@@ -6,7 +6,7 @@ There is established in the Department of Health and Human Services a board for 
 
 #### (b) Function
 
-The function of the Board shall be to promote the development of drugs and devices for rarediseases or conditions and the coordination among Federal, other public, and private agencies in carrying out their respective functions relating to the development of such articles for such diseases or conditions.
+The function of the Board shall be to promote the development of drugs and devices for rare diseases or conditions and the coordination among Federal, other public, and private agencies in carrying out their respective functions relating to the development of such articles for such diseases or conditions.
 
 #### (c) Duties with respect to drugs for rare diseases or conditions
 
@@ -44,7 +44,7 @@ The Board shall submit to the Committee on Labor and Human Resources of the Sena
 
 &emsp;(3) containing the results of the evaluations carried out by the Board.
 
-> The Director of the National Institutes of Health shall submit to the Board for inclusion in the annual report a report on the rare disease and condition research activities of the Institutes of the National Institutes of Health; the Secretary of the Treasury shall submit to the Board for inclusion in the annual report a report on the use of the credit against tax provided by section 44H <sup>2</sup> of title 26; and the Secretary of Health and Human Services shall submit to the Board for inclusion in the annual report a report on the program of assistance under section 360ee of title 21 for the development of drugs for rare diseases and conditions. Each annual report shall be submitted by June 1 of each year for the preceding calendar year.
+> The Director of the National Institutes of Health shall submit to the Board for inclusion in the annual report a report on the rare disease and condition research activities of the Institutes of the National Institutes of Health; the Secretary of the Treasury shall submit to the Board for inclusion in the annual report a report on the use of the credit against tax provided by section 44H <sup>2</sup> of title 26; and the Secretary ofHealth and Human Services shall submit to the Board for inclusion in the annual report a report on the program of assistance under section 360ee of title 21 for the development of drugs for rare diseases and conditions. Each annual report shall be submitted by June 1 of each year for the preceding calendar year.
 
 (July 1, 1944, ch. 373, title II, §227, as added Pub. L. 97–414, §3, Jan. 4, 1983, 96 Stat. 2051; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–321, title I, §163(b)(1), July 10, 1992, 106 Stat. 375; Pub. L. 102–531, title III, §312(d)(1), Oct. 27, 1992, 106 Stat. 3504.)
 
@@ -120,7 +120,7 @@ Section 312(i) of Pub. L. 102–531 provided that: “The amendments made by thi
 
 #### National Commission on Orphan Diseases
 
-Pub. L. 99–91, §4, Aug. 15, 1985, 99 Stat. 388, as amended by Pub. L. 100–290, §4, Apr. 18, 1988, 102 Stat. 92; Pub. L. 102–321, title I, §163(c)(1), July 10, 1992, 106 Stat. 376, provided that:
+Pub. L. 99–91, §4, Aug. 15, 1985, 99 Stat. 388, as amended by Pub. L. 100–290, §4, Apr. 18, 1988, 102 Stat. 92; Pub.L. 102–321, title I, §163(c)(1), July 10, 1992, 106 Stat. 376, provided that:
 
 “(a)
 

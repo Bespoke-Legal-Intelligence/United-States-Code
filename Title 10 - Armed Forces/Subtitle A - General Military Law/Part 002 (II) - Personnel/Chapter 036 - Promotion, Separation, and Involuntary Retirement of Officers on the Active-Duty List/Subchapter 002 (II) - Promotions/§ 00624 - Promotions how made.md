@@ -84,7 +84,7 @@ Subsec. (c). Pub. L. 97–22, §4(d)(2), substituted “under this section in th
 
 Subsec. (d)(1). Pub. L. 97–22, §4(d)(3)(A), (B), substituted “Under regulations prescribed by the Secretary concerned, the appointment of an officer under this section may be delayed” for “The Secretary concerned may delay the appointment of an officer under this section” in provisions preceding subpar. (A) and, in provisions following subpar. (D), inserted “then unless action to delay an appointment has also been taken under subsection (d)(2)” after “as the case may be,”.
 
-Subsec. (d)(2). Pub. L. 97–22, §4(d)(3)(C), substituted “Under regulations prescribed by the Secretary concerned, the appointment of an officer under this section may also be delayed in any case in which” for “the Secretary concerned may also delay the appointment of an officer to the next higher grade under this section in any case in which the Secretary finds that”.
+Subsec. (d)(2). Pub. L. 97–22, §4(d)(3)(C), substituted “Under regulations prescribed by the Secretary concerned, the appointment of an officer under this section may also be delayed in any case in which” for “The Secretary concerned may also delay the appointment of an officer to the next higher grade under this section in any case in which the Secretary finds that”.
 
 Subsec. (d)(3). Pub. L. 97–22, §4(d)(3)(D), (E), inserted “, unless it is impracticable to give such written notice before the effective date of the appointment, in which case such written notice shall be given as soon as practicable” after “grounds for the delay” and struck out “by the Secretary” after “the action taken”.
 

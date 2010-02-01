@@ -4,7 +4,7 @@
 
 (1) Notwithstanding any provision of title 5 governing appointments in the competitive service and General Schedule classification and pay rates, the Secretary of Energy may—
 
-&emsp;(A) establish and set the rates of pay for not more than 200 positions in the Department ofEnergy for scientific, engineering, and technical personnel whose duties will relate to safety at defense nuclear facilities of the Department; and
+&emsp;(A) establish and set the rates of pay for not more than 200 positions in the Department of Energy for scientific, engineering, and technical personnel whose duties will relate to safety at defense nuclear facilities of the Department; and
 
 &emsp;(B) appoint persons to such positions.
 
@@ -28,15 +28,13 @@
 
 #### (c) Termination
 
-(1) The authority provided under subsection (a)(1) shall terminate on September 30, 2008.
+(1) The authority provided under subsection (a)(1) shall terminate on September 30, 2011.
 
 (2) An employee may not be separated from employment with the Department of Energy or receive a reduction in pay by reason of the termination of authority under paragraph (1).
 
-(Pub. L. 107–314, div. D, title XLVI, §4601, formerly Pub. L. 103–337, div. C, title XXXI, §3161, Oct. 5, 1994, 108 Stat. 3095; Pub. L. 105–85, div. C, title XXXI, §3139, Nov. 18, 1997, 111 Stat. 2040; Pub. L. 105–261, div. C, title XXXI, §§3152, 3155, Oct. 17, 1998, 112 Stat. 2253, 2257; Pub. L. 106–398, §1 \[div. C, title XXXI, §3191\], Oct. 30, 2000, 114 Stat. 1654, 1654A–480; Pub. L. 107–314, div. C, title XXXI, §3174, Dec. 2, 2002, 116 Stat. 2745; renumbered Pub. L. 107–314, div. D, title XLVI, §4601, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(2), Nov. 24, 2003, 117 Stat. 1776; Pub. L. 108–375, div. C, title XXXI, §3112, Oct. 28, 2004, 118 Stat. 2160; Pub. L. 109–364, div. C, title XXXI, §3115, Oct. 17, 2006, 120 Stat. 2506.)
+(Pub. L. 107–314, div. D, title XLVI, §4601, formerly Pub. L. 103–337, div. C, title XXXI, §3161, Oct. 5, 1994, 108 Stat. 3095; Pub. L. 105–85, div. C, title XXXI, §3139, Nov. 18, 1997, 111 Stat. 2040; Pub. L. 105–261, div. C, title XXXI, §§3152, 3155, Oct. 17, 1998, 112 Stat. 2253, 2257; Pub. L. 106–398, §1 \[div. C, title XXXI, §3191\], Oct. 30, 2000, 114 Stat. 1654, 1654A–480; Pub. L. 107–314, div. C, title XXXI, §3174, Dec. 2, 2002, 116 Stat. 2745; renumbered Pub. L. 107–314, div. D, title XLVI, §4601, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(2), Nov. 24, 2003, 117 Stat. 1776; Pub. L. 108–375, div. C, title XXXI, §3112, Oct. 28, 2004, 118 Stat. 2160; Pub. L. 109–364, div. C, title XXXI, §3115, Oct. 17, 2006, 120 Stat. 2506; Pub. L. 111–32, title IV, §402, June 24, 2009, 123 Stat. 1877; Pub. L. 111–84, div. C, title XXXI, §3119, Oct. 28, 2009, 123 Stat. 2709.)
 
 #### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (a)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 The General Schedule, referred to in subsec. (a)(1), is set out under section 5332 of Title 5, Government Organization and Employees.
 
@@ -46,19 +44,23 @@ Section was formerly set out as a note under section 7231 of Title 42, The Publi
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c)(1). Pub. L. 109–364 substituted “September 30, 2008” for “September 30, 2006”.
+2009—Subsec. (c)(1). Pub. L. 111–84 substituted “September 30, 2011” for “September 30, 2009”.
 
-<b>2004</b>—Subsec. (c)(1). Pub. L. 108–375 substituted “September 30, 2006” for “September 30, 2004”.
+Pub. L. 111–32 substituted “September 30, 2009” for “September 30, 2008”.
 
-<b>2002</b>—Subsec. (c)(1). Pub. L. 107–314, §3174, substituted “September 30, 2004” for “September 30, 2002”.
+2006—Subsec. (c)(1). Pub. L. 109–364 substituted “September 30, 2008” for “September 30, 2006”.
 
-<b>2000</b>—Subsec. (c)(1). Pub. L. 106–398 substituted “September 30, 2002” for “September 30, 2000”.
+2004—Subsec. (c)(1). Pub. L. 108–375 substituted “September 30, 2006” for “September 30, 2004”.
 
-<b>1998</b>—Subsec. (a)(2). Pub. L. 105–261, §3155, substituted “level III of the Executive Schedule under section 5314” for “level IV of the Executive Schedule under section 5315”.
+2002—Subsec. (c)(1). Pub. L. 107–314, §3174, substituted “September 30, 2004” for “September 30, 2002”.
+
+2000—Subsec. (c)(1). Pub. L. 106–398 substituted “September 30, 2002” for “September 30, 2000”.
+
+1998—Subsec. (a)(2). Pub. L. 105–261, §3155, substituted “level III of the Executive Schedule under section 5314” for “level IV of the Executive Schedule under section 5315”.
 
 Subsec. (c)(1). Pub. L. 105–261, §3152, substituted “September 30, 2000” for “September 30, 1999”.
 
-<b>1997</b>—Subsec. (c). Pub. L. 105–85, §3139(a), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to a study to be conducted by the Environmental Protection Agency.
+1997—Subsec. (c). Pub. L. 105–85, §3139(a), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to a study to be conducted by the Environmental Protection Agency.
 
 Subsec. (c)(1). Pub. L. 105–85, §3139(b), substituted “September 30, 1999” for “September 30, 1997”.
 

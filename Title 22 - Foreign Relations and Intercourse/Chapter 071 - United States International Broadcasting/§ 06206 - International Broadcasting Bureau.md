@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established an International Broadcasting Bureau under the Board (hereafter in this chapter referred to as the “Bureau”), to carry out all nonmilitary international broadcasting activities supported by the United States Government other than those described in sections 6207 and 6208 of this title.
+There is hereby established an International Broadcasting Bureau under the Board (hereafter in this chapter referred to as the “Bureau”), tocarry out all nonmilitary international broadcasting activities supported by the United States Government other than those described in sections 6207 and 6208 of this title.
 
 #### (b) Selection of Director of Bureau
 
@@ -53,4 +53,6 @@ Conditions.—The Director is authorized to use the authority of subsection (a) 
 “(c)
 
 Termination of Authority.—The authority to award personal services contracts under the pilot program authorized by this section shall terminate on December 31, 2009. A contract entered into prior to the termination date under this subsection may remain in effect for a period not to exceed 6 months after such termination date.”
+
+\[Pub. L. 111–117, div. F, title I, Dec. 16, 2009, 123 Stat. 3318, provided in part: “That the authority provided by section 504(c) of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107–228; 22 U.S.C. 6206 note) shall remain in effect through September 30, 2010”.\]
 

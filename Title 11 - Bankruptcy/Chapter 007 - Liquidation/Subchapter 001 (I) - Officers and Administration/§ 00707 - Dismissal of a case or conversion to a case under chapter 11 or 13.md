@@ -10,7 +10,7 @@
 
 (b)(1) After notice and a hearing, the court, on its own motion or on a motion by the United States trustee, trustee (or bankruptcy administrator, if any), or any party in interest, may dismiss a case filed by an individual debtor under this chapter whose debts are primarily consumer debts, or, with the debtor's consent, convert such a case to a case under chapter 11 or 13 of this title, if it finds that the granting of relief would be an abuse of the provisions of this chapter. In making a determination whether to dismiss a case under this section, the court may not take into consideration whether a debtor has made, or continues to make, charitable contributions (that meet the definition of “charitable contribution” under section 548(d)(3)) to any qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)).
 
-(2)(A)(i) In considering under paragraph (1) whether the granting of relief would be an abuse of the provisions of this chapter, the court shallpresume abuse exists if the debtor's current monthly income reduced by the amounts determined under clauses (ii), (iii), and (iv), and multiplied by 60 is not less than the lesser of—
+(2)(A)(i) In considering under paragraph (1) whether the granting of relief would be an abuse of the provisions of this chapter, the court shall presume abuse exists if the debtor's current monthly income reduced by the amounts determined under clauses (ii), (iii), and (iv), and multiplied by 60 is not less than the lesser of—
 
 &emsp;(I) 25 percent of the debtor's nonpriority unsecured claims in the case, or $6,000, whichever is greater; or
 
@@ -24,7 +24,7 @@
 
 (IV) In addition, the debtor's monthly expenses may include the actual expenses for each dependent child less than 18 years of age, not to exceed $1,500 per year per child, to attend a private or public elementary or secondary school if the debtor provides documentation of such expenses and a detailed explanation of why such expenses are reasonable and necessary, and why such expenses are not already accounted for in the National Standards, Local Standards, or Other Necessary Expenses referred to in subclause (I).
 
-(V) In addition, the debtor's monthly expenses may include an allowance for housing and utilities, in excess of the allowance specified by the Local Standards for housing and utilities issued by the Internal Revenue Service, based on the actual expenses for home energy costs if the debtor provides documentation of such actual expenses and demonstrates that such actual expenses are reasonable and necessary.
+(V) In addition, the debtor's monthly expenses may include an allowance for housing and utilities, in excess of the allowance specified by the Local Standards for housing and utilities issuedby the Internal Revenue Service, based on the actual expenses for home energy costs if the debtor provides documentation of such actual expenses and demonstrates that such actual expenses are reasonable and necessary.
 
 (iii) The debtor's average monthly payments on account of secured debts shall be calculated as the sum of—
 
@@ -130,7 +130,7 @@
 
 &emsp;&emsp;(II) any other subsidiary corporation of the parent corporation.
 
-(6) Only the judge or United States trustee (or bankruptcy administrator, if any) may file amotion under section 707(b), if the current monthly income of the debtor, or in a joint case, the debtor and the debtor's spouse, as of the date of the order for relief, when multiplied by 12, is equal to or less than—
+(6) Only the judge or United States trustee (or bankruptcy administrator, if any) may file a motion under section 707(b), if the current monthly income of the debtor, or in a joint case, the debtor and the debtor's spouse, as of the date of the order for relief, when multiplied by 12, is equal to or less than—
 
 &emsp;(A) in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner;
 
@@ -168,7 +168,7 @@
 
 (3) The court may not dismiss a case under paragraph (2) if the debtor establishes by a preponderance of the evidence that the filing of a case under this chapter is necessary to satisfy a claim for a domestic support obligation.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 98–353, title III, §§312, 475, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, §219, Oct. 27, 1986, 100 Stat. 3100; Pub. L. 105–183, §4(b), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, §102(a), (f), Apr. 20, 2005, 119 Stat. 27, 33; Pub. L. 110–438, §2, Oct. 20, 2008, 122 Stat. 5000.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 98–353, title III, §§312, 475, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, §219, Oct. 27, 1986,100 Stat. 3100; Pub. L. 105–183, §4(b), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, §102(a), (f), Apr. 20, 2005, 119 Stat. 27, 33; Pub. L. 110–438, §2, Oct. 20, 2008, 122 Stat. 5000.)
 
 #### Historical and Revision Notes
 

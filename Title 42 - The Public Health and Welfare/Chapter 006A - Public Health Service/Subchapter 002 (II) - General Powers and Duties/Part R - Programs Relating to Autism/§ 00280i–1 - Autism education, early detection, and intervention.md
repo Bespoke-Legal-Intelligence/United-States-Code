@@ -28,7 +28,7 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 #### (1) In general
 
-&emsp;In carrying out subsection (b)(1), the Secretary, in collaboration with the Secretary of Education and the Secretary of Agriculture, shall, subject to the availability of appropriations, provide culturally competent information regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, and evidence-based interventions to meet the needs of individuals with autism spectrum disorder or other developmental disabilities and their families through—
+&emsp;In carrying out subsection (b)(1), the Secretary, in collaboration with the Secretary of Education and the Secretary of Agriculture, shall, subject to the availability of appropriations, provide culturally competent information regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, and evidence-based interventions tomeet the needs of individuals with autism spectrum disorder or other developmental disabilities and their families through—
 
 &emsp;&emsp;(A) Federal programs, including—
 

@@ -114,9 +114,9 @@ In the case of a taxable year to which section 26(a)(2) does not apply, the cred
 
 &emsp;(1) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;(2) the sum of the credits allowable under this subpart (other than this section and sections 23, 25D, and 30D) and section 27 for the taxable year.
+&emsp;(2) the sum of the credits allowable under this subpart (other than this section and sections 23, 25A(i), 25D, 30, 30B, and 30D) and section 27 for the taxable year.
 
-(Added and amended Pub. L. 107–16, title VI, §618(a), (b)(1), June 7, 2001, 115 Stat. 106, 108; Pub. L. 107–147, title IV, §§411(m), 417(1), Mar. 9, 2002, 116 Stat. 48, 56; Pub. L. 108–311, title II, §207(4), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 109–135, title IV, §402(i)(3)(D), Dec. 21, 2005, 119 Stat. 2614; Pub. L. 109–280, title VIII, §§812, 833(a), Aug. 17, 2006, 120 Stat. 997, 1003; Pub. L. 110–343, div. B, title I, §106(e)(2)(C), title II, §205(d)(1)(C), Oct. 3, 2008, 122 Stat. 3817, 3838.)
+(Added and amended Pub. L. 107–16, title VI, §618(a), (b)(1), June 7, 2001, 115 Stat. 106, 108; Pub. L. 107–147, title IV, §§411(m), 417(1), Mar. 9, 2002, 116 Stat. 48, 56; Pub. L. 108–311, title II, §207(4), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 109–135, title IV, §402(i)(3)(D), Dec. 21, 2005, 119 Stat. 2614; Pub. L. 109–280, title VIII, §§812, 833(a), Aug. 17, 2006, 120 Stat. 997, 1003; Pub. L. 110–343, div. B, title I, §106(e)(2)(C), title II, §205(d)(1)(C), Oct. 3, 2008, 122 Stat. 3817, 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(4), 1142(b)(1)(C), 1144(b)(1)(C), Feb. 17, 2009, 123 Stat. 314, 330, 332.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -127,6 +127,12 @@ In the case of a taxable year to which section 26(a)(2) does not apply, the cred
 <i>For termination of amendment by section 402(i)(3)(H) of Pub. L. 109–135, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
 #### Amendments
+
+2009—Subsec. (g)(2). Pub. L. 111–5, §1144(b)(1)(C), inserted “30B,” after “30,”.
+
+Pub. L. 111–5, §1142(b)(1)(C), inserted “30,” after “25D,”.
+
+Pub. L. 111–5, §1004(b)(4), inserted “25A(i),” after “23,”.
 
 2008—Subsec. (g)(2). Pub. L. 110–343, §205(d)(1)(C), substituted “, 25D, and 30D” for “and 25D”.
 
@@ -149,6 +155,14 @@ Subsec. (h). Pub. L. 109–280, §812, struck out heading and text of subsec. (h
 Subsecs. (g), (h). Pub. L. 107–147, §417(1), redesignated subsec. (g), relating to termination, as (h).
 
 2001—Subsec. (g). Pub. L. 107–16, §618(b)(1), added subsec. (g) relating to limitation based on amount of tax.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by section 1004(b)(4) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008,see section 1004(d) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
+
+Amendment by section 1142(b)(1)(C) of Pub. L. 111–5 applicable to vehicles acquired after Feb. 17, 2009, see section 1142(c) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
+
+Amendment by section 1144(b)(1)(C) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1144(c) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
 
 #### Effective Date of 2008 Amendment
 

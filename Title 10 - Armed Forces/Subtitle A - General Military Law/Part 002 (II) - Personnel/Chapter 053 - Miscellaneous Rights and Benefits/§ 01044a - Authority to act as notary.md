@@ -4,7 +4,7 @@
 
 &emsp;(1) Members of any of the armed forces.
 
-&emsp;(2) Other persons eligible for legal assistance under the provisions of section 1044 of this title or regulations of the Department of Defense.
+&emsp;(2) Other persons eligible for legal assistance under the provisions of section 1044 of thistitle or regulations of the Department of Defense.
 
 &emsp;(3) Persons serving with, employed by, or accompanying the armed forces outside the United States and outside the Commonwealth of Puerto Rico, Guam, and the Virgin Islands.
 

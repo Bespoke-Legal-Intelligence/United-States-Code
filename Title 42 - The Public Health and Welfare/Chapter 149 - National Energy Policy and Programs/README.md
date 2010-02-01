@@ -155,6 +155,7 @@
 | [15962\.](Subchapter%20004%20%28IV%29%20-%20Coal/Part%20A%20-%20Clean%20Coal%20Power%20Initiative/%C2%A7%2015962%20-%20Project%20criteria.md) | Project criteria. |
 | [15963\.](Subchapter%20004%20%28IV%29%20-%20Coal/Part%20A%20-%20Clean%20Coal%20Power%20Initiative/%C2%A7%2015963%20-%20Report.md) | Report. |
 | [15964\.](Subchapter%20004%20%28IV%29%20-%20Coal/Part%20A%20-%20Clean%20Coal%20Power%20Initiative/%C2%A7%2015964%20-%20Clean%20coal%20centers%20of%20excellence.md) | Clean coal centers of excellence. |
+| [15965\.](Subchapter%20004%20%28IV%29%20-%20Coal/Part%20A%20-%20Clean%20Coal%20Power%20Initiative/%C2%A7%2015965%20-%20Time%20limit%20for%20award%3B%20extension.md) | Time limit for award; extension. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -401,6 +402,7 @@ I74subpart 1—hybrid vehicles
 | [16272\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016272%20-%20Nuclear%20energy%20research%20programs.md) | Nuclear energy research programs. |
 | [16273\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016273%20-%20Advanced%20fuel%20cycle%20initiative.md) | Advanced fuel cycle initiative. |
 | [16274\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016274%20-%20University%20nuclear%20science%20and%20engineering%20support.md) | University nuclear science and engineering support. |
+| [16274a.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016274a%20-%20Integrated%20University%20Program.md) | Integrated University Program. |
 | [16275\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016275%20-%20Department%20of%20Energy%20civilian%20nuclear%20infrastructure%20and%20facilities.md) | Department of Energy civilian nuclear infrastructure and facilities. |
 | [16276\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016276%20-%20Security%20of%20nuclear%20facilities.md) | Security of nuclear facilities. |
 | [16277\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016277%20-%20Alternatives%20to%20industrial%20radioactive%20sources.md) | Alternatives to industrial radioactive sources. |
@@ -517,6 +519,7 @@ I74subpart 1—hybrid vehicles
 |  |  |
 | :--- | ---: |
 | [16421\.](Subchapter%20012%20%28XII%29%20-%20Electricity/Part%20A%20-%20Transmission%20Infrastructure%20Modernization/%C2%A7%2016421%20-%20Third-party%20finance.md) | Third-party finance. |
+| [16421a.](Subchapter%20012%20%28XII%29%20-%20Electricity/Part%20A%20-%20Transmission%20Infrastructure%20Modernization/%C2%A7%2016421a%20-%20Western%20Area%20Power%20Administration%20borrowing%20authority.md) | Western Area Power Administration borrowing authority. |
 | [16422\.](Subchapter%20012%20%28XII%29%20-%20Electricity/Part%20A%20-%20Transmission%20Infrastructure%20Modernization/%C2%A7%2016422%20-%20Advanced%20transmission%20technologies.md) | Advanced transmission technologies. |
 | [16423\.](Subchapter%20012%20%28XII%29%20-%20Electricity/Part%20A%20-%20Transmission%20Infrastructure%20Modernization/%C2%A7%2016423%20-%20Advanced%20Power%20System%20Technology%20Incentive%20Program.md) | Advanced Power System Technology Incentive Program. |
 
@@ -605,6 +608,7 @@ I74subpart 1—hybrid vehicles
 | [16513\.](Subchapter%20015%20%28XV%29%20-%20Incentives%20for%20Innovative%20Technologies/%C2%A7%2016513%20-%20Eligible%20projects.md) | Eligible projects. |
 | [16514\.](Subchapter%20015%20%28XV%29%20-%20Incentives%20for%20Innovative%20Technologies/%C2%A7%2016514%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [16515\.](Subchapter%20015%20%28XV%29%20-%20Incentives%20for%20Innovative%20Technologies/%C2%A7%2016515%20-%20Limitation%20on%20commitments%20to%20guarantee%20loans.md) | Limitation on commitments to guarantee loans. |
+| [16516\.](Subchapter%20015%20%28XV%29%20-%20Incentives%20for%20Innovative%20Technologies/%C2%A7%2016516%20-%20Temporary%20program%20for%20rapid%20deployment%20of%20renewable%20energy%20and%20electric%20power%20transmission%20projects.md) | Temporary program for rapid deployment of renewable energy and electric power transmission projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

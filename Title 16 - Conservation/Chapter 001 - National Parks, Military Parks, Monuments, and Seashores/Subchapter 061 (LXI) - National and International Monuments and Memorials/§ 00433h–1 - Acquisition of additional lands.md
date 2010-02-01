@@ -6,5 +6,5 @@ The Secretary of the Interior is authorized and directed to acquire by purchase,
 
 #### Appropriations
 
-Section 3 of Pub. L. 85–401 provided that: “There are hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such amounts, not to exceed $20,000, as may be necessary to carry out the provisions of this Act \[this section\].”
+Section 3 of Pub. L. 85–401 provided that: “There are hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, suchamounts, not to exceed $20,000, as may be necessary to carry out the provisions of this Act \[this section\].”
 

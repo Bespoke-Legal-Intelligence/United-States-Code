@@ -54,7 +54,7 @@ Pub. L. 110–241, §2, June 3, 2008, 122 Stat. 1565, provided that:
 
 Findings.—The Congress finds as follows:
 
-&emsp;“(1) The Fair and Accurate Credit Transactions Act \[of 2003\] (commonly referred to as ‘FACTA’) \[Pub. L. 108–159, see Short Title of 2003 Amendment note set out under section 1601 of this title\] was enacted intolaw in 2003 and 1 of the purposes of such Act is to prevent criminals from obtaining access to consumers’ private financial and credit information in order to reduce identity theft and credit card fraud.
+&emsp;“(1) The Fair and Accurate Credit Transactions Act \[of 2003\] (commonly referred to as ‘FACTA’) \[Pub. L. 108–159, see Short Title of 2003 Amendment note set out under section 1601 of this title\] was enacted into law in 2003 and 1 of the purposes of such Act is to prevent criminals from obtaining access to consumers’ private financial and credit information in order to reduce identity theft and credit card fraud.
 
 &emsp;“(2) As part of that law, the Congress enacted a requirement, through an amendment to the Fair Credit Reporting Act \[15 U.S.C. 1681 et seq.\], that no person that accepts credit cards or debit cards for the transaction of business shall print more than the last 5 digits of the card number or the expiration date upon any receipt provided to the card holder at the point of the sale or transaction.
 

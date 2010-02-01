@@ -116,7 +116,7 @@ This chapter, referred to in subsecs. (f) and (g), was in the original “this A
 
 #### Amendments
 
-2008—Pub. L. 110–293 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h) relating to a pilot program for the placement of health care professionals in overseas areas severely affected by HIV/AIDS, tuberculosis, and malaria.
+2008—Pub. L. 110–293 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h)relating to a pilot program for the placement of health care professionals in overseas areas severely affected by HIV/AIDS, tuberculosis, and malaria.
 
 #### Delegation of Functions
 

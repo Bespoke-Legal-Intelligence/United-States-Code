@@ -114,7 +114,7 @@ Health Profession Defined.—In this section, the term “health profession” m
 
 &emsp;(5) Any health profession performed by officers of the Nurse Corps of a uniformed service or by officers designated as a nurse.
 
-&emsp;(6) Any health profession performed by officers in the Veterinary Corps of a uniformedservice or by officers designated as a veterinary officer.
+&emsp;(6) Any health profession performed by officers in the Veterinary Corps of a uniformed service or by officers designated as a veterinary officer.
 
 &emsp;(7) Any health profession performed by officers designated as a physician assistant.
 
@@ -122,11 +122,13 @@ Health Profession Defined.—In this section, the term “health profession” m
 
 (k)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2009.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2010.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 169; amended Pub. L. 110–417, \[div. A\], title VI, §618(c), Oct. 14, 2008, 122 Stat. 4486.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 169; amended Pub. L. 110–417, \[div. A\], title VI, §618(c), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(5), Oct. 28, 2009, 123 Stat. 2354.)
 
 #### Amendments
+
+2009—Subsec. (k). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 
 2008—Subsec. (e)(1)(D)(i). Pub. L. 110–417 substituted “dental officers” for “dental surgeons”.
 

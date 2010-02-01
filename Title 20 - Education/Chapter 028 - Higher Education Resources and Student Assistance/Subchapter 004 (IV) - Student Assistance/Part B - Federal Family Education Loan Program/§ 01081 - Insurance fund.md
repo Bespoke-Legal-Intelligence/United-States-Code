@@ -8,7 +8,7 @@ There is hereby established a student loan insurance fund (hereinafter in this s
 
 If at any time the moneys in the fund are insufficient to make payments in connection with the default of any loan insured by the Secretary under this part, or in connection with any guaranty agreement made under section 1078(c) of this title, the Secretary is authorized, to the extent provided in advance by appropriations Acts, to issue to the Secretary of the Treasury notes or other obligations in such forms and denominations, bearing such maturities, and subject to such terms and conditions as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the notes or other obligations. The Secretary of the Treasury is authorized and directed to purchase any notes and other obligations issued hereunder and for that purpose is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under that chapter, are extended to include any purchase of such notes and obligations. The Secretary of the Treasury may at any time sell any of the notes or other obligations acquired under this subsection. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes or other obligations shall be treated as public debt transactions of the United States. Sums borrowed under the subsection shall be deposited in the fund and redemption of such notes and obligations shall be made by the Secretary from such fund.
 
-(Pub. L. 89–329, title IV, §431, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1400; amended Pub. L. 100–50, §10(w), June 3, 1987, 101 Stat. 346.)
+(Pub. L. 89–329, title IV, §431, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat.1400; amended Pub. L. 100–50, §10(w), June 3, 1987, 101 Stat. 346.)
 
 #### Codification
 
@@ -28,7 +28,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Federal Family Education Loan Insurance Fund
 
-Pub. L. 105–244, title IV, §434, Oct. 7, 1998, 112 Stat. 1711, provided that: “Any funds in the insurance fund, as established under section 431 of the Higher Education Act of 1965 (20 U.S.C. 1081), on the date of enactment of this Act \[Oct. 7, 1998\] shall be transferred to and deposited in the Treasury. All funds received bythe Secretary of Education under subsection (a) of such section after the date of enactment of this Act shall be deposited into the fund in accordance with such subsection.”
+Pub. L. 105–244, title IV, §434, Oct. 7, 1998, 112 Stat. 1711, provided that: “Any funds in the insurance fund, as established under section 431 of the Higher Education Act of 1965 (20 U.S.C. 1081), on the date of enactment of this Act \[Oct. 7, 1998\] shall be transferred to and deposited in the Treasury. All funds received by the Secretary of Education under subsection (a) of such section after the date of enactment of this Act shall be deposited into the fund in accordance with such subsection.”
 
 #### Transfer of Assets and Liabilities of the Vocational Student Loan Insurance Fund
 

@@ -4,7 +4,7 @@
 
 Not later than 180 days after October 28, 1991, each department, agency, or other entity of the United States Government engaged in foreign policy formulation, execution, or support shall develop procedures for its historical office (or a designated individual in the event that there is no historical office)—
 
-&emsp;(1) to coordinate with the State Department's Office of the Historian in selecting records for possible inclusion in the FRUS series;
+&emsp;(1) to coordinate with the State Department's Office of the Historian in selectingrecords for possible inclusion in the FRUS series;
 
 &emsp;(2) to permit full access to the original, unrevised records by such individuals holding appropriate security clearances as have been designated by the Historian as liaison to that department, agency, or entity, for purposes of this chapter, and by members of the Advisory Committee; and
 

@@ -62,7 +62,7 @@ Pub. L. 106–568, title II, §201, Dec. 27, 2000, 114 Stat. 2872, provided that
 
 #### Short Title
 
-Section 1(a) of Pub. L. 104–330 provided that: “This Act \[enacting this chapter and section 12899h–1 of Title 42, The Public Health and Welfare, amending sections 1715z–13a and 1721 of Title 12, Banks and Banking, and sections 1437a, 1437c to 1437e, 1437g, 1437<i>l</i>, 1437n, 1437u to 1437x, 1437aaa–5, 1437aaa–6, 1439, 11371 to 11376, 11382, 11401, 11403g, 11408, 11902 to 11905, 12747, and 12838 of Title 42, repealing sections 1437aa to 1437ee of Title 42, enacting provisions set out as notes under this section and sections 4181 and 4211 of this title and sections 11371, 12747, and 12899h–1 of Title 42, amending provisions set out as a note under section 11301 of Title 42, and repealing provisions set out as a note under section 1701z–6 of Title 12\] may be cited as the ‘Native American Housing Assistance and Self-Determination Act of 1996’.”
+Section 1(a) of Pub. L. 104–330 provided that: “This Act \[enacting this chapter and section 12899h–1 of Title 42, The Public Health and Welfare, amending sections 1715z–13a and 1721 of Title 12, Banks and Banking, and sections 1437a, 1437c to 1437e, 1437g, 1437<i>l</i>, 1437n, 1437u to1437x, 1437aaa–5, 1437aaa–6, 1439, 11371 to 11376, 11382, 11401, 11403g, 11408, 11902 to 11905, 12747, and 12838 of Title 42, repealing sections 1437aa to 1437ee of Title 42, enacting provisions set out as notes under this section and sections 4181 and 4211 of this title and sections 11371, 12747, and 12899h–1 of Title 42, amending provisions set out as a note under section 11301 of Title 42, and repealing provisions set out as a note under section 1701z–6 of Title 12\] may be cited as the ‘Native American Housing Assistance and Self-Determination Act of 1996’.”
 
 #### Findings of 2005 Amendment
 
@@ -94,7 +94,7 @@ Pub. L. 109–136, §2, Dec. 22, 2005, 119 Stat. 2643, provided that: “Congres
 
 &emsp;“(C) the Department of Agriculture has been a significant funding source for housing for Indian tribes;
 
-&emsp;“(D) to allow assistance provided under the Act and assistance provided by the Secretary of Agriculture under other law to be combined to meet the severehousing needs of Indian tribes, the Housing Act of 1949 (42 U.S.C. 1471 \[1441\] et seq.) should be amended to allow for the preference referred to in subparagraph (A) by granting an exemption from title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.) and title VIII of the Civil Rights Act of 1968 (42 U.S.C. 3601 et seq.); and
+&emsp;“(D) to allow assistance provided under the Act and assistance provided by the Secretary of Agriculture under other law to be combined to meet the severe housing needs of Indian tribes, the Housing Act of 1949 (42 U.S.C. 1471 \[1441\] et seq.) should be amended to allow for the preference referred to in subparagraph (A) by granting an exemption from title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.) and title VIII of the Civil Rights Act of 1968 (42 U.S.C. 3601 et seq.); and
 
 &emsp;“(E) federally recognized Indian tribes exercising powers of self-government are governed by the Indian Civil Rights Act (25 U.S.C. 1301 et seq.); and
 

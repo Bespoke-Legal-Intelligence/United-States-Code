@@ -142,7 +142,7 @@ Goals.—The goals of the innovative pavement research and deployment program sh
 
 &emsp;(3)
 
-Research to improve nhs pavement.—The Secretary shall obligate for each of fiscal years 2006 through 2009 from funds made available to carry out this subsection, $4,100,000 to conduct research to improve asphalt pavement, $4,100,000 to conduct research to improve concrete pavement, $4,100,000 to conduct research to improve alternative materials used in highways (including alternative materials used in highway drainage applications), and $2,450,000 to conduct research to improve aggregates used in highways on the National Highway System.
+Research to improve nhs pavement.—The Secretary shall obligate for each of fiscal years 2006 through 2009 from funds made available to carry out this subsection, $4,100,000 to conduct research to improve asphalt pavement, $4,100,000 to conduct research to improve concrete pavement, $4,100,000 to conduct research to improve alternative materials used in highways (including alternative materials used in highway drainage applications), and $2,450,000 to conduct research to improveaggregates used in highways on the National Highway System.
 
 (d)
 
@@ -246,7 +246,7 @@ In general.—The Secretary \[of Transportation\] shall carry out a program to d
 
 “(2)
 
-Funding.—Of the amounts made available by section 5101(a)(1) of this Act \[119 Stat. 1779\], $4,100,000 for each of fiscal years 2006 through 2009 shall be available to carry out this subsection.”
+Funding.—Of the amounts made available by section 5101(a)(1) of this Act \[119 Stat. 1779\], $4,100,000 foreach of fiscal years 2006 through 2009 shall be available to carry out this subsection.”
 
 #### Steel Bridge Testing
 

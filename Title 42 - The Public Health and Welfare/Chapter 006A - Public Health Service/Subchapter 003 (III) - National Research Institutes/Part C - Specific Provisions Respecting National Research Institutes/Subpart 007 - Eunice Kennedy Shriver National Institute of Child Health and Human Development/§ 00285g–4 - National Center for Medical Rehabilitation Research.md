@@ -130,7 +130,7 @@ Time for completion.—The agreements required in paragraph (1)(B) shall be made
 
 “(3)
 
-Definition of medical rehabilitation.—For purposes of this subsection, the term ‘medical rehabilitation’ means the rehabilitation of individuals with physical disabilities resulting from diseases or disorders of the neurological, musculoskeletal, cardiovascular, pulmonary, or any other physiological system.”
+Definition of medical rehabilitation.—For purposes of this subsection, the term ‘medical rehabilitation’ means the rehabilitation of individuals with physical disabilities resulting from diseases or disorders ofthe neurological, musculoskeletal, cardiovascular, pulmonary, or any other physiological system.”
 
 #### Termination of Advisory Boards
 

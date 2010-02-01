@@ -26,6 +26,10 @@ A prior section 7101, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523; Pub. L. 91�
 
 Chapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
+#### Short Title
+
+This chapter is popularly known as the “Federal Service Labor-Management Relations Act”.
+
 #### Employee Surveys
 
 Pub. L. 108–136, div. A, title XI, §1128, Nov. 24, 2003, 117 Stat. 1641, provided that:
@@ -206,7 +210,7 @@ Sec. 7. <i>Recognition in general</i>. (a) An agency shall accord exclusive reco
 
 (b) A labor organization seeking recognition shall submit to the agency a roster of its officers and representatives, a copy of its constitution and by-laws, and a statement of its objectives.
 
-(c) When recognition of a labor organization has been accorded, the recognition continues as long as the organization continues to meet the requirements of this Order applicable to that recognition, except that this section does not require an election to determine whether an organization should become, or continue to be recognized as, exclusive representative of the employees in any unit or subdivision thereof within 12months after a prior valid election with respect to such unit.
+(c) When recognition of a labor organization has been accorded, the recognition continues as long as the organization continues to meet the requirements of this Order applicable to that recognition, except that this section does not require an election to determine whether an organization should become, or continue to be recognized as, exclusive representative of the employees in any unit or subdivision thereof within 12 months after a prior valid election with respect to such unit.
 
 (d) Recognition of a labor organization does not—
 
@@ -224,7 +228,7 @@ Sec. 8. \[Revoked by Ex. Ord. No. 11616, Aug. 26, 1971, 36 F.R. 17319.\]
 
 Sec. 9. <i>National consultation rights</i>. (a) An agency shall accord national consultation rights to a labor organization which qualifies under criteria established by the Federal Labor Relations Authority as the representative of a substantial number of employees of the agency. National consultation rights shall not be accorded for any unit where a labor organization already holds exclusive recognition at the national level for that unit. The granting of national consultation rights does not preclude an agency from appropriate dealings at the national level with other organizations on matters affecting their members. An agency shall terminate national consultation rights when the labor organization ceases to qualify under the established criteria.
 
-(b) When a labor organization has been accorded national consultation rights, the agency, through appropriate officials, shall notify representatives of the organization of proposed substantive changes in personnel policies that affect employees it represents and provide an opportunity for the organization to comment on the proposed changes. The labor organization may suggest changes in the agency's personnel policies and have its views carefully considered. It may consult in person at reasonable times, on request, with appropriate officials on personnel policy matters, and at all times present its views thereon in writing. An agency is not required to consult with a labor organization on any matter on which it would not be required to meet and confer if the organization were entitled to exclusive recognition.
+(b) When a labor organization has been accorded national consultation rights, the agency, through appropriate officials, shall notify representatives of the organization of proposed substantive changes in personnel policies that affect employees it represents and provide an opportunity for the organization to comment on the proposed changes. The labor organization may suggestchanges in the agency's personnel policies and have its views carefully considered. It may consult in person at reasonable times, on request, with appropriate officials on personnel policy matters, and at all times present its views thereon in writing. An agency is not required to consult with a labor organization on any matter on which it would not be required to meet and confer if the organization were entitled to exclusive recognition.
 
 (c) Questions as to the eligibility of labor organizations for national consultation rights may be referred to the Authority for decision.
 
@@ -258,7 +262,7 @@ Sec. 10. <i>Exclusive recognition</i>. (a) An agency shall accord exclusive reco
 
 Sec. 11. <i>Negotiation of agreements</i>. (a) An agency and a labor organization that has been accorded exclusive recognition, through appropriate representatives, shall meet at reasonable times and confer in good faith with respect to personnel policies and practices and matters affecting working conditions, so far as may be appropriate under applicable laws and regulations, including policies set forth in the Federal Personnel Manual; published agency policies and regulations for which a compelling need exists under criteria established by the Federal Labor Relations Authority and which are issued at the agency headquarters level or at the level of a primary national subdivision; a national or other controlling agreement at a higher level in the agency; and this order. They may negotiate an agreement, or any question arising thereunder; determine appropriate techniques, consistent with section 17 of this order, to assist in such negotiation; and execute a written agreement or memorandum of understanding.
 
-(b) In prescribing regulations relating to personnel policies and practices and working conditions, an agency shall have due regard for the obligation imposed by paragraph (a) of this section. However, the obligation to meet and confer does not include matters with respect to the mission of an agency; its budget; its organization; the number of employees; and the numbers, types, and grades of positions or employees assigned to an organizational unit, work project or tour of duty; the technology of performing its work; or its internalsecurity practices. This does not preclude the parties from negotiating agreements providing appropriate arrangements for employees adversely affected by the impact of realignment of work forces or technological change.
+(b) In prescribing regulations relating to personnel policies and practices and working conditions, an agency shall have due regard for the obligation imposed by paragraph (a) of this section. However, the obligation to meet and confer does not include matters with respect to the mission of an agency; its budget; its organization; the number of employees; and the numbers, types, and grades of positions or employees assigned to an organizational unit, work project or tour of duty; the technology of performing its work; or its internal security practices. This does not preclude the parties from negotiating agreements providing appropriate arrangements for employees adversely affected by the impact of realignment of work forces or technological change.
 
 (c) If, in connection with negotiations, an issue develops as to whether a proposal is contrary to law, regulation, controlling agreement, or this order and therefore not negotiable, it shall be resolved as follows:
 
@@ -411,4 +415,118 @@ Sec. 26. <i>Effective date</i>. This Order is effective on January 1, 1970, exce
 #### Executive Order No. 12871
 
 Ex. Ord. No. 12871, Oct. 1, 1993, 58 F.R. 52201, as amended by Ex. Ord. No. 12983, Dec. 21, 1995, 60 F.R. 66855; Ex. Ord. No. 13156, §1, May 17, 2000, 65 F.R. 31785, which established the National Partnership Council and required the head of certain Government agencies to implement labor-management partnerships to help reform Government, was revoked by Ex. Ord. No. 13203, Feb. 17, 2001, 66 F.R. 11227.
+
+#### Ex. Ord. No. 13522. Creating Labor-Management Forums to Improve Delivery of Government Services
+
+Ex. Ord. No. 13522, Dec. 9, 2009, 74 F.R. 66203, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish a cooperative and productive form of labor-management relations throughout the executive branch, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. Federal employees and their union representatives are an essential source of front-line ideas and information about the realities of delivering Government services to the American people. A nonadversarial forum for managers, employees, and employees’ union representatives to discuss Government operations will promote satisfactory labor relations and improve the productivity and effectiveness of the Federal Government. Labor-management forums, as complements to the existing collective bargaining process, will allow managers and employees to collaborate in continuing to deliver the highest quality services to the American people. Management should discuss workplace challenges and problems with labor and endeavor to develop solutions jointly, rather than advise union representatives of predetermined solutions to problems and then engage in bargaining over the impact and implementation of the predetermined solutions.
+
+The purpose of this order is to establish a cooperative and productive form of labor-management relations throughout the executive branch.
+
+Sec. 2. <i>The National Council on Federal Labor-Management Relations</i>. There is established the National Council on Federal Labor-Management Relations (Council).
+
+(a) <i>Membership</i>. The Council shall be composed of the following members appointed or designated by the President:
+
+&emsp;(i) the Director of the Office of Personnel Management (OPM) and Deputy Director for Management of the Office of Management and Budget (OMB), who shall serve as Co-Chairs of the Council;
+
+&emsp;(ii) the Chair of the Federal Labor Relations Authority;
+
+&emsp;(iii) a Deputy Secretary or other officer with department- or agency-wide authority from each of five executive departments or agencies not otherwise represented on the Council, who shall serve for terms of 2 years;
+
+&emsp;(iv) the President of the American Federation of Government Employees, AFL-CIO;
+
+&emsp;(v) the President of the National Federation of Federal Employees;
+
+&emsp;(vi) the President of the National Treasury Employees Union;
+
+&emsp;(vii) the President of the International Federation of Professional and Technical Engineers, AFL-CIO;
+
+&emsp;(viii) the heads of three other labor unions that represent Federal employees and are not otherwise represented on the Council, who shall serve for terms of 2 years;
+
+&emsp;(ix) the President of the Senior Executives Association; and
+
+&emsp;(x) the President of the Federal Managers Association.
+
+(b) <i>Responsibilities and Functions</i>. The Council shall advise the President on matters involving labor-management relations in the executive branch. Its activities shall include, to the extent permitted by law:
+
+&emsp;(i) supporting the creation of department- or agency-level labor-management forums and promoting partnership efforts between labor and management in the executive branch;
+
+&emsp;(ii) developing suggested measurements and metrics for the evaluation of the effectiveness of the Council and department or agency labor-management forums in order to promote consistent, appropriate, and administratively efficient measurement and evaluation processes across departments and agencies;
+
+&emsp;(iii) collecting and disseminating information about, and providing guidance on, labor-management relations improvement efforts in the executive branch, including results achieved;
+
+&emsp;(iv) utilizing the expertise of individuals both within and outside the Federal Government to foster successful labor-management relations, including through training of department and agency personnel in methods of dispute resolution and cooperative methods of labor-management relations;
+
+&emsp;(v) developing recommendations for innovative ways to improve delivery of services and products to the public while cutting costs and advancing employee interests;
+
+&emsp;(vi) serving as a venue for addressing systemic failures of department- or agency-level forums established pursuant to section 3 of this order; and
+
+&emsp;(vii) providing recommendations to the President for the implementation of several pilot programs within the executive branch, described in section 4 of this order, for bargaining over subjects set forth in 5 U.S.C. 7106(b)(1).
+
+(c) <i>Administration</i>.
+
+&emsp;(i) The Co-Chairs shall convene and preside at meetings of the Council, determine its agenda, and direct its work.
+
+&emsp;(ii) The Council shall seek input from nonmember executive departments and agencies, particularly smaller agencies. It also may, from time to time, invite persons from the private and public sectors to submit information. The Council shall also seek input from Federal manager and professional associations, companies, nonprofit organizations, State and local governments, Federal employees, and customers of Federal services, as needed.
+
+&emsp;(iii) To the extent permitted by law and subject to the availability of appropriations, OPM shall provide such facilities, support, and administrative services to the Council as the Director of OPM deems appropriate.
+
+&emsp;(iv) Members of the Council shall serve without compensation for their work on the Council, but may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service (5 U.S.C. 5701–5707), consistent with the availability of funds.
+
+&emsp;(v) The heads of executive departments and agencies shall, to the extent permitted by law, provide to the Council such assistance, information, and advice as the Council may require for purposes of carrying out its functions.
+
+&emsp;(vi) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the Council, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Director of OPM in accordance with the guidelines that have been issued by the Administrator of General Services.
+
+(d) <i>Termination</i>. The Council shall terminate 2 years after the date of this order unless extended by the President.
+
+Sec. 3. <i>Implementation of Labor-Management Forums Throughout the Executive Branch</i>.
+
+(a) The head of each executive department or agency that is subject to the provisions of the Federal Service Labor-Management Relations Act (5 U.S.C. 7101 <i>et seq</i>.), or any other authority permitting employees of such department or agency to select an exclusive representative shall, to the extent permitted by law:
+
+&emsp;(i) establish department- or agency-level labor-management forums by creating labor-management committees or councils at the levels of recognition and other appropriate levels agreed to by labor and management, or adapting existing councils or committees if such groups exist, to help identify problems and propose solutions to better serve the public and agency missions;
+
+&emsp;(ii) allow employees and their union representatives to have pre-decisional involvement in all workplace matters to the fullest extent practicable, without regard to whether those matters are negotiable subjects of bargaining under 5 U.S.C. 7106; provide adequate information on such matters expeditiously to union representatives where not prohibited by law; and make a good-faith attempt to resolve issues concerning proposed changes in conditions of employment, including those involving the subjects set forth in 5 U.S.C. 7106(b)(1), through discussions in its labor-management forums; and
+
+&emsp;(iii) evaluate and document, in consultation with union representatives and consistent with the purposes of this order and any further guidance provided by the Council, changes in employee satisfaction, manager satisfaction, and organizational performance resulting from the labor-management forums.
+
+(b) Each head of an executive department or agency in which there exists one or more exclusive representatives shall, in consultation with union representatives, prepare and submit for approval, within 90 days of the date of this order, a written implementation plan to the Council. The plan shall:
+
+&emsp;(i) describe how the department or agency will conduct a baseline assessment of the current state of labor relations within the department or agency;
+
+&emsp;(ii) report the extent to which the department or agency has established labor-management forums, as set forth in subsection (a)(i) of this section, or may participate in the pilot projects described in section 4 of this order;
+
+&emsp;(iii) address how the department or agency will work with the exclusive representatives of its employees through its labor-management forums to develop department-, agency-, or bargaining unit-specific metrics to monitor improvements in areas such as labor-management satisfaction, productivity gains, cost savings, and other areas as identified by the relevant labor-management forum's participants; and
+
+&emsp;(iv) explain the department's or agency's plan for devoting sufficient resources to the implementation of the plan.
+
+(c) The Council shall review each executive department or agency implementation plan within 30 days of receipt and provide a recommendation to the Co-Chairs as to whether to certify that the plan satisfies all requirements of this order. Plans that are determined by the Co-Chairs to be insufficient will be returned to the department or agency with guidance for improvement and resubmission within 30 days. Each department or agency covered by subsection (b) of this section must have a certified implementation plan in place no later than 150 days after the date of this order, unless the Co-Chairs of the Council authorize an extension of the deadline.
+
+Sec. 4. <i>Negotiation over Permissive Subjects of Bargaining</i>.
+
+(a) In order to evaluate the impact of bargaining over permissive subjects, several pilot projects of specified duration shall be established in which some executive departments or agencies elect to bargain over some or all of the subjects set forth in 5 U.S.C. 7106(b)(1) and waive any objection to participating in impasse procedures set forth in 5 U.S.C. 7119 that is based on the subjects being permissive. The Council shall develop recommendations for establishing the pilot projects, including (i) recommendations for evaluating such pilot projects on the basis, among other things, of their impacts on organizational performance, employee satisfaction, and labor relations of the affected departments or agencies; (ii) recommended methods for evaluating the effectiveness of dispute resolution procedures adopted and followed in the course of the pilot projects; and (iii) a recommended timeline for expeditious implementation of the pilot programs.
+
+(b) The Council shall present its recommendations to the President within 150 days after the date of this order.
+
+(c) No later than 18 months after implementation of the pilot projects, the Council shall submit a report to the President evaluating the results of the pilots and recommending appropriate next steps with respect to agency bargaining over the subjects set forth in 5 U.S.C. 7106(b)(1).
+
+Sec. 5. <i>General Provisions</i>.
+
+(a) Nothing in this order shall abrogate any collective bargaining agreements in effect on the date of this order.
+
+(b) Nothing in this order shall be construed to limit, preclude, or prohibit any head of an executive department or agency from electing to negotiate over any or all of the subjects set forth in 5 U.S.C. 7106(b)(1) in any negotiation.
+
+(c) Nothing in this order shall be construed to impair or otherwise affect:
+
+&emsp;(i) authority granted by law to an executive department, agency, or the head thereof; or
+
+&emsp;(ii) functions of the Director of OMB relating to budgetary, administrative, or legislative proposals.
+
+(d) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(e) This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right to administrative or judicial review, or any other right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

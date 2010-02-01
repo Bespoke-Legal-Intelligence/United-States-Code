@@ -1,6 +1,6 @@
 ### §17g. Equipment required by field employees; by whom furnished and maintained
 
-The Secretary of the Interior may require field employees of the National Park Service to furnish horses, motor and other vehicles, and miscellaneous equipment necessary for the performance of their official work; and he may provide, at Government expense, forage, care, and housing for animals, and housing or storage and fuel for vehicles and other equipment so required to be furnished.
+The Secretary of the Interior may require field employees of the National Park Service to furnish horses, motor and other vehicles, and miscellaneous equipment necessary for the performance of their official work; and he may provide, at Government expense, forage, care, andhousing for animals, and housing or storage and fuel for vehicles and other equipment so required to be furnished.
 
 (May 26, 1930, ch. 324, §8, 46 Stat. 383.)
 

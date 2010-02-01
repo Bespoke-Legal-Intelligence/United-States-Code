@@ -22,7 +22,7 @@ On the transfer of administrative jurisdiction under section 460<i>lll</i>–41 
 
 #### (3) Status of unit
 
-&emsp;The Secretary may administer the Recreation Area as a separate unit of the National Forest System or in conjunction with an existing national forest.
+&emsp;The Secretary may administer the Recreation Area as a separate unit of the NationalForest System or in conjunction with an existing national forest.
 
 #### (c) Area included
 

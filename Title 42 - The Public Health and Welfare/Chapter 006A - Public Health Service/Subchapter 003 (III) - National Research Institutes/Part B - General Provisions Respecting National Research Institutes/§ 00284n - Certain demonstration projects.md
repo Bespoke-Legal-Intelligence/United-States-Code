@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;From amounts to be appropriated under section 282a(b) of this title, the Secretary of Health and Human Services, acting through the Director of NIH, (in this subsection referred to as the “Secretary”) in consultation with the Director of the National Science Foundation, the Secretary of Energy, andother agency heads when necessary, may allocate funds for the national research institutes and national centers to make grants for the purpose of improving the public health through demonstration projects for biomedical research at the interface between the biological, behavioral, and social sciences and the physical, chemical, mathematical, and computational sciences.
+&emsp;From amounts to be appropriated under section 282a(b) of this title, the Secretary of Health and Human Services, acting through the Director of NIH, (in this subsection referred to as the “Secretary”) in consultation with the Director of the National Science Foundation, the Secretary of Energy, and other agency heads when necessary, may allocate funds for the national research institutes and national centers to make grants for the purpose of improving the public health through demonstration projects for biomedical research at the interface between the biological, behavioral, and social sciences and the physical, chemical, mathematical, and computational sciences.
 
 #### (2) Goals, priorities, and methods; interagency collaboration
 
@@ -30,7 +30,7 @@
 
 #### (3) Administration of program
 
-&emsp;Activities relating to research described in paragraph (1) shall be designed by the Director of NIH or the head of a national research institute or national center, as applicable, to enable such research to be carried out with maximum flexibility and speed.
+&emsp;Activities relating to research described in paragraph (1) shall be designed by the Directorof NIH or the head of a national research institute or national center, as applicable, to enable such research to be carried out with maximum flexibility and speed.
 
 #### (4) Public-private partnerships
 

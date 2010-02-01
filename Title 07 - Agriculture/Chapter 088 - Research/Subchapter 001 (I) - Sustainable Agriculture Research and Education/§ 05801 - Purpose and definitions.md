@@ -48,7 +48,7 @@ For purposes of this subchapter:
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (a) and (b), was in the original “this subtitle”, meaning subtitle B\(§§1619–1629) of title XVI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3733, which enacted this subchapter, repealed sections 4701 to 4710 of this title, and repealed provisions set out as a note under section 4701 of this title. For complete classification of subtitle B to the Code, see Tables.
+This subchapter, referred to in subsecs. (a) and (b), was in the original “this subtitle”, meaning subtitle B (§§1619–1629) of title XVI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3733, which enacted this subchapter, repealed sections 4701 to 4710 of this title, and repealed provisions set out as a note under section 4701 of this title. For complete classification of subtitle B to the Code, see Tables.
 
 #### Codification
 

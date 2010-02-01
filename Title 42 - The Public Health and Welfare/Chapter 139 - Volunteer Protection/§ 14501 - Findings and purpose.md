@@ -30,7 +30,7 @@ The Congress finds and declares that—
 
 #### (b) Purpose
 
-The purpose of this chapter is to promote the interests of social service program beneficiaries and taxpayers and to sustain the availability of programs, nonprofit organizations, and governmental entities that depend on volunteer contributions by reforming the laws to provide certain protections from liability abuses related tovolunteers serving nonprofit organizations and governmental entities.
+The purpose of this chapter is to promote the interests of social service program beneficiaries and taxpayers and to sustain the availability of programs, nonprofit organizations, and governmental entities that depend on volunteer contributions by reforming the laws to provide certain protections from liability abuses related to volunteers serving nonprofit organizations and governmental entities.
 
 (Pub. L. 105–19, §2, June 18, 1997, 111 Stat. 218.)
 
@@ -44,7 +44,7 @@ In General.—This Act \[enacting this chapter\] shall take effect 90 days after
 
 “(b)
 
-Application.—This Act applies to any claim for harm caused by an act or omission of a volunteer where that claim is filed on or after the effective date of this Act but only if the harm that is the subject of the claim or the conduct that caused such harm occurred after such effective date.”
+Application.—This Act applies to any claim for harm caused by an act or omission of a volunteer wherethat claim is filed on or after the effective date of this Act but only if the harm that is the subject of the claim or the conduct that caused such harm occurred after such effective date.”
 
 #### Short Title
 

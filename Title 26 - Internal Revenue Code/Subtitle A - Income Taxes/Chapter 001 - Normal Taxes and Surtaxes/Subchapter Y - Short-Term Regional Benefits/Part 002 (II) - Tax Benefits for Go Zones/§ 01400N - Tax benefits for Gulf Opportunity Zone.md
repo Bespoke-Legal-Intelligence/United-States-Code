@@ -108,7 +108,7 @@
 
 #### (1) In general
 
-&emsp;With respect to a bond described in paragraph (3), one additional advance refunding after the date of the enactment of this section and before January 1, 2011, shall be allowed under the applicable rules of section 149(d) if—
+&emsp;With respect to a bond described in paragraph (3), one additional advance refundingafter the date of the enactment of this section and before January 1, 2011, shall be allowed under the applicable rules of section 149(d) if—
 
 &emsp;&emsp;(A) the Governor of the State designates the advance refunding bond for purposes of this subsection, and
 
@@ -160,7 +160,7 @@
 
 #### (B) Gulf Opportunity housing amount
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “Gulf Opportunity housing amount” means,for any calendar year, the amount equal to the product of $18.00 multiplied by the portion of the State population which is in the Gulf Opportunity Zone (as determined on the basis of the most recent census estimate of resident population released by the Bureau of Census before August 28, 2005).
+&emsp;&emsp;For purposes of subparagraph (A), the term “Gulf Opportunity housing amount” means, for any calendar year, the amount equal to the product of $18.00 multiplied by the portion of the State population which is in the Gulf Opportunity Zone (as determined on the basis of the most recent census estimate of resident population released by the Bureau of Census before August 28, 2005).
 
 #### (C) Allocations treated as made first from additional allocation amount for purposes of determining carryover
 
@@ -266,7 +266,7 @@
 
 &emsp;&emsp;(A) by substituting “August 27, 2005” for “December 31, 2007” each place it appears therein,
 
-&emsp;&emsp;(B) without regard to “and before January 1, 2009” in clause (i) thereof, and
+&emsp;&emsp;(B) without regard to “and before January 1, 2010” in clause (i) thereof, and
 
 &emsp;&emsp;(C) by substituting “qualified Gulf Opportunity Zone property” for “qualified property” in clause (iv) thereof.
 
@@ -282,7 +282,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any specified Gulf Opportunity Zone extension property, paragraph (2)(A) shall be applied without regard to clause (v) thereof.
+&emsp;&emsp;In the case of any specified Gulf Opportunity Zone extension property, paragraph\(2)(A) shall be applied without regard to clause (v) thereof.
 
 #### (B) Specified Gulf Opportunity Zone extension property
 
@@ -588,7 +588,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 &emsp;&emsp;(A) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;&emsp;(B) the sum of the credits allowable under part IV of subchapter A (other than subparts C and I and this subsection).
+&emsp;&emsp;(B) the sum of the credits allowable under part IV of subchapter A (other than subparts C, I, and J and this subsection).
 
 #### (4) Gulf tax credit bond
 
@@ -674,7 +674,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Under regulations prescribed by the Secretary, in the case of a partnership, trust, S corporation, or other pass-thru entity, rules similar to the rules of section 41(g)shall apply with respect to the credit allowable under paragraph (1).
+&emsp;&emsp;&emsp;Under regulations prescribed by the Secretary, in the case of a partnership, trust, S corporation, or other pass-thru entity, rules similar to the rules of section 41(g) shall apply with respect to the credit allowable under paragraph (1).
 
 #### (ii) No basis adjustment
 
@@ -774,7 +774,7 @@ For purposes of determining if any residential rental project meets the requirem
 
 &emsp;&emsp;&emsp;Clause (i)(II) shall not apply to any real property if the portion so dedicated is less than 100 square feet.
 
-(Added Pub. L. 109–135, title I, §101(a), Dec. 21, 2005, 119 Stat. 2579; amended Pub. L. 109–432, div. A, title I, §§107(b)(2), 120(a), (b), Dec. 20, 2006, 120 Stat. 2939, 2943; Pub. L. 110–28, title VIII, §§8221–8223, May 25, 2007, 121 Stat. 194, 195; Pub. L. 110–185, title I, §103(c)(9), (10), Feb. 13, 2008, 122 Stat. 619; Pub. L. 110–234, title XV, §15316(c)(1), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(1), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–289, div. C, title III, §3082(b)(1), (c)(1), July 30, 2008, 122 Stat. 2907; Pub. L. 110–343, div. C, title III, §320(a), Oct. 3, 2008, 122 Stat. 3873.)
+(Added Pub. L. 109–135, title I, §101(a), Dec. 21, 2005, 119 Stat. 2579; amended Pub. L. 109–432, div. A, title I, §§107(b)(2), 120(a), (b), Dec. 20, 2006, 120 Stat. 2939, 2943; Pub. L. 110–28, title VIII, §§8221–8223, May 25, 2007, 121 Stat. 194, 195; Pub. L. 110–185, title I, §103(c)(9), (10), Feb. 13, 2008, 122 Stat. 619; Pub. L. 110–234, title XV, §15316(c)(1), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(1), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–289, div. C, title III, §3082(b)(1), (c)(1), July 30, 2008, 122 Stat. 2907; Pub. L. 110–343, div. C, title III, §320(a), Oct. 3, 2008, 122 Stat. 3873; Pub. L. 111–5, div. B, title I, §§1201(a)(2)(E), 1531(c)(3), Feb. 17, 2009, 123 Stat. 333, 360.)
 
 #### References in Text
 
@@ -797,6 +797,10 @@ The Emergency Supplemental Appropriations Act for Defense, the Global War on Ter
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2009—Subsec. (d)(3)(B). Pub. L. 111–5, §1201(a)(2)(E), substituted “January 1, 2010” for “January 1, 2009”.
+
+Subsec. (<i>l</i>)(3)(B). Pub. L. 111–5, §1531(c)(3), substituted “, I, and J” for “and I”.
 
 2008—Subsec. (a)(8). Pub. L. 110–289, §3082(c)(1), added par. (8).
 
@@ -834,6 +838,12 @@ Subsec. (e)(2). Pub. L. 109–432, §120(b), inserted “without regard to subse
 
 Subsec. (<i>l</i>)(7)(B)(ii). Pub. L. 109–432, §107(b)(2), substituted “1397E(<i>l</i>)” for “1397E(i)”.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by section 1201(a)(2)(E) of Pub. L. 111–5 applicable to property placed in service after Dec. 31, 2008, in taxable years ending after such date, see section 1201(c)(1) of Pub. L. 111–5, set out as a note under section 168 of this title.
+
+Amendment by section 1531(c)(3) of Pub. L. 111–5 applicable to obligations issued after Feb. 17, 2009, see section 1531(e) of Pub. L. 111–5, set out as a note under section 54 of this title.
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–343, div. C, title III, §320(b), Oct. 3, 2008, 122 Stat. 3873, provided that: “The amendment made by this section \[amending this section\] shall apply to expenditures paid or incurred after the date of the enactment of this Act \[Oct. 3, 2008\].”
@@ -850,7 +860,7 @@ Amendment by Pub. L. 110–185 applicable to property placed in service after De
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 107(b)(2) of Pub. L. 109–432 applicable to obligations issued after Dec. 20, 2006, pursuant to allocations of the national zone academy bond limitation for calendar years after 2005, see section107(c) of Pub. L. 109–432, set out as a note under section 1397E of this title.
+Amendment by section 107(b)(2) of Pub. L. 109–432 applicable to obligations issued after Dec. 20, 2006, pursuant to allocations of the national zone academy bond limitation for calendar years after 2005, see section 107(c) of Pub. L. 109–432, set out as a note under section 1397E of this title.
 
 Pub. L. 109–432, div. A, title I, §120(c), Dec. 20, 2006, 120 Stat. 2943, provided that: “The amendments made by this section \[amending this section\] shall take effect as if included in section 101 of the Gulf Opportunity Zone Act of 2005 \[Pub. L. 109–135\].”
 

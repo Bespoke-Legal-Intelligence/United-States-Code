@@ -92,7 +92,7 @@ As used in this chapter (unless the context clearly requires otherwise):
 
 &emsp;&emsp;(A) is authorized by State statute or is otherwise organized and operating within a State;
 
-&emsp;&emsp;(B) receives voluntary contributions or dues and conducts promotion, research, or consumer information programs with respect to sheep or wool, or both; and
+&emsp;&emsp;(B) receives voluntary contributions or dues and conducts promotion, research, orconsumer information programs with respect to sheep or wool, or both; and
 
 &emsp;&emsp;(C) is recognized by the Board as the sheep and wool promotion entity within the State;
 

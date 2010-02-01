@@ -52,7 +52,7 @@ Subsec. (b)(3) of this section, which required the Secretary to transmit to Cong
 
 &emsp;“(v) $5,962,593 for fiscal year 1995.”
 
-Subsec. (b)(2)(B)(iv) to (vi). Pub. L. 104–150, §2(b)(2), inserted “and” at end of cl. (iv), redesignated cl. (vi) as (v), and struck out former cl. (v) which read as follows: “program development grants as authorized by section1454 of this title, in an amount not to exceed $200,000 for each of fiscal years 1997, 1998, and 1999; and”.
+Subsec. (b)(2)(B)(iv) to (vi). Pub. L. 104–150, §2(b)(2), inserted “and” at end of cl. (iv), redesignated cl. (vi) as (v), and struck out former cl. (v) which read as follows: “program development grants as authorized by section 1454 of this title, in an amount not to exceed $200,000 for each of fiscal years 1997, 1998, and 1999; and”.
 
 Subsec. (b)(2)(B)(v). Pub. L. 104–150, §5(b), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “program development grants as authorized by section 1454 of this title; and”.
 

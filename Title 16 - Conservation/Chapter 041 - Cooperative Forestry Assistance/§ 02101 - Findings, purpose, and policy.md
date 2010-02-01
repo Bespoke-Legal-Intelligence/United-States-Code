@@ -12,7 +12,7 @@ Congress finds that—
 
 &emsp;(4) managed forest lands provide habitats for fish and wildlife, as well as aesthetics, outdoor recreation opportunities, and other forest resources;
 
-&emsp;(5) the soil, water, and air quality of the United States can be maintained and improvedthrough good stewardship of privately held forest resources;
+&emsp;(5) the soil, water, and air quality of the United States can be maintained and improved through good stewardship of privately held forest resources;
 
 &emsp;(6) insects and diseases affecting trees occur and sometimes create emergency conditions on all land, whether Federal or non-Federal, and efforts to prevent and control such insects and diseases often require coordinated action by both Federal and non-Federal land managers;
 
@@ -106,7 +106,7 @@ Pub. L. 101–513 and Pub. L. 101–624 were approved by the President after Con
 
 Pub. L. 101–513, §607(b)(1), directed the amendment of subsec. (a) by striking out “and” at end of par. (16), substituting “; and” for period at end of par. (17), and adding par. (18) at end. The amendment of pars. (16) and (17) was executed to pars. (15) and (16) to reflect the probable intent of Congress. See Codification note above.
 
-Pub. L. 101–513, §607(b)(2), which directed the amendment of subsec. (b) by inserting “in the United States, and forest lands in foreign countries,” after “non-Federal forest lands,” the first place it appears and in paragraph (10), was executed by making the insertion after “non-Federal forest lands” to reflect the probable intent of Congress. See Codification note above.
+Pub. L. 101–513, §607(b)(2), which directed the amendment of subsec. (b) by inserting “in the United States,and forest lands in foreign countries,” after “non-Federal forest lands,” the first place it appears and in paragraph (10), was executed by making the insertion after “non-Federal forest lands” to reflect the probable intent of Congress. See Codification note above.
 
 #### Effective Date of 2008 Amendment
 
@@ -156,7 +156,7 @@ Subtitle C (§§1261–1266) of title XII of Pub. L. 101–624, as amended by Pu
 
 &emsp;“(2) promote the principles of basic forest stewardship through the nationwide planting, improvement, and maintenance of trees in order to increase reforestation, enhance the environmental and aesthetic qualities of the United States's rural and urban areas, and reduce global carbon dioxide levels;
 
-&emsp;“(3) authorize the Secretary of Agriculture to provide increased financial and technical assistance to State forestry agencies and others, and enter into cost-sharing agreements with individuals, for thepurpose of encouraging owners of nonindustrial private lands to plant and maintain trees and improve forests in rural areas; and
+&emsp;“(3) authorize the Secretary of Agriculture to provide increased financial and technical assistance to State forestry agencies and others, and enter into cost-sharing agreements with individuals, for the purpose of encouraging owners of nonindustrial private lands to plant and maintain trees and improve forests in rural areas; and
 
 &emsp;“(4) authorize the Secretary of Agriculture to provide increased financial and technical assistance to State forestry agencies and others for the purpose of encouraging units of local government, civic groups, and individuals to plant and maintain trees and improve forests in communities and urban areas.
 
@@ -192,7 +192,7 @@ Use of Funds.—Funds made available pursuant to subsection (d) shall be granted
 
 “(f)
 
-Interest.—Notwithstanding any other provision of law, the Foundation may hold funds made available pursuant to subsection (e) in interest-bearing accounts prior to the disbursement of the funds for purposes specified in subsection (a) and may retain to carry out such purposes any interest earned on the deposits.
+Interest.—Notwithstanding any other provision of law, the Foundation may hold funds made available pursuant to subsection (e) in interest-bearing accounts prior to the disbursement of the funds for purposesspecified in subsection (a) and may retain to carry out such purposes any interest earned on the deposits.
 
 “(g)
 
@@ -268,7 +268,7 @@ Independent audits.—For the fiscal year in which the Foundation receives the g
 
 &emsp;“(2)
 
-Agency audits.—For the fiscal year in which the Foundation receives the grant awarded under subsection (d), and for the succeeding 5 fiscal years,the financial transactions undertaken pursuant to this section by the Foundation may be audited by any agency designated by the President.
+Agency audits.—For the fiscal year in which the Foundation receives the grant awarded under subsection (d), and for the succeeding 5 fiscal years, the financial transactions undertaken pursuant to this section by the Foundation may be audited by any agency designated by the President.
 
 “(n)
 

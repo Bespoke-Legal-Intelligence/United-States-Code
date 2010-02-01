@@ -18,7 +18,7 @@ Integrity of the Promotion Selection Board Process.—(1) The Secretary of Defen
 
 (4) Information provided to a promotion board in accordance with paragraphs (2) and (3) shall be made available to all members of the board and shall be made a part of the record of the board. Communication of such information shall be in a written form or in the form of an audio or video recording. If a communication is in the form of an audio or video recording, a written transcription of the recording shall also be made a part of the record of the promotion board.
 
-(5) Paragraphs (2), (3), and (4) do not apply to the furnishing of appropriate administrative processing information to the promotion board by an administrative staff designated to assist the board, but only to the extent that oral communications are necessary to facilitate the work of the board.
+(5) Paragraphs (2), (3), and (4) do not apply to the furnishing of appropriate administrative processing information to the promotion board by an administrative staff designated to assistthe board, but only to the extent that oral communications are necessary to facilitate the work of the board.
 
 (6) Information furnished to a promotion board that is described in subparagraph (B), (C), or (D) of paragraph (2), or in paragraph (3), may not be furnished to a later promotion board unless—
 
@@ -38,7 +38,7 @@ Integrity of the Promotion Selection Board Process.—(1) The Secretary of Defen
 
 Information To Be Furnished.—The Secretary of the military department concerned shall furnish to a promotion board convened under section 14101(a) of this title the following:
 
-&emsp;(1) In the case of a mandatory promotion board, the maximum number (as determinedin accordance with section 14307 of this title) of officers in each competitive category under consideration that the board is authorized to recommend for promotion to the next higher grade.
+&emsp;(1) In the case of a mandatory promotion board, the maximum number (as determined in accordance with section 14307 of this title) of officers in each competitive category under consideration that the board is authorized to recommend for promotion to the next higher grade.
 
 &emsp;(2) The name of each officer in each competitive category under consideration who is to be considered by the board for promotion.
 

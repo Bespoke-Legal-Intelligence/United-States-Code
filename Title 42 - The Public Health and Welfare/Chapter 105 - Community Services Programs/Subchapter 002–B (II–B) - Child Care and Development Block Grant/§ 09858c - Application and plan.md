@@ -160,7 +160,7 @@ Subsec. (c)(3)(B). Pub. L. 104–193, §605(2)(B)(ii), inserted “and related a
 
 &emsp;“(i) child care services, that meet the requirements of this subchapter, that are provided to eligible children in the State on a sliding fee scale basis using funding methods provided for in subsection (c)(2)(A) of this section”, substituted “special needs.” for “special needs; and”, and struck out cl. (ii) which read as follows: “activities designed to improve the availability and quality of child care.”
 
-Subsec. (c)(3)(C). Pub. L. 104–193, §605(2)(B)(iii), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “The State shall reserve 25 percent of the amounts provided to the State for each fiscal year under this subchapter to carry out activities designed to improve the quality of child care (as described in section 9858e of this title) and to provide before- and after-school and early childhood development services (as described in section 9858f of this title).”
+Subsec. (c)(3)(C). Pub. L. 104–193, §605(2)(B)(iii), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “The State shall reserve 25 percent of the amounts provided to the State for each fiscal year under this subchapter to carry out activities designed to improve the quality ofchild care (as described in section 9858e of this title) and to provide before- and after-school and early childhood development services (as described in section 9858f of this title).”
 
 Subsec. (c)(3)(D). Pub. L. 104–193, §605(2)(B)(iv), added subpar. (D).
 

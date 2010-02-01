@@ -30,7 +30,7 @@ The Board, acting through the Chief Executive Officer of the Corporation, may pr
 
 &emsp;&emsp;(J) the strategy of the eligible country to sustain progress made toward achieving such objectives after expiration of the Compact; and
 
-&emsp;&emsp;(K) a description of the role of the United States Agency for International Development in any design, implementation, andmonitoring of programs and activities funded under the Compact.
+&emsp;&emsp;(K) a description of the role of the United States Agency for International Development in any design, implementation, and monitoring of programs and activities funded under the Compact.
 
 #### (2) Lower middle income countries
 
@@ -62,7 +62,7 @@ To the maximum extent feasible, activities undertaken to achieve the objectives 
 
 #### (g) Assistance for development of compact
 
-Notwithstanding subsection (a), the Chief Executive Officer may enter into contracts or make grants for any eligible country for the purpose of facilitating the development and implementation of the Compact between the United States and the country.
+Notwithstanding subsection (a), the Chief Executive Officer may enter into contracts ormake grants for any eligible country for the purpose of facilitating the development and implementation of the Compact between the United States and the country.
 
 #### (h) Requirement for approval by the Board
 

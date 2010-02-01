@@ -36,7 +36,7 @@ The Congress makes the following findings:
 
 #### (b) Statements by Congress
 
-(1) The Congress strongly condemns the act of terrorism by the Castro regime in shooting downthe Brothers to the Rescue aircraft on February 24, 1996.
+(1) The Congress strongly condemns the act of terrorism by the Castro regime in shooting down the Brothers to the Rescue aircraft on February 24, 1996.
 
 (2) The Congress extends its condolences to the families of Pablo Morales, Carlos Costa, Mario de la Pena, and Armando Alejandre, the victims of the attack.
 

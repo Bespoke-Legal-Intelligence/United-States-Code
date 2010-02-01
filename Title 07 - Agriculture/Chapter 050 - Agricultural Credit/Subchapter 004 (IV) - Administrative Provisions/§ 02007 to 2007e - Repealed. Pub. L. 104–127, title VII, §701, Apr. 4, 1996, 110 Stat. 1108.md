@@ -8,7 +8,7 @@ Section 2007b, Pub. L. 101–624, title XXIII, §2312, Nov. 28, 1990, 104 Stat. 
 
 Section 2007c, Pub. L. 101–624, title XXIII, §2313, Nov. 28, 1990, 104 Stat. 3986; Pub. L. 102–237, title VII, §702(c), Dec. 13, 1991, 105 Stat. 1880, established Rural Business Investment Fund.
 
-Section 2007d, Pub. L. 101–624, title XXIII, §2314, Nov. 28, 1990, 104 Stat. 3991; Pub. L. 102–237, title VII, §702(d),Dec. 13, 1991, 105 Stat. 1880, related to establishment of local revolving funds.
+Section 2007d, Pub. L. 101–624, title XXIII, §2314, Nov. 28, 1990, 104 Stat. 3991; Pub. L. 102–237, title VII, §702(d), Dec. 13, 1991, 105 Stat. 1880, related to establishment of local revolving funds.
 
 Section 2007e, Pub. L. 101–624, title XXIII, §2315, Nov. 28, 1990, 104 Stat. 3994; Pub. L. 102–237, title VII, §702(e), Dec. 13, 1991, 105 Stat. 1880, related to compliance with and enforcement of former sections 2007a to 2007e of this title and regulations promulgated thereunder.
 

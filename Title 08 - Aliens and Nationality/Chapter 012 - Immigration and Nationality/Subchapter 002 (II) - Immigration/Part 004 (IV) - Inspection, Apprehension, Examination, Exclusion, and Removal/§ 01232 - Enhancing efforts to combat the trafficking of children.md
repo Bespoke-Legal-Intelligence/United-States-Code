@@ -116,7 +116,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the requirements of subparagraph (B), an unaccompanied alien child may not be placed with a person or entity unless the Secretary of Health and Human Services makes a determination that the proposed custodian is capable of providing for the child's physical and mental well-being. Such determination shall, at a minimum, include verification of the custodian's identity and relationship to the child, if any, as well as an independent finding that the individual has not engaged in any activity that would indicate a potential risk to the child.
+&emsp;&emsp;Subject to the requirements of subparagraph (B), an unaccompanied alien childmay not be placed with a person or entity unless the Secretary of Health and Human Services makes a determination that the proposed custodian is capable of providing for the child's physical and mental well-being. Such determination shall, at a minimum, include verification of the custodian's identity and relationship to the child, if any, as well as an independent finding that the individual has not engaged in any activity that would indicate a potential risk to the child.
 
 #### (B) Home studies
 
@@ -124,7 +124,7 @@
 
 #### (C) Access to information
 
-&emsp;&emsp;Not later than 2 weeks after receiving a request from the Secretary of Health and Human Services, the Secretary of HomelandSecurity shall provide information necessary to conduct suitability assessments from appropriate Federal, State, and local law enforcement and immigration databases.
+&emsp;&emsp;Not later than 2 weeks after receiving a request from the Secretary of Health and Human Services, the Secretary of Homeland Security shall provide information necessary to conduct suitability assessments from appropriate Federal, State, and local law enforcement and immigration databases.
 
 #### (4) Legal orientation presentations
 
@@ -160,7 +160,7 @@
 
 #### (B) State reimbursement
 
-&emsp;&emsp;Subject to the availability of appropriations, if State foster care funds are expended on behalf of a child who is not described in subparagraph (A) and has been granted special immigrant status under section 101(a)(27)(J) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(J)), the Federal Government shall reimburse the State in which the child resides for such expenditures by the State.
+&emsp;&emsp;Subject to the availability of appropriations, if State foster care funds are expended on behalf of a child who is not described in subparagraph (A) and has been granted special immigrant status under section 101(a)(27)(J) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(J)), the Federal Government shall reimburse the State inwhich the child resides for such expenditures by the State.
 
 #### (5) State courts acting in loco parentis
 
@@ -178,7 +178,7 @@
 
 #### (e) Training
 
-The Secretary of State, the Secretary of Homeland Security, the Secretary of Health and Human Services, and the Attorney General shall provide specialized training to all Federal personnel, and upon request, state <sup>1</sup> and local personnel, who have substantive contact with unaccompanied alien children. Such personnel shall be trained to work with unaccompanied alien children, including identifying children who arevictims of severe forms of trafficking in persons, and children for whom asylum or special immigrant relief may be appropriate, including children described in subsection (a)(2).
+The Secretary of State, the Secretary of Homeland Security, the Secretary of Health and Human Services, and the Attorney General shall provide specialized training to all Federal personnel, and upon request, state <sup>1</sup> and local personnel, who have substantive contact with unaccompanied alien children. Such personnel shall be trained to work with unaccompanied alien children, including identifying children who are victims of severe forms of trafficking in persons, and children for whom asylum or special immigrant relief may be appropriate, including children described in subsection (a)(2).
 
 #### (f) Omitted
 

@@ -20,7 +20,7 @@
 
 (c) Upon the consent of any person who ships, sells, or distributes any quantity of cigarettes in excess of 10,000 in a single transaction, or pursuant to a duly issued search warrant, the Attorney General may enter the premises (including places of storage) of such person for the purpose of inspecting any records or information required to be maintained by such person under this chapter, and any cigarettes kept or stored by such person at such premises.
 
-(d) Any report required to be submitted under this chapter to the Attorney General shall also be submitted to the Secretary of the Treasuryand to the attorneys general and the tax administrators of the States from where the shipments, deliveries, or distributions both originated and concluded.
+(d) Any report required to be submitted under this chapter to the Attorney General shall also be submitted to the Secretary of the Treasury and to the attorneys general and the tax administrators of the States from where the shipments, deliveries, or distributions both originated and concluded.
 
 (e) In this section, the term “delivery sale” means any sale of cigarettes or smokeless tobacco in interstate commerce to a consumer if—
 

@@ -6,7 +6,7 @@ After consideration of a petition (and comments thereon) for an exemption for a 
 
 &emsp;(1) it is likely that an adequate and reliable supply of coal or other alternate fuel of the quality necessary to conform with design and operational requirements for use as a primary energy source will not be available to such powerplant at a cost (taking into account associated facilities for the transportation and use of such fuel) which, based upon the best practicable estimates, does not substantially exceed the cost, as determined by rule by the Secretary, of the fuel that would be used as a primary energy source;
 
-&emsp;(2) one or more site limitations exist which would ot <sup>1</sup> permit the location or operation of such a powerplant using coal or any other alternate fuel as a primary energy source; or
+&emsp;(2) one or more site limitations exist which would ot <sup>1</sup> permit the location or operation ofsuch a powerplant using coal or any other alternate fuel as a primary energy source; or
 
 &emsp;(3) the prohibitions of section 8311 of this title could not be satisfied without violating applicable environmental requirements.
 
@@ -40,7 +40,7 @@ After consideration of a petition (and comments thereon) for an exemption for a 
 
 Subsec. (b). Pub. L. 100–42, §1(c)(5)(A), substituted “from” for “or installation from one or more of”.
 
-Subsec. (c). Pub. L. 100–42, §1(c)(5)(E), struck out subsec. (c) which read as follows: “After consideration of a petition (and comments thereon) for an exemption for a powerplant or installation from one or more of the prohibitions of part A, the Secretary may, by order, grant an exemption under this subsection for the use of natural gas or petroleum, if he finds that the petitioner has demonstrated that for the period of the proposed exemption the issuance of such exemption would be inthe public interest and would be consistent with the purposes of this chapter.”
+Subsec. (c). Pub. L. 100–42, §1(c)(5)(E), struck out subsec. (c) which read as follows: “After consideration of a petition (and comments thereon) for an exemption for a powerplant or installation from one or more of the prohibitions of part A, the Secretary may, by order, grant an exemption under this subsection for the use of natural gas or petroleum, if he finds that the petitioner has demonstrated that for the period of the proposed exemption the issuance of such exemption would be in the public interest and would be consistent with the purposes of this chapter.”
 
 Subsec. (d). Pub. L. 100–42, §1(c)(5)(E), struck out subsec. (d) which read as follows: “After consideration of a petition (and comments thereon) for an exemption from the prohibition of the use of petroleum under section 8312 of this title for an installation with a design capacity of consuming any fuel (or any mixture thereof) at a fuel heat input rate which does not exceed 300 million Btu's per hour, the Secretary may, by order, grant an exemption under this subsection for the use of petroleum if he finds that the petitioner has demonstrated, by the existence of binding contracts or other evidence, including appropriate State construction permits, that he will use coal or another alternate fuel for at least 75 percent of the annual fuel heat input rate upon the expiration of such exemption. For provisions relating to authority to receive, consider and granting (or denying) certain petitons \[sic\] for an exemption under this subsection, see section 902(b).”
 

@@ -26,7 +26,7 @@ Considerations.—
 
 &emsp;(1)
 
-For capacity enhancement projects.—In selecting a project for a grant to preserve and improve capacity funded in whole or inpart from the fund, the Secretary shall consider—
+For capacity enhancement projects.—In selecting a project for a grant to preserve and improve capacity funded in whole or in part from the fund, the Secretary shall consider—
 
 &emsp;&emsp;(A) the effect that the project will have on overall national transportation system capacity;
 
@@ -96,9 +96,9 @@ Considerations for Project Under Expanded Security Eligibility.—In order to as
 
 (j)
 
-Marshall Islands, Micronesia, and Palau.—For fiscal years 2004 through 2008, and for the portion of fiscal year 2009 ending before April 1, 2009, the sponsors of airports located in the Republic of the Marshall Islands, Federated States of Micronesia, and Republic of Palau shall be eligible for grants under this section and section 47116.
+Marshall Islands, Micronesia, and Palau.—For fiscal years 2004 through 2009, and for the portion of fiscal year 2010 ending before April 1, 2010, the sponsors of airports located in the Republic of the Marshall Islands, Federated States of Micronesia, and Republic of Palau shall be eligible for grants under this section and section 47116.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1270; Pub. L. 103–305, title I, §112(d), Aug. 23, 1994, 108Stat. 1576; Pub. L. 103–429, §6(67), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §§122, 145, Oct. 9, 1996, 110 Stat. 3218, 3222; Pub. L. 104–287, §5(81), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 106–6, §§5, 8(a), Mar. 31, 1999, 113 Stat. 10, 11; Pub. L. 107–71, title I, §119(a)(3), Nov. 19, 2001, 115 Stat. 628; Pub. L. 108–176, title I, §§148, 188, Dec. 12, 2003, 117 Stat. 2504, 2519; Pub. L. 110–253, §3(c)(5), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(f), Sept. 30, 2008, 122 Stat. 3718.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1270; Pub. L. 103–305, title I, §112(d), Aug. 23, 1994, 108 Stat. 1576; Pub. L. 103–429, §6(67), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §§122, 145, Oct. 9, 1996, 110 Stat. 3218, 3222; Pub. L. 104–287, §5(81), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 106–6, §§5, 8(a), Mar. 31, 1999, 113 Stat. 10, 11; Pub. L. 107–71, title I, §119(a)(3), Nov. 19, 2001, 115 Stat. 628; Pub. L. 108–176, title I, §§148, 188, Dec. 12, 2003, 117 Stat. 2504, 2519; Pub. L. 110–253, §3(c)(5), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(f), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(e), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(f), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(e), Dec. 16, 2009, 123 Stat. 3032.)
 
 Historical and Revision Notes
 
@@ -182,6 +182,12 @@ Section 47102(3)(J), referred to in subsec. (i), was repealed and subpar. (M) wa
 
 #### Amendments
 
+2009—Subsec. (j). Pub. L. 111–116 substituted “April 1, 2010,” for “January 1, 2010,”.
+
+Pub. L. 111–69 inserted “and for the portion of fiscal year 2010 ending before January 1, 2010,” after “2009,”.
+
+Pub. L. 111–12 substituted “2009,” for “2008, and for the portion of fiscal year 2009 ending before April 1, 2009,”.
+
 2008—Subsec. (j). Pub. L. 110–330 inserted “and for the portion of fiscal year 2009 ending before April 1, 2009,” after “2008,”.
 
 Pub. L. 110–253 substituted “fiscal years 2004 through 2008,” for “fiscal years 2004 through 2007,”.
@@ -216,7 +222,7 @@ Pub. L. 104–264, §122, struck out subsec. (f), relating to minimum amount to 
 
 Minimum Amount To Be Credited.—(1) In a fiscal year, at least $325,000,000 of the amount made available under section 48103 of this title shall be credited to the fund. The amount credited is exclusive of amounts that have been apportioned in a prior fiscal year under section 47114 of this title and that remain available for obligation.
 
-“(2) In a fiscal year in which the amount credited under subsection (a) of this section is less than $325,000,000, the total amount calculated under paragraph (3) of this subsection shall be reduced by an amount that, when credited to the fund, together withthe amount credited under subsection (a), equals $325,000,000.
+“(2) In a fiscal year in which the amount credited under subsection (a) of this section is less than $325,000,000, the total amount calculated under paragraph (3) of this subsection shall be reduced by an amount that, when credited to the fund, together with the amount credited under subsection (a), equals $325,000,000.
 
 “(3) For a fiscal year, the total amount available to reduce to carry out paragraph (2) of this subsection is the total of the amounts determined under sections 47114(c)(1)(A) and (2) and (d) and 47117(e) of this title. Each amount shall be reduced by an equal percentage to achieve the reduction.”
 
@@ -230,6 +236,12 @@ Subsec. (h). Pub. L. 104–264, §145(b), added subsec. (h).
 
 Pub. L. 103–305 added subsec. (f) relating to consideration of diversion of revenues in awarding discretionary grants.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–116 effective Jan. 1, 2010, see section 5(j) of Pub. L. 111–116, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 111–12 effective Apr. 1, 2009, see section 5(j) of Pub. L. 111–12, set out as a note under section 40117 of this title.
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–330 effective Oct. 1, 2008, see section 5(<i>l</i>) of Pub. L. 110–330, set out as a note under section 40117 of this title.
@@ -242,7 +254,7 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date of 1996 Amendments
 
-Amendment by section 5(81)(B) of Pub. L. 104–287 effective Sept. 30, 1998, see section 8(2) of Pub. L. 104–287, as amended, set out as a note under section 47117 of this title.
+Amendment by section 5(81)(B) of Pub. L. 104–287 effective Sept. 30, 1998, see section 8(2) of Pub. L. 104–287,as amended, set out as a note under section 47117 of this title.
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 

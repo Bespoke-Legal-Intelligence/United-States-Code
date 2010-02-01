@@ -100,7 +100,7 @@ The corporation is authorized to guarantee the payment of such other classes of 
 
 #### (e) Nonforfeitability of preretirement survivor annuity
 
-For purposes of subsection (a) of this section, a qualified preretirement survivor annuity (asdefined in section 1055(e)(1) of this title) with respect to a participant under a terminated single-employer plan shall not be treated as forfeitable solely because the participant has not died as of the termination date.
+For purposes of subsection (a) of this section, a qualified preretirement survivor annuity (as defined in section 1055(e)(1) of this title) with respect to a participant under a terminated single-employer plan shall not be treated as forfeitable solely because the participant has not died as of the termination date.
 
 #### (f) Effective date of plan amendments
 
@@ -112,7 +112,7 @@ If a contributing sponsor of a plan has filed or has had filed against such pers
 
 #### (h) Special rule for plans electing certain funding requirements
 
-If any plan makes an election under section 402(a)(1) of the Pension Protection Act of 2006 and is terminated effective before the end of the 10-year period beginning on the first day of the first applicable plan year—
+If any plan makes an election under section 402(a)(1) of the Pension Protection Act of 2006and is terminated effective before the end of the 10-year period beginning on the first day of the first applicable plan year—
 
 &emsp;(1) this section shall be applied—
 
@@ -184,7 +184,7 @@ Amendment by section 402(g)(2)(A) of Pub. L. 109–280 applicable to plan years 
 
 Pub. L. 109–280, title IV, §403(b), Aug. 17, 2006, 120 Stat. 928, provided that: “The amendment made by this section \[amending this section\] shall apply to benefits that become payable as a result of an event which occurs after July 26, 2005.”
 
-Pub. L. 109–280, title IV, §404(c), Aug. 17, 2006, 120 Stat. 928, provided that: “The amendments made this section \[amending this section and section 1344 of this title\] shall apply with respect to proceedings initiated under title 11, United States Code, or under any similar Federal law or law of a State or political subdivision, on or after the date that is 30 days after the date of enactment of this Act \[Aug. 17, 2006\].”
+Pub. L. 109–280, title IV, §404(c), Aug. 17, 2006, 120 Stat. 928, provided that: “The amendments made this section \[amending this section and section 1344 of thistitle\] shall apply with respect to proceedings initiated under title 11, United States Code, or under any similar Federal law or law of a State or political subdivision, on or after the date that is 30 days after the date of enactment of this Act \[Aug. 17, 2006\].”
 
 Amendment by section 407(a) of Pub. L. 109–280 applicable to plan terminations under section 1341(c) of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 31, 2005, and under section 1342 of this title with respect to which notices of determination are provided under such section after such date, see section 407(d)(1) of Pub. L. 109–280, set out as a note under section 1321 of this title.
 

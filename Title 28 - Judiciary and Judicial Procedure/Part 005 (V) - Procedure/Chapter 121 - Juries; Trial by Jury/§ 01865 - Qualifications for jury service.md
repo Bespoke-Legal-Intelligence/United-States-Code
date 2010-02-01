@@ -14,7 +14,7 @@
 
 &emsp;(5) has a charge pending against him for the commission of, or has been convicted in a State or Federal court of record of, a crime punishable by imprisonment for more than one year and his civil rights have not been restored.
 
-(June 25, 1948, ch. 646, 62 Stat. 952; Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 58; Pub. L. 92–269, §1,Apr. 6, 1972, 86 Stat. 117; Pub. L. 95–572, §3(a), Nov. 2, 1978, 92 Stat. 2453; Pub. L. 100–702, title VIII, §803(b), Nov. 19, 1988, 102 Stat. 4658; Pub. L. 106–518, title III, §305, Nov. 13, 2000, 114 Stat. 2418.)
+(June 25, 1948, ch. 646, 62 Stat. 952; Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 58; Pub. L. 92–269, §1, Apr. 6, 1972, 86 Stat. 117; Pub. L. 95–572, §3(a), Nov. 2, 1978, 92 Stat. 2453; Pub. L. 100–702, title VIII, §803(b), Nov. 19, 1988, 102 Stat. 4658; Pub. L. 106–518, title III, §305, Nov. 13, 2000, 114 Stat. 2418.)
 
 #### Historical and Revision Notes
 

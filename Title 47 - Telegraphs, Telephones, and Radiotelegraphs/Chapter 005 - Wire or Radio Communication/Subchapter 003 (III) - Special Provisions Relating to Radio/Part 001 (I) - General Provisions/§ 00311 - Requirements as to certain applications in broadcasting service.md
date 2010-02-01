@@ -18,7 +18,7 @@ Hearings referred to in subsection (a) of this section may be held at such place
 
 (1) If there are pending before the Commission two or more applications for a permit for construction of a broadcasting station, only one of which can be granted, it shall be unlawful, without approval of the Commission, for the applicants or any of them to effectuate an agreement whereby one or more of such applicants withdraws his or their application or applications.
 
-(2) The request for Commission approval in any such case shall be made in writing jointlyby all the parties to the agreement. Such request shall contain or be accompanied by full information with respect to the agreement, set forth in such detail, form, and manner as the Commission shall by rule require.
+(2) The request for Commission approval in any such case shall be made in writing jointly by all the parties to the agreement. Such request shall contain or be accompanied by full information with respect to the agreement, set forth in such detail, form, and manner as the Commission shall by rule require.
 
 (3) The Commission shall approve the agreement only if it determines that (A) the agreement is consistent with the public interest, convenience, or necessity; and (B) no party to the agreement filed its application for the purpose of reaching or carrying out such agreement.
 

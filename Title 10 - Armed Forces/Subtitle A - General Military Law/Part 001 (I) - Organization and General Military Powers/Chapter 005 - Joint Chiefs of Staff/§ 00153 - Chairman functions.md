@@ -36,7 +36,7 @@ Advice on Requirements, Programs, and Budget.—(A) Advising the Secretary, unde
 
 &emsp;(D) Recommending to the Secretary, in accordance with section 166 of this title, a budget proposal for activities of each unified and specified combatant command.
 
-&emsp;(E) Advising the Secretary on the extent to which the major programs and policies of thearmed forces in the area of manpower conform with strategic plans.
+&emsp;(E) Advising the Secretary on the extent to which the major programs and policies of the armed forces in the area of manpower conform with strategic plans.
 
 &emsp;(F) Assessing military requirements for defense acquisition programs.
 

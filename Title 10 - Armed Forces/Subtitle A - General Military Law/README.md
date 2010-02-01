@@ -75,12 +75,7 @@
 | [<b>77.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20077%20-%20Posthumous%20Commissions%20and%20Warrants/README.md) | <b>Posthumous Commissions and Warrants</b> | <b>1521</b> |
 | [<b>79.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20079%20-%20Correction%20of%20Military%20Records/README.md) | <b>Correction of Military Records</b> | <b>1551</b> |
 | [<b>80.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20080%20-%20Miscellaneous%20Investigation%20Requirements%20and%20Other%20Duties/README.md) | <b>Miscellaneous Investigation Requirements and Other Duties</b> | <b>1561</b> |
-| [<b>81.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20081%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>1581 </b><b><sup>2</sup></b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
+| [<b>81.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20081%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>1580</b> |
 | [<b>83.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20083%20-%20Civilian%20Defense%20Intelligence%20Employees/README.md) | <b>Civilian Defense Intelligence Employees</b> | <b>1601</b> |
 | <b>\[85.</b> | <b>Repealed.\]</b> |  |
 | [<b>87.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20087%20-%20Defense%20Acquisition%20Workforce/README.md) | <b>Defense Acquisition Workforce</b> | <b>1701</b> |
@@ -133,12 +128,7 @@
 | [<b>148.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20148%20-%20National%20Defense%20Technology%20and%20Industrial%20Base%2C%20Defense%20Reinvestment%2C%20and%20Defense%20Conversion/README.md) | <b>National Defense Technology and Industrial Base, Defense Reinvestment, and Defense Conversion</b> | <b>2500</b> |
 | <b>\[149.</b> | <b>Repealed.\]</b> |  |
 | <b>\[150.</b> | <b>Repealed.\]</b> |  |
-| [<b>152.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20152%20-%20Issue%20of%20Supplies%2C%20Services%2C%20and%20Facilities/README.md) | <b>Issue of Supplies, Services, and Facilities</b> | <b>2541 </b><b><sup>3</sup></b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
+| [<b>152.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20152%20-%20Issue%20of%20Supplies%2C%20Services%2C%20and%20Facilities/README.md) | <b>Issue of Supplies, Services, and Facilities</b> | <b>2551</b> |
 | [<b>153.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20153%20-%20Exchange%20of%20Material%20and%20Disposal%20of%20Obsolete%2C%20Surplus%2C%20or%20Unclaimed%20Property/README.md) | <b>Exchange of Material and Disposal of Obsolete, Surplus, or Unclaimed Property</b> | <b>2571</b> |
 | [<b>155.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20155%20-%20Acceptance%20of%20Gifts%20and%20Services/README.md) | <b>Acceptance of Gifts and Services</b> | <b>2601</b> |
 | [<b>157.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20157%20-%20Transportation/README.md) | <b>Transportation</b> | <b>2631</b> |
@@ -156,6 +146,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. A, title X, §1073(a)(1), Oct. 28, 2009, 123 Stat. 2472, substituted “1580” for “1581” in item for chapter 81 and “2551” for “2541” in item for chapter 152.
 
 2008—Pub. L. 110–181, div. A, title X, §1068(a)(4)(B), Jan. 28, 2008, 122 Stat. 326, substituted “Insurrection” for “Enforcement of the Laws to Restore Public Order” in item for chapter 15.
 
@@ -191,7 +183,7 @@ Pub. L. 103–337, div. A, title V, §554(a)(2), Oct. 5, 1994, 108 Stat. 2773, a
 
 1991—Pub. L. 102–190, div. A, title X, §1061(a)(26)(C)(ii), Dec. 5, 1991, 105 Stat. 1474, effective Oct. 1, 1993, struck out item for chapter 85 “Procurement Management Personnel”.
 
-Pub. L. 102–190, div. A, title VIII, §821(f), title X, §§1002(a)(2), 1061(a)(27)(A), title XI, §1112(b)(2), Dec. 5, 1991, 105 Stat. 1432, 1455, 1474, 1501, substituted “Defense Budget Matters” for “Regular Components” and inserted “221” in item for chapter 9, substituted “Original Appointments of Regular Officers in Grades Above Warrant Officer Grades” for “Appointments in Regular Components” in item for chapter 33, added item for chapter 33A, substituted “Manufacturing” for “Maufacturing” in item for chapter 149, added items for chapters 150 and 152, struck out item for former chapter 150 “Issue to Armed Forces” and struck out item for former chapter 151 “Issue of Serviceable Material Other Than to Armed Forces”.
+Pub. L. 102–190, div. A, title VIII, §821(f), title X, §§1002(a)(2), 1061(a)(27)(A), title XI, §1112(b)(2), Dec. 5, 1991, 105 Stat. 1432, 1455, 1474, 1501, substituted “Defense Budget Matters” for “Regular Components” and inserted “221” in item for chapter 9, substituted “Original Appointments of Regular Officers in Grades Above Warrant Officer Grades” for “Appointments in Regular Components” in item for chapter 33, added item forchapter 33A, substituted “Manufacturing” for “Maufacturing” in item for chapter 149, added items for chapters 150 and 152, struck out item for former chapter 150 “Issue to Armed Forces” and struck out item for former chapter 151 “Issue of Serviceable Material Other Than to Armed Forces”.
 
 Pub. L. 102–25, title VII, §701(e)(1), (2), Apr. 6, 1991, 105 Stat. 114, added item for chapter 85 and in item for chapter 108 inserted “2161”.
 
@@ -259,7 +251,7 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 
 1961—Pub. L. 87–381, §1(2), Oct. 4, 1961, 75 Stat. 810, substituted “Retired Serviceman's Family Protection Plan” for “Annuities Based on Retired or Retainer Pay” in item for chapter 73.
 
-1958—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted “General Service Requirements” for “Service Requirements for Reserves” in item for chapter 37, “971” for “\[No present sections\]” in item for chapter 49, “Medical and Dental Care” for “Voting by Members of ArmedForces” in item for chapter 55, and struck out “Care of the Dead” and substituted “1475” for “1481” in item for chapter 75.
+1958—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted “General Service Requirements” for “Service Requirements for Reserves” in item for chapter 37, “971” for “\[No present sections\]” in item for chapter 49, “Medical and Dental Care” for “Voting by Members of Armed Forces” in item for chapter 55, and struck out “Care of the Dead” and substituted “1475” for “1481” in item for chapter 75.
 
 
 ---

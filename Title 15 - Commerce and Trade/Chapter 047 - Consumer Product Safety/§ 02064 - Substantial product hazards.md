@@ -164,7 +164,7 @@ Subsec. (c). Pub. L. 110–314, §214(a)(3)(A), (C), (D), designated existing pr
 
 Subsec. (c)(1). Pub. L. 110–314, §214(a)(3)(B), inserted “or if the Commission, after notifying the manufacturer, determines a product to be an imminently hazardous consumer product and has filed an action under section 2061 of this title,” after “such substantial product hazard,” in introductory provisions.
 
-Subsec. (c)(1)(D). Pub. L. 110–314, §214(a)(3)(E), substituted “comply, including posting clear and conspicuous notice on its Internet website, providing notice to any third party Internet website on which such manufacturer, retailer, distributor, or licensor has placed the product for sale, and announcements in languages other than English and on radio and television where the Commission determines that a substantial number of consumers to whom the recall is directed may not be reached by other notice.” for “comply.”.
+Subsec. (c)(1)(D). Pub. L. 110–314, §214(a)(3)(E), substituted “comply, including posting clear and conspicuous notice on its Internet website, providing notice to any third party Internet website on which such manufacturer, retailer, distributor, or licensor has placed the product for sale, and announcements in languages other than English and on radio and television where the Commission determines that a substantial number of consumers to whom the recall is directed may not be reached by other notice.” for “comply.”
 
 Subsec. (c)(2), (3). Pub. L. 110–314, §214(a)(3)(F), added pars. (2) and (3).
 
@@ -254,7 +254,7 @@ Effect on liability.—A report by a manufacturer, distributor, retailer, or imp
 
 Confidentiality Protections.—The confidentiality protections of section 6(b) of the Consumer Product Safety Act (15 U.S.C. 2055(b)) apply to any information reported to the Commission under subsection (a) of this section. For purposes of section 6(b)(5) of such Act, information so reported shall be treated as information submitted pursuant to section 15(b) of such Act \[15 U.S.C. 2064(b)\] respecting a consumer product.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1)(C).”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1)(C).”</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “extend”.</i>
 

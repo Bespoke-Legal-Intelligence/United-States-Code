@@ -18,7 +18,7 @@ Restrictions on Applicability.—
 
 Motor carrier requesting.—Subsection (a) does not apply to a motor carrier requesting safety performance records unless—
 
-&emsp;&emsp;(A) the motor carrier and any agents of the motor carrier have complied with the regulations issued by the Secretary in using the records, including the requirement that the individual who is the subject of the records be afforded a reasonable opportunity to review and comment on the records;
+&emsp;&emsp;(A) the motor carrier and any agents of the motor carrier have complied with the regulations issued by the Secretary in usingthe records, including the requirement that the individual who is the subject of the records be afforded a reasonable opportunity to review and comment on the records;
 
 &emsp;&emsp;(B) the motor carrier and any agents and insurers of the motor carrier have taken all precautions reasonably necessary to protect the records from disclosure to any person, except for such an insurer, not directly involved in deciding whether to hire that individual; and
 

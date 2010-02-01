@@ -12,7 +12,7 @@
 
 (2) Not later than June 30, 1993, the Secretary shall issue guidelines to be followed by agencies submitting proposals for such grants. All agencies shall be eligible to submit proposals for grants under the Fund.
 
-(3) The Secretary shall award grants from the Fund after a competitive assessment of the technical and economic effectiveness of each agency proposal. The Secretary shall consider the following factors in determining whether to provide funding under this subsection:
+(3) The Secretary shall award grants from the Fund after a competitive assessment of the technical and economic effectiveness of eachagency proposal. The Secretary shall consider the following factors in determining whether to provide funding under this subsection:
 
 &emsp;(A) The cost-effectiveness of the project.
 
@@ -50,7 +50,7 @@
 
 &emsp;(D) developed and implemented employee awareness programs;
 
-&emsp;(E) succeeded in generating utility incentives, shared energy savings contracts, andother federally approved performance based energy savings contracts;
+&emsp;(E) succeeded in generating utility incentives, shared energy savings contracts, and other federally approved performance based energy savings contracts;
 
 &emsp;(F) made successful efforts to fulfill compliance with energy reduction mandates, including the provisions of section 8253 of this title; and
 

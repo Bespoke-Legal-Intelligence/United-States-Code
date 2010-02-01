@@ -28,7 +28,7 @@ Subject to subsection (e) of this section, if the Secretary determines that a St
 
 #### (1) In general
 
-&emsp;With respect to agreements or other conditions for receiving a grant under the program involved, in the case of the failure of a State to maintain material compliance with a condition referred to in paragraph (2), the provisions for noncompliance with the conditionthat are provided in the section establishing the condition shall apply in lieu of subsections (a) through (c) of this section.
+&emsp;With respect to agreements or other conditions for receiving a grant under the program involved, in the case of the failure of a State to maintain material compliance with a condition referred to in paragraph (2), the provisions for noncompliance with the condition that are provided in the section establishing the condition shall apply in lieu of subsections (a) through (c) of this section.
 
 #### (2) Relevant conditions
 

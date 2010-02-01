@@ -10,7 +10,7 @@
 
 &emsp;In the case of a transfer for a valuable consideration, by assignment or otherwise, of a life insurance contract or any interest therein, the amount excluded from gross income by paragraph (1) shall not exceed an amount equal to the sum of the actual value of such consideration and the premiums and other amounts subsequently paid by the transferee. The preceding sentence shall not apply in the case of such a transfer—
 
-&emsp;&emsp;(A) if such contract or interest therein has a basis for determining gain or loss in the hands of a transferee determined in whole or in part by reference to such basis of suchcontract or interest therein in the hands of the transferor, or
+&emsp;&emsp;(A) if such contract or interest therein has a basis for determining gain or loss in the hands of a transferee determined in whole or in part by reference to such basis of such contract or interest therein in the hands of the transferor, or
 
 &emsp;&emsp;(B) if such transfer is to the insured, to a partner of the insured, to a partnership in which the insured is a partner, or to a corporation in which the insured is a shareholder or officer.
 
@@ -184,7 +184,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (A) In general
 
-&emsp;&emsp;If any portion of the death benefit under a life insurance contract on the life of an insured described in paragraph (1) is sold or assigned to a viatical settlement provider, the amount paid for the sale or assignment ofsuch portion shall be treated as an amount paid under the life insurance contract by reason of the death of such insured.
+&emsp;&emsp;If any portion of the death benefit under a life insurance contract on the life of an insured described in paragraph (1) is sold or assigned to a viatical settlement provider, the amount paid for the sale or assignment of such portion shall be treated as an amount paid under the life insurance contract by reason of the death of such insured.
 
 #### (B) Viatical settlement provider
 
@@ -270,7 +270,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (5) Exception for business-related policies
 
-&emsp;This subsection shall not apply in the case of any amount paid to any taxpayer other than the insured if such taxpayer has an insurable interest with respect to the life of the insured by reason of the insured being a director, officer, or employee of the taxpayer or by reasonof the insured being financially interested in any trade or business carried on by the taxpayer.
+&emsp;This subsection shall not apply in the case of any amount paid to any taxpayer other than the insured if such taxpayer has an insurable interest with respect to the life of the insured by reason of the insured being a director, officer, or employee of the taxpayer or by reason of the insured being financially interested in any trade or business carried on by the taxpayer.
 
 #### (h) Survivor benefits attributable to service by a public safety officer who is killed in the line of duty
 
@@ -400,7 +400,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 &emsp;&emsp;The term “insured” means, with respect to an employer-owned life insurance contract, an individual covered by the contract who is a United States citizen or resident. In the case of a contract covering the joint lives of 2 individuals, references to an insured include both of the individuals.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 26; Pub. L. 85–866, title I, §23(d), Sept. 2, 1958, 72 Stat. 1622; Pub. L. 87–792, §7(c), Oct. 10, 1962, 76 Stat. 829; Pub. L. 89–365, §1(c), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title I, §101(j)(l), Dec. 30, 1969, 83 Stat. 526; Pub. L. 93–406, title II, §§2005(c)(15), 2007(b)(3), Sept. 2, 1974, 88 Stat. 992, 994; Pub. L. 94–455, title XIX, §§1901(a)(16), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1765, 1834; Pub. L. 97–248, title II, §§239, 266(a), (b), Sept. 3, 1982, 96 Stat. 514, 547, 550; Pub. L. 98–369, div. A, title II, §221(b)(2), title IV, §421(b)(2), title VII, §713(e), July 18, 1984, 98 Stat. 772, 794, 958; Pub. L. 99–514, title X, §1001(a)–(c), Oct. 22, 1986, 100 Stat. 2387; Pub. L. 104–188, title I, §1402(a), (b)(1), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title III, §331(a), Aug. 21, 1996, 110 Stat. 2067; Pub. L. 105–34, title X, §1084(b)(2), title XV, §1528(a), Aug. 5, 1997, 111 Stat. 952, 1074; Pub. L. 107–134, title I, §102(a), Jan. 23, 2002, 115 Stat. 2429; Pub. L. 108–121, title I, §110(b)(1), (2), Nov. 11, 2003, 117 Stat. 1342; Pub. L. 109–280, title VIII, §863(a), (c)(1), Aug. 17, 2006, 120 Stat. 1021, 1024.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 26; Pub. L. 85–866, title I, §23(d), Sept. 2, 1958, 72 Stat. 1622; Pub. L. 87–792, §7(c), Oct. 10, 1962, 76 Stat. 829; Pub. L. 89–365, §1(c), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title I, §101(j)(l), Dec. 30, 1969, 83 Stat. 526; Pub. L. 93–406, title II, §§2005(c)(15), 2007(b)(3),Sept. 2, 1974, 88 Stat. 992, 994; Pub. L. 94–455, title XIX, §§1901(a)(16), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1765, 1834; Pub. L. 97–248, title II, §§239, 266(a), (b), Sept. 3, 1982, 96 Stat. 514, 547, 550; Pub. L. 98–369, div. A, title II, §221(b)(2), title IV, §421(b)(2), title VII, §713(e), July 18, 1984, 98 Stat. 772, 794, 958; Pub. L. 99–514, title X, §1001(a)–(c), Oct. 22, 1986, 100 Stat. 2387; Pub. L. 104–188, title I, §1402(a), (b)(1), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title III, §331(a), Aug. 21, 1996, 110 Stat. 2067; Pub. L. 105–34, title X, §1084(b)(2), title XV, §1528(a), Aug. 5, 1997, 111 Stat. 952, 1074; Pub. L. 107–134, title I, §102(a), Jan. 23, 2002, 115 Stat. 2429; Pub. L. 108–121, title I, §110(b)(1), (2), Nov. 11, 2003, 117 Stat. 1342; Pub. L. 109–280, title VIII, §863(a), (c)(1), Aug. 17, 2006, 120 Stat. 1021, 1024.)
 
 #### References in Text
 
@@ -442,7 +442,7 @@ Subsec. (d)(2)(B). Pub. L. 99–514, §1001(c)(2), substituted “equal” for �
 
 Subsec. (d)(2)(B)(ii). Pub. L. 99–514, §1001(b), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “as discounted on the basis of the interest rate and mortality tables used by the insurer in calculating payments under the agreement.”
 
-Subsec. (d)(3), (4). Pub. L. 99–514, §1001(c)(1), redesignated par. (4) as (3), and struck out former par. (3),“Surviving spouse”, which read as follows: “For purposes of this subsection, the term ‘surviving spouse’ means the spouse of the insured as of the date of death, including a spouse legally separated but not under a decree of absolute divorce.”
+Subsec. (d)(3), (4). Pub. L. 99–514, §1001(c)(1), redesignated par. (4) as (3), and struck out former par. (3), “Surviving spouse”, which read as follows: “For purposes of this subsection, the term ‘surviving spouse’ means the spouse of the insured as of the date of death, including a spouse legally separated but not under a decree of absolute divorce.”
 
 1984—Subsec. (b)(3)(B). Pub. L. 98–369, §713(e), amended subpar. (B) generally, substituting “certain distributions” for “certain lump sum distributions” in heading, substituting “amount paid or distributed” for “lump sum distribution described in the second sentence of paragraph (2)(B)” in introductory text and adding cls. (i) and (ii).
 
@@ -478,7 +478,7 @@ Subsec. (b)(3). Pub. L. 87–792, §7(c)(2), added par. (3).
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title VIII, §863(d), Aug. 17, 2006, 120 Stat. 1024, provided that: “The amendments made by this section \[enacting section 6039I of this title and amending this section\] shall apply to life insurance contracts issued after the date of the enactment of this Act \[Aug. 17, 2006\], except for a contract issued after such date pursuant to an exchange described in section 1035 of the Internal Revenue Code of 1986 for a contract issued on or prior to that date. For purposes of the preceding sentence, any material increase in the death benefit or other material change shall cause the contract to be treated as a new contract except that, in the case of a master contract (within the meaning of section 264(f)(4)(E) of such Code), the addition of covered lives shall be treated as a new contract only with respect to such additional covered lives.”
+Pub. L. 109–280, title VIII, §863(d), Aug. 17, 2006, 120 Stat. 1024, provided that: “The amendments made by this section \[enacting section 6039I of this title and amending this section\] shall apply to life insurance contracts issued after the date of the enactment of thisAct \[Aug. 17, 2006\], except for a contract issued after such date pursuant to an exchange described in section 1035 of the Internal Revenue Code of 1986 for a contract issued on or prior to that date. For purposes of the preceding sentence, any material increase in the death benefit or other material change shall cause the contract to be treated as a new contract except that, in the case of a master contract (within the meaning of section 264(f)(4)(E) of such Code), the addition of covered lives shall be treated as a new contract only with respect to such additional covered lives.”
 
 #### Effective Date of 2003 Amendment
 
@@ -552,7 +552,7 @@ Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1957, see section 23(g) of Pub. L. 85–866, set out as a note under section 403 of this title.
+Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1957, see section 23(g) ofPub. L. 85–866, set out as a note under section 403 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1998
 

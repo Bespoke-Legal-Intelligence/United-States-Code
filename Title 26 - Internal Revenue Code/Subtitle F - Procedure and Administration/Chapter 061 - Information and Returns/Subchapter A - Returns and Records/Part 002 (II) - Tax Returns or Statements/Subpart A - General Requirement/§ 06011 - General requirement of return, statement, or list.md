@@ -30,7 +30,7 @@ The Secretary may by regulations require any individual who receives allowances 
 
 #### (1) In general
 
-&emsp;The Secretary shall prescribe regulations providing standards for determining which returns must be filed on magnetic media or in other machine-readable form. The Secretary may not require returns of any tax imposed by subtitle A on individuals, estates, and trusts to be other than on paper forms supplied by the Secretary.
+&emsp;The Secretary shall prescribe regulations providing standards for determining which returns must be filed on magnetic media or in other machine-readable form. Except as provided in paragraph (3), the Secretary may not require returns of any tax imposed by subtitle A on individuals, estates, and trusts to be other than on paper forms supplied by the Secretary.
 
 #### (2) Requirements of regulations
 
@@ -41,6 +41,24 @@ The Secretary may by regulations require any individual who receives allowances 
 &emsp;&emsp;(B) shall take into account (among other relevant factors) the ability of the taxpayer to comply at reasonable cost with the requirements of such regulations.
 
 > &emsp;Notwithstanding the preceding sentence, the Secretary shall require partnerships having more than 100 partners to file returns on magnetic media.
+
+#### (3) Special rule for tax return preparers
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall require than <sup>1</sup> any individual income tax return prepared by a tax return preparer be filed on magnetic media if—
+
+&emsp;&emsp;&emsp;(i) such return is filed by such tax return preparer, and
+
+&emsp;&emsp;&emsp;(ii) such tax return preparer is a specified tax return preparer for the calendar year during which such return is filed.
+
+#### (B) Specified tax return preparer
+
+&emsp;&emsp;For purposes of this paragraph, the term “specified tax return preparer” means, with respect to any calendar year, any tax return preparer unless such preparer reasonably expects to file 10 or fewer individual income tax returns during such calendar year.
+
+#### (C) Individual income tax return
+
+&emsp;&emsp;For purposes of this paragraph, the term “individual income tax return” means any return of the tax imposed by subtitle A on individuals, estates, or trusts.
 
 #### (f) Promotion of electronic filing
 
@@ -60,13 +78,17 @@ Any taxable party to a prohibited tax shelter transaction (as defined in section
 
 &emsp;&emsp;<b>For requirement that returns of income, estate, and gift taxes be made whether or not there is tax liability, see subparts B and C.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 732; Pub. L. 85–859, title I, §161, Sept. 2, 1958, 72 Stat. 1305; Pub. L. 88–563, §3(a), Sept. 2, 1964, 78 Stat. 843; Pub. L. 89–44, title I, §101(b)(6), June 21, 1965, 79 Stat. 136; Pub. L. 90–59, §4(b), July 31, 1967, 81 Stat. 154; Pub. L. 91–128, §4 (f), (g), Nov. 26, 1969, 83 Stat. 267; Pub. L. 92–178, title V, §504(a), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title XIX, §§1904(b)(10)(A)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1817, 1834; Pub. L. 95–615, §207(c), Nov. 8, 1978, 92 Stat. 3108; Pub. L. 97–248, title III, §319, Sept. 3, 1982, 96 Stat. 610; Pub. L. 98–67, title I, §109(a), Aug. 5, 1983, 97 Stat. 383; Pub. L. 98–369, div. A, title VIII, §801(d)(12), July 18, 1984, 98 Stat. 997; Pub. L. 99–514, title XVIII, §1899A(52), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 100–647, title I, §1015(q)(1), Nov. 10, 1988, 102 Stat. 3572; Pub. L. 101–239, title VII, §7713(a), Dec. 19, 1989, 103 Stat. 2394; Pub. L. 105–34, title XII, §1224, Aug. 5, 1997, 111 Stat. 1019; Pub. L. 105–206, title II, §2001(c), July 22, 1998, 112 Stat. 723; Pub. L. 109–222, title V, §516(b)(2), May 17, 2006, 120 Stat. 371; Pub. L. 110–172, §11(g)(19), Dec. 29, 2007, 121 Stat. 2491.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 732; Pub. L. 85–859, title I, §161, Sept. 2, 1958, 72 Stat. 1305; Pub. L. 88–563, §3(a), Sept. 2, 1964, 78 Stat. 843; Pub. L. 89–44, title I, §101(b)(6), June 21, 1965, 79 Stat. 136; Pub. L. 90–59, §4(b), July 31, 1967, 81 Stat. 154; Pub. L. 91–128, §4 (f), (g), Nov. 26, 1969, 83 Stat. 267; Pub. L. 92–178, title V, §504(a), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title XIX, §§1904(b)(10)(A)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1817, 1834; Pub. L. 95–615, §207(c), Nov. 8, 1978, 92 Stat. 3108; Pub. L. 97–248, title III, §319, Sept. 3, 1982, 96 Stat. 610; Pub. L. 98–67, title I, §109(a), Aug. 5, 1983, 97 Stat. 383; Pub. L. 98–369, div. A, title VIII, §801(d)(12), July 18, 1984, 98 Stat. 997; Pub. L. 99–514, title XVIII, §1899A(52), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 100–647, title I, §1015(q)(1), Nov. 10, 1988, 102 Stat. 3572; Pub. L. 101–239, title VII, §7713(a), Dec. 19, 1989, 103 Stat. 2394; Pub. L. 105–34, title XII, §1224, Aug. 5, 1997, 111 Stat. 1019; Pub. L. 105–206, title II, §2001(c), July 22, 1998, 112 Stat. 723; Pub. L. 109–222, title V, §516(b)(2), May 17, 2006, 120 Stat. 371; Pub. L. 110–172, §11(g)(19), Dec. 29, 2007, 121 Stat. 2491; Pub. L. 111–92, §17(a), (b), Nov. 6, 2009, 123 Stat. 2996.)
 
 #### References in Text
 
 The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in subsec. (c)(1), is Pub. L. 106–519, Nov. 15, 2000, 114 Stat. 2423. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under section 1 of this title and Tables.
 
 #### Amendments
+
+2009—Subsec. (e)(1). Pub. L. 111–92, §17(b), substituted “Except as provided in paragraph (3), the Secretary may not” for “The Secretary may not” in second sentence.
+
+Subsec. (e)(3). Pub. L. 111–92, §17(a), added par. (3).
 
 2007—Subsec. (c). Pub. L. 110–172, §11(g)(19)(B), struck out “and FSC's” after “former DISCS” in heading.
 
@@ -114,13 +136,17 @@ Subsec. (d)(3). Pub. L. 91–128, §4(g), eased recordkeeping requirements by pr
 
 1958—Subsecs. (c), (d). Pub. L. 85–859 added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–92, §17(c), Nov. 6, 2009, 123 Stat. 2996, provided that: “The amendments made by this section \[amending this section\] shall apply to returns filed after December 31, 2010.”
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–222 applicable to disclosures the due date for which are after May 17, 2006, see section 516(d)(2) of Pub. L. 109–222, set out as an Effective Date note under section 4965 of this title.
 
 #### Effective Date of 1997 Amendment
 
-Section 1226 of title XII of Pub. L. 105–34, as amended by Pub. L. 105–206, title VI, §6012(e), July 22, 1998, 112 Stat. 819, provided that: “The amendments made by this part \[part I (§§1221–1226) of subtitle C of title XII of Pub. L. 105–34, enacting part IV of subchapter K of chapter 1 of this title and subchapter D of chapter 63 of this title, and amending this section and sections 6012, 6031, 6724, 7421, 7459, 7482, and 7485 of this title\] shall apply to partnership taxable years beginning after December 31, 1997.”
+Section 1226 of title XII of Pub. L. 105–34, as amended by Pub. L. 105–206, title VI, §6012(e), July 22, 1998, 112 Stat. 819, provided that: “The amendments made by this part \[part I (§§1221–1226) of subtitle C of title XII of Pub. L. 105–34, enacting part IV of subchapter K of chapter 1 of this title and subchapter D of chapter 63 of this title, and amending this section and sections 6012,6031, 6724, 7421, 7459, 7482, and 7485 of this title\] shall apply to partnership taxable years beginning after December 31, 1997.”
 
 #### Effective Date of 1989 Amendment
 
@@ -212,7 +238,7 @@ Pub. L. 105–206, title II, §2003(c), July 22, 1998, 112 Stat. 725, provided t
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Study of Wage Returns on Magnetic Tape; Report to Congress Not Later Than July 1, 1984
 

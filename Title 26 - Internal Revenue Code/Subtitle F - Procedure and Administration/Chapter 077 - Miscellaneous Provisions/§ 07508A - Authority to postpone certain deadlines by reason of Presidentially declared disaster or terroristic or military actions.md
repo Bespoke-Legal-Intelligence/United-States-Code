@@ -52,7 +52,7 @@ Pub. L. 106–170, title V, §522, Dec. 17, 1999, 113 Stat. 1927, provided that:
 
 “(a)
 
-In General.—In the case of a taxpayer determined by the Secretary of the Treasury (or the Secretary's delegate) to be affected by a Y2K failure, the Secretary may disregard a period of up to 90 days in determining, under the internal revenue laws, in respect of any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such taxpayer—
+In General.—In the case of a taxpayer determined by the Secretary of the Treasury (or the Secretary's delegate) to be affected by a Y2K failure, the Secretary may disregard a period of up to 90 days in determining, under the internal revenue laws, in respectof any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such taxpayer—
 
 &emsp;“(1) whether any of the acts described in paragraph (1) of section 7508(a) of the Internal Revenue Code of 1986 (without regard to the exceptions in parentheses in subparagraphs (A) and (B)) were performed within the time prescribed therefor; and
 
@@ -60,7 +60,7 @@ In General.—In the case of a taxpayer determined by the Secretary of the Treas
 
 “(b)
 
-Applicability of Certain Rules.—For purposes of this section, rules similar to the rules of subsections\(b) and (e) of section 7508 of the Internal Revenue Code of 1986 shall apply.”
+Applicability of Certain Rules.—For purposes of this section, rules similar to the rules of subsections (b) and (e) of section 7508 of the Internal Revenue Code of 1986 shall apply.”
 
 #### Abatement of Interest on Underpayments by Taxpayers in Presidentially Declared Disaster Areas
 

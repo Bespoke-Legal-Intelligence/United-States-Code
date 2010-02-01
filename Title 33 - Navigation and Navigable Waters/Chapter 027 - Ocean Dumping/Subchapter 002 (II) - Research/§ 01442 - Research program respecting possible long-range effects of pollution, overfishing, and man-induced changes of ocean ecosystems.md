@@ -14,11 +14,11 @@
 
 &emsp;(D) the development of methodologies, techniques, and equipment for disposal of waste materials to minimize degradation of the marine environment.
 
-(3) The Secretary of Commerce shall ensure that the comprehensive and continuing research program conducted under this subsection is consistent with the comprehensive plan for ocean pollution research and development and monitoring prepared under section 1703 <sup>1</sup> of this title.
+(3) The Secretary of Commerce shall ensure that the comprehensive and continuing research program conducted under this subsection is consistent with the comprehensive plan for oceanpollution research and development and monitoring prepared under section 1703 <sup>1</sup> of this title.
 
 #### (b) Action with other nations
 
-In carrying out his responsibilities under this section, the Secretary of Commerce, under the foreign policy guidance of the President andpursuant to international agreements and treaties made by the President with the advice and consent of the Senate, may act alone or in conjunction with any other nation or group of nations, and shall make known the results of his activities by such channels of communication as may appear appropriate.
+In carrying out his responsibilities under this section, the Secretary of Commerce, under the foreign policy guidance of the President and pursuant to international agreements and treaties made by the President with the advice and consent of the Senate, may act alone or in conjunction with any other nation or group of nations, and shall make known the results of his activities by such channels of communication as may appear appropriate.
 
 #### (c) Cooperation of other departments, agencies, and independent instrumentalities
 

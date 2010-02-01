@@ -16,7 +16,7 @@ Tampering.—No person may alter, remove, destroy, or otherwise tamper unlawfull
 
 &emsp;(2) a package, component of a package, or packaging, container, motor vehicle, rail freight car, aircraft, or vessel used to transport hazardous material.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 761; Pub. L. 103–311, title I, §117(b), Aug. 26, 1994, 108Stat. 1678; Pub. L. 103–429, §6(4), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 109–59, title VII, §7106, Aug. 10, 2005, 119 Stat. 1897.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 761; Pub. L. 103–311, title I, §117(b), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 103–429, §6(4), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 109–59, title VII, §7106, Aug. 10, 2005, 119 Stat. 1897.)
 
 Historical and Revision Notes
 
@@ -50,7 +50,7 @@ This amends 49:5104(a)(1) to clarify the restatement of 49 App.:1804(e)(1) by se
 
 #### Amendments
 
-2005—Subsec. (a)(1). Pub. L. 109–59, §7106(a), substituted “a package, component of a package, or packaging for” for “a container, package, or packaging (or a component of a container, package, or packaging) for” and “the package, component of a package, or packaging meets” for “the container, package, or packaging (or a component of a container, package, or packaging) meets”.
+2005—Subsec. (a)(1). Pub. L. 109–59, §7106(a), substituted “a package, component of a package, or packaging for” for “a container, package, or packaging (or a component of a container, package, or packaging) for” and “the package, component of a package, orpackaging meets” for “the container, package, or packaging (or a component of a container, package, or packaging) meets”.
 
 Subsec. (b). Pub. L. 109–59, §7106(b)(1), substituted “No person may” for “A person may not” in introductory provisions.
 

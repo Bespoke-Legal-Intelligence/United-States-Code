@@ -60,7 +60,7 @@ The determination referred to in subsection (a) is a determination by the Presid
 
 &emsp;&emsp;(F) A description of the steps that India is taking to secure materials and technology applicable for the development, acquisition, or manufacture of weapons of mass destruction and the means to deliver such weapons through the application of comprehensive export control legislation and regulations, and through harmonization with and adherence to MTCR, NSG, Australia Group, and Wassenaar Arrangement guidelines, compliance with United Nations Security Council Resolution 1540, and participation in the Proliferation Security Initiative.
 
-&emsp;&emsp;(G) A description and assessment of the specific measures that India has taken tofully and actively participate in United States and international efforts to dissuade, isolate, and, if necessary, sanction and contain Iran for its efforts to acquire weapons of mass destruction, including a nuclear weapons capability and the capability to enrich uranium or reprocess nuclear fuel and the means to deliver weapons of mass destruction.
+&emsp;&emsp;(G) A description and assessment of the specific measures that India has taken to fully and actively participate in United States and international efforts to dissuade, isolate, and, if necessary, sanction and contain Iran for its efforts to acquire weapons of mass destruction, including a nuclear weapons capability and the capability to enrich uranium or reprocess nuclear fuel and the means to deliver weapons of mass destruction.
 
 &emsp;&emsp;(H) A description of the decision of the NSG relating to nuclear cooperation with India, including whether nuclear cooperation by the United States under an agreement for cooperation arranged pursuant to section 2153 of title 42 is consistent with the decision, practices, and policies of the NSG.
 
@@ -166,7 +166,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 #### (1) Information on nuclear activities of India
 
-&emsp;The President shall keep the appropriate congressional committees fully and currently informed of the facts and implications of any significant nuclear activities of India, including—
+&emsp;The President shall keep the appropriate congressional committees fully and currently informed of the facts and implications of anysignificant nuclear activities of India, including—
 
 &emsp;&emsp;(A) any material noncompliance on the part of the Government of India with—
 
@@ -194,7 +194,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 #### (2) Implementation and compliance report
 
-&emsp;Not later than 180 days after the date on which an agreement for cooperation withIndia arranged pursuant to section 2153 of title 42 enters into force, and annually thereafter, the President shall submit to the appropriate congressional committees a report including—
+&emsp;Not later than 180 days after the date on which an agreement for cooperation with India arranged pursuant to section 2153 of title 42 enters into force, and annually thereafter, the President shall submit to the appropriate congressional committees a report including—
 
 &emsp;&emsp;(A) a description of any additional nuclear facilities and nuclear materials that the Government of India has placed or intends to place under IAEA safeguards;
 
@@ -320,7 +320,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 &emsp;&emsp;&emsp;(iii) an analysis of—
 
-&emsp;&emsp;&emsp;&emsp;(I) any instances in which the United States or India requested consultations arising from concerns over compliance with the provisions of Article 7(1) of the Agreement, and the results of such consultations; and
+&emsp;&emsp;&emsp;&emsp;(I) any instances in which the United States or India requested consultations arising from concerns over compliancewith the provisions of Article 7(1) of the Agreement, and the results of such consultations; and
 
 &emsp;&emsp;&emsp;&emsp;(II) any matters not otherwise identified in this report that have become the subject of consultations pursuant to Article 13(2) of the Agreement, and a statement as to whether such matters were resolved by the end of the reporting period; and
 
@@ -350,7 +350,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 This chapter, referred to in subsec. (d)(1), (2), (3)(A), was in the original “this title”, meaning title I of Pub. L. 109–401, Dec. 18, 2006, 120 Stat. 2726, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 8001 of this title and Tables.
 
-Section 101(a) of the United States-India Nuclear Cooperation Approval and Nonproliferation EnhancementAct, referred to in subsec. (g)(2)(M), is section 101(a) of Pub. L. 110–369, which is set out in a note under section 8001 of this title.
+Section 101(a) of the United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement Act, referred to in subsec. (g)(2)(M), is section 101(a) of Pub. L. 110–369, which is set out in a note under section 8001 of this title.
 
 #### Codification
 

@@ -24,7 +24,7 @@
 
 #### (4) Applicability of criteria
 
-&emsp;On the establishment of the criteria under paragraph (1), any use of the granular mine tailings described in paragraph (1) in a transportation project that is carried out, in whole or in part, using Federal funds, shall meet the criteria established under paragraph (1).
+&emsp;On the establishment of the criteria under paragraph (1), any use of the granular minetailings described in paragraph (1) in a transportation project that is carried out, in whole or in part, using Federal funds, shall meet the criteria established under paragraph (1).
 
 #### (b) Effect of sections
 

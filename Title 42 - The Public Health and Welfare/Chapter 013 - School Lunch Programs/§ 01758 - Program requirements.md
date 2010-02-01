@@ -568,6 +568,22 @@ Duration.—Except as otherwise specified in paragraph (3)(E), (3)(H)(ii), and s
 
 Exclusion of certain military housing allowances.—The amount of a basic allowance provided under section 403 of title 37 on behalf of a member of a uniformed service for housing that is acquired or constructed under subchapter IV of chapter 169 of title 10, or any related provision of law, shall not be considered to be income for the purpose of determining the eligibility of a child who is a member of the household of the member of a uniformed service for free or reduced price lunches under this chapter.
 
+(14)
+
+Combat pay.—
+
+&emsp;(A)
+
+Definition of combat pay.—In this paragraph, the term “combat pay” means any additional payment under chapter 5 of title 37, or otherwise designated by the Secretary to be appropriate for exclusion under this paragraph, that is received by or from a member of the United States Armed Forces deployed to a designated combat zone, if the additional pay—
+
+&emsp;&emsp;(i) is the result of deployment to or service in a combat zone; and
+
+&emsp;&emsp;(ii) was not received immediately prior to serving in a combat zone.
+
+&emsp;(B)
+
+Exclusion.—Combat pay shall not be considered to be income for the purpose of determining the eligibility for free or reduced price meals of a child who is a member of the household of a member of the United States Armed Forces.
+
 #### (c) Operation on nonprofit basis; donation of agricultural commodities
 
 School lunch programs under this chapter shall be operated on a nonprofit basis. Commodities purchased under the authority of section 612c of title 7, may be donated by the Secretary to schools, in accordance with the needs as determined by local school authorities, for utilization in the school lunch program under this chapter as well as to other schools carrying out nonprofit school lunch programs and institutions authorized to receive such commodities. The requirements of this section relating to the service of meals without cost or at a reduced cost shall apply to the lunch program of any school utilizing commodities donated under any provision of law.
@@ -582,7 +598,7 @@ School lunch programs under this chapter shall be operated on a nonprofit basis.
 
 &emsp;(B) documentation showing that the household is participating in the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\] has been provided to the appropriate local educational agency;
 
-&emsp;(C) documentation has been provided to the appropriate local educational agency showing that the family is receiving assistance under the State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995;
+&emsp;(C) documentation has been provided to the appropriate local educational agency showing that the family is receiving assistance under the State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 etseq.\] that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995;
 
 &emsp;(D) documentation has been provided to the appropriate local educational agency showing that the child meets the criteria specified in clauses (iv) or (v) of subsection (b)(12)(A) of this section; or
 
@@ -636,7 +652,7 @@ Nutrient analysis.—The Secretary may not require a school to conduct or use a 
 
 (5)
 
-Waiver of requirement for weighted averages for nutrient analysis.—During the period ending on September 30, 2009, the Secretary shall not require the use of weighted averages for nutrient analysis of menu items and foods offered or served as part of a meal offered or served under the school lunch program under this chapter or the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773).
+Waiver of requirement for weighted averages for nutrient analysis.—During the period ending on September 30, 2010, the Secretary shall not require the use of weighted averages for nutrient analysis of menu items and foods offered or served as part of a meal offered or served under the school lunch program under this chapter or the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773).
 
 #### (g) Justification of production records; paperwork reduction
 
@@ -660,7 +676,7 @@ Not later than 1 year after November 2, 1994, the Secretary shall provide a noti
 
 #### (3) Audits and reports by States
 
-&emsp;For each of fiscal years 2006 through 2009, each State shall annually—
+&emsp;For each of fiscal years 2006 through 2010, each State shall annually—
 
 &emsp;&emsp;(A) audit food safety inspections of schools conducted under paragraphs (1) and (2); and
 
@@ -668,11 +684,11 @@ Not later than 1 year after November 2, 1994, the Secretary shall provide a noti
 
 #### (4) Audit by the Secretary
 
-&emsp;For each of fiscal years 2006 through 2009, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
+&emsp;For each of fiscal years 2006 through 2010, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
 
 #### (5) School food safety program
 
-&emsp;Each school food authority shall implement a school food safety program, in the preparation and service of each meal served to children, that complies with any hazard analysis and critical control point system established by the Secretary.
+&emsp;Each school food authority shall implement a school food safety program, in the preparation and service of each meal served to children, that complies with any hazard analysisand critical control point system established by the Secretary.
 
 #### (i) Single permanent agreement between State agency and school food authority; common claims form
 
@@ -698,19 +714,19 @@ The Secretary shall—
 
 &emsp;(3) allow institutions receiving funds under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), including the Department of Defense Fresh Fruit and Vegetable Program, to use a geographic preference for the procurement of unprocessed agricultural products, both locally grown and locally raised.
 
-(June 4, 1946, ch. 281, §9, 60 Stat. 233; Pub. L. 90–302, §2(b), May 8, 1968, 82 Stat. 117; Pub. L. 91–248, §6(a), (b), (d), (e), May 14, 1970, 84 Stat. 210; Pub. L. 92–153, §5, Nov. 5, 1971, 85 Stat. 420; Pub. L. 92–433, §5, Sept. 26, 1972, 86 Stat. 726; Pub. L. 93–150, §9, Nov. 7, 1973, 87 Stat. 564; Pub. L. 93–326, §4, June 30, 1974, 88 Stat. 286; Pub. L. 94–105, §6, Oct. 7, 1975, 89 Stat. 512; Pub. L. 95–166, §8, Nov. 10, 1977, 91 Stat. 1335; Pub. L. 95–627, §8, Nov. 10, 1978, 92 Stat. 3622; Pub. L. 97–35, title VIII, §§803(a), (b), 811, Aug. 13, 1981, 95 Stat. 524, 525, 529; Pub. L. 99–500, title III, §§322–324, Oct. 18, 1986, 100 Stat. 1783–361, and Pub. L. 99–591, title III, §§322–324, Oct. 30, 1986, 100 Stat. 3341–364; Pub. L. 99–661, div. D, title II, §§4202–4204, Nov. 14, 1986, 100 Stat. 4072; Pub. L. 100–356, §1, June 28, 1988, 102 Stat. 669; Pub. L. 101–147, title I, §101, title II, §202(a)(1), (2)(A), (b), title III, §§305, 312(1), (2), Nov. 10, 1989, 103 Stat. 878, 908, 914, 916; Pub. L. 103–448, title I, §§105(a), 106–109(a), 110, Nov. 2, 1994, 108 Stat. 4701–4705; Pub. L. 104–149, §2, May 29, 1996, 110 Stat. 1379; Pub. L. 104–193, title I, §109(g), title VII, §§702, 703, Aug. 22, 1996, 110 Stat. 2170, 2288, 2289; Pub. L. 105–336, title I, §102, Oct. 31, 1998, 112 Stat. 3144; Pub. L. 106–224, title II, §242(a), June 20, 2000, 114 Stat. 411; Pub. L. 107–171, title IV, §§4302(a), 4303, May 13, 2002, 116 Stat. 330, 331; Pub. L. 108–134, §1, Nov. 22, 2003, 117 Stat. 1389; Pub. L. 108–211, §1, Mar. 31, 2004, 118 Stat. 566; Pub. L. 108–265, title I, §§102–104(b)(1), (d)(1), (2), 105(a), 106–108(a), 109–112, June 30, 2004, 118 Stat. 731–734, 737, 738, 745–747; Pub. L. 108–447, div. A, title VII, §788(a), Dec. 8, 2004, 118 Stat. 2851; Pub. L. 110–134, §29(c)(1), Dec. 12, 2007, 121 Stat. 1449; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (E), (2)(Z), 4302, May 22, 2008, 122 Stat. 1095–1097, 1125; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (E), (2)(Z), 4302, June 18, 2008, 122 Stat. 1664, 1857, 1859, 1887.)
+(June 4, 1946, ch. 281, §9, 60 Stat. 233; Pub. L. 90–302, §2(b), May 8, 1968, 82 Stat. 117; Pub. L. 91–248, §6(a), (b), (d), (e), May 14, 1970, 84 Stat. 210; Pub. L. 92–153, §5, Nov. 5, 1971, 85 Stat. 420; Pub. L. 92–433, §5, Sept. 26, 1972, 86 Stat. 726; Pub. L. 93–150, §9, Nov. 7, 1973, 87 Stat. 564; Pub. L. 93–326, §4, June 30, 1974, 88 Stat. 286; Pub. L. 94–105, §6, Oct. 7, 1975, 89 Stat. 512; Pub. L. 95–166, §8, Nov. 10, 1977, 91 Stat. 1335; Pub. L. 95–627, §8, Nov. 10, 1978, 92 Stat. 3622; Pub. L. 97–35, title VIII, §§803(a), (b), 811, Aug. 13, 1981, 95 Stat. 524, 525, 529; Pub. L. 99–500, title III, §§322–324, Oct. 18, 1986, 100 Stat. 1783–361, and Pub. L. 99–591, title III, §§322–324, Oct. 30, 1986, 100 Stat. 3341–364; Pub. L. 99–661, div. D, title II, §§4202–4204, Nov. 14, 1986, 100 Stat. 4072; Pub. L. 100–356, §1, June 28, 1988, 102 Stat. 669; Pub. L. 101–147, title I, §101, title II, §202(a)(1), (2)(A), (b), title III, §§305, 312(1), (2), Nov. 10, 1989, 103 Stat. 878, 908, 914, 916; Pub. L. 103–448, title I, §§105(a), 106–109(a), 110, Nov. 2, 1994, 108 Stat. 4701–4705; Pub. L. 104–149, §2, May 29, 1996, 110 Stat. 1379; Pub. L. 104–193, title I, §109(g), title VII, §§702, 703, Aug. 22, 1996, 110 Stat. 2170, 2288, 2289; Pub. L. 105–336, title I, §102, Oct. 31, 1998, 112 Stat. 3144; Pub. L. 106–224, title II, §242(a), June 20, 2000, 114 Stat. 411; Pub. L. 107–171, title IV, §§4302(a), 4303, May 13, 2002, 116 Stat. 330, 331; Pub. L. 108–134, §1, Nov. 22, 2003, 117 Stat. 1389; Pub. L. 108–211, §1, Mar. 31, 2004, 118 Stat. 566; Pub. L. 108–265, title I, §§102–104(b)(1), (d)(1), (2), 105(a), 106–108(a), 109–112, June 30, 2004, 118 Stat. 731–734, 737, 738, 745–747; Pub. L. 108–447, div. A, title VII, §788(a), Dec. 8, 2004, 118 Stat. 2851; Pub. L. 110–134, §29(c)(1), Dec. 12, 2007, 121 Stat. 1449; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (E), (2)(Z), 4302, May 22, 2008, 122 Stat. 1095–1097, 1125; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (E), (2)(Z), 4302, June 18, 2008, 122 Stat. 1664, 1857, 1859, 1887; Pub. L. 111–80, title VII, §§734(a), 749(b), (c), Oct. 21, 2009, 123 Stat. 2125, 2131.)
 
 #### References in Text
 
-The Child Nutrition Act of 1966, referred to in text, is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+The Child Nutrition Act of 1966, referred to in text, is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
-The Food and Nutrition Act of 2008, referred to in text, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703,which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in text, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV, title XIX, and title XXI of the Act are classified generally to part A (§601 et seq.) of subchapter IV, subchapter XIX (§1396 et seq.), and subchapter XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV, title XIX, and title XXI of the Act are classified generally to part A (§601 et seq.) of subchapter IV, subchapter XIX (§1396 et seq.), and subchapter XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Runaway and Homeless Youth Act, referred to in subsec. (b)(5)(C), (12)(A)(v), is title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1129, which is classified generally to subchapter III (§5701 et seq.) of chapter 72 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 
-The Head Start Act, referred to in subsec. (b)(12)(A)(iii), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+The Head Start Act, referred to in subsec. (b)(12)(A)(iii), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
 #### Codification
 
@@ -719,6 +735,12 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2009—Subsec. (b)(14). Pub. L. 111–80, §734(a), added par. (14).
+
+Subsec. (f)(5). Pub. L. 111–80, §749(b), substituted “2010” for “2009”.
+
+Subsec. (h)(3), (4). Pub. L. 111–80, §749(c), substituted “2010” for “2009”.
 
 2008—Subsec. (b)(2)–(4). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(Z), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” wherever appearing.
 
@@ -840,7 +862,7 @@ Subsec. (i). Pub. L. 105–336, §102(d), added subsec. (i).
 
 “(ii) Not later than 30 days after the Secretary provides an estimate required under clause (i), the Director of the Congressional Budget Office shall provide to the appropriate committees of Congress a report on whether the Director concurs with the estimate of the Secretary.
 
-“(iii) The quantity of lowfat cheese that is purchased under this subparagraph shall be in addition to thequantity of cheese that is historically purchased by the Secretary to carry out school feeding programs. The Secretary shall take such actions as are necessary to ensure that purchases under this subparagraph shall not displace commercial purchases of cheese by schools.”
+“(iii) The quantity of lowfat cheese that is purchased under this subparagraph shall be in addition to the quantity of cheese that is historically purchased by the Secretary to carry out school feeding programs. The Secretary shall take such actions as are necessary to ensure that purchases under this subparagraph shall not displace commercial purchases of cheese by schools.”
 
 Subsec. (a)(3), (4). Pub. L. 104–193, §702(a)(2), (3), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The Secretary shall establish, in cooperation with State educational agencies, administrative procedures, which shall include local educational agency and student participation, designed to diminish waste of foods which are served by schools participating in the school lunch program under this chapter without endangering the nutritional integrity of the lunches served by such schools.”
 
@@ -882,7 +904,7 @@ Subsec. (b)(2)(C)(iii) to (v). Pub. L. 103–448, §108, added cls. (iii) to (v)
 
 Subsec. (b)(6)(A). Pub. L. 103–448, §109(a)(1), struck out “a member of” after “if the child is” in introductory provisions, inserted “a member of” after “(i)” and “(ii)”, and added cl. (iii).
 
-Subsec. (b)(6)(B). Pub. L. 103–448, §109(a)(2), inserted “, or of enrollment or participation in a Head Startprogram on the basis described in subparagraph (A)(iii),” after “aid to families with dependent children”.
+Subsec. (b)(6)(B). Pub. L. 103–448, §109(a)(2), inserted “, or of enrollment or participation in a Head Start program on the basis described in subparagraph (A)(iii),” after “aid to families with dependent children”.
 
 Subsecs. (f) to (h). Pub. L. 103–448, §§106(b), (c), 110, added subsecs. (f) to (h).
 
@@ -932,7 +954,7 @@ Subsec. (d). Pub. L. 97–35, §803(b), added subsec. (d).
 
 1975—Subsec. (a). Pub. L. 94–105, §6(a), directed Secretary to establish administrative procedures designed to diminish food waste in school lunch programs and made provision for senior high school students to refuse food which they do not intend to consume without affecting lunch charges or payments to schools for lunches served.
 
-Subsec. (b)(1). Pub. L. 94–105, §6(b), designated existing provisions as subsec. (b)(1), struck out “if a school elects to serve reduced-price lunches” after “reduced price not to exceed 20 cents”, inserted provision for a reduced price lunch for any child eligible under reduced price lunch income guidelines, established income guidelines for reduced price lunches, beginning with fiscal year ending June 30, 1976, at 95 per centum above applicable family size income levels in income poverty guidelines, and provided for a reduced price lunch not to exceed 20 cents to any child belonging to a household whose income falls between guidelines for a free lunch and 95 per centum above income levels in the income poverty guidelines.
+Subsec. (b)(1). Pub. L. 94–105, §6(b), designated existing provisions as subsec. (b)(1), struck out “if a school elects to serve reduced-price lunches” after “reduced price not to exceed 20 cents”, inserted provision for a reduced price lunch for any child eligible under reduced price lunch income guidelines, established income guidelines for reduced price lunches, beginning with fiscal year ending June 30, 1976, at 95 per centum aboveapplicable family size income levels in income poverty guidelines, and provided for a reduced price lunch not to exceed 20 cents to any child belonging to a household whose income falls between guidelines for a free lunch and 95 per centum above income levels in the income poverty guidelines.
 
 Pub. L. 94–105, §6(c), substituted provision adjusting income poverty guidelines that take effect July 1 of each year according to percentage change in Consumer Price Index for 12-month period ending in April of that year, except that the first adjustment, effective July 1, 1976, shall be made according to percentage change between average Consumer Price Index for 1974, on which the 1975–1976 guidelines are based, and Consumer Price Index for April 1976 for provision basing the guidelines on average Consumer Price Index for previous calendar year.
 
@@ -992,7 +1014,7 @@ Amendment by Pub. L. 105–336 effective Oct. 1, 1998, see section 401 of Pub. L
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 109(g) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
+Amendment by section 109(g) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced beforesuch date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
 #### Effective Date of 1994 Amendment
 

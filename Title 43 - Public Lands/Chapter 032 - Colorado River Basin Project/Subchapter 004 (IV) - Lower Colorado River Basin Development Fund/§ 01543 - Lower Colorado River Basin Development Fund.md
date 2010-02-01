@@ -6,7 +6,7 @@ There is hereby established a separate fund in the Treasury of the United States
 
 #### (b) Appropriations
 
-(1) All appropriations made for the purpose of carrying out the provisions of subchapter III of this chapter shall be credited to the development fund as advances from the general fund of the Treasury, and shall be available for such purpose.
+(1) All appropriations made for the purpose of carrying out the provisions of subchapter III of this chapter shall be credited to the development fund as advances from the general fund ofthe Treasury, and shall be available for such purpose.
 
 (2) Except as provided in section 1528(b) of this title, sums advanced by non-Federal entities for the purpose of carrying out the provisions of subchapter III of this chapter shall be credited to the development fund and shall be available without further appropriation for such purpose.
 
@@ -22,7 +22,7 @@ There shall also be credited to the development fund—
 
 #### (d) Use of revenue funds
 
-All moneys collected and credited to the development fund pursuant to subsection (b) andclauses (1) and (3) of subsection (c) of this section and the portion of revenues derived from the sale of power and energy for use in Arizona pursuant to clause (2) of subsection (c) of this section shall be available, without further appropriation, for—
+All moneys collected and credited to the development fund pursuant to subsection (b) and clauses (1) and (3) of subsection (c) of this section and the portion of revenues derived from the sale of power and energy for use in Arizona pursuant to clause (2) of subsection (c) of this section shall be available, without further appropriation, for—
 
 &emsp;(1) defraying the costs of operation, maintenance, and replacements of, and emergency expenditures for, all facilities of the projects, within such separate limitations as may be included in annual appropriation Acts; and
 
@@ -88,7 +88,7 @@ Except as provided in subsection (f) of this section, revenues credited to the d
 
 &emsp;The funds and portion of revenues described in paragraph (1) that are in excess of amounts credited under paragraph (1) shall be available, on an annual basis, without further appropriation, in order of priority—
 
-&emsp;&emsp;(A) to pay annually the fixed operation, maintenance and replacement charges associated with the delivery of Central Arizona Project water under long-term contracts held by Arizona Indian tribes (as defined in section 2 of the Arizona Water Settlements Act);
+&emsp;&emsp;(A) to pay annually the fixed operation, maintenance and replacement charges associated with the delivery of Central ArizonaProject water under long-term contracts held by Arizona Indian tribes (as defined in section 2 of the Arizona Water Settlements Act);
 
 &emsp;&emsp;(B) to make the final outstanding annual payment for the costs of each unit of the projects authorized under subchapter III of this chapter that are to be repaid by the Central Arizona Water Conservation District;
 
@@ -126,7 +126,7 @@ Except as provided in subsection (f) of this section, revenues credited to the d
 
 #### (ii) Lawful investments
 
-&emsp;&emsp;&emsp;For purposes of clause (i), obligations of government corporations and government-sponsored entities whose charter statutes provide that their obligations are lawful investments for federally managed funds includes any of the following securities orsecurities with comparable language concerning the investment of federally managed funds:
+&emsp;&emsp;&emsp;For purposes of clause (i), obligations of government corporations and government-sponsored entities whose charter statutes provide that their obligations are lawful investments for federally managed funds includes any of the following securities or securities with comparable language concerning the investment of federally managed funds:
 
 &emsp;&emsp;&emsp;&emsp;(I) Obligations of the United States Postal Service as authorized by section 2005 of title 39.
 
@@ -158,7 +158,7 @@ Except as provided in subsection (f) of this section, revenues credited to the d
 
 #### (g) Repayment of costs
 
-All revenues credited to the development fund in accordance with subsection (c)(2) of this section (excluding only those revenues derived from the sale of power and energy for use in Arizona during the payout period of the Central Arizona Project as authorized herein) and such other revenues as remain in the development fund after making the payments required by subsections (d) and (f) of this section shall be available (1) to make payments, if any, as required by sections 616aa–1 and 620d–1 of this title, (2) for repayment to the general fund of the Treasury the costs of each salinity control unit or separable feature thereof <sup>2</sup> the costs of measures to replace incidental fish and wildlife values foregone, and the costs of on-farm measures payable from the Lower Colorado River Basin Development Fund in accordance with sections 1595(a)(2), 1595(a)(3), and 1595(b) of this title and (3) upon appropriation by the Congress, to assist in the repayment of reimbursable costs incurred in connection with units hereafter constructed to provide for the augmentation of the water supplies of the Colorado River for use below Lee Ferry as may be authorized as a result of the investigations and recommendations made pursuant to sections 1511 and 1513(a) of this title.
+All revenues credited to the development fund in accordance with subsection (c)(2) of this section (excluding only those revenues derived from the sale of power and energy for use in Arizona during the payout period of the Central Arizona Project as authorized herein) and such other revenues as remain in the development fund after making the payments required by subsections (d) and (f) of this section shall be available (1) to make payments, if any, as required by sections 616aa–1 and 620d–1 of this title, (2) for repayment to the general fund of the Treasury the costs of each salinity control unit or separable feature thereof <sup>2</sup> the costs of measures to replace incidental fish and wildlife values foregone, and the costs of on-farm measures payable from the Lower Colorado River Basin Development Fund in accordance with sections1595(a)(2), 1595(a)(3), and 1595(b) of this title and (3) upon appropriation by the Congress, to assist in the repayment of reimbursable costs incurred in connection with units hereafter constructed to provide for the augmentation of the water supplies of the Colorado River for use below Lee Ferry as may be authorized as a result of the investigations and recommendations made pursuant to sections 1511 and 1513(a) of this title.
 
 #### (h) Interest rate
 
@@ -222,7 +222,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 Pub. L. 108–451, title I, §107(b), Dec. 10, 2004, 118 Stat. 3498, provided that: “Amounts made available under the amendment made by subsection (a) \[amending this section\]—
 
-&emsp;“(1) shall be identified and retained in the Lower Colorado River Basin Development Fund established by section 403 of the Colorado River Basin Project Act (43 U.S.C. 1543); and
+&emsp;“(1) shall be identified and retained in the Lower Colorado River Basin Development Fund establishedby section 403 of the Colorado River Basin Project Act (43 U.S.C. 1543); and
 
 &emsp;“(2) shall not be expended or withdrawn from that fund until the later of—
 

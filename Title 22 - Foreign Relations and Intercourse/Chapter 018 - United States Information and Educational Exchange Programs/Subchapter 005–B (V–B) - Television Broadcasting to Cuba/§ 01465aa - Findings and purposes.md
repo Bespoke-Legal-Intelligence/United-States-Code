@@ -2,7 +2,7 @@
 
 The Congress finds and declares that—
 
-&emsp;(1) it is the policy of the United States to support the right of the people of Cuba to seek, receive, and impart information and ideas through any media and regardless offrontiers, in accordance with article 19 of the Universal Declaration of Human Rights;
+&emsp;(1) it is the policy of the United States to support the right of the people of Cuba to seek, receive, and impart information and ideas through any media and regardless of frontiers, in accordance with article 19 of the Universal Declaration of Human Rights;
 
 &emsp;(2) consonant with this policy, television broadcasting to Cuba may be effective in furthering the open communication of accurate information and ideas to the people of Cuba and, in particular, information about Cuba;
 

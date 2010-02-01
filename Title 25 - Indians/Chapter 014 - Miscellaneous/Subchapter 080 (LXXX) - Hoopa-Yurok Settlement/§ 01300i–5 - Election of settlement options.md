@@ -24,7 +24,7 @@
 
 > may elect to be, and, upon such election, shall be entitled to be, enrolled as a full member of the Hoopa Valley Tribe.
 
-(2) Notwithstanding any provision of the constitution, ordinances or resolutions of the Hoopa Valley Tribe to the contrary, the Secretary shall cause any entitled person electing to be enrolled as a member of the Hoopa Valley Tribe to be so enrolled and such person shall thereafter be entitled to the same rights, benefits, and privileges as any other member of such tribe.
+(2) Notwithstanding any provision of the constitution, ordinances or resolutions of the Hoopa Valley Tribe to the contrary, the Secretary shall cause any entitled person electing to be enrolled as a member of the Hoopa Valley Tribeto be so enrolled and such person shall thereafter be entitled to the same rights, benefits, and privileges as any other member of such tribe.
 
 (3) The Secretary shall determine the quantum of “Indian blood” or “Hoopa Indian blood”, if any, of each person enrolled in the Hoopa Valley Tribe under this subsection pursuant to the criteria established in the March 31, 1982, decision of the United States Court of Claims in the case of Jesse Short et al. v. United States, (Cl. Ct. No. 102–63).
 
@@ -38,7 +38,7 @@
 
 (3) The Secretary, subject to the provisions of section 1407 of this title, shall pay to each person making an election under this subsection, $5,000 out of the Settlement Fund for those persons who are, on the date established pursuant to subsection (a)(4) of this section, below the age of 50 years, and $7,500 out of the Settlement Fund for those persons who are, on that date, age 50 or older.
 
-(4) Any person making an election under this subsection shall no longer have any right or interest whatsoever in the tribal, communal, or unallotted land, property, resources, or rights within, or appertaining to, the Hoopa Valley Reservation or the Hoopa Valley Tribe or, except to the extent authorized by paragraph (3), in the Settlement Fund. Any such person shallalso be deemed to have granted to members of the Interim Council established under section 1300i–8 of this title an irrevocable proxy directing them to approve a proposed resolution waiving any claim the Yurok Tribe may have against the United States arising out of the provisions of this subchapter, and granting tribal consent as provided in section 1300i–8(d)(2) of this title.
+(4) Any person making an election under this subsection shall no longer have any right or interest whatsoever in the tribal, communal, or unallotted land, property, resources, or rights within, or appertaining to, the Hoopa Valley Reservation or the Hoopa Valley Tribe or, except to the extent authorized by paragraph (3), in the Settlement Fund. Any such person shall also be deemed to have granted to members of the Interim Council established under section 1300i–8 of this title an irrevocable proxy directing them to approve a proposed resolution waiving any claim the Yurok Tribe may have against the United States arising out of the provisions of this subchapter, and granting tribal consent as provided in section 1300i–8(d)(2) of this title.
 
 #### (d) Lump sum payment option
 

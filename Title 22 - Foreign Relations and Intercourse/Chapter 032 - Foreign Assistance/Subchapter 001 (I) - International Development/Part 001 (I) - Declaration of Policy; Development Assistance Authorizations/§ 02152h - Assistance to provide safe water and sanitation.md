@@ -260,7 +260,7 @@ Definition.—In this subsection, the term ‘appropriate congressional committe
 
 “(a)
 
-Sense of Congress.—It is the sense of Congress that United States programs to support and encourageefforts around the world to develop river basin, aquifer, and other watershed-wide mechanisms for governance and cooperation are critical components of long-term United States national security and should be expanded.
+Sense of Congress.—It is the sense of Congress that United States programs to support and encourage efforts around the world to develop river basin, aquifer, and other watershed-wide mechanisms for governance and cooperation are critical components of long-term United States national security and should be expanded.
 
 “(b)
 
@@ -270,7 +270,7 @@ Report.—The Secretary of State, in consultation with the Administrator of the 
 
 “(a)
 
-In General.—There are authorized to be appropriated for fiscal year 2006 and each subsequent fiscal year such sums as may be necessary to carry out this Act and the amendments made by this Act.
+In General.—There are authorized to be appropriated for fiscal year 2006 and each subsequent fiscalyear such sums as may be necessary to carry out this Act and the amendments made by this Act.
 
 “(b)
 

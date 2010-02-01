@@ -132,11 +132,11 @@ The Administrator shall provide technical assistance to States and local governm
 
 #### (1) In general
 
-&emsp;Beginning not later than 18 months after the date of publication of performance criteria under subsection (a) of this section, based on information made available to the Administrator, the Administrator shall identify, and maintain a list of, discrete coastal recreation waters adjacent to beaches or similar points of access that are used by the public that—
+&emsp;Beginning not later than 18 months after the date of publication of performance criteria under subsection (a) of this section, based on information made available to the Administrator, the Administrator shall identify, andmaintain a list of, discrete coastal recreation waters adjacent to beaches or similar points of access that are used by the public that—
 
 &emsp;&emsp;(A) specifies any waters described in this paragraph that are subject to a monitoring and notification program consistent with the performance criteria established under subsection (a) of this section; and
 
-&emsp;&emsp;(B) specifies any waters described in this paragraph for which there is no monitoring and notification program (including waters for which fiscal constraints will prevent the State or the Administrator from performing monitoring and notification consistent withthe performance criteria established under subsection (a) of this section).
+&emsp;&emsp;(B) specifies any waters described in this paragraph for which there is no monitoring and notification program (including waters for which fiscal constraints will prevent the State or the Administrator from performing monitoring and notification consistent with the performance criteria established under subsection (a) of this section).
 
 #### (2) Availability
 

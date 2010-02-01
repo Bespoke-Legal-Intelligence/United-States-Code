@@ -20,7 +20,7 @@ Notwithstanding any other provision of law and except as provided in subsection 
 
 (2) Subsection (a) of this section shall not apply to any benefit payable under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] to an alien who is lawfully present in the United States as determined by the Attorney General, to any benefit if nonpayment of such benefit would contravene an international agreement described in section 233 of the Social Security Act \[42 U.S.C. 433\], to any benefit if nonpayment would be contrary to section 202(t) of the Social Security Act \[42 U.S.C. 402(t)\], or to any benefit payable under title II of the Social Security Act to which entitlement is based on an application filed in or before August 1996.
 
-(3) Subsection (a) of this section shall not apply to any benefit payable under title XVIII ofthe Social Security Act \[42 U.S.C. 1395 et seq.\] (relating to the medicare program) to an alien who is lawfully present in the United States as determined by the Attorney General and, with respect to benefits payable under part A of such title \[42 U.S.C. 1395c et seq.\], who was authorized to be employed with respect to any wages attributable to employment which are counted for purposes of eligibility for such benefits.
+(3) Subsection (a) of this section shall not apply to any benefit payable under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] (relating to the medicare program) to an alien who is lawfully present in the United States as determined by the Attorney General and, with respect to benefits payable under part A of such title \[42 U.S.C. 1395c et seq.\], who was authorized to be employed with respect to any wages attributable to employment which are counted for purposes of eligibility for such benefits.
 
 (4) Subsection (a) of this section shall not apply to any benefit payable under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\] or the Railroad Unemployment Insurance Act \[45 U.S.C. 351 et seq.\] to an alien who is lawfully present in the United States as determined by the Attorney General or to an alien residing outside the United States.
 
@@ -38,7 +38,7 @@ Notwithstanding any other provision of law and except as provided in subsection 
 
 &emsp;(A) to any contract, professional license, or commercial license for a nonimmigrant whose visa for entry is related to such employment in the United States, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect;
 
-&emsp;(B) with respect to benefits for an alien who as a work authorized nonimmigrant or as an alien lawfully admitted for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] qualified for such benefits and for whom the United States under reciprocal treaty agreements is required to pay benefits, as determined by the Attorney General, after consultation with the Secretary of State; or
+&emsp;(B) with respect to benefits for an alien who as a work authorized nonimmigrant or as an alien lawfully admitted for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] qualified for such benefits and for whom the United States underreciprocal treaty agreements is required to pay benefits, as determined by the Attorney General, after consultation with the Secretary of State; or
 
 &emsp;(C) to the issuance of a professional license to, or the renewal of a professional license by, a foreign national not physically present in the United States.
 
@@ -114,5 +114,5 @@ State Entitlement.—This section constitutes budget authority in advance of app
 
 #### Study and Report on Alien Student Eligibility for Postsecondary Federal Student Financial Assistance
 
-Pub. L. 104–208, div. C, title V, §506, Sept. 30, 1996, 110 Stat. 3009–672, provided that not later than one year after Sept. 30, 1996, the Comptroller General was to submit to Congress a report on the extent to which aliens who were not lawfully admitted for permanent residence were receiving postsecondary Federal student financial assistance, and the Secretary of Education and the Commissioner of Social Security were jointly to submit to Congress a report on the computer matching program of the Department of Education under section 1091(p) of title 20.
+Pub. L. 104–208, div. C, title V, §506, Sept. 30, 1996, 110 Stat. 3009–672, provided that not later than one year after Sept. 30, 1996, the Comptroller General was to submit to Congress a report on the extent to which alienswho were not lawfully admitted for permanent residence were receiving postsecondary Federal student financial assistance, and the Secretary of Education and the Commissioner of Social Security were jointly to submit to Congress a report on the computer matching program of the Department of Education under section 1091(p) of title 20.
 

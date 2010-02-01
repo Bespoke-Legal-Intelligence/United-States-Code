@@ -4,13 +4,15 @@
 
 (b) Funds may not be obligated or expended in connection with the North Atlantic Treaty Organization Security Investment program in any year unless such funds have been authorized by law for such program.
 
-(c)(1) The Secretary may make contributions in excess of the amount appropriated for contribution under subsection (a) if the amount of the contribution in excess of that amount does not exceed 200 percent of the amount specified by section 2805(a)(2) of this title as the maximum amount for a minor military construction project.
+(c)(1) The Secretary may make contributions in excess of the amount appropriated for contribution under subsection (a) if the amount of the contribution in excess of that amount does not exceed 200 percent of the amount specified by section 2805(a) of this title as the maximum amount for a minor military construction project.
 
 (2) If the Secretary determines that the amount appropriated for contribution under subsection (a) in any fiscal year must be exceeded by more than the amount authorized under paragraph (1), the Secretary may make contributions in excess of such amount, but not in excess of 125 percent of the amount appropriated (A) after submitting a report in writing to the appropriate committees of Congress on such increase, including a statement of the reasons for the increase and a statement of the source of the funds to be used for the increase, and (B) after a period of 21 days has elapsed from the date of receipt of the report.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 156; amended Pub. L. 97–321, title VIII, §805(b)(1), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 99–661, div. B, title V, §2503(a), Nov. 14, 1986, 100 Stat. 4039; Pub. L. 100–26, §7(f)(1), Apr. 21, 1987, 101 Stat. 281; Pub. L. 102–190, div. B, title XXVIII, §2870(5), Dec. 5, 1991, 105 Stat. 1563; Pub. L. 104–201, div. B, title XXVIII, §2802(a), (c)(1), Sept. 23, 1996, 110 Stat. 2787.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 156; amended Pub. L. 97–321, title VIII, §805(b)(1), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 99–661, div. B, title V, §2503(a), Nov. 14, 1986, 100 Stat. 4039; Pub. L. 100–26, §7(f)(1), Apr. 21, 1987, 101 Stat. 281; Pub. L. 102–190, div. B, title XXVIII, §2870(5), Dec. 5, 1991, 105 Stat. 1563; Pub. L. 104–201, div. B, title XXVIII, §2802(a), (c)(1), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 111–84, div. B, title XXVIII, §2801(a)(3), Oct. 28, 2009, 123 Stat. 2660.)
 
 #### Amendments
+
+2009—Subsec. (c)(1). Pub. L. 111–84 substituted “section 2805(a)” for “section 2805(a)(2)”.
 
 1996—Pub. L. 104–201, §2802(c)(1), substituted “Organizations Security Investment” for “Organization Infrastructure” in section catchline.
 
@@ -26,7 +28,7 @@ Subsec. (b). Pub. L. 104–201, §2802(a), substituted “Security Investment pr
 
 #### Change of Name
 
-Section 2802(b) of Pub. L. 104–201 provided that: “Any reference to the North Atlantic Treaty Organization Infrastructure program in any Federal law, Executive order, regulation, delegation of authority, or document of or pertaining to the Department of Defense shall be deemed to refer to the North Atlantic Treaty Organization Security Investment program.”
+Section 2802(b) of Pub. L. 104–201 provided that: “Any reference to the North Atlantic Treaty OrganizationInfrastructure program in any Federal law, Executive order, regulation, delegation of authority, or document of or pertaining to the Department of Defense shall be deemed to refer to the North Atlantic Treaty Organization Security Investment program.”
 
 #### Effective Date of 1986 Amendment
 

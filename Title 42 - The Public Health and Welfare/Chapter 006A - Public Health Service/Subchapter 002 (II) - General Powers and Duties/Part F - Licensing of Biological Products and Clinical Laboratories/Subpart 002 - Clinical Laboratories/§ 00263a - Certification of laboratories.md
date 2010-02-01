@@ -238,7 +238,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (2) Compliance with requirements and standards
 
-&emsp;The Secretary shall conduct inspections of laboratories under paragraph (1) to determinetheir compliance with the requirements of subsection (d) of this section and the standards issued under subsection (f) of this section. Inspections of laboratories not accredited under subsection (e) of this section shall be conducted on a biennial basis or with such other frequency as the Secretary determines to be necessary to assure compliance with such requirements and standards. Inspections of laboratories accredited under subsection (e) of this section shall be conducted on such basis as the Secretary determines is necessary to assure compliance with such requirements and standards.
+&emsp;The Secretary shall conduct inspections of laboratories under paragraph (1) to determine their compliance with the requirements of subsection (d) of this section and the standards issued under subsection (f) of this section. Inspections of laboratories not accredited under subsection (e) of this section shall be conducted on a biennial basis or with such other frequency as the Secretary determines to be necessary to assure compliance with such requirements and standards. Inspections of laboratories accredited under subsection (e) of this section shall be conducted on such basis as the Secretary determines is necessary to assure compliance with such requirements and standards.
 
 #### (h) Intermediate sanctions
 
@@ -308,7 +308,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (j) Injunctions
 
-Whenever the Secretary has reason to believe that continuation of any activity by a laboratory would constitute a significant hazard to thepublic health the Secretary may bring suit in the district court of the United States for the district in which such laboratory is situated to enjoin continuation of such activity. Upon proper showing, a temporary injunction or restraining order against continuation of such activity pending issuance of a final order under this subsection shall be granted without bond by such court.
+Whenever the Secretary has reason to believe that continuation of any activity by a laboratory would constitute a significant hazard to the public health the Secretary may bring suit in the district court of the United States for the district in which such laboratory is situated to enjoin continuation of such activity. Upon proper showing, a temporary injunction or restraining order against continuation of such activity pending issuance of a final order under this subsection shall be granted without bond by such court.
 
 #### (k) Judicial review
 

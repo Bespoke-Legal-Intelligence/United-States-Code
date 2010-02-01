@@ -28,7 +28,7 @@ The provisions section 78d(b) of this title shall be applicable with respect to 
 
 &emsp;(2) to lease and allocate such real property as may be necessary for carrying out its functions under this subchapter.
 
-(May 27, 1933, ch. 38, title III, §321, as added Aug. 3, 1939, ch. 411, 53 Stat. 1174; amended Pub. L.101–550, title I, §104(b), Nov. 15, 1990, 104 Stat. 2714.)
+(May 27, 1933, ch. 38, title III, §321, as added Aug. 3, 1939, ch. 411, 53 Stat. 1174; amended Pub. L. 101–550, title I, §104(b), Nov. 15, 1990, 104 Stat. 2714.)
 
 #### Amendments
 

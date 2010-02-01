@@ -168,7 +168,7 @@ Each insured depository institution shall prepare—
 
 #### (A) In general
 
-&emsp;&emsp;Each insured depository institution which has engaged the services of an independent auditor to audit such institution shall transmit to the auditor a copy of the most recent report of condition made by the institution (pursuant to this chapter or any other provision of law) and a copy of the most recent report of examination received by the institution.
+&emsp;&emsp;Each insured depository institution which has engaged the services of an independentauditor to audit such institution shall transmit to the auditor a copy of the most recent report of condition made by the institution (pursuant to this chapter or any other provision of law) and a copy of the most recent report of examination received by the institution.
 
 #### (B) Additional information
 

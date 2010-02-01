@@ -22,7 +22,7 @@ Availability; eligible persons.—The Secretary concerned may pay a proficiency 
 
 &emsp;(2)
 
-Inclusion of certain senior rotc members.—A proficiency bonus may be paid under this subsection to a student who is enrolled in the Senior Reserve Officers’ Training Corps program even though the student is in the first year of the four-year course under the program. During the period covered by the proficiency bonus, the student shall also be entitled to a monthly subsistence allowance under section 209(c) of this title even though the student has not entered into an agreement under section 2103a of title 10. However, if the student receives incentive pay under subsection (g)(2) for the same period, the student may receive only a single monthly subsistence allowance under section 209(c) of this title.
+Inclusion of certain senior rotc members.—A proficiency bonus may be paid under this subsection to a student who is enrolled in the Senior Reserve Officers’ Training Corps program even though the student is in the first year of the four-year course under the program. During the period covered by the proficiency bonus, the student shall also be entitled to a monthly subsistence allowance under section 209(c) of this title even though the student has not entered into an agreement under section 2103a of title 10. However, if the student receives incentive pay under subsection (g)(2) <sup>1</sup> for the same period, the student may receive only a single monthly subsistence allowance under section 209(c) of this title.
 
 (c)
 
@@ -30,7 +30,9 @@ Maximum Amounts and Methods of Payment.—
 
 &emsp;(1)
 
-Skill incentive pay.—Skill incentive pay under subsection (a) shall be paid monthly in an amount not to exceed $1,000 per month.
+Skill incentive pay.—(A) Skill incentive pay under subsection (a) may not exceed $1,000 a month.
+
+&emsp;(B) If a member does not satisfy the eligibility requirements specified in paragraphs (1) and (2) of subsection (a) for an entire monthfor receipt of skill incentive pay, the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month. A member of a reserve component entitled to compensation under section 206 of this title who is authorized skill incentive pay under subsection (a) may be paid an amount of such pay that is proportionate to the compensation received by the member under section 206 of this title for inactive-duty training.
 
 &emsp;(2)
 
@@ -66,18 +68,6 @@ Required for proficiency bonus.—The Secretary concerned shall require a member
 
 (f)
 
-Reserve Component Members Performing Inactive Duty Training.—
-
-&emsp;(1)
-
-Proration.—A member of a reserve component entitled to compensation under section 206 of this title who is authorized skill incentive pay under subsection (a) or a skill proficiency bonus under subsection (b) may be paid an amount of the pay or bonus, as the case may be, that is proportionate to the compensation received by the member under section 206 of this title for inactive-duty training.
-
-&emsp;(2)
-
-Exception for foreign language proficiency.—No reduction in the amount of a skill proficiency bonus may be made under paragraph (1) in the case of a member of a reserve component who is authorized the bonus because of the member's proficiency in a foreign language.
-
-(g)
-
 Foreign Language Studies in Officer Training Programs.—
 
 &emsp;(1)
@@ -86,27 +76,39 @@ Availability of incentive pay.—The Secretary concerned may pay incentive pay t
 
 &emsp;(2)
 
-Inclusion of certain senior rotc members.—Incentive pay may be paid under this subsection to a student who is enrolled in the Senior Reserve Officers’ Training Corps program even though the student is in the first year of the four-year course under the program. While the student receives the incentivepay, the student shall also be entitled to a monthly subsistence allowance under section 209(c) of this title even though the student has not entered into an agreement under section 2103a of title 10. However, if the student receives a proficiency bonus under subsection (b)(2) covering the same month, the student may receive only a single monthly subsistence allowance under section 209(c) of this title.
+Inclusion of certain senior rotc members.—Incentive pay may be paid under this subsection to a student who is enrolled in the Senior Reserve Officers’ Training Corps program even though the student is in the first year of the four-year course under the program. While the student receives the incentive pay, the student shall also be entitled to a monthly subsistence allowance under section 209(c) of this title even though the student has not entered into an agreement under section 2103a of title 10. However, if the student receives a proficiency bonus under subsection (b)(2) covering the same month, the student may receive only a single monthly subsistence allowance under section 209(c) of this title.
 
 &emsp;(3)
 
 Critical foreign language defined.—In this section, the term “critical foreign language” includes Arabic, Korean, Japanese, Chinese, Pashto, Persian-Farsi, Serbian-Croatian, Russian, Portuguese, or other language designated as critical by the Secretary concerned.
 
-(h)
+(g)
 
 Repayment.—A member who receives skill incentive pay or a proficiency bonus under this section and who fails to fulfill the eligibility requirement for receipt of the pay or bonus shall be subject to the repayment provisions of section 373 of this title.
 
-(i)
+(h)
 
 Relationship to Other Pays and Allowances.—A member may not be paid more than one pay under this section in any month for the same period of service and skill. A member may be paid skill incentive pay or the proficiency bonus under this section in addition to any other pay and allowances to which the member is entitled, except that a member may not be paid skill incentive pay or a proficiency bonus under this section and hazardous duty pay under section 351 of this title for the same period of service in the same career field or skill.
 
-(j)
+(i)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2009.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2010.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 175; amended Pub. L. 110–417, \[div. A\], title VI, §619(a), Oct. 14, 2008, 122 Stat. 4487.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 175; amended Pub. L. 110–417, \[div. A\], title VI, §619(a), Oct. 14, 2008, 122 Stat. 4487; Pub. L. 111–84, div. A, title VI, §§614(8), 618(d), Oct. 28, 2009, 123 Stat. 2354, 2356.)
+
+#### References in Text
+
+Subsection (g)(2), referred to in subsec. (b)(2), was redesignated subsec. (f)(2) by Pub. L. 111–84, div. A, title VI, §618(d)(1), Oct. 28, 2009, 123 Stat. 2356.
 
 #### Amendments
+
+2009—Subsec. (c)(1). Pub. L. 111–84, §618(d)(2), added par. (1) and struck out former par. (1) which provided that skill incentive pay was not to exceed $1,000 per month.
+
+Subsecs. (f) to (i). Pub. L. 111–84, §618(d)(1), redesignated subsecs. (g) to (j) as (f) to (i), respectively, and struck out former subsec. (f) which related to reserve component members performing inactive duty training.
+
+Subsec. (j). Pub. L. 111–84, §618(d)(1), redesignated subsec. (j) as (i).
+
+Pub. L. 111–84, §614(8), substituted “December 31, 2010” for “December 31, 2009”.
 
 2008—Subsec. (b). Pub. L. 110–417, §619(a)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary concerned may pay a proficiency bonus to a member of a regular or reserve component of the uniformed services who—
 
@@ -135,4 +137,6 @@ Reporting requirement.—Not later than March 31, 2012, the Secretary shall subm
 #### Expedited Implementation
 
 Pub. L. 110–417, \[div. A\], title VI, §619(d), Oct. 14, 2008, 122 Stat. 4489, provided that: “Notwithstanding section 662 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 180; 37 U.S.C. 301 note), the Secretary of a military department may immediately implement the amendments made by subsection (a) \[amending this section\] in order to ensure the prompt availability of proficiency bonuses and incentive pay under section 353 of title 37, United States Code, as amended by such subsections \[sic\], for persons enrolled in officer training programs.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

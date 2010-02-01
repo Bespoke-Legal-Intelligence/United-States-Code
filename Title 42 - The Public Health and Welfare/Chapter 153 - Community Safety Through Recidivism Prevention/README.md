@@ -60,6 +60,8 @@ I74subpart 1—improving federal offender reentry
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

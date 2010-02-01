@@ -10,7 +10,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;(B) originates and causes to be mailed any skill contest or sweepstakes, except for any matter described in section 3001(k)(4);
 
-&emsp;(2) the term “removal request” means a request stating that an individual elects to have the name and address of such individual excluded from any list used by a promoter for mailing skill contests or sweepstakes;
+&emsp;(2) the term “removal request” means a request stating that an individual elects to havethe name and address of such individual excluded from any list used by a promoter for mailing skill contests or sweepstakes;
 
 &emsp;(3) the terms “skill contest”, “sweepstakes”, and “clearly and conspicuously displayed” have the same meanings as given them in section 3001(k); and
 
@@ -64,7 +64,7 @@ Election To Be Excluded From Lists.—
 
 &emsp;(1)
 
-In general.—An individual (or other duly authorized person) may elect to exclude thename and address of that individual from all lists of names and addresses used by a promoter of skill contests or sweepstakes by submitting a removal request to the notification system established under subsection (c).
+In general.—An individual (or other duly authorized person) may elect to exclude the name and address of that individual from all lists of names and addresses used by a promoter of skill contests or sweepstakes by submitting a removal request to the notification system established under subsection (c).
 
 &emsp;(2)
 

@@ -140,7 +140,7 @@
 
 #### (B) Carryover loss retains character as attributable to section 1256 contract
 
-&emsp;&emsp;Any amount carried forward as a short-term or long-term capital loss to any taxable year under subsection (b)(1) (after the application of subparagraph (A)) shall, to the extent attributable to losses from section 1256 contracts, be treated as loss from section 1256 contracts for such taxable year.
+&emsp;&emsp;Any amount carried forward as a short-term or long-term capital loss to any taxable year under subsection (b)(1) (after theapplication of subparagraph (A)) shall, to the extent attributable to losses from section 1256 contracts, be treated as loss from section 1256 contracts for such taxable year.
 
 #### (7) Other definitions and special rules
 
@@ -202,7 +202,7 @@ Subsec. (a)(3), (4). Pub. L. 91–172, §512(b), added pars. (3) and (4).
 
 Subsec. (b). Pub. L. 91–172, §513(b), struck out reference to Dec. 31, 1963, struck out determination of a short-term capital gain as an amount equal to the excess allowed for the taxable year under former section 1211(b) over the gains from sales or exchanges of capital assets, struck out par. (2) treating as a short-term capital loss in the first taxable year beginning after Dec. 31, 1963, any amount which is treated as a short-term capital loss in such year under this subchapter as in effect immediately before the enactment of the Revenue Act of 1964, added new par. (2) dealing with special rules for determining the excesses referred to in par. (1)(A) and par. (1)(B) and added par. (3).
 
-1964—Subsec. (a). Pub. L. 88–571 provided that if any portion of a net capital loss is attributable to a foreign expropriation capital loss, such portion shall be a short-term capital loss in each of the 10 succeeding taxable years, defined foreign expropriation capital loss, stated what portion of loss is attributable to foreignexpropriation capital loss and the priority of application of the net capital loss, and struck out provisions that net capital losses for taxable years beginning before Oct. 20, 1951, were to be determined under the applicable law relating to the computation of capital gains and losses in effect before such date.
+1964—Subsec. (a). Pub. L. 88–571 provided that if any portion of a net capital loss is attributable to a foreign expropriation capital loss, such portion shall be a short-term capital loss in each of the 10 succeeding taxable years, defined foreign expropriation capital loss, stated what portion of loss is attributable to foreign expropriation capital loss and the priority of application of the net capital loss, and struck out provisionsthat net capital losses for taxable years beginning before Oct. 20, 1951, were to be determined under the applicable law relating to the computation of capital gains and losses in effect before such date.
 
 Pub. L. 88–272 designated existing provisions as subsec. (a), limited such subsection to corporations, and added subsec. (b).
 

@@ -22,7 +22,7 @@ The following items shall not be included in gross income of a nonresident alien
 
 #### (3) Compensation of participants in certain exchange or training programs
 
-&emsp;Compensation paid by a foreign employer to a nonresident alien individual for the period he is temporarily present in the United Statesas a nonimmigrant under subparagraph (F), (J), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended. For purposes of this paragraph, the term “foreign employer” means—
+&emsp;Compensation paid by a foreign employer to a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended. For purposes of this paragraph, the term “foreign employer” means—
 
 &emsp;&emsp;(A) a nonresident alien individual, foreign partnership, or foreign corporation, or
 

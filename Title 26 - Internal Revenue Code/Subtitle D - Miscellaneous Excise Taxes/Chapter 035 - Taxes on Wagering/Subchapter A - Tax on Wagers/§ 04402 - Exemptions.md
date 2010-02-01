@@ -48,7 +48,7 @@ Section 813(b) of Pub. L. 89–44 provided that: “The amendment made by subsec
 
 #### Effective Date of 1958 Amendment
 
-Section 152(c) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 4462 of this title\] shall take effect on the effective date specified in section 1(c) of this Act \[the first day of the first calendar quarter beginning more than 60 days after Sept. 2, 1958\]. In the case of the year beginning July 1, 1958, where the trade or business on which the tax is imposed under section 4461 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] was commenced before such effective date, the tax imposed for such year solely by reason of the amendment made by subsection (a)—
+Section 152(c) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 4462 of this title\] shall take effect on the effective date specified in section 1(c) of this Act \[the first day of the first calendar quarter beginning more than 60 days after Sept. 2, 1958\]. In the case of the year beginning July 1, 1958, where the trade or business on which the tax is imposed undersection 4461 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] was commenced before such effective date, the tax imposed for such year solely by reason of the amendment made by subsection (a)—
 
 &emsp;“(1) shall be the amount reckoned proportionately from such effective date through June 30, 1959, and
 

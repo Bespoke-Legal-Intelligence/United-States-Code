@@ -14,7 +14,7 @@ Not later than January 1, 1997, the Secretary shall establish a national health 
 
 &emsp;The information to be reported under paragraph (1) includes:
 
-&emsp;&emsp;(A) The name and TIN (as defined in section 7701(a)(41) of the Internal Revenue Codeof 1986) of any health care provider, supplier, or practitioner who is the subject of a final adverse action.
+&emsp;&emsp;(A) The name and TIN (as defined in section 7701(a)(41) of the Internal Revenue Code of 1986) of any health care provider, supplier, or practitioner who is the subject of a final adverse action.
 
 &emsp;&emsp;(B) The name (if known) of any health care entity with which a health care provider, supplier, or practitioner, who is the subject of a final adverse action, is affiliated or associated.
 
@@ -48,7 +48,7 @@ Not later than January 1, 1997, the Secretary shall establish a national health 
 
 #### (1) Disclosure
 
-&emsp;With respect to the information about final adverse actions (not including settlements in which no findings of liability have been made) reported to the Secretary under this section with respect to a health care provider, supplier, or practitioner, the Secretary shall, by regulation, provide for—
+&emsp;With respect to the information about final adverse actions (not including settlements inwhich no findings of liability have been made) reported to the Secretary under this section with respect to a health care provider, supplier, or practitioner, the Secretary shall, by regulation, provide for—
 
 &emsp;&emsp;(A) disclosure of the information, upon request, to the health care provider, supplier, or licensed practitioner, and
 

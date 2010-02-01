@@ -34,7 +34,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the term “excess benefit transaction” includes any grant, loan, compensation, or other similar payment from such fund to a person described in subsection (f)(7) with respect to such fund, and
 
-&emsp;&emsp;(B) the term “excess benefit” includes, with respect to any transaction described insubparagraph (A), the amount of any such grant, loan, compensation, or other similar payment.
+&emsp;&emsp;(B) the term “excess benefit” includes, with respect to any transaction described in subparagraph (A), the amount of any such grant, loan, compensation, or other similar payment.
 
 #### (3) Special rules for supporting organizations
 

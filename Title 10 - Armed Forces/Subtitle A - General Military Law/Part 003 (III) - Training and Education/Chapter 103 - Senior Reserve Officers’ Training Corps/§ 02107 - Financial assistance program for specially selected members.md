@@ -8,7 +8,7 @@
 
 &emsp;(2) be specially selected for the financial assistance program under procedures prescribed by the Secretary of the military department concerned;
 
-&emsp;(3) enlist in the reserve component of the armed force in which he is appointed as a cadet or midshipmen for the period prescribed by the Secretary of the military department concerned;
+&emsp;(3) enlist in the reserve component of the armed force in which he is appointed as a cadet or midshipman for the period prescribed by the Secretary of the military department concerned;
 
 &emsp;(4) contract, with the consent of his parent or guardian if he is a minor, with the Secretary of the military department concerned, or his designated representative, to serve for the period required by the program; and
 
@@ -30,7 +30,7 @@
 
 (c)(1) The Secretary of the military department concerned may provide for the payment of all expenses in his department of administering the financial assistance program under this section, including tuition, fees, books, and laboratory expenses. In the case of a student enrolled in an academic program which has been approved by the Secretary of the military department concerned and which requires more than four academic years for completion of baccalaureate degree requirements, including elective requirements of the Senior Reserve Officers’ Training Corps course, financial assistance under this section may also be provided during a fifth academic year or during a combination of a part of a fifth academic year and summer sessions. At least 50 percent of the cadets and midshipmen appointed under this section must qualify for in-State tuition rates at their respective institutions and will receive tuition benefits at that rate.
 
-(2) The Secretary of the military department concerned may provide financial assistance, asdescribed in paragraph (1), to a student enrolled in an advanced education program beyond the baccalaureate degree level if the student also is a cadet or midshipman in an advanced training program. Not more than 15 percent of the total number of scholarships awarded under this section in any year may be awarded under this paragraph.
+(2) The Secretary of the military department concerned may provide financial assistance, as described in paragraph (1), to a student enrolled in an advanced education program beyond the baccalaureate degree level if the student also is a cadet or midshipman in an advanced training program. Not more than 15 percent of the total number of scholarships awarded under this section in any year may be awarded under this paragraph.
 
 (3) In the case of a cadet or midshipman eligible to receive financial assistance under paragraph (1) or (2), the Secretary of the military department concerned may, in lieu of all or part of the financial assistance described in paragraph (1), provide financial assistance in the form of room and board expenses for the cadet or midshipman and other expenses required by the educational institution.
 
@@ -64,7 +64,7 @@
 
 (i) The Secretary of each military department shall seek to achieve an increase in the number of agreements entered into under this section so as to achieve an increase, by the 2006–2007 academic year, of not less than 400 in the number of cadets or midshipmen, as the case may be, enrolled under this section, compared to such number enrolled for the 2002–2003 academic year. In the case of the Secretary of the Navy, the Secretary shall seek to ensure that not less than one-third of such increase in agreements under this section are with students enrolled (or seeking to enroll) in programs of study leading to a baccalaureate degree in nuclear engineering or another appropriate technical, scientific, or engineering field of study.
 
-(j)(1) Payment of financial assistance under this section for, and payment of a monthly subsistence allowance under section 209 of title 37to, a cadet or midshipman appointed under this section may be suspended on the basis of health-related incapacity of the cadet or midshipman only in accordance with regulations prescribed under paragraph (2).
+(j)(1) Payment of financial assistance under this section for, and payment of a monthly subsistence allowance under section 209 of title 37 to, a cadet or midshipman appointed under this section may be suspended on the basis of health-related incapacity of the cadet or midshipman only in accordance with regulations prescribed under paragraph (2).
 
 (2) The Secretary of Defense shall prescribe in regulations the policies and procedures for suspending payments under paragraph (1). The regulations shall apply uniformly to all of the military departments. The regulations shall include the following matters:
 
@@ -194,7 +194,7 @@ Pub. L. 109–163, div. A, title V, §533(b), Jan. 6, 2006, 119 Stat. 3248, prov
 
 #### Savings Provision
 
-Pub. L. 109–163, div. A, title V, §531(c), Jan. 6, 2006, 119 Stat. 3247, provided that: “Paragraph (4) of section 2107(c) of title 10, United States Code, and paragraph (3) of section 2107a(c) of such title, as in effect on the day before the date of the enactment of this Act \[Jan. 6, 2006\], shall continue to apply in the case of any individual selected before the date of the enactment of thisAct for appointment as a cadet or midshipman under section 2107 or 2107a of such title.”
+Pub. L. 109–163, div. A, title V, §531(c), Jan. 6, 2006, 119 Stat. 3247, provided that: “Paragraph (4) of section 2107(c) of title 10, United States Code, and paragraph (3) of section 2107a(c) of such title, as in effect on the day before the date of the enactment of this Act \[Jan. 6, 2006\], shall continue to apply in the case of any individual selected before the date of the enactment of this Act for appointment as a cadet or midshipman under section 2107 or 2107a of such title.”
 
 #### Review Regarding Allocation of Naval Reserve Officers’ Training Corps Scholarships Among Participating Colleges and Universities
 

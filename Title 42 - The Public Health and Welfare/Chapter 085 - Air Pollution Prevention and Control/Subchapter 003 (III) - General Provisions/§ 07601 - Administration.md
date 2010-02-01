@@ -42,7 +42,7 @@ Payments under grants made under this chapter may be made in installments, and i
 
 (5) Until such time as the Administrator promulgates regulations pursuant to this subsection, the Administrator may continue to provide financial assistance to eligible Indian tribes under section 7405 of this title.
 
-(July 14, 1955, ch. 360, title III, §301, formerly §8, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 400, renumbered Pub. L. 89–272, title I, §101(4), Oct. 20, 1965, 79 Stat. 992; amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 504; Pub. L. 91–604, §§3(b)(2), 15(c)(2), Dec. 31, 1970, 84 Stat. 1677, 1713; Pub. L. 95–95, title III, §305(e), Aug. 7, 1977, 91 Stat. 776; Pub. L. 101–549, title I, §§107(d), 108(i), Nov. 15, 1990, 104 Stat. 2464, 2467.)
+(July 14, 1955, ch. 360, title III, §301, formerly §8, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 400, renumbered Pub. L. 89–272, title I, §101(4), Oct. 20, 1965, 79 Stat. 992; amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 504; Pub. L. 91–604, §§3(b)(2), 15(c)(2), Dec. 31, 1970, 84 Stat. 1677, 1713;Pub. L. 95–95, title III, §305(e), Aug. 7, 1977, 91 Stat. 776; Pub. L. 101–549, title I, §§107(d), 108(i), Nov. 15, 1990, 104 Stat. 2464, 2467.)
 
 #### Codification
 
@@ -92,7 +92,7 @@ Definition.—
 
 &emsp;&emsp;“(ii) the management and daily business operations of which are controlled by such individuals.
 
-&emsp;“(B)(i) A for-profit business concern is presumed to be a disadvantaged business concern for purposes of subsection (a) if it is at least 51 percent owned by, or in the case of a concern which is a publicly tradedcompany at least 51 percent of the stock of the company is owned by, one or more individuals who are members of the following groups:
+&emsp;“(B)(i) A for-profit business concern is presumed to be a disadvantaged business concern for purposes of subsection (a) if it is at least 51 percent owned by, or in the case of a concern which is a publicly traded company at least 51 percent of the stock of the company is owned by, one or more individuals who are members of the following groups:
 
 &emsp;&emsp;“(I) Black Americans.
 

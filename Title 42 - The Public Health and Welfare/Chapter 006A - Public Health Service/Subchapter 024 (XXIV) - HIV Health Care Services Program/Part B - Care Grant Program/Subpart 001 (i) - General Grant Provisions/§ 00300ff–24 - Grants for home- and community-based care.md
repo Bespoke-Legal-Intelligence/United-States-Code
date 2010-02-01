@@ -8,7 +8,7 @@ A State may use amounts provided under a grant awarded under section 300ff–21 
 
 &emsp;(2) provide outreach services to individuals with HIV/AIDS, including those individuals in rural areas; and
 
-&emsp;(3) provide for the coordination of the provision of services under this section with the provision of HIV-related health services, including specialty care and vaccinations for hepatitis co-infection, provided by public and private entities.
+&emsp;(3) provide for the coordination of the provision of services under this section with theprovision of HIV-related health services, including specialty care and vaccinations for hepatitis co-infection, provided by public and private entities.
 
 #### (b) Priority
 
@@ -16,7 +16,7 @@ In awarding grants under subsection (a) of this section, a State shall give prio
 
 &emsp;(1) such entities will participate in HIV care consortia if such consortia exist within the State; and
 
-&emsp;(2) such entities will utilize amounts provided under such grants for the provision ofhome- and community-based services to low-income individuals with HIV/AIDS.
+&emsp;(2) such entities will utilize amounts provided under such grants for the provision of home- and community-based services to low-income individuals with HIV/AIDS.
 
 #### (c) “Home- and community-based health services” defined
 
@@ -44,11 +44,7 @@ As used in section 300ff–21 of this title, the term “home- and community-bas
 
 &emsp;&emsp;(B) nursing home and other long term care facilities.
 
-(July 1, 1944, ch. 373, title XXVI, §2614, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 589; amended Pub. L. 109–415, title II, §§201(c)(2), 204(a), (b), title VII, §702(3), Dec. 19, 2006, 120 Stat. 2788, 2796, 2820.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2614, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 589; amended Pub. L. 109–415, title II, §§201(c)(2), 204(a), (b), title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2788, 2796, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### Prior Provisions
 
@@ -56,7 +52,11 @@ A prior section 2614 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-2006—Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing.
+2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing.
 
 Subsec. (a). Pub. L. 109–415, §204(a), substituted “section 300ff–21 of this title” for “this part” in introductory provisions.
 
@@ -67,4 +67,8 @@ Subsec. (a)(3). Pub. L. 109–415, §204(b), inserted “, including specialty 
 Subsec. (c). Pub. L. 109–415, §204(a), substituted “section 300ff–21 of this title” for “this part” in introductory provisions.
 
 Subsec. (c)(2)(B). Pub. L. 109–415, §201(c)(2)(B), struck out “homemaker or” before “home health”.
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 

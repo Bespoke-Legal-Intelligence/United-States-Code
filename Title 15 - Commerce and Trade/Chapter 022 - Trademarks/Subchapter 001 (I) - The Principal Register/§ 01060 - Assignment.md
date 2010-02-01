@@ -8,7 +8,7 @@
 
 (4) An assignment shall be void against any subsequent purchaser for valuable consideration without notice, unless the prescribed information reporting the assignment is recorded in the United States Patent and Trademark Office within 3 months after the date of the assignment or prior to the subsequent purchase.
 
-(5) The United States Patent and Trademark Office shall maintain a record of information onassignments, in such form as may be prescribed by the Director.
+(5) The United States Patent and Trademark Office shall maintain a record of information on assignments, in such form as may be prescribed by the Director.
 
 (b) An assignee not domiciled in the United States may designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the assignee does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served upon the Director.
 
@@ -66,5 +66,5 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certainexceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 

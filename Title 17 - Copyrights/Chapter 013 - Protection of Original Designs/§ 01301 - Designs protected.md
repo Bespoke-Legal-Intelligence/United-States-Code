@@ -36,7 +36,7 @@ Definitions.—For the purpose of this chapter, the following terms have the fol
 
 &emsp;(6) A “mold” means a matrix or form in which a substance for material is used, regardless of whether the matrix or form has an intrinsic utilitarian function that is not only to portray the appearance of the product or to convey information.
 
-&emsp;(7) A “deck” is the horizontal surface of a vessel that covers the hull, including exteriorcabin and cockpit surfaces, and exclusive of masts, sails, yards, rigging, hardware, fixtures, and other attachments.
+&emsp;(7) A “deck” is the horizontal surface of a vessel that covers the hull, including exterior cabin and cockpit surfaces, and exclusive of masts, sails, yards, rigging, hardware, fixtures, and other attachments.
 
 (Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2905; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5005(a)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–593; Pub. L. 110–434, §1(b)–(d), Oct. 16, 2008, 122 Stat. 4972.)
 

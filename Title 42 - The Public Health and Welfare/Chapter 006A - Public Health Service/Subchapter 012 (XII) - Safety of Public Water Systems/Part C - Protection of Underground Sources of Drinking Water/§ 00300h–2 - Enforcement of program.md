@@ -2,7 +2,7 @@
 
 #### (a) Notice to State and violator; issuance of administrative order; civil action
 
-(1) Whenever the Administrator finds during a period during which a State has primary enforcement responsibility for underground water sources (within the meaning of section 300h–1(b)(3) of this title or section 300h–4(c) of this title) that any person who is subject to a requirement of an applicable underground injection control program in such State is violatingsuch requirement, he shall so notify the State and the person violating such requirement. If beyond the thirtieth day after the Administrator's notification the State has not commenced appropriate enforcement action, the Administrator shall issue an order under subsection (c) of this section requiring the person to comply with such requirement or the Administrator shall commence a civil action under subsection (b) of this section.
+(1) Whenever the Administrator finds during a period during which a State has primary enforcement responsibility for underground water sources (within the meaning of section 300h–1(b)(3) of this title or section 300h–4(c) of this title) that any person who is subject to a requirement of an applicable underground injection control program in such State is violating such requirement, he shall so notify the State and the person violating such requirement. If beyond the thirtieth day after the Administrator's notification the State has not commenced appropriate enforcement action, the Administrator shall issue an order under subsection (c) of this section requiring the person to comply with such requirement or the Administrator shall commence a civil action under subsection (b) of this section.
 
 (2) Whenever the Administrator finds during a period during which a State does not have primary enforcement responsibility for underground water sources that any person subject to any requirement of any applicable underground injection control program in such State is violating such requirement, the Administrator shall issue an order under subsection (c) of this section requiring the person to comply with such requirement or the Administrator shall commence a civil action under subsection (b) of this section.
 
@@ -26,7 +26,7 @@ Civil actions referred to in paragraphs (1) and (2) of subsection (a) of this se
 
 (2) In any case in which the Administrator is authorized to bring a civil action under this section with respect to any regulation, or other requirement of this part relating to—
 
-&emsp;(A) the underground injection of brine or other fluids which are brought to the surface in connection with oil or natural gas production, or
+&emsp;(A) the underground injection of brine or other fluids which are brought to the surfacein connection with oil or natural gas production, or
 
 &emsp;(B) any underground injection for the secondary or tertiary recovery of oil or natural gas,
 

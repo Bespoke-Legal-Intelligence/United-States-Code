@@ -56,7 +56,7 @@ The application requirements provided in section 3763 <sup>2</sup> of this titl
 
 &emsp;(3) proof of compliance with the requirements for paying filing and service fees for domestic violence cases provided in section 3796gg–5 of this title; and
 
-&emsp;(4) documentation showing that tribal, territorial, State or local prosecution, law enforcement, and courts have consulted with tribal,territorial, State, or local victim service programs during the course of developing their grant applications in order to ensure that proposed services, activities and equipment acquisitions are designed to promote the safety, confidentiality, and economic independence of victims of domestic violence, sexual assault, stalking, and dating violence.
+&emsp;(4) documentation showing that tribal, territorial, State or local prosecution, law enforcement, and courts have consulted with tribal, territorial, State, or local victim service programs during the course of developing their grant applications in order to ensure that proposed services, activities and equipment acquisitions are designed to promote the safety, confidentiality, and economic independence of victims of domestic violence, sexual assault, stalking, and dating violence.
 
 #### (e) Disbursement
 
@@ -138,7 +138,7 @@ Subsec. (b)(4). Pub. L. 109–162, §101(d)(1)(D), substituted “1/56” for �
 
 Subsec. (c)(2). Pub. L. 109–162, §101(c)(1), inserted “and describe how the State will address the needs of underserved populations” before semicolon at end.
 
-Subsec. (c)(3)(A). Pub. L. 109–271, §2(<i>l</i>), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “not less than 25 percent shall be allocated to police and not less than 25 percent shall be allocated to prosecutors;”.
+Subsec. (c)(3)(A). Pub. L. 109–271, §2(<i>l</i>), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “not less than 25 percent shall be allocated to police and not less than 25 percent shall be allocated to prosecutors;”.
 
 Pub. L. 109–162, §1134(a)(1), which directed substitution of “law enforcement” for “police”, was repealed by Pub. L. 109–271, §§2(d) and 8(b).
 

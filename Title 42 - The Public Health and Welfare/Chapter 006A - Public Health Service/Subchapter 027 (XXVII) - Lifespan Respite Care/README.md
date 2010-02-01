@@ -12,4 +12,3 @@
 - [&sect; 00300ii&#8211;2 - National lifespan respite resource center](%C2%A7%2000300ii%E2%80%932%20-%20National%20lifespan%20respite%20resource%20center.md)
 - [&sect; 00300ii&#8211;3 - Report](%C2%A7%2000300ii%E2%80%933%20-%20Report.md)
 - [&sect; 00300ii&#8211;4 - Authorization of appropriations](%C2%A7%2000300ii%E2%80%934%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 00300aaa to 300aaa&#8211;13 - Transferred](%C2%A7%2000300aaa%20to%20300aaa%E2%80%9313%20-%20Transferred.md)

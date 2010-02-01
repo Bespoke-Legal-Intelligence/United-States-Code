@@ -6,7 +6,7 @@ Under authority of section 13 of this title, the Secretary, through the Service,
 
 #### Prior Provisions
 
-A prior section 1652, Pub. L. 94–437, title V, §502, Sept. 30, 1976, 90 Stat. 1410; Pub. L. 96–537, §7, Dec. 17, 1980, 94 Stat. 3177, related to contracts with urban and rural Indian organizations, prior to the general revision of this subchapter by Pub. L. 100–713.
+A prior section 1652, Pub. L. 94–437, title V, §502, Sept. 30, 1976, 90 Stat. 1410; Pub. L. 96–537, §7, Dec. 17, 1980, 94Stat. 3177, related to contracts with urban and rural Indian organizations, prior to the general revision of this subchapter by Pub. L. 100–713.
 
 #### Amendments
 

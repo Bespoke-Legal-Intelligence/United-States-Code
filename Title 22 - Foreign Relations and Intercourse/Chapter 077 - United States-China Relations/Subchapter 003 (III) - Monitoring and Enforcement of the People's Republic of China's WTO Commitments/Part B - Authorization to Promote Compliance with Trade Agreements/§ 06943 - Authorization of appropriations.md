@@ -34,11 +34,11 @@ There are authorized to be appropriated to the Office of the United States Trade
 
 #### (d) Department of Agriculture
 
-There are authorized to be appropriated to the Department of Agriculture, in addition to amounts otherwise available for such purposes, such sums as may be necessary for fiscal year 2001, and each fiscal year thereafter, for additional staff to increase legal and technical expertise in areas covered by trade agreements and United States trade law, including food safety and biotechnology, for purposes of monitoring compliance by the People's Republic of China with its trade agreement obligations.
+There are authorized to be appropriated to the Department of Agriculture, in addition to amounts otherwise available for such purposes,such sums as may be necessary for fiscal year 2001, and each fiscal year thereafter, for additional staff to increase legal and technical expertise in areas covered by trade agreements and United States trade law, including food safety and biotechnology, for purposes of monitoring compliance by the People's Republic of China with its trade agreement obligations.
 
 (Pub. L. 106–286, div. B, title IV, §413, Oct. 10, 2000, 114 Stat. 901.)
 
 #### References in Text
 
-The Trade Act of 1974, referred to in subsec. (c)(1), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended.Title III of the Act is classified principally to subchapter III (§2411 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
+The Trade Act of 1974, referred to in subsec. (c)(1), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title III of the Act is classified principally to subchapter III (§2411 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 

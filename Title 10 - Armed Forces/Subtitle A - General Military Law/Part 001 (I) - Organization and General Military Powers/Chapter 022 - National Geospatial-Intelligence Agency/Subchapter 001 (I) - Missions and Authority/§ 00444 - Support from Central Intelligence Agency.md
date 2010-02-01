@@ -30,15 +30,21 @@ Authority To Transfer Funds.—(1) The Director of the National Geospatial-Intel
 
 &emsp;(B) shall expend such funds, in accordance with the Central Intelligence Agency Act of 1949 (50 U.S.C. 403a et seq.), to provide administrative and contract services or detail personnel to the National Geospatial-Intelligence Agency under this section.
 
-(Added Pub. L. 104–201, div. A, title XI, §1112(a)(2), Sept. 23, 1996, 110 Stat. 2680; amended Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 110–181, div. A, title IX, §931(b)(2), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(c), Oct. 14, 2008, 122 Stat. 4576.)
+(Added Pub. L. 104–201, div. A, title XI, §1112(a)(2), Sept. 23, 1996, 110 Stat. 2680; amended Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 110–181, div. A, title IX, §931(b)(2), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(c), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475.)
 
 #### References in Text
 
-The Central Intelligence Agency Act of 1949, referred to in subsec. (e)(2)(B), is act June 20, 1949, ch. 227, 63 Stat. 208, as amended, which is classified generally to section 403a et seq. of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 403a of Title 50 and Tables.
+The Central Intelligence Agency Act of 1949, referred to in subsec. (e)(2)(B), is act June 20, 1949, ch. 227, 63 Stat. 208, which is classified generally to section 403a et seq. of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 403a of Title 50 and Tables.
 
 #### Amendments
 
-2008—Pub. L. 110–181 and Pub. L. 110–417 amended section identically, substituting “Director of the Central Intelligence Agency” for “Director of Central Intelligence” wherever appearing.
+2009—Pub. L. 111–84 repealed Pub. L. 110–417, §932(c). See 2008 Amendment note below.
+
+2008—Pub. L. 110–181 and Pub. L. 110–417, §932(c), amended section identically, substituting “Director of the Central Intelligence Agency” for “Director of Central Intelligence” wherever appearing. Pub. L. 110–417, §932(c), was repealed by Pub. L. 111–84.
 
 2003—Subsecs. (a), (b)(1), (2), (c), (e)(1), (2)(B). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” wherever appearing.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 

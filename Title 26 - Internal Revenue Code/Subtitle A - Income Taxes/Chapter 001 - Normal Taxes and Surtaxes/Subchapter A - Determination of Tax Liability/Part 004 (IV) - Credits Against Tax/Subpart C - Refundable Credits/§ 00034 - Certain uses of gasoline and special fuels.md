@@ -78,7 +78,7 @@ Subsec. (a)(3). Pub. L. 94–455, §1906(b)(9), substituted “6424(f)” for �
 
 Subsec. (a)(4). Pub. L. 94–530 substituted “6427(g)” for “6427(f)”.
 
-Subsec. (b). Pub. L. 94–530, which directed the amendment of subsec. (c) by substituting “6427(g)” for “6427(f)”, was executed to subsec. (b) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (b) by Pub. L. 94–455.
+Subsec. (b). Pub. L. 94–530, which directed the amendment of subsec. (c) by substituting “6427(g)” for “6427(f)”, was executed to subsec. (b) to reflect theprobable intent of Congress and the redesignation of subsec. (c) as (b) by Pub. L. 94–455.
 
 Pub. L. 94–455, §1901(a)(3), redesignated subsec. (c) as (b) and substituted “section 6421(i), 6424(f), or 6427(f), is payable” for “section 6421(i), 6424(g) or 6427(f) is payable”. Former subsec. (b), relating to determination of taxpayers first taxable year with respect to tax credit for certain uses of gasoline and lubricating oil, was struck out.
 
@@ -92,7 +92,7 @@ Subsec. (c). Pub. L. 91–258, §207(c)(3), (4), inserted references to sections
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title VI, §6023(32), July 22, 1998, 112 Stat. 826, provided that: “The amendments made bythis section \[amending this section and sections 45A, 59, 72, 142, 501, 512, 543, 871, 1017, 1250, 3121, 3401, 4092, 4221, 4222, 4973, 4975, 6039, 6050R, 6103, 6416, 6421, 6427, 6501, 7434, 7702B, 7872, and 9502 of this title\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title VI, §6023(32), July 22, 1998, 112 Stat. 826, provided that: “The amendments made by this section \[amending this section and sections 45A, 59, 72, 142, 501, 512, 543, 871, 1017, 1250, 3121, 3401, 4092, 4221, 4222, 4973, 4975, 6039, 6050R, 6103, 6416, 6421, 6427, 6501, 7434, 7702B, 7872, and 9502 of this title\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
 
 #### Effective Date of 1996 Amendment
 

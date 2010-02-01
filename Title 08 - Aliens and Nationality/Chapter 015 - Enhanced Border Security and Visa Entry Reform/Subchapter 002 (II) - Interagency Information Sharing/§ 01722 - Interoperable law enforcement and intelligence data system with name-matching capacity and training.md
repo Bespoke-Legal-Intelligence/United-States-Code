@@ -34,7 +34,7 @@
 
 #### (6) Limitation on access
 
-&emsp;The President shall, in accordance with applicable Federal laws, establish procedures torestrict access to intelligence information in the data system under this subsection, and the databases referred to in paragraph (2), under circumstances in which such information is not to be disclosed directly to Government officials under paragraph (5).
+&emsp;The President shall, in accordance with applicable Federal laws, establish procedures to restrict access to intelligence information in the data system under this subsection, and the databases referred to in paragraph (2), under circumstances in which such information is not to be disclosed directly to Government officials under paragraph (5).
 
 #### (b) Name-search capacity and support
 
@@ -88,7 +88,7 @@
 
 #### (A) Current standards
 
-&emsp;&emsp;Not later than 60 days after May 14, 2002, the Director of Central Intelligence shall complete the survey and issue the report previously required by section 309(a) of the Intelligence Authorization Act for Fiscal Year 1998 (50 U.S.C. 403–3 note).
+&emsp;&emsp;Not later than 60 days after May 14, 2002, the Director of Central Intelligence shall complete the survey and issue the report previously required by section 309(a) of the Intelligence Authorization Act for Fiscal Year 1998 (50 U.S.C. 403–3 note).<sup>1</sup>
 
 #### (B) Guidelines
 
@@ -102,7 +102,7 @@
 
 #### References in Text
 
-Section 309 of the Intelligence Authorization Act for Fiscal Year 1998, referred to in subsec. (b)(5), is section 309 of Pub. L. 105–107, title III, Nov. 20, 1997, 111 Stat. 2253, which was set out as a note under former section 403–3 of Title 50, War and National Defense, and has been omitted from the Code.
+Section 309 of the Intelligence Authorization Act for Fiscal Year 1998, referred to in subsec. (b)(5), is section 309 of Pub. L. 105–107, title III, Nov. 20, 1997, 111 Stat. 2253, which was set out as a note under former section 403–3 of Title 50, War and National Defense, and is now set out as a note under section 403–1 of Title 50.
 
 #### Codification
 
@@ -115,4 +115,6 @@ Reference to the Director of Central Intelligence or the Director of the Central
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

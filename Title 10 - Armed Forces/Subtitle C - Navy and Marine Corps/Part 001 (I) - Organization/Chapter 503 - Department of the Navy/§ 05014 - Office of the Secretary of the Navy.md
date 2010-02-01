@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(ii) to the Commandant of the Marine Corps and the Headquarters, Marine Corps; and
 
-&emsp;(B) ensure that each such office or entity provides the Chief of Naval Operations and theCommandant of the Marine Corps such staff support as each considers necessary to perform his duties and responsibilities.
+&emsp;(B) ensure that each such office or entity provides the Chief of Naval Operations and the Commandant of the Marine Corps such staff support as each considers necessary to perform his duties and responsibilities.
 
 (e) The Secretary of the Navy shall ensure that the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, and the Headquarters, Marine Corps, do not duplicate specific functions for which the Secretary has assigned responsibility to another of such offices.
 
@@ -112,5 +112,5 @@ Subsecs. (c) and (d) of this section to be implemented not later than 180 days a
 
 #### Exceptions and Adjustments to Limitations on Personnel
 
-Baseline personnel limitations in this section inapplicable to certain acquisition personnel and personnel hired pursuant to a shortage category designation for fiscal year 2009 and fiscal years thereafter, and Secretary of Defense or a secretary of a military department authorized to adjust such limitations for fiscal year 2009 and for four fiscal years thereafter, see section 1111 of Pub. L. 110–417, set out as a note under section 143 of this title.
+Baseline personnel limitations in this section inapplicable to certain acquisition personnel and personnel hired pursuant to a shortage category designation for fiscal year 2009 and fiscal years thereafter, and Secretary of Defense or a secretary of a military department authorized to adjust such limitations for fiscal year 2009 and fiscal years thereafter, see section 1111 of Pub. L. 110–417, set out as a note under section 143 of this title.
 

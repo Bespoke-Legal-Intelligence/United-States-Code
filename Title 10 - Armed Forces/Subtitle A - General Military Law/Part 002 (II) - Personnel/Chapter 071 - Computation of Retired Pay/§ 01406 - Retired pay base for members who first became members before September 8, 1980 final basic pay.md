@@ -38,7 +38,7 @@ Disability, warrant officer, and dopma retirement.—In the case of a person who
 
 &emsp;(2)
 
-Non-regular service retirement.—In the case of a person who is entitled to retired pay under section 12731 of this title, the retired pay base is the monthly basic pay, determined at the rates applicable on the date when retired pay is granted, of the highest grade held satisfactorily by the person at any time in the armed forces. For purposes of the preceding sentence, the highest grade in which a person served satisfactorily as an officer shall be determined in accordance with section 1370(d) of this title.
+Non-regular service retirement.—In the case of a person who is entitled to retired pay under section 12731 of this title, the retired pay base is the monthly basic pay, determined at the rates applicable on the date when retired pay is granted (or, in the case of a person entitled to retired pay by reason of an election under section 12741(a) of this title, at rates applicable on the date the person completes the service required under such section 12741(a)), of the highest grade held satisfactorily by the person at any time in the armed forces. For purposes of the preceding sentence, the highest grade in which a person served satisfactorily as an officer shall be determined in accordance with section 1370(d) of this title.
 
 (c)
 
@@ -176,13 +176,15 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;&emsp;(vi) Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.
 
-(Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 686; amended Pub. L. 100–180, div. A, title V, §512(d)(2), title XIII, §1314(b)(6), Dec. 4, 1987, 101 Stat. 1090, 1175; Pub. L. 100–456, div. A, title XII, §1233(c), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 102–190, div. A, title XI, §1131(7), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–337, div. A, title XVI, §1662(j)(4), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 105–85, div. A, title X, §1073(a)(23), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §646, Oct. 17, 1998, 112 Stat. 2050; Pub. L. 106–65, div. A, title X, §1066(a)(11), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–372, title II, §272(a), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 108–136, div. A, title VI, §643(a), (b), Nov. 24, 2003, 117 Stat. 1517; Pub. L. 108–375, div. A, title X, §1084(d)(9), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 109–163, div. A, title V, §509(d)(1)(B), title VI, §685(d), Jan. 6, 2006, 119 Stat. 3231, 3325; Pub. L. 109–364, div. A, title V, §502(d)(2), title X, §1071(a)(7), Oct. 17, 2006, 120 Stat. 2178, 2398.)
+(Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 686; amended Pub. L. 100–180, div. A, title V, §512(d)(2), title XIII, §1314(b)(6), Dec. 4, 1987, 101 Stat. 1090, 1175; Pub. L. 100–456, div. A, title XII, §1233(c), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 102–190, div. A, title XI, §1131(7), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–337, div. A, title XVI, §1662(j)(4), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 105–85, div. A, title X, §1073(a)(23), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §646, Oct. 17, 1998, 112 Stat. 2050; Pub. L. 106–65, div. A, title X, §1066(a)(11), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–372, title II, §272(a), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 108–136, div. A, title VI, §643(a), (b), Nov. 24, 2003, 117 Stat. 1517; Pub. L. 108–375, div. A, title X, §1084(d)(9), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 109–163, div. A, title V, §509(d)(1)(B), title VI, §685(d), Jan. 6, 2006, 119 Stat. 3231, 3325; Pub. L. 109–364, div. A, title V, §502(d)(2), title X, §1071(a)(7), Oct. 17, 2006, 120 Stat. 2178, 2398; Pub. L. 111–84, div. A, title VI, §643(d)(1), Oct. 28, 2009, 123 Stat. 2367.)
 
 #### Prior Provisions
 
 A prior section 1406 was renumbered section 12738 of this title.
 
 #### Amendments
+
+2009—Subsec. (b)(2). Pub. L. 111–84 inserted “(or, in the case of a person entitled to retired pay by reason of an election under section 12741(a) of this title, at rates applicable on the date the person completes the service required under such section 12741(a))” after “when retired pay is granted”.
 
 2006—Subsec. (b)(1). Pub. L. 109–364, §502(d)(2), in table inserted “1253” at end of column under heading “For a member entitled to retired pay under section:”.
 

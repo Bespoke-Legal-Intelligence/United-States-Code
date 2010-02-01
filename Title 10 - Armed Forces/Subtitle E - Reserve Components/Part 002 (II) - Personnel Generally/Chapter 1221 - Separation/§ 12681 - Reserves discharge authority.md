@@ -122,7 +122,7 @@ Uniform Applicability.—The regulations shall apply uniformly to the Army, Navy
 
 &emsp;&emsp;“(A) is immediately eligible for retired pay based on military service under any provision of law;
 
-&emsp;&emsp;“(B) is serving as a military technician, as defined in section 8401(30) of title 5, United States Code, and would be immediately eligible for an unreduced annuity under the provisions of subchapterIII of chapter 83 of such title, relating to the Civil Service Retirement and Disability System, or the provisions of chapter 84 of such title, relating to the Federal Employees’ Retirement System; or
+&emsp;&emsp;“(B) is serving as a military technician, as defined in section 8401(30) of title 5, United States Code, and would be immediately eligible for an unreduced annuity under the provisions of subchapter III of chapter 83 of such title, relating to the Civil Service Retirement and Disability System, or the provisions of chapter 84 of such title, relating to the Federal Employees’ Retirement System; or
 
 &emsp;&emsp;“(C) is eligible for separation pay under section 1174 of title 10, United States Code.
 
@@ -160,7 +160,7 @@ Computation of Annual Payment.—(1) The annual payment for a member shall be eq
 
 “(B) The maximum percent applicable under this paragraph is 10 percent.
 
-“(3) In the case of a member who will attain 60 years of age during the 12-month period following the date on which an annual payment is due, the payment shall be paid on a prorated basis of one-twelfth of the annual payment for each full month between the date on which the payment is due and the date on which the member attains age 60.
+“(3) In the case of a member who will attain 60 years of age during the 12-month period following the date on which an annual payment is due, the payment shall be paid on a prorated basis of one-twelfth of the annualpayment for each full month between the date on which the payment is due and the date on which the member attains age 60.
 
 “(f)
 

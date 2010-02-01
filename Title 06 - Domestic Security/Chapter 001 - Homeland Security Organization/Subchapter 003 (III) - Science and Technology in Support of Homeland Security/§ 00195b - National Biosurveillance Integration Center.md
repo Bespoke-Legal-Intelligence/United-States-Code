@@ -28,7 +28,7 @@ The NBIC shall detect, as early as possible, a biological event of national conc
 
 &emsp;(4) providing the infrastructure for such integration, including information technology systems and space, and support for personnel from Member Agencies with sufficient expertise to enable analysis and interpretation of data;
 
-&emsp;(5) working with Member Agencies to create information technology systems that use the minimum amount of patient data necessaryand consider patient confidentiality and privacy issues at all stages of development and apprise the Privacy Officer of such efforts; and
+&emsp;(5) working with Member Agencies to create information technology systems that use the minimum amount of patient data necessary and consider patient confidentiality and privacy issues at all stages of development and apprise the Privacy Officer of such efforts; and
 
 &emsp;(6) alerting Member Agencies and, in coordination with (and where possible through) Member Agencies, public health agencies of State, local, and tribal governments regarding any incident that could develop into a biological event of national concern.
 

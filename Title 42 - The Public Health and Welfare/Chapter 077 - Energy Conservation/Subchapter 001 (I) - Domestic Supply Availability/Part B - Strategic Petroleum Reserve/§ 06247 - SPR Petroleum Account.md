@@ -18,7 +18,7 @@ Amounts in the Account may be obligated by the Secretary of Energy for the acqui
 
 #### (c) Provision and deposit of funds
 
-The Secretary of the Treasury shall provide and deposit into the Account such sums as may be necessary to meet obligations of the Secretary of Energy under subsection (b) of this section.
+The Secretary of the Treasury shall provide and deposit into the Account such sums as maybe necessary to meet obligations of the Secretary of Energy under subsection (b) of this section.
 
 #### (d) Off-budgeting procedures
 

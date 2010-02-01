@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall undertake a comprehensive annual review of all programs and projects of the International Atomic Energy Agency (IAEA) in the countries described in section 2227(a) of this title and shall determineif such programs and projects are consistent with United States nuclear nonproliferation and safety goals.
+&emsp;The Secretary shall undertake a comprehensive annual review of all programs and projects of the International Atomic Energy Agency (IAEA) in the countries described in section 2227(a) of this title and shall determine if such programs and projects are consistent with United States nuclear nonproliferation and safety goals.
 
 #### (2) Report
 

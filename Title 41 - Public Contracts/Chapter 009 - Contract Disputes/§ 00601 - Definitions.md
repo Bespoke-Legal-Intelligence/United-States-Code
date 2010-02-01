@@ -6,7 +6,7 @@ As used in this chapter—
 
 &emsp;(2) the term “executive agency” means an executive department as defined in section 101 of title 5, an independent establishment as defined by section 104 of title 5 (except that it shall not include the Government Accountability Office), a military department as defined by section 102 of title 5, and a wholly owned Government corporation as defined by section 9101(3) of title 31;
 
-&emsp;(3) the term “contracting officer” means any person who, by appointment in accordance with applicable regulations, has the authority to enter into and administer contracts and make determinations and findings with respect thereto. The term also includes the authorized representative of the contracting officer, acting within the limits of his authority;
+&emsp;(3) the term “contracting officer” means any person who, by appointment in accordance with applicable regulations, has the authority to enter into and administer contracts andmake determinations and findings with respect thereto. The term also includes the authorized representative of the contracting officer, acting within the limits of his authority;
 
 &emsp;(4) the term “contractor” means a party to a Government contract other than the Government;
 
@@ -44,7 +44,7 @@ In par. (2), “section 9101(3) of title 31” substituted for “section 846 of
 
 2006—Par. (2). Pub. L. 109–163, §847(d)(1)(A), struck out “, the United States Postal Service, and the Postal Rate Commission” before semicolon at end.
 
-Par. (6). Pub. L. 109–163, §847(d)(1)(C), amended par. (6) generally. Prior to amendment, par. (6) read as follows:“the term ‘agency board’ means an agency board of contract appeals established under section 607 of this title; and”.
+Par. (6). Pub. L. 109–163, §847(d)(1)(C), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “the term ‘agency board’ means an agency board of contract appeals established under section 607 of this title; and”.
 
 Pars. (7) to (9). Pub. L. 109–163, §847(d)(1)(B), (D), added pars. (7) and (8) and redesignated former par. (7) as (9).
 

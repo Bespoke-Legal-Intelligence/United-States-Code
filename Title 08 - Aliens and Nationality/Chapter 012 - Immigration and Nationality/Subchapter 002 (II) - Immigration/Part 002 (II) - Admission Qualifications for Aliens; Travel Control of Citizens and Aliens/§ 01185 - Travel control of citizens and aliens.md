@@ -24,7 +24,7 @@ Except as otherwise provided by the President and subject to such limitations an
 
 #### (c) Definitions
 
-The term “United States” as used in this section includes the Canal Zone, and all territory and waters, continental or insular, subject to the jurisdiction of the United States. The term “person” as used in this section shall be deemed to mean any individual, partnership, association, company, or other incorporated body of individuals, or corporation, or body politic.
+The term “United States” as used in this section includes the Canal Zone, and all territory and waters, continental or insular, subject to the jurisdiction of the United States. The term “person” as used in this section shall be deemedto mean any individual, partnership, association, company, or other incorporated body of individuals, or corporation, or body politic.
 
 #### (d) Nonadmission of certain aliens
 
@@ -102,7 +102,7 @@ Development of plan and implementation.—
 
 &emsp;&emsp;“(A) The Secretary of Homeland Security, in consultation with the Secretary of State, shall develop and implement a plan as expeditiously as possible to require a passport or other document, or combination of documents, deemed by the Secretary of Homeland Security to be sufficient to denote identity and citizenship, for all travel into the United States by United States citizens and by categories of individuals for whom documentation requirements have previously been waived under section 212(d)(4)(B) of the Immigration and Nationality Act (8 U.S.C. 1182(d)(4)(B)). Such plan may not be implemented earlier than the date that is the later of 3 months after the Secretary of State and the Secretary of Homeland Security make the certification required in subparagraph (B) or June 1, 2009. The plan shall seek to expedite the travel of frequent travelers, including those who reside in border communities, and in doing so, shall make readily available a registered traveler program (as described in section 7208(k) \[8 U.S.C. 1365b(k)\]).
 
-&emsp;&emsp;“(B) The Secretary of Homeland Security and the Secretary of State shall jointly certify to the Committees on Appropriations of the Senate and the House of Representatives that the following criteria have been met prior to implementation of section 7209(b)(1)(A)—
+&emsp;&emsp;“(B) The Secretary of Homeland Security and the Secretary of State shall jointly certify to the Committees on Appropriations of the Senate and theHouse of Representatives that the following criteria have been met prior to implementation of section 7209(b)(1)(A)—
 
 &emsp;&emsp;&emsp;“(i) the National Institute of Standards and Technology certifies that the Departments of Homeland Security and State have selected a card architecture that meets or exceeds International Organization for Standardization (ISO) security standards and meets or exceeds best available practices for protection of personal identification documents: <i>Provided</i>, That the National Institute of Standards and Technology shall also assist the Departments of Homeland Security and State to incorporate into the architecture of the card the best available practices to prevent the unauthorized use of information on the card: <i>Provided further</i>, That to facilitate efficient cross-border travel, the Departments of Homeland Security and State shall, to the maximum extent possible, develop an architecture that is compatible with information technology systems and infrastructure used by United States Customs and Border Protection;
 
@@ -118,7 +118,7 @@ Development of plan and implementation.—
 
 &emsp;&emsp;&emsp;“(vii) a single implementation date for sea and land borders has been established; and
 
-&emsp;&emsp;&emsp;“(viii) the signing of a memorandum of agreement to initiate a pilot program with not less than one State to determine if an enhanced driver's license, which is machine-readable and tamper proof, not valid for certification of citizenship for any purpose other than admission into the United States from Canada or Mexico, and issued by such State to an individual, may permit theindividual to use the driver's license to meet the documentation requirements under subparagraph (A) for entry into the United States from Canada or Mexico at land and sea ports of entry.
+&emsp;&emsp;&emsp;“(viii) the signing of a memorandum of agreement to initiate a pilot program with not less than one State to determine if an enhanced driver's license, which is machine-readable and tamper proof, not valid for certification of citizenship for any purpose other than admission into the United States from Canada or Mexico, and issued by such State to an individual, may permit the individual to use the driver's license to meet the documentation requirements under subparagraph (A) for entry into the United States from Canada or Mexico at land and sea ports of entry.
 
 &emsp;&emsp;“(C)
 
@@ -174,7 +174,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13323, Dec. 30, 2003, 69 F.R. 241, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 215 of the Immigration and Nationality Act (INA), as amended (8 U.S.C. 1185), and section 301 of title 3, United States Code, and to strengthen the national security of the United States through procedures and systems to manage and control the arrival and departure of persons from the United States, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 215 of the Immigration and Nationality Act (INA), as amended (8 U.S.C. 1185), and section 301 of title 3, United States Code, and tostrengthen the national security of the United States through procedures and systems to manage and control the arrival and departure of persons from the United States, it is hereby ordered as follows:
 
 Section 1. <i>Functions of the Secretary of Homeland Security</i>. The Secretary of Homeland Security is assigned the functions of the President under section 215(a) of the INA with respect to persons other than citizens of the United States. In exercising these functions, the Secretary of Homeland Security shall not issue, amend, or revoke any rules, regulations, or orders without first obtaining the concurrence of the Secretary of State.
 

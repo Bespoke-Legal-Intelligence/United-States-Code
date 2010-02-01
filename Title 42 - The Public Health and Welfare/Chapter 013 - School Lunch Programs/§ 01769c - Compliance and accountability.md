@@ -46,7 +46,7 @@ There shall be a unified system prescribed and administered by the Secretary for
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), if the local educational agency fails to meet administrative performance criteria established by the Secretary in both an initial review and a followup review under paragraph (1) or (3) or subsection (a) of this section, the Secretary may require the State educational agency to retain funds that would otherwise be paid to the local educational agency for school meals programs under procedures prescribed by the Secretary.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), if the local educational agency fails to meet administrative performance criteria established by the Secretary in both an initial review and a followup review under paragraph (1) or (3) or subsection (a) of this section, the Secretary may require the State educational agency to retain funds that would otherwisebe paid to the local educational agency for school meals programs under procedures prescribed by the Secretary.
 
 #### (B) Amount
 

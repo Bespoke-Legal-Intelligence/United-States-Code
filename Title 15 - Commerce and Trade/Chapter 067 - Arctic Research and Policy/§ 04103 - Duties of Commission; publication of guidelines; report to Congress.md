@@ -16,7 +16,7 @@
 
 &emsp;(7) offer other recommendations and advice to the Interagency Committee established under section 4106 of this title as it may find appropriate;
 
-&emsp;(8) cooperate with the Governor of the State of Alaska and with agencies and organizationsof that State which the Governor may designate with respect to the formulation of Arctic research policy;
+&emsp;(8) cooperate with the Governor of the State of Alaska and with agencies and organizations of that State which the Governor may designate with respect to the formulation of Arctic research policy;
 
 &emsp;(9) recommend to the Interagency Committee the means for developing international scientific cooperation in the Arctic; and
 

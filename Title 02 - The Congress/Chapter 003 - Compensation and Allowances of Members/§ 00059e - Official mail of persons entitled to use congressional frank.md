@@ -50,7 +50,7 @@ No Senator or Member of the House of Representatives may maintain or use, direct
 
 (2) Funds used for official mail—
 
-&emsp;(A) with respect to a Member of the House of Representatives, shall be available, in a session of Congress, in a total amount, as determined under paragraph (1)(A), of not more than the product of (i) 3 times the single-piece rate applicable to first class mail, and (ii) the number (as determined by the Postmaster General) of addresses (other than business possible delivery stops) in the congressional district, as such addresses are described in section 3210(d)(7)(B) of title 39; and
+&emsp;(A) with respect to a Member of the House of Representatives, shall be available, in a session of Congress, in a total amount, as determined under paragraph (1)(A), of not more than the product of (i) 3 times the single-piecerate applicable to first class mail, and (ii) the number (as determined by the Postmaster General) of addresses (other than business possible delivery stops) in the congressional district, as such addresses are described in section 3210(d)(7)(B) of title 39; and
 
 &emsp;(B) with respect to any other person entitled to use the congressional frank in the House of Representatives (including any Member of the House of Representatives who receives an allocation under subsection (a)(2) of this section with respect to duties as an elected officer of, or holder of another position in, the House of Representatives), shall be available, in a session of Congress, in a total amount determined under paragraph (1)(A).
 
@@ -112,7 +112,7 @@ Subsec. (e)(3). Pub. L. 106–57, §103(a)(3), struck out par. (3) which read as
 
 1998—Subsec. (e)(2). Pub. L. 105–275, §104(a), as amended by Pub. L. 106–57, §102, inserted “and” at end of subpar. (B), substituted a period for “; and” at end of subpar. (C), and struck out subpar. (D) which read as follows: “shall not be available for payment of any nonpostage fee or charge, including any fee or charge for express mail, express mail drop shipment, certified mail, registered mail, return receipt, address correction, or postal insurance.”
 
-Subsec. (e)(4). Pub. L. 105–275, §104(b), struck out par. (4) which read as follows: “The Members’ Representational Allowance shall be available to a Member of the House of Representatives for the payment of nonpostage fees and charges referred to in paragraph (2)(D) and for postage for mail for official business sent outside the United States.”
+Subsec. (e)(4). Pub. L. 105–275, §104(b), struck out par. (4) which read as follows: “The Members’ Representational Allowance shall be available to a Member of the House of Representatives for the payment of nonpostage fees and charges referred to in paragraph (2)(D) andfor postage for mail for official business sent outside the United States.”
 
 1996—Subsec. (a). Pub. L. 104–186, §203(22)(B)(i), substituted “House Oversight” for “House Administration” in introductory provisions.
 

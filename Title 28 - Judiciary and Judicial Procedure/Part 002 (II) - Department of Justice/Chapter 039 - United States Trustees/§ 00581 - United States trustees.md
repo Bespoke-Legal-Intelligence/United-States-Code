@@ -90,7 +90,7 @@ Pub. L. 99–554, title III, Oct. 27, 1986, 100 Stat. 3118, as amended by Pub. L
 
 “(a)
 
-Area for Which Appointed.—Notwithstanding any paragraph of section 581(a) of title 28, United States Code, as in effect before the effective date of this Act, a United States trustee serving in such office on the effective date of this Act shall serve the remaining term of such office as United States trustee for the region specified in a paragraph of such section, as amended by this Act, that includes the site at which the primary official station of the United States trustee is located immediately before the effective date of this Act.
+Area for Which Appointed.—Notwithstanding any paragraph of section 581(a) of title 28, UnitedStates Code, as in effect before the effective date of this Act, a United States trustee serving in such office on the effective date of this Act shall serve the remaining term of such office as United States trustee for the region specified in a paragraph of such section, as amended by this Act, that includes the site at which the primary official station of the United States trustee is located immediately before the effective date of this Act.
 
 “(b)
 
@@ -106,7 +106,7 @@ Term of Office.—Notwithstanding section 581(b) of title 28, United States Code
 
 “(a)
 
-General Effective Date.—Except as provided in subsections (b), (c), (d), (e), and (f), this Act and the amendments made by this Act \[see Short Title of 1986 Amendment note below\] shall take effect 30 days after the date of the enactment of this Act \[Oct. 27, 1986\].
+General Effective Date.—Except as provided in subsections (b), (c), (d), (e), and \[former\] (f), this Act and the amendments made by this Act \[see Short Title of 1986 Amendment note below\] shall take effect 30 days after the date of the enactment of this Act \[Oct. 27, 1986\].
 
 “(b)
 
@@ -312,7 +312,7 @@ In general.—Subject to paragraph (2), with respect to cases under chapters 7, 
 
 &emsp;“(2)
 
-Amendments inapplicable.—For purposes of paragraph (1), the amendments made by section 113 and subtitle A of title II of this Act, and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not apply with respect to a case under chapter 7, 11, 12, or 13 of title 11, United States Code, if—
+Amendments inapplicable.—For purposes of paragraph (1), the amendments made by section 113 and subtitle A of title II of this Act, and section 1930(a)(6) of title 28 of the United States Code (asadded by section 117(4) of this Act), shall not apply with respect to a case under chapter 7, 11, 12, or 13 of title 11, United States Code, if—
 
 &emsp;&emsp;“(A) the trustee in the case files the final report and account of administration of the estate, required under section 704 of such title, or
 
@@ -370,7 +370,7 @@ Information and Documents Relating to Bankruptcy Cases and United States Trustee
 
 “(a)
 
-Rules Relating to the United States Trustee System.—If a United States trustee is not authorized, before the effective date of this Act, to be appointed for a judicial district referred to in section 581(a) of title 28, United States Code, as amended by section 111(a) ofthis Act, then part X of the Bankruptcy Rules \[11 U.S.C. App.\] shall not apply to cases in such district until the amendments made by subtitle A of title II of this Act \[§§201 to 231 of Pub. L. 99–554, see Tables for classification\] become effective under section 302 of this Act in such district.
+Rules Relating to the United States Trustee System.—If a United States trustee is not authorized, before the effective date of this Act, to be appointed for a judicial district referred to in section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, then part X of the Bankruptcy Rules \[11 U.S.C. App.\] shall not apply to cases in such district until the amendments made by subtitle A of title II of this Act \[§§201 to 231 of Pub. L. 99–554, see Tables for classification\] become effective under section 302 of this Act in such district.
 
 “(b)
 
@@ -410,7 +410,7 @@ Standing Trustees in Bankruptcy Cases Under Chapter 13.—It is the sense of the
 
 “(a)
 
-Establishment of Project.—Not later than 1 year after the effective date of this Act, the Director of the Executive Office for United States Trustees, in consultation with the Director of the Administrative Office of the United States Courts, shall establish an electronic case management demonstration project to be carried out in 3 Federal judicial districts that have a sufficiently large and varied bankruptcy caseload so as to provide a meaningful evaluation of the cost and effectiveness of such system. A contract for such project shall be awarded—
+Establishment of Project.—Not later than 1 year after the effective date of this Act, the Director ofthe Executive Office for United States Trustees, in consultation with the Director of the Administrative Office of the United States Courts, shall establish an electronic case management demonstration project to be carried out in 3 Federal judicial districts that have a sufficiently large and varied bankruptcy caseload so as to provide a meaningful evaluation of the cost and effectiveness of such system. A contract for such project shall be awarded—
 
 &emsp;“(1) on the basis of competitive bids submitted by qualified nongovernmental entities that are able to design an automated joint information system for use by the United States courts and by United States trustees, and
 

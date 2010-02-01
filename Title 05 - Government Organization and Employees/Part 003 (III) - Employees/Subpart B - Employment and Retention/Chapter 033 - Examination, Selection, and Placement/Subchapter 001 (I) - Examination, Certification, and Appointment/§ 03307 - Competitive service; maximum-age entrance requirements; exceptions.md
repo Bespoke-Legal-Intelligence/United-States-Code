@@ -80,7 +80,7 @@ Treatment of prior cbpo service.—
 
 &emsp;&emsp;“(i)
 
-General rule.—Except as provided in clause (ii), nothing in this section \[amending this section and sections 8331, 8334 to 8336, 8401, 8412, 8415, 8422, 8423, and 8425 of this title and enacting provisions set out as a note under this section\] or any amendment made by this section shall be considered toapply with respect to any service performed as a customs and border protection officer before the effective date under paragraph (1).
+General rule.—Except as provided in clause (ii), nothing in this section \[amending this section and sections 8331, 8334 to 8336, 8401, 8412, 8415, 8422, 8423, and 8425 of this title and enacting provisions set out as a note under this section\] or any amendment made by this section shall be considered to apply with respect to any service performed as a customs and border protection officer before the effective date under paragraph (1).
 
 &emsp;&emsp;“(ii)
 

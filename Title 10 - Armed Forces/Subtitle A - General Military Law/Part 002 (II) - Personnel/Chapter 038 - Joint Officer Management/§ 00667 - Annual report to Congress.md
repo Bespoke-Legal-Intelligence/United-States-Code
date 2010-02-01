@@ -2,47 +2,29 @@
 
 The Secretary of Defense shall include in the annual report of the Secretary to Congress under section 113(c) of this title, for the period covered by the report, the following information (which shall be shown for the Department of Defense as a whole and separately for the Army, Navy, Air Force, and Marine Corps):
 
-&emsp;(1)(A) The number of officers designated as a joint qualified officer and their education and experience.
+&emsp;(1)(A) The number of officers designated as a joint qualified officer.
 
 &emsp;(B) The number of officers who meet the criteria for designation as a joint qualified officer, but were not selected, together with the reasons why.
 
+&emsp;(C) A comparison of the number of officers who were designated as a joint qualified officer who had served in a Joint Duty Assignment List billet and completed Joint Professional Military Education Phase II, with the number designated as a joint qualified officer based on their aggregated joint experiences and completion of Joint Professional Military Education Phase II.
+
 &emsp;(2) The number of officers designated as a joint qualified officer, shown by grade and branch or specialty and by education.
 
-&emsp;(3) The number of officers on the active-duty list with a military occupational specialty designated under section 668(d) of this title as a critical occupational specialty who—
+&emsp;(3) The promotion rate for officers designated as a joint qualified officer, compared with the promotion rate for other officers considered for promotion from within the promotion zone in the same pay grade and the same competitive category. A similar comparison will be made for officers both below the promotion zone and above the promotion zone.
 
-&emsp;&emsp;(A) have been designated as a joint qualified officer;
-
-&emsp;&emsp;(B) have been designated as a joint qualified officer and are serving in a joint duty assignment;
-
-&emsp;&emsp;(C) have completed a joint duty assignment and are attending an appropriate program at a joint professional military education school;
-
-&emsp;&emsp;(D) have completed an appropriate program at a joint professional military education school; and
-
-&emsp;&emsp;(E) have served, or are serving in, a second joint duty assignment after being designated as a joint qualified officer, with the number of such officers who have served, or are serving, in a critical joint duty assignment shown separately for general and flag officers, and for all other officers.
-
-&emsp;(4) For each fiscal year—
-
-&emsp;&emsp;(A) the number of officers designated as a joint qualified officer and, of those, the number who have a military occupational specialty designated as a critical occupational specialty; and
-
-&emsp;&emsp;(B) a comparison of the number of officers who were designated as a joint qualified officer who had served in a Joint Duty Assignment List billet and completed Joint Professional Military Education Phase II, with the number designated as a joint qualified officer based on their aggregated joint experiences and completion of Joint Professional Military Education Phase II.
-
-&emsp;(5) The promotion rate for officers designated as a joint qualified officer, compared with the promotion rate for other officers considered for promotion from within the promotion zone in the same pay grade and thesame competitive category. A similar comparison will be made for officers both below the promotion zone and above the promotion zone.
-
-&emsp;(6) An analysis of assignments of officers after their designation as a joint qualified officer.
-
-&emsp;(7) The average length of tours of duty in joint duty assignments—
+&emsp;(4) The average length of tours of duty in joint duty assignments—
 
 &emsp;&emsp;(A) for general and flag officers, shown separately for assignments to the Joint Staff and other joint duty assignments; and
 
 &emsp;&emsp;(B) for other officers, shown separately for assignments to the Joint Staff and other joint duty assignments.
 
-&emsp;(8) The number of times, in the case of each category of exclusion, that service in a joint duty assignment was excluded in computing the average length of joint duty assignments.
+&emsp;(5) The number of times, in the case of each category of exclusion, that service in a joint duty assignment was excluded in computing the average length of joint duty assignments.
 
-&emsp;(9)(A) An analysis of the extent to which the Secretary of each military department is providing officers to fill that department's share (as determined by law or by the Secretary of Defense) of Joint Staff and other joint duty assignments, including the reason for any significant failure by a military department to fill its share of such positions and a discussion of the actions being taken to correct the shortfall.
+&emsp;(6)(A) An analysis of the extent to which the Secretary of each military department is providing officers to fill that department's share (as determined by law or by the Secretary of Defense) of Joint Staff and other joint duty assignments, including the reason for any significant failure by a military department to fill its share of such positions and a discussion of the actions being taken to correct the shortfall.
 
 &emsp;(B) An assessment of the extent to which the Secretary of each military department is assigning personnel to joint duty assignments in accordance with this chapter and the policies, procedures, and practices established by the Secretary of Defense under section 661(a) of this title.
 
-&emsp;(10) The number of times a waiver authority was exercised under this chapter (or under any other provision of law which permits the waiver of any requirement relating to joint duty assignments) and in the case of each such authority—
+&emsp;(7) The number of times a waiver authority was exercised under this chapter (or under any other provision of law which permits the waiver of any requirement relating to joint duty assignments) and in the case of each such authority—
 
 &emsp;&emsp;(A) whether the authority was exercised for a general or flag officer;
 
@@ -50,23 +32,25 @@ The Secretary of Defense shall include in the annual report of the Secretary to 
 
 &emsp;&emsp;(C) the number of times in which action was taken without exercise of the waiver authority compared with the number of times waiver authority was exercised (in the case of each waiver authority under this chapter or under any other provision of law which permits the waiver of any requirement relating to joint duty assignments).
 
-&emsp;(11) The number of officers in the grade of captain (or in the case of the Navy, lieutenant) and above certified at each level of joint qualification as established in regulation and policy by the Secretary of Defense with the advice of the Chairman of the Joint Chiefs of Staff. Such numbers shall be reported by service and grade of the officer.
+&emsp;(8) The number of officers in the grade of captain (or in the case of the Navy, lieutenant) and above certified at each level of joint qualification as established in regulation and policy by the Secretary of Defense with the advice of the Chairman of the Joint Chiefs of Staff. Such numbers shall be reported by service and grade of the officer.
 
-&emsp;(12) With regard to each time the principal course of instruction at the Joint Forces Staff College is offered—
+&emsp;(9) With regard to the principal courses of instruction for Joint Professional Military Education Level II, the number of officers graduating from each of the following:
 
-&emsp;&emsp;(A) the number of officers selected to attend that course who did not first complete while in residence at a professional military education school operated by a military department the principal course of instruction offered at that school;
+&emsp;&emsp;(A) The Joint Forces Staff College.
 
-&emsp;&emsp;(B) the number of those officers as a percentage of all officers who attended that course of instruction at the Joint Forces Staff College;
+&emsp;&emsp;(B) The National Defense University.
 
-&emsp;&emsp;(C) a description of the different reasons why officers were selected to attend that course without first attending the principal course of instruction offered at a professional military education school operated by a military department; and
+&emsp;&emsp;(C) Senior Service Schools.
 
-&emsp;&emsp;(D) the number of officers so selected for each such reason.
+&emsp;(10) Such other information and comparative data as the Secretary of Defense considers appropriate to demonstrate the performance of the Department of Defense and the performance of each military department in carrying out this chapter.
 
-&emsp;(13) Such other information and comparative data as the Secretary of Defense considers appropriate to demonstrate the performance of the Department of Defense and the performance of each military department in carrying out this chapter.
-
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1029; amended Pub. L. 100–180, div. A, title XIII, §1304(a), Dec. 4, 1987, 101 Stat. 1172; Pub. L. 100–456, div. A, title V, §512(b), Sept. 29, 1988, 102 Stat. 1968; Pub. L. 101–189, div. A, title XI, §1123(d), Nov. 29, 1989, 103 Stat. 1557; Pub. L. 104–106, div. A, title V, §501(c), Feb. 10, 1996, 110 Stat. 292; Pub. L. 107–107, div. A, title V, §524, title X, §1048(a)(7), Dec. 28, 2001, 115 Stat. 1098, 1223; Pub. L. 109–364, div. A, title V, §519(d)(2), Oct. 17, 2006, 120 Stat. 2191; Pub. L. 110–417, \[div. A\], title V, §522(d), Oct. 14, 2008, 122 Stat. 4445.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1029; amended Pub. L. 100–180, div. A, title XIII, §1304(a), Dec. 4, 1987, 101 Stat. 1172; Pub. L. 100–456, div. A, title V, §512(b), Sept. 29, 1988, 102 Stat. 1968; Pub. L. 101–189, div. A, title XI, §1123(d), Nov. 29, 1989, 103 Stat. 1557; Pub. L. 104–106, div. A, title V, §501(c), Feb. 10, 1996, 110 Stat. 292; Pub. L. 107–107, div. A, title V, §524, title X, §1048(a)(7), Dec. 28, 2001, 115 Stat. 1098, 1223; Pub. L. 109–364, div. A, title V, §519(d)(2), Oct. 17, 2006, 120 Stat. 2191; Pub. L. 110–417, \[div. A\], title V, §522(d), Oct. 14, 2008, 122 Stat. 4445; Pub. L. 111–84, div. A, title V, §503, Oct. 28, 2009, 123 Stat. 2277.)
 
 #### Amendments
+
+2009—Par. (1). Pub. L. 111–84, §503(1), struck out “and their education and experience” after “qualified officer” in subpar. (A) and added subpar. (C).
+
+Pars. (3) to (13). Pub. L. 111–84, §503(2)–(6), added par. (9), redesignated pars. (5), (7) to (11), and (13) as (3), (4) to (8), and (10), respectively, and struck out former pars. (3), (4), (6), and (12), which related to the number of officers on the active-duty list with a military occupational speciality designated as a critical occupational speciality, the number of officers designated as joint qualified officer, analysis of their assignments after the designation, and the officers selected to attend the Joint Forces Staff College principal course of instruction.
 
 2008—Par. (1). Pub. L. 110–417, §522(d)(1), substituted “designated as a joint qualified officer” for “selected for the joint specialty” in subpar. (A) and “designation as a joint qualified officer,” for “selection for the joint specialty” in subpar. (B).
 
@@ -82,7 +66,7 @@ Pars. (5) to (18). Pub. L. 110–417, §522(d)(5)–(7), added pars. (5), (6), a
 
 2001—Par. (1). Pub. L. 107–107, §524(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Par. (2). Pub. L. 107–107, §524(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows:“The military occupational specialties within each of the armed forces that have been designated as critical occupational specialties under section 661(c)(2) of this title, separately identifying those specialties for which there is a severe shortage of trained officers, together with an explanation of how those specialties meet the criteria for that designation in section 661(c)(2)(B) of this title.”
+Par. (2). Pub. L. 107–107, §524(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The military occupational specialties within each of the armed forces that have been designated as critical occupational specialties under section 661(c)(2) of this title, separately identifying those specialties for which there is a severe shortage of trained officers, together with an explanation of how those specialties meet the criteria for that designation in section 661(c)(2)(B) of this title.”
 
 Par. (3)(A), (B). Pub. L. 107–107, §524(3)(A), substituted “selected” for “nominated”.
 

@@ -30,6 +30,10 @@ The provisions of this subchapter shall not apply to a private club or other est
 
 (Pub. L. 88–352, title II, §201, July 2, 1964, 78 Stat. 243.)
 
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–2, §1, Jan. 29, 2009, 123 Stat. 5, provided that: “This Act \[amending sections 2000e–5 and 2000e–16 of this title and sections 626, 633a, and 794a of Title 29, Labor, and enacting provisions set out as notes under section 2000e–5 of this title\] may be cited as the ‘Lilly Ledbetter Fair Pay Act of 2009’.”
+
 #### Short Title of 1992 Amendment
 
 Pub. L. 102–411, §1, Oct. 14, 1992, 106 Stat. 2102, provided that: “This Act \[amending section 2000e–4 of this title\] may be cited as the ‘EEOC Education, Technical Assistance, and Training Revolving Fund Act of 1992’.”

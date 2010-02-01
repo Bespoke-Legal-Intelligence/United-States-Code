@@ -30,7 +30,7 @@
 
 (3) Any contribution made by the Secretary of Defense to the Post-Vietnam Era Veterans Education Account pursuant to subsection (c) of section 3222 of this title on behalf of any individual referred to in paragraph (1) shall remain in such account to make payments of benefits to such individual under section 3015(f) of this title.
 
-(d) The procedures provided in regulations referred to in subsection (a) shall provide for notice of the requirements of subparagraphs (B), (C), and (D) of section 3011(a)(3) and of subparagraph (A) of section 3012(a)(3) of this title. Receipt of such notice shall be acknowledged in writing.
+(d) The procedures provided in regulations referred to in subsection (a) shall provide for notice of the requirements of subparagraphs (B),\(C), and (D) of section 3011(a)(3) and of subparagraph (A) of section 3012(a)(3) of this title. Receipt of such notice shall be acknowledged in writing.
 
 (e)(1) A qualified individual (described in paragraph (2)) may make an irrevocable election under this subsection, during the one-year period beginning on the date of the enactment of this subsection, to become entitled to basic educational assistance under this chapter. Such an election shall be made in the same manner as elections made under subsection (a)(5).
 
@@ -56,7 +56,7 @@
 
 > &emsp;an amount equal to the difference between $2,700 and the total amount of reductions under clause (i), which shall be paid into the Treasury of the United States as miscellaneous receipts.
 
-(B)(i) The Secretary concerned shall provide for an 18-month period, beginning on the date the qualified individual makes an election under paragraph (1), for the qualified individual to paythat Secretary the amount due under subparagraph (A).
+(B)(i) The Secretary concerned shall provide for an 18-month period, beginning on the date the qualified individual makes an election under paragraph (1), for the qualified individual to pay that Secretary the amount due under subparagraph (A).
 
 (ii) Nothing in clause (i) shall be construed as modifying the period of eligibility for and entitlement to basic education assistance under this chapter applicable under section 3031 of this title.
 

@@ -36,7 +36,7 @@ Prior to its repeal by section 212 of Pub. L. 96–161, section 204 of Pub. L. 9
 
 #### Effective and Termination Dates of 1974 Amendment
 
-Prior to its repeal by section 1 of Pub. L. 96–104, section 304 of title III of Pub. L. 93–501 provided that: “The amendments made by this title \[which enacted this section and amended sections 1425b and 1828 of this title\] shall apply to any deposit made or obligation issued in any State after the date of enactment of this title \[Oct. 29, 1974\], but prior to the earlier of (1) July 1, 1977 or (2) the date (after such date of enactment) on which the State enacts a provision of law which limits the amount of interest which may be charged in connection with deposits or obligations referred to in the amendments made by this title.”
+Prior to its repeal by section 1 of Pub. L. 96–104, section 304 of title III of Pub. L. 93–501 provided that: “The amendments made by this title \[which enacted this section and amended sections 1425b and 1828 of this title\]shall apply to any deposit made or obligation issued in any State after the date of enactment of this title \[Oct. 29, 1974\], but prior to the earlier of (1) July 1, 1977 or (2) the date (after such date of enactment) on which the State enacts a provision of law which limits the amount of interest which may be charged in connection with deposits or obligations referred to in the amendments made by this title.”
 
 #### States Having Constitutional Provisions Regarding Maximum Interest Rates
 

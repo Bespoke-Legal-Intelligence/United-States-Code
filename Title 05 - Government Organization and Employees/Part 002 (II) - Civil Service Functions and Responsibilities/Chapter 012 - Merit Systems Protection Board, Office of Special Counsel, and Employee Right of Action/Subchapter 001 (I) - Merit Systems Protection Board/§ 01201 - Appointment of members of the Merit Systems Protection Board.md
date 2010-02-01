@@ -14,7 +14,7 @@ Section 11 of Pub. L. 101–12 provided that: “This Act and the amendments mad
 
 #### Effective Date
 
-Subchapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
+Subchapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an EffectiveDate of 1978 Amendment note under section 1101 of this title.
 
 #### Short Title of 1989 Amendment
 

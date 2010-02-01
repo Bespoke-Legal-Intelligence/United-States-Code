@@ -20,7 +20,7 @@ There are hereby transferred to the Office all functions, powers, and duties of�
 
 &emsp;&emsp;(C) sections 246(a)(2)(F) and (d)(2)(F) and 291d(a)(8) of this title; and
 
-&emsp;&emsp;(D) sections 302(a)(5)(A), 602(a)(5)(A), 705(a)(3)(A), 1202(a)(5)(A), 1352(a)(5)(A),1382(a)(5)(A), and 1396a(a)(4)(A) of this title; and
+&emsp;&emsp;(D) sections 302(a)(5)(A), 602(a)(5)(A), 705(a)(3)(A), 1202(a)(5)(A), 1352(a)(5)(A), 1382(a)(5)(A), and 1396a(a)(4)(A) of this title; and
 
 &emsp;(4) any other department, agency, office, or officer (other than the President) under any other provision of law or regulation applicable to a program of grant-in-aid that specifically requires the establishment and maintenance of personnel standards on a merit basis with respect to the program;
 
@@ -66,7 +66,7 @@ Nothing in this section or in section 4722 or 4723 of this title shall be constr
 
 &emsp;(4) require or request any State or local government employee to disclose his race, religion, or national origin, or the race, religion, or national origin, of any of his forebears;
 
-&emsp;(5) require or request any State or local government employee, or any person applying for employment as a State or local government employee, to submit to any interrogation or examination or to take any psychological test or any polygraph test which is designed to elicit from him information concerning his personal relationship with any person connected with him by blood or marriage, or concerning his religious beliefs or practices, or concerning his attitude or conduct with respect to sexual matters; or
+&emsp;(5) require or request any State or local government employee, or any person applying for employment as a State or local government employee, to submit to any interrogation or examination or to take any psychological testor any polygraph test which is designed to elicit from him information concerning his personal relationship with any person connected with him by blood or marriage, or concerning his religious beliefs or practices, or concerning his attitude or conduct with respect to sexual matters; or
 
 &emsp;(6) require or request any State or local government employee to participate in any way in any activities or undertakings unless such activities or undertakings are related to the performance of official duties to which he is or may be assigned or to the development of skills, knowledge, or abilities which qualify him for the performance of such duties.
 
@@ -82,7 +82,7 @@ Effective one year after October 13, 1978, all statutory personnel requirements 
 
 &emsp;(4) chapter 15 of title 5, relating to political activities of certain State and local employees.
 
-(Pub. L. 91–648, title II, §208, Jan. 5, 1971, 84 Stat. 1915; Pub. L. 95–454, §602(a)(2), (3), Oct. 13, 1978, 92Stat. 1188, 1189; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 110–234, title IV, §4002(b)(1)(C), (2)(CC), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(C), (2)(CC), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
+(Pub. L. 91–648, title II, §208, Jan. 5, 1971, 84 Stat. 1915; Pub. L. 95–454, §602(a)(2), (3), Oct. 13, 1978, 92 Stat. 1188, 1189; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 110–234, title IV, §4002(b)(1)(C), (2)(CC), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(C), (2)(CC), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
 #### References in Text
 
@@ -120,7 +120,7 @@ In subsec. (h)(3), “sections 3141–3144, 3146, and 3147 of title 40” substi
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by section 4002(b)(1)(C), (2)(CC) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

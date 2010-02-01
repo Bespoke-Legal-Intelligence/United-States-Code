@@ -76,7 +76,7 @@ Payment of Voluntary Separation Pay.—(1) Voluntary separation pay under this s
 
 (h)
 
-Coordination With Retired or Retainer Pay and Disability Compensation.—(1) A member who is paid voluntary separation pay under this section and who later qualities <sup>1</sup> for retiredor retainer pay under this title or title 14 shall have deducted from each payment of such retired or retainer pay an amount, in such schedule of monthly installments as the Secretary concerned shall specify, until the total amount deducted from such retired or retainer pay is equal to the total amount of voluntary separation pay so paid.
+Coordination With Retired or Retainer Pay and Disability Compensation.—(1) A member who is paid voluntary separation pay under this section and who later qualifies for retired or retainer pay under this title or title 14 shall have deducted from each payment of such retired or retainer pay an amount, in such schedule of monthly installments as the Secretary concerned shall specify, until the total amount deducted from such retired or retainer pay is equal to the total amount of voluntary separation pay so paid.
 
 (2)(A) Except as provided in subparagraphs (B) and (C), a member who is paid voluntary separation pay under this section shall not be deprived, by reason of the member's receipt of such pay, of any disability compensation to which the member is entitled under the laws administered by the Secretary of Veterans Affairs, but there shall be deducted from such disability compensation an amount, in such schedule of monthly installments as the Secretary concerned shall specify, until the total amount deducted from such disability compensation is equal to the total amount of voluntary separation pay so paid, less the amount of Federal income tax withheld from such pay (such withholding being at the flat withholding rate for Federal income tax withholding, as in effect pursuant to regulations prescribed under chapter 24 of the Internal Revenue Code of 1986).
 
@@ -108,13 +108,15 @@ Termination of Authority.—(1) The authority to separate a member of the armed 
 
 (2) A member who separates by the date specified in paragraph (1) may continue to be provided voluntary separation pay and benefits under this section until the member has received the entire amount of pay and benefits to which the member is entitled under this section.
 
-(Added Pub. L. 109–163, div. A, title VI, §643(a)(1), Jan. 6, 2006, 119 Stat. 3306; amended Pub. L. 109–364, div. A, title VI, §623(a)(1), (2), Oct. 17, 2006, 120 Stat. 2256.)
+(Added Pub. L. 109–163, div. A, title VI, §643(a)(1), Jan. 6, 2006, 119 Stat. 3306; amended Pub. L. 109–364, div. A, title VI, §623(a)(1), (2), Oct. 17, 2006, 120 Stat. 2256; Pub. L. 111–84, div. A, title X, §1073(a)(14), Oct. 28, 2009, 123 Stat. 2473.)
 
 #### References in Text
 
 Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2)(A), is classified generally to chapter 24 (§3401 et seq.) of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2009—Subsec. (h)(1). Pub. L. 111–84 substituted “qualifies” for “qualities”.
 
 2006—Subsec. (f). Pub. L. 109–364, §623(a)(1), substituted “four” for “two”.
 
@@ -123,6 +125,4 @@ Subsec. (k)(1). Pub. L. 109–364, §623(a)(2), substituted “2012” for “20
 #### Limitation on Applicability
 
 Pub. L. 109–163, div. A, title VI, §643(b), Jan. 6, 2006, 119 Stat. 3310, which provided that, during the period beginning on Jan. 6, 2006, and ending on Dec. 31, 2008, members eligible for separation and for voluntary separation pay and benefits under this section would be limited to officers who had met the eligibility requirements of this section, but had not completed more than 12 years of active service as of the date of separation, was repealed by Pub. L. 109–364, div. A, title VI, §623(a)(3), Oct. 17, 2006, 120 Stat. 2256.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “qualifies”.</i>
 

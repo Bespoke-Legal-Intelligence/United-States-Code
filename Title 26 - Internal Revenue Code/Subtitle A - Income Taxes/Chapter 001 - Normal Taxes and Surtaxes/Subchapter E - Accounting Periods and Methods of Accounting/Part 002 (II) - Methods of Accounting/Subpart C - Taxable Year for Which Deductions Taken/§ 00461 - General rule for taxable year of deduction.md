@@ -50,7 +50,7 @@ If—
 
 &emsp;(4) but for the fact that the asserted liability is contested, a deduction would be allowed for the taxable year of the transfer (or for an earlier taxable year) determined after application of subsection (h),
 
-> then the deduction shall be allowed for the taxable year of the transfer. This subsection shall not apply in respect of the deduction for income, war profits, and excess profits taxes imposed by the authority of any foreign country or possession of the United States.
+> then the deduction shall be allowed for the taxable year of the transfer. This subsection shall not apply in respect of the deduction for income, war profits, and excess profits taxes imposed bythe authority of any foreign country or possession of the United States.
 
 #### (g) Prepaid interest
 
@@ -310,7 +310,7 @@ Pub. L. 104–188, §1704(t)(24), amended directory language of Pub. L. 101–23
 
 1988—Subsec. (h)(5)(B), (C). Pub. L. 100–647, §1018(u)(5), amended Pub. L. 99–514, §823(b)(1). See 1986 Amendment note below.
 
-Subsec. (i)(2). Pub. L. 100–647, §1008(a)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In the case of a tax shelter, economic performance with respect to the act of drilling an oil or gas well shall be treated as having occurred within a taxable year if drilling of the well commences before the close of the 90th day after the close of the taxable year.”
+Subsec. (i)(2). Pub. L. 100–647, §1008(a)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In the case of a tax shelter, economic performance with respect to the act of drilling an oil orgas well shall be treated as having occurred within a taxable year if drilling of the well commences before the close of the 90th day after the close of the taxable year.”
 
 1987—Subsec. (h)(5). Pub. L. 100–203 substituted “items” for “cases to which other provisions of this title specifically apply” in heading and amended text generally. Prior to amendment, text read as follows: “This subsection shall not apply to any item to which any of the following provisions apply:
 
@@ -374,7 +374,7 @@ Pub. L. 110–234, title XV, §15351(b), May 22, 2008, 122 Stat. 1525, and Pub. 
 
 #### Effective Date of 1989 Amendment
 
-Section 7721(d) of Pub. L. 101–239 provided that: “The amendments made by this section \[enacting sections 6662 to 6665 of this title, amending this section and sections 1274, 5684, 5761, 6013, 6222, 6601, 6621, 6653, 6672, and7519 of this title, and repealing sections 6659, 6659A, 6660, 6661, and former section 6662 of this title\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1989.”
+Section 7721(d) of Pub. L. 101–239 provided that: “The amendments made by this section \[enacting sections 6662 to 6665 of this title, amending this section and sections 1274, 5684, 5761, 6013, 6222, 6601, 6621, 6653, 6672, and 7519 of this title, and repealing sections 6659, 6659A, 6660, 6661, and former section 6662 of this title\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1989.”
 
 #### Effective Date of 1988 Amendment
 
@@ -392,7 +392,7 @@ Amendment by section 805(c)(5) of Pub. L. 99–514 applicable to taxable years b
 
 Amendment by section 823 of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with changes required in the method of accounting, see section 823(c) of Pub. L. 99–514, set out as an Effective Date of Repeal note under section 466 of this title.
 
-Amendment by section 1807(a)(1), (2) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1807(a)(1), (2) of Pub. L. 99–514 effective, except as otherwise provided, as if included inthe provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -494,7 +494,7 @@ In general.—In the case of any taxpayer—
 
 &emsp;&emsp;“(B) who elects the application of section 463 of such Code for the first taxable year ending after the date of the enactment of this Act,
 
-> &emsp;then, for purposes of section 463(b) of such Code, the opening balance of the taxpayer with respect to anyvested accrued vacation pay shall be determined under section 463(b)(1) of such Code.
+> &emsp;then, for purposes of section 463(b) of such Code, the opening balance of the taxpayer with respect to any vested accrued vacation pay shall be determined under section 463(b)(1) of such Code.
 
 &emsp;“(2)
 
@@ -520,7 +520,7 @@ Section 223(b) of Pub. L. 88–272 provided that: “Except as provided in subse
 
 &emsp;“(1) the amendment made by subsection (a)(1) \[amending this section\] shall apply to taxable years beginning after December 31, 1953, and ending after August 16, 1954, and
 
-&emsp;“(2) the amendment made by subsection (a)(2) \[amending section 43 of the Internal Revenue Code of 1939\] shall apply to taxable years to which the Internal Revenue Code of 1939 applies.”
+&emsp;“(2) the amendment made by subsection (a)(2) \[amending section 43 of the Internal Revenue Code of1939\] shall apply to taxable years to which the Internal Revenue Code of 1939 applies.”
 
 #### Effective Date of 1962 Amendment
 

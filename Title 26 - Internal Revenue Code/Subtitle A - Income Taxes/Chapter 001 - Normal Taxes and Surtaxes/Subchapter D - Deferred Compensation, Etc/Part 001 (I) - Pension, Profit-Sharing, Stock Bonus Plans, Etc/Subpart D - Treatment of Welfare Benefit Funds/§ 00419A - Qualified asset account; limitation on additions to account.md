@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (1) Reserve must be nondiscriminatory
 
-&emsp;No reserve may be taken into account under subsection (c)(2) for post-retirement medical benefits or life insurance benefits to be provided to covered employees unless the plan meets the requirements of section 505(b) with respect to such benefits (whether or not such requirements apply to such plan). The preceding sentence shall not apply to any plan maintained pursuant to an agreement between employee representatives and 1 or more employers if the Secretary finds that such agreement is a collective bargaining agreement and that post-retirement medical benefits or life insurance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
+&emsp;No reserve may be taken into account under subsection (c)(2) for post-retirement medicalbenefits or life insurance benefits to be provided to covered employees unless the plan meets the requirements of section 505(b) with respect to such benefits (whether or not such requirements apply to such plan). The preceding sentence shall not apply to any plan maintained pursuant to an agreement between employee representatives and 1 or more employers if the Secretary finds that such agreement is a collective bargaining agreement and that post-retirement medical benefits or life insurance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
 
 #### (2) Limitation on amount of life insurance benefits
 
@@ -306,7 +306,7 @@ Pub. L. 99–514, §1851(a)(4), which directed amendment of par. (5) by substitu
 
 Subsec. (f)(7)(C), (D). Pub. L. 99–514, §1851(a)(7), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “For purposes of this paragraph, the term ‘existing excess reserve’ means the excess (if any) of—
 
-&emsp;“(i) the amount of assets set aside for purposes described in subsection (a) as of the close of the firsttaxable year ending after the date of the enactment of the Tax Reform Act of 1984, over
+&emsp;“(i) the amount of assets set aside for purposes described in subsection (a) as of the close of the first taxable year ending after the date of the enactment of the Tax Reform Act of 1984, over
 
 &emsp;“(ii) the account limit which would have applied under this section to such taxable year if this section had applied to such taxable year.”
 

@@ -110,7 +110,7 @@ On any motion to dismiss based upon subsection (c)(1) of this section, the court
 
 #### (f) Stay pending decision on motion
 
-In any private action arising under this subchapter, the court shall stay discovery (otherthan discovery that is specifically directed to the applicability of the exemption provided for in this section) during the pendency of any motion by a defendant for summary judgment that is based on the grounds that—
+In any private action arising under this subchapter, the court shall stay discovery (other than discovery that is specifically directed to the applicability of the exemption provided for in this section) during the pendency of any motion by a defendant for summary judgment that is based on the grounds that—
 
 &emsp;(1) the statement or omission upon which the complaint is based is a forward-looking statement within the meaning of this section; and
 

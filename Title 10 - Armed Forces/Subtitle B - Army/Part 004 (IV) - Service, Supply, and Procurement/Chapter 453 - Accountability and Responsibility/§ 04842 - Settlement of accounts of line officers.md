@@ -24,5 +24,5 @@ June 10, 1921, ch. 18, §304 (1st par. 1st sentence), 42 Stat. 24.
 
 R.S. §278.
 
-The words “Comptroller General” are substituted for “General Accounting Office” for consistency. The words “audit and” are omitted as surplus. The words “for their services as such” and “by the affidavit of the officer or otherwise” are omitted as surplus. The words “to account for property or make a report or return” are added for clarity. The words “in the hands of the enemy” are omitted as surplus.
+The words “Comptroller General” are substituted for “General Accounting Office” for consistency. The words “audit and” are omitted as surplus. The words “for their services as such” and “by the affidavit of theofficer or otherwise” are omitted as surplus. The words “to account for property or make a report or return” are added for clarity. The words “in the hands of the enemy” are omitted as surplus.
 

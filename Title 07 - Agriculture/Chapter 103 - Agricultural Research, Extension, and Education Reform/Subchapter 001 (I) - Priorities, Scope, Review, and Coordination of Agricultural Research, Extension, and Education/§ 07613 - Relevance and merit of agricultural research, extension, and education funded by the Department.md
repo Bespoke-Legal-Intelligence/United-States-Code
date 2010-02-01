@@ -1,16 +1,16 @@
 ### §7613. Relevance and merit of agricultural research, extension, and education funded by the Department
 
-#### (a) Review of Cooperative State Research, Education, and Extension Service
+#### (a) Review of National Institute of Food and Agriculture
 
 #### (1) Peer review of research grants
 
-&emsp;The Secretary shall establish procedures that provide for scientific peer review of each agricultural research grant administered, on a competitive basis, by the Cooperative State Research, Education, and Extension Service of the Department.
+&emsp;The Secretary shall establish procedures that provide for scientific peer review of each agricultural research grant administered, on a competitive basis, by the National Institute of Food and Agriculture of the Department.
 
 #### (2) Merit review of extension and education grants
 
 #### (A) Establishment of procedures
 
-&emsp;&emsp;The Secretary shall establish procedures that provide for merit review of each agricultural extension or education grant administered, on a competitive basis, by the Cooperative State Research, Education, and Extension Service.
+&emsp;&emsp;The Secretary shall establish procedures that provide for merit review of each agricultural extension or education grant administered, on a competitive basis, by the National Institute of Food and Agriculture.
 
 #### (B) Consultation with Advisory Board
 
@@ -74,7 +74,7 @@ On an annual basis, the Advisory Board shall review—
 
 #### (1) 1862 and 1890 Institutions
 
-&emsp;Effective October 1, 1999, to be eligible to obtain agricultural research or extension funds from the Secretary for an activity, each 1862 Institution and 1890 Institution shall—
+&emsp;Effective October 1, 1999, to be eligible to obtain agricultural research or extension fundsfrom the Secretary for an activity, each 1862 Institution and 1890 Institution shall—
 
 &emsp;&emsp;(A) establish a process for merit review of the activity; and
 
@@ -90,17 +90,13 @@ On an annual basis, the Advisory Board shall review—
 
 #### (3) Hispanic-serving agricultural colleges and universities
 
-&emsp;To be eligible to obtain agricultural extension funds from the Secretary for an activity,each Hispanic-serving agricultural college and university shall—
+&emsp;To be eligible to obtain agricultural extension funds from the Secretary for an activity, each Hispanic-serving agricultural college and university shall—
 
 &emsp;&emsp;(A) establish a process for merit review of the activity; and
 
 &emsp;&emsp;(B) review the activity in accordance with such process.
 
 (Pub. L. 105–185, title I, §103, June 23, 1998, 112 Stat. 527; Pub. L. 110–234, title VII, §§7129(c)(3), 7301, 7511(c)(30), May 22, 2008, 122 Stat. 1227, 1242, 1270; Pub. L. 110–246, §4(a), title VII, §§7129(c)(3), 7301, 7511(c)(30), June 18, 2008, 122 Stat. 1664, 1988, 2003, 2031.)
-
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2031, provided that, effective Oct. 1, 2009, subsection (a) of this section is amended by substituting “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service” in heading and “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service” in paragraphs (1) and (2)(A).</i>
 
 #### Codification
 
@@ -110,7 +106,9 @@ Section is comprised of section 103 of Pub. L. 105–185. Subsec. (f) of section
 
 #### Amendments
 
-2008—Subsec. (a)(3). Pub. L. 110–246, §7301, added par. (3).
+2008—Subsec. (a). Pub. L. 110–246, §7511(c)(30), substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service” in heading and “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service” in text of pars. (1) and (2)(A).
+
+Subsec. (a)(3). Pub. L. 110–246, §7301, added par. (3).
 
 Subsec. (e)(3). Pub. L. 110–246, §7129(c)(3), added par. (3).
 

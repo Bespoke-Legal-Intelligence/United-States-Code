@@ -94,7 +94,7 @@ A person who knowingly or intentionally—
 
 &emsp;(4) exports a listed chemical, or serves as a broker or trader for an international transaction involving a listed chemical, knowing, or having reasonable cause to believe, that the chemical will be used to manufacture a controlled substance in violation of the laws of the country to which the chemical is exported;
 
-&emsp;(5) imports or exports a listed chemical, with the intent to evade the reporting or recordkeeping requirements of section 971 of this title applicable to such importation or exportation by falsely representing to the Attorney General that the importation or exportation qualifies for a waiver of the 15-day notification requirement granted pursuant to paragraph (2) or (3) of section 971(f) of this title by misrepresenting the actual country of final destination of the listed chemical or the actual listed chemical being imported or exported;
+&emsp;(5) imports or exports a listed chemical, with the intent to evade the reporting or recordkeeping requirements of section 971 of this title applicable to such importation or exportation by falsely representing to the Attorney General that the importation or exportationqualifies for a waiver of the 15-day notification requirement granted pursuant to paragraph (2) or (3) of section 971(f) of this title by misrepresenting the actual country of final destination of the listed chemical or the actual listed chemical being imported or exported;
 
 &emsp;(6) imports a listed chemical in violation of section 952 of this title, imports or exports such a chemical in violation of section 957 or 971 of this title, or transfers such a chemical in violation of section 971(d) of this title; or
 

@@ -1,6 +1,6 @@
 ### §296c. Matching requirement
 
-The Secretary may require that an entity that applies for a grant or contract under this subchapter provide non-Federal matching funds, as appropriate, to ensure the institutional commitment of the entity to the projects funded under the grant. Such non-Federal matching funds may be provided directly or through donationsfrom public or private entities and may be in cash or in-kind, fairly evaluated, including plant, equipment, or services.
+The Secretary may require that an entity that applies for a grant or contract under this subchapter provide non-Federal matching funds, as appropriate, to ensure the institutional commitment of the entity to the projects funded under the grant. Such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in-kind, fairly evaluated, including plant, equipment, or services.
 
 (July 1, 1944, ch. 373, title VIII, §804, as added Pub. L. 105–392, title I, §123(4), Nov. 13, 1998, 112 Stat. 3565.)
 

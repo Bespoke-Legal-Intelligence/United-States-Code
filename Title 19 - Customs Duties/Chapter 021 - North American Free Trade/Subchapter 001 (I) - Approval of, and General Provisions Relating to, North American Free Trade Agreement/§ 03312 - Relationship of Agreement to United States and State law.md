@@ -34,7 +34,7 @@
 
 &emsp;&emsp;The Trade Representative shall establish within the Office of the United States Trade Representative a Federal-State consultation process for addressing issues relating to the Agreement that directly relate to, or will potentially have a direct impact on, the States. The Federal-State consultation process shall include procedures under which—
 
-&emsp;&emsp;&emsp;(i) the Trade Representative will assist the States in identifying those State laws that may not conform with the Agreement but may be maintained under the Agreement by reason of being in effect before the Agreement entered into force;
+&emsp;&emsp;&emsp;(i) the Trade Representative will assist the States in identifying those State laws that may not conform with the Agreementbut may be maintained under the Agreement by reason of being in effect before the Agreement entered into force;
 
 &emsp;&emsp;&emsp;(ii) the States will be informed on a continuing basis of matters under the Agreement that directly relate to, or will potentially have a direct impact on, the States;
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(iv) the Trade Representative will take into account the information and advice received from the States under clause (iii) when formulating United States positions regarding matters referred to in clause (ii); and
 
-&emsp;&emsp;&emsp;(v) the States will be involved (including involvement through the inclusion of appropriate representatives of the States) tothe greatest extent practicable at each stage of the development of United States positions regarding matters referred to in clause (ii) that will be addressed by committees, subcommittees, or working groups established under the Agreement or through dispute settlement processes provided for under the Agreement.
+&emsp;&emsp;&emsp;(v) the States will be involved (including involvement through the inclusion of appropriate representatives of the States) to the greatest extent practicable at each stage of the development of United States positions regarding matters referred to in clause (ii) that will be addressed by committees, subcommittees, or working groups established under the Agreement or through dispute settlement processes provided for under the Agreement.
 
 > &emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Federal-State consultation process established by this paragraph.
 

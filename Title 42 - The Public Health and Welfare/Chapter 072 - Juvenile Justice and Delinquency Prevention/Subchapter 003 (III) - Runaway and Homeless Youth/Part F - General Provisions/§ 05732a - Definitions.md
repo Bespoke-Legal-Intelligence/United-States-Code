@@ -48,7 +48,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) less than 22 years of age; or
 
-&emsp;&emsp;&emsp;&emsp;(II) not less than 22 years of age, as of the expiration of the maximum period of stay permitted under section 5714–2(a)(2)of this title if such individual commences such stay before reaching 22 years of age;
+&emsp;&emsp;&emsp;&emsp;(II) not less than 22 years of age, as of the expiration of the maximum period of stay permitted under section 5714–2(a)(2) of this title if such individual commences such stay before reaching 22 years of age;
 
 &emsp;&emsp;(B) for whom it is not possible to live in a safe environment with a relative; and
 
@@ -110,7 +110,7 @@ In this subchapter:
 
 &emsp;&emsp;(ii) whose parent, guardian, or custodian is not willing to provide for the basic needs of such individual; or
 
-&emsp;&emsp;(iii) who is at risk of entering the child welfare system or juvenile justice system as a result of the lack of services available to the family to meet such needs.
+&emsp;&emsp;(iii) who is at risk of entering the child welfare system or juvenile justice system asa result of the lack of services available to the family to meet such needs.
 
 (Pub. L. 93–415, title III, §387, as added Pub. L. 106–71, §3(p), Oct. 12, 1999, 113 Stat. 1041; amended Pub. L. 108–96, title I, §116, Oct. 10, 2003, 117 Stat. 1170; Pub. L. 110–378, §10, Oct. 8, 2008, 122 Stat. 4072.)
 

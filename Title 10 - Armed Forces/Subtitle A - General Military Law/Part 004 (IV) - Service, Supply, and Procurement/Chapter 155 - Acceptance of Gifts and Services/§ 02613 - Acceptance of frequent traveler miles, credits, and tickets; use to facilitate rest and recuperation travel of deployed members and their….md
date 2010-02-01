@@ -22,7 +22,7 @@ Use of Donated Travel Benefits.—A travel benefit accepted under this section m
 
 &emsp;&emsp;(B) is granted, during such deployment, rest and recuperative leave, emergency leave, convalescent leave, or another form of leave authorized for the member; or
 
-&emsp;(2) in the case of a member of the armed forces recuperating from an injury or illness incurred or aggravated in the line of duty during such a deployment, facilitating the travel of family members of the member in order to be reunited with the member.
+&emsp;(2) in the case of a member of the armed forces recuperating from an injury or illnessincurred or aggravated in the line of duty during such a deployment, facilitating the travel of family members of the member in order to be reunited with the member.
 
 (e)
 

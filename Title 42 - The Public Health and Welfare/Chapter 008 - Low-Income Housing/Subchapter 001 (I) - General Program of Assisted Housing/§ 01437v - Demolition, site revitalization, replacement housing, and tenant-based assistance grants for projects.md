@@ -6,7 +6,7 @@ The purpose of this section is to provide assistance to public housing agencies 
 
 &emsp;(1) improving the living environment for public housing residents of severely distressed public housing projects through the demolition, rehabilitation, reconfiguration, or replacement of obsolete public housing projects (or portions thereof);
 
-&emsp;(2) revitalizing sites (including remaining public housing dwelling units) on which suchpublic housing projects are located and contributing to the improvement of the surrounding neighborhood;
+&emsp;(2) revitalizing sites (including remaining public housing dwelling units) on which such public housing projects are located and contributing to the improvement of the surrounding neighborhood;
 
 &emsp;(3) providing housing that will avoid or decrease the concentration of very low-income families; and
 
@@ -30,7 +30,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (2) Supplemental funds
 
-&emsp;In calculating the amount of supplemental funds provided by a grantee for purposes of paragraph (1), the grantee may include amounts from other Federal sources, any State or local government sources, any private contributions, the value of any donated material or building, the value of any lease on a building, the value of the time and services contributed by volunteers, and the value of any other in-kind services or administrative costs provided.
+&emsp;In calculating the amount of supplemental funds provided by a grantee for purposes of paragraph (1), the grantee may include amounts from other Federal sources, any State or local government sources, any private contributions, the value of any donated material or building, the value of any lease ona building, the value of the time and services contributed by volunteers, and the value of any other in-kind services or administrative costs provided.
 
 #### (3) Exemption
 
@@ -74,7 +74,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (1) Application
 
-&emsp;An application for a grant under this section shall demonstrate the appropriateness of the proposal in the context of the local housing market relative to other alternatives, and shall include such other information and besubmitted at such time and in accordance with such procedures, as the Secretary shall prescribe.
+&emsp;An application for a grant under this section shall demonstrate the appropriateness of the proposal in the context of the local housing market relative to other alternatives, and shall include such other information and be submitted at such time and in accordance with such procedures, as the Secretary shall prescribe.
 
 #### (2) Selection criteria
 
@@ -196,7 +196,7 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 #### (1) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated for grants under this section $574,000,000 for fiscal year 2008.
+&emsp;There are authorized to be appropriated for grants under this section $574,000,000 for fiscal year 2010.
 
 #### (2) Technical assistance and program oversight
 
@@ -210,7 +210,7 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 #### (1) Authority and use of grant amounts
 
-&emsp;The Secretary may make grants under this subsection to smaller communities. Such grant amounts shall be used by smaller communities only to provide assistance to carry out eligible affordable housing activities underparagraph (4) in connection with an eligible project under paragraph (2).
+&emsp;The Secretary may make grants under this subsection to smaller communities. Such grant amounts shall be used by smaller communities only to provide assistance to carry out eligible affordable housing activities under paragraph (4) in connection with an eligible project under paragraph (2).
 
 #### (2) Eligible project
 
@@ -298,9 +298,9 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 #### (<i>o</i>) Sunset
 
-No assistance may be provided under this section after September 30, 2008.
+No assistance may be provided under this section after September 30, 2010.
 
-(Sept. 1, 1937, ch. 896, title I, §24, as added Pub. L. 102–550, title I, §120, Oct. 28, 1992, 106 Stat. 3695; amended Pub. L. 104–99, title IV, §402(d)(6)(A)(vi), Jan. 26, 1996, 110 Stat. 43; Pub. L. 104–330, title V, §501(b)(9), Oct. 26, 1996, 110Stat. 4042; Pub. L. 105–276, title V, §535(a), Oct. 21, 1998, 112 Stat. 2581; Pub. L. 106–377, §1(a)(1) \[title II, §214(b)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §215, Feb. 20, 2003, 117 Stat. 504; Pub. L. 108–186, title IV, §§402(a), (b), (d), (e), 403, Dec. 16, 2003, 117 Stat. 2693, 2694; Pub. L. 109–289, div. B, title II, §21045, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 54; Pub. L. 110–161, div. K, title II, §224, Dec. 26, 2007, 121 Stat. 2437.)
+(Sept. 1, 1937, ch. 896, title I, §24, as added Pub. L. 102–550, title I, §120, Oct. 28, 1992, 106 Stat. 3695; amended Pub. L. 104–99, title IV, §402(d)(6)(A)(vi), Jan. 26, 1996, 110 Stat. 43; Pub. L. 104–330, title V, §501(b)(9), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §535(a), Oct. 21, 1998, 112 Stat. 2581; Pub. L. 106–377, §1(a)(1) \[title II, §214(b)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §215, Feb. 20, 2003, 117 Stat. 504; Pub. L. 108–186, title IV, §§402(a), (b), (d), (e), 403, Dec. 16, 2003, 117 Stat. 2693, 2694; Pub. L. 109–289, div. B, title II, §21045, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 54; Pub. L. 110–161, div. K, title II, §224, Dec. 26, 2007, 121 Stat. 2437; Pub. L. 111–8, div. I, title II, §223, Mar. 11, 2009, 123 Stat. 976; Pub. L. 111–117, div. A, title II, §222, Dec. 16, 2009, 123 Stat. 3101.)
 
 #### References in Text
 
@@ -309,6 +309,14 @@ Section 1437<i>l</i> of this title, referred to in subsec. (j)(2)(A)(iv), was re
 Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (j)(2)(A)(iv), is section 503(a) of Pub. L. 105–276, which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
 #### Amendments
+
+2009—Subsec. (m)(1). Pub. L. 111–117, §222(1), substituted “fiscal year 2010.” for “fiscal year 2009.”
+
+Pub. L. 111–8, §223(1), which directed the substitution of “2009” for “2003”, was executed by making the substitution for “2008”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 110–161, §224(1). See 2007 Amendment note below.
+
+Subsec. (<i>o</i>). Pub. L. 111–117, §222(2), substituted “September 30, 2010.” for “September 30, 2009.”
+
+Pub. L. 111–8, §223(2), which directed substitution of “September 30, 2009” for “September 30, 2007”, was executed by making the substitution for “September 30, 2008”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 110–161, §224(2). See 2007 Amendment note below.
 
 2007—Subsec. (m)(1). Pub. L. 110–161, §224(1), which directed substitution of “2008” for “2003”, was executed by making the substitution for “2007”, to reflect the probable intent of Congress and the amendment by Pub. L. 109–289, §21045(1), as added by Pub. L. 110–5. See below.
 
@@ -320,7 +328,7 @@ Pub. L. 109–289, §21045(2), as added by Pub. L. 110–5, substituted “Septe
 
 2003—Subsec. (a). Pub. L. 108–186, §403(a), inserted concluding provisions.
 
-Subsec. (e)(2). Pub. L. 108–186, §402(a)(1), substituted “The Secretary shall establish criteria for the award of grants under this section and shall include among the factors—” for “The Secretary shall establish selection criteria for the award of grants under this section and shall include such factors as—” in introductory provisions.
+Subsec. (e)(2). Pub. L. 108–186, §402(a)(1), substituted “The Secretary shall establish criteria for the award of grants under this section and shall include among thefactors—” for “The Secretary shall establish selection criteria for the award of grants under this section and shall include such factors as—” in introductory provisions.
 
 Subsec. (e)(2)(B). Pub. L. 108–186, §402(a)(2), struck out “large-scale” after “for managing”.
 

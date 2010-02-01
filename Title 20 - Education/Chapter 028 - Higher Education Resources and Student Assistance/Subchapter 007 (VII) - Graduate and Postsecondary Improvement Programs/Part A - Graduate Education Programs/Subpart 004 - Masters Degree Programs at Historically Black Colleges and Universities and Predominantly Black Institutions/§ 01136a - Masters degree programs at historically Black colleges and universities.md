@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(O) Virginia State University.
 
-&emsp;&emsp;(P) West Virginia Sate <sup>1</sup> University.
+&emsp;&emsp;(P) West Virginia State University.
 
 &emsp;&emsp;(Q) Wilberforce University.
 
@@ -128,7 +128,7 @@ Subject to subsection (g), of the amount appropriated to carry out this section 
 
 &emsp;(1) the first $9,000,000 (or any lesser amount appropriated) shall be available only for the purposes of making minimum grants under subsection (a)(3) to eligible institutions listed in subparagraphs (A) through (R) of subsection (b)(1), except that if the amount appropriated is not sufficient to pay the minimum grant awards to all such eligible institutions, the amount of the minimum award to each such eligible institution shall be ratably reduced;
 
-&emsp;(2) after the application of paragraph (1), an amount shall be available for the purpose of making minimum grants under subsection (a)(3) to eligible institutions listed in subsection (b)(1) that do not receive a grant under paragraph (1), if any, except that if the amount appropriated is not sufficient to pay the minimum grant awards to all such eligible institutions, the amount of the minimum award to each such eligible institution shall be ratably reduced; and
+&emsp;(2) after the application of paragraph (1), an amount shall be available for the purpose of making minimum grants under subsection (a)(3) to eligible institutions listed in subsection (b)(1) that do not receive a grant under paragraph (1), if any, except that if the amount appropriated is not sufficient to paythe minimum grant awards to all such eligible institutions, the amount of the minimum award to each such eligible institution shall be ratably reduced; and
 
 &emsp;(3) any amount in excess of $9,000,000 shall be made available to each of the eligible institutions identified in subparagraphs (A) through (R) of subsection (b)(1), pursuant to a formula developed by the Secretary that uses the following elements:
 
@@ -150,7 +150,7 @@ Notwithstanding paragraphs (2) and (3) of subsection (f), no eligible institutio
 
 &emsp;(2) the institution cannot provide sufficient matching funds to meet the requirements of this section.
 
-(Pub. L. 89–329, title VII, §723, as added Pub. L. 110–315, title VII, §706(b), Aug. 14, 2008, 122 Stat. 3349.)
+(Pub. L. 89–329, title VII, §723, as added Pub. L. 110–315, title VII, §706(b), Aug. 14, 2008, 122 Stat. 3349; amended Pub. L. 111–39, title VII, §701(2), July 1, 2009, 123 Stat. 1954.)
 
 #### Prior Provisions
 
@@ -164,5 +164,11 @@ Another prior section 1136a, Pub. L. 89–329, title XI, §1102, as added Pub. L
 
 A prior section 723 of Pub. L. 89–329 was renumbered section 343, and is classified to section 1066b of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “State”.</i>
+#### Amendments
+
+2009—Subsec. (b)(1)(P). Pub. L. 111–39 substituted “State” for “Sate”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

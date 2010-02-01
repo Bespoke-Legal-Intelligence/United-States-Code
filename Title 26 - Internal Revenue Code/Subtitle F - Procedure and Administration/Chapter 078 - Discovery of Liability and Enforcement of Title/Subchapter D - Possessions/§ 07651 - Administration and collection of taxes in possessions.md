@@ -40,7 +40,7 @@ Section 30 of the Organic Act of Guam, referred to in introductory provisions, i
 
 2007—Pars. (4), (5). Pub. L. 110–172 redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: “For purposes of this section, the term ‘possession of the United States’ includes the Canal Zone.”
 
-1986—Par. (5)(B). Pub. L. 99–514 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “For purposes of this title (other than section 881(b)(1) or subpart C of part III of subchapter N ofchapter 1), section 28(a) of the Revised Organic Act of the Virgin Islands shall be effective as if such section had been enacted subsequent to the enactment of this title.”
+1986—Par. (5)(B). Pub. L. 99–514 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “For purposes of this title (other than section 881(b)(1) or subpart C of part III of subchapter N of chapter 1), section 28(a) of the Revised Organic Act of the Virgin Islands shall be effective as if such section had been enacted subsequent to the enactment of this title.”
 
 1984—Par. (5)(B). Pub. L. 98–369, §801(d)(9), inserted “or subpart C of part III of subchapter N of chapter 1”.
 

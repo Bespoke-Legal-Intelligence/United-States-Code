@@ -24,7 +24,7 @@ For purposes of this title—
 
 #### (B) Exempt function income
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “exempt function income” means the gross income from dues, fees, charges, or similar amounts paid by members of the organization as consideration for providing such members or their dependents or guests goods, facilities, or services in furtherance of the purposes constituting the basis for the exemption of the organization to which such income is paid. Such term also means all income (other than an amount equal to thegross income derived from any unrelated trade or business regularly carried on by such organization computed as if the organization were subject to paragraph (1)), which is set aside—
+&emsp;&emsp;For purposes of subparagraph (A), the term “exempt function income” means the gross income from dues, fees, charges, or similar amounts paid by members of the organization as consideration for providing such members or their dependents or guests goods, facilities, or services in furtherance of the purposes constituting the basis for the exemption of the organization to which such income is paid. Such term also means all income (other than an amount equal to the gross income derived from any unrelated trade or business regularly carried on by such organization computed as if the organization were subject to paragraph (1)), which is set aside—
 
 &emsp;&emsp;&emsp;(i) for a purpose specified in section 170(c)(4), or
 
@@ -64,7 +64,7 @@ For purposes of this title—
 
 #### (5) Definition of payments with respect to securities loans
 
-&emsp;&emsp;(A) The term “payments with respect to securities loans” includes all amounts received in respect of a security (as defined in section 1236(c)) transferred by the owner toanother person in a transaction to which section 1058 applies (whether or not title to the security remains in the name of the lender) including—
+&emsp;&emsp;(A) The term “payments with respect to securities loans” includes all amounts received in respect of a security (as defined in section 1236(c)) transferred by the owner to another person in a transaction to which section 1058 applies (whether or not title to the security remains in the name of the lender) including—
 
 &emsp;&emsp;&emsp;(i) amounts in respect of dividends, interest, or other distributions,
 
@@ -226,7 +226,7 @@ Related persons.—The Secretary shall prescribe such rules as may be necessary 
 
 &emsp;&emsp;(C) less than 10 percent of the net income of which for each taxable year is used for activities which are not related to the purpose constituting the basis for the religious order's exemption,
 
-> &emsp;there shall be excluded all gross income derived from such trade or business and all deductions directly connected with the carrying on of such trade or business, so long as it is established to the satisfaction of the Secretary that the rates or other charges for such services are competitive with rates or other charges charged for similar services by persons not exempt from taxation.
+> &emsp;there shall be excluded all gross income derived from such trade or business and all deductions directly connected with the carryingon of such trade or business, so long as it is established to the satisfaction of the Secretary that the rates or other charges for such services are competitive with rates or other charges charged for similar services by persons not exempt from taxation.
 
 &emsp;(16)(A) Notwithstanding paragraph (5)(B), there shall be excluded all gains or losses from the sale, exchange, or other disposition of any real property described in subparagraph (B) if—
 
@@ -358,7 +358,7 @@ Request for certification.—Any request by an eligible taxpayer for a certifica
 
 &emsp;&emsp;&emsp;&emsp;(I) Remedial actions which comply with all applicable or relevant and appropriate requirements (consistent with section 121(d) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980) have been substantially completed, such that there are no hazardous substances, pollutants, or contaminants which complicate the expansion, redevelopment, or reuse of the property given the property's reasonably anticipated future land uses or capacity for uses of the property.
 
-&emsp;&emsp;&emsp;&emsp;(II) The reasonably anticipated future land uses or capacity for uses of the property are more economically productive or environmentally beneficial than the uses of the property in existence on the date of the certification described in subparagraph (C)(i). For purposes of the preceding sentence, use of property as alandfill or other hazardous waste facility shall not be considered more economically productive or environmentally beneficial.
+&emsp;&emsp;&emsp;&emsp;(II) The reasonably anticipated future land uses or capacity for uses of the property are more economically productive or environmentally beneficial than the uses of the property in existence on the date of the certification described in subparagraph (C)(i). For purposes of the preceding sentence, use of property as a landfill or other hazardous waste facility shall not be considered more economically productive or environmentally beneficial.
 
 &emsp;&emsp;&emsp;&emsp;(III) A remediation plan has been implemented to bring the property into compliance with all applicable local, State, and Federal environmental laws, regulations, and standards and to ensure that the remediation protects human health and the environment.
 
@@ -424,7 +424,7 @@ Qualifying partnership.—The term “qualifying partnership” means a partners
 
 &emsp;&emsp;&emsp;&emsp;(II) satisfies the requirements of subparagraphs (B)(i), (C), (D), and (E), if “qualified partnership” is substituted for “eligible taxpayer” each place it appears therein (except subparagraph (D)(iii)), and
 
-&emsp;&emsp;&emsp;&emsp;(III) is not an organization which would be prevented from constituting an eligible taxpayer by reason of subparagraph (B)(ii).
+&emsp;&emsp;&emsp;&emsp;(III) is not an organization which would be prevented from constituting aneligible taxpayer by reason of subparagraph (B)(ii).
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -608,7 +608,7 @@ Subsec. (c)(2), (3). Pub. L. 103–66, §13145(a), redesignated par. (3) as (2),
 
 1986—Subsec. (a)(3)(E)(i). Pub. L. 99–514, §1851(a)(10)(A), substituted “determined under section 419A (without regard to subsection (f)(6) thereof)” for “determined under section 419A(c)”.
 
-Subsec. (a)(3)(E)(ii). Pub. L. 99–514, §1851(a)(10)(B), (C), redesignated cl. (iii) as (ii), in subcl. I substituted “an existing reserve” for “a existing reserve”, and substituted new subcl. (II) for former subcl. (II) which read as follows: “For purposes of subclause (I), the term ‘existing reserve or post-retirement medical or life insurance benefit’ means the amount of assets set aside as of the close of the last plan year ending before the date of the enactment of the Tax Reform Act of 1984 for purposes of post-retirement medical benefits or life insurance benefits to be provided to covered employees.” Former cl. (ii), which provided that no set aside for assets used in the provision of benefits described in cl. (ii)of subpar. (B), could be taken into account, was struck out.
+Subsec. (a)(3)(E)(ii). Pub. L. 99–514, §1851(a)(10)(B), (C), redesignated cl. (iii) as (ii), in subcl. I substituted “an existing reserve” for “a existing reserve”, and substituted new subcl. (II) for former subcl. (II) which read as follows: “For purposes of subclause (I), the term ‘existing reserve or post-retirement medical or life insurance benefit’ means the amount of assets set aside as of the close of the last plan year ending before the date of the enactment of the Tax Reform Act of 1984 for purposes of post-retirement medical benefits or life insurance benefits to be provided to covered employees.” Former cl. (ii), which provided that no set aside for assets used in the provision of benefits described in cl. (ii) of subpar. (B), could be taken into account, was struck out.
 
 Subsec. (a)(3)(E)(iii), (iv). Pub. L. 99–514, §1851(a)(10)(B), (D), redesignated former cl. (iv) as (iii) and substituted “subparagraph shall not” for “paragraph shall not”. Former cl. (iii) redesignated (ii).
 
@@ -696,7 +696,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Binding contracts.—The amendments made by this section shall not apply to any amount received or accrued during the first 2 taxable years beginning on or after the date of the enactment of this Act if such amount is received or accrued pursuant to a writtenbinding contract in effect on June 8, 1997, and at all times thereafter before such amount is received or accrued. The preceding sentence shall not apply to any amount which would (but for the exercise of an option to accelerate payment of such amount) be received or accrued after such 2 taxable years.”
+Binding contracts.—The amendments made by this section shall not apply to any amount received or accrued during the first 2 taxable years beginning on or after the date of the enactment of this Act if such amount is received or accrued pursuant to a written binding contract in effect on June 8, 1997, and at all times thereafter before such amount is received or accrued. The preceding sentence shall not apply to any amount which would (but for the exercise of an option to accelerate payment of such amount) be received or accrued after such 2 taxable years.”
 
 Section 1523(b) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
@@ -790,7 +790,7 @@ Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning
 
 #### Effective Date of 1964 Amendment
 
-Section 2 of Pub. L. 88–380 provided that: “The amendment made by the first section of this Act\[amending this section\] shall apply with respect to taxable years beginning after December 31, 1963.”
+Section 2 of Pub. L. 88–380 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1963.”
 
 #### Effective Date of 1958 Amendment
 

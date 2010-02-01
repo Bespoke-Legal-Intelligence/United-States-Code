@@ -20,7 +20,7 @@
 
 &emsp;(H) The minimum energy efficiency ratio of water-cooled, evaporatively-cooled and water-source central air conditioners and central air conditioning heat pumps at or above 65,000 Btu per hour (cooling capacity) and less than 135,000 Btu per hour (cooling capacity) shall be 10.5 (at a standard rating of 95 degrees F db, outdoor temperature for evaporatively cooled equipment, and 85 degrees Fahrenheit entering water temperature for water source and water-cooled equipment).
 
-&emsp;(I) The minimum coefficient of performance in the heating mode of water-source heat pumps less than 135,000 Btu per hour (cooling capacity) shall be 3.8 (at a standard rating of 70 degrees Fahrenheit entering water).
+&emsp;(I) The minimum coefficient of performance in the heating mode of water-source heat pumps less than 135,000 Btu per hour (coolingcapacity) shall be 3.8 (at a standard rating of 70 degrees Fahrenheit entering water).
 
 (2) Each large commercial package air conditioning and heating equipment (including single package vertical air conditioners and single package vertical heat pumps) manufactured on or after January 1, 1995, but before January 1, 2010, shall meet the following standard levels:
 
@@ -46,7 +46,7 @@
 
 &emsp;(D) The minimum combustion efficiency at the maximum rated capacity of oil-fired packaged boilers with capacity of 300,000 Btu per hour or more shall be 83 percent.
 
-(5) Each storage water heater, instantaneous water heater, and unfired water storage tankmanufactured on or after January 1, 1994, shall meet the following standard levels:
+(5) Each storage water heater, instantaneous water heater, and unfired water storage tank manufactured on or after January 1, 1994, shall meet the following standard levels:
 
 &emsp;(A) Except as provided in subparagraph (G), the maximum standby loss, in percent per hour, of electric storage water heaters shall be 0.30 + (27/Measured Storage Volume \[in gallons\]).
 
@@ -80,7 +80,7 @@ Amended uniform national standard for products.—
 
 &emsp;&emsp;&emsp;(I)
 
-In general.—Except as provided in subclause (II), not later than 18 months after the date of publication of the amendment to the ASHRAE/IES Standard 90.1 for a product described in clause (i), the Secretary shall establish an amended uniform national standard for the product at the minimum level specified in the amended ASHRAE/IES Standard 90.1.
+In general.—Except as provided in subclause (II), not later than 18 months after the date of publication of the amendment to the ASHRAE/IES Standard 90.1 for a product described in clause (i), the Secretary shall establish an amended uniform national standard for the product at theminimum level specified in the amended ASHRAE/IES Standard 90.1.
 
 &emsp;&emsp;&emsp;(II)
 
@@ -128,7 +128,7 @@ New determination.—Not later than 3 years after a determination under clause (
 
 &emsp;&emsp;(iv)
 
-Application to products.—An amendment prescribed under this subsection shallapply to products manufactured after a date that is the later of—
+Application to products.—An amendment prescribed under this subsection shall apply to products manufactured after a date that is the later of—
 
 &emsp;&emsp;&emsp;(I) the date that is 3 years after publication of the final rule establishing a new standard; or
 
@@ -186,7 +186,7 @@ Reports.—The Secretary shall promptly submit to the Committee on Energy and Co
 
 &emsp;&emsp;(ii) 10.4 for equipment with all other heating system types that are integrated into the equipment (at a standard rating of 95 degrees F db).
 
-&emsp;(C) The minimum coefficient of performance in the heating mode of air-cooled central airconditioning heat pumps at or above 135,000 Btu per hour (cooling capacity) and less than 240,000 Btu per hour (cooling capacity) shall be 3.2 (at a high temperature rating of 47 degrees F db).
+&emsp;(C) The minimum coefficient of performance in the heating mode of air-cooled central air conditioning heat pumps at or above 135,000 Btu per hour (cooling capacity) and less than 240,000 Btu per hour (cooling capacity) shall be 3.2 (at a high temperature rating of 47 degrees F db).
 
 (9) Very large commercial package air conditioning and heating equipment (other than single package vertical air conditioners and single package vertical heat pumps) manufactured on or after January 1, 2010, shall meet the following standards:
 
@@ -220,7 +220,7 @@ In general.—Single package vertical air conditioners and single package vertic
 
 &emsp;&emsp;(iv) The minimum energy efficiency ratio of single package vertical air conditioners at or above 135,000 Btu per hour (cooling capacity) but less than 240,000 Btu per hour (cooling capacity), shall be 8.6.
 
-&emsp;&emsp;(v) The minimum energy efficiency ratio of single package vertical heat pumps less than 65,000 Btu per hour (cooling capacity), single-phase, shall be 9.0 and the minimum coefficient of performance in the heating mode shall be 3.0.
+&emsp;&emsp;(v) The minimum energy efficiency ratio of single package vertical heat pumps less than 65,000 Btu per hour (cooling capacity), single-phase, shall be 9.0 and the minimumcoefficient of performance in the heating mode shall be 3.0.
 
 &emsp;&emsp;(vi) The minimum energy efficiency ratio of single package vertical heat pumps less than 65,000 Btu per hour (cooling capacity), 3-phase, shall be 9.0 and the minimum coefficient of performance in the heating mode shall be 3.0.
 
@@ -491,17 +491,15 @@ Water use is for the condenser only and does not include potable water used to m
 
 <i>Pub. L. 110–140, title III, §313(b), Dec. 19, 2007, 121 Stat. 1568, provided that, effective on the date that is 3 years after Dec. 19, 2007, subsection (b) of this section is amended by redesignating paragraphs (2) and (3) as (3) and (4), respectively, and by adding a new paragraph (2) to read as follows:</i>
 
-<i>(2)</i>
+<i>(2) ELECTRIC MOTORS.—</i>
 
-Electric motors.—
+&emsp;<i>(A) GENERAL PURPOSE ELECTRIC MOTORS (SUBTYPE I)</i>.—<i>Except as provided in subparagraph (B), each general purpose electric motor (subtype I) with a power rating of 1 horsepower or greater, but not greater than 200 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–12.</i>
 
-&emsp;<i>(A) GENERAL PURPOSE ELECTRIC MOTORS (SUBTYPE I)</i>.—Except as provided in subparagraph (B), each general purpose electric motor (subtype I) with a power rating of 1 horsepower or greater, but not greater than 200 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–12.
+&emsp;<i>(B) FIRE PUMP MOTORS</i>.—<i>Each fire pump motor manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.</i>
 
-&emsp;<i>(B) FIRE PUMP MOTORS</i>.—Each fire pump motor manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.
+&emsp;<i>(C) GENERAL PURPOSE ELECTRIC MOTORS (SUBTYPE II)</i>.—<i>Each general purpose electric motor (subtype II) with a power rating of 1 horsepower or greater, but not greater than 200 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.</i>
 
-&emsp;<i>(C) GENERAL PURPOSE ELECTRIC MOTORS (SUBTYPE II)</i>.—Each general purpose electric motor (subtype II) with a power rating of 1 horsepower or greater, but not greater than 200 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.
-
-&emsp;<i>(D) NEMA DESIGN B, GENERAL PURPOSE ELECTRIC MOTORS</i>.—Each NEMA Design B, general purpose electric motor with a power rating of more than 200 horsepower, but not greater than 500 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.
+&emsp;<i>(D) NEMA DESIGN B, GENERAL PURPOSE ELECTRIC MOTORS</i>.—<i>Each NEMA Design B, general purpose electric motor with a power rating of more than 200 horsepower, but not greater than 500 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.</i>
 
 #### References in Text
 
@@ -547,7 +545,7 @@ Subsecs. (c) to (e). Pub. L. 109–58, §136(c)–(e), added subsecs. (c) to (e)
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–140, title III, §313(b)(2), Dec. 19, 2007, 121 Stat. 1569, provided that: “The amendments made by paragraph (1) \[amending this section\] take effect on thedate that is 3 years after the date of enactment of this Act \[Dec. 19, 2007\].”
+Pub. L. 110–140, title III, §313(b)(2), Dec. 19, 2007, 121 Stat. 1569, provided that: “The amendments made by paragraph (1) \[amending this section\] take effect on the date that is 3 years after the date of enactment of this Act \[Dec. 19, 2007\].”
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

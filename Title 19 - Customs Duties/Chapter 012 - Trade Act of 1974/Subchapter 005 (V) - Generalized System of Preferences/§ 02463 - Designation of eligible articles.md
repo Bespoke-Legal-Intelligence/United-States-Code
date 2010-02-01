@@ -92,7 +92,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii) and subject to subsection (d) of this section, whenever the President determines that a beneficiary developing country has exported (directly or indirectly) to the United States during any calendar year beginning after December 31, 1995—
+&emsp;&emsp;&emsp;Except as provided in clause (ii) and subject to subsection (d) of this section, whenever the President determines that a beneficiary developing country has exported (directly or indirectly) to the UnitedStates during any calendar year beginning after December 31, 1995—
 
 &emsp;&emsp;&emsp;&emsp;(I) a quantity of an eligible article having an appraised value in excess of the applicable amount for the calendar year, or
 
@@ -174,7 +174,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The President may not exercise the waiver authority under this subsection with respect to a quantity of an eligible article entered during any calendar year beginning after 1995, the aggregate appraised value of which equals or exceeds 30 percent of the aggregate appraised value of all articles that entered duty-free under this subchapter during the preceding calendar year.
+&emsp;&emsp;The President may not exercise the waiver authority under this subsection with respectto a quantity of an eligible article entered during any calendar year beginning after 1995, the aggregate appraised value of which equals or exceeds 30 percent of the aggregate appraised value of all articles that entered duty-free under this subchapter during the preceding calendar year.
 
 #### (B) Other waiver limits
 

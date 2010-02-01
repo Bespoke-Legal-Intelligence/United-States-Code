@@ -1,6 +1,6 @@
 ### §3707A. Hybrid adjustable rate mortgages
 
-(a) The Secretary shall carry out a demonstration project under this section during fiscal years 2004 through 2012 for the purpose of guaranteeing loans in a manner similar to the manner in which the Secretary of Housing and Urban Development insures adjustable rate mortgages under section 251 of the National Housing Act in accordance with the provisions of this section with respect to hybrid adjustable rate mortgages described in subsection (b).
+(a) The Secretary shall carry out a demonstration project under this section during fiscal years 2004 through 2012 for the purpose of guaranteeing loans in a manner similar to the manner in which the Secretary of Housing andUrban Development insures adjustable rate mortgages under section 251 of the National Housing Act in accordance with the provisions of this section with respect to hybrid adjustable rate mortgages described in subsection (b).
 
 (b) Adjustable rate mortgages that are guaranteed under this section shall be adjustable rate mortgages (commonly referred to as “hybrid adjustable rate mortgages”) having interest rate adjustment provisions that—
 
@@ -42,7 +42,7 @@
 
 #### References in Text
 
-The National Housing Act, referred to in subsecs. (a) and (d)(3), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. Section 251 of the Act is classifiedto section 1715z–16 of Title 12. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsecs. (a) and (d)(3), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. Section 251 of the Act is classified to section 1715z–16 of Title 12. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 #### Amendments
 

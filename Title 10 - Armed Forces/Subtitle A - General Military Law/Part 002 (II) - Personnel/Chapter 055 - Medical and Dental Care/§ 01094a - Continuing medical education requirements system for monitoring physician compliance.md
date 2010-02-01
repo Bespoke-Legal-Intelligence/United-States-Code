@@ -22,7 +22,7 @@ Cost-Sharing Agreement.—The Secretaries shall enter into an agreement for carr
 
 “(c)
 
-Use of Existing Authorities.—To carry out the pilot program, the Secretary of Defense and the Secretary of Veterans Affairs may use authorities provided to them under this subtitle \[subtitle C (§§721–726) of title VII of div. A of Pub. L. 107–314, amending section 1104 of this title and sections 8110 and 8111 of Title 38, Veterans’ Benefits, enacting provisions set out as notesunder section 1074g of this title and sections 8110 and 8111 of Title 38, and repealing provisions set out as a note under this section\], section 8111 of title 38, United States Code (as amended by section 721(a)), and other laws relating to the furnishing or support of medical education and the cooperative use of facilities.
+Use of Existing Authorities.—To carry out the pilot program, the Secretary of Defense and the Secretary of Veterans Affairs may use authorities provided to them under this subtitle \[subtitle C (§§721–726) of title VII of div. A of Pub. L. 107–314, amending section 1104 of this title and sections 8110 and 8111 of Title 38, Veterans’ Benefits, enacting provisions set out as notes under section 1074g of this title and sections 8110 and 8111 of Title 38, and repealing provisions set out as a note under this section\], section 8111 of title 38, United States Code (as amended by section 721(a)), and other laws relating to the furnishing or support of medical education and the cooperative use of facilities.
 
 “(d)
 

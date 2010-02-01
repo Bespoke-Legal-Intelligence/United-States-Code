@@ -58,7 +58,7 @@ The Food Security Act of 1985, referred to in subsec. (a)(1), (2), is Pub. L. 99
 
 This subchapter, referred to in subsec. (c), was in the original “this subtitle”, meaning subtitle B (§§111–118) of title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 898, which enacted this subchapter and amended sections 1308, 1308–1, and 1308–3 of this title. For complete classification of subtitle B to the Code, see Tables.
 
-Sections 101B, 103B, 105B, and 107B of the Agricultural Act of 1949, referred to in subsec. (d)(1), were classifiedto sections 1441–2, 1444–2, 1444f, and 1445b–3a, respectively, of this title prior to repeal by section 7301(b)(2)(A)–(D) of this title.
+Sections 101B, 103B, 105B, and 107B of the Agricultural Act of 1949, referred to in subsec. (d)(1), were classified to sections 1441–2, 1444–2, 1444f, and 1445b–3a, respectively, of this title prior to repeal by section 7301(b)(2)(A)–(D) of this title.
 
 #### Violation of Contract; Denial of Funds for Salaries
 

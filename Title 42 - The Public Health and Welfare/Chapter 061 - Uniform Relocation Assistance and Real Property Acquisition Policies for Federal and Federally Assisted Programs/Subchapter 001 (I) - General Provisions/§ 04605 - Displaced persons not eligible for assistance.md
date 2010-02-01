@@ -14,7 +14,7 @@ Except as provided in subsection (c) of this section, a displaced person shall n
 
 &emsp;Regulations promulgated under paragraph (1) shall—
 
-&emsp;&emsp;(A) prescribe the processes, procedures, and information that a displacing agencymust use in determining whether a displaced person is an alien not lawfully present in the United States;
+&emsp;&emsp;(A) prescribe the processes, procedures, and information that a displacing agency must use in determining whether a displaced person is an alien not lawfully present in the United States;
 
 &emsp;&emsp;(B) prohibit a displacing agency from discriminating against any displaced person;
 

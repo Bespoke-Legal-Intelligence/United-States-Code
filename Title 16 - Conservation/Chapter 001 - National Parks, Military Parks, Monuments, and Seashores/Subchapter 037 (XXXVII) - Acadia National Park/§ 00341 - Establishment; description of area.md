@@ -140,7 +140,7 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, as amended by Pub. L. 
 
 #### “SEC. 105. TOWN OF ISLE AU HAUT.
 
-“The provisions of this title shall not apply to those portions of the Park lying within the Town of Isle au Haut, Maine, which lands shall continue to be governedby the provisions of Public Law 97–335 \[set out as a note below\].
+“The provisions of this title shall not apply to those portions of the Park lying within the Town of Isle au Haut, Maine, which lands shall continue to be governed by the provisions of Public Law 97–335 \[set out as a note below\].
 
 #### “SEC. 106. AUTHORIZATION OF APPROPRIATIONS.
 
@@ -208,7 +208,7 @@ Pub. L. 97–335, Oct. 15, 1982, 96 Stat. 1627, as amended by Pub. L. 104–333,
 
 “(b) Notwithstanding any other provisions of this Act \[this note\], the Secretary is also authorized to accept by donation, as a coholder for enforcement purposes only, a limited enforcement interest in conservation easements on lands outside the boundary established by section 2 hereof and within the town of Isle au Haut which may from time to time be donated to the Isle au Haut Land Conservation Trust, a trust established under the laws of the State of Maine. The Superintendent of Acadia National Park is hereby authorized to serve as an ex officio trustee of such trust.
 
-“Sec. 4. (a) The management and use of parklands on Isle au Haut shall not interfere with the maintenance of a viable local community with a traditional resource-based economy outside the boundary of the park. To the maximum extent practicable, no development or plan for the convenience of park visitors shall be undertaken which would be incompatible with the preservation of the flora and fauna or the physiographic conditions now prevailing, and every effort shall be exerted to maintain and preserve this portion of the park in as nearly its present state and condition as possible. In recognition of the special fragility and sensitivity of the park's resources, visitation shall be strictly limited to assure negligible adverse impact onsuch resources, to conserve the character of the town and to protect the quality of the visitor experience.
+“Sec. 4. (a) The management and use of parklands on Isle au Haut shall not interfere with the maintenance of a viable local community with a traditional resource-based economy outside the boundary of the park. To the maximum extent practicable, no development or plan for the convenience of park visitors shall be undertaken which would be incompatible with the preservation of the flora and fauna or the physiographic conditions now prevailing, and every effort shall be exerted to maintain and preserve this portion of the park in as nearly its present state and conditionas possible. In recognition of the special fragility and sensitivity of the park's resources, visitation shall be strictly limited to assure negligible adverse impact on such resources, to conserve the character of the town and to protect the quality of the visitor experience.
 
 “\[(b), (c) Repealed. Pub. L. 104–333, div. I, title VIII, §814(d)(1)(C), Nov. 12, 1996, 110 Stat. 4196.\]
 

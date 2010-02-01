@@ -8,7 +8,7 @@ The Congress finds and declares that—
 
 &emsp;(3) any substantial curtailment of Canadian crude oil exports to the United States could create a severe crude oil shortage in the northern tier States;
 
-&emsp;(4) pending the authorization and completion of west-to-east crude oil delivery systems, Alaskan crude oil in excess of west coast needs will be transshipped through the Panama Canal at a high transportation cost;
+&emsp;(4) pending the authorization and completion of west-to-east crude oil delivery systems,Alaskan crude oil in excess of west coast needs will be transshipped through the Panama Canal at a high transportation cost;
 
 &emsp;(5) national security and regional supply requirements may be such that west-to-east crude delivery systems serving both the northern tier States and inland States, consistent with the requirements of section 410 of the Act approved November 16, 1973 (87 Stat. 594), commonly known as the Trans-Alaska Pipeline Authorization Act, are needed;
 

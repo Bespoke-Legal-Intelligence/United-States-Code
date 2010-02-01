@@ -60,7 +60,7 @@ Subsec. (a)(3). Pub. L. 104–106, §1502(a)(24)(B), added par. (3).
 
 Subsec. (b). Pub. L. 104–201, §369(a), substituted “in the National Capital Region” for “at the Pentagon Reservation”.
 
-1991—Subsec. (b)(2). Pub. L. 102–190, §2864, amended par. (2) generally. Prior to amendment, par. (2) read asfollows: “shall have the same powers as sheriffs and constables to enforce the laws, rules, or regulations enacted for the protection of persons and property.”
+1991—Subsec. (b)(2). Pub. L. 102–190, §2864, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “shall have the same powers as sheriffs and constables to enforce the laws, rules, or regulations enacted for the protection of persons and property.”
 
 Subsec. (c)(3). Pub. L. 102–190, §1061(a)(18), substituted “misdemeanor” for “misdeameanor”.
 

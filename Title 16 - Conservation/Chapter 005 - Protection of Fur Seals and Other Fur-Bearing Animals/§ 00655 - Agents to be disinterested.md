@@ -26,5 +26,5 @@ Reorg. Plan No. III of 1940, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232
 
 #### Responsibility for Matters Relating to Seals
 
-Bureau of Commercial Fisheries within the Fish and Wildlife Service as responsible for matters relating to commercial fisheries and to seals, see section 742b of this title.
+Bureau of Commercial Fisheries within the Fish and Wildlife Service as responsible for matters relating tocommercial fisheries and to seals, see section 742b of this title.
 

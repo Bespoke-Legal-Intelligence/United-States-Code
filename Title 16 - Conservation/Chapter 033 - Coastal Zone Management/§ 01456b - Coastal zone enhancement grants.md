@@ -18,7 +18,7 @@ For purposes of this section, the term “coastal zone enhancement objective” 
 
 &emsp;(7) Planning for the use of ocean resources.
 
-&emsp;(8) Adoption of procedures and enforceable policies to help facilitate the siting of energyfacilities and Government facilities and energy-related activities and Government activities which may be of greater than local significance.
+&emsp;(8) Adoption of procedures and enforceable policies to help facilitate the siting of energy facilities and Government facilities and energy-related activities and Government activities which may be of greater than local significance.
 
 &emsp;(9) Adoption of procedures and policies to evaluate and facilitate the siting of public and private aquaculture facilities in the coastal zone, which will enable States to formulate, administer, and implement strategic plans for marine aquaculture.
 
@@ -28,7 +28,7 @@ For purposes of this section, the term “coastal zone enhancement objective” 
 
 (2)(A) In addition to any amounts provided under section 1455 of this title, and subject to the availability of appropriations, the Secretary may make grants under this subsection to States for implementing program changes approved by the Secretary in accordance with section 1455(e) of this title.
 
-(B) Grants under this paragraph to implement a program change may not be made in any fiscal year after the second fiscal year that begins after the approval of that change by the Secretary.
+(B) Grants under this paragraph to implement a program change may not be made in any fiscalyear after the second fiscal year that begins after the approval of that change by the Secretary.
 
 #### (c) Evaluation of State proposals by Secretary
 

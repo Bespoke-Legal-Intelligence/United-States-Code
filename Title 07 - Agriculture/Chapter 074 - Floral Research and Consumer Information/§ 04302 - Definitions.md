@@ -12,7 +12,7 @@ As used in this chapter—
 
 (5) The term “foliage plants” means those plants, normally without flowers, primarily produced in pots or similar containers, that are primarily used for interior decorations, whether grown under cover or in field operations.
 
-(6) The term “propagational material” means any plant material used in the propagation of cut flowers, potted flowering plants, and foliage plants, including cuttings, bulbs and corms, seedlings, canes, liners, plants, cells or tissue cultures, air layers and bublets,<sup>1</sup> rhizomes, and root stocks. This term does not include seeds.
+(6) The term “propagational material” means any plant material used in the propagation of cut flowers, potted flowering plants, and foliage plants, including cuttings, bulbs and corms, seedlings, canes, liners, plants, cells or tissuecultures, air layers and bublets,<sup>1</sup> rhizomes, and root stocks. This term does not include seeds.
 
 (7) The term “flowers and plants” means cut flowers, potted flowering plants, foliage plants, and propagational material.
 

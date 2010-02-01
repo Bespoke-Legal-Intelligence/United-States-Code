@@ -59,7 +59,7 @@
 
 1990—Pub. L. 101–650, title III, §310(b), Dec. 1, 1990, 104 Stat. 5114, added item 1367.
 
-1988—Pub. L. 100–702, title X, §1020(a)(7), Nov. 19, 1988, 102 Stat. 4672, substituted “Actions” for “Action” in item 1330, inserted a period after “question” in item 1331, substituted “plant variety protection, copyrights, mask works, trade-marks,” for “copyrights, and trade-marks” in item 1338, and inserted “and elective franchise” in item 1343.
+1988—Pub. L. 100–702, title X, §1020(a)(7), Nov. 19, 1988, 102 Stat. 4672, substituted “Actions” for “Action” initem 1330, inserted a period after “question” in item 1331, substituted “plant variety protection, copyrights, mask works, trade-marks,” for “copyrights, and trade-marks” in item 1338, and inserted “and elective franchise” in item 1343.
 
 1986—Pub. L. 99–336, §6(a)(1)(A), June 19, 1986, 100 Stat. 638, renumbered item 1364 “Senate actions” and item 1364 “Construction of references to laws of the United States or Acts of Congress” as items 1365 and 1366, respectively.
 

@@ -34,7 +34,7 @@ To participate, as a New Markets Venture Capital company, in the program establi
 
 #### (1) In general
 
-&emsp;From among companies submitting applications under subsection (b) of this section, the Administrator shall, in accordance with this subsection, conditionally approval <sup>1</sup> companies to participate in the New Markets Venture Capital Program.
+&emsp;From among companies submitting applications under subsection (b) of this section, the Administrator shall, in accordance with this subsection, conditionally approval <sup>1</sup> companiesto participate in the New Markets Venture Capital Program.
 
 #### (2) Selection criteria
 

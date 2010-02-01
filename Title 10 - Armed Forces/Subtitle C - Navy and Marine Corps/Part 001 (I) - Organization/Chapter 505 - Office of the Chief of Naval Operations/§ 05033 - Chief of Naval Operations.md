@@ -1,6 +1,6 @@
 ### §5033. Chief of Naval Operations
 
-(a)(1) There is a Chief of Naval Operations, appointed by the President, by and with the advice and consent of the Senate. The Chief of Naval Operations shall be appointed for a term of fouryears, from the flag officers of the Navy. He serves at the pleasure of the President. In time of war or during a national emergency declared by Congress, he may be reappointed for a term of not more than four years.
+(a)(1) There is a Chief of Naval Operations, appointed by the President, by and with the advice and consent of the Senate. The Chief of Naval Operations shall be appointed for a term of four years, from the flag officers of the Navy. He serves at the pleasure of the President. In time of war or during a national emergency declared by Congress, he may be reappointed for a term of not more than four years.
 
 (2) The President may appoint an officer as the Chief of Naval Operations only if—
 

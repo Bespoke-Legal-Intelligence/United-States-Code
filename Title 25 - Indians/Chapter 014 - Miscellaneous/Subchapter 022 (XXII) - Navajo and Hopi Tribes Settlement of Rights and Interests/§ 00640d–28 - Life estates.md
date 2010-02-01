@@ -24,11 +24,11 @@ The Commissioner shall have authority to award life estate leases to not more th
 
 #### (e) Area; allowable livestock; assistance by Secretary in feeding livestock
 
-Each life estate lease shall consist of a fenced area not exceeding ninety acres of land which shall include the life tenant's present residence and may be used by the life tenant to feed not to exceed twenty-five sheep units per year or equivalent livestock. The Secretary, under existing authority, shall make available to life estate tenants such assistance during that tenure, as may be necessary to enable such tenant to feed such livestock at an adequate nutritional level.
+Each life estate lease shall consist of a fenced area not exceeding ninety acres of land whichshall include the life tenant's present residence and may be used by the life tenant to feed not to exceed twenty-five sheep units per year or equivalent livestock. The Secretary, under existing authority, shall make available to life estate tenants such assistance during that tenure, as may be necessary to enable such tenant to feed such livestock at an adequate nutritional level.
 
 #### (f) Individuals permitted to reside; regulations
 
-No person may reside on a life estate other than the life tenant, his or her spouse, andminor dependents, and/or such persons who are necessarily present to provide for the care of the life tenant. The Commissioner shall promulgate regulations to carry out the intent of this subsection.
+No person may reside on a life estate other than the life tenant, his or her spouse, and minor dependents, and/or such persons who are necessarily present to provide for the care of the life tenant. The Commissioner shall promulgate regulations to carry out the intent of this subsection.
 
 #### (g) Termination
 

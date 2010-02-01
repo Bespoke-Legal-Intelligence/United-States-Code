@@ -128,7 +128,7 @@ In general.—There is authorized to be appropriated from the Highway Trust Fund
 
 Contract authority.—Funds authorized by this subparagraph shall be available for obligation in the same manner as if the funds were apportioned under chapter 1, except that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the Federal share of the cost of a project carried out under this section shall be determined in accordance with subsection (b); and
+&emsp;&emsp;&emsp;&emsp;(I) the Federal share of the cost of a project carried out under this sectionshall be determined in accordance with subsection (b); and
 
 &emsp;&emsp;&emsp;&emsp;(II) the availability of the funds shall be determined in accordance with paragraph (2).
 
@@ -224,7 +224,7 @@ Definitions.—In this section, the following definitions apply:
 
 Eligible project costs.—The term ‘eligible project costs’—
 
-&emsp;&emsp;“(A) means the capital cost of the fixed guideway infrastructure of a MAGLEV project, including land, piers, guideways, propulsion equipment and other components attached to guideways, power distribution facilities (including substations), control and communications facilities, access roads, and storage, repair, and maintenance facilities, but not including costs incurred for a new station; and
+&emsp;&emsp;“(A) means the capital cost of the fixed guideway infrastructure of a MAGLEV project, including land, piers, guideways, propulsion equipment and other components attached to guideways, power distribution facilities (including substations), control and communications facilities, access roads,and storage, repair, and maintenance facilities, but not including costs incurred for a new station; and
 
 &emsp;&emsp;“(B) includes the costs of preconstruction planning activities.
 
@@ -292,7 +292,7 @@ Funding.—Of the amounts made available under section 5001(a)(2) of this Act \[
 
 “(3)
 
-Federal share.—The Federal share payable on account of activities carried out using a grant madeunder this subsection shall be 80 percent of the cost of such activities.”
+Federal share.—The Federal share payable on account of activities carried out using a grant made under this subsection shall be 80 percent of the cost of such activities.”
 
 \[Pub. L. 109–35, §7(p)(1), which directed amendment of Pub. L. 105–178, §3015(c)(2), set out above, by substituting “July 21, 2005” for “July 19, 2005,” was executed by making the substitution for “July 19, 2005”, to reflect the probable intent of Congress.\]
 

@@ -46,7 +46,7 @@ The Director shall not use either permanently or temporarily any person charged 
 
 #### (f) Conflict of interest; penalties; rules and regulations; report to Congress
 
-No employee of the Office or any other Federal employee performing any function or duty under this chapter shall have a direct or indirect financial interest in underground or surface coal mining operations. Whoever knowingly violates the provisions of the above sentence shall, upon conviction, be punished by a fine of not more than $2,500, or by imprisonment for not more than one year, or both. The Director shall (1) within sixty days after August 3, 1977, publish regulations, in accordance with section 553 of title 5, to establish the methods by which the provisions of this subsection will be monitored and enforced, including appropriate provisions for the filing by such employees and the review of statements and supplements thereto concerning their financial interests which may be affected by this subsection, and (2) report to the Congress as part of the annual report (section 1296 of this title) on the actions taken and not taken during the preceding calendar year under this subsection.
+No employee of the Office or any other Federal employee performing any function or duty under this chapter shall have a direct or indirect financial interest in underground or surface coal mining operations. Whoever knowingly violates the provisions of the above sentence shall, uponconviction, be punished by a fine of not more than $2,500, or by imprisonment for not more than one year, or both. The Director shall (1) within sixty days after August 3, 1977, publish regulations, in accordance with section 553 of title 5, to establish the methods by which the provisions of this subsection will be monitored and enforced, including appropriate provisions for the filing by such employees and the review of statements and supplements thereto concerning their financial interests which may be affected by this subsection, and (2) report to the Congress as part of the annual report (section 1296 of this title) on the actions taken and not taken during the preceding calendar year under this subsection.
 
 #### (g) Petition for issuance, amendment, or repeal of rule; filing; hearing or investigation; notice of denial
 
@@ -91,6 +91,10 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1793, provided: “That notwithstanding any other provisions of law, appropriations for the Office of Surface Mining Reclamation and Enforcement may, hereafter, provide for the travel and per diem expenses of State and tribal personnel attending OSMRE sponsored training”.
 
 Similar provisions were contained in the following appropriations acts:
+
+Pub. L. 111–88, div. A, title I, Oct. 30, 2009, 123 Stat. 2915.
+
+Pub. L. 111–8, div. E, title I, Mar. 11, 2009, 123 Stat. 712.
 
 Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2109.
 

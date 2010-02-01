@@ -32,7 +32,7 @@ Such person so authorized may seize, whenever and wherever lawfully found, all f
 
 #### Amendments
 
-1983—Pub. L. 98–129 amended section generally, substituting provisions, which were contained in section1182 of this title, relating to practice and procedure in connection with the enforcement of this chapter for provisions which had authorized the sale by the Secretary of sea otter skins that had been forfeited to or seized by the United States.
+1983—Pub. L. 98–129 amended section generally, substituting provisions, which were contained in section 1182 of this title, relating to practice and procedure in connection with the enforcement of this chapter for provisions which had authorized the sale by the Secretary of sea otter skins that had been forfeited to or seized by the United States.
 
 #### Change of Name
 

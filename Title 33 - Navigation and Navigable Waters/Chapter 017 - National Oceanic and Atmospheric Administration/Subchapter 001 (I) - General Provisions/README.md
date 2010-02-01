@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—GENERAL PROVISIONS
 
-#### Safety and Health Regulations for Scientific and Occupational Diving
-
-Pub. L. 110–161, div. B, title I, §110, Dec. 26, 2007, 121 Stat. 1893, provided that: “The Secretary of Commerce is permitted to prescribe and enforce standards or regulations affecting safety and health in the context of scientific and occupational diving within the National Oceanic and Atmospheric Administration.”
-
 
 ---
 
@@ -65,3 +61,4 @@ Pub. L. 110–161, div. B, title I, §110, Dec. 26, 2007, 121 Stat. 1893, provid
 - [&sect; 00877 - Appropriations; advances from](%C2%A7%2000877%20-%20Appropriations%3B%20advances%20from.md)
 - [&sect; 00878 - Appropriations; purchases from](%C2%A7%2000878%20-%20Appropriations%3B%20purchases%20from.md)
 - [&sect; 00878a - Contract for development of a major program; costs; Major Program Annual Report for satellite development program](%C2%A7%2000878a%20-%20Contract%20for%20development%20of%20a%20major%20program%3B%20costs%3B%20Major%20Program%20Annual%20Report%20for%20satellite%20development%20program.md)
+- [&sect; 00878b - Safety and health regulations for scientific and occupational diving](%C2%A7%2000878b%20-%20Safety%20and%20health%20regulations%20for%20scientific%20and%20occupational%20diving.md)

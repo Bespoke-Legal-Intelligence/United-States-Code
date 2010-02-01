@@ -20,7 +20,7 @@ In applying subsection (a) of this section in the case of any vehicle with an en
 
 &emsp;(A) the Governor of that State submits a request to the Secretary to have such requirements applicable in that State; and
 
-&emsp;(B) the attorney general of that State has found that (i) absent a delegation of authority under a Federal law, the Governor lacks the authority under the laws of the State to invoke comparable requirements, (ii) under applicable State law, the Governor and other appropriate State officers and employees are not prevented from administering and enforcing such requirements under a delegation of authority pursuant to Federal law, and (iii) if implemented such requirements would not be contrary to State law.
+&emsp;(B) the attorney general of that State has found that (i) absent a delegation of authorityunder a Federal law, the Governor lacks the authority under the laws of the State to invoke comparable requirements, (ii) under applicable State law, the Governor and other appropriate State officers and employees are not prevented from administering and enforcing such requirements under a delegation of authority pursuant to Federal law, and (iii) if implemented such requirements would not be contrary to State law.
 
 > Subject to paragraph (2), such provisions shall cease to apply in any State if the Governor of the State withdraws any request under subparagraph (A).
 
@@ -48,7 +48,7 @@ The Secretary may increase the $5.00 and $7.00 amounts specified in subsections 
 
 #### (g) Administration and enforcement delegated to States
 
-(1) There is hereby delegated to the Governor of any State, and other State and local officersand employees designated by the Governor, the authority to administer and enforce, within that State, any provision of this subchapter which is to be administered and enforced in accordance with this section. Such authority includes the authority to institute actions on behalf of the United States for the imposition and collection of civil penalties under subsection (f) of this section.
+(1) There is hereby delegated to the Governor of any State, and other State and local officers and employees designated by the Governor, the authority to administer and enforce, within that State, any provision of this subchapter which is to be administered and enforced in accordance with this section. Such authority includes the authority to institute actions on behalf of the United States for the imposition and collection of civil penalties under subsection (f) of this section.
 
 (2)(A) All delegation of authority under paragraph (1) with respect to any State shall be considered revoked effective (i) upon the receipt of a written waiver of authority signed by the Governor of such State or (ii) upon a determination by the President that such delegation should be revoked, but only to the extent of that determination.
 

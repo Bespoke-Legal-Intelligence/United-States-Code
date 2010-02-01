@@ -28,7 +28,7 @@ No grants or loans may be made under this section unless the Secretary has enter
 
 &emsp;(2) to comply with such other terms and conditions as the Secretary deems appropriate; and
 
-&emsp;(3) to maintain, during the term of the cooperative agreement described in section 284d of this title, and at the Foundation's expense, insurance on the Center respecting such risks, in such amounts, and containing such terms and conditions, as are satisfactory to the Secretary.
+&emsp;(3) to maintain, during the term of the cooperative agreement described in section 284d of this title, and at the Foundation's expense, insurance on the Center respecting such risks, insuch amounts, and containing such terms and conditions, as are satisfactory to the Secretary.
 
 > Any repairs or reconstruction carried out with funds obtained from the receipt of the proceeds of any such insurance shall be subject to the approval of the Secretary.
 

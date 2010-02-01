@@ -40,7 +40,7 @@ Section 19(c) of Pub. L. 101–629 provided that: “The transfer of subpart 3 o
 
 #### Definition of “Secretary” and “Department”
 
-Section 3 of Pub. L. 90–602, as amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in the amendments made by section 2 of this Act \[enacting provisions now comprising sections 360hh to 360ss of this title\], except when otherwise specified, the term ‘Secretary’ means the Secretary of Health and Human Services, and the term ‘Department’ means the Department of Health and Human Services.”
+Section 3 of Pub. L. 90–602, as amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that:“As used in the amendments made by section 2 of this Act \[enacting provisions now comprising sections 360hh to 360ss of this title\], except when otherwise specified, the term ‘Secretary’ means the Secretary of Health and Human Services, and the term ‘Department’ means the Department of Health and Human Services.”
 
 #### Noninterference With Other Federal Agencies
 

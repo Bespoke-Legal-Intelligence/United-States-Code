@@ -112,13 +112,13 @@ The Administrator is authorized to—
 
 &emsp;(2) provide stipends to students attending courses and nondegree training programs approved by the Superintendent at universities, colleges, and junior colleges, in amounts up to 50 per centum of the cost of tuition;
 
-&emsp;(3) make or enter into contracts to make payments to institutions of higher education for loans, not to exceed $2,500 per academic year for any individual who is enrolled on a full-time basis in an undergraduate or graduate program of fire research or engineering which is certified by the Superintendent. Loans under this paragraph shall be made on such terms and subject to such conditions as the Superintendent and each institution involved may jointly determine; and
+&emsp;(3) make or enter into contracts to make payments to institutions of higher education for loans, not to exceed $2,500 per academic year for any individual who is enrolled on a full-time basis in an undergraduate or graduate program of fire research or engineering which is certified by the Superintendent. Loans under this paragraph shall be made on such terms and subject to such conditions asthe Superintendent and each institution involved may jointly determine; and
 
 &emsp;(4) establish and maintain a placement and promotion opportunities center in cooperation with the fire services, for firefighters who wish to learn and take advantage of different or better career opportunities. Such center shall not limit such assistance to students and graduates of the Academy, but shall undertake to assist all fire service personnel.
 
 #### (j) Board of Visitors
 
-Upon establishment of the Academy, the Director shall establish a procedure for the selection of professionals in the field of fire safety, fire prevention, fire control, research and development in fire protection, treatment and rehabilitation of fire victims, or local government services management to serve as members of a Board of Visitors for the Academy. Pursuant to such procedure, the Director shall select eightsuch persons to serve as members of such Board of Visitors to serve such terms as the Director may prescribe. The function of such Board shall be to review annually the program of the Academy and to make comments and recommendations to the Director regarding the operation of the Academy and any improvements therein which such Board deems appropriate. Each member of such Board shall be reimbursed for any expenses actually incurred by him in the performance of his duties as a member of such Board.
+Upon establishment of the Academy, the Director shall establish a procedure for the selection of professionals in the field of fire safety, fire prevention, fire control, research and development in fire protection, treatment and rehabilitation of fire victims, or local government services management to serve as members of a Board of Visitors for the Academy. Pursuant to such procedure, the Director shall select eight such persons to serve as members of such Board of Visitors to serve such terms as the Director may prescribe. The function of such Board shall be to review annually the program of the Academy and to make comments and recommendations to the Director regarding the operation of the Academy and any improvements therein which such Board deems appropriate. Each member of such Board shall be reimbursed for any expenses actually incurred by him in the performance of his duties as a member of such Board.
 
 #### (k) Accreditation
 
@@ -164,7 +164,7 @@ In the first annual report filed pursuant to section 2215 of this title for whic
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (c)(4), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (c)(4), areclassified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
 

@@ -8,7 +8,7 @@
 
 #### (2) Year of credit
 
-&emsp;The amount so withheld during any calendar year shall be allowed as a credit for the taxable year beginning in such calendar year. Ifmore than one taxable year begins in a calendar year, such amount shall be allowed as a credit for the last taxable year so beginning.
+&emsp;The amount so withheld during any calendar year shall be allowed as a credit for the taxable year beginning in such calendar year. If more than one taxable year begins in a calendar year, such amount shall be allowed as a credit for the last taxable year so beginning.
 
 #### (b) Credit for special refunds of social security tax
 
@@ -18,7 +18,7 @@
 
 #### (2) Year of credit
 
-&emsp;Any amount to which paragraph (1) applies shall be allowed as a credit for the taxable year beginning in the calendar year during which the wages were received. If more than one taxable year begins in the calendar year, such amount shall be allowed as a credit for the last taxable year so beginning.
+&emsp;Any amount to which paragraph (1) applies shall be allowed as a credit for the taxableyear beginning in the calendar year during which the wages were received. If more than one taxable year begins in the calendar year, such amount shall be allowed as a credit for the last taxable year so beginning.
 
 #### (c) Special rule for backup withholding
 

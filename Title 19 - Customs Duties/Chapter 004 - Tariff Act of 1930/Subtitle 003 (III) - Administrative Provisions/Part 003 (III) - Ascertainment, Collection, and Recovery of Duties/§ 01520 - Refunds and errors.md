@@ -42,7 +42,7 @@ Notwithstanding the fact that a valid protest was not filed, the Customs Service
 
 #### References in Text
 
-Section 202 of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsec. (d), is section 202 of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
+Section 202 of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsec.\(d), is section 202 of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
 
 Section 202 of the United States-Oman Free Trade Agreement Implementation Act, referred to in subsec. (d), is section 202 of Pub. L. 109–283, which is set out in a note under section 3805 of this title.
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 109–280 applicable with respect to goods entered, or with
 
 #### Effective and Termination Dates of 2005 Amendment
 
-Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1,2006) and to cease to have effect on date Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as an Effective and Termination Dates note under section 4001 of this title.
+Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on date Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as an Effective and Termination Dates note under section 4001 of this title.
 
 #### Effective Date of 2004 Amendment
 

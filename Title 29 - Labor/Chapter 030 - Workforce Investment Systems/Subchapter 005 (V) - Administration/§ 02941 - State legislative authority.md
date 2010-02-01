@@ -2,7 +2,7 @@
 
 #### (a) Authority of State legislature
 
-Nothing in this chapter shall be interpreted to preclude the enactment of State legislation providing for the implementation, consistent withthe provisions of this chapter, of the activities assisted under this chapter. Any funds received by a State under this chapter shall be subject to appropriation by the State legislature, consistent with the terms and conditions required under this chapter.
+Nothing in this chapter shall be interpreted to preclude the enactment of State legislation providing for the implementation, consistent with the provisions of this chapter, of the activities assisted under this chapter. Any funds received by a State under this chapter shall be subject to appropriation by the State legislature, consistent with the terms and conditions required under this chapter.
 
 #### (b) Interstate compacts and cooperative agreements
 

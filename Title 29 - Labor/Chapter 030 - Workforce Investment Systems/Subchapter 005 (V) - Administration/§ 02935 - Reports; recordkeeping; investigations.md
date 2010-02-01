@@ -12,7 +12,7 @@
 
 #### (3) Maintenance of standardized records
 
-&emsp;In order to allow for the preparation of the reports required under subsection (c) of thissection, such recipients shall maintain standardized records for all individual participants and provide to the Secretary a sufficient number of such records to provide for an adequate analysis of the records.
+&emsp;In order to allow for the preparation of the reports required under subsection (c) of this section, such recipients shall maintain standardized records for all individual participants and provide to the Secretary a sufficient number of such records to provide for an adequate analysis of the records.
 
 #### (4) Availability to the public
 

@@ -50,7 +50,7 @@ As used in this subchapter—
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in par. (9), is Pub. L.93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in par. (9), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Codification
 
@@ -60,7 +60,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 A prior section 3796b, Pub. L. 90–351, title I, §1203, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1220; amended Pub. L. 98–411, title II, §204(a)(3), Aug. 30, 1984, 98 Stat. 1561; Pub. L. 98–473, title II, §609Z, Oct. 12, 1984, 98 Stat. 2107, contained provisions similar to this section, prior to the general amendment of this subchapter by section 609F of Pub. L. 98–473.
 
-Another prior section 3796b, Pub. L. 90–351, title I, §703, as added Pub. L. 94–430, §2, Sept. 29, 1976, 90 Stat. 1347, contained provisions similar to this section, prior to the general amendment of this chapter by Pub. L. 96–157.
+Another prior section 3796b, Pub. L. 90–351, title I, §703, as added Pub. L. 94–430, §2, Sept. 29, 1976, 90 Stat.1347, contained provisions similar to this section, prior to the general amendment of this chapter by Pub. L. 96–157.
 
 A prior section 1204 of Pub. L. 90–351 was renumbered section 1205 and is classified to section 3796c of this title.
 

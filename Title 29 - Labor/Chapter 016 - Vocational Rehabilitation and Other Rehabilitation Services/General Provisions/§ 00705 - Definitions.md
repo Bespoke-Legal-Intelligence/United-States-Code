@@ -56,7 +56,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(II) such information as can be provided by the individual and, where appropriate, by the family of the individual;
 
-&emsp;&emsp;&emsp;(iii) may include, to the degree needed to make such a determination, an assessment of the personality, interests, interpersonal skills, intelligence and related functional capacities, educational achievements, work experience, vocational aptitudes, personal and social adjustments, and employment opportunities of the individual, and the medical, psychiatric, psychological, and other pertinent vocational, educational, cultural, social, recreational, and environmental factors, that affect the employment and rehabilitation needs of the individual; and
+&emsp;&emsp;&emsp;(iii) may include, to the degree needed to make such a determination, an assessment of the personality, interests, interpersonal skills, intelligence and related functional capacities, educational achievements, work experience, vocational aptitudes,personal and social adjustments, and employment opportunities of the individual, and the medical, psychiatric, psychological, and other pertinent vocational, educational, cultural, social, recreational, and environmental factors, that affect the employment and rehabilitation needs of the individual; and
 
 &emsp;&emsp;&emsp;(iv) may include, to the degree needed, an appraisal of the patterns of work behavior of the individual and services needed for the individual to acquire occupational skills, and to develop work attitudes, work habits, work tolerance, and social and behavior patterns necessary for successful job performance, including the utilization of work in real job situations to assess and develop the capacities of the individual to perform adequately in a work environment;
 
@@ -158,7 +158,7 @@ For the purposes of this chapter:
 
 #### (A) Drug
 
-&emsp;&emsp;The term “drug” means a controlled substance, as defined in schedules I through V of section 202 of the Controlled Substances Act (21 U.S.C. 812).
+&emsp;&emsp;The term “drug” means a controlled substance, as defined in schedules I through Vof section 202 of the Controlled Substances Act (21 U.S.C. 812).
 
 #### (B) Illegal use of drugs
 
@@ -322,13 +322,13 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;Nothing in clause (i) shall be construed to exclude as an individual with a disability an individual who—
 
-&emsp;&emsp;&emsp;&emsp;(I) has successfully completed a supervised drug rehabilitation program and is no longer engaging in the illegal use ofdrugs, or has otherwise been rehabilitated successfully and is no longer engaging in such use;
+&emsp;&emsp;&emsp;&emsp;(I) has successfully completed a supervised drug rehabilitation program and is no longer engaging in the illegal use of drugs, or has otherwise been rehabilitated successfully and is no longer engaging in such use;
 
 &emsp;&emsp;&emsp;&emsp;(II) is participating in a supervised rehabilitation program and is no longer engaging in such use; or
 
 &emsp;&emsp;&emsp;&emsp;(III) is erroneously regarded as engaging in such use, but is not engaging in such use;
 
-&emsp;&emsp;&nbsp;except that it shall not be a violation of this chapter for a covered entity to adopt or administer reasonable policies or procedures, including but not limited to drug testing, designed to ensure that an individual described in subclause (I) or (II) is no longer engaging in the illegal use of drugs.
+&emsp;&emsp;&nbsp;except that it shall not be a violation of this chapter for a covered entity to adopt or administer reasonable policies or procedures, including but not limited to drugtesting, designed to ensure that an individual described in subclause (I) or (II) is no longer engaging in the illegal use of drugs.
 
 #### (iii) Exclusion for certain services
 
@@ -382,7 +382,7 @@ For the purposes of this chapter:
 
 #### (B) Independent living services and centers for independent living
 
-&emsp;&emsp;For purposes of subchapter VII of this chapter, the term “individual with a significant disability” means an individual with a severe physical or mental impairment whose ability to function independently in the family or community or whose ability to obtain, maintain, or advance in employment is substantially limited and for whom the delivery of independent living services will improve the ability to function, continue functioning, or move toward functioning independently in the family or community or to continue in employment, respectively.
+&emsp;&emsp;For purposes of subchapter VII of this chapter, the term “individual with a significant disability” means an individual with a severe physical or mental impairment whose ability to function independently in the family or community or whose ability to obtain, maintain, or advance in employment is substantially limited and for whom the deliveryof independent living services will improve the ability to function, continue functioning, or move toward functioning independently in the family or community or to continue in employment, respectively.
 
 #### (C) Research and training
 
@@ -456,7 +456,7 @@ For the purposes of this chapter:
 
 #### (28) Personal assistance services
 
-&emsp;The term “personal assistance services” means a range of services, provided by one or more persons, designed to assist an individual with a disability to perform daily living activities on or off the job that the individualwould typically perform if the individual did not have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
+&emsp;The term “personal assistance services” means a range of services, provided by one or more persons, designed to assist an individual with a disability to perform daily living activities on or off the job that the individual would typically perform if the individual did not have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
 
 #### (29) Public or nonprofit
 

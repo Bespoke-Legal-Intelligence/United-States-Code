@@ -14,7 +14,7 @@
 
 No authority to enter into contracts provided by this section shall be effective except to the extent authorized in advance by appropriations Acts.
 
-(Pub. L. 95–471, title I, §105, formerly §104, Oct. 17, 1978, 92 Stat. 1326; renumbered §105 and amended Pub. L. 98–192, §§4(a)(1), 5, Dec. 1, 1983, 97 Stat. 1336; Pub. L. 105–244, title IX, §901(b)(5), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, §941(e), Aug. 14, 2008, 122 Stat. 3461.)
+(Pub. L. 95–471, title I, §105, formerly §104, Oct. 17, 1978, 92 Stat. 1326; renumbered §105 and amended Pub. L. 98–192, §§4(a)(1), 5, Dec. 1, 1983,97 Stat. 1336; Pub. L. 105–244, title IX, §901(b)(5), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, §941(e), Aug. 14, 2008, 122 Stat. 3461.)
 
 #### Amendments
 

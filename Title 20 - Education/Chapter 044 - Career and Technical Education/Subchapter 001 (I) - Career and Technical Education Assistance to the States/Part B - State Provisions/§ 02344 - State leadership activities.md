@@ -12,7 +12,7 @@ The State leadership activities described in subsection (a) shall include—
 
 &emsp;(2) developing, improving, or expanding the use of technology in career and technical education that may include—
 
-&emsp;&emsp;(A) training of career and technical education teachers, faculty, career guidance and academic counselors, and administrators to use technology, including distance learning;
+&emsp;&emsp;(A) training of career and technical education teachers, faculty, career guidance andacademic counselors, and administrators to use technology, including distance learning;
 
 &emsp;&emsp;(B) providing career and technical education students with the academic and career and technical skills (including the mathematics and science knowledge that provides a strong basis for such skills) that lead to entry into technology fields, including non-traditional fields; or
 

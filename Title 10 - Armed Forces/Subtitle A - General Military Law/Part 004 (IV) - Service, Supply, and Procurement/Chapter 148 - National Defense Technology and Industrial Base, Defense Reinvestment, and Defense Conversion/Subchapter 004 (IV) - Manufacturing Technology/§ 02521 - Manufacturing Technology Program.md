@@ -30,7 +30,7 @@ Execution.—(1) The Secretary may carry out projects under the program through 
 
 (2) In the establishment and review of requirements for an advanced manufacturing technology or process, the Secretary shall ensure the participation of those prospective technology users that are expected to be the users of that technology or process.
 
-(3) The Secretary shall ensure that each project under the program for the development of an advanced manufacturing technology or process includes an implementation plan for thetransition of that technology or process to the prospective technology users that will be the users of that technology or process.
+(3) The Secretary shall ensure that each project under the program for the development of an advanced manufacturing technology or process includes an implementation plan for the transition of that technology or process to the prospective technology users that will be the users of that technology or process.
 
 (4) In the periodic review of a project under the program, the Secretary shall ensure participation by those prospective technology users that are the expected users for the technology or process being developed under the project.
 
@@ -56,6 +56,36 @@ Competition and Cost Sharing.—(1) In accordance with the policy stated in sect
 
 (e)
 
+Joint Defense Manufacturing Technology Panel.—(1) There is in the Department of Defense the Joint Defense Manufacturing Technology Panel.
+
+(2)(A) The Chair of the Joint Defense Manufacturing Technology Panel shall be the head of the Panel. The Chair shall be appointed, on a rotating basis, from among the appropriate personnel of the military departments and Defense Agencies with manufacturing technology programs.
+
+(B) The Panel shall be composed of at least one individual from among appropriate personnel of each military department and Defense Agency with manufacturing technology programs. The Panel may include as ex-officio members such individuals from other government organizations, academia, and industry as the Chair considers appropriate.
+
+(3) The purposes of the Panel shall be as follows:
+
+&emsp;(A) To identify and integrate requirements for the program.
+
+&emsp;(B) To conduct joint planning for the program.
+
+&emsp;(C) To develop joint strategies for the program.
+
+(4) In carrying out the purposes specified in paragraph (3), the Panel shall perform the functions as follows:
+
+&emsp;(A) Conduct comprehensive reviews and assessments of defense-related manufacturing issues being addressed by the manufacturing technology programs and related activities of the Department of Defense.
+
+&emsp;(B) Execute strategic planning to identify joint planning opportunities for increased cooperation in the development and implementation of technological products and the leveraging of funding for such purposes with the private sector and other government agencies.
+
+&emsp;(C) Ensure the integration and coordination of requirements and programs under the program with the Office of the Secretary of Defense and other national-level initiatives, including the establishment of information exchange processes with other government agencies, private industry, academia, and professional associations.
+
+&emsp;(D) Conduct such other functions as the Under Secretary of Defense for Acquisition, Technology, and Logistics shall specify.
+
+(5) The Panel shall report to and receive direction from the Director of Defense Research and Engineering on manufacturing technology issues of multi-service concern and application.
+
+(6) The administrative expenses of the Panel shall be borne by each military department and Defense Agency with manufacturing technology programs in such manner as the Panel shall provide.
+
+(f)
+
 Five-Year Strategic Plan.—(1) The Secretary shall develop a plan for the program that includes the following:
 
 &emsp;(A) The overall manufacturing technology goals, milestones, priorities, and investment strategy for the program.
@@ -68,7 +98,7 @@ Five-Year Strategic Plan.—(1) The Secretary shall develop a plan for the progr
 
 (4) Each plan, and each update to the plan, shall cover a period of five fiscal years.
 
-(Added Pub. L. 103–160, div. A, title VIII, §801(a)(1), Nov. 30, 1993, 107 Stat. 1700, §2525; amended Pub. L. 103–337, div. A, title II, §256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, §276(a), title X, §1081(e), title XV, §1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, §211(a), (b), Nov. 18, 1997, 111 Stat. 1657; Pub. L. 105–261, div. A, title II, §213, Oct. 17, 1998, 112 Stat. 1947; Pub. L. 106–65, div. A, title II, §216, Oct. 5, 1999, 113 Stat. 543; renumbered §2521, Pub. L. 106–398, §1 \[\[div. A\], title III, §344(c)(1)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title II, §213, Dec. 2, 2002, 116 Stat. 2481; Pub. L. 108–136, div. A, title X, §1031(a)(24), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 110–181, div. A, title II, §238(a), Jan. 28, 2008, 122 Stat. 48.)
+(Added Pub. L. 103–160, div. A, title VIII, §801(a)(1), Nov. 30, 1993, 107 Stat. 1700, §2525; amended Pub. L. 103–337, div. A, title II, §256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, §276(a), title X, §1081(e), title XV, §1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, §211(a), (b), Nov. 18, 1997, 111 Stat. 1657; Pub. L. 105–261, div. A, title II, §213, Oct. 17, 1998, 112 Stat. 1947; Pub. L. 106–65, div. A, title II, §216, Oct. 5, 1999, 113 Stat. 543; renumbered §2521, Pub. L. 106–398, §1 \[\[div. A\], title III, §344(c)(1)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title II, §213, Dec. 2, 2002, 116 Stat. 2481; Pub. L. 108–136, div. A, title X, §1031(a)(24), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 110–181, div. A, title II, §238(a), Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–84, div. A, title II, §212, Oct. 28, 2009, 123 Stat. 2225.)
 
 #### Prior Provisions
 
@@ -79,6 +109,8 @@ Another prior section 2521, added Pub. L. 102–190, div. A, title VIII, §821(a
 Another prior section 2521 was renumbered section 2540 of this title and subsequently repealed.
 
 #### Amendments
+
+2009—Subsecs. (e), (f). Pub. L. 111–84 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 2008—Subsec. (e). Pub. L. 110–181 added subsec. (e).
 
@@ -182,7 +214,7 @@ Pub. L. 110–181, div. A, title II, §238(b), Jan. 28, 2008, 122 Stat. 48, prov
 
 “(1)
 
-Development.—The Secretary of Defense shall develop the strategic plan required by subsection (e) of section 2521 of title 10, United States Code (as added by subsection (a) of this section), so that the plan goes into effect at the beginning of fiscal year 2009.
+Development.—The Secretary of Defense shall develop the strategic plan required by subsection (e) \[now (f)\] of section 2521 of title 10, United States Code (as added by subsection (a) of this section), so that the plan goes into effect at the beginning of fiscal year 2009.
 
 “(2)
 
@@ -196,7 +228,7 @@ Pub. L. 109–163, div. A, title II, subtitle D, Jan. 6, 2006, 119 Stat. 3175, p
 
 “(a)
 
-Pilot Program Required.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall conduct a pilot program under the authority of section 2521 of title 10, United States Code, to identify and transition advanced manufacturing processes andtechnologies the utilization of which would achieve significant productivity and efficiency gains in the defense manufacturing base.
+Pilot Program Required.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall conduct a pilot program under the authority of section 2521 of title 10, United States Code, to identify and transition advanced manufacturing processes and technologies the utilization of which would achieve significant productivity and efficiency gains in the defense manufacturing base.
 
 “(b)
 

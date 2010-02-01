@@ -26,13 +26,13 @@ Each eligible entity providing scholarships under this section shall provide inf
 
 #### (d) Grant amounts
 
-The maximum amount of a scholarship that an eligible student shall be eligible to receive under this section shall be established by the eligible entity. The minimum amount of the scholarship for each fiscal year shall not be less than the minimum Federal Pell Grant award under section 1070a of this title for such award year.
+The maximum amount of a scholarship that an eligible student shall be eligible to receiveunder this section shall be established by the eligible entity. The minimum amount of the scholarship for each fiscal year shall not be less than the minimum Federal Pell Grant award under section 1070a of this title for such award year.
 
 #### (e) Portability of assistance
 
 #### (1) In general
 
-&emsp;Each eligible entity described in section 1070a–21(c)(1) of this title that receives a grantunder this division shall hold in reserve, for the students served by such grant as described in section 1070a–22(d)(1)(A) or 1070a–24(d) of this title, an amount that is not less than the minimum scholarship amount described in subsection (d), multiplied by the number of students the eligible entity estimates will meet the requirements of paragraph (2).
+&emsp;Each eligible entity described in section 1070a–21(c)(1) of this title that receives a grant under this division shall hold in reserve, for the students served by such grant as described in section 1070a–22(d)(1)(A) or 1070a–24(d) of this title, an amount that is not less than the minimum scholarship amount described in subsection (d), multiplied by the number of students the eligible entity estimates will meet the requirements of paragraph (2).
 
 #### (2) Requirement for portability
 
@@ -102,9 +102,21 @@ Pub. L. 110–315, §404(e)(2), redesignated subsec. (b) as (d). Former subsec. 
 
 Subsec. (e). Pub. L. 110–315, §404(e)(1), (5), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “The Secretary shall ensure that each eligible entity places a priority on awarding scholarships to students who will receive a Federal Pell Grant for the academic year for which the scholarship is awarded under this section.”
 
-Subsec. (f). Pub. L. 110–315, §404(e)(1), (2), redesignated subsec. (c) as (f) and struck out former subsec. (f). Text read as follows: “An eligible entity may consider students who have successfully participated in programs funded under division 1 of this subpart to have met the requirements of subsection (d)(4) of this section.”
+Subsec. (f). Pub. L. 110–315, §404(e)(1), (2), redesignated subsec. (c) as (f) and struck out former subsec. (f). Text read as follows: “An eligible entity may consider students who have successfully participated in programsfunded under division 1 of this subpart to have met the requirements of subsection (d)(4) of this section.”
 
 Subsec. (g). Pub. L. 110–315, §404(e)(2), redesignated subsec. (d) as (g).
 
 Subsec. (g)(4). Pub. L. 110–315, §404(e)(6), substituted “activities required under section 1070a–24(a) of this title” for “early intervention component required under section 1070a–24 of this title”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–315, title IV, §404(i), as added by Pub. L. 111–39, title IV, §401(c), July 1, 2009, 123 Stat. 1940, provided that:
+
+“(1)
+
+In general.—The amendments made by subsection (e) \[amending this section\] shall apply to grants made under chapter 2 of subpart 2 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070a–21 et seq.) on or after the date of enactment of this Act \[Aug. 14, 2008\], except that a recipient of a grant under such chapter that is made prior to such date may elect to apply the requirements contained in the amendments made by subsection (e) to that grant if the grant recipient informs the Secretary of the election.
+
+“(2)
+
+Special rule.—A grant recipient may make the election described in paragraph (1) only if the election does not decrease the amount of the scholarship promised to an individual student under the grant.”
 

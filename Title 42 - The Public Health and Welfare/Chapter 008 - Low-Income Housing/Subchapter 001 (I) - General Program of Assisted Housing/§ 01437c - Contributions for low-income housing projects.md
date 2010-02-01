@@ -24,7 +24,7 @@ The Secretary may prescribe regulations fixing the maximum contributions availab
 
 (5) During such period as the Secretary may prescribe for starting construction, the Secretary may approve the conversion of public housing development authority for use under section 1437g of this title or for use for the acquisition and rehabilitation of property to be used in public housing, if the public housing agency, after consultation with the unit of local government, certifies that such assistance would be more effectively used for such purpose, and if the total number of units assisted will not be less than 90 per centum of the units covered by the original reservation.
 
-(6) The aggregate amount of budget authority which may be obligated for contracts for annualcontributions and for grants under section 1437<i>o</i> of this title is increased by $9,912,928,000 on October 1, 1983, and by such sums as may be approved in appropriation Acts on October 1, 1984. The aggregate amount of budget authority that may be obligated for contracts for annual contributions for assistance under section 1437f of this title, for contracts referred to in paragraphs (7)(A)(iv) and (7)(B)(iv), for grants for public housing, for comprehensive improvement assistance, and for amendments to existing contracts, is increased (to the extent approved in appropriation Acts) by $7,167,000,000 on October 1, 1987, and by $7,300,945,000 on October 1, 1988. The aggregate amount of budget authority that may be obligated for assistance referred to in paragraph (7) is increased (to the extent approved in appropriation Acts) by $16,194,000,000 on October 1, 1990, and by $14,709,400,000 on October 1, 1991. The aggregate amount of budget authority that may be obligated for assistance referred to in paragraph (7) is increased (to the extent approved in appropriation Acts) by $14,710,990,520 on October 1, 1992, and by $15,328,852,122 on October 1993.
+(6) The aggregate amount of budget authority which may be obligated for contracts for annual contributions and for grants under section 1437<i>o</i> of this title is increased by $9,912,928,000 on October 1, 1983, and by such sums as may be approved in appropriation Acts on October 1, 1984. The aggregate amount of budget authority that may be obligated for contracts for annual contributions for assistance under section 1437f of this title, for contracts referred to in paragraphs (7)(A)(iv) and (7)(B)(iv), for grants for public housing, for comprehensive improvement assistance, and for amendments to existing contracts, is increased (to the extent approved in appropriation Acts) by $7,167,000,000 on October 1, 1987, and by $7,300,945,000 on October 1, 1988. The aggregate amount of budget authority that may be obligated for assistance referred to in paragraph (7) is increased (to the extent approved in appropriation Acts) by $16,194,000,000 on October 1, 1990, and by $14,709,400,000 on October 1, 1991. The aggregate amount of budget authority that may be obligated for assistance referred to in paragraph (7) is increased (to the extent approved in appropriation Acts) by $14,710,990,520 on October 1, 1992, and by $15,328,852,122 on October 1993.
 
 (7)(A) Using the additional budget authority provided under paragraph (6) and the balances of budget authority that become available during fiscal year 1993, the Secretary shall, to the extent approved in appropriation Acts, reserve authority to enter into obligations aggregating—
 
@@ -70,7 +70,7 @@ The Secretary may prescribe regulations fixing the maximum contributions availab
 
 &emsp;(x) for grants under section 1437v of this title for revitalization of severely distressed public housing, not more than $312,600,000.
 
-(C)(i) Any amount available for the conversion of a project to assistance under section 1437f(b)(1) of this title, if not required for such purpose, shall be used for assistance under section 1437f(b)(1) of this title.
+(C)(i) Any amount available for the conversion of a project to assistance under section 1437f(b)(1) of this title, if not required for suchpurpose, shall be used for assistance under section 1437f(b)(1) of this title.
 
 (ii) Any amount available for assistance under section 1437f of this title for property disposition, if not required for such purpose, shall be used for assistance under section 1437f(b)(1) of this title.
 
@@ -104,7 +104,7 @@ In addition to the authority of the Secretary under subsection (a) of this secti
 
 #### (2) Withholding of amounts for audits under Single Audit Act
 
-&emsp;The Secretary may, in the sole discretion of the Secretary, arrange for and pay the costs of an audit required under chapter 75 of title 31. In such circumstances, the Secretary may withhold, from assistance otherwise payable to the agency under this chapter, amounts sufficient to pay for the reasonable costs of conducting an acceptable audit, including, whenappropriate, the reasonable costs of accounting services necessary to place the agency's books and records in auditable condition. As agreed to by the Secretary and the Inspector General, the Inspector General may arrange for an audit under this paragraph.
+&emsp;The Secretary may, in the sole discretion of the Secretary, arrange for and pay the costs of an audit required under chapter 75 of title 31. In such circumstances, the Secretary may withhold, from assistance otherwise payable to the agency under this chapter, amounts sufficient to pay for the reasonable costs of conducting an acceptable audit, including, when appropriate, the reasonable costs of accounting services necessary to place the agency's books and records in auditable condition. As agreed to by the Secretary and the Inspector General, the Inspector General may arrange for an audit under this paragraph.
 
 #### (i) Prohibition on use of funds
 
@@ -146,7 +146,7 @@ Pub. L. 105–276, §510, added subsec. (<i>l</i>).
 
 1996—Subsec. (j)(1). Pub. L. 104–330, §501(b)(2)(A), struck out “(other than for Indian families)” after “for public housing” in introductory provisions.
 
-Subsec. (<i>l</i>). Pub. L. 104–330, §501(b)(2)(B), struck out subsec. (<i>l</i>) which read as follows: “The Secretary may not use as a criterion for distributing assistance under this section the progress made by an Indian public housing agency in collecting rents owed by tenants unless—
+Subsec. (<i>l</i>). Pub. L. 104–330, §501(b)(2)(B), struck out subsec. (<i>l</i>) which read as follows: “The Secretary may not use as a criterion for distributing assistance under this section the progress made by an Indian publichousing agency in collecting rents owed by tenants unless—
 
 &emsp;“(1) such criterion is used as 1 of several criteria that are weighted proportionally and is established by regulations issued after public notice and opportunity to comment in accordance with section 553 of title 5; or
 
@@ -154,7 +154,7 @@ Subsec. (<i>l</i>). Pub. L. 104–330, §501(b)(2)(B), struck out subsec. (<i>l<
 
 1995—Subsec. (h). Pub. L. 104–19 struck out at end “Any such sale shall be subject to the restrictions contained in section 1437aaa–3(g) of this title.”
 
-1992—Subsec. (c)(6). Pub. L. 102–550, §101(a), inserted at end “The aggregate amount of budget authority thatmay be obligated for assistance referred to in paragraph (7) is increased (to the extent approved in appropriation Acts) by $14,710,990,520 on October 1, 1992, and by $15,328,852,122 on October 1993.”
+1992—Subsec. (c)(6). Pub. L. 102–550, §101(a), inserted at end “The aggregate amount of budget authority that may be obligated for assistance referred to in paragraph (7) is increased (to the extent approved in appropriation Acts) by $14,710,990,520 on October 1, 1992, and by $15,328,852,122 on October 1993.”
 
 Subsec. (c)(7)(A), (B). Pub. L. 102–550, §101(b), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which directed Secretary to reserve authority to enter into certain obligations aggregating specified amounts using par. (6) budget authority and balances of such authority available in fiscal years 1991 and 1992.
 

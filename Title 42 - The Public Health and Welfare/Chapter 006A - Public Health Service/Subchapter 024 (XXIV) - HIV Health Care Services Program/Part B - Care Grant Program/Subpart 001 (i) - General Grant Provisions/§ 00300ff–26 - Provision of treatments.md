@@ -16,7 +16,7 @@ To be eligible to receive assistance from a State under this section an individu
 
 In carrying out this section the State shall—
 
-&emsp;(1) ensure that the therapeutics included on the list of classes of core antiretroviral therapeutics established by the Secretary undersubsection (e) are, at a minimum, the treatments provided by the State pursuant to this section;
+&emsp;(1) ensure that the therapeutics included on the list of classes of core antiretroviral therapeutics established by the Secretary under subsection (e) are, at a minimum, the treatments provided by the State pursuant to this section;
 
 &emsp;(2) provide assistance for the purchase of treatments determined to be eligible under paragraph (1), and the provision of such ancillary devices that are essential to administer such treatments;
 
@@ -52,11 +52,7 @@ For purposes of subsection (c)(1), the Secretary shall develop and maintain a li
 
 A State shall ensure that any drug rebates received on drugs purchased from funds provided pursuant to this section are applied to activities supported under this subpart, with priority given to activities described under this section.
 
-(July 1, 1944, ch. 373, title XXVI, §2616, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 590; amended Pub. L. 104–146, §3(c)(3), May 20, 1996, 110 Stat. 1355; Pub. L. 106–345, title II, §204, Oct. 20, 2000, 114 Stat. 1332; Pub. L. 109–415, title II, §§201(c)(4), 202, 204(a), title VII, §702(3), Dec. 19, 2006, 120 Stat. 2788, 2796, 2820.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2616, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 590; amended Pub. L. 104–146, §3(c)(3), May 20, 1996, 110 Stat. 1355; Pub. L. 106–345, title II, §204, Oct. 20, 2000, 114 Stat. 1332; Pub. L. 109–415, title II, §§201(c)(4), 202, 204(a), title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2788, 2796, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### References in Text
 
@@ -64,7 +60,11 @@ Section 300ff–22 of this title, referred to in subsec. (d), was amended genera
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” in two places.
+2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+Subsec. (a). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” in two places.
 
 Pub. L. 109–415, §204(a), substituted “section 300ff–21 of this title” for “this part”.
 
@@ -95,6 +95,10 @@ Subsec. (e). Pub. L. 106–345, §204(b), added subsec. (e).
 Subsec. (c)(5). Pub. L. 104–146, §3(c)(3)(B), added par. (5).
 
 Subsec. (d). Pub. L. 104–146, §3(c)(3)(C), added subsec. (d).
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 1996 Amendment
 

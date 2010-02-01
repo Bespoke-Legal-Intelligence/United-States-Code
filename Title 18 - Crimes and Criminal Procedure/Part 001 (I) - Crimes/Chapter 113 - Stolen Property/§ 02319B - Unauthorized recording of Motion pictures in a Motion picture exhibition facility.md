@@ -16,7 +16,7 @@ Forfeiture and Destruction of Property; Restitution.—Forfeiture, destruction, 
 
 (c)
 
-Authorized Activities.—This section does not prevent any lawfully authorized investigative, protective, or intelligence activity by an officer, agent, or employee of the United States, a State, or a political subdivision of a State, or by a person acting under a contract with the United States, a State, or a political subdivision of a State.
+Authorized Activities.—This section does not prevent any lawfully authorized investigative, protective, or intelligence activity by anofficer, agent, or employee of the United States, a State, or a political subdivision of a State, or by a person acting under a contract with the United States, a State, or a political subdivision of a State.
 
 (d)
 
@@ -68,5 +68,5 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), are set 
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–403 amended subsec. (b) generally. Prior to amendment, text read as follows: “When a person is convicted of a violation of subsection (a), the court in its judgment of convictionshall, in addition to any penalty provided, order the forfeiture and destruction or other disposition of all unauthorized copies of motion pictures or other audiovisual works protected under title 17, or parts thereof, and any audiovisual recording devices or other equipment used in connection with the offense.”
+2008—Subsec. (b). Pub. L. 110–403 amended subsec. (b) generally. Prior to amendment, text read as follows: “When a person is convicted of a violation of subsection (a), the court in its judgment of conviction shall, in addition to any penalty provided, order the forfeiture and destruction or other disposition of all unauthorized copies of motion pictures or other audiovisual works protected under title 17, or parts thereof, and any audiovisual recording devices or other equipment used in connection with the offense.”
 

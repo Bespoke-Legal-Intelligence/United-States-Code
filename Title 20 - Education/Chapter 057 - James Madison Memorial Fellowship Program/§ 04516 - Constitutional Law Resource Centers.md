@@ -10,7 +10,7 @@ In order to encourage recipient universities to provide such a continuing servic
 
 #### (c) Chair for Professor of Constitutional Law
 
-The income from each endowment shall be used to help support a chair for a Professor ofConstitutional law.<sup>1</sup> Each endowment shall be held in trust with the income from the portion provided herein used exclusively to contribute toward the salary and related costs of the professor filling the chair and for services directly related to the support of such professor such as secretarial and research services. The recipient university shall from sources other than that portion of the endowment funded herein furnish the office, classroom and related services suitable to such a member of the faculty.
+The income from each endowment shall be used to help support a chair for a Professor of Constitutional law.<sup>1</sup> Each endowment shall be held in trust with the income from the portion provided herein used exclusively to contribute toward the salary and related costs of the professor filling the chair and for services directly related to the support of such professor such as secretarial and research services. The recipient university shall from sources other than that portion of the endowment funded herein furnish the office, classroom and related services suitable to such a member of the faculty.
 
 The professor holding each chair shall file a copy of such articles with the Library of Congress, which shall make them available to libraries in the usual manner and the recipient of the endowment shall also make a copy available upon request by accredited educational institutions, bar associations, and general news media without royalty or charge other than the costs associated with printing or reprinting, handling and distribution.
 
@@ -26,7 +26,7 @@ The application for the grant for an endowment shall require only such informati
 
 The grants for each endowment shall be for $800,000 and shall be offered to Howard University School of Law in Washington, D.C., Drake University School of Law in Des Moines, Iowa, the University of Akron School of Law in Akron, Ohio, and the University of South Carolina School of Law at Columbia, South Carolina.
 
-(Pub. L. 99–500, §101(b) \[title VIII, §817\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–81, and Pub. L. 99–591, §101(b) \[title VIII, §817\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–81; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 99–500, §101(b) \[title VIII, §817\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–81, and Pub. L. 99–591, §101(b) \[title VIII, §817\], Oct. 30, 1986, 100 Stat.3341–39, 3341–81; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 

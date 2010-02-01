@@ -40,7 +40,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(G) using the International Monetary Fund to facilitate discussions between debtors and private creditors to help ensure that financial difficulties are resolved without inappropriate resort to public resources; and
 
-&emsp;&emsp;(H) the International Monetary Fund accompanying the provision of funding to countries experiencing a financial crisis resulting from imprudent borrowing with efforts to achieve a significant contributionby the private creditors, investors, and banks which had extended such credits.
+&emsp;&emsp;(H) the International Monetary Fund accompanying the provision of funding to countries experiencing a financial crisis resulting from imprudent borrowing with efforts to achieve a significant contribution by the private creditors, investors, and banks which had extended such credits.
 
 &emsp;(6) Vigorously promote policies that would make the International Monetary Fund a more effective mechanism, in concert with appropriate international authorities and other international financial institutions (as defined in section 262r(c)(2) of this title), for promoting good governance principles within recipient countries by fostering structural reforms, including procurement reform, that reduce opportunities for corruption and bribery, and drug-related money laundering.
 
@@ -90,7 +90,7 @@ To the extent that it would assist in achieving the goals described in subsectio
 
 #### Additional Provisions Relating to International Monetary Fund
 
-Pub. L. 106–113, div. B, §1000(a)(5) \[title V, §504\], Nov. 29, 1999, 113 Stat. 1536, 1501A–317, as amended by Pub. L.110–161, div. H, title I, §1502(a), Dec. 26, 2007, 121 Stat. 2250, provided that:
+Pub. L. 106–113, div. B, §1000(a)(5) \[title V, §504\], Nov. 29, 1999, 113 Stat. 1536, 1501A–317, as amended by Pub. L. 110–161, div. H, title I, §1502(a), Dec. 26, 2007, 121 Stat. 2250, provided that:
 
 “(a)
 
@@ -98,7 +98,7 @@ Publication of IMF Operational Budgets.—The Secretary of the Treasury shall in
 
 “(b)
 
-Report to the Congress Showing Costs of United States Participation in the International Monetary Fund.—The Secretary of the Treasury shall prepare and transmit to the Committees on Banking and Financial Services \[now Committee on Financial Services\], on Appropriations, and on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs, on Foreign Relations, and on Appropriations of the Senate a quarterly report, which shall be made readily available to the public, on the costs or benefits of United States participation in the International Monetary Fund and which shall detail the costs and benefits to the United States, as well as valuation gains or losses on the United States reserve position in the International Monetary Fund.
+Report to the Congress Showing Costs of United States Participation in the International Monetary Fund.—The Secretary of the Treasury shallprepare and transmit to the Committees on Banking and Financial Services \[now Committee on Financial Services\], on Appropriations, and on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs, on Foreign Relations, and on Appropriations of the Senate a quarterly report, which shall be made readily available to the public, on the costs or benefits of United States participation in the International Monetary Fund and which shall detail the costs and benefits to the United States, as well as valuation gains or losses on the United States reserve position in the International Monetary Fund.
 
 “(c)
 

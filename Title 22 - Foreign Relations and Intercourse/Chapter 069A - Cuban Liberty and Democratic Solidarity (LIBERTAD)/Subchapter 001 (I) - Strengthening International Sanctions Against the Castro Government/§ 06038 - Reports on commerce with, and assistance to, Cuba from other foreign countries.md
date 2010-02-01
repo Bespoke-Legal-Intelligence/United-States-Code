@@ -14,7 +14,7 @@ Each report required by subsection (a) of this section shall, for the period cov
 
 &emsp;(3) A description of the joint ventures completed, or under consideration, by foreign nationals and business firms involving facilities in Cuba, including an identification of the location of the facilities involved and a description of the terms of agreement of the joint ventures and the names of the parties that are involved.
 
-&emsp;(4) A determination as to whether or not any of the facilities described in paragraph (3) isthe subject of a claim against Cuba by a United States national.
+&emsp;(4) A determination as to whether or not any of the facilities described in paragraph (3) is the subject of a claim against Cuba by a United States national.
 
 &emsp;(5) A determination of the amount of debt of the Cuban Government that is owed to each foreign country, including—
 

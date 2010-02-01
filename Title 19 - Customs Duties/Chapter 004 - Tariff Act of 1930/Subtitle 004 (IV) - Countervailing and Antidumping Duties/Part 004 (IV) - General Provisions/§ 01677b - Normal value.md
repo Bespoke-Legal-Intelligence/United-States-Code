@@ -38,7 +38,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (2) Fictitious markets
 
-&emsp;No pretended sale or offer for sale, and no sale or offer for sale intended to establish a fictitious market, shall be taken into account in determining normal value. The occurrence of different movements in the prices at which different forms of the foreign like product are sold (or, in the absence of sales, offered for sale) in the exporting country after the issuance of an antidumping duty order may beconsidered by the administering authority as evidence of the establishment of a fictitious market for the foreign like product if the movement in such prices appears to reduce the amount by which the normal value exceeds the export price (or the constructed export price) of the subject merchandise.
+&emsp;No pretended sale or offer for sale, and no sale or offer for sale intended to establish a fictitious market, shall be taken into account in determining normal value. The occurrence of different movements in the prices at which different forms of the foreign like product are sold (or, in the absence of sales, offered for sale) in the exporting country after the issuance of an antidumping duty order may be considered by the administering authority as evidence of the establishment of a fictitious market for the foreign like product if the movement in such prices appears to reduce the amount by which the normal value exceeds the export price (or the constructed export price) of the subject merchandise.
 
 #### (3) Exportation from an intermediate country
 
@@ -54,7 +54,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (4) Use of constructed value
 
-&emsp;If the administering authority determines that the normal value of the subject merchandise cannot be determined under paragraph (1)(B)(i), then, notwithstanding paragraph (1)(B)(ii), the normal value of the subject merchandise may be the constructed value of that merchandise, as determined under subsection (e) of this section.
+&emsp;If the administering authority determines that the normal value of the subject merchandise cannot be determined under paragraph (1)(B)(i), then, notwithstanding paragraph\(1)(B)(ii), the normal value of the subject merchandise may be the constructed value of that merchandise, as determined under subsection (e) of this section.
 
 #### (5) Indirect sales or offers for sale
 
@@ -226,7 +226,7 @@ For purposes of this subtitle, the constructed value of imported merchandise sha
 
 &emsp;(3) the cost of all containers and coverings of whatever nature, and all other expenses incidental to placing the subject merchandise in condition packed ready for shipment to the United States.
 
-> For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposedon such materials or their disposition which are remitted or refunded upon exportation of the subject merchandise produced from such materials.
+> For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition which are remitted or refunded upon exportation of the subject merchandise produced from such materials.
 
 #### (f) Special rules for calculation of cost of production and for calculation of constructed value
 
@@ -298,7 +298,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by sections 1316(a) and 1318 of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, and amendment by section 1319 of Pub. L. 100–418 applicable with respect to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, and to reviews initiated under such sections which are pending on Aug. 23, 1988, and in which a request for revocation is pending on Aug. 23, 1988, see section 1337(b), (f) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by sections 1316(a) and 1318 of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, and amendment by section 1319 of Pub. L. 100–418 applicable with respect to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, and to reviews initiated under such sections which are pending on Aug. 23, 1988, and in which a request for revocation is pending on Aug. 23, 1988, see section 1337(b), (f) ofPub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1984 Amendment
 

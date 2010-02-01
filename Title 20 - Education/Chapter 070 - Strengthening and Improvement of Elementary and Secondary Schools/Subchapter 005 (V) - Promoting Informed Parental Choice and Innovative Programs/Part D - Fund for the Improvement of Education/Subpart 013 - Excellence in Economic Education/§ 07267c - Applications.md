@@ -8,7 +8,7 @@ To be eligible to receive a grant under this subpart, the grantee shall submit t
 
 #### (1) Submission
 
-&emsp;To be eligible to receive a subgrant under this section, a recipient shall submit an application to the grantee at such time, in such manner, and accompanied by such information as the grantee may require.
+&emsp;To be eligible to receive a subgrant under this section, a recipient shall submit an application to the grantee at such time, in suchmanner, and accompanied by such information as the grantee may require.
 
 #### (2) Review
 

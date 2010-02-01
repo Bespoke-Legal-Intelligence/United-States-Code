@@ -38,7 +38,7 @@ The Secretary shall address priority substance abuse treatment needs of regional
 
 #### (4) Maintenance of effort
 
-&emsp;With respect to activities for which a grant, contract, or cooperative agreement is awarded under this section, the Secretary may require that recipients for specific projects under subsection (a) of this section agree to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by theentity for the fiscal year preceding the fiscal year for which the entity receives such a grant, contract, or cooperative agreement.
+&emsp;With respect to activities for which a grant, contract, or cooperative agreement is awarded under this section, the Secretary may require that recipients for specific projects under subsection (a) of this section agree to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the entity for the fiscal year preceding the fiscal year for which the entity receives such a grant, contract, or cooperative agreement.
 
 #### (d) Evaluation
 

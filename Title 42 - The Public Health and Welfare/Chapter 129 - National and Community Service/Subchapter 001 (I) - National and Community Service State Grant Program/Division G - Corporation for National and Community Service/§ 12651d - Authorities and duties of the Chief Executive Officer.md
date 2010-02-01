@@ -6,13 +6,13 @@ The Chief Executive Officer shall be responsible for the exercise of the powers 
 
 #### (b) Duties
 
-In addition to the duties conferred on the Chief Executive Officer under any other provision of the national service laws, the Chief Executive Officer shall—
+In addition to the duties conferred on the Chief Executive Officer under any other provision of the national service laws, the Chief Executive Officer, in collaboration with the State Commissions, shall—
 
-&emsp;(1) prepare and submit to the Board a strategic plan every 3 years, and annual updates of the plan, for the Corporation with respect to the major functions and operations of the Corporation;
+&emsp;(1) prepare and submit to the Board a strategic plan, including a plan for having 50 percent of all approved national service positions be full-time positions by 2012, every 3 years, and annual updates of the plan, for the Corporation with respect to the major functions and operations of the Corporation;
 
 &emsp;(2)(A) prepare and submit to the Board a proposal with respect to such grants and allotments, contracts, other financial assistance, and designation of positions as approved national service positions, as are necessary or appropriate to carry out the national service laws; and
 
-&emsp;(B) after receiving and reviewing an approved proposal under section 12651b(g)(2) of this title, make such grants and allotments, enter into such contracts, award such other financial assistance, make such payments (in lump sum or installments, and in advance or by way of reimbursement, and in the case of financial assistance otherwise authorized under the national service laws, with necessary adjustments on account of overpayments and underpayments), and designate such positions as approved national service positions as are necessary or appropriate to carry out the national service laws;
+&emsp;(B) after receiving and reviewing an approved proposal under section 12651b(g)(2) of this title, make such grants and allotments, enter into such contracts, award such other financial assistance, make such payments (in lump sum or installments, and in advance or by way of reimbursement, and in the case of financial assistance otherwise authorized under the national service laws, with necessary adjustments on account of overpayments and underpayments), and designate such positions as approved national service positions, approved summer of service positions, and approved silver scholar positions as are necessary or appropriate to carry out the national service laws;
 
 &emsp;(3)(A) prepare and submit to the Board a proposal regarding, the regulations established under section 12651f(b)(3)(A) of this title, and such other standards, policies, procedures, programs, and initiatives as are necessary or appropriate to carry out the national service laws; and
 
@@ -34,9 +34,11 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;(6) suspend or terminate payments and positions described in paragraph (2)(B), in accordance with section 12636 of this title;
 
-&emsp;(7) prepare and submit to the Board an annual report, and such interim reports as may be necessary, describing the major actions of the Chief Executive Officer with respect to the personnel of the Corporation, and with respect to such standards, policies, procedures, programs, and initiatives;
+&emsp;(7) prepare and submit to the authorizing committees and the Board an annual report on actions taken to achieve the goal of having 50 percent of all approved national service positions be full-time positions by 2012 as described in paragraph (1), including an assessment of the progress made toward achieving that goal and the actions to be taken in the coming year toward achieving that goal;
 
-&emsp;(8) inform the Board of, and provide an explanation to the Board regarding, any substantial differences regarding the implementation of the national service laws between—
+&emsp;(8) prepare and submit to the Board an annual report, and such interim reports as may be necessary, describing the major actions of the Chief Executive Officer with respect to the personnel of the Corporation, and with respect to such standards, policies, procedures, programs, and initiatives;
+
+&emsp;(9) inform the Board of, and provide an explanation to the Board regarding, any substantial differences regarding the implementation of the national service laws between—
 
 &emsp;&emsp;(A) the actions of the Chief Executive Officer; and
 
@@ -46,7 +48,7 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;&emsp;(iii) the evaluation plan approved by the Board under section 12651b(g)(4) of this title;
 
-&emsp;(9) prepare and submit to the appropriate committees of Congress an annual report, and such interim reports as may be necessary, describing—
+&emsp;(10) prepare and submit to the authorizing committees an annual report, and such interim reports as may be necessary, describing—
 
 &emsp;&emsp;(A) the services referred to in paragraph (1), and the money and property referred to in paragraph (2), of section 12651g(a) of this title that have been accepted by the Corporation;
 
@@ -54,11 +56,11 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;&emsp;(C) information on the results achieved by the programs funded under the national service laws during the year preceding the year in which the report is prepared;
 
-&emsp;(10) provide for studies (including the evaluations described in subsection (f) of this section) and demonstrations that evaluate, and prepare and submit to the Board by June 30, 1995, a report containing recommendations regarding, issues related to—
+&emsp;(11) provide for studies (including the evaluations described in subsection (f) of this section) and demonstrations that evaluate, and prepare and submit to the Board periodically, a report containing recommendations regarding, issues related to—
 
 &emsp;&emsp;(A) the administration and organization of programs authorized under the national service laws or under Public Law 91–378 \[16 U.S.C. 1701 et seq.\] (referred to in this subparagraph as “service programs”), including—
 
-&emsp;&emsp;&emsp;(i) whether the State and national priorities designed to meet the unmet human, education, environmental, or public safety needs described in section 12572(c)(1) of this title are being addressed by this chapter;
+&emsp;&emsp;&emsp;(i) whether the State and national priorities, as described in section 12572(f)(1) of this title, designed to meet unmet human, education, environmental, or public safety needs are being addressed by this chapter;
 
 &emsp;&emsp;&emsp;(ii) the manner in which—
 
@@ -76,9 +78,53 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;&emsp;&emsp;(vii) other issues that the Director determines to be relevant to the administration and organization of the service programs; and
 
-&emsp;&emsp;(B) the number, potential consolidation, and future organization of national service or domestic volunteer service programs that are authorized under Federal law, including VISTA, service corps assisted under division C of this subchapter and other programs authorized by this chapter, programs administered by the Public Health Service, the Department of Defense, or other Federal agencies, programs regarding teacher corps, and programs regarding work-study and higher education loan forgiveness or forbearance programs authorized by the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) related to community service; and
+&emsp;&emsp;(B) the number, potential consolidation, and future organization of national service or domestic volunteer service programs that are authorized under Federal law, including VISTA, service corps assisted under division C of this subchapter and other programs authorized by this chapter, programs administered by the Public Health Service, the Department of Defense, or other Federal agencies, programs regarding teacher corps, and programs regarding work-study and higher education loan forgiveness or forbearance programs authorized by the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) related to community service;
 
-&emsp;(11) for purposes of section 12638(d)(6)(B) of this title, issue regulations to waive the disqualification of members of the Board and members of the State Commissions selectively in a random, nondiscretionary manner and only to the extent necessary to establish the quorum involved, including rules that forbid each member of the Board and each voting member of a State Commission to participate in any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or such positions, to any program or entity of which such member of the Board or such member of the State Commission is, or in the 1-year period before the submission of the application referred to in such section was, an officer, director, trustee, full-time volunteer, or employee.
+&emsp;(12) for purposes of section 12638(d)(6)(B) of this title, issue regulations to waive the disqualification of members of the Board and members of the State Commissions selectively in a random, nondiscretionary manner and only to the extent necessary to establish the quorum involved, including rules that forbid each member of the Board and each voting member of a State Commission to participate in any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or such positions, to any program or entity of which such member of the Board or such member of the State Commission is, or in the 1-year period before the submission of the applicationreferred to in such section was, an officer, director, trustee, full-time volunteer, or employee;
+
+&emsp;(13) bolster the public awareness of and recruitment efforts for the wide range of service opportunities for citizens of all ages, regardless of socioeconomic status or geographic location, through a variety of methods, including—
+
+&emsp;&emsp;(A) print media;
+
+&emsp;&emsp;(B) the Internet and related emerging technologies;
+
+&emsp;&emsp;(C) television;
+
+&emsp;&emsp;(D) radio;
+
+&emsp;&emsp;(E) presentations at public or private forums;
+
+&emsp;&emsp;(F) other innovative methods of communication; and
+
+&emsp;&emsp;(G) outreach to offices of economic development, State employment security agencies, labor organizations and trade associations, local educational agencies, institutions of higher education, agencies and organizations serving veterans and individuals with disabilities, and other institutions or organizations from which participants for programs receiving assistance from the national service laws can be recruited;
+
+&emsp;(14) identify and implement methods of recruitment to—
+
+&emsp;&emsp;(A) increase the diversity of participants in the programs receiving assistance under the national service laws; and
+
+&emsp;&emsp;(B) increase the diversity of service sponsors of programs desiring to receive assistance under the national service laws;
+
+&emsp;(15) coordinate with organizations of former participants of national service programs for service opportunities that may include capacity building, outreach, and recruitment for programs receiving assistance under the national service laws;
+
+&emsp;(16) collaborate with organizations with demonstrated expertise in supporting and accommodating individuals with disabilities, including institutions of higher education, to identify and implement methods of recruitment to increase the number of participants who are individuals with disabilities in the programs receiving assistance under the national service laws;
+
+&emsp;(17) identify and implement recruitment strategies and training programs for bilingual volunteers in the National Senior Service Corps under title II of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 5000 et seq.\];
+
+&emsp;(18) collaborate with organizations that have established volunteer recruitment programs to increase the recruitment capacity of the Corporation;
+
+&emsp;(19) where practicable, provide application materials in languages other than English for individuals with limited English proficiency who wish to participate in a national service program;
+
+&emsp;(20) collaborate with the training and technical assistance programs described in division K with respect to the activities described in section 12657(b) of this title); <sup>2</sup>
+
+&emsp;(21) coordinate the clearinghouses described in section 12653<i>o</i> of this title;
+
+&emsp;(22) coordinate with entities receiving funds under division C in establishing the National Service Reserve Corps under section 12653h of this title, through which alumni of the national service programs and veterans can serve in disasters and emergencies (as such terms are defined in section 12653h(a) of this title); <sup>1</sup>
+
+&emsp;(23) identify and implement strategies to increase awareness among Indian tribes of the types and availability of assistance under the national service laws, increase Native American participation in programs under the national service laws, collect information on challenges facing Native American communities, and designate a Strategic Advisor for Native American Affairs to be responsible for the execution of those activities under the national service laws;
+
+&emsp;(24) conduct outreach to ensure the inclusion of economically disadvantaged individuals in national service programs and activities authorized under the national service laws; and
+
+&emsp;(25) ensure that outreach, awareness, and recruitment efforts are consistent with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) and section 794 of title 29.
 
 #### (c) Powers
 
@@ -100,9 +146,11 @@ In addition to the authority conferred on the Chief Executive Officer under any 
 
 &emsp;(8) exercise the authorities of the Corporation under section 12651g of this title;
 
-&emsp;(9) consolidate the reports to Congress required under the national service laws, and the report required under section 9106 of title 31, into a single report, and submit the report to Congress on an annual basis; and
+&emsp;(9) consolidate the reports to the authorizing committees required under the national service laws, and the report required under section 9106 of title 31, into a single report, and submit the report to the authorizing committees on an annual basis;
 
-&emsp;(10) generally perform such functions and take such steps consistent with the objectives and provisions of the national service laws, as the Chief Executive Officer determines to be necessary or appropriate to carry out such provisions.
+&emsp;(10) obtain the opinions of peer reviewers in evaluating applications to the Corporation for assistance under this subchapter; and
+
+&emsp;(11) generally perform such functions and take such steps consistent with the objectives and provisions of the national service laws, as the Chief Executive Officer determines to be necessary or appropriate to carry out such provisions.
 
 #### (d) Delegation
 
@@ -144,11 +192,11 @@ In an action described in subsection (c)(7) of this section—
 
 #### (B) Period covered by evaluation
 
-&emsp;&emsp;The evaluation required by this paragraph shall cover the period beginning on the date the Corporation first makes a grant under section 12571 of this title, and ending on a date that is as close as is practicable to the date specified in subsection (b)(10) of this section.
+&emsp;&emsp;The evaluation required by this paragraph shall cover the period beginning on the date the Corporation first makes a grant under section 12571 of this title, and ending on a date that is as close as is practicable to the the <sup>3</sup> first date that a report is submitted under subsection (b)(11) after the effective date of the Serve America Act.
 
 #### (C) Income levels of participants
 
-&emsp;&emsp;The evaluating entity shall determine the total income of each participant who serves,during the period covered by the evaluation, in a national service program carried out or supported using assistance provided under section 12571 of this title or in an approved national service position. The total income of the participant shall be determined as of the date the participant was first selected to participate in such a program and shall include family total income unless the evaluating entity determines that the participant was independent at the time of selection.
+&emsp;&emsp;The evaluating entity shall determine the total income of each participant who serves, during the period covered by the evaluation, in a national service program carried out or supported using assistance provided under section 12571 of this title or in an approved national service position. The total income of the participant shall be determined as of the date the participant was first selected to participate in such a program and shall include family total income unless the evaluating entity determines that the participant was independent at the time of selection.
 
 #### (D) Assistance for distressed areas
 
@@ -180,29 +228,71 @@ In an action described in subsection (c)(7) of this section—
 
 &emsp;For the first fiscal year after the effective date of this subsection, and for each fiscal year thereafter, for the purpose of carrying out such recruiting and public awareness functions, the Chief Executive Officer shall obligate not less than 1.5 percent of the amounts appropriated for the fiscal year under section 501(a) of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 5081(a)\].
 
-(Pub. L. 101–610, title I, §193A, as added and amended Pub. L. 103–82, title II, §§202(a), 203(a)(1)(B), (3), Sept. 21, 1993, 107 Stat. 877, 891; Pub. L. 103–304, §3(b)(2), Aug. 23, 1994, 108 Stat. 1567.)
+#### (h) Authority to contract with businesses
+
+The Chief Executive Officer may, through contracts or cooperative agreements, carry out the marketing duties described in subsection (b)(13), with priority given to those entities that have established expertise in the recruitment of disadvantaged youth, members of Indian tribes, and older adults.
+
+#### (i) Campaign to solicit funds
+
+The Chief Executive Officer may conduct a campaign to solicit funds to conduct outreach and recruitment campaigns to recruit a diverse population of service sponsors of, and participants in, programs and projects receiving assistance under the national service laws.
+
+(Pub. L. 101–610, title I, §193A, as added and amended Pub. L. 103–82, title II, §§202(a), 203(a)(1)(B), (3), Sept. 21, 1993, 107 Stat. 877, 891; Pub. L. 103–304, §3(b)(2), Aug. 23, 1994, 108 Stat. 1567; Pub. L. 111–13, title I, §1704, Apr. 21, 2009, 123 Stat. 1545.)
 
 #### References in Text
 
 Section 8E of the Inspector General Act of 1978, referred to in subsec. (a), is section 8E of Pub. L. 95–452, as added by Pub. L. 103–82, title II, §202(g)(1), Sept. 21, 1993, 107 Stat. 889, which was renumbered section 8F of the Act by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5, Government Organization and Employees.
 
-Public Law 91–378, referred to in subsec. (b)(10)(A), is Pub. L. 91–378, Aug. 13, 1970, 84 Stat. 794, as amended, popularly known as the Youth Conservation Corps Act of 1970, which is classified generally to chapter 37 (§1701 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 16 and Tables.
+Public Law 91–378, referred to in subsec. (b)(11)(A), is Pub. L. 91–378, Aug. 13, 1970, 84 Stat. 794, popularly known as the Youth Conservation Corps Act of 1970, which is classified generally to chapter 37 (§1701 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 16 and Tables.
 
-This chapter, referred to in subsecs. (b)(10)(A)(i), (B), (c)(7), and (e)(4), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+This chapter, referred to in subsecs. (b)(11)(A)(i), (B), (c)(7), and (e)(4), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (b)(10)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(11)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (g), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsecs. (b)(17) and (g)(1), (2), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified principally to chapter 66 (§4950 et seq.) of this title. Title II of the Act is classified generally to subchapter II (§5000 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+
+Section 12653h(a) of this title, referred to in subsec. (b)(22), does not contain definitions of disasters and emergencies.
+
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(25), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+
+For the effective date of the Serve America Act, referred to in subsec. (f)(2)(B), as Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.
 
 For the effective date of this subsection, referred to in subsec. (g)(3), see Effective Date of 1993 Amendment note below.
 
 #### Amendments
+
+2009—Subsec. (b). Pub. L. 111–13, §1704(1)(A), substituted “, in collaboration with the State Commissions, shall” for “shall” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 111–13, §1704(1)(B), inserted “, including a plan for having 50 percent of all approved national service positions be full-time positions by 2012,” after “a strategic plan”.
+
+Subsec. (b)(2)(B). Pub. L. 111–13, §1704(1)(C), inserted “, approved summer of service positions, and approved silver scholar positions” after “approved national service positions”.
+
+Subsec. (b)(7) to (9). Pub. L. 111–13, §1704(1)(D), (E), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively. Former par. (9) redesignated (10).
+
+Subsec. (b)(10). Pub. L. 111–13, §1704(1)(D), (F), redesignated par. (9) as (10) and substituted “authorizing committees” for “appropriate committees of Congress” in introductory provisions. Former par. (10) redesignated (11).
+
+Subsec. (b)(11). Pub. L. 111–13, §1704(1)(D), (G)(i), redesignated par. (10) as (11) and substituted “periodically,” for “by June 30, 1995,” in introductory provisions. Former par. (11) redesignated (12).
+
+Subsec. (b)(11)(A)(i). Pub. L. 111–13, §1704(1)(G)(ii), substituted “national priorities, as described in section 12572(f)(1) of this title, designed to meet” for “national priorities designed to meet the” and struck out “described in section 12572(c)(1) of this title” after “public safety needs”.
+
+Subsec. (b)(12) to (25). Pub. L. 111–13, §1704(1)(D), (G)(iii)–(I), redesignated par. (11) as (12) and added pars. (13) to (25).
+
+Subsec. (c)(9). Pub. L. 111–13, §1704(2)(A)(i), substituted “the authorizing committees” for “Congress” in two places.
+
+Subsec. (c)(10), (11). Pub. L. 111–13, §1704(2)(A)(ii)–(C), added par. (10) and redesignated former par. (10) as (11).
+
+Subsec. (f)(2)(B). Pub. L. 111–13, §1704(3), substituted “the first date that a report is submitted under subsection (b)(11) after the effective date of the Serve America Act” for “date specified in subsection (b)(10) of this section”.
+
+Subsecs. (h), (i). Pub. L. 111–13, §1704(4), added subsecs. (h) and (i).
 
 1994—Subsec. (g). Pub. L. 103–304 made technical amendment to directory language of Pub. L. 103–82, §203(a)(3). See 1993 Amendment note below.
 
 1993—Subsecs. (b) to (d). Pub. L. 103–82, §203(a)(1)(B), which directed amendment of section 193A of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter” was executed wherever appearing in the following provisions of this section, which is section 193A of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress: introductory provisions and pars. (2) to (4)(A), (8), and (9)(C) of subsec. (b), introductory provisions and pars. (2), (4), (9), and (10) of subsec. (c), and subsec. (d)(2).
 
 Subsec. (g). Pub. L. 103–82, §203(a)(3), as amended by Pub. L. 103–304, added subsec. (g).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -217,4 +307,8 @@ Amendment by section 203(a)(1)(B), (3) of Pub. L. 103–82 effective Apr. 4, 199
 Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out as a note under section 12651 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
 

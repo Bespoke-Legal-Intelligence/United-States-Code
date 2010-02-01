@@ -36,7 +36,7 @@ It is the purpose of this section to provide assistance to community development
 
 #### (d) Applications
 
-A community development corporation that desires to receive a grant under this sectionshall prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+A community development corporation that desires to receive a grant under this section shall prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (e) Amount available for community development corporation
 

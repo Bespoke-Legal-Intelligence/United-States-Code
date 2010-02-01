@@ -16,19 +16,7 @@
 
 #### (3) No assistance for families not assigning certain support rights to the State
 
-#### (A) In general
-
-&emsp;&emsp;A State to which a grant is made under section 603 of this title shall require, as a condition of providing assistance to a family under the State program funded under this part, that a member of the family assign to the State any rights the family member may have (on behalf of the family member or of any other person for whom the family member has applied for or is receiving such assistance) to support from any other person, not exceeding the total amount of assistance so provided to the family, which accrue (or have accrued) before the date the family ceases to receive assistance under the program, which assignment, on and after such date, shall not apply with respect to any support (other than support collected pursuant to section 664 of this title) which accrued before the family received such assistance and which the State has not collected by—
-
-&emsp;&emsp;&emsp;(i)(I) September 30, 2000, if the assignment is executed on or after October 1, 1997, and before October 1, 2000; or
-
-&emsp;&emsp;&emsp;(II) the date the family ceases to receive assistance under the program, if the assignment is executed on or after October 1, 2000; or
-
-&emsp;&emsp;&emsp;(ii) if the State elects to distribute collections under section 657(a)(6) of this title, the date the family ceases to receive assistance under the program, if the assignment is executed on or after October 1, 1998.
-
-#### (B) Limitation
-
-&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not require, as a condition of providing assistance to any family under the State program funded under this part, that a member of the family assign to the State any rights to support described in subparagraph (A) which accrue after the date the family ceases to receive assistance under the program.
+&emsp;A State to which a grant is made under section 603 of this title shall require, as a condition of paying assistance to a family under the State program funded under this part, that a member of the family assign to the State any right the family member may have (on behalf of the family member or of any other person for whom the family member has applied for or is receiving such assistance) to support from any other person, not exceeding the total amount of assistance so paid to the family, which accrues during the period that the family receives assistance under the program.
 
 #### (4) No assistance for teenage parents who do not attend high school or other equivalent training program
 
@@ -148,7 +136,7 @@
 
 #### (F) Rule of interpretation
 
-&emsp;&emsp;This part shall not be interpreted to prohibit any State from expending State funds not originating with the Federal Government on benefits for children or families that have become ineligible for assistance under the State program funded under this part by reason of subparagraph (A).
+&emsp;&emsp;This part shall not be interpreted to prohibit any State from expending State fundsnot originating with the Federal Government on benefits for children or families that have become ineligible for assistance under the State program funded under this part by reason of subparagraph (A).
 
 #### (G) Inapplicability to welfare-to-work grants and assistance
 
@@ -186,7 +174,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance for a minor child who has been, or is expected by a parent (or other caretaker relative) of the child to be, absent from the home for a period of 45 consecutive days or, at the option of the State, such period of not less than 30 and not more than 180 consecutive days asthe State may provide for in the State plan submitted pursuant to section 602 of this title.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance for a minor child who has been, or is expected by a parent (or other caretaker relative) of the child to be, absent from the home for a period of 45 consecutive days or, at the option of the State, such period of not less than 30 and not more than 180 consecutive days as the State may provide for in the State plan submitted pursuant to section 602 of this title.
 
 #### (B) State authority to establish good cause exceptions
 
@@ -200,7 +188,7 @@
 
 #### (A) Earnings from employment
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX of this chapter shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX of this chapter) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid because of hours of or income from employment of the caretaker relative (as defined under this part as in effect on such date) or because of section 602(a)(8)(B)(ii)(II) of this title (as so in effect), and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX of this chapter for an extended period or periods as provided in section 1396r–6 or 1396a(e)(1) of this title (as applicable), and that the family will be appropriately notified of such extension as required by section 1396r–6(a)(2) of this title.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX of this chapter shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX of this chapter) as receiving aid under a State plan approved under thispart (as in effect on July 16, 1996), that would become ineligible for such aid because of hours of or income from employment of the caretaker relative (as defined under this part as in effect on such date) or because of section 602(a)(8)(B)(ii)(II) of this title (as so in effect), and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX of this chapter for an extended period or periods as provided in section 1396r–6 or 1396a(e)(1) of this title (as applicable), and that the family will be appropriately notified of such extension as required by section 1396r–6(a)(2) of this title.
 
 #### (B) Child support
 
@@ -342,14 +330,6 @@ Each State to which a grant is made under section 603 of this title shall, at le
 
 (Aug. 14, 1935, ch. 531, title IV, §408, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2134; amended Pub. L. 105–33, title V, §§5001(d), (h)(1), 5505, 5514(c), 5532(b)(2), 5581(a), Aug. 5, 1997, 111 Stat. 591, 593, 610, 620, 626, 642; Pub. L. 109–171, title VII, §7301(a), Feb. 8, 2006, 120 Stat. 141; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
-#### Amendment of Subsection (a)(3)
-
-<i>Pub. L. 109–171, title VII, §7301(a), (e), Feb. 8, 2006, 120 Stat. 141, 144, provided that, effective Oct. 1, 2009, and applicable to payments under parts A and D of this subchapter, for calendar quarters beginning on or after such date, subject to certain State options, subsection (a)(3) of this section is amended to read as follows:</i>
-
-#### <i>(3) No assistance for families not assigning certain support rights to the State</i>
-
-&emsp;<i>A State to which a grant is made under section 603 of this title shall require, as a condition of paying assistance to a family under the State program funded under this part, that a member of the family assign to the State any right the family member may have (on behalf of the family member or of any other person for whom the family member has applied for or is receiving such assistance) to support from any other person, not exceeding the total amount of assistance so paid to the family, which accrues during the period that the family receives assistance under the program.</i>
-
 #### References in Text
 
 Part D of this subchapter, referred to in subsec. (a)(2), (11)(B), is classified to section 651 et seq. of this title.
@@ -374,11 +354,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 A prior section 608, act Aug. 14, 1935, ch. 531, title IV, §408, as added Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(a), 103 Stat. 2454; amended Oct. 31, 1994, Pub. L. 103–432, title II, §265(a), 108 Stat. 4469, related to AFDC quality control system, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
-Another prior section 608, act Aug. 14, 1935, ch. 531, title IV, §408, as added May 8, 1961, Pub. L. 87–31, §2, 75 Stat. 76; amended July 25, 1962, Pub. L. 87–543, title I, §§101(b)(2)(D), 104(a)(3)(F), (G), 131(b), 135(a)–(d), 155(a), 76 Stat. 180, 185, 193, 196, 197, 207; Jan. 2, 1968, Pub. L.90–248, title II, §§201(e)(4), 205(c), 81 Stat. 880, 892; June 17, 1980, Pub. L. 96–272, title I, §§101(a)(5)(A), 102(b), 94 Stat. 513, 515, related to payment to States for foster home care of dependent children, prior to repeal by Pub. L. 96–272, title I, §101(a)(2), June 17, 1980, 94 Stat. 512, effective, with certain exceptions, to expenditures made after Sept. 30, 1980.
+Another prior section 608, act Aug. 14, 1935, ch. 531, title IV, §408, as added May 8, 1961, Pub. L. 87–31, §2, 75 Stat. 76; amended July 25, 1962, Pub. L. 87–543, title I, §§101(b)(2)(D), 104(a)(3)(F), (G), 131(b), 135(a)–(d), 155(a), 76 Stat. 180, 185, 193, 196, 197, 207; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(e)(4), 205(c), 81 Stat. 880, 892; June 17, 1980, Pub. L. 96–272, title I, §§101(a)(5)(A), 102(b), 94 Stat. 513, 515, related to payment to States for foster home care of dependent children, prior to repeal by Pub. L. 96–272, title I, §101(a)(2), June 17, 1980, 94 Stat. 512, effective, with certain exceptions, to expenditures made after Sept. 30, 1980.
 
 #### Amendments
 
 2008—Subsec. (a)(8). Pub. L. 110–246, §4002(b)(1)(B), (2)(V), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+
+2006—Subsec. (a)(3). Pub. L. 109–171 amended par. (3) generally. Prior to amendment, par. (3) prohibited a State from giving assistance under this part to families not assigning to the State certain rights to support accruing before the date the family ceased to receive assistance, with certain limitations, and prohibited a State from requiring the assignment of future support rights as a condition of providing assistance to a family.
 
 1997—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 

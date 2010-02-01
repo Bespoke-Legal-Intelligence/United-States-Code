@@ -6,11 +6,11 @@ The President shall, from time to time as occasion may require, but not less tha
 
 #### (b) Annual report on financial contributions
 
-Not later than July 1 of each year, the Secretary of State shall submit a report to the designated congressional committees on the extent and disposition of all financial contributions made by the United States during the preceding year to international organizations in which the United States participates as a member.
+Not later than July 1 of each year, the Secretary of State shall submit a report to the designated congressional committees on the extentand disposition of all financial contributions made by the United States during the preceding year to international organizations in which the United States participates as a member.
 
 #### (c) Annual report
 
-In addition to the report required by subsection (a) of this section, the President, at the time of submission of the annual budget requestto the Congress, shall submit to the designated congressional committees a report that includes the following:
+In addition to the report required by subsection (a) of this section, the President, at the time of submission of the annual budget request to the Congress, shall submit to the designated congressional committees a report that includes the following:
 
 #### (1) Costs of peacekeeping operations
 
@@ -78,7 +78,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 &emsp;&emsp;(A) With respect to ongoing United Nations peacekeeping operations, the following:
 
-&emsp;&emsp;&emsp;(i) A list of all resolutions of the United Nations Security Council anticipated to be voted on during such month that would extend or change the mandate of any United Nations peacekeeping operation.
+&emsp;&emsp;&emsp;(i) A list of all resolutions of the United Nations Security Council anticipated to bevoted on during such month that would extend or change the mandate of any United Nations peacekeeping operation.
 
 &emsp;&emsp;&emsp;(ii) For each such operation, any changes in the duration, mandate, and command and control arrangements that are anticipated as a result of the adoption of the resolution.
 
@@ -142,7 +142,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 #### (B) Annual report
 
-&emsp;&emsp;The President shall submit an annual report to the designated congressional committees on all assistance provided by the United States during the preceding calendar year to the United Nations to support peacekeeping operations. Each such report shall describe the assistance provided for each such operation, listed by category of assistance.
+&emsp;&emsp;The President shall submit an annual report to the designated congressional committees on all assistance provided by theUnited States during the preceding calendar year to the United Nations to support peacekeeping operations. Each such report shall describe the assistance provided for each such operation, listed by category of assistance.
 
 #### (e) Designated congressional committees
 

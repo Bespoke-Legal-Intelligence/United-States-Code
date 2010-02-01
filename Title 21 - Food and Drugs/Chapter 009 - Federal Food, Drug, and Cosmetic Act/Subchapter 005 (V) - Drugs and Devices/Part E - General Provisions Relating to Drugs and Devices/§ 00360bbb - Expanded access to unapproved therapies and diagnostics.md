@@ -20,7 +20,7 @@ Any person, acting through a physician licensed in accordance with State law, ma
 
 Upon submission by a sponsor or a physician of a protocol intended to provide widespread access to an investigational drug or investigational device for eligible patients (referred to in this subsection as an “expanded access protocol”), the Secretary shall permit such investigational drug or investigational device to be made available for expanded access under a treatment investigational new drug application or treatment investigational device exemption if the Secretary determines that—
 
-&emsp;(1) under the treatment investigational new drug application or treatment investigational device exemption, the investigational drug or investigational device is intended for use in the diagnosis, monitoring, or treatment of a serious or immediately life-threatening disease or condition;
+&emsp;(1) under the treatment investigational new drug application or treatment investigational device exemption, the investigational drug or investigational device is intended for use inthe diagnosis, monitoring, or treatment of a serious or immediately life-threatening disease or condition;
 
 &emsp;(2) there is no comparable or satisfactory alternative therapy available to diagnose, monitor, or treat that stage of disease or condition in the population of patients to which the investigational drug or investigational device is intended to be administered;
 
@@ -36,7 +36,7 @@ Upon submission by a sponsor or a physician of a protocol intended to provide wi
 
 &emsp;(7) in the case of immediately life-threatening diseases, the available scientific evidence, taken as a whole, provides a reasonable basis to conclude that the investigational drug or investigational device may be effective for its intended use and would not expose patients to an unreasonable and significant risk of illness or injury.
 
-> A protocol submitted under this subsection shall be subject to the provisions of section 355(i) or 360j(g) of this title, including regulations promulgated under section 355(i) or 360j(g) of thistitle. The Secretary may inform national, State, and local medical associations and societies, voluntary health associations, and other appropriate persons about the availability of an investigational drug or investigational device under expanded access protocols submitted under this subsection. The information provided by the Secretary, in accordance with the preceding sentence, shall be the same type of information that is required by section 282(i)(3) of title 42.
+> A protocol submitted under this subsection shall be subject to the provisions of section 355(i) or 360j(g) of this title, including regulations promulgated under section 355(i) or 360j(g) of this title. The Secretary may inform national, State, and local medical associations and societies, voluntary health associations, and other appropriate persons about the availability of an investigational drug or investigational device under expanded access protocols submitted under this subsection. The information provided by the Secretary, in accordance with the preceding sentence, shall be the same type of information that is required by section 282(i)(3) of title 42.
 
 #### (d) Termination
 

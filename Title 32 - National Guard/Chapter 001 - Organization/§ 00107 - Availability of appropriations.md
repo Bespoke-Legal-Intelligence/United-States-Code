@@ -112,3 +112,35 @@ Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub.
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
 
+#### Availability of Appropriated Funds for the State Partnership Program
+
+Pub. L. 111–84, div. A, title XII, §1210, Oct. 28, 2009, 123 Stat. 2517, provided that:
+
+“(a)
+
+Regulations Required.—Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense, in consultation with \[the\] Secretary of State, shall prescribe regulations regarding the use of funds appropriated to the Department of Defense to pay the costs incurred by the National Guard in conducting activities under the State Partnership Program. The Secretary of Defense shall transmit to the appropriate congressional committees a copy of the regulations not later than 15 days after the date on which the regulations are prescribed under this subsection.
+
+“(b)
+
+Limitations.—
+
+&emsp;“(1)
+
+Approval by commander of combatant command and chief of mission.—Funds shall not be available under subsection (a) for activities conducted under the State Partnership Program in a foreign country unless such activities are jointly approved by the commander of the combatant command concerned and the chief of mission concerned.
+
+&emsp;“(2)
+
+Participation by members.—Funds shall not be available under subsection (a) for the participation of a member of the National Guard in activities conducted under the State Partnership Program in a foreign country unless the member is on active duty in the Armed Forces at the time of such participation.
+
+“(c)
+
+Report.—Not later than 90 days after the date of the enactment of this Act, and not later than the end of each of the fiscal years 2010 through 2013, the Secretary of Defense shall submit to the appropriate congressional committees a report describing the civilian engagement activities conducted under the State Partnership Program, including a detailed description of the activities undertaken and funds expended in the previous fiscal year under the State Partnership Program.
+
+“(d)
+
+Definition.—In this section, the term ‘appropriate congressional committees’ means—
+
+&emsp;“(1) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives; and
+
+&emsp;“(2) the Committee on Armed Services and the Committee on Foreign Relations of the Senate.”
+

@@ -8,7 +8,7 @@ The following conduct is prohibited:
 
 &emsp;(3) The failure by the management of any horse show or horse exhibition, which does not appoint and retain a person in accordance with section 1823(c) of this title, to disqualify from being shown or exhibited any horse which is sore.
 
-&emsp;(4) The failure by the management of any horse sale or auction, which does not appoint and retain a qualified person in accordance with section 1823(c) of this title, to prohibitthe sale, offering for sale, or auction of any horse which is sore.
+&emsp;(4) The failure by the management of any horse sale or auction, which does not appoint and retain a qualified person in accordance with section 1823(c) of this title, to prohibit the sale, offering for sale, or auction of any horse which is sore.
 
 &emsp;(5) The failure by the management of any horse show or horse exhibition, which has appointed and retained a person in accordance with section 1823(c) of this title, to disqualify from being shown or exhibited any horse (A) which is sore, and (B) after having been notified by such person or the Secretary that the horse is sore or after otherwise having knowledge that the horse is sore.
 

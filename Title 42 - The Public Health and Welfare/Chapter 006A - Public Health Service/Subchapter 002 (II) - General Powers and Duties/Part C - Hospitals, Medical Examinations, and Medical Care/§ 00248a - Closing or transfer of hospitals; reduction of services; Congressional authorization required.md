@@ -4,7 +4,7 @@
 
 &emsp;(1) in operation as hospitals of the Public Health Service,
 
-&emsp;(2) to provide for all categories of individuals entitled or authorized to receive care and treatment at hospitals or other stations of the Public Health Service inpatient, outpatient, and other health care services in like manner as such services were provided on January 1, 1973, to such categories of individuals at the hospitals of the Public Health Service referred to in the matter preceding paragraph (1) and at a level and range at least as great as the level and range of such services which were provided (or authorized to be provided) by such hospitals on such date, and
+&emsp;(2) to provide for all categories of individuals entitled or authorized to receive care and treatment at hospitals or other stations of thePublic Health Service inpatient, outpatient, and other health care services in like manner as such services were provided on January 1, 1973, to such categories of individuals at the hospitals of the Public Health Service referred to in the matter preceding paragraph (1) and at a level and range at least as great as the level and range of such services which were provided (or authorized to be provided) by such hospitals on such date, and
 
 &emsp;(3) to conduct at such hospitals a level and range of other health-related activities (including training and research activities) which is not less than the level and range of such activities which were being conducted on January 1, 1973, at such hospitals.
 

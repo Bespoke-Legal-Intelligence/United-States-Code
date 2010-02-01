@@ -58,7 +58,7 @@
 
 #### (1) In general
 
-&emsp;If any person meets the gross receipts test of paragraph (2) with respect to any calendar year, with respect to failures during such taxable year—
+&emsp;If any person meets the gross receipts test of paragraph (2) with respect to any calendaryear, with respect to failures during such taxable year—
 
 &emsp;&emsp;(A) subsection (a)(1) shall be applied by substituting “$100,000” for “$250,000”,
 

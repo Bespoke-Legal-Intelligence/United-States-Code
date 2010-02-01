@@ -36,7 +36,7 @@ An agreement with any institution of higher education for the payment of Federal
 
 &emsp;&emsp;&emsp;(ii) apportion any sums collected on such a loan, less an amount not to exceed 30 percent of any sums collected to cover the Secretary's collection costs, among other institutions in accordance with section 1087bb of this title; or
 
-&emsp;&emsp;(B) if the institution is not one described in subparagraph (A), the Secretary may allow such institution to refer such note or agreement to the Secretary, without recompense, except that, once every six months, any sums collected on such a loan (less an amount not to exceed 30 percent of any such sums collected to cover the Secretary's collection costs) shall be repaid to such institution and treated as an additionalcapital contribution under section 1087bb of this title;
+&emsp;&emsp;(B) if the institution is not one described in subparagraph (A), the Secretary may allow such institution to refer such note or agreement to the Secretary, without recompense, except that, once every six months, any sums collected on such a loan (less an amount not to exceed 30 percent of any such sums collected to cover the Secretary's collection costs) shall be repaid to such institution and treated as an additional capital contribution under section 1087bb of this title;
 
 &emsp;(5) provide that, if an institution of higher education determines not to service and collect student loans made available from funds under this part, the institution will assign, at the beginning of the repayment period, notes or evidence of obligations of student loans made from such funds to the Secretary and the Secretary shall apportion any sums collected on such notes or obligations (less an amount not to exceed 30 percent of any such sums collected to cover that Secretary's collection costs) among other institutions in accordance with section 1087bb of this title;
 
@@ -64,7 +64,7 @@ An institution which has entered into an agreement under subsection (a) of this 
 
 &emsp;(C) the date of cancellation of the note upon completion of repayment by the borrower of any such loan, or upon cancellation or discharge of the borrower's obligation on the loan for any reason.
 
-(3) Notwithstanding paragraphs (4) and (6) <sup>1</sup> of subsection (a) of section 1681c of title 15, a consumer reporting agency may make a report containing information received from the Secretary or an institution regarding the status of a borrower's account on a loan made under this part until the loan is paid in full.
+(3) Notwithstanding paragraphs (4) and (5) of subsection (a) of section 1681c of title 15, a consumer reporting agency may make a report containing information received from the Secretary or an institution regarding the status of a borrower's account on a loan made under this part until the loan is paid in full.
 
 (4)(A) Except as provided in subparagraph (B), an institution of higher education, after consultation with the Secretary and pursuant to the agreements entered into under paragraph (1), shall disclose at least annually to any consumer reporting agency with which the Secretary has such an agreement the information set forth in paragraph (2), and shall disclose promptly to such consumer reporting agency any changes to the information previously disclosed.
 
@@ -80,11 +80,9 @@ In carrying out the provisions of subsection (a)(9) of this section, the Secreta
 
 In carrying out the provisions of subsection (a)(5) <sup>1</sup> of this section relating to due diligence, the Secretary shall make every effort to ensure that institutions of higher education may use Internal Revenue Service skip-tracing collection procedures on loans made under this part.
 
-(Pub. L. 89–329, title IV, §463, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1444; amended Pub. L. 100–50, §13(e), (f), June 3, 1987, 101 Stat. 349; Pub. L. 102–325, title IV, §463(a), (b), July 23, 1992, 106 Stat. 579; Pub. L. 103–208, §2(f)(5)–(7), Dec. 20, 1993, 107 Stat. 2471;Pub. L. 105–244, title IV, §463, Oct. 7, 1998, 112 Stat. 1724; Pub. L. 110–315, title IV, §§432(b)(5), 463, Aug. 14, 2008, 122 Stat. 3246, 3266.)
+(Pub. L. 89–329, title IV, §463, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1444; amended Pub. L. 100–50, §13(e), (f), June 3, 1987, 101 Stat. 349; Pub. L. 102–325, title IV, §463(a), (b), July 23, 1992, 106 Stat. 579; Pub. L. 103–208, §2(f)(5)–(7), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §463, Oct. 7, 1998, 112 Stat. 1724; Pub. L. 110–315, title IV, §§432(b)(5), 463, Aug. 14, 2008, 122 Stat. 3246, 3266; Pub. L. 111–39, title IV, §405(2), July 1, 2009, 123 Stat. 1947.)
 
 #### References in Text
-
-Paragraph (6) of subsection (a) of section 1681c of title 15, referred to in subsec. (c)(3), was redesignated paragraph (5) of subsection (a) of section 1681c of title 15 by Pub. L. 105–347, §5(4), Nov. 2, 1998, 112 Stat. 3211.
 
 Subsection (a)(5) of this section relating to due diligence, referred to in subsec. (e), was redesignated subsec. (a)(4), by Pub. L. 105–244, title IV, §463(a)(3), Oct. 7, 1998, 112 Stat. 1724.
 
@@ -93,6 +91,12 @@ Subsection (a)(5) of this section relating to due diligence, referred to in subs
 A prior section 1087cc, Pub. L. 89–329, title IV, §463, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 274; amended Pub. L. 94–482, title I, §130(c), Oct. 12, 1976, 90 Stat. 2146; Pub. L. 96–374, title IV, §§442(b)(1)–(4), 445(a), (b)(1), 447(a), 448(b), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1439, 1440, 1442, 1443, 1503; Pub. L. 99–272, title XVI, §§16025, 16026, Apr. 7, 1986, 100 Stat. 352, 353, related to agreements with institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2009—Subsec. (c)(2)(A). Pub. L. 111–39, §405(2)(A)(i), realigned margins.
+
+Subsec. (c)(2)(B). Pub. L. 111–39, §405(2)(A)(ii), added subpar. (B) and struck out former subpar. (B), resulting in text identical to that after execution of the amendment by Pub. L. 105–244, §463(b)(2)(C). See 1998 Amendment note below.
+
+Subsec. (c)(3). Pub. L. 111–39, §405(2)(B), substituted “and (5)” for “and (6)” and made technical amendment to reference in original act which appears in text as reference to section 1681c of title 15.
 
 2008—Subsec. (a)(4)(B). Pub. L. 110–315, §463(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if the institution is not one described in subparagraph (A), the Secretary may—
 
@@ -132,7 +136,7 @@ Subsec. (c)(2). Pub. L. 105–244, §463(b)(2)(A), in introductory provisions, s
 
 Subsec. (c)(2)(A). Pub. L. 105–244, §463(b)(2)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the date of disbursement and the amount of any such loan;”.
 
-Subsec. (c)(2)(B). Pub. L. 105–244, §463(b)(2)(C), inserted “the repayment and” after “concerning” and substituted “status of such” for “status of any defaulted”.
+Subsec. (c)(2)(B). Pub. L. 105–244, §463(b)(2)(C), inserted “the repayment and” after “concerning” thefirst place appearing and substituted “status of such” for “status of any defaulted”.
 
 Subsec. (c)(2)(C). Pub. L. 105–244, §463(b)(2)(D), inserted “, or upon cancellation or discharge of the borrower's obligation on the loan for any reason” before period at end.
 
@@ -170,6 +174,10 @@ Subsec. (c)(4). Pub. L. 102–325, §463(b)(2), added par. (4).
 
 Subsec. (b). Pub. L. 100–50, §13(f), substituted “section 1096 of this title” for “section 1092 of this title”.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
@@ -191,6 +199,4 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99–498, set out as a note under section 1001 of this title.
 
 Subsection (a)(9) of this section applicable only to loans made for periods of enrollment beginning on or after July 1, 1987, see section 405(b) of Pub. L. 99–498, set out as a note under section 1087dd of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

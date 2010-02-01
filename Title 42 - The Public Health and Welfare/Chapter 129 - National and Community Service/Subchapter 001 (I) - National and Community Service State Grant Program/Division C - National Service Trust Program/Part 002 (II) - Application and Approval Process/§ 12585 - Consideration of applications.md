@@ -20,7 +20,7 @@ The Corporation shall apply the criteria described in subsections (c) and (d) of
 
 &emsp;&emsp;(A) a certification that the State or other entity used these criteria in the selection of national service programs to receive assistance;
 
-&emsp;&emsp;(B) a description of the jobs or positions into which participants will be placed using such assistance, including descriptions of specific tasks to be performed by such participants; and
+&emsp;&emsp;(B) a description of the positions into which participants will be placed using such assistance, including descriptions of specific tasks to be performed by such participants; and
 
 &emsp;&emsp;(C) a description of the minimum qualifications that individuals shall meet to become participants in such programs.
 
@@ -66,31 +66,23 @@ The criteria required to be applied in evaluating applications submitted under s
 
 #### (2) Priorities
 
-&emsp;The Corporation may designate, under such criteria as may be established by the Corporation, certain national service programs or types of national service programs described in section 12572(a) of this title for priority consideration in the competitive distribution of funds under section 12581(d)(2) of this title. In designating national service programs to receive priority, the Corporation may include—
+&emsp;The Corporation may designate, under such criteria as may be established by the Corporation, certain national service programs or types of national service programs described in subsection (a), (b), or (c) of section 12572 of this title for priority consideration in the competitive distribution of funds under section 12581(d) of this title. In designating national service programs to receive priority, the Corporation may include—
 
-&emsp;&emsp;(A) national service programs carried out by another Federal agency;
+&emsp;&emsp;(A) national service programs that—
 
-&emsp;&emsp;(B) national service programs that conform to the national service priorities in effect under section 12572(c) of this title;
+&emsp;&emsp;&emsp;(i) conform to the national service priorities in effect under section 12572(f) of this title;
 
-&emsp;&emsp;(C) innovative national service programs;
+&emsp;&emsp;&emsp;(ii) are innovative; and
 
-&emsp;&emsp;(D) national service programs that are well established in one or more States at the time of the application and are proposed to be expanded to additional States using assistance provided under section 12571 of this title;
+&emsp;&emsp;&emsp;(iii) are well established in 1 or more States at the time of the application and are proposed to be expanded to additional States using assistance provided under section 12571 of this title;
 
-&emsp;&emsp;(E) grant programs in support of other national service programs if the grant programs are to be conducted by nonprofit organizations with a demonstrated and extensive expertise in the provision of services to meet human, educational, environmental, or public safety needs;
+&emsp;&emsp;(B) grant programs in support of other national service programs if the grant programs are to be conducted by nonprofit organizations with demonstrated and extensive expertise in the provision of services to meet human, educational, environmental, or public safety needs; and
 
-&emsp;&emsp;(F) professional corps programs described in section 12572(a)(8) of this title; and
-
-&emsp;&emsp;(G) programs that—
-
-&emsp;&emsp;&emsp;(i) received funding under part D of this subchapter, as in effect on the day before September 21, 1993;
-
-&emsp;&emsp;&emsp;(ii) the Corporation determines to meet the requirements of sections 12572 (other than subsection (g)), 12573, and 12578 through 12580 of this title, as in effect on such day, in addition to the requirements of this division; and
-
-&emsp;&emsp;&emsp;(iii) include an evaluation component.
+&emsp;&emsp;(C) professional corps programs described in section 12572(c)(1)(D) of this title.
 
 #### (3) Additional priority
 
-&emsp;In making a competitive distribution of funds under section 12581(d)(2) of this title, the Corporation may give priority consideration to a national service program that is—
+&emsp;In making a competitive distribution of funds under section 12581(d) of this title, the Corporation may give priority consideration to a national service program that is—
 
 &emsp;&emsp;(A) proposed in an application submitted by a State Commission; and
 
@@ -108,17 +100,21 @@ The criteria required to be applied in evaluating applications submitted under s
 
 #### (e) Emphasis on areas most in need
 
-In making assistance available under section 12571 of this title and in providing approved national service positions under section 12573 of this title, the Corporation shall ensure that not less than 50 percent of the total amount of assistance to be distributed to States under subsections (a) and (d)(1) of section 12581 of this title for a fiscal year is provided to carry out or support national service programs and projects that—
+In making assistance available under section 12571 of this title and in providing approved national service positions under section 12573 of this title, the Corporation shall ensure that not less than 50 percent of the total amount of assistance to be distributed to States under subsections (d) and (e) of section 12581 of this title for a fiscal year is provided to carry out or support national service programs and projects that—
 
 &emsp;(1) are conducted in any of the areas described in subsection (c)(6) of this section or on Federal or other public lands, to address unmet human, educational, environmental, or public safety needs in such areas or on such lands; and
 
 &emsp;(2) place a priority on the recruitment of participants who are residents of any of such areas or Federal or other public lands.
 
-#### (f) Rejection of State applications
+#### (f) Views of State Commission
+
+In making competitive awards under section 12581(d) of this title, the Corporation shall solicit and consider the views of a State Commission regarding any application for assistance to carry out a national service program within the State.
+
+#### (g) Rejection of State applications
 
 #### (1) Notification of State applicants
 
-&emsp;If the Corporation rejects an application submitted by a State Commission under section 12582 of this title for funds described in section 12581(a)(1) of this title, the Corporation shall promptly notify the State Commission of the reasons for the rejection of the application.
+&emsp;If the Corporation rejects an application submitted by a State Commission under section 12582 of this title for funds described in section 12581(e) of this title, the Corporation shall promptly notify the State Commission of the reasons for the rejection of the application.
 
 #### (2) Resubmission and reconsideration
 
@@ -126,15 +122,35 @@ In making assistance available under section 12571 of this title and in providin
 
 #### (3) Reallotment
 
-&emsp;The amount of any State's allotment under section 12581(a) of this title for a fiscal year that the Corporation determines will not be provided for that fiscal year shall be available for distribution by the Corporation as provided in paragraph (3) of such subsection.
+&emsp;The amount of any State's allotment under section 12581(e) of this title for a fiscal year that the Corporation determines will not be provided for that fiscal year shall be available for distribution by the Corporation as provided in section 12581(f) of this title.
 
-(Pub. L. 101–610, title I, §133, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 805.)
-
-#### References in Text
-
-Part D of this subchapter and sections 12572, 12573, and 12578 through 12580 of this title, as in effect on the day before September 21, 1993, referred to in subsec. (d)(2)(G), mean former part D of this subchapter and former sections 12572, 12573, and 12578 to 12580 of this title prior to the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 816.
+(Pub. L. 101–610, title I, §133, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 805; amended Pub. L. 111–13, title I, §1311, Apr. 21, 2009, 123 Stat. 1509.)
 
 #### Prior Provisions
 
 A prior section 133 of Pub. L. 101–610 was renumbered section 199K and is classified to section 12655<i>l</i> of this title.
+
+#### Amendments
+
+2009—Subsec. (b)(2)(B). Pub. L. 111–13, §1311(1), struck out “jobs or” before “positions”.
+
+Subsec. (d)(2). Pub. L. 111–13, §1311(2)(A)(i), substituted “subsection (a), (b), or (c) of section 12572” for “section 12572(a)” and “section 12581(d)” for “section 12581(d)(2)” in introductory provisions.
+
+Subsec. (d)(2)(A) to (G). Pub. L. 111–13, §1311(2)(A)(ii), added subpars. (A) to (C) and struck out former subpars. (A) to (G), which set forth programs the Corporation could include in designating national service programs to receive priority.
+
+Subsec. (d)(3). Pub. L. 111–13, §1311(2)(B), substituted “section 12581(d)” for “section 12581(d)(2)” in introductory provisions.
+
+Subsec. (e). Pub. L. 111–13, §1311(3), substituted “subsections (d) and (e) of section 12581” for “subsections (a) and (d)(1) of section 12581” in introductory provisions.
+
+Subsec. (f). Pub. L. 111–13, §1311(6), added subsec. (f). Former subsec. (f) redesignated (g).
+
+Subsec. (f)(1). Pub. L. 111–13, §1311(4)(A), substituted “section 12581(e)” for “section 12581(a)(1)”.
+
+Subsec. (f)(3). Pub. L. 111–13, §1311(4)(B), substituted “section 12581(e)” for “section 12581(a)” and “section 12581(f) of this title” for “paragraph (3) of such subsection”.
+
+Subsec. (g). Pub. L. 111–13, §1311(5), redesignated subsec. (f) as (g).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 

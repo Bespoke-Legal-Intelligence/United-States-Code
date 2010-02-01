@@ -32,11 +32,11 @@ This section shall apply to—
 
 (4) Longevity compensation shall be payable on and after the first day of the first month following completion of each period of creditable service upon which such compensation is based.
 
-(Pub. L. 87–730, §106(a), (b), (d), Oct. 2, 1962, 76 Stat. 694, 695; Pub. L. 88–454, §104(b), Aug. 20, 1964, 78 Stat. 550; Pub. L. 90–57, §105(g), July 28, 1967, 81 Stat. 143; Pub. L. 90–206, title II, §214(n), Dec. 16, 1967, 81 Stat. 637; Pub. L. 91–656, §4, Jan. 8, 1971, 84 Stat. 1952; Pub. L. 93–371, Aug. 13, 1974, 88 Stat. 436; Pub. L. 95–240, title II, §205, Mar. 7, 1978, 92 Stat. 117; Pub. L. 95–391, title I, §110(a), Sept. 30, 1978, 92 Stat. 774; Pub. L. 96–304, title I, §107(b), July 8, 1980, 94 Stat. 890.)
+(Pub. L. 87–730, §106(a), (b), (d), Oct. 2, 1962, 76 Stat. 694, 695; Pub. L. 88–454, §104(b), Aug. 20,1964, 78 Stat. 550; Pub. L. 90–57, §105(g), July 28, 1967, 81 Stat. 143; Pub. L. 90–206, title II, §214(n), Dec. 16, 1967, 81 Stat. 637; Pub. L. 91–656, §4, Jan. 8, 1971, 84 Stat. 1952; Pub. L. 93–371, Aug. 13, 1974, 88 Stat. 436; Pub. L. 95–240, title II, §205, Mar. 7, 1978, 92 Stat. 117; Pub. L. 95–391, title I, §110(a), Sept. 30, 1978, 92 Stat. 774; Pub. L. 96–304, title I, §107(b), July 8, 1980, 94 Stat. 890.)
 
 #### Inapplicability of Section to Certain Employees On and After October 1, 1983
 
-<i>This section not to apply, on or after Oct. 1, 1983, to any individual whose pay is disbursed</i><i>by the Secretary of the Senate except for individuals entitled to longevity compensation prior to Oct. 1, 1983, on the basis of service performed prior to such date, see section 60j–4 of this title.</i>
+<i>This section not to apply, on or after Oct. 1, 1983, to any individual whose pay is disbursed by the Secretary of the Senate except for individuals entitled to longevity compensation prior to Oct. 1, 1983, on the basis of service performed prior to such date, see section 60j–4 of this title.</i>
 
 #### References in Text
 

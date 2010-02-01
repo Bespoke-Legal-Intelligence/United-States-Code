@@ -24,7 +24,7 @@ Congress finds the following:
 
 &emsp;(9) Due to the ongoing military campaign in Afghanistan, the United States does not contribute troops to the International Security Assistance Force but has provided support to other countries that are doing so.
 
-&emsp;(10) The United States is providing political, financial, training, and other assistance to the Afghan Interim Authority as it begins to build a national army and police force to help provide security throughout Afghanistan, but this effort is not meeting the immediate security needs of Afghanistan.
+&emsp;(10) The United States is providing political, financial, training, and other assistance to theAfghan Interim Authority as it begins to build a national army and police force to help provide security throughout Afghanistan, but this effort is not meeting the immediate security needs of Afghanistan.
 
 &emsp;(11) Because of these immediate security needs, the Government of Afghanistan, its President, Hamid Karzai, and many Afghan regional leaders have called for the International Security Assistance Force, which has successfully brought stability to Kabul, to be expanded and deployed throughout the country, and this request has been strongly supported by a wide range of international humanitarian organizations, including the International Committee of the Red Cross, Catholic Relief Services, and Refugees International.
 

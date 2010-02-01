@@ -6,7 +6,7 @@ The President shall have power to fill all vacancies that may happen on the Boar
 
 #### Codification
 
-Section is comprised of fifth par. of section 10 of act Dec. 23, 1913. For classification to this title of otherpars. of section 10, see Codification note set out under section 241 of this title.
+Section is comprised of fifth par. of section 10 of act Dec. 23, 1913. For classification to this title of other pars. of section 10, see Codification note set out under section 241 of this title.
 
 #### Change of Name
 

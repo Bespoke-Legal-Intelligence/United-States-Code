@@ -8,7 +8,7 @@ The barge canal project located between the Gulf of Mexico and the Atlantic Ocea
 
 Notwithstanding any other provision of law, the Secretary is, subject to the provisions of subsections (d) and (e) of this section, directed to transfer to the State all lands and interests in lands acquired by the Secretary and facilities completed for the project in subsection (a) of this section, without consideration, if the State agrees to each of the following:
 
-&emsp;(1) The State shall agree to hold the United States harmless from all claims arising from or through the operations of the lands and facilities conveyed by the United States.
+&emsp;(1) The State shall agree to hold the United States harmless from all claims arising fromor through the operations of the lands and facilities conveyed by the United States.
 
 &emsp;(2) The State shall agree to preserve and maintain a greenway corridor which shall be open to the public for compatible recreation and conservation activities and which shall be continuous, except for areas referred to in subparagraphs (A) and (C) of this paragraph, along the project route over lands acquired by the Secretary or by the State or State Canal Authority, or lands acquired along the project route in the future by the State or State Canal Authority, to the maximum width possible, as determined in the management plan to be developed by the State for former project lands. Such greenway corridor shall not be less than 300 yards wide, except for the following areas:
 

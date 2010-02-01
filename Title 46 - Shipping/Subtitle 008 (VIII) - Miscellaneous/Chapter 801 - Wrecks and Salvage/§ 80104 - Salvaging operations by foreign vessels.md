@@ -18,7 +18,7 @@ Operations Authorized by Treaty.—This section does not prohibit or restrict as
 
 &emsp;(1) article II of the Treaty between the United States and Great Britain concerning reciprocal rights for United States and Canada in the conveyance of prisoners and wrecking and salvage, signed at Washington, May 18, 1908 (35 Stat. 2036); or
 
-&emsp;(2) the Treaty between the United States of America and Mexico to facilitate assistance toand salvage of vessels in territorial waters, signed at Mexico City, June 13, 1935 (49 Stat. 3359).
+&emsp;(2) the Treaty between the United States of America and Mexico to facilitate assistance to and salvage of vessels in territorial waters, signed at Mexico City, June 13, 1935 (49 Stat. 3359).
 
 (Pub. L. 109–304, §11, Oct. 6, 2006, 120 Stat. 1691.)
 

@@ -4,7 +4,7 @@ The employees of the Department shall constitute a single and separate worldwide
 
 &emsp;(1) employees engaged in personnel work in other than a purely clerical capacity; and
 
-&emsp;(2) employees engaged in criminal or national security investigations or who audit thework of individuals to insure that their functions are discharged honestly and with integrity.
+&emsp;(2) employees engaged in criminal or national security investigations or who audit the work of individuals to insure that their functions are discharged honestly and with integrity.
 
 (Pub. L. 96–465, title I, §1012, Oct. 17, 1980, 94 Stat. 2135.)
 

@@ -6,7 +6,7 @@ The Secretary may provide that a person shall be ineligible for participation in
 
 #### (b) Vegetable oil
 
-A person shall be ineligible for participation in any of the export programs referred to in subsection (a) of this section with respect to the export of vegetable oil or a vegetable oil product that has been or will be used as the basis for a claim of a refund, as a drawback, pursuant to section 1313 of title 19, of any duty, tax, or fee imposed under Federal law on an imported commodity or product.
+A person shall be ineligible for participation in any of the export programs referred to in subsection (a) of this section with respect to the export of vegetable oil or a vegetable oil productthat has been or will be used as the basis for a claim of a refund, as a drawback, pursuant to section 1313 of title 19, of any duty, tax, or fee imposed under Federal law on an imported commodity or product.
 
 #### (c) Certification
 

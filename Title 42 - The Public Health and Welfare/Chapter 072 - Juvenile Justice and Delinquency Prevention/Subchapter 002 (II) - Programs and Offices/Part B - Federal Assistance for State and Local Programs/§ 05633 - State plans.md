@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-In order to receive formula grants under this part, a State shall submit a plan for carrying out its purposes applicable to a 3-year period. Such plan shall be amended annually to include new programs, projects, and activities. The State shall submit annual performance reports to the Administrator which shall describe progress in implementing programs contained in the original plan, and shall describe the status of compliance with State plan requirements. In accordance with regulations which the Administrator shall prescribe, such plan shall—
+In order to receive formula grants under this part, a State shall submit a plan for carrying out its purposes applicable to a 3-year period. Such plan shall be amended annually to include new programs, projects, and activities. The State shall submit annual performance reports to the Administrator which shall describe progress in implementing programs contained in the original plan, and shall describe the statusof compliance with State plan requirements. In accordance with regulations which the Administrator shall prescribe, such plan shall—
 
 &emsp;(1) designate the State agency described in section 5671(c)(1) of this title as the sole agency for supervising the preparation and administration of the plan;
 
@@ -144,7 +144,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;(i) encourage courts to develop and implement a continuum of post-adjudication restraints that bridge the gap between traditional probation and confinement in a correctional setting (including expanded use of probation, mediation, restitution, community service, treatment, home detention, intensive supervision, electronic monitoring, and similar programs, and secure community-based treatment facilities linked to other support services such as health, mental health, education (remedial and special), job training, and recreation); and
 
-&emsp;&emsp;&emsp;(ii) assist in the provision by the provision <sup>4</sup> by the Administrator of informationand technical assistance, including technology transfer, to States in the design and utilization of risk assessment mechanisms to aid juvenile justice personnel in determining appropriate sanctions for delinquent behavior;
+&emsp;&emsp;&emsp;(ii) assist in the provision by the provision <sup>4</sup> by the Administrator of information and technical assistance, including technology transfer, to States in the design and utilization of risk assessment mechanisms to aid juvenile justice personnel in determining appropriate sanctions for delinquent behavior;
 
 &emsp;&emsp;(M) community-based programs and services to work with juveniles, their parents, and other family members during and after incarceration in order to strengthen families so that such juveniles may be retained in their homes;
 
@@ -220,7 +220,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;&emsp;(III) is located where conditions of safety exist (such as severe adverse, life-threatening weather conditions that do not allow for reasonably safe travel), in which case the time for an appearance may be delayed until 24 hours after the time that such conditions allow for reasonable safe travel;
 
-&emsp;(14) provide for an adequate system of monitoring jails, detention facilities, correctionalfacilities, and non-secure facilities to insure that the requirements of paragraphs (11), (12), and (13) are met, and for annual reporting of the results of such monitoring to the Administrator, except that such reporting requirements shall not apply in the case of a State which is in compliance with the other requirements of this paragraph, which is in compliance with the requirements in paragraphs (11) and (12), and which has enacted legislation which conforms to such requirements and which contains, in the opinion of the Administrator, sufficient enforcement mechanisms to ensure that such legislation will be administered effectively;
+&emsp;(14) provide for an adequate system of monitoring jails, detention facilities, correctional facilities, and non-secure facilities to insure that the requirements of paragraphs (11), (12), and (13) are met, and for annual reporting of the results of such monitoring to the Administrator, except that such reporting requirements shall not apply in the case of a State which is in compliance with the other requirements of this paragraph, which is in compliance with the requirements in paragraphs (11) and (12), and which has enacted legislation which conforms to such requirements and which contains, in the opinion of the Administrator, sufficient enforcement mechanisms to ensure that such legislation will be administered effectively;
 
 &emsp;(15) provide assurance that youth in the juvenile justice system are treated equitably on the basis of gender, race, family income, and disability;
 
@@ -324,7 +324,7 @@ Notwithstanding any other provision of law, the Administrator shall establish ap
 
 &emsp;&emsp;(E) advising the President and Congress with regard to State perspectives on the operation of the Office and Federal legislation pertaining to juvenile justice and delinquency prevention.
 
-(Pub. L. 93–415, title II, §223, Sept. 7, 1974, 88 Stat. 1119; Pub. L. 94–503, title I, §130(b), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, §§3(a)(3)(B), 4(c)(1)–(15), Oct. 3, 1977, 91 Stat. 1048, 1051–1054; Pub. L. 96–509, §§11, 19(g), Dec. 8, 1980, 94 Stat. 2755, 2764; Pub. L. 98–473, title II, §626, Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §§7258, 7263(b)(1), Nov. 18, 1988, 102 Stat. 4439, 4447; Pub. L. 102–586, §2(f)(3)(A), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 103–322, title XI, §110201(d), Sept. 13, 1994, 108 Stat. 2012; Pub. L. 104–294, titleVI, §604(b)(28), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(C)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §142\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 107–273, div. C, title II, §12209, Nov. 2, 2002, 116 Stat. 1873; Pub. L. 109–162, title III, §305, Jan. 5, 2006, 119 Stat. 3016.)
+(Pub. L. 93–415, title II, §223, Sept. 7, 1974, 88 Stat. 1119; Pub. L. 94–503, title I, §130(b), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, §§3(a)(3)(B), 4(c)(1)–(15), Oct. 3, 1977, 91 Stat. 1048, 1051–1054; Pub. L. 96–509, §§11, 19(g), Dec. 8, 1980, 94 Stat. 2755, 2764; Pub. L. 98–473, title II, §626, Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §§7258, 7263(b)(1), Nov. 18, 1988, 102 Stat. 4439, 4447; Pub. L. 102–586, §2(f)(3)(A), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 103–322, title XI, §110201(d), Sept. 13, 1994, 108 Stat. 2012; Pub. L. 104–294, title VI, §604(b)(28), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(C)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §142\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 107–273, div. C, title II, §12209, Nov. 2, 2002, 116 Stat. 1873; Pub. L. 109–162, title III, §305, Jan. 5, 2006, 119 Stat. 3016.)
 
 #### References in Text
 
@@ -432,7 +432,7 @@ Subsec. (a)(12). Pub. L. 107–273, §12209(1)(S), redesignated par. (13) as (12
 
 Pub. L. 107–273, §12209(1)(I), amended par. (12) generally. Prior to amendment, par. (12) read as follows:
 
-“(A) provide within three years after submission of the initial plan that juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult or offenses (other than an offense that constitutes a violation of a valid court order or a violation of section 922(x) of title 18 or a similar State law), or alien juveniles in custody, or such nonoffenders as dependent or neglected children, shall not be placed in secure detention facilities or secure correctional facilities; and
+“(A) provide within three years after submission of the initial plan that juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult or offenses (other than an offense that constitutes a violation of a valid court order or a violation of section 922(x) of title 18 or asimilar State law), or alien juveniles in custody, or such nonoffenders as dependent or neglected children, shall not be placed in secure detention facilities or secure correctional facilities; and
 
 “(B) provide that the State shall submit annual reports to the Administrator containing a review of the progress made by the State to achieve the deinstitutionalization of juveniles described in subparagraph (A) and a review of the progress made by the State to provide that such juveniles, if placed in facilities, are placed in facilities which (i) are the least restrictive alternatives appropriate to the needs of the child and the community; (ii) are in reasonable proximity to the family and the home communities of such juveniles; and (iii) provide the services described in section 5603(1) of this title;”.
 
@@ -540,7 +540,7 @@ Subsec. (a)(10). Pub. L. 105–277, §101(b) \[title I, §129(a)(2)(C)(iv)\], su
 
 Subsec. (a)(1). Pub. L. 102–586, §2(f)(3)(A)(i)(II), made technical amendment to reference to section 5671 of this title to reflect renumbering of corresponding section of original act.
 
-Subsec. (a)(3). Pub. L. 102–586, §2(f)(3)(A)(i)(III), amended par. (3) generally, revising and restating assubpars. (A) to (E) provisions formerly appearing in text containing unindented subpars. (A) to (F).
+Subsec. (a)(3). Pub. L. 102–586, §2(f)(3)(A)(i)(III), amended par. (3) generally, revising and restating as subpars. (A) to (E) provisions formerly appearing in text containing unindented subpars. (A) to (F).
 
 Subsec. (a)(8). Pub. L. 102–586, §2(f)(3)(A)(i)(IV), designated existing provisions as subpar. (A), redesignated former cls. (A) to (C) as (i) to (iii), respectively, inserted “(including educational needs)” after “delinquency prevention needs” in two places in cl. (i), and added subpars. (B) to (D).
 
@@ -574,7 +574,7 @@ Subsec. (d). Pub. L. 102–586, §2(f)(3)(A)(iii), inserted “, excluding fund
 
 1988—Subsec. (a)(1). Pub. L. 100–690, §6263(b)(1), made technical amendment to reference to section 5671 of this title to reflect renumbering of corresponding section of original act.
 
-Subsec. (a)(5). Pub. L. 100–690, §7258(a)(1), substituted in introductory provisions “shall be expended” for “shall be expended through”, in subpar. (A) substituted “through programs” for “programs” and struck out “and” at end, in subpar. (B) substituted “through programs” for “programs” and inserted “and” after semicolon, and added subpar. (C).
+Subsec. (a)(5). Pub. L. 100–690, §7258(a)(1), substituted in introductory provisions “shall be expended” for “shall be expended through”, in subpar. (A) substituted “through programs” for “programs” and struck out“and” at end, in subpar. (B) substituted “through programs” for “programs” and inserted “and” after semicolon, and added subpar. (C).
 
 Subsec. (a)(8)(A). Pub. L. 100–690, §7258(a)(2), substituted “relevant jurisdiction (including any geographical area in which an Indian tribe performs law enforcement functions)” for “relevant jurisdiction” and “juvenile crime problems (including the joining of gangs that commit crimes)” for “juvenile crime problems” in two places.
 
@@ -768,7 +768,7 @@ Section 4(c)(6)(B) of Pub. L. 95–115 provided in part that the amendment of su
 
 #### Savings Provision
 
-Section 2(f)(3)(B) of Pub. L. 102–586 provided that: “Notwithstanding the amendment made by subparagraph (A)(ii) \[amending this section\], section 223(c)(3) of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5633(c)(3)), as in effect on the day prior to the date of enactment of this Act \[Nov. 4, 1992\], shall remain in effect to the extent that it provides the Administrator authority to grant a waiver with respect to a fiscal year prior to a fiscal year beginning before January 1, 1993.” On the day prior to Nov. 4, 1992, subsec. (c)(3) of this section read as follows: “Except as provided in paragraph (2), failure to achieve compliance with the requirements of subsection (a)(14) of this section after December 8, 1985, shall terminate any State's eligibility for funding under this part unless the Administrator waives the termination of the State's eligibility on the condition that the State agrees to expend all of the funds to be received under this part by the State (excluding funds required to be expended to comply with subsections (c) and (d) of section 5632 of this title and with subsection (a)(5)(C) of this section), only to achieve compliance with subsection (a)(14) of this section.”
+Section 2(f)(3)(B) of Pub. L. 102–586 provided that: “Notwithstanding the amendment made by subparagraph (A)(ii) \[amending this section\], section 223(c)(3) of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5633(c)(3)), as in effect on the day prior to the date of enactment of this Act \[Nov. 4, 1992\], shall remain in effect to the extent that it provides the Administrator authority to grant a waiver with respect to a fiscal year prior to a fiscal year beginning before January 1, 1993.” On the day prior to Nov. 4, 1992, subsec. (c)(3) of this section read as follows: “Except as provided in paragraph (2), failure to achieve compliance with the requirements of subsection (a)(14) of this section after December 8, 1985, shall terminate any State's eligibility for funding under this part unless the Administrator waives the termination of the State's eligibility on the condition that the State agrees to expendall of the funds to be received under this part by the State (excluding funds required to be expended to comply with subsections (c) and (d) of section 5632 of this title and with subsection (a)(5)(C) of this section), only to achieve compliance with subsection (a)(14) of this section.”
 
 #### Termination of Advisory Committees
 

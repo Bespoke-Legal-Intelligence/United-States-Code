@@ -2,7 +2,7 @@
 
 #### (a) Necessity of transfer; limitations
 
-Whenever the President determines it to be necessary for the purposes of this chapter, not to exceed 10 per centum of the funds made available for any provision of this chapter (except funds made available pursuant to subpart IV of part II of subchapter I of this chapter or for section 2763 of this title) may be transferred to, and consolidated with, the funds made available for any provision of this chapter (except funds made available under part II of subchapter II of this chapter), and may be used for any of the purposes for which such funds may be used, except that the total in the provision for the benefit ofwhich the transfer is made shall not be increased by more than 20 per centum of the amount of funds made available for such provision.
+Whenever the President determines it to be necessary for the purposes of this chapter, not to exceed 10 per centum of the funds made available for any provision of this chapter (except funds made available pursuant to subpart IV of part II of subchapter I of this chapter or for section 2763 of this title) may be transferred to, and consolidated with, the funds made available for any provision of this chapter (except funds made available under part II of subchapter II of this chapter), and may be used for any of the purposes for which such funds may be used, except that the total in the provision for the benefit of which the transfer is made shall not be increased by more than 20 per centum of the amount of funds made available for such provision.
 
 #### (b) Augmentation of other appropriations
 
@@ -24,7 +24,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 1978—Subsec. (b). Pub. L. 95–384 struck out provisions authorizing transfer and consolidation of not to exceed $9,000,000 of the funds appropriated under section 2242 of this title with the funds appropriated under section 2397(a) of this title to be available solely for additional administrative expenses incurred in connection with programs in Vietnam.
 
-1974—Subsec. (a). Pub. L. 93–559, §19(a)(1), inserted provisions excepting funds made available under part II of subchapter II of this chapter from the designation of funds subject to consolidation.
+1974—Subsec. (a). Pub. L. 93–559, §19(a)(1), inserted provisions excepting funds made available under part IIof subchapter II of this chapter from the designation of funds subject to consolidation.
 
 Subsec. (c). Pub. L. 93–559, §19(a)(2), added subsec. (c).
 

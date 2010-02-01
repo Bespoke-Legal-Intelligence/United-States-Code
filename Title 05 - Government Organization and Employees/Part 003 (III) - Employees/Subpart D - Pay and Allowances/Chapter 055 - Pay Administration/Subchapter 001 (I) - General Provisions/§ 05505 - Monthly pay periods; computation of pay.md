@@ -6,7 +6,7 @@ The pay period for an individual in the service of the United States whose pay i
 
 &emsp;(2) A day's pay is one-thirtieth of a month's pay.
 
-&emsp;(3) The 31st day of a calendar month is ignored in computing pay, except that one day's pay is forfeited for one day's unauthorized absence on the 31st day of a calendar month.
+&emsp;(3) The 31st day of a calendar month is ignored in computing pay, except that one day'spay is forfeited for one day's unauthorized absence on the 31st day of a calendar month.
 
 &emsp;(4) For each day of the month elapsing before entering the service, one day's pay is deducted from the first month's pay of the individual.
 

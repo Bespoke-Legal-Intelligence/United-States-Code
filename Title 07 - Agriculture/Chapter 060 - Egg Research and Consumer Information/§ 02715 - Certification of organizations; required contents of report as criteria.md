@@ -14,7 +14,7 @@ The eligibility of any organization to represent commercial egg producers of any
 
 &emsp;(f) Functions of the organization, and
 
-&emsp;(g) The organization's ability and willingness to further the aims and objectives of this chapter: <i>Provided, however</i>, That the primary consideration in determining the eligibility of an organization shall be whether its commercial egg producer membership consists of a substantial number of egg producers whoproduce a substantial volume of commercial eggs. The Secretary shall certify any organization which he finds to be eligible under this section and his determination as to eligibility shall be final. Where more than one organization is certified in any geographic area, such organizations may caucus to determine the area's nominations under section 2707(b) of this title.
+&emsp;(g) The organization's ability and willingness to further the aims and objectives of this chapter: <i>Provided, however</i>, That the primary consideration in determining the eligibility of an organization shall be whether its commercial egg producer membership consists of a substantial number of egg producers who produce a substantial volume of commercial eggs. The Secretary shall certify any organization which he finds to be eligible under this section and his determination as to eligibility shall be final. Where more than one organization is certified in any geographic area, such organizations may caucus to determine the area's nominations under section 2707(b) of this title.
 
 (Pub. L. 93–428, §16, Oct. 1, 1974, 88 Stat. 1178.)
 

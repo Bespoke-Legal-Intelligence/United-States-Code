@@ -6,7 +6,7 @@
 
 (b)(1) Under regulations prescribed by the Secretary of Defense, a person who is receiving an original appointment as a reserve commissioned officer (other than a commissioned warrant officer) of the Army, Navy, Air Force, or Marine Corps, or a designation in, or an assignment to, an officer category in which advanced education or training is required and who has advanced education or training, shall be credited with constructive service for such education, training, or experience, as follows:
 
-&emsp;(A) One year for each year of advanced education beyond the baccalaureate degree level, for persons appointed or designated in, or assigned to, officer categories requiring such advanced education or an advanced degree as a prerequisite for such appointment, designation, or assignment. In determining the number of years of constructive service to be credited under this subparagraph to officers in any professional field, the Secretary concerned shall credit an officer with, but with not more than, the number of years of advanced education required by a majority of institutions that award degrees in that professional field for completion of the advanced education or award of the advanced degree.
+&emsp;(A) One year for each year of advanced education beyond the baccalaureate degree level, for persons appointed or designated in, or assigned to, officer categories requiring such advanced education or an advanced degree as a prerequisite for such appointment, designation, or assignment. In determining the number of years of constructive service to be credited under this subparagraph to officers in any professional field, the Secretary concerned shall credit an officer with, but with not more than, the number of years of advanced education required by a majority of institutionsthat award degrees in that professional field for completion of the advanced education or award of the advanced degree.
 
 &emsp;(B)(i) Credit for any period of advanced education in a health profession (other than medicine and dentistry) beyond the baccalaureate degree level which exceeds the basic education criteria for such appointment, designation, or assignment, if such advanced education will be directly used by the armed force concerned.
 
@@ -50,7 +50,7 @@
 
 &emsp;(3) service in grade for promotion eligibility.
 
-(f) The grade and position on the reserve active-status list of a person receiving an appointment as a reserve officer who at the time of appointment is credited with service under this section shall be determined under regulations prescribed by the Secretary of Defense based upon the amount of service credited.
+(f) The grade and position on the reserve active-status list of a person receiving an appointment as a reserve officer who at the time of appointment is credited with service under thissection shall be determined under regulations prescribed by the Secretary of Defense based upon the amount of service credited.
 
 (Added §596b and renumbered §12207, Pub. L. 103–337, div. A, title XVI, §§1634, 1662(c)(2), Oct. 5, 1994, 108 Stat. 2965, 2990; amended Pub. L. 109–163, div. A, title V, §515(b)(1)(LL), Jan. 6, 2006, 119 Stat. 3234; Pub. L. 110–181, div. A, title V, §512, Jan. 28, 2008, 122 Stat. 98.)
 

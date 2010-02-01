@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) file a complaint or make recommendations for disciplinary action under section 1215;
 
-&emsp;(3) receive, review, and, where appropriate, forward to the Attorney General or an agencyhead under section 1213, disclosures of violations of any law, rule, or regulation, or gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
+&emsp;(3) receive, review, and, where appropriate, forward to the Attorney General or an agency head under section 1213, disclosures of violations of any law, rule, or regulation, or gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
 
 &emsp;(4) review rules and regulations issued by the Director of the Office of Personnel Management in carrying out functions under section 1103 and, where the Special Counsel finds that any such rule or regulation would, on its face or as implemented, require the commission of a prohibited personnel practice, file a written complaint with the Board; and
 
@@ -70,7 +70,7 @@ Section 13 of Pub. L. 103–424 provided that:
 
 “(a)
 
-In General.—The Office of Special Counsel shall, after consulting with the Office of Policy and Evaluation of the Merit Systems Protection Board, conductan annual survey of all individuals who contact the Office of Special Counsel for assistance. The survey shall—
+In General.—The Office of Special Counsel shall, after consulting with the Office of Policy and Evaluation of the Merit Systems Protection Board, conduct an annual survey of all individuals who contact the Office of Special Counsel for assistance. The survey shall—
 
 &emsp;“(1) determine if the individual seeking assistance was fully apprised of their rights;
 

@@ -200,7 +200,7 @@ In carrying out the FAST program under this section, the Administrator shall coo
 
 #### (2) Report
 
-&emsp;During the first quarter of fiscal year 2004, the Inspector General of the Administration shall submit a report to the Committee on Small Business of the Senate and the Committee on Science and the Committee on Small Business of the House of Representatives on the review conducted under paragraph (1).
+&emsp;During the first quarter of fiscal year 2004, the Inspector General of the Administration shall submit a report to the Committee on Small Business of the Senate and the Committee on Science and the Committee on SmallBusiness of the House of Representatives on the review conducted under paragraph (1).
 
 #### (h) Program levels
 

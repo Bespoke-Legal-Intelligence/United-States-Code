@@ -34,7 +34,7 @@ The Director of the Institute shall coordinate the activities of the Director un
 
 &emsp;(C) The Director of the Institute shall submit any revisions of the plan to the President's Cancer Panel, the Secretary, and the Director of NIH.
 
-&emsp;(D) The Secretary shall provide a copy of the plan submitted under subparagraph (A), andany revisions submitted under subparagraph (C), to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
+&emsp;(D) The Secretary shall provide a copy of the plan submitted under subparagraph (A), and any revisions submitted under subparagraph (C), to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
 
 #### (d) Other cancers
 

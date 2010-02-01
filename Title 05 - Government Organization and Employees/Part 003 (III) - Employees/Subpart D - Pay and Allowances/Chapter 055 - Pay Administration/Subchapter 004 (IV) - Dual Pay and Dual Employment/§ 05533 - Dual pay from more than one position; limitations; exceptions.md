@@ -6,7 +6,7 @@
 
 (c)(1) Unless otherwise authorized by law and except as otherwise provided by paragraph (2) or (4) of this subsection, appropriated funds are not available for payment to an individual of pay from more than one position if the pay of one of the positions is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, or one of the positions is under the Office of the Architect of the Capitol, and if the aggregate gross pay from the positions exceeds $7,724 a year ($10,540, in the case of pay disbursed by the Secretary of the Senate).
 
-(2) Notwithstanding paragraph (1) of this subsection, appropriated funds are not available for payment to an individual of pay from more than one position, for each of which the pay is disbursed by the Chief Administrative Officer of the House of Representatives, if the aggregate gross pay from those positions exceeds the maximum per annum gross rate of pay authorized to be paid to an employee out of the clerk hire allowance of a Member of the House.
+(2) Notwithstanding paragraph (1) of this subsection, appropriated funds are not available forpayment to an individual of pay from more than one position, for each of which the pay is disbursed by the Chief Administrative Officer of the House of Representatives, if the aggregate gross pay from those positions exceeds the maximum per annum gross rate of pay authorized to be paid to an employee out of the clerk hire allowance of a Member of the House.
 
 (3) For the purposes of this subsection, “gross pay” means the annual rate of pay (or equivalent thereof in the case of an individual paid on other than an annual basis) received by an individual.
 
@@ -104,7 +104,7 @@ Subsec. (e). Pub. L. 93–140 designated existing provisions as par. (1) and add
 
 “(B) the pay of each such position is fixed at a basic rate plus additional compensation authorized by law, and the aggregate basic pay of the positions exceeds $2,000 a year”.
 
-Subsec. (c)(2). Pub. L. 91–510 substituted provision making appropriated funds unavailable for payment to an individual of pay from more than one position, for each of which pay is disbursed by the Clerk of the House, if the aggregate gross pay from those positions exceeds the maximum per annum gross rate of pay authorized to be paid to an employee out of clerk hire allowance of a Member of the House for definition of “gross pay”, now incorporated in cl. (3).
+Subsec. (c)(2). Pub. L. 91–510 substituted provision making appropriated funds unavailable for payment to an individual of pay from more than one position, foreach of which pay is disbursed by the Clerk of the House, if the aggregate gross pay from those positions exceeds the maximum per annum gross rate of pay authorized to be paid to an employee out of clerk hire allowance of a Member of the House for definition of “gross pay”, now incorporated in cl. (3).
 
 Subsec. (c)(3). Pub. L. 91–510 redesignated former cl. (2) as (3) and deleted provision which included in gross pay of an individual receiving basic pay plus additional compensation provided by law the aggregate amount received as basic and additional compensation, but excluded sums received as premium pay under subchapter V of this chapter.
 
@@ -135,6 +135,8 @@ Amendment by Pub. L. 90–57, effective Aug. 1, 1967, see section 105(k) of Pub.
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Increase in Compensation of Individuals Whose Pay is Disbursed by Secretary of Senate
+
+2010—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2010, to the figure “$33,003”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 5, 2010, set out as a note under section 60a–1 of Title 2, The Congress.
 
 2009—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2009, to the figure “$32,515”, see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 12, 2009, set out as a note under section 60a–1 of Title 2, The Congress.
 

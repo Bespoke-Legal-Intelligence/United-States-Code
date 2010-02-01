@@ -18,7 +18,7 @@ From the amount described in section 629f(a) of this title for any fiscal year t
 
 #### (A) In general
 
-&emsp;&emsp;As used in paragraph (1) of this subsection, the term “supplemental nutrition assistance program benefits percentage” means, with respect to a State and a fiscal year, the average monthly number of children receiving supplemental nutrition assistance programbenefits benefits <sup>2</sup> in the State for months in the 3 fiscal years referred to in subparagraph (B) of this paragraph, as determined from sample surveys made under section 2025(c) of title 7, expressed as a percentage of the average monthly number of children receiving supplemental nutrition assistance program benefits benefits <sup>2</sup> in the States described in such paragraph (1) for months in such 3 fiscal years, as so determined.
+&emsp;&emsp;As used in paragraph (1) of this subsection, the term “supplemental nutrition assistance program benefits percentage” means, with respect to a State and a fiscal year, the average monthly number of children receiving supplemental nutrition assistance program benefits benefits <sup>2</sup> in the State for months in the 3 fiscal years referred to in subparagraph (B) of this paragraph, as determined from sample surveys made under section 2025(c) of title 7, expressed as a percentage of the average monthly number of children receiving supplemental nutrition assistance program benefits benefits <sup>2</sup> in the States described in such paragraph (1) for months in such 3 fiscal years, as so determined.
 
 #### (B) Fiscal years used in calculation
 
@@ -32,7 +32,7 @@ The amount of any allotment to a State under subsection (a), (b), or (c) of this
 
 #### (1) Territories
 
-&emsp;From the amount reserved pursuant to section 629f(b)(4)(A) of this title for any fiscal year, the Secretary shall allot to each jurisdiction specified in subsection (b) of this section, that has provided to the Secretary such documentation as may be necessary to verify that the jurisdiction has complied with section 629f(b)(4)(B)(ii) of this title during the fiscal year, an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title (without regard to the initial allotment of $70,000 to each State).
+&emsp;From the amount reserved pursuant to section 629f(b)(4)(A) of this title for any fiscal year, the Secretary shall allot to each jurisdiction specified in subsection (b) of this section, that has provided to the Secretary suchdocumentation as may be necessary to verify that the jurisdiction has complied with section 629f(b)(4)(B)(ii) of this title during the fiscal year, an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title (without regard to the initial allotment of $70,000 to each State).
 
 #### (2) Other States
 

@@ -4,7 +4,7 @@ The Congress finds and declares that—
 
 &emsp;(a) extraction of coal and other minerals from the earth can be accomplished by various methods of mining, including surface mining;
 
-&emsp;(b) coal mining operations presently contribute significantly to the Nation's energy requirements; surface coal mining constitutes one method of extraction of the resource; the overwhelming percentage of the Nation's coalreserves can only be extracted by underground mining methods, and it is, therefore, essential to the national interest to insure the existence of an expanding and economically healthy underground coal mining industry;
+&emsp;(b) coal mining operations presently contribute significantly to the Nation's energy requirements; surface coal mining constitutes one method of extraction of the resource; the overwhelming percentage of the Nation's coal reserves can only be extracted by underground mining methods, and it is, therefore, essential to the national interest to insure the existence of an expanding and economically healthy underground coal mining industry;
 
 &emsp;(c) many surface mining operations result in disturbances of surface areas that burden and adversely affect commerce and the public welfare by destroying or diminishing the utility of land for commercial, industrial, residential, recreational, agricultural, and forestry purposes, by causing erosion and landslides, by contributing to floods, by polluting the water, by destroying fish and wildlife habitats, by impairing natural beauty, by damaging the property of citizens, by creating hazards dangerous to life and property by degrading the quality of life in local communities, and by counteracting governmental programs and efforts to conserve soil, water, and other natural resources;
 

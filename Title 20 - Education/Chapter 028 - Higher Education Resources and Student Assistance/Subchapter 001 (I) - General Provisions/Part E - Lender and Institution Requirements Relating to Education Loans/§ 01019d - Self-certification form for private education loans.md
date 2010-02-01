@@ -20,15 +20,11 @@ The Secretary, in consultation with the Board of Governors of the Federal Reserv
 
 &emsp;(4) include a place to provide information on—
 
-&emsp;&emsp;(A) the applicant's cost of attendance at the institution of higher education, as determined by the institution under Part <sup>1</sup> E of subchapter IV;
+&emsp;&emsp;(A) the applicant's cost of attendance at the institution of higher education, as determined by the institution under part E of subchapter IV;
 
-&emsp;&emsp;(B) the applicant's expected family contribution, as determined under Part <sup>1</sup> E of subchapter IV, as applicable, for students who have completed the free application for Federal student aid;
+&emsp;&emsp;(B) the applicant's estimated financial assistance, including amounts of financial assistance used to replace the expected family contribution, as determined by the institution, in accordance with subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, for students who have completed the Free Application for Federal Student Aid; and
 
-&emsp;&emsp;(C) the applicant's estimated financial assistance, as determined by the institution, in accordance with subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, as applicable;
-
-&emsp;&emsp;(D) the difference between the amounts under subparagraphs (A) and (C), as applicable; and
-
-&emsp;&emsp;(E) the sum of the amounts under subparagraphs (B) and (D), as applicable; and
+&emsp;&emsp;(C) the difference between the amounts under subparagraphs (A) and (B), as applicable; and
 
 &emsp;(5) include a place for the applicant's signature, in written or electronic form.
 
@@ -36,5 +32,23 @@ The Secretary, in consultation with the Board of Governors of the Federal Reserv
 
 Nothing in this section shall be construed to create a private right of action against an institution of higher education with respect to the form developed under subsection (a).
 
-(Pub. L. 89–329, title I, §155, as added Pub. L. 110–315, title X, §1021(b), Aug. 14, 2008, 122 Stat. 3487.)
+(Pub. L. 89–329, title I, §155, as added Pub. L. 110–315, title X, §1021(b), Aug. 14, 2008, 122 Stat. 3487; amended Pub. L. 111–39, title I, §101(b)(7), July 1, 2009, 123 Stat. 1935.)
+
+#### Amendments
+
+2009—Subsec. (a)(4). Pub. L. 111–39 added par. (4) and struck out former par. (4) which read as follows: “include a place to provide information on—
+
+&emsp;“(A) the applicant's cost of attendance at the institution of higher education, as determined by the institution under Part E of subchapter IV;
+
+&emsp;“(B) the applicant's expected family contribution, as determined under Part E of subchapter IV, as applicable, for students who have completed the free application for Federal student aid;
+
+&emsp;“(C) the applicant's estimated financial assistance, as determined by the institution, in accordance with subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, as applicable;
+
+&emsp;“(D) the difference between the amounts under subparagraphs (A) and (C), as applicable; and
+
+&emsp;“(E) the sum of the amounts under subparagraphs (B) and (D), as applicable; and”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

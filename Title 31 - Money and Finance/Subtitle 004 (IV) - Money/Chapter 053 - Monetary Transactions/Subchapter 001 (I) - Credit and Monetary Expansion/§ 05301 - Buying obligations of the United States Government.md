@@ -1,6 +1,6 @@
 ### §5301. Buying obligations of the United States Government
 
-(a) The President may direct the Secretary of the Treasury to make an agreement with the Federal reserve banks and the Board of Governors of the Federal Reserve System when the President decides that the foreign commerce of the United States is affected adversely because—
+(a) The President may direct the Secretary of the Treasury to make an agreement with the Federal reserve banks and the Board of Governors of the Federal Reserve System when thePresident decides that the foreign commerce of the United States is affected adversely because—
 
 &emsp;(1) the value of coins and currency of a foreign country compared to the present standard value of gold is depreciating;
 
@@ -52,7 +52,7 @@ Pub. L. 108–458, title VI, §6201, Dec. 17, 2004, 118 Stat. 3745, provided tha
 
 #### Short Title of 2001 Amendment
 
-Pub. L. 107–56, title III, §301, Oct. 26, 2001, 115 Stat. 296, provided that: “This title \[enacting sections 310, 5318A, 5331, and 5332 of this title, section 1681v of Title 15, Commerce and Trade, and section 262p–4r of Title 22, Foreign Relations and Intercourse, amending sections 5311, 5312, 5317, 5318, 5319, 5321, 5322, 5324, 5326, 5328, 5330, and 5341 of this title, sections 248, 1828, 1829b, 1842, 1953, 3412, 3414, and 3420 of Title 12, Banks and Banking, section 1681u of Title 15, sections 470 to 474, 476 to 484, 493, 981 to 983, 1029, 1956, and 1960 of Title 18, Crimes and Criminal Procedure, section 853 of Title 21, Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, renumbering former section 310 of this title as section 311, and enacting provisions set out as notes under sections 310, 5311, 5313, 5314, 5318,5331, and 5332 of this title, sections 1828, 1829b, and 1842 of Title 12, and section 983 of Title 18\] may be cited as the ‘International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001’.”
+Pub. L. 107–56, title III, §301, Oct. 26, 2001, 115 Stat. 296, provided that: “This title \[enacting sections 310, 5318A, 5331, and 5332 of this title, section 1681v of Title 15, Commerce and Trade, and section 262p–4r of Title 22, Foreign Relations and Intercourse, amending sections 5311, 5312, 5317, 5318, 5319, 5321, 5322, 5324, 5326, 5328, 5330, and 5341 of this title, sections 248, 1828, 1829b, 1842, 1953, 3412, 3414, and 3420 of Title 12, Banks and Banking, section 1681u of Title 15, sections 470 to 474, 476 to 484, 493, 981 to 983, 1029, 1956, and 1960 of Title 18, Crimes and Criminal Procedure, section 853 of Title 21, Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, renumbering former section 310 of this title as section 311, and enacting provisions set out as notes under sections 310, 5311, 5313, 5314, 5318, 5331, and 5332 of this title, sections 1828, 1829b, and 1842 of Title 12, and section 983 of Title 18\] may be cited as the ‘International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001’.”
 
 #### Short Title of 1998 Amendment
 

@@ -20,7 +20,7 @@ In consultation with the Secretary of Agriculture, the Administrator of the Envi
 
 #### (b) Consultation with States
 
-Before finalizing the assessment developed under subsection (a), the Secretary shall solicit comments from States with identified rural water needs.
+Before finalizing the assessment developed under subsection (a), the Secretary shall solicitcomments from States with identified rural water needs.
 
 #### (c) Report
 

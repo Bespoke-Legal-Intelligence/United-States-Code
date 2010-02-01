@@ -26,7 +26,7 @@
 
 &emsp;(1) the term “genuine police badge” means an official badge issued by public authority to identify an individual as a law enforcement officer having police powers;
 
-&emsp;(2) the term “counterfeit police badge” means an item that so resembles a police badge that it would deceive an ordinary individual into believing it was a genuine police badge; and <sup>2</sup>
+&emsp;(2) the term “counterfeit police badge” means an item that so resembles a policebadge that it would deceive an ordinary individual into believing it was a genuine police badge; and <sup>2</sup>
 
 &emsp;(3) the term “official insignia or uniform” means an article of distinctive clothing or insignia, including a badge, emblem or identification card, that is an indicium of the authority of a public employee;
 

@@ -30,7 +30,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall continue the voluntary participation of any experimental sites in existence as of July 1, 2007, unless the Secretary determines that such site's participation has not been successful in carrying out the purposes of this section. Any activities approved by the Secretary prior to such date that have not been successful in carrying out the purposes of this section shall be discontinued not later than June 30, 2009.
+&emsp;The Secretary shall continue the voluntary participation of any experimental sites in existence as of July 1, 2007, unless the Secretary determines that such site's participation has not been successful in carrying out the purposes of this section. Any experimental sites approved by the Secretary prior to such date that have not been successful in carrying out the purposes of this section shall be discontinued not later than June 30, 2010.
 
 #### (2) Report
 
@@ -52,17 +52,29 @@
 
 &emsp;&emsp;The Secretary is authorized to waive, for any institution participating as an experimental site under subparagraph (A), any requirements in this subchapter and part C of subchapter I of chapter 34 of title 42, including requirements related to the award process and disbursement of student financial aid (such as innovative delivery systems for modular or compressed courses, or other innovative systems), verification of student financial aid application data, entrance and exit interviews, or other management procedures or processes as determined in the negotiated rulemaking process under section 1098a of this title, or regulations prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, that will bias the results of the experiment, except that the Secretary shall not waive any provisions with respect to award rules (other than an award rule related to an experiment in modular or compressed schedules), grant and loan maximum award amounts, and need analysis requirements unless the waiver of such provisions is authorized by another provision under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
+#### (4) Determination of success
+
+&emsp;For the purposes of paragraph (1), the Secretary shall make a determination of success regarding an institution's participation as an experimental site based on—
+
+&emsp;&emsp;(A) the ability of the experimental site to reduce administrative burdens to the institution, as documented in the Secretary's biennial report under paragraph (2), without creating costs for the taxpayer; and
+
+&emsp;&emsp;(B) whether the experimental site has improved the delivery of services to, or otherwise benefitted, students.
+
 #### (c) “Current award year” defined
 
 For purposes of this section, the term “current award year” means the award year during which the participating institution indicates the institution's intention to cease participation.
 
-(Pub. L. 89–329, title IV, §487A, as added Pub. L. 102–325, title IV, §491, July 23, 1992, 106 Stat. 629; amended Pub. L. 105–244, title IV, §490, Oct. 7, 1998, 112 Stat. 1751; Pub. L. 110–315, title I, §103(b)(13), title IV, §494, Aug. 14, 2008, 122 Stat. 3090, 3318.)
+(Pub. L. 89–329, title IV, §487A, as added Pub. L. 102–325, title IV, §491, July 23, 1992, 106 Stat. 629; amended Pub. L. 105–244, title IV, §490, Oct. 7, 1998, 112 Stat. 1751; Pub. L. 110–315, title I, §103(b)(13), title IV, §494, Aug. 14, 2008, 122 Stat. 3090, 3318; Pub. L. 111–39, title IV, §407(b)(9), July 1, 2009, 123 Stat. 1952.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(5) and (b)(2)(C), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
+
+2009—Subsec. (b)(1). Pub. L. 111–39, §407(b)(9)(A), substituted “Any experimental sites” for “Any activities” and “June 30, 2010” for “June 30, 2009”.
+
+Subsec. (b)(4). Pub. L. 111–39, §407(b)(9)(B), added par. (4).
 
 2008—Subsec. (a)(5). Pub. L. 110–315, §103(b)(13), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
 
@@ -85,6 +97,10 @@ Pub. L. 110–315, §494(3)(B), (C), redesignated subpar. (C) as (B) and struck 
 Subsec. (b)(3)(C). Pub. L. 110–315, §494(3)(C), redesignated subpar. (C) as (B).
 
 1998—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, section authorized a Quality Assurance Program for institutions to develop and implement systems for verifying student financial aid application data.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1998 Amendment
 

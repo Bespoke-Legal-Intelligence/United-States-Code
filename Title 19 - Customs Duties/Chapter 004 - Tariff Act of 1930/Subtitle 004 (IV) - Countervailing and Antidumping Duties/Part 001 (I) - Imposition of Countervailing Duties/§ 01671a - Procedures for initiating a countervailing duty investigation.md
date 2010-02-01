@@ -92,7 +92,7 @@ A countervailing duty investigation shall be initiated whenever the administerin
 
 #### (C) Special rule for regional industries
 
-&emsp;&emsp;If the petition alleges that the industry is a regional industry, the administering authority shall determine whether the petition has been filed by or on behalf of the industry by applying subparagraph (A) on the basis of production in the region.
+&emsp;&emsp;If the petition alleges that the industry is a regional industry, the administering authority shall determine whether the petition has been filed by or on behalf of the industryby applying subparagraph (A) on the basis of production in the region.
 
 #### (D) Polling the industry
 
@@ -116,7 +116,7 @@ The administering authority shall—
 
 &emsp;(1) notify the Commission immediately of any determination it makes under subsection (a) or (c) of this section, and
 
-&emsp;(2) if the determination is affirmative, make available to the Commission such information as it may have relating to the matter underinvestigation, under such procedures as the administering authority and the Commission may establish to prevent disclosure, other than with the consent of the party providing it or under protective order, of any information to which confidential treatment has been given by the administering authority.
+&emsp;(2) if the determination is affirmative, make available to the Commission such information as it may have relating to the matter under investigation, under such procedures as the administering authority and the Commission may establish to prevent disclosure, other than with the consent of the party providing it or under protective order, of any information to which confidential treatment has been given by the administering authority.
 
 #### (e) Information regarding critical circumstances
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1324(a)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and amendment by section 1326(d)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b), (c) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by section 1324(a)(1) of Pub. L. 100–418 applicable with respect to investigations initiated afterAug. 23, 1988, and amendment by section 1326(d)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b), (c) of Pub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Transfer of Functions
 

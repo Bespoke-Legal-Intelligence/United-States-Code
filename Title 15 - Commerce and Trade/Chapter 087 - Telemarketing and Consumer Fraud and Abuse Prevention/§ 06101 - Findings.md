@@ -36,7 +36,7 @@ Pub. L. 106–534, §2, Nov. 22, 2000, 114 Stat. 2555, provided that: “Congres
 
 &emsp;“(3) The elderly are often targeted and retargeted in a range of fraudulent schemes.
 
-&emsp;“(4) The TRIAD program, originally sponsored by the National Sheriffs’ Association, International Association of Chiefs of Police, and the American Association of Retired Persons unites sheriffs, police chiefs, senior volunteers, elder care providers, families, and seniors to reduce the criminal victimization of the elderly.
+&emsp;“(4) The TRIAD program, originally sponsored by the National Sheriffs’ Association, International Association of Chiefs of Police, and the American Association of Retired Persons unites sheriffs, policechiefs, senior volunteers, elder care providers, families, and seniors to reduce the criminal victimization of the elderly.
 
 &emsp;“(5) Congress should continue to support TRIAD and similar community partnerships that improve the safety and quality of life for millions of senior citizens.
 
@@ -68,7 +68,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to the
 
 “(b)
 
-Comptroller General.—The Comptroller General of the United States shall submit to Congress a report on the effectiveness of the TRIAD program 180days prior to the expiration of the authorization under this Act \[see Short Title of 2000 Amendment note above\], including an analysis of TRIAD programs and activities; identification of impediments to the establishment of TRIADs across the Nation; and recommendations to improve the effectiveness of the TRIAD program.”
+Comptroller General.—The Comptroller General of the United States shall submit to Congress a report on the effectiveness of the TRIAD program 180 days prior to the expiration of the authorization under this Act \[see Short Title of 2000 Amendment note above\], including an analysis of TRIAD programs and activities; identification of impediments to the establishment of TRIADs across the Nation; and recommendations to improve the effectiveness of the TRIAD program.”
 
 #### Dissemination of Information
 

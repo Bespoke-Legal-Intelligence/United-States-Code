@@ -108,7 +108,7 @@ Ex. Ord. No. 12343, Jan. 27, 1982, 47 F.R. 4225, which designated certain office
 
 Ex. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including \[former\] section 3347 of title 5, United States Code, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including \[former\] section 3347 of title 5, United States Code, it is hereby ordered as follows:
 
 Section 1. <i>Succession to the Authority of the Secretary of the Navy.</i>
 
@@ -156,7 +156,7 @@ Section 1. <i>Succession To Act as the Secretary of the Army.</i>
 
 &emsp;(1) The designation of an Acting Secretary of the Army under this subsection applies only for the duration of the Secretary's absence or disability, and does not affect the authority of the Secretary to resume the powers of the Secretary's office.
 
-&emsp;(2) When the Secretary of the Army is temporarily absent from the position, the Secretary of the Army may continue to exercise the powers and fulfill the duties of his office during his absence, notwithstanding the provisions of this order.
+&emsp;(2) When the Secretary of the Army is temporarily absent from the position, the Secretary of the Armymay continue to exercise the powers and fulfill the duties of his office during his absence, notwithstanding the provisions of this order.
 
 (c) Precedence among those officers designated in paragraph (a) of this section who have the same date of appointment shall be determined by the Secretary of the Army at the time that such appointments are made.
 
@@ -202,7 +202,7 @@ Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, which provided an order of suc
 
 #### Ex. Ord. No. 13241. Providing an Order of Succession Within the Department of Agriculture
 
-Ex. Ord. No. 13241, Dec. 18, 2001, 66 F.R. 66258, as amended by Ex. Ord. No. 13261, §4(a), Mar. 19, 2002, 67 F.R. 13243, provided:
+Ex. Ord. No. 13241, Dec. 18, 2001, 66 F.R. 66258, as amended by Ex. Ord. No. 13261, §4(a), Mar. 19, 2002, 67 F.R. 13243; Ex. Ord. No. 13484, §§1, 2, Jan. 9, 2009, 74 F.R. 2285, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including Subchapter III of Chapter 33 of title 5 of the United States Code, it is hereby ordered that:
 
@@ -210,31 +210,41 @@ Section 1. Subject to the provisions of section 3 of this Executive Order, the o
 
 Sec. 2. <i>Order of Succession.</i>
 
-(a) Under Secretary of Agriculture for Farm and Foreign Agricultural Services;
+(a) General Counsel of the Department of Agriculture;
 
-(b) Under Secretary of Agriculture for Marketing and Regulatory Programs;
+(b) Chief Financial Officer of the Department of Agriculture;
 
-(c) Under Secretary of Agriculture for Rural Development;
+(c) Assistant Secretary of Agriculture for Administration;
 
-(d) Under Secretary of Agriculture for Food, Nutrition, and Consumer Services;
+(d) Under Secretary of Agriculture for Farm and Foreign Agricultural Services;
 
 (e) Under Secretary of Agriculture for Natural Resources and Environment;
 
-(f) Under Secretary of Agriculture for Research, Education, and Economics;
+(f) Under Secretary of Agriculture for Marketing and Regulatory Programs;
 
-(g) Under Secretary of Agriculture for Food Safety;
+(g) Under Secretary of Agriculture for Rural Development;
 
-(h) General Counsel of the Department of Agriculture;
+(h) Under Secretary of Agriculture for Food, Nutrition, and Consumer Services;
 
-(i) Assistant Secretary of Agriculture for Administration; and
+(i) Under Secretary of Agriculture for Food Safety;
 
-(j) Assistant Secretary of Agriculture for Congressional Relations.
+(j) Under Secretary of Agriculture for Research, Education, and Economics;
+
+(k) Assistant Secretary of Agriculture for Congressional Relations;
+
+(l) Assistant Secretary of Agriculture for Civil Rights;
+
+(m) Director, Kansas City Commodity Office, Farm Service Agency (consistent with the time of service and rate of pay requirements of section 3345(a)(3) of title 5, United States Code); and
+
+(n) State Executive Directors of the Farm Service Agency for the States of Missouri, Kansas, Iowa, and Nebraska, in order of seniority fixed by length of unbroken service as State Executive Director of that State (consistent with the time of service and rate of pay requirements of section 3345(a)(3) of title 5, United States Code).
 
 Sec. 3. <i>Exceptions.</i>
 
-(a) No individual who is serving in an office listed in section 2(a)–(j) in an acting capacity shall, by virtue of so serving, act as Secretary pursuant to this order.
+(a) No individual who is serving in an office listed in section 2(a)–(n) in an acting capacity shall, by virtue of so serving, act as Secretary pursuant to this order.
 
 (b) Notwithstanding the provisions of this Executive Order, the President retains discretion, to the extent permitted by Subchapter III of Chapter 33 of title 5 of the United States Code, to depart from this Executive Order in designating an acting Secretary.
+
+(c) No individual listed in section 2 shall act as the Secretary unless that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998.
 
 Sec. 4. Executive Order 11957 of January 13, 1977, is hereby revoked.
 
@@ -686,7 +696,7 @@ Ex. Ord. No. 13461, Feb. 15, 2008, 73 F.R. 9437, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
 
-Section 1. Subject to the provisions of section 3 of this order, the officers named in section 2, in the order listed, shall act as and perform the functions and duties of the Office of the Secretary of Health and Human Services (Secretary), if they are eligible to act as Secretary under the provisions of the Federal Vacancies Reform Act of 1998, during any period in which the Secretary has died, resigned, or become otherwise unableto perform the functions and duties of the office of Secretary.
+Section 1. Subject to the provisions of section 3 of this order, the officers named in section 2, in the order listed, shall act as and perform the functions and duties of the Office of the Secretary of Health and Human Services (Secretary), if they are eligible to act as Secretary under the provisions of the Federal Vacancies Reform Act of 1998, during any period in which the Secretary has died, resigned, or become otherwise unable to perform the functions and duties of the office of Secretary.
 
 Sec. 2. <i>Order of Succession.</i>
 
@@ -738,7 +748,7 @@ Sec. 2. <i>Definitions</i>. As used in this order:
 
 &emsp;(ii) the United States Postal Service and the Postal Regulatory Commission; and
 
-(b) “order of succession” means a list of officials by position who shall act as and perform the functions and duties of the office of the head of the agency in the event that the office-holder has died, resigned, or otherwise become unable to perform the functions and duties of the office. “Order of succession” does not include any order, rule, memorandum, or other document delegating or partially delegating the authority of an office.
+(b) “order of succession” means a list of officials by position who shall act as and perform the functions and duties of the office of the head of the agency in theevent that the office-holder has died, resigned, or otherwise become unable to perform the functions and duties of the office. “Order of succession” does not include any order, rule, memorandum, or other document delegating or partially delegating the authority of an office.
 
 Sec. 3. <i>Orders of Succession Requiring Presidential Action.</i>
 
@@ -789,6 +799,52 @@ Sec. 2. <i>Exceptions</i>. (a) No individual who is serving in an office listed 
 (c) Notwithstanding the provisions of this order, the President retains discretion, to the extent permitted by law, to depart from this order in designating an acting Attorney General.
 
 Sec. 3. This order supersedes the President's Memorandum for the Attorney General of December 8, 2006 (Designation of Officers of the Department of Justice).
+
+Sec. 4. This order is intended to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13485. Providing an Order of Succession Within the Department of Transportation
+
+Ex. Ord. No. 13485, Jan. 9, 2009, 74 F.R. 2287, provided:
+
+By the authority vested in me as President under the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq.</i>, it is hereby ordered that:
+
+Section 1. <i>Order of Succession</i>. Subject to the provisions of section 2 of this order, the following officials of the Department of Transportation, in the order listed, shall act as and perform the functions and duties of the office of the Secretary of Transportation (Secretary), during any period in which the Secretary, the Deputy Secretary of Transportation, the Under Secretary of Transportation for Policy, and the officials designated by the Secretary pursuant to 49 U.S.C. 102(e) have died, resigned, or otherwise become unable to perform the functions and duties of the office of Secretary, until such time as the Secretary or one of the officials listed above is able to perform the duties of that office:
+
+(a) Administrator of the Federal Highway Administration;
+
+(b) Administrator of the Federal Aviation Administration;
+
+(c) Administrator of the Federal Motor Carrier Safety Administration;
+
+(d) Administrator of the Federal Railroad Administration;
+
+(e) Administrator of the Federal Transit Administration;
+
+(f) Administrator of the Maritime Administration;
+
+(g) Administrator of the Pipeline and Hazardous Materials Safety Administration;
+
+(h) Administrator of the National Highway Traffic Safety Administration;
+
+(i) Administrator of the Research and Innovative Technology Administration;
+
+(j) Administrator of the Saint Lawrence Seaway Development Corporation;
+
+(k) Regional Administrator, Southern Region, Federal Aviation Administration;
+
+(l) Director, Resource Center, Lakewood, Colorado, Federal Highway Administration; and
+
+(m) Regional Administrator, Northwest Mountain Region, Federal Aviation Administration.
+
+Sec. 2. <i>Exceptions</i>. (a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as Secretary pursuant to this section.
+
+(b) No individual who is serving in an office listed in section 1 shall act as Secretary unless that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998.
+
+(c) Notwithstanding the provisions of this order, the President retains discretion, to the extent permitted by law, to depart from this order in designating an acting Secretary.
+
+Sec. 3. This order supersedes the President's Memorandum of March 19, 2002 (Designation of Officers of the Department of Transportation).
 
 Sec. 4. This order is intended to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
 
@@ -1002,7 +1058,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Designation of Officers of the Office of the Director of National Intelligence to Act as Director of National Intelligence
 
-Memorandum of President of the United States, Dec. 20, 2005, 70 F.R. 76375, which provided for a designationof officers of the Office of the Director of National Intelligence to act as Director of National Intelligence, was superseded by Memorandum of President of the United States, §4, Oct. 3, 2008, 73 F.R. 58869, set out below.
+Memorandum of President of the United States, Dec. 20, 2005, 70 F.R. 76375, which provided for a designation of officers of the Office of the Director of National Intelligence to act as Director of National Intelligence, was superseded by Memorandum of President of the United States, §4, Oct. 3, 2008, 73 F.R. 58869, set out below.
 
 Memorandum of President of the United States, Oct. 3, 2008, 73 F.R. 58869, provided:
 
@@ -1090,7 +1146,7 @@ Memorandum for the Director of the Pension Benefit Guaranty Corporation
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
 
-Section 1. <i>Order of Succession</i>. Subject to the provisions of section 2 of this memorandum, the following officials of the Pension Benefit Guaranty Corporation, in the order listed, shall act as and perform the functions and duties of the office of the Director of the Pension Benefit Guaranty Corporation (Director), during any period in which the Director has died, resigned, or otherwise become unable to perform the functions and duties of the office of Director, until such time as the Director is able to perform the functions and duties of that office:
+Section 1. <i>Order of Succession</i>. Subject to the provisions of section 2 of this memorandum, the following officials of the Pension Benefit Guaranty Corporation, in the order listed, shall act as and perform the functions and duties of the office of the Director of the Pension Benefit Guaranty Corporation (Director), during any period in which the Director has died, resigned, orotherwise become unable to perform the functions and duties of the office of Director, until such time as the Director is able to perform the functions and duties of that office:
 
 (a) Deputy Director for Operations;
 
@@ -1100,7 +1156,7 @@ Section 1. <i>Order of Succession</i>. Subject to the provisions of section 2 of
 
 (d) General Counsel.
 
-Sec. 2. <i>Exceptions</i>. \[(\]a) No individual who is serving in an office listed in section 1 in an acting capacity, byvirtue of so serving, shall act as the Director pursuant to this memorandum.
+Sec. 2. <i>Exceptions</i>. \[(\]a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as the Director pursuant to this memorandum.
 
 (b) No individual listed in section 1 shall act as Director unless that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998.
 
@@ -1155,4 +1211,130 @@ Sec. 4. This memorandum is intended to improve the internal management of the ex
 Sec. 5. You are authorized and directed to publish this memorandum in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Designation of Officers of the National Aeronautics And Space Administration To Act as Administrator
+
+Memorandum of President of the United States, Jan. 16, 2009, 74 F.R. 4099, provided:
+
+Memorandum for the Administrator of the National Aeronautics and Space Administration
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
+
+Section 1. <i>Order of Succession</i>. Subject to the provisions of section 2 of this memorandum, the following officials of the National Aeronautics and Space Administration (NASA), in the order listed, shall act as and perform the functions and duties of the office of the Administrator of NASA (Administrator), during any period in which both the Administrator and Deputy Administrator of NASA (Deputy Administrator) have died, resigned, or otherwise become unable to perform the functions and duties of the office of Administrator, until such time as the Administrator or Deputy Administrator is able to perform the functions and duties of that office:
+
+(a) Associate Administrator;
+
+(b) Chief of Staff to the NASA Administrator;
+
+(c) Director for Johnson Space Flight Center;
+
+(d) Director for Kennedy Space Flight Center; and
+
+(e) Director for Marshall Space Flight Center.
+
+Sec. 2. <i>Exceptions</i>. (a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as Administrator pursuant to this memorandum.
+
+(b) No individual listed in section 1 shall act as Administrator unless that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998.
+
+(c) Notwithstanding the provisions of this memorandum, the President retains discretion, to the extent permitted by law, to depart from this memorandum in designating an acting Administrator.
+
+Sec. 3. This memorandum is intended to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, it \[sic\] agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 4. You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Designation of Officers to Act as President of the Overseas Private Investment Corporation
+
+Memorandum of President of the United States, Jan. 16, 2009, 74 F.R. 4101, provided:
+
+Memorandum for the President of the Overseas Private Investment Corporation
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
+
+Section 1. <i>Order of Succession</i>. Subject to the provisions of section 2 of this memorandum, the following officials of the Overseas Private Investment Corporation, in the order listed, shall act as and perform thefunctions and duties of the office of the President of the Overseas Private Investment Corporation (POPIC), during any period in which the POPIC has died, resigned, or otherwise become unable to perform the functions and duties of the office of POPIC, until such time as the POPIC is able to perform the functions and duties of that office:
+
+(a) Executive Vice President;
+
+(b) Vice President and General Counsel;
+
+(c) Vice President and Chief Financial Officer;
+
+(d) Deputy General Counsel; and
+
+(e) Director of Operations.
+
+Sec. 2. <i>Exceptions.</i>
+
+(a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as POPIC pursuant to this memorandum.
+
+(b) No individual listed in section 1 shall act as POPIC unless that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998.
+
+(c) Notwithstanding the provisions of this memorandum, the President retains discretion, to the extent permitted by law, to depart from this memorandum in designating an acting POPIC.
+
+Sec. 3. This memorandum is intended to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, it \[sic\] agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 4. You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Designation of Officers of the Office of Science and Technology Policy to Act as Director
+
+Memorandum of President of the United States, Aug. 5, 2009, 74 F.R. 39871, provided:
+
+Memorandum for the Director of the Office of Science and Technology Policy
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
+
+Section 1. <i>Order of Succession</i>. Subject to the provisions of section 2 of this memorandum, the following officials of the Office of Science and Technology Policy (OSTP), in the order listed, shall act as and perform the functions and duties of the office of the Director of OSTP (Director), during any period in which the Director has died, resigned, or otherwise become unable to perform the functions and duties of the office of the Director, until such time as the Director is able to perform the functions and duties of that office:
+
+(a) Associate Director (National Security and International Affairs);
+
+(b) Associate Director (Technology);
+
+(c) Associate Director (Science); and
+
+(d) Associate Director (Environment).
+
+Sec. 2. <i>Exceptions.</i>
+
+(a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as Director pursuant to this memorandum.
+
+(b) No individual listed in section 1 shall act as Director unless that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998.
+
+(c) Notwithstanding the provisions of this memorandum, the President retains the discretion, to the extent permitted by law, to depart from this memorandum in designating an acting Director.
+
+Sec. 3. <i>Revocation</i>. The President's memorandum of December 11, 2002 (Designation of Officers of the Office of Science and Technology Policy to Act as Director), is hereby revoked.
+
+Sec. 4. This memorandum is intended to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 5. You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Designation of Officers of the United States Section, International Boundary and Water Commission, United States and Mexico To Act As the Commissioner of the United States Section
+
+Memorandum of President of the United States, Aug. 31, 2009, 74 F.R. 45533, provided:
+
+Memorandum for the Commissioner of the United States Section, International Boundary and Water Commission, United States and Mexico
+
+By the authority vested in me as President by the Constitution and laws of the United States of America, it is hereby ordered that:
+
+Section 1. <i>Order of Succession</i>. Subject to the provisions of section 2 of this memorandum, the following officials of the United States Section, International Boundary and Water Commission, United States and Mexico, in the order listed, shall act as and perform the functions and duties of the office of the Commissioner of the United States Section, International Boundary and Water Commission, United States and Mexico (Commissioner), during any period in which the Commissioner has died, resigned, or otherwise become unable to perform the functions and duties of the office of Commissioner, until such time as the Commissioner is able to perform the functions and duties of that office:
+
+(a) United States Section Principal Engineer—Operations Department; and
+
+(b) United States Section Principal Engineer—Engineering Department.
+
+Sec. 2. <i>Exceptions.</i>
+
+(a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as Commissioner pursuant to this memorandum.
+
+(b) Notwithstanding the provisions of this memorandum, the President retains discretion, to the extent permitted by law, to depart from this memorandum in designating an acting Commissioner.
+
+Sec. 3. This memorandum is intended to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 4. You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

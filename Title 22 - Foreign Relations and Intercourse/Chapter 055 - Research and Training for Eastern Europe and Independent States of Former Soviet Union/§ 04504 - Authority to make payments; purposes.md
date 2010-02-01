@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(II) the awarding of such fellowships as the respective institution determines will best serve to carry out the purposes of this chapter after reviewing applications submitted under subclause (I); and
 
-&emsp;(B) to disseminate research, data, and findings on studies on the countries of Eastern Europe and the independent states of the former Soviet Union and related fields in such a manner and to such extent as the respective institution determines will best serve to carry out the purposes of this chapter.
+&emsp;(B) to disseminate research, data, and findings on studies on the countries of Eastern Europe and the independent states of the formerSoviet Union and related fields in such a manner and to such extent as the respective institution determines will best serve to carry out the purposes of this chapter.
 
 (3) One part of the payments made in each fiscal year shall be used—
 

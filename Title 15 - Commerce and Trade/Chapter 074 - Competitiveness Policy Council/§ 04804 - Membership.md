@@ -120,7 +120,7 @@ Subsec. (f). Pub. L. 101–382, §133(a)(2), added subsec. (f) and struck out fo
 
 Subsec. (<i>l</i>). Pub. L. 101–382, §133(a)(3), struck out subsec. (<i>l</i>) which read as follows: “The Council may procure temporary and intermittent services under section 3109(b) of title 5, but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of basic pay for GS–16 of the General Schedule.”
 
-Subsec. (m). Pub. L. 101–382, §133(a)(3), struck out subsec. (m) which read as follows: “Upon request of theCouncil, the head of any other Federal agency is authorized to detail, on a reimbursable basis, any of the personnel of such agency to the Council to assist the Council in carrying out its duties under this chapter.”
+Subsec. (m). Pub. L. 101–382, §133(a)(3), struck out subsec. (m) which read as follows: “Upon request of the Council, the head of any other Federal agency is authorized to detail, on a reimbursable basis, any of the personnel of such agency to the Council to assist the Council in carrying out its duties under this chapter.”
 
 #### Effective Date of 1995 Amendment
 

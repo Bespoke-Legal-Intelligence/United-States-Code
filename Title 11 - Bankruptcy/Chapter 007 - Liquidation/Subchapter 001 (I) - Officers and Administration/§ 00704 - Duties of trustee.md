@@ -36,9 +36,9 @@
 
 &emsp;(A) the United States trustee (or the bankruptcy administrator, if any) shall review all materials filed by the debtor and, not later than 10 days after the date of the first meeting of creditors, file with the court a statement as to whether the debtor's case would be presumed to be an abuse under section 707(b); and
 
-&emsp;(B) not later than 5 days after receiving a statement under subparagraph (A), the court shall provide a copy of the statement to all creditors.
+&emsp;(B) not later than 7 days after receiving a statement under subparagraph (A), the court shall provide a copy of the statement to all creditors.
 
-(2) The United States trustee (or bankruptcy administrator, if any) shall, not later than 30 days after the date of filing a statement under paragraph (1), either file a motion to dismiss or convert under section 707(b) or file a statement setting forth the reasons the United States trustee (or the bankruptcy administrator, if any) does not consider such a motion to be appropriate, if the United States trustee (or the bankruptcy administrator, if any) determines that the debtor's case should be presumed to be an abuse under section 707(b) and the product of the debtor's current monthly income, multiplied by 12 is not less than—
+(2) The United States trustee (or bankruptcy administrator, if any) shall, not later than 30days after the date of filing a statement under paragraph (1), either file a motion to dismiss or convert under section 707(b) or file a statement setting forth the reasons the United States trustee (or the bankruptcy administrator, if any) does not consider such a motion to be appropriate, if the United States trustee (or the bankruptcy administrator, if any) determines that the debtor's case should be presumed to be an abuse under section 707(b) and the product of the debtor's current monthly income, multiplied by 12 is not less than—
 
 &emsp;(A) in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner; or
 
@@ -74,7 +74,7 @@
 
 (B) Notwithstanding any other provision of law, a creditor that makes a disclosure of a last known address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making such disclosure.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2605; Pub. L. 98–353, title III, §§311(a), 474, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, §217, Oct. 27, 1986, 100 Stat. 3100; Pub. L. 109–8, title I, §102(c), title II, §219(a), title IV, §446(b), title XI, §1105(a), Apr. 20, 2005, 119 Stat. 32, 55, 118, 192.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2605; Pub. L. 98–353, title III, §§311(a), 474, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, §217, Oct. 27, 1986, 100 Stat. 3100; Pub. L. 109–8, title I, §102(c), title II, §219(a), title IV, §446(b), title XI, §1105(a), Apr. 20, 2005, 119 Stat. 32, 55, 118, 192; Pub. L. 111–16, §2(7), May 7, 2009, 123 Stat. 1607.)
 
 #### Historical and Revision Notes
 
@@ -98,6 +98,8 @@ Sections 464 and 466 of the Social Security Act, referred to in subsec. (c)(1)(A
 
 #### Amendments
 
+2009—Subsec. (b)(1)(B). Pub. L. 111–16 substituted “7 days” for “5 days”.
+
 2005—Pub. L. 109–8, §102(c)(1), designated existing provisions as subsec. (a).
 
 Subsec. (a)(10). Pub. L. 109–8, §219(a)(1), added par. (10).
@@ -117,6 +119,10 @@ Par. (9). Pub. L. 99–554, §217(2), inserted “with the United States trustee
 1984—Par. (1). Pub. L. 98–353, §474, substituted “close such estate” for “close up such estate”.
 
 Pars. (3) to (9). Pub. L. 98–353, §311(a), added par. (3) and redesignated former pars. (3) to (8) as (4) to (9), respectively.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 111–16, set out as a note under section 109 of this title.
 
 #### Effective Date of 2005 Amendment
 

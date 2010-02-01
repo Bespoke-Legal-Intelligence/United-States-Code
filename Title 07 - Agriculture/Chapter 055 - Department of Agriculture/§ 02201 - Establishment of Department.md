@@ -30,7 +30,7 @@ Pub. L. 96–355, §1, Sept. 24, 1980, 94 Stat. 1171, provided that: “This Act
 
 #### Short Title of 1956 Amendment
 
-Act Aug. 3, 1956, §1, provided that: “This Act \[enacting sections 428a, 1040, 2228, 2229 and 2333 of this title, and sections 579b and 590h–4 of Title 16, Conservation, and amending sections 1004, 1392, 1516, and 1766 of this title, sections 590k and 590n of Title 16, and sections 114a and 114c of Title 21, Food and Drugs\] may be cited as the ‘Department of Agriculture Organic Act of 1956’.”
+Act Aug. 3, 1956, §1, provided that: “This Act \[enacting sections 428a, 1040, 2228, 2229 and 2333 of this title,and sections 579b and 590h–4 of Title 16, Conservation, and amending sections 1004, 1392, 1516, and 1766 of this title, sections 590k and 590n of Title 16, and sections 114a and 114c of Title 21, Food and Drugs\] may be cited as the ‘Department of Agriculture Organic Act of 1956’.”
 
 #### Short Title
 
@@ -66,7 +66,7 @@ Pub. L. 86–509, June 11, 1960, 74 Stat. 205, which enacted provisions of Reorg
 
 “(k) The functions of the Secretary of the Interior under section 10 of the Act of March 1, 1911 (36 Stat. 962; 16 U.S.C. 519), with respect to sales of small tracts of acquired national forest lands found chiefly valuable for agriculture.
 
-“(<i>l</i>) The functions of the Secretary of the Interior under section 402 of Reorganization Plan Numbered 3 of 1946 (60 Stat. 1099), section 3 of the Act of September 1, 1949 (63 Stat. 683; 30 U.S.C. 192c), the Act of June 30, 1950\(64 Stat. 311; 16 U.S.C. 508b), section 3 of the Act of June 28, 1952 (66 Stat. 285), or otherwise, with respect to the use and disposal from lands under the jurisdiction of the Secretary of Agriculture of those mineral materials which the Secretary of Agriculture is authorized to dispose of from other lands under his jurisdiction under the Act of July 31, 1947 (61 Stat. 681), as amended by the Act of July 23, 1955 (69 Stat. 367; 30 U.S.C. 601 and the following).
+“(<i>l</i>) The functions of the Secretary of the Interior under section 402 of Reorganization Plan Numbered 3 of 1946 (60 Stat. 1099), section 3 of the Act of September 1, 1949 (63 Stat. 683; 30 U.S.C. 192c), the Act of June 30, 1950 (64 Stat. 311; 16 U.S.C. 508b), section 3 of the Act of June 28, 1952 (66 Stat. 285), or otherwise, with respect to the use and disposal from lands under the jurisdiction of the Secretary of Agriculture of those mineral materials which the Secretary of Agriculture is authorized to dispose of from other lands under his jurisdiction under the Act of July 31, 1947 (61 Stat. 681), as amended by the Act of July 23, 1955 (69 Stat. 367; 30 U.S.C. 601 and the following).
 
 “
 
@@ -90,7 +90,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 I74Section 1. Transfer of Functions to the Secretary
 
-(a) Subject to the exceptions specified in subsection (b) of this section, there are hereby transferred to the Secretary of Agriculture all functions not now vested in him of all other officers, and of all agencies and employees, of the Department of Agriculture.
+(a) Subject to the exceptions specified in subsection (b) of this section, there are hereby transferred to theSecretary of Agriculture all functions not now vested in him of all other officers, and of all agencies and employees, of the Department of Agriculture.
 
 (b) This section shall not apply to the functions vested by the Administrative Procedure Act (5 U.S.C. 1001 et seq.) \[5 U.S.C. 551 et seq. and 701 et seq.\] in hearing examiners employed by the Department of Agriculture nor to the functions of (1) corporations of the Department of Agriculture, (2) the boards of directors and officers of such corporations, (3) the Advisory Board of the Commodity Credit Corporation, or (4) the Farm Credit Administration or any agency, officer, or entity of, under, or subject to the supervision of the said administration.
 

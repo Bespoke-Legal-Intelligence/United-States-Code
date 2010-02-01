@@ -40,7 +40,7 @@ The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs 
 
 &emsp;(14) Such other functions as the Secretary of Defense may prescribe.
 
-(Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2825; Pub. L. 110–181, div. A,title XVIII, §1813(a)–(c)(1), Jan. 28, 2008, 122 Stat. 497, 498.)
+(Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2825; amended Pub. L. 110–181, div. A, title XVIII, §1813(a)–(c)(1), Jan. 28, 2008, 122 Stat. 497, 498.)
 
 #### Amendments
 

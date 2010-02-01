@@ -1,10 +1,18 @@
 ### §2124. Members of the program: numbers appointed
 
-The number of persons who may be designated as members of the program for training in each health profession shall be as prescribed by the Secretary of Defense, except that the total number of persons so designated may not, at any time, exceed 6,000.
+(a)
 
-(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 99–145, title VI, §672(i), Nov. 8, 1985, 99 Stat. 664; Pub. L. 100–180, div. A, title VII, §§711(a)(2), 712(b)(1), Dec. 4, 1987, 101 Stat. 1108, 1112; Pub. L. 101–189, div. A, title VII, §725(g), Nov. 29, 1989, 103 Stat. 1480; Pub. L. 102–190, div. A, title VII, §717, Dec. 5, 1991, 105 Stat. 1404.)
+Authorized Number of Members of the Program.—The number of persons who may be designated as members of the program for training in each health profession shall be as prescribed by the Secretary of Defense, except that the total number of persons so designated may not, at any time, exceed 6,300.
+
+(b)
+
+Mental Health Professionals.—Of the number of persons designated as members of the program at any time, 300 may be members of the program described in section 2121(a)(1)(B) of this title.
+
+(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 99–145, title VI, §672(i), Nov. 8, 1985, 99 Stat. 664; Pub. L. 100–180, div. A, title VII, §§711(a)(2), 712(b)(1), Dec. 4, 1987, 101 Stat. 1108, 1112; Pub. L. 101–189, div. A, title VII, §725(g), Nov. 29, 1989, 103 Stat. 1480; Pub. L. 102–190, div. A, title VII, §717, Dec. 5, 1991, 105 Stat. 1404; Pub. L. 111–84, div. A, title V, §524(b), Oct. 28, 2009, 123 Stat. 2285.)
 
 #### Amendments
+
+2009—Pub. L. 111–84 designated existing provisions as subsec. (a), inserted heading, substituted “6,300” for “6,000”, and added subsec. (b).
 
 1991—Pub. L. 102–190 substituted “except that the total number of persons so designated may not, at any time, exceed 6,000.” for “except that—
 
@@ -34,5 +42,5 @@ Section 672(j) of Pub. L. 99–145, which provided that amendment made by that s
 
 #### Repeals
 
-The directory language of, but not the amendment made by, Pub. L. 99–145, title VI, §672(i), Nov. 8, 1985, 99 Stat. 664, cited as a credit to this section, was repealed by Pub. L. 100–180, §711(c)(1), (e)(1), eff. Dec. 4, 1987.
+The directory language of, but not the amendment made by, Pub. L. 99–145, title VI, §672(i), Nov. 8, 1985, 99Stat. 664, cited as a credit to this section, was repealed by Pub. L. 100–180, §711(c)(1), (e)(1), eff. Dec. 4, 1987.
 

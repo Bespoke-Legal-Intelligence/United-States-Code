@@ -58,7 +58,7 @@ Aug. 2, 1946, ch. 756, §39, 60 Stat. 858.
 
 In subsection (a) the word “public” is substituted for the words “possessed by the United States” and the subsection is phrased in terms of availability, as it is so interpreted. The itemization of personnel categories for whom quarters may be furnished is inserted to execute the definition of “naval personnel”, made applicable to this section by 5 U.S.C. 421g. The requirement in that definition that personnel be on active duty is omitted since this subsection applies only to personnel on sea duty.
 
-In subsection (b) the words “and who is not entitled to basic allowance for quarters” are inserted to make it clear that the entitlement under this subsection, as interpreted, is not in addition to basic allowance for quarters. The words “in obtaining quarters” are inserted for clarity. The words “basic allowance for quarters of an officer of his grade” are substituted for the words “his quarters allowance” because, under the Career Compensation Act of 1949, members without dependents are not entitled to a quarters allowance when on sea duty, and the limitation must be based upon the allowance of an officer of the same grade who is entitled thereto.
+In subsection (b) the words “and who is not entitled to basic allowance for quarters” are inserted to make it clear that the entitlement under this subsection, as interpreted, is not in addition to basic allowance forquarters. The words “in obtaining quarters” are inserted for clarity. The words “basic allowance for quarters of an officer of his grade” are substituted for the words “his quarters allowance” because, under the Career Compensation Act of 1949, members without dependents are not entitled to a quarters allowance when on sea duty, and the limitation must be based upon the allowance of an officer of the same grade who is entitled thereto.
 
 In subsection (c) the words “except the authority to prescribe regulations” are omitted, since subsection (a) does not contain such authority.
 
@@ -94,7 +94,7 @@ Subsec. (b)(3). Pub. L. 98–525, §603(a), added limit of $1,421,000 for fiscal
 
 1980—Subsec. (a)(3). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
-Subsec. (b). Pub. L. 96–357 substituted reimbursement provision when conditions make uninhabitable quarters aboard ship for member of uniformed services on sea duty limited to basic allowance for quarters of memberof same grade without dependents for prior such provision for officer of naval service on sea duty so deprived of quarters and not entitled to basic allowance for quarters and limited to basic allowance for quarters of an officer of his grade, made the member able to reside with dependents ineligible for reimbursement, and limited reimbursements for fiscal year 1981 to $9,000,000.
+Subsec. (b). Pub. L. 96–357 substituted reimbursement provision when conditions make uninhabitable quarters aboard ship for member of uniformed services on sea duty limited to basic allowance for quarters of member of same grade without dependents for prior such provision for officer of naval service on sea duty so deprived of quarters and not entitled to basic allowance for quarters and limited to basic allowance for quarters of an officer of his grade, made the member able to reside with dependents ineligible for reimbursement, and limited reimbursements for fiscal year 1981 to $9,000,000.
 
 1966—Subsec. (a)(3). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
@@ -134,7 +134,7 @@ Pub. L. 99–500, §101(c) \[title IX, §9107\], Oct. 18, 1986, 100 Stat. 1783�
 
 #### Repeals
 
-The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
+The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117,cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
 
 #### Transfer of Functions
 

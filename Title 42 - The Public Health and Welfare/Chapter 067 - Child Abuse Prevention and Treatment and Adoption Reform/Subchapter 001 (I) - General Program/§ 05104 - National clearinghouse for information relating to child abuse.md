@@ -74,7 +74,7 @@ A prior section 103 of Pub. L. 93–247 was classified to section 5103 of this t
 
 #### Amendments
 
-2003—Subsec. (b)(1). Pub. L. 108–36, §111(a)(1), substituted “all effective programs, including private and community-based programs, that show promise of success with respect to the prevention, assessment, identification, and treatment of child abuse and neglect and hold the potential for broad scale implementation and replication;” for “all programs, including private programs, that show promise of success with respect to the prevention, assessment, identification, and treatment of child abuse and neglect; and”.
+2003—Subsec. (b)(1). Pub. L. 108–36, §111(a)(1), substituted “all effective programs, including private andcommunity-based programs, that show promise of success with respect to the prevention, assessment, identification, and treatment of child abuse and neglect and hold the potential for broad scale implementation and replication;” for “all programs, including private programs, that show promise of success with respect to the prevention, assessment, identification, and treatment of child abuse and neglect; and”.
 
 Subsec. (b)(2), (3). Pub. L. 108–36, §111(a)(2)–(4), added par. (2) and redesignated former par. (2) as (3) and substituted a semicolon for period at end.
 

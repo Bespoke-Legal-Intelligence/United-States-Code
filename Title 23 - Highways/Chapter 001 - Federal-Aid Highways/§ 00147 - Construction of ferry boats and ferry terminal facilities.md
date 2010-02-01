@@ -10,7 +10,7 @@ Federal Share.—The Federal share of the cost of construction of ferry boats, f
 
 (c)
 
-Allocation of Funds.—The Secretary shall give priority in the allocation of funds under this section to those ferry systems, and public entities responsible for developing ferries, that—
+Allocation of Funds.—The Secretary shall give priority in the allocation of fundsunder this section to those ferry systems, and public entities responsible for developing ferries, that—
 
 &emsp;(1) provide critical access to areas that are not well-served by other modes of surface transportation;
 

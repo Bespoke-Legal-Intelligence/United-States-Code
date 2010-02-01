@@ -266,7 +266,7 @@ Par. (2)(B). Pub. L. 109–58, §136(a)(2), substituted “commercial package ai
 
 Pars. (8), (9). Pub. L. 109–58, §136(a)(3), added pars. (8) and (9) and struck out former pars. (8) and (9) which read as follows:
 
-“(8) The term ‘small commercial package air conditioning and heating equipment’ means air-cooled, water-cooled, evaporatively-cooled, or water source (not including ground water source) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application which are rated below 135,000 Btu per hour (cooling capacity).
+“(8) The term ‘small commercial package air conditioning and heating equipment’ means air-cooled, water-cooled, evaporatively-cooled, or water source\(not including ground water source) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application which are rated below 135,000 Btu per hour (cooling capacity).
 
 “(9) The term ‘large commercial package air conditioning and heating equipment’ means air-cooled, water-cooled, evaporatively-cooled, or water source (not including ground water source) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application which are rated at or above 135,000 Btu per hour and below 240,000 Btu per hour (cooling capacity).”
 

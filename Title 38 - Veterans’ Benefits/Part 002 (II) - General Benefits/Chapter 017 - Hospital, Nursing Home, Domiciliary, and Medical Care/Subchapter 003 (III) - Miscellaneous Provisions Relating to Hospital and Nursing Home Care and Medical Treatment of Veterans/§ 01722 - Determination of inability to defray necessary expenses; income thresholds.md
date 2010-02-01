@@ -16,7 +16,7 @@
 
 (2) For a calendar year beginning after December 31, 1990, the amounts in effect for purposes of this subsection shall be the amounts in effect for the preceding calendar year as adjusted under subsection (c) of this section.
 
-(c) Effective on January 1 of each year, the amounts in effect under subsection (b) of this section shall be increased by the percentage bywhich the maximum rates of pension were increased under section 5312(a) of this title during the preceding calendar year.
+(c) Effective on January 1 of each year, the amounts in effect under subsection (b) of this section shall be increased by the percentage by which the maximum rates of pension were increased under section 5312(a) of this title during the preceding calendar year.
 
 (d)(1) Notwithstanding the attributable income of a veteran, the Secretary may refuse to make a determination described in paragraph (2) of this subsection if the corpus of the estate of the veteran is such that under all the circumstances it is reasonable that some part of the corpus of the estate of the veteran be consumed for the veteran's maintenance.
 
@@ -96,7 +96,7 @@ Subsec. (b). Pub. L. 101–508, §8013(c)(2), amended subsec. (b) generally. Pri
 
 &emsp;&emsp;&emsp;“(ii) $18,000 in the case of a veteran with one dependent, plus $1,000 for each additional dependent; and
 
-&emsp;&emsp;“(B) for a calendar year beginning after December 31, 1986, is the amount in effect for purposes of thisparagraph for the preceding calendar year as adjusted under subsection (c) of this subsection.
+&emsp;&emsp;“(B) for a calendar year beginning after December 31, 1986, is the amount in effect for purposes of this paragraph for the preceding calendar year as adjusted under subsection (c) of this subsection.
 
 &emsp;“(2) The Category B threshold—
 

@@ -86,7 +86,7 @@ Objective.—The objective of any air tour management plan shall be to develop a
 
 &emsp;(2)
 
-Environmental determination.—In establishing an air tour management plan under this subsection, the Administrator and the Director shall each sign the environmental decision document required by section 102 of the National Environmental Policy Act of 1969 (42U.S.C. 4332) which may include a finding of no significant impact, an environmental assessment, or an environmental impact statement and the record of decision for the air tour management plan.
+Environmental determination.—In establishing an air tour management plan under this subsection, the Administrator and the Director shall each sign the environmental decision document required by section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) which may include a finding of no significant impact, an environmental assessment, or an environmental impact statement and the record of decision for the air tour management plan.
 
 &emsp;(3)
 

@@ -54,33 +54,31 @@ The date of the enactment of this chapter, referred to in subsec. (d), is the da
 
 #### Pilot Program for the Temporary Assignment of Information Technology Personnel to Private Sector Organizations
 
-Pub. L. 110–181, div. A, title XI, §1109, Jan. 28, 2008, 122 Stat. 358, provided that:
+Pub. L. 111–84, div. A, title XI, §1110, Oct. 28, 2009, 123 Stat. 2493, provided that:
 
 “(a)
 
-Assignment Authority.—The Secretary of Defense may, with the agreement of the private sector organization and the Department of Defense employee concerned, arrange for the temporary assignment of such employee to such private sector organization under this section. An employee shall be eligible for such an assignment only if—
+Assignment Authority.—The Secretary of Defense may, with the agreement of the private sector organization concerned, arrange for the temporary assignment of an employee to such private sector organization, or from such private sector organization to a Department of Defense organization under this section. An employee shall be eligible for such an assignment only if—
 
 &emsp;“(1) the employee—
 
 &emsp;&emsp;“(A) works in the field of information technology management;
 
-&emsp;&emsp;“(B) is considered to be an exceptional employee;
+&emsp;&emsp;“(B) is considered by the Secretary of Defense to be an exceptional employee;
 
-&emsp;&emsp;“(C) is expected to assume increased information technology management responsibilities in the future;
+&emsp;&emsp;“(C) is expected to assume increased information technology management responsibilities in the future; and
 
 &emsp;&emsp;“(D) is compensated at not less than the GS–11 level (or the equivalent); and
-
-&emsp;&emsp;“(E) is serving under a career or career-conditional appointment or an appointment of equivalent tenure in the excepted service; and
 
 &emsp;“(2) the proposed assignment meets applicable requirements of section 209(b) of the E-Government Act of 2002 \[Pub. L. 107–347\] (44 U.S.C. 3501 note).
 
 “(b)
 
-Agreements.—The Secretary of Defense shall provide for a written agreement between the Department of Defense and the employee concerned regarding the terms and conditions of the employee's assignment under this section. The agreement—
+Agreements.—The Secretary of Defense shall provide for a written agreement among the Department of Defense, the private sector organization, and the employee concerned regarding the terms and conditions of the employee's assignment under this section. The agreement—
 
-&emsp;“(1) shall require that, upon completion of the assignment, the employee will serve in the civil service for a period equal to the length of the assignment; and
+&emsp;“(1) shall require that employees of the Department of Defense, upon completion of the assignment, will serve in the civil service for a period equal to the length of the assignment; and
 
-&emsp;“(2) shall provide that if the employee fails to carry out the agreement, such employee shall be liable to the United States for payment of all expenses of the assignment, unless that failure was for good and sufficient reason (as determined by the Secretary of Defense).
+&emsp;“(2) shall provide that if the employee of the Department of Defense or of the private sector organization (as the case may be) fails to carry out the agreement, such employee shall be liable to the United States for payment of all expenses of the assignment, unless that failure was for good and sufficient reason, as determined by the Secretary of Defense.
 
 > An amount for which an employee is liable under paragraph (2) shall be treated as a debt due the United States.
 
@@ -90,37 +88,75 @@ Termination.—An assignment under this section may, at any time and for any rea
 
 “(d)
 
-Duration.—An assignment under this section shall be for a period of not less than 3 months and not more than 1 year, and may be extended in 3-month increments for a total of not more than 1 additional year; however, no assignment under this section may commence after September 30, 2010.
+Duration.—An assignment under this section shall be for a period of not less than 3 months and not more than 1 year, and may be extended in 3-month increments for a total of not more than 1 additional year; however, no assignment under this section may commence after September 30, 2013.
 
 “(e)
 
-Considerations.—In carrying out this section, the Secretary of Defense—
+Terms and Conditions for Private Sector Employees.—An employee of a private sector organizationwho is assigned to a Department of Defense organization under this section—
 
-&emsp;“(1) shall ensure that, of the assignments made under this section each year, at least 20 percent are to small business concerns (as defined by section 3703(e)(2)(A) of title 5, United States Code); and
+&emsp;“(1) may continue to receive pay and benefits from the private sector organization from which such employee is assigned;
 
-&emsp;“(2) shall take into consideration the question of how assignments under this section might best be used to help meet the needs of the Department of Defense with respect to the training of employees in information technology management.
+&emsp;“(2) is deemed to be an employee of the Department of Defense for the purposes of—
+
+&emsp;&emsp;“(A) chapter 73 of title 5, United States Code;
+
+&emsp;&emsp;“(B) sections 201, 203, 205, 207, 208, 209, 603, 606, 607, 643, 654, 1905, and 1913 of title 18, United States Code;
+
+&emsp;&emsp;“(C) sections 1343, 1344, and 1349(b) of title 31, United States Code;
+
+&emsp;&emsp;“(D) the Federal Tort Claims Act \[see Short Title note under section 2671 of Title 28, Judiciary and Judicial Procedure\] and any other Federal tort liability statute;
+
+&emsp;&emsp;“(E) the Ethics in Government Act of 1978 \[5 U.S.C. App.\];
+
+&emsp;&emsp;“(F) section 1043 of the Internal Revenue Code of 1986 \[26 U.S.C. 1043\]; and
+
+&emsp;&emsp;“(G) section 27 of the Office of Federal Procurement Policy Act \[41 U.S.C. 423\]; and
+
+&emsp;“(3) may not have access to any trade secrets or to any other nonpublic information which is of commercial value to the private sector organization from which such employee is assigned.
 
 “(f)
 
-Numerical Limitation.—In no event may more than 10 employees be participating in assignments under this section as of any given time.
+Prohibition Against Charging Certain Costs to the Federal Government.—A private sector organization may not charge the Department of Defense or any other agency of the Federal Government, as direct or indirect costs under a Federal contract, the costs of pay or benefits paid by the organization to an employee assigned to a Department of Defense organization under this section for the period of the assignment.
 
 “(g)
 
-Reporting Requirement.—
+Considerations.—In carrying out this section, the Secretary of Defense—
 
-&emsp;“(1)
+&emsp;“(1) shall ensure that, of the assignments made under this section each year, at least 20 percent are from small business concerns (as defined by section 3703(e)(2)(A) of title 5, United States Code); and
 
-In general.—Not later than 6 months after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the potential benefits of a program under which employees specializing in information technology may be temporarily assigned from private sector organizations to the Department of Defense.
+&emsp;“(2) shall take into consideration the question of how assignments under this section might best be used to help meet the needs of the Department of Defense with respect to the training of employees in information technology management.
 
-&emsp;“(2)
+“(h)
 
-Contents.—The report shall include—
+Numerical Limitation.—In no event may more than 10 employees be participating in assignments under this section at any given time.
 
-&emsp;&emsp;“(A) a statement of findings and an explanation of the bases for those findings;
+“(i)
 
-&emsp;&emsp;“(B) an assessment of the laws, rules, and processes relating to the prevention of conflicts of interest and abuse which would apply to private sector employees during the period of their assignment to the Department of Defense, and whether they need to be strengthened or otherwise changed;
+Reporting Requirement.—For each of fiscal years 2010 through 2015, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], not later than 1 month after the end of the fiscal year involved, a report on any activities carried out under this section during such fiscal year, including information concerning—
 
-&emsp;&emsp;“(C) mechanisms proposed for the governance and oversight of the program; and
+&emsp;“(1) the respective organizations (as referred to in subsection (a)) to and from which any employee was assigned under this section;
 
-&emsp;&emsp;“(D) recommendations for any legislation which may be necessary.”
+&emsp;“(2) the positions those employees held while they were so assigned;
+
+&emsp;“(3) a description of the tasks they performed while they were so assigned; and
+
+&emsp;“(4) a discussion of any actions that might be taken to improve the effectiveness of the program under this section, including any proposed changes in law.
+
+“(j)
+
+Repeal of Superseded Section.—Section 1109 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110-181; 122 Stat. 358) \[formerly set out as a note under this section\] is repealed, except that—
+
+&emsp;“(1) nothing in this subsection shall, in the case of any assignment commencing under such section 1109 on or before the date of the enactment of this Act \[Oct. 28, 2009\], affect—
+
+&emsp;&emsp;“(A) the duration of such assignment or the authority to extend such assignment in accordance with subsection (d) of such section 1109, as last in effect; or
+
+&emsp;&emsp;“(B) the terms or conditions of the agreement governing such assignment, including with respect to any service obligation under subsection (b) thereof; and
+
+&emsp;“(2) any employee whose assignment is allowed to continue by virtue of paragraph (1) shall be taken into account for purposes of—
+
+&emsp;&emsp;“(A) the numerical limitation under subsection (h); and
+
+&emsp;&emsp;“(B) the reporting requirement under subsection (i).”
+
+Pub. L. 110–181, div. A, title XI, §1109, Jan. 28, 2008, 122 Stat. 358, which authorized the Secretary of Defense to arrange for the temporary assignment of a Department of Defense employee to a private sector organization under certain terms, conditions, and considerations, and for a limited period, and required the Secretary to submit to the Committees on Armed Services a report on the potential benefits of temporarily assigning information technology specialists from private sector organizations to the Department of Defense, was repealed, with certain exceptions, by Pub. L. 111–84, div. A, title XI, §1110(j), Oct. 28, 2009, 123 Stat. 2495, see above.
 

@@ -50,7 +50,7 @@ In awarding grants under this section, the Secretary shall give priority to an e
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), an eligible entity shall use grant funds made available underthis section to expand access for low-income individuals to advanced placement incentive programs that involve—
+&emsp;Subject to paragraph (2), an eligible entity shall use grant funds made available under this section to expand access for low-income individuals to advanced placement incentive programs that involve—
 
 &emsp;&emsp;(A) teacher training;
 
@@ -66,7 +66,7 @@ In awarding grants under this section, the Secretary shall give priority to an e
 
 #### (2) State educational agency
 
-&emsp;In the case of an eligible entity that is a State educational agency, the entity may use grant funds made available under this section to award subgrants to local educational agencies to enable the local educational agencies to carry out the activities under paragraph (1).
+&emsp;In the case of an eligible entity that is a State educational agency, the entity may usegrant funds made available under this section to award subgrants to local educational agencies to enable the local educational agencies to carry out the activities under paragraph (1).
 
 #### (e) Contracts
 

@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 Mar. 4, 1937, ch. 26, 50 Stat. 25.
 
-In subsection (a) the word “receive” and the words “from individuals or others” and “of the United States” are omitted as surplusage. The title of the “Office of Naval Records and Library, Navy Department” is changed to “Office of Naval Records and History”, in accordance with a directive of the Secretary of the Navy dated March 10, 1949.
+In subsection (a) the word “receive” and the words “from individuals or others” and “of the UnitedStates” are omitted as surplusage. The title of the “Office of Naval Records and Library, Navy Department” is changed to “Office of Naval Records and History”, in accordance with a directive of the Secretary of the Navy dated March 10, 1949.
 
 Subsection (b) is rewritten for clarity and to conform to a similar statement appearing in 5 U.S.C. 150s.
 

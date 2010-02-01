@@ -40,7 +40,7 @@ Provisions similar to this section were contained in section 2756a of this title
 
 1992—Pub. L. 102–325 amended section generally, restating subsecs. (a) and (b) with changes in substance and structure and striking out subsec. (c) which defined “community services”.
 
-1987—Subsec. (b)(3) to (7). Pub. L. 100–50 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which read as follows: “provide satisfactory assurance that the institution will continue to spend in its own job location and development programs, from sources other than funds received under this section, not less than the average expenditures peryear made during the most recent 3 fiscal years preceding the effective date of the agreement;”.
+1987—Subsec. (b)(3) to (7). Pub. L. 100–50 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which read as follows: “provide satisfactory assurance that the institution will continue to spend in its own job location and development programs, from sources other than funds received under this section, not less than the average expenditures per year made during the most recent 3 fiscal years preceding the effective date of the agreement;”.
 
 1986—Pub. L. 99–498 amended section generally, substituting provisions relating to job location and development programs for provisions relating to equitable distribution of assistance.
 

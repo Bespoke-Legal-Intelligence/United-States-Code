@@ -1,7 +1,5 @@
 ### SUBCHAPTER III—PROJECTS HONORING VICTIMS OF TERRORIST ATTACKS
 
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
-
 
 ---
 

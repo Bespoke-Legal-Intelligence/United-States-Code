@@ -28,7 +28,7 @@ Each order issued under this chapter shall contain the terms and conditions pres
 
 #### (6) Compensation
 
-&emsp;Each member of the Board shall serve without compensation, but shall be reimbursed for necessary and reasonable expenses incurred in the performance of duties of the Board.
+&emsp;Each member of the Board shall serve without compensation, but shall be reimbursed fornecessary and reasonable expenses incurred in the performance of duties of the Board.
 
 #### (c) Powers and duties of Board
 
@@ -144,7 +144,7 @@ A program or project conducted under this chapter shall not make any reference t
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), commercial or financial information that is obtained under paragraph (1) or (2) and that is privileged or confidential shallbe kept confidential by all officers and employees of the Department and agents of the Board, and only such information so obtained as the Secretary considers relevant may be disclosed to the public by them and then only in a suit or administrative hearing brought at the request of the Secretary, or to which the Secretary or any officer of the United States is a party, and involving the order.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), commercial or financial information that is obtained under paragraph (1) or (2) and that is privileged or confidential shall be kept confidential by all officers and employees of the Department and agents of the Board, and only such information so obtained as the Secretary considers relevant may be disclosed to the public by them and then only in a suit or administrative hearing brought at the request of the Secretary, or to which the Secretary or any officer of the United States is a party, and involving the order.
 
 #### (B) Availability of information
 

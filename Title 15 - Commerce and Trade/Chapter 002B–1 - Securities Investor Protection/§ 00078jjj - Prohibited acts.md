@@ -12,7 +12,7 @@ It shall be unlawful for any broker or dealer for whom a trustee has been appoin
 
 #### (1) Specific prohibited acts
 
-&emsp;Any person who, directly or indirectly, in connection with or in contemplation of anyliquidation proceeding or direct payment procedure—
+&emsp;Any person who, directly or indirectly, in connection with or in contemplation of any liquidation proceeding or direct payment procedure—
 
 &emsp;&emsp;(A) employs any device, scheme, or artifice to defraud;
 

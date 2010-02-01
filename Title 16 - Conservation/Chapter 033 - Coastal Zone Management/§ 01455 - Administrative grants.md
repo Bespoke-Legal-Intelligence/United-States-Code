@@ -50,7 +50,7 @@ Before approving a management program submitted by a coastal state, the Secretar
 
 &emsp;&emsp;&emsp;(ii) which have been developed by a local government, an areawide agency, a regional agency, or an interstate agency; and
 
-&emsp;&emsp;(B) established an effective mechanism for continuing consultation and coordination between the management agency designated pursuant to paragraph (6) and with local governments, interstate agencies, regional agencies, and areawide agencies within the coastal zone to assure the full participation of those local governments and agencies in carrying out the purposes of this chapter; except that the Secretary shall not find any mechanism to be effective for purposes of this subparagraph unless it requires that—
+&emsp;&emsp;(B) established an effective mechanism for continuing consultation and coordination between the management agency designated pursuant to paragraph (6) and with local governments, interstate agencies, regional agencies, and areawide agencies within thecoastal zone to assure the full participation of those local governments and agencies in carrying out the purposes of this chapter; except that the Secretary shall not find any mechanism to be effective for purposes of this subparagraph unless it requires that—
 
 &emsp;&emsp;&emsp;(i) the management agency, before implementing any management program decision which would conflict with any local zoning ordinance, decision, or other action, shall send a notice of the management program decision to any local government whose zoning authority is affected;
 
@@ -154,7 +154,7 @@ Section 5(b) of Pub. L. 96–464 provided that: “The amendments made by subsec
 
 #### Additional Program Requirements
 
-Section 6206(b) of title VI of Pub. L. 101–508 provided that: “Each State which submits a management program for approval under section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\], as amended by this subtitle (including a State which submitted a program before the date of enactment of this Act \[Nov. 5, 1990\]), shall demonstrate to the Secretary—
+Section 6206(b) of title VI of Pub. L. 101–508 provided that: “Each State which submits a management program for approval under section 306 of the Coastal ZoneManagement Act of 1972 \[16 U.S.C. 1455\], as amended by this subtitle (including a State which submitted a program before the date of enactment of this Act \[Nov. 5, 1990\]), shall demonstrate to the Secretary—
 
 &emsp;“(1) that the program complies with section 306(d)(14) and (15) of that Act, by not later than 3 years after the date of the enactment of this Act; and
 

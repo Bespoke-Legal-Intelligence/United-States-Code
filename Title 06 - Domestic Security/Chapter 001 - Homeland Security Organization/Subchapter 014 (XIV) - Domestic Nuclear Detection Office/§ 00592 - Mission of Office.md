@@ -22,7 +22,7 @@ The Office shall be responsible for coordinating Federal efforts to detect and p
 
 &emsp;(6) conduct, support, coordinate, and encourage an aggressive, expedited, evolutionary, and transformational program of research and development to generate and improve technologies to detect and prevent the illicit entry, transport, assembly, or potential use within the United States of a nuclear explosive device or fissile or radiological material, and coordinate with the Under Secretary for Science and Technology on basic and advanced or transformational research and development efforts relevant to the mission of both organizations;
 
-&emsp;(7) carry out a program to test and evaluate technology for detecting a nuclear explosive device and fissile or radiological material, in coordination with the Secretary of Defense and the Secretary of Energy, as appropriate,and establish performance metrics for evaluating the effectiveness of individual detectors and detection systems in detecting such devices or material—
+&emsp;(7) carry out a program to test and evaluate technology for detecting a nuclear explosive device and fissile or radiological material, in coordination with the Secretary of Defense and the Secretary of Energy, as appropriate, and establish performance metrics for evaluating the effectiveness of individual detectors and detection systems in detecting such devices or material—
 
 &emsp;&emsp;(A) under realistic operational and environmental conditions; and
 

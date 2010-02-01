@@ -86,7 +86,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 &emsp;&emsp;&emsp;For purposes of section 203 of such title—
 
-&emsp;&emsp;&emsp;&emsp;(I) such individual shall not be subject to the restrictions of subsection (a)(1)thereof for sharing in compensation earned by another for representations on matters covered by such section, and
+&emsp;&emsp;&emsp;&emsp;(I) such individual shall not be subject to the restrictions of subsection (a)(1) thereof for sharing in compensation earned by another for representations on matters covered by such section, and
 
 &emsp;&emsp;&emsp;&emsp;(II) a person shall not be subject to the restrictions of subsection (a)(2) thereof for sharing such compensation with such individual.
 
@@ -280,7 +280,7 @@ The Oversight Board shall have the following specific responsibilities:
 
 #### References in Text
 
-The Ethics in Government Act of 1978, referred to in subsec. (b)(3)(A), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat.1824, as amended. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (b)(3)(A), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
 #### Amendments
 
@@ -314,7 +314,7 @@ Pub. L. 105–206, title I, §1101(d), July 22, 1998, 112 Stat. 697, provided th
 
 “(1)
 
-In general.—The amendments made by this section \[amending this section and sections 4946 and 6103 of this title\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].
+In general.—The amendments made by this section \[amending this section and sections 4946 and 6103of this title\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].
 
 “(2)
 

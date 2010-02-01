@@ -32,7 +32,7 @@ Subject to this section:
 
 #### (A) In general
 
-&emsp;&emsp;If the Secretary determines that a State to which a grant is made under section 603 of this title for a fiscal year has failed to comply with section 607(a) of this title for thefiscal year, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by an amount equal to the applicable percentage of the State family assistance grant.
+&emsp;&emsp;If the Secretary determines that a State to which a grant is made under section 603 of this title for a fiscal year has failed to comply with section 607(a) of this title for the fiscal year, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by an amount equal to the applicable percentage of the State family assistance grant.
 
 #### (B) “Applicable percentage” defined
 
@@ -56,7 +56,7 @@ Subject to this section:
 
 #### (5) Failure to comply with paternity establishment and child support enforcement requirements under part D
 
-&emsp;Notwithstanding any other provision of this chapter, if the Secretary determines that the State agency that administers a program funded under this part does not enforce the penalties requested by the agency administering part D of this subchapter against recipients of assistance under the State program who fail to cooperate in establishing paternity or in establishing, modifying, or enforcing a child support order in accordance with such part and who do not qualify for any good cause or other exception established by the State under section 654(29) of this title, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year (without regard to this section) by not more than 5 percent.
+&emsp;Notwithstanding any other provision of this chapter, if the Secretary determines that theState agency that administers a program funded under this part does not enforce the penalties requested by the agency administering part D of this subchapter against recipients of assistance under the State program who fail to cooperate in establishing paternity or in establishing, modifying, or enforcing a child support order in accordance with such part and who do not qualify for any good cause or other exception established by the State under section 654(29) of this title, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year (without regard to this section) by not more than 5 percent.
 
 #### (6) Failure to timely repay a Federal Loan Fund for State Welfare Programs
 
@@ -84,7 +84,7 @@ Subject to this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) Educational activities designed to increase self-sufficiency, job training, and work, excluding any expenditure for public education in the State except expenditures which involve the provision of services or assistance to a member of an eligible family which is not generally available to persons who are not members of an eligible family.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(dd) Administrative costs in connection with the matters described initems (aa), (bb), (cc), and (ee), but only to the extent that such costs do not exceed 15 percent of the total amount of qualified State expenditures for the fiscal year.
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) Administrative costs in connection with the matters described in items (aa), (bb), (cc), and (ee), but only to the extent that such costs do not exceed 15 percent of the total amount of qualified State expenditures for the fiscal year.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(ee) Any other use of funds allowable under section 604(a)(1) of this title.
 
@@ -150,7 +150,7 @@ Subject to this section:
 
 &emsp;&emsp;If the Secretary finds, with respect to a State's program under part D of this subchapter, in a fiscal year beginning on or after October 1, 1997—
 
-&emsp;&emsp;&emsp;(i)(I) on the basis of data submitted by a State pursuant to section 654(15)(B) of this title, or on the basis of the results of a review conducted under section 652(a)(4) ofthis title, that the State program failed to achieve the paternity establishment percentages (as defined in section 652(g)(2) of this title), or to meet other performance measures that may be established by the Secretary;
+&emsp;&emsp;&emsp;(i)(I) on the basis of data submitted by a State pursuant to section 654(15)(B) of this title, or on the basis of the results of a review conducted under section 652(a)(4) of this title, that the State program failed to achieve the paternity establishment percentages (as defined in section 652(g)(2) of this title), or to meet other performance measures that may be established by the Secretary;
 
 &emsp;&emsp;&emsp;(II) on the basis of the results of an audit or audits conducted under section 652(a)(4)(C)(i) of this title that the State data submitted pursuant to section 654(15)(B) of this title is incomplete or unreliable; or
 
@@ -226,7 +226,7 @@ Subject to this section:
 
 #### (A) In general
 
-&emsp;&emsp;If the Secretary determines that a State to which a grant is made under section 603 of this title in a fiscal year has violated section 607(i)(2) of this title during the fiscal year, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by an amount equal to not less than 1 percent and not more than 5 percent of the State family assistance grant.
+&emsp;&emsp;If the Secretary determines that a State to which a grant is made under section 603 of this title in a fiscal year has violated section 607(i)(2) of this title during the fiscal year,the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by an amount equal to not less than 1 percent and not more than 5 percent of the State family assistance grant.
 
 #### (B) Penalty based on severity of failure
 
@@ -268,7 +268,7 @@ Subject to this section:
 
 #### (3) Effect of failing to correct or discontinue violation
 
-&emsp;The Secretary shall assess some or all of a penalty imposed on a State under subsection\(a) of this section with respect to a violation if the State does not, in a timely manner, correct or discontinue, as appropriate, the violation pursuant to a State corrective compliance plan accepted by the Secretary.
+&emsp;The Secretary shall assess some or all of a penalty imposed on a State under subsection (a) of this section with respect to a violation if the State does not, in a timely manner, correct or discontinue, as appropriate, the violation pursuant to a State corrective compliance plan accepted by the Secretary.
 
 #### (4) Inapplicability to certain penalties
 
@@ -374,7 +374,7 @@ Subsec. (a)(9). Pub. L. 105–33, §5506(h), substituted “608(a)(7)” for “
 
 Subsec. (a)(10). Pub. L. 105–33, §5506(i), substituted “the qualified State expenditures (as defined in paragraph (7)(B)(i) (other than the expenditures described in subclause (I)(bb) of that paragraph)) under the State program funded under this part for the fiscal year” for “the expenditures under the State program funded under this part for the fiscal year (excluding any amounts made available by the Federal Government)”, inserted “excluding any amount expended by the State for child care under subsection (g) or (i) of section 602 of this title (as in effect during fiscal year 1994) for fiscal year 1994,” after “(as defined in paragraph (7)(B)(iii) of this subsection),”, and inserted before period at end “that the State has not remitted under section 603(b)(6) of this title”.
 
-Subsec. (a)(12). Pub. L. 105–33, §5506(j), in heading substituted “Requirement” for “Failure” and “reductions; penalty for failure to do so” for “reductions” and in text inserted at end “If the State fails during such succeeding fiscal year to make the expenditure required by the preceding sentence from its own funds, the Secretary may reduce the grant payable to the State under section 603(a)(1) of this title for the fiscal year that follows such succeeding fiscal year by an amount equal to the sum of—
+Subsec. (a)(12). Pub. L. 105–33, §5506(j), in heading substituted “Requirement” for “Failure” and “reductions; penalty for failure to do so” for “reductions” and in text inserted at end “If the State fails during such succeeding fiscal year to make the expenditure required bythe preceding sentence from its own funds, the Secretary may reduce the grant payable to the State under section 603(a)(1) of this title for the fiscal year that follows such succeeding fiscal year by an amount equal to the sum of—
 
 &emsp;“(A) not more than 2 percent of the State family assistance grant; and
 

@@ -52,7 +52,7 @@ To be eligible to receive a grant under this section, an entity shall—
 
 &emsp;&emsp;(G) any other public or nonprofit entity determined appropriate by the Secretary; and
 
-&emsp;(2) prepare and submit to the Secretary an application at such time, in such manner, andcontaining such information as the Secretary may require, that includes—
+&emsp;(2) prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, that includes—
 
 &emsp;&emsp;(A) a description of the activities to be carried out under the grant; and
 

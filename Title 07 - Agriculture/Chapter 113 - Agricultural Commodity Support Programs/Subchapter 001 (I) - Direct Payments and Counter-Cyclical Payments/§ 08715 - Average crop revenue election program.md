@@ -36,7 +36,7 @@
 
 #### (5) Effect of failure to make election
 
-&emsp;If all of the producers on a farm fail to make an election under paragraph (1), make different elections under paragraph (1), or fail to timely notify the Secretary of the election made, as required by paragraph (4), all of the producers on the farm shall be deemed to have made the election to receive counter-cyclical payments under section 8714 or 8754 of thistitle for all covered commodities and peanuts on the farm, and to otherwise not have made the election described in paragraph (1), for the applicable crop years.
+&emsp;If all of the producers on a farm fail to make an election under paragraph (1), make different elections under paragraph (1), or fail to timely notify the Secretary of the election made, as required by paragraph (4), all of the producers on the farm shall be deemed to have made the election to receive counter-cyclical payments under section 8714 or 8754 of this title for all covered commodities and peanuts on the farm, and to otherwise not have made the election described in paragraph (1), for the applicable crop years.
 
 #### (b) Payments required
 
@@ -116,7 +116,7 @@
 
 #### (B) Assigned yield
 
-&emsp;&emsp;If the Secretary cannot establish the benchmark State yield for each planted acre for a crop year for a covered commodity or peanuts in a State in accordance with subparagraph (A) or if the yield determined under subparagraph (A) is an unrepresentative average yield for the State (as determined by the Secretary), the Secretary shall assign a benchmark State yield for eachplanted acre for the crop year for the covered commodity or peanuts in the State on the basis of—
+&emsp;&emsp;If the Secretary cannot establish the benchmark State yield for each planted acre for a crop year for a covered commodity or peanuts in a State in accordance with subparagraph (A) or if the yield determined under subparagraph (A) is an unrepresentative average yield for the State (as determined by the Secretary), the Secretary shall assign a benchmark State yield for each planted acre for the crop year for the covered commodity or peanuts in the State on the basis of—
 
 &emsp;&emsp;&emsp;(i) previous average yields for a period of 5 crop years, excluding each of the crop years with the highest and lowest yields; or
 

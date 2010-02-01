@@ -46,7 +46,7 @@ Subsec. (a)(2). Pub. L. 105–34, §1028(d)(1), substituted “Except as provide
 
 Subsec. (a)(3). Pub. L. 105–34, §1028(b), added par. (3).
 
-1986—Subsec. (a)(2). Pub. L. 99–514, §1532(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The penalty imposed under paragraph (1) with respect to any tax shelter shall be an amount equal to the greater of—
+1986—Subsec. (a)(2). Pub. L. 99–514, §1532(a), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: “The penalty imposed under paragraph (1) with respect to any tax shelter shall be an amount equal to the greater of—
 
 &emsp;“(A) $500, or
 

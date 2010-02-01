@@ -18,7 +18,7 @@ Purposes for which grants may be used.—
 
 &emsp;&emsp;(A)
 
-In general.—A State may use grants under paragraphs (1)(A) and (1)(B) only for expenses directly related to its compliance with section 31311; except that a grant under paragraph (1)(B) may be used for improvingimplementation of the State's commercial driver's license program, including expenses for computer hardware and software, publications, testing, personnel, training, and quality control. The grant may not be used to rent, lease, or buy land or buildings.
+In general.—A State may use grants under paragraphs (1)(A) and (1)(B) only for expenses directly related to its compliance with section 31311; except that a grant under paragraph (1)(B) may be used for improving implementation of the State's commercial driver's license program, including expenses for computer hardware and software, publications, testing, personnel, training, and quality control. The grant may not be used to rent, lease, or buy land or buildings.
 
 &emsp;&emsp;(B)
 

@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, act Aug. 10, 1912, ch. 284, 37 Stat. 293, established Wind Cave National Game Preserve. Preserve abolished and property transferred to Wind Cave National Park, to be administered by Secretary of the Interior for purposes expressed in this section, see section 141b of this title.
+Section, act Aug. 10, 1912, ch. 284, 37 Stat. 293, established Wind Cave National Game Preserve. Preserveabolished and property transferred to Wind Cave National Park, to be administered by Secretary of the Interior for purposes expressed in this section, see section 141b of this title.
 

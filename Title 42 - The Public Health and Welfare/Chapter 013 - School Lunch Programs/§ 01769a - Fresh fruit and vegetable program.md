@@ -26,7 +26,7 @@ A school participating in the program shall make free fresh fruits and vegetable
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2) of this subsection and section 4304(a)(2) of the Food,Conservation, and Energy Act of 2008, each year, in selecting schools to participate in the program, each State shall—
+&emsp;Except as provided in paragraph (2) of this subsection and section 4304(a)(2) of the Food, Conservation, and Energy Act of 2008, each year, in selecting schools to participate in the program, each State shall—
 
 &emsp;&emsp;(A) ensure that each school chosen to participate in the program is a school—
 
@@ -84,7 +84,7 @@ To the maximum extent practicable, each State agency shall ensure that in making
 
 #### (1) In general
 
-&emsp;The Secretary shall conduct an evaluation of the program, including a determination as to whether children experienced, as a result of participating in the program—
+&emsp;The Secretary shall conduct an evaluation of the program, including a determination asto whether children experienced, as a result of participating in the program—
 
 &emsp;&emsp;(A) increased consumption of fruits and vegetables;
 

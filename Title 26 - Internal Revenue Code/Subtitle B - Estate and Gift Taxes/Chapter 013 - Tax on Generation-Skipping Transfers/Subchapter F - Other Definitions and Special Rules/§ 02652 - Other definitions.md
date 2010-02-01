@@ -24,7 +24,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(A) any trust with respect to which a deduction is allowed to the decedent under section 2056 by reason of subsection (b)(7) thereof, and
 
-&emsp;&emsp;(B) any trust with respect to which a deduction to the donor spouse is allowed under section 2523 by reason of subsection (f) thereof,
+&emsp;&emsp;(B) any trust with respect to which a deduction to the donor spouse is allowed undersection 2523 by reason of subsection (f) thereof,
 
 > &emsp;the estate of the decedent or the donor spouse, as the case may be, may elect to treat all of the property in such trust for purposes of this chapter as if the election to be treated as qualified terminable interest property had not been made.
 

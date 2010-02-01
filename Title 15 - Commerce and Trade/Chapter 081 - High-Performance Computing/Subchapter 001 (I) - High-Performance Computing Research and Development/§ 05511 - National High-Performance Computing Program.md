@@ -72,7 +72,7 @@
 
 #### (b) Advisory committee
 
-(1) The President shall establish an advisory committee on high-performance computing, consisting of geographically dispersed non-Federal members, including representatives of the research, education, and library communities, network and related software providers, and industry representatives in the Program Component Areas, who are specially qualified to provide the Director with advice and information on high-performance computing. The recommendations of the advisory committee shall beconsidered in reviewing and revising the Program. The advisory committee shall provide the Director with an independent assessment of—
+(1) The President shall establish an advisory committee on high-performance computing, consisting of geographically dispersed non-Federal members, including representatives of the research, education, and library communities, network and related software providers, and industry representatives in the Program Component Areas, who are specially qualified to provide the Director with advice and information on high-performance computing. The recommendations of the advisory committee shall be considered in reviewing and revising the Program. The advisory committee shall provide the Director with an independent assessment of—
 
 &emsp;(A) progress made in implementing the Program;
 

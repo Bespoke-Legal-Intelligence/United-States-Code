@@ -10,7 +10,7 @@ In general.—Any person who willfully infringes a copyright shall be punished a
 
 &emsp;&emsp;(A) for purposes of commercial advantage or private financial gain;
 
-&emsp;&emsp;(B) by the reproduction or distribution, including by electronic means, during any 180–day period, of 1 or more copies or phonorecords of 1 or more copyrighted works,which have a total retail value of more than $1,000; or
+&emsp;&emsp;(B) by the reproduction or distribution, including by electronic means, during any 180–day period, of 1 or more copies or phonorecords of 1 or more copyrighted works, which have a total retail value of more than $1,000; or
 
 &emsp;&emsp;(C) by the distribution of a work being prepared for commercial distribution, by making it available on a computer network accessible to members of the public, if such person knew or should have known that the work was intended for commercial distribution.
 

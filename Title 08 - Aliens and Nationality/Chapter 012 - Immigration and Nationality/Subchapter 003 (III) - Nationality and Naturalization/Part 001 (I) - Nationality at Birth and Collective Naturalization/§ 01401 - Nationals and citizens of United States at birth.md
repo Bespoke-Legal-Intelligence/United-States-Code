@@ -42,7 +42,7 @@ Subsec. (d). Pub. L. 92–584, §3, added subsec. (d).
 
 #### Effective Date of 1986 Amendment
 
-Section 23(d) of Pub. L. 99–653, as added by Pub. L. 100–525, §8(r), Oct. 24, 1988, 102 Stat. 2619, provided that: “The amendment made by section 12 \[amending this section\] shall apply to persons born on or after November 14, 1986.”
+Section 23(d) of Pub. L. 99–653, as added by Pub. L. 100–525, §8(r), Oct. 24, 1988, 102 Stat. 2619, provided that:“The amendment made by section 12 \[amending this section\] shall apply to persons born on or after November 14, 1986.”
 
 #### Effective Date of 1978 Amendment
 

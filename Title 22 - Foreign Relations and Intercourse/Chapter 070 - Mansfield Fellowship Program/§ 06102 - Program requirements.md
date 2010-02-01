@@ -4,7 +4,7 @@ The program established under this chapter shall comply with the following requi
 
 &emsp;(1) United States citizens who are eligible for fellowships under this chapter shall be employees of the Federal Government having at least two years experience in any branch of the Government, a strong career interest in United States-Japan relations, and a demonstrated commitment to further service in the Federal Government, and such other qualifications as are determined by the Center.
 
-&emsp;(2) Not more than 10 fellowships may be awarded each year of which not more than 3 shall be awarded to individuals who are not detailed employees of the Government.
+&emsp;(2) Not more than 10 fellowships may be awarded each year of which not more than 3shall be awarded to individuals who are not detailed employees of the Government.
 
 &emsp;(3)(A) Fellows shall agree to maintain satisfactory progress in language training and appropriate behavior in Japan, as determined by the Center, as a condition of continued receipt of Federal funds.
 

@@ -40,7 +40,7 @@
 
 (3) The Secretary shall prescribe the relationship of each office or other entity established or designated under paragraph (2) to the Chief of Staff and to the Army Staff and shall ensure that each such office or entity provides the Chief of Staff such staff support as the Chief of Staff considers necessary to perform his duties and responsibilities.
 
-(4) The vesting in the Office of the Secretary of the Army of the responsibility for the conduct of a function specified in paragraph (1) doesnot preclude other elements of the executive part of the Department of the Army (including the Army Staff) from providing advice or assistance to the Chief of Staff or otherwise participating in that function within the executive part of the Department under the direction of the office assigned responsibility for that function in the Office of the Secretary of the Army.
+(4) The vesting in the Office of the Secretary of the Army of the responsibility for the conduct of a function specified in paragraph (1) does not preclude other elements of the executive part of the Department of the Army (including the Army Staff) from providing advice or assistance to the Chief of Staff or otherwise participating in that function within the executive part of the Department under the direction of the office assigned responsibility for that function in the Office of the Secretary of the Army.
 
 (5) The head of the office or other entity established or designated by the Secretary to conduct the auditing function shall have at least five years of professional experience in accounting or auditing. The position shall be considered to be a career reserved position as defined in section 3132(a)(8) of title 5.
 
@@ -92,5 +92,5 @@ Section 532(a) of Pub. L. 99–433 provided that: “The provisions of subsectio
 
 #### Exceptions and Adjustments to Limitations on Personnel
 
-Baseline personnel limitations in this section inapplicable to certain acquisition personnel and personnel hired pursuant to a shortage category designation for fiscal year 2009 and fiscal years thereafter, and Secretary of Defense or a secretary of a military department authorized to adjust such limitations for fiscal year 2009 and for four fiscal years thereafter, see section 1111 of Pub. L. 110–417, set out as a note under section 143 of this title.
+Baseline personnel limitations in this section inapplicable to certain acquisition personnel and personnelhired pursuant to a shortage category designation for fiscal year 2009 and fiscal years thereafter, and Secretary of Defense or a secretary of a military department authorized to adjust such limitations for fiscal year 2009 and fiscal years thereafter, see section 1111 of Pub. L. 110–417, set out as a note under section 143 of this title.
 

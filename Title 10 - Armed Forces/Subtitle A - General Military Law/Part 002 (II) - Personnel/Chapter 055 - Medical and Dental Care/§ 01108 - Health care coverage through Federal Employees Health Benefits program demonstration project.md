@@ -2,7 +2,7 @@
 
 (a)
 
-FEHBP Option Demonstration.—The Secretary of Defense, after consulting with theother administering Secretaries, shall enter into an agreement with the Office of Personnel Management to conduct a demonstration project (in this section referred to as the “demonstration project”) under which eligible beneficiaries described in subsection (b) and residing within one of the areas covered by the demonstration project may enroll in health benefits plans offered through the Federal Employees Health Benefits program under chapter 89 of title 5. The number of eligible beneficiaries and family members of such beneficiaries under subsection (b)(2) who may be enrolled in health benefits plans during the enrollment period under subsection (d)(2) may not exceed 66,000.
+FEHBP Option Demonstration.—The Secretary of Defense, after consulting with the other administering Secretaries, shall enter into an agreement with the Office of Personnel Management to conduct a demonstration project (in this section referred to as the “demonstration project”) under which eligible beneficiaries described in subsection (b) and residing within one of the areas covered by the demonstration project may enroll in health benefits plans offered through the Federal Employees Health Benefits program under chapter 89 of title 5. The number of eligible beneficiaries and family members of such beneficiaries under subsection (b)(2) who may be enrolled in health benefits plans during the enrollment period under subsection (d)(2) may not exceed 66,000.
 
 (b)
 
@@ -14,7 +14,7 @@ Eligible Beneficiaries; Coverage.—(1) An eligible beneficiary under this subse
 
 &emsp;(C) an individual who is—
 
-&emsp;&emsp;(i) a dependent of a deceased member or former member described in section 1076(b) or 1076(a)(2)(B) of this title or of a member who died while on active duty for a period of more than 30 days; and
+&emsp;&emsp;(i) a dependent of a deceased member or former member described in section 1076(b)or 1076(a)(2)(B) of this title or of a member who died while on active duty for a period of more than 30 days; and
 
 &emsp;&emsp;(ii) a member of family as defined in section 8901(5) of title 5; or
 
@@ -68,7 +68,7 @@ Effect of Cancellation.—The cancellation by an eligible beneficiary of coverag
 
 (h)
 
-Separate Risk Pools; Charges.—(1) The Director of the Office of Personnel Management shall require health benefits plans under chapter 89 of title 5 that participate in the demonstration project to maintain a separate risk pool forpurposes of establishing premium rates for eligible beneficiaries who enroll in such a plan in accordance with this section.
+Separate Risk Pools; Charges.—(1) The Director of the Office of Personnel Management shall require health benefits plans under chapter 89 of title 5 that participate in the demonstration project to maintain a separate risk pool for purposes of establishing premium rates for eligible beneficiaries who enroll in such a plan in accordance with this section.
 
 (2) The Director shall determine total subscription charges for self only or for family coverage for eligible beneficiaries who enroll in a health benefits plan under chapter 89 of title 5 in accordance with this section. The subscription charges shall include premium charges paid to the plan and amounts described in section 8906(c) of title 5 for administrative expenses and contingency reserves.
 
@@ -78,7 +78,7 @@ Government Contributions.—The Secretary of Defense shall be responsible for th
 
 (j)
 
-Report Requirements.—(1) The Secretary of Defense and the Director of the Office of Personnel Management shall jointly submit to Congress two reports containing the information described in paragraph (2). The first report shall be submitted not later than the date that is 15 months after the date that the Secretary begins to implement the demonstration project. The second report shall be submitted not later than December 31, 2002.
+Report Requirements.—(1) The Secretary of Defense and the Director of the Office of Personnel Management shall jointly submit to Congress two reports containing the information described in paragraph (2). The first report shall besubmitted not later than the date that is 15 months after the date that the Secretary begins to implement the demonstration project. The second report shall be submitted not later than December 31, 2002.
 
 (2) The reports required by paragraph (1) shall include the following:
 
@@ -142,7 +142,7 @@ References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subje
 
 #### Comprehensive Evaluation of Implementation of Demonstration Projects and TRICARE Pharmacy Redesign
 
-Pub. L. 105–261, div. A, title VII, §724, Oct. 17, 1998, 112 Stat. 2069, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, required the Comptroller General, not later than Mar. 31, 2003, to submit to committees of Congress a report containing a comprehensive comparative analysis of the FEHBP demonstration project conducted under this section, the TRICARE Senior Supplement under Pub. L. 105–261, §722, formerly set out as a note under section 1073 of this title, and the redesign of the TRICARE pharmacy system under section Pub. L. 105–261, §723, set out as a note under section 1073 of this title.
+Pub. L. 105–261, div. A, title VII, §724, Oct. 17, 1998, 112 Stat. 2069, as amended by Pub. L. 106–65, div. A, title X,§1067(3), Oct. 5, 1999, 113 Stat. 774, required the Comptroller General, not later than Mar. 31, 2003, to submit to committees of Congress a report containing a comprehensive comparative analysis of the FEHBP demonstration project conducted under this section, the TRICARE Senior Supplement under Pub. L. 105–261, §722, formerly set out as a note under section 1073 of this title, and the redesign of the TRICARE pharmacy system under section Pub. L. 105–261, §723, set out as a note under section 1073 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

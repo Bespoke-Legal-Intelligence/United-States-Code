@@ -34,7 +34,7 @@ Acceptance of Faculty Research Grants.—(1) The Secretary of Defense may author
 
 (3) A grant may be accepted under this subsection only from a corporation, fund, foundation, educational institution, or similar entity that is organized and operated primarily for scientific, literary, or educational purposes.
 
-(4) The Secretary shall establish an account for administering funds received as research grants under this subsection. The President of the University shall use the funds in the account in accordance with applicable provisions of the regulations and the terms and condition of the grants received.
+(4) The Secretary shall establish an account for administering funds received as researchgrants under this subsection. The President of the University shall use the funds in the account in accordance with applicable provisions of the regulations and the terms and condition of the grants received.
 
 (5) Subject to such limitations as may be provided in appropriations Acts, appropriations available for the National Defense University may be used to pay expenses incurred by the University in applying for, and otherwise pursuing, the award of qualifying research grants.
 
@@ -98,7 +98,7 @@ Startup of Center.—The Secretary of Defense shall establish the Center for the
 
 “(e)
 
-Implementation Report.—(1) Not later than January 1, 2001, the President of the National DefenseUniversity shall submit to the Secretary of Defense a report setting forth the President's organizational plan for the Center for the Study of Chinese Military Affairs, the proposed budget for the Center, and the timetable for initial and full operations of the Center. The President of the National Defense University shall prepare that report in consultation with the Director of the Center and the Director of the Institute for National Strategic Studies of the University.
+Implementation Report.—(1) Not later than January 1, 2001, the President of the National Defense University shall submit to the Secretary of Defense a report setting forth the President's organizational plan for the Center for the Study of Chinese Military Affairs, the proposed budget for the Center, and the timetable for initial and full operations of the Center. The President of the National Defense University shall prepare that report in consultation with the Director of the Center and the Director of the Institute for National Strategic Studies of the University.
 
 “(2) The Secretary of Defense shall transmit the report under paragraph (1), together with whatever comments the Secretary considers appropriate, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives not later than February 1, 2001.”
 

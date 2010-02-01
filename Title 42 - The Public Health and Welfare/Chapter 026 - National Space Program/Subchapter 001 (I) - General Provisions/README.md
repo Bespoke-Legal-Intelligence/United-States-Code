@@ -29,6 +29,7 @@
 - [&sect; 02459h - Cost effectiveness calculations](%C2%A7%2002459h%20-%20Cost%20effectiveness%20calculations.md)
 - [&sect; 02459i - Working capital fund](%C2%A7%2002459i%20-%20Working%20capital%20fund.md)
 - [&sect; 02459j - Lease of non-excess property](%C2%A7%2002459j%20-%20Lease%20of%20non-excess%20property.md)
+- [&sect; 02459j&#8211;1 - Deposit of proceeds from lease of non-excess property](%C2%A7%2002459j%E2%80%931%20-%20Deposit%20of%20proceeds%20from%20lease%20of%20non-excess%20property.md)
 - [&sect; 02459k - Retrocession of jurisdiction](%C2%A7%2002459k%20-%20Retrocession%20of%20jurisdiction.md)
 - [&sect; 02459l - Recovery and disposition authority](%C2%A7%2002459l%20-%20Recovery%20and%20disposition%20authority.md)
 - [&sect; 02460 - Appropriations; prior authorization by Congress](%C2%A7%2002460%20-%20Appropriations%3B%20prior%20authorization%20by%20Congress.md)

@@ -66,7 +66,7 @@ Each program assisted under this subpart shall—
 
 #### References in Text
 
-The Adult Education and Family Literacy Act, referred to in par. (9)(B), is title II of Pub. L. 105–220, Aug.7, 1998, 112 Stat. 1059, as amended, which is classified principally to subchapter I (§9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
+The Adult Education and Family Literacy Act, referred to in par. (9)(B), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, which is classified principally to subchapter I (§9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
 The Individuals with Disabilities Education Act, referred to in par. (9)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 

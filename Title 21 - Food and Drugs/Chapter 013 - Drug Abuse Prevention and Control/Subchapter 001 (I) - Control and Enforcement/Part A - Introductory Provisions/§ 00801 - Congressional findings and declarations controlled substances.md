@@ -54,7 +54,7 @@ Pub. L. 109–57, §1(a), Aug. 2, 2005, 119 Stat. 592, provided that: “This Ac
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–358, §1, Oct. 22, 2004, 118 Stat. 1661, provided that: “This Act \[enacting section 290bb–25f of Title 42, The Public Health and Welfare, amending sections 802 and 811 of this title, enacting provisions set out as notes under section 802 of this title and section 290aa–4 of Title 42 and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure, and amending provisions set out as a note under section 802 of thistitle\] may be cited as the ‘Anabolic Steroid Control Act of 2004’.”
+Pub. L. 108–358, §1, Oct. 22, 2004, 118 Stat. 1661, provided that: “This Act \[enacting section 290bb–25f of Title 42, The Public Health and Welfare, amending sections 802 and 811 of this title, enacting provisions set out as notes under section 802 of this title and section 290aa–4 of Title 42 and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure, and amending provisions set out as a note under section 802 of this title\] may be cited as the ‘Anabolic Steroid Control Act of 2004’.”
 
 #### Short Title of 2003 Amendment
 
@@ -124,7 +124,7 @@ Pub. L. 99–570, title I, §1991, Oct. 27, 1986, 100 Stat. 3207–59, provided 
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–473, title II, §501, Oct. 12, 1984, 98 Stat. 2068, provided that: “This chapter \[chapter V (§§501–525) of title II of Pub. L. 98–473, enacting section 845a of this title, amending sections 802, 811, 812, 822–824, 827, 841, 843, 845, 873, 881, 952, 953, 957, 958, 960, and 962 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Controlled Substances Penalties Amendments Act of 1984’.”
+Pub. L. 98–473, title II, §501, Oct. 12, 1984, 98 Stat. 2068, provided that: “This chapter \[chapter V (§§501–525) of title II of Pub. L. 98–473, enacting section 845a of this title, amending sections 802, 811, 812, 822–824, 827, 841, 843, 845, 873, 881, 952, 953, 957, 958, 960, and 962 of this title, and enacting provisions set out as a note underthis section\] may be cited as the ‘Controlled Substances Penalties Amendments Act of 1984’.”
 
 Pub. L. 98–473, title II, §506(a), Oct. 12, 1984, 98 Stat. 2070, provided that: “This part \[part B of chapter V (§§506–525) of title II of Pub. L. 98–473, amending sections 802, 811, 812, 822–824, 827, 843, 873, 881, 952, 953, 957, and 958 of this title\] may be cited as the ‘Dangerous Drug Diversion Control Act of 1984’.”
 
@@ -160,7 +160,7 @@ Pub. L. 106–310, div. B, title XXXVI, §3671, Oct. 17, 2000, 114 Stat. 1245, p
 
 #### Protocols for Investigations and Prosecutions Relating to Date-Rape Drugs and Other Controlled Substances; Annual Report; National Awareness Campaign
 
-Pub. L. 106–172, §§6, 7, Feb. 18, 2000, 114 Stat. 11, provided that:
+Pub. L. 106–172, §§6, 7, Feb. 18, 2000, 114 Stat. 11, as amended by Pub. L. 111–8, div. G, title I, §1301(d), Mar. 11, 2009, 123 Stat. 829, provided that:
 
 #### “SEC. 6. DEVELOPMENT OF MODEL PROTOCOLS, TRAINING MATERIALS, FORENSIC FIELD TESTS, AND COORDINATION MECHANISM FOR INVESTIGATIONS AND PROSECUTIONS RELATING TO GAMMA HYDROXYBUTYRIC ACID, OTHER CONTROLLED SUBSTANCES, AND DESIGNER DRUGS.
 
@@ -229,10 +229,6 @@ Advisory committee.—Not later than 180 days after the date of the enactment of
 &emsp;“(2)
 
 Implementation of plan.—Not later than 180 days after the date on which the advisory committee under paragraph (1) is established, the Secretary, in consultation with the Attorney General, shall commence carrying out the national campaign under such paragraph in accordance with the plan developed under such paragraph. The campaign may be carried out directly by the Secretary and through grants and contracts.
-
-&emsp;“(3)
-
-Evaluation by general accounting office \[now Government Accountability Office\].—Not later than 2 years after the date on which the national campaign under paragraph (1) is commenced, the Comptroller General of the United States shall submit to Congress an evaluation of the effects with respect to date-rape drugs of the national campaign.
 
 “(c)
 
@@ -562,7 +558,7 @@ Section 601 of Pub. L. 91–513, as amended by Pub. L. 92–13, May 14, 1971, 85
 
 “(c)
 
-\[Personnel; experts; information from departments and agencies\] (1) The Commission shall have the power to appoint and fix the compensation of such personnel as it deems advisable, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates.
+\[Personnel; experts; information from departments and agencies\] (1) The Commission shallhave the power to appoint and fix the compensation of such personnel as it deems advisable, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates.
 
 “(2) The Commission may procure, in accordance with the provisions of section 3109 of title 5, United States Code, the temporary or intermittent services of experts or consultants. Persons so employed shall receive compensation at a rate to be fixed by the Commission, but not in excess of $75 per diem, including traveltime. While away from his home or regular place of business in the performance of services for the Commission, any such person may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703(b) of title 5, United States Code, for persons in the Government service employed intermittently.
 

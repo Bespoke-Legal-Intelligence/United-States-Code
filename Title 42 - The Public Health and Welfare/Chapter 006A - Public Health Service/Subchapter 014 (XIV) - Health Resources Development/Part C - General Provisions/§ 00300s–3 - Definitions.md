@@ -40,7 +40,7 @@ Except as provided in section 300t–12(e) of this title, for purposes of this s
 
 (11) The term “medical facility” means a hospital, public health center, outpatient medical facility, rehabilitation facility, facility for long-term care, or other facility (as may be designated by the Secretary) for the provision of health care to ambulatory patients.
 
-(12) The term “State Agency” means the State health planning and development agency of a State designated under subchapter XIII of this chapter.<sup>3</sup>
+(12) The term “State Agency” means the State health planning and development agency of aState designated under subchapter XIII of this chapter.<sup>3</sup>
 
 (13) The term “urban or rural poverty area” means an urban or rural geographical area (as defined by the Secretary) in which a percentage (as defined by the Secretary in accordance with the next sentence) of the residents of the area have incomes below the poverty level (as defined by the Secretary of Commerce). The percentage referred to in the preceding sentence shall be defined so that the percentage of the population of the United States residing in urban and rural poverty areas is—
 

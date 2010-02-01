@@ -42,7 +42,7 @@ For the purposes of this section:
 
 &emsp;&emsp;(A) a depository institution the accounts of which are insured pursuant to the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] or the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], and any subsidiary (as such term is defined in section 3(w) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(w)\]) thereof;
 
-&emsp;&emsp;(B) a depository institution holding company and any subsidiary thereof (as such term is defined in section 3(w) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(w)\]); or
+&emsp;&emsp;(B) a depository institution holding company and any subsidiary thereof (as suchterm is defined in section 3(w) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(w)\]); or
 
 &emsp;&emsp;(C) a company at least 75 percent of the common stock of which is owned by one or more insured depository institutions or depository institution holding companies.
 
@@ -98,7 +98,7 @@ The Secretary shall consult with an informal working group representative of eli
 
 &emsp;(B) the matching ratio established for such test neighborhoods under paragraph (4).
 
-(3) The Secretary shall pay not more than $50,000 under this section to any participating neighborhood development organization during a single program year, except that, if appropriations for this section exceed $3,000,000, the Secretary may pay not more than $75,000 to any participating neighborhood development organization.
+(3) The Secretary shall pay not more than $50,000 under this section to any participatingneighborhood development organization during a single program year, except that, if appropriations for this section exceed $3,000,000, the Secretary may pay not more than $75,000 to any participating neighborhood development organization.
 
 (4) For purposes of paragraph (2), the Secretary shall, for each participating organization, determine an appropriate ratio by which monetary contributions made to participating neighborhood development organizations will be matched by Federal funds. The highest such ratios shall be established for neighborhoods having the smallest number of households or the greatest degree of economic distress.
 
@@ -164,7 +164,7 @@ Subsec. (b)(2). Pub. L. 102–550, §832(b)(2), (g)(2), struck out “demonstrat
 
 Subsec. (b)(3)(B). Pub. L. 102–550, §832(f)(2)(A), struck out “and” at end.
 
-Subsec. (b)(3)(C). Pub. L. 102–550, §832(f)(2)(B), substituted “, especially in cooperation with a neighborhood development funding organization, except that an eligible neighborhood development organization shall be deemed to have the full benefit of the cooperation of a neighborhood development funding organization if the eligible neighborhood development organization—” and cls. (i) and (ii) for period at end.
+Subsec. (b)(3)(C). Pub. L. 102–550, §832(f)(2)(B), substituted “, especially in cooperation with a neighborhood development funding organization, except that an eligible neighborhood development organization shallbe deemed to have the full benefit of the cooperation of a neighborhood development funding organization if the eligible neighborhood development organization—” and cls. (i) and (ii) for period at end.
 
 Subsec. (b)(3)(D). Pub. L. 102–550, §832(f)(2)(C), added subpar. (D).
 
@@ -194,7 +194,7 @@ Subsec. (h). Pub. L. 102–550, §832(b)(7), added subsec. (h).
 
 1988—Subsec. (e)(3). Pub. L. 100–242, §525, substituted “under this section” for “under this Act”.
 
-Subsec. (g). Pub. L. 100–242, §521, amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “For purposes of carrying out this section, thereare authorized to be appropriated not to exceed $2,000,000 for each of the fiscal years 1984 and 1985.”
+Subsec. (g). Pub. L. 100–242, §521, amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “For purposes of carrying out this section, there are authorized to be appropriated not to exceed $2,000,000 for each of the fiscal years 1984 and 1985.”
 
 1984—Subsec. (b)(3)(A), (B). Pub. L. 98–479, §101(b)(2), substituted “subsection (a)(1)” for “subsection (a)(4)” wherever appearing.
 

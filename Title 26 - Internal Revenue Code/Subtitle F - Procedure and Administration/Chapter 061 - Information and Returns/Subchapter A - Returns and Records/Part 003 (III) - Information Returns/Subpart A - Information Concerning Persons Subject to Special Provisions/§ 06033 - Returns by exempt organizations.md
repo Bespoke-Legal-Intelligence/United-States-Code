@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(ii) an educational organization described in section 170(b)(1)(A)(ii);
 
-&emsp;&emsp;&emsp;(iii) a charitable organization, or an organization for the prevention of cruelty to children or animals, described in section 501(c)(3), if such organization is supported, in whole or in part, by funds contributedby the United States or any State or political subdivision thereof, or is primarily supported by contributions of the general public;
+&emsp;&emsp;&emsp;(iii) a charitable organization, or an organization for the prevention of cruelty to children or animals, described in section 501(c)(3), if such organization is supported, in whole or in part, by funds contributed by the United States or any State or political subdivision thereof, or is primarily supported by contributions of the general public;
 
 &emsp;&emsp;&emsp;(iv) an organization described in section 501(c)(3), if such organization is operated, supervised, or controlled by or in connection with a religious organization described in clause (i);
 
@@ -86,7 +86,7 @@ Every organization described in section 501(c)(3) which is subject to the requir
 
 &emsp;&emsp;(B) section 4912 (relating to tax on disqualifying lobbying expenditures of certain organizations), and
 
-&emsp;&emsp;(C) section 4955 (relating to taxes on political expenditures of section 501(c)(3) organizations), except to the extent that, by reason of section 4962, the taxes imposed under such section are not required to be paid or are credited or refunded,
+&emsp;&emsp;(C) section 4955 (relating to taxes on political expenditures of section 501(c)(3) organizations), except to the extent that, by reasonof section 4962, the taxes imposed under such section are not required to be paid or are credited or refunded,
 
 &emsp;(11) the respective amounts (if any) of—
 
@@ -164,7 +164,7 @@ The following organizations shall comply with the requirements of this section i
 
 #### (ii) Carryover of lobbying expenditures in excess of dues
 
-&emsp;&emsp;&emsp;If expenditures to which section 162(e)(1) applies exceed the dues or other similar amounts for any taxable year, such excess shall be treated as expenditures to which section 162(e)(1) applies which are paid or incurred by the organization during the following taxable year.
+&emsp;&emsp;&emsp;If expenditures to which section 162(e)(1) applies exceed the dues or other similaramounts for any taxable year, such excess shall be treated as expenditures to which section 162(e)(1) applies which are paid or incurred by the organization during the following taxable year.
 
 #### (2) Tax imposed where organization does not notify
 
@@ -198,7 +198,7 @@ Every organization described in section 501(c)(4) which is subject to the requir
 
 #### (1) In general
 
-&emsp;This section shall apply to a political organization (as defined by section 527(e)(1)) whichhas gross receipts of $25,000 or more for the taxable year. In the case of a political organization which is a qualified State or local political organization (as defined in section 527(e)(5)), the preceding sentence shall be applied by substituting “$100,000” for “$25,000”.
+&emsp;This section shall apply to a political organization (as defined by section 527(e)(1)) which has gross receipts of $25,000 or more for the taxable year. In the case of a political organization which is a qualified State or local political organization (as defined in section 527(e)(5)), the preceding sentence shall be applied by substituting “$100,000” for “$25,000”.
 
 #### (2) Annual returns
 
@@ -418,7 +418,7 @@ Pub. L. 110–343, div. C, title VII, §703(b), Oct. 3, 2008, 122 Stat. 3919, pr
 
 Pub. L. 109–280, title XII, §1205(c)(2), Aug. 17, 2006, 120 Stat. 1068, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to returns the due date (determined without regard to extensions) of which is after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
-Pub. L. 109–280, title XII, §1223(f), Aug. 17, 2006, 120 Stat. 1091, provided that: “The amendments made by this section \[amending this section and sections 6652 and 7428 of this title\] shall apply to notices and returns with respect to annual periods beginning after 2006.”
+Pub. L. 109–280, title XII, §1223(f), Aug. 17, 2006, 120 Stat. 1091, provided that: “The amendments made bythis section \[amending this section and sections 6652 and 7428 of this title\] shall apply to notices and returns with respect to annual periods beginning after 2006.”
 
 Pub. L. 109–280, title XII, §1235(a)(2), Aug. 17, 2006, 120 Stat. 1101, provided that: “The amendments made by this subsection \[amending this section\] shall apply to returns filed for taxable years ending after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
@@ -458,7 +458,7 @@ Section 10703(b) of Pub. L. 100–203 provided that: “The amendments made by s
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard toextensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
+Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
 
 #### Effective Date of 1980 Amendment
 

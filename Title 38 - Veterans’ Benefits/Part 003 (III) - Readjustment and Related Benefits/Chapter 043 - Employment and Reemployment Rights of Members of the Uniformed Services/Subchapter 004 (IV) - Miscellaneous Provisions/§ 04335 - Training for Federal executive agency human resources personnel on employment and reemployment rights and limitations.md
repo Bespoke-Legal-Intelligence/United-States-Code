@@ -44,7 +44,7 @@ Another prior section 5004, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 152; Pub. 
 
 A prior section 5005 was renumbered section 8105 of this title.
 
-Another prior section 5005, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1252; Pub. L. 94–581, title II, §210(e)(4), Oct.21, 1976, 90 Stat. 2865, relating to the acceptance by the President of buildings, structures, equipment, or grounds from States or other political subdivisions or from persons, was omitted in the general revision of subchapter I of chapter 81 of this title by Pub. L. 96–22. See section 8115 of this title.
+Another prior section 5005, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1252; Pub. L. 94–581, title II, §210(e)(4), Oct. 21, 1976, 90 Stat. 2865, relating to the acceptance by the President of buildings, structures, equipment, or grounds from States or other political subdivisions or from persons, was omitted in the general revision of subchapter I of chapter 81 of this title by Pub. L. 96–22. See section 8115 of this title.
 
 A prior section 5006 was renumbered section 8106 of this title.
 

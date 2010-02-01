@@ -30,7 +30,7 @@ As used in this part:
 
 #### (3) Distressed loan
 
-&emsp;The term “distressed loan” means a loan that the borrower does not have the financialcapacity to pay according to its terms and that exhibits one or more of the following characteristics:
+&emsp;The term “distressed loan” means a loan that the borrower does not have the financial capacity to pay according to its terms and that exhibits one or more of the following characteristics:
 
 &emsp;&emsp;(A) The borrower is demonstrating adverse financial and repayment trends.
 
@@ -110,7 +110,7 @@ On determination by a qualified lender that a loan made by the lender is or has 
 
 #### (1) In general
 
-&emsp;When a qualified lender receives an application for restructuring from a borrower, the qualified lender shall determine whether or not to restructure the loan, taking into consideration—
+&emsp;When a qualified lender receives an application for restructuring from a borrower, thequalified lender shall determine whether or not to restructure the loan, taking into consideration—
 
 &emsp;&emsp;(A) whether the cost to the lender of restructuring the loan is equal to or less than the cost of foreclosure;
 
@@ -190,7 +190,7 @@ The time limitation prescribed in subsection (b)(2) of this section, and the req
 
 Each Farm Credit Bank, on request of any production credit association, may assist the association in restructuring loans under this section.
 
-(Pub. L. 92–181, title IV, §4.14A, as added Pub. L. 100–233, title I, §102(a), Jan. 6, 1988, 101 Stat. 1574;amended Pub. L. 100–399, title I, §102(a)–(f), Aug. 17, 1988, 102 Stat. 990; Pub. L. 104–105, title II, §208(a), Feb. 10, 1996, 110 Stat. 173.)
+(Pub. L. 92–181, title IV, §4.14A, as added Pub. L. 100–233, title I, §102(a), Jan. 6, 1988, 101 Stat. 1574; amended Pub. L. 100–399, title I, §102(a)–(f), Aug. 17, 1988, 102 Stat. 990; Pub. L. 104–105, title II, §208(a), Feb. 10, 1996, 110 Stat. 173.)
 
 #### Amendments
 

@@ -20,7 +20,7 @@ The Secretary shall by regulation provide procedures for implementation of this 
 
 #### (c) Payment to States of amounts recovered
 
-Notwithstanding any other provision of this chapter, from the trust funds established under sections 1395i and 1395t of this title, as appropriate, the Secretary shall pay to the appropriate State agency amounts recovered under this section to offset the State agency's overpayment under subchapter XIX of this chapter. Such payments shall be accounted for by the State agency as recoveries of overpayments under the State plan.
+Notwithstanding any other provision of this chapter, from the trust funds established under sections 1395i and 1395t of this title, as appropriate, the Secretary shall pay to the appropriate State agency amounts recovered underthis section to offset the State agency's overpayment under subchapter XIX of this chapter. Such payments shall be accounted for by the State agency as recoveries of overpayments under the State plan.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1885, as added Pub. L. 97–35, title XXI, §2104, Aug. 13, 1981, 95 Stat. 788.)
 

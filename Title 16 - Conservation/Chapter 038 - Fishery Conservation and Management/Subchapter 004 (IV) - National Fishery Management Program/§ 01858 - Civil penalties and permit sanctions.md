@@ -34,7 +34,7 @@ For the purposes of conducting any hearing under this section, the Secretary may
 
 &emsp;(iii) deny such permit; or
 
-&emsp;(iv) impose additional conditions and restrictions on any permit issued to or applied for by such vessel or person under this chapter and, with respect to foreign fishing vessels, on the approved application of the foreign nationinvolved and on any permit issued under that application.
+&emsp;(iv) impose additional conditions and restrictions on any permit issued to or applied for by such vessel or person under this chapter and, with respect to foreign fishing vessels, on the approved application of the foreign nation involved and on any permit issued under that application.
 
 (2) In imposing a sanction under this subsection, the Secretary shall take into account—
 
@@ -58,7 +58,7 @@ This chapter, referred to in subsec. (g)(1), was in the original “this Act”,
 
 1996—Subsec. (a). Pub. L. 104–297, §114(a), struck out “ability to pay,” after “history of prior offenses,” and inserted at end “In assessing such penalty the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay, Provided, That the information is served on the Secretary at least 30 days prior to an administrative hearing.”
 
-Subsec. (b). Pub. L. 104–297, §114(b), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the United States district court for the appropriate district by filing a complaint in such court within 30 days from the date of such order and by simultaneously serving a copy of such complaint by certified mail on the Secretary, the Attorney General and the appropriate United States Attorney.”
+Subsec. (b). Pub. L. 104–297, §114(b), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the United States districtcourt for the appropriate district by filing a complaint in such court within 30 days from the date of such order and by simultaneously serving a copy of such complaint by certified mail on the Secretary, the Attorney General and the appropriate United States Attorney.”
 
 Subsec. (g)(1). Pub. L. 104–297, §114(c), substituted “(C) any amount in settlement of a civil forfeiture imposed on a vessel or other property, or any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any marine resource law enforced by the Secretary has not been paid and is overdue, or (D) any payment required for observer services provided to or contracted by an owner or operator who has been issued a permit or applied for a permit under any marine resource law administered by the Secretary has not been paid and is overdue,” for “or (C) any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any fishery resource law statute enforced by the Secretary has not been paid and is overdue,”.
 

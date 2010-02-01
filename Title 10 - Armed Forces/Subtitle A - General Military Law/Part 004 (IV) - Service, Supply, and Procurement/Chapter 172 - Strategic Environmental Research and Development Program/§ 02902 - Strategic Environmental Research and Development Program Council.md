@@ -44,7 +44,7 @@
 
 &emsp;(5) To ensure that research and development activities under the Strategic Environmental Research and Development Program do not duplicate other ongoing activities sponsored by the Department of Defense, the Department of Energy, the Environmental Protection Agency, the National Oceanic and Atmospheric Administration, the National Aeronautics and Space Administration, or any other department or agency of the Federal Government.
 
-&emsp;(6) To ensure that the research and development programs identified for support pursuant to policies and procedures prescribed by the council utilize, to the maximum extent possible, the talents, skills, and abilities residing at the Federal laboratories, including the Department of Energy multiprogram and defense laboratories, the Department of Defense laboratories, and Federal contract research centers. To utilize the research capabilities of institutions of higher education and private industry to the extent practicable.
+&emsp;(6) To ensure that the research and development programs identified for support pursuant to policies and procedures prescribed by the council utilize, to the maximum extent possible, the talents, skills, and abilities residingat the Federal laboratories, including the Department of Energy multiprogram and defense laboratories, the Department of Defense laboratories, and Federal contract research centers. To utilize the research capabilities of institutions of higher education and private industry to the extent practicable.
 
 (e) In carrying out subsection (d)(1), the Council shall prescribe policies and procedures that—
 

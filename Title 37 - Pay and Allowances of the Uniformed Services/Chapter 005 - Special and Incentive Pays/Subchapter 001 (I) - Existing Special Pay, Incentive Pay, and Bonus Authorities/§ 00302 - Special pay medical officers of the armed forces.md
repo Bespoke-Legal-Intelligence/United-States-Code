@@ -26,7 +26,7 @@ Variable, Additional, and Board Certification Special Pay.—(1) An officer who 
 
 (3) An officer described in paragraph (1) who is serving in a pay grade above pay grade O–6 is entitled to variable special pay at the rate of $7,000 per year.
 
-(4) Subject to subsection (c), an officer entitled to variable special pay under paragraph (2) or (3) is entitled to additional special pay of$15,000 for any twelve-month period during which the officer is not undergoing medical internship or initial residency training.
+(4) Subject to subsection (c), an officer entitled to variable special pay under paragraph (2) or (3) is entitled to additional special pay of $15,000 for any twelve-month period during which the officer is not undergoing medical internship or initial residency training.
 
 (5) An officer who is entitled to variable special pay under paragraph (2) or (3) and who is board certified is entitled to additional special pay at the following rates:
 
@@ -88,7 +88,7 @@ Reserve Medical Officers Special Pay.—(1) A reserve medical officer described 
 
 (i)
 
-Effect of Discharge in Bankruptcy.—A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under subsection (c)(2) or (f). This paragraph applies to any case commenced under title 11 after September 30, 1985.
+Effect of Discharge in Bankruptcy.—A discharge in bankruptcy under title 11 that is entered less than 5 years after the terminationof an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under subsection (c)(2) or (f). This paragraph applies to any case commenced under title 11 after September 30, 1985.
 
 (Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 464; Pub. L. 88–2, §5, Mar. 28, 1963, 77 Stat. 4; Pub. L. 88–132, §4, Oct. 2, 1963, 77 Stat. 212; Pub. L. 89–718, §53, Nov. 2, 1966, 80 Stat. 1122; Pub. L. 90–40, §5, June 30, 1967, 81 Stat. 105; Pub. L. 92–129, title I, §104, Sept. 28, 1971, 85 Stat. 355; Pub. L. 93–64, title II, §201, July 9, 1973, 87 Stat. 149; Pub. L. 93–274, §1(1), May 6, 1974, 88 Stat. 94; Pub. L. 96–284, §2(a), June 28, 1980, 94 Stat. 587; Pub. L. 96–513, title IV, §415, Dec. 12, 1980, 94 Stat. 2906; Pub. L. 99–145, title VI, §640, Nov. 8, 1985, 99 Stat. 652; Pub. L. 99–661, div. A, title XIII, §§1342(d), 1343(b)(1), Nov. 14, 1986, 100 Stat. 3991, 3995; Pub. L. 100–180, div. A, title VII, §716(a), Dec. 4, 1987, 101 Stat. 1113; Pub. L. 101–189, div. A, title VII, §702(a)–(f), Nov. 29, 1989, 103 Stat. 1468, 1469; Pub. L. 101–510, div. A, title VI, §612, Nov. 5, 1990, 104 Stat. 1577; Pub. L. 106–398, §1 \[\[div. A\], title VI, §625(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153; Pub. L. 107–314, div. A, title VI, §615(c), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 109–163, div. A, title VI, §687(b)(4), Jan. 6, 2006, 119 Stat. 3328; Pub. L. 110–181, div. A, title VI, §615(a), Jan. 28, 2008, 122 Stat. 150.)
 

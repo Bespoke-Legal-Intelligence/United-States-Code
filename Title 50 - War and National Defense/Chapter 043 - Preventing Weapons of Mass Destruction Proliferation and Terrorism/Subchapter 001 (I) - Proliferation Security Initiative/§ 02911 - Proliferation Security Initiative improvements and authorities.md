@@ -8,7 +8,7 @@ It is the sense of Congress, consistent with the 9/11 Commission's recommendatio
 
 &emsp;&emsp;(A) establish clear PSI authorities, responsibilities, and structures;
 
-&emsp;&emsp;(B) include in the budget request for each such agency or department for each fiscal year, a request for funds necessary for United States PSI-related activities; and
+&emsp;&emsp;(B) include in the budget request for each such agency or department for each fiscalyear, a request for funds necessary for United States PSI-related activities; and
 
 &emsp;&emsp;(C) provide other necessary resources to achieve more efficient and effective performance of United States PSI-related activities.
 
@@ -32,7 +32,7 @@ It is the sense of Congress, consistent with the 9/11 Commission's recommendatio
 
 &emsp;Not later than the first Monday in February of each year in which the President submits a budget request described in paragraph (1), the Secretary of Defense and the Secretary of State shall submit to Congress a comprehensive joint report setting forth the following:
 
-&emsp;&emsp;(A) A 3-year plan, beginning with the fiscal year for the budget request, that specifies the amount of funding and other resourcesto be provided by the United States for PSI-related activities over the term of the plan, including the purposes for which such funding and resources will be used.
+&emsp;&emsp;(A) A 3-year plan, beginning with the fiscal year for the budget request, that specifies the amount of funding and other resources to be provided by the United States for PSI-related activities over the term of the plan, including the purposes for which such funding and resources will be used.
 
 &emsp;&emsp;(B) For the report submitted in 2008, a description of the PSI-related activities carried out during the 3 fiscal years preceding the year of the report, and for the report submitted in 2009 and each year thereafter, a description of the PSI-related activities carried out during the fiscal year preceding the year of the report. The description shall include, for each fiscal year covered by the report—
 

@@ -24,6 +24,14 @@
 
 &emsp;&emsp;The District of Columbia Enterprise Zone shall not be treated as an empowerment zone for purposes of this paragraph.
 
+#### (3) Special rules for 2009 and 2010
+
+&emsp;In the case of qualified small business stock acquired after the date of the enactment of this paragraph and before January 1, 2011—
+
+&emsp;&emsp;(A) paragraph (1) shall be applied by substituting “75 percent” for “50 percent”, and
+
+&emsp;&emsp;(B) paragraph (2) shall not apply.
+
 #### (b) Per-issuer limitation on taxpayer's eligible gain
 
 #### (1) In general
@@ -80,11 +88,11 @@ For purposes of this section—
 
 #### (i) Waiver of active business requirement
 
-&emsp;&emsp;&emsp;Notwithstanding any provision of subsection (e), a corporation shall be treated as meeting the active business requirements of such subsection for any periodduring which such corporation qualifies as a specialized small business investment company.
+&emsp;&emsp;&emsp;Notwithstanding any provision of subsection (e), a corporation shall be treated as meeting the active business requirements of such subsection for any period during which such corporation qualifies as a specialized small business investment company.
 
 #### (ii) Specialized small business investment company
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “specialized small business investment company” means any eligible corporation (as defined in subsection (e)(4)) which is licensed to operate under section 301(d) of the Small Business Investment Act of 1958 (as in effect on May 13, 1993).
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “specialized small business investment company” means any eligible corporation (as defined in subsection (e)(4)) which is licensed to operate under section 301(d) ofthe Small Business Investment Act of 1958 (as in effect on May 13, 1993).
 
 #### (3) Certain purchases by corporation of its own stock
 
@@ -242,7 +250,7 @@ If any stock in a corporation is acquired solely through the conversion of other
 
 &emsp;&emsp;(A) such amount is attributable to gain on the sale or exchange by the pass-thru entity of stock which is qualified small business stock in the hands of such entity (determined by treating such entity as an individual) and which was held by such entity for more than 5 years, and
 
-&emsp;&emsp;(B) such amount is includible in the gross income of the taxpayer by reason of the holding of an interest in such entity whichwas held by the taxpayer on the date on which such pass-thru entity acquired such stock and at all times thereafter before the disposition of such stock by such pass-thru entity.
+&emsp;&emsp;(B) such amount is includible in the gross income of the taxpayer by reason of the holding of an interest in such entity which was held by the taxpayer on the date on which such pass-thru entity acquired such stock and at all times thereafter before the disposition of such stock by such pass-thru entity.
 
 #### (3) Limitation based on interest originally held by taxpayer
 
@@ -332,7 +340,7 @@ For purposes of this section—
 
 #### (2) Offsetting short position
 
-&emsp;For purposes of paragraph (1), the taxpayer shall be treated as having an offsetting shortposition with respect to any qualified small business stock if—
+&emsp;For purposes of paragraph (1), the taxpayer shall be treated as having an offsetting short position with respect to any qualified small business stock if—
 
 &emsp;&emsp;(A) the taxpayer has made a short sale of substantially identical property,
 
@@ -340,17 +348,19 @@ For purposes of this section—
 
 &emsp;&emsp;(C) to the extent provided in regulations, the taxpayer has entered into any other transaction which substantially reduces the risk of loss from holding such qualified small business stock.
 
-> &emsp;For purposes of the preceding sentence, any reference to the taxpayer shall be treated as including a reference to any person who is related (within the meaning of section 267(b) or 707(b)) to the taxpayer.
+> &emsp;For purposes of the preceding sentence, any reference to the taxpayer shall be treated asincluding a reference to any person who is related (within the meaning of section 267(b) or 707(b)) to the taxpayer.
 
 #### (k) Regulations
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations to prevent the avoidance of the purposes of this section through split-ups, shell corporations, partnerships, or otherwise.
 
-(Added Pub. L. 103–66, title XIII, §13113(a), Aug. 10, 1993, 107 Stat. 422; amended Pub. L. 104–188, title I, §1621(b)(7), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 106–554, §1(a)(7) \[title I, §117(a), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 108–357, title VIII, §835(b)(9), Oct. 22, 2004, 118 Stat. 1594.)
+(Added Pub. L. 103–66, title XIII, §13113(a), Aug. 10, 1993, 107 Stat. 422; amended Pub. L. 104–188, title I, §1621(b)(7), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 106–554, §1(a)(7) \[title I, §117(a), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 108–357, title VIII, §835(b)(9), Oct. 22, 2004, 118 Stat. 1594; Pub. L. 111–5, div. B, title I, §1241(a), Feb. 17, 2009, 123 Stat. 342.)
 
 #### References in Text
 
 The date of the enactment of this paragraph, referred to in subsec. (a)(2)(A), is the date of enactment of Pub. L. 106–554, which was approved Dec. 21, 2000.
+
+The date of the enactment of this paragraph, referred to in subsec. (a)(3), is the date of enactment of Pub. L. 111–5, which was approved Feb. 17, 2009.
 
 The date of the enactment of the Revenue Reconciliation Act of 1993, referred to in subsecs. (c)(1) and (d)(1)(A), is the date of enactment of Pub. L. 103–66, which was approved Aug. 10, 1993.
 
@@ -362,6 +372,8 @@ A prior section 1202, acts Aug. 16, 1954, ch. 736, 68A Stat. 320; Oct. 4, 1976, 
 
 #### Amendments
 
+2009—Subsec. (a)(3). Pub. L. 111–5 added par. (3).
+
 2004—Subsec. (e)(4)(C). Pub. L. 108–357 substituted “or REMIC” for “REMIC, or FASIT”.
 
 2000—Pub. L. 106–554, §1(a)(7) \[title I, §117(b)(2)\], substituted “Partial” for “50-percent” in section catchline.
@@ -369,6 +381,10 @@ A prior section 1202, acts Aug. 16, 1954, ch. 736, 68A Stat. 320; Oct. 4, 1976, 
 Subsec. (a). Pub. L. 106–554, §1(a)(7) \[title I, §117(a)\], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “In the case of a taxpayer other than a corporation, gross income shall not include 50 percent of any gain from the sale or exchange of qualified small business stock held for more than 5 years.”
 
 1996—Subsec. (e)(4)(C). Pub. L. 104–188 substituted “REMIC, or FASIT” for “or REMIC”.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–5, div. B, title I, §1241(b), Feb. 17, 2009, 123 Stat. 342, provided that: “The amendment made by this section \[amending this section\] shall apply to stock acquired after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
 #### Effective Date of 2004 Amendment
 

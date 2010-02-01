@@ -26,7 +26,7 @@ There is hereby imposed a tax on the failure of any applicable pension plan to m
 
 &emsp;&emsp;(A) any person subject to liability for the tax under subsection (d) exercised reasonable diligence to meet the requirements of subsection (e), and
 
-&emsp;&emsp;(B) such person provides the notice described in subsection (e) during the 30-dayperiod beginning on the first date such person knew, or exercising reasonable diligence would have known, that such failure existed.
+&emsp;&emsp;(B) such person provides the notice described in subsection (e) during the 30-day period beginning on the first date such person knew, or exercising reasonable diligence would have known, that such failure existed.
 
 #### (3) Overall limitation for unintentional failures
 

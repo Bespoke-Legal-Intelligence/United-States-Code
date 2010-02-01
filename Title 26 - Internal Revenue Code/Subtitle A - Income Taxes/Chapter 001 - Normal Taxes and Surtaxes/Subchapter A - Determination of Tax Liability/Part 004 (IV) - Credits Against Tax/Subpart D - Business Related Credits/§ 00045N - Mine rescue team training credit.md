@@ -4,7 +4,7 @@
 
 For purposes of section 38, the mine rescue team training credit determined under this section with respect to each qualified mine rescue team employee of an eligible employer for any taxable year is an amount equal to the lesser of—
 
-&emsp;(1) 20 percent of the amount paid or incurred by the taxpayer during the taxable year with respect to the training program costs of such qualified mine rescue team employee (including wages of such employee while attending such program), or
+&emsp;(1) 20 percent of the amount paid or incurred by the taxpayer during the taxable year with respect to the training program costs of suchqualified mine rescue team employee (including wages of such employee while attending such program), or
 
 &emsp;(2) $10,000.
 

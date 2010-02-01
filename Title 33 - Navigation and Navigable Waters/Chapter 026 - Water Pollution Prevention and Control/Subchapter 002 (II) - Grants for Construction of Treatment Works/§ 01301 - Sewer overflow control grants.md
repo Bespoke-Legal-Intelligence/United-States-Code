@@ -40,7 +40,7 @@ The Federal share of the cost of activities carried out using amounts from a gra
 
 #### (e) Administrative reporting requirements
 
-If a project receives grant assistance under subsection (a) of this section and loan assistance from a State water pollution control revolving fund and the loan assistance is for 15 percent or more of the cost of the project, the project may be administered in accordance with State water pollution control revolving fund administrative reporting requirements for the purposes of streamlining such requirements.
+If a project receives grant assistance under subsection (a) of this section and loan assistancefrom a State water pollution control revolving fund and the loan assistance is for 15 percent or more of the cost of the project, the project may be administered in accordance with State water pollution control revolving fund administrative reporting requirements for the purposes of streamlining such requirements.
 
 #### (f) Authorization of appropriations
 

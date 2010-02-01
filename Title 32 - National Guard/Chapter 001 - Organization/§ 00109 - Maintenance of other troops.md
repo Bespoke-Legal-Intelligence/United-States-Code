@@ -42,7 +42,7 @@ Act
 
 June 3, 1916, ch. 134, §61 (less (b)); restated Oct. 21, 1940, ch. 904 (less last 3 provisos); restated Aug. 18, 1941, ch. 363 (less last 3 provisos); restated Oct. 1, 1942, ch. 570 (less (b)); restated June 26, 1944, ch. 279 (less (b)); restated Sept. 27, 1950, ch. 1058 (less (b)), 64 Stat. 1072.
 
-In subsection (a), the words “those of its National Guard” are substituted for the words “as authorized inaccordance with the organization prescribed under this Act”.
+In subsection (a), the words “those of its National Guard” are substituted for the words “as authorized in accordance with the organization prescribed under this Act”.
 
 In subsections (a) and (b), the provisions of 32:194(c) are exhausted by the enumeration of the jurisdictions named.
 

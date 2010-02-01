@@ -22,7 +22,7 @@ A provision for assessment of duty on merchandise of different values when invoi
 
 1953—Subsec. (a). Act Aug. 8, 1953, struck out “and in subdivision (b) of this section” after reference to section 1562 of this title, “the entered value or” after “shall be”, and “whichever is higher” at the end.
 
-Subsecs. (b), (c). Act Aug. 8, 1953, redesignated subsec. (c) as (b). Former subsec. (b), which related to entries pending reappraisement, was repealed by act Aug. 8, 1953.
+Subsecs. (b), (c). Act Aug. 8, 1953, redesignated subsec. (c) as (b). Former subsec. (b), which related to entriespending reappraisement, was repealed by act Aug. 8, 1953.
 
 #### Effective Date of 1980 Amendment
 

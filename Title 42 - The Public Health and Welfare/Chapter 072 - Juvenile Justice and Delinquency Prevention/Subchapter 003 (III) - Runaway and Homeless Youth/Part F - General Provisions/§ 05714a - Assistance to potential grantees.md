@@ -2,7 +2,7 @@
 
 The Secretary shall provide informational assistance to potential grantees interested in establishing runaway and homeless youth centers and transitional living youth projects.
 
-(Pub. L. 93–415, title III, §380, formerly §315, as added Pub. L. 98–473, title II, §655(2), Oct. 12, 1984, 98 Stat. 2124; renumbered §341 and amended Pub. L. 100–690, title VII, §7273(a), (e)(2), Nov. 18, 1988, 102 Stat. 4454, 4455; renumbered §371, Pub. L. 102–586, §3(g)(1)(B)(ii), Nov. 4, 1992, 106 Stat. 5022; renumbered §380 and amended Pub. L. 106–71, §3(j), (q), Oct. 12, 1999, 113 Stat. 1038, 1042.)
+(Pub. L. 93–415, title III, §380, formerly §315, as added Pub. L. 98–473, title II, §655(2), Oct. 12,1984, 98 Stat. 2124; renumbered §341 and amended Pub. L. 100–690, title VII, §7273(a), (e)(2), Nov. 18, 1988, 102 Stat. 4454, 4455; renumbered §371, Pub. L. 102–586, §3(g)(1)(B)(ii), Nov. 4, 1992, 106 Stat. 5022; renumbered §380 and amended Pub. L. 106–71, §3(j), (q), Oct. 12, 1999, 113 Stat. 1038, 1042.)
 
 #### Amendments
 

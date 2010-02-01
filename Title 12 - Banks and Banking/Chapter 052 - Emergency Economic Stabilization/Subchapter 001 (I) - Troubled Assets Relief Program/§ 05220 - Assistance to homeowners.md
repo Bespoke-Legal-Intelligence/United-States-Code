@@ -10,7 +10,7 @@ As used in this section—
 
 &emsp;&emsp;(B) the Corporation, with respect to residential mortgage loans and mortgage-backed securities held by any bridge depository institution pursuant to section 1821(n) of this title; and
 
-&emsp;&emsp;(C) the Board, with respect to any mortgage or mortgage-backed securities or pool of securities held, owned, or controlled by or on behalf of a Federal reserve bank, other than mortgages or securities held, owned, or controlled in connection with open market operations under sections 348a and 353 to 359 of this title,<sup>1</sup> or as collateral for an advance or discount that is not in default;
+&emsp;&emsp;(C) the Board, with respect to any mortgage or mortgage-backed securities or pool of securities held, owned, or controlled by or on behalf of a Federal reserve bank, other than mortgages or securities held, owned, or controlled in connection with open market operations under sections 348a and 353 to 359of this title,<sup>1</sup> or as collateral for an advance or discount that is not in default;
 
 &emsp;(2) the term “consumer” has the same meaning as in section 1602 of title 15;
 
@@ -22,7 +22,7 @@ As used in this section—
 
 #### (1) In general
 
-&emsp;To the extent that the Federal property manager holds, owns, or controls mortgages, mortgage backed <sup>2</sup> securities, and other assets secured by residential real estate, including multifamily housing, the Federal property manager shall implement a plan that seeks to maximize assistance for homeowners and use its authority to encourage the servicers of the underlying mortgages, and considering net present value to the taxpayer, to take advantage of the HOPE for Homeowners Program under section 1715z–23 <sup>1</sup> of this title or other available programs to minimize foreclosures.
+&emsp;To the extent that the Federal property manager holds, owns, or controls mortgages, mortgage backed <sup>2</sup> securities, and other assets secured by residential real estate, including multifamily housing, the Federal property manager shall implement a plan that seeks to maximize assistance for homeowners and use its authority to encourage the servicers of the underlying mortgages, and considering net present value to the taxpayer, to take advantage of the HOPE for Homeowners Program under section 1715z–23 of this title or other available programs to minimize foreclosures.
 
 #### (2) Modifications
 
@@ -72,7 +72,39 @@ The requirements of this section shall not supersede any other duty or requireme
 
 Sections 348a and 353 to 359 of this title, referred to in subsec. (a)(1)(C), was in the original a reference to “section 14 of the Federal Reserve Act (12 U.S.C. 353)”. For classification of section 14 to the Code, see Codification note set out under section 353 of this title.
 
-Section 1715z–23 of this title, referred to in subsec. (b)(1), was in the original “section 257 of the National Housing Act”, and was translated as meaning the section 257 of the National Housing Act as added by Pub. L. 110–289, div. A, title IV, §1402, July 30, 2008, 122 Stat. 2800, relating to HOPE for Homeowners Program, to reflect the probable intent of Congress. Another section 257 of the National Housing Act, relating to pilot program for automated process for borrowers without sufficient credit history, is classified to section 1715z–24 of this title.
+#### Effect of Foreclosure on Preexisting Tenancy
+
+Pub. L. 111–22, div. A, title VII, §702, May 20, 2009, 123 Stat. 1660, provided that:
+
+“(a)
+
+In General.—In the case of any foreclosure on a federally-related mortgage loan or on any dwelling or residential real property after the date of enactment of this title \[May 20, 2009\], any immediate successor in interest in such property pursuant to the foreclosure shall assume such interest subject to—
+
+&emsp;“(1) the provision, by such successor in interest of a notice to vacate to any bona fide tenant at least 90 days before the effective date of such notice; and
+
+&emsp;“(2) the rights of any bona fide tenant, as of the date of such notice of foreclosure—
+
+&emsp;&emsp;“(A) under any bona fide lease entered into before the notice of foreclosure to occupy the premises until the end of the remaining term of the lease, except that a successor in interest may terminate a lease effective on the date of sale of the unit to a purchaser who will occupy the unit as a primary residence, subject to the receipt by the tenant of the 90 day notice under paragraph (1); or
+
+&emsp;&emsp;“(B) without a lease or with a lease terminable at will under State law, subject to the receipt by the tenant of the 90 day notice under subsection (1),
+
+> &emsp;except that nothing under this section shall affect the requirements for termination of any Federal- or State-subsidized tenancy or of any State or local law that provides longer time periods or other additional protections for tenants.
+
+“(b)
+
+Bona Fide Lease or Tenancy.—For purposes of this section, a lease or tenancy shall be considered bona fide only if—
+
+&emsp;“(1) the mortgagor or the child, spouse, or parent of the mortgagor under the contract is not the tenant;
+
+&emsp;“(2) the lease or tenancy was the result of an arms-length transaction; and
+
+&emsp;“(3) the lease or tenancy requires the receipt of rent that is not substantially less than fair market rent for the property or the unit's rent is reduced or subsidized due to a Federal, State, or local subsidy.
+
+“(c)
+
+Definition.—For purposes of this section, the term ‘federally-related mortgage loan’ has the same meaning as in section 3 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2602).”
+
+\[Section 702 of Pub. L. 111–22, set out above, repealed Dec. 31, 2012, see section 704 of Pub. L. 111–22, set out as a Termination Date of 2009 Amendment note under section 1437f of Title 42, The Public Health and Welfare.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

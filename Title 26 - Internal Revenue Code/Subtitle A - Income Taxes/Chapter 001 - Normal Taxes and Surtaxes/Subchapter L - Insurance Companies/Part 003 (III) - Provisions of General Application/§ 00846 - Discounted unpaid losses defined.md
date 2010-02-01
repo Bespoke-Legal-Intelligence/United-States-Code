@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### (4) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate tocarry out the purposes of this subsection including—
+&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection including—
 
 &emsp;&emsp;(A) regulations providing that a taxpayer may not make an election under this subsection if such taxpayer does not have sufficient historical experience for the line of business to determine a loss payment pattern, and
 

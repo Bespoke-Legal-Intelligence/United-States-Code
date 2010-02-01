@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-In order to enhance the recreational and scenic values of the Cow Mountain area in Lake and Mendocino Counties, California, while conserving the wildlife and other natural resource values of the area, there is hereby established the Cow Mountain Recreation Area (in this section referred to as the “recreation area”) consisting of approximately 51,513 acres of land in such counties, as generally depicted on the map entitled “Cow Mountain Recreation Area” and dated July 22, 2006, including the following:
+In order to enhance the recreational and scenic values of the Cow Mountain area in Lakeand Mendocino Counties, California, while conserving the wildlife and other natural resource values of the area, there is hereby established the Cow Mountain Recreation Area (in this section referred to as the “recreation area”) consisting of approximately 51,513 acres of land in such counties, as generally depicted on the map entitled “Cow Mountain Recreation Area” and dated July 22, 2006, including the following:
 
 &emsp;(1) The “South Cow Mountain OHV Management Area”, as generally depicted on the map.
 
@@ -40,7 +40,7 @@ In order to enhance the recreational and scenic values of the Cow Mountain area 
 
 #### (3) Mountain biking
 
-&emsp;Mountain biking shall be a prescribed use within the recreation area, occurring only onroads and trails designated by the Secretary for such use. Nothing in this paragraph shall be construed as precluding the Secretary from closing any trail or route from use for purposes of resource protection or public safety.
+&emsp;Mountain biking shall be a prescribed use within the recreation area, occurring only on roads and trails designated by the Secretary for such use. Nothing in this paragraph shall be construed as precluding the Secretary from closing any trail or route from use for purposes of resource protection or public safety.
 
 #### (e) Access to private property
 

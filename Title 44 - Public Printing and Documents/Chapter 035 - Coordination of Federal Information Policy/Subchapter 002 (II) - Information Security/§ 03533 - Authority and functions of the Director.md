@@ -6,7 +6,7 @@
 
 &emsp;(2) overseeing the implementation of policies, principles, standards, and guidelines on information security;
 
-&emsp;(3) requiring agencies, consistent with the standards promulgated under such section11331 and the requirements of this subchapter, to identify and provide information security protections commensurate with the risk and magnitude of the harm resulting from the unauthorized access, use, disclosure, disruption, modification, or destruction of—
+&emsp;(3) requiring agencies, consistent with the standards promulgated under such section 11331 and the requirements of this subchapter, to identify and provide information security protections commensurate with the risk and magnitude of the harm resulting from the unauthorized access, use, disclosure, disruption, modification, or destruction of—
 
 &emsp;&emsp;(A) information collected or maintained by or on behalf of an agency; or
 

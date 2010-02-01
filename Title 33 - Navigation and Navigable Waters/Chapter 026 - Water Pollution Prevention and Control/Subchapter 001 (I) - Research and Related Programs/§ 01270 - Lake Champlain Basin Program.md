@@ -56,7 +56,7 @@ The Management Conference shall establish a multi-disciplinary environmental res
 
 &emsp;(D) describe the methods and schedules for funding of programs, activities, and projects identified in the Plan, including the use of Federal funds and other sources of funds;
 
-&emsp;(E) include a strategy for pollution prevention and control that includes the promotionof pollution prevention and management practices to reduce the amount of pollution generated in the Lake Champlain basin; and
+&emsp;(E) include a strategy for pollution prevention and control that includes the promotion of pollution prevention and management practices to reduce the amount of pollution generated in the Lake Champlain basin; and
 
 &emsp;(F) be reviewed and revised, as necessary, at least once every 5 years, in consultation with the Administrator and other appropriate Federal agencies.
 
@@ -214,5 +214,5 @@ Resource conservation program.—The Secretary of the Interior, acting through t
 
 Authorizations.—(1) There is authorized to be appropriated to the Department of Agriculture $2,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsection (a) of this section.
 
-“(2) There is authorized to be appropriated to the Department of \[the\] Interior $1,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsections (b) and (c) of this section.”
+“(2) There is authorized to be appropriated to the Department of \[the\] Interior $1,000,000 for each of fiscalyears 1991, 1992, 1993, 1994, and 1995 to carry out subsections (b) and (c) of this section.”
 

@@ -66,11 +66,13 @@ Minimum Standards for Deployment.—(1) The Secretary of Defense shall prescribe
 
 &emsp;(B) Guidelines for the deployability and treatment of members of the armed forces diagnosed with a severe mental illness, traumatic brain injury, or post traumatic stress disorder.
 
-(3) The Secretary shall take appropriate actions to ensure the utilization of the standards prescribed under paragraph (1) in the making of determinations regarding the deployability of members of the armed forces to a combat operation or continency <sup>1</sup> operation.
+(3) The Secretary shall take appropriate actions to ensure the utilization of the standards prescribed under paragraph (1) in the making of determinations regarding the deployability of members of the armed forces to a combat operation or contingency operation.
 
-(Added Pub. L. 105–85, div. A, title VII, §765(a)(1), Nov. 18, 1997, 111 Stat. 1826; amended Pub. L. 109–364, div. A, title VII, §738(a)–(d), Oct. 17, 2006, 120 Stat. 2303; Pub. L. 110–181, div. A, title XVI, §1673(a)(1), (b), (c), Jan. 28, 2008, 122 Stat. 482, 483.)
+(Added Pub. L. 105–85, div. A, title VII, §765(a)(1), Nov. 18, 1997, 111 Stat. 1826; amended Pub. L. 109–364, div. A, title VII, §738(a)–(d), Oct. 17, 2006, 120 Stat. 2303; Pub. L. 110–181, div. A, title XVI, §1673(a)(1), (b), (c), Jan. 28, 2008, 122 Stat. 482, 483; Pub. L. 111–84, div. A, title X, §1073(a)(9), Oct. 28, 2009, 123 Stat. 2472.)
 
 #### Amendments
+
+2009—Subsec. (f)(3). Pub. L. 111–84 substituted “contingency” for “continency”.
 
 2008—Subsec. (b)(2)(C). Pub. L. 110–181, §1673(a)(1)(A), added subpar. (C).
 
@@ -90,11 +92,121 @@ Subsec. (e). Pub. L. 109–364, §738(b), added subsec. (e).
 
 Subsec. (f). Pub. L. 109–364, §738(c), added subsec. (f).
 
+#### Mental Health Assessments for Members of the Armed Forces Deployed in Connection With a Contingency Operation
+
+Pub. L. 111–84, div. A, title VII, §708, Oct. 28, 2009, 123 Stat. 2376, provided that:
+
+“(a)
+
+Mental Health Assessments.—
+
+&emsp;“(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall issue guidance for the provision of a person-to-person mental health assessment for each member of the Armed Forces who is deployed in connection with a contingency operation as follows:
+
+&emsp;&emsp;“(A) At a time during the period beginning 60 days before the date of deployment in connection with the contingency operation.
+
+&emsp;&emsp;“(B) At a time during the period beginning 90 days after the date of redeployment from the contingency operation and ending 180 days after the date of redeployment from the contingency operation.
+
+&emsp;&emsp;“(C) Subject to subsection (d), not later than each of 6 months, 12 months, and 24 months after return from deployment.
+
+&emsp;“(2)
+
+Exclusion of certain members.—A mental health assessment is not required for a member of the Armed Forces under subparagraphs (B) and (C) of paragraph (1) if the Secretary determines that the member was not subjected or exposed to operational risk factors during deployment in the contingency operation concerned.
+
+“(b)
+
+Purpose.—The purpose of the mental health assessments provided pursuant to this section shall be to identify post-traumatic stress disorder, suicidal tendencies, and other behavioral health conditions identified among members of the Armed Forces described in subsection (a) in order to determine which such members are in need of additional care and treatment for such health conditions.
+
+“(c)
+
+Elements.—
+
+&emsp;“(1)
+
+In general.—The mental health assessments provided pursuant to this section shall—
+
+&emsp;&emsp;“(A) be performed by personnel trained and certified to perform such assessments and may be performed by licensed mental health professionals if such professionals are available and the use of such professionals for the assessments would not impair the capacity of such professionals to perform higher priority tasks;
+
+&emsp;&emsp;“(B) include a person-to-person dialogue between members of the Armed Forces described in subsection (a) and the professionals or personnel described by paragraph (1), as applicable, on such matters as the Secretary shall specify in order that the assessments achieve the purpose specified in subsection (b) for such assessments;
+
+&emsp;&emsp;“(C) be conducted in a private setting to foster trust and openness in discussing sensitive health concerns; and
+
+&emsp;&emsp;“(D) be provided in a consistent manner across the military departments.
+
+&emsp;“(2)
+
+Treatment of current assessments.—The Secretary may treat periodic health assessments and other person-to-person assessments that are provided to members of the Armed Forces as of the date of the enactment of this Act \[Oct. 28, 2009\] as meeting the requirements for mental health assessments required under this section if the Secretary determines that such assessments and person-to-person assessments meet the requirements for mental health assessments established by this section.
+
+“(d)
+
+Cessation of Assessments.—No mental health assessment is required to be provided to an individual under subsection (a)(1)(C) after the individual's discharge or release from the Armed Forces.
+
+“(e)
+
+Sharing of Information.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Defense shall share with the Secretary of Veterans Affairs such information on members of the Armed Forces that is derived from confidential mental health assessments, including mental health assessments provided pursuant to this section and health assessments and other person-to-person assessments provided before the date of the enactment of this Act \[Oct. 28, 2009\], as the Secretary of Defense and the Secretary of Veterans Affairs jointly consider appropriate to ensure continuity of mental health care and treatment of members of the Armed Forces during their transition from health care and treatment provided by the Department of Defense to health care and treatment provided by the Department of Veterans Affairs.
+
+&emsp;“(2)
+
+Protocols.—Any sharing of information under paragraph (1) shall occur pursuant to a protocol jointly established by the Secretary of Defense and the Secretary of Veterans Affairs for purposes of this subsection. Any such protocol shall be consistent with the following:
+
+&emsp;&emsp;“(A) Applicable provisions of the Wounded Warrior Act (title XVI of Public Law 110–181; 10 U.S.C. 1071 note), including in particular, section 1614 of that Act (122 Stat. 443; 10 U.S.C. 1071 note).
+
+&emsp;&emsp;“(B) Section 1720F of title 38, United States Code.
+
+“(f)
+
+Contingency Operation Defined.—In this section, the term ‘contingency operation’ has the meaning given that term in section 101(a)(13) of title 10, United States Code.
+
+“(g)
+
+Reports.—
+
+&emsp;“(1)
+
+Report on guidance.—Upon the issuance of the guidance required by subsection (a), the Secretary of Defense shall submit to Congress a report describing the guidance.
+
+&emsp;“(2)
+
+Reports on implementation of guidance.—
+
+&emsp;&emsp;“(A)
+
+Initial report.—Not later than 270 days after the date of the issuance of the guidance, the Secretary shall submit to Congress an initial report on the implementation of the guidance by the military departments.
+
+&emsp;&emsp;“(B)
+
+Subsequent report.—Not later than two years after the date of the issuance of the guidance, the Secretary shall submit to Congress a report on the implementation of the guidance by the military departments. The report shall include an evidence-based assessment of the effectiveness of the mental health assessments provided pursuant to the guidance in achieving the purpose specified in subsection (b) for such assessments.”
+
+#### Administration and Prescription of Psychotropic Medications for Members of the Armed Forces Before and During Deployment
+
+Pub. L. 111–84, div. A, title VII, §712, Oct. 28, 2009, 123 Stat. 2379, provided that:
+
+“(a)
+
+Report Required.—Not later than October 1, 2010, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the implementation of policy guidance dated November 7, 2006, regarding deployment-limiting psychiatric conditions and medications.
+
+“(b)
+
+Policy Required.—Not later than October 1, 2010, the Secretary shall establish and implement a policy for the use of psychotropic medications for deployed members of the Armed Forces. The policy shall, at a minimum, address the following:
+
+&emsp;“(1) The circumstances or diagnosed conditions for which such medications may be administered or prescribed.
+
+&emsp;“(2) The medical personnel who may administer or prescribe such medications.
+
+&emsp;“(3) The method in which the administration or prescription of such medications will be documented in the medical records of members of the Armed Forces.
+
+&emsp;“(4) The exam, treatment, or other care that is required following the administration or prescription of such medications.”
+
 #### Pilot Projects
 
 Pub. L. 110–181, div. A, title XVI, §1673(a)(2), Jan. 28, 2008, 122 Stat. 482, provided that:
 
-“(A) In developing the protocol required by paragraph (3) of section 1074f(b) of title 10, United States Code (asamended by paragraph (1) of this subsection), for purposes of assessments for traumatic brain injury, the Secretary of Defense shall conduct up to three pilot projects to evaluate various mechanisms for use in the protocol for such purposes. One of the mechanisms to be so evaluated shall be a computer-based assessment tool which shall, at a minimum, include the following:
+“(A) In developing the protocol required by paragraph (3) of section 1074f(b) of title 10, United States Code (as amended by paragraph (1) of this subsection), for purposes of assessments for traumatic brain injury, the Secretary of Defense shall conduct up to three pilot projects to evaluate various mechanisms for use in the protocol for such purposes. One of the mechanisms to be so evaluated shall be a computer-based assessment tool which shall, at a minimum, include the following:
 
 &emsp;“(i) Administration of computer-based neurocognitive assessment.
 
@@ -129,6 +241,4 @@ Time requirements.—Subject to paragraph (2), the Secretary of Defense shall re
 “(2)
 
 Contingent applicability.—The standards under paragraph (1) shall apply unless the Joint Medical Readiness Oversight Committee established by section 731(b) \[10 U.S.C. 1074 note\] recommends, and the Secretary approves, different standards for blood sampling.”
-
-<i><sup>1</sup></i><i> So in original.</i>
 

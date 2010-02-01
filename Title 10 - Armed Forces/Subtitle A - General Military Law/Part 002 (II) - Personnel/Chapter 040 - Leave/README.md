@@ -6,7 +6,7 @@
 | [702\.](%C2%A7%2000702%20-%20Cadets%20and%20midshipmen.md) | Cadets and midshipmen. |
 | [703\.](%C2%A7%2000703%20-%20Reenlistment%20leave.md) | Reenlistment leave. |
 | [704\.](%C2%A7%2000704%20-%20Use%20of%20leave%3B%20regulations.md) | Use of leave; regulations. |
-| [705\.](%C2%A7%2000705%20-%20Rest%20and%20recuperative%20absence%20qualified%20members%20extending%20duty%20at%20designated%20locations%20overseas.md) | Rest and recuperative absence: qualified members extending duty at designated locations overseas. |
+| [705\.](%C2%A7%2000705%20-%20Rest%20and%20recuperation%20absence%20qualified%20members%20extending%20duty%20at%20designated%20locations%20overseas.md) | Rest and recuperation absence: qualified members extending duty at designated locations overseas. |
 | [706\.](%C2%A7%2000706%20-%20Administration%20of%20leave%20required%20to%20be%20taken.md) | Administration of leave required to be taken. |
 | [707\.](%C2%A7%2000707%20-%20Payment%20upon%20disapproval%20of%20certain%20court-martial%20sentences%20for%20excess%20leave%20required%20to%20be%20taken.md) | Payment upon disapproval of certain court-martial sentences for excess leave required to be taken. |
 | [707a.](%C2%A7%2000707a%20-%20Payment%20upon%20disapproval%20of%20certain%20board%20of%20inquiry%20recommendations%20for%20excess%20leave%20required%20to%20be%20taken.md) | Payment upon disapproval of certain board of inquiry recommendations for excess leave required to be taken. |
@@ -99,7 +99,7 @@ Pay and Allowances.—
 
 &emsp;“(1)
 
-Basic pay.—During each month of participation in a pilot program under this section, a member who participates in the pilot program shall be paid basic pay in an amount equal to two-thirtieths of the amount of monthly basic pay to which the member would otherwise be entitled under section 204 of title 37, United States Code, as a member of the uniformed services on active duty in the grade and years of service of the member when the member commences participation in the pilot program.
+Basic pay.—During each month of participation in a pilot program under this section, a memberwho participates in the pilot program shall be paid basic pay in an amount equal to two-thirtieths of the amount of monthly basic pay to which the member would otherwise be entitled under section 204 of title 37, United States Code, as a member of the uniformed services on active duty in the grade and years of service of the member when the member commences participation in the pilot program.
 
 &emsp;“(2)
 
@@ -238,7 +238,7 @@ Duration of Program Authority.—The authority to conduct a pilot program under 
 - [&sect; 00702 - Cadets and midshipmen](%C2%A7%2000702%20-%20Cadets%20and%20midshipmen.md)
 - [&sect; 00703 - Reenlistment leave](%C2%A7%2000703%20-%20Reenlistment%20leave.md)
 - [&sect; 00704 - Use of leave; regulations](%C2%A7%2000704%20-%20Use%20of%20leave%3B%20regulations.md)
-- [&sect; 00705 - Rest and recuperative absence qualified members extending duty at designated locations overseas](%C2%A7%2000705%20-%20Rest%20and%20recuperative%20absence%20qualified%20members%20extending%20duty%20at%20designated%20locations%20overseas.md)
+- [&sect; 00705 - Rest and recuperation absence qualified members extending duty at designated locations overseas](%C2%A7%2000705%20-%20Rest%20and%20recuperation%20absence%20qualified%20members%20extending%20duty%20at%20designated%20locations%20overseas.md)
 - [&sect; 00706 - Administration of leave required to be taken](%C2%A7%2000706%20-%20Administration%20of%20leave%20required%20to%20be%20taken.md)
 - [&sect; 00707 - Payment upon disapproval of certain court-martial sentences for excess leave required to be taken](%C2%A7%2000707%20-%20Payment%20upon%20disapproval%20of%20certain%20court-martial%20sentences%20for%20excess%20leave%20required%20to%20be%20taken.md)
 - [&sect; 00707a - Payment upon disapproval of certain board of inquiry recommendations for excess leave required to be taken](%C2%A7%2000707a%20-%20Payment%20upon%20disapproval%20of%20certain%20board%20of%20inquiry%20recommendations%20for%20excess%20leave%20required%20to%20be%20taken.md)

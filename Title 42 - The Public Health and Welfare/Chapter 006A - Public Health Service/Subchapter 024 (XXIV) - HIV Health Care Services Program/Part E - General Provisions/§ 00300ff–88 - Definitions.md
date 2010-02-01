@@ -70,11 +70,7 @@ For purposes of this subchapter:
 
 &emsp;The term “youth with HIV” means individuals who are 13 through 24 years old and who have HIV/AIDS.
 
-(July 1, 1944, ch. 373, title XXVI, §2688, as added Pub. L. 109–415, title V, §501, Dec. 19, 2006, 120 Stat. 2815.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2689, formerly §2688, as added and amended Pub. L. 109–415, title V, §501, title VII, §703, Dec. 19, 2006, 120 Stat. 2815, 2820; renumbered §2689 and amended Pub. L. 111–87, §§2(a)(1), (3)(A), 12(1), Oct. 30, 2009, 123 Stat. 2885, 2896.)
 
 #### Prior Provisions
 
@@ -85,4 +81,14 @@ Prior sections 300ff–89 and 300ff–90 were omitted in the general amendment o
 Section 300ff–89, act July 1, 1944, ch. 373, title XXVI, §2689, as added Pub. L. 101–381, title IV, §411(a), Aug. 18, 1990, 104 Stat. 628, related to injunctions regarding violations of former subpart II of this part.
 
 Section 300ff–90, act July 1, 1944, ch. 373, title XXVI, §2690, as added Pub. L. 101–381, title IV, §411(a), Aug. 18, 1990, 104 Stat. 628, related to applicability of former subpart II of this part.
+
+#### Amendments
+
+2009—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 

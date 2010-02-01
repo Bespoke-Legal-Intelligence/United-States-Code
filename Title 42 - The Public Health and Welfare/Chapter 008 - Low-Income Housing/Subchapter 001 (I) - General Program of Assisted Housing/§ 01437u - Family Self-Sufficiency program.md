@@ -178,7 +178,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (2) Criteria
 
-&emsp;The competition shall be based on successful and outstanding implementation by public housing agencies of a local self-sufficiency program under this section. The Secretary shall establish perfomance <sup>3</sup> criteria for public housing agencies carrying out such local programs and the Secretary shall cause such criteria to be published in the Federal Register.
+&emsp;The competition shall be based on successful and outstanding implementation by public housing agencies of a local self-sufficiencyprogram under this section. The Secretary shall establish perfomance <sup>3</sup> criteria for public housing agencies carrying out such local programs and the Secretary shall cause such criteria to be published in the Federal Register.
 
 #### (3) Use
 
@@ -212,7 +212,7 @@ In establishing and carrying out the self-sufficiency program under this section
 
 #### (2) HUD annual report
 
-&emsp;The Secretary shall submit to the Congress annually, as a part of the report of the Secretary under section 3536 of this title, a report summarizing the information submitted by public housing agencies under paragraph (1). The report under this paragraph shall also include any recommendations of the Secretaryfor improving the effectiveness of the self-sufficiency program under this section.
+&emsp;The Secretary shall submit to the Congress annually, as a part of the report of the Secretary under section 3536 of this title, a report summarizing the information submitted by public housing agencies under paragraph (1). The report under this paragraph shall also include any recommendations of the Secretary for improving the effectiveness of the self-sufficiency program under this section.
 
 #### (m) GAO report
 

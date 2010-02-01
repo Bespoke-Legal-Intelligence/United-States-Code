@@ -2,7 +2,7 @@
 
 (a)
 
-Availability.—An amount of the funds appropriated to the Department of Defense for afiscal year that is equal to the amount of energy cost savings realized by the Department, including financial benefits resulting from shared energy savings contracts entered into under section 2913 of this title, shall remain available for obligation under subsection (b) until expended, without additional authorization or appropriation.
+Availability.—An amount of the funds appropriated to the Department of Defense for a fiscal year that is equal to the amount of energy cost savings realized by the Department, including financial benefits resulting from shared energy savings contracts entered into under section 2913 of this title, shall remain available for obligation under subsection (b) until expended, without additional authorization or appropriation.
 
 (b)
 
@@ -24,7 +24,7 @@ Treatment of Certain Financial Incentives.—Financial incentives received from 
 
 (d)
 
-Congressional Notification.—The Secretary of Defense shall include in the budget material submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to section 1105 of title 31 a separate statement of the amounts available for obligation under this section in that fiscal year.
+Congressional Notification.—The Secretary of Defense shall include in the budgetmaterial submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to section 1105 of title 31 a separate statement of the amounts available for obligation under this section in that fiscal year.
 
 (Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2491.)
 

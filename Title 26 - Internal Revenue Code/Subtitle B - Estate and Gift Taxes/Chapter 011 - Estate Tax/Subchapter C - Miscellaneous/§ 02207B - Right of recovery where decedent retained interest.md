@@ -48,7 +48,7 @@ Amendment by Pub. L. 105–34 applicable with respect to estates of decedents dy
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable in the case of property transferred after Dec. 17, 1987, see section 11601(c) of Pub. L. 101–508, set out as a note under section 2036 of this title.
+Amendment by Pub. L. 101–508 applicable in the case of property transferred after Dec. 17, 1987, see section11601(c) of Pub. L. 101–508, set out as a note under section 2036 of this title.
 
 #### Effective Date
 

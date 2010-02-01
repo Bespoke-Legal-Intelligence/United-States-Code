@@ -16,7 +16,7 @@
 
 &emsp;(i) which types of vehicles yield the greatest reduction in pollutants emitted per dollar spent; and
 
-&emsp;(ii) the source of the fuel to supply the vehicles, giving preference to vehicles that operate on alternative fuels derived from domestic sources.
+&emsp;(ii) the source of the fuel to supply the vehicles, giving preference to vehicles that operateon alternative fuels derived from domestic sources.
 
 (E)(i) Dual fueled vehicles acquired pursuant to this section shall be operated on alternative fuels unless the Secretary determines that an agency qualifies for a waiver of such requirement for vehicles operated by the agency in a particular geographic area in which—
 
@@ -140,7 +140,7 @@ Subsec. (b)(3) to (5). Pub. L. 104–66, §1051(a), redesignated par. (5) as (3)
 
 1992—Subsec. (a)(1). Pub. L. 102–486, §302(a)(1), substituted “vehicles” for “passenger automobiles and light duty trucks” before “acquired annually for use” and “alternative fueled vehicles. In no event shall the number of such vehicles acquired be less than the number required under section 13212 of this title.” for “alcohol powered vehicles, dual energy vehicles, natural gas powered vehicles, or natural gas dual energy vehicles.”
 
-Subsec. (a)(3). Pub. L. 102–486, §302(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary shall, to the extent practicable and consistent with this part, ensure that the number of dual energy vehicles acquired under this subsection is at least as great as the number of alcohol powered vehicles acquired under this subsection, and that the number of natural gas dual energy vehicles acquired under this subsection is at least as great as the number of natural gas powered vehicles acquired under this subsection. To the extent practicable, both vehicles capable of operating on alcohol and vehicles capable of operating on natural gas shall be acquired in carrying out this subsection, and such vehicles shall be supplied by original equipment manufacturers.”
+Subsec. (a)(3). Pub. L. 102–486, §302(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary shall, to the extent practicable and consistent with this part, ensure that the number of dual energy vehicles acquired under this subsection is at least as great as the number of alcohol powered vehicles acquired under this subsection, and that the number of natural gas dual energy vehicles acquired under this subsection is at least as great as the number of natural gas powered vehicles acquired under this subsection. To the extent practicable, both vehicles capable of operating on alcohol and vehicles capable of operating on natural gas shall be acquired in carryingout this subsection, and such vehicles shall be supplied by original equipment manufacturers.”
 
 Subsec. (a)(4). Pub. L. 102–486, §302(a)(3), added par. (4).
 
@@ -168,7 +168,7 @@ Subsec. (i)(1). Pub. L. 102–486, §302(a)(8), amended par. (1) generally. Prio
 
 #### Change of Name
 
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, bySenate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

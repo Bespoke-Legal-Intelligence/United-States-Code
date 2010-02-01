@@ -34,7 +34,7 @@ For purposes of this part, the term “employee stock purchase plan” means a p
 
 &emsp;&emsp;(A) an amount equal to 85 percent of the fair market value of the stock at the time such option is granted, or
 
-&emsp;&emsp;(B) an amount which under the terms of the option may not be less than 85 percent of the fair market value of the stock at the time such option is exercised;
+&emsp;&emsp;(B) an amount which under the terms of the option may not be less than 85 percent ofthe fair market value of the stock at the time such option is exercised;
 
 &emsp;(7) under the terms of the plan, such option cannot be exercised after the expiration of—
 

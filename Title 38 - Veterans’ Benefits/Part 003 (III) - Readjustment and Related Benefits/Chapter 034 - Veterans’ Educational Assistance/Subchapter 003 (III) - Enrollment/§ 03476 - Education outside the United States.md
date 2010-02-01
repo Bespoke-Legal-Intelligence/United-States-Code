@@ -6,7 +6,7 @@ An eligible veteran may not enroll in any course offered by an educational insti
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat.1177, which was classified to former section 1620 (second and third sentences) of this title, prior to repeal by section 4(a) of Pub. L. 89–358.
+Provisions similar to those comprising this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1177, which was classified to former section 1620 (second and third sentences) of this title, prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
 

@@ -25,7 +25,7 @@ Limitations.—(1) Of the total number of members of a reserve component who are
 | &nbsp; |  |  |  |
 | Army National Guard: |  |  |  |
 | 20,000 | 1,500 | 850 | 325&nbsp;&nbsp; |
-| 22,000 | 1,650 | 930 | 350   |
+| 22,000 | 1,650 | 930 | 350&nbsp;&nbsp; |
 | 24,000 | 1,790 | 1,010 | 378&nbsp;&nbsp; |
 | 26,000 | 1,930 | 1,085 | 395&nbsp;&nbsp; |
 | 28,000 | 2,070 | 1,168 | 420&nbsp;&nbsp; |
@@ -102,7 +102,7 @@ Limitations.—(1) Of the total number of members of a reserve component who are
 | 12,000 | 924 | 485 | 163&nbsp;&nbsp; |
 | 13,000 | 980 | 503 | 173&nbsp;&nbsp; |
 | 14,000 | 1,035 | 521 | 183&nbsp;&nbsp; |
-| 15,000 | 1,088 | 538 | 193&nbsp;&nbsp; |
+| 15,000 | 1,088 | 538 | 193   |
 | 16,000 | 1,142 | 555 | 203&nbsp;&nbsp; |
 | 17,000 | 1,195 | 565 | 213&nbsp;&nbsp; |
 | 18,000 | 1,246 | 575 | 223&nbsp;&nbsp; |
@@ -173,7 +173,7 @@ Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title IV, §424(a)\], added su
 
 1993—Subsec. (a). Pub. L. 103–160, in table, increased fiscal year limitation on number of reserve officers in the Air Force in grade of Lieutenant Colonel or Commander from 595 to 636 and in grade of Colonel or Navy Captain from 227 to 274. Army, Navy, and Marine Corps figures remained unchanged.
 
-1991—Subsec. (a). Pub. L. 102–190, in table, increased fiscal year limitation on number of reserve officers in the Army in grade of Colonel or Navy Captain from 364 to 372, and increased such limitation on number of reserve officers in the Air Force in grade of Lieutenant Colonel or Commander from 532 to 595 and in grade ofColonel or Navy Captain from 194 to 227. Navy and Marine Corps figures remained unchanged.
+1991—Subsec. (a). Pub. L. 102–190, in table, increased fiscal year limitation on number of reserve officers in the Army in grade of Colonel or Navy Captain from 364 to 372, and increased such limitation on number of reserve officers in the Air Force in grade of Lieutenant Colonel or Commander from 532 to 595 and in grade of Colonel or Navy Captain from 194 to 227. Navy and Marine Corps figures remained unchanged.
 
 1989—Subsec. (a). Pub. L. 101–189, §413(b)(2), in table, increased fiscal year limitation on number of reserve officers in grade of Major or Lieutenant Commander, Lieutenant Colonel or Commander, and Colonel or Navy Captain who may be on active duty to, respectively: Army, to 3,219, 1,524, and 364 from 3,030, 1,448, and 351; Navy, to 1,071, 520, and 188 from 1,065, 520, and 188; Air Force, to 575, 532, and 194 from 575, 476, and 190. Marine Corps figures remained unchanged.
 

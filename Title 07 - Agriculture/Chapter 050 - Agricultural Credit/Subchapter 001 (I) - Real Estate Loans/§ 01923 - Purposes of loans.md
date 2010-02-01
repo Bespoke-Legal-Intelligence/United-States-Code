@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(E) refinancing a temporary bridge loan made by a commercial or cooperative lender to a farmer or rancher for the acquisition of land for a farm or ranch, if—
 
-&emsp;&emsp;&emsp;(i) the Secretary approved an application for a direct farm ownership loan to thefarmer or rancher for acquisition of the land; and
+&emsp;&emsp;&emsp;(i) the Secretary approved an application for a direct farm ownership loan to the farmer or rancher for acquisition of the land; and
 
 &emsp;&emsp;&emsp;(ii) funds for direct farm ownership loans under section 1994(b) of this title were not available at the time at which the application was approved.
 

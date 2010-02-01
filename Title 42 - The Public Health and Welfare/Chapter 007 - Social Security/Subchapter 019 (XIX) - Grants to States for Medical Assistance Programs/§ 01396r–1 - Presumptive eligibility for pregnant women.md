@@ -22,7 +22,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) is eligible for payments under a State plan approved under this subchapter,
 
-&emsp;&emsp;(B) provides services of the type described in subparagraph (A) or (B) of section1396d(a)(2) of this title or in section 1396d(a)(9) of this title,
+&emsp;&emsp;(B) provides services of the type described in subparagraph (A) or (B) of section 1396d(a)(2) of this title or in section 1396d(a)(9) of this title,
 
 &emsp;&emsp;(C) is determined by the State agency to be capable of making determinations of the type described in paragraph (1)(A), and
 
@@ -43,6 +43,8 @@ For purposes of this section—
 &emsp;&emsp;(iii) participates in a State perinatal program; or
 
 &emsp;&emsp;(iv) is the Indian Health Service or is a health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act (Public Law 93–638) \[25 U.S.C. 450f et seq.\].
+
+> The term “qualified provider” also includes a qualified entity, as defined in section 1396r–1a(b)(3) of this title.
 
 #### (c) Duties of State agency, qualified providers, and presumptively eligible pregnant women
 
@@ -74,21 +76,23 @@ Notwithstanding any other provision of this subchapter, ambulatory prenatal care
 
 > shall be treated as medical assistance provided by such plan for purposes of section 1396b of this title.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1920, as added Pub. L. 99–509, title IX, §9407(b), Oct. 21, 1986, 100 Stat. 2058; amended Pub. L. 100–360, title IV, §411(k)(16)(A), (B), July 1, 1988, 102 Stat. 799; Pub. L. 100–485, title VI, §608(d)(26)(L), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–508, title IV, §4605(a), (b), Nov. 5, 1990, 104 Stat. 1388–169; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(q)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–397.)
+(Aug. 14, 1935, ch. 531, title XIX, §1920, as added Pub. L. 99–509, title IX, §9407(b), Oct. 21, 1986, 100 Stat. 2058; amended Pub. L. 100–360, title IV, §411(k)(16)(A), (B), July 1, 1988, 102 Stat. 799; Pub. L. 100–485, title VI, §608(d)(26)(L), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–508, title IV, §4605(a), (b), Nov. 5, 1990, 104 Stat. 1388–169; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(q)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–397; Pub. L. 111–3, title I, §113(b)(2), Feb. 4, 2009, 123 Stat. 34.)
 
 #### References in Text
 
-The Indian Health Care Improvement Act, referred to in subsec. (b)(2)(D)(i)(III), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended. Title V of the Indian Health Care Improvement Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (b)(2)(D)(i)(III), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400. Title V of the Indian Health Care Improvement Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
-Section 4(a) of the Agriculture and Consumer Protection Act of 1973, referred to in subsec. (b)(2)(D)(ii)(II), is section 4(a) of Pub. L. 93–86, Aug. 10, 1973, 87 Stat. 249, as amended, which is set out as a note under section 612c of Title 7, Agriculture.
+Section 4(a) of the Agriculture and Consumer Protection Act of 1973, referred to in subsec. (b)(2)(D)(ii)(II), is section 4(a) of Pub. L. 93–86, Aug. 10, 1973, 87 Stat. 249, which is set out as a note under section 612c of Title 7, Agriculture.
 
-The Indian Self-Determination Act (Public Law 93–638), referred to in subsec. (b)(2)(D)(iv), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act (Public Law 93–638), referred to in subsec. (b)(2)(D)(iv), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 #### Prior Provisions
 
 A prior section 1920 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+2009—Subsec. (b). Pub. L. 111–3 inserted concluding provisions.
 
 1999—Subsec. (b)(2)(D)(i)(I). Pub. L. 106–113 substituted “section 254b or 254c of this title,” for “section 254b, 254c, or 256 of this title,”.
 
@@ -108,11 +112,15 @@ Pub. L. 101–508, §4605(a)(2), substituted “by not later than the last day o
 
 Subsec. (b)(2)(D)(ii)(II). Pub. L. 100–360, §411(k)(16)(B)(ii), as amended by Pub. L. 100–485, §608(d)(26)(L)(i), struck out “or” after “1973;”.
 
-Subsec. (b)(2)(D)(iii). Pub. L. 100–360, §411(k)(16)(B)(iii), as added by Pub. L. 100–485,§608(d)(26)(L)(iii), substituted “program; or” for “program.”
+Subsec. (b)(2)(D)(iii). Pub. L. 100–360, §411(k)(16)(B)(iii), as added by Pub. L. 100–485, §608(d)(26)(L)(iii), substituted “program; or” for “program.”
 
 Subsec. (b)(2)(D)(iv). Pub. L. 100–360, §411(k)(16)(B)(iv), formerly §411(k)(16)(B)(iii), as redesignated by Pub. L. 100–485, §608(d)(26)(L)(ii), added cl. (iv).
 
 Subsec. (d)(1)(B). Pub. L. 100–360, §411(k)(16)(A), substituted “by a provider that is eligible for payments under the State plan” for “by a qualified provider”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of this title.
 
 #### Effective Date of 1990 Amendment
 

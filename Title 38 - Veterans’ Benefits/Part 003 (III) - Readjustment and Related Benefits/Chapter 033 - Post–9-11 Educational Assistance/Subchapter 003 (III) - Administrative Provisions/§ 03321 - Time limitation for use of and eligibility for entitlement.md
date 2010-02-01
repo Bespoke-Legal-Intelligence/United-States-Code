@@ -20,5 +20,17 @@ Applicability of section 3031 to termination.—Section 3031(f) shall apply with
 
 Determination of last discharge or release.—For purposes of subsection (a), an individual's last discharge or release from active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service, unless the individual is discharged or released as described in section 3311(b)(2).
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2373.)
+&emsp;(4)
+
+Applicability to children of deceased members.—The period during which an individual entitled to educational assistance by reason of section 3311(b)(9) may use such individual's entitlement expires at the end of the 15-year period beginning on the date of such individual's eighteenth birthday.
+
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2373; amended Pub. L. 111–32, title X, §1002(c), June 24, 2009, 123 Stat. 1889.)
+
+#### Amendments
+
+2009—Subsec. (b)(4). Pub. L. 111–32 added par. (4).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–32 effective Aug. 1, 2009, see section 1002(d)(1) of Pub. L. 111–32, set out as a note under section 3311 of this title.
 

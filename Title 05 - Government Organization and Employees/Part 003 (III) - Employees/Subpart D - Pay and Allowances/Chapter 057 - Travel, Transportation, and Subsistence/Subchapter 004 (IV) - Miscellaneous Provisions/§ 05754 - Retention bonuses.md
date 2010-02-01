@@ -64,7 +64,7 @@
 
 (C) If the installment payment percentage established for the employee is less than the bonus percentage rate established for the employee, the accrued but unpaid portion of the bonus is payable as part of the final installment payment to the employee after completion of the full service period under the terms of the service agreement.
 
-(D) For purposes of this paragraph, the bonus percentage rate established for an employee means the bonus percentage rate established for such employee in accordance with paragraph (1) or subsection (f), as the case may be.
+(D) For purposes of this paragraph, the bonus percentage rate established for an employeemeans the bonus percentage rate established for such employee in accordance with paragraph (1) or subsection (f), as the case may be.
 
 (3) A retention bonus is not part of the basic pay of an employee for any purpose.
 
@@ -78,7 +78,7 @@
 
 #### Prior Provisions
 
-A prior section 5754, added Pub. L. 101–509, title V, §529 \[title II, §208(a)\], Nov. 5, 1990, 104 Stat. 1427, 1459,which related to retention allowances, was repealed by Pub. L. 108–411, title I, §101(a)(1), Oct. 30, 2004, 118 Stat. 2305.
+A prior section 5754, added Pub. L. 101–509, title V, §529 \[title II, §208(a)\], Nov. 5, 1990, 104 Stat. 1427, 1459, which related to retention allowances, was repealed by Pub. L. 108–411, title I, §101(a)(1), Oct. 30, 2004, 118 Stat. 2305.
 
 #### Effective Date
 

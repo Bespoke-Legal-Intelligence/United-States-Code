@@ -96,7 +96,7 @@ In evaluating substances considered for inclusion in the proposed National List 
 
 &emsp;(1) the potential of such substances for detrimental chemical interactions with other materials used in organic farming systems;
 
-&emsp;(2) the toxicity and mode of action of the substance and of its breakdown products or any contaminants, and their persistence and areas of concentration in the environment;
+&emsp;(2) the toxicity and mode of action of the substance and of its breakdown products orany contaminants, and their persistence and areas of concentration in the environment;
 
 &emsp;(3) the probability of environmental contamination during manufacture, use, misuse or disposal of such substance;
 

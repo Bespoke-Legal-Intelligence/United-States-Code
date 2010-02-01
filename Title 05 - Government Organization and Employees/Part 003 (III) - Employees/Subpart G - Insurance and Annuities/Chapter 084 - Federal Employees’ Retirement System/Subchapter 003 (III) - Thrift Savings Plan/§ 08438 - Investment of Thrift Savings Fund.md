@@ -70,9 +70,11 @@
 
 &emsp;(C) a Common Stock Index Investment Fund as provided in paragraph (2);
 
-&emsp;(D) a Small Capitalization Stock Index Investment Fund as provided in paragraph (3); and
+&emsp;(D) a Small Capitalization Stock Index Investment Fund as provided in paragraph (3);
 
-&emsp;(E) an International Stock Index Investment Fund as provided in paragraph (4).
+&emsp;(E) an International Stock Index Investment Fund as provided in paragraph (4); and
+
+&emsp;(F) a service that enables participants to invest in mutual funds, if the Board authorizes the mutual fund window under paragraph (5).
 
 (2)(A) The Board shall select an index which is a commonly recognized index comprised of common stock the aggregate market value of which is a reasonably complete representation of the United States equity markets.
 
@@ -80,17 +82,25 @@
 
 (3)(A) The Board shall select an index which is a commonly recognized index comprised of common stock the aggregate market value of which represents the United States equity markets excluding the common stocks included in the Common Stock Index Investment Fund.
 
-(B) The Small Capitalization Stock Index Investment Fund shall be invested in a portfolio designed to replicate the performance of the index in subparagraph (A). The portfolio shall be designed such that, to the extent practicable, the percentage of the Small Capitalization Stock Index Investment Fund that is invested in each stock is the same as the percentage determined by dividing the aggregate market value of all shares of that stock by the aggregate market value of all shares of all stocks included in such index.
+(B) The Small Capitalization Stock Index Investment Fund shall be invested in a portfolio designed to replicate the performance of the index in subparagraph (A). The portfolio shall bedesigned such that, to the extent practicable, the percentage of the Small Capitalization Stock Index Investment Fund that is invested in each stock is the same as the percentage determined by dividing the aggregate market value of all shares of that stock by the aggregate market value of all shares of all stocks included in such index.
 
 (4)(A) The Board shall select an index which is a commonly recognized index comprised of stock the aggregate market value of which is a reasonably complete representation of the international equity markets excluding the United States equity markets.
 
 (B) The International Stock Index Investment Fund shall be invested in a portfolio designed to replicate the performance of the index in subparagraph (A). The portfolio shall be designed such that, to the extent practicable, the percentage of the International Stock Index Investment Fund that is invested in each stock is the same as the percentage determined by dividing the aggregate market value of all shares of that stock by the aggregate market value of all shares of all stocks included in such index.
 
+(5)(A) The Board may authorize the addition of a mutual fund window under the Thrift Savings Plan if the Board determines that such addition would be in the best interests of participants.
+
+(B) The Board shall ensure that any expenses charged for use of the mutual fund window are borne solely by the participants who use such window.
+
+(C) The Board may establish such other terms and conditions for the mutual fund window as the Board considers appropriate to protect the interests of participants, including requirements relating to risk disclosure.
+
+(D) The Board shall consult with the Employee Thrift Advisory Council (established under section 8473) before authorizing the addition of a mutual fund window or establishing a service that enables participants to invest in mutual funds.
+
 (c)(1) The Executive Director shall invest the sums available in the Thrift Savings Fund for investment as provided in elections made under subsection (d).
 
 (2) If an election has not been made with respect to any sums in the Thrift Savings Fund available for investment, the Executive Director shall invest such sums in the Government Securities Investment Fund.
 
-(d)(1) At least twice each year, an employee or Member (or former employee or Member) may elect the investment funds referred to in subsection (b) into which the sums in the Thrift Savings Fund credited to such individual's account are to be invested or reinvested.
+(d)(1) At least twice each year, an employee or Member (or former employee or Member) may elect the investment funds and options referred to in subsection (b) into which the sums in the Thrift Savings Fund credited to such individual's account are to be invested or reinvested.
 
 (2) An election may be made under paragraph (1) only in accordance with regulations prescribed by the Executive Director and within such period as the Executive Director shall provide in such regulations.
 
@@ -106,13 +116,13 @@
 
 (2) Any issuances of obligations to the Government Securities Investment Fund which, solely by reason of the public debt limit are not issued, shall be issued under subsection (e) by the Secretary of the Treasury as soon as such issuances can be issued without exceeding the public debt limit.
 
-(3) Upon expiration of the debt issuance suspension period, the Secretary of the Treasury shall immediately issue to the Government Securities Investment Fund obligations under chapter 31 of title 31 that (notwithstanding subsection (e)(2) of this section) bear such interest rates and maturity dates as are necessary to ensure that, after such obligations are issued, the holdings of obligations of the United States by the Government Securities Investment Fund will replicate the obligations that would then beheld by the Government Securities Investment Fund under the procedure set forth in paragraph (5), if the suspension of issuances under paragraph (1) of this subsection had not occurred.
+(3) Upon expiration of the debt issuance suspension period, the Secretary of the Treasury shall immediately issue to the Government Securities Investment Fund obligations under chapter 31 of title 31 that (notwithstanding subsection (e)(2) of this section) bear such interest rates and maturity dates as are necessary to ensure that, after such obligations are issued, the holdings of obligations of the United States by the Government Securities Investment Fund will replicate the obligations that would then be held by the Government Securities Investment Fund under the procedure set forth in paragraph (5), if the suspension of issuances under paragraph (1) of this subsection had not occurred.
 
 (4) On the first business day after the expiration of any debt issuance suspension period, the Secretary of the Treasury shall pay to the Government Securities Investment Fund, from amounts in the general fund of the Treasury of the United States not otherwise appropriated, an amount equal to the excess of the net amount of interest that would have been earned by the Government Securities Investment Fund from obligations of the United States during such debt issuance suspension period if—
 
 &emsp;(A) amounts in the Government Securities Investment Fund that were available for investment in obligations of the United States and were not invested during such debt issuance suspension period solely by reason of the public debt limit had been invested under the procedure set forth in paragraph (5), over
 
-&emsp;(B) the net amount of interest actually earned by the Government Securities Investment Fund from obligations of the United States during such debt issuance suspension period.
+&emsp;(B) the net amount of interest actually earned by the Government Securities Investment Fund from obligations of the UnitedStates during such debt issuance suspension period.
 
 (5) On each business day during the debt limit suspension period, the Executive Director shall notify the Secretary of the Treasury of the amounts, by maturity, that would have been invested or redeemed each day had the debt issuance suspension period not occurred.
 
@@ -126,9 +136,15 @@
 
 (2) Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (e) of this section, the Secretary shall immediately notify Congress and the Executive Director of the determination. The notification shall be made in writing.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 551; amended Pub. L. 100–43, §2, May 22, 1987, 101 Stat. 315; Pub. L. 100–366, §2(a), July 13, 1988, 102 Stat. 826; Pub. L. 101–335, §3(a), July 17, 1990, 104 Stat. 320; Pub. L. 102–378, §2(68), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §102\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372; Pub. L. 104–316, title I, §103(i), Oct. 19, 1996, 110 Stat. 3829.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 551; amended Pub. L. 100–43, §2, May 22, 1987, 101 Stat. 315; Pub. L. 100–366, §2(a), July 13, 1988, 102 Stat. 826; Pub. L. 101–335, §3(a), July 17, 1990, 104 Stat. 320; Pub. L. 102–378, §2(68), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §102\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372; Pub. L. 104–316, title I, §103(i), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 111–31, div. B, title I, §104, June 22, 2009, 123 Stat. 1854.)
 
 #### Amendments
+
+2009—Subsec. (b)(1)(F). Pub. L. 111–31, §104(a), added subpar. (F).
+
+Subsec. (b)(5). Pub. L. 111–31, §104(b), added par. (5).
+
+Subsec. (d)(1). Pub. L. 111–31, §104(c), inserted “and options” after “investment funds”.
 
 1996—Subsec. (a). Pub. L. 104–208, §101(f) \[title VI, §659 \[title I, §102(1)\]\], added par. (5), redesignated former pars. (5) to (8) as (6) to (9), respectively, in par. (9) substituted “paragraph (8)(D)” for “paragraph (7)(D)” in two places, and added par. (10).
 

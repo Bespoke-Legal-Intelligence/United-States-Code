@@ -304,7 +304,7 @@ Pub. L. 104–295, §3(a)(5), substituted “and fees be restored” for “or f
 
 Subsec. (a)(2). Pub. L. 103–182, §621(2), inserted at end “The mere nonintentional repetition by an electronic system of an initial clerical error does not constitute a pattern of negligent conduct.”
 
-Subsec. (b)(1)(A). Pub. L. 103–182, §621(3)(A), substituted “the Customs Service” for “the appropriatecustoms officer”, “it shall issue” for “he shall issue” and “its intention” for “his intention” in introductory provisions.
+Subsec. (b)(1)(A). Pub. L. 103–182, §621(3)(A), substituted “the Customs Service” for “the appropriate customs officer”, “it shall issue” for “he shall issue” and “its intention” for “his intention” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 103–182, §621(3)(B), substituted “the Customs Service shall determine” for “the appropriate customs officer shall determine”, “the Customs Service determines” for “such officer determines” in two places, “it shall” for “he shall” in two places, and “the Customs Service shall provide” for “the appropriate customs officer shall provide”.
 

@@ -26,7 +26,7 @@ The participating non-Federal interest or interests shall retain title to all la
 
 #### (g) Federal licenses or permits; charges; remission of charge
 
-Any spoil disposal facilities constructed under the provisions of this section shall be made available to Federal licensees or permittees upon payment of an appropriate charge for such use. Twenty-five per centum of such charge shall be remitted to the participating non-Federal interest or interests except for those excused from contributing to the construction costs under subsections (d) and (e) of this section.
+Any spoil disposal facilities constructed under the provisions of this section shall be made available to Federal licensees or permittees upon payment of an appropriate charge for such use. Twenty-five per centum of such chargeshall be remitted to the participating non-Federal interest or interests except for those excused from contributing to the construction costs under subsections (d) and (e) of this section.
 
 #### (h) Provisions applicable to Great Lakes and their connecting channels
 
@@ -34,7 +34,7 @@ This section, other than subsection (i), shall be applicable only to the Great L
 
 #### (i) Research, study, and experimentation program relating to dredged spoil extended to navigable waters, etc.; cooperative program; scope of program; utilization of facilities and personnel of Federal agency
 
-The Chief of Engineers, under the direction of the Secretary of the Army, is hereby authorized to extend to all navigable waters, connecting channels, tributary streams, other waters of the United States and waters contiguous to the United States, a comprehensive program of research, study, and experimentation relating to dredged spoil. This program shall be carried out in cooperation with other Federal and State agencies, and shall include, but not be limited to, investigations on the characteristics of dredged spoil, and alternative methods of its disposal. To the extent that such study shall include the effects of such dredge spoil on waterquality, the facilities and personnel of the Environmental Protection Agency shall be utilized.
+The Chief of Engineers, under the direction of the Secretary of the Army, is hereby authorized to extend to all navigable waters, connecting channels, tributary streams, other waters of the United States and waters contiguous to the United States, a comprehensive program of research, study, and experimentation relating to dredged spoil. This program shall be carried out in cooperation with other Federal and State agencies, and shall include, but not be limited to, investigations on the characteristics of dredged spoil, and alternative methods of its disposal. To the extent that such study shall include the effects of such dredge spoil on water quality, the facilities and personnel of the Environmental Protection Agency shall be utilized.
 
 #### (j) Period for depositing dredged materials
 

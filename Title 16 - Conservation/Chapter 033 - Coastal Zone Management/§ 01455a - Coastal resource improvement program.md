@@ -62,7 +62,7 @@ With the approval of the Secretary, an eligible coastal state may allocate to a 
 
 #### (f) Other technical and financial assistance
 
-In addition to providing grants under this section, the Secretary shall assist eligible coastal states and their local governments in identifying and obtaining other sources of available Federal technical and financial assistance regarding the objectives of this section.
+In addition to providing grants under this section, the Secretary shall assist eligible coastal states and their local governments in identifying and obtaining other sources of availableFederal technical and financial assistance regarding the objectives of this section.
 
 (Pub. L. 89–454, title II, §306A, as added Pub. L. 96–464, §6, Oct. 17, 1980, 94 Stat. 2062; amended Pub. L. 99–272, title VI, §6043(b)(2), Apr. 7, 1986, 100 Stat. 124; Pub. L. 101–508, title VI, §§6207, 6216(a), Nov. 5, 1990, 104 Stat. 1388–307, 1388–314; Pub. L. 102–587, title II, §2205(b)(9)–(12), Nov. 4, 1992, 106 Stat. 5051; Pub. L. 104–150, §7(1), June 3, 1996, 110 Stat. 1381.)
 

@@ -30,7 +30,7 @@ Eligibility Criteria.—Except as provided in subsections (c) and (d), only pers
 
 Exceptions.—(1) The requirements of subsections (b)(1)(A) and (b)(1)(B) shall not apply to any employee who, on October 1, 1991, has at least 10 years of experience in acquisition positions or in comparable positions in other government agencies or the private sector.
 
-(2) The requirements of subsections (b)(1)(A) and (b)(1)(B) shall not apply to any employee who is serving in an acquisition position on October 1, 1991, and who does not have 10 years of experience as described in paragraph (1) if the employee passes an examination considered by the Secretary of Defense to demonstrate skills,knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education from among the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management.
+(2) The requirements of subsections (b)(1)(A) and (b)(1)(B) shall not apply to any employee who is serving in an acquisition position on October 1, 1991, and who does not have 10 years of experience as described in paragraph (1) if the employee passes an examination considered by the Secretary of Defense to demonstrate skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education from among the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management,marketing, quantitative methods, and organization and management.
 
 (d)
 
@@ -104,5 +104,5 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 #### Equivalent Training Under Subsection (b)(2)(B)(ii)
 
-Section 812(e)(2) of Pub. L. 102–484 provided that: “The Secretary of Defense shall prescribe equivalent training for purposes of clause (ii) of section 1732(b)(2)(B) of title 10, United States Code (as amended by paragraph (1)), not later than 120 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
+Section 812(e)(2) of Pub. L. 102–484 provided that: “The Secretary of Defense shall prescribe equivalent training for purposes of clause (ii) of section 1732(b)(2)(B) of title 10, United States Code (as amendedby paragraph (1)), not later than 120 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
 

@@ -8,7 +8,7 @@
 | [24\.](%C2%A7%2000024%20-%20Secretary%20of%20Senate%20or%20assistant%20secretary%20may%20administer%20oaths.md) | Secretary of Senate or assistant secretary may administer oaths. |
 | [25\.](%C2%A7%2000025%20-%20Oath%20of%20Speaker%2C%20Members%2C%20and%20Delegates.md) | Oath of Speaker, Members, and Delegates. |
 | [25a.](%C2%A7%2000025a%20-%20Delegate%20to%20House%20of%20Representatives%20from%20District%20of%20Columbia.md) | Delegate to House of Representatives from District of Columbia. |
-| [25b.](%C2%A7%2000025b%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7202%281%29%2C%20Aug.%2020%2C%201996.%20110%20Stat.%201724.md) | Repealed. |
+| [25b.](%C2%A7%2000025b%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7202%281%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201724.md) | Repealed. |
 | [26\.](%C2%A7%2000026%20-%20Roll%20of%20Representatives-elect.md) | Roll of Representatives-elect. |
 | [27\.](%C2%A7%2000027%20-%20Change%20of%20place%20of%20meeting.md) | Change of place of meeting. |
 | [28\.](%C2%A7%2000028%20-%20Parliamentary%20precedents%20of%20House%20of%20Representatives.md) | Parliamentary precedents of House of Representatives. |
@@ -114,7 +114,7 @@ References to Committees With Jurisdiction Changes.—Any reference in any provi
 - [&sect; 00024 - Secretary of Senate or assistant secretary may administer oaths](%C2%A7%2000024%20-%20Secretary%20of%20Senate%20or%20assistant%20secretary%20may%20administer%20oaths.md)
 - [&sect; 00025 - Oath of Speaker, Members, and Delegates](%C2%A7%2000025%20-%20Oath%20of%20Speaker%2C%20Members%2C%20and%20Delegates.md)
 - [&sect; 00025a - Delegate to House of Representatives from District of Columbia](%C2%A7%2000025a%20-%20Delegate%20to%20House%20of%20Representatives%20from%20District%20of%20Columbia.md)
-- [&sect; 00025b - Repealed. Pub. L. 104&#8211;186, title II, &sect;202(1), Aug. 20, 1996. 110 Stat. 1724](%C2%A7%2000025b%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7202%281%29%2C%20Aug.%2020%2C%201996.%20110%20Stat.%201724.md)
+- [&sect; 00025b - Repealed. Pub. L. 104&#8211;186, title II, &sect;202(1), Aug. 20, 1996, 110 Stat. 1724](%C2%A7%2000025b%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7202%281%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201724.md)
 - [&sect; 00026 - Roll of Representatives-elect](%C2%A7%2000026%20-%20Roll%20of%20Representatives-elect.md)
 - [&sect; 00027 - Change of place of meeting](%C2%A7%2000027%20-%20Change%20of%20place%20of%20meeting.md)
 - [&sect; 00028 - Parliamentary precedents of House of Representatives](%C2%A7%2000028%20-%20Parliamentary%20precedents%20of%20House%20of%20Representatives.md)

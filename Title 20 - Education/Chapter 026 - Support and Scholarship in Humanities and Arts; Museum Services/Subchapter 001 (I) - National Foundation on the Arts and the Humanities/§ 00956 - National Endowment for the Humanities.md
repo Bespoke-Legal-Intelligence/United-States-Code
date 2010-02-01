@@ -38,7 +38,7 @@ The Chairperson, with the advice of the National Council on the Humanities (here
 
 #### (d) Coordination and development of Endowment programs with other Federal and non-Federal programs
 
-The Chairperson shall coordinate the programs of the National Endowment for the Humanities, insofar as practicable, with existing Federal programs, designated State humanities agencies and with those undertaken by other public agencies or private groups, and shall develop the programs of the Endowment with dueregard to the contribution to the objectives of this subchapter which can be made by other Federal agencies under existing programs.
+The Chairperson shall coordinate the programs of the National Endowment for the Humanities, insofar as practicable, with existing Federal programs, designated State humanities agencies and with those undertaken by other public agencies or private groups, and shall develop the programs of the Endowment with due regard to the contribution to the objectives of this subchapter which can be made by other Federal agencies under existing programs.
 
 #### (e) Limitation on amount of grant for workshop activities for which an admission or other charge is made to the general public
 
@@ -180,7 +180,7 @@ It shall be a condition of the receipt of any grant under this section that the 
 
 (B) The Chairperson, with the advice of the Council, may waive all or part of the requirement of matching funds provided in subparagraph (A) of this paragraph, but only for the purposes described in clause (F) of paragraph (1), whenever he determines that highly meritorious proposals for grants and contracts under such clause, could not otherwise be supported from non-Federal sources or from Federal sources other than funds authorized by section 960(a)(3) of this title, unless such matching requirement is waived. Such waiver may not exceed 15 per centum of the amount appropriated in any fiscal year and available to the National Endowment for the Humanities for the purpose of this subsection.
 
-(3) In carrying out the program authorized by this subsection, the Chairperson of the National Endowment for the Humanities shall have thesame authority as is established in subsection (c) of this section and section 959 of this title.
+(3) In carrying out the program authorized by this subsection, the Chairperson of the National Endowment for the Humanities shall have the same authority as is established in subsection (c) of this section and section 959 of this title.
 
 #### (i) Interagency agreements
 

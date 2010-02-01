@@ -26,7 +26,7 @@
 
 &emsp;(2) the term “serious bodily injury” has the meaning given that term in section 1365 of this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 689; Pub. L. 94–297, §3, May 29, 1976, 90 Stat. 585; Pub. L. 99–646, §87(c)(2), (3), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, §3(a)(2), (3), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 103–322, title XVII, §170201(a)–(d), title XXXII, §320101(c), title XXXIII, §330016(2)(B), Sept. 13, 1994, 108 Stat. 2042, 2043, 2108, 2148; Pub. L. 104–294, title VI, §604(b)(7), (12)(B), Oct. 11, 1996, 110 Stat. 3507.)
+(June 25, 1948, ch. 645, 62 Stat. 689; Pub. L. 94–297, §3, May 29, 1976, 90 Stat. 585; Pub. L. 99–646, §87(c)(2), (3), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, §3(a)(2), (3), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 103–322, title XVII, §170201(a)–(d), titleXXXII, §320101(c), title XXXIII, §330016(2)(B), Sept. 13, 1994, 108 Stat. 2042, 2043, 2108, 2148; Pub. L. 104–294, title VI, §604(b)(7), (12)(B), Oct. 11, 1996, 110 Stat. 3507.)
 
 #### Historical and Revision Notes
 
@@ -60,5 +60,5 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 #### Effective Date of 1986 Amendments
 
-Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective respectively 30 days after Nov. 10, 1986, and 30 days after Nov. 14, 1986, see section 87(e) of Pub. L.99–646 and section 4 of Pub. L. 99–654, set out as an Effective Date note under section 2241 of this title.
+Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective respectively 30 days after Nov. 10, 1986, and 30 days after Nov. 14, 1986, see section 87(e) of Pub. L. 99–646 and section 4 of Pub. L. 99–654, set out as an Effective Date note under section 2241 of this title.
 

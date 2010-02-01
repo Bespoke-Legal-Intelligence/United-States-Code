@@ -6,5 +6,5 @@ The tank waste remediation system environmental project, Richland, Washington, i
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–136, §3141(g)(18)(C), inserted section catchline and struck out former subsec. heading.
+2003—Pub. L. 108–136, §3141(g)(18)(C), inserted section catchline and struck out former subsec. heading.
 

@@ -24,7 +24,7 @@ Subsec. (b) of this section was formerly classified to section 7257b of Title 42
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–136, §3141(k)(7)(B)(iv), inserted “of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201)” after “section 3101”.
+2003—Subsec. (a). Pub. L. 108–136, §3141(k)(7)(B)(iv), inserted “of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201)” after “section 3101”.
 
-<b>1997</b>—Subsec. (b)(1). Pub. L. 107–314, §4812(c), formerly Pub. L. 105–85, §3137(c), substituted “Not later than February 1 each year, the Secretary of Energy shall submit” for “The Secretary of Energy shall annually submit”.
+1997—Subsec. (b)(1). Pub. L. 107–314, §4812(c), formerly Pub. L. 105–85, §3137(c), substituted “Not later than February 1 each year, the Secretary of Energy shall submit” for “The Secretary of Energy shall annually submit”.
 

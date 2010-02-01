@@ -4,7 +4,7 @@
 
 In General.—The purposes of the foundation are to—
 
-&emsp;(1) mobilize secondary school students (including students educated in the home) in the United States to participate in the election process in a nonpartisan manner as poll workers or assistants (to the extent permitted under applicable State law);
+&emsp;(1) mobilize secondary school students (including students educated in the home) in the United States to participate in the electionprocess in a nonpartisan manner as poll workers or assistants (to the extent permitted under applicable State law);
 
 &emsp;(2) place secondary school students (including students educated in the home) as nonpartisan poll workers or assistants to local election officials in precinct polling places across the United States (to the extent permitted under applicable State law); and
 

@@ -98,7 +98,7 @@ Funds authorized in section 22 of the Act of June 29, 1935 (49 Stat. 439, chapte
 
 &emsp;&emsp;(A) promote and strengthen secondary education and 2-year postsecondary education in agriscience and agribusiness in order to help ensure the existence in the United States of a qualified workforce to serve the food and agricultural sciences system; and
 
-&emsp;&emsp;(B) promote complementary and synergistic linkages among secondary, 2-yearpostsecondary, and higher education programs in the food and agricultural sciences in order to promote excellence in education and encourage more young Americans to pursue and complete a baccalaureate or higher degree in the food and agricultural sciences.
+&emsp;&emsp;(B) promote complementary and synergistic linkages among secondary, 2-year postsecondary, and higher education programs in the food and agricultural sciences in order to promote excellence in education and encourage more young Americans to pursue and complete a baccalaureate or higher degree in the food and agricultural sciences.
 
 #### (3) Grants
 
@@ -124,7 +124,7 @@ The Federal Advisory Committee Act and title XVIII of the Food and Agriculture A
 
 #### (<i>l</i>) Report
 
-The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a biennial report detailing the distribution of funds used to implement the teaching programs under subsection (j).
+The Secretary shall submit to the Committee on Agriculture of the House of Representativesand the Committee on Agriculture, Nutrition, and Forestry of the Senate a biennial report detailing the distribution of funds used to implement the teaching programs under subsection (j).
 
 #### (m) Authorization of appropriations
 
@@ -134,7 +134,7 @@ There are authorized to be appropriated for carrying out this section $60,000,00
 
 #### References in Text
 
-Act of June 29, 1935, referred to in subsec. (h), is act June 29, 1935, ch. 338, 49 Stat. 436, as amended, known as the Bankhead-Jones Act, which was classified principally to sections 329 and 427 to 427j of this title, and was repealed by act Aug. 11, 1966, ch. 790, §2, 69 Stat. 674, except for sections 1, 10, and 22 of the Act, which are classified to sections 427, 427i, and 329 of this title, respectively. For complete classification of this Act to the Code, see Tables.
+The Act of June 29, 1935, referred to in subsec. (h), is act June 29, 1935, ch. 338, 49 Stat. 436, popularly known as the Bankhead-Jones Act and also as the Agricultural Research Act, which was classified principally to sections 329 and 427 to 427j of this title, and was repealed by act Aug. 11, 1966, ch. 790, §2, 69 Stat. 674, except for sections 1, 10, and 22 of the Act, which are classified to sections 427, 427i, and 329, respectively, of this title. For complete classification of this Act to the Code, see Short Title note under section 427 of this title and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (k), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

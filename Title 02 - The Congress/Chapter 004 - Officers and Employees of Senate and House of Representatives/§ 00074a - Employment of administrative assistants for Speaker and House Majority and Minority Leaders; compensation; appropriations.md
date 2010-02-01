@@ -30,7 +30,7 @@ House Resolution No. 258, Eighty-ninth Congress, Mar. 9, 1965, which was enacted
 
 “(7) each Member of the House who has served as majority leader, and as minority leader, of the House.”
 
-Section 207(c) of House Resolution 988, Ninety-third Congress, Oct. 8, 1974, provided for the compensation of the administrative assistants referred to in House Resolution 1015, Ninetieth Congress, Jan. 15, 1968, at a rate not in excess of the minimum rate of pay in effect for one pay level above that of employees (referred to in clause 6(a)(1) of Rule XI) to whom clause 6(c) of Rule XI of the Rules of the House of Representatives applied.
+Section 207(c) of House Resolution 988, Ninety-third Congress, Oct. 8, 1974, provided for the compensation ofthe administrative assistants referred to in House Resolution 1015, Ninetieth Congress, Jan. 15, 1968, at a rate not in excess of the minimum rate of pay in effect for one pay level above that of employees (referred to in clause 6(a)(1) of Rule XI) to whom clause 6(c) of Rule XI of the Rules of the House of Representatives applied.
 
 #### Increases in Compensation
 

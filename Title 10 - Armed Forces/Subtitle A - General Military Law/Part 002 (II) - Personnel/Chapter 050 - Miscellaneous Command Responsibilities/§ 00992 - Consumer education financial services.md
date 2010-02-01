@@ -42,7 +42,7 @@ Counseling for Members and Spouses.—(1) The Secretary concerned shall, upon re
 
 (3) Each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraph (2), shall be an individual who, by reason of education, training, or experience, is qualified to provide helpful counseling to members of the armed forces and their spouses on financial services and marketing practices described in subsection (a)(1). Such individual may be a member of the armed forces or an employee of the Federal Government.
 
-(4) The Secretary concerned shall take such action as is necessary to ensure that each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraphs (2), is free from conflicts of interest relevant to the performance of duty under this section.<sup>1</sup> and, in the performance of that duty, is dedicated to furnishing members of the armed forces and their spouses with helpful information and counseling on financial services and related marketing practices.
+(4) The Secretary concerned shall take such action as is necessary to ensure that each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraphs (2), is free from conflicts of interest relevant to the performance of duty under this section and, in the performance of that duty, is dedicated to furnishing members of the armed forces and their spouses with helpful information and counseling on financial services and related marketing practices.
 
 (c)
 
@@ -58,7 +58,11 @@ Financial Services Defined.—In this section, the term “financial services”
 
 &emsp;(3) Banking, credit, loans, deferred payment plans, and mortgages.
 
-(Added Pub. L. 109–163, div. A, title V, §578(a)(1), Jan. 6, 2006, 119 Stat. 3274.)
+(Added Pub. L. 109–163, div. A, title V, §578(a)(1), Jan. 6, 2006, 119 Stat. 3274; amended Pub. L.111–84, div. A, title X, §1073(a)(8), Oct. 28, 2009, 123 Stat. 2472.)
+
+#### Amendments
+
+2009—Subsec. (b)(4). Pub. L. 111–84 struck out period after “under this section”.
 
 #### Effective Date of 2006 Amendment
 
@@ -234,7 +238,7 @@ Primary State Jurisdiction.—To the extent that multiple State laws would other
 
 State Standards.—Congress intends that—
 
-&emsp;“(1) the States collectively work with the Secretary of Defense to ensure implementation of appropriate standards to protect members of the Armed Forces from dishonest and predatory insurance salespractices while on a military installation of the United States (including installations located outside of the United States); and
+&emsp;“(1) the States collectively work with the Secretary of Defense to ensure implementation of appropriate standards to protect members of the Armed Forces from dishonest and predatory insurance sales practices while on a military installation of the United States (including installations located outside of the United States); and
 
 &emsp;“(2) each State identify its role in promoting the standards described in paragraph (1) in a uniform manner, not later than 12 months after the date of enactment of this Act \[Sept. 29, 2006\].
 
@@ -322,7 +326,7 @@ Reporting by Insurers.—Beginning 1 year after the date of enactment of this Ac
 
 Reporting by States.—It is the sense of Congress that, not later than 1 year after the date of enactment of this Act, the States should collectively implement a system to—
 
-&emsp;“(1) receive reports of disciplinary actions taken against persons that sell or solicit the sale of any lifeinsurance product on any military installation of the United States by insurers or Federal or State government entities with respect to such sales or solicitations; and
+&emsp;“(1) receive reports of disciplinary actions taken against persons that sell or solicit the sale of any life insurance product on any military installation of the United States by insurers or Federal or State government entities with respect to such sales or solicitations; and
 
 &emsp;“(2) disseminate such information to all other States and to the Secretary of Defense.
 
@@ -392,5 +396,5 @@ Reports.—Not later than 12 months after the date of enactment of this Act, the
 
 #### Requirement for Regulations on Policies and Procedures on Personal Commercial Solicitations on Department of Defense Installations
 
-Pub. L. 109–163, div. A, title V, §577(a), Jan. 6, 2006, 119 Stat. 3274, provided that: “As soon as practicable after the date of the enactment of this Act \[Jan. 6, 2006\], and not later than March 31, 2006, the Secretary of Defense shall prescribe regulations, or modify existing regulations, on the policies and procedures relating to personal commercial solicitations, including the sale of life insurance and securities, on Department of Defense installations.”
+Pub. L. 109–163, div. A, title V, §577(a), Jan. 6, 2006, 119 Stat. 3274, provided that: “As soon as practicable afterthe date of the enactment of this Act \[Jan. 6, 2006\], and not later than March 31, 2006, the Secretary of Defense shall prescribe regulations, or modify existing regulations, on the policies and procedures relating to personal commercial solicitations, including the sale of life insurance and securities, on Department of Defense installations.”
 

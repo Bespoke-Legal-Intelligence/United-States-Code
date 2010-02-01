@@ -2,7 +2,7 @@
 
 #### (a) Promulgation; applicability of section 553 of title 5
 
-The Secretary of Labor and the Secretary of Health and Human Services are authorized toissue such regulations as each deems appropriate to carry out the provisions of this subchapter. Such regulations shall be issued in conformity with section 553 of title 5, notwithstanding subsection (a) thereof.
+The Secretary of Labor and the Secretary of Health and Human Services are authorized to issue such regulations as each deems appropriate to carry out the provisions of this subchapter. Such regulations shall be issued in conformity with section 553 of title 5, notwithstanding subsection (a) thereof.
 
 #### (b) Annual reports to Congress
 

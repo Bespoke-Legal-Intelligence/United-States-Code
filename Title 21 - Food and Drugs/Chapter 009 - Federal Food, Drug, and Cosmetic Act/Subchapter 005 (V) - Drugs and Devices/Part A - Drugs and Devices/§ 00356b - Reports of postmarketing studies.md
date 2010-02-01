@@ -12,7 +12,7 @@
 
 #### (b) Consideration of information as public information
 
-Any information pertaining to a report described in subsection (a) of this section shall be considered to be public information to the extent that the information is necessary—
+Any information pertaining to a report described in subsection (a) of this section shall beconsidered to be public information to the extent that the information is necessary—
 
 &emsp;(1) to identify the sponsor; and
 

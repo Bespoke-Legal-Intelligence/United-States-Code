@@ -46,7 +46,7 @@ Subsec. (d). Pub. L. 94–455, §1906(a)(40), struck out subsec. (d) which made 
 
 1972—Subsec. (e). Pub. L. 92–310 repealed subsec. (e) which contained cross references for personnel bonds.
 
-1970—Subsec. (d)(3)(D). Pub. L. 91–513 struck out subpar. (D) which related to the manufacturer of opium suitable for smoking and which made reference to section 4713(b).
+1970—Subsec. (d)(3)(D). Pub. L. 91–513 struck out subpar. (D) which related to the manufacturer of opiumsuitable for smoking and which made reference to section 4713(b).
 
 1965—Subsec. (d)(3)(F). Pub. L. 89–44 struck out subpar. (F) relating to producers and importers of gasoline and manufacturers and producers of lubricating oils.
 

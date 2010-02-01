@@ -30,7 +30,7 @@ Functions.—In order to enable the Committee to make recommendations in its ann
 
 &emsp;(2) Identify changes in policies, procedures, and practices that, in the judgment of the Committee, would promote mutually beneficial coordination, use, or exchange of use of services and resources of the two Departments, with the goal of improving the quality, efficiency and effectiveness of the delivery of benefits and services to veterans, service members, military retirees, and their families through an enhanced Department of Veterans Affairs and Department of Defense partnership.
 
-&emsp;(3) Identify and assess further opportunities for the coordination and collaboration between the Departments that, in the judgmentof the Committee, would not adversely affect the range of services, the quality of care, or the established priorities for benefits provided by either Department.
+&emsp;(3) Identify and assess further opportunities for the coordination and collaboration between the Departments that, in the judgment of the Committee, would not adversely affect the range of services, the quality of care, or the established priorities for benefits provided by either Department.
 
 &emsp;(4) Review the plans of both Departments for the acquisition of additional resources, especially new facilities and major equipment and technology, in order to assess the potential effect of such plans on further opportunities for the coordination and sharing of resources.
 
@@ -40,7 +40,7 @@ Functions.—In order to enable the Committee to make recommendations in its ann
 
 #### Effective Date
 
-Pub. L. 108–136, div. A, title V, §583(d)(2), Nov. 24, 2003, 117 Stat. 1492, provided that: “If this Act is enacted on or after October 1, 2003, the amendments made by this section \[enacting this section and amending section 8111 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 24, 2003\].”
+Pub. L. 108–136, div. A, title V, §583(d)(2), Nov. 24, 2003, 117 Stat. 1492, provided that: “If this Act is enacted on or after October 1, 2003, the amendments made by this section \[enacting this section and amending section8111 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 24, 2003\].”
 
 #### Joint Program for Development and Evaluation of Integrated Healing Care Practices for Members of the Armed Forces and Veterans
 

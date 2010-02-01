@@ -78,7 +78,7 @@ A corporation which meets the requirements of subsections (b)(3) and (c) at the 
 
 #### (3) Determination of status
 
-&emsp;For purposes of this subsection, unless the Securities and Exchange Commission determines otherwise, a corporation shall be considered to be principally engaged in the development or exploitation of inventions, technological improvements, new processes, or products not previously generally available, for at least 10 years after the date of the first acquisition of any security in such corporation or any predecessor thereof by such investment company if at the date of such acquisition the corporation or its predecessor was principally so engaged, and an investment company shall be considered at any date to be furnishing capital to any company whose securities it holds if within 10 years prior to such date it has acquired any of such securities, or any securities surrendered in exchange therefor, from such other company or predecessor thereof. For purposes of the certification under this subsection, the Securities and Exchange Commission shall have authority to issue such rules, regulations and orders, and to conduct such investigations and hearings, either public or private, as it may deem appropriate.
+&emsp;For purposes of this subsection, unless the Securities and Exchange Commission determines otherwise, a corporation shall be considered to be principally engaged in the development or exploitation of inventions, technological improvements, new processes, or products not previously generally available, for at least 10 years after the date of the first acquisition of any security in such corporation or any predecessor thereof by such investmentcompany if at the date of such acquisition the corporation or its predecessor was principally so engaged, and an investment company shall be considered at any date to be furnishing capital to any company whose securities it holds if within 10 years prior to such date it has acquired any of such securities, or any securities surrendered in exchange therefor, from such other company or predecessor thereof. For purposes of the certification under this subsection, the Securities and Exchange Commission shall have authority to issue such rules, regulations and orders, and to conduct such investigations and hearings, either public or private, as it may deem appropriate.
 
 #### (4) Definitions
 
@@ -116,7 +116,7 @@ For purposes of this title—
 
 #### (2) Fund defined
 
-&emsp;For purposes of paragraph (1) the term “fund” means a segregated portfolio of assets,the beneficial interests in which are owned by the holders of a class or series of stock of the regulated investment company that is preferred over all other classes or series in respect of such portfolio of assets.
+&emsp;For purposes of paragraph (1) the term “fund” means a segregated portfolio of assets, the beneficial interests in which are owned by the holders of a class or series of stock of the regulated investment company that is preferred over all other classes or series in respect of such portfolio of assets.
 
 #### (h) Qualified publicly traded partnership
 
@@ -134,7 +134,7 @@ The Investment Company Act of 1940, as amended, referred to in subsecs. (a)(1), 
 
 Subsec. (b)(2). Pub. L. 108–357, §331(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “at least 90 percent of its gross income is derived from dividends, interest, payments with respect to securities loans (as defined in section 512(a)(5)), and gains from the sale or other disposition of stock or securities (as defined in section 2(a)(36) of the Investment Company Act of 1940, as amended) or foreign currencies, or other income (including but not limited to gains from options, futures, or forward contracts) derived with respect to its business of investing in such stock, securities, or currencies; and”.
 
-Subsec. (b)(3)(B). Pub. L. 108–357, §331(f), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “not more than 25 percent of the value of its total assets is invested in the securities (other than Government securities or the securities of other regulated investment companies) of any one issuer, or of two or more issuers which the taxpayer controls and which are determined, under regulations prescribed by the Secretary, to be engaged in the same or similar trades or businesses or related trades or businesses.”
+Subsec. (b)(3)(B). Pub. L. 108–357, §331(f), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “not more than 25 percent of the value of its total assets is invested in the securities (other than Government securities or the securities of other regulated investment companies) of any one issuer, or of two or more issuers which the taxpayer controls andwhich are determined, under regulations prescribed by the Secretary, to be engaged in the same or similar trades or businesses or related trades or businesses.”
 
 Subsec. (c)(5), (6). Pub. L. 108–357, §331(c), added par. (5) and redesignated former par. (5) as (6).
 
@@ -222,7 +222,7 @@ Subsec. (e)(2). Pub. L. 85–866, §38(b), substituted “issuer” for “issue
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years beginning after Oct. 22, 2004, see section 331(h) of Pub. L. 108–357, set out as a note under section 469 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years beginning after Oct. 22, 2004, see section 331(h) ofPub. L. 108–357, set out as a note under section 469 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -272,7 +272,7 @@ Amendment by section 1901(a)(109) of Pub. L. 94–455 effective for taxable year
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 94–12 applicable to taxable years of foreign corporations beginning after Dec. 31,1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of this title) within which or with which such taxable years of such foreign corporations end, see section 602(f) of Pub. L. 94–12, set out as an Effective Date note under section 955 of this title.
+Amendment by Pub. L. 94–12 applicable to taxable years of foreign corporations beginning after Dec. 31, 1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of this title) within which or with which such taxable years of such foreign corporations end, see section 602(f) of Pub. L. 94–12, set out as an Effective Date note under section 955 of this title.
 
 #### Effective Date of 1969 Amendment
 

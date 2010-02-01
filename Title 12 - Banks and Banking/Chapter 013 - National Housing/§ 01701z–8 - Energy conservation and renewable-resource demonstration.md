@@ -12,7 +12,7 @@ The Secretary is authorized to make financial assistance available pursuant to t
 
 In carrying out the demonstration program required by this section, the Secretary shall—
 
-&emsp;(1) provide assistance in a wide variety of geographic areas to reflect differences in climate, types of dwelling units, and income levels of recipients in order to provide a nationalprofile for use in designing a program which is to be operational and effective nationwide;
+&emsp;(1) provide assistance in a wide variety of geographic areas to reflect differences in climate, types of dwelling units, and income levels of recipients in order to provide a national profile for use in designing a program which is to be operational and effective nationwide;
 
 &emsp;(2) evaluate the appropriateness of various financial incentives for different income levels of owners and occupants of existing dwelling units;
 

@@ -16,7 +16,7 @@ In the case of the disposal of coal (including lignite), or iron ore mined in th
 
 &emsp;(2) to a person owned or controlled directly or indirectly by the same interests which own or control the person disposing of such iron ore or coal.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 213; Pub. L. 88–272, title II, §227(a)(1), (b)(1), Feb. 26, 1964, 78 Stat. 97, 98; Pub. L. 94–455, title XIV, §1402(b)(1)(I), (2), (3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1733, 1834; Pub. L. 98–369, div. A, title I, §178(a), title X, §1001(c), (e), July 18, 1984, 98 Stat. 712, 1012; Pub. L. 99–514, title III, §311(b)(3), Oct. 22, 1986, 100 Stat. 2219; Pub. L. 108–357, title III, §315(a), (b), Oct. 22, 2004, 118 Stat. 1469.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 213; Pub. L. 88–272, title II, §227(a)(1), (b)(1), Feb. 26, 1964, 78Stat. 97, 98; Pub. L. 94–455, title XIV, §1402(b)(1)(I), (2), (3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1733, 1834; Pub. L. 98–369, div. A, title I, §178(a), title X, §1001(c), (e), July 18, 1984, 98 Stat. 712, 1012; Pub. L. 99–514, title III, §311(b)(3), Oct. 22, 1986, 100 Stat. 2219; Pub. L. 108–357, title III, §315(a), (b), Oct. 22, 2004, 118 Stat. 1469.)
 
 #### Amendments
 
@@ -110,5 +110,5 @@ Amendment by Pub. L. 88–272 applicable with respect to amounts received or acc
 
 Pub. L. 108–357, title I, §102(c), Oct. 22, 2004, 118 Stat. 1428, provided that: “Any election under section 631(a) of the Internal Revenue Code of 1986 made for a taxable year ending on or before the date of the enactment of this Act \[Oct. 22, 2004\] may be revoked by the taxpayer for any taxable year ending after such date. For purposes of determining whether such taxpayer may make a further election under such section, such election (and any revocation under this section) shall not be taken into account.”
 
-Section 311(d)(2) of Pub. L. 99–514 provided that: “Any election under section 631(a) of the Internal Revenue Code of 1954 made (whether by a corporation or a person other than a corporation) for a taxable year beginning before January 1, 1987, may be revoked by the taxpayer for any taxable year ending after December 31, 1986. For purposes of determining whether the taxpayer may make a further election under such section, such election (and any revocation under this paragraph) shall not be taken into account.”
+Section 311(d)(2) of Pub. L. 99–514 provided that: “Any election under section 631(a) of the Internal Revenue Code of 1954 made (whether by a corporation or a person other than a corporation) for a taxable year beginning before January 1, 1987, may be revoked by the taxpayer for any taxable year ending after December 31, 1986. For purposes of determining whether the taxpayer may make a further election under such section, suchelection (and any revocation under this paragraph) shall not be taken into account.”
 

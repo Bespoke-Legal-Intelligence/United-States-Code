@@ -50,7 +50,7 @@ Alternative Uses of Funds.—
 
 &emsp;(1)
 
-Alternative uses authorized.—In lieu of, or in addition to, use for an activity described in subsection (a) and notice for that use under subsection (a), an eligible unit of general local government may use assistance under this chapter, and shall provide notice of that use to the Secretary under subsection (a), for any other activity that is consistent with1 or more of the purposes described in section 6701(a)(2).
+Alternative uses authorized.—In lieu of, or in addition to, use for an activity described in subsection (a) and notice for thatuse under subsection (a), an eligible unit of general local government may use assistance under this chapter, and shall provide notice of that use to the Secretary under subsection (a), for any other activity that is consistent with 1 or more of the purposes described in section 6701(a)(2).
 
 &emsp;(2)
 
@@ -112,7 +112,7 @@ Payment conditions.—The Secretary may make a payment to a unit of general loca
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1), (9), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Parts A and B of chapter 1 of title I of the Act were classified generally to parts A (§2711 et seq.) and B (§2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See part A (§6311 et seq.) and subpart 3 (§6381 et seq.) of part B of subchapter I of chapter 70 of Title 20. Section 5122 of the Act was classified to section 3192 of Title 20 prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382. A new section 5122 of the Act, relating to applications for assistance under educational reform programs, was added by Pub. L. 107–110 and is classified to section 7213a of Title 20.
 
-Section 682 of the Community Services Block Grant Act, referred to in subsec. (a)(2), which was classified to section 9910c of Title 42, The Public Health and Welfare, was omitted in the general amendment of chapter 106 of Title 42, by Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2728. A new section 682 of the Act, containing similar subject matter, is classified to section 9923 of Title 42.
+Section 682 of the Community Services Block Grant Act, referred to in subsec. (a)(2), which was classified tosection 9910c of Title 42, The Public Health and Welfare, was omitted in the general amendment of chapter 106 of Title 42, by Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2728. A new section 682 of the Act, containing similar subject matter, is classified to section 9923 of Title 42.
 
 Public Law 101–509, referred to in subsec. (a)(3), is Pub. L. 101–509, Nov. 5, 1990, 104 Stat. 1389. For complete classification of this Act to the Code, see Tables.
 
@@ -164,7 +164,7 @@ Subsec. (a)(15) to (19). Pub. L. 105–277, §101(f) \[title VIII, §405(c)(3)\]
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 101(f) \[title VIII, §405(c)(3), (d)(27)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(19)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f)\[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(c)(3), (d)(27)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(19)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

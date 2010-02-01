@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In any case in which it is certified under subparagraph (A) that a multiemployer plan is or will be in endangered or critical status for a plan year, the plan sponsor shall, not later than 30 days after the date of the certification, provide notification of the endangered or critical status to the participants and beneficiaries, the bargaining parties, the Pension Benefit Guaranty Corporation, and the Secretary of Labor.
+&emsp;&emsp;&emsp;In any case in which it is certified under subparagraph (A) that a multiemployerplan is or will be in endangered or critical status for a plan year, the plan sponsor shall, not later than 30 days after the date of the certification, provide notification of the endangered or critical status to the participants and beneficiaries, the bargaining parties, the Pension Benefit Guaranty Corporation, and the Secretary of Labor.
 
 #### (ii) Plans in critical status
 
@@ -378,7 +378,7 @@ For purposes of this section—
 
 #### (5) Rehabilitation plan adoption period
 
-&emsp;For purposes of this section, the term “rehabilitation plan adoption period” means the period beginning on the date of the certification under subsection (b)(3)(A) for the initial critical year and ending on the day before the first day of the rehabilitation period.
+&emsp;For purposes of this section, the term “rehabilitation plan adoption period” means the period beginning on the date of the certificationunder subsection (b)(3)(A) for the initial critical year and ending on the day before the first day of the rehabilitation period.
 
 #### (6) Limitation on reduction in rates of future accruals
 
@@ -436,7 +436,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) any early retirement benefit or retirement-type subsidy (within the meaning of section 411(d)(6)(B)(i)) and any benefit payment option (other than the qualified joint and survivor annuity), and
 
-&emsp;&emsp;&emsp;&emsp;(III) benefit increases that would not be eligible for a guarantee under section 4022A of the Employee Retirement Income Security Act of 1974 on the first day of initial critical year because the increases were adopted (or, if later, took effect) less than 60 months before such first day.
+&emsp;&emsp;&emsp;&emsp;(III) benefit increases that would not be eligible for a guarantee under section 4022A of the Employee Retirement Income Security Act of 1974 on the first day of initial critical year because theincreases were adopted (or, if later, took effect) less than 60 months before such first day.
 
 #### (B) Normal retirement benefits protected
 
@@ -504,7 +504,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Effective on the date the notice of certification of the plan's critical status for theinitial critical year under subsection (b)(3)(D) is sent, and notwithstanding section 411(d)(6), the plan shall not pay—
+&emsp;&emsp;Effective on the date the notice of certification of the plan's critical status for the initial critical year under subsection (b)(3)(D) is sent, and notwithstanding section 411(d)(6), the plan shall not pay—
 
 &emsp;&emsp;&emsp;(i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 411(a)(9)), to a participant or beneficiary whose annuity starting date (as defined in section 417(f)(2)) occurs after the date such notice is sent,
 
@@ -590,7 +590,7 @@ For purposes of this section—
 
 &emsp;A person is in pay status under a multiemployer plan if—
 
-&emsp;&emsp;(A) at any time during the current plan year, such person is a participant or beneficiary under the plan and is paid an early, late, normal, or disability retirement benefit under the plan (or a death benefit under the plan related to a retirement benefit), or
+&emsp;&emsp;(A) at any time during the current plan year, such person is a participant or beneficiary under the plan and is paid an early,late, normal, or disability retirement benefit under the plan (or a death benefit under the plan related to a retirement benefit), or
 
 &emsp;&emsp;(B) to the extent provided in regulations of the Secretary, such person is entitled to such a benefit under the plan.
 

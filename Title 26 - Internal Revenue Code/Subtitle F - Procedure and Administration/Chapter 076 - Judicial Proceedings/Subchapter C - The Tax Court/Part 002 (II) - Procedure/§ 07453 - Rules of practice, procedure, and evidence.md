@@ -1,6 +1,6 @@
 ### §7453. Rules of practice, procedure, and evidence
 
-Except in the case of proceedings conducted under section 7436(c) or 7463, the proceedings of the Tax Court and its divisions shall be conducted in accordance with such rules of practice and procedure (other than rules of evidence) as the Tax Court may prescribe and in accordance with the rules of evidence applicable in trials without a jury in the United States District Court of the District of Columbia.
+Except in the case of proceedings conducted under section 7436(c) or 7463, the proceedings of the Tax Court and its divisions shall be conducted in accordance with such rules of practice and procedure (other than rules of evidence) as the Tax Court may prescribe and in accordance with the rules of evidence applicable in trialswithout a jury in the United States District Court of the District of Columbia.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 884; Pub. L. 91–172, title IX, §960(f), Dec. 30, 1969, 83 Stat. 734; Pub. L. 105–34, title XIV, §1454(b)(3), Aug. 5, 1997, 111 Stat. 1057.)
 

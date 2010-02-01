@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(ii) the annual out-of-pocket threshold for the current year.
 
-> &emsp;&emsp;Notices under subparagraph (B) need not be provided more often than as specified by theSecretary and notices under subparagraph (B)(ii) shall take into account the application of section 1395w–102(b)(4)(C) of this title to the extent practicable, as specified by the Secretary.
+> &emsp;&emsp;Notices under subparagraph (B) need not be provided more often than as specified by the Secretary and notices under subparagraph (B)(ii) shall take into account the application of section 1395w–102(b)(4)(C) of this title to the extent practicable, as specified by the Secretary.
 
 #### (b) Access to covered part D drugs
 
@@ -80,7 +80,7 @@
 
 #### (D) Level playing field
 
-&emsp;&emsp;Such a sponsor shall permit enrollees to receive benefits (which may include a 90-day supply of drugs or biologicals) through a pharmacy (other than a mail order pharmacy), with any differential in charge paid by such enrollees.
+&emsp;&emsp;Such a sponsor shall permit enrollees to receive benefits (which may include a 90-daysupply of drugs or biologicals) through a pharmacy (other than a mail order pharmacy), with any differential in charge paid by such enrollees.
 
 #### (E) Not required to accept insurance risk
 
@@ -128,7 +128,7 @@
 
 &emsp;&emsp;In developing and reviewing the formulary, the committee shall—
 
-&emsp;&emsp;&emsp;(i) base clinical decisions on the strength of scientific evidence and standards of practice, including assessing peer-reviewed medical literature, such as randomizedclinical trials, pharmacoeconomic studies, outcomes research data, and on such other information as the committee determines to be appropriate; and
+&emsp;&emsp;&emsp;(i) base clinical decisions on the strength of scientific evidence and standards of practice, including assessing peer-reviewed medical literature, such as randomized clinical trials, pharmacoeconomic studies, outcomes research data, and on such other information as the committee determines to be appropriate; and
 
 &emsp;&emsp;&emsp;(ii) take into account whether including in the formulary (or in a tier in such formulary) particular covered part D drugs has therapeutic advantages in terms of safety and efficacy.
 
@@ -300,7 +300,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 #### (D) Permitting use of appropriate messaging
 
-&emsp;&emsp;Such standards shall allow for the messaging of information only if it relates to the appropriate prescribing of drugs, including quality assurance measures and systems referred to in subsection (c)(1)(B) of this section.
+&emsp;&emsp;Such standards shall allow for the messaging of information only if it relates to theappropriate prescribing of drugs, including quality assurance measures and systems referred to in subsection (c)(1)(B) of this section.
 
 #### (E) Permitting patient designation of dispensing pharmacy
 
@@ -358,7 +358,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 #### (iii) Voluntary participation of physicians and pharmacies
 
-&emsp;&emsp;&emsp;In order to conduct the pilot project under clause (i), the Secretary shall enterinto agreements with physicians, physician groups, pharmacies, hospitals, PDP sponsors, MA organizations, and other appropriate entities under which health care professionals electronically transmit prescriptions to dispensing pharmacies and pharmacists in accordance with such standards.
+&emsp;&emsp;&emsp;In order to conduct the pilot project under clause (i), the Secretary shall enter into agreements with physicians, physician groups, pharmacies, hospitals, PDP sponsors, MA organizations, and other appropriate entities under which health care professionals electronically transmit prescriptions to dispensing pharmacies and pharmacists in accordance with such standards.
 
 #### (iv) Evaluation and report
 
@@ -390,7 +390,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 &emsp;&emsp;(B) in the case of a group practice (as defined in section 1395nn(h)(4) of this title), by the practice to prescribing health care professionals who are members of such practice; and
 
-&emsp;&emsp;(C) in the case of a PDP sponsor or MA organization, by the sponsor or organization to pharmacists and pharmacies participating in the network of such sponsor or organization, and to prescribing health care professionals.
+&emsp;&emsp;(C) in the case of a PDP sponsor or MA organization, by the sponsor or organization topharmacists and pharmacies participating in the network of such sponsor or organization, and to prescribing health care professionals.
 
 #### (f) Grievance mechanism
 
@@ -414,7 +414,7 @@ Each PDP sponsor shall provide meaningful procedures for hearing and resolving g
 
 #### (2) Limitation in cases on nonformulary determinations
 
-&emsp;A part D eligible individual who is enrolled in a prescription drug plan offered by a PDP sponsor may appeal under paragraph (1) a determination not to provide for coverage of a covered part D drug that is not on the formulary under the plan only if the prescribing physician determines that all covered part D drugs on any tier of the formulary for treatment of the same condition would not be as effective for the individual as the nonformularydrug, would have adverse effects for the individual, or both.
+&emsp;A part D eligible individual who is enrolled in a prescription drug plan offered by a PDP sponsor may appeal under paragraph (1) a determination not to provide for coverage of a covered part D drug that is not on the formulary under the plan only if the prescribing physician determines that all covered part D drugs on any tier of the formulary for treatment of the same condition would not be as effective for the individual as the nonformulary drug, would have adverse effects for the individual, or both.
 
 #### (3) Treatment of nonformulary determinations
 
@@ -452,7 +452,7 @@ Subparagraph (A) of section 1395w–22(e)(4) of this title (relating to treatmen
 
 #### (<i>l</i>) Requirements with respect to sales and marketing activities
 
-The following provisions shall apply to a PDP sponsor (and the agents, brokers, and other third parties representing such sponsor) in the same manner as such provisions apply to a Medicare Advantage organization (and the agents, brokers, and other third parties representing such organization):
+The following provisions shall apply to a PDP sponsor (and the agents, brokers, and otherthird parties representing such sponsor) in the same manner as such provisions apply to a Medicare Advantage organization (and the agents, brokers, and other third parties representing such organization):
 
 &emsp;(1) The prohibition under section 1395w–21(h)(4)(C) of this title on conducting activities described in section 1395w–21(j)(1) of this title.
 

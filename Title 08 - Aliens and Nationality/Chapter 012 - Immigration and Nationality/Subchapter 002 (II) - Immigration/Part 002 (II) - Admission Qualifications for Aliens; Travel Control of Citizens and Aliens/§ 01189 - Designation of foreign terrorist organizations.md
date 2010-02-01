@@ -54,7 +54,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall review the designation of a foreign terrorist organization under the procedures set forth in clauses (iii) and (iv) if the designated organization files a petition for revocation within the petition period described in clause (ii).
+&emsp;&emsp;&emsp;The Secretary shall review the designation of a foreign terrorist organizationunder the procedures set forth in clauses (iii) and (iv) if the designated organization files a petition for revocation within the petition period described in clause (ii).
 
 #### (ii) Petition period
 
@@ -76,7 +76,7 @@
 
 #### (II) Classified information
 
-&emsp;&emsp;&emsp;&emsp;The Secretary may consider classified information in making a determinationin response to a petition for revocation. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c) of this section.
+&emsp;&emsp;&emsp;&emsp;The Secretary may consider classified information in making a determination in response to a petition for revocation. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c) of this section.
 
 #### (III) Publication of determination
 
@@ -134,7 +134,7 @@
 
 #### (2) Procedure
 
-&emsp;Amendments made to a designation in accordance with paragraph (1) shall be effective upon publication in the Federal Register. Subparagraphs (B) and (C) of subsection (a)(2) of this section shall apply to an amended designation upon such publication. Paragraphs (2)(A)(i), (4), (5), (6), (7), and (8) of subsection (a) of this section shall also apply to an amended designation.
+&emsp;Amendments made to a designation in accordance with paragraph (1) shall be effective upon publication in the Federal Register. Subparagraphs (B) and (C) of subsection (a)(2) of this section shall apply to an amended designation upon such publication. Paragraphs (2)(A)(i), (4), (5), (6), (7), and (8) of subsection\(a) of this section shall also apply to an amended designation.
 
 #### (3) Administrative record
 
@@ -216,7 +216,7 @@ Subsec. (b). Pub. L. 108–458, §7119(b)(2), added subsec. (b). Former subsec. 
 
 Subsec. (c). Pub. L. 108–458, §7119(b)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (c)(1). Pub. L. 108–458, §7119(c)(2)(A), substituted “in the Federal Register of a designation, an amended designation, or a determination in response to a petition for revocation, the designated organization may seek judicial review” for “of the designation in the Federal Register, an organization designated as a foreign terrorist organization may seek judicial review of the designation”.
+Subsec. (c)(1). Pub. L. 108–458, §7119(c)(2)(A), substituted “in the Federal Register of a designation, anamended designation, or a determination in response to a petition for revocation, the designated organization may seek judicial review” for “of the designation in the Federal Register, an organization designated as a foreign terrorist organization may seek judicial review of the designation”.
 
 Subsec. (c)(2) to (4). Pub. L. 108–458, §7119(c)(2)(B)–(D), inserted “, amended designation, or determination in response to a petition for revocation” after “designation” wherever appearing.
 
@@ -238,7 +238,7 @@ Subsec. (a)(2)(C). Pub. L. 107–56, §411(c)(5), substituted “paragraph (2)(A
 
 Subsec. (a)(3)(B). Pub. L. 107–56, §411(c)(6), substituted “subsection (b) of this section” for “subsection (c) of this section”.
 
-Subsec. (a)(4)(B). Pub. L. 107–56, §411(c)(7), inserted after first sentence “The Secretary also may redesignate such organization at the end of any 2-year redesignation period (but not sooner than 60 days prior to the termination of such period) for an additional 2-year period upon a finding that the relevant circumstances described in paragraph (1) still exist. Any redesignation shall be effective immediately following the end of theprior 2-year designation or redesignation period unless a different effective date is provided in such redesignation.”
+Subsec. (a)(4)(B). Pub. L. 107–56, §411(c)(7), inserted after first sentence “The Secretary also may redesignate such organization at the end of any 2-year redesignation period (but not sooner than 60 days prior to the termination of such period) for an additional 2-year period upon a finding that the relevant circumstances described in paragraph (1) still exist. Any redesignation shall be effective immediately following the end of the prior 2-year designation or redesignation period unless a different effective date is provided in such redesignation.”
 
 Subsec. (a)(6)(A). Pub. L. 107–56, §411(c)(8)(A), inserted “or a redesignation made under paragraph (4)(B)” after “paragraph (1)” in introductory provisions.
 

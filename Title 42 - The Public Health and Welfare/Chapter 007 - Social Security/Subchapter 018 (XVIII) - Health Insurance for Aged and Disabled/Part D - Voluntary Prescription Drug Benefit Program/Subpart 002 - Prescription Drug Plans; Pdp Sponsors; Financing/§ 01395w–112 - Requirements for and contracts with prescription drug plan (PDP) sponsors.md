@@ -26,7 +26,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (1) In general
 
-&emsp;The Secretary shall not permit the enrollment under section 1395w–101 of this title in aprescription drug plan offered by a PDP sponsor under this part, and the sponsor shall not be eligible for payments under section 1395w–114 or 1395w–115 of this title, unless the Secretary has entered into a contract under this subsection with the sponsor with respect to the offering of such plan. Such a contract with a sponsor may cover more than one prescription drug plan. Such contract shall provide that the sponsor agrees to comply with the applicable requirements and standards of this part and the terms and conditions of payment as provided for in this part.
+&emsp;The Secretary shall not permit the enrollment under section 1395w–101 of this title in a prescription drug plan offered by a PDP sponsor under this part, and the sponsor shall not be eligible for payments under section 1395w–114 or 1395w–115 of this title, unless the Secretary has entered into a contract under this subsection with the sponsor with respect to the offering of such plan. Such a contract with a sponsor may cover more than one prescription drug plan. Such contract shall provide that the sponsor agrees to comply with the applicable requirements and standards of this part and the terms and conditions of payment as provided for in this part.
 
 #### (2) Limitation on entities offering fallback prescription drug plans
 
@@ -54,7 +54,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (B) Contract period and effectiveness
 
-&emsp;&emsp;Section 1395w–27(c) of this title, except that in applying paragraph (4)(B) of such section any reference to payment amounts under section 1395w–23 of this title shall be deemed payment amounts under section 1395w–115 of this title.
+&emsp;&emsp;Section 1395w–27(c) of this title, except that in applying paragraph (4)(B) of suchsection any reference to payment amounts under section 1395w–23 of this title shall be deemed payment amounts under section 1395w–115 of this title.
 
 #### (C) Protections against fraud and beneficiary protections
 
@@ -128,7 +128,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;If a PDP sponsor determines that a submitted claim is not a clean claim, the PDP sponsor shall, not later than the end of the period described in clause (i), notify the claimant of such determination. Such notification shall specify all defects or improprieties in the claim and shall list all additional information or documents necessary for the proper processing and payment of the claim.
+&emsp;&emsp;&emsp;&emsp;If a PDP sponsor determines that a submitted claim is not a clean claim, thePDP sponsor shall, not later than the end of the period described in clause (i), notify the claimant of such determination. Such notification shall specify all defects or improprieties in the claim and shall list all additional information or documents necessary for the proper processing and payment of the claim.
 
 #### (II) Determination after submission of additional information
 

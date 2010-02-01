@@ -132,7 +132,7 @@ In accordance with subchapter XII of this chapter (relating to transition provis
 
 &emsp;&emsp;(A) current or former members of the Armed Forces under section 1439 or 1440 of title 8;
 
-&emsp;&emsp;(B) current spouses of United States citizens who are currently serving on active duty in the Armed Forces, who qualify for naturalization under section 1430(b) of title 8, and surviving spouses and children who qualify for naturalization under section 1430(d) of title 8; or
+&emsp;&emsp;(B) current spouses of United States citizens who are currently serving on activeduty in the Armed Forces, who qualify for naturalization under section 1430(b) of title 8, and surviving spouses and children who qualify for naturalization under section 1430(d) of title 8; or
 
 &emsp;&emsp;(C) a deceased individual who is eligible for posthumous citizenship under section 1440–1 of title 8.
 
@@ -164,7 +164,7 @@ Pub. L. 110–382, §4, Oct. 9, 2008, 122 Stat. 4089, provided that: “This Act
 
 #### Effective Date
 
-Pub. L. 107–296, title IV, §455, Nov. 25, 2002, 116 Stat. 2200, provided that: “Notwithstanding section 4 \[enacting provisions set out as a note under section 101 of thistitle\], sections 451 through 456 \[enacting this section and sections 272 to 275 of this title\], and the amendments made by such sections, shall take effect on the date on which the transfer of functions specified under section 441 \[enacting section 251 of this title\] takes effect.” \[For date on which transfer of functions specified under section 441 takes effect, see section 251 of this title and Department of Homeland Security Reorganization Plan, Nov. 25, 2002, set out as a note under section 542 of this title.\]
+Pub. L. 107–296, title IV, §455, Nov. 25, 2002, 116 Stat. 2200, provided that: “Notwithstanding section 4 \[enacting provisions set out as a note under section 101 of this title\], sections 451 through 456 \[enacting this section and sections 272 to 275 of this title\], and the amendments made by such sections, shall take effect on the date on which the transfer of functions specified under section 441 \[enacting section 251 of this title\] takes effect.” \[For date on which transfer of functions specified under section 441 takes effect, see section 251 of this title and Department of Homeland Security Reorganization Plan, Nov. 25, 2002, set out as a note under section 542 of this title.\]
 
 #### Rulemaking
 

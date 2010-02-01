@@ -50,7 +50,7 @@ Pub. L. 100–329, §4, June 7, 1988, 102 Stat. 589, provided that: “For purpo
 
 Pub. L. 100–329, §5, June 7, 1988, 102 Stat. 589, provided that: “Notwithstanding the provisions of section 1 of this Act \[amending section 883 of the former Appendix to this title, from which this section was derived\], the Secretary of the department in which the Coast Guard is operating may issue a certificate of documentation under section 12106 \[see section 12112\] of title 46, United States Code, to a vessel that—
 
-&emsp;“(1) is engaged in transporting only valueless material in the coastwise trade or transporting dredged material, whether or not of value, (A) from a point or place on the high seas within the Exclusive Economic Zone as defined in the Presidential Proclamation of March 10, 1983 \[16 U.S.C. 1453 note\], to a point or placein the United States or to another point or place on the high seas within such Exclusive Economic Zone or (B) from a point or place within the United States to a point or place on the high seas within such Exclusive Economic Zone;
+&emsp;“(1) is engaged in transporting only valueless material in the coastwise trade or transporting dredged material, whether or not of value, (A) from a point or place on the high seas within the Exclusive Economic Zone as defined in the Presidential Proclamation of March 10, 1983 \[16 U.S.C. 1453 note\], to a point or place in the United States or to another point or place on the high seas within such Exclusive Economic Zone or (B) from a point or place within the United States to a point or place on the high seas within such Exclusive Economic Zone;
 
 &emsp;“(2) had a certificate of documentation issued under section 12105 \[see section 12111\] of that title on October 1, 1987;
 

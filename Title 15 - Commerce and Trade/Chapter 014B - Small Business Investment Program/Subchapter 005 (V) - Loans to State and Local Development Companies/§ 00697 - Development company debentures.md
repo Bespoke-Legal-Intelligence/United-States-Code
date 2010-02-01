@@ -8,7 +8,7 @@
 
 (3) The full faith and credit of the United States in pledged to the payment of all amounts guaranteed under this subsection.
 
-(4) Any debenture issued by any State or local development company with respect to which a guarantee is made under this subsection, may be subordinated by the Administration to any other debenture, promissory note, or other debt or obligation of such company.
+(4) Any debenture issued by any State or local development company with respect to which aguarantee is made under this subsection, may be subordinated by the Administration to any other debenture, promissory note, or other debt or obligation of such company.
 
 #### (b) Statutory terms and conditions
 
@@ -22,7 +22,7 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 &emsp;(4) the aggregate amount of such debenture does not exceed the amount of loans to be made from the proceeds of such debenture (other than any excess attributable to the administrative costs of such loans);
 
-&emsp;(5) the amount of any loan to be made from such proceeds does not exceed an amountequal to 50 percent of the cost of the project with respect to which such loan is made;
+&emsp;(5) the amount of any loan to be made from such proceeds does not exceed an amount equal to 50 percent of the cost of the project with respect to which such loan is made;
 
 &emsp;(6) the Administration approves each loan to be made from such proceeds; and
 
@@ -72,7 +72,7 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 &emsp;(C) a board of directors, or membership, which meets on a regular basis to make management decisions for such company, including decisions relating to the making and servicing of loans by such company.
 
-(2) A company in a rural area shall be deemed to have satisfied the requirements of a full-time professional staff and professional management ability if it contracts with another certified development company which has such staff and management ability and which is located in the same general area to provide such services.
+(2) A company in a rural area shall be deemed to have satisfied the requirements of a full-time professional staff and professional management ability if it contracts with another certified development company which has such staff andmanagement ability and which is located in the same general area to provide such services.
 
 (3) Notwithstanding any other provision of law, qualified State or local development companies shall be authorized to prepare applications for deferred participation loans under section 636(a) of this title, to service such loans and to charge a reasonable fee for servicing such loans.
 
@@ -88,7 +88,7 @@ All fees, interest, and profits received and retained by the Administration unde
 
 #### (1) Initial actions
 
-&emsp;Not later than the 45th day after the date on which a payment on a loan funded through adebenture guaranteed under this section is due and not received, the Administration shall—
+&emsp;Not later than the 45th day after the date on which a payment on a loan funded through a debenture guaranteed under this section is due and not received, the Administration shall—
 
 &emsp;&emsp;(A) take all necessary steps to bring such a loan current; or
 

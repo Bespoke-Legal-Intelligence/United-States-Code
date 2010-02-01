@@ -38,7 +38,7 @@ The Foundation shall report the progress of the program under subsection (a) of 
 
 &emsp;&emsp;(A) a nonprofit support organization or friends group to modify current practices or to affiliate with the Foundation; or
 
-&emsp;&emsp;(B) a local nonprofit support organization, established as a result of this section, to bebound through its charter or corporate bylaws to be permanently affiliated with the Foundation.
+&emsp;&emsp;(B) a local nonprofit support organization, established as a result of this section, to be bound through its charter or corporate bylaws to be permanently affiliated with the Foundation.
 
 #### (2) Establishment
 

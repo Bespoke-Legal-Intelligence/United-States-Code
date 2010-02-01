@@ -58,7 +58,7 @@ The State educational agency for a State that receives a grant under section 661
 
 &emsp;(12) Developing, or assisting local educational agencies in developing, merit-based performance systems, and strategies that provide differential and bonus pay for teachers in high-need academic subjects such as reading, mathematics, and science and teachers in high-poverty schools and districts.
 
-&emsp;(13) Providing assistance to local educational agencies for the development and implementation of professional development programs for principals that enable the principalsto be effective school leaders and prepare all students to meet challenging State academic content and student academic achievement standards, and the development and support of school leadership academies to help exceptionally talented aspiring or current principals and superintendents become outstanding managers and educational leaders.
+&emsp;(13) Providing assistance to local educational agencies for the development and implementation of professional development programs for principals that enable the principals to be effective school leaders and prepare all students to meet challenging State academic content and student academic achievement standards, and the development and support of school leadership academies to help exceptionally talented aspiring or current principals and superintendents become outstanding managers and educational leaders.
 
 &emsp;(14) Developing, or assisting local educational agencies in developing, teacher advancement initiatives that promote professional growth and emphasize multiple career paths (such as paths to becoming a career teacher, mentor teacher, or exemplary teacher) and pay differentiation.
 

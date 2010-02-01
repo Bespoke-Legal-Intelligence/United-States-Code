@@ -8,7 +8,7 @@ Except as otherwise provided in this chapter or other Acts, foreign currencies r
 
 Any Act of the Congress making appropriations to carry out programs under this chapter or any other Act for United States operations abroad is hereby authorized to provide for the utilization of United States-owned excess foreign currencies to carry out any such operations authorized by law.
 
-As used in this subsection, the term “excess foreign currencies” means foreign currencies or credits owned by or owed to the United States which are, under applicable agreements with theforeign country concerned, available for the use of the United States Government and are determined by the President to be excess to the normal requirements of departments and agencies of the United States for such currencies or credits and are not prohibited from use under this subsection by an agreement entered into with the foreign country concerned.
+As used in this subsection, the term “excess foreign currencies” means foreign currencies or credits owned by or owed to the United States which are, under applicable agreements with the foreign country concerned, available for the use of the United States Government and are determined by the President to be excess to the normal requirements of departments and agencies of the United States for such currencies or credits and are not prohibited from use under this subsection by an agreement entered into with the foreign country concerned.
 
 The President shall take all appropriate steps to assure that, to the maximum extent possible, United States-owned foreign currencies are utilized in lieu of dollars. Dollar funds made available pursuant to this chapter shall not be expended for goods and services when United States-owned foreign currencies are available for such purposes unless the administrative official approving the voucher certifies as to the reason for the use of dollars in each case.
 
@@ -18,7 +18,7 @@ In addition to funds otherwise available, excess foreign currencies, as defined 
 
 #### (d) Reciprocal release of dollar value equivalents
 
-In furnishing assistance under this chapter to the government of any country in which the United States owns excess foreign currencies as defined in subsection (b) of this section, except those currencies generated under the Food for Peace Act, as amended \[7 U.S.C. 1691 et seq.\], the President shall endeavor to obtain from the recipient country an agreement for the release, on such terms and conditions as the President shall determine, of an amount of such currencies up to the equivalent of the dollar value of assistance furnished by the United States for programs as may be mutually agreed upon by the recipient country and the United States to carry out the purposes for which new funds authorized by this chapter would themselves be available.
+In furnishing assistance under this chapter to the government of any country in which the United States owns excess foreign currencies as defined in subsection (b) of this section, except those currencies generated under the Food forPeace Act, as amended \[7 U.S.C. 1691 et seq.\], the President shall endeavor to obtain from the recipient country an agreement for the release, on such terms and conditions as the President shall determine, of an amount of such currencies up to the equivalent of the dollar value of assistance furnished by the United States for programs as may be mutually agreed upon by the recipient country and the United States to carry out the purposes for which new funds authorized by this chapter would themselves be available.
 
 (Pub. L. 87–195, pt. III, §612, Sept. 4, 1961, 75 Stat. 443; Pub. L. 88–205, pt. III, §301(d), Dec. 16, 1963, 77 Stat. 385; Pub. L. 88–633, pt. III, §301(c), Oct. 7, 1964, 78 Stat. 1012; Pub. L. 88–638, §2(1), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–171, pt. III, §301(b), Sept. 6, 1965, 79 Stat. 659; Pub. L. 89–583, pt. III, §301(e), Sept. 19, 1966, 80 Stat. 805; Pub. L. 91–175, pt. III, §302, Dec. 30, 1969, 83 Stat. 820; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
@@ -60,13 +60,13 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Separate Accounts for Local Currencies and Cash Transfers
 
-Pub. L. 110–161, div. J, title VI, §628, Dec. 26, 2007, 121 Stat. 2325, provided that:
+Pub. L. 111–117, div. F, title VII, §7027, Dec. 16, 2009, 123 Stat. 3355, provided that:
 
 “(a)
 
 Separate Accounts for Local Currencies.—
 
-&emsp;“(1) If assistance is furnished to the government of a foreign country under chapters 1 and 10 of part I \[22 U.S.C. 2151 et seq., 2293 et seq.\] or chapter 4 of part II \[22 U.S.C. 2346 et seq.\] of the Foreign Assistance Act of 1961 under agreements which result in the generation of local currencies of that country, the Administrator of the United States Agency for International Development shall—
+&emsp;“(1) If assistance is furnished to the government of a foreign country under chapters 1 and 10 of part I \[22 U.S.C. 2151 et seq., 2293 et seq.\] or chapter 4 of part II \[22 U.S.C. 2346 et seq.\] of the Foreign Assistance Act of 1961 under agreements which result in the generation of local currencies of that country, the Administrator of the United States Agency for International Development (USAID) shall—
 
 &emsp;&emsp;“(A) require that local currencies be deposited in a separate account established by that government;
 
@@ -76,13 +76,13 @@ Separate Accounts for Local Currencies.—
 
 &emsp;&emsp;&emsp;“(ii) the terms and conditions under which the currencies so deposited may be utilized, consistent with this section; and
 
-&emsp;&emsp;“(C) establish by agreement with that government the responsibilities of the United States Agency for International Development and that government to monitor and account for deposits into and disbursements from the separate account.
+&emsp;&emsp;“(C) establish by agreement with that government the responsibilities of USAID and that government to monitor and account for deposits into and disbursements from the separate account.
 
 &emsp;“(2)
 
 Uses of local currencies.—As may be agreed upon with the foreign government, local currencies deposited in a separate account pursuant to subsection (a), or an equivalent amount of local currencies, shall be used only—
 
-&emsp;&emsp;“(A) to carry out chapter 1 or 10 of part I or chapter 4 of part II (as the case may be), for such purposes as—
+&emsp;&emsp;“(A) to carry out chapter 1 or 10 of part I or chapter 4 of part II of the Foreign Assistance Act of 1961 (as the case may be), for such purposes as—
 
 &emsp;&emsp;&emsp;“(i) project and sector assistance activities; or
 
@@ -92,15 +92,15 @@ Uses of local currencies.—As may be agreed upon with the foreign government, l
 
 &emsp;“(3)
 
-Programming accountability.—The United States Agency for International Development shall take all necessary steps to ensure that the equivalent of the local currencies disbursed pursuant to subsection (a)(2)(A) from the separate account established pursuant to subsection (a)(1) are used for the purposes agreed upon pursuant to subsection (a)(2).
+Programming accountability.—USAID shall take all necessary steps to ensure that the equivalent of the local currencies disbursed pursuant to subsection (a)(2)(A) from the separate account established pursuant to subsection (a)(1) are used for the purposes agreed upon pursuant to subsection (a)(2).
 
 &emsp;“(4)
 
-Termination of assistance programs.—Upon termination of assistance to a country under chapter 1 or 10 of part I or chapter 4 of part II (as the case may be), any unencumbered balances of funds which remain in a separate account established pursuant to subsection (a) shall be disposed of for such purposes as may be agreed to by the government of that country and the United States Government.
+Termination of assistance programs.—Upon termination of assistance to a country under chapter 1 or 10 of part I or chapter 4 of part II of the Foreign Assistance Act of 1961 (as the case may be), any unencumbered balances of funds which remain in a separate account established pursuant to subsection (a) shall be disposed of for such purposes as may be agreed to by the government of that country and the United States Government.
 
 &emsp;“(5)
 
-Reporting requirement.—The Administrator of the United States Agency for International Development shall report on an annual basis as part of the justification documents submitted to the Committees on Appropriations on the use of local currencies for the administrative requirements of the United States Government as authorized in subsection (a)(2)(B), and such report shall include the amount of local currency (and United States dollar equivalent) used and/or to be used for such purpose in each applicable country.
+Reporting requirement.—The USAID Administrator shall report on an annual basis as part of thejustification documents submitted to the Committees on Appropriations on the use of local currencies for the administrative requirements of the United States Government as authorized in subsection (a)(2)(B), and such report shall include the amount of local currency (and United States dollar equivalent) used and/or to be used for such purpose in each applicable country.
 
 “(b)
 
@@ -118,9 +118,13 @@ Notification.—At least 15 days prior to obligating any such cash transfer or n
 
 &emsp;“(4)
 
-Exemption.—Nonproject sector assistance funds may be exempt from the requirements of subsection (b)(1) only through the notification procedures of the Committees on Appropriations.”
+Exemption.—Nonproject sector assistance funds may be exempt from the requirements of subsection (b)(1) only through the regular notification procedures of the Committees on Appropriations.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 111–8, div. H, title VII, §7027, Mar. 11, 2009, 123 Stat. 871.
+
+Pub. L. 110–161, div. J, title VI, §628, Dec. 26, 2007, 121 Stat. 2325.
 
 Pub. L. 109–102, title V, §529, Nov. 14, 2005, 119 Stat. 2206.
 

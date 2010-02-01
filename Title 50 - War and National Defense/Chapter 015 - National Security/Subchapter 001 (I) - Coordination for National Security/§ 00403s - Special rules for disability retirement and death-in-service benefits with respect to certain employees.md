@@ -2,7 +2,7 @@
 
 #### (a) Officers and employees to whom section 2051 rules apply
 
-Notwithstanding any other provision of law, an officer or employee of the Central Intelligence Agency subject to retirement system coverage under subchapter III of chapter 83 of title 5 who—
+Notwithstanding any other provision of law, an officer or employee of the Central Intelligence Agency subject to retirement systemcoverage under subchapter III of chapter 83 of title 5 who—
 
 &emsp;(1) has five years of civilian service credit toward retirement under such subchapter III of chapter 83, title 5;
 
@@ -40,11 +40,11 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–178, §501(3)(A), (C), substituted “section 2052” for “section 2051” in heading and closing provisions.
+1993—Subsec. (b). Pub. L. 103–178, §501(3)(A), (C), substituted “section 2052” for “section 2051” in heading and closing provisions.
 
 Subsec. (b)(2). Pub. L. 103–178, §501(3)(B), made technical amendment to reference to section 2013 of this title to update reference to corresponding section of original act.
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–496, §803(a)(3)(A), inserted heading, redesignated cl. (i) as par. (1), in cl. (ii), substituted reference to section 2013 of this title for reference in original to section 203 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees, as amended, which was formerly set out as a note under section 403 of this title, and redesignated such cl. as par. (2), in cl. (iii), inserted “such” before reference to section 2013 of this title and redesignated such cl. as par. (3), redesignated cl. (iv) as par. (4), and substituted reference to section 2051 of this title for “such section 231” in concluding provisions.
+1992—Subsec. (a). Pub. L. 102–496, §803(a)(3)(A), inserted heading, redesignated cl. (i) as par. (1), in cl. (ii), substituted reference to section 2013 of this title for reference in original to section 203 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees, as amended, which was formerly set out as a note under section 403 of this title, and redesignated such cl. as par. (2), in cl. (iii), inserted “such” before reference to section 2013 of this title and redesignated such cl. as par. (3), redesignated cl. (iv) as par. (4), and substituted reference to section 2051 of this title for “such section 231” in concluding provisions.
 
 Subsec. (b). Pub. L. 102–496, §803(a)(3)(B)(i), (ii), (iv)–(vi), inserted heading, redesignated cl. (i) as par. (1), in cl. (ii), substituted reference to section 2013 of this title for reference in original to section 203 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees, as amended, which was formerly set out as a note under section 403 of this title, and redesignated cl. (ii) as par. (2), redesignated cls. (iii) and (iv) as pars. (3) and (4), respectively, and in concluding provisions, substituted “surviving spouse, former spouse, or child” for “widow or widower, former spouse, and/or child or children” and substituted reference to section 2051 of this title for “such section 232”.
 

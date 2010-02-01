@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(C) forensic science purposes; or
 
-&emsp;(2) was plastic explosive that, within 3 years after the date of enactment of the Antiterrorism and Effective Death Penalty Act of 1996, will be or is incorporated in a military device within the territory of the United States and remains an integral part of such military device, or is intended to be, or is incorporated in, and remains an integral part of a military device that is intended to become, or has become, the property of any agency of the United States performing military or police functions (including any military reserve component) or the National Guard of any State, wherever such device is located.
+&emsp;(2) was plastic explosive that, within 3 years after the date of enactment of the Antiterrorism and Effective Death Penalty Act of1996, will be or is incorporated in a military device within the territory of the United States and remains an integral part of such military device, or is intended to be, or is incorporated in, and remains an integral part of a military device that is intended to become, or has become, the property of any agency of the United States performing military or police functions (including any military reserve component) or the National Guard of any State, wherever such device is located.
 
 &emsp;(3) For purposes of this subsection, the term “military device” includes, but is not restricted to, shells, bombs, projectiles, mines, missiles, rockets, shaped charges, grenades, perforators, and similar devices lawfully manufactured exclusively for military or police purposes.
 
@@ -52,7 +52,7 @@ Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secre
 
 Subsec. (c). Pub. L. 104–132, §605(2), added subsec. (c).
 
-1975—Subsec. (a)(5). Pub. L. 93–639 substituted provisions exempting commercially manufactured black powder in quantities not exceeding fifty pounds, percussion caps, safety and pyrotechnic fuses, quills, quick and slow matches, and friction primers, intended to beused solely for sporting, recreational, or cultural purposes in antique firearms or in antique devices for such exemption of black powder in quantities not exceeding five pounds.
+1975—Subsec. (a)(5). Pub. L. 93–639 substituted provisions exempting commercially manufactured black powder in quantities not exceeding fifty pounds, percussion caps, safety and pyrotechnic fuses, quills, quick and slow matches, and friction primers, intended to be used solely for sporting, recreational, or cultural purposes in antique firearms or in antique devices for such exemption of black powder in quantities not exceeding five pounds.
 
 #### Effective Date of 2002 Amendment
 

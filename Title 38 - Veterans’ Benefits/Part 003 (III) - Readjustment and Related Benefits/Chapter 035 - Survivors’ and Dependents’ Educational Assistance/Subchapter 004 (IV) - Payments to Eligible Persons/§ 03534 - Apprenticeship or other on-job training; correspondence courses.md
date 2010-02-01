@@ -36,7 +36,7 @@ Amendment by Pub. L. 107–103 effective Jan. 1, 2002, and applicable with respe
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–419 effective Nov. 1, 2000, and applicable with respect to educational assistanceallowances paid under this chapter for months after October 2000, see section 111(e) of Pub. L. 106–419, set out as a note under section 3532 of this title.
+Amendment by Pub. L. 106–419 effective Nov. 1, 2000, and applicable with respect to educational assistance allowances paid under this chapter for months after October 2000, see section 111(e) of Pub. L. 106–419, set out as a note under section 3532 of this title.
 
 #### Effective Date of 1998 Amendments
 

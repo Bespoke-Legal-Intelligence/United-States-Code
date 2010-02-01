@@ -22,7 +22,7 @@ Nothing in this section shall be deemed to be a Congressional determination of t
 
 #### (e) Payment of legal fees, court costs and other expenses
 
-The Secretary of the Interior is authorized to pay any or all appropriate legal fees, court costs, and other related expenses arising out of, or in connection with, the commencing of, or defending against, any action brought by the Navajo, San Juan Southern Paiute or Hopi Tribe under this section.
+The Secretary of the Interior is authorized to pay any or all appropriate legal fees, courtcosts, and other related expenses arising out of, or in connection with, the commencing of, or defending against, any action brought by the Navajo, San Juan Southern Paiute or Hopi Tribe under this section.
 
 #### (f) Provision of attorney fees for San Juan Southern Paiute Tribe
 

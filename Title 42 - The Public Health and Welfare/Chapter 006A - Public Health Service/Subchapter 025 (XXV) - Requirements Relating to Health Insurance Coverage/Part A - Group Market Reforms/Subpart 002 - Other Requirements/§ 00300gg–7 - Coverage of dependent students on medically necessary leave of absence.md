@@ -30,7 +30,7 @@ In this section, the term “medically necessary leave of absence” means, with
 
 #### (3) Certification by physician
 
-&emsp;Paragraph (1) shall apply to a group health plan or health insurance coverage offered by an issuer in connection with such plan only if the plan or issuer of the coverage has received written certification by a treating physician of the dependent child which states that thechild is suffering from a serious illness or injury and that the leave of absence (or other change of enrollment) described in subsection (a) is medically necessary.
+&emsp;Paragraph (1) shall apply to a group health plan or health insurance coverage offered by an issuer in connection with such plan only if the plan or issuer of the coverage has received written certification by a treating physician of the dependent child which states that the child is suffering from a serious illness or injury and that the leave of absence (or other change of enrollment) described in subsection (a) is medically necessary.
 
 #### (c) Notice
 

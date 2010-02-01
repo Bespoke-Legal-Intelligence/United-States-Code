@@ -80,7 +80,7 @@ Section 5707(d) of this title, referred to in text, was repealed by Pub. L. 104�
 
 1986—Par. (4). Pub. L. 99–234 amended par. (4) generally, striking out “flat rate” before “payment”.
 
-1975—Par. (2). Pub. L. 94–22 redefined “employee” to include individuals employed intermittently as experts or consultants and paid on a daily when-actually-employed basis, and individuals serving without pay at $1 a year.
+1975—Par. (2). Pub. L. 94–22 redefined “employee” to include individuals employed intermittently as expertsor consultants and paid on a daily when-actually-employed basis, and individuals serving without pay at $1 a year.
 
 #### Effective Date of 1986 Amendment; Regulations
 
@@ -112,9 +112,13 @@ Pub. L. 108–447, div. G, title II, §209, Dec. 8, 2004, 118 Stat. 3193, provid
 
 #### Creditworthiness of Individuals To Be Issued Government Charge Cards
 
-Pub. L. 110–161, div. D, title VII, §743, Dec. 26, 2007, 121 Stat. 2032, provided that: “Each executive department and agency shall evaluate the creditworthiness of an individual before issuing the individual a government travel charge card. Such evaluations for individually-billed travel charge cards shall include an assessment of the individual's consumer report from a consumer reporting agency as those terms are defined in section 603 of the Fair Credit Reporting Act (Public Law 91–508 \[90–321\]) \[15 U.S.C. 1681a\]: <i>Provided</i>, \[Proviso amended section 1681b of Title 15, Commerce and Trade.\]: <i>Provided further</i>, That the department or agency may not issue a government travel charge card to an individual that either lacks a credit history or is found to have an unsatisfactory credit history as a result of this evaluation: <i>Provided further</i>, That this restriction shall not preclude issuance of a restricted-use charge, debit, or stored value card made in accordance with agency procedures to: (1) an individual with an unsatisfactory credit history where such card is used to pay travel expenses and the agency determines there is no suitable alternative payment mechanism available before issuing the card; or (2) an individual who lacks a credit history. Each executive department and agency shall establish guidelines and procedures for disciplinary actions to be taken against agency personnel for improper, fraudulent, or abusive use of government charge cards, which shall include appropriate disciplinary actions for use of charge cards for purposes, and at establishments, that are inconsistent with the official business of the Department or agency or with applicable standards of conduct.”
+Pub. L. 111–117, div. C, title VII, §738, Dec. 16, 2009, 123 Stat. 3214, provided that: “Each executive department and agency shall evaluate the creditworthiness of an individual before issuing the individual a government travel charge card. Such evaluations for individually billed travel charge cards shall include an assessment of the individual's consumer report from a consumer reporting agency as those terms are defined in section 603 of the Fair Credit Reporting Act (Public Law 91–508 \[Pub. L. 90–321\]) \[15 U.S.C. 1681a\]: <i>Provided</i>, That the department or agency may not issue a government travel charge card to an individual that either lacks a credit history or is found to have an unsatisfactory credit history as a result of this evaluation: <i>Provided further</i>, That this restriction shall not preclude issuance of a restricted-use charge, debit, or stored value card made in accordance with agency procedures to: (1) an individual with an unsatisfactory credit history where such card is used to pay travel expenses and the agency determines there is no suitable alternative payment mechanism available before issuing the card; or (2) an individual who lacks a credit history. Each executive department and agency shall establish guidelines and procedures for disciplinary actions to be taken against agency personnel for improper, fraudulent, or abusive use of government charge cards, which shall include appropriate disciplinary actions for use of charge cards for purposes, and at establishments, that are inconsistent with the official business of the Department or agency or with applicable standards of conduct.”
 
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 111–8, div. D, title VII, §741, Mar. 11, 2009, 123 Stat. 691.
+
+Pub. L. 110–161, div. D, title VII, §743, Dec. 26, 2007, 121 Stat. 2032.
 
 Pub. L. 109–115, div. A, title VIII, §846, Nov. 30, 2005, 119 Stat. 2507.
 
@@ -128,7 +132,7 @@ Pub. L. 105–264, §2, Oct. 19, 1998, 112 Stat. 2350, provided that:
 
 “(a)
 
-In General.—Under regulations issued by the Administrator of General Services after consultation with the Secretary of the Treasury, the Administrator shall require that Federal employees use the travelcharge card established pursuant to the United States Travel and Transportation Payment and Expense Control System, or any Federal contractor-issued travel charge card, for all payments of expenses of official Government travel. The Administrator shall exempt any payment, person, type or class of payments, or type or class of personnel from any requirement established under the preceding sentence in any case in which—
+In General.—Under regulations issued by the Administrator of General Services after consultation with the Secretary of the Treasury, the Administrator shall require that Federal employees use the travel charge card established pursuant to the United States Travel and Transportation Payment and Expense Control System, or any Federal contractor-issued travel charge card, for all payments of expenses of official Government travel. The Administrator shall exempt any payment, person, type or class of payments, or type or class of personnel from any requirement established under the preceding sentence in any case in which—
 
 &emsp;“(1) it is in the best interest of the United States to do so;
 
@@ -138,7 +142,7 @@ In General.—Under regulations issued by the Administrator of General Services 
 
 “(b)
 
-Agency Exemption.—The head of a Federal agency or the designee of such head may exempt any payment, person, type or class of payments, or type or class of agency personnel from subsection (a) if the agency head or the designee determines the exemption to be necessary in the interest of the agency. Not later than 30 days after granting such an exemption, the head of such agency or the designee shall notify the Administrator of General Services in writing of such exemption stating the reasons for the exemption.
+Agency Exemption.—The head of a Federal agency or the designee of such head may exempt any payment, person, type or class of payments, or type orclass of agency personnel from subsection (a) if the agency head or the designee determines the exemption to be necessary in the interest of the agency. Not later than 30 days after granting such an exemption, the head of such agency or the designee shall notify the Administrator of General Services in writing of such exemption stating the reasons for the exemption.
 
 “(c)
 

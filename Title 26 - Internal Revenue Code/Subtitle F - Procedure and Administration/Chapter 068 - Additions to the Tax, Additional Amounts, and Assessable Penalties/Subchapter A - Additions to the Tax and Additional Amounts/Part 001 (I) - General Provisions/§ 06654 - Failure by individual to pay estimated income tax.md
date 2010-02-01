@@ -123,6 +123,34 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;In the case of an estate or trust, adjusted gross income shall be determined as provided in section 67(e).
 
+#### (D) Special rule for 2009
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Notwithstanding subparagraph (C), in the case of any taxable year beginning in 2009, clause (ii) of subparagraph (B) shall be applied to any qualified individual by substituting “90 percent” for “100 percent”.
+
+#### (ii) Qualified individual
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “qualified individual” means any individual if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the adjusted gross income shown on the return of such individual for the preceding taxable year is less than $500,000, and
+
+&emsp;&emsp;&emsp;&emsp;(II) such individual certifies that more than 50 percent of the gross income shown on the return of such individual for the preceding taxable year was income from a small business.
+
+&emsp;&emsp;&nbsp;A certification under subclause (II) shall be in such form and manner and filed at such time as the Secretary may by regulations prescribe.
+
+#### (iii) Income from a small business
+
+&emsp;&emsp;&emsp;For purposes of clause (ii), income from a small business means, with respect to any individual, income from a trade or business the average number of employees of which was less than 500 employees for the calendar year ending with or within the preceding taxable year of the individual.
+
+#### (iv) Separate returns
+
+&emsp;&emsp;&emsp;In the case of a married individual (within the meaning of section 7703) who files aseparate return for the taxable year for which the amount of the installment is being determined, clause (ii)(I) shall be applied by substituting “$250,000” for “$500,000”.
+
+#### (v) Estates and trusts
+
+&emsp;&emsp;&emsp;In the case of an estate or trust, adjusted gross income shall be determined as provided in section 67(e).
+
 #### (2) Lower required installment where annualized income installment is less than amount determined under paragraph (1)
 
 #### (A) In general
@@ -379,9 +407,11 @@ In the case of a nonresident alien described in section 6072(c):
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 823; Pub. L. 87–682, §1(a)(4), Sept. 25, 1962, 76 Stat. 575; Pub. L. 89–368, title I, §§102(b)(1)–(3), 103(a), Mar. 15, 1966, 80 Stat. 62–64; Pub. L. 91–172, title III, §301(b)(13), Dec. 30, 1969, 83 Stat. 586; Pub. L. 92–5, title II, §203(b)(7), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §203(b)(7), July 1, 1972, 86 Stat. 420; Pub. L. 93–66, title II, §203(b)(7), (d), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(b)(7), (d), Dec. 31, 1973, 87 Stat. 954; Pub. L. 93–625, §7(c), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(a)(35), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834; Pub. L. 95–30, title I, §102(b)(16), May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title IV, §421(e)(9), Nov. 6, 1978, 92 Stat. 2877; Pub. L. 97–34, title VI, §601(a)(6)(A), title VII, §725(b), (c)(5), Aug. 13, 1981, 95 Stat. 336, 346; Pub. L. 97–248, title II, §207(d)(7), formerly §207(c)(7), title III, §§307(a)(14), 308(a), 328(a), Sept. 3, 1982, 96 Stat. 420, 590, 591, 618, renumbered §207(d)(7), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 97–448, title I, §§106(a)(4)(C), 107(c)(1), title II, §201(j)(3), Jan. 12, 1983, 96 Stat. 2390, 2391, 2396; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §411, July 18, 1984, 98 Stat. 788; Pub. L. 99–514, title XIV, §1404(a), title XV, §§1511(c)(14), 1541(a), (b), title XVIII, §1841, Oct. 22, 1986, 100 Stat. 2713, 2745, 2751, 2852; Pub. L. 100–418, title I, §1941(b)(6)(A), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1014(d)(1), (2), title IV, §4005(g)(5), Nov. 10, 1988, 102 Stat. 3560, 3651; Pub. L. 101–239, title VII, §7811(j)(5), (6), Dec. 19, 1989, 103 Stat. 2411, 2412; Pub. L. 102–164, title IV, §403(a), (b), Nov. 15, 1991, 105 Stat. 1062, 1064; Pub. L. 103–66, title XIII, §13214(a), (b), Aug. 10, 1993, 107 Stat. 475; Pub. L. 103–465, title VII, §711(b), Dec. 8, 1994, 108 Stat. 4998; Pub. L. 105–34, title X, §1091(a), title XII, §1202(a), Aug. 5, 1997, 111 Stat. 962, 994; Pub. L. 105–277, div. J, title II, §2003(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §531(a), Dec. 17, 1999, 113 Stat. 1928.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 823; Pub. L. 87–682, §1(a)(4), Sept. 25, 1962, 76 Stat. 575; Pub. L. 89–368, title I, §§102(b)(1)–(3), 103(a), Mar. 15, 1966, 80 Stat. 62–64; Pub. L. 91–172, title III, §301(b)(13), Dec. 30, 1969, 83 Stat. 586; Pub. L. 92–5, title II, §203(b)(7), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §203(b)(7), July 1, 1972, 86 Stat. 420; Pub. L. 93–66, title II, §203(b)(7), (d), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(b)(7), (d), Dec. 31, 1973, 87 Stat. 954; Pub. L. 93–625, §7(c), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(a)(35), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834; Pub. L. 95–30, title I, §102(b)(16), May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title IV, §421(e)(9), Nov. 6, 1978, 92 Stat. 2877; Pub. L. 97–34, title VI, §601(a)(6)(A), title VII, §725(b), (c)(5), Aug. 13, 1981, 95 Stat. 336, 346; Pub. L. 97–248, title II, §207(d)(7), formerly §207(c)(7), title III, §§307(a)(14), 308(a), 328(a), Sept. 3, 1982, 96 Stat. 420, 590, 591, 618, renumbered §207(d)(7), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 97–448, title I, §§106(a)(4)(C), 107(c)(1), title II, §201(j)(3), Jan. 12, 1983, 96 Stat. 2390, 2391, 2396; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §411, July 18, 1984, 98 Stat. 788; Pub. L. 99–514, title XIV, §1404(a), title XV, §§1511(c)(14), 1541(a), (b), title XVIII, §1841, Oct. 22, 1986, 100 Stat. 2713, 2745, 2751, 2852; Pub. L. 100–418, title I, §1941(b)(6)(A), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1014(d)(1), (2), title IV, §4005(g)(5), Nov. 10, 1988, 102 Stat. 3560, 3651; Pub. L. 101–239, title VII, §7811(j)(5), (6), Dec. 19, 1989, 103 Stat. 2411, 2412; Pub. L. 102–164, title IV, §403(a), (b), Nov. 15, 1991, 105 Stat. 1062, 1064; Pub. L. 103–66, title XIII, §13214(a), (b), Aug. 10, 1993, 107 Stat. 475; Pub. L. 103–465, title VII, §711(b), Dec. 8, 1994, 108 Stat. 4998; Pub. L. 105–34, title X, §1091(a), title XII, §1202(a), Aug. 5, 1997, 111 Stat. 962, 994; Pub. L. 105–277, div. J, title II, §2003(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §531(a), Dec. 17, 1999, 113 Stat. 1928; Pub. L. 111–5, div. B, title I, §1212, Feb. 17, 2009, 123 Stat. 336.)
 
 #### Amendments
+
+2009—Subsec. (d)(1)(D). Pub. L. 111–5 added subpar. (D).
 
 1999—Subsec. (d)(1)(C)(i). Pub. L. 106–170 in table substituted items assigning applicable percentages of 108.6 for 1999 and 110 for 2000 for item assigning applicable percentage of 106 for 1999 or 2000.
 
@@ -419,7 +449,7 @@ Subsec. (f)(3). Pub. L. 100–418 amended par. (3) generally. Prior to amendment
 
 &emsp;“(B) to the extent allowed under regulations prescribed by the Secretary, any overpayment of the tax imposed by section 4986 (determined without regard to section 4995(a)(4)(B)).”
 
-Subsec. (<i>l</i>). Pub. L. 100–647, §1014(d)(2), substituted “Estates and trusts” for “Trusts and certain estates” in heading and amended text generally. Prior to amendment, text read as follows: “This section shall apply to—
+Subsec. (<i>l</i>). Pub. L. 100–647, §1014(d)(2), substituted “Estates and trusts” for “Trusts and certain estates”in heading and amended text generally. Prior to amendment, text read as follows: “This section shall apply to—
 
 &emsp;“(1) any trust, and
 
@@ -503,7 +533,7 @@ Subsec. (h). Pub. L. 94–455, §1906(a)(35), struck out subsec. (h) which provi
 
 1973—Subsec. (d)(2)(B)(ii). Pub. L. 93–233, §5(b)(7), effective with respect to taxable years beginning after 1973, substituted “$13,200” for “$12,600”.
 
-Pub. L. 93–233, §5(d), applicable only with respect to remuneration paid after, and taxable years beginning after, 1973 (as provided in section 5(e) of Pub. L. 93–233,set out as an Effective Date of 1973 Amendments note under section 409 of Title 42, The Public Health and Welfare), amended section 203(b)(7)(C) of Pub. L. 92–336 (set out as 1973 Amendment note below), substituting “$13,200” for “$12,600”. See, also, 1973 Amendment note below.
+Pub. L. 93–233, §5(d), applicable only with respect to remuneration paid after, and taxable years beginning after, 1973 (as provided in section 5(e) of Pub. L. 93–233, set out as an Effective Date of 1973 Amendments note under section 409 of Title 42, The Public Health and Welfare), amended section 203(b)(7)(C) of Pub. L. 92–336 (set out as 1973 Amendment note below), substituting “$13,200” for “$12,600”. See, also, 1973 Amendment note below.
 
 Pub. L. 93–66, §203(b)(7), effective with respect to taxable years beginning after 1973, substituted “$12,600” for “$12,000”.
 
@@ -667,11 +697,11 @@ Section 1(d) of Pub. L. 105–34 provided that: “No addition to tax shall be m
 
 #### Underpayments of Estimated Tax for 1996
 
-Pub. L. 104–188, title I, §1102, Aug. 20, 1996, 110 Stat. 1758, provided that: “No addition to the tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1986 (relating to failure to pay estimated tax) with respect to any underpayment of an installment required to be paid before the date of the enactment of this Act \[Aug. 20, 1996\] to the extent such underpayment was created or increased by any provision of this title \[title I (§§1101–1954) of Pub. L. 104–188, see Tables for classification\].”
+Pub. L. 104–188, title I, §1102, Aug. 20, 1996, 110 Stat. 1758, provided that: “No addition to the tax shall bemade under section 6654 or 6655 of the Internal Revenue Code of 1986 (relating to failure to pay estimated tax) with respect to any underpayment of an installment required to be paid before the date of the enactment of this Act \[Aug. 20, 1996\] to the extent such underpayment was created or increased by any provision of this title \[title I (§§1101–1954) of Pub. L. 104–188, see Tables for classification\].”
 
 #### Waiver of Estimated Penalties for 1993 Underpayments Attributable to Revenue Reconciliation Act of 1993
 
-Section 13001(d) of Pub. L. 103–66 provided that: “No addition to tax shall be made under section 6654 or 6655of the Internal Revenue Code of 1986 for any period before April 16, 1994 (March 16, 1994, in the case of a corporation), with respect to any underpayment to the extent such underpayment was created or increased by any provision of this chapter \[chapter 1 (§§13001–13444) of title XIII of Pub. L. 103–66, see Tables for classification\].”
+Section 13001(d) of Pub. L. 103–66 provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1986 for any period before April 16, 1994 (March 16, 1994, in the case of a corporation), with respect to any underpayment to the extent such underpayment was created or increased by any provision of this chapter \[chapter 1 (§§13001–13444) of title XIII of Pub. L. 103–66, see Tables for classification\].”
 
 #### Waiver of Estimated Tax Penalties for Underpayments Attributable to Section 420(b)(4)(B) of This Title
 
@@ -711,5 +741,5 @@ With respect to taxable years beginning before Dec. 30, 1969, if a taxpayer is r
 
 #### Tax Surcharge Extension; Declarations of Estimated Tax
 
-Requirement of making a declaration or amended declaration or amended declaration of estimated tax or of payment of any amount or additional amount of estimated tax by reason of amendment of sections 51(a)(1)(A), (B), (2)(A) and 963(b) of this title as calling for payment of such amount or additional amount ratably on or before each of remaining installment dates for taxable year beginning with first installment date on or after the 30th day after Aug. 7, 1969; application of this section without regard to such amendment with respect to any declaration or payment of estimated tax before such first installment date; and definition of “installment date”, see Pub. L. 91–53, §5(c), Aug. 7, 1969, 83 Stat. 95.
+Requirement of making a declaration or amended declaration or amended declaration of estimated tax or of payment of any amount or additional amount of estimated tax by reason of amendment of sections 51(a)(1)(A), (B), (2)(A) and 963(b) of this title as calling for payment of such amount or additional amount ratably on or before each of remaining installment dates for taxable year beginning with first installment date on or after the 30th day after Aug. 7, 1969; application of this section without regard to such amendment with respect to any declaration or payment of estimated taxbefore such first installment date; and definition of “installment date”, see Pub. L. 91–53, §5(c), Aug. 7, 1969, 83 Stat. 95.
 

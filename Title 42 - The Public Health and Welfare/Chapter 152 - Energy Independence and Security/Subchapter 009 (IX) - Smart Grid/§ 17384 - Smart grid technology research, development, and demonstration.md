@@ -46,7 +46,7 @@ The Secretary, in consultation with the Federal Energy Regulatory Commission and
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out the initiative,<sup>2</sup> the Secretary shall carry out smart grid demonstration projects in up to 5 electricity control areas, including rural areas and at least 1 area in which the majority of generation andtransmission assets are controlled by a tax-exempt entity.
+&emsp;&emsp;In carrying out the initiative,<sup>2</sup> the Secretary shall provide financial support to smart grid demonstration projects in urban, suburban, tribal, and rural areas, including areas where electric system assets are controlled by nonprofit entities and areas where electric system assets are controlled by investor-owned utilities.
 
 #### (B) Cooperation
 
@@ -54,11 +54,19 @@ The Secretary, in consultation with the Federal Energy Regulatory Commission and
 
 #### (C) Federal share of cost of technology investments
 
-&emsp;&emsp;The Secretary shall provide to an electric utility described in subparagraph (B) financial assistance for use in paying an amount equal to not more than 50 percent of the cost of qualifying advanced grid technology investments made by the electric utility to carry out a demonstration project.
+&emsp;&emsp;The Secretary shall provide to an electric utility described in subparagraph (B) or to other parties financial assistance for use in paying an amount equal to not more than 50 percent of the cost of qualifying advanced grid technology investments made by the electric utility or other party to carry out a demonstration project.
 
 #### (D) Ineligibility for grants
 
 &emsp;&emsp;No person or entity participating in any demonstration project conducted under this subsection shall be eligible for grants under section 17386 of this title for otherwise qualifying investments made as part of that demonstration project.
+
+#### (E) Availability of data
+
+&emsp;&emsp;The Secretary shall establish and maintain a smart grid information clearinghouse in a timely manner which will make data from smart grid demonstration projects and other sources available to the public. As a condition of receiving financial assistance under this subsection, a utility or other participant in a smart grid demonstration project shall provide such information as the Secretary may require to become available through the smart grid information clearinghouse in the form and within the timeframes as directed by the Secretary. The Secretary shall assure that business proprietary information and individual customer information is not included in the information made available through the clearinghouse.
+
+#### (F) Open protocols and standards
+
+&emsp;&emsp;The Secretary shall require as a condition of receiving funding under this subsection that demonstration projects utilize open protocols and standards (including Internet-based protocols and standards) if available and appropriate.
 
 #### (c) Authorization of appropriations
 
@@ -66,9 +74,19 @@ There are authorized to be appropriated—
 
 &emsp;(1) to carry out subsection (a), such sums as are necessary for each of fiscal years 2008 through 2012; and
 
-&emsp;(2) to carry out subsection (b), $100,000,000 for each of fiscal years 2008 through 2012.
+&emsp;(2) to carry out subsection (b), such sums as may be necessary.
 
-(Pub. L. 110–140, title XIII, §1304, Dec. 19, 2007, 121 Stat. 1786.)
+(Pub. L. 110–140, title XIII, §1304, Dec. 19, 2007, 121 Stat. 1786; Pub. L. 111–5, div. A, title IV, §405(1)–(4), Feb. 17, 2009, 123 Stat. 143, 144.)
+
+#### Amendments
+
+2009—Subsec. (b)(3)(A). Pub. L. 111–5, §405(1), amended subpar. (A) generally. Prior to amendment, text read as follows: “In carrying out the initiative, the Secretary shall carry out smart grid demonstration projects in up to 5 electricity control areas, including rural areas and at least 1 area in which the majority of generation and transmission assets are controlled by a tax-exempt entity.”
+
+Subsec. (b)(3)(C). Pub. L. 111–5, §405(2), amended subpar. (C) generally. Prior to amendment, text read as follows: “The Secretary shall provide to an electric utility described in subparagraph (B) financial assistance for use in paying an amount equal to not more than 50 percent of the cost of qualifying advanced grid technology investments made by the electric utility to carry out a demonstration project.”
+
+Subsec. (b)(3)(E), (F). Pub. L. 111–5, §405(3), added subpars. (E) and (F).
+
+Subsec. (c)(2). Pub. L. 111–5, §405(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to carry out subsection (b), $100,000,000 for each of fiscal years 2008 through 2012.”
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

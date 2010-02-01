@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any party aggrieved by the decision of a hearing officer under section 1405(g) of this title may file a petition for review by the Board not later than 30 days after entry of the decision in the records of the Office.
+Any party aggrieved by the decision of a hearing officer under section 1405(g) of this title mayfile a petition for review by the Board not later than 30 days after entry of the decision in the records of the Office.
 
 #### (b) Parties’ opportunity to submit argument
 
@@ -24,7 +24,7 @@ In making determinations under subsection (c) of this section, the Board shall r
 
 #### (e) Decision
 
-The Board shall issue a written decision setting forth the reasons for its decision. The decision may affirm, reverse, or remand to the hearing officer for further proceedings. A decisionthat does not require further proceedings before a hearing officer shall be entered in the records of the Office as a final decision.
+The Board shall issue a written decision setting forth the reasons for its decision. The decision may affirm, reverse, or remand to the hearing officer for further proceedings. A decision that does not require further proceedings before a hearing officer shall be entered in the records of the Office as a final decision.
 
 (Pub. L. 104–1, title IV, §406, Jan. 23, 1995, 109 Stat. 35.)
 

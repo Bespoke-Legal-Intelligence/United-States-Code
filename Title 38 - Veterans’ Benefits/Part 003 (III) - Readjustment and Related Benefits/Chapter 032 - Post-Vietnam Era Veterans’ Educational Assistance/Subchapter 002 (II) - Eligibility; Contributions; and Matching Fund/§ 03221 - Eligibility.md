@@ -54,5 +54,5 @@ Section 408 of Pub. L. 94–502 provided that:
 
 > The recommendation referred to in paragraph (1)(A) shall be delivered to both Houses of Congress on the same day and shall be delivered to the Clerk of the House of Representatives if the House is not in session and to the Secretary of the Senate if the Senate is not in session.
 
-“(b) If new enrollments after December 31, 1981, in the educational assistance program provided for in such chapter 32 are authorized after the application of the provisions of subsection (a), then effective January 1,1982, section 1622(b) \[now 3222(b)\] of title 38, United States Code, is amended by striking out ‘Veterans’ Administration’ and inserting in lieu thereof ‘Department of Defense’.”
+“(b) If new enrollments after December 31, 1981, in the educational assistance program provided for in such chapter 32 are authorized after the application of the provisions of subsection (a), then effective January 1, 1982, section 1622(b) \[now 3222(b)\] of title 38, United States Code, is amended by striking out ‘Veterans’ Administration’ and inserting in lieu thereof ‘Department of Defense’.”
 

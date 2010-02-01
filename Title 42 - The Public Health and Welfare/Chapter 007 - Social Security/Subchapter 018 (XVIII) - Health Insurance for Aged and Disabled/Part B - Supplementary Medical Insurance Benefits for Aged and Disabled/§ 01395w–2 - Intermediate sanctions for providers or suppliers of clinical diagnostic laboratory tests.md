@@ -38,7 +38,7 @@ Subsec. (a). Pub. L. 100–360, §411(g)(3)(G)(i)(I), as amended by Pub. L. 100�
 
 Pub. L. 100–360, §411(g)(3)(G)(i)(II), inserted “or for coverage” after “conditions of participation”.
 
-Pub. L. 100–360, §411(g)(3)(G)(i)(III), which directed amendment of subsec. (a) by substituting “terminating immediately the provider agreement or cancelling immediately approval of the clinical laboratory” for “cancelling immediately the certification of the provider or clinical laboratory”, was executed by making the substitution for “canceling immediately the certification of the provider or clinical laboratory” to reflect the probable intent of Congress.
+Pub. L. 100–360, §411(g)(3)(G)(i)(III), which directed amendment of subsec. (a) by substituting “terminatingimmediately the provider agreement or cancelling immediately approval of the clinical laboratory” for “cancelling immediately the certification of the provider or clinical laboratory”, was executed by making the substitution for “canceling immediately the certification of the provider or clinical laboratory” to reflect the probable intent of Congress.
 
 Pub. L. 100–360, §203(e)(4)(B), inserted “or that a qualified home intravenous drug therapy provider that is certified for participation under this subchapter no longer substantially meets the requirements of section 1395x(jj)(3) of this title” after “under this part”.
 
@@ -46,7 +46,7 @@ Subsec. (b)(1)(A). Pub. L. 100–360, §411(g)(3)(G)(ii), struck out “certifie
 
 Subsec. (b)(2)(A). Pub. L. 100–360, §411(g)(3)(G)(iv), inserted at end “The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under clause (ii) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.”
 
-Subsec. (b)(2)(A)(ii). Pub. L. 100–360, §411(g)(3)(G)(iii), substituted “civil money penalties in an amount not toexceed $10,000 for each day of substantial noncompliance” for “civil fines and penalties”.
+Subsec. (b)(2)(A)(ii). Pub. L. 100–360, §411(g)(3)(G)(iii), substituted “civil money penalties in an amount not to exceed $10,000 for each day of substantial noncompliance” for “civil fines and penalties”.
 
 Subsec. (b)(2)(A)(iii). Pub. L. 100–360, §411(g)(3)(G)(v), struck out “certification” before “surveys”.
 

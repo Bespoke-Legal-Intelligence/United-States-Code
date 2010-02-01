@@ -12,7 +12,7 @@ Merchandise introduced into the United States in violation of this section, or t
 
 The term “United States”, as used in this section, shall not include the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or Guam.
 
-(June 25, 1948, ch. 645, 62 Stat. 716; Aug. 24, 1954, ch. 890, §1, 68 Stat. 782; Sept. 1, 1954, ch. 1213, title V, §507, 68 Stat. 1141; June 30, 1955, ch. 258, §2(c), 69 Stat. 242; Pub. L. 103–322, title XXXII, §320903(c), title XXXIII, §§330004(18), 330016(1)(L), Sept. 13, 1994, 108 Stat. 2125, 2142, 2147; Pub. L. 104–294, title VI, §604(b)(23), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 109–177, title III, §310, Mar. 9, 2006, 120 Stat. 242.)
+(June 25, 1948, ch. 645, 62 Stat. 716; Aug. 24, 1954, ch. 890, §1, 68 Stat. 782; Sept. 1, 1954, ch. 1213, title V, §507, 68 Stat. 1141; June 30, 1955, ch. 258, §2(c), 69 Stat. 242; Pub. L. 103–322, title XXXII,§320903(c), title XXXIII, §§330004(18), 330016(1)(L), Sept. 13, 1994, 108 Stat. 2125, 2142, 2147; Pub. L. 104–294, title VI, §604(b)(23), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 109–177, title III, §310, Mar. 9, 2006, 120 Stat. 242.)
 
 #### Historical and Revision Notes
 

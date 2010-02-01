@@ -6,7 +6,7 @@ To facilitate market transparency, the Secretary shall make available to the pub
 
 #### (b) Disclosure
 
-For each type of financial institutions <sup>1</sup> that sells troubled assets to the Secretary under this chapter, the Secretary shall determine whether the public disclosure required for such financial institutions with respect to off-balance sheet transactions, derivatives instruments, contingent liabilities, and similar sources of potential exposure is adequate to provide to the public sufficient information as to the true financial position of the institutions. If such disclosure is not adequate for that purpose, the Secretary shall make recommendations for additional disclosure requirements to the relevant regulators.
+For each type of financial institutions <sup>1</sup> that sells troubled assets to the Secretary under this chapter, the Secretary shall determine whetherthe public disclosure required for such financial institutions with respect to off-balance sheet transactions, derivatives instruments, contingent liabilities, and similar sources of potential exposure is adequate to provide to the public sufficient information as to the true financial position of the institutions. If such disclosure is not adequate for that purpose, the Secretary shall make recommendations for additional disclosure requirements to the relevant regulators.
 
 (Pub. L. 110–343, div. A, title I, §114, Oct. 3, 2008, 122 Stat. 3780.)
 

@@ -12,7 +12,7 @@ The Small State and Rural Advocate shall be an advocate for the fair treatment o
 
 The Small State and Rural Advocate shall—
 
-&emsp;(1) participate in the disaster declaration process under section 5170 of this title and theemergency declaration process under section 5191 of this title, to ensure that the needs of rural communities are being addressed;
+&emsp;(1) participate in the disaster declaration process under section 5170 of this title and the emergency declaration process under section 5191 of this title, to ensure that the needs of rural communities are being addressed;
 
 &emsp;(2) assist small population States in the preparation of requests for major disaster or emergency declarations; and
 
@@ -26,7 +26,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Change of Name
 
-“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (c)(3) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the FederalEmergency Management Agency” in subsec. (c)(3) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Construction
 

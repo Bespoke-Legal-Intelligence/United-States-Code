@@ -8,7 +8,7 @@ Not later than 1 year after August 3, 2007, the Secretary of Transportation, in 
 
 &emsp;(2) assess and characterize existing and proposed routes for the transportation of radioactive and nonradioactive hazardous materials by motor carrier for the purpose of identifying measurable criteria for selecting routes based on safety and security concerns;
 
-&emsp;(3) analyze current route-related hazardous materials regulations in the United States,Canada, and Mexico to identify cross-border differences and conflicting regulations;
+&emsp;(3) analyze current route-related hazardous materials regulations in the United States, Canada, and Mexico to identify cross-border differences and conflicting regulations;
 
 &emsp;(4) document the safety and security concerns of the public, motor carriers, and State, local, territorial, and tribal governments about the highway routing of hazardous materials;
 
@@ -34,7 +34,7 @@ Not later than 1 year after August 3, 2007, the Secretary of Transportation, in 
 
 #### (c) Requirement
 
-The Secretary shall require motor carriers that have a hazardous material safety permit under part 385 of title 49, Code of Federal Regulations, to maintain, follow, and carry a route plan, in written or electronic format, that meets the requirements of section 397.101 of that title when transporting the type and quantity of hazardous materials described in section 385.403 if the Secretary determines, under the assessment required in subsection (b), that such a requirement would enhance security and safety without imposing unreasonable costs or burdens upon motor carriers.
+The Secretary shall require motor carriers that have a hazardous material safety permitunder part 385 of title 49, Code of Federal Regulations, to maintain, follow, and carry a route plan, in written or electronic format, that meets the requirements of section 397.101 of that title when transporting the type and quantity of hazardous materials described in section 385.403 if the Secretary determines, under the assessment required in subsection (b), that such a requirement would enhance security and safety without imposing unreasonable costs or burdens upon motor carriers.
 
 (Pub. L. 110–53, title XV, §1553, Aug. 3, 2007, 121 Stat. 472.)
 

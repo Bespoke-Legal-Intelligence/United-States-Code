@@ -2,7 +2,7 @@
 
 The Congress finds the following:
 
-&emsp;(1) The deployment and adoption of broadband technology has resulted in enhanced economic development and public safety for communities across the Nation, improved healthcare and educational opportunities, and a better quality of life for all Americans.
+&emsp;(1) The deployment and adoption of broadband technology has resulted in enhanced economic development and public safety for communities across the Nation, improved health care and educational opportunities, and a better quality of life for all Americans.
 
 &emsp;(2) Continued progress in the deployment and adoption of broadband technology is vital to ensuring that our Nation remains competitive and continues to create business and job growth.
 

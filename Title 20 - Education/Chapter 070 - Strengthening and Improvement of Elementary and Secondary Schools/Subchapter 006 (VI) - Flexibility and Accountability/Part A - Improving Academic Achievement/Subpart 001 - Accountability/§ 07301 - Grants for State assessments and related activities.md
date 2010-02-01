@@ -12,7 +12,7 @@ The Secretary shall make grants to States to enable the States—
 
 &emsp;&emsp;(C) Ensuring the continued validity and reliability of State assessments.
 
-&emsp;&emsp;(D) Refining State assessments to ensure their continued alignment with the State's academic content standards and to improve the alignment of curricula and instructional materials.
+&emsp;&emsp;(D) Refining State assessments to ensure their continued alignment with the State'sacademic content standards and to improve the alignment of curricula and instructional materials.
 
 &emsp;&emsp;(E) Developing multiple measures to increase the reliability and validity of State assessment systems.
 

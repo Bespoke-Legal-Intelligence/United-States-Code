@@ -20,7 +20,7 @@ It shall be unlawful for any person or entity involved or engaged in interstate 
 
 &emsp;(1) solicit or knowingly acquire, receive, or accept a donation of human fetal tissue knowing that a human pregnancy was deliberately initiated to provide such tissue; or
 
-&emsp;(2) knowingly acquire, receive, or accept tissue or cells obtained from a human embryo orfetus that was gestated in the uterus of a nonhuman animal.
+&emsp;(2) knowingly acquire, receive, or accept tissue or cells obtained from a human embryo or fetus that was gestated in the uterus of a nonhuman animal.
 
 #### (d) Criminal penalties for violations
 

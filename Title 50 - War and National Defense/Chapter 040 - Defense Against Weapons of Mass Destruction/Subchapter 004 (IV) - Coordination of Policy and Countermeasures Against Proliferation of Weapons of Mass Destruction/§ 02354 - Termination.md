@@ -10,5 +10,5 @@ After September 30, 1999, the President—
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–261 made technical amendments to references in original act which appear in par. (1) as reference to section 2351 of this title and in par. (2) as reference to section 2352 of this title.
+1998—Pub. L. 105–261 made technical amendments to references in original act which appear in par. (1) as reference to section 2351 of this title and in par. (2) as reference to section 2352 of this title.
 

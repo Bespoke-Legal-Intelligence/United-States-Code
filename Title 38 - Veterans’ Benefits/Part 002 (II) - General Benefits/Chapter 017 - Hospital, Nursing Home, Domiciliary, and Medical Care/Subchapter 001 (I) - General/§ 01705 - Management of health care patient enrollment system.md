@@ -8,7 +8,7 @@
 
 &emsp;(3) Veterans who are former prisoners of war or who were awarded the Purple Heart, veterans with service-connected disabilities rated 10 percent or 20 percent, and veterans described in subparagraphs (B) and (C) of section 1710(a)(2) of this title.
 
-&emsp;(4) Veterans who are in receipt of increased pension based on a need of regular aid and attendance or by reason of being permanentlyhousebound and other veterans who are catastrophically disabled.
+&emsp;(4) Veterans who are in receipt of increased pension based on a need of regular aid and attendance or by reason of being permanently housebound and other veterans who are catastrophically disabled.
 
 &emsp;(5) Veterans not covered by paragraphs (1) through (4) who are unable to defray the expenses of necessary care as determined under section 1722(a) of this title.
 
@@ -84,5 +84,5 @@ Matters To Be Included.—The report under subsection (b) shall include detailed
 
 &emsp;“(5) The numbers and characteristics of, and the type and extent of health care furnished to, veterans not enrolled for care (shown separately by reference to each class of eligibility, both in total and separately by facility).
 
-&emsp;“(6) The specific fiscal impact (shown in total and by geographic health-care delivery areas) of changesin delivery patterns instituted under the amendments made by this title \[enacting this section and section 1706 of this title and amending sections 1525, 1701, 1703, 1710, 1712, 1712A, 1717, 1718, 1720, 1722, 1729, 2104, 5317, 8110, and 8111A of this title\].”
+&emsp;“(6) The specific fiscal impact (shown in total and by geographic health-care delivery areas) of changes in delivery patterns instituted under the amendments made by this title \[enacting this section and section 1706 of this title and amending sections 1525, 1701, 1703, 1710, 1712, 1712A, 1717, 1718, 1720, 1722, 1729, 2104, 5317, 8110, and 8111A of this title\].”
 

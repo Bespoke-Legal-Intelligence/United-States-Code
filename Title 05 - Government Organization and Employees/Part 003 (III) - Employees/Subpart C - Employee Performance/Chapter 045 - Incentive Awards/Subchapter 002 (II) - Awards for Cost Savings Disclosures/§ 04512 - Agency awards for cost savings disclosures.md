@@ -8,7 +8,7 @@
 
 > For purposes of paragraph (2), the Inspector General or other designated employee may take into account agency cost savings projected for subsequent fiscal years which will be attributable to such disclosure.
 
-(b) In the case of an agency for which there is no Inspector General, the head of the agency shall designate an agency employee who shall have the authority to make the determinations and grant the awards permitted under this section.
+(b) In the case of an agency for which there is no Inspector General, the head of the agency shall designate an agency employee who shallhave the authority to make the determinations and grant the awards permitted under this section.
 
 (Added Pub. L. 97–35, title XVII, §1703(a), Aug. 13, 1981, 95 Stat. 755; amended Pub. L. 99–145, title XII, §1225(b)(2), Nov. 8, 1985, 99 Stat. 730.)
 

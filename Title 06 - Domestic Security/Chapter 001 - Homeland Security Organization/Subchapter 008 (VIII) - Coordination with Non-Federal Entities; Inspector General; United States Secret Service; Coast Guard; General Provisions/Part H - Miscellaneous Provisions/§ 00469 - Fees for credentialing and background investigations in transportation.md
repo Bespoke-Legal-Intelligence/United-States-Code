@@ -10,7 +10,7 @@ For fiscal year 2004 and thereafter, the Secretary of Homeland Security shall ch
 
 &emsp;(3) a fee may not be collected except to the extent such fee will be expended to pay for the costs of conducting or obtaining a criminal history record check and a review of available law enforcement databases and commercial databases and records of other governmental and international agencies; reviewing and adjudicating requests for waiver and appeals of agency decisions with respect to providing the credential, performing the background record check, and denying requests for waiver and appeals; and any other costs related to providing the credential or performing the background record check; and
 
-&emsp;(4) any fee collected shall be available for expenditure only to pay the costs incurred in providing services in connection with the activity or item for which the fee is charged and shall remain available until expended.
+&emsp;(4) any fee collected shall be available for expenditure only to pay the costs incurred inproviding services in connection with the activity or item for which the fee is charged and shall remain available until expended.
 
 #### (b) Recurrent training of aliens in operation of aircraft
 

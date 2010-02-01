@@ -72,6 +72,8 @@ Section 3 of Pub. L. 103–172 provided that: “This Act \[enacting this sectio
 
 #### Transit Subsidy for Department of Labor Employees of National Capital Region
 
+Pub. L. 111–8, div. F, title I, §104, Mar. 11, 2009, 123 Stat. 761, provided that: “After September 30, 2008, the Secretary of Labor shall issue a monthly transit subsidy of not less than the full amount (of not less than $115) that each of its employees of the National Capital Region is eligible to receive.”
+
 Pub. L. 110–161, div. G, title I, §104, Dec. 26, 2007, 121 Stat. 2167, provided that: “After September 30, 2007, the Secretary of Labor shall issue a monthly transit subsidy of not less than the full amount (of not less than $110) that each of its employees of the National Capital Region is eligible to receive.”
 
 #### Transit Pass Transportation Fringe Benefits
@@ -116,7 +118,7 @@ Pub. L. 107–68, title I, §112, Nov. 12, 2001, 115 Stat. 569, authorized an em
 
 #### Transit Subsidies; Appropriations
 
-Pub. L. 105–277, div. A, §101(f) \[title II, §210\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, provided that: “Fundsappropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, for the National Institutes of Health may be used to provide transit subsidies in amounts consistent with the transportation subsidy programs authorized under section 629 of Public Law 101–509 \[see note preceding section 7901 of this title\] to non-FTE bearing positions including trainees, visiting fellows and volunteers.”
+Pub. L. 105–277, div. A, §101(f) \[title II, §210\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, provided that: “Funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, for the National Institutes of Health may be used to provide transit subsidies in amounts consistent with the transportation subsidy programs authorized under section 629 of Public Law 101–509 \[see note preceding section 7901 of this title\] to non-FTE bearing positions including trainees, visiting fellows and volunteers.”
 
 Similar provisions were contained in the following prior appropriations act:
 
@@ -136,7 +138,7 @@ Section 1. <i>Mass Transportation and Vanpool Transportation Fringe Benefit Prog
 
 (b) Federal agencies are encouraged to use any nonmonetary incentive that the agencies may otherwise offer under any other provision of law or other authority to encourage mass transportation and vanpool use, as provided for in section 7905(b)(2)(C) of title 5, United States Code.
 
-Sec. 2. <i>Federal Agencies in the National Capital Region</i>. Federal agencies in the National Capital Region shall implement a “transit pass” transportation fringe benefit program for their qualified Federal employees by no later than October 1, 2000. Under this program, agencies shall provide their qualified Federal employees, in addition to current compensation, transit passes as defined in section 132(f)(5) of title 26, United States Code, in amounts approximately equal to employee commuting costs, not to exceed the maximum level allowed by law (26 U.S.C. 132(f)(2)). The National Capital Region is defined as the District of Columbia; Montgomery, Prince George's, and Frederick Counties in Maryland; Arlington, Fairfax, Loudon, and Prince William Counties in Virginia; and all cities now or hereafter existing in Maryland or Virginia within the geographic area bounded by the outer boundaries of the combined area of said counties.
+Sec. 2. <i>Federal Agencies in the National Capital Region</i>. Federal agencies in the National Capital Region shallimplement a “transit pass” transportation fringe benefit program for their qualified Federal employees by no later than October 1, 2000. Under this program, agencies shall provide their qualified Federal employees, in addition to current compensation, transit passes as defined in section 132(f)(5) of title 26, United States Code, in amounts approximately equal to employee commuting costs, not to exceed the maximum level allowed by law (26 U.S.C. 132(f)(2)). The National Capital Region is defined as the District of Columbia; Montgomery, Prince George's, and Frederick Counties in Maryland; Arlington, Fairfax, Loudon, and Prince William Counties in Virginia; and all cities now or hereafter existing in Maryland or Virginia within the geographic area bounded by the outer boundaries of the combined area of said counties.
 
 Sec. 3. <i>Nationwide Pilot Program</i>. The Department of Transportation, the Environmental Protection Agency, and the Department of Energy shall implement a “transit pass” transportation fringe benefit program, as described in section 2 of this order, for all of their qualified Federal employees as a 3 year pilot program by no later than October 1, 2000. Before determining whether the program should be extended to other Federal employees nationwide, it shall be analyzed by an entity determined by the agencies identified in section 4 of this order to ascertain, among other things, if it is effective in reducing single occupancy vehicle travel and local area traffic congestion.
 

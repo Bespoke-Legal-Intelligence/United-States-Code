@@ -6,7 +6,7 @@
 
 &emsp;(2) require the party claiming the mail to furnish proof to it of the claimant's identity and right to receive the mail.
 
-(b) The Postal Service may issue an order directing that mail, covered by subsection (a) of this section, be forwarded to a dead letter office as fictitious matter, or be returned to the sender when—
+(b) The Postal Service may issue an order directing that mail, covered by subsection (a) ofthis section, be forwarded to a dead letter office as fictitious matter, or be returned to the sender when—
 
 &emsp;(1) the party claiming the mail fails to furnish proof of his identity and right to receive the mail; or
 

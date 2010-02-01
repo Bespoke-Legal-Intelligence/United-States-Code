@@ -226,7 +226,7 @@ Subsec. (f)(2), (3). Pub. L. 105–244, §304(b)(4)(C), added pars. (2) and (3) 
 
 Subsec. (g). Pub. L. 105–244, §304(b)(5), added subsec. (g).
 
-1996—Subsec. (b). Pub. L. 104–141 struck out at end “No more than two 5-year grants (for a period of not more than 10 years) may be made to any one undergraduate or postgraduate institution.”
+1996—Subsec. (b). Pub. L. 104–141 struck out at end “No more than two 5-year grants (for a period of notmore than 10 years) may be made to any one undergraduate or postgraduate institution.”
 
 1993—Subsec. (e)(2). Pub. L. 103–208 redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “has been accredited by a nationally recognized accrediting agency or association or has been approved by a nationally recognized approving agency; and”.
 

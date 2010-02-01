@@ -128,7 +128,7 @@
 
 &emsp;&emsp;(D) The results of programs, projects, and activities carried out under this section.
 
-&emsp;&emsp;(E) A description of priorities for promoting the diffusion and adoption of clean and efficient energy technologies and strategies in developing countries, taking into account economic and security interests of the United States and opportunities for the export of technology of the United States.
+&emsp;&emsp;(E) A description of priorities for promoting the diffusion and adoption of clean andefficient energy technologies and strategies in developing countries, taking into account economic and security interests of the United States and opportunities for the export of technology of the United States.
 
 &emsp;&emsp;(F) Recommendations to the heads of appropriate Federal departments and agencies on methods to streamline Federal programs and policies to improve the role of such Federal departments and agencies in the development, demonstration, and deployment of clean and efficient energy technologies on an international basis.
 

@@ -52,7 +52,7 @@ The basis of property shall be the cost of such property, except as otherwise pr
 
 #### <i>(1) In general</i>
 
-&emsp;<i>In the case of any stock acquired after December 31, 2010, in connection with a dividend rein</i><i>vestment plan, the basis of such stock while held as part of such plan shall be determined using one of the methods which may be used for determining the basis of stock in an open-end fund.</i>
+&emsp;<i>In the case of any stock acquired after December 31, 2010, in connection with a dividend reinvestment plan, the basis of such stock while held as part of such plan shall be determined using one of the methods which may be used for determining the basis of stock in an open-end fund.</i>
 
 #### <i>(2) Treatment after transfer</i>
 
@@ -84,5 +84,5 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 “(2)
 
-Extension of period for statements sent to customers.—The amendments made by subsection (a)(3) \[amending section 6045 of this title\] shall apply to statements required to be furnished after December 31, 2008.”
+Extension of period for statements sent to customers.—The amendments made by subsection\(a)(3) \[amending section 6045 of this title\] shall apply to statements required to be furnished after December 31, 2008.”
 

@@ -6,65 +6,131 @@
 
 #### (A) In general
 
-&emsp;&emsp;There are authorized to be appropriated to provide financial assistance under division B of subchapter I of this chapter, $45,000,000 for fiscal year 1994 and such sums as may be necessary for each of the fiscal years 1995 through 1996.
+&emsp;&emsp;There are authorized to be appropriated to provide financial assistance under division B of subchapter I—
 
-#### (B) Programs
+&emsp;&emsp;&emsp;(i) $97,000,000 for fiscal year 2010; and
 
-&emsp;&emsp;Of the amount appropriated under subparagraph (A) for a fiscal year—
+&emsp;&emsp;&emsp;(ii) such sums as may be necessary for each of fiscal years 2011 through 2014.
 
-&emsp;&emsp;&emsp;(i) not more than 63.75 percent shall be available to provide financial assistanceunder subpart A of part I of division B of subchapter I of this chapter;
+#### (B) Part IV reservation
 
-&emsp;&emsp;&emsp;(ii) not more than 11.25 percent shall be available to provide financial assistance under subpart B of part I of such division; and
+&emsp;&emsp;Of the amount appropriated under subparagraph (A) for a fiscal year, the Corporation may reserve such sums as may be necessary to carry out part IV of division B of subchapter I.
 
-&emsp;&emsp;&emsp;(iii) not more than 25 percent shall be available to provide financial assistance under part II of such division.
+#### (C) Section 12561a
 
-#### (2) Divisions C, D, and H
+&emsp;&emsp;Of the amount appropriated under subparagraph (A) and not reserved under subparagraph (B) for a fiscal year, not more than $7,000,000 shall be made available forawards to Campuses of Service under section 12561a of this title.
 
-#### (A) In general
+#### (D) Section 12563(c)(8)
 
-&emsp;&emsp;There are authorized to be appropriated to provide financial assistance under divisions C and H of subchapter I of this chapter, to provide national service educational awards under division D of subchapter I of this chapter, and to carry out such audits and evaluations as the Chief Executive Officer or the Inspector General of the Corporation may determine to be necessary, $300,000,000 for fiscal year 1994, $500,000,000 for fiscal year 1995, and $700,000,000 for fiscal year 1996.
+&emsp;&emsp;Of the amount appropriated under subparagraph (A) and not reserved under subparagraph (B) for a fiscal year, not more than $10,000,000 shall be made available for summer of service program grants under section 12563(c)(8) of this title, and not more than $10,000,000 shall be deposited in the National Service Trust to support summer of service educational awards, consistent with section 12563(c)(8) of this title.
 
-#### (B) Programs
+#### (E) Section 12563(c)(9)
 
-&emsp;&emsp;Of the amount appropriated under subparagraph (A) for a fiscal year, up to 15 percent shall be made available to provide financial assistance under section 12575 of this title, under subsections (b) and (c) of section 12576 of this title, and under division H of subchapter I of this chapter.
+&emsp;&emsp;Of the amount appropriated under subparagraph (A) and not reserved under subparagraph (B) for a fiscal year, not more than $20,000,000 shall be made available for youth engagement zone programs under section 12563(c)(9) of this title.
+
+#### (F) General programs
+
+&emsp;&emsp;Of the amount remaining after the application of subparagraphs (A) through (E) for a fiscal year—
+
+&emsp;&emsp;&emsp;(i) not more than 60 percent shall be available to provide financial assistance under part I of division B of subchapter I;
+
+&emsp;&emsp;&emsp;(ii) not more than 25 percent shall be available to provide financial assistance under part II of such division; and
+
+&emsp;&emsp;&emsp;(iii) not less than 15 percent shall be available to provide financial assistance under part III of such division.
+
+#### (2) Divisions C and D
+
+&emsp;There are authorized to be appropriated, for each of fiscal years 2010 through 2014, such sums as may be necessary to provide financial assistance under division C of subchapter I and to provide national service educational awards under division D of subchapter I for the number of participants described in section 12571(f)(1) of this title for each such fiscal year.
 
 #### (3) Division E
 
-&emsp;There are authorized to be appropriated to provide financial assistance under division E of subchapter I of this chapter, such sums as may be necessary for each of the fiscal years 1995 through 1996.
+#### (A) In general
 
-#### (4) Administration
+&emsp;&emsp;There are authorized to be appropriated to operate the National Civilian Community Corps and provide financial assistance under division E of subchapter I, such sums as may be necessary for each of fiscal years 2010 through 2014.
+
+#### (B) Priority
+
+&emsp;&emsp;Notwithstanding any other provision of this chapter, in obligating the amounts made available pursuant to the authorization of appropriations in this paragraph, priority shall be given to programs carrying out activities in areas for which the President has declared the existence of a major disaster, in accordance with section 5170 of this title, including a major disaster as a consequence of Hurricane Katrina or Rita.
+
+#### (4) Division H
+
+#### (A) Authorization
+
+&emsp;&emsp;There are authorized to be appropriated such sums as may be necessary for each of fiscal years 2010 through 2014 to provide financial assistance under division H of subchapter I.
+
+#### (B) Section 12653b
+
+&emsp;&emsp;Of the amount authorized under subparagraph (A) for a fiscal year, such sums as may be necessary shall be made available to provide financial assistance under section 12653b of this title and to provide national service educational awards under division D of subchapter I to the number of participants in national service positions established or increased as provided in section 12653b(b)(3) of this title for such year.
+
+#### (C) Section 12653c
+
+&emsp;&emsp;Of the amount authorized under subparagraph (A) for a fiscal year, $12,000,000 shall be made available to provide financial assistance under section 12653c of this title.
+
+#### (D) Section 12653h
+
+&emsp;&emsp;Of the amount authorized under subparagraph (A) for a fiscal year, such sums as may be necessary shall be made available to provide financial assistance under section 12653h of this title.
+
+#### (E) Section 12653k
+
+&emsp;&emsp;Of the amount authorized under subparagraph (A), there shall be made available to carry out section 12653k of this title—
+
+&emsp;&emsp;&emsp;(i) $50,000,000 for fiscal year 2010;
+
+&emsp;&emsp;&emsp;(ii) $60,000,000 for fiscal year 2011;
+
+&emsp;&emsp;&emsp;(iii) $70,000,000 for fiscal year 2012;
+
+&emsp;&emsp;&emsp;(iv) $80,000,000 for fiscal year 2013; and
+
+&emsp;&emsp;&emsp;(v) $100,000,000 for fiscal year 2014.
+
+#### (F) Section 12653p
+
+&emsp;&emsp;Of the amount authorized under subparagraph (A), there shall be made available to carry out section 12653p of this title—
+
+&emsp;&emsp;&emsp;(i) $50,000,000 for fiscal year 2010;
+
+&emsp;&emsp;&emsp;(ii) $60,000,000 for fiscal year 2011;
+
+&emsp;&emsp;&emsp;(iii) $70,000,000 for fiscal year 2012;
+
+&emsp;&emsp;&emsp;(iv) $80,000,000 for fiscal year 2013; and
+
+&emsp;&emsp;&emsp;(v) $100,000,000 for fiscal year 2014.
+
+#### (5) Administration
 
 #### (A) In general
 
-&emsp;&emsp;There are authorized to be appropriated for the administration of this chapter $40,000,000 for fiscal year 1994, $60,000,000 for fiscal year 1995, and $70,000,000 for fiscal year 1996.
+&emsp;&emsp;There are authorized to be appropriated for the administration of this chapter, including financial assistance under section 12576(a) of this title, such sums as may be necessary for each of fiscal years 2010 through 2014.
 
 #### (B) Corporation
 
-&emsp;&emsp;Of the amounts appropriated under subparagraph (A) for a fiscal year—
+&emsp;&emsp;Of the amounts appropriated under subparagraph (A) for a fiscal year, a portion shall be made available to provide financial assistance under section 12576(a) of this title.
 
-&emsp;&emsp;&emsp;(i) up to 60 percent shall be made available to the Corporation for the administration of this chapter; and
+#### (6) Evaluation, training, and technical assistance
 
-&emsp;&emsp;&emsp;(ii) the remainder shall be available to provide financial assistance under section 12576(a) of this title.
+&emsp;Notwithstanding paragraphs (1), (2), and (4) and any other provision of law, of the amounts appropriated for a fiscal year under divisions B, C, and H of subchapter I of this chapter and under titles I and II of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4951 et seq., 5000 et seq.\], the Corporation shall reserve notmore than 2.5 percent to carry out sections 12523(e) and 12639a of this title and division K of subchapter I,<sup>1</sup> of which $1,000,000 shall be used by the Corporation to carry out section 12639a of this title. Notwithstanding subsection (b), amounts so reserved shall be available only for the fiscal year for which the amounts are reserved.
 
-#### (b) Subchapter II
-
-There are authorized to be appropriated to carry out subchapter II of this chapter $5,000,000 for each of the fiscal years 1994 through 1996.
-
-#### (c) Availability of appropriations
+#### (b) Availability of appropriations
 
 Funds appropriated under this section shall remain available until expended.
 
-#### (d) Specification of budget function
-
-The authorizations of appropriations contained in this section shall be considered to be a component of budget function 500 as used by the Office of Management and Budget to cover education, training, employment, and social services, and, as such, shall be considered to be related to the programs of the Departments of Labor, Health and Human Services, and Education for budgetary purposes.
-
-(Pub. L. 101–610, title V, §501, Nov. 16, 1990, 104 Stat. 3185; Pub. L. 102–384, §11, Oct. 5, 1992, 106 Stat. 1459; Pub. L. 103–82, title III, §301(a), Sept. 21, 1993, 107 Stat. 897.)
+(Pub. L. 101–610, title V, §501, Nov. 16, 1990, 104 Stat. 3185; Pub. L. 102–384, §11, Oct. 5, 1992, 106 Stat. 1459; Pub. L. 103–82, title III, §301(a), Sept. 21, 1993, 107 Stat. 897; Pub. L. 111–13, title I, §1841, Apr. 21, 2009, 123 Stat. 1579.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(4), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+This chapter, referred to in subsec. (a)(3)(B), (5)(A), (6), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(6), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Title I of the Act is classified generally to subchapter I (§4951 et seq.) of chapter 66 of this title. Title II of the Act is classified generally to subchapter II (§5000 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+
+Division K of subchapter I, referred to in subsec. (a)(6), was in the original “subtitle J” which was translated as meaning subtitle J of title I of Pub. L. 101–610, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–13, §1841(1), added subsec. (a) and struck out former subsec. (a) which authorized appropriations for subchapter I of this chapter.
+
+Subsecs. (b) to (d). Pub. L. 111–13, §1841(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b), which authorized appropriations for subchapter II of this chapter, and subsec. (d), which specified the budget function for the appropriations authorized in this section.
 
 1993—Pub. L. 103–82 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) and (b) which authorized appropriations to carry out subchapter I for fiscal year 1993 and subchapter II for fiscal years 1991 to 1993.
 
@@ -72,7 +138,13 @@ This chapter, referred to in subsec. (a)(4), was in the original “this Act”,
 
 Subsec. (a)(2). Pub. L. 102–384, §11(b), substituted “paragraph (1)(A)” for “paragraph (1)” in introductory provisions, redesignated subpars. (B) to (D) as (A) to (C), respectively, added subpar. (D), and struck out former subpar. (A) which read as follows: “$2,000,000 shall be made available to carry out part G of subchapter I of this chapter in each such fiscal year;”.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Section 301(b) of Pub. L. 103–82 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1993.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

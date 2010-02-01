@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 July 9, 1952, ch. 608, §§240, 241, 66 Stat. 492.
 
-In subsection (a), the word “title” is substituted for the word “chapter”. The provisions of this title relating to active duty of reservists are based on the Armed Forces Reserve Act of 1952. The words “shall be considered \* \* \* as if it were” are substituted for the words “shall be counted \* \* \* the same as like”.
+In subsection (a), the word “title” is substituted for the word “chapter”. The provisions of this title relating to active duty of reservists are based on the Armed Forces Reserve Act of 1952. The words “shall be considered as if it were” are substituted for the words “shall be counted the same as like”.
 
 In subsections (a) and (b), the words “active duty for training” are omitted as covered by the words “active duty”.
 

@@ -2,11 +2,11 @@
 
 #### (a) Establishment and membership
 
-The Foundation shall have a governing Board of Directors (hereinafter referred to as the “Board”), which shall consist of fifteen Directors, each of whom shall be a United States citizen. At the discretion of the Secretary of Agriculture, the Secretary may increase the number of Directors to not more than twenty. At all times, a majority of members of the Board shall be educated or have actual experience in natural or cultural resource management, law, or research. To the extent practicable, members of the Board shall represent diverse points of view relating to natural and cultural resource issues. The Chief of the Forest Service shall be an ex officio nonvoting member of the Board.
+The Foundation shall have a governing Board of Directors (hereinafter referred to as the “Board”), which shall consist of not more than 30 Directors, each of whom shall be a United States citizen. At the discretion of the Secretary of Agriculture, the Secretary may increase the number of Directors to not more than twenty. At all times, a majority of members of the Board shall be educated or have actual experience in natural or cultural resource management, law, or research. To the extent practicable, members of the Board shall represent diverse points of view relating to natural and cultural resource issues. The Chief of the Forest Service shall be an ex officio nonvoting member of the Board.
 
 #### (b) Appointment and terms
 
-Within one year from November 16, 1990, the Secretary of Agriculture (hereinafter referred toas the “Secretary”) shall appoint the Directors of the Board. Directors shall be appointed for terms of six years; except that the Secretary, in making the initial appointments to the Board, shall appoint one-third each of the Directors to terms of two, four, and six years respectively. A vacancy on the Board shall be filled within sixty days of such vacancy in the manner in which the original appointment was made. No individual may serve more than twelve consecutive years as a Director.
+Within one year from November 16, 1990, the Secretary of Agriculture (hereinafter referred to as the “Secretary”) shall appoint the Directors of the Board. Directors shall be appointed for terms of six years; except that the Secretary, in making the initial appointments to the Board, shall appoint one-third each of the Directors to terms of two, four, and six years respectively. A vacancy on the Board shall be filled within sixty days of such vacancy in the manner in which the original appointment was made. No individual may serve more than twelve consecutive years as a Director.
 
 #### (c) Chairman
 
@@ -32,7 +32,7 @@ The Board may complete the organization of the Foundation by appointing employee
 
 Officers and employees may not be appointed until the Foundation has sufficient funds to pay for their services. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
-(Pub. L. 101–593, title IV, §403, Nov. 16, 1990, 104 Stat. 2970; Pub. L. 107–63, title II, Nov. 5, 2001, 115 Stat. 450.)
+(Pub. L. 101–593, title IV, §403, Nov. 16, 1990, 104 Stat. 2970; Pub. L. 107–63, title II, Nov. 5, 2001, 115 Stat. 450; Pub. L. 111–88, div. A, title IV, §432, Oct. 30, 2009, 123 Stat. 2964.)
 
 #### References in Text
 
@@ -41,6 +41,8 @@ This subchapter, referred to in subsec. (g), was in the original “this subtitl
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (h), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–88 substituted “not more than 30 Directors” for “fifteen Directors” in first sentence.
 
 2001—Subsec. (a). Pub. L. 107–63 inserted “At the discretion of the Secretary of Agriculture, the Secretary may increase the number of Directors to not more than twenty.” after first sentence.
 

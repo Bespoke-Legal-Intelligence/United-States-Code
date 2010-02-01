@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-As part of the Program, the National Science Foundation, the Department of Defense, the Department of Energy, the Department of Commerce, the National Aeronautics and Space Administration, and other agencies participating in the Program shall support the establishment of the National Research and Education Network, portions of which shall, to the extent technically feasible, be capable of transmitting data at one gigabit per second or greater by 1996. The Network shall provide for the linkage of research institutions and educational institutions, government, and industry in every State.
+As part of the Program, the National Science Foundation, the Department of Defense, the Department of Energy, the Department of Commerce, the National Aeronautics and Space Administration, and other agencies participating in the Program shall support the establishment of the National Research and Education Network, portions of which shall, to the extent technically feasible, be capable of transmittingdata at one gigabit per second or greater by 1996. The Network shall provide for the linkage of research institutions and educational institutions, government, and industry in every State.
 
 #### (b) Access
 

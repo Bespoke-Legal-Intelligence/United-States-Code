@@ -180,7 +180,7 @@ Weight to be given to recommendations of nas.—In conducting the review and pre
 
 &emsp;“(3)
 
-Inclusion of reasons for not following recommendations.—If the Secretary does not include inthe report prepared for submission to Congress under this subsection a recommendation for implementation of a recommendation contained in the report of the National Academy of Sciences submitted under subsection (b), the Secretary shall include in the report to Congress under this subsection the Secretary's reasons for not recommending implementation of the recommendation of the National Academy of Sciences.”
+Inclusion of reasons for not following recommendations.—If the Secretary does not include in the report prepared for submission to Congress under this subsection a recommendation for implementation of a recommendation contained in the report of the National Academy of Sciences submitted under subsection (b), the Secretary shall include in the report to Congress under this subsection the Secretary's reasons for not recommending implementation of the recommendation of the National Academy of Sciences.”
 
 #### Continually Monitored Telephone Systems
 

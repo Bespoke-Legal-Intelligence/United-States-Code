@@ -34,7 +34,7 @@ In any proceeding under subsection (b) of this section, there shall be a presump
 
 #### (d) Payments by employer prior and subsequent to determination by arbitrator; adjustments; failure of employer to make payments
 
-Payments shall be made by an employer in accordance with the determinations made underthis part until the arbitrator issues a final decision with respect to the determination submitted for arbitration, with any necessary adjustments in subsequent payments for overpayments or underpayments arising out of the decision of the arbitrator with respect to the determination. If the employer fails to make timely payment in accordance with such final decision, the employer shall be treated as being delinquent in the making of a contribution required under the plan (within the meaning of section 1145 of this title).
+Payments shall be made by an employer in accordance with the determinations made under this part until the arbitrator issues a final decision with respect to the determination submitted for arbitration, with any necessary adjustments in subsequent payments for overpayments or underpayments arising out of the decision of the arbitrator with respect to the determination. If the employer fails to make timely payment in accordance with such final decision, the employer shall be treated as being delinquent in the making of a contribution required under the plan (within the meaning of section 1145 of this title).
 
 #### (e) Procedures applicable to certain disputes
 
@@ -48,7 +48,7 @@ Payments shall be made by an employer in accordance with the determinations made
 
 &emsp;&emsp;&emsp;(ii) an employer is liable for withdrawal liability payments with respect to the complete or partial withdrawal of an employer from the plan,
 
-&emsp;&emsp;(B) such determination is based in whole or in part on a finding by the plan sponsor under section 1392(c) of this title that a principal purpose of a transaction that occurred before January 1, 1999, was to evade or avoid withdrawal liability under this subtitle, and
+&emsp;&emsp;(B) such determination is based in whole or in part on a finding by the plan sponsorunder section 1392(c) of this title that a principal purpose of a transaction that occurred before January 1, 1999, was to evade or avoid withdrawal liability under this subtitle, and
 
 &emsp;&emsp;(C) such transaction occurred at least 5 years before the date of the complete or partial withdrawal,
 
@@ -100,7 +100,7 @@ Definition of small employer.—For purposes of this subsection—
 
 &emsp;(A)
 
-In general.—The term “small employer” means any employer which, for thecalendar year in which the transaction referred to in paragraph (1)(B) occurred and for each of the 3 preceding years, on average—
+In general.—The term “small employer” means any employer which, for the calendar year in which the transaction referred to in paragraph (1)(B) occurred and for each of the 3 preceding years, on average—
 
 &emsp;&emsp;(i) employs not more than 500 employees, and
 
@@ -114,7 +114,7 @@ Controlled group.—Any group treated as a single employer under subsection (b)(
 
 Additional security pending resolution of dispute.—If a withdrawal liability dispute to which this subsection applies is not concluded by 12 months after the electing person posts the bond or escrow described in paragraph (2), the electing person shall, at the start of each succeeding 12-month period, provide an additional bond or amount held in escrow equal to the sum of the withdrawal liability payments that would otherwise be payable to the plan during that period.
 
-(5) The liability of the party furnishing a bond or escrow under this subsection shall be reduced, upon the payment of the bond or escrow to the plan, by the amount thereof.
+(5) The liability of the party furnishing a bond or escrow under this subsection shall be reduced,upon the payment of the bond or escrow to the plan, by the amount thereof.
 
 (Pub. L. 93–406, title IV, §4221, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1239; amended Pub. L. 108–218, title II, §202(a), Apr. 10, 2004, 118 Stat. 608; Pub. L. 109–280, title II, §204(d)(1), Aug. 17, 2006, 120 Stat. 887; Pub. L. 110–458, title I, §105(b)(2), Dec. 23, 2008, 122 Stat. 5105.)
 

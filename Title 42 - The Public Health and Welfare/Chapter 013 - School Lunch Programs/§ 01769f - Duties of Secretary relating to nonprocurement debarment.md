@@ -148,7 +148,7 @@ On request, the Secretary shall present to the Committee on Education and Labor,
 
 #### Amendments
 
-1998—Subsec. (b)(1)(D) to (G). Pub. L. 105–336 redesignated subpars. (E) to (G) as (D) to (F), respectively, and struck out former subpar. (D) which read as follows: “the homeless children nutrition program established under section 1766b of this title;”.
+1998—Subsec. (b)(1)(D) to (G). Pub. L. 105–336 redesignated subpars. (E) to (G) as (D) to (F), respectively, and struck out former subpar. (D) which read as follows:“the homeless children nutrition program established under section 1766b of this title;”.
 
 #### Effective Date of 1998 Amendment
 

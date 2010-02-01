@@ -2,7 +2,7 @@
 
 #### (a) Time for filing petition and restriction on assessment
 
-Within 90 days, or 150 days if the notice is addressed to a person outside the United States,after the notice of deficiency authorized in section 6212 is mailed (not counting Saturday, Sunday, or a legal holiday in the District of Columbia as the last day), the taxpayer may file a petition with the Tax Court for a redetermination of the deficiency. Except as otherwise provided in section 6851, 6852, or 6861 no assessment of a deficiency in respect of any tax imposed by subtitle A, or B, chapter 41, 42, 43, or 44 and no levy or proceeding in court for its collection shall be made, begun, or prosecuted until such notice has been mailed to the taxpayer, nor until the expiration of such 90-day or 150-day period, as the case may be, nor, if a petition has been filed with the Tax Court, until the decision of the Tax Court has become final. Notwithstanding the provisions of section 7421(a), the making of such assessment or the beginning of such proceeding or levy during the time such prohibition is in force may be enjoined by a proceeding in the proper court, including the Tax Court, and a refund may be ordered by such court of any amount collected within the period during which the Secretary is prohibited from collecting by levy or through a proceeding in court under the provisions of this subsection. The Tax Court shall have no jurisdiction to enjoin any action or proceeding or order any refund under this subsection unless a timely petition for a redetermination of the deficiency has been filed and then only in respect of the deficiency that is the subject of such petition. Any petition filed with the Tax Court on or before the last date specified for filing such petition by the Secretary in the notice of deficiency shall be treated as timely filed.
+Within 90 days, or 150 days if the notice is addressed to a person outside the United States, after the notice of deficiency authorized in section 6212 is mailed (not counting Saturday, Sunday, or a legal holiday in the District of Columbia as the last day), the taxpayer may file a petition with the Tax Court for a redetermination of the deficiency. Except as otherwise provided in section 6851, 6852, or 6861 no assessment of a deficiency in respect of any tax imposed by subtitle A, or B, chapter 41, 42, 43, or 44 and no levy or proceeding in court for its collection shall be made, begun, or prosecuted until such notice has been mailed to the taxpayer, nor until the expiration of such 90-day or 150-day period, as the case may be, nor, if a petition has been filed with the Tax Court, until the decision of the Tax Court has become final. Notwithstanding the provisions of section 7421(a), the making of such assessment or the beginning of such proceeding or levy during the time such prohibition is in force may be enjoined by a proceeding in the proper court, including the Tax Court, and a refund may be ordered by such court of any amount collected within the period duringwhich the Secretary is prohibited from collecting by levy or through a proceeding in court under the provisions of this subsection. The Tax Court shall have no jurisdiction to enjoin any action or proceeding or order any refund under this subsection unless a timely petition for a redetermination of the deficiency has been filed and then only in respect of the deficiency that is the subject of such petition. Any petition filed with the Tax Court on or before the last date specified for filing such petition by the Secretary in the notice of deficiency shall be treated as timely filed.
 
 #### (b) Exceptions to restrictions on assessment
 
@@ -38,7 +38,7 @@ The taxpayer shall at any time (whether or not a notice of deficiency has been i
 
 #### (e) Suspension of filing period for certain excise taxes
 
-The running of the time prescribed by subsection (a) for filing a petition in the Tax Court with respect to the taxes imposed by section 4941 (relating to taxes on self-dealing), 4942 (relating to taxes on failure to distribute income), 4943 (relating to taxes on excess business holdings), 4944 (relating to investments which jeopardize charitable purpose), 4945 (relating to taxes on taxable expenditures), 4951 (relating to taxes on self-dealing), or 4952 (relating to taxes on taxable expenditures), 4955 (relating to taxes on political expenditures), 4958 (relating to private excess benefit), 4971 (relating to excise taxes onfailure to meet minimum funding standard), 4975 (relating to excise taxes on prohibited transactions) shall be suspended for any period during which the Secretary has extended the time allowed for making correction under section 4963(e).
+The running of the time prescribed by subsection (a) for filing a petition in the Tax Court with respect to the taxes imposed by section 4941 (relating to taxes on self-dealing), 4942 (relating to taxes on failure to distribute income), 4943 (relating to taxes on excess business holdings), 4944 (relating to investments which jeopardize charitable purpose), 4945 (relating to taxes on taxable expenditures), 4951 (relating to taxes on self-dealing), or 4952 (relating to taxes on taxable expenditures), 4955 (relating to taxes on political expenditures), 4958 (relating to private excess benefit), 4971 (relating to excise taxes on failure to meet minimum funding standard), 4975 (relating to excise taxes on prohibited transactions) shall be suspended for any period during which the Secretary has extended the time allowed for making correction under section 4963(e).
 
 #### (f) Coordination with title 11
 
@@ -48,7 +48,7 @@ The running of the time prescribed by subsection (a) for filing a petition in th
 
 #### (2) Certain action not taken into account
 
-&emsp;For purposes of the second and third sentences of subsection (a), the filing of a proof of claim or request for payment (or the taking of any other action) in a case under title 11 of the United States Code shall not be treated as action prohibited by such second sentence.
+&emsp;For purposes of the second and third sentences of subsection (a), the filing of a proof of claim or request for payment (or the taking ofany other action) in a case under title 11 of the United States Code shall not be treated as action prohibited by such second sentence.
 
 #### (g) Definitions
 
@@ -94,9 +94,21 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) such TIN is of an individual whose age affects the amount of the credit under such section, and
 
-&emsp;&emsp;&emsp;(ii) the computation of the credit on the return reflects the treatment of such individual as being of an age different from the individual's age based on such TIN, and
+&emsp;&emsp;&emsp;(ii) the computation of the credit on the return reflects the treatment of such individual as being of an age different from the individual's age based on such TIN,
 
-&emsp;&emsp;(M) the entry on the return claiming the credit under section 32 with respect to a child if, according to the Federal Case Registry of Child Support Orders established under section 453(h) of the Social Security Act, the taxpayer is a noncustodial parent of such child.
+&emsp;&emsp;(M) the entry on the return claiming the credit under section 32 with respect to a child if, according to the Federal Case Registry of Child Support Orders established under section 453(h) of the Social Security Act, the taxpayer is a noncustodial parent of such child,
+
+&emsp;&emsp;(N) an omission of the reduction required under section 36A(c) with respect to the credit allowed under section 36A or an omission of the correct social security account number required under section 36A(d)(1)(B),
+
+&emsp;&emsp;(O) an omission of any increase required under section 36(f) with respect to the recapture of a credit allowed under section 36, and
+
+&emsp;&emsp;(P) an entry on a return claiming the credit under section 36 if—
+
+&emsp;&emsp;&emsp;(i) the Secretary obtains information from the person issuing the TIN of the taxpayer that indicates that the taxpayer does not meet the age requirement of section 36(b)(4),
+
+&emsp;&emsp;&emsp;(ii) information provided to the Secretary by the taxpayer on an income tax return for at least one of the 2 preceding taxable years is inconsistent with eligibility for such credit, or
+
+&emsp;&emsp;&emsp;(iii) the taxpayer fails to attach to the return the form described in section 36(d)(4).
 
 > &emsp;A taxpayer shall be treated as having omitted a correct TIN for purposes of the preceding sentence if information provided by the taxpayer on the return with respect to the individual whose TIN was provided differs from the information the Secretary obtains from the person issuing the TIN.
 
@@ -112,7 +124,7 @@ For purposes of this section—
 
 &emsp;&emsp;<b>(3) For provisions relating to application of this subchapter in the case of certain partnership items, etc., see section 6230(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 771; Pub. L. 89–44, title VIII, §809(d)(4)(B), June 21, 1965, 79 Stat. 168; Pub. L. 91–172, title I, §101(f)(3), (j)(42), Dec. 30, 1969, 83 Stat. 524, 530; Pub. L. 93–406, title II, §1016(a)(11), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–455, title XII, §§1204(c)(6), 1206(a)–(c)(1), title XIII, §1307(d)(2)(F)(iii), title XVI, §1605(b)(6), title XIX, §§1906(a)(15), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1698, 1703, 1704, 1728, 1755, 1825, 1834; Pub. L. 95–227, §4(d)(1), (2), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–600, title V, §504(b)(2), Nov. 6, 1978, 92 Stat. 2881; Pub. L. 96–223, title I, §101(f)(1)(D), (E), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–589, §6(b)(1), Dec. 24, 1980, 94 Stat. 3407; Pub. L. 96–596, §2(a)(4)(C), Dec. 24, 1980, 94 Stat. 3472; Pub. L. 97–248, title IV, §402(c)(2), Sept. 3, 1982, 96 Stat. 667; Pub. L.98–369, title III, §305(b)(4), title IV, §474(r)(34), July 18, 1984, 98 Stat. 784, 845; Pub. L. 99–514, title XVIII, §1875(d)(2)(B)(i), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–203, title X, §§10712(c)(1), 10713(b)(2)(D), Dec. 22, 1987, 101 Stat. 1330–467, 1330–470; Pub. L. 100–418, title I, §1941(b)(2)(B)(iv), (v), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §1015(r)(3), title VI, §6243(a), Nov. 10, 1988, 102 Stat. 3573, 3749; Pub. L. 101–239, title VII, §7811(k)(1), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 104–168, title XIII, §1311(c)(3), July 30, 1996, 110 Stat. 1478; Pub. L. 104–188, title I, §1615(c), Aug. 20, 1996, 110 Stat. 1853; Pub. L. 104–193, title IV, §451(c), Aug. 22, 1996, 110 Stat. 2277; Pub. L. 105–34, title I, §101(d)(2), title II, §201(b), title X, §1085(a)(3), Aug. 5, 1997, 111 Stat. 799, 803, 956; Pub. L. 105–206, title III, §§3463(b), 3464(a), title VI, §6010(p)(3), July 22, 1998, 112 Stat. 767, 817; Pub. L. 105–277, div. J, title III, §3003(a), (b), Oct. 21, 1998, 112 Stat. 2681–905; Pub. L. 107–16, title III, §303(g), June 7, 2001, 115 Stat. 56; Pub. L. 110–185, title I, §101(b)(2), Feb. 13, 2008, 122 Stat. 616.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 771; Pub. L. 89–44, title VIII, §809(d)(4)(B), June 21, 1965, 79 Stat. 168; Pub. L. 91–172, title I, §101(f)(3), (j)(42), Dec. 30, 1969, 83 Stat. 524, 530; Pub. L. 93–406, title II, §1016(a)(11), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–455, title XII, §§1204(c)(6), 1206(a)–(c)(1), title XIII, §1307(d)(2)(F)(iii), title XVI, §1605(b)(6), title XIX, §§1906(a)(15), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1698, 1703, 1704, 1728, 1755, 1825, 1834; Pub. L. 95–227, §4(d)(1), (2), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–600, title V, §504(b)(2), Nov. 6, 1978, 92 Stat. 2881; Pub. L. 96–223, title I, §101(f)(1)(D), (E), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–589, §6(b)(1), Dec. 24, 1980, 94 Stat. 3407; Pub. L. 96–596, §2(a)(4)(C), Dec. 24, 1980, 94 Stat. 3472; Pub. L. 97–248, title IV, §402(c)(2), Sept. 3, 1982, 96 Stat. 667; Pub. L.98–369, title III, §305(b)(4), title IV, §474(r)(34), July 18, 1984, 98 Stat. 784, 845; Pub. L. 99–514, title XVIII, §1875(d)(2)(B)(i), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–203, title X, §§10712(c)(1), 10713(b)(2)(D), Dec. 22, 1987, 101 Stat. 1330–467, 1330–470; Pub. L. 100–418, title I, §1941(b)(2)(B)(iv), (v), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §1015(r)(3), title VI, §6243(a), Nov. 10, 1988, 102 Stat. 3573, 3749; Pub. L. 101–239, title VII, §7811(k)(1), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 104–168, title XIII, §1311(c)(3), July 30, 1996, 110 Stat. 1478; Pub. L. 104–188, title I, §1615(c), Aug. 20, 1996, 110 Stat. 1853; Pub. L. 104–193, title IV, §451(c), Aug. 22, 1996, 110 Stat. 2277; Pub. L. 105–34, title I, §101(d)(2), title II, §201(b), title X, §1085(a)(3), Aug. 5, 1997, 111 Stat. 799, 803, 956; Pub. L. 105–206, title III, §§3463(b), 3464(a), title VI, §6010(p)(3), July 22, 1998, 112 Stat. 767, 817; Pub. L. 105–277, div. J, title III, §3003(a), (b), Oct. 21, 1998, 112 Stat. 2681–905; Pub. L. 107–16, title III, §303(g), June 7, 2001, 115 Stat. 56; Pub. L. 110–185, title I, §101(b)(2), Feb. 13, 2008, 122 Stat. 616; Pub. L. 111–5, div. B, title I, §1001(d), Feb. 17, 2009, 123 Stat. 312; Pub. L. 111–92, §§11(h), 12(d), Nov. 6, 2009, 123 Stat. 2991, 2992.)
 
 #### Amendment of Section
 
@@ -123,6 +135,12 @@ For purposes of this section—
 Section 453(h) of the Social Security Act, referred to in subsec. (g)(2)(M), is classified to section 653(h) of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2009—Subsec. (g)(2)(N). Pub. L. 111–5 added subpar. (N).
+
+Subsec. (g)(2)(O). Pub. L. 111–92, §11(h), added subpar. (O).
+
+Subsec. (g)(2)(P). Pub. L. 111–92, §12(d), added subpar. (P).
 
 2008—Subsec. (g)(2)(L). Pub. L. 110–185 substituted “32, or 6428” for “or 32” in introductory provisions.
 
@@ -212,6 +230,14 @@ Subsecs. (e), (f). Pub. L. 91–172, §101(f)(3), added subsec. (e) and redesign
 
 1965—Subsec. (e)(3). Pub. L. 89–44 added par. (3).
 
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–92, §11(j)(4), Nov. 6, 2009, 123 Stat. 2991, provided that: “The amendments made by subsection (h) \[amending this section\] shall apply to returns for taxable years ending on or after April 9, 2008.”
+
+Amendment by section 12(d) of Pub. L. 111–92 applicable to returns for taxable years ending on or after Apr. 9, 2008, see section 12(e) of Pub. L. 111–92, set out as a note under section 36 of this title.
+
+Amendment by Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1001(f) of Pub. L. 111–5, set out as an Effective Date note under section 36A of this title.
+
 #### Effective and Termination Dates of 2001 Amendment
 
 Amendment by Pub. L. 107–16 effective Jan. 1, 2004, see section 303(i) of Pub. L. 107–16, set out as a note under section 32 of this title.
@@ -272,7 +298,7 @@ Amendment by section 474(r)(34) of Pub. L. 98–369 applicable to taxable years 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under section 6221 of this title.
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment toany partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under section 6221 of this title.
 
 #### Effective Date of 1980 Amendments
 
@@ -284,7 +310,7 @@ Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see sec
 
 #### Effective Date of 1978 Amendments
 
-Amendment by Pub. L. 95–600 applicable to tentative refund claims filed on and after Nov. 6, 1978, see section504(c) of Pub. L. 95–600, set out as a note under section 6411 of this title.
+Amendment by Pub. L. 95–600 applicable to tentative refund claims filed on and after Nov. 6, 1978, see section 504(c) of Pub. L. 95–600, set out as a note under section 6411 of this title.
 
 Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, and expenditures made after Dec. 31, 1977, in and for taxable years beginning after such date, see section 4(f) of Pub. L. 95–227, set out as an Effective Date note under section 192 of this title.
 

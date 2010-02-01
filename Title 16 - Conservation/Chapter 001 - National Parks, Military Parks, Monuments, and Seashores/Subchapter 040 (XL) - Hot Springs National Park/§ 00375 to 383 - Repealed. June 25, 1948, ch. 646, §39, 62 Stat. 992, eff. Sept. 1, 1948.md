@@ -6,7 +6,7 @@ Section 376, acts Apr. 20, 1904, ch. 1400, §6, 33 Stat. 188; Mar. 2, 1907, ch. 
 
 Section 377, acts Apr. 20, 1904, ch. 1400, §7, 33 Stat. 188; Mar. 2, 1907, ch. 2516, §2, 34 Stat. 1218; June 24, 1946, ch. 463, §3, 60 Stat. 303, related to issuance of process. See sections 3041 and 3141 of Title 18, Crimes and Criminal Procedure, and rules 4, 5(c), and 9 of Federal Rules of Criminal Procedure, Title 18, Appendix.
 
-Section 378, acts Apr. 20, 1904, ch. 1400, §8, 33 Stat. 189; Mar. 2, 1907, ch. 2516, §2, 34 Stat. 1218; June 24, 1946, ch.463, §4, 60 Stat. 303, related to process directed to marshal. See section 3053 of Title 18, rule 4 of Federal Rules of Criminal Procedure, Title 18, Appendix, and rule 4 of Federal Rules of Civil Procedure, Title 28, Appendix, Judiciary and Judicial Procedure.
+Section 378, acts Apr. 20, 1904, ch. 1400, §8, 33 Stat. 189; Mar. 2, 1907, ch. 2516, §2, 34 Stat. 1218; June 24, 1946, ch. 463, §4, 60 Stat. 303, related to process directed to marshal. See section 3053 of Title 18, rule 4 of Federal Rules of Criminal Procedure, Title 18, Appendix, and rule 4 of Federal Rules of Civil Procedure, Title 28, Appendix, Judiciary and Judicial Procedure.
 
 Section 379, acts Apr. 20, 1904, ch. 1400, §9, 33 Stat. 189; Mar. 2, 1907, ch. 2516, §2, 34 Stat. 1218; June 24, 1946, ch. 463, §5, 60 Stat. 303, related to fees of commissioner \[now magistrate judge\]. See section 634 of Title 28.
 

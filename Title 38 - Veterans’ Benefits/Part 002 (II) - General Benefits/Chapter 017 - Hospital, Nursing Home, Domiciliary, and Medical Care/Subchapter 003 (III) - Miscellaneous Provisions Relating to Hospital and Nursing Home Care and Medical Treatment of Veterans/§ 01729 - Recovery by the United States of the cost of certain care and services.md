@@ -24,7 +24,7 @@
 
 (3) In the case of a health-plan contract that contains a requirement for payment of a deductible or copayment by the veteran—
 
-&emsp;(A) the veteran's not having paid such deductible or copayment with respect to care orservices furnished under this chapter shall not preclude recovery or collection under this section; and
+&emsp;(A) the veteran's not having paid such deductible or copayment with respect to care or services furnished under this chapter shall not preclude recovery or collection under this section; and
 
 &emsp;(B) the amount that the United States may collect or recover under this section shall be reduced by the appropriate deductible or copayment amount, or both.
 

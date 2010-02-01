@@ -1,18 +1,26 @@
 ### §4950. Volunteerism policy
 
-(a) Because of the long-standing importance of volunteerism throughout American history, it is the policy of the Congress to foster the tradition of volunteerism through greater involvement on the part of both young and older citizens.
+(a) Because of the long-standing importance of volunteerism throughout American history, it is the policy of the Congress to foster the tradition of volunteerism through greater involvement on the part of individuals of all ages and backgrounds.
 
-(b) The purpose of this chapter is to foster and expand voluntary citizen service in communities throughout the Nation in activities designed to help the poor, the disadvantaged, the vulnerable, and the elderly. In carrying out this purpose, the Corporation for National and Community Service shall utilize to the fullest extent the programs authorized under this chapter, coordinate with other Federal, State, and local agencies and utilize the energy, innovative spirit, experience, and skills of all Americans.
+(b) The purpose of this chapter is to foster and expand voluntary citizen service in communities throughout the Nation in activities designed to help the poor, the disadvantaged, the vulnerable, and the elderly. In carrying out this purpose, the Corporation for National and Community Service shall utilize to the fullest extent the programs authorized under this chapter, coordinate with other Federal, State, and local agencies, expand relationships with, and support for, the efforts of civic, community, and educational organizations, and utilize the energy, innovative spirit, experience, and skills of all Americans.
 
-(Pub. L. 93–113, §2, as added Pub. L. 99–551, §2(a), Oct. 27, 1986, 100 Stat. 3071; amended Pub. L. 103–82, title IV, §405(a)(1), Sept. 21, 1993, 107 Stat. 920.)
+(Pub. L. 93–113, §2, as added Pub. L. 99–551, §2(a), Oct. 27, 1986, 100 Stat. 3071; amended Pub. L. 103–82, title IV, §405(a)(1), Sept. 21, 1993, 107 Stat. 920; Pub. L. 111–13, title II, §2002, Apr. 21, 2009, 123 Stat. 1581.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 396, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 396, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
+2009—Subsec. (a). Pub. L. 111–13, §2002(1), substituted “individuals of all ages and backgrounds.” for “both young and older citizens.”
+
+Subsec. (b). Pub. L. 111–13, §2002(2), inserted “, expand relationships with, and support for, the efforts of civic, community, and educational organizations,” after “State, and local agencies”.
+
 1993—Subsec. (b). Pub. L. 103–82 substituted “of this chapter” for “of ACTION, the Federal domestic volunteer agency,” and “the Corporation for National and Community Service shall”for “ACTION shall”.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–13, title VI, §6101(a), Apr. 21, 2009, 123 Stat. 1600, provided that: “This Act \[see Tables for classification\], and the amendments made by this Act, take effect on October 1, 2009.”
 
 #### Effective Date of 1993 Amendment
 

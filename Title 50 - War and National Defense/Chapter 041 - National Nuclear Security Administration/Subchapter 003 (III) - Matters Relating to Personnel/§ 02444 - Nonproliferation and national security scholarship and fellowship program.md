@@ -40,7 +40,7 @@ An individual seeking a scholarship or fellowship under the program established 
 
 #### (1) In general
 
-&emsp;An individual receiving a scholarship or fellowship under the program established under this section shall agree to pay to the United States the total amount of educational assistance provided to such individual under such program, plus interest at the rate prescribed by paragraph (4), if such individual—
+&emsp;An individual receiving a scholarship or fellowship under the program established underthis section shall agree to pay to the United States the total amount of educational assistance provided to such individual under such program, plus interest at the rate prescribed by paragraph (4), if such individual—
 
 &emsp;&emsp;(A) does not complete the program of education agreed to pursuant to subsection (c)(2)(B);
 
@@ -50,7 +50,7 @@ An individual seeking a scholarship or fellowship under the program established 
 
 #### (2) Failure to repay
 
-&emsp;If an individual who received a scholarship or fellowship under the program established under this section is required to repay, pursuant to an agreement under paragraph (1), the total amount of educational assistance provided to such individual under such program, plus interest at the rate prescribed by paragraph (4), and fails <sup>2</sup> repay such amount, a sumequal to such amount (plus such interest) is recoverable by the United States Government from such individual or the estate of such individual by—
+&emsp;If an individual who received a scholarship or fellowship under the program established under this section is required to repay, pursuant to an agreement under paragraph (1), the total amount of educational assistance provided to such individual under such program, plus interest at the rate prescribed by paragraph (4), and fails <sup>2</sup> repay such amount, a sum equal to such amount (plus such interest) is recoverable by the United States Government from such individual or the estate of such individual by—
 
 &emsp;&emsp;(A) in the case of an individual who is an employee of the United States Government, setoff against accrued pay, compensation, amount of retirement credit, or other amount due the employee from the Government; or
 
@@ -70,7 +70,7 @@ In evaluating individuals for the award of a scholarship or fellowship under the
 
 #### (f) Coordination of benefits
 
-A scholarship or fellowship awarded under the program established under this section shall be taken into account in determining the eligibility of an individual receiving such scholarship or fellowship for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.).
+A scholarship or fellowship awarded under the program established under this section shall be taken into account in determining the eligibility of an individual receiving such scholarship or fellowship for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) \[and 42 U.S.C. 2751 et seq.\].
 
 #### (g) Report to Congress
 
@@ -95,10 +95,4 @@ Section was enacted as part of the Duncan Hunter National Defense Authorization 
 #### “Congressional Defense Committees” Defined
 
 Congressional defense committees has the meaning given that term in section 101(a)(16) of Title 10, Armed Forces, see section 3 of Pub. L. 110–417, Oct. 14, 2008, 122 Stat. 4372. See note under section 101 of Title 10.
-
-<i><sup>1</sup></i><i> So in original. A third closing parenthesis probably should precede the semicolon.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “to”.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
 

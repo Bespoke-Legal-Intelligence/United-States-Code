@@ -14,7 +14,7 @@ The primary functions of the Institute shall be—
 
 (2) The specific responsibilities of each subdivision, entity, and department of the Institute are solely within the discretion of the Board, or its designee.
 
-(3) The Board shall establish, within the Institute, departments for the study of culture and arts and for research and exchange, and a museum. The Board shall establish the areas of competency for the departments created under this paragraph, which may include (but are not limited to) Departments of Arts and Sciences, Visual Arts, Performing Arts, Language, Literature and Museology and a learning resourcescenter, programs of institutional support and development, research programs, fellowship programs, seminars, publications, scholar-in-residence programs and inter-institutional programs of cooperation at national and international levels.
+(3) The Board shall establish, within the Institute, departments for the study of culture and arts and for research and exchange, and a museum. The Board shall establish the areas of competency for the departments created under this paragraph, which may include (but are not limited to) Departments of Arts and Sciences, Visual Arts, Performing Arts, Language, Literature and Museology and a learning resources center, programs of institutional support and development, research programs, fellowship programs, seminars, publications, scholar-in-residence programs and inter-institutional programs of cooperation at national and international levels.
 
 #### (c) Other programs
 
@@ -60,7 +60,7 @@ In addition to the centers and programs described in subsection (b) of this sect
 
 &emsp;“(3) a Museum of American Indian and Alaska Native Arts, which shall be under the direction of the President of the Institute.”
 
-1990—Subsec. (b)(2). Pub. L. 101–644, §502(1), redesignated subpars. (B) to (I) as (A) to (H), respectively, and struck out former subpar. (A) which related to a museum of Indian arts.
+1990—Subsec. (b)(2). Pub. L. 101–644, §502(1), redesignated subpars. (B) to (I) as (A) to (H), respectively, andstruck out former subpar. (A) which related to a museum of Indian arts.
 
 Subsec. (b)(3). Pub. L. 101–644, §502(2)–(4), added par. (3).
 

@@ -22,5 +22,5 @@ A prior provision relative to the allowance of tare, prohibiting any allowance f
 
 #### Effective Date of 1988 Amendment
 
-Section 1902(b) of Pub. L. 100–418, as amended by Pub. L. 100–647, title IX, §9001(a)(18), Nov. 10, 1988, 102 Stat.3808, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to articles entered, or withdrawn from warehouse for consumption, after October 1, 1988.”
+Section 1902(b) of Pub. L. 100–418, as amended by Pub. L. 100–647, title IX, §9001(a)(18), Nov. 10, 1988, 102 Stat. 3808, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to articles entered, or withdrawn from warehouse for consumption, after October 1, 1988.”
 

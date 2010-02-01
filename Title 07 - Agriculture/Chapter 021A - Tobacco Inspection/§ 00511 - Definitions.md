@@ -6,11 +6,11 @@ When used in this chapter—
 
 (b) “Secretary” means the Secretary of Agriculture of the United States.
 
-(c) “Inspector” means any person employed, licensed, or authorized by the Secretary to determine and certify the type, grade condition, or other characteristics of tobacco.
+(c) “Inspector” means any person employed, licensed, or authorized by the Secretary to determine and certify the type, grade, condition, or other characteristics of tobacco.
 
 (d) “Sampler” means any person employed, licensed, or authorized by the Secretary to select, tag, and seal official samples of tobacco.
 
-(e) “Weigher” means any person employed, licensed, or authorized by the Secretary to weight and certify the weight of tobacco.
+(e) “Weigher” means any person employed, licensed, or authorized by the Secretary to weigh and certify the weight of tobacco.
 
 (f) “Tobacco” means tobacco in its unmanufactured form.
 

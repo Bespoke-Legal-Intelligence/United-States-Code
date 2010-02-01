@@ -8,7 +8,7 @@ All terms of copyright provided by sections 302 through 304 run to the end of th
 
 I74house report no. 94–1476
 
-Under section 305, which has its counterpart in the laws of most foreign countries, the term of copyright protection for a work extends through December 31 of the year in which the term would otherwise have expired. This will make the duration of copyright mucheasier to compute, since it will be enough to determine the year, rather than the exact date, of the event from which the term is based.
+Under section 305, which has its counterpart in the laws of most foreign countries, the term of copyright protection for a work extends through December 31 of the year in which the term would otherwise have expired. This will make the duration of copyright much easier to compute, since it will be enough to determine the year, rather than the exact date, of the event from which the term is based.
 
 Section 305 applies only to “terms of copyright provided by sections 302 through 304,” which are the sections dealing with duration of copyright. It therefore has no effect on the other time periods specified in the bill; and, since they do not involve “terms of copyright,” the periods provided in section 304(c) with respect to termination of grants are not affected by section 305.
 

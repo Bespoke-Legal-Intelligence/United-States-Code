@@ -46,7 +46,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (iii) Waiver authorized
 
-&emsp;&emsp;&emsp;The Attorney General may, in his discretion for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest, waive application of clause (i) in the case of any alien lawfullyadmitted for permanent residence if the alien has encouraged, induced, assisted, abetted, or aided only an individual who at the time of the offense was the alien's spouse, parent, son, or daughter (and no other individual) to enter the United States in violation of law.
+&emsp;&emsp;&emsp;The Attorney General may, in his discretion for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest, waive application of clause (i) in the case of any alien lawfully admitted for permanent residence if the alien has encouraged, induced, assisted, abetted, or aided only an individual who at the time of the offense was the alien's spouse, parent, son, or daughter (and no other individual) to enter the United States in violation of law.
 
 #### (F) Repealed. Pub. L. 104–208, div. C, title VI, §671(d)(1)(C), Sept. 30, 1996, 110 Stat. 3009–723
 
@@ -116,7 +116,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (C) Certain firearm offenses
 
-&emsp;&emsp;Any alien who at any time after admission is convicted under any law of purchasing, selling, offering for sale, exchanging, using, owning, possessing, or carrying, or of attempting or conspiring to purchase, sell, offer for sale, exchange, use, own, possess, orcarry, any weapon, part, or accessory which is a firearm or destructive device (as defined in section 921(a) of title 18) in violation of any law is deportable.
+&emsp;&emsp;Any alien who at any time after admission is convicted under any law of purchasing, selling, offering for sale, exchanging, using, owning, possessing, or carrying, or of attempting or conspiring to purchase, sell, offer for sale, exchange, use, own, possess, or carry, any weapon, part, or accessory which is a firearm or destructive device (as defined in section 921(a) of title 18) in violation of any law is deportable.
 
 #### (D) Miscellaneous crimes
 
@@ -182,7 +182,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;In the case of an alien making a representation described in clause (i), if each natural parent of the alien (or, in the case of an adopted alien, each adoptive parent of the alien) is or was a citizen (whether by birth or naturalization), the alien permanently resided in the United States priorto attaining the age of 16, and the alien reasonably believed at the time of making such representation that he or she was a citizen, the alien shall not be considered to be deportable under any provision of this subsection based on such representation.
+&emsp;&emsp;&emsp;In the case of an alien making a representation described in clause (i), if each natural parent of the alien (or, in the case of an adopted alien, each adoptive parent of the alien) is or was a citizen (whether by birth or naturalization), the alien permanently resided in the United States prior to attaining the age of 16, and the alien reasonably believed at the time of making such representation that he or she was a citizen, the alien shall not be considered to be deportable under any provision of this subsection based on such representation.
 
 #### (4) Security and related grounds
 
@@ -262,11 +262,11 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (b) Deportation of certain nonimmigrants
 
-An alien, admitted as a nonimmigrant under the provision of either section 1101(a)(15)(A)(i) or 1101(a)(15)(G)(i) of this title, and who fails to maintain a status under either of those provisions, shall not be required to depart from the United States without the approval of the Secretary of State, unless such alien is subject to deportation under paragraph (4) of subsection (a) of this section.
+An alien, admitted as a nonimmigrant under the provisions of either section 1101(a)(15)(A)(i) or 1101(a)(15)(G)(i) of this title, and who fails to maintain a status under either of those provisions, shall not be required to depart from the United States without the approval of the Secretary of State, unless such alien is subject to deportation under paragraph (4) of subsection (a) of this section.
 
 #### (c) Waiver of grounds for deportation
 
-Paragraphs (1)(A), (1)(B), (1)(C), (1)(D), and (3)(A) of subsection (a) of this section (otherthan so much of paragraph (1) as relates to a ground of inadmissibility described in paragraph (2) or (3) of section 1182(a) of this title) shall not apply to a special immigrant described in section 1101(a)(27)(J) of this title based upon circumstances that existed before the date the alien was provided such special immigrant status.
+Paragraphs (1)(A), (1)(B), (1)(C), (1)(D), and (3)(A) of subsection (a) of this section (other than so much of paragraph (1) as relates to a ground of inadmissibility described in paragraph (2) or (3) of section 1182(a) of this title) shall not apply to a special immigrant described in section 1101(a)(27)(J) of this title based upon circumstances that existed before the date the alien was provided such special immigrant status.
 
 #### (d) Administrative stay
 
@@ -296,7 +296,7 @@ The Trading With the Enemy Act, referred to in subsec. (a)(2)(D)(iii), is act Oc
 
 The Alien Registration Act, 1940, referred to in subsec. (a)(3)(B)(i), is act June 28, 1940, ch. 439, 54 Stat. 670, as amended. Section 36(a) of that act was classified to section 457(c) of this title and was repealed by section 403(a)(39) of act June 27, 1952.
 
-The Foreign Agents Registration Act of 1938, referred to in subsec. (a)(3)(B)(ii), is act June 8, 1938, ch. 327, 52 Stat. 631, as amended, which is classified generally to subchapter II (§611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
+The Foreign Agents Registration Act of 1938, referred to in subsec. (a)(3)(B)(ii), is act June 8, 1938, ch. 327, 52 Stat. 631, as amended, which is classified generally tosubchapter II (§611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
 
 #### Codification
 
@@ -406,7 +406,7 @@ Pub. L. 104–132, §414(a), added subsec. (d).
 
 1994—Subsec. (a)(2)(A)(i)(I). Pub. L. 103–322 inserted “(or 10 years in the case of an alien provided lawful permanent resident status under section 1255(i) of this title)” after “five years”.
 
-Subsec. (a)(2)(C). Pub. L. 103–416, §203(b)(1), substituted “, or of attempting or conspiring to purchase,sell, offer for sale, exchange, use, own, possess, or carry,” for “in violation of any law,” and inserted “in violation of any law” after “title 18)”.
+Subsec. (a)(2)(C). Pub. L. 103–416, §203(b)(1), substituted “, or of attempting or conspiring to purchase, sell, offer for sale, exchange, use, own, possess, or carry,” for “in violation of any law,” and inserted “in violation of any law” after “title 18)”.
 
 Subsec. (a)(3)(B)(ii), (iii). Pub. L. 103–416, §203(b)(2), inserted “an attempt or” before “a conspiracy”.
 
@@ -482,7 +482,7 @@ Subsec. (g). Pub. L. 99–639, §2(b)(2), added subsec. (g).
 
 1978—Subsec. (a)(19). Pub. L. 95–549 added par. (19).
 
-1976—Subsec. (a)(10). Pub. L. 94–571 substituted “(other than an alien described in section 1101(a)(27)(A) of this title and aliens born in the Western Hemisphere)” for “(other than an alien who is a native-borncitizen of any of the countries enumerated in section 1101(a)(27)(A) of this title and an alien described in section 1101(a)(27)(B) of this title)”.
+1976—Subsec. (a)(10). Pub. L. 94–571 substituted “(other than an alien described in section 1101(a)(27)(A) of this title and aliens born in the Western Hemisphere)” for “(other than an alien who is a native-born citizen of any of the countries enumerated in section 1101(a)(27)(A) of this title and an alien described in section 1101(a)(27)(B) of this title)”.
 
 1965—Subsec. (a)(10). Pub. L. 89–236 substituted “section 1101(a)(27)(A) of this title” for “section 1101(a)(27)(C) of this title”.
 
@@ -493,6 +493,10 @@ Subsec. (g). Pub. L. 99–639, §2(b)(2), added subsec. (g).
 1956—Subsec. (a)(11). Act July 18, 1956, §301(b), included conspiracy to violate any narcotic law, and the illicit possession of narcotics, as additional grounds for deportation.
 
 Subsec. (b). Act July 18, 1956, §301(c), inserted at end “The provisions of this subsection shall not apply in the case of any alien who is charged with being deportable from the United States under subsection (a)(11) of this section.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–340 applicable to offenses committed before, on, or after Oct. 3, 2008, see section 3(c) of Pub. L. 111–122, set out as a note under section 1182 of this title.
 
 #### Effective Date of 2005 Amendment
 
@@ -532,7 +536,7 @@ Section 350(b) of div. C of Pub. L. 104–208 provided that: “The amendment ma
 
 Amendment by section 351(b) of Pub. L. 104–208 applicable to applications for waivers filed before, on, or after Sept. 30, 1996, but not applicable to such an application for which a final determination has been made as of Sept. 30, 1996, see section 351(c) of Pub. L. 104–208, set out as a note under section 1182 of this title.
 
-Amendment by section 671(a)(4)(B) of Pub. L. 104–208 effective as if included in the enactment of the Violent Crime Control and Law Enforcement Act of 1994, Pub. L. 103–322, see section 671(a)(7) of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 671(a)(4)(B) of Pub. L. 104–208 effective as if included in the enactment of the ViolentCrime Control and Law Enforcement Act of 1994, Pub. L. 103–322, see section 671(a)(7) of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 Section 414(b) of Pub. L. 104–132 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month beginning more than 180 days after the date of the enactment of this Act \[Apr. 24, 1996\].”
 

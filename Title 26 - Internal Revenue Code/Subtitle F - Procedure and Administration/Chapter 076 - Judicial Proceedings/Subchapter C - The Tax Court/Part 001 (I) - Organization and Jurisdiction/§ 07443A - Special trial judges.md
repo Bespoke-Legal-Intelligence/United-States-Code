@@ -38,7 +38,7 @@ Each special trial judge shall receive salary—
 
 #### (e) Expenses for travel and subsistence
 
-Subsection (d) of section 7443 shall apply to special trial judges subject to such rules andregulations as may be promulgated by the Tax Court.
+Subsection (d) of section 7443 shall apply to special trial judges subject to such rules and regulations as may be promulgated by the Tax Court.
 
 (Added Pub. L. 99–514, title XV, §1556(a), Oct. 22, 1986, 100 Stat. 2754; amended Pub. L. 105–206, title III, §§3103(b)(1), 3401(c), July 22, 1998, 112 Stat. 731, 749; Pub. L. 105–277, div. J, title IV, §4002(e), Oct. 21, 1998, 112 Stat. 2681–907; Pub. L. 109–280, title VIII, §857(a), (b), Aug. 17, 2006, 120 Stat. 1020; Pub. L. 109–432, div. A, title IV, §406(a)(2), Dec. 20, 2006, 120 Stat. 2959.)
 

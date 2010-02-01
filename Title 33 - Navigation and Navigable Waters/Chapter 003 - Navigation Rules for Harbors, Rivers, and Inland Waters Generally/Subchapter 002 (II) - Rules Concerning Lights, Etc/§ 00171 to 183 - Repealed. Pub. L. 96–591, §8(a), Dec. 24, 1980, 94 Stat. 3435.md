@@ -14,7 +14,7 @@ Section 176, act June 7, 1897, ch. 4, §1, 30 Stat. 98, related to lights of row
 
 Section 177, acts June 7, 1897, ch. 4, §1, 30 Stat. 98; Feb. 19, 1900, ch. 22, §1, 31 Stat. 30, related to lights of pilot vessels on and off duty. See section 2029 of this title.
 
-Section 178, act June 7, 1897, ch. 4, §1, 30 Stat. 98; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R.7875, 60 Stat. 1097, related to lights of fishing vessels. See section 2026 of this title.
+Section 178, act June 7, 1897, ch. 4, §1, 30 Stat. 98; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, related to lights of fishing vessels. See section 2026 of this title.
 
 Section 179, acts June 7, 1897, ch. 4, §1, 30 Stat. 98; Aug. 14, 1958, Pub. L. 85–635, §2, 72 Stat. 590, related to lights of overtaken vessels. See section 2022 of this title.
 

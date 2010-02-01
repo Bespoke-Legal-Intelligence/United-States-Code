@@ -190,7 +190,7 @@ Section 10 of Pub. L. 93–569 provided that: “The provisions of this Act \[se
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten daysafter Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
+Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
 
 #### Annual Reports on Veterans Receiving Guaranteed Mortgage Loans as Result of Amendments by Pub. L. 102–547
 

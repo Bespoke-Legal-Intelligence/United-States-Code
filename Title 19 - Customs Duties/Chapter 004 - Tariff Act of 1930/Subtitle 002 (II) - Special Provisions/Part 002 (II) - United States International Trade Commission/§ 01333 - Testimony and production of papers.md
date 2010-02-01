@@ -32,7 +32,7 @@ The Commission shall be represented in all judicial proceedings by attorneys who
 
 Any correspondence, private letters of reprimand, and other documents and files relating to violations or possible violations of administrative protective orders issued by the Commission in connection with investigations or other proceedings under this subtitle shall be treated as information described in section 552(b)(3) of title 5.
 
-(June 17, 1930, ch. 497, title III, §333, 46 Stat. 699; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–686, §9(a), (b), Aug. 20, 1958, 72 Stat. 679; Pub. L. 91–452, title II, §229, Oct. 15, 1970, 84 Stat. 930; Pub. L. 93–618, title I, §174, Jan. 3, 1975, 88 Stat. 2011; Pub. L. 101–382, title I, §135(a), Aug. 20, 1990, 104 Stat. 651.)
+(June 17, 1930, ch. 497, title III, §333, 46 Stat. 699; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–686, §9(a), (b), Aug. 20, 1958, 72 Stat. 679; Pub. L. 91–452, title II, §229, Oct. 15, 1970, 84 Stat. 930; Pub. L. 93–618, title I,§174, Jan. 3, 1975, 88 Stat. 2011; Pub. L. 101–382, title I, §135(a), Aug. 20, 1990, 104 Stat. 651.)
 
 #### Codification
 
@@ -40,7 +40,7 @@ As originally enacted subsec. (b) contained a reference to the Supreme Court of 
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 8, 1916, ch. 463, §706, 39 Stat. 797, as amended by act Sept. 21, 1922, ch. 356, title III, §318(f),42 Stat. 947. These acts were superseded by section 333 of act June 17, 1930, comprising this section, and section 318(f) of the 1922 act was repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 8, 1916, ch. 463, §706, 39 Stat. 797, as amended by act Sept. 21, 1922, ch. 356, title III, §318(f), 42 Stat. 947. These acts were superseded by section 333 of act June 17, 1930, comprising this section, and section 318(f) of the 1922 act was repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 

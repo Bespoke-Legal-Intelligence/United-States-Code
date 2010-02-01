@@ -26,7 +26,7 @@ Funding for construction projects carried out under this part shall be included 
 
 #### (f) Approval
 
-The Secretary shall have at least one opportunity to approve project planning and designdocuments prepared by the Indian tribe in advance of construction of the facilities specified in the scope of work for each negotiated construction project agreement or amendment thereof which results in a significant change in the original scope of work. The Indian tribe shall provide the Secretary with project progress and financial reports not less than semiannually. The Secretary may conduct onsite project oversight visits semiannually or on an alternate schedule agreed to by the Secretary and the Indian tribe.
+The Secretary shall have at least one opportunity to approve project planning and design documents prepared by the Indian tribe in advance of construction of the facilities specified in the scope of work for each negotiated construction project agreement or amendment thereof which results in a significant change in the original scope of work. The Indian tribe shall provide the Secretary with project progress and financial reports not less than semiannually. The Secretary may conduct onsite project oversight visits semiannually or on an alternate schedule agreed to by the Secretary and the Indian tribe.
 
 #### (g) Wages
 
@@ -50,5 +50,5 @@ The Office of Federal Procurement Policy Act, referred to in subsec. (h), is Pub
 
 #### Codification
 
-In subsec. (g), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act of March 3, 1931 (46 Stat. 1494)”, “sections 3141–3144, 3146, and 3147 of title 40 are” substituted for “the Act of March 3, 1931, is”, and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934 (48 Stat. 948)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (g), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act of March 3, 1931 (46 Stat. 1494)”, “sections 3141–3144, 3146, and 3147of title 40 are” substituted for “the Act of March 3, 1931, is”, and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934 (48 Stat. 948)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 

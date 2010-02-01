@@ -8,7 +8,7 @@ Contracting Officers.—The Secretary of Defense shall require that, in order to
 
 &emsp;(2) have at least two years of experience in a contracting position;
 
-&emsp;(3)(A) have received a baccalaureate degree from an accredited educational institution authorized to grant baccalaureate degrees, and (B) have completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education in anyof the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management; and
+&emsp;(3)(A) have received a baccalaureate degree from an accredited educational institution authorized to grant baccalaureate degrees, and (B) have completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education in any of the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management; and
 
 &emsp;(4) meet such additional requirements, based on the dollar value and complexity of the contracts awarded or administered in the position, as may be established by the Secretary of Defense for the position.
 

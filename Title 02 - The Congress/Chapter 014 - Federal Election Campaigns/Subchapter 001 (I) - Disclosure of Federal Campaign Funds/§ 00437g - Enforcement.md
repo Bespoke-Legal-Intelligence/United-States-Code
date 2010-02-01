@@ -6,7 +6,7 @@
 
 (2) If the Commission, upon receiving a complaint under paragraph (1) or on the basis of information ascertained in the normal course of carrying out its supervisory responsibilities, determines, by an affirmative vote of 4 of its members, that it has reason to believe that a person has committed, or is about to commit, a violation of this Act or chapter 95 or chapter 96 of title 26, the Commission shall, through its chairman or vice chairman, notify the person of the alleged violation. Such notification shall set forth the factual basis for such alleged violation. The Commission shall make an investigation of such alleged violation, which may include a field investigation or audit, in accordance with the provisions of this section.
 
-(3) The general counsel of the Commission shall notify the respondent of any recommendation to the Commission by the general counsel to proceed to a vote on probable cause pursuant to paragraph (4)(A)(i). With such notification, the general counsel shall include a brief stating the position of the general counsel on the legal and factual issues of the case. Within 15 days of receipt of such brief, respondent may submit abrief stating the position of such respondent on the legal and factual issues of the case, and replying to the brief of general counsel. Such briefs shall be filed with the Secretary of the Commission and shall be considered by the Commission before proceeding under paragraph (4).
+(3) The general counsel of the Commission shall notify the respondent of any recommendation to the Commission by the general counsel to proceed to a vote on probable cause pursuant to paragraph (4)(A)(i). With such notification, the general counsel shall include a brief stating the position of the general counsel on the legal and factual issues of the case. Within 15 days of receipt of such brief, respondent may submit a brief stating the position of such respondent on the legal and factual issues of the case, and replying to the brief of general counsel. Such briefs shall be filed with the Secretary of the Commission and shall be considered by the Commission before proceeding under paragraph (4).
 
 (4)(A)(i) Except as provided in clauses <sup>1</sup> (ii) and subparagraph (C), if the Commission determines, by an affirmative vote of 4 of its members, that there is probable cause to believe that any person has committed, or is about to commit, a violation of this Act or of chapter 95 or chapter 96 of title 26, the Commission shall attempt, for a period of at least 30 days, to correct or prevent such violation by informal methods of conference, conciliation, and persuasion, and to enter into a conciliation agreement with any person involved. Such attempt by the Commission to correct or prevent such violation may continue for a period of not more than 90 days. The Commission may not enter into a conciliation agreement under this clause except pursuant to an affirmative vote of 4 of its members. A conciliation agreement, unless violated, is a complete bar to any further action by the Commission, including the bringing of a civil proceeding under paragraph (6)(A).
 
@@ -22,7 +22,7 @@
 
 &emsp;(II) based on such finding, require the person to pay a civil money penalty in an amount determined under a schedule of penalties which is established and published by the Commission and which takes into account the amount of the violation involved, the existence of previous violations by the person, and such other factors as the Commission considers appropriate.
 
-(ii) The Commission may not make any determination adverse to a person under clause (i) until the person has been given written notice and an opportunity to be heard before the Commission.
+(ii) The Commission may not make any determination adverse to a person under clause (i) until the person has been given written noticeand an opportunity to be heard before the Commission.
 
 (iii) Any person against whom an adverse determination is made under this subparagraph may obtain a review of such determination in the district court of the United States for the district in which the person resides, or transacts business, by filing in such court (prior to the expiration of the 30-day period which begins on the date the person receives notification of the determination) a written petition requesting that the determination be modified or set aside.
 
@@ -54,7 +54,7 @@
 
 (10) Repealed. Pub. L. 98–620, title IV, §402(1)(A), Nov. 8, 1984, 98 Stat. 3357.
 
-(11) If the Commission determines after an investigation that any person has violated an order of the court entered in a proceeding brought under paragraph (6), it may petition the court for an order to hold such person in civil contempt, but if it believes the violation to be knowing and willful it may petition the court for an order to hold such person in criminal contempt.
+(11) If the Commission determines after an investigation that any person has violated an order of the court entered in a proceeding brought under paragraph (6), it may petition thecourt for an order to hold such person in civil contempt, but if it believes the violation to be knowing and willful it may petition the court for an order to hold such person in criminal contempt.
 
 (12)(A) Any notification or investigation made under this section shall not be made public by the Commission or by any person without the written consent of the person receiving such notification or the person with respect to whom such investigation is made.
 
@@ -78,7 +78,7 @@ Whenever the Commission refers an apparent violation to the Attorney General, th
 
 (B) In the case of a knowing and willful violation of section 441b(b)(3) of this title, the penalties set forth in this subsection shall apply to a violation involving an amount aggregating $250 or more during a calendar year. Such violation of section 441b(b)(3) of this title may incorporate a violation of section 441c(b), 441f, or 441g of this title.
 
-(C) In the case of a knowing and willful violation of section 441h of this title, the penaltiesset forth in this subsection shall apply without regard to whether the making, receiving, or reporting of a contribution or expenditure of $1,000 or more is involved.
+(C) In the case of a knowing and willful violation of section 441h of this title, the penalties set forth in this subsection shall apply without regard to whether the making, receiving, or reporting of a contribution or expenditure of $1,000 or more is involved.
 
 (D) Any person who knowingly and willfully commits a violation of section 441f of this title involving an amount aggregating more than $10,000 during a calendar year shall be—
 
@@ -110,7 +110,7 @@ This Act, referred to in subsecs. (a) and (d), means the Federal Election Campai
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsec. (a) of this section were contained in section 308(d) of Pub. L. 92–225, title III, Feb. 7, 1972, 86 Stat. 18 (section 438(d) of this title), prior to amendment of section 308 of Pub. L. 92–225 by Pub. L. 93–443.
+Provisions similar to those comprising subsec. (a) of this section were contained in section 308(d) of Pub. L.92–225, title III, Feb. 7, 1972, 86 Stat. 18 (section 438(d) of this title), prior to amendment of section 308 of Pub. L. 92–225 by Pub. L. 93–443.
 
 A prior section 309 of Pub. L. 92–225 was renumbered section 306, and is classified to section 437c of this title.
 
@@ -152,7 +152,7 @@ Pub. L. 110–433, §1(c), Oct. 16, 2008, 122 Stat. 4971, provided that: “The 
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–155, title III, §312(b), Mar. 27, 2002, 116 Stat. 106, provided that: “The amendment made by thissection \[amending this section\] shall apply to violations occurring on or after the effective date of this Act \[for general effective date of Pub. L. 107–155, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of this title\].”
+Pub. L. 107–155, title III, §312(b), Mar. 27, 2002, 116 Stat. 106, provided that: “The amendment made by this section \[amending this section\] shall apply to violations occurring on or after the effective date of this Act \[for general effective date of Pub. L. 107–155, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of this title\].”
 
 Pub. L. 107–155, title III, §315(c), Mar. 27, 2002, 116 Stat. 108, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to violations occurring on or after the effective date of this Act \[for general effective date of Pub. L. 107–155, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of this title\].”
 

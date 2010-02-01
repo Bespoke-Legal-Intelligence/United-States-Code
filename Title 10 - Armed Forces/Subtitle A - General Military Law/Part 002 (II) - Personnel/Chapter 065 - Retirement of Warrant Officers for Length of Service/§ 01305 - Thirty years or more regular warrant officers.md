@@ -4,7 +4,7 @@
 
 (2) In the case of a regular Army warrant officer, the calculation of years of active service under paragraph (1) shall include only years of active service as a warrant officer.
 
-(b) The Secretary concerned may defer, for not more than four months, the retirement under subsection (a) of any warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date when he would otherwise be required to retire under this section.
+(b) The Secretary concerned may defer, for not more than four months, the retirement undersubsection (a) of any warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date when he would otherwise be required to retire under this section.
 
 (c) Under such regulations as he may prescribe, the Secretary concerned may defer the retirement under subsection (a) of any warrant officer upon the recommendation of a board of officers and with the consent of the warrant officer, but not later than 60 days after he becomes 62 years of age.
 
@@ -60,9 +60,9 @@ May 29, 1954, ch. 249, §§2(d) (as applicable to §14(b)(2)), 14(b)(2), (e) (as
 
 In subsection (a), the words “has at least” are substituted for the words “has completed”. The words “and is not so continued on active service” and “on that date which” are omitted as surplusage. 10:600<i>l</i>(b)(2) (last 16 words of last sentence) and 34:430(b)(2) (last 16 words of last sentence) are omitted as covered by section 1315 of this title.
 
-In subsection (b), the words “The Secretary concerned may defer” are substituted for the words “may, in the discretion of the Secretary, be deferred”. The words “determination of his” are inserted for clarity. The words “not more than” are substituted for the words “a period not to exceed”. The words “he would otherwise be required to retire under this section” are substituted for the words “retirement \* \* \* would otherwise be required”. The words “which is required”, “possible”, “proper”, and “a period of” are omitted as surplusage.
+In subsection (b), the words “The Secretary concerned may defer” are substituted for the words “may, in the discretion of the Secretary, be deferred”. The words “determination of his” are inserted for clarity. The words “not more than” are substituted for the words “a period not to exceed”. The words “he would otherwise be required to retire under this section” are substituted for the words “retirement would otherwise be required”. The words “which is required”, “possible”, “proper”, and “a period of” are omitted as surplusage.
 
-In subsection (c), the words “the Secretary concerned may defer the retirement” are substituted for the words “in the discretion of the Secretary \* \* \* be continued on active service”. The words “but not later than” are substituted for the words “but not beyond that date which is”.
+In subsection (c), the words “the Secretary concerned may defer the retirement” are substituted for the words “in the discretion of the Secretary be continued on active service”. The words “but not later than” are substituted for the words “but not beyond that date which is”.
 
 #### References in Text
 

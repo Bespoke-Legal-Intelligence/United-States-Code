@@ -20,7 +20,7 @@ In prescribing such regulations, the Secretary shall give full consideration to 
 
 #### (c) Allowable restrictions
 
-The regulations prescribed under subsection (a) of this section for any species or population stock of marine mammal may include, but are not limited to, restrictions with respect to—
+The regulations prescribed under subsection (a) of this section for any species or populationstock of marine mammal may include, but are not limited to, restrictions with respect to—
 
 &emsp;(1) the number of animals which may be taken or imported in any calendar year pursuant to permits issued under section 1374 of this title;
 

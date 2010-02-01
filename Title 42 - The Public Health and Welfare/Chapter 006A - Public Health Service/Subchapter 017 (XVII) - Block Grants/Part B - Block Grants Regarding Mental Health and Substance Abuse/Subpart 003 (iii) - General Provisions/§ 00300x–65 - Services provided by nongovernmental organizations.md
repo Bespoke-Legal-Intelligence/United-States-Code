@@ -42,7 +42,7 @@ The purposes of this section are—
 
 #### (2) Title VII exemption
 
-&emsp;The exemption of a religious organization provided under section 702 or 703(e)(2) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–1, 2000e–2(e)(2)) regarding employment practices shall not be affected by the religious organization's provision of services under, or receipt of funds from, any substance abuse program under this subchapter or subchapter III–A of this chapter.
+&emsp;The exemption of a religious organization provided under section 702 or 703(e)(2) of theCivil Rights Act of 1964 (42 U.S.C. 2000e–1, 2000e–2(e)(2)) regarding employment practices shall not be affected by the religious organization's provision of services under, or receipt of funds from, any substance abuse program under this subchapter or subchapter III–A of this chapter.
 
 #### (e) Rights of beneficiaries of assistance
 

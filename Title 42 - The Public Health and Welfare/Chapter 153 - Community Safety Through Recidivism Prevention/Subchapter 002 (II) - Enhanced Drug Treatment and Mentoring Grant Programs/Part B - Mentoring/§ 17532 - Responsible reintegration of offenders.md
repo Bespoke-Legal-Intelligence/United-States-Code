@@ -38,7 +38,7 @@ The Secretary of Labor may make grants to nonprofit organizations for the purpos
 
 &emsp;&emsp;(A) mentoring eligible offenders, including the provision of support, guidance, and assistance in the community and the workplace to address the challenges faced by such offenders;
 
-&emsp;&emsp;(B) providing job training and job placement services to eligible offenders, including work readiness activities, job referrals, basic skills remediation, educational services, occupational skills training, on-the-job training, work experience, and post-placementsupport, in coordination with the one-stop partners and one-stop operators (as such terms are defined in section 2801 of title 29) that provide services at any center operated under a one-stop delivery system established under section 2864(c) of title 29, businesses, and educational institutions; and
+&emsp;&emsp;(B) providing job training and job placement services to eligible offenders, including work readiness activities, job referrals, basic skills remediation, educational services, occupational skills training, on-the-job training, work experience, and post-placement support, in coordination with the one-stop partners and one-stop operators (as such terms are defined in section 2801 of title 29) that provide services at any center operated under a one-stop delivery system established under section 2864(c) of title 29, businesses, and educational institutions; and
 
 &emsp;&emsp;(C) providing outreach, orientation, intake, assessments, counseling, case management, and other transitional services to eligible offenders, including prerelease outreach and orientation.
 

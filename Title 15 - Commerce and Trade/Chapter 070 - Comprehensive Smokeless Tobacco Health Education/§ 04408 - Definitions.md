@@ -2,7 +2,7 @@
 
 For purposes of this chapter:
 
-&emsp;(1) The term “smokeless tobacco” means any finely cut, ground, powdered, or leaf tobacco that is intended to be placed in the oral cavity.
+&emsp;(1) The term “smokeless tobacco” has the meaning given such term by section 387(18) of title 21.
 
 &emsp;(2) The term “commerce” means (A) commerce between any State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, or Johnston Island and any place outside thereof; (B) commerce between points in any State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, or Johnston Island, but through any place outside thereof; or (C) commerce wholly within the District of Columbia, Guam, the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, or Johnston Island.
 
@@ -14,5 +14,9 @@ For purposes of this chapter:
 
 &emsp;(6) The term “Secretary” means the Secretary of Health and Human Services.
 
-(Pub. L. 99–252, §9, Feb. 27, 1986, 100 Stat. 34.)
+(Pub. L. 99–252, §9, Feb. 27, 1986, 100 Stat. 34; Pub. L. 111–31, div. A, title I, §101(c), June 22, 2009, 123 Stat. 1830.)
+
+#### Amendments
+
+2009—Par. (1). Pub. L. 111–31 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘smokeless tobacco’ means any finely cut, ground, powdered, or leaf tobacco that is intended to be placed in the oral cavity.”
 

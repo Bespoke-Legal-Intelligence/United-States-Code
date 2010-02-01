@@ -60,7 +60,7 @@
 
 #### (1) Timely application
 
-&emsp;To be eligible for assistance under this section, a producer shall submit an application for noninsured crop disaster assistance at a local office of the Department. The application shall be in such form, contain such information, and be submitted not later than 30 days before the beginning of the coverage period, as determined by the Secretary.
+&emsp;To be eligible for assistance under this section, a producer shall submit an applicationfor noninsured crop disaster assistance at a local office of the Department. The application shall be in such form, contain such information, and be submitted not later than 30 days before the beginning of the coverage period, as determined by the Secretary.
 
 #### (2) Records
 
@@ -74,7 +74,7 @@
 
 #### (1) Cause
 
-&emsp;To be eligible for assistance under this section, a producer of an eligible crop shall havesuffered a loss of a noninsured commodity as the result of a cause described in subsection (a)(3) of this section.
+&emsp;To be eligible for assistance under this section, a producer of an eligible crop shall have suffered a loss of a noninsured commodity as the result of a cause described in subsection (a)(3) of this section.
 
 #### (2) Assistance
 
@@ -154,7 +154,7 @@ The Secretary shall make available to a producer eligible for noninsured assista
 
 #### (5) Limitation on receipt of subsequent assigned yield
 
-&emsp;A producer who receives an assigned yield for the current year of a natural disaster because required production records were notsubmitted to the local office of the Department shall not be eligible for an assigned yield for the year of the next natural disaster unless the required production records of the previous 1 or more years (as applicable) are provided to the local office.
+&emsp;A producer who receives an assigned yield for the current year of a natural disaster because required production records were not submitted to the local office of the Department shall not be eligible for an assigned yield for the year of the next natural disaster unless the required production records of the previous 1 or more years (as applicable) are provided to the local office.
 
 #### (6) Yield variations due to different farming practices
 
@@ -238,7 +238,7 @@ The date of enactment of this paragraph, referred to in subsec. (a)(4)(A)(ii), (
 
 The Federal Crop Insurance Act, referred to in subsec. (a)(4)(B)(i)(II), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (i)(3)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitle Cof the Act is classified generally to subchapter III (§1961 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (i)(3)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitle C of the Act is classified generally to subchapter III (§1961 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 #### Codification
 

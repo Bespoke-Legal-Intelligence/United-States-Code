@@ -170,7 +170,7 @@ Security clearances.—Pursuant to existing procedures and requirements, the Sec
 
 &emsp;&emsp;&emsp;(iii)
 
-Unclassified summaries of classified evidence.—As part of a review conducted under this paragraph and upon the request of the individual adversely affected by the decision of the Secretary notto grant a waiver, the Secretary shall provide to the individual and reviewing administrative law judge, consistent with the procedures established under clause (i), an unclassified summary of any classified information upon which the decision of the Secretary was based.
+Unclassified summaries of classified evidence.—As part of a review conducted under this paragraph and upon the request of the individual adversely affected by the decision of the Secretary not to grant a waiver, the Secretary shall provide to the individual and reviewing administrative law judge, consistent with the procedures established under clause (i), an unclassified summary of any classified information upon which the decision of the Secretary was based.
 
 &emsp;&emsp;(E)
 

@@ -44,7 +44,7 @@ The Secretary shall provide technical assistance to States to implement the requ
 
 #### (e) Availability of incentive funding
 
-(1) The Secretary shall provide incentive funding to States to implement the requirements of this section, and to improve and implement State residential and commercial building energy efficiency codes, including increasing and verifying compliance with such codes. In determining whether, and in what amount, to provide incentive funding under this subsection, the Secretary shall consider the actions proposed by the State to implement the requirements of this section, to improve and implement residential and commercial building energy efficiency codes, and to promote building energy efficiency through the use of such codes.
+(1) The Secretary shall provide incentive funding to States to implement the requirements of this section, and to improve and implement State residential and commercial building energy efficiency codes, including increasing and verifying compliance with such codes. In determining whether, and in what amount, to provideincentive funding under this subsection, the Secretary shall consider the actions proposed by the State to implement the requirements of this section, to improve and implement residential and commercial building energy efficiency codes, and to promote building energy efficiency through the use of such codes.
 
 (2) Additional funding shall be provided under this subsection for implementation of a plan to achieve and document at least a 90 percent rate of compliance with residential and commercial building energy efficiency codes, based on energy performance—
 

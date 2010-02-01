@@ -18,7 +18,7 @@ The plan shall provide for the establishment by the Secretary of the National Wa
 
 #### (c) Membership of Board; representation of interests; appointment; nomination; eligibility of producers; importer representation
 
-(1) The plan shall provide that the Board shall be composed of representatives of producers and handlers, and one representative of the public, appointed by the Secretary from nominations submitted in accordance with this subsection. An equal number of representatives of producers and handlers shall be nominated by producers and handlers, and the representative of the public shall be nominated by the other members of the Board, in such manner as may be prescribed by the Secretary. If producers and handlers fail to select nominees for appointment to the Board, the Secretary may appoint persons on the basis of representation as provided for in the plan. If the Board fails to nominate a public representative, the Secretary shall choose such representative for appointment.
+(1) The plan shall provide that the Board shall be composed of representatives of producers andhandlers, and one representative of the public, appointed by the Secretary from nominations submitted in accordance with this subsection. An equal number of representatives of producers and handlers shall be nominated by producers and handlers, and the representative of the public shall be nominated by the other members of the Board, in such manner as may be prescribed by the Secretary. If producers and handlers fail to select nominees for appointment to the Board, the Secretary may appoint persons on the basis of representation as provided for in the plan. If the Board fails to nominate a public representative, the Secretary shall choose such representative for appointment.
 
 (2) A producer shall be eligible to serve on the Board only as a representative of handlers, and not as a representative of producers, if—
 
@@ -44,7 +44,7 @@ The plan shall provide that the Board shall prepare and submit to the Secretary 
 
 #### (f) Assessments; payments; notice
 
-The plan shall provide for the fixing by the Secretary of assessments to cover costs incurred under the budgets provided for in subsection (e) of this section, and under section 4907(f) of thistitle, based on the Board's recommendation as to the appropriate rate of assessment, and for the payment of the assessments to the Board..<sup>1</sup> In fixing or changing the rate of assessment pursuant to the plan, the Secretary shall comply with the notice and comment procedures established under section 553 of title 5. Sections 556 and 557 of such title shall not apply with respect to fixing or changing the rate of assessment.
+The plan shall provide for the fixing by the Secretary of assessments to cover costs incurred under the budgets provided for in subsection (e) of this section, and under section 4907(f) of this title, based on the Board's recommendation as to the appropriate rate of assessment, and for the payment of the assessments to the Board..<sup>1</sup> In fixing or changing the rate of assessment pursuant to the plan, the Secretary shall comply with the notice and comment procedures established under section 553 of title 5. Sections 556 and 557 of such title shall not apply with respect to fixing or changing the rate of assessment.
 
 #### (g) Scope of expenditures; restrictions; assessments on per-unit basis; importers
 
@@ -92,7 +92,7 @@ The plan shall provide that the Board shall have the authority to establish rule
 
 1993—Subsec. (c). Pub. L. 103–189, §§4, 8(d), designated existing provisions as par. (1), substituted “other members of the Board” for “producer and handler members of the Board” in second sentence, and added pars. (2) and (3).
 
-Subsec. (f). Pub. L. 103–189, §§5(1), 6, substituted “payment of the assessments to the Board.” for “collection of the assessments by the Board” and inserted at end “In fixing or changing the rate of assessment pursuant to the plan, the Secretary shall comply with the noticeand comment procedures established under section 553 of title 5. Sections 556 and 557 of such title shall not apply with respect to fixing or changing the rate of assessment.”
+Subsec. (f). Pub. L. 103–189, §§5(1), 6, substituted “payment of the assessments to the Board.” for “collection of the assessments by the Board” and inserted at end “In fixing or changing the rate of assessment pursuant to the plan, the Secretary shall comply with the notice and comment procedures established under section 553 of title 5. Sections 556 and 557 of such title shall not apply with respect to fixing or changing the rate of assessment.”
 
 Subsec. (g). Pub. L. 103–189, §8(k)(4)(A), substituted “the following:” for “that—” in introductory provisions.
 

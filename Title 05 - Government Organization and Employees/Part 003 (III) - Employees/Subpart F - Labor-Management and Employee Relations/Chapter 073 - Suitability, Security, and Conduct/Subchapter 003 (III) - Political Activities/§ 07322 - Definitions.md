@@ -28,7 +28,7 @@ For the purpose of this subchapter—
 
 #### Prior Provisions
 
-A prior section 7322, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, prohibited employees in Executive agencies or competitive service from using official authority or influence to coerce political actions of persons or bodies, prior to the general revision of this subchapter by Pub. L. 103–94.
+A prior section 7322, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, prohibited employees in Executive agenciesor competitive service from using official authority or influence to coerce political actions of persons or bodies, prior to the general revision of this subchapter by Pub. L. 103–94.
 
 #### Amendments
 

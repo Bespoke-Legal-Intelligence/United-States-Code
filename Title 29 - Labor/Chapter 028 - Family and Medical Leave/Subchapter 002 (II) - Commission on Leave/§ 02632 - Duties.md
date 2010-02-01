@@ -20,7 +20,7 @@ The Commission shall—
 
 &emsp;&emsp;(H) the impact on employers and employees of policies that provide temporary wage replacement during periods of family and medical leave.
 
-&emsp;(2) not later than 2 years after the date on which the Commission first meets, prepareand submit, to the appropriate Committees of Congress, a report concerning the subjects listed in paragraph (1).
+&emsp;(2) not later than 2 years after the date on which the Commission first meets, prepare and submit, to the appropriate Committees of Congress, a report concerning the subjects listed in paragraph (1).
 
 (Pub. L. 103–3, title III, §302, Feb. 5, 1993, 107 Stat. 23.)
 

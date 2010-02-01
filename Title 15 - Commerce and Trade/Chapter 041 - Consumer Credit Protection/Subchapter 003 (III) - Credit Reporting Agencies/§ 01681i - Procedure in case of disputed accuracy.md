@@ -10,7 +10,7 @@
 
 #### (B) Extension of period to reinvestigate
 
-&emsp;&emsp;Except as provided in subparagraph (C), the 30-day period described in subparagraph (A) may be extended for not more than 15 additional days if the consumer reporting agency receives information from the consumer during that 30-day period that is relevant to the reinvestigation.
+&emsp;&emsp;Except as provided in subparagraph (C), the 30-day period described in subparagraph (A) may be extended for not more than 15 additional days if the consumer reportingagency receives information from the consumer during that 30-day period that is relevant to the reinvestigation.
 
 #### (C) Limitations on extension of period to reinvestigate
 
@@ -62,7 +62,7 @@
 
 #### (i) Certification of accuracy of information
 
-&emsp;&emsp;&emsp;If any information is deleted from a consumer's file pursuant to subparagraph (A), the information may not be reinserted in the file by the consumer reporting agencyunless the person who furnishes the information certifies that the information is complete and accurate.
+&emsp;&emsp;&emsp;If any information is deleted from a consumer's file pursuant to subparagraph (A), the information may not be reinserted in the file by the consumer reporting agency unless the person who furnishes the information certifies that the information is complete and accurate.
 
 #### (ii) Notice to consumer
 
@@ -126,7 +126,7 @@ If the reinvestigation does not resolve the dispute, the consumer may file a bri
 
 #### (c) Notification of consumer dispute in subsequent consumer reports
 
-Whenever a statement of a dispute is filed, unless there is reasonable grounds to believe thatit is frivolous or irrelevant, the consumer reporting agency shall, in any subsequent consumer report containing the information in question, clearly note that it is disputed by the consumer and provide either the consumer's statement or a clear and accurate codification or summary thereof.
+Whenever a statement of a dispute is filed, unless there is reasonable grounds to believe that it is frivolous or irrelevant, the consumer reporting agency shall, in any subsequent consumer report containing the information in question, clearly note that it is disputed by the consumer and provide either the consumer's statement or a clear and accurate codification or summary thereof.
 
 #### (d) Notification of deletion of disputed information
 
@@ -138,7 +138,7 @@ Following any deletion of information which is found to be inaccurate or whose a
 
 &emsp;The Commission shall—
 
-&emsp;&emsp;(A) compile all complaints that it receives that a file of a consumer that is maintained by a consumer reporting agency described in section 1681a(p) of this title contains incomplete or inaccurate information, with respect to which, the consumer appears to have disputed the completeness or accuracy with the consumer reporting agency or otherwise utilized the procedures provided by subsection (a) of this section; and
+&emsp;&emsp;(A) compile all complaints that it receives that a file of a consumer that is maintainedby a consumer reporting agency described in section 1681a(p) of this title contains incomplete or inaccurate information, with respect to which, the consumer appears to have disputed the completeness or accuracy with the consumer reporting agency or otherwise utilized the procedures provided by subsection (a) of this section; and
 
 &emsp;&emsp;(B) transmit each such complaint to each consumer reporting agency involved.
 
@@ -194,7 +194,7 @@ Following any deletion of information which is found to be inaccurate or whose a
 
 &emsp;No provision of this subsection shall be construed as prohibiting a reseller from conducting a reinvestigation of a consumer dispute directly.
 
-(Pub. L. 90–321, title VI, §611, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132;amended Pub. L. 104–208, div. A, title II, §2409, Sept. 30, 1996, 110 Stat. 3009–439; Pub. L. 105–347, §6(5), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title III, §§313(a), 314(a), 316, 317, Dec. 4, 2003, 117 Stat. 1994–1996, 1998.)
+(Pub. L. 90–321, title VI, §611, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2409, Sept. 30, 1996, 110 Stat. 3009–439; Pub. L. 105–347, §6(5), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title III, §§313(a), 314(a), 316, 317, Dec. 4, 2003, 117 Stat. 1994–1996, 1998.)
 
 #### References in Text
 

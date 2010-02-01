@@ -24,7 +24,7 @@ The Congress further finds and declares that the future welfare of the Nation an
 
 #### (c) Decent housing, suitable living environment, and economic opportunities for persons of low and moderate income; community development activities which may be supported by Federal assistance
 
-The primary objective of this chapter and of the community development program of each grantee under this chapter is the development of viable urban communities, by providing decent housing and a suitable living environment and expanding economic opportunities, principally for persons of low and moderate income. Consistent with this primary objective, not less than 70 percent of the aggregate of the Federal assistance provided to States and units of general local government under section 5306 of this title and, if applicable, the funds received as a result of a guarantee or a grant under section 5308 of this title, shall be used for the support of activities that benefit persons of low and moderate income, and the Federal assistance provided in this chapter is for the support of community development activities which are directed toward the following specific objectives—
+The primary objective of this chapter and of the community development program of each grantee under this chapter is the development of viable urban communities, by providing decent housing and a suitable living environment and expanding economic opportunities, principallyfor persons of low and moderate income. Consistent with this primary objective, not less than 70 percent of the aggregate of the Federal assistance provided to States and units of general local government under section 5306 of this title and, if applicable, the funds received as a result of a guarantee or a grant under section 5308 of this title, shall be used for the support of activities that benefit persons of low and moderate income, and the Federal assistance provided in this chapter is for the support of community development activities which are directed toward the following specific objectives—
 
 &emsp;(1) the elimination of slums and blight and the prevention of blighting influences and the deterioration of property and neighborhood and community facilities of importance to the welfare of the community, principally persons of low and moderate income;
 
@@ -62,7 +62,7 @@ It is also the purpose of this chapter to further the development of a national 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c) and (d), was in the original “this title”, meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended, which enacted this chapter and amended sections 1452b, 1453, and 3311 of this title, section 1701u of Title 12, Banks and Banking, and section 711 of former Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsecs. (c) and (d), was in the original “this title”, meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, which enacted this chapter and amended sections 1452b, 1453, and 3311 of this title, section 1701u of Title 12, Banks and Banking, and section 711 of former Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -136,11 +136,11 @@ Pub. L. 97–35, title III, §300, Aug. 13, 1981, 95 Stat. 384, provided that: �
 
 #### Short Title of 1980 Amendment
 
-Section 1 of Pub. L. 96–399 provided: “That this Act \[enacting sections 1436a, 1436b, 1437<i>l</i>, 1437m, 1490j and 5320 of this title, sections 1735f–8 and 2809 to 2811 of Title 12, Banks and Banking, and sections 3601 to 3616 of Title 15, Commerce and Trade, amending this section, sections 1437c, 1437d, 1437f, 1437g, 1437k, 1439, 1441c, 1452b, 1471, 1472, 1480, 1483 to 1487, 1490a, 1490c to 1490e, 3535, 4127, 5302 to 5308, 5316 to 5318, 5401 to 5404, 5406 to 5416, 5419, 5421 to 5423, 5425, 6833, 6835, 8004, 8102, 8105, 8107, and 8124 of this title, sections 86a, 1425a, 1454, 1701q, 1701s, 1701u, 1701z–1, 1701z–11, 1703, 1706e, 1707, 1709, 1709–1, 1713, 1715d, 1715e, 1715h, 1715k, 1715<i>l</i> to 1715n, 1715u to 1715w, 1715y to 1715z–1, 1715z–1a, 1715z–5 to 1715z–7, 1715z–9, 1715z–10, 1717, 1720, 1721, 1723e, 1735c, 1735f–7a, 1748h–1, 1748h–2, 1749bb, 1749aaa and 2803 of Title 12 and sections 461 and 484b of former Title 40, Public Buildings, Property and Works, repealing section 2809 of Title 12, enacting provisions set out asnotes under sections 1472, 3535, 5302, 5313, 5401, 5424 and 8106 of this title, sections 86a, 1701z–6, 1703, 1715d, 1715z, 1717, 1723a, 1723e and 3305 of Title 12, section 3601 of Title 15, and section 461 of former Title 40, and amending provisions set out as notes under section 5401 of this title and sections 86a, 1701z–6, 1723e, and 1735f–4 of Title 12\] may be cited as the ‘Housing and Community Development Act of 1980’.”
+Section 1 of Pub. L. 96–399 provided: “That this Act \[enacting sections 1436a, 1436b, 1437<i>l</i>, 1437m, 1490j and 5320 of this title, sections 1735f–8 and 2809 to 2811 of Title 12, Banks and Banking, and sections 3601 to 3616 of Title 15, Commerce and Trade, amending this section, sections 1437c, 1437d, 1437f, 1437g, 1437k, 1439, 1441c, 1452b, 1471, 1472, 1480, 1483 to 1487, 1490a, 1490c to 1490e, 3535, 4127, 5302 to 5308, 5316 to 5318, 5401 to 5404, 5406 to 5416, 5419, 5421 to 5423, 5425, 6833, 6835, 8004, 8102, 8105, 8107, and 8124 of this title, sections 86a, 1425a, 1454, 1701q, 1701s, 1701u, 1701z–1, 1701z–11, 1703, 1706e, 1707, 1709, 1709–1, 1713, 1715d, 1715e, 1715h, 1715k, 1715<i>l</i> to 1715n, 1715u to 1715w, 1715y to 1715z–1, 1715z–1a, 1715z–5 to 1715z–7, 1715z–9, 1715z–10, 1717, 1720, 1721, 1723e, 1735c, 1735f–7a, 1748h–1, 1748h–2, 1749bb, 1749aaa and 2803 of Title 12 and sections 461 and 484b of former Title 40, Public Buildings, Property and Works, repealing section 2809 of Title 12, enacting provisions set out as notes under sections 1472, 3535, 5302, 5313, 5401, 5424 and 8106 of this title, sections 86a, 1701z–6, 1703, 1715d, 1715z, 1717, 1723a, 1723e and 3305 of Title 12, section 3601 of Title 15, and section 461 of former Title 40, and amending provisions set out as notes under section 5401 of this title and sections 86a, 1701z–6, 1723e, and 1735f–4 of Title 12\] may be cited as the ‘Housing and Community Development Act of 1980’.”
 
 #### Short Title of 1979 Amendment
 
-Pub. L. 96–153, §1, Dec. 21, 1979, 93 Stat. 1101, provided: “That this Act \[enacting section 1735f–7 of Title 12, Banks and Banking, section 1719a of Title 15, Commerce and Trade, and section 1437k of this title, amending section 5315 of Title 5, Government Organization and Employees, sections 90, 1426, 1431, 1451, 1452, 1455, 1464, 1701q, 1701s, 1701z–1, 1701z–11, 1703, 1706e, 1709, 1709–1, 1713, 1715e, 1715h, 1715k, 1715<i>l</i>, 1715m, 1715v, 1715y, 1715z, 1715z–1, 1715z–1a, 1715z–6, 1715z–7, 1715z–9, 1715z–10, 1717, 1728, 1735c, 1748h–1, 1748h–2, 1749bb, 1749aaa, 1749bbb, 1757, 1787, and 1821 of Title 12, sections 1701, 1702, 1703, 1708, 1709, 1711, 1715, and 1717 of Title 15, section 461 of former Title 40, Public Buildings, Property, and Works, and sections 1437a, 1437c, 1437d, 1437f, 1437g, 1439, 1452b, 1471, 1472, 1474, 1479, 1480, 1483, 1484, 1485, 1486, 1487, 1490a, 1490c, 3533a, 3541, 4026, 4056, 4127, 5302, 5303, 5304, 5306, 5318, 5419, 8107, 8123, 8124, and 8146 of this title, and enacting provisions set out as notes under sections 1701, 1701q, 1701s, 1703, 1709, 1723e, and 1728 of Title 12, section 1701 of Title 15, and sections 1437a, 1437f, and 5304 of this title\] may be cited as the ‘Housing and Community Development Amendments of 1979’.”
+Pub. L. 96–153, §1, Dec. 21, 1979, 93 Stat. 1101, provided: “That this Act \[enacting section 1735f–7 of Title 12, Banks and Banking, section 1719a of Title 15, Commerceand Trade, and section 1437k of this title, amending section 5315 of Title 5, Government Organization and Employees, sections 90, 1426, 1431, 1451, 1452, 1455, 1464, 1701q, 1701s, 1701z–1, 1701z–11, 1703, 1706e, 1709, 1709–1, 1713, 1715e, 1715h, 1715k, 1715<i>l</i>, 1715m, 1715v, 1715y, 1715z, 1715z–1, 1715z–1a, 1715z–6, 1715z–7, 1715z–9, 1715z–10, 1717, 1728, 1735c, 1748h–1, 1748h–2, 1749bb, 1749aaa, 1749bbb, 1757, 1787, and 1821 of Title 12, sections 1701, 1702, 1703, 1708, 1709, 1711, 1715, and 1717 of Title 15, section 461 of former Title 40, Public Buildings, Property, and Works, and sections 1437a, 1437c, 1437d, 1437f, 1437g, 1439, 1452b, 1471, 1472, 1474, 1479, 1480, 1483, 1484, 1485, 1486, 1487, 1490a, 1490c, 3533a, 3541, 4026, 4056, 4127, 5302, 5303, 5304, 5306, 5318, 5419, 8107, 8123, 8124, and 8146 of this title, and enacting provisions set out as notes under sections 1701, 1701q, 1701s, 1703, 1709, 1723e, and 1728 of Title 12, section 1701 of Title 15, and sections 1437a, 1437f, and 5304 of this title\] may be cited as the ‘Housing and Community Development Amendments of 1979’.”
 
 #### Short Title of 1978 Amendment
 
@@ -154,9 +154,15 @@ Section 1 of Pub. L. 95–128 provided that: “This Act \[enacting sections 354
 
 Section 1 of Pub. L. 93–383 provided: “That this Act \[enacting this chapter, sections 1701j–2, 1701<i>l</i>–1, 1701z–5, 1701z–6, 1706e, 1715z–9 to 1715z–11, and 1735f–3 to 1735f–5 of Title 12, Banks and Banking, section 803a of Title 20, Education, and sections 1437 to 1437j, 1438 to 1440, 1490e to 1490g, 4104a, and 5401 to 5426 of this title, amending sections 5315 and 5316 of Title 5, Government Organization and Employees, sections 24, 371, 1431, 1436, 1454, 1464, 1701q, 1701u, 1701x, 1701z–3, 1703, 1709, 1709–1, 1713, 1715e, 1715h, 1715k to 1715n, 1715v, 1715w, 1715y, 1715z, 1715z–1, 1715z–3, 1715z–6, 1715z–7, 1717, 1718, 1719, 1723a, 1735b, 1748h–1, 1748h–2, 1749bb, 1749aaa, 1749aaa–4, 1749aaa–5, 1757, 1759, 1761b, 1761d, 1763, 1772, 1782, 1786, and 1788 of Title 12, sections 1701 to 1703 of Title 15, Commerce and Trade, sections 801, 802, and 806 of Title 20, section 711 of former Title 31, Money and Finance, sections 460 and 461 of former Title 40, Public Buildings, Property, and Works, sections 1441a, 1441c, 1452b, 1453, 1471, 1472, 1474, 1476 to 1478, 1483, 1485, 1487, 1490, 1490a, 1490c, 1490d, 1586, 3311, 3533, 3604 to 3606, 3631, 4014, 4512, 4514 to 4516, 4519, and 4532 of this title, and sections 1602 and 1602a of former Title 49, Transportation, repealing sections 1411d and 1455a of this title, and enacting provisions set out as notes under this section, sections 1464, 1701q, 1715<i>l</i>, 1715z–1, 1716b, and 1723a of Title 12, section 1703 of Title 15, sections 1410, 1421b, 1437, 1437a, 1437f, 3532, and 5401 of this title, and section 1602a of former Title 49\] may be cited as the ‘Housing and Community Development Act of 1974’.”
 
+#### Acquisition of Tenant-Occupied Foreclosed Dwelling or Residential Real Property
+
+Pub. L. 111–5, div. A, title XII, Feb. 17, 2009, 123 Stat. 218, provided in part: “That in the case of any acquisition of a foreclosed upon dwelling or residential real property acquired after the date of enactment \[probably means the date of enactment of Pub. L. 111–5, Feb. 17, 2009\] with any amounts made available under this heading \[Community Development Fund\] or under division B, title III of the Housing and Economic Recovery Act of 2008 (Public Law 110–289) \[set out below\], the initial successor in interest in such property pursuant to the foreclosure shall assume such interest subject to: (1) the provision by such successor in interest of a notice to vacate to any bona fide tenant at least 90 days before the effective date of such notice; and (2) the rights of any bona fide tenant, as of the date of such notice of foreclosure: (A) under any bona fide lease entered into before the notice of foreclosure to occupy the premises until the end of the remaining term of the lease, except that a successor in interest may terminate a lease effective on the date of sale of the unit to a purchaser who will occupy the unit as a primary residence, subject to the receipt by the tenant of the 90-day notice under this paragraph; or (B) without a lease or with a lease terminable at will under State law, subject to the receipt by the tenant of the 90-day notice under this paragraph, except that nothing in this paragraph shall affect the requirements for termination of any Federal- or State-subsidized tenancy or of any State or local law that provides longer time periods or other additional protections for tenants: <i>Provided further</i>, That, for purposes of this paragraph, a lease or tenancy shall be considered bona fide only if: (1) the mortgagor under the contract is not the tenant; (2) the lease or tenancy was the result of an arms-length transaction; and (3) the lease or tenancy requires the receipt of rent that is not substantially less than fair market rent for the property: <i>Provided further</i>, That the recipient of any grant or loan from amounts made available under this heading or, after the date of enactment, under division B, title III of the Housing and Economic Recovery Act of 2008 (Public Law 110–289) may not refuse to lease a dwelling unit in housing assisted with such loan or grant to a holder of a voucher or certificate of eligibility under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f) because of the status of the prospective tenant as such a holder: <i>Provided further</i>, That in the case of any qualified foreclosed housing for which funds made available under this heading or, after the date of enactment, under division B, title III of the Housing and Economic Recovery Act of 2008 (Public Law 110–289) are used and in which a recipient of assistance under section 8(<i>o</i>) of the U.S. Housing Act of 1937 resides at the time of foreclosure, the initial successor in interest shall be subject to the lease and to the housing assistance payments contract for the occupied unit: <i>Provided further</i>, That vacating the property prior to sale shall not constitute good cause for termination of the tenancy unless the property is unmarketable while occupied or unless the owner or subsequent purchaser desires the unit for personal or family use: <i>Provided further</i>, That if a public housing agency is unable to make payments under the contract to the immediate successor in interest after foreclosures, due to (1) an action or inaction by the successor in interest, including the rejection of payments or the failure of the successor tomaintain the unit in compliance with section 8(<i>o</i>)(8) of the United States Housing Act of 1937 (42 U.S.C.1437f) or (2) an inability to identify the successor, the agency may use funds that would have been used to pay the rental amount on behalf of the family—(i) to pay for utilities that are the responsibility of the owner under the lease or applicable law, after taking reasonable steps to notify the owner that it intends to make payments to a utility provider in lieu of payments to the owner, except prior notification shall not be required in any case in which the unit will be or has been rendered uninhabitable due to the termination or threat of termination of service, in which case the public housing agency shall notify the owner within a reasonable time after making such payment; or (ii) for the family's reasonable moving costs, including security deposit costs: <i>Provided further</i>, That this paragraph shall not preempt any Federal, State or local law that provides more protections for tenants”.
+
 #### Emergency Assistance for the Redevelopment of Abandoned and Foreclosed Homes
 
-Pub. L. 110–289, div. B, title III, July 30, 2008, 122 Stat. 2850, provided that:
+Pub. L. 111–5, div. A, title XII, Feb. 17, 2009, 123 Stat. 218, provided in part: “That the recipient of any grant or loan from amounts made available under this heading \[Community Development Fund\] or, after the date of enactment under division B, title III of the Housing and Economic Recovery Act of 2008 \[Pub. L. 110–289, set out below\], may not refuse to lease a dwelling unit in housing with such loan or grant to a participant under section 8 of the United States Housing Act of 1937 (42 U.S.C 1437f) because of the status of the prospective tenant as such a participant”.
+
+Pub. L. 110–289, div. B, title III, July 30, 2008, 122 Stat. 2850, as amended by Pub. L. 111–5, div. A, title XII, Feb. 17, 2009, 123 Stat. 218; Pub. L. 111–22, div. A, title I, §105(a), May 20, 2009, 123 Stat. 1638, provided that:
 
 #### “SEC. 2301. EMERGENCY ASSISTANCE FOR THE REDEVELOPMENT OF ABANDONED AND FORECLOSED HOMES.
 
@@ -196,7 +202,7 @@ Use of Funds.—
 
 &emsp;“(1)
 
-In general.—Any State or unit of general local government that receives amounts pursuant to this section shall, not later than 18 months after the receipt of such amounts, use such amounts to purchaseand redevelop abandoned and foreclosed homes and residential properties.
+In general.—Any State or unit of general local government that receives amounts pursuant to this section shall, not later than 18 months after the receipt of such amounts, use such amounts to purchase and redevelop abandoned and foreclosed homes and residential properties.
 
 &emsp;“(2)
 
@@ -210,13 +216,17 @@ Priority.—Any State or unit of general local government that receives amounts 
 
 &emsp;“(3)
 
+Exception for certain states.—Each State that has received the minimum allocation of amounts pursuant to the requirement under section 2302 may, to the extent such State has fulfilled the requirements of paragraph (2), distribute any remaining amounts to areas with homeowners at risk of foreclosure or in foreclosure without regard to the percentage of home foreclosures in such areas.
+
+&emsp;“(4)
+
 Eligible uses.—Amounts made available under this section may be used to—
 
 &emsp;&emsp;“(A) establish financing mechanisms for purchase and redevelopment of foreclosed upon homes and residential properties, including such mechanisms as soft-seconds, loan loss reserves, and shared-equity loans for low- and moderate-income homebuyers;
 
 &emsp;&emsp;“(B) purchase and rehabilitate homes and residential properties that have been abandoned or foreclosed upon, in order to sell, rent, or redevelop such homes and properties;
 
-&emsp;&emsp;“(C) establish land banks for homes that have been foreclosed upon;
+&emsp;&emsp;“(C) establish and operate land banks for homes and residential properties that have been foreclosed upon\[;\]
 
 &emsp;&emsp;“(D) demolish blighted structures; and
 
@@ -238,41 +248,13 @@ Rehabilitation.—Any rehabilitation of a foreclosed-upon home or residential pr
 
 Sale of homes.—If an abandoned or foreclosed upon home or residential property is purchased, redeveloped, or otherwise sold to an individual as a primary residence, then such sale shall be in an amount equal to or less than the cost to acquire and redevelop or rehabilitate such home or property up to a decent, safe, and habitable condition.
 
-&emsp;“(4)
-
-Reinvestment of profits.—
-
-&emsp;&emsp;“(A)
-
-Profits from sales, rentals, and redevelopment.—
-
-&emsp;&emsp;&emsp;“(i) 5-
-
-year reinvestment period.—During the 5-year period following the date of enactment of this Act \[July 30, 2008\], any revenue generated from the sale, rental, redevelopment, rehabilitation, or any other eligible use that is in excess of the cost to acquire and redevelop (including reasonable development fees) or rehabilitate an abandoned or foreclosed upon home or residential property shall be provided to and used by the State or unit of general local government in accordance with, and in furtherance of, the intent and provisions of this section.
-
-&emsp;&emsp;&emsp;“(ii)
-
-Deposits in the treasury.—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I)
-
-Profits.—Upon the expiration of the 5-year period set forth under clause (i), any revenue generated from the sale, rental, redevelopment, rehabilitation, or any other eligible use that is in excess of the cost to acquire and redevelop (including reasonable development fees) or rehabilitate an abandoned or foreclosed upon home or residential property shall be deposited in the Treasury of the United States as miscellaneous receipts, unless the Secretary approves a request to use the funds for purposes under this Act \[see Short Title of 2008 Amendment note set out under section 1701 of Title 12, Banks and Banking\].
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
-
-Other amounts.—Upon the expiration of the 5-year period set forth under clause (i), any other revenue not described under subclause (I) generated from the sale, rental, redevelopment, rehabilitation, or any other eligible use of an abandoned or foreclosed upon home or residential property shall be deposited in the Treasury of the United States as miscellaneous receipts.
-
-&emsp;&emsp;“(B)
-
-Other revenues.—Any revenue generated under subparagraphs (A), (C) or (D) of subsection (c)(3) shall be provided to and used by the State or unit of general local government in accordance with, and in furtherance of, the intent and provisions of this section.
-
 “(e)
 
 Rules of Construction.—
 
 &emsp;“(1)
 
-In general.—Except as otherwise provided by this section, amounts appropriated, revenues generated, or amounts otherwise made available to States and units of general local government under this section shall be treated as though such funds were community development block grant funds under title I of the Housing and Community Development Act of 1974 (42 U.S.C. 5301 et seq.).
+In general.—Except as otherwise provided by this section, amounts appropriated, revenues generated, or amounts otherwise made available to States and units of general local government under this section shall be treated as though such funds were community development block grant fundsunder title I of the Housing and Community Development Act of 1974 (42 U.S.C. 5301 et seq.).
 
 &emsp;“(2)
 
@@ -345,6 +327,8 @@ Applicable Individuals Defined.—In this section, the term ‘applicable indivi
 #### “SEC. 2305. COUNSELING INTERMEDIARIES.
 
 “Notwithstanding any other provision of this Act \[see Short Title of 2008 Amendment note set out under section 1701 of Title 12\], the amount appropriated under section 2301(a) of this Act shall be $3,920,000,000 and the amount appropriated under section 2401 of this Act \[122 Stat. 2854\] shall be $180,000,000: <i>Provided</i>, That of the amount appropriated under section 2401 of this Act pursuant to this section, not less than 15 percent shall be provided to counseling organizations that target counseling services regarding loss mitigation to minority and low-income homeowners or provide such services in neighborhoods with high concentrations of minority and low-income homeowners: <i>Provided further</i>, That of amounts appropriated under such section 2401 $30,000,000 shall be used by the Neighborhood Reinvestment Corporation (referred to in this section as the ‘NRC’) to make grants to counseling intermediaries approved by the Department of Housing and Urban Development or the NRC to hire attorneys to assist homeowners who have legal issues directly related to the homeowner's foreclosure, delinquency or short sale. Such attorneys shall be capable of assisting homeowners of owner-occupied homes with mortgages in default, in danger of default, or subject to or at risk of foreclosure and who have legal issues that cannot be handled by counselors already employed by such intermediaries: <i>Provided further</i>, That of the amounts provided for in the prior provisos the NRC shall give priority consideration to counseling intermediaries and legal organizations that (1) provide legal assistance in the 100 metropolitan statistical areas (as defined by the Director of the Office of Management and Budget) with the highest home foreclosure rates, and (2) have the capacity to begin using the financial assistance within 90 days after receipt of the assistance: <i>Provided further</i>, That no funds provided under this Act shall be used to provide, obtain, or arrange on behalf of a homeowner, legal representation involving or for the purposes of civil litigation: <i>Provided further</i>, That the NRC, in awarding counseling grants under section 2401 of this Act, may consider, where appropriate, whether the entity has implemented a written plan for providing in-person counseling and for making contact, including personal contact, with defaulted mortgagors, for the purpose of providing counseling or providing information about available counseling.”
+
+\[Pub. L. 111–22, div. A, title I, §105(b), May 20, 2009, 123 Stat. 1638, provided that: “The amendment made by subsection (a) \[amending section 2301 of Pub. L. 110–289, set out above\] shall take effect as if enacted on the date of enactment of the Foreclosure Prevention Act of 2008 (Public Law 110–289) \[July 30, 2008\].”\]
 
 #### Income Eligibility for Home and CDBG Programs
 

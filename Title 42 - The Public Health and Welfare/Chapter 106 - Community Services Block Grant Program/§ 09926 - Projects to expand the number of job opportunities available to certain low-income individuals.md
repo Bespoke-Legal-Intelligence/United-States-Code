@@ -10,7 +10,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 (2) For purposes of this section, a nonprofit organization is any organization (including a community development corporation) exempt from taxation under section 501(a) of title 26 by reason of paragraph (3) or (4) of section 501(c) of such title.
 
-(3) A low-income individual eligible to participate in a project conducted under this section is any individual eligible to receive assistance under the program funded part <sup>1</sup> A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] of the State in which the individual resides and any other individual whose income level does not exceed 100 percent of the official poverty line as defined by the Office of Management andBudget and revised in accordance with section 9902(2) of this title.
+(3) A low-income individual eligible to participate in a project conducted under this section is any individual eligible to receive assistance under the program funded part <sup>1</sup> A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] of the State in which the individual resides and any other individual whose income level does not exceed 100 percent of the official poverty line as defined by the Office of Management and Budget and revised in accordance with section 9902(2) of this title.
 
 #### (c) Content of applications; selection priority
 

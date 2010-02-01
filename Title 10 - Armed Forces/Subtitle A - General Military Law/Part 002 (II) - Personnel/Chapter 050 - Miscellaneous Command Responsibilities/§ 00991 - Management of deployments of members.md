@@ -50,7 +50,7 @@ Deployment Defined.—(1) For the purposes of this section, a member of the arme
 
 (c)
 
-Recordkeeping.—The Secretary of each military department shall establish a system for tracking and recording the number of days that each member of the armed forces under the jurisdiction of the Secretary is deployed.
+Recordkeeping.—The Secretary of each military department shall establish a system fortracking and recording the number of days that each member of the armed forces under the jurisdiction of the Secretary is deployed.
 
 (d)
 
@@ -74,7 +74,7 @@ Inapplicability to Coast Guard.—This section does not apply to a member of the
 
 “(2) In this section, the term ‘high-deployment days member’ means a member who has been deployed 182 days or more out of the preceding 365 days.
 
-“(3) In paragraph (1)(B), the term ‘service chief’ means the Chief of Staff of the Army, the Chief ofNaval Operations, the Chief of Staff of the Air Force, or the Commandant of the Marine Corps.”
+“(3) In paragraph (1)(B), the term ‘service chief’ means the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, or the Commandant of the Marine Corps.”
 
 2001—Subsec. (b)(2). Pub. L. 107–107 amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
@@ -120,7 +120,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Family Care Plans and Deferment of Deployment of Single Parent or Dual Military Couples With Minor Dependents
 
-Pub. L. 110–181, div. A, title V, §586, Jan. 28, 2008, 122 Stat. 132, provided that: “The Secretary of Defense shall establish appropriate procedures to ensure that an adequate family care plan is in place for a member of the Armed Forces with minor dependents who is a single parent or whose spouse is also a member of the Armed Forces when the member may be deployed in an area for which imminent danger pay is authorized under section 310 of title 37, United States Code. Such procedures should allow the member to request a deferment of deployment due to unforeseen circumstances, and the request for such a deferment should be considered and responded to promptly.”
+Pub. L. 110–181, div. A, title V, §586, Jan. 28, 2008, 122 Stat. 132, provided that: “The Secretary of Defense shall establish appropriate procedures to ensure that an adequate family care plan is in place for a member of the Armed Forces with minor dependents who is a single parent or whose spouse is also a member of the Armed Forces when the member may be deployed in an area for which imminent danger pay is authorized under section 310 of title 37, United States Code. Such procedures should allow the member to request a deferment of deployment due to unforeseen circumstances,and the request for such a deferment should be considered and responded to promptly.”
 
 #### Policy on Concurrent Deployment to Combat Zones of Both Military Spouses of Military Families With Minor Children
 

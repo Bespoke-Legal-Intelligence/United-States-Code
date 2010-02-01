@@ -28,11 +28,21 @@ For purposes of section 1161 of this title, the term “continuation coverage”
 
 &emsp;&emsp;&emsp;In the case of a qualifying event not described in section 1163(2) or 1163(6) of this title, the date which is 36 months after the date of the qualifying event.
 
-#### (v) Medicare entitlement followed by qualifying event
+#### (v) Special rule for PBGC recipients
+
+&emsp;&emsp;&emsp;In the case of a qualifying event described in section 1163(2) of this title with respect to a covered employee who (as of such qualifying event) has a nonforfeitable right to a benefit any portion of which isto be paid by the Pension Benefit Guaranty Corporation under subchapter III, notwithstanding clause (i) or (ii), the date of the death of the covered employee, or in the case of the surviving spouse or dependent children of the covered employee, 24 months after the date of the death of the covered employee. The preceding sentence shall not require any period of coverage to extend beyond December 31, 2010.
+
+#### (vi) Special rule for TAA-eligible individuals
+
+&emsp;&emsp;&emsp;In the case of a qualifying event described in section 1163(2) of this title with respect to a covered employee who is (as of the date that the period of coverage would, but for this clause or clause (vii), otherwise terminate under clause (i) or (ii)) a TAA-eligible individual (as defined in section 1165(b)(4)(B) of this title), the period of coverage shall not terminate by reason of clause (i) or (ii), as the case may be, before the later of the date specified in such clause or the date on which such individual ceases to be such a TAA-eligible individual. The preceding sentence shall not require any period of coverage to extend beyond December 31, 2010.
+
+#### (vii) Medicare entitlement followed by qualifying event
 
 &emsp;&emsp;&emsp;In the case of a qualifying event described in section 1163(2) of this title that occurs less than 18 months after the date the covered employee became entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], the period of coverage for qualified beneficiaries other than the covered employee shall not terminate under this subparagraph before the close of the 36-month period beginning on the date the covered employee became so entitled.
 
-> &emsp;&emsp;In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\], to have been disabled at any time during the first 60 days of continuation coverage under this part, any reference in clause (i) or (ii) to 18 months is deemed a reference to 29 months (with respect to all qualified beneficiaries), but only if the qualified beneficiary has provided notice of such determination under section 1166(3) <sup>1</sup> of this title before the end of such 18 months.
+#### (viii) Special rule for disability
+
+&emsp;&emsp;&emsp;In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\], to have been disabled at any time during the first 60 days of continuation coverage under this part, any reference in clause (i) or (ii) to 18 months is deemed a reference to 29 months (with respect to all qualified beneficiaries), but only if the qualified beneficiary has provided notice of such determination under section 1166(3) <sup>1</sup> of this title before the end of such 18 months.
 
 #### (B) End of plan
 
@@ -40,7 +50,7 @@ For purposes of section 1161 of this title, the term “continuation coverage”
 
 #### (C) Failure to pay premium
 
-&emsp;&emsp;The date on which coverage ceases under the plan by reason of a failure to make timely payment of any premium required under the plan with respect to the qualified beneficiary. The payment of any premium (other than any payment referred to in the lastsentence of paragraph (3)) shall be considered to be timely if made within 30 days after the date due or within such longer period as applies to or under the plan.
+&emsp;&emsp;The date on which coverage ceases under the plan by reason of a failure to make timely payment of any premium required under the plan with respect to the qualified beneficiary. The payment of any premium (other than any payment referred to in the last sentence of paragraph (3)) shall be considered to be timely if made within 30 days after the date due or within such longer period as applies to or under the plan.
 
 #### (D) Group health plan coverage or medicare entitlement
 
@@ -70,19 +80,29 @@ For purposes of section 1161 of this title, the term “continuation coverage”
 
 #### (5) Conversion option
 
-&emsp;In the case of a qualified beneficiary whose period of continuation coverage expires under paragraph (2)(A), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the option of enrollment under a conversion health plan otherwise generally available under the plan.
+&emsp;In the case of a qualified beneficiary whose period of continuation coverage expires under paragraph (2)(A), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the optionof enrollment under a conversion health plan otherwise generally available under the plan.
 
-(Pub. L. 93–406, title I, §602, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 228; amended Pub. L. 99–509, title IX, §9501(b)(1)(B), (2)(B), Oct. 21, 1986, 100 Stat. 2076, 2077; Pub. L. 99–514, title XVIII, §1895(d)(1)(B), (2)(B), (3)(B), (4)(B), Oct. 22, 1986, 100 Stat. 2936–2938; Pub. L. 101–239, title VI, §6703(a), (b), title VII, §§7862(c)(3)(B), (4)(A), (5)(B), 7871(c), Dec. 19, 1989, 103 Stat. 2296, 2432, 2433, 2435; Pub. L. 104–188, title I, §1704(g)(1)(B), Aug. 20, 1996, 110 Stat. 1880; Pub. L. 104–191, title IV, §421(b)(1), Aug. 21, 1996, 110 Stat. 2088.)
+(Pub. L. 93–406, title I, §602, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 228; amended Pub. L. 99–509, title IX, §9501(b)(1)(B), (2)(B), Oct. 21, 1986, 100 Stat. 2076, 2077; Pub. L. 99–514, title XVIII, §1895(d)(1)(B), (2)(B), (3)(B), (4)(B), Oct. 22, 1986, 100 Stat. 2936–2938; Pub. L. 101–239, title VI, §6703(a), (b), title VII, §§7862(c)(3)(B), (4)(A), (5)(B), 7871(c), Dec. 19, 1989, 103 Stat. 2296, 2432, 2433, 2435; Pub. L. 104–188, title I, §1704(g)(1)(B), Aug. 20, 1996, 110 Stat. 1880; Pub. L. 104–191, title IV, §421(b)(1), Aug. 21, 1996, 110 Stat. 2088; Pub. L. 111–5, div. B, title I, §1899F(a), Feb. 17, 2009, 123 Stat. 428.)
 
 #### References in Text
 
-The Social Security Act, referred to in par. (2)(A), (D)(ii), (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in par. (2)(A)(vii), (viii), (D)(ii), (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 1166(3) of this title, referred to in par. (2)(A), was redesignated as section 1166(a)(3) of this title by Pub. L. 101–239, title VII, §7891(d)(1)(A)(ii)(I), Dec. 19, 1989, 103 Stat. 2445.
+Section 1166(3) of this title, referred to in par. (2)(A)(viii), was redesignated as section 1166(a)(3) of this title by Pub. L. 101–239, title VII, §7891(d)(1)(A)(ii)(I), Dec. 19, 1989, 103 Stat. 2445.
 
-The Public Health Service Act, referred to in par. (2)(D)(i), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in par. (2)(D)(i), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
+
+2009—Par. (2)(A)(v). Pub. L. 111–5, §1899F(a)(3), added cl. (v). Former cl. (v) redesignated (vii).
+
+Pub. L. 111–5, §1899F(a)(1), transferred cl. (v) to appear after cl. (iv). See 1989 Amendment note below.
+
+Par. (2)(A)(vi). Pub. L. 111–5, §1899F(a)(3), added cl. (vi). Former cl. (vi) redesignated (viii).
+
+Pub. L. 111–5, §1899F(a)(2), designated concluding provisions as cl. (vi) and inserted heading.
+
+Par. (2)(A)(vii), (viii). Pub. L. 111–5, §1899F(a)(3), redesignated cls. (v) and (vi) as (vii) and (viii), respectively.
 
 1996—Par. (2)(A). Pub. L. 104–191, §421(b)(1)(A), in closing provisions, substituted “In the case of a qualified beneficiary” for “In the case of an individual” and “at any time during the first 60 days of continuation coverage under this part” for “at the time of a qualifying event described in section 1163(2) of this title”, struck out “with respect to such event” after “(ii) to 18 months”, and inserted “(with respect to all qualified beneficiaries)” after “29 months”.
 
@@ -100,7 +120,7 @@ Par. (2)(E). Pub. L. 104–191, §421(b)(1)(C), substituted “at any time durin
 
 Par. (2)(A)(iii). Pub. L. 101–239, §7871(c), substituted “described in section 1163(6)” for “described in 1163(6)”.
 
-Par. (2)(A)(v). Pub. L. 101–239, §7862(c)(5)(B), which directed the insertion of cl. (v) “at the end” of par. (2)(A), was executed by inserting cl. (v) after cl. (iv), to reflect the probable intent of Congress.
+Par. (2)(A)(v). Pub. L. 101–239, §7862(c)(5)(B), added cl. (v) after concluding provisions inserted by Pub. L. 101–239, §6703(a)(1). See above.
 
 Par. (2)(D). Pub. L. 101–239, §7862(c)(3)(B), substituted “entitlement” for “eligibility” in heading and inserted “which does not contain any exclusion or limitation with respect to any preexisting condition of such beneficiary” after “or otherwise)” in cl. (i).
 
@@ -135,6 +155,12 @@ Par. (2)(D). Pub. L. 99–514, §1895(d)(4)(B)(ii), (iii), substituted “Group 
 Par. (2)(D)(ii). Pub. L. 99–509, §9501(b)(2)(B), inserted “in the case of a qualified beneficiary other than a qualified beneficiary described in section 1167(3)(C) of this title” before “entitled”.
 
 Par. (2)(E). Pub. L. 99–514, §1895(d)(4)(B)(i), struck out subpar. (E), remarriage of spouse, which read as follows: “In the case of an individual who is a qualified beneficiary by reason of being the spouse of a covered employee, the date on which the beneficiary remarries and becomes covered under a group health plan.”
+
+#### Effective Date of 2009 Amendment
+
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
+
+Amendment by Pub. L. 111–5 applicable to periods of coverage which would (without regard to amendment by Pub. L. 111–5) end on or after Feb. 17, 2009, see section 1899F(d) of Pub. L. 111–5, set out as a note under section 4980B of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1996 Amendments
 

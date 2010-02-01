@@ -62,7 +62,7 @@ Rules and forms governing proceedings under sections 2254 and 2255 of this title
 
 ### <b>RULES GOVERNING SECTION 2255 PROCEEDINGS FOR THE UNITED STATES DISTRICT COURTS</b>
 
-#### (<i>Effective February 1, 1977, as amended to January 5, 2009)</i>
+#### (<i>Effective February 1, 1977, as amended to February 1, 2010)</i>
 
 Rule
 
@@ -108,7 +108,7 @@ Powers of a Magistrate Judge.
 
 11\.
 
-Time to Appeal.
+Certificate of Appealability; Time to Appeal.
 
 12\.
 
@@ -508,7 +508,7 @@ Determining Whether to Hold a Hearing. If the motion is not dismissed, the judge
 
 (b)
 
-Reference to a Magistrate Judge. A judge may, under 28 U.S.C. §636(b), refer the motion to a magistrate judge to conduct hearings and to file proposed findings of fact and recommendations for disposition. When they are filed, the clerk must promptly serve copies of the proposed findings and recommendations on all parties. Within 10 days after being served, a party may file objections as provided by local court rule. The judge must determine de novo any proposed finding or recommendation to which objection is made. The judge may accept, reject, or modify any proposed finding or recommendation.
+Reference to a Magistrate Judge. A judge may, under 28 U.S.C. §636(b), refer the motion to a magistrate judge to conduct hearings and to file proposed findings of fact and recommendations for disposition. When they are filed, the clerk must promptly serve copies of the proposed findings and recommendations on all parties. Within 14 days after being served, a party may file objections as provided by local court rule. The judge must determine de novo any proposed finding or recommendation to which objection is made. The judge may accept, reject, or modify any proposed finding or recommendation.
 
 (c)
 
@@ -518,7 +518,7 @@ Appointing Counsel; Time of Hearing. If an evidentiary hearing is warranted, the
 
 Producing a Statement. Federal Rule of Criminal Procedure 26.2(a)–(d) and (f) applies at a hearing under this rule. If a party does not comply with a Rule 26.2(a) order to produce a witness's statement, the court must not consider that witness's testimony.
 
-(As amended Pub. L. 94–426, §2(6), Sept. 28, 1976, 90 Stat. 1335; Pub. L. 94–577, §2(a)(2), (b)(2), Oct. 21, 1976, 90 Stat. 2730, 2731; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 26, 2004, eff. Dec. 1, 2004.)
+(As amended Pub. L. 94–426, §2(6), Sept. 28, 1976, 90 Stat. 1335; Pub. L. 94–577, §2(a)(2), (b)(2), Oct. 21, 1976, 90 Stat. 2730, 2731; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 26, 2004, eff. Dec. 1, 2004; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 #### Advisory Committee Note
 
@@ -535,6 +535,10 @@ The language of Rule 8 has been amended as part of general restyling of the rule
 The requirement in current Rule 8(b)(2) that a copy of the magistrate judge's findings must be promptly mailed to all parties has been changed in revised Rule 8(b) to require that copies of those findings be served on all parties. As used in this rule, “service” means service consistent with Federal Rule of Civil Procedure 5(b), which allows mailing the copies.
 
 <i>Changes Made After Publication and Comments</i>. The Committee made no changes to Rule 8, as published for public comment.
+
+#### Committee Notes on Rules—2009 Amendment
+
+The time set in the former rule at 10 days has been revised to 14 days. See the Committee Note to Federal Rules of Criminal Procedure 45(a).
 
 #### References in Text
 
@@ -600,7 +604,7 @@ There have been holdings by some courts that a delay in filing a §2255 motion o
 
 A requirement that the movant display reasonable diligence in filing a §2255 motion has been adopted by some courts dealing with delayed motions. The court in <i>United States v. Moore</i>, 166 F.2d 102 (7th Cir. 1948), cert. denied, 334 U.S. 849 (1948), did this, again for equitable reasons.
 
-&emsp;\[W\]e agree with the District Court that the petitioner has too long slept upon his rights. \* \* \* \[A\]pparently there is no limitation of time within which \* \* \* a motion to vacate may be filed, except that an applicant must show reasonable diligence in presenting his claim. \* \* \*
+&emsp;\[W\]e agree with the District Court that the petitioner has too long slept upon his rights. \* \* \* \[A\]pparently there is no limitation of time within which \* \* \* a motion to vacate may be filed, exceptthat an applicant must show reasonable diligence in presenting his claim. \* \* \*
 
 &emsp;The reasons which support the rule requiring diligence seem obvious. \* \* \* Law enforcement officials change, witnesses die, memories grow dim. The prosecuting tribunal is put to a disadvantage if an unexpected retrial should be necessary after long passage of time.
 
@@ -666,11 +670,17 @@ The language of Rule 10 has been amended as part of general restyling of the rul
 
 1976—Pub. L. 94–426 inserted “, and to the extent the district court has established standards and criteria for the performance of such duties,” after “rule of the district court”.
 
-### Rule 11. Time to Appeal
+### Rule 11. Certificate of Appealability; Time to Appeal
 
-Federal Rule of Appellate Procedure 4(a) governs the time to appeal an order entered under these rules. These rules do not extend the time to appeal the original judgment of conviction.
+(a)
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 26, 2004, eff. Dec. 1, 2004.)
+Certificate of Appealability. The district court must issue or deny a certificate of appealability when it enters a final order adverse to the applicant. Before entering the final order, the court may direct the parties to submit arguments on whether a certificate should issue. If the court issues a certificate, the court must state the specific issue or issues that satisfy the showing required by 28 U.S.C. §2253(c)(2). If the court denies a certificate, a party may not appeal the denial but may seek a certificate from the court of appeals under Federal Rule of Appellate Procedure 22. A motion to reconsider a denial does not extend the time to appeal.
+
+(b)
+
+Time to Appeal. Federal Rule of Appellate Procedure 4(a) governs the time to appeal an order entered under these rules. A timely notice of appeal must be filed even if the district court issues a certificate of appealability. These rules do not extend the time to appeal the original judgment of conviction.
+
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 26, 2004, eff. Dec. 1, 2004; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 #### Advisory Committee Note
 
@@ -678,15 +688,25 @@ Rule 11 is intended to make clear that, although a §2255 action is a continuati
 
 #### 1979 Amendment
 
-Prior to the promulgation of the Rules Governing Section 2255 Proceedings, the courts consistently held that the time for appeal in a section 2255 case is as provided in Fed.R.App.P. 4(a), that is, 60 days when the government is a party, rather than as provided in appellate rule 4(b), which says that the time is 10 days in criminal cases. This result has often been explained on the ground that rule 4(a) has to do with civil cases and that “proceedings under section 2255 are civil in nature.” E.g., <i>Rothman v. United States</i>, 508 F.2d 648 (3d Cir. 1975). Because the new section 2255 rules are based upon the premise “that a motion under §2255 is a further step in the movant's criminal case rather than a separate civil action,” see Advisory Committee Note to rule 1, the question has arisen whether the new rules have the effect of shortening the time for appeal to that provided in appellate rule 4(b). A sentence has been added to rule 11 in order to make it clear that this is not the case.
+Prior to the promulgation of the Rules Governing Section 2255 Proceedings, the courts consistently heldthat the time for appeal in a section 2255 case is as provided in Fed.R.App.P. 4(a), that is, 60 days when the government is a party, rather than as provided in appellate rule 4(b), which says that the time is 10 days in criminal cases. This result has often been explained on the ground that rule 4(a) has to do with civil cases and that “proceedings under section 2255 are civil in nature.” E.g., <i>Rothman v. United States</i>, 508 F.2d 648 (3d Cir. 1975). Because the new section 2255 rules are based upon the premise “that a motion under §2255 is a further step in the movant's criminal case rather than a separate civil action,” see Advisory Committee Note to rule 1, the question has arisen whether the new rules have the effect of shortening the time for appeal to that provided in appellate rule 4(b). A sentence has been added to rule 11 in order to make it clear that this is not the case.
 
-Even though section 2255 proceedings are a further step in the criminal case, the added sentence correctly states current law. In <i>United States v. Hayman</i>, 342 U.S. 205 (1952), the Supreme Court noted that such appeals “are governed by the civil rules applicable to appeals from final judgments in habeas corpus actions.” In support, the Court cited <i>Mercado v. United States</i>, 183 F.2d 486 (1st Cir. 1950), a case rejecting the argument that because §2255 proceedings are criminal in nature the time for appeal is only 10 days. The <i>Mercado</i> court concluded that the situation was governed by that part of 28 U.S.C. §2255 which reads: “An appeal may be taken to the court of appeals from the order entered on themotion as from a final judgment on application for a writ of habeas corpus.” Thus, because appellate rule 4(a) is applicable in habeas cases, it likewise governs in §2255 cases even though they are criminal in nature.
+Even though section 2255 proceedings are a further step in the criminal case, the added sentence correctly states current law. In <i>United States v. Hayman</i>, 342 U.S. 205 (1952), the Supreme Court noted that such appeals “are governed by the civil rules applicable to appeals from final judgments in habeas corpus actions.” In support, the Court cited <i>Mercado v. United States</i>, 183 F.2d 486 (1st Cir. 1950), a case rejecting the argument that because §2255 proceedings are criminal in nature the time for appeal is only 10 days. The <i>Mercado</i> court concluded that the situation was governed by that part of 28 U.S.C. §2255 which reads: “An appeal may be taken to the court of appeals from the order entered on the motion as from a final judgment on application for a writ of habeas corpus.” Thus, because appellate rule 4(a) is applicable in habeas cases, it likewise governs in §2255 cases even though they are criminal in nature.
 
 #### Committee Notes on Rules—2004 Amendment
 
 The language of Rule 11 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended.
 
 <i>Changes Made After Publication and Comments</i>. The Committee made no changes to Rule 11, as published.
+
+#### Committee Notes on Rules—2009 Amendment
+
+<i>Subdivision (a)</i>. As provided in 28 U.S.C. §2253(c), an applicant may not appeal to the court of appeals from a final order in a proceeding under §2255 unless a judge issues a COA, identifying the specific issues for which the applicant has made a substantial showing of a denial of constitutional right. New Rule 11(a) makes the requirements concerning certificates of appealability more prominent by adding and consolidating them in the appropriate rule of the Rules Governing §2255 Proceedings for the United States District Courts. Rule 11(a) also requires the district judge to grant or deny the certificate at the time a final order is issued. <i>See</i> 3d Cir. R. 22.2, 111.3. This will ensure prompt decision making when the issues are fresh, rather than postponing consideration of the certificate until after a notice of appeal is filed. These changes will expedite proceedings, avoid unnecessary remands, and help to inform the applicant's decision whether to file a notice of appeal.
+
+<i>Subdivision (b)</i>. The amendment is designed to make it clear that the district court's grant of a COA does not eliminate the need to file a notice of appeal.
+
+<i>Changes Made to Proposed Amendment Released for Public Comment</i>. In response to public comments, a sentence was added stating that prior to the entry of the final order the district court may direct the parties to submit arguments on whether or not a certificate should issue. This allows a court in complex cases (such as death penalty cases with numerous claims) to solicit briefing that might narrow the issues for appeal. For purposes of clarification, two sentences were added at the end of subdivision (a) stating that (1) although the district court's denial of a certificate is not appealable, a certificate may be sought in the court of appeals, and (2) a motion for reconsideration of a denial of a certificate does not extend the time to appeal. Finally, a sentence indicating that notice of appeal must be filed even if a COA is issued was added to subdivision (b).
+
+Minor changes were also made to conform to style conventions.
 
 #### References in Text
 

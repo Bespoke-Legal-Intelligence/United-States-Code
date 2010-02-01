@@ -78,7 +78,7 @@
 
 &emsp;&emsp;(C) Dissemination of drug and violence prevention information to schools and the community.
 
-&emsp;&emsp;(D) Professional development and training for, and involvement of, school personnel, pupil services personnel, parents, and interested community members in prevention, education, early identification and intervention, mentoring, or rehabilitation referral, as related to drug and violence prevention.
+&emsp;&emsp;(D) Professional development and training for, and involvement of, school personnel,pupil services personnel, parents, and interested community members in prevention, education, early identification and intervention, mentoring, or rehabilitation referral, as related to drug and violence prevention.
 
 &emsp;&emsp;(E) Drug and violence prevention activities that may include the following:
 

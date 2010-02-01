@@ -1,5 +1,7 @@
 ### SUBCHAPTER II—SCENIC AREAS
 
+<i><sup>1</sup></i><i> So in original. Probably should be “protects”.</i>
+
 
 ---
 
@@ -55,3 +57,5 @@
 - [&sect; 00546a&#8211;3 - Minerals](%C2%A7%2000546a%E2%80%933%20-%20Minerals.md)
 - [&sect; 00546a&#8211;4 - Acquisition](%C2%A7%2000546a%E2%80%934%20-%20Acquisition.md)
 - [&sect; 00546a&#8211;5 - Authorization of appropriations](%C2%A7%2000546a%E2%80%935%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00546b - Seng Mountain and Bear Creek Scenic Areas, Jefferson National Forest, Virginia](%C2%A7%2000546b%20-%20Seng%20Mountain%20and%20Bear%20Creek%20Scenic%20Areas%2C%20Jefferson%20National%20Forest%2C%20Virginia.md)
+- [&sect; 00546b&#8211;1 - Maps and boundary descriptions](%C2%A7%2000546b%E2%80%931%20-%20Maps%20and%20boundary%20descriptions.md)

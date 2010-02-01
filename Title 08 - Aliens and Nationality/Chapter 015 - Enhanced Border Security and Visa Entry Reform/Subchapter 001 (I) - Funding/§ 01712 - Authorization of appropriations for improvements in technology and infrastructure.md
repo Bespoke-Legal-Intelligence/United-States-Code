@@ -50,7 +50,7 @@ Additional Requirements.—
 
 &emsp;“(1)
 
-In general.—The pilot program shall include the utilization of a variety of ground surveillancetechnologies in a variety of topographies and areas (including both populated and unpopulated areas) on both the northern and southern borders of the United States in order to evaluate, for a range of circumstances—
+In general.—The pilot program shall include the utilization of a variety of ground surveillance technologies in a variety of topographies and areas (including both populated and unpopulated areas) on both the northern and southern borders of the United States in order to evaluate, for a range of circumstances—
 
 &emsp;&emsp;“(A) the significance of previous experiences with such technologies in homeland security or critical infrastructure protection for the utilization of such technologies for border security;
 

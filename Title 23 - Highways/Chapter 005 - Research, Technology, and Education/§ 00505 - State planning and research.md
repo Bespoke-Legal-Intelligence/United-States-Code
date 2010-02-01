@@ -36,7 +36,7 @@ Nonapplicability of assessment.—Funds expended under paragraph (1) shall not b
 
 (c)
 
-Federal Share.—The Federal share of the cost of a project carried out using funds subjectto subsection (a) shall be 80 percent unless the Secretary determines that the interests of the Federal-aid highway program would be best served by decreasing or eliminating the non-Federal share.
+Federal Share.—The Federal share of the cost of a project carried out using funds subject to subsection (a) shall be 80 percent unless the Secretary determines that the interests of the Federal-aid highway program would be best served by decreasing or eliminating the non-Federal share.
 
 (d)
 

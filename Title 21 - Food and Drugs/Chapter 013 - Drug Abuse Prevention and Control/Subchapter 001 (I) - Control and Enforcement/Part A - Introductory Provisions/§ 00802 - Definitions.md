@@ -418,7 +418,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(ii) nonpharmacy practitioners who are registered under section 823(f) of this title and whose activities are authorized by that registration;
 
-&emsp;&emsp;(iii) any hospital or other medical facility that is operated by an agency of the UnitedStates (including the Armed Forces), provided such hospital or other facility is registered under section 823(f) of this title;
+&emsp;&emsp;(iii) any hospital or other medical facility that is operated by an agency of the United States (including the Armed Forces), provided such hospital or other facility is registered under section 823(f) of this title;
 
 &emsp;&emsp;(iv) a health care facility owned or operated by an Indian tribe or tribal organization, only to the extent such facility is carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\];
 
@@ -536,7 +536,7 @@ This subchapter, referred to in introductory provisions and in pars. (34), (35),
 
 Subchapter II of this chapter, referred to in par. (39)(A)(iii), (vi), was in the original “title III”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in pars. (39)(A)(iv) and (45)(A)(ii), is act June 25, 1938,ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in pars. (39)(A)(iv) and (45)(A)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in pars. (52)(B)(iv) and (54)(C)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
@@ -726,7 +726,7 @@ Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808,
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–310, div. B, title XXXVI, §3622(b), Oct. 17, 2000, 114 Stat. 1231, provided that: “The amendmentsmade by subsection (a) \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Oct. 17, 2000\].”
+Pub. L. 106–310, div. B, title XXXVI, §3622(b), Oct. 17, 2000, 114 Stat. 1231, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Oct. 17, 2000\].”
 
 #### Effective Date of 1997 Amendment
 
@@ -818,7 +818,7 @@ In general.—Notwithstanding section 401(d) of the Comprehensive Methamphetamin
 
 &emsp;“(2)
 
-Due process.—The Attorney General shall establish the single-transaction limit under paragraph (1) only after notice, comment, and an informal hearing.”
+Due process.—The Attorney General shall establish the single-transaction limit under paragraph\(1) only after notice, comment, and an informal hearing.”
 
 #### Regulation of Retail Sales of Certain Precursor Chemicals; Effect on Thresholds; Combination Ephedrine Products
 

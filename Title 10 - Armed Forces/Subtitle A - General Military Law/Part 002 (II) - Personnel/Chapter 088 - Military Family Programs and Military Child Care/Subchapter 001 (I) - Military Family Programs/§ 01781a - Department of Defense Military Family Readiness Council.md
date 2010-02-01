@@ -12,11 +12,17 @@ Members.—(1) The Council shall consist of the following members:
 
 &emsp;(B) One representative of each of the Army, Navy, Marine Corps, and Air Force, who shall be appointed by the Secretary of Defense.
 
-&emsp;(C) Three individuals appointed by the Secretary of Defense from among representatives of military family organizations, including military family organizations of families of members of the regular components and of families of members of the reserve components.
+&emsp;(C) In addition to the representatives appointed under subparagraph (B)—
 
-&emsp;(D) In addition to the representatives appointed under subparagraph (B), the senior enlisted advisors of the Army, Navy, Marine Corps, and Air Force, or the spouse of a senior enlisted member from each of the Army, Navy, Marine Corps, and Air Force.
+&emsp;&emsp;(i) one representative from the Army National Guard or Air National Guard, who shall be appointed by the Secretary of Defense; and
 
-(2) The term on the Council of the members appointed under paragraph (1)(C) shall be three years.
+&emsp;&emsp;(ii) one representative from the Army Reserve, Navy Reserve, Marine Corps Reserve, or Air Force Reserve, who shall be appointed by the Secretary of Defense.
+
+&emsp;(D) Three individuals appointed by the Secretary of Defense from among representatives of military family organizations, including military family organizations of families of members of the regular components and of families of members of the reserve components.
+
+&emsp;(E) In addition to the representatives appointed under subparagraphs (B) and (C), the senior enlisted advisors of the Army, Navy, Marine Corps, and Air Force, or the spouse of a senior enlisted member from each of the Army, Navy, Marine Corps, and Air Force.
+
+(2) The term on the Council of the members appointed under subparagraphs (C) and (D) of paragraph (1) shall be three years. Representation on the Council required by clause (i) of paragraph (1)(C) shall rotate between the Army National Guard and Air National Guard. Representation required by clause (ii) of such paragraph shall rotate among the reserve components specified in such clause.
 
 (c)
 
@@ -42,5 +48,11 @@ Annual Reports.—(1) Not later than February 1 each year, the Council shall sub
 
 &emsp;(B) Recommendations on actions to be taken to improve the capability of the military family readiness programs and activities of the Department of Defense to meet the needs and requirements of military families, including actions relating to the allocation of funding and other resources to and among such programs and activities.
 
-(Added Pub. L. 110–181, div. A, title V, §581(a), Jan. 28, 2008, 122 Stat. 120.)
+(Added Pub. L. 110–181, div. A, title V, §581(a), Jan. 28, 2008, 122 Stat. 120; amended Pub. L. 111–84, div. A, title V, §562, Oct. 28, 2009, 123 Stat. 2303.)
+
+#### Amendments
+
+2009—Subsec. (b)(1)(C) to (E). Pub. L. 111–84, §562(a), added subpar. (C), redesignated former subpars. (C) and (D) as (D) and (E), respectively, and substituted “subparagraphs (B) and (C)” for “subparagraph (B)” in subpar. (E).
+
+Subsec. (b)(2). Pub. L. 111–84, §562(b), substituted “subparagraphs (C) and (D) of paragraph (1)” for “paragraph (1)(C)” and inserted at end “Representation on the Council required by clause (i) of paragraph (1)(C) shall rotate between the Army National Guard and Air National Guard. Representation required by clause (ii) of such paragraph shall rotate among the reserve components specified in such clause.”
 

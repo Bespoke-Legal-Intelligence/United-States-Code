@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(C) provide a preliminary report to Congress within nine months following February 25, 1978;
 
-&emsp;&emsp;(D) include the presentation of a detailed plan for the implementation of solar photovoltaic energy systems for power generationat specific sites in Federal Government agencies to Congress within twelve months following February 25, 1978;
+&emsp;&emsp;(D) include the presentation of a detailed plan for the implementation of solar photovoltaic energy systems for power generation at specific sites in Federal Government agencies to Congress within twelve months following February 25, 1978;
 
 &emsp;(2) initiate and conduct a study of the options available to the Federal Government to provide for the adequate growth of the solar photovoltaic industry and to include such possible incentives as government funding, loan guarantees, tax incentives, the operation of pilot plants or production lines and other incentives deemed worthy of consideration by the Secretary of Energy. A preliminary report shall be submitted to Congress within six months following February 25, 1978;
 
@@ -42,7 +42,7 @@ Section was enacted as part of the Department of Energy Act of 1978—Civilian A
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Nonapplicability of Title II of Pub. L. 95–238 to Any Authorization or Appropriation for Military Application of Nuclear Energy, Etc.; Definitions
 

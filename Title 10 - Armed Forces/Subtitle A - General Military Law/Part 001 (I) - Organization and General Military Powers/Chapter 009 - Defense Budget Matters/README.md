@@ -17,10 +17,13 @@
 | [232\.](%C2%A7%2000232%20-%20United%20States%20Joint%20Forces%20Command%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation%20to%20be%20derived%20only%20from%20Defense-wide%20amounts.md) | United States Joint Forces Command: amounts for research, development, test, and evaluation to be derived only from Defense-wide amounts. |
 | [233\.](%C2%A7%2000233%20-%20Operation%20and%20maintenance%20budget%20presentation.md) | Operation and maintenance budget presentation. |
 | [234\.](%C2%A7%2000234%20-%20POW-MIA%20activities%20display%20of%20budget%20information.md) | POW/MIA activities: display of budget information. |
+| [235\.](%C2%A7%2000235%20-%20Procurement%20of%20contract%20services%20specification%20of%20amounts%20requested%20in%20budget.md) | Procurement of contract services: specification of amounts requested in budget. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. A, title VIII, §803(a)(2), Oct. 28, 2009, 123 Stat. 2402, added item 235.
 
 2008—Pub. L. 110–417, \[div. A\], title I, §141(b), Oct. 14, 2008, 122 Stat. 4380, added item 231a.
 
@@ -68,3 +71,4 @@
 - [&sect; 00232 - United States Joint Forces Command amounts for research, development, test, and evaluation to be derived only from Defense-wide amounts](%C2%A7%2000232%20-%20United%20States%20Joint%20Forces%20Command%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation%20to%20be%20derived%20only%20from%20Defense-wide%20amounts.md)
 - [&sect; 00233 - Operation and maintenance budget presentation](%C2%A7%2000233%20-%20Operation%20and%20maintenance%20budget%20presentation.md)
 - [&sect; 00234 - POW-MIA activities display of budget information](%C2%A7%2000234%20-%20POW-MIA%20activities%20display%20of%20budget%20information.md)
+- [&sect; 00235 - Procurement of contract services specification of amounts requested in budget](%C2%A7%2000235%20-%20Procurement%20of%20contract%20services%20specification%20of%20amounts%20requested%20in%20budget.md)

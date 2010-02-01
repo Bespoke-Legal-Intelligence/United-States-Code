@@ -76,7 +76,7 @@
 
 #### (d) Limitations after default
 
-A mortgage referred to in section 1602(aa) of this title may not provide for an interest rate applicable after default that is higher than theinterest rate that applies before default. If the date of maturity of a mortgage referred to in subsection <sup>1</sup> 1602(aa) of this title is accelerated due to default and the consumer is entitled to a rebate of interest, that rebate shall be computed by any method that is not less favorable than the actuarial method (as that term is defined in section 1615(d) of this title).
+A mortgage referred to in section 1602(aa) of this title may not provide for an interest rate applicable after default that is higher than the interest rate that applies before default. If the date of maturity of a mortgage referred to in subsection <sup>1</sup> 1602(aa) of this title is accelerated due to default and the consumer is entitled to a rebate of interest, that rebate shall be computed by any method that is not less favorable than the actuarial method (as that term is defined in section 1615(d) of this title).
 
 #### (e) No balloon payments
 
@@ -128,11 +128,23 @@ For purposes of this section, the term “affiliate” has the same meaning as i
 
 &emsp;&emsp;(B) refinancing of mortgage loans that the Board finds to be associated with abusive lending practices, or that are otherwise not in the interest of the borrower.
 
-(Pub. L. 90–321, title I, §129, as added Pub. L. 103–325, title I, §152(d), Sept. 23, 1994, 108 Stat. 2191.)
+#### (m) Civil penalties in Federal Trade Commission enforcement actions
+
+For purposes of enforcement by the Federal Trade Commission, any violation of a regulation issued by the Federal Reserve Board pursuant to subsection (<i>l</i>)(2) of this section shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices.
+
+(Pub. L. 90–321, title I, §129, as added Pub. L. 103–325, title I, §152(d), Sept. 23, 1994, 108 Stat. 2191; amended Pub. L. 111–8, div. D, title VI, §626(c), Mar. 11, 2009, 123 Stat. 679.)
+
+#### Codification
+
+Another section 129 of Pub. L. 90–321 is classified to section 1639a of this title.
 
 #### Prior Provisions
 
 A prior section 1639, Pub. L. 90–321, title I, §129, May 29, 1968, 82 Stat. 156, related to consumer loans not under open end credit plans, prior to repeal by Pub. L. 96–221, title VI, §614(d)(1), Mar. 31, 1980, 94 Stat. 180. Repeal effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1602 of this title.
+
+#### Amendments
+
+2009—Subsec. (m). Pub. L. 111–8 added subsec. (m).
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

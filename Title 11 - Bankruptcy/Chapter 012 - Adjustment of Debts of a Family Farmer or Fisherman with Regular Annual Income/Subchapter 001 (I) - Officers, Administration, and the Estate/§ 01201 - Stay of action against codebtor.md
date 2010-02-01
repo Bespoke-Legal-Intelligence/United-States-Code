@@ -16,9 +16,9 @@
 
 &emsp;(3) such creditor's interest would be irreparably harmed by continuation of such stay.
 
-(d) Twenty days after the filing of a request under subsection (c)(2) of this section for relief from the stay provided by subsection (a) of this section, such stay is terminated with respect to the party in interest making such request, unless the debtor or any individual that is liable on such debt with the debtor files and serves upon such party in interest a written objection to the taking of the proposed action.
+(d) Twenty days after the filing of a request under subsection (c)(2) of this section for relief from the stay provided by subsection (a) of thissection, such stay is terminated with respect to the party in interest making such request, unless the debtor or any individual that is liable on such debt with the debtor files and serves upon such party in interest a written objection to the taking of the proposed action.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3105, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, §2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, §1001(a)(1), Apr. 20, 2005, 119 Stat. 185.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3105, 3124; Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, §2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, §1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 185, 186.)
 
 #### Codification
 
@@ -66,7 +66,7 @@ Reenactment.—
 
 &emsp;“(1)
 
-In general.—Chapter 12 of title 11, United States Code, as reenacted by section 149 of division C of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (Public Law 105–277)\[set out as a note below\], and as in effect on June 30, 2005, is hereby reenacted.
+In general.—Chapter 12 of title 11, United States Code, as reenacted by section 149 of division C of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (Public Law 105–277) \[set out as a note below\], and as in effect on June 30, 2005, is hereby reenacted.
 
 &emsp;“(2)
 
@@ -82,5 +82,5 @@ Pub. L. 105–277, div. C, title I, §149, Oct. 21, 1998, 112 Stat. 2681–610, 
 
 “(b) All cases commenced or pending under chapter 12 of title 11, United States Code, as reenacted under subsection (a), and all matters and proceedings in or relating to such cases, shall be conducted and determined under such chapter as if such chapter were continued in effect after July 1, 2005. The substantive rights of parties in connection with such cases, matters, and proceedings shall continue to be governed under the laws applicable to such cases, matters, and proceedings as if such chapter were continued in effect after July 1, 2005.”
 
-Chapter repealed Oct. 1, 1998, except that cases commenced or pending under this chapter, and all matters and proceedings in or relating to such cases, are to be conducted and determined as if this chapter had not been repealed, and substantive rights of parties in connection with such cases, matters, and proceedings are to continue to be governed under the laws applicable to such cases, matters, and proceedings as if this chapter had not been repealed, see section 302(f) of Pub. L. 99–554, as amended, formerly set out in an Effective Date of 1986 Amendment note under section 581 of Title 28, Judiciary and Judicial Procedure.
+Chapter was repealed Oct. 1, 1998, except that cases commenced or pending under this chapter, and all matters and proceedings in or relating to such cases, were to be conducted and determined as if this chapter had not been repealed, and substantive rights of parties in connection with such cases, matters, and proceedings were to continue to be governed under the laws applicable to such cases, matters, and proceedings as if this chapter had not been repealed, see section 302(f) of Pub. L. 99–554, as amended, formerly set out in an Effective Date of 1986 Amendment note under section 581 of Title 28, Judiciary and Judicial Procedure.
 

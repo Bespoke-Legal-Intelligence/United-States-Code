@@ -56,7 +56,7 @@ The Secretary shall provide—
 
 &emsp;&emsp;An operating budget for the recipient, in such form as the Secretary may prescribe, that includes—
 
-&emsp;&emsp;&emsp;(i) an identification and description of the financial resources reasonably available to the recipient to carry out the purposes of this chapter, including an explanation of the manner in which amountsmade available will leverage additional resources; and
+&emsp;&emsp;&emsp;(i) an identification and description of the financial resources reasonably available to the recipient to carry out the purposes of this chapter, including an explanation of the manner in which amounts made available will leverage additional resources; and
 
 &emsp;&emsp;&emsp;(ii) the uses to which those resources will be committed, including eligible and required affordable housing activities under subchapter II and administrative expenses.
 
@@ -100,7 +100,7 @@ This chapter, referred to in subsec. (b)(2), was in the original “this Act”,
 
 The United States Housing Act of 1937, referred to in subsec. (b)(2)(A)(v), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-The Civil Rights Act of 1968, referred to in subsec. (b)(2)(D)(i), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73. Title II of the Act, popularly known as the Indian Civil Rights Act of 1968, is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42, The Public Health and Welfare, and Tables.
+The Civil Rights Act of 1968, referred to in subsec. (b)(2)(D)(i), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73.Title II of the Act, popularly known as the Indian Civil Rights Act of 1968, is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42, The Public Health and Welfare, and Tables.
 
 #### Amendments
 
@@ -134,5 +134,5 @@ Small tribes.—The Secretary may define small Indian tribes and small tribally 
 
 #### Effective Date
 
-Section effective on the date provided by the Secretary of Housing and Urban Development pursuant tosection 4116(a) of this title to provide for timely submission and review of Indian housing plans as necessary for the provision of assistance under this chapter in fiscal year 1998, see section 4113(e) of this title.
+Section effective on the date provided by the Secretary of Housing and Urban Development pursuant to section 4116(a) of this title to provide for timely submission and review of Indian housing plans as necessary for the provision of assistance under this chapter in fiscal year 1998, see section 4113(e) of this title.
 

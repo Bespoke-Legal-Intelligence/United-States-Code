@@ -30,7 +30,7 @@ If the Administrator disapproves a State's program (or part thereof) under subse
 
 &emsp;(2) any underground injection for the secondary or tertiary recovery of oil or natural gas,
 
-> unless such requirements are essential to assure that underground sources of drinking water will not be endangered by such injection. Such program shall apply in such State to the extent that a program adopted by such State which the Administrator determines meets such requirements is not in effect. Before promulgating any regulation under this section, the Administrator shall provide opportunity for public hearing respecting such regulation.
+> unless such requirements are essential to assure that underground sources of drinking water will not be endangered by such injection. Such program shall apply in such State to the extentthat a program adopted by such State which the Administrator determines meets such requirements is not in effect. Before promulgating any regulation under this section, the Administrator shall provide opportunity for public hearing respecting such regulation.
 
 #### (d) “Applicable underground injection control program” defined
 

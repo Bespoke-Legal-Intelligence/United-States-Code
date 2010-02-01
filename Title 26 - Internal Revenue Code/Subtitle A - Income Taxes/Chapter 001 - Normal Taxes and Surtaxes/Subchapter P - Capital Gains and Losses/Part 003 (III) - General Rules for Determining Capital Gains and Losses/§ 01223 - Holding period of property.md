@@ -2,7 +2,7 @@
 
 For purposes of this subtitle—
 
-&emsp;(1) In determining the period for which the taxpayer has held property received in an exchange, there shall be included the period forwhich he held the property exchanged if, under this chapter, the property has, for the purpose of determining gain or loss from a sale or exchange, the same basis in whole or in part in his hands as the property exchanged, and, in the case of such exchanges after March 1, 1954, the property exchanged at the time of such exchange was a capital asset as defined in section 1221 or property described in section 1231. For purposes of this paragraph—
+&emsp;(1) In determining the period for which the taxpayer has held property received in an exchange, there shall be included the period for which he held the property exchanged if, under this chapter, the property has, for the purpose of determining gain or loss from a sale or exchange, the same basis in whole or in part in his hands as the property exchanged, and, in the case of such exchanges after March 1, 1954, the property exchanged at the time of such exchange was a capital asset as defined in section 1221 or property described in section 1231. For purposes of this paragraph—
 
 &emsp;&emsp;(A) an involuntary conversion described in section 1033 shall be considered an exchange of the property converted for the property acquired, and
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 #### Effective Date of 2000 Amendment
 
-Amendment by section 1(a)(7) \[title I, §116(b)(2)\] of Pub. L. 106–554 applicable to qualified empowerment zone assets acquired after Dec. 21, 2000, see section 1(a)(7) \[title I, §116(c)\] of Pub. L. 106–554, set out as a note under section 1016 of this title.
+Amendment by section 1(a)(7) \[title I, §116(b)(2)\] of Pub. L. 106–554 applicable to qualified empowermentzone assets acquired after Dec. 21, 2000, see section 1(a)(7) \[title I, §116(c)\] of Pub. L. 106–554, set out as a note under section 1016 of this title.
 
 Amendment by section 1(a)(7) \[title IV, §401(h)(1)\] of Pub. L. 106–554 effective Dec. 21, 2000, see section 1(a)(7) \[title IV, §401(j)\] of Pub. L. 106–554, set out as a note under section 1032 of this title.
 

@@ -10,15 +10,19 @@ Mission.—In addition to other matters assigned to it by the President or Secre
 
 &emsp;(1) assist the Chairman of the Joint Chiefs of Staff—
 
-&emsp;&emsp;(A) in identifying, assessing, and approving joint military requirements (including existing systems and equipment) to meet the national military strategy; and
+&emsp;&emsp;(A) in identifying, assessing, and approving joint military requirements (including existing systems and equipment) to meet the national military strategy;
 
-&emsp;&emsp;(B) in identifying the core mission area associated with each such requirement;
+&emsp;&emsp;(B) in identifying the core mission area associated with each such requirement; and
+
+&emsp;&emsp;(C) in ensuring the consideration of trade-offs among cost, schedule, and performance objectives for joint military requirements in consultation with the advisors specified in subsection (d);
 
 &emsp;(2) assist the Chairman in establishing and assigning priority levels for joint military requirements;
 
-&emsp;(3) assist the Chairman in reviewing the estimated level of resources required in the fulfillment of each joint military requirement and in ensuring that such resource level is consistent with the level of priority assigned to such requirement; and
+&emsp;(3) assist the Chairman, in consultation with the Under Secretary of Defense (Comptroller), the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Director of Cost Assessment and Performance <sup>1</sup>Evaluation, in reviewing the estimated level of resources required in the fulfillment of each joint military requirement and in ensuring that such resource level is consistent with the level of priority assigned to such requirement;
 
-&emsp;(4) assist acquisition officials in identifying alternatives to any acquisition program that meet joint military requirements for the purposes of section 2366a(b), section 2366b(a)(4), and section 2433(e)(2) of this title.
+&emsp;(4) assist acquisition officials in identifying alternatives to any acquisition program that meet joint military requirements for the purposes of section 2366a(b), section 2366b(a)(4), and section 2433(e)(2) of this title; and
+
+&emsp;(5) assist the Chairman, in consultation with the commanders of the combatant commands and the Under Secretary of Defense for Acquisition, Technology, and Logistics, in establishing an objective for the overall period of time within which an initial operational capability should be delivered to meet each joint military requirement.
 
 (c)
 
@@ -40,7 +44,9 @@ Composition.—(1) The Joint Requirements Oversight Council is composed of—
 
 (d)
 
-Advisors.—The Under Secretary of Defense for Acquisition, Technology, and Logistics, the Under Secretary of Defense (Comptroller), and the Director of the Office of Program Analysis and Evaluation shall serve as advisors to the Council on matters within their authority and expertise.
+Advisors.—(1) The Under Secretary of Defense for Acquisition, Technology, and Logistics, the Under Secretary of Defense (Comptroller), and the Director of Cost Assessment and Program Evaluation shall serve as advisors to the Council on matters within their authority and expertise.
+
+(2) The Council shall seek and consider input from the commanders of the combatant commands in carrying out its mission under paragraphs (1) and (2) of subsection (b) and in conducting periodic reviews in accordance with the requirements of subsection (e).
 
 (e)
 
@@ -60,9 +66,19 @@ Definitions.—In this section:
 
 &emsp;(2) The term “core mission area” means a core mission area of the Department of Defense identified under the most recent quadrennial roles and missions review pursuant to section 118b of this title.
 
-(Added Pub. L. 104–106, div. A, title IX, §905(a)(1), Feb. 10, 1996, 110 Stat. 403; amended Pub. L. 104–201, div. A, title IX, §908, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(3), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 110–181, div. A, title IX, §942(a)–(d), Jan. 28, 2008, 122 Stat. 287, 288; Pub. L. 110–417, \[div. A\], title VIII, §813(d)(1), Oct. 14, 2008, 122 Stat. 4527.)
+(Added Pub. L. 104–106, div. A, title IX, §905(a)(1), Feb. 10, 1996, 110 Stat. 403; amended Pub. L. 104–201, div. A, title IX, §908, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(3), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 110–181, div. A, title IX, §942(a)–(d), Jan. 28, 2008, 122 Stat. 287, 288; Pub. L. 110–417, \[div. A\], title VIII, §813(d)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §§101(d)(1), 105(a), title II, §201(b), May 22, 2009, 123 Stat. 1709, 1717, 1719.)
 
 #### Amendments
+
+2009—Subsec. (b)(1)(C). Pub. L. 111–23, §201(b)(1), added subpar. (C).
+
+Subsec. (b)(3). Pub. L. 111–23, §201(b)(2)(A), inserted “, in consultation with the Under Secretary of Defense (Comptroller), the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Director of Cost Assessment and Performance Evaluation,” after “assist the Chairman”.
+
+Subsec. (b)(5). Pub. L. 111–23, §201(b)(2)(B)–(4), added par. (5).
+
+Subsec. (d). Pub. L. 111–23, §105(a), designated existing provisions as par. (1) and added par. (2).
+
+Pub. L. 111–23, §101(d)(1), substituted “Director of Cost Assessment and Program Evaluation” for “Director of the Office of Program Analysis and Evaluation”.
 
 2008—Subsec. (b). Pub. L. 110–181, §942(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to mission of Joint Requirements Oversight Council.
 
@@ -90,6 +106,36 @@ Subsec. (g). Pub. L. 110–181, §942(d), added subsec. (g).
 
 Section 905(b) of Pub. L. 104–106 provided that: “The amendments made by this section \[enacting this section\] shall take effect on January 31, 1997.”
 
+#### Input From Commanders of Combatant Commands
+
+Pub. L. 111–23, title I, §105(b), May 22, 2009, 123 Stat. 1718, provided that: “The Joint Requirements Oversight Council in the Department of Defense shall seek and consider input from the commanders of combatant commands, in accordance with section 181(d) of title 10, United States Code (as amended by subsection (a)). Such input may include, but is not limited to, an assessment of the following:
+
+&emsp;“(1) Any current or projected missions or threats in the theater of operations of the commander of a combatant command that would inform the assessment of a new joint military requirement.
+
+&emsp;“(2) The necessity and sufficiency of a proposed joint military requirement in terms of current and projected missions or threats.
+
+&emsp;“(3) The relative priority of a proposed joint military requirement in comparison with other joint military requirements within the theater of operations of the commander of a combatant command.
+
+&emsp;“(4) The ability of partner nations in the theater of operations of the commander of a combatant command to assist in meeting the joint military requirement or the benefit, if any, of a partner nation assisting in development or use of technologies developed to meet the joint military requirement.”
+
+#### Review of Joint Military Requirements
+
+Pub. L. 111–23, title II, §201(c), May 22, 2009, 123 Stat. 1720, provided that: “The Secretary of Defense shall ensure that each new joint military requirement recommended by the Joint Requirements Oversight Council is reviewed to ensure that the Joint Requirements Oversight Council has, in making such recommendation—
+
+&emsp;“(1) taken appropriate action to seek and consider input from the commanders of the combatant commands, in accordance with the requirements of section 181(d) of title 10, United States Code (as amended by section 105(a) of this Act);
+
+&emsp;“(2) engaged in consideration of trade-offs among cost, schedule, and performance objectives in accordance with the requirements of section 181(b)(1)(C) of title 10, United States Code (as added by subsection (b)); and
+
+&emsp;“(3) engaged in consideration of issues of joint portfolio management, including alternative material and non-material solutions, as provided in Department of Defense instructions for the development of joint military requirements.”
+
+#### Study Guidance for Analyses of Alternatives
+
+Pub. L. 111–23, title II, §201(d), May 22, 2009, 123 Stat. 1720, provided that: “The Director of Cost Assessment and Program Evaluation shall take the lead in the development of study guidance for an analysis of alternatives for each joint military requirement for which the Chairman of the Joint Requirements Oversight Council is the validation authority. In developing the guidance, the Director shall solicit the advice of appropriate officials within the Department of Defense and ensure that the guidance requires, at a minimum—
+
+&emsp;“(1) full consideration of possible trade-offs among cost, schedule, and performance objectives for each alternative considered; and
+
+&emsp;“(2) an assessment of whether or not the joint military requirement can be met in a manner that is consistent with the cost and schedule objectives recommended by the Joint Requirements Oversight Council.”
+
 #### Deadlines for Inclusion of Core Mission References in Documents
 
 Pub. L. 110–181, div. A, title IX, §942(f), Jan. 28, 2008, 122 Stat. 288, provided that: “Effective June 1, 2009, all joint military requirements documents of the Joint Requirements Oversight Council produced to carry out its mission under section 181(b)(1) of title 10, United States Code, shall reference the core mission areas organized and defined under section 118b of such title. Not later than October 1, 2009, all such documents produced before June 1, 2009, shall reference such structure.”
@@ -97,4 +143,6 @@ Pub. L. 110–181, div. A, title IX, §942(f), Jan. 28, 2008, 122 Stat. 288, pro
 #### Reports on Joint Requirements Oversight Council Reform Initiative
 
 Pub. L. 106–398, §1 \[\[div. A\], title IX, §916\], Oct. 30, 2000, 114 Stat. 1654, 1654A–231, as amended by Pub. L. 107–107, div. A, title IX, §923, Dec. 28, 2001, 115 Stat. 1199, directed the Chairman of the Joints Chiefs of Staff to submit reports to committees of Congress not later than Mar. 1, 2001, Sept. 1, 2001, Mar. 1, 2002, and Mar. 1, 2003, on the progress made on the initiative of the Chairman to reform and refocus the Joint Requirements Oversight Council.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Program”.</i>
 

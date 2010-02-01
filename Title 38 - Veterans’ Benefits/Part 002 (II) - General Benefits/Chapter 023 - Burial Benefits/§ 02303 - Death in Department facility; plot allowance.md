@@ -36,7 +36,7 @@ Subsec. (b)(2). Pub. L. 108–183, §501(a)(2), substituted “is eligible for a
 
 2000—Subsec. (b)(1)(A). Pub. L. 106–419 amended cl. (A) generally. Prior to amendment, cl. (A) read as follows: “is used solely for the interment of persons eligible for burial in a national cemetery, and”.
 
-1997—Subsec. (a)(2)(A). Pub. L. 105–114 substituted “a facility of the Department (as defined in section 1701(3) of this title)” for “a Department facility (as defined in section 1701(4) of this title)”.
+1997—Subsec. (a)(2)(A). Pub. L. 105–114 substituted “a facility of the Department (as defined in section 1701(3)of this title)” for “a Department facility (as defined in section 1701(4) of this title)”.
 
 1996—Subsec. (a). Pub. L. 104–275 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “When a veteran dies in a Department facility (as defined in section 1701(4) of this title) to which the deceased was properly admitted for hospital, nursing home, or domiciliary care under section 1710 or 1711(a) of this title or in an institution at which the deceased veteran was receiving hospital care in accordance with section 1703 of this title or nursing home care under section 1720 of this title at the expense of the United States at the time of death, the Secretary—
 

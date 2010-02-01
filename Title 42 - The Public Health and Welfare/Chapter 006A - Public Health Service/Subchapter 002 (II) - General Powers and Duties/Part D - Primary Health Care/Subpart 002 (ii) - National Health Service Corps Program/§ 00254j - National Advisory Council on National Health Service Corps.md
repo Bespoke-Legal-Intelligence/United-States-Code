@@ -14,7 +14,7 @@ There is established a council to be known as the National Advisory Council on t
 
 Section 14 of the Federal Advisory Committee Act shall not apply with respect to the Council.
 
-(July 1, 1944, ch. 373, title III, §337, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2277; amended Pub. L. 96–32, §7(g), July 10, 1979, 93 Stat. 84; Pub. L. 97–35, title XXVII, §2707, Aug. 13, 1981, 95 Stat. 907; Pub. L. 97–414, §8(f), Jan. 4, 1983, 96 Stat. 2061; Pub. L. 103–183, title VII, §706(b), Dec. 14, 1993, 107 Stat. 2241.)
+(July 1, 1944, ch. 373, title III, §337, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2277; amended Pub. L. 96–32, §7(g), July 10, 1979, 93 Stat. 84; Pub. L. 97–35, title XXVII, §2707,Aug. 13, 1981, 95 Stat. 907; Pub. L. 97–414, §8(f), Jan. 4, 1983, 96 Stat. 2061; Pub. L. 103–183, title VII, §706(b), Dec. 14, 1993, 107 Stat. 2241.)
 
 #### References in Text
 

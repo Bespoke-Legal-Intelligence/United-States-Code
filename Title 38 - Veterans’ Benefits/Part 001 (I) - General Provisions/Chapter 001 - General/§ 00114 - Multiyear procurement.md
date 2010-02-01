@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(C) the specifications for the supplies or services are expected to be reasonably stable.
 
-&emsp;(4) The risks relating to the prospective contractor's ability to perform in accordance withthe specifications and other terms of the contract are not excessive.
+&emsp;(4) The risks relating to the prospective contractor's ability to perform in accordance with the specifications and other terms of the contract are not excessive.
 
 &emsp;(5) The use of a multiyear contract will not inhibit small business concerns in competing for the contract.
 

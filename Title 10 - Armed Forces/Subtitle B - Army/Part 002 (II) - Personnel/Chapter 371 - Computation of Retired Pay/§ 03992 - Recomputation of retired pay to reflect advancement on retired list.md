@@ -16,7 +16,7 @@ Formula.—The monthly retired pay of a member entitled to recompute that pay un
 
 Rounding to Next Lower Dollar.—The amount computed under subsection (b), if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 233; Pub. L. 96–342, title VIII, §813(c), Sept. 8, 1980, 94 Stat. 1104; Pub. L. 96–513, title V, §512(10), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 97–295, §1(40), Oct. 12, 1982, 96 Stat. 1297; Pub. L. 98–94, title IX, §§922(a)(8), 923(a)(1), (2)(G), Sept. 24, 1983, 97 Stat. 641–643; Pub. L. 99–348, title II, §202(b), July 1, 1986, 100 Stat. 695; Pub. L. 103–337, div. A, title VI, §635(a)(3), Oct. 5, 1994, 108 Stat. 2788.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 233; Pub. L. 96–342, title VIII, §813(c), Sept. 8, 1980, 94 Stat. 1104; Pub. L. 96–513, title V, §512(10), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 97–295, §1(40), Oct. 12, 1982, 96 Stat. 1297; Pub. L. 98–94, title IX, §§922(a)(8),923(a)(1), (2)(G), Sept. 24, 1983, 97 Stat. 641–643; Pub. L. 99–348, title II, §202(b), July 1, 1986, 100 Stat. 695; Pub. L. 103–337, div. A, title VI, §635(a)(3), Oct. 5, 1994, 108 Stat. 2788.)
 
 Historical and Revision Notes<br>1956
 
@@ -40,7 +40,7 @@ Aug. 21, 1941, ch. 384, §5 (last 39 words of 1st proviso); restated June 29, 19
 
 June 29, 1948, ch. 708, §203(e) (30 words before proviso), 62 Stat. 1086.
 
-The words “basic pay \* \* \* as the case may be” are inserted to conform to the terminology of the Career Compensation Act of 1949, 63 Stat. 802 (37 U.S.C. 231 et seq.). The words “at the rate prescribed by law for his length of service”, in 10:1004, are omitted as covered by the words “base and longevity pay”. The words “base and longevity pay” are retained to cover the cases of members retired before the enactment of the Career Compensation Act of 1949, and advanced on the retired list after the enactment of that act. The words “and disregard a part of a year that is less than six months” are inserted to conform to footnote 4 of section 3991 of this title.
+The words “basic pay as the case may be” are inserted to conform to the terminology of the Career Compensation Act of 1949, 63 Stat. 802 (37 U.S.C. 231 et seq.). The words “at the rate prescribed by law for his length of service”, in 10:1004, are omitted as covered by the words “base and longevity pay”. The words “base and longevity pay” are retained to cover the cases of members retired before the enactment of the Career Compensation Act of 1949, and advanced on the retired list after the enactment of that act. The words “and disregard a part of a year that is less than six months” are inserted to conform to footnote 4 of section 3991 of this title.
 
 #### 1982 Act
 

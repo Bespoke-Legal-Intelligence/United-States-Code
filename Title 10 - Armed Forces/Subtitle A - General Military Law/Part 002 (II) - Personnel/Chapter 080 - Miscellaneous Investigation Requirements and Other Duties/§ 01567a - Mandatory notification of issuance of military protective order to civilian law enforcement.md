@@ -16,5 +16,9 @@ Notification of Changes or Termination.—The commander of the military installa
 
 &emsp;(2) the termination of the protective order.
 
-(Added Pub. L. 110–417, \[div. A\], title V, §562(a), Oct. 14, 2008, 122 Stat. 4470.)
+(Added Pub. L. 110–417, \[div. A\], title V, §562(a), Oct. 14, 2008, 122 Stat. 4470; amended Pub. L. 111–84, div. A, title X, §1073(a)(17), Oct. 28, 2009, 123 Stat. 2473.)
+
+#### Amendments
+
+2009—Pub. L. 111–84 made technical amendment to section catchline.
 

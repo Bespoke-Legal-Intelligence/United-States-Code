@@ -108,7 +108,7 @@ An application under this section shall contain the following:
 
 &emsp;&emsp;(G) A parent of a public or private school student or a parent who educates the parent's child in the parent's home, selected jointly by the Governor and the chief State school officer.
 
-&emsp;&emsp;(H) A teacher, who may be a special education teacher, who successfully teaches reading, and another instructional staffmember, selected jointly by the Governor and the chief State school officer.
+&emsp;&emsp;(H) A teacher, who may be a special education teacher, who successfully teaches reading, and another instructional staff member, selected jointly by the Governor and the chief State school officer.
 
 &emsp;&emsp;(I) A family literacy service provider selected jointly by the Governor and the chief State school officer.
 
@@ -130,7 +130,7 @@ An application under this section shall contain the following:
 
 #### (4) Preexisting partnership
 
-&emsp;If, before January 8, 2002, a State educational agency established a consortium, partnership, or any other similar body that was considered a reading and literacy partnership for purposes of part C of title II of this Act (as such part was in effect on January 8, 2002), that consortium, partnership, or body may be considered a reading and literacy partnership for purposes of this subsection consistent with the provisions of this subpart.
+&emsp;If, before January 8, 2002, a State educational agency established a consortium,partnership, or any other similar body that was considered a reading and literacy partnership for purposes of part C of title II of this Act (as such part was in effect on January 8, 2002), that consortium, partnership, or body may be considered a reading and literacy partnership for purposes of this subsection consistent with the provisions of this subpart.
 
 (Pub. L. 89–10, title I, §1203, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1543; amended Pub. L. 110–154, §1(c)(3), Dec. 21, 2007, 121 Stat. 1828.)
 

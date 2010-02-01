@@ -40,7 +40,7 @@ It is the declared policy of the Congress that the Government, through the Small
 
 &emsp;(iv) that such development of business ownership among groups that presently own and control little productive capital will be greatly facilitated through the creation of a small business ownership development program, which shall provide services, including, but not limited to, financial, management, and technical assistance.<sup>1</sup>
 
-&emsp;(v) that the power to let Federal contracts pursuant to section 637(a) of this title can be an effective procurement assistance tool fordevelopment of business ownership among groups that own and control little productive capital; and
+&emsp;(v) that the power to let Federal contracts pursuant to section 637(a) of this title can be an effective procurement assistance tool for development of business ownership among groups that own and control little productive capital; and
 
 &emsp;(vi) that the procurement authority under section 637(a) of this title shall be used only as a tool for developing business ownership among groups that own and control little productive capital.
 
@@ -96,13 +96,13 @@ In administering the disaster loan program authorized by section 636 of this tit
 
 &emsp;(D) such discrimination takes many overt and subtle forms adversely impacting the ability to raise or secure capital, to acquire managerial talents, and to capture market opportunities;
 
-&emsp;(E) it is in the national interest to expeditiously remove discriminatory barriers to the creation and development of small business concerns owned and controlled by women;
+&emsp;(E) it is in the national interest to expeditiously remove discriminatory barriers to thecreation and development of small business concerns owned and controlled by women;
 
 &emsp;(F) the removal of such barriers is essential to provide a fair opportunity for full participation in the free enterprise system by women and to further increase the economic vitality of the Nation;
 
 &emsp;(G) increased numbers of small business concerns owned and controlled by women will directly benefit the United States Government by expanding the potential number of suppliers of goods and services to the Government; and
 
-&emsp;(H) programs and activities designed to assist small business concerns owned and controlled by women must be implemented in such a way as to remove such discriminatory barriers while not adversely affecting therights of socially and economically disadvantaged individuals.
+&emsp;(H) programs and activities designed to assist small business concerns owned and controlled by women must be implemented in such a way as to remove such discriminatory barriers while not adversely affecting the rights of socially and economically disadvantaged individuals.
 
 (2) It is, therefore, the purpose of those programs and activities conducted under the authority of this chapter that assist women entrepreneurs to—
 
@@ -156,7 +156,7 @@ Subsecs. (e), (f). Pub. L. 100–418 redesignated subsecs. (d) and (e) as (e) an
 
 Subsec. (f)(1)(C). Pub. L. 100–656, §207(b), as amended by Pub. L. 101–37, which directed amendment of subsec. (e)(1)(C) by inserting “Native Hawaiian Organizations,” was executed to subsec. (f)(1)(C) to reflect the probable intent of Congress and the intervening redesignation of subsec. (e) as (f) by Pub. L. 100–418.
 
-Subsec. (f)(2). Pub. L. 100–656, §204(a)(2), which directed general amendment of subsec. (e)(2), was executed to subsec. (f)(2) to reflect the probable intent of Congress and the intervening redesignation of subsec. (e) as (f) by Pub. L. 100–418. Prior to amendment, par. (2) read as follows: “It is, therefore, the purpose of section 637(a) of this title to—
+Subsec. (f)(2). Pub. L. 100–656, §204(a)(2), which directed general amendment of subsec. (e)(2), was executed to subsec. (f)(2) to reflect the probable intent ofCongress and the intervening redesignation of subsec. (e) as (f) by Pub. L. 100–418. Prior to amendment, par. (2) read as follows: “It is, therefore, the purpose of section 637(a) of this title to—
 
 &emsp;“(A) foster business ownership by individuals who are both socially and economically disadvantaged;
 
@@ -254,11 +254,11 @@ Section 1918 of Pub. L. 97–35 provided that: “Sections 1908, 1909, and 1913 
 
 #### Effective Date of 1980 Amendment
 
-Section 507 of Pub. L. 96–302 provided that: “This Act \[enacting sections 631a, 631b, 648, and 697 of this title, amending this section, sections 632, 633, 634, 634d, 636, 637, 644, 647, 694–2, 694b, and 694c of this title, section 5315 of Title 5, Government Organization and Employees, and sections 1961 and 1964 of Title 7, Agriculture, enacting provisions set out as notes under this section and sections 636, 637, and 648 of this title, and amending provisions set out as a note under this section\] shall take effect October 1, 1980.”
+Section 507 of Pub. L. 96–302 provided that: “This Act \[enacting sections 631a, 631b, 648, and 697 of this title, amending this section, sections 632, 633, 634, 634d, 636,637, 644, 647, 694–2, 694b, and 694c of this title, section 5315 of Title 5, Government Organization and Employees, and sections 1961 and 1964 of Title 7, Agriculture, enacting provisions set out as notes under this section and sections 636, 637, and 648 of this title, and amending provisions set out as a note under this section\] shall take effect October 1, 1980.”
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–234, title XII, §12051, May 22, 2008, 122 Stat. 1406, and Pub. L. 110–246, §4(a), title XII, §12051, June 18, 2008, 122 Stat. 1664, 2168, provided that: “This subtitle \[subtitle B (§§12051–12091) of title XII of Pub. L. 110–246, enacting sections 636e to 636k and 657i to 657<i>o</i> of this title, amending sections 632, 633, and 636 of this title, enacting provisions set out as notes under section 636 of this title, and amending provisions set out as anote under this section\] may be cited as the ‘Small Business Disaster Response and Loan Improvements Act of 2008’.”
+Pub. L. 110–234, title XII, §12051, May 22, 2008, 122 Stat. 1406, and Pub. L. 110–246, §4(a), title XII, §12051, June 18, 2008, 122 Stat. 1664, 2168, provided that: “This subtitle \[subtitle B (§§12051–12091) of title XII of Pub. L. 110–246, enacting sections 636e to 636k and 657i to 657<i>o</i> of this title, amending sections 632, 633, and 636 of this title, enacting provisions set out as notes under section 636 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Small Business Disaster Response and Loan Improvements Act of 2008’.”
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
@@ -356,11 +356,11 @@ Section 1 of Pub. L. 101–37 provided that: “This Act \[amending this section
 
 #### Short Title of 1988 Amendments
 
-Section 1(a) of Pub. L. 100–656 provided that: “This Act \[amending this section, sections 632, 633, 636, 637, 639, 644, and 645 of this title, and section 541 of former Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under this section and sections 632, 633, 636, and 637 of this title, and amending provisions set out as a note under section 644 of this title\] may be cited as the ‘Business Opportunity Development Reform Act of 1988’.”
+Section 1(a) of Pub. L. 100–656 provided that: “This Act \[amending this section, sections 632, 633, 636, 637, 639, 644, and 645 of this title, and section 541 of former Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under this section andsections 632, 633, 636, and 637 of this title, and amending provisions set out as a note under section 644 of this title\] may be cited as the ‘Business Opportunity Development Reform Act of 1988’.”
 
 Section 1(a) of Pub. L. 100–590 provided that: “This Act \[enacting sections 687m and 697c of this title, amending this section and sections 631b, 632, 633, 634, 636, 637, 638, 644, 648, 681, 687b, and 694b to 697b of this title, repealing section 694 of this title, enacting provisions set out as notes under this section and sections 636, 637, 639, 644, 661, 694, 694b, and 697 of this title, and amending provisions set out as notes under this section and sections 633 and 637 of this title\] may be cited as the ‘Small Business Administration Reauthorization and Amendment Act of 1988’.”
 
-Pub. L. 100–533, §1, Oct. 25, 1988, 102 Stat. 2689, provided in part that Pub. L. 100–533 “\[enacting chapter 97of this title and section 417a of Title 41, Public Contracts, amending this section and sections 631b, 636, 637, and 1691b of this title, and enacting provisions set out as notes under this section, sections 636 and 637 of this title, and section 131 of Title 13, Census\] may be cited as the ‘Women's Business Ownership Act of 1988’.”
+Pub. L. 100–533, §1, Oct. 25, 1988, 102 Stat. 2689, provided in part that Pub. L. 100–533 “\[enacting chapter 97 of this title and section 417a of Title 41, Public Contracts, amending this section and sections 631b, 636, 637, and 1691b of this title, and enacting provisions set out as notes under this section, sections 636 and 637 of this title, and section 131 of Title 13, Census\] may be cited as the ‘Women's Business Ownership Act of 1988’.”
 
 Section 8001 of title VIII of Pub. L. 100–418 provided that: “This title \[amending this section and sections 636, 648, 649, and 696 of this title, enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and section 638 of this title\] may be cited as the ‘Small Business International Trade and Competitiveness Act’.”
 
@@ -420,7 +420,7 @@ Section 417 of title IV of Pub. L. 105–135 provided that:
 
 “(a)
 
-Proposed Regulations.—Proposed amendments to the Federal Acquisition Regulation or proposed Small Business Administration regulations under this subtitle \[subtitle B (§§411–417) of title IV of Pub. L. 105–135, amending this section and sections 632, 637 and 644 of this title and enacting provisions set out as notes under section 637 of this title and section 405 of Title 41, Public Contracts\] and the amendments made by this subtitle shall be published not later than 120 days after the date of enactment of this Act \[Dec. 2, 1997\] for the purpose of obtaining public comment pursuant to section 22 of the Office of Federal Procurement Policy Act (41 U.S.C. 418b), or chapter 5 of title 5, United States Code, as appropriate. The public shall be afforded not less than 60 days to submit comments.
+Proposed Regulations.—Proposed amendments to the Federal Acquisition Regulation or proposed Small Business Administration regulations under this subtitle \[subtitle B (§§411–417) of title IV of Pub. L. 105–135, amending this section and sections 632, 637 and 644 of this title and enacting provisions set out as notes under section 637 of this title and section 405 of Title 41, Public Contracts\] and the amendments made by thissubtitle shall be published not later than 120 days after the date of enactment of this Act \[Dec. 2, 1997\] for the purpose of obtaining public comment pursuant to section 22 of the Office of Federal Procurement Policy Act (41 U.S.C. 418b), or chapter 5 of title 5, United States Code, as appropriate. The public shall be afforded not less than 60 days to submit comments.
 
 “(b)
 
@@ -486,7 +486,7 @@ Program levels.—The following program levels are authorized for fiscal year 20
 
 &emsp;&emsp;&emsp;“(ii) $105,000,000 in direct loans, as provided in 7(m).
 
-&emsp;&emsp;“(B) For the programs authorized by this Act, the Administration is authorized to make $23,050,000,000 in deferred participation loans and other financings. Of such sum, the Administration is authorized to make—
+&emsp;&emsp;“(B) For the programs authorized by this Act, the Administration is authorized to make $23,050,000,000in deferred participation loans and other financings. Of such sum, the Administration is authorized to make—
 
 &emsp;&emsp;&emsp;“(i) $16,500,000,000 in general business loans, as provided in section 7(a) \[section 636(a) of this title\];
 
@@ -582,7 +582,7 @@ Pub. L. 106–554, §1(a)(9) \[title VIII, §801\], Dec. 21, 2000, 114 Stat. 276
 
 “(a)
 
-Study.—The Administrator of the Small Business Administration shall conduct a study to determine the average time that the Administration requires to process an application for each type of loan or loan guarantee made under the Small Business Act (15 U.S.C. 631 et seq.).
+Study.—The Administrator of the Small Business Administration shall conduct a study to determine the average time that the Administration requires to process an application for each type of loan or loanguarantee made under the Small Business Act (15 U.S.C. 631 et seq.).
 
 “(b)
 
@@ -728,13 +728,13 @@ Ex. Ord. No. 11625, Oct. 13, 1971, 36 F.R. 19967, as amended by Ex. Ord. No. 120
 
 The opportunity for full participation in our free enterprise system by socially and economically disadvantaged persons is essential if we are to obtain social and economic justice for such persons and improve the functioning of our national economy.
 
-The Office of Minority Business Enterprise, established in 1969, greatly facilitated the strengthening and expansion of our minority enterprise program. In order to take full advantage of resources and opportunities in the minority enterprise field, we now must build on this foundation. One important way of improving our efforts is by clarifying the authority of the Secretary of Commerce (a) to implement Federal policy in support of the minority business enterprise program; (b) provide additional technical and management assistance to disadvantaged business; (c) to assist in demonstration projects; and (d) to coordinate the participation of all Federal departments and agencies in an increased minority enterprise effort.
+The Office of Minority Business Enterprise, established in 1969, greatly facilitated the strengthening and expansion of our minority enterprise program. In orderto take full advantage of resources and opportunities in the minority enterprise field, we now must build on this foundation. One important way of improving our efforts is by clarifying the authority of the Secretary of Commerce (a) to implement Federal policy in support of the minority business enterprise program; (b) provide additional technical and management assistance to disadvantaged business; (c) to assist in demonstration projects; and (d) to coordinate the participation of all Federal departments and agencies in an increased minority enterprise effort.
 
 NOW, THEREFORE, by virtue of the authority vested in me as President of the United States, it is ordered as follows:
 
 Section 1. <i>Functions of the Secretary of Commerce</i>. (a) The Secretary of Commerce (hereinafter referred to as “the Secretary”) shall—
 
-(1) Coordinate as consistent with law the plans, programs, and operations of the Federal Governmentwhich affect or may contribute to the establishment, preservation, and strengthening of minority business enterprise.
+(1) Coordinate as consistent with law the plans, programs, and operations of the Federal Government which affect or may contribute to the establishment, preservation, and strengthening of minority business enterprise.
 
 (2) Promote the mobilization of activities and resources of State and local governments, businesses and trade associations, universities, foundations, professional organizations, and volunteer and other groups towards the growth of minority business enterprises, and facilitate the coordination of the efforts of these groups with those of Federal departments and agencies.
 
@@ -792,7 +792,7 @@ Term of the Advisory Council for Minority Enterprise extended until Dec. 31, 197
 
 #### Executive Order No. 12061
 
-Ex. Ord. No. 12061, May 18, 1978, 43 F.R. 21865, as amended by Ex. Ord. No. 12091, Nov. 1, 1978, 43 F.R. 51373, which related to the Small Business ConferenceCommission, was revoked by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12061, May 18, 1978, 43 F.R. 21865, as amended by Ex. Ord. No. 12091, Nov. 1, 1978, 43 F.R. 51373, which related to the Small Business Conference Commission, was revoked by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
 #### Executive Order No. 12269
 
@@ -840,7 +840,7 @@ Ex. Ord. No. 12928, Sept. 16, 1994, 59 F.R. 48377, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, in order to enforce rigorously the letter and spirit of public laws that promote increased participation in Federal procurement by Small Businesses Owned and Controlled by Socially and Economically Disadvantaged Individuals (SDBs) as described in section 8 of the Small Business Act (15 U.S.C. 637), Historically Black Colleges and Universities (HBCUs) as described in 34 C.F.R. 608.2, and Minority Institutions (MIs) as referred to in sections 1046(3) and 316(b)(1) of the Higher Education Act of 1965, as amended (20 U.S.C. 1135d-5(3) and 1059c(b)(1), respectively), it is hereby ordered as follows:
 
-Section 1. <i>Policy Statement</i>. It is the policy of the United States Government that all department and agency heads and all Federal employees involved in the procurement of any and all goods and services shall assist SDBs, HBCUs, and MIs, as applicable, to develop viable, self-sustaining businesses capable of competing on an equal basis in the mainstream of the American economy. To that end, all Federal personnel shall commit to the letter and spirit of all laws promoting the participation of SDBs, HBCUs, and MIs in Federal procurement. The laws promote:
+Section 1. <i>Policy Statement</i>. It is the policy of the United States Government that all department and agency heads and all Federal employees involved in the procurement of any and all goods and services shall assist SDBs, HBCUs, and MIs, as applicable, to develop viable, self-sustaining businesses capable of competing on an equal basis in the mainstream of the American economy. To that end, all Federal personnel shall commit to the letter and spirit of all laws promoting theparticipation of SDBs, HBCUs, and MIs in Federal procurement. The laws promote:
 
 (a) the award of contracts to SDBs, HBCUs, and MIs through the Small Business Administration Section 8(a) \[15 U.S.C. 637(a)\] Program, the Department of Defense Small and Disadvantaged Business Program, other agency programs, and through other specific statutory authority or appropriate means;
 
@@ -882,13 +882,13 @@ Sec. 2. <i>Interagency Task Force on Small Business Exports</i>. (a) The Secreta
 
 Sec. 3. <i>Expedited Response to Worker Dislocation</i>. (a) The Secretary of Labor shall expedite the Federal response to worker dislocation through the Workforce Investment Act and the Trade Adjustment Assistance program by proactively seeking information, from a variety of sources, on actual or prospective layoffs, including the media and community and labor union members, and by sharing such information with appropriate state workforce officials. In addition, the Department of Labor (Labor) shall undertake a number of proactive steps to support public outreach activities aimed at workers, employers, the media, local officials, the community, and labor organizations and their members to improve awareness of the adjustment assistance available through Labor programs, including, but not limited to:
 
-&emsp;(1) developing a set of methods to inform employers of the services available through Labor workforce programs, which will explain the requirements of the Worker Adjustment and Retraining Notification Act, 29 U.S.C. 2101 <i>et seq</i>., and provide information on worker adjustment programs, including the Trade Adjustment Assistance and the basic dislocated worker programs, emphasizing the importance of early intervention to minimize the affects of work layoffs;
+&emsp;(1) developing a set of methods to inform employers of the services available through Labor workforce programs, which will explain the requirements of the Worker Adjustment and Retraining Notification Act, 29 U.S.C. 2101 <i>et seq</i>., and provide information on worker adjustment programs, including the Trade Adjustment Assistance and the basic dislocated worker programs, emphasizing the importance ofearly intervention to minimize the affects of work layoffs;
 
 &emsp;(2) improving websites and other modes of communication to provide basic information on dislocated worker and Trade Adjustment Assistance program contacts at the State and local level;
 
 &emsp;(3) developing a National Toll-Free Help Line to provide universal, accurate, and easy access to information about public workforce services to workers and employers;
 
-&emsp;(4) providing on-site technical assistance, in partnership with other Federal agencies, when there are layoffs or closures with multi-State impact, or when there are dislocations with significant communityimpact (such as areas that have been affected by numerous layoffs of apparel and textile workers);
+&emsp;(4) providing on-site technical assistance, in partnership with other Federal agencies, when there are layoffs or closures with multi-State impact, or when there are dislocations with significant community impact (such as areas that have been affected by numerous layoffs of apparel and textile workers);
 
 &emsp;(5) informing States directly when a secondary worker impact has been affirmed by Labor; and
 

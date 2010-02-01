@@ -44,7 +44,7 @@ Amendment by Pub. L. 109–364 applicable to any promotion list approved by the 
 
 #### Delegation of Functions
 
-For assignment of functions of President under subsec. (a) of this section, see section 1(d) of Ex. Ord. No.13358, Sept. 28, 2004, 69 F.R. 58797, set out as a note under section 301 of Title 3, The President.
+For assignment of functions of President under subsec. (a) of this section, see section 1(d) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, set out as a note under section 301 of Title 3, The President.
 
 #### Removals From Promotion List
 

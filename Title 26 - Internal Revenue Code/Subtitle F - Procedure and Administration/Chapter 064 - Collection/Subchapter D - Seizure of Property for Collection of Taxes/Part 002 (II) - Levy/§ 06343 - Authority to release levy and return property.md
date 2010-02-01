@@ -60,7 +60,7 @@ If—
 
 &emsp;&emsp;(C) the return of such property will facilitate the collection of the tax liability, or
 
-&emsp;&emsp;(D) with the consent of the taxpayer or the National Taxpayer Advocate, the return ofsuch property would be in the best interests of the taxpayer (as determined by the National Taxpayer Advocate) and the United States,
+&emsp;&emsp;(D) with the consent of the taxpayer or the National Taxpayer Advocate, the return of such property would be in the best interests of the taxpayer (as determined by the National Taxpayer Advocate) and the United States,
 
 > the provisions of subsection (b) shall apply in the same manner as if such property had been wrongly levied upon, except that no interest shall be allowed under subsection (c).
 

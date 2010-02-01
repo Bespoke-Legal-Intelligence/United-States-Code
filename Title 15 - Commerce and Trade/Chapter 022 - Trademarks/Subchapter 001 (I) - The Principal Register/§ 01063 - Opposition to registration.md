@@ -48,7 +48,7 @@ Amendment by Pub. L. 97–247 effective six months after Aug. 27, 1982, see sect
 
 #### Effective Date of 1975 Amendments
 
-Section 4 of Pub. L. 93–600 provided that: “This Act \[amending this section and sections 1071 and 1117 of thistitle\] shall become effective upon enactment \[Jan. 2, 1975\], but shall not affect any suit, proceeding, or appeal then pending.”
+Section 4 of Pub. L. 93–600 provided that: “This Act \[amending this section and sections 1071 and 1117 of this title\] shall become effective upon enactment \[Jan. 2, 1975\], but shall not affect any suit, proceeding, or appeal then pending.”
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of this title.
 

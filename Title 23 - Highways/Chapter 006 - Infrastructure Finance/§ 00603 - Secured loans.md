@@ -64,7 +64,7 @@ Maturity date.—The final maturity date of the secured loan shall be not later 
 
 &emsp;(6)
 
-Nonsubordination.—The secured loan shall not be subordinated to the claims of any holder of project obligations in the event of bankruptcy, insolvency, or liquidation of the obligor.
+Nonsubordination.—The secured loan shall not be subordinated to the claims of any holder of project obligations in the event ofbankruptcy, insolvency, or liquidation of the obligor.
 
 &emsp;(7)
 
@@ -132,7 +132,7 @@ Sale of Secured Loans.—
 
 &emsp;(1)
 
-In general.—Subject to paragraph (2), as soon as practicable after substantial completion of a project and after notifying the obligor, the Secretary may sell to another entity or reoffer into the capital markets a securedloan for the project if the Secretary determines that the sale or reoffering can be made on favorable terms.
+In general.—Subject to paragraph (2), as soon as practicable after substantial completion of a project and after notifying the obligor, the Secretary may sell to another entity or reoffer into the capital markets a secured loan for the project if the Secretary determines that the sale or reoffering can be made on favorable terms.
 
 &emsp;(2)
 

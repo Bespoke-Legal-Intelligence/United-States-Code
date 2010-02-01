@@ -82,9 +82,9 @@ Congressional Resolutions.—(1) In this subsection, “resolution”—
 
 (f)
 
-Application.—This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than December 31, 2009. This section does not apply to permits.
+Application.—This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than December 31, 2012. This section does not apply to permits.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1338; Pub. L. 104–287, §5(94), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(13), Oct. 28, 1998, 112 Stat. 2850; Pub. L. 106–74, title IV, §433, Oct. 20, 1999, 113 Stat. 1097; Pub. L. 106–377, §1(a)(1) \[title IV, §429\], Oct. 27, 2000, 114 Stat. 1441, 1441A–56; Pub. L. 106–405, §§5(b), 6(a), Nov. 1, 2000, 114 Stat. 1752; Pub. L. 108–428, §1, Nov. 30, 2004, 118 Stat. 2432; Pub. L. 108–492, §2(c)(22), (23), Dec. 23, 2004, 118 Stat. 3981.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1338; Pub. L. 104–287, §5(94), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(13), Oct. 28, 1998, 112 Stat. 2850; Pub. L. 106–74, title IV, §433, Oct. 20, 1999, 113 Stat. 1097; Pub. L. 106–377, §1(a)(1) \[title IV, §429\], Oct. 27, 2000, 114 Stat. 1441, 1441A–56; Pub. L. 106–405, §§5(b), 6(a), Nov. 1, 2000, 114 Stat. 1752; Pub. L. 108–428, §1, Nov. 30, 2004, 118 Stat. 2432; Pub. L. 108–492, §2(c)(22), (23), Dec. 23, 2004, 118 Stat. 3981; Pub. L. 111–125, §1, Dec. 28, 2009, 123 Stat. 3486.)
 
 Historical and Revision Notes
 
@@ -179,6 +179,8 @@ In subsection (f), the word “only” is omitted as surplus.
 This amends 49:70113(e)(6)(D) to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1340).
 
 #### Amendments
+
+2009—Subsec. (f). Pub. L. 111–125 substituted “December 31, 2012.” for “December 31, 2009.”
 
 2004—Subsec. (a)(1). Pub. L. 108–492, §2(c)(22), inserted “but not against a space flight participant,” after “subcontractor of a customer,”.
 

@@ -42,7 +42,7 @@ A payment may not be made to a State under this section with respect to expendit
 
 &emsp;(iii) 5, if the number of full percentage points by which the State fell short, as described in clause (i), is not less than 20.
 
-(Aug. 14, 1935, ch. 531, title IV, §424, formerly §423, as added Pub. L. 90–248, title II, §240(c),Jan. 2, 1968, 81 Stat. 913; amended Pub. L. 94–273, §22, Apr. 21, 1976, 90 Stat. 379; Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 518; Pub. L. 103–66, title XIII, §13711(b)(2), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–432, title II, §202(d)(1), Oct. 31, 1994, 108 Stat. 4454; renumbered §424 and amended Pub. L. 109–288, §§6(b)(2), (e)(1), (2)(A), 7(b), 11(a)(2), Sept. 28, 2006, 120 Stat. 1244, 1246–1248, 1255.)
+(Aug. 14, 1935, ch. 531, title IV, §424, formerly §423, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 913; amended Pub. L. 94–273, §22, Apr. 21, 1976, 90 Stat. 379; Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 518; Pub. L. 103–66, title XIII, §13711(b)(2), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–432, title II, §202(d)(1), Oct. 31, 1994, 108 Stat. 4454; renumbered §424 and amended Pub. L. 109–288, §§6(b)(2), (e)(1), (2)(A), 7(b), 11(a)(2), Sept. 28, 2006, 120 Stat. 1244, 1246–1248, 1255.)
 
 #### Codification
 

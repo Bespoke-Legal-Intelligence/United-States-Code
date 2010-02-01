@@ -120,7 +120,21 @@ For purposes of this section—
 
 #### (7) Recognition period
 
-&emsp;The term “recognition period” means the 10-year period beginning with the 1st day of the 1st taxable year for which the corporation was an S corporation. For purposes of applying this section to any amount includible in income by reason of section 593(e), the preceding sentence shall be applied without regard to the phrase “10-year”.
+#### (A) In general
+
+&emsp;&emsp;The term “recognition period” means the 10-year period beginning with the 1st day of the 1st taxable year for which the corporation was an S corporation.
+
+#### (B) Special rule for 2009 and 2010
+
+&emsp;&emsp;In the case of any taxable year beginning in 2009 or 2010, no tax shall be imposed on the net recognized built-in gain of an S corporation if the 7th taxable year in the recognition period preceded such taxable year. The preceding sentence shall be applied separately with respect to any asset to which paragraph (8) applies.
+
+#### (C) Special rule for distributions to shareholders
+
+&emsp;&emsp;For purposes of applying this section to any amount includible in income by reason of distributions to shareholders pursuant to section 593(e)—
+
+&emsp;&emsp;&emsp;(i) subparagraph (A) shall be applied without regard to the phrase “10-year”, and
+
+&emsp;&emsp;&emsp;(ii) subparagraph (B) shall not apply.
 
 #### (8) Treatment of transfer of assets from C corporation to S corporation
 
@@ -152,15 +166,17 @@ For purposes of this section—
 
 #### (e) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary to carry out the purposes ofthis section including regulations providing for the appropriate treatment of successor corporations.
+The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section including regulations providing for the appropriate treatment of successor corporations.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1683; amended Pub. L. 97–448, title III, §305(d)(3), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §102(d)(1), title IV, §474(r)(27), title VII, §721(u), July 18, 1984, 98 Stat. 623, 844, 971; Pub. L. 99–514, title VI, §632(a), Oct. 22, 1986, 100 Stat. 2275; Pub. L. 100–647, title I, §1006(f)(1)–(5)(A), Nov. 10, 1988, 102 Stat. 3403, 3404; Pub. L. 101–239, title VII, §7811(c)(4), (5)(B), (8), Dec. 19, 1989, 103 Stat. 2407, 2408; Pub. L. 105–34, title XVI, §1601(f)(5)(B), Aug. 5, 1997, 111 Stat. 1091.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1683; amended Pub. L. 97–448, title III, §305(d)(3), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §102(d)(1), title IV, §474(r)(27), title VII, §721(u), July 18, 1984, 98 Stat. 623, 844, 971; Pub. L. 99–514, title VI, §632(a), Oct. 22, 1986, 100 Stat. 2275; Pub. L. 100–647, title I, §1006(f)(1)–(5)(A), Nov. 10, 1988, 102 Stat. 3403, 3404; Pub. L. 101–239, title VII, §7811(c)(4), (5)(B), (8), Dec. 19, 1989, 103 Stat. 2407, 2408; Pub. L. 105–34, title XVI, §1601(f)(5)(B), Aug. 5, 1997, 111 Stat. 1091; Pub. L. 111–5, div. B, title I, §1251(a), Feb. 17, 2009, 123 Stat. 342.)
 
 #### Prior Provisions
 
 A prior section 1374, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 72 Stat. 1653; amended Pub. L. 86–376, §2(b), Sept. 23, 1959, 73 Stat. 699; Pub. L. 94–455, title XIX, §1901(a)(150), Oct. 4, 1976, 90 Stat. 1788, related to allowance to shareholders of corporation net operating loss, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 #### Amendments
+
+2009—Subsec. (d)(7). Pub. L. 111–5 amended par. (7) generally. Prior to amendment, text read as follows: “The term ‘recognition period’ means the 10-year period beginning with the 1st day of the 1st taxable year for which the corporation was an S corporation. For purposes of applying this section to any amount includible in income by reason of section 593(e), the preceding sentence shall be applied without regard to the phrase ‘10-year’.”
 
 1997—Subsec. (d)(7). Pub. L. 105–34 inserted at end “For purposes of applying this section to any amount includible in income by reason of section 593(e), the preceding sentence shall be applied without regard to the phrase ‘10-year’.”
 
@@ -200,13 +216,17 @@ Subsec. (c)(4). Pub. L. 98–369, §102(d)(1), added par. (4).
 
 1983—Subsec. (d). Pub. L. 97–448 substituted “this section” for “subsections (a)(2) and (b)(2)”.
 
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–5, div. B, title I, §1251(b), Feb. 17, 2009, 123 Stat. 342, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008.”
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -220,7 +240,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 102(d)(1) of Pub. L. 98–369 applicable to positions established after July 18, 1984, in taxable years ending after that date, except as otherwise provided, see section 102(f), (g) of Pub. L. 98–369 set out as a note under section 1256 of this title.
 
-Amendment by section 474(r)(27) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983,and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by section 474(r)(27) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 Amendment by section 721(u) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
 

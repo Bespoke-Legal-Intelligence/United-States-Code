@@ -22,7 +22,7 @@ The Secretary of the Interior, acting through the Bureau of Indian Affairs, and 
 
 (2) The position of Indian Youth Programs Officer shall be established on a permanent basis at no less than the grade of GS–14 of the General Schedule.
 
-(3) In addition to other responsibilities which may be assigned to the Indian Youth ProgramsOfficer relating to Indian Youth,<sup>2</sup> such Officer shall be responsible for—
+(3) In addition to other responsibilities which may be assigned to the Indian Youth Programs Officer relating to Indian Youth,<sup>2</sup> such Officer shall be responsible for—
 
 &emsp;(A) monitoring the performance and compliance of programs of the Bureau of Indian Affairs in meeting the goals and purposes of this chapter and the Memorandum of Agreement entered into under section 2411 of this title as they relate to Indian youth efforts, and
 

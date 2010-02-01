@@ -2,7 +2,7 @@
 
 (a) For the purpose of this section—
 
-&emsp;(1) agency means—
+&emsp;(1) “agency” means—
 
 &emsp;&emsp;(A) an Executive agency;
 

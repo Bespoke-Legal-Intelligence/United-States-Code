@@ -26,7 +26,7 @@ Subsec. (c). Pub. L. 98–426, §11(b), inserted at end “Each employer shall d
 
 Subsec. (d)(1). Pub. L. 98–426, §11(c), substituted “(or his agent or agents or other responsible official or officials designated by the employer pursuant to subsection (c) of this section)” for “(or his agent in charge of the business in the place where the injury occurred)”, substituted “injury or death, (2)” for “injury or death and”, and substituted “or (3)” for “or (2)”.
 
-Pub. L. 98–426, §11(c)(4), inserted “(i) notice, while not given to a responsible official designated by the employer pursuant to subsection (c) of this section, was given to an official of the employer or the employer's insurance carrier, and that the employer or carrier was not prejudiced due to the failure to provide notice to a responsible official designated by the employer pursuant to subsection (c) of this title, or (ii)”.
+Pub. L. 98–426, §11(c)(4), inserted “(i) notice, while not given to a responsible official designated by the employer pursuant to subsection (c) of this section, was given to an official of the employer or the employer'sinsurance carrier, and that the employer or carrier was not prejudiced due to the failure to provide notice to a responsible official designated by the employer pursuant to subsection (c) of this title, or (ii)”.
 
 1972—Subsec. (a). Pub. L. 92–576 provided for notice of an injury or death within thirty days after the employee or beneficiary is aware or in the exercise of reasonable diligence should have been aware of a relationship between the injury or death and the employment.
 

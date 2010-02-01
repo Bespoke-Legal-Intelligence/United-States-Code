@@ -110,7 +110,7 @@ Pub. L. 108–330, §3(b), (c), Oct. 16, 2004, 118 Stat. 1276, provided that:
 
 “(b)
 
-Appointment or Designation of CFO.—The President shall appoint or designate a Chief Financial Officer of the Department of Homeland Security under the amendment made by subsection (a) \[amending this section\] by not later than 180 days after the date of the enactment of this Act \[Oct. 16, 2004\].
+Appointment or Designation of CFO.—The President shall appoint or designate a Chief FinancialOfficer of the Department of Homeland Security under the amendment made by subsection (a) \[amending this section\] by not later than 180 days after the date of the enactment of this Act \[Oct. 16, 2004\].
 
 “(c)
 
@@ -136,7 +136,7 @@ Pay.—The Chief Financial Officer designated or appointed under such section sh
 
 Transfer of Functions.—(1) The President may transfer such offices, functions, powers, or duties thereof, as the President determines are properly related to the functions of the Chief Financial Officer under section 901(c) of title 31, United States Code (as added by subsection (a)).
 
-“(2) The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of any office the functions, powers, orduties of which are transferred under paragraph (1) shall also be so transferred.”
+“(2) The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of any office the functions, powers, or duties of which are transferred under paragraph (1) shall also be so transferred.”
 
 #### Chief Financial Officers of Department of Veterans Affairs and Department of Housing and Urban Development
 

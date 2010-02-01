@@ -42,7 +42,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (A) Coordination
 
-&emsp;&emsp;The Board shall notify the Commission of any pending Board investigation involving a potential violation of the securities laws, and thereafter coordinate its work with the work of the Commission's Division of Enforcement, as necessary to protect an ongoing Commission investigation.
+&emsp;&emsp;The Board shall notify the Commission of any pending Board investigation involving a potential violation of the securities laws,and thereafter coordinate its work with the work of the Commission's Division of Enforcement, as necessary to protect an ongoing Commission investigation.
 
 #### (B) Referral
 
@@ -202,7 +202,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (2) Expedited procedures
 
-&emsp;The Commission shall establish for appropriate cases an expedited procedure for consideration and determination of the question of the duration of a stay pending review of any disciplinary action of the Board under this subsection.
+&emsp;The Commission shall establish for appropriate cases an expedited procedure for consideration and determination of the question of the duration of a stay pending review of anydisciplinary action of the Board under this subsection.
 
 (Pub. L. 107–204, title I, §105, July 30, 2002, 116 Stat. 759; Pub. L. 110–289, div. A, title I, §1161(h), July 30, 2008, 122 Stat. 2781.)
 

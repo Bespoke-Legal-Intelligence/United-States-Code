@@ -32,7 +32,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 &emsp;&emsp;California
 
-5&nbsp;&nbsp;&nbsp;
+5   
 
 &emsp;&emsp;Colorado
 
@@ -156,7 +156,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 &emsp;&emsp;Oklahoma
 
-1   
+1&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;Oregon
 
@@ -264,7 +264,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 #### (A) Producer nominations
 
-&emsp;&emsp;The solicitation of nominations for subsequent appointment to the Board from eligible organizations certified under paragraph (3) shall be initiated by the Secretary, with the Board securing the nominations for the Secretary.
+&emsp;&emsp;The solicitation of nominations for subsequent appointment to the Board from eligible organizations certified under paragraph (3) shall be initiated by the Secretary, withthe Board securing the nominations for the Secretary.
 
 #### (B) Feeder and importer nominations
 
@@ -382,7 +382,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (A) Plans or projects
 
-&emsp;&emsp;The Executive Committee shall develop plans or projects of promotion, research, consumer information, education, industry information, and producer information, which shall be paid for with assessments collected by the Board. The plans or projectsshall not become effective until the plans or projects are approved by the Secretary.
+&emsp;&emsp;The Executive Committee shall develop plans or projects of promotion, research, consumer information, education, industry information, and producer information, which shall be paid for with assessments collected by the Board. The plans or projects shall not become effective until the plans or projects are approved by the Secretary.
 
 #### (B) Budgets
 

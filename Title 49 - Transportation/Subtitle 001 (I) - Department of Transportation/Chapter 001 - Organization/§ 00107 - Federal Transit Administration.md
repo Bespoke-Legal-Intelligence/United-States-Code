@@ -40,5 +40,5 @@ Redesignation of UMTA.—The Urban Mass Transportation Administration of the Dep
 
 “(b)
 
-References.—Any reference in a law, map, regulation, document, paper, or other record of the United States to the Urban Mass Transportation Administration shall be deemed to be a reference to the ‘Federal Transit Administration’.”
+References.—Any reference in a law, map, regulation, document, paper, or other record of the UnitedStates to the Urban Mass Transportation Administration shall be deemed to be a reference to the ‘Federal Transit Administration’.”
 

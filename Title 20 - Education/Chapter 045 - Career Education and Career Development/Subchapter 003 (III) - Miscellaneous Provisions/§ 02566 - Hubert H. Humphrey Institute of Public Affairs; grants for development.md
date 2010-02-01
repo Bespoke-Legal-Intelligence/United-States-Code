@@ -10,7 +10,7 @@ Section 4(d) of Pub. L. 95–270 provided that: “This Act \[enacting this sect
 
 #### Short Title
 
-Section 1 of Pub. L. 95–270 provided: “That this Act \[enacting this section, sections 2567 to 2569 of this title, and provisions set out as a note above\] may be cited as the ‘Hubert H. Humphrey Institute of Public Affairs and the Everett McKinley Dirksen Congressional Leadership Research Center Assistance Act’.”
+Section 1 of Pub. L. 95–270 provided: “That this Act \[enacting this section, sections 2567 to 2569 of this title,and provisions set out as a note above\] may be cited as the ‘Hubert H. Humphrey Institute of Public Affairs and the Everett McKinley Dirksen Congressional Leadership Research Center Assistance Act’.”
 
 #### Transfer of Functions
 

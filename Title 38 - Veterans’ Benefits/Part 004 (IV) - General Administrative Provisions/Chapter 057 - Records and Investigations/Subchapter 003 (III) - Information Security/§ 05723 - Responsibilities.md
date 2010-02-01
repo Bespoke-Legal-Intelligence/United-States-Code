@@ -20,7 +20,7 @@ Secretary of Veterans Affairs.—In accordance with the provisions of subchapter
 
 &emsp;(8) Notifying officials other than officials of the Department of data breaches when required under this subchapter.
 
-&emsp;(9) Ensuring that the Assistant Secretary for Information and Technology has the authority and control necessary to develop, approve, implement, integrate, and oversee the policies,procedures, processes, activities, and systems of the Department relating to subchapter III of chapter 35 of title 44, including the management of all related mission applications, information resources, personnel, and infrastructure.
+&emsp;(9) Ensuring that the Assistant Secretary for Information and Technology has the authority and control necessary to develop, approve, implement, integrate, and oversee the policies, procedures, processes, activities, and systems of the Department relating to subchapter III of chapter 35 of title 44, including the management of all related mission applications, information resources, personnel, and infrastructure.
 
 &emsp;(10) Submitting to the Committees on Veterans’ Affairs of the Senate and House of Representatives, the Committee on Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate, not later than March 1 each year, a report on the compliance of the Department with subchapter III of chapter 35 of title 44, with the information in such report displayed in the aggregate and separately for each Administration, office, and facility of the Department.
 
@@ -104,7 +104,7 @@ Other Key Officials.—In accordance with the provisions of subchapter III of ch
 
 &emsp;&emsp;&emsp;(iii) implement the provisions of a bulletin or alert of the Security Operations Center; and
 
-&emsp;&emsp;(B) organizational managers have all necessary authority and means to direct full compliance with such orders from the Assistant Secretary.
+&emsp;&emsp;(B) organizational managers have all necessary authority and means to direct fullcompliance with such orders from the Assistant Secretary.
 
 &emsp;(6) Ensuring the VA National Rules of Behavior is signed and enforced by all system users to ensure appropriate use and protection of the information which is used to support Department missions and functions on an annual basis.
 

@@ -24,7 +24,7 @@ No funds made available under this chapter shall be used for the purchase in bul
 
 #### (c) Agricultural commodities or products thereof available for disposition under Food for Peace Act
 
-In providing for the procurement of any agricultural commodity or product thereof available for disposition under the Food for Peace Act, as amended \[7 U.S.C. 1691 et seq.\], for transfer by grant under this chapter to any recipient country in accordance with its requirements, the President shall, insofar as practicable and when in furtherance of the purposes of this chapter, authorize the procurement of such agricultural commodity only within the United States except to the extent that such agricultural commodity is not available in the United States in sufficient quantities to supply emergency requirements of recipients under this chapter.
+In providing for the procurement of any agricultural commodity or product thereof available for disposition under the Food for Peace Act, as amended \[7 U.S.C. 1691 et seq.\], for transfer by grant under this chapter to any recipient country in accordance with its requirements, the President shall, insofar as practicable and whenin furtherance of the purposes of this chapter, authorize the procurement of such agricultural commodity only within the United States except to the extent that such agricultural commodity is not available in the United States in sufficient quantities to supply emergency requirements of recipients under this chapter.
 
 #### (d) Marine insurance
 
@@ -54,7 +54,7 @@ No funds authorized to be made available to carry out subchapter I of this chapt
 
 This chapter, referred to in subsecs. (a) to (c) and (e) to (g)(1), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Food for Peace Act, as amended, referred to in subsec. (c), is act July 10, 1954, ch. 469, 68 Stat. 454,which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, as amended, referred to in subsec. (c), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -78,7 +78,7 @@ Subsec. (g). Pub. L. 96–533, §705(b), added subsec. (g).
 
 1968—Subsec. (f). Pub. L. 90–554 added subsec. (f).
 
-1966—Subsec. (c). Pub. L. 89–583, §301(b)(1), struck out “surplus” before “agricultural commodity” in three places and inserted “or products thereof available for disposition under the Agricultural Trade Development and Assistance Act of 1954, as amended,” after “commodity” where first appearing.
+1966—Subsec. (c). Pub. L. 89–583, §301(b)(1), struck out “surplus” before “agricultural commodity” in threeplaces and inserted “or products thereof available for disposition under the Agricultural Trade Development and Assistance Act of 1954, as amended,” after “commodity” where first appearing.
 
 Subsec. (e). Pub. L. 89–583, §301(b)(2), added subsec. (e).
 

@@ -166,7 +166,7 @@ Termination of Alaska Power Administration.—Not later than one year after both
 
 Repeals.—(1) The Act of July 31, 1950 (64 Stat. 382) \[enacting sections 312 to 312d of Title 48, Territories and Insular Possessions, and provisions formerly set out as a note under section 312 of Title 48\] is repealed effective on the date that Eklutna is conveyed to the Eklutna Purchasers \[ownership of Eklutna project transferred Oct. 2, 1997\].
 
-“(2) Section 204 of the Flood Control Act of 1962 (76 Stat. 1193) is repealed effective on the date thatSnettisham is conveyed to the Snettisham Purchaser \[purchase of Snettisham project completed Aug. 19, 1998\].
+“(2) Section 204 of the Flood Control Act of 1962 (76 Stat. 1193) is repealed effective on the date that Snettisham is conveyed to the Snettisham Purchaser \[purchase of Snettisham project completed Aug. 19, 1998\].
 
 “(3) The Act of August 9, 1955 \[enacting sections 1962d–12 to 1962d–14 of this title\], concerning water resources investigation in Alaska (69 Stat. 618), is repealed.
 

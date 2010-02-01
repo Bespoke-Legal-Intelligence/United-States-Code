@@ -22,7 +22,7 @@ Notwithstanding any other provision of law regarding a competitive research, edu
 
 #### (d) “In-kind support” defined
 
-In any law relating to agricultural research, education, or extension activities administered by the Secretary, the term “in-kind support”,with regard to a requirement that the recipient of funds provided by the Secretary match all or part of the amount of the funds, means contributions such as office space, equipment, and staff support.
+In any law relating to agricultural research, education, or extension activities administered by the Secretary, the term “in-kind support”, with regard to a requirement that the recipient of funds provided by the Secretary match all or part of the amount of the funds, means contributions such as office space, equipment, and staff support.
 
 (Pub. L. 95–113, title XIV, §1469, Sept. 29, 1977, 91 Stat. 1019; Pub. L. 105–185, title II, §230(b), June 23, 1998, 112 Stat. 547; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(H), title VII, §7132(b), May 22, 2008, 122 Stat. 1096, 1097, 1228; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(H), title VII, §7132(b), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1989.)
 

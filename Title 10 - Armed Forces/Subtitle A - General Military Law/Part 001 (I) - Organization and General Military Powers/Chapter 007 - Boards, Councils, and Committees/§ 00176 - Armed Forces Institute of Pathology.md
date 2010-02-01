@@ -4,7 +4,7 @@
 
 (2) The Institute shall consist of a Board of Governors, a Director, two Deputy Directors, and a staff of such professional, technical, and clerical personnel as may be required.
 
-(3) The Board of Governors shall consist of the Assistant Secretary of Defense for Health Affairs, who shall serve as chairman of the Board of Governors, the Assistant Secretary of Health and Human Services for Health, the Surgeons General of the Army, Navy, and Air Force, the Under Secretary for Health of the Department of Veterans Affairs, and a former Director of the Institute, as designated by the Secretary of Defense, or the designee of any of the foregoing.
+(3) The Board of Governors shall consist of the Assistant Secretary of Defense for Health Affairs, who shall serve as chairman of the Board of Governors, the Assistant Secretary of Health and Human Services for Health, the Surgeons General of the Army, Navy, and Air Force, the Under Secretary for Health of the Departmentof Veterans Affairs, and a former Director of the Institute, as designated by the Secretary of Defense, or the designee of any of the foregoing.
 
 (4) The Director and the Deputy Directors shall be appointed by the Secretary of Defense.
 
@@ -66,7 +66,7 @@ Establishment.—
 
 &emsp;“(1)
 
-Establishment required.—The President shall establish and maintain a Joint Pathology Center thatshall function as the reference center in pathology for the Federal Government.
+Establishment required.—The President shall establish and maintain a Joint Pathology Center that shall function as the reference center in pathology for the Federal Government.
 
 &emsp;“(2)
 

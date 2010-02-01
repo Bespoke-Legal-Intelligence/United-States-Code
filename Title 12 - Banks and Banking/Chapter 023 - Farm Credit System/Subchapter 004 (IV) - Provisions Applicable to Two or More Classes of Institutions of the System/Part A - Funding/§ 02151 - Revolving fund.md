@@ -6,7 +6,7 @@ The revolving fund established by this section (in effect immediately before Jan
 
 #### References in Text
 
-For explanation of the revolving fund established by this section (in effect immediately before January 6,1988), referred to in text, see Revolving Funds note below.
+For explanation of the revolving fund established by this section (in effect immediately before January 6, 1988), referred to in text, see Revolving Funds note below.
 
 #### Amendments
 

@@ -130,111 +130,51 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (f) Health insurance coverage assistance for eligible individuals
 
-#### (1) In general
+#### (1) Use of funds
 
-&emsp;Funds made available to a State or entity under paragraph (4)(A) of subsection (a) of this section may be used by the State or entity for the following:
+#### (A) Health insurance coverage for eligible individuals in order to obtain qualified health insurance that has guaranteed issue and other consumer protections
 
-#### (A) Health insurance coverage
+&emsp;&emsp;Funds made available to a State or entity under paragraph (4)(A) of subsection (a) may be used to provide an eligible individual described in paragraph (4)(C) and such individual's qualifying family members with health insurance coverage for the 3-month period that immediately precedes the first eligible coverage month (as defined in section 35(b) of title 26) in which such eligible individual and such individual's qualifying family members are covered by qualified health insurance that meets the requirements described in clauses (i) through (v) <sup>2</sup> of section 35(e)(2)(A) of title 26 (or such longer minimum period as is necessary in order for such eligible individual and such individual's qualifying family members to be covered by qualified health insurance that meets such requirements).
 
-&emsp;&emsp;To assist an eligible individual and such individual's qualifying family members in enrolling in qualified health insurance.
+#### (B) Additional uses
 
-#### (B) Administrative and start-up expenses
+&emsp;&emsp;Funds made available to a State or entity under paragraph (4)(A) of subsection (a) may be used by the State or entity for the following:
 
-&emsp;&emsp;To pay the administrative expenses related to the enrollment of eligible individuals and such individuals’ qualifying family members in qualified health insurance, including—
+#### (i) Health insurance coverage
 
-&emsp;&emsp;&emsp;(i) eligibility verification activities;
+&emsp;&emsp;&emsp;To assist an eligible individual and such individual's qualifying family members with enrolling in health insurance coverage and qualified health insurance or paying premiums for such coverage or insurance.
 
-&emsp;&emsp;&emsp;(ii) the notification of eligible individuals of available qualified health insurance options;
+#### (ii) Administrative expenses and start-up expenses to establish group health plan coverage options for qualified health insurance
 
-&emsp;&emsp;&emsp;(iii) processing qualified health insurance costs credit eligibility certificates provided for under section 7527 of title 26;
+&emsp;&emsp;&emsp;To pay the administrative expenses related to the enrollment of eligible individuals and such individuals’ qualifying family members in health insurance coverage and qualified health insurance, including—
 
-&emsp;&emsp;&emsp;(iv) providing assistance to eligible individuals in enrolling in qualified health insurance;
+&emsp;&emsp;&emsp;&emsp;(I) eligibility verification activities;
 
-&emsp;&emsp;&emsp;(v) the development or installation of necessary data management systems; and
+&emsp;&emsp;&emsp;&emsp;(II) the notification of eligible individuals of available health insurance and qualified health insurance options;
 
-&emsp;&emsp;&emsp;(vi) any other expenses determined appropriate by the Secretary, including start-up costs and on going administrative expenses to carry out clauses (iv) through (ix) of paragraph (2)(A).
+&emsp;&emsp;&emsp;&emsp;(III) processing qualified health insurance costs credit eligibility certificates provided for under section 7527 of title 26;
+
+&emsp;&emsp;&emsp;&emsp;(IV) providing assistance to eligible individuals in enrolling in health insurance coverage and qualified health insurance;
+
+&emsp;&emsp;&emsp;&emsp;(V) the development or installation of necessary data management systems; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) any other expenses determined appropriate by the Secretary, including start-up costs and on going <sup>3</sup> administrative expenses, in order for the State to treat the coverage described in subparagraphs (C) through (H) of section 35(e)(1) of title 26 as qualified health insurance under that section.
+
+#### (iii) Outreach
+
+&emsp;&emsp;&emsp;To pay for outreach to eligible individuals to inform such individuals of available health insurance and qualified health insurance options, including outreach consisting of notice to eligible individuals of such options made available after February 17, 2009, and direct assistance to help potentially eligible individuals and such individual's qualifying family members qualify and remain eligible for the credit established under section 35 of title 26 and advance payment of such credit under section 7527 of such title.
+
+#### (iv) Bridge funding
+
+&emsp;&emsp;&emsp;To assist potentially eligible individuals to purchase qualified health insurance coverage prior to issuance of a qualified health insurance costs credit eligibility certificate under section 7527 of title 26 and commencement of advance payment, and receipt of expedited payment, under subsections (a) and (e), respectively, of that section.
+
+#### (C) Rule of construction
+
+&emsp;&emsp;The inclusion of a permitted use under this paragraph shall not be construed as prohibiting a similar use of funds permitted under subsection (g).
 
 #### (2) Qualified health insurance
 
-&emsp;For purposes of this subsection and subsection (g) of this section—
-
-#### (A) In general
-
-&emsp;&emsp;The term “qualified health insurance” means any of the following:
-
-&emsp;&emsp;&emsp;(i) Coverage under a COBRA continuation provision (as defined in section 1191b(d)(1) of this title).
-
-&emsp;&emsp;&emsp;(ii) State-based continuation coverage provided by the State under a State law that requires such coverage.
-
-&emsp;&emsp;&emsp;(iii) Coverage offered through a qualified State high risk pool (as defined in section 300gg–44(c)(2) of title 42).
-
-&emsp;&emsp;&emsp;(iv) Coverage under a health insurance program offered for State employees.
-
-&emsp;&emsp;&emsp;(v) Coverage under a State-based health insurance program that is comparable to the health insurance program offered for State employees.
-
-&emsp;&emsp;&emsp;(vi) Coverage through an arrangement entered into by a State and—
-
-&emsp;&emsp;&emsp;&emsp;(I) a group health plan (including such a plan which is a multiemployer plan as defined in section 1002(37) of this title),
-
-&emsp;&emsp;&emsp;&emsp;(II) an issuer of health insurance coverage,
-
-&emsp;&emsp;&emsp;&emsp;(III) an administrator, or
-
-&emsp;&emsp;&emsp;&emsp;(IV) an employer.
-
-&emsp;&emsp;&emsp;(vii) Coverage offered through a State arrangement with a private sector health care coverage purchasing pool.
-
-&emsp;&emsp;&emsp;(viii) Coverage under a State-operated health plan that does not receive any Federal financial participation.
-
-&emsp;&emsp;&emsp;(ix) Coverage under a group health plan that is available through the employment of the eligible individual's spouse.
-
-&emsp;&emsp;&emsp;(x) In the case of any eligible individual and such individual's qualifying family members, coverage under individual health insurance if the eligible individual was covered under individual health insurance during the entire 30-day period that ends on the date that such individual became separated from the employment which qualified such individual for—
-
-&emsp;&emsp;&emsp;&emsp;(I) in the case of an eligible TAA recipient, the allowance described in section 35(c)(2) of title 26,
-
-&emsp;&emsp;&emsp;&emsp;(II) in the case of an eligible alternative TAA recipient, the benefit described in section 35(c)(3)(B) of such title, or
-
-&emsp;&emsp;&emsp;&emsp;(III) in the case of any eligible PBGC pension recipient, the benefit described in section 35(c)(4)(B) of such title.
-
-&emsp;&emsp;&nbsp;For purposes of this clause, the term “individual health insurance” means any insurance which constitutes medical care offered to individuals other than in connection with a group health plan and does not include Federal- or State-based health insurance coverage.
-
-#### (B) Requirements for State-based coverage
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;The term “qualified health insurance” does not include any coverage described in clauses (ii) through (viii) of subparagraph (A) unless the State involved has elected to have such coverage treated as qualified health insurance under this paragraph and such coverage meets the following requirements:
-
-#### (I) Guaranteed issue
-
-&emsp;&emsp;&emsp;&emsp;Each qualifying individual is guaranteed enrollment if the individual pays the premium for enrollment or provides a qualified health insurance costs credit eligibility certificate described in section 7527 of title 26 and pays the remainder of such premium.
-
-#### (II) No imposition of preexisting condition exclusion
-
-&emsp;&emsp;&emsp;&emsp;No pre-existing condition limitations are imposed with respect to any qualifying individual.
-
-#### (III) Nondiscriminatory premium
-
-&emsp;&emsp;&emsp;&emsp;The total premium (as determined without regard to any subsidies) with respect to a qualifying individual may not be greater than the total premium (as so determined) for a similarly situated individual who is not a qualifying individual.
-
-#### (IV) Same benefits
-
-&emsp;&emsp;&emsp;&emsp;Benefits under the coverage are the same as (or substantially similar to) the benefits provided to similarly situated individuals who are not qualifying individuals.
-
-#### (ii) Qualifying individual
-
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “qualifying individual” means—
-
-&emsp;&emsp;&emsp;&emsp;(I) an eligible individual for whom, as of the date on which the individual seeks to enroll in clauses (ii) through (viii) of subparagraph (A), the aggregate of the periods of creditable coverage (as defined in section 9801(c) of title 26) is 3 months or longer and who, with respect to any month, meets the requirements of clauses (iii) and (iv) of section 35(b)(1)(A) of such title; and
-
-&emsp;&emsp;&emsp;&emsp;(II) the qualifying family members of such eligible individual.
-
-#### (C) Exception
-
-&emsp;&emsp;The term “qualified health insurance” shall not include—
-
-&emsp;&emsp;&emsp;(i) a flexible spending or similar arrangement, and
-
-&emsp;&emsp;&emsp;(ii) any insurance if substantially all of its coverage is of excepted benefits described in section 1191b(c) of this title.
+&emsp;For purposes of this subsection and subsection (g), the term “qualified health insurance” has the meaning given that term in section 35(e) of title 26.
 
 #### (3) Availability of funds
 
@@ -300,7 +240,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 &emsp;&emsp;&emsp;In the case of an eligible alternative TAA recipient (as defined in section 35(c)(3) of title 26), such individual is either—
 
-&emsp;&emsp;&emsp;&emsp;(I) eligible for coverage under any qualified health insurance (other than insurance described in clause (i), (ii), or (vi) of paragraph (2)(A)) under which at least 50 percent of the cost of coverage (determined under section 4980B(f)(4) ofsuch title) is paid or incurred by an employer (or former employer) of the taxpayer or the taxpayer's spouse, or
+&emsp;&emsp;&emsp;&emsp;(I) eligible for coverage under any qualified health insurance (other than insurance described in clause (i), (ii), or (vi) of paragraph (2)(A)) under which at least 50 percent of the cost of coverage (determined under section 4980B(f)(4) of such title) is paid or incurred by an employer (or former employer) of the taxpayer or the taxpayer's spouse, or
 
 &emsp;&emsp;&emsp;&emsp;(II) covered under any such qualified health insurance under which any portion of the cost of coverage (as so determined) is paid or incurred by an employer (or former employer) of the taxpayer or the taxpayer's spouse.
 
@@ -323,6 +263,26 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 &emsp;&emsp;&emsp;(i) is enrolled in a health benefits plan under chapter 89 of title 5, or
 
 &emsp;&emsp;&emsp;(ii) is entitled to receive benefits under chapter 55 of title 10.
+
+#### (8) Continued qualification of family members after certain events
+
+&emsp;In the case of eligible coverage months beginning before January 1, 2011—
+
+#### (A) Medicare eligibility
+
+&emsp;&emsp;In the case of any month which would be an eligible coverage month with respect to an eligible individual but for paragraph (7)(B)(i), such month shall be treated as an eligible coverage month with respect to such eligible individual solely for purposes of determining the eligibility of qualifying family members of such individual under this subsection. This subparagraph shall only apply with respect to the first 24 months after such eligible individual is first entitled to the benefits described in paragraph (7)(B)(i).
+
+#### (B) Divorce
+
+&emsp;&emsp;In the case of the finalization of a divorce between an eligible individual and such individual's spouse, such spouse shall be treated as an eligible individual for purposes of this subsection for a period of 24 months beginning with the date of such finalization, except that the only qualifying family members who may be taken into account with respect to such spouse are those individuals who were qualifying family members immediately before such finalization.
+
+#### (C) Death
+
+&emsp;&emsp;In the case of the death of an eligible individual—
+
+&emsp;&emsp;&emsp;(i) any spouse of such individual (determined at the time of such death) shall be treated as an eligible individual for purposes of this subsection for a period of 24 months beginning with the date of such death, except that the only qualifying family members who may be taken into account with respect to such spouse are those individuals who were qualifying family members immediately before such death, and
+
+&emsp;&emsp;&emsp;(ii) any individual who was a qualifying family member of the decedent immediately before such death shall be treated as an eligible individual for purposes <sup>4</sup> this subsection for a period of 24 months beginning with the date of such death, except that no qualifying family members may be taken into account with respect to such individual.
 
 #### (g) Interim health insurance coverage and other assistance
 
@@ -360,19 +320,25 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (5) Inclusion of certain individuals as eligible individuals
 
-&emsp;For purposes of this subsection, the term “eligible individual” includes an individual who is a member of a group of workers certified after April 1, 2002, under chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2271 et seq.\] (as in effect on the day before the effective date of the Trade Act of 2002) and is participating in the trade adjustment allowance program under such chapter (as so in effect) or who would be determined to be participating in such program under such chapter (as so in effect) if such chapter were applied without regard to section 231(a)(3)(B) of the Trade Act of 1974 \[19 U.S.C. 2291(a)(3)(B)\] (as so in effect).
+&emsp;For purposes of this subsection, the term “eligible individual” includes an individual who is a member of a group of workers certified after April 1, 2002, under chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2271 et seq.\] (as in effect on the day before the effective date of the Trade Act of 2002) and is participating in the trade adjustment allowance program under such chapter (as so in effect) or who would be determined to be participating in such program under such chapter (asso in effect) if such chapter were applied without regard to section 231(a)(3)(B) of the Trade Act of 1974 \[19 U.S.C. 2291(a)(3)(B)\] (as so in effect).
 
-(Pub. L. 105–220, title I, §173, Aug. 7, 1998, 112 Stat. 1035; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(12)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411, 2681–435; Pub. L. 107–210, div. A, title II, §203(a), (b), Aug. 6, 2002, 116 Stat. 963.)
+(Pub. L. 105–220, title I, §173, Aug. 7, 1998, 112 Stat. 1035; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(12)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411, 2681–435; Pub. L. 107–210, div. A, title II, §203(a), (b), Aug. 6, 2002, 116 Stat. 963; Pub. L. 111–5, div. B, title I, §§1899E(b), 1899K(a), Feb. 17, 2009, 123 Stat. 427, 433.)
 
 #### References in Text
 
+Section 35(e)(2)(A) of title 26, referred to in subsec. (f)(1)(A), does not contain a cl. (v).
+
 Section 1602 of this title, referred to in subsec. (e)(2)(A)(i), (3)(A), was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
 
-The Social Security Act, referred to in subsec. (f)(7)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare.Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(7)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.) (as in effect on the day before the effective date of the Trade Act of 2002), referred to in subsec. (g)(2), (5), is chapter 2 of title II of Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, as in effect on the day before the effective date of Pub. L. 107–210. Chapter 2 of title II of Pub. L. 93–618 is classified generally to part 2 (§2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For effective date provisions applicable to certain amendments by Pub. L. 107–210 to chapter 2 of title II of Pub. L. 93–618, see Effective Date of 2002 Amendment note set out preceding section 2271 of Title 19. For complete classification of Pub. L. 93–618 to the Code, see section 2101 of Title 19 and Tables.
 
 #### Amendments
+
+2009—Subsec. (f)(1), (2). Pub. L. 111–5, §1899K(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which authorized use of funds to assist enrollment in qualified health insurance and for payment of administrative and start-up expenses and defined “qualified health insurance”.
+
+Subsec. (f)(8). Pub. L. 111–5, §1899E(b), added par. (8).
 
 2002—Subsec. (a)(4). Pub. L. 107–210, §203(a), added par. (4).
 
@@ -381,6 +347,12 @@ Subsecs. (f), (g). Pub. L. 107–210, §203(b), added subsecs. (f) and (g).
 1998—Subsec. (a)(2). Pub. L. 105–277, §101(f) \[title VIII, §401(12)\], made technical amendment to reference in original act which appears in text as reference to section 5122 of title 42.
 
 Subsec. (e). Pub. L. 105–277, §101(f) \[title VIII\], added subsec. (e).
+
+#### Effective Date of 2009 Amendment
+
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
+
+Amendment by section 1899E(b) of Pub. L. 111–5 applicable to months beginning after Dec. 31, 2009, see section 1899E(c) of Pub. L. 111–5, set out as a note under section 35 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2002 Amendment
 
@@ -391,4 +363,10 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 Pub. L. 107–210, div. A, title II, §203(f), Aug. 6, 2002, 116 Stat. 972, provided that: “Nothing in this title \[enacting sections 35, 6050T, and 7527 of Title 26, Internal Revenue Code, and section 300gg–45 of Title 42, The Public Health and Welfare, amending this section, sections 1165, 2862, and 2919 of this title, sections 4980B, 6103, 6724, and 7213A of Title 26, section 1324 of Title 31, Money and Finance, and section 300bb–5 of Title 42, renumbering section 35 of Title 26 as section 36 of Title 26, and enacting provisions set out as notes under sections 35 and 6050T of Title 26\] (or the amendments made by this title), other than provisions relating to COBRA continuation coverage and reporting requirements, shall be construed as creating any new mandate on any party regarding health insurance coverage.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “ ‘military installation’ ”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “ongoing”.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be followed by “of”.</i>
 

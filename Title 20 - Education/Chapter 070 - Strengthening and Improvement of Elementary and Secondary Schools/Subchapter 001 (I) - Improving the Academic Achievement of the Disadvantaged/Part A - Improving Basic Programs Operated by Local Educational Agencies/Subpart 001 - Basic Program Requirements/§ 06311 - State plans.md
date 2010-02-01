@@ -208,7 +208,7 @@
 
 &emsp;&emsp;&emsp;(vi) involve multiple up-to-date measures of student academic achievement, including measures that assess higher-order thinking skills and understanding;
 
-&emsp;&emsp;&emsp;(vii) beginning not later than school year 2005–2006, measure the achievement of students against the challenging State academic content and student academic achievement standards in each of grades 3 through 8 in, at a minimum, mathematics, and reading or language arts, except that the Secretary may provide the State 1 additional year if the State demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State, prevented full implementation of the academic assessments by that deadline and that the State will complete implementation within the additional 1-year period;
+&emsp;&emsp;&emsp;(vii) beginning not later than school year 2005–2006, measure the achievement of students against the challenging State academic content and student academic achievement standards in each of grades 3through 8 in, at a minimum, mathematics, and reading or language arts, except that the Secretary may provide the State 1 additional year if the State demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State, prevented full implementation of the academic assessments by that deadline and that the State will complete implementation within the additional 1-year period;
 
 &emsp;&emsp;&emsp;(viii) at the discretion of the State, measure the proficiency of students in academic subjects not described in clauses (v), (vi), (vii) in which the State has adopted challenging academic content and academic achievement standards;
 
@@ -224,7 +224,7 @@
 
 &emsp;&emsp;&emsp;(xi) include students who have attended schools in a local educational agency for a full academic year but have not attended a single school for a full academic year, except that the performance of students who have attended more than 1 school in the local educational agency in any academic year shall be used only in determining the progress of the local educational agency;
 
-&emsp;&emsp;&emsp;(xii) produce individual student interpretive, descriptive, and diagnostic reports, consistent with clause (iii) that allow parents, teachers, and principals to understand and address the specific academic needs of students, and include information regarding achievement on academic assessments aligned with State academic achievement standards, and that are provided to parents, teachers, and principals,as soon as is practicably possible after the assessment is given, in an understandable and uniform format, and to the extent practicable, in a language that parents can understand;
+&emsp;&emsp;&emsp;(xii) produce individual student interpretive, descriptive, and diagnostic reports, consistent with clause (iii) that allow parents, teachers, and principals to understand and address the specific academic needs of students, and include information regarding achievement on academic assessments aligned with State academic achievement standards, and that are provided to parents, teachers, and principals, as soon as is practicably possible after the assessment is given, in an understandable and uniform format, and to the extent practicable, in a language that parents can understand;
 
 &emsp;&emsp;&emsp;(xiii) enable results to be disaggregated within each State, local educational agency, and school by gender, by each major racial and ethnic group, by English proficiency status, by migrant status, by students with disabilities as compared to nondisabled students, and by economically disadvantaged students as compared to students who are not economically disadvantaged, except that, in the case of a local educational agency or a school, such disaggregation shall not be required in a case in which the number of students in a category is insufficient to yield statistically reliable information or the results would reveal personally identifiable information about an individual student;
 
@@ -246,7 +246,7 @@
 
 #### (4) Special rule
 
-&emsp;Academic assessment measures in addition to those in paragraph (3) that do not meet the requirements of such paragraph may be included in the assessment under paragraph (3) as additional measures, but may not be used in lieu of the academic assessments required under paragraph (3). Such additional assessment measures may not be used to reduce the number of or change, the schools that would otherwise be subject to school improvement, corrective action, or restructuring under section 6316 of this title if such additional indicators were not used, but may be used to identify additional schools for school improvement or in need of corrective action or restructuring except as provided in paragraph (2)(I)(i).
+&emsp;Academic assessment measures in addition to those in paragraph (3) that do not meet the requirements of such paragraph may be included in the assessment under paragraph (3)as additional measures, but may not be used in lieu of the academic assessments required under paragraph (3). Such additional assessment measures may not be used to reduce the number of or change, the schools that would otherwise be subject to school improvement, corrective action, or restructuring under section 6316 of this title if such additional indicators were not used, but may be used to identify additional schools for school improvement or in need of corrective action or restructuring except as provided in paragraph (2)(I)(i).
 
 #### (5) State authority
 
@@ -272,7 +272,7 @@
 
 &emsp;Each State plan shall describe—
 
-&emsp;&emsp;(A) how the State educational agency will assist each local educational agency and school affected by the State plan to developthe capacity to comply with each of the requirements of sections 6312(c)(1)(D), 6314(b), and 6315(c) of this title that is applicable to such agency or school;
+&emsp;&emsp;(A) how the State educational agency will assist each local educational agency and school affected by the State plan to develop the capacity to comply with each of the requirements of sections 6312(c)(1)(D), 6314(b), and 6315(c) of this title that is applicable to such agency or school;
 
 &emsp;&emsp;(B) how the State educational agency will assist each local educational agency and school affected by the State plan to provide additional educational assistance to individual students assessed as needing help to achieve the State's challenging academic achievement standards;
 
@@ -414,7 +414,7 @@ Each State plan shall describe how the State educational agency will support the
 
 &emsp;&emsp;The State shall include in its annual State report card—
 
-&emsp;&emsp;&emsp;(i) information, in the aggregate, on student achievement at each proficiency level on the State academic assessments described in subsection (b)(3) of this section (disaggregated by race, ethnicity, gender, disability status, migrant status, English proficiency, and status as economically disadvantaged, except that such disaggregation shall not be required in a case in which the number of students in a category is insufficient to yield statistically reliable information or the results would reveal personally identifiable information about an individual student);
+&emsp;&emsp;&emsp;(i) information, in the aggregate, on student achievement at each proficiency level on the State academic assessments described in subsection (b)(3) of this section (disaggregated by race, ethnicity, gender, disability status, migrant status, English proficiency, and status as economically disadvantaged, except that such disaggregation shall not be required in acase in which the number of students in a category is insufficient to yield statistically reliable information or the results would reveal personally identifiable information about an individual student);
 
 &emsp;&emsp;&emsp;(ii) information that provides a comparison between the actual achievement levels of each group of students described in subsection (b)(2)(C)(v) of this section and the State's annual measurable objectives for each such group of students on each of the academic assessments required under this part;
 
@@ -508,7 +508,7 @@ Each State plan shall describe how the State educational agency will support the
 
 &emsp;&emsp;(F) the number of students and schools that participated in public school choice and supplemental service programs and activities under this subchapter; and
 
-&emsp;&emsp;(G) beginning not later than the 2002–2003 school year, information on the quality ofteachers and the percentage of classes being taught by highly qualified teachers in the State, local educational agency, and school.
+&emsp;&emsp;(G) beginning not later than the 2002–2003 school year, information on the quality of teachers and the percentage of classes being taught by highly qualified teachers in the State, local educational agency, and school.
 
 #### (5) Report to Congress
 

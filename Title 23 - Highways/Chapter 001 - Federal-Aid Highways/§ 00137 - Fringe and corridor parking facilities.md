@@ -94,7 +94,7 @@ Priority.—In allocating funds made available to carry out this section, the Se
 
 “(c)
 
-Report to Congress.—Not later than 3 years after the date of enactment of this Act \[Aug. 10, 2005\],the Secretary \[of Transportation\] shall submit to Congress a report on the results of the pilot program.
+Report to Congress.—Not later than 3 years after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] shall submit to Congress a report on the results of the pilot program.
 
 “(d)
 

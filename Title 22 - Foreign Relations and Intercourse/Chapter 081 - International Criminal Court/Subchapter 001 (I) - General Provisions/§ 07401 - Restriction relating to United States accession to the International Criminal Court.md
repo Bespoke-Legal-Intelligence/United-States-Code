@@ -10,7 +10,7 @@ None of the funds authorized to be appropriated by this or any other Act may be 
 
 #### (c) International Criminal Court defined
 
-In this section, the term “International Criminal Court” means the court established by theRome Statute of the International Criminal Court, adopted by the United Nations Diplomatic Conference of Plenipotentiaries on the Establishment of an International Criminal Court on July 17, 1998.
+In this section, the term “International Criminal Court” means the court established by the Rome Statute of the International Criminal Court, adopted by the United Nations Diplomatic Conference of Plenipotentiaries on the Establishment of an International Criminal Court on July 17, 1998.
 
 (Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §705\], Nov. 29, 1999, 113 Stat. 1536, 1501A–460.)
 

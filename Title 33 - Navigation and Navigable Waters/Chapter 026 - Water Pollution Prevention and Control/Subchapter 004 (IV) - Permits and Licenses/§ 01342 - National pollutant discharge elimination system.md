@@ -4,11 +4,11 @@
 
 (1) Except as provided in sections 1328 and 1344 of this title, the Administrator may, after opportunity for public hearing issue a permit for the discharge of any pollutant, or combination of pollutants, notwithstanding section 1311(a) of this title, upon condition that such discharge will meet either (A) all applicable requirements under sections 1311, 1312, 1316, 1317, 1318, and 1343 of this title, or (B) prior to the taking of necessary implementing actions relating to all such requirements, such conditions as the Administrator determines are necessary to carry out the provisions of this chapter.
 
-(2) The Administrator shall prescribe conditions for such permits to assure compliance with the requirements of paragraph (1) of this subsection, including conditions on data and information collection, reporting, and such other requirements as he deems appropriate.
+(2) The Administrator shall prescribe conditions for such permits to assure compliance withthe requirements of paragraph (1) of this subsection, including conditions on data and information collection, reporting, and such other requirements as he deems appropriate.
 
 (3) The permit program of the Administrator under paragraph (1) of this subsection, and permits issued thereunder, shall be subject to the same terms, conditions, and requirements as apply to a State permit program and permits issued thereunder under subsection (b) of this section.
 
-(4) All permits for discharges into the navigable waters issued pursuant to section 407 of this title shall be deemed to be permits issued under this subchapter, and permits issued underthis subchapter shall be deemed to be permits issued under section 407 of this title, and shall continue in force and effect for their term unless revoked, modified, or suspended in accordance with the provisions of this chapter.
+(4) All permits for discharges into the navigable waters issued pursuant to section 407 of this title shall be deemed to be permits issued under this subchapter, and permits issued under this subchapter shall be deemed to be permits issued under section 407 of this title, and shall continue in force and effect for their term unless revoked, modified, or suspended in accordance with the provisions of this chapter.
 
 (5) No permit for a discharge into the navigable waters shall be issued under section 407 of this title after October 18, 1972. Each application for a permit under section 407 of this title, pending on October 18, 1972, shall be deemed to be an application for a permit under this section. The Administrator shall authorize a State, which he determines has the capability of administering a permit program which will carry out the objectives of this chapter to issue permits for discharges into the navigable waters within the jurisdiction of such State. The Administrator may exercise the authority granted him by the preceding sentence only during the period which begins on October 18, 1972, and ends either on the ninetieth day after the date of the first promulgation of guidelines required by section 1314(i)(2) of this title, or the date of approval by the Administrator of a permit program for such State under subsection (b) of this section, whichever date first occurs, and no such authorization to a State shall extend beyond the last day of such period. Each such permit shall be subject to such conditions as the Administrator determines are necessary to carry out the provisions of this chapter. No such permit shall issue if the Administrator objects to such issuance.
 
@@ -46,7 +46,7 @@ At any time after the promulgation of the guidelines required by subsection (i)(
 
 (7) To abate violations of the permit or the permit program, including civil and criminal penalties and other ways and means of enforcement;
 
-(8) To insure that any permit for a discharge from a publicly owned treatment works includes conditions to require the identification in terms of character and volume of pollutants of any significant source introducing pollutants subject to pretreatment standards under section 1317(b) of this title into such works and a program to assure compliance with such pretreatment standards by each such source, in addition to adequate notice to the permitting agency of (A) new introductions into such works of pollutants from any source which would be a new source as defined in section 1316 of this title if such source were discharging pollutants, (B) new introductions of pollutants into such works from a source which would be subject to section 1311 of this title if it were discharging such pollutants, or (C) a substantial change in volume or character of pollutants being introduced into such works by a source introducing pollutants into such works at the time of issuance of the permit. Such notice shall include information on the quality and quantity of effluent to be introduced into such treatment works and any anticipated impact of such change in the quantity or quality of effluent to be discharged from such publicly owned treatment works; and
+(8) To insure that any permit for a discharge from a publicly owned treatment works includes conditions to require the identification in terms of character and volume of pollutants of any significant source introducing pollutants subject to pretreatment standards under section 1317(b) of this title into such works and a program to assure compliance with such pretreatment standards by each such source, in addition to adequate notice to the permitting agency of (A) new introductions into such works of pollutants from any source which would be a new source as defined in section 1316 of this title if such source were discharging pollutants, (B) new introductions of pollutants into such works from a source which would be subject to section 1311 of this title if it were discharging such pollutants, or (C) a substantial change in volume or character of pollutants being introduced into suchworks by a source introducing pollutants into such works at the time of issuance of the permit. Such notice shall include information on the quality and quantity of effluent to be introduced into such treatment works and any anticipated impact of such change in the quantity or quality of effluent to be discharged from such publicly owned treatment works; and
 
 (9) To insure that any industrial user of any publicly owned treatment works will comply with sections 1284(b), 1317, and 1318 of this title.
 
@@ -90,7 +90,7 @@ Any permit issued under this section for the discharge of pollutants into the na
 
 #### (h) Violation of permit conditions; restriction or prohibition upon introduction of pollutant by source not previously utilizing treatment works
 
-In the event any condition of a permit for discharges from a treatment works (as defined in section 1292 of this title) which is publicly owned is violated, a State with a program approved under subsection (b) of this section or the Administrator, where no State program is approved or where the Administrator determines pursuant to section 1319(a) of this title that a State with an approved program has not commenced appropriate enforcement action with respect to such permit, may proceed in a court of competent jurisdiction to restrict or prohibit the introduction of any pollutant into such treatment works by a source not utilizing such treatment works prior to the finding that such condition was violated.
+In the event any condition of a permit for discharges from a treatment works (as defined in section 1292 of this title) which is publicly owned is violated, a State with a program approved under subsection (b) of this section orthe Administrator, where no State program is approved or where the Administrator determines pursuant to section 1319(a) of this title that a State with an approved program has not commenced appropriate enforcement action with respect to such permit, may proceed in a court of competent jurisdiction to restrict or prohibit the introduction of any pollutant into such treatment works by a source not utilizing such treatment works prior to the finding that such condition was violated.
 
 #### (i) Federal enforcement not limited
 
@@ -196,7 +196,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 #### (A) Industrial discharges
 
-&emsp;&emsp;Permits for discharges associated with industrial activity shall meet all applicable provisions of this section and section 1311 of this title.
+&emsp;&emsp;Permits for discharges associated with industrial activity shall meet all applicableprovisions of this section and section 1311 of this title.
 
 #### (B) Municipal discharge
 
@@ -206,7 +206,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 &emsp;&emsp;&emsp;(ii) shall include a requirement to effectively prohibit non-stormwater discharges into the storm sewers; and
 
-&emsp;&emsp;&emsp;(iii) shall require controls to reduce the discharge of pollutants to the maximumextent practicable, including management practices, control techniques and system, design and engineering methods, and such other provisions as the Administrator or the State determines appropriate for the control of such pollutants.
+&emsp;&emsp;&emsp;(iii) shall require controls to reduce the discharge of pollutants to the maximum extent practicable, including management practices, control techniques and system, design and engineering methods, and such other provisions as the Administrator or the State determines appropriate for the control of such pollutants.
 
 #### (4) Permit application requirements
 
@@ -252,7 +252,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 No permit shall be required under this chapter by the Administrator (or a State, in the case of a permit program approved under subsection (b)) for the discharge of any graywater, bilge water, cooling water, weather deck runoff, oil water separator effluent, or effluent from properly functioning marine engines, or any other discharge that is incidental to the normal operation of a vessel, if the discharge is from a recreational vessel.
 
-(June 30, 1948, ch. 758, title IV, §402, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 880; amended Pub. L. 95–217, §§33(c), 50, 54(c)(1), 65, 66, Dec. 27, 1977, 91 Stat. 1577, 1588, 1591, 1599, 1600; Pub. L. 100–4, title IV, §§401–404(a), 404(c), formerly 404(d), 405, Feb. 4, 1987, 101 Stat. 65–67, 69, renumbered §404(c), Pub. L. 104–66, title II, §2021(e)(2), Dec. 21, 1995, 109 Stat. 727; Pub. L. 102–580, title III, §364, Oct. 31, 1992, 106 Stat. 4862; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §112(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–224; Pub. L. 110–288, §2, July 29, 2008, 122 Stat. 2650.)
+(June 30, 1948, ch. 758, title IV, §402, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 880; amended Pub. L. 95–217, §§33(c), 50, 54(c)(1), 65, 66, Dec. 27, 1977, 91 Stat. 1577, 1588, 1591, 1599, 1600; Pub. L. 100–4, title IV, §§401–404(a), 404(c), formerly 404(d), 405, Feb. 4, 1987, 101 Stat. 65–67, 69, renumbered §404(c), Pub. L. 104–66, title II,§2021(e)(2), Dec. 21, 1995, 109 Stat. 727; Pub. L. 102–580, title III, §364, Oct. 31, 1992, 106 Stat. 4862; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §112(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–224; Pub. L. 110–288, §2, July 29, 2008, 122 Stat. 2650.)
 
 #### Amendments
 
@@ -362,7 +362,7 @@ Pub. L. 102–240, title I, §1068, Dec. 18, 1991, 105 Stat. 2007, provided that
 
 “(a)
 
-General Rule.—Notwithstanding the requirements of sections 402(p)(2)(B), (C), and (D) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(p)(2)(B), (C), (D)\], permit application deadlines for stormwater discharges associated with industrial activities from facilities that are owned or operated by a municipality shall be established by the Administrator of the Environmental Protection Agency (hereinafter in this section referred to as the ‘Administrator’) pursuant to the requirements of this section.
+General Rule.—Notwithstanding the requirements of sections 402(p)(2)(B), (C), and (D) of the Federal Water Pollution Control Act \[33 U.S.C.1342(p)(2)(B), (C), (D)\], permit application deadlines for stormwater discharges associated with industrial activities from facilities that are owned or operated by a municipality shall be established by the Administrator of the Environmental Protection Agency (hereinafter in this section referred to as the ‘Administrator’) pursuant to the requirements of this section.
 
 “(b)
 

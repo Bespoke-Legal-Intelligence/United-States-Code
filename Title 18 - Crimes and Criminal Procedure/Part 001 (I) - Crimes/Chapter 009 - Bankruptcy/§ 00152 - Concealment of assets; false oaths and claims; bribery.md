@@ -8,7 +8,7 @@ A person who—
 
 &emsp;(3) knowingly and fraudulently makes a false declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28, in or in relation to any case under title 11;
 
-&emsp;(4) knowingly and fraudulently presents any false claim for proof against the estate of a debtor, or uses any such claim in any case under title 11, in a personal capacity or as or through an agent, proxy, or attorney;
+&emsp;(4) knowingly and fraudulently presents any false claim for proof against the estate of adebtor, or uses any such claim in any case under title 11, in a personal capacity or as or through an agent, proxy, or attorney;
 
 &emsp;(5) knowingly and fraudulently receives any material amount of property from a debtor after the filing of a case under title 11, with intent to defeat the provisions of title 11;
 
@@ -26,7 +26,7 @@ A person who—
 
 #### Historical and Revision Notes
 
-Based on section 52(b) of title 11, U.S.C., 1940 ed., Bankruptcy (July 1, 1898, ch. 541, §29b, 30 Stat. 554; May27, 1926, ch. 406, §11 (part), 44 Stat. 665; June 22, 1938, ch. 575, §1 (part), 52 Stat. 855).
+Based on section 52(b) of title 11, U.S.C., 1940 ed., Bankruptcy (July 1, 1898, ch. 541, §29b, 30 Stat. 554; May 27, 1926, ch. 406, §11 (part), 44 Stat. 665; June 22, 1938, ch. 575, §1 (part), 52 Stat. 855).
 
 Section was broadened to apply to one who gives or offers a bribe.
 

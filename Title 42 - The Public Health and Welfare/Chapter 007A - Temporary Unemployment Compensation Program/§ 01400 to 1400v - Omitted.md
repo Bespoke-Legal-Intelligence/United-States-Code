@@ -6,7 +6,7 @@ Section 1400a, Pub. L. 85–441, title I, §102, June 4, 1958, 72 Stat. 172, aut
 
 Section 1400b, Pub. L. 85–441, title I, §103, June 4, 1958, 72 Stat. 173, made special provision for veterans and Federal employees and for fair hearing and review in denial of such benefits.
 
-Section 1400c, Pub. L. 85–441, title I, §104, June 4, 1958, 72 Stat. 173; Pub. L. 86–778, title V, §524(b), Sept. 13, 1960, 74 Stat. 982; Pub. L. 88–173, §2, Nov. 7, 1963, 77 Stat. 306, provided for repayment of amounts of any temporary unemployment compensation benefits, except benefits paid to veterans and Federal employees, paid under sections 1400 to 1400k of this title through device of reduction of credits allowed under section 3302 of Title 26, Internal Revenue Code.
+Section 1400c, Pub. L. 85–441, title I, §104, June 4, 1958, 72 Stat. 173; Pub. L. 86–778, title V, §524(b), Sept. 13,1960, 74 Stat. 982; Pub. L. 88–173, §2, Nov. 7, 1963, 77 Stat. 306, provided for repayment of amounts of any temporary unemployment compensation benefits, except benefits paid to veterans and Federal employees, paid under sections 1400 to 1400k of this title through device of reduction of credits allowed under section 3302 of Title 26, Internal Revenue Code.
 
 Section 1400d, Pub. L. 85–441, title II, §201, June 4, 1958, 72 Stat. 174, defined “Secretary”, “State”, and “first claim” as used in sections 1400 to 1400k of this title.
 

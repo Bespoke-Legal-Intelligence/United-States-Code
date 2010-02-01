@@ -16,7 +16,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(ii) citizens of the United States must own not less than 75 percent of the interest in the entity or, in the case of a nonprofit entity, exercise control in the entity that is determined by the Secretary to be the equivalent of such ownership, and
 
-&emsp;&emsp;&emsp;(iii) nationals of the United States and citizens of the Northern Mariana Islandsshall be treated as citizens of the United States in meeting the ownership and control requirements referred to in clause (ii).
+&emsp;&emsp;&emsp;(iii) nationals of the United States and citizens of the Northern Mariana Islands shall be treated as citizens of the United States in meeting the ownership and control requirements referred to in clause (ii).
 
 &emsp;(2) The term “Secretary” means the Secretary of Commerce.
 
@@ -86,7 +86,7 @@ As used in this section—
 
 &emsp;(C) The recipient of the grant must submit to the Secretary periodic project status reports.
 
-(5)(A) If the cost of a project will be shared by the grant recipient, the Secretary shall accept,as a part or all of that share, the value of in-kind contributions made by the recipient, or made available to, and applied by, the recipient, with respect to the project.
+(5)(A) If the cost of a project will be shared by the grant recipient, the Secretary shall accept, as a part or all of that share, the value of in-kind contributions made by the recipient, or made available to, and applied by, the recipient, with respect to the project.
 
 (B) For purposes of subparagraph (A), in-kind contributions may be in the form of, but are not limited to, personal services rendered in carrying out functions related to, and permission to use real or personal property owned by others (for which consideration is not required) in carrying out the project. The Secretary shall establish (i) the training, experience, and other qualifications which shall be required in order for services to be considered as in-kind contributions; and (ii) the standards under which the Secretary will determine the value of in-kind contributions for purposes of subparagraph (A).
 
@@ -116,7 +116,7 @@ As used in this section—
 
 &emsp;(B) the Secretary shall use the balance of the moneys in the fund to finance those activities of the National Marine Fisheries Service which are directly related to development of the United States fisheries pursuant to subsection (d) of this section.
 
-(2) The Secretary shall, consistent with the number of meritorious applications received with respect to any fiscal year, obligate or expend all of the moneys in the fund described in paragraph (1). Any such moneys which are not expended in a given fiscal year shall remain available for expenditure in accordance with this section without fiscal year limitation, except that the Secretary shall not obligate such moneys at a rate less than that necessary to prevent the balance of moneys in the fund from exceeding $3,000,000 at the end of any fiscal year.
+(2) The Secretary shall, consistent with the number of meritorious applications received with respect to any fiscal year, obligate or expend all of the moneys in the fund described in paragraph (1). Any such moneys which are not expended in a given fiscal year shall remain available for expenditure in accordance with this section without fiscal year limitation, except that the Secretary shall not obligate such moneys at a rate less than that necessary toprevent the balance of moneys in the fund from exceeding $3,000,000 at the end of any fiscal year.
 
 (Aug. 11, 1939, ch. 696, §2, 53 Stat. 1412; July 1, 1954, ch. 447, 68 Stat. 376; Aug. 8, 1956, ch. 1036, §12(b), 70 Stat. 1124; Pub. L. 89–348, §1(13), Nov. 8, 1965, 79 Stat. 1311; Pub. L. 96–561, title II, §210, Dec. 22, 1980, 94 Stat. 3287; Pub. L. 97–424, title IV, §423(a), Jan. 6, 1983, 96 Stat. 2164; Pub. L. 99–659, title II, §209(e), Nov. 14, 1986, 100 Stat. 3721; Pub. L. 101–627, title VII, §703, Nov. 28, 1990, 104 Stat. 4463; Pub. L. 102–567, title IX, §902(c), Oct. 29, 1992, 106 Stat. 4319; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title I, §116(c), Oct. 11, 1996, 110 Stat. 3603.)
 
@@ -184,7 +184,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 ofTitle 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Transfer of Functions
 

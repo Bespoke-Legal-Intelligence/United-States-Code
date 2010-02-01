@@ -2,7 +2,7 @@
 
 The Legislative Counsel shall be appointed by the President pro tempore of the Senate, without reference to political affiliations and solely on the ground of fitness to perform the duties of the office.
 
-(Feb. 24, 1919, ch. 18, §1303(a), (d), 40 Stat. 1141; June 2, 1924, ch. 234, title XI, §1101, 43 Stat. 353; Sept. 20, 1941, ch. 412, title VI, §602, 55 Stat. 726.)
+(Feb. 24, 1919, ch. 18, title XIII, §1303(a), (d), 40 Stat. 1141; June 2, 1924, ch. 234, title XI, §1101, 43 Stat. 353; Sept. 20, 1941, ch. 412, title VI, §602, 55 Stat. 726.)
 
 #### Codification
 

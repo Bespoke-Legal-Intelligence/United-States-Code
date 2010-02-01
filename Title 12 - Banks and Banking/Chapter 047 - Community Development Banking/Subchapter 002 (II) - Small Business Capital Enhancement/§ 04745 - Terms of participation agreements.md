@@ -156,7 +156,7 @@ If, subsequent to payment of a claim by the participating State, a participating
 
 &emsp;&emsp;&emsp;(iii) additional or new financing is extended by the participating financial institution as part of the refinancing,
 
-> &emsp;&emsp;the participating financial institution may file the loan for enrollment, with the amount to be covered under the Program not to exceed the amount of any additional or new financing; and
+> &emsp;&emsp;the participating financial institution may file the loan for enrollment, with theamount to be covered under the Program not to exceed the amount of any additional or new financing; and
 
 &emsp;&emsp;(D) may include additional restrictions on the eligibility of loans or borrowers that are not inconsistent with the provisions and purposes of this subchapter.
 
@@ -184,7 +184,7 @@ The participation agreement may provide that, if, for any consecutive period of 
 
 #### (2) Payment of post-withdrawal claims
 
-&emsp;After any withdrawal of assets from the reserve fund pursuant to paragraph (1)(B), any future claims filed by the participating financial institution on loans remaining in its capital access program portfolio shall only be paid from funds remaining in the reserve fund to the extent that, in the aggregate, such claims exceed the sum of the amount of suchwithdrawn assets, and interest on that amount, imputed at the same rate as income would have accrued had the amount not been withdrawn.
+&emsp;After any withdrawal of assets from the reserve fund pursuant to paragraph (1)(B), any future claims filed by the participating financial institution on loans remaining in its capital access program portfolio shall only be paid from funds remaining in the reserve fund to the extent that, in the aggregate, such claims exceed the sum of the amount of such withdrawn assets, and interest on that amount, imputed at the same rate as income would have accrued had the amount not been withdrawn.
 
 #### (3) Conditions for terminating special authority
 

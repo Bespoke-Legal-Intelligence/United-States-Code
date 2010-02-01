@@ -80,7 +80,7 @@ Penalty.—
 
 &emsp;(1)
 
-Fiscal year 1994.—If, at any time in fiscal year 1994, a State does not have in effect a law described in subsection (a)(2), the Secretary shall transfer 11/2 percent of the funds apportioned to the State for fiscal year 1995 under each of subsections (b)(1), (b)(2), and (b)(3) ofsection 104 of this title to the apportionment of the State under section 402 of this title.
+Fiscal year 1994.—If, at any time in fiscal year 1994, a State does not have in effect a law described in subsection (a)(2), the Secretary shall transfer 11/2 percent of the funds apportioned to the State for fiscal year 1995 under each of subsections (b)(1), (b)(2), and (b)(3) of section 104 of this title to the apportionment of the State under section 402 of this title.
 
 &emsp;(2)
 

@@ -40,7 +40,7 @@ From the amount specified in subsection (a) of this section for a fiscal year, t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A State to which an amount is paid from amounts reserved under subparagraph (A) shall use the amount to support monthly caseworker visits with children who are in foster care under the responsibility of the State, with a primary emphasis on activities designed to improve caseworker retention, recruitment, training, and ability to access the benefits of technology.
+&emsp;&emsp;&emsp;A State to which an amount is paid from amounts reserved under subparagraph (A)shall use the amount to support monthly caseworker visits with children who are in foster care under the responsibility of the State, with a primary emphasis on activities designed to improve caseworker retention, recruitment, training, and ability to access the benefits of technology.
 
 #### (ii) Nonsupplantation
 

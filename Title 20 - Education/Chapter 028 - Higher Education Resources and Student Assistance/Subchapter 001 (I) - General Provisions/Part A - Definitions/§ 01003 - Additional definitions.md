@@ -30,7 +30,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(i) the Secretary pursuant to subpart 2 of part G of subchapter IV of this chapter; or
 
-&emsp;&emsp;&emsp;(ii) a Federal agency, State government, or other organization or association that recognizes accrediting agencies or associations.
+&emsp;&emsp;&emsp;(ii) a Federal agency, State government, or other organization or association thatrecognizes accrediting agencies or associations.
 
 #### (6) Disability
 
@@ -52,7 +52,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(i) the Internet;
 
-&emsp;&emsp;&emsp;(ii) one-way and two-way transmissions through open broadcast, closed circuit,cable, microwave, broadband lines, fiber optics, satellite, or wireless communications devices;
+&emsp;&emsp;&emsp;(ii) one-way and two-way transmissions through open broadcast, closed circuit, cable, microwave, broadband lines, fiber optics, satellite, or wireless communications devices;
 
 &emsp;&emsp;&emsp;(iii) audio conferencing; or
 
@@ -120,7 +120,7 @@ In this chapter:
 
 #### (18) Service-learning
 
-&emsp;The term “service-learning” has the same meaning given that term under section 12511(23) of title 42.
+&emsp;The term “service-learning” has the same meaning given that term under section 12511(23) <sup>1</sup> of title 42.
 
 #### (19) Special education teacher
 
@@ -134,7 +134,7 @@ In this chapter:
 
 #### (A) State
 
-&emsp;&emsp;The term “State” includes, in addition to the several States of the United States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Freely Associated States.
+&emsp;&emsp;The term “State” includes, in addition to the several States of the United States, the Commonwealth of Puerto Rico, the Districtof Columbia, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Freely Associated States.
 
 #### (B) Freely Associated States
 
@@ -167,6 +167,8 @@ Section 212(d) of the Education for Economic Security Act, referred to in par. (
 The Head Start Act, referred to in par. (8)(A), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 The Individuals with Disabilities Education Act, referred to in par. (8)(C)(ii)(II), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+
+Section 12511(23) of title 42, referred to in par. (18), was redesignated section 12511(40) by Pub. L. 111–13, title I, §1102(b)(1), Apr. 21, 2009, 123 Stat. 1467.
 
 #### Prior Provisions
 

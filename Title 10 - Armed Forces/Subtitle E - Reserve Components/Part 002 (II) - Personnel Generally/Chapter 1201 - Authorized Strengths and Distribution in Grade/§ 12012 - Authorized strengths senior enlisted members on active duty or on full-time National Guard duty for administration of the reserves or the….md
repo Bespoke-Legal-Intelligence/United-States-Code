@@ -91,7 +91,7 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | &nbsp; |  |  |
 | Air National Guard: |  |  |
 | 5,000 | 1,020 | 405&nbsp;&nbsp; |
-| 6,000 | 1,070 | 435&nbsp;&nbsp; |
+| 6,000 | 1,070 | 435   |
 | 7,000 | 1,120 | 465&nbsp;&nbsp; |
 | 8,000 | 1,170 | 490&nbsp;&nbsp; |
 | 9,000 | 1,220 | 510&nbsp;&nbsp; |

@@ -10,6 +10,10 @@ Based on title 28, U.S.C., 1940 ed., §321 (Mar. 3, 1911, ch. 231, §215, 36 Sta
 
 Appointment of “judges of the Supreme Court” by the President by and with the advice and consent of the Senate is provided by U.S. Constitution art. 2, §2, cl. 2.
 
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–122, §1, Dec. 22, 2009, 123 Stat. 3480, provided that: “This Act \[enacting section 509B of this title, amending sections 1103 and 1182 of Title 8, Aliens and Nationality, and sections 1091 and 2339A of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 1182 of Title 8\] may be cited as the ‘Human Rights Enforcement Act of 2009’.”
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–406, §1(a), Oct. 13, 2008, 122 Stat. 4291, provided that: “This Act \[enacting section 2045 of this title, amending sections 103, 123, 333, 991, 1864, 1866, 1869, 1871, 1875, and 1920 of this title, section 104 of Title 11, Bankruptcy, and sections 3006A, 3152, 3154, 3161, 3563, 3583, 3599, and 3672 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 123 and 1871 of this title\] may be cited as the ‘Judicial Administration and Technical Amendments Act of 2008’.”
@@ -30,7 +34,7 @@ Pub. L. 109–2, §1(a), Feb. 18, 2005, 119 Stat. 4, provided that: “This Act 
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–273, div. C, title I, §11020(a), Nov. 2, 2002, 116 Stat. 1826, provided that: “This section \[enacting sections 1369, 1697, and 1785 of this title, amending sections 1391 and 1441 of this title, and enacting provisions set out as a note under section 1369 of this title\] may be cited as the ‘Multiparty, Multiforum Trial Jurisdiction Act of 2002’.”
+Pub. L. 107–273, div. C, title I, §11020(a), Nov. 2, 2002, 116 Stat. 1826, provided that: “This section \[enacting sections 1369, 1697, and 1785 of this title, amending sections 1391 and 1441 of this title, and enacting provisions set out as a note under section 1369 of this title\] maybe cited as the ‘Multiparty, Multiforum Trial Jurisdiction Act of 2002’.”
 
 Pub. L. 107–273, div. C, title I, §11041, Nov. 2, 2002, 116 Stat. 1848, provided that: “This subtitle \[subtitle C (§§11041–11044) of title I of div. C of Pub. L. 107–273, enacting chapter 16 of this title, amending sections 331, 332, 372, 375, and 604 of this title, and section 7253 of Title 38, Veterans’ Benefits, and enacting provisions set out as a note under section 351 of this title\] may be cited as the ‘Judicial Improvements Act of 2002’.”
 
@@ -86,9 +90,9 @@ Pub. L. 100–702, §1, Nov. 19, 1988, 102 Stat. 4642, provided that: “This Ac
 
 Pub. L. 100–702, title VII, §701, Nov. 19, 1988, 102 Stat. 4654, provided that: “This title \[amending section 1827 of this title and enacting provisions set out as notes under section 1827 of this title\] may be cited as the ‘Court Interpreter Amendments Act of 1988’.”
 
-Pub. L. 100–694, §1, Nov. 18, 1988, 102 Stat. 4563, provided that: “This Act \[enacting section 831c–2 of Title 16, Conservation, amending sections 2671, 2674, and 2679 of this title, and enacting provisions set out as notes under sections 2671 and 2679 of this title\] may be cited as the ‘Federal Employees Liability Reform and Tort Compensation Act of 1988’.”
+Pub. L. 100–694, §1, Nov. 18, 1988, 102 Stat. 4563, provided that: “This Act \[enacting section 831c–2 of Title16, Conservation, amending sections 2671, 2674, and 2679 of this title, and enacting provisions set out as notes under sections 2671 and 2679 of this title\] may be cited as the ‘Federal Employees Liability Reform and Tort Compensation Act of 1988’.”
 
-Pub. L. 100–659, §1, Nov. 15, 1988, 102 Stat. 3910, provided that: “This Act \[enacting section 377 of this title and section 8440a of Title 5, Government Organization and Employees, amending sections 155, 375, 376, 604, 631, and 636 of this title and sections 8334 and 8402 of Title5, and enacting provisions set out as notes under sections 376 and 377 of this title\] may be cited as the ‘Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988’.”
+Pub. L. 100–659, §1, Nov. 15, 1988, 102 Stat. 3910, provided that: “This Act \[enacting section 377 of this title and section 8440a of Title 5, Government Organization and Employees, amending sections 155, 375, 376, 604, 631, and 636 of this title and sections 8334 and 8402 of Title 5, and enacting provisions set out as notes under sections 376 and 377 of this title\] may be cited as the ‘Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988’.”
 
 #### Short Title of 1987 Amendment
 
@@ -152,11 +156,11 @@ Pub. L. 95–408, §1, Oct. 2, 1978, 92 Stat. 883, provided that: “This Act \[
 
 Pub. L. 94–583, §1, Oct. 21, 1976, 90 Stat. 2891, provided: “That this Act \[enacting sections 1330 and 1602 to 1611 of this title, amending sections 1332, 1391, and 1441 of this title, and enacting provisions set out as notes under section 1602 of this title\] may be cited as the ‘Foreign Sovereign Immunities Act of 1976’.”
 
-Pub. L. 94–554, §1, Oct. 19, 1976, 90 Stat. 2603, provided: “That this Act \[amending section 376 of this title and enacting provisions set out as notes under section 376 of this title\] may be cited as the ‘Judicial Survivors’ Annuities Reform Act’.”
+Pub. L. 94–554, §1, Oct. 19, 1976, 90 Stat. 2603, provided: “That this Act \[amending section 376 of this title andenacting provisions set out as notes under section 376 of this title\] may be cited as the ‘Judicial Survivors’ Annuities Reform Act’.”
 
 #### Short Title of 1970 Amendment
 
-Pub. L. 91–271, title I, §101, June 2, 1970, 84 Stat. 274, provided that: “This title \[enacting sections 256 and 257 of this title, amending sections 253 to 255, 1541, 1582, 2601, 2602, and 2631 to 2639 of this title, repealing sections 1583 and 2640 to 2642 of this title, and enacting provisions set out as a note under section 256 of thistitle\] may be cited as ‘The Customs Courts Act of 1970’.”
+Pub. L. 91–271, title I, §101, June 2, 1970, 84 Stat. 274, provided that: “This title \[enacting sections 256 and 257 of this title, amending sections 253 to 255, 1541, 1582, 2601, 2602, and 2631 to 2639 of this title, repealing sections 1583 and 2640 to 2642 of this title, and enacting provisions set out as a note under section 256 of this title\] may be cited as ‘The Customs Courts Act of 1970’.”
 
 #### Short Title of 1966 Amendment
 

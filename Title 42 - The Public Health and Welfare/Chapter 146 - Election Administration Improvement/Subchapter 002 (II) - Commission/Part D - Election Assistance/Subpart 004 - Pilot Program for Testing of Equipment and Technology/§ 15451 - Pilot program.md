@@ -8,7 +8,7 @@ The Commission shall make grants to carry out pilot programs under which new tec
 
 An entity is eligible to receive a grant under this subpart if it submits to the Commission (at such time and in such form as the Commission may require) an application containing—
 
-&emsp;(1) certifications that the pilot programs funded with the grant will take into account the need to make voting equipment fully accessible for individuals with disabilities, including the blind and visually impaired, the need to ensure that such individuals can vote independently and with privacy, and the need to provide alternative language accessibility for individuals with limited proficiency in the English language (consistent with the requirements of the Voting Rights Act of 1965 \[42 U.S.C. 1973 et seq.\] and the requirements of this chapter); and
+&emsp;(1) certifications that the pilot programs funded with the grant will take into account the need to make voting equipment fully accessible for individuals with disabilities, including the blind and visually impaired, the need to ensure that such individuals can vote independently and with privacy, and the need to provide alternative language accessibilityfor individuals with limited proficiency in the English language (consistent with the requirements of the Voting Rights Act of 1965 \[42 U.S.C. 1973 et seq.\] and the requirements of this chapter); and
 
 &emsp;(2) such other information and certifications as the Commission may require.
 

@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(E) notifying the contracting agency within 10 days after receiving notice under subparagraph (D)(ii) from an employee or otherwise receiving actual notice of such conviction;
 
-&emsp;&emsp;(F) imposing a sanction on, or requiring the satisfactory participation in a drug abuse assistance or rehabilitation programby, any employee who is so convicted, as required by section 703 of this title; and
+&emsp;&emsp;(F) imposing a sanction on, or requiring the satisfactory participation in a drug abuse assistance or rehabilitation program by, any employee who is so convicted, as required by section 703 of this title; and
 
 &emsp;&emsp;(G) making a good faith effort to continue to maintain a drug-free workplace through implementation of subparagraphs (A), (B), (C), (D), (E), and (F).
 

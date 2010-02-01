@@ -16,7 +16,7 @@ Except with the written consent of the Secretary, it shall be unlawful—
 
 &emsp;&emsp;(A) has been convicted of a felony, or any other criminal offense involving dishonesty or breach of trust; or
 
-&emsp;&emsp;(B) has been found liable in a civil action for damages, or has been permanently or temporarily enjoined by an order, judgment, or decree of a court of competent jurisdiction, by reason of any act or practice involving fraud or breach of trust; and
+&emsp;&emsp;(B) has been found liable in a civil action for damages, or has been permanently ortemporarily enjoined by an order, judgment, or decree of a court of competent jurisdiction, by reason of any act or practice involving fraud or breach of trust; and
 
 &emsp;(2) for any person to continue to serve in any of the capacities described in paragraph (1), if—
 

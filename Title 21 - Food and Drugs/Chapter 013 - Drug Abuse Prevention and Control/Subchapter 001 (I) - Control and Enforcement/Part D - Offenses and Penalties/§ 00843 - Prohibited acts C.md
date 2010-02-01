@@ -62,7 +62,7 @@ In addition to any other applicable penalty, any person convicted of a felony vi
 
 (1) In addition to any penalty provided in this section, the Attorney General is authorized to commence a civil action for appropriate declaratory or injunctive relief relating to violations of this section, section 842 of this title, or 856 <sup>2</sup> of this title.
 
-(2) Any action under this subsection may be brought in the district court of the UnitedStates for the district in which the defendant is located or resides or is doing business.
+(2) Any action under this subsection may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business.
 
 (3) Any order or judgment issued by the court pursuant to this subsection shall be tailored to restrain violations of this section or section 842 of this title.
 
@@ -76,7 +76,7 @@ Schedules I and II, referred to in subsecs. (a)(1) and (c)(1), are set out in se
 
 This subchapter, referred to in subsec. (c)(2)(A), (C)(i), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
-The Controlled Substances Import and Export Act, referred to in subsec. (c)(2)(A), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§951 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
+The Controlled Substances Import and Export Act, referred to in subsec. (c)(2)(A), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classifiedprincipally to subchapter II (§951 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f)(4), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

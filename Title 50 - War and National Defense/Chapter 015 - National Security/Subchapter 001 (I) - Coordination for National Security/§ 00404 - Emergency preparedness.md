@@ -36,9 +36,9 @@ In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” sub
 
 #### Amendments
 
-<b>1954</b>—Act Sept. 3, 1954, struck out subsec. (a) relating to establishment of National Security Resources Board, and redesignated subsecs. (b) to (d) as subsecs. (a) to (c), respectively.
+1954—Act Sept. 3, 1954, struck out subsec. (a) relating to establishment of National Security Resources Board,and redesignated subsecs. (b) to (d) as subsecs. (a) to (c), respectively.
 
-<b>1949</b>—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+1949—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
 #### Repeals
 
@@ -54,7 +54,7 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 Office of Defense Mobilization and Federal Civil Defense Administration consolidated to form Office of Emergency Planning, an agency within Executive Office of President, by section 2 of Reorg. Plan No. 1 of 1958, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799, as amended, set out in the Appendix to Title 5, Government Organization and Employees, and functions vested by law in Office of Defense Mobilization and Director thereof transferred to President, with power to delegate, by section 1 of Reorg. Plan No. 1 of 1958.
 
-Office of Emergency Planning changed to Office of Emergency Preparedness pursuant to section 402 ofPub. L. 90–608, Oct. 21, 1968, 82 Stat. 1194, which provided that references in laws to Office of Emergency Planning after Oct. 21, 1968, should be deemed references to Office of Emergency Preparedness.
+Office of Emergency Planning changed to Office of Emergency Preparedness pursuant to section 402 of Pub. L. 90–608, Oct. 21, 1968, 82 Stat. 1194, which provided that references in laws to Office of Emergency Planning after Oct. 21, 1968, should be deemed references to Office of Emergency Preparedness.
 
 Office of Emergency Preparedness, including offices of Director, Deputy Director, Assistant Directors, and Regional Directors, abolished and functions vested by law in Office of Emergency Preparedness transferred to President of United States by sections 1 and 3(a)(1) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -82,7 +82,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### NATIONAL SECURITY RESOURCES BOARD
 
-#### Section 1. Functions of Chairman and of Board
+I74Section 1. Functions of Chairman and of Board
 
 The functions of the National Security Resources Board are hereby transferred to the Chairman of the National Security Resources Board, and the Board shall hereafter advise and consult with the Chairman with respect to such matters within his jurisdiction as he may request.
 
@@ -98,7 +98,7 @@ The Chairman may from time to time make such provisions as he shall deem appropr
 
 > To the Congress of the United States:
 
-I transmit herewith Reorganization Plan No. 25 of 1950, prepared in accordance with the provisions of the Reorganization Act of 1949. The plan transfers the function of the National Security Resources Board from the Board to the Chairman of the Board and makes the Board advisory to the Chairman. The plan also provides for a Vice Chairman, appointed by the President and confirmed by the Senate.
+I transmit herewith Reorganization Plan No. 25 of 1950, prepared in accordance with the provisions of the Reorganization Act of 1949. The plan transfers the function of the National Security Resources Board from the Board to the Chairman of the Board and makes theBoard advisory to the Chairman. The plan also provides for a Vice Chairman, appointed by the President and confirmed by the Senate.
 
 The function assigned to the National Security Resources Board by the National Security Act of 1947 is “to advise the President concerning the coordination of military, industrial and civilian mobilization.” Proper performance of this function requires action by the Board and its staff in two broad areas:
 
@@ -136,7 +136,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### OFFICE OF DEFENSE MOBILIZATION
 
-#### Section 1. Establishment of Office
+I74Section 1. Establishment of Office
 
 (a) There is hereby established in the Executive Office of the President a new agency which shall be known as the Office of Defense Mobilization, hereinafter referred to as the “Office.”
 
@@ -166,7 +166,7 @@ There are hereby transferred to the Director:
 
 #### Sec. 4. Records, Property, Personnel, and Funds
 
-There shall be transferred with the functions transferred by this reorganization plan from the Chairman of the National Security Resources Board and the Department of Defense, respectively, so much of the records, property, personnel, and unexpended balancesof appropriations, allocations, and other funds, used, held, employed, available, or to be made available in connection with the said functions, as the Director shall determine to be required for the performance of the transferred functions by the Office, but all transfers from the Department of Defense under the foregoing provisions of this section shall be subject to the approval of the Secretary of Defense.
+There shall be transferred with the functions transferred by this reorganization plan from the Chairman of the National Security Resources Board and the Department of Defense, respectively, so much of the records, property, personnel, and unexpended balances of appropriations, allocations, and other funds, used, held, employed, available, or to be made available in connection with the said functions, as the Director shall determine to be required for the performance of the transferred functions by the Office, but all transfers from the Department of Defense under the foregoing provisions of this section shall be subject to the approval of the Secretary of Defense.
 
 #### Sec. 5. Abolition of Functions
 
@@ -198,13 +198,13 @@ Both functions should now be combined into one defense mobilization agency. Acco
 
 The reorganization plan also transfers to the new agency the statutory functions of the present Office of Defense Mobilization. These are of a minor nature, the major functions of the present Office of Defense Mobilization having been delegated to it by the President, principally under the Defense Production Act of 1950, as amended. It is my intention to transfer the latter functions to the new agency by Executive order, and to abolish the Office of Defense Mobilization established by Executive Order No. 10193. There will thus result a new agency which combines the activities of the National Security Resources Board and both the statutory and delegated functions of the heretofore existing Office of Defense Mobilization.
 
-The proposed plan would also reorganize various activities relating to the stockpiling of strategic and critical materials. Those activities are principally provided for in the Strategic and Critical Materials Stock Piling Act, as amended. It has become increasingly apparent that the policy and program aspects of stockpiling are an integral part of mobilization planning. They should not be administered separately from plant expansion, conservation of materials, and materials procurement under the Defense Production Act of 1950, or from the duties placed in the National Security Resources Board by the National Security Act of 1947. Therefore, the reorganization plan would transfer to the Director of the new Office of Defense Mobilization responsibility for major stockpiling actions, including the determination of the nature and quantities of materials to be stockpiled. In the main, these functions are transferred from the Secretaries of the Army, Navy, and Air Force (acting jointly through the agency of the Munitions Board) and the Secretary of the Interior. The duties of the Administrator of General Services regarding the purchase of strategic and critical materials and the management of stockpiles are not affected by the reorganization plan, except that he will receive his directions, under the plan, from the Director of the Office of Defense Mobilization instead of from the Department of Defense.
+The proposed plan would also reorganize various activities relating to the stockpiling of strategic and critical materials. Those activities are principally provided for in the Strategic and Critical Materials Stock Piling Act, as amended. It has become increasingly apparent that the policy and program aspects of stockpiling are an integral part of mobilization planning. They should not be administered separately from plant expansion, conservation of materials, and materials procurement under the Defense Production Act of 1950, or from the duties placed in the National Security Resources Board by the National Security Act of 1947. Therefore, the reorganization plan would transfer to the Director of the new Office of Defense Mobilization responsibility for major stockpiling actions, including the determination of the nature and quantities of materials to be stockpiled. In the main, these functionsare transferred from the Secretaries of the Army, Navy, and Air Force (acting jointly through the agency of the Munitions Board) and the Secretary of the Interior. The duties of the Administrator of General Services regarding the purchase of strategic and critical materials and the management of stockpiles are not affected by the reorganization plan, except that he will receive his directions, under the plan, from the Director of the Office of Defense Mobilization instead of from the Department of Defense.
 
 This transfer of stockpiling functions will correct the present undesirable confusion of responsibilities. The functions of the heads of the military departments of the Department of Defense and the Secretary of the Interior under the Strategic and Critical Materials Stock Piling Act, as amended, are at present in considerable measure subject to other authority of delegates of the President springing from the Defense Production Act of 1950, as amended. The allocation and distribution of scarce materials among essential civilian and military activities and the continued maintenance of adequate stockpiles of strategic and critical materials are of major current importance. The reorganization plan will make possible more effective coordination and close control over the Government's whole stockpile program. It will speed decisions. It can result in significant economies.
 
 The Department of Defense will, of course, continue to be responsible for presenting the needs of the military services. That Department and the Department of the Interior are specifically designated in the plan as additional agencies which shall appoint representatives to cooperate with the Director of the Office of Defense Mobilization in determining which materials are strategic and critical and how much of them is to be purchased. Final authority with regard to such determination will, however, be in the Director of the Office of Defense Mobilization.
 
-Section 5(a) of the reorganization plan withholds from transfer to the Director and abolishes the functions of the Chairman of the National Security Resources Board with regard to being consulted by and furnishing advice to the President concerning the placing of orders of mandatory precedence for articles ormaterials for the use of the armed forces of the United States or for the use of the Atomic Energy Commission, and with regard to determining that a plant, mine, or other facility can be readily converted to the production or furnishing of such articles or materials. These abolished functions were vested in the National Security Resources Board by section 18 of the Selective Service Act of 1948 (later renamed as the Universal Military Training and Service Act) and were transferred to the Chairman of that Board by Reorganization Plan No. 25 of 1950. The practical effect of this abolition is to obviate a statutory mandate that the President consult and advise with another officer of the executive branch of the Government.
+Section 5(a) of the reorganization plan withholds from transfer to the Director and abolishes the functions of the Chairman of the National Security Resources Board with regard to being consulted by and furnishing advice to the President concerning the placing of orders of mandatory precedence for articles or materials for the use of the armed forces of the United States or for the use of the Atomic Energy Commission, and with regard to determining that a plant, mine, or other facility can be readily converted to the production or furnishing of such articles or materials. These abolished functions were vested in the National Security Resources Board by section 18 of the Selective Service Act of 1948 (later renamed as the Universal Military Training and Service Act) and were transferred to the Chairman of that Board by Reorganization Plan No. 25 of 1950. The practical effect of this abolition is to obviate a statutory mandate that the President consult and advise with another officer of the executive branch of the Government.
 
 Section 5(b) of the reorganization plan abolishes the direction, authority, and control of the Secretary of Defense over functions transferred from the Department of Defense by the reorganization plan. The Secretary's functions in this regard are provided for in section 202(b) of the National Security Act of 1947, as amended (5 U.S.C. 171a(b)) \[see 10 U.S.C. 113(b)\].
 

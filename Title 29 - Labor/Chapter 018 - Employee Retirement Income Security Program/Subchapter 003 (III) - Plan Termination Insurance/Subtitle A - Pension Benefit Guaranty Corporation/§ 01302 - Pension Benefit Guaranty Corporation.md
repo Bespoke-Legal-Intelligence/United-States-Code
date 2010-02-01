@@ -28,7 +28,7 @@ To carry out the purposes of this subchapter, the corporation has the powers con
 
 &emsp;(7) to utilize the personnel and facilities of any other agency or department of the United States Government, with or without reimbursement, with the consent of the head of such agency or department; and
 
-&emsp;(8) to enter into contracts, to execute instruments, to incur liabilities, and to do any and all other acts and things as may be necessary or incidental to the conduct of its business and the exercise of all other rights and powers granted to the corporation by this chapter.
+&emsp;(8) to enter into contracts, to execute instruments, to incur liabilities, and to do any andall other acts and things as may be necessary or incidental to the conduct of its business and the exercise of all other rights and powers granted to the corporation by this chapter.
 
 #### (c) Omitted
 
@@ -62,11 +62,11 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 (4) Members shall be chosen on the basis of their experience with employee organizations, with employers who maintain pension plans, with the administration of pension plans, or otherwise on account of outstanding demonstrated ability in related fields. Of the members serving on the advisory committee at any time, no more than four shall be affiliated with the same political party.
 
-(5) An individual appointed to fill a vacancy occurring other than by the expiration of a termof office shall be appointed only for the unexpired term of the member he succeeds. Any vacancy occurring in the office of a member of the advisory committee shall be filled in the manner in which that office was originally filled.
+(5) An individual appointed to fill a vacancy occurring other than by the expiration of a term of office shall be appointed only for the unexpired term of the member he succeeds. Any vacancy occurring in the office of a member of the advisory committee shall be filled in the manner in which that office was originally filled.
 
 (6) The advisory committee shall appoint and fix the compensation of such employees as it determines necessary to discharge its duties, including experts and consultants in accordance with the provisions of section 3109 of title 5. The corporation shall furnish to the advisory committee such professional, secretarial, and other services as the committee may request.
 
-(7) Members of the advisory committee shall, for each day (including traveltime) during which they are attending meetings or conferences of the committee or otherwise engaged in the business of the committee, be compensated at a rate fixed by the corporation which is not in excess of the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5.
+(7) Members of the advisory committee shall, for each day (including traveltime) during which they are attending meetings or conferences of the committee or otherwise engaged in the business of the committee, be compensated at a rate fixed by the corporation which is not in excess of the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule, and while away from their homesor regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5.
 
 (8) The Federal Advisory Committee Act does not apply to the advisory committee established by this subsection.
 
@@ -130,5 +130,5 @@ Pub. L. 109–280, title IV, §411(d), Aug. 17, 2006, 120 Stat. 936, provided th
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

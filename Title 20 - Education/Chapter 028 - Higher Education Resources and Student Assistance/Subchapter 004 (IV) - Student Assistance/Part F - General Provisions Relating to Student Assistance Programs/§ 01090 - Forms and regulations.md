@@ -38,7 +38,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall make all efforts to encourage all applicants to utilize the electronic version of the forms described in paragraph (3).
+&emsp;&emsp;&emsp;The Secretary shall make all efforts to encourage all applicants to utilize theelectronic version of the forms described in paragraph (3).
 
 #### (ii) Maintenance of the FAFSA in a printable electronic file
 
@@ -80,7 +80,7 @@
 
 #### (C) State data
 
-&emsp;&emsp;The Secretary shall include on the electronic version of the forms such items as may be necessary to determine eligibility for State financial assistance, as provided under paragraph (5), except the Secretary shall not require an applicant to enter data pursuant to this subparagraph that are required by any State other than the applicant's State of residence.
+&emsp;&emsp;The Secretary shall include on the electronic version of the forms such items as may be necessary to determine eligibility for State financial assistance, as provided under paragraph (5), except that the Secretary shall not require an applicant to enter data pursuant to this subparagraph that are required by any State other than the applicant's State of residence.
 
 #### (D) Availability and processing
 
@@ -88,7 +88,7 @@
 
 #### (E) Privacy
 
-&emsp;&emsp;The Secretary shall ensure that data collection under this paragraph complies withsection 552a of title 5 and that any entity using the electronic version of the forms developed by the Secretary pursuant to this paragraph shall maintain reasonable and appropriate administrative, technical, and physical safeguards to ensure the integrity and confidentiality of the information, and to protect against security threats, or unauthorized uses or disclosures of the information provided on the electronic version of the forms. Data collected by such electronic version of the forms shall be used only for the application, award, and administration of aid awarded under this subchapter and part C of subchapter I of chapter 34 of title 42, State aid, or aid awarded by eligible institutions or such entities as the Secretary may designate. No data collected by such electronic version of the forms shall be used for making final aid awards under this subchapter and part C of subchapter I of chapter 34 of title 42 until such data have been processed by the Secretary or a contractor or designee of the Secretary, except as may be permitted under this subchapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;&emsp;The Secretary shall ensure that data collection under this paragraph complies with section 552a of title 5 and that any entity using the electronic version of the forms developed by the Secretary pursuant to this paragraph shall maintain reasonable and appropriate administrative, technical, and physical safeguards to ensure the integrity and confidentiality of the information, and to protect against security threats, or unauthorized uses or disclosures of the information provided on the electronic version of the forms. Data collected by such electronic version of the forms shall be used only for the application, award, and administration of aid awarded under this subchapter and part C of subchapter I of chapter 34 of title 42, State aid, or aid awarded by eligible institutions or such entities as the Secretary may designate. No data collected by such electronic version of the forms shall be used for making final aid awards under this subchapter and part C of subchapter I of chapter 34 of title 42 until such data have been processed by the Secretary or a contractor or designee of the Secretary, except as may be permitted under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (F) Signature
 
@@ -210,7 +210,7 @@
 
 #### (10) Distribution of data
 
-&emsp;Institutions of higher education, guaranty agencies, and States shall receive, without charge, the data collected by the Secretary using a form developed under this subsection for the purposes of processing loan applications and determining need and eligibility for institutional and State financial aid awards. Entities designated by institutions of highereducation, guaranty agencies, or States to receive such data shall be subject to all the requirements of this section, unless such requirements are waived by the Secretary.
+&emsp;Institutions of higher education, guaranty agencies, and States shall receive, without charge, the data collected by the Secretary using a form developed under this subsection for the purposes of processing loan applications and determining need and eligibility for institutional and State financial aid awards. Entities designated by institutions of higher education, guaranty agencies, or States to receive such data shall be subject to all the requirements of this section, unless such requirements are waived by the Secretary.
 
 #### (11) Third party servicers and private software providers
 
@@ -226,7 +226,7 @@ Copies of all rules, regulations, guidelines, instructions, and application form
 
 #### (c) Toll-free information
 
-The Secretary shall contract for, or establish, and publicize a toll-free telephone service to provide timely and accurate information to the general public. The information provided shall include specific instructions on completing the application form for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42. Such service shall also include a service accessible by telecommunications devices for the deaf (TDD's) and shall, in addition to the services provided for in the previous sentence, refer such students to the national clearinghouse on postsecondary education or other appropriate provider of technical assistance and information on postsecondary educational services for individuals with disabilities, including the National Technical Assistance Center under section 1140q of this title. The Secretary shall continue to implement, to the extent practicable, a toll-free telephone based system to permit applicants who meet the requirements of subsection (b) or (c) of section 1087ss of this title to submit an application over such system.
+The Secretary shall contract for, or establish, and publicize a toll-free telephone service to provide timely and accurate information to thegeneral public. The information provided shall include specific instructions on completing the application form for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42. Such service shall also include a service accessible by telecommunications devices for the deaf (TDD's) and shall, in addition to the services provided for in the previous sentence, refer such students to the national clearinghouse on postsecondary education or other appropriate provider of technical assistance and information on postsecondary educational services for individuals with disabilities, including the National Technical Assistance Center under section 1140q of this title. The Secretary shall continue to implement, to the extent practicable, a toll-free telephone based system to permit applicants who meet the requirements of subsection (b) or (c) of section 1087ss of this title to submit an application over such system.
 
 #### (d) Assistance in preparation of financial aid application
 
@@ -280,7 +280,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 &emsp;Not later than two years after August 14, 2008, the Secretary shall implement an early application demonstration program enabling dependent students who wish to participate in the program—
 
-&emsp;&emsp;(A) to complete an application under this subsection during the academic year that is two years prior to the year such students plan to enroll in an institution of higher education; and
+&emsp;&emsp;(A) to complete an application under this subsection during the academic year that istwo years prior to the year such students plan to enroll in an institution of higher education; and
 
 &emsp;&emsp;(B) based on the application described in subparagraph (A), to obtain, not later than one year prior to the year of the students’ planned enrollment, information on eligibility for Federal Pell Grants, Federal student loans under this subchapter and part C of subchapter I of chapter 34 of title 42, and State and institutional financial aid for the student's first year of enrollment in the institution of higher education.
 
@@ -352,7 +352,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 #### (B) Waivers
 
-&emsp;&emsp;The Secretary is authorized to waive, for an institution of higher education participating in the demonstration program, any requirements under this subchapter and part C of subchapter I of chapter 34 of title 42, or regulations prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, that will make the demonstration program unworkable, except that the Secretary shall not waive any provisions with respect to the maximum award amounts for grants and loans under this subchapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;&emsp;The Secretary is authorized to waive, for an institution of higher education participating in the demonstration program, any requirements under this subchapter and part C of subchapter I of chapter 34 of title 42, or regulations prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, that will make the demonstration program unworkable, except that the Secretary shall not waive any provisions withrespect to the maximum award amounts for grants and loans under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (7) Outreach
 
@@ -362,7 +362,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 &emsp;The Secretary shall conduct a rigorous evaluation of the demonstration program to measure the program's benefits and adverse effects, as the benefits and effects relate to the purpose and objectives of the program described in paragraph (1). In conducting the evaluation, the Secretary shall—
 
-&emsp;&emsp;(A) identify whether receiving financial aid estimates one year prior to the year in which the student plans to enroll in an institution of higher education, has a positive impact on the higher education aspirations and plans of such student;
+&emsp;&emsp;(A) determine whether receiving financial aid estimates one year prior to the year in which the student plans to enroll in an institution of higher education, has a positive impact on the higher education aspirations and plans of such student;
 
 &emsp;&emsp;(B) measure the extent to which using a student's income information from the year that is two years prior to the student's planned enrollment date had an impact on the ability of States and institutions of higher education to make financial aid awards and commitments;
 
@@ -392,7 +392,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 &emsp;&emsp;&emsp;(ii) generate an expected family contribution without additional action on the part of the student and taxpayer; and
 
-&emsp;&emsp;(C) whether the data elements collected on the FAFSA that are needed to determine eligibility for student aid, or to administer theFederal student financial aid programs under this subchapter and part C of subchapter I of chapter 34 of title 42, but are not needed to compute an expected family contribution, such as information regarding the student's citizenship or permanent residency status, registration for selective service, or driver's license number, can be reduced without adverse effects.
+&emsp;&emsp;(C) whether the data elements collected on the FAFSA that are needed to determine eligibility for student aid, or to administer the Federal student financial aid programs under this subchapter and part C of subchapter I of chapter 34 of title 42, but are not needed to compute an expected family contribution, such as information regarding the student's citizenship or permanent residency status, registration for selective service, or driver's license number, can be reduced without adverse effects.
 
 #### (2) Report on FAFSA simplification efforts to date
 
@@ -510,7 +510,7 @@ The Secretary shall disclose, on the form notifying a student of the student's e
 
 &emsp;(2) additional information regarding the steps a student or family member may take in order to seek an adjustment under section 1087tt of this title.
 
-(Pub. L. 89–329, title IV, §483, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1478; amended Pub. L. 100–50, §15(3)–(6), June 3,1987, 101 Stat. 356; Pub. L. 102–325, title IV, §483, July 23, 1992, 106 Stat. 612; Pub. L. 103–208, §2(h)(8)–(12), Dec. 20, 1993, 107 Stat. 2476; Pub. L. 105–244, title IV, §482, Oct. 7, 1998, 112 Stat. 1733; Pub. L. 110–315, title I, §103(b)(10), title IV, §483(a), Aug. 14, 2008, 122 Stat. 3090, 3272.)
+(Pub. L. 89–329, title IV, §483, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1478; amended Pub. L. 100–50, §15(3)–(6), June 3, 1987, 101 Stat. 356; Pub. L. 102–325, title IV, §483, July 23, 1992, 106 Stat. 612; Pub. L. 103–208, §2(h)(8)–(12), Dec. 20, 1993, 107 Stat. 2476; Pub. L. 105–244, title IV, §482, Oct. 7, 1998, 112 Stat. 1733; Pub. L. 110–315, title I, §103(b)(10), title IV, §483(a), Aug. 14, 2008, 122 Stat. 3090, 3272; Pub. L. 111–39, title IV, §407(b)(3), July 1, 2009, 123 Stat. 1950.)
 
 #### References in Text
 
@@ -521,6 +521,10 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 A prior section 1090, Pub. L. 89–329, title IV, §483, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1448, related to forms and regulations for student assistance programs, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2009—Subsec. (a)(3)(C). Pub. L. 111–39, §407(b)(3)(A), inserted “that” after “except”.
+
+Subsec. (e)(8)(A). Pub. L. 111–39, §407(b)(3)(B), substituted “determine” for “identify”.
 
 2008—Subsec. (a). Pub. L. 110–315, §483(a)(1), added pars. (1) to (12) and struck out former pars. (1) to (7), which related to forms required, charges for forms, distribution of data, contracts for collection and processing, electronic forms, third party servicers and private software providers, and parents’ social security numbers and birth dates.
 
@@ -590,6 +594,10 @@ Subsec. (a)(2). Pub. L. 100–50, §15(5), substituted “not less than 5” for
 
 Subsecs. (b) to (f). Pub. L. 100–50, §15(6), added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
@@ -607,4 +615,26 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99–498, set out as a note under section 1001 of this title.
 
 Subsec. (e) of this section applicable to student assistance awarded for periods of enrollment beginning on or after July 1, 1987, see section 407(b) of Pub. L. 99–498, set out as a note under section 1091 of this title.
+
+#### Delayed Implementation of EZ FAFSA
+
+Pub. L. 111–39, title IV, §407(a), July 1, 2009, 123 Stat. 1950, provided that: “Notwithstanding any other provision of law, the Secretary of Education shall be required to carry out the requirements under the following provisions of section 483 of the Higher Education Act of 1965 (20 U.S.C. 1090) only for academic year 2010–2011 and subsequent academic years:
+
+&emsp;“(1) In subsection (a) of such section—
+
+&emsp;&emsp;“(A) subparagraphs (A)(i) and (B) of paragraph (2);
+
+&emsp;&emsp;“(B) in paragraph (3)—
+
+&emsp;&emsp;&emsp;“(i) the second sentence of subparagraph (A);
+
+&emsp;&emsp;&emsp;“(ii) clauses (i) and (ii) of subparagraph (B); and
+
+&emsp;&emsp;&emsp;“(iii) subparagraph (C);
+
+&emsp;&emsp;“(C) paragraph (4)(A)(iv); and
+
+&emsp;&emsp;“(D) paragraph (5)(E).
+
+&emsp;“(2) Subsection (h) of such section.”
 

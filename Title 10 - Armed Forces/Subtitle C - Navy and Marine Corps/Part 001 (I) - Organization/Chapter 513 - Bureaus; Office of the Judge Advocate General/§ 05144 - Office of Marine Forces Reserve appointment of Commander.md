@@ -14,7 +14,7 @@ Appointment.—(1) The President, by and with the advice and consent of the Sena
 
 &emsp;(B) is determined by the Chairman of the Joint Chiefs of Staff, in accordance with criteria and as a result of a process established by the Chairman, to have significant joint duty experience.
 
-(3) An officer on active duty for service as the Commander, Marine Forces Reserve, shall be counted for purposes of the grade limitations under sections 525 and 526 of this title.
+(3) An officer on active duty for service as the Commander, Marine Forces Reserve, shall becounted for purposes of the grade limitations under sections 525 and 526 of this title.
 
 (4) Until December 31, 2006, the Secretary of Defense may waive subparagraph (B) of paragraph (2) with respect to the appointment of an officer as Commander, Marine Forces Reserve, if the Secretary of the Navy requests the waiver and, in the judgment of the Secretary of Defense—
 

@@ -48,13 +48,13 @@ Implementation.—(1) Except as provided in section 105 of this Act \[set out be
 
 Early Implementation District Courts.—
 
-&emsp;“(1) Any United States district court that, no earlier than June 30, 1991, and no later than December 31, 1991, develops and implements a civil justice expenseand delay reduction plan under chapter 23 of title 28, United States Code, as added by subsection (a), shall be designated by the Judicial Conference of the United States as an Early Implementation District Court.
+&emsp;“(1) Any United States district court that, no earlier than June 30, 1991, and no later than December 31, 1991, develops and implements a civil justice expense and delay reduction plan under chapter 23 of title 28, United States Code, as added by subsection (a), shall be designated by the Judicial Conference of the United States as an Early Implementation District Court.
 
 &emsp;“(2) The chief judge of a district so designated may apply to the Judicial Conference for additional resources, including technological and personnel support and information systems, necessary to implement its civil justice expense and delay reduction plan. The Judicial Conference may provide such resources out of funds appropriated pursuant to section 106(a) \[Pub. L. 101–650, title I, Dec. 1, 1990, 104 Stat. 5098\].
 
 &emsp;“(3) Within 18 months after the date of the enactment of this title \[Dec. 1, 1990\], the Judicial Conference shall prepare a report on the plans developed and implemented by the Early Implementation District Courts.
 
-&emsp;“(4) The Director of the Administrative Office of the United States Courts shall transmit to the United States district courts and to the Committees on the Judiciary of the Senate and House of Representatives—
+&emsp;“(4) The Director of the Administrative Office of the United States Courts shall transmit to the UnitedStates district courts and to the Committees on the Judiciary of the Senate and House of Representatives—
 
 &emsp;&emsp;“(A) copies of the plans developed and implemented by the Early Implementation District Courts;
 

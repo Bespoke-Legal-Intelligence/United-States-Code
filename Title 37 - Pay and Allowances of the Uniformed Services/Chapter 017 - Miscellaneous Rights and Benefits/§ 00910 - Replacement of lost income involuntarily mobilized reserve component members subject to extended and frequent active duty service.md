@@ -22,7 +22,7 @@ Eligibility.—(1) A member of a reserve component is entitled to a payment unde
 
 (c)
 
-Minimum and Maximum Payment Amounts.—(1) A payment under this section shall be made to a member for a month only if the amount of the monthly active-duty income differential for the month is greater than $50.
+Minimum and Maximum Payment Amounts.—(1) A payment under this sectionshall be made to a member for a month only if the amount of the monthly active-duty income differential for the month is greater than $50.
 
 (2) Notwithstanding the amount determined under subsection (d) for a member for a month, the monthly payment to a member under this section may not exceed $3,000.
 
@@ -52,11 +52,13 @@ Regulations.—This section shall be administered under regulations to be prescr
 
 (g)
 
-Termination.—No payment shall be made to a member under this section for months beginning after December 31, 2009, unless the entitlement of the member to payments under this section commenced on or before that date.
+Termination.—No payment shall be made to a member under this section for months beginning after December 31, 2010, unless the entitlement of the member to payments under this section commenced on or before that date.
 
-(Added Pub. L. 109–163, div. A, title VI, §614(a), Jan. 6, 2006, 119 Stat. 3292; amended Pub. L. 110–181, div. A, title VI, §604, Jan. 28, 2008, 122 Stat. 145; Pub. L. 110–417, \[div. A\], title VI, §605, Oct. 14, 2008, 122 Stat. 4483.)
+(Added Pub. L. 109–163, div. A, title VI, §614(a), Jan. 6, 2006, 119 Stat. 3292; amended Pub. L. 110–181, div. A, title VI, §604, Jan. 28, 2008, 122 Stat. 145; Pub. L. 110–417, \[div. A\], title VI, §605, Oct. 14, 2008, 122 Stat. 4483; Pub. L. 111–84, div. A, title VI, §611(7), Oct. 28, 2009, 123 Stat. 2352.)
 
 #### Amendments
+
+Subsec. (g). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 
 2008—Subsec. (a). Pub. L. 110–181, §604(a), inserted before period at end of first sentence “, when the total monthly military compensation of the member is less than the average monthly civilian income of the member”.
 

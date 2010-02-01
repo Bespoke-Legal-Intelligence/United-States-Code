@@ -1,6 +1,6 @@
 ### §61d–1. Compensation of employees of Chaplain of Senate
 
-The Chaplain of the Senate may appoint and fix the compensation of such employees as hedeems appropriate, except that the amount which may be paid for any fiscal year as gross compensation for personnel in such Office for any fiscal year shall not exceed $147,000.
+The Chaplain of the Senate may appoint and fix the compensation of such employees as he deems appropriate, except that the amount which may be paid for any fiscal year as gross compensation for personnel in such Office for any fiscal year shall not exceed $147,000.
 
 (Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 340; Pub. L. 100–202, §101(i) \[title I, §2(b)\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 101–163, title I, §10, Nov. 21, 1989, 103 Stat. 1046.)
 

@@ -78,7 +78,7 @@ Forfeiture and Destruction of Property; Restitution.—Forfeiture, destruction, 
 
 &emsp;(ii) The number of online infringement cases.
 
-&emsp;(iii) The number and dollar amounts of fines assessed in specific categories of dollar amounts. These categories shall be: no fines ordered; fines under $500; fines from $500 to $1,000; fines from $1,000 to $5,000; fines from $5,000 to $10,000; and fines over $10,000.
+&emsp;(iii) The number and dollar amounts of fines assessed in specific categories of dollar amounts. These categories shall be: no fines ordered; fines under $500; fines from $500 to$1,000; fines from $1,000 to $5,000; fines from $5,000 to $10,000; and fines over $10,000.
 
 &emsp;(iv) The total amount of restitution ordered in all copyright infringement cases.
 

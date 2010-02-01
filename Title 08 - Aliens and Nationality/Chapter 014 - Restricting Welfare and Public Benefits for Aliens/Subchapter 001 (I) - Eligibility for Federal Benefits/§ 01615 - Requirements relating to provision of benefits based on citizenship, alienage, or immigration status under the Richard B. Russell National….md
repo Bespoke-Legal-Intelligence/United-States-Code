@@ -1,4 +1,4 @@
-### §1615. Requirements relating to provision of benefits based on citizenship, alienage, or immigration status under the Richard B. Russell National School Lunch Act, the Child Nutrition Act of 1966, and certain other acts
+### §1615. Requirements relating to provision of benefits based on citizenship, alienage, or immigration status under the Richard B. Russell National School Lunch Act, the Child Nutrition Act of 1966, and certain other Acts
 
 #### (a) School lunch and breakfast programs
 

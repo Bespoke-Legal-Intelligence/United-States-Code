@@ -30,7 +30,7 @@ The Secretary of the Interior is hereby authorized to—
 
 (1) Except as otherwise provided in this subsection, a law enforcement officer of any State or political subdivision thereof designated to act as a special policeman under subsection (c) of this section shall not be deemed a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including, but not limited to, those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal benefits.
 
-(2) For purposes of the tort claim provisions of title 28, a law enforcement officer of any State or political subdivision thereof shall, when acting as a special policeman under subsection (c) of this section, be considered a Federal employee.
+(2) For purposes of the tort claim provisions of title 28, a law enforcement officer of any State or political subdivision thereof shall, when acting as a special policeman under subsection (c)of this section, be considered a Federal employee.
 
 (3) For purposes of subchapter I of chapter 81 of title 5, relating to compensation to Federal employees for work injuries, a law enforcement officer of any State or political subdivision thereof shall, when acting as a special policeman under subsection (c) of this section be deemed a civil service employee of the United States within the meaning of the term “employee” as defined in section 8101 of title 5, and the provisions of that subchapter shall apply.
 
@@ -42,7 +42,7 @@ Nothing contained in this Act shall be construed or applied to limit or restrict
 
 #### References in Text
 
-This Act, referred to in subsec. (e), is Pub. L. 91–383, Aug. 18, 1970, 84 Stat. 825, as amended, known as the “National Park System General Authorities Act”. As originally enacted, Pub. L. 91–383 contained sections 1 to 4, the first 3 of which enacted sections 1a–1 and 1a–2 and amended sections 1b and 1c of this title. Pub. L. 94–458 amended Pub. L. 91–383 by adding sections 5 to 12, which enacted sections 1a–3 to 1a–7, amended sections17j, 460n–5, 463, 470a, and 559, and repealed sections 10, 10a, 17b–1, and 415 of this title. Pub. L. 103–322 amended Pub. L. 91–383 by adding section 13, which enacted section 1a–7a of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 1 of this title and Tables.
+This Act, referred to in subsec. (e), is Pub. L. 91–383, Aug. 18, 1970, 84 Stat. 825, as amended, known as the “National Park System General Authorities Act”. As originally enacted, Pub. L. 91–383 contained sections 1 to 4, the first 3 of which enacted sections 1a–1 and 1a–2 and amended sections 1b and 1c of this title. Pub. L. 94–458 amended Pub. L. 91–383 by adding sections 5 to 12, which enacted sections 1a–3 to 1a–7, amended sections 17j, 460n–5, 463, 470a, and 559, and repealed sections 10, 10a, 17b–1, and 415 of this title. Pub. L. 103–322 amended Pub. L. 91–383 by adding section 13, which enacted section 1a–7a of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 1 of this title and Tables.
 
 #### Codification
 

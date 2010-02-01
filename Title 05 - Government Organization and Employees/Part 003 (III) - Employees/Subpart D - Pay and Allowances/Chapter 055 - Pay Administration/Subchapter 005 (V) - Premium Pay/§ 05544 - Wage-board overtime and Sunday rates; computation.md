@@ -1,6 +1,6 @@
 ### §5544. Wage-board overtime and Sunday rates; computation
 
-(a) An employee whose pay is fixed and adjusted from time to time in accordance with prevailing rates under section 5343 or 5349 of this title, or by a wage board or similar administrative authority serving the same purpose, is entitled to overtime pay for overtime work in excess of 8 hours a day or 40 hours a week. However, an employee subject to this subsection who regularly is required to remain at or within the confines of his post of duty in excess of 8 hours a day in a standby or on-call status is entitled to overtime pay only for hours of duty, exclusive ofeating and sleeping time, in excess of 40 a week. The overtime hourly rate of pay is computed as follows:
+(a) An employee whose pay is fixed and adjusted from time to time in accordance with prevailing rates under section 5343 or 5349 of this title, or by a wage board or similar administrative authority serving the same purpose, is entitled to overtime pay for overtime work in excess of 8 hours a day or 40 hours a week. However, an employee subject to this subsection who regularly is required to remain at or within the confines of his post of duty in excess of 8 hours a day in a standby or on-call status is entitled to overtime pay only for hours of duty, exclusive of eating and sleeping time, in excess of 40 a week. The overtime hourly rate of pay is computed as follows:
 
 &emsp;(1) If the basic rate of pay of the employee is fixed on a basis other than an annual or monthly basis, multiply the basic hourly rate of pay by not less than one and one-half.
 
@@ -82,7 +82,7 @@ Section 7 of the Fair Labor Standards Act of 1938, referred to in subsec. (a), i
 
 2008—Subsec. (a). Pub. L. 110–181, in third sentence of concluding provisions, substituted “administratively (including travel by the employee to such event and the return of the employee from such event to the employee's official duty station).” for “administratively.”
 
-1998—Subsec. (a). Pub. L. 105–277, which directed the amendment of subsec. (a) by inserting after the fourth sentence “For employees serving outside the United States in areas where Sunday is a routine workday and another day of the week is officially recognized as the day of rest and worship, the Secretary of State may designate the officially recognized day of rest and worship as the day with respect to which the preceding sentence shall apply instead of Sunday.”, was executedby making the insertion after the first sentence of the concluding provisions, to reflect the probable intent of Congress.
+1998—Subsec. (a). Pub. L. 105–277, which directed the amendment of subsec. (a) by inserting after the fourth sentence “For employees serving outside the United States in areas where Sunday is a routine workday and another day of the week is officially recognized as the day of rest and worship, the Secretary of State may designate the officially recognized day of rest and worship as the day with respect to which the preceding sentence shall apply instead of Sunday.”, was executed by making the insertion after the first sentence of the concluding provisions, to reflect the probable intent of Congress.
 
 1996—Subsec. (c). Pub. L. 104–201 inserted “and the provisions of section 5543(b)” after “the last two sentences of subsection (a)”.
 

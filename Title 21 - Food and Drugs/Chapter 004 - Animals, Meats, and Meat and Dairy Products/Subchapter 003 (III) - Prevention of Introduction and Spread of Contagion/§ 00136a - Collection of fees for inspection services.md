@@ -6,7 +6,7 @@
 
 &emsp;The Secretary of Agriculture may prescribe and collect fees sufficient—
 
-&emsp;&emsp;(A) to cover the cost of providing agricultural quarantine and inspection services in connection with the arrival at a port in the customs territory of the United States, or the preclearance or preinspection at a siteoutside the customs territory of the United States, of an international passenger, commercial vessel, commercial aircraft, commercial truck, or railroad car;
+&emsp;&emsp;(A) to cover the cost of providing agricultural quarantine and inspection services in connection with the arrival at a port in the customs territory of the United States, or the preclearance or preinspection at a site outside the customs territory of the United States, of an international passenger, commercial vessel, commercial aircraft, commercial truck, or railroad car;
 
 &emsp;&emsp;(B) to cover the cost of administering this subsection; and
 

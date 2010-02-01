@@ -64,7 +64,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 &emsp;&emsp;(iv) In the event of such designation the tax imposed by subparagraph (A) shall be paid by the regulated investment company within 30 days after close of its taxable year.
 
-&emsp;&emsp;(v) The earnings and profits of such regulated investment company, and the earnings and profits of any such shareholder which is a corporation, shall be appropriately adjusted in accordance with regulations prescribed by the Secretary.
+&emsp;&emsp;(v) The earnings and profits of such regulated investment company, and the earningsand profits of any such shareholder which is a corporation, shall be appropriately adjusted in accordance with regulations prescribed by the Secretary.
 
 #### (E) Certain distributions
 
@@ -110,7 +110,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (E) Authority to shorten required holding period
 
-&emsp;&emsp;In the case of a regulated investment company which regularly distributes at least 90 percent of its net tax-exempt interest, theSecretary may by regulations prescribe that subparagraph (B) (and subparagraph (C) to the extent it relates to subparagraph (B)) shall be applied on the basis of a holding period requirement shorter than 6 months; except that such shorter holding period requirement shall not be shorter than the greater of 31 days or the period between regular distributions of exempt-interest dividends.
+&emsp;&emsp;In the case of a regulated investment company which regularly distributes at least 90 percent of its net tax-exempt interest, the Secretary may by regulations prescribe that subparagraph (B) (and subparagraph (C) to the extent it relates to subparagraph (B)) shall be applied on the basis of a holding period requirement shorter than 6 months; except that such shorter holding period requirement shall not be shorter than the greater of 31 days or the period between regular distributions of exempt-interest dividends.
 
 #### (5) Exempt-interest dividends
 
@@ -140,7 +140,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (6) Section 311(b) not to apply to certain distributions
 
-&emsp;Section 311(b) shall not apply to any distribution by a regulated investment company to which this part applies, if such distribution is in redemption of its stock upon the demand of the shareholder.
+&emsp;Section 311(b) shall not apply to any distribution by a regulated investment company to which this part applies, if such distributionis in redemption of its stock upon the demand of the shareholder.
 
 #### (7) Time certain dividends taken into account
 
@@ -284,7 +284,7 @@ In the case of a unit investment trust—
 
 #### (B) Reinvestment right
 
-&emsp;&emsp;The term “reinvestment right” means any right to acquire stock of 1 or more regulated investment companies without the payment of a load charge or with the payment of a reduced charge.
+&emsp;&emsp;The term “reinvestment right” means any right to acquire stock of 1 or more regulated investment companies without the paymentof a load charge or with the payment of a reduced charge.
 
 #### (C) Nonrecognition transactions
 
@@ -306,7 +306,7 @@ The Investment Company Act of 1940, referred to in subsec. (d), is title I of ac
 
 Subsec. (e)(1). Pub. L. 106–170, §566(c), inserted at end “If the determination under subparagraph (A) is solely as a result of the failure to meet the requirements of subsection (a)(2), the preceding sentence shall also apply for purposes of applying subsection (a)(2) to the non-RIC year and the amount referred to in paragraph (2)(A)(i) shall be the portion of the accumulated earnings and profits which resulted in such failure.”
 
-1997—Subsec. (b)(3)(D)(iii). Pub. L. 105–34, §1254(b)(2), substituted “by the difference between the amount ofsuch includible gains and the tax deemed paid by such shareholder in respect of such shares under clause (ii).” for “by 65 percent of so much of such amounts as equals the amount subject to tax in accordance with section 1201(a).”
+1997—Subsec. (b)(3)(D)(iii). Pub. L. 105–34, §1254(b)(2), substituted “by the difference between the amount of such includible gains and the tax deemed paid by such shareholder in respect of such shares under clause (ii).” for “by 65 percent of so much of such amounts as equals the amount subject to tax in accordance with section 1201(a).”
 
 Subsec. (b)(10). Pub. L. 105–34, §1122(c)(2), added par. (10).
 
@@ -430,7 +430,7 @@ Pub. L. 94–455, §1402(b)(1)(N), provided that “6 months” would be changed
 
 Subsec. (b)(3)(C). Pub. L. 94–455, §1901(a)(110)(A), (b)(33)(J)(ii), substituted “net capital gain” for “excess of the net long-term capital gain over the net short-term capital loss” in two places and struck out provision requiring for purpose of the deduction for capital gains dividends paid, the deductions shall in the case of a taxable year beginning before Jan. 1, 1975, first be made from the amount subject to tax in accordance with section 1201(a)(1)(B), to the extent thereof, and then from the amount subject to tax in accordance with section 1201(a)(1)(A).
 
-Subsec. (b)(3)(D)(iii). Pub. L. 94–455, §1901(a)(110)(B)(i), struck out “by 75 percent of so much of such amounts as equals the amount subject to tax in accordance with section 1201(a)(1)(A) and” after “his long term capital gains,” and “(72 percent in the case of a taxable year beginning after December 31, 1969, and before January 1, 1971)” after “by 70 percent” and substituted “section 1201(a)” for “section 1201(a)(1)(B) or (2)”.
+Subsec. (b)(3)(D)(iii). Pub. L. 94–455, §1901(a)(110)(B)(i), struck out “by 75 percent of so much of such amounts as equals the amount subject to tax in accordance withsection 1201(a)(1)(A) and” after “his long term capital gains,” and “(72 percent in the case of a taxable year beginning after December 31, 1969, and before January 1, 1971)” after “by 70 percent” and substituted “section 1201(a)” for “section 1201(a)(1)(B) or (2)”.
 
 Subsec. (b)(3)(D)(v). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -474,7 +474,7 @@ Pub. L. 106–170, title V, §566(d), Dec. 17, 1999, 113 Stat. 1950, provided th
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 1122(c)(2), (3) of Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31, 1997, and to taxable years of foreign corporations ending with or within such taxableyears of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
+Amendment by section 1122(c)(2), (3) of Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31, 1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
 
 Section 1263 of title XII of Pub. L. 105–34 provided that: “The amendments made by this part \[probably means subtitle D (§§1251–1263) of title XII of Pub. L. 105–34, amending this section and sections 856 and 857 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -588,7 +588,7 @@ Section 229(c) of Pub. L. 88–272 provided that: “The amendments made by subs
 
 #### Effective Date of 1960 Amendment
 
-Amendment of section by Pub. L. 86–779 applicable with respect to taxable years of real estate investment trusts beginning after Dec. 31, 1960, see section 10(k) of Pub. L. 86–779, set out as an Effective Date note under section 856 of this title.
+Amendment of section by Pub. L. 86–779 applicable with respect to taxable years of real estate investmenttrusts beginning after Dec. 31, 1960, see section 10(k) of Pub. L. 86–779, set out as an Effective Date note under section 856 of this title.
 
 #### Effective Date of 1958 Amendment
 

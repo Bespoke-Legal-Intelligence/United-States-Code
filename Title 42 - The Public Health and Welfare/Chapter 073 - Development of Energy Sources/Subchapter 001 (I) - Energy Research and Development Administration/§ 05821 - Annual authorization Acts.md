@@ -8,7 +8,7 @@ All appropriations made to the Energy Research and Development Administration or
 
 (1) Funds appropriated pursuant to an annual authorization Act for “Operating expenses” may be used for—
 
-&emsp;(A) the construction or acquisition of any facilities, or major items of equipment, which may be required at locations other than installations of the Administration, for the performance of research, development, and demonstration activities, and
+&emsp;(A) the construction or acquisition of any facilities, or major items of equipment, whichmay be required at locations other than installations of the Administration, for the performance of research, development, and demonstration activities, and
 
 &emsp;(B) grants to any organization for purchase or construction of research facilities.
 
@@ -22,7 +22,7 @@ All appropriations made to the Energy Research and Development Administration or
 
 #### (c) Additional requirements and limitations respecting funds appropriated for operating expenses
 
-(1) Not to exceed 1 per centum of all funds appropriated pursuant to any annual authorization Act for “Operating expenses” may be used by the Administrator to construct, expand, or modify laboratories and other facilities, including the acquisition of land, at any location under the control of the Administrator, if the Administrator determines that (A) such action would be necessary because of changes in the national programs authorized to be funded by such Act or because of new scientific or engineering developments, and (B) deferral of such action until the enactment of the next authorization Act wouldbe inconsistent with the policies established by Congress for the Administration.
+(1) Not to exceed 1 per centum of all funds appropriated pursuant to any annual authorization Act for “Operating expenses” may be used by the Administrator to construct, expand, or modify laboratories and other facilities, including the acquisition of land, at any location under the control of the Administrator, if the Administrator determines that (A) such action would be necessary because of changes in the national programs authorized to be funded by such Act or because of new scientific or engineering developments, and (B) deferral of such action until the enactment of the next authorization Act would be inconsistent with the policies established by Congress for the Administration.
 
 (2) No funds may be obligated for expenditure or expended under paragraph (1) for activities described in such paragraph unless—
 
@@ -118,7 +118,7 @@ Pub. L. 88–332, §104, June 30, 1964, 78 Stat. 229.
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note precedingsection 21 of Title 2, The Congress. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Nonapplicability of Title II of Pub. L. 95–238 to Any Authorization or Appropriation for Military Application of Nuclear Energy, Etc.; Definitions
 

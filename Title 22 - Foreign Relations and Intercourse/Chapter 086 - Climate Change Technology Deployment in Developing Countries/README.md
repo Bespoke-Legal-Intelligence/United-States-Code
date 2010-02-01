@@ -10,6 +10,7 @@
 | [7906\.](%C2%A7%2007906%20-%20Technology%20demonstration%20projects.md) | Technology demonstration projects. |
 | [7907\.](%C2%A7%2007907%20-%20Fellowship%20and%20exchange%20programs.md) | Fellowship and exchange programs. |
 | [7908\.](%C2%A7%2007908%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [7909\.](%C2%A7%2007909%20-%20Authorization%20for%20the%20Clean%20Technology%20Fund.md) | Authorization for the Clean Technology Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -26,3 +27,4 @@
 - [&sect; 07906 - Technology demonstration projects](%C2%A7%2007906%20-%20Technology%20demonstration%20projects.md)
 - [&sect; 07907 - Fellowship and exchange programs](%C2%A7%2007907%20-%20Fellowship%20and%20exchange%20programs.md)
 - [&sect; 07908 - Authorization of appropriations](%C2%A7%2007908%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 07909 - Authorization for the Clean Technology Fund](%C2%A7%2007909%20-%20Authorization%20for%20the%20Clean%20Technology%20Fund.md)

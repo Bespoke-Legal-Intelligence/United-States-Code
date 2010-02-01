@@ -26,7 +26,7 @@
 
 (c) Whenever notice is delivered under subsection (b)(1), the suit to enforce a maritime lien shall thereafter proceed and shall be heard and determined according to the principles of law and rules of practice of suits in rem whenever it appears that, had the vessel been privately owned and possessed, a suit in rem might have been maintained. A decree against the foreign state may include costs of the suit and, if the decree is for a money judgment, interest as ordered by the court, except that the court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose. Such value shall be determined as of the time notice is served under subsection (b)(1). Decrees shall be subject to appeal and revision as provided in other cases of admiralty and maritime jurisdiction. Nothing shall preclude the plaintiff in any proper case from seeking relief in personam in the same action brought to enforce a maritime lien as provided in this section.
 
-(d) A foreign state shall not be immune from the jurisdiction of the courts of the United States in any action brought to foreclose a preferred mortgage, as defined in section 31301 of title 46. Such action shall be brought, heard, anddetermined in accordance with the provisions of chapter 313 of title 46 and in accordance with the principles of law and rules of practice of suits in rem, whenever it appears that had the vessel been privately owned and possessed a suit in rem might have been maintained.
+(d) A foreign state shall not be immune from the jurisdiction of the courts of the United States in any action brought to foreclose a preferred mortgage, as defined in section 31301 of title 46. Such action shall be brought, heard, and determined in accordance with the provisions of chapter 313 of title 46 and in accordance with the principles of law and rules of practice of suits in rem, whenever it appears that had the vessel been privately owned and possessed a suit in rem might have been maintained.
 
 \[(e), (f) Repealed. Pub. L. 110–181, div. A, title X, §1083(b)(1)(B), Jan. 28, 2008, 122 Stat. 341.\]
 
@@ -36,7 +36,7 @@ Limitation on Discovery.—
 
 &emsp;(1)
 
-In general.—(A) Subject to paragraph (2), if an action is filed that would otherwise be barred by section 1604, but for section 1605A, the court, upon request of the Attorney General, shall stay any request, demand, or order for discovery on the United States that the Attorney General certifies would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action, until such time as the Attorney General advises the court that such request, demand, or order will no longer so interfere.
+In general.—(A) Subject to paragraph (2), if an action is filed that would otherwise be barred by section 1604, but for section 1605A, the court, upon request of the AttorneyGeneral, shall stay any request, demand, or order for discovery on the United States that the Attorney General certifies would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action, until such time as the Attorney General advises the court that such request, demand, or order will no longer so interfere.
 
 &emsp;(B) A stay under this paragraph shall be in effect during the 12-month period beginning on the date on which the court issues the order to stay discovery. The court shall renew the order to stay discovery for additional 12-month periods upon motion by the United States if the Attorney General certifies that discovery would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action.
 
@@ -96,7 +96,7 @@ Subsecs. (e) to (g). Pub. L. 104–132, §221(a)(2), added subsecs. (e) to (g).
 
 Subsec. (b). Pub. L. 100–702, §1(3), struck out at end “Whenever notice is delivered under subsection (b)(1) of this section, the maritime lien shall thereafter be deemed to be an in personam claim against the foreign state which at that time owns the vessel or cargo involved: <i>Provided</i>, That a court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose, such value to be determined as of the time notice is served under subsection (b)(1) of this section.”
 
-Subsec. (b)(1). Pub. L. 100–640, §1(1), substituted “and if the vessel or cargo is arrested pursuant to process obtained on behalf of the party bringing the suit, the service of process of arrest shall be deemed to constitute valid delivery of such notice, but the party bringing the suit shall be liable for any damages sustained by the foreign state as a result of the arrest if the party bringing the suit had actual or constructive knowledge that the vessel or cargo of a foreign state was involved” for “but such notice shall not be deemed to have been delivered, nor may it thereafter be delivered, if the vessel or cargo is arrested pursuant to process obtained on behalf of the party bringing the suit—unless the party was unaware that the vessel or cargoof a foreign state was involved, in which event the service of process of arrest shall be deemed to constitute valid delivery of such notice”.
+Subsec. (b)(1). Pub. L. 100–640, §1(1), substituted “and if the vessel or cargo is arrested pursuant to process obtained on behalf of the party bringing the suit, the service of process of arrest shall be deemed to constitute valid delivery of such notice, but the party bringing the suit shall be liable for any damages sustained by the foreign state as a result of the arrest if the party bringing the suit had actual or constructive knowledge that the vessel or cargo of a foreign state was involved” for “but such notice shall not be deemed to have been delivered, nor may it thereafter be delivered, if the vessel or cargo is arrested pursuant to process obtained on behalf of the party bringing the suit—unless the party was unaware that the vessel or cargo of a foreign state was involved, in which event the service of process of arrest shall be deemed to constitute valid delivery of such notice”.
 
 Subsec. (b)(2). Pub. L. 100–640, §1(2), substituted “paragraph (1) of this subsection” for “subsection (b)(1) of this section”.
 
@@ -104,7 +104,7 @@ Subsecs. (c), (d). Pub. L. 100–702, §1(3), added subsecs. (c) and (d).
 
 #### Effective Date of 2008 Amendment
 
-For applicability of amendments by Pub. L. 110–181 to pending cases, see section 1083(c) of Pub. L. 110–181, set out as an Effective Date note under section 1605A of this title.
+For applicability of amendments by Pub. L. 110–181 to pending cases, see section 1083(c) of Pub. L. 110–181, setout as an Effective Date note under section 1605A of this title.
 
 #### Effective Date of 1997 Amendment
 

@@ -74,7 +74,7 @@
 
 &emsp;For purposes of this subsection, the term “mobile home” has the meaning given such term in the law of the State in which the mobile home is located.
 
-(Pub. L. 90–448, title XIII, §1315, Aug. 1, 1968, 82 Stat. 580; Pub. L. 91–152, title IV, §410(b), Dec. 24, 1969, 83 Stat. 397; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §§541, 580, Sept. 23, 1994, 108 Stat. 2268, 2285; Pub. L. 108–264, title I, §108, June 30, 2004, 118 Stat. 724.)
+(Pub. L. 90–448, title XIII, §1315, Aug. 1, 1968, 82 Stat. 580; Pub. L. 91–152, title IV, §410(b), Dec. 24, 1969, 83 Stat. 397; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L.103–325, title V, §§541, 580, Sept. 23, 1994, 108 Stat. 2268, 2285; Pub. L. 108–264, title I, §108, June 30, 2004, 118 Stat. 724.)
 
 #### References in Text
 

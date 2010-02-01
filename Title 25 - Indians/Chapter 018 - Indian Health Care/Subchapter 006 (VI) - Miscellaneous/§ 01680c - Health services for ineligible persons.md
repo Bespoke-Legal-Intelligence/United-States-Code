@@ -56,7 +56,7 @@ Hospital privileges in health facilities operated and maintained by the Service 
 
 For purposes of this section, the term “eligible Indian” means any Indian who is eligible for health services provided by the Service without regard to the provisions of this section.
 
-(Pub. L. 94–437, title VIII, §813, formerly title VII, §713, as added Pub. L. 100–713, title VII, §707(a), Nov. 23, 1988, 102 Stat. 4829; renumbered title VIII, §813, and amended Pub. L. 102–573,title VII, §701(a), (b), title IX, §902(8), Oct. 29, 1992, 106 Stat. 4572, 4592.)
+(Pub. L. 94–437, title VIII, §813, formerly title VII, §713, as added Pub. L. 100–713, title VII, §707(a), Nov. 23, 1988, 102 Stat. 4829; renumbered title VIII, §813, and amended Pub. L. 102–573, title VII, §701(a), (b), title IX, §902(8), Oct. 29, 1992, 106 Stat. 4572, 4592.)
 
 #### References in Text
 

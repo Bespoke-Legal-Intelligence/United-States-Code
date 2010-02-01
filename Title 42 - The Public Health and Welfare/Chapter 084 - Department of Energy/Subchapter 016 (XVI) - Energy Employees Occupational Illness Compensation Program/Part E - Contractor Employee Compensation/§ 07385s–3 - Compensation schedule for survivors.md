@@ -36,7 +36,7 @@ The amount under subsection (a) of this section shall be paid only as follows:
 
 &emsp;&emsp;(A) a covered spouse described in paragraph (1); and
 
-&emsp;&emsp;(B) at least one covered child of the employee who is living at the time of paymentand who is not a recognized natural child or adopted child of such covered spouse,
+&emsp;&emsp;(B) at least one covered child of the employee who is living at the time of payment and who is not a recognized natural child or adopted child of such covered spouse,
 
 > &emsp;then half of such payment shall be made to such covered spouse, and the other half of such payment shall be made in equal shares to each covered child of the employee who is living at the time of payment.
 

@@ -20,7 +20,7 @@ When the United States recovers any asset or assets specifically identified in a
 
 #### (e) Appropriate Federal banking agency exception
 
-For purposes of this section, funds or assets acquired by the United States shall not include any funds or assets acquired by any appropriate Federal banking agency acting in any capacity or the Resolution Trust Corporation acting in any capacity, except for any civil money penalties recovered by a Federal banking agency through a final judgement,<sup>2</sup> order, or settlement.
+For purposes of this section, funds or assets acquired by the United States shall not include any funds or assets acquired by any appropriate Federal banking agency acting in any capacity or the Resolution Trust Corporation acting in any capacity, except for any civil money penalties recovered by a Federal banking agency through a final judgement, order, or settlement.
 
 (Pub. L. 101–647, title XXV, §2580, Nov. 29, 1990, 104 Stat. 4901.)
 
@@ -29,6 +29,4 @@ For purposes of this section, funds or assets acquired by the United States shal
 Section 3509A of title 18, referred to in subsec. (d)(1), probably is a reference to former section 3059A of title 18, which was repealed by Pub. L. 107–273, div. A, title III, §301(c)(2), Nov. 2, 2002, 116 Stat. 1781.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “judgment,”.</i>
 

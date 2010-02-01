@@ -2,11 +2,11 @@
 
 (a)
 
-Graduation Leave.—Graduates of the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, or the Coast Guard Academy who, upon graduation, are appointed in a component of an armed force, may, in the discretion of the Secretary concerned or his designated representative, be granted graduation leave of notmore than 60 days. Leave granted under this subsection is in addition to any other leave and may not be deducted from or charged against other leave authorized by this chapter, and must be completed within three months of the date of graduation. Leave under this subsection may not be carried forward as credit beyond the date of reporting to the first permanent duty station or to a port of embarkation for permanent duty outside the United States or in Alaska or Hawaii.
+Graduation Leave.—Graduates of the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, or the Coast Guard Academy who, upon graduation, are appointed in a component of an armed force, may, in the discretion of the Secretary concerned or his designated representative, be granted graduation leave of not more than 60 days. Leave granted under this subsection is in addition to any other leave and may not be deducted from or charged against other leave authorized by this chapter, and must be completed within three months of the date of graduation. Leave under this subsection may not be carried forward as credit beyond the date of reporting to the first permanent duty station or to a port of embarkation for permanent duty outside the United States or in Alaska or Hawaii.
 
 (b)
 
-Involuntary Leave Without Pay for Suspended Academy Cadets and Midshipmen.—(1) Under regulations prescribed under subsection (d), the Secretary concerned may place an academy cadet or midshipman on involuntary leave for any period during which the Superintendent of the Academy at which the cadet or midshipman is admitted has suspended the cadet or midshipman from duty at the Academy—
+Involuntary Leave Without Pay for Suspended Academy Cadets and Midshipmen.—(1)Under regulations prescribed under subsection (d), the Secretary concerned may place an academy cadet or midshipman on involuntary leave for any period during which the Superintendent of the Academy at which the cadet or midshipman is admitted has suspended the cadet or midshipman from duty at the Academy—
 
 &emsp;(A) pending separation from the Academy;
 

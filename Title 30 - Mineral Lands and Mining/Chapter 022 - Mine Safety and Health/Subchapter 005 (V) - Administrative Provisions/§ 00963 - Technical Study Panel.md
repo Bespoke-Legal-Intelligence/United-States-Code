@@ -26,7 +26,7 @@ Four of the six individuals appointed to the Panel under subsection (b) shall po
 
 #### (2) Response by Secretary
 
-&emsp;Not later than 180 days after the receipt of the report under paragraph (1), the Secretary of Labor shall provide a response to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives containing a description of the actions, if any, that the Secretary intends to take based upon the report, including proposing regulatory changes, and the reasons for such actions.
+&emsp;Not later than 180 days after the receipt of the report under paragraph (1), the Secretaryof Labor shall provide a response to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives containing a description of the actions, if any, that the Secretary intends to take based upon the report, including proposing regulatory changes, and the reasons for such actions.
 
 #### (e) Compensation
 

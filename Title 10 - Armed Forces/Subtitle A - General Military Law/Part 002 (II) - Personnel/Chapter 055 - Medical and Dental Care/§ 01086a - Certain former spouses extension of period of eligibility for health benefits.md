@@ -2,7 +2,7 @@
 
 (a)
 
-Availability of Conversion Health Policies.—The Secretary of Defense shall inform each person who has been a dependent for a period of one year or more under section 1072(2)(H) of this title of the availability of a conversionhealth policy for purchase by the person. A conversion health policy offered under this subsection shall provide coverage for not less than a 24-month period.
+Availability of Conversion Health Policies.—The Secretary of Defense shall inform each person who has been a dependent for a period of one year or more under section 1072(2)(H) of this title of the availability of a conversion health policy for purchase by the person. A conversion health policy offered under this subsection shall provide coverage for not less than a 24-month period.
 
 (b)
 

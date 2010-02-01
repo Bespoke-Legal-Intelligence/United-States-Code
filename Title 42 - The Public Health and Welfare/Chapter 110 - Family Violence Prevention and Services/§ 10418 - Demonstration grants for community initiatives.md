@@ -70,7 +70,7 @@ The Secretary shall award grants under this section to organizations in communit
 
 #### (1) In general
 
-&emsp;A grant made under subsection (a) of this section shall be used to establish and operate a community project to coordinate intervention and prevention of domestic violence.
+&emsp;A grant made under subsection (a) of this section shall be used to establish and operatea community project to coordinate intervention and prevention of domestic violence.
 
 #### (2) Requirements
 

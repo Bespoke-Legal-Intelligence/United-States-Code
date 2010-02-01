@@ -6,7 +6,7 @@ At the election of the taxpayer, either—
 
 &emsp;(1) one-half of any qualified revitalization expenditures chargeable to capital account with respect to any qualified revitalization building shall be allowable as a deduction for the taxable year in which the building is placed in service, or
 
-&emsp;(2) a deduction for all such expenditures shall be allowable ratably over the 120-monthperiod beginning with the month in which the building is placed in service.
+&emsp;(2) a deduction for all such expenditures shall be allowable ratably over the 120-month period beginning with the month in which the building is placed in service.
 
 #### (b) Qualified revitalization buildings and expenditures
 
@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (ii) Credits
 
-&emsp;&emsp;&emsp;The term “qualified revitalization expenditure” does not include any expenditure which the taxpayer may take into account in computing any credit allowable under this title unless the taxpayer elects to take the expenditure into account only for purposes of this section.
+&emsp;&emsp;&emsp;The term “qualified revitalization expenditure” does not include any expenditure which the taxpayer may take into account in computing any credit allowable under this title unless the taxpayer electsto take the expenditure into account only for purposes of this section.
 
 #### (c) Dollar limitation
 

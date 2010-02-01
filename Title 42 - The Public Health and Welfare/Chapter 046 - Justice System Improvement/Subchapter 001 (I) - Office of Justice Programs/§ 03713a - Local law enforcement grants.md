@@ -10,7 +10,7 @@ The Office of Justice Programs of the Department of Justice may make grants to e
 
 &emsp;IP–TIC grants may be used to establish and develop programs to do the following with respect to the enforcement of State and local true name and address laws and State and local criminal laws on anti-infringement, anti-counterfeiting, and unlawful acts with respect to goods by reason of their protection by a patent, trademark, service mark, trade secret, or other intellectual property right under State or Federal law:
 
-&emsp;&emsp;(A) Assist State and local law enforcement agencies in enforcing those laws, includingby reimbursing State and local entities for expenses incurred in performing enforcement operations, such as overtime payments and storage fees for seized evidence.
+&emsp;&emsp;(A) Assist State and local law enforcement agencies in enforcing those laws, including by reimbursing State and local entities for expenses incurred in performing enforcement operations, such as overtime payments and storage fees for seized evidence.
 
 &emsp;&emsp;(B) Assist State and local law enforcement agencies in educating the public to prevent, deter, and identify violations of those laws.
 
@@ -28,7 +28,7 @@ The Office of Justice Programs of the Department of Justice may make grants to e
 
 &emsp;&emsp;(A) assurances that the State in which the government entity is located has in effect laws described in paragraph (1);
 
-&emsp;&emsp;(B) an assessment of the resource needs of the State or local government entity applying for the grant, including information on the need for reimbursements of base salaries and overtime costs, storage fees, and other expenditures to improve the investigation, prevention, or enforcement of laws described in paragraph (1); and
+&emsp;&emsp;(B) an assessment of the resource needs of the State or local government entity applying for the grant, including information on the need for reimbursements of base salaries and overtime costs, storage fees, and other expenditures to improve the investigation,prevention, or enforcement of laws described in paragraph (1); and
 
 &emsp;&emsp;(C) a plan for coordinating the programs funded under this section with other federally funded technical assistance and training programs, including directly funded local programs such as the Edward Byrne Memorial Justice Assistance Grant Program authorized by subpart 1 of part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3750 et seq.).
 

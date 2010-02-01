@@ -232,7 +232,7 @@ In this chapter:
 
 #### (32) Outlying area
 
-&emsp;The term “outlying area” means the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
+&emsp;The term “outlying area” means the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the MarshallIslands, the Federated States of Micronesia, and the Republic of Palau.
 
 #### (33) Out-of-school youth
 
@@ -320,7 +320,7 @@ In this chapter:
 
 #### (A) Veteran
 
-&emsp;&emsp;The term “veteran” means an individual who served in the active military, naval, or air service, and who was discharged or released from such service under conditions other than dishonorable.
+&emsp;&emsp;The term “veteran” means an individual who served in the active military, naval, orair service, and who was discharged or released from such service under conditions other than dishonorable.
 
 #### (B) Recently separated veteran
 
@@ -402,7 +402,7 @@ Pub. L. 109–281, §1, Sept. 22, 2006, 120 Stat. 1173, provided that: “This A
 
 Pub. L. 102–367, title I, §101(a), Sept. 7, 1992, 106 Stat. 1022, provided that: “In recognition of the training needs of low-income adults and youth, the Congress declares it to be the policy of the United States to—
 
-&emsp;“(1) provide financial assistance to States and local service delivery areas to meet the training needs of such low-income adults and youth, and to assist such individuals in obtaining unsubsidized employment;
+&emsp;“(1) provide financial assistance to States and local service delivery areas to meet the training needs ofsuch low-income adults and youth, and to assist such individuals in obtaining unsubsidized employment;
 
 &emsp;“(2) increase the funds available for programs under title II of the Job Training Partnership Act (\[former\] 29 U.S.C. 1601 et seq.) by not less than 10 percent of the baseline each fiscal year to provide for growth in the percentage of eligible adults and youth served above the 5 percent of the eligible population that is currently served; and
 
@@ -456,7 +456,7 @@ Sec. 2. <i>Establishment of the Council on the 21st Century Workforce.</i>
 
 &emsp;(iii) Each member of the Council who is not an officer or employee of the Federal Government shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Federal service (5 U.S.C. 5701–5707).
 
-&emsp;(iv) The Department of Labor shall make available appropriate funding and administrative support to assist the Council in carrying out the functions underthis section, including necessary office space, equipment, supplies, staff, and services. The Secretary of Labor shall perform the functions of the President under the Federal Advisory Committee Act (5 U.S.C. App.), as amended, except that of reporting to the Congress, with respect to the Council in accordance with the guidelines and procedures established by the Administrator of General Services.
+&emsp;(iv) The Department of Labor shall make available appropriate funding and administrative support to assist the Council in carrying out the functions under this section, including necessary office space, equipment, supplies, staff, and services. The Secretary of Labor shall perform the functions of the President under the Federal Advisory Committee Act (5 U.S.C. App.), as amended, except that of reporting to the Congress, with respect to the Council in accordance with the guidelines and procedures established by the Administrator of General Services.
 
 &emsp;(v) The heads of executive agencies shall, to the extent permitted by law, provide the Council with such information as it may require for purposes of carrying out the functions described in this section.
 

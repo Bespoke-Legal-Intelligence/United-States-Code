@@ -12,11 +12,15 @@ Not later than the expiration of the 60-day period following the date of enactme
 
 The Secretary shall prescribe such minimum standards of habitability as the Secretary determines to be appropriate to ensure that emergency shelters assisted under this section are environments that provide appropriate privacy, safety, and sanitary and other health-related conditions for homeless persons and families. Grantees are authorized to establish standards of habitability in addition to those prescribed by the Secretary.
 
-(Pub. L. 100–77, title IV, §416, July 22, 1987, 101 Stat. 498; Pub. L. 101–625, title VIII, §832(f)(7), (g), Nov. 28, 1990, 104 Stat. 4361; Pub. L. 104–330, title V, §506(a)(6), Oct. 26, 1996, 110 Stat. 4044.)
+(Pub. L. 100–77, title IV, §416, July 22, 1987, 101 Stat. 498; Pub. L. 101–625, title VIII, §832(f)(7), (g), Nov. 28, 1990, 104 Stat. 4361; Pub. L. 104–330, title V, §506(a)(6), Oct. 26, 1996, 110 Stat. 4044; Pub. L. 111–22, div. B, title II, §1201(3), May 20, 2009, 123 Stat. 1678.)
+
+#### Renumbering of Section
+
+<i>Pub. L. 111–22, div. B, title II, §1201(3), title V, §1503, May 20, 2009, 123 Stat. 1678, 1702, provided that, effective on the earlier of the expiration of the 18-month period beginning on May 20, 2009, or the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 of Pub. L. 111–22, section 416 of Pub. L. 100–77, which is classified to this section, is renumbered as section 417 of Pub. L. 100–77.</i>
 
 #### References in Text
 
-The emergency shelter grants program under the provisions made effective by section 101(g) of Public Law 99–500 or Public Law 99–591, referred to in subsec. (a), means the emergency shelter grants program authorized by title V of H.R. 5313 \[Department of Housing and Urban Development—Independent Agencies Appropriations Act, 1987\], as incorporated by reference by section 101(g) of Pub. L. 99–500 and 99–591, and enacted into law by section 106 of Pub. L. 100–202, which is set out as a note under section 11361 of this title.
+The emergency shelter grants program under the provisions made effective by section 101(g) of Public Law99–500 or Public Law 99–591, referred to in subsec. (a), means the emergency shelter grants program authorized by title V of H.R. 5313 \[Department of Housing and Urban Development—Independent Agencies Appropriations Act, 1987\], as incorporated by reference by section 101(g) of Pub. L. 99–500 and 99–591, and enacted into law by section 106 of Pub. L. 100–202, which is set out as a note under section 11361 of this title.
 
 #### Amendments
 

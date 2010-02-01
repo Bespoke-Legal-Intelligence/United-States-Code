@@ -42,7 +42,7 @@ Any securities that are offered and sold pursuant to section 77d(5) of this titl
 
 #### (2) State registration or qualification requirements
 
-&emsp;Any State may, not later than 7 years after September 23, 1994, enact a statute that specifically refers to this section and requires registration or qualification of any small business related securities on terms that differ from those applicable to any obligation issued by the United States.
+&emsp;Any State may, not later than 7 years after September 23, 1994, enact a statute that specifically refers to this section and requires registration or qualification of any small business related securities on terms that differfrom those applicable to any obligation issued by the United States.
 
 (Pub. L. 98–440, title I, §106, Oct. 3, 1984, 98 Stat. 1691; Pub. L. 103–325, title II, §207, Sept. 23, 1994, 108 Stat. 2199.)
 

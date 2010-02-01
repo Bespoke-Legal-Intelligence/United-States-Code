@@ -60,7 +60,7 @@
 
 #### (2) Prohibited types of financing
 
-&emsp;The Secretary shall not make a loan under this section with respect to a farm or ranch ifthe farm or ranch is to be acquired with other financing that contains any of the following conditions:
+&emsp;The Secretary shall not make a loan under this section with respect to a farm or ranch if the farm or ranch is to be acquired with other financing that contains any of the following conditions:
 
 &emsp;&emsp;(A) The financing is to be amortized over a period of less than 30 years.
 

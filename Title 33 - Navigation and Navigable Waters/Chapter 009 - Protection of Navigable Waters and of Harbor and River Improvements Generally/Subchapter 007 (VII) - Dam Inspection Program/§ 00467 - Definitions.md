@@ -82,7 +82,7 @@ In this subchapter, the following definitions apply:
 
 #### Prior Provisions
 
-A prior section 467, Pub. L. 92–367, §1, Aug. 8, 1972, 86 Stat. 506; Pub. L. 99–662, title XII, §1201(a), Nov. 17, 1986, 100 Stat. 4260, defined term “dam” as used in this subchapter, prior to repeal by Pub. L. 104–303, §215(c)(1).
+A prior section 467, Pub. L. 92–367, §1, Aug. 8, 1972, 86 Stat. 506; Pub. L. 99–662, title XII, §1201(a), Nov. 17, 1986,100 Stat. 4260, defined term “dam” as used in this subchapter, prior to repeal by Pub. L. 104–303, §215(c)(1).
 
 A prior section 2 of Pub. L. 92–367 was renumbered section 3 by section 215(c)(3) of Pub. L. 104–303 and is classified to section 467a of this title.
 

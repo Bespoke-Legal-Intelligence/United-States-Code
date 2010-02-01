@@ -16,7 +16,7 @@ The Secretary shall establish and, for each of fiscal years 2003 through 2011, c
 
 #### (2) Eligible land
 
-&emsp;Except as provided in paragraph (3), private agricultural land (including cropland, grassland, prairie land, improved pasture land, and rangeland), land under the jurisdiction of an Indian tribe (as defined by the Secretary), and forested land that is an incidental part of an agricultural operation shall be eligible for enrollment in the conservation security program.
+&emsp;Except as provided in paragraph (3), private agricultural land (including cropland, grassland, prairie land, improved pasture land, and rangeland), land under the jurisdiction of an Indian tribe (as defined by the Secretary), andforested land that is an incidental part of an agricultural operation shall be eligible for enrollment in the conservation security program.
 
 #### (3) Exclusions
 

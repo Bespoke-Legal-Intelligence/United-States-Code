@@ -26,7 +26,7 @@ Federal funds received from other sources shall not be used to pay a coastal sta
 
 #### (c) Reversion to Secretary of unobligated State funds; availability of funds
 
-The amount of any grant, or portion of a grant, made to a State under any section of thischapter which is not obligated by such State during the fiscal year, or during the second fiscal year after the fiscal year, for which it was first authorized to be obligated by such State shall revert to the Secretary. The Secretary shall add such reverted amount to those funds available for grants under the section for such reverted amount was originally made available.
+The amount of any grant, or portion of a grant, made to a State under any section of this chapter which is not obligated by such State during the fiscal year, or during the second fiscal year after the fiscal year, for which it was first authorized to be obligated by such State shall revert to the Secretary. The Secretary shall add such reverted amount to those funds available for grants under the section for such reverted amount was originally made available.
 
 (Pub. L. 89–454, title III, §318, formerly §315, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1289; amended Pub. L. 93–612, §1(3), Jan. 2, 1975, 88 Stat. 1974; renumbered §318 and amended Pub. L. 94–370, §§7, 14, July 26, 1976, 90 Stat. 1019, 1031; Pub. L. 95–372, title V, §§502, 503(e), (f), Sept. 18, 1978, 92 Stat. 692, 693; Pub. L. 96–464, §13, Oct. 17, 1980, 94 Stat. 2070; Pub. L. 99–272, title VI, §6046, Apr. 7, 1986, 100 Stat. 127; Pub. L. 99–626, §7, Nov. 7, 1986, 100 Stat. 3506; Pub. L. 101–508, title VI, §6215, Nov. 5, 1990, 104 Stat. 1388–313; Pub. L. 104–150, §4, June 3, 1996, 110 Stat. 1381.)
 
@@ -36,7 +36,7 @@ This chapter, referred to in subsec. (c), was in the original “this Act” whi
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–150, §4(1), amended subsec. (a) generally, substituting provisions of pars. (1) and (2) setting forth appropriations for grants under sections 1455, 1455a, 1456b, and 1461 for fiscal years 1997, 1998, and 1999 for provisions of pars. (1) to (4) setting forth appropriations for grants under sections 1454, 1455, 1455a, 1456b, and 1461 and activities under section 1456c for fiscal years during the period beginning Oct. 1, 1990, and ending Sept. 30, 1995.
+1996—Subsec. (a). Pub. L. 104–150, §4(1), amended subsec. (a) generally, substituting provisions of pars. (1) and (2) setting forth appropriations for grants under sections 1455, 1455a, 1456b, and 1461 for fiscal years 1997, 1998, and 1999 for provisions of pars. (1) to (4) settingforth appropriations for grants under sections 1454, 1455, 1455a, 1456b, and 1461 and activities under section 1456c for fiscal years during the period beginning Oct. 1, 1990, and ending Sept. 30, 1995.
 
 Subsecs. (b) to (d). Pub. L. 104–150, §4(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “There are authorized to be appropriated until October 1, 1986, to the Fund, such sums, not to exceed $800,000,000, for the purposes of carrying out the provisions of section 1456a of this title, other than subsection (b), of which not to exceed $150,000,000 shall be for purposes of subsections (c)(1), (c)(2) and (c)(3) of such section.”
 
@@ -74,7 +74,7 @@ Subsec. (a)(4). Pub. L. 96–464, §13(1), redesignated par. (5) as (4) and subs
 
 Subsec. (a)(5). Pub. L. 96–464, §13(1), combined in par. (5), authorization of appropriation of $31,000,000 for grants under section 1461 of this title for fiscal years 1977 through 1980 formerly contained in pars. (7) and (8), and authorized appropriation of $9,000,000 for grants under section 1461 of this title for fiscal years 1981 through 1985. Former par. (5) redesignated (4).
 
-Subsec. (a)(6). Pub. L. 96–464, §13(1), redesignated par. (9) as (6) and substituted authorization of appropriationof $6,000,000 for fiscal years 1981 through 1985, for authorization of appropriation of $5,000,000 for fiscal years 1977 through 1980. Former par. (6), which contained authorization of appropriation of $10,000,000 for fiscal years 1977 through 1980 for financial assistance under section 1456c of this title with equal division between subsecs. (a) and (b), was struck out.
+Subsec. (a)(6). Pub. L. 96–464, §13(1), redesignated par. (9) as (6) and substituted authorization of appropriation of $6,000,000 for fiscal years 1981 through 1985, for authorization of appropriation of $5,000,000 for fiscal years 1977 through 1980. Former par. (6), which contained authorization of appropriation of $10,000,000 for fiscal years 1977 through 1980 for financial assistance under section 1456c of this title with equal division between subsecs. (a) and (b), was struck out.
 
 Subsec. (a)(7) to (9). Pub. L. 96–464, §13(1), combined provisions of pars. (7) and (8) into par. (5) and redesignated par. (9) as (6).
 

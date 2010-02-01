@@ -4,31 +4,31 @@
 
 #### (1) In general
 
-&emsp;Assistance provided under this subchapter shall be used only for a program that does not duplicate, and is in addition to, an activity otherwise available in the locality of such program.
+&emsp;Assistance provided under the national service laws shall be used only for a program that does not duplicate, and is in addition to, an activity otherwise available in the locality of such program.
 
 #### (2) Private nonprofit entity
 
-&emsp;Assistance made available under this subchapter shall not be provided to a private nonprofit entity to conduct activities that are the same or substantially equivalent to activities provided by a State or local government agency that such entity resides in, unless the requirements of subsection (b) of this section are met.
+&emsp;Assistance made available under the national service laws shall not be provided to a private nonprofit entity to conduct activities that are the same or substantially equivalent to activities provided by a State or local government agency that such entity resides in, unless the requirements of subsection (b) of this section are met.
 
 #### (b) Nondisplacement
 
 #### (1) In general
 
-&emsp;An employer shall not displace an employee or position, including partial displacement such as reduction in hours, wages, or employment benefits, as a result of the use by such employer of a participant in a program receiving assistance under this subchapter.
+&emsp;An employer shall not displace an employee, position, or volunteer (other than a participant under the national service laws), including partial displacement such as reduction in hours, wages, or employment benefits, as a result of the use by such employer of a participant in a program receiving assistance under the national service laws.
 
 #### (2) Service opportunities
 
-&emsp;A service opportunity shall not be created under this subchapter that will infringe in any manner on the promotional opportunity of an employed individual.
+&emsp;A service opportunity shall not be created under the national service laws that will infringe in any manner on the promotional opportunity of an employed individual.
 
 #### (3) Limitation on services
 
 #### (A) Duplication of services
 
-&emsp;&emsp;A participant in a program receiving assistance under this subchapter shall not perform any services or duties or engage in activities that would otherwise be performed by an employee as part of the assigned duties of such employee.
+&emsp;&emsp;A participant in a program receiving assistance under the national service laws shall not perform any services or duties or engage in activities that would otherwise be performed by an employee as part of the assigned duties of such employee.
 
 #### (B) Supplantation of hiring
 
-&emsp;&emsp;A participant in any program receiving assistance under this subchapter shall not perform any services or duties, or engage in activities, that—
+&emsp;&emsp;A participant in any program receiving assistance under the national service laws shall not perform any services or duties, or engage in activities, that—
 
 &emsp;&emsp;&emsp;(i) will supplant the hiring of employed workers; or
 
@@ -36,7 +36,7 @@
 
 #### (C) Duties formerly performed by another employee
 
-&emsp;&emsp;A participant in any program receiving assistance under this subchapter shall not perform services or duties that have been performed by or were assigned to any—
+&emsp;&emsp;A participant in any program receiving assistance under the national service laws shall not perform services or duties that have been performed by or were assigned to any—
 
 &emsp;&emsp;&emsp;(i) presently employed worker;
 
@@ -64,13 +64,31 @@ Allowances, earnings, and payments to individuals participating in programs that
 
 Programs that receive assistance under this subchapter shall establish and stringently enforce standards of conduct at the program site to promote proper moral and disciplinary conditions.
 
-(Pub. L. 101–610, title I, §177, Nov. 16, 1990, 104 Stat. 3163; Pub. L. 103–82, title I, §117, title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 864, 918; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(42)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427.)
+#### (f) Parental involvement
+
+#### (1) In general
+
+&emsp;Programs that receive assistance under the national service laws shall consult with the parents or legal guardians of children in developing and operating programs that include and serve children.
+
+#### (2) Parental permission
+
+&emsp;Programs that receive assistance under the national service laws shall, before transporting minor children, provide the children's parents with the reason for the transportation and obtain the parents’ written permission for such transportation, consistent with State law.
+
+(Pub. L. 101–610, title I, §177, Nov. 16, 1990, 104 Stat. 3163; Pub. L. 103–82, title I, §117, title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 864, 918; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(42)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427; Pub. L. 111–13, title I, §1605, Apr. 21, 2009, 123 Stat. 1530.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
+
+2009—Subsec. (a)(1), (2). Pub. L. 111–13, §1605(1), substituted “under the national service laws” for “under this subchapter”.
+
+Subsec. (b)(1). Pub. L. 111–13, §1605(1), (2), substituted “employee, position, or volunteer (other than a participant under the national service laws)” for “employeeor position” and “under the national service laws” for “under this subchapter”.
+
+Subsec. (b)(2), (3). Pub. L. 111–13, §1605(1), substituted “under the national service laws” for “under this subchapter” wherever appearing.
+
+Subsec. (f). Pub. L. 111–13, §1605(3), added subsec. (f).
 
 1998—Subsec. (d). Pub. L. 105–277 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “Section 142(b) of the Job Training Partnership Act shall apply to the projects conducted under this subchapter as such projects were conducted under the Job Training Partnership Act.”
 
@@ -79,6 +97,10 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 Subsec. (b)(3)(C)(iii). Pub. L. 103–82, §117(2), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “employee who is subject to a reduction in force;”.
 
 Subsec. (c). Pub. L. 103–82, §402(b)(1), substituted “Corporation” for “Commission”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 
 #### Effective Date of 1993 Amendment
 

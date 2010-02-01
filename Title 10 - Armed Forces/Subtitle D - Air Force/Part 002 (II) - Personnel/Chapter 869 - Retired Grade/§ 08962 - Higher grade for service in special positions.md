@@ -36,9 +36,9 @@ June 12, 1948, ch. 449, §303(h) (1st 42 words of 3d proviso), 62 Stat. 372.
 
 In subsection (a), the words “who has served (1) as Chief of Staff to the President, (2) as Chief of Staff of the Air Force, (3) as a senior member of the Military Staff Committee of the United Nations, or (4) in a position of importance and responsibility designated by the President to carry the grade of general or lieutenant general under section 8066 of this title” are substituted for the words “while serving in accordance with the provisions of subsection (b) or (c) of this section”.
 
-In subsection (b), the words “in that grade” are substituted for the words “in such higher temporarygrade”. The words “under section 8071 of this title” are inserted for clarity.
+In subsection (b), the words “in that grade” are substituted for the words “in such higher temporary grade”. The words “under section 8071 of this title” are inserted for clarity.
 
-In subsection (c), the words “Upon retirement” are substituted for the words “When \* \* \* is retired”. The word “allowances” is omitted, since retired officers are not entitled to allowances. The words “grade is below brigadier general” are inserted, since any permanent professor who has the grade of brigadier general retires in that grade under section 9335 of this title.
+In subsection (c), the words “Upon retirement” are substituted for the words “When is retired”. The word “allowances” is omitted, since retired officers are not entitled to allowances. The words “grade is below brigadier general” are inserted, since any permanent professor who has the grade of brigadier general retires in that grade under section 9335 of this title.
 
 1958
 
@@ -82,5 +82,5 @@ For authority of the President to appoint a retired commissioned officer of a re
 
 #### Retired Grade for Certain General Officers
 
-Extension of privilege granted by subsec. (a) of this section, to officers, heretofore or hereafter retired, who served in the grade of general or lieutenant general after Dec. 7, 1941, and before July 1, 1946, see section 38 of act Aug. 10, 1956, set out as a note under section 3962 of this title.
+Extension of privilege granted by subsec. (a) of this section, to officers, heretofore or hereafter retired, who served in the grade of general or lieutenant general after Dec. 7, 1941, and before July 1, 1946, see section 38of act Aug. 10, 1956, set out as a note under section 3962 of this title.
 

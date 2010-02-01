@@ -94,7 +94,7 @@ Subsec. (d)(5). Pub. L. 103–66, §13322(d), added par. (5).
 
 Subsec. (d)(6). Pub. L. 103–66, §13443(b)(2), added par. (6).
 
-1992—Subsec. (d). Pub. L. 102–486 redesignated par. (5), relating to carryback of enhanced oil recovery credit,as (1), redesignated par. (5), relating to carryback of section 44 credit, as (2), and added par. (3).
+1992—Subsec. (d). Pub. L. 102–486 redesignated par. (5), relating to carryback of enhanced oil recovery credit, as (1), redesignated par. (5), relating to carryback of section 44 credit, as (2), and added par. (3).
 
 1990—Subsec. (d)(1) to (4). Pub. L. 101–508, §11801(a)(2), struck out par. (1) which related to carryforwards from an unused credit year which did not expire before first taxable year beginning after Dec. 31, 1983, par. (2) which related to carrybacks in determining amount allowable as credit including net tax liability, par. (3) which related to similar rules for research credit under section 30, and par. (4) which provided for no carryback of low-income housing credit before 1987.
 

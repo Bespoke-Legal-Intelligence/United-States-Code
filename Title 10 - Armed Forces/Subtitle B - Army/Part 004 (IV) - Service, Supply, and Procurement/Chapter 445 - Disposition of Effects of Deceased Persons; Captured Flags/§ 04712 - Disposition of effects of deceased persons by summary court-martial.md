@@ -26,7 +26,7 @@
 
 &emsp;(6) A beneficiary named in the will of the deceased.
 
-(e) If the summary court-martial cannot dispose of the effects under subsection (d) because there are no persons in those categories or because the court finds that the addresses of the persons are not known or readily ascertainable, the court may convert the effects of the deceased, except sabres, insignia, decorations, medals, watches, trinkets, manuscripts, and other articles valuable chiefly as keepsakes, into cash, by public or private sale, but not until 30 days after the date of death of the deceased.
+(e) If the summary court-martial cannot dispose of the effects under subsection (d) because there are no persons in those categories or because the court finds that the addresses of the persons are not known or readily ascertainable, the court may convert the effects of the deceased, except sabers, insignia, decorations,medals, watches, trinkets, manuscripts, and other articles valuable chiefly as keepsakes, into cash, by public or private sale, but not until 30 days after the date of death of the deceased.
 
 (f) As soon as practicable after the effects have been converted into cash under subsection (e), the summary court-martial shall deposit all cash in the court's possession and belonging to the estate with the officer designated in regulations, and shall send a receipt therefor, together with any will or other papers of value, an inventory of the effects, and articles not permitted to be sold, to the executive part of the Department of the Army. The Secretary of the Army shall deliver to the Armed Forces Retirement Home all items received by the executive part of the Department of the Army under this subsection.
 
@@ -78,7 +78,7 @@ In subsection (a), the words “the court-martial jurisdiction of the Army or th
 
 In subsections (a), (b), and (d), the words “surviving spouse” are substituted for the word “widow”.
 
-In subsection (c), the word “may” is substituted for the words “shall have authority to”. The words “to the extent permitted” are substituted for the words “in so far as \* \* \* will permit”. The words “under this article” and “upon its transactions” are omitted as surplusage.
+In subsection (c), the word “may” is substituted for the words “shall have authority to”. The words “to the extent permitted” are substituted for the words “in so far as will permit”. The words “under this article” and “upon its transactions” are omitted as surplusage.
 
 In subsection (d), the words “through the Quartermaster Corps” are omitted, since the functions are no longer lodged in the Quartermaster Corps. The words “if such be found by said court” are omitted as surplusage. The words “United States” are substituted for the word “Government”. 5:150j (19 words before 3d semicolon of 1st par.) is omitted as covered by subsection (g).
 

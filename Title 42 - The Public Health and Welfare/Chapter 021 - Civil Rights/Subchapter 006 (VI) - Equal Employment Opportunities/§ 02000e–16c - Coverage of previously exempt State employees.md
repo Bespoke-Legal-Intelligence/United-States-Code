@@ -14,7 +14,7 @@ The rights, protections, and remedies provided pursuant to section 2000e–16b o
 
 #### (1) In general
 
-&emsp;Any individual referred to in subsection (a) of this section may file a complaint alleging a violation, not later than 180 days after the occurrence of the alleged violation, with the Equal Employment Opportunity Commission, which, in accordance with the principles and procedures set forth in sections 554 through 557 of title 5, shall determine whether a violation has occurred and shall set forth its determination in a final order. If the Equal Employment Opportunity Commission determines that a violation has occurred, the final order shall also provide for appropriate relief.
+&emsp;Any individual referred to in subsection (a) of this section may file a complaint alleging a violation, not later than 180 days after the occurrence of the alleged violation, with the Equal Employment Opportunity Commission, which, in accordance with the principles and procedures set forth in sections 554 through 557 of title 5, shall determine whether a violation has occurred and shall set forth its determination in a final order. If the Equal Employment Opportunity Commission determines that aviolation has occurred, the final order shall also provide for appropriate relief.
 
 #### (2) Referral to State and local authorities
 
@@ -46,7 +46,7 @@ To the extent necessary to decision and when presented, the reviewing court shal
 
 If the individual referred to in subsection (a) of this section is the prevailing party in a proceeding under this subsection,<sup>1</sup> attorney's fees may be allowed by the court in accordance with the standards prescribed under section 2000e–5(k) of this title.
 
-(Pub. L. 102–166, title III, §304, formerly §321, Nov. 21, 1991, 105 Stat. 1097; renumbered §304 andamended Pub. L. 104–1, title V, §504(a)(3), (4), Jan. 23, 1995, 109 Stat. 41.)
+(Pub. L. 102–166, title III, §304, formerly §321, Nov. 21, 1991, 105 Stat. 1097; renumbered §304 and amended Pub. L. 104–1, title V, §504(a)(3), (4), Jan. 23, 1995, 109 Stat. 41.)
 
 #### Codification
 

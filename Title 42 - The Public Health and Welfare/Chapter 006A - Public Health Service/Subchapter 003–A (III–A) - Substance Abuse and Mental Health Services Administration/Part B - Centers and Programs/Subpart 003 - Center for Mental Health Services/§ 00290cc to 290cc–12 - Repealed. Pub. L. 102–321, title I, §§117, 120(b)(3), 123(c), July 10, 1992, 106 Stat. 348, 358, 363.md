@@ -2,7 +2,7 @@
 
 Section 290cc, act July 1, 1944, ch. 373, title V, §515, formerly Pub. L. 92–255, title V, §503, as added Pub. L. 94–237, §13(a), Mar. 19, 1976, 90 Stat. 248; amended Pub. L. 95–461, §2(c), Oct. 14, 1978, 92 Stat. 1268; Pub. L. 96–181, §12, Jan. 2, 1980, 93 Stat. 1315; Pub. L. 97–35, title IX, §972(a), (b), Aug. 13, 1981, 95 Stat. 597; renumbered §515 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(11), 97 Stat. 180; Oct. 19, 1984, Pub. L. 98–509, title II, §§205(a)(2), 206(c)(2), 207(b), 98 Stat. 2361–2363; Oct. 27, 1986, Pub. L. 99–570, title IV, §4009, 100 Stat. 3207–115; Nov. 18, 1988, Pub. L. 100–690, title II, §2058(a)(3), 102 Stat. 4214, related to encouraging drug abuse research.
 
-Section 290cc–1, act July 1, 1944, ch. 373, title V, §516, as added Oct. 19, 1984, Pub. L. 98–509, title II, §206(b), 98 Stat. 2362; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2058(a)(4), 102 Stat. 4214, related to drug abuse demonstration projects.
+Section 290cc–1, act July 1, 1944, ch. 373, title V, §516, as added Oct. 19, 1984, Pub. L. 98–509, title II, §206(b), 98Stat. 2362; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2058(a)(4), 102 Stat. 4214, related to drug abuse demonstration projects.
 
 Section 290cc–2, act July 1, 1944, ch. 373, title V, §517, as added Oct. 19, 1984, Pub. L. 98–509, title II, §207(b), 98 Stat. 2363; amended Oct. 27, 1986, Pub. L. 99–570, title IV, §4010(b), 100 Stat. 3207–115; Nov. 18, 1988, Pub. L. 100–690, title II, §2056(b), 102 Stat. 4211; Aug. 15, 1990, Pub. L. 101–374, §3(a), 104 Stat. 457, authorized appropriations for drug abuse research.
 

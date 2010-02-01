@@ -6,7 +6,7 @@ A funding agreement for a grant under section 300x or 300x–21 of this title is
 
 &emsp;(1)(A) for the fiscal year for which the grant involved is provided, provide for independent peer review to assess the quality, appropriateness, and efficacy of treatment services provided in the State to individuals under the program involved; and
 
-&emsp;(B) ensure that, in the conduct of such peer review, not fewer than 5 percent of the entitiesproviding services in the State under such program are reviewed (which 5 percent is representative of the total population of such entities);
+&emsp;(B) ensure that, in the conduct of such peer review, not fewer than 5 percent of the entities providing services in the State under such program are reviewed (which 5 percent is representative of the total population of such entities);
 
 &emsp;(2) permit and cooperate with Federal investigations undertaken in accordance with section 300x–55 of this title; and
 

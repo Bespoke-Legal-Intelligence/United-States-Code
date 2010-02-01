@@ -2,11 +2,11 @@
 
 #### (a) Attorney's fees
 
-If a covered employee, with respect to any claim under this chapter, or a qualified person with a disability, with respect to any claim under section 1331 of this title, is a prevailing party in any proceeding under section 1405, 1406, 1407, or 1408 of this title, the hearing officer, Board, or court, as the case may be, may award attorney's fees, expert fees, and any other costs as would be appropriate if awarded under section 2000e–5(k) of title 42.
+If a covered employee, with respect to any claim under this chapter, or a qualified person with a disability, with respect to any claim under section 1331 of this title, is a prevailing party in any proceeding under section 1405, 1406,1407, or 1408 of this title, the hearing officer, Board, or court, as the case may be, may award attorney's fees, expert fees, and any other costs as would be appropriate if awarded under section 2000e–5(k) of title 42.
 
 #### (b) Interest
 
-In any proceeding under section 1405, 1406, 1407, or 1408 of this title, the same interest to compensate for delay in payment shall be madeavailable as would be appropriate if awarded under section 2000e–16(d) of title 42.
+In any proceeding under section 1405, 1406, 1407, or 1408 of this title, the same interest to compensate for delay in payment shall be made available as would be appropriate if awarded under section 2000e–16(d) of title 42.
 
 #### (c) Civil penalties and punitive damages
 

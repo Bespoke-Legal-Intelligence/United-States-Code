@@ -40,7 +40,7 @@
 
 #### (2) Attribution of income
 
-&emsp;In determining the income of an institutionalized spouse or community spouse for purposes of the post-eligibility income determination described in subsection (d) of this section, except as otherwise provided in this section and regardless of any State laws relating to community property or the division of marital property, the following rules apply:
+&emsp;In determining the income of an institutionalized spouse or community spouse for purposes of the post-eligibility income determination described in subsection (d) of this section, except as otherwise provided in thissection and regardless of any State laws relating to community property or the division of marital property, the following rules apply:
 
 #### (A) Non-trust property
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(i) except as provided in clause (ii), income shall be attributed in accordance with the provisions of this subchapter (including sections 1396a(a)(17) and 1396p(d) of this title), and
 
-&emsp;&emsp;&emsp;(ii) income shall be considered available to each spouse as provided in the trust, or,in the absence of a specific provision in the trust—
+&emsp;&emsp;&emsp;(ii) income shall be considered available to each spouse as provided in the trust, or, in the absence of a specific provision in the trust—
 
 &emsp;&emsp;&emsp;&emsp;(I) if payment of income is made solely to the institutionalized spouse or the community spouse, the income shall be considered available only to that respective spouse;
 
@@ -124,7 +124,7 @@
 
 #### (1) Allowances to be offset from income of institutionalized spouse
 
-&emsp;After an institutionalized spouse is determined or redetermined to be eligible for medical assistance, in determining the amount of the spouse's income that is to be applied monthly to payment for the costs of care in the institution, there shall be deducted fromthe spouse's monthly income the following amounts in the following order:
+&emsp;After an institutionalized spouse is determined or redetermined to be eligible for medical assistance, in determining the amount of the spouse's income that is to be applied monthly to payment for the costs of care in the institution, there shall be deducted from the spouse's monthly income the following amounts in the following order:
 
 &emsp;&emsp;(A) A personal needs allowance (described in section 1396a(q)(1) of this title), in an amount not less than the amount specified in section 1396a(q)(2) of this title.
 
@@ -182,7 +182,7 @@
 
 #### (5) Court ordered support
 
-&emsp;If a court has entered an order against an institutionalized spouse for monthly income for the support of the community spouse, the community spouse monthly income allowance for the spouse shall be not less than the amount of the monthly income so ordered.
+&emsp;If a court has entered an order against an institutionalized spouse for monthly income forthe support of the community spouse, the community spouse monthly income allowance for the spouse shall be not less than the amount of the monthly income so ordered.
 
 #### (6) Application of “income first” rule to revision of community spouse resource allowance
 
@@ -198,7 +198,7 @@
 
 &emsp;&emsp;(B) a request by either the institutionalized spouse, or the community spouse, or a representative acting on behalf of either spouse,
 
-> &emsp;each State shall notify both spouses (in the case described in subparagraph (A)) or the spouse making the request (in the case described in subparagraph (B)) of the amount of the community spouse monthly income allowance (described in subsection (d)(1)(B) of thissection), of the amount of any family allowances (described in subsection (d)(1)(C) of this section), of the method for computing the amount of the community spouse resources allowance permitted under subsection (f) of this section, and of the spouse's right to a fair hearing under this subsection respecting ownership or availability of income or resources, and the determination of the community spouse monthly income or resource allowance.
+> &emsp;each State shall notify both spouses (in the case described in subparagraph (A)) or the spouse making the request (in the case described in subparagraph (B)) of the amount of the community spouse monthly income allowance (described in subsection (d)(1)(B) of this section), of the amount of any family allowances (described in subsection (d)(1)(C) of this section), of the method for computing the amount of the community spouse resources allowance permitted under subsection (f) of this section, and of the spouse's right to a fair hearing under this subsection respecting ownership or availability of income or resources, and the determination of the community spouse monthly income or resource allowance.
 
 #### (2) Fair hearing
 

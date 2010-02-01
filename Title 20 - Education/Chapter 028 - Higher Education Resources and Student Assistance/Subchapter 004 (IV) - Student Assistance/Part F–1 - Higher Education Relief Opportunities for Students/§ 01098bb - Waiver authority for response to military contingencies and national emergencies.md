@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, unless enacted with specific reference to this section, the Secretary of Education (referred to in this part as the “Secretary”) may waive or modify any statutory or regulatory provision applicable to the student financial assistance programs under title IV of the Act \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\] as the Secretary deems necessary in connection with a war or other military operation or national emergency to provide the waivers or modifications authorized by paragraph (2).
+&emsp;Notwithstanding any other provision of law, unless enacted with specific reference to thissection, the Secretary of Education (referred to in this part as the “Secretary”) may waive or modify any statutory or regulatory provision applicable to the student financial assistance programs under title IV of the Act \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\] as the Secretary deems necessary in connection with a war or other military operation or national emergency to provide the waivers or modifications authorized by paragraph (2).
 
 #### (2) Actions authorized
 

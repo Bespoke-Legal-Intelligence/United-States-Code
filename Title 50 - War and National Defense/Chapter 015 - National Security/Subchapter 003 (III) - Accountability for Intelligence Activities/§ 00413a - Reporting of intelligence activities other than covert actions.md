@@ -28,13 +28,13 @@ A prior section 502 of act July 26, 1947, ch. 343, was renumbered section 504 an
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–458, §1071(a)(1)(W), substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
+2004—Subsec. (a). Pub. L. 108–458, §1071(a)(1)(W), substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
 
 Subsec. (c). Pub. L. 108–458, §1071(a)(1)(X), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-<b>2002</b>—Subsecs. (a), (b). Pub. L. 107–306 substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
+2002—Subsecs. (a), (b). Pub. L. 107–306 substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
 
-<b>2001</b>—Pub. L. 107–108 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+2001—Pub. L. 107–108 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
 #### Effective Date of 2004 Amendment
 

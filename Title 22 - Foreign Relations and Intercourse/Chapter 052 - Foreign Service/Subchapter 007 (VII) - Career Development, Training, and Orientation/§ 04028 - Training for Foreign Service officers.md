@@ -32,5 +32,5 @@ The Child Soldiers Prevention Act of 2008, referred to in subsec. (c), is title 
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–457 effective 180 days after Dec. 23, 2008, see section 407 of Pub. L. 110–457, set out as an Effective Date note under section 2370c of this title.
+Amendment by Pub. L. 110–457 effective 180 days after Dec. 23, 2008, see section 407 of Pub. L. 110–457, set outas an Effective Date note under section 2370c of this title.
 

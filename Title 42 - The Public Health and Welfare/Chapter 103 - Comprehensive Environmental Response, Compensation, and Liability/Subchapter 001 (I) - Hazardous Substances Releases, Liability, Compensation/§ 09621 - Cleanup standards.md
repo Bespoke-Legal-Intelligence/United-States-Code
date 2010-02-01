@@ -24,7 +24,7 @@ The President shall select appropriate remedial actions determined to be necessa
 
 > The President shall select a remedial action that is protective of human health and the environment, that is cost effective, and that utilizes permanent solutions and alternative treatment technologies or resource recovery technologies to the maximum extent practicable. If the President selects a remedial action not appropriate for a preference under this subsection, the President shall publish an explanation as to why a remedial action involving such reductions was not selected.
 
-(2) The President may select an alternative remedial action meeting the objectives of this subsection whether or not such action has been achieved in practice at any other facility or site that has similar characteristics. In making such a selection, the President may take into account the degree of support for such remedial action by parties interested in such site.
+(2) The President may select an alternative remedial action meeting the objectives of thissubsection whether or not such action has been achieved in practice at any other facility or site that has similar characteristics. In making such a selection, the President may take into account the degree of support for such remedial action by parties interested in such site.
 
 #### (c) Review
 
@@ -40,7 +40,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 &emsp;(ii) any promulgated standard, requirement, criteria, or limitation under a State environmental or facility siting law that is more stringent than any Federal standard, requirement, criteria, or limitation, including each such State standard, requirement, criteria, or limitation contained in a program approved, authorized or delegated by the Administrator under a statute cited in subparagraph (A), and that has been identified to the President by the State in a timely manner,
 
-> is legally applicable to the hazardous substance or pollutant or contaminant concerned or is relevant and appropriate under the circumstances of the release or threatened release of such hazardous substance or pollutant or contaminant, the remedial action selected under section 9604 of this title or secured under section 9606 of thistitle shall require, at the completion of the remedial action, a level or standard of control for such hazardous substance or pollutant or contaminant which at least attains such legally applicable or relevant and appropriate standard, requirement, criteria, or limitation. Such remedial action shall require a level or standard of control which at least attains Maximum Contaminant Level Goals established under the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\] and water quality criteria established under section 304 or 303 of the Clean Water Act \[33 U.S.C. 1314, 1313\], where such goals or criteria are relevant and appropriate under the circumstances of the release or threatened release.
+> is legally applicable to the hazardous substance or pollutant or contaminant concerned or is relevant and appropriate under the circumstances of the release or threatened release of such hazardous substance or pollutant or contaminant, the remedial action selected under section 9604 of this title or secured under section 9606 of this title shall require, at the completion of the remedial action, a level or standard of control for such hazardous substance or pollutant or contaminant which at least attains such legally applicable or relevant and appropriate standard, requirement, criteria, or limitation. Such remedial action shall require a level or standard of control which at least attains Maximum Contaminant Level Goals established under the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\] and water quality criteria established under section 304 or 303 of the Clean Water Act \[33 U.S.C. 1314, 1313\], where such goals or criteria are relevant and appropriate under the circumstances of the release or threatened release.
 
 (B)(i) In determining whether or not any water quality criteria under the Clean Water Act \[33 U.S.C. 1251 et seq.\] is relevant and appropriate under the circumstances of the release or threatened release, the President shall consider the designated or potential use of the surface or groundwater, the environmental media affected, the purposes for which such criteria were developed, and the latest information available.
 
@@ -58,7 +58,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 (ii) Except as provided in clauses (iii) and (iv), a State standard, requirement, criteria, or limitation (including any State siting standard or requirement) which could effectively result in the statewide prohibition of land disposal of hazardous substances, pollutants, or contaminants shall not apply.
 
-(iii) Any State standard, requirement, criteria, or limitation referred to in clause (ii) shall apply where each of the following conditions is met:
+(iii) Any State standard, requirement, criteria, or limitation referred to in clause (ii)shall apply where each of the following conditions is met:
 
 &emsp;(I) The State standard, requirement, criteria, or limitation is of general applicability and was adopted by formal means.
 
@@ -176,5 +176,5 @@ Section 121(b) of Pub. L. 99–499 provided that: “With respect to section 121
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the report under subsec. (c) of this section appears to be the report listedas the 15th item on page 20), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the report under subsec. (c) of this section appears to be the report listed as the 15th item on page 20), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 

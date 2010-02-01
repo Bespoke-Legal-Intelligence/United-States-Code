@@ -52,7 +52,7 @@ This section does not apply to any plan—
 
 #### (c) Definitions
 
-(1) For purposes of subsection (b)(1) of this section, the term “individual account plan” doesnot include a plan under which a fixed benefit is promised if the employer or his representative participated in the determination of that benefit.
+(1) For purposes of subsection (b)(1) of this section, the term “individual account plan” does not include a plan under which a fixed benefit is promised if the employer or his representative participated in the determination of that benefit.
 
 (2) For purposes of this paragraph and for purposes of subsection (b)(13) of this section—
 
@@ -124,7 +124,7 @@ Amendment by section 906(a)(2)(B), (b)(2) of Pub. L. 109–280 applicable to any
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 Amendment by section 7894(g)(3)(A) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

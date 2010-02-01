@@ -86,7 +86,7 @@ Subsec. (g). Pub. L. 105–261, §1041(c), added subsec. (g).
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title X, §1041(d), Oct. 17, 1998, 112 Stat. 2124, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1998.”
+Pub. L. 105–261, div. A, title X, §1041(d), Oct. 17, 1998, 112 Stat. 2124, provided that: “The amendments madeby this section \[amending this section\] shall take effect on October 1, 1998.”
 
 #### Effective Date
 

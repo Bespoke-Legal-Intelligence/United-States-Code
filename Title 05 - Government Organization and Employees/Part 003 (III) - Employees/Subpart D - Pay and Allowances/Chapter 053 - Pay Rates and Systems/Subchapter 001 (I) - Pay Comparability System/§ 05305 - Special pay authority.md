@@ -202,7 +202,7 @@ Step 2
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-“(c) The higher minimum rates and corresponding higher rates for each step rate of each designated grade shall apply to every law enforcement officer in the designated grades (except in the case of any law enforcement officer for whom a higher rate is authorized under section 5305 of title 5, United States Code, as amended by section 101 of this Act, or similar provision of law)and shall be basic pay for all purposes. The rates shall be adjusted at the time of adjustments in the General Schedule to maintain the step linkage set forth in subsection (b)(2).
+“(c) The higher minimum rates and corresponding higher rates for each step rate of each designated grade shall apply to every law enforcement officer in the designated grades (except in the case of any law enforcement officer for whom a higher rate is authorized under section 5305 of title 5, United States Code, as amended by section 101 of this Act, or similar provision of law) and shall be basic pay for all purposes. The rates shallbe adjusted at the time of adjustments in the General Schedule to maintain the step linkage set forth in subsection (b)(2).
 
 “(d) Any interim entry-level adjustment under section 209 of this Act \[section 529 \[title II, §209\] of Pub. L. 101–509, set out as a note above\] which a law enforcement officer is receiving shall be eliminated on the day before the effective date of the higher minimum rates under subsection (b)(1).
 

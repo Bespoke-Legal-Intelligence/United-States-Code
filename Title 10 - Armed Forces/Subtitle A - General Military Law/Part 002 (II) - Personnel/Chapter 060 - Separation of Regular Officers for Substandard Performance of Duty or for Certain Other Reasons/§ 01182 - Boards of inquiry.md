@@ -10,7 +10,7 @@
 
 (d)(1) If a board of inquiry determines that the officer has established that he should be retained on active duty, the officer's case is closed.
 
-(2) An officer who is required to show cause for retention on active duty under subsection (a) of section 1181 of this title and who is determined under paragraph (1) to have established that he should be retained on active duty may not again be required to show cause for retention on active duty under such subsection within the one-year period beginning on the date of that determination.
+(2) An officer who is required to show cause for retention on active duty under subsection (a) of section 1181 of this title and who is determined under paragraph (1) to have established that he should be retained on active duty may not againbe required to show cause for retention on active duty under such subsection within the one-year period beginning on the date of that determination.
 
 (3)(A) Subject to subparagraph (B), an officer who is required to show cause for retention on active duty under subsection (b) of section 1181 of this title and who is determined under paragraph (1) to have established that he should be retained on active duty may again be required to show cause for retention at any time.
 

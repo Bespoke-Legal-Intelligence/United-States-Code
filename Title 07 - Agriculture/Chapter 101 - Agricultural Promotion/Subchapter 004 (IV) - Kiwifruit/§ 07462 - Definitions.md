@@ -40,7 +40,7 @@ In this subchapter (unless the context otherwise requires):
 
 #### (10) Processing
 
-&emsp;The term “processing” means canning, fermenting, distilling, extracting, preserving,grinding, crushing, or in any manner changing the form of kiwifruit for the purpose of preparing the kiwifruit for market or marketing the kiwifruit.
+&emsp;The term “processing” means canning, fermenting, distilling, extracting, preserving, grinding, crushing, or in any manner changing the form of kiwifruit for the purpose of preparing the kiwifruit for market or marketing the kiwifruit.
 
 #### (11) Producer
 

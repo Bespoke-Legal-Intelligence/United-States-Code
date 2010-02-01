@@ -48,7 +48,7 @@ Definitions.—In this section:
 
 &emsp;(4) The term “tribally owned corporation” means a corporation owned entirely by an Indian tribe.
 
-(Added Pub. L. 102–484, div. A, title VIII, §801(g)(1), Oct. 23, 1992, 106 Stat. 2445; amended Pub. L. 104–201, div. A, title X, §1074(a)(13), Sept. 23, 1996, 110 Stat. 2659.)
+(Added Pub. L. 102–484, div. A, title VIII, §801(g)(1), Oct. 23, 1992, 106 Stat. 2445; amendedPub. L. 104–201, div. A, title X, §1074(a)(13), Sept. 23, 1996, 110 Stat. 2659.)
 
 #### Codification
 

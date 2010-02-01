@@ -42,7 +42,7 @@ Subsec. (a)(2) to (4). Pub. L. 110–2, §2(a)(2)–(4), added pars. (2) and (3)
 
 Subsecs. (b), (c). Pub. L. 110–2, §2(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1998—Subsec. (a)(3). Pub. L. 105–275 inserted “and” at end of par. (1), substituted a period for “; and” at endof par. (2), and struck out par. (3) which read as follows: “the Architect of the Capitol.”
+1998—Subsec. (a)(3). Pub. L. 105–275 inserted “and” at end of par. (1), substituted a period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “the Architect of the Capitol.”
 
 1996—Subsec. (a)(2). Pub. L. 104–186 substituted “Clerk and the Sergeant” for “Clerk, Doorkeeper, and Sergeant”.
 

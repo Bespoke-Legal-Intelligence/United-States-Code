@@ -22,7 +22,7 @@
 
 (4) Any decision under this subsection concerning remand for the determination of damages shall not be reviewable by appeal or otherwise.
 
-(5) An action removed under this subsection shall be deemed to be an action under section1369 and an action in which jurisdiction is based on section 1369 of this title for purposes of this section and sections 1407, 1697, and 1785 of this title.
+(5) An action removed under this subsection shall be deemed to be an action under section 1369 and an action in which jurisdiction is based on section 1369 of this title for purposes of this section and sections 1407, 1697, and 1785 of this title.
 
 (6) Nothing in this subsection shall restrict the authority of the district court to transfer or dismiss an action on the ground of inconvenient forum.
 

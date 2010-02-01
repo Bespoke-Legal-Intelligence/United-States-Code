@@ -16,7 +16,7 @@ For the purpose of this chapter—
 
 (b) The term “package” means any container or wrapping in which any consumer commodity is enclosed for use in the delivery or display of that consumer commodity to retail purchasers, but does not include—
 
-&emsp;(1) shipping containers or wrappings used solely for the transportation of any consumer commodity in bulk or in quantity to manufacturers, packers, or processors, or to wholesale or retail distributors thereof;
+&emsp;(1) shipping containers or wrappings used solely for the transportation of any consumercommodity in bulk or in quantity to manufacturers, packers, or processors, or to wholesale or retail distributors thereof;
 
 &emsp;(2) shipping containers or outer wrappings used by retailers to ship or deliver any commodity to retail customers if such containers and wrappings bear no printed matter pertaining to any particular commodity; or
 

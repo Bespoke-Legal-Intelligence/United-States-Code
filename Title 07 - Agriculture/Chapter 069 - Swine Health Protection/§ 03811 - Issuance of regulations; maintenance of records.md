@@ -1,6 +1,6 @@
 ### §3811. Issuance of regulations; maintenance of records
 
-The Secretary is authorized to issue such regulations and to require the maintenance of such records as he deems necessary to carry out the provisions of this chapter.
+The Secretary is authorized to issue such regulations and to require the maintenance of suchrecords as he deems necessary to carry out the provisions of this chapter.
 
 (Pub. L. 96–468, §11, formerly §12, Oct. 17, 1980, 94 Stat. 2233; renumbered §11, Pub. L. 104–127, title IX, §914(b)(2), Apr. 4, 1996, 110 Stat. 1186.)
 

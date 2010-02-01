@@ -26,7 +26,7 @@ Section 3612, Pub. L. 96–294, title V, §514, June 30, 1980, 94 Stat. 730; Pub
 
 Section 3613, Pub. L. 96–294, title V, §515, June 30, 1980, 94 Stat. 732; Pub. L. 100–242, title V, §570(e), Feb. 5, 1988, 101 Stat. 1950; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433, established conditions on financial assistance for solar energy systems.
 
-Section 3614, Pub. L. 96–294, title V, §516, June 30, 1980, 94 Stat. 734, provided limitations on provision offinancial assistance for residential and commercial energy conserving improvements.
+Section 3614, Pub. L. 96–294, title V, §516, June 30, 1980, 94 Stat. 734, provided limitations on provision of financial assistance for residential and commercial energy conserving improvements.
 
 Section 3615, Pub. L. 96–294, title V, §517, June 30, 1980, 94 Stat. 734, provided limitations on provision of financial assistance for solar energy systems.
 
@@ -42,7 +42,7 @@ Section 3620, Pub. L. 96–294, title V, §522, June 30, 1980, 94 Stat. 737; Pub
 
 #### Short Title
 
-Pub. L. 96–294, title V, §501, June 30, 1980, 94 Stat. 719, provided that title V of Pub. L. 96–294 was to be cited as the “Solar Energy and Energy Conservation Act of 1980”, prior to repeal by Pub. L. 102–550, title IX, §912(i)(1), Oct. 28, 1992, 106 Stat. 3876.
+Pub. L. 96–294, title V, §501, June 30, 1980, 94 Stat. 719, provided that: “This title \[enacting this chapter and sections 6347, 8235 to 8235i, and 8281 to 8286b of Title 42, The Public Health and Welfare, amending sections 1451, 1454, 1717, 1723g, and 1723h of this title and sections 6862 to 6872, 8211, 8213, 8214, 8216, 8217, and 8221 of Title 42, repealing section 1723f of this title, and enacting provisions set out as notes under this section and sections 8211 and 8235 of Title 42\] may be cited as the ‘Solar Energy and Energy Conservation Act of 1980’.”
 
 Pub. L. 96–294, title V, §502, June 30, 1980, 94 Stat. 719, provided that subtitle A (§§502–534) of title V of Pub. L. 96–294 was to be cited as the “Solar Energy and Energy Conservation Bank Act”, prior to repeal by Pub. L. 102–550, title IX, §912(i)(1), Oct. 28, 1992, 106 Stat. 3876.
 

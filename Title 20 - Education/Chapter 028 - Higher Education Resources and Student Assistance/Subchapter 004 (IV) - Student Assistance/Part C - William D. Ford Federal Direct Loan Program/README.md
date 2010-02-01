@@ -15,7 +15,7 @@ This part was, in the original, part D of title IV of Pub. L. 89–329, the High
 - [&sect; 01087d - Agreements with institutions](%C2%A7%2001087d%20-%20Agreements%20with%20institutions.md)
 - [&sect; 01087e - Terms and conditions of loans](%C2%A7%2001087e%20-%20Terms%20and%20conditions%20of%20loans.md)
 - [&sect; 01087f - Contracts](%C2%A7%2001087f%20-%20Contracts.md)
-- [&sect; 01087g - Regulatory activities](%C2%A7%2001087g%20-%20Regulatory%20activities.md)
+- [&sect; 01087g - Repealed. Pub. L. 111&#8211;39, title IV, &sect;404(b)(3), July 1, 2009, 123 Stat. 1946](%C2%A7%2001087g%20-%20Repealed.%20Pub.%20L.%20111%E2%80%9339%2C%20title%20IV%2C%20%C2%A7404%28b%29%283%29%2C%20July%201%2C%202009%2C%20123%20Stat.%201946.md)
 - [&sect; 01087h - Funds for administrative expenses](%C2%A7%2001087h%20-%20Funds%20for%20administrative%20expenses.md)
 - [&sect; 01087i - Authority to sell loans](%C2%A7%2001087i%20-%20Authority%20to%20sell%20loans.md)
 - [&sect; 01087i&#8211;1 - Temporary authority to purchase student loans](%C2%A7%2001087i%E2%80%931%20-%20Temporary%20authority%20to%20purchase%20student%20loans.md)

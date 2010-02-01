@@ -36,7 +36,7 @@
 
 #### Amendments
 
-2008—Pub. L. 110–181, div. A, title XVI, §1636(b), Jan. 28, 2008, 122 Stat. 464, added item 1599c and struck outformer item 1599c “Appointment in excepted service of certain health care professionals”.
+2008—Pub. L. 110–181, div. A, title XVI, §1636(b), Jan. 28, 2008, 122 Stat. 464, added item 1599c and struck out former item 1599c “Appointment in excepted service of certain health care professionals”.
 
 2004—Pub. L. 108–375, div. A, title XI, §1104(b), Oct. 28, 2004, 118 Stat. 2074, added item 1587a.
 
@@ -96,6 +96,134 @@ Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(
 
 1958—Pub. L. 85–577, §1(2), July 31, 1958, 72 Stat. 456, added item 1585.
 
+#### Availability of Funds for Compensation of Certain Civilian Employees of the Department of Defense
+
+Pub. L. 111–84, div. A, title XI, §1111, Oct. 28, 2009, 123 Stat. 2495, provided that:
+
+“(a)
+
+Availability of Funds.—Funds authorized to be appropriated for the Department of Defense that are available for the purchase of contract services to meet a requirement that is anticipated to continue for five years or more shall be available to provide compensation for civilian employees of the Department to meet the same requirement.
+
+“(b)
+
+Regulations.—Not later than 120 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary shall prescribe regulations implementing the authority in subsection (a). Such regulations—
+
+&emsp;“(1) shall ensure that the authority in subsection (a) is utilized to build government capabilities that are needed to perform inherently governmental functions, functions closely associated with inherently governmental functions, and other critical functions;
+
+&emsp;“(2) shall include a mechanism to ensure that follow-on funding to provide compensation for civilian employees of the Department to perform functions described in paragraph (1) is provided from appropriate accounts; and
+
+&emsp;“(3) may establish additional criteria and levels of approval within the Department for the utilization of funds to provide compensation for civilian employees of the Department pursuant to subsection (a).
+
+“(c)
+
+Annual Report.—Not later than 60 days after the end of each fiscal year for which the authority in subsection (a) is in effect, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of such authority. Each report shall cover the preceding fiscal year and shall identify, at a minimum, the following:
+
+&emsp;“(1) The amount of funds used under the authority in subsection (a) to provide compensation for civilian employees.
+
+&emsp;“(2) The source or sources of the funds so used.
+
+&emsp;“(3) The number of civilian employees employed through the use of such funds.
+
+&emsp;“(4) The actions taken by the Secretary to ensure that follow-on funding for such civilian employees is provided through appropriate accounts.
+
+“(d)
+
+Temporary Authority.—The authority in subsection (a) shall apply to funds authorized to be appropriated for the Department of Defense for fiscal years 2010 through 2019.”
+
+#### Department of Defense Civilian Leadership Program
+
+Pub. L. 111–84, div. A, title XI, §1112, Oct. 28, 2009, 123 Stat. 2496, provided that:
+
+“(a)
+
+Leadership Program Required.—
+
+&emsp;“(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall establish a program of leadership recruitment and development for civilian employees of the Department of Defense, to be known as the ‘Department of Defense Civilian Leadership Program’ (in this section referred to as the ‘program’).
+
+&emsp;“(2)
+
+Objectives.—The objectives of the program shall be as follows:
+
+&emsp;&emsp;“(A) To develop a new generation of civilian leaders for the Department of Defense.
+
+&emsp;&emsp;“(B) To recruit individuals with the academic merit, work experience, and demonstrated leadership skills to meet the future needs of the Department.
+
+&emsp;&emsp;“(C) To offer rapid advancement, competitive compensation, and leadership opportunities to highly qualified civilian employees of the Department.
+
+&emsp;“(3)
+
+Available authorities.—In carrying out the program, the Secretary may exercise any authority available to the Office of Personnel Management under section 4703 of title 5, United States Code, except that the Secretary shall not be bound by the limitations in subsection (d) of such section. Nothing in this section shall be construed to authorize the waiver of any part of chapter 71 of title 5, United States Code, or any regulation implementing such chapter, in the carrying out of the program.
+
+“(b)
+
+Eligible Individuals.—
+
+&emsp;“(1)
+
+In general.—The following individuals shall be eligible to participate in the program:
+
+&emsp;&emsp;“(A) Current employees of the Department of Defense.
+
+&emsp;&emsp;“(B) Appropriate individuals in the private sector.
+
+&emsp;“(2)
+
+Limitation on number of participants in program.—The total number of individuals who may participate in the program in any fiscal year may not exceed 5,000.
+
+&emsp;“(3)
+
+Limitation on period of participation in program.—The maximum period of time that an individual may participate in the program is three years.
+
+“(c)
+
+Elements of Program.—
+
+&emsp;“(1)
+
+Competitive entry.—The selection of individuals for entry into the program shall be made on the basis of a competition conducted at least twice each year. In each competition, participants in the program shall be selected from among applicants determined by the Secretary to be the most highly qualified in terms of academic merit, work experience, and demonstrated leadership skills. Each competition shall provide for entry-level participants and midcareer participants in the program.
+
+&emsp;“(2)
+
+Allocation of positions.—The Secretary shall allocate positions in the program among the components of the Department of Defense that—
+
+&emsp;&emsp;“(A) offer the most challenging assignments;
+
+&emsp;&emsp;“(B) provide the greatest level of responsibility; and
+
+&emsp;&emsp;“(C) demonstrate the greatest need for participants in the program.
+
+&emsp;“(3)
+
+Assignments to positions.—Participants in the program shall be assigned to components of the Department that best match their skills and qualifications. Participants in the program may be rotated among components of the Department of Defense at the discretion of the Secretary.
+
+&emsp;“(4)
+
+Initial compensation.—The initial compensation of participants in the program shall be determined by the Secretary based on the qualifications of such participants and applicable market conditions.
+
+&emsp;“(5)
+
+Education and training.—The Secretary shall provide participants in the program with training, mentoring, and educational opportunities that are appropriate to facilitate the development of such participants into effective civilian leaders for the Department of Defense.
+
+&emsp;“(6)
+
+Objective, merit-based principles for personnel decisions.—The Secretary shall make personnel decisions under the program in accordance with such objective, merit-based criteria as the Secretary shall prescribe in regulations for purposes of the program. Such criteria shall include, but not be limited to, criteria applicable to the following:
+
+&emsp;&emsp;“(A) The selection of individuals for entry into the program.
+
+&emsp;&emsp;“(B) The assignment of participants in the program to positions in the Department of Defense.
+
+&emsp;&emsp;“(C) The initial compensation of participants in the program.
+
+&emsp;&emsp;“(D) The access of participants in the program to training, mentoring, and educational opportunities under the program.
+
+&emsp;&emsp;“(E) The consideration of participants in the program for selection into the senior management, functional, and technical workforce of the Department.
+
+&emsp;“(7)
+
+Consideration for senior management, functional, and technical workforce.—Any participant in the program who, as determined by the Secretary, demonstrates outstanding performance shall be afforded priority in consideration for selection into the appropriate element of the senior management, functional, and technical workforce of the Department of Defense (as defined in section 115b(f) of title 10, United States Code).”
+
 #### Direct Hire Authority at Personnel Demonstration Laboratories for Certain Candidates
 
 Pub. L. 110–417, \[div. A\], title XI, §1108, Oct. 14, 2008, 122 Stat. 4618, provided that:
@@ -106,7 +234,7 @@ Authority.—The Secretary of Defense may appoint qualified candidates possessin
 
 “(b)
 
-Applicability.—This section applies with respect to candidates for scientific and engineering positions within any laboratory identified in section 9902(c)(2) of title 5, United States Code.
+Applicability.—This section applies with respect to candidates for scientific and engineering positions within any laboratory identified in \[former\] section 9902(c)(2) of title 5, United States Code.
 
 “(c)
 
@@ -128,7 +256,7 @@ Pub. L. 110–417, \[div. A\], title XII, §1235, Oct. 14, 2008, 122 Stat. 4641,
 
 “(a)
 
-In General.—The Secretary of Defense and the Secretary of State are authorized to jointly establish and operate a temporary program to offer employment as translators, interpreters, or cultural awareness instructors to individuals described in subsection (b). Individuals described in such subsection may be appointed to temporary positions of one year or less outside Iraq with either the Department of Defense or the Department of State, without competition and without regard for the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code. Such individuals may also be hired as personal services contractors by either of such Departments to provide translation, interpreting, or cultural awareness instruction, except that such individuals so hired shall not by virtue of such employment be considered employees of the United States Government, except forpurposes of chapter 81 of title 5, United States Code, and chapter 171 of title 28, United States Code.
+In General.—The Secretary of Defense and the Secretary of State are authorized to jointly establish and operate a temporary program to offer employment as translators, interpreters, or cultural awareness instructors to individuals described in subsection (b). Individuals described in such subsection may be appointed to temporary positions of one year or less outside Iraq with either the Department of Defense or the Department of State, without competition and without regard for the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code. Such individuals may also be hired as personal services contractors by either of such Departments to provide translation, interpreting, or cultural awareness instruction, except that such individuals so hired shall not by virtue of such employment be considered employees of the United States Government, except for purposes of chapter 81 of title 5, United States Code, and chapter 171 of title 28, United States Code.
 
 “(b)
 
@@ -176,83 +304,9 @@ Earlier termination.—If the Secretary of Defense, jointly with the Secretary o
 
 #### Strategic Human Capital Plan for Civilian Employees of the Department of Defense
 
-Pub. L. 110–181, div. A, title VIII, §851, Jan. 28, 2008, 122 Stat. 247, provided that:
+Pub. L. 110–181, div. A, title VIII, §851, Jan. 28, 2008, 122 Stat. 247, which required that, in updates of the strategic human capital plan, the Secretary of Defense was to include a separate section focused on the defense acquisition workforce, was repealed by Pub. L. 111–84, div. A, title XI, §1108(c)(3), Oct. 28, 2009, 123 Stat. 2492.
 
-“(a)
-
-In General.—In the update of the strategic human capital plan for 2008, and in each subsequent update, the Secretary of Defense shall include a separate section focused on the defense acquisition workforce, including both military and civilian personnel.
-
-“(b)
-
-Funding.—The section shall contain—
-
-&emsp;“(1) an identification of the funding programmed for defense acquisition workforce improvements, including a specific identification of funding provided in the Department of Defense Acquisition Workforce Fund established under section 1705 of title 10, United States Code (as added by section 852 of this Act);
-
-&emsp;“(2) an identification of the funding programmed for defense acquisition workforce training in the future-years defense program, including a specific identification of funding provided by the acquisition workforce training fund established under section 37(h)(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 433(h)(3));
-
-&emsp;“(3) a description of how the funding identified pursuant to paragraphs (1) and (2) will be implemented during the fiscal year concerned to address the areas of need identified in accordance with subsection (c);
-
-&emsp;“(4) a statement of whether the funding identified under paragraphs (1) and (2) is being fully used; and
-
-&emsp;“(5) a description of any continuing shortfall in funding available for the defense acquisition workforce.
-
-“(c)
-
-Areas of Need.—The section also shall identify any areas of need in the defense acquisition workforce, including—
-
-&emsp;“(1) gaps in the skills and competencies of the current or projected defense acquisition workforce;
-
-&emsp;“(2) changes to the types of skills needed in the current or projected defense acquisition workforce;
-
-&emsp;“(3) incentives to retain in the defense acquisition workforce qualified, experienced defense acquisition workforce personnel; and
-
-&emsp;“(4) incentives for attracting new, high-quality personnel to the defense acquisition workforce.
-
-“(d)
-
-Strategic Human Capital Plan Defined.—In this section, the term ‘strategic human capital plan’ means the strategic human capital plan required under section 1122 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3452; 10 U.S.C. prec. 1580 note).”
-
-Pub. L. 109–163, div. A, title XI, §1122, Jan. 6, 2006, 119 Stat. 3452, provided that:
-
-“(a)
-
-Plan Required.—(1) Not later than one year after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Defense shall develop and submit to the Committees on Armed Services of the Senate and House of Representatives a strategic plan to shape and improve the civilian employee workforce of the Department of Defense.
-
-“(2) The plan shall be known as the ‘strategic human capital plan’.
-
-“(b)
-
-Contents.—The strategic human capital plan required by subsection (a) shall include—
-
-&emsp;“(1) an assessment of—
-
-&emsp;&emsp;“(A) the critical skills and competencies that will be needed in the future civilian employee workforce of the Department of Defense to support national security requirements and effectively manage the Department over the next decade;
-
-&emsp;&emsp;“(B) the skills and competencies of the existing civilian employee workforce of the Department and projected trends in that workforce based on expected losses due to retirement and other attrition; and
-
-&emsp;&emsp;“(C) gaps in the existing or projected civilian employee workforce of the Department that should be addressed to ensure that the Department has continued access to the critical skills and competencies described in subparagraph (A); and
-
-&emsp;“(2) a plan of action for developing and reshaping the civilian employee workforce of the Department to address the gaps in critical skills and competencies identified under paragraph (1)(C), including—
-
-&emsp;&emsp;“(A) specific recruiting and retention goals, including the program objectives of the Department to be achieved through such goals; and
-
-&emsp;&emsp;“(B) specific strategies for development, training, deploying, compensating, and motivating the civilian employee workforce of the Department, including the program objectives of the Department to be achieved through such strategies.
-
-“(c)
-
-Annual Updates.—Not later than March 1 of each year from 2007 through 2010, the Secretary shall update the strategic human capital plan required by subsection (a), as previously updated under this subsection.
-
-“(d)
-
-Annual Reports.—Not later than March 1 of each year from 2007 through 2010, the Secretary shall submit to the appropriate committees of Congress—
-
-&emsp;“(1) the update of the strategic human capital plan prepared in such year under subsection (c); and
-
-&emsp;“(2) the assessment of the Secretary, using results-oriented performance measures, of the progress of the Department of Defense in implementing the strategic human capital plan.
-
-“(e)
-
-Comptroller General Review.—Not later than 90 days after the Secretary submits under subsection (a) the strategic human capital plan required by that subsection, the Comptroller General shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the plan.”
+Pub. L. 109–163, div. A, title XI, §1122, Jan. 6, 2006, 119 Stat. 3452, which required the Secretary of Defense to develop and submit to the Committees on Armed Services of the Senate and House of Representatives a strategic human capital plan to shape and improve the civilian employee workforce of the Department of Defense, along with updates and the assessment of the Secretary of the progress of the Department in implementing the plan, and required the Comptroller General to submit to the Committees on Armed Services a report on the plan, was repealed by Pub. L. 111–84, div. A, title XI, §1108(c)(1), Oct. 28, 2009, 123 Stat. 2491.
 
 
 ---

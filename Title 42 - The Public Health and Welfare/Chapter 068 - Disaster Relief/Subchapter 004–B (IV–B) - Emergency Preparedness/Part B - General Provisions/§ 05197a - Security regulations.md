@@ -20,9 +20,9 @@ Each Federal employee of the Federal Emergency Management Agency acting under th
 
 &emsp;“And I do further swear (or affirm) that I do not advocate, nor am I a member or an affiliate of any organization, group, or combination of persons that advocates the overthrow of the Government of the United States by force or violence; and that during such time as I am a member of \_\_\_\_\_\_\_\_\_\_\_\_ (name of emergency preparedness organization), I will not advocate nor become a member or an affiliate of any organization, group, or combination of persons that advocates the overthrow of the Government of the United States by force or violence.”
 
-> After appointment and qualification for office, the director of emergency preparedness of any State, and any subordinate emergency preparedness officer within such State designated by the director in writing, shall be qualified to administer any such oath within such State undersuch regulations as the director shall prescribe. Any person who shall be found guilty of having falsely taken such oath shall be punished as provided in section 1621 of title 18.
+> After appointment and qualification for office, the director of emergency preparedness of any State, and any subordinate emergency preparedness officer within such State designated by the director in writing, shall be qualified to administer any such oath within such State under such regulations as the director shall prescribe. Any person who shall be found guilty of having falsely taken such oath shall be punished as provided in section 1621 of title 18.
 
-(Pub. L. 93–288, title VI, §622, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3108; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+(Pub. L. 93–288, title VI, §622, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5,1994, 108 Stat. 3108; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### Prior Provisions
 

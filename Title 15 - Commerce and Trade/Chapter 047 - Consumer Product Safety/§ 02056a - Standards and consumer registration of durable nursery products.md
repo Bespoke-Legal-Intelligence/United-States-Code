@@ -62,7 +62,7 @@ This section may be cited as the “Danny Keysar Child Product Safety Notificati
 
 &emsp;&emsp;(A) to provide consumers with a postage-paid consumer registration form with each such product;
 
-&emsp;&emsp;(B) to maintain a record of the names, addresses, e-mail addresses, and other contact information of consumers who register their ownership of such products with the manufacturer in order to improve the effectiveness of manufacturer campaigns to recall such products; and
+&emsp;&emsp;(B) to maintain a record of the names, addresses, e-mail addresses, and other contactinformation of consumers who register their ownership of such products with the manufacturer in order to improve the effectiveness of manufacturer campaigns to recall such products; and
 
 &emsp;&emsp;(C) to permanently place the manufacturer name and contact information, model name and number, and the date of manufacture on each durable infant or toddler product.
 
@@ -150,7 +150,7 @@ As used in this section, the term “durable infant or toddler product”—
 
 Section 2060(g) of this title, as added by section 236 of this Act, referred to in subsec. (b)(3), is section 2060(g) of this title, as added by section 236 of Pub. L. 110–314.
 
-The Paperwork Reduction Act of 1980, referred to in subsec. (d)(1), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
+The Paperwork Reduction Act of 1980, referred to in subsec. (d)(1), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, seeShort Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
 
 This Act, referred to in subsec. (d)(3), is Pub. L. 110–314, Aug. 14, 2008, 122 Stat. 3016, known as the Consumer Product Safety Improvement Act of 2008. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 2051 of this title and Tables.
 

@@ -48,7 +48,7 @@ For purposes of this part—
 
 &emsp;In the case of a group health plan, the term “participant” also includes—
 
-&emsp;&emsp;(A) in connection with a group health plan maintained by a partnership, an individual who is a partner in relation to the partnership, or
+&emsp;&emsp;(A) in connection with a group health plan maintained by a partnership, an individualwho is a partner in relation to the partnership, or
 
 &emsp;&emsp;(B) in connection with a group health plan maintained by a self-employed individual (under which one or more employees are participants), the self-employed individual,
 

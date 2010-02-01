@@ -56,7 +56,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (C) Consortium
 
-&emsp;&emsp;The condition specified in this subparagraph is that, in accordance with subsection (e)(1) of this section, the designated health profession school involved has with other health profession schools (designated or otherwise) formed a consortium to carry out the purposes described in subsection (b) of this section at the schools of the consortium.
+&emsp;&emsp;The condition specified in this subparagraph is that, in accordance with subsection\(e)(1) of this section, the designated health profession school involved has with other health profession schools (designated or otherwise) formed a consortium to carry out the purposes described in subsection (b) of this section at the schools of the consortium.
 
 #### (D) Application of criteria to other programs
 
@@ -140,7 +140,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (3) Native American centers of excellence
 
-&emsp;Any designated health professions school receiving a grant under subsection (a) of thissection and meeting the conditions described in subsection (c)(4) of this section shall, for purposes of this section, be designated by the Secretary as a Native American Center of Excellence in Health Professions Education. Any consortium receiving such a grant pursuant to subsection (e) of this section shall, for purposes of this section, be so designated.
+&emsp;Any designated health professions school receiving a grant under subsection (a) of this section and meeting the conditions described in subsection (c)(4) of this section shall, for purposes of this section, be designated by the Secretary as a Native American Center of Excellence in Health Professions Education. Any consortium receiving such a grant pursuant to subsection (e) of this section shall, for purposes of this section, be so designated.
 
 #### (e) Authority regarding Native American centers of excellence
 
@@ -202,7 +202,7 @@ In this section:
 
 &emsp;&emsp;If amounts appropriated under paragraph (1) for a fiscal year exceed $24,000,000 but are less than $30,000,000—
 
-&emsp;&emsp;&emsp;(i) 80 percent of such excess amounts shall be made available for grants under subsection (a) of this section to health professions schools that meet the requirements described in paragraph (3) or (4) of subsection (c) of this section (including meeting conditions pursuant to subsection (e) of this section); and
+&emsp;&emsp;&emsp;(i) 80 percent of such excess amounts shall be made available for grants under subsection (a) of this section to health professions schools that meet the requirements described in paragraph (3) or (4) ofsubsection (c) of this section (including meeting conditions pursuant to subsection (e) of this section); and
 
 &emsp;&emsp;&emsp;(ii) 20 percent of such excess amount shall be made available for grants under subsection (a) of this section to health professions schools that meet the conditions described in subsection (c)(5) of this section.
 

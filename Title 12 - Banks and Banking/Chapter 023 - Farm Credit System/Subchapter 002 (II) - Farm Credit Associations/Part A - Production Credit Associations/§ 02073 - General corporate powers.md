@@ -22,11 +22,11 @@ Each production credit association shall be a body corporate and, subject to sup
 
 &emsp;(10) invest funds of the association as may be approved by the Farm Credit Bank under regulations of the Farm Credit Administration and deposit the current funds and securities of such with the Farm Credit Bank, a member bank of the Federal Reserve System, or any bank insured under the Federal Deposit Insurance Corporation, and may pay fees therefor and receive interest thereon as may be agreed;
 
-&emsp;(11) buy and sell obligations of or insured by the United States or of any agency thereof or of any banks of the Farm Credit System and buy from and sell to such banks, interests in loans and in other financial assistance extended and nonvoting stock, as may be authorized by the Farm Credit Bank in accordance with regulations of the Farm Credit Administration;
+&emsp;(11) buy and sell obligations of or insured by the United States or of any agency thereof orof any banks of the Farm Credit System and buy from and sell to such banks, interests in loans and in other financial assistance extended and nonvoting stock, as may be authorized by the Farm Credit Bank in accordance with regulations of the Farm Credit Administration;
 
 &emsp;(12) borrow money from the Farm Credit Bank, and with the approval of such bank, borrow from and issue notes or other obligations to any commercial bank or other financial institution;
 
-&emsp;(13) make and participate in loans, accept advance payments, and provide services and other assistance as authorized in this part and charge fees therefor, and when authorized by the bank participate with one or more otherFarm Credit System institutions in loans made under this subchapter or other subchapters of this chapter on the basis prescribed in section 2206 of this title;
+&emsp;(13) make and participate in loans, accept advance payments, and provide services and other assistance as authorized in this part and charge fees therefor, and when authorized by the bank participate with one or more other Farm Credit System institutions in loans made under this subchapter or other subchapters of this chapter on the basis prescribed in section 2206 of this title;
 
 &emsp;(14) endorse and become liable on loans discounted or pledged to the Farm Credit Bank;
 

@@ -34,7 +34,7 @@ Affirmative Defense.—It is an affirmative defense to a prosecution under this 
 
 (d)
 
-Declaration of Forfeiture.—If a person fails to appear before a court as required, and the person executed an appearance bond pursuant to section 3142(b) of this title or is subject to the release condition set forth in clause (xi) or (xii) of section 3142(c)(1)(B) of this title, the judicial officer may, regardless of whether the person has been charged with an offense under this section, declare any property designated pursuant to that section to be forfeited to the United States.
+Declaration of Forfeiture.—If a person fails to appear before a court as required, and the person executed an appearance bond pursuant to section 3142(b) of this title or is subject to the release condition set forth in clause (xi) or\(xii) of section 3142(c)(1)(B) of this title, the judicial officer may, regardless of whether the person has been charged with an offense under this section, declare any property designated pursuant to that section to be forfeited to the United States.
 
 (Added Pub. L. 98–473, title II, §203(a), Oct. 12, 1984, 98 Stat. 1982; amended Pub. L. 99–646, §55(f), Nov. 10, 1986, 100 Stat. 3609; Pub. L. 103–322, title XXXIII, §330016(2)(K), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–294, title VI, §601(a)(4), Oct. 11, 1996, 110 Stat. 3498.)
 
@@ -42,7 +42,7 @@ Declaration of Forfeiture.—If a person fails to appear before a court as requi
 
 A prior section 3146, added Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 214; amended Pub. L. 97–291, §8, Oct. 12, 1982, 96 Stat. 1257, related to release in noncapital cases prior to trial, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
 
-Another prior section 3146, act Aug. 20, 1954, ch. 772, §1, 68 Stat. 747, which prescribed penalties for jumping bail, was repealed by Pub. L. 89–465, §3(a), June 22, 1966,80 Stat. 214, and covered by former sections 3150 and 3151 of this title.
+Another prior section 3146, act Aug. 20, 1954, ch. 772, §1, 68 Stat. 747, which prescribed penalties for jumping bail, was repealed by Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 214, and covered by former sections 3150 and 3151 of this title.
 
 #### Amendments
 

@@ -2,27 +2,23 @@
 
 #### (a) Amount of payments
 
-From the sums appropriated for any fiscal year for the purpose of the program authorized under subpart 1 of part A of this subchapter, the Secretary shall reserve such sums as may be necessary to pay to each institution with which he has an agreement under section 1094 of this title, an amount equal to $5 for each student at that institution who receives assistance under subpart 1 of part A of this subchapter. In addition, an institution which has entered into an agreement with the Secretary under subpart 3 of part A of this subchapter or part C of subchapter I of chapter 34 of title 42, or under part D of this subchapter shall be entitled for each fiscal year which such institution disburses funds to eligible students under any such part to a payment for the purpose set forth in subsection (b) of this section. The payment for a fiscal year shall be payable from each such allotment by payment in accordance with regulations of the Secretary and shall be equal to 5 percent of the institution's first $2,750,000 of expenditures plus 4 percent of the institution's expenditures greater than $2,750,000 and less than $5,500,000, plus 3 percent of the institution's expenditures in excess of $5,500,000 during the fiscal year from the sum of its grants to students under subpart 3 of part A of this subchapter, its expenditures during such fiscal year under part C of subchapter I of chapter 34 of title 42 for compensation of students, and the principal amount of loans made during such fiscal year from its student loan fund established under part D of this subchapter, excluding the principal amount of any such loans which the institution has agreed to assign under section 1087cc(a)(6)(B) <sup>1</sup> of this title. In addition, the Secretary shall provide for payment to each institution of higher education an amount equal to 100 percent of the costs incurred by the institution in implementing and operating the immigration status verification system under section 1091(h) <sup>1</sup> of this title.
+From the sums appropriated for any fiscal year for the purpose of the program authorized under subpart 1 of part A of this subchapter, the Secretary shall reserve such sums as may be necessary to pay to each institution with which he has an agreement under section 1094 of this title, an amount equal to $5 for each student at that institution who receives assistance under subpart 1 of part A of this subchapter. In addition, an institution which has entered into an agreement with the Secretary under subpart 3 of part A of this subchapter or part C of subchapter I of chapter 34 of title 42, or under part D of this subchapter shall be entitled for each fiscal year which such institution disburses funds to eligible students under any such part to a payment for the purpose set forth in subsection (b) of this section. The payment for a fiscal year shall be payable from each such allotment by payment in accordance with regulations of the Secretary and shall be equal to 5 percent of the institution's first $2,750,000 of expenditures plus 4 percent of the institution's expenditures greater than $2,750,000 and less than $5,500,000, plus 3 percent of the institution's expenditures in excess of $5,500,000 during the fiscal year from the sum of its grants to students under subpart 3 of part A of this subchapter, its expenditures during such fiscal year under part C of subchapter I of chapter 34 of title 42 for compensation of students, and the principal amount of loans made during such fiscal year from its student loan fund established under part D of this subchapter, excluding the principal amount of any such loans which the institution has referred under section 1087cc(a)(4)(B) of this title. In addition, the Secretary shall provide for payment to each institution of higher education an amount equal to 100 percent of the costs incurred by the institution in implementing and operating the immigration status verification system under section 1091(g) of this title.
 
 #### (b) Purpose of payments
 
 (1) The sums paid to institutions under this part are for the sole purpose of administering the programs described in subsection (a) of this section.
 
-(2) If the institution enrolls a significant number of students who are (A) attending the institution less than full time, or (B) independent students, the institution shall use a reasonable proportion of the funds available under this section for financial aid services during times and in places that will most effectively accommodate the needs of such students.
+(2) If the institution enrolls a significant number of students who are (A) attending the institution less than full time, or (B) independent students, the institution shall use a reasonableproportion of the funds available under this section for financial aid services during times and in places that will most effectively accommodate the needs of such students.
 
-(Pub. L. 89–329, title IV, §489, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1491; amended Pub. L. 99–603, title I, §121(b)(7), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 100–50, §15(15), June 3, 1987, 101 Stat. 357; Pub. L. 102–325, title IV, §§446(c), 493, July 23, 1992, 106 Stat. 567, 630; Pub. L. 103–208, §2(h)(44), (k)(6), Dec. 20, 1993, 107 Stat. 2478, 2486; Pub. L. 110–315, title IV, §494B, Aug. 14, 2008, 122 Stat. 3319.)
-
-#### References in Text
-
-Section 1087cc(a)(6)(B) of this title, referred to in subsec. (a), was redesignated section 1087cc(a)(5)(B) by Pub. L. 105–244, title IV, §463(a)(3), Oct. 7, 1998, 112 Stat. 1724.
-
-Section 1091(h) of this title, referred to in subsec. (a), was redesignated section 1091(g) by Pub. L. 103–208, §2(h)(25), Dec. 20, 1993, 107 Stat. 2477.
+(Pub. L. 89–329, title IV, §489, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1491; amended Pub. L. 99–603, title I, §121(b)(7), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 100–50, §15(15), June 3, 1987, 101 Stat. 357; Pub. L. 102–325, title IV, §§446(c), 493, July 23, 1992, 106 Stat. 567, 630; Pub. L. 103–208, §2(h)(44), (k)(6), Dec. 20, 1993, 107 Stat. 2478, 2486; Pub. L. 110–315, title IV, §494B, Aug. 14, 2008, 122 Stat. 3319; Pub. L. 111–39, title IV, §407(b)(10), July 1, 2009, 123 Stat. 1953.)
 
 #### Prior Provisions
 
 A prior section 1096, Pub. L. 89–329, title IV, §489, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1453; amended Pub. L. 97–35, title V, §537(a)(2), Aug. 13, 1981, 95 Stat. 456, related to administrative expenses, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–39 substituted “has referred under section 1087cc(a)(4)(B)” for “has agreed to assign under section 1087cc(a)(6)(B)” and “1091(g)” for “1091(h)”.
 
 2008—Subsec. (b)(1). Pub. L. 110–315 substituted “administering” for “offsetting the administrative costs of”.
 
@@ -42,6 +38,10 @@ Subsec. (b). Pub. L. 102–325, §493(b), designated existing provisions as par.
 
 1986—Subsec. (a). Pub. L. 99–603 inserted provision directing the Secretary to pay the costs incurred by institutions of higher education in implementing and operating the immigration status verification system under section 1091(c) of this title.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
@@ -59,6 +59,4 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–603 effective Oct. 1, 1987, see section 121(c)(2) of Pub. L. 99–603, set out as a note under section 502 of Title 42, The Public Health and Welfare.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

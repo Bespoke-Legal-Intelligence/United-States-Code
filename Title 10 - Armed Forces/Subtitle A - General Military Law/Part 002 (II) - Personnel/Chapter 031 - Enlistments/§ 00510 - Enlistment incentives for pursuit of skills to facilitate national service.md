@@ -6,7 +6,7 @@ Enlistment Incentive Program.—The Secretary of Defense shall carry out an enli
 
 (b)
 
-National Call to Service Participant.—In this section, the term “National Call to Service participant” means a person who has not previously served in the armed forces who enters into an original enlistment pursuant to a written agreement with the Secretary of a military department (in such form and manner as may be prescribed by that Secretary) under which the person agrees to perform a period of national service as specified in subsection (c).
+National Call to Service Participant.—In this section, the term “National Call to Service participant” means a person who has not previously served in the armed forces who enters into an original enlistment pursuant to a written agreement with the Secretary of a military department (in such form and manner as may beprescribed by that Secretary) under which the person agrees to perform a period of national service as specified in subsection (c).
 
 (c)
 
@@ -64,11 +64,11 @@ Coordination With Montgomery GI Bill Benefits.—(1)(A) Subject to subparagraph 
 
 (B) If a National Call to Service participant meets all eligibility requirements specified in chapter 1606 of this title or chapter 30 of title 38 for entitlement to allowances for educational assistance under either such chapter, the participant may become eligible for allowances for educational assistance benefits under either such chapter up to the maximum allowance provided less the total amount of allowance paid under paragraph (3) or (4) of subsection (e).
 
-(2)(A) Educational assistance under paragraphs (3) or (4) of subsection (e) shall be provided through the Department of Veterans Affairs under an agreement to be entered into by the Secretary of Defense and the Secretary of Veterans Affairs. The agreements shall includeadministrative procedures to ensure the prompt and timely transfer of funds from the Secretary concerned to the Secretary of Veterans Affairs for the making of payments under this section.
+(2)(A) Educational assistance under paragraphs (3) or (4) of subsection (e) shall be provided through the Department of Veterans Affairs under an agreement to be entered into by the Secretary of Defense and the Secretary of Veterans Affairs. The agreements shall include administrative procedures to ensure the prompt and timely transfer of funds from the Secretary concerned to the Secretary of Veterans Affairs for the making of payments under this section.
 
 (B) Except as otherwise provided in this section, the provisions of sections 503, 511, 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692) shall be applicable to the provision of educational assistance under this chapter. The term “eligible veteran” and the term “person”, as used in those provisions, shall be deemed for the purpose of the application of those provisions to this section to refer to a person eligible for educational assistance under paragraph (3) or (4) of subsection (e).
 
-(3)(A) Except as provided in paragraph (1), nothing in this section shall prohibit a National Call to Service participant who satisfies through service under subsection (c) the eligibility requirements for educational assistance under chapter 1606 of this title or basic educational assistance under chapter 30 of title 38 from an entitlement to such educational assistance under chapter 1606 of this title or basic educational assistance under chapter 30 of title 38, as the case may be.
+(3)(A) Except as provided in paragraph (1), nothing in this section shall prohibit a NationalCall to Service participant who satisfies through service under subsection (c) the eligibility requirements for educational assistance under chapter 1606 of this title or basic educational assistance under chapter 30 of title 38 from an entitlement to such educational assistance under chapter 1606 of this title or basic educational assistance under chapter 30 of title 38, as the case may be.
 
 (B)(i) A participant who made an election not to receive educational assistance under either such chapter at the applicable time specified under law or who was denied the opportunity to make an election may revoke that election or make an initial election, as the case may be, at such time and in such manner as the Secretary concerned may specify. A revocation or initial election under the preceding sentence is irrevocable.
 
@@ -122,7 +122,7 @@ Subsec. (h)(2). Pub. L. 109–163, §545(c), amended par. (2) generally. Prior t
 
 Subsec. (i). Pub. L. 109–163, §687(c)(1), amended heading and text of subsec. (i) generally. Prior to amendment, text consisted of pars. (1) to (4) which related to pro rata repayments by failed National Call to Service participants, the nature of the debt owed, waiver and discharge in bankruptcy.
 
-2003—Subsec. (j). Pub. L. 108–136 reenacted heading without change and amended text generally. Prior toamendment, text read as follows: “Amounts for payment of incentives under subsection (e), including payment of allowances for educational assistance under that subsection, shall be derived from amounts available to the Secretary of the military department concerned for payment of pay, allowances, and other expenses of the members of the armed force concerned.”
+2003—Subsec. (j). Pub. L. 108–136 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Amounts for payment of incentives under subsection (e), including payment of allowances for educational assistance under that subsection, shall be derived from amounts available to the Secretary of the military department concerned for payment of pay, allowances, and other expenses of the members of the armed force concerned.”
 
 #### Effective Date of 2006 Amendment
 
@@ -130,7 +130,7 @@ Pub. L. 109–364, div. A, title X, §1071(e), Oct. 17, 2006, 120 Stat. 2401, pr
 
 #### Savings Provision
 
-Pub. L. 109–163, div. A, title VI, §687(f), Jan. 6, 2006, 119 Stat. 3336, provided that: “In the case of any bonus, incentive pay, special pay, or similar payment, such as education assistance or a stipend, which the United States became obligated to pay before April 1, 2006, under a provision of law amended by subsection (b), (c), or (d) of this section \[amending this section and sections 2005, 2007, 2105, 2123, 2130a, 2173, 2200a, 4348, 6959, 9348, 16135, 16203, 16303, and 16401 of this title, section 182 of Title 14, Coast Guard, and sections 301b, 301d, 301e, 302, 302a, 302b, 302d to 302h, 302j, 307a, 308, 308b, 308c, 308g to 308i, 309, 312, 312b, 314 to 319, and 321 to 327 of Title 37, Pay and Allowances of the Uniformed Services\], such provision of law, as in effect on the day before the date of the enactment of this Act \[Jan. 6, 2006\], shall continue to apply to the payment, or any repayment, of the bonus, incentive pay, special pay, or similar payment under such provision of law.”
+Pub. L. 109–163, div. A, title VI, §687(f), Jan. 6, 2006, 119 Stat. 3336, provided that: “In the case of any bonus, incentive pay, special pay, or similar payment, such as education assistance or a stipend, which the United States became obligated to pay before April 1, 2006, under a provision of law amended by subsection (b), (c),or (d) of this section \[amending this section and sections 2005, 2007, 2105, 2123, 2130a, 2173, 2200a, 4348, 6959, 9348, 16135, 16203, 16303, and 16401 of this title, section 182 of Title 14, Coast Guard, and sections 301b, 301d, 301e, 302, 302a, 302b, 302d to 302h, 302j, 307a, 308, 308b, 308c, 308g to 308i, 309, 312, 312b, 314 to 319, and 321 to 327 of Title 37, Pay and Allowances of the Uniformed Services\], such provision of law, as in effect on the day before the date of the enactment of this Act \[Jan. 6, 2006\], shall continue to apply to the payment, or any repayment, of the bonus, incentive pay, special pay, or similar payment under such provision of law.”
 
 #### Transfer of Functions
 

@@ -26,7 +26,7 @@
 
 (2) In determining whether or not such individual was so authorized or required to perform such duty, and whether or not such individual was disabled or died from injury or covered disease so incurred, the Secretary shall take into account the hour on which such individual began so to proceed or to return; the hour on which such individual was scheduled to arrive for, or on which such individual ceased to perform, such duty; the method of travel employed; the itinerary; the manner in which the travel was performed; and the immediate cause of disability or death.
 
-(3) Whenever any claim is filed alleging that the claimant is entitled to benefits by reason of this subsection, the burden of proof shall be on the claimant.
+(3) Whenever any claim is filed alleging that the claimant is entitled to benefits by reason ofthis subsection, the burden of proof shall be on the claimant.
 
 (4) For purposes of this subsection, the term “covered disease” means any of the following:
 

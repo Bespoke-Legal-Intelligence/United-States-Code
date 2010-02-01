@@ -42,7 +42,7 @@ Section 3101(a)(2), referred to in subsec. (d), is section 3101(a)(2) of Pub. L.
 
 #### Codification
 
-Section was enacted as part of the Bob Stump National Defense Authorization Act for Fiscal Year 2003, and not as part of the Defense Against Weapons of Mass Destruction Act of 1996 which comprises this chapter.
+Section was enacted as part of the Bob Stump National Defense Authorization Act for Fiscal Year 2003,and not as part of the Defense Against Weapons of Mass Destruction Act of 1996 which comprises this chapter.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) fail to furnish notification of any defect as required by section 5414 of this title;
 
-&emsp;(4) fail to issue a certification required by section 5415 of this title, or issue a certification to the effect that a manufactured home conforms to all applicable Federal manufactured home construction and safety standards, if such person in the exercise of due care has reason to know that such certification is false or misleading in a material respect;
+&emsp;(4) fail to issue a certification required by section 5415 of this title, or issue a certification to the effect that a manufactured homeconforms to all applicable Federal manufactured home construction and safety standards, if such person in the exercise of due care has reason to know that such certification is false or misleading in a material respect;
 
 &emsp;(5) fail to comply with a final order issued by the Secretary under this chapter;
 

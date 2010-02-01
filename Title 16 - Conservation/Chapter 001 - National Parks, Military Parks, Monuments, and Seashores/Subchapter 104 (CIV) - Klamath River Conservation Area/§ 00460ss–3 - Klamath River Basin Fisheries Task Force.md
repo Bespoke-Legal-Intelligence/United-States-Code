@@ -48,7 +48,7 @@ The Task Force is composed of 14 members as follows:
 
 &emsp;(11) A representative of the Karuk Tribe, who shall be appointed by the governing body of the Tribe,<sup>1</sup>
 
-&emsp;(12) A representative of the Yurok Tribe, who shall be appointed by the Secretary until such time as the Yurok Tribe is organizedupon which time the Yurok Tribe shall appoint such representative beginning with the first appointment ordinarily occurring after the Yurok Tribe is organized <sup>2</sup>
+&emsp;(12) A representative of the Yurok Tribe, who shall be appointed by the Secretary until such time as the Yurok Tribe is organized upon which time the Yurok Tribe shall appoint such representative beginning with the first appointment ordinarily occurring after the Yurok Tribe is organized <sup>2</sup>
 
 #### (d) Council membership not a bar to Task Force appointment
 
@@ -128,7 +128,7 @@ At such time as the program is expanded to include portions of the Klamath River
 
 Subsec. (c)(11), (12). Pub. L. 100–580, §12(a)(B), added pars. (11) and (12).
 
-Subsec. (f)(1). Pub. L. 100–653, §602(b), substituted “Procedures” for “Decisions of Task Force” as par. heading and amended text generally. Prior to amendment, text read as follows: “All decisions of the Task Force must be by unanimous vote of all the members.”
+Subsec. (f)(1). Pub. L. 100–653, §602(b), substituted “Procedures” for “Decisions of Task Force” as par.heading and amended text generally. Prior to amendment, text read as follows: “All decisions of the Task Force must be by unanimous vote of all the members.”
 
 Subsec. (h). Pub. L. 100–653, §603(1), substituted “, the State of California, or the State of Oregon” for “or the State of California”.
 

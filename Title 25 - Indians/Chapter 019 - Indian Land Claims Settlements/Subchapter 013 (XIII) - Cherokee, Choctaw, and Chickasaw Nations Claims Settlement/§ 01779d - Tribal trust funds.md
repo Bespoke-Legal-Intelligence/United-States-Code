@@ -42,7 +42,7 @@
 
 #### (C) Use of principal funds
 
-&emsp;&emsp;The principal amounts of said funds and any amounts earned thereon shall be madeavailable to the Indian Nation for which the account was established for expenditure for purposes which may include construction or repair of health care facilities, law enforcement, cultural or other educational activities, economic development, social services, and land acquisition. Land acquisition using such funds shall be subject to the provisions of subsections (b) and (d).<sup>2</sup>
+&emsp;&emsp;The principal amounts of said funds and any amounts earned thereon shall be made available to the Indian Nation for which the account was established for expenditure for purposes which may include construction or repair of health care facilities, law enforcement, cultural or other educational activities, economic development, social services, and land acquisition. Land acquisition using such funds shall be subject to the provisions of subsections (b) and (d).<sup>2</sup>
 
 #### (3) Disbursement of funds
 

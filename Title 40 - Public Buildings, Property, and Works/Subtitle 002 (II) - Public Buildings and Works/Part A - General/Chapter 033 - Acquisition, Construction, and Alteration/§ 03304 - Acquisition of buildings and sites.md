@@ -14,7 +14,7 @@ Public Buildings Used for Post Office Purposes.—When any part of a public buil
 
 (d)
 
-Solicitation of Proposals for Sale, Donation, or Exchange of Real Property.—When the Administrator is to acquire a site under subsection (b), the Administrator, if the Administrator considers it necessary, by public advertisement may solicit proposals for the sale, donation, or exchange of real property to the Federal Government to be used as the site. In selecting a site under subsection (b) the Administrator (with the concurrence of the United States Postal Service if any part of the public building to be constructed on the site is to be used for post office purposes) may—
+Solicitation of Proposals for Sale, Donation, or Exchange of Real Property.—When the Administrator is to acquire a site under subsection (b), the Administrator, if the Administrator considers it necessary, by public advertisement may solicit proposals for the sale, donation, or exchange of real property to the Federal Government to be used as the site. In selecting a site under subsection (b) the Administrator (with the concurrence of the United States Postal Service if any part of the publicbuilding to be constructed on the site is to be used for post office purposes) may—
 
 &emsp;(1) select the site that the Administrator believes is the most advantageous to the Government, all factors considered; and
 

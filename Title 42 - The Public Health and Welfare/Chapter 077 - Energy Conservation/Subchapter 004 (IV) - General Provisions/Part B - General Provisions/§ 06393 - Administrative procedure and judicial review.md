@@ -1,6 +1,6 @@
 ### §6393. Administrative procedure and judicial review
 
-(a)(1) Subject to paragraphs (2), (3), and (4) of this subsection, the provisions of subchapter II of chapter 5 of title 5 shall apply to any rule, regulation, or order having the applicability and effect of a rule as defined in section 551(4) oftitle 5 issued under subchapter I of this chapter (other than section 6212 of this title) and subchapter II of this chapter, or this subchapter.
+(a)(1) Subject to paragraphs (2), (3), and (4) of this subsection, the provisions of subchapter II of chapter 5 of title 5 shall apply to any rule, regulation, or order having the applicability and effect of a rule as defined in section 551(4) of title 5 issued under subchapter I of this chapter (other than section 6212 of this title) and subchapter II of this chapter, or this subchapter.
 
 (2)(A) Notice of any proposed rule, regulation, or order described in paragraph (1) which is substantive and of general applicability shall be given by publication of such proposed rule, regulation, or order in the Federal Register. In each case, a minimum of 30 days following the date of such publication and prior to the effective date of the rule shall be provided for opportunity to comment; except that the 30-day period for opportunity to comment prior to the effective date of the rule may be—
 
@@ -22,7 +22,7 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(4), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsec. (a)(4), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classificationof this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 The Economic Stabilization Act of 1970, referred to in subsec. (b), is title II of Pub. L. 91–379, Aug. 15, 1970, 84 Stat. 799, as amended, formerly set out as an Economic Stabilization Provisions note under section 1904 of Title 12, Banks and Banking.
 

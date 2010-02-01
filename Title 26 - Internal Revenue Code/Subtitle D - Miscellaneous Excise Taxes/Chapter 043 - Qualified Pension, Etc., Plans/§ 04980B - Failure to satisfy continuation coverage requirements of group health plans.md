@@ -186,11 +186,21 @@ This section shall not apply to—
 
 &emsp;&emsp;&emsp;&emsp;In the case of a qualifying event not described in paragraph (3)(B) or (3)(F), the date which is 36 months after the date of the qualifying event.
 
-#### (V) Medicare entitlement followed by qualifying event
+#### (V) Special rule for PBGC recipients
+
+&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) with respect to a covered employee who (as of such qualifying event) has a nonforfeitable right to a benefit any portion of which is to be paid by the Pension Benefit Guaranty Corporation under title IV of the Employee Retirement Income Security Act of 1974, notwithstanding subclause (I) or (II), the date of the death of the covered employee, or in the case of the surviving spouse or dependent children of the covered employee, 24 months after the date of the death of the covered employee. The preceding sentence shall not require any period of coverage to extend beyond December 31, 2010.
+
+#### (VI) Special rule for TAA-eligible individuals
+
+&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) with respect to a covered employee who is (as of the date that the period of coverage would, but for this subclause or subclause (VII), otherwise terminate under subclause (I) or (II)) a TAA-eligible individual (as defined in paragraph (5)(C)(iv)(II)), the period of coverage shall not terminate by reason of subclause (I) or (II), as the case may be, before the later of the date specified in such subclause or the date on which such individual ceases to be such a TAA-eligible individual. The preceding sentence shall not require any period of coverage to extend beyond December 31, 2010.
+
+#### (VII) Medicare entitlement followed by qualifying event
 
 &emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) that occurs less than 18 months after the date the covered employee became entitled to benefits under title XVIII of the Social Security Act, the period of coverage for qualified beneficiaries other than the covered employee shall not terminate under this clause before the close of the 36-month period beginning on the date the covered employee became so entitled.
 
-&emsp;&emsp;&nbsp;In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at any time during the first 60 days of continuation coverage under this section, any reference in subclause (I) or (II) to 18 months is deemed a reference to 29 months (with respect to all qualified beneficiaries), but only if the qualified beneficiary has provided notice of such determination under paragraph (6)(C) before the end of such 18 months.
+#### (VIII) Special rule for disability
+
+&emsp;&emsp;&emsp;&emsp;In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at any time during the first 60 days of continuation coverage under this section, any reference in subclause (I) or (II) to 18 months is deemed a reference to 29 months (with respect to all qualified beneficiaries), but only if the qualified beneficiary has provided notice of suchdetermination under paragraph (6)(C) before the end of such 18 months.
 
 #### (ii) End of plan
 
@@ -206,7 +216,7 @@ This section shall not apply to—
 
 &emsp;&emsp;&emsp;&emsp;(I) covered under any other group health plan (as an employee or otherwise) which does not contain any exclusion or limitation with respect to any preexisting condition of such beneficiary (other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of this title, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, or title XXVII of the Public Health Service Act), or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a qualified beneficiary other than a qualified beneficiarydescribed in subsection (g)(1)(D) entitled to benefits under title XVIII of the Social Security Act.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a qualified beneficiary other than a qualified beneficiary described in subsection (g)(1)(D) entitled to benefits under title XVIII of the Social Security Act.
 
 #### (v) Termination of extended coverage for disability
 
@@ -278,7 +288,7 @@ This section shall not apply to—
 
 #### (iii) Clause (ii) not to apply where significant change
 
-&emsp;&emsp;&emsp;A plan administrator may not elect to have clause (ii) apply in any case in which there is any significant difference between the determination period and the preceding determination period, in coverage under, or in employees covered by, the plan. The determination under the preceding sentence for any determination periodshall be made at the same time as the determination under subparagraph (C).
+&emsp;&emsp;&emsp;A plan administrator may not elect to have clause (ii) apply in any case in which there is any significant difference between the determination period and the preceding determination period, in coverage under, or in employees covered by, the plan. The determination under the preceding sentence for any determination period shall be made at the same time as the determination under subparagraph (C).
 
 #### (C) Determination period
 
@@ -354,7 +364,7 @@ This section shall not apply to—
 
 &emsp;&emsp;(B) The employer of an employee under a plan must notify the plan administrator of a qualifying event described in subparagraph (A), (B), (D), or (F) of paragraph (3) with respect to such employee within 30 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date of the qualifying event.
 
-&emsp;&emsp;(C) Each covered employee or qualified beneficiary is responsible for notifying the plan administrator of the occurrence of any qualifying event described in subparagraph (C) or (E) of paragraph (3) within 60 days after the date of the qualifying event and each qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at any time during the first 60 days of continuation coverage under this section is responsible for notifying the plan administrator of such determination within 60 days after the date of the determination and for notifying the plan administrator within 30 days of the date of any final determination under such title ortitles that the qualified beneficiary is no longer disabled.
+&emsp;&emsp;(C) Each covered employee or qualified beneficiary is responsible for notifying the plan administrator of the occurrence of any qualifying event described in subparagraph (C) or (E) of paragraph (3) within 60 days after the date of the qualifying event and each qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at any time during the first 60 days of continuation coverage under this section is responsible for notifying the plan administrator of such determination within 60 days after the date of the determination and for notifying the plan administrator within 30 days of the date of any final determination under such title or titles that the qualified beneficiary is no longer disabled.
 
 &emsp;&emsp;(D) The plan administrator shall notify—
 
@@ -430,19 +440,27 @@ For purposes of this section—
 
 > &emsp;For purposes of applying subparagraph (B), the qualified beneficiary shall be treated as if he had elected the most favorable coverage in light of the expenses he incurred since the failure first occurred.
 
-(Added Pub. L. 100–647, title III, §3011(a), Nov. 10, 1988, 102 Stat. 3616; amended Pub. L. 101–239, title VI, §§6202(b)(3)(B), 6701(a)–(c), title VII, §§7862(c)(2)(B), (3)(C), (4)(B), (5)(A), 7891(d)(1)(B), (2)(A), Dec. 19, 1989, 103 Stat. 2233, 2294, 2295, 2432, 2433, 2446; Pub. L. 101–508, title XI, §11702(f), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 103–66, title XIII, §13422(a), Aug. 10, 1993, 107 Stat. 566; Pub. L. 104–188, title I, §1704(g)(1)(A), (t)(21), Aug. 20, 1996, 110 Stat. 1880, 1888; Pub. L. 104–191, title III, §321(d)(1), title IV, §421(c), Aug. 21, 1996, 110 Stat. 2058, 2088; Pub. L. 107–210, div. A, title II, §203(e)(3), Aug. 6, 2002, 116 Stat. 971.)
+(Added Pub. L. 100–647, title III, §3011(a), Nov. 10, 1988, 102 Stat. 3616; amended Pub. L. 101–239, title VI, §§6202(b)(3)(B), 6701(a)–(c), title VII, §§7862(c)(2)(B), (3)(C), (4)(B), (5)(A), 7891(d)(1)(B), (2)(A), Dec. 19, 1989, 103 Stat. 2233, 2294, 2295, 2432, 2433, 2446; Pub. L. 101–508, title XI, §11702(f), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 103–66, title XIII, §13422(a), Aug. 10, 1993, 107 Stat. 566; Pub. L. 104–188, title I, §1704(g)(1)(A), (t)(21), Aug. 20, 1996, 110 Stat. 1880, 1888; Pub. L. 104–191, title III, §321(d)(1), title IV, §421(c), Aug. 21, 1996, 110 Stat. 2058, 2088; Pub. L. 107–210, div. A, title II, §203(e)(3), Aug. 6, 2002, 116 Stat. 971; Pub. L. 111–5, div. B, title I, §1899F(b), Feb. 17, 2009, 123 Stat. 429.)
 
 #### References in Text
 
 The Public Health Service Act, referred to in subsec. (f)(1), does not contain a section 2162. The reference probably should be to section 1928 of the Social Security Act, which is classified to section 1396s of Title 42, The Public Health and Welfare, and which relates to pediatric vaccines.
 
-The Social Security Act, referred to in subsec. (f)(2)(B)(i)(IV), (V), (iv)(II), (v), (3)(D), (6)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(2)(B)(i)(IV), (VII), (VIII), (iv)(II), (v), (3)(D), (6)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (f)(2)(B)(iv)(I), (5)(C)(iii), and (g)(3), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. Sections 3(16)(A) and 701(c)(2) of the Act are classified to sections 1002(16)(A) and 1181(c)(2), respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (f)(2)(B)(i)(V), (iv)(I), (5)(C)(iii), and (g)(3), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. Sections 3(16)(A) and 701(c)(2) of the Act are classified to sections 1002(16)(A) and 1181(c)(2), respectively, of Title 29. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-The Public Health Service Act, referred to in subsec. (f)(2)(B)(iv)(I), (5)(C)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of Title 42, The Public Health and Welfare. Section 2701(c)(2) of the Act is classified to section 300gg(c)(2) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (f)(2)(B)(iv)(I), (5)(C)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of Title 42, The Public Health and Welfare. Section 2701(c)(2) of the Act is classified to section 300gg(c)(2) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
+
+2009—Subsec. (f)(2)(B)(i)(V). Pub. L. 111–5, §1899F(b)(2), added subcl. (V). Former subcl. (V) redesignated (VII).
+
+Subsec. (f)(2)(B)(i)(VI). Pub. L. 111–5, §1899F(b)(2), added subcl. (VI). Former subcl. (VI) redesignated (VIII).
+
+Pub. L. 111–5, §1899F(b)(1), designated concluding provisions as subcl. (VI) and inserted heading.
+
+Subsec. (f)(2)(B)(i)(VII), (VIII). Pub. L. 111–5, §1899F(b)(2), designated subcls. (V) and (VI) as (VII) and (VIII), respectively.
 
 2002—Subsec. (f)(5)(C). Pub. L. 107–210 added subpar. (C).
 
@@ -491,6 +509,12 @@ Subsec. (f)(7). Pub. L. 101–239, §7862(c)(2)(B), substituted “the performan
 Subsec. (f)(8). Pub. L. 101–239, §7891(d)(2)(A), added par. (8).
 
 Subsec. (g)(2). Pub. L. 101–239, §6202(b)(3)(B), substituted “section 5000(b)(1)” for “section 162(i)”.
+
+#### Effective Date of 2009 Amendment
+
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
+
+Pub. L. 111–5, div. B, title I, §1899F(d), Feb. 17, 2009, 123 Stat. 430, provided that: “The amendments made by this section \[amending this section, section 1162 of Title 29, Labor, and section 300bb–2 of Title 42, The Public Health and Welfare\] shall apply to periods of coverage which would (without regard to the amendments made by this section) end on or after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
 #### Effective Date of 2002 Amendment
 

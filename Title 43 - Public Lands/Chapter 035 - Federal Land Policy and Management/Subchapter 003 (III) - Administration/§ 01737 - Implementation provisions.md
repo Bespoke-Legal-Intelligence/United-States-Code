@@ -32,7 +32,7 @@ Volunteers shall not be deemed employees of the United States except for the pur
 
 &emsp;(2) subchapter 1 <sup>1</sup> of chapter 81 of title 5; and
 
-&emsp;(3) claims relating to damage to, or loss of, personal property of a volunteer incident to volunteer service, in which case the provisions of section 3721 of title 31 shall apply.
+&emsp;(3) claims relating to damage to, or loss of, personal property of a volunteer incident tovolunteer service, in which case the provisions of section 3721 of title 31 shall apply.
 
 #### (g) Authorization of appropriations
 

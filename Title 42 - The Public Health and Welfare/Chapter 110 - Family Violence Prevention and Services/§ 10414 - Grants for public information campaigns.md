@@ -16,7 +16,7 @@ An application submitted under subsection (b) of this section shall—
 
 &emsp;(2) include a complete description of the plan of the application for the development of a public information campaign;
 
-&emsp;(3) identify the specific audiences that will be educated, including communities and groups with the highest prevalence of domestic violence;
+&emsp;(3) identify the specific audiences that will be educated, including communities andgroups with the highest prevalence of domestic violence;
 
 &emsp;(4) identify the media to be used in the campaign and the geographic distribution of the campaign;
 

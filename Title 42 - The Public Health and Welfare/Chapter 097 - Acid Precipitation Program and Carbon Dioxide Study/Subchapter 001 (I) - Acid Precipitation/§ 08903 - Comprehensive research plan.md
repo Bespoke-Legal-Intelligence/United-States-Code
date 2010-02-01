@@ -24,7 +24,7 @@ The comprehensive plan shall include programs for—
 
 &emsp;(8) establishing and carrying out system studies with respect to plant physiology, aquatic ecosystems, soil chemistry systems, soil microbial systems, and forest ecosystems;
 
-&emsp;(9) economic assessments of (A) the environmental impacts caused by acid precipitation on crops, forests, fisheries, and recreationaland aesthetic resources and structures, and (B) alternative technologies to remedy or otherwise ameliorate the harmful effects which may result from acid precipitation;
+&emsp;(9) economic assessments of (A) the environmental impacts caused by acid precipitation on crops, forests, fisheries, and recreational and aesthetic resources and structures, and (B) alternative technologies to remedy or otherwise ameliorate the harmful effects which may result from acid precipitation;
 
 &emsp;(10) documenting all current Federal activities related to research on acid precipitation and ensuring that such activities are coordinated in ways that prevent needless duplication and waste of financial and technical resources;
 
@@ -54,7 +54,7 @@ The Task Force shall convene as necessary, but no less than twice during each fi
 
 #### (e) Submission of annual report to President and Congress by Task Force
 
-The Task Force shall submit to the President and the Congress by January 15 of each year an annual report which shall detail the progress of the research program under this subchapter and which shall contain such recommendations as are developed under subsection (b)(14) of this section.
+The Task Force shall submit to the President and the Congress by January 15 of each year an annual report which shall detail the progress of the research program under this subchapter and which shall contain such recommendations asare developed under subsection (b)(14) of this section.
 
 #### (f) Applicability of other statutory provisions to Task Force or plan
 

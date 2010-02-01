@@ -90,7 +90,7 @@ Evaluation of Cargo Inspection Targeting System for International Intermodal Car
 
 &emsp;“(1) the effectiveness of the current tracking system to determine whether it is adequate to prevent international intermodal containers from being used for purposes of terrorism;
 
-&emsp;“(2) the sources of information, and the quality of the information at the time of reporting, used by the system to determine whether targeting information is collected from the best and most credible sources and evaluate data sources to determine information gaps and weaknesses;
+&emsp;“(2) the sources of information, and the quality of the information at the time of reporting, used by thesystem to determine whether targeting information is collected from the best and most credible sources and evaluate data sources to determine information gaps and weaknesses;
 
 &emsp;“(3) the targeting system for reporting and analyzing inspection statistics, as well as testing effectiveness;
 
@@ -164,7 +164,7 @@ Pub. L. 107–295, title I, §101, Nov. 25, 2002, 116 Stat. 2066, provided that:
 
 &emsp;“(14) On April 27, 1999, the President established the Interagency Commission on Crime and Security in United States Ports to undertake a comprehensive study of the nature and extent of the problem of crime in our ports, as well as the ways in which governments at all levels are responding. The Commission concluded that frequent crimes in ports include drug smuggling, illegal car exports, fraud, and cargo theft. Internal conspiracies are an issue at many ports and contribute to Federal crime. Criminal organizations are exploiting weak security at ports to commit a wide range of cargo crimes. Intelligence and information sharing among law enforcement agencies needs to be improved and coordinated at many ports. A lack of minimum physical and personnel security standards at ports and related facilities leaves many ports and port users very vulnerable. Access to ports and operations within ports is often uncontrolled. Security-related and detection-related equipment, such as small boats, cameras, large-scale x-ray machines, and vessel tracking devices, are lacking at many ports.
 
-&emsp;“(15) The International Maritime Organization and other similar international organizations are currently developing a new maritime security system that contains the essential elements for enhancing global maritime security. Therefore, it is in the best interests of the United States to implement new international instruments that establish such a system.”
+&emsp;“(15) The International Maritime Organization and other similar international organizations are currently developing a new maritime security system that contains the essential elements for enhancingglobal maritime security. Therefore, it is in the best interests of the United States to implement new international instruments that establish such a system.”
 
 #### Maritime Security Professional Training
 
@@ -176,7 +176,7 @@ In General.—
 
 &emsp;“(1)
 
-Development of standards.—Not later than 6 months after the date of enactment of this Act \[Nov. 25, 2002\], the Secretary of Transportation shall develop standards and curriculum to allow for the training and certification of maritime security professionals. In developing these standards and curriculum, the Secretary shall consult with the National Maritime Security Advisory Committee establishedunder section 70112 of title 46, United States Code, as amended by this Act.
+Development of standards.—Not later than 6 months after the date of enactment of this Act \[Nov. 25, 2002\], the Secretary of Transportation shall develop standards and curriculum to allow for the training and certification of maritime security professionals. In developing these standards and curriculum, the Secretary shall consult with the National Maritime Security Advisory Committee established under section 70112 of title 46, United States Code, as amended by this Act.
 
 &emsp;“(2)
 

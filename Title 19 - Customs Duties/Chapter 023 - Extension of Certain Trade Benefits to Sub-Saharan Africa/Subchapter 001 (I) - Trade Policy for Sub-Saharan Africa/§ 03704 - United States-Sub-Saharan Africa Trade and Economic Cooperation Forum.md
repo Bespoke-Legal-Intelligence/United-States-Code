@@ -22,7 +22,7 @@ In creating the Forum, the President shall meet the following requirements:
 
 #### (d) Dissemination of information by USIS
 
-In order to assist in carrying out the purposes of the Forum, the United States Information Service shall disseminate regularly, through multiple media, economic information in support of the free market economic reforms described in this chapter.
+In order to assist in carrying out the purposes of the Forum, the United States Information Service shall disseminate regularly, throughmultiple media, economic information in support of the free market economic reforms described in this chapter.
 
 #### (e) HIV/AIDS effect on the sub-Saharan African workforce
 

@@ -76,7 +76,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1976 Amendment
 
-Section 2(b) of Pub. L. 94–225 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall apply with respect tounfitness determinations made on or after the date of the enactment of this Act \[Mar. 4, 1976\] by the Secretaries of the military departments concerned for purposes of sections 1201, 1202, and 1203 of title 10, United States Code.”
+Section 2(b) of Pub. L. 94–225 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall apply with respect to unfitness determinations made on or after the date of the enactment of this Act \[Mar. 4, 1976\] by the Secretaries of the military departments concerned for purposes of sections 1201, 1202, and 1203 of title 10, United States Code.”
 
 #### Ex. Ord. No. 10122. Regulations Governing Disability Pay, Hospitalization and Reexamination
 

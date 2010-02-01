@@ -12,7 +12,7 @@ For purposes of this subtitle, the term “adjusted gross income” means, in th
 
 #### (A) Reimbursed expenses of employees
 
-&emsp;&emsp;The deductions allowed by part VI (section 161 and following) which consist of expenses paid or incurred by the taxpayer, in connection with the performance by him of services as an employee, under a reimbursement or other expense allowance arrangement with his employer. The fact that the reimbursement may be provided by a third party shall not be determinative of whether or not the preceding sentence applies.
+&emsp;&emsp;The deductions allowed by part VI (section 161 and following) which consist of expensespaid or incurred by the taxpayer, in connection with the performance by him of services as an employee, under a reimbursement or other expense allowance arrangement with his employer. The fact that the reimbursement may be provided by a third party shall not be determinative of whether or not the preceding sentence applies.
 
 #### (B) Certain expenses of performing artists
 
@@ -24,7 +24,7 @@ For purposes of this subtitle, the term “adjusted gross income” means, in th
 
 #### (D) Certain expenses of elementary and secondary school teachers
 
-&emsp;&emsp;In the case of taxable years beginning during 2002, 2003, 2004, 2005, 2006, 2007, 2008, or2009, the deductions allowed by section 162 which consist of expenses, not in excess of $250, paid or incurred by an eligible educator in connection with books, supplies (other than nonathletic supplies for courses of instruction in health or physical education), computer equipment (including related software and services) and other equipment, and supplementary materials used by the eligible educator in the classroom.
+&emsp;&emsp;In the case of taxable years beginning during 2002, 2003, 2004, 2005, 2006, 2007, 2008, or 2009, the deductions allowed by section 162 which consist of expenses, not in excess of $250, paid or incurred by an eligible educator in connection with books, supplies (other than nonathletic supplies for courses of instruction in health or physical education), computer equipment (including related software and services) and other equipment, and supplementary materials used by the eligible educator in the classroom.
 
 #### (E) Certain expenses of members of reserve components of the Armed Forces of the United States
 
@@ -102,7 +102,7 @@ For purposes of this subtitle, the term “adjusted gross income” means, in th
 
 #### (21) Attorneys fees relating to awards to whistleblowers
 
-&emsp;Any deduction allowable under this chapter for attorney fees and court costs paid by, or onbehalf of, the taxpayer in connection with any award under section 7623(b) (relating to awards to whistleblowers). The preceding sentence shall not apply to any deduction in excess of the amount includible in the taxpayer's gross income for the taxable year on account of such award.
+&emsp;Any deduction allowable under this chapter for attorney fees and court costs paid by, or on behalf of, the taxpayer in connection with any award under section 7623(b) (relating to awards to whistleblowers). The preceding sentence shall not apply to any deduction in excess of the amount includible in the taxpayer's gross income for the taxable year on account of such award.
 
 > Nothing in this section shall permit the same item to be deducted more than once.
 
@@ -230,7 +230,7 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (e)(4), is act June
 
 The Education Amendments of 1972, referred to in subsec. (e)(8), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
-The Employee Polygraph Protection Act of 1988, referred to in subsec. (e)(9), is Pub. L. 100–347, June 27, 1988, 102 Stat. 646, as amended, which is classified generally to chapter 22 (§2001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 29 and Tables.
+The Employee Polygraph Protection Act of 1988, referred to in subsec. (e)(9), is Pub. L. 100–347, June 27, 1988, 102 Stat. 646, as amended, which is classified generally to chapter 22 (§2001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, seeShort Title note set out under section 2001 of Title 29 and Tables.
 
 The Worker Adjustment and Retraining Notification Act, referred to in subsec. (e)(10), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, as amended, which is classified generally to chapter 23 (§2101 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 29 and Tables.
 
@@ -364,7 +364,7 @@ Pub. L. 108–311, title III, §307(b), Oct. 4, 2004, 118 Stat. 1179, provided t
 
 Pub. L. 108–173, title XII, §1201(k), Dec. 8, 2003, 117 Stat. 2479, provided that: “The amendments made by this section \[enacting sections 223 and 4980G of this title, amending this section and sections 106, 125, 220, 848, 3231, 3306, 3401, 4973, 4975, 6051, and 6693 of this title, and renumbering former section 223 of this title as 224\] shall apply to taxable years beginning after December 31, 2003.”
 
-Pub. L. 108–121, title I, §109(c), Nov. 11, 2003, 117 Stat. 1342, provided that: “The amendments made by this section \[amending this section and section 162 of thistitle\] shall apply to amounts paid or incurred in taxable years beginning after December 31, 2002.”
+Pub. L. 108–121, title I, §109(c), Nov. 11, 2003, 117 Stat. 1342, provided that: “The amendments made by this section \[amending this section and section 162 of this title\] shall apply to amounts paid or incurred in taxable years beginning after December 31, 2002.”
 
 #### Effective Date of 2002 Amendment
 
@@ -490,7 +490,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Pub. L. 95–427, §2, Oct. 7, 1978, 92 Stat. 996, as amended by Pub. L. 96–167, §2, Dec. 29, 1979, 93 Stat. 1275, provided that with respect to transportation costs paid or incurred after December 31, 1976, and on or before May 31, 1981, the application of sections 62, 162, and 262 and of chapters 21, 23, and 24 of the Internal Revenue Code of 1954 \[now 1986\] to transportation expenses in traveling between a taxpayer's residence and place of work be determined without regard to Revenue Ruling 76–453 or any other regulation, ruling, or decision reaching the same or similar result, and with full regard to the rules in effect before that Revenue Ruling.
 
-Pub. L. 95–615, §2, Nov. 8, 1978, 92 Stat. 3097, provided that with respect to transportation costs paid or incurred after Dec. 31, 1976, and before Apr. 30, 1978, the application of sections 62, 162, and 262 and chapters 21, 23, and 24 of the Internal Revenue Code of 1954 \[now 1986\] to transportation expenses in traveling between a taxpayer's residence and place of work be determined without regard to Revenue Ruling 76–453 or any other regulation, ruling or decision reaching the same or similar result, and with full regard to the rules in effect before that Revenue Ruling, and ceased to have effect on the day after Nov. 8, 1978 pursuant to section 210(a) of that Act.
+Pub. L. 95–615, §2, Nov. 8, 1978, 92 Stat. 3097, provided that with respect to transportation costs paid or incurred after Dec. 31, 1976, and before Apr. 30, 1978, the application of sections 62, 162, and 262 and chapters 21, 23, and 24 of the Internal Revenue Code of 1954 \[now 1986\] to transportation expenses in traveling between a taxpayer's residence and place of work be determinedwithout regard to Revenue Ruling 76–453 or any other regulation, ruling or decision reaching the same or similar result, and with full regard to the rules in effect before that Revenue Ruling, and ceased to have effect on the day after Nov. 8, 1978 pursuant to section 210(a) of that Act.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

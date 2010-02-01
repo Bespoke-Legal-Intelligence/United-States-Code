@@ -80,7 +80,7 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 #### Salary Increases
 
-1987—Salaries of judges increased to $89,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
+1987—Salaries of judges increased to $89,500 per annum, on recommendation of the President of theUnited States, see note set out under section 358 of Title 2, The Congress.
 
 1977—Salaries of judges increased to $54,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
 

@@ -1,6 +1,6 @@
 ### §1882. Information furnished to Congressional committees
 
-Notwithstanding any other provision of this or any other Act, the Director of the National Science Foundation and the National Science Board shall keep the Committee on Labor and Human Resources of the Senate and the Committee on Science, Space, and Technology of theHouse of Representatives fully and currently informed with respect to all of the activities of the National Science Foundation.
+Notwithstanding any other provision of this or any other Act, the Director of the National Science Foundation and the National Science Board shall keep the Committee on Labor and Human Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives fully and currently informed with respect to all of the activities of the National Science Foundation.
 
 (Pub. L. 96–44, §9, Aug. 2, 1979, 93 Stat. 335; Pub. L. 99–159, title I, §109(i), Nov. 22, 1985, 99 Stat. 890; Pub. L. 103–437, §15(c)(2), Nov. 2, 1994, 108 Stat. 4591.)
 

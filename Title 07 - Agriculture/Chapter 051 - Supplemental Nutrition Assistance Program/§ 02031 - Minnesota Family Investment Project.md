@@ -64,7 +64,7 @@ The application submitted by the State under subsection (a) of this section shal
 
 &emsp;&emsp;(D) each individual who contacts the State in person during office hours to make what may reasonably be interpreted as an oral or written request to receive financial assistance shall receive and shall be permitted to file an application form on the same day such contact is first made;
 
-&emsp;&emsp;(E) provision shall be made for telephone contact by, mail delivery of forms to and mail return of forms by, and subsequent home or telephone interview with, elderly individuals, physically or mentally handicapped individuals, and individuals otherwise unable to appear in person solely because of transportation difficulties and similar hardships;
+&emsp;&emsp;(E) provision shall be made for telephone contact by, mail delivery of forms to and mail return of forms by, and subsequent home or telephone interview with, elderlyindividuals, physically or mentally handicapped individuals, and individuals otherwise unable to appear in person solely because of transportation difficulties and similar hardships;
 
 &emsp;&emsp;(F) a family may be represented by another person if the other person has clearly been designated as the representative of such family for that purpose and the representative is an adult who is sufficiently aware of relevant circumstances, except that the State may—
 
@@ -86,7 +86,7 @@ The application submitted by the State under subsection (a) of this section shal
 
 &emsp;(10)(A) The State shall provide each family or family member whose participation in the Project ends and each family whose participation is terminated with notice of the existence of the supplemental nutrition assistance program and the person or agency to contact for more information.
 
-&emsp;(B)(i) Following the standards specified in subparagraph (C), the State shall ensure that benefits under the supplemental nutrition assistance program are provided to participating families in case the Project is terminated or to participating families or family members that are determined ineligible for the Project because of income, resources, or change in household composition, if such families or individuals are determined eligible for the supplemental nutrition assistance program. Foodbenefits shall be issued to eligible families and individuals described in this clause retroactive to the date of termination from the Project; and
+&emsp;(B)(i) Following the standards specified in subparagraph (C), the State shall ensure that benefits under the supplemental nutrition assistance program are provided to participating families in case the Project is terminated or to participating families or family members that are determined ineligible for the Project because of income, resources, or change in household composition, if such families or individuals are determined eligible for the supplemental nutrition assistance program. Food benefits shall be issued to eligible families and individuals described in this clause retroactive to the date of termination from the Project; and
 
 &emsp;(ii) If sections 256.031 through 256.036 of the Minnesota Statutes, 1989 Supplement, or Minnesota Laws 1989, chapter 282, article 5, section 130, are amended to reduce or eliminate benefits provided under those sections or restrict the rights of Project applicants or participating families, the State shall exclude from the Project applicants or participating families or individuals affected by such amendments and follow the standards specified in subparagraph (C), except that the State shall continue to pay from State funds an amount equal to the food assistance portion to such families and individuals until the State determines eligibility or ineligibility for the supplemental nutrition assistance program or the family or individual has failed to supply the needed additional information within ten days. Food benefits shall be provided to families and individuals excluded from the Project under this clause who are determined eligible for the supplemental nutrition assistance program retroactive to the date of the determination of eligibility. The Secretary shall pay to the State the value of the benefits for which such families and individuals would have been eligible in the absence of food assistance payments under this clause from the date of termination from the Project to the date benefits are provided.
 
@@ -94,7 +94,7 @@ The application submitted by the State under subsection (a) of this section shal
 
 &emsp;(11) Section 2020(e)(10) of this title shall apply with respect to applicant and participating families in the same manner as such paragraph applies with respect to applicants and participants in the supplemental nutrition assistance program, except that families shall be given notice of any action for which a hearing is available in a manner consistent with the notice requirements of the regulations implementing sections 402(a)(4) and 482(h) <sup>1</sup> of the Social Security Act \[42 U.S.C. 602(a)(4)\].
 
-&emsp;(12) For each fiscal year, the Secretary shall not be liable for any costs related to carrying out the Project in excess of those that the Secretary would have been liable for had the Project not been implemented, except for costs for evaluating the Project, but shall adjust for the full amount of the federal share of increases or decreases in costs that result from changes in economic, demographic, and other conditions in the State based on data specific to the State, changes in eligibility or benefit levels authorized by this chapter, or changes in amounts of Federal funds available to States and localities under the supplemental nutrition assistance program.
+&emsp;(12) For each fiscal year, the Secretary shall not be liable for any costs related to carrying out the Project in excess of those that theSecretary would have been liable for had the Project not been implemented, except for costs for evaluating the Project, but shall adjust for the full amount of the federal share of increases or decreases in costs that result from changes in economic, demographic, and other conditions in the State based on data specific to the State, changes in eligibility or benefit levels authorized by this chapter, or changes in amounts of Federal funds available to States and localities under the supplemental nutrition assistance program.
 
 &emsp;(13) The State shall carry out the supplemental nutrition assistance program throughout the State while the State carries out the Project.
 
@@ -204,7 +204,7 @@ For purposes of this section, the following definitions apply:
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (a), (b)(2), (3)(A), (B)(ii), (iii), (C)(ii), (iii), (5), (7), and (g)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Part F of title IV of the Act was classified generally to part F (§681 et seq.) of subchapter IV of chapter 7 of Title 42, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a), (b)(2), (3)(A), (B)(ii), (iii), (C)(ii), (iii), (5), (7), and (g)(1),is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Part F of title IV of the Act was classified generally to part F (§681 et seq.) of subchapter IV of chapter 7 of Title 42, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 482 of the Social Security Act, referred to in subsec. (b)(11), was classified to section 682 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
 
@@ -222,7 +222,9 @@ Subsec. (b)(3)(D). Pub. L. 110–246, §4115(b)(15)(B), substituted “benefits�
 
 Subsec. (b)(9). Pub. L. 110–246, §4115(b)(15)(B), substituted “benefits” for “coupons”.
 
-Subsec. (b)(10)(B). Pub. L. 110–246, §4115(b)(15)(A), (B), in cl. (i), substituted “benefits” for “coupons” and, in cl. (ii), substituted “Food benefits” for “Food coupons”, “value of the benefits” for “value of the food coupons”, and “the date benefits” for “the date food coupons”.
+Subsec. (b)(10)(B)(i). Pub. L. 110–246, §4115(b)(15)(B), substituted “benefits shall be issued” for “coupons shall be issued”.
+
+Subsec. (b)(10)(B)(ii). Pub. L. 110–246, §4115(b)(15)(A), (B), substituted “benefits shall be provided” for “coupons shall be provided”, “value of the benefits” for “value of the food coupons”, and “the date benefits” for “the date food coupons”.
 
 Subsec. (b)(12). Pub. L. 110–246, §4002(a)(11)(B), made technical amendment to reference in original Act which appears in text as reference to this chapter.
 

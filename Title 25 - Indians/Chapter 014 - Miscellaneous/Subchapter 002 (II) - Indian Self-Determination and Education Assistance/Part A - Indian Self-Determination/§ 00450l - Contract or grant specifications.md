@@ -72,7 +72,7 @@ Quarterly, semiannual, lump-sum, and other methods of payment.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—Pursuant to section 108(b) of the Indian Self-Determination and Education Assistance Act, and notwithstanding any other provision of law, for each fiscal year covered by this Contract, the Secretary shall make available to the Contractor the funds specified for the fiscal year under the annual funding agreement incorporated by reference pursuant to subsection (f)(2) by paying to the Contractor, on a quarterly basis, one-quarter of the total amount provided for in the annual funding agreement for that fiscal year, in a lump-sum payment or as semiannual payments, or any other method of payment authorized by law, in accordance with such method as may be requested by the Contractor and specified in the annual funding agreement.
+In general.—Pursuant to section 108(b) of the Indian Self-Determination and Education Assistance Act, and notwithstanding any other provision of law, for each fiscal year covered by this Contract, the Secretary shall make available to the Contractor the funds specified for the fiscal year under the annual fundingagreement incorporated by reference pursuant to subsection (f)(2) by paying to the Contractor, on a quarterly basis, one-quarter of the total amount provided for in the annual funding agreement for that fiscal year, in a lump-sum payment or as semiannual payments, or any other method of payment authorized by law, in accordance with such method as may be requested by the Contractor and specified in the annual funding agreement.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -192,7 +192,7 @@ Successor annual funding agreement.—
 
 &emsp;&emsp;“(A)
 
-In general.—Negotiations for a successor annual funding agreement, providedfor in subsection (f)(2), shall begin not later than 120 days prior to the conclusion of the preceding annual funding agreement. Except as provided in section 105(c)(2) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450j(c)(2)) the funding for each such successor annual funding agreement shall only be reduced pursuant to section 106(b) of such Act (25 U.S.C. 450j–1(b)).
+In general.—Negotiations for a successor annual funding agreement, provided for in subsection (f)(2), shall begin not later than 120 days prior to the conclusion of the preceding annual funding agreement. Except as provided in section 105(c)(2) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450j(c)(2)) the funding for each such successor annual funding agreement shall only be reduced pursuant to section 106(b) of such Act (25 U.S.C. 450j–1(b)).
 
 &emsp;&emsp;“(B)
 
@@ -240,7 +240,7 @@ Trust services for individual indians.—
 
 &emsp;&emsp;“(A)
 
-In general.—To the extent that the annual funding agreement provides funding for the delivery of trust services to individual Indians that have been provided by the Secretary, the Contractor shall maintain at least the same level of service as the Secretary provided for such individual Indians, subject to the availability of appropriated funds for such services.
+In general.—To the extent that the annual funding agreement provides funding for the delivery of trust services to individual Indians that have been provided by the Secretary, the Contractor shall maintain at least the same level of service as the Secretary provided for such individual Indians,subject to the availability of appropriated funds for such services.
 
 &emsp;&emsp;“(B)
 
@@ -292,7 +292,7 @@ In general.—Except as provided in subparagraph (B), no modification to this Co
 
 &emsp;&emsp;“(B)
 
-Exception.—The addition of supplemental funds for programs, functions, and activities (or portions thereof) already included in the annual funding agreement under subsection (f)(2), and the reduction offunds pursuant to section 106(b)(2), shall not be subject to subparagraph (A).
+Exception.—The addition of supplemental funds for programs, functions, and activities (or portions thereof) already included in the annual funding agreement under subsection (f)(2), and the reduction of funds pursuant to section 106(b)(2), shall not be subject to subparagraph (A).
 
 &emsp;“(3)
 
@@ -332,7 +332,7 @@ Incorporation by reference.—The annual funding agreement is hereby incorporate
 
 The Indian Self-Determination and Education Assistance Act, referred to in section 1(a), (b)(6)(B)(i), (11) of the provisions of subsec. (c) setting out the model agreement, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to this subchapter (§450 et seq.). Title I of the Act is classified principally to this part (§450f et seq.). Section 102(a) of the Act is classified to section 450f(a) of this title. Section 108(b) of the Act is classified to subsec. (b) of this section. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
-The Indian Civil Rights Act of 1968, referred to in section 1(b)(13) of the provisions of subsec. (c) setting out the model agreement, is title II of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 77, as amended, which is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Tables.
+The Indian Civil Rights Act of 1968, referred to in section 1(b)(13) of the provisions of subsec. (c) setting out the model agreement, is title II of Pub. L. 90–284, Apr.11, 1968, 82 Stat. 77, as amended, which is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Act of July 3, 1952, referred to in section 1(b)(15)(A) of the provisions of subsec. (c) setting out the model agreement, is act July 3, 1952, ch. 549, 66 Stat. 323, which enacted section 82a of this title and provisions set out as a note under section 82a of this title.
 

@@ -22,7 +22,7 @@ The Commission—
 
 &emsp;(2) shall require IP-enabled voice service providers to which the regulations apply to register with the Commission and to establish a point of contact for public safety and government officials relative to 9–1–1 and enhanced 9–1–1 service and access; and
 
-&emsp;(3) may modify such regulations from time to time, as necessitated by changes in the market or technology, to ensure the ability of an IP-enabled voice service provider to comply with its obligations under subsection (a) and to exercise its rights under subsection (b).
+&emsp;(3) may modify such regulations from time to time, as necessitated by changes in the market or technology, to ensure the ability ofan IP-enabled voice service provider to comply with its obligations under subsection (a) and to exercise its rights under subsection (b).
 
 #### (d) Delegation of enforcement to State commissions
 
@@ -46,7 +46,7 @@ The Commission may delegate authority to enforce the regulations issued under su
 
 #### (2) Fee accountability report
 
-&emsp;To ensure efficiency, transparency, and accountability in the collection and expenditure of a fee or charge for the support or implementation of 9–1–1 or enhanced 9–1–1 services, the Commission shall submit a report within 1 year after the date of enactment of the Newand Emerging Technologies 911 Improvement Act of 2008, and annually thereafter, to the Committee on Commerce, Science and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives detailing the status in each State of the collection and distribution of such fees or charges, and including findings on the amount of revenues obligated or expended by each State or political subdivision thereof for any purpose other than the purpose for which any such fees or charges are specified.
+&emsp;To ensure efficiency, transparency, and accountability in the collection and expenditure of a fee or charge for the support or implementation of 9–1–1 or enhanced 9–1–1 services, the Commission shall submit a report within 1 year after the date of enactment of the New and Emerging Technologies 911 Improvement Act of 2008, and annually thereafter, to the Committee on Commerce, Science and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives detailing the status in each State of the collection and distribution of such fees or charges, and including findings on the amount of revenues obligated or expended by each State or political subdivision thereof for any purpose other than the purpose for which any such fees or charges are specified.
 
 #### (g) Availability of PSAP information
 

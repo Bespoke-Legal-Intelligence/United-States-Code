@@ -36,7 +36,7 @@ The Secretary shall suspend a moratorium established under this section if, afte
 
 #### (1) In general
 
-&emsp;Any person may at any time submit a petition in writing requesting that the Secretaryestablish or suspend a moratorium under this section. Such a petition shall include such substantial information as may be necessary to demonstrate the need for the action requested by the petition.
+&emsp;Any person may at any time submit a petition in writing requesting that the Secretary establish or suspend a moratorium under this section. Such a petition shall include such substantial information as may be necessary to demonstrate the need for the action requested by the petition.
 
 #### (2) Consideration and ruling
 

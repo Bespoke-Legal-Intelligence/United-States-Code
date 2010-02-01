@@ -14,7 +14,7 @@ Section 2812, Pub. L. 88–452, title II, §225, as added Pub. L. 90–222, titl
 
 Section 2813, Pub. L. 88–452, title II, §226, as added Pub. L. 92–424, §14, Sept. 19, 1972, 86 Stat. 693; amended Pub. L. 93–644, §5(d)(2), Jan. 4, 1975, 88 Stat. 2295, related to design and planning assistance programs.
 
-Section 2814, Pub. L. 88–452, title II, §227, as added Pub. L. 92–424, §14, Sept. 19, 1972, 86 Stat. 693; amended Pub. L. 94–341, §2(a)(12), July 6, 1976, 90 Stat. 804; Pub. L. 95–568, §17(a)(9), Nov. 2, 1978, 92 Stat. 2440, set forth provisions respecting national youth sports program.
+Section 2814, Pub. L. 88–452, title II, §227, as added Pub. L. 92–424, §14, Sept. 19, 1972, 86 Stat. 693; amendedPub. L. 94–341, §2(a)(12), July 6, 1976, 90 Stat. 804; Pub. L. 95–568, §17(a)(9), Nov. 2, 1978, 92 Stat. 2440, set forth provisions respecting national youth sports program.
 
 Section 2815, Pub. L. 88–452, title II, §228, as added Pub. L. 92–424, §14, Sept. 19, 1972, 86 Stat. 694; amended Pub. L. 93–644, §5(a)(2), Jan. 4, 1975, 88 Stat. 2295, related to consumer action and cooperative programs.
 

@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(B) the amount of indebtedness of the controlled foreign corporation to any related person (as so defined) as of the close of October 3, 2004.
 
-> &emsp;All controlled foreign corporations with respect to which the taxpayer is a United States shareholder shall be treated as 1 controlled foreign corporation for purposes of this paragraph. The Secretary may prescribe such regulations as may be necessary or appropriate to prevent the avoidance of the purposes of this paragraph, including regulations which provide that cash dividends shall not be taken into account under subsection (a) to the extent such dividends are attributable to the direct or indirect transfer (including through the use of intervening entities or capital contributions) of cash or other property from a related person (as so defined) to a controlled foreign corporation.
+> &emsp;All controlled foreign corporations with respect to which the taxpayer is a United Statesshareholder shall be treated as 1 controlled foreign corporation for purposes of this paragraph. The Secretary may prescribe such regulations as may be necessary or appropriate to prevent the avoidance of the purposes of this paragraph, including regulations which provide that cash dividends shall not be taken into account under subsection (a) to the extent such dividends are attributable to the direct or indirect transfer (including through the use of intervening entities or capital contributions) of cash or other property from a related person (as so defined) to a controlled foreign corporation.
 
 #### (4) Requirement to invest in United States
 
@@ -114,7 +114,7 @@ For purposes of this section—
 
 #### (ii) Spin-offs, etc.
 
-&emsp;&emsp;&emsp;If there is a distribution to which section 355 (or so much of section 356 as relates to section 355) applies during the 5-year period referred to in subparagraph (A)(i) andthe controlled corporation (within the meaning of section 355) is a United States shareholder—
+&emsp;&emsp;&emsp;If there is a distribution to which section 355 (or so much of section 356 as relates to section 355) applies during the 5-year period referred to in subparagraph (A)(i) and the controlled corporation (within the meaning of section 355) is a United States shareholder—
 
 &emsp;&emsp;&emsp;&emsp;(I) the controlled corporation shall be treated as being in existence during the period that the distributing corporation (within the meaning of section 355) is in existence, and
 
@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (3) Dividend
 
-&emsp;The term “dividend” shall not include amounts includible in gross income as a dividend under section 78, 367, or 1248. In the case of a liquidation under section 332 to which section 367(b) applies, the preceding sentence shall not apply to the extent the United States shareholder actually receives cash as part of the liquidation.
+&emsp;The term “dividend” shall not include amounts includible in gross income as a dividend under section 78, 367, or 1248. In the case of a liquidation under section 332 to which section 367(b) applies, the preceding sentenceshall not apply to the extent the United States shareholder actually receives cash as part of the liquidation.
 
 #### (4) Coordination with dividends received deduction
 
@@ -220,7 +220,7 @@ The date of the enactment of this section, referred to in subsec. (f), is the da
 
 Subsec. (b)(2)(A). Pub. L. 109–135, §403(q)(2), inserted “cash” before “dividends”.
 
-Subsec. (b)(3). Pub. L. 109–135, §403(q)(3), inserted at end “The Secretary may prescribe such regulations as may be necessary or appropriate to prevent the avoidance of the purposes of this paragraph, including regulations which provide that cash dividends shall not be taken into account under subsection (a) to the extent such dividends are attributable to the direct or indirect transfer (including through the use of intervening entities or capital contributions) of cash or other property from a related person (as so defined) to a controlled foreign corporation.”
+Subsec. (b)(3). Pub. L. 109–135, §403(q)(3), inserted at end “The Secretary may prescribe such regulations asmay be necessary or appropriate to prevent the avoidance of the purposes of this paragraph, including regulations which provide that cash dividends shall not be taken into account under subsection (a) to the extent such dividends are attributable to the direct or indirect transfer (including through the use of intervening entities or capital contributions) of cash or other property from a related person (as so defined) to a controlled foreign corporation.”
 
 Subsec. (c)(1). Pub. L. 109–135, §403(q)(4), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘applicable financial statement’ means, with respect to a United States shareholder, the most recently audited financial statement (including notes and other documents which accompany such statement) which includes such shareholder—
 

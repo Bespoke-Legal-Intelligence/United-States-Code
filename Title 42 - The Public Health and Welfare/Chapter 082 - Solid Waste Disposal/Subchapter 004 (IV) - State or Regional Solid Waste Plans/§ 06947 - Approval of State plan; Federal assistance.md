@@ -10,7 +10,7 @@ The Administrator shall, within six months after a State plan has been submitted
 
 &emsp;&emsp;(A) that revised regulations respecting minimum requirements have been promulgated under paragraphs (1), (2), (3), and (5) of section 6943(a) of this title with which the State plan is not in compliance;
 
-&emsp;&emsp;(B) that information has become available which demonstrates the inadequacy of theplan to effectuate the purposes of this subchapter; or
+&emsp;&emsp;(B) that information has become available which demonstrates the inadequacy of the plan to effectuate the purposes of this subchapter; or
 
 &emsp;&emsp;(C) that such revision is otherwise necessary.
 
@@ -38,5 +38,5 @@ Nothing in this subchapter shall be construed to prevent or affect any activitie
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator forAlaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 

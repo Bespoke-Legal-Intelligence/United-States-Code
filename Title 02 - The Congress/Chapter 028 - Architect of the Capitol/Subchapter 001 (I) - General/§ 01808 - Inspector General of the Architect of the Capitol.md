@@ -46,7 +46,7 @@ There is an Office of Inspector General within the Office of the Architect of th
 
 #### (1) In general
 
-&emsp;Sections 4, 5 (other than subsections (a)(13) and (e)(1)(B) thereof), 6 (other than subsection (a)(7) and (8) thereof), and 7 of the Inspector General Act of 1978 (5 U.S.C. App.) shall apply to the Inspector General of the Architect of the Capitol and the Office of such Inspector General and such sections shall be applied to the Office of the Architect of the Capitol and the Architect of the Capitol by substituting—
+&emsp;Sections 4, 5 (other than subsections (a)(13) and (e)(1)(B) thereof), 6 (other than subsection\(a)(7) and (8) thereof), and 7 of the Inspector General Act of 1978 (5 U.S.C. App.) shall apply to the Inspector General of the Architect of the Capitol and the Office of such Inspector General and such sections shall be applied to the Office of the Architect of the Capitol and the Architect of the Capitol by substituting—
 
 &emsp;&emsp;(A) “Office of the Architect of the Capitol” for “establishment”; and
 

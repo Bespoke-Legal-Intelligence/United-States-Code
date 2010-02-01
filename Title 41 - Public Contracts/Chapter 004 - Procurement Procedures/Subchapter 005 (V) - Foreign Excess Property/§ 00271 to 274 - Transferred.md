@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 271, act June 30, 1949, ch. 288, title IV, §401, 63 Stat. 397, which related to disposal of foreign excess property, was transferred to section 511 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as section 701(b)(1), (b)(2)(B), (c) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
+Section 271, act June 30, 1949, ch. 288, title IV, §401, 63 Stat. 397, which related to disposal of foreign excess property, was transferred to section 511 of former Title40, Public Buildings, Property, and Works, and was repealed and reenacted as section 701(b)(1), (b)(2)(B), (c) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
 
 Section 272, act June 30, 1949, ch. 288, title IV, §402, 63 Stat. 398, which related to methods and terms of disposal, was transferred to section 512 of former Title 40, and was repealed and reenacted as sections 702 to 704 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
 

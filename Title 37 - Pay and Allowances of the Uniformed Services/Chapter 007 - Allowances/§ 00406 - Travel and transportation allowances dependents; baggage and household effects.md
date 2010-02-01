@@ -1,6 +1,6 @@
 ### §406. Travel and transportation allowances: dependents; baggage and household effects
 
-(a)(1) Except as provided in paragraph (2), a member of a uniformed service who is ordered to make a change of permanent station is entitled to transportation in kind, reimbursement therefor, or a monetary allowance in place of the cost of transportation, plus a per diem, for the member's dependents at rates prescribed by the Secretaries concerned, but not more than the rate authorized under section 404(d) of this title. The Secretary concerned may also reimburse the member for mandatory pet quarantine fees for household pets, but not to exceed $550 per change of station, when the member incurs the fees incident to such change of station.
+(a)(1) Except as provided in paragraph (2), a member of a uniformed service who is ordered tomake a change of permanent station is entitled to transportation in kind, reimbursement therefor, or a monetary allowance in place of the cost of transportation, plus a per diem, for the member's dependents at rates prescribed by the Secretaries concerned, but not more than the rate authorized under section 404(d) of this title. The Secretary concerned may also reimburse the member for mandatory pet quarantine fees for household pets, but not to exceed $550 per change of station, when the member incurs the fees incident to such change of station.
 
 (2)(A) Except as provided in subparagraph (B), a member who—
 
@@ -89,7 +89,7 @@
 
 (2) The transportation and allowances authorized under paragraph (1) may be paid or provided to a member upon his separation from the service or release from active duty only if the member applies for the transportation and allowances not later than 180 days after the date of his separation or release from active duty. If a member to whom this paragraph applies has been authorized nontemporary storage under subsection (d), the 180-day period shall not begin until such authorization for nontemporary storage expires. This paragraph does not apply to a member to whom subsection (g)(1) applies.
 
-(c) The allowances and transportation authorized by subsections (a) and (b) are in addition to those authorized by sections 403(c), 404, and 405 of this title and are—
+(c) The allowances and transportation authorized by subsections (a) and (b) are in addition tothose authorized by sections 403(c), 404, and 405 of this title and are—
 
 &emsp;(1) subject to such conditions and limitations;
 
@@ -129,7 +129,7 @@
 
 > is, not later than one year from the date he is so retired, placed on that list, involuntarily separated, discharged, or released, except as prescribed in regulations by the Secretaries concerned, entitled to transportation for his dependents, baggage, and household effects to the home selected under section 404(c) of this title, and to a per diem for his dependents. In addition, baggage and household effects may be shipped to a location other than the home selected by the member.
 
-(2) If baggage and household effects of a member are shipped to a place selected by a member as his home under section 404(c) of this title that is not a place described in clause (A) or (B) of section 404(c)(2) of this title or to a location other than the home selected by the member, or if transportation is provided for a member's dependents to a place selected by the member as his home under section 404(c) of this title that is not a place described in clause (A) or (B) of section 404(c)(2) of this title, and the costs of that shipment or transportation are in excess of those that would have been incurred if the shipment had been made or the transportation had been provided to a location in the United States (other than Alaska or Hawaii), the member shall pay that excess cost.
+(2) If baggage and household effects of a member are shipped to a place selected by a memberas his home under section 404(c) of this title that is not a place described in clause (A) or (B) of section 404(c)(2) of this title or to a location other than the home selected by the member, or if transportation is provided for a member's dependents to a place selected by the member as his home under section 404(c) of this title that is not a place described in clause (A) or (B) of section 404(c)(2) of this title, and the costs of that shipment or transportation are in excess of those that would have been incurred if the shipment had been made or the transportation had been provided to a location in the United States (other than Alaska or Hawaii), the member shall pay that excess cost.
 
 (3) If a member authorized to select a home under section 404(c) of this title accrues that right or any entitlement under this subsection but dies before the member exercises the right or entitlement, that right or entitlement accrues to and may be exercised by the surviving dependents at any time before the end of the three-year period beginning on the date on which the member accrued that right or entitlement. If there are no surviving dependents, the baggage and household effects of the deceased member may be shipped to the home of the person legally entitled to such baggage and effects. However, if baggage and household effects are shipped under circumstances described in paragraph (2) in which the member would have been required to pay the excess costs of that shipment, the surviving dependents or the person legally entitled to the baggage and household effects, as the case may be, shall pay that excess cost.
 
@@ -171,7 +171,7 @@
 
 (C) A request described in this subparagraph is a request by the spouse of a member, or by the parent of a dependent child in the case of a dependent child of a member, for relocation.
 
-(D) Transportation may be provided under this paragraph for household effects or a motor vehicle only if a written agreement of the member, or an order of a court of competent jurisdiction, gives possession of the effects or vehicle to the spouse or dependent of the member concerned.
+(D) Transportation may be provided under this paragraph for household effects or a motor vehicle only if a written agreement of the member, or an order of a court of competent jurisdiction,gives possession of the effects or vehicle to the spouse or dependent of the member concerned.
 
 (E) In this paragraph, the term “dependent-abuse offense” means an offense described in section 1059(c) of title 10.
 
@@ -179,7 +179,7 @@
 
 (j) Under uniform regulations prescribed by the Secretaries concerned, a member with dependents who is ordered to make an overseas permanent change of station and who, in anticipation of his dependents accompanying him overseas, ships baggage and household effects to that overseas station, may be authorized a return shipment of the baggage and household effects if, after the shipment, the member's dependents are unable to accompany him overseas and the Secretary concerned determines that such inability was unexpected and uncontrollable.
 
-(k) A member of the armed forces who relocates from leased or rental housing by reason ofthe foreclosure of such housing is entitled to transportation of baggage and household effects under subsection (b)(1) in the same manner, and subject to the same conditions and limitations, as similarly circumstanced members entitled to transportation of baggage and household effects under that subsection.
+(k) A member of the armed forces who relocates from leased or rental housing by reason of the foreclosure of such housing is entitled to transportation of baggage and household effects under subsection (b)(1) in the same manner, and subject to the same conditions and limitations, as similarly circumstanced members entitled to transportation of baggage and household effects under that subsection.
 
 (<i>l</i>) For the purposes of this section, the residence of a dependent of a member who is a student not living with the member while at school shall be considered to be the permanent duty station of the member or the designated residence of dependents of the member if the member's dependents are not authorized to reside with the member.
 
@@ -241,7 +241,7 @@ In subsection (b), the words “to and from such locations” are omitted as cov
 
 In subsection (c), the 15 words preceding clause (1) of the first sentence are substituted for the 1st 7 words of the 1st sentence of section 253(c) of existing title 37. The 39th through 47th words of the 2d sentence of section 253(c) of existing title 37 are omitted as covered by section 411(a) of this revised title.
 
-In subsection (d), the words “the weight of the baggage and household effects stored . . . may not be more than” are substituted for the words “in no instance shall the weight stored . . . exceed”. The words “except as prescribed in regulations” are substituted for the words “except that a longer period may be authorized by regulations promulgated”. The words “Secretaries concerned” are substituted for the words “respective Secretaries” to conform to other subsections of the source statute.
+In subsection (d), the words “the weight of the baggage and household effects stored . . . may not be more than” are substituted for the words “in no instance shall the weight stored . . . exceed”. The words “except as prescribed in regulations” are substituted for the words “except that a longer period may be authorized by regulations promulgated”. The words “Secretaries concerned” are substituted for the words “respectiveSecretaries” to conform to other subsections of the source statute.
 
 In subsection (f), the words “of a member” are inserted for clarity. The words “if he dies” are substituted for the words “upon the death of a member”. The words “under chapter 3 of this title” are substituted for the reference to section 232(e) of title 37, since subsection (e) was redesignated as subsection (d) by section 2(2) of the Act of March 31, 1955, cited above.
 
@@ -263,7 +263,7 @@ Acts
 
 Aug. 1, 1953, ch. 305, §604, 67 Stat. 349.
 
-The text of 31:650a (related to a member of an armed force) is omitted as unnecessary because of 37:404(a)(3). The words “On and after August 1, 1953” are omitted as executed. The words “A member . . . is entitled to” are substituted for “personnel” for clarity and consistency in the title. The word “baggage” is added for consistency in the title. The words “dependents, baggage, or household effects” are substituted for “such personnel” for clarity. The word “otherwise” is omitted as surplus.The words “used to pay for that transportation” are substituted for “charged with all expenses in connection with such travel including” for clarity.
+The text of 31:650a (related to a member of an armed force) is omitted as unnecessary because of 37:404(a)(3). The words “On and after August 1, 1953” are omitted as executed. The words “A member . . . is entitled to” are substituted for “personnel” for clarity and consistency in the title. The word “baggage” is added for consistency in the title. The words “dependents, baggage, or household effects” are substituted for “such personnel” for clarity. The word “otherwise” is omitted as surplus. The words “used to pay for that transportation” are substituted for “charged with all expenses in connection with such travel including” for clarity.
 
 &nbsp;
 
@@ -575,7 +575,7 @@ Section 620(c) of Pub. L. 99–661 provided that:
 
 “(1) The amendment made by subsection (a) \[amending this section\] shall apply to members whose baggage and household goods enter nontemporary storage on or after the date of the enactment of this Act \[Nov. 14, 1986\].
 
-“(2) The amendments made by subsection (b) \[amending this section and section 2634 of Title 10, Armed Forces\] shall apply only with respect to members whose dependents are unable to accompany them to an overseas permanent duty station because of circumstances arising on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
+“(2) The amendments made by subsection (b) \[amending this section and section 2634 of Title 10, Armed Forces\] shall apply only with respect to memberswhose dependents are unable to accompany them to an overseas permanent duty station because of circumstances arising on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
 Section 652(e)(1), (2) of Pub. L. 99–661 provided that:
 
@@ -639,5 +639,5 @@ Pub. L. 94–212, title VII, §747, Feb. 9, 1976, 90 Stat. 176, which provided t
 
 #### Funeral Transportation and Living Expense Benefits; Vietnam Conflict
 
-Pub. L. 93–257, Mar. 29, 1974, 88 Stat. 53, entitled the “Funeral Transportation and Living Expense Benefits Act of 1974”, authorized the Secretary of Defense to provide funeral transportation and living expenses benefits for the family of any deceased member of the Armed Forces who died while classified as a prisoner of war or as missing in action during the Vietnam conflict and whose remains were returned to the United States after January 27, 1973, prior to repeal by Pub. L. 107–107, div. A, title VI, §638(b)(3), Dec. 28, 2001, 115 Stat. 1148. See section 411f(d) of this title.
+Pub. L. 93–257, Mar. 29, 1974, 88 Stat. 53, entitled the “Funeral Transportation and Living Expense BenefitsAct of 1974”, authorized the Secretary of Defense to provide funeral transportation and living expenses benefits for the family of any deceased member of the Armed Forces who died while classified as a prisoner of war or as missing in action during the Vietnam conflict and whose remains were returned to the United States after January 27, 1973, prior to repeal by Pub. L. 107–107, div. A, title VI, §638(b)(3), Dec. 28, 2001, 115 Stat. 1148. See section 411f(d) of this title.
 

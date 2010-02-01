@@ -12,13 +12,9 @@ With respect to any loan—
 
 #### (b) Collection of referred, transferred, or assigned loans
 
-The Secretary shall continue to attempt to collect any loan referred, transferred, or assigned under paragraph (5)(A), (5)(B)(i), or (6) of section 1087cc(a) <sup>1</sup> of this title until all appropriate collection efforts, as determined by the Secretary, have been expended.
+The Secretary shall continue to attempt to collect any loan referred, transferred, or assigned under paragraph (4) or (5) of section 1087cc(a) of this title until all appropriate collection efforts, as determined by the Secretary, have been expended.
 
-(Pub. L. 89–329, title IV, §467, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat.1453; amended Pub. L. 102–325, title IV, §467, July 23, 1992, 106 Stat. 584; Pub. L. 105–244, title IV, §467(a), Oct. 7, 1998, 112 Stat. 1728.)
-
-#### References in Text
-
-Section 1087cc(a) of this title, referred to in subsec. (b), was amended by Pub. L. 105–244, title IV, §463(a)(3), Oct. 7, 1998, 112 Stat. 1724, which redesignated pars. (5), (6), and (7) as (4), (5), and (6), respectively.
+(Pub. L. 89–329, title IV, §467, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1453; amended Pub. L. 102–325, title IV, §467, July 23, 1992, 106 Stat. 584; Pub. L. 105–244, title IV, §467(a), Oct. 7, 1998, 112 Stat. 1728; Pub. L. 111–39, title IV, §405(6), July 1, 2009, 123 Stat. 1947.)
 
 #### Prior Provisions
 
@@ -26,9 +22,15 @@ A prior section 1087gg, Pub. L. 89–329, title IV, §467, as added Pub. L. 96�
 
 #### Amendments
 
+2009—Subsec. (b). Pub. L. 111–39 substituted “paragraph (4) or (5)” for “paragraph (5)(A), (5)(B)(i), or (6)”.
+
 1998—Subsec. (c). Pub. L. 105–244 struck out heading and text of subsec. (c) which established the Perkins Loan Revolving Fund and provided for deposits into and payments from the Fund.
 
 1992—Pub. L. 102–325 amended section catchline generally, inserting “: Perkins Loan Revolving Fund” after “loans” and added subsec. (c).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -41,6 +43,4 @@ Amendment by Pub. L. 102–325 to this section, relating to creation of Perkins 
 #### Transfer of Balance
 
 Pub. L. 105–244, title IV, §467(b), Oct. 7, 1998, 112 Stat. 1728, provided that: “Any funds in the Perkins Loan Revolving Fund on the date of enactment of this Act \[Oct. 7, 1998\] shall be transferred to and deposited in the Treasury.”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

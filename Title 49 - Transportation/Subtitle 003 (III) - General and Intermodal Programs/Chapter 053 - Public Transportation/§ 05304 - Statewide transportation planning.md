@@ -80,7 +80,7 @@ Long-Range Statewide Transportation Plan.—
 
 &emsp;(1)
 
-Development.—Each State shall develop a long-range statewide transportation plan, with a minimum 20-year forecast period for all areas of the State, that provides for the development and implementation of the intermodal transportation system of the State.
+Development.—Each State shall develop a long-range statewide transportation plan,with a minimum 20-year forecast period for all areas of the State, that provides for the development and implementation of the intermodal transportation system of the State.
 
 &emsp;(2)
 
@@ -178,7 +178,7 @@ Nonmetropolitan areas.—With respect to each nonmetropolitan area in the State,
 
 &emsp;&emsp;(C)
 
-Indian tribal areas.—With respect to each area of the State under the jurisdiction of an Indian tribal government, the program shall be developed in consultation with the tribal government and the Secretary of the Interior.
+Indian tribal areas.—With respect to each area of the State under the jurisdiction of an Indian tribal government, the program shall be developed in consultation with thetribal government and the Secretary of the Interior.
 
 &emsp;(3)
 
@@ -326,7 +326,7 @@ Pub. L. 105–178, §3005(a), in second sentence, substituted “the metropolita
 
 Subsec. (b)(2)(B). Pub. L. 105–178, §3005(d)(2)(A), as added by Pub. L. 105–206, §9009(c)(2), struck out “and” at end.
 
-Subsec. (b)(2)(C). Pub. L. 105–178, §3005(d)(2)(B), as added by Pub. L. 105–206, §9009(c)(2), which directedamendment of subpar. (C) by substituting “strategies; and” for “strategies which may include”, was executed by making the substitution for “strategies, which may include” to reflect the probable intent of Congress. Remaining provisions of subpar. (C) redesignated (D).
+Subsec. (b)(2)(C). Pub. L. 105–178, §3005(d)(2)(B), as added by Pub. L. 105–206, §9009(c)(2), which directed amendment of subpar. (C) by substituting “strategies; and” for “strategies which may include”, was executed by making the substitution for “strategies, which may include” to reflect the probable intent of Congress. Remaining provisions of subpar. (C) redesignated (D).
 
 Pub. L. 105–178, §3005(b), added subpar. (C) and struck out former subpar. (C) which read as follows: “recommends innovative financing techniques, including value capture, tolls, and congestion pricing, to finance needed projects.”
 
@@ -344,7 +344,7 @@ Subsec. (c)(5), (6). Pub. L. 105–178, §3005(c)(2), added pars. (5) and (6).
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated asincluded in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 #### Schedule for Implementation
 

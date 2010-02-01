@@ -30,5 +30,5 @@ Section 2003 of part A (§§2001–2003) of chapter XX of title II of Pub. L. 98
 
 &emsp;“(1) the date of the enactment of this joint resolution \[Oct. 12, 1984\]; or
 
-&emsp;“(2) the date the International Convention Against the Taking of Hostages has come into force and theUnited States has become a party to that convention \[the convention entered into force June 6, 1983; and entered into force for the United States Jan. 6, 1985\].”
+&emsp;“(2) the date the International Convention Against the Taking of Hostages has come into force and the United States has become a party to that convention \[the convention entered into force June 6, 1983; and entered into force for the United States Jan. 6, 1985\].”
 

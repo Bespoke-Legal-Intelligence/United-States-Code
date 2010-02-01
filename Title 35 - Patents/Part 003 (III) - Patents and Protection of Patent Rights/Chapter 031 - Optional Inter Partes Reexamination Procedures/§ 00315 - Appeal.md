@@ -18,7 +18,7 @@ Third-Party Requester.—A third-party requester—
 
 (c)
 
-Civil Action.—A third-party requester whose request for an inter partes reexamination results in an order under section 313 is estopped from asserting at a later time, in any civil action arising in whole or in part under section 1338 of title 28, the invalidity of any claim finally determined to be valid and patentable on any ground which the third-party requester raised or could have raised during the inter partes reexamination proceedings. This subsection does not prevent the assertion of invalidity based on newly discovered prior art unavailable to the third-party requester and the Patent and Trademark Office at the time of the inter partes reexamination proceedings.
+Civil Action.—A third-party requester whose request for an inter partes reexamination results in an order under section 313 is estoppedfrom asserting at a later time, in any civil action arising in whole or in part under section 1338 of title 28, the invalidity of any claim finally determined to be valid and patentable on any ground which the third-party requester raised or could have raised during the inter partes reexamination proceedings. This subsection does not prevent the assertion of invalidity based on newly discovered prior art unavailable to the third-party requester and the Patent and Trademark Office at the time of the inter partes reexamination proceedings.
 
 (Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–569; amended Pub. L. 107–273, div. C, title III, §§13106(a), 13202(a)(4), (c)(1), Nov. 2, 2002, 116 Stat. 1900–1902.)
 

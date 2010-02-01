@@ -42,11 +42,11 @@ Used Fishing Vessels and Facilities.—The Secretary may not guarantee or make a
 
 (d)
 
-Independent Analysis.—The Secretary or Administrator may make a determination that aspects of an application under this chapter require independent analysis to be conducted by third party experts due to risk factors associated with markets, technology, or financial structures. A third party independent analysis conducted under this subsection shall be performed by a private sector expert in assessing such risk factors who is selected by the Secretary or Administrator.
+Independent Analysis.—The Secretary or Administrator may make a determination thataspects of an application under this chapter require independent analysis to be conducted by third party experts due to risk factors associated with markets, technology, or financial structures. A third party independent analysis conducted under this subsection shall be performed by a private sector expert in assessing such risk factors who is selected by the Secretary or Administrator.
 
 (e)
 
-Additional Equity Because of Increased Risks.—Notwithstanding any other provision of this chapter, the Secretary or Administratormay make a determination that an application under this title requires additional equity because of increased risk factors associated with markets, technology, or financial structures.
+Additional Equity Because of Increased Risks.—Notwithstanding any other provision of this chapter, the Secretary or Administrator may make a determination that an application under this title requires additional equity because of increased risk factors associated with markets, technology, or financial structures.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1608; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (2)(D), (b)(3)(A), (4), Jan. 6, 2006, 119 Stat. 3555, 3556; Pub. L. 110–181, div. C, title XXXV, §3522(a)(4), (b), Jan. 28, 2008, 122 Stat. 597, 598.)
 

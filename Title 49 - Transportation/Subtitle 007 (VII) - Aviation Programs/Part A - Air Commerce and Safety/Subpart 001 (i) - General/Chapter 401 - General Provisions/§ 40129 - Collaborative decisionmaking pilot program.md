@@ -18,7 +18,7 @@ Issuance.—The Administrator, with the concurrence of the Attorney General, sha
 
 &emsp;&emsp;(A) define a capacity reduction event;
 
-&emsp;&emsp;(B) establish the criteria and process for determining when a capacity reductionevent exists that warrants the use of collaborative decisionmaking among carriers at airports participating in the pilot program; and
+&emsp;&emsp;(B) establish the criteria and process for determining when a capacity reduction event exists that warrants the use of collaborative decisionmaking among carriers at airports participating in the pilot program; and
 
 &emsp;&emsp;(C) prescribe the methods of communication to be implemented among carriers during such an event.
 
@@ -72,7 +72,7 @@ Obtaining necessary data.—The Administrator may require participating air carr
 
 (k)
 
-Extension of Pilot Program.—At the end of the 2-year period for which the pilot program is authorized, the Administrator, with the concurrence of the Attorney General, may continue the pilot program for an additional 2 years and expand participation in the program to up to 7 additional airports if the Administrator determines pursuant to subsection (j) that the pilot program has facilitated more effective use of air traffic capacity and if the Secretary, with the concurrence of the Attorney General, determines that the pilot program has had no adverse effect on airline competition or the availability of air services to communities. The Administrator shall select the additional airports to participate in the extended pilot program in the same manner in which airports were initially selected to participate.
+Extension of Pilot Program.—At the end of the 2-year period for which the pilot program is authorized, the Administrator, with the concurrence of the Attorney General, may continue the pilot program for an additional 2 years andexpand participation in the program to up to 7 additional airports if the Administrator determines pursuant to subsection (j) that the pilot program has facilitated more effective use of air traffic capacity and if the Secretary, with the concurrence of the Attorney General, determines that the pilot program has had no adverse effect on airline competition or the availability of air services to communities. The Administrator shall select the additional airports to participate in the extended pilot program in the same manner in which airports were initially selected to participate.
 
 (Added Pub. L. 108–176, title IV, §423(a), Dec. 12, 2003, 117 Stat. 2552.)
 

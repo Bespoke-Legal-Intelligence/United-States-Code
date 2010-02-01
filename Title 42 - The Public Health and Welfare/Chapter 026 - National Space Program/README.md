@@ -28,6 +28,7 @@
 | [2459h.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002459h%20-%20Cost%20effectiveness%20calculations.md) | Cost effectiveness calculations. |
 | [2459i.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002459i%20-%20Working%20capital%20fund.md) | Working capital fund. |
 | [2459j.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002459j%20-%20Lease%20of%20non-excess%20property.md) | Lease of non-excess property. |
+| 2459j–1. | Deposit of proceeds from lease of non-excess property. |
 | [2459k.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002459k%20-%20Retrocession%20of%20jurisdiction.md) | Retrocession of jurisdiction. |
 | 2459<i>l</i>. | Recovery and disposition authority. |
 | [2460\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002460%20-%20Appropriations%3B%20prior%20authorization%20by%20Congress.md) | Appropriations; prior authorization by Congress. |

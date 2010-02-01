@@ -1,16 +1,22 @@
 ### §5721. Inventories
 
-Every manufacturer or importer of tobacco products or cigarette papers and tubes, and every export warehouse proprietor, shall make a true and accurate inventory at the time of commencing business, at the time of concluding business, and at such other times, in such manner and form, and to include such items, as the Secretary shall by regulation prescribe. Such inventories shall be subject to verification by any internal revenue officer.
+Every manufacturer or importer of tobacco products, processed tobacco, or cigarette papers and tubes, and every export warehouse proprietor, shall make a true and accurate inventory at the time of commencing business, at the time of concluding business, and at such other times, in such manner and form, and to include such items, as the Secretary shall by regulation prescribe. Such inventories shall be subject to verification by any internal revenue officer.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 713; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1422; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–33, title IX, §9302(h)(2)(A), Aug. 5, 1997, 111 Stat. 674.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 713; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1422; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–33, title IX, §9302(h)(2)(A), Aug. 5, 1997, 111 Stat. 674; Pub. L. 111–3, title VII, §702(a)(2)(A), Feb. 4, 2009, 123 Stat. 108.)
 
 #### Amendments
+
+2009—Pub. L. 111–3 inserted “, processed tobacco,” after “tobacco products”.
 
 1997—Pub. L. 105–33 inserted “or importer” after “manufacturer”.
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 1958—Pub. L. 85–859 substituted “manufacturer of tobacco products or cigarette papers and tubes” for “manufacturer of articles” and “internal revenue officer” for “revenue officer”, and inserted provisions to include export warehouse proprietors.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–3 effective Apr. 1, 2009, see section 702(a)(6) of Pub. L. 111–3, set out as a note under section 5702 of this title.
 
 #### Effective Date of 1997 Amendment
 

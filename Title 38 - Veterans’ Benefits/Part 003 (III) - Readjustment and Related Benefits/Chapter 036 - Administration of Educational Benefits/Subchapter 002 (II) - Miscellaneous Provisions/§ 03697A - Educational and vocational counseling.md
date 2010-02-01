@@ -8,11 +8,11 @@
 
 (b) For the purposes of this section, the term “individual” means an individual who—
 
-&emsp;(1) is eligible for educational assistance under chapter 30, 31, or 32 of this title or chapter 106 or 107 of title 10;
+&emsp;(1) is eligible for educational assistance under chapter 30, 31, 32, or 33 of this title or chapter 106 or 107 of title 10;
 
 &emsp;(2) was discharged or released from active duty under conditions other than dishonorable if not more than one year has elapsed since the date of such last discharge or release from active duty; or
 
-&emsp;(3) is serving on active duty in any State with the Armed Forces and is within 180 days of the estimated date of such individual's discharge or release from active duty under conditions other than dishonorable, includingthose who are making a determination of whether to continue as members of the Armed Forces.
+&emsp;(3) is serving on active duty in any State with the Armed Forces and is within 180 days of the estimated date of such individual's discharge or release from active duty under conditions other than dishonorable, including those who are making a determination of whether to continue as members of the Armed Forces.
 
 (c) In any case in which the Secretary has rated the individual as being incompetent, the counseling services described in subsection (a) of this section shall be required to be provided to the individual before the selection of a program of education or training.
 
@@ -22,11 +22,9 @@
 
 (Added Pub. L. 102–16, §2(a), Mar. 22, 1991, 105 Stat. 48, §1797A; renumbered §3697A, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 110–252, title V, §5003(b)(2)(B), June 30, 2008, 122 Stat. 2375.)
 
-#### Amendment of Subsection (b)(1)
-
-<i>Pub. L. 110–252, title V, §5003(b)(2)(B), (d), June 30, 2008, 122 Stat. 2375, 2378, provided that, effective Aug. 1, 2009, subsection (b)(1) of this section is amended by striking “or 32” and inserting “32, or 33”.</i>
-
 #### Amendments
+
+2008—Subsec. (b)(1). Pub. L. 110–252 substituted “32, or 33” for “or 32”.
 
 1991—Pub. L. 102–83 renumbered section 1797A of this title as this section.
 

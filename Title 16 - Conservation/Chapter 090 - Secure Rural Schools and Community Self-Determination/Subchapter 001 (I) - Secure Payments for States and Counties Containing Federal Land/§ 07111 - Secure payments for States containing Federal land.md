@@ -2,7 +2,7 @@
 
 #### (a) State payment
 
-For each of fiscal years 2008 through 2011, the Secretary of Agriculture shall calculate for eacheligible State an amount equal to the sum of the products obtained by multiplying—
+For each of fiscal years 2008 through 2011, the Secretary of Agriculture shall calculate for each eligible State an amount equal to the sum of the products obtained by multiplying—
 
 &emsp;(1) the adjusted share for each eligible county within the eligible State; by
 

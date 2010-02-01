@@ -28,7 +28,7 @@ The uses of agricultural commodities and local currencies specified in subsectio
 
 Section 2226 of the American Aid to Poland Act of 1988, referred to in subsec. (a)(2), is section 2226 of Pub. L. 100–418, which is set out as a note under section 1431 of Title 7, Agriculture.
 
-The Food for Peace Act, referred to in subsec. (c), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsec. (c), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of Title 7. Forcomplete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 #### Amendments
 

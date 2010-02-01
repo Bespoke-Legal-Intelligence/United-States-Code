@@ -20,7 +20,7 @@ Not later than two years after receiving a grant under this part, a State shall 
 
 &emsp;(1) other Federal, State, local, and private resources that will be used in combination with a grant under this section to develop or expand the State's early childhood education professional development and career activities;
 
-&emsp;(2) the ways in which the State Advisory Council (or similar State entity) will coordinate the various State and local activities that support the early childhood educationprofessional development and career system; and
+&emsp;(2) the ways in which the State Advisory Council (or similar State entity) will coordinate the various State and local activities that support the early childhood education professional development and career system; and
 
 &emsp;(3) the ways in which the State Task Force will use funds provided under this part and carry out the activities described in section 1161i–4 of this title.
 

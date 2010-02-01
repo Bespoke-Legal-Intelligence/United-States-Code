@@ -1,6 +1,6 @@
 ### §8502. Compensation under State agreement
 
-(a) The Secretary of Labor, on behalf of the United States, may enter into an agreement with a State, or with an agency administering the unemployment compensation law of a State, under which the State agency shall—
+(a) The Secretary of Labor, on behalf of the United States, may enter into an agreementwith a State, or with an agency administering the unemployment compensation law of a State, under which the State agency shall—
 
 &emsp;(1) pay, as agent of the United States, compensation under this subchapter to Federal employees; and
 

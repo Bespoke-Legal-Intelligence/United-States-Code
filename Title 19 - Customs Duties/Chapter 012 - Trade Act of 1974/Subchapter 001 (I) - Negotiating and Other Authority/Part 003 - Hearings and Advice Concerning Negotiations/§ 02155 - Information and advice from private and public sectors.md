@@ -18,7 +18,7 @@
 
 &emsp;(B) The implementation, operation, and effectiveness of recently concluded multilateral and bilateral trade agreements and resolution of trade disputes.
 
-&emsp;(C) The actions taken under the trade laws of the United States and the effectiveness of such actions in achieving trade policy objectives.
+&emsp;(C) The actions taken under the trade laws of the United States and the effectiveness ofsuch actions in achieving trade policy objectives.
 
 &emsp;(D) Important developments in other areas of trade for which there must be developed a proper policy response.
 
@@ -110,7 +110,7 @@ The provisions of the Federal Advisory Committee Act apply—
 
 #### (h) Advisory committee support
 
-The United States Trade Representative, and the Secretaries of Commerce, Labor, Defense, Agriculture, the Treasury, or other executive departments, as appropriate, shall provide such staff, information, personnel, and administrative services and assistance to advisory committees established under subsection (c) of this section as such committees may reasonably require to carry out their activities.
+The United States Trade Representative, and the Secretaries of Commerce, Labor, Defense, Agriculture, the Treasury, or other executivedepartments, as appropriate, shall provide such staff, information, personnel, and administrative services and assistance to advisory committees established under subsection (c) of this section as such committees may reasonably require to carry out their activities.
 
 #### (i) Consultation with advisory committees; procedures; nonacceptance of committee advice or recommendations
 
@@ -128,7 +128,7 @@ In addition to any advisory committee established under this section, the Presid
 
 #### (k) Scope of participation by members of advisory committees
 
-Nothing contained in this section shall be construed to authorize or permit any individual toparticipate directly in any negotiation of any matters referred to in subsection (a) of this section. To the maximum extent practicable, the members of the committees established under subsections (b) and (c) of this section, and other appropriate parties, shall be informed and consulted before and during any such negotiations. They may be designated as advisors to a negotiating delegation, and may be permitted to participate in international meetings to the extent the head of the United States delegation deems appropriate. However, they may not speak or negotiate for the United States.
+Nothing contained in this section shall be construed to authorize or permit any individual to participate directly in any negotiation of any matters referred to in subsection (a) of this section. To the maximum extent practicable, the members of the committees established under subsections (b) and (c) of this section, and other appropriate parties, shall be informed and consulted before and during any such negotiations. They may be designated as advisors to a negotiating delegation, and may be permitted to participate in international meetings to the extent the head of the United States delegation deems appropriate. However, they may not speak or negotiate for the United States.
 
 #### (<i>l</i>) Advisory committees established by Department of Agriculture
 
@@ -286,5 +286,7 @@ Term of Trade and Environment Policy Advisory Committee extended until Sept. 30,
 
 Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

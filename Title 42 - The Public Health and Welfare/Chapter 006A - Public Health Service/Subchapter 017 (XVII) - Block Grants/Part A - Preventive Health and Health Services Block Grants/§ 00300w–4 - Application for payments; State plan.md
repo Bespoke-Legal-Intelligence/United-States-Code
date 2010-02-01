@@ -10,7 +10,7 @@ The Secretary may make payments under section 300w–2 of this title to a State 
 
 &emsp;(3) the application contains the certification described in subsection (c) of this section;
 
-&emsp;(4) the application contains such assurances as the Secretary may require regarding thecompliance of the State with the requirements of this part (including assurances regarding compliance with the agreements described in subsection (c) of this section); and
+&emsp;(4) the application contains such assurances as the Secretary may require regarding the compliance of the State with the requirements of this part (including assurances regarding compliance with the agreements described in subsection (c) of this section); and
 
 &emsp;(5) the application is in such form and is submitted by such date as the Secretary may require.
 
@@ -78,7 +78,7 @@ The certification referred to in subsection (a)(3) of this section for a fiscal 
 
 &emsp;&emsp;(A) participate in the development of any plan by the State relating to emergency medical services, as such plan relates to highway safety; and
 
-&emsp;&emsp;(B) review and comment on any proposal by any State agency to use any Federalgrant or Federal payment received by the State for the provision of emergency medical services as such proposal relates to highway safety.
+&emsp;&emsp;(B) review and comment on any proposal by any State agency to use any Federal grant or Federal payment received by the State for the provision of emergency medical services as such proposal relates to highway safety.
 
 #### (d) State Advisory Committee
 
@@ -114,7 +114,7 @@ The certification referred to in subsection (a)(3) of this section for a fiscal 
 
 &emsp;A condition under paragraph (1) for a State is that the State public health officer serves as the chair of the Committee, and that the Committee meets not less than twice each fiscal year.
 
-(July 1, 1944, ch. 373, title XIX, §1905, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 538; amended Pub. L. 98–555, §5(a), (d), Oct. 30, 1984, 98 Stat. 2855, 2856; Pub. L. 99–646, §87(d)(1)(B), Nov. 10, 1986, 100 Stat. 3624; Pub. L. 99–654, §3(b)(1)(B), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–607, title III, §301(c), Nov. 4, 1988, 102 Stat. 3112; Pub. L. 101–590, §4, Nov. 16, 1990, 104 Stat. 2928; Pub. L. 102–531, title I, §103(a), Oct. 27, 1992, 106 Stat. 3470.)
+(July 1, 1944, ch. 373, title XIX, §1905, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 538; amended Pub. L. 98–555, §5(a), (d), Oct. 30, 1984, 98 Stat. 2855, 2856; Pub. L. 99–646, §87(d)(1)(B), Nov. 10, 1986, 100 Stat. 3624; Pub. L. 99–654, §3(b)(1)(B), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–607, title III, §301(c), Nov. 4, 1988, 102Stat. 3112; Pub. L. 101–590, §4, Nov. 16, 1990, 104 Stat. 2928; Pub. L. 102–531, title I, §103(a), Oct. 27, 1992, 106 Stat. 3470.)
 
 #### Amendments
 

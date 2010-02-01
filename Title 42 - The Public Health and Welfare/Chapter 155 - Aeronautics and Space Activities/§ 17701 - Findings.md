@@ -32,7 +32,7 @@ The Congress finds, on this, the 50th anniversary of the establishment of the Na
 
 &emsp;(11) NASA, through its pursuit of challenging and relevant activities, can provide an important stimulus to the next generation to pursue careers in science, technology, engineering, and mathematics.
 
-&emsp;(12) Commercial activities have substantially contributed to the strength of both theUnited States space program and the national economy, and the development of a healthy and robust United States commercial space sector should continue to be encouraged.
+&emsp;(12) Commercial activities have substantially contributed to the strength of both the United States space program and the national economy, and the development of a healthy and robust United States commercial space sector should continue to be encouraged.
 
 &emsp;(13) It is in the national interest for the United States to have an export control policy that protects the national security while also enabling the United States aerospace industry to compete effectively in the global market place and the United States to undertake cooperative programs in science and human space flight in an effective and efficient manner.
 

@@ -74,7 +74,7 @@ Panel members described in subsections (c)(2), (c)(3), (d)(2), and (e)(2) of thi
 
 (7) In any matter where the Fraser River Panel is unable to act because the United States Fraser River Panel members have been unable to reach a decision in accordance with paragraph (3) of this subsection, and upon a determination by the Chairman of the United States Section that an action of the Panel is required, the United States Section shall act for the United States Panel members in the Fraser River Panel.
 
-(8) In any matter where the Secretary of State determines that the United States is in jeopardy of not fulfilling its international obligations under the Treaty, the Secretary of State shall so certify to the United States Section. Such certification shall include the reasons for such determination and shall specify the date by which a decision by the United States Section is desired. If the United States Section has not reached a decision by the date specified, the Secretary of State, after consultation with the Secretary and the Secretary of the Interior, shall report on the matter to the President.
+(8) In any matter where the Secretary of State determines that the United States is in jeopardy of not fulfilling its international obligations under the Treaty, the Secretary of State shall socertify to the United States Section. Such certification shall include the reasons for such determination and shall specify the date by which a decision by the United States Section is desired. If the United States Section has not reached a decision by the date specified, the Secretary of State, after consultation with the Secretary and the Secretary of the Interior, shall report on the matter to the President.
 
 #### (i) Consultation
 

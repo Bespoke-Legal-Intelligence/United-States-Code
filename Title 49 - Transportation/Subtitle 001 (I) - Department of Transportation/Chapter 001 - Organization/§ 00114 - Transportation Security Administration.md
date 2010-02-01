@@ -260,6 +260,18 @@ Availability of information to congress.—Paragraph (1) does not authorize info
 
 Limitation on transferability of duties.—Except as otherwise provided by law, the Under Secretary may not transfer a duty or power under this subsection to another department, agency, or instrumentality of the United States.
 
+&emsp;(4)
+
+Limitations.—Nothing in this subsection, or any other provision of law, shall be construed to authorize the designation of information as sensitive security information (as defined in section 1520.5 of title 49, Code of Federal Regulations)—
+
+&emsp;&emsp;(A) to conceal a violation of law, inefficiency, or administrative error;
+
+&emsp;&emsp;(B) to prevent embarrassment to a person, organization, or agency;
+
+&emsp;&emsp;(C) to restrain competition; or
+
+&emsp;&emsp;(D) to prevent or delay the release of information that does not require protection in the interest of transportation security, including basic scientific research information not clearly related to transportation security.
+
 (s)
 
 Transportation Security Strategic Planning.—
@@ -394,7 +406,7 @@ Plan.—The term “Plan” means the Transportation Security Information Sharin
 
 &emsp;&emsp;(C)
 
-Public and private stakeholders.—The term “public and private stakeholders” means Federal, State, and local agencies, tribal governments, and appropriate private entities, including nonprofit employee labor organizations representing transportation employees.
+Public and private stakeholders.—The term “public and private stakeholders”means Federal, State, and local agencies, tribal governments, and appropriate private entities, including nonprofit employee labor organizations representing transportation employees.
 
 &emsp;&emsp;(D)
 
@@ -636,7 +648,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 &emsp;&emsp;(C) $12,000,000 for fiscal year 2010.
 
-(Added Pub. L. 107–71, title I, §101(a), Nov. 19, 2001, 115 Stat. 597; amended Pub. L. 107–296, title XVI, §1601(b), title XVII, §1707, Nov. 25, 2002, 116 Stat. 2312, 2318; Pub. L. 108–7, div. I, title III, §351(d), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–458, title IV, §4001(a), Dec. 17, 2004, 118 Stat. 3710; Pub. L. 110–53, title XII, §§1202, 1203(a), title XIII, §1302(a), title XV, §1503(a), Aug. 3, 2007, 121 Stat. 381, 383, 390, 425; Pub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092.)
+(Added Pub. L. 107–71, title I, §101(a), Nov. 19, 2001, 115 Stat. 597; amended Pub. L. 107–296, title XVI, §1601(b), title XVII, §1707, Nov. 25, 2002, 116 Stat. 2312, 2318; Pub. L. 108–7, div. I, title III, §351(d), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–458, title IV, §4001(a), Dec. 17, 2004, 118 Stat. 3710; Pub. L. 110–53, title XII, §§1202, 1203(a), title XIII, §1302(a), title XV, §1503(a), Aug. 3, 2007, 121 Stat. 381, 383, 390, 425; Pub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092; Pub. L. 111–83, title V, §561(c)(1), Oct. 28, 2009, 123 Stat. 2182.)
 
 #### References in Text
 
@@ -651,6 +663,8 @@ The Implementing Recommendations of the 9/11 Commission Act of 2007, referred to
 The date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007 and the date of enactment of this subsection, referred to in subsecs. (s)(3)(F), (u)(6), (7)(C), and (v)(7)(D), is the date of enactment of Pub. L. 110–53, which was approved Aug. 3, 2007.
 
 #### Amendments
+
+2009—Subsec. (r)(4). Pub. L. 111–83 added par. (4).
 
 2007—Subsecs. (<i>o</i>) to (s). Pub. L. 110–161 redesignated subsecs. (p) to (s) as (<i>o</i>) to (r), respectively, and struck out former subsec. (<i>o</i>). Text of former subsec. (<i>o</i>) read as follows: “The acquisition management system established by the Administrator of the Federal Aviation Administration under section 40110 shall apply to acquisitions of equipment, supplies, and materials by the Transportation Security Administration, or, subject to the requirements of such section, the Under Secretary may make such modifications to the acquisition management system with respect to such acquisitions of equipment, supplies, and materials as the Under Secretary considers appropriate, such as adopting aspects of other acquisition management systems of the Department of Transportation.”
 

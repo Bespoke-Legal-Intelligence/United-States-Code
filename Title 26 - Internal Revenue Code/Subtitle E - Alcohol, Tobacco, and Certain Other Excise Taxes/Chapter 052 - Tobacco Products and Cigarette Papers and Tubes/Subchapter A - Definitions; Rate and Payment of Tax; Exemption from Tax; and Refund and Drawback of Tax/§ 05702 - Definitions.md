@@ -40,7 +40,7 @@ When used in this chapter—
 
 #### (h) Export warehouse
 
-“Export warehouse” means a bonded internal revenue warehouse for the storage of tobacco products and cigarette papers and tubes, upon which the internal revenue tax has not been paid, for subsequent shipment to a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States, or for consumption beyond the jurisdiction of the internal revenue laws of the United States.
+“Export warehouse” means a bonded internal revenue warehouse for the storage of tobaccoproducts or cigarette papers or tubes or any processed tobacco, upon which the internal revenue tax has not been paid, for subsequent shipment to a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States, or for consumption beyond the jurisdiction of the internal revenue laws of the United States.
 
 #### (i) Export warehouse proprietor
 
@@ -48,11 +48,11 @@ When used in this chapter—
 
 #### (j) Removal or remove
 
-“Removal” or “remove” means the removal of tobacco products or cigarette papers or tubes from the factory or from internal revenue bond under section 5704, as the Secretary shall by regulation prescribe, or release from customs custody, and shall also include the smuggling or other unlawful importation of such articles into the United States.
+“Removal” or “remove” means the removal of tobacco products or cigarette papers or tubes, or any processed tobacco, from the factory or from internal revenue bond under section 5704, as the Secretary shall by regulation prescribe, or release from customs custody, and shall also include the smuggling or other unlawful importation of such articles into the United States.
 
 #### (k) Importer
 
-“Importer” means any person in the United States to whom nontaxpaid tobacco products or cigarette papers or tubes manufactured in a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States are shipped or consigned; any person who removes cigars or cigarettes for sale or consumption in the United States from a customs bonded manufacturing warehouse; and any person who smuggles or otherwise unlawfully brings tobacco products or cigarette papers or tubes into the United States.
+“Importer” means any person in the United States to whom nontaxpaid tobacco products or cigarette papers or tubes, or any processed tobacco, manufactured in a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States are shipped or consigned; any person who removes cigars or cigarettes for sale or consumption in the United States from a customs bonded manufacturing warehouse; and any person who smuggles or otherwise unlawfully brings tobacco products or cigarette papers or tubes, or any processed tobacco, into the United States.
 
 #### (<i>l</i>) Determination of price on cigars
 
@@ -88,11 +88,31 @@ The term “pipe tobacco” means any tobacco which, because of its appearance, 
 
 #### (<i>o</i>) Roll-your-own tobacco
 
-The term “roll-your-own tobacco” means any tobacco which, because of its appearance, type, packaging, or labeling, is suitable for use and likely to be offered to, or purchased by, consumers as tobacco for making cigarettes.
+The term “roll-your-own tobacco” means any tobacco which, because of its appearance, type, packaging, or labeling, is suitable for use and likely to be offered to, or purchased by, consumers as tobacco for making cigarettes or cigars, or for use as wrappers thereof.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 706; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1415; Pub. L. 89–44, title V, §502(b)(3), title VIII, §808(a), June 21, 1965, 79 Stat. 151, 164; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2128(b), Oct. 4, 1976, 90 Stat. 1834, 1921; Pub. L. 99–272, title XIII, §13202(b)(2)–(4), Apr. 7, 1986, 100 Stat. 312; Pub. L. 100–647, title V, §5061(b)–(c)(2), Nov. 10, 1988, 102 Stat. 3679; Pub. L. 101–508, title XI, §11202(g), Nov. 5, 1990, 104 Stat. 1388–419; Pub. L. 105–33, title IX, §9302(g)(2)–(3)(B), (h)(4), Aug. 5, 1997, 111 Stat. 672, 674; Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644.)
+#### (p) Manufacturer of processed tobacco
+
+#### (1) In general
+
+&emsp;The term “manufacturer of processed tobacco” means any person who processes any tobacco other than tobacco products.
+
+#### (2) Processed tobacco
+
+&emsp;The processing of tobacco shall not include the farming or growing of tobacco or the handling of tobacco solely for sale, shipment, or delivery to a manufacturer of tobacco products or processed tobacco.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 706; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1415; Pub. L. 89–44, title V, §502(b)(3), title VIII, §808(a), June 21, 1965, 79 Stat. 151, 164; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2128(b), Oct. 4, 1976, 90 Stat. 1834, 1921; Pub. L. 99–272, title XIII, §13202(b)(2)–(4), Apr. 7, 1986, 100 Stat. 312; Pub. L. 100–647, title V, §5061(b)–(c)(2), Nov. 10, 1988, 102 Stat. 3679; Pub. L. 101–508, title XI, §11202(g), Nov. 5, 1990, 104 Stat. 1388–419; Pub. L. 105–33, title IX, §9302(g)(2)–(3)(B), (h)(4), Aug. 5, 1997, 111 Stat. 672, 674; Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 111–3, title VII, §702(a)(4), (5), (d)(1), Feb. 4, 2009, 123 Stat. 108, 110.)
 
 #### Amendments
+
+2009—Subsec. (h). Pub. L. 111–3, §702(a)(5)(A), substituted “tobacco products or cigarette papers or tubes or any processed tobacco” for “tobacco products and cigarette papers and tubes”.
+
+Subsec. (j). Pub. L. 111–3, §702(a)(5)(B), inserted “, or any processed tobacco,” after “tobacco products or cigarette papers or tubes”.
+
+Subsec. (k). Pub. L. 111–3, §702(a)(5)(B), which directed insertion of “, or any processed tobacco,” after “tobacco products or cigarette papers or tubes”, was executed by making the insertion after “tobacco products or cigarette papers or tubes” both places it appeared to reflect the probable intent of Congress.
+
+Subsec. (<i>o</i>). Pub. L. 111–3, §702(d)(1), inserted “or cigars, or for use as wrappers thereof” before period.
+
+Subsec. (p). Pub. L. 111–3, §702(a)(4), added subsec. (p).
 
 2000—Subsec. (f). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsec. (g) as (f) and struck out former subsec. (f), which defined “cigarette papers”.
 
@@ -172,9 +192,15 @@ Subsec. (n). Pub. L. 85–859 redesignated former subsec. (m) as (n) and substit
 
 Subsec. (<i>o</i>). Pub. L. 85–859 redesignated former subsec. (n) as (<i>o</i>) and substituted “tobacco products or cigarette papers or tubes” for “articles” in two places, and inserted provisions to include within the definition persons who remove cigars or cigarettes for sale or consumption in the United States from a customs bonded manufacturing warehouse.
 
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–3, title VII, §702(a)(6), Feb. 4, 2009, 123 Stat. 109, provided that: “The amendments made by this subsection \[amending this section and sections 5712, 5713, 5721, 5722, 5723, and 5741 of this title\] shall take effect on April 1, 2009.”
+
+Pub. L. 111–3, title VII, §702(d)(2), Feb. 4, 2009, 123 Stat. 110, provided that: “The amendment made by this subsection \[amending this section\] shall apply to articles removed (as defined in section 5702(j) of the Internal Revenue Code of 1986) after March 31, 2009.”
+
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §315(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644, provided that: “The amendments made by this section \[amending this section, section 5761 of this title, and provisions set out as a note under section 5701 of this title\] shall take effect as if included in section 9302 of the Balanced Budget Act of 1997 \[Pub. L. 105–33\].”
+Pub. L. 106–554, §1(a)(7) \[title III, §315(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644, provided that: “Theamendments made by this section \[amending this section, section 5761 of this title, and provisions set out as a note under section 5701 of this title\] shall take effect as if included in section 9302 of the Balanced Budget Act of 1997 \[Pub. L. 105–33\].”
 
 #### Effective Date of 1997 Amendment
 

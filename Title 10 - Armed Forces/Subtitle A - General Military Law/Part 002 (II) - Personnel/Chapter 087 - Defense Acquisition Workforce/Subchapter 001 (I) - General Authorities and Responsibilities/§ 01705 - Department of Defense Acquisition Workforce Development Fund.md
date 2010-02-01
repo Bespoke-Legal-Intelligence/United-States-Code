@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Secretary of Defense shall establish a fund to be known as the “Department of Defense Acquisition Workforce Fund” (in this section referred to as the “Fund”) to provide funds, in addition to other funds that may be available, for the recruitment, training, and retention of acquisition personnel of the Department of Defense.
+Establishment.—The Secretary of Defense shall establish a fund to be known as the “Department of Defense Acquisition Workforce Development Fund” (in this section referred to as the “Fund”) to provide funds, in addition to other funds that may be available, for the recruitment, training, and retention of acquisition personnel of the Department of Defense.
 
 (b)
 
@@ -10,7 +10,7 @@ Purpose.—The purpose of the Fund is to ensure that the Department of Defense a
 
 (c)
 
-Management.—The Fund shall be managed by a senior official of the Department of Defense designated by the Under Secretary of Defense for Acquisition, Technology, and Logistics for that purpose, from among persons with an extensive background in management relating to acquisition and personnel.
+Management.—The Fund shall be managed by a senior official of the Department of Defense designated by the Under Secretary of Defensefor Acquisition, Technology, and Logistics for that purpose, from among persons with an extensive background in management relating to acquisition and personnel.
 
 (d)
 
@@ -22,33 +22,41 @@ In general.—The Fund shall consist of amounts as follows:
 
 &emsp;&emsp;(A) Amounts credited to the Fund under paragraph (2).
 
-&emsp;&emsp;(B) Any other amounts appropriated to, credited to, or deposited into the Fund by law.
+&emsp;&emsp;(B) Amounts transferred to the Fund pursuant to paragraph (3).
+
+&emsp;&emsp;(C) Any other amounts appropriated to, credited to, or deposited into the Fund by law.
 
 &emsp;(2)
 
-Credits to the fund.—(A) There shall be credited to the Fund an amount equal to the applicable percentage for a fiscal year of all amounts expended by the Department of Defense in such fiscal year for contract services, other than services relating to research and development and services relating to military construction.
+Credits to the fund.—(A) There shall be credited to the Fund an amount equal to the applicable percentage for a fiscal year of all amounts expended by the Department of Defense in such fiscal year for contract services from amounts available for contract services for operation and maintenance.
 
-&emsp;(B) Not later than 30 days after the end of the third fiscal year quarter of fiscal year 2008, and 30 days after the end of each fiscal year quarter thereafter, the head of each military department and Defense Agency shall remit to the Secretary of Defense an amount equal to the applicable percentage for such fiscal year of the amount expended by such military department or Defense Agency, as the case may be, during such fiscal year quarter for services covered by subparagraph (A). Any amount so remitted shall be credited to the Fund under subparagraph (A).
+&emsp;(B) Subject to paragraph (4), not later than 30 days after the end of the first quarter of each fiscal year, the head of each military department and Defense Agency shall remit to the Secretary of Defense, from amounts available to such military department or Defense Agency, as the case may be, for contract services for operation and maintenance, an amount equal to the applicable percentage for such fiscal year of the amount expended by such military department or Defense Agency, as the case may be, during such fiscal year for services covered by subparagraph (A). Any amount so remitted shall be credited to the Fund under subparagraph (A).
 
-&emsp;(C) For purposes of this paragraph, the applicable percentage for a fiscal year is a percentage as follows:
+&emsp;(C) For purposes of this paragraph, the applicable percentage for a fiscal year is the percentage that results in the credit to the Fund in such fiscal year of an amount as follows:
 
-&emsp;&emsp;(i) For fiscal year 2008, 0.5 percent.
+&emsp;&emsp;(i) For fiscal year 2010, $100,000,000.
 
-&emsp;&emsp;(ii) For fiscal year 2009, 1 percent.
+&emsp;&emsp;(ii) For fiscal year 2011, $770,000,000.
 
-&emsp;&emsp;(iii) For fiscal year 2010, 1.5 percent.
+&emsp;&emsp;(iii) For fiscal year 2012, $900,000,000.
 
-&emsp;&emsp;(iv) For any fiscal year after fiscal year 2010, 2 percent.
+&emsp;&emsp;(iv) For fiscal year 2013, $1,180,000,000.
 
-&emsp;(D) The Secretary of Defense may reduce a percentage established in subparagraph (C) for any fiscal year, if he determines that the application of such percentage would result in the crediting of an amount greater than is reasonably needed for the purpose of the Fund. In no event may the Secretary reduce a percentage for any fiscal year below a percentage that results in the deposit in a fiscal year of an amount equal to the following:
+&emsp;&emsp;(v) For fiscal year 2014, $1,330,000,000.
 
-&emsp;&emsp;(i) For fiscal year 2008, $300,000,000.
+&emsp;&emsp;(vi) For fiscal year 2015, $1,470,000,000.
 
-&emsp;&emsp;(ii) For fiscal year 2009, $400,000,000.
+&emsp;(D) The Secretary of Defense may reduce an amount specified in subparagraph (C) for a fiscal year if the Secretary determines that the amount is greater than is reasonably needed for purposes of the Fund for such fiscal year. The Secretary may not reduce the amount for a fiscal year to an amount that is less than 80 percent of the amount otherwise specified in subparagraph (C) for such fiscal year.
 
-&emsp;&emsp;(iii) For fiscal year 2010, $500,000,000.
+&emsp;(3)
 
-&emsp;&emsp;(iv) For any fiscal year after fiscal year 2010, $600,000,000.
+Transfer of certain unobligated balances.—To the extent provided in appropriations Acts, the Secretary of Defense may, during the 24-month period following the expiration of availability for obligation of any appropriations made to the Department of Defense for procurement, research, development, test, and evaluation, or operation and maintenance, transfer to the Fund any unobligated balance of such appropriations. Any amount so transferred shall be credited to the Fund.
+
+&emsp;(4)
+
+Additional requirements and limitations on remittances.—(A) In the event amounts are transferred to the Fund during a fiscal year pursuant to paragraph (1)(B) or appropriated to the Fund for a fiscal year pursuant to paragraph (1)(C), the aggregate amount otherwise required to be remitted to the Fund for that fiscal year pursuant to paragraph (2)(B) shall be reduced by the amount equal to the amounts so transferred or appropriated to the Fund during or for that fiscal year. Any reduction in the aggregate amount required to be remitted to the Fund for a fiscal year under this subparagraph shall be allocated as provided in applicable provisions of appropriations Acts or, absent such provisions, on a pro rata basis among the military departments and Defense Agencies required to make remittances to the Fund for that fiscal year under paragraph (2)(B), subject to any exclusions the Secretary of Defense determines to be necessary in the best interests of the Department of Defense.
+
+&emsp;(B) Any remittance of amounts to the Fund for a fiscal year under paragraph (2) shall be subject to the availability of appropriations for that purpose.
 
 (e)
 
@@ -82,11 +90,11 @@ Guidance.—The Under Secretary of Defense for Acquisition, Technology, and Logi
 
 &emsp;(4)
 
-Limitation on payments to or for contractors.—Amounts in the Fund shall not be available for payments to contractors or contractor employees, other than for the purpose of providing advanced training to Department of Defense employees.
+Limitation on payments to or for contractors.—Amounts in the Fund shall not be available for payments to contractors or contractor employees, other than for the purposeof providing advanced training to Department of Defense employees.
 
 &emsp;(5)
 
-Prohibition on payment of base salary of current employees.—Amounts in the Fund may not be used to pay the base salary of any person who was an employee of the Department as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008.
+Prohibition on payment of base salary of current employees.—Amounts in the Fund may not be used to pay the base salary of any person who was an employee of the Department serving in a position in the acquisition workforce as of January 28, 2008.
 
 &emsp;(6)
 
@@ -94,7 +102,7 @@ Duration of availability.—Amounts credited to the Fund under subsection (d)(2)
 
 (f)
 
-Annual Report.—Not later than 60 days after the end of each fiscal year beginning with fiscal year 2008, the Secretary of Defense shall submit to the congressional defense committees a report on the operation of the Fund during such fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
+Annual Report.—Not later than 60 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees a report on the operation of the Fund during such fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
 
 &emsp;(1) A statement of the amounts remitted to the Secretary for crediting to the Fund for such fiscal year by each military department and Defense Agency, and a statement of the amounts credited to the Fund for such fiscal year.
 
@@ -114,19 +122,15 @@ Acquisition Workforce Defined.—In this section, the term “acquisition workfo
 
 Expedited Hiring Authority.—
 
-&emsp;(1) For purposes of sections 3304, 5333, and 5753 of title 5, United States Code, the Secretary of Defense may—
+&emsp;(1) For purposes of sections 3304, 5333, and 5753 of title 5, the Secretary of Defense may—
 
-&emsp;&emsp;(A) designate any category of acquisition positions within the Department of Defense as shortage category positions; and
+&emsp;&emsp;(A) designate any category of acquisition workforce positions as positions for which there exists a shortage of candidates or there is a critical hiring need; and
 
-&emsp;&emsp;(B) utilize the authorities in such sections to recruit and appoint highly qualified persons directly to positions so designated.
+&emsp;&emsp;(B) utilize the authorities in such sections to recruit and appoint qualified persons directly to positions so designated.
 
-&emsp;(2) The Secretary may not appoint a person to a position of employment under this subsection after September 30, 2012.
+&emsp;(2) The Secretary may not appoint a person to a position of employment under this subsection after September 30, 2015.
 
-(Added Pub. L. 110–181, div. A, title VIII, §852(a)(1), Jan. 28, 2008, 122 Stat. 248; amended Pub. L. 110–417, \[div. A\], title VIII, §833, Oct. 14, 2008, 122 Stat. 4535.)
-
-#### References in Text
-
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (e)(5), is the date of enactment of Pub. L. 110–181, which was approved Jan. 28, 2008.
+(Added Pub. L. 110–181, div. A, title VIII, §852(a)(1), Jan. 28, 2008, 122 Stat. 248; amended Pub. L. 110–417, \[div. A\], title VIII, §833, Oct. 14, 2008, 122 Stat. 4535; Pub. L. 111–84, div. A, title VIII, §§831, 832(a)–(g), Oct. 28, 2009, 123 Stat. 2414, 2415.)
 
 #### Prior Provisions
 
@@ -134,7 +138,47 @@ A prior section 1705, added Pub. L. 101–510, div. A, title XII, §1202(a), Nov
 
 #### Amendments
 
+2009—Subsec. (a). Pub. L. 111–84, §832(g)(1), inserted “Development” after “Workforce”.
+
+Subsec. (d)(1)(B), (C). Pub. L. 111–84, §832(a)(1), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (d)(2)(A). Pub. L. 111–84, §832(b), substituted “from amounts available for contract services for operation and maintenance.” for “, other than services relating to research and development and services relating to military construction.”
+
+Subsec. (d)(2)(B). Pub. L. 111–84, §832(d)(1), (2)(A), substituted “Subject to paragraph (4), not later than” for “Not later than” and “the first quarter of each fiscal year” for “the third fiscal year quarter of fiscal year 2008, and 30 days after the end of each fiscal year quarter thereafter” and struck out “quarter” before “for services”.
+
+Pub. L. 111–84, §832(c), inserted “, from amounts available to such military department or Defense Agency, as the case may be, for contract services for operation and maintenance,” after “remit to the Secretary of Defense”.
+
+Subsec. (d)(2)(C), (D). Pub. L. 111–84, §832(e), added subpars. (C) and (D) and struck out former subpars. (C) and (D), which established applicable percentages for fiscal years 2008 to 2010 and thereafter and authorized the Secretary of Defense to reduce such percentages under certain circumstances and to a certain limit.
+
+Subsec. (d)(3). Pub. L. 111–84, §832(a)(2), added par. (3).
+
+Subsec. (d)(4). Pub. L. 111–84, §832(d)(2)(B), added par. (4).
+
+Subsec. (e)(5). Pub. L. 111–84, §832(f), substituted “serving in a position in the acquisition workforce as of January 28, 2008” for “as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008”.
+
+Subsec. (f). Pub. L. 111–84, §832(g)(2), struck out “beginning with fiscal year 2008” after “each fiscal year” in introductory provisions.
+
+Subsec. (h)(1). Pub. L. 111–84, §831(c), struck out “United States Code,” after “title 5,” in introductory provisions.
+
+Subsec. (h)(1)(A). Pub. L. 111–84, §831(a)(1), substituted “acquisition workforce positions as positions for which there exists a shortage of candidates or there is a critical hiring need” for “acquisition positions within the Department of Defense as shortage category positions”.
+
+Subsec. (h)(1)(B). Pub. L. 111–84, §831(a)(2), struck out “highly” after “appoint”.
+
+Subsec. (h)(2). Pub. L. 111–84, §831(b), substituted “September 30, 2015” for “September 30, 2012”.
+
 2008—Subsec. (h). Pub. L. 110–417 added subsec. (h).
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–84, div. A, title VIII, §832(h), Oct. 28, 2009, 123 Stat. 2416, provided that:
+
+“(1)
+
+Funding amendments.—The amendments made by subsections (a) through (c) \[amending this section\] shall take effect as of October 1, 2009.
+
+“(2)
+
+Technical amendments.—The amendments made by subsections (f) and (g) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 28, 2009\].”
 
 #### Effective Date
 

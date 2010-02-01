@@ -82,5 +82,5 @@ Section applicable to taxable years beginning after Dec. 31, 1986, see section 5
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11801 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by section 11801 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990,see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

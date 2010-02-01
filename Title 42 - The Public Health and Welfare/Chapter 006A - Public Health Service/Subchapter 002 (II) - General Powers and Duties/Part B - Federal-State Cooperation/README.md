@@ -70,3 +70,4 @@ Part B—Federal-State Cooperation
 - [&sect; 00247d&#8211;7e - Biomedical Advanced Research and Development Authority](%C2%A7%2000247d%E2%80%937e%20-%20Biomedical%20Advanced%20Research%20and%20Development%20Authority.md)
 - [&sect; 00247d&#8211;7f - National Biodefense Science Board and working groups](%C2%A7%2000247d%E2%80%937f%20-%20National%20Biodefense%20Science%20Board%20and%20working%20groups.md)
 - [&sect; 00247d&#8211;8 - Coordinated program to improve pediatric oral health](%C2%A7%2000247d%E2%80%938%20-%20Coordinated%20program%20to%20improve%20pediatric%20oral%20health.md)
+- [&sect; 00247d&#8211;9 - Dental education for parents of newborns](%C2%A7%2000247d%E2%80%939%20-%20Dental%20education%20for%20parents%20of%20newborns.md)

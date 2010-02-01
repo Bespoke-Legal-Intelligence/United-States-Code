@@ -88,7 +88,7 @@ The payment acres for a covered commodity on a farm shall be equal to 85 percent
 
 #### (1) Required reduction
 
-&emsp;If the sum of the base acres for a farm, together with the acreage described in paragraph (2), exceeds the actual cropland acreage of the farm, the Secretary shall reduce the base acres for 1 or more covered commodities for the farm or the base acres for peanuts for the farm under subchapter III of this chapter so that the sum of the base acres and acreage described in paragraph (2) does not exceed the actual cropland acreage of the farm.
+&emsp;If the sum of the base acres for a farm, together with the acreage described in paragraph (2), exceeds the actual cropland acreageof the farm, the Secretary shall reduce the base acres for 1 or more covered commodities for the farm or the base acres for peanuts for the farm under subchapter III of this chapter so that the sum of the base acres and acreage described in paragraph (2) does not exceed the actual cropland acreage of the farm.
 
 #### (2) Other acreage
 

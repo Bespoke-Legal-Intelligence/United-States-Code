@@ -44,19 +44,19 @@ For the purposes of this subchapter—
 
 #### References in Text
 
-The National Labor Relations Act, as amended, referred to in subsec. (e)(1), is act July 5, 1935, ch. 372, 49 Stat. 449, as amended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
+The National Labor Relations Act, as amended, referred to in subsec. (e)(1), is act July 5, 1935, ch. 372, 49 Stat. 449, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
 
-The Railway Labor Act, referred to in subsec. (e)(1), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in subsec. (e)(1), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
-The Labor-Management Reporting and Disclosure Act of 1959, referred to in subsec. (h), is Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, as amended, which is classified principally to chapter 11 (§401 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 29 and Tables.
+The Labor-Management Reporting and Disclosure Act of 1959, referred to in subsec. (h), is Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, which is classified principally to chapter 11 (§401 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 29 and Tables.
 
 For definition of Canal Zone, referred to in subsec. (i), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (i), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (i), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
 
 #### Amendments
 
-1991—Subsec. (f). Pub. L. 102–166, §109(a), inserted at end “With respect to employment in a foreign country,such term includes an individual who is a citizen of the United States.”
+1991—Subsec. (f). Pub. L. 102–166, §109(a), inserted at end “With respect to employment in a foreign country, such term includes an individual who is a citizen of the United States.”
 
 Subsecs. (<i>l</i>) to (n). Pub. L. 102–166, §104, added subsecs. (<i>l</i>) to (n).
 
@@ -152,7 +152,7 @@ Sec. 202. Except in contracts exempted in accordance with Section 204 of this Or
 
 “(5) The contractor will furnish all information and reports required by Executive Order No. 11246 of September 24, 1965, and by the rules, regulations, and orders of the Secretary of Labor, or pursuant thereto, and will permit access to his books, records, and accounts by the contracting agency and the Secretary of Labor for purposes of investigation to ascertain compliance with such rules, regulations, and orders.
 
-“(6) In the event of the contractor's noncompliance with the nondiscrimination clauses of this contract or with any of such rules, regulations, or orders, this contract may be cancelled, terminated or suspended in whole or in part and the contractor may be declared ineligible for further Government contracts in accordance with procedures authorized in Executive Order No. 11246 of Sept. 24, 1965, and such other sanctions may be imposed and remedies invoked as provided in Executive Order No. 11246 of September 24, 1965, or by rule, regulation, or order of the Secretary of Labor, or as otherwise provided by law.
+“(6) In the event of the contractor's noncompliance with the nondiscrimination clauses of this contract orwith any of such rules, regulations, or orders, this contract may be cancelled, terminated or suspended in whole or in part and the contractor may be declared ineligible for further Government contracts in accordance with procedures authorized in Executive Order No. 11246 of Sept. 24, 1965, and such other sanctions may be imposed and remedies invoked as provided in Executive Order No. 11246 of September 24, 1965, or by rule, regulation, or order of the Secretary of Labor, or as otherwise provided by law.
 
 “(7) The contractor will include the provisions of paragraphs (1) through (7) in every subcontract or purchase order unless exempted by rules, regulations, or orders of the Secretary of Labor issued pursuant to Section 204 of Executive Order No. 11246 of September 24, 1965 \[section 204 of this Order\] so that such provisions will be binding upon each subcontractor or vendor. The contractor will take such action with respect to any subcontract or purchase order as may be directed by the Secretary of Labor as a means of enforcing such provisions including sanctions for noncompliance: <i>Provided, however</i>, that in the event the contractor becomes involved in, or is threatened with, litigation with a subcontractor or vendor as a result of such direction, the contractor may request the United States to enter into such litigation to protect the interests of the United States.”
 
@@ -162,7 +162,7 @@ Sec. 203. (a) Each contractor having a contract containing the provisions prescr
 
 (c) Whenever the contractor or subcontractor has a collective bargaining agreement or other contract or understanding with a labor union or an agency referring workers or providing or supervising apprenticeship or training for such workers, the Compliance Report shall include such information as to such labor union's or agency's practices and policies affecting compliance as the Secretary of Labor may prescribe: <i>Provided</i>, That to the extent such information is within the exclusive possession of a labor union or any agency referring workers or providing or supervising apprenticeship or training and such labor union or agency shall refuse to furnish such information to the contractor, the contractor shall so certify to the Secretary of Labor as part of its Compliance Report and shall set forth what efforts he has made to obtain such information.
 
-(d) The Secretary of Labor may direct that any bidder or prospective contractor or subcontractor shall submit, as part of his Compliance Report, a statement in writing, signed by an authorized officer or agent on behalf of any labor union or any agency referring workers or providing or supervising apprenticeship or other training, with which the bidder or prospective contractor deals, with supporting information, to the effect that the signer's practices and policies do not discriminate on the grounds of race, color, religion, sex or national origin, and that the signer either will affirmatively cooperate in the implementation of the policy and provisions of this order or that it consents and agrees that recruitment, employment, and the terms and conditions of employment under the proposed contract shall be in accordance with the purposes and provisions of the order. In the event that the union, or the agency shall refuse to execute such a statement, theCompliance Report shall so certify and set forth what efforts have been made to secure such a statement and such additional factual material as the Secretary of Labor may require.
+(d) The Secretary of Labor may direct that any bidder or prospective contractor or subcontractor shall submit, as part of his Compliance Report, a statement in writing, signed by an authorized officer or agent on behalf of any labor union or any agency referring workers or providing or supervising apprenticeship or other training, with which the bidder or prospective contractor deals, with supporting information, to the effect that the signer's practices and policies do not discriminate on the grounds of race, color, religion, sex or national origin, and that the signer either will affirmatively cooperate in the implementation of the policy and provisions of this order or that it consents and agrees that recruitment, employment, and the terms and conditions of employment under the proposed contract shall be in accordance with the purposes and provisions of the order. In the event that the union, or the agency shall refuse to execute such a statement, the Compliance Report shall so certify and set forth what efforts have been made to secure such a statement and such additional factual material as the Secretary of Labor may require.
 
 Sec. 204. (a) The Secretary of Labor may, when the Secretary deems that special circumstances in the national interest so require, exempt a contracting agency from the requirement of including any or all of the provisions of Section 202 of this Order in any specific contract, subcontract, or purchase order.
 
@@ -206,7 +206,7 @@ Sec. 209. (a) In accordance with such rules, regulations, or orders as the Secre
 
 Sec. 210. Whenever the Secretary of Labor makes a determination under Section 209, the Secretary shall promptly notify the appropriate agency. The agency shall take the action directed by the Secretary and shall report the results of the action it has taken to the Secretary of Labor within such time as the Secretary shall specify. If the contracting agency fails to take the action directed within thirty days, the Secretary may take the action directly.
 
-Sec. 211. If the Secretary of Labor shall so direct, contracting agencies shall not enter into contracts with any bidder or prospective contractor unless the bidder or prospective contractor has satisfactorilycomplied with the provisions of this Order or submits a program for compliance acceptable to the Secretary of Labor.
+Sec. 211. If the Secretary of Labor shall so direct, contracting agencies shall not enter into contracts with any bidder or prospective contractor unless the bidder or prospective contractor has satisfactorily complied with the provisions of this Order or submits a program for compliance acceptable to the Secretary of Labor.
 
 Sec. 212. When a contract has been cancelled or terminated under Section 209(a)(5) or a contractor has been debarred from further Government contracts under Section 209(a)(6) of this Order, because of noncompliance with the contract provisions specified in Section 202 of this Order, the Secretary of Labor shall promptly notify the Comptroller General of the United States.
 
@@ -244,7 +244,7 @@ Sec. 402. The Secretary of Labor shall provide administrative support for the ex
 
 Sec. 403. (a) Executive Orders Nos. 10590 (January 19, 1955), 10722 (August 5, 1957), 10925 (March 6, 1961), 11114 (June 22, 1963), and 11162 (July 28, 1964), are hereby superseded and the President's Committee on Equal Employment Opportunity established by Executive Order No. 10925 is hereby abolished. All records and property in the custody of the Committee shall be transferred to the Civil Service Commission and the Secretary of Labor, as appropriate.
 
-(b) Nothing in this Order shall be deemed to relieve any person of any obligation assumed or imposed under or pursuant to any Executive Order superseded by thisOrder. All rules, regulations, orders, instructions, designations, and other directives issued by the President's Committee on Equal Employment Opportunity and those issued by the heads of various departments or agencies under or pursuant to any of the Executive orders superseded by this Order, shall, to the extent that they are not inconsistent with this Order, remain in full force and effect unless and until revoked or superseded by appropriate authority. References in such directives to provisions of the superseded orders shall be deemed to be references to the comparable provisions of this Order.
+(b) Nothing in this Order shall be deemed to relieve any person of any obligation assumed or imposed under or pursuant to any Executive Order superseded by this Order. All rules, regulations, orders, instructions, designations, and other directives issued by the President's Committee on Equal Employment Opportunity and those issued by the heads of various departments or agencies under or pursuant to any of the Executive orders superseded by this Order, shall, to the extent that they are not inconsistent with this Order, remain in full force and effect unless and until revoked or superseded by appropriate authority. References in such directives to provisions of the superseded orders shall be deemed to be references to the comparable provisions of this Order.
 
 Sec. 404. The General Services Administration shall take appropriate action to revise the standard Government contract forms to accord with the provisions of this Order and of the rules and regulations of the Secretary of Labor.
 
@@ -262,7 +262,7 @@ Sec. 2. The head of each executive department and agency shall establish and mai
 
 Sec. 3. The Equal Employment Opportunity Commission shall be responsible for directing and furthering the implementation of the policy of the Government of the United States to provide equal opportunity in Federal employment for all employees or applicants for employment (except with regard to aliens employed outside the limits of the United States) and to prohibit discrimination in employment because of race, color, religion, sex, national origin, handicap, or age.
 
-Sec. 4. The Equal Employment Opportunity Commission, after consultation with all affected departments and agencies, shall issue such rules, regulations, orders, and instructions and request such information from the affected departments and agencies as it deems necessary and and \[sic\] appropriate to carry out its responsibilities under this Order.
+Sec. 4. The Equal Employment Opportunity Commission, after consultation with all affected departmentsand agencies, shall issue such rules, regulations, orders, and instructions and request such information from the affected departments and agencies as it deems necessary and and \[sic\] appropriate to carry out its responsibilities under this Order.
 
 Sec. 5. All departments and agencies shall cooperate with and assist the Equal Employment Opportunity Commission in the performance of its functions under this Order and shall furnish the Commission such reports and information as it may request. The head of each department or agency shall comply with rules, regulations, orders and instructions issued by the Equal Employment Opportunity Commission pursuant to Section 4 of this Order.
 
@@ -354,7 +354,7 @@ Specific Responsibilities
 
 1–307. (a) It is the intent of this order that disputes between or among agencies concerning matters covered by this order shall be resolved through good faith efforts of the affected agencies to reach mutual agreement. Use of the dispute resolution mechanism contained in Subsections (b) and (c) of this Section should be resorted to only in extraordinary circumstances.
 
-(b) Whenever a dispute which cannot be resolved through good faith efforts arises between the Equal Employment Opportunity Commission and another Federal department or agency concerning the issuance of an equal employment opportunity rule, regulation, policy, procedure, order or any matter covered by this Order, the Chairman of the Equal Employment Opportunity Commission or the head of the affected department or agency may refer the matter to the Executive Office of the President. Such reference must be in writing and may not be made later than 15 working daysfollowing receipt of the initiating agency's notice of intent publicly to announce an equal employment opportunity rule, regulation, policy, procedure or order. If no reference is made within the 15 day period, the decision of the agency which initiated the proposed issuance will become effective.
+(b) Whenever a dispute which cannot be resolved through good faith efforts arises between the Equal Employment Opportunity Commission and another Federal department or agency concerning the issuance of an equal employment opportunity rule, regulation, policy, procedure, order or any matter covered by this Order, the Chairman of the Equal Employment Opportunity Commission or the head of the affected department or agency may refer the matter to the Executive Office of the President. Such reference must be in writing and may not be made later than 15 working days following receipt of the initiating agency's notice of intent publicly to announce an equal employment opportunity rule, regulation, policy, procedure or order. If no reference is made within the 15 day period, the decision of the agency which initiated the proposed issuance will become effective.
 
 (c) Following reference of a disputed matter to the Executive Office of the President, the Assistant to the President for Domestic Affairs and Policy (or such other official as the President may designate) shall designate an official within the Executive Office of the President to meet with the affected agencies to resolve the dispute within a reasonable time.
 
@@ -448,7 +448,7 @@ Sec. 206. (a) The Secretary of Labor may investigate the employment practices of
 
 1–207. The introductory clause in Section 209(a) of Executive Order No. 11246, as amended, is amended by deleting “or the appropriate contracting agency” from “In accordance with such rules, regulations, or orders as the Secretary of Labor may issue or adopt, the Secretary or the appropriate contracting agency may:”.
 
-1–208. In paragraph (5) of Section 209(a) of Executive Order No. 11246, as amended, insert at the beginning thephrase “After consulting with the contracting agency, direct the contracting agency to”, and at the end of paragraph (5) delete “contracting agency” and substitute therefor “Secretary of Labor” so that paragraph (5) is amended to read:
+1–208. In paragraph (5) of Section 209(a) of Executive Order No. 11246, as amended, insert at the beginning the phrase “After consulting with the contracting agency, direct the contracting agency to”, and at the end of paragraph (5) delete “contracting agency” and substitute therefor “Secretary of Labor” so that paragraph (5) is amended to read:
 
 “(5) After consulting with the contracting agency, direct the contracting agency to cancel, terminate, suspend, or cause to be cancelled, terminated, or suspended, any contract, or any portion or portions thereof, for failure of the contractor or subcontractor to comply with equal employment opportunity provisions of the contract. Contracts may be cancelled, terminated, or suspended absolutely or continuance of contracts may be conditioned upon a program for future compliance approved by the Secretary of Labor.”.
 
@@ -584,7 +584,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13171, Oct. 12, 2000, 65 F.R. 61251, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to improve the representation of Hispanics in Federal employment, within merit system principles and consistent with the application of appropriate veterans’ preference criteria, to achieve a Federal workforce drawn from all segments of society, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to improve the representation ofHispanics in Federal employment, within merit system principles and consistent with the application of appropriate veterans’ preference criteria, to achieve a Federal workforce drawn from all segments of society, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. It is the policy of the executive branch to recruit qualified individuals from appropriate sources in an effort to achieve a workforce drawn from all segments of society. Pursuant to this policy, this Administration notes that Hispanics remain underrepresented in the Federal workforce: they make up only 6.4 percent of the Federal civilian workforce, roughly half of their total representation in the civilian labor force. This Executive Order, therefore, affirms ongoing policies and recommends additional policies to eliminate the underpresentation \[sic\] of Hispanics in the Federal workforce.
 
@@ -639,4 +639,98 @@ Sec. 4. <i>Responsibilities of the Office of Personnel Management</i>. The Offic
 Sec. 5. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch. It does not create any right or benefit, substantive or procedural, enforceable in law or equity except as may be identified in existing laws and regulations, by a party against the United States, its agencies, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13506. Establishing a White House Council on Women And Girls
+
+Ex. Ord. No. 13506, Mar. 11, 2009, 74 F.R. 11271, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby order as follows:
+
+Section 1. <i>Policy</i>. Over the past generation, our society has made tremendous progress in eradicating barriers to women's success. A record number of women are attending college and graduate school. Women make up a growing share of our workforce, and more women are corporate executives and business owners than ever before, helping boost the U.S. economy and foster U.S. competitiveness around the world. Today, women are serving at the highest levels of all branches of our Government.
+
+Despite this progress, certain inequalities continue to persist. On average, American women continue to earn only about 78 cents for every dollar men make, and women are still significantly underrepresented in the science, engineering, and technology fields. Far too many women lack health insurance, and many are unable to take time off to care for a new baby or an ailing family member. Violence against women and girls remains a global epidemic. The challenge of ensuring equal educational opportunities for women and girls endures. As the current economic crisis has swept across our Nation, women have been seriously affected.
+
+These issues do not concern just women. When jobs do not offer family leave, that affects men who wish to help care for their families. When women earn less than men for the same work, that affects families who have to work harder to make ends meet. When our daughters do not have the same educational and career opportunities as our sons, that affects entire communities, our economy, and our future as a Nation.
+
+The purpose of this order is to establish a coordinated Federal response to issues that particularly impact the lives of women and girls and to ensure that Federal programs and policies address and take into account the distinctive concerns of women and girls, including women of color and those with disabilities.
+
+Sec. 2. <i>White House Council on Women and Girls</i>. There is established within the Executive Office of the President a White House Council on Women and Girls (Council).
+
+(a) <i>Membership of the Council</i>. The Council shall consist of the following members:
+
+&emsp;(1) the Senior Advisor and Assistant to the President for Intergovernmental Affairs and Public Liaison, who shall serve as Chair of the Council;
+
+&emsp;(2) the Secretary of State;
+
+&emsp;(3) the Secretary of the Treasury;
+
+&emsp;(4) the Secretary of Defense;
+
+&emsp;(5) the Attorney General;
+
+&emsp;(6) the Secretary of the Interior;
+
+&emsp;(7) the Secretary of Agriculture;
+
+&emsp;(8) the Secretary of Commerce;
+
+&emsp;(9) the Secretary of Labor;
+
+&emsp;(10) the Secretary of Health and Human Services;
+
+&emsp;(11) the Secretary of Housing and Urban Development;
+
+&emsp;(12) the Secretary of Transportation;
+
+&emsp;(13) the Secretary of Energy;
+
+&emsp;(14) the Secretary of Education;
+
+&emsp;(15) the Secretary of Veterans Affairs;
+
+&emsp;(16) the Secretary of Homeland Security;
+
+&emsp;(17) the Representative of the United States of America to the United Nations;
+
+&emsp;(18) the United States Trade Representative;
+
+&emsp;(19) the Director of the Office of Management and Budget;
+
+&emsp;(20) the Administrator of the Environmental Protection Agency;
+
+&emsp;(21) the Chair of the Council of Economic Advisers;
+
+&emsp;(22) the Director of the Office of Personnel Management;
+
+&emsp;(23) the Administrator of the Small Business Administration;
+
+&emsp;(24) the Assistant to the President and Director of the Domestic Policy Council;
+
+&emsp;(25) the Assistant to the President for Economic Policy and Director of the National Economic Council; and
+
+&emsp;(26) the heads of such other executive branch departments, agencies, and offices as the President may, from time to time, designate.
+
+A member of the Council may designate, to perform the Council functions of the member, a senior-level official who is a part of the member's department, agency, or office, and who is a full-time officer or employee of the Federal Government. At the direction of the Chair, the Council may establish subgroups consisting exclusively of Council members or their designees under this section, as appropriate.
+
+(b) <i>Administration of the Council</i>. The Department of Commerce shall provide funding and administrative support for the Council to the extent permitted by law and within existing appropriations. The Chair shall convene regular meetings of the Council, determine its agenda, and direct its work. The Chair shall designate an Executive Director of the Council, who shall coordinate the work of the Council and head any staff assigned to the Council.
+
+Sec. 3. <i>Mission and Functions of the Council</i>. The Council shall work across executive departments and agencies to provide a coordinated Federal response to issues that have a distinct impact on the lives of women and girls, including assisting women-owned businesses to compete internationally and working to increase the participation of women in the science, engineering, and technology workforce, and to ensure that Federal programs and policies adequately take those impacts into account. The Council shall be responsible for providing recommendations to the President on the effects of pending legislation and executive branch policy proposals; for suggesting changes to Federal programs or policies to address issues of special importance to women and girls; for reviewing and recommending changes to policies that have a distinct impact on women in the Federal workforce; and for assisting in the development of legislative and policy proposals of special importance to women and girls. The functions of the Council are advisory only.
+
+Sec. 4. <i>Outreach</i>. Consistent with the objectives set out in this order, the Council, in accordance with applicable law, in addition to regular meetings, shall conduct outreach with representatives of nonprofit organizations, State and local government agencies, elected officials, and other interested persons that will assist with the Council's development of a detailed set of recommendations.
+
+Sec. 5. <i>Federal Interagency Plan</i>. The Council shall, within 150 days of the date of this order, develop and submit to the President a Federal interagency plan with recommendations for interagency action consistent with the goals of this order. The Federal interagency plan shall include an assessment by each member executive department, agency, or office of the status and scope of its efforts to further the progress and advancement of women and girls. Such an assessment shall include a report on the status of any offices or programs that have been created to develop, implement, or monitor targeted initiatives concerning women or girls. The Federal interagency plan shall also include recommendations for issues, programs, or initiatives that should be further evaluated or studied by the Council. The Council shall review and update the Federal interagency plan periodically, as appropriate, and shall present to the President any updated recommendations or findings.
+
+Sec. 6. <i>General Provisions</i>. (a) The heads of executive departments and agencies shall assist and provide information to the Council, consistent with applicable law, as may be necessary to carry out the functions of the Council. Each executive department and agency shall bear its own expense for participating in the Council.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+&emsp;(i) authority granted by law to an executive department, agency, or the head thereof; or
+
+&emsp;(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

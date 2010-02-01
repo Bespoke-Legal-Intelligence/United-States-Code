@@ -24,7 +24,7 @@ For the purposes of this subchapter, a textile fiber product shall be considered
 
 #### (d) Additional information allowed
 
-In addition to the information required in this section, the stamp, tag, label, or other means of identification, or advertisement may containother information not violating the provisions of this subchapter.
+In addition to the information required in this section, the stamp, tag, label, or other means of identification, or advertisement may contain other information not violating the provisions of this subchapter.
 
 #### (e) Labelling of packages
 
@@ -52,7 +52,7 @@ For purposes of this subchapter, any textile fiber product shall be misbranded i
 
 #### (k) Marking of certain sock products
 
-(1) Notwithstanding any other provision of law, socks provided for in subheading 6115.92.90, 6115.93.90, 6115.99.18, 6111.20.60, 6111.30.50, or 6111.90.50 of the Harmonized Tariff Schedule of the United States, as in effect on September 1, 2003, shall be marked as legibly, indelibly, and permanently as the nature of the article or package will permit in such a manner as to indicate to the ultimate consumer in the United States the English name of the country of origin of the article. The marking required by this subsection shall be on the front of the package, adjacent to the size designation of the product, and shall be set forth in such a manner as to be clearly legible, conspicuous, and readily accessible to the ultimate consumer.
+(1) Notwithstanding any other provision of law, socks provided for in subheading 6115.92.90, 6115.93.90, 6115.99.18, 6111.20.60, 6111.30.50, or 6111.90.50 of the Harmonized Tariff Schedule of the United States, as in effect on September 1, 2003, shall be marked as legibly, indelibly, and permanently as the nature of the article or package will permit in such a manner as to indicate to the ultimate consumer in the United States the English name of the country of origin of the article. The marking required by this subsection shall be on the front of the package, adjacent to the size designation of the product,and shall be set forth in such a manner as to be clearly legible, conspicuous, and readily accessible to the ultimate consumer.
 
 (2)
 
@@ -64,7 +64,7 @@ Exceptions.—Any package that contains several different types of goods and inc
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (k), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
-The Fur Products Labeling Act, referred to in subsec. (g), is act Aug. 8, 1951, ch. 298, 65 Stat. 175, as amended, which is classified generally to subchapter IV (§69 et seq.) of this chapter. For complete classification of thisAct to the Code, see Short Title note set out under section 69 of this title and Tables.
+The Fur Products Labeling Act, referred to in subsec. (g), is act Aug. 8, 1951, ch. 298, 65 Stat. 175, as amended, which is classified generally to subchapter IV (§69 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 69 of this title and Tables.
 
 #### Amendments
 

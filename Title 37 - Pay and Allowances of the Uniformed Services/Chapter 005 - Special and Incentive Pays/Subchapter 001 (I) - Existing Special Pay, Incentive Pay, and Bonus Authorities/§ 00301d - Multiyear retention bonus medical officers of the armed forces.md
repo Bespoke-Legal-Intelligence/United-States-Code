@@ -64,7 +64,7 @@ Reiterating Ineligibility.—The restriction contained in subsection (b)(2) of s
 
 Savings Provision.—(1) A medical officer of the Armed Forces who is a flag or general officer and has received any payment of a bonus under section 301d of title 37, United States Code, before the date of the enactment of this Act \[Dec. 5, 1991\] may not be required to reimburse the United States for such payment by reason of the enactment of subsection (a).
 
-“(2) A written agreement referred to in section 301d of title 37, United States Code, that was entered into on or after April 10, 1991, and before the date of the enactment of this Act \[Dec. 5, 1991\] by a medical officer of the Armed Forces referred to in paragraph (1) in exchange for a payment (or a promise of payment) of a bonus under that section shall be terminated as of the later of—
+“(2) A written agreement referred to in section 301d of title 37, United States Code, that was entered into on or after April 10, 1991, and before the date of the enactment of this Act \[Dec. 5, 1991\] by a medical officer of the Armed Forces referred to in paragraph (1) in exchange for a payment (or a promise of payment) of abonus under that section shall be terminated as of the later of—
 
 &emsp;“(A) the end of the month following the month in which this Act is enacted; or
 

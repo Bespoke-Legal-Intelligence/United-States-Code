@@ -102,7 +102,7 @@ Accounting of Certain Disclosures.—Each agency, with respect to each system of
 
 &emsp;&emsp;(B) the name and address of the person or agency to whom the disclosure is made;
 
-&emsp;(2) retain the accounting made under paragraph (1) of this subsection for at least fiveyears or the life of the record, whichever is longer, after the disclosure for which the accounting is made;
+&emsp;(2) retain the accounting made under paragraph (1) of this subsection for at least five years or the life of the record, whichever is longer, after the disclosure for which the accounting is made;
 
 &emsp;(3) except for disclosures made under subsection (b)(7) of this section, make the accounting made under paragraph (1) of this subsection available to the individual named in the record at his request; and
 
@@ -218,7 +218,7 @@ Civil Remedies.—Whenever any agency
 
 (B) The court may assess against the United States reasonable attorney fees and other litigation costs reasonably incurred in any case under this paragraph in which the complainant has substantially prevailed.
 
-(3)(A) In any suit brought under the provisions of subsection (g)(1)(B) of this section, the court may enjoin the agency from withholding therecords and order the production to the complainant of any agency records improperly withheld from him. In such a case the court shall determine the matter de novo, and may examine the contents of any agency records in camera to determine whether the records or any portion thereof may be withheld under any of the exemptions set forth in subsection (k) of this section, and the burden is on the agency to sustain its action.
+(3)(A) In any suit brought under the provisions of subsection (g)(1)(B) of this section, the court may enjoin the agency from withholding the records and order the production to the complainant of any agency records improperly withheld from him. In such a case the court shall determine the matter de novo, and may examine the contents of any agency records in camera to determine whether the records or any portion thereof may be withheld under any of the exemptions set forth in subsection (k) of this section, and the burden is on the agency to sustain its action.
 
 (B) The court may assess against the United States reasonable attorney fees and other litigation costs reasonably incurred in any case under this paragraph in which the complainant has substantially prevailed.
 
@@ -258,7 +258,7 @@ Specific Exemptions.—The head of any agency may promulgate rules, in accordanc
 
 &emsp;(1) subject to the provisions of section 552(b)(1) of this title;
 
-&emsp;(2) investigatory material compiled for law enforcement purposes, other than material within the scope of subsection (j)(2) of this section: <i>Provided, however</i>, That if any individual is denied any right, privilege, or benefit that he would otherwise be entitled by Federal law, or for which he would otherwise be eligible, as a result of the maintenance of such material, such material shall be provided to such individual, except to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the Government under an express promise that the identity of the source would be held in confidence, or, prior to the effective date ofthis section, under an implied promise that the identity of the source would be held in confidence;
+&emsp;(2) investigatory material compiled for law enforcement purposes, other than material within the scope of subsection (j)(2) of this section: <i>Provided, however</i>, That if any individual is denied any right, privilege, or benefit that he would otherwise be entitled by Federal law, or for which he would otherwise be eligible, as a result of the maintenance of such material, such material shall be provided to such individual, except to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the Government under an express promise that the identity of the source would be held in confidence, or, prior to the effective date of this section, under an implied promise that the identity of the source would be held in confidence;
 
 &emsp;(3) maintained in connection with providing protective services to the President of the United States or other individuals pursuant to section 3056 of title 18;
 
@@ -602,7 +602,7 @@ Section 8 of Pub. L. 93–579 provided that: “The provisions of this Act \[ena
 
 #### Short Title of 1990 Amendment
 
-Section 7201(a) of Pub. L. 101–508 provided that: “This section \[amending this section and enacting provisionsset out as notes below\] may be cited as the ‘Computer Matching and Privacy Protection Amendments of 1990’.”
+Section 7201(a) of Pub. L. 101–508 provided that: “This section \[amending this section and enacting provisions set out as notes below\] may be cited as the ‘Computer Matching and Privacy Protection Amendments of 1990’.”
 
 #### Short Title of 1989 Amendment
 
@@ -688,7 +688,7 @@ Section 2 of Pub. L. 93–579 provided that:
 
 &emsp;“(3) permit an individual to gain access to information pertaining to him in Federal agency records, to have a copy made of all or any portion thereof, and to correct or amend such records;
 
-&emsp;“(4) collect, maintain, use, or disseminate any record of identifiable personal information in a manner that assures that such action is for a necessary and lawful purpose, that the information is current and accurate for its intended use, and that adequate safeguards are provided to prevent misuse of such information;
+&emsp;“(4) collect, maintain, use, or disseminate any record of identifiable personal information in a manner that assures that such action is for a necessary and lawful purpose, that the information is current and accurate for its intended use, and that adequatesafeguards are provided to prevent misuse of such information;
 
 &emsp;“(5) permit exemptions from the requirements with respect to records provided in this Act only in those cases where there is an important public policy need for such exemption as has been determined by specific statutory authority; and
 
@@ -752,7 +752,7 @@ NOW, THEREFORE, by virtue of the authority vested in me as President of the Unit
 
 #### Classified National Security Information
 
-For provisions relating to a response to a request for information under this section when the fact of its existence or nonexistence is itself classified or when it was originally classified by another agency, see Ex. Ord. No. 12958, §3.7, Apr. 17, 1995, 60 F.R. 19835, set out as a note under section 435 of Title 50, War and National Defense.
+For provisions relating to a response to a request for information under this section when the fact of its existence or nonexistence is itself classified or when it was originally classified by another agency, see Ex. Ord. No. 13526, §3.6, Dec. 29, 2009, 75 F.R. 718, set out as a note under section 435 of Title 50, War and National Defense.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

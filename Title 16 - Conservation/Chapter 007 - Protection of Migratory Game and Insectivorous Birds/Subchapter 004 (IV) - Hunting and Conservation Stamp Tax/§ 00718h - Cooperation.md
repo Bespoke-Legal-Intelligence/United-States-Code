@@ -1,6 +1,6 @@
 ### §718h. Cooperation
 
-The Secretary is authorized to cooperate with the States and the territories and possessions of the United States in the enforcement of this subchapter.
+The Secretary is authorized to cooperate with the States and the territories and possessions ofthe United States in the enforcement of this subchapter.
 
 (Mar. 16, 1934, ch. 71, §8, as added Pub. L. 109–266, §10(h), Aug. 3, 2006, 120 Stat. 678.)
 

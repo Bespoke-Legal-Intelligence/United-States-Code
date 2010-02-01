@@ -32,7 +32,7 @@ Pub. L. 105–392, §401(a)(2), amended directory language of Pub. L. 103–183.
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 401(a)(2) of Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183, see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
+Amendment by section 401(a)(2) of Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183, see section 401(e) of Pub. L.105–392, set out as a note under section 242m of this title.
 
 #### Effective Date of 1992 Amendment
 

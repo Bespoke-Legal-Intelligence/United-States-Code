@@ -114,7 +114,7 @@ Funds Available to United States Coast Guard.—
 
 &emsp;&emsp;(B) pay for equipment for any vessel, vehicle, equipment, or aircraft available for official use by a State or local law enforcement agency to enable the vessel, vehicle, or aircraft to assist in law enforcement functions if the vessel, vehicle, or aircraft will be used in joint law enforcement operations with the United States Coast Guard;
 
-&emsp;&emsp;(C) pay for overtime salaries, travel, fuel, training, equipment, and other similar costs of State and local law enforcement officersthat are incurred in joint law enforcement operations with the United States Coast Guard;
+&emsp;&emsp;(C) pay for overtime salaries, travel, fuel, training, equipment, and other similar costs of State and local law enforcement officers that are incurred in joint law enforcement operations with the United States Coast Guard;
 
 &emsp;&emsp;(D) pay for expenses incurred in bringing vessels into compliance with applicable environmental laws prior to disposal by sinking.
 
@@ -196,7 +196,7 @@ Appropriations.—
 
 &emsp;(3)(A) Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.<sup>7</sup>
 
-&emsp;(B) Transfers pursuant to subparagraph (A) shall be made only from excess unobligatedamounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
+&emsp;(B) Transfers pursuant to subparagraph (A) shall be made only from excess unobligated amounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
 
 &emsp;(C) The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992, and such amount shall be transferred to the Fund on October 1, 1992, or, if later, the date that is 15 days after the date of the enactment of this section. Such amount shall be available for any expenses or activities authorized under this section. At the end of fiscal year <sup>8</sup> 1993, 1994, 1995, and 1996, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year. At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a). Unobligated balances remaining pursuant to section 4(B) of 9703(g) <sup>9</sup> shall also be carried forward.
 
@@ -310,7 +310,7 @@ The date of the enactment of this section, referred to in subsec. (g)(3)(C), is 
 
 Subparagraph (A)(ii), referred to in subsec. (g)(4)(B), means cl. (ii) of subsec. (g)(4)(A) which was repealed by Pub. L. 103–322, title IX, §90205(c)(2)(B), Sept. 13, 1994, 108 Stat. 1995.
 
-Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (h)(2)(C), was classified to section 2291(h) of Title 22, Foreign Relations and Intercourse, prior to repeal of subsec. (h) by Pub. L. 102–583, §6(b)(2), Nov. 2, 1992, 106 Stat. 4932. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably should be to section 490(a)(1) of the Act, which is classified to section 2291j(a)(1) of Title 22.
+Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (h)(2)(C), was classified to section2291(h) of Title 22, Foreign Relations and Intercourse, prior to repeal of subsec. (h) by Pub. L. 102–583, §6(b)(2), Nov. 2, 1992, 106 Stat. 4932. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably should be to section 490(a)(1) of the Act, which is classified to section 2291j(a)(1) of Title 22.
 
 The effective date of the Treasury Forfeiture Act of 1992, referred to in subsec. (j)(2), probably means the date of enactment of the Treasury Forfeiture Fund Act of 1992, section 638 of Pub. L. 102–393, which was approved Oct. 6, 1992.
 

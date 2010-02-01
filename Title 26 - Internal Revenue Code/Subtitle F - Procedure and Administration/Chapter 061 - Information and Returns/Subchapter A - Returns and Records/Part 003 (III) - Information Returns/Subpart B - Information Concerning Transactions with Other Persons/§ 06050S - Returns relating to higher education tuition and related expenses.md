@@ -86,7 +86,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 Subsec. (b)(1). Pub. L. 107–131, §1(b)(1), inserted “and” at end.
 
-Subsec. (b)(2)(A). Pub. L. 107–131, §1(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “the name, address, and TIN of the individual with respect to whom payments or interest described in subsection (a) were received from (or were paid to),”.
+Subsec. (b)(2)(A). Pub. L. 107–131, §1(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the name, address, and TIN of the individual with respect to whom payments or interest described in subsection (a) were received from (or were paid to),”.
 
 Subsec. (b)(2)(B). Pub. L. 107–131, §1(b)(4), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the—
 

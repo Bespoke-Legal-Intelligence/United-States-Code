@@ -40,7 +40,7 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 &emsp;For purposes of this subsection, the term “eligible student” means, with respect to any academic period, a student who—
 
-&emsp;&emsp;(A) meets the requirements of section 484(a)(1) of the Higher Education Act of 1965 (20 U.S.C. 1091(a)(1)), as in effect on the date of the enactment of this section, and
+&emsp;&emsp;(A) meets the requirements of section 484(a)(1) of the Higher Education Act of 1965\(20 U.S.C. 1091(a)(1)), as in effect on the date of the enactment of this section, and
 
 &emsp;&emsp;(B) is carrying at least 1/2 the normal full-time work load for the course of study the student is pursuing.
 
@@ -162,7 +162,7 @@ For purposes of this section—
 
 #### (7) Nonresident aliens
 
-&emsp;If the taxpayer is a nonresident alien individual for any portion of the taxable year, this section shall apply only if such individual is treated as a resident alien of the United States for purposes of this chapter by reasonof an election under subsection (g) or (h) of section 6013.
+&emsp;If the taxpayer is a nonresident alien individual for any portion of the taxable year, this section shall apply only if such individual is treated as a resident alien of the United States for purposes of this chapter by reason of an election under subsection (g) or (h) of section 6013.
 
 #### (h) Inflation adjustments
 
@@ -194,11 +194,61 @@ For purposes of this section—
 
 &emsp;&emsp;If any amount as adjusted under subparagraph (A) is not a multiple of $1,000, such amount shall be rounded to the next lowest multiple of $1,000.
 
-#### (i) Regulations
+#### (i) American opportunity tax credit
+
+In the case of any taxable year beginning in 2009 or 2010—
+
+#### (1) Increase in credit
+
+&emsp;The Hope Scholarship Credit shall be an amount equal to the sum of—
+
+&emsp;&emsp;(A) 100 percent of so much of the qualified tuition and related expenses paid by the taxpayer during the taxable year (for education furnished to the eligible student during any academic period beginning in such taxable year) as does not exceed $2,000, plus
+
+&emsp;&emsp;(B) 25 percent of such expenses so paid as exceeds $2,000 but does not exceed $4,000.
+
+#### (2) Credit allowed for first 4 years of post-secondary education
+
+&emsp;Subparagraphs (A) and (C) of subsection (b)(2) shall be applied by substituting “4” for “2”.
+
+#### (3) Qualified tuition and related expenses to include required course materials
+
+&emsp;Subsection (f)(1)(A) shall be applied by substituting “tuition, fees, and course materials” for “tuition and fees”.
+
+#### (4) Increase in AGI limits for Hope Scholarship Credit
+
+&emsp;In lieu of applying subsection (d) with respect to the Hope Scholarship Credit, such credit (determined without regard to this paragraph) shall be reduced (but not below zero) by the amount which bears the same ratio to such credit (as so determined) as—
+
+&emsp;&emsp;(A) the excess of—
+
+&emsp;&emsp;&emsp;(i) the taxpayer's modified adjusted gross income (as defined in subsection (d)(3)) for such taxable year, over
+
+&emsp;&emsp;&emsp;(ii) $80,000 ($160,000 in the case of a joint return), bears to
+
+&emsp;&emsp;(B) $10,000 ($20,000 in the case of a joint return).
+
+#### (5) Credit allowed against alternative minimum tax
+
+&emsp;In the case of a taxable year to which section 26(a)(2) does not apply, so much of the credit allowed under subsection (a) as is attributable to the Hope Scholarship Credit shall not exceed the excess of—
+
+&emsp;&emsp;(A) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
+
+&emsp;&emsp;(B) the sum of the credits allowable under this subpart (other than this subsection and sections 23, 25D, and 30D) and section 27 for the taxable year.
+
+> &emsp;Any reference in this section or section 24, 25, 26, 25B, 904, or 1400C to a credit allowable under this subsection shall be treated as a reference to so much of the credit allowable under subsection (a) as is attributable to the Hope Scholarship Credit.
+
+#### (6) Portion of credit made refundable
+
+&emsp;40 percent of so much of the credit allowed under subsection (a) as is attributable to the Hope Scholarship Credit (determined after application of paragraph (4) and without regard to this paragraph and section 26(a)(2) or paragraph (5), as the case may be) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year if such taxpayer is a child to whom subsection (g) of section 1 applies for such taxable year.
+
+#### (7) Coordination with midwestern disaster area benefits
+
+&emsp;In the case of a taxpayer with respect to whom section 702(a)(1)(B) of the Heartland Disaster Tax Relief Act of 2008 applies for any taxable year, such taxpayer may elect to waive the application of this subsection to such taxpayer for such taxable year.
+
+#### (j) Regulations
 
 The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations providing for a recapture of the credit allowed under this section in cases where there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit.
 
-(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59.)
+(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59; Pub. L. 111–5, div. B, title I, §1004(a), Feb. 17, 2009, 123 Stat. 313.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -214,7 +264,11 @@ The date of the enactment of this section, referred to in subsecs. (b)(3)(A) and
 
 The Higher Education Act of 1965, referred to in subsec. (f)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
+Section 702(a)(1)(B) of the Heartland Disaster Tax Relief Act of 2008, referred to in subsec. (i)(7), is section 702(a)(1)(B) of Pub. L. 110–343, div. C, title VII, Oct. 3, 2008, 122 Stat. 3912, which is not classified to the Code.
+
 #### Amendments
+
+2009—Subsecs. (i), (j). Pub. L. 111–5 added subsec. (i) and redesignated former subsec. (i) as (j).
 
 2001—Subsec. (e). Pub. L. 107–16, §§401(g)(2)(A), 901, temporarily amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
 
@@ -227,6 +281,10 @@ In general.—No credit shall be allowed under subsection (a) for a taxable year
 Coordination with exclusions.—An election under this subsection shall not take effect with respect to an individual for any taxable year if any portion of any distribution during such taxable year from an education individual retirement account is excluded from gross income under section 530(d)(2).”
 
 > See Effective and Termination Dates of 2001 Amendment note below.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1004(d) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
 
 #### Effective and Termination Dates of 2001 Amendment
 
@@ -245,4 +303,40 @@ In general.—The amendments made by this section \[enacting this section and se
 “(2)
 
 Lifetime learning credit.—Section 25A(a)(2) of the Internal Revenue Code of 1986 shall apply to expenses paid after June 30, 1998 (in taxable years ending after such date), for education furnished in academic periods beginning after such dates.”
+
+#### Treatment of Possessions
+
+Pub. L. 111–5, div. B, title I, §1004(c), Feb. 17, 2009, 123 Stat. 314, provided that:
+
+“(1)
+
+Payments to possessions.—
+
+&emsp;“(A)
+
+Mirror code possession.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of section 25A(i)(6) of the Internal Revenue Code of 1986 (as added by this section) with respect to taxable years beginning in 2009 and 2010. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
+
+&emsp;“(B)
+
+Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the application of section 25A(i)(6) of such Code (as so added) for taxable years beginning in 2009 and 2010 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to the residents of such possession.
+
+“(2)
+
+Coordination with credit allowed against united states income taxes.—Section 25A(i)(6) of such Code (as added by this section) shall not apply to a bona fide resident of any possession of the United States.
+
+“(3)
+
+Definitions and special rules.—
+
+&emsp;“(A)
+
+Possession of the united states.—For purposes of this subsection, the term ‘possession of the United States’ includes the Commonwealth of Puerto Rico and the Commonwealth of the Northern Mariana Islands.
+
+&emsp;“(B)
+
+Mirror code tax system.—For purposes of this subsection, the term ‘mirror code tax system’ means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
+
+&emsp;“(C)
+
+Treatment of payments.—For purposes of section 1324(b)(2) of title 31, United States Code, the payments under this subsection shall be treated in the same manner as a refund due from the credit allowed under section 25A of the Internal Revenue Code of 1986 by reason of subsection (i)(6) of such section (as added by this section).”
 

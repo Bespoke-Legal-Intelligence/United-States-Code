@@ -48,5 +48,5 @@ For the purposes of this section—
 
 #### Prior Provisions
 
-A prior section 1621d, Pub. L. 94–437, title II, §205, as added Pub. L. 100–713, title II, §203(c), Nov. 23, 1988, 102 Stat. 4807, related to Native Hawaiian health promotion and disease prevention, prior to repeal by Pub. L. 100–579, §14, formerly §10, Oct. 31, 1988, 102 Stat. 2923; Pub. L. 100–690, title II, §2310, Nov. 18, 1988, 102 Stat. 4229; renumbered §14, Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948. See section 11701 et seq. of Title 42, The Public Health and Welfare.
+A prior section 1621d, Pub. L. 94–437, title II, §205, as added Pub. L. 100–713, title II, §203(c), Nov. 23, 1988, 102Stat. 4807, related to Native Hawaiian health promotion and disease prevention, prior to repeal by Pub. L. 100–579, §14, formerly §10, Oct. 31, 1988, 102 Stat. 2923; Pub. L. 100–690, title II, §2310, Nov. 18, 1988, 102 Stat. 4229; renumbered §14, Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948. See section 11701 et seq. of Title 42, The Public Health and Welfare.
 

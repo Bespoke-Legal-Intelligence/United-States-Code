@@ -88,7 +88,7 @@ For purposes of this section the following definitions shall apply:
 
 #### (2) Metropolitan area
 
-&emsp;The term “metropolitan area” means any primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area, as defined by the Director of the Office of Management and Budget, with a population of 250,000 or more, and any other area designated as such by the appropriate Federal financial supervisory agency.
+&emsp;The term “metropolitan area” means any primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area, as defined by the Director of the Office of Management and Budget, with a population of 250,000 or more,and any other area designated as such by the appropriate Federal financial supervisory agency.
 
 #### (3) State
 

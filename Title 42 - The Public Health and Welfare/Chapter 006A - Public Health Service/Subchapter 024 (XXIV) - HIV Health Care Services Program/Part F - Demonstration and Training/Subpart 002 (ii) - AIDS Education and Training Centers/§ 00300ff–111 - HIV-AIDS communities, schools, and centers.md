@@ -60,17 +60,13 @@
 
 #### (1) Schools; centers
 
-&emsp;For the purpose of awarding grants under subsection (a), there is authorized to be appropriated $34,700,000 for each of the fiscal years 2007 through 2009.
+&emsp;For the purpose of awarding grants under subsection (a), there are authorized to be appropriated $34,700,000 for each of the fiscal years 2007 through 2009, $36,535,000 for fiscal year 2010, $38,257,000 for fiscal year 2011, $40,170,000 for fiscal year 2012, and $42,178,000 for fiscal year 2013.
 
 #### (2) Dental schools
 
-&emsp;For the purpose of awarding grants under subsection (b), there is authorized to be appropriated $13,000,000 for each of the fiscal years 2007 through 2009.
+&emsp;For the purpose of awarding grants under subsection (b), there are authorized to be appropriated $13,000,000 for each of the fiscal years 2007 through 2009, $13,650,000 for fiscal year 2010, $14,333,000 for fiscal year 2011, $15,049,000 for fiscal year 2012, and $15,802,000 for fiscal year 2013.
 
-(July 1, 1944, ch. 373, title XXVI, §2692, formerly title VII, §776, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2050; amended Pub. L. 102–531, title III, §313(a)(4), Oct. 27, 1992, 106 Stat. 3507; renumbered title XXVI, §2692, and amended Pub. L. 104–146, §3(h), May 20, 1996, 110 Stat. 1363; Pub. L. 104–166, §5(2), July 29, 1996, 110 Stat. 1449; Pub. L. 106–345, title IV, §402(a)(1), (b), (c), Oct. 20, 2000, 114 Stat. 1348, 1349; Pub. L. 109–415, title VI, §602, title VII, §702(3), Dec. 19, 2006, 120 Stat. 2817, 2820.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2692, formerly title VII, §776, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2050; amended Pub. L. 102–531, title III, §313(a)(4), Oct. 27, 1992, 106 Stat. 3507; renumbered title XXVI, §2692, and amended Pub. L. 104–146, §3(h), May 20, 1996, 110 Stat. 1363; Pub. L. 104–166, §5(2), July 29, 1996, 110 Stat. 1449; Pub. L. 106–345, title IV, §402(a)(1), (b), (c), Oct. 20, 2000, 114 Stat. 1348, 1349; Pub. L. 109–415, title VI, §602, title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2817, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), (f)(1), Oct. 30, 2009, 123 Stat. 2885, 2886.)
 
 #### Codification
 
@@ -78,7 +74,15 @@ Section was formerly classified to section 294n of this title prior to renumberi
 
 #### Amendments
 
-2006—Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing in text.
+2009—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+Subsec. (c)(1). Pub. L. 111–87, §2(f)(1)(A), substituted “are authorized” for “is authorized” and inserted “, $36,535,000 for fiscal year 2010, $38,257,000 for fiscal year 2011, $40,170,000 for fiscal year 2012, and $42,178,000 for fiscal year 2013” before period at end.
+
+Subsec. (c)(2). Pub. L. 111–87, §2(f)(1)(B), substituted “are authorized” for “is authorized” and inserted “, $13,650,000 for fiscal year 2010, $14,333,000 for fiscal year 2011, $15,049,000 for fiscal year 2012, and $15,802,000 for fiscal year 2013” before period at end.
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing in text.
 
 Subsec. (a)(2)(A). Pub. L. 109–415, §602(a)(1)(A), inserted “and Native Americans” after “minority individuals”.
 
@@ -110,7 +114,7 @@ Subsec. (a)(1)(B). Pub. L. 104–146, §3(h)(2)(B)(iv), inserted “and” after
 
 Pub. L. 104–146, §3(h)(2)(B)(i), (ii), redesignated subpar. (A) as (B) and struck out former subpar. (B) which read as follows: “to train practitioners to provide for the health care needs of such individuals;”.
 
-Subsec. (a)(1)(C), (D). Pub. L. 104–146, §3(h)(2)(B)(i), (ii), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “with respect to improving clinical skills in the diagnosis, treatment, and prevention of such disease, to educate and train the health professionals and clinical staff of schools of medicine, osteopathic medicine, and dentistry; and”.
+Subsec. (a)(1)(C), (D). Pub. L. 104–146, §3(h)(2)(B)(i), (ii), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “with respectto improving clinical skills in the diagnosis, treatment, and prevention of such disease, to educate and train the health professionals and clinical staff of schools of medicine, osteopathic medicine, and dentistry; and”.
 
 Subsec. (c). Pub. L. 104–166, §5(2)(B), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “For purposes of this section:
 
@@ -133,6 +137,10 @@ Dental schools.—For the purpose of grants under subsection (b) of this section
 Pub. L. 104–146, §3(h)(4), added subsec. (d) relating to authorization of appropriations for fiscal years 1996 through 2000.
 
 1992—Subsec. (a)(3). Pub. L. 102–531, which directed the substitution of “No grant” for “no grant” in par. (3), could not be executed because the words “no grant” did not appear in par. (3).
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by section 2(f)(1) of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 1996 Amendment
 

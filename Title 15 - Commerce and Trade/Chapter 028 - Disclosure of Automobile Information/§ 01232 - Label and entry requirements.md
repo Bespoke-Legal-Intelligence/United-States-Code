@@ -28,7 +28,7 @@ Every manufacturer of new automobiles distributed in commerce shall, prior to th
 
 &emsp;&emsp;(2) refers to frontal impact crash tests, side impact crash tests, and rollover resistance tests (whether or not such automobile has been assigned a safety rating for such tests);
 
-&emsp;&emsp;(3) contains information describing the nature and meaning of the crash test data presented and a reference to additional vehicle safety resources, including http://www.safecar.gov; and
+&emsp;&emsp;(3) contains information describing the nature and meaning of the crash test data presented and a reference to additional vehiclesafety resources, including http://www.safecar.gov; and
 
 &emsp;&emsp;(4) is presented in a legible, visible, and prominent fashion and covers at least—
 

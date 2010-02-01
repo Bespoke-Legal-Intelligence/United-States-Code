@@ -12,7 +12,7 @@ Based on title 18, U.S.C., 1940 ed., §§753h, 909 (May 14, 1930, ch. 274, §9, 
 
 Sections 753h and 909 of title 18, U.S.C., 1940 ed., were consolidated. Section 753h is later and more comprehensive. The substance of its provisions was adopted.
 
-References to offenses as felonies or misdemeanors were omitted in view of definitive section 1 of this title. (See also reviser's notes under section 550 of this title.)
+References to offenses as felonies or misdemeanors were omitted in view of definitive section 1 of thistitle. (See also reviser's notes under section 550 of this title.)
 
 Mandatory provision as to separate sentences and order of service was omitted in order to permit court to exercise discretion as to whether sentences should be concurrent or consecutive and to obviate administration problems in enforcement of section.
 

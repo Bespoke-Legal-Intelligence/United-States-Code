@@ -11,6 +11,7 @@ Part H—Miscellaneous Provisions
 - [&sect; 00452 - Reorganization](%C2%A7%2000452%20-%20Reorganization.md)
 - [&sect; 00453 - Use of appropriated funds](%C2%A7%2000453%20-%20Use%20of%20appropriated%20funds.md)
 - [&sect; 00453a - Additional uses of appropriated funds](%C2%A7%2000453a%20-%20Additional%20uses%20of%20appropriated%20funds.md)
+- [&sect; 00453b - Requirement to buy certain items related to national security interests from American sources; exceptions](%C2%A7%2000453b%20-%20Requirement%20to%20buy%20certain%20items%20related%20to%20national%20security%20interests%20from%20American%20sources%3B%20exceptions.md)
 - [&sect; 00454 - Future Years Homeland Security Program](%C2%A7%2000454%20-%20Future%20Years%20Homeland%20Security%20Program.md)
 - [&sect; 00455 - Miscellaneous authorities](%C2%A7%2000455%20-%20Miscellaneous%20authorities.md)
 - [&sect; 00456 - Military activities](%C2%A7%2000456%20-%20Military%20activities.md)
@@ -32,4 +33,5 @@ Part H—Miscellaneous Provisions
 - [&sect; 00467 - Coordination with the Department of Health and Human Services under the Public Health Service Act](%C2%A7%2000467%20-%20Coordination%20with%20the%20Department%20of%20Health%20and%20Human%20Services%20under%20the%20Public%20Health%20Service%20Act.md)
 - [&sect; 00468 - Preserving Coast Guard mission performance](%C2%A7%2000468%20-%20Preserving%20Coast%20Guard%20mission%20performance.md)
 - [&sect; 00469 - Fees for credentialing and background investigations in transportation](%C2%A7%2000469%20-%20Fees%20for%20credentialing%20and%20background%20investigations%20in%20transportation.md)
+- [&sect; 00469a - Collection of fees from non-Federal participants in meetings](%C2%A7%2000469a%20-%20Collection%20of%20fees%20from%20non-Federal%20participants%20in%20meetings.md)
 - [&sect; 00470 - Disclosures regarding homeland security grants](%C2%A7%2000470%20-%20Disclosures%20regarding%20homeland%20security%20grants.md)

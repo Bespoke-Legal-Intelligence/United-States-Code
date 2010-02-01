@@ -10,7 +10,7 @@
 
 #### (A) Leave not treated as withdrawal
 
-&emsp;&emsp;In the case of a student who takes 1 or more leaves of absence from an institution for not more than a total of 180 days in any 12-month period, the institution may consider the student as not having withdrawn from the institution during the leave of absence, and not calculate the amount of grant and loan assistance provided under this subchapter and part C of subchapter I of chapter 34 of title 42 that is to be returned in accordance with this section if—
+&emsp;&emsp;In the case of a student who takes 1 or more leaves of absence from an institutionfor not more than a total of 180 days in any 12-month period, the institution may consider the student as not having withdrawn from the institution during the leave of absence, and not calculate the amount of grant and loan assistance provided under this subchapter and part C of subchapter I of chapter 34 of title 42 that is to be returned in accordance with this section if—
 
 &emsp;&emsp;&emsp;(i) the institution has a formal policy regarding leaves of absence;
 
@@ -52,7 +52,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;After determining the eligibility of the student for a late disbursement or post-withdrawal disbursement (as required in regulations prescribed by the Secretary), the institution of higher education shall contact the borrower and obtain confirmation that the loan funds are still required by the borrower. In making such contact, the institution shall explain to the borrower the borrower'sobligation to repay the funds following any such disbursement. The institution shall document in the borrower's file the result of such contact and the final determination made concerning such disbursement.
+&emsp;&emsp;After determining the eligibility of the student for a late disbursement or post-withdrawal disbursement (as required in regulations prescribed by the Secretary), the institution of higher education shall contact the borrower and obtain confirmation that the loan funds are still required by the borrower. In making such contact, the institution shall explain to the borrower the borrower's obligation to repay the funds following any such disbursement. The institution shall document in the borrower's file the result of such contact and the final determination made concerning such disbursement.
 
 #### (B) Return
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(i) the total institutional charges incurred by the student for the payment period or period of enrollment for which such assistance was awarded; multiplied by
 
-&emsp;&emsp;&emsp;(ii) the percentage of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42 that has not been earned by the student, as described in subsection (a)(3)(C)(i) of this section.
+&emsp;&emsp;&emsp;(ii) the percentage of grant and loan assistance awarded under this subchapterand part C of subchapter I of chapter 34 of title 42 that has not been earned by the student, as described in subsection (a)(3)(C)(i) of this section.
 
 #### (2) Responsibility of the student
 
@@ -128,7 +128,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Excess funds returned by the institution or the student, as appropriate, in accordance with paragraph (1) or (2), respectively, shall be credited to outstanding balances on loans made under this subchapter and part C of subchapter I of chapter 34 of title 42 to the student or on behalf of the student for the payment period or period of enrollment forwhich a return of funds is required. Such excess funds shall be credited in the following order:
+&emsp;&emsp;Excess funds returned by the institution or the student, as appropriate, in accordance with paragraph (1) or (2), respectively, shall be credited to outstanding balances on loans made under this subchapter and part C of subchapter I of chapter 34 of title 42 to the student or on behalf of the student for the payment period or period of enrollment for which a return of funds is required. Such excess funds shall be credited in the following order:
 
 &emsp;&emsp;&emsp;(i) To outstanding balances on loans made under section 1078–8 of this title for the payment period or period of enrollment for which a return of funds is required.
 
@@ -214,7 +214,7 @@ Subsec. (d). Pub. L. 109–171, §8022(7), (8), in introductory provisions, subs
 
 &emsp;“(A) completed by the student in that period as of the day the student withdrew; or
 
-&emsp;“(B) scheduled to be completed as of the day the student withdrew, if the clock hours completed in the period are not less than a percentage, to be determined by the Secretary in regulations, of the hours that were scheduled to be completed by the student in the period.”
+&emsp;“(B) scheduled to be completed as of the day the student withdrew, if the clock hours completed in theperiod are not less than a percentage, to be determined by the Secretary in regulations, of the hours that were scheduled to be completed by the student in the period.”
 
 2005—Subsec. (b)(2)(D). Pub. L. 109–66 added subpar. (D).
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) The term “overlap agent or toxin” means a biological agent or toxin that—
 
-&emsp;&emsp;&emsp;(i) is listed pursuant to section 315A(a)(1) <sup>1</sup> of the Public Health ServiceAct \[42 U.S.C. 262a(a)(1)\], as added by section 201 of this Act; and
+&emsp;&emsp;&emsp;(i) is listed pursuant to section 315A(a)(1) <sup>1</sup> of the Public Health Service Act \[42 U.S.C. 262a(a)(1)\], as added by section 201 of this Act; and
 
 &emsp;&emsp;&emsp;(ii) is listed pursuant to section 212(a)(1) of this Act \[7 U.S.C. 8401(a)(1)\].
 
@@ -36,7 +36,7 @@ In carrying out the section 351A program and the section 212 program, the Secret
 
 #### (1) In general
 
-&emsp;Promptly after June 12, 2002, the Secretary of Agriculture and the Secretary of Health and Human Services shall enter into a memorandum of understanding regarding overlap agents and toxins that is in accordance with paragraphs (2) through (4) and contains such additional provisions as the Secretary of Agriculture and the Secretary of Health and Human Services determine to be appropriate.
+&emsp;Promptly after June 12, 2002, the Secretary of Agriculture and the Secretary of Health andHuman Services shall enter into a memorandum of understanding regarding overlap agents and toxins that is in accordance with paragraphs (2) through (4) and contains such additional provisions as the Secretary of Agriculture and the Secretary of Health and Human Services determine to be appropriate.
 
 #### (2) Single registration system regarding registered persons
 
@@ -72,7 +72,7 @@ In carrying out the section 351A program and the section 212 program, the Secret
 
 #### (5) Date certain for implementation
 
-&emsp;The memorandum of understanding under paragraph (1) shall be implemented not laterthan 180 days after June 12, 2002. Until the single system of registration under paragraph (2) is implemented, persons who possess, use, or transfer overlap agents or toxins shall register under both the section 351A program and the section 212 program.
+&emsp;The memorandum of understanding under paragraph (1) shall be implemented not later than 180 days after June 12, 2002. Until the single system of registration under paragraph (2) is implemented, persons who possess, use, or transfer overlap agents or toxins shall register under both the section 351A program and the section 212 program.
 
 #### (d) Joint regulations
 

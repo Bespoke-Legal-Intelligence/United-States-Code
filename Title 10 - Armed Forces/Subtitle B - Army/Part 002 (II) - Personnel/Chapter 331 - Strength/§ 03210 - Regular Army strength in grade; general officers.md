@@ -1,6 +1,6 @@
 ### §3210. Regular Army: strength in grade; general officers
 
-(a) Subject to section 526 of this title, the authorized strength of the Regular Army in general officers on the active-duty list is 75/10,000 of the authorized strength of the Regular Army in commission officers on the active-duty list.
+(a) Subject to section 526 of this title, the authorized strength of the Regular Army in general officers on the active-duty list is 75/10,000 of the authorized strength of the Regular Army in commissioned officers on the active-duty list.
 
 (b) The authorized strength of each of the following branches—
 
@@ -86,7 +86,7 @@ Under section 208(e) of the National Security Act of 1947 (5 U.S.C. 626c(e)), al
 
 After the enactment of the Officer Personnel Act of 1947, section 308 of the Army Organization Act of 1950 (10:61–1) provided for an Assistant Judge Advocate General and three brigadier generals in the Judge Advocate General's Corps of the Army. The creation of these four general officer spaces served to increase the mentioned authorized strength figure from 357 to 361, and the figure 201 to 205. The opinion of the Judge Advocate General of the Army (JAGA 1948/5806, 2 Sept. 1948) is in accord with that conclusion.
 
-The revised section reflects the authorized strength of the Regular Army in general officers on the active list resulting from the mentioned allocation to the Air Force and the addition of four general officer spaces in the Judge Advocate General's Corps.
+The revised section reflects the authorized strength of the Regular Army in general officers on the activelist resulting from the mentioned allocation to the Air Force and the addition of four general officer spaces in the Judge Advocate General's Corps.
 
 That allocation, and those mentioned in the explanation of \[former\] subsection (c), below, have had the force of law since July 26, 1950, when the period for transfers, including the administrative authority to change these allocations, expired.
 
@@ -140,7 +140,9 @@ In subsection (a), the words “Subject to section 3202(a) of this title” are 
 
 1991—Subsec. (a). Pub. L. 102–190 substituted “section 526” for “section 3202(a)”.
 
-1981—Subsec. (a). Pub. L. 97–22 substituted “general officers on the active-duty list is 75/10,000 of the authorized strength of the Regular Army in commissioned officers on the active-duty list” for “general officers on the active-duty list, exclusive of the number authorized for the Army Medical Department and the Chaplains, is 75/10,000 of the authorized strength of the Regular Army in commissioned officers on the active-duty list, exclusive of the number of commissioned officers on the active-duty list authorized for the Army Medical Department and the Chaplains”.
+1981—Subsec. (a). Pub. L. 97–22 struck out “, exclusive of the number authorized for the Army Medical Department and the Chaplains,” before “is 75/10,000”.
+
+Pub. L. 97–22, which directed amendment of subsec. (a) by striking out “, exclusive of the number of commissioned officers on the active-duty list authorized for the Army Medical Department and the Chaplains”, was executed by striking out “, exclusive of the number of commissioned officers on the active list authorized for the Army Medical Department and the Chaplains” before period at end of first sentence, to reflect the probable intent of Congress. See 1980 Amendment note and Effective Date of 1980 Amendment note below.
 
 1980—Subsec. (a). Pub. L. 96–513, §502(5)(A), (B), substituted “active-duty list” for “active list” wherever appearing and struck out provisions that, of the authorized strength, not more than one-half could be in a regular grade above brigadier general.
 
@@ -148,7 +150,7 @@ Subsec. (b). Pub. L. 96–513, §502(5)(A), (C), substituted “active-duty list
 
 Subsecs. (d), (e). Pub. L. 96–513, §502(5)(D), struck out subsec. (d) which provided that general officers on the active list of the Regular Army who were specifically authorized by law to hold a civil office under the United States or any instrumentality thereof were not counted in determining authorized strength under this section and subsec. (e) which had provided that the authorized strength of the Medical Service Corps in general officers on the active list of the Regular Army was one commissioned officer in the regular grade of brigadier general.
 
-1968—Subsec. (a). Pub. L. 90–329 substituted “Army Medical Department” for “Army Medical Service”.
+1968—Subsec. (a). Pub. L. 90–329 substituted “Army Medical Department” for “Army Medical Service” in two places.
 
 1966—Subsec. (e). Pub. L. 89–603 added subsec. (e).
 

@@ -16,7 +16,7 @@
 
 &emsp;The Secretary shall establish standards and procedures governing the imposition of civil money penalties under subsection (a) of this section. The standards and procedures—
 
-&emsp;&emsp;(A) shall provide for the imposition of a penalty only after a person has been given an opportunity for a hearing on the record; and
+&emsp;&emsp;(A) shall provide for the imposition of a penalty only after a person has been givenan opportunity for a hearing on the record; and
 
 &emsp;&emsp;(B) may provide for review by the Secretary of any determination or order, or interlocutory ruling, arising from a hearing.
 
@@ -30,7 +30,7 @@
 
 #### (4) Reviewability of imposition of penalty
 
-&emsp;The Secretary's determination or order imposing a penalty under subsection (a) of thissection shall not be subject to review, except as provided in subsection (c) of this section.
+&emsp;The Secretary's determination or order imposing a penalty under subsection (a) of this section shall not be subject to review, except as provided in subsection (c) of this section.
 
 #### (c) Judicial review of agency determination
 

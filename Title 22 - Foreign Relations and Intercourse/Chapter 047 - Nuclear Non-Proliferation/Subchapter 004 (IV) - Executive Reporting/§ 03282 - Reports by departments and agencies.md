@@ -2,7 +2,7 @@
 
 #### (a) Reports by Nuclear Regulatory Commission and Department of Energy
 
-The annual reports to the Congress by the Commission and the Department of Energy which are otherwise required by law shall also include views and recommendations regarding the policies and actions of the United States to prevent proliferation which are the statutory responsibility of those agencies. The Department's report shall include a detailed analysis of the proliferation implications of advanced enrichment and reprocessing techniques, advanced reactors, and alternative nuclear fuel cycles. This part of the report shall include a comprehensive version which includes any relevant classified information and a summary unclassified version.
+The annual reports to the Congress by the Commission and the Department of Energy which are otherwise required by law shall also include views and recommendations regardingthe policies and actions of the United States to prevent proliferation which are the statutory responsibility of those agencies. The Department's report shall include a detailed analysis of the proliferation implications of advanced enrichment and reprocessing techniques, advanced reactors, and alternative nuclear fuel cycles. This part of the report shall include a comprehensive version which includes any relevant classified information and a summary unclassified version.
 
 #### (b) Additional reporting requirements
 
@@ -66,7 +66,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1134\], Nov. 29, 1
 
 “(a)
 
-Requirement to Provide Information.—The head of each department and agency described in section 602(c) of the Nuclear Non-Proliferation Act of 1978 (22 U.S.C. 3282(c)) shall promptly provide information to the chairman and ranking minority member of the Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives in meeting the requirements of subsection (c) or (d) of section 602 of such Act \[22 U.S.C. 3282(c), (d)\].
+Requirement to Provide Information.—The head of each department and agency described in section 602(c) of the Nuclear Non-Proliferation Act of 1978 (22 U.S.C. 3282(c)) shall promptly provide information to the chairman and ranking minority member of the Committee on Foreign Relations of the Senate and theCommittee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives in meeting the requirements of subsection (c) or (d) of section 602 of such Act \[22 U.S.C. 3282(c), (d)\].
 
 “(b)
 

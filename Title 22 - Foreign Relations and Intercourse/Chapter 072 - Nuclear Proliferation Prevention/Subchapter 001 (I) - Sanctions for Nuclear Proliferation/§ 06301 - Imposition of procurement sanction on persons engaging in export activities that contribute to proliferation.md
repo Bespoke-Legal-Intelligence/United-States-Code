@@ -110,7 +110,7 @@ Section 831 of Pub. L. 103–236 provided that: “The provisions of this part \
 
 #### Short Title
 
-Section 801 of title VIII of Pub. L. 103–236 provided that: “This title \[enacting this chapter and sections 2799aa to 2799aa–2 of this title, amending sections 262d, 2295a, 2295b, 2375, 2429a–1, 2593a, 2708, 2753, 2780, and 3281 of this title, section 635 of Title 12, Banks and Banking, and section 2160c of Title 42, The Public Health and Welfare, repealing sections 2429 and 2429a of this title, and enacting provisions set out as notes under this section and section 2799aa of this title\] may be cited as the ‘Nuclear Proliferation Prevention Act of 1994’.”
+Section 801 of title VIII of Pub. L. 103–236 provided that: “This title \[enacting this chapter and sections 2799aa to 2799aa–2 of this title, amending sections 262d, 2295a, 2295b, 2375, 2429a–1, 2593a, 2708, 2753, 2780, and 3281 of this title, section 635 of Title 12, Banks and Banking,and section 2160c of Title 42, The Public Health and Welfare, repealing sections 2429 and 2429a of this title, and enacting provisions set out as notes under this section and section 2799aa of this title\] may be cited as the ‘Nuclear Proliferation Prevention Act of 1994’.”
 
 #### Termination Upon Enactment of Next Foreign Relations Act
 

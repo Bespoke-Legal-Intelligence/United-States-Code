@@ -32,7 +32,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 &emsp;&emsp;&emsp;(ii) land converted to such production under section 3835a of this title; and
 
-&emsp;&emsp;&emsp;(iii) land on which an owner or operator agrees to conduct thinning authorized bysection 3832(a)(9) of this title, if the thinning is necessary to improve the condition of resources on the land.
+&emsp;&emsp;&emsp;(iii) land on which an owner or operator agrees to conduct thinning authorized by section 3832(a)(9) of this title, if the thinning is necessary to improve the condition of resources on the land.
 
 #### (B) Payments
 
@@ -74,7 +74,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 #### (A) Evaluation of offers
 
-&emsp;&emsp;In determining the acceptability of contract offers, the Secretary may take into consideration the extent to which enrollment of the land that is the subject of the contract offer would improve soil resources, water quality, or wildlife habitat or provide other environmental benefits.
+&emsp;&emsp;In determining the acceptability of contract offers, the Secretary may take intoconsideration the extent to which enrollment of the land that is the subject of the contract offer would improve soil resources, water quality, or wildlife habitat or provide other environmental benefits.
 
 #### (B) Establishment of different criteria in various States and regions
 
@@ -112,7 +112,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 &emsp;If the payment to an owner or operator is made with in-kind commodities, the payment shall be made by the Commodity Credit Corporation—
 
-&emsp;&emsp;(A) by delivery of the commodity involved to the owner or operator at a warehouse or other similar facility located in the county in which the highly erodible cropland is located or at such other location as is agreedto by the Secretary and the owner or operator;
+&emsp;&emsp;(A) by delivery of the commodity involved to the owner or operator at a warehouse or other similar facility located in the county in which the highly erodible cropland is located or at such other location as is agreed to by the Secretary and the owner or operator;
 
 &emsp;&emsp;(B) by the transfer of negotiable warehouse receipts; or
 
@@ -148,7 +148,7 @@ If an owner or operator that is entitled to a payment under a contract entered i
 
 #### (A) In general
 
-&emsp;&emsp;The provisions of this subsection that limit payments to any person or legal entity, and section 1305(d) of the Agricultural Reconciliation Act of 1987 (7 U.S.C. 1308 note; Public Law 100–203), shall not be applicable to payments received by a State, political subdivision, or agency thereof in connection with agreements entered into under a special conservation reserve enhancement program carried out by that entity that has been approved by the Secretary.
+&emsp;&emsp;The provisions of this subsection that limit payments to any person or legal entity, and section 1305(d) of the Agricultural Reconciliation Act of 1987 (7 U.S.C. 1308 note; Public Law 100–203), shall not be applicableto payments received by a State, political subdivision, or agency thereof in connection with agreements entered into under a special conservation reserve enhancement program carried out by that entity that has been approved by the Secretary.
 
 #### (B) Agreements
 
@@ -186,7 +186,7 @@ Subsec. (c)(5). Pub. L. 110–246, §2110(b)(1), added par. (5).
 
 Subsec. (f)(1). Pub. L. 110–246, §2110(c)(1), substituted “received by a person or legal entity, directly or indirectly,” for “made to a person”.
 
-Subsec. (f)(2). Pub. L. 110–246, §2110(c)(2), struck out par. (2) which related to promulgation of regulationsdefining the term “person” as used in subsec. (f) and providing terms and conditions determined necessary to ensure a fair and reasonable application of the subsec. (f) limitation.
+Subsec. (f)(2). Pub. L. 110–246, §2110(c)(2), struck out par. (2) which related to promulgation of regulations defining the term “person” as used in subsec. (f) and providing terms and conditions determined necessary to ensure a fair and reasonable application of the subsec. (f) limitation.
 
 Subsec. (f)(4)(A). Pub. L. 110–246, §2110(c)(3), substituted “any person or legal entity” for “any person”.
 

@@ -52,7 +52,7 @@ In subsection (a), 50:946(a) (last 12 words of proviso) is omitted as covered by
 
 In subsection (b), the word “However” is substituted for the words “Subject to the limitation that”. The exception as to section 4(i)(7) of the Universal Military Training and Service Act is inserted for clarity. The words “as Reserves of the armed forces under his jurisdiction” are substituted for the words “of Reserve members of the Armed Forces of the United States”. The words “unless he is at least 18 years of age” are substituted for 50:941(a) (last sentence). The words “its Territories” are omitted as surplusage, since citizens of the Territories are citizens of the United States.
 
-In subsection (c), the words “armed force concerned” are substituted for the words “of the appropriate Armed Force of the United States”. The words “in the grades corresponding to the grades authorized for female officers of the” are substituted for the words “in the same grades \* \* \* as are authorized for women in the”, to conform to subsection (a). The words “in which she previously served satisfactorily” are substituted for the words “satisfactorily held by her”.
+In subsection (c), the words “armed force concerned” are substituted for the words “of the appropriate Armed Force of the United States”. The words “in the grades corresponding to the grades authorized for female officers of the” are substituted for the words “in the same grades as are authorized for women in the”, to conform to subsection (a). The words “in which she previously served satisfactorily” are substituted for the words “satisfactorily held by her”.
 
 In subsection (d), the words “under the jurisdiction of that Secretary” are inserted for clarity. The words “general or special” are omitted as surplusage.
 

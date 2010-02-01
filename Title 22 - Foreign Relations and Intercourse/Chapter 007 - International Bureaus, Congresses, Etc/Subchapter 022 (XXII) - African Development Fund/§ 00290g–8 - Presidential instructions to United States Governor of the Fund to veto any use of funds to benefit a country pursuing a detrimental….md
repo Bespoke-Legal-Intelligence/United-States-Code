@@ -2,7 +2,7 @@
 
 The President shall instruct the United States Governor of the Fund to cause the Executive Director representing the United States in the Fund to cast the votes of the United States against any loan or other utilization of the funds of the Fund for the benefit of any country which has—
 
-&emsp;(1) nationalized or expropriated or seized ownership or control of property owned by anyUnited States citizen or by any corporation, partnership, or association not less than 50 per centum of which is beneficially owned by United States citizens;
+&emsp;(1) nationalized or expropriated or seized ownership or control of property owned by any United States citizen or by any corporation, partnership, or association not less than 50 per centum of which is beneficially owned by United States citizens;
 
 &emsp;(2) taken steps to repudiate or nullify existing contracts or agreements with any United States citizen or any corporation, partnership, or association not less than 50 per centum of which is beneficially owned by United States citizens; or
 

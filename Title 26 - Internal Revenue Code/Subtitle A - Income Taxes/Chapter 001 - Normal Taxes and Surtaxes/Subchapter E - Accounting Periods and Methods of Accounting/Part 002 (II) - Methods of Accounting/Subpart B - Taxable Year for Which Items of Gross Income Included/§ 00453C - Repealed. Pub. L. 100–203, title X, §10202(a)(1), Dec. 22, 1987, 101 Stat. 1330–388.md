@@ -94,7 +94,7 @@ Revolving credit plans, etc.—The term ‘applicable installment obligation’ 
 
 &emsp;“(B)
 
-Certain dispositions deemed made on first day of taxable year.—In the case of a taxpayer's 1st taxable year ending after December 31, 1986, dispositions after February 28, 1986, and before the 1st day of such taxable year shall be treated as made on such 1st day.”
+Certain dispositions deemed made on first day of taxable year.—In the case of a taxpayer's 1sttaxable year ending after December 31, 1986, dispositions after February 28, 1986, and before the 1st day of such taxable year shall be treated as made on such 1st day.”
 
 \[Pub. L. 105–34, title X, §1088(b), Aug. 5, 1997, 111 Stat. 959, as amended by Pub. L. 105–206, title VI, §6010(q), July 22, 1998, 112 Stat. 817, provided that:
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 3 years after October 21, 1999, the Secretary, acting through the Director of the National Park Service, shall conduct a study concerning land protection and open space within and adjacent to the area administered as the Curecanti National Recreation Area.
+Not later than 3 years after October 21, 1999, the Secretary, acting through the Director ofthe National Park Service, shall conduct a study concerning land protection and open space within and adjacent to the area administered as the Curecanti National Recreation Area.
 
 #### (b) Purpose of study
 

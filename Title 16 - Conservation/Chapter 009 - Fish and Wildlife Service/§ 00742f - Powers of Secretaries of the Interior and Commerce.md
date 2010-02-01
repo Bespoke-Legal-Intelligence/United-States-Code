@@ -6,7 +6,7 @@ The Secretary of the Interior, with such advice and assistance as he may require
 
 &emsp;(1) develop and recommend measures which are appropriate to assure the maximum sustainable production of fish and fishery products and to prevent unnecessary and excessive fluctuations in such production;
 
-&emsp;(2) study the economic condition of the industry, and whenever he determines that any segment of the domestic fisheries has been seriously disturbed either by wide fluctuation in the abundance of the resource supporting it, or by unstable market or fishing conditions or due to any other factors he shall make such recommendations to the President and the Congress as he deems appropriate to aid in stabilizing the domestic fisheries;
+&emsp;(2) study the economic condition of the industry, and whenever he determines that any segment of the domestic fisheries has been seriously disturbed either by wide fluctuation inthe abundance of the resource supporting it, or by unstable market or fishing conditions or due to any other factors he shall make such recommendations to the President and the Congress as he deems appropriate to aid in stabilizing the domestic fisheries;
 
 &emsp;(3) develop and recommend special promotional and informational activities with a view to stimulating the consumption of fishery products whenever he determines that there is a prospective or actual surplus of such products; and
 
@@ -70,7 +70,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding chapter 63 of title 31, the Secretary of the Interior may negotiate and enter into a cooperative agreement with a partner organization, academic institution,State or local government agency, or other person to implement one or more projects or programs for a refuge or complex of geographically related refuges in accordance with the purposes of this subsection and in compliance with the policies of other relevant authorities, regulations, and policy guidance.
+&emsp;&emsp;Notwithstanding chapter 63 of title 31, the Secretary of the Interior may negotiate andenter into a cooperative agreement with a partner organization, academic institution, State or local government agency, or other person to implement one or more projects or programs for a refuge or complex of geographically related refuges in accordance with the purposes of this subsection and in compliance with the policies of other relevant authorities, regulations, and policy guidance.
 
 #### (B) Projects and programs
 

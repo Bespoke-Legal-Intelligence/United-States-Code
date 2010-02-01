@@ -2,7 +2,7 @@
 
 (a)
 
-Bonus Authorized.—(1) A person described in subsection (b) who, during the period beginning on November 29, 1989, and ending on December 31, 2009, executes a written agreement in accordance with subsection (c) to accept an appointment as a nurse officer may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus of not more than $20,000. The bonus shall be paid in periodic installments, as determined by the Secretary concerned at the time the agreement is accepted, except that the first installment may not exceed $10,000.
+Bonus Authorized.—(1) A person described in subsection (b) who, during the period beginning on November 29, 1989, and ending on December 31, 2010, executes a written agreement in accordance with subsection (c) to accept an appointment as a nurse officer may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus of not more than $20,000. The bonus shall be paid in periodic installments, as determined by the Secretary concerned at the time the agreement is accepted, except that the first installment may not exceed $10,000.
 
 (2) In addition to the accession bonus payable under paragraph (1), a person selected under such paragraph shall be entitled to a monthly stipend in an amount not to exceed the stipend rate in effect under section 2121(d) of this title for each month the individual is enrolled as a full-time student in an accredited baccalaureate degree program in nursing at a civilian educational institution by the Secretary selecting the person. The continuation bonus may be paid for not more than 24 months.
 
@@ -10,7 +10,7 @@ Bonus Authorized.—(1) A person described in subsection (b) who, during the per
 
 Eligible Students.—A person eligible to enter into an agreement under subsection (a) is a person who—
 
-&emsp;(1) is enrolled as a full-time student in an accredited baccalaureate degree program in nursing at a civilian educational institution that does not have a Senior Reserve Officers’ Training Program established under section 2102 of this title by the Secretary selecting the person or that has a Senior Reserve Officers’ Training Program for which the student is ineligible;
+&emsp;(1) is enrolled as a full-time student in an accredited baccalaureate degree program innursing at a civilian educational institution that does not have a Senior Reserve Officers’ Training Program established under section 2102 of this title by the Secretary selecting the person or that has a Senior Reserve Officers’ Training Program for which the student is ineligible;
 
 &emsp;(2) has completed the second year of an accredited baccalaureate degree program in nursing and has more than 6 months of academic work remaining before graduation; and
 
@@ -40,9 +40,13 @@ Repayment.—A person who does not complete a nursing degree program in which th
 
 Regulations.—The Secretaries concerned shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 101–189, div. A, title VII, §707(a), Nov. 29, 1989, 103 Stat. 1474; amended Pub. L. 101–510, div. A, title VI, §613(c), title XIV, §1484(d)(1), Nov. 5, 1990, 104 Stat. 1577, 1716; Pub. L. 102–190, div. A, title VI, §612(c)(1), Dec. 5, 1991, 105 Stat. 1376; Pub. L. 102–484, div. A, title VI, §612(h), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §611(a), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 103–337, div. A, title VI, §612(a), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §612(a), title XV, §1501(c)(23), Feb. 10, 1996, 110 Stat. 359, 499; Pub. L. 104–201, div. A, title VI, §612(a), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §612(a), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §612(a), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §612(a), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §622(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title V, §538, title VI, §612(a), Dec. 28, 2001, 115 Stat. 1107, 1135; Pub. L. 107–314, div. A, title VI, §§612(a), 615(h), Dec. 2, 2002, 116 Stat. 2567, 2569; Pub. L. 108–136, div. A, title VI, §612(a), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §612(a), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(a), 687(c)(6), Jan. 6, 2006, 119 Stat. 3294, 3334; Pub. L. 109–364, div. A, title VI, §612(a), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–181, div. A, title VI, §612(a), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §§612(a), 616(a), (b), Oct. 14, 2008, 122 Stat. 4484, 4486.)
+(Added Pub. L. 101–189, div. A, title VII, §707(a), Nov. 29, 1989, 103 Stat. 1474; amended Pub. L. 101–510, div. A, title VI, §613(c), title XIV, §1484(d)(1), Nov. 5, 1990, 104 Stat. 1577, 1716; Pub. L. 102–190, div. A, title VI, §612(c)(1), Dec. 5, 1991, 105 Stat. 1376; Pub. L. 102–484, div. A, title VI, §612(h), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §611(a), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 103–337, div. A, title VI, §612(a), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §612(a), title XV, §1501(c)(23), Feb. 10, 1996, 110 Stat. 359, 499; Pub. L. 104–201, div. A, title VI, §612(a), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §612(a), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §612(a), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §612(a), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §622(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title V, §538, title VI, §612(a), Dec. 28, 2001, 115 Stat. 1107, 1135; Pub. L. 107–314, div. A, title VI, §§612(a), 615(h), Dec. 2, 2002, 116 Stat. 2567, 2569; Pub. L. 108–136, div. A, title VI, §612(a), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §612(a), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(a), 687(c)(6), Jan. 6, 2006, 119 Stat. 3294, 3334; Pub. L. 109–364, div. A, title VI, §612(a), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–181, div. A, title VI, §612(a), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §§612(a), 616(a), (b), Oct. 14, 2008, 122 Stat. 4484, 4486; Pub. L. 111–84, div. A, title VI, §612(a)(1), title X, §1073(c)(3), Oct. 28, 2009, 123 Stat. 2353, 2474.)
 
 #### Amendments
+
+2009—Subsec. (a)(1). Pub. L. 111–84, §612(a)(1), substituted “December 31, 2010” for “December 31, 2009”.
+
+Subsec. (a)(2). Pub. L. 111–84, §1073(c)(3), made technical amendment to directory language of Pub. L. 110–417, §616(b). See 2008 Amendment note below.
 
 2008—Subsec. (a)(1). Pub. L. 110–417, §616(a), substituted “$20,000” for “$10,000” and “$10,000” for “$5,000”.
 
@@ -50,7 +54,7 @@ Pub. L. 110–417, §612(a), substituted “December 31, 2009” for “December
 
 Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
 
-Subsec. (a)(2). Pub. L. 110–417, §616(b), which directed amendment of section 2130a(a)(2), without specifying the title to be amended, by substituting “in an amount not to exceed the stipend rate in effect under section 2121(d) of this title” for “of not more than $1,000”, was executed to this section, to reflect the probable intent of Congress.
+Subsec. (a)(2). Pub. L. 110–417, §616(b), as amended by Pub. L. 111–84, §1073(c)(3), substituted “in an amount not to exceed the stipend rate in effect under section 2121(d) of this title” for “of not more than $1,000”.
 
 2006—Subsec. (a)(1). Pub. L. 109–364 substituted “December 31, 2007” for “December 31, 2006”.
 
@@ -102,6 +106,10 @@ Subsecs. (a)(2), (b)(1). Pub. L. 101–510, §613(c)(2), inserted “by the Secr
 
 Subsec. (d)(3). Pub. L. 101–510, §1484(d)(1)(B), substituted “November 29, 1989” for “the date of the enactment of the National Defense Authorization Act for Fiscal Years 1990 and 1991”.
 
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(3) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+
 #### Effective Date of 1996 Amendment
 
 Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
@@ -120,7 +128,7 @@ Retroactive Effective Date for Payment Authorities.—The amendments made by sec
 
 “(b)
 
-Ratification of Existing Contingent Agreements.—In the case of a provision of title 10 or 37, United States Code, amended by section 611, 612, 613, or 614 under which an individual must enter into an agreement with the Secretary concerned for receipt of a bonus, special pay, or similar benefit, the Secretaryconcerned may treat any agreement entered into under such a provision during the period beginning on January 1, 2008, and ending on the date of the enactment of this Act \[Jan. 28, 2008\] as having taken effect as of the date on which the agreement was signed by the individual.
+Ratification of Existing Contingent Agreements.—In the case of a provision of title 10 or 37, United States Code, amended by section 611, 612, 613, or 614 under which an individual must enter into an agreement with the Secretary concerned for receipt of a bonus, special pay, or similar benefit, the Secretary concerned may treat any agreement entered into under such a provision during the period beginning on January 1, 2008, and ending on the date of the enactment of this Act \[Jan. 28, 2008\] as having taken effect as of the date on which the agreement was signed by the individual.
 
 “(c)
 
@@ -156,7 +164,7 @@ Section 611(d) of Pub. L. 103–160 provided that:
 
 “(1) In the case of a person described in paragraph (2) who executes an agreement described in paragraph (3) during the 90-day period beginning on the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary concerned may treat the agreement for purposes of the accession bonus, monthly stipend, or special pay authorized under the agreement as having been executed and accepted on the first date on which the person would have qualified for such an agreement had the amendments made by this section \[amending this section and sections 302d and 302e of Title 37, Pay and Allowances of the Uniformed Services\] taken effect on October 1, 1993.
 
-“(2) A person referred to in paragraph (1) is a person described in section 2130a(b) of title 10, United States Code, or section 302d(a)(1) or 302e(b) of title 37, United States Code, who, during the period beginning on October 1, 1993, and ending on the date of the enactment of this Act, would have qualified for an agreement described in paragraph (3) had the amendments made by this section taken effect on October 1, 1993.
+“(2) A person referred to in paragraph (1) is a person described in section 2130a(b) of title 10, United StatesCode, or section 302d(a)(1) or 302e(b) of title 37, United States Code, who, during the period beginning on October 1, 1993, and ending on the date of the enactment of this Act, would have qualified for an agreement described in paragraph (3) had the amendments made by this section taken effect on October 1, 1993.
 
 “(3) An agreement referred to in this subsection is an agreement with the Secretary concerned that is a condition for the payment of an accession bonus and monthly stipend under section 2130a of title 10, United States Code, an accession bonus under section 302d of title 37, United States Code, or incentive special pay under section 302e of title 37, United States Code.
 

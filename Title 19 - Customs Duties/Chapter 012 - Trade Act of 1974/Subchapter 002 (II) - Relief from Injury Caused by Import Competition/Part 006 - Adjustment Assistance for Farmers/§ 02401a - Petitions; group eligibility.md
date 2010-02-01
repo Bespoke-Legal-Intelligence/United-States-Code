@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A petition for a certification of eligibility to apply for adjustment assistance under this partmay be filed with the Secretary by a group of agricultural commodity producers or by their duly authorized representative. Upon receipt of the petition, the Secretary shall promptly publish notice in the Federal Register that the Secretary has received the petition and initiated an investigation.
+A petition for a certification of eligibility to apply for adjustment assistance under this part may be filed with the Secretary by a group of agricultural commodity producers or by their duly authorized representative. Upon receipt of the petition, the Secretary shall promptly publish notice in the Federal Register that the Secretary has received the petition and initiated an investigation.
 
 #### (b) Hearings
 
@@ -10,35 +10,51 @@ If the petitioner, or any other person found by the Secretary to have a substant
 
 #### (c) Group eligibility requirements
 
-The Secretary shall certify a group of agricultural commodity producers as eligible to apply for adjustment assistance under this part if the Secretary determines—
+The Secretary shall certify a group of agricultural commodity producers as eligible to apply for adjustment assistance under this part if the Secretary determines that—
 
-&emsp;(1) that the national average price for the agricultural commodity, or a class of goods within the agricultural commodity, produced by the group for the most recent marketing year for which the national average price is available is less than 80 percent of the average of the national average price for such agricultural commodity, or such class of goods, for the 5 marketing years preceding the most recent marketing year; and
+&emsp;(1)(A) the national average price of the agricultural commodity produced by the group during the most recent marketing year for which data are available is less than 85 percent of the average of the national average price for the commodity in the 3 marketing years preceding such marketing year;
 
-&emsp;(2) that increases in imports of articles like or directly competitive with the agricultural commodity, or class of goods within the agricultural commodity, produced by the group contributed importantly to the decline in price described in paragraph (1).
+&emsp;(B) the quantity of production of the agricultural commodity produced by the group during such marketing year is less than 85 percent of the average of the quantity of production of the commodity produced by the group in the 3 marketing years preceding such marketing year;
 
-#### (d) Special rule for qualified subsequent years
+&emsp;(C) the value of production of the agricultural commodity produced by the group during such marketing year is less than 85 percent of the average value of production of the commodity produced by the group in the 3 marketing years preceding such marketing year; or
 
-A group of agricultural commodity producers certified as eligible under section 2401b of this title shall be eligible to apply for assistance under this part in any qualified year after the year the group is first certified, if the Secretary determines that—
+&emsp;(D) the cash receipts for the agricultural commodity produced by the group during such marketing year are less than 85 percent of the average of the cash receipts for the commodity produced by the group in the 3 marketing years preceding such marketing year;
 
-&emsp;(1) the national average price for the agricultural commodity, or class of goods within the agricultural commodity, produced by the group for the most recent marketing year for which the national average price is available is equal to or less than the price determined under subsection (c)(1) of this section; and
+&emsp;(2) the volume of imports of articles like or directly competitive with the agricultural commodity produced by the group in the marketing year with respect to which the group files the petition increased compared to the average volume of such imports during the 3 marketing years preceding such marketing year; and
 
-&emsp;(2) the requirements of subsection (c)(2) of this section are met.
+&emsp;(3) the increase in such imports contributed importantly to the decrease in the national average price, quantity of production, or value of production of, or cash receipts for, the agricultural commodity, as described in paragraph (1).
 
-#### (e) Determination of qualified year and commodity
+#### (d) Eligibility of certain other producers
 
-In this part:
+An agricultural commodity producer or group of producers that resides outside of the State or region identified in the petition filed under subsection (a) may file a request to become a party to that petition not later than 15 days after the date the notice is published in the Federal Register under subsection (a) with respect to that petition.
 
-#### (1) Qualified year
+#### (e) Treatment of classes of goods within a commodity
 
-&emsp;The term “qualified year”, with respect to a group of agricultural commodity producers certified as eligible under section 2401b of this title, means each consecutive year after the year in which the group is certified and in which the Secretary makes the determination under subsection (c) or (d) of this section, as the case may be.
+In any case in which there are separate classes of goods within an agricultural commodity, the Secretary shall treat each class as a separate commodity in determining under subsection (c)—
 
-#### (2) Classes of goods within a commodity
+&emsp;(1) group eligibility;
 
-&emsp;In any case in which there are separate classes of goods within an agricultural commodity, the Secretary shall treat each class as a separate commodity in determining group eligibility, the national average price, and level of imports under this section and section 2401e of this title.
+&emsp;(2) the national average price, quantity of production, or value of production, or cash receipts; and
 
-(Pub. L. 93–618, title II, §292, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 947.)
+&emsp;(3) the volume of imports.
+
+(Pub. L. 93–618, title II, §292, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 947; amended Pub. L. 111–5, div. B, title I, §1882(a), Feb. 17, 2009, 123 Stat. 415.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
+
+#### Amendments
+
+2009—Subsecs. (c) to (e). Pub. L. 111–5, §§1882(a), 1893, temporarily added subsecs. (c) to (e) and struck out former subsecs. (c) to (e), which related to eligibility requirements for groups of agricultural commodity producers to apply for adjustment assistance, a special rule for such groups after the first year of certification, and determination of qualified year and commodity, respectively. See Effective and Termination Dates of 2009 Amendment note below.
+
+#### Effective and Termination Dates of 2009 Amendment
+
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
+
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Termination Date
 
-No adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and financial assistance may not be provided under this part after Dec. 31, 2010, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

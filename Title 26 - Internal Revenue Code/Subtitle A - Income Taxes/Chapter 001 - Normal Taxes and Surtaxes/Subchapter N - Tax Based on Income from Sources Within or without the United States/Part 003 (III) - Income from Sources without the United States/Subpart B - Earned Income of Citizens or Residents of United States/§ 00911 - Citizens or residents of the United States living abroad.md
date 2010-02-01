@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “housing expenses” means the reasonable expenses paid or incurred during the taxable year by or on behalf of an individual for housing for the individual (and, if they reside with him, for his spouse and dependents) in a foreign country. The term—
+&emsp;&emsp;The term “housing expenses” means the reasonable expenses paid or incurred duringthe taxable year by or on behalf of an individual for housing for the individual (and, if they reside with him, for his spouse and dependents) in a foreign country. The term—
 
 &emsp;&emsp;&emsp;(i) includes expenses attributable to the housing (such as utilities and insurance), but
 
@@ -160,7 +160,7 @@ For purposes of this section—
 
 #### (E) Foreign earned income
 
-&emsp;&emsp;For purposes of this paragraph, an individual's foreign earned income for any taxable year shall be determined without regard tothe limitation of subparagraph (A) of subsection (b)(2).
+&emsp;&emsp;For purposes of this paragraph, an individual's foreign earned income for any taxable year shall be determined without regard to the limitation of subparagraph (A) of subsection (b)(2).
 
 #### (d) Definitions and special rules
 
@@ -232,7 +232,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the term “housing expenses” shall not include any expenses allocable to such period for housing in such country or for housing of the spouse or dependents of the taxpayer in another country while the taxpayer is present in such country, and
 
-&emsp;&emsp;&emsp;(iii) an individual shall not be treated as a bona fide resident of, or as present in, aforeign country for any day during which such individual was present in such country during such period.
+&emsp;&emsp;&emsp;(iii) an individual shall not be treated as a bona fide resident of, or as present in, a foreign country for any day during which such individual was present in such country during such period.
 
 #### (B) Regulations
 
@@ -262,7 +262,7 @@ For purposes of this section—
 
 #### (2) Revocation
 
-&emsp;A taxpayer may revoke an election made under paragraph (1) for any taxable year after the taxable year for which such election was made. Except with the consent of the Secretary, any taxpayer who makes such a revocation for any taxable year may not make another election under this section for any subsequent taxable year before the 6th taxable year after the taxable year for which such revocation was made.
+&emsp;A taxpayer may revoke an election made under paragraph (1) for any taxable year after the taxable year for which such election was made. Except with the consent of the Secretary, any taxpayer who makes such a revocation for any taxable year may not make another election under this section for anysubsequent taxable year before the 6th taxable year after the taxable year for which such revocation was made.
 
 #### (f) Determination of tax liability
 
@@ -412,7 +412,7 @@ Subsec. (c)(7). Pub. L. 95–615, §202(c), added par. (7).
 
 Pub. L. 95–600, §703(e), redesignated former par. (8) as (7). Such par. (8) was subsequently repealed by section 202(e) of Pub. L. 95–615 without taking into account the redesignation of par. (8) as (7) by Pub. L. 95–600. See 1978 Amendment note for subsec. (c)(8) below.
 
-Subsec. (c)(8). Pub. L. 95–615, §202(e), struck out par. (8) which related to the nonexclusion under subsec. (a) of any amount attributable to services performed in a foreign country or countries if such amount was received outside of the foreign country or countries where such services were performed and if one of the purposes was the avoidance of any tax imposed by such foreign country or countries on such amount.
+Subsec. (c)(8). Pub. L. 95–615, §202(e), struck out par. (8) which related to the nonexclusion under subsec. (a) of any amount attributable to services performed in a foreign country or countries if such amount was received outside of the foreign country or countries where such services were performed and if one of thepurposes was the avoidance of any tax imposed by such foreign country or countries on such amount.
 
 Subsec. (d). Pub. L. 95–615, §202(d)(1), redesignated subsec. (e) as (d), inserted “for the taxable year” after “section apply”, and struck out provision that an election was applicable to the taxable year for which made and to all subsequent taxable years. Former subsec. (d), which related to the computation of tax imposed by section 1 or section 1201 if an individual earned income which was excluded from gross income under subsec. (a) and which defined “net taxable income” and “net excluded earned income”, was struck out.
 
@@ -544,7 +544,7 @@ Section 1232(a) of Pub. L. 99–514 provided that: “Nothing in the Panama Cana
 
 #### Taxable Years Beginning in 1977 or 1978; Individuals Who Leave Foreign Country After August 31, 1978
 
-Rules similar to the rules of section 913(j)(4) of this title to apply for the purposes of applying this section for taxable years beginning in 1977 or 1978 in the case of an individual who leaves a foreign country after Aug. 31, 1978, see section 1(b) of Pub. L. 96–608, set out as anEffective Date of 1980 Amendment note under section 913 of this title.
+Rules similar to the rules of section 913(j)(4) of this title to apply for the purposes of applying this section for taxable years beginning in 1977 or 1978 in the case of an individual who leaves a foreign country after Aug. 31, 1978, see section 1(b) of Pub. L. 96–608, set out as an Effective Date of 1980 Amendment note under section 913 of this title.
 
 #### Individuals for Whom Unused Zero Bracket Amount Computation Is Provided for Taxable Years Beginning in 1977
 

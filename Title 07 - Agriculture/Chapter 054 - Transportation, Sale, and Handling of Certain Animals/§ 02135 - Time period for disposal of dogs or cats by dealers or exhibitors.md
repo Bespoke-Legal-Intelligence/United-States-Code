@@ -1,6 +1,6 @@
 ### §2135. Time period for disposal of dogs or cats by dealers or exhibitors
 
-No dealer or exhibitor shall sell or otherwise dispose of any dog or cat within a period of fivebusiness days after the acquisition of such animal or within such other period as may be specified by the Secretary: <i>Provided</i>, That operators of auction sales subject to section 2142 of this title shall not be required to comply with the provisions of this section.
+No dealer or exhibitor shall sell or otherwise dispose of any dog or cat within a period of five business days after the acquisition of such animal or within such other period as may be specified by the Secretary: <i>Provided</i>, That operators of auction sales subject to section 2142 of this title shall not be required to comply with the provisions of this section.
 
 (Pub. L. 89–544, §5, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, §6, Dec. 24, 1970, 84 Stat. 1561.)
 

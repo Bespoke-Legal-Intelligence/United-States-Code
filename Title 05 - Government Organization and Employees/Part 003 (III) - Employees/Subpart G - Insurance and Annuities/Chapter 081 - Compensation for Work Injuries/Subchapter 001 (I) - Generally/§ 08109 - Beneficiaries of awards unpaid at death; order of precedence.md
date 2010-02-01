@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(iii) If there is no widow or widower, to the child or children.
 
-&emsp;&emsp;(iv) If there is no survivor in the above classes, to the parent or parents wholly orpartly dependent for support on the decedent, or to other wholly dependent relatives listed by section 8133(a)(5) of this title, or to both in proportions provided by regulation.
+&emsp;&emsp;(iv) If there is no survivor in the above classes, to the parent or parents wholly or partly dependent for support on the decedent, or to other wholly dependent relatives listed by section 8133(a)(5) of this title, or to both in proportions provided by regulation.
 
 &emsp;&emsp;(v) If there is no survivor in the above classes and no burial allowance is payable under section 8134 of this title, an amount not exceeding that which would be expendable under section 8134 of this title if applicable shall be paid to reimburse a person equitably entitled thereto to the extent and in the proportion that he has paid the burial expenses, but a compensated insurer or other person obligated by law or contract to pay the burial expenses or a State or political subdivision or entity is deemed not equitably entitled.
 

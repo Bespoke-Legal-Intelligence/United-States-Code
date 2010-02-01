@@ -82,7 +82,7 @@ The Administrator shall conduct research and report on the economics of, and imp
 
 &emsp;(E) the need for further research, development, and demonstration in the area of resource conservation.
 
-(2) The study required in paragraph (1)(D) may include pilot scale projects, and shall considerand evaluate alternative strategies with respect to—
+(2) The study required in paragraph (1)(D) may include pilot scale projects, and shall consider and evaluate alternative strategies with respect to—
 
 &emsp;(A) the product categories on which such charges would be imposed;
 
@@ -110,7 +110,7 @@ The Administrator shall complete the research and studies, and submit the report
 
 #### (m) Drilling fluids, produced waters, and other wastes associated with the exploration, development, or production of crude oil or natural gas or geothermal energy
 
-(1) The Administrator shall conduct a detailed and comprehensive study and submit a report on the adverse effects, if any, of drilling fluids, produced waters, and other wastes associated with the exploration, development, or production of crude oil or natural gas or geothermal energy on human health and the environment, including, but not limited to, the effects of such wastes on humans, water, air, health, welfare, and natural resources and on the adequacy of means and measures currently employed by the oil and gas and geothermal drilling and production industry, Government agencies, and others to dispose of and utilize such wastes and to prevent or substantially mitigate such adverse effects. Such study shall include an analysis of—
+(1) The Administrator shall conduct a detailed and comprehensive study and submit a report on the adverse effects, if any, of drilling fluids, produced waters, and other wastes associated with the exploration, development, or production of crude oil or natural gas or geothermal energy on human health and the environment, including, but not limited to, the effects of such wastes on humans, water, air, health, welfare, and natural resources and on the adequacy of means and measures currently employed by the oil and gasand geothermal drilling and production industry, Government agencies, and others to dispose of and utilize such wastes and to prevent or substantially mitigate such adverse effects. Such study shall include an analysis of—
 
 &emsp;(A) the sources and volume of discarded material generated per year from such wastes;
 

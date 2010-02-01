@@ -20,5 +20,5 @@ For purposes of subsection (a), there shall be allowed a deduction similar to th
 
 #### Effective Date of 1986 Amendment
 
-Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) madeafter Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
+Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
 

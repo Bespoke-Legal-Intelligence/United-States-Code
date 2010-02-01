@@ -12,7 +12,7 @@ To be eligible to receive a grant under section 300ff–11 of this title, an eli
 
 &emsp;(2) that the eligible area has an HIV health services planning council and has entered into intergovernmental agreements pursuant to section 300ff–12 of this title, and has developed or will develop the comprehensive plan in accordance with section 300ff–12(b)(3)(B) <sup>1</sup> of this title;
 
-&emsp;(3) that entities within the eligible area that receive funds under a grant under this subpart will maintain appropriate relationships with entities in the eligible area served that constitute key points of access to the health care system for individuals with HIV/AIDS (including emergency rooms, substance abuse treatment programs, detoxification centers, adult and juvenile detention facilities, sexually transmitted disease clinics, HIV counseling and testing sites, mental health programs, andhomeless shelters), and other entities under section <sup>2</sup> 300ff–14(b)(3) <sup>1</sup> and 300ff–52(a) of this title, for the purpose of facilitating early intervention for individuals newly diagnosed with HIV/AIDS and individuals knowledgeable of their HIV status but not in care;
+&emsp;(3) that entities within the eligible area that receive funds under a grant under this subpart will maintain appropriate relationships with entities in the eligible area served that constitute key points of access to the health care system for individuals with HIV/AIDS (including emergency rooms, substance abuse treatment programs, detoxification centers, adult and juvenile detention facilities, sexually transmitted disease clinics, HIV counseling and testing sites, mental health programs, and homeless shelters), and other entities under section <sup>2</sup> 300ff–14(b)(3) <sup>1</sup> and 300ff–52(a) of this title, for the purpose of facilitating early intervention for individuals newly diagnosed with HIV/AIDS and individuals knowledgeable of their HIV status but not in care;
 
 &emsp;(4) that the chief elected official of the eligible area will satisfy all requirements under section 300ff–14(c) of this title;
 
@@ -46,7 +46,7 @@ To be eligible to receive a grant under section 300ff–11 of this title, an eli
 
 An eligible area that desires to receive a grant under section 300ff–13(b) of this title shall prepare and submit to the Secretary an application, in accordance with subsection (c) of this section regarding a single application and grant award, at such time, in such form, and containing such information as the Secretary shall require, including the information required under such subsection and information concerning—
 
-&emsp;(1) the number of individuals to be served within the eligible area with assistance provided under the grant;
+&emsp;(1) the number of individuals to be served within the eligible area with assistance provided under the grant, including the identification of individuals with HIV/AIDS as described in clauses (i) through (iii) of section 300ff–13(b)(2)(A) of this title;
 
 &emsp;(2) demographic data on the population of such individuals;
 
@@ -122,11 +122,7 @@ An eligible area that desires to receive a grant under section 300ff–13(b) of 
 
 &emsp;The requirements established in paragraphs (1) through (3) shall be waived in accordance with section 300ff–14(d)(2) <sup>1</sup> of this title.
 
-(July 1, 1944, ch. 373, title XXVI, §2605, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 582; amended Pub. L. 104–146, §§3(b)(5), 6(c)(2), May 20, 1996, 110 Stat. 1352, 1368; Pub. L. 106–345, title I, §122, title V, §503(a)(1), Oct. 20, 2000, 114 Stat. 1329, 1354; Pub. L. 109–415, title I, §§106(c), 107(b), title VII, §702(3), Dec. 19, 2006, 120 Stat. 2781, 2783, 2820.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2605, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 582; amended Pub. L. 104–146, §§3(b)(5), 6(c)(2), May 20, 1996, 110 Stat. 1352, 1368; Pub. L. 106–345, title I, §122, title V, §503(a)(1), Oct. 20, 2000, 114 Stat. 1329, 1354; Pub. L. 109–415, title I, §§106(c), 107(b), title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2781, 2783, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 6(c), Oct. 30, 2009, 123 Stat. 2885, 2892.)
 
 #### References in Text
 
@@ -140,7 +136,13 @@ A prior section 2605 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-2006—Pub. L. 109–415, §107(b), substituted “this subpart” for “this part” wherever appearing.
+2009—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+Subsec. (b)(1). Pub. L. 111–87, §6(c), inserted “, including the identification of individuals with HIV/AIDS as described in clauses (i) through (iii) of section 300ff–13(b)(2)(A) of this title” before semicolon.
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+Pub. L. 109–415, §107(b), substituted “this subpart” for “this part” wherever appearing.
 
 Subsec. (a)(3). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” in two places.
 
@@ -152,7 +154,7 @@ Subsec. (a)(10). Pub. L. 109–415, §106(c)(2), added par. (10).
 
 Subsec. (b)(5), (6). Pub. L. 109–415, §106(c)(3), added pars. (5) and (6).
 
-2000—Subsec. (a)(1)(A). Pub. L. 106–345, §122(b)(1)(A), substituted “services as described in section300ff–14(b)(1) of this title” for “services to individuals with HIV disease”.
+2000—Subsec. (a)(1)(A). Pub. L. 106–345, §122(b)(1)(A), substituted “services as described in section 300ff–14(b)(1) of this title” for “services to individuals with HIV disease”.
 
 Subsec. (a)(1)(B). Pub. L. 106–345, §122(b)(1)(B), substituted “services as described in section 300ff–14(b)(1) of this title” for “services for individuals with HIV disease”.
 
@@ -170,7 +172,7 @@ Subsec. (a)(1)(B). Pub. L. 104–146, §3(b)(5)(A)(ii), substituted “preceding
 
 Subsec. (a)(6). Pub. L. 104–146, §3(b)(5)(A)(iii)–(v), added par. (6).
 
-Subsec. (b). Pub. L. 104–146, §3(b)(5)(B), substituted “Application” for “Additional application” in heading and substituted “application, in accordance with subsection (c) of this section regarding a single application and grant award,” for “additional application” in introductory provisions.
+Subsec. (b). Pub. L. 104–146, §3(b)(5)(B), substituted “Application” for “Additional application” in headingand substituted “application, in accordance with subsection (c) of this section regarding a single application and grant award,” for “additional application” in introductory provisions.
 
 Subsec. (c). Pub. L. 104–146, §3(b)(5)(D), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -179,6 +181,10 @@ Subsec. (c)(1). Pub. L. 104–146, §6(c)(2), which directed substitution of “
 Subsec. (d). Pub. L. 104–146, §3(b)(5)(C), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 104–146, §3(b)(5)(C), redesignated subsec. (d) as (e).
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by section 6(c) of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 1996 Amendment
 

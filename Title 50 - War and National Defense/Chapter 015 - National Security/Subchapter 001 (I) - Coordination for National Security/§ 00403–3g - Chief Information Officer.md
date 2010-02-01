@@ -22,7 +22,7 @@ Subject to the direction of the Director of National Intelligence, the Chief Inf
 
 #### (d) Prohibition on simultaneous service as other chief information officer
 
-An individual serving in the position of Chief Information Officer may not, while so serving, serve as the chief information officer of anyother department or agency, or component thereof, of the United States Government.
+An individual serving in the position of Chief Information Officer may not, while so serving, serve as the chief information officer of any other department or agency, or component thereof, of the United States Government.
 
 (July 26, 1947, ch. 343, title I, §103G, as added Pub. L. 108–487, title III, §303(a)(1), Dec. 23, 2004, 118 Stat. 3944.)
 

@@ -24,7 +24,7 @@ No financial assistance shall be provided to any firm under section 1914 <sup>1
 
 #### References in Text
 
-Sections 1913, 1914, and 1917 of this title, referred to in text, were repealed by Pub. L. 93–618, title VI, §602(e), Jan. 3, 1975, 88 Stat. 2072. For provisions covering sections 1913 and 1914, see sections 2343 and 2344 of this title, respectively.
+Sections 1913, 1914, and 1917 of this title, referred to in text, were repealed by Pub. L. 93–618, title VI, §602(e), Jan. 3, 1975, 88 Stat. 2072.
 
 Section 1917 of this title, referred to in subsecs. (a) to (c), was in the original “section 317”, meaning section 317 of Pub. L. 87–794, which enacted section 1917 of this title and amended sections 172(b), 6501(h), and 6511(d)(2)(A) of Title 26, Internal Revenue Code.
 

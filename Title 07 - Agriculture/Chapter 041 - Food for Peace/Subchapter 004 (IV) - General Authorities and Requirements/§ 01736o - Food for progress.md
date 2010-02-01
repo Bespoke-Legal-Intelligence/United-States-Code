@@ -80,7 +80,7 @@ In determining whether to enter into an agreement under this section, the Presid
 
 (1) The Corporation shall make available to the President such eligible commodities as the President may request for purposes of furnishing eligible commodities under this section.
 
-(2) Notwithstanding any other provision of law, the Corporation may use funds appropriated to carry out title I of the Food for Peace Act \[7 U.S.C. 1701 et seq.\] in carrying out this section with respect to eligible commodities made available under that Act \[7 U.S.C. 1691\],and subsection (g) of this section does not apply to eligible commodities furnished on a grant basis or on credit terms under that title.
+(2) Notwithstanding any other provision of law, the Corporation may use funds appropriated to carry out title I of the Food for Peace Act \[7 U.S.C. 1701 et seq.\] in carrying out this section with respect to eligible commodities made available under that Act \[7 U.S.C. 1691\], and subsection (g) of this section does not apply to eligible commodities furnished on a grant basis or on credit terms under that title.
 
 (3) The Corporation may finance the sale and exportation of eligible commodities, made available under the Food for Peace Act \[7 U.S.C. 1691 et seq.\], which are furnished under this section. Payment for eligible commodities made available under that Act which are purchased on credit terms under this section shall be on the same basis as the terms provided in section 103 of that Act \[7 U.S.C. 1703\].
 
@@ -112,7 +112,7 @@ No effect on domestic programs.—The President shall not make an eligible commo
 
 (5)
 
-Sale procedure.—In making sales of eligible commodities under this section, the Secretary shall follow the sale procedure described in section 403(<i>l</i>) of the Food for Peace Act \[7 U.S.C. 1733(<i>l</i>)\].
+Sale procedure.—In making sales of eligible eligible <sup>1</sup> commodities under this section, the Secretary shall follow the sale procedure described in section 403(<i>l</i>) of the Food for Peace Act \[7 U.S.C. 1733(<i>l</i>)\].
 
 (6)
 
@@ -146,7 +146,7 @@ In entering into agreements under this section, the President shall take reasona
 
 #### (1) In general
 
-&emsp;In carrying out this section, the President, on request and subject to the availability of eligible commodities, is encouraged to approve agreements that provide for eligible commodities to be made available for distribution or sale by the recipient on a multicountry or multiyear basis if the agreements otherwise meet the requirements of this section.
+&emsp;In carrying out this section, the President, on request and subject to the availability ofeligible commodities, is encouraged to approve agreements that provide for eligible commodities to be made available for distribution or sale by the recipient on a multicountry or multiyear basis if the agreements otherwise meet the requirements of this section.
 
 #### (2) Deadline for program announcements
 
@@ -300,7 +300,7 @@ Pub. L. 107–171, §3106(e)(2), which directed substitution of “$40,000,000�
 
 Subsec. (f)(5). Pub. L. 107–171, §3009(b)(2), added par. (5).
 
-Subsec. (g). Pub. L. 107–171, §3106(f), added subsec. (g) and struck out former subsec. (g) which read as follows: “Not more than 500,000 metric tons of commodities may be furnished under this section in each of the fiscal years 1986 through 2002.”
+Subsec. (g). Pub. L. 107–171, §3106(f), added subsec. (g) and struck out former subsec. (g) which read as follows:“Not more than 500,000 metric tons of commodities may be furnished under this section in each of the fiscal years 1986 through 2002.”
 
 Subsec. (h). Pub. L. 107–171, §3106(b)(2)(D), (g), inserted heading and substituted “eligible commodities” for “commodities”.
 
@@ -395,4 +395,6 @@ Functions of President under this section delegated to Secretary of Agriculture,
 #### Executive Order No. 12583
 
 Ex. Ord. No. 12583, Feb. 19, 1987, 52 F.R. 5427, which related to the delegation of functions relating to entering into agreements with developing countries and waiving minimum tonnage requirements, was revoked by section 6 of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -58,7 +58,7 @@ The President shall establish and carry out programs to prevent and deter traffi
 
 &emsp;(1) technical assistance and other support to improve the capacity of foreign governments to investigate, identify, and carry out inspections of private entities, including labor recruitment centers, at which trafficking victims may be exploited, particularly exploitation involving forced and child labor;
 
-&emsp;(2) technical assistance and other support for foreign governments and nongovernmental organizations to provide immigrant populations with information, in the native languages of the major immigrant groups of suchpopulations, regarding the rights of such populations in the foreign country and local in-country nongovernmental organization-operated hotlines;
+&emsp;(2) technical assistance and other support for foreign governments and nongovernmental organizations to provide immigrant populations with information, in the native languages of the major immigrant groups of such populations, regarding the rights of such populations in the foreign country and local in-country nongovernmental organization-operated hotlines;
 
 &emsp;(3) technical assistance to provide legal frameworks and other programs to foreign governments and nongovernmental organizations to ensure that—
 

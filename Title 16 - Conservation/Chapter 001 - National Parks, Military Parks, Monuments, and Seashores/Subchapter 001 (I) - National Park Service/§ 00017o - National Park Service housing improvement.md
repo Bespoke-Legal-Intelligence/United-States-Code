@@ -20,7 +20,7 @@ To enhance the ability of the Secretary of the Interior (hereafter in this secti
 
 #### (3) Review and revision of housing criteria
 
-On November 12, 1996, the Secretary shall review and revise the existing criteria underwhich housing is provided to employees of the National Park Service. Specifically, the Secretary shall examine the existing criteria with respect to what circumstances the National Park Service requires an employee to occupy Government quarters to provide necessary services, protect Government property, or because of a lack of availability of non-Federal housing in the geographic area.
+On November 12, 1996, the Secretary shall review and revise the existing criteria under which housing is provided to employees of the National Park Service. Specifically, the Secretary shall examine the existing criteria with respect to what circumstances the National Park Service requires an employee to occupy Government quarters to provide necessary services, protect Government property, or because of a lack of availability of non-Federal housing in the geographic area.
 
 #### (4) Submission of report
 
@@ -90,7 +90,7 @@ For those units of the National Park System for which the review required by par
 
 #### (9) Joint development authority
 
-The Secretary may use authorities granted by statute in combination with one another in the furtherance of providing where necessary and justified affordable field employee housing.
+The Secretary may use authorities granted by statute in combination with one another in thefurtherance of providing where necessary and justified affordable field employee housing.
 
 #### (10) Contracts for the management of field employee quarters
 

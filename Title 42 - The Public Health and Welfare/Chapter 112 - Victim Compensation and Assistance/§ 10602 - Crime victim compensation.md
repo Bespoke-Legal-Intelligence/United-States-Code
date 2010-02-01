@@ -42,7 +42,7 @@ A crime victim compensation program is an eligible crime victim compensation pro
 
 #### (c) Exclusion from income, resources, and assets for purposes of means tests
 
-Notwithstanding any other law (other than title IV of Public Law 107–42), for the purpose of any maximum allowed income, resource, or asset eligibility requirement in any Federal, State, or local government program using Federal funds that provides medical or other assistance (or payment or reimbursement of the cost of such assistance), any amount of crime victim compensation that the applicant receives through a crime victim compensation program under this section shall not be included in the income, resources, or assets of the applicant, nor shall that amount reduce the amount of the assistance available to the applicant from Federal, State, or local government programs using Federal funds, unless the total amount of assistance that the applicant receives from all such programs is sufficient to fully compensate the applicant for losses suffered as a result of the crime.
+Notwithstanding any other law (other than title IV of Public Law 107–42), for the purpose of any maximum allowed income, resource, or asset eligibility requirement in any Federal, State, or local government program using Federal funds that provides medical or other assistance (or payment or reimbursement of the cost of such assistance), any amount of crime victim compensation that the applicant receives through a crime victim compensation program under this section shall not be included in the income, resources, or assets of the applicant, nor shall that amount reduce the amount of the assistance available to the applicant from Federal, State, or local government programs usingFederal funds, unless the total amount of assistance that the applicant receives from all such programs is sufficient to fully compensate the applicant for losses suffered as a result of the crime.
 
 #### (d) Definitions
 
@@ -52,7 +52,7 @@ As used in this section—
 
 &emsp;(2) the term “medical expenses” includes, to the extent provided under the eligible crime victim compensation program, expenses for eyeglasses or other corrective lenses, for dental services and devices and prosthetic devices, and for services rendered in accordance with a method of healing recognized by the law of the State;
 
-&emsp;(3) the term “compensable crime” means a crime the victims of which are eligible forcompensation under the eligible crime victim compensation program, and includes crimes, whose victims suffer death or personal injury, that are described in section 247 of title 18, driving while intoxicated, and domestic violence; and
+&emsp;(3) the term “compensable crime” means a crime the victims of which are eligible for compensation under the eligible crime victim compensation program, and includes crimes, whose victims suffer death or personal injury, that are described in section 247 of title 18, driving while intoxicated, and domestic violence; and
 
 &emsp;(4) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, and any other possession or territory of the United States.
 

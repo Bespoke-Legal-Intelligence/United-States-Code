@@ -46,29 +46,29 @@
 
 &emsp;(C) The Assistant Attorney General designated as the Assistant Attorney General for National Security under section 507A of title 28.
 
-(July 26, 1947, ch. 343, title I, §106, as added Pub. L. 102–496, title VII, §706(a), Oct. 24, 1992, 106 Stat. 3195; amended Pub. L. 103–359, title V, §501(a)(3), Oct. 14, 1994, 108 Stat. 3428; Pub. L. 104–293, title VIII, §815(a), Oct. 11, 1996, 110 Stat. 3484; Pub. L. 107–108, title III, §308, Dec. 28, 2001, 115 Stat. 1399; Pub. L. 108–136, div. A, title IX, §921(e)(5), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 108–177, title I, §105(c), Dec. 13, 2003, 117 Stat. 2603; Pub. L. 108–458, title I, §1014, Dec. 17, 2004, 118 Stat. 3663; Pub. L. 109–177, title V, §506(a)(4), Mar. 9, 2006, 120 Stat. 247; Pub. L. 110–53, title V, §531(b)(5), Aug. 3, 2007, 121 Stat. 334.)
+(July 26, 1947, ch. 343, title I, §106, as added Pub. L. 102–496, title VII, §706(a), Oct. 24, 1992, 106Stat. 3195; amended Pub. L. 103–359, title V, §501(a)(3), Oct. 14, 1994, 108 Stat. 3428; Pub. L. 104–293, title VIII, §815(a), Oct. 11, 1996, 110 Stat. 3484; Pub. L. 107–108, title III, §308, Dec. 28, 2001, 115 Stat. 1399; Pub. L. 108–136, div. A, title IX, §921(e)(5), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 108–177, title I, §105(c), Dec. 13, 2003, 117 Stat. 2603; Pub. L. 108–458, title I, §1014, Dec. 17, 2004, 118 Stat. 3663; Pub. L. 109–177, title V, §506(a)(4), Mar. 9, 2006, 120 Stat. 247; Pub. L. 110–53, title V, §531(b)(5), Aug. 3, 2007, 121 Stat. 334.)
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(2)(I). Pub. L. 110–53 amended subpar. (I) generally. Prior to amendment, subpar. (I) read as follows: “The Assistant Secretary of Homeland Security for Information Analysis.”
+2007—Subsec. (b)(2)(I). Pub. L. 110–53 amended subpar. (I) generally. Prior to amendment, subpar. (I) read as follows: “The Assistant Secretary of Homeland Security for Information Analysis.”
 
-<b>2006</b>—Subsec. (c)(2)(C). Pub. L. 109–177 added subpar. (C).
+2006—Subsec. (c)(2)(C). Pub. L. 109–177 added subpar. (C).
 
-<b>2004</b>—Pub. L. 108–458 amended text generally, substituting provisions relating to involvement of Director of National Intelligence in appointments, consisting of subsecs. (a) to (c), for provisions relating to involvement of Director of Central Intelligence in appointments, consisting of subsecs. (a) and (b).
+2004—Pub. L. 108–458 amended text generally, substituting provisions relating to involvement of Director of National Intelligence in appointments, consisting of subsecs. (a) to (c), for provisions relating to involvement of Director of Central Intelligence in appointments, consisting of subsecs. (a) and (b).
 
-<b>2003</b>—Subsec. (a)(2)(C). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+2003—Subsec. (a)(2)(C). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 Subsec. (b)(2)(E). Pub. L. 108–177 added subpar. (E).
 
-<b>2001</b>—Subsec. (b)(2)(C), (D). Pub. L. 107–108 added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “The Director of the Office of Nonproliferation and National Security of the Department of Energy.”.
+2001—Subsec. (b)(2)(C), (D). Pub. L. 107–108 added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “The Director of the Office of Nonproliferation and National Security of the Department of Energy.”.
 
-<b>1996</b>—Pub. L. 104–293 amended section generally, substituting provisions relating to appointment of individuals responsible for intelligence-related activities for provisions relating to administrative provisions pertaining to defense elements within the intelligence community.
+1996—Pub. L. 104–293 amended section generally, substituting provisions relating to appointment of individuals responsible for intelligence-related activities for provisions relating to administrative provisions pertaining to defense elements within the intelligence community.
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–359 substituted “Central Imagery Office” for “central imagery authority” in heading and text.
+1994—Subsec. (b). Pub. L. 103–359 substituted “Central Imagery Office” for “central imagery authority” in heading and text.
 
 #### Effective Date of 2004 Amendment
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L.108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

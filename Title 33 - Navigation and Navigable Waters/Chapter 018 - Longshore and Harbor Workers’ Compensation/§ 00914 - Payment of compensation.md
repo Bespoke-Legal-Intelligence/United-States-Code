@@ -10,7 +10,7 @@ The first installment of compensation shall become due on the fourteenth day aft
 
 #### (c) Notification of commencement or suspension of payment
 
-Upon making the first payment, and upon suspension of payment for any cause, the employer shall immediately notify the deputy commissioner, in accordance with a form prescribed by the Secretary, that payment of compensation has begun or has been suspended, as the case may be.
+Upon making the first payment, and upon suspension of payment for any cause, the employer shall immediately notify the deputy commissioner, in accordance with a form prescribed bythe Secretary, that payment of compensation has begun or has been suspended, as the case may be.
 
 #### (d) Right to compensation controverted
 
@@ -30,7 +30,7 @@ Within sixteen days after final payment of compensation has been made, the emplo
 
 #### (h) Investigations, examinations, and hearings for controverted, stopped, or suspended payments
 
-The deputy commissioner (1) may upon his own initiative at any time in a case in which payments are being made without an award, and (2) shall in any case where right to compensation is controverted, or where payments of compensation have been stopped or suspended, upon receipt of notice from any person entitled to compensation, or from the employer, that the right to compensation is controverted, or that payments of compensation have been stopped or suspended, make such investigations, cause such medical examinations to be made, or hold suchhearings, and take such further action as he considers will properly protect the rights of all parties.
+The deputy commissioner (1) may upon his own initiative at any time in a case in which payments are being made without an award, and (2) shall in any case where right to compensation is controverted, or where payments of compensation have been stopped or suspended, upon receipt of notice from any person entitled to compensation, or from the employer, that the right to compensation is controverted, or that payments of compensation have been stopped or suspended, make such investigations, cause such medical examinations to be made, or hold such hearings, and take such further action as he considers will properly protect the rights of all parties.
 
 #### (i) Deposit by employer
 
@@ -56,7 +56,7 @@ Subsecs. (j) to (<i>l</i>). Pub. L. 98–426, §13(b), redesignated subsecs. (k)
 
 1972—Subsec. (f). Pub. L. 92–576, §15(d), substituted “order staying payment has been issued by the Board or court” for “interlocutory injunction staying payments is allowed by the court as provided therein”.
 
-Subsec. (m). Pub. L. 92–576, §5(e), repealed subsec. (m) limiting aggregate money allowance for an injury under this chapter to $24,000, making the limitation inapplicable to cases of permanent total disability or death, and providing that in applying the limitation there shall not be taken into account any amount payable under section 908(g) of this title for maintenance during rehabilitation or any amount of additional compensation required to be paid under this section for delay or default in the payment of compensation or any amount accruing as interest upon defaulted compensation collectible under section 918 of this title.
+Subsec. (m). Pub. L. 92–576, §5(e), repealed subsec. (m) limiting aggregate money allowance for an injuryunder this chapter to $24,000, making the limitation inapplicable to cases of permanent total disability or death, and providing that in applying the limitation there shall not be taken into account any amount payable under section 908(g) of this title for maintenance during rehabilitation or any amount of additional compensation required to be paid under this section for delay or default in the payment of compensation or any amount accruing as interest upon defaulted compensation collectible under section 918 of this title.
 
 1961—Subsec. (m). Pub. L. 87–87 increased limitation on total money allowance as compensation for injury from “$17,280” to “$24,000”.
 

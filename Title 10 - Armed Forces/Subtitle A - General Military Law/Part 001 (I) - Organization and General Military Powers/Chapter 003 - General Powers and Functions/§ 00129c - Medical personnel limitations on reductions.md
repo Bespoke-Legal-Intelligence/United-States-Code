@@ -44,11 +44,11 @@ Provisions similar to those in this section were contained in Pub. L. 101–510,
 
 #### Prohibition on Conversion of Military Medical and Dental Positions to Civilian Medical and Dental Positions
 
-Pub. L. 110–181, div. A, title VII, §721(a)–(d), Jan. 28, 2008, 122 Stat. 198, 199, provided that:
+Pub. L. 110–181, div. A, title VII, §721(a)–(d), Jan. 28, 2008, 122 Stat. 198, 199, as amended by Pub. L. 111–84, div. A, title VII, §701, Oct. 28, 2009, 123 Stat. 2372, provided that:
 
 “(a)
 
-Prohibition.—The Secretary of a military department may not convert any military medical or dental position to a civilian medical or dental position during the period beginning on October 1, 2007, and ending on September 30, 2012.
+Prohibition.—The Secretary of a military department may not convert any military medical or dental position to a civilian medical or dental position on or after October 1, 2007.
 
 “(b)
 

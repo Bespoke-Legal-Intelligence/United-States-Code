@@ -6,7 +6,7 @@ Participants in the system shall be deemed to be employees for the purposes of s
 
 #### (b) Management of Thrift Savings Plan accounts by Director
 
-Subsections (k) and (m) of section 8461 of title 5 shall apply with respect to contributions made by participants to the Thrift Savings Fund under section 8351 of such title and to earningsattributable to the investment of such contributions.
+Subsections (k) and (m) of section 8461 of title 5 shall apply with respect to contributions made by participants to the Thrift Savings Fund under section 8351 of such title and to earnings attributable to the investment of such contributions.
 
 (Pub. L. 88–643, title II, §293, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3242.)
 

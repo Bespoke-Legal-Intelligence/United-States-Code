@@ -20,7 +20,7 @@ Compliance with the requirements imposed under this subchapter shall be enforced
 
 &emsp;(5) the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], by the Securities and Exchange Commission, with respect to any broker or dealer subject to that Act.
 
-> The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
+> The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined insection 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
 
 #### (b) Violations of subchapter deemed violations of pre-existing statutory requirements; additional powers
 
@@ -32,15 +32,19 @@ Except to the extent that enforcement of the requirements imposed under this sub
 
 (Pub. L. 90–321, title IX, §917, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3739; amended Pub. L. 101–73, title VII, §744(<i>o</i>), Aug. 9, 1989, 103 Stat. 440; Pub. L. 102–242, title II, §212(f), Dec. 19, 1991, 105 Stat. 2301; Pub. L. 104–287, §6(h), Oct. 11, 1996, 110 Stat. 3399.)
 
+#### Renumbering of Section
+
+<i>Pub. L. 111–24, title IV, §§401(1), 403, May 22, 2009, 123 Stat. 1751, 1754, provided that, effective 15 months after May 22, 2009, section 917 of Pub. L. 90–321, which is classified to this section, is renumbered section 918 of Pub. L. 90–321.</i>
+
 #### References in Text
 
 Section 25(a) of the Federal Reserve Act, referred to in subsec. (a)(1)(B), which is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281. Section 25 of the Federal Reserve Act is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12.
 
-The Federal Credit Union Act, referred to in subsec. (a)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (a)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (a)(5), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (a)(5), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 #### Codification
 

@@ -20,7 +20,7 @@ Each report shall contain the following information for the reporting period:
 
 &emsp;(6) A description of the circumstances surrounding inspections described in paragraph (2), including instances of possible industrial espionage and misconduct of inspectors.
 
-&emsp;(7) The identity of parties claiming loss of trade secrets, the circumstances surroundingthose losses, and the efforts taken by the United States Government to redress those losses.
+&emsp;(7) The identity of parties claiming loss of trade secrets, the circumstances surrounding those losses, and the efforts taken by the United States Government to redress those losses.
 
 &emsp;(8) A description of instances where inspections under the Convention outside the United States have been disrupted or delayed.
 

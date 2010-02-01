@@ -18,7 +18,7 @@ A border of any parcel of land so transferred or acquired shall be within eighte
 
 #### (c) Selection of lands to be transferred or acquired; time period; consultation; restriction of New Mexico lands
 
-Lands to be so transferred or acquired shall, for a period of three years after July 8, 1980, be selected by the Navajo Tribe after consultation with the Commissioner: <i>Provided</i>, That, at the end of such period, the Commissioner shall have the authority to select such lands after consultation with the Navajo Tribe: <i>Provided further</i>, That not to exceed thirty-five thousand acres of lands so transferred or acquired shall be selected within the State of New Mexico.
+Lands to be so transferred or acquired shall, for a period of three years after July 8, 1980, be selected by the Navajo Tribe after consultation with the Commissioner: <i>Provided</i>, That, at theend of such period, the Commissioner shall have the authority to select such lands after consultation with the Navajo Tribe: <i>Provided further</i>, That not to exceed thirty-five thousand acres of lands so transferred or acquired shall be selected within the State of New Mexico.
 
 #### (d) Progress and status of land transfer program; reports to Congressional committees
 

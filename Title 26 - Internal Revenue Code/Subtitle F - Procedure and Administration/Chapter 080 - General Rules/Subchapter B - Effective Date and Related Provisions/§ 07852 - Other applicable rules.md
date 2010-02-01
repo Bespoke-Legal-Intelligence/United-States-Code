@@ -6,7 +6,7 @@ If any provision of this title, or the application thereof to any person or circ
 
 #### (b) Reference in other laws to Internal Revenue Code of 1939
 
-Any reference in any other law of the United States or in any Executive order to any provision of the Internal Revenue Code of 1939 shall, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, be deemed also to refer to the corresponding provision of this title.
+Any reference in any other law of the United States or in any Executive order to any provision of the Internal Revenue Code of 1939 shall, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof,be deemed also to refer to the corresponding provision of this title.
 
 #### (c) Items not to be twice included in income or deducted therefrom
 

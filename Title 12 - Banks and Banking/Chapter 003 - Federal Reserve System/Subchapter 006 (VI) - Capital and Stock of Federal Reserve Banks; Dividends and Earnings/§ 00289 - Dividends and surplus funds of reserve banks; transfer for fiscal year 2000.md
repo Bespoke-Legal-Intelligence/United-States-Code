@@ -34,7 +34,7 @@
 
 #### Codification
 
-Section is comprised of subsec. (a) \[formerly first undesignated par.\] of section 7 of act Dec. 23, 1913, and subsec. (b) \[enacted by Pub. L. 106–113, div. B,§1000(a)(5) \[title III, §302(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304\] of section 7. Another subsec. (b) of section 7 is classified to section 290 of this title. Subsec. (c) of section 7 is classified to section 531 of this title.
+Section is comprised of subsec. (a) \[formerly first undesignated par.\] of section 7 of act Dec. 23, 1913, and subsec. (b) \[enacted by Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §302(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304\] of section 7. Another subsec. (b) of section 7 is classified to section 290 of this title. Subsec. (c) of section 7 is classified to section 531 of this title.
 
 #### Amendments
 
@@ -60,7 +60,7 @@ Pub. L. 103–66, title III, §3002(b), Aug. 10, 1993, 107 Stat. 337, provided t
 
 “(1)
 
-In general.—In addition to the amounts required to be transferred from the surplus funds of the Federal reserve banks pursuant to section 7(a)(3) of the Federal Reserve Act \[former 12 U.S.C. 289(a)(3)\], the Federal reserve banks shall transfer from such surplus funds to the Board of Governors of the Federal Reserve System for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury, a total amount of $106,000,000 in fiscal year 1997 and a total amount of $107,000,000 in fiscal year 1998.
+In general.—In addition to the amounts required to be transferred from the surplus funds of theFederal reserve banks pursuant to section 7(a)(3) of the Federal Reserve Act \[former 12 U.S.C. 289(a)(3)\], the Federal reserve banks shall transfer from such surplus funds to the Board of Governors of the Federal Reserve System for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury, a total amount of $106,000,000 in fiscal year 1997 and a total amount of $107,000,000 in fiscal year 1998.
 
 “(2)
 

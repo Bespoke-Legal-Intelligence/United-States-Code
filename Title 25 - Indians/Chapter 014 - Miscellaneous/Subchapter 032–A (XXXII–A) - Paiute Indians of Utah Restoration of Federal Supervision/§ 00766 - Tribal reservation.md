@@ -54,6 +54,86 @@ Act of August 15, 1953 (67 Stat. 588), as amended by the Act of April 11, 1968 (
 
 2005—Subsec. (c). Pub. L. 109–126 substituted “Cedar” for “Cedar City”.
 
+#### Transfer of Land Into Trust for Shivwits Band of Paiute Indian Tribe of Utah
+
+Pub. L. 111–11, title I, §1982, Mar. 30, 2009, 123 Stat. 1093, provided that:
+
+“(a)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Parcel a.—The term ‘Parcel A’ means the parcel that consists of approximately 640 acres of land that is—
+
+&emsp;&emsp;“(A) managed by the Bureau of Land Management;
+
+&emsp;&emsp;“(B) located in Washington County, Utah; and
+
+&emsp;&emsp;“(C) depicted on the map entitled ‘Washington County Growth and Conservation Act Map’ \[meaning the “Washington County Growth and Conservation Act Map”, dated November 13, 2008\].
+
+&emsp;“(2)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+
+&emsp;“(3)
+
+Tribe.—The term ‘Tribe’ means the Shivwits Band of Paiute Indians of the State of Utah.
+
+“(b)
+
+Parcel To Be Held in Trust.—
+
+&emsp;“(1)
+
+In general.—At the request of the Tribe, the Secretary shall take into trust for the benefit of the Tribe all right, title, and interest of the United States in and to Parcel A.
+
+&emsp;“(2)
+
+Survey; legal description.—
+
+&emsp;&emsp;“(A)
+
+Survey.—Not later than 180 days after the date of enactment of this Act \[Mar. 30, 2009\], the Secretary, acting through the Director of the Bureau of Land Management, shall complete a survey of Parcel A to establish the boundary of Parcel A.
+
+&emsp;&emsp;“(B)
+
+Legal description of parcel a.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—Upon the completion of the survey under subparagraph (A), the Secretary shall publish in the Federal Register a legal description of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the boundary line of Parcel A; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) Parcel A.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Technical corrections.—Before the date of publication of the legal descriptions under clause (i), the Secretary may make minor corrections to correct technical and clerical errors in the legal descriptions.
+
+&emsp;&emsp;&emsp;“(iii)
+
+Effect.—Effective beginning on the date of publication of the legal descriptions under clause (i), the legal descriptions shall be considered to be the official legal descriptions of Parcel A.
+
+&emsp;“(3)
+
+Effect.—Nothing in this section—
+
+&emsp;&emsp;“(A) affects any valid right in existence on the date of enactment of this Act \[Mar. 30, 2009\];
+
+&emsp;&emsp;“(B) enlarges, impairs, or otherwise affects any right or claim of the Tribe to any land or interest in land other than to Parcel A that is—
+
+&emsp;&emsp;&emsp;“(i) based on an aboriginal or Indian title; and
+
+&emsp;&emsp;&emsp;“(ii) in existence as of the date of enactment of this Act; or
+
+&emsp;&emsp;“(C) constitutes an express or implied reservation of water or a water right with respect to Parcel A.
+
+&emsp;“(4)
+
+Land to be made a part of the reservation.—Land taken into trust pursuant to this section shall be considered to be part of the reservation of the Tribe.”
+
 #### Conveyance of Land Held in Trust for Paiute Indian Tribe of Utah
 
 Pub. L. 109–126, Dec. 7, 2005, 119 Stat. 2546, provided that:
@@ -134,7 +214,7 @@ Pub. L. 98–219, Feb. 17, 1984, 98 Stat. 11, as amended by Pub. L. 109–126, �
 
 &emsp;“(3) To be held in trust for the Cedar Band of the Paiute Tribe of Utah: That portion of parcel numbered 1, figure 4, page 85, containing approximately two thousand forty-four acres.
 
-&emsp;“(4) To be held in trust for the Indian Peaks Band of the Paiute Indian Tribe of Utah: That portion ofparcel numbered 1, figure 4, page 85, containing approximately four hundred and twenty-four acres.
+&emsp;“(4) To be held in trust for the Indian Peaks Band of the Paiute Indian Tribe of Utah: That portion of parcel numbered 1, figure 4, page 85, containing approximately four hundred and twenty-four acres.
 
 “(c) Nothing in this section shall deprive any person of any existing legal right-of-way, mining claim, grazing permit, water right, or other right or interest which such person may have in the lands described in subsection (b).
 
@@ -158,7 +238,7 @@ Pub. L. 98–219, Feb. 17, 1984, 98 Stat. 11, as amended by Pub. L. 109–126, �
 
 “Sec. 3. (a) The Secretary of Agriculture shall not deny the tribe or any member of the tribe the right to use and occupy, on a nonexclusive basis, the national forest land described in subsection (b) for religious and ceremonial purposes for such periods of time and under such reasonable terms and conditions as the Secretary may prescribe: <i>Provided</i>, That the Secretary shall permit the tribe to use and occupy, on an exclusive basis, so much of the national forest land in subsection (b) abutting Fish Lake as is necessary for such religious and ceremonial purposes during and including the second and third weeks of June and the first and second weeks of September of each year, under such reasonable terms and conditions as the Secretary may prescribe.
 
-“(b) The land referred to in subsection (a) is the parcel of land depicted on the map contained in the document entitled ‘Proposed Paiute Indian Tribe of Utah Reservation Plan’, dated January 24, 1982, and published by the United States Department of the Interior, Bureau of Indian Affairs, as follows: Parcel numbered 6: Fish Lake; figure 9, page 117.
+“(b) The land referred to in subsection (a) is the parcel of land depicted on the map contained in the document entitled ‘Proposed Paiute Indian Tribe of Utah Reservation Plan’, dated January 24, 1982, and published by the United States Department of the Interior,Bureau of Indian Affairs, as follows: Parcel numbered 6: Fish Lake; figure 9, page 117.
 
 “Sec. 4. (a) There is hereby established in the Treasury of the United States a fund to be known as the Paiute Indian Tribe of Utah Economic Development and Tribal Government Fund. This Fund shall be held in trust for the benefit of the tribe and administered in accordance with this Act.
 

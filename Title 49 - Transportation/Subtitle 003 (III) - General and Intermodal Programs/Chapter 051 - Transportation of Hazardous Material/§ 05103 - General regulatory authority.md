@@ -34,7 +34,7 @@ Consultation.—When prescribing a security regulation or issuing a security ord
 
 (d)
 
-Biennial Report.—The Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the Houseof Representatives and the Senate Committee on Commerce, Science, and Transportation a biennial report providing information on whether the Secretary has designated as hazardous materials for purposes of chapter 51 of such title all by-products of the methamphetamine-production process that are known by the Secretary to pose an unreasonable risk to health and safety or property when transported in commerce in a particular amount and form.
+Biennial Report.—The Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Senate Committee on Commerce, Science, and Transportation a biennial report providing information on whether the Secretary has designated as hazardous materials for purposes of chapter 51 of such title all by-products of the methamphetamine-production process that are known by the Secretary to pose an unreasonable risk to health and safety or property when transported in commerce in a particular amount and form.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 761; Pub. L. 103–311, title I, §117(a)(2), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 103–429, §6(3), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 107–296, title XVII, §1711(a), Nov. 25, 2002, 116 Stat. 2319; Pub. L. 109–59, title VII, §§7103, 7126, Aug. 10, 2005, 119 Stat. 1893, 1909; Pub. L. 109–177, title VII, §741, Mar. 9, 2006, 120 Stat. 272.)
 
@@ -148,7 +148,7 @@ In General.—In the administration of chapter 51 of title 49, United States Cod
 
 &emsp;“(1) the packaging is in compliance with regulations of the Secretary under the Hazardous Materials Transportation Act \[former 49 U.S.C. 1801 et seq.\] as in effect on September 30, 1991; and
 
-&emsp;“(2) the packaging will not be used for the transportation of hazardous materials that include materials which are poisonous by inhalation or materials in Packing Groups I and II.
+&emsp;“(2) the packaging will not be used for the transportation of hazardous materials that include materialswhich are poisonous by inhalation or materials in Packing Groups I and II.
 
 “(b)
 

@@ -22,7 +22,7 @@ Eligibility for Primary Dislocation Allowance.—(1) Under regulations prescribe
 
 &emsp;&emsp;(ii) actually moves from a place of residence under circumstances described in section 406a of this title.
 
-&emsp;(E) A member who is ordered to move in connection with the closure or realignment of a military installation and, as a result, the member's dependents actually move or, in the case of a member without dependents, the member actually moves.
+&emsp;(E) A member who is ordered to move in connection with the closure or realignment of amilitary installation and, as a result, the member's dependents actually move or, in the case of a member without dependents, the member actually moves.
 
 &emsp;(F) A member whose dependents actually move from the member's place of residence in connection with the performance of orders for the member to report to the member's first permanent duty station if the move—
 
@@ -88,7 +88,7 @@ Rule of Construction.—For purposes of this section, a member whose dependents 
 
 Advance Payment.—A dislocation allowance payable under this section may be paid in advance.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 474; Pub. L. 89–26, §1(3), (4), May 22, 1965, 79 Stat. 117; Pub. L. 89–718, §60, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–207, §1(4), Dec. 16, 1967, 81 Stat. 651; Pub. L. 97–60, title I, §124, Oct. 14, 1981, 95 Stat. 1003; Pub. L. 99–145, title VI, §611(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §619(a), Nov. 14, 1986, 100 Stat. 3881; Pub. L. 100–180, div. A, title VI, §613, Dec. 4, 1987, 101 Stat. 1093; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, §624, Feb. 10, 1996, 110 Stat. 363; Pub. L. 104–201, div. A, title VI, §622(a), Sept. 23, 1996, 110 Stat. 2548; Pub. L. 105–85, div. A, title VI, §632(a), Nov. 18, 1997, 111 Stat. 1795; Pub. L. 106–398, §1 \[\[div. A\], title VI, §644\], Oct. 30, 2000, 114 Stat. 1654, 1654A–161; Pub. L. 107–107, div. A, title VI, §§635(a), (b), 636(a), Dec. 28, 2001, 115 Stat. 1144, 1145.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 474; Pub. L. 89–26, §1(3), (4), May 22, 1965, 79 Stat. 117; Pub. L. 89–718, §60, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–207, §1(4), Dec. 16, 1967, 81 Stat. 651; Pub. L. 97–60, title I, §124, Oct. 14, 1981, 95 Stat. 1003; Pub. L. 99–145, title VI, §611(a), Nov. 8, 1985, 99Stat. 639; Pub. L. 99–661, div. A, title VI, §619(a), Nov. 14, 1986, 100 Stat. 3881; Pub. L. 100–180, div. A, title VI, §613, Dec. 4, 1987, 101 Stat. 1093; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, §624, Feb. 10, 1996, 110 Stat. 363; Pub. L. 104–201, div. A, title VI, §622(a), Sept. 23, 1996, 110 Stat. 2548; Pub. L. 105–85, div. A, title VI, §632(a), Nov. 18, 1997, 111 Stat. 1795; Pub. L. 106–398, §1 \[\[div. A\], title VI, §644\], Oct. 30, 2000, 114 Stat. 1654, 1654A–161; Pub. L. 107–107, div. A, title VI, §§635(a), (b), 636(a), Dec. 28, 2001, 115 Stat. 1144, 1145.)
 
 Historical and Revision Notes
 
@@ -116,7 +116,7 @@ Oct. 12, 1949, ch. 681, §303(c) (4th through 8th sentences); added Mar. 31, 195
 
 In subsection (a), the words “Except as provided in subsections (b) and (c) of this section” and “for one month” are inserted for clarity. The words “make an authorized move” are substituted for the words “are authorized to move and actually move”.
 
-In subsection (b), the words “is not entitled to . . . more than one” are substituted for the words “shall be entitled . . . for not more than one”. The words “the payment of” and “for not more than one permanent change of station” are omitted as surplusage. Clauses (1) and (2) are substituted for the last 29 words of the5th and 6th sentences of section 253(c) of existing title 37.
+In subsection (b), the words “is not entitled to . . . more than one” are substituted for the words “shall be entitled . . . for not more than one”. The words “the payment of” and “for not more than one permanent change of station” are omitted as surplusage. Clauses (1) and (2) are substituted for the last 29 words of the 5th and 6th sentences of section 253(c) of existing title 37.
 
 #### Amendments
 

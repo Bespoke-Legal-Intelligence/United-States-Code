@@ -4,7 +4,7 @@
 
 Congress makes the following findings:
 
-&emsp;(1) The right to freedom of religion undergirds the very origin and existence of theUnited States. Many of our Nation's founders fled religious persecution abroad, cherishing in their hearts and minds the ideal of religious freedom. They established in law, as a fundamental right and as a pillar of our Nation, the right to freedom of religion. From its birth to this day, the United States has prized this legacy of religious freedom and honored this heritage by standing for religious freedom and offering refuge to those suffering religious persecution.
+&emsp;(1) The right to freedom of religion undergirds the very origin and existence of the United States. Many of our Nation's founders fled religious persecution abroad, cherishing in their hearts and minds the ideal of religious freedom. They established in law, as a fundamental right and as a pillar of our Nation, the right to freedom of religion. From its birth to this day, the United States has prized this legacy of religious freedom and honored this heritage by standing for religious freedom and offering refuge to those suffering religious persecution.
 
 &emsp;(2) Freedom of religious belief and practice is a universal human right and fundamental freedom articulated in numerous international instruments, including the Universal Declaration of Human Rights, the International Covenant on Civil and Political Rights, the Helsinki Accords, the Declaration on the Elimination of All Forms of Intolerance and Discrimination Based on Religion or Belief, the United Nations Charter, and the European Convention for the Protection of Human Rights and Fundamental Freedoms.
 
@@ -46,7 +46,7 @@ House Concurrent Resolution 102, referred to in subsec. (a)(7)(C), is H. Con. Re
 
 The Foreign Assistance Act of 1961, referred to in subsec. (b)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The International Financial Institutions Act of 1977, referred to in subsec. (b)(2), probably means the International Financial Institutions Act, Pub. L. 95–118, Oct. 3, 1977, 91 Stat. 1067, as amended, which enacted sections 262c, 262d, 262e to 262g–3, 262m to 262p–7, 262r to 262t, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as notes under sections 262c and 282i of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 261 of this title and Tables.
+The International Financial Institutions Act of 1977, referred to in subsec. (b)(2), probably means the International Financial Institutions Act, Pub. L. 95–118, Oct. 3, 1977, 91 Stat. 1067, as amended, which enacted sections 262c, 262d, 262e to 262g–3, 262m to 262p–7, 262r to262t, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as notes under sections 262c and 282i of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 261 of this title and Tables.
 
 #### Short Title
 

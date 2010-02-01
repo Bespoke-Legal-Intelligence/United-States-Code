@@ -180,7 +180,7 @@ Subsec. (b)(3)(B)(iii). Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(4)(B)\]
 
 Subsec. (f)(3). Pub. L. 106–554, §1(a)(7) \[title I, §115(a)\], amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “For purposes of this subsection, the term ‘new empowerment zone facility bond’ means any bond which would be described in subsection (a) if only empowerment zones designated under section 1391(g) were taken into account under sections 1397B and 1397C.”
 
-1997—Subsec. (b)(2). Pub. L. 105–34, §955(b), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘qualified zone property’ has the meaning given such term by section 1397C; except that the references to empowerment zones shall be treated as including references to enterprise communities.”
+1997—Subsec. (b)(2). Pub. L. 105–34, §955(b), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘qualified zoneproperty’ has the meaning given such term by section 1397C; except that the references to empowerment zones shall be treated as including references to enterprise communities.”
 
 Subsec. (b)(3). Pub. L. 105–34, §955(b), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The term ‘enterprise zone business’ has the meaning given to such term by section 1397B, except that—
 

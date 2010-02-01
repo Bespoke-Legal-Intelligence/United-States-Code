@@ -6,11 +6,11 @@
 
 &emsp;(2) Precise measurements, calibrations, and standards help United States industry and manufacturing concerns compete strongly in world markets.
 
-&emsp;(3) Improvements in manufacturing and product technology depend on fundamental scientific and engineering research to develop (A) the precise and accurate measurement methods and measurement standards needed to improve quality and reliability, and (B) new technological processes by which such improved methods may be used in practice to improve manufacturing and to assist industry to transfer important laboratory discoveries into commercial products.
+&emsp;(3) Improvements in manufacturing and product technology depend on fundamental scientific and engineering research to develop (A) the precise and accurate measurement methods and measurement standards needed to improve quality and reliability, and (B) new technological processes by which such improved methods may be used in practice to improve manufacturing and to assist industry totransfer important laboratory discoveries into commercial products.
 
 &emsp;(4) Scientific progress, public safety, and product compatibility and standardization also depend on the development of precise measurement methods, standards, and related basic technologies.
 
-&emsp;(5) The National Bureau of Standards since its establishment has served as the Federal focal point in developing basic measurement standards and related technologies, has taken a lead role in stimulating cooperative workamong private industrial organizations in efforts to surmount technological hurdles, and otherwise has been responsible for assisting in the improvement of industrial technology.
+&emsp;(5) The National Bureau of Standards since its establishment has served as the Federal focal point in developing basic measurement standards and related technologies, has taken a lead role in stimulating cooperative work among private industrial organizations in efforts to surmount technological hurdles, and otherwise has been responsible for assisting in the improvement of industrial technology.
 
 &emsp;(6) The Federal Government should maintain a national science, engineering, and technology laboratory which provides measurement methods, standards, and associated technologies and which aids United States companies in using new technologies to improve products and manufacturing processes.
 

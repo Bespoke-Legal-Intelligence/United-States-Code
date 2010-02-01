@@ -1,6 +1,6 @@
 ### §1808. Report of Attorney General to Congressional committees; limitation on authority or responsibility of information gathering activities of Congressional committees; report of Congressional committees to Congress
 
-(a)(1) On a semiannual basis the Attorney General shall fully inform the House Permanent Select Committee on Intelligence and the Senate Select Committee on Intelligence, and the Committee on the Judiciary of the Senate, concerning all electronic surveillance under this subchapter. Nothing in this subchapter shall be deemed to limit the authority and responsibility of the appropriate committees of each House of Congress to obtain such information as they may need to carry out their respective functions and duties.
+(a)(1) On a semiannual basis the Attorney General shall fully inform the House Permanent Select Committee on Intelligence and the Senate Select Committee on Intelligence, and the Committee on the Judiciary of the Senate, concerning all electronic surveillance under this subchapter. Nothing in this subchapter shall be deemed to limit the authority and responsibility of the appropriate committees of each House of Congress to obtain such information as theymay need to carry out their respective functions and duties.
 
 (2) Each report under the first sentence of paragraph (1) shall include a description of—
 
@@ -10,7 +10,7 @@
 
 &emsp;(C) the total number of emergency employments of electronic surveillance under section 1805(e) of this title and the total number of subsequent orders approving or denying such electronic surveillance.
 
-(b) On or before one year after October 25, 1978, and on the same day each year for four years thereafter, the Permanent Select Committee on Intelligence and the Senate Select Committee on Intelligence shall report respectively to the House of Representatives and the Senate, concerning the implementation of this chapter. Said reports shall include but not be limited toan analysis and recommendations concerning whether this chapter should be (1) amended, (2) repealed, or (3) permitted to continue in effect without amendment.
+(b) On or before one year after October 25, 1978, and on the same day each year for four years thereafter, the Permanent Select Committee on Intelligence and the Senate Select Committee on Intelligence shall report respectively to the House of Representatives and the Senate, concerning the implementation of this chapter. Said reports shall include but not be limited to an analysis and recommendations concerning whether this chapter should be (1) amended, (2) repealed, or (3) permitted to continue in effect without amendment.
 
 (Pub. L. 95–511, title I, §108, Oct. 25, 1978, 92 Stat. 1795; Pub. L. 106–567, title VI, §604(a), Dec. 27, 2000, 114 Stat. 2853; Pub. L. 109–177, title I, §108(c), Mar. 9, 2006, 120 Stat. 204; Pub. L. 110–261, title I, §105(b), July 10, 2008, 122 Stat. 2462.)
 
@@ -20,9 +20,9 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2)(C). Pub. L. 110–261 substituted “1805(e)” for “1805(f)”.
+2008—Subsec. (a)(2)(C). Pub. L. 110–261 substituted “1805(e)” for “1805(f)”.
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–177, §108(c)(1), inserted “, and the Committee on the Judiciary of the Senate,” after “Senate Select Committee on Intelligence”.
+2006—Subsec. (a)(1). Pub. L. 109–177, §108(c)(1), inserted “, and the Committee on the Judiciary of the Senate,” after “Senate Select Committee on Intelligence”.
 
 Subsec. (a)(2). Pub. L. 109–177, §108(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Each report under the first sentence of paragraph (1) shall include a description of—
 
@@ -30,7 +30,7 @@ Subsec. (a)(2). Pub. L. 109–177, §108(c)(2), amended par. (2) generally. Prio
 
 &emsp;“(B) each criminal case in which information acquired under this chapter has been authorized for use at trial during such reporting period.”
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–567 designated existing provisions as par. (1) and added par. (2).
+2000—Subsec. (a). Pub. L. 106–567 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date of 2008 Amendment
 

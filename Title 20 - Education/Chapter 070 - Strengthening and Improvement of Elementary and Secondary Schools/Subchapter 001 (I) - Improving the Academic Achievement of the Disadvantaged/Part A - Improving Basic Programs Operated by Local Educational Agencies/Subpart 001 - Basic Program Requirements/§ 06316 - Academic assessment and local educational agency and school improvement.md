@@ -72,7 +72,7 @@
 
 &emsp;&emsp;After the resolution of a review under paragraph (2), each school identified under paragraph (1) for school improvement shall, not later than 3 months after being so identified, develop or revise a school plan, in consultation with parents, school staff, the local educational agency serving the school, and outside experts, for approval by such local educational agency. The school plan shall cover a 2-year period and—
 
-&emsp;&emsp;&emsp;(i) incorporate strategies based on scientifically based research that will strengthen the core academic subjects in the school and address the specific academic issues that caused the school to be identified for school improvement, and may include a strategy for the implementation of a comprehensive school reform model that includes each of the components described in part F of this subchapter;
+&emsp;&emsp;&emsp;(i) incorporate strategies based on scientifically based research that will strengthen the core academic subjects inthe school and address the specific academic issues that caused the school to be identified for school improvement, and may include a strategy for the implementation of a comprehensive school reform model that includes each of the components described in part F of this subchapter;
 
 &emsp;&emsp;&emsp;(ii) adopt policies and practices concerning the school's core academic subjects that have the greatest likelihood of ensuring that all groups of students specified in section 6311(b)(2)(C)(v) of this title and enrolled in the school will meet the State's proficient level of achievement on the State academic assessment described in section 6311(b)(3) of this title not later than 12 years after the end of the 2001–2002 school year;
 
@@ -186,7 +186,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) any underlying staffing, curriculum, or other problems in the school; and
 
-&emsp;&emsp;&emsp;(ii) is designed to increase substantially the likelihood that each group of studentsdescribed in <sup>2</sup> 6311(b)(2)(C) of this title enrolled in the school identified for corrective action will meet or exceed the State's proficient levels of achievement on the State academic assessments described in section 6311(b)(3) of this title.
+&emsp;&emsp;&emsp;(ii) is designed to increase substantially the likelihood that each group of students described in <sup>2</sup> 6311(b)(2)(C) of this title enrolled in the school identified for corrective action will meet or exceed the State's proficient levels of achievement on the State academic assessments described in section 6311(b)(3) of this title.
 
 #### (B) System
 
@@ -276,7 +276,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Unless a lesser amount is needed to comply with paragraph (9) and to satisfy all requests for supplemental educational services under subsection (e) of this section, a local educational agency shall spend an amount equal to 20 percent of its allocation under subpart 2 of this part, from which the agency shall spend—
+&emsp;&emsp;Unless a lesser amount is needed to comply with paragraph (9) and to satisfy all requests for supplemental educational services under subsection (e) of this section, a local educational agency shall spend an amountequal to 20 percent of its allocation under subpart 2 of this part, from which the agency shall spend—
 
 &emsp;&emsp;&emsp;(i) an amount equal to 5 percent of its allocation under subpart 2 of this part to provide, or pay for, transportation under paragraph (9);
 
@@ -318,7 +318,7 @@
 
 &emsp;&emsp;(C) ensure that academic assessment results under this part are provided to schools before any identification of a school may take place under this subsection; and
 
-&emsp;&emsp;(D) for local educational agencies or schools identified for improvement underthis subsection, notify the Secretary of major factors that were brought to the attention of the State educational agency under section 6311(b)(9) of this title that have significantly affected student academic achievement.
+&emsp;&emsp;(D) for local educational agencies or schools identified for improvement under this subsection, notify the Secretary of major factors that were brought to the attention of the State educational agency under section 6311(b)(9) of this title that have significantly affected student academic achievement.
 
 #### (c) State review and local educational agency improvement
 
@@ -394,7 +394,7 @@
 
 #### (B) Methods and strategies
 
-&emsp;&emsp;Technical assistance provided under this section by the State educational agency or an entity authorized by such agency shall be supported by effective methods and instructional strategies based on scientifically based research. Such technical assistance shall address problems, if any, in implementing the parental involvement activities described in section 6318 of this title and the professional development activities described in section 6319 of this title.
+&emsp;&emsp;Technical assistance provided under this section by the State educational agency or an entity authorized by such agency shall be supported by effective methods and instructional strategies based on scientifically based research. Such technical assistance shall address problems, if any, in implementing the parental involvement activities described in section 6318 of this title and theprofessional development activities described in section 6319 of this title.
 
 #### (10) Corrective action
 
@@ -460,7 +460,7 @@ Nothing in this section shall be construed to alter or otherwise affect the righ
 
 #### (1) Supplemental educational services
 
-&emsp;In the case of any school described in paragraph (5), (7), or (8) of subsection (b) of this section, the local educational agency serving such school shall, subject to this subsection, arrange for the provision of supplemental educational services to eligible children in the school from a provider with a demonstrated record of effectiveness, that is selected by the parents and approved for that purpose by the State educational agency in accordance with reasonable criteria, consistent with paragraph (5), that the State educational agency shall adopt.
+&emsp;In the case of any school described in paragraph (5), (7), or (8) of subsection (b) of thissection, the local educational agency serving such school shall, subject to this subsection, arrange for the provision of supplemental educational services to eligible children in the school from a provider with a demonstrated record of effectiveness, that is selected by the parents and approved for that purpose by the State educational agency in accordance with reasonable criteria, consistent with paragraph (5), that the State educational agency shall adopt.
 
 #### (2) Local educational agency responsibilities
 
@@ -524,7 +524,7 @@ Nothing in this section shall be construed to alter or otherwise affect the righ
 
 &emsp;The amount that a local educational agency shall make available for supplemental educational services for each child receiving those services under this subsection shall be the lesser of—
 
-&emsp;&emsp;(A) the amount of the agency's allocation under subpart 2 of this part, divided by the number of children from families below the poverty level counted under section 6333(c)(1)(A) of this title; or
+&emsp;&emsp;(A) the amount of the agency's allocation under subpart 2 of this part, divided by thenumber of children from families below the poverty level counted under section 6333(c)(1)(A) of this title; or
 
 &emsp;&emsp;(B) the actual costs of the supplemental educational services received by the child.
 
@@ -604,7 +604,7 @@ Nothing in this section shall be construed to alter or otherwise affect the righ
 
 #### (B) Corrective action
 
-&emsp;&emsp;A State shall identify for corrective action under subsection (c)(10) of this section any local educational agency that was in corrective action status under this section as this section was in effect on the day preceding January 8, 2002.
+&emsp;&emsp;A State shall identify for corrective action under subsection (c)(10) of this section anylocal educational agency that was in corrective action status under this section as this section was in effect on the day preceding January 8, 2002.
 
 #### (C) Special rule
 

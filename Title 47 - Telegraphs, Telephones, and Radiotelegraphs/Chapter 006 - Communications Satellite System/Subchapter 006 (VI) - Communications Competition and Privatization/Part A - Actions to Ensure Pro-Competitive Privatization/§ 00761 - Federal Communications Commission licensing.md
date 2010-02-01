@@ -18,7 +18,7 @@
 
 &emsp;&emsp;In considering the application of INTELSAT, Inmarsat, or their successor entities for a license or construction permit, or for the renewal or assignment or use of any such license or permit, or in considering the request of any entity subject to United States jurisdiction for authorization to use any space segment owned, leased, or operated by INTELSAT, Inmarsat, or their successor entities, to provide non-core services to, from, or within the United States, the Commission shall determine whether—
 
-&emsp;&emsp;&emsp;(i) after April 1, 2001, in the case of INTELSAT and its successor entities,INTELSAT and any successor entities have been privatized in a manner that will harm competition in the telecommunications markets of the United States; or
+&emsp;&emsp;&emsp;(i) after April 1, 2001, in the case of INTELSAT and its successor entities, INTELSAT and any successor entities have been privatized in a manner that will harm competition in the telecommunications markets of the United States; or
 
 &emsp;&emsp;&emsp;(ii) after April 1, 2000, in the case of Inmarsat and its successor entities, Inmarsat and any successor entities have been privatized in a manner that will harm competition in the telecommunications markets of the United States.
 

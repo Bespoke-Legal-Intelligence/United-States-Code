@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title4",
- "package": "USCODE-2008-title4",
+ "package": "USCODE-2009-title4",
  "pieces": [
   {
    "id": "4_",
@@ -33,17 +33,17 @@
    "marks": [
     [
      "I",
-     30,
+     32,
      [
       [
-       100,
+       101,
        "[Page 2]"
       ]
      ]
     ],
     [
      "L",
-     86,
+     90,
      "[Page 3]",
      true
     ]
@@ -135,20 +135,20 @@
    "id": "4_7",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 7]",
-     true
-    ],
-    [
      "I",
-     60,
+     14,
      [
       [
-       520,
-       "[Page 8]"
+       195,
+       "[Page 7]"
       ]
      ]
+    ],
+    [
+     "L",
+     58,
+     "[Page 8]",
+     true
     ]
    ],
    "path": "Chapter 001 - The Flag/§ 00007 - Position and manner of display.md",
@@ -162,7 +162,7 @@
    "marks": [
     [
      "L",
-     22,
+     20,
      "[Page 9]",
      true
     ]
@@ -186,10 +186,14 @@
    "id": "4_10",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 10]",
-     true
+     "I",
+     40,
+     [
+      [
+       273,
+       "[Page 10]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - The Flag/§ 00010 - Modification of rules and customs by President.md",
@@ -265,10 +269,14 @@
    "id": "4_-ch4",
    "marks": [
     [
-     "L",
-     55,
-     "[Page 11]",
-     true
+     "I",
+     38,
+     [
+      [
+       26,
+       "[Page 11]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - The States/README.md",
@@ -317,14 +325,10 @@
    "id": "4_105",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       215,
-       "[Page 12]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 12]",
+     true
     ]
    ],
    "path": "Chapter 004 - The States/§ 00105 - State, and so forth, taxation affecting Federal areas; sales or use tax.md",
@@ -371,30 +375,30 @@
   },
   {
    "id": "4_110",
-   "marks": [],
-   "path": "Chapter 004 - The States/§ 00110 - Same; definitions.md",
-   "printed_pages": [
-    12,
-    12
-   ]
-  },
-  {
-   "id": "4_111",
    "marks": [
     [
      "I",
-     4,
+     18,
      [
       [
-       133,
+       281,
        "[Page 13]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 004 - The States/§ 00111 - Same; taxation affecting Federal employees; income tax.md",
+   "path": "Chapter 004 - The States/§ 00110 - Same; definitions.md",
    "printed_pages": [
     12,
+    13
+   ]
+  },
+  {
+   "id": "4_111",
+   "marks": [],
+   "path": "Chapter 004 - The States/§ 00111 - Same; taxation affecting Federal employees; income tax.md",
+   "printed_pages": [
+    13,
     13
    ]
   },
@@ -412,7 +416,7 @@
    "marks": [
     [
      "L",
-     16,
+     6,
      "[Page 14]",
      true
     ]
@@ -427,14 +431,10 @@
    "id": "4_114",
    "marks": [
     [
-     "I",
-     56,
-     [
-      [
-       383,
-       "[Page 15]"
-      ]
-     ]
+     "L",
+     48,
+     "[Page 15]",
+     true
     ]
    ],
    "path": "Chapter 004 - The States/§ 00114 - Limitation on State income taxation of certain pension income.md",
@@ -454,30 +454,30 @@
   },
   {
    "id": "4_116",
-   "marks": [],
-   "path": "Chapter 004 - The States/§ 00116 - Rules for determining State and local government treatment of charges related to mobile telecommunications services.md",
-   "printed_pages": [
-    15,
-    15
-   ]
-  },
-  {
-   "id": "4_117",
    "marks": [
     [
      "I",
-     8,
+     50,
      [
       [
-       86,
+       101,
        "[Page 16]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 004 - The States/§ 00117 - Sourcing rules.md",
+   "path": "Chapter 004 - The States/§ 00116 - Rules for determining State and local government treatment of charges related to mobile telecommunications services.md",
    "printed_pages": [
     15,
+    16
+   ]
+  },
+  {
+   "id": "4_117",
+   "marks": [],
+   "path": "Chapter 004 - The States/§ 00117 - Sourcing rules.md",
+   "printed_pages": [
+    16,
     16
    ]
   },
@@ -507,7 +507,7 @@
      4,
      [
       [
-       1186,
+       372,
        "[Page 17]"
       ]
      ]
@@ -533,10 +533,10 @@
    "marks": [
     [
      "I",
-     22,
+     12,
      [
       [
-       165,
+       455,
        "[Page 18]"
       ]
      ]
@@ -562,10 +562,10 @@
    "marks": [
     [
      "I",
-     60,
+     48,
      [
       [
-       125,
+       118,
        "[Page 19]"
       ]
      ]
@@ -599,10 +599,14 @@
    "id": "4_-ch5",
    "marks": [
     [
-     "L",
-     21,
-     "[Page 20]",
-     true
+     "I",
+     19,
+     [
+      [
+       715,
+       "[Page 20]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Official Territorial Papers/README.md",
@@ -640,30 +644,26 @@
   },
   {
    "id": "4_144",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 21]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Official Territorial Papers/§ 00144 - Cooperation of departments and agencies.md",
    "printed_pages": [
     20,
-    20
+    21
    ]
   },
   {
    "id": "4_145",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       234,
-       "[Page 21]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Official Territorial Papers/§ 00145 - Printing and distribution.md",
    "printed_pages": [
-    20,
+    21,
     21
    ]
   },
@@ -677,6 +677,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2008-title4 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2009-title4 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 04 - Flag and Seal, Seat of Government, and the States"
 }

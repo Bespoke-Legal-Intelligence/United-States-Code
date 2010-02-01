@@ -14,7 +14,7 @@ Whoever, with intent to obtain a ride or transportation, boards or enters any ai
 
 The word “aircraft” as used in this section includes any contrivance for navigation or flight in the air.
 
-(June 25, 1948, ch. 645, 62 Stat. 802; Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 109–177, title III, §308, Mar. 9, 2006, 120 Stat. 241.)
+(June 25, 1948, ch. 645, 62 Stat. 802; Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat.3498; Pub. L. 109–177, title III, §308, Mar. 9, 2006, 120 Stat. 241.)
 
 #### Historical and Revision Notes
 

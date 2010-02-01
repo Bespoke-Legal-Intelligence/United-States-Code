@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) any agency or unit thereof excluded from coverage by the President under subsection (c) of this section; or
 
-&emsp;&emsp;(B) the Federal Bureau of Investigation, the Drug Enforcement Administration, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10, and, as determined by the President, an Executive agency, or unit thereof, whose principal function is the conduct of foreign intelligence or counterintelligence activities;
+&emsp;&emsp;(B) the Federal Bureau of Investigation, the Drug Enforcement Administration, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10, and, as determined by the President, an Executiveagency, or unit thereof, whose principal function is the conduct of foreign intelligence or counterintelligence activities;
 
 &emsp;&emsp;(C) the Federal Election Commission or the Election Assistance Commission;
 
@@ -74,7 +74,7 @@
 
 (d) Any agency or unit which is excluded from coverage under subsection (c) of this section shall make a sustained effort to bring its personnel system into conformity with the Senior Executive Service to the extent practicable.
 
-(e) The Office may at any time recommend to the President that any exclusion previously granted to an agency or unit thereof under subsection (c) of this section be revoked. Upon recommendation of the Office, the President may revoke, by written determination, any exclusion made under subsection (c) of this section.
+(e) The Office may at any time recommend to the President that any exclusion previouslygranted to an agency or unit thereof under subsection (c) of this section be revoked. Upon recommendation of the Office, the President may revoke, by written determination, any exclusion made under subsection (c) of this section.
 
 (f) If—
 
@@ -84,7 +84,7 @@
 
 > the Office shall, within 30 days after the action, transmit to the Congress written notice of the exclusion or revocation.
 
-(Added Pub. L. 95–454, title IV, §402(a), Oct. 13, 1978, 92 Stat. 1155; amended Pub. L. 96–54, §2(a)(12), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–187, title II, §203, Jan. 8, 1980, 93 Stat. 1368; Pub. L. 100–325, §2(c), May 30, 1988, 102 Stat. 581; Pub. L. 101–73, title VII, §742(c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 101–624, title XVIII, §1841, Nov. 28, 1990, 104 Stat. 3835; Pub. L. 102–496, title IV, §402(b), Oct. 24, 1992, 106 Stat. 3184; Pub. L. 102–550, title XIII, §1351(b), Oct. 28, 1992, 106 Stat. 3969; Pub. L.103–359, title V, §501(d), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–123, §8(d)(1)(B), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 107–171, title X, §10702(c)(1), May 13, 2002, 116 Stat. 517; Pub. L. 107–252, title VIII, §811(b), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title I, §1161(g)(2), July 30, 2008, 122 Stat. 2781; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
+(Added Pub. L. 95–454, title IV, §402(a), Oct. 13, 1978, 92 Stat. 1155; amended Pub. L. 96–54, §2(a)(12), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–187, title II, §203, Jan. 8, 1980, 93 Stat. 1368; Pub. L. 100–325, §2(c), May 30, 1988, 102 Stat. 581; Pub. L. 101–73, title VII, §742(c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 101–624, title XVIII, §1841, Nov. 28, 1990, 104 Stat. 3835; Pub. L. 102–496, title IV, §402(b), Oct. 24, 1992, 106 Stat. 3184; Pub. L. 102–550, title XIII, §1351(b), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–359, title V, §501(d), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–123, §8(d)(1)(B), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 107–171, title X, §10702(c)(1), May 13, 2002, 116 Stat. 517; Pub. L. 107–252, title VIII, §811(b), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title I, §1161(g)(2), July 30, 2008, 122 Stat. 2781; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
 
 #### References in Text
 

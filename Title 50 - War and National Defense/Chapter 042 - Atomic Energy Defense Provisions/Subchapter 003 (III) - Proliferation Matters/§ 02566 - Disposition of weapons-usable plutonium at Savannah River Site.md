@@ -120,7 +120,7 @@ The National Environmental Policy Act of 1969, referred to in subsecs. (b)(6)(B)
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a)(2)(A). Pub. L. 109–103, §313(1)(A), substituted “2012” for “2009” in two places.
+2005—Subsec. (a)(2)(A). Pub. L. 109–103, §313(1)(A), substituted “2012” for “2009” in two places.
 
 Subsec. (a)(3)(B)(ii). Pub. L. 109–103, §313(1)(B)(i), substituted “2012” for “2009”.
 

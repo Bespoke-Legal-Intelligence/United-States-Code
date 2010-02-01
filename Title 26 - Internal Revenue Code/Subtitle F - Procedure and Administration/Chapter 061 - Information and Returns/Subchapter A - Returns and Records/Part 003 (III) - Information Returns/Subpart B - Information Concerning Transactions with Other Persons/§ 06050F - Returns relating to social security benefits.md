@@ -40,7 +40,7 @@ For purposes of this section
 
 &emsp;The term “social security benefit” has the meaning given to such term by section 86(d)(1).
 
-(Added Pub. L. 98–21, title I, §121(b), Apr. 20, 1983, 97 Stat. 82; amended Pub. L. 99–514, title XV, §1501(c)(9), Oct. 22, 1986, 100 Stat. 2738; Pub. L. 100–360, title I, §111(b), July 1, 1988, 102 Stat. 697; Pub. L. 101–234, title I, §102(a), Dec. 13, 1989, 103 Stat. 1980; Pub. L. 103–296, title I, §108(h)(4), Aug. 15, 1994, 108 Stat. 1487.)
+(Added Pub. L. 98–21, title I, §121(b), Apr. 20, 1983, 97 Stat. 82; amended Pub. L. 99–514, title XV, §1501(c)(9), Oct. 22, 1986, 100 Stat. 2738; Pub. L. 100–360, title I, §111(b), July 1, 1988, 102 Stat. 697; Pub. L. 101–234, title I, §102(a), Dec. 13, 1989,103 Stat. 1980; Pub. L. 103–296, title I, §108(h)(4), Aug. 15, 1994, 108 Stat. 1487.)
 
 #### References in Text
 

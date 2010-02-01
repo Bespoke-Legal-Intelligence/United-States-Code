@@ -28,7 +28,7 @@ If, pursuant to paragraph 6 of the Settlement Agreement, there is a subsequent a
 
 #### (d) Civil and criminal jurisdiction over lands acquired by United States in trust for Seminole Tribe
 
-(1) Notwithstanding the acquisition of any land under subsection (a) or (c) of this section by the United States in trust for the tribe, the assumption of jurisdiction in favor of the State contained in section 285.16, Florida Statutes, pursuant to section 7 of the Act of August 15, 1953,<sup>1</sup> (67 Stat. 588; Public Law 280), shall continue in full force and effect on such lands unless the United States accepts a retrocession by the State of such civil or criminal jurisdiction in whole or in part under section 1323 of this title. The laws of Florida relating to alcoholic beverages, gambling, sale of cigarettes, and their successor laws, shall have the same force and effect within said transferred lands as they have elsewhere within the State. The State, with respect to the transferred lands, shall also have jurisdiction over offenses committed by or against Indians under said laws to the same extent the State has jurisdiction over said offenses committed elsewhere within the State.
+(1) Notwithstanding the acquisition of any land under subsection (a) or (c) of this sectionby the United States in trust for the tribe, the assumption of jurisdiction in favor of the State contained in section 285.16, Florida Statutes, pursuant to section 7 of the Act of August 15, 1953,<sup>1</sup> (67 Stat. 588; Public Law 280), shall continue in full force and effect on such lands unless the United States accepts a retrocession by the State of such civil or criminal jurisdiction in whole or in part under section 1323 of this title. The laws of Florida relating to alcoholic beverages, gambling, sale of cigarettes, and their successor laws, shall have the same force and effect within said transferred lands as they have elsewhere within the State. The State, with respect to the transferred lands, shall also have jurisdiction over offenses committed by or against Indians under said laws to the same extent the State has jurisdiction over said offenses committed elsewhere within the State.
 
 (2) Nothing in this subsection shall be construed as permitting the exercise of the above jurisdiction by the State regarding matters to which section 1162(b) of title 18 and section 1360(b) of title 28 apply.
 
@@ -38,7 +38,7 @@ If, pursuant to paragraph 6 of the Settlement Agreement, there is a subsequent a
 
 #### References in Text
 
-Section 7 of the Act of August 15, 1953, referred to in subsec. (d)(1), is section 7 of act Aug. 15, 1953, ch. 505,67 Stat. 590, which was set out as a note under section 1360 of Title 28, Judiciary and Judicial Procedure, and was repealed by Pub. L. 90–284, title IV, §403(b), Apr. 11, 1968, 82 Stat. 79.
+Section 7 of the Act of August 15, 1953, referred to in subsec. (d)(1), is section 7 of act Aug. 15, 1953, ch. 505, 67 Stat. 590, which was set out as a note under section 1360 of Title 28, Judiciary and Judicial Procedure, and was repealed by Pub. L. 90–284, title IV, §403(b), Apr. 11, 1968, 82 Stat. 79.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

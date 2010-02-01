@@ -10,7 +10,7 @@ Nuclear Officer Bonus.—The Secretary of the Navy may pay a nuclear officer bon
 
 (b)
 
-Nuclear Officer Incentive Pay.—The Secretary of the Navy may pay nuclear officer incentive pay under this section to an officer in the Navy who—
+Nuclear Officer Incentive Pay.—The Secretary of the Navy may pay nuclear officerincentive pay under this section to an officer in the Navy who—
 
 &emsp;(1) is entitled to basic pay under section 204 of this title; and
 
@@ -18,7 +18,7 @@ Nuclear Officer Incentive Pay.—The Secretary of the Navy may pay nuclear offic
 
 (c)
 
-Additional Eligibility Criteria.—The Secretary of the Navy may impose such additional criteria for the receipt of a nuclear officer bonus or nuclear officer incentive pay under thissection as the Secretary determines to be appropriate.
+Additional Eligibility Criteria.—The Secretary of the Navy may impose such additional criteria for the receipt of a nuclear officer bonus or nuclear officer incentive pay under this section as the Secretary determines to be appropriate.
 
 (d)
 
@@ -74,11 +74,13 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 (i)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2009.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2010.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 166; amended Pub. L. 110–417, \[div. A\], title VI, §618(a), Oct. 14, 2008, 122 Stat. 4486.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 166; amended Pub. L. 110–417, \[div. A\], title VI, §618(a), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(3), Oct. 28, 2009, 123 Stat. 2353.)
 
 #### Amendments
+
+2009—Subsec. (i). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 
 2008—Subsecs. (a)(2), (b)(2). Pub. L. 110–417 struck out “and operational” after “current technical”.
 

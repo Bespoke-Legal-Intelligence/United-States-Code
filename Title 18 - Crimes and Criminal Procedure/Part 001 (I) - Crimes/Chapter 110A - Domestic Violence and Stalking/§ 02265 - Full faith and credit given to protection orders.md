@@ -14,7 +14,7 @@ Protection Order.—A protection order issued by a State, tribal, or territorial
 
 (c)
 
-Cross or Counter Petition.—A protection order issued by a State, tribal, or territorial court against one who has petitioned, filed a complaint, or otherwise filed a written pleading for protection against abuse by a spouse or intimate partner is not entitled to full faith and credit if—
+Cross or Counter Petition.—A protection order issued by a State, tribal, or territorial court against one who has petitioned, filed a complaint, or otherwise filed a written pleadingfor protection against abuse by a spouse or intimate partner is not entitled to full faith and credit if—
 
 &emsp;(1) no cross or counter petition, complaint, or other written pleading was filed seeking such a protection order; or
 
@@ -54,7 +54,7 @@ Subsec. (b)(2). Pub. L. 109–162, §106(a)(2), substituted “State, tribal, or
 
 Subsec. (c). Pub. L. 109–162, §106(a)(2), substituted “State, tribal, or territorial” for “State or tribal” in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 109–162, §106(a), substituted “, Indian tribe, or territory” for “or Indian tribe” intwo places and “State, tribal, or territorial” for “State or tribal”.
+Subsec. (d)(1). Pub. L. 109–162, §106(a), substituted “, Indian tribe, or territory” for “or Indian tribe” in two places and “State, tribal, or territorial” for “State or tribal”.
 
 Subsec. (d)(2). Pub. L. 109–162, §106(a)(2), substituted “State, tribal, or territorial” for “State or tribal”.
 

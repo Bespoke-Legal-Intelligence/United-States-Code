@@ -108,7 +108,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(B) amounts deposited by an employee or Member under section 8422(e);
 
-&emsp;&emsp;(C) amounts deposited by an employee, Member, or survivor under section 8411(f); and
+&emsp;&emsp;(C) amounts deposited by an employee, Member, or survivor under section 8411(f) or 8422(i); and
 
 &emsp;&emsp;(D) interest on the deductions and deposits which, for any calendar year, shall be equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 8348(c), (d), and (e), as determined by the Secretary (compounded annually);
 
@@ -140,7 +140,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(i) the actuarial present value of deductions to be withheld from the future basic pay of employees and Members currently subject to this chapter pursuant to section 8422;
 
-&emsp;&emsp;&emsp;(ii) the actuarial present value of the future contributions to be made pursuant tosection 8423(a) with respect to employees and Members currently subject to this chapter;
+&emsp;&emsp;&emsp;(ii) the actuarial present value of the future contributions to be made pursuant to section 8423(a) with respect to employees and Members currently subject to this chapter;
 
 &emsp;&emsp;&emsp;(iii) the Fund balance as of the date the supplemental liability is determined, to the extent that such balance is attributable—
 
@@ -180,25 +180,27 @@ For the purpose of this chapter—
 
 &emsp;(36) the term “customs and border protection officer” means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(<i>o</i>), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(a)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–261, div. C, title XXXI, §3154(f), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(2), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–571, §3(c)(2), Dec. 28, 2000, 114 Stat. 3056; Pub. L. 108–83, title I, §104(a), Sept. 30, 2003, 117 Stat. 1017; Pub. L. 108–176, title II, §226(a)(2), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 110–161, div. E, title V, §535(b)(1), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 110–181, div. A, title XI, §1115(b), Jan. 28, 2008, 122 Stat. 361.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(<i>o</i>), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(a)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–261, div. C, title XXXI, §3154(f), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(2), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–571, §3(c)(2), Dec. 28, 2000, 114 Stat. 3056; Pub. L. 108–83, title I, §104(a), Sept. 30, 2003, 117 Stat. 1017; Pub. L. 108–176, title II, §226(a)(2), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 110–161, div. E, title V, §535(b)(1), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 110–181, div. A, title XI, §1115(b), Jan. 28, 2008, 122 Stat. 361; Pub. L. 111–84, div. A, title XIX, §1904(b)(1), Oct. 28, 2009, 123 Stat. 2616.)
 
 #### References in Text
 
-The Social Security Act, referred to in par. (11), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in par. (11), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Chapter 21 of the Internal Revenue Code of 1986, referred to in par. (11), is classified to chapter 21 (§3101 et seq.) of Title 26, Internal Revenue Code.
 
 Section 103(6) of the Foreign Service Act of 1980, referred to in par. (11)(iii), is classified to section 3903(6) of Title 22, Foreign Relations and Intercourse.
 
-The Federal Employees’ Retirement System Act of 1986, referred to in par. (17)(B), is Pub. L. 99–335, June 6, 1986, 100 Stat. 514, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 8401 of this title and Tables.
+The Federal Employees’ Retirement System Act of 1986, referred to in par. (17)(B), is Pub. L. 99–335, June 6, 1986, 100 Stat. 514. For complete classification of this Act to the Code, see Short Title note set out under section 8401 of this title and Tables.
 
-The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, referred to in pars. (19)(A) and (27)(B)(iii)(II), is Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, as amended, which is set out as a note under section 8331 of this title.
+The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, referred to in pars. (19)(A) and (27)(B)(iii)(II), is Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, which is set out as a note under section 8331 of this title.
 
 The date of the enactment of the Legislative Branch Appropriations Act, 2004, referred to in par. (20), is the date of enactment of Pub. L. 108–83, which was approved Sept. 30, 2003.
 
 #### Amendments
 
-2008—Par. (31). Pub. L. 110–181, in concluding provisions, substituted “and includes service as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast GuardAcademy, or as a midshipman at the United States Naval Academy, but” for “but”.
+2009—Par. (19)(C). Pub. L. 111–84 substituted “8411(f) or 8422(i);” for “8411(f);”.
+
+2008—Par. (31). Pub. L. 110–181, in concluding provisions, substituted “and includes service as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy, but” for “but”.
 
 2007—Par. (36). Pub. L. 110–161 added par. (36).
 
@@ -300,7 +302,7 @@ Amendment by Pub. L. 105–261 effective at the beginning of the first pay perio
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under suchamendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
 
 #### Effective Date of 1994 Amendments
 
@@ -366,7 +368,7 @@ Pub. L. 100–43, §1, May 22, 1987, 101 Stat. 315, provided: “That this Act \
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–556 provided that: “This Act \[enacting section 8478a of this title and section 4069 of Title 22, Foreign Relations and Intercourse, amending this section and sections 6301, 8332, 8350, 8402, 8411 to 8413, 8415, 8421a, 8442, 8443, 8452, 8457, 8461, 8462, 8477, 8478, and 8901 of this title and sections 4046, 4064, 4071c, 4071d,and 4071j of Title 22, enacting provisions set out as notes under sections 6301, 8331, 8332, 8335, 8341, 8477, and 8478 of this title and section 4046 of Title 22, and amending provisions set out as notes under sections 8331 and 8341 of this title\] may be cited as the ‘Federal Employees’ Retirement System Technical Corrections Act of 1986’.”
+Section 1 of Pub. L. 99–556 provided that: “This Act \[enacting section 8478a of this title and section 4069 of Title 22, Foreign Relations and Intercourse, amending this section and sections 6301, 8332, 8350, 8402, 8411 to 8413, 8415, 8421a, 8442, 8443, 8452, 8457, 8461, 8462, 8477, 8478, and 8901 of this title and sections 4046, 4064, 4071c, 4071d, and 4071j of Title 22, enacting provisions set out as notes under sections 6301, 8331, 8332, 8335, 8341, 8477, and 8478 of this title and section 4046 of Title 22, and amending provisions set out as notes under sections 8331 and 8341 of this title\] may be cited as the ‘Federal Employees’ Retirement System Technical Corrections Act of 1986’.”
 
 #### Short Title
 

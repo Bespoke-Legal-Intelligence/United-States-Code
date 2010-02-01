@@ -7,6 +7,7 @@
 | [2431\.](%C2%A7%2002431%20-%20Weapons%20development%20and%20procurement%20schedules.md) | Weapons development and procurement schedules. |
 | [2432\.](%C2%A7%2002432%20-%20Selected%20Acquisition%20Reports.md) | Selected Acquisition Reports. |
 | [2433\.](%C2%A7%2002433%20-%20Unit%20cost%20reports.md) | Unit cost reports. |
+| [2433a.](%C2%A7%2002433a%20-%20Critical%20cost%20growth%20in%20major%20defense%20acquisition%20programs.md) | Critical cost growth in major defense acquisition programs. |
 | [2434\.](%C2%A7%2002434%20-%20Independent%20cost%20estimates%3B%20operational%20manpower%20requirements.md) | Independent cost estimates; operational manpower requirements. |
 | [2435\.](%C2%A7%2002435%20-%20Baseline%20description.md) | Baseline description. |
 | [2436\.](%C2%A7%2002436%20-%20Major%20defense%20acquisition%20programs%20incentive%20program%20for%20contractors%20to%20purchase%20capital%20assets%20manufactured%20in%20United%20States.md) | Major defense acquisition programs: incentive program for contractors to purchase capital assets manufactured in United States. |
@@ -18,6 +19,8 @@
 
 #### Amendments
 
+2009—Pub. L. 111–23, title II, §206(a)(2), May 22, 2009, 123 Stat. 1728, added item 2433a.
+
 2008—Pub. L. 110–417, \[div. A\], title VIII, §811(a)(2), Oct. 14, 2008, 122 Stat. 4521, added item 2430a.
 
 2004—Pub. L. 108–375, div. A, title VIII, §805(a)(2), Oct. 28, 2004, 118 Stat. 2009, added item 2437.
@@ -28,7 +31,7 @@
 
 1993—Pub. L. 103–160, div. A, title VIII, §828(a)(4), Nov. 30, 1993, 107 Stat. 1713, struck out items 2436 “Defense enterprise programs” and 2437 “Defense enterprise programs: milestone authorization”.
 
-1992—Pub. L. 102–484, div. A, title VIII, §821(a)(2), div. D, title XLII, §4216(b)(2), Oct. 23, 1992, 106 Stat. 2460, 2670, added items 2438 and 2440 and redesignated former item 2438 as 2439.
+1992—Pub. L. 102–484, div. A, title VIII, §821(a)(2), div. D, title XLII, §4216(b)(2), Oct. 23, 1992, 106 Stat. 2460,2670, added items 2438 and 2440 and redesignated former item 2438 as 2439.
 
 1987—Pub. L. 100–26, §7(b)(1), (2)(B), (9)(B), Apr. 21, 1987, 100 Stat. 279, 280, substituted “Major Defense Acquisition Programs” for “Oversight of Cost Growth in Major Programs” in chapter heading, added item 2430, and transferred former item 2305a from chapter 137 and redesignated it as item 2438.
 
@@ -48,6 +51,7 @@ Pub. L. 99–433, title I, §101(a)(4), Oct. 1, 1986, 100 Stat. 994, added chapt
 - [&sect; 02431 - Weapons development and procurement schedules](%C2%A7%2002431%20-%20Weapons%20development%20and%20procurement%20schedules.md)
 - [&sect; 02432 - Selected Acquisition Reports](%C2%A7%2002432%20-%20Selected%20Acquisition%20Reports.md)
 - [&sect; 02433 - Unit cost reports](%C2%A7%2002433%20-%20Unit%20cost%20reports.md)
+- [&sect; 02433a - Critical cost growth in major defense acquisition programs](%C2%A7%2002433a%20-%20Critical%20cost%20growth%20in%20major%20defense%20acquisition%20programs.md)
 - [&sect; 02434 - Independent cost estimates; operational manpower requirements](%C2%A7%2002434%20-%20Independent%20cost%20estimates%3B%20operational%20manpower%20requirements.md)
 - [&sect; 02435 - Baseline description](%C2%A7%2002435%20-%20Baseline%20description.md)
 - [&sect; 02436 - Major defense acquisition programs incentive program for contractors to purchase capital assets manufactured in United States](%C2%A7%2002436%20-%20Major%20defense%20acquisition%20programs%20incentive%20program%20for%20contractors%20to%20purchase%20capital%20assets%20manufactured%20in%20United%20States.md)

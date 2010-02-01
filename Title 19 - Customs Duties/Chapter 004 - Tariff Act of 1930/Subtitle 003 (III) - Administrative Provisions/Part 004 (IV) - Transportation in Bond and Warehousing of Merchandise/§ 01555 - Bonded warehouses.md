@@ -14,7 +14,7 @@ Subject to subsection (b) of this section, buildings or parts of buildings and o
 
 &emsp;(B) 25 statute miles from the exit point through which the purchaser of duty-free merchandise will depart the customs territory; or
 
-&emsp;(C) a port of entry, as established under section 1 of the Act of August 24, 1912 (37 Stat. 434), or within 25 statute miles of a staffed port of entry if reasonable assurance can beprovided that duty-free merchandise sold by the enterprise will be exported by individuals departing from the customs territory through an international airport located within the customs territory.
+&emsp;(C) a port of entry, as established under section 1 of the Act of August 24, 1912 (37 Stat. 434), or within 25 statute miles of a staffed port of entry if reasonable assurance can be provided that duty-free merchandise sold by the enterprise will be exported by individuals departing from the customs territory through an international airport located within the customs territory.
 
 (3) Each duty-free sales enterprise—
 
@@ -70,7 +70,7 @@ Subject to subsection (b) of this section, buildings or parts of buildings and o
 
 &emsp;(C) The term “customs territory” means the customs territory of the United States and foreign trade zones.
 
-&emsp;(D) The term “duty-free sales enterprise” means a person that sells, for use outside the customs territory, duty-free merchandise that is delivered from a bonded warehouse to an airport or other exit point for exportation by,or on behalf of, individuals departing from the customs territory.
+&emsp;(D) The term “duty-free sales enterprise” means a person that sells, for use outside the customs territory, duty-free merchandise that is delivered from a bonded warehouse to an airport or other exit point for exportation by, or on behalf of, individuals departing from the customs territory.
 
 &emsp;(E) The term “duty-free merchandise” means merchandise sold by a duty-free sales enterprise on which neither Federal duty nor Federal tax has been assessed pending exportation from the customs territory.
 

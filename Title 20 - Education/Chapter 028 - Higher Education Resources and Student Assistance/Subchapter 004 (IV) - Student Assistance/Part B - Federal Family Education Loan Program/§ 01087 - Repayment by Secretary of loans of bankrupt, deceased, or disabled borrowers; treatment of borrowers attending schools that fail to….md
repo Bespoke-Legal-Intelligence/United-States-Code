@@ -44,7 +44,7 @@ The Secretary shall pay to the holder of a loan described in section 1078(a)(1)(
 
 If a student on whose behalf a parent has received a loan described in section 1078–2 of this title dies, then the Secretary shall discharge the borrower's liability on the loan by repaying the amount owed on the loan.
 
-(Pub. L. 89–329, title IV, §437, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1414; amended Pub. L. 102–325, title IV, §428, July 23, 1992, 106 Stat. 551; Pub. L. 103–208, §2(c)(63)–(65), Dec. 20, 1993, 107 Stat. 2469; Pub. L. 105–244, title IV, §431, Oct. 7, 1998, 112 Stat. 1709; Pub. L. 109–171, title VIII, §8012, Feb. 8, 2006, 120 Stat. 166; Pub. L. 110–315, title I, §103(b)(7), title IV, §§432(b)(4), 437(a), (b), Aug. 14, 2008, 122 Stat. 3089, 3246, 3257, 3258.)
+(Pub. L. 89–329, title IV, §437, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1414; amended Pub. L. 102–325, title IV, §428, July 23, 1992, 106 Stat. 551; Pub. L. 103–208, §2(c)(63)–(65), Dec. 20, 1993, 107 Stat. 2469; Pub. L. 105–244, title IV, §431, Oct. 7, 1998, 112 Stat. 1709; Pub. L. 109–171, title VIII, §8012, Feb. 8, 2006, 120 Stat. 166; Pub. L. 110–315, title I, §103(b)(7), title IV, §§432(b)(4), 437(a), (b), Aug. 14, 2008, 122 Stat. 3089, 3246, 3257, 3258; Pub. L. 111–39, title IV, §402(e)(1), July 1, 2009, 123 Stat. 1942.)
 
 #### Amendment of Subsection (a)
 
@@ -69,6 +69,12 @@ If a student on whose behalf a parent has received a loan described in section 1
 &emsp;&emsp;&emsp;<i>“(ii) has earned income in excess of the poverty line; or</i>
 
 &emsp;&emsp;<i>“(B) the Secretary determines necessary.”.</i>
+
+<i>Pub. L. 111–39, title IV, §402(e), July 1, 2009, 123 Stat. 1942, provided that, effective July 1, 2010, and as if enacted as part of the amendments made by Pub. L. 110–315, §437(a), set out above, subsection (a)(1) of this section is amended–</i>
+
+<i>(1) in the matter preceding subparagraph (A), by substituting “Secretary), or if” for “Secretary),, or if”; and</i>
+
+<i>(2) in subparagraph (B), by inserting “the reinstatement and resumption to be” after “determines”.</i>
 
 #### References in Text
 
@@ -99,6 +105,10 @@ Subsec. (c)(1). Pub. L. 103–208, §2(c)(64), substituted “If a borrower” f
 Subsec. (c)(4). Pub. L. 103–208, §2(c)(65), inserted at end “The amount discharged under this subsection shall be treated the same as loans under section 1087ee(a)(5) of this title.”
 
 1992—Pub. L. 102–325 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) and (b) which related to repayment by Secretary of loans of bankrupt, deceased, or disabled borrowers.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–39, title IV, §402(e)(2), July 1, 2009, 123 Stat. 1943, provided that: “The amendments made by paragraph (1) \[amending this section\] shall be effective as if enacted as part of the amendments in section 437(a) of the Higher Education Opportunity Act (Public Law 110–315) \[amending this section\], and shall take effect on July 1, 2010.”
 
 #### Effective Date of 2008 Amendment
 

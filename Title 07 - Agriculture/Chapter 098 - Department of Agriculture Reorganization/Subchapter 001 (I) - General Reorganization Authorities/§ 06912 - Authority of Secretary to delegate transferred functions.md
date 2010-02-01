@@ -10,7 +10,7 @@
 
 &emsp;The delegation authority provided by paragraph (1) shall be subject to—
 
-&emsp;&emsp;(A) sections 6942, 6971(d),<sup>1</sup> 6993, and 2204e of this title and subsections (a) and (b)(1) of section 6981 of this title;
+&emsp;&emsp;(A) sections 6942, 6971(f), 6993, and 2204e of this title and subsections (a) and (b)(1) of section 6981 of this title;
 
 &emsp;&emsp;(B) sections 5692 and 5693 of this title; and
 
@@ -60,10 +60,6 @@ Notwithstanding any other provision of law, a person shall exhaust all administr
 
 (Pub. L. 103–354, title II, §212, Oct. 13, 1994, 108 Stat. 3210; Pub. L. 110–234, title VII, §7511(c)(27), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, §4(a), title VII, §7511(c)(27), June 18, 2008, 122 Stat. 1664, 2031.)
 
-#### Amendment of Subsection (a)(2)(A)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2031, provided that, effective Oct. 1, 2009, subsection (a)(2)(A) of this section is amended by substituting “6971(f),” for “6971(d),”.</i>
-
 #### References in Text
 
 This chapter, referred to in subsecs. (b)(2), (c), and (d)(1), was in the original “this title”, meaning title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note set out under section 6901 of this title and Tables.
@@ -72,11 +68,13 @@ This chapter, referred to in subsecs. (b)(2), (c), and (d)(1), was in the origin
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
+#### Amendments
+
+2008—Subsec. (a)(2)(A). Pub. L. 110–246, §7511(c)(27), substituted “6971(f),” for “6971(d),”.
+
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Amendment by section 7511(c)(27) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “6971(f),”.</i>
 

@@ -24,7 +24,7 @@ Duties.—The Director shall—
 
 (c)
 
-Principal Advisor for Operational Energy Plans and Programs.—(1) The Director is the principal adviser to the Secretary of Defense and the Deputy Secretary of Defense regarding operational energy plans and programs and the principal policy official within the senior management of the Department of Defense regarding operational energy plans and programs.
+Principal Advisor for Operational Energy Plans and Programs.—(1) The Director is the principal adviser to the Secretary of Defenseand the Deputy Secretary of Defense regarding operational energy plans and programs and the principal policy official within the senior management of the Department of Defense regarding operational energy plans and programs.
 
 (2) The Director may communicate views on matters related to operational energy plans and programs and the operational energy strategy required by subsection (d) directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense.
 

@@ -10,10 +10,13 @@
 | [246\.](%C2%A7%2000246%20-%20Deprivation%20of%20relief%20benefits.md) | Deprivation of relief benefits. |
 | [247\.](%C2%A7%2000247%20-%20Damage%20to%20religious%20property%3B%20obstruction%20of%20persons%20in%20the%20free%20exercise%20of%20religious%20beliefs.md) | Damage to religious property; obstruction of persons in the free exercise of religious beliefs. |
 | [248\.](%C2%A7%2000248%20-%20Freedom%20of%20access%20to%20clinic%20entrances.md) | Freedom of access to clinic entrances. |
+| [249\.](%C2%A7%2000249%20-%20Hate%20crime%20acts.md) | Hate crime acts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. E, §4707(b), Oct. 28, 2009, 123 Stat. 2841, added item 249.
 
 1994—Pub. L. 103–322, title XXXIII, §330023(a)(1), Sept. 13, 1994, 108 Stat. 2150, substituted “Freedom of access to clinic entrances” for “Blocking access to reproductive health services” in item 248.
 
@@ -40,3 +43,4 @@ Pub. L. 100–346, §3, June 24, 1988, 102 Stat. 645, added item 247.
 - [&sect; 00246 - Deprivation of relief benefits](%C2%A7%2000246%20-%20Deprivation%20of%20relief%20benefits.md)
 - [&sect; 00247 - Damage to religious property; obstruction of persons in the free exercise of religious beliefs](%C2%A7%2000247%20-%20Damage%20to%20religious%20property%3B%20obstruction%20of%20persons%20in%20the%20free%20exercise%20of%20religious%20beliefs.md)
 - [&sect; 00248 - Freedom of access to clinic entrances](%C2%A7%2000248%20-%20Freedom%20of%20access%20to%20clinic%20entrances.md)
+- [&sect; 00249 - Hate crime acts](%C2%A7%2000249%20-%20Hate%20crime%20acts.md)

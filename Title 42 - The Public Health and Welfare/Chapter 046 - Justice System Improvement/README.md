@@ -30,6 +30,8 @@
 | [3714a.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003714a%20-%20Grants%20to%20States%20for%20threat%20assessment%20databases.md) | Grants to States for threat assessment databases. |
 | [3715\.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003715%20-%20Office%20of%20Justice%20Programs%20grants%2C%20cooperative%20agreements%2C%20and%20contracts.md) | Office of Justice Programs grants, cooperative agreements, and contracts. |
 | [3715a.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003715a%20-%20Consolidation%20of%20financial%20management%20systems%20of%20Office%20of%20Justice%20Programs.md) | Consolidation of financial management systems of Office of Justice Programs. |
+| [3716\.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003716%20-%20Support%20for%20criminal%20investigations%20and%20prosecutions%20by%20State%2C%20local%2C%20and%20tribal%20law%20enforcement%20officials.md) | Support for criminal investigations and prosecutions by State, local, and tribal law enforcement officials. |
+| [3716a.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003716a%20-%20Grant%20program.md) | Grant program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

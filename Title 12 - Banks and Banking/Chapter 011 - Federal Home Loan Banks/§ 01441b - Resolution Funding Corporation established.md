@@ -124,7 +124,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (B) Purchases of stock by Federal Home Loan Banks
 
-&emsp;&emsp;Each Federal Home Loan Bank shall purchase stock in the Funding Corporation attimes and in amounts prescribed by the Thrift Depositor Protection Oversight Board.
+&emsp;&emsp;Each Federal Home Loan Bank shall purchase stock in the Funding Corporation at times and in amounts prescribed by the Thrift Depositor Protection Oversight Board.
 
 #### (2) Par value; transferability
 
@@ -292,7 +292,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (B) Proceeds from Resolution Trust Corporation
 
-&emsp;&emsp;To the extent the amounts available pursuant to subparagraph (A) are insufficient tocover the amount of interest payments, the Resolution Trust Corporation shall pay to the Funding Corporation—
+&emsp;&emsp;To the extent the amounts available pursuant to subparagraph (A) are insufficient to cover the amount of interest payments, the Resolution Trust Corporation shall pay to the Funding Corporation—
 
 &emsp;&emsp;&emsp;(i) the liquidating dividends and payments made on claims received by the Resolution Trust Corporation from receiverships to the extent such proceeds are determined by the Thrift Depositor Protection Oversight Board to be in excess of funds presently necessary for resolution costs; and
 
@@ -302,7 +302,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;To the extent that the amounts available pursuant to subparagraphs (A) and (B) are insufficient to cover the amount of interest payments, each Federal home loan bank shall pay to the Funding Corporation in each calendar year, 20.0 percent of the net earnings of that Bank (after deducting expenses relating to section 1430(j) of this title and operating expenses).
+&emsp;&emsp;&emsp;To the extent that the amounts available pursuant to subparagraphs (A) and (B)are insufficient to cover the amount of interest payments, each Federal home loan bank shall pay to the Funding Corporation in each calendar year, 20.0 percent of the net earnings of that Bank (after deducting expenses relating to section 1430(j) of this title and operating expenses).
 
 #### (ii) Annual determination
 
@@ -352,7 +352,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (5) Investment of United States funds in obligations
 
-&emsp;Obligations issued under this section by the Funding Corporation, at the direction of theThrift Depositor Protection Oversight Board shall be lawful investments, and may be accepted as security, for all fiduciary, trust, and public funds the investment or deposit of which shall be under the authority or control of the United States or any officer of the United States.
+&emsp;Obligations issued under this section by the Funding Corporation, at the direction of the Thrift Depositor Protection Oversight Board shall be lawful investments, and may be accepted as security, for all fiduciary, trust, and public funds the investment or deposit of which shall be under the authority or control of the United States or any officer of the United States.
 
 #### (6) Market for obligations
 
@@ -362,7 +362,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), obligations of the Funding Corporation shall be exempt from tax both as to principal and interest to the same extent as any obligation of a Federal Home Loan Bank is exempt from tax under section 1433 of this title.
+&emsp;&emsp;Except as provided in subparagraph (B), obligations of the Funding Corporation shallbe exempt from tax both as to principal and interest to the same extent as any obligation of a Federal Home Loan Bank is exempt from tax under section 1433 of this title.
 
 #### (B) Exception
 
@@ -422,7 +422,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (A) Federal court jurisdiction
 
-&emsp;&emsp;Notwithstanding any other provision of law, any civil action, suit, or proceeding towhich the Funding Corporation is a party shall be deemed to arise under the laws of the United States, and the United States district courts shall have original jurisdiction over such action, suit, or proceeding.
+&emsp;&emsp;Notwithstanding any other provision of law, any civil action, suit, or proceeding to which the Funding Corporation is a party shall be deemed to arise under the laws of the United States, and the United States district courts shall have original jurisdiction over such action, suit, or proceeding.
 
 #### (B) Removal
 
@@ -432,7 +432,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (1) In general
 
-&emsp;The Thrift Depositor Protection Oversight Board shall annually submit a full report of the operations, activities, budget, receipts, and expenditures of the Funding Corporation for the preceding 12-month period.
+&emsp;The Thrift Depositor Protection Oversight Board shall annually submit a full report of the operations, activities, budget, receipts,and expenditures of the Funding Corporation for the preceding 12-month period.
 
 #### (2) Contents
 

@@ -58,7 +58,7 @@ If property (as a result of its destruction in whole or in part, theft, seizure,
 
 &emsp;If the property was acquired as the result of a compulsory or involuntary conversion described in subsection (a)(1), the basis shall be the same as in the case of the property so converted—
 
-&emsp;&emsp;(A) decreased in the amount of any money received by the taxpayer which was not expended in accordance with the provisions oflaw (applicable to the year in which such conversion was made) determining the taxable status of the gain or loss upon such conversion, and
+&emsp;&emsp;(A) decreased in the amount of any money received by the taxpayer which was not expended in accordance with the provisions of law (applicable to the year in which such conversion was made) determining the taxable status of the gain or loss upon such conversion, and
 
 &emsp;&emsp;(B) increased in the amount of gain or decreased in the amount of loss to the taxpayer recognized upon such conversion under the law applicable to the year in which such conversion was made.
 
@@ -128,7 +128,7 @@ For purposes of subsection (a), if, because of drought, flood, or other weather-
 
 #### (1) Special rule
 
-&emsp;For purposes of subsection (a), if real property (not including stock in trade or otherproperty held primarily for sale) held for productive use in trade or business or for investment is (as the result of its seizure, requisition, or condemnation, or threat or imminence thereof) compulsorily or involuntarily converted, property of a like kind to be held either for productive use in trade or business or for investment shall be treated as property similar or related in service or use to the property so converted.
+&emsp;For purposes of subsection (a), if real property (not including stock in trade or other property held primarily for sale) held for productive use in trade or business or for investment is (as the result of its seizure, requisition, or condemnation, or threat or imminence thereof) compulsorily or involuntarily converted, property of a like kind to be held either for productive use in trade or business or for investment shall be treated as property similar or related in service or use to the property so converted.
 
 #### (2) Limitations
 
@@ -212,7 +212,7 @@ For purposes of subsection (a), if, because of drought, flood, or other weather-
 
 #### (3) Related person
 
-&emsp;For purposes of this subsection, a person is related to another person if the person bears a relationship to the other person described in section 267(b) or 707(b)(1).
+&emsp;For purposes of this subsection, a person is related to another person if the person bears arelationship to the other person described in section 267(b) or 707(b)(1).
 
 #### (j) Sales or exchanges to implement microwave relocation policy
 
@@ -260,7 +260,7 @@ Subsec. (h)(3). Pub. L. 110–343, §706(a)(2)(D)(iii), amended par. (3) general
 
 2004—Subsec. (e). Pub. L. 108–357, §311(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (f). Pub. L. 108–357, §311(a), in heading, substituted “in certain cases” for “where there has been environmental contamination” and, in text, inserted“drought, flood, or other weather-related conditions, or” after “because of” and “in the case of soil contamination or other environmental contamination” after “including real property”.
+Subsec. (f). Pub. L. 108–357, §311(a), in heading, substituted “in certain cases” for “where there has been environmental contamination” and, in text, inserted “drought, flood, or other weather-related conditions, or” after “because of” and “in the case of soil contamination or other environmental contamination” after “including real property”.
 
 Subsec. (h)(3). Pub. L. 108–311 inserted “Robert T. Stafford” before “Disaster Relief and Emergency Assistance Act”.
 

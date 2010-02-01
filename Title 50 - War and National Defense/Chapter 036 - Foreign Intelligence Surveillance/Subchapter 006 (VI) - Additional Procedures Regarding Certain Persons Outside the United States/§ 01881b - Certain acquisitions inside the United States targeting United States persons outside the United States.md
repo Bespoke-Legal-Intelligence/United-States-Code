@@ -82,7 +82,7 @@
 
 #### (2) Probable cause
 
-&emsp;In determining whether or not probable cause exists for purposes of paragraph (1)(B), a judge having jurisdiction under subsection (a)(1) may consider past activities of the target and facts and circumstances relating to current or future activities of the target. No United States person may be considered a foreign power, agent of a foreign power, or officer or employee of a foreign power solely upon the basis of activities protected by the first amendment to the Constitution of the United States.
+&emsp;In determining whether or not probable cause exists for purposes of paragraph (1)(B), ajudge having jurisdiction under subsection (a)(1) may consider past activities of the target and facts and circumstances relating to current or future activities of the target. No United States person may be considered a foreign power, agent of a foreign power, or officer or employee of a foreign power solely upon the basis of activities protected by the first amendment to the Constitution of the United States.
 
 #### (3) Review
 
@@ -146,7 +146,7 @@
 
 &emsp;&emsp;(B) the factual basis for issuance of an order under this subsection to approve such acquisition exists,
 
-> &emsp;the Attorney General may authorize such acquisition if a judge having jurisdiction under subsection (a)(1) is informed by the Attorney General, or a designee of the Attorney General, at the time of such authorization that the decision has been made to conduct such acquisition and if an application in accordance with this section is made to a judge of the Foreign Intelligence Surveillance Court as soon as practicable, but not more than 7 days after the Attorney General authorizes such acquisition.
+> &emsp;the Attorney General may authorize such acquisition if a judge having jurisdiction under subsection (a)(1) is informed by the Attorney General, or a designee of the Attorney General, at the time of such authorization that the decision has been made to conduct such acquisition and if an application in accordancewith this section is made to a judge of the Foreign Intelligence Surveillance Court as soon as practicable, but not more than 7 days after the Attorney General authorizes such acquisition.
 
 #### (2) Minimization procedures
 
@@ -154,7 +154,7 @@
 
 #### (3) Termination of emergency authorization
 
-&emsp;In the absence of a judicial order approving an acquisition under paragraph (1), such acquisition shall terminate when the information sought is obtained, when the application forthe order is denied, or after the expiration of 7 days from the time of authorization by the Attorney General, whichever is earliest.
+&emsp;In the absence of a judicial order approving an acquisition under paragraph (1), such acquisition shall terminate when the information sought is obtained, when the application for the order is denied, or after the expiration of 7 days from the time of authorization by the Attorney General, whichever is earliest.
 
 #### (4) Use of information
 

@@ -64,7 +64,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;(II) An individual who willfully and knowingly causes another individual to certify under clause (i) a material and false statement in a resident assessment is subject to a civil money penalty of not more than $5,000 with respect to each assessment.
 
-&emsp;&emsp;&emsp;(III) The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under this clause in the same manner assuch provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;&emsp;&emsp;(III) The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under this clause in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (iii) Use of independent assessors
 
@@ -84,7 +84,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (ii) Resident review
 
-&emsp;&emsp;&emsp;The skilled nursing facility must examine each resident no less frequently than once every 3 months and, as appropriate, revise the resident's assessment to assure the continuing accuracy of the assessment.
+&emsp;&emsp;&emsp;The skilled nursing facility must examine each resident no less frequently than once every 3 months and, as appropriate,revise the resident's assessment to assure the continuing accuracy of the assessment.
 
 #### (D) Use
 
@@ -152,7 +152,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;(II) is competent to provide nursing or nursing-related services.
 
-&emsp;&emsp;(ii) A skilled nursing facility must not use on a temporary, per diem, leased, or on any basis other than as a permanent employee any individual as a nurse aide in the facility on or after January 1, 1991, unless the individual meets the requirements described in clause (i).
+&emsp;&emsp;(ii) A skilled nursing facility must not use on a temporary, per diem, leased, or on anybasis other than as a permanent employee any individual as a nurse aide in the facility on or after January 1, 1991, unless the individual meets the requirements described in clause (i).
 
 #### (B) Offering competency evaluation programs for current employees
 
@@ -278,7 +278,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;(iii) inform each other resident, in writing before or at the time of admission and periodically during the resident's stay, of services available in the facility and of related charges for such services, including any charges for services not covered under this subchapter or by the facility's basic per diem charge.
 
-> &emsp;&emsp;The written description of legal rights under this subparagraph shall include a descriptionof the protection of personal funds under paragraph (6) and a statement that a resident may file a complaint with a State survey and certification agency respecting resident abuse and neglect and misappropriation of resident property in the facility.
+> &emsp;&emsp;The written description of legal rights under this subparagraph shall include a description of the protection of personal funds under paragraph (6) and a statement that a resident may file a complaint with a State survey and certification agency respecting resident abuse and neglect and misappropriation of resident property in the facility.
 
 #### (C) Rights of incompetent residents
 
@@ -446,7 +446,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (C) Skilled nursing facility administrator
 
-&emsp;&emsp;The administrator of a skilled nursing facility must meet standards established by the Secretary under subsection (f)(4) of this section.
+&emsp;&emsp;The administrator of a skilled nursing facility must meet standards established bythe Secretary under subsection (f)(4) of this section.
 
 #### (2) Licensing and Life Safety Code
 
@@ -502,7 +502,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (B) Information in registry
 
-&emsp;&emsp;The registry under subparagraph (A) shall provide (in accordance with regulations of the Secretary) for the inclusion of specific documented findings by a State under subsection (g)(1)(C) of this section of resident neglect or abuse or misappropriation of resident property involving an individual listedin the registry, as well as any brief statement of the individual disputing the findings, but shall not include any allegations of resident abuse or neglect or misappropriation of resident property that are not specifically documented by the State under such subsection. The State shall make available to the public information in the registry. In the case of inquiries to the registry concerning an individual listed in the registry, any information disclosed concerning such a finding shall also include disclosure of any such statement in the registry relating to the finding or a clear and accurate summary of such a statement.
+&emsp;&emsp;The registry under subparagraph (A) shall provide (in accordance with regulations of the Secretary) for the inclusion of specific documented findings by a State under subsection (g)(1)(C) of this section of resident neglect or abuse or misappropriation of resident property involving an individual listed in the registry, as well as any brief statement of the individual disputing the findings, but shall not include any allegations of resident abuse or neglect or misappropriation of resident property that are not specifically documented by the State under such subsection. The State shall make available to the public information in the registry. In the case of inquiries to the registry concerning an individual listed in the registry, any information disclosed concerning such a finding shall also include disclosure of any such statement in the registry relating to the finding or a clear and accurate summary of such a statement.
 
 #### (C) Prohibition against charges
 
@@ -510,7 +510,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (3) State appeals process for transfers and discharges
 
-&emsp;The State, for transfers and discharges from skilled nursing facilities effected on or after October 1, 1989, must provide for a fair mechanism for hearing appeals on transfers and discharges of residents of such facilities. Such mechanism must meet the guidelines established by the Secretary under subsection (f)(3) of this section; but the failure of the Secretary to establish such guidelines shall not relieve any State of its responsibility to provide for such a fair mechanism.
+&emsp;The State, for transfers and discharges from skilled nursing facilities effected on or after October 1, 1989, must provide for a fair mechanism for hearing appeals on transfers and discharges of residents of such facilities. Such mechanism must meet the guidelines established by the Secretary under subsection (f)(3)of this section; but the failure of the Secretary to establish such guidelines shall not relieve any State of its responsibility to provide for such a fair mechanism.
 
 #### (4) Skilled nursing facility administrator standards
 
@@ -548,7 +548,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;&emsp;&emsp;(II) prohibit the imposition on a nurse aide who is employed by (or who has received an offer of employment from) a facility on the date on which the aide begins either such program of any charges (including any charges for textbooks and other required course materials and any charges for the competency evaluation) for either such program, and
 
-&emsp;&emsp;&emsp;&emsp;(III) in the case of a nurse aide not described in subclause (II) who is employed by (or who has received an offer of employment from) a facility not later than 12 months after completing either such program, the State shall provide for the reimbursement of costs incurred in completing such program on a prorata <sup>4</sup> basisduring the period in which the nurse aide is so employed.
+&emsp;&emsp;&emsp;&emsp;(III) in the case of a nurse aide not described in subclause (II) who is employed by (or who has received an offer of employment from) a facility not later than 12 months after completing either such program, the State shall provide for the reimbursement of costs incurred in completing such program on a prorata <sup>4</sup> basis during the period in which the nurse aide is so employed.
 
 #### (B) Approval of certain programs
 
@@ -628,7 +628,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (B) Rule if failure to publish regulations
 
-&emsp;&emsp;If the Secretary does not issue the regulations under subparagraph (A) on or before the date required in such subparagraph, in the case of a resident of a skilled nursing facility who is eligible to receive benefits under this part, the costs which may not be charged to the personal funds of such resident (and for which payment is considered to be made under this subchapter) shall include, at a minimum, the costs for routine personal hygiene items and services furnished by the facility.
+&emsp;&emsp;If the Secretary does not issue the regulations under subparagraph (A) on or before the date required in such subparagraph, in the case of a resident of a skilled nursing facility who is eligible to receive benefits under this part, the costs which may not be charged to the personal funds of such resident (and for which payment is considered tobe made under this subchapter) shall include, at a minimum, the costs for routine personal hygiene items and services furnished by the facility.
 
 #### (g) Survey and certification process
 
@@ -670,7 +670,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each skilled nursing facility shall be subject to a standard survey, to be conducted without any prior notice to the facility. Any individual who notifies (or causes to be notified) a skilled nursing facility of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for the scheduling and conduct of standard surveys to assure that the Statehas taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
+&emsp;&emsp;&emsp;Each skilled nursing facility shall be subject to a standard survey, to be conducted without any prior notice to the facility. Any individual who notifies (or causes to be notified) a skilled nursing facility of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for the scheduling and conduct of standard surveys to assure that the State has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
 
 #### (ii) Contents
 
@@ -686,7 +686,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Each skilled nursing facility shall be subject to a standard survey not later than 15 months after the date of the previous standard survey conducted under this subparagraph. The Statewide average interval between standard surveys of skilled nursing facilities under this subsection shall not exceed 12 months.
+&emsp;&emsp;&emsp;&emsp;Each skilled nursing facility shall be subject to a standard survey not laterthan 15 months after the date of the previous standard survey conducted under this subparagraph. The Statewide average interval between standard surveys of skilled nursing facilities under this subsection shall not exceed 12 months.
 
 #### (II) Special surveys
 
@@ -806,7 +806,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (1) In general
 
-&emsp;If a State finds, on the basis of a standard, extended, or partial extended survey under subsection (g)(2) of this section or otherwise, that a skilled nursing facility no longer meetsa requirement of subsection (b), (c), or (d) of this section, and further finds that the facility's deficiencies—
+&emsp;If a State finds, on the basis of a standard, extended, or partial extended survey under subsection (g)(2) of this section or otherwise, that a skilled nursing facility no longer meets a requirement of subsection (b), (c), or (d) of this section, and further finds that the facility's deficiencies—
 
 &emsp;&emsp;(A) immediately jeopardize the health or safety of its residents, the State shall recommend to the Secretary that the Secretary take such action as described in paragraph (2)(A)(i); or
 
@@ -818,7 +818,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (A) In general
 
-&emsp;&emsp;With respect to any skilled nursing facility in a State, if the Secretary finds, or pursuant to a recommendation of the State under paragraph (1) finds, that a skilled nursing facility no longer meets a requirement of subsection (b), (c), (d), or (e) of this section, and further finds that the facility's deficiencies—
+&emsp;&emsp;With respect to any skilled nursing facility in a State, if the Secretary finds, or pursuant to a recommendation of the State under paragraph (1) finds, that a skilled nursing facility no longer meets a requirement of subsection (b), (c), (d), or (e) of thissection, and further finds that the facility's deficiencies—
 
 &emsp;&emsp;&emsp;(i) immediately jeopardize the health or safety of its residents, the Secretary shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in subparagraph (B)(iii), or terminate the facility's participation under this subchapter and may provide, in addition, for one or more of the other remedies described in subparagraph (B); or
 
@@ -858,7 +858,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;&emsp;(ii) the State has submitted a plan and timetable for corrective action to the Secretary for approval and the Secretary approves the plan of corrective action, and
 
-&emsp;&emsp;&emsp;(iii) the facility agrees to repay to the Federal Government payments received under this subparagraph if the correctiveaction is not taken in accordance with the approved plan and timetable.
+&emsp;&emsp;&emsp;(iii) the facility agrees to repay to the Federal Government payments received under this subparagraph if the corrective action is not taken in accordance with the approved plan and timetable.
 
 > &emsp;&emsp;The Secretary shall establish guidelines for approval of corrective actions requested by States under this subparagraph.
 
@@ -874,7 +874,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;&emsp;(ii) monitor the facility under subsection (g)(4)(B) of this section,
 
-> &emsp;&emsp;until the facility has demonstrated, to the satisfaction of the Secretary, that it is in compliance with the requirements of subsections (b), (c), and (d) of this section, and that it will remain in compliance with such requirements.
+> &emsp;&emsp;until the facility has demonstrated, to the satisfaction of the Secretary, that it is incompliance with the requirements of subsections (b), (c), and (d) of this section, and that it will remain in compliance with such requirements.
 
 #### (3) Effective period of denial of payment
 
@@ -1150,7 +1150,7 @@ Section 6901(b)(6) of Pub. L. 101–239 provided that:
 
 “(A)
 
-In general.—Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section and sections 1396b and 1396r of this title\] shall take effect as if they were included inthe enactment of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\].
+In general.—Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section and sections 1396b and 1396r of this title\] shall take effect as if they were included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\].
 
 “(B)
 
@@ -1170,7 +1170,7 @@ Exception.—The amendment made by paragraph (1) \[amending section 1396r of thi
 
 Amendment by Pub. L. 100–485 effective as if originally included in the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relatesto a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date
 

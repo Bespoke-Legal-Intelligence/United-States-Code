@@ -40,7 +40,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (E) Reapportionment of seats
 
-&emsp;&emsp;At the end of each 3 year period beginning with the 3 year period starting on the effective date of the order, the Secretary, if necessary, shall adjust any unit to conform with subparagraphs (A) and (B). If the Secretary makes such an adjustment, the Secretary shall reapportion the seats on the Board to conform with subparagraph (C) and any modifications made under subparagraph (F). If payment of refunds following the initial referendum conducted under section 6305(a) of this title is authorized by producers, in making such adjustments, the Secretary shall exclude, from each State's annual soybean production, those bushels of soybeans on which such refunds are paid.
+&emsp;&emsp;At the end of each 3 year period beginning with the 3 year period starting on the effective date of the order, the Secretary, if necessary, shall adjust any unit to conform with subparagraphs (A) and (B). If the Secretary makes such an adjustment, the Secretary shall reapportion the seats on the Board to conform with subparagraph (C) and any modifications made under subparagraph\(F). If payment of refunds following the initial referendum conducted under section 6305(a) of this title is authorized by producers, in making such adjustments, the Secretary shall exclude, from each State's annual soybean production, those bushels of soybeans on which such refunds are paid.
 
 #### (F) Adjustment of levels of production
 
@@ -58,7 +58,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (I) State units
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall solicit nominations for each seat on the initially-established Board to which a State unit is entitled from the State soybean board in the State that submits satisfactory evidence to the Secretary that such board meets the criteria of subparagraph (A) or\(B) of section 6302(14) of this title. If no such organization exists in the unit, the Secretary shall solicit nominations for appointments in such manner as the Secretary determines appropriate.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall solicit nominations for each seat on the initially-established Board to which a State unit is entitled from the State soybean board in the State that submits satisfactory evidence to the Secretary that such board meets the criteria of subparagraph (A) or (B) of section 6302(14) of this title. If no such organization exists in the unit, the Secretary shall solicit nominations for appointments in such manner as the Secretary determines appropriate.
 
 #### (II) Combined units
 
@@ -98,7 +98,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (7) Meetings
 
-&emsp;The order shall provide for at least one meeting of the Board annually and specify the circumstances under which additional special meetings of the Board may be held.
+&emsp;The order shall provide for at least one meeting of the Board annually and specify thecircumstances under which additional special meetings of the Board may be held.
 
 #### (c) Powers and duties of Board
 
@@ -132,7 +132,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (1) In general
 
-&emsp;The order shall establish procedures for the conduct of voting by the Board, as provided inthis subsection. On or after the end of the 3-year period beginning on the effective date of the order, the Board may recommend to the Secretary changes in the voting procedures of the Board and the Secretary may amend the order to make such changes. Such changes shall not be subject to a referendum of producers.
+&emsp;The order shall establish procedures for the conduct of voting by the Board, as provided in this subsection. On or after the end of the 3-year period beginning on the effective date of the order, the Board may recommend to the Secretary changes in the voting procedures of the Board and the Secretary may amend the order to make such changes. Such changes shall not be subject to a referendum of producers.
 
 #### (2) Number of votes per member
 
@@ -214,7 +214,7 @@ The order shall provide that the Board shall review or, on its own initiative, d
 
 &emsp;&emsp;&emsp;&emsp;(II) additional members of the Board elected by the Board; and
 
-&emsp;&emsp;&emsp;(ii) not more than one-third of the Committee shall be producers elected by the national, nonprofit soybean producer-governed organization that conducts activities on behalf of State soybean boards and that, on November 28, 1990, conducts activities to promote soybeans and soybeanproducts as a cooperator with the Foreign Agricultural Service of the Department.
+&emsp;&emsp;&emsp;(ii) not more than one-third of the Committee shall be producers elected by the national, nonprofit soybean producer-governed organization that conducts activities on behalf of State soybean boards and that, on November 28, 1990, conducts activities to promote soybeans and soybean products as a cooperator with the Foreign Agricultural Service of the Department.
 
 #### (B) Certification
 
@@ -338,7 +338,7 @@ The order shall require the Board to—
 
 #### (i) Collection
 
-&emsp;&emsp;&emsp;The order shall provide that each first purchaser of soybeans from a producer shall collect, in the manner prescribed by the order, an assessment from the producer and remit the assessment to the Board. The Board shall use qualified State soybean boards to collect such assessments in States in which such boards operate.
+&emsp;&emsp;&emsp;The order shall provide that each first purchaser of soybeans from a producer shall collect, in the manner prescribed by the order, an assessment from the producer and remit the assessment to theBoard. The Board shall use qualified State soybean boards to collect such assessments in States in which such boards operate.
 
 #### (ii) Rate
 
@@ -366,7 +366,7 @@ The order shall require the Board to—
 
 #### (ii) By Board
 
-&emsp;&emsp;&emsp;During the period referred to in clause (i), refunds shall be provided equally fromthe Board and, where applicable, the qualified State soybean board, as determined by the Secretary.
+&emsp;&emsp;&emsp;During the period referred to in clause (i), refunds shall be provided equally from the Board and, where applicable, the qualified State soybean board, as determined by the Secretary.
 
 #### (B) Administration
 
@@ -390,7 +390,7 @@ The order shall require the Board to—
 
 &emsp;&emsp;If the Secretary determines that producers do not favor the continuation of the order in the referendum provided for in section 6305(a) of this title, refunds shall be made under this paragraph on collected assessments until such collections are terminated, as provided in section 6305(a) of this title.
 
-#### (F) Refunds after initial referendum
+#### (F) Refunds after the initial referendum
 
 #### (i) In general
 
@@ -458,7 +458,7 @@ The order shall require the Board to—
 
 #### (4) Credit for contributions to qualified State soybean boards
 
-&emsp;A producer who can establish that such producer is contributing to a qualified State soybean board shall receive credit, in determining the assessment due to the Board from such producer, for contributions to the qualified State soybean board of up to one-quarter of 1 percent of the net market price of soybeans or the equivalent thereof. For purposes of this chapter, there shall be only one qualified State soybean board in each State. A producer may receive a credit under this paragraph only if the contribution is to the qualified State soybean board in the State in which the soybeans are produced, except that the Board, with the approval of the Secretary, may authorize exceptions to such State-of-origin rule as are appropriate to ensure effective coordination of collection procedures among States.
+&emsp;A producer who can establish that such producer is contributing to a qualified State soybean board shall receive credit, in determining the assessment due to the Board from such producer, for contributions to the qualified State soybean board of up to one-quarter of 1 percent of the net market price of soybeans or the equivalent thereof. For purposes of this chapter, there shall be only one qualified State soybean board in each State. A producer may receive a credit under this paragraph only if the contribution is to the qualifiedState soybean board in the State in which the soybeans are produced, except that the Board, with the approval of the Secretary, may authorize exceptions to such State-of-origin rule as are appropriate to ensure effective coordination of collection procedures among States.
 
 #### (5) Single process of assessment
 
@@ -476,7 +476,7 @@ The order shall provide that the Board may provide a credit to each qualified St
 
 #### (2) Post-referendum period
 
-&emsp;The order shall provide, effective after the conduct of the referendum provided for in section 6305(a) of this title, subject to paragraph (3), that the Board annually shall provide acredit to each qualified State soybean board of an amount by which—
+&emsp;The order shall provide, effective after the conduct of the referendum provided for in section 6305(a) of this title, subject to paragraph (3), that the Board annually shall provide a credit to each qualified State soybean board of an amount by which—
 
 &emsp;&emsp;(A) the amount equal to 1 cent times the average number of bushels of soybeans produced in the State during each of the preceding 5 years (excluding the year in which the production is the highest and the year in which the production is the lowest); exceeds
 
@@ -536,7 +536,7 @@ The order shall provide that the Board may provide a credit to each qualified St
 
 #### (A) In general
 
-&emsp;&emsp;Information maintained under paragraph (1) shall be made available to the Secretary as is appropriate for the administration or enforcement of this chapter, or any order or regulation issued under this chapter.
+&emsp;&emsp;Information maintained under paragraph (1) shall be made available to the Secretaryas is appropriate for the administration or enforcement of this chapter, or any order or regulation issued under this chapter.
 
 #### (B) Other information
 

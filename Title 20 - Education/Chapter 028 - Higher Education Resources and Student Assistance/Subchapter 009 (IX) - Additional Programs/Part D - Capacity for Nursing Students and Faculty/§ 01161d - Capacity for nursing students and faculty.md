@@ -14,7 +14,7 @@ Each institution of higher education that offers a program described in subsecti
 
 &emsp;(1) determine, for the four academic years preceding the academic year for which the determination is made, the average number of matriculated nursing program students, in each of the institution's accredited associate, baccalaureate, or advanced nursing degree programs at such institution for such academic years;
 
-&emsp;(2) submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require, including the average number in each of the institution's accredited nursing programs determined under paragraph (1); and
+&emsp;(2) submit an application to the Secretary at such time, in such manner, and accompaniedby such information as the Secretary may require, including the average number in each of the institution's accredited nursing programs determined under paragraph (1); and
 
 &emsp;(3) with respect to the partnerships described in subsection (c)(2)(B), provide assurances that—
 
@@ -98,7 +98,7 @@ Each institution of higher education that offers a program described in subsecti
 
 &emsp;&emsp;Of the amount appropriated to carry out this section, the Secretary may award not more than ten percent of such amount for the optional purposes under subparagraph (B).
 
-#### (d) Definition
+#### (d) Definitions
 
 For purposes of this section:
 
@@ -106,9 +106,9 @@ For purposes of this section:
 
 &emsp;The term “health facility” means an Indian health service center, a Native Hawaiian health center, a hospital, a federally qualified health center, a rural health clinic, a nursing home, a home health agency, a hospice program, a public health clinic, a State or local department of public health, a skilled nursing facility, or an ambulatory surgical center.
 
-#### (2) Accredited
+#### (2) Public Health Service Act
 
-&emsp;The terms “accredited school of nursing” and “accredited nursing program” have the meaning given those terms in section 296 of title 42.
+&emsp;The terms “accredited” and “school of nursing” have the meanings given those terms in section 801 of the Public Health Service Act (42 U.S.C. 296).
 
 #### (e) Prohibition
 
@@ -124,5 +124,13 @@ For purposes of this section:
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-(Pub. L. 89–329, title VIII, §804, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3385.)
+(Pub. L. 89–329, title VIII, §804, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3385; amended Pub. L. 111–39, title VIII, §801(2), July 1, 2009, 123 Stat. 1955.)
+
+#### Amendments
+
+2009—Subsec. (d). Pub. L. 111–39 substituted “Definitions” for “Definition” in heading, added par. (2), and struck out former par. (2). Prior to amendment, text read as follows: “The terms ‘accredited school of nursing’ and ‘accredited nursing program’ have the meaning given those terms in section 296 of title 42.”
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

@@ -6,7 +6,7 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Commercial purposes.—The term “commercial purposes” means the transportation of persons or property for compensation or hire, but does not include the operation of an aircraft by the armed forces for reimbursement when that reimbursement is required by any Federal statute, regulation, or directive, in effect on November 1, 1999, or by one government on behalf of another government under a cost reimbursement agreement if the government on whose behalf the operation is conducted certifies to the Administrator of the Federal Aviation Administration that the operation is necessary to respond to a significant and imminent threat to life or property (including natural resources) and that no serviceby a private operator is reasonably available to meet the threat.
+Commercial purposes.—The term “commercial purposes” means the transportation of persons or property for compensation or hire, but does not include the operation of an aircraft by the armed forces for reimbursement when that reimbursement is required by any Federal statute, regulation, or directive, in effect on November 1, 1999, or by one government on behalf of another government under a cost reimbursement agreement if the government on whose behalf the operation is conducted certifies to the Administrator of the Federal Aviation Administration that the operation is necessary to respond to a significant and imminent threat to life or property (including natural resources) and that no service by a private operator is reasonably available to meet the threat.
 
 &emsp;(2)
 

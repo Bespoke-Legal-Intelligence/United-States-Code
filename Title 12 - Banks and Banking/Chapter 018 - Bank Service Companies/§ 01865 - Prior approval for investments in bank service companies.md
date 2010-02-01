@@ -20,11 +20,11 @@ In the event the Board or the appropriate Federal banking agency, as the case ma
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–351, §602(b)(4)(A), substituted “insured depository institution” for “insured bank”, struck out “bank's” before “appropriate Federal banking agency”, and inserted “for the insured depository institution” before period at end.
+2006—Subsec. (a). Pub. L. 109–351, §602(b)(4)(A), substituted “insured depository institution” for “insuredbank”, struck out “bank's” before “appropriate Federal banking agency”, and inserted “for the insured depository institution” before period at end.
 
 Subsec. (b). Pub. L. 109–351, §602(b)(4)(B), substituted “insured depository institution” for “insured bank” and inserted “authorized only” after “performs any service” and “perform any activity”.
 
-Subsec. (c). Pub. L. 109–351, §602(b)(4)(C), substituted “any insured depository institution” for “the bank orbanks” and “capability of the insured depository institution” for “capability of the bank”.
+Subsec. (c). Pub. L. 109–351, §602(b)(4)(C), substituted “any insured depository institution” for “the bank or banks” and “capability of the insured depository institution” for “capability of the bank”.
 
 1996—Pub. L. 104–208 substituted “companies” for “corporations” in section catchline and “company” for “corporation” wherever appearing in text.
 

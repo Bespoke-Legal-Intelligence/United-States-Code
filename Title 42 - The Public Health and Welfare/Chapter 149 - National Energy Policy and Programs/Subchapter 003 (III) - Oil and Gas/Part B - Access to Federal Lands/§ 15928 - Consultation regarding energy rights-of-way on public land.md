@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;With respect to permitting activities for interstate natural gas pipelines, the May 2002 document entitled “Interagency Agreement On Early Coordination Of Required Environmental And Historic Preservation Reviews Conducted In Conjunction With The Issuance Of Authorizations To Construct And OperateInterstate Natural Gas Pipelines Certificated By The Federal Energy Regulatory Commission” shall constitute compliance with subsection (a).
+&emsp;With respect to permitting activities for interstate natural gas pipelines, the May 2002 document entitled “Interagency Agreement On Early Coordination Of Required Environmental And Historic Preservation Reviews Conducted In Conjunction With The Issuance Of Authorizations To Construct And Operate Interstate Natural Gas Pipelines Certificated By The Federal Energy Regulatory Commission” shall constitute compliance with subsection (a).
 
 #### (2) Report
 

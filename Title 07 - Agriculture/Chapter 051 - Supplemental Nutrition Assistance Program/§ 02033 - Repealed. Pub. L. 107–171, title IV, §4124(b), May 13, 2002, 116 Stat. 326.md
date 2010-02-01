@@ -1,6 +1,6 @@
 ### §2033. Repealed. Pub. L. 107–171, title IV, §4124(b), May 13, 2002, 116 Stat. 326
 
-Section, Pub. L. 88–525, §24, as added Pub. L. 104–127, title IV, §401(g), Apr. 4, 1996, 110 Stat. 1027, related topayments by the Secretary to the Territory of American Samoa for fiscal years 1996 through 2002 to finance expenditures for nutrition assistance program extended under section 1469d(c) of title 48.
+Section, Pub. L. 88–525, §24, as added Pub. L. 104–127, title IV, §401(g), Apr. 4, 1996, 110 Stat. 1027, related to payments by the Secretary to the Territory of American Samoa for fiscal years 1996 through 2002 to finance expenditures for nutrition assistance program extended under section 1469d(c) of title 48.
 
 #### Effective Date of Repeal
 

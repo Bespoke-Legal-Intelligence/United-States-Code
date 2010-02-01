@@ -16,5 +16,5 @@ Section 2459j of this title, referred to in text, was in the original “section
 
 #### Change of Name
 
-Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Science of House of Representatives changed to Committee on Science and Technology ofHouse of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

@@ -116,6 +116,8 @@ For purposes of this section—
 
 &emsp;&emsp;(C) the applicable annual limitation in the case of any qualified bicycle commuting reimbursement.
 
+> &emsp;In the case of any month beginning on or after the date of the enactment of this sentence and before January 1, 2011, subparagraph (A) shall be applied as if the dollar amount therein were the same as the dollar amount in effect for such month under subparagraph (B).
+
 #### (3) Cash reimbursements
 
 &emsp;For purposes of this subsection, the term “qualified transportation fringe” includes a cash reimbursement by an employer to an employee for a benefit described in paragraph (1). The preceding sentence shall apply to a cash reimbursement for any transit pass only if a voucher or similar item which may be exchanged only for a transit pass is not readily available for direct distribution by the employer to the employee.
@@ -150,7 +152,7 @@ For purposes of this section—
 
 #### (C) Qualified parking
 
-&emsp;&emsp;The term “qualified parking” means parking provided to an employee on or near the business premises of the employer or on or near a location from which the employee commutes to work by transportation described in subparagraph (A), in a commuter highway vehicle, or by carpool. Such term shall not include any parking on or near property used by the employee for residential purposes.
+&emsp;&emsp;The term “qualified parking” means parking provided to an employee on or near the business premises of the employer or on or near a location from which the employee commutes to work by transportation described in subparagraph (A), in a commuter highway vehicle, or by carpool. Such term shall not include any parking on or nearproperty used by the employee for residential purposes.
 
 #### (D) Transportation provided by employer
 
@@ -338,7 +340,7 @@ For purposes of paragraph (1) of subsection (a), any service provided by an empl
 
 #### (8) Application of section to otherwise taxable educational or training benefits
 
-&emsp;Amounts paid or expenses incurred by the employer for education or training provided to the employee which are not excludable from gross income under section 127 shall be excluded from gross income under this section if (and only if) such amounts or expenses are a working condition fringe.
+&emsp;Amounts paid or expenses incurred by the employer for education or training provided tothe employee which are not excludable from gross income under section 127 shall be excluded from gross income under this section if (and only if) such amounts or expenses are a working condition fringe.
 
 #### (k) Customers not to include employees
 
@@ -368,17 +370,17 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “qualified military base realignment and closure fringe” means 1 or more payments under the authority of section 1013 of the Demonstration Cities and Metropolitan Development Act of 1966 (42 U.S.C. 3374) (as in effect on the date of the enactment of this subsection) to offset the adverse effects on housing values as a result of a military base realignment or closure.
+&emsp;The term “qualified military base realignment and closure fringe” means 1 or more payments under the authority of section 1013 of the Demonstration Cities and Metropolitan Development Act of 1966 (42 U.S.C. 3374) (as in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009).
 
 #### (2) Limitation
 
-&emsp;With respect to any property, such term shall not include any payment referred to in paragraph (1) to the extent that the sum of all of such payments related to such property exceeds the maximum amount described in clause (1) of subsection (c) of such section (as in effect on such date).
+&emsp;With respect to any property, such term shall not include any payment referred to in paragraph (1) to the extent that the sum of all of such payments related to such property exceeds the maximum amount described in subsection (c) of such section (as in effect on such date).
 
 #### (<i>o</i>) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 98–369, div. A, title V, §531(a)(1), July 18, 1984, 98 Stat. 877; amended Pub. L. 99–272, title XIII, §13207(a)(1), (b)(1), Apr. 7, 1986, 100 Stat. 319; Pub. L. 99–514, title XI, §§1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§1853(a), 1899A(5), Oct. 22, 1986, 100 Stat. 2451, 2506, 2507, 2870, 2958; Pub. L. 100–647, title I, §1011B(a)(31)(B), title VI, §6066(a), Nov. 10, 1988, 102 Stat. 3488, 3702; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(b), 7841(d)(7), (19), Dec. 19, 1989, 103 Stat. 2304, 2428, 2429; Pub. L. 102–486, title XIX, §1911(a)–(c), Oct. 24, 1992, 106 Stat. 3012–3014; Pub. L. 103–66, title XIII, §§13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, 107 Stat. 420, 459, 474; Pub. L. 105–34, title IX, §970(a), title X, §1072(a), Aug. 5, 1997, 111 Stat. 897, 948; Pub. L. 105–178, title IX, §9010(a)(1), (b)(1), (2), (c)(1), (2), June 9, 1998, 112 Stat. 507, 508; Pub. L. 107–16, title VI, §665(a), (b), June 7, 2001, 115 Stat. 143; Pub. L. 108–121, title I, §103(a), (b), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–311, title II, §207(13), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–343, div. B, title II, §211(a)–(d), Oct. 3, 2008, 122 Stat. 3840, 3841.)
+(Added Pub. L. 98–369, div. A, title V, §531(a)(1), July 18, 1984, 98 Stat. 877; amended Pub. L. 99–272, title XIII, §13207(a)(1), (b)(1), Apr. 7, 1986, 100 Stat. 319; Pub. L. 99–514, title XI, §§1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§1853(a), 1899A(5), Oct. 22, 1986, 100 Stat. 2451, 2506, 2507, 2870, 2958; Pub. L. 100–647, title I, §1011B(a)(31)(B), title VI, §6066(a), Nov. 10, 1988, 102 Stat. 3488, 3702; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(b), 7841(d)(7), (19), Dec. 19, 1989, 103 Stat. 2304, 2428, 2429; Pub. L. 102–486, title XIX, §1911(a)–(c), Oct. 24, 1992, 106 Stat. 3012–3014; Pub. L. 103–66, title XIII, §§13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, 107 Stat. 420, 459, 474; Pub. L. 105–34, title IX, §970(a), title X, §1072(a), Aug. 5, 1997, 111 Stat. 897, 948; Pub. L. 105–178, title IX, §9010(a)(1), (b)(1), (2), (c)(1), (2), June 9, 1998, 112 Stat. 507, 508; Pub. L. 107–16, title VI, §665(a), (b), June 7, 2001, 115 Stat. 143; Pub. L. 108–121, title I, §103(a), (b), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–311, title II, §207(13), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–343, div. B, title II, §211(a)–(d), Oct. 3, 2008, 122 Stat. 3840, 3841; Pub. L. 111–5, div. B, title I, §1151(a), Feb. 17, 2009, 123 Stat. 333; Pub. L. 111–92, §14(a), Nov. 6, 2009, 123 Stat. 2995.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -386,13 +388,21 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### References in Text
 
-The date of the enactment of this subsection, referred to in subsec. (n), is the date of enactment of Pub. L. 108–121, which was approved Nov. 11, 2003.
+The date of the enactment of this sentence, referred to in subsec. (f)(2), is the date of enactment of Pub. L. 111–5, which was approved Feb. 17, 2009.
+
+The date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (n)(1), is the date of enactment of Pub. L. 111–5, which was approved Feb. 17, 2009.
 
 #### Prior Provisions
 
 A prior section 132 was renumbered section 140 of this title.
 
 #### Amendments
+
+2009—Subsec. (f)(2). Pub. L. 111–5 inserted concluding provisions.
+
+Subsec. (n)(1). Pub. L. 111–92, §14(a)(1), substituted “the American Recovery and Reinvestment Tax Act of 2009)” for “this subsection) to offset the adverse effects on housing values as a result of a military base realignment or closure”.
+
+Subsec. (n)(2). Pub. L. 111–92, §14(a)(2), struck out “clause (1) of” before “subsection (c)”.
 
 2008—Subsec. (f)(1)(D). Pub. L. 110–343, §211(a), added subpar. (D).
 
@@ -498,9 +508,15 @@ Subsec. (h)(7). Pub. L. 99–514, §1114(b)(5)(B), added par. (7).
 
 Subsec. (i). Pub. L. 99–514, §1853(a)(3), substituted “subsection (c)(2)” for “subsection (c)(2)(B)”.
 
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–92, §14(b), Nov. 6, 2009, 123 Stat. 2996, provided that: “The amendments made by this act \[probably should be “this section”, amending this section\] shall apply to payments made after February 17, 2009.”
+
+Pub. L. 111–5, div. B, title I, §1151(b), Feb. 17, 2009, 123 Stat. 333, provided that: “The amendment made by this section \[amending this section\] shall apply to months beginning on or after the date of the enactment of this section \[Feb. 17, 2009\].”
+
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. B, title II, §211(e), Oct. 3, 2008, 122 Stat. 3841, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008.”
+Pub. L. 110–343, div. B, title II, §211(e), Oct. 3, 2008, 122 Stat. 3841, provided that: “The amendments made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 2008.”
 
 #### Effective Date of 2004 Amendment
 
@@ -604,7 +620,7 @@ Section 13207(c) of Pub. L. 99–272, as amended by Pub. L. 99–514, §2, Oct. 
 
 &emsp;&emsp;“(A) was an employee (within the meaning of section 132 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], including subsection (f) \[now (h)\] thereof) of one member of an affiliated group (as defined in section 1504 of such Code), hereinafter referred to as the ‘first corporation’, and
 
-&emsp;&emsp;“(B) was eligible for no-additional-cost service in the form of air transportation provided by anothermember of such affiliated group, hereinafter referred to as the ‘second corporation’,
+&emsp;&emsp;“(B) was eligible for no-additional-cost service in the form of air transportation provided by another member of such affiliated group, hereinafter referred to as the ‘second corporation’,
 
 &emsp;“(2) at least 50 percent of the individuals performing service for the first corporation were or had been employees of, or had previously performed services for, the second corporation, and
 

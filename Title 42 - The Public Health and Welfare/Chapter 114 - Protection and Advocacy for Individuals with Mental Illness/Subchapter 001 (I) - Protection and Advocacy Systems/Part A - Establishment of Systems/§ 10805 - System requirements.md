@@ -8,7 +8,7 @@ A system established in a State under section 10803 of this title to protect and
 
 &emsp;&emsp;(A) investigate incidents of abuse and neglect of individuals with mental illness if the incidents are reported to the system or if there is probable cause to believe that the incidents occurred;
 
-&emsp;&emsp;(B) pursue administrative, legal, and other appropriate remedies to ensure the protection of individuals with mental illness whoare receiving care or treatment in the State; and
+&emsp;&emsp;(B) pursue administrative, legal, and other appropriate remedies to ensure the protection of individuals with mental illness who are receiving care or treatment in the State; and
 
 &emsp;&emsp;(C) pursue administrative, legal, and other remedies on behalf of an individual who—
 
@@ -56,7 +56,7 @@ A system established in a State under section 10803 of this title to protect and
 
 &emsp;(8) on an annual basis, provide the public with an opportunity to comment on the priorities established by, and the activities of, the system;
 
-&emsp;(9) establish a grievance procedure for clients or prospective clients of the system to assure that individuals with mental illness have full access to the services of the system and for individuals who have received or are receiving mental health services, family members of such individuals with mental illness, or representatives of such individuals or family members to assure that the eligible system is operating in compliance with the provisions of this subchapter and subchapter III of this chapter; and
+&emsp;(9) establish a grievance procedure for clients or prospective clients of the system to assure that individuals with mental illness have full access to the services of the system and for individuals who have received or are receiving mental health services, family members of such individuals with mental illness, or representatives of such individuals or familymembers to assure that the eligible system is operating in compliance with the provisions of this subchapter and subchapter III of this chapter; and
 
 &emsp;(10) not use allotments provided to a system in a manner inconsistent with section 14404 of this title.
 
@@ -68,7 +68,7 @@ The Secretary and the agency of a State which administers its State plan under t
 
 (1)(A) Each system established in a State, through allotments received under section 10803 of this title, to protect and advocate the rights of individuals with mental illness shall have a governing authority.
 
-(B) In States in which the governing authority is organized as a private non-profit entity witha multi-member governing board, or a public system with a multi-member governing board, such governing board shall be selected according to the policies and procedures of the system. The governing board shall be composed of—
+(B) In States in which the governing authority is organized as a private non-profit entity with a multi-member governing board, or a public system with a multi-member governing board, such governing board shall be selected according to the policies and procedures of the system. The governing board shall be composed of—
 
 &emsp;(i) members (to be selected no later than October 1, 1990) who broadly represent or are knowledgeable about the needs of the clients served by the system; and
 

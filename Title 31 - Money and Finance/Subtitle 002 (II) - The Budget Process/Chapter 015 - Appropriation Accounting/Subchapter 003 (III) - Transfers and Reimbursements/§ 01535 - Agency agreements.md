@@ -178,7 +178,7 @@ Definitions.—In this section:
 
 &emsp;“(3) The term ‘interagency acquisition’ means a procedure by which an executive agency needing supplies or services (the requesting agency) obtains them from another executive agency (the servicing agency). The term includes acquisitions under section 1535 of title 31, United States Code (commonly referred to as the ‘Economy Act’), Federal Supply Schedules above $500,000, and Governmentwide acquisition contracts.
 
-&emsp;“(4) The term ‘multi-agency contract’ means a task or delivery order contract established for use by more than one executive agency to obtain supplies and services, consistent with section 1535 of title 31, United States Code (commonly referred to as the ‘Economy Act’).”
+&emsp;“(4) The term ‘multi-agency contract’ means a task or delivery order contract established for use by more than one executive agency to obtain supplies and services, consistent with section 1535 of title 31,United States Code (commonly referred to as the ‘Economy Act’).”
 
 #### Review and Enhancement of Existing Authorities for Using Air Force and Air National Guard Modular Airborne Fire-Fighting Systems and Other Department of Defense Assets To Fight Wildfires
 
@@ -218,7 +218,7 @@ Delayed Implementation.—The modifications described in the report prepared und
 
 #### Placement of Orders by Chief Administrative Officer of the House of Representatives
 
-Pub. L. 107–206, title I, §904, Aug. 2, 2002, 116 Stat. 876, provided that: “Nothing in section 1535 of title 31, U.S.C. (commonly referred to as the ‘Economy Act’), or any other provision of such title may be construed to prevent or restrict the Chief Administrative Officer of the House of Representatives from placing orders under such section during any fiscal year in the same mannerand to the same extent as the head of any other major organizational unit with an agency may place orders under such section during a fiscal year.”
+Pub. L. 107–206, title I, §904, Aug. 2, 2002, 116 Stat. 876, provided that: “Nothing in section 1535 of title 31, U.S.C. (commonly referred to as the ‘Economy Act’), or any other provision of such title may be construed to prevent or restrict the Chief Administrative Officer of the House of Representatives from placing orders under such section during any fiscal year in the same manner and to the same extent as the head of any other major organizational unit with an agency may place orders under such section during a fiscal year.”
 
 #### Economy Act Purchases
 

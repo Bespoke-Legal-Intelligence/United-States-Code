@@ -136,7 +136,7 @@ Sale, lease, or donation.—Subject to disapproval by the Administrator within 3
 
 &emsp;(3)
 
-Fixing value.—In fixing the sale or lease value of property disposed of under paragraph (2), the Chief Executive Officer shall take into consideration any benefit which has accruedor may accrue to the Government from the use of the property by the entity receiving the property.
+Fixing value.—In fixing the sale or lease value of property disposed of under paragraph (2), the Chief Executive Officer shall take into consideration any benefit which has accrued or may accrue to the Government from the use of the property by the entity receiving the property.
 
 (h)
 
@@ -152,7 +152,7 @@ In general.—Without monetary consideration to the Government, the Administrato
 
 &emsp;&emsp;(B)
 
-Recommendation by national park system advisory board.—Property may be determined to be suitable and desirable for use as a historic monument only in conformity with a recommendation by the National Park System Advisory Board established under section 3 of the Act of August 21, 1935 (16 U.S.C. 463) (known as the Historic Sites, Buildings, and Antiquities Act). Only the portion of the property that is necessary for the preservation and proper observation of the property's historic features may be determined to be suitable and desirable for use as a historic monument.
+Recommendation by national park system advisory board.—Property may bedetermined to be suitable and desirable for use as a historic monument only in conformity with a recommendation by the National Park System Advisory Board established under section 3 of the Act of August 21, 1935 (16 U.S.C. 463) (known as the Historic Sites, Buildings, and Antiquities Act). Only the portion of the property that is necessary for the preservation and proper observation of the property's historic features may be determined to be suitable and desirable for use as a historic monument.
 
 &emsp;(2)
 
@@ -246,7 +246,7 @@ In subsection (h)(1)(B), the words “National Park System Advisory Board” are
 
 In subsection (h)(2)(A), the words “this subsection” are used to reflect the probable intent of Congress. In 40:484(k)(3)(A), the words “this subsection” should probably be “this paragraph”, meaning 40:484(k)(3). In the revised section, the reference to 40:484(k)(3) is translated as “this subsection” to reflect the restatement of 40:484(k)(3) as subsection (h) of the revised section. The words “or the Surplus Property Act of 1944, as amended” are omitted because the relevant provisions of the Surplus Property Act of 1944 (50 App.:1611 et seq.) have been repealed.
 
-In subsection (h)(3), the words “this subsection” are used to reflect the probable intent of Congress. In40:484(k)(3)(B), the words “this subsection” should probably be “this paragraph”, meaning 40:484(k)(3). In the revised section, the reference to 40:484(k)(3) is translated as “this subsection” to reflect the restatement of 40:484(k)(3) as subsection (h) of the revised section.
+In subsection (h)(3), the words “this subsection” are used to reflect the probable intent of Congress. In 40:484(k)(3)(B), the words “this subsection” should probably be “this paragraph”, meaning 40:484(k)(3). In the revised section, the reference to 40:484(k)(3) is translated as “this subsection” to reflect the restatement of 40:484(k)(3) as subsection (h) of the revised section.
 
 #### References in Text
 

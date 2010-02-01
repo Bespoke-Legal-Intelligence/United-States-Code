@@ -16,7 +16,7 @@
 
 (h) The adjective “consumer”, used with reference to a credit transaction, characterizes the transaction as one in which the party to whom credit is offered or extended is a natural person, and the money, property, or services which are the subject of the transaction are primarily for personal, family, or household purposes.
 
-(i) The term “open end credit plan” means a plan under which the creditor reasonably contemplates repeated transactions, which prescribes the terms of such transactions, and which provides for a finance charge which may be computed from time to time on the outstanding unpaid balance. A credit plan which is an open end credit plan within the meaning of the preceding sentence is an open end credit planeven if credit information is verified from time to time.
+(i) The terms “open end credit plan” and “open end consumer credit plan” mean a plan under which the creditor reasonably contemplates repeated transactions, which prescribes the terms of such transactions, and which provides for a finance charge which may be computed from time to time on the outstanding unpaid balance. A credit plan or open end consumer credit plan which is an open end credit plan or open end consumer credit plan within the meaning of the preceding sentence is an open end credit plan or open end consumer credit plan even if credit information is verified from time to time.
 
 (j) The term “adequate notice,” as used in section 1643 of this title, means a printed notice to a cardholder which sets forth the pertinent facts clearly and conspicuously so that a person against whom it is to operate could reasonably be expected to have noticed it and understood its meaning. Such notice may be given to a cardholder by printing the notice on any credit card, or on each periodic statement of account, issued to the cardholder, or by any other means reasonably assuring the receipt thereof by the cardholder.
 
@@ -30,7 +30,7 @@
 
 (<i>o</i>) The term “unauthorized use,” as used in section 1643 of this title, means a use of a credit card by a person other than the cardholder who does not have actual, implied, or apparent authority for such use and from which the cardholder receives no benefit.
 
-(p) The term “discount” as used in section 1666f of this title means a reduction made from the regular price. The term “discount” as used in section 1666f of this title shall not mean a surcharge.
+(p) The term “discount” as used in section 1666f of this title means a reduction made fromthe regular price. The term “discount” as used in section 1666f of this title shall not mean a surcharge.
 
 (q) The term “surcharge” as used in this section and section 1666f of this title means any means of increasing the regular price to a cardholder which is not imposed upon customers paying by cash, check, or similar means.”
 
@@ -108,13 +108,15 @@
 
 &emsp;&emsp;(C) the death of the consumer.
 
-(Pub. L. 90–321, title I, §103, May 29, 1968, 82 Stat. 147; Pub. L. 91–508, title V, §501, Oct. 26, 1970, 84 Stat. 1126; Pub. L. 93–495, title III, §303, Oct. 28, 1974, 88 Stat. 1511; Pub. L. 94–222, §3(a), Feb. 27, 1976, 90 Stat. 197; Pub. L. 96–221, title VI, §§602, 603(a), (b), 604, 612(a)(2), (b), Mar. 31, 1980, 94 Stat. 168, 169, 175, 176; Pub. L. 97–25, title I, §102, July 27, 1981, 95 Stat. 144; Pub. L. 97–320, title VII, §702(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 103–325, title I, §§152(a)–(c), 154(a), Sept. 23, 1994, 108 Stat. 2190, 2191, 2196; Pub. L. 110–315, title X, §1011(b), Aug. 14, 2008, 122 Stat. 3481.)
+(Pub. L. 90–321, title I, §103, May 29, 1968, 82 Stat. 147; Pub. L. 91–508, title V, §501, Oct. 26, 1970, 84 Stat. 1126; Pub. L. 93–495, title III, §303, Oct. 28, 1974, 88 Stat. 1511; Pub. L. 94–222, §3(a), Feb. 27, 1976, 90 Stat. 197; Pub. L. 96–221, title VI, §§602, 603(a), (b), 604, 612(a)(2), (b), Mar. 31, 1980, 94 Stat. 168, 169, 175, 176; Pub. L. 97–25, title I, §102, July 27, 1981, 95 Stat. 144; Pub. L. 97–320, title VII, §702(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 103–325, title I, §§152(a)–(c), 154(a), Sept. 23, 1994, 108 Stat. 2190, 2191, 2196; Pub. L. 110–315, title X, §1011(b), Aug. 14, 2008, 122 Stat. 3481; Pub. L. 111–24, title I, §108, May 22, 2009, 123 Stat. 1743.)
 
 #### References in Text
 
 The Riegle Community Development and Regulatory Improvement Act of 1994, referred to in subsec. (aa)(2)(A)(i), is Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2160. Section 155 of the Act is set out below. For classification of subtitle B of title I of the Act, known as the “Home Ownership and Equity Protection Act of 1994”, see Short Title of 1994 Amendment note set out under section 1601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 12, Banks and Banking, and Tables.
 
 #### Amendments
+
+2009—Subsec. (i). Pub. L. 111–24 substituted “terms ‘open end credit plan’ and ‘open end consumer credit plan’ mean” for “term ‘open end credit plan’ means” in first sentence and inserted “or open end consumer credit plan” after “credit plan” wherever appearing in second sentence.
 
 2008—Subsec. (f). Pub. L. 110–315 inserted at end “The term ‘creditor’ includes a private educational lender (as that term is defined in section 1650 of this title) for purposes of this subchapter.”
 
@@ -152,6 +154,10 @@ Subsecs. (x), (y). Pub. L. 96–221, §603(b), redesignated former subsecs. (s) 
 
 1970—Subsecs. (j) to (r). Pub. L. 91–508 added subsecs. (j) to (<i>o</i>) and redesignated former subsecs. (j) to (<i>l</i>) as (p) to (r), respectively.
 
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–24, §3, May 22, 2009, 123 Stat. 1735, provided that: “This Act \[enacting sections 1616, 1651, 1665c to 1665e, 1666i–1, 1666i–2, and 1693<i>l</i>–1 of this title and section 1a–7b of Title 16, Conservation, amending this section and sections 1632, 1637, 1640, 1650, 1666b, 1666c, 1666j, 1681b, 1681j, and 1693m to 1693r of this title, enacting provisions set out as notes under this section and sections 1637, 1638, 1666b, 1681j, and 1693<i>l</i>–1 of this title and section 5311 of Title 31, Money and Finance, and amending provisions set out as notes under sections 1638 and 1693 of this title\] and the amendments made by this Act shall become effective 9 months after the date of enactment of this Act \[May 22, 2009\], except as otherwise specifically provided in this Act.”
+
 #### Effective Date of 1982 Amendment
 
 Section 702(b) of Pub. L. 97–320 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the effective date of title VI of the Depository Institutions Deregulation and Monetary Control Act of 1980 \[two years and six months after Mar. 31, 1980, see Effective Date of 1980 Amendment note below\].”
@@ -175,6 +181,8 @@ Section 625 of title VI of Pub. L. 96–221, as amended by Pub. L. 97–25, titl
 For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 93–495, set out as an Effective Date note under section 1666 of this title.
 
 #### Regulations
+
+Pub. L. 111–24, §2, May 22, 2009, 123 Stat. 1735, provided that: “The Board of Governors of the Federal Reserve System (in this Act \[see Short Title of 2009 Amendment note set out under section 1601 of this title\] referred to as the ‘Board’) may issue such rules and publish such model forms as it considers necessary to carry out this Act and the amendments made by this Act.”
 
 Section 155 of title I of Pub. L. 103–325 provided that: “Not later than 180 days after the date of enactment of this Act \[Sept. 23, 1994\], the Board of Governors of the Federal Reserve System shall issue such regulations as may be necessary to carry out this subtitle \[subtitle B (§§151–158) of title I of Pub. L. 103–325, see Short Title of 1994 Amendment note set out under section 1601 of this title\], and such regulations shall become effective on the date on which disclosure regulations are required to become effective under section 105(d) of the Truth in Lending Act \[15 U.S.C. §1604(d)\].”
 

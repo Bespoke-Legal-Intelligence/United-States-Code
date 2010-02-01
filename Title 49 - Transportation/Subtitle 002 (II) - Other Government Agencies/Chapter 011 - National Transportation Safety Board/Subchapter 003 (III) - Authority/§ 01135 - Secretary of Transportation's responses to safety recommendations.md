@@ -12,7 +12,7 @@ General.—When the National Transportation Safety Board submits a recommendatio
 
 (b)
 
-Timetable for Completing Procedures and Reasons for Refusals.—A response undersubsection (a)(1) or (2) of this section shall include a copy of a proposed timetable for completing the procedures. A response under subsection (a)(2) of this section shall detail the reasons for the refusal to carry out procedures on the remainder of the recommendation. A response under subsection (a)(3) of this section shall detail the reasons for the refusal to carry out procedures.
+Timetable for Completing Procedures and Reasons for Refusals.—A response under subsection (a)(1) or (2) of this section shall include a copy of a proposed timetable for completing the procedures. A response under subsection (a)(2) of this section shall detail the reasons for the refusal to carry out procedures on the remainder of the recommendation. A response under subsection (a)(3) of this section shall detail the reasons for the refusal to carry out procedures.
 
 (c)
 
@@ -28,7 +28,7 @@ Annual secretarial regulatory status reports.—On February 1 of each year, the 
 
 &emsp;(2)
 
-Failure to report.—If on March 1 of each year the Board has not received the Secretary's report required by this subsection, the Board shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the Secretary's failure to submit the required report.
+Failure to report.—If on March 1 of each year the Board has not received the Secretary's report required by this subsection, theBoard shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the Secretary's failure to submit the required report.
 
 &emsp;(3)
 

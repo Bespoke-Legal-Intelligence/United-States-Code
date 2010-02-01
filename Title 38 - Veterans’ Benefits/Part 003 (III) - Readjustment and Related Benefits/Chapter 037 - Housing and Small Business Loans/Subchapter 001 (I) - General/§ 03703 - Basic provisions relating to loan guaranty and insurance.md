@@ -12,7 +12,7 @@
 
 &emsp;(ii) the maximum amount of guaranty entitlement available to the veteran as specified in subparagraph (B) of this paragraph.
 
-(B) The maximum amount of guaranty entitlement available to a veteran for purposes specified in section 3710 of this title shall be $36,000, or in the case of a loan described in subparagraph (A)(i)(IV) of this paragraph, the maximum guaranty amount (as defined in subparagraph (C)), reduced by the amount of entitlement previously used by the veteran under this chapter and not restored as a result of the exclusion in section 3702(b) of this title.
+(B) The maximum amount of guaranty entitlement available to a veteran for purposes specified in section 3710 of this title shall be $36,000, or in the case of a loan described in subparagraph (A)(i)(IV) of this paragraph, the maximum guaranty amount (as defined in subparagraph (C)), reduced by the amount of entitlement previously used by the veteran under this chapterand not restored as a result of the exclusion in section 3702(b) of this title.
 
 (C) In this paragraph, the term “maximum guaranty amount” means the dollar amount that is equal to 25 percent of the Freddie Mac conforming loan limit limitation determined under section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454(a)(2)) for a single-family residence, as adjusted for the year involved.
 
@@ -54,7 +54,7 @@
 
 (C) Not later than 10 days after an election under subparagraph (A), the Secretary shall transmit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a notification of the election, together with an explanation of the reasons therefor.
 
-(d)(1) The maturity of any housing loan shall not be more than thirty years and thirty-two days.
+(d)(1) The maturity of any housing loan at the time of origination shall not be more than thirty years and thirty-two days.
 
 (2)(A) Any loan for a term of more than five years shall be amortized in accordance with established procedure.
 
@@ -78,13 +78,15 @@
 
 (f) The application for or obtaining of a loan made, insured, or guaranteed under this chapter shall not be subject to reporting requirements applicable to requests for, or receipts of, Federal contracts, grants, loans, loan guarantees, loan insurance, or cooperative agreements except to the extent that such requirements are provided for in, or by the Secretary pursuant to, this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1205, 1212, §1803; Pub. L. 86–73, §2, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, §1, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, §1(a), July 6, 1961, 75 Stat. 201; Pub. L. 89–358, §5(d), Mar. 3, 1966, 80 Stat. 26; Pub. L. 90–77, title IV, §403(b), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–22, §4, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §2(b), (c), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–75, July 26, 1973, 87 Stat. 176; Pub. L. 93–569, §§2(c), 8(1)–(5), Dec. 31, 1974, 88 Stat. 1863, 1866; Pub. L. 94–324, §7(6), (16), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §103, Oct. 18, 1978, 92 Stat. 1498; Pub. L. 96–385, title IV, §401(c)(1), Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–66, title V, §501(a), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 97–72, title III, §303(c), (e), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), (63), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title IV, §406(b), Oct. 14, 1982, 96 Stat. 1444; Pub. L. 98–223, title II, §205(c), Mar. 2, 1984, 98 Stat. 43; Pub. L. 100–198, §3(a)(1), Dec.21, 1987, 101 Stat. 1315; Pub. L. 100–253, §3(a), Feb. 29, 1988, 102 Stat. 20; Pub. L. 100–322, title IV, §415(a)(3), (c)(2), (d)(1), May 20, 1988, 102 Stat. 550–552; Pub. L. 101–237, title III, §§304(a), 306(a), 313(b)(1), (6), Dec. 18, 1989, 103 Stat. 2073, 2074, 2077; Pub. L. 102–54, §§4(b), 6, June 13, 1991, 105 Stat. 268; renumbered §3703 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §10(a), Oct. 28, 1992, 106 Stat. 3643; Pub. L. 103–78, §6, Aug. 13, 1993, 107 Stat. 769; Pub. L. 103–353, §7, Oct. 13, 1994, 108 Stat. 3175; Pub. L. 104–110, title I, §101(d), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–368, title VI, §602(e)(1)(A), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 107–103, title IV, §401, Dec. 27, 2001, 115 Stat. 993; Pub. L. 107–330, title III, §308(f)(1), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–454, title IV, §403, Dec. 10, 2004, 118 Stat. 3616; Pub. L. 110–389, title V, §504(a), Oct. 10, 2008, 122 Stat. 4176.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1205, 1212, §1803; Pub. L. 86–73, §2, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, §1, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, §1(a), July 6, 1961, 75 Stat. 201; Pub. L. 89–358, §5(d), Mar. 3, 1966, 80 Stat. 26; Pub. L. 90–77, title IV, §403(b), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–22, §4, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §2(b), (c), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–75, July 26, 1973, 87 Stat. 176; Pub. L. 93–569, §§2(c), 8(1)–(5), Dec. 31, 1974, 88 Stat. 1863, 1866; Pub. L. 94–324, §7(6), (16), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §103, Oct. 18, 1978, 92 Stat. 1498; Pub. L. 96–385, title IV, §401(c)(1), Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–66, title V, §501(a), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 97–72, title III, §303(c), (e), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), (63), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title IV, §406(b), Oct. 14, 1982, 96 Stat. 1444; Pub. L. 98–223, title II, §205(c), Mar. 2, 1984, 98 Stat. 43; Pub. L. 100–198, §3(a)(1), Dec. 21, 1987, 101 Stat. 1315; Pub. L. 100–253, §3(a), Feb. 29, 1988, 102 Stat. 20; Pub. L. 100–322, title IV, §415(a)(3), (c)(2), (d)(1), May 20, 1988, 102 Stat. 550–552; Pub. L. 101–237, title III, §§304(a), 306(a), 313(b)(1), (6), Dec. 18, 1989, 103 Stat. 2073, 2074, 2077; Pub. L. 102–54, §§4(b), 6, June 13, 1991, 105 Stat. 268; renumbered §3703 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §10(a), Oct. 28, 1992, 106 Stat. 3643; Pub. L. 103–78, §6, Aug. 13, 1993, 107 Stat. 769; Pub. L. 103–353, §7, Oct. 13, 1994, 108 Stat. 3175; Pub. L. 104–110, title I, §101(d), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–368, title VI, §602(e)(1)(A), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 107–103, title IV, §401, Dec. 27, 2001, 115 Stat. 993; Pub. L. 107–330, title III, §308(f)(1), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–454, title IV, §403, Dec. 10, 2004, 118 Stat. 3616; Pub. L. 110–389, title V, §504(a), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 111–22, div. A, title I, §102(a), May 20, 2009, 123 Stat. 1636.)
 
 #### References in Text
 
 The Servicemen's Readjustment Act of 1944, referred to in subsec. (c)(2), is act June 22, 1944, ch. 268, 58 Stat. 284, as amended, which was classified generally to chapter 11C (§§693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which was repealed upon the enactment of Title 38, Veterans’ Benefits, by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105. For distribution of sections 693 to 697g of former Title 38 in this title, see Table preceding section 101 of this title.
 
 #### Amendments
+
+2009—Subsec. (d)(1). Pub. L. 111–22 inserted “at the time of origination” after “loan”.
 
 2008—Subsec. (a)(1)(A)(i)(IV). Pub. L. 110–389 inserted “(5),” after “(3),”.
 
@@ -112,7 +114,7 @@ Subsec. (c)(4). Pub. L. 102–547, §10(a)(2), added par. (4).
 
 Subsec. (a)(1)(A). Pub. L. 102–83, §5(c)(1), substituted “3710” for “1810” in introductory provisions.
 
-Subsec. (a)(1)(A)(i)(III). Pub. L. 102–54, §6(1), inserted “except as provided in subclause (IV) of this clause,” after “(III)” and struck out “but not more than $144,000,” after “$56,250,”.
+Subsec. (a)(1)(A)(i)(III). Pub. L. 102–54, §6(1), inserted “except as provided in subclause (IV) of this clause,”after “(III)” and struck out “but not more than $144,000,” after “$56,250,”.
 
 Subsec. (a)(1)(A)(i)(IV). Pub. L. 102–83, §5(c)(1), substituted “3710(a)” for “1810(a)”.
 
@@ -206,7 +208,7 @@ Subsec. (d)(3). Pub. L. 94–324, §7(6), substituted “the Administrator deter
 
 Subsec. (a)(2)(B) \[formerly §1815(b)\]. Pub. L. 93–569, §8(5), struck out provision authorizing the Administrator to fix maximum interest rate payable on non-real-estate loans at not in excess of 3 percent discount rate or an equivalent straight interest rate on unamortized loans.
 
-Pub. L. 93–569, §8(2), struck out provision that, except as provided in sections 1810, 1811, and 1819, the aggregate amount guaranteed should not be more than $2,000 in the case of non-real-estate loans, nor $4,000 in the case of real-estate loans or a prorated portion thereof in a combination loan.
+Pub. L. 93–569, §8(2), struck out provision that, except as provided in sections 1810, 1811, and 1819, the aggregate amount guaranteed should not be more than $2,000 in the case of non-real-estate loans, nor $4,000 in thecase of real-estate loans or a prorated portion thereof in a combination loan.
 
 Subsec. (c)(3). Pub. L. 93–569, §2(c), added par. (3).
 
@@ -282,7 +284,11 @@ Amendment by Pub. L. 93–569 effective Dec. 31, 1974, see section 10 of Pub. L.
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
+Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten daysafter Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
+
+#### Implementation of Amendment by Pub. L. 111–22
+
+Pub. L. 111–22, div. A, title I, §102(b), May 20, 2009, 123 Stat. 1636, provided that: “The Secretary of Veterans Affairs may implement the amendments made by this section \[amending this section\] through notice, procedure notice, or administrative notice.”
 
 #### Temporary Increase in Maximum Loan Guaranty Amount for Certain Housing Loans Guaranteed by Secretary of Veterans Affairs
 

@@ -126,7 +126,7 @@ Subsec. (c)(22). Pub. L. 93–416, §5, added par. (22).
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–416 effective Sept. 7, 1974, and applicable to any injury or death occurring on or after such effective date, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
+Amendment by Pub. L. 93–416 effective Sept. 7, 1974, and applicable to any injury or death occurring on orafter such effective date, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
 
 #### Personnel Not Affected by 1967 Increase
 

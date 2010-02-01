@@ -70,7 +70,7 @@ High risk drivers.—A law that establishes stronger sanctions or additional pen
 
 &emsp;&emsp;&emsp;(ii) only in an automobile equipped with a certified alcohol ignition interlock device; and
 
-&emsp;&emsp;(B) a mandatory assessment by a certified substance abuse official of whether the individual has an alcohol abuse problem with possible referral to counseling if the official determines that such a referral is appropriate.
+&emsp;&emsp;(B) a mandatory assessment by a certified substance abuse official of whether the individual has an alcohol abuse problem with possible referral to counseling if the officialdetermines that such a referral is appropriate.
 
 &emsp;(5)
 
@@ -240,7 +240,7 @@ Subsec. (a)(4)(C). Pub. L. 108–310, §6(e)(1)(B), substituted “, seventh, a
 
 Subsec. (a)(4)(C). Pub. L. 108–88, §6(e)(1)(B), substituted “, sixth, and seventh” for “and sixth”.
 
-1998—Pub. L. 105–178 reenacted section catchline without change and amended text generally. Prior to amendment, section related to alcohol-impaired driving countermeasures, providing for general authority in subsec. (a), maintenance of effort in subsec. (b), maximum period of eligibility and Federal share for grants in subsec. (c), basic grant eligibility in subsec. (d), amount of basic grant in subsec. (e), supplemental grants in subsec. (f), administrative expenses in subsec. (g), applicability of chapter 1 of this title in subsec. (h), definitions in subsec. (i), and authorization of appropriations in subsec. (j).
+1998—Pub. L. 105–178 reenacted section catchline without change and amended text generally. Prior to amendment, section related to alcohol-impaired driving countermeasures, providing for general authority in subsec. (a), maintenance of effort in subsec. (b), maximum period of eligibility and Federal share for grants in subsec. (c), basic grant eligibility in subsec. (d),amount of basic grant in subsec. (e), supplemental grants in subsec. (f), administrative expenses in subsec. (g), applicability of chapter 1 of this title in subsec. (h), definitions in subsec. (i), and authorization of appropriations in subsec. (j).
 
 1997—Subsec. (c). Pub. L. 105–130, §6(b)(1)(A), substituted “6 fiscal years” for “5 fiscal years” in introductory provisions.
 

@@ -36,7 +36,7 @@ If the Secretary determines that a tribally controlled school is eligible for as
 
 #### (B) To Secretary
 
-&emsp;&emsp;Not later than 30 days after receiving written confirmation that the tribal governing body has received the report sent pursuant to subparagraph (A), the recipient of the grant shall send a copy of the report to the Secretary.
+&emsp;&emsp;Not later than 30 days after receiving written confirmation that the tribal governing body has received the report sent pursuantto subparagraph (A), the recipient of the grant shall send a copy of the report to the Secretary.
 
 #### (c) Revocation of eligibility
 

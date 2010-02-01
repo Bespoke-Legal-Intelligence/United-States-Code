@@ -28,7 +28,7 @@
 
 &emsp;(E) the program, function, service, or activity (or portion thereof) that is the subject of the proposal is beyond the scope of programs, functions, services, or activities covered under paragraph (1) because the proposal includes activities that cannot lawfully be carried out by the contractor.
 
-> Notwithstanding any other provision of law, the Secretary may extend or otherwise alter the 90-day period specified in the second sentence of this subsection,<sup>1</sup> if before the expiration of such period, the Secretary obtains the voluntary and express written consent of the tribe or tribal organization to extend or otherwise alter such period. The contractor shall include in the proposal of the contractor the standards under which the tribal organization will operate the contracted program, service, function, or activity, including in the area of construction, provisions regarding the use of licensed and qualified architects, applicable health and safety standards, adherence to applicable Federal, State, local, or tribal building codes and engineering standards. The standards referred to in the preceding sentence shall ensure structural integrity, accountability of funds, adequate competition for subcontracting under tribal or other applicable law, the commencement, performance, and completion of the contract, adherence to project plans and specifications (including any applicable Federal construction guidelines and manuals), the use of proper materials and workmanship, necessary inspection and testing, and changes, modifications, stop work, and termination of the work when warranted.
+> Notwithstanding any other provision of law, the Secretary may extend or otherwise alter the 90-day period specified in the second sentence of this subsection,<sup>1</sup> if before the expiration of suchperiod, the Secretary obtains the voluntary and express written consent of the tribe or tribal organization to extend or otherwise alter such period. The contractor shall include in the proposal of the contractor the standards under which the tribal organization will operate the contracted program, service, function, or activity, including in the area of construction, provisions regarding the use of licensed and qualified architects, applicable health and safety standards, adherence to applicable Federal, State, local, or tribal building codes and engineering standards. The standards referred to in the preceding sentence shall ensure structural integrity, accountability of funds, adequate competition for subcontracting under tribal or other applicable law, the commencement, performance, and completion of the contract, adherence to project plans and specifications (including any applicable Federal construction guidelines and manuals), the use of proper materials and workmanship, necessary inspection and testing, and changes, modifications, stop work, and termination of the work when warranted.
 
 (3) Upon the request of a tribal organization that operates two or more mature self-determination contracts, those contracts may be consolidated into one single contract.
 
@@ -48,7 +48,7 @@ Whenever the Secretary declines to enter into a self-determination contract or c
 
 &emsp;(2) provide assistance to the tribal organization to overcome the stated objections, and
 
-&emsp;(3) provide the tribal organization with a hearing on the record with the right to engage in full discovery relevant to any issue raised in the matter and the opportunity for appeal on the objections raised, under such rules and regulations as the Secretary may promulgate, except that the tribe or tribal organization may, in lieu of filing such appeal, exercise theoption to initiate an action in a Federal district court and proceed directly to such court pursuant to section 450m–1(a) of this title.
+&emsp;(3) provide the tribal organization with a hearing on the record with the right to engage in full discovery relevant to any issue raised in the matter and the opportunity for appeal on the objections raised, under such rules and regulations as the Secretary may promulgate, except that the tribe or tribal organization may, in lieu of filing such appeal, exercise the option to initiate an action in a Federal district court and proceed directly to such court pursuant to section 450m–1(a) of this title.
 
 #### (c) Liability insurance; waiver of defense
 
@@ -80,7 +80,7 @@ For purposes of section 233 of title 42, with respect to claims by any person, i
 
 Act of April 16, 1934, referred to in subsec. (a)(1)(A), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, as amended, popularly known as the Johnson-O'Malley Act, which is classified generally to section 452 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 452 of this title and Tables.
 
-Act of August 5, 1954, referred to in subsec. (a)(1)(C), is act Aug. 5, 1954, ch. 658, 68 Stat. 674, as amended,which is classified generally to subchapter I (§2001 et seq.) of chapter 22 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+Act of August 5, 1954, referred to in subsec. (a)(1)(C), is act Aug. 5, 1954, ch. 658, 68 Stat. 674, as amended, which is classified generally to subchapter I (§2001 et seq.) of chapter 22 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
 This subchapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter (§450 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
@@ -108,7 +108,7 @@ Subsec. (e). Pub. L. 103–413, §102(9), added subsec. (e).
 
 1988—Pub. L. 100–472, §201(a), amended section generally, revising and restating provisions of subsecs. (a) to (c).
 
-Subsec. (c)(2). Pub. L. 100–581 which directed amendment of par. (2) by substituting “section 1452 of this title” for “section 1425 of title 25, United States Code” was executed by making the substitution for “section 1425, title 25, United States Code” to reflect the probable intent of Congress.
+Subsec. (c)(2). Pub. L. 100–581 which directed amendment of par. (2) by substituting “section 1452 of this title” for “section 1425 of title 25, United States Code”was executed by making the substitution for “section 1425, title 25, United States Code” to reflect the probable intent of Congress.
 
 Subsec. (d). Pub. L. 100–472, §201(b)(1), redesignated the last sentence of subsec. (c) of section 450g of this title as subsec. (d) of this section and substituted “sections 450f or 450h of this title” for “sections 450g and 450h(b) of this title”.
 

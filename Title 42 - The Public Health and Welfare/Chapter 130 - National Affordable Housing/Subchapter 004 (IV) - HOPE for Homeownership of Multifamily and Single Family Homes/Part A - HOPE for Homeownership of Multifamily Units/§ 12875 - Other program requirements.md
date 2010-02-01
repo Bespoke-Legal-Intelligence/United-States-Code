@@ -58,7 +58,7 @@ Not more than an aggregate of $250,000 from amounts made available under section
 
 #### (g) Timely homeownership
 
-Recipients shall transfer ownership of the property to tenants within a specified period oftime that the Secretary determines to be reasonable. During the interim period when the property continues to be operated and managed as rental housing, the recipient shall utilize written tenant selection policies and criteria that are approved by the Secretary as consistent with the purpose of improving housing opportunities for low-income families. The recipient shall promptly notify in writing any rejected applicant of the grounds for any rejection.
+Recipients shall transfer ownership of the property to tenants within a specified period of time that the Secretary determines to be reasonable. During the interim period when the property continues to be operated and managed as rental housing, the recipient shall utilize written tenant selection policies and criteria that are approved by the Secretary as consistent with the purpose of improving housing opportunities for low-income families. The recipient shall promptly notify in writing any rejected applicant of the grounds for any rejection.
 
 #### (h) Records and audit of recipients of assistance
 

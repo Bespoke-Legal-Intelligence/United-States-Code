@@ -32,5 +32,5 @@ Office of Emergency Preparedness \[formerly Office of Emergency Planning\], incl
 
 #### Delegation of Functions
 
-Functions of President under Disaster Relief Act of 1970 delegated to Secretary of Homeland Security by section 4–201 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, as amended, set out as a note under section 5195 of this title. Sections 5–112 and 5–113 of Ex. Ord. No. 12148, revoked Ex. Ord. Nos. 11725 and 11749, respectively, which had previously transferred President's functions under Disaster Relief Act of 1970 to Secretary of Housing and Urban Development. See Transfer of Functions note above.
+Functions of President under Disaster Relief Act of 1970 delegated to Secretary of Homeland Security by section 4–201 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R.43239, as amended, set out as a note under section 5195 of this title. Sections 5–112 and 5–113 of Ex. Ord. No. 12148, revoked Ex. Ord. Nos. 11725 and 11749, respectively, which had previously transferred President's functions under Disaster Relief Act of 1970 to Secretary of Housing and Urban Development. See Transfer of Functions note above.
 

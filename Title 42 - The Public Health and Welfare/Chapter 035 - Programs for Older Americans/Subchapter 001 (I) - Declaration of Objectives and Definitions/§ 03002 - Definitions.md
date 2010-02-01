@@ -202,7 +202,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(D) in-home respite care for families, and adult day care as a respite service for families;
 
-&emsp;&emsp;(E) minor modification of homes that is necessary to facilitate the ability of older individuals to remain at home and that is not available under another program (other than a program carried out under this chapter);
+&emsp;&emsp;(E) minor modification of homes that is necessary to facilitate the ability of olderindividuals to remain at home and that is not available under another program (other than a program carried out under this chapter);
 
 &emsp;&emsp;(F) personal care services; and
 
@@ -286,9 +286,9 @@ For the purposes of this chapter—
 
 &emsp;(43) The term “poverty line” means the official poverty line (as defined by the Office of Management and Budget, and adjusted by the Secretary in accordance with section 9902(2) of this title.<sup>3</sup>
 
-&emsp;(44) The term “representative payee” means a person who is appointed by a governmental entity to receive, on behalf of an older individual who is unable to manage funds by reason of a physical or mental incapacity, any funds owed to such individual by such entity.
+&emsp;(44) The term “representative payee” means a person who is appointed by a governmental entity to receive, on behalf of an older individual who is unable to manage funds by reasonof a physical or mental incapacity, any funds owed to such individual by such entity.
 
-&emsp;(45) The term “Secretary” means the Secretary of Health and Human Services, except that for purposes of subchapter IX of thischapter such term means the Secretary of Labor.
+&emsp;(45) The term “Secretary” means the Secretary of Health and Human Services, except that for purposes of subchapter IX of this chapter such term means the Secretary of Labor.
 
 &emsp;(46) The term “self-directed care” means an approach to providing services (including programs, benefits, supports, and technology) under this chapter intended to assist an individual with activities of daily living, in which—
 
@@ -342,7 +342,7 @@ The Social Security Act, referred to in pars. (14) and (32), is act Aug. 14, 193
 
 Section 8801 of title 20, referred to in par. (14)(E)(ii), was repealed by Pub. L. 107–110, title X, §1011(5)(C), Jan. 8, 2002, 115 Stat. 1986. See section 7801 of Title 20, Education.
 
-The Family Violence Prevention and Services Act, referred to in par. (19), is title III of Pub. L. 98–457, Oct. 9, 1984, 98 Stat. 1757, which is classified generally to chapter 110 (§10401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10401 of this title and Tables.
+The Family Violence Prevention and Services Act, referred to in par. (19), is title III of Pub. L. 98–457, Oct. 9, 1984, 98 Stat. 1757, which is classified generally to chapter 110 (§10401 et seq.) of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 10401 of this title and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in par. (27), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act of the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
@@ -430,7 +430,7 @@ Par. (12). Pub. L. 100–628, §705(1)(B), redesignated par. (8) defining “Tru
 
 1987—Par. (1). Pub. L. 100–175, §182(a), substituted “except that for purposes of subchapter IX of this chapter such term means the Secretary of Labor” for “other than for purposes of subchapter IX of this chapter”.
 
-Par. (3). Pub. L. 100–175, §182(b)(1)(A), substituted “means any of the several States,” for “includes” and“the Commonwealth of Puerto Rico” for “Puerto Rico”.
+Par. (3). Pub. L. 100–175, §182(b)(1)(A), substituted “means any of the several States,” for “includes” and “the Commonwealth of Puerto Rico” for “Puerto Rico”.
 
 Par. (8). Pub. L. 100–175, §182(b)(1)(B), added par. (8) defining “Trust Territory of the Pacific Islands”.
 

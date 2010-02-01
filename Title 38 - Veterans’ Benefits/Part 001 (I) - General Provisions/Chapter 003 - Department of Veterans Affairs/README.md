@@ -60,7 +60,7 @@ Section 218, added Pub. L. 93–43, §4(a), June 18, 1973, 87 Stat. 79; amended 
 
 Section 219, added Pub. L. 93–508, title II, §213(a), Dec. 3, 1974, 88 Stat. 1586; amended Pub. L. 99–576, title VII, §701(12), Oct. 28, 1986, 100 Stat. 3291, related to evaluation of programs and collection of data. See section 527 of this title.
 
-Section 220, added Pub. L. 93–508, title II, §213(a), Dec. 3, 1974, 88 Stat. 1587; amended Pub. L. 96–466, title VII,§701(a), (b)(1), Oct. 17, 1980, 94 Stat. 2215; Pub. L. 98–528, title I, §106(a), (b)(1), Oct. 19, 1984, 98 Stat. 2690, related to coordination and promotion of other programs affecting veterans and their dependents. See section 523 of this title.
+Section 220, added Pub. L. 93–508, title II, §213(a), Dec. 3, 1974, 88 Stat. 1587; amended Pub. L. 96–466, title VII, §701(a), (b)(1), Oct. 17, 1980, 94 Stat. 2215; Pub. L. 98–528, title I, §106(a), (b)(1), Oct. 19, 1984, 98 Stat. 2690, related to coordination and promotion of other programs affecting veterans and their dependents. See section 523 of this title.
 
 Section 221, added Pub. L. 97–37, §2(a), Aug. 14, 1981, 95 Stat. 935, established Advisory Committee on Former Prisoners of War. See section 541 of this title.
 

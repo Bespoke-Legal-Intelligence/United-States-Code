@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Any alien against whom a final order of removal is outstanding by reason of being a member of any of the classes described in section 1227(a) of this title, who—
+&emsp;Any alien against whom a final order of removal is outstanding by reason of being amember of any of the classes described in section 1227(a) of this title, who—
 
 &emsp;&emsp;(A) willfully fails or refuses to depart from the United States within a period of 90 days from the date of the final order of removal under administrative processes, or if judicial review is had, then from the date of the final order of the court,
 

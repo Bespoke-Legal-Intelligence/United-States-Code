@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;As soon as practicable after the enactment date, the settlors shall create a separate private plan which shall be known as the United Mine Workers of America 1992 Benefit Plan. For purposes of this title, the 1992 UMWA Benefit Plan shall be treated as an organization exempt from taxation under section 501(a). The settlors shall be responsible for designing the structure, administration and terms of the 1992 UMWA Benefit Plan, and for appointment and removal of the members of the board of trustees. The board of trustees shall initially consist of five members and shall thereafter be the number set by the settlors.
+&emsp;As soon as practicable after the enactment date, the settlors shall create a separate private plan which shall be known as the United Mine Workers of America 1992 Benefit Plan. For purposes of this title, the 1992 UMWA Benefit Plan shall be treated as an organization exempt from taxation under section 501(a). The settlors shall be responsible for designing the structure, administration and terms of the 1992 UMWA Benefit Plan, and for appointment and removal of the members of the board of trustees. The board of trustees shall initiallyconsist of five members and shall thereafter be the number set by the settlors.
 
 #### (2) Treatment of plan
 
@@ -146,7 +146,7 @@
 
 &emsp;&emsp;<i>“(B) The provision of a security (in the form of a bond, letter of credit, or cash escrow) in an amount equal to a portion of the projected future cost to the 1992 UMWA Benefit Plan of providing health benefits for eligible and potentially eligible beneficiaries attributable to the 1988 last signatory operator.</i>
 
-&emsp;&emsp;<i>“(C) If the amounts transferred under subsection (a)(3) are less than the amounts required to be transferred to the 1992 UMWA Benefit Plan under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232), the payment of an</i><i>additional backstop premium by each 1988 last signatory operator which is equal to such operator's share of the amounts required to be so transferred but which were not so transferred, determined on the basis of the number of eligible and potentially eligible beneficiaries attributable to the operator.”;</i>
+&emsp;&emsp;<i>“(C) If the amounts transferred under subsection (a)(3) are less than the amounts required to be transferred to the 1992 UMWA Benefit Plan under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232), the payment of an additional backstop premium by each 1988 last signatory operator which is equal to such operator's share of the amounts required to be so transferred but which were not so transferred, determined on the basis of the number of eligible and potentially eligible beneficiaries attributable to the operator.”;</i>
 
 <i>(2) in paragraph (2)(B), by substituting “backstop” for “prefunding”; and</i>
 

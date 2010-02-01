@@ -146,6 +146,42 @@ Amendment by Pub. L. 89–670 effective 90 days after Secretary of Transportatio
 
 Section 201 of title II of Pub. L. 94–82 provided that: “This title \[enacting section 5318 of this title and section 461 of Title 28, Judiciary and Judicial Procedure, amending sections 5305, 5312, 5313, 5314, 5315 and 5316 of this title, sections 31, 60a note, 136a, 136a–1 and 356 of Title 2, The Congress, section 104 of Title 3, The President, section 68 of Title 11, Bankruptcy, sections 5, 44, 135, 173, 213, 252 and 792 of Title 28, sections 42a and 51a of former Title 31, Money and Finance, sections 162a and 166b of former Title 40, Public Buildings, Property, and Works, and section 303 of Title 44, Public Printing and Documents, and enacting provisions set out as a note under section 356 of Title 2\] may be cited as the ‘Executive Salary Cost-of-Living Adjustment Act’.”
 
+#### Compensation and Emoluments of Secretary of the Interior; Fixing at Level in Effect on January 1, 2005
+
+Pub. L. 111–1, §1, Jan. 16, 2009, 123 Stat. 3, provided that:
+
+“(a)
+
+In General.—The compensation and other emoluments attached to the office of Secretary of the Interior shall be those in effect January 1, 2005, notwithstanding any increase in such compensation or emoluments after that date under any provision of law, or provision which has the force and effect of law, that is enacted or becomes effective during the period beginning at noon of January 3, 2005, and ending at noon of January 3, 2011.
+
+“(b)
+
+Civil Action and Appeal.—
+
+&emsp;“(1)
+
+Jurisdiction.—Any person aggrieved by an action of the Secretary of the Interior may bring a civil action in the United States District Court for the District of Columbia to contest the constitutionality of the appointment and continuance in office of the Secretary of the Interior on the ground that such appointment and continuance in office is in violation of article I, section 6, clause 2, of the Constitution. The United States District Court for the District of Columbia shall have exclusive jurisdiction over such a civil action, without regard to the sum or value of the matter in controversy.
+
+&emsp;“(2)
+
+Three judge panel.—Any claim challenging the constitutionality of the appointment and continuance in office of the Secretary of the Interior on the ground that such appointment and continuance in office is in violation of article I, section 6, clause 2, of the Constitution, in an action brought under paragraph (1) shall be heard and determined by a panel of three judges in accordance with section 2284 of title 28, United States Code. It shall be the duty of the district court to advance on the docket and to expedite the disposition of any matter brought under this subsection.
+
+&emsp;“(3)
+
+Appeal.—
+
+&emsp;&emsp;“(A)
+
+Direct appeal to supreme court.—An appeal may be taken directly to the Supreme Court of the United States from any interlocutory or final judgment, decree, or order upon the validity of the appointment and continuance in office of the Secretary of the Interior under article I, section 6, clause 2, of the Constitution, entered in any action brought under this subsection. Any such appeal shall be taken by a notice of appeal filed within 20 days after such judgment, decree, or order is entered.
+
+&emsp;&emsp;“(B)
+
+Jurisdiction.—The Supreme Court shall, if it has not previously ruled on the question presented by an appeal taken under subparagraph (A), accept jurisdiction over the appeal, advance the appeal on the docket, and expedite the appeal.
+
+“(c)
+
+Effective Date.—This joint resolution shall take effect at 12:00 p.m. on January 20, 2009.”
+
 #### Compensation and Emoluments of Secretary of State; Fixing at Level in Effect on January 1, 2007
 
 Pub. L. 110–455, Dec. 19, 2008, 122 Stat. 5036, provided that:
@@ -172,7 +208,7 @@ Appeal.—
 
 &emsp;&emsp;“(A)
 
-Direct appeal to Supreme Court.—An appeal may be taken directly to the Supreme Court of the United States from any interlocutory or final judgment, decree, or order upon the validity of the appointment and continuance in office of the Secretary of State under article I, section 6, clause 2, of the Constitution, entered in any action brought under this subsection. Any such appeal shall be taken by a notice of appeal filed within 20 days after such judgment, decree, or order is entered.
+Direct appeal to supreme court.—An appeal may be taken directly to the Supreme Court of the United States from any interlocutory or final judgment, decree, or order upon the validity of the appointment and continuance in office of the Secretary of State under article I, section 6, clause 2, of the Constitution, entered in any action brought under this subsection. Any such appeal shall be taken by a notice of appeal filed within 20 days after such judgment, decree, or order is entered.
 
 &emsp;&emsp;“(B)
 

@@ -10,7 +10,7 @@ Findings.—Congress finds and declares that the Appalachian region of the Unite
 
 &emsp;(2)
 
-Purpose.—It is the purpose of this subtitle to assist the region in meeting its special problems, to promote its economic development, and to establish a framework for joint federal and state efforts toward providing the basic facilities essential to its growth and attacking its common problems and meeting its common needs on a coordinated and concerted regional basis. The public investments made in the region under this subtitle shall be concentrated in areas where there is a significant potential for future growth and where the expected return on public dollars invested will be the greatest. States will be responsible for recommending local and state projects within their borders that will receive assistance under this subtitle. As the region obtains the needed physical and transportation facilities and develops its human resources, Congress expects that the region will generate a diversified industry and that the region will then be able to support itself through the workings of a strengthened free enterprise economy.
+Purpose.—It is the purpose of this subtitle to assist the region in meeting its special problems, to promote its economic development, and to establish a framework for joint federal and state efforts toward providing the basic facilities essential to its growth and attacking its common problems and meeting itscommon needs on a coordinated and concerted regional basis. The public investments made in the region under this subtitle shall be concentrated in areas where there is a significant potential for future growth and where the expected return on public dollars invested will be the greatest. States will be responsible for recommending local and state projects within their borders that will receive assistance under this subtitle. As the region obtains the needed physical and transportation facilities and develops its human resources, Congress expects that the region will generate a diversified industry and that the region will then be able to support itself through the workings of a strengthened free enterprise economy.
 
 (b) 1975
 
@@ -60,7 +60,7 @@ Purpose.—In addition to the purposes stated in subsections (a) and (b), it is 
 
 &emsp;&emsp;&emsp;(ii) adapting and applying new technologies for the region's businesses, including eco-industrial development technologies; and
 
-&emsp;&emsp;&emsp;(iii) improving the access of the region's businesses to the technical and financialresources necessary to development of the businesses; and
+&emsp;&emsp;&emsp;(iii) improving the access of the region's businesses to the technical and financial resources necessary to development of the businesses; and
 
 &emsp;&emsp;(C) to address the needs of severely and persistently distressed areas of the Appalachian region and focus special attention on the areas of greatest need so as to provide a fairer opportunity for the people of the region to share the quality of life generally enjoyed by citizens across the United States.
 

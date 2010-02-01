@@ -2,7 +2,7 @@
 
 That portion of the Delaware River in Philadelphia County, Commonwealth of Pennsylvania, lying between all that certain lot or piece of ground situate in the second and fifth wards of the city of Philadelphia described as follows:
 
-Beginning at a point on the easterly side of Delaware Avenue (variable width) said side being the bulkhead line of the Delaware River (approved by the Secretary of War on September 10, 1940), at the distance of 1,833.652 feet from an angle point on the easterly side of said Delaware Avenue south of Washington Avenue;
+Beginning at a point on the easterly side of Delaware Avenue (variable width) said side being the bulkhead line of the Delaware River (approved by the Secretary of War on September 10, 1940), at the distance of 1,833.652 feet from anangle point on the easterly side of said Delaware Avenue south of Washington Avenue;
 
 &emsp;thence extending along the easterly side of said Delaware Avenue the following courses and distances, (1) north 0 degree 45 minutes 33.2 seconds west 2,524.698 feet to a point; (2) north 9 degrees 36 minutes 25 seconds east, 2,168.160 feet to a point; (3) north 13 degrees 26 minutes 45.8 seconds east, 2,039.270 feet to a point; (4) north 20 degrees 12 minutes 52.4 seconds east, 35.180 feet to an angle point in Delaware Avenue; thence continuing north 20 degrees 12 minutes 52.4 seconds east along the said bulkhead line, the distance of 574.970 feet to a point on the south house line of Callowhill Street produced;
 

@@ -44,7 +44,7 @@ An eligible institution may, upon the request of a student, make payments to the
 
 &emsp;&emsp;(B) The term “major disaster” has the meaning given such term in section 5122(2) of this title.
 
-(Pub. L. 89–329, title IV, §445, formerly title I, §145, as added and renumbered Pub. L. 90–575, title I, §131(a), (b)(1), Oct. 16, 1968, 82 Stat. 1028; amended Pub. L. 99–498, title IV, §403(a), Oct. 17,1986, 100 Stat. 1435; Pub. L. 102–325, title IV, §444, July 23, 1992, 106 Stat. 566; Pub. L. 105–244, title IV, §444, Oct. 7, 1998, 112 Stat. 1714; Pub. L. 110–315, title IV, §444, Aug. 14, 2008, 122 Stat. 3259.)
+(Pub. L. 89–329, title IV, §445, formerly title I, §145, as added and renumbered Pub. L. 90–575, title I, §131(a), (b)(1), Oct. 16, 1968, 82 Stat. 1028; amended Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1435; Pub. L. 102–325, title IV, §444, July 23, 1992, 106 Stat. 566; Pub. L. 105–244, title IV, §444, Oct. 7, 1998, 112 Stat. 1714; Pub. L. 110–315, title IV, §444, Aug. 14, 2008, 122 Stat. 3259.)
 
 #### Codification
 

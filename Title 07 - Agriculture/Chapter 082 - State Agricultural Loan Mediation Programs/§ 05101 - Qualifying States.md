@@ -100,7 +100,7 @@ Subsec. (d). Pub. L. 106–472, §306(a)(2), added subsec. (d).
 
 Subsec. (b). Pub. L. 103–354, §282(a)(2), struck out “agricultural loan” before “mediation program”.
 
-Subsec. (c). Pub. L. 103–354, §282(a)(3), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Within 15 days after the Secretary receives a description of a State agricultural loan mediation program, the Secretary shall certify the State as a qualifying State if the State program—
+Subsec. (c). Pub. L. 103–354, §282(a)(3), added subsec. (c) and struck out heading and text of former subsec.\(c). Text read as follows: “Within 15 days after the Secretary receives a description of a State agricultural loan mediation program, the Secretary shall certify the State as a qualifying State if the State program—
 
 &emsp;“(1) provides for mediation services to be provided to producers, and their creditors, that, if decisions are reached, result in mediated, mutually agreeable decisions between parties under an agricultural loan mediation program;
 

@@ -20,7 +20,7 @@ All committee hearings, records, data, charts, and files shall be kept separate 
 
 #### (f) Limitations on appointment of professional members
 
-No committee shall appoint to its staff any experts or other personnel detailed or assigned from any department or agency of the Government, except with the written permission of the Committee on Rules and Administration of the Senate or the Committee on House Oversight ofthe House of Representatives, as the case may be.
+No committee shall appoint to its staff any experts or other personnel detailed or assigned from any department or agency of the Government, except with the written permission of the Committee on Rules and Administration of the Senate or the Committee on House Oversight of the House of Representatives, as the case may be.
 
 #### (g) Appointments when no vacancy exists; payment from Senate contingent fund
 
@@ -78,7 +78,7 @@ Subsec. (k)(2) was based on House Resolution No. 37 of the Eighty-second Congres
 
 Subsec. (k)(3) was based on House Resolution No. 554 of the Eighty-third Congress, which was enacted into permanent law by act July 2, 1954, ch. 455, §103, 68 Stat. 409, House Resolution No. 468 of the Eighty-fourth Congress, which was enacted into permanent law by act June 27, 1956, ch. 453, §103, 70 Stat. 370, House Resolution No. 126 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–75, §103, July 1, 1957, 71 Stat. 256, House Resolution No. 525 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–570, §103, July 31, 1958, 72 Stat. 453, and House Resolution No. 509 of the Eighty-seventh Congress, which was enacted into permanent law by Pub. L. 87–730, §103, Oct. 2, 1962, 76 Stat. 693.
 
-Subsec. (k)(4) was based on House Resolution No. 28 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–75, §103, July 1, 1957, 71 Stat. 256, and section 2 of House Resolution No. 348 of the Eighty-seventh Congress, which was enacted into permanent law by Pub. L. 87–730, §103, Oct. 2, 1962, 76 Stat. 693.
+Subsec. (k)(4) was based on House Resolution No. 28 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–75, §103, July 1, 1957, 71 Stat. 256, and section 2 of House Resolution No. 348 of the Eighty-seventh Congress, which was enacted intopermanent law by Pub. L. 87–730, §103, Oct. 2, 1962, 76 Stat. 693.
 
 Subsec. (k)(5) was based on House Resolution No. 239 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–570, §103, July 31, 1958, 72 Stat. 453, and House Resolution No. 225 of the Eighty-eighth Congress, which was enacted into permanent law by Pub. L. 88–248, §103, Dec. 30, 1963, 77 Stat. 817.
 
@@ -96,7 +96,7 @@ Subsec. (j)(1). Pub. L. 104–186, §204(11), as amended by Pub. L. 105–55, §
 
 1988—Subsec. (i)(1). Pub. L. 100–458 inserted “or with respect to the administration of the affairs of the committee” before period at end.
 
-1971—Subsec. (g). Pub. L. 92–136, §5(a), permitted a clerical staff member, appointed at the request of the minority when no vacancy exists on the permanent staff, to continue to serve, in addition to any otherclerical staff members authorized, and until otherwise provided, to continue to be paid from the contingent fund of the Senate, thereby eliminating the requirement, in the case of a clerical staff member, that this status continue until such time as a vacancy occurs, at which time such person is considered to be appointed to such vacancy.
+1971—Subsec. (g). Pub. L. 92–136, §5(a), permitted a clerical staff member, appointed at the request of the minority when no vacancy exists on the permanent staff, to continue to serve, in addition to any other clerical staff members authorized, and until otherwise provided, to continue to be paid from the contingent fund of the Senate, thereby eliminating the requirement, in the case of a clerical staff member, that this status continue until such time as a vacancy occurs, at which time such person is considered to be appointed to such vacancy.
 
 Subsec. (j)(1). Pub. L. 92–136, §5(b), authorized the same training opportunities for professional staff members of the Senate Appropriations Committee, the Senate Majority and Minority Policy Committees and joint committees whose expenses are paid out of funds disbursed by the Secretary of the Senate or the Clerk of the House, as are afforded to professional staff members of standing committees.
 
@@ -268,7 +268,7 @@ S. Res. 229, One Hundredth Congress, June 5, 1987, established within the Office
 
 #### Office of Classified National Security Information
 
-Pub. L. 95–391, title I, §105, Sept. 30, 1978, 92 Stat. 772, as amended by Pub. L. 97–51, §115, Oct. 1, 1981, 95 Stat. 963, eff. Oct. 1, 1981; Pub. L. 99–492, §2(a), Oct. 16, 1986, 100 Stat. 1240; Pub. L. 100–18, §1(a), Apr. 3, 1987, 101 Stat. 262, established for the period beginning on Oct. 1, 1981, and ending on June 5, 1987, within the Office of the Secretary of the Senate, the Office of Classified National Security Information under the policy direction of the Majority Leader, the Minority Leader, and the chairman of the committee on Rules and Administration of the Senate, and under the administrative direction and supervision of the Secretary of the Senate with the responsibility for safeguarding such restricted data and such other classified information as any committee of the Senate may from time to time assign to it.
+Pub. L. 95–391, title I, §105, Sept. 30, 1978, 92 Stat. 772, as amended by Pub. L. 97–51, §115, Oct. 1, 1981, 95 Stat. 963, eff. Oct. 1, 1981; Pub. L. 99–492, §2(a), Oct. 16, 1986, 100 Stat. 1240; Pub. L. 100–18, §1(a), Apr. 3, 1987, 101 Stat. 262, established for the period beginning on Oct. 1, 1981,and ending on June 5, 1987, within the Office of the Secretary of the Senate, the Office of Classified National Security Information under the policy direction of the Majority Leader, the Minority Leader, and the chairman of the committee on Rules and Administration of the Senate, and under the administrative direction and supervision of the Secretary of the Senate with the responsibility for safeguarding such restricted data and such other classified information as any committee of the Senate may from time to time assign to it.
 
 #### Authorization of Appropriations
 

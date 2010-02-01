@@ -68,7 +68,7 @@ Cooperation.—The Secretary may carry out activities under this subsection in c
 
 &emsp;(3)
 
-Funding.—The funds available to carry out this subsection shall include revenues paid to the Secretary by any cooperating organization or person. Such revenues shall be available to the Secretary to carry out activities under this subsection, including promotional materials, travel, reception, and representation expenses necessary to carry out such activities. Annual revenues that are less than $1,000,000 shall be available for obligation without further appropriation and shall not besubject to any obligation limitation. Not later than January 1 of each fiscal year, the Secretary shall publish a report on the activities under this paragraph funded from the account.
+Funding.—The funds available to carry out this subsection shall include revenues paid to the Secretary by any cooperating organization or person. Such revenues shall be available to the Secretary to carry out activities under this subsection, including promotional materials, travel, reception, and representation expenses necessary to carry out such activities. Annual revenues that are less than $1,000,000 shall be available for obligation without further appropriation and shall not be subject to any obligation limitation. Not later than January 1 of each fiscal year, the Secretary shall publish a report on the activities under this paragraph funded from the account.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 811; Pub. L. 105–178, title III, §3015(a), June 9, 1998, 112 Stat. 359; Pub. L. 109–59, title III, §§3002(b)(4), 3014(a)–(e)(1), Aug. 10, 2005, 119 Stat. 1545, 1596, 1597; Pub. L. 110–244, title II, §201(f), June 6, 2008, 122 Stat. 1610.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment; termination
 
-There is established a Cape Cod National Seashore Advisory Commission (hereinafter referred to as the “Commission”). The Commission shall terminate September 26, 2008.
+There is established a Cape Cod National Seashore Advisory Commission (hereinafter referred to as the “Commission”). The Commission shall terminate September 26, 2018.
 
 #### (b) Membership; term
 
@@ -34,7 +34,7 @@ The Secretary or his designee shall, from time to time, consult with the members
 
 #### (g) Advice of Commission for commercial or industrial use permits and establishment of public use areas for recreational activities
 
-No permit for the commercial or industrial use of property located within the seashore shall be issued by the Secretary, nor shall any public use area for recreational activity be established by the Secretary within the seashore, without the advice of the Commission, if such advice is submitted within a reasonable time after it is sought.
+No permit for the commercial or industrial use of property located within the seashore shallbe issued by the Secretary, nor shall any public use area for recreational activity be established by the Secretary within the seashore, without the advice of the Commission, if such advice is submitted within a reasonable time after it is sought.
 
 #### (h) Exemption from other provisions of law
 
@@ -46,7 +46,7 @@ No permit for the commercial or industrial use of property located within the se
 
 &emsp;(ii) during the period of such appointment, and the further period of two years after the termination thereof, to the prosecution or participation in the prosecution, by any person so appointed, of any claim against the Government involving any matter concerning which the appointee had any responsibility arising out of his appointment during the period of such appointment.
 
-(Pub. L. 87–126, §8, Aug. 7, 1961, 75 Stat. 292; Pub. L. 99–420, title II, §201, Sept. 25, 1986, 100 Stat. 960; Pub. L. 105–280, §1(b), Oct. 26, 1998, 112 Stat. 2694.)
+(Pub. L. 87–126, §8, Aug. 7, 1961, 75 Stat. 292; Pub. L. 99–420, title II, §201, Sept. 25, 1986, 100 Stat. 960; Pub. L. 105–280, §1(b), Oct. 26, 1998, 112 Stat. 2694; Pub. L. 111–11, title VII, §7402, Mar. 30, 2009, 123 Stat. 1219.)
 
 #### References in Text
 
@@ -56,9 +56,15 @@ Section 190 of the Revised Statutes (5 U.S.C. 99), referred to in subsec. (h)(1)
 
 #### Amendments
 
+2009—Subsec. (a). Pub. L. 111–11 substituted “2018” for “2008”.
+
 1998—Subsec. (a). Pub. L. 105–280 substituted “The Commission shall terminate September 26, 2008.” for “Said Commission shall terminate 30 years after the date the seashore is established under section 459b–2 of this title.”
 
 1986—Subsec. (a). Pub. L. 99–420 substituted “30 years” for “ten years”.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–11, title VII, §7402, Mar. 30, 2009, 123 Stat. 1219, provided that the amendment made by section 7402 is effective Sept. 26, 2008.
 
 #### Reestablishment and Extension of Commission
 

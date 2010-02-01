@@ -38,7 +38,7 @@ If an annuitant who was a former participant dies, any annuity accrued and unpai
 
 Payments under subsections (c) through (e) of this section shall be paid in the following order of precedence to individuals surviving the participant and alive on the date entitlement to the payment arises, upon the establishment of a valid claim therefor, and such payment shall be a bar to recovery by any other person:
 
-&emsp;(1) To the beneficiary or beneficiaries last designated by the participant before or afterretirement in a signed and witnessed writing filed with the Secretary of State prior to the death of the participant, for which purpose a designation, change, or cancellation of beneficiary in a will or other document which is not so executed and filed shall have no force or effect.
+&emsp;(1) To the beneficiary or beneficiaries last designated by the participant before or after retirement in a signed and witnessed writing filed with the Secretary of State prior to the death of the participant, for which purpose a designation, change, or cancellation of beneficiary in a will or other document which is not so executed and filed shall have no force or effect.
 
 &emsp;(2) If there is no such beneficiary, to the surviving wife or husband of the participant.
 

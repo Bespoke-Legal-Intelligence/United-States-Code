@@ -136,7 +136,7 @@ The responsibilities of the Director shall include—
 
 #### (C) Private recruiting firms
 
-&emsp;&emsp;The Secretary, or the Director serving as an agent of the Secretary, may contract with private recruiting firms for the hiring of qualified technical staff to carry out this section.
+&emsp;&emsp;The Secretary, or the Director serving as an agent of the Secretary, may contractwith private recruiting firms for the hiring of qualified technical staff to carry out this section.
 
 #### (D) Additional staff
 

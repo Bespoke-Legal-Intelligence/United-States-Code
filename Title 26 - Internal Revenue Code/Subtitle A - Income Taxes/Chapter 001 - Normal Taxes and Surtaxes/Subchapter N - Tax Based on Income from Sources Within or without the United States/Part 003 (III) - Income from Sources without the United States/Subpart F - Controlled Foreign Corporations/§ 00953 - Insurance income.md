@@ -36,7 +36,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(D) section 832(b)(4) (relating to premiums earned on insurance contracts),
 
-> &emsp;shall be taken into account only to the extent they are in respect of any reinsurance or the issuing of any insurance or annuity contract described in subsection (a)(1).
+> &emsp;shall be taken into account only to the extent they are in respect of any reinsurance or theissuing of any insurance or annuity contract described in subsection (a)(1).
 
 &emsp;(3) Reserves for any insurance or annuity contract shall be determined in the same manner as under section 954(i).
 
@@ -396,7 +396,7 @@ For purposes of this section—
 
 2002—Subsec. (e)(10). Pub. L. 107–147 substituted “January 1, 2007” for “January 1, 2002” and “December 31, 2006” for “December 31, 2001”.
 
-1999—Subsec. (e)(10). Pub. L. 106–170 substituted “taxable years” for “the first taxable year”, “January 1, 2002” for “January 1, 2000”, and “within which anysuch” for “within which such”, and inserted at end “If this subsection does not apply to a taxable year of a foreign corporation beginning after December 31, 2001 (and taxable years of United States shareholders ending with or within such taxable year), then, notwithstanding the preceding sentence, subsection (a) shall be applied to such taxable years in the same manner as it would if the taxable year of the foreign corporation began in 1998.”
+1999—Subsec. (e)(10). Pub. L. 106–170 substituted “taxable years” for “the first taxable year”, “January 1, 2002” for “January 1, 2000”, and “within which any such” for “within which such”, and inserted at end “If this subsection does not apply to a taxable year of a foreign corporation beginning after December 31, 2001 (and taxable years of United States shareholders ending with or within such taxable year), then, notwithstanding the preceding sentence, subsection (a) shall be applied to such taxable years in the same manner as it would if the taxable year of the foreign corporation began in 1998.”
 
 1998—Subsec. (a). Pub. L. 105–277, §1005(b)(1)(A), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “For purposes of section 952(a)(1), the term ‘insurance income’ means any income which—
 
@@ -492,7 +492,7 @@ Subsec. (b)(3)(B). Pub. L. 98–369, §211(b)(13)(C)(ii), substituted “section
 
 Subsec. (b)(3)(C). Pub. L. 98–369, §211(b)(13)(C)(iii), substituted “section 805(a)(2)” for “section 809(d)(2)”.
 
-Subsec. (b)(4), (5). Pub. L. 98–369, §211(b)(13)(A), (E), redesignated par. (5) as (4) and substituted “paragraph\(3)” for “paragraph (4)”. Former par. (4) redesignated (3).
+Subsec. (b)(4), (5). Pub. L. 98–369, §211(b)(13)(A), (E), redesignated par. (5) as (4) and substituted “paragraph (3)” for “paragraph (4)”. Former par. (4) redesignated (3).
 
 1976—Subsec. (b)(5). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

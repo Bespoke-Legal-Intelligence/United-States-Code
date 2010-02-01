@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Secretary, in consultation with the Secretary of Health and Human Services, mayaward grants (to be known as “Foundations for Learning Grants”) to local educational agencies, local councils, community-based organizations, and other public or nonprofit private entities to assist eligible children to become ready for school.
+The Secretary, in consultation with the Secretary of Health and Human Services, may award grants (to be known as “Foundations for Learning Grants”) to local educational agencies, local councils, community-based organizations, and other public or nonprofit private entities to assist eligible children to become ready for school.
 
 #### (b) Applications
 
@@ -88,7 +88,7 @@ In this section:
 
 #### (3) Provider of early childhood services
 
-&emsp;The term “provider of early childhood services” means a public or private entity that hasregular contact with young children, including child welfare agencies, child care providers, Head Start and Early Head Start providers, preschools, kindergartens, libraries, mental health professionals, family courts, homeless shelters, and primary care providers.
+&emsp;The term “provider of early childhood services” means a public or private entity that has regular contact with young children, including child welfare agencies, child care providers, Head Start and Early Head Start providers, preschools, kindergartens, libraries, mentalhealth professionals, family courts, homeless shelters, and primary care providers.
 
 (Pub. L. 89–10, title V, §5542, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1853.)
 

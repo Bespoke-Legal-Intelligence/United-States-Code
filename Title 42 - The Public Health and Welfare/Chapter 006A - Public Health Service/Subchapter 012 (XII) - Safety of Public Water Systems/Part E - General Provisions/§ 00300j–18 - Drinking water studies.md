@@ -18,7 +18,7 @@ The Administrator shall conduct biomedical studies to—
 
 &emsp;(2) understand the effects of contaminants and the mechanisms by which the contaminants cause adverse effects (especially noncancer and infectious effects) and the variations in the effects among humans, especially subpopulations at greater risk of adverse effects, and between test animals and humans; and
 
-&emsp;(3) develop new approaches to the study of complex mixtures, such as mixtures found in drinking water, especially to determine the prospects for synergistic or antagonistic interactions that may affect the shape of the dose-response relationship of the individual chemicals and microbes, and to examine noncancer endpoints and infectious diseases, and susceptible individuals and subpopulations.
+&emsp;(3) develop new approaches to the study of complex mixtures, such as mixtures found in drinking water, especially to determine theprospects for synergistic or antagonistic interactions that may affect the shape of the dose-response relationship of the individual chemicals and microbes, and to examine noncancer endpoints and infectious diseases, and susceptible individuals and subpopulations.
 
 #### (c) Studies on harmful substances in drinking water
 
@@ -58,7 +58,7 @@ The Administrator shall conduct biomedical studies to—
 
 #### (2) Training and education
 
-&emsp;The Director and Administrator shall jointly establish a national health care provider training and public education campaign to inform both the professional health care provider community and the general public about waterborne disease and the symptoms that may be caused by infectious agents, includingmicrobial contaminants. In developing such a campaign, they shall seek comment from interested groups and individuals, including scientists, physicians, State and local governments, environmental groups, public water systems, and vulnerable populations.
+&emsp;The Director and Administrator shall jointly establish a national health care provider training and public education campaign to inform both the professional health care provider community and the general public about waterborne disease and the symptoms that may be caused by infectious agents, including microbial contaminants. In developing such a campaign, they shall seek comment from interested groups and individuals, including scientists, physicians, State and local governments, environmental groups, public water systems, and vulnerable populations.
 
 #### (3) Funding
 
@@ -96,5 +96,5 @@ Performance of Study and Review.—(1) The Secretary shall provide for the perfo
 
 “(d)
 
-Reporting Requirements.—Not later than June 1, 2005, the Federal entities conducting the study and review under this section shall submit to the Secretary reports containing the results of the study and review.”
+Reporting Requirements.—Not later than June 1, 2005, the Federal entities conducting the study andreview under this section shall submit to the Secretary reports containing the results of the study and review.”
 

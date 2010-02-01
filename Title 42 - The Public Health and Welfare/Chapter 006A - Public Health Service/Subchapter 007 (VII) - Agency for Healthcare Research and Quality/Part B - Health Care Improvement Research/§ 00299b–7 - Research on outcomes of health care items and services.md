@@ -84,7 +84,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In making use of administrative, clinical, and program data and information developed or collected with respect to the programs established under titles XVIII, XIX, and XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\], for purposes of carrying out the requirements of this section or the activities authorized under title IX of the Public Health Service Act (42 U.S.C. 299 et seq.), such data and information shall be protected in accordance with the confidentiality requirements of title IX of the Public Health Service Act.
+&emsp;&emsp;In making use of administrative, clinical, and program data and information developed or collected with respect to the programs established under titles XVIII, XIX, and XXI ofthe Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\], for purposes of carrying out the requirements of this section or the activities authorized under title IX of the Public Health Service Act (42 U.S.C. 299 et seq.), such data and information shall be protected in accordance with the confidentiality requirements of title IX of the Public Health Service Act.
 
 #### (B) Rule of construction
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;(A) not mandate national standards of clinical practice or quality health care standards; and
 
-&emsp;&emsp;(B) include in any recommendations resulting from projects funded and publishedby the Director, a corresponding reference to the prohibition described in subparagraph (A).
+&emsp;&emsp;(B) include in any recommendations resulting from projects funded and published by the Director, a corresponding reference to the prohibition described in subparagraph (A).
 
 #### (2) Requirement for implementation
 
@@ -157,4 +157,6 @@ Section was enacted as part of the Medicare Prescription Drug, Improvement, and 
 #### Definition of “Secretary”
 
 “Secretary” as meaning the Secretary of Health and Human Services, see section 1(c)(2) of Pub. L. 108–173, set out as a note under section 1301 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

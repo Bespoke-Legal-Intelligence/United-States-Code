@@ -552,7 +552,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 12866. Regulatory Planning and Review
 
-Ex. Ord. No. 12866, Sept. 30, 1993, 58 F.R. 51735, as amended by Ex. Ord. No. 13258, Feb. 26, 2002, 67 F.R. 9385; Ex. Ord. No. 13422, Jan. 18, 2007, 72 F.R. 2763, provided:
+Ex. Ord. No. 12866, Sept. 30, 1993, 58 F.R. 51735, as amended by Ex. Ord. No. 13258, Feb. 26, 2002, 67 F.R. 9385; Ex. Ord. No. 13422, Jan. 18, 2007, 72 F.R. 2763; Ex. Ord. No. 13497, §1, Jan. 30, 2009, 74 F.R. 6113, provided:
 
 The American people deserve a regulatory system that works for them, not against them: a regulatory system that protects and improves their health, safety, environment, and well-being and improves the performance of the economy without imposing unacceptable or unreasonable costs on society; regulatory policies that recognize that the private sector and private markets are the best engine for economic growth; regulatory approaches that respect the role of State, local, and tribal governments; and regulations that are effective, consistent, sensible, and understandable. We do not have such a regulatory system today.
 
@@ -560,113 +560,83 @@ With this Executive order, the Federal Government begins a program to reform and
 
 Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Statement of Regulatory Philosophy and Principles.</i>
+Section 1. <i>Statement of Regulatory Philosophy and Principles</i>.
 
 (a) <i>The Regulatory Philosophy</i>. Federal agencies should promulgate only such regulations as are required by law, are necessary to interpret the law, or are made necessary by compelling public need, such as material failures of private markets to protect or improve the health and safety of the public, the environment, or the well-being of the American people. In deciding whether and how to regulate, agencies should assess all costs and benefits of available regulatory alternatives, including the alternative of not regulating. Costs and benefits shall be understood to include both quantifiable measures (to the fullest extent that these can be usefully estimated) and qualitative measures of costs and benefits that are difficult to quantify, but nevertheless essential to consider. Further, in choosing among alternative regulatory approaches, agencies should select those approaches that maximize net benefits (including potential economic, environmental, public health and safety, and other advantages; distributive impacts; and equity), unless a statute requires another regulatory approach.
 
 (b) <i>The Principles of Regulation</i>. To ensure that the agencies’ regulatory programs are consistent with the philosophy set forth above, agencies should adhere to the following principles, to the extent permitted by law and where applicable:
 
-(1) Each agency shall identify in writing the specific market failure (such as externalities, market power, lack of information) or other specific problem that it intends to address (including, where applicable, the failures of public institutions) that warrant new agency action, as well as assess the significance of that problem, to enable assessment of whether any new regulation is warranted.
+&emsp;(1) Each agency shall identify the problem that it intends to address (including, where applicable, the failures of private markets or public institutions that warrant new agency action) as well as assess the significance of that problem.
 
-(2) Each agency shall examine whether existing regulations (or other law) have created, or contributed to, the problem that a new regulation is intended to correct and whether those regulations (or other law) should be modified to achieve the intended goal of regulation more effectively.
+&emsp;(2) Each agency shall examine whether existing regulations (or other law) have created, or contributed to, the problem that a new regulation is intended to correct and whether those regulations (or other law) should be modified to achieve the intended goal of regulation more effectively.
 
-(3) Each agency shall identify and assess available alternatives to direct regulation, including providing economic incentives to encourage the desired behavior, such as user fees or marketable permits, or providing information upon which choices can be made by the public.
+&emsp;(3) Each agency shall identify and assess available alternatives to direct regulation, including providing economic incentives to encourage the desired behavior, such as user fees or marketable permits, or providing information upon which choices can be made by the public.
 
-(4) In setting regulatory priorities, each agency shall consider, to the extent reasonable, the degree and nature of the risks posed by various substances or activities within its jurisdiction.
+&emsp;(4) In setting regulatory priorities, each agency shall consider, to the extent reasonable, the degree and nature of the risks posed by various substances or activities within its jurisdiction.
 
-(5) When an agency determines that a regulation is the best available method of achieving the regulatory objective, it shall design its regulations in the most cost-effective manner to achieve the regulatory objective. In doing so, each agency shall consider incentives for innovation, consistency, predictability, the costs of enforcement and compliance (to the government, regulated entities, and the public), flexibility, distributive impacts, and equity.
+&emsp;(5) When an agency determines that a regulation is the best available method of achieving the regulatory objective, it shall design its regulations in the most cost-effective manner to achieve the regulatory objective. In doing so, each agency shall consider incentives for innovation, consistency, predictability, the costs of enforcement and compliance (to the government, regulated entities, and the public), flexibility, distributive impacts, and equity.
 
-(6) Each agency shall assess both the costs and the benefits of the intended regulation and, recognizing that some costs and benefits are difficult to quantify, propose or adopt a regulation only upon a reasoned determination that the benefits of the intended regulation justify its costs.
+&emsp;(6) Each agency shall assess both the costs and the benefits of the intended regulation and, recognizing that some costs and benefits are difficult to quantify, propose or adopt a regulation only upon a reasoned determination that the benefits of the intended regulation justify its costs.
 
-(7) Each agency shall base its decisions on the best reasonably obtainable scientific, technical, economic, and other information concerning the need for, and consequences of, the intended regulation or guidance document.
+&emsp;(7) Each agency shall base its decisions on the best reasonably obtainable scientific, technical, economic, and other information concerning the need for, and consequences of, the intended regulation.
 
-(8) Each agency shall identify and assess alternative forms of regulation and shall, to the extent feasible, specify performance objectives, rather than specifying the behavior or manner of compliance that regulated entities must adopt.
+&emsp;(8) Each agency shall identify and assess alternative forms of regulation and shall, to the extent feasible, specify performance objectives, rather than specifying the behavior or manner of compliance that regulated entities must adopt.
 
-(9) Wherever feasible, agencies shall seek views of appropriate State, local, and tribal officials before imposing regulatory requirements that might significantly or uniquely affect those governmental entities. Each agency shall assess the effects of Federal regulations on State, local, and tribal governments, including specifically the availability of resources to carry out those mandates, and seek to minimize those burdens that uniquely or significantly affect such governmental entities, consistent with achieving regulatory objectives. In addition, as appropriate, agencies shall seek to harmonize Federal regulatory actions with related State,local, and tribal regulatory and other governmental functions.
+&emsp;(9) Wherever feasible, agencies shall seek views of appropriate State, local, and tribal officials before imposing regulatory requirements that might significantly or uniquely affect those governmental entities. Each agency shall assess the effects of Federal regulations on State, local, and tribal governments, including specifically the availability of resources to carry out those mandates, and seek to minimize those burdens that uniquely or significantly affect such governmental entities, consistent with achieving regulatory objectives. In addition, as appropriate, agencies shall seek to harmonize Federal regulatory actions with related State, local, and tribal regulatory and other governmental functions.
 
-(10) Each agency shall avoid regulations and guidance documents that are inconsistent, incompatible, or duplicative with its other regulations and guidance documents or those of other Federal agencies.
+&emsp;(10) Each agency shall avoid regulations that are inconsistent, incompatible, or duplicative with its other regulations or those of other Federal agencies.
 
-(11) Each agency shall tailor its regulations and guidance documents to impose the least burden on society, including individuals, businesses of differing sizes, and other entities (including small communities and governmental entities), consistent with obtaining the regulatory objectives, taking into account, among other things, and to the extent practicable, the costs of cumulative regulations.
+&emsp;(11) Each agency shall tailor its regulations to impose the least burden on society, including individuals, businesses of differing sizes, and other entities (including small communities and governmental entities), consistent with obtaining the regulatory objectives, taking into account, among other things, and to the extent practicable, the costs of cumulative regulations.
 
-(12) Each agency shall draft its regulations and guidance documents to be simple and easy to understand, with the goal of minimizing the potential for uncertainty and litigation arising from such uncertainty.
+&emsp;(12) Each agency shall draft its regulations to be simple and easy to understand, with the goal of minimizing the potential for uncertainty and litigation arising from such uncertainty.
 
 Sec. 2. <i>Organization</i>. An efficient regulatory planning and review process is vital to ensure that the Federal Government's regulatory system best serves the American people.
 
-(a) <i>The Agencies</i>. Because Federal agencies are the repositories of significant substantive expertise and experience, they are responsible for developing regulations and guidance documents and assuring that the regulations and guidance documents are consistent with applicable law, the President's priorities, and the principles set forth in this Executive order.
+(a) <i>The Agencies</i>. Because Federal agencies are the repositories of significant substantive expertise and experience, they are responsible for developing regulations and assuring that the regulations are consistent with applicable law, the President's priorities, and the principles set forth in this Executive order.
 
-(b) <i>The Office of Management and Budget</i>. Coordinated review of agency rulemaking is necessary to ensure that regulations and guidance documents are consistent with applicable law, the President's priorities, and the principles set forth in this Executive order, and that decisions made by one agency do not conflict with the policies or actions taken or planned by another agency. The Office of Management and Budget (OMB) shall carry out that review function. Within OMB, the Office of Information and Regulatory Affairs (OIRA) is the repository of expertise concerning regulatory issues, including methodologies and procedures that affect more than one agency, this Executive order, and the President's regulatory policies. To the extent permitted by law, OMB shall provide guidance to agencies and assist the President and regulatory policy advisors to the President in regulatory planning and shall be the entity that reviews individual regulations and guidance documents, as provided by this Executive order.
+(b) <i>The Office of Management and Budget</i>. Coordinated review of agency rulemaking is necessary to ensure that regulations are consistent with applicable law, the President's priorities, and the principles set forth in this Executive order, and that decisions made by one agency do not conflict with the policies or actions taken or planned by another agency. The Office of Management and Budget (OMB) shall carry out that review function. Within OMB, the Office of Information and Regulatory Affairs (OIRA) is the repository of expertise concerning regulatory issues, including methodologies and procedures that affect more than one agency, this Executive order, and the President's regulatory policies. To the extent permitted by law, OMB shall provide guidance to agencies and assist the President, the Vice President, and other regulatory policy advisors to the President in regulatory planning and shall be the entity that reviews individual regulations, as provided by this Executive order.
 
-(c) <i>Assistance</i>. In fulfilling his responsibilities under this Executive order, the President shall be assisted by the regulatory policy advisors within the Executive Office of the President and by such agency officials and personnel as the President may, from time to time, consult.
+(c) <i>The Vice President</i>. The Vice President is the principal advisor to the President on, and shall coordinate the development and presentation of recommendations concerning, regulatory policy, planning, and review, as set forth in this Executive order. In fulfilling their responsibilities under this Executive order, the President and the Vice President shall be assisted by the regulatory policy advisors within the Executive Office of the President and by such agency officials and personnel as the President and the Vice President may, from time to time, consult.
 
-Sec. 3. <i>Definitions</i>. For purposes of this Executive order:
-
-(a) “Advisors” refers to such regulatory policy advisors to the President as the President may from time to time consult, including, among others: (1) the Director of OMB; (2) the Chair (or another member) of the Council of Economic Advisers; (3) the Assistant to the President for Economic Policy; (4) the Assistant to the President for Domestic Policy; (5) the Assistant to the President for National Security Affairs; (6) the Director of the Office of Science and Technology Policy; (7) the Deputy Assistant to the President and Director for Intergovernmental Affairs; (8) the Assistant to the President and Staff Secretary; (9) the Assistant to the President and Chief of Staff to the Vice President; (10) the Assistant to the President and Counsel to the President; (11) the Chairman of the Council on Environmental Quality and Director of the Office of Environmental Quality; (12) the Assistant to the President for Homeland Security; and (13) the Administrator of OIRA, who also shall coordinate communications relating to this Executive order among the agencies, OMB, the other Advisors, and the Office of the Vice President.
+Sec. 3. <i>Definitions</i>. For purposes of this Executive order: (a) “Advisors” refers to such regulatory policy advisors to the President as the President and Vice President may from time to time consult, including, among others: (1) the Director of OMB; (2) the Chair (or another member) of the Council of Economic Advisers; (3) the Assistant to the President for Economic Policy; (4) the Assistant to the President for Domestic Policy; (5) the Assistant to the President for National Security Affairs; (6) the Assistant to the President for Science and Technology; (7) the Assistant to the President for Intergovernmental Affairs; (8) the Assistant to the President and Staff Secretary; (9) the Assistant to the President and Chief of Staff to the Vice President; (10) the Assistant to the President and Counsel to the President; (11) the Deputy Assistant to the President and Director of the White House Office on Environmental Policy; and (12) the Administrator of OIRA, who also shall coordinate communications relating to this Executive order among the agencies, OMB, the other Advisors, and the Office of the Vice President.
 
 (b) “Agency,” unless otherwise indicated, means any authority of the United States that is an “agency” under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(10).
 
 (c) “Director” means the Director of OMB.
 
-(d) “Regulation” means an agency statement of general applicability and future effect, which the agency intends to have the force and effect of law, that is designed to implement, interpret, or prescribe law or policy or to describe the procedure or practice requirements of an agency. It does not, however, include:
+(d) “Regulation” or “rule” means an agency statement of general applicability and future effect, which the agency intends to have the force and effect of law, that is designed to implement, interpret, or prescribe law or policy or to describe the procedure or practice requirements of an agency. It does not, however, include:
 
-(1) Regulations issued in accordance with the formal rulemaking provisions of 5 U.S.C. 556, 557;
+&emsp;(1) Regulations or rules issued in accordance with the formal rulemaking provisions of 5 U.S.C. 556, 557;
 
-(2) Regulations that pertain to a military or foreign affairs function of the United States, other than procurement regulations and regulations involving the import or export of non-defense articles and services;
+&emsp;(2) Regulations or rules that pertain to a military or foreign affairs function of the United States, other than procurement regulations and regulations involving the import or export of non-defense articles and services;
 
-(3) Regulations that are limited to agency organization, management, or personnel matters; or
+&emsp;(3) Regulations or rules that are limited to agency organization, management, or personnel matters; or
 
-(4) Any other category of regulations exempted by the Administrator of OIRA.
+&emsp;(4) Any other category of regulations exempted by the Administrator of OIRA.
 
-(e) “Regulatory action” means any substantive action by an agency (normally published in the Federal Register) that promulgates or is expected to lead to the promulgation of a final regulation, including notices of inquiry, advance notices of proposed rulemaking, and notices of proposed rulemaking.
+(e) “Regulatory action” means any substantive action by an agency (normally published in the Federal Register) that promulgates or is expected to lead to the promulgation of a final rule or regulation, including notices of inquiry, advance notices of proposed rulemaking, and notices of proposed rulemaking.
 
 (f) “Significant regulatory action” means any regulatory action that is likely to result in a rule that may:
 
-(1) Have an annual effect on the economy of $100 million or more or adversely affect in a material way the economy, a sector of the economy, productivity, competition, jobs, the environment, public health or safety, or State, local, or tribal governments or communities;
+&emsp;(1) Have an annual effect on the economy of $100 million or more or adversely affect in a material way the economy, a sector of the economy, productivity, competition, jobs, the environment, public health or safety, or State, local, or tribal governments or communities;
 
-(2) Create a serious inconsistency or otherwise interfere with an action taken or planned by another agency;
+&emsp;(2) Create a serious inconsistency or otherwise interfere with an action taken or planned by another agency;
 
-(3) Materially alter the budgetary impact of entitlements, grants, user fees, or loan programs or the rights and obligations of recipients thereof; or
+&emsp;(3) Materially alter the budgetary impact of entitlements, grants, user fees, or loan programs or the rights and obligations of recipients thereof; or
 
-(4) Raise novel legal or policy issues arising out of legal mandates, the President's priorities, or the principles set forth in this Executive order.
+&emsp;(4) Raise novel legal or policy issues arising out of legal mandates, the President's priorities, or the principles set forth in this Executive order.
 
-(g) “Guidance document” means an agency statement of general applicability and future effect, other than a regulatory action, that sets forth a policy on a statutory, regulatory, or technical issue or an interpretation of a statutory or regulatory issue.
-
-(h) “Significant guidance document”—
-
-(1) Means a guidance document disseminated to regulated entities or the general public that, for purposes of this order, may reasonably be anticipated to:
-
-&emsp;(A) Lead to an annual effect of $100 million or more or adversely affect in a material way the economy, a sector of the economy, productivity, competition, jobs, the environment, public health or safety, or State, local, or tribal governments or communities;
-
-&emsp;(B) Create a serious inconsistency or otherwise interfere with an action taken or planned by another agency;
-
-&emsp;(C) Materially alter the budgetary impact of entitlements, grants, user fees, or loan programs or the rights or obligations of recipients thereof; or
-
-&emsp;(D) Raise novel legal or policy issues arising out of legal mandates, the President's priorities, or the principles set forth in this Executive order; and
-
-(2) Does not include:
-
-&emsp;(A) Guidance documents on regulations issued in accordance with the formal rulemaking provisions of 5 U.S.C. 556, 557;
-
-&emsp;(B) Guidance documents that pertain to a military or foreign affairs function of the United States, other than procurement regulations and regulations involving the import or export of non-defense articles and services;
-
-&emsp;(C) Guidance documents on regulations that are limited to agency organization, management, or personnel matters; or
-
-&emsp;(D) Any other category of guidance documents exempted by the Administrator of OIRA.
-
-Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory program, to provide for coordination ofregulations, to maximize consultation and the resolution of potential conflicts at an early stage, to involve the public and its State, local, and tribal officials in regulatory planning, and to ensure that new or revised regulations promote the President's priorities and the principles set forth in this Executive order, these procedures shall be followed, to the extent permitted by law:
-
-(a) <i>Agencies’ Policy Meeting</i>. The Director may convene a meeting of agency heads and other government personnel as appropriate to seek a common understanding of priorities and to coordinate regulatory efforts to be accomplished in the upcoming year.
+Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory program, to provide for coordination of regulations, to maximize consultation and the resolution of potential conflicts at an early stage, to involve the public and its State, local, and tribal officials in regulatory planning, and to ensure that new or revised regulations promote the President's priorities and the principles set forth in this Executive order, these procedures shall be followed, to the extent permitted by law: (a) <i>Agencies’ Policy Meeting</i>. Early in each year's planning cycle, the Vice President shall convene a meeting of the Advisors and the heads of agencies to seek a common understanding of priorities and to coordinate regulatory efforts to be accomplished in the upcoming year.
 
 (b) <i>Unified Regulatory Agenda</i>. For purposes of this subsection, the term “agency” or “agencies” shall also include those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(10). Each agency shall prepare an agenda of all regulations under development or review, at a time and in a manner specified by the Administrator of OIRA. The description of each regulatory action shall contain, at a minimum, a regulation identifier number, a brief summary of the action, the legal authority for the action, any legal deadline for the action, and the name and telephone number of a knowledgeable agency official. Agencies may incorporate the information required under 5 U.S.C. 602 and \[former\] 41 U.S.C. 402 into these agendas.
 
-(c) <i>The Regulatory Plan</i>. For purposes of this subsection, the term “agency” or “agencies” shall also include those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(10).
-
-(1) As part of the Unified Regulatory Agenda, beginning in 1994, each agency shall prepare a Regulatory Plan (Plan) of the most important significant regulatory actions that the agency reasonably expects to issue in proposed or final form in that fiscal year or thereafter. Unless specifically authorized by the head of the agency, no rulemaking shall commence nor be included on the Plan without the approval of the agency's Regulatory Policy Office, and the Plan shall contain at a minimum:
+(c) <i>The Regulatory Plan</i>. For purposes of this subsection, the term “agency” or “agencies” shall also include those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(10). (1) As part of the Unified Regulatory Agenda, beginning in 1994, each agency shall prepare a Regulatory Plan (Plan) of the most important significant regulatory actions that the agency reasonably expects to issue in proposed or final form in that fiscal year or thereafter. The Plan shall be approved personally by the agency head and shall contain at a minimum:
 
 &emsp;(A) A statement of the agency's regulatory objectives and priorities and how they relate to the President's priorities;
 
-&emsp;(B) A summary of each planned significant regulatory action including, to the extent possible, alternatives to be considered and preliminary estimates of the anticipated costs and benefits of each rule as well as the agency's best estimate of the combined aggregate costs and benefits of all its regulations planned for that calendar year to assist with the identification of priorities;
+&emsp;(B) A summary of each planned significant regulatory action including, to the extent possible, alternatives to be considered and preliminary estimates of the anticipated costs and benefits;
 
-&emsp;(C) A summary of the legal basis for each such action, including whether any aspect of the action is required by statute or court order, and specific citation to such statute, order, or other legal authority;
+&emsp;(C) A summary of the legal basis for each such action, including whether any aspect of the action is required by statute or court order;
 
 &emsp;(D) A statement of the need for each such action and, if applicable, how the action will reduce risks to public health, safety, or the environment, as well as how the magnitude of the risk addressed by the action relates to other risks within the jurisdiction of the agency;
 
@@ -676,119 +646,115 @@ Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory prog
 
 (2) Each agency shall forward its Plan to OIRA by June 1st of each year.
 
-(3) Within 10 calendar days after OIRA has received an agency's Plan, OIRA shall circulate it to other affected agencies and the Advisors.
+(3) Within 10 calendar days after OIRA has received an agency's Plan, OIRA shall circulate it to other affected agencies, the Advisors, and the Vice President.
 
-(4) An agency head who believes that a planned regulatory action of another agency may conflict with its own policy or action taken or planned shall promptly notify, in writing, the Administrator of OIRA, who shall forward that communication to the issuing agency and the Advisors.
+(4) An agency head who believes that a planned regulatory action of another agency may conflict with its own policy or action taken or planned shall promptly notify, in writing, the Administrator of OIRA, who shall forward that communication to the issuing agency, the Advisors, and the Vice President.
 
-(5) If the Administrator of OIRA believes that a planned regulatory action of an agency may be inconsistent with the President's priorities or the principles set forth in this Executive order or may be in conflict with any policy or action taken or planned by another agency, the Administrator of OIRA shall promptly notify, in writing, the affected agencies and the Advisors.
+(5) If the Administrator of OIRA believes that a planned regulatory action of an agency may be inconsistent with the President's priorities or the principles set forth in this Executive order or may be in conflict with any policy or action taken or planned by another agency, the Administrator of OIRA shall promptly notify, in writing, the affected agencies, the Advisors, and the Vice President.
 
-(6) The Director may consult with the heads of agencies with respect to their Plans and, in appropriate instances, request further consideration or inter-agency coordination.
+(6) The Vice President, with the Advisors’ assistance, may consult with the heads of agencies with respect to their Plans and, in appropriate instances, request further consideration or inter-agency coordination.
 
 (7) The Plans developed by the issuing agency shall be published annually in the October publication of the Unified Regulatory Agenda. This publication shall be made available to the Congress; State, local, and tribal governments; and the public. Any views on any aspect of any agency Plan, including whether any planned regulatory action might conflict with any other planned or existing regulation, impose any unintended consequences on the public, or confer any unclaimed benefits on the public, should be directed to the issuing agency, with a copy to OIRA.
 
-(d) <i>Regulatory Working Group</i>. Within 30 days of the date of this Executive order, the Administrator of OIRA shall convene a Regulatory Working Group (“Working Group”), which shall consist of representatives of the heads of each agency that the Administrator determines to have significant domestic regulatory responsibility and the Advisors. The Administrator of OIRA shall chair the Working Group and shall periodically advise the Director on the activities of the Working Group. The Working Group shall serve as a forum to assist agencies in identifying and analyzing important regulatory issues (including, among others (1) the development of innovative regulatory techniques, (2) the methods, efficacy, and utility of comparative risk assessment in regulatory decision-making, and (3) the development of short forms and other streamlined regulatory approaches for small businesses and other entities). The Working Group shall meet at least quarterly and may meet as a whole or in subgroups of agencies with an interest in particular issues or subject areas. To inform its discussions, the Working Group may commission analytical studies and reports by OIRA, the Administrative Conference of the United States, or any other agency.
+(d) <i>Regulatory Working Group</i>. Within 30 days of the date of this Executive order, the Administrator of OIRA shall convene a Regulatory Working Group (“Working Group”), which shall consist of representatives of the heads of each agency that the Administrator determines to have significant domestic regulatory responsibility, the Advisors, and the Vice President. The Administrator of OIRA shall chair the Working Group and shall periodically advise the Vice President on the activities of the Working Group. The Working Group shall serve as a forum to assist agencies in identifying and analyzing important regulatory issues (including, among others (1) the development of innovative regulatory techniques, (2) the methods, efficacy, and utility of comparative risk assessment in regulatory decision-making, and (3) the development of short forms and other streamlined regulatory approaches for small businesses and other entities). The Working Group shall meet at least quarterly and may meet as a whole or in subgroups of agencies with an interest in particular issues or subject areas. To inform its discussions, the Working Group may commission analytical studies and reports by OIRA, the Administrative Conference of the United States, or any other agency.
 
 (e) <i>Conferences</i>. The Administrator of OIRA shall meet quarterly with representatives of State, local, and tribal governments to identify both existing and proposed regulations that may uniquely or significantly affect those governmental entities. The Administrator of OIRA shall also convene, from time to time, conferences with representatives of businesses, nongovernmental organizations, and the public to discuss regulatory issues of common concern.
 
-Sec. 5. <i>Existing Regulations</i>. In order to reduce the regulatory burden on the American people, their families, their communities, their State, local, and tribal governments, and their industries; to determine whether regulations promulgated by the executive branch of the Federal Government have become unjustified or unnecessary as a result of changed circumstances; to confirm that regulations are both compatible with each other and not duplicative or inappropriately burdensome in the aggregate; to ensure that all regulations are consistent with the President's priorities and the principles set forth in this Executive order, within applicable law; and to otherwise improve the effectiveness of existing regulations: (a) Within 90 days of the date of this Executive order, each agency shall submit to OIRA a program, consistent with its resources and regulatory priorities, under which the agency will periodically review its existing significant regulations to determine whether any such regulations should be modified or eliminated so as to make the agency's regulatory program more effective in achieving the regulatory objectives, less burdensome, or in greater alignment with the President's priorities and the principles set forth in this Executive order. Any significant regulations selected for review shall be included in the agency's annual Plan. The agency shall also identify any legislative mandates that require the agency topromulgate or continue to impose regulations that the agency believes are unnecessary or outdated by reason of changed circumstances.
+Sec. 5. <i>Existing Regulations</i>. In order to reduce the regulatory burden on the American people, their families, their communities, their State, local, and tribal governments, and their industries; to determine whether regulations promulgated by the executive branch of the Federal Government have become unjustified or unnecessary as a result of changed circumstances; to confirm that regulations are both compatible with each other and not duplicative or inappropriately burdensome in the aggregate; to ensure that all regulations are consistent with the President's priorities and the principles set forth in this Executive order, within applicable law; and to otherwise improve the effectiveness of existing regulations: (a) Within 90 days of the date of this Executive order, each agency shall submit to OIRA a program, consistent with its resources and regulatory priorities, under which the agency will periodically review its existing significant regulations to determine whether any such regulations should be modified or eliminated so as to make the agency's regulatory program more effective in achieving the regulatory objectives, less burdensome, or in greater alignment with the President's priorities and the principles set forth in this Executive order. Any significant regulations selected for review shall be included in the agency's annual Plan. The agency shall also identify any legislative mandates that require the agency to promulgate or continue to impose regulations that the agency believes are unnecessary or outdated by reason of changed circumstances.
 
 (b) The Administrator of OIRA shall work with the Regulatory Working Group and other interested entities to pursue the objectives of this section. State, local, and tribal governments are specifically encouraged to assist in the identification of regulations that impose significant or unique burdens on those governmental entities and that appear to have outlived their justification or be otherwise inconsistent with the public interest.
 
-(c) The Director, in consultation with the Advisors, may identify for review by the appropriate agency or agencies other existing regulations of an agency or groups of regulations of more than one agency that affect a particular group, industry, or sector of the economy, or may identify legislative mandates that may be appropriate for reconsideration by the Congress.
+(c) The Vice President, in consultation with the Advisors, may identify for review by the appropriate agency or agencies other existing regulations of an agency or groups of regulations of more than one agency that affect a particular group, industry, or sector of the economy, or may identify legislative mandates that may be appropriate for reconsideration by the Congress.
 
 Sec. 6. <i>Centralized Review of Regulations</i>. The guidelines set forth below shall apply to all regulatory actions, for both new and existing regulations, by agencies other than those agencies specifically exempted by the Administrator of OIRA:
 
-(a) <i>Agency Responsibilities</i>. (1) Each agency shall (consistent with its own rules, regulations, or procedures) provide the public with meaningful participation in the regulatory process. In particular, before issuing a notice of proposed rulemaking, each agency should, where appropriate, seek the involvement of those who are intended to benefit from and those expected to be burdened by any regulation (including, specifically, State, local, and tribal officials). In addition, each agency should afford the public a meaningful opportunity to comment on any proposed regulation, which in most cases should include a comment period of not less than 60 days. In consultation with OIRA, each agency may also consider whether to utilize formal rulemaking procedures under 5 U.S.C. 556 and 557 for the resolution of complex determinations\[.\] Each agency also is directed to explore and, where appropriate, use consensual mechanisms for developing regulations, including negotiated rulemaking.
+(a) <i>Agency Responsibilities</i>. (1) Each agency shall (consistent with its own rules, regulations, or procedures) provide the public with meaningful participation in the regulatory process. In particular, before issuing a notice of proposed rulemaking, each agency should, where appropriate, seek the involvement of those who are intended to benefit from and those expected to be burdened by any regulation (including, specifically, State, local, and tribal officials). In addition, each agency should afford the public a meaningful opportunity to comment on any proposed regulation, which in most cases should include a comment period of not less than 60 days. Each agency also is directed to explore and, where appropriate, use consensual mechanisms for developing regulations, including negotiated rulemaking.
 
-(2) Within 60 days of the date of this Executive order, each agency head shall designate one of the agency's Presidential Appointees to be its Regulatory Policy Officer, advise OMB of such designation, and annually update OMB on the status of this designation. The Regulatory Policy Officer shall be involved at each stage of the regulatory process to foster the development of effective, innovative, and least burdensome regulations and to further the principles set forth in this Executive order.
+(2) Within 60 days of the date of this Executive order, each agency head shall designate a Regulatory Policy Officer who shall report to the agency head. The Regulatory Policy Officer shall be involved at each stage of the regulatory process to foster the development of effective, innovative, and least burdensome regulations and to further the principles set forth in this Executive order.
 
 (3) In addition to adhering to its own rules and procedures and to the requirements of the Administrative Procedure Act \[see Short Title note preceding section 551 of this title\], the Regulatory Flexibility Act \[5 U.S.C. 601 et seq.\], the Paperwork Reduction Act \[44 U.S.C. 3501 et seq.\], and other applicable law, each agency shall develop its regulatory actions in a timely fashion and adhere to the following procedures with respect to a regulatory action:
 
-(A) Each agency shall provide OIRA, at such times and in the manner specified by the Administrator of OIRA, with a list of its planned regulatory actions, indicating those which the agency believes are significant regulatory actions within the meaning of this Executive order. Absent a material change in the development of the planned regulatory action, those not designated as significant will not be subject to review under this section unless, within 10 working days of receipt of the list, the Administrator of OIRA notifies the agency that OIRA has determined that a planned regulation is a significant regulatory action within the meaning of this Executive order. The Administrator of OIRA may waive review of any planned regulatory action designated by the agency as significant, in which case the agency need not further comply with subsection (a)(3)(B) or subsection (a)(3)(C) of this section.
+&emsp;(A) Each agency shall provide OIRA, at such times and in the manner specified by the Administrator of OIRA, with a list of its planned regulatory actions, indicating those which the agency believes are significant regulatory actions within the meaning of this Executive order. Absent a material change in the development of the planned regulatory action, those not designated as significant will not be subject to review under this section unless, within 10 working days of receipt of the list, the Administrator of OIRA notifies the agency that OIRA has determined that a planned regulation is a significant regulatory action within the meaning of this Executive order. The Administrator of OIRA may waive review of any planned regulatory action designated by the agency as significant, in which case the agency need not further comply with subsection (a)(3)(B) or subsection (a)(3)(C) of this section.
 
-(B) For each matter identified as, or determined by the Administrator of OIRA to be, a significant regulatory action, the issuing agency shall provide to OIRA:
+&emsp;(B) For each matter identified as, or determined by the Administrator of OIRA to be, a significant regulatory action, the issuing agency shall provide to OIRA:
 
-(i) The text of the draft regulatory action, together with a reasonably detailed description of the need for the regulatory action and an explanation of how the regulatory action will meet that need; and
+&emsp;&emsp;(i) The text of the draft regulatory action, together with a reasonably detailed description of the need for the regulatory action and an explanation of how the regulatory action will meet that need; and
 
-(ii) An assessment of the potential costs and benefits of the regulatory action, including an explanation of the manner in which the regulatory action is consistent with a statutory mandate and, to the extent permitted by law, promotes the President's priorities and avoids undue interference with State, local, and tribal governments in the exercise of their governmental functions.
+&emsp;&emsp;(ii) An assessment of the potential costs and benefits of the regulatory action, including an explanation of the manner in which the regulatory action is consistent with a statutory mandate and, to the extent permitted by law, promotes the President's priorities and avoids undue interference with State, local, and tribal governments in the exercise of their governmental functions.
 
-(C) For those matters identified as, or determined by the Administrator of OIRA to be, a significant regulatory action within the scope of section 3(f)(1), the agency shall also provide to OIRA the following additional information developed as part of the agency's decision-making process (unless prohibited by law):
+&emsp;(C) For those matters identified as, or determined by the Administrator of OIRA to be, a significant regulatory action within the scope of section 3(f)(1), the agency shall also provide to OIRA the following additional information developed as part of the agency's decision-making process (unless prohibited by law):
 
-(i) An assessment, including the underlying analysis, of benefits anticipated from the regulatory action (such as, but not limited to, the promotion of the efficient functioning of the economy and private markets, the enhancement of health and safety, the protection of the natural environment, and the elimination or reduction of discrimination or bias) together with, to the extent feasible, a quantification of those benefits;
+&emsp;&emsp;(i) An assessment, including the underlying analysis, of benefits anticipated from the regulatory action (such as, but not limited to, the promotion of the efficient functioning of the economy and private markets, the enhancement of health and safety, the protection of the natural environment, and the elimination or reduction of discrimination or bias) together with, to the extent feasible, a quantification of those benefits;
 
-(ii) An assessment, including the underlying analysis, of costs anticipated from the regulatory action (such as, but not limited to, the direct cost both to the government in administering the regulation and to businesses and others in complying with the regulation, and any adverse effects on the efficient functioning of the economy, private markets (including productivity, employment, and competitiveness), health, safety, and the natural environment), together with, to the extent feasible, a quantification of those costs; and
+&emsp;&emsp;(ii) An assessment, including the underlying analysis, of costs anticipated from the regulatory action (such as, but not limited to, the direct cost both to the government in administering the regulation and to businesses and others in complying with the regulation, and any adverse effects on the efficient functioning of the economy, private markets (including productivity, employment, and competitiveness), health, safety, and the natural environment), together with, to the extent feasible, a quantification of those costs; and
 
-(iii) An assessment, including the underlying analysis, of costs and benefits of potentially effective and reasonably feasible alternatives to the planned regulation, identified by the agencies or the public (including improving the current regulation and reasonably viable nonregulatory actions), and an explanation why the planned regulatory action is preferable to the identified potential alternatives.
+&emsp;&emsp;(iii) An assessment, including the underlying analysis, of costs and benefits of potentially effective and reasonably feasible alternatives to the planned regulation, identified by the agencies or the public (including improving the current regulation and reasonably viable nonregulatory actions), and an explanation why the planned regulatory action is preferable to the identified potential alternatives.
 
-(D) In emergency situations or when an agency is obligated by law to act more quickly than normal review procedures allow, the agency shall notify OIRA as soon as possible and, to the extent practicable, comply with subsections (a)(3)(B) and (C) of this section. For those regulatory actions that are governed by a statutory or court-imposed deadline, the agency shall, to the extent practicable, schedule rulemaking proceedings so as to permit sufficient time for OIRA to conduct its review, as set forth below in subsection (b)(2) through (4) of this section.
+&emsp;(D) In emergency situations or when an agency is obligated by law to act more quickly than normal review procedures allow, the agency shall notify OIRA as soon as possible and, to the extent practicable, comply with subsections (a)(3)(B) and (C) of this section. For those regulatory actions that are governed by a statutory or court-imposed deadline, the agency shall, to the extent practicable, schedule rulemaking proceedings so as to permit sufficient time for OIRA to conduct its review, as set forth below in subsection (b)(2) through (4) of this section.
 
-(E) After the regulatory action has been published in the Federal Register or otherwise issued to the public, the agency shall:
+&emsp;(E) After the regulatory action has been published in the Federal Register or otherwise issued to the public, the agency shall:
 
-(i) Make available to the public the information set forth in subsections (a)(3)(B) and (C);
+&emsp;&emsp;(i) Make available to the public the information set forth in subsections (a)(3)(B) and (C);
 
-(ii) Identify for the public, in a complete, clear, and simple manner, the substantive changes between the draft submitted to OIRA for review and the action subsequently announced; and
+&emsp;&emsp;(ii) Identify for the public, in a complete, clear, and simple manner, the substantive changes between the draft submitted to OIRA for review and the action subsequently announced; and
 
-(iii) Identify for the public those changes in the regulatory action that were made at the suggestion or recommendation of OIRA.
+&emsp;&emsp;(iii) Identify for the public those changes in the regulatory action that were made at the suggestion or recommendation of OIRA.
 
-(F) All information provided to the public by the agency shall be in plain, understandable language.
+&emsp;(F) All information provided to the public by the agency shall be in plain, understandable language.
 
 (b) <i>OIRA Responsibilities</i>. The Administrator of OIRA shall provide meaningful guidance and oversight so that each agency's regulatory actions are consistent with applicable law, the President's priorities, and the principles set forth in this Executive order and do not conflict with the policies or actions of another agency. OIRA shall, to the extent permitted by law, adhere to the following guidelines:
 
-(1) OIRA may review only actions identified by the agency or by OIRA as significant regulatory actions under subsection (a)(3)(A) of this section.
+&emsp;(1) OIRA may review only actions identified by the agency or by OIRA as significant regulatory actions under subsection (a)(3)(A) of this section.
 
-(2) OIRA shall waive review or notify the agency in writing of the results of its review within the following time periods:
+&emsp;(2) OIRA shall waive review or notify the agency in writing of the results of its review within the following time periods:
 
-(A) For any notices of inquiry, advance notices of proposed rulemaking, or other preliminary regulatory actions prior to a Notice of Proposed Rulemaking, within 10 working days after the date of submission of the draft action to OIRA;
+&emsp;&emsp;(A) For any notices of inquiry, advance notices of proposed rulemaking, or other preliminary regulatory actions prior to a Notice of Proposed Rulemaking, within 10 working days after the date of submission of the draft action to OIRA;
 
-(B) For all other regulatory actions, within 90 calendar days after the date of submission of the information set forth in subsections (a)(3)(B) and (C) of this section, unless OIRA has previously reviewed this information and, since that review, there has been no material change in the facts and circumstances upon which the regulatory action is based, in which case, OIRA shall complete its review within 45 days; and
+&emsp;&emsp;(B) For all other regulatory actions, within 90 calendar days after the date of submission of the information set forth in subsections (a)(3)(B) and (C) of this section, unless OIRA has previously reviewed this information and, since that review, there has been no material change in the facts and circumstances upon which the regulatory action is based, in which case, OIRA shall complete its review within 45 days; and
 
-(C) The review process may be extended (1) once by no more than 30 calendar days upon the written approval of the Director and (2) at the request of the agency head.
+&emsp;&emsp;(C) The review process may be extended (1) once by no more than 30 calendar days upon the written approval of the Director and (2) at the request of the agency head.
 
-(3) For each regulatory action that the Administrator of OIRA returns to an agency for further consideration of some or all of its provisions, the Administrator of OIRA shall provide the issuing agency a written explanation for such return, setting forth the pertinent provision of this Executive order on which OIRA is relying. If the agency head disagrees with some or all of the bases for the return, the agency head shall so inform the Administrator of OIRA in writing.
+&emsp;(3) For each regulatory action that the Administrator of OIRA returns to an agency for further consideration of some or all of its provisions, the Administrator of OIRA shall provide the issuing agency a written explanation for such return, setting forth the pertinent provision of this Executive order on which OIRA is relying. If the agency head disagrees with some or all of the bases for the return, the agency head shall so inform the Administrator of OIRA in writing.
 
-(4) Except as otherwise provided by law or required by a Court, in order to ensure greater openness, accessibility, and accountability in the regulatory review process, OIRA shall be governed by the following disclosure requirements:
+&emsp;(4) Except as otherwise provided by law or required by a Court, in order to ensure greater openness, accessibility, and accountability in the regulatory review process, OIRA shall be governed by the following disclosure requirements:
 
-(A) Only the Administrator of OIRA (or a particular designee) shall receive oral communications initiated by persons not employed by the executive branch of the Federal Government regarding the substance of a regulatory action under OIRA review;
+&emsp;&emsp;(A) Only the Administrator of OIRA (or a particular designee) shall receive oral communications initiated by persons not employed by the executive branch of the Federal Government regarding the substance of a regulatory action under OIRA review;
 
-(B) All substantive communications between OIRA personnel and persons not employed by the executive branch of the Federal Government regarding a regulatory action under review shall be governed by the following guidelines: (i) A representative from the issuing agency shall be invited to any meeting between OIRA personnel and such person(s);
+&emsp;&emsp;(B) All substantive communications between OIRA personnel and persons not employed by the executive branch of the Federal Government regarding a regulatory action under review shall begoverned by the following guidelines: (i) A representative from the issuing agency shall be invited to any meeting between OIRA personnel and such person(s);
 
-(ii) OIRA shall forward to the issuing agency, within 10 working days of receipt of the communication(s), all written communications, regardless of format, between OIRA personnel and any person who is not employed by the executive branch of the Federal Government, and the dates and names of individuals involved in all substantive oral communications (including meetings to which an agency representative was invited, but did not attend, and telephone conversations between OIRA personnel and any such persons); and
+&emsp;&emsp;(ii) OIRA shall forward to the issuing agency, within 10 working days of receipt of the communication(s), all written communications, regardless of format, between OIRA personnel and any person who is not employed by the executive branch of the Federal Government, and the dates and names of individuals involved in all substantive oral communications (including meetings to which an agency representative was invited, but did not attend, and telephone conversations between OIRA personnel and any such persons); and
 
-(iii) OIRA shall publicly disclose relevant information about such communication(s), as set forth below in subsection (b)(4)(C) of this section.
+&emsp;&emsp;(iii) OIRA shall publicly disclose relevant information about such communication(s), as set forth below in subsection (b)(4)(C) of this section.
 
-(C) OIRA shall maintain a publicly available log that shall contain, at a minimum, the following information pertinent to regulatory actions under review:
+&emsp;&emsp;(C) OIRA shall maintain a publicly available log that shall contain, at a minimum, the following information pertinent to regulatory actions under review:
 
-(i) The status of all regulatory actions, including if (and if so, when and by whom) Presidential consideration was requested;
+&emsp;&emsp;&emsp;(i) The status of all regulatory actions, including if (and if so, when and by whom) Vice Presidential and Presidential consideration was requested;
 
-(ii) A notation of all written communications forwarded to an issuing agency under subsection (b)(4)(B)(ii) of this section; and
+&emsp;&emsp;&emsp;(ii) A notation of all written communications forwarded to an issuing agency under subsection (b)(4)(B)(ii) of this section; and
 
-(iii) The dates and names of individuals involved in all substantive oral communications, including meetings and telephone conversations, between OIRA personnel and any person not employed by the executive branch of the Federal Government, and the subject matter discussed during such communications.
+&emsp;&emsp;&emsp;(iii) The dates and names of individuals involved in all substantive oral communications, including meetings and telephone conversations, between OIRA personnel and any person not employed by the executive branch of the Federal Government, and the subject matter discussed during such communications.
 
-(D) After the regulatory action has been published in the Federal Register or otherwise issued to the public, or after the agency has announced its decision not to publish or issue the regulatory action, OIRA shall make available to the public all documents exchanged between OIRA and the agency during the review by OIRA under this section.
+&emsp;&emsp;(D) After the regulatory action has been published in the Federal Register or otherwise issued to the public, or after the agency has announced its decision not to publish or issue the regulatory action, OIRA shall make available to the public all documents exchanged between OIRA and the agency during the review by OIRA under this section.
 
-(5) All information provided to the public by OIRA shall be in plain, understandable language.
+&emsp;(5) All information provided to the public by OIRA shall be in plain, understandable language.
 
-Sec. 7. <i>Resolution of Conflicts</i>. (a) To the extent permitted by law, disagreements or conflicts between or among agency heads or between OMB and any agency that cannot be resolved by the Administrator of OIRA shall be resolved by the President, with the assistance of the Chief of Staff to the President (“Chief of Staff”), with the relevant agency head (and, as appropriate, other interested government officials). Presidential consideration of such disagreements may be initiated only by the Director, by the head of the issuing agency, or by the head of an agency that has a significant interest in the regulatory action at issue. Such review will not be undertaken at the request of other persons, entities, or their agents.
+Sec. 7. <i>Resolution of Conflicts</i>. To the extent permitted by law, disagreements or conflicts between or among agency heads or between OMB and any agency that cannot be resolved by the Administrator of OIRA shall be resolved by the President, or by the Vice President acting at the request of the President, with the relevant agency head (and, as appropriate, other interested government officials). Vice Presidential and Presidential consideration of such disagreements may be initiated only by the Director, by the head of the issuing agency, or by the head of an agency that has a significant interest in the regulatory action at issue. Such review will not be undertaken at the request of other persons, entities, or their agents.
 
-(b) Resolution of such conflicts shall be informed by recommendations developed by the Chief of Staff, after consultation with the Advisors (and other executive branch officials or personnel whose responsibilities to the President include the subject matter at issue). The development of these recommendations shall be concluded within 60 days after review has been requested.
+Resolution of such conflicts shall be informed by recommendations developed by the Vice President, after consultation with the Advisors (and other executive branch officials or personnel whose responsibilities to the President include the subject matter at issue). The development of these recommendations shall be concluded within 60 days after review has been requested.
 
-(c) During the Presidential review period, communications with any person not employed by the Federal Government relating to the substance of the regulatory action under review and directed to the Advisors or their staffs or to the staff of the Chief of Staff shall be in writing and shall be forwarded by the recipient to the affected agency(ies) for inclusion in the public docket(s). When the communication is not in writing, such Advisors or staff members shall inform the outside party that the matter is under review and that any comments should be submitted in writing.
+During the Vice Presidential and Presidential review period, communications with any person not employed by the Federal Government relating to the substance of the regulatory action under review and directed to the Advisors or their staffs or to the staff of the Vice President shall be in writing and shall be forwarded by the recipient to the affected agency(ies) for inclusion in the public docket(s). When the communication is not in writing, such Advisors or staff members shall inform the outside party that the matter is under review and that any comments should be submitted in writing.
 
-(d) At the end of this review process, the President, or the Chief of Staff acting at the request of the President, shall notify the affected agency and the Administrator of OIRA of the President's decision with respect to the matter.
+At the end of this review process, the President, or the Vice President acting at the request of the President, shall notify the affected agency and the Administrator of OIRA of the President's decision with respect to the matter.
 
-Sec. 8. <i>Publication</i>. Except to the extent required by law, an agency shall not publish in the Federal Register or otherwise issue to the public any regulatory action that is subject to review under section 6 of this Executive order until (1) the Administrator of OIRA notifies the agency that OIRA has waived its review of the action or has completed its review without any requests for further consideration, or (2) the applicable time period in section 6(b)(2) expires without OIRA having notified the agency that it is returning the regulatory action for further consideration under section 6(b)(3), whichever occurs first. If the terms of the preceding sentence have not been satisfied and an agency wants to publish or otherwise issue a regulatory action, the head of that agency may request Presidential consideration through the Director, as provided under section 7 of this order. Upon receipt of this request, the Director shall notify OIRA and the Advisors. The guidelines and time period set forth in section 7 shall apply to the publication of regulatory actions for which Presidential consideration has been sought.
+Sec. 8. <i>Publication</i>. Except to the extent required by law, an agency shall not publish in the Federal Register or otherwise issue to the public any regulatory action that is subject to review under section 6 of this Executive order until (1) the Administrator of OIRA notifies the agency that OIRA has waived its review of the action or has completed its review without any requests for further consideration, or (2) the applicable time period in section 6(b)(2) expires without OIRA having notified the agency that it is returning the regulatory action for further consideration under section 6(b)(3), whichever occurs first. If the terms of the preceding sentence have not been satisfied and an agency wants to publish or otherwise issue a regulatory action, the head of that agency may request Presidential consideration through the Vice President, as provided under section 7 of this order. Upon receipt of this request, the Vice President shall notify OIRA and the Advisors. The guidelines and time period set forth in section 7 shall apply to the publication of regulatory actions for which Presidential consideration has been sought.
 
-Sec. 9. <i>Significant Guidance Documents</i>. Each agency shall provide OIRA, at such times and in the manner specified by the Administrator of OIRA, with advance notification of any significant guidance documents. Each agency shall take such steps as are necessary for its Regulatory Policy Officer to ensure the agency's compliance with the requirements of this section. Upon the request of the Administrator, for each matter identified as, or determined by the Administrator to be, a significant guidance document, the issuing agency shall provide to OIRA the content of the draft guidance document, together with a brief explanation of the need for the guidance document and how it will meet that need. The OIRA Administrator shall notify the agency when additional consultation will be required before the issuance of the significant guidance document.
+Sec. 9. <i>Agency Authority</i>. Nothing in this order shall be construed as displacing the agencies’ authority or responsibilities, as authorized by law.
 
-Sec. 10. <i>Preservation of Agency Authority</i>. Nothing in this order shall be construed to impair or otherwise affect the authority vested by law in an agency or the head thereof, including the authority of the Attorney General relating to litigation.
+Sec. 10. <i>Judicial Review</i>. Nothing in this Executive order shall affect any otherwise available judicial review of agency action. This Executive order is intended only to improve the internal management of the Federal Government and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
-Sec. 11. <i>Judicial Review</i>. Nothing in this Executive order shall affect any otherwise available judicial review of agency action. This Executive order is intended only to improve the internal management of the Federal Government and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+Sec. 11. <i>Revocations</i>. Executive Orders Nos. 12291 and 12498; all amendments to those Executive orders; all guidelines issued under those orders; and any exemptions from those orders heretofore granted for any category of rule are revoked.
 
-Sec. 12. <i>Revocations</i>. Executive Orders Nos. 12291 and 12498; all amendments to those Executive orders; all guidelines issued under those orders; and any exemptions from those orders heretofore granted for any category of rule are revoked.
-
-\[Ex. Ord. No. 13422, §3(f), which directed amendment of section 3(f) of Ex. Ord. No. 12866, set out above, by striking “rule or” from “rule or regulation”, could not be executed because the words “rule or regulation” did not appear.\]
-
-\[Ex. Ord. No. 13422, §4(b), which directed the general amendment of the last sentence of section 4(c)(1) of Ex. Ord. No. 12866, set out above, was executed by generally amending only the words of the last sentence through the colon.\]
+\[Section 1 of Ex. Ord. No. 13497, which revoked Ex. Ords. 13258 and 13422, was executed by undoing the amendments by those Ex. Ords. to Ex. Ord. 12866, set out above.\]
 
 #### Executive Order No. 12875
 
@@ -806,7 +772,7 @@ Ex. Ord. No. 13095, Aug. 5, 1998, 63 F.R. 42565, which suspended Ex. Ord. No. 13
 
 Ex. Ord. No. 13107, Dec. 10, 1998, 63 F.R. 68991, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and bearing in mind the obligations of the United States pursuant to the International Covenant on Civil and Political Rights (ICCPR), the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (CAT), the Convention on the Elimination of All Forms of Racial Discrimination (CERD), and other relevant treaties concerned with the protection and promotion of human rights to which the United States is now or may become a party in the future, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and bearing in mind the obligations of theUnited States pursuant to the International Covenant on Civil and Political Rights (ICCPR), the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (CAT), the Convention on the Elimination of All Forms of Racial Discrimination (CERD), and other relevant treaties concerned with the protection and promotion of human rights to which the United States is now or may become a party in the future, it is hereby ordered as follows:
 
 Section 1. <i>Implementation of Human Rights Obligations</i>. (a) It shall be the policy and practice of the Government of the United States, being committed to the protection and promotion of human rights and fundamental freedoms, fully to respect and implement its obligations under the international human rights treaties to which it is a party, including the ICCPR, the CAT, and the CERD.
 
@@ -894,7 +860,7 @@ Sec. 2. <i>Fundamental Federalism Principles</i>. In formulating and implementin
 
 Sec. 3. <i>Federalism Policymaking Criteria</i>. In addition to adhering to the fundamental federalism principles set forth in section 2, agencies shall adhere, to the extent permitted by law, to the following criteria when formulating and implementing policies that have federalism implications:
 
-(a) There shall be strict adherence to constitutional principles. Agencies shall closely examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the States and shall carefully assess the necessity for such action. To the extent practicable, State and local officials shall be consulted before any such action is implemented. Executive Order 12372 of July 14, 1982 (“Intergovernmental Review of Federal Programs”) \[31 U.S.C.6506 note\] remains in effect for the programs and activities to which it is applicable.
+(a) There shall be strict adherence to constitutional principles. Agencies shall closely examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the States and shall carefully assess the necessity for such action. To the extent practicable, State and local officials shall be consulted before any such action is implemented. Executive Order 12372 of July 14, 1982 (“Intergovernmental Review of Federal Programs”) \[31 U.S.C. 6506 note\] remains in effect for the programs and activities to which it is applicable.
 
 (b) National action limiting the policymaking discretion of the States shall be taken only where there is constitutional and statutory authority for the action and the national activity is appropriate in light of the presence of a problem of national significance. Where there are significant uncertainties as to whether national action is authorized or appropriate, agencies shall consult with appropriate State and local officials to determine whether Federal objectives can be attained by other means.
 
@@ -1202,7 +1168,7 @@ Sec. 4. <i>Reporting Requirements.</i>
 
 (b) <i>Contents</i>. The report shall include a description of the agency's efforts in carrying out its responsibilities under this order, including but not limited to:
 
-&emsp;(i) a comprehensive analysis of the barriers to the full participation of faith-based and other communityorganizations in the delivery of social services identified pursuant to section 3(a) of this order and the proposed strategies to eliminate those barriers; and
+&emsp;(i) a comprehensive analysis of the barriers to the full participation of faith-based and other community organizations in the delivery of social services identified pursuant to section 3(a) of this order and the proposed strategies to eliminate those barriers; and
 
 &emsp;(ii) a summary of the technical assistance and other information that will be available to faith-based and other community organizations regarding the program activities of the agency and the preparation of applications or proposals for grants, cooperative agreements, contracts, and procurement.
 
@@ -1380,6 +1346,20 @@ Sec. 4. <i>General Provisions</i>. (a) This order shall be implemented consisten
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Ex. Ord. No. 13497. Revocation of Certain Executive Orders Concerning Regulatory Planning and Review
+
+Ex. Ord. No. 13497, Jan. 30, 2009, 74 F.R. 6113, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered that:
+
+Section 1. Executive Order 13258 of February 26, 2002, and Executive Order 13422 of January 18, 2007, concerning regulatory planning and review, which amended Executive Order 12866 of September 30, 1993, are revoked.
+
+Sec. 2. The Director of the Office of Management and Budget and the heads of executive departments and agencies shall promptly rescind any orders, rules, regulations, guidelines, or policies implementing or enforcing Executive Order 13258 or Executive Order 13422, to the extent consistent with law.
+
+Sec. 3. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Regulatory Reform—Waiver of Penalties and Reduction of Reports
 
 Memorandum of President of the United States, Apr. 21, 1995, 60 F.R. 20621, provided:
@@ -1497,4 +1477,32 @@ I ask the independent agencies to comply with these directives.
 This memorandum does not confer any right or benefit enforceable by law against the United States or its representatives. The Director of the Office of Management and Budget will publish this memorandum in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Preemption
+
+Memorandum of President of the United States, May 20, 2009, 74 F.R. 24693, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+From our Nation's founding, the American constitutional order has been a Federal system, ensuring a strong role for both the national Government and the States. The Federal Government's role in promoting the general welfare and guarding individual liberties is critical, but State law and national law often operate concurrently to provide independent safeguards for the public. Throughout our history, State and local governments have frequently protected health, safety, and the environment more aggressively than has the national Government.
+
+An understanding of the important role of State governments in our Federal system is reflected in longstanding practices by executive departments and agencies, which have shown respect for the traditional prerogatives of the States. In recent years, however, notwithstanding Executive Order 13132 of August 4, 1999 (Federalism), executive departments and agencies have sometimes announced that their regulations preempt State law, including State common law, without explicit preemption by the Congress or an otherwise sufficient basis under applicable legal principles.
+
+The purpose of this memorandum is to state the general policy of my Administration that preemption of State law by executive departments and agencies should be undertaken only with full consideration of the legitimate prerogatives of the States and with a sufficient legal basis for preemption. Executive departments and agencies should be mindful that in our Federal system, the citizens of the several States have distinctive circumstances and values, and that in many instances it is appropriate for them to apply to themselves rules and principles that reflect these circumstances and values. As Justice Brandeis explained more than 70 years ago, “\[i\]t is one of the happy incidents of the federal system that a single courageous state may, if its citizens choose, serve as a laboratory; and try novel social and economic experiments without risk to the rest of the country.”
+
+To ensure that executive departments and agencies include statements of preemption in regulations only when such statements have a sufficient legal basis:
+
+1\. Heads of departments and agencies should not include in regulatory preambles statements that the department or agency intends to preempt State law through the regulation except where preemption provisions are also included in the codified regulation.
+
+2\. Heads of departments and agencies should not include preemption provisions in codified regulations except where such provisions would be justified under legal principles governing preemption, including the principles outlined in Executive Order 13132.
+
+3\. Heads of departments and agencies should review regulations issued within the past 10 years that contain statements in regulatory preambles or codified provisions intended by the department or agency to preempt State law, in order to decide whether such statements or provisions are justified under applicable legal principles governing preemption. Where the head of a department or agency determines that a regulatory statement of preemption or codified regulatory provision cannot be so justified, the head of that department or agency should initiate appropriate action, which may include amendment of the relevant regulation.
+
+Executive departments and agencies shall carry out the provisions of this memorandum to the extent permitted by law and consistent with their statutory authorities. Heads of departments and agencies should consult as necessary with the Attorney General and the Office of Management and Budget's Office of Information and Regulatory Affairs to determine how the requirements of this memorandum apply to particular situations.
+
+This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+The Director of the Office of Management and Budget is authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

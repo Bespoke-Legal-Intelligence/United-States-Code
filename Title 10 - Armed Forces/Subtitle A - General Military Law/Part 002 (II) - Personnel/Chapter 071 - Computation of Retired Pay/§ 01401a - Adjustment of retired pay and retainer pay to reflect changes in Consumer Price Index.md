@@ -114,7 +114,7 @@ Price Index for a Quarter.—For purposes of this section, the price index for a
 
 #### References in Text
 
-Section 322 of title 37 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008), referred to in subsecs. (b)(3), (d), and (e), means section 322 of title 37 as in effect before enactment of Pub. L. 110–181. Section 322 of title 37 was renumbered as section 354 of title 37 and amended by Pub. L. 110–181, div. A, title VI, §661(b)(1), (2), Jan. 28, 2008, 122 Stat. 178.
+Section 322 of title 37 (as in effect before the enactment of the National Defense Authorization Act forFiscal Year 2008), referred to in subsecs. (b)(3), (d), and (e), means section 322 of title 37 as in effect before enactment of Pub. L. 110–181. Section 322 of title 37 was renumbered as section 354 of title 37 and amended by Pub. L. 110–181, div. A, title VI, §661(b)(1), (2), Jan. 28, 2008, 122 Stat. 178.
 
 #### Amendments
 
@@ -154,7 +154,7 @@ Percentage increase” for “
 
 Pre-august 1, 1986 members” in heading.
 
-Pub. L. 106–65, §641(b)(1), substituted “Except as otherwise provided in this subsection, the Secretary shall increase the retired pay of each member and former member” for “The Secretary shall increase the retired pay of each member and former member whofirst became a member of a uniformed service before August 1, 1986,”.
+Pub. L. 106–65, §641(b)(1), substituted “Except as otherwise provided in this subsection, the Secretary shall increase the retired pay of each member and former member” for “The Secretary shall increase the retired pay of each member and former member who first became a member of a uniformed service before August 1, 1986,”.
 
 Subsec. (b)(3). Pub. L. 106–65, §643(b)(1)(C), substituted “
 
@@ -288,7 +288,7 @@ Subsec. (g). Pub. L. 98–94, §922(a)(2), added subsec. (g).
 
 1980—Subsec. (b). Pub. L. 96–342 substituted provisions directing the Secretary of Defense to increase the retired and retainer pay of members and former members of the armed forces each time that an increase is made under section 8340(b) of title 5 in annuities paid under subchapter III of chapter 83 of title 5, with such increase to be by the same percent as the percentage by which the annuities are increased for provisions under which the Secretary of Defense had been authorized and directed to increase the retired pay and retainer pay of members and former members of the armed forces on March 1 and September 1 depending upon determinations which the Secretary was directed to make on January 1 and July 1 of each year with regards to the percentage change in the index published for June or December of the previous year.
 
-1976—Subsec. (b). Pub. L. 94–440 substituted provisions that Secretary of Defense shall determine the percent change in the index on Jan. 1 and July 1 of each year and effective Mar. 1 and Sept. 1, retired and retainer pay shall be increased by the computed percent change adjusted to the nearest 1/10 of 1 percent, for provisions that the Secretary of Defense shall determine on a monthly basis the percent by which the index has increased over that used as a basis for the most recent adjustment of retired and retainer pay and if Secretary determines for 3 consecutive months that the amount of increase is at least 3 percent over the base index, retired and retainer pay shall be increased by adding 1 percent and the highest percent increase in the index during those months adjusted to the nearest 1/10 of 1 percent.
+1976—Subsec. (b). Pub. L. 94–440 substituted provisions that Secretary of Defense shall determine thepercent change in the index on Jan. 1 and July 1 of each year and effective Mar. 1 and Sept. 1, retired and retainer pay shall be increased by the computed percent change adjusted to the nearest 1/10 of 1 percent, for provisions that the Secretary of Defense shall determine on a monthly basis the percent by which the index has increased over that used as a basis for the most recent adjustment of retired and retainer pay and if Secretary determines for 3 consecutive months that the amount of increase is at least 3 percent over the base index, retired and retainer pay shall be increased by adding 1 percent and the highest percent increase in the index during those months adjusted to the nearest 1/10 of 1 percent.
 
 Pub. L. 94–361 struck out “the per centum obtained by adding 1 per centum and” before “the highest per centum of increase in the index”.
 
@@ -306,7 +306,7 @@ Subsecs. (c) to (e). Pub. L. 90–207 added subsecs. (c) to (e).
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–65, div. A, title VI, §644, Oct. 5, 1999, 113 Stat. 664, provided that: “The amendments made bysections 641, 642, and 643 \[enacting section 322 of Title 37, Pay and Allowances of the Uniformed Services, and amending this section and sections 1409, 1410, 1451, and 1452 of this title\] shall take effect on October 1, 1999.”
+Pub. L. 106–65, div. A, title VI, §644, Oct. 5, 1999, 113 Stat. 664, provided that: “The amendments made by sections 641, 642, and 643 \[enacting section 322 of Title 37, Pay and Allowances of the Uniformed Services, and amending this section and sections 1409, 1410, 1451, and 1452 of this title\] shall take effect on October 1, 1999.”
 
 #### Effective Date of 1996 Amendment
 
@@ -352,7 +352,7 @@ Amendment by Pub. L. 89–132 effective Sept. 1, 1965, see section 10 of Pub. L.
 
 #### Effective Date
 
-Section effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as an Effective Date of 1963 Amendment note under section 201 of Title 37, Pay and Allowances of the Uniformed Services.
+Section effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as an Effective Date of 1963 Amendmentnote under section 201 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Contingent Alternative Date for Fiscal Year 1998
 
@@ -524,7 +524,7 @@ Section 801(c) of Pub. L. 94–361 provided that:
 
 “(3) The provisions of paragraphs (1) and (2) relating to any change in the method of computing the cost-of-living adjustment of the retired pay or retainer pay of members and former members of the Armed Forces shall be applicable to the computation of cost-of-living adjustments of the retired pay of commissioned officers of the National Oceanic and Atmospheric Administration and the retired pay of commissioned officers of the Public Health Service.”
 
-\[The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in Pub. L. 94–361, set out above, is Pub. L. 88–643, Oct. 13, 1964, 78 Stat. 1043, which was revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196, isknown as the Central Intelligence Agency Retirement Act and is classified generally to chapter 38 (§2001 et seq.) of Title 50, War and National Defense.\]
+\[The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in Pub. L. 94–361, set out above, is Pub. L. 88–643, Oct. 13, 1964, 78 Stat. 1043, which was revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196, is known as the Central Intelligence Agency Retirement Act and is classified generally to chapter 38 (§2001 et seq.) of Title 50, War and National Defense.\]
 
 #### Increase in Certain Armed Force Members’ Pay and Allowances Not Otherwise Tied to Consumer Price Index
 

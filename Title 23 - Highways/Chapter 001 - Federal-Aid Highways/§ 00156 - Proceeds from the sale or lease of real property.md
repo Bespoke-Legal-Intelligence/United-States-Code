@@ -10,7 +10,7 @@ Exceptions.—The Secretary may grant an exception to the requirement of subsect
 
 (c)
 
-Use of Federal Share of Income.—The Federal share of net income from the revenuesobtained by a State under subsection (a) shall be used by the State for projects eligible under this title.
+Use of Federal Share of Income.—The Federal share of net income from the revenues obtained by a State under subsection (a) shall be used by the State for projects eligible under this title.
 
 (Added Pub. L. 100–17, title I, §126(a), Apr. 2, 1987, 101 Stat. 167; amended Pub. L. 102–240, title I, §1027(f), Dec. 18, 1991, 105 Stat. 1967; Pub. L. 105–178, title I, §1303(a), June 9, 1998, 112 Stat. 227.)
 

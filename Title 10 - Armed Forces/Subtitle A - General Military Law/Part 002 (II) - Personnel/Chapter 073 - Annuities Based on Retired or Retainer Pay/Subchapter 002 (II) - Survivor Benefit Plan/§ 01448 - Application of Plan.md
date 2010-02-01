@@ -172,7 +172,7 @@ Form for discontinuation.—A request under subparagraph (B) to discontinue part
 
 &emsp;&emsp;(D)
 
-Withdrawal of request for discontinuation.—The Secretary concerned shall furnish promptly to each person whosubmits a request under subparagraph (B) to discontinue participation in the Plan a written statement of the advantages and disadvantages of participating in the Plan and the possible disadvantages of discontinuing participation. A person may withdraw the request to discontinue participation if withdrawn within 30 days after having been submitted to the Secretary concerned.
+Withdrawal of request for discontinuation.—The Secretary concerned shall furnish promptly to each person who submits a request under subparagraph (B) to discontinue participation in the Plan a written statement of the advantages and disadvantages of participating in the Plan and the possible disadvantages of discontinuing participation. A person may withdraw the request to discontinue participation if withdrawn within 30 days after having been submitted to the Secretary concerned.
 
 &emsp;&emsp;(E)
 
@@ -184,7 +184,7 @@ Vitiation of election by disability retiree who dies of disability-related cause
 
 &emsp;&emsp;&emsp;(i) an election made by the member under paragraph (1) to provide an annuity under the Plan to any person other than a dependent of that member (as defined in section 1072(2) of this title) is vitiated; and
 
-&emsp;&emsp;&emsp;(ii) the amounts by which the member's retired pay was reduced under section 1452 of this title shall be refunded and paid to the person to whom the annuity under the Plan would have been paid pursuant to such election.
+&emsp;&emsp;&emsp;(ii) the amounts by which the member's retired pay was reduced under section 1452 of this title shall be refunded and paid to the person to whom the annuity under thePlan would have been paid pursuant to such election.
 
 &emsp;&emsp;(G)
 
@@ -372,7 +372,7 @@ Surviving spouse annuity.—The Secretary concerned shall pay an annuity under t
 
 &emsp;&emsp;&emsp;(ii) during the 90-day period beginning on the date he receives notification under section 12731(d) of this title that he has completed the years of service required for eligibility for reserve-component retired pay if he had not made an election under subsection (a)(2)(B) to participate in the Plan; or
 
-&emsp;&emsp;(B) is a member of a reserve component not described in subparagraph (A) and dies from an injury or illness incurred or aggravated in the line of duty during inactive-duty training.
+&emsp;&emsp;(B) is a member of a reserve component not described in subparagraph (A) and diesfrom an injury or illness incurred or aggravated in the line of duty during inactive-duty training.
 
 &emsp;(2)
 
@@ -522,7 +522,7 @@ Pub. L. 99–145, §719(8)(A), substituted “retired pay” for “retired or r
 
 Subsec. (a)(3). Pub. L. 99–145, §721(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows:
 
-“(A) If a person who is eligible under paragraph (1)(A) to participate in the Plan and who is married elects not to participate in the Plan at the maximum level, orelects to provide an annuity for a dependent child but not for his spouse, or elects to provide an annuity for a former spouse under subsection (b)(2), that person's spouse shall be notified of that election.
+“(A) If a person who is eligible under paragraph (1)(A) to participate in the Plan and who is married elects not to participate in the Plan at the maximum level, or elects to provide an annuity for a dependent child but not for his spouse, or elects to provide an annuity for a former spouse under subsection (b)(2), that person's spouse shall be notified of that election.
 
 “(B) If a person who is eligible under paragraph (1)(B) to participate in the Plan and who is married does not elect to participate in the Plan at the maximum level, or elects to provide an annuity for a dependent child but not for his spouse, or elects to provide an annuity for a former spouse under subsection (b)(2), that person's spouse shall be notified of that action.”
 
@@ -540,7 +540,7 @@ Subsec. (b)(4), (5). Pub. L. 99–145, §716(a)(2), (3), added par. (4) and rede
 
 Subsec. (c). Pub. L. 99–145, §513(b), inserted “disability” before “retired pay”.
 
-Subsec. (d). Pub. L. 99–145, §712(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If a member of an armed force dies on active duty after he has become entitled to retired or retainer pay, or after he has qualified for that pay except that he has not applied for or been granted that pay, and his spouse is eligible for dependency and indemnity compensation under section 411(a) of title 38 in an amount that is less than the annuity the spouse would have received under this subchapter if it had applied to the member when he died, the Secretary concerned shall pay to the spouse an annuity equal to the difference between that amount of compensation and 55 percent of the retired or retainer pay to which the otherwise eligible spouse described in section 1450(a)(1) of this title would have been entitled if the member had been entitled to that pay based upon his years of active service when he died.”
+Subsec. (d). Pub. L. 99–145, §712(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If a member of an armed force dies on active duty after he has become entitled to retired or retainer pay, or after he has qualified for that pay except that he has not applied for or been granted that pay, and his spouse is eligible for dependency and indemnity compensation under section 411(a) of title 38 in an amountthat is less than the annuity the spouse would have received under this subchapter if it had applied to the member when he died, the Secretary concerned shall pay to the spouse an annuity equal to the difference between that amount of compensation and 55 percent of the retired or retainer pay to which the otherwise eligible spouse described in section 1450(a)(1) of this title would have been entitled if the member had been entitled to that pay based upon his years of active service when he died.”
 
 Subsec. (f). Pub. L. 99–145, §713(a), added subsec. (f).
 
@@ -810,7 +810,7 @@ Pub. L. 104–106, div. A, title VI, §635, Feb. 10, 1996, 110 Stat. 366, author
 
 #### Open Enrollment Period for Survivor Benefit Plan Commencing April 1, 1992
 
-Pub. L. 101–189, div. A, title XIV, §1405, Nov. 29, 1989, 103 Stat. 1586, as amended by Pub. L. 101–510, div. A, title VI, §631(2), title XIV, §1484(<i>l</i>)(4)(B), Nov. 5, 1990, 104 Stat. 1580, 1720; Pub. L. 102–190, div. A, title VI, §653(a)(1), (c)(2), Dec. 5, 1991, 105 Stat. 1388, 1389; Pub. L. 102–484, div. A, title VI, §643, Oct. 23, 1992, 106 Stat. 2425, provided for a one-year open enrollment period beginning on Apr. 1, 1992, during which: (1) an eligible retired or former member who was not participating in the Survivor Benefit Plan could elect to participate in the Plan and also elect to participate in the Supplemental Survivor Benefit Plan, (2) a current participant in the Survivor Benefit Plan who was not participating at the maximum base amount could elect to participate in the Plan at a higher base amount or provide coverage for a previously uncovered spouse or former spouse, and (3) a participant in the Survivor Benefit Plan at the maximum level who was providing annuity coverage for a spouse or former spouse could elect to participate in the Supplemental Survivor Benefit Plan, and directed the Secretary of Defense to submit to committees of Congress a report on the open season not later than June 1, 1990.
+Pub. L. 101–189, div. A, title XIV, §1405, Nov. 29, 1989, 103 Stat. 1586, as amended by Pub. L. 101–510, div. A,title VI, §631(2), title XIV, §1484(<i>l</i>)(4)(B), Nov. 5, 1990, 104 Stat. 1580, 1720; Pub. L. 102–190, div. A, title VI, §653(a)(1), (c)(2), Dec. 5, 1991, 105 Stat. 1388, 1389; Pub. L. 102–484, div. A, title VI, §643, Oct. 23, 1992, 106 Stat. 2425, provided for a one-year open enrollment period beginning on Apr. 1, 1992, during which: (1) an eligible retired or former member who was not participating in the Survivor Benefit Plan could elect to participate in the Plan and also elect to participate in the Supplemental Survivor Benefit Plan, (2) a current participant in the Survivor Benefit Plan who was not participating at the maximum base amount could elect to participate in the Plan at a higher base amount or provide coverage for a previously uncovered spouse or former spouse, and (3) a participant in the Survivor Benefit Plan at the maximum level who was providing annuity coverage for a spouse or former spouse could elect to participate in the Supplemental Survivor Benefit Plan, and directed the Secretary of Defense to submit to committees of Congress a report on the open season not later than June 1, 1990.
 
 #### Definitions for 1989 Amendments
 
@@ -952,7 +952,7 @@ Pub. L. 96–402, §5, Oct. 9, 1980, 94 Stat. 1707, provided that:
 
 &emsp;“(3) The term ‘Secretary concerned’ has the meaning given such term in section 101(8) of title 10, United States Code, and includes the Secretary of Commerce, with respect to matters concerning the National Oceanic and Atmospheric Administration, and the Secretary of Health and Human Services, with respect to matters concerning the Public Health Service.”
 
-Provision effective Dec. 1, 1980, applicable to annuities payable for months beginning on or after such date, and prohibiting accrual of benefits for any period before Oct. 9, 1980, see section 7 of Pub. L. 96–402, set out as a note under section 1447 of this title.
+Provision effective Dec. 1, 1980, applicable to annuities payable for months beginning on or after suchdate, and prohibiting accrual of benefits for any period before Oct. 9, 1980, see section 7 of Pub. L. 96–402, set out as a note under section 1447 of this title.
 
 #### Election To Participate in the Survivor Benefit Plan and Withdraw From the Retired Serviceman's Family Protection Plan
 
@@ -1006,7 +1006,7 @@ Section 4 of Pub. L. 92–425, as amended by Pub. L. 94–496, §2, Oct. 14, 197
 
 “(b) The annuity under subsection (a) of this section shall be in an amount which when added to the widow's income determined under subsection (a)(3) of this section, plus the amount of any annuity being received under sections 1431–1436 of title 10, United States Code, but exclusive of a pension described in subsection (a)(2) of this section, equals the maximum annual rate of pension in effect under section 1541(b) of title 38, United States Code. In addition, the Secretary concerned shall pay to the widow, described in the last sentence of subsection (a) of this section, an amount equal to the pension she would otherwise have been eligible to receive under subchapter III of chapter 15 of title 38, United States Code, if the service of her deceased spouse was considered active duty under section 101(21) of that title.
 
-“(c) The amount of an annuity payable under this section, although counted as income in determining the amount of any pension described in subsection (a)(2) of this section, shall not be considered to affect the eligiblity \[sic\] of the recipient of such annuity for such pension, even though, as a result of including the amount of the annuity as income, no amount of such pension is due.
+“(c) The amount of an annuity payable under this section, although counted as income in determining the amount of any pension described in subsection (a)(2) of this section, shall not be considered to affect theeligiblity \[sic\] of the recipient of such annuity for such pension, even though, as a result of including the amount of the annuity as income, no amount of such pension is due.
 
 “(d) Subsection 1450(i) and section 1453 as added to title 10, United States Code, by clause 3 of the first section of this Act, are applicable to persons covered by this section.
 

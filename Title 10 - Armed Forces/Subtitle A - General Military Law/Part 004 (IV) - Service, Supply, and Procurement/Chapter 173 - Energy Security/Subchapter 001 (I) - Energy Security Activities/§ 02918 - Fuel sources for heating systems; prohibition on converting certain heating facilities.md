@@ -18,7 +18,7 @@
 
 1997—Subsec. (b). Pub. L. 105–85 substituted “unless the Secretary determines that the conversion—” for “unless the Secretary—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
 
-“(1) determines that the conversion (A) is required by the government of the country in which the facility islocated, or (B) is cost effective over the life cycle of the facility; and
+“(1) determines that the conversion (A) is required by the government of the country in which the facility is located, or (B) is cost effective over the life cycle of the facility; and
 
 “(2) submits to Congress notification of the proposed conversion and a period of 30 days has elapsed following the date on which Congress receives the notice.”
 

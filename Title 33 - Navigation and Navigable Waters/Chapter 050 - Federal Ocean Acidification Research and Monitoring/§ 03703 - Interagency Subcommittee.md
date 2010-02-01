@@ -1,0 +1,58 @@
+### §3703. Interagency Subcommittee
+
+#### (a) Designation
+
+#### (1) In general
+
+&emsp;The Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council shall coordinate Federal activities on ocean acidification and establish an interagency working group.
+
+#### (2) Membership
+
+&emsp;The interagency working group on ocean acidification shall be comprised of senior representatives from the National Oceanic and Atmospheric Administration, the National Science Foundation, the National Aeronautics and Space Administration, the United States Geological Survey, the United States Fish and Wildlife Service, and such other Federal agencies as appropriate.
+
+#### (3) Chairman
+
+&emsp;The interagency working group shall be chaired by the representative from the National Oceanic and Atmospheric Administration.
+
+#### (b) Duties
+
+The Subcommittee shall—
+
+&emsp;(1) develop the strategic research and monitoring plan to guide Federal research on ocean acidification required under section 3704 of this title and oversee the implementation of the plan;
+
+&emsp;(2) oversee the development of—
+
+&emsp;&emsp;(A) an assessment of the potential impacts of ocean acidification on marine organisms and marine ecosystems; and
+
+&emsp;&emsp;(B) adaptation and mitigation strategies to conserve marine organisms and ecosystems exposed to ocean acidification;
+
+&emsp;(3) facilitate communication and outreach opportunities with nongovernmental organizations and members of the stakeholder community with interests in marine resources;
+
+&emsp;(4) coordinate the United States Federal research and monitoring program with research and monitoring programs and scientists from other nations; and
+
+&emsp;(5) establish or designate an Ocean Acidification Information Exchange to make information on ocean acidification developed through or utilized by the interagency ocean acidification program accessible through electronic means, including information which would be useful to policymakers, researchers, and other stakeholders in mitigating or adapting to the impacts of ocean acidification.
+
+#### (c) Reports to Congress
+
+#### (1) Initial report
+
+&emsp;Not later than 1 year after March 30, 2009, the Subcommittee shall transmit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology and the Committee on Natural Resources of the House of Representatives that—
+
+&emsp;&emsp;(A) includes a summary of federally funded ocean acidification research and monitoring activities, including the budget for each of these activities; and
+
+&emsp;&emsp;(B) describes the progress in developing the plan required under section 3704 of this title.
+
+#### (2) Biennial report
+
+&emsp;Not later than 2 years after the delivery of the initial report under paragraph (1) and every 2 years thereafter, the Subcommittee shall transmit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology and the Committee on Natural Resources of the House of Representatives that includes—
+
+&emsp;&emsp;(A) a summary of federally funded ocean acidification research and monitoring activities, including the budget for each of these activities; and
+
+&emsp;&emsp;(B) an analysis of the progress made toward achieving the goals and priorities for the interagency research plan developed by the Subcommittee under section 3704 of this title.
+
+#### (3) Strategic research plan
+
+&emsp;Not later than 2 years after March 30, 2009, the Subcommittee shall transmit the strategic research plan developed under section 3704 of this title to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology and the Committee on Natural Resources of the House of Representatives. A revised plan shall be submitted at least once every 5 years thereafter.
+
+(Pub. L. 111–11, title XII, §12404, Mar. 30, 2009, 123 Stat. 1437.)
+

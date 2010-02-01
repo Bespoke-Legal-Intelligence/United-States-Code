@@ -132,7 +132,7 @@ In the development of specific appraisal guidelines in accordance with subsectio
 
 #### (B) Adjustment for exclusion
 
-&emsp;&emsp;In a case in which any comparable sale includes utilities, access, or facilities that are to be excluded in the appraisal of the subject lot, the price of the comparable sale shall be adjusted, as appropriate.
+&emsp;&emsp;In a case in which any comparable sale includes utilities, access, or facilities that areto be excluded in the appraisal of the subject lot, the price of the comparable sale shall be adjusted, as appropriate.
 
 #### (C) Adjustment process
 

@@ -22,7 +22,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (2) Interest in unidentified assets
 
-&emsp;Where the assets (included in the decedent's gross estate) out of which, or the proceeds ofwhich, an interest passing to the surviving spouse may be satisfied include a particular asset or assets with respect to which no deduction would be allowed if such asset or assets passed from the decedent to such spouse, then the value of such interest passing to such spouse shall, for purposes of subsection (a), be reduced by the aggregate value of such particular assets.
+&emsp;Where the assets (included in the decedent's gross estate) out of which, or the proceeds of which, an interest passing to the surviving spouse may be satisfied include a particular asset or assets with respect to which no deduction would be allowed if such asset or assets passed from the decedent to such spouse, then the value of such interest passing to such spouse shall, for purposes of subsection (a), be reduced by the aggregate value of such particular assets.
 
 #### (3) Interest of spouse conditional on survival for limited period
 
@@ -52,7 +52,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (6) Life insurance or annuity payments with power of appointment in surviving spouse
 
-&emsp;In the case of an interest in property passing from the decedent consisting of proceeds under a life insurance, endowment, or annuity contract, if under the terms of the contract such proceeds are payable in installments or are held by the insurer subject to an agreement to pay interest thereon (whether the proceeds, on the termination of any interest payments, are payable in a lump sum or in annual or more frequent installments), and such installment or interest payments are payable annually or at more frequent intervals, commencing not later than 13 months after the decedent's death, and all amounts, or a specific portion of all such amounts, payable during the life of the surviving spouse are payable only to such spouse, and such spouse has the power to appoint all amounts, or such specific portion, payable under such contract (exercisable in favor of such surviving spouse, or of the estate of such surviving spouse, or in favor of either, whether or not in each case the power is exercisable in favor of others), with no power in any other person to appoint such amounts to any person other than the surviving spouse—
+&emsp;In the case of an interest in property passing from the decedent consisting of proceeds under a life insurance, endowment, or annuity contract, if under the terms of the contract such proceeds are payable in installments or are held by the insurer subject to an agreement to pay interest thereon (whether the proceeds, on the termination of any interest payments, are payable in a lump sum or in annual or more frequent installments), and such installment or interest payments are payable annually or at more frequent intervals, commencing not later than 13 months after the decedent's death, and all amounts, or a specific portion of all such amounts, payable during the life of the surviving spouse are payable only to suchspouse, and such spouse has the power to appoint all amounts, or such specific portion, payable under such contract (exercisable in favor of such surviving spouse, or of the estate of such surviving spouse, or in favor of either, whether or not in each case the power is exercisable in favor of others), with no power in any other person to appoint such amounts to any person other than the surviving spouse—
 
 &emsp;&emsp;(A) such amounts shall, for purposes of subsection (a), be considered as passing to the surviving spouse, and
 
@@ -224,7 +224,7 @@ For purposes of this section, an interest in property shall be considered as pas
 
 &emsp;&emsp;If a judicial proceeding described in subparagraph (A)(ii) is commenced with respect to any trust, the period for assessing any deficiency of tax attributable to any failure of such trust to be a qualified domestic trust shall not expire before the date 1 year after the date on which the Secretary is notified that the trust has been changed pursuant to such judicial proceeding or that such proceeding has been terminated.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 392; Pub. L. 89–621, §1(a), Oct. 4, 1966, 80 Stat. 872; Pub. L. 94–455, title XIX, §1902(a)(12)(A), title XX, §§2002(a), 2009(b)(4)(D), (E), Oct. 4, 1976, 90 Stat. 1805, 1854, 1894; Pub. L. 95–600, title VII, §702(g)(1), (2), Nov. 6, 1978, 92 Stat. 2930; Pub. L. 97–34, title IV, §403(a)(1), (d)(1), Aug. 13, 1981, 95 Stat. 301, 302; Pub. L. 97–448, title I, §104(a)(2)(A), (8), Jan. 12, 1983, 96 Stat. 2380, 2381; Pub. L. 98–369, div. A, title X, §1027(a), July 18, 1984, 98 Stat. 1031; Pub. L. 100–647, title V, §5033(a)(1), title VI, §6152(a), Nov. 10, 1988, 102 Stat. 3670, 3725; Pub. L. 101–239, title VII, §7815(d)(4)(A), (5), (6), (8), 7816(q), Dec. 19, 1989, 103 Stat. 2415, 2416, 2423; Pub. L. 101–508, title XI, §§11701(<i>l</i>)(1), 11702(g)(5), Nov. 5, 1990, 104 Stat. 1388–513, 1388–516; Pub. L. 102–486, title XIX, §1941(a), Oct. 24, 1992, 106 Stat. 3036; Pub. L. 105–34, title XIII, §1311(a), title XV, §1530(c)(8), Aug. 5, 1997, 111 Stat. 1044, 1078.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 392; Pub. L. 89–621, §1(a), Oct. 4, 1966, 80 Stat. 872; Pub. L. 94–455, title XIX, §1902(a)(12)(A), title XX, §§2002(a), 2009(b)(4)(D), (E), Oct. 4, 1976, 90 Stat. 1805, 1854, 1894; Pub. L. 95–600, title VII, §702(g)(1), (2), Nov. 6, 1978, 92 Stat. 2930; Pub. L.97–34, title IV, §403(a)(1), (d)(1), Aug. 13, 1981, 95 Stat. 301, 302; Pub. L. 97–448, title I, §104(a)(2)(A), (8), Jan. 12, 1983, 96 Stat. 2380, 2381; Pub. L. 98–369, div. A, title X, §1027(a), July 18, 1984, 98 Stat. 1031; Pub. L. 100–647, title V, §5033(a)(1), title VI, §6152(a), Nov. 10, 1988, 102 Stat. 3670, 3725; Pub. L. 101–239, title VII, §7815(d)(4)(A), (5), (6), (8), 7816(q), Dec. 19, 1989, 103 Stat. 2415, 2416, 2423; Pub. L. 101–508, title XI, §§11701(<i>l</i>)(1), 11702(g)(5), Nov. 5, 1990, 104 Stat. 1388–513, 1388–516; Pub. L. 102–486, title XIX, §1941(a), Oct. 24, 1992, 106 Stat. 3036; Pub. L. 105–34, title XIII, §1311(a), title XV, §1530(c)(8), Aug. 5, 1997, 111 Stat. 1044, 1078.)
 
 #### Amendments
 
@@ -260,7 +260,7 @@ Subsec. (d)(4), (5). Pub. L. 101–508, §11701(<i>l</i>)(1), redesignated par. 
 
 1989—Subsec. (b)(7)(C). Pub. L. 101–239, §7816(q), inserted “included in the gross estate of the decedent under section 2039” after “an annuity”.
 
-Subsec. (d)(2)(B). Pub. L. 101–239, §7815(d)(4)(A), substituted “Special rule” for “Property passing outside ofprobate estate” in heading and amended text generally. Prior to amendment, text read as follows: “If any property passes from the decedent to the surviving spouse of the decedent outside of the decedent's probate estate, for purposes of subparagraph (A), such property shall be treated as passing to such spouse in a qualified domestic trust if such property is transferred to such a trust before the day on which the return of the tax imposed by section 2001 is made.”
+Subsec. (d)(2)(B). Pub. L. 101–239, §7815(d)(4)(A), substituted “Special rule” for “Property passing outside of probate estate” in heading and amended text generally. Prior to amendment, text read as follows: “If any property passes from the decedent to the surviving spouse of the decedent outside of the decedent's probate estate, for purposes of subparagraph (A), such property shall be treated as passing to such spouse in a qualified domestic trust if such property is transferred to such a trust before the day on which the return of the tax imposed by section 2001 is made.”
 
 Subsec. (d)(3). Pub. L. 101–239, §7815(d)(6), substituted “this chapter” for “section 2001” in subpar. (C) and inserted “and without regard to subsection (d)(3) of such section” after “first decedent died” in concluding provisions.
 
@@ -320,7 +320,7 @@ Exception.—The amendment made by subsection (a) shall not apply to any interes
 
 &emsp;&emsp;“(i) the decedent dies on or before the date 3 years after such date of enactment, or
 
-&emsp;&emsp;“(ii) the decedent was, on such date of enactment, under a mental disability to change the disposition of his property and did not regain his competence to dispose of such property before the date of his death.
+&emsp;&emsp;“(ii) the decedent was, on such date of enactment, under a mental disability to change the dispositionof his property and did not regain his competence to dispose of such property before the date of his death.
 
 > &emsp;The preceding sentence shall not apply if such will (or revocable trust) is amended at any time after such date of enactment in any respect which will increase the amount of the interest which so passes or alters the terms of the transfer by which the interest so passes.
 

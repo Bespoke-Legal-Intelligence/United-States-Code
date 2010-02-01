@@ -60,5 +60,5 @@ Section 1433(a) of Pub. L. 103–160 provided that: “The Congress makes the fo
 
 &emsp;“(3) The understanding of military roles and missions in a democracy is essential for the development and preservation of democratic forms of government.
 
-&emsp;“(4) The service of retired members of the Armed Forces of the United States in the armed forces ofnewly democratic nations could lead to a better understanding of military roles and missions in a democracy.”
+&emsp;“(4) The service of retired members of the Armed Forces of the United States in the armed forces of newly democratic nations could lead to a better understanding of military roles and missions in a democracy.”
 

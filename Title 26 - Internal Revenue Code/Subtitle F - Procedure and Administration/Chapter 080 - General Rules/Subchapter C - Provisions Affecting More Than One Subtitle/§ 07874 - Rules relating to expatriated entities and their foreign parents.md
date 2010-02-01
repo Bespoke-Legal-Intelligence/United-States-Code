@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (2) Inversion gain
 
-&emsp;The term “inversion gain” means the income or gain recognized by reason of the transfer during the applicable period of stock or other properties by an expatriated entity, and any income received or accrued during the applicable period by reason of a license of any property by an expatriated entity—
+&emsp;The term “inversion gain” means the income or gain recognized by reason of the transfer during the applicable period of stockor other properties by an expatriated entity, and any income received or accrued during the applicable period by reason of a license of any property by an expatriated entity—
 
 &emsp;&emsp;(A) as part of the acquisition described in subsection (a)(2)(B)(i), or
 

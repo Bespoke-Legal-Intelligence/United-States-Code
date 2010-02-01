@@ -178,7 +178,7 @@ Representation.—The policy board of a metropolitan planning organization desig
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Funding.—For fiscal year 2008 and each fiscal year thereafter, in additionto other funds made available to the metropolitan planning organization for the Lake Tahoe region under this chapter and title 23, prior to any allocation under section 202 of title 23, and notwithstanding the allocation provisions of section 202, the Secretary shall set aside 1/2 of 1 percent of all funds authorized to be appropriated for such fiscal year to carry out section 204 of title 23, and shall make such funds available to the metropolitan planning organization for the Lake Tahoe region to carry out the transportation planning process, environmental reviews, preliminary engineering, and design to complete environmental documentation for transportation projects for the Lake Tahoe region under the Tahoe Regional Planning Compact as consented to in Public Law 96–551 (94 Stat. 3233) and this paragraph.
+Funding.—For fiscal year 2008 and each fiscal year thereafter, in addition to other funds made available to the metropolitan planning organization for the Lake Tahoe region under this chapter and title 23, prior to any allocation under section 202 of title 23, and notwithstanding the allocation provisions of section 202, the Secretary shall set aside 1/2 of 1 percent of all funds authorized to be appropriated for such fiscal year to carry out section 204 of title 23, and shall make such funds available to the metropolitan planning organization for the Lake Tahoe region to carry out the transportation planning process, environmental reviews, preliminary engineering, and design to complete environmental documentation for transportation projects for the Lake Tahoe region under the Tahoe Regional Planning Compact as consented to in Public Law 96–551 (94 Stat. 3233) and this paragraph.
 
 &emsp;&emsp;(D)
 
@@ -252,7 +252,7 @@ In general.—Each metropolitan planning organization shall prepare a transporta
 
 &emsp;&emsp;(A) Any area designated as nonattainment, as defined in section 107(d) of the Clean Air Act (42 U.S.C. 7407(d)).
 
-&emsp;&emsp;(B) Any area that was nonattainment and subsequently designated to attainment inaccordance with section 107(d)(3) of that Act (42 U.S.C. 7407(d)(3)) and that is subject to a maintenance plan under section 175A of that Act (42 U.S.C. 7505a).
+&emsp;&emsp;(B) Any area that was nonattainment and subsequently designated to attainment in accordance with section 107(d)(3) of that Act (42 U.S.C. 7407(d)(3)) and that is subject to a maintenance plan under section 175A of that Act (42 U.S.C. 7505a).
 
 > &emsp;In the case of any other area required to have a transportation plan in accordance with the requirements of this subsection, the metropolitan planning organization shall prepare and update such plan every 5 years unless the metropolitan planning organization elects to update more frequently.
 
@@ -364,7 +364,7 @@ Opportunity for comment.—In developing the TIP, the metropolitan planning orga
 
 &emsp;&emsp;(C)
 
-Funding estimates.—For the purpose of developing the TIP, the metropolitan planning organization, public transportation agency, and State shall cooperatively develop estimates of funds that are reasonably expected to be available to support program implementation.
+Funding estimates.—For the purpose of developing the TIP, the metropolitan planning organization, public transportation agency, and State shall cooperatively develop estimates of funds that are reasonablyexpected to be available to support program implementation.
 
 &emsp;&emsp;(D)
 
@@ -452,7 +452,7 @@ Selection of projects from illustrative list.—
 
 &emsp;&emsp;(A)
 
-No required selection.—Notwithstanding paragraph (2)(B)(iv), a State or metropolitan planning organization shallnot be required to select any project from the illustrative list of additional projects included in the financial plan under paragraph (2)(B)(iv).
+No required selection.—Notwithstanding paragraph (2)(B)(iv), a State or metropolitan planning organization shall not be required to select any project from the illustrative list of additional projects included in the financial plan under paragraph (2)(B)(iv).
 
 &emsp;&emsp;(B)
 
@@ -568,7 +568,7 @@ Applicability.—This subsection applies to a nonattainment area within the metr
 
 (n)
 
-Limitation on Statutory Construction.—Nothing in this section shall be construed to confer on a metropolitan planning organization the authority to impose legal requirements on any transportation facility, provider, or project not eligible under this chapter or title 23.
+Limitation on Statutory Construction.—Nothing in this section shall be construed toconfer on a metropolitan planning organization the authority to impose legal requirements on any transportation facility, provider, or project not eligible under this chapter or title 23.
 
 (<i>o</i>)
 
@@ -688,7 +688,7 @@ This amends 49:5303(c)(5)(A) to correct an erroneous cross-reference.
 
 #### References in Text
 
-The Clean Air Act, referred to in subsecs. (e)(4), (5)(D), (g)(1), (i)(3), (<i>l</i>)(2), and (m)(1), is act July 14, 1955,ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsecs. (e)(4), (5)(D), (g)(1), (i)(3), (<i>l</i>)(2), and (m)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 The date of enactment of the Federal Public Transportation Act of 2005, referred to in subsecs. (e)(4), (5) and (j)(7)(C), is the date of enactment of title III of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
@@ -704,7 +704,7 @@ Subsec. (j)(3)(D). Pub. L. 110–244, §201(b)(2), inserted “or the identified
 
 Subsec. (k)(2). Pub. L. 110–244, §201(b)(3), struck out “a metropolitan planning area serving” before “a transportation management area,”.
 
-2005—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to designation of a metropolitan planning organization for each urbanized area with a population of more than 50,000, general requirements, scope of planning process, boundaries of each area, coordination in multistate areas, development of long-range transportation plans, grants for studies and evaluations, and apportionment of funds.
+2005—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to designation of a metropolitan planning organization for each urbanized area with a population of more than 50,000, general requirements, scope of planning process, boundaries of eacharea, coordination in multistate areas, development of long-range transportation plans, grants for studies and evaluations, and apportionment of funds.
 
 1998—Subsecs. (a), (b). Pub. L. 105–178, §3004(a), added subsecs. (a) and (b) and struck out headings and text of former subsecs. (a) and (b) which related to development requirements and plan and program factors, respectively.
 
@@ -776,7 +776,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 #### Effective Date of 1996 Amendment
 
-Section 8(1) of Pub. L. 104–287, as amended by Pub. L. 105–102, §3(d)(2)(A), Nov. 20, 1997, 111 Stat. 2215, provided that: “The amendments made by sections 3 and 5(10)–(17), (19), (20), (52), (53), (55), (61), (62), (65), (70), (77)–(79), and (91)–(93) of this Act \[amending this section, sections 5307, 5309, 5315, 5317, 5323, 5325, 5327, 5336, 5338, 20301, 21301, 22106, 32702, 32705, 40109, 41109, 46301, 46306, 46316, 60114, 70102, and 70112 of this title, and section 1445 of Title 28, Judiciary and Judicial Procedure\] shall take effect on July 5, 1994.”
+Section 8(1) of Pub. L. 104–287, as amended by Pub. L. 105–102, §3(d)(2)(A), Nov. 20, 1997, 111 Stat. 2215, providedthat: “The amendments made by sections 3 and 5(10)–(17), (19), (20), (52), (53), (55), (61), (62), (65), (70), (77)–(79), and (91)–(93) of this Act \[amending this section, sections 5307, 5309, 5315, 5317, 5323, 5325, 5327, 5336, 5338, 20301, 21301, 22106, 32702, 32705, 40109, 41109, 46301, 46306, 46316, 60114, 70102, and 70112 of this title, and section 1445 of Title 28, Judiciary and Judicial Procedure\] shall take effect on July 5, 1994.”
 
 #### Schedule for Implementation
 

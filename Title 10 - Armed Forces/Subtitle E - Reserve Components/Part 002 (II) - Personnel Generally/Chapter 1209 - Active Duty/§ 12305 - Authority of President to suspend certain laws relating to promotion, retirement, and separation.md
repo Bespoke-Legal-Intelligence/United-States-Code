@@ -4,7 +4,7 @@
 
 (b) A suspension made under the authority of subsection (a) shall terminate (1) upon release from active duty of members of the reserve component ordered to active duty under the authority of section 12301, 12302, or 12304 of this title, as the case may be, or (2) at such time as the President determines the circumstances which required the action of ordering members of the reserve component to active duty no longer exist, whichever is earlier.
 
-(c) Upon the termination of a suspension made under the authority of subsection (a) of a provision of law otherwise requiring the separation or retirement of officers on active duty because of age, length of service or length of service in grade, or failure of selection for promotion, the Secretary concerned shall extend by up to 90 days the otherwise required separation or retirement date of any officer covered by the suspended provision whose separation or retirement date, but for the suspension, would have been before the date of the termination of the suspension or within 90 days after the date of such termination.
+(c) Upon the termination of a suspension made under the authority of subsection (a) of a provision of law otherwise requiring the separation or retirement of officers on active duty because of age, length of service or length of service ingrade, or failure of selection for promotion, the Secretary concerned shall extend by up to 90 days the otherwise required separation or retirement date of any officer covered by the suspended provision whose separation or retirement date, but for the suspension, would have been before the date of the termination of the suspension or within 90 days after the date of such termination.
 
 (Added Pub. L. 98–94, title X, §1021(a), Sept. 24, 1983, 97 Stat. 670, §673c; amended Pub. L. 98–525, title XIV, §1405(16), Oct. 19, 1984, 98 Stat. 2622; renumbered §12305 and amended Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(3), Oct. 5, 1994, 108 Stat. 2992, 3017; Pub. L. 107–107, div. A, title V, §508(a), Dec. 28, 2001, 115 Stat. 1090.)
 
@@ -32,5 +32,5 @@ Section 1. The Secretary of Defense, and the Secretary of Homeland Security with
 
 Sec. 2. The authority delegated to the Secretary of Defense and the Secretary of Homeland Security by this order may be redelegated and further subdelegated to subordinates who are appointed to their offices by the President, by and with the advice and consent of the Senate.
 
-Sec. 3. This order is intended only to improve the internal management of the executive branch and is notintended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+Sec. 3. This order is intended only to improve the internal management of the executive branch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 

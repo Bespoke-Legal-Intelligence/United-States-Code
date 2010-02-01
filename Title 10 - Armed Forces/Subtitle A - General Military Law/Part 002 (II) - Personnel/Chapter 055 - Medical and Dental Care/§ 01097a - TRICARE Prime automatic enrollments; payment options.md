@@ -2,7 +2,7 @@
 
 (a)
 
-Automatic Enrollment of Certain Dependents.—Each dependent of a member of theuniformed services in grade E4 or below who is entitled to medical and dental care under section 1076(a)(2)(A) of this title and resides in the catchment area of a facility of a uniformed service offering TRICARE Prime shall be automatically enrolled in TRICARE Prime at the facility. The Secretary concerned shall provide written notice of the enrollment to the member. The enrollment of a dependent of the member may be terminated by the member or the dependent at any time.
+Automatic Enrollment of Certain Dependents.—Each dependent of a member of the uniformed services in grade E4 or below who is entitled to medical and dental care under section 1076(a)(2)(A) of this title and resides in the catchment area of a facility of a uniformed service offering TRICARE Prime shall be automatically enrolled in TRICARE Prime at the facility. The Secretary concerned shall provide written notice of the enrollment to the member. The enrollment of a dependent of the member may be terminated by the member or the dependent at any time.
 
 (b)
 
@@ -16,7 +16,7 @@ Automatic Renewal of Enrollments of Covered Beneficiaries.—(1) An enrollment o
 
 (c)
 
-Payment Options for Retirees.—A member or former member of the uniformed services eligible for medical care and dental care under section 1074(b) of this title may elect to have any fee payable by the member or former member for an enrollment in TRICARE Prime withheld from the member's retired pay, retainer pay, or equivalent pay, as the case may be, or to be paid from a financial institution through electronic transfers of funds. The fee shall be paid in accordance with the election. A member may elect under this section to pay the fee in full at the beginning of the enrollment period or to make payments on a monthly or quarterly basis.
+Payment Options for Retirees.—A member or former member of the uniformed serviceseligible for medical care and dental care under section 1074(b) of this title may elect to have any fee payable by the member or former member for an enrollment in TRICARE Prime withheld from the member's retired pay, retainer pay, or equivalent pay, as the case may be, or to be paid from a financial institution through electronic transfers of funds. The fee shall be paid in accordance with the election. A member may elect under this section to pay the fee in full at the beginning of the enrollment period or to make payments on a monthly or quarterly basis.
 
 (d)
 

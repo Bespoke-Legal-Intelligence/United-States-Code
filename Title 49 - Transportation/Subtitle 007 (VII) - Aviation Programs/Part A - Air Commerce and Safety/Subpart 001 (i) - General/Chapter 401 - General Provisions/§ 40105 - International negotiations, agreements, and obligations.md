@@ -122,5 +122,5 @@ Reciprocal Airworthiness Defined.—In this section, the term ‘reciprocal airw
 
 #### Report on Certain Bilateral Negotiations
 
-Pub. L. 103–305, title V, §519, Aug. 23, 1994, 108 Stat. 1600, provided that: “The Secretary shall report every other month to the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of all active aviation bilateral and multilateral negotiations and informal government-to-government consultations with United States aviation trade partners.”
+Pub. L. 103–305, title V, §519, Aug. 23, 1994, 108 Stat. 1600, provided that: “The Secretary shall report everyother month to the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of all active aviation bilateral and multilateral negotiations and informal government-to-government consultations with United States aviation trade partners.”
 

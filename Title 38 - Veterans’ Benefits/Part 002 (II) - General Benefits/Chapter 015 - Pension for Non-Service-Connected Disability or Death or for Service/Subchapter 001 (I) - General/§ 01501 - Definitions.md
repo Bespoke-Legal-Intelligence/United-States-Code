@@ -8,7 +8,7 @@ For the purposes of this chapter—
 
 (3) The term “Civil War veteran” includes a person who served in the military or naval forces of the Confederate States of America during the Civil War, and the term “active military or naval service” includes active service in those forces.
 
-(4) The term “period of war” means the Mexican border period, World War I, World War II,the Korean conflict, the Vietnam era, the Persian Gulf War, and the period beginning on the date of any future declaration of war by the Congress and ending on the date prescribed by Presidential proclamation or concurrent resolution of the Congress.
+(4) The term “period of war” means the Mexican border period, World War I, World War II, the Korean conflict, the Vietnam era, the Persian Gulf War, and the period beginning on the date of any future declaration of war by the Congress and ending on the date prescribed by Presidential proclamation or concurrent resolution of the Congress.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, §501; Pub. L. 94–169, title I, §106(1), Dec. 23, 1975, 89 Stat. 1017; Pub. L. 95–588, title I, §101, Nov. 4, 1978, 92 Stat. 2497; Pub. L. 102–25, title III, §333(a), Apr. 6, 1991, 105 Stat. 88; renumbered §1501, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 

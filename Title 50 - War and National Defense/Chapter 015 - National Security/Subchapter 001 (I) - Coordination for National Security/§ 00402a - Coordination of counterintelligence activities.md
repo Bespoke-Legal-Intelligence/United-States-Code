@@ -90,9 +90,9 @@ Section was enacted as part of the Counterintelligence and Security Enhancements
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c)(6)(C). Pub. L. 108–458, which directed amendment of subsec. (c)(6)(C) by substituting “Director of National Intelligence” for “Director of Central Intelligence”, could not be executed because of the amendments by Pub. L. 107–306, §903(a)(2), and Pub. L. 108–177. See 2002 and 2003 Amendment notes below.
+2004—Subsec. (c)(6)(C). Pub. L. 108–458, which directed amendment of subsec. (c)(6)(C) by substituting “Director of National Intelligence” for “Director of Central Intelligence”, could not be executed because of the amendments by Pub. L. 107–306, §903(a)(2), and Pub. L. 108–177. See 2002 and 2003 Amendment notes below.
 
-<b>2003</b>—Subsec. (e). Pub. L. 108–177, which directed the amendment of subsec. (c) by redesignating pars. (7) and\(8) as (6) and (7), respectively, and striking out former par. (6), was executed by making the amendment to subsec. (e) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (e) by Pub. L. 107–306, §903(a)(2), see below. Prior to amendment, par. (6) read as follows:
+2003—Subsec. (e). Pub. L. 108–177, which directed the amendment of subsec. (c) by redesignating pars. (7) and (8) as (6) and (7), respectively, and striking out former par. (6), was executed by making the amendment to subsec. (e) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (e) by Pub. L. 107–306, §903(a)(2), see below. Prior to amendment, par. (6) read as follows:
 
 “(6)(A) Not later each year than the date provided in section 415b of this title, the Director of the Federal Bureau of Investigation shall submit to the congressional intelligence committees (as defined in section 401a of this title) a report with respect to compliance with paragraphs (1) and (2) during the previous calendar year.
 
@@ -100,7 +100,7 @@ Section was enacted as part of the Counterintelligence and Security Enhancements
 
 “(C) The Director of the Federal Bureau of Investigation shall submit each report under this paragraph in consultation with the Director of Central Intelligence and the Secretary of Defense.”
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–306, §903(a)(1), (3), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Board shall serve as the principal mechanism for—
+2002—Subsec. (b). Pub. L. 107–306, §903(a)(1), (3), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Board shall serve as the principal mechanism for—
 
 &emsp;“(1) developing policies and procedures for the approval of the President to govern the conduct of counterintelligence activities; and
 
@@ -114,7 +114,7 @@ Subsec. (d). Pub. L. 107–306, §903(c), added subsec. (d).
 
 Subsec. (e). Pub. L. 107–306, §903(a)(2), redesignated subsec. (c) as (e).
 
-<b>2000</b>—Subsec. (c)(1). Pub. L. 106–567, §605(a)(1), substituted “paragraph (5)” for “paragraph (3)”.
+2000—Subsec. (c)(1). Pub. L. 106–567, §605(a)(1), substituted “paragraph (5)” for “paragraph (3)”.
 
 Subsec. (c)(2). Pub. L. 106–567, §605(a)(1), (b), substituted “paragraph (5)” for “paragraph (3)” and inserted “in a timely manner” after “through appropriate channels” and “are consulted”.
 
@@ -126,7 +126,7 @@ Subsec. (c)(5). Pub. L. 106–567, §605(a)(2), (4), redesignated par. (3) as (5
 
 Subsec. (c)(6) to (8). Pub. L. 106–567, §605(a)(2), redesignated pars. (4) to (6) as (6) to (8), respectively.
 
-<b>1999</b>—Subsec. (c)(2). Pub. L. 106–120 struck out “after a report has been provided pursuant to paragraph (1)(A)” before period at end.
+1999—Subsec. (c)(2). Pub. L. 106–120 struck out “after a report has been provided pursuant to paragraph (1)(A)” before period at end.
 
 #### Effective Date of 2004 Amendment
 

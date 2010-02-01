@@ -28,7 +28,7 @@ In the administration of the provisions of this section, the Commissioner shall 
 
 #### (1) In general
 
-&emsp;If there is no center for independent living serving a region of the State or a region is underserved, and the increase in the allotment of the State is sufficient to support an additional center for independent living in the State, theCommissioner may award a grant under this section to the most qualified applicant proposing to serve such region, consistent with the provisions in the State plan setting forth the design of the State for establishing a statewide network of centers for independent living.
+&emsp;If there is no center for independent living serving a region of the State or a region is underserved, and the increase in the allotment of the State is sufficient to support an additional center for independent living in the State, the Commissioner may award a grant under this section to the most qualified applicant proposing to serve such region, consistent with the provisions in the State plan setting forth the design of the State for establishing a statewide network of centers for independent living.
 
 #### (2) Selection
 

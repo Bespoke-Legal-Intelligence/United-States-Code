@@ -13,7 +13,8 @@
 | [2359b.](%C2%A7%2002359b%20-%20Defense%20Acquisition%20Challenge%20Program.md) | Defense Acquisition Challenge Program. |
 | [2360\.](%C2%A7%2002360%20-%20Research%20and%20development%20laboratories%20contracts%20for%20services%20of%20university%20students.md) | Research and development laboratories: contracts for services of university students. |
 | [2361\.](%C2%A7%2002361%20-%20Award%20of%20grants%20and%20contracts%20to%20colleges%20and%20universities%20requirement%20of%20competition.md) | Award of grants and contracts to colleges and universities: requirement of competition. |
-| \[2362, 2363. Repealed.\] |  |
+| [2362\.](%C2%A7%2002362%20-%20Research%20and%20educational%20programs%20and%20activities%20historically%20black%20colleges%20and%20universities%20and%20minority-serving%20institutions%20of%20higher%E2%80%A6.md) | Research and educational programs and activities: historically black colleges and universities and minority-serving institutions of higher education. |
+| \[2363. | Repealed.\] |
 | [2364\.](%C2%A7%2002364%20-%20Coordination%20and%20communication%20of%20defense%20research%20activities.md) | Coordination and communication of defense research activities. |
 | [2365\.](%C2%A7%2002365%20-%20Global%20Research%20Watch%20Program.md) | Global Research Watch Program. |
 | [2366\.](%C2%A7%2002366%20-%20Major%20systems%20and%20munitions%20programs%20survivability%20testing%20and%20lethality%20testing%20required%20before%20full-scale%20production.md) | Major systems and munitions programs: survivability testing and lethality testing required before full-scale production. |
@@ -32,6 +33,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. A, title II, §252(b), Oct. 28, 2009, 123 Stat. 2243, added item 2362.
 
 2008—Pub. L. 110–417, \[div. A\], title VIII, §813(c), Oct. 14, 2008, 122 Stat. 4527, added items 2366a and 2366b and struck out former items 2366a “Major defense acquisition programs: certification required before Milestone B approval or Key Decision Point B approval” and 2366b “Major defense acquisition programs: certification required before Milestone A or Key Decision Point A approval”.
 
@@ -111,7 +114,7 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 - [&sect; 02359b - Defense Acquisition Challenge Program](%C2%A7%2002359b%20-%20Defense%20Acquisition%20Challenge%20Program.md)
 - [&sect; 02360 - Research and development laboratories contracts for services of university students](%C2%A7%2002360%20-%20Research%20and%20development%20laboratories%20contracts%20for%20services%20of%20university%20students.md)
 - [&sect; 02361 - Award of grants and contracts to colleges and universities requirement of competition](%C2%A7%2002361%20-%20Award%20of%20grants%20and%20contracts%20to%20colleges%20and%20universities%20requirement%20of%20competition.md)
-- [&sect; 02362 - Repealed. Pub. L. 103&#8211;160, div. A, title VIII, &sect;821(a)(3), Nov. 30, 1993, 107 Stat. 1704](%C2%A7%2002362%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93160%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7821%28a%29%283%29%2C%20Nov.%2030%2C%201993%2C%20107%20Stat.%201704.md)
+- [&sect; 02362 - Research and educational programs and activities historically black colleges and universities and minority-serving institutions of higher&#8230;](%C2%A7%2002362%20-%20Research%20and%20educational%20programs%20and%20activities%20historically%20black%20colleges%20and%20universities%20and%20minority-serving%20institutions%20of%20higher%E2%80%A6.md)
 - [&sect; 02363 - Repealed. Pub. L. 102&#8211;484, div. D, title XLII, &sect;&sect;4224(c), 4271(a)(2), Oct. 23, 1992, 106 Stat. 2683, 2695](%C2%A7%2002363%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93484%2C%20div.%20D%2C%20title%20XLII%2C%20%C2%A7%C2%A74224%28c%29%2C%204271%28a%29%282%29%2C%20Oct.%2023%2C%201992%2C%20106%20Stat.%202683%2C%202695.md)
 - [&sect; 02364 - Coordination and communication of defense research activities](%C2%A7%2002364%20-%20Coordination%20and%20communication%20of%20defense%20research%20activities.md)
 - [&sect; 02365 - Global Research Watch Program](%C2%A7%2002365%20-%20Global%20Research%20Watch%20Program.md)

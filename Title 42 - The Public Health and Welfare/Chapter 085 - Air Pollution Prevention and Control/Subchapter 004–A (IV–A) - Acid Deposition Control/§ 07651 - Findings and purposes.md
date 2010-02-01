@@ -38,7 +38,7 @@ Section 406 of Pub. L. 101–549 provided that:
 
 “(a)
 
-Report.—Not later than January 1, 1995 and every 5 years thereafter, the Administrator of the Environmental Protection Agency shall transmit to the Congress a report containing an inventory of national annual sulfur dioxide emissions from industrial sources (as defined in title IV of the Act \[42 U.S.C. 7651 et seq.\]), including units subject to section 405(g)(6) of the Clean Air Act \[42 U.S.C. 7651d(g)(6)\], for all years for which data are available, as well as the likely trend in such emissions over the following twenty-year period. The reports shall also contain estimates of the actual emission reduction in each year resulting from promulgation of the diesel fuel desulfurization regulations under section 214 \[42 U.S.C. 7548\].
+Report.—Not later than January 1, 1995 and every 5 years thereafter, the Administrator of the Environmental Protection Agency shall transmit to theCongress a report containing an inventory of national annual sulfur dioxide emissions from industrial sources (as defined in title IV of the Act \[42 U.S.C. 7651 et seq.\]), including units subject to section 405(g)(6) of the Clean Air Act \[42 U.S.C. 7651d(g)(6)\], for all years for which data are available, as well as the likely trend in such emissions over the following twenty-year period. The reports shall also contain estimates of the actual emission reduction in each year resulting from promulgation of the diesel fuel desulfurization regulations under section 214 \[42 U.S.C. 7548\].
 
 “(b) 5.60
 
@@ -64,7 +64,7 @@ Reports to Congress.—The Administrator of the Environmental Protection Agency,
 
 “(b)
 
-Contents.—The report to Congress shall analyze the current emission levels of sulfur dioxide and nitrogen oxides in each of the provinces participating in Canada's acid rain control program, the amount of emission reductions of sulfur dioxide and oxides of nitrogen achieved by each province, the methods utilized by each province in making those reductions, the coststo each province and the employment impacts in each province of making and maintaining those reductions.
+Contents.—The report to Congress shall analyze the current emission levels of sulfur dioxide and nitrogen oxides in each of the provinces participating in Canada's acid rain control program, the amount of emission reductions of sulfur dioxide and oxides of nitrogen achieved by each province, the methods utilized by each province in making those reductions, the costs to each province and the employment impacts in each province of making and maintaining those reductions.
 
 “(c)
 

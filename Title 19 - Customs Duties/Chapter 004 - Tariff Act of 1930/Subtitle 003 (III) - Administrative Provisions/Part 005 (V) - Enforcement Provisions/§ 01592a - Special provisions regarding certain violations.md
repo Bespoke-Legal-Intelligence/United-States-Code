@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) Using documentation, or providing documentation subsequently used by the importer of record, which indicates a false or fraudulent country of origin or source of textile or apparel products.
 
-&emsp;&emsp;(B) Using counterfeit visas, licenses, permits, bills of lading, or similar documentation, or providing counterfeit visas, licenses, permits, bills of lading, or similar documentation that is subsequently used by the importer of record, with respect to the entry into the customs territory of the United States of textile or apparel products.
+&emsp;&emsp;(B) Using counterfeit visas, licenses, permits, bills of lading, or similar documentation, or providing counterfeit visas, licenses,permits, bills of lading, or similar documentation that is subsequently used by the importer of record, with respect to the entry into the customs territory of the United States of textile or apparel products.
 
 &emsp;&emsp;(C) Manufacturing, producing, supplying, or selling textile or apparel products which are falsely or fraudulently labelled as to country of origin or source.
 
@@ -32,7 +32,7 @@
 
 #### (A) Responsibility of importers and others
 
-&emsp;&emsp;After the name of a person has been published under paragraph (1), the Secretary of the Treasury shall require any importer of record entering, introducing, or attempting to introduce into the commerce of the United States textile or apparel products that were either directly or indirectly produced, manufactured, supplied, sold, exported, or transported by such named personto show, to the satisfaction of the Secretary, that such importer has exercised reasonable care to ensure that the textile or apparel products are accompanied by documentation, packaging, and labelling that are accurate as to its origin. Such reasonable care shall not include reliance solely on a source of information which is the named person.
+&emsp;&emsp;After the name of a person has been published under paragraph (1), the Secretary of the Treasury shall require any importer of record entering, introducing, or attempting to introduce into the commerce of the United States textile or apparel products that were either directly or indirectly produced, manufactured, supplied, sold, exported, or transported by such named person to show, to the satisfaction of the Secretary, that such importer has exercised reasonable care to ensure that the textile or apparel products are accompanied by documentation, packaging, and labelling that are accurate as to its origin. Such reasonable care shall not include reliance solely on a source of information which is the named person.
 
 #### (B) Failure to exercise reasonable care
 

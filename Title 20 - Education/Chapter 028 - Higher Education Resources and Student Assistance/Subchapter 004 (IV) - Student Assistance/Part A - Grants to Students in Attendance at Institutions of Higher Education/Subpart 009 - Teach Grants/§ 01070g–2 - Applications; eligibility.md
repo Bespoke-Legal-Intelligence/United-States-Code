@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) the student—
 
-&emsp;&emsp;&emsp;&emsp;(I) has a grade point average that is determined, under standards prescribed by the Secretary, to be comparable to a 3.25 average on a zero to 4.0 scale, except that, if the student is in the first year of a program of undergraduate education, such grade point average shall be determined on the basis of the student's cumulative secondary school grade point average; or
+&emsp;&emsp;&emsp;&emsp;(I) has a grade point average that is determined, under standards prescribed by the Secretary, to be comparable to a 3.25 average on a zero to 4.0 scale, except that, if the student is in the first year ofa program of undergraduate education, such grade point average shall be determined on the basis of the student's cumulative secondary school grade point average; or
 
 &emsp;&emsp;&emsp;&emsp;(II) displayed high academic aptitude by receiving a score above the 75th percentile on at least one of the batteries in an undergraduate, post-baccalaureate, or graduate school admissions test; and
 
@@ -58,7 +58,7 @@ Each application under subsection (a) shall contain or be accompanied by an agre
 
 &emsp;&emsp;(E) comply with the requirements for being a highly qualified teacher as defined in section 7801 of this title;
 
-&emsp;(2) in the event that the applicant is determined to have failed or refused to carry outsuch service obligation, the sum of the amounts of any TEACH Grants received by such applicant will be treated as a loan and collected from the applicant in accordance with subsection (c) and the regulations thereunder; and
+&emsp;(2) in the event that the applicant is determined to have failed or refused to carry out such service obligation, the sum of the amounts of any TEACH Grants received by such applicant will be treated as a loan and collected from the applicant in accordance with subsection (c) and the regulations thereunder; and
 
 &emsp;(3) contains, or is accompanied by, a plain-language disclosure form developed by the Secretary that clearly describes the nature of the TEACH Grant award, the service obligation, and the loan repayment requirements that are the consequence of the failure to complete the service obligation.
 

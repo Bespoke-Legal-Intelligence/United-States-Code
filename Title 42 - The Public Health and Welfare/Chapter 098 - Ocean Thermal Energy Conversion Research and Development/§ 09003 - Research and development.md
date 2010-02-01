@@ -6,7 +6,7 @@ The Secretary shall initiate research or accelerate existing research in areas i
 
 #### (b) Evaluations, tests, and dissemination of information, data, and materials
 
-The Secretary shall conduct evaluations, arrange for tests, and disseminate to developers information, data, and materials necessary to support the design efforts undertaken pursuant to section 9004 of this title. Specific technical areas to be addressed shall include, but not be limited to—
+The Secretary shall conduct evaluations, arrange for tests, and disseminate to developersinformation, data, and materials necessary to support the design efforts undertaken pursuant to section 9004 of this title. Specific technical areas to be addressed shall include, but not be limited to—
 
 &emsp;(1) interface requirements between the platform and cold water pipe;
 

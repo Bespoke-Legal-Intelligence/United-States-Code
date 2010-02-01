@@ -2,23 +2,11 @@
 
 #### (a) In general
 
-The Corporation shall provide, through grants or contracts, for the continuing evaluation of programs that receive assistance under the national service laws, including evaluations that measure the impact of such programs, to determine—
+The Corporation shall provide, directly or through grants or contracts, for the continuing evaluation of programs that receive assistance under the national service laws, including evaluations that measure the impact of such programs, to determine—
 
-&emsp;(1) the effectiveness of various program models in achieving stated goals and the costs associated with such;
+&emsp;(1) the effectiveness of programs receiving assistance under the national service laws in achieving stated goals and the costs associated with such programs, including an evaluation of each such program's performance based on the performance levels established under subsection (k); and
 
-&emsp;(2) with respect to the programs authorized under division C of this subchapter, the impact of such programs, in each State in which a program is conducted, on the ability of—
-
-&emsp;&emsp;(A) the VISTA and National Senior Volunteer Corps programs (established under the Domestic Volunteer Services <sup>1</sup> Act of 1973 (42 U.S.C. 4950 et seq.));
-
-&emsp;&emsp;(B) each regular component of the Armed Forces (as defined in section 101(a)(4) of title 10);
-
-&emsp;&emsp;(C) each of the reserve components of the Armed Forces (as described in section 10101 of title 10); and
-
-&emsp;&emsp;(D) the Peace Corps (as established by the Peace Corps Act (22 U.S.C. 2501 et seq.));
-
-> &emsp;to recruit individuals residing in such State to serve in such program; and
-
-&emsp;(3) the structure and mechanisms for delivery of services for such programs.
+&emsp;(2) the effectiveness of the structure and mechanisms for delivery of services, such as the effective utilization of the participants’ time, the management of the participants, and the ease with which recipients were able to receive services, to maximize the cost effectiveness and the impact of such programs.
 
 #### (b) Comparisons
 
@@ -38,17 +26,17 @@ In evaluating a program receiving assistance under the national service laws, th
 
 #### (f) Comparison of program models
 
-The Corporation shall evaluate and compare the effectiveness of different program models inmeeting the program objectives described in subsection (g) of this section including full- and part-time programs, programs involving different types of national service, programs using different recruitment methods, programs offering alternative voucher or post-service benefit options, and programs utilizing individual placements and teams.
+The Corporation shall evaluate and compare the effectiveness of different program models in meeting the program objectives described in subsection (g) of this section including full- and part-time programs, programs involving different types of national service, programs using different recruitment methods, programs offering alternative voucher or post-service benefit options, and programs utilizing individual placements and teams.
 
 #### (g) Program objectives
 
 The Corporation shall ensure that programs that receive assistance under division C of this subchapter are evaluated to determine their effectiveness in—
 
-&emsp;(1) recruiting and enrolling diverse participants in such programs, consistent with the requirements of section 12575 <sup>2</sup> of this title, based on economic background, race, ethnicity, age, marital status, education levels, and disability;
+&emsp;(1) recruiting and enrolling diverse participants in such programs, consistent with the requirements of section 12575 <sup>1</sup> of this title, based on economic background, race, ethnicity, age, marital status, education levels, and disability;
 
 &emsp;(2) promoting the educational achievement of each participant in such programs, based on earning a high school diploma or the equivalent of such diploma and the future enrollment and completion of increasingly higher levels of education;
 
-&emsp;(3) encouraging each participant to engage in public and community service after completion of the program based on career choices and service in other service programs such as the Volunteers in Service to America Program and National Senior Volunteer Corps programs established under the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4950 et seq.), the Peace Corps (as established by the Peace Corps Act (22 U.S.C. 2501 et seq.)), the military, and part-time volunteer service;
+&emsp;(3) encouraging each participant to engage in public and community service after completion of the program based on career choices and service in other service programs such as the Volunteers in Service to America Program and National Senior Service Corps programs established under the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4950 et seq.), the Peace Corps (as established by the Peace Corps Act (22 U.S.C. 2501 et seq.)), the military, and part-time volunteer service;
 
 &emsp;(4) promoting of positive attitudes among each participant regarding the role of such participant in solving community problems based on the view of such participant regarding the personal capacity of such participant to improve the lives of others, the responsibilities of such participant as a citizen and community member, and other factors;
 
@@ -60,7 +48,7 @@ The Corporation shall ensure that programs that receive assistance under divisio
 
 &emsp;(8) providing services and activities that could not otherwise be performed by employed workers and that will not supplant the hiring of, or result in the displacement of, employed workers or impair the existing contracts of such workers; and
 
-&emsp;(9) attracting a greater number of citizens to public service, including service in the active and reserve components of the Armed Forces, the National Guard, the Peace Corps (as established by the Peace Corps Act (22 U.S.C. 2501 et seq.)), and the VISTA and National Senior Volunteer Corps programs established under the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4950 et seq.).
+&emsp;(9) attracting a greater number of citizens to engage in service that benefits the community.
 
 #### (h) Obtaining information
 
@@ -112,23 +100,105 @@ The Corporation shall ensure that programs that receive assistance under divisio
 
 #### (2) Report
 
-&emsp;The entity conducting the evaluation shall submit a report to the President, Congress,the Corporation, and each State Commission containing the results of the evaluation—
+&emsp;The entity conducting the evaluation shall submit a report to the President, the authorizing committees, the Corporation, and each State Commission containing the results of the evaluation—
 
 &emsp;&emsp;(A) with respect to the evaluation covering the year beginning on September 21, 1993, not later than 18 months after September 21, 1993; and
 
 &emsp;&emsp;(B) with respect to the evaluation covering each subsequent year, not later than 18 months after the first day of each such year.
 
-(Pub. L. 101–610, title I, §179, Nov. 16, 1990, 104 Stat. 3164; Pub. L. 102–384, §§4, 9, Oct. 5, 1992, 106 Stat. 1455, 1456; Pub. L. 103–82, title I, §118, title II, §203(a)(1)(A), title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 865, 891, 918; Pub. L. 103–160, div. A, title XI, §1182(d)(4), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 104–106, div. A, title XV, §1501(e)(5), Feb. 10, 1996, 110 Stat. 501.)
+#### (j) Reserved program funds for accountability
+
+Notwithstanding any other provision of law, in addition to amounts appropriated to carry out this section, the Corporation may reserve not more than 1 percent of the total funds appropriated for a fiscal year under section 12681 of this title and sections 501 and 502 of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 5081, 5082\] to support program accountability activities under this section.
+
+#### (k) Performance levels
+
+The Corporation shall, in consultation with each recipient of assistance under the national service laws, establish performance levels for such recipient to meet during the term of the assistance. The performance levels may include, for each national service program carried out by the recipient, performance levels based on the following performance measures:
+
+&emsp;(1) Number of participants enrolled in the program and completing terms of service, as compared to the stated participation and retention goals of the program.
+
+&emsp;(2) Number of volunteers recruited from the community in which the program was implemented.
+
+&emsp;(3) If applicable based on the program design, the number of individuals receiving or benefitting from the service conducted.
+
+&emsp;(4) Number of disadvantaged and underrepresented youth participants.
+
+&emsp;(5) Measures of the sustainability of the program and the projects supported by the program, including measures to ascertain the level of community support for the program or projects.
+
+&emsp;(6) Measures to ascertain the change in attitude toward civic engagement among the participants and the beneficiaries of the service.
+
+&emsp;(7) Other quantitative and qualitative measures as determined to be appropriate by the recipient of assistance and the Corporation.
+
+#### (<i>l</i>) Corrective action plans
+
+#### (1) In general
+
+&emsp;A recipient of assistance under the national service laws that fails, as determined by the Corporation, to meet or exceed the performance levels agreed upon under subsection (k) for a national service program, shall reach an agreement with the Corporation on a corrective action plan to meet such performance levels.
+
+#### (2) Assistance
+
+#### (A) New program
+
+&emsp;&emsp;For a program that has received assistance under the national service laws for less than 3 years and for which the recipient is failing to meet or exceed the performance levels agreed upon under subsection (k), the Corporation shall—
+
+&emsp;&emsp;&emsp;(i) provide technical assistance to the recipient to address targeted performance problems relating to the performance levels for the program; and
+
+&emsp;&emsp;&emsp;(ii) require the recipient to submit quarterly reports on the program's progress toward meeting the performance levels for the program to the—
+
+&emsp;&emsp;&emsp;&emsp;(I) appropriate State, territory, or Indian tribe; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the Corporation.
+
+#### (B) Established programs
+
+&emsp;&emsp;For a program that has received assistance under the national service laws for 3 years or more and for which the recipient is failing to meet or exceed the performance levels agreed upon under subsection (k), the Corporation shall require the recipient to submit quarterly reports on the program's progress toward the performance levels for the program to—
+
+&emsp;&emsp;&emsp;(i) the appropriate State, territory, or Indian tribe; and
+
+&emsp;&emsp;&emsp;(ii) the Corporation.
+
+#### (m) Failure to meet performance levels
+
+If, after a period for correction as approved by the Corporation in accordance with subsection (<i>l</i>), a recipient of assistance under the national service laws fails to meet or exceed the performance levels for a national service program, the Corporation shall—
+
+&emsp;(1) reduce the annual amount of the assistance received by the underperforming recipient by at least 25 percent, for each remaining year of the grant period for that program; or
+
+&emsp;(2) terminate assistance to the underperforming recipient for that program, in accordance with section 12636(a) of this title.
+
+#### (n) Reports
+
+The Corporation shall submit to the authorizing committees not later than 2 years after April 21, 2009, and annually thereafter, a report containing information on the number of—
+
+&emsp;(1) recipients of assistance under the national service laws implementing corrective action plans under subsection (<i>l</i>)(1);
+
+&emsp;(2) recipients for which the Corporation provides technical assistance for a program under subsection (<i>l</i>)(2)(A)(i);
+
+&emsp;(3) recipients for which the Corporation terminates assistance for a program under subsection (m);
+
+&emsp;(4) entities whose application for assistance under a national service law was rejected; and
+
+&emsp;(5) recipients meeting or exceeding their performance levels under subsection (k).
+
+(Pub. L. 101–610, title I, §179, Nov. 16, 1990, 104 Stat. 3164; Pub. L. 102–384, §§4, 9, Oct. 5, 1992, 106 Stat. 1455, 1456; Pub. L. 103–82, title I, §118, title II, §203(a)(1)(A), title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 865, 891, 918; Pub. L. 103–160, div. A, title XI, §1182(d)(4), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 104–106, div. A, title XV, §1501(e)(5), Feb. 10, 1996, 110 Stat. 501; Pub. L. 111–13, title I, §1607, Apr. 21, 2009, 123 Stat. 1532.)
 
 #### References in Text
 
-The Peace Corps Act, referred to in subsecs. (a)(2)(D) and (g)(3), (9), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of that Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
-
 Section 12575 of this title, referred to in subsec. (g)(1), was in the original a reference to section 145 of Pub. L. 101–610. Section 145 of Pub. L. 101–610 was omitted in the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 816. Pub. L. 103–82 enacted a new section 125 of Pub. L. 101–610, relating to training and technical assistance, and a new section 145, relating to establishment of the National Service Trust, which are classified to sections 12575 and sections 12601, respectively, of this title. Provisions relating to the eligibility of individuals for participation in national service programs are now contained in section 12591 et seq. of this title.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (g)(3), (9), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (g)(3), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified principally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+
+The Peace Corps Act, referred to in subsec. (g)(3), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of that Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–13, §1607(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) directed the Corporation to provide, through grants or contracts, for continuing evaluation of programs receiving assistance under the national service laws to determine the effectiveness and costs of various program models and, with respect to programs authorized under division C, to determine the impact of those programs on the recruitment ability of VISTA and National Senior Volunteer Corps programs, each regular component of the Armed Forces, each of the reserve components of the Armed Forces, and the Peace Corps.
+
+Subsec. (g)(3). Pub. L. 111–13, §1607(2)(A), substituted “National Senior Service Corps” for “National Senior Volunteer Corps”.
+
+Subsec. (g)(9). Pub. L. 111–13, §1607(2)(B), substituted “to engage in service that benefits the community.” for “to public service, including service in the active and reserve components of the Armed Forces, the National Guard, the Peace Corps (as established by the Peace Corps Act (22 U.S.C. 2501 et seq.)), and the VISTA and National Senior Volunteer Corps programs established under the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4950 et seq.).”
+
+Subsec. (i)(2). Pub. L. 111–13, §1607(3), substituted “the authorizing committees” for “Congress” in introductory provisions.
+
+Subsecs. (j) to (n). Pub. L. 111–13, §1607(4), added subsecs. (j) to (n).
 
 1996—Subsec. (a)(2)(C). Pub. L. 104–106 substituted “section 10101 of title 10” for “section 216(a) of title 5”.
 
@@ -174,6 +244,10 @@ Subsec. (h)(1). Pub. L. 102–384, §9(3)(A), substituted “this section” for
 
 Subsec. (h)(2). Pub. L. 102–384, §9(3)(B), added par. (2) and struck out former par. (2) which read as follows: “The Commission shall keep information acquired under this section confidential.”
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
@@ -186,7 +260,5 @@ Amendment by section 203(a)(1)(A) of Pub. L. 103–82 effective Apr. 4, 1994, se
 
 Amendment by section 402(b)(1) of Pub. L. 103–82 effective Oct. 1, 1993, see section 406(a) of Pub. L. 103–82, set out as a note under section 5061 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Service”.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

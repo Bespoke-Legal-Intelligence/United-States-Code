@@ -76,7 +76,7 @@ In general.—The head of an executive agency who engages in basic research, app
 
 &emsp;“(2)
 
-Prototype projects.—The head of an executive agency may, under the authority of paragraph (1), carry out prototype projects that meet the requirements of subparagraphs (A) and (B) of paragraph (1) in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note), including that, to the maximum extent practicable, competitive procedures shall beused when entering into agreements to carry out projects under subsection (a) of that section and that the period of authority to carry out projects under such subsection (a) terminates as provided in subsection (g) \[now (i)\] of that section.
+Prototype projects.—The head of an executive agency may, under the authority of paragraph (1), carry out prototype projects that meet the requirements of subparagraphs (A) and (B) of paragraph (1) in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note), including that, to the maximum extent practicable, competitive procedures shall be used when entering into agreements to carry out projects under subsection (a) of that section and that the period of authority to carry out projects under such subsection (a) terminates as provided in subsection (g) \[now (i)\] of that section.
 
 &emsp;“(3)
 

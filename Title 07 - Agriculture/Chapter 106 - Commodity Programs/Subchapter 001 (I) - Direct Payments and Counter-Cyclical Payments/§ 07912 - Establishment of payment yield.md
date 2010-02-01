@@ -28,13 +28,13 @@ In the case of a farm for which a farm program payment yield is unavailable for 
 
 #### (3) Use of partial county average yield
 
-&emsp;If the yield per planted acre for a crop of an oilseed for a farm for any of the 1998 through 2001 crop years was less than 75 percent of the county yield for that oilseed, the Secretary shall assign a yield for that crop year equal to 75 percent of the county yield for the purpose of determining the average under paragraph (1).
+&emsp;If the yield per planted acre for a crop of an oilseed for a farm for any of the 1998 through 2001 crop years was less than 75 percent of the county yield for that oilseed, the Secretaryshall assign a yield for that crop year equal to 75 percent of the county yield for the purpose of determining the average under paragraph (1).
 
 #### (e) Opportunity to partially update yields used to determine counter-cyclical payments
 
 #### (1) Election to update
 
-&emsp;If the owner of a farm elects to use the base acres calculation method described in section 7911(a)(1)(A) of this title, the owner shall also have a 1-time opportunity to elect to use 1 ofthe methods described in paragraph (3) to partially update the payment yields that would otherwise be used in calculating any counter-cyclical payments for covered commodities on the farm.
+&emsp;If the owner of a farm elects to use the base acres calculation method described in section 7911(a)(1)(A) of this title, the owner shall also have a 1-time opportunity to elect to use 1 of the methods described in paragraph (3) to partially update the payment yields that would otherwise be used in calculating any counter-cyclical payments for covered commodities on the farm.
 
 #### (2) Time for election
 

@@ -96,7 +96,7 @@ For purposes of this section:
 
 #### (e) Living allowances
 
-The Secretaries shall provide each participant in the Urban Youth Corps with a living allowance in an amount not to exceed the maximum living allowance authorized by section 140(a)(3) of the National and Community Service Act of 1990 \[42 U.S.C. 12594(a)(3)\] for participants in a national service program assisted under subtitle C of title I of such Act \[42 U.S.C. 12571 et seq.\].
+The Secretaries shall provide each participant in the Urban Youth Corps with a living allowance in an amount not to exceed the maximum living allowance authorized by section 140(a)(3) <sup>1</sup> of the National and Community Service Act of 1990 for participants in a national service program assisted under subtitle C of title I of such Act \[42 U.S.C. 12571 et seq.\].
 
 #### (f) Terms of service
 
@@ -120,7 +120,7 @@ The nondisplacement requirements of section 177 of the National and Community Se
 
 #### (1) Projects by qualified urban youth corps
 
-&emsp;The Secretaries are each authorized to pay not more than 75 percent of the costs of anyappropriate service project carried out pursuant to this section by a qualified urban youth corps. The remaining 25 percent of the costs of such a project may be provided from nonfederal sources in the form of funds, services, facilities, materials, equipment, or any combination of the foregoing.
+&emsp;The Secretaries are each authorized to pay not more than 75 percent of the costs of any appropriate service project carried out pursuant to this section by a qualified urban youth corps. The remaining 25 percent of the costs of such a project may be provided from nonfederal sources in the form of funds, services, facilities, materials, equipment, or any combination of the foregoing.
 
 #### (2) Donations
 
@@ -134,11 +134,9 @@ The nondisplacement requirements of section 177 of the National and Community Se
 
 #### References in Text
 
-The civil service laws, referred to in subsec. (d)(1), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
+Section 140(a)(3) of the National and Community Service Act of 1990, referred to in subsec. (e), was redesignated section 140(a)(2) of the Act by Pub. L. 111–13, title I, §1315(1)(C), Apr. 21, 2009, 123 Stat. 1511, and is classified to section 12594(a)(2) of this title.
 
-The classification laws, referred to in subsec. (d)(1), are classified to chapter 51 (§5101 et seq.) and subchapter III (§5331 et seq.) of chapter 53 of Title 5.
-
-The National and Community Service Act of 1990, referred to in subsecs. (e), (f), and (g)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitles C and D of title I of the Act are classified generally to divisions C (§12571 et seq.) and D (§12601 et seq.), respectively, of this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+The National and Community Service Act of 1990, referred to in subsecs. (e), (f), and (g)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Subtitles C and D of title I of the Act are classified generally to divisions C (§12571 et seq.) and D (§12601 et seq.), respectively, of this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 #### Codification
 

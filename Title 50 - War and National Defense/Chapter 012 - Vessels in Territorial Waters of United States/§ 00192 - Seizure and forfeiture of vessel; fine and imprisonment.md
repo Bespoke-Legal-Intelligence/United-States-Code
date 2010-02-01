@@ -38,17 +38,17 @@ In subsec. (e)(1), “section 60105 of title 46” substituted for “section 41
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–293, §802(b)(1), substituted “title” for “Act” in two places.
+2004—Subsec. (c). Pub. L. 108–293, §802(b)(1), substituted “title” for “Act” in two places.
 
 Subsecs. (d), (e). Pub. L. 108–293, §802(b)(2), added subsecs. (d) and (e).
 
-<b>2002</b>—Pub. L. 107–295 inserted subsec. headings, designated first par. as subsec. (a), redesignated former subsec. (a) as (b), and added subsec. (c).
+2002—Pub. L. 107–295 inserted subsec. headings, designated first par. as subsec. (a), redesignated former subsec. (a) as (b), and added subsec. (c).
 
-<b>1950</b>—Subsec. (a). Act Aug. 9, 1950, added subsec. (a).
+1950—Subsec. (a). Act Aug. 9, 1950, added subsec. (a).
 
-<b>1941</b>—Act Nov. 15, 1941, struck out “by the Secretary of the Treasury or the Governor of the Panama Canal” before “under the provisions of this title”.
+1941—Act Nov. 15, 1941, struck out “by the Secretary of the Treasury or the Governor of the Panama Canal” before “under the provisions of this title”.
 
-<b>1940</b>—Act Mar. 28, 1940, increased term of imprisonment.
+1940—Act Mar. 28, 1940, increased term of imprisonment.
 
 #### Termination Date of 1950 Amendment
 

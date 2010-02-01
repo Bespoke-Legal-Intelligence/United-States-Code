@@ -159,7 +159,7 @@ Subsec. (f). Pub. L. 105–34, §506(a), added subsec. (f).
 
 1993—Subsec. (c)(1). Pub. L. 103–66, §13208(a), substituted in table provisions that if the amount on which the tax is computed is over $2,500,000 but not over $3,000,000, then the tentative tax is $1,025,800, plus 53% of the excess over $2,500,000 and if the amount on which the tax is computed is over $3,000,000, then the tentative tax is $1,290,800, plus 55% of the excess over $3,000,000 for provisions that if the amount on which the tax is computed is over $2,500,000, then the tentative tax is $1,025,800, plus 50% of the excess over $2,500,000.
 
-Subsec. (c)(2), (3). Pub. L. 103–66, §13208(b)(1), (2), redesignated par. (3) as (2), struck out “($18,340,000 in the case of decedents dying, and gifts made, after 1992)” after “exceed $21,040,000”, and struck out former par. (2) which related to the rates of tax on estates under this section for the years 1982 to 1992.
+Subsec. (c)(2), (3). Pub. L. 103–66, §13208(b)(1), (2), redesignated par. (3) as (2), struck out “($18,340,000 in thecase of decedents dying, and gifts made, after 1992)” after “exceed $21,040,000”, and struck out former par. (2) which related to the rates of tax on estates under this section for the years 1982 to 1992.
 
 1987—Subsec. (b)(1). Pub. L. 100–203, §10401(b)(2)(A)(i), substituted “under subsection (c)” for “in accordance with the rate schedule set forth in subsection (c)”.
 
@@ -235,7 +235,7 @@ Section 2001(d)(1) of Pub. L. 94–455 provided that: “The amendments made by 
 
 #### Short Title
 
-Pub. L. 91–614, §1(a), Dec. 31, 1970, 84 Stat. 1836, provided that: “This Act \[enacting section 6905 of this title, section 1232a of Title 15, Commerce and Trade, and section 1033 of former Title 31, Money and Finance, amending sections 56, 1015, 1223, 2012, 2032, 2055, 2204, 2501, 2502, 2503, 2504, 2512, 2513, 2515, 2521, 2522, 2523, 4061, 4063, 4216, 4251, 4491, 6019, 6040, 6075, 6091, 6161, 6212, 6214, 6324, 6412, 6416, 6501, 6504, and 6512 of this title, and enacting provisions set out as notes under sections 56, 2032, 2204, 2501, 4063, 4216, 4251, 4491, and 6905 of this title\] may be cited as the ‘Excise, Estate, and Gift Tax Adjustment Act of 1970’.”
+Pub. L. 91–614, §1(a), Dec. 31, 1970, 84 Stat. 1836, provided that: “This Act \[enacting section 6905 of this title, section 1232a of Title 15, Commerce and Trade, and section 1033 of former Title 31, Money and Finance,amending sections 56, 1015, 1223, 2012, 2032, 2055, 2204, 2501, 2502, 2503, 2504, 2512, 2513, 2515, 2521, 2522, 2523, 4061, 4063, 4216, 4251, 4491, 6019, 6040, 6075, 6091, 6161, 6212, 6214, 6324, 6412, 6416, 6501, 6504, and 6512 of this title, and enacting provisions set out as notes under sections 56, 2032, 2204, 2501, 4063, 4216, 4251, 4491, and 6905 of this title\] may be cited as the ‘Excise, Estate, and Gift Tax Adjustment Act of 1970’.”
 
 #### Clarification of Treatment of Certain Exemptions for Purposes of Federal Estate and Gift Taxes
 
@@ -255,7 +255,7 @@ In general.—The provisions of subsection (a) shall apply to the estates of dec
 
 &emsp;“(2)
 
-Treatment of certain transfers treated as taxable.—The provisions of subsection (a) shall alsoapply in the case of any transfer of property (or interest therein) if at any time there was filed an estate or gift tax return showing such transfer as subject to Federal estate or gift tax.
+Treatment of certain transfers treated as taxable.—The provisions of subsection (a) shall also apply in the case of any transfer of property (or interest therein) if at any time there was filed an estate or gift tax return showing such transfer as subject to Federal estate or gift tax.
 
 &emsp;“(3)
 

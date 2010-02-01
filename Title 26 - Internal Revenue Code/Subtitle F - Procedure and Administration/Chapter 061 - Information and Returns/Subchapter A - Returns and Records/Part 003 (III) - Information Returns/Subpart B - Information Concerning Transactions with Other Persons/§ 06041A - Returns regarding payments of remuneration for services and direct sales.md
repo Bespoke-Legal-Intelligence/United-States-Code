@@ -28,7 +28,7 @@ If—
 
 #### (A) Buy-sell basis
 
-&emsp;&emsp;A transaction is on a buy-sell basis if the buyer performing the services is entitled to retain part or all of the difference between the price at which the buyer purchases the product and the price at which the buyer sells the product as part or all of the buyer's remuneration for the services, and
+&emsp;&emsp;A transaction is on a buy-sell basis if the buyer performing the services is entitled toretain part or all of the difference between the price at which the buyer purchases the product and the price at which the buyer sells the product as part or all of the buyer's remuneration for the services, and
 
 #### (B) Deposit-commission basis
 

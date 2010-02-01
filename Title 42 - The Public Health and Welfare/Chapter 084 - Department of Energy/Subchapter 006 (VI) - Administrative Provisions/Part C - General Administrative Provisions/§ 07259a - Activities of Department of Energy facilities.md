@@ -30,7 +30,7 @@
 
 (1) The Secretary may, with the cooperation of participating contractors of the contractor-operated facilities of the Department, carry out a pilot program under which the Secretary and such contractors reduce the facility overhead charges imposed under this section for research and other activities conducted under this section.
 
-(2) The Secretary shall carry out the pilot program at contractor-operated facilities selectedby the Secretary in consultation with the contractors concerned.
+(2) The Secretary shall carry out the pilot program at contractor-operated facilities selected by the Secretary in consultation with the contractors concerned.
 
 (3) The Secretary shall determine the facility overhead charges to be imposed under the pilot program at a facility based on a joint review by the Secretary and the contractor for the facility of all items included in the overhead costs of the facility in order to determine which items are appropriately incurred as facility overhead charges by the contractor in carrying out research and other activities at such facility under this section.
 
@@ -50,7 +50,7 @@ The Atomic Energy Act of 1954, referred to in subsec. (a)(2)(A), is act Aug. 1, 
 
 The Energy Reorganization Act of 1974, referred to in subsec. (a)(2)(B), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (a)(2)(C), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
+The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (a)(2)(C), isPub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
 
 #### Codification
 

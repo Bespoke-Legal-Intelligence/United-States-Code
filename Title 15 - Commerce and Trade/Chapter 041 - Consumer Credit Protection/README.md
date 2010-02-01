@@ -21,6 +21,7 @@
 | [1613\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20A%20-%20General%20Provisions/%C2%A7%2001613%20-%20Annual%20reports%20to%20Congress%20by%20Board.md) | Annual reports to Congress by Board. |
 | [1614\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20A%20-%20General%20Provisions/%C2%A7%2001614%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93221%2C%20title%20VI%2C%20%C2%A7616%28b%29%2C%20Mar.%2031%2C%201980%2C%2094%20Stat.%20182.md) | Repealed. |
 | [1615\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20A%20-%20General%20Provisions/%C2%A7%2001615%20-%20Prohibition%20on%20use%20of%20%E2%80%9CRule%20of%2078%27s%E2%80%9D%20in%20connection%20with%20mortgage%20refinancings%20and%20other%20consumer%20loans.md) | Prohibition on use of “Rule of 78's” in connection with mortgage refinancings and other consumer loans. |
+| [1616\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20A%20-%20General%20Provisions/%C2%A7%2001616%20-%20Board%20review%20of%20consumer%20credit%20plans%20and%20regulations.md) | Board review of consumer credit plans and regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -38,7 +39,7 @@
 | [1637a.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001637a%20-%20Disclosure%20requirements%20for%20open%20end%20consumer%20credit%20plans%20secured%20by%20consumer%27s%20principal%20dwelling.md) | Disclosure requirements for open end consumer credit plans secured by consumer's principal dwelling. |
 | [1638\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001638%20-%20Transactions%20other%20than%20under%20an%20open%20end%20credit%20plan.md) | Transactions other than under an open end credit plan. |
 | [1639\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001639%20-%20Requirements%20for%20certain%20mortgages.md) | Requirements for certain mortgages. |
-| [1639a.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001639a%20-%20Fiduciary%20duty%20of%20servicers%20of%20pooled%20residential%20mortgages.md) | Fiduciary duty of servicers of pooled residential mortgages. |
+| [1639a.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001639a%20-%20Duty%20of%20servicers%20of%20residential%20mortgages.md) | Duty of servicers of residential mortgages. |
 | [1640\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001640%20-%20Civil%20liability.md) | Civil liability. |
 | [1641\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001641%20-%20Liability%20of%20assignees.md) | Liability of assignees. |
 | [1642\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001642%20-%20Issuance%20of%20credit%20cards.md) | Issuance of credit cards. |
@@ -50,20 +51,24 @@
 | [1648\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001648%20-%20Reverse%20mortgages.md) | Reverse mortgages. |
 | [1649\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001649%20-%20Certain%20limitations%20on%20liability.md) | Certain limitations on liability. |
 | [1650\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001650%20-%20Preventing%20unfair%20and%20deceptive%20private%20educational%20lending%20practices%20and%20eliminating%20conflicts%20of%20interest.md) | Preventing unfair and deceptive private educational lending practices and eliminating conflicts of interest. |
+| [1651\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001651%20-%20Procedure%20for%20timely%20settlement%20of%20estates%20of%20decedent%20obligors.md) | Procedure for timely settlement of estates of decedent obligors. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part C—Credit Advertising
+#### Part C—Credit Advertising and Limits on Credit Card Fees
 
 |  |  |
 | :--- | ---: |
-| [1661\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising/%C2%A7%2001661%20-%20Catalogs%20and%20multiple-page%20advertisements.md) | Catalogs and multiple-page advertisements. |
-| [1662\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising/%C2%A7%2001662%20-%20Advertising%20of%20downpayments%20and%20installments.md) | Advertising of downpayments and installments. |
-| [1663\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising/%C2%A7%2001663%20-%20Advertising%20of%20open%20end%20credit%20plans.md) | Advertising of open end credit plans. |
-| [1664\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising/%C2%A7%2001664%20-%20Advertising%20of%20credit%20other%20than%20open%20end%20plans.md) | Advertising of credit other than open end plans. |
-| [1665\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising/%C2%A7%2001665%20-%20Nonliability%20of%20advertising%20media.md) | Nonliability of advertising media. |
-| [1665a.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising/%C2%A7%2001665a%20-%20Use%20of%20annual%20percentage%20rate%20in%20oral%20disclosures%3B%20exceptions.md) | Use of annual percentage rate in oral disclosures; exceptions. |
-| [1665b.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising/%C2%A7%2001665b%20-%20Advertising%20of%20open%20end%20consumer%20credit%20plans%20secured%20by%20consumer%27s%20principal%20dwelling.md) | Advertising of open end consumer credit plans secured by consumer's principal dwelling. |
+| [1661\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising%20and%20Limits%20on%20Credit%20Card%20Fees/%C2%A7%2001661%20-%20Catalogs%20and%20multiple-page%20advertisements.md) | Catalogs and multiple-page advertisements. |
+| [1662\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising%20and%20Limits%20on%20Credit%20Card%20Fees/%C2%A7%2001662%20-%20Advertising%20of%20downpayments%20and%20installments.md) | Advertising of downpayments and installments. |
+| [1663\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising%20and%20Limits%20on%20Credit%20Card%20Fees/%C2%A7%2001663%20-%20Advertising%20of%20open%20end%20credit%20plans.md) | Advertising of open end credit plans. |
+| [1664\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising%20and%20Limits%20on%20Credit%20Card%20Fees/%C2%A7%2001664%20-%20Advertising%20of%20credit%20other%20than%20open%20end%20plans.md) | Advertising of credit other than open end plans. |
+| [1665\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising%20and%20Limits%20on%20Credit%20Card%20Fees/%C2%A7%2001665%20-%20Nonliability%20of%20advertising%20media.md) | Nonliability of advertising media. |
+| [1665a.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising%20and%20Limits%20on%20Credit%20Card%20Fees/%C2%A7%2001665a%20-%20Use%20of%20annual%20percentage%20rate%20in%20oral%20disclosures%3B%20exceptions.md) | Use of annual percentage rate in oral disclosures; exceptions. |
+| [1665b.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising%20and%20Limits%20on%20Credit%20Card%20Fees/%C2%A7%2001665b%20-%20Advertising%20of%20open%20end%20consumer%20credit%20plans%20secured%20by%20consumer%27s%20principal%20dwelling.md) | Advertising of open end consumer credit plans secured by consumer's principal dwelling. |
+| [1665c.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising%20and%20Limits%20on%20Credit%20Card%20Fees/%C2%A7%2001665c%20-%20Interest%20rate%20reduction%20on%20open%20end%20consumer%20credit%20plans.md) | Interest rate reduction on open end consumer credit plans. |
+| [1665d.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising%20and%20Limits%20on%20Credit%20Card%20Fees/%C2%A7%2001665d%20-%20Reasonable%20penalty%20fees%20on%20open%20end%20consumer%20credit%20plans.md) | Reasonable penalty fees on open end consumer credit plans. |
+| [1665e.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising%20and%20Limits%20on%20Credit%20Card%20Fees/%C2%A7%2001665e%20-%20Consideration%20of%20ability%20to%20repay.md) | Consideration of ability to repay. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -73,14 +78,16 @@
 | :--- | ---: |
 | [1666\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666%20-%20Correction%20of%20billing%20errors.md) | Correction of billing errors. |
 | [1666a.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666a%20-%20Regulation%20of%20credit%20reports.md) | Regulation of credit reports. |
-| [1666b.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666b%20-%20Length%20of%20billing%20period%20in%20credit%20statement%20for%20imposition%20of%20finance%20charge%3B%20effect%20of%20failure%20of%20timely%20mailing%20or%20delivery%20of%E2%80%A6.md) | Length of billing period in credit statement for imposition of finance charge; effect of failure of timely mailing or delivery of statement. |
-| [1666c.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666c%20-%20Prompt%20crediting%20of%20payments%3B%20imposition%20of%20finance%20charge.md) | Prompt crediting of payments; imposition of finance charge. |
+| [1666b.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666b%20-%20Timing%20of%20payments.md) | Timing of payments. |
+| [1666c.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666c%20-%20Prompt%20and%20fair%20crediting%20of%20payments.md) | Prompt and fair crediting of payments. |
 | [1666d.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666d%20-%20Treatment%20of%20credit%20balances.md) | Treatment of credit balances. |
 | [1666e.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666e%20-%20Notification%20of%20credit%20card%20issuer%20by%20seller%20of%20return%20of%20goods%2C%20etc.%2C%20by%20obligor%3B%20credit%20for%20account%20of%20obligor.md) | Notification of credit card issuer by seller of return of goods, etc., by obligor; credit for account of obligor. |
 | [1666f.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666f%20-%20Inducements%20to%20cardholders%20by%20sellers%20of%20cash%20discounts%20for%20payments%20by%20cash%2C%20check%20or%20similar%20means%3B%20finance%20charge%20for%20sales%E2%80%A6.md) | Inducements to cardholders by sellers of cash discounts for payments by cash, check or similar means; finance charge for sales transactions involving cash discounts. |
 | [1666g.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666g%20-%20Tie-in%20services%20prohibited%20for%20issuance%20of%20credit%20card.md) | Tie-in services prohibited for issuance of credit card. |
 | [1666h.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666h%20-%20Offset%20of%20cardholder%27s%20indebtedness%20by%20issuer%20of%20credit%20card%20with%20funds%20deposited%20with%20issuer%20by%20cardholder%3B%20remedies%20of%20creditors%20under%E2%80%A6.md) | Offset of cardholder's indebtedness by issuer of credit card with funds deposited with issuer by cardholder; remedies of creditors under State law not affected. |
 | [1666i.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666i%20-%20Assertion%20by%20cardholder%20against%20card%20issuer%20of%20claims%20and%20defenses%20arising%20out%20of%20credit%20card%20transaction%3B%20prerequisites%3B%20limitation%20on%E2%80%A6.md) | Assertion by cardholder against card issuer of claims and defenses arising out of credit card transaction; prerequisites; limitation on amount of claims or defenses. |
+| 1666i–1. | Limits on interest rate, fee, and finance charge increases applicable to outstanding balances. |
+| 1666i–2. | Additional limits on interest rate increases. |
 | [1666j.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666j%20-%20Applicability%20of%20State%20laws.md) | Applicability of State laws. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -224,6 +231,7 @@
 | [1693j.](Subchapter%20006%20%28VI%29%20-%20Electronic%20Fund%20Transfers/%C2%A7%2001693j%20-%20Suspension%20of%20obligations.md) | Suspension of obligations. |
 | [1693k.](Subchapter%20006%20%28VI%29%20-%20Electronic%20Fund%20Transfers/%C2%A7%2001693k%20-%20Compulsory%20use%20of%20electronic%20fund%20transfers.md) | Compulsory use of electronic fund transfers. |
 | 1693<i>l.</i> | Waiver of rights. |
+| 1693<i>l</i>–1. | General-use prepaid cards, gift certificates, and store gift cards. |
 | [1693m.](Subchapter%20006%20%28VI%29%20-%20Electronic%20Fund%20Transfers/%C2%A7%2001693m%20-%20Civil%20liability.md) | Civil liability. |
 | [1693n.](Subchapter%20006%20%28VI%29%20-%20Electronic%20Fund%20Transfers/%C2%A7%2001693n%20-%20Criminal%20liability.md) | Criminal liability. |
 | 1693<i>o.</i> | Administrative enforcement. |

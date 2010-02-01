@@ -20,7 +20,7 @@ Waivers.—The President, the Secretary of Defense, or Congress (by concurrent r
 
 Programs of Other Agencies.—
 
-&emsp;(1) Each department or agency that has responsibility for a program under this section shall administer that program with respect to this section under regulations and guidance issued by the Secretary of Transportation. The Secretary, after consulting with the department or agency or organization or person involved, shall have the sole responsibility for determining if a program is subject to the requirements of this section.
+&emsp;(1) Each department or agency that has responsibility for a program under this section shall administer that program with respect tothis section under regulations and guidance issued by the Secretary of Transportation. The Secretary, after consulting with the department or agency or organization or person involved, shall have the sole responsibility for determining if a program is subject to the requirements of this section.
 
 &emsp;(2) The Secretary—
 

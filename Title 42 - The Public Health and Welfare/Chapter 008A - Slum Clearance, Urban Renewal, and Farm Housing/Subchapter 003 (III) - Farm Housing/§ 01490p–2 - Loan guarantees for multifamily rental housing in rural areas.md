@@ -10,7 +10,7 @@ A guarantee made under this section shall guarantee repayment of an amount not e
 
 #### (c) Eligible borrowers
 
-A loan guaranteed under this section may be made to a nonprofit organization, an agency orbody of any State government or political subdivision thereof, an Indian tribe, or a private entity.
+A loan guaranteed under this section may be made to a nonprofit organization, an agency or body of any State government or political subdivision thereof, an Indian tribe, or a private entity.
 
 #### (d) Eligible housing
 
@@ -72,13 +72,13 @@ At the time of issuance of a loan guaranteed under this section, the Secretary m
 
 #### (h) Authority for lenders to issue certificates of guarantee
 
-The Secretary may authorize certain eligible lenders to determine whether a loan meets the requirements for guarantee under this section and, subject to the availability of authority to enter into guarantees under this section, execute a firm commitment for a guarantee binding upon the Secretary and issue a certificate of guarantee evidencing a guarantee, without review and approval by the Secretary of the specific loan. The Secretary may establish standards for approving eligible lenders for a delegation of authority under this subsection.
+The Secretary may authorize certain eligible lenders to determine whether a loan meets the requirements for guarantee under this section and, subject to the availability of authority to enter into guarantees under this section, execute a firm commitment for a guarantee binding upon the Secretary and issue a certificate ofguarantee evidencing a guarantee, without review and approval by the Secretary of the specific loan. The Secretary may establish standards for approving eligible lenders for a delegation of authority under this subsection.
 
 #### (i) Payment under guarantee
 
 #### (1) Notice of default
 
-&emsp;In the event of default by the borrower on a loan guaranteed under this section, the holderof the guarantee certificate for the loan shall provide written notice of the default to the Secretary.
+&emsp;In the event of default by the borrower on a loan guaranteed under this section, the holder of the guarantee certificate for the loan shall provide written notice of the default to the Secretary.
 
 #### (2) Foreclosure
 
@@ -118,7 +118,7 @@ Any loan guaranteed under this section may be refinanced and extended in accorda
 
 #### (2) Targeting
 
-&emsp;In providing loan guarantees under this section, the Secretary shall establish standards to target and give priority to rural areas in which borrowers can best utilize and most need loans guaranteed under this section, as determined by the Secretary based on the results of the study under paragraph (1) and any other information the Secretary considers appropriate.
+&emsp;In providing loan guarantees under this section, the Secretary shall establish standardsto target and give priority to rural areas in which borrowers can best utilize and most need loans guaranteed under this section, as determined by the Secretary based on the results of the study under paragraph (1) and any other information the Secretary considers appropriate.
 
 #### (m) Inapplicability of credit-elsewhere test
 
@@ -126,7 +126,7 @@ Section 1471(c) of this title shall not apply to guarantees, or loans guaranteed
 
 #### (n) Tenant protections
 
-The Secretary shall establish standards for the treatment of tenants of housing developedusing amounts from a loan guaranteed under this section, which shall incorporate, to the extent applicable, existing standards applicable to tenants of housing developed with loans made under section 1485 of this title. Such standards shall include standards for fair housing and equal opportunity, lease and grievance procedures, and tenant appeals of adverse actions.
+The Secretary shall establish standards for the treatment of tenants of housing developed using amounts from a loan guaranteed under this section, which shall incorporate, to the extent applicable, existing standards applicable to tenants of housing developed with loans made under section 1485 of this title. Such standards shall include standards for fair housing and equal opportunity, lease and grievance procedures, and tenant appeals of adverse actions.
 
 #### (<i>o</i>) Housing standards
 

@@ -4,11 +4,13 @@
 
 No gain or loss shall be recognized on the exchange of—
 
-&emsp;(1) a contract of life insurance for another contract of life insurance or for an endowment or annuity contract; or
+&emsp;(1) a contract of life insurance for another contract of life insurance or for an endowment or annuity contract or for a qualified long-term care insurance contract; or <sup>1</sup>
 
-&emsp;(2) a contract of endowment insurance (A) for another contract of endowment insurance which provides for regular payments beginning at a date not later than the date payments would have begun under the contract exchanged, or (B) for an annuity contract; or
+&emsp;(2) a contract of endowment insurance (A) for another contract of endowment insurance which provides for regular payments beginning at a date not later than the date payments would have begun under the contract exchanged, or (B) for an annuity contract, or (C) for a qualified long-term care insurance contract;
 
-&emsp;(3) an annuity contract for an annuity contract.
+&emsp;(3) an annuity contract for an annuity contract or for a qualified long-term care insurance contract; or
+
+&emsp;(4) a qualified long-term care insurance contract for a qualified long-term care insurance contract.
 
 #### (b) Definitions
 
@@ -20,11 +22,11 @@ For the purpose of this section—
 
 #### (2) Annuity contract
 
-&emsp;An annuity contract is a contract to which paragraph (1) applies but which may be payable during the life of the annuitant only in installments.
+&emsp;An annuity contract is a contract to which paragraph (1) applies but which may be payable during the life of the annuitant only in installments. For purposes of the preceding sentence, a contract shall not fail to be treated as an annuity contract solely because a qualified long-term care insurance contract is a part of or a rider on such contract.
 
 #### (3) Life insurance contract
 
-&emsp;A contract of life insurance is a contract to which paragraph (1) applies but which is not ordinarily payable in full during the life of the insured.
+&emsp;A contract of life insurance is a contract to which paragraph (1) applies but which is not ordinarily payable in full during the life of the insured. For purposes of the preceding sentence, a contract shall not fail to be treated as a life insurance contract solely because a qualified long-term care insurance contract is a part of or a rider on such contract.
 
 #### (c) Exchanges involving foreign persons
 
@@ -38,29 +40,23 @@ To the extent provided in regulations, subsection (a) shall not apply to any exc
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 309; Pub. L. 98–369, div. A, title II, §§211(b)(15), 224(a), July 18, 1984, 98 Stat. 756, 776; Pub. L. 99–514, title XVIII, §1828, Oct. 22, 1986, 100 Stat. 2851; Pub. L. 105–34, title XI, §1131(b)(1), Aug. 5, 1997, 111 Stat. 979; Pub. L. 109–280, title VIII, §844(b), Aug. 17, 2006, 120 Stat. 1010.)
 
-#### Amendment of Section
-
-<i>Pub. L. 109–280, title VIII, §844(b), (g)(1), (2), Aug. 17, 2006, 120 Stat. 1010, 1013, provided that, applicable to contracts issued after Dec. 31, 1996, but only with respect to taxable years beginning after Dec. 31, 2009, and to exchanges occurring after Dec. 31, 2009, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)(1), by inserting “or for a qualified long-term care insurance contract” before the semicolon at the end;</i>
-
-<i>(2) in subsection (a)(2), by inserting “, or (C) for a qualified long-term care insurance contract” before the semicolon at the end and by striking out “or” at the end;</i>
-
-<i>(3) in subsection (a)(3), by inserting “or for a qualified long-term care insurance contract” before the period at the end and by substituting “; or” for the period at the end;</i>
-
-<i>(4) by adding subsection (a)(4) to read as follows:</i>
-
-&emsp;<i>“(4) a qualified long-term care insurance contract for a qualified long-term care insurance contract.”;</i>
-
-<i>(5) in subsection (b)(2), by inserting at the end “For purposes of the preceding sentence, a contract shall not fail to be treated as an annuity contract solely because a qualified long-term care insurance contract is a part of or a rider on such contract.”; and</i>
-
-<i>(6) in subsection (b)(3), by inserting at the end “For purposes of the preceding sentence, a contract shall not fail to be treated as a life insurance contract solely because a qualified long-term care insurance contract is a part of or a rider on such contract.”</i>
-
 #### Codification
 
 Another section 1131(b) of Pub. L. 105–34 enacted section 684 of this title.
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–280, §844(b)(3)(A), which directed amendment by inserting “or for a qualified long-term care insurance contract” before semicolon “at the end”, was executed by making the insertion before “; or” to reflect the probable intent of Congress.
+
+Subsec. (a)(2). Pub. L. 109–280, §844(b)(3)(B), which directed amendment by inserting “, or (C) for a qualified long-term care insurance contract” before semicolon “at the end”, was executed by making the insertion before “; or” to reflect the probable intent of Congress.
+
+Subsec. (a)(3). Pub. L. 109–280, §844(b)(3)(C), inserted “or for a qualified long-term care insurance contract” after “annuity contract”.
+
+Subsec. (a)(4). Pub. L. 109–280, §844(b)(4), added par. (4).
+
+Subsec. (b)(2). Pub. L. 109–280, §844(b)(1), inserted at end “For purposes of the preceding sentence, a contract shall not fail to be treated as an annuity contract solely because a qualified long-term care insurance contract is a part of or a rider on such contract.”
+
+Subsec. (b)(3). Pub. L. 109–280, §844(b)(2), inserted at end “For purposes of the preceding sentence, a contract shall not fail to be treated as a life insurance contract solely because a qualified long-term care insurance contract is a part of or a rider on such contract.”
 
 1997—Subsecs. (c), (d). Pub. L. 105–34 added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -87,4 +83,6 @@ Section 224(b) of Pub. L. 98–369 provided that: “The amendment made by subse
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+<i><sup>1</sup></i><i> So in original. The word “or” probably should not appear.</i>
 

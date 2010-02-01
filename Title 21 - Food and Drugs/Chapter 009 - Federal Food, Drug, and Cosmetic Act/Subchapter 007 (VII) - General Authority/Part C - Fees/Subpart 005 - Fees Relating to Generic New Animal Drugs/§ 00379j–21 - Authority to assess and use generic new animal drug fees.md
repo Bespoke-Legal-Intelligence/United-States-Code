@@ -68,7 +68,7 @@ Except as provided in subsection (a)(1) and subsections (c), (d), (f), and (g), 
 
 #### (2) Total fee revenues for product fees
 
-&emsp;The total fee revenues to be collected in generic new animal drug product fees under subsection (a)(2) shall be $1,691,000 for fiscal year 2009, $1,787,000 for fiscal year 2010, $1,889,000 for fiscal year 2011, $1,997,000 for fiscal year 2012, and $2,111,000 for fiscal year 2013.
+&emsp;The total fee revenues to be collected in generic new animal drug product fees under subsection (a)(2) shall be $1,691,000 for fiscal year2009, $1,787,000 for fiscal year 2010, $1,889,000 for fiscal year 2011, $1,997,000 for fiscal year 2012, and $2,111,000 for fiscal year 2013.
 
 #### (3) Total fee revenues for sponsor fees
 
@@ -112,7 +112,7 @@ An abbreviated application for a generic new animal drug submitted by a person s
 
 #### (2) Authority
 
-&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess andcollect such fees, without any modification in the rate, for abbreviated applications, generic new animal drug sponsors, and generic new animal drug products at any time in such fiscal year notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
+&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate, for abbreviated applications, generic new animal drug sponsors, and generic new animal drug products at any time in such fiscal year notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
 
 #### (g) Crediting and availability of fees
 
@@ -182,7 +182,7 @@ In this section and section 379j–22 of this title:
 
 #### (2) Adjustment factor
 
-&emsp;The term “adjustment factor” applicable to a fiscal year is the Consumer Price Index forall urban consumers (all items; United States city average) for October of the preceding fiscal year divided by—
+&emsp;The term “adjustment factor” applicable to a fiscal year is the Consumer Price Index for all urban consumers (all items; United States city average) for October of the preceding fiscal year divided by—
 
 &emsp;&emsp;(A) for purposes of subsection (f)(1), such Index for October 2002; and
 
@@ -192,7 +192,7 @@ In this section and section 379j–22 of this title:
 
 &emsp;The term “costs of resources allocated for the process for the review of abbreviated applications for generic new animal drugs” means the expenses incurred in connection with the process for the review of abbreviated applications for generic new animal drugs for—
 
-&emsp;&emsp;(A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees consulted with respect to the review of specific abbreviated applications, supplemental abbreviated applications, or investigational submissions, and costs related to such officers, employees, committees, and contractors, including costs for travel, education, and recruitment and other personnel activities;
+&emsp;&emsp;(A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisorycommittees consulted with respect to the review of specific abbreviated applications, supplemental abbreviated applications, or investigational submissions, and costs related to such officers, employees, committees, and contractors, including costs for travel, education, and recruitment and other personnel activities;
 
 &emsp;&emsp;(B) management of information, and the acquisition, maintenance, and repair of computer resources;
 

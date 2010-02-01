@@ -92,7 +92,7 @@ The Institute shall incorporate in any grant, cooperative agreement, or contract
 
 #### (e) Compliance monitoring and evaluation by Institute
 
-The Institute shall monitor and evaluate, or provide for independent evaluations of, programs supported in whole or in part under this chapter to ensure that the provisions of this chapter, the bylaws of the Institute, and the applicable rules, regulations, and guidelines promulgated pursuant to this chapter, are carried out.
+The Institute shall monitor and evaluate, or provide for independent evaluations of, programs supported in whole or in part under this chapter to ensure that the provisions of thischapter, the bylaws of the Institute, and the applicable rules, regulations, and guidelines promulgated pursuant to this chapter, are carried out.
 
 #### (f) Independent study of financial and technical assistance programs
 

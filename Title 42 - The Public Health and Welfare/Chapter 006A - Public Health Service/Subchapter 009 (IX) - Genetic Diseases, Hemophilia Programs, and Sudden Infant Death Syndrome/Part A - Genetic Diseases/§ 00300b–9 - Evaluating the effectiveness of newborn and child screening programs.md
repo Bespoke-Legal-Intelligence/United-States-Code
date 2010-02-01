@@ -20,7 +20,7 @@ To be eligible to receive a grant under subsection (a) of this section an entity
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 2009, $5,062,500 for fiscal year 2010, $5,125,000 for fiscal year 2011, $5,187,500 for fiscal year 2012, and $5,250,000 for fiscal year 2013.
+There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year2009, $5,062,500 for fiscal year 2010, $5,125,000 for fiscal year 2011, $5,187,500 for fiscal year 2012, and $5,250,000 for fiscal year 2013.
 
 (July 1, 1944, ch. 373, title XI, §1110, as added Pub. L. 106–310, div. A, title XXVI, §2601, Oct. 17, 2000, 114 Stat. 1165; amended Pub. L. 110–204, §3, Apr. 24, 2008, 122 Stat. 706; Pub. L. 110–237, §1(a)(2), May 27, 2008, 122 Stat. 1556.)
 

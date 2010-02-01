@@ -18,7 +18,7 @@ Section is comprised of part of the thirteenth par. of section 2 of act Dec. 23,
 
 #### Effective Date of 1959 Amendment
 
-Amendment by Pub. L. 86–114 effective three years after July 28, 1959, see section 3(b) of Pub. L. 86–114, set out as a Central Reserve and Reserve Cities note under section 141 of this title.
+Amendment by Pub. L. 86–114 effective three years after July 28, 1959, see section 3(b) of Pub. L. 86–114, set out as a Central Reserve and Reserve Cities note under former section 141 of this title.
 
 #### Prior Provisions
 

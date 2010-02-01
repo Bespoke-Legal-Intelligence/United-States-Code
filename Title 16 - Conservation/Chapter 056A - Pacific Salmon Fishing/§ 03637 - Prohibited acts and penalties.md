@@ -6,7 +6,7 @@ It is unlawful for any person or vessel subject to the jurisdiction of the Unite
 
 &emsp;(1) to violate any provision of this chapter, or of any regulation adopted hereunder, or of any Fraser River Panel regulation approved by the United States under the Treaty;
 
-&emsp;(2) to refuse to permit any officer authorized to enforce the provisions of this chapter to board a fishing vessel subject to such person's control for purposes of conducting any search or inspection in connection with the enforcement of this chapter;
+&emsp;(2) to refuse to permit any officer authorized to enforce the provisions of this chapter toboard a fishing vessel subject to such person's control for purposes of conducting any search or inspection in connection with the enforcement of this chapter;
 
 &emsp;(3) to forcibly assault, resist, oppose, impede, intimidate, or interfere with any such authorized officer in the conduct of any search or inspection described in subparagraph (2);
 

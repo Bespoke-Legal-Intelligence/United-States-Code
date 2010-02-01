@@ -16,13 +16,13 @@ The Chair shall be appointed from members of the Board jointly by the Speaker of
 
 #### (1) Specific qualifications
 
-&emsp;Selection and appointment of members of the Board shall be without regard to political affiliation and solely on the basis of fitness to perform the duties of the Office. Members of the Board shall have training or experience in the application of the rights, protections, and remedies under one or more of the laws made applicable under section 1302 of this title.
+&emsp;Selection and appointment of members of the Board shall be without regard to politicalaffiliation and solely on the basis of fitness to perform the duties of the Office. Members of the Board shall have training or experience in the application of the rights, protections, and remedies under one or more of the laws made applicable under section 1302 of this title.
 
 #### (2) Disqualifications for appointments
 
 #### (A) Lobbying
 
-&emsp;&emsp;No individual who engages in, or is otherwise employed in, lobbying of the Congressand who is required under the Federal Regulation of Lobbying Act <sup>1</sup> to register with the Clerk of the House of Representatives or the Secretary of the Senate shall be eligible for appointment to, or service on, the Board.
+&emsp;&emsp;No individual who engages in, or is otherwise employed in, lobbying of the Congress and who is required under the Federal Regulation of Lobbying Act <sup>1</sup> to register with the Clerk of the House of Representatives or the Secretary of the Senate shall be eligible for appointment to, or service on, the Board.
 
 #### (B) Incompatible office
 
@@ -98,11 +98,11 @@ The Office shall—
 
 &emsp;(2) in carrying out the program under paragraph (1), distribute the telephone number and address of the Office, procedures for action under subchapter IV of this chapter, and any other information appropriate for distribution, distribute such information to employing offices in a manner suitable for posting, provide such information to new employees of employing offices, distribute such information to the residences of covered employees, and conduct seminars and other activities designed to educate employing offices and covered employees; and
 
-&emsp;(3) compile and publish statistics on the use of the Office by covered employees, including the number and type of contacts made with the Office, on the reason for such contacts, on the number of covered employees who initiated proceedings with the Office under this chapter and the result of such proceedings, and on the number of covered employees who filed a complaint, the basis for the complaint, and the action taken on the complaint.
+&emsp;(3) compile and publish statistics on the use of the Office by covered employees, includingthe number and type of contacts made with the Office, on the reason for such contacts, on the number of covered employees who initiated proceedings with the Office under this chapter and the result of such proceedings, and on the number of covered employees who filed a complaint, the basis for the complaint, and the action taken on the complaint.
 
 #### (i) Congressional oversight
 
-The Board and the Office shall be subject to oversight (except with respect to the dispositionof individual cases) by the Committee on Rules and Administration and the Committee on Governmental Affairs <sup>2</sup> of the Senate and the Committee on House Oversight <sup>2</sup> of the House of Representatives.
+The Board and the Office shall be subject to oversight (except with respect to the disposition of individual cases) by the Committee on Rules and Administration and the Committee on Governmental Affairs <sup>2</sup> of the Senate and the Committee on House Oversight <sup>2</sup> of the House of Representatives.
 
 #### (j) Opening of Office
 
@@ -141,6 +141,10 @@ Committee on House Oversight of House of Representatives changed to Committee on
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–349, §1(b), Oct. 21, 2004, 118 Stat. 1389, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to individuals serving on the Board of Directors of the Office of Compliance on or after September 30, 2004.”
+
+#### Additional Term for Members of Board of Directors of Office of Compliance
+
+Pub. L. 111–114, §1, Dec. 14, 2009, 123 Stat. 3028, provided that: “Notwithstanding the second sentence of section 301(e)(1) of the Congressional Accountability Act of 1995 (2 U.S.C. 1381(e)(1)), any individual serving as a member of the Board of Directors of the Office of Compliance as of September 30, 2009, may serve for 3 terms.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

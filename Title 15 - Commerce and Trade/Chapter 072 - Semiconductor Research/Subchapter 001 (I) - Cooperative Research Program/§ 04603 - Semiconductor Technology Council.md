@@ -132,5 +132,5 @@ Section 263(f) of Pub. L. 103–160 provided that: “The first meeting of the S
 
 #### References to Terminated Council
 
-Section 263(g) of Pub. L. 103–160 provided that: “A reference in any provision of law to the Advisory Councilon Federal Participation in Sematech shall be deemed to refer to the Semiconductor Technology Council established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 \[15 U.S.C. 4603\], as amended by subsection (b).”
+Section 263(g) of Pub. L. 103–160 provided that: “A reference in any provision of law to the Advisory Council on Federal Participation in Sematech shall be deemed to refer to the Semiconductor Technology Council established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 \[15 U.S.C. 4603\], as amended by subsection (b).”
 

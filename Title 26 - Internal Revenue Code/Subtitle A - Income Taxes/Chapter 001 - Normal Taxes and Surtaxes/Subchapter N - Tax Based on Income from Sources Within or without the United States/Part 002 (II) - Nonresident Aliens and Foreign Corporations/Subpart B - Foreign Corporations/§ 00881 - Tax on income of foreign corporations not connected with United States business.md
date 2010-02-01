@@ -146,7 +146,7 @@ No tax shall be imposed under paragraph (1) or (3) of subsection (a) on any amou
 
 #### (2) Short-term capital gain dividends
 
-&emsp;No tax shall be imposed under paragraph (1) of subsection (a) on any short-term capital gain dividend (as defined in section 871(k)(2)) received from a regulated investment company.
+&emsp;No tax shall be imposed under paragraph (1) of subsection (a) on any short-term capitalgain dividend (as defined in section 871(k)(2)) received from a regulated investment company.
 
 #### (f) Cross reference
 
@@ -192,7 +192,7 @@ Subsec. (c)(7). Pub. L. 103–66, §13237(a)(2), redesignated par. (6) as (7).
 
 1986—Subsec. (a)(3)(A). Pub. L. 99–514, §1810(e)(2)(B), amended subpar. (A) generally, striking out “any gain not in excess of” before “the original issue discount”.
 
-Subsec. (a)(3)(B). Pub. L. 99–514, §1810(e)(2)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into accountunder this subparagraph only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by paragraph (1) thereon), and”.
+Subsec. (a)(3)(B). Pub. L. 99–514, §1810(e)(2)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into account under this subparagraph only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by paragraph (1) thereon), and”.
 
 Subsec. (a)(4). Pub. L. 99–514, §1211(b)(6), struck out “or from payments which are treated as being so contingent under section 871(e),” after “sold or exchanged,”.
 

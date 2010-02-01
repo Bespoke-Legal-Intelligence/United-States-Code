@@ -34,7 +34,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Any individual appointed to fill a vacancy occurring before the expiration of any term of office of a United States commissioner shall be appointed for the remainder of that term.
+&emsp;&emsp;Any individual appointed to fill a vacancy occurring before the expiration of any term of office of a United States commissionershall be appointed for the remainder of that term.
 
 #### (B) Manner
 

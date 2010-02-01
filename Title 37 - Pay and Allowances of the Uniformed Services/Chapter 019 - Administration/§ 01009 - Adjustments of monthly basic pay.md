@@ -12,7 +12,7 @@ Effectiveness of Adjustment.—An adjustment under this section shall have the f
 
 Equal Percentage Increase for All Members.—(1) An adjustment made under this section in a year shall provide all eligible members with an increase in the monthly basic pay that is the percentage (rounded to the nearest one-tenth of one percent) by which the ECI for the base quarter of the year before the preceding year exceeds the ECI for the base quarter of the second year before the preceding calendar year (if at all).
 
-(2) Notwithstanding paragraph (1), but subject to subsection (d), the percentage of the adjustment taking effect under this section during each of fiscal years 2004, 2005, and 2006, shall be one-half of one percentage point higher than the percentage that would otherwise be applicable under such paragraph.
+(2) Notwithstanding paragraph (1), but subject to subsection (d), the percentage of the adjustment taking effect under this section during each of fiscal years 2004, 2005, and 2006, shall beone-half of one percentage point higher than the percentage that would otherwise be applicable under such paragraph.
 
 (3) In this subsection:
 
@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 108–136, §602(b), substituted “shall have the force an
 
 Subsec. (c). Pub. L. 108–136, §602(c)(1), (3), added subsec. (c) and struck out former subsec. (c) which related to equal percentage increase for all members.
 
-Subsec. (d). Pub. L. 108–136, §602(c)(1), (2), redesignated subsec. (f) as (d) and struck out former subsec. (d)which related to allocation of increase among pay grades and years-of-service.
+Subsec. (d). Pub. L. 108–136, §602(c)(1), (2), redesignated subsec. (f) as (d) and struck out former subsec. (d) which related to allocation of increase among pay grades and years-of-service.
 
 Subsec. (e). Pub. L. 108–136, §602(c)(1), (4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Whenever the President plans to exercise the authority of the President under subsection (d) with respect to any anticipated increase in the monthly basic pay of members of the uniformed services, the President shall advise Congress, at the earliest practicable time prior to the effective date of such increase, regarding the proposed allocation of such increase.”
 
@@ -108,33 +108,25 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 Section 9 of Pub. L. 93–419 provided that: “This Act \[enacting this section, amending sections 101, 203, 402, and 403 of this title, and enacting provisions set out as notes under this section\] is effective upon enactment \[Sept. 19, 1974\].”
 
-#### Increase in Basic Pay for Fiscal Year 2009
+#### Increase in Basic Pay for Fiscal Year 2010
 
-Pub. L. 110–417, \[div. A\], title VI, §601, Oct. 14, 2008, 122 Stat. 4482, provided that:
+Pub. L. 111–84, div. A, title VI, §601, Oct. 28, 2009, 123 Stat. 2347, provided that:
 
 “(a)
 
 Waiver of Section 1009
 
-Adjustment.—The adjustment to become effective during fiscal year 2009 required by section 1009 of title 37, United States Code, in the rates of monthly basic pay authorized members of the uniformed services shall not be made.
+Adjustment.—The adjustment to become effective during fiscal year 2010 required by section 1009 of title 37, United States Code, in the rates of monthly basic pay authorized members of the uniformed services shall not be made.
 
 “(b)
 
-Increase in Basic Pay.—Effective on January 1, 2009, the rates of monthly basic pay for members of the uniformed services are increased by 3.9 percent.”
-
-#### Increase in Basic Pay for Fiscal Year 2008
-
-Pub. L. 110–181, div. A, title VI, §601, Jan. 28, 2008, 122 Stat. 145, provided that:
-
-“(a)
-
-Rescission of Prior Basic Pay Adjustment.—The adjustment made as of January 1, 2008, pursuant to section 4 of Executive Order No. 13454 (issued January 4, 2008) \[formerly set out under section 5332 of Title 5, Government Organization and Employees\], in elements of compensation of members of the uniformed services pursuant to section 1009 of title 37, United States Code, is hereby rescinded in order to permit the 3.5 percent increase in monthly basic pay for members of the uniformed services required by subsection (b) to take effect as intended.
-
-“(b)
-
-Increase in Basic Pay.—Effective as of January 1, 2008, the rates of monthly basic pay for members of the uniformed services are increased by 3.5 percent.”
+Increase in Basic Pay.—Effective on January 1, 2010, the rates of monthly basic pay for members of the uniformed services are increased by 3.4 percent.”
 
 Provisions relating to adjustment of compensation for members of the uniformed services for prior fiscal years were contained in the following acts:
+
+2009—Pub. L. 110–417, \[div. A\], title VI, §601, Oct. 14, 2008, 122 Stat. 4482.
+
+2008—Pub. L. 110–181, div. A, title VI, §601, Jan. 28, 2008, 122 Stat. 145.
 
 2007—Pub. L. 109–364, div. A, title VI, §601, Oct. 17, 2006, 120 Stat. 2240.
 
@@ -210,5 +202,5 @@ Ex. Ord. No. 11812, Oct. 7, 1974, 39 F.R. 36307, which provided for the adjustme
 
 #### Executive Order No. 11998
 
-Ex. Ord. No. 11998, June 27, 1977, 42 F.R. 33021, which related to the President's Commission on Military Compensation, was revoked by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, formerly set out as a note under section 14 of the Appendix to Title 5.
+Ex. Ord. No. 11998, June 27, 1977, 42 F.R. 33021, which related to the President's Commission on MilitaryCompensation, was revoked by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, formerly set out as a note under section 14 of the Appendix to Title 5.
 

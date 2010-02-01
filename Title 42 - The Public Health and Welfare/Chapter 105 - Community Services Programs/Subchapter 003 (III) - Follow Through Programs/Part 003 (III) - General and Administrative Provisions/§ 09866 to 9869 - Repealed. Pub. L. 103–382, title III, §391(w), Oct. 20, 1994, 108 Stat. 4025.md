@@ -1,6 +1,6 @@
 ### §§9866 to 9869. Repealed. Pub. L. 103–382, title III, §391(w), Oct. 20, 1994, 108 Stat. 4025
 
-Section 9866, Pub. L. 97–35, title VI, §667, as added Pub. L. 101–501, title II, §207(a), Nov. 3, 1990, 104 Stat.1247, related to authorization of appropriations to carry out this subchapter.
+Section 9866, Pub. L. 97–35, title VI, §667, as added Pub. L. 101–501, title II, §207(a), Nov. 3, 1990, 104 Stat. 1247, related to authorization of appropriations to carry out this subchapter.
 
 A prior section 9866, Pub. L. 97–35, title VI, §667, Aug. 13, 1981, 95 Stat. 511, provided for technical assistance and training, prior to repeal by Pub. L. 101–501, title II, §204(b), Nov. 3, 1990, 104 Stat. 1246.
 

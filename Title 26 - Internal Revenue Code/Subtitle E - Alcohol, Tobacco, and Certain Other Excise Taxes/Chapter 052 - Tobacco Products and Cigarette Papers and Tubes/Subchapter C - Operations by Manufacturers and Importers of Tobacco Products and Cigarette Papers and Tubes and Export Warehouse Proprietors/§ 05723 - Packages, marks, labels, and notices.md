@@ -2,27 +2,29 @@
 
 #### (a) Packages
 
-All tobacco products and cigarette papers and tubes shall, before removal, be put up in such packages as the Secretary shall by regulation prescribe.
+All tobacco products, processed tobacco, and cigarette papers and tubes shall, before removal, be put up in such packages as the Secretary shall by regulation prescribe.
 
 #### (b) Marks, labels, and notices
 
-Every package of tobacco products or cigarette papers or tubes shall, before removal, bear the marks, labels, and notices if any, that the Secretary by regulation prescribes.
+Every package of tobacco products, processed tobacco, or cigarette papers or tubes shall, before removal, bear the marks, labels, and notices if any, that the Secretary by regulation prescribes.
 
 #### (c) Lottery features
 
-No certificate, coupon, or other device purporting to be or to represent a ticket, chance, share, or an interest in, or dependent on, the event of a lottery shall be contained in, attached to, or stamped, marked, written, or printed on any package of tobacco products or cigarette papers or tubes.
+No certificate, coupon, or other device purporting to be or to represent a ticket, chance, share, or an interest in, or dependent on, the event of a lottery shall be contained in, attached to, or stamped, marked, written, or printed on any package of tobacco products, processed tobacco, or cigarette papers or tubes.
 
 #### (d) Indecent or immoral material prohibited
 
-No indecent or immoral picture, print, or representation shall be contained in, attached to, or stamped, marked, written, or printed on any package of tobacco products or cigarette papers or tubes.
+No indecent or immoral picture, print, or representation shall be contained in, attached to, or stamped, marked, written, or printed on any package of tobacco products, processed tobacco, or cigarette papers or tubes.
 
 #### (e) Exceptions
 
-Tobacco products furnished by manufacturers of such products for use or consumption by their employees, or for experimental purposes, and tobacco products and cigarette papers and tubes transferred to the bonded premises of another manufacturer or export warehouse proprietor or released in bond from customs custody for deliver to a manufacturer of tobacco products or cigarette papers and tubes, may be exempted from subsection (a) and (b) in accordance with such regulations as the Secretary shall prescribe.
+Tobacco products furnished by manufacturers of such products for use or consumption by theiremployees, or for experimental purposes, and tobacco products, processed tobacco, and cigarette papers and tubes transferred to the bonded premises of another manufacturer or export warehouse proprietor or released in bond from customs custody for deliver to a manufacturer of tobacco products, processed tobacco, or cigarette papers and tubes, may be exempted from subsection (a) and (b) in accordance with such regulations as the Secretary shall prescribe.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 713; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1422; Pub. L. 94–455, title XIX, §§1905(a)(28), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1821, 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 713; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1422; Pub. L. 94–455, title XIX, §§1905(a)(28), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1821, 1834; Pub. L. 111–3, title VII, §702(a)(2)(C), Feb. 4, 2009, 123 Stat. 108.)
 
 #### Amendments
+
+2009—Pub. L. 111–3 inserted “, processed tobacco,” after “tobacco products” wherever appearing.
 
 1976—Pub. L. 94–455, §1905(a)(28)(A), substituted “and notices” for “notices, and stamps” in section catchline.
 
@@ -39,6 +41,10 @@ Subsec. (c). Pub. L. 85–859 redesignated former subsec. (b) as (c) and substit
 Subsec. (d). Pub. L. 85–859 redesignated former subsec. (c) as (d) and substituted “tobacco products or cigarette papers or tubes” for “articles”. Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 85–859 redesignated former subsec. (d) as (e), and permitted exemption of tobacco products and cigarette papers and tubes transferred to the bonded premises of another manufacturer or export warehouse proprietor or released in bond from customs custody for delivery to a manufacturer of tobacco products or cigarette papers and tubes, and eliminated provisions which authorized exemption of articles removed for shipment to a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States, and so shipped.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–3 effective Apr. 1, 2009, see section 702(a)(6) of Pub. L. 111–3, set out as a note under section 5702 of this title.
 
 #### Effective Date of 1976 Amendment
 

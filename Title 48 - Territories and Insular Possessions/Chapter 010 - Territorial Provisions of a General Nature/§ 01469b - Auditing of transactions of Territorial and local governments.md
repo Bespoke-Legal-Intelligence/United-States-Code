@@ -2,7 +2,7 @@
 
 All financial transactions of the territorial and local governments herein provided for, including such transactions of all agencies or instrumentalities established or used by such governments, may be audited by the Government Accountability Office, at its discretion, in accordance with chapter 35 of title 31.
 
-(Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2114.)
+(Pub. L. 111–88, div. A, title I, Oct. 30, 2009, 123 Stat. 2920.)
 
 #### References in Text
 
@@ -15,6 +15,10 @@ Section is from the appropriation act cited as the credit to this section.
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriations acts:
+
+Pub. L. 111–8, div. E, title I, Mar. 11, 2009, 123 Stat. 717.
+
+Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2114.
 
 Pub. L. 109–54, title I, Aug. 2, 2005, 119 Stat. 517.
 

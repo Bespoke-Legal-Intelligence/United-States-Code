@@ -126,7 +126,7 @@ I74subpart a—petitions and determinations
 | [2271\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20a%20-%20Petitions%20and%20Determinations/%C2%A7%2002271%20-%20Petitions.md) | Petitions. |
 | [2272\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20a%20-%20Petitions%20and%20Determinations/%C2%A7%2002272%20-%20Group%20eligibility%20requirements%3B%20agricultural%20workers%3B%20oil%20and%20natural%20gas%20industry.md) | Group eligibility requirements; agricultural workers; oil and natural gas industry. |
 | [2273\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20a%20-%20Petitions%20and%20Determinations/%C2%A7%2002273%20-%20Determinations%20by%20Secretary%20of%20Labor.md) | Determinations by Secretary of Labor. |
-| [2274\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20a%20-%20Petitions%20and%20Determinations/%C2%A7%2002274%20-%20Study%20by%20Secretary%20of%20Labor%20when%20International%20Trade%20Commission%20begins%20investigation.md) | Study by Secretary of Labor when International Trade Commission begins investigation. |
+| [2274\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20a%20-%20Petitions%20and%20Determinations/%C2%A7%2002274%20-%20Study%20and%20notifications%20regarding%20certain%20affirmative%20determinations%3B%20industry%20notification%20of%20assistance.md) | Study and notifications regarding certain affirmative determinations; industry notification of assistance. |
 | [2275\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20a%20-%20Petitions%20and%20Determinations/%C2%A7%2002275%20-%20Benefit%20information%20for%20workers.md) | Benefit information for workers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -148,7 +148,8 @@ I74subpart a—petitions and determinations
 
 |  |  |
 | :--- | ---: |
-| [2295\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Division%20002%20%28II%29%20-%20Training%2C%20Other%20Employment%20Services%2C%20and%20Allowances/%C2%A7%2002295%20-%20Employment%20services.md) | Employment services. |
+| [2295\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Division%20002%20%28II%29%20-%20Training%2C%20Other%20Employment%20Services%2C%20and%20Allowances/%C2%A7%2002295%20-%20Employment%20and%20case%20management%20services.md) | Employment and case management services. |
+| [2295a.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Division%20002%20%28II%29%20-%20Training%2C%20Other%20Employment%20Services%2C%20and%20Allowances/%C2%A7%2002295a%20-%20Funding%20for%20administrative%20expenses%20and%20employment%20and%20case%20management%20services.md) | Funding for administrative expenses and employment and case management services. |
 | [2296\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Division%20002%20%28II%29%20-%20Training%2C%20Other%20Employment%20Services%2C%20and%20Allowances/%C2%A7%2002296%20-%20Training.md) | Training. |
 | [2297\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Division%20002%20%28II%29%20-%20Training%2C%20Other%20Employment%20Services%2C%20and%20Allowances/%C2%A7%2002297%20-%20Job%20search%20allowances.md) | Job search allowances. |
 | [2298\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Division%20002%20%28II%29%20-%20Training%2C%20Other%20Employment%20Services%2C%20and%20Allowances/%C2%A7%2002298%20-%20Relocation%20allowances.md) | Relocation allowances. |
@@ -166,11 +167,12 @@ I74subpart a—petitions and determinations
 | [2315\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002315%20-%20Fraud%20and%20recovery%20of%20overpayments.md) | Fraud and recovery of overpayments. |
 | [2316\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002316%20-%20Penalties.md) | Penalties. |
 | [2317\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002317%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [2318\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002318%20-%20Demonstration%20project%20for%20alternative%20trade%20adjustment%20assistance%20for%20older%20workers.md) | Demonstration project for alternative trade adjustment assistance for older workers. |
+| [2318\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002318%20-%20Reemployment%20trade%20adjustment%20assistance%20program.md) | Reemployment trade adjustment assistance program. |
 | [2319\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002319%20-%20Definitions.md) | Definitions. |
 | [2320\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002320%20-%20Regulations.md) | Regulations. |
-| [2321\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002321%20-%20Subpena%20power.md) | Subpena power. |
-| [2322\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002322%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93210%2C%20div.%20A%2C%20title%20I%2C%20%C2%A7123%28b%29%282%29%2C%20Aug.%206%2C%202002%2C%20116%20Stat.%20944.md) | Repealed. |
+| [2321\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002321%20-%20Subpoena%20power.md) | Subpoena power. |
+| [2322\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002322%20-%20Office%20of%20Trade%20Adjustment%20Assistance.md) | Office of Trade Adjustment Assistance. |
+| [2323\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002323%20-%20Collection%20and%20publication%20of%20data%20and%20reports%3B%20information%20to%20workers.md) | Collection and publication of data and reports; information to workers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -189,10 +191,9 @@ I74subpart a—petitions and determinations
 | [2341\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20003%20-%20Adjustment%20Assistance%20for%20Firms/%C2%A7%2002341%20-%20Petitions%20and%20determinations.md) | Petitions and determinations. |
 | [2342\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20003%20-%20Adjustment%20Assistance%20for%20Firms/%C2%A7%2002342%20-%20Approval%20of%20adjustment%20proposals.md) | Approval of adjustment proposals. |
 | [2343\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20003%20-%20Adjustment%20Assistance%20for%20Firms/%C2%A7%2002343%20-%20Technical%20assistance.md) | Technical assistance. |
-| [2344\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20003%20-%20Adjustment%20Assistance%20for%20Firms/%C2%A7%2002344%20-%20Financial%20assistance.md) | Financial assistance. |
-| [2345\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20003%20-%20Adjustment%20Assistance%20for%20Firms/%C2%A7%2002345%20-%20Conditions%20for%20financial%20assistance.md) | Conditions for financial assistance. |
-| [2346\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20003%20-%20Adjustment%20Assistance%20for%20Firms/%C2%A7%2002346%20-%20Delegation%20of%20functions%20to%20Small%20Business%20Administration.md) | Delegation of functions to Small Business Administration. |
-| [2347\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20003%20-%20Adjustment%20Assistance%20for%20Firms/%C2%A7%2002347%20-%20Administration%20of%20financial%20assistance.md) | Administration of financial assistance. |
+| [2344\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20003%20-%20Adjustment%20Assistance%20for%20Firms/%C2%A7%2002344%20-%20Oversight%20and%20administration.md) | Oversight and administration. |
+| [2345\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20003%20-%20Adjustment%20Assistance%20for%20Firms/%C2%A7%2002345%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| 2346, 2347. Repealed. |  |
 | [2348\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20003%20-%20Adjustment%20Assistance%20for%20Firms/%C2%A7%2002348%20-%20Protective%20provisions.md) | Protective provisions. |
 | [2349\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20003%20-%20Adjustment%20Assistance%20for%20Firms/%C2%A7%2002349%20-%20Penalties.md) | Penalties. |
 | [2350\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20003%20-%20Adjustment%20Assistance%20for%20Firms/%C2%A7%2002350%20-%20Civil%20actions.md) | Civil actions. |
@@ -201,14 +202,49 @@ I74subpart a—petitions and determinations
 | [2353\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20003%20-%20Adjustment%20Assistance%20for%20Firms/%C2%A7%2002353%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20XXV%2C%20%C2%A72526%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20893.md) | Repealed. |
 | [2354\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20003%20-%20Adjustment%20Assistance%20for%20Firms/%C2%A7%2002354%20-%20Study%20by%20Secretary%20of%20Commerce%20when%20International%20Trade%20Commission%20begins%20investigation.md) | Study by Secretary of Commerce when International Trade Commission begins investigation. |
 | [2355\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20003%20-%20Adjustment%20Assistance%20for%20Firms/%C2%A7%2002355%20-%20Assistance%20to%20industry%3B%20authorization%20of%20appropriations.md) | Assistance to industry; authorization of appropriations. |
+| [2356\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20003%20-%20Adjustment%20Assistance%20for%20Firms/%C2%A7%2002356%20-%20Annual%20report%20on%20trade%20adjustment%20assistance%20for%20firms.md) | Annual report on trade adjustment assistance for firms. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part 4—Adjustment Assistance for Communities
+#### Part 4—Trade Adjustment Assistance for Communities
 
-|  |
-| :--- |
-| 2371 to 2374. Omitted. |
+I74subpart a—trade adjustment assistance for communities
+
+|  |  |
+| :--- | ---: |
+| [2371\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20004%20-%20Trade%20Adjustment%20Assistance%20for%20Communities/Subpart%20a%20-%20Trade%20Adjustment%20Assistance%20for%20Communities/%C2%A7%2002371%20-%20Definitions.md) | Definitions. |
+| [2371a.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20004%20-%20Trade%20Adjustment%20Assistance%20for%20Communities/Subpart%20a%20-%20Trade%20Adjustment%20Assistance%20for%20Communities/%C2%A7%2002371a%20-%20Establishment%20of%20trade%20adjustment%20assistance%20for%20communities%20program.md) | Establishment of trade adjustment assistance for communities program. |
+| [2371b.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20004%20-%20Trade%20Adjustment%20Assistance%20for%20Communities/Subpart%20a%20-%20Trade%20Adjustment%20Assistance%20for%20Communities/%C2%A7%2002371b%20-%20Eligibility%3B%20notification.md) | Eligibility; notification. |
+| [2371c.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20004%20-%20Trade%20Adjustment%20Assistance%20for%20Communities/Subpart%20a%20-%20Trade%20Adjustment%20Assistance%20for%20Communities/%C2%A7%2002371c%20-%20Technical%20assistance.md) | Technical assistance. |
+| [2371d.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20004%20-%20Trade%20Adjustment%20Assistance%20for%20Communities/Subpart%20a%20-%20Trade%20Adjustment%20Assistance%20for%20Communities/%C2%A7%2002371d%20-%20Grants%20for%20eligible%20communities.md) | Grants for eligible communities. |
+| [2371e.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20004%20-%20Trade%20Adjustment%20Assistance%20for%20Communities/Subpart%20a%20-%20Trade%20Adjustment%20Assistance%20for%20Communities/%C2%A7%2002371e%20-%20Strategic%20plans.md) | Strategic plans. |
+| [2371f.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20004%20-%20Trade%20Adjustment%20Assistance%20for%20Communities/Subpart%20a%20-%20Trade%20Adjustment%20Assistance%20for%20Communities/%C2%A7%2002371f%20-%20General%20provisions.md) | General provisions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart b—community college and career training grant program
+
+|  |  |
+| :--- | ---: |
+| [2372\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20004%20-%20Trade%20Adjustment%20Assistance%20for%20Communities/Subpart%20b%20-%20Community%20College%20and%20Career%20Training%20Grant%20Program/%C2%A7%2002372%20-%20Community%20College%20and%20Career%20Training%20Grant%20Program.md) | Community College and Career Training Grant Program. |
+| [2372a.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20004%20-%20Trade%20Adjustment%20Assistance%20for%20Communities/Subpart%20b%20-%20Community%20College%20and%20Career%20Training%20Grant%20Program/%C2%A7%2002372a%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart c—industry or sector partnership grant program for communities impacted by trade
+
+|  |  |
+| :--- | ---: |
+| [2373\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20004%20-%20Trade%20Adjustment%20Assistance%20for%20Communities/Subpart%20c%20-%20Industry%20or%20Sector%20Partnership%20Grant%20Program%20for%20Communities%20Impacted%20by%20Trade/%C2%A7%2002373%20-%20Industry%20or%20Sector%20Partnership%20Grant%20program%20for%20communities%20impacted%20by%20trade.md) | Industry or Sector Partnership Grant program for communities impacted by trade. |
+| [2373a.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20004%20-%20Trade%20Adjustment%20Assistance%20for%20Communities/Subpart%20c%20-%20Industry%20or%20Sector%20Partnership%20Grant%20Program%20for%20Communities%20Impacted%20by%20Trade/%C2%A7%2002373a%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart d—general provisions
+
+|  |  |
+| :--- | ---: |
+| [2374\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20004%20-%20Trade%20Adjustment%20Assistance%20for%20Communities/Subpart%20d%20-%20General%20Provisions/%C2%A7%2002374%20-%20Rule%20of%20construction.md) | Rule of construction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -218,10 +254,11 @@ I74subpart a—petitions and determinations
 | :--- | ---: |
 | [2391\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20005%20-%20Miscellaneous%20Provisions/%C2%A7%2002391%20-%20GAO%20study%20and%20report.md) | GAO study and report. |
 | [2392\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20005%20-%20Miscellaneous%20Provisions/%C2%A7%2002392%20-%20Adjustment%20Assistance%20Coordinating%20Committee.md) | Adjustment Assistance Coordinating Committee. |
-| [2393\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20005%20-%20Miscellaneous%20Provisions/%C2%A7%2002393%20-%20Trade%20monitoring%20system.md) | Trade monitoring system. |
+| [2393\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20005%20-%20Miscellaneous%20Provisions/%C2%A7%2002393%20-%20Trade%20monitoring%20and%20data%20collection.md) | Trade monitoring and data collection. |
 | [2394\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20005%20-%20Miscellaneous%20Provisions/%C2%A7%2002394%20-%20Firms%20relocating%20in%20foreign%20countries.md) | Firms relocating in foreign countries. |
 | [2395\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20005%20-%20Miscellaneous%20Provisions/%C2%A7%2002395%20-%20Judicial%20review.md) | Judicial review. |
 | 2396, 2397. Omitted. |  |
+| [2397a.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20005%20-%20Miscellaneous%20Provisions/%C2%A7%2002397a%20-%20Sense%20of%20Congress.md) | Sense of Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -234,7 +271,7 @@ I74subpart a—petitions and determinations
 | [2401b.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20006%20-%20Adjustment%20Assistance%20for%20Farmers/%C2%A7%2002401b%20-%20Determinations%20by%20Secretary%20of%20Agriculture.md) | Determinations by Secretary of Agriculture. |
 | [2401c.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20006%20-%20Adjustment%20Assistance%20for%20Farmers/%C2%A7%2002401c%20-%20Study%20by%20Secretary%20of%20Agriculture%20when%20International%20Trade%20Commission%20begins%20investigation.md) | Study by Secretary of Agriculture when International Trade Commission begins investigation. |
 | [2401d.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20006%20-%20Adjustment%20Assistance%20for%20Farmers/%C2%A7%2002401d%20-%20Benefit%20information%20to%20agricultural%20commodity%20producers.md) | Benefit information to agricultural commodity producers. |
-| [2401e.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20006%20-%20Adjustment%20Assistance%20for%20Farmers/%C2%A7%2002401e%20-%20Qualifying%20requirements%20for%20agricultural%20commodity%20producers.md) | Qualifying requirements for agricultural commodity producers. |
+| [2401e.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20006%20-%20Adjustment%20Assistance%20for%20Farmers/%C2%A7%2002401e%20-%20Qualifying%20requirements%20and%20benefits%20for%20agricultural%20commodity%20producers.md) | Qualifying requirements and benefits for agricultural commodity producers. |
 | [2401f.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20006%20-%20Adjustment%20Assistance%20for%20Farmers/%C2%A7%2002401f%20-%20Fraud%20and%20recovery%20of%20overpayments.md) | Fraud and recovery of overpayments. |
 | [2401g.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20006%20-%20Adjustment%20Assistance%20for%20Farmers/%C2%A7%2002401g%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 

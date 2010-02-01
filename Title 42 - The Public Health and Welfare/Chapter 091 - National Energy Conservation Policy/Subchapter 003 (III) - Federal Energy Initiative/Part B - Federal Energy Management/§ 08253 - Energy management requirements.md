@@ -136,7 +136,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;&emsp;&emsp;&emsp;(III) the measurement and verification protocols of the Department of Energy;
 
-&emsp;&emsp;&emsp;(ii) include recommendations concerning the amount of funds and the number of trained personnel necessary to gather and use the metering information to track and reduce energy use;
+&emsp;&emsp;&emsp;(ii) include recommendations concerning the amount of funds and the number oftrained personnel necessary to gather and use the metering information to track and reduce energy use;
 
 &emsp;&emsp;&emsp;(iii) establish priorities for types and locations of buildings to be metered based on cost-effectiveness and a schedule of one or more dates, not later than 1 year after the date of issuance of the guidelines, on which the requirements specified in paragraph (1) shall take effect; and
 
@@ -272,7 +272,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;&emsp;(B) a plan for appropriate operations, maintenance, and repair of the equipment is in place at acceptance and is followed;
 
-&emsp;&emsp;(C) equipment and system performance is measured during its entire life to ensureproper operations, maintenance, and repair; and
+&emsp;&emsp;(C) equipment and system performance is measured during its entire life to ensure proper operations, maintenance, and repair; and
 
 &emsp;&emsp;(D) energy and water savings are measured and verified.
 
@@ -452,7 +452,7 @@ Subsec. (a). Pub. L. 102–486, §152(b)(2), (3), in heading substituted “requ
 
 Subsecs. (b), (c). Pub. L. 102–486, §152(b)(4), added subsecs. (b) and (c). Former subsec. (b) redesignated (d).
 
-Subsec. (d). Pub. L. 102–486, §152(b)(4), (c)(1), redesignated subsec. (b) as (d) and in introductory provisions substituted “The Secretary shall consult with the Secretary of Defense and the Administrator of GeneralServices in developing guidelines for the implementation of this part. To meet the requirements of this section,” for “To achieve the goal established in subsection (a) of this section,”.
+Subsec. (d). Pub. L. 102–486, §152(b)(4), (c)(1), redesignated subsec. (b) as (d) and in introductory provisions substituted “The Secretary shall consult with the Secretary of Defense and the Administrator of General Services in developing guidelines for the implementation of this part. To meet the requirements of this section,” for “To achieve the goal established in subsection (a) of this section,”.
 
 Subsec. (d)(1). Pub. L. 102–486, §152(c)(2), added par. (1) and struck out former par. (1) which read as follows: “prepare or update, within 6 months after November 5, 1988, a plan describing how the agency intends to meet such goal, including how it will implement this part, designate personnel primarily responsible for achieving such goal, and identify high priority projects;”.
 

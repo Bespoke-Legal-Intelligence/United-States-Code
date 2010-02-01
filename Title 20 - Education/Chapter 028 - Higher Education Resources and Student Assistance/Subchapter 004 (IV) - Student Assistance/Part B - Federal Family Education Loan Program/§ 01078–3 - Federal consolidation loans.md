@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(D) made under subpart II of part A of title VII of the Public Health Service Act \[42 U.S.C. 292q et seq.\]; or
 
-&emsp;&emsp;(E) made under subpart II of part B of title VIII of the Public Health Service Act \[42 U.S.C. 297a et seq.\].
+&emsp;&emsp;(E) made under part E of title VIII of the Public Health Service Act \[42 U.S.C. 297a et seq.\].
 
 #### (b) Contents of agreements, certificates of insurance, and loan notes
 
@@ -162,7 +162,7 @@
 
 #### (5) Direct loans
 
-&emsp;In the event that a borrower is unable to obtain a consolidation loan from a lender with an agreement under subsection (a)(1), or is unable to obtain a consolidation loan with income-sensitive repayment terms or income-based repayment terms acceptable to the borrower from such a lender, or chooses to obtain a consolidation loan for the purposes of usingthe public service loan forgiveness program offered under section 1087e(m) of this title, the Secretary shall offer any such borrower who applies for it, a Federal Direct Consolidation loan. In addition, in the event that a borrower chooses to obtain a consolidation loan for the purposes of using the no accrual of interest for active duty service members program offered under section 1087e(<i>o</i>) of this title, the Secretary shall offer a Federal Direct Consolidation loan to any such borrower who applies for participation in such program. A direct consolidation loan offered under this paragraph shall, as requested by the borrower, be repaid either pursuant to income contingent repayment under part C of this subchapter, pursuant to income-based repayment under section 1098e of this title, or pursuant to any other repayment provision under this section, except that if a borrower intends to be eligible to use the public service loan forgiveness program under section 1087e(m) of this title, such loan shall be repaid using one of the repayment options described in section 1087e(m)(1)(A) of this title. The Secretary shall not offer such loans if, in the Secretary's judgment, the Department of Education does not have the necessary origination and servicing arrangements in place for such loans.
+&emsp;In the event that a borrower is unable to obtain a consolidation loan from a lender with an agreement under subsection (a)(1), or is unable to obtain a consolidation loan with income-sensitive repayment terms or income-based repayment terms acceptable to the borrower from such a lender, or chooses to obtain a consolidation loan for the purposes of using the public service loan forgiveness program offered under section 1087e(m) of this title, the Secretary shall offer any such borrower who applies for it, a Federal Direct Consolidation loan. In addition, in the event that a borrower chooses to obtain a consolidation loan for the purposes of using the no accrual of interest for active duty service members program offered under section 1087e(<i>o</i>) of this title, the Secretary shall offer a Federal Direct Consolidation loan to any such borrower who applies for participation in such program. A direct consolidation loan offered under this paragraph shall, as requested by the borrower, be repaid either pursuant to income contingent repayment under part C of this subchapter, pursuant to income-based repayment under section 1098e of this title, or pursuant to any other repayment provision under this section, except that if a borrower intends to be eligible to use the public service loan forgiveness program under section 1087e(m) of this title, such loan shall be repaid using one of the repayment options described in section 1087e(m)(1)(A) of this title. The Secretary shall not offer such loans if, in the Secretary's judgment, the Department of Education does not have the necessary origination and servicing arrangements in place for such loans.
 
 #### (6) Nondiscrimination in loan consolidation
 
@@ -198,7 +198,7 @@
 
 #### (2) Repayment schedules
 
-&emsp;(A) Notwithstanding any other provision of this part, to the extent authorized by its certificate of insurance under subsection (b)(2)(F) of this section and approved by the issuer of such certificate, the lender of a consolidation loan shall establish repayment terms as will promote the objectives of this section, which shall include the establishment of graduated income-sensitive, or income-based repayment schedules, established by the lender in accordance with the regulations of the Secretary. Except as required by such income-sensitive or income-based repayment schedules, or by the terms of repayment pursuant to income contingent repayment offered by the Secretary under subsection (b)(5) of this section, such repayment terms shall require that if the sum of the consolidation loan and the amount outstanding on other student loans to the individual—
+&emsp;(A) Notwithstanding any other provision of this part, to the extent authorized by its certificate of insurance under subsection (b)(2) of this section and approved by the issuer of such certificate, the lender of a consolidation loan shall establish repayment terms as will promote the objectives of this section, which shall include the establishment of graduated, income-sensitive, or income-based repayment schedules, established by the lender in accordance with the regulations of the Secretary. Except as required by such income-sensitive or income-based repayment schedules, or by the terms of repayment pursuant to income contingent repayment offered by the Secretary under subsection (b)(5) of this section, such repayment terms shall require that if the sum of the consolidation loan and the amount outstanding on other student loans to the individual—
 
 &emsp;&emsp;(i) is less than $7,500, then such consolidation loan shall be repaid in not more than 10 years;
 
@@ -218,7 +218,7 @@
 
 &emsp;Notwithstanding paragraph (2)—
 
-&emsp;&emsp;(A) except in the case of an income-based repayment schedule under section 1098e ofthis title <sup>2</sup> a repayment schedule established with respect to a consolidation loan shall require that the minimum installment payment be an amount equal to not less than the accrued unpaid interest;
+&emsp;&emsp;(A) except in the case of an income-based repayment schedule under section 1098e of this title, a repayment schedule established with respect to a consolidation loan shall require that the minimum installment payment be an amount equal to not less than the accrued unpaid interest;
 
 &emsp;&emsp;(B) except as required by the terms of repayment pursuant to income contingent repayment offered by the Secretary under subsection (b)(5) of this section, the lender of a consolidation loan may, with respect to repayment on the loan, when the amount of a monthly or other similar payment on the loan is not a multiple of $5, round the payment to the next highest whole dollar amount that is a multiple of $5; and
 
@@ -282,7 +282,7 @@
 
 #### (D) Insurance rule
 
-&emsp;&emsp;Any insurance premium paid by the borrower under subpart I of part A of title VII of the Public Health Service Act \[42 U.S.C. 292 et seq.\] with respect to a loan made under that subpart and consolidated under this subsection shall be retained by the student loan insurance fund established under section 710 of the Public Health Service Act \[42 U.S.C. 292i\].
+&emsp;&emsp;Any insurance premium paid by the borrower under subpart I of part A of title VII of the Public Health Service Act \[42 U.S.C. 292 et seq.\] with respect to a loan made under that subpart and consolidated under this subsection shall be retained by the student loan insurance account established under section 710 of the Public Health Service Act \[42 U.S.C. 292i\].
 
 #### (4) Regulations
 
@@ -290,7 +290,7 @@
 
 #### (e) Termination of authority
 
-The authority to make loans under this section expires at the close of September 30, 2014. Nothing in this section shall be construed to authorize the Secretary to promulgate rules orregulations governing the terms or conditions of the agreements and certificates under subsection (b) of this section. Loans made under this section which are insured by the Secretary shall be considered to be new loans made to students for the purpose of section 1074(a) of this title.
+The authority to make loans under this section expires at the close of September 30, 2014. Nothing in this section shall be construed to authorize the Secretary to promulgate rules or regulations governing the terms or conditions of the agreements and certificates under subsection (b) of this section. Loans made under this section which are insured by the Secretary shall be considered to be new loans made to students for the purpose of section 1074(a) of this title.
 
 #### (f) Interest payment rebate fee
 
@@ -304,13 +304,13 @@ The authority to make loans under this section expires at the close of September
 
 #### (3) Deposit
 
-&emsp;The Secretary shall deposit all fees collected pursuant to subsection (a) of this section into the insurance fund established in section 1081 of this title.
+&emsp;The Secretary shall deposit all fees collected pursuant to this subsection into the insurance fund established in section 1081 of this title.
 
-(Pub. L. 89–329, title IV, §428C, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1388; amended Pub. L. 100–50, §10(s), June 3, 1987, 101 Stat. 345; Pub. L. 102–325, title IV, §419, July 23, 1992, 106 Stat. 532; Pub. L. 102–408, title III, §306(a), (b), Oct. 13, 1992, 106 Stat. 2084, 2086; Pub. L. 103–66, title IV, §§4046(a), (b)(2), 4106(a), Aug. 10, 1993, 107 Stat. 360, 363, 368; Pub. L. 103–208, §2(c)(33)–(37), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 103–382, title III, §356, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)(ii)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283; Pub. L. 105–33, title VI, §6104(3), Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(b)–(e), Nov. 13, 1997, 111 Stat. 1522, 1523; Pub. L. 105–244, title IV, §§416(b)(2), 420, Oct. 7, 1998, 112 Stat. 1682, 1695; Pub. L. 107–139, §1(a)(2), Feb. 8, 2002, 116 Stat. 8; Pub. L. 109–171, title VIII, §§8004(b)(3), 8009(a), (b)(2), (c), Feb. 8, 2006, 120 Stat. 158, 163, 164; Pub. L. 109–234, title VII, §7015(a), (c), (d), June 15, 2006, 120 Stat. 485; Pub. L. 110–84, title II, §203(b)(1), (2), Sept. 27, 2007, 121 Stat. 794, 795; Pub. L. 110–315, title IV, §§425(a)–(b)(2), (c), (d)(1), (e), 432(b)(3), Aug. 14, 2008, 122 Stat. 3233–3235, 3246.)
+(Pub. L. 89–329, title IV, §428C, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1388; amended Pub. L. 100–50, §10(s), June 3, 1987, 101 Stat. 345; Pub. L. 102–325, title IV, §419, July 23, 1992, 106 Stat. 532; Pub. L. 102–408, title III, §306(a), (b), Oct. 13, 1992, 106 Stat. 2084, 2086; Pub. L. 103–66, title IV, §§4046(a), (b)(2), 4106(a), Aug. 10, 1993, 107 Stat. 360, 363, 368; Pub. L. 103–208, §2(c)(33)–(37), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 103–382, title III, §356, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)(ii)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283; Pub. L. 105–33, title VI, §6104(3), Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(b)–(e), Nov. 13, 1997, 111 Stat. 1522, 1523; Pub. L. 105–244, title IV, §§416(b)(2), 420, Oct. 7, 1998, 112 Stat. 1682, 1695; Pub. L. 107–139, §1(a)(2), Feb. 8, 2002, 116 Stat. 8; Pub. L. 109–171, title VIII, §§8004(b)(3), 8009(a), (b)(2), (c), Feb. 8, 2006, 120 Stat. 158, 163, 164; Pub. L. 109–234, title VII, §7015(a), (c), (d), June 15, 2006, 120 Stat. 485; Pub. L. 110–84, title II, §203(b)(1), (2), Sept. 27, 2007, 121 Stat. 794, 795; Pub. L. 110–315, title IV, §§425(a)–(b)(2), (c), (d)(1), (e), 432(b)(3), Aug. 14, 2008, 122 Stat. 3233–3235, 3246; Pub. L. 111–39, title IV, §402(c)(1), (f)(3), July 1, 2009, 123 Stat. 1940, 1943.)
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsecs. (a)(4)(D), (E) and (d)(1)(C)(ii), (3)(D), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subparts I and II of part A of title VII of the Act are classified generally to subpart I (§292 et seq.) and subpart II (§292q et seq.), respectively, of part A of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Subpart II of part B of title VIII of the Act, which was classified generally to subpart II (§297a et seq.) of part B of subchapter VI of chapter 6A of Title 42, was redesignated as part E of subchapter VI of chapter 6A of Title 42, by Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsecs. (a)(4)(D), (E) and (d)(1)(C)(ii), (3)(D), is act July 1, 1944, ch. 373, 58 Stat. 682. Subparts I and II of part A of title VII of the Act are classified generally to subpart I (§292 et seq.) and subpart II (§292q et seq.), respectively, of part A of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part E of title VIII of the Act is classified generally to part E (§297a et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (d)(3)(C), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
@@ -323,6 +323,16 @@ Amendments by section 2(c)(33), (36) of Pub. L. 103–208 (which were effective 
 A prior section 1078–3, Pub. L. 89–329, title IV, §428C, as added Pub. L. 99–272, title XVI, §16017(a), Apr. 7, 1986, 100 Stat. 343, related to consolidation loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2009—Subsec. (a)(4)(E). Pub. L. 111–39, §402(f)(3)(A), substituted “part E” for “subpart II of part B”.
+
+Subsec. (c)(2)(A). Pub. L. 111–39, §402(f)(3)(B), in introductory provisions, substituted “subsection (b)(2)” for “subsection (b)(2)(F)” and inserted comma after “graduated”.
+
+Subsec. (c)(3)(A). Pub. L. 111–39, §402(c)(1), substituted “section 1098e of this title,” for “section 1098e of this title”.
+
+Subsec. (d)(3)(D). Pub. L. 111–39, §402(f)(3)(C), substituted “loan insurance account” for “loan insurance fund”.
+
+Subsec. (f)(3). Pub. L. 111–39, §402(f)(3)(D), substituted “this subsection” for “subsection (a) of this section”.
 
 2008—Subsec. (a)(3)(B)(i)(V)(cc). Pub. L. 110–315, §425(a), added item (cc).
 
@@ -384,7 +394,7 @@ Subsec. (a)(4)(C). Pub. L. 105–244, §420(b), added subpar. (C) and struck out
 
 Subsec. (b)(1)(A)(i). Pub. L. 105–244, §420(c)(1), inserted “except that this clause shall not apply in the case of a borrower with multiple holders of loans under this part,” after “under this section,”.
 
-Subsec. (b)(4)(C)(ii). Pub. L. 105–244, §420(c)(2), inserted “during any such period” after “and be paid” in introductory provisions and struck out “, or on or after October 1, 1998,” before “that consolidated” in subcl. (I) and “and before October 1, 1998,” before “except that” in subcl. (II).
+Subsec. (b)(4)(C)(ii). Pub. L. 105–244, §420(c)(2), inserted “during any such period” after “and be paid” inintroductory provisions and struck out “, or on or after October 1, 1998,” before “that consolidated” in subcl. (I) and “and before October 1, 1998,” before “except that” in subcl. (II).
 
 Subsec. (b)(6)(A). Pub. L. 105–244, §420(c)(3), inserted before semicolon at end “, except that a lender is not required to consolidate loans described in subparagraph (D) or (E) of subsection (a)(4) of this section or subsection (d)(1)(C)(ii) of this section”.
 
@@ -408,7 +418,7 @@ Subsec. (c)(1)(D). Pub. L. 105–78, §609(e)(2), added subpar. (D).
 
 Subsec. (e). Pub. L. 105–33 substituted “September 30, 2002.” for “September 30, 1998.”
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–208 inserted “or the Holding Company of the Student Loan Marketing Association, including any subsidiary of the HoldingCompany, created pursuant to section 1087–3 of this title” after “Student Loan Marketing Association”.
+1996—Subsec. (a)(1)(A). Pub. L. 104–208 inserted “or the Holding Company of the Student Loan Marketing Association, including any subsidiary of the Holding Company, created pursuant to section 1087–3 of this title” after “Student Loan Marketing Association”.
 
 1994—Subsec. (a)(4)(D). Pub. L. 103–382 added subpar. (D).
 
@@ -458,7 +468,7 @@ Subsec. (a)(3)(A)(i). Pub. L. 102–325, §419(b)(1)(A), substituted “$7,500�
 
 Subsec. (a)(3)(A)(ii). Pub. L. 102–325, §419(b)(1)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “is in repayment status, or in a grace period preceding repayment, and is not delinquent with respect to any required payment on such indebtedness by more than 90 days.”
 
-Subsec. (a)(3)(B). Pub. L. 102–325, §419(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “An individual's status as an eligible borrower under this section terminates upon receipt of a consolidation loan under this section except with respect to eligible student loans received after the date of receipt of the consolidation loan. Loans made under this section shall, to the extent used to discharge loans made under this subchapter and part C of subchapter I of chapter 34 of title 42, be counted against the applicable limitations on aggregate indebtedness contained in sections 1075(a)(2), 1078(b)(1)(B), 1078–1(b)(2), and 1087dd(a)(2) of this title. Nothing in this subparagraph shall be interpreted to authorize the Secretary to require lenders, holders, or guarantors of consolidation loans to receive, to maintain, or to make reports with respect to pre-existing records relating to any eligible student loan (as defined under subsection (a)(4) of this section) discharged by a borrower in receiving a consolidation loan.”
+Subsec. (a)(3)(B). Pub. L. 102–325, §419(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “An individual's status as an eligible borrower under this section terminates upon receipt of a consolidation loan under this section except with respect to eligible student loans received after the date of receipt of the consolidation loan. Loans made underthis section shall, to the extent used to discharge loans made under this subchapter and part C of subchapter I of chapter 34 of title 42, be counted against the applicable limitations on aggregate indebtedness contained in sections 1075(a)(2), 1078(b)(1)(B), 1078–1(b)(2), and 1087dd(a)(2) of this title. Nothing in this subparagraph shall be interpreted to authorize the Secretary to require lenders, holders, or guarantors of consolidation loans to receive, to maintain, or to make reports with respect to pre-existing records relating to any eligible student loan (as defined under subsection (a)(4) of this section) discharged by a borrower in receiving a consolidation loan.”
 
 Subsec. (a)(3)(C). Pub. L. 102–325, §419(d), added subpar. (C).
 
@@ -500,6 +510,12 @@ Subsec. (c)(2)(A)(v). Pub. L. 100–50, §10(s)(6), substituted “equal to or g
 
 Subsec. (c)(5). Pub. L. 100–50, §10(s)(7), inserted “, but a fee may be payable by the lender to the guaranty agency to cover the costs of increased or extended liability with respect to such loan” before period at end.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), except as otherwise provided, see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+
+Pub. L. 111–39, title IV, §402(c)(2), July 1, 2009, 123 Stat. 1941, provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective as if enacted as part of the amendments in section 425(d)(1) of the Higher Education Opportunity Act (Public Law 110–315), and shall take effect on July 1, 2009.”
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–315, title IV, §425(d)(2), Aug. 14, 2008, 122 Stat. 3235, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on July 1, 2009.”
@@ -526,7 +542,7 @@ Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provi
 
 Amendment by section 416(b)(2) of Pub. L. 105–244 applicable with respect to any loan made, insured, or guaranteed under this part for which the first disbursement is made on or after Oct. 1, 1998, and before July 1, 2003, except that such amendment is applicable with respect to any loan made under this section for which application is received by an eligible lender on or after Oct. 1, 1998, and before July 1, 2003, see section 416(c) of Pub. L. 105–244, set out as a note under section 1077a of this title.
 
-Amendment by section 420 of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+Amendment by section 420 of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L.105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -554,9 +570,7 @@ Section 609(f) of Pub. L. 105–78 provided that: “The consolidation loans aut
 
 #### Cost Evaluation Report
 
-Pub. L. 99–272, title XVI, §16017(d), Apr. 7, 1986, 100 Stat. 348, provided that: “The Secretary of Educationshall evaluate the cost, efficiency, and impact of the consolidation loan program established by the amendments made by this section \[enacting former section 1078–3 of this title and amending former sections 1077, 1085, 1087–1, and 1087–2 of this title\] and shall report to the Congress not later than June 30, 1988, on the findings and recommendations required by this subsection.”
+Pub. L. 99–272, title XVI, §16017(d), Apr. 7, 1986, 100 Stat. 348, provided that: “The Secretary of Education shall evaluate the cost, efficiency, and impact of the consolidation loan program established by the amendments made by this section \[enacting former section 1078–3 of this title and amending former sections 1077, 1085, 1087–1, and 1087–2 of this title\] and shall report to the Congress not later than June 30, 1988, on the findings and recommendations required by this subsection.”
 
 <i><sup>1</sup></i><i> So in original. No cl. (ii) has been enacted.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

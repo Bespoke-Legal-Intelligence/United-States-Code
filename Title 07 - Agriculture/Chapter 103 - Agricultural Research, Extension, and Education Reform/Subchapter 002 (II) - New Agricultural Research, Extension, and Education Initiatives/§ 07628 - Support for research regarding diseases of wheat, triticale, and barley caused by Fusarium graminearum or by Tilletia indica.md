@@ -58,7 +58,7 @@ Subsec. (b)(2). Pub. L. 107–171, §7207(d)(2)(C), inserted “or Karnal bunt�
 
 Subsec. (b)(3)(A). Pub. L. 107–171, §7207(d)(2)(D), substituted “, triticale, and barley for the presence of Karnal bunt or of” for “and barley for the presence of”.
 
-Subsec. (b)(3)(B). Pub. L. 107–171, §7207(d)(2)(E), substituted “, triticale, and barley infected with wheatscab or with Karnal bunt” for “and barley infected with wheat scab”.
+Subsec. (b)(3)(B). Pub. L. 107–171, §7207(d)(2)(E), substituted “, triticale, and barley infected with wheat scab or with Karnal bunt” for “and barley infected with wheat scab”.
 
 Subsec. (b)(3)(C). Pub. L. 107–171, §7207(d)(2)(F), inserted “wheat scab” after “to render”.
 

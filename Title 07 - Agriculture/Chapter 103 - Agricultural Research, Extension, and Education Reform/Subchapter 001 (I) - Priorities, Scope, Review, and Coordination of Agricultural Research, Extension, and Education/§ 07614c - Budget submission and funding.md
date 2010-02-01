@@ -6,7 +6,7 @@ In this section, the term “competitive programs” includes only competitive p
 
 #### (b) Budget request
 
-The President shall submit to Congress, together with the annual budget submission of the President, a single budget line item reflecting the total amount requested by the President for funding for research, education, and extension activities of the Research, Education, and Economics mission area of the Department for that fiscal year and for the preceding 5 fiscal years.
+The President shall submit to Congress, together with the annual budget submission of thePresident, a single budget line item reflecting the total amount requested by the President for funding for research, education, and extension activities of the Research, Education, and Economics mission area of the Department for that fiscal year and for the preceding 5 fiscal years.
 
 #### (c) Capacity and infrastructure program request
 

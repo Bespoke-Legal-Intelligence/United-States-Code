@@ -1,0 +1,58 @@
+### §10365. Hydroelectric power assessment
+
+#### (a) Duty of Secretary of Energy
+
+The Secretary of Energy, in consultation with the Administrator of each Federal Power Marketing Administration, shall assess each effect of, and risk resulting from, global climate change with respect to water supplies that are required for the generation of hydroelectric power at each Federal water project that is applicable to a Federal Power Marketing Administration.
+
+#### (b) Access to appropriate data
+
+#### (1) In general
+
+&emsp;In carrying out each assessment under subsection (a), the Secretary of Energy shall consult with the United States Geological Survey, the National Oceanic and Atmospheric Administration, the program, and each appropriate State water resource agency, to ensure that the Secretary of Energy has access to the best available scientific information with respect to presently observed impacts and projected future impacts of global climate change on water supplies that are used to produce hydroelectric power.
+
+#### (2) Access to data for certain assessments
+
+&emsp;In carrying out each assessment under subsection (a), with respect to the Bonneville Power Administration and the Western Area Power Administration, the Secretary of Energy shall consult with the Commissioner to access data and other information that—
+
+&emsp;&emsp;(A) is collected by the Commissioner; and
+
+&emsp;&emsp;(B) the Secretary of Energy determines to be necessary for the conduct of the assessment.
+
+#### (c) Report
+
+Not later than 2 years after March 30, 2009, and every 5 years thereafter, the Secretary of Energy shall submit to the appropriate committees of Congress a report that describes—
+
+&emsp;(1) each effect of, and risk resulting from, global climate change with respect to—
+
+&emsp;&emsp;(A) water supplies used for hydroelectric power generation; and
+
+&emsp;&emsp;(B) power supplies marketed by each Federal Power Marketing Administration, pursuant to—
+
+&emsp;&emsp;&emsp;(i) long-term power contracts;
+
+&emsp;&emsp;&emsp;(ii) contingent capacity contracts; and
+
+&emsp;&emsp;&emsp;(iii) short-term sales; and
+
+&emsp;(2) each recommendation of the Administrator of each Federal Power Marketing Administration relating to any change in any operation or contracting practice of each Federal Power Marketing Administration to address each effect and risk described in paragraph (1), including the use of purchased power to meet long-term commitments of each Federal Power Marketing Administration.
+
+#### (d) Authority
+
+The Secretary of Energy may enter into contracts, grants, or other agreements with appropriate entities to carry out this section.
+
+#### (e) Costs
+
+#### (1) Nonreimbursable
+
+&emsp;Any costs incurred by the Secretary of Energy in carrying out this section shall be nonreimbursable.
+
+#### (2) PMA costs
+
+&emsp;Each Federal Power Marketing Administration shall incur costs in carrying out this section only to the extent that appropriated funds are provided by the Secretary of Energy for that purpose.
+
+#### (f) Authorization of appropriations
+
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2009 through 2023, to remain available until expended.
+
+(Pub. L. 111–11, title IX, §9505, Mar. 30, 2009, 123 Stat. 1336.)
+

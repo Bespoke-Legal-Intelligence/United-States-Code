@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 1997” for “calendar year 1992” in subparagraph (B) thereof.
 
-> &emsp;If any amount as adjusted under the preceding sentence is not a multiple of $10,000, such amount shall be rounded to the next lowest multiple of $10,000.
+> &emsp;If any amount as adjusted under the preceding sentence is not a multiple of $10,000, suchamount shall be rounded to the next lowest multiple of $10,000.
 
 #### (b) Qualified real property
 
@@ -122,7 +122,7 @@
 
 #### (B) Adjusted tax difference attributable to interest
 
-&emsp;&emsp;For purposes of subparagraph (A), the adjusted tax difference attributable to an interest is the amount which bears the sameratio to the adjusted tax difference with respect to the estate (determined under subparagraph (C)) as—
+&emsp;&emsp;For purposes of subparagraph (A), the adjusted tax difference attributable to an interest is the amount which bears the same ratio to the adjusted tax difference with respect to the estate (determined under subparagraph (C)) as—
 
 &emsp;&emsp;&emsp;(i) the excess of the value of such interest for purposes of this chapter (determined without regard to subsection (a)) over the value of such interest determined under subsection (a), bears to
 
@@ -172,7 +172,7 @@
 
 &emsp;&emsp;(A) such property ceases to be used for the qualified use set forth in subparagraph (A) or (B) of subsection (b)(2) under which the property qualified under subsection (b), or
 
-&emsp;&emsp;(B) during any period of 8 years ending after the date of the decedent's death and before the date of the death of the qualified heir, there had been periods aggregating more than 3 years during which—
+&emsp;&emsp;(B) during any period of 8 years ending after the date of the decedent's death andbefore the date of the death of the qualified heir, there had been periods aggregating more than 3 years during which—
 
 &emsp;&emsp;&emsp;(i) in the case of periods during which the property was held by the decedent, there was no material participation by the decedent or any member of his family in the operation of the farm or other business, and
 
@@ -352,7 +352,7 @@ For purposes of this section—
 
 #### (11) Bond in lieu of personal liability
 
-&emsp;If the qualified heir makes written application to the Secretary for determination of the maximum amount of the additional tax which may be imposed by subsection (c) with respect to the qualified heir's interest, the Secretary\(as soon as possible, and in any event within 1 year after the making of such application) shall notify the heir of such maximum amount. The qualified heir, on furnishing a bond in such amount and for such period as may be required, shall be discharged from personal liability for any additional tax imposed by subsection (c) and shall be entitled to a receipt or writing showing such discharge.
+&emsp;If the qualified heir makes written application to the Secretary for determination of the maximum amount of the additional tax which may be imposed by subsection (c) with respect to the qualified heir's interest, the Secretary (as soon as possible, and in any event within 1 year after the making of such application) shall notify the heir of such maximum amount. The qualified heir, on furnishing a bond in such amount and for such period as may be required, shall be discharged from personal liability for any additional tax imposed by subsection (c) and shall be entitled to a receipt or writing showing such discharge.
 
 #### (12) Active management
 
@@ -426,7 +426,7 @@ If qualified real property is disposed of or ceases to be used for a qualified u
 
 #### (g) Application of this section and section 6324B to interests in partnerships, corporations, and trusts
 
-The Secretary shall prescribe regulations setting forth the application of this section and section 6324B in the case of an interest in a partnership, corporation, or trust which, with respect to the decedent, is an interest in a closely held business (within the meaning of paragraph (1) of section 6166(b)). For purposes of the preceding sentence, an interest in a discretionary trust all the beneficiaries of which are qualified heirs shall be treated as a present interest.
+The Secretary shall prescribe regulations setting forth the application of this section andsection 6324B in the case of an interest in a partnership, corporation, or trust which, with respect to the decedent, is an interest in a closely held business (within the meaning of paragraph (1) of section 6166(b)). For purposes of the preceding sentence, an interest in a discretionary trust all the beneficiaries of which are qualified heirs shall be treated as a present interest.
 
 #### (h) Special rules for involuntary conversions of qualified real property
 
@@ -516,7 +516,7 @@ The Secretary shall prescribe regulations setting forth the application of this 
 
 &emsp;For purposes of this subsection, the term “qualified exchange property” means real property which is to be used for the qualified use set forth in subparagraph (A) or (B) of subsection (b)(2) under which the real property exchanged therefor originally qualified under subsection (a).
 
-(Added Pub. L. 94–455, title XX, §2003(a), Oct. 4, 1976, 90 Stat. 1856; amended Pub. L. 95–472, §4(a), (c), Oct. 17, 1978, 92 Stat. 1334, 1336; Pub. L. 95–600, title VII, §702(d)(1), (2), (4), (5), Nov. 6, 1978, 92 Stat. 2928, 2929; Pub. L. 97–34, title IV, §421(a)–(d)(2)(A), (e), (f), (h)–(j)(2)(A), (3), (4), Aug. 13, 1981, 95 Stat. 306–313; Pub. L. 97–448, title I, §104(b)(1), (2), Jan. 12, 1983, 96 Stat. 2381; Pub. L. 98–369, div. A, title X, §1025(a), July 18, 1984, 98 Stat. 1030; Pub. L. 99–514, title I, §104(b)(3), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 100–647, title VI, §6151(a), Nov. 10, 1988, 102 Stat. 3724; Pub. L. 101–508, title XI, §11802(f)(5), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 105–34, title V, §§501(b), 504(a), (b), 508(c), title XIII, §1313(a), Aug. 5, 1997,111 Stat. 845, 853, 854, 860, 1045; Pub. L. 108–311, title II, §207(22), Oct. 4, 2004, 118 Stat. 1178.)
+(Added Pub. L. 94–455, title XX, §2003(a), Oct. 4, 1976, 90 Stat. 1856; amended Pub. L. 95–472, §4(a), (c), Oct. 17, 1978, 92 Stat. 1334, 1336; Pub. L. 95–600, title VII, §702(d)(1), (2), (4), (5), Nov. 6, 1978, 92 Stat. 2928, 2929; Pub. L. 97–34, title IV, §421(a)–(d)(2)(A), (e), (f), (h)–(j)(2)(A), (3), (4), Aug. 13, 1981, 95 Stat. 306–313; Pub. L. 97–448, title I, §104(b)(1), (2), Jan. 12, 1983, 96 Stat. 2381; Pub. L. 98–369, div. A, title X, §1025(a), July 18, 1984, 98 Stat. 1030; Pub. L. 99–514, title I, §104(b)(3), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 100–647, title VI, §6151(a), Nov. 10, 1988, 102 Stat. 3724; Pub. L. 101–508, title XI, §11802(f)(5), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 105–34, title V, §§501(b), 504(a), (b), 508(c), title XIII, §1313(a), Aug. 5, 1997, 111 Stat. 845, 853, 854, 860, 1045; Pub. L. 108–311, title II, §207(22), Oct. 4, 2004, 118 Stat. 1178.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -590,7 +590,7 @@ Subsec. (e)(2). Pub. L. 97–34, §421(i), substituted provisions designated sub
 
 Subsec. (e)(7). Pub. L. 97–34, §421(f), added subpar. (B), redesignated former subpar. (B) as (C), and inserted “and that there is no comparable land from which the average net share rental may be determined” after “determined” in subpar. (C), without specifying whether the language was to be inserted in cl. (i) or (ii) of subpar. (C). In view of H. Rept. No. 97–201, 97th Cong., July 14, 1981, p. 492, the language was inserted in cl. (ii) as the probable intent of Congress.
 
-Subsec. (e)(9). Pub. L. 97–34, §421(j)(2)(A), struck out from subpar. (B) “in satisfaction of the right of such person to a pecuniary bequest” after “from the estate” and in subpar. (C) substituted “(to the extent such property is includible in the gross estate of the decedent)” for “in satisfaction of a right (which such person has by reason of the death of the decedent) to receive from the trust a specific dollar amount which is the equivalent of a pecuniary bequest”.
+Subsec. (e)(9). Pub. L. 97–34, §421(j)(2)(A), struck out from subpar. (B) “in satisfaction of the right of such person to a pecuniary bequest” after “from the estate”and in subpar. (C) substituted “(to the extent such property is includible in the gross estate of the decedent)” for “in satisfaction of a right (which such person has by reason of the death of the decedent) to receive from the trust a specific dollar amount which is the equivalent of a pecuniary bequest”.
 
 Subsec. (e)(12). Pub. L. 97–34, §421(c)(2)(B)(i), added par. (12).
 
@@ -604,7 +604,7 @@ Subsec. (g). Pub. L. 97–34, §421(j)(1), inserted provision that for purposes 
 
 Subsec. (h)(1)(A). Pub. L. 97–34, §421(e)(1)(A), struck out “and the qualified heir makes an election under this subsection” after “qualified real property”.
 
-Subsec. (h)(2)(A). Pub. L. 97–34, §421(c)(1)(B)(ii), substituted “; except that” for “, except that” and “the10-year period” for “the 15-year period”, deleted cl. (i) designation, and struck out cl. (ii), which provided the phaseout period under par. (3) of subsec. (c) be appropriately adjusted to take into account the extension referred to in cl. (i).
+Subsec. (h)(2)(A). Pub. L. 97–34, §421(c)(1)(B)(ii), substituted “; except that” for “, except that” and “the 10-year period” for “the 15-year period”, deleted cl. (i) designation, and struck out cl. (ii), which provided the phaseout period under par. (3) of subsec. (c) be appropriately adjusted to take into account the extension referred to in cl. (i).
 
 Subsec. (h)(2)(C). Pub. L. 97–34, §421(c)(1)(B)(iii), substituted “(6)” for “(7)” in provisions preceding cl. (i).
 
@@ -698,7 +698,7 @@ Certain amendments made retroactive to 1976.—
 
 &emsp;“(A)
 
-In general.—The amendments made by subsections (b)(1), (j)(1), and (j)(2) \[amending this section and section 1040 of this title\] and the provisions of subparagraph (A) of section 2032A(c)(7) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (c)(2)) shall apply with respect to the estates of decedents dying after December 31, 1976.
+In general.—The amendments made by subsections (b)(1), (j)(1), and (j)(2) \[amending this section and section 1040 of this title\] and the provisions of subparagraph (A) of section 2032A(c)(7) of the InternalRevenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (c)(2)) shall apply with respect to the estates of decedents dying after December 31, 1976.
 
 &emsp;“(B)
 
@@ -714,7 +714,7 @@ Statute of limitations.—If on the date of the enactment of this Act \[Aug. 13,
 
 #### Effective Date of 1978 Amendments
 
-Section 702(d)(6) of Pub. L. 95–600 provided that: “The amendments made by this subsection \[amending thissection and section 1040 of this title\] shall apply to the estates of decedents dying after December 31, 1976.”
+Section 702(d)(6) of Pub. L. 95–600 provided that: “The amendments made by this subsection \[amending this section and section 1040 of this title\] shall apply to the estates of decedents dying after December 31, 1976.”
 
 Amendment of section by Pub. L. 95–472 applicable with respect to involuntary conversions after Dec. 31, 1976, see section 4(d) of Pub. L. 95–472, set out as a note under section 1016 of this title.
 

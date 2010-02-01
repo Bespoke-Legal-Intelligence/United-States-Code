@@ -38,7 +38,7 @@ In this part:
 
 &emsp;The term “protected system”—
 
-&emsp;&emsp;(A) means any service, physical or computer-based system, process, or procedure that directly or indirectly affects the viability of a facility of critical infrastructure; and
+&emsp;&emsp;(A) means any service, physical or computer-based system, process, or procedurethat directly or indirectly affects the viability of a facility of critical infrastructure; and
 
 &emsp;&emsp;(B) includes any physical or computer-based system, including a computer, computer system, computer or communications network, or any component hardware or element thereof, software program, processing instructions, or information or data in transmission or storage therein, irrespective of the medium of transmission or storage.
 
@@ -58,7 +58,7 @@ In this part:
 
 &emsp;&emsp;&emsp;&emsp;(II) with respect to the submittal of critical infrastructure information, does not include any disclosure or writing that when made accompanied the solicitation of an offer or a sale of securities; and
 
-&emsp;&emsp;&emsp;(ii) does not include information or statements submitted or relied upon as abasis for making licensing or permitting determinations, or during regulatory proceedings.
+&emsp;&emsp;&emsp;(ii) does not include information or statements submitted or relied upon as a basis for making licensing or permitting determinations, or during regulatory proceedings.
 
 (Pub. L. 107–296, title II, §212, Nov. 25, 2002, 116 Stat. 2150.)
 

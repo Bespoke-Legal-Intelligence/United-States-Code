@@ -16,7 +16,7 @@ In this section, the term “eligible entity” means—
 
 &emsp;(2) an organization that—
 
-&emsp;&emsp;(A) is organized for, and at all times since the formation of the organization has been operated principally for, one or more of the conservation purposes specified in clause (i), (ii), (iii), or (iv) of section 170(h)(4)(A) of title 26;
+&emsp;&emsp;(A) is organized for, and at all times since the formation of the organization has beenoperated principally for, one or more of the conservation purposes specified in clause (i), (ii), (iii), or (iv) of section 170(h)(4)(A) of title 26;
 
 &emsp;&emsp;(B) is an organization described in section 501(c)(3) of that title that is exempt from taxation under section 501(a) of that title; and
 

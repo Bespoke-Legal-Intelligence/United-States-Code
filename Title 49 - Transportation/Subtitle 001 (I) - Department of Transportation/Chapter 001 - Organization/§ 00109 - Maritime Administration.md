@@ -26,17 +26,17 @@ Interagency and Industry Relations.—The Secretary shall establish and maintain
 
 (g)
 
-Detailing Officers From Armed Forces.—To assist the Secretary in carrying out duties and powers relating to the Maritime Administration, not more than five officers of the armed forces may be detailed to the Secretary at any one time, in addition to details authorized by any other law. During the period of a detail, the Secretary shall pay the officer an amount that, when added to the officer's pay and allowances as an officer in the armed forces,makes the officer's total pay and allowances equal to the amount that would be paid to an individual performing work the Secretary considers to be of similar importance, difficulty, and responsibility as that performed by the officer during the detail.
+Detailing Officers From Armed Forces.—To assist the Secretary in carrying outduties and powers relating to the Maritime Administration, not more than five officers of the armed forces may be detailed to the Secretary at any one time, in addition to details authorized by any other law. During the period of a detail, the Secretary shall pay the officer an amount that, when added to the officer's pay and allowances as an officer in the armed forces, makes the officer's total pay and allowances equal to the amount that would be paid to an individual performing work the Secretary considers to be of similar importance, difficulty, and responsibility as that performed by the officer during the detail.
 
 (h)
 
-Contracts and Audits.—
+Contracts, Cooperative Agreements, and Audits.—
 
 &emsp;(1)
 
-Contracts.—In the same manner that a private corporation may make a contract within the scope of its authority under its charter, the Secretary may make contracts for the United States Government and disburse amounts to—
+Contracts and cooperative agreements.—In the same manner that a private corporation may make a contract within the scope of its authority under its charter, the Secretary may make contracts and cooperative agreements for the United States Government and disburse amounts to—
 
-&emsp;&emsp;(A) carry out the Secretary's duties and powers under this section and subtitle V of title 46; and
+&emsp;&emsp;(A) carry out the Secretary's duties and powers under this section, subtitle V of title 46, and all other Maritime Administration programs; and
 
 &emsp;&emsp;(B) protect, preserve, and improve collateral held by the Secretary to secure indebtedness.
 
@@ -45,6 +45,10 @@ Contracts.—In the same manner that a private corporation may make a contract w
 Audits.—The financial transactions of the Secretary under paragraph (1) shall be audited by the Comptroller General. The Comptroller General shall allow credit for an expenditure shown to be necessary because of the nature of the business activities authorized by this section or subtitle V of title 46. At least once a year, the Comptroller General shall report to Congress any departure by the Secretary from this section or subtitle V of title 46.
 
 (i)
+
+Grant Administrative Expenses.—Except as otherwise provided by law, the administrative and related expenses for the administration of any grant programs by the Maritime Administrator may not exceed 3 percent.
+
+(j)
 
 Authorization of Appropriations.—
 
@@ -78,7 +82,7 @@ Limitations.—Only those amounts specifically authorized by law may be appropri
 
 Training Vessels.—Amounts may not be appropriated for the purchase or construction of training vessels for State maritime academies unless the Secretary has approved a plan for sharing training vessels between State maritime academies.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2417; Pub. L. 103–272, §5(m)(5), July 5, 1994, 108 Stat. 1375; Pub. L. 109–304, §12, Oct. 6, 2006, 120 Stat. 1698.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2417; Pub. L. 103–272, §5(m)(5), July 5, 1994, 108 Stat. 1375; Pub. L. 109–304, §12, Oct. 6, 2006, 120 Stat. 1698; Pub. L. 111–84, div. C, title XXXV, §3508, Oct. 28, 2009, 123 Stat. 2721.)
 
 Historical and Revision Notes
 
@@ -204,6 +208,14 @@ In subsection (i)(2), the words “Notwithstanding any other provision of this c
 
 #### Amendments
 
+2009—Subsec. (h). Pub. L. 111–84, §3508(1), substituted “Contracts, Cooperative Agreements, and Audits” for “Contracts and Audits” in heading.
+
+Subsec. (h)(1). Pub. L. 111–84, §3508(2), (3), substituted “Contracts and cooperative agreements” for “Contracts” in heading and “make contracts and cooperative agreements” for “make contracts” in introductory provisions.
+
+Subsec. (h)(1)(A). Pub. L. 111–84, §3508(4), (5), substituted “section,” for “section and” and “title 46, and all other Maritime Administration programs;” for “title 46;”.
+
+Subsecs. (i), (j). Pub. L. 111–84, §3508(6), added subsec. (i) and redesignated former subsec. (i) as (j).
+
 2006—Pub. L. 109–304 amended section generally. Prior to amendment, section read as follows:
 
 “(a) The Maritime Administration transferred by section 2 of the Maritime Act of 1981 (46 App. U.S.C. 1601) is an administration in the Department of Transportation.
@@ -215,4 +227,44 @@ In subsection (i)(2), the words “Notwithstanding any other provision of this c
 #### References in Other Federal Laws to Functions or Offices Transferred
 
 Pub. L. 97–31, §10, Aug. 6, 1981, 95 Stat. 153, provided that: “With respect to any function or office transferred by this Act \[see Tables for classification\] and exercised on or after the effective date of this Act \[Aug. 6, 1981\], reference in any other Federal law to the Maritime Administration or any of its predecessor agencies or any officer or office the functions of which are so transferred shall be deemed to refer to the Secretary of Transportation, other official, or component of the Department of Transportation to which this Act transfers such functions.”
+
+#### Expansion of the Marine View System
+
+Pub. L. 111–84, div. C, title XXXV, §3516, Oct. 28, 2009, 123 Stat. 2725, provided that:
+
+“(a)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Marine transportation system.—The term ‘marine transportation system’ means the navigable water transportation system of the United States, including the vessels, ports (and intermodal connections thereto), and shipyards and other vessel repair facilities that are components of that system.
+
+&emsp;“(2)
+
+Marine view system.—The term ‘Marine View system’ means the information system of the Maritime Administration known as Marine View.
+
+“(b)
+
+Purposes.—The purposes of this section are—
+
+&emsp;“(1) to expand the Marine View system; and
+
+&emsp;“(2) to provide support for the strategic requirements of the marine transportation system and its contribution to the economic viability of the United States.
+
+“(c)
+
+Expansion of Marine View System.—To accomplish the purposes of this section, the Secretary of Transportation shall expand the Marine View system so that such system is able to identify, collect, integrate, secure, protect, store, and securely distribute throughout the marine transportation system information that—
+
+&emsp;“(1) provides access to many disparate marine transportation system data sources;
+
+&emsp;“(2) enables a system-wide view of the marine transportation system;
+
+&emsp;“(3) fosters partnerships between the Government of the United States and private entities;
+
+&emsp;“(4) facilitates accurate and efficient modeling of the entire marine transportation system environment;
+
+&emsp;“(5) monitors and tracks threats to the marine transportation system, including areas of severe weather or reported piracy; and
+
+&emsp;“(6) provides vessel tracking and rerouting, as appropriate, to ensure that the economic viability of the United States waterways is maintained.”
 

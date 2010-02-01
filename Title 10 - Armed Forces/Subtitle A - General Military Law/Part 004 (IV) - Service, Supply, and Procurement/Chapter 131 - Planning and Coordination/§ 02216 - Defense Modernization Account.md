@@ -20,7 +20,7 @@ Transfers to Account.—(1)(A) Upon a determination by the Secretary of a milita
 
 &emsp;(i) Unexpired funds in appropriations accounts that are available for procurement and that, as a result of economies, efficiencies, and other savings achieved in carrying out a particular procurement, are excess to the requirements of that procurement.
 
-&emsp;(ii) Unexpired funds that are available during the final 30 days of a fiscal year for support of installations and facilities and that, as a result of economies, efficiencies, and othersavings, are excess to the requirements for support of installations and facilities.
+&emsp;(ii) Unexpired funds that are available during the final 30 days of a fiscal year for support of installations and facilities and that, as a result of economies, efficiencies, and other savings, are excess to the requirements for support of installations and facilities.
 
 &emsp;(iii) Unexpired funds in appropriations accounts that are available for procurement or operation and maintenance of a system, if and to the extent that savings are achieved for such accounts through reductions in life cycle costs of such system that result from one or more projects undertaken with respect to such systems with funds made available from the Defense Modernization Account under subsection (b)(1).
 
@@ -70,7 +70,7 @@ Limitations.—(1) Funds in the Defense Modernization Account may not be used to
 
 Transfer of Funds.—(1) The Secretary of Defense may transfer funds in the Defense Modernization Account to appropriations available for purposes set forth in subsection (d).
 
-(2) Funds in the Defense Modernization Account may not be transferred under paragraph (1) until 30 days after the date on which the Secretary concerned notifies the congressional defense committees in writing of the amount and purpose of the proposed transfer.
+(2) Funds in the Defense Modernization Account may not be transferred under paragraph\(1) until 30 days after the date on which the Secretary concerned notifies the congressional defense committees in writing of the amount and purpose of the proposed transfer.
 
 (3) The total amount of transfers from the Defense Modernization Account during any fiscal year under this subsection may not exceed $500,000,000.
 

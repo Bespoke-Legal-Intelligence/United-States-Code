@@ -18,5 +18,5 @@ Section was enacted as part of the National Aeronautics and Space Administration
 
 2005—Subsec. (a). Pub. L. 109–155, §704(1)–(4), substituted “implementation” for “Phase B” and “$250,000,000” for “$150,000,000”, substituted “Administrator” for “Chief Financial Officer” in two places, and inserted “and consider” after “shall conduct”.
 
-Subsec. (b). Pub. L. 109–155, §704(5), added subsec. (b) and struck out heading and text of former subsec. (b).Text read as follows: “For purposes of this section, the term ‘Phase B’ means the latter stages of project formulation, during which the final definition of a project is carried out and before project implementation (which includes the Design, Development, and Operations Phases) begins.”
+Subsec. (b). Pub. L. 109–155, §704(5), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “For purposes of this section, the term ‘Phase B’ means the latter stages of project formulation, during which the final definition of a project is carried out and before project implementation (which includes the Design, Development, and Operations Phases) begins.”
 

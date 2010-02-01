@@ -66,7 +66,7 @@ Section 106 of Pub. L. 94–169 provided that the amendment made by that section
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–328 effective first day of second calendar month which begins after June 30, 1972,see section 301(a) of Pub. L. 92–328, set out as a note under section 1114 of this title.
+Amendment by Pub. L. 92–328 effective first day of second calendar month which begins after June 30, 1972, see section 301(a) of Pub. L. 92–328, set out as a note under section 1114 of this title.
 
 #### Effective Date of 1967 Amendment
 

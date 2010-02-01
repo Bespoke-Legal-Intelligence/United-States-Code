@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the executive branch a corporation to be known as the “Millennium Challenge Corporation” that shall be responsible for carrying out this chapter. The Corporation shall be a government corporation, as defined in section 103 of title 5.
+There is established in the executive branch a corporation to be known as the “MillenniumChallenge Corporation” that shall be responsible for carrying out this chapter. The Corporation shall be a government corporation, as defined in section 103 of title 5.
 
 #### (b) Chief Executive Officer
 
@@ -54,7 +54,7 @@ There is established in the executive branch a corporation to be known as the �
 
 &emsp;The Board shall consist of—
 
-&emsp;&emsp;(A) the Secretary of State, the Secretary of the Treasury, the Administrator of theUnited States Agency for International Development, the Chief Executive Officer of the Corporation, and the United States Trade Representative; and
+&emsp;&emsp;(A) the Secretary of State, the Secretary of the Treasury, the Administrator of the United States Agency for International Development, the Chief Executive Officer of the Corporation, and the United States Trade Representative; and
 
 &emsp;&emsp;(B) four other individuals with relevant international experience who shall be appointed by the President, by and with the advice and consent of the Senate, of which—
 

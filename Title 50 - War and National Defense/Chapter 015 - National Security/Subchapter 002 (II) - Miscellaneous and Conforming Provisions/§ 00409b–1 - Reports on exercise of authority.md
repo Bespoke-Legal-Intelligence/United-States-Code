@@ -20,7 +20,7 @@
 
 (4) In this section—
 
-&emsp;(A) for purposes of the submittal of the classified annex to any report under this section, the term “appropriate committees of Congress” means—
+&emsp;(A) for purposes of the submittal of the classified annex to any report under this section,the term “appropriate committees of Congress” means—
 
 &emsp;&emsp;(i) the Select Committee on Intelligence of the Senate; and
 

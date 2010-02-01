@@ -24,7 +24,7 @@ When the amount available under this section for allotment to any State on the b
 
 #### (e) Reallocation of funds to new colleges of veterinary medicine
 
-Whenever a new college of veterinary medicine is established in a State and is accredited,the Secretary, after consultation with the dean of such college and the director of the State agricultural experiment station and, where applicable, deans of other accredited colleges in the State, shall provide for the reallocation of funds available to the State pursuant to subsection (b) of this section between the new college and other eligible institutions in the State, based on the animal health research capacity of each eligible institution.
+Whenever a new college of veterinary medicine is established in a State and is accredited, the Secretary, after consultation with the dean of such college and the director of the State agricultural experiment station and, where applicable, deans of other accredited colleges in the State, shall provide for the reallocation of funds available to the State pursuant to subsection (b) of this section between the new college and other eligible institutions in the State, based on the animal health research capacity of each eligible institution.
 
 #### (f) Joint establishment or support of accredited regional college of veterinary medicine
 
@@ -38,7 +38,7 @@ The Secretary, to the maximum extent practicable, shall encourage eligible insti
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

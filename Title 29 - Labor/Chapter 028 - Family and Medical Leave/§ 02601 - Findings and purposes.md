@@ -60,6 +60,10 @@ Collective bargaining agreements.—In the case of a collective bargaining agree
 
 &emsp;&emsp;“(B) the date that occurs 12 months after the date of the enactment of this Act.”
 
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–119, §1, Dec. 21, 2009, 123 Stat. 3476, provided that: “This Act \[amending sections 2611 and 2612 of this title\] may be cited as the ‘Airline Flight Crew Technical Corrections Act’.”
+
 #### Short Title
 
 Section 1(a) of Pub. L. 103–3 provided that: “This Act \[enacting this chapter, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, amending section 2105 of Title 5, and enacting provisions set out above\] may be cited as the ‘Family and Medical Leave Act of 1993’.”

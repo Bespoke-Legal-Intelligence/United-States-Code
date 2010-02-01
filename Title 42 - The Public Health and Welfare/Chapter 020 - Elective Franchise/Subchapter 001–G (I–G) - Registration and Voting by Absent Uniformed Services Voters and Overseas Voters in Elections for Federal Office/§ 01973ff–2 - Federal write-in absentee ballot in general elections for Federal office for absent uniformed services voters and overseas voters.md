@@ -2,7 +2,27 @@
 
 #### (a) In general
 
-The Presidential designee shall prescribe a Federal write-in absentee ballot (including a secrecy envelope and mailing envelope for such ballot) for use in general elections for Federal office by absent uniformed services voters and overseas voters who make timely application for, and do not receive, States, absentee ballots.
+#### (1) Federal write-in absentee ballot
+
+&emsp;The Presidential designee shall prescribe a Federal write-in absentee ballot (including a secrecy envelope and mailing envelope for such ballot) for use in general, special, primary, and runoff elections for Federal office by absent uniformed services voters and overseas voters who make timely application for, and do not receive, States,<sup>1</sup> absentee ballots.
+
+#### (2) Promotion and expansion of use of Federal write-in absentee ballots
+
+#### (A) In general
+
+&emsp;&emsp;Not later than December 31, 2011, the Presidential designee shall adopt procedures to promote and expand the use of the Federal write-in absentee ballot as a back-up measure to vote in elections for Federal office.
+
+#### (B) Use of technology
+
+&emsp;&emsp;Under such procedures, the Presidential designee shall utilize technology to implement a system under which the absent uniformed services voter or overseas voter may—
+
+&emsp;&emsp;&emsp;(i) enter the address of the voter or other information relevant in the appropriate jurisdiction of the State, and the system will generate a list of all candidates in the election for Federal office in that jurisdiction; and
+
+&emsp;&emsp;&emsp;(ii) submit the marked Federal write-in absentee ballot by printing the ballot (including complete instructions for submitting the marked Federal write-in absentee ballot to the appropriate State election official and the mailing address of the single State office designated under section 1973ff–1(b) of this title).
+
+#### (C) Authorization of appropriations
+
+&emsp;&emsp;There are authorized to be appropriated to the Presidential designee such sums as may be necessary to carry out this paragraph.
 
 #### (b) Submission and processing
 
@@ -34,23 +54,45 @@ An absent uniformed services voter or overseas voter who submits a Federal write
 
 #### (e) Use of approved State absentee ballot in place of Federal write-in absentee ballot
 
-The Federal write-in absentee ballot shall not be valid for use in a general election if the State involved provides a State absentee ballot that—
+The Federal write-in absentee ballot shall not be valid for use in a general, special, primary, or runoff election for Federal office if the State involved provides a State absentee ballot that—
 
 &emsp;(1) at the request of the State, is approved by the Presidential designee for use in place of the Federal write-in absentee ballot; and
 
 &emsp;(2) is made available to absent uniformed services voters and overseas voters at least 60 days before the deadline for receipt of the State ballot under State law.
 
-#### (f) Certain States exempted
+#### (f) Prohibiting refusal to accept ballot for failure to meet certain requirements
+
+A State shall not refuse to accept and process any otherwise valid Federal write-in absentee ballot submitted in any manner by an absent uniformed services voter or overseas voter solely on the basis of the following:
+
+&emsp;(1) Notarization requirements.
+
+&emsp;(2) Restrictions on paper type, including weight and size.
+
+&emsp;(3) Restrictions on envelope type, including weight and size.
+
+#### (g) Certain States exempted
 
 A State is not required to permit use of the Federal write-in absentee ballot, if, on and after August 28, 1986, the State has in effect a law providing that—
 
-&emsp;(1) a State absentee ballot is required to be available to any voter described in section1973ff–6(5)(A) of this title at least 90 days before the general election involved; and
+&emsp;(1) a State absentee ballot is required to be available to any voter described in section 1973ff–6(5)(A) of this title at least 90 days before the general, special, primary, or runoff election for Federal office involved; and
 
-&emsp;(2) a State absentee ballot is required to be available to any voter described in section 1973ff–6(5)(B) or (C) of this title, as soon as the official list of candidates in the general election is complete.
+&emsp;(2) a State absentee ballot is required to be available to any voter described in section 1973ff–6(5)(B) or (C) of this title, as soon as the official list of candidates in the general, special, primary, or runoff election for Federal office is complete.
 
-(Pub. L. 99–410, title I, §103, Aug. 28, 1986, 100 Stat. 925; Pub. L. 108–375, div. A, title V, §566(c), (d), Oct. 28, 2004, 118 Stat. 1919.)
+(Pub. L. 99–410, title I, §103, Aug. 28, 1986, 100 Stat. 925; Pub. L. 108–375, div. A, title V, §566(c), (d), Oct. 28, 2004, 118 Stat. 1919; Pub. L. 111–84, div. A, title V, §§581(a)(1), (b), 582(b), Oct. 28, 2009, 123 Stat. 2326, 2327.)
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–84, §581(b), substituted “In general” for “In General” in subsec. (a) heading, designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
+
+Pub. L. 111–84, §581(a)(1)(A), substituted “general, special, primary, and runoff elections for Federal office” for “general elections for Federal office”.
+
+Subsec. (e). Pub. L. 111–84, §581(a)(1)(B), substituted “a general, special, primary, or runoff election for Federal office” for “a general election” in introductory provisions.
+
+Subsec. (f). Pub. L. 111–84, §582(b)(2), added subsec. (f). Former subsec. (f) redesignated (g).
+
+Subsec. (f)(1), (2). Pub. L. 111–84, §581(a)(1)(C), which directed substitution of “the general, special, primary, or runoff election for Federal office” for “the general election” each place appearing in subsec. (f), was executed by making the substitution in pars. (1) and (2) prior to the redesignation of subsec. (f) as (g) by Pub. L. 111–84, §582(b)(1), to reflect the probable intent of Congress. See Effective Date of 2009 Amendment note below.
+
+Subsec. (g). Pub. L. 111–84, §582(b)(1), redesignated subsec. (f) as (g).
 
 2004—Pub. L. 108–375, §566(d)(1), substituted “Federal write-in absentee ballot in general elections for Federal office for absent uniformed services voters and overseas voters” for “Federal write-in absentee ballot for overseas voters in general elections for Federal office” in section catchline.
 
@@ -69,4 +111,12 @@ Subsec. (c)(1). Pub. L. 108–375, §566(c)(3), substituted “absent uniformed 
 Subsec. (d). Pub. L. 108–375, §566(c)(4), (d)(2), substituted “absent uniformed services voter or overseas voter” for “overseas voter” in heading and two places in text.
 
 Subsec. (e)(2). Pub. L. 108–375, §566(c)(5), substituted “absent uniformed services voters and overseas voters” for “overseas voters”.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–84, div. A, title V, §581(a)(2), Oct. 28, 2009, 123 Stat. 2326, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on December 31, 2010, and apply with respect to elections for Federal office held on or after such date.”
+
+Amendment by section 582(b) of Pub. L. 111–84 applicable with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office, see section 582(c) of Pub. L. 111–84, set out as a note under section 1973ff–1 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “States’ ”.</i>
 

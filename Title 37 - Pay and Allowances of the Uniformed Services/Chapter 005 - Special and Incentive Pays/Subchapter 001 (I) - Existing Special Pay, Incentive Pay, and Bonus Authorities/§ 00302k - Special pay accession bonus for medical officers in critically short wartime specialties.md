@@ -26,11 +26,13 @@ Repayment.—A person who, after executing an agreement under subsection (a) is 
 
 (f)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2009.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2010.
 
-(Added Pub. L. 109–364, div. A, title VI, §617(b), Oct. 17, 2006, 120 Stat. 2249; amended Pub. L. 110–181, div. A, title VI, §612(h), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §612(h), Oct. 14, 2008, 122 Stat. 4484.)
+(Added Pub. L. 109–364, div. A, title VI, §617(b), Oct. 17, 2006, 120 Stat. 2249; amended Pub. L. 110–181, div. A, title VI, §612(h), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §612(h), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §612(b)(7), Oct. 28, 2009, 123 Stat. 2353.)
 
 #### Amendments
+
+2009—Subsec. (f). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 
 2008—Subsec. (f). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
 

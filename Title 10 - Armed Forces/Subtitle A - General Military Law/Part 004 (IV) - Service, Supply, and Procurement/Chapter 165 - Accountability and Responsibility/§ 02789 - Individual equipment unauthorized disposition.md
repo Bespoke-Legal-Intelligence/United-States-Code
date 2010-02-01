@@ -10,7 +10,7 @@ Seizure of Improperly Disposed Property.—If a member of the armed forces has d
 
 (c)
 
-Delivery of Seized Property.—If an officer who seizes property under subsection (b) is not authorized to retain it for the United States,the officer shall deliver the property to a person who is authorized to retain it.
+Delivery of Seized Property.—If an officer who seizes property under subsection (b) is not authorized to retain it for the United States, the officer shall deliver the property to a person who is authorized to retain it.
 
 (Added Pub. L. 110–181, div. A, title III, §375(a), Jan. 28, 2008, 122 Stat. 83.)
 

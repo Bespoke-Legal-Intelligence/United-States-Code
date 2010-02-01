@@ -12,7 +12,7 @@ The location, replacement, or expansion of chanceries in the District of Columbi
 
 &emsp;(A) in any area which is zoned medium-high or high density residential, and
 
-&emsp;(B) in any other area, determined on the basis of existing uses, which includes office or institutional uses, including but not limited to any area zoned mixed-use diplomatic or special purpose,
+&emsp;(B) in any other area, determined on the basis of existing uses, which includes office orinstitutional uses, including but not limited to any area zoned mixed-use diplomatic or special purpose,
 
 > subject to disapproval by the District of Columbia Board of Zoning Adjustment in accordance with this section.
 
@@ -20,7 +20,7 @@ The location, replacement, or expansion of chanceries in the District of Columbi
 
 #### (c) Filing of application with Board of Zoning Adjustment; publication of notice; public participation; final determination
 
-(1) If a foreign mission wishes to locate a chancery in an area described in subsection\(b)(2) of this section, or wishes to appeal an administrative decision relating to a chancery based in whole or in part upon any zoning map or regulation, it shall file an application with the Board of Zoning Adjustment which shall publish notice of that application in the District of Columbia Register.
+(1) If a foreign mission wishes to locate a chancery in an area described in subsection (b)(2) of this section, or wishes to appeal an administrative decision relating to a chancery based in whole or in part upon any zoning map or regulation, it shall file an application with the Board of Zoning Adjustment which shall publish notice of that application in the District of Columbia Register.
 
 (2) Regulations issued to carry out this section shall provide appropriate opportunities for participation by the public in proceedings concerning the location, replacement, or expansion of chanceries.
 
@@ -70,7 +70,7 @@ Approval by the Board of Zoning Adjustment or the Zoning Commission or, except a
 
 (2) Whenever the Board of Zoning Adjustment is performing functions regarding an application by a foreign mission with respect to the location, expansion, or replacement of a chancery—
 
-&emsp;(A) the representative from the Zoning Commission shall be the Director of the National Park Service or if another person has been designated under paragraph (1) of this subsection, the person so designated; and
+&emsp;(A) the representative from the Zoning Commission shall be the Director of the NationalPark Service or if another person has been designated under paragraph (1) of this subsection, the person so designated; and
 
 &emsp;(B) the representative from the National Capital Planning Commission shall be the Executive Director of that Commission.
 

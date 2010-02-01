@@ -28,11 +28,11 @@
 
 #### (1) In general
 
-&emsp;Not later than 120 days after the end of each fiscal year, the Corporation shall prepare and submit, to the appropriate authorizing and appropriation Committees of Congress, a report concerning the programs that receive assistance under the national service laws.
+&emsp;Not later than 120 days after the end of each fiscal year, the Corporation shall prepare and submit, to the authorizing committees, the Committee on Appropriations of the House of Representatives, and the Committee on Appropriations of the Senate, a report concerning the programs that receive assistance under the national service laws.
 
 #### (2) Content
 
-&emsp;Reports submitted under paragraph (1) shall contain a summary of the information contained in the State reports submitted undersubsection (a) of this section, and shall reflect the findings and actions taken as a result of any evaluation conducted by the Corporation.
+&emsp;Reports submitted under paragraph (1) shall contain a summary of the information contained in the State reports submitted under subsection (a) of this section, and shall reflect the findings and actions taken as a result of any evaluation conducted by the Corporation.
 
 #### (c) Report to Congress by Secretary of Defense
 
@@ -42,15 +42,19 @@
 
 #### (2) Report
 
-&emsp;The Secretary of Defense shall annually submit a report to the appropriate committees of Congress containing the findings of the study described in paragraph (1) and such recommendations for legislative and administrative reform as the Secretary may determine to be appropriate.
+&emsp;The Secretary of Defense shall annually submit a report to the authorizing committees, the Committee on Armed Services of the House of Representatives, and the Committee on Armed Services of the Senate containing the findings of the study described in paragraph (1) and such recommendations for legislative and administrative reform as the Secretary may determine to be appropriate.
 
-(Pub. L. 101–610, title I, §172, Nov. 16, 1990, 104 Stat. 3159; Pub. L. 103–82, title I, §114, title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 861, 918.)
+(Pub. L. 101–610, title I, §172, Nov. 16, 1990, 104 Stat. 3159; Pub. L. 103–82, title I, §114, title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 861, 918; Pub. L. 111–13, title I, §1602, Apr. 21, 2009, 123 Stat. 1529.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(3)(A), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, known as the National and Community Service Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+This chapter, referred to in subsec. (a)(3)(A), was in the original “this Act”, meaning Pub. L. 101–610, Nov.16, 1990, 104 Stat. 3127, known as the National and Community Service Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 #### Amendments
+
+2009—Subsec. (b)(1). Pub. L. 111–13, §1602(1), which directed substitution of “authorizing committees, the Committee on Appropriations of the House of Representatives, and the Committee on Appropriations of the Senate” for “appropriate authorizing and appropriations Committees of Congress”, was executed by making the substitution for “appropriate authorizing and appropriation Committees of Congress” to reflect the probable intent of Congress.
+
+Subsec. (c)(2). Pub. L. 111–13, §1602(2), substituted “the authorizing committees, the Committee on Armed Services of the House of Representatives, and the Committee on Armed Services of the Senate” for “the appropriate committees of Congress”.
 
 1993—Subsec. (a)(1). Pub. L. 103–82, §402(b)(1), substituted “Corporation” for “Commission”.
 
@@ -65,6 +69,10 @@ Pub. L. 103–82, §114(2)(B), substituted “the national service laws” for �
 Subsec. (b)(2). Pub. L. 103–82, §402(b)(1), substituted “Corporation” for “Commission”.
 
 Subsec. (c). Pub. L. 103–82, §114(3), added subsec. (c).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 
 #### Effective Date of 1993 Amendment
 

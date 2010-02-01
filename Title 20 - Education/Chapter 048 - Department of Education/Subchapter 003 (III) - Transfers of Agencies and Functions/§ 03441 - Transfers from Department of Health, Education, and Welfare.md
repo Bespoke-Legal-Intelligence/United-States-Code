@@ -42,7 +42,7 @@ There are transferred to the Secretary—
 
 &emsp;&emsp;(Q) the Alcohol and Drug Abuse Education Act \[21 U.S.C. 1001 et seq.\];
 
-&emsp;(3) all functions of the Secretary of Health, Education, and Welfare and of the Department of Health, Education, and Welfare with respect to or being administered by the Office for Civil Rights which relate to functions transferred by this section;
+&emsp;(3) all functions of the Secretary of Health, Education, and Welfare and of the Department of Health, Education, and Welfare with respectto or being administered by the Office for Civil Rights which relate to functions transferred by this section;
 
 &emsp;(4)(A) all functions of the Secretary of Health, Education, and Welfare and of the Department of Health, Education, and Welfare under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], except that the provisions of this subparagraph shall not be construed to transfer to the Secretary the functions of the Secretary of Health, Education, and Welfare under sections 222 and 1615 of the Social Security Act \[42 U.S.C. 422 and 1382d\];
 
@@ -106,7 +106,7 @@ The Individuals with Disabilities Education Act, referred to in subsec. (a)(2)(H
 
 The Economic Opportunity Act of 1964, referred to in subsecs. (a)(2)(I) and (d), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Parts A and B of title V of the Economic Opportunity Act of 1964 were classified generally to parts A (§2928 et seq.) and B (§2929 et seq.) of subchapter V of chapter 34 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
 
-The National Commission on Libraries and Information Science Act, referred to in subsec. (a)(2)(J), is Pub. L. 91–345, July 20, 1970, 84 Stat. 440, as amended, which is classified generally to chapter 34 (§1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
+The National Commission on Libraries and Information Science Act, referred to in subsec. (a)(2)(J), is Pub.L. 91–345, July 20, 1970, 84 Stat. 440, as amended, which is classified generally to chapter 34 (§1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
 
 The Vocational Education Act of 1963, referred to in subsec. (a)(2)(K), was title I of Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 94–482, title II, §202(a), Oct. 12, 1976, 90 Stat. 2169, which was classified to chapter 44 (§2301 et seq.) of this title, prior to amendment by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2435, striking out all after the enacting clause and inserting in lieu thereof titles I to V, to be cited as the Carl D. Perkins Vocational Education Act. The Act was subsequently amended extensively by Pub. L. 101–392, Sept. 25, 1990, 104 Stat. 753, which renamed it the Carl D. Perkins Vocational and Applied Technology Education Act, amended generally by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076, which renamed it the Carl D. Perkins Vocational and Technical Education Act of 1998, and again amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which renamed it the Carl D. Perkins Career and Technical Education Act of 2006. For additional details, see Codification note preceding section 2301 of this title.
 

@@ -14,7 +14,7 @@
 
 (1) National primary ambient air quality standards, prescribed under subsection (a) of this section shall be ambient air quality standards the attainment and maintenance of which in the judgment of the Administrator, based on such criteria and allowing an adequate margin of safety, are requisite to protect the public health. Such primary standards may be revised in the same manner as promulgated.
 
-(2) Any national secondary ambient air quality standard prescribed under subsection (a) ofthis section shall specify a level of air quality the attainment and maintenance of which in the judgment of the Administrator, based on such criteria, is requisite to protect the public welfare from any known or anticipated adverse effects associated with the presence of such air pollutant in the ambient air. Such secondary standards may be revised in the same manner as promulgated.
+(2) Any national secondary ambient air quality standard prescribed under subsection (a) of this section shall specify a level of air quality the attainment and maintenance of which in the judgment of the Administrator, based on such criteria, is requisite to protect the public welfare from any known or anticipated adverse effects associated with the presence of such air pollutant in the ambient air. Such secondary standards may be revised in the same manner as promulgated.
 
 #### (c) National primary ambient air quality standard for nitrogen dioxide
 
@@ -76,7 +76,7 @@ Report.—The Administrator shall request the National Academy of Sciences to pr
 
 &emsp;“(5) estimate the costs and other impacts of meeting secondary standards; and
 
-&emsp;“(6) consider other means consistent with the goals and objectives of the Clean Air Act \[42 U.S.C. 7401 etseq.\] which may be more effective than secondary standards in preventing or mitigating such effects.
+&emsp;“(6) consider other means consistent with the goals and objectives of the Clean Air Act \[42 U.S.C. 7401 et seq.\] which may be more effective than secondary standards in preventing or mitigating such effects.
 
 “(b)
 

@@ -1,6 +1,6 @@
 ### §210. Precedence of chapter
 
-(a) This chapter shall take precedence over any other Act which would require a disposition of rights in subject inventions of small business firms or nonprofit organizations contractors in a manner that is inconsistent with this chapter, including but not necessarily limited to the following:
+(a) This chapter shall take precedence over any other Act which would require a dispositionof rights in subject inventions of small business firms or nonprofit organizations contractors in a manner that is inconsistent with this chapter, including but not necessarily limited to the following:
 
 &emsp;(1) section 10(a) of the Act of June 29, 1935, as added by title I of the Act of August 14, 1946 (7 U.S.C. 427i(a); 60 Stat. 1085);
 
@@ -66,7 +66,7 @@ Section 3 of the Act of April 5, 1944 (30 U.S.C. 323; 58 Stat. 191), referred to
 
 Section 306(d) of the Surface Mining and Reclamation Act, referred to in subsec. (a)(17), was classified to section 1226(d) of Title 30, Mineral Lands and Mining, prior to enactment of Pub. L. 98–409, which enacted a new section 1226 of Title 30. See section 1226(c) of Title 30.
 
-The Native Latex Commercialization and Economic Development Act of 1978, referred to in subsec. (a)(20), is Pub. L. 95–592, Nov. 4, 1978, 92 Stat. 2529, as amended, which, as amended by Pub. L. 98–284, May 16, 1984, 98 Stat. 181, is known as the Critical Agricultural Materials Act and is classified principally to subchapter II (§178 et seq.) of chapter 8A of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 178 of Title 7 and Tables.
+The Native Latex Commercialization and Economic Development Act of 1978, referred to in subsec. (a)(20), is Pub. L. 95–592, Nov. 4, 1978, 92 Stat. 2529, as amended, which, as amended by Pub. L. 98–284, May 16, 1984, 98 Stat. 181, is known as the Critical Agricultural Materials Act and is classified principally to subchapter II\(§178 et seq.) of chapter 8A of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 178 of Title 7 and Tables.
 
 Section 408 of the Water Resources and Development Act of 1978 (42 U.S.C. 7879; 92 Stat. 1360), referred to in subsec. (a)(21), was repealed by Pub. L. 98–242, title I, §110(a), Mar. 22, 1984, 98 Stat. 101. See section 10308 of Title 42, The Public Health and Welfare.
 

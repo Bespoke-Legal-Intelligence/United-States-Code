@@ -12,7 +12,7 @@ No remission, abatement, refund, or drawback of estimated or liquidated duty sha
 
 #### (b) Payment of duties required notwithstanding export or destruction of articles; exception
 
-When articles are exported or destroyed under customs supervision after once having been released from customs custody, as provided for in subsection (h) <sup>1</sup> of section 1304 of this title, such exportation or destruction shall not exempt such articles from the payment of duties other than the marking duty provided for in such subsection (h).
+When articles are exported or destroyed under customs supervision after once having been released from customs custody, as provided for in subsection (h) <sup>1</sup> of section 1304 of this title, such exportation or destruction shall not exempt such articles from the payment of duties otherthan the marking duty provided for in such subsection (h).
 
 (June 17, 1930, ch. 497, title IV, §558, 46 Stat. 744; June 25, 1938, ch. 679, §24, 52 Stat. 1088; Pub. L. 106–36, title I, §1001(b)(9), June 25, 1999, 113 Stat. 132.)
 

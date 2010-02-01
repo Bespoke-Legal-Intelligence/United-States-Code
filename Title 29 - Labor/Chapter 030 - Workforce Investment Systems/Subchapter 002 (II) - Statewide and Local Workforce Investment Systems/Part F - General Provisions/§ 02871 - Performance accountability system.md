@@ -76,7 +76,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 &emsp;&emsp;&emsp;&emsp;(I) the extent to which the levels involved will assist the State in attaining a high level of customer satisfaction;
 
-&emsp;&emsp;&emsp;&emsp;(II) how the levels involved compare with the State adjusted levels of performance established for other States, taking into account factors including differences in economic conditions, thecharacteristics of participants when the participants entered the program, and the services to be provided; and
+&emsp;&emsp;&emsp;&emsp;(II) how the levels involved compare with the State adjusted levels of performance established for other States, taking into account factors including differences in economic conditions, the characteristics of participants when the participants entered the program, and the services to be provided; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the extent to which such levels involved promote continuous improvement in performance on the performance measures by such State and ensure optimal return on the investment of Federal funds.
 

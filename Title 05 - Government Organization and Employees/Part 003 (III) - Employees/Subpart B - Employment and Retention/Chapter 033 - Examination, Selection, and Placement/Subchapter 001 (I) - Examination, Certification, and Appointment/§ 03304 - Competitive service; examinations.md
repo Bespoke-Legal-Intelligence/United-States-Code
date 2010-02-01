@@ -10,9 +10,7 @@
 
 &emsp;&emsp;(A) public notice has been given; and
 
-&emsp;&emsp;(B)(i) the Office of Personnel Management has determined that there exists a severe shortage of candidates or there is a critical hiring need; or
-
-&emsp;&emsp;(ii) the candidate is a participant in the Science, Mathematics, and Research for Transformation (SMART) Defense Defense <sup>1</sup> Education Program under section 2192a of title 10, United States Code.
+&emsp;&emsp;(B) the Office of Personnel Management has determined that there exists a severe shortage of candidates or that there is a critical hiring need.
 
 > The Office shall prescribe, by regulation, criteria for identifying such positions and may delegate authority to make determinations under such criteria.
 
@@ -20,7 +18,7 @@
 
 (c)(1) For the purpose of this subsection, the term “technician” has the meaning given such term by section 8337(h)(1) of this title.
 
-(2) Notwithstanding a contrary provision of this title or of the rules and regulations prescribed under this title for the administration of the competitive service, an individual who served for at least 3 years as a technician acquires a competitive status for transfer to the competitive service if such individual—
+(2) Notwithstanding a contrary provision of this title or of the rules and regulations prescribed under this title for the administration ofthe competitive service, an individual who served for at least 3 years as a technician acquires a competitive status for transfer to the competitive service if such individual—
 
 &emsp;(A) is involuntarily separated from service as a technician other than by removal for cause on charges of misconduct or delinquency;
 
@@ -42,7 +40,7 @@
 
 (5) The Office of Personnel Management shall prescribe regulations necessary for the administration of this subsection. The regulations shall ensure that an individual who has completed an initial tour of active duty is not excluded from the application of this subsection because of having been released from such tour of duty shortly before completing 3 years of active service, having been honorably released from such duty.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–339, §2, Oct. 31, 1998, 112 Stat. 3182; Pub. L. 106–117, title V, §511(c), Nov. 30, 1999, 113 Stat. 1575; Pub. L. 107–296, title XIII, §1312(a)(1), Nov. 25, 2002, 116 Stat. 2290; Pub. L. 108–375, div. A, title XI,§1105(g), Oct. 28, 2004, 118 Stat. 2075; Pub. L. 109–163, div. A, title XI, §1104(e)(2), Jan. 6, 2006, 119 Stat. 3450.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–339, §2, Oct. 31, 1998, 112 Stat. 3182; Pub. L. 106–117, title V, §511(c), Nov. 30, 1999, 113 Stat. 1575; Pub. L. 107–296, title XIII, §1312(a)(1), Nov. 25, 2002, 116 Stat. 2290; Pub. L. 108–375, div. A, title XI, §1105(g), Oct. 28, 2004, 118 Stat. 2075; Pub. L. 109–163, div. A, title XI, §1104(e)(2), Jan. 6, 2006, 119 Stat. 3450; Pub. L. 111–84, div. A, title XI, §1102(d)(2), Oct. 28, 2009, 123 Stat. 2485.)
 
 Historical and Revision Notes
 
@@ -106,6 +104,12 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+2009—Subsec. (a)(3)(B). Pub. L. 111–84 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
+
+“(i) the Office of Personnel Management has determined that there exists a severe shortage of candidates or there is a critical hiring need; or
+
+“(ii) the candidate is a participant in the Science, Mathematics, and Research for Transformation (SMART) Defense Defense Education Program under section 2192a of title 10, United States Code.”
+
 2006—Subsec. (a)(3)(B)(ii). Pub. L. 109–163 substituted “Defense Education Program” for “Scholarship Pilot Program” and “section 2192a of title 10, United States Code.” for “section 1105 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005.”
 
 2004—Subsec. (a)(3)(B). Pub. L. 108–375 added subpar. (B) and struck out former subpar. (B) which read as follows: “the Office of Personnel Management has determined that there exists a severe shortage of candidates or there is a critical hiring need.”
@@ -159,6 +163,4 @@ Section 17(b) of Pub. L. 104–65 provided that: “The amendment made by this s
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

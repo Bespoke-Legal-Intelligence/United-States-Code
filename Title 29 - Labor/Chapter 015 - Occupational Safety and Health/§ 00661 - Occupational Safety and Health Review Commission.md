@@ -24,11 +24,11 @@ For the purpose of carrying out its functions under this chapter, two members of
 
 #### (g) Hearings and records open to public; promulgation of rules; applicability of Federal Rules of Civil Procedure
 
-Every official act of the Commission shall be entered of record, and its hearings and recordsshall be open to the public. The Commission is authorized to make such rules as are necessary for the orderly transaction of its proceedings. Unless the Commission has adopted a different rule, its proceedings shall be in accordance with the Federal Rules of Civil Procedure.
+Every official act of the Commission shall be entered of record, and its hearings and records shall be open to the public. The Commission is authorized to make such rules as are necessary for the orderly transaction of its proceedings. Unless the Commission has adopted a different rule, its proceedings shall be in accordance with the Federal Rules of Civil Procedure.
 
 #### (h) Depositions and production of documentary evidence; fees
 
-The Commission may order testimony to be taken by deposition in any proceeding pending before it at any state of such proceeding. Any person may be compelled to appear and depose, and to produce books, papers, or documents, in the same manner as witnesses may be compelled to appear and testify and produce like documentary evidence before the Commission. Witnesses whose depositions are taken under this subsection, and the persons taking such depositions, shall be entitled to the same fees as are paid for like services in the courts of the United States.
+The Commission may order testimony to be taken by deposition in any proceeding pending before it at any state of such proceeding. Any person may be compelled to appear and depose, and to produce books, papers, or documents, in the same manner as witnesses may be compelled to appear and testify and produce like documentary evidence before the Commission. Witnesses whose depositions are taken under this subsection, and the persons taking such depositions, shall be entitled to the same fees as arepaid for like services in the courts of the United States.
 
 #### (i) Investigatory powers
 

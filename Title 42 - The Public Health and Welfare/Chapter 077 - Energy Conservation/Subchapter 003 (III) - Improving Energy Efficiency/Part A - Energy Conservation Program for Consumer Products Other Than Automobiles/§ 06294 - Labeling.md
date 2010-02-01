@@ -14,7 +14,7 @@ Metal halide lamp fixtures.—
 
 &emsp;(i)
 
-In general.—The Commission shall issue labeling rules under this section applicable tothe covered product specified in section 6292(a)(19) of this title and to which standards are applicable under section 6295 of this title.
+In general.—The Commission shall issue labeling rules under this section applicable to the covered product specified in section 6292(a)(19) of this title and to which standards are applicable under section 6295 of this title.
 
 &emsp;(ii)
 
@@ -44,7 +44,7 @@ Completion.—The Commission shall—
 
 &emsp;&emsp;(bb) consider reopening the rulemaking not later than 180 days before the effective dates of the standards for general service incandescent lamps established under section 6295(i)(1)(A) of this title, if the Commission determines that further labeling changes are needed to help consumers understand lamp alternatives.
 
-(E)(i) Not later than one year after October 24, 1992, the Commission shall prescribe labeling rules under this section for showerheads and faucets to which standards are applicable under subsection (j) of section 6295 of this title. Such rules shall provide that the labeling of any showerhead or faucet manufactured after the 12-month period beginning on the date of the publication of such rule shall be consistent with the marking and labeling requirements of ASME A112.18.1M–1989, except that each showerhead and flow restricting or controlling spout-end device shall bear a permanent legible marking indicating the flow rate, expressed in gallons per minute (gpm) or gallons per cycle (gpc), and the flow rate value shall be the actual flow rate or the maximum flow rate specified by the standards established in subsection (j) of section 6295 of this title.
+(E)(i) Not later than one year after October 24, 1992, the Commission shall prescribe labelingrules under this section for showerheads and faucets to which standards are applicable under subsection (j) of section 6295 of this title. Such rules shall provide that the labeling of any showerhead or faucet manufactured after the 12-month period beginning on the date of the publication of such rule shall be consistent with the marking and labeling requirements of ASME A112.18.1M–1989, except that each showerhead and flow restricting or controlling spout-end device shall bear a permanent legible marking indicating the flow rate, expressed in gallons per minute (gpm) or gallons per cycle (gpc), and the flow rate value shall be the actual flow rate or the maximum flow rate specified by the standards established in subsection (j) of section 6295 of this title.
 
 (ii) If the marking and labeling requirements of ASME A112.18.1M–1989 are revised at any time and approved by ANSI, the Commission shall amend the labeling rules established pursuant to clause (i) to be consistent with such revised ASME/ANSI requirements unless such requirements are inconsistent with the purposes of this chapter or the requirement specified in clause (i) requiring each showerhead and flow restricting or controlling spout-end device to bear a permanent legible marking indicating the flow rate of such product.
 
@@ -326,7 +326,7 @@ In general.—In cooperation with the Administrator of the Environmental Protect
 
 &emsp;&emsp;“(i) to identify trends in the market shares of lamp types, efficiencies, and light output levels purchased by residential and nonresidential consumers; and
 
-&emsp;&emsp;“(ii) to better understand the degree to which consumer decisionmaking is based on lamp power levels or watts, light output or lumens, lamp lifetime, and other factors, including information required on labels mandated by the Federal Trade Commission;
+&emsp;&emsp;“(ii) to better understand the degree to which consumer decisionmaking is based on lamp powerlevels or watts, light output or lumens, lamp lifetime, and other factors, including information required on labels mandated by the Federal Trade Commission;
 
 &emsp;“(B) provide the results of the market assessment to the Federal Trade Commission for consideration in the rulemaking described in section 324(a)(2)(C)(iii) of the Energy Policy and Conservation Act (42 U.S.C. 6294(a)(2)(C)(iii)); and
 

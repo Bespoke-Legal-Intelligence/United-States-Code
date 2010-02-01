@@ -40,13 +40,13 @@
 
 &emsp;(3) in any case, the printing or other final process of producing multiple copies and any binding of the copies have been performed in the United States or Canada.
 
-(d) Importation or public distribution of copies in violation of this section does not invalidate protection for a work under this title. However, in any civil action or criminal proceeding for infringement of the exclusive rights to reproduce and distribute copies of the work, the infringer has a complete defense with respect to all of the nondramatic literary material comprised in the work and any other parts of the work in which the exclusive rights to reproduce and distribute copies are owned by the same person who owns such exclusive rights in the nondramatic literary material, if the infringer proves—
+(d) Importation or public distribution of copies in violation of this section does not invalidate protection for a work under this title. However, in any civil action or criminal proceeding for infringement of the exclusive rights to reproduce and distribute copies of the work, the infringer has a complete defense with respect to all of the nondramatic literary material comprised in the work and any other parts of the work in which the exclusive rights to reproduce and distributecopies are owned by the same person who owns such exclusive rights in the nondramatic literary material, if the infringer proves—
 
 &emsp;(1) that copies of the work have been imported into or publicly distributed in the United States in violation of this section by or with the authority of the owner of such exclusive rights; and
 
 &emsp;(2) that the infringing copies were manufactured in the United States or Canada in accordance with the provisions of subsection (c); and
 
-&emsp;(3) that the infringement was commenced before the effective date of registration for anauthorized edition of the work, the copies of which have been manufactured in the United States or Canada in accordance with the provisions of subsection (c).
+&emsp;(3) that the infringement was commenced before the effective date of registration for an authorized edition of the work, the copies of which have been manufactured in the United States or Canada in accordance with the provisions of subsection (c).
 
 (e) In any action for infringement of the exclusive rights to reproduce and distribute copies of a work containing material required by this section to be manufactured in the United States or Canada, the copyright owner shall set forth in the complaint the names of the persons or organizations who performed the processes specified by subsection (c) with respect to that material, and the places where those processes were performed.
 
@@ -82,11 +82,11 @@ The following were the principal arguments in favor of retaining some kind of ma
 
 After carefully weighing these arguments, the Committee concludes that there is no justification on principle for a manufacturing requirement in the copyright statute, and although there may have been some economic justification for it at one time, that justification no longer exists. While it is true that section 601 represents a substantial liberalization and that it would remove many of the inequities of the present manufacturing requirement, the real issue is whether retention of a provision of this sort in a copyright law can continue to be justified. The Committee believes it cannot.
 
-The Committee recognizes that immediate repeal of the manufacturing requirement might have damaging effects in some segments of the U.S. printing industry. It has therefore amended section 601 to retain the liberalized requirement through the end of 1980, but to repeal it definitively as of January 1, 1981. It also adopted an amendment further ameliorating the effect of this temporary legislation on individual American authors.
+The Committee recognizes that immediate repeal of the manufacturing requirement might have damagingeffects in some segments of the U.S. printing industry. It has therefore amended section 601 to retain the liberalized requirement through the end of 1980, but to repeal it definitively as of January 1, 1981. It also adopted an amendment further ameliorating the effect of this temporary legislation on individual American authors.
 
 In view of this decision, the detailed discussion of section 601 that follows will cease to be of significance after 1980.
 
-<b>Works Subject to the Manufacturing Requirement.</b> The scope of the manufacturing requirement, as set out in subsections (a) and (b) of section 601, is considerably more limited than that of present law. The requirements apply to “a work consisting preponderantly of nondramatic literary material that is in the Englishlanguage and is protected under this title,” and would thus not extend to: dramatic, musical, pictorial, or graphic works; foreign-language, bilingual, or multilingual works; public domain material; or works consisting preponderantly of material that is not subject to the manufacturing requirement.
+<b>Works Subject to the Manufacturing Requirement.</b> The scope of the manufacturing requirement, as set out in subsections (a) and (b) of section 601, is considerably more limited than that of present law. The requirements apply to “a work consisting preponderantly of nondramatic literary material that is in the English language and is protected under this title,” and would thus not extend to: dramatic, musical, pictorial, or graphic works; foreign-language, bilingual, or multilingual works; public domain material; or works consisting preponderantly of material that is not subject to the manufacturing requirement.
 
 The term “literary material” does not connote any criterion of literary merit or qualitative value; it includes catalogs, directories and “similar materials.”
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—Except as provided in sections 9314 and 9315 of this title, under regulations prescribed by the Secretary of the Air Force, the commander of the Air University may, upon therecommendation of the faculty of the Air University components, confer appropriate degrees upon graduates who meet the degree requirements.
+Authority.—Except as provided in sections 9314 and 9315 of this title, under regulations prescribed by the Secretary of the Air Force, the commander of the Air University may, upon the recommendation of the faculty of the Air University components, confer appropriate degrees upon graduates who meet the degree requirements.
 
 (b)
 
@@ -34,7 +34,7 @@ Subsec. (a)(4), (5). Pub. L. 110–181 added par. (4) and redesignated former pa
 
 2004—Pub. L. 108–375, §556(c)(1), substituted “conferral of degrees” for “graduate-level degrees” in section catchline.
 
-Subsec. (a). Pub. L. 108–375, §556(a), substituted “may confer academic degrees as follows:” for “may confer—” in introductory provisions, “The” for “the” in pars. (1) to (3), period for semicolon in par. (1), and period for “; and” in par. (2) and added par. (4).
+Subsec. (a). Pub. L. 108–375, §556(a), substituted “may confer academic degrees as follows:” for “may confer—” in introductory provisions, “The” for “the” in pars.\(1) to (3), period for semicolon in par. (1), and period for “; and” in par. (2) and added par. (4).
 
 1999—Pub. L. 106–65, §543(b)(1), substituted “graduate-level degrees” for “master of airpower art and science” in section catchline.
 

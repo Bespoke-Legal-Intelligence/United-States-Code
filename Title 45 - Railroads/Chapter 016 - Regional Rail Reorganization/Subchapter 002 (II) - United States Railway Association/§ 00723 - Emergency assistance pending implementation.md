@@ -6,7 +6,7 @@ The Secretary is authorized, pending the implementation of the final system plan
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary for carrying out this section such sums as are necessary, not to exceed $282,000,000, to remain available until expended. Of amounts authorized to be appropriated under this subsection, $50,000,000 shall be available solely to pay to the trustees of railroads in reorganization such sums as may be necessary to provide such railroads with amounts equal to revenues attributable to tariff increases proposed by such railroads and suspended by the Interstate Commerce Commission during the calendar year 1975, if the Secretary determines that such payments are necessary to carry out this section.
+There are authorized to be appropriated to the Secretary for carrying out this section such sums as are necessary, not to exceed $282,000,000, to remain available until expended. Of amounts authorized to be appropriated under this subsection, $50,000,000 shall be available solely to pay to the trustees of railroads in reorganization such sums as may be necessary to provide such railroads with amounts equal to revenuesattributable to tariff increases proposed by such railroads and suspended by the Interstate Commerce Commission during the calendar year 1975, if the Secretary determines that such payments are necessary to carry out this section.
 
 (Pub. L. 93–236, title II, §213, Jan. 2, 1974, 87 Stat. 1003; Pub. L. 94–5, §6, Feb. 28, 1975, 89 Stat. 8.)
 
@@ -14,7 +14,7 @@ There are authorized to be appropriated to the Secretary for carrying out this s
 
 1975—Subsec. (a). Pub. L. 94–5, §6(a), inserted provision that, where Secretary and trustees agree that funds provided pursuant to this section are to be used (together with funds provided pursuant to section 725 of this title, if any) to perform program maintenance on designated rail properties until date rail properties are conveyed under this chapter or to improve such designated properties, such agreement contain conditions set forth in section 725(b) of this title.
 
-Subsec. (b). Pub. L. 94–5, §6(b), substituted “$282,000,000” for “$85,000,000” and inserted provision that, of amounts authorized to be appropriated under this subsection $50,000,000 be available solely to pay totrustees of railroads in reorganization sums necessary to provide railroads with amounts equal to revenues attributable to tariff increases proposed by railroads and suspended by Interstate Commerce Commission during calendar year 1975, if Secretary determines that payments are necessary to carry out this section.
+Subsec. (b). Pub. L. 94–5, §6(b), substituted “$282,000,000” for “$85,000,000” and inserted provision that, of amounts authorized to be appropriated under this subsection $50,000,000 be available solely to pay to trustees of railroads in reorganization sums necessary to provide railroads with amounts equal to revenues attributable to tariff increases proposed by railroads and suspended by Interstate Commerce Commission during calendar year 1975, if Secretary determines that payments are necessary to carry out this section.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

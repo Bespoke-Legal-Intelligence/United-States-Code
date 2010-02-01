@@ -32,7 +32,7 @@ When used in sections 196 to 198 of this title, the term “documented” means 
 
 #### Amendments
 
-<b>1981</b>—Subsecs. (a), (c), (d). Pub. L. 97–31 substituted references to Secretary of Transportation for references to Secretary of Commerce wherever appearing.
+1981—Subsecs. (a), (c), (d). Pub. L. 97–31 substituted references to Secretary of Transportation for references to Secretary of Commerce wherever appearing.
 
 #### Transfer of Functions
 

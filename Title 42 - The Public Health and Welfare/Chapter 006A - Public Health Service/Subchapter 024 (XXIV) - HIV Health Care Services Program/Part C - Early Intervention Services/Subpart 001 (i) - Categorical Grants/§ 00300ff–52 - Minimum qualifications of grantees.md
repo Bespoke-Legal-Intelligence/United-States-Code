@@ -30,7 +30,7 @@
 
 &emsp;Subject to paragraph (2), the Secretary may not make a grant under section 300ff–51 of this title for the provision of services described in subsection (b) of such section in a State unless, in the case of any such service that is available pursuant to the State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State—
 
-&emsp;&emsp;(A) the applicant for the grant will provide the service directly, and the applicant has entered into a participation agreementunder the State plan and is qualified to receive payments under such plan; or
+&emsp;&emsp;(A) the applicant for the grant will provide the service directly, and the applicant has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
 
 &emsp;&emsp;(B) the applicant for the grant will enter into an agreement with a public or nonprofit private entity, or a private for-profit entity if such entity is the only available provider of quality HIV care in the area, under which the entity will provide the service, and the entity has entered into such a participation agreement and is qualified to receive such payments.
 
@@ -40,19 +40,19 @@
 
 &emsp;(B) A determination by the Secretary of whether an entity referred to in subparagraph (A) meets the criteria for a waiver under such subparagraph shall be made without regard to whether the entity accepts voluntary donations regarding the provision of services to the public.
 
-(July 1, 1944, ch. 373, title XXVI, §2652, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 607; amended Pub. L. 101–557, title IV, §401(b)(3), Nov. 15, 1990, 104 Stat. 2771; Pub. L. 104–146, §3(d)(2), May 20, 1996, 110 Stat. 1357; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 108–163, §2(m)(3), Dec. 6, 2003, 117 Stat. 2023; Pub. L. 109–415, title III, §302(a), Dec. 19, 2006, 120 Stat. 2806.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2652, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 607; amended Pub. L. 101–557, title IV, §401(b)(3), Nov. 15, 1990, 104 Stat. 2771; Pub. L. 104–146, §3(d)(2), May 20, 1996, 110 Stat. 1357; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 108–163, §2(m)(3), Dec. 6, 2003, 117 Stat. 2023; Pub. L. 109–415, title III, §302(a), title VII, §703, Dec. 19, 2006, 120 Stat. 2806, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–415 amended heading and text of subsec. (a) generally, substituting provisions listing eligible entities and directing that such entities serve underserved populations for provisions listing eligible entities.
+2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+Subsec. (a). Pub. L. 109–415, §302(a), amended heading and text of subsec. (a) generally, substituting provisions listing eligible entities and directing that such entities serve underserved populations for provisions listing eligible entities.
 
 2003—Subsec. (a)(2). Pub. L. 108–163 substituted “254b(h)” for “256”.
 
@@ -61,6 +61,10 @@ The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch
 1996—Subsec. (b)(1)(B). Pub. L. 104–146 inserted “, or a private for-profit entity if such entity is the only available provider of quality HIV care in the area,” after “nonprofit private entity”.
 
 1990—Subsec. (a). Pub. L. 101–557 substituted “referred to in section 300ff–51(a) of this title” for “referred to in subsection (b) of this section”, redesignated pars. (A) to (F) as (1) to (6), respectively, and substituted “nonprofit private entities that provide” for “a nonprofit private entity that provides” in par. (6).
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 2003 Amendment
 

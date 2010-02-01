@@ -14,7 +14,7 @@ Composition of Council; Appointment; Vacancies.—The Council shall consist of 6
 
 &emsp;(3) One appointed by the Secretary of Education.
 
-> Of the 65 voting members, five shall be appointed by the Speaker of the United States House of Representatives from among Members of the United States House of Representatives and five shall be appointed by the President protempore of the United States Senate upon the recommendation of the majority and minority leaders from among Members of the United States Senate. Any vacancy in the Council shall be filled in the same manner as the original appointment was made.
+> Of the 65 voting members, five shall be appointed by the Speaker of the United States House of Representatives from among Members of the United States House of Representatives and five shall be appointed by the President pro tempore of the United States Senate upon the recommendation of the majority and minority leaders from among Members of the United States Senate. Any vacancy in the Council shall be filled in the same manner as the original appointment was made.
 
 (c)
 

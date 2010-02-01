@@ -58,7 +58,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 &emsp;1\. There are delegated to the Secretary of the Treasury, in consultation with the Secretary of State and the Secretary of Defense, the functions, authorities, and duties conferred upon the President by section 570(a) of the Act \[107 Stat. 970\].
 
-&emsp;2\. There are delegated to the Secretary of the Treasury, in consultation with the Secretary of Stateand the President of the Export-Import Bank, the functions, authorities, and duties conferred upon the President by section 570(b) of the Act and section 14(a) of the Export-Import Bank Act of 1945 (12 U.S.C. 635—635i–8).
+&emsp;2\. There are delegated to the Secretary of the Treasury, in consultation with the Secretary of State and the President of the Export-Import Bank, the functions, authorities, and duties conferred upon the President by section 570(b) of the Act and section 14(a) of the Export-Import Bank Act of 1945 (12 U.S.C. 635—635i–8).
 
 The Secretary of the Treasury is authorized and directed to publish this memorandum in the Federal Register.
 

@@ -58,7 +58,7 @@ The Commission shall conduct any informal hearings required by subsection (b)(1)
 
 (1) The Commission's statement of basis and purpose to accompany a rule promulgated under subsection (a)(1)(B) of this section shall include (A) a statement as to the prevalence of the acts or practices treated by the rule; (B) a statement as to the manner and context in which such acts or practices are unfair or deceptive; and (C) a statement as to the economic effect of the rule, taking into account the effect on small business and consumers.
 
-(2)(A) The term “Commission” as used in this subsection and subsections (b) and (c) of thissection includes any person authorized to act in behalf of the Commission in any part of the rulemaking proceeding.
+(2)(A) The term “Commission” as used in this subsection and subsections (b) and (c) of this section includes any person authorized to act in behalf of the Commission in any part of the rulemaking proceeding.
 
 (B) A substantive amendment to, or repeal of, a rule promulgated under subsection (a)(1)(B) of this section shall be prescribed, and subject to judicial review, in the same manner as a rule prescribed under such subsection. An exemption under subsection (g) of this section shall not be treated as an amendment or repeal of a rule.
 
@@ -124,7 +124,7 @@ Enforcement.—Compliance with regulations prescribed under this subsection shal
 
 (1) Any person to whom a rule under subsection (a)(1)(B) of this section applies may petition the Commission for an exemption from such rule.
 
-(2) If, on its own motion or on the basis of a petition under paragraph (1), the Commission finds that the application of a rule prescribed under subsection (a)(1)(B) of this section to any person or class or <sup>3</sup> persons is not necessary to prevent the unfair or deceptive act or practice to which the rule relates, the Commission may exempt such person or class from all or part of such rule. Section 553 of title 5 shall apply to action under this paragraph.
+(2) If, on its own motion or on the basis of a petition under paragraph (1), the Commission finds that the application of a rule prescribed under subsection (a)(1)(B) of this section to any person or class or <sup>3</sup> persons is not necessary to prevent the unfair or deceptive act or practiceto which the rule relates, the Commission may exempt such person or class from all or part of such rule. Section 553 of title 5 shall apply to action under this paragraph.
 
 (3) Neither the pendency of a proceeding under this subsection respecting an exemption from a rule, nor the pendency of judicial proceedings to review the Commission's action or failure to act under this subsection, shall stay the applicability of such rule under subsection (a)(1)(B) of this section.
 
@@ -182,7 +182,7 @@ Subsec. (f)(2). Pub. L. 102–242, §212(g)(2)(A), added par. (2) and struck out
 
 1989—Subsec. (f)(3). Pub. L. 101–73 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Compliance with regulations prescribed under this subsection shall be enforced under section 5 of the Home Owners’ Loan Act of 1933 (12 U.S.C. 1464) with respect to Federal savings and loan associations, section 407 of the National Housing Act (12 U.S.C. 1730) with respect to insured institutions, and sections 6(i) and 17 of the Federal Home Loan Bank Act (12 U.S.C. 1426(i), 1437) with respect to savings and loan institutions which are members of a Federal Home Loan Bank, by a division of consumer affairs to be established by the Federal Home Loan Bank Board pursuant to the Federal Home Loan Bank Act.”
 
-1987—Subsec. (f)(1). Pub. L. 100–86, §715(c)(1), (2), in second sentence inserted “and the National Credit Union Administration Board (with respect to Federal credit unions described in paragraph (4))” and in lastsentence inserted “or Federal credit unions described in paragraph (4),” in two places, substituted “any such” for “either such”, and inserted “, savings and loan institutions or Federal credit unions”.
+1987—Subsec. (f)(1). Pub. L. 100–86, §715(c)(1), (2), in second sentence inserted “and the National Credit Union Administration Board (with respect to Federal credit unions described in paragraph (4))” and in last sentence inserted “or Federal credit unions described in paragraph (4),” in two places, substituted “any such” for “either such”, and inserted “, savings and loan institutions or Federal credit unions”.
 
 Subsec. (f)(4) to (7). Pub. L. 100–86, §715(c)(3), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 
@@ -242,7 +242,7 @@ Section 11(c) of Pub. L. 96–252 provided that: “The amendments made in subse
 
 Amendment by Pub. L. 96–252 effective May 28, 1980, see section 23 of Pub. L. 96–252, set out as an Effective Date of 1980 Amendment note under section 45 of this title.
 
-Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with allregulations, forms and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1602 of this title.
 
 #### Transfer of Functions
 

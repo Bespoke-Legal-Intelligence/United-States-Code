@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 R.S. 5299.
 
-The words “armed forces” are substituted for the words “land or naval forces of the United States”. The word “shall” is substituted for the words “it shall be lawful for \* \* \* and it shall be his duty”.
+The words “armed forces” are substituted for the words “land or naval forces of the United States”. The word “shall” is substituted for the words “it shall be lawful for and it shall be his duty”.
 
 #### Derivation
 

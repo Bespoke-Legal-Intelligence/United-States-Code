@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) 25 percent shall be available to the Administrator of the Maritime Administration for the payment or reimbursement of expenses incurred by or on behalf of State maritime academies or the United States Merchant Marine Academy for facility and training ship maintenance, repair, and modernization, and for the purchase of simulators and fuel.
 
-&emsp;&emsp;(C) The remainder shall be available to the Secretary to carry out the Program, as provided in subsection (b) of this section.
+&emsp;&emsp;(C) The remainder, whether collected before or after the date of enactment of the Maritime Administration Authorization Act of 2010,<sup>1</sup> shall be available to the Secretary to carry out the Program, as provided in subsection (b) of this section or, if otherwise determined by the Maritime Administrator, for use in the preservation and presentation to the public of maritime heritage property of the Maritime Administration.
 
 #### (2) Application
 
@@ -72,13 +72,19 @@
 
 Amounts available under this section shall not be considered in any determination of the amounts available to the Department of the Interior.
 
-(Pub. L. 103–451, §6, Nov. 2, 1994, 108 Stat. 4776; Pub. L. 105–85, div. A, title X, §1026(c), Nov. 18, 1997, 111 Stat. 1878; Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–490; Pub. L. 110–181, div. C, title XXXV, §3514, Jan. 28, 2008, 122 Stat. 594.)
+(Pub. L. 103–451, §6, Nov. 2, 1994, 108 Stat. 4776; Pub. L. 105–85, div. A, title X, §1026(c), Nov. 18,1997, 111 Stat. 1878; Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–490; Pub. L. 110–181, div. C, title XXXV, §3514, Jan. 28, 2008, 122 Stat. 594; Pub. L. 111–84, div. C, title XXXV, §3509, Oct. 28, 2009, 123 Stat. 2721.)
+
+#### References in Text
+
+The Maritime Administration Authorization Act of 2010, referred to in subsec. (a)(1)(C), is the short title of S. 1308 of the 111th Congress, as introduced on June 19, 2009. No law has been enacted with that short title. Provisions identical to those contained in subsec. (a)(1)(C) of this section, as added by Pub. L. 111–84 which was approved Oct. 28, 2009, were contained in section 3 of S. 1308.
 
 #### Codification
 
 “Section 50301(a) of title 46” substituted in subsec. (a)(1) for “Act of June 2, 1951 (46 App. U.S.C. 1241a),”, “section 57102, 57103, or 57104 of title 46” substituted in subsec. (a)(1) for “section 508 or 510(i) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1158 or 1160(i))” and in subsec. (b)(2) for “section 508 or 510(i) of the Merchant Marine Act, 1936 (46 U.S.C. 1158 or 1160(i))”, and “sections 57102 to 57104 of title 46” substituted in subsec. (c)(1)(C) for “sections 508 and 510(i) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1158, 1160(i))”, on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted sections 50301 and 57102 to 57104 of Title 46, Shipping.
 
 #### Amendments
+
+2009—Subsec. (a)(1)(C). Pub. L. 111–84 added subpar. (C) and struck out former subpar. (C) which read as follows: “The remainder shall be available to the Secretary to carry out the Program, as provided in subsection (b) of this section.”
 
 2008—Subsec. (c)(1). Pub. L. 110–181, §3514(1), inserted “(either by sale or purchase of disposal services)” after “shall dispose” in introductory provisions.
 
@@ -201,4 +207,6 @@ Application.—This subsection shall apply beginning 180 days after the date of 
 “(f)
 
 Report.—No later than 1 year after the date of the enactment of this subsection \[Jan. 6, 2006\], and every 6 months thereafter, the Secretary of Transportation, in coordination with the Secretary of the Navy, shall report to the Committee on Transportation and Infrastructure, the Committee on Resources \[now Committee on Natural Resources\], and the Committee on Armed Services of the House of Representatives, and to the Committee on Commerce, Science, and Transportation and the Committee on Armed Services of the Senate, on the progress made in implementing the vessel disposal plan developed under subsection (c). In particular, the report shall address the performance measures required to be established under subsection (c)(2)(C).”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

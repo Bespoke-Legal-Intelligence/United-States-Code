@@ -18,7 +18,7 @@ Is guilty of a class B felony.
 
 (b) For purposes of this section, the term “analog, digital, or electronic image” includes any analog, digital, or electronic method used for the making, execution, acquisition, scanning, capturing, recording, retrieval, transmission, or reproduction of any obligation or security, unless such use is authorized by the Secretary of the Treasury. The Secretary shall establish a system (pursuant to section 504) to ensure that the legitimate use of such electronic methods and retention of such reproductions by businesses, hobbyists, press and others shall not be unduly restricted.
 
-(June 25, 1948, ch. 645, 62 Stat. 706; Pub. L. 102–550, title XV, §1552, Oct. 28, 1992, 106 Stat.4070; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §648(a)\], title II, §2603(a), Sept. 30, 1996, 110 Stat. 3009–314, 3009–367, 3009–470; Pub. L. 107–56, title III, §374(e)(1)–(3), Oct. 26, 2001, 115 Stat. 340.)
+(June 25, 1948, ch. 645, 62 Stat. 706; Pub. L. 102–550, title XV, §1552, Oct. 28, 1992, 106 Stat. 4070; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §648(a)\], title II, §2603(a), Sept. 30, 1996, 110 Stat. 3009–314, 3009–367, 3009–470; Pub. L. 107–56, title III, §374(e)(1)–(3), Oct. 26, 2001, 115 Stat. 340.)
 
 #### Historical and Revision Notes
 
@@ -38,7 +38,7 @@ Subsec. (b). Pub. L. 107–56, §374(e)(2), inserted first sentence and struck o
 
 1996—Subsec. (a). Pub. L. 104–208, §§101(f) \[title VI, §648(a)\] and 2603(a), amended subsec. (a) identically, substituting “class B felony” for “class C felony” in last par.
 
-1992—Subsec. (a). Pub. L. 102–550, §1552(1)–(4), designated existing provisions as subsec. (a), in sixth undesignated par., substituted “United States—” for “United States; or” at end, struck out seventh undesignated par. which read as follows: “Whoever has or retains in his control or possession, after a distinctive paper has been adopted by the Secretary of the Treasury for the obligations and other securities of the United States, any similar paper adapted to the making of any such obligation or other security, except under the authority of the Secretary of the Treasury or some other proper officer of the United States—”, and amended last undesignated par. generally. Prior to amendment, last par. read as follows: “Shall be fined not more than $5,000 or imprisoned not more than fifteen years, or both.”
+1992—Subsec. (a). Pub. L. 102–550, §1552(1)–(4), designated existing provisions as subsec. (a), in sixth undesignated par., substituted “United States—” for “United States; or” at end, struck out seventh undesignated par. which read as follows: “Whoever has or retains in his control or possession, after a distinctive paper has been adopted by the Secretary of the Treasury for the obligations and other securities of the United States, any similar paper adapted to the making of any such obligation or other security, except under the authority of the Secretary of the Treasury or some other proper officer of the United States—”, and amended last undesignated par. generally. Prior toamendment, last par. read as follows: “Shall be fined not more than $5,000 or imprisoned not more than fifteen years, or both.”
 
 Subsec. (b). Pub. L. 102–550, §1552(5), added subsec. (b).
 

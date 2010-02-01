@@ -418,7 +418,7 @@ In this section:
 
 #### (ii) Exclusions
 
-&emsp;&emsp;&emsp;An eligible livestock producer may not receive assistance under this subsectionfor grazing losses that occur on land used for haying or grazing under the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.).
+&emsp;&emsp;&emsp;An eligible livestock producer may not receive assistance under this subsection for grazing losses that occur on land used for haying or grazing under the conservation reserve program established under subchapter B of chapter 1 of subtitle D oftitle XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.).
 
 #### (B) Monthly payment rate
 
@@ -504,7 +504,7 @@ In this section:
 
 #### (B) Payment rate
 
-&emsp;&emsp;The payment rate for assistance under this paragraph shall be equal to 50 percent of the monthly feed cost for the total number of livestock covered by the Federal lease of the eligible livestock producer, as determined under paragraph (3)(C).
+&emsp;&emsp;The payment rate for assistance under this paragraph shall be equal to 50 percent of themonthly feed cost for the total number of livestock covered by the Federal lease of the eligible livestock producer, as determined under paragraph (3)(C).
 
 #### (C) Payment duration
 
@@ -666,7 +666,7 @@ In this section:
 
 #### (B) 2009 crop year
 
-&emsp;&emsp;In the case of an insurable commodity or noninsurable commodity for the 2009 crop year that does not meet the requirements of paragraph (1) and the relevant crop insurance program sales closing date or noninsured crop assistance program fee payment date was prior to August 14, 2008, the Secretary shall waive paragraph (1) if the eligible producer of the insurable commodity or noninsurable commodity pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after October 13, 2008.
+&emsp;&emsp;In the case of an insurable commodity or noninsurable commodity for the 2009 crop year that does not meet the requirements ofparagraph (1) and the relevant crop insurance program sales closing date or noninsured crop assistance program fee payment date was prior to August 14, 2008, the Secretary shall waive paragraph (1) if the eligible producer of the insurable commodity or noninsurable commodity pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after October 13, 2008.
 
 #### (5) Equitable relief
 
@@ -691,6 +691,60 @@ In this section:
 #### (B) Treatment of acreage
 
 &emsp;&emsp;The Secretary shall not consider the value of any crop exempted under subparagraph (A) in calculating the supplemental revenue assistance program guarantee under subsection (b)(3) and the total farm revenue under subsection (b)(4).
+
+#### (7) 2008 transition assistance
+
+#### (A) In general
+
+&emsp;&emsp;Eligible producers on a farm described in subparagraph (A) of paragraph (4) that failed to timely pay the appropriate fee described in that subparagraph shall be eligible for assistance under this section in accordance with subparagraph (B) if the eligible producers on the farm—
+
+&emsp;&emsp;&emsp;(i) pay the appropriate fee described in paragraph (4)(A) not later than 90 days after February 17, 2009; and
+
+&emsp;&emsp;&emsp;(ii)(I) in the case of each insurable commodity of the eligible producers on the farm, excluding grazing land, agree to obtain a policy or plan of insurance under subchapter I (excluding a crop insurance pilot program under that subchapter) for the next insurance year for which crop insurance is available to the eligible producers on the farm at a level of coverage equal to 70 percent or more of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage; and
+
+&emsp;&emsp;&emsp;(II) in the case of each noninsurable commodity of the eligible producers on the farm, agree to file the required paperwork, and pay the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program for the next year for which a policy is available.
+
+#### (B) Amount of assistance
+
+&emsp;&emsp;Eligible producers on a farm that meet the requirements of subparagraph (A) shall be eligible to receive assistance under this section as if the eligible producers on the farm—
+
+&emsp;&emsp;&emsp;(i) in the case of each insurable commodity of the eligible producers on the farm, had obtained a policy or plan of insurance for the 2008 crop year at a level of coverage not to exceed 70 percent or more of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage; and
+
+&emsp;&emsp;&emsp;(ii) in the case of each noninsurable commodity of the eligible producers on the farm, had filed the required paperwork, and paid the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program for the 2008 crop year, except that in determining the level of coverage, the Secretary shall use 70 percent of the applicable yield.
+
+#### (C) Equitable relief
+
+&emsp;&emsp;Except as provided in subparagraph (D), eligible producers on a farm that met the requirements of paragraph (1) before the deadline described in paragraph (4)(A) and are eligible to receive, a disaster assistance payment under this section for a production loss during the 2008 crop year shall be eligible to receive an amount equal to the greater of—
+
+&emsp;&emsp;&emsp;(i) the amount that would have been calculated under subparagraph (B) if the eligible producers on the farm had paid the appropriate fee under that subparagraph; or
+
+&emsp;&emsp;&emsp;(ii) the amount that would have been calculated under subparagraph (A) of subsection (b)(3) if—
+
+&emsp;&emsp;&emsp;&emsp;(I) in clause (i) of that subparagraph, “120 percent” is substituted for “115 percent”; and
+
+&emsp;&emsp;&emsp;&emsp;(II) in clause (ii) of that subparagraph, “125” is substituted for “120 percent”.
+
+#### (D) Limitation
+
+&emsp;&emsp;For amounts made available under this paragraph, the Secretary may make such adjustments as are necessary to ensure that no producer receives a payment under this paragraph for an amount in excess of the assistance received by a similarly situated producer that had purchased the same or higher level of crop insurance prior to February 17, 2009.
+
+#### (E) Authority of the Secretary
+
+&emsp;&emsp;The Secretary may provide such additional assistance as the Secretary considers appropriate to provide equitable treatment for eligible producers on a farm that suffered production losses in the 2008 crop year that result in multiyear production losses, as determined by the Secretary.
+
+#### (F) Lack of access
+
+&emsp;&emsp;Notwithstanding any other provision of this section, the Secretary may provide assistance (including multiyear assistance) under this section to eligible producers on a farm that—
+
+&emsp;&emsp;&emsp;(i) suffered a production loss or multiyear production losses due to a natural cause during the 2008 crop year; and
+
+&emsp;&emsp;&emsp;(ii) as determined by the Secretary—
+
+&emsp;&emsp;&emsp;&emsp;(I)(aa) except as provided in item (bb), lack access to a policy or plan of insurance under subchapter I; or
+
+&emsp;&emsp;&emsp;&emsp;(bb) do not qualify for a written agreement because 1 or more farming practices, which the Secretary has determined are good farming practices, of the eligible producers on the farm differ significantly from the farming practices used by producers of the same crop in other regions of the United States; and
+
+&emsp;&emsp;&emsp;&emsp;(II) are not eligible for the noninsured crop disaster assistance program established by section 7333 of this title.
 
 #### (h) Payment limitations
 
@@ -732,7 +786,7 @@ In implementing any other program which makes disaster assistance payments (exce
 
 &emsp;Paragraph (1) shall not apply to a specific reference in this subchapter to a provision of subchapter I.
 
-(Feb. 16, 1938, ch. 30, title V, §531, as added Pub. L. 110–234, title XII, §12033(a), May 22, 2008, 122 Stat. 1392, and Pub. L. 110–246, §4(a), title XII, §12033(a), June 18, 2008, 122 Stat. 1664, 2154; amended Pub. L. 110–398, §2(a), Oct. 13, 2008, 122 Stat. 4214.)
+(Feb. 16, 1938, ch. 30, title V, §531, as added Pub. L. 110–234, title XII, §12033(a), May 22, 2008, 122 Stat. 1392, and Pub. L. 110–246, §4(a), title XII, §12033(a), June 18, 2008, 122 Stat. 1664, 2154; amended Pub. L. 110–398, §2(a), Oct. 13, 2008, 122 Stat. 4214; Pub. L. 111–5, div. A, title I, §102(a), Feb. 17, 2009, 123 Stat. 121; Pub. L. 111–80, title VII, §745(a), Oct. 21, 2009, 123 Stat. 2129.)
 
 #### References in Text
 
@@ -746,7 +800,15 @@ The date of enactment of this subchapter, referred to in subsecs. (d)(5)(C), (D)
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+Section 2(a) of Pub. L. 110–398, which directed amendment of section 531 of the Federal Crop Insurance Act, was executed to this section, which is section 531 of subtitle B of title V of act Feb. 16, 1938, ch. 30, to reflect the probable intent of Congress. The Federal Crop Insurance Act is subtitle A of title V of act of Feb. 16, 1938, ch. 30.
+
 #### Amendments
+
+2009—Subsec. (g)(7). Pub. L. 111–5, which directed amendment of section 531(g) of the Federal Crop Insurance Act by adding par. (7), was executed to this section, which is section 531 of subtitle B of title V of act of Feb. 16, 1938, ch. 30, to reflect the probable intent of Congress. The Federal Crop Insurance Act is subtitle A of title V of act of Feb. 16, 1938, ch. 30.
+
+Subsec. (g)(7)(F). Pub. L. 111–80, §745(a)(1), which directed amendment of section 531(g)(7)(F) of the Federal Crop Insurance Act by inserting “(including multiyear assistance)” after “assistance”, was executed to introductory provisions of subsec. (g)(7)(F) of this section, which is section 531 of subtitle B of title V of act of Feb. 16, 1938, ch. 30, to reflect the probable intent of Congress. The Federal Crop Insurance Act is subtitle A of title V of act of Feb. 16, 1938, ch. 30.
+
+Subsec. (g)(7)(F)(i). Pub. L. 111–80, §745(a)(2), which directed amendment of cl. (i) of section 531(g)(7)(F) of the Federal Crop Insurance Act by inserting “or multiyear production losses” after “a production loss”, was executed to subsec. (g)(7)(F)(i) of this section, which is section 531 of subtitle B of title V of act of Feb. 16, 1938, ch. 30, to reflect the probable intent of Congress. The Federal Crop Insurance Act is subtitle A of title V of act of Feb. 16, 1938, ch. 30.
 
 2008—Subsec. (a)(2). Pub. L. 110–398, §2(a)(1)(F), added par. (2). Former par. (2) redesignated (3).
 

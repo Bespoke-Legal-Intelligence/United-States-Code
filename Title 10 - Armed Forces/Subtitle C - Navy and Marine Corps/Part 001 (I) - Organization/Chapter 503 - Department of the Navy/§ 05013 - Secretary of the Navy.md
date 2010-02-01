@@ -112,7 +112,7 @@ Demonstration Project Authorized.—In accordance with section 4703 of title 5, 
 
 “(b)
 
-Selection Requirements.—As a condition on eligibility for selection to participate in the demonstration project, the head of an Air Force Air LogisticsCenter, Navy Fleet Readiness Center, or Army depot shall submit to the Secretary of the military department concerned a business case analysis and concept plan—
+Selection Requirements.—As a condition on eligibility for selection to participate in the demonstration project, the head of an Air Force Air Logistics Center, Navy Fleet Readiness Center, or Army depot shall submit to the Secretary of the military department concerned a business case analysis and concept plan—
 
 &emsp;“(1) that, on the basis of the results of analysis of work processes, demonstrate that process improvements would result from the trade combinations proposed to be implemented under the demonstration project; and
 

@@ -8,7 +8,7 @@ The President is authorized to take such actions as may be necessary to increase
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to the President $2,000,000 for each of the fiscalyears 2005 through 2012 to carry out subsection (a).
+&emsp;There are authorized to be appropriated to the President $2,000,000 for each of the fiscal years 2005 through 2012 to carry out subsection (a).
 
 #### (2) Availability
 

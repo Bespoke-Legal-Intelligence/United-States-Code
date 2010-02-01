@@ -10,5 +10,9 @@ Customs Service, referred to in text, changed to Bureau of Customs and Border Pr
 
 #### Land Border Projects
 
-Pub. L. 110–329, div. D, title II, Sept. 30, 2008, 122 Stat. 3658, provided in part: “That for fiscal year 2010 and thereafter, the annual budget submission of U.S. Customs and Border Protection for ‘Construction’ shall, in consultation with the General Services Administration, include a detailed 5-year plan for all Federal land border port of entry projects with a yearly update of total projected future funding needs.”
+Pub. L. 111–83, title II, Oct. 28, 2009, 123 Stat. 2148, provided in part: “That for fiscal year 2011 and thereafter, the annual budget submission of U.S. Customs and Border Protection for ‘Construction and Facilities Management’ shall, in consultation with the General Services Administration, include a detailed 5-year plan for all Federal land border port of entry projects with a yearly update of total projected future funding needs delineated by land port of entry.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 110–329, div. D, title II, Sept. 30, 2008, 122 Stat. 3658.
 

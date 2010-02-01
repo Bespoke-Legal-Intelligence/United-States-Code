@@ -8,7 +8,7 @@
 
 &emsp;(A) an institution that receives funds under this subchapter and part C of subchapter I of chapter 34 of title 42 that is seeking to collect a refund due from a student on a grant made, or work assistance awarded, under this subchapter and part C of subchapter I of chapter 34 of title 42;
 
-&emsp;(B) a guaranty agency that has an agreement with the Secretary under section 1078(c) of this title that is seeking the repayment of the amount due from a borrower on a loan made under part B of this subchapter after such guaranty agency reimburses the previous holder of the loan for its loss on account of the default of the borrower;
+&emsp;(B) a guaranty agency that has an agreement with the Secretary under section 1078(c) of this title that is seeking the repayment of the amount due from a borrower on a loan made under part B of this subchapter after such guaranty agency reimburses the previousholder of the loan for its loss on account of the default of the borrower;
 
 &emsp;(C) an institution that has an agreement with the Secretary pursuant to section 1087c or 1087cc(a) of this title that is seeking the repayment of the amount due from a borrower on a loan made under part C or D of this subchapter after the default of the borrower on such loan; or
 

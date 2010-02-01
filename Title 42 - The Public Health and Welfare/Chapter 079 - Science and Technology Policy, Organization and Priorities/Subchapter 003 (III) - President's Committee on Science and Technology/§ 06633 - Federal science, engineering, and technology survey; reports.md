@@ -26,7 +26,7 @@
 
 &emsp;(12) improved systems for planning and analysis of the Federal science and technology programs; and
 
-&emsp;(13) long-range study, analysis, and planning in regard to the application of science andtechnology to major national problems or concerns.
+&emsp;(13) long-range study, analysis, and planning in regard to the application of science and technology to major national problems or concerns.
 
 (b)(1) Within twelve months from the time the Committee is activated in accordance with section 6632(a) of this title, the Committee shall issue an interim report of its activities and operations to date. Not more than twenty-four months from the time the Committee is activated, the Committee shall submit a final report of its activities, findings, conclusions, and recommendations, including such supporting data and material as may be necessary, to the President.
 

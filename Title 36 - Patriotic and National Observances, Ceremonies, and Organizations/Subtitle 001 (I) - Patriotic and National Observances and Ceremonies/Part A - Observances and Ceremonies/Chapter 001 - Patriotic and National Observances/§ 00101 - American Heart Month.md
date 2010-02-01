@@ -28,6 +28,10 @@ Dec. 30, 1963, Pub. L. 88–254, 77 Stat. 843.
 
 In clause (2), the words “chief executive officers” are substituted for “Governors”, and the words “territories, and possessions” are substituted for “territories”, for clarity and consistency in the revised title and with other titles of the United States Code.
 
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–113, §1, Dec. 14, 2009, 123 Stat. 3026, provided that: “This Act \[amending sections 190104 and 190109 of this title\] may be cited as the ‘Reserve Officers Association Modernization Act of 2009’.”
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–207, §1, Apr. 30, 2008, 122 Stat. 719, provided that: “This Act \[amending section 140503 of this title\] may be cited as the ‘Purple Heart Family Equity Act of 2007’.”

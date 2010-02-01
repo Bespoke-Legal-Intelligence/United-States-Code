@@ -260,7 +260,7 @@ Of the funds of the Commodity Credit Corporation, the Secretary shall use to car
 
 #### References in Text
 
-The Food, Conservation, and Energy Act of 2008, referred to in subsec. (a)(4)(B)(i), (6)(B)(i), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Actis classified principally to chapter 113 (§8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
+The Food, Conservation, and Energy Act of 2008, referred to in subsec. (a)(4)(B)(i), (6)(B)(i), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
 The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsecs. (a)(5)(B)(ii) and (e), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 

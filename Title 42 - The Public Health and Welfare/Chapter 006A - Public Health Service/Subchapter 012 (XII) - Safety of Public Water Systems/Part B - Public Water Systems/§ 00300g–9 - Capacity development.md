@@ -58,7 +58,7 @@ A State shall receive only 80 percent of the allotment that the State is otherwi
 
 #### (4) Review
 
-&emsp;The decisions of the State under this section regarding any particular public water systemare not subject to review by the Administrator and may not serve as the basis for withholding funds under section 300j–12 of this title.
+&emsp;The decisions of the State under this section regarding any particular public water system are not subject to review by the Administrator and may not serve as the basis for withholding funds under section 300j–12 of this title.
 
 #### (d) Federal assistance
 
@@ -100,7 +100,7 @@ Based on information obtained under subsection (c)(3) of this section, the Admin
 
 #### (2) Responsibilities of the centers
 
-&emsp;The responsibilities of the small public water system technology assistance centers established under this subsection shall include the conduct of training and technical assistance relating to the information, performance, and technical needs of small public water systems or public water systems that serve Indian Tribes.
+&emsp;The responsibilities of the small public water system technology assistance centersestablished under this subsection shall include the conduct of training and technical assistance relating to the information, performance, and technical needs of small public water systems or public water systems that serve Indian Tribes.
 
 #### (3) Applications
 
@@ -138,7 +138,7 @@ Based on information obtained under subsection (c)(3) of this section, the Admin
 
 #### (2) National capacity development clearinghouse
 
-&emsp;The Administrator shall establish a national public water system capacity development clearinghouse to receive and disseminate information with respect to developing, improving, and maintaining financial and managerialcapacity at public water systems. The Administrator shall ensure that the clearinghouse does not duplicate other federally supported clearinghouse activities.
+&emsp;The Administrator shall establish a national public water system capacity development clearinghouse to receive and disseminate information with respect to developing, improving, and maintaining financial and managerial capacity at public water systems. The Administrator shall ensure that the clearinghouse does not duplicate other federally supported clearinghouse activities.
 
 #### (3) Capacity development techniques
 

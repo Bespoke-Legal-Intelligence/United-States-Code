@@ -14,6 +14,7 @@ subpart iii—shelter and other credit guaranty programs
 - [&sect; 02186 - Loan guarantees to Israel program](%C2%A7%2002186%20-%20Loan%20guarantees%20to%20Israel%20program.md)
 - [&sect; 02191 - Congressional statement of purpose; creation and functions of Corporation](%C2%A7%2002191%20-%20Congressional%20statement%20of%20purpose%3B%20creation%20and%20functions%20of%20Corporation.md)
 - [&sect; 02191a - Additional requirements](%C2%A7%2002191a%20-%20Additional%20requirements.md)
+- [&sect; 02191b - Worker rights and human rights guidelines](%C2%A7%2002191b%20-%20Worker%20rights%20and%20human%20rights%20guidelines.md)
 - [&sect; 02192 - Capital of the Corporation](%C2%A7%2002192%20-%20Capital%20of%20the%20Corporation.md)
 - [&sect; 02193 - Organization and management](%C2%A7%2002193%20-%20Organization%20and%20management.md)
 - [&sect; 02194 - Investment insurance and other programs](%C2%A7%2002194%20-%20Investment%20insurance%20and%20other%20programs.md)

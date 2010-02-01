@@ -118,7 +118,7 @@ Subsec. (b)(2). Pub. L. 100–369, §5(b)(1), substituted “section 1078–2 or
 
 1987—Subsec. (a)(2)(C)(vi). Pub. L. 100–50, §10(b)(1), inserted “nonprofit” before “private”.
 
-Subsec. (a)(2)(C)(vii). Pub. L. 100–50, §10(b)(2), inserted “or serving in an internship or residency program leading to a degree or certificate awarded by an institutionof higher education, a hospital, or a health care facility that offers postgraduate training” before semicolon at end.
+Subsec. (a)(2)(C)(vii). Pub. L. 100–50, §10(b)(2), inserted “or serving in an internship or residency program leading to a degree or certificate awarded by an institution of higher education, a hospital, or a health care facility that offers postgraduate training” before semicolon at end.
 
 Subsec. (a)(4). Pub. L. 100–50, §10(c), substituted “$1,000 or more” for “more than $1,000”.
 

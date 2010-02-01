@@ -12,5 +12,5 @@ Act Mar. 3, 1899, ch. 424, §1, 30 Stat. 1109, mentioned in said provision, prov
 
 #### Transfer of Functions
 
-California Debris Commission abolished and functions transferred to Secretary of the Army by Pub. L. 99–662, title XI, §1106, Nov. 17, 1986, 100 Stat. 4229, set out as a note under section 661 of this title.
+California Debris Commission abolished and functions transferred to Secretary of the Army by Pub. L.99–662, title XI, §1106, Nov. 17, 1986, 100 Stat. 4229, set out as a note under section 661 of this title.
 

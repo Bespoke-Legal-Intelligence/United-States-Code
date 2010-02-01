@@ -22,7 +22,7 @@ There shall be, within the National Endowment for the Arts, a National Council o
 
 > &emsp;Members of the Council appointed under this subparagraph shall serve ex officio and shall be nonvoting members of the Council.
 
-&emsp;(C) 14 members appointed by the President, by and with the advice and consent of the Senate, who shall be selected—
+&emsp;(C) 18 members appointed by the President, by and with the advice and consent of the Senate, who shall be selected—
 
 &emsp;&emsp;(i) from among private citizens of the United States who—
 
@@ -50,7 +50,7 @@ Each member appointed under subsection (b)(1)(C) of this section shall hold offi
 
 #### (d) Meetings of Council; quorum; written records
 
-(1) The Council shall meet at the call of the Chairperson but not less often than twice during each calendar year. Eight members of the Council shall constitute a quorum. All policy meetings of the Council shall be open to the public.
+(1) The Council shall meet at the call of the Chairperson but not less often than twice during each calendar year. Ten members of the Council shall constitute a quorum. All policy meetings of the Council shall be open to the public.
 
 (2) The Council shall—
 
@@ -76,13 +76,17 @@ The Council shall advise the Chairperson with respect to policies, programs, and
 
 > The Chairperson shall not approve or disapprove any such application until the Chairperson has received the recommendation of the Council on such application. The Chairperson shall have final authority to approve each application, except that the Chairperson may only provide to an applicant the amount of financial assistance recommended by the Council and may not approve an application with respect to which the Council makes a negative recommendation. In the case of an application involving $30,000, or less, the Chairperson may approve or disapprove such request if such action is taken pursuant to the terms of an expressed and direct delegation of authority from the Council to the Chairperson, and provided that each such action by the Chairperson shall be reviewed by the Council, and that such action shall be used with discretion and shall not become a normal practice of providing assistance under such subsections, except that the terms of any such delegation of authority shall not permit obligations for expenditure of funds under such delegation for any fiscal year which exceed an amount equal to 10 per centum of the sums appropriated for that fiscal year pursuant to subparagraph (A) of paragraph (1) of section 960(a) of this title.
 
-(Pub. L. 89–209, §6, Sept. 29, 1965, 79 Stat. 849; Pub. L. 90–348, §4, June 18, 1968, 82 Stat. 185; Pub. L. 91–346, §5(b), July 20, 1970, 84 Stat. 444; Pub. L. 93–133, §2(a)(5), Oct. 19, 1973, 87 Stat. 463; Pub. L. 94–462, title I, §103(a), Oct. 8, 1976, 90 Stat. 1971; Pub. L. 96–496, title I, §103, Dec. 4, 1980, 94 Stat. 2584; renumbered title I, §6, and amended Pub. L. 98–306, §§2, 5(a), May 31, 1984, 98 Stat. 223, 224; renumbered §6 and amended Pub. L. 99–194, title I, §§101(1), 106, Dec. 20, 1985, 99 Stat. 1332, 1335; Pub. L. 101–512, title III, §318 \[title I, §106\], Nov. 5, 1990, 104 Stat. 1960, 1968; Pub. L. 105–83, title III, §346(e), (f), Nov. 14, 1997, 111 Stat. 1605, 1606; Pub. L. 105–119, title VI, §624, Nov. 26, 1997, 111 Stat. 2522; Pub. L. 105–277, div. A, §101(e) \[title III, §330\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–293.)
+(Pub. L. 89–209, §6, Sept. 29, 1965, 79 Stat. 849; Pub. L. 90–348, §4, June 18, 1968, 82 Stat. 185; Pub. L. 91–346, §5(b), July 20, 1970, 84 Stat. 444; Pub. L. 93–133, §2(a)(5), Oct. 19, 1973, 87 Stat. 463; Pub. L. 94–462, title I, §103(a), Oct. 8, 1976, 90 Stat. 1971; Pub. L. 96–496, title I, §103, Dec. 4, 1980, 94 Stat. 2584; renumbered title I, §6, and amended Pub. L. 98–306, §§2, 5(a), May 31, 1984, 98 Stat. 223, 224; renumbered §6 and amended Pub. L. 99–194, title I, §§101(1), 106, Dec. 20, 1985, 99 Stat. 1332, 1335; Pub. L. 101–512, title III, §318 \[title I, §106\], Nov. 5, 1990, 104 Stat. 1960, 1968; Pub. L. 105–83, title III, §346(e), (f), Nov. 14, 1997, 111 Stat. 1605, 1606; Pub. L. 105–119, title VI, §624, Nov. 26, 1997, 111 Stat. 2522; Pub. L. 105–277, div. A, §101(e) \[title III, §330\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–293; Pub. L. 111–88, div. A, title IV, §417, Oct. 30, 2009, 123 Stat. 2959.)
 
 #### References in Text
 
 The effective date of this subsection, referred to in subsec. (b)(2)(B), probably means Nov. 14, 1997, the date of enactment of Pub. L. 105–83 which amended subsec. (b) of this section generally.
 
 #### Amendments
+
+2009—Subsec. (b)(1)(C). Pub. L. 111–88, §417(1), substituted “18” for “14” in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 111–88, §417(2), substituted “Ten” for “Eight” in second sentence.
 
 1998—Subsec. (b)(1)(B)(iii). Pub. L. 105–277 substituted “Two” for “One”.
 
@@ -104,7 +108,7 @@ Subsec. (d)(1). Pub. L. 105–119, which directed the substitution of “eight�
 
 Subsec. (d). Pub. L. 101–512, §318 \[title I, §106(b)\], designated existing text as par. (1), inserted at end “All policy meetings of the Council shall be open to the public.”, and added par. (2).
 
-Subsec. (f). Pub. L. 101–512, §318 \[title I, §106(c)\], struck out “(1)” and “(2)” before “advise the Chairperson” and “review applications for”, respectively,struck out “thereon” before “to the Chairperson”, inserted before period at end of first sentence “with respect to the approval of each application and the amount of financial assistance (if any) to provide to each applicant”, struck out “, unless the Council fails to make a recommendation thereon within a reasonable time” after “on such application”, substituted “an expressed and direct delegation” for “a delegation” and “, and that such action shall be used with discretion and shall not become a normal practice of providing assistance under such subsections, except that” for “; <i>Provided</i>, That”, inserted “The Chairperson shall have final authority to approve each application, except that the Chairperson may only provide to an applicant the amount of financial assistance recommended by the Council and may not approve an application with respect to which the Council makes a negative recommendation.”, and inserted “The Council shall make recommendations to the Chairperson concerning—” and added pars. (1) and (2) immediately thereafter.
+Subsec. (f). Pub. L. 101–512, §318 \[title I, §106(c)\], struck out “(1)” and “(2)” before “advise the Chairperson” and “review applications for”, respectively, struck out “thereon” before “to the Chairperson”, inserted before period at end of first sentence “with respect to the approval of each application and the amount of financial assistance (if any) to provide to each applicant”, struck out “, unless the Council failsto make a recommendation thereon within a reasonable time” after “on such application”, substituted “an expressed and direct delegation” for “a delegation” and “, and that such action shall be used with discretion and shall not become a normal practice of providing assistance under such subsections, except that” for “; <i>Provided</i>, That”, inserted “The Chairperson shall have final authority to approve each application, except that the Chairperson may only provide to an applicant the amount of financial assistance recommended by the Council and may not approve an application with respect to which the Council makes a negative recommendation.”, and inserted “The Council shall make recommendations to the Chairperson concerning—” and added pars. (1) and (2) immediately thereafter.
 
 1985—Subsec. (b). Pub. L. 99–194, §106(1), substituted “Chairperson” for “Chairman” in two places in provisions preceding par. (1), in par. (1) designated existing provisions following “who” as cl. (A) and added cl. (B), and in provisions following par. (3) substituted “the President” for “him” and inserted “In making such appointments, the President shall give due regard to equitable representation of women, minorities, and individuals with disabilities who are involved in the arts.”
 

@@ -8,7 +8,7 @@ A national bank may not—
 
 &emsp;(2) deal in bets used as a means or substitute for participation in a lottery;
 
-&emsp;(3) announce, advertise, or publicize the existence of any lottery;
+&emsp;(3) announce, advertise, or publicize the existence of any lottery; <sup>1</sup>
 
 &emsp;(4) announce, advertise, or publicize the existence or identity of any participant or winner, as such, in a lottery.
 
@@ -38,7 +38,7 @@ As used in this section—
 
 #### (d) Lawful banking services connected with operation of lotteries
 
-Nothing contained in this section prohibits a national bank from accepting deposits or cashing or otherwise handling checks or other negotiable instruments, or performing other lawful banking services for a State operating a lottery,or for an officer or employee of that State who is charged with the administration of the lottery.
+Nothing contained in this section prohibits a national bank from accepting deposits or cashing or otherwise handling checks or other negotiable instruments, or performing other lawful banking services for a State operating a lottery, or for an officer or employee of that State who is charged with the administration of the lottery.
 
 #### (e) Regulations; enforcement
 
@@ -49,4 +49,6 @@ The Comptroller of the Currency shall issue such regulations as may be necessary
 #### Effective Date
 
 Section 6 of Pub. L. 90–203 provided that: “The amendments made by this Act \[adding this section, sections 339, 1730c, and 1829a of this title, and section 1306 of Title 18, Crimes and Criminal Procedure\] shall take effect on April 1, 1968.”
+
+<i><sup>1</sup></i><i> So in original. The word “or” probably should appear.</i>
 

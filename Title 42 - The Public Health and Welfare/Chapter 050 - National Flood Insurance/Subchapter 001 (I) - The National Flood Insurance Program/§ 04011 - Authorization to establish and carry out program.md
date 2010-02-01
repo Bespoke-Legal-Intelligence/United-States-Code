@@ -46,7 +46,7 @@ This chapter, referred to in subsec. (a), was in the original a reference to “
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–264, §105(a)(1)(B), which directed insertion of “by the community” after “established” in introductory provisions, was executed by making the insertion after “established” the second time appearing to reflect the probable intent of Congress.
+2004—Subsec. (b). Pub. L. 108–264, §105(a)(1)(B), which directed insertion of “by the community” after “established” in introductory provisions, was executed by making the insertion after “established” the secondtime appearing to reflect the probable intent of Congress.
 
 Pub. L. 108–264, §105(a)(1)(A), substituted “implementing measures that are consistent” for “compliance” in introductory provisions.
 
@@ -238,7 +238,7 @@ Report.—Not later than 1 year after the date of enactment of this Act \[June 3
 
 #### “SEC. 210. REPORT ON CHANGES TO FEE SCHEDULE OR FEE PAYMENT ARRANGEMENTS.
 
-“Not later than 3 months after the date of enactment of this Act \[June 30, 2004\], the Director shall submit a report on any changes or modifications made to the feeschedule or fee payment arrangements between the Federal Emergency Management Agency and insurance adjusters who provide services with respect to flood insurance policies to—
+“Not later than 3 months after the date of enactment of this Act \[June 30, 2004\], the Director shall submit a report on any changes or modifications made to the fee schedule or fee payment arrangements between the Federal Emergency Management Agency and insurance adjusters who provide services with respect to flood insurance policies to—
 
 &emsp;“(1) the Committee on Banking, Housing, and Urban Affairs of the Senate; and
 

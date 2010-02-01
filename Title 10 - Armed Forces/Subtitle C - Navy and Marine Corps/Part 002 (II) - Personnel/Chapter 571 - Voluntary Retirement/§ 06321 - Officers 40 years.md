@@ -1,6 +1,6 @@
 ### §6321. Officers: 40 years
 
-(a) Each officer of the Regular Navy or the Regular Marine Corps holding a permanent appointment in the grade of warrant officer, W–1, or above who applies for retirement after completing 40 or more years of active service shall be retired by the Secretary of the Navy.
+(a) Each officer of the Regular Navy or the Regular Marine Corps holding a permanent appointment in the grade of warrant officer, W–1,or above who applies for retirement after completing 40 or more years of active service shall be retired by the Secretary of the Navy.
 
 (b) For the purpose of this section, an officer's years of active service are computed by adding all his active service in the armed forces.
 
@@ -34,5 +34,5 @@ Aug. 7, 1947, ch. 512, §314(a) (1st sentence), 61 Stat. 863; May 5, 1954, ch. 1
 
 In subsection (a) the words “Regular” and “holding a permanent appointment in the grade of warrant officer, W–1, or above” are inserted for clarity. The word “shall” is substituted for the word “may” because the Attorney General has construed R.S. 1443 as conferring a right to retirement upon officers who apply for it after 40 years of service (30 Op. Atty. Gen. 406). The words “from active service” are omitted as surplusage. The words “after completing 40 or more years of active service” are substituted for the words “has been forty years in the service of the United States” for clarity.
 
-In subsection (b) the accepted meaning of the words “service of the United States” is spelled out for clarity.They have been consistently interpreted to include active service in the armed forces as defined in this title.
+In subsection (b) the accepted meaning of the words “service of the United States” is spelled out for clarity. They have been consistently interpreted to include active service in the armed forces as defined in this title.
 

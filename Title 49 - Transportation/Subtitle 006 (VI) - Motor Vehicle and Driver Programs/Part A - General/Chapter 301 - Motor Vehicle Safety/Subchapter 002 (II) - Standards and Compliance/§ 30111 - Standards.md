@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—The Secretary of Transportation shall prescribe motor vehiclesafety standards. Each standard shall be practicable, meet the need for motor vehicle safety, and be stated in objective terms.
+General Requirements.—The Secretary of Transportation shall prescribe motor vehicle safety standards. Each standard shall be practicable, meet the need for motor vehicle safety, and be stated in objective terms.
 
 (b)
 
@@ -150,7 +150,7 @@ Publication of noncompliant vehicles.—
 
 &emsp;&emsp;“(A)
 
-Information submission.—Not later than 60 days after the date of the enactment of this Act \[Feb. 28, 2008\], for the current model year and annually thereafter through 2010, each motor vehicle manufacturer shall transmit to the Secretary the make and model of motor vehicles with automatic transmissions that include a ‘park’ position that do not comply with the requirements of paragraph (1).
+Information submission.—Not later than 60 days after the date of the enactment of this Act \[Feb. 28, 2008\], for the current model year and annually thereafter through 2010, each motor vehicle manufacturer shall transmit to the Secretary the make and model of motor vehicles with automatictransmissions that include a ‘park’ position that do not comply with the requirements of paragraph (1).
 
 &emsp;&emsp;“(B)
 
@@ -212,7 +212,7 @@ Program Requirements.—In carrying out the program under subsection (a), the Se
 
 &emsp;“(1) establish new deadlines; and
 
-&emsp;“(2) notify the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the new deadlines and describing thereasons the deadlines specified under this Act could not be met.”
+&emsp;“(2) notify the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the new deadlines and describing the reasons the deadlines specified under this Act could not be met.”
 
 #### Improving Criteria Used in a Recall
 

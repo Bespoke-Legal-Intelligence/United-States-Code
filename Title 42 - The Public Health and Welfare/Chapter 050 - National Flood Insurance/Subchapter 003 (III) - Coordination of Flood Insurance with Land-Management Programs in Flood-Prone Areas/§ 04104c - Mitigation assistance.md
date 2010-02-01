@@ -34,7 +34,7 @@ The Director shall carry out a program to provide financial assistance to States
 
 #### (c) Eligibility for mitigation assistance
 
-To be eligible to receive financial assistance under this section for mitigation activities, aState or community shall develop, and have approved by the Director, a flood risk mitigation plan (in this section referred to as a “mitigation plan”), that describes the mitigation activities to be carried out with assistance provided under this section, is consistent with the criteria established by the Director under section 4102 of this title, and provides protection against flood losses to structures for which contracts for flood insurance are available under this chapter. The mitigation plan shall be consistent with a comprehensive strategy for mitigation activities for the area affected by the mitigation plan, that has been adopted by the State or community following a public hearing.
+To be eligible to receive financial assistance under this section for mitigation activities, a State or community shall develop, and have approved by the Director, a flood risk mitigation plan (in this section referred to as a “mitigation plan”), that describes the mitigation activities to be carried out with assistance provided under this section, is consistent with the criteria established by the Director under section 4102 of this title, and provides protection against flood losses to structures for which contracts for flood insurance are available under this chapter. The mitigation plan shall be consistent with a comprehensive strategy for mitigation activities for the area affected by the mitigation plan, that has been adopted by the State or community following a public hearing.
 
 #### (d) Notification of approval and grant award
 
@@ -100,7 +100,7 @@ To be eligible to receive financial assistance under this section for mitigation
 
 #### (3) Waiver
 
-&emsp;The Director may waive the dollar amount limitations under paragraphs (1) and (2) for any State or community for any 5-year period during which a major disaster or emergency declared by the President (pursuant to theRobert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\]) as a result of flood conditions is in effect with respect to areas in the State or community.
+&emsp;The Director may waive the dollar amount limitations under paragraphs (1) and (2) for any State or community for any 5-year period during which a major disaster or emergency declared by the President (pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\]) as a result of flood conditions is in effect with respect to areas in the State or community.
 
 #### (g) Matching requirement
 
@@ -176,7 +176,7 @@ Pub. L. 103–325, title V, §553(b), Sept. 23, 1994, 108 Stat. 2273, required t
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -280,3 +280,285 @@ Subsec. (a)(19). Pub. L. 110–140, §103(a)(7), added par. (19).
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
+#### Consumer Assistance to Recycle and Save
+
+Pub. L. 111–32, title XIII, June 24, 2009, 123 Stat. 1909, as amended by Pub. L. 111–47, Aug. 7, 2009, 123 Stat. 1972, provided that:
+
+“
+
+Sec. 1301.
+
+Short Title.—This title may be cited as the ‘Consumer Assistance to Recycle and Save Act of 2009’.
+
+“
+
+Sec. 1302.
+
+Consumer Assistance to Recycle and Save Program.—(a)
+
+Establishment.—There is established in the National Highway Traffic Safety Administration a voluntary program to be known as the ‘Consumer Assistance to Recycle and Save Program’ through which the Secretary, in accordance with this section and the regulations promulgated under subsection (d), shall—
+
+&emsp;“(1) authorize the issuance of an electronic voucher, subject to the specifications set forth in subsection (c), to offset the purchase price or lease pricefor a qualifying lease of a new fuel efficient automobile upon the surrender of an eligible trade-in vehicle to a dealer participating in the Program;
+
+&emsp;“(2) register dealers for participation in the Program and require that all registered dealers—
+
+&emsp;&emsp;“(A) accept vouchers as provided in this section as partial payment or down payment for the purchase or qualifying lease of any new fuel efficient automobile offered for sale or lease by that dealer; and
+
+&emsp;&emsp;“(B) in accordance with subsection (c)(2), to transfer each eligible trade-in vehicle surrendered to the dealer under the Program to an entity for disposal;
+
+&emsp;“(3) in consultation with the Secretary of the Treasury, make electronic payments to dealers for eligible transactions by such dealers, in accordance with the regulations issued under subsection (d); and
+
+&emsp;“(4) in consultation with the Secretary of the Treasury and the Inspector General of the Department of Transportation, establish and provide for the enforcement of measures to prevent and penalize fraud under the program.
+
+“(b)
+
+Qualifications for and Value of Vouchers.—A voucher issued under the Program shall have a value that may be applied to offset the purchase price or lease price for a qualifying lease of a new fuel efficient automobile as follows:
+
+&emsp;“(1) $3,500
+
+value.—The voucher may be used to offset the purchase price or lease price of the new fuel efficient automobile by $3,500 if—
+
+&emsp;&emsp;“(A) the new fuel efficient automobile is a passenger automobile and the combined fuel economy value of such automobile is at least 4 miles per gallon higher than the combined fuel economy value of the eligible trade-in vehicle;
+
+&emsp;&emsp;“(B) the new fuel efficient automobile is a category 1 truck and the combined fuel economy value of such truck is at least 2 miles per gallon higher than the combined fuel economy value of the eligible trade-in vehicle;
+
+&emsp;&emsp;“(C) the new fuel efficient automobile is a category 2 truck that has a combined fuel economy value of at least 15 miles per gallon and—
+
+&emsp;&emsp;&emsp;“(i) the eligible trade-in vehicle is a category 2 truck and the combined fuel economy value of the new fuel efficient automobile is at least 1 mile per gallon higher than the combined fuel economy value of the eligible trade-in vehicle; or
+
+&emsp;&emsp;&emsp;“(ii) the eligible trade-in vehicle is a category 3 truck of model year 2001 or earlier; or
+
+&emsp;&emsp;“(D) the new fuel efficient automobile is a category 3 truck and the eligible trade-in vehicle is a category 3 truck of model year of 2001 or earlier and is of similar size or larger than the new fuel efficient automobile as determined in a manner prescribed by the Secretary.
+
+&emsp;“(2) $4,500
+
+value.—The voucher may be used to offset the purchase price or lease price of the new fuel efficient automobile by $4,500 if—
+
+&emsp;&emsp;“(A) the new fuel efficient automobile is a passenger automobile and the combined fuel economy value of such automobile is at least 10 miles per gallon higher than the combined fuel economy value of the eligible trade-in vehicle;
+
+&emsp;&emsp;“(B) the new fuel efficient automobile is a category 1 truck and the combined fuel economy value of such truck is at least 5 miles per gallon higher than the combined fuel economy value of the eligible trade-in vehicle; or
+
+&emsp;&emsp;“(C) the new fuel efficient automobile is a category 2 truck that has a combined fuel economy value of at least 15 miles per gallon and the combined fuel economy value of such truck is at least 2 miles per gallon higher than the combined fuel economy value of the eligible trade-in vehicle and the eligible trade-in vehicle is a category 2 truck.
+
+“(c)
+
+Program Specifications.—
+
+&emsp;“(1)
+
+Limitations.—
+
+&emsp;&emsp;“(A)
+
+General period of eligibility.—A voucher issued under the Program shall be used only in connection with the purchase or qualifying lease of new fuel efficient automobiles that occur between July 1, 2009 and November 1, 2009.
+
+&emsp;&emsp;“(B)
+
+Number of vouchers per person and per trade-in vehicle.—Not more than 1 voucher may be issued for a single person and not more than 1 voucher may be issued for the joint registered owners of a single eligible trade-in vehicle.
+
+&emsp;&emsp;“(C)
+
+No combination of vouchers.—Only 1 voucher issued under the Program may be applied toward the purchase or qualifying lease of a single new fuel efficient automobile.
+
+&emsp;&emsp;“(D)
+
+Cap on funds for category 3 trucks.—Not more than 7.5 percent of the total funds made available for the Program shall be used for vouchers for the purchase or qualifying lease of category 3 trucks.
+
+&emsp;&emsp;“(E)
+
+Combination with other incentives permitted.—The availability or use of a Federal, State, or local incentive or a State-issued voucher for the purchase or lease of a new fuel efficient automobile shall not limit the value or issuance of a voucher under the Program to any person otherwise eligible to receive such a voucher.
+
+&emsp;&emsp;“(F)
+
+No additional fees.—A dealer participating in the program may not charge a person purchasing or leasing a new fuel efficient automobile any additional fees associated with the use of a voucher under the Program.
+
+&emsp;&emsp;“(G)
+
+Number and amount.—The total number and value of vouchers issued under the Program may not exceed the amounts appropriated for such purpose.
+
+&emsp;“(2)
+
+Disposition of eligible trade-in vehicles.—
+
+&emsp;&emsp;“(A)
+
+In general.—For each eligible trade-in vehicle surrendered to a dealer under the Program, the dealer shall certify to the Secretary, in such manner as the Secretary shall prescribe by rule, that the dealer—
+
+&emsp;&emsp;&emsp;“(i) has not and will not sell, lease, exchange, or otherwise dispose of the vehicle for use as an automobile in the United States or in any other country; and
+
+&emsp;&emsp;&emsp;“(ii) will transfer the vehicle (including the engine block), in such manner as the Secretary prescribes, to an entity that will ensure that the vehicle—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) will be crushed or shredded within such period and in such manner as the Secretary prescribes; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) has not been, and will not be, sold, leased, exchanged, or otherwise disposed of for use as an automobile in the United States or in any other country.
+
+&emsp;&emsp;“(B)
+
+Savings provision.—Nothing in subparagraph (A) may be construed to preclude a person who is responsible for ensuring that the vehicle is crushed or shredded from—
+
+&emsp;&emsp;&emsp;“(i) selling any parts of the disposed vehicle other than the engine block and drive train (unless with respect to the drive train, the transmission, drive shaft, or rear end are sold as separate parts); or
+
+&emsp;&emsp;&emsp;“(ii) retaining the proceeds from such sale.
+
+&emsp;&emsp;“(C)
+
+Coordination.—The Secretary shall coordinate with the Attorney General to ensure that the National Motor Vehicle Title Information System and other publicly accessible systems are appropriately updated on a timely basis to reflect the crushing or shredding of vehicles under this section and appropriate reclassification of the vehicles’ titles. The commercial market shall also have electronic and commercial access to the vehicle identification numbers of vehicles that have been disposed of on a timely basis.
+
+“(d)
+
+Regulations.—Notwithstanding the requirements of section 553 of title 5, United States Code, the Secretary shall promulgate final regulations to implement the Program not later than 30 days after the date of the enactment of this Act \[June 24, 2009\]. Such regulations shall—
+
+&emsp;“(1) provide for a means of registering dealers for participation in the Program;
+
+&emsp;“(2) establish procedures for the reimbursement of dealers participating in the Program to be made through electronic transfer of funds for the amount of the vouchers as soon as practicable but no longer than 10 days after the submission of information supporting the eligible transaction, as deemed appropriate by the Secretary;
+
+&emsp;“(3) require the dealer to use the voucher in addition to any other rebate or discount advertised by the dealer or offered by the manufacturer for the new fuel efficient automobile and prohibit the dealer from using the voucher to offset any such other rebate or discount;
+
+&emsp;“(4) require dealers to disclose to the person trading in an eligible trade-in vehicle the best estimate of the scrappage value of such vehicle and to permit the dealer to retain $50 of any amounts paid to the dealer for scrappage of the automobile as payment for any administrative costs to the dealer associated with participation in the Program;
+
+&emsp;“(5) consistent with subsection (c)(2), establish requirements and procedures for the disposal of eligible trade-in vehicles and provide such information as may be necessary to entities engaged in such disposal to ensure that such vehicles are disposed of in accordance with such requirements and procedures, including—
+
+&emsp;&emsp;“(A) requirements for the removal and appropriate disposition of refrigerants, antifreeze, lead products, mercury switches, and such other toxic or hazardous vehicle components prior to the crushing or shredding of an eligible trade-in vehicle, in accordance with rules established by the Secretary in consultation with the Administrator of the Environmental Protection Agency, and in accordance with other applicable Federal or State requirements;
+
+&emsp;&emsp;“(B) a mechanism for dealers to certify to the Secretary that each eligible trade-in vehicle will be transferred to an entity that will ensure that the vehicle is disposed of, in accordance with such requirements and procedures, and to submit the vehicle identification numbers of the vehicles disposed of and the new fuel efficient automobile purchased with each voucher;
+
+&emsp;&emsp;“(C) a mechanism for obtaining such other certifications as deemed necessary by the Secretary from entities engaged in vehicle disposal; and
+
+&emsp;&emsp;“(D) a list of entities to which dealers may transfer eligible trade-in vehicles for disposal; and
+
+&emsp;“(6) provide for the enforcement of the penalties described in subsection (e).
+
+“(e)
+
+Anti-Fraud Provisions.—
+
+&emsp;“(1)
+
+Violation.—It shall be unlawful for any person to violate any provision under this section or any regulations issued pursuant to subsection (d) (other than by making a clerical error).
+
+&emsp;“(2)
+
+Penalties.—Any person who commits a violation described in paragraph (1) shall be liable to the United States Government for a civil penalty of not more than $15,000 for each violation. The Secretary shall have the authority to assess and compromise such penalties, and shall have the authority to require from any entity the records and inspections necessary to enforce this program. In determining the amount of the civil penalty, the severity of the violation and the intent and history of the person committing the violation shall be taken into account.
+
+“(f)
+
+Information to Consumers and Dealers.—Not later than 30 days after the date of the enactment of this Act \[June 24, 2009\], and promptly upon the update of any relevant information, the Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall make available on an Internet website and through other means determined by the Secretary information about the Program, including—
+
+&emsp;“(1) how to determine if a vehicle is an eligible trade-in vehicle;
+
+&emsp;“(2) how to participate in the Program, including how to determine participating dealers; and
+
+&emsp;“(3) a comprehensive list, by make and model, of new fuel efficient automobiles meeting the requirements of the Program.
+
+> Once such information is available, the Secretary shall conduct a public awareness campaign to inform consumers about the Program and where to obtain additional information.
+
+“(g)
+
+Record Keeping and Report.—
+
+&emsp;“(1)
+
+Database.—The Secretary shall maintain a database of the vehicle identification numbers of all new fuel efficient vehicles purchased or leased and all eligible trade-in vehicles disposed of under the Program.
+
+&emsp;“(2)
+
+Report on efficacy of the program.—Not later than 60 days after the termination date described in subsection (c)(1)(A), the Secretary shall submit a report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the efficacy of the Program, including—
+
+&emsp;&emsp;“(A) a description of Program results, including—
+
+&emsp;&emsp;&emsp;“(i) the total number and amount of vouchers issued for purchase or lease of new fuel efficient automobiles by manufacturer (including aggregate information concerning the make, model, model year) and category of automobile;
+
+&emsp;&emsp;&emsp;“(ii) aggregate information regarding the make, model, model year, and manufacturing location of vehicles traded in under the Program; and
+
+&emsp;&emsp;&emsp;“(iii) the location of sale or lease;
+
+&emsp;&emsp;“(B) an estimate of the overall increase in fuel efficiency in terms of miles per gallon, total annual oil savings, and total annual greenhouse gas reductions, as a result of the Program; and
+
+&emsp;&emsp;“(C) an estimate of the overall economic and employment effects of the Program.
+
+&emsp;“(3)
+
+Review of administration of the program by government accountability office and inspector general.—Not later than 180 days after the termination date described in subsection (c)(1)(A), the Government Accountability Office and the Inspector General of the Department of Transportation shall submit reports to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate reviewing the administration of the program.
+
+“(h)
+
+Exclusion of Vouchers From Income.—
+
+&emsp;“(1)
+
+For purposes of all federal and state programs.—A voucher issued under this program or any payment made for such a voucher pursuant to subsection (a)(3) shall not be regarded as income and shall not be regarded as a resource for the month of receipt of the voucher and the following 12 months, for purposes of determining the eligibility of the recipient of the voucher (or the recipient's spouse or other family or household members) for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal or State program.
+
+&emsp;“(2)
+
+For purposes of taxation.—A voucher issued under the program or any payment made for such a voucher pursuant to subsection (a)(3) shall not be considered as gross income of the purchaser of a vehicle for purposes of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\].
+
+“(i)
+
+Definitions.—As used in this section—
+
+&emsp;“(1) the term ‘passenger automobile’ means a passenger automobile, as defined in section 32901(a)(18) of title 49, United States Code, that has a combined fuel economy value of at least 22 miles per gallon;
+
+&emsp;“(2) the term ‘category 1 truck’ means a nonpassenger automobile, as defined in section 32901(a)(17) of title 49, United States Code, that has a combined fuel economy value of at least 18 miles per gallon, except that such term does not include a category 2 truck;
+
+&emsp;“(3) the term ‘category 2 truck’ means a large van or a large pickup, as categorized by the Secretaryusing the method used by the Environmental Protection Agency and described in the report entitled ‘Light-Duty Automotive Technology and Fuel Economy Trends: 1975 through 2008’;
+
+&emsp;“(4) the term ‘category 3 truck’ means a work truck, as defined in section 32901(a)(19) of title 49, United States Code;
+
+&emsp;“(5) the term ‘combined fuel economy value’ means—
+
+&emsp;&emsp;“(A) with respect to a new fuel efficient automobile, the number, expressed in miles per gallon, centered below the words ‘Combined Fuel Economy’ on the label required to be affixed or caused to be affixed on a new automobile pursuant to subpart D of part 600 of title 40, Code of Federal Regulations;
+
+&emsp;&emsp;“(B) with respect to an eligible trade-in vehicle, the equivalent of the number described in subparagraph (A), and posted under the words ‘Estimated New EPA MPG’ and above the word ‘Combined’ for vehicles of model year 1984 through 2007, or posted under the words ‘New EPA MPG’ and above the word ‘Combined’ for vehicles of model year 2008 or later on the fueleconomy.gov website of the Environmental Protection Agency for the make, model, and year of such vehicle; or
+
+&emsp;&emsp;“(C) with respect to an eligible trade-in vehicle manufactured between model years 1978 through 1985, the equivalent of the number described in subparagraph (A) as determined by the Secretary (and posted on the website of the National Highway Traffic Safety Administration) using data maintained by the Environmental Protection Agency for the make, model, and year of such vehicle.
+
+&emsp;“(6) the term ‘dealer’ means a person licensed by a State who engages in the sale of new automobiles to ultimate purchasers;
+
+&emsp;“(7) the term ‘eligible trade-in vehicle’ means an automobile or a work truck (as such terms are defined in section 32901(a) of title 49, United States Code) that, at the time it is presented for trade-in under this section—
+
+&emsp;&emsp;“(A) is in drivable condition;
+
+&emsp;&emsp;“(B) has been continuously insured consistent with the applicable State law and registered to the same owner for a period of not less than 1 year immediately prior to such trade-in;
+
+&emsp;&emsp;“(C) was manufactured less than 25 years before the date of the trade-in; and
+
+&emsp;&emsp;“(D) in the case of an automobile, has a combined fuel economy value of 18 miles per gallon or less;
+
+&emsp;“(8) the term ‘new fuel efficient automobile’ means an automobile described in paragraph (1), (2), (3), or (4)—
+
+&emsp;&emsp;“(A) the equitable or legal title of which has not been transferred to any person other than the ultimate purchaser;
+
+&emsp;&emsp;“(B) that carries a manufacturer's suggested retail price of $45,000 or less;
+
+&emsp;&emsp;“(C) that—
+
+&emsp;&emsp;&emsp;“(i) in the case of passenger automobiles, category 1 trucks, or category 2 trucks, is certified to applicable standards under section 86.1811–04 of title 40, Code of Federal Regulations; or
+
+&emsp;&emsp;&emsp;“(ii) in the case of category 3 trucks, is certified to the applicable vehicle or engine standards under section 86.1816–08, 86–007–11 \[probably means 86.007–11\], or 86.008–10 of title 40, Code of Federal Regulations; and
+
+&emsp;&emsp;“(D) that has the combined fuel economy value of at least—
+
+&emsp;&emsp;&emsp;“(i) 22 miles per gallon for a passenger automobile;
+
+&emsp;&emsp;&emsp;“(ii) 18 miles per gallon for a category 1 truck; or
+
+&emsp;&emsp;&emsp;“(iii) 15 miles per gallon for a category 2 truck;
+
+&emsp;“(9) the term ‘Program’ means the Consumer Assistance to Recycle and Save Program established by this section;
+
+&emsp;“(10) the term ‘qualifying lease’ means a lease of an automobile for a period of not less than 5 years;
+
+&emsp;“(11) the term ‘scrappage value’ means the amount received by the dealer for a vehicle upon transferring title of such vehicle to the person responsible for ensuring the dismantling and destroying of the vehicle;
+
+&emsp;“(12) the term ‘Secretary’ means the Secretary of Transportation acting through the National Highway Traffic Safety Administration;
+
+&emsp;“(13) the term ‘ultimate purchaser’ means, with respect to any new automobile, the first person who in good faith purchases such automobile for purposes other than resale;
+
+&emsp;“(14) the term ‘vehicle identification number’ means the 17 character number used by the automobile industry to identify individual automobiles; and
+
+&emsp;“(15) the term ‘voucher’ means an electronic transfer of funds to a dealer based on an eligible transaction under this program.
+
+“(j)
+
+Appropriation.—There is hereby appropriated to the Secretary of Transportation $1,000,000,000, of which up to $50,000,000 is available for administration, to remain available until expended to carry out this section.”
+

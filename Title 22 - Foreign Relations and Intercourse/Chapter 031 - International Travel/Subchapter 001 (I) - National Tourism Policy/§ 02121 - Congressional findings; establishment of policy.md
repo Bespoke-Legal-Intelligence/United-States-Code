@@ -68,7 +68,7 @@ Pub. L. 104–288, §1, Oct. 11, 1996, 110 Stat. 3402, provided that: “This Ac
 
 #### Short Title of 1992 Amendment
 
-Section 1(a) of Pub. L. 102–372 provided that: “This Act \[enacting sections 2123a to 2123d and 2124c of this title, amending this section and sections 2122, 2123, 2124 to 2124b, and 2126 of this title, repealing sections 2123a and 2123b of this title, and enacting provisions set out as notes under this section and sections 2122 and 2124 of this title\] may be cited as the ‘Tourism Policy and Export Promotion Act of 1992’.”
+Section 1(a) of Pub. L. 102–372 provided that: “This Act \[enacting sections 2123a to 2123d and 2124c of this title, amending this section and sections 2122, 2123, 2124 to 2124b, and 2126 of this title, repealing sections 2123aand 2123b of this title, and enacting provisions set out as notes under this section and sections 2122 and 2124 of this title\] may be cited as the ‘Tourism Policy and Export Promotion Act of 1992’.”
 
 #### Short Title of 1981 Amendment
 

@@ -16,7 +16,7 @@ Subsection (a) of this section shall not apply to any record (or portion thereof
 
 &emsp;(3) would demonstrably impede current diplomatic negotiations or other ongoing official activities of the United States Government or would demonstrably impair the national security of the United States; or
 
-&emsp;(4) would disclose matters that are related solely to the internal personnel rules and practices of the Department of State or are contained in personnel, medical, or similar files the disclosure of which would constitute a clearly unwarranted invasion of personal privacy.
+&emsp;(4) would disclose matters that are related solely to the internal personnel rules and practices of the Department of State or arecontained in personnel, medical, or similar files the disclosure of which would constitute a clearly unwarranted invasion of personal privacy.
 
 #### (c) Review
 

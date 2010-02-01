@@ -2,7 +2,7 @@
 
 #### (a) Notice
 
-The President or any other Federal officer shall cause notice to be published in the Federal Register and in newspapers of general circulation in the areas affected whenever he makes any decision described in subsection (b) of this section.
+The President or any other Federal officer shall cause notice to be published in the Federal Register and in newspapers of general circulation in the areas affected whenever he makesany decision described in subsection (b) of this section.
 
 #### (b) Review of certain Federal actions
 

@@ -6,7 +6,7 @@ In order to assist in the development and promotion of rural tourism, there is e
 
 #### (b) Functions
 
-The functions of the Foundation shall be the planning, development, and implementation ofprojects and programs which have the potential to increase travel and tourism export revenues by attracting foreign visitors to rural America. Initially, such projects and programs shall include—
+The functions of the Foundation shall be the planning, development, and implementation of projects and programs which have the potential to increase travel and tourism export revenues by attracting foreign visitors to rural America. Initially, such projects and programs shall include—
 
 &emsp;(1) participation in the development and distribution of educational and promotional materials pertaining to both private and public attractions located in rural areas of the United States, including Federal parks and recreational lands, which can be used by foreign visitors;
 
@@ -28,7 +28,7 @@ The functions of the Foundation shall be the planning, development, and implemen
 
 &emsp;(ii) The voting members of the Board, other than those referred to in clause (i), shall be appointed in accordance with procedures established by such bylaws.
 
-&emsp;(C) The voting members of the Board shall be individuals who are not Federal officers or employees and who have demonstrated an interest in rural tourism development. Of such voting members, at least a majority shall have experience and expertise in tourism trade promotion, at least one shall have experience and expertise in resource conservation, at least one shall have experience and expertise in financial administration in a fiduciary capacity, at least one shall be a representative of an Indian tribe who has experience and expertise in rural tourism on an Indian reservation, at least one shall represent a regional or national organization or association with a major interest in rural tourism development or promotion, and at least one shall be a representative of a State who is responsible for tourism promotion.
+&emsp;(C) The voting members of the Board shall be individuals who are not Federal officers oremployees and who have demonstrated an interest in rural tourism development. Of such voting members, at least a majority shall have experience and expertise in tourism trade promotion, at least one shall have experience and expertise in resource conservation, at least one shall have experience and expertise in financial administration in a fiduciary capacity, at least one shall be a representative of an Indian tribe who has experience and expertise in rural tourism on an Indian reservation, at least one shall represent a regional or national organization or association with a major interest in rural tourism development or promotion, and at least one shall be a representative of a State who is responsible for tourism promotion.
 
 &emsp;(D) Voting members of the Board shall each serve a term of six years, except that—
 

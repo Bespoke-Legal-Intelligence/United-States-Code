@@ -6,7 +6,7 @@ Each small business investment company shall have authority to borrow money and 
 
 #### (b) Debentures and participating securities
 
-To encourage the formation and growth of small business investment companies the Administration is authorized when authorized in appropriation Acts, to purchase, or to guarantee the timely payment of all principal and interest as scheduled on, debentures or participating securities issued by such companies. Such purchases or guarantees may be made by the Administration on such terms and conditions as it deems appropriate, pursuant to regulations issued by the Administration. The full faith and credit of the United States is pledged to the payment of all amounts which may be required to be paid under any guarantee under this subsection. Debentures purchased or guaranteed by the Administration under this subsection shall be subordinate to any other debenture bonds, promissory notes, or other debts and obligations of such companies, unless the Administration in its exercise of reasonable investment prudence and in considering the financial soundness of such company determines otherwise. Such debentures may be issued for a term of not to exceed fifteen years and shall bear interest at a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities on such debentures, adjusted to the nearest one-eighth of 1 percent, plus, for debentures obligated after September 30, 2001, an additional charge, in an amount established annually by the Administration, as necessary to reduce to zero the cost (as defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter, which amount may not exceed 1.38 percent per year, and which shall be paid to and retained by the Administration. The debentures or participating securities shall also contain such other terms as the Administration may fix, and shall be subject to the following restrictions and limitations:
+To encourage the formation and growth of small business investment companies the Administration is authorized when authorized in appropriation Acts, to purchase, or to guarantee the timely payment of all principal and interest as scheduled on, debentures or participating securities issued by such companies. Such purchases or guarantees may be made by the Administration on such terms and conditions as it deems appropriate, pursuant to regulations issued by the Administration. The full faith and credit of the United States is pledged to the payment of all amounts which may be required to be paid under any guarantee under this subsection. Debentures purchased or guaranteed by the Administration under this subsection shall be subordinate to any other debenture bonds, promissory notes, or other debts and obligations of such companies, unless the Administration in its exercise of reasonable investment prudence and in considering the financial soundness of such company determines otherwise. Such debentures may be issued for a term of not to exceed fifteen years and shall bear interest at a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities on such debentures,adjusted to the nearest one-eighth of 1 percent, plus, for debentures obligated after September 30, 2001, an additional charge, in an amount established annually by the Administration, as necessary to reduce to zero the cost (as defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter, which amount may not exceed 1.38 percent per year, and which shall be paid to and retained by the Administration. The debentures or participating securities shall also contain such other terms as the Administration may fix, and shall be subject to the following restrictions and limitations:
 
 &emsp;(1) The total amount of debentures and participating securities that may be guaranteed by the Administration and outstanding from a company licensed under section 681(c) of this title shall not exceed 300 per centum of the private capital of such company: <i>Provided</i>, That nothing in this paragraph shall require any such company that on March 31, 1993, has outstanding debentures in excess of 300 per centum of its private capital to prepay such excess: <i>And provided further</i>, That any such company may apply for an additional debenture guarantee or participating security guarantee with the proceeds to be used solely to pay the amount due on such maturing debenture, but the maturity of the new debenture or security shall be not later than September 30, 2002.
 
@@ -16,27 +16,27 @@ Maximum leverage.—
 
 &emsp;&emsp;(A)
 
-In general.—After March 31, 1993, the maximum amount of outstanding leverage made available to a company licensed under section 681(c) of this title shall be determined by the amount of such company's private capital—
+In general.—The maximum amount of outstanding leverage made available to any one company licensed under section 681(c) of this title may not exceed the lesser of—
 
-&emsp;&emsp;&emsp;(i) if the company has private capital of not more than $15,000,000, the total amount of leverage shall not exceed 300 percent of private capital;
+&emsp;&emsp;&emsp;(i) 300 percent of such company's private capital; or
 
-&emsp;&emsp;&emsp;(ii) if the company has private capital of more than $15,000,000 but not more than $30,000,000, the total amount of leverage shall not exceed $45,000,000 plus 200 percent of the amount of private capital over $15,000,000; and
+&emsp;&emsp;&emsp;(ii) $150,000,000.
 
-&emsp;&emsp;&emsp;(iii) if the company has private capital of more than $30,000,000, the total amount of leverage shall not exceed $75,000,000 plus 100 percent of the amount of private capital over $30,000,000 but not to exceed an additional $15,000,000.
+&emsp;&emsp;(B)
 
-&emsp;&emsp;(B) Adjustments.—
-
-&emsp;&emsp;&emsp;(i)
-
-In general.—The dollar amounts in clauses (i), (ii), and (iii) of subparagraph (A) shall be adjusted annually to reflect increases in the Consumer Price Index established by the Bureau of Labor Statistics of the Department of Labor.
-
-&emsp;&emsp;&emsp;(ii)
-
-Initial adjustments.—The initial adjustments made under this subparagraph after December 2, 1997,<sup>1</sup> shall reflect only increases from March 31, 1993.
+Multiple licenses under common control.—The maximum amount of outstanding leverage made available to two or more companies licensed under section 681(c) of this title that are commonly controlled (as determined by the Administrator) and not under capital impairment may not exceed $225,000,000.
 
 &emsp;&emsp;(C)
 
-Investments in low-income geographic areas.—In calculating the outstanding leverage of a company for the purposes of subparagraph (A), the Administrator shall not include the amount of the cost basis of any equity investment made by the company in a smaller enterprise located in a low-income geographic area (as defined in section 689 of this title), to the extent that the total of such amounts does not exceed 50 percent of the company's private capital.
+Investments in low-income geographic areas.—(i) In calculating the outstanding leverage of a company for the purposes of subparagraph (A), the Administrator shall not include the amount of the cost basis of any equity investment made by the company in a smaller enterprise located in a low-income geographic area (as defined in section 689 of this title), to the extent that the total of such amounts does not exceed 50 percent of the company's private capital.
+
+&emsp;&emsp;(ii) The maximum amount of outstanding leverage made available to—
+
+&emsp;&emsp;&emsp;(I) any 1 company described in clause (iii) may not exceed the lesser of 300 percent of private capital of the company, or $175,000,000; and
+
+&emsp;&emsp;&emsp;(II) 2 or more companies described in clause (iii) that are under common control (as determined by the Administrator) may not exceed $250,000,000.
+
+&emsp;&emsp;(iii) A company described in this clause is a company licensed under section 681(c) of this title in the first fiscal year after February 17, 2009, or any fiscal year thereafter that certifies in writing that not less than 50 percent of the dollar amount of investments of that company shall be made in companies that are located in a low-income geographic area (as that term is defined in section 689 of this title).
 
 &emsp;&emsp;(D)
 
@@ -56,61 +56,13 @@ Amount of exclusion.—The amount excluded under clause (i) for a company shall 
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Maximum investment.—A company shall not make an Energy Saving qualified investment in any one entity in anamount equal to more than 20 percent of the private capital of that company.
+Maximum investment.—A company shall not make an Energy Saving qualified investment in any one entity in an amount equal to more than 20 percent of the private capital of that company.
 
 &emsp;&emsp;&emsp;&emsp;(III)
 
 Other terms.—The exclusion of amounts under clause (i) shall be subject to such terms as the Administrator may impose to ensure that there is no cost (as that term is defined in section 661a of title 2) with respect to purchasing or guaranteeing any debenture involved.
 
 &emsp;(3) Subject to the foregoing dollar and percentage limits, a company licensed under section 681(c) of this title may issue and have outstanding both guaranteed debentures and participating securities: <i>Provided</i>, That the total amount of participating securities outstanding shall not exceed 200 per centum of private capital.
-
-&emsp;(4)
-
-Maximum aggregate amount of leverage.—
-
-&emsp;&emsp;(A)
-
-In general.—Except as provided in subparagraph (B), the aggregate amount of outstanding leverage issued to any company or companies that are commonly controlled (as determined by the Administrator) may not exceed $90,000,000, as adjusted annually for increases in the Consumer Price Index.
-
-&emsp;&emsp;(B)
-
-Exceptions.—The Administrator may, on a case-by-case basis—
-
-&emsp;&emsp;&emsp;(i) approve an amount of leverage that exceeds the amount described in subparagraph (A) for companies under common control; and
-
-&emsp;&emsp;&emsp;(ii) impose such additional terms and conditions as the Administrator determines to be appropriate to minimize the risk of loss to the Administration in the event of default.
-
-&emsp;&emsp;(C)
-
-Applicability of other provisions.—Any leverage that is issued to a company or companies commonly controlled in an amount that exceeds $90,000,000, whether as a result of an increase in the Consumer Price Index or a decision of the Administrator, is subject to subsection (d) of this section.
-
-&emsp;&emsp;(D)
-
-Investments in low-income geographic areas.—In calculating the aggregate outstanding leverage of a company for the purposes of subparagraph (A), the Administrator shall not include the amount of the cost basis of any equity investment made by the company in a smaller enterprise located in a low-income geographic area (as defined in section 689 of this title), to the extent that the total of such amounts does not exceed 50 percent of the company's private capital.
-
-&emsp;&emsp;(E)
-
-Investments in energy saving small businesses.—
-
-&emsp;&emsp;&emsp;(i)
-
-In general.—Subject to clause (ii), in calculating the aggregate outstanding leverage of a company for purposes of subparagraph (A), the Administrator shall exclude the amount of the cost basis of any Energy Saving qualified investment in a smaller enterprise made in the first fiscal year after December 19, 2007, or any fiscal year thereafter by a company licensed in the applicable fiscal year.
-
-&emsp;&emsp;&emsp;(ii)
-
-Limitations.—
-
-&emsp;&emsp;&emsp;&emsp;(I)
-
-Amount of exclusion.—The amount excluded under clause (i) for a company shall not exceed 33 percent of the private capital of that company.
-
-&emsp;&emsp;&emsp;&emsp;(II)
-
-Maximum investment.—A company shall not make an Energy Saving qualified investment in any one entity in an amount equal to more than 20 percent of the private capital of that company.
-
-&emsp;&emsp;&emsp;&emsp;(III)
-
-Other terms.—The exclusion of amounts under clause (i) shall be subject to such terms as the Administrator may impose to ensure that there is no cost (as that term is defined in section 661a of title 2) with respect to purchasing or guaranteeing any debenture involved.
 
 > For purposes of this subsection, the term “venture capital” includes such common stock, preferred stock, or other financing with subordination or nonamortization characteristics as the Administration determines to be substantially similar to equity financing.
 
@@ -122,19 +74,9 @@ The Administrator—
 
 &emsp;(2) shall permit such licensees to incur third party debt only on such terms and subject to such conditions as may be established by the Administrator, by regulation or otherwise.
 
-#### (d) Required certifications
+#### (d) Investments in smaller enterprises
 
-#### (1) In general
-
-&emsp;The Administrator shall require each licensee, as a condition of approval of an application for leverage, to certify in writing—
-
-&emsp;&emsp;(A) for licensees with leverage less than or equal to $90,000,000, that not less than 20 percent of the licensee's aggregate dollar amount of financings will be provided to smaller enterprises; and
-
-&emsp;&emsp;(B) for licensees with leverage in excess of $90,000,000, that, in addition to satisfying the requirements of subparagraph (A), 100 percent of the licensee's aggregate dollar amount of financings made in whole or in part with leverage in excess of $90,000,000 will be provided to smaller enterprises (as defined in section 662(12) of this title).
-
-#### (2) Multiple licensees
-
-&emsp;Multiple licensees under common control (as determined by the Administrator) shall be considered to be a single licensee for purposes of determining both the applicability of and compliance with the investment percentage requirements of this subsection.
+The Administrator shall require each licensee, as a condition of approval of an application for leverage, to certify in writing that not less than 25 percent of the aggregate dollar amount of financings of that licensee shall be provided to smaller enterprises.
 
 #### (e) Capital impairment
 
@@ -238,17 +180,21 @@ All fees, interest, and profits received and retained by the Administration unde
 
 In addition to any other authority under this chapter, a small business investment company licensed in the first fiscal year after December 19, 2007, or any fiscal year thereafter may issue Energy Saving debentures.
 
-(Pub. L. 85–699, title III, §303, Aug. 21, 1958, 72 Stat. 692; Pub. L. 87–341, §4, Oct. 3, 1961, 75 Stat. 752; Pub. L. 88–273, §3, Feb. 28, 1964, 78 Stat. 146; Pub. L. 90–104, title II, §205, Oct. 11, 1967, 81 Stat. 270; Pub. L. 92–213, §10, Dec. 22, 1971, 85 Stat. 776; Pub. L. 92–595, §2(c), (d), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §104, June 4, 1976, 90 Stat. 665; Pub. L. 95–507, title I, §101, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 101–162, title V, (4), Nov. 21, 1989, 103 Stat. 1025; Pub. L. 101–574, title II, §215(a)(1), (b), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 102–366, title IV, §§402, 403, 412, 413, Sept. 4, 1992, 106 Stat. 1008, 1009, 1018; Pub. L. 103–403, title II, §215, Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–208, div. D, title II, §208(d)(1)–(4)(A), (5), (6), (h)(1)(A), Sept. 30, 1996, 110 Stat. 3009–743, 3009–744, 3009–746; Pub. L. 105–135, title II, §215(b)–(d), Dec. 2, 1997, 111 Stat. 2602, 2603; Pub. L. 106–9, §2(d)(1), Apr. 5, 1999, 113 Stat. 18; Pub. L. 106–554, §1(a)(8) \[§1(d)\], §1(a)(9) \[title IV, §§404, 405\], Dec. 21, 2000, 114 Stat. 2763, 2763A–664, 2763A–690, 2763A–691; Pub. L. 107–100, §2(a), Dec. 21, 2001, 115 Stat. 966; Pub. L. 108–84, §117, Sept. 30, 2003, 117 Stat. 1044; Pub. L. 108–172, §1(b), Dec. 6, 2003, 117 Stat. 2065; Pub. L. 108–447, div. K, title II, §201, Dec. 8, 2004, 118 Stat. 3465; Pub. L. 110–140, title XII, §§1205(a), 1206, Dec. 19, 2007, 121 Stat. 1773.)
+(Pub. L. 85–699, title III, §303, Aug. 21, 1958, 72 Stat. 692; Pub. L. 87–341, §4, Oct. 3, 1961, 75 Stat. 752; Pub. L. 88–273, §3, Feb. 28, 1964, 78 Stat. 146; Pub. L. 90–104, title II, §205, Oct. 11, 1967, 81 Stat. 270; Pub. L. 92–213, §10, Dec. 22, 1971, 85 Stat. 776; Pub. L. 92–595, §2(c), (d), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §104, June 4, 1976, 90 Stat. 665; Pub. L. 95–507, title I, §101, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 101–162, title V, (4), Nov. 21, 1989, 103 Stat. 1025; Pub. L. 101–574, title II, §215(a)(1), (b), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 102–366, title IV, §§402, 403, 412, 413, Sept. 4, 1992, 106 Stat. 1008, 1009, 1018; Pub. L. 103–403, title II, §215, Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–208, div. D, title II, §208(d)(1)–(4)(A), (5), (6), (h)(1)(A), Sept. 30, 1996, 110 Stat. 3009–743, 3009–744, 3009–746; Pub. L. 105–135, title II, §215(b)–(d), Dec. 2, 1997, 111 Stat. 2602, 2603; Pub. L. 106–9, §2(d)(1), Apr. 5, 1999, 113 Stat. 18; Pub. L. 106–554, §1(a)(8) \[§1(d)\], §1(a)(9) \[title IV, §§404, 405\], Dec. 21, 2000, 114 Stat. 2763, 2763A–664, 2763A–690, 2763A–691; Pub. L. 107–100, §2(a), Dec. 21, 2001, 115 Stat. 966; Pub. L. 108–84, §117, Sept. 30, 2003, 117 Stat. 1044; Pub. L. 108–172, §1(b), Dec.6, 2003, 117 Stat. 2065; Pub. L. 108–447, div. K, title II, §201, Dec. 8, 2004, 118 Stat. 3465; Pub. L. 110–140, title XII, §§1205(a), 1206, Dec. 19, 2007, 121 Stat. 1773; Pub. L. 111–5, div. A, title V, §505(a), (c), Feb. 17, 2009, 123 Stat. 156, 157.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in subsecs. (b), (e), (g)(2), (4), (j), and (k), see References in Text note set out under section 661 of this title.
 
-#### Codification
-
-December 2, 1997, referred to in subsec. (b)(2)(B)(ii), was in the original “the date of the enactment of theSmall Business Reauthorization Act of 1937” which was translated as meaning the date of enactment of the Small Business Reauthorization Act of 1997, Pub. L. 105–135, as the probable intent of Congress.
-
 #### Amendments
+
+2009—Subsec. (b)(2)(A), (B). Pub. L. 111–5, §505(a)(1), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which set forth the maximum amount of outstanding leverage for a company with private capital of not more than $15,000,000, for a company with from $15,000,000 to $30,000,000 in private capital, and for a company with private capital of more than $30,000,000, and set forth provisions relating to initial and annual adjustments of amounts.
+
+Subsec. (b)(2)(C). Pub. L. 111–5, §505(a)(2), designated existing provisions as cl. (i) and added cls. (ii) and (iii).
+
+Subsec. (b)(4). Pub. L. 111–5, §505(a)(3), struck out par. (4) which related to maximum aggregate amount of leverage.
+
+Subsec. (d). Pub. L. 111–5, §505(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to written certification that not less than 20 percent of the licensee's aggregate dollar amount of financings would be provided to smaller enterprises, required additional written certification by those licensees with leverage over $90,000,000, and set forth provisions relating to multiple licensees.
 
 2007—Subsec. (b)(2)(D). Pub. L. 110–140, §1206(a), added subpar. (D).
 
@@ -296,7 +242,7 @@ Subsec. (i). Pub. L. 105–135, §215(d), substituted “in the following manner
 
 1996—Subsec. (a). Pub. L. 104–208, §208(h)(1)(A)(i), substituted “securities,” for “debenture bonds,”.
 
-Subsec. (b). Pub. L. 104–208, §208(d)(1), (6)(A), in first sentence struck out “(but only to the extent that the necessary funds are not available to said company from private sources on reasonable terms)” after “is authorized” and in fifth sentence substituted “1 percent, plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration” for “1 per centum, plus such additional charge, if any, toward covering other costs of the program as the Administration may determine to be consistent with its purposes”.
+Subsec. (b). Pub. L. 104–208, §208(d)(1), (6)(A), in first sentence struck out “(but only to the extent that thenecessary funds are not available to said company from private sources on reasonable terms)” after “is authorized” and in fifth sentence substituted “1 percent, plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration” for “1 per centum, plus such additional charge, if any, toward covering other costs of the program as the Administration may determine to be consistent with its purposes”.
 
 Subsec. (c). Pub. L. 104–208, §208(d)(2), inserted heading and amended text of subsec. (c) generally. Prior to amendment, text consisted of 7 pars. which authorized the Administration to purchase securities and to purchase or guarantee payments on debentures issued by small business investment companies operating under section 681(d) of this title.
 
@@ -334,7 +280,7 @@ Subsec. (c)(6). Pub. L. 102–366, §402(3), inserted before period at end “,�
 
 Subsec. (c)(7). Pub. L. 102–366, §402(4), added par. (7).
 
-Subsec. (e). Pub. L. 102–366, §413, inserted “licensed under section 681(d) of this title and notwithstanding section 662(9) of this title” after “company” and substituted “to November 21, 1989: <i>Provided</i>, That such companies may include in private capital for any purpose funds indirectly obtained from State or local governments. As used in this subsection, the term ‘capital indirectly obtained’ includes income generated by a State financing authority or similar State institution or agency or from the investment of State or local money or amounts originally provided to nonprofit institutions or corporations which such institutions or corporations, in their discretion, determine to invest in a company licensed under section 681(d) of this title.” for “prior to November 21, 1989.”
+Subsec. (e). Pub. L. 102–366, §413, inserted “licensed under section 681(d) of this title and notwithstandingsection 662(9) of this title” after “company” and substituted “to November 21, 1989: <i>Provided</i>, That such companies may include in private capital for any purpose funds indirectly obtained from State or local governments. As used in this subsection, the term ‘capital indirectly obtained’ includes income generated by a State financing authority or similar State institution or agency or from the investment of State or local money or amounts originally provided to nonprofit institutions or corporations which such institutions or corporations, in their discretion, determine to invest in a company licensed under section 681(d) of this title.” for “prior to November 21, 1989.”
 
 Subsecs. (g), (h). Pub. L. 102–366, §403, added subsecs. (g) and (h).
 
@@ -342,7 +288,7 @@ Subsecs. (g), (h). Pub. L. 102–366, §403, added subsecs. (g) and (h).
 
 Subsec. (c)(6). Pub. L. 101–574, §215(b)(1), inserted “under the provisions of this subchapter,” after “debentures or securities”.
 
-Subsec. (d). Pub. L. 101–574, §215(b)(2), struck out after second sentence “The aggregate amount of debentures with interest rate reductions as provided in this subsection or as provided in section 687i of this title which may be outstanding at any time from any suchcompany shall not exceed 200 per centum of the private paid-in capital and paid-in surplus of such company.”
+Subsec. (d). Pub. L. 101–574, §215(b)(2), struck out after second sentence “The aggregate amount of debentures with interest rate reductions as provided in this subsection or as provided in section 687i of this title which may be outstanding at any time from any such company shall not exceed 200 per centum of the private paid-in capital and paid-in surplus of such company.”
 
 1989—Subsec. (c). Pub. L. 101–162 added subsec. (c) and struck out former subsec. (c) which contained provisions substantially similar to introductory provisions and pars. (1) to (4).
 
@@ -398,7 +344,7 @@ Section 208(d)(4)(B) of div. D of Pub. L. 104–208 provided that:
 
 “(i)
 
-Uniform applicability.—Any regulation issued by the Administration to implement section 303(e) of the Small Business Investment Act of 1958 \[15 U.S.C. 683(e)\] that applies to any licensee with outstanding leverage obtained before the effective date of that regulation, shall apply uniformly to all licensees with outstanding leverage obtained before that effective date.
+Uniform applicability.—Any regulation issued by the Administration to implement section 303(e) ofthe Small Business Investment Act of 1958 \[15 U.S.C. 683(e)\] that applies to any licensee with outstanding leverage obtained before the effective date of that regulation, shall apply uniformly to all licensees with outstanding leverage obtained before that effective date.
 
 “(ii)
 
@@ -407,6 +353,4 @@ Definitions.—For purposes of this subparagraph, the terms ‘Administration’
 #### Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws
 
 Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or to otherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
-
-<i><sup>1</sup></i><i> See Codification note below.</i>
 

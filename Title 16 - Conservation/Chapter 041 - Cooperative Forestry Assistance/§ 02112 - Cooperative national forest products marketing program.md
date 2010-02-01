@@ -36,7 +36,7 @@
 
 #### (2) Interstate cooperative agreements
 
-&emsp;Grant agreements shall encourage the establishment of interstate cooperative agreements by the States for the purpose of promoting the development of domestic and foreign markets for forest products.
+&emsp;Grant agreements shall encourage the establishment of interstate cooperative agreements by the States for the purpose of promoting thedevelopment of domestic and foreign markets for forest products.
 
 #### (c) Limitations
 

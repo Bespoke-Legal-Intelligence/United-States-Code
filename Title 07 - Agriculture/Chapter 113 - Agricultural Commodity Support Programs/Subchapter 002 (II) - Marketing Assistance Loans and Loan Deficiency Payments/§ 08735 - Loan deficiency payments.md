@@ -56,7 +56,7 @@ This section shall not apply with respect to extra long staple cotton.
 
 #### (e) Effective date for payment rate determination
 
-The Secretary shall determine the amount of the loan deficiency payment to be made underthis section to the producers on a farm with respect to a quantity of a loan commodity or commodity referred to in subsection (a)(2) using the payment rate in effect under subsection (c) as of the date the producers request the payment.
+The Secretary shall determine the amount of the loan deficiency payment to be made under this section to the producers on a farm with respect to a quantity of a loan commodity or commodity referred to in subsection (a)(2) using the payment rate in effect under subsection (c) as of the date the producers request the payment.
 
 (Pub. L. 110–234, title I, §1205, May 22, 2008, 122 Stat. 958; Pub. L. 110–246, §4(a), title I, §1205, June 18, 2008, 122 Stat. 1664, 1686.)
 

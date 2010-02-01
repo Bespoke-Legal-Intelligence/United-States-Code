@@ -18,7 +18,7 @@ For purposes of this section:
 
 (3)(A) The custodian to whom any documentary material, tangible things, written reports or answers to questions, and transcripts of oral testimony are delivered shall take physical possession of such material, reports or answers, and transcripts, and shall be responsible for the use made of such material, reports or answers, and transcripts, and for the return of material, pursuant to the requirements of this section.
 
-(B) The custodian may prepare such copies of the documentary material, written reports or answers to questions, and transcripts of oral testimony, and may make tangible things available, as may be required for official use by any duly authorized officer or employee of the Commission under regulations which shall be promulgated by the Commission. Notwithstanding subparagraph (C), such material, things, and transcripts may be used by any such officer or employee in connection with the taking of oral testimony under this section.
+(B) The custodian may prepare such copies of the documentary material, written reports or answers to questions, and transcripts of oral testimony, and may make tangible things available, as may be required for official use by any duly authorized officer or employee of the Commission under regulations which shall be promulgated by the Commission. Notwithstanding subparagraph (C), such material, things, andtranscripts may be used by any such officer or employee in connection with the taking of oral testimony under this section.
 
 (C) Except as otherwise provided in this section, while in the possession of the custodian, no documentary material, tangible things, reports or answers to questions, and transcripts of oral testimony shall be available for examination by any individual other than a duly authorized officer or employee of the Commission without the consent of the person who produced the material, things, or transcripts. Nothing in this section is intended to prevent disclosure to either House of the Congress or to any committee or subcommittee of the Congress, except that the Commission immediately shall notify the owner or provider of any such information of a request for information designated as confidential by the owner or provider.
 
@@ -60,7 +60,7 @@ For purposes of this section:
 
 &emsp;(A) designate under paragraph (2)(A) another duly authorized agent to serve as custodian of such material; and
 
-&emsp;(B) transmit in writing to the person who produced the material or testimony notice asto the identity and address of the successor so designated.
+&emsp;(B) transmit in writing to the person who produced the material or testimony notice as to the identity and address of the successor so designated.
 
 > Any successor designated under paragraph (2)(A) as a result of the requirements of this paragraph shall have (with regard to the material involved) all duties and responsibilities imposed by this section upon his predecessor in office with regard to such material, except that he shall not be held responsible for any default or dereliction which occurred before his designation.
 
@@ -100,7 +100,7 @@ Nothing in this section shall supersede any statutory provision which expressly 
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) of this paragraph, the Commission shall not be required to disclose under section 552 of title 5 or any other provision of law—
+&emsp;&emsp;Except as provided in subparagraph (B) of this paragraph, the Commission shall not berequired to disclose under section 552 of title 5 or any other provision of law—
 
 &emsp;&emsp;&emsp;(i) any material obtained from a foreign law enforcement agency or other foreign government agency, if the foreign law enforcement agency or other foreign government agency has requested confidential treatment, or has precluded such disclosure under other use limitations, as a condition of providing the material;
 
@@ -110,7 +110,7 @@ Nothing in this section shall supersede any statutory provision which expressly 
 
 #### (B) Savings provision
 
-&emsp;&emsp;Nothing in this subsection shall authorize the Commission to withhold informationfrom the Congress or prevent the Commission from complying with an order of a court of the United States in an action commenced by the United States or the Commission.
+&emsp;&emsp;Nothing in this subsection shall authorize the Commission to withhold information from the Congress or prevent the Commission from complying with an order of a court of the United States in an action commenced by the United States or the Commission.
 
 (Sept. 26, 1914, ch. 311, §21, as added Pub. L. 96–252, §14, May 28, 1980, 94 Stat. 385; amended Pub. L. 103–312, §8, Aug. 26, 1994, 108 Stat. 1694; Pub. L. 109–455, §6, Dec. 22, 2006, 120 Stat. 3376.)
 

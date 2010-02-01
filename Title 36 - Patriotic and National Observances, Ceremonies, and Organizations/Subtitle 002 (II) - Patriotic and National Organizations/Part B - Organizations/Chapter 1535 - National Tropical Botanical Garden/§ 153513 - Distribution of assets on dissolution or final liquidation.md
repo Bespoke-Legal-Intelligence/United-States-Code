@@ -4,7 +4,7 @@
 
 Allowable Recipients.—On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be distributed, as decided by the board of trustees, to—
 
-&emsp;(1) the United States Government, to be administered by the Secretary of the Interiorunder the Act of August 25, 1916 (16 U.S.C. 1 et seq.) (known as the National Park Service Organic Act); or
+&emsp;(1) the United States Government, to be administered by the Secretary of the Interior under the Act of August 25, 1916 (16 U.S.C. 1 et seq.) (known as the National Park Service Organic Act); or
 
 &emsp;(2) a State or local government to be used for a public purpose.
 

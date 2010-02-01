@@ -20,7 +20,7 @@ Whenever the promulgating authority determines that regulations containing prohi
 
 &emsp;(4) prevent the nonfunctional-slack-fill of packages containing consumer commodities.
 
-> For purposes of paragraph (4) of this subsection, a package shall be deemed to be nonfunctionally slack-filled if it is filled to substantially less than its capacity for reasons other than (A) protection of the contents of such package or (B) the requirements of machines used for enclosing the contents in such package.
+> For purposes of paragraph (4) of this subsection, a package shall be deemed to be nonfunctionally slack-filled if it is filled to substantially less than its capacity for reasons other than (A) protection of the contents of such package or (B)the requirements of machines used for enclosing the contents in such package.
 
 #### (d) Development by manufacturers, packers, and distributors of voluntary product standards
 

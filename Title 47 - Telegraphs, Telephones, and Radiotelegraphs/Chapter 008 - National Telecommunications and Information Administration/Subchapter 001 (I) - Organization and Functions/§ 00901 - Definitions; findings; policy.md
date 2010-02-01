@@ -48,7 +48,7 @@ The NTIA shall seek to advance the following policies:
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original, “this title”, meaning title I of Pub. L. 102–538, Oct. 27, 1992, 106 Stat. 3533, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (a), was in the original, “this title”, meaning title I of Pub. L. 102–538, Oct. 27, 1992, 106 Stat. 3533, which is classified principally to this chapter. For complete classification ofthis Act to the Code, see Short Title note below and Tables.
 
 The Communications Satellite Act of 1962, referred to in subsec. (a)(5), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended. Title III of the Act is classified generally to subchapter III (§731 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
@@ -134,5 +134,7 @@ Term of the President's National Security Telecommunications Advisory Committee 
 
 Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

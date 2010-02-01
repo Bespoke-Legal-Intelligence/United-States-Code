@@ -28,7 +28,7 @@ The Secretary and the Comptroller General of the United States, or any duly auth
 
 #### (1) Performance review
 
-&emsp;Based on the performance standards established under section 1437bbb–5(b)(4) of thistitle, the Secretary shall monitor the performance of participating jurisdictions in providing assistance under this subchapter.
+&emsp;Based on the performance standards established under section 1437bbb–5(b)(4) of this title, the Secretary shall monitor the performance of participating jurisdictions in providing assistance under this subchapter.
 
 #### (2) Status report
 

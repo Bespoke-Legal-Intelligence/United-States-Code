@@ -18,7 +18,7 @@ The liability of a receiver or conservator of an uninsured national bank, uninsu
 
 #### (1) In general
 
-&emsp;The Comptroller of the Currency in the case of an uninsured national bank or uninsuredFederal branch or agency and the Board of Governors of the Federal Reserve System in the case of a corporation chartered under section 25A of the Federal Reserve Act \[12 U.S.C. 611 et seq.\], or an uninsured State member bank that operates, or operates as, a multilateral clearing organization pursuant to section 4422 of this title, in consultation with the Federal Deposit Insurance Corporation, may each promulgate regulations solely to implement this section.
+&emsp;The Comptroller of the Currency in the case of an uninsured national bank or uninsured Federal branch or agency and the Board of Governors of the Federal Reserve System in the case of a corporation chartered under section 25A of the Federal Reserve Act \[12 U.S.C. 611 et seq.\], or an uninsured State member bank that operates, or operates as, a multilateral clearing organization pursuant to section 4422 of this title, in consultation with the Federal Deposit Insurance Corporation, may each promulgate regulations solely to implement this section.
 
 #### (2) Specific requirement
 

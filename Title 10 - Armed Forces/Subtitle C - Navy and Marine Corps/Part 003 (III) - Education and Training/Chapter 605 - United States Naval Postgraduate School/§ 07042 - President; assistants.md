@@ -66,7 +66,7 @@ July 31, 1947, ch. 420, §2, 61 Stat. 705.
 
 In subsection (a) the word “Regular” is omitted as covered by the term “active list”.
 
-In subsection (b) the words “line and staff” and “as may be necessary” are omitted as surplusage. The word “grades” is substituted for the word “ranks”. The words “advanced instruction and technical education” are substituted for the words “training \* \* \* in the practical and theoretical duties of commissioned naval officers”.
+In subsection (b) the words “line and staff” and “as may be necessary” are omitted as surplusage. The word “grades” is substituted for the word “ranks”. The words “advanced instruction and technical education” are substituted for the words “training in the practical and theoretical duties of commissioned naval officers”.
 
 #### Amendments
 

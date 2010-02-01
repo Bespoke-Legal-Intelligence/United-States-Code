@@ -58,7 +58,7 @@ For purposes of this section, the term “eligible deferred compensation plan”
 
 #### (c) Limitation
 
-The maximum amount of the compensation of any one individual which may be deferred under subsection (a) during any taxable year shall notexceed the amount in effect under subsection (b)(2)(A) (as modified by any adjustment provided under subsection (b)(3)).
+The maximum amount of the compensation of any one individual which may be deferred under subsection (a) during any taxable year shall not exceed the amount in effect under subsection (b)(2)(A) (as modified by any adjustment provided under subsection (b)(3)).
 
 #### (d) Distribution requirements
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### (10) Transfers between plans
 
-&emsp;A participant shall not be required to include in gross income any portion of the entireamount payable to such participant solely by reason of the transfer of such portion from 1 eligible deferred compensation plan to another eligible deferred compensation plan.
+&emsp;A participant shall not be required to include in gross income any portion of the entire amount payable to such participant solely by reason of the transfer of such portion from 1 eligible deferred compensation plan to another eligible deferred compensation plan.
 
 #### (11) Certain plans excluded
 
@@ -360,7 +360,7 @@ $15,000.
 
 #### (i) Limitation
 
-&emsp;&emsp;&emsp;Paragraph (2)(F) shall only apply to the portion of the plan described in subparagraph (A) for years preceding the year inwhich such portion is paid or otherwise made available to the participant.
+&emsp;&emsp;&emsp;Paragraph (2)(F) shall only apply to the portion of the plan described in subparagraph (A) for years preceding the year in which such portion is paid or otherwise made available to the participant.
 
 #### (ii) Treatment
 
@@ -372,7 +372,7 @@ $15,000.
 
 &emsp;&emsp;&emsp;(i) a local educational agency (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801),<sup>1</sup> or
 
-&emsp;&emsp;&emsp;(ii) an education association which principally represents employees of 1 or more agencies described in clause (i) and which is described in section 501(c)(5) or (6) and exempt from taxation under section 501(a).
+&emsp;&emsp;&emsp;(ii) an education association which principally represents employees of 1 or moreagencies described in clause (i) and which is described in section 501(c)(5) or (6) and exempt from taxation under section 501(a).
 
 #### (D) Employment retention plan
 
@@ -530,7 +530,7 @@ Subsec. (e)(12). Pub. L. 100–647, §6064(b)(1), added par. (12).
 
 Subsec. (e)(13). Pub. L. 100–647, §6064(c), added par. (13).
 
-1986—Pub. L. 99–514 amended section generally, substituting “Deferred compensation plans of State and local governments and tax-exempt organizations” for “Deferred compensation plans with respect to servicefor State and local governments” as section catchline and revising and restating as subsecs. (a) to (c), (e), and (f) provisions formerly contained in subsecs. (a) to (e) and adding provisions comprising subsec. (d).
+1986—Pub. L. 99–514 amended section generally, substituting “Deferred compensation plans of State and local governments and tax-exempt organizations” for “Deferred compensation plans with respect to service for State and local governments” as section catchline and revising and restating as subsecs. (a) to (c), (e), and (f) provisions formerly contained in subsecs. (a) to (e) and adding provisions comprising subsec. (d).
 
 1984—Subsec. (e)(2). Pub. L. 98–369, §491(d)(33), struck out subpar. (C) which provided that par. (1) of this subsection not apply to a qualified bond purchase plan described in section 405(a), and redesignated subpars. (D) and (E) as (C) and (D), respectively.
 
@@ -542,7 +542,7 @@ Amendment by Pub. L. 110–245 applicable with respect to deaths and disabilitie
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 829(a)(4) of Pub. L. 109–280 applicable to distributions after Dec. 31, 2006, see section 829(b) of Pub. L. 109–280, set out as a note under section 402 of this title.
+Amendment by section 829(a)(4) of Pub. L. 109–280 applicable to distributions after Dec. 31, 2006, see section829(b) of Pub. L. 109–280, set out as a note under section 402 of this title.
 
 Amendment by section 845(b)(3) of Pub. L. 109–280 applicable to distributions in taxable years beginning after Dec. 31, 2006, see section 845(c) of Pub. L. 109–280, set out as a note under section 402 of this title.
 

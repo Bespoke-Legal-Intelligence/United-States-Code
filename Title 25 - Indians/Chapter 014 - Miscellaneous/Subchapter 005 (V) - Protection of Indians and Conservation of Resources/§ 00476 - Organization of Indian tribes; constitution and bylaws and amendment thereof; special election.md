@@ -44,7 +44,7 @@ Departments or agencies of the United States shall not promulgate any regulation
 
 #### (g) Privileges and immunities of Indian tribes; existing regulations
 
-Any regulation or administrative decision or determination of a department or agency of the United States that is in existence or effect on May 31, 1994, and that classifies, enhances, or diminishes the privileges and immunities available to a federally recognized Indian tribe relative to the privileges and immunities available to other federally recognized tribes by virtue of their status as Indian tribes shall have no force or effect.
+Any regulation or administrative decision or determination of a department or agency of the United States that is in existence or effect on May 31, 1994, and that classifies, enhances, or diminishes the privileges and immunities available to a federally recognized Indian tribe relative to the privileges and immunities available to other federally recognized tribes by virtue oftheir status as Indian tribes shall have no force or effect.
 
 #### (h) Tribal sovereignty
 

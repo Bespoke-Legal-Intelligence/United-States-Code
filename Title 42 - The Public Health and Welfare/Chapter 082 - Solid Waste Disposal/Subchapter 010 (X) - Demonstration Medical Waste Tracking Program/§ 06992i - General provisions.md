@@ -14,7 +14,7 @@ In the case of the regulations required by this subchapter to be promulgated wit
 
 Nothing in this subchapter shall affect the authority of the Administrator to regulate medical waste, including medical waste listed under section 6992a of this title, under subchapter III of this chapter.
 
-(Pub. L. 89–272, title II, §11009, formerly §11010, as added Pub. L. 100–582, §2(a), Nov. 1, 1988, 102 Stat. 2957; renumbered §11009, Pub. L. 105–362,title V, §501(h)(1)(B), Nov. 10, 1998, 112 Stat. 3284.)
+(Pub. L. 89–272, title II, §11009, formerly §11010, as added Pub. L. 100–582, §2(a), Nov. 1, 1988, 102 Stat. 2957; renumbered §11009, Pub. L. 105–362, title V, §501(h)(1)(B), Nov. 10, 1998, 112 Stat. 3284.)
 
 #### References in Text
 

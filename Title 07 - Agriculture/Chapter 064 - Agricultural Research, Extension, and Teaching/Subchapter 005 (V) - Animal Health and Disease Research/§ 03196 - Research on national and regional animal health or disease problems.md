@@ -12,7 +12,7 @@ Notwithstanding the provisions of section 3197 of this title, funds appropriated
 
 In order to establish a rational allocation of funds appropriated under this section, the Secretary shall establish annually priority lists of animal health and disease, food safety, and animal well-being problems of national or regional significance. Such lists shall be prepared after consultation with the Advisory Board. Any recommendations made in connection with such consultation shall not be controlling on the Secretary's determination of priorities. In establishing such priorities, the Secretary and the Advisory Board shall consider the following factors:
 
-&emsp;(1) any health or disease problem which causes or may cause significant economiclosses to any part of the livestock production industry;
+&emsp;(1) any health or disease problem which causes or may cause significant economic losses to any part of the livestock production industry;
 
 &emsp;(2) any food safety problem that has a significant pre-harvest (on-farm) component and is recognized as posing a significant health hazard to the consuming public;
 
@@ -34,7 +34,7 @@ In the case of multiyear grants, the Secretary shall distribute funds to grant r
 
 The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of this Act \[7 U.S.C. 2281 et seq.\] shall not apply to a panel or board created solely for the purpose of reviewing applications or proposals submitted under this subchapter.
 
-(Pub. L. 95–113, title XIV, §1434, Sept. 29, 1977, 91 Stat. 1004; Pub. L. 97–98, title XIV, §1430, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, §1414(c), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, §1601(b)(2), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §§812, 852(b)(5), Apr. 4, 1996, 110 Stat. 1165, 1171; Pub. L. 105–185, title III, §301(a)(8), title VI, §606(d)(3), June 23, 1998, 112 Stat. 562, 604; Pub. L. 107–171, title VII, §7108, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §§7119, 7120, May 22, 2008, 122 Stat. 1222; Pub. L. 110–246, §4(a), title VII, §§7119, 7120, June 18, 2008, 122 Stat. 1664, 1983.)
+(Pub. L. 95–113, title XIV, §1434, Sept. 29, 1977, 91 Stat. 1004; Pub. L. 97–98, title XIV, §1430, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, §1414(c), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, §1601(b)(2), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §§812, 852(b)(5), Apr. 4, 1996, 110 Stat. 1165, 1171; Pub. L. 105–185, title III, §301(a)(8), title VI, §606(d)(3),June 23, 1998, 112 Stat. 562, 604; Pub. L. 107–171, title VII, §7108, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §§7119, 7120, May 22, 2008, 122 Stat. 1222; Pub. L. 110–246, §4(a), title VII, §§7119, 7120, June 18, 2008, 122 Stat. 1664, 1983.)
 
 #### References in Text
 

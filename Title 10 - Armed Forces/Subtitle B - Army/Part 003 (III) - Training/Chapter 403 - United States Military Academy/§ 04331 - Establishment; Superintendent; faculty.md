@@ -158,7 +158,7 @@ Service Academies.—For purposes of this section, the term ‘service academy�
 
 #### Sexual Harassment and Violence at the Military Service Academies
 
-Pub. L. 108–375, div. A, title V, §576, Oct. 28, 2004, 118 Stat. 1924, provided that:
+Pub. L. 108–375, div. A, title V, §576, Oct. 28, 2004, 118 Stat. 1924, as amended by Pub. L. 111–84, div. A, title V, §566, Oct. 28, 2009, 123 Stat. 2313, provided that:
 
 “(a)
 
@@ -210,7 +210,7 @@ Methodology.—In carrying out its examination under subsection (b) and in formu
 
 “(e)
 
-Report.—(1) Not later than one year after the initiation of its examination under subsection (b), the task force shall submit to the Secretary of Defense and the Secretaries of the Army, Navy, and Air Force a report on the activities of the task force and on the activities of the Department of Defense and the Armed Forces to respond to sexual assault.
+Report.—(1) Not later than December 1, 2009, the task force shall submit to the Secretary of Defense and the Secretaries of the Army, Navy, and Air Force a report on the activities of the task force and on the activities of the Department of Defense and the Armed Forces to respond to sexual assault.
 
 “(2) The report shall include the following:
 
@@ -236,7 +236,7 @@ Establishment.—The Secretary of Defense shall establish a Department of Defens
 
 “(b)
 
-Recommendations.—Not later than 12 months after the date on which all members of the task force have been appointed, the task force shall submit to the Secretary of Defense a report recommending ways by which the Department of Defense and the Department of the Army and the Department of the Navy may more effectively address matters relating to sexual harassment and violence at the United States Military Academy and the United States Naval Academy, respectively. The report shall include an assessment of, and recommendations (including any recommended changes in law) for measures to improve, with respect to sexual harassment and violence at those academies, the following:
+Recommendations.—Not later than 12 months after the date on which all members of the task force have been appointed, the task force shall submit to the Secretary of Defense a report recommending ways by which the Department of Defense and the Department of the Army and the Department of the Navy may more effectively address matters relating to sexual harassment and violence at the United States Military Academy and the United States Naval Academy, respectively. The report shall include an assessment of, and recommendations (including any recommended changes in law) for measures to improve, with respect to sexualharassment and violence at those academies, the following:
 
 &emsp;“(1) Victims’ safety programs.
 
@@ -252,7 +252,7 @@ Recommendations.—Not later than 12 months after the date on which all members 
 
 &emsp;“(7) Data collection and case management and tracking.
 
-&emsp;“(8) Curricula and training, including standard training programs for cadets at the United StatesMilitary Academy and midshipmen at the United States Naval Academy and for permanent personnel assigned to those academies.
+&emsp;“(8) Curricula and training, including standard training programs for cadets at the United States Military Academy and midshipmen at the United States Naval Academy and for permanent personnel assigned to those academies.
 
 &emsp;“(9) Responses to sexual harassment and violence at those academies, including standard guidelines.
 

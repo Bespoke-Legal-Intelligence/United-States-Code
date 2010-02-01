@@ -10,7 +10,7 @@ Eligible Members.—The following members are eligible to receive a cost-of-livi
 
 &emsp;(1) A member assigned to a high cost area in the continental United States.
 
-&emsp;(2) A member assigned to an unaccompanied tour of duty outside the continental United States if the primary dependent of the member resides in a high cost area in the continental United States.
+&emsp;(2) A member assigned to an unaccompanied tour of duty outside the continental UnitedStates if the primary dependent of the member resides in a high cost area in the continental United States.
 
 &emsp;(3) A member assigned to duty in the continental United States if the Secretary of the uniformed service concerned determines that—
 

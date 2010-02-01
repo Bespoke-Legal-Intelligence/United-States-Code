@@ -6,7 +6,7 @@
 
 &emsp;(2) in the case of an individual who becomes entitled to such assistance under section 3011(a)(1)(B), on the later of the date of such individual's last discharge or release from active duty or January 1, 1990; and
 
-&emsp;(3) in the case of an individual who becomes entitled to such assistance under section3011(a)(1)(C) or 3012(a)(1)(C) of this title, on December 27, 2001.
+&emsp;(3) in the case of an individual who becomes entitled to such assistance under section 3011(a)(1)(C) or 3012(a)(1)(C) of this title, on December 27, 2001.
 
 (b) In the case of any eligible individual who has been prevented, as determined by the Secretary, from pursuing a program of education under this chapter within the 10-year period prescribed by subsection (a) of this section because such individual had not met the nature of discharge requirement of this chapter before the nature of such individual's discharge or release was changed by appropriate authority, such 10-year period shall not run during the period of time that such individual was so prevented from pursuing such program of education.
 
@@ -26,7 +26,7 @@
 
 (f)(1) If an individual eligible for educational assistance under this chapter is enrolled under this chapter in an educational institution regularly operated on the quarter or semester system and the period of such individual's entitlement under this chapter would, under section 3013, expire during a quarter or semester, such period shall be extended to the end of such quarter or semester.
 
-(2) If an individual eligible for educational assistance under this chapter is enrolled under this chapter in an educational institution not regularly operated on the quarter or semester system and the period of such individual's entitlement under this chapter would, under section 3013, expire after a major portion of the course is completed, such period shall be extended to the end of the course or for 12 weeks, whichever is the lesser period of extension.
+(2) If an individual eligible for educational assistance under this chapter is enrolled under this chapter in an educational institution not regularly operated on the quarter or semester system and the period of such individual's entitlement under this chapter would, under section3013, expire after a major portion of the course is completed, such period shall be extended to the end of the course or for 12 weeks, whichever is the lesser period of extension.
 
 (g) In the case of an individual described in section 3011(f)(3) of this title, the period during which that individual may use the individual's entitlement to educational assistance allowance expires on the last day of the 10-year period beginning on the date of the enactment of the Veterans Millennium Health Care and Benefits Act if that date is later than the date that would otherwise be applicable to that individual under this section.
 
@@ -46,7 +46,7 @@ The date of the enactment of the Veterans Millennium Health Care and Benefits Ac
 
 Subsec. (e)(1). Pub. L. 107–103, §105(c)(2), substituted “section 3011(a)(1)(B), 3011(a)(1)(C), 3012(a)(1)(B), or 3012(a)(1)(C)” for “section 3011(a)(1)(B) or 3012(a)(1)(B)”.
 
-1999—Subsec. (a). Pub. L. 106–117, §702(b)(2), in introductory provisions, substituted “through (g)” for“through (e)” and “subsection (h)” for “subsection (g)”.
+1999—Subsec. (a). Pub. L. 106–117, §702(b)(2), in introductory provisions, substituted “through (g)” for “through (e)” and “subsection (h)” for “subsection (g)”.
 
 Subsecs. (g), (h). Pub. L. 106–117, §702(b)(1), (3), added subsec. (g) and redesignated former subsec. (g) as (h).
 
@@ -104,7 +104,7 @@ Pub. L. 106–419, title I, §102(e), Nov. 1, 2000, 114 Stat. 1825, provided tha
 
 “(2) An individual referred to in paragraph (1) is an individual who—
 
-&emsp;“(A) before the date of the enactment of this Act, was not eligible for such basic educational assistance by reason of the requirement of a secondary school diploma (or equivalency certificate) as a condition of eligibility for such assistance as in effect on the date preceding the date of the enactment of this Act; and
+&emsp;“(A) before the date of the enactment of this Act, was not eligible for such basic educational assistance by reason of the requirement of a secondary schooldiploma (or equivalency certificate) as a condition of eligibility for such assistance as in effect on the date preceding the date of the enactment of this Act; and
 
 &emsp;“(B) becomes entitled to basic educational assistance under section 3011(a)(2), 3012(a)(2), or 3018(b)(4) of title 38, United States Code, by reason of the amendments made by this section \[amending sections 3011, 3012, 3017, and 3018 of this title and section 16132 of Title 10, Armed Forces\].”
 

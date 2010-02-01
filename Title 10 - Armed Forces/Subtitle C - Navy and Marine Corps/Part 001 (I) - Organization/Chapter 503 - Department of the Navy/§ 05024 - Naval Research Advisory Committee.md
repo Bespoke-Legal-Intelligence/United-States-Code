@@ -24,7 +24,7 @@ Aug. 1, 1946, ch. 727, §4, 60 Stat. 779; Sept. 3, 1954, ch. 1263, §12, 68 Stat
 
 In subsection (c) the words “in the amount” are omitted as unnecessary.
 
-In subsection (d) references to sections of title 18 and to R.S. 190 are omitted as unnecessary and the words “No law” are substituted for the words “Nothing \* \* \* in any other provision of Federal law”.
+In subsection (d) references to sections of title 18 and to R.S. 190 are omitted as unnecessary and the words “No law” are substituted for the words “Nothing in any other provision of Federal law”.
 
 #### Amendments
 

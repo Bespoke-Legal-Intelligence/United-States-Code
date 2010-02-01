@@ -68,7 +68,7 @@
 
 #### (b) Cuba; preferential customs treatment; decrease of rates
 
-Nothing in this section or the Trade Expansion Act of 1962 \[19 U.S.C. 1801 et seq.\] shall be construed to prevent the application, with respect to rates of duty established under this section or the Trade Expansion Act of 1962 pursuant to agreements with countries other than Cuba, of the provisions of the treaty of commercial reciprocity concluded between the United States and the Republic of Cuba on December 11, 1902, or to preclude giving effect to an agreement with Cuba concluded under this section or the Trade Expansion Act of 1962, modifying the existing preferential customs treatment of any article the growth, produce, or manufacture of Cuba. Nothing in this chapter or the Trade Expansion Act of 1962 shall be construed to preclude the application to any product of Cuba (including products preferentially free of duty) of a rate of duty not higher than the rate applicable to the like products of other foreign countries\(except the Philippines), whether or not the application of such rate involves any preferential customs treatment. No rate of duty on products of Cuba shall be decreased—
+Nothing in this section or the Trade Expansion Act of 1962 \[19 U.S.C. 1801 et seq.\] shall be construed to prevent the application, with respect to rates of duty established under this section or the Trade Expansion Act of 1962 pursuant to agreements with countries other than Cuba, of the provisions of the treaty of commercial reciprocity concluded between the United States and the Republic of Cuba on December 11, 1902, or to preclude giving effect to an agreement with Cuba concluded under this section or the Trade Expansion Act of 1962, modifying the existing preferential customs treatment of any article the growth, produce, or manufacture of Cuba. Nothing in this chapter or the Trade Expansion Act of 1962 shall be construed to preclude the application to any product of Cuba (including products preferentially free of duty) of a rate of duty not higher than the rate applicable to the like products of other foreign countries (except the Philippines), whether or not the application of such rate involves any preferential customs treatment. No rate of duty on products of Cuba shall be decreased—
 
 &emsp;(1) In order to carry out a foreign trade agreement entered into by the President before June 12, 1955, by more than 50 per centum of the rate of duty existing on January 1, 1945, with respect to products of Cuba.
 
@@ -116,7 +116,7 @@ Section 1362 of this title, referred to in subsec. (c)(2)(A), related to suspens
 
 1979—Subsec. (a)(2)(D)(ii). Pub. L. 96–39 struck out reference to standards of valuation contained in section 1402 of this title.
 
-1962—Subsec. (a)(5). Pub. L. 87–794, §257(b), repealed par. (5) which provided that, subject to the provisions of section 1362 of this title, duties and other import restrictions proclaimed pursuant to this section shall apply to all articles the growth, produce, or manufacture of all foreign countries, whether imported directly or indirectly, and required the President to suspend the application to articles the growth, produce, or manufacture of any country because of its discriminatory treatment of American commerce or because of other acts (including the operations of international cartels)or policies which in his opinion tend to defeat the purposes of this section.
+1962—Subsec. (a)(5). Pub. L. 87–794, §257(b), repealed par. (5) which provided that, subject to the provisions of section 1362 of this title, duties and other import restrictions proclaimed pursuant to this section shall apply to all articles the growth, produce, or manufacture of all foreign countries, whether imported directly or indirectly, and required the President to suspend the application to articles the growth, produce, or manufacture of any country because of its discriminatory treatment of American commerce or because of other acts (including the operations of international cartels) or policies which in his opinion tend to defeat the purposes of this section.
 
 Subsec. (b). Pub. L. 87–794, §257(a), inserted references to the Trade Expansion Act of 1962 in first and second sentences, substituted “1955, and before July 1, 1962” for “1955” in par. (2), and added par. (3).
 
@@ -192,7 +192,7 @@ Section 401 of Pub. L. 87–456, title IV, May 24, 1962, 76 Stat. 78, provided t
 
 #### Administration of Trade Agreements Program
 
-For provisions relating to the administration of the trade agreements program, see Ex. Ord. No. 11846, Mar. 27, 1975, 40 F.R. 14291, set out as a note under section 2111 of this title.
+For provisions relating to the administration of the trade agreements program, see Ex. Ord. No. 11846, Mar.27, 1975, 40 F.R. 14291, set out as a note under section 2111 of this title.
 
 #### Congressional Approval or Disapproval of General Agreement on Tariffs and Trade
 
@@ -200,7 +200,7 @@ Section 10 of Pub. L. 85–686 provided that: “The enactment of this Act \[ena
 
 #### Reduction of Protection Resulting From 1956 Amendments
 
-Section 2(e) of act Aug. 2, 1956, ch. 887, 70 Stat. 946, provided that: “In any action relating to tariff adjustments by executive action, including action taken pursuant to section 350 of the Tariff Act of 1930, as amended \[this section\] the United States Tariff Commission \[now United States International Trade Commission\]and each officer of the executive branch of the Government concerned shall give full consideration to any reduction in the level of tariff protection which has resulted or is likely to result from the amendment of section 402 of the Tariff Act of 1930 made by this Act \[sections 1401a and 1402 of this title\].”
+Section 2(e) of act Aug. 2, 1956, ch. 887, 70 Stat. 946, provided that: “In any action relating to tariff adjustments by executive action, including action taken pursuant to section 350 of the Tariff Act of 1930, as amended \[this section\] the United States Tariff Commission \[now United States International Trade Commission\] and each officer of the executive branch of the Government concerned shall give full consideration to any reduction in the level of tariff protection which has resulted or is likely to result from the amendment of section 402 of the Tariff Act of 1930 made by this Act \[sections 1401a and 1402 of this title\].”
 
 Section 2(e) of act Aug. 2, 1956, effective only as to articles entered, or withdrawn from warehouse, for consumption on or after thirtieth day following publication of the final list provided for in section 6(a) of said act Aug. 2, 1956, set out in note under section 1402 of this title, see note set out under section 1401a of this title.
 

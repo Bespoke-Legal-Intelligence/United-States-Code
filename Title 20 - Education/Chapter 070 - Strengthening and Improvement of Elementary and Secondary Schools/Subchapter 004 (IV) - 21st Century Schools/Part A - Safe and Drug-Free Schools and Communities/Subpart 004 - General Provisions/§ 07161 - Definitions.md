@@ -32,7 +32,7 @@ In this part:
 
 #### (7) Risk factor
 
-&emsp;The term “risk factor” means any one of a number of characteristics of the community,school, family, or peer-individual domains that are known, through prospective, longitudinal research efforts, to be predictive of alcohol, tobacco, and illegal drug use, as well as violent behavior, by youth in the school and community.
+&emsp;The term “risk factor” means any one of a number of characteristics of the community, school, family, or peer-individual domains that are known, through prospective, longitudinal research efforts, to be predictive of alcohol, tobacco, and illegal drug use, as well as violent behavior, by youth in the school and community.
 
 #### (8) School-aged population
 

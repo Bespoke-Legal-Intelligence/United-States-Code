@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-No State or any political subdivision thereof shall adopt or attempt to enforce any standard relating to the control of emissions from new motor vehicles or new motor vehicle engines subject to this part. No State shall require certification, inspection, or any other approval relating to the control of emissions from any new motor vehicle or new motor vehicle engine as condition precedent to the initial retail sale, titling (if any), or registration of such motor vehicle, motor vehicle engine, or equipment.
+No State or any political subdivision thereof shall adopt or attempt to enforce any standardrelating to the control of emissions from new motor vehicles or new motor vehicle engines subject to this part. No State shall require certification, inspection, or any other approval relating to the control of emissions from any new motor vehicle or new motor vehicle engine as condition precedent to the initial retail sale, titling (if any), or registration of such motor vehicle, motor vehicle engine, or equipment.
 
 #### (b) Waiver
 
@@ -30,7 +30,7 @@ Nothing in this part shall preclude or deny to any State or political subdivisio
 
 #### (1) Prohibition on certain State standards
 
-&emsp;No State or any political subdivision thereof shall adopt or attempt to enforce any standard or other requirement relating to the control ofemissions from either of the following new nonroad engines or nonroad vehicles subject to regulation under this chapter—
+&emsp;No State or any political subdivision thereof shall adopt or attempt to enforce any standard or other requirement relating to the control of emissions from either of the following new nonroad engines or nonroad vehicles subject to regulation under this chapter—
 
 &emsp;&emsp;(A) New engines which are used in construction equipment or vehicles or used in farm equipment or vehicles and which are smaller than 175 horsepower.
 
@@ -64,7 +64,7 @@ Section was formerly classified to section 1857f–6a of this title.
 
 #### Prior Provisions
 
-A prior section 209 of act July 14, 1955, as added Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 502, was renumbered section 210 by Pub. L. 91–604 and is classified to section 7544 of this title.
+A prior section 209 of act July 14, 1955, as added Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 502, was renumberedsection 210 by Pub. L. 91–604 and is classified to section 7544 of this title.
 
 Another prior section 209 of act July 14, 1955, ch. 360, title II, as added Oct. 20, 1965, Pub. L. 89–272, title I, §101(8), 79 Stat. 995, related to appropriations for the fiscal years ending June 30, 1966, 1967, 1968, and 1969, and was classified to section 1857f–8 of this title, prior to repeal by Pub. L. 89–675, §2(b), Oct. 15, 1966, 80 Stat. 954.
 

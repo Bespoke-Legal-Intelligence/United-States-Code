@@ -26,7 +26,7 @@ Subsec. (e). Pub. L. 103–465, §441(2)(B), struck out subsec. (e) which read a
 
 &emsp;“(1) to alfalfa or clover seed originating in Canada or Mexico, or
 
-&emsp;“(2) when seeds otherwise required to be stained will not be sold within the United States and will be used for seed production only by or for the importer or consignee and the importer of record or consignee files a statement in accordance with the rules and regulations prescribed under section 1592 of this titlecertifying that such seeds will be used only for seed production by or for the importer or consignee.”
+&emsp;“(2) when seeds otherwise required to be stained will not be sold within the United States and will beused for seed production only by or for the importer or consignee and the importer of record or consignee files a statement in accordance with the rules and regulations prescribed under section 1592 of this title certifying that such seeds will be used only for seed production by or for the importer or consignee.”
 
 1993—Subsec. (e)(1). Pub. L. 103–182 inserted “or Mexico” after “Canada”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Maintenance, operation, and development
 
-The Secretary is authorized to cooperate with the city of Providence, local historical and preservation societies, and interested persons in the maintenance and operation of the Roger Williams National Memorial, and he may seek theassistance of and consult with such city, societies, and persons from time to time with respect to matters concerning the development and operation of the memorial.
+The Secretary is authorized to cooperate with the city of Providence, local historical and preservation societies, and interested persons in the maintenance and operation of the Roger Williams National Memorial, and he may seek the assistance of and consult with such city, societies, and persons from time to time with respect to matters concerning the development and operation of the memorial.
 
 #### (b) Acceptance of gifts
 

@@ -24,7 +24,7 @@ R.S. 1098.
 
 10:498 (less 1st 20 words).
 
-In subsection (a), the words “commissioned officers \* \* \* in any grade below major” are substituted for the words “captains or lieutenants”.
+In subsection (a), the words “commissioned officers in any grade below major” are substituted for the words “captains or lieutenants”.
 
 In subsections (a) and (b), the words “is entitled to” are substituted for the words “shall have”.
 

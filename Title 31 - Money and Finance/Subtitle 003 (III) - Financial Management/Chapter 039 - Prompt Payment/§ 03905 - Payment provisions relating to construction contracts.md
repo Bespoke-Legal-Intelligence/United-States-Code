@@ -4,7 +4,7 @@
 
 &emsp;(1) notify the agency of such performance deficiency; and
 
-&emsp;(2) be obligated to pay the Government an amount equal to interest on the unearned amount (computed in the manner provided in section 3903(c) of this title), from the date of the contractor's receipt of such unearned amount until—
+&emsp;(2) be obligated to pay the Government an amount equal to interest on the unearned amount (computed in the manner provided insection 3903(c) of this title), from the date of the contractor's receipt of such unearned amount until—
 
 &emsp;&emsp;(A) the date the contractor notifies the agency that the performance deficiency has been corrected; or
 

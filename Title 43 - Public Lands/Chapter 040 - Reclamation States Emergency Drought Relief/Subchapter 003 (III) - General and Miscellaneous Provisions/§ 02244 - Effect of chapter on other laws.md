@@ -6,7 +6,7 @@ All actions taken pursuant to this chapter pertaining to the diversion, storage,
 
 #### (b) Effect on jurisdiction, authority, and water rights
 
-Nothing in this chapter shall be construed as expanding or diminishing State, Federal, ortribal jurisdiction or authority over water resources development, control, or water rights.
+Nothing in this chapter shall be construed as expanding or diminishing State, Federal, or tribal jurisdiction or authority over water resources development, control, or water rights.
 
 (Pub. L. 102–250, title III, §304, Mar. 5, 1992, 106 Stat. 59.)
 

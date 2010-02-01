@@ -2,7 +2,7 @@
 
 #### (a) Annual report
 
-The State shall—
+Subject to subsection (e), the State shall—
 
 &emsp;(1) assess the operation of the State plan under this subchapter in each fiscal year, including the progress made in reducing the number of uncovered low-income children; and
 
@@ -64,7 +64,7 @@ The State shall—
 
 &emsp;&emsp;(A) Surveys of the target population (enrollees, disenrollees, and individuals eligible for but not enrolled in the program under this subchapter).
 
-&emsp;&emsp;(B) Evaluation of effective and ineffective outreach and enrollment practices with respect to children (for both the program under this subchapter and the medicaid program under subchapter XIX of this chapter), and identification of enrollment barriers and key elements of effective outreach and enrollment practices, including practices that have successfully enrolled hard-to-reach populations such as children who are eligible for medical assistance under subchapter XIX of this chapter but have not been enrolled previously in the medicaid program under that subchapter.
+&emsp;&emsp;(B) Evaluation of effective and ineffective outreach and enrollment practices with respect to children (for both the program under this subchapter and the medicaid program under subchapter XIX of this chapter), and identification of enrollment barriers and key elements of effective outreach and enrollment practices, including practices (such as through community health workers and others) that have successfully enrolled hard-to-reach populations such as children who are eligible for medical assistance under subchapter XIX of this chapter but have not been enrolled previously in the medicaid program under that subchapter.
 
 &emsp;&emsp;(C) Evaluation of the extent to which State medicaid eligibility practices and procedures under the medicaid program under subchapter XIX of this chapter are a barrier to the enrollment of children under that program, and the extent to which coordination (or lack of coordination) between that program and the program under this subchapter affects the enrollment of children under both programs.
 
@@ -76,31 +76,99 @@ The State shall—
 
 &emsp;Not later than December 31, 2001, the Secretary shall submit to Congress the results of the evaluation conducted under this subsection.
 
-#### (5) Funding
+#### (5) Subsequent evaluation using updated information
 
-&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $10,000,000 for fiscal year 2000 for the purpose of conducting the evaluation authorized under this subsection. Amounts appropriated under this paragraph shall remain available for expenditure through fiscal year 2002.
+#### (A) In general
 
-#### (d) Inspector General audit and GAO report
+&emsp;&emsp;The Secretary, directly or through contracts or interagency agreements, shall conduct an independent subsequent evaluation of 10 States with approved child health plans.
 
-#### (1) Audit
+#### (B) Selection of States and matters included
 
-&emsp;Beginning with fiscal year 2000, and every third fiscal year thereafter, the Secretary, through the Inspector General of the Department of Health and Human Services, shallaudit a sample from among the States described in paragraph (2) in order to—
+&emsp;&emsp;Paragraphs (2) and (3) shall apply to such subsequent evaluation in the same manner as such provisions apply to the evaluation conducted under paragraph (1).
 
-&emsp;&emsp;(A) determine the number, if any, of enrollees under the plan under this subchapter who are eligible for medical assistance under subchapter XIX of this chapter (other than as optional targeted low-income children under section 1396a(a)(10)(A)(ii)(XIV) of this title); and
+#### (C) Submission to Congress
 
-&emsp;&emsp;(B) assess the progress made in reducing the number of uncovered low-income children, including the progress made to achieve the strategic objectives and performance goals included in the State child health plan under section 1397gg(a) of this title.
+&emsp;&emsp;Not later than December 31, 2011, the Secretary shall submit to Congress the results of the evaluation conducted under this paragraph.
 
-#### (2) State described
+#### (D) Funding
 
-&emsp;A State described in this paragraph is a State with an approved State child health plan under this subchapter that does not, as part of such plan, provide health benefits coverage under the State's medicaid program under subchapter XIX of this chapter.
+&emsp;&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $10,000,000 for fiscal year 2010 for the purpose of conducting the evaluation authorized under this paragraph. Amounts appropriated under this subparagraph shall remain available for expenditure through fiscal year 2012.
 
-#### (3) Monitoring and report from GAO
+#### (d) Access to records for IG and GAO audits and evaluations
 
-&emsp;The Comptroller General of the United States shall monitor the audits conducted under this subsection and, not later than March 1 of each fiscal year after a fiscal year in which an audit is conducted under this subsection, shall submit a report to Congress on the results of the audit conducted during the prior fiscal year.
+For the purpose of evaluating and auditing the program established under this subchapter, or subchapter XIX, the Secretary, the Office of Inspector General, and the Comptroller General shall have access to any books, accounts, records, correspondence, and other documents that are related to the expenditure of Federal funds under this subchapter and that are in the possession, custody, or control of States receiving Federal funds under this subchapter or political subdivisions thereof, or any grantee or contractor of such States or political subdivisions.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2108, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 566; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(b), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–401.)
+#### (e) <sup>1</sup> Information required for inclusion in State annual report
+
+The State shall include the following information in the annual report required under subsection (a):
+
+&emsp;(1) Eligibility criteria, enrollment, and retention data (including data with respect to continuity of coverage or duration of benefits).
+
+&emsp;(2) Data regarding the extent to which the State uses process measures with respect to determining the eligibility of children under the State child health plan, including measures such as 12-month continuous eligibility, self-declaration of income for applications or renewals, or presumptive eligibility.
+
+&emsp;(3) Data regarding denials of eligibility and redeterminations of eligibility.
+
+&emsp;(4) Data regarding access to primary and specialty services, access to networks of care, and care coordination provided under the State child health plan, using quality care and consumer satisfaction measures included in the Consumer Assessment of Healthcare Providers and Systems (CAHPS) survey.
+
+&emsp;(5) If the State provides child health assistance in the form of premium assistance for the purchase of coverage under a group health plan, data regarding the provision of such assistance, including the extent to which employer-sponsored health insurance coverage is available for children eligible for child health assistance under the State child health plan, the range of the monthly amount of such assistance provided on behalf of a child or family, the number of children or families provided such assistance on a monthly basis, the income of the children or families provided such assistance, the benefits and cost-sharing protection provided under the State child health plan to supplement the coverage purchased with such premium assistance, the effective strategies the State engages in to reduce any administrative barriers to the provision of such assistance, and,<sup>2</sup> the effects, if any, of the provision of such assistance on preventing the coverage provided under the State child health plan from substituting for coverage provided under employer-sponsored health insurance offered in the State.
+
+&emsp;(6) To the extent applicable, a description of any State activities that are designed to reduce the number of uncovered children in the State, including through a State health insurance connector program or support for innovative private health coverage initiatives.
+
+#### (e) <sup>1</sup> Information on dental care for children
+
+#### (1) In general
+
+&emsp;Each annual report under subsection (a) shall include the following information with respect to care and services described in section 1396d(r)(3) of this title provided to targeted low-income children enrolled in the State child health plan under this subchapter at any time during the year involved:
+
+&emsp;&emsp;(A) The number of enrolled children by age grouping used for reporting purposes under section 1396a(a)(43) of this title.
+
+&emsp;&emsp;(B) For children within each such age grouping, information of the type contained in questions 12(a)–(c) of CMS Form 416 (that consists of the number of enrolled targeted low income children who receive any,<sup>2</sup> preventive, or restorative dental care under the State plan).
+
+&emsp;&emsp;(C) For the age grouping that includes children 8 years of age, the number of such children who have received a protective sealant on at least one permanent molar tooth.
+
+#### (2) Inclusion of information on enrollees in managed care plans
+
+&emsp;The information under paragraph (1) shall include information on children who are enrolled in managed care plans and other private health plans and contracts with such plans under this subchapter shall provide for the reporting of such information by such plans to the State.
+
+(Aug. 14, 1935, ch. 531, title XXI, §2108, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 566; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(b), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–401; Pub. L. 111–3, title II, §201(b)(2)(B)(ii), title IV, §402(a), title V, §501(e)(2), title VI, §§603, 604, Feb. 4, 2009, 123 Stat. 39, 82, 87, 99; Pub. L. 111–8, div. G, title I, §1301(e), Mar. 11, 2009, 123 Stat. 829.)
 
 #### Amendments
 
+2009—Subsec. (a). Pub. L. 111–3, §402(a)(1), substituted “Subject to subsection (e), the State” for “The State” in introductory provisions.
+
+Subsec. (c)(3)(B). Pub. L. 111–3, §201(b)(2)(B)(ii), inserted “(such as through community health workers and others)” after “including practices”.
+
+Subsec. (c)(5). Pub. L. 111–3, §603, added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $10,000,000 for fiscal year 2000 for the purpose of conducting the evaluation authorized under this subsection. Amounts appropriated under this paragraph shall remain available for expenditure through fiscal year 2002.”
+
+Subsec. (d). Pub. L. 111–8 struck out “and GAO report” after “Inspector General audit” in heading and struck out par. (3) which related to duty of Comptroller General to monitor Inspector General audits and report to Congress on audit results.
+
+Pub. L. 111–3, §604, amended subsec. (d) generally. Prior to amendment, subsec. related to Inspector General audits of certain States.
+
+Subsec. (e). Pub. L. 111–3, §501(e)(2), added subsec. (e) relating to information on dental care for children.
+
+Pub. L. 111–3, §402(a)(2), added subsec. (e) relating to information required for inclusion in State annual report.
+
 1999—Subsecs. (c), (d). Pub. L. 106–113 added subsecs. (c) and (d).
+
+#### Effective Date of 2009 Amendment
+
+Except as otherwise provided, amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of this title.
+
+Amendment by section 501(e)(2) of Pub. L. 111–3 effective for annual reports submitted for years beginning after Feb. 4, 2009, see section 501(e)(3) of Pub. L. 111–3, set out as a note under section 1396a of this title.
+
+#### Standardized Reporting Format
+
+Pub. L. 111–3, title IV, §402(b), Feb. 4, 2009, 123 Stat. 83, provided that:
+
+“(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act \[Feb. 4, 2009\], the Secretary \[of Health and Human Services\] shall specify a standardized format for States to use for reporting the information required under section 2108(e) of the Social Security Act \[subsec. (e) of this section\], as added by subsection (a)(2).
+
+“(2)
+
+Transition period for states.—Each State that is required to submit a report under subsection (a) of section 2108 of the Social Security Act \[subsec. (a) of this section\] that includes the information required under subsection (e) of such section may use up to 3 reporting periods to transition to the reporting of such information in accordance with the standardized format specified by the Secretary under paragraph (1).”
+
+<i><sup>1</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 

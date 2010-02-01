@@ -24,7 +24,7 @@ For the purposes described in subsection (b), the Secretary, acting through the 
 
 #### (1) In general
 
-&emsp;With respect to a grant under subsection (a) to an applicant for a fiscal year, the applicant shall, of the portion of the grant remaining after reserving amounts for purposes of paragraphs (3) and (5) of section 300ff–64(g) of this title, use not less than 75 percent to provide core medical services that are needed in the area involved for individuals with HIV/AIDS who are identified and eligible under this subchapter (including services regarding the co-occurring conditions of the individuals).
+&emsp;With respect to a grant under subsection (a) to an applicant for a fiscal year, the applicantshall, of the portion of the grant remaining after reserving amounts for purposes of paragraphs (3) and (5) of section 300ff–64(g) of this title, use not less than 75 percent to provide core medical services that are needed in the area involved for individuals with HIV/AIDS who are identified and eligible under this subchapter (including services regarding the co-occurring conditions of the individuals).
 
 #### (2) Waiver
 
@@ -96,7 +96,7 @@ Notification of waiver status.—When informing an applicant that a grant under 
 
 #### (2) Referrals
 
-&emsp;The services referred to in paragraph (1)(C) are referrals of individuals with HIV/AIDS toappropriate providers of health and support services, including, as appropriate—
+&emsp;The services referred to in paragraph (1)(C) are referrals of individuals with HIV/AIDS to appropriate providers of health and support services, including, as appropriate—
 
 &emsp;&emsp;(A) to entities receiving amounts under part A or B for the provision of such services;
 
@@ -116,17 +116,17 @@ Notification of waiver status.—When informing an applicant that a grant under 
 
 &emsp;&emsp;&emsp;(i) subparagraphs (A), (D), (E), and (F) of section 300ff–52(a)(1) of this title shall use not less than 50 percent of the amount of such a grant to provide the services described in subparagraphs (A), (B), (D), and (E) of paragraph (1) directly and on-site or at sites where other primary care services are rendered; and
 
-&emsp;&emsp;&emsp;(ii) subparagraphs (B) and (C) of section 300ff–52(a)(1) of this title shall ensure the availability of early intervention services through a system of linkages to community-based primary care providers, and to establish mechanisms for the referrals described in paragraph (1)(C), and for follow-up concerning such referrals.
+&emsp;&emsp;&emsp;(ii) subparagraphs (B) and (C) of section 300ff–52(a)(1) of this title shall ensure theavailability of early intervention services through a system of linkages to community-based primary care providers, and to establish mechanisms for the referrals described in paragraph (1)(C), and for follow-up concerning such referrals.
 
-(July 1, 1944, ch. 373, title XXVI, §2651, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 606; amended Pub. L. 101–557, title IV, §401(b)(2), Nov. 15, 1990, 104 Stat. 2771; Pub. L. 104–146, §§3(d)(1), 12(c)(7), May 20, 1996, 110 Stat. 1357, 1374; Pub. L. 109–415, title III, §301(a), Dec. 19, 2006, 120 Stat. 2803.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2651, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 606; amended Pub. L. 101–557, title IV, §401(b)(2), Nov. 15, 1990, 104 Stat. 2771; Pub. L. 104–146, §§3(d)(1), 12(c)(7), May 20, 1996, 110 Stat. 1357, 1374; Pub. L. 109–415, title III, §301(a), title VII, §703, Dec. 19, 2006, 120 Stat. 2803, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### Amendments
 
-2006—Pub. L. 109–415 amended section catchline and text generally, reenacting subsec. (a) without change and substituting subsecs. (b) to (e) for former subsecs. (b) and (c), which related to purposes of grants and participation in a consortium, respectively.
+2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+Pub. L. 109–415, §301(a), amended section catchline and text generally, reenacting subsec. (a) without change and substituting subsecs. (b) to (e) for former subsecs. (b) and (c), which related to purposes of grants and participation in a consortium, respectively.
 
 1996—Subsec. (b)(1). Pub. L. 104–146, §3(d)(1)(A), inserted before period “, and unless the applicant agrees to expend not less than 50 percent of the grant for such services that are specified in subparagraphs (B) through (E) of such paragraph for individuals with HIV disease”.
 
@@ -137,6 +137,10 @@ Subsec. (b)(4). Pub. L. 104–146, §3(d)(1)(B), designated existing provisions 
 Subsec. (c). Pub. L. 104–146, §12(c)(7)(B), substituted “exists” for “exist”.
 
 1990—Subsec. (a). Pub. L. 101–557 substituted “section 300ff–52(a)” for “section 300ff–52(a)(1)”.
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 1996 Amendment
 

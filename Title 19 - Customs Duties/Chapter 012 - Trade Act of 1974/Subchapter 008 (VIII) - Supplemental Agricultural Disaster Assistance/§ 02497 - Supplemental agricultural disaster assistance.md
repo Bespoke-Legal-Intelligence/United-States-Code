@@ -254,7 +254,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8714, 8754\] or successor sections or of any average crop revenue election payments made to the producer under section 1105 of that Act \[7 U.S.C. 8715\];
 
-&emsp;&emsp;&emsp;(iv) the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C of the Food, Conservation, and Energy Act of 2008 <sup>4</sup> or successor subtitles;
+&emsp;&emsp;&emsp;(iv) the total amount of any loan deficiency payments, marketing loan gains,and marketing certificate gains made to the producer under subtitles B and C of the Food, Conservation, and Energy Act of 2008 <sup>4</sup> or successor subtitles;
 
 &emsp;&emsp;&emsp;(v) the amount of payments for prevented planting on a farm;
 
@@ -344,7 +344,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “covered livestock” means livestock of an eligible livestock producer that, during the 60 days prior to the beginning date of a qualifying drought or fire condition, as determined by the Secretary, the eligible livestock producer—
+&emsp;&emsp;&emsp;The term “covered livestock” means livestock of an eligible livestock producerthat, during the 60 days prior to the beginning date of a qualifying drought or fire condition, as determined by the Secretary, the eligible livestock producer—
 
 &emsp;&emsp;&emsp;&emsp;(I) owned;
 
@@ -364,7 +364,7 @@ In this section:
 
 #### (ii) Exclusion
 
-&emsp;&emsp;&emsp;The term “covered livestock” does not include livestock that were or would havebeen in a feedlot, on the beginning date of the qualifying drought or fire condition, as a part of the normal business operation of the eligible livestock producer, as determined by the Secretary.
+&emsp;&emsp;&emsp;The term “covered livestock” does not include livestock that were or would have been in a feedlot, on the beginning date of the qualifying drought or fire condition, as a part of the normal business operation of the eligible livestock producer, as determined by the Secretary.
 
 #### (B) Drought monitor
 
@@ -536,7 +536,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) waive subparagraph (A); and
 
-&emsp;&emsp;&emsp;(ii) provide disaster assistance under this subsection at a level that the Secretarydetermines to be equitable and appropriate.
+&emsp;&emsp;&emsp;(ii) provide disaster assistance under this subsection at a level that the Secretary determines to be equitable and appropriate.
 
 #### (C) Waiver for 2008 calendar year
 
@@ -610,7 +610,7 @@ In this section:
 
 #### (B) Limitation
 
-&emsp;&emsp;An eligible orchardist or nursery tree grower shall qualify for assistance under subparagraph (A) only if the tree mortality of the eligible orchardist or nursery tree grower, as a result of damaging weather or related condition, exceeds 15 percent (adjusted for normal mortality).
+&emsp;&emsp;An eligible orchardist or nursery tree grower shall qualify for assistance undersubparagraph (A) only if the tree mortality of the eligible orchardist or nursery tree grower, as a result of damaging weather or related condition, exceeds 15 percent (adjusted for normal mortality).
 
 #### (3) Assistance
 
@@ -620,7 +620,7 @@ In this section:
 
 &emsp;&emsp;(ii) at the option of the Secretary, sufficient seedlings to reestablish a stand; and
 
-&emsp;&emsp;(B) reimbursement of 50 percent of the cost of pruning, removal, and other costs incurred by an eligible orchardist or nurserytree grower to salvage existing trees or, in the case of tree mortality, to prepare the land to replant trees as a result of damage or tree mortality due to a natural disaster, as determined by the Secretary, in excess of 15 percent damage or mortality (adjusted for normal tree damage and mortality).
+&emsp;&emsp;(B) reimbursement of 50 percent of the cost of pruning, removal, and other costs incurred by an eligible orchardist or nursery tree grower to salvage existing trees or, in the case of tree mortality, to prepare the land to replant trees as a result of damage or tree mortality due to a natural disaster, as determined by the Secretary, in excess of 15 percent damage or mortality (adjusted for normal tree damage and mortality).
 
 #### (4) Limitations on assistance
 
@@ -686,11 +686,65 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) in the case of a portion of the total acreage of a farm of the eligible producer that is not of economic significance on the farm, as established by the Secretary; or
 
-&emsp;&emsp;&emsp;(ii) in the case of a crop for which the administrative fee required for the purchaseof noninsured crop disaster assistance coverage exceeds 10 percent of the value of that coverage.
+&emsp;&emsp;&emsp;(ii) in the case of a crop for which the administrative fee required for the purchase of noninsured crop disaster assistance coverage exceeds 10 percent of the value of that coverage.
 
 #### (B) Treatment of acreage
 
 &emsp;&emsp;The Secretary shall not consider the value of any crop exempted under subparagraph (A) in calculating the supplemental revenue assistance program guarantee under subsection (b)(3) and the total farm revenue under subsection (b)(4).
+
+#### (7) 2008 transition assistance
+
+#### (A) In general
+
+&emsp;&emsp;Eligible producers on a farm described in subparagraph (A) of paragraph (4) that failed to timely pay the appropriate fee described in that subparagraph shall be eligible for assistance under this section in accordance with subparagraph (B) if the eligible producers on the farm—
+
+&emsp;&emsp;&emsp;(i) pay the appropriate fee described in paragraph (4)(A) not later than 90 days after February 17, 2009; and
+
+&emsp;&emsp;&emsp;(ii)(I) in the case of each insurable commodity of the eligible producers on the farm, excluding grazing land, agree to obtain a policy or plan of insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) (excluding a crop insurance pilot program under that Act) for the next insurance year for which crop insurance is available to the eligible producers on the farm at a level of coverage equal to 70 percent or more of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage; and
+
+&emsp;&emsp;&emsp;(II) in the case of each noninsurable commodity of the eligible producers on the farm, agree to file the required paperwork, and pay the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program for the next year for which a policy is available.
+
+#### (B) Amount of assistance
+
+&emsp;&emsp;Eligible producers on a farm that meet the requirements of subparagraph (A) shall be eligible to receive assistance under this section as if the eligible producers on the farm—
+
+&emsp;&emsp;&emsp;(i) in the case of each insurable commodity of the eligible producers on the farm, had obtained a policy or plan of insurance for the 2008 crop year at a level of coverage not to exceed 70 percent or more of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage; and
+
+&emsp;&emsp;&emsp;(ii) in the case of each noninsurable commodity of the eligible producers on the farm, had filed the required paperwork, and paid the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program for the 2008 crop year, except that in determining the level of coverage, the Secretary shall use 70 percent of the applicable yield.
+
+#### (C) Equitable relief
+
+&emsp;&emsp;Except as provided in subparagraph (D), eligible producers on a farm that met the requirements of paragraph (1) before the deadline described in paragraph (4)(A) and are eligible to receive, a disaster assistance payment under this section for a production loss during the 2008 crop year shall be eligible to receive an amount equal to the greater of—
+
+&emsp;&emsp;&emsp;(i) the amount that would have been calculated under subparagraph (B) if the eligible producers on the farm had paid the appropriate fee under that subparagraph; or
+
+&emsp;&emsp;&emsp;(ii) the amount that would have been calculated under subparagraph (A) of subsection (b)(3) if—
+
+&emsp;&emsp;&emsp;&emsp;(I) in clause (i) of that subparagraph, “120 percent” is substituted for “115 percent”; and
+
+&emsp;&emsp;&emsp;&emsp;(II) in clause (ii) of that subparagraph, “125” <sup>6</sup> is substituted for “120 percent”.
+
+#### (D) Limitation
+
+&emsp;&emsp;For amounts made available under this paragraph, the Secretary may make such adjustments as are necessary to ensure that no producer receives a payment under this paragraph for an amount in excess of the assistance received by a similarly situated producer that had purchased the same or higher level of crop insurance prior to February 17, 2009.
+
+#### (E) Authority of the Secretary
+
+&emsp;&emsp;The Secretary may provide such additional assistance as the Secretary considers appropriate to provide equitable treatment for eligible producers on a farm that suffered production losses in the 2008 crop year that result in multiyear production losses, as determined by the Secretary.
+
+#### (F) Lack of access
+
+&emsp;&emsp;Notwithstanding any other provision of this section, the Secretary may provide assistance (including multiyear assistance) under this section to eligible producers on a farm that—
+
+&emsp;&emsp;&emsp;(i) suffered a production loss or multiyear production losses due to a natural cause during the 2008 crop year; and
+
+&emsp;&emsp;&emsp;(ii) as determined by the Secretary—
+
+&emsp;&emsp;&emsp;&emsp;(I)(aa) except as provided in item (bb), lack access to a policy or plan of insurance under subtitle A <sup>4</sup>; or
+
+&emsp;&emsp;&emsp;&emsp;(bb) do not qualify for a written agreement because 1 or more farming practices, which the Secretary has determined are good farming practices, of the eligible producers on the farm differ significantly from the farming practices used by producers of the same crop in other regions of the United States; and
+
+&emsp;&emsp;&emsp;&emsp;(II) are not eligible for the noninsured crop disaster assistance program established by section 7333 of title 7.
 
 #### (h) Payment limitations
 
@@ -720,13 +774,13 @@ This section shall be effective only for losses that are incurred as the result 
 
 #### (j) No duplicative payments
 
-In implementing any other program which makes disaster assistance payments (except for indemnities made under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.)) <sup>6</sup> and section 7333 of title 7), the Secretary shall prevent duplicative payments with respect to the same loss for which a person receives a payment under subsections (b), (c), (d), (e), or (f).
+In implementing any other program which makes disaster assistance payments (except for indemnities made under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.)) <sup>7</sup> and section 7333 of title 7), the Secretary shall prevent duplicative payments with respect to the same loss for which a person receives a payment under subsections (b), (c), (d), (e), or (f).
 
-(Pub. L. 93–618, title IX, §901, as added Pub. L. 110–234, title XV, §15101(a), May 22, 2008, 122 Stat. 1484, and Pub. L. 110–246, §4(a), title XV, §15101(a), June 18, 2008, 122 Stat. 1664, 2246; amended Pub. L. 110–398, §2(b), Oct. 13, 2008, 122 Stat. 4218.)
+(Pub. L. 93–618, title IX, §901, as added Pub. L. 110–234, title XV, §15101(a), May 22, 2008, 122 Stat. 1484, and Pub. L. 110–246, §4(a), title XV, §15101(a), June 18, 2008, 122 Stat. 1664, 2246; amended Pub. L. 110–398, §2(b), Oct. 13, 2008, 122 Stat. 4218; Pub. L. 111–5, div. A, title I, §102(b), Feb. 17, 2009, 123 Stat. 123; Pub. L. 111–80, title VII, §745(b), Oct. 21, 2009, 123 Stat. 2130.)
 
 #### References in Text
 
-The Federal Crop Insurance Act, referred to in subsecs. (a)(1), (11), (b)(2)(C)(i), (4)(A)(i)(I), (B)(iii), (d)(5)(A)(i), (D)(ii), (g)(1)(A), (5)(B), and (j), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
+The Federal Crop Insurance Act, referred to in subsecs. (a)(1), (11), (b)(2)(C)(i), (4)(A)(i)(I), (B)(iii), (d)(5)(A)(i), (D)(ii), (g)(1)(A), (5)(B), (7)(A)(ii)(I), and (j), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
 
 The Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(4)(A)(iv), (f)(4)(A), and (h)(1), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Subtitles B and C of the Act probably mean subtitles B and C of title I of the Act, which are classified generally to subchapters II (§8731 et seq.) and III (§8751 et seq.), respectively, of chapter 113 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of Title 7 and Tables.
 
@@ -736,11 +790,19 @@ The date of enactment of this subchapter, referred to in subsecs. (d)(5)(C) and 
 
 Section 1001(a) of the Food Security Act of 1985 (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008), referred to in subsecs. (f)(4)(A) and (h)(1), means section 1001(a) of Pub. L. 99–198, as amended by section 1603 of Pub. L. 110–246, which is classified to section 1308(a) of Title 7, Agriculture.
 
+Subtitle A, referred to in subsec. (g)(7)(F)(ii)(I)(aa), probably means subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, known as the Federal Crop Insurance Act, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2009—Subsec. (g)(7). Pub. L. 111–5 added par. (7).
+
+Subsec. (g)(7)(F). Pub. L. 111–80, §745(b)(1), inserted “(including multiyear assistance)” after “assistance” in introductory provisions.
+
+Subsec. (g)(7)(F)(i). Pub. L. 111–80, §745(b)(2), inserted “or multiyear production losses” after “a production loss”.
 
 2008—Subsec. (a)(2). Pub. L. 110–398, §2(b)(1)(F), added par. (2). Former par. (2) redesignated (3).
 
@@ -834,5 +896,7 @@ Pub. L. 110–234, title XV, §15101(b), May 22, 2008, 122 Stat. 1499, and Pub. 
 
 <i><sup>5</sup></i><i> So in original. There probably should be a second closing parenthesis.</i>
 
-<i><sup>6</sup></i><i> So in original. Second closing parenthesis probably should not appear.</i>
+<i><sup>6</sup></i><i> So in original. Probably should be “ ‘125 percent’ ”.</i>
+
+<i><sup>7</sup></i><i> So in original. Second closing parenthesis probably should not appear.</i>
 

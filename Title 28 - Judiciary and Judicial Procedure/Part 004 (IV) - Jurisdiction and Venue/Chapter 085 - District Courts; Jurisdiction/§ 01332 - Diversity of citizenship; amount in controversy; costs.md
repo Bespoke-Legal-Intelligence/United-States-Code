@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;(cc) who is a citizen of the State in which the action was originally filed; and
 
-&emsp;&emsp;(III) principal injuries resulting from the alleged conduct or any related conduct of each defendant were incurred in the State in which the action was originally filed; and
+&emsp;&emsp;(III) principal injuries resulting from the alleged conduct or any related conduct ofeach defendant were incurred in the State in which the action was originally filed; and
 
 &emsp;(ii) during the 3-year period preceding the filing of that class action, no other class action has been filed asserting the same or similar factual allegations against any of the defendants on behalf of the same or other persons; or
 
@@ -128,7 +128,7 @@ Based on title 28, U.S.C., 1940 ed., §41(1) (Mar. 3, 1911, ch. 231, §24, par. 
 
 Other provisions of section 41(1) of title 28, U.S.C., 1940 ed., are incorporated in sections 1331, 1341, 1342, 1345, 1354, and 1359 of this title. (See reviser's notes under said sections.)
 
-Jurisdiction conferred by other sections of this chapter, except section 1335, is not dependent upon diversity of citizenship. (See annotations under former section 41 of title 28, U.S.C.A., and 35 C.J.S., p. 833 et seq. §§30–43. See, also, reviser's note under section 1331 of this title.) As to citizenship of bank where jurisdiction depends upon diversity of citizenship, see section 1348 of this title.
+Jurisdiction conferred by other sections of this chapter, except section 1335, is not dependent upon diversityof citizenship. (See annotations under former section 41 of title 28, U.S.C.A., and 35 C.J.S., p. 833 et seq. §§30–43. See, also, reviser's note under section 1331 of this title.) As to citizenship of bank where jurisdiction depends upon diversity of citizenship, see section 1348 of this title.
 
 Words “all civil actions” were substituted for “all suits of a civil nature, at common law or in equity” in order to conform to Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -848,7 +848,7 @@ Section 201(b) of title II of Pub. L. 100–702 provided that: “The amendments
 
 Section 202(b) of title II of Pub. L. 100–702 provided that: “The amendment made by this section \[amending this section\] shall apply to any civil action commenced in or removed to a United States district court on or after the 180th day after the date of enactment of this title \[Nov. 19, 1988\].”
 
-Section 203(b) of title II of Pub. L. 100–702 provided that: “The amendment made by this section \[amending this section\] shall apply to claims in civil actions commenced in or removed to the United States district courts on or after the 180th day after the date of enactment of this title \[Nov. 19, 1988\].”
+Section 203(b) of title II of Pub. L. 100–702 provided that: “The amendment made by this section \[amendingthis section\] shall apply to claims in civil actions commenced in or removed to the United States district courts on or after the 180th day after the date of enactment of this title \[Nov. 19, 1988\].”
 
 #### Effective Date of 1976 Amendment
 

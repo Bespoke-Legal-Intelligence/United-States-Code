@@ -20,7 +20,7 @@ Not later than May 5, 1991, the Secretary shall submit to Congress a report on a
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–136, §3141(g)(16)(D)(i), made technical amendment to section catchline.
+2003—Pub. L. 108–136, §3141(g)(16)(D)(i), made technical amendment to section catchline.
 
 Subsec. (a). Pub. L. 108–136, §3141(g)(16)(D)(ii), substituted “Not later than February 3, 1991,” for “Within 90 days after the date of the enactment of this Act,”.
 

@@ -4,7 +4,7 @@
 
 (b)(1) Except as provided in paragraph (2) or as otherwise provided under a provision of this chapter, a commissioned officer in the Regular or Reserve Corps of the Public Health Service is entitled to special pay under a provision of this chapter in the same amounts, and under the same terms and conditions, as a commissioned officer of the armed forces is entitled to special pay under that provision.
 
-(2) A commissioned medical officer in the Regular or Reserve Corps of the Public Health Service (other than an officer serving in the Indian Health Service) may not receive additional special pay under section 302(a)(4) of this title for any period during which the officer is providing obligated service under the following provisions of law:
+(2) A commissioned medical officer in the Regular or Reserve Corps of the Public Health Service (other than an officer serving in the IndianHealth Service) may not receive additional special pay under section 302(a)(4) of this title for any period during which the officer is providing obligated service under the following provisions of law:
 
 &emsp;(A) Section 338B of the Public Health Service Act (42 U.S.C. 254<i>l</i>–1).
 
@@ -18,17 +18,17 @@
 
 (e)
 
-Repayment of Unearned Portion of Bonuses and Other Benefits When Conditions of Payment not Met; Termination of Entitlement to Unpaid Amounts.—(1)(A) Except as provided in paragraph (2), a member of the uniformed services who receives a bonus or similar benefit and whose receipt of the bonus or similar benefit is subject to the condition that the member continue to satisfy certain eligibility requirements shall repay to the United States an amount equal to the unearned portion of the bonus or similar benefit if the member fails to satisfy the eligibility requirements and may not receive any unpaid amounts of the bonus or similar benefit after the member fails to satisfy the requirements, unless the Secretary concerned determines that the imposition of the repayment requirement and termination of the payment of unpaid amounts of the bonus or similar benefit with regard to the member would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States.
+Repayment of Unearned Portion of Bonuses and Other Benefits When Conditions of Payment not Met; Termination of Entitlement to Unpaid Amounts.—(1)(A) Except as provided in paragraphs (2) and (3), a member of the uniformed services who receives a bonus or similar benefit and whose receipt of the bonus or similar benefit is subject to the condition that the member continue to satisfy certain eligibility requirements shall repay to the United States an amount equal to the unearned portion of the bonus or similar benefit if the member fails to satisfy the eligibility requirements and may not receive any unpaid amounts of the bonus or similar benefit after the member fails to satisfy the requirements, unless the Secretary concerned determines that the imposition of the repayment requirement and termination of the payment of unpaid amounts of the bonus or similar benefit with regard to the member would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States.
 
-(B) <sup>1</sup> The Secretary concerned may establish, by regulations, procedures for determining the amount of the repayment required under this subsection and the circumstances under which an exception to the required repayment may be granted. The Secretary concerned may specify in the regulations the conditions under which an installment payment of a bonus or similar benefit to be paid to a member of the uniformed services will not be made if the member no longer satisfies the eligibility requirements for the bonus or similar benefit. For the military departments, this subsection shall be administered under regulations prescribed by the Secretary of Defense.
+(B) The Secretary concerned may establish, by regulations, procedures for determining the amount of the repayment required under this subsection and the circumstances under which an exception to the required repayment may be granted. The Secretary concerned may specify in the regulations the conditions under which an installment payment of a bonus or similar benefit to be paid to a member of the uniformed services will not be made if the member no longer satisfies the eligibility requirements for the bonus or similar benefit. For the military departments, this subsection shall be administered under regulations prescribed by the Secretary of Defense.
 
-(B)(A) <sup>1</sup> If a member of the uniformed services receives a sole survivorship discharge, the Secretary concerned—
+(2)(A) If a member of the uniformed services receives a sole survivorship discharge, the Secretary concerned—
 
 &emsp;(i) shall not require repayment by the member of the unearned portion of any bonus, incentive pay, or similar benefit previously paid to the member; and
 
 &emsp;(ii) may grant an exception to the requirement to terminate the payment of any unpaid amounts of a bonus, incentive pay, or similar benefit if the Secretary concerned determines that termination of the payment of the unpaid amounts would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States.
 
-(B) <sup>1</sup> In this paragraph, the term “sole survivorship discharge” means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—
+(B) In this paragraph, the term “sole survivorship discharge” means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—
 
 &emsp;(i) the father or mother or one or more siblings—
 
@@ -38,13 +38,13 @@ Repayment of Unearned Portion of Bonuses and Other Benefits When Conditions of P
 
 &emsp;(ii) the death, status, or disability did not result from the intentional misconduct or willful neglect of the parent or sibling and was not incurred during a period of unauthorized absence.
 
-(2)(A) If a member of the uniformed services dies or is retired or separated with a combat-related disability, the Secretary concerned—
+(3)(A) If a member of the uniformed services dies or is retired or separated with a combat-related disability, the Secretary concerned—
 
 &emsp;(i) shall not require repayment by the member or the member's estate of the unearned portion of any bonus or similar benefit previously paid to the member; and
 
 &emsp;(ii) shall require the payment to the member or the member's estate of the remainder of any bonus or similar benefit that was not yet paid to the member, but to which the member was entitled immediately before the death, retirement, or separation of the member, and would be paid if not for the death, retirement, or separation of the member.
 
-(B) Subparagraph (A) does not apply if the death or disability of the member is the result <sup>2</sup> the member's misconduct.
+(B) Subparagraph (A) does not apply if the death or disability of the member is the result <sup>1</sup> the member's misconduct.
 
 (C) The amount to be paid under subparagraph (A)(ii) shall be equal to the full amount specified by the agreement or contract applicable to the bonus or similar benefit as if the member continued to be entitled to the bonus or similar benefit following the death, retirement, or separation.
 
@@ -52,17 +52,17 @@ Repayment of Unearned Portion of Bonuses and Other Benefits When Conditions of P
 
 (E) In this paragraph, the term “combat-related disability” has the meaning given that term in section 1413a(e) of title 10.
 
-(3) An obligation to repay the United States under this subsection is, for all purposes, a debt owed the United States. A discharge in bankruptcy under title 11 does not discharge a person from such debt if the discharge order is entered less than five years after—
+(4) An obligation to repay the United States under this subsection is, for all purposes, a debt owed the United States. A discharge in bankruptcy under title 11 does not discharge a person from such debt if the discharge order is entered less than five years after—
 
 &emsp;(A) the date of the termination of the agreement or contract on which the debt is based; or
 
 &emsp;(B) in the absence of such an agreement or contract, the date of the termination of the service on which the debt is based.
 
-(4) In this subsection:
+(5) In this subsection:
 
 &emsp;(A) The term “bonus or similar benefit” means a bonus, incentive pay, special pay, or similar payment, or an educational benefit or stipend, paid to a member of the uniformed services under a provision of law that refers to the repayment requirements of this subsection.
 
-&emsp;(B) The term “service”, as used in paragraph (3)(B), refers to an obligation willingly undertaken by a member of the uniformed services, in exchange for a bonus or similar benefit offered by the Secretary of Defense or the Secretary concerned—
+&emsp;(B) The term “service”, as used in paragraph (4)(B), refers to an obligation willingly undertaken by a member of the uniformed services, in exchange for a bonus or similar benefit offered by the Secretary of Defense or the Secretary concerned—
 
 &emsp;&emsp;(i) to remain on active duty or in an active status in a reserve component;
 
@@ -72,7 +72,7 @@ Repayment of Unearned Portion of Bonuses and Other Benefits When Conditions of P
 
 &emsp;&emsp;(iv) to perform duty for a specified period of time.
 
-(Added Pub. L. 96–284, §5(a), June 28, 1980, 94 Stat. 592; amended Pub. L. 96–513, title V, §506(6), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 100–140, §2(b)(1), Oct. 26, 1987, 101 Stat. 831; Pub. L. 101–189, div. A, title VII, §§705(b), 706(b), Nov. 29, 1989, 103 Stat. 1472, 1473; Pub. L. 101–510, div. A, title VI, §611(d), title XIII, §1322(c)(2), title XIV, §1484(c)(1), Nov. 5, 1990, 104 Stat. 1577, 1672, 1716; Pub. L. 102–484, div. A, title X, §1054(a)(3), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 104–106, div.A, title VI, §614(b), Feb. 10, 1996, 110 Stat. 361; Pub. L. 104–201, div. A, title VI, §615(c)(3), Sept. 23, 1996, 110 Stat. 2546; Pub. L. 106–398, §1 \[\[div. A\], title VI, §§628(b), 634(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–155, 1654A–159; Pub. L. 109–163, div. A, title VI, §687(a)(1), (e)(1), Jan. 6, 2006, 119 Stat. 3326, 3336; Pub. L. 110–317, §2(a), Aug. 29, 2008, 122 Stat. 3526; Pub. L. 110–417, \[div. A\], title VI, §651(a), (b), Oct. 14, 2008, 122 Stat. 4495.)
+(Added Pub. L. 96–284, §5(a), June 28, 1980, 94 Stat. 592; amended Pub. L. 96–513, title V, §506(6), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 100–140, §2(b)(1), Oct. 26, 1987, 101 Stat. 831; Pub. L. 101–189, div. A, title VII, §§705(b), 706(b), Nov. 29, 1989, 103 Stat. 1472, 1473; Pub. L. 101–510, div. A, title VI, §611(d), title XIII, §1322(c)(2), title XIV, §1484(c)(1), Nov. 5, 1990, 104 Stat. 1577, 1672, 1716; Pub. L. 102–484, div. A, title X, §1054(a)(3), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 104–106, div. A, title VI, §614(b), Feb. 10, 1996, 110 Stat. 361; Pub. L. 104–201, div. A, title VI, §615(c)(3), Sept. 23, 1996, 110 Stat. 2546; Pub. L. 106–398, §1 \[\[div. A\], title VI, §§628(b), 634(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–155, 1654A–159; Pub. L. 109–163, div. A, title VI, §687(a)(1), (e)(1), Jan. 6, 2006, 119 Stat. 3326, 3336; Pub. L. 110–317, §2(a), Aug. 29, 2008, 122 Stat. 3526; Pub. L. 110–417, \[div. A\], title VI, §651(a), (b), Oct. 14, 2008, 122 Stat. 4495; Pub. L. 111–84, div. A, title VI, §617(a), Oct. 28, 2009, 123 Stat. 2354.)
 
 #### References in Text
 
@@ -81,6 +81,12 @@ Section 225(e) of the Public Health Service Act, as that section was in effect b
 Section 752 of the Public Health Service Act, as that section was in effect between October 1, 1977, and August 13, 1981, referred to in subsec. (b)(2)(C), is section 752 of act July 1, 1944, ch. 373, title VII, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2284; amended Pub. L. 95–626, title I, §113(b), Nov. 10, 1978, 92 Stat. 3563; Pub. L. 96–76, title II, §202(a), (b), Sept. 29, 1979, 93 Stat. 582, which was classified to section 294u of Title 42, The Public Health and Welfare. Section 752 was renumbered section 338B of act July 1, 1944, and amended, by Pub. L. 97–35, title XXVII, §2709(a), (c), Aug. 13, 1981, 95 Stat. 908, 909. It was subsequently renumbered section 338C of act July 1, 1944, and further amended, and is now classified to section 254m of Title 42.
 
 #### Amendments
+
+2009—Subsec. (e)(1)(A). Pub. L. 111–84, §617(a)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+
+Subsec. (e)(1)(B), (2). Pub. L. 111–84, §617(a)(5), redesignated subpar. (B), relating to sole survivorship discharge, as par. (2). Former par. (2) redesignated (3).
+
+Subsec. (e)(3) to (5). Pub. L. 111–84, §617(a)(2)–(4), redesignated pars. (2) to (4) as (3) to (5), respectively, and, in par. (5)(B), substituted “paragraph (4)(B)” for “paragraph (3)(B)” in introductory provisions.
 
 2008—Subsec. (e). Pub. L. 110–417, §651(a)(1), inserted “; Termination of Entitlement to Unpaid Amounts” after “Met” in heading.
 
@@ -142,7 +148,5 @@ Amendment by Pub. L. 100–140 effective Oct. 26, 1987, and applicable to pay pe
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
-<i><sup>1</sup></i><i> So in original. Par. (1) has two subpars. designated (B). The second subpar. (B) has its own (A) and (B).</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
 

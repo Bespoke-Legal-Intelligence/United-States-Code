@@ -12,7 +12,7 @@ Except as provided in subsection (b) of this section and notwithstanding any oth
 
 &emsp;&emsp;(A) Administrative services, including legal and other advice and contract administration, under section 2452(a)(3) of this title related to United States participation in international fairs and expositions abroad. Such administrative services may not include capital expenses, operating expenses, or travel or related expenses (other than such expenses as are associated with the provision of administrative services by employees of the Department of State).
 
-&emsp;&emsp;(B) Activities under section 2455(f) of this title with respect to encouraging foreign governments, international organizations, and private individuals, firms, associations,agencies and other groups to participate in international fairs and expositions and to make contributions to be utilized for United States participation in international fairs and expositions.
+&emsp;&emsp;(B) Activities under section 2455(f) of this title with respect to encouraging foreign governments, international organizations, and private individuals, firms, associations, agencies and other groups to participate in international fairs and expositions and to make contributions to be utilized for United States participation in international fairs and expositions.
 
 &emsp;&emsp;(C) Encouraging private support of United States pavilions and exhibits at international fairs and expositions.
 
@@ -30,7 +30,7 @@ No funds made available to the Department of State by any Federal agency to be u
 
 #### (d) Reports
 
-The Commissioner General of a United States pavilion or other major exhibit at any international exposition or world's fair registered by the Bureau of International Expositions shall submit to the Secretary of State and the appropriate congressional committees a report concerning activities relating to such pavilion or exhibit every 180 days while serving as Commissioner General and shall submit a final report summarizing all such activities not later than 1 year after the closure of the pavilion or exhibit.
+The Commissioner General of a United States pavilion or other major exhibit at any international exposition or world's fair registered by the Bureau of International Expositions shall submit to the Secretary of State and the appropriate congressional committees a report concerning activities relating to such pavilion or exhibit every 180 days while serving as Commissioner General and shall submit a final reportsummarizing all such activities not later than 1 year after the closure of the pavilion or exhibit.
 
 (Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §204\], Nov. 29, 1999, 113 Stat. 1536, 1501A–420.)
 

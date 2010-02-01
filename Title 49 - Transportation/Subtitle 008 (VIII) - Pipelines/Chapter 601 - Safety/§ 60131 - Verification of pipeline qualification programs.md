@@ -24,7 +24,7 @@ Contents.—The standards and criteria shall include the following:
 
 (c)
 
-Development of Qualification Programs by Pipeline Operators.—The Secretary shall require each pipeline operator to develop andadopt, not later than 2 years after the date of enactment of this section, a qualification program that complies with the standards and criteria described in subsection (b).
+Development of Qualification Programs by Pipeline Operators.—The Secretary shall require each pipeline operator to develop and adopt, not later than 2 years after the date of enactment of this section, a qualification program that complies with the standards and criteria described in subsection (b).
 
 (d)
 

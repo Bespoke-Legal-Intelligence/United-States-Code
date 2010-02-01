@@ -8,7 +8,7 @@
 
 (d) The probation laws shall be applicable to persons tried by a magistrate judge under this section, and such officer shall have power to grant probation and to revoke, modify, or reinstate the probation of any person granted probation by a magistrate judge.
 
-(e) Proceedings before United States magistrate judges under this section shall be taken down by a court reporter or recorded by suitable sound recording equipment. For purposes of appeal a copy of the record of such proceedings shall be made available at the expense of the United States to a person who makes affidavit that he is unable to pay or give security therefor, and the expense of such copy shall be paid by the Director of the Administrative Office of the United States Courts.
+(e) Proceedings before United States magistrate judges under this section shall be taken down by a court reporter or recorded by suitable sound recording equipment. For purposes of appeal a copy of the record of such proceedings shall be made available at the expense of the United States to a person who makes affidavitthat he is unable to pay or give security therefor, and the expense of such copy shall be paid by the Director of the Administrative Office of the United States Courts.
 
 (f) The district court may order that proceedings in any misdemeanor case be conducted before a district judge rather than a United States magistrate judge upon the court's own motion or, for good cause shown, upon petition by the attorney for the Government. Such petition should note the novelty, importance, or complexity of the case, or other pertinent factors, and be filed in accordance with regulations promulgated by the Attorney General.
 
@@ -18,7 +18,7 @@
 
 (i) A district judge may designate a magistrate judge to conduct hearings to modify, revoke, or terminate supervised release, including evidentiary hearings, and to submit to the judge proposed findings of fact and recommendations for such modification, revocation, or termination by the judge, including, in the case of revocation, a recommended disposition under section 3583(e) of this title. The magistrate judge shall file his or her proposed findings and recommendations.
 
-(June 25, 1948, ch. 645, 62 Stat. 830; Pub. L. 85–508, §12(j), July 7, 1958, 72 Stat. 348; Pub. L. 90–578,title III, §302(a), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 96–82, §7(a), (b), Oct. 10, 1979, 93 Stat. 645, 646; Pub. L. 98–473, title II, §223(j), Oct. 12, 1984, 98 Stat. 2029; Pub. L. 100–690, title VII, §7072(a), Nov. 18, 1988, 102 Stat. 4405; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title I, §103, Oct. 29, 1992, 106 Stat. 4507; Pub. L. 104–317, title II, §202(a), Oct. 19, 1996, 110 Stat. 3848; Pub. L. 106–518, title II, §203(a), Nov. 13, 2000, 114 Stat. 2414.)
+(June 25, 1948, ch. 645, 62 Stat. 830; Pub. L. 85–508, §12(j), July 7, 1958, 72 Stat. 348; Pub. L. 90–578, title III, §302(a), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 96–82, §7(a), (b), Oct. 10, 1979, 93 Stat. 645, 646; Pub. L. 98–473, title II, §223(j), Oct. 12, 1984, 98 Stat. 2029; Pub. L. 100–690, title VII, §7072(a), Nov. 18, 1988, 102 Stat. 4405; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title I, §103, Oct. 29, 1992, 106 Stat. 4507; Pub. L. 104–317, title II, §202(a), Oct. 19, 1996, 110 Stat. 3848; Pub. L. 106–518, title II, §203(a), Nov. 13, 2000, 114 Stat. 2414.)
 
 #### Historical and Revision Notes
 

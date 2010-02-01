@@ -2,7 +2,27 @@
 
 #### (a) Borrowing from Treasury
 
-The Corporation is authorized to borrow from the Treasury, and the Secretary of the Treasury is authorized and directed to loan to the Corporation on such terms as may be fixed by the Corporation and the Secretary, such funds as in the judgment of the Board of Directors of the Corporation are from time to time required for insurance purposes, not exceeding in the aggregate $30,000,000,000 outstanding at any one time, subject to the approval of the Secretary of the Treasury: <i>Provided</i>, That the rate of interest to be charged in connection with any loan made pursuant to this subsection shall not be less than an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. For such purpose the Secretary of the Treasury is authorized to use as a public-debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are extended to include such loans. Any such loan shall be used by the Corporation solely in carrying out its functions with respect to such insurance. All loans and repayments under this subsection shall be treated as public-debt transactions of the United States. The Corporation may employ any funds obtained under this section for purposes of the Deposit Insurance Fund and the borrowing shall become a liability of the Deposit Insurance Fund to the extent funds are employed therefor. There are hereby appropriated to the Secretary, for fiscal year 1989 and each fiscal year thereafter, such sums as may be necessary to carry out this subsection.
+#### (1) In general
+
+&emsp;The Corporation is authorized to borrow from the Treasury, and the Secretary of the Treasury is authorized and directed to loan to the Corporation on such terms as may be fixed by the Corporation and the Secretary, such funds as in the judgment of the Board of Directors of the Corporation are from time to time required for insurance purposes, not exceeding in the aggregate $100,000,000,000 outstanding at any one time, subject to the approval of the Secretary of the Treasury: <i>Provided</i>, That the rate of interest to be charged in connection with any loan made pursuant to this subsection shall not be less than an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. For such purpose the Secretary of the Treasury is authorized to use as a public-debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are extended to include such loans. Any such loan shall be used by the Corporation solely in carrying out its functions with respect to such insurance. All loans and repayments under this subsection shall be treated as public-debt transactions of the United States. The Corporation may employ any funds obtained under this section for purposes of the Deposit Insurance Fund and the borrowing shall become a liability of the Deposit Insurance Fund to the extent funds are employed therefor.
+
+#### (2) Funding
+
+&emsp;There are hereby appropriated to the Secretary, for fiscal year 1989 and each fiscal year thereafter, such sums as may be necessary to carry out this subsection.
+
+#### (3) Temporary increases authorized
+
+#### (A) Recommendations for increase
+
+&emsp;&emsp;During the period beginning on May 20, 2009, and ending on December 31, 2010, if, upon the written recommendation of the Board of Directors (upon a vote of not less than two-thirds of the members of the Board of Directors) and the Board of Governors of the Federal Reserve System (upon a vote of not less than two-thirds of the members of such Board), the Secretary of the Treasury (in consultation with the President) determines that additional amounts above the $100,000,000,000 amount specified in paragraph (1) are necessary, such amount shall be increased to the amount so determined to be necessary, not to exceed $500,000,000,000.
+
+#### (B) Report required
+
+&emsp;&emsp;If the borrowing authority of the Corporation is increased above $100,000,000,000 pursuant to subparagraph (A), the Corporation shall promptly submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives describing the reasons and need for the additional borrowing authority and its intended uses.
+
+#### (C) Restriction on usage
+
+&emsp;&emsp;The Corporation may not borrow pursuant to subparagraph (A) to fund obligations of the Corporation incurred as a part of a program established by the Secretary of the Treasury pursuant to the Emergency Economic Stabilization Act of 2008 \[12 U.S.C. 5201 et seq.\] to purchase or guarantee assets.
 
 #### (b) Borrowing from Federal Financing Bank
 
@@ -48,7 +68,7 @@ The Corporation is authorized to issue and sell the Corporation's obligations, o
 
 #### (C) Interest rate limit
 
-&emsp;&emsp;The rate of interest payable in connection with any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall not exceed an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
+&emsp;&emsp;The rate of interest payable in connection with any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall not exceed an amount determinedby the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
 
 #### (D) Obligations to be held only by BIF members <sup>1</sup>
 
@@ -66,7 +86,7 @@ The Corporation is authorized to issue and sell the Corporation's obligations, o
 
 #### (A) Authority to invest
 
-&emsp;&emsp;Subject to subparagraph (B) and notwithstanding any other provision of Federal lawor the law of any State, any insured depository institution may purchase and hold for investment any obligation issued by the Corporation under paragraph (1) without limitation, other than any limitation the appropriate Federal banking agency may impose specifically with respect to such obligations.
+&emsp;&emsp;Subject to subparagraph (B) and notwithstanding any other provision of Federal law or the law of any State, any insured depository institution may purchase and hold for investment any obligation issued by the Corporation under paragraph (1) without limitation, other than any limitation the appropriate Federal banking agency may impose specifically with respect to such obligations.
 
 #### (B) Investment only from capital and retained earnings
 
@@ -94,9 +114,11 @@ The Corporation is authorized to issue and sell the Corporation's obligations, o
 
 &emsp;&emsp;(D) be subject to the limitations of section 1825(c) of this title.
 
-(Sept. 21, 1950, ch. 967, §2\[14\], 64 Stat. 890; Pub. L. 101–73, title II, §218, Aug. 9, 1989, 103 Stat. 261; Pub. L. 101–508, title II, §2005, Nov. 5, 1990, 104 Stat. 1388–16; Pub. L. 102–242, title I, §§101, 103(a), 105, Dec. 19, 1991, 105 Stat. 2236, 2237, 2239; Pub. L. 102–550, title XVI, §1603(a)(2), Oct. 28, 1992, 106 Stat. 4078; Pub. L. 103–204, §10, Dec. 17, 1993, 107 Stat. 2389; Pub. L. 104–208, div. A, title II, §2704(d)(14)(N)–(Q), Sept. 30, 1996, 110 Stat. 3009–493; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(20)–(24), Feb. 15, 2006, 119 Stat. 3613, 3614.)
+(Sept. 21, 1950, ch. 967, §2\[14\], 64 Stat. 890; Pub. L. 101–73, title II, §218, Aug. 9, 1989, 103 Stat. 261; Pub. L. 101–508, title II, §2005, Nov. 5, 1990, 104 Stat. 1388–16; Pub. L. 102–242, title I, §§101, 103(a), 105, Dec. 19, 1991, 105 Stat. 2236, 2237, 2239; Pub. L. 102–550, title XVI, §1603(a)(2), Oct. 28, 1992, 106 Stat. 4078; Pub. L. 103–204, §10, Dec. 17, 1993, 107 Stat. 2389; Pub. L. 104–208, div. A, title II, §2704(d)(14)(N)–(Q), Sept. 30, 1996, 110 Stat. 3009–493; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(20)–(24), Feb. 15, 2006, 119 Stat. 3613, 3614; Pub. L. 111–22, div. A, title II, §204(c)(1), May 20, 2009, 123 Stat. 1649.)
 
 #### References in Text
+
+The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a)(3)(C), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
 The Federal Financing Bank Act of 1973, referred to in subsec. (b), is Pub. L. 93–224, Dec. 29, 1973, 87 Stat. 937, as amended, which is classified generally to chapter 24 (§2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2281 of this title and Tables.
 
@@ -109,6 +131,8 @@ The Federal Financing Bank Act of 1973, referred to in subsec. (b), is Pub. L. 9
 Section is derived from subsec. (<i>o</i>) of former section 264 of this title. See Codification note set out under section 1811 of this title.
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–22 substituted “$100,000,000,000” for “$30,000,000,000”, designated existing provisions as pars. (1) and (2), inserted par. headings, and added par. (3).
 
 2006—Subsec. (a). Pub. L. 109–173, §8(a)(20), in fifth sentence, substituted “Deposit Insurance Fund” for “Bank Insurance Fund or the Savings Association Insurance Fund” and “the Deposit Insurance Fund” for “each such fund”.
 

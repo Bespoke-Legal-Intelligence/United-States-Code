@@ -6,7 +6,7 @@ In this Act and future Acts, up to 4 percent of program direction funds availabl
 
 #### References in Text
 
-This Act, referred to in text, is div. C of Pub. L. 110–161, Dec. 26, 2007, 121 Stat. 1937, known as the Energy and Water Development and Related Agencies Appropriations Act, 2008. For complete classification of title III to the Code, see Tables.
+This Act, referred to in text, is div. C of Pub. L. 110–161, Dec. 26, 2007, 121 Stat. 1937, known as the Energy and Water Development and Related Agencies Appropriations Act, 2008. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

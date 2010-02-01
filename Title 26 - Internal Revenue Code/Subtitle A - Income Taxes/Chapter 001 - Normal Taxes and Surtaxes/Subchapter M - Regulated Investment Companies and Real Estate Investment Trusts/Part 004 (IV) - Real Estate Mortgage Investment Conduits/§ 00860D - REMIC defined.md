@@ -26,7 +26,7 @@ For purposes of this title, the terms “real estate mortgage investment conduit
 
 #### (1) In general
 
-&emsp;An entity (otherwise meeting the requirements of subsection (a)) may elect to be treated as a REMIC for its 1st taxable year. Such an election shall be made on its return forsuch 1st taxable year. Except as provided in paragraph (2), such an election shall apply to the taxable year for which made and all subsequent taxable years.
+&emsp;An entity (otherwise meeting the requirements of subsection (a)) may elect to be treated as a REMIC for its 1st taxable year. Such an election shall be made on its return for such 1st taxable year. Except as provided in paragraph (2), such an election shall apply to the taxable year for which made and all subsequent taxable years.
 
 #### (2) Termination
 

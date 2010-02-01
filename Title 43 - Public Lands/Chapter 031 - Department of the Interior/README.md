@@ -12,6 +12,7 @@
 | [1456a.](%C2%A7%2001456a%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93164%2C%20title%20III%2C%20%C2%A7306%28b%29%2C%20Nov.%209%2C%201977%2C%2091%20Stat.%201322.md) | Repealed. |
 | [1457\.](%C2%A7%2001457%20-%20Duties%20of%20Secretary.md) | Duties of Secretary. |
 | [1457a.](%C2%A7%2001457a%20-%20Authorization%20of%20appropriations%20for%20particular%20programs.md) | Authorization of appropriations for particular programs. |
+| [1457b.](%C2%A7%2001457b%20-%20Use%20of%20cooperative%20agreements.md) | Use of cooperative agreements. |
 | [1458\.](%C2%A7%2001458%20-%20Secretary%20to%20exercise%20certain%20powers%20over%20Territories.md) | Secretary to exercise certain powers over Territories. |
 | [1459\.](%C2%A7%2001459%20-%20Expenditures%20of%20department.md) | Expenditures of department. |
 | [1460\.](%C2%A7%2001460%20-%20Copies%20of%20records%2C%20documents%2C%20etc.%3B%20charges%3B%20disposition%20of%20receipts.md) | Copies of records, documents, etc.; charges; disposition of receipts. |
@@ -73,6 +74,7 @@
 - [&sect; 01456a - Repealed. Pub. L. 95&#8211;164, title III, &sect;306(b), Nov. 9, 1977, 91 Stat. 1322](%C2%A7%2001456a%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93164%2C%20title%20III%2C%20%C2%A7306%28b%29%2C%20Nov.%209%2C%201977%2C%2091%20Stat.%201322.md)
 - [&sect; 01457 - Duties of Secretary](%C2%A7%2001457%20-%20Duties%20of%20Secretary.md)
 - [&sect; 01457a - Authorization of appropriations for particular programs](%C2%A7%2001457a%20-%20Authorization%20of%20appropriations%20for%20particular%20programs.md)
+- [&sect; 01457b - Use of cooperative agreements](%C2%A7%2001457b%20-%20Use%20of%20cooperative%20agreements.md)
 - [&sect; 01458 - Secretary to exercise certain powers over Territories](%C2%A7%2001458%20-%20Secretary%20to%20exercise%20certain%20powers%20over%20Territories.md)
 - [&sect; 01459 - Expenditures of department](%C2%A7%2001459%20-%20Expenditures%20of%20department.md)
 - [&sect; 01460 - Copies of records, documents, etc.; charges; disposition of receipts](%C2%A7%2001460%20-%20Copies%20of%20records%2C%20documents%2C%20etc.%3B%20charges%3B%20disposition%20of%20receipts.md)

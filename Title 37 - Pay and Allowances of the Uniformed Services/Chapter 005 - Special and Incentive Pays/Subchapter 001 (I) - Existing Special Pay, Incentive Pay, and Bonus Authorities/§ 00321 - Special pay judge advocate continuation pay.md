@@ -22,7 +22,7 @@ Proration.—The term of an agreement under subsection (b) and the amount payabl
 
 (d)
 
-Payment Methods.—Upon acceptance of an agreement under subsection (b) by the Secretaryconcerned, the total amount payable pursuant to the agreement becomes fixed. The Secretary shall prepare an implementation plan specifying the amount of each installment payment under the agreement and the times for payment of the installments.
+Payment Methods.—Upon acceptance of an agreement under subsection (b) by the Secretary concerned, the total amount payable pursuant to the agreement becomes fixed. The Secretary shall prepare an implementation plan specifying the amount of each installment payment under the agreement and the times for payment of the installments.
 
 (e)
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(B) an employee having a disability on the basis of which such employee is or would be eligible for disability retirement under any of the retirement systems referred to in subparagraph (A).
 
-(b) In order to avoid or minimize the need for involuntary separations due to a reduction inforce, base closure, reorganization, transfer of function, workforce restructuring (to meet mission needs, achieve one or more strength reductions, correct skill imbalances, or reduce the number of high-grade, managerial, or supervisory positions), or other similar action affecting 1 or more defense agencies, the Secretary shall establish a program under which separation pay may be offered to encourage eligible employees to separate from service voluntarily (whether by retirement or resignation).
+(b) In order to avoid or minimize the need for involuntary separations due to a reduction in force, base closure, reorganization, transfer of function, workforce restructuring (to meet mission needs, achieve one or more strength reductions, correct skill imbalances, or reduce the number of high-grade, managerial, or supervisory positions), or other similar action affecting 1 or more defense agencies, the Secretary shall establish a program under which separation pay may be offered to encourage eligible employees to separate from service voluntarily (whether by retirement or resignation).
 
 (c) Under the program, separation pay may be offered by a defense agency only—
 
@@ -70,7 +70,7 @@
 
 (3) Separation pay may not be offered as a result of workforce restructuring under the program carried out under this section after fiscal year 2003.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4436(a)(1), Oct. 23, 1992, 106 Stat. 2723; amended Pub. L. 103–226, §8(a), Mar. 30, 1994, 108 Stat. 118; Pub. L. 103–337, div. A, title III, §341(b)(1), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–201, div. A, title XVI, §1612(a), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 105–85, div. A, title XI, §1106(a), (b)(1), Nov. 18,1997, 111 Stat. 1923, 1924; Pub. L. 106–65, div. A, title XI, §1104(b), Oct. 5, 1999, 113 Stat. 777; Pub. L. 106–398, §1 \[\[div. A\], title XI, §§1151, 1153(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–319, 1654A–323.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4436(a)(1), Oct. 23, 1992, 106 Stat. 2723; amended Pub. L. 103–226, §8(a), Mar. 30, 1994, 108 Stat. 118; Pub. L. 103–337, div. A, title III, §341(b)(1), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–201, div. A, title XVI, §1612(a), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 105–85, div. A, title XI, §1106(a), (b)(1), Nov. 18, 1997, 111 Stat. 1923, 1924; Pub. L. 106–65, div. A, title XI, §1104(b), Oct. 5, 1999, 113 Stat. 777; Pub. L. 106–398, §1 \[\[div. A\], title XI, §§1151, 1153(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–319, 1654A–323.)
 
 #### References in Text
 
@@ -160,7 +160,7 @@ Terms and Conditions.—The authority to provide voluntary separation incentive 
 
 Additional Contribution to Retirement Fund.—
 
-&emsp;“(1) Determination of amount required.—The amount required under this paragraph shall be theamount determined under subparagraph (A) or (B), whichever is greater, for the fiscal year involved.
+&emsp;“(1) Determination of amount required.—The amount required under this paragraph shall be the amount determined under subparagraph (A) or (B), whichever is greater, for the fiscal year involved.
 
 &emsp;&emsp;“(A)
 

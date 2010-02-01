@@ -204,7 +204,7 @@ Ex. Ord. No. 12493, Dec. 5, 1984, 49 F.R. 47819, as amended by Ex. Ord. No. 1251
 
 Ex. Ord. No. 12574, Nov. 20, 1986, 51 F.R. 42199, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States ofAmerica, including the Executive Exchange Program Voluntary Services Act of 1986 (5 U.S.C. 4103 note, 100 Stat. 964), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States of America, including the Executive Exchange Program Voluntary Services Act of 1986 (5 U.S.C. 4103 note, 100 Stat. 964), it is hereby ordered as follows:
 
 Section 1. <i>Establishment of the Program</i>. Effective October 1, 1986, there is established, within the Executive Exchange Program of the President's Commission on Executive Exchange, an experimental program under which Executive agencies of the government may accept voluntary services for the United States from private sector participants in the Executive Exchange Program.
 

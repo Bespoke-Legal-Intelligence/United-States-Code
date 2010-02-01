@@ -42,7 +42,7 @@ There shall be in the Department a Deputy Secretary, who shall be appointed by t
 
 &emsp;(B) are well qualified to manage the nuclear weapons, nonproliferation, and materials disposition programs of the National Nuclear Security Administration in a manner that advances and protects the national security of the United States.
 
-(3) The Under Secretary for Nuclear Security shall serve as the Administrator for Nuclear Security under section 2402 of title 50. In carrying out the functions of the Administrator, the Under Secretary shall be subject to the authority, direction, and control of the Secretary. Such authority, direction, and control may bedelegated only to the Deputy Secretary of Energy, without redelegation.
+(3) The Under Secretary for Nuclear Security shall serve as the Administrator for Nuclear Security under section 2402 of title 50. In carrying out the functions of the Administrator, the Under Secretary shall be subject to the authority, direction, and control of the Secretary. Such authority, direction, and control may be delegated only to the Deputy Secretary of Energy, without redelegation.
 
 #### (d) Under Secretary
 
@@ -80,7 +80,7 @@ Exclusive Reasons for Removal.—The exclusive reasons for removal from office a
 
 “(c)
 
-Position Described.—The position of Under Secretary for Nuclear Security of the Department of Energy referred to in this section is the position established by subsection (c) of section 202 of the Department of Energy Organization Act (42 U.S.C. 7132), as added by section 3202 of the National Nuclear Security Administration Act (title XXXII of Public Law 106–65; 113 Stat. 954).”
+Position Described.—The position of Under Secretary for Nuclear Security of the Department of Energy referred to in this section is the position established by subsection (c) of section 202 of the Department of Energy Organization Act (42 U.S.C. 7132), asadded by section 3202 of the National Nuclear Security Administration Act (title XXXII of Public Law 106–65; 113 Stat. 954).”
 
 Substantially identical provisions were contained in Pub. L. 106–377, §1(a)(2) \[title III, §313\], Oct. 27, 2000, 114 Stat. 1441, 1441A–81.
 

@@ -24,6 +24,58 @@ Personnel Evaluations.—The Secretary of Defense shall establish procedures to 
 
 Secretary of Defense to establish uniform system of valuation described in subsec. (a)(3) of this section not later than 180 days after Dec. 5, 1991, see section 347(c) of Pub. L. 102–190, set out as a note under section 2721 of this title.
 
+#### Improvement of Inventory Management Practices
+
+Pub. L. 111–84, div. A, title III, §328, Oct. 28, 2009, 123 Stat. 2255, provided that:
+
+“(a)
+
+Inventory Management Practices Improvement Plan Required.—Not later than 270 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a comprehensive plan for improving the inventory management systems of the military departments and the Defense Logistics Agency with the objective of reducing the acquisition and storage of secondary inventory that is excess to requirements.
+
+“(b)
+
+Elements.—The plan under subsection (a) shall include the following:
+
+&emsp;“(1) A plan for a comprehensive review of demand-forecasting procedures to identify and correct any systematic weaknesses in such procedures, including the development of metrics to identify bias toward over-forecasting and adjust forecasting methods accordingly.
+
+&emsp;“(2) A plan to accelerate the efforts of the Department of Defense to achieve total asset visibility, including efforts to link wholesale and retail inventory levels through multi-echelon modeling.
+
+&emsp;“(3) A plan to reduce the average level of on-order secondary inventory that is excess to requirements, including a requirement for the systemic review of such inventory for possible contract termination.
+
+&emsp;“(4) A plan for the review and validation of methods used by the military departments and the Defense Logistics Agency to establish economic retention requirements.
+
+&emsp;“(5) A plan for an independent review of methods used by the military departments and the Defense Logistics Agency to establish contingency retention requirements.
+
+&emsp;“(6) A plan to identify items stored in secondary inventory that require substantial amounts of storage space and shift such items, where practicable, to direct vendor delivery.
+
+&emsp;“(7) A plan for a comprehensive assessment of inventory items on hand that have no recurring demands, including the development of—
+
+&emsp;&emsp;“(A) metrics to track years of no demand for items in stock; and
+
+&emsp;&emsp;“(B) procedures for ensuring the systemic review of such items for potential reutilization or disposal.
+
+&emsp;“(8) A plan to more aggressively pursue disposal reviews and actions on stocks identified for potential reutilization or disposal.
+
+“(c) GAO
+
+Reports.—
+
+&emsp;“(1)
+
+Assessment of plan.—Not later than 60 days after the date on which the plan required by subsection (a) is submitted as specified in that subsection, the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth an assessment of the extent to which the plan meets the requirements of this section.
+
+&emsp;“(2)
+
+Assessment of implementation.—Not later than 18 months after the date on which the plan required by subsection (a) is submitted, the Comptroller General shall submit to the congressional defense committees a report setting forth an assessment of the extent to which the plan has been effectively implemented by each military department and by the Defense Logistics Agency.
+
+“(d)
+
+Inventory That Is Excess to Requirements Defined.—In this section, the term ‘inventory that is excess to requirements’ means inventory that—
+
+&emsp;“(1) is excess to the approved acquisition objective concerned; and
+
+&emsp;“(2) is not needed for the purposes of economic retention or contingency retention.”
+
 #### Report on Inventory and Control of Military Equipment
 
 Pub. L. 106–65, div. A, title III, §363, Oct. 5, 1999, 113 Stat. 576, provided that not later than Aug. 31, 2000, the Secretary of Defense was to submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the inventory and control of the military equipment of the Department of Defense as of the end of fiscal year 1999, and that not later than Nov. 30, 2000, the Inspector General of the Department of Defense was to review the report and submit comments to the committees.

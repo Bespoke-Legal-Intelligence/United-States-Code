@@ -2,7 +2,7 @@
 
 (a) Under regulations prescribed under section 5738 of this title and subject to subsections (b) and (c) of this section, an agency may pay from its appropriations—
 
-&emsp;(1) travel expenses (A) of a new appointee, or a student trainee when assigned on completion of college work, to any position, (B) of a new appointee to the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, or (C) of any person appointed by the President to a position the rate of pay for which is equal to or higher than the minimum rate of pay payable for a position classified above GS–15 pursuant to section 5108;
+&emsp;(1) travel expenses (A) of a new appointee, or a student trainee when assigned on completion of college work, to any position, (B) of a new appointee to the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, or (C) of any person appointed by the President to a position the rate of pay forwhich is equal to or higher than the minimum rate of pay payable for a position classified above GS–15 pursuant to section 5108;
 
 &emsp;(2) transportation expenses of his immediate family and his household goods and personal effects to the extent authorized by section 5724 of this title; and
 
@@ -62,7 +62,7 @@ Subsecs. (d), (e). Pub. L. 102–378, §2(48)(B), redesignated subsec. (e) as (d
 
 Subsec. (a)(1)(C). Pub. L. 101–509, §529 \[title II, §206(b)(2)\], substituted “the minimum rate of pay payable for a position classified above GS–15 pursuant to section 5108; and” for “the minimum rate of pay prescribed for GS–16; and”.
 
-1988—Subsec. (a). Pub. L. 100–398, §6(2), inserted at end “In the case of an appointee described in paragraph\(1) who has performed transition activities under section 3 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note), the provisions of paragraphs (1) and (2) may apply to travel and transportation expenses from the place of residence of such appointee (at the time of relocation following the most recent general elections held to determine the electors of the President) to the assigned duty station of such appointee.”
+1988—Subsec. (a). Pub. L. 100–398, §6(2), inserted at end “In the case of an appointee described in paragraph (1) who has performed transition activities under section 3 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note), the provisions of paragraphs (1) and (2) may apply to travel and transportation expenses from the place of residence of such appointee (at the time of relocation following the most recent general elections held to determine the electors of the President) to the assigned duty station of such appointee.”
 
 Subsec. (a)(1). Pub. L. 100–398, §6(1), which directed that par. (1) be amended by striking out “or (B)” and inserting “or (C)”, could not be executed because phrase “or (B)” did not appear in par. (1) after the intervening amendment by Pub. L. 100–325, see below.
 

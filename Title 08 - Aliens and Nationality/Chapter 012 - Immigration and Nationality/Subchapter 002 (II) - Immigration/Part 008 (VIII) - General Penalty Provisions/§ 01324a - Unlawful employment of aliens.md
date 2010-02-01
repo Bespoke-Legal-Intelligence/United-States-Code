@@ -130,7 +130,7 @@ The requirements referred to in paragraphs (1)(B) and (3) of subsection (a) of t
 
 #### (4) Copying of documentation permitted
 
-&emsp;Notwithstanding any other provision of law, the person or entity may copy a document presented by an individual pursuant to this subsection and may retain the copy, but only (except as otherwise permitted under law) for thepurpose of complying with the requirements of this subsection.
+&emsp;Notwithstanding any other provision of law, the person or entity may copy a document presented by an individual pursuant to this subsection and may retain the copy, but only (except as otherwise permitted under law) for the purpose of complying with the requirements of this subsection.
 
 #### (5) Limitation on use of attestation form
 
@@ -170,7 +170,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (B) Improvements to establish secure system
 
-&emsp;&emsp;To the extent that the system established under subsection (b) of this section is found not to be a secure system to determine employment eligibility in the United States, the President shall, subject to paragraph (3) and taking into account the results of any demonstration projects conducted under paragraph (4), implement such changes in (including additions to) the requirements of subsection (b) of this section as may be necessary to establish a secure system to determine employment eligibility in the United States. Such changes in the system may be implemented only if the changes conform to the requirements of paragraph (2).
+&emsp;&emsp;To the extent that the system established under subsection (b) of this section is found not to be a secure system to determine employment eligibility in the United States, the President shall, subject to paragraph (3) and taking into account the results of anydemonstration projects conducted under paragraph (4), implement such changes in (including additions to) the requirements of subsection (b) of this section as may be necessary to establish a secure system to determine employment eligibility in the United States. Such changes in the system may be implemented only if the changes conform to the requirements of paragraph (2).
 
 #### (2) Restrictions on changes in system
 
@@ -244,7 +244,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;&emsp;&emsp;(ii) provide for a telephone verification system under which an employer, recruiter, or referrer must transmit to a Federal official information concerning the immigration status of prospective employees and the official transmits to the person, and the person must record, a verification code, or
 
-&emsp;&emsp;&emsp;(iii) require any change in any card used for accounting purposes under the Social Security Act \[42 U.S.C. 301 et seq.\], including any change requiring that the only social security account number cards which may be presented in order to comply with subsection (b)(1)(C)(i) of this section are such cards as are in a counterfeit-resistant form consistent with the second sentence of section 205(c)(2)(D) of the Social Security Act \[42 U.S.C. 405(c)(2)(D)\].
+&emsp;&emsp;&emsp;(iii) require any change in any card used for accounting purposes under the SocialSecurity Act \[42 U.S.C. 301 et seq.\], including any change requiring that the only social security account number cards which may be presented in order to comply with subsection (b)(1)(C)(i) of this section are such cards as are in a counterfeit-resistant form consistent with the second sentence of section 205(c)(2)(D) of the Social Security Act \[42 U.S.C. 405(c)(2)(D)\].
 
 #### (E) General revenue funding of social security card changes
 
@@ -284,7 +284,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;&emsp;(C) immigration officers designated by the Commissioner may compel by subpoena the attendance of witnesses and the production of evidence at any designated place prior to the filing of a complaint in a case under paragraph (2).
 
-> &emsp;In case of contumacy or refusal to obey a subpoena lawfully issued under this paragraphand upon application of the Attorney General, an appropriate district court of the United States may issue an order requiring compliance with such subpoena and any failure to obey such order may be punished by such court as a contempt thereof.
+> &emsp;In case of contumacy or refusal to obey a subpoena lawfully issued under this paragraph and upon application of the Attorney General, an appropriate district court of the United States may issue an order requiring compliance with such subpoena and any failure to obey such order may be punished by such court as a contempt thereof.
 
 #### (3) Hearing
 
@@ -314,7 +314,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;&emsp;(B) may require the person or entity—
 
-&emsp;&emsp;&emsp;(i) to comply with the requirements of subsection (b) of this section (or subsection (d) of this section if applicable) with respect to individuals hired (or recruited or referred for employment for a fee) during a period of up to three years, and
+&emsp;&emsp;&emsp;(i) to comply with the requirements of subsection (b) of this section (or subsection (d) of this section if applicable) with respect to individuals hired (or recruited or referred for employment for afee) during a period of up to three years, and
 
 &emsp;&emsp;&emsp;(ii) to take such other remedial action as is appropriate.
 
@@ -338,7 +338,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (9) Enforcement of orders
 
-&emsp;If a person or entity fails to comply with a final order issued under this subsection against the person or entity, the Attorney General shall file a suit to seek compliancewith the order in any appropriate district court of the United States. In any such suit, the validity and appropriateness of the final order shall not be subject to review.
+&emsp;If a person or entity fails to comply with a final order issued under this subsection against the person or entity, the Attorney General shall file a suit to seek compliance with the order in any appropriate district court of the United States. In any such suit, the validity and appropriateness of the final order shall not be subject to review.
 
 #### (f) Criminal penalties and injunctions for pattern or practice violations
 
@@ -368,7 +368,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (2) Preemption
 
-&emsp;The provisions of this section preempt any State or local law imposing civil or criminal sanctions (other than through licensing and similar laws) upon those who employ, or recruit or refer for a fee for employment, unauthorized aliens.
+&emsp;The provisions of this section preempt any State or local law imposing civil or criminal sanctions (other than through licensing andsimilar laws) upon those who employ, or recruit or refer for a fee for employment, unauthorized aliens.
 
 #### (3) Definition of unauthorized alien
 
@@ -524,7 +524,7 @@ Authority of President under subsec. (d)(4) of this section to undertake demonst
 
 #### Pilot Programs for Employment Eligibility Confirmation
 
-Pub. L. 104–208, div. C, title IV, subtitle A, Sept. 30, 1996, 110 Stat. 3009–655, as amended by Pub. L. 107–128, §2, Jan. 16, 2002, 115 Stat. 2407; Pub. L. 108–156, §§2, 3, Dec. 3, 2003, 117 Stat. 1944, provided that:
+Pub. L. 104–208, div. C, title IV, subtitle A, Sept. 30, 1996, 110 Stat. 3009–655, as amended by Pub. L. 107–128, §2, Jan. 16, 2002, 115 Stat. 2407; Pub. L. 108–156, §§2, 3, Dec. 3, 2003, 117 Stat. 1944; Pub. L. 111–83, title V, §§547, 551, Oct. 28, 2009, 123 Stat. 2177, provided that:
 
 #### “SEC. 401. ESTABLISHMENT OF PROGRAMS.
 
@@ -534,13 +534,13 @@ In General.—The Secretary of Homeland Security shall conduct 3 pilot programs 
 
 “(b)
 
-Implementation Deadline; Termination.—The Secretary of Homeland Security shall implement the pilot programs in a manner that permits persons and other entities to have elections under section 402 of this division made and in effect no later than 1 year after the date of the enactment of this Act \[Sept. 30, 1996\]. Unless the Congress otherwise provides, the Secretary of Homeland Security shall terminate a pilot program at the end of the 11-year period beginning on the first day the pilot program is in effect.
+Implementation Deadline; Termination.—The Secretary of Homeland Security shall implement the pilot programs in a manner that permits persons and other entities to have elections under section 402 of this division made and in effect no later than 1 year after the date of the enactment of this Act \[Sept. 30, 1996\]. Unless the Congress otherwise provides, the Secretary of Homeland Security shall terminate a pilot program on September 30, 2012.
 
 “(c)
 
 Scope of Operation of Pilot Programs.—The Secretary of Homeland Security shall provide for the operation—
 
-&emsp;“(1) of the basic pilot program (described in section 403(a) of this division) in, at a minimum, 5 of the 7 States with the highest estimated population of aliens who are not lawfully present in the United States, and the Secretary of Homeland Security shall expand the operation of the program to all 50 States not later than December 1, 2004;
+&emsp;“(1) of the E-Verify Program (described in section 403(a) of this division) in, at a minimum, 5 of the 7 States with the highest estimated population of aliens who are not lawfully present in the United States, and the Secretary of Homeland Security shall expand the operation of the program to all 50 States not later than December 1, 2004;
 
 &emsp;“(2) of the citizen attestation pilot program (described in section 403(b) of this division) in at least 5 States (or, if fewer, all of the States) that meet the condition described in section 403(b)(2)(A) of this division; and
 
@@ -590,7 +590,7 @@ Benefit of Rebuttable Presumption.—
 
 &emsp;“(1)
 
-In general.—If a person or other entity is participating in a pilot program and obtains confirmation of identity and employment eligibility in compliance with the terms and conditions of the program with respect to the hiring (or recruitment or referral) of an individual for employment in the United States,the person or entity has established a rebuttable presumption that the person or entity has not violated section 274A(a)(1)(A) with respect to such hiring (or such recruitment or referral).
+In general.—If a person or other entity is participating in a pilot program and obtains confirmation of identity and employment eligibility in compliance with the terms and conditions of the program with respect to the hiring (or recruitment or referral) of an individual for employment in the United States, the person or entity has established a rebuttable presumption that the person or entity has not violated section 274A(a)(1)(A) with respect to such hiring (or such recruitment or referral).
 
 &emsp;“(2)
 
@@ -702,7 +702,7 @@ Construction.—This subtitle shall not affect the authority of the Secretary of
 
 “(a)
 
-Basic Pilot Program.—A person or other entity that elects to participate in the basic pilot program described in this subsection agrees to conform to the following procedures in the case of the hiring (or recruitment or referral) for employment in the United States of each individual covered by the election:
+E-Verify Program.—A person or other entity that elects to participate in the E-Verify Program described in this subsection agrees to conform to the following procedures in the case of the hiring (or recruitment or referral) for employment in the United States of each individual covered by the election:
 
 &emsp;“(1)
 
@@ -710,7 +710,7 @@ Provision of additional information.—The person or entity shall obtain from th
 
 &emsp;&emsp;“(A) the individual's social security account number, if the individual has been issued such a number, and
 
-&emsp;&emsp;“(B) if the individual does not attest to United States citizenship under section 274A(b)(2), suchidentification or authorization number established by the Immigration and Naturalization Service for the alien as the Secretary of Homeland Security shall specify,
+&emsp;&emsp;“(B) if the individual does not attest to United States citizenship under section 274A(b)(2), such identification or authorization number established by the Immigration and Naturalization Service for the alien as the Secretary of Homeland Security shall specify,
 
 > &emsp;and shall retain the original form and make it available for inspection for the period and in the manner required of I–9 forms under section 274A(b)(3).
 
@@ -800,7 +800,7 @@ Citizen Attestation Pilot Program.—
 
 &emsp;“(1)
 
-In general.—Except as provided in paragraphs (3) through (5), the procedures applicable under the citizen attestation pilot program under this subsection shall be the same procedures as those under the basic pilot program under subsection (a).
+In general.—Except as provided in paragraphs (3) through (5), the procedures applicable under the citizen attestation pilot program under this subsection shall be the same procedures as those under the E-Verify Program under subsection (a).
 
 &emsp;“(2)
 
@@ -848,7 +848,7 @@ Machine-Readable-Document Pilot Program.—
 
 &emsp;“(1)
 
-In general.—Except as provided in paragraph (3), the procedures applicable under the machine-readable-document pilot program under this subsection shall be the same procedures as those under the basic pilot program under subsection (a).
+In general.—Except as provided in paragraph (3), the procedures applicable under the machine-readable-document pilot program under this subsection shall be the same procedures as those under the E-Verify Program under subsection (a).
 
 &emsp;“(2)
 
@@ -918,7 +918,7 @@ Limitation on Use of the Confirmation System and Any Related Systems.—
 
 &emsp;“(1)
 
-In general.—Notwithstanding any other provision of law, nothing in this subtitle shall be construed to permit or allow any department, bureau, or other agency of the United States Government to utilize any information, data base, or other records assembled under this subtitle for any other purpose other than as provided for under a pilot program.
+In general.—Notwithstanding any other provision of law, nothing in this subtitle shall be construed to permit or allow any department, bureau, or other agency of the United States Government to utilize any information, data base, or other records assembled under this subtitle for any other purpose other than as provided for under this subtitle.
 
 &emsp;“(2)
 
@@ -942,7 +942,9 @@ Report on Expansion.—Not later than June 1, 2004, the Secretary of Homeland Se
 
 &emsp;“(1) evaluating whether the problems identified by the report submitted under subsection (a) have been substantially resolved; and
 
-&emsp;“(2) describing what actions the Secretary of Homeland Security shall take before undertaking the expansion of the basic pilot program to all 50 States in accordance with section 401(c)(1), in order to resolve any outstanding problems raised in the report filed under subsection (a).”
+&emsp;“(2) describing what actions the Secretary of Homeland Security shall take before undertaking the expansion of the E-Verify Program to all 50 States in accordance with section 401(c)(1), in order to resolve any outstanding problems raised in the report filed under subsection (a).”
+
+\[Pub. L. 110–329, div. A, §143, Sept. 30, 2008, 122 Stat. 3580, as amended by Pub. L. 111–8, div. J, §101, Mar. 11, 2009, 123 Stat. 988, provided that: “Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) shall be applied by substituting \[‘\]September 30, 2009\[’\] for ‘the 11-year period beginning on the first day the pilot program is in effect’.”\]
 
 \[Pub. L. 107–128, §3, Jan. 16, 2002, 115 Stat. 2407, provided that: “The amendment made by this Act \[amending section 401(b) of Pub. L. 104–208, set out above\] shall take effect on the date of the enactment of this Act \[Jan. 16, 2002\].”\]
 
@@ -1050,7 +1052,7 @@ Sec. 3. Using the procedures established pursuant to 8 U.S.C. 1324a(e): (a) the 
 
 (c) the Attorney General shall hold such hearings as are required under 8 U.S.C. 1324a(e) to determine whether an entity covered under section 3(a) is not in compliance with the INA employment provisions.
 
-Sec. 4. (a) Whenever the Secretary of Homeland Security or the Attorney General determines that a contractor or an organizational unit thereof is not in compliance with the INA employment provisions, the Secretary of Homeland Security or the Attorney General shall transmit that determination to the appropriate contracting agency and such other Federal agencies as the Secretary of Homeland Security or the Attorney General may determine. Upon receipt of such determination from the Secretary of Homeland Security or the Attorney General, the head of the appropriate contracting agency shall consider the contractor or an organizational unit thereof for debarment as well as for such other action as may be appropriate in accordance with the procedures and standards prescribed by the Federal Acquisition Regulation.
+Sec. 4. (a) Whenever the Secretary of Homeland Security or the Attorney General determines that a contractor or an organizational unit thereof is not in compliance with the INA employment provisions, the Secretary of Homeland Security or the Attorney General shall transmit that determination to the appropriate contracting agency and such other Federal agencies as the Secretary of Homeland Security or the AttorneyGeneral may determine. Upon receipt of such determination from the Secretary of Homeland Security or the Attorney General, the head of the appropriate contracting agency shall consider the contractor or an organizational unit thereof for debarment as well as for such other action as may be appropriate in accordance with the procedures and standards prescribed by the Federal Acquisition Regulation.
 
 (b) The head of the contracting agency may debar the contractor or an organizational unit thereof based on the determination of the Secretary of Homeland Security or the Attorney General that it is not in compliance with the INA employment provisions. Such determination shall not be reviewable in the debarment proceedings.
 

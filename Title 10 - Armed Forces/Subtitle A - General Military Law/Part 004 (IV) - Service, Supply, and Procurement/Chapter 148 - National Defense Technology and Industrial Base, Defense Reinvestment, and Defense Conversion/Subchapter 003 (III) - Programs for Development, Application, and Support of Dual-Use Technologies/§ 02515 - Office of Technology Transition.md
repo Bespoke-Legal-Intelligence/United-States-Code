@@ -6,7 +6,7 @@ Establishment.—The Secretary of Defense shall establish within the Office of t
 
 (b)
 
-Purpose.—The purpose of the office shall be to ensure, to the maximum extent practicable, that technology developed for nationalsecurity purposes is integrated into the private sector of the United States in order to enhance national technology and industrial base, reinvestment, and conversion activities consistent with the objectives set forth in section 2501(a) of this title.
+Purpose.—The purpose of the office shall be to ensure, to the maximum extent practicable, that technology developed for national security purposes is integrated into the private sector of the United States in order to enhance national technology and industrial base, reinvestment, and conversion activities consistent with the objectives set forth in section 2501(a) of this title.
 
 (c)
 

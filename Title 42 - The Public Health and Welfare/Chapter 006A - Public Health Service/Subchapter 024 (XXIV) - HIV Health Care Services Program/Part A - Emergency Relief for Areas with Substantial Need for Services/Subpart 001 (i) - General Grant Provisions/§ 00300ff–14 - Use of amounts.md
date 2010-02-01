@@ -44,7 +44,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (B) Notification of waiver status
 
-&emsp;&emsp;When informing the chief elected official of an eligible area that a grant under section300ff–11 of this title is being made for the area for a grant year, the Secretary shall inform the official whether a waiver under subparagraph (A) is in effect for such year.
+&emsp;&emsp;When informing the chief elected official of an eligible area that a grant under section 300ff–11 of this title is being made for the area for a grant year, the Secretary shall inform the official whether a waiver under subparagraph (A) is in effect for such year.
 
 #### (3) Core medical services
 
@@ -84,7 +84,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (2) Medical outcomes
 
-&emsp;In this subsection, the term “medical outcomes” means those outcomes affecting the HIV-related clinical status of an individual with HIV/AIDS.
+&emsp;In this subsection, the term “medical outcomes” means those outcomes affecting theHIV-related clinical status of an individual with HIV/AIDS.
 
 #### (e) Early intervention services
 
@@ -182,11 +182,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 A chief elected official may not use amounts received under a grant awarded under this subpart to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.
 
-(July 1, 1944, ch. 373, title XXVI, §2604, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 580; amended Pub. L. 103–446, title XII, §1203(a)(3), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–146, §3(b)(4), May 20, 1996, 110 Stat. 1351; Pub. L. 106–345, title I, §121, Oct. 20, 2000, 114 Stat. 1326; Pub. L. 109–415, title I, §§105, 107(b), Dec. 19, 2006, 120 Stat. 2776, 2783.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2604, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 580; amended Pub. L. 103–446, title XII, §1203(a)(3), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–146, §3(b)(4), May 20, 1996, 110 Stat. 1351; Pub. L. 106–345, title I, §121, Oct. 20, 2000, 114 Stat. 1326; Pub. L. 109–415, title I, §§105, 107(b), title VII, §703, Dec. 19, 2006, 120 Stat. 2776, 2783, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### References in Text
 
@@ -198,7 +194,11 @@ A prior section 2604 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-2006—Pub. L. 109–415, §105, amended section generally. Prior to amendment, section related to requirements for allocation of funds, purposes for use of amounts, quality management program, expenditures for personnel, status of grantee as medicaid provider, administrative activities and expenses, and prohibited uses of amounts.
+2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+Pub. L. 109–415, §105, amended section generally. Prior to amendment, section related to requirements for allocation of funds, purposes for use of amounts, quality management program, expenditures for personnel, status of grantee as medicaid provider, administrative activities and expenses, and prohibited uses of amounts.
 
 Subsecs. (h)(1), (2), (5)(A) and (i). Pub. L. 109–415, §107(b), substituted “this subpart” for “this part”.
 
@@ -227,6 +227,10 @@ Subsec. (b)(3). Pub. L. 104–146, §3(b)(4)(C), added par. (3).
 Subsec. (e). Pub. L. 104–146, §3(b)(4)(C), struck out “and planning” after “Administration” in heading, designated existing provisions as par. (1), inserted par. heading, struck out “accounting, reporting, and program oversight functions” after “for administration,”, inserted at end “In the case of entities and subcontractors to which such officer allocates amounts received by the officer under the grant, the officer shall ensure that, of the aggregate amount so allocated, the total of the expenditures by such entities for administrative expenses does not exceed 10 percent (without regard to whether particular entities expend more than 10 percent for such expenses).”, and added pars. (2) and (3).
 
 1994—Subsec. (b)(2)(A). Pub. L. 103–446 substituted “Department of Veterans Affairs facilities” for “Veterans Administration facilities”.
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 1996 Amendment
 

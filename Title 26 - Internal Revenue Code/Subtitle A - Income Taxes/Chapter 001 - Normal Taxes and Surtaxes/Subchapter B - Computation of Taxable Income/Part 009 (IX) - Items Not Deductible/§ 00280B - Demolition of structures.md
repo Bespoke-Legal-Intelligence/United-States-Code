@@ -8,7 +8,7 @@ In the case of the demolition of any structure—
 
 &emsp;&emsp;(B) any loss sustained on account of such demolition; and
 
-&emsp;(2) amounts described in paragraph (1) shall be treated as properly chargeable to capital account with respect to the land on which the demolished structure was located.
+&emsp;(2) amounts described in paragraph (1) shall be treated as properly chargeable to capitalaccount with respect to the land on which the demolished structure was located.
 
 (Added Pub. L. 94–455, title XXI, §2124(b)(1), Oct. 4, 1976, 90 Stat. 1918; amended Pub. L. 95–600, title VII, §701(f)(5), Nov. 6, 1978, 92 Stat. 2902; Pub. L. 96–541, §2(b), Dec. 17, 1980, 94 Stat. 3204; Pub. L. 97–34, title II, §212(d)(2)(C), Aug. 13, 1981, 95 Stat. 239; Pub. L. 98–369, div. A, title X, §1063(a), (b)(1), July 18, 1984, 98 Stat. 1047.)
 

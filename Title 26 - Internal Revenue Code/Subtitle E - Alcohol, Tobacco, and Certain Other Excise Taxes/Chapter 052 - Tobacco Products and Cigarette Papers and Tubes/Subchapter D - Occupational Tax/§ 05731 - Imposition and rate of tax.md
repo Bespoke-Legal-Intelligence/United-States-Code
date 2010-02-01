@@ -38,7 +38,7 @@ A prior section 5731, acts Aug. 16, 1954, ch. 736, 68A Stat. 714; Sept. 2, 1958,
 
 #### Amendments
 
-2005—Subsecs. (c), (d). Pub. L. 109–59 redesignated subsec. (d) as (c) and struck out former subsec. (c). Text read as follows: “Rules similar to the rules of subpart G of part II of subchapter A of chapter 51 shall apply for purposes of this section.”
+2005—Subsecs. (c), (d). Pub. L. 109–59 redesignated subsec. (d) as (c) and struck out former subsec. (c). Textread as follows: “Rules similar to the rules of subpart G of part II of subchapter A of chapter 51 shall apply for purposes of this section.”
 
 #### Effective Date of 2005 Amendment
 

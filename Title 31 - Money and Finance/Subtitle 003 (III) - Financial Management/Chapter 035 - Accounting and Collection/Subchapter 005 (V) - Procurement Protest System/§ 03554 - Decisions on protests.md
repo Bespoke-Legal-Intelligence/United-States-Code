@@ -14,15 +14,17 @@
 
 &emsp;(B) recompete the contract immediately;
 
-&emsp;(C) issue a new solicitation;
+&emsp;(C) cancel the solicitation issued pursuant to the public-private competition conducted under Office of Management and Budget Circular A–76 or any successor circular;
 
-&emsp;(D) terminate the contract;
+&emsp;(D) issue a new solicitation;
 
-&emsp;(E) award a contract consistent with the requirements of such statute and regulation;
+&emsp;(E) terminate the contract;
 
-&emsp;(F) implement any combination of recommendations under clauses (A), (B), (C), (D), and (E); or
+&emsp;(F) award a contract consistent with the requirements of such statute and regulation;
 
-&emsp;(G) implement such other recommendations as the Comptroller General determines to be necessary in order to promote compliance with procurement statutes and regulations.
+&emsp;(G) implement any combination of recommendations under clauses (A), (B), (C), (D), (E), and (F); or
+
+&emsp;(H) implement such other recommendations as the Comptroller General determines to be necessary in order to promote compliance with procurement statutes and regulations.
 
 (2) If the head of the procuring activity responsible for a contract makes a finding under section 3553(d)(3)(C)(i)(I) of this title, the Comptroller General shall make recommendations under this subsection without regard to any cost or disruption from terminating, recompeting, or reawarding the contract.
 
@@ -46,7 +48,7 @@
 
 &emsp;(B) if the Federal agency does not make such payment, promptly report to the Comptroller General the reasons for the failure to follow the Comptroller General's recommendation.
 
-(4) If the Comptroller General recommends under paragraph (1) that a Federal agency pay costs to an interested party, the Federal agency and the interested party shall attempt to reach an agreement on the amount of the costs to be paid. If the Federal agency and the interested party are unable to agree on the amount to be paid, the Comptroller General may, upon the request of the interested party, recommend to the Federal agency the amount of the costs that the Federal agency should pay.
+(4) If the Comptroller General recommends under paragraph (1) that a Federal agency pay costs to an interested party, the Federal agency and the interested party shall attempt to reach an agreement on the amount of the costs to be paid. If the Federal agency and the interestedparty are unable to agree on the amount to be paid, the Comptroller General may, upon the request of the interested party, recommend to the Federal agency the amount of the costs that the Federal agency should pay.
 
 (d) Each decision of the Comptroller General under this subchapter shall be signed by the Comptroller General or a designee for that purpose. A copy of the decision shall be made available to the interested parties, the head of the procuring activity responsible for the solicitation, proposed award, or award of the contract, and the senior procurement executive of the Federal agency involved.
 
@@ -66,13 +68,15 @@
 
 (2) Not later than January 31 of each year, the Comptroller General shall transmit to the Congress a report containing a summary of each instance in which a Federal agency did not fully implement a recommendation of the Comptroller General under subsection (b) or (c) during the preceding year. The report shall also describe each instance in which a final decision in a protest was not rendered within 100 days after the date the protest is submitted to the Comptroller General.
 
-(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1201; amended Pub. L. 100–463, title VIII, §8139, Oct. 1, 1988, 102 Stat. 2270–47; Pub. L. 103–355, title I, §1403(a)–(b)(3), Oct. 13, 1994, 108 Stat. 3289, 3290; Pub. L. 104–106, div. D, title XLIII, §4321(d)(3), div. E, title LV, §5501(2), Feb. 10, 1996, 110 Stat. 674, 698.)
+(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1201; amended Pub. L. 100–463, title VIII, §8139, Oct. 1, 1988, 102 Stat. 2270–47; Pub. L. 103–355, title I, §1403(a)–(b)(3), Oct. 13, 1994, 108 Stat. 3289, 3290; Pub. L. 104–106, div. D, title XLIII, §4321(d)(3), div. E, title LV, §5501(2), Feb. 10, 1996, 110 Stat. 674, 698; Pub. L. 111–84, div. A, title III, §327(c), Oct. 28, 2009, 123 Stat. 2255.)
 
 #### References in Text
 
 Section 3(a) of the Small Business Act, referred to in subsec. (c)(2), is classified to section 632(a) of Title 15, Commerce and Trade.
 
 #### Amendments
+
+2009—Subsec. (b)(1)(C) to (H). Pub. L. 111–84 added subpar. (C), redesignated former subpars. (C) to (G) as (D) to (H), respectively, and substituted “, (E), and (F)” for “, and (E)” in subpar. (G).
 
 1996—Subsec. (a)(1). Pub. L. 104–106, §5501(2)(A), substituted “100 days” for “125 days”.
 
@@ -114,6 +118,10 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–84 applicable to any protest or civil action that relates to a public-private competition conducted after Oct. 28, 2009, under Office of Management and Budget Circular A–76, or any successor circular, and to a decision made after Oct. 28, 2009, to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76,see section 327(d) of Pub. L. 111–84, set out as a note under section 3551 of this title.
+
 #### Effective Date of 1996 Amendment
 
 For effective date and applicability of amendment by section 4321(d)(3) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
@@ -130,5 +138,5 @@ Section applicable with respect to any protest filed after Jan. 14, 1985, see se
 
 #### Prompt Payment of Costs Under Prior Law
 
-Section 1403(b)(4) of Pub. L. 103–355 provided that: “Costs to which the Comptroller General declared aninterested party to be entitled under section 3554 of title 31, United States Code, as in effect immediately before the enactment of this Act \[Oct. 13, 1994\], shall, if not paid or otherwise satisfied by the Federal agency concerned before the date of the enactment of this Act, be paid promptly.”
+Section 1403(b)(4) of Pub. L. 103–355 provided that: “Costs to which the Comptroller General declared an interested party to be entitled under section 3554 of title 31, United States Code, as in effect immediately before the enactment of this Act \[Oct. 13, 1994\], shall, if not paid or otherwise satisfied by the Federal agency concerned before the date of the enactment of this Act, be paid promptly.”
 

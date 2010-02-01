@@ -10,7 +10,7 @@ Section 874, Pub. L. 89–10, title VI, §604, as added Pub. L. 89–750, title 
 
 Section 875, Pub. L. 89–10, title VI, §605, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1207, provided for payments.
 
-Section 876, Pub. L. 89–10, tile VI, §606, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1207; amended Pub. L. 90–247, title I, §151(4), Jan. 2, 1968, 81 Stat. 800, related to administration of State plans.
+Section 876, Pub. L. 89–10, title VI, §606, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1207; amended Pub. L. 90–247, title I, §151(4), Jan. 2, 1968, 81 Stat. 800, related to administration of State plans.
 
 Section 877, Pub. L. 89–10, title VI, §607, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1207, provided for judicial review: jurisdiction, record; findings, substantial evidence, remand; review by United States Supreme Court.
 

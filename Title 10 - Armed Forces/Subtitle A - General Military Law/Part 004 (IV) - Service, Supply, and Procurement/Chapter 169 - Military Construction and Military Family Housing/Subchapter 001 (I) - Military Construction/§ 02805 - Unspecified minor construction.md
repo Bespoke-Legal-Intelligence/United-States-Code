@@ -2,9 +2,9 @@
 
 (a)
 
-Authority to Carry Out Unspecified Minor Military Construction Projects.—(1) Except as provided in paragraph (2), within an amount equal to 125 percent of the amount authorized by law for such purpose, the Secretary concerned may carry out unspecified minor military construction projects not otherwise authorized by law. An unspecified minor military construction project is a military construction project that has an approved cost equal to or less than $2,000,000. However, if the military construction project is intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening, an unspecified minor military construction project may have an approved cost equal to or less than $3,000,000.
+Authority to Carry Out Unspecified Minor Military Construction Projects.—(1) Within an amount equal to 125 percent of the amount authorized by law for such purpose, the Secretary concerned may carry out unspecified minor military construction projects not otherwise authorized by law.
 
-(2) A Secretary may not use more than $5,000,000 for exercise-related unspecified minor military construction projects coordinated or directed by the Joint Chiefs of Staff outside the United States during any fiscal year.
+(2) An unspecified minor military construction project is a military construction project that has an approved cost equal to or less than $2,000,000. However, if the military construction project is intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening, an unspecified minor military construction project may have an approved cost equal to or less than $3,000,000.
 
 (b)
 
@@ -14,15 +14,13 @@ Approval and Congressional Notification.—(1) An unspecified minor military con
 
 (c)
 
-Use of Operation and Maintenance Funds.—(1) Except as provided in paragraphs (2) and (3), the Secretary concerned may spend from appropriations available for operation and maintenance amounts necessary to carry out an unspecified minor military construction project costing not more than—
+Use of Operation and Maintenance Funds.—(1) Except as provided in paragraph (2), the Secretary concerned may spend from appropriations available for operation and maintenance amounts necessary to carry out an unspecified minor military construction project costing not more than—
 
 &emsp;(A) $1,500,000, in the case of an unspecified minor military construction project intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening; or
 
 &emsp;(B) $750,000, in the case of any other unspecified minor military construction project.
 
-(2) The authority provided in paragraph (1) may not be used with respect to any exercise-related unspecified minor military construction project coordinated or directed by the Joint Chiefs of Staff outside the United States.
-
-(3) The limitations specified in paragraph (1) shall not apply to an unspecified minor military construction project if the project is to be carried out using funds made available to enhance the deployment and mobility of military forces and supplies.
+(2) The limitations specified in paragraph (1) shall not apply to an unspecified minor military construction project if the project is to be carried out using funds made available to enhance the deployment and mobility of military forces and supplies.
 
 (d)
 
@@ -30,29 +28,35 @@ Laboratory Revitalization.—(1) For the revitalization and recapitalization of 
 
 &emsp;(A) from appropriations available to the Secretary concerned for operation and maintenance, amounts necessary to carry out an unspecified minor military construction project costing not more than $2,000,000; or
 
-&emsp;(B) from appropriations available to the Secretary concerned for military construction not otherwise authorized by law, amounts necessary to carry out an unspecified minor military construction project costing not more than $4,000,000.
+&emsp;(B) from appropriations available to the Secretary concerned for military construction not otherwise authorized by law or from funds authorized to be made available under section 219(a) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. 2358 note), amounts necessary to carry out an unspecified minor military construction project costing not more than $4,000,000.
 
 (2) For an unspecified minor military construction project conducted pursuant to this subsection, $2,000,000 shall be deemed to be the amount specified in subsection (b)(1) regarding when advance approval of the project by the Secretary concerned and congressional notification is required. The Secretary of Defense shall establish procedures for the review and approval of requests from the Secretary of a military department to carry out a construction project under this subsection.
 
-(3) For purposes of this subsection, the total amount allowed to be applied in any one fiscal year to projects at any one laboratory shall be limited to the larger of the amounts applicable under paragraph (1).
+(3) Not later than February 1, 2010, the Secretary of Defense shall submit to the congressional defense committees a report on the use of the authority provided by this subsection. The report shall include a list and description of the construction projects carried out under this subsection, including the location and cost of each project.
 
-(4) Not later than February 1, 2010, the Secretary of Defense shall submit to the congressional defense committees a report on the use of the authority provided by this subsection. The report shall include a list and description of the construction projects carried out under this subsection, including the location and cost of each project.
-
-(5) In this subsection, the term “laboratory” includes—
+(4) In this subsection, the term “laboratory” includes—
 
 &emsp;(A) a research, engineering, and development center; and
 
 &emsp;(B) a test and evaluation activity.
 
-(6) The authority to carry out a project under this subsection expires on September 30, 2012.
+(5) The authority to carry out a project under this subsection expires on September 30, 2012.
 
 (e)
 
 Prohibition on Use for New Housing Units.— Military family housing projects for construction of new housing units may not be carried out under the authority of this section.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 155; amended Pub. L. 99–167, title VIII, §809, Dec. 3, 1985, 99 Stat. 989; Pub. L. 99–661, div. B, title VII, §2702(a), Nov. 14, 1986, 100 Stat. 4040; Pub. L. 100–180, div. B, subdiv. 3, title I, §2310, Dec. 4, 1987, 101 Stat. 1217; Pub. L. 101–510, div. A, title XIII, §1301(16), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. B, title XXVIII, §§2807, 2870(4), Dec. 5, 1991, 105 Stat. 1540, 1563; Pub. L. 104–106, div. B, title XXVIII, §§2811(a), 2812, Feb. 10, 1996, 110 Stat. 552; Pub. L. 104–201, div. B, title XXVIII, §2801(a), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 105–85, div. B, title XXVIII, §2801, Nov. 18, 1997, 111 Stat. 1989; Pub. L. 107–107, div. B, title XXVIII, §2801, Dec. 28, 2001, 115 Stat. 1305; Pub. L. 108–136, div. A, title X, §1031(a)(36), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 110–181, div. B, title XXVIII, §§2803, 2804, Jan. 28, 2008, 122 Stat. 539.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 155; amended Pub. L. 99–167, title VIII, §809, Dec. 3, 1985, 99 Stat. 989; Pub. L. 99–661, div. B, title VII, §2702(a), Nov. 14, 1986, 100 Stat. 4040; Pub. L. 100–180, div. B, subdiv. 3, title I, §2310, Dec. 4, 1987, 101 Stat. 1217; Pub. L. 101–510, div. A, title XIII, §1301(16), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. B, title XXVIII, §§2807, 2870(4), Dec. 5, 1991, 105 Stat. 1540, 1563; Pub. L.104–106, div. B, title XXVIII, §§2811(a), 2812, Feb. 10, 1996, 110 Stat. 552; Pub. L. 104–201, div. B, title XXVIII, §2801(a), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 105–85, div. B, title XXVIII, §2801, Nov. 18, 1997, 111 Stat. 1989; Pub. L. 107–107, div. B, title XXVIII, §2801, Dec. 28, 2001, 115 Stat. 1305; Pub. L. 108–136, div. A, title X, §1031(a)(36), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 110–181, div. B, title XXVIII, §§2803, 2804, Jan. 28, 2008, 122 Stat. 539; Pub. L. 111–84, div. B, title XXVIII, §2801(a)(1), (2), (b), Oct. 28, 2009, 123 Stat. 2660.)
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–84, §2801(a)(1), substituted “Within” for “Except as provided in paragraph (2), within” in par. (1), redesignated the second and third sentences of par. (1) as par. (2), and struck out former par. (2) which read as follows: “A Secretary may not use more than $5,000,000 for exercise-related unspecified minor military construction projects coordinated or directed by the Joint Chiefs of Staff outside the United States during any fiscal year.”
+
+Subsec. (c). Pub. L. 111–84, §2801(a)(2), substituted “paragraph (2)” for “paragraphs (2) and (3)” in par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “The authority provided in paragraph (1) may not be used with respect to any exercise-related unspecified minor military construction project coordinated or directed by the Joint Chiefs of Staff outside the United States.”
+
+Subsec. (d)(1)(B). Pub. L. 111–84, §2801(b)(1), inserted “or from funds authorized to be made available under section 219(a) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. 2358 note)” after “authorized by law”.
+
+Subsec. (d)(3) to (6). Pub. L. 111–84, §2801(b)(2), (3), redesignated pars. (4) to (6) as (3) to (5), respectively, and struck out former par. (3) which read as follows: “For purposes of this subsection, the total amount allowed to be applied in any one fiscal year to projects at any one laboratory shall be limited to the larger of the amounts applicable under paragraph (1).”
 
 2008—Subsec. (a). Pub. L. 110–181, §2804(b)(1), inserted subsec. heading.
 
@@ -96,7 +100,7 @@ Subsec. (c)(1)(B). Pub. L. 104–201 substituted “$500,000” for “$300,000�
 
 1991—Subsec. (a)(1). Pub. L. 102–190, §2807(a), substituted “$1,500,000” for “$1,000,000”.
 
-Subsec. (b)(2). Pub. L. 102–190, §2870(4), in second sentence struck out “(A)” after “carried out only” and“, or (B) after each such committee approves the project, if the committees approve the project before the end of that period” before period at end.
+Subsec. (b)(2). Pub. L. 102–190, §2870(4), in second sentence struck out “(A)” after “carried out only” and “, or (B) after each such committee approves the project, if the committees approve the project before the end of that period” before period at end.
 
 Subsec. (c)(1). Pub. L. 102–190, §2807(b), substituted “$300,000” for “$200,000”.
 
@@ -122,7 +126,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 #### Relation to Other Authorities
 
-Pub. L. 108–136, div. B, title XXVIII, §2808(e), Nov. 24, 2003, 117 Stat. 1724, provided that: “The temporary authority provided by this section \[117 Stat. 1723\], and the limited authority provided by section 2805(c) of title 10, United States Code, to use appropriated funds available for operation and maintenance to carry out a construction project are the only authorities available to the Secretary of Defense and the Secretaries of the military departments to use appropriated funds available for operation and maintenance to carry out construction projects.”
+Pub. L. 108–136, div. B, title XXVIII, §2808(e), Nov. 24, 2003, 117 Stat. 1724, provided that: “The temporary authority provided by this section \[117 Stat. 1723\], and the limited authority provided by section 2805(c) of title 10, United States Code, to use appropriated funds availablefor operation and maintenance to carry out a construction project are the only authorities available to the Secretary of Defense and the Secretaries of the military departments to use appropriated funds available for operation and maintenance to carry out construction projects.”
 
 #### Department of Defense Laboratory Revitalization Demonstration Program
 

@@ -66,7 +66,7 @@ Awarding contracts.—In awarding a contract for the transportation by vessel of
 
 Nonavailability of vessels.—A determination of nonavailability of vessels of the United States resulting from the application of this subsection may not reduce the gross tonnage of commodities required by this section and section 55305 of this title to be transported on vessels of the United States.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1645; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Y), June 18, 2008, 122 Stat. 1820, 1821; Pub. L. 110–417, div. C, title XXXV, §3511(d), Oct. 14, 2008, 122 Stat. 4770.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1645; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Y), June 18, 2008, 122 Stat. 1820, 1821; Pub. L. 110–417, div. C, title XXXV, §3511(d), Oct. 14, 2008, 122 Stat. 4770; Pub. L. 111–84, div. A, title X, §1073(c)(15), Oct. 28, 2009, 123 Stat. 2475.)
 
 Historical and Revision Notes
 
@@ -112,15 +112,31 @@ In subsection (c)(4), before subparagraph (A), the words “or instrumentality�
 
 #### References in Text
 
-The Food for Peace Act, referred to in subsecs. (b)(1) and (c)(2), is act July 10, 1954, ch. 469, 68 Stat. 454, whichis classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. Title II of the Act is classified generally to subchapter III (§1721 et seq.) of chapter 41 of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsecs. (b)(1) and (c)(2), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. Title II of the Act is classified generally to subchapter III (§1721 et seq.) of chapter 41 of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
-The Shipping Act of 1984, referred to in subsec. (c)(4)(B), is Pub. L. 98–237, Mar. 20, 1984, 98 Stat. 67, which was classified principally to chapter 36 (§1701 et seq.) of the former Appendix to this title. The Act was primarily repealed and restated in part A of subtitle IV of this title by Pub. L. 109–304, §§7, 19, Oct. 6, 2006, 120 Stat. 1523, 1710. For complete classification of Pub. L. 98–237 to the Code, see Tables. For disposition of sections of the former Appendix to this title, see Disposition Table preceding section 101 of this title.
+The Shipping Act of 1984, referred to in subsec. (c)(4)(B), is Pub. L. 98–237, Mar. 20, 1984, 98 Stat. 67, which was classified principally to chapter 36 (§1701 et seq.) of the former Appendix to this title. The Act was primarily repealed and restated in part A of subtitle IV of this title by Pub. L. 109–304, §§7, 19, Oct. 6, 2006, 120 Stat. 1523, 1710. For complete classification of Pub. L.98–237 to the Code, see Tables. For disposition of sections of the former Appendix to this title, see Disposition Table preceding section 101 of this title.
 
 #### Amendments
 
-2008—Subsec. (a)(1), (2). Pub. L. 110–417, which directed amendment of subsec. (a) by substituting “fiscal” for “calendar” each place it appears, was executed by substituting “fiscal” for “calendar” in pars. (1) and (2) and “Fiscal” for “Calendar” in the heading for par. (2), to reflect the probable intent of Congress.
+2009—Subsec. (a). Pub. L. 111–84 amended directory language of Pub. L. 110–417, §3511(d). See 2008 Amendment notes below.
+
+2008—Subsec. (a). Pub. L. 110–417, §3511(d), as amended by Pub. L. 111–84, substituted “fiscal” for “calendar” in two places in text.
+
+Subsec. (a)(2). Pub. L. 110–417, §3511(d), as amended by Pub. L. 111–84, which directed substitution of “
+
+fiscal” for “
+
+calendar” in heading, was executed by substituting “
+
+Fiscal” for “
+
+Calendar” to reflect the probable intent of Congress.
 
 Subsecs. (b)(1), (c)(2). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(15) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 #### Effective Date of 2008 Amendment
 

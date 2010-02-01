@@ -52,7 +52,7 @@ Land grant universities described in subsection (b) of this section shall use fu
 
 &emsp;(6) to collaborate with the Great Plains Regional Earth Science Application Center to develop a space-based carbon cycle remote sensing technology program to—
 
-&emsp;&emsp;(A) provide, on a near-continual basis, a real-time and comprehensive review of vegetation conditions;
+&emsp;&emsp;(A) provide, on a near-continual basis, a real-time and comprehensive view of vegetation conditions;
 
 &emsp;&emsp;(B) assess and model agricultural carbon sequestration; and
 
@@ -116,7 +116,7 @@ Land grant universities described in subsection (b) of this section shall use fu
 
 #### (f) Administrative costs
 
-Not more than 3 percent of the funds made available for this section may be used by the Secretary to pay administrative costs incurred in carrying out this section.
+Not more than 3 percent of the funds made available for this section may be used by theSecretary to pay administrative costs incurred in carrying out this section.
 
 #### (g) Authorization of appropriations
 
@@ -146,5 +146,5 @@ Subsec. (g). Pub. L. 107–171, §7223(3), added subsec. (g).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

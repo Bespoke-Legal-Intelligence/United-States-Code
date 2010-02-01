@@ -38,7 +38,7 @@ Establishment and Transmission of List of Approved Annuity Brokers.—Not later 
 
 “(b)
 
-Authority To Select Annuity Broker for Structured Settlements.—In any structured settlement that is not negotiated exclusively through the Civil Division of the Department of Justice, the United States Attorney (or his designee) involved in any settlement negotiations shall have the exclusive authority to select an annuity broker from the list of such brokers established by the Attorney General, provided that all documents related to any settlement comply with Department of Justice requirements.”
+Authority To Select Annuity Broker for Structured Settlements.—In any structured settlement that is not negotiated exclusively through theCivil Division of the Department of Justice, the United States Attorney (or his designee) involved in any settlement negotiations shall have the exclusive authority to select an annuity broker from the list of such brokers established by the Attorney General, provided that all documents related to any settlement comply with Department of Justice requirements.”
 
 #### Case Management Information and Tracking Systems for Federal Judicial Districts and Divisions of Department; Preparation, Submission, Etc., of Plan
 
@@ -172,7 +172,7 @@ Sec. 3. <i>Principles to Enact Legislation and Promulgate Regulations Which Do N
 
 Sec. 4. <i>Principles to Promote Just and Efficient Administrative Adjudications.</i>
 
-(a) <i>Implementation of Administrative Conference Recommendations</i>. In order to promote just and efficient resolution of disputes, an agency that adjudicates administrative claims shall, to the extent reasonable and practicable, and when not in conflict with other sections of this order, implement the recommendations of the Administrative Conference of the United States, entitled “Case Management as a Tool for Improving Agency Adjudication,” as contained in 1 C.F.R. 305.86-7 (1991).
+(a) <i>Implementation of Administrative Conference Recommendations</i>. In order to promote just and efficient resolution of disputes, an agency that adjudicates administrative claims shall, to the extent reasonable and practicable, and when not in conflict with other sections ofthis order, implement the recommendations of the Administrative Conference of the United States, entitled “Case Management as a Tool for Improving Agency Adjudication,” as contained in 1 C.F.R. 305.86-7 (1991).
 
 (b) <i>Improvements in Administrative Adjudication</i>. All Federal agencies should review their administrative adjudicatory processes and develop specific procedures to reduce delay in decision-making, to facilitate self-representation where appropriate, to expand non-lawyer counseling and representation where appropriate, and to invest maximum discretion in fact-finding officers to encourage appropriate settlement of claims as early as possible.
 

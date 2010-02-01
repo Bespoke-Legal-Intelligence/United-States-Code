@@ -14,7 +14,7 @@
 
 &emsp;(1) the violation results in the death of the victim; or
 
-&emsp;(2) the violation includes kidnaping, an attempt to kidnap, aggravated sexual abuse, anattempt to commit aggravated sexual abuse, or an attempt to kill.
+&emsp;(2) the violation includes kidnaping, an attempt to kidnap, aggravated sexual abuse, an attempt to commit aggravated sexual abuse, or an attempt to kill.
 
 (June 25, 1948, ch. 645, 62 Stat. 772; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, §218(a), Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 106–386, div. A, §112(a)(1), Oct. 28, 2000, 114 Stat. 1486; Pub. L. 110–457, title II, §222(b)(1), Dec. 23, 2008, 122 Stat. 5067.)
 

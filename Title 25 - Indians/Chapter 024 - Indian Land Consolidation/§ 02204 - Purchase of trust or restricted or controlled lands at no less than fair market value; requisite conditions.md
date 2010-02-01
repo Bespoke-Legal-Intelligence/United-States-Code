@@ -122,7 +122,7 @@ Subsection (a) of this section applies on the condition that—
 
 #### (I) Service by certified mail
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall use due diligence to provide all owners of interests in the subject parcel, as evidenced by the Secretary's records at the time of the determination under subparagraph (C), with actual notice of the partition proceedings by mailing a copy of the written notice described in clause (i) by certified mail, restricted delivery, to each such owner at the owner's last known address. For purposes of this subsection, owners shall be determined from the Secretary's land title records as of the date of the determination under subparagraph (C) or a date that is not more than 90 days prior to the date of mailing under this clause, whichever is later. In the event the written notice to an owner is returned undelivered, the Secretary shall attempt to obtain a current address for such owner by conducting a reasonable search (including a reasonable search of records maintained by local, State, Federal and tribal governments and agencies) and by inquiring with the Indian tribe with jurisdiction over the subject parcel, and, if different from that tribe, the Indian tribe of which the owner is a member, and, if successful in locating any such owner, send written notice by certified mail in accordance with this subclause.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall use due diligence to provide all owners of interests in the subject parcel, as evidenced by the Secretary's records at the time of the determination under subparagraph (C), with actual notice of the partition proceedings by mailing a copy of the written notice described in clause (i) by certified mail, restricted delivery, to each such owner at the owner's last known address. For purposes of this subsection, owners shall be determined from the Secretary's land title records as of the date of the determination under subparagraph (C) or a date that is not more than 90 days prior to the date of mailing under this clause, whichever is later. In the event the written notice to an owner is returned undelivered, the Secretary shall attempt to obtain a current address for such owner by conducting a reasonablesearch (including a reasonable search of records maintained by local, State, Federal and tribal governments and agencies) and by inquiring with the Indian tribe with jurisdiction over the subject parcel, and, if different from that tribe, the Indian tribe of which the owner is a member, and, if successful in locating any such owner, send written notice by certified mail in accordance with this subclause.
 
 #### (II) Notice by publication
 
@@ -130,7 +130,7 @@ Subsection (a) of this section applies on the condition that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) publishing the notice described in clause (i) at least 2 times in a newspaper of general circulation in the county or counties where the subject parcel of land is located or, if there is an Indian tribe with jurisdiction over the parcel of land and that tribe publishes a tribal newspaper or newsletter at least once every month, 1 time in such newspaper of general circulation and 1 time in such tribal newspaper or newsletter;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) posting such notice in a conspicuous place in the tribal headquarters or administration building (orsuch other tribal building determined by the Secretary to be most appropriate for giving public notice) of the Indian tribe with jurisdiction over the parcel of land, if any; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) posting such notice in a conspicuous place in the tribal headquarters or administration building (or such other tribal building determined by the Secretary to be most appropriate for giving public notice) of the Indian tribe with jurisdiction over the parcel of land, if any; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) in addition to the foregoing, in the Secretary's discretion, publishing notice in any other place or means that the Secretary determines to be appropriate.
 
@@ -188,7 +188,7 @@ Subsection (a) of this section applies on the condition that—
 
 &emsp;&emsp;&emsp;&emsp;(II) Any person who is a member, or is eligible to be a member, of the Indian tribe described in subclause (I).
 
-&emsp;&emsp;&emsp;&emsp;(III) Any person who is a member, or is eligible to be a member, of an Indian tribe but not of the tribe described in subclause (I), but only if such person already owns an undivided interest in the parcel at the time of sale.
+&emsp;&emsp;&emsp;&emsp;(III) Any person who is a member, or is eligible to be a member, of an Indiantribe but not of the tribe described in subclause (I), but only if such person already owns an undivided interest in the parcel at the time of sale.
 
 &emsp;&emsp;&emsp;&emsp;(IV) Any lineal descendent of the original allottee of the parcel who is a member or is eligible to be a member of an Indian tribe or, with respect to a parcel located in the State of California that is not within an Indian tribe's reservation or not otherwise subject to the jurisdiction of an Indian tribe, who is a member, or eligible to be a member, of an Indian tribe or owns a trust or restricted interest in the parcel.
 
@@ -330,7 +330,7 @@ Par. (1). Pub. L. 98–608 redesignated par. (2) as (1) and inserted “for at l
 
 Par. (2). Pub. L. 98–608 added par. (2). Former par. (2) redesignated (1).
 
-Pars. (3), (4). Pub. L. 98–608 redesignated par. (4) as (3), and in par. (3), as so redesignated, substituted “subject to approval” for “approved” and struck out former par. (3), which provided that “this section shall not apply to any tract of land owned by less than fifteen persons; and”.
+Pars. (3), (4). Pub. L. 98–608 redesignated par. (4) as (3), and in par. (3), as so redesignated, substituted “subjectto approval” for “approved” and struck out former par. (3), which provided that “this section shall not apply to any tract of land owned by less than fifteen persons; and”.
 
 #### Effective Date of 2005 Amendment
 

@@ -20,6 +20,10 @@ Historical and Revision Notes
 
 A definition of “agency” is added to avoid having to repeat the substance of the definition at various places in the revised title.
 
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–83, title V, §561(a), Oct. 28, 2009, 123 Stat. 2182, provided that: “This section \[amending section 70103 of this title and sections 114 and 40119 of Title 49, Transportation\] may be cited as the ‘American Communities’ Right to Public Information Act’.”
+
 #### Short Title of 2003 Amendment
 
 Pub. L. 108–136, div. C, title XXXV, §3501, Nov. 24, 2003, 117 Stat. 1789, provided that: “This title \[see Tables for classification\] may be cited as the ‘Maritime Security Act of 2003’.”
@@ -72,7 +76,7 @@ Pub. L. 99–626, §1, Nov. 7, 1986, 100 Stat. 3504, provided that: “This act 
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–498, title II, §210, Oct. 19, 1984, 98 Stat. 2303, provided that: “This subtitle \[subtitle A (§§210–214) of title II of Pub. L. 98–498, see Tables for classification\] may be cited as the ‘Maritime Safety Act of 1984’.”
+Pub. L. 98–498, title II, §210, Oct. 19, 1984, 98 Stat. 2303, provided that: “This subtitle \[subtitle A (§§210–214) oftitle II of Pub. L. 98–498, see Tables for classification\] may be cited as the ‘Maritime Safety Act of 1984’.”
 
 Pub. L. 98–364, title IV, §401, July 17, 1984, 98 Stat. 445, provided that: “This title \[see Tables for classification\] may be cited as the ‘Commercial Fishing Industry Vessel Act’.”
 

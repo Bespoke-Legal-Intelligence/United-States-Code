@@ -4,7 +4,7 @@
 
 #### (b) Restriction
 
-Any employee described in more than one paragraph of subsection (a) of this section may qualify for a recruitment or retention differential under only one of those paragraphs.
+Any employee described in more than one paragraph of subsection (a) of this section mayqualify for a recruitment or retention differential under only one of those paragraphs.
 
 #### (c) Recruitment and relocation bonuses
 
@@ -26,7 +26,7 @@ Any employee described in more than one paragraph of subsection (a) of this sect
 
 &emsp;(A) shall be in a fixed amount;
 
-&emsp;(B) shall be paid on a pro rata basis (over the period specified by the Commission as essential for the retention of the employee), withsuch payments to be made at the same time and in the same manner as basic pay; and
+&emsp;(B) shall be paid on a pro rata basis (over the period specified by the Commission as essential for the retention of the employee), with such payments to be made at the same time and in the same manner as basic pay; and
 
 &emsp;(C) may not be considered to be part of the basic pay of an employee.
 

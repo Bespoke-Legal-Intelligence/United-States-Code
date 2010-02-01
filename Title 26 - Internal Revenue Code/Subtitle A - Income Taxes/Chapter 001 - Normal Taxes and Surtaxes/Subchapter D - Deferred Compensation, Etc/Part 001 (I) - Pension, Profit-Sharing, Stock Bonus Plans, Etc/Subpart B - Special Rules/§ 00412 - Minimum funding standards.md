@@ -126,7 +126,7 @@
 
 #### (B) Special rule if employer is member of controlled group
 
-&emsp;&emsp;In the case of a defined benefit plan which is not a multiemployer plan, if an employeris a member of a controlled group, the temporary substantial business hardship requirements of paragraph (1) shall be treated as met only if such requirements are met—
+&emsp;&emsp;In the case of a defined benefit plan which is not a multiemployer plan, if an employer is a member of a controlled group, the temporary substantial business hardship requirements of paragraph (1) shall be treated as met only if such requirements are met—
 
 &emsp;&emsp;&emsp;(i) with respect to such employer, and
 
@@ -138,7 +138,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall, before granting a waiver under this subsection, require each applicant to provide evidence satisfactory to the Secretary that the applicant has provided notice of the filing of the application for such waiver to each affected party (as defined in section 4001(a)(21) of the Employee Retirement Income Security Act of 1974). Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteed under title IV of the Employee Retirement Income Security Act of 1974 and for benefit liabilities.
+&emsp;&emsp;The Secretary shall, before granting a waiver under this subsection, require eachapplicant to provide evidence satisfactory to the Secretary that the applicant has provided notice of the filing of the application for such waiver to each affected party (as defined in section 4001(a)(21) of the Employee Retirement Income Security Act of 1974). Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteed under title IV of the Employee Retirement Income Security Act of 1974 and for benefit liabilities.
 
 #### (B) Consideration of relevant information
 
@@ -254,7 +254,7 @@ Subsec. (c)(7)(A). Pub. L. 110–458, §101(a)(2)(B), inserted “which reduces 
 
 Subsec. (d)(1). Pub. L. 110–458, §101(a)(2)(C), struck out “, the valuation date,” after “If the funding method”.
 
-2006—Pub. L. 109–280, §111(a), reenacted heading without change and amended text generally, substituting provisions relating to minimum funding standard requirement, liability for contributions, variance from minimum funding standards, miscellaneous rules, and plans to which section applies, consisting of subsecs. (a) to (e), for provisions relating to general rule for satisfaction of minimum funding standard, funding standard account, special rules, variance from minimum funding standard, extension of amortization periods, requirements relating to waivers and extensions, alternative minimum funding standard, exceptions, certain insurance contract plans, certain terminated multiemployerplans, financial assistance, additional funding requirements for plans which are not multiemployer plans, quarterly contributions requirement, and imposition of lien where failure to make required contributions, consisting of subsecs. (a) to (n).
+2006—Pub. L. 109–280, §111(a), reenacted heading without change and amended text generally, substituting provisions relating to minimum funding standard requirement, liability for contributions, variance from minimum funding standards, miscellaneous rules, and plans to which section applies, consisting of subsecs. (a) to (e), for provisions relating to general rule for satisfaction of minimum funding standard, funding standard account, special rules, variance from minimum funding standard, extension of amortization periods, requirements relating to waivers and extensions, alternative minimum funding standard, exceptions, certain insurance contract plans, certain terminated multiemployer plans, financial assistance, additional funding requirements for plans which are not multiemployer plans, quarterly contributions requirement, and imposition of lien where failure to make required contributions, consisting of subsecs. (a) to (n).
 
 Subsec. (b)(3). Pub. L. 109–280, §§212(c), 221(c), temporarily added par. (3). See Effective and Termination Dates of 2006 Amendment note below.
 
@@ -516,7 +516,7 @@ Funding improvement and rehabilitation plans.—If a plan is operating under a f
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 101(b)(1)–(3) of Pub. L. 108–218 applicable, except as otherwise provided, to plan yearsbeginning after Dec. 31, 2003, see section 101(d) of Pub. L. 108–218, set out as a note under section 404 of this title.
+Amendment by section 101(b)(1)–(3) of Pub. L. 108–218 applicable, except as otherwise provided, to plan years beginning after Dec. 31, 2003, see section 101(d) of Pub. L. 108–218, set out as a note under section 404 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -736,7 +736,7 @@ Change in Actuarial Method.—Any amortization installments for bases establishe
 
 \[Pub. L. 109–280, title I, §115(e)(2), Aug. 17, 2006, 120 Stat. 856, provided that: “The amendment made by paragraph (1) \[amending section 769 of Pub. L. 103–465, set out above\] shall take effect on December 31, 2007, and shall apply to plan years beginning after such date.”\]
 
-\[Pub. L. 108–218, title II, §201(b), Apr. 10, 2004, 118 Stat. 608, provided that: “The amendments made by this section \[amending section 769 of Pub. L. 103–465, set out above\] shall apply to plan years beginning after December 31, 2003.”\]
+\[Pub. L. 108–218, title II, §201(b), Apr. 10, 2004, 118 Stat. 608, provided that: “The amendments made by this section \[amending section 769 of Pub. L. 103–465, setout above\] shall apply to plan years beginning after December 31, 2003.”\]
 
 \[Section 1508(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending section 769 of Pub. L. 103–465, set out above\] shall apply to plan years beginning after December 31, 1996.”\]
 

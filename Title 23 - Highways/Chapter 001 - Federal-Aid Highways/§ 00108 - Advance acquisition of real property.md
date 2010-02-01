@@ -48,7 +48,7 @@ Terms and conditions.—The Federal share payable of the costs described in para
 
 #### References in Text
 
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (c)(2)(A), is act Jan. 2, 1971, Pub. L. 91–646, 84 Stat. 1894, as amended, and which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (c)(2)(A), is act Jan. 2, 1971, Pub. L. 91–646, 84 Stat.1894, as amended, and which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (c)(2)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
@@ -122,11 +122,11 @@ Credit to highway trust fund.—With respect to a project for which funds have b
 
 #### Preservation of Transportation Corridors Report
 
-Section 1017(c) of Pub. L. 102–240 provided that: “The Secretary, in consultation with the States, shall report to Congress within 2 years after the date of the enactment of this Act \[Dec. 18, 1991\], a national list of the rights-of-way identified by the metropolitan planning organizations and the States (under sections 134 and 135 of title 23, United States Code), including the total mileage involved, an estimate of the total costs, and a strategy for preventing further loss of rights-of-way including the desirability of creating a transportation right-of-way land bank to preserve vital corridors.”
+Section 1017(c) of Pub. L. 102–240 provided that: “The Secretary, in consultation with the States, shall report to Congress within 2 years after the date of the enactment of this Act \[Dec. 18, 1991\], a national list of the rights-of-way identified by the metropolitan planning organizations and the States (under sections 134 and 135 of title 23, United States Code), including the total mileage involved, an estimate of the total costs, and astrategy for preventing further loss of rights-of-way including the desirability of creating a transportation right-of-way land bank to preserve vital corridors.”
 
 #### Authorization of Appropriations to Right-of-Way Revolving Fund; Apportionment; Reversion of Amounts Not Advanced or Obligated
 
-Section 7(c)–(e) of Pub. L. 90–495 provided that $100,000,000 for the fiscal year ending June 30, 1970, $100,000,000 for the fiscal year ending June 30, 1971, and$100,000,000 for the fiscal year ending June 30, 1972, be transferred from the highway trust fund to the right-of-way revolving fund established by subsec. (c) of this section, authorized the Secretary to apportion these funds and required that funds apportioned to a State remain available for obligation for advances until Oct. 1 of the fiscal year in which the apportionment was made and any funds not advanced or obligated by such date revert to the right-of-way revolving fund for distribution to other States.
+Section 7(c)–(e) of Pub. L. 90–495 provided that $100,000,000 for the fiscal year ending June 30, 1970, $100,000,000 for the fiscal year ending June 30, 1971, and $100,000,000 for the fiscal year ending June 30, 1972, be transferred from the highway trust fund to the right-of-way revolving fund established by subsec. (c) of this section, authorized the Secretary to apportion these funds and required that funds apportioned to a State remain available for obligation for advances until Oct. 1 of the fiscal year in which the apportionment was made and any funds not advanced or obligated by such date revert to the right-of-way revolving fund for distribution to other States.
 
 #### Study of Advance Acquisition of Rights-of-Way
 

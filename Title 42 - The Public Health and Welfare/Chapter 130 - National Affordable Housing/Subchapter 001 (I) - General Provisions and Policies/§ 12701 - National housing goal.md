@@ -120,7 +120,7 @@ Powers of members and agents.—Any member or agent of the Commission may, if au
 
 &emsp;“(3)
 
-Obtaining official data.—The Commission may secure directly from any department or agency of the United States information necessary to enableit to carry out this Act. Upon request of the Chairpersons of the Commission, the head of that department or agency shall furnish that information to the Commission.
+Obtaining official data.—The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out this Act. Upon request of the Chairpersons of the Commission, the head of that department or agency shall furnish that information to the Commission.
 
 &emsp;“(4)
 
@@ -246,7 +246,7 @@ Powers.—
 
 &emsp;“(1)
 
-Hearings and sessions.—The Commission may, for the purpose of carrying out this section, hold hearings, sit and act at times and places, take testimony, and receive evidence as the Commission considers appropriate.
+Hearings and sessions.—The Commission may, for the purpose of carrying out this section, hold hearings, sit and act at times and places, taketestimony, and receive evidence as the Commission considers appropriate.
 
 &emsp;“(2)
 

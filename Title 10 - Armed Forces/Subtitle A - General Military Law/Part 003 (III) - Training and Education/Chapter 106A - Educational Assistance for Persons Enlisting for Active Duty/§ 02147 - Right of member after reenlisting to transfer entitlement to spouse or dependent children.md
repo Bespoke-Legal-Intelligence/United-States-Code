@@ -1,6 +1,6 @@
 ### §2147. Right of member after reenlisting to transfer entitlement to spouse or dependent children
 
-(a)(1)(A) A person who is entitled to educational assistance under section 2142 of this title and who reenlisted in an armed force atany time after the end of the enlistment which established such entitlement may at any time after such reenlistment elect to transfer all or any part of such entitlement to the spouse or dependent child of such person.
+(a)(1)(A) A person who is entitled to educational assistance under section 2142 of this title and who reenlisted in an armed force at any time after the end of the enlistment which established such entitlement may at any time after such reenlistment elect to transfer all or any part of such entitlement to the spouse or dependent child of such person.
 
 (B) The Secretary of the Navy may authorize a member of the Navy or Marine Corps who is entitled to educational assistance under section 2142 of this title and whose enlistment that established such entitlement was the member's second reenlistment as a member of the armed forces to transfer all or part of such entitlement to the spouse or dependent child of such member after the completion of four years of active service of that second reenlistment if that reenlistment was for a period of at least six years.
 

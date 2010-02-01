@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;No government shall impose or implement a land use regulation in a manner that imposesa substantial burden on the religious exercise of a person, including a religious assembly or institution, unless the government demonstrates that imposition of the burden on that person, assembly, or institution—
+&emsp;No government shall impose or implement a land use regulation in a manner that imposes a substantial burden on the religious exercise of a person, including a religious assembly or institution, unless the government demonstrates that imposition of the burden on that person, assembly, or institution—
 
 &emsp;&emsp;(A) is in furtherance of a compelling governmental interest; and
 

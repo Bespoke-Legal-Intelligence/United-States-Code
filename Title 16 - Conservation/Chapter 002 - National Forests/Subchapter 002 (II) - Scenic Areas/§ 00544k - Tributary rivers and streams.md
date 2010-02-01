@@ -14,7 +14,7 @@ The following rivers and streams shall be subject to the same restrictions on th
 
 &emsp;&emsp;(B) submittal by the Secretary of a report to the President on the suitability or nonsuitability for addition to the national wild and scenic rivers system and a report by the President to the Congress of recommendations and proposals with respect to the designation of such river under the Wild and Scenic Rivers Act \[16 U.S.C. 1271 et seq.\];
 
-&emsp;(4) the Hood River, Oregon, for a period not to exceed twenty years from November 17, 1986, if such facility impounds or diverts water other than by means of a dam or diversion existing as of November 17, 1986; and
+&emsp;(4) the Hood River, Oregon, if such facility impounds or diverts water other than by means of a dam or diversion existing as of November 17, 1986; and
 
 &emsp;(5) the segment of the Little White Salmon, Washington, from the Willard National Fish Hatchery to its confluence with the Columbia River if such facility impounds or diverts water other than by means of a dam or diversion existing as of November 17, 1986.
 
@@ -22,7 +22,7 @@ The following rivers and streams shall be subject to the same restrictions on th
 
 The provisions of subsection (a) of this section shall not apply to those portions of tributary rivers or streams to the Columbia River which flow through or border on Indian reservations. Nothing in this section shall apply to or affect any segment of any river designated as a wild and scenic river under section 3 of the Wild and Scenic Rivers Act (16 U.S.C. 1274) or any river designated for study under section 5 of such Act (16 U.S.C. 1276).
 
-(Pub. L. 99–663, §13(a), (b), Nov. 17, 1986, 100 Stat. 4293, 4294.)
+(Pub. L. 99–663, §13(a), (b), Nov. 17, 1986, 100 Stat. 4293, 4294; Pub. L. 111–11, title I, §1203(b), Mar. 30, 2009, 123 Stat. 1012.)
 
 #### References in Text
 
@@ -35,6 +35,10 @@ The Wild and Scenic Rivers Act, referred to in subsec. (a)(3)(B), is Pub. L. 90�
 #### Codification
 
 Section 13 of Pub. L. 99–663, which enacted this section, consisted of subsecs. (a) to (d). Subsecs. (a) and (b) of section 13 were classified to this section, and subsecs. (c) and (d) of section 13 amended sections 1274 and 1276 of this title, respectively.
+
+#### Amendments
+
+2009—Subsec. (a)(4). Pub. L. 111–11 struck out “for a period not to exceed twenty years from November 17, 1986,” before “if such facility”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

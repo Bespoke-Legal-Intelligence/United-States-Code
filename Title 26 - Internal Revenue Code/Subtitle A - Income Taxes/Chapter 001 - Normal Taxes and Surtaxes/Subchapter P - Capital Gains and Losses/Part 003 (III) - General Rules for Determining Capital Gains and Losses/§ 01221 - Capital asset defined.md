@@ -14,7 +14,7 @@ For purposes of this subtitle, the term “capital asset” means property held 
 
 &emsp;&emsp;(B) in the case of a letter, memorandum, or similar property, a taxpayer for whom such property was prepared or produced, or
 
-&emsp;&emsp;(C) a taxpayer in whose hands the basis of such property is determined, for purposes of determining gain from a sale or exchange, in whole or part by reference to the basis of such property in the hands of a taxpayer described in subparagraph (A) or (B);
+&emsp;&emsp;(C) a taxpayer in whose hands the basis of such property is determined (other than by reason of section 1022), for purposes of determining gain from a sale or exchange, in whole or part by reference to the basis of such property in the hands of a taxpayer described in subparagraph (A) or (B);
 
 &emsp;(4) accounts or notes receivable acquired in the ordinary course of trade or business for services rendered or from the sale of property described in paragraph (1);
 
@@ -90,9 +90,9 @@ For purposes of this subtitle, the term “capital asset” means property held 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 321; Pub. L. 91–172, title V, §514(a), Dec. 30, 1969, 83 Stat. 643; Pub. L. 94–455, title XIX, §1901(c)(9), title XXI, §2132(a), Oct. 4, 1976, 90 Stat. 1803, 1925; Pub. L. 97–34, title V, §505(a), Aug. 13, 1981, 95 Stat. 331; Pub. L. 106–170, title V, §532(a), Dec. 17, 1999, 113 Stat. 1928; Pub. L. 107–16, title V, §542(e)(2)(A), June 7, 2001, 115 Stat. 85; Pub. L. 107–147, title IV, §417(20), Mar. 9, 2002, 116 Stat. 57; Pub. L. 109–222, title II, §204(a), May 17, 2006, 120 Stat. 350; Pub. L. 109–432, div. A, title IV, §412(a), Dec. 20, 2006, 120 Stat. 2963.)
 
-#### Amendment of Subsection (a)(3)(C)
+#### Amendment of Section
 
-<i>Pub. L. 107–16, title V, §542(e)(2)(A), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 85, 86, 150, provided that, applicable to estates of decedents dying after Dec. 31, 2009, subsection (a)(3)(C) of this section is temporarily amended by inserting “(other than by reason of section 1022)” after “is determined”. See Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
@@ -103,6 +103,8 @@ Pub. L. 109–222 added par. (3). Former par. (3) redesignated (4).
 Subsec. (b)(4). Pub. L. 109–222 redesignated par. (3) as (4).
 
 2002—Subsec. (b)(1)(B)(i). Pub. L. 107–147 substituted “1256(b)))” for “1256(b))”.
+
+2001—Subsec. (a)(3)(C). Pub. L. 107–16, §§542(e)(2)(A), 901, temporarily inserted “(other than by reason of section 1022)” after “is determined”. See Effective and Termination Dates of 2001 Amendment note below.
 
 1999—Pub. L. 106–170 designated existing provisions as subsec. (a), inserted heading, and added pars. (6) to (8) and subsec. (b).
 

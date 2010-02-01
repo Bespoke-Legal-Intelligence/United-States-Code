@@ -1,6 +1,6 @@
 ### §1204. Members on active duty for 30 days or less or on inactive-duty training: retirement
 
-Upon a determination by the Secretary concerned that a member of the armed forces not covered by section 1201, 1202, or 1203 of this titleis unfit to perform the duties of his office, grade, rank, or rating because of physical disability, the Secretary may retire the member with retired pay computed under section 1401 of this title, if the Secretary also determines that—
+Upon a determination by the Secretary concerned that a member of the armed forces not covered by section 1201, 1202, or 1203 of this title is unfit to perform the duties of his office, grade, rank, or rating because of physical disability, the Secretary may retire the member with retired pay computed under section 1401 of this title, if the Secretary also determines that—
 
 &emsp;(1) based upon accepted medical principles, the disability is of a permanent nature and stable;
 
@@ -58,7 +58,7 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §§401(a), 402(c) (less clause (5), and less last proviso), 402(f) (as applicable to §402(c)), 63 Stat. 816, 817, 820.
 
-37:271(a) is omitted as surplusage. As it relates to retirement it is only a statement of the general coverage of the retirement sections of this chapter. As it relates to separation it is only a statement of the general coverage of the separation sections of this chapter. The words “a member \* \* \* not covered by section 1201, 1202, or 1203 of this title” are substituted for the words “a member \* \* \* other than those members covered in subsections (a) and (b) of this section”. The words “if the Secretary also determines that” are substituted for the words “That if condition (5) above is met by a finding that”, in 37:272(c). The words “of such member”, “upon retirement”, and “to receive”, in 37:272(c), are omitted as surplusage.
+37:271(a) is omitted as surplusage. As it relates to retirement it is only a statement of the general coverage of the retirement sections of this chapter. As it relates to separation it is only a statement of the general coverage of the separation sections of this chapter. The words “a member not covered by section 1201, 1202, or 1203 of this title” are substituted for the words “a member other than those members covered in subsections (a) and (b) of this section”. The words “if the Secretary also determines that” are substituted for the words “That if condition (5) above is met by a finding that”, in 37:272(c). The words “of such member”, “upon retirement”, and “to receive”, in 37:272(c), are omitted as surplusage.
 
 In clause (1), the words “based upon accepted medical principles” are inserted as a necessary implication of the rule stated in 37:272(c)(5).
 

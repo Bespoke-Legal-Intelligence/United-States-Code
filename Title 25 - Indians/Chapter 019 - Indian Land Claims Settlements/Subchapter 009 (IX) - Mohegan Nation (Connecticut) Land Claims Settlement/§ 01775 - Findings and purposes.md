@@ -22,7 +22,7 @@ Congress finds the following:
 
 &emsp;(9) The town of Montville, Connecticut, will—
 
-&emsp;&emsp;(A) be affected by the loss of a tax base from, and jurisdiction over, lands that willbe held in trust by the United States on behalf of the Mohegan Tribe; and
+&emsp;&emsp;(A) be affected by the loss of a tax base from, and jurisdiction over, lands that will be held in trust by the United States on behalf of the Mohegan Tribe; and
 
 &emsp;&emsp;(B) serve as the host community for the gaming operations of the Mohegan Tribe.
 

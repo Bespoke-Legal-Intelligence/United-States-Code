@@ -42,7 +42,7 @@ In approving applications for projects assisted under this section for any fisca
 
 &emsp;&emsp;(B) Native Hawaiians, as defined in section 7517 of this title; and
 
-&emsp;&emsp;(C) Native American Pacific Islanders, as defined in section 1059g of this title.; <sup>1</sup>
+&emsp;&emsp;(C) Native American Pacific Islanders, as defined in section 1059g of this title;
 
 &emsp;(3) an assurance that participants be enrolled in a degree program at an eligible institution having an agreement with the Secretary in accordance with the provisions of section 1094 of this title; and
 
@@ -70,9 +70,11 @@ Students participating in research under a project under this section may receiv
 
 From amounts appropriated pursuant to the authority of section 1070a–11(g) of this title, the Secretary shall, to the extent practicable, allocate funds for projects authorized by this section in an amount which is not less than $11,000,000 for each of the fiscal years 2009 through 2014.
 
-(Pub. L. 89–329, title IV, §402E, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 489; amended Pub. L. 105–244, title IV, §402(e), Oct. 7, 1998, 112 Stat. 1655; Pub. L. 110–315, title IV, §403(e), Aug. 14, 2008, 122 Stat. 3203.)
+(Pub. L. 89–329, title IV, §402E, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 489; amended Pub. L. 105–244, title IV, §402(e), Oct. 7, 1998, 112 Stat. 1655; Pub. L. 110–315, title IV, §403(e), Aug. 14, 2008, 122 Stat. 3203; Pub. L. 111–39, title IV, §401(a)(5), July 1, 2009, 123 Stat. 1938.)
 
 #### Amendments
+
+2009—Subsec. (d)(2)(C). Pub. L. 111–39 struck out period before semicolon at end.
 
 2008—Subsec. (b). Pub. L. 110–315, §403(e)(1)(A), (B), inserted “Required” before “services” in heading and, in introductory provisions, substituted “A project assisted under this section shall provide—” for “A postbaccalaureate achievement project assisted under this section may provide services such as—”.
 
@@ -96,9 +98,11 @@ Subsec. (g). Pub. L. 110–315, §403(e)(2), (6), redesignated subsec. (f) as (g
 
 1998—Subsec. (e)(1). Pub. L. 105–244 substituted “$2,800” for “$2,400”.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
-
-<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 

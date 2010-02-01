@@ -42,7 +42,7 @@ For the purposes of this section, the term “improved property” means—
 
 &emsp;(2) property developed for noncommercial recreational uses, together with any structures accessory thereto which were so used on or before January 1, 1980, to the extent that entry onto such property was legal and proper.
 
-> In determining when and to what extent a property is to be considered an “improved property”, the Secretary shall take into consideration the manner of use of such buildings and lands prior to January 1, 1980, and shall designate suchlands as are reasonably necessary for the continued enjoyment of the property in the same manner and to the same extent as existed before such date.
+> In determining when and to what extent a property is to be considered an “improved property”, the Secretary shall take into consideration the manner of use of such buildings and lands prior to January 1, 1980, and shall designate such lands as are reasonably necessary for the continued enjoyment of the property in the same manner and to the same extent as existed before such date.
 
 #### (g) Consideration of hardship
 

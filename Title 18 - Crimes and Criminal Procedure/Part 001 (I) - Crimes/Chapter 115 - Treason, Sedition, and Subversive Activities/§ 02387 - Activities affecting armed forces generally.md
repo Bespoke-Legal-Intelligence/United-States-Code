@@ -10,7 +10,7 @@ Shall be fined under this title or imprisoned not more than ten years, or both, 
 
 (b) For the purposes of this section, the term “military or naval forces of the United States” includes the Army of the United States, the Navy, Air Force, Marine Corps, Coast Guard, Navy Reserve, Marine Corps Reserve, and Coast Guard Reserve of the United States; and, when any merchant vessel is commissioned in the Navy or is in the service of the Army or the Navy, includes the master, officers, and crew of such vessel.
 
-(June 25, 1948, ch. 645, 62 Stat. 811; May 24, 1949, ch. 139, §46, 63 Stat. 96; Pub. L. 103–322, titleXXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–163, div. A, title V, §515(f)(2), Jan. 6, 2006, 119 Stat. 3236.)
+(June 25, 1948, ch. 645, 62 Stat. 811; May 24, 1949, ch. 139, §46, 63 Stat. 96; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–163, div. A, title V, §515(f)(2), Jan. 6, 2006, 119 Stat. 3236.)
 
 #### Historical and Revision Notes
 
@@ -42,7 +42,7 @@ This section \[section 46\] inserts the words, “Air Force,” in subsection (b
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Coast Guard transferred to Department of Transportation and functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, which created Department of Transportation. See section 108 of Title 49, Transportation.
 

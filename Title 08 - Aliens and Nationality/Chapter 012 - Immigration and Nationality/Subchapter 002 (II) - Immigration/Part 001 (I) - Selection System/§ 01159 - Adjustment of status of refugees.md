@@ -106,7 +106,7 @@ In general.—Subject to paragraph (2), the provisions of section 209(b) of the 
 
 &emsp;“(2)
 
-Application of per country limitations.—The number of aliens who are natives of any foreign state who may adjust status pursuant to paragraph (1) in any fiscal year shall not exceed the difference between the per country limitation established under section 202(a) of the Immigration and Nationality Act \[8 U.S.C. 1152(a)\] and the number of aliens who are chargeable to that foreign state in the fiscal year under section 202 of such Act.”
+Application of per country limitations.—The number of aliens who are natives of any foreign statewho may adjust status pursuant to paragraph (1) in any fiscal year shall not exceed the difference between the per country limitation established under section 202(a) of the Immigration and Nationality Act \[8 U.S.C. 1152(a)\] and the number of aliens who are chargeable to that foreign state in the fiscal year under section 202 of such Act.”
 
 \[Section 104(c), (d) of Pub. L. 101–649 effective Nov. 29, 1990, and (unless otherwise provided) applicable to fiscal year 1991, see section 161(b) of Pub. L. 101–649, set out as an Effective Date of 1990 Amendment note under section 1101 of this title.\]
 

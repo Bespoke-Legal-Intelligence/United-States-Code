@@ -46,7 +46,7 @@
 
 #### (2) Advance of funds
 
-&emsp;The insular government of the Virgin Islands shall advance to the Treasury of the United States such funds as may be required from time to time by the Secretary for the purpose of defraying all expenses incurred by the Treasury Department in connection withthe enforcement in the Virgin Islands of paragraph (1) and regulations promulgated thereunder. The funds so advanced shall be deposited in a separate trust fund in the Treasury of the United States and shall be available to the Treasury Department for the purposes of this subsection.
+&emsp;The insular government of the Virgin Islands shall advance to the Treasury of the United States such funds as may be required from time to time by the Secretary for the purpose of defraying all expenses incurred by the Treasury Department in connection with the enforcement in the Virgin Islands of paragraph (1) and regulations promulgated thereunder. The funds so advanced shall be deposited in a separate trust fund in the Treasury of the United States and shall be available to the Treasury Department for the purposes of this subsection.
 
 #### (3) Regulations issued by Virgin Islands
 

@@ -22,7 +22,7 @@ In this chapter, the following definitions apply:
 
 &emsp;&emsp;(A) the United States Secret Service; and
 
-&emsp;&emsp;(B) the Coast Guard, when operating under the direct authority of the Secretary of Defense or Secretary of the Navy pursuant to section 3 of title 14, except that nothing in this paragraph shall affect or diminish the authority and responsibilities of the Commandant of the Coast Guard to command or control the Coast Guard as an armed force or the authority of the Director of National Intelligence with respect to the Coast Guard as an element of the intelligence community (as defined under section 401a(4) of title 50.<sup>1</sup>
+&emsp;&emsp;(B) the Coast Guard, when operating under the direct authority of the Secretary of Defense or Secretary of the Navy pursuant to section 3 of title 14, except that nothing in this paragraph shall affect or diminish the authority and responsibilities of the Commandant of the Coast Guard to command orcontrol the Coast Guard as an armed force or the authority of the Director of National Intelligence with respect to the Coast Guard as an element of the intelligence community (as defined under section 401a(4) of title 50.<sup>1</sup>
 
 &emsp;(10) The term “key resources” means publicly or privately controlled resources essential to the minimal operations of the economy and government.
 
@@ -102,9 +102,9 @@ Pub. L. 109–295, title VI, §671(a), Oct. 4, 2006, 120 Stat. 1433, provided th
 
 Pub. L. 108–458, title VII, §7001, Dec. 17, 2004, 118 Stat. 3775, provided that: “This title \[see Tables for classification\] may be cited as the ‘9/11 Commission Implementation Act of 2004’.”
 
-Pub. L. 108–458, title VIII, §8301, Dec. 17, 2004, 118 Stat. 3867, provided that: “This subtitle \[subtitle C (§§8301–8306) of title VIII of Pub. L. 108–458, amending sections 111, 142, and 345 of this title and section 8I of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 112 of this title\] may be cited as the ‘Homeland Security Civil Rights and Civil Liberties Protection Act of 2004’.”
+Pub. L. 108–458, title VIII, §8301, Dec. 17, 2004, 118 Stat. 3867, provided that: “This subtitle \[subtitle C\(§§8301–8306) of title VIII of Pub. L. 108–458, amending sections 111, 142, and 345 of this title and section 8I of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 112 of this title\] may be cited as the ‘Homeland Security Civil Rights and Civil Liberties Protection Act of 2004’.”
 
-Pub. L. 108–330, §1, Oct. 16, 2004, 118 Stat. 1275, provided that: “This Act \[amending sections 113, 342, and 454 of this title and sections 901 and 3516 of Title 31,Money and Finance, and enacting provisions set out as notes under section 342 of this title and sections 901 and 3516 of Title 31\] may be cited as ‘Department of Homeland Security Financial Accountability Act’.”
+Pub. L. 108–330, §1, Oct. 16, 2004, 118 Stat. 1275, provided that: “This Act \[amending sections 113, 342, and 454 of this title and sections 901 and 3516 of Title 31, Money and Finance, and enacting provisions set out as notes under section 342 of this title and sections 901 and 3516 of Title 31\] may be cited as ‘Department of Homeland Security Financial Accountability Act’.”
 
 #### Short Title of 2003 Amendment
 

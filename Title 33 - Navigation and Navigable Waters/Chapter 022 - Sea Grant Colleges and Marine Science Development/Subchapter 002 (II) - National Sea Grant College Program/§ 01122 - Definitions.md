@@ -104,7 +104,7 @@ Pub. L. 105–160, §4(a)(5), added pars. (12) to (17) and struck out former par
 
 Pub. L. 105–160, §4(a)(3), redesignated pars. (10) to (15) as (12) to (17), respectively.
 
-1992—Par. (6)(F), (G). Pub. L. 102–251, §307(a), which directed addition of subpar. (F) and redesignation of former subpar. (F) as (G), was repealed by section 4(b)of Pub. L. 110–394. See Effective Date of 1992 Amendment note below.
+1992—Par. (6)(F), (G). Pub. L. 102–251, §307(a), which directed addition of subpar. (F) and redesignation of former subpar. (F) as (G), was repealed by section 4(b) of Pub. L. 110–394. See Effective Date of 1992 Amendment note below.
 
 1991—Par. (4). Pub. L. 102–186 inserted “marine affairs and resource management,” after “education,”.
 

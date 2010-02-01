@@ -2,7 +2,7 @@
 
 #### (a) Limitation on discretionary powers
 
-Subject to the provisions and procedures set forth in this chapter, the Administrator shall be responsible for such actions as are taken to assure that adequate provision is made to meet the energy needs of the Nation. To that end, he shall make such plans and direct and conduct such programs related to the production, conservation, use, control, distribution, rationing, and allocation of all forms of energy as are appropriate in connection with only those authorities or functions—
+Subject to the provisions and procedures set forth in this chapter, the Administrator shall beresponsible for such actions as are taken to assure that adequate provision is made to meet the energy needs of the Nation. To that end, he shall make such plans and direct and conduct such programs related to the production, conservation, use, control, distribution, rationing, and allocation of all forms of energy as are appropriate in connection with only those authorities or functions—
 
 &emsp;(1) specifically transferred to or vested in him by or pursuant to this chapter;
 
@@ -22,7 +22,7 @@ To the extent authorized by subsection (a) of this section, the Administrator sh
 
 &emsp;(4) develop plans and programs for dealing with energy production shortages;
 
-&emsp;(5) promote stability in energy prices to the consumer, promote free and open competition in all aspects of the energy field, prevent unreasonable profits within the various segmentsof the energy industry, and promote free enterprise;
+&emsp;(5) promote stability in energy prices to the consumer, promote free and open competition in all aspects of the energy field, prevent unreasonable profits within the various segments of the energy industry, and promote free enterprise;
 
 &emsp;(6) assure that energy programs are designed and implemented in a fair and efficient manner so as to minimize hardship and inequity while assuring that the priority needs of the Nation are met;
 

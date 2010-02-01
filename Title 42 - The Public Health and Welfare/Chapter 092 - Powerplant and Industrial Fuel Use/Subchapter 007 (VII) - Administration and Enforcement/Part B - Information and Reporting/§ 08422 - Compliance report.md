@@ -12,7 +12,7 @@ Any person owning, operating, or proposing to operate one or more existing elect
 
 #### (b) Report on implementation of section 8484 plan
 
-Any electric utility required to submit a conservation plan under section 8484 of this titleshall annually submit to the Secretary a report identifying the steps taken during the preceding year to implement such plan.
+Any electric utility required to submit a conservation plan under section 8484 of this title shall annually submit to the Secretary a report identifying the steps taken during the preceding year to implement such plan.
 
 (Pub. L. 95–620, title VII, §712, Nov. 9, 1978, 92 Stat. 3332; Pub. L. 97–35, title X, §1023(b), Aug. 13, 1981, 95 Stat. 617.)
 

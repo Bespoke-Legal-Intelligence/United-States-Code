@@ -14,11 +14,11 @@ An executive agency may enter into a multiyear contract for the acquisition of p
 
 #### (b) Termination clause
 
-A multiyear contract entered into under the authority of this section shall include a clause that provides that the contract shall be terminated if funds are not made available for the continuation of such contract in any fiscal year covered by the contract. Amounts available for paying termination costs shall remain available for such purpose until the costs associated with termination of the contract are paid.
+A multiyear contract entered into under the authority of this section shall include a clause that provides that the contract shall be terminated if funds are not made available for thecontinuation of such contract in any fiscal year covered by the contract. Amounts available for paying termination costs shall remain available for such purpose until the costs associated with termination of the contract are paid.
 
 #### (c) Cancellation ceiling notice
 
-Before any contract described in subsection (a) of this section that contains a clause settingforth a cancellation ceiling in excess of $10,000,000 may be awarded, the executive agency shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the Congress, and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
+Before any contract described in subsection (a) of this section that contains a clause setting forth a cancellation ceiling in excess of $10,000,000 may be awarded, the executive agency shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the Congress, and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
 
 #### (d) Multiyear contract defined
 

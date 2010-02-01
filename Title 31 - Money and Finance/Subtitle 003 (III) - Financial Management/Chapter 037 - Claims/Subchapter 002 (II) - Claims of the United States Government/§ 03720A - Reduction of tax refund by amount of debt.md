@@ -82,7 +82,7 @@ Subsec. (i). Pub. L. 104–134, §31001(u)(1), added subsec. (i).
 
 1992—Subsec. (a). Pub. L. 102–589, §3(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support) by a named person shall, in accordance with regulations issued pursuant to subsection (d), notify the Secretary of the Treasury of the amount of such debt.”
 
-Subsec. (b)(3) to (5). Pub. L. 102–589, §3(2), struck out “and” at end of par. (3), substituted “(determined on a government-wide basis) to obtain payment of such debt; and” for “to obtain payment of such debt.” in par. (4), and added par. (5).
+Subsec. (b)(3) to (5). Pub. L. 102–589, §3(2), struck out “and” at end of par. (3), substituted “(determined on agovernment-wide basis) to obtain payment of such debt; and” for “to obtain payment of such debt.” in par. (4), and added par. (5).
 
 Subsec. (g). Pub. L. 102–589, §3(5), added subsec. (g). Former subsec. (g) redesignated (h).
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 101–508 effective Jan. 1, 1991, and inapplicable to refun
 
 #### Effective Date
 
-Section applicable with respect to refunds payable under section 6402 of Title 26, Internal Revenue Code,after Dec. 31, 1985, see section 2653(c) of Pub. L. 98–369, as amended, set out as an Effective Date of 1984 Amendment note under section 6402 of Title 26.
+Section applicable with respect to refunds payable under section 6402 of Title 26, Internal Revenue Code, after Dec. 31, 1985, see section 2653(c) of Pub. L. 98–369, as amended, set out as an Effective Date of 1984 Amendment note under section 6402 of Title 26.
 
 #### Clarification of Congressional Intent as to Scope of Amendments by Section 2653 of Pub. L. 98–369
 

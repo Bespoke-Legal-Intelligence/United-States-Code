@@ -14,7 +14,7 @@
 
 #### (2) Fees for temporary practice
 
-&emsp;A State appraiser certifying or licensing agency shall not impose excessive fees or burdensome requirements, as determined by the Appraisal Subcommittee, for temporary practice under this subsection.
+&emsp;A State appraiser certifying or licensing agency shall not impose excessive fees or burdensome requirements, as determined by theAppraisal Subcommittee, for temporary practice under this subsection.
 
 #### (b) Reciprocity
 

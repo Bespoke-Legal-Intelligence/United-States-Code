@@ -88,7 +88,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (4) Plans
 
-&emsp;No later than 1 year after December 19, 2007, and every 5 years thereafter, the Council, in conjunction with the Secretary, shall develop a 5-year plan for integrating basic and applied research so that the United States retains a globally competitive domestic energy storage industry for electric drive vehicles, stationary applications, and electricity transmission and distribution.
+&emsp;No later than 1 year after December 19, 2007, and every 5 years thereafter, the Council, inconjunction with the Secretary, shall develop a 5-year plan for integrating basic and applied research so that the United States retains a globally competitive domestic energy storage industry for electric drive vehicles, stationary applications, and electricity transmission and distribution.
 
 #### (5) Review
 
@@ -122,7 +122,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (3) Funding
 
-&emsp;For activities carried out under this subsection, in addition to funding activities at National Laboratories, the Secretary shall award funds to, and coordinate activities with,a range of stakeholders including the public, private, and academic sectors.
+&emsp;For activities carried out under this subsection, in addition to funding activities at National Laboratories, the Secretary shall award funds to, and coordinate activities with, a range of stakeholders including the public, private, and academic sectors.
 
 #### (g) Applied research program
 
@@ -184,7 +184,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 &emsp;&emsp;(B) if 1 or more industry participants are active in a center, during a 2-year period beginning on the date on which an invention is made—
 
-&emsp;&emsp;&emsp;(i) the patent holder shall not negotiate any license or royalty agreement with any entity that is not an industrial participant under this subsection; and
+&emsp;&emsp;&emsp;(i) the patent holder shall not negotiate any license or royalty agreement with anyentity that is not an industrial participant under this subsection; and
 
 &emsp;&emsp;&emsp;(ii) the patent holder shall negotiate nonexclusive licenses and royalties in good faith with any interested industrial participant under this subsection; and
 

@@ -10,7 +10,7 @@ Section is comprised of first par. of section 10 of act Dec. 23, 1913. Pars. 2�
 
 #### Amendments
 
-1935—Act Aug. 23, 1935, §203(b), increased the appointive membership from six to seven, terminated themembership of the Secretary of the Treasury and the Comptroller of the Currency, raised the tenure from twelve to fourteen years and increased the annual salary from $12,000 to $15,000.
+1935—Act Aug. 23, 1935, §203(b), increased the appointive membership from six to seven, terminated the membership of the Secretary of the Treasury and the Comptroller of the Currency, raised the tenure from twelve to fourteen years and increased the annual salary from $12,000 to $15,000.
 
 #### Change of Name
 

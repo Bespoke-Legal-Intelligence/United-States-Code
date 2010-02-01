@@ -16,7 +16,7 @@
 
 (2) The Archivist shall promulgate architectural and design standards applicable to Presidential archival depositories in order to ensure that such depositories (A) preserve Presidential records subject to chapter 22 of this title and papers and other historical materials accepted for deposit under section 2111 of this title and (B) contain adequate research facilities.
 
-(3) Prior to accepting and taking title to any land, facility, or equipment under subparagraph (A) of paragraph (1), or prior to entering into any agreement under subparagraph (B) of such paragraph or any other agreement to accept or establish a Presidential archival depository, the Archivist shall submit a written report on the proposed Presidential archival depository to the President of the Senate and the Speaker of the House of Representatives. The report shall include—
+(3) Prior to accepting and taking title to any land, facility, or equipment under subparagraph (A) of paragraph (1), or prior to entering intoany agreement under subparagraph (B) of such paragraph or any other agreement to accept or establish a Presidential archival depository, the Archivist shall submit a written report on the proposed Presidential archival depository to the President of the Senate and the Speaker of the House of Representatives. The report shall include—
 
 &emsp;(A) a description of the land, facility, and equipment offered as a gift or to be made available without transfer of title;
 
@@ -190,13 +190,13 @@ Provision of plan.—The Archivist of the United States shall provide to the Com
 
 “(2)
 
-Provided to congress.—The capital improvement plan shall be provided to the committees, as described in paragraph (1), at the same time as the first Budget of the United States Government after the date of enactment of this Act \[Oct. 13, 2008\] is submitted to Congress.
+Provided to congress.—The capital improvement plan shall be provided to the committees, as described in paragraph (1), at the same time as the first Budget of the United States Government after the dateof enactment of this Act \[Oct. 13, 2008\] is submitted to Congress.
 
 “(3)
 
 Annual updates and explanation of changes in cost estimates.—The Archivist of the United States shall provide to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives—
 
-&emsp;“(A) annual updates to the capital improvement plan described in paragraph (1) at the same time aseach subsequent Budget of the United States Government is submitted to Congress; and
+&emsp;“(A) annual updates to the capital improvement plan described in paragraph (1) at the same time as each subsequent Budget of the United States Government is submitted to Congress; and
 
 &emsp;“(B) an explanation for any changes in cost estimates.”
 

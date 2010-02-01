@@ -12,7 +12,7 @@
 
 #### (3) Reporting on smaller properties
 
-&emsp;The Director shall require each enterprise to report on the purchase by each enterprise ofmultifamily housing of a smaller or limited size that is affordable to low-income families, which may be based on multifamily projects of 5 to 50 units (as such numbers may be adjusted by the Director) or on mortgages of up to $5,000,000 (as such amount may be adjusted by the Director), and may, by regulation, establish such aditional <sup>1</sup> requirements related to such units.
+&emsp;The Director shall require each enterprise to report on the purchase by each enterprise of multifamily housing of a smaller or limited size that is affordable to low-income families, which may be based on multifamily projects of 5 to 50 units (as such numbers may be adjusted by the Director) or on mortgages of up to $5,000,000 (as such amount may be adjusted by the Director), and may, by regulation, establish such aditional <sup>1</sup> requirements related to such units.
 
 #### (4) Factors
 

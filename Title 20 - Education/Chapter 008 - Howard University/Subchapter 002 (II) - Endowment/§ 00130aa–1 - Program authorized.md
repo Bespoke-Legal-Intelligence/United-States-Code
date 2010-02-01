@@ -1,6 +1,6 @@
 ### §130aa–1. Program authorized
 
-(a) The Secretary is authorized to establish an endowment program, in accordance with the provisions of this subchapter, for the purpose of establishing or increasing endowment funds, providing additional incentives to promote fundraising activities, and encouraging independence and self-sufficiency at the University.
+(a) The Secretary is authorized to establish an endowment program, in accordance with the provisions of this subchapter, for the purpose ofestablishing or increasing endowment funds, providing additional incentives to promote fundraising activities, and encouraging independence and self-sufficiency at the University.
 
 (b)(1) From the funds appropriated pursuant to this subchapter for endowments in any fiscal year for the University, the Secretary is authorized to make grants to Howard University. The Secretary may enter into agreements with the University and include in any agreement made pursuant to this subchapter such provisions deemed necessary by the Secretary to assure that the purposes of this subchapter will be achieved.
 

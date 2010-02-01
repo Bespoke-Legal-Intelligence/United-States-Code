@@ -6,7 +6,7 @@ The purpose of this part is to provide opportunities for communities to establis
 
 &emsp;(1) provide opportunities for academic enrichment, including providing tutorial services to help students, particularly students who attend low-performing schools, to meet State and local student academic achievement standards in core academic subjects, such as reading and mathematics;
 
-&emsp;(2) offer students a broad array of additional services, programs, and activities, such as youth development activities, drug and violence prevention programs, counseling programs, art, music, and recreation programs, technology education programs, and character education programs, that are designed to reinforce and complement the regular academic program of participating students; and
+&emsp;(2) offer students a broad array of additional services, programs, and activities, such as youth development activities, drug and violence prevention programs, counseling programs, art, music, and recreation programs, technology education programs, and charactereducation programs, that are designed to reinforce and complement the regular academic program of participating students; and
 
 &emsp;(3) offer families of students served by community learning centers opportunities for literacy and related educational development.
 

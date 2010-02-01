@@ -46,7 +46,7 @@ Pub. L. 108–36, §301(5), substituted “infants and young children who are ab
 
 Par. (9). Pub. L. 108–36, §301(8), redesignated par. (9) as (6).
 
-Pub. L. 108–36, §301(6), substituted “comprehensive support services for such infants and young children and their families and services to prevent the abandonment of such infants and young children, including foster care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;” for “comprehensive services for such infants and young children, including foster family care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;”.
+Pub. L. 108–36, §301(6), substituted “comprehensive support services for such infants and young childrenand their families and services to prevent the abandonment of such infants and young children, including foster care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;” for “comprehensive services for such infants and young children, including foster family care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;”.
 
 Par. (10). Pub. L. 108–36, §301(8), redesignated par. (10) as (7).
 

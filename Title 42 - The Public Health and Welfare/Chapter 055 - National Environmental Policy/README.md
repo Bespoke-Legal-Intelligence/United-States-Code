@@ -62,6 +62,8 @@
 | [4370d.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004370d%20-%20Percentage%20of%20Federal%20funding%20for%20organizations%20owned%20by%20socially%20and%20economically%20disadvantaged%20individuals.md) | Percentage of Federal funding for organizations owned by socially and economically disadvantaged individuals. |
 | [4370e.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004370e%20-%20Working%20capital%20fund%20in%20Treasury.md) | Working capital fund in Treasury. |
 | [4370f.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004370f%20-%20Availability%20of%20funds%20after%20expiration%20of%20period%20for%20liquidating%20obligations.md) | Availability of funds after expiration of period for liquidating obligations. |
+| [4370g.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004370g%20-%20Availability%20of%20funds%20for%20uniforms%20and%20certain%20services.md) | Availability of funds for uniforms and certain services. |
+| [4370h.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004370h%20-%20Availability%20of%20funds%20for%20facilities.md) | Availability of funds for facilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

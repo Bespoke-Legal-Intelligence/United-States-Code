@@ -24,7 +24,7 @@ The term of office of each member of the Commission shall be 6 years. The term o
 
 (2) Thereafter the President may, with the concurrence of a majority of the Commission's members, designate a Chairperson or Vice Chairperson, as the case may be, from among the Commission's members.
 
-(3) The President shall, with the concurrence of a majority of the Commission's members, fill a vacancy by designating a Chairperson or Vice Chairperson, as the case may be, from among the Commission's members.
+(3) The President shall, with the concurrence of a majority of the Commission's members, filla vacancy by designating a Chairperson or Vice Chairperson, as the case may be, from among the Commission's members.
 
 (4) The Vice Chairperson shall act in place of the Chairperson in the absence of the Chairperson.
 

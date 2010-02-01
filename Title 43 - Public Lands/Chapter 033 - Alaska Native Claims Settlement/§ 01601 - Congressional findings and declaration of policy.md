@@ -14,7 +14,7 @@ Congress finds and declares that—
 
 &emsp;(f) no provision of this chapter shall be construed to constitute a jurisdictional act, to confer jurisdiction to sue, nor to grant implied consent to Natives to sue the United States or any of its officers with respect to the claims extinguished by the operation of this chapter; and
 
-&emsp;(g) no provision of this chapter shall be construed to terminate or otherwise curtail the activities of the Economic Development Administration or other Federal agencies conducting loan or loan and grant programs in Alaska. For this purpose only, the terms “Indian reservation” and “trust or restricted Indian-owned land areas” in Public Law 89–136, the Public Works and Economic Development Act of 1965, as amended \[42 U.S.C. 3121 et seq.\], shall be interpreted to include lands granted to Natives under this chapter as long as such lands remain in the ownership of the Native villages or the Regional Corporations.
+&emsp;(g) no provision of this chapter shall be construed to terminate or otherwise curtail the activities of the Economic Development Administration or other Federal agencies conducting loan or loan and grant programs inAlaska. For this purpose only, the terms “Indian reservation” and “trust or restricted Indian-owned land areas” in Public Law 89–136, the Public Works and Economic Development Act of 1965, as amended \[42 U.S.C. 3121 et seq.\], shall be interpreted to include lands granted to Natives under this chapter as long as such lands remain in the ownership of the Native villages or the Regional Corporations.
 
 (Pub. L. 92–203, §2, Dec. 18, 1971, 85 Stat. 688.)
 
@@ -50,7 +50,7 @@ Section 1 of Pub. L. 92–203 provided: “That this Act \[enacting this chapter
 
 #### Savings Provision
 
-Provisions of Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743,not to be construed as modifying, etc., any provision of this chapter, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
+Provisions of Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, not to be construed as modifying, etc., any provision of this chapter, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
 
 Section 26 of Pub. L. 92–203 provided that: “To the extent that there is a conflict between any provision of this Act \[enacting this chapter\] and any other Federal laws applicable to Alaska, the provisions of this Act shall govern.”
 
@@ -130,7 +130,7 @@ Pub. L. 100–241, §17, Feb. 3, 1988, 101 Stat. 1814, provided that:
 
 “(a) No provision of this Act (the Alaska Native Claims Settlement Act Amendments of 1987) \[see Short Title of 1988 Amendment note above\], exercise of authority pursuant to this Act, or change made by, or pursuant to, this Act in the status of land shall be construed to validate or invalidate or in any way affect—
 
-&emsp;“(1) any assertion that a Native organization (including a federally recognized tribe, traditional Native council, or Native council organized pursuant tothe Act of June 18, 1934 (48 Stat. 987), as amended \[25 U.S.C. 461 et seq.\]) has or does not have governmental authority over lands (including management of, or regulation of the taking of, fish and wildlife) or persons within the boundaries of the State of Alaska, or
+&emsp;“(1) any assertion that a Native organization (including a federally recognized tribe, traditional Native council, or Native council organized pursuant to the Act of June 18, 1934 (48 Stat. 987), as amended \[25 U.S.C. 461 et seq.\]) has or does not have governmental authority over lands (including management of, or regulation of the taking of, fish and wildlife) or persons within the boundaries of the State of Alaska, or
 
 &emsp;“(2) any assertion that Indian country (as defined by 18 U.S.C. 1151 or any other authority) exists or does not exist within the boundaries of the State of Alaska.
 

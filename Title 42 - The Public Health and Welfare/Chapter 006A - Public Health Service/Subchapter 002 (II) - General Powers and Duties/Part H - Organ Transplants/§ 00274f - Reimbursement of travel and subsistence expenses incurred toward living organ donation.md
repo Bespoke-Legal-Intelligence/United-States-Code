@@ -22,7 +22,7 @@ The Secretary may, in carrying out subsection (a) of this section, consider—
 
 #### (d) Relationship to payments under other programs
 
-An award may be made under subsection (a) of this section only if the applicant involved agrees that the award will not be expended to pay the qualifying expenses of a donating individual to the extent that payment has been made, or can reasonably be expected to be made, with respect to such expenses—
+An award may be made under subsection (a) of this section only if the applicant involved agreesthat the award will not be expended to pay the qualifying expenses of a donating individual to the extent that payment has been made, or can reasonably be expected to be made, with respect to such expenses—
 
 &emsp;(1) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program;
 

@@ -1,6 +1,6 @@
 ### §12314. Reserves: kinds of duty
 
-Notwithstanding any other provision of law, a member of a reserve component who is on active duty other than for training may, under regulations prescribed by the Secretary concerned, be detailed or assigned to any duty authorized by law for members of the regular component of the armed force concerned.
+Notwithstanding any other provision of law, a member of a reserve component who is on active duty other than for training may, under regulations prescribed by the Secretary concerned, be detailed or assigned to any duty authorized bylaw for members of the regular component of the armed force concerned.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 31, §682; renumbered §12314, Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992.)
 

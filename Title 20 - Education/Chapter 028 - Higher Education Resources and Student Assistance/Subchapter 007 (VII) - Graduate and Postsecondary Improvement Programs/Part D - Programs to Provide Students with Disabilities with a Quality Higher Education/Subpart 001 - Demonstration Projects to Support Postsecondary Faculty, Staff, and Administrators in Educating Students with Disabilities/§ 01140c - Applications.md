@@ -14,7 +14,7 @@ Each institution of higher education desiring to receive a grant, contract, or c
 
 #### Prior Provisions
 
-A prior section 1140c, Pub. L. 89–329, title VII, §764, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1803, established a rule of construction, prior to repeal by Pub. L. 110–315, title VII, §709(2), Aug. 14, 2008, 122 Stat. 3361.
+A prior section 1140c, Pub. L. 89–329, title VII, §764, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112Stat. 1803, established a rule of construction, prior to repeal by Pub. L. 110–315, title VII, §709(2), Aug. 14, 2008, 122 Stat. 3361.
 
 A prior section 763 of Pub. L. 89–329 was classified to section 1140b of this title, prior to repeal by Pub. L. 110–315.
 

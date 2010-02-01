@@ -22,7 +22,7 @@ Amounts from an allocation from the Operating Fund under section 1437g of this t
 
 #### (f) Use of proceeds from sales to eligible families
 
-The entity that transfers ownership interests in, or shares representing, units to eligible families, or another entity specified in the approved application, shall use the proceeds, if any, from the initial sale for costs of the homeownership program, including operating expenses, improvements to the project, business opportunities for low-income families, supportive services related to the homeownership program, additionalhomeownership opportunities, and other activities approved by the Secretary.
+The entity that transfers ownership interests in, or shares representing, units to eligible families, or another entity specified in the approved application, shall use the proceeds, if any, from the initial sale for costs of the homeownership program, including operating expenses, improvements to the project, business opportunities for low-income families, supportive services related to the homeownership program, additional homeownership opportunities, and other activities approved by the Secretary.
 
 #### (g) Restrictions on resale by homeowners
 
@@ -70,7 +70,7 @@ Not more than an aggregate of $250,000 from amounts made available under section
 
 #### (j) Timely homeownership
 
-Recipients shall transfer ownership of the property to tenants within a specified period of time that the Secretary determines to be reasonable. During the interim period when the property continues to be operated and managed as rental housing, the recipient shall utilize written tenant selection policies and criteria that are consistent with the public housing program and that are approved by the Secretary as consistent with the purpose of improving housing opportunities for low-income families. Therecipient shall promptly notify in writing any rejected applicant of the grounds for any rejection.
+Recipients shall transfer ownership of the property to tenants within a specified period of time that the Secretary determines to be reasonable. During the interim period when the property continues to be operated and managed as rental housing, the recipient shall utilize written tenant selection policies and criteria that are consistent with the public housing program and that are approved by the Secretary as consistent with the purpose of improving housing opportunities for low-income families. The recipient shall promptly notify in writing any rejected applicant of the grounds for any rejection.
 
 #### (k) Capability of resident management corporations and resident councils
 
@@ -84,7 +84,7 @@ To be eligible to receive a grant under section 1437aaa–2 of this title, a res
 
 #### (2) Access by the Secretary
 
-&emsp;The Secretary shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this subchapter.
+&emsp;The Secretary shall have access for the purpose of audit and examination to any books,documents, papers, and records of the recipient that are pertinent to assistance received under this subchapter.
 
 #### (3) Access by the Comptroller General
 

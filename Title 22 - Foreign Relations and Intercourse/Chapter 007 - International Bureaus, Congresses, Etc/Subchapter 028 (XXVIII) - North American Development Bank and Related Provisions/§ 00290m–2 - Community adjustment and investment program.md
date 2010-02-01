@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(i) community groups whose constituencies include low-income families;
 
-&emsp;&emsp;&emsp;(ii) any scientific, professional, business, nonprofit, or public interest organization or association which is neither affiliated with, nor under the direction of, a government;
+&emsp;&emsp;&emsp;(ii) any scientific, professional, business, nonprofit, or public interest organization or association which is neither affiliatedwith, nor under the direction of, a government;
 
 &emsp;&emsp;&emsp;(iii) for-profit business interests; and
 
@@ -72,7 +72,7 @@
 
 #### (E) Staff and facilities
 
-&emsp;&emsp;The Advisory Committee may utilize the facilities and services of employees of any Federal agency without cost to the AdvisoryCommittee, and any such agency is authorized to provide services as requested by the Committee.
+&emsp;&emsp;The Advisory Committee may utilize the facilities and services of employees of any Federal agency without cost to the Advisory Committee, and any such agency is authorized to provide services as requested by the Committee.
 
 #### (c) Ombudsman
 

@@ -2,7 +2,7 @@
 
 #### (a) Duty of States; status of projects; title to property
 
-To maintain fish-restoration and management projects established under the provisions of thischapter shall be the duty of the States according to their respective laws. Beginning July 1, 1953, maintenance of projects heretofore completed under the provisions of this chapter may be considered as projects under this chapter. Title to any real or personal property acquired by any State, and to improvements placed on State-owned lands through the use of funds paid to the State under the provisions of this chapter, shall be vested in such State.
+To maintain fish-restoration and management projects established under the provisions of this chapter shall be the duty of the States according to their respective laws. Beginning July 1, 1953, maintenance of projects heretofore completed under the provisions of this chapter may be considered as projects under this chapter. Title to any real or personal property acquired by any State, and to improvements placed on State-owned lands through the use of funds paid to the State under the provisions of this chapter, shall be vested in such State.
 
 #### (b) Funding requirements
 
@@ -96,7 +96,7 @@ Subsecs. (d) to (f). Pub. L. 105–178, §7402(c)(4), added subsecs. (d) and (e)
 
 Subsec. (g). Pub. L. 105–178, §7404(b), as amended by Pub. L. 105–206, §9012(c), added subsec. (g).
 
-1992—Subsec. (b)(1). Pub. L. 102–587, §5604(b)(1), substituted “121/2 per centum” for “10 per centum” after “allocate” and inserted at end “Notwithstanding this provision, States within a United States Fish and Wildlife Service Administrative Region may allocate more or less than 121/2 per centum in a fiscal year, provided that the total regional allocation averages 121/2 per centum over a 5 year period.”
+1992—Subsec. (b)(1). Pub. L. 102–587, §5604(b)(1), substituted “121/2 per centum” for “10 per centum” after “allocate” and inserted at end “Notwithstanding thisprovision, States within a United States Fish and Wildlife Service Administrative Region may allocate more or less than 121/2 per centum in a fiscal year, provided that the total regional allocation averages 121/2 per centum over a 5 year period.”
 
 Subsec. (b)(2). Pub. L. 102–587, §5604(b)(2), substituted “four fiscal years” for “fiscal year” after first reference to “succeeding” and “period” for second reference to “succeeding fiscal year”.
 

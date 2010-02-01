@@ -1,6 +1,6 @@
 ### §287e. Authorization of appropriations; payment of expenses
 
-There is hereby authorized to be appropriated annually to the Department of State, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary for the payment by the United States of its share of the expenses of the United Nations as apportioned by the General Assembly in accordance with article 17 of the Charter, and for all necessary salaries and expenses of the representatives provided for in section 287 of this title, and of their appropriate staffs, including personal services in the District of Columbia and elsewhere, without regard to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5; travel expenses without regard to the Standardized Government Travel Regulations, as amended, subchapter I of chapter 57 and section 5731 of title 5 and, under such rules and regulations as the Secretary of State may prescribe, travel expenses of families and transportation of effects of United States representatives and other personnel in going to and returning from their post of duty; allowances for living quarters, including heat, fuel, and light, as authorized by section 5912 of title 5; cost-of-living allowances for personnel stationed abroad under such rules and regulations as the Secretary of State may prescribe; communications services; stenographic reporting, translating, and other services, by contract; hire of passenger motor vehicles and other local transportation; rent of offices; printing and binding without regard to section 501 of title 44; allowances and expenses as provided in section 287r of this title, and allowances and expenses equivalent to those provided in section 4085 of this title; the lease or rental (for periods not exceeding ten years) of living quarters forthe use of the representatives provided for in section 287 of this title serving abroad and of their appropriate staffs the cost of installation and use of telephones in the same manner as telephone service is provided for use of the Foreign Service pursuant to section 1348 of title 31, and unusual expenses similar to those authorized by section 5913 of title 5, incident to the operation and maintenance of such living quarters abroad; and such other expenses as may be authorized by the Secretary of State; all without regard to section 5 of title 41.
+There is hereby authorized to be appropriated annually to the Department of State, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary for the payment by the United States of its share of the expenses of the United Nations as apportioned by the General Assembly in accordance with article 17 of the Charter, and for all necessary salaries and expenses of the representatives provided for in section 287 of this title, and of their appropriate staffs, including personal services in the District of Columbia and elsewhere, without regard to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5; travel expenses without regard to the Standardized Government Travel Regulations, as amended, subchapter I of chapter 57 and section 5731 of title 5 and, under such rules and regulations as the Secretary of State may prescribe, travel expenses of families and transportation of effects of United States representatives and other personnel in going to and returning from their post of duty; allowances for living quarters, including heat, fuel, and light, as authorized by section 5912 of title 5; cost-of-living allowances for personnel stationed abroad under such rules and regulations as the Secretary of State may prescribe; communications services; stenographic reporting, translating, and other services, bycontract; hire of passenger motor vehicles and other local transportation; rent of offices; printing and binding without regard to section 501 of title 44; allowances and expenses as provided in section 287r of this title, and allowances and expenses equivalent to those provided in section 4085 of this title; the lease or rental (for periods not exceeding ten years) of living quarters for the use of the representatives provided for in section 287 of this title serving abroad and of their appropriate staffs the cost of installation and use of telephones in the same manner as telephone service is provided for use of the Foreign Service pursuant to section 1348 of title 31, and unusual expenses similar to those authorized by section 5913 of title 5, incident to the operation and maintenance of such living quarters abroad; and such other expenses as may be authorized by the Secretary of State; all without regard to section 5 of title 41.
 
 (Dec. 20, 1945, ch. 583, §8, formerly §7, 59 Stat. 621, renumbered and amended Oct. 10, 1949, ch. 660, §6, 63 Stat. 736; Oct. 28, 1949, ch. 782, title II, §202(2), title XI, §1106(a), 63 Stat. 954, 972; Pub. L. 86–707, title III, §311(b), Sept. 6, 1960, 74 Stat. 797; Pub. L. 96–465, title II, §2206(a)(2)(B), Oct. 17, 1980, 94 Stat. 2161; Pub. L. 97–241, title I, §119, Aug. 24, 1982, 96 Stat. 280; Pub. L. 100–459, title III, §304(a), Oct. 1, 1988, 102 Stat. 2207.)
 
@@ -64,7 +64,7 @@ Pub. L. 106–113, div. B, §1000(a)(1) \[title IV, §406\], Nov. 29, 1999, 113 
 
 #### Refund of Excess Contributions
 
-Pub. L. 107–228, div. A, title I, §113(e), Sept. 30, 2002, 116 Stat. 1359, provided that: “The United States shall continue to insist that the United Nations and its specialized and affiliated agencies shall credit or refund to each member of the organization or agency concerned its proportionate share of the amount by which the total contributions to the organization or agency exceed the expenditures of the regular assessed budget of the organization or agency.”
+Pub. L. 107–228, div. A, title I, §113(e), Sept. 30, 2002, 116 Stat. 1359, provided that: “The United States shallcontinue to insist that the United Nations and its specialized and affiliated agencies shall credit or refund to each member of the organization or agency concerned its proportionate share of the amount by which the total contributions to the organization or agency exceed the expenditures of the regular assessed budget of the organization or agency.”
 
 Similar provisions were contained in the following prior authorization act:
 
@@ -134,7 +134,7 @@ Sense of the Congress.—It is the sense of the Congress that—
 
 &emsp;“(1) the President should take all such actions necessary to ensure compliance with the hiring freeze rule, including withholding all assessed United States contributions to the United Nations, and denying United States entry visas to Soviet and Soviet-bloc applicants coming to the United States to replace Soviet and Soviet-bloc nationals currently serving in the United Nations Secretariat;
 
-&emsp;“(2) the President, through the Department of State and the United States mission to the United Nations, should express to the Secretary-General of the United Nations the insistence of the American people that the hiring freeze continue indefinitely, or until the United Nations has complied with the Group of 18 recommendations and can thus afford to make exceptions to the freeze;
+&emsp;“(2) the President, through the Department of State and the United States mission to the United Nations, should express to the Secretary-General ofthe United Nations the insistence of the American people that the hiring freeze continue indefinitely, or until the United Nations has complied with the Group of 18 recommendations and can thus afford to make exceptions to the freeze;
 
 &emsp;“(3) the Secretary-General should revoke all exceptions to the hiring freeze rule, excepting those member-nations which have 15 or fewer nationals serving in the United Nations Secretariat, or those positions not subject to geographical representation, such as those of the general service category;
 
@@ -212,7 +212,7 @@ Report on Steps to Correct Practice.—The Secretary of State shall determine an
 
 Reduction in Contribution if Substantial Progess \[sic\]
 
-Not Made.—If the Secretary of State determines pursuant to subsection (b) that substantial progress has not been made in correcting this practice, the United States shall thereafter reduce the amount of its annual assessed contributions to the United Nations by the amount of that contribution which is the United States proportionate share of the salaries of those international civil servants employed by the United Nations who are returning any portion of their salaries to their respective governments.
+Not Made.—If the Secretary of State determines pursuant to subsection (b) that substantial progress has not been made in correcting this practice, the United States shall thereafter reduce the amount of its annual assessed contributions to the United Nations by the amount of that contribution which is the United States proportionate share of the salaries of those international civil servants employed by the UnitedNations who are returning any portion of their salaries to their respective governments.
 
 “(d)
 
@@ -252,7 +252,7 @@ Section 104(c) of Pub. L. 97–241 provided that: “The President shall annuall
 
 #### Limit on Payments to United Nations and Affiliated Agencies
 
-Pub. L. 103–236, title IV, §404(b)(1), (2), Apr. 30, 1994, 108 Stat. 447, as amended by Pub. L. 107–228, div. A, title IV, §402(a), Sept. 30, 2002, 116 Stat. 1388; Pub. L. 110–161, div. J, title I, §113, Dec. 26, 2007, 121 Stat. 2288, provided that:
+Pub. L. 103–236, title IV, §404(b)(1), (2), Apr. 30, 1994, 108 Stat. 447, as amended by Pub. L. 107–228, div. A, title IV, §402(a), Sept. 30, 2002, 116 Stat. 1388; Pub. L. 110–161, div. J, title I, §113, Dec. 26, 2007, 121 Stat. 2288; Pub. L. 111–8, div. H, title VII, §7051, Mar. 11, 2009, 123 Stat. 893; Pub. L. 111–117, div. F, title VII, §7051, Dec. 16, 2009, 123 Stat. 3378, provided that:
 
 “(1)
 
@@ -278,15 +278,17 @@ Reduction in united states share of assessed contributions.—Notwithstanding th
 
 &emsp;&emsp;“(iv) For assessments made during calendar year 2004, 27.40 percent.
 
-&emsp;&emsp;“(v) For assessments made during calendar year 2008, 27.1 percent.”
+&emsp;&emsp;“(v) For assessments made during each of the calendar years 2005, 2006, 2007, 2008, and 2009, 27.1 percent.
 
-\[Pub. L. 108–447, div. B, title IV, §411, Dec. 8, 2004, 118 Stat. 2905, provided that: “During fiscal year 2005, section 404(b)(2)(B) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236; 22 U.S.C. 287e note), shall be administered as though the matter following clause (iii) reads as follows:
+&emsp;&emsp;“(vi) For assessments made during calendar year 2010, 27.3 percent.”
 
-&emsp;\[“ ‘(v) For assessments made during calendar year 2005, 27.1 percent.’ ”\]
+\[Pub. L. 108–447, div. B, title IV, §411, Dec. 8, 2004, 118 Stat. 2905, provided that during fiscal year 2005, section 404(b)(2)(B) of Pub. L. 103–236, set out above, would be administered as though the final clause read as follows:
+
+&emsp;&emsp;\[“(v) For assessments made during calendar year 2005, 27.1 percent.”\]
 
 Pub. L. 103–236, title IV, §410, Apr. 30, 1994, 108 Stat. 454, provided that: “The United States shall not make any voluntary or assessed contribution—
 
-&emsp;“(1) to any affiliated organization of the United Nations which grants full membership as a state to anyorganization or group that does not have the internationally recognized attributes of statehood, or
+&emsp;“(1) to any affiliated organization of the United Nations which grants full membership as a state to any organization or group that does not have the internationally recognized attributes of statehood, or
 
 &emsp;“(2) to the United Nations, if the United Nations grants full membership as a state in the United Nations to any organization or group that does not have the internationally recognized attributes of statehood,
 

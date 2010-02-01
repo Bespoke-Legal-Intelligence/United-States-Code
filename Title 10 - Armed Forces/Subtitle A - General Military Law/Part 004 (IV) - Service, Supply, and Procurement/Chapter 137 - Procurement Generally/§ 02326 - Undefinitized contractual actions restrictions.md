@@ -68,7 +68,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term “qualifying proposal” means a proposal that contains sufficient information to enable the Department of Defense to conduct complete and meaningful audits of the information contained in the proposal and of any other information that the Department is entitled to review in connection with the contract, as determined by the contracting officer.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §908(d)(1)(A)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–140, and Pub. L. 99–591, §101(c) \[title X, §908(d)(1)(A)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–140; Pub. L. 99–661, div. A, title IX, formerly title IV, §908(d)(1)(A), Nov. 14, 1986, 100 Stat. 3920, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 101–189, div. A, title XVI, §1622(c)(6), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 102–25, title VII, §701(d)(5), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title I, §1505, Oct. 13, 1994, 108 Stat. 3298; Pub. L. 105–85, div. A, title VIII, §803(a), Nov. 18, 1997, 111 Stat. 1831.)
+(Added Pub. L. 99–500, §101(c) \[title X, §908(d)(1)(A)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–140, and Pub. L. 99–591, §101(c) \[title X, §908(d)(1)(A)\], Oct. 30, 1986, 100 Stat. 3341–82,3341–140; Pub. L. 99–661, div. A, title IX, formerly title IV, §908(d)(1)(A), Nov. 14, 1986, 100 Stat. 3920, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 101–189, div. A, title XVI, §1622(c)(6), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 102–25, title VII, §701(d)(5), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title I, §1505, Oct. 13, 1994, 108 Stat. 3298; Pub. L. 105–85, div. A, title VIII, §803(a), Nov. 18, 1997, 111 Stat. 1831.)
 
 #### Codification
 
@@ -111,6 +111,22 @@ Section 101(c) \[title X, §908(d)(2)\] of Pub. L. 99–500 and Pub. L. 99–591
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Revision of Defense Supplement Relating to Payment of Costs Prior to Definitization
+
+Pub. L. 111–84, div. A, title VIII, §812, Oct. 28, 2009, 123 Stat. 2406, provided that:
+
+“(a)
+
+Revision Required.—Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall revise the Defense Supplement to the Federal Acquisition Regulation to ensure that any limitations described in subsection (b) are applicable to all categories of undefinitized contractual actions (including undefinitized task orders and delivery orders).
+
+“(b)
+
+Limitations.—The limitations referred to in subsection (a) are any limitations on the reimbursement of costs and the payment of profits or fees with respect to costs incurred before the definitization of an undefinitized contractual action of the Department of Defense, including—
+
+&emsp;“(1) such limitations as described in part 52.216-26 of the Federal Acquisition Regulation; and
+
+&emsp;“(2) any such limitations implementing the requirements of section 809 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 2326 note).”
 
 #### Implementation and Enforcement of Requirements Applicable to Undefinitized Contractual Actions
 
@@ -158,7 +174,7 @@ report.—Not later than two years after the date of the enactment of this Act, 
 
 #### Limitation on Use of Funds for Undefinitized Contractual Actions; Oversight by Inspector General; Waiver Authority
 
-Section 101(c) \[title X, §908(a)–(c), (e)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 908(a)–(c), (e) oftitle IX, formerly title IV, of Pub. L. 99–661; renumbered title IX and amended by Pub. L. 100–26, §§3(5), 5(2), Apr. 21, 1987, 101 Stat. 273, 274; Pub. L. 104–106, div. D, title XLIII, §4322(b)(2), Feb. 10, 1996, 110 Stat. 677, provided that:
+Section 101(c) \[title X, §908(a)–(c), (e)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 908(a)–(c), (e) of title IX, formerly title IV, of Pub. L. 99–661; renumbered title IX and amended by Pub. L. 100–26, §§3(5), 5(2), Apr. 21, 1987, 101 Stat. 273, 274; Pub. L. 104–106, div. D, title XLIII, §4322(b)(2), Feb. 10, 1996, 110 Stat. 677, provided that:
 
 “(a)
 

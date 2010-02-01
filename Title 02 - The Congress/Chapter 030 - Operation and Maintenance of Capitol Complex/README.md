@@ -132,7 +132,7 @@
 |  |  |
 | :--- | ---: |
 | [2161\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002161%20-%20John%20W.%20McCormack%20Residential%20Page%20School.md) | John W. McCormack Residential Page School. |
-| [2162\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002162%20-%20Capitol%20power%20plant.md) | Capitol power plant. |
+| [2162\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002162%20-%20Capitol%20Power%20Plant.md) | Capitol Power Plant. |
 | [2162a.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002162a%20-%20Promoting%20maximum%20efficiency%20in%20operation%20of%20Capitol%20Power%20Plant.md) | Promoting maximum efficiency in operation of Capitol Power Plant. |
 | [2163\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002163%20-%20Capitol%20Grounds%20shuttle%20service.md) | Capitol Grounds shuttle service. |
 | [2164\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002164%20-%20Transportation%20of%20House%20Pages%20by%20Capitol%20Grounds%20shuttle%20service.md) | Transportation of House Pages by Capitol Grounds shuttle service. |

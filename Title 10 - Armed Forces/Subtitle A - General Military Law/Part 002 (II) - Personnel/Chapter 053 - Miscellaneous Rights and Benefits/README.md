@@ -141,7 +141,7 @@ Monthly Benefit.—The value of the benefit provided under subsection (a) to any
 
 &emsp;“(1) $40; or
 
-&emsp;“(2) 120 calling minutes, if the cost to the Department of Defense of providing such number of calling minutes is less than the amount specified in paragraph (1).
+&emsp;“(2) 120 calling minutes, if the cost to the Department of Defense of providing such number of callingminutes is less than the amount specified in paragraph (1).
 
 “(c)
 

@@ -56,7 +56,7 @@ In this chapter—
 
 &emsp;&emsp;(B) includes a department, agency, or instrumentality of the United States Government, or an authority of a State, political subdivision of a State, or Indian tribe, carrying out an activity described in clause (ii).
 
-&emsp;(5) “imminent hazard” means the existence of a condition relating to hazardous material that presents a substantial likelihood that death, serious illness, severe personal injury, or a substantial endangerment to health, property, or the environment may occur before the reasonably foreseeable completion date of a formal proceeding begun to lessen the risk of that death, illness, injury, or endangerment.
+&emsp;(5) “imminent hazard” means the existence of a condition relating to hazardous materialthat presents a substantial likelihood that death, serious illness, severe personal injury, or a substantial endangerment to health, property, or the environment may occur before the reasonably foreseeable completion date of a formal proceeding begun to lessen the risk of that death, illness, injury, or endangerment.
 
 &emsp;(6) “Indian tribe” has the same meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 
@@ -172,7 +172,7 @@ Jan. 3, 1975, Pub. L. 93–633, §103, 88 Stat. 2156; restated Nov. 16, 1990, Pu
 
 In this chapter, the words “or shipped” are omitted as being included in “transported”.
 
-In clause (1), before subclause (A), the text of 49 App.:1802(1), (3), and (13) is omitted because the complete names of the Administrator of the Environmental Protection Agency, Director of the Federal Emergency Management Agency, and Secretary of Transportation are used the first time the terms appear in a section.The words “traffic, commerce” are omitted as surplus. In subclause (B), the words “between a place in a State and a place outside of the State” are substituted for “described in clause (A)” for clarity.
+In clause (1), before subclause (A), the text of 49 App.:1802(1), (3), and (13) is omitted because the complete names of the Administrator of the Environmental Protection Agency, Director of the Federal Emergency Management Agency, and Secretary of Transportation are used the first time the terms appear in a section. The words “traffic, commerce” are omitted as surplus. In subclause (B), the words “between a place in a State and a place outside of the State” are substituted for “described in clause (A)” for clarity.
 
 In clauses (3)(C) and (10)(B), the words “at a minimum” are omitted as surplus.
 
@@ -194,7 +194,7 @@ Par. (3)(A)(i). Pub. L. 109–59, §7102(2)(A), as amended by Pub. L. 110–244,
 
 Par. (3)(A)(ii). Pub. L. 109–59, §7102(2)(B), as amended by Pub. L. 110–244, §302(a)(1), (3), substituted “course of such full time, part time, or temporary employment, or such self employment,” for “course of employment” and inserted “and” at end.
 
-Par. (3)(B). Pub. L. 109–59, §7102(2)(D)(i), as amended by Pub. L. 110–244, §302(a)(1), substituted “employed on a full time, part time, or temporary basis by a hazmat employer, or self employed,” for “employed by a hazmat employer,” in introductory provisions.
+Par. (3)(B). Pub. L. 109–59, §7102(2)(D)(i), as amended by Pub. L. 110–244, §302(a)(1), substituted “employed on a full time, part time, or temporary basis by a hazmatemployer, or self employed,” for “employed by a hazmat employer,” in introductory provisions.
 
 Pub. L. 109–59, §7102(2)(C), as amended by Pub. L. 110–244, §302(a)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “includes an owner-operator of a motor vehicle transporting hazardous material in commerce; and”.
 

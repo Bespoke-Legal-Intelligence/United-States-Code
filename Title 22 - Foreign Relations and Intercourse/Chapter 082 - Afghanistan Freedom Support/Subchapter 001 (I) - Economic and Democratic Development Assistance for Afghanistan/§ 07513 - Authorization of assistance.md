@@ -32,7 +32,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 #### (3) Counternarcotics efforts
 
-&emsp;(A) To assist in the eradication of poppy cultivation, the disruption of heroin production, and the reduction of the overall supply and demand for illicit narcotics in Afghanistan and the region, with particular emphasis on assistance to—
+&emsp;(A) To assist in the eradication of poppy cultivation, the disruption of heroin production, and the reduction of the overall supply and demand for illicit narcotics in Afghanistan andthe region, with particular emphasis on assistance to—
 
 &emsp;&emsp;(i) eradicate opium poppy, promote alternatives to poppy cultivation, including the introduction of high value crops that are suitable for export and the provision of appropriate technical assistance and credit mechanisms for farmers, purchase nonopium products from farmers in opium-growing areas, quick-impact public works programs to divert labor from narcotics production, develop projects directed specifically at narcotics production, processing, or trafficking areas to provide incentives to cooperation in narcotics suppression activities, and related programs;
 
@@ -50,7 +50,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 #### (4) Reestablishment of food security, rehabilitation of the agriculture sector, improvement in health conditions, and the reconstruction of basic infrastructure
 
-&emsp;To assist in expanding access to markets in Afghanistan, to increase the availability of food in markets in Afghanistan, to rehabilitate the agriculture sector in Afghanistan bycreating jobs for former combatants, returning refugees, and internally displaced persons, to improve health conditions, and assist in the rebuilding of basic infrastructure in Afghanistan, including assistance such as—
+&emsp;To assist in expanding access to markets in Afghanistan, to increase the availability of food in markets in Afghanistan, to rehabilitate the agriculture sector in Afghanistan by creating jobs for former combatants, returning refugees, and internally displaced persons, to improve health conditions, and assist in the rebuilding of basic infrastructure in Afghanistan, including assistance such as—
 
 &emsp;&emsp;(A) rehabilitation of the agricultural infrastructure, including irrigation systems and rural roads;
 
@@ -112,7 +112,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(vii) support for international organizations that provide civil advisers to the Government of Afghanistan; and
 
-&emsp;&emsp;&emsp;(viii) support for Afghan and international efforts to investigate human rights atrocities committed in Afghanistan by the Taliban regime, opponents ofsuch regime, and terrorist groups operating in Afghanistan, including the collection of forensic evidence relating to such atrocities.
+&emsp;&emsp;&emsp;(viii) support for Afghan and international efforts to investigate human rights atrocities committed in Afghanistan by the Taliban regime, opponents of such regime, and terrorist groups operating in Afghanistan, including the collection of forensic evidence relating to such atrocities.
 
 #### (C) Civil society and democracy
 
@@ -156,7 +156,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 #### (A) Assistance objectives
 
-&emsp;&emsp;To assist women and girls in Afghanistan in the areas of political and human rights, health care, education, training, security, and shelter, with particular emphasis on assistance—
+&emsp;&emsp;To assist women and girls in Afghanistan in the areas of political and human rights,health care, education, training, security, and shelter, with particular emphasis on assistance—
 
 &emsp;&emsp;&emsp;(i) to support construction of, provide equipment and medical supplies to, and otherwise facilitate the establishment and rehabilitation of, health care facilities in order to improve the health care of women, children, and infants;
 

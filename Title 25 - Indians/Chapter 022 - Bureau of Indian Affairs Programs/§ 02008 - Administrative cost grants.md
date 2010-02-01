@@ -184,7 +184,7 @@ In applying this section and section 106 of the Indian Self-Determination and Ed
 
 &emsp;&emsp;&emsp;(ii) a minimum base rate which ensures that the amount of the grants provided under this section will provide adequate (but not excessive) funding of the administrative costs of the largest tribal elementary or secondary educational programs; and
 
-&emsp;&emsp;&emsp;(iii) a standard direct cost base which is the aggregate direct cost funding level forwhich the percentage determined under subsection (d) of this section will—
+&emsp;&emsp;&emsp;(iii) a standard direct cost base which is the aggregate direct cost funding level for which the percentage determined under subsection (d) of this section will—
 
 &emsp;&emsp;&emsp;&emsp;(I) be equal to the median between the maximum base rate and the minimum base rate; and
 
@@ -222,7 +222,7 @@ In applying this section and section 106 of the Indian Self-Determination and Ed
 
 #### (6) Projection of costs
 
-&emsp;The Secretary shall include in the Bureau's justification for each appropriations request beginning in the first fiscal year after the completion of the studies conducted under paragraph (1), a projection of the overall costs associated with the formula set forth in subsection (c) of this section for all tribal elementary or secondary education programs which the Secretary expects to be funded in the fiscal year for which the appropriations are sought.
+&emsp;The Secretary shall include in the Bureau's justification for each appropriations requestbeginning in the first fiscal year after the completion of the studies conducted under paragraph (1), a projection of the overall costs associated with the formula set forth in subsection (c) of this section for all tribal elementary or secondary education programs which the Secretary expects to be funded in the fiscal year for which the appropriations are sought.
 
 #### (7) Determination of program size
 

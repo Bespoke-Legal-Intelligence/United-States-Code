@@ -338,7 +338,7 @@ A prior section 5320, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 818; Pu
 
 #### Amendments
 
-Subsec. (a). Pub. L. 110–244, §201(i)(7), added subsec. (a). Former subsec. (a) redesignated (b).
+2008—Subsec. (a). Pub. L. 110–244, §201(i)(7), added subsec. (a). Former subsec. (a) redesignated (b).
 
 Subsec. (a)(1)(A). Pub. L. 110–244, §201(i)(1), substituted “intraagency” for “intra-agency” in introductory provisions.
 

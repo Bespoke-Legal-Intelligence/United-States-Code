@@ -36,7 +36,7 @@ Congress makes the following findings:
 
 &emsp;(16) According to the same NIE report, HIV prevalence among militias in Angola and the Democratic Republic of the Congo are estimated at 40 to 60 percent, and at 15 to 30 percent in Tanzania.
 
-&emsp;(17) The HIV/AIDS epidemic is of increasing concern in other regions of the world, with UNAIDS estimating that there are more than 5,600,000 cases in South and South-east Asia, that the rate of HIV infection in the Caribbean is second only to sub-Saharan Africa, and thatHIV infections have doubled in just 2 years in the former Soviet Union.
+&emsp;(17) The HIV/AIDS epidemic is of increasing concern in other regions of the world, with UNAIDS estimating that there are more than 5,600,000 cases in South and South-east Asia, that the rate of HIV infection in the Caribbean is second only to sub-Saharan Africa, and that HIV infections have doubled in just 2 years in the former Soviet Union.
 
 &emsp;(18) Despite the discouraging statistics on the spread of HIV/AIDS, some developing nations—such as Uganda, Senegal, and Thailand—have implemented prevention programs that have substantially curbed the rate of HIV infection.
 

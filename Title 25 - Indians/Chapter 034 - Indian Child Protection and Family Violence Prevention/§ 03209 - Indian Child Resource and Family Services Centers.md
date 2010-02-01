@@ -6,7 +6,7 @@ The Secretary shall establish within each area office of the Bureau an Indian Ch
 
 #### (b) Memorandum of Agreement
 
-The Secretary and the Secretary of Health and Human Services shall enter into a Memorandum of Agreement which provides for the staffing of the Centers established under this section.
+The Secretary and the Secretary of Health and Human Services shall enter into a Memorandumof Agreement which provides for the staffing of the Centers established under this section.
 
 #### (c) Center staffing
 
@@ -24,7 +24,7 @@ Each Center established under subsection (a) of this section shall—
 
 &emsp;(4) develop recommendations to assist Federal and tribal personnel to respond to cases of family violence, child abuse, and child neglect; and
 
-&emsp;(5) develop policies and procedures for each agency office of the Bureau and service unit of the Service within the area which, to the extent feasible, comply with tribal laws pertaining to cases of family violence, child abuse, and child neglect, including any criminal laws,and which provide for maximum cooperation with the enforcement of such laws.
+&emsp;(5) develop policies and procedures for each agency office of the Bureau and service unit of the Service within the area which, to the extent feasible, comply with tribal laws pertaining to cases of family violence, child abuse, and child neglect, including any criminal laws, and which provide for maximum cooperation with the enforcement of such laws.
 
 #### (e) Multidisciplinary team personnel
 

@@ -36,7 +36,7 @@ The Secretary may approve a project under this section if the project will enhan
 
 #### (e) Project sustainability
 
-To the maximum extent practical, in determining whether to approve project proposals under this section, the Secretary shall give consideration to projects which will enhance sustainable conservation programs to ensure effective long-term conservation of rhinoceros and tigers.
+To the maximum extent practical, in determining whether to approve project proposalsunder this section, the Secretary shall give consideration to projects which will enhance sustainable conservation programs to ensure effective long-term conservation of rhinoceros and tigers.
 
 #### (f) Project reporting
 

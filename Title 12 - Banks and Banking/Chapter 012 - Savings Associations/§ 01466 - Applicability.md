@@ -6,7 +6,7 @@ The provisions of this chapter shall apply to the United States and to Puerto Ri
 
 #### Amendments
 
-1989—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “The provisions of this chapter shall apply to the continental United States (including Alaska), to the State of Hawaii, and to Puerto Rico, Guam and the Virgin Islands.”
+1989—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “The provisions of this chapter shall apply to the continental UnitedStates (including Alaska), to the State of Hawaii, and to Puerto Rico, Guam and the Virgin Islands.”
 
 1960—Pub. L. 86–624 substituted “State of Hawaii” for “Territory of Hawaii”.
 

@@ -4,13 +4,13 @@
 
 #### (1) In general
 
-&emsp;The Survey shall establish a national geologic map database.
+&emsp;The Survey shall establish a national geologic-map database.
 
 #### (2) Function
 
 &emsp;The database shall serve as a national catalog and archive, distributed through links to Federal and State geologic map holdings, that includes—
 
-&emsp;&emsp;(A) all maps developed under the Federal component and the education component;
+&emsp;&emsp;(A) all maps developed with funding provided by the National Cooperative Geologic Mapping Program, including under the Federal, State, and education components;
 
 &emsp;&emsp;(B) the databases developed in connection with investigations under subclauses (III), (IV), and (V) of section 31c(d)(1)(C)(ii) of this title; and
 
@@ -24,15 +24,19 @@
 
 #### (2) Development of standards
 
-&emsp;Entities that contribute geologic maps to the national archives shall develop the standards described in paragraph (1) in cooperationwith the Federal Geographic Data Committee, which is charged with standards development and other data coordination activities as described in Office of Management and Budget revised Circular A–16.
+&emsp;Entities that contribute geologic maps to the national archives shall develop the standards described in paragraph (1) in cooperation with the Federal Geographic Data Committee, which is charged with standards development and other data coordination activities as described in Office of Management and Budget revised Circular A–16.
 
-(Pub. L. 102–285, §7, May 18, 1992, 106 Stat. 171; Pub. L. 105–36, §3(e), Aug. 5, 1997, 111 Stat. 1110; Pub. L. 106–148, §7, Dec. 9, 1999, 113 Stat. 1723.)
+(Pub. L. 102–285, §7, May 18, 1992, 106 Stat. 171; Pub. L. 105–36, §3(e), Aug. 5, 1997, 111 Stat. 1110; Pub. L. 106–148, §7, Dec. 9, 1999, 113 Stat. 1723; Pub. L. 111–11, title XI, §11001(g), Mar. 30, 2009, 123 Stat. 1415.)
 
 #### References in Text
 
 Executive Order 12906, referred to in subsec. (b)(1), is set out as a note under section 1457 of this title.
 
 #### Amendments
+
+2009—Subsec. (a)(1). Pub. L. 111–11, §11001(g)(1), substituted “geologic-map” for “geologic map”.
+
+Subsec. (a)(2)(A). Pub. L. 111–11, §11001(g)(2), added subpar. (A) and struck out former subpar. (A) which read as follows: “all maps developed under the Federal component and the education component;”.
 
 1999—Pub. L. 106–148 substituted “geologic map database” for “geologic-map data base” in section catchline, added subsec. (a), and struck out heading and text of former subsec. (a). Text read as follows: “The Survey shall establish a national geologic-map data base. Such data base shall be a national archive that includes all maps developed pursuant to sections 31a to 31h of this title, the data bases developed pursuant to the investigations under sections 31c(d)(2)(C), (D), (E), and (F) of this title, and other maps and data as the Survey deems appropriate.”
 

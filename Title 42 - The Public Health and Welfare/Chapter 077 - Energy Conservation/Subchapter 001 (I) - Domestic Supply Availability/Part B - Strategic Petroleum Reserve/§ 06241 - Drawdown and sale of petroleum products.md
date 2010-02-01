@@ -66,7 +66,7 @@ The Secretary may drawdown and sell petroleum products in the Reserve only in ac
 
 &emsp;(D) below the level of an aggregate of 500,000,000 barrels of petroleum product stored in the Reserve.
 
-(3) During any period in which there is a drawdown and sale of the Reserve in effect under this subsection, the Secretary shall transmit amonthly report to the Congress containing an account of the drawdown and sale of petroleum products under this subsection and an assessment of its effect.
+(3) During any period in which there is a drawdown and sale of the Reserve in effect under this subsection, the Secretary shall transmit a monthly report to the Congress containing an account of the drawdown and sale of petroleum products under this subsection and an assessment of its effect.
 
 (4) In no case may the drawdown under this subsection be extended beyond 60 days with respect to any domestic energy supply shortage.
 
@@ -190,7 +190,7 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 #### References in Text
 
-This chapter, referred to in subsec. (j)(6), (7)(A), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsec. (j)(6), (7)(A), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the EnergyPolicy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
 

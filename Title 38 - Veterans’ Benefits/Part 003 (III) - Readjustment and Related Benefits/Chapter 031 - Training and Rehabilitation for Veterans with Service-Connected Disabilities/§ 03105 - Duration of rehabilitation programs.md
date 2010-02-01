@@ -30,7 +30,7 @@
 
 (3) The period for which, by reason of this subsection, a subsistence allowance and other assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall be the period of participation in the vocational rehabilitation program for which the veteran failed to receive credit or with respect to which the veteran lost training time, as determined by the Secretary.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2176, §1505; amended Pub. L. 99–576, title III, §333(b)(3), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3105 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105Stat. 406; Pub. L. 104–275, title I, §101(e), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 107–103, title I, §103(c)(1), Dec. 27, 2001, 115 Stat. 979; Pub. L. 110–389, title III, §331, Oct. 10, 2008, 122 Stat. 4170.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2176, §1505; amended Pub. L. 99–576, title III, §333(b)(3), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3105 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(e), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 107–103, title I, §103(c)(1), Dec. 27, 2001, 115 Stat. 979; Pub. L. 110–389, title III, §331, Oct. 10, 2008, 122 Stat. 4170.)
 
 #### Prior Provisions
 

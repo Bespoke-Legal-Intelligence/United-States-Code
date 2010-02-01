@@ -5,12 +5,14 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01396 - Appropriations](%C2%A7%2001396%20-%20Appropriations.md)
+- [&sect; 01396 - Medicaid and CHIP Payment and Access Commission](%C2%A7%2001396%20-%20Medicaid%20and%20CHIP%20Payment%20and%20Access%20Commission.md)
+- [&sect; 01396&#8211;1 - Appropriations](%C2%A7%2001396%E2%80%931%20-%20Appropriations.md)
 - [&sect; 01396a - State plans for medical assistance](%C2%A7%2001396a%20-%20State%20plans%20for%20medical%20assistance.md)
 - [&sect; 01396b - Payment to States](%C2%A7%2001396b%20-%20Payment%20to%20States.md)
 - [&sect; 01396c - Operation of State plans](%C2%A7%2001396c%20-%20Operation%20of%20State%20plans.md)
 - [&sect; 01396d - Definitions](%C2%A7%2001396d%20-%20Definitions.md)
 - [&sect; 01396e - Enrollment of individuals under group health plans](%C2%A7%2001396e%20-%20Enrollment%20of%20individuals%20under%20group%20health%20plans.md)
+- [&sect; 01396e&#8211;1 - Premium assistance option for children](%C2%A7%2001396e%E2%80%931%20-%20Premium%20assistance%20option%20for%20children.md)
 - [&sect; 01396f - Observance of religious beliefs](%C2%A7%2001396f%20-%20Observance%20of%20religious%20beliefs.md)
 - [&sect; 01396g - State programs for licensing of administrators of nursing homes](%C2%A7%2001396g%20-%20State%20programs%20for%20licensing%20of%20administrators%20of%20nursing%20homes.md)
 - [&sect; 01396g&#8211;1 - Required laws relating to medical child support](%C2%A7%2001396g%E2%80%931%20-%20Required%20laws%20relating%20to%20medical%20child%20support.md)
@@ -50,3 +52,4 @@
 - [&sect; 01396v - References to laws directly affecting medicaid program](%C2%A7%2001396v%20-%20References%20to%20laws%20directly%20affecting%20medicaid%20program.md)
 - [&sect; 01396w - Asset verification through access to information held by financial institutions](%C2%A7%2001396w%20-%20Asset%20verification%20through%20access%20to%20information%20held%20by%20financial%20institutions.md)
 - [&sect; 01396w&#8211;1 - Medicaid Improvement Fund](%C2%A7%2001396w%E2%80%931%20-%20Medicaid%20Improvement%20Fund.md)
+- [&sect; 01396w&#8211;2 - Authorization to receive relevant information](%C2%A7%2001396w%E2%80%932%20-%20Authorization%20to%20receive%20relevant%20information.md)

@@ -40,7 +40,7 @@ In the administration of voter registration for elections for Federal office, ea
 
 #### (b) Confirmation of voter registration
 
-Any State program or activity to protect the integrity of the electoral process by ensuringthe maintenance of an accurate and current voter registration roll for elections for Federal office—
+Any State program or activity to protect the integrity of the electoral process by ensuring the maintenance of an accurate and current voter registration roll for elections for Federal office—
 
 &emsp;(1) shall be uniform, nondiscriminatory, and in compliance with the Voting Rights Act of 1965 (42 U.S.C. 1973 et seq.); and
 
@@ -74,7 +74,7 @@ Any State program or activity to protect the integrity of the electoral process 
 
 (1) A State shall not remove the name of a registrant from the official list of eligible voters in elections for Federal office on the ground that the registrant has changed residence unless the registrant—
 
-&emsp;(A) confirms in writing that the registrant has changed residence to a place outside the registrar's jurisdiction in which the registrant is registered; or
+&emsp;(A) confirms in writing that the registrant has changed residence to a place outside theregistrar's jurisdiction in which the registrant is registered; or
 
 &emsp;(B)(i) has failed to respond to a notice described in paragraph (2); and
 

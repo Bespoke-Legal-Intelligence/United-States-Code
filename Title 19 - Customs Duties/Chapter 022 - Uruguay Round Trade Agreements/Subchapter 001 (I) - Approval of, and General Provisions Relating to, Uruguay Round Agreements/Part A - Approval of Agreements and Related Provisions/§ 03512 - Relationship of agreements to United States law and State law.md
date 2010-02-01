@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;On December 8, 1994, the President shall, through the intergovernmental policy advisory committees on trade established under section 2114c(2)(A) of this title, consult withthe States for the purpose of achieving conformity of State laws and practices with the Uruguay Round Agreements.
+&emsp;&emsp;On December 8, 1994, the President shall, through the intergovernmental policy advisory committees on trade established under section 2114c(2)(A) of this title, consult with the States for the purpose of achieving conformity of State laws and practices with the Uruguay Round Agreements.
 
 #### (B) Federal-State consultation process
 
@@ -66,7 +66,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;No State law, or the application of such a State law, may be declared invalid as to any person or circumstance on the ground that the provision or application is inconsistent with any of the Uruguay Round Agreements, except in an action brought by the United States for the purpose of declaring such law or application invalid.
+&emsp;&emsp;No State law, or the application of such a State law, may be declared invalid as to any person or circumstance on the ground that the provision or application is inconsistent with any of the Uruguay Round Agreements,except in an action brought by the United States for the purpose of declaring such law or application invalid.
 
 #### (B) Procedures governing action
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(ii) the United States shall have the burden of proving that the law that is the subject of the action, or the application of that law, is inconsistent with the agreement in question;
 
-&emsp;&emsp;&emsp;(iii) any State whose interests may be impaired or impeded in the action shallhave the unconditional right to intervene in the action as a party, and the United States shall be entitled to amend its complaint to include a claim or cross-claim concerning the law of a State that so intervenes; and
+&emsp;&emsp;&emsp;(iii) any State whose interests may be impaired or impeded in the action shall have the unconditional right to intervene in the action as a party, and the United States shall be entitled to amend its complaint to include a claim or cross-claim concerning the law of a State that so intervenes; and
 
 &emsp;&emsp;&emsp;(iv) any State law that is declared invalid shall not be deemed to have been invalid in its application during any period before the court's judgment becomes final and all timely appeals, including discretionary review, of such judgment are exhausted.
 

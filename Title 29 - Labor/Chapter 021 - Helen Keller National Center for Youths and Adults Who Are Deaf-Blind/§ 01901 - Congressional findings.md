@@ -26,7 +26,7 @@ Prior similar provisions were also contained in former section 42a of this title
 
 1992—Par. (1). Pub. L. 102–569, §908(a), substituted “individuals who are deaf-blind” for “deaf-blind individuals”.
 
-Par. (2). Pub. L. 102–569, §§901(1), 908(a), inserted “, the rapidly increasing number of older persons many of whom are experiencing significant losses of both vision and hearing,” after “1960's” and substituted “individuals who are deaf-blind” for “deaf-blind individuals” in two places.
+Par. (2). Pub. L. 102–569, §§901(1), 908(a), inserted “, the rapidly increasing number of older persons manyof whom are experiencing significant losses of both vision and hearing,” after “1960's” and substituted “individuals who are deaf-blind” for “deaf-blind individuals” in two places.
 
 Par. (3). Pub. L. 102–569, §908(a), substituted “individuals who are deaf-blind” for “deaf-blind individuals”.
 

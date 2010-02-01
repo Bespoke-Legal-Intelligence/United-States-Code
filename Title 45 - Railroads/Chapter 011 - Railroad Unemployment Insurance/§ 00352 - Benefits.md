@@ -74,7 +74,7 @@ Special rule regarding end of period.—For purposes of applying clause (ii), a 
 
 (2) The daily benefit rate with respect to any such employee for such day of unemployment or sickness shall be in an amount equal to 60 per centum of the daily rate of compensation for the employee's last employment in which he engaged for an employer in the base year, but not less than $12.70: <i>Provided, however</i>, That for registration periods beginning after June 30, 1975, but before July 1, 1976, such amount shall not exceed $24 per day of such unemployment or sickness, that for registration periods beginning after June 30, 1976, but before July 1, 1988, such amount shall not exceed $25 per day of such unemployment or sickness, that for registration periods beginning after June 30, 1988, but before July 1, 1989, such amount shall not exceed $30 per day of unemployment or sickness, and that for registration periods beginning after June 30, 1989, such amount shall not exceed the maximum daily benefit rate provided in paragraph (3) of this subsection. The daily rate of compensation referred to in this paragraph shall be determined by the Board on the basis of information furnished to the Board by the employee, his employer, or both.
 
-(3) The maximum daily benefit rate computed by the Board under section 362(r)(2) of this title shall be the product of the monthly compensation base, as computed under section 351(i)(2) of this title for the base year immediately preceding the beginning of the benefit year, multiplied by 5 percent. If the maximum daily benefit rate so computed is not a multiple of $1, it shall be rounded down to the nearest multiple of $1.
+(3) The maximum daily benefit rate computed by the Board under section 362(r)(2) of this titleshall be the product of the monthly compensation base, as computed under section 351(i)(2) of this title for the base year immediately preceding the beginning of the benefit year, multiplied by 5 percent. If the maximum daily benefit rate so computed is not a multiple of $1, it shall be rounded down to the nearest multiple of $1.
 
 (4) In computing benefits to be paid, days of unemployment shall not be combined with days of sickness in the same registration period.
 
@@ -107,6 +107,28 @@ The benefits provided for in this section shall be paid to an employee at such r
 #### (C) Termination when employee reaches age of 65
 
 &emsp;&emsp;Notwithstanding any other provision of this paragraph, an extended benefit period for sickness benefits shall terminate on the day next preceding the date on which the employee attains age 65, except that it may continue for the purpose of paying benefits for days of unemployment.
+
+#### (D) Temporary increase in extended unemployment benefits
+
+#### (i) Employees with 10 or more years of service
+
+&emsp;&emsp;&emsp;Subject to clause (iii), in the case of an employee who has 10 or more years of service (as so defined), with respect to extended unemployment benefits—
+
+&emsp;&emsp;&emsp;&emsp;(I) subparagraph (A) shall be applied by substituting “130 days of unemployment” for “65 days of unemployment”; and
+
+&emsp;&emsp;&emsp;&emsp;(II) subparagraph (B) shall be applied by inserting “(or, in the case of unemployment benefits, 13 consecutive 14-day periods)” after “7 consecutive 14-day periods”.
+
+#### (ii) Employees with less than 10 years of service
+
+&emsp;&emsp;&emsp;Subject to clause (iii), in the case of an employee who has less than 10 years of service (as so defined), with respect to extended unemployment benefits, this paragraph shall apply to such an employee in the same manner as this paragraph would apply to an employee described in clause (i) if such clause had not been enacted.
+
+#### (iii) Application
+
+&emsp;&emsp;&emsp;The provisions of clauses (i) and (ii) shall apply to an employee who received normal benefits for days of unemployment under this chapter during the period beginning July 1, 2008, and ending on June 30, 2010, except that no extended benefit period under this paragraph shall begin after December 31, 2010. Notwithstanding the preceding sentence, no benefits shall be payable under this subparagraph and clauses (i) and (ii) shall no longer be applicable upon the exhaustion of the funds appropriated under clause (iv) for payment of benefits under this subparagraph.
+
+#### (iv) Appropriation
+
+&emsp;&emsp;&emsp;Out of any funds in the Treasury not otherwise appropriated, there are appropriated $20,000,000 to cover the cost of additional extended unemployment benefits provided under this subparagraph, to remain available until expended. In addition to the amount appropriated by the preceding sentence, out of any funds in the Treasury not otherwise appropriated, there are appropriated $175,000,000 to cover the cost of additional extended unemployment benefits provided under this subparagraph, to remain available until expended.
 
 #### (3) Accelerated benefits
 
@@ -144,9 +166,19 @@ If (i) benefits are paid to any employee with respect to unemployment or sicknes
 
 Benefits accrued to an individual but not yet paid at death shall, upon certification by the Board, be paid, without necessity of filing further claims therefor, to the same individual or individuals to whom any accrued annuities under section 231e(a)(1) of this title are paid. In the event that no such accrued annuities are paid, and if application for such accrued benefits is filed prior to the expiration of two years after the death of the individual to whom such benefits accrued, such accrued benefits shall be paid, upon certification by the Board, to the individual or individuals who would be entitled thereto under section 231e(a)(1) of this title if such accrued benefits were accrued annuities. If there is no individual to whom all or any part of such accrued benefits can be paid in accordance with the foregoing provisions, such benefits or part thereof shall escheat to the credit of the account.
 
-(June 25, 1938, ch. 680, §2, 52 Stat. 1096; June 20, 1939, ch. 227, §§7–9, 21, 53 Stat. 845, 848; Oct. 10, 1940, ch. 842, §§9–12, 54 Stat. 1095, 1096; July 31, 1946, ch. 709, §§305–307, 60 Stat. 736, 737; May 15, 1952, ch. 290, §1, 66 Stat. 73; Aug. 31, 1954, ch. 1164, pt. III, §304, 68 Stat. 1041; Aug. 12, 1955, ch. 869, §4, 69 Stat. 716; Pub. L. 86–28, pt. III, §§302, 303(a), May 19, 1959, 73 Stat. 30; Pub. L. 89–700, title II, §202, Oct. 30, 1966, 80 Stat. 1087; Pub. L. 90–257, title II, §202, Feb. 15, 1968, 82 Stat. 23; Pub. L. 93–445, title IV, §401, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–92, title I, §1(c)–(e), Aug. 9, 1975, 89 Stat. 461, 462; Pub. L. 98–76, title IV, §412(a), Aug. 12, 1983, 97 Stat. 436; Pub. L. 100–647, title VII, §§7101(c), 7201(a), Nov. 10, 1988, 102 Stat. 3758, 3774; Pub. L. 104–88, title III, §324(3), Dec. 29, 1995, 109 Stat. 950; Pub. L. 104–251, §§2–5(b), Oct. 9, 1996, 110 Stat. 3161–3165.)
+(June 25, 1938, ch. 680, §2, 52 Stat. 1096; June 20, 1939, ch. 227, §§7–9, 21, 53 Stat. 845, 848; Oct. 10, 1940, ch. 842, §§9–12, 54 Stat. 1095, 1096; July 31, 1946, ch. 709, §§305–307, 60 Stat. 736, 737; May 15, 1952, ch. 290, §1, 66 Stat. 73; Aug. 31, 1954, ch. 1164, pt. III, §304, 68 Stat. 1041; Aug. 12, 1955, ch. 869, §4, 69 Stat. 716; Pub. L. 86–28, pt. III, §§302, 303(a), May 19, 1959, 73 Stat. 30; Pub. L. 89–700, title II, §202, Oct. 30, 1966, 80 Stat. 1087; Pub. L. 90–257, title II, §202, Feb. 15, 1968, 82 Stat. 23; Pub. L. 93–445, title IV, §401, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–92, title I, §1(c)–(e), Aug. 9, 1975, 89 Stat. 461, 462; Pub. L. 98–76, title IV, §412(a), Aug. 12, 1983, 97 Stat. 436; Pub. L. 100–647, title VII, §§7101(c), 7201(a), Nov. 10, 1988, 102 Stat. 3758, 3774; Pub. L. 104–88, title III, §324(3), Dec. 29, 1995, 109 Stat. 950; Pub. L. 104–251, §§2–5(b), Oct. 9, 1996, 110 Stat. 3161–3165; Pub. L. 111–5, div. B, title II, §2006(a), Feb. 17, 2009, 123 Stat. 445; Pub. L. 111–92, §9(a), Nov. 6, 2009, 123 Stat. 2988.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (c)(2)(D)(iii) and (d), was in the original “this Act”, meaning act June 25, 1938, ch. 680, 52 Stat. 1094, which enacted this chapter and amended sections 503 and 1104 and former section 1107 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 367 of this title and Tables.
 
 #### Amendments
+
+2009—Subsec. (c)(2)(D). Pub. L. 111–5 added subpar. (D).
+
+Subsec. (c)(2)(D)(iii). Pub. L. 111–92, §9(a)(1), substituted “June 30, 2010” for “June 30, 2009” and “December 31, 2010” for “December 31, 2009”.
+
+Subsec. (c)(2)(D)(iv). Pub. L. 111–92, §9(a)(2), inserted at end “In addition to the amount appropriated by the preceding sentence, out of any funds in the Treasury not otherwise appropriated, there are appropriated $175,000,000 to cover the cost of additional extended unemployment benefits provided under this subparagraph, to remain available until expended.”
 
 1996—Subsec. (a)(1)(A). Pub. L. 104–251, §2, inserted heading and amended text generally. Prior to amendment, text read as follows: “(A)(i) Except as otherwise provided in this subparagraph, benefits shall be payable to any qualified employee for each day of unemployment in excess of 4 during any registration period.
 
@@ -196,7 +228,7 @@ Subsec. (g). Pub. L. 93–445, §401(b), substituted “section 231e(a)(1) of th
 
 1968—Subsec. (a). Pub. L. 90–257, §202(a), struck out all references to the payment of maternity benefits, amended table of benefit rates by striking out the line for persons in the compensation range of $750 to $999.99 and by increasing the rates of benefits for the remaining categories from $5.50 to $8.00, $6.00 to $8.50, $6.50 to $9.00, $7.00 to $9.50, $7.50 to $10.00, $8.00 to $10.50, $8.50 to $11.00, $9.00 to $11.50, $9.50 to $12.00, and $10.20 to $12.70 respectively, and raised from $10.20 to $12.70 the maximum rate applicable if the formula of 60 per centum of the daily rate of compensation for the employee's last employment in which he engaged for an employer in the base year is used.
 
-Subsec. (c). Pub. L. 90–257, §202(b), removed all references to payment of maternity benefits, made provision for extended sickness benefits similar to extended unemployment benefits, added to existing provisions for the early beginning of a general benefit year (or accelerated benefit year) in certain cases involving days of unemployment similar provisions for a similar early beginning of a general benefit year in certain cases involving days of sickness, and inserted provisions dealing with the effect of the attainment of age 65 on anemployee's receipt of extended sickness benefits and on his receipt of sickness benefits in an accelerated benefit year and relating to the evidence of age on which the Board may rely for purposes of determining the attainment of age 65.
+Subsec. (c). Pub. L. 90–257, §202(b), removed all references to payment of maternity benefits, made provision for extended sickness benefits similar to extended unemployment benefits, added to existing provisions for the early beginning of a general benefit year (or accelerated benefit year) in certain cases involving days of unemployment similar provisions for a similar early beginning of a general benefit year in certain cases involving days of sickness, and inserted provisions dealing with the effect of the attainment of age 65 on an employee's receipt of extended sickness benefits and on his receipt of sickness benefits in an accelerated benefit year and relating to the evidence of age on which the Board may rely for purposes of determining the attainment of age 65.
 
 1966—Subsec. (a). Pub. L. 89–700, §202(a), struck out daily benefit rate of $4.50 for the compensation range of $500 to $699.99 from the table, and substituted “750” for “700” in Column I.
 
@@ -266,7 +298,7 @@ Amendment by Pub. L. 93–445 effective Jan. 1, 1975, see section 603 of Pub. L.
 
 #### Effective Date of 1968 Amendment
 
-Section 208 of Pub. L. 90–257 provided that: “The amendments made by sections 201(a)(1), 201(b), 202(a)(1), 202(a)(2), 202(b)(1), 206 and 207 \[amending this section and sections 351, 362, and 363 of this title\] shall be effective as of July 1, 1968. The amendments made by sections 201(a)(2) and 203 \[amending sections 351 and 353 of this title\] shall be effective with respect to base years beginning in calendar years after December 31, 1966, except that with respect to the base year in calendar year 1967 the amendments made by section 203 \[amending section 353 of this title\] shall not be applicable to an employee whose compensation with respect to that base year was not less than $750 but less than $1,000; further, as to such an employee, the amendments made by section 202(a)(3) \[amending this section\] shall not beapplicable with respect to days of unemployment and days of sickness in registration periods in the benefit year beginning July 1, 1968. The amendments made by section 202(a)(3) \[amending this section\] shall otherwise be effective with respect to days of unemployment and days of sickness in registration periods beginning on or after July 1, 1968. The amendments made by sections 202(b)(2)(i) through (vi) \[amending this section\] shall be effective to provide the beginning of extended benefit periods on or after July 1, 1968. The amendments made by section 202(b)(2)(vii) through (ix) \[amending this section\] shall be effective to provide for the early beginning of a benefit year on or after July 1, 1967. The amendment made by section 204(a) \[amending section 354 of this title\] shall be effective with respect to calendar days in benefit years beginning after June 30, 1968, and the amendment made by section 204(b) \[amending section 354 of this title\] shall be effective with respect to voluntary leaving of work (within the meaning of section 4(a–2)(i) of the Railroad Unemployment Insurance Act \[section 354(a–2)(i) of this title\]) after the enactment date of this Act \[Feb. 15, 1968\].”
+Section 208 of Pub. L. 90–257 provided that: “The amendments made by sections 201(a)(1), 201(b), 202(a)(1), 202(a)(2), 202(b)(1), 206 and 207 \[amending this section and sections 351, 362, and 363 of this title\] shall be effective as of July 1, 1968. The amendments made by sections 201(a)(2) and 203 \[amending sections 351 and 353 of this title\] shall be effective with respect to base years beginning in calendar years after December 31, 1966, except that with respect to the base year in calendar year 1967 the amendments made by section 203 \[amending section 353 of this title\] shall not be applicable to an employee whose compensation with respect to that base year was not less than $750 but less than $1,000; further, as to such an employee, the amendments made by section 202(a)(3) \[amending this section\] shall not be applicable with respect to days of unemployment and days of sickness in registration periods in the benefit year beginning July 1, 1968. The amendments made by section 202(a)(3) \[amending this section\] shall otherwise be effective with respect to days of unemployment and days of sickness in registration periods beginning on or after July 1, 1968. The amendments made by sections 202(b)(2)(i) through (vi) \[amending this section\] shall be effective to provide the beginning of extended benefit periods on or after July 1, 1968. The amendments made by section 202(b)(2)(vii) through (ix) \[amending this section\] shall be effective to provide for the early beginning of a benefit year on or after July 1, 1967. The amendment made by section 204(a) \[amending section 354 of this title\] shall be effective with respect to calendar days in benefit years beginning after June 30, 1968, and the amendment made by section 204(b) \[amending section 354 of this title\] shall be effective with respect to voluntary leaving of work (within the meaning of section 4(a–2)(i) of the Railroad Unemployment Insurance Act \[section 354(a–2)(i) of this title\]) after the enactment date of this Act \[Feb. 15, 1968\].”
 
 #### Effective Date of 1959 Amendment
 
@@ -296,7 +328,7 @@ For effective date of amendment by act Oct. 10, 1940, see section 1 of act Oct. 
 
 #### Extended Railroad Unemployment Insurance Benefits During Periods of High National Unemployment
 
-Pub. L. 102–164, title V, §501, Nov. 15, 1991, 105 Stat. 1064, as amended by Pub. L. 102–182, §3(a)(6), (7), Dec. 4, 1991, 105 Stat. 1234; Pub. L. 102–244, §5, Feb. 7, 1992, 106 Stat. 5; Pub. L. 102–318, title I, §105, July 3, 1992, 106 Stat. 293; Pub. L. 103–6, §3(a), (b), Mar. 4, 1993, 107 Stat. 33; Pub. L. 103–152, §§8, 9(b), Nov. 24, 1993, 107 Stat. 1519, provided that:
+Pub. L. 102–164, title V, §501, Nov. 15, 1991, 105 Stat. 1064, as amended by Pub. L. 102–182, §3(a)(6), (7), Dec. 4,1991, 105 Stat. 1234; Pub. L. 102–244, §5, Feb. 7, 1992, 106 Stat. 5; Pub. L. 102–318, title I, §105, July 3, 1992, 106 Stat. 293; Pub. L. 103–6, §3(a), (b), Mar. 4, 1993, 107 Stat. 33; Pub. L. 103–152, §§8, 9(b), Nov. 24, 1993, 107 Stat. 1519, provided that:
 
 “(a)
 
@@ -358,7 +390,7 @@ Reductions under emergency compensation extension provisions.—
 
 &emsp;&emsp;“(C)
 
-Limitations on reductions.—Notwithstanding subparagraphs (A) and (B), in the case of an individual who is receiving extended benefits under section 2(c) of the Railroad Unemployment Insurance Act \[45 U.S.C. 352(c)\] for persons with 10 or more but less than 15 years of service, or extended benefits by reason of this section, for any day during a week which precedes a period for which a reduction under this paragraph takes effect, such reduction shall not apply for purposes of determining the amount of benefits payable to such individual for any day thereafter for which the individualmeets the eligibility requirements of this section and the Railroad Unemployment Insurance Act \[45 U.S.C. 351 et seq.\].
+Limitations on reductions.—Notwithstanding subparagraphs (A) and (B), in the case of an individual who is receiving extended benefits under section 2(c) of the Railroad Unemployment Insurance Act \[45 U.S.C. 352(c)\] for persons with 10 or more but less than 15 years of service, or extended benefits by reason of this section, for any day during a week which precedes a period for which a reduction under this paragraph takes effect, such reduction shall not apply for purposes of determining the amount of benefits payable to such individual for any day thereafter for which the individual meets the eligibility requirements of this section and the Railroad Unemployment Insurance Act \[45 U.S.C. 351 et seq.\].
 
 “(e)
 

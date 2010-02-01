@@ -22,7 +22,7 @@ Price.—(1) In this subsection, “direct costs” means the actual costs that�
 
 &emsp;(A) acquiring launch property by sale or transaction instead of sale is the fair market value;
 
-&emsp;(B) acquiring launch property (except by sale or transaction instead of sale) is an amount equal to the direct costs, including specific wear and tear and property damage, the Government incurred because of acquisition of the property; and
+&emsp;(B) acquiring launch property (except by sale or transaction instead of sale) is anamount equal to the direct costs, including specific wear and tear and property damage, the Government incurred because of acquisition of the property; and
 
 &emsp;(C) launch services or reentry services is an amount equal to the direct costs, including the basic pay of Government civilian and contractor personnel, the Government incurred because of acquisition of the services.
 

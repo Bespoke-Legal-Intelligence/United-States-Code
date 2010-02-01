@@ -36,7 +36,7 @@ It is the sense of the Congress that:
 
 &emsp;(6) The National Collegiate Athletic Association, its member colleges and universities, and athletic conferences should affirm a commitment to a policy of discouraging alcohol use among underage students and other young fans.
 
-&emsp;(7) Alcohol is a unique product and should be regulated differently than other products by the States and Federal Government. States have primary authority to regulate alcoholdistribution and sale, and the Federal Government should support and supplement these State efforts. States also have a responsibility to fight youth access to alcohol and reduce underage drinking. Continued State regulation and licensing of the manufacture, importation, sale, distribution, transportation and storage of alcoholic beverages are clearly in the public interest and are critical to promoting responsible consumption, preventing illegal access to alcohol by persons under 21 years of age from commercial and non-commercial sources, maintaining industry integrity and an orderly marketplace, and furthering effective State tax collection.
+&emsp;(7) Alcohol is a unique product and should be regulated differently than other products by the States and Federal Government. States have primary authority to regulate alcohol distribution and sale, and the Federal Government should support and supplement these State efforts. States also have a responsibility to fight youth access to alcohol and reduce underage drinking. Continued State regulation and licensing of the manufacture, importation, sale, distribution, transportation and storage of alcoholic beverages are clearly in the public interest and are critical to promoting responsible consumption, preventing illegal access to alcohol by persons under 21 years of age from commercial and non-commercial sources, maintaining industry integrity and an orderly marketplace, and furthering effective State tax collection.
 
 #### (c) Interagency coordinating committee; annual report on State underage drinking prevention and enforcement activities
 
@@ -156,7 +156,7 @@ It is the sense of the Congress that:
 
 #### (4) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this subsection, $1,000,000 for fiscal year 2007 and $1,000,000 for each of the fiscal years 2008 through 2010.
+&emsp;There are authorized to be appropriated to carry out this subsection, $1,000,000 for fiscalyear 2007 and $1,000,000 for each of the fiscal years 2008 through 2010.
 
 #### (e) Interventions
 

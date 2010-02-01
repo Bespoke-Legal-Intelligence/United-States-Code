@@ -230,7 +230,7 @@ Except as provided in regulations—
 
 #### (5) Coordination with subsection (d)
 
-&emsp;Under regulations, appropriate adjustments shall be made in the application of subsection (d) to take into account the provisions of this subsection.
+&emsp;Under regulations, appropriate adjustments shall be made in the application of subsection\(d) to take into account the provisions of this subsection.
 
 #### (g) Relief provisions
 
@@ -244,7 +244,7 @@ Except as provided in regulations—
 
 &emsp;&emsp;&emsp;(ii) an election under subsection (b)(3) or (c)(5) of section 2632.
 
-> &emsp;&emsp;Such regulations shall include procedures for requesting comparable relief with respectto transfers made before the date of the enactment of this paragraph.
+> &emsp;&emsp;Such regulations shall include procedures for requesting comparable relief with respect to transfers made before the date of the enactment of this paragraph.
 
 #### (B) Basis for determinations
 

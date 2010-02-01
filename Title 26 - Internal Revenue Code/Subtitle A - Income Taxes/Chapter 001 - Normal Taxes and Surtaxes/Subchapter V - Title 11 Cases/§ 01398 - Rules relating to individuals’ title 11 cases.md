@@ -62,7 +62,7 @@ Except as provided in subsection (b), this section shall apply to any case under
 
 #### (F) Annualization
 
-&emsp;&emsp;For purposes of subsections (b), (c), and (d) of section 443, a return filed for either of the taxable years referred to in subparagraph (A) shall be treated as a return made under paragraph (1) of subsection (a) of section 443.
+&emsp;&emsp;For purposes of subsections (b), (c), and (d) of section 443, a return filed for either of the taxable years referred to in subparagraph\(A) shall be treated as a return made under paragraph (1) of subsection (a) of section 443.
 
 #### (3) Commencement date defined
 
@@ -92,7 +92,7 @@ Except as provided in subsection (b), this section shall apply to any case under
 
 #### (1) Transfer to estate not treated as disposition
 
-&emsp;A transfer (other than by sale or exchange) of an asset from the debtor to the estate shall not be treated as a disposition for purposes ofany provision of this title assigning tax consequences to a disposition, and the estate shall be treated as the debtor would be treated with respect to such asset.
+&emsp;A transfer (other than by sale or exchange) of an asset from the debtor to the estate shall not be treated as a disposition for purposes of any provision of this title assigning tax consequences to a disposition, and the estate shall be treated as the debtor would be treated with respect to such asset.
 
 #### (2) Transfer from estate to debtor not treated as disposition
 

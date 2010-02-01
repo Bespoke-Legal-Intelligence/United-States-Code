@@ -8,7 +8,7 @@
 
 #### (2) Designation
 
-&emsp;Each recipient of a fellowship award from an eligible institution receiving a grant underthis section shall be known as a “Patsy T. Mink Graduate Fellow”.
+&emsp;Each recipient of a fellowship award from an eligible institution receiving a grant under this section shall be known as a “Patsy T. Mink Graduate Fellow”.
 
 #### (b) Eligible institution
 
@@ -100,7 +100,7 @@ In this section, the term “eligible institution” means an institution of hig
 
 #### (C) Reduction
 
-&emsp;&emsp;The institutional allowance paid under subparagraph (A) shall be reduced by the amount the eligible institution charges and collects from a fellowship recipient for tuition and other expenses as part of the recipient's instructional program.
+&emsp;&emsp;The institutional allowance paid under subparagraph (A) shall be reduced by theamount the eligible institution charges and collects from a fellowship recipient for tuition and other expenses as part of the recipient's instructional program.
 
 #### (D) Use for overhead prohibited
 

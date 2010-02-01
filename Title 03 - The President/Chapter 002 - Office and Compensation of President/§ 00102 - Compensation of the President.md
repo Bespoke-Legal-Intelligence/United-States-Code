@@ -194,7 +194,7 @@ Sec. 6. (a) There are hereby authorized to be appropriated to the Administrator 
 
 #### Expense Allowance: Use; Reversion of Unexpended Portion; Nontaxable
 
-Provisions prohibiting expenditure of funds made available for official expenses for any other purpose and requiring reversion of any unused amount to the Treasury pursuant to 31 U.S.C. 1552 were contained in a paragraph under the headings “EXECUTIVE OFFICE OF THE PRESIDENT AND FUNDS APPROPRIATED TO THE PRESIDENT” and “
+Provisions prohibiting expenditure of funds made available for official expenses for any other purpose and requiring reversion of any unused amount to the Treasury pursuant to 31 U.S.C. 1552 were contained in a paragraph under the headings “EXECUTIVE OFFICEOF THE PRESIDENT AND FUNDS APPROPRIATED TO THE PRESIDENT” and “
 
 Compensation of the President” in the Executive Office of the President Appropriations Act, 2006, Pub. L. 109–115, div. A, title V, Nov. 30, 2005, 119 Stat. 2472, and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriation acts:
 

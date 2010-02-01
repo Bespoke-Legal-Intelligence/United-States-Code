@@ -8,7 +8,7 @@ There is established in the Department the United States Customs Service, under 
 
 #### (1) In general
 
-&emsp;There shall be at the head of the Customs Service a Commissioner of Customs, who shallbe appointed by the President, by and with the advice and consent of the Senate.
+&emsp;There shall be at the head of the Customs Service a Commissioner of Customs, who shall be appointed by the President, by and with the advice and consent of the Senate.
 
 #### (2) Omitted
 

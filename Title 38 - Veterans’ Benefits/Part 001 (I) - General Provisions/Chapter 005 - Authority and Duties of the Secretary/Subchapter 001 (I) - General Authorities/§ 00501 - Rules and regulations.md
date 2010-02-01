@@ -12,7 +12,7 @@
 
 (b) Any rule, regulation, guideline, or other published interpretation or order (and any amendment thereto) issued pursuant to the authority granted by this section or any other provision of this title shall contain citations to the particular section or sections of statutory law or other legal authority upon which such issuance is based. The citation to the authority shall appear immediately following each substantive provision of the issuance.
 
-(c) In applying section 552(a)(1) of title 5 to the Department, the Secretary shall ensure that subparagraphs (C), (D), and (E) of that section are complied with, particularly with respect to opinions and interpretations of the General Counsel.
+(c) In applying section 552(a)(1) of title 5 to the Department, the Secretary shall ensure thatsubparagraphs (C), (D), and (E) of that section are complied with, particularly with respect to opinions and interpretations of the General Counsel.
 
 (d) The provisions of section 553 of title 5 shall apply, without regard to subsection (a)(2) of that section, to matters relating to loans, grants, or benefits under a law administered by the Secretary.
 

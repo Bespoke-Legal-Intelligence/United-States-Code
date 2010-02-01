@@ -10,7 +10,7 @@
 
 (3) Except when the head of an Executive agency, a military department, or of the government of the District of Columbia determines that his organization would be seriously handicapped in carrying out its functions or that costs would be substantially increased, he shall provide, with respect to each employee in his organization, that—
 
-&emsp;(A) assignments to tours of duty are scheduled in advance over periods of not less than 1 week
+&emsp;(A) assignments to tours of duty are scheduled in advance over periods of not less than 1 week;
 
 &emsp;(B) the basic 40-hour workweek is scheduled on 5 days, Monday through Friday when possible, and the 2 days outside the basic workweek are consecutive;
 
@@ -290,7 +290,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 “(b)(1) An employee in a unit with respect to which an organization of Government employees has not been accorded exclusive recognition shall not be required to participate in any experiment under subsection (a) unless a majority of the employees in such unit who, but for this paragraph, would be included in such experiment have voted to be so included.
 
-“(2) Upon written request to any agency by an employee, the agency, if it determines that participation in an experiment under subsection (a) would impose a personal hardship on such employee, shall—
+“(2) Upon written request to any agency by an employee, the agency, if it determines that participationin an experiment under subsection (a) would impose a personal hardship on such employee, shall—
 
 &emsp;“(A) except such employee from such experiment; or
 

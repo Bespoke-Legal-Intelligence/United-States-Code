@@ -6,7 +6,7 @@ Any exports of Alaska natural gas shall be subject to the requirements of the Na
 
 #### References in Text
 
-The Natural Gas Act, referred to in text, is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables.
+The Natural Gas Act, referred to in text, is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of thistitle. For complete classification of this Act to the Code, see section 717w of this title and Tables.
 
 The Energy Policy and Conservation Act, referred to in text, is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, which is classified principally to chapter 77 (§6201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of Title 42 and Tables.
 

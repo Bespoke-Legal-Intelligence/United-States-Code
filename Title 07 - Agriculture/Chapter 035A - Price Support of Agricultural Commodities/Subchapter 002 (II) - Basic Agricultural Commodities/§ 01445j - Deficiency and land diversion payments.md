@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(i) cash;
 
-&emsp;&emsp;&emsp;(ii) commodities owned by the Commodity Credit Corporation and certificates redeemable in a commodity owned by the Commodity Credit Corporation, except that not more than 50 percent of the payments may be made in commodities or the certificates in the case of any producer; or
+&emsp;&emsp;&emsp;(ii) commodities owned by the Commodity Credit Corporation and certificates redeemable in a commodity owned by the Commodity Credit Corporation, exceptthat not more than 50 percent of the payments may be made in commodities or the certificates in the case of any producer; or
 
 &emsp;&emsp;&emsp;(iii) any combination of clauses (i) and (ii).
 
@@ -102,7 +102,7 @@ Section was classified to section 1445b–2 of this title prior to its renumberi
 
 1991—Subsec. (c). Pub. L. 102–237, §109(1), substituted “section” for “sections” in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 102–237, §109(3), added par. (2) and struck out former par. (2) which read as follows:“Seventy-five percent of the final projected deficiency payment for the crop, reduced by the amount of the advance, shall be made available as soon as practicable after the end of the first 5 months of the applicable marketing year.”
+Subsec. (c)(2). Pub. L. 102–237, §109(3), added par. (2) and struck out former par. (2) which read as follows: “Seventy-five percent of the final projected deficiency payment for the crop, reduced by the amount of the advance, shall be made available as soon as practicable after the end of the first 5 months of the applicable marketing year.”
 
 Subsec. (c)(3), (4). Pub. L. 102–237, §109(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
@@ -198,7 +198,7 @@ In general.—The Secretary may use the calculation described in subsection (a) 
 
 Procedure for use of calculation.—If the Secretary decides to use the calculation described in subsection (a) as provided under paragraph (1), in the case of a producer of 1988 or 1989 crop barley who paid the refund of the advance deficiency payment for the crop calculated prior to the date of enactment of this Act (or any amount of refund in excess of the amount of the refund determined in accordance with paragraph (1)), the Secretary—
 
-&emsp;&emsp;“(i) shall, before May 31, 1991, reimburse the producer the amount of refund paid by the producer in excess of the refund determined in accordance with this section;
+&emsp;&emsp;“(i) shall, before May 31, 1991, reimburse the producer the amount of refund paid by the producer inexcess of the refund determined in accordance with this section;
 
 &emsp;&emsp;“(ii) shall have the option to make the reimbursement in a lump sum or in installments;
 

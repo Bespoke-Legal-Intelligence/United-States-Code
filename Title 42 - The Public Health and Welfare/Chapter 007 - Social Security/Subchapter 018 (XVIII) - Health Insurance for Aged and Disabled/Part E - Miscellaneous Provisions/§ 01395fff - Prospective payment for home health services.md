@@ -24,7 +24,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 &emsp;&emsp;&emsp;&emsp;(I) Such amount (or amounts) shall initially be based on the most current audited cost report data available to the Secretary and shall be computed in a manner so that the total amounts payable under the system for the 12-month period beginning on the date the Secretary implements the system shall be equal to the total amount that would have been made if the system had not been in effect and if section 1395x(v)(1)(L)(ix) of this title had not been enacted.
 
-&emsp;&emsp;&emsp;&emsp;(II) For the 12-month period beginning after the period described in subclause\(I), such amount (or amounts) shall be equal to the amount (or amounts) determined under subclause (I), updated under subparagraph (B).
+&emsp;&emsp;&emsp;&emsp;(II) For the 12-month period beginning after the period described in subclause (I), such amount (or amounts) shall be equal to the amount (or amounts) determined under subclause (I), updated under subparagraph (B).
 
 &emsp;&emsp;&emsp;&emsp;(III) For periods beginning after the period described in subclause (II), such amount (or amounts) shall be equal to the amount (or amounts) that would have been determined under subclause (I) that would have been made for fiscal year 2001 if the system had not been in effect and if section 1395x(v)(1)(L)(ix) of this title had not been enacted but if the reduction in limits described in clause (ii) had been in effect, updated under subparagraph (B).
 
@@ -74,7 +74,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (III) Public availability of data submitted
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall establish procedures for making data submitted under subclause (II) available to the public.Such procedures shall ensure that a home health agency has the opportunity to review the data that is to be made public with respect to the agency prior to such data being made public.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall establish procedures for making data submitted under subclause (II) available to the public. Such procedures shall ensure that a home health agency has the opportunity to review the data that is to be made public with respect to the agency prior to such data being made public.
 
 #### (C) Adjustment for outliers
 
@@ -196,7 +196,7 @@ Subsec. (e). Pub. L. 106–554, §1(a)(6) \[title V, §504\], added subsec. (e).
 
 1999—Subsec. (b)(1). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(19)\], made technical amendment to reference in original act which appears in text as reference to August 5, 1997.
 
-Subsec. (b)(3)(A)(i). Pub. L. 106–113, §1000(a)(6) \[title III, §302(b)\], amended heading and text of cl. (i) generally. Prior to amendment, text read as follows: “Under such system the Secretary shall provide for computation of a standard prospective payment amount (or amounts). Such amount (or amounts) shall initially be based on the most current audited cost report data available to the Secretary and shall be computed in a manner so that the total amounts payable under the system for fiscal year 2001 shall be equal to the total amount that would have been made if the system had not been in effect but if the reduction in limits described in clause (ii) had been in effect. Such amount shall be standardized in a manner that eliminates the effect of variations in relative case mix and wage levels among different home health agencies in a budget neutral manner consistent with the case mix and wage level adjustments provided under paragraph (4)(A). Under the system, the Secretary may recognize regional differences or differences based upon whether or not the services or agency are in an urbanized area.”
+Subsec. (b)(3)(A)(i). Pub. L. 106–113, §1000(a)(6) \[title III, §302(b)\], amended heading and text of cl. (i) generally. Prior to amendment, text read as follows: “Undersuch system the Secretary shall provide for computation of a standard prospective payment amount (or amounts). Such amount (or amounts) shall initially be based on the most current audited cost report data available to the Secretary and shall be computed in a manner so that the total amounts payable under the system for fiscal year 2001 shall be equal to the total amount that would have been made if the system had not been in effect but if the reduction in limits described in clause (ii) had been in effect. Such amount shall be standardized in a manner that eliminates the effect of variations in relative case mix and wage levels among different home health agencies in a budget neutral manner consistent with the case mix and wage level adjustments provided under paragraph (4)(A). Under the system, the Secretary may recognize regional differences or differences based upon whether or not the services or agency are in an urbanized area.”
 
 Subsec. (b)(3)(A)(i)(I). Pub. L. 106–113, §1000(a)(6) \[title III, §303(b)(1)\], which directed that the second sentence of cl. (i) be amended in subcl. (I) by the insertion of “and if section 1395x(v)(1)(L)(ix) of this title had not been enacted” before semicolon, was executed by making the insertion before the period at end of subcl. (I) to reflect the probable intent of Congress.
 
@@ -228,7 +228,7 @@ Amendment by section 1000(a)(6) \[title III, §321(k)(19)\] of Pub. L. 106–113
 
 #### Effective Date
 
-Pub. L. 105–33, title IV, §4603(d), Aug. 5, 1997, 111 Stat. 471, as amended by Pub. L. 105–277, div. J, title V, §5101(c)(2), Oct. 21, 1998, 112 Stat. 2681–914, provided that: “Except as otherwise provided, the amendments made by this section \[enacting this section and amending sections 1395f, 1395g, 1395k, 1395<i>l</i>, 1395u, and 1395y ofthis title\] shall apply to portions of cost reporting periods occurring on or after October 1, 2000.”
+Pub. L. 105–33, title IV, §4603(d), Aug. 5, 1997, 111 Stat. 471, as amended by Pub. L. 105–277, div. J, title V, §5101(c)(2), Oct. 21, 1998, 112 Stat. 2681–914, provided that: “Except as otherwise provided, the amendments made by this section \[enacting this section and amending sections 1395f, 1395g, 1395k, 1395<i>l</i>, 1395u, and 1395y of this title\] shall apply to portions of cost reporting periods occurring on or after October 1, 2000.”
 
 #### One-Year Increase for Home Health Services Furnished in a Rural Area
 
@@ -436,7 +436,7 @@ Pub. L. 106–554, §1(a)(6) \[title V, §508\], Dec. 21, 2000, 114 Stat. 2763, 
 
 “(b)
 
-Waiving Budget Neutrality.—The Secretary shall not reduce the standard prospective paymentamount (or amounts) under section 1895 of the Social Security Act (42 U.S.C. 1395fff) applicable to home health services furnished during a period to offset the increase in payments resulting from the application of subsection (a).”
+Waiving Budget Neutrality.—The Secretary shall not reduce the standard prospective payment amount (or amounts) under section 1895 of the Social Security Act (42 U.S.C. 1395fff) applicable to home health services furnished during a period to offset the increase in payments resulting from the application of subsection (a).”
 
 #### Clarification of Application of Temporary Payment Increases for 2001
 

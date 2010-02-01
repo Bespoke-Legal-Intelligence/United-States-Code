@@ -58,7 +58,7 @@
 
 &emsp;&emsp;In this paragraph, the term “performed successfully” means that the area involved met or exceeded the performance standards for activities administered in the area that—
 
-&emsp;&emsp;&emsp;(i) are established by the Secretary for each year and modified by the adjustment methodology of the State (used to account for differences in economic conditions,participant characteristics, and combination of services provided from the combination assumed for purposes of the established standards of the Secretary); and
+&emsp;&emsp;&emsp;(i) are established by the Secretary for each year and modified by the adjustment methodology of the State (used to account for differences in economic conditions, participant characteristics, and combination of services provided from the combination assumed for purposes of the established standards of the Secretary); and
 
 &emsp;&emsp;&emsp;(ii)(I) if the area was designated as both a service delivery area and a substate area under the Job Training Partnership Act (as in effect on the day before August 7, 1998)—
 
@@ -116,7 +116,7 @@ The Governor of any State that was a single State service delivery area under th
 
 &emsp;&emsp;The term “local board for a designated region” means a local board for a local area in a designated region.
 
-(Pub. L. 105–220, title I, §116, Aug. 7, 1998, 112 Stat. 951; Pub. L. 105–277, div. A, §101(f) \[titleVIII, §401(3)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
+(Pub. L. 105–220, title I, §116, Aug. 7, 1998, 112 Stat. 951; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(3)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
 
 #### References in Text
 

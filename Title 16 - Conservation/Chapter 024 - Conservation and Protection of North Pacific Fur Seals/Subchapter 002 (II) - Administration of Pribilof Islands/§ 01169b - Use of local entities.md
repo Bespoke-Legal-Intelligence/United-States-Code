@@ -2,7 +2,7 @@
 
 Notwithstanding any other law to the contrary, the Secretary of Commerce shall, to the maximum extent practicable, carry out activities under subsection (a) <sup>1</sup> and fulfill other obligations under Federal and State law relating to the Pribilof Islands, through grants or other agreements with local entities and residents of the Pribilof Islands, unless specialized skills are needed for an activity, and the Secretary specifies in writing that such skills are not available through local entities and residents of the Pribilof Islands.
 
-(Pub. L. 89–702, title II, §212, as added Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(6)(A)(ii)\],Dec. 21, 2000, 114 Stat. 2763, 2763A–248; Pub. L. 106–562, title I, §106(a)(2), Dec. 23, 2000, 114 Stat. 2799.)
+(Pub. L. 89–702, title II, §212, as added Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(6)(A)(ii)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–248; Pub. L. 106–562, title I, §106(a)(2), Dec. 23, 2000, 114 Stat. 2799.)
 
 #### References in Text
 

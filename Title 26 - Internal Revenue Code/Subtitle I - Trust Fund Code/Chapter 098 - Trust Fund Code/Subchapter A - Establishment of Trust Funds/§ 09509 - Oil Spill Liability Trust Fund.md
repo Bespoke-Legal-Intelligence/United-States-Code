@@ -96,11 +96,11 @@ There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equi
 
 #### (3) Order in which unpaid claims are to be paid
 
-&emsp;If at any time the Oil Spill Liability Trust Fund has insufficient funds (or is unable by reason of subsection (c)(2)) to pay all of the claims out of such Trust Fund at such time, such claims shall, to the extent permitted under paragraph (1) and such subsection, be paid in full in the order in which they were finally determined.
+&emsp;If at any time the Oil Spill Liability Trust Fund has insufficient funds (or is unable byreason of subsection (c)(2)) to pay all of the claims out of such Trust Fund at such time, such claims shall, to the extent permitted under paragraph (1) and such subsection, be paid in full in the order in which they were finally determined.
 
 #### (f) References to Oil Pollution Act of 1990
 
-Any reference in this section to the Oil Pollution Act of 1990 or any other Act referred to ina subparagraph of subsection (c)(1) shall be treated as a reference to such Act as in effect on the date of the enactment of this subsection.
+Any reference in this section to the Oil Pollution Act of 1990 or any other Act referred to in a subparagraph of subsection (c)(1) shall be treated as a reference to such Act as in effect on the date of the enactment of this subsection.
 
 (Added Pub. L. 99–509, title VIII, §8033(a), Oct. 21, 1986, 100 Stat. 1959, §9507; renumbered §9509, Pub. L. 99–509, title VIII, §8033(c)(2)(B), Oct. 21, 1986, 100 Stat. 1962; amended Pub. L. 100–647, title I, §1018(u)(20), Nov. 10, 1988, 102 Stat. 3591; Pub. L. 101–239, title VII, §§7505(d)(2), 7811(m)(3), Dec. 19, 1989, 103 Stat. 2364, 2412; Pub. L. 101–380, title IX, §9001, Aug. 18, 1990, 104 Stat. 573.)
 

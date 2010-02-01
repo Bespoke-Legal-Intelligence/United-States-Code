@@ -10,7 +10,7 @@ The Secretary may, by regulation and under such conditions and procedures as he 
 
 &emsp;(3) the sale of eggs by any poultry producer from his own flocks directly to a household consumer exclusively for use by such consumer and members of his household and his nonpaying guests and employees, and the transportation, possession, and use of such eggs in accordance with this paragraph;
 
-&emsp;(4) the processing of egg products by any poultry producer from eggs of his own flocks’ production for sale of such products directly to a household consumer exclusively for use by such consumer and members of his household and his nonpaying guests and employees, and the egg products so processed when handled in accordance with this paragraph;
+&emsp;(4) the processing of egg products by any poultry producer from eggs of his own flocks’production for sale of such products directly to a household consumer exclusively for use by such consumer and members of his household and his nonpaying guests and employees, and the egg products so processed when handled in accordance with this paragraph;
 
 &emsp;(5) the sale of eggs by shell egg packers on his own premises directly to household consumers for use by such consumer and members of his household and his nonpaying guests and employees, and the transportation, possession, and use of such eggs in accordance with this paragraph;
 

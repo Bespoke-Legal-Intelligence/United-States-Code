@@ -12,7 +12,7 @@ Subsec. (a) of this section consists of former section 309 of act July 1, 1944, 
 
 #### Prior Provisions
 
-A prior section 310 of act July 1, 1944, was renumbered section 329, and was classified to section 254b of this title prior to the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299.
+A prior section 310 of act July 1, 1944, was renumbered section 329, and was classified to section 254b of thistitle prior to the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299.
 
 Provisions similar to those comprising subsec. (a) of this section were contained in section 312 of act July 1, 1944, ch. 373, title III, 58 Stat. 693, as amended (formerly classified to section 244 of this title), prior to repeal by Pub. L. 93–353, §102(a).
 

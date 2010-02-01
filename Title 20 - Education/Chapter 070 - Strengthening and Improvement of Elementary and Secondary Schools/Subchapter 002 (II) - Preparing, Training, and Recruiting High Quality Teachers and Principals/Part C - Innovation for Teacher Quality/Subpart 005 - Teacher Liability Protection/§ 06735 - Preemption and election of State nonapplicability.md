@@ -2,7 +2,7 @@
 
 #### (a) Preemption
 
-This subpart preempts the laws of any State to the extent that such laws are inconsistent with this subpart, except that this subpart shall not preempt any State law that provides additional protection from liability relating to teachers.
+This subpart preempts the laws of any State to the extent that such laws are inconsistentwith this subpart, except that this subpart shall not preempt any State law that provides additional protection from liability relating to teachers.
 
 #### (b) Election of State regarding nonapplicability
 

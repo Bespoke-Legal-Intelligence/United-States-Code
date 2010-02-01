@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) to monitor the use of forced labor and child labor in violation of international standards;
 
-&emsp;&emsp;(B) to provide information regarding trafficking in persons for the purpose of forced labor to the Office to Monitor and Combat Trafficking of the Department of State for inclusion in trafficking in persons report required by section 7107(b) of this title;
+&emsp;&emsp;(B) to provide information regarding trafficking in persons for the purpose of forcedlabor to the Office to Monitor and Combat Trafficking of the Department of State for inclusion in trafficking in persons report required by section 7107(b) of this title;
 
 &emsp;&emsp;(C) to develop and make available to the public a list of goods from countries that the Bureau of International Labor Affairs has reason to believe are produced by forced labor or child labor in violation of international standards;
 
@@ -74,7 +74,7 @@ Duties.—
 
 &emsp;“(1)
 
-In general.—Not later than 2 years after the date of enactment of this Act \[June 18, 2008\] and in accordance with section 105(d) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7103(d)), as applicable to the importation of agricultural productsmade with the use of child labor or forced labor, the Consultative Group shall develop, and submit to the Secretary \[of Agriculture\], recommendations relating to a standard set of practices for independent, third-party monitoring and verification for the production, processing, and distribution of agricultural products or commodities to reduce the likelihood that agricultural products or commodities imported into the United States are produced with the use of forced labor or child labor.
+In general.—Not later than 2 years after the date of enactment of this Act \[June 18, 2008\] and in accordance with section 105(d) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7103(d)), as applicable to the importation of agricultural products made with the use of child labor or forced labor, the Consultative Group shall develop, and submit to the Secretary \[of Agriculture\], recommendations relating to a standard set of practices for independent, third-party monitoring and verification for the production, processing, and distribution of agricultural products or commodities to reduce the likelihood that agricultural products or commodities imported into the United States are produced with the use of forced labor or child labor.
 
 &emsp;“(2)
 

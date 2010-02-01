@@ -22,7 +22,7 @@ Notwithstanding sections 4630 and 4655 of this title, the head of a Federal agen
 
 #### Amendments
 
-1995—Subsec. (b)(2). Pub. L. 104–66 struck out par. (2) which read as follows: “The head of the lead agency shall, in coordination with other Federal agencies, monitor from time to time, and report biennially to the Congress on, State agency implementation of this section. A State agency shall make available any information required for such purpose.”
+1995—Subsec. (b)(2). Pub. L. 104–66 struck out par. (2) which read as follows: “The head of the lead agencyshall, in coordination with other Federal agencies, monitor from time to time, and report biennially to the Congress on, State agency implementation of this section. A State agency shall make available any information required for such purpose.”
 
 #### Effective Date
 

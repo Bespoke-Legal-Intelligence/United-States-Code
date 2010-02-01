@@ -42,9 +42,57 @@ Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Limitation on Scheduling of Mobilization or Pre-Mobilization Training for Reserve Units When Certain Suspension of Training is Likely
+
+Pub. L. 111–84, div. A, title V, §514, Oct. 28, 2009, 123 Stat. 2282, provided that:
+
+“(a)
+
+Limitation.—
+
+&emsp;“(1)
+
+In general.—Subject to paragraph (2), the Secretary of a military department shall avoid scheduling mobilization training or pre-mobilization training for a unit of a reserve component of the Armed Forces at a temporary duty location that is outside the normal commuting distance of the unit (as determined pursuant to the regulations prescribed by the Secretary of Defense under subsection (c)) if a suspension of training at such temporary duty location of at least five days is anticipated to occur during any portion of such mobilization or pre-mobilization training.
+
+&emsp;“(2)
+
+Waiver.—The Secretary of a military department may waive the applicability of the limitation in paragraph (1) to a unit of a reserve component if the Secretary determines that the waiver is in the national security interests of the United States.
+
+&emsp;“(3)
+
+Notice to congress.—Until December 31, 2014, the Secretary of the military department concerned shall submit written notice of each waiver issued under paragraph (2) to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]. Notice of such waiver shall be so submitted at the time of the issuance of such waiver.
+
+“(b)
+
+Notice of Other Suspensions of Training.—Until December 31, 2014, in the event of a suspension of training (other than an anticipated suspension of training described in subsection (a)(1)) of at least five days at a temporary duty location at which one or more units of the reserve components on active duty are engaged in mobilization training or pre-mobilization training, the Secretary of the military department having jurisdiction over such unit or units shall submit written notice of the suspension to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]. Notice of such suspension of training shall be so submitted at the time of such suspension of training.
+
+“(c)
+
+Regulations.—The Secretaries of the military departments shall administer this section in accordance with regulations prescribed by the Secretary of Defense. Such regulations shall apply uniformly among the military departments.”
+
 #### Yellow Ribbon Reintegration Program
 
-Pub. L. 110–181, div. A, title V, §582, Jan. 28, 2008, 122 Stat. 122, provided that:
+Pub. L. 111–84, div. A, title V, §597(b), Oct. 28, 2009, 123 Stat. 2344, provided that: “The annual reports on the Yellow Ribbon Reintegration Program under section 582 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 122; 10 U.S.C. 10101 note) that are submitted under subsection (e)(4) of such section after the date of the enactment of this Act \[Oct. 28, 2009\] shall include the following:
+
+&emsp;“(1) In the first such annual report submitted after the date of the enactment of this Act—
+
+&emsp;&emsp;“(A) a description and assessment of the implementation of the Yellow Ribbon Reintegration Program in fiscal year 2009, including—
+
+&emsp;&emsp;&emsp;“(i) an assessment of best practices from pilot programs offered by various States to provide services to supplement the services available through the Yellow Ribbon Reintegration Program; and
+
+&emsp;&emsp;&emsp;“(ii) an assessment of the feasibility of incorporating such practices into the Yellow Ribbon Reintegration Program; and
+
+&emsp;&emsp;“(B) current plans for the further implementation of the Yellow Ribbon Reintegration Program during fiscal year 2010.
+
+&emsp;“(2) A list of the accounts (including accounts of the military departments and accounts for the Office of the Secretary of Defense) from which funds for the Yellow Ribbon Reintegration Program were derived during the most recent fiscal year, and an explanation why such accounts were the source of funding for programs and activities under the Yellow Ribbon Reintegration Program.
+
+&emsp;“(3) An assessment of the extent to which funding for the Yellow Ribbon Reintegration Program during the most recent fiscal year supported robust joint programs that provided reintegration and support services to members of the National Guard and Reserves and their families regardless of Armed Force with which served.
+
+&emsp;“(4) An assessment of the extent to which programs and activities under the Yellow Ribbon Reintegration Program during the preceding year were coordinating closely with appropriate programs and activities of the Department of Veterans Affairs.
+
+&emsp;“(5) A description of current strategies to mitigate difficulties in sustaining attendance at events under the Yellow Ribbon Reintegration Program, and an explanation why funds, if any, that are available for the Yellow Ribbon Reintegration Program but remain unexpended have not been used for the Yellow Ribbon Reintegration Program.”
+
+Pub. L. 110–181, div. A, title V, §582, Jan. 28, 2008, 122 Stat. 122, as amended by Pub. L. 111–84, div. A, title V, §595, Oct. 28, 2009, 123 Stat. 2338, provided that:
 
 “(a)
 
@@ -84,7 +132,7 @@ Advisory Board.—
 
 &emsp;“(1)
 
-Appointment.—The Secretary of Defense shall appoint an advisory board to analyze the Yellow Ribbon Reintegration Program and report on areas of success and areas for necessary improvements. The advisory board shall include the Director of the Army National Guard, the Director of the Air National Guard, Chiefs of the Army Reserve, Marine Corps Reserve, Navy Reserve, and Air Force Reserve, the Assistant Secretary of Defense for Reserve Affairs, an Adjutant General on a rotational basis as determined by the Chief of the National Guard Bureau, and any other Department of Defense, Federal Government agency, or outside organization as determined by the Secretary of Defense. The members of the advisory board may designate representatives in their stead.
+Appointment.—The Secretary of Defense shall appoint an advisory board to analyze the Yellow Ribbon Reintegration Program and report on areas of success and areas for necessary improvements. Theadvisory board shall include the Director of the Army National Guard, the Director of the Air National Guard, Chiefs of the Army Reserve, Marine Corps Reserve, Navy Reserve, and Air Force Reserve, the Assistant Secretary of Defense for Reserve Affairs, an Adjutant General on a rotational basis as determined by the Chief of the National Guard Bureau, and any other Department of Defense, Federal Government agency, or outside organization as determined by the Secretary of Defense. The members of the advisory board may designate representatives in their stead.
 
 &emsp;“(2)
 
@@ -166,31 +214,79 @@ Outreach Services.—As part of the Yellow Ribbon Reintegration Program, the Off
 
 &emsp;“(2) Services for children.
 
-&emsp;“(3) Suicide prevention.
+&emsp;“(3) Substance abuse awareness and treatment.
 
-&emsp;“(4) Substance abuse awareness and treatment.
+&emsp;“(4) Mental health awareness and treatment.
 
-&emsp;“(5) Mental health awareness and treatment.
+&emsp;“(5) Financial counseling.
 
-&emsp;“(6) Financial counseling.
+&emsp;“(6) Anger management counseling.
 
-&emsp;“(7) Anger management counseling.
+&emsp;“(7) Domestic violence awareness and prevention.
 
-&emsp;“(8) Domestic violence awareness and prevention.
+&emsp;“(8) Employment assistance.
 
-&emsp;“(9) Employment assistance.
+&emsp;“(9) Preparing and updating family care plans.
 
-&emsp;“(10) Preparing and updating family care plans.
+&emsp;“(10) Development of strategies for living with a member of the Armed Forces with post-traumatic stress disorder or traumatic brain injury.
 
-&emsp;“(11) Development of strategies for living with a member of the Armed Forces with post-traumatic stress disorder or traumatic brain injury.
+&emsp;“(11) Other services that may be appropriate to address the unique needs of members of the Armed Forces and their families who live in rural or remote areas with respect to family readiness and servicemember reintegration.
 
-&emsp;“(12) Other services that may be appropriate to address the unique needs of members of the Armed Forces and their families who live in rural or remote areas with respect to family readiness and servicemember reintegration.
+&emsp;“(12) Assisting members of the Armed Forces and their families find and receive assistance with military family readiness and servicemember reintegration, including referral services.
 
-&emsp;“(13) Assisting members of the Armed Forces and their families find and receive assistance with military family readiness and servicemember reintegration, including referral services.
+&emsp;“(13) Development of strategies and programs that recognize the need for long-term follow-up services for reintegrating members of the Armed Forces and their families for extended periods following deployments, including between deployments.
 
-&emsp;“(14) Development of strategies and programs that recognize the need for long-term follow-up services for reintegrating members of the Armed Forces and their families for extended periods following deployments, including between deployments.
+&emsp;“(14) Assisting members of the Armed Forces and their families in receiving services and assistance from the Department of Veterans Affairs, including referral services.
 
-&emsp;“(15) Assisting members of the Armed Forces and their families in receiving services and assistance from the Department of Veterans Affairs, including referral services.”
+“(i)
+
+Suicide Prevention and Community Healing and Response Program.—
+
+&emsp;“(1)
+
+Establishment.—As part of the Yellow Ribbon Reintegration Program, the Office for Reintegration Programs shall establish a program to provide National Guard and Reserve members and their families, and in coordination with community programs, assist the communities, with training in suicide prevention and community healing and response to suicide.
+
+&emsp;“(2)
+
+Design.—In establishing the program under paragraph (1), the Office for Reintegration Programs shall consult with—
+
+&emsp;&emsp;“(A) persons that have experience and expertise with combining military and civilian intervention strategies that reduce risk and promote healing after a suicide attempt or suicide death for National Guard and Reserve members; and
+
+&emsp;&emsp;“(B) the adjutant general of each State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands.
+
+&emsp;“(3)
+
+Operation.—
+
+&emsp;&emsp;“(A)
+
+Suicide prevention training.—The Office for Reintegration Programs shall provide National Guard and Reserve members with training in suicide prevention. Such training shall include—
+
+&emsp;&emsp;&emsp;“(i) describing the warning signs for suicide and teaching effective strategies for prevention and intervention;
+
+&emsp;&emsp;&emsp;“(ii) examining the influence of military culture on risk and protective factors for suicide; and
+
+&emsp;&emsp;&emsp;“(iii) engaging in interactive case scenarios and role plays to practice effective intervention strategies.
+
+&emsp;&emsp;“(B)
+
+Community healing and response training.—The Office for Reintegration Programs shall provide the families and communities of National Guard and Reserve members with training in responses to suicide that promote individual and community healing. Such training shall include—
+
+&emsp;&emsp;&emsp;“(i) enhancing collaboration among community members and local service providers to create an integrated, coordinated community response to suicide;
+
+&emsp;&emsp;&emsp;“(ii) communicating best practices for preventing suicide, including safe messaging, appropriate memorial services, and media guidelines;
+
+&emsp;&emsp;&emsp;“(iii) addressing the impact of suicide on the military and the larger community, and the increased risk that can result; and
+
+&emsp;&emsp;&emsp;“(iv) managing resources to assist key community and military service providers in helping the families, friends, and fellow soldiers of a suicide victim through the processes of grieving and healing.
+
+&emsp;&emsp;“(C)
+
+Collaboration with centers of excellence.—The Office for Reintegration Programs, in consultation with the Defense Centers of Excellence for Psychological Health and Traumatic Brain Injury, shall collect and analyze ‘lessons learned’ and suggestions from State National Guard and Reserve organizations with existing or developing suicide prevention and community response programs.
+
+&emsp;“(4)
+
+Termination.—The program established under this subsection shall terminate on October 1, 2012.”
 
 #### Pilot Program on Enhanced Quality of Life for Members of the Army Reserve and Their Families
 

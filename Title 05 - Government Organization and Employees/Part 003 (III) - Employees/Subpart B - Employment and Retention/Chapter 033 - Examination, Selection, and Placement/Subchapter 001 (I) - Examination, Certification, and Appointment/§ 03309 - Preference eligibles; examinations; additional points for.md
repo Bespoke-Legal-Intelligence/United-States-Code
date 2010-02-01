@@ -38,7 +38,7 @@ July 14, 1952, ch. 728, §2, 66 Stat. 627.
 
 Aug. 14, 1953, ch. 485, §1(a) “Sec. 3 (1st sentence)”, 67 Stat. 581.
 
-The word “competitive” is added before “service” for clarity. Application of this section to the excepted service in the executive branch and to the government of the District of Columbia, as provided in former section 858, is carried into section 3320.
+The word “competitive” is added before “service” for clarity. Application of this section to the exceptedservice in the executive branch and to the government of the District of Columbia, as provided in former section 858, is carried into section 3320.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

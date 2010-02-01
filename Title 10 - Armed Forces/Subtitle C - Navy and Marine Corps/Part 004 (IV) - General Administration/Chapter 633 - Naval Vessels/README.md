@@ -31,11 +31,13 @@
 | [7314\.](%C2%A7%2007314%20-%20Overhaul%20of%20naval%20vessels%20competition%20between%20public%20and%20private%20shipyards.md) | Overhaul of naval vessels: competition between public and private shipyards. |
 | [7315\.](%C2%A7%2007315%20-%20Preservation%20of%20Navy%20shipbuilding%20capability.md) | Preservation of Navy shipbuilding capability. |
 | [7316\.](%C2%A7%2007316%20-%20Support%20for%20transfers%20of%20decommissioned%20vessels%20and%20shipboard%20equipment.md) | Support for transfers of decommissioned vessels and shipboard equipment. |
-| [7317\.](%C2%A7%2007317%20-%20Status%20of%20Government%20rights%20in%20the%20designs%20of%20vessels%2C%20boats%2C%20and%20craft%2C%20and%20components%20thereof.md) | Status of Government rights in the designs of vessels, boats, and craft, and components thereof <sup>1</sup> |
+| [7317\.](%C2%A7%2007317%20-%20Status%20of%20Government%20rights%20in%20the%20designs%20of%20vessels%2C%20boats%2C%20and%20craft%2C%20and%20components%20thereof.md) | Status of Government rights in the designs of vessels, boats, and craft, and components thereof. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. A, title X, §1073(a)(30), Oct. 28, 2009, 123 Stat. 2474, inserted period after “thereof” in item 7317.
 
 2008—Pub. L. 110–417, \[div. A\], title VIII, §825(b), Oct. 14, 2008, 122 Stat. 4534, added item 7317.
 
@@ -51,7 +53,7 @@
 
 1996—Pub. L. 104–106, div. A, title VIII, §815(b), Feb. 10, 1996, 110 Stat. 396, added item 7299.
 
-1994—Pub. L. 103–355, title II, §2001(j)(3)(A), title III, §§3023(b), 3024(b), Oct. 13, 1994, 108 Stat. 3303, 3333, 3334, struck out items 7299 “Contracts: application of Public Contracts Act”, 7302 “Construction on Pacific Coast”,and 7312 “Repair or maintenance of naval vessels: progress payments under certain contracts”.
+1994—Pub. L. 103–355, title II, §2001(j)(3)(A), title III, §§3023(b), 3024(b), Oct. 13, 1994, 108 Stat. 3303, 3333, 3334, struck out items 7299 “Contracts: application of Public Contracts Act”, 7302 “Construction on Pacific Coast”, and 7312 “Repair or maintenance of naval vessels: progress payments under certain contracts”.
 
 1993—Pub. L. 103–160, div. A, title VIII, §828(a)(7), (c)(7), Nov. 30, 1993, 107 Stat. 1713, 1714, struck out items 7296 “Appropriations: available for other purposes”, 7298 “Conversion of combatants and auxiliaries”, and 7301 “Bids on construction: estimates required”, substituted “Examination of vessels; striking of vessels” for “Examination by board: unfit vessel stricken” in item 7304, “Vessels stricken from Naval Vessel Register: sale” for “Sale of vessel stricken from Naval Vessel Register” in item 7305, and “Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise” for “Use for experimental purposes” in item 7306, added item 7306a, substituted “Disposals to foreign nations” for “Restriction on disposal” in item 7307, “Chief of Naval Operations: certification required for disposal of combatant vessels” for “Transfer or gift of obsolete, condemned, or captured vessels” in item 7308, “Construction of vessels in foreign shipyards: prohibition” for “Restrictions on construction or repair of vessels in foreign shipyards” in item 7309, and “Overhaul, repair, etc. of vessels in foreign shipyards: restrictions” for “Policy in constructing combatant vessels” in item 7310.
 
@@ -74,8 +76,6 @@ Pub. L. 97–295, §1(49)(B), Oct. 12, 1982, 96 Stat. 1299, added item 7310.
 Pub. L. 97–252, title XI, §1127(b), Sept. 8, 1982, 96 Stat. 759, added item 7309.
 
 1981—Pub. L. 97–86, title IX, §911(b)(2), Dec. 1, 1981, 95 Stat. 1122, struck out item 7300 “Contracts for construction: profit limitation”.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---

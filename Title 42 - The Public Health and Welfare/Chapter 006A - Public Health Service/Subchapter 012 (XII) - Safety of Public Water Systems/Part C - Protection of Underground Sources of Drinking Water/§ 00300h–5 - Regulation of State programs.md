@@ -14,5 +14,5 @@ Not later than 18 months after June 19, 1986, the Administrator shall modify reg
 
 &emsp;“(2) The primary contamination problems associated with different categories of these disposal wells.
 
-&emsp;“(3) Recommendations for minimum design, construction, installation, and siting requirements that should be applied to protect underground sources of drinking water from such contamination wherever necessary.”
+&emsp;“(3) Recommendations for minimum design, construction, installation, and siting requirements thatshould be applied to protect underground sources of drinking water from such contamination wherever necessary.”
 

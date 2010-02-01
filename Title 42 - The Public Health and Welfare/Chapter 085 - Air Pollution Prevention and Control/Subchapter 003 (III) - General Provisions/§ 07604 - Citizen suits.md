@@ -40,7 +40,7 @@ The court, in issuing any final order in any action brought pursuant to subsecti
 
 #### (e) Nonrestriction of other rights
 
-Nothing in this section shall restrict any right which any person (or class of persons) may haveunder any statute or common law to seek enforcement of any emission standard or limitation or to seek any other relief (including relief against the Administrator or a State agency). Nothing in this section or in any other law of the United States shall be construed to prohibit, exclude, or restrict any State, local, or interstate authority from—
+Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any emission standard or limitation or to seek any other relief (including relief against the Administrator or a State agency). Nothing in this section or in any other law of the United States shall be construed to prohibit, exclude, or restrict any State, local, or interstate authority from—
 
 &emsp;(1) bringing any enforcement action or obtaining any judicial remedy or sanction in any State or local court, or
 
@@ -60,7 +60,7 @@ For purposes of this section, the term “emission standard or limitation under 
 
 &emsp;(4) any other standard, limitation, or schedule established under any permit issued pursuant to subchapter V of this chapter or under any applicable State implementation plan approved by the Administrator, any permit term or condition, and any requirement to obtain a permit as a condition of operations.<sup>5</sup>
 
-> which is in effect under this chapter (including a requirement applicable by reason of section 7418 of this title) or under an applicable implementation plan.
+> which is in effect under this chapter (including a requirement applicable by reason of section7418 of this title) or under an applicable implementation plan.
 
 #### (g) Penalty fund
 
@@ -94,7 +94,7 @@ Subsec. (c)(2). Pub. L. 101–549, §707(c), amended par. (2) generally. Prior t
 
 Subsec. (c)(3). Pub. L. 101–549, §707(d), added subsec. (c)(3).
 
-Subsec. (f)(3). Pub. L. 101–549, §707(e), struck out “any condition or requirement of section 7413(d) of this title\(relating to certain enforcement orders)” before “, section 7419 of this title”, substituted “subchapter VI of this chapter” for “part B of subchapter I of this chapter”, and substituted “; or” for period at end.
+Subsec. (f)(3). Pub. L. 101–549, §707(e), struck out “any condition or requirement of section 7413(d) of this title (relating to certain enforcement orders)” before “, section 7419 of this title”, substituted “subchapter VI of this chapter” for “part B of subchapter I of this chapter”, and substituted “; or” for period at end.
 
 Subsec. (f)(4). Pub. L. 101–549, §707(e), which directed that par. (4) be added at end of subsec. (f), was executed by adding par. (4) after par. (3), to reflect the probable intent of Congress.
 

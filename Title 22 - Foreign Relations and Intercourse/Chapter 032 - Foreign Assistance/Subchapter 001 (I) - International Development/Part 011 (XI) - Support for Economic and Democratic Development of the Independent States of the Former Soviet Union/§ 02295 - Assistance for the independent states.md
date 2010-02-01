@@ -98,7 +98,7 @@ The President is authorized to provide assistance to the independent states of t
 
 &emsp;Enhancing the human and natural environment and conserving environmental resources, including through—
 
-&emsp;&emsp;(A) facilitation of the adoption of environmentally-sound policies and technologies,environmental restoration, and sustainable use of natural resources;
+&emsp;&emsp;(A) facilitation of the adoption of environmentally-sound policies and technologies, environmental restoration, and sustainable use of natural resources;
 
 &emsp;&emsp;(B) promotion of the provision of environmental technology, education, and training by United States businesses, not-for-profit organizations, and institutions of higher education; and
 
@@ -132,7 +132,7 @@ Pars. (3) to (14). Pub. L. 107–246, §4(a)(2), added par. (3) and redesignated
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title, and section 3(b) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended, set out as a note under section 5812 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381of this title, and section 3(b) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended, set out as a note under section 5812 of this title.
 
 #### Findings and Purposes
 
@@ -214,7 +214,7 @@ Statement of Policy.—It shall be the policy of the United States—
 
 &emsp;“(4) to encourage United States Government officials and private sector individuals to meet regularly with democratic activists, human rights activists, representatives of the independent media, representatives of nongovernmental organizations, civic organizers, church officials, and reform-minded politicians from Moscow and all other regions of the Russian Federation;
 
-&emsp;“(5) to incorporate democratic reforms, the promotion of independent media, and economic reforms in a broader United States dialogue with the Government of the Russian Federation;
+&emsp;“(5) to incorporate democratic reforms, the promotion of independent media, and economic reformsin a broader United States dialogue with the Government of the Russian Federation;
 
 &emsp;“(6) to encourage the Government of the Russian Federation to address, in a cooperative and transparent manner consistent with internationally recognized and accepted principles, cross-border issues, including the nonproliferation of weapons of mass destruction, environmental degradation, crime, trafficking, and corruption;
 

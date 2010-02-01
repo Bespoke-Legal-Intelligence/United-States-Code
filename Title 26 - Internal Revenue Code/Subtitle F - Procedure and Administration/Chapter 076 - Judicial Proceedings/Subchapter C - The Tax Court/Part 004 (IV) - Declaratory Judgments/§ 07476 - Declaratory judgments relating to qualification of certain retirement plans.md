@@ -26,7 +26,7 @@ In a case of actual controversy involving—
 
 #### (3) Exhaustion of administrative remedies
 
-&emsp;The Tax Court shall not issue a declaratory judgment or decree under this section in any proceeding unless it determines that the petitioner has exhausted administrative remedies available to him within the Internal RevenueService. A petitioner shall not be deemed to have exhausted his administrative remedies with respect to a failure by the Secretary to make a determination with respect to initial qualification or continuing qualification of a retirement plan before the expiration of 270 days after the request for such determination was made.
+&emsp;The Tax Court shall not issue a declaratory judgment or decree under this section in any proceeding unless it determines that the petitioner has exhausted administrative remedies available to him within the Internal Revenue Service. A petitioner shall not be deemed to have exhausted his administrative remedies with respect to a failure by the Secretary to make a determination with respect to initial qualification or continuing qualification of a retirement plan before the expiration of 270 days after the request for such determination was made.
 
 #### (4) Plan put into effect
 

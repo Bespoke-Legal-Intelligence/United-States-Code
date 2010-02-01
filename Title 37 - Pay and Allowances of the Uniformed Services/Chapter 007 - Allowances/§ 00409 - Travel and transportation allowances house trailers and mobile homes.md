@@ -4,7 +4,7 @@
 
 (2) Except as provided in subsection (c), transportation of a house trailer or mobile home dwelling under paragraph (1) is in place of the transportation of baggage and household effects the member or member's dependent would otherwise be entitled to have provided.
 
-(3) The cost of transportation of a house trailer or mobile home dwelling under paragraph (1) may not be more than the total cost of transportation (including packing, pick-up, line-haul or drayage, delivery, and unpacking) of baggage and household effects of the member or dependent having the maximum weight authorized forthe member or dependent under regulations prescribed by the Secretary concerned.
+(3) The cost of transportation of a house trailer or mobile home dwelling under paragraph (1) may not be more than the total cost of transportation (including packing, pick-up, line-haul or drayage, delivery, and unpacking) of baggage and household effects of the member or dependent having the maximum weight authorized for the member or dependent under regulations prescribed by the Secretary concerned.
 
 (4) A house trailer or mobile home dwelling in transit under this section may be stored up to 180 days in accordance with regulations prescribed by the Secretary concerned.
 

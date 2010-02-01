@@ -86,7 +86,7 @@
 
 #### (B) Renewal of contracts
 
-&emsp;&emsp;The Secretary may renew a contract with a medicare administrative contractor underthis section from term to term without regard to section 5 of title 41 or any other provision of law requiring competition, if the medicare administrative contractor has met or exceeded the performance requirements applicable with respect to the contract and contractor, except that the Secretary shall provide for the application of competitive procedures under such a contract not less frequently than once every 5 years.
+&emsp;&emsp;The Secretary may renew a contract with a medicare administrative contractor under this section from term to term without regard to section 5 of title 41 or any other provision of law requiring competition, if the medicare administrative contractor has met or exceeded the performance requirements applicable with respect to the contract and contractor, except that the Secretary shall provide for the application of competitive procedures under such a contract not less frequently than once every 5 years.
 
 #### (C) Transfer of functions
 
@@ -110,7 +110,7 @@
 
 #### (ii) Consultation
 
-&emsp;&emsp;&emsp;In developing such performance requirements and standards for measurement, the Secretary shall consult with providers of services, organizations representative of beneficiaries under this subchapter, and organizations and agencies performing functions necessary to carry out the purposes of this section with respect to such performance requirements.
+&emsp;&emsp;&emsp;In developing such performance requirements and standards for measurement, the Secretary shall consult with providers of services, organizations representative of beneficiaries under this subchapter, and organizations and agencies performingfunctions necessary to carry out the purposes of this section with respect to such performance requirements.
 
 #### (iii) Publication of standards
 
@@ -208,7 +208,7 @@
 
 #### (A) Performance of annual evaluations
 
-&emsp;&emsp;Each year a medicare administrative contractor that performs the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) of this section (relating to determining and making payments) shall undergo an evaluation of the information security of thecontractor with respect to such functions under this subchapter. The evaluation shall—
+&emsp;&emsp;Each year a medicare administrative contractor that performs the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) of this section (relating to determining and making payments) shall undergo an evaluation of the information security of the contractor with respect to such functions under this subchapter. The evaluation shall—
 
 &emsp;&emsp;&emsp;(i) be performed by an entity that meets such requirements for independence as the Inspector General of the Department of Health and Human Services may establish; and
 
@@ -240,7 +240,7 @@
 
 #### (f) Incentives to improve contractor performance in provider education and outreach
 
-The Secretary shall use specific claims payment error rates or similar methodology of medicare administrative contractors in the processing or reviewing of medicare claims in order to give such contractors an incentive to implement effective education and outreach programs for providers of services and suppliers.
+The Secretary shall use specific claims payment error rates or similar methodology ofmedicare administrative contractors in the processing or reviewing of medicare claims in order to give such contractors an incentive to implement effective education and outreach programs for providers of services and suppliers.
 
 #### (g) Communications with beneficiaries, providers of services and suppliers
 
@@ -398,7 +398,7 @@ Pub. L. 108–173, title IX, §901(a), Dec. 8, 2003, 117 Stat. 2374, provided th
 
 #### Consideration of Incorporation of Current Law Standards
 
-Pub. L. 108–173, title IX, §911(a)(2), Dec. 8, 2003, 117 Stat. 2383, provided that: “In developing contract performance requirements under section 1874A(b) of the Social Security Act \[subsec. (b) of this section\], as inserted by paragraph (1), the Secretary \[of Health and Human Services\] shall consider inclusion of the performance standards described in sections 1816(f)(2) of such Act \[section 1395h(f)(2) of this title\] (relating to timely processing of reconsiderations and applications for exemptions) and section 1842(b)(2)(B) of such Act \[section 1395u(b)(2)(B) of this title\] (relating to timely review of determinations and fair hearing requests), as such sections were in effect before the date of the enactment of this Act \[Dec. 8, 2003\].”
+Pub. L. 108–173, title IX, §911(a)(2), Dec. 8, 2003, 117 Stat. 2383, provided that: “In developing contract performance requirements under section 1874A(b) of the Social Security Act \[subsec. (b) of this section\], as inserted by paragraph (1), the Secretary \[of Health and Human Services\] shall consider inclusion of the performance standards described in sections 1816(f)(2) of such Act \[section 1395h(f)(2) of this title\] (relating to timely processing of reconsiderations and applicationsfor exemptions) and section 1842(b)(2)(B) of such Act \[section 1395u(b)(2)(B) of this title\] (relating to timely review of determinations and fair hearing requests), as such sections were in effect before the date of the enactment of this Act \[Dec. 8, 2003\].”
 
 #### References
 
@@ -480,7 +480,7 @@ Length and consultation.—Each pilot project under this subsection shall—
 
 &emsp;&emsp;“(A) be voluntary;
 
-&emsp;&emsp;“(B) be of sufficient length as determined by the Secretary (but in no case to exceed 1 year) to allow for preparatory physician and medicare contractor education, analysis, and use and assessment of potential evaluation and management guidelines; and
+&emsp;&emsp;“(B) be of sufficient length as determined by the Secretary (but in no case to exceed 1 year) to allowfor preparatory physician and medicare contractor education, analysis, and use and assessment of potential evaluation and management guidelines; and
 
 &emsp;&emsp;“(C) be conducted, in development and throughout the planning and operational stages of the project, in consultation with practicing physicians (including both generalists and specialists).
 
@@ -542,7 +542,7 @@ Consultation with practicing physicians.—In designing and carrying out the stu
 
 &emsp;“(4)
 
-Application of hipaa uniform coding requirements.—In developing an alternative system underparagraph (2), the Secretary shall consider requirements of administrative simplification under part C of title XI of the Social Security Act \[part C of subchapter XI of this chapter\].
+Application of hipaa uniform coding requirements.—In developing an alternative system under paragraph (2), the Secretary shall consider requirements of administrative simplification under part C of title XI of the Social Security Act \[part C of subchapter XI of this chapter\].
 
 &emsp;“(5)
 

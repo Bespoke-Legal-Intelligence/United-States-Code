@@ -1,6 +1,6 @@
 ### §6712. No abridgement of constitutional rights
 
-No person may be required, as a condition for entering into a contract with the United States or as a condition for receiving any benefit from the United States, to waive any right under the Constitution for any purpose related to this chapter or the Convention.
+No person may be required, as a condition for entering into a contract with the United Statesor as a condition for receiving any benefit from the United States, to waive any right under the Constitution for any purpose related to this chapter or the Convention.
 
 (Pub. L. 105–277, div. I, title I, §102, Oct. 21, 1998, 112 Stat. 2681–861.)
 

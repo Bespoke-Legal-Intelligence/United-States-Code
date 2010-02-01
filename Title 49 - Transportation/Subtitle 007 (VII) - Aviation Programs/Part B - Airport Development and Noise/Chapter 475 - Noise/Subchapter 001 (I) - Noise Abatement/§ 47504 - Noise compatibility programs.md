@@ -56,7 +56,7 @@ Soundproofing and acquisition of certain residential buildings and properties.�
 
 &emsp;&emsp;(iii) if the Secretary determines that the proposed projects are compatible with the purposes of this chapter;
 
-&emsp;(B) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to soundproof residential buildings located on residential properties, and to acquire residential properties, at which noise levels are not compatible with normal operations of an airport—
+&emsp;(B) to an airport operator and unit of local government referred to in paragraph (1)(A) or\(1)(B) of this subsection to soundproof residential buildings located on residential properties, and to acquire residential properties, at which noise levels are not compatible with normal operations of an airport—
 
 &emsp;&emsp;(i) if the airport operator amended an existing local aircraft noise regulation during calendar year 1993 to increase the maximum permitted noise levels for scheduled air carrier aircraft as a direct result of implementation of revised aircraft noise departure procedures mandated for aircraft safety purposes by the Administrator of the Federal Aviation Administration for standardized application at airports served by scheduled air carriers;
 
@@ -144,7 +144,7 @@ In subsection (c)(1), before clause (A), the words “incur obligations to” an
 
 In subsection (c)(2), the words “in turn” are omitted as surplus.
 
-In subsection (c)(4), before clause (A), the words “All of” and “made under section 505 of that Act” are omitted as surplus. The word “except” is substituted for “unless” for clarity. In clause (1), the words “relating to United States share of project costs” are omitted as surplus. In clause (2), the words “the purposes of” are omitted as surplus.
+In subsection (c)(4), before clause (A), the words “All of” and “made under section 505 of that Act” are omitted as surplus. The word “except” is substituted for“unless” for clarity. In clause (1), the words “relating to United States share of project costs” are omitted as surplus. In clause (2), the words “the purposes of” are omitted as surplus.
 
 In subsection (d), the words “by the Secretary or the Administrator of the Federal Aviation Administration” are omitted as surplus.
 
@@ -154,7 +154,7 @@ This redesignates 49:47504(c)(1)(C) and (D) as 49:47504(c)(2)(C) and (D) because
 
 #### References in Text
 
-Section 301(d)(4)(B) of the Airport and Airway Safety and Capacity Expansion Act of 1987, referred to in subsec. (c)(2)(A)(i), is section 301(d)(4)(B) of Pub. L. 100–223, which was set out as a note under section 2104 of formerTitle 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
+Section 301(d)(4)(B) of the Airport and Airway Safety and Capacity Expansion Act of 1987, referred to in subsec. (c)(2)(A)(i), is section 301(d)(4)(B) of Pub. L. 100–223, which was set out as a note under section 2104 of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
 
 #### Amendments
 

@@ -44,7 +44,7 @@
 
 (4) Each foreign country from which a student is permitted to receive instruction at the University under this subsection shall reimburse the United States for the cost of providing such instruction, unless such reimbursement is waived by the Secretary of Defense. The Secretary of Defense shall prescribe the rates for reimbursement under this paragraph.
 
-(5) Except as the President determines, a person receiving instruction at the University under this subsection is subject to the same regulations governing attendance, discipline, discharge, and dismissal as a student enrolled in the University. The Secretary may prescribe regulations with respect to access to classified information by a person receiving instruction under this subsection that differ from the regulations that apply to a student enrolled in the University.
+(5) Except as the President determines, a person receiving instruction at the Universityunder this subsection is subject to the same regulations governing attendance, discipline, discharge, and dismissal as a student enrolled in the University. The Secretary may prescribe regulations with respect to access to classified information by a person receiving instruction under this subsection that differ from the regulations that apply to a student enrolled in the University.
 
 (g) In this section, the term “commissioned service obligation” means, with respect to an officer who is a graduate of the University, the period beginning on the date of the appointment of the officer in a regular component after graduation and ending on the tenth anniversary of that appointment.
 

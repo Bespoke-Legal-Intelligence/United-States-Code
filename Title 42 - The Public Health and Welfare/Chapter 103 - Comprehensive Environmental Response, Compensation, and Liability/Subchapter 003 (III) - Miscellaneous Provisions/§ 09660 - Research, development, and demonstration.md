@@ -28,7 +28,7 @@
 
 #### (3) Recipients of grants, etc.
 
-&emsp;A grant, cooperative agreement, or contract may be made or entered into under paragraph (1) with an accredited institution of higher education. The institution may carry out the research or training under the grant, cooperative agreement, or contract through contracts, including contracts with any of the following:
+&emsp;A grant, cooperative agreement, or contract may be made or entered into under paragraph\(1) with an accredited institution of higher education. The institution may carry out the research or training under the grant, cooperative agreement, or contract through contracts, including contracts with any of the following:
 
 &emsp;&emsp;(A) Generators of hazardous wastes.
 
@@ -114,7 +114,7 @@
 
 #### (F) Demonstration plan
 
-&emsp;&emsp;Within 60 days after the selection of the site under this paragraph to be the location of a demonstration project, the Administrator shall establish a final demonstration plan for the project, based upon the demonstration plan contained in the applicationfor the project. Such plan shall clearly set forth how and when the demonstration project will be carried out.
+&emsp;&emsp;Within 60 days after the selection of the site under this paragraph to be the location of a demonstration project, the Administrator shall establish a final demonstration plan for the project, based upon the demonstration plan contained in the application for the project. Such plan shall clearly set forth how and when the demonstration project will be carried out.
 
 #### (G) Supervision and testing
 
@@ -418,7 +418,7 @@ Interagency agreements.—The Administrator and the Secretary of Energy are auth
 
 &emsp;“(B)
 
-Funding.—There is authorized to be appropriated to the Secretary of Energy for purposes ofcarrying out this paragraph for fiscal years beginning after September 30, 1986, not more than $5,000,000. All sums appropriated under this subparagraph shall be provided to the Administrator by the Secretary of Energy, pursuant to the interagency agreement entered into under subparagraph (A), for the purpose of the Administrator entering into contracts and cooperative agreements with, and making grants to, the Center in order to carry out the research, evaluation, testing, development, and demonstration described in paragraph (1).
+Funding.—There is authorized to be appropriated to the Secretary of Energy for purposes of carrying out this paragraph for fiscal years beginning after September 30, 1986, not more than $5,000,000. All sums appropriated under this subparagraph shall be provided to the Administrator by the Secretary of Energy, pursuant to the interagency agreement entered into under subparagraph (A), for the purpose of the Administrator entering into contracts and cooperative agreements with, and making grants to, the Center in order to carry out the research, evaluation, testing, development, and demonstration described in paragraph (1).
 
 “(5)
 

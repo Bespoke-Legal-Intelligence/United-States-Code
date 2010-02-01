@@ -38,7 +38,7 @@
 
 &emsp;(1) a statement of the activities and accomplishments of the Interagency Committee since its last report; and
 
-&emsp;(2) a statement detailing with particularity the recommendations of the Commission with respect to Federal interagency activities in Arctic research and the disposition and responses to those recommendations.
+&emsp;(2) a statement detailing with particularity the recommendations of the Commission with respect to Federal interagency activities inArctic research and the disposition and responses to those recommendations.
 
 (Pub. L. 98–373, title I, §108, July 31, 1984, 98 Stat. 1246; Pub. L. 101–609, §6, Nov. 16, 1990, 104 Stat. 3126.)
 

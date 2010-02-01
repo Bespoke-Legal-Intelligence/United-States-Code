@@ -88,7 +88,7 @@ Information shall be entered into the data base maintained by the State Director
 
 #### (1) Transmission of wage withholding notices to employers
 
-&emsp;Within 2 business days after the date information regarding a newly hired employee is entered into the State Directory of New Hires, the State agency enforcing the employee's child support obligation shall transmit a notice to the employer of the employee directing the employer to withhold from the income of the employee an amount equal to the monthly (or other periodic) child support obligation (including any past due support obligation) of the employee, unless the employee's income is not subject to withholding pursuant to section 666(b)(3) of this title.
+&emsp;Within 2 business days after the date information regarding a newly hired employee is entered into the State Directory of New Hires,the State agency enforcing the employee's child support obligation shall transmit a notice to the employer of the employee directing the employer to withhold from the income of the employee an amount equal to the monthly (or other periodic) child support obligation (including any past due support obligation) of the employee, unless the employee's income is not subject to withholding pursuant to section 666(b)(3) of this title.
 
 #### (2) Transmissions to the National Directory of New Hires
 

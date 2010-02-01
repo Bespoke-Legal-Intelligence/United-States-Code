@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) the annual contribution that the seller was required to make with respect to the operations under the plan for the last plan year before the plan year in which the sale of the assets occurs,
 
-> &emsp;which bond or escrow shall be paid to the plan if the purchaser withdraws from the plan, or fails to make a contribution to the plan whendue, at any time during the first 5 plan years beginning after the sale; and
+> &emsp;which bond or escrow shall be paid to the plan if the purchaser withdraws from the plan, or fails to make a contribution to the plan when due, at any time during the first 5 plan years beginning after the sale; and
 
 &emsp;(C) the contract for sale provides that, if the purchaser withdraws in a complete withdrawal, or a partial withdrawal with respect to operations, during such first 5 plan years, the seller is secondarily liable for any withdrawal liability it would have had to the plan with respect to the operations (but for this section) if the liability of the purchaser with respect to the plan is not paid.
 
@@ -32,7 +32,7 @@
 
 #### (b) Liability of purchaser
 
-(1) For the purposes of this part, the liability of the purchaser shall be determined as if the purchaser had been required to contribute to the plan in the year of the sale and the 4 plan years preceding the sale the amount the seller was required to contribute for such operations for such 5 plan years.
+(1) For the purposes of this part, the liability of the purchaser shall be determined as if thepurchaser had been required to contribute to the plan in the year of the sale and the 4 plan years preceding the sale the amount the seller was required to contribute for such operations for such 5 plan years.
 
 (2) If the plan is in reorganization in the plan year in which the sale of assets occurs, the purchaser shall furnish a bond or escrow in an amount equal to 200 percent of the amount described in subsection (a)(1)(B) of this section.
 

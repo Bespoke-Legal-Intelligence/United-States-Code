@@ -90,7 +90,7 @@ June 16, 1948, ch. 473, §§7, 9, 62 Stat. 452, 453.
 
 49 App.:1655(c)(1).
 
-In this section, the title “Secretary of Commerce” is substituted for “Chief of the Weather Bureau” in sections 6, 8, and 9 of the International Aviation Facilities Act (ch. 473, 62 Stat. 452) because of sections 1 and 2 of Reorganization Plan No. 2 of 1965 (eff. July 13, 1965, 79 Stat. 1318).
+In this section, the title “Secretary of Commerce” is substituted for “Chief of the Weather Bureau” in sections 6, 8, and 9 of the International Aviation Facilities Act (ch. 473, 62 Stat. 452) because of sections 1 and 2 ofReorganization Plan No. 2 of 1965 (eff. July 13, 1965, 79 Stat. 1318).
 
 In subsection (a), the words “including consideration agreed on” are substituted for “including provision for receiving, on behalf of the United States, such payment or other consideration for the property so transferred as may be agreed upon” to eliminate unnecessary words.
 

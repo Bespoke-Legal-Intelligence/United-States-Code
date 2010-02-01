@@ -14,11 +14,11 @@
 
 #### References in Text
 
-This Act, referred to in pars. (1) and (2), means Pub. L. 91–121, Nov. 19, 1969, 83 Stat. 204, as amended. Provisions authorizing the appropriation of funds are notclassified to the Code. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in pars. (1) and (2), means Pub. L. 91–121, Nov. 19, 1969, 83 Stat. 204, as amended. Provisions authorizing the appropriation of funds are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-<b>1970</b>—Par. (1). Pub. L. 91–441, §506(b)(2), inserted reference to disposal of lethal chemical or biological warfare agents or delivery systems for such agents.
+1970—Par. (1). Pub. L. 91–441, §506(b)(2), inserted reference to disposal of lethal chemical or biological warfare agents or delivery systems for such agents.
 
 Par. (2). Pub. L. 91–441, §506(b)(3), inserted reference to disposal of munitions in international waters.
 

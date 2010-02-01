@@ -10,7 +10,7 @@ Section 694, acts July 17, 1916, ch. 245, title I, §5, 39 Stat. 364; Ex. Ord. N
 
 Section 695, acts July 17, 1916, ch. 245, title I, §5, 39 Stat. 364; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 19, 1937, ch. 704, §5(a), 50 Stat. 704, covered subscription by United States for unsubscribed balance of original capital stock of Federal land banks. See section 2001 et seq. of this title.
 
-Section 696, acts July 17, 1916, ch. 245, title I, §5, 39 Stat. 364; Jan. 23, 1932, ch. 9, §1, 47 Stat. 12; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, covered retirement of original stock of Federal land banks. See section 2051 of this title.
+Section 696, acts July 17, 1916, ch. 245, title I, §5, 39 Stat. 364; Jan. 23, 1932, ch. 9, §1, 47 Stat. 12; Aug. 18,1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, covered retirement of original stock of Federal land banks. See section 2051 of this title.
 
 Section 697, acts July 17, 1916, ch. 245, title I, §5, 39 Stat. 364; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 18, 1959, Pub L. 86–168, title I, §104(h), 73 Stat. 387, set out required proportion of capital of Federal land banks that had to be held in form of quick assets. See section 2051 of this title.
 

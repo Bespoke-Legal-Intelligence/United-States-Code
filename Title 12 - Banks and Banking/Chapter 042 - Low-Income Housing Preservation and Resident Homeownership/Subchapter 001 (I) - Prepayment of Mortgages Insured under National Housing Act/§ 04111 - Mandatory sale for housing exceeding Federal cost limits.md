@@ -12,7 +12,7 @@ With respect to any eligible low-income housing for which the aggregate preserva
 
 #### (2) Expression of interest
 
-&emsp;During the period under paragraph (1), priority purchasers shall have the opportunity tosubmit written notice to the owner and the Secretary stating their interest in acquiring the housing. Such written notice shall be in such form and include such information as the Secretary may prescribe.
+&emsp;During the period under paragraph (1), priority purchasers shall have the opportunity to submit written notice to the owner and the Secretary stating their interest in acquiring the housing. Such written notice shall be in such form and include such information as the Secretary may prescribe.
 
 #### (3) Information from Secretary
 

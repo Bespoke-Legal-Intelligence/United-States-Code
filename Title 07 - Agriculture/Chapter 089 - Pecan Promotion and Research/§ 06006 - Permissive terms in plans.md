@@ -6,7 +6,7 @@ A plan issued pursuant to this chapter may contain one or more of the terms and 
 
 #### (b) Exemptions
 
-The plan may provide authority to exempt from the plan pecans used for nonfood uses andauthority for the Board to require satisfactory safeguards against improper uses of such exemptions.
+The plan may provide authority to exempt from the plan pecans used for nonfood uses and authority for the Board to require satisfactory safeguards against improper uses of such exemptions.
 
 #### (c) Different payment and reporting schedules
 

@@ -8,7 +8,7 @@ Entitlement to Allowance.—(1) In addition to any allowance or per diem to whic
 
 &emsp;(B) he is on duty on board a ship away from the home port of the ship for a continuous period of more than 30 days; or
 
-&emsp;(C) he is on temporary duty away from his permanent station for a continuous period ofmore than 30 days and his dependents do not reside at or near his temporary duty station.
+&emsp;(C) he is on temporary duty away from his permanent station for a continuous period of more than 30 days and his dependents do not reside at or near his temporary duty station.
 
 (2) A member who becomes entitled to an allowance under this subsection by virtue of duty prescribed in subparagraph (B) or (C) of paragraph (1) for a continuous period of more than 30 days is entitled to the allowance effective as of the earlier of—
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Basic Offense.—Whoever, whether in time of peace or in time of war, in a circumstance described in subsection (d) and with the specific intent to destroy, in whole or in substantial part, a national, ethnic, racial, or religious group as such—
+Basic Offense.—Whoever, whether in time of peace or in time of war and with the specific intent to destroy, in whole or in substantial part, a national, ethnic, racial, or religious group as such—
 
 &emsp;(1) kills members of that group;
 
@@ -16,7 +16,7 @@ Basic Offense.—Whoever, whether in time of peace or in time of war, in a circu
 
 &emsp;(6) transfers by force children of the group to another group;
 
-> or attempts to do so, shall be punished as provided in subsection (b).
+> shall be punished as provided in subsection (b).
 
 (b)
 
@@ -28,29 +28,41 @@ Punishment for Basic Offense.—The punishment for an offense under subsection (
 
 (c)
 
-Incitement Offense.—Whoever in a circumstance described in subsection (d) directly and publicly incites another to violate subsection (a) shall be fined not more than $500,000 or imprisoned not more than five years, or both.
+Incitement Offense.—Whoever directly and publicly incites another to violate subsection (a) shall be fined not more than $500,000 or imprisoned not more than five years, or both.
 
 (d)
 
-Required Circumstance for Offenses.—The circumstance referred to in subsections (a) and (c) is that—
-
-&emsp;(1) the offense is committed in whole or in part within the United States;
-
-&emsp;(2) the alleged offender is a national of the United States (as that term is defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101));
-
-&emsp;(3) the alleged offender is an alien lawfully admitted for permanent residence in the United States (as that term is defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101));
-
-&emsp;(4) the alleged offender is a stateless person whose habitual residence is in the United States; or
-
-&emsp;(5) after the conduct required for the offense occurs, the alleged offender is brought into, or found in, the United States, even if that conduct occurred outside the United States.
+Attempt and Conspiracy.—Any person who attempts or conspires to commit an offense under this section shall be punished in the same manner as a person who completes the offense.
 
 (e)
 
-Nonapplicability of Certain Limitations.—Notwithstanding section 3282 of thistitle, in the case of an offense under subsection (a)(1), an indictment may be found, or information instituted, at any time without limitation.
+Jurisdiction.—There is jurisdiction over the offenses described in subsections (a), (c), and (d) if—
 
-(Added Pub. L. 100–606, §2(a), Nov. 4, 1988, 102 Stat. 3045; amended Pub. L. 103–322, title VI, §60003(a)(13), Sept. 13, 1994, 108 Stat. 1970; Pub. L. 107–273, div. B, title IV, §4002(a)(4), (b)(7), Nov. 2, 2002, 116 Stat. 1806, 1808; Pub. L. 110–151, §2, Dec. 21, 2007, 121 Stat. 1821.)
+&emsp;(1) the offense is committed in whole or in part within the United States; or
+
+&emsp;(2) regardless of where the offense is committed, the alleged offender is—
+
+&emsp;&emsp;(A) a national of the United States (as that term is defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101));
+
+&emsp;&emsp;(B) an alien lawfully admitted for permanent residence in the United States (as that term is defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101));
+
+&emsp;&emsp;(C) a stateless person whose habitual residence is in the United States; or
+
+&emsp;&emsp;(D) present in the United States.
+
+(f)
+
+Nonapplicability of Certain Limitations.—Notwithstanding section 3282, in the case of an offense under this section, an indictment may be found, or information instituted, at any time without limitation.
+
+(Added Pub. L. 100–606, §2(a), Nov. 4, 1988, 102 Stat. 3045; amended Pub. L. 103–322, title VI, §60003(a)(13), Sept. 13, 1994, 108 Stat. 1970; Pub. L. 107–273, div. B, title IV, §4002(a)(4), (b)(7), Nov. 2, 2002, 116 Stat. 1806, 1808; Pub. L. 110–151, §2, Dec. 21, 2007, 121 Stat. 1821; Pub. L. 111–122, §3(a), Dec. 22, 2009, 123 Stat. 3481.)
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–122, §3(a)(1), struck out “, in a circumstance described in subsection (d)” before “and with the specific” in introductory provisions and “or attempts to do so,” before “shall be punished” in concluding provisions.
+
+Subsec. (c). Pub. L. 111–122, §3(a)(2), struck out “in a circumstance described in subsection (d)” before “directly”.
+
+Subsecs. (d) to (f). Pub. L. 111–122, §3(a)(3), (4), added subsecs. (d) to (f) and struck out former subsecs. (d) and (e) which related to the required circumstance for offenses referred to in subsecs. (a) and (c) and nonapplicability of certain limitations, respectively.
 
 2007—Subsec. (d). Pub. L. 110–151 added subsec. (d) and struck out former subsec. (d). Text of former subsec. (d) read as follows: “The circumstance referred to in subsections (a) and (c) is that—
 

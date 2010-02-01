@@ -14,7 +14,7 @@ The Secretary is authorized to award grants under section 7257(b) of this title 
 
 #### (b) Eligible entities
 
-To be eligible to receive a grant under section 7257(b) of this title, an entity shall be a local public telecommunications entity, as defined in section 397(12) of title 47, that is able to demonstrate a capacity for the development and distribution of educational and instructional television programming of high quality.
+To be eligible to receive a grant under section 7257(b) of this title, an entity shall be a localpublic telecommunications entity, as defined in section 397(12) of title 47, that is able to demonstrate a capacity for the development and distribution of educational and instructional television programming of high quality.
 
 #### (c) Competitive basis
 

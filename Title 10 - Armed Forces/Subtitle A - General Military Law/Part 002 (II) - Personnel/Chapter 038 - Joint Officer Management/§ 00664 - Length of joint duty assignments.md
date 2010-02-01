@@ -22,7 +22,7 @@ Initial Assignment of Officers With Critical Occupational Specialties.—The Sec
 
 (d)
 
-Exclusions From Tour Length.—The Secretary of Defense may exclude the following service from the standards prescribed in subsection (a):
+Exclusions From Tour Length.—The Secretary of Defense may exclude the followingservice from the standards prescribed in subsection (a):
 
 &emsp;(1) Service in a joint duty assignment in which the full tour of duty in the assignment is not completed by the officer because of—
 
@@ -190,7 +190,7 @@ Pub. L. 107–107, div. A, title V, §523, Dec. 28, 2001, 115 Stat. 1097, provid
 
 Pub. L. 103–160, div. A, title IX, §932, Nov. 30, 1993, 107 Stat. 1735, provided extension of authority until the end of the 90-day period beginning on Nov. 30, 1993, to give certain officers joint duty credit pursuant to Pub. L. 102–484, §933, formerly set out below.
 
-Pub. L. 102–484, div. A, title IX, §933, Oct. 23, 1992, 106 Stat. 2476, as amended by Pub. L. 103–35, title II, §202(a)(9), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title IX, §932(c)(1), Nov. 30, 1993, 107 Stat. 1735, temporarily authorized the Secretary of Defense to give an officer who had completed service during the period beginning on Aug. 2, 1990, and ending on Feb. 28, 1991, in an assignment in the Persian Gulf combat zone, credit, on a case-by-case basis, for having completed a full tour of duty in a joint duty assignment, or credit countable for determining cumulative service in joint duty assignments, for the purposes of any provision of this title, notwithstanding the length of such service orwhether that service had been within the definition of “joint duty assignment” in section 668 of this title, and provided that such authority would expire at the end of the six-month period beginning on Oct. 23, 1992.
+Pub. L. 102–484, div. A, title IX, §933, Oct. 23, 1992, 106 Stat. 2476, as amended by Pub. L. 103–35, title II, §202(a)(9), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title IX, §932(c)(1), Nov. 30, 1993, 107 Stat. 1735, temporarily authorized the Secretary of Defense to give an officer who had completed service during the period beginning on Aug. 2, 1990, and ending on Feb. 28, 1991, in an assignment in the Persian Gulf combat zone,credit, on a case-by-case basis, for having completed a full tour of duty in a joint duty assignment, or credit countable for determining cumulative service in joint duty assignments, for the purposes of any provision of this title, notwithstanding the length of such service or whether that service had been within the definition of “joint duty assignment” in section 668 of this title, and provided that such authority would expire at the end of the six-month period beginning on Oct. 23, 1992.
 
 #### Length of Joint Duty Assignments
 

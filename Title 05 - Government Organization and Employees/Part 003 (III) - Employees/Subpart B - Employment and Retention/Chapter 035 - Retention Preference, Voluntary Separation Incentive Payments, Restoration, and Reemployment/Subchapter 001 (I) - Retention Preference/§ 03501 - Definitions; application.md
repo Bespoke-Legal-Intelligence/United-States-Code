@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(ii) caused by an instrumentality of war and incurred in the line of duty during a period of war as defined by sections 101 and 1101 of title 38;
 
-&emsp;&emsp;(B) his service does not include twenty or more years of full-time active service, regardless of when performed but not including period of active duty for training; or
+&emsp;&emsp;(B) his service does not include twenty or more years of full-time active service, regardless of when performed but not including periods of active duty for training; or
 
 &emsp;&emsp;(C) on November 30, 1964, he was employed in a position to which this subchapter applies and thereafter he continued to be so employed without a break in service of more than 30 days.
 

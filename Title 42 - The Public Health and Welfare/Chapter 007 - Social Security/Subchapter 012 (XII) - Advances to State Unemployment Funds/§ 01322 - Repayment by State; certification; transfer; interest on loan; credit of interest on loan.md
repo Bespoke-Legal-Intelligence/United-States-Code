@@ -20,7 +20,7 @@ The Governor of any State may at any time request that funds be transferred from
 
 (B) Notwithstanding subparagraph (A), in the case of any advance made during the last 5 months of any fiscal year, interest on such advance attributable to periods during such fiscal year shall not be required to be paid before the last day of the succeeding taxable year. Any interest the time for payment of which is deferred by the preceding sentence shall bear interest in the same manner as if it were an advance made on the day on which it would have been required to be paid but for this subparagraph.
 
-(C)(i) In the case of any State which meets the requirements of clause (ii) for any calendar year, any interest otherwise required to be paid under this subsection during such calendar year shall be paid as follows—
+(C)(i) In the case of any State which meets the requirements of clause (ii) for any calendaryear, any interest otherwise required to be paid under this subsection during such calendar year shall be paid as follows—
 
 &emsp;(I) 25 percent of the amount otherwise required to be paid on or before any day during such calendar year shall be paid on or before such day; and
 
@@ -36,7 +36,7 @@ The Governor of any State may at any time request that funds be transferred from
 
 &emsp;(B) the aggregate of the average daily balances of the State accounts for such quarter as determined under section 1104(e) of this title.
 
-(5) Interest required to be paid under paragraph (1) shall not be paid (directly or indirectly) by a State from amounts in its unemployment fund. If the Secretary of Labor determines that any State action results in the paying of such interest directly or indirectly (by an equivalent reduction in State unemploymenttaxes or otherwise) from such unemployment fund, the Secretary of Labor shall not certify such State's unemployment compensation law under section 3304 of the Internal Revenue Code of 1986. Such noncertification shall be made in accordance with section 3304(c) of such Code.
+(5) Interest required to be paid under paragraph (1) shall not be paid (directly or indirectly) by a State from amounts in its unemployment fund. If the Secretary of Labor determines that any State action results in the paying of such interest directly or indirectly (by an equivalent reduction in State unemployment taxes or otherwise) from such unemployment fund, the Secretary of Labor shall not certify such State's unemployment compensation law under section 3304 of the Internal Revenue Code of 1986. Such noncertification shall be made in accordance with section 3304(c) of such Code.
 
 (6)(A) For purposes of paragraph (2), any voluntary repayment shall be applied against advances made under section 1321 of this title on the last made first repaid basis. Any other repayment of such an advance shall be applied against advances on a first made first repaid basis.
 
@@ -62,21 +62,31 @@ The Governor of any State may at any time request that funds be transferred from
 
 (D) In the case of a State which produces a solvency effort of 50 percent, 80 percent, and 90 percent rather than the 25 percent, 35 percent, and 50 percent required under subparagraph (B), the interest shall be computed at an interest rate which is 1 percentage point less than the otherwise applicable interest rate.
 
-(9) Any interest otherwise due from a State on September 30 of a calendar year after 1982 may be deferred (and no interest shall accrue on such deferred interest) for a grace period of not to exceed 9 months if, for the most recent 12-month period for which data are available before the date such interest is otherwise due, the State had an average total unemployment rate of 13.5 percent or greater.
+(9) Any interest otherwise due from a State on September 30 of a calendar year after 1982 may be deferred (and no interest shall accrue on such deferred interest) for a grace period of not to exceed 9 months if, for the most recent 12-monthperiod for which data are available before the date such interest is otherwise due, the State had an average total unemployment rate of 13.5 percent or greater.
+
+(10)(A) With respect to the period beginning on February 17, 2009, and ending on December 31, 2010—
+
+&emsp;(i) any interest payment otherwise due from a State under this subsection during such period shall be deemed to have been made by the State; and
+
+&emsp;(ii) no interest shall accrue during such period on any advance or advances made under section 1321 of this title to a State.
+
+(B) The provisions of subparagraph (A) shall have no effect on the requirement for interest payments under this subsection after the period described in such subparagraph or on the accrual of interest under this subsection after such period.
 
 #### (c) Credit of interest on loan
 
 Interest paid by States in accordance with this section shall be credited to the Federal unemployment account established by section 1104(g) of this title in the Unemployment Trust Fund.
 
-(Aug. 14, 1935, ch. 531, title XII, §1202, as added Aug. 5, 1954, ch. 657, §3, 68 Stat. 672; amended Pub. L. 86–778, title V, §522(a), Sept. 13, 1960, 74 Stat. 979; Pub. L. 97–35, title XXIV, §2407(a), (b)(2), Aug. 13, 1981, 95 Stat. 879, 880; Pub. L. 97–248, title II, §274(a), Sept. 3, 1982, 96 Stat. 557; Pub. L. 98–21, title V, §§511, 514, Apr. 20, 1983, 97 Stat. 144, 147; Pub. L. 98–118, §5(a), Oct. 11, 1983, 97 Stat. 804; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9156(a), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 105–33, title V, §5404(a), Aug. 5, 1997, 111 Stat. 604.)
+(Aug. 14, 1935, ch. 531, title XII, §1202, as added Aug. 5, 1954, ch. 657, §3, 68 Stat. 672; amended Pub. L. 86–778, title V, §522(a), Sept. 13, 1960, 74 Stat. 979; Pub. L. 97–35, title XXIV, §2407(a), (b)(2), Aug. 13, 1981, 95 Stat. 879, 880; Pub. L. 97–248, title II, §274(a), Sept. 3, 1982, 96 Stat. 557; Pub. L. 98–21, title V, §§511, 514, Apr. 20, 1983, 97 Stat. 144, 147; Pub. L. 98–118, §5(a), Oct. 11, 1983, 97 Stat. 804; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9156(a), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 105–33, title V, §5404(a), Aug. 5, 1997, 111 Stat. 604; Pub. L. 111–5, div. B, title II, §2004, Feb. 17, 2009, 123 Stat. 443.)
 
 #### References in Text
 
-Section 203 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (b)(3)(C)(ii), is section 203 of Pub. L. 91–373, title II, Aug. 10, 1970, 84 Stat. 709, as amended, which is set out as a note under section 3304 of Title 26, Internal Revenue Code.
+Section 203 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (b)(3)(C)(ii), is section 203 of Pub. L. 91–373, title II, Aug. 10, 1970, 84 Stat. 709, which is set out as a note under section 3304 of Title 26, Internal Revenue Code.
 
 The Internal Revenue Code of 1986, referred to in subsec. (b)(5), (8)(B)(i), is classified generally to Title 26.
 
 #### Amendments
+
+2009—Subsec. (b)(10). Pub. L. 111–5 added par. (10).
 
 1997—Subsec. (b)(2)(C). Pub. L. 105–33 added subpar. (C).
 

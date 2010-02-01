@@ -2,7 +2,7 @@
 
 #### (a) Effective date of final regulations
 
-No final regulation of the Secretary shall become effective prior to the expiration of thirtycalendar days after it is published in the Federal Register during which either or both Houses of Congress are in session.
+No final regulation of the Secretary shall become effective prior to the expiration of thirty calendar days after it is published in the Federal Register during which either or both Houses of Congress are in session.
 
 #### (b) Disapproval of regulation by resolution of Congress
 

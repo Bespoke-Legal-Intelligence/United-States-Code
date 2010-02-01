@@ -110,7 +110,7 @@ Section 1 of Pub. L. 90–148 provided: “That this Act \[amending this chapter
 
 #### Short Title of 1966 Amendment
 
-Pub. L. 89–675, §1, Oct. 15, 1966, 80 Stat. 954, provided: “That this Act \[amending sections 7405 and 7616 of thistitle and repealing section 1857f–8 of this title\] may be cited as the ‘Clean Air Act Amendments of 1966’.”
+Pub. L. 89–675, §1, Oct. 15, 1966, 80 Stat. 954, provided: “That this Act \[amending sections 7405 and 7616 of this title and repealing section 1857f–8 of this title\] may be cited as the ‘Clean Air Act Amendments of 1966’.”
 
 #### Short Title
 
@@ -296,7 +296,7 @@ Pub. L. 95–95, title IV, §404, Aug. 7, 1977, 91 Stat. 793, as amended by H. R
 
 #### Study and Report Concerning Economic Approaches to Controlling Air Pollution
 
-Pub. L. 95–95, title IV, §405, Aug. 7, 1977, 91 Stat. 794, directed Administrator, in conjunction with Council of Economic Advisors, to undertake a study and assessment of economic measures for control of air pollution which could strengthen effectiveness of existing methods of controlling air pollution, provide incentives to abate air pollution greater than that required by Clean Air Act, and serve as primary incentive for controlling air pollution problems not addressed by Clean Air Act, and directed that not later than 2 years after Aug. 7, 1977, Administrator and Council conclude study and submit a report to President and Congress.
+Pub. L. 95–95, title IV, §405, Aug. 7, 1977, 91 Stat. 794, directed Administrator, in conjunction with Council of Economic Advisors, to undertake a study and assessment of economic measures for control of air pollution which could strengthen effectiveness of existing methods of controlling air pollution, provide incentives to abate air pollution greater than that required by Clean Air Act, and serve as primary incentive for controlling air pollution problems not addressed by Clean Air Act,and directed that not later than 2 years after Aug. 7, 1977, Administrator and Council conclude study and submit a report to President and Congress.
 
 #### National Industrial Pollution Control Council
 

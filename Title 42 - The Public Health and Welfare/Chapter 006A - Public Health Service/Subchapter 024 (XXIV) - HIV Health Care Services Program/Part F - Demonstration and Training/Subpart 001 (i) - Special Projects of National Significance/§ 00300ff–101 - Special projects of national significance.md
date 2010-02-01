@@ -36,11 +36,7 @@ The Secretary may not make a grant under this section for the development of a q
 
 The Secretary shall make information concerning successful models or programs developed under this part available to grantees under this subchapter for the purpose of coordination, replication, and integration. To facilitate efforts under this subsection, the Secretary may provide for peer-based technical assistance for grantees funded under this part.
 
-(July 1, 1944, ch. 373, title XXVI, §2691, as added Pub. L. 104–146, §3(g)(1), May 20, 1996, 110 Stat. 1362; amended Pub. L. 109–415, title VI, §601, Dec. 19, 2006, 120 Stat. 2816.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2691, as added Pub. L. 104–146, §3(g)(1), May 20, 1996, 110 Stat. 1362; amended Pub. L. 109–415, title VI, §601, title VII, §703, Dec. 19, 2006, 120 Stat. 2816, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### References in Text
 
@@ -48,5 +44,13 @@ Section 264(c) of the Health Insurance Portability and Accountability Act of 199
 
 #### Amendments
 
-2006—Pub. L. 109–415 amended section generally. Prior to amendment, section related to use of funds for special projects of national significance.
+2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+Pub. L. 109–415, §601, amended section generally. Prior to amendment, section related to use of funds for special projects of national significance.
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 

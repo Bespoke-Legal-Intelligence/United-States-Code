@@ -38,7 +38,7 @@ A prior section 316 of act July 14, 1955, ch. 360, title III, formerly §13, as 
 
 #### Effective Date
 
-Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, setout as an Effective Date of 1977 Amendment note under section 7401 of this title.
+Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

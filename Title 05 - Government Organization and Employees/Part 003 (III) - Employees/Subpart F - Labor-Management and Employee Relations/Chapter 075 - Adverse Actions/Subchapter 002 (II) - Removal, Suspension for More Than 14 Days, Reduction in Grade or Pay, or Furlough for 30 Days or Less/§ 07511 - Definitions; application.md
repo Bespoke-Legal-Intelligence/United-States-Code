@@ -94,7 +94,7 @@ Subsec. (b)(10). Pub. L. 102–378, §6(a)(2)–(4), added par. (10).
 
 &emsp;&emsp;“(A) an individual in the competitive service who is not serving a probationary or trial period under an initial appointment or who has completed 1 year of current continuous employment under other than a temporary appointment limited to 1 year or less; and
 
-&emsp;&emsp;“(B) a preference eligible in an Executive agency in the excepted service, and a preference eligible in the United States Postal Service or the Postal RateCommission, who has completed 1 year of current continuous service in the same or similar positions;
+&emsp;&emsp;“(B) a preference eligible in an Executive agency in the excepted service, and a preference eligible in the United States Postal Service or the Postal Rate Commission, who has completed 1 year of current continuous service in the same or similar positions;
 
 &emsp;“(2) ‘suspension’ has the meaning as set forth in section 7501(2) of this title;
 

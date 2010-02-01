@@ -2,7 +2,7 @@
 
 #### (a) Lapse of agency or other body from which functions or programs have been transferred and positions or offices therein
 
-Except as otherwise provided in this chapter, whenever all of the functions or programs of anagency, or other body, or any component thereof, affected by this chapter, have been transferred from that agency, or other body, or any component thereof by this chapter, the agency, or other body, or component thereof shall lapse. If an agency, or other body, or any component thereof, lapses pursuant to the preceding sentence, each position and office therein which was expressly authorized by law, or the incumbent of which was authorized to receive compensation at the rate prescribed for an office or position at level II, III, IV, or V of the Executive Schedule (5 U.S.C. 5313–5316), shall lapse.
+Except as otherwise provided in this chapter, whenever all of the functions or programs of an agency, or other body, or any component thereof, affected by this chapter, have been transferred from that agency, or other body, or any component thereof by this chapter, the agency, or other body, or component thereof shall lapse. If an agency, or other body, or any component thereof, lapses pursuant to the preceding sentence, each position and office therein which was expressly authorized by law, or the incumbent of which was authorized to receive compensation at the rate prescribed for an office or position at level II, III, IV, or V of the Executive Schedule (5 U.S.C. 5313–5316), shall lapse.
 
 #### (b) Continuation of orders, determinations, rules, etc.
 
@@ -44,7 +44,7 @@ With respect to any functions transferred by this chapter and performed after th
 
 #### (i) Limitation, curtailment, etc., of presidential functions or authority
 
-Nothing contained in this chapter shall be construed to limit, curtail, abolish, or terminateany function of the President which he had immediately before the effective date of this chapter; or to limit, curtail, abolish, or terminate his authority to perform such function; or to limit, curtail, abolish, or terminate his authority to delegate, redelegate, or terminate any delegation of functions.
+Nothing contained in this chapter shall be construed to limit, curtail, abolish, or terminate any function of the President which he had immediately before the effective date of this chapter; or to limit, curtail, abolish, or terminate his authority to perform such function; or to limit, curtail, abolish, or terminate his authority to delegate, redelegate, or terminate any delegation of functions.
 
 #### (j) References in chapter to provision of law deemed to include references thereto as amended or supplemented
 

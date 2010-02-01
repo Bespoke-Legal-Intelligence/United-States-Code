@@ -46,7 +46,7 @@ As used in this subchapter:
 
 #### (8) Separated entity
 
-&emsp;The term “separated entity” means a privatized entity to whom a portion of the assets owned by INTELSAT or Inmarsat are transferred prior to full privatization of INTELSAT or Inmarsat, including in particular the entity whose structure was under discussion by INTELSAT as of March 25, 1998, but excluding ICO.
+&emsp;The term “separated entity” means a privatized entity to whom a portion of the assets owned by INTELSAT or Inmarsat are transferred prior to full privatization ofINTELSAT or Inmarsat, including in particular the entity whose structure was under discussion by INTELSAT as of March 25, 1998, but excluding ICO.
 
 #### (9) Orbital location
 
@@ -86,7 +86,7 @@ As used in this subchapter:
 
 #### (16) Inmarsat Convention
 
-&emsp;The term “Inmarsat Convention” means the Convention on the International MaritimeSatellite Organization (Inmarsat) (TIAS 9605, 31 UST 1).
+&emsp;The term “Inmarsat Convention” means the Convention on the International Maritime Satellite Organization (Inmarsat) (TIAS 9605, 31 UST 1).
 
 #### (17) National corporation
 

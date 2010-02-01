@@ -22,7 +22,7 @@
 
 #### (3) Provision of all services and activities through each grantee
 
-&emsp;In making grants under paragraph (1), the Secretary shall ensure that each of the activities described in such paragraph is provided through each grantee under such paragraph. The Secretary may authorize such a grantee to provide the services and activities directly, or through arrangements with other providers.
+&emsp;In making grants under paragraph (1), the Secretary shall ensure that each of the activities described in such paragraph is provided through each grantee under such paragraph. The Secretary may authorize such a granteeto provide the services and activities directly, or through arrangements with other providers.
 
 #### (b) Status as medicaid provider
 
@@ -56,7 +56,7 @@ No grant may be made under subsection (a) of this section, unless an application
 
 &emsp;&emsp;(B) communicate to health professionals and paraprofessionals updated knowledge concerning lead poisoning and research (including the health consequences, if any, of low-level lead burden; the prevalence of lead poisoning among all socioeconomic groupings; the benefits of expanded lead screening; and the therapeutic and other interventions available to prevent and combat lead poisoning in affected children and families).
 
-&emsp;(3) Assurances satisfactory to the Secretary that the applicant will report on a quarterly basis the number of infants and childrenscreened for elevated blood lead levels, the number of infants and children who were found to have elevated blood lead levels, the number and type of medical referrals made for such infants and children, the outcome of such referrals, and other information to measure program effectiveness.
+&emsp;(3) Assurances satisfactory to the Secretary that the applicant will report on a quarterly basis the number of infants and children screened for elevated blood lead levels, the number of infants and children who were found to have elevated blood lead levels, the number and type of medical referrals made for such infants and children, the outcome of such referrals, and other information to measure program effectiveness.
 
 &emsp;(4) Assurances satisfactory to the Secretary that the applicant will make such reports respecting the program involved as the Secretary may require.
 
@@ -146,7 +146,7 @@ For purposes of this section, the term “political subdivision” includes Indi
 
 The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall develop national guidelines for the uniform reporting of all blood lead test results to State and local health departments.
 
-(July 1, 1944, ch. 373, title III, §317A, as added Pub. L. 100–572, §3, Oct. 31, 1988, 102 Stat. 2887; amended Pub. L. 102–531, title III, §303(a), Oct. 27, 1992, 106 Stat. 3484; Pub. L. 103–183, title VII, §705(a), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §404, Nov. 13, 1998, 112 Stat. 3588; Pub. L. 106–310, div. A, title XXV, §§2501(a), (b), 2504, Oct. 17, 2000, 114 Stat. 1161, 1164; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 108–163, §2(m)(1), Dec. 6, 2003, 117 Stat. 2023.)
+(July 1, 1944, ch. 373, title III, §317A, as added Pub. L. 100–572, §3, Oct. 31, 1988, 102 Stat. 2887; amended Pub. L. 102–531, title III, §303(a), Oct. 27, 1992, 106 Stat. 3484; Pub. L. 103–183, title VII, §705(a), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §404, Nov. 13, 1998, 112 Stat. 3588; Pub. L. 106–310, div. A, title XXV, §§2501(a), (b), 2504, Oct. 17, 2000, 114 Stat. 1161, 1164; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat.1664; Pub. L. 108–163, §2(m)(1), Dec. 6, 2003, 117 Stat. 2023.)
 
 #### References in Text
 

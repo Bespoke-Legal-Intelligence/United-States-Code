@@ -4,7 +4,7 @@ When it appears to the Archivist to be in the public interest, he may—
 
 &emsp;(1) accept for deposit with the National Archives of the United States the records of a Federal agency, the Congress, the Architect of the Capitol, or the Supreme Court determined by the Archivist of the United States to have sufficient historical or other value to warrant their continued preservation by the United States Government;
 
-&emsp;(2) direct and effect the transfer to the National Archives of the United States of records of a Federal agency that have been in existence for more than thirty years and determined by the Archivist of the United States to have sufficient historical or other value to warrant their continued preservation by the United States Government, unless the head of the agency which has custody of them certified in writing to the Archivist that they must be retained in his custody for use in the conduct of the regular current business of the agency;
+&emsp;(2) direct and effect the transfer to the National Archives of the United States of records of a Federal agency that have been in existence for more than thirty years and determined by the Archivist of the United States to have sufficient historical or other value to warrant their continued preservation by the United States Government, unless the head of the agency which has custody of them certified in writing to the Archivist that theymust be retained in his custody for use in the conduct of the regular current business of the agency;
 
 &emsp;(3) direct and effect, with the approval of the head of the originating agency, or if the existence of the agency has been terminated, then with the approval of his successor in function, if any, the transfer of records, deposited or approved for deposit with the National Archives of the United States to public or educational institutions or associations; title to the records to remain vested in the United States unless otherwise authorized by Congress; and
 
@@ -202,7 +202,7 @@ In General.—(1) As soon as practicable after the date of enactment of this Act
 
 “(3) No assassination record made available or disclosed to the public prior to the date of enactment of this Act may be withheld, redacted, postponed for public disclosure, or reclassified.
 
-“(4) No assassination record created by a person or entity outside government (excluding names or identities consistent with the requirements of section 6) shallbe withheld, redacted, postponed for public disclosure, or reclassified.
+“(4) No assassination record created by a person or entity outside government (excluding names or identities consistent with the requirements of section 6) shall be withheld, redacted, postponed for public disclosure, or reclassified.
 
 “(b)
 
@@ -376,7 +376,7 @@ Removal of Review Board Member.—(1) No member of the Review Board shall be rem
 
 &emsp;“(B) by the action of the President for inefficiency, neglect of duty, malfeasance in office, physical disability, mental incapacity, or any other condition that substantially impairs the performance of the member's duties.
 
-“(2)(A) If a member of the Review Board is removed from office, and that removal is by the President, not later than 10 days after the removal the President shall submit to the Committee on Government Operations \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report specifying the facts found and the grounds for the removal.
+“(2)(A) If a member of the Review Board is removed from office, and that removal is by the President, not later than 10 days after the removal the President shall submit to the Committee on Government Operations \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on HomelandSecurity and Governmental Affairs\] of the Senate a report specifying the facts found and the grounds for the removal.
 
 “(B) The President shall publish in the Federal Register a report submitted under paragraph (2)(A), except that the President may, if necessary to protect the rights of a person named in the report or to prevent undue interference with any pending prosecution, postpone or refrain from publishing any or all of the report until the completion of such pending cases or pursuant to privacy protection requirements in law.
 
@@ -482,7 +482,7 @@ Staff.—(1) The Review Board, without regard to the civil service laws, may app
 
 “(2)(A) Except as provided in subparagraph (B), a person appointed to the staff of the Review Board shall be a private citizen of integrity and impartiality who is not a present employee of any branch of the Government and who has had no previous involvement with any official investigation or inquiry relating to the assassination of President John F. Kennedy.
 
-“(B) An individual who is an employee of the Government may be appointed to the staff of the ReviewBoard if in that position the individual will perform only administrative functions.
+“(B) An individual who is an employee of the Government may be appointed to the staff of the Review Board if in that position the individual will perform only administrative functions.
 
 “(3)(A) A candidate for staff shall be granted the necessary security clearances in an accelerated manner subject to the standard procedures for granting such clearances.
 
@@ -566,7 +566,7 @@ Public disclosure or postponement of disclosure.—After the Review Board has ma
 
 &emsp;“(2)
 
-Periodic review.—Any executive branch assassination record postponed by the President shall be subject to the requirements of periodic review, downgrading and declassification of classified information, and public disclosure in the collection set forth in section 4.
+Periodic review.—Any executive branch assassination record postponed by the President shall besubject to the requirements of periodic review, downgrading and declassification of classified information, and public disclosure in the collection set forth in section 4.
 
 &emsp;“(3)
 
@@ -676,5 +676,5 @@ Interim Funding.—Until such time as funds are appropriated pursuant to subsect
 
 #### Classified National Security Information
 
-For provisions authorizing Archivist to review, downgrade, and declassify information of former Presidents under control of Archivist pursuant to this section, see Ex. Ord. No. 12958, §3.6(b)(4), Apr. 17, 1995, 60 F.R. 19835, set out as a note under section 435 of Title 50, War and National Defense.
+For provisions authorizing Archivist to review, downgrade, and declassify information of former Presidents under control of Archivist pursuant to this section, see Ex. Ord. No. 13526, §3.5(b), Dec. 29, 2009, 75 F.R. 718, set out as a note under section 435 of Title 50, War and National Defense.
 

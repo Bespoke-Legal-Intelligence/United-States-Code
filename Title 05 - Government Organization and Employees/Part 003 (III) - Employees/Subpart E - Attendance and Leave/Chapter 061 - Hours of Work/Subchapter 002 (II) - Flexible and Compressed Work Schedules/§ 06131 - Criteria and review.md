@@ -20,7 +20,7 @@
 
 (B) The Panel shall promptly consider any case presented under subparagraph (A), and shall take final action in favor of the agency's determination if the finding on which it is based is supported by evidence that the schedule is likely to cause an adverse agency impact.
 
-(3)(A) If an agency and an exclusive representative have entered into a collective bargaining agreement providing for use of a flexible or compressed schedule under this subchapter and the head of the agency determines under subsection (a)(2) to terminate a flexible or compressed schedule, the agency may reopen the agreement to seek termination of the schedule involved.
+(3)(A) If an agency and an exclusive representative have entered into a collective bargaining agreement providing for use of a flexible or compressed schedule under this subchapter and the head of the agency determines under subsection\(a)(2) to terminate a flexible or compressed schedule, the agency may reopen the agreement to seek termination of the schedule involved.
 
 (B) If the agency and exclusive representative reach an impasse in collective bargaining with respect to terminating such schedule, the impasse shall be presented to the Panel.
 

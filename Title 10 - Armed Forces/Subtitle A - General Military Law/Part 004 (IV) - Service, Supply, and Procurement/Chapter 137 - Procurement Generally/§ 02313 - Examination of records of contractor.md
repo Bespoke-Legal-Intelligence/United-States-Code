@@ -96,7 +96,7 @@ Feb. 19, 1948, ch. 65, §4(c); added Oct. 31, 1951, ch. 652 (as applicable to §
 
 In subsection (a), the words “An agency named in section 2303 of this title” are substituted for the words “a procuring agency”. The words “made by that agency under this chapter” are inserted for clarity.
 
-In subsection (b), the word “under” is substituted for the words “pursuant to authority contained in”. The word “provide” is substituted for the words “include a clause to the effect”. The words “are entitled” are substituted for the words “shall \* \* \* have \* \* \* the right”. The words “of the United States”, “duly authorized”, “have access to and”, and “engaged in the performance of” are omitted as surplusage.
+In subsection (b), the word “under” is substituted for the words “pursuant to authority contained in”. The word “provide” is substituted for the words “include a clause to the effect”. The words “are entitled” are substituted for the words “shall have the right”. The words “of the United States”, “duly authorized”, “have access to and”, and “engaged in the performance of” are omitted as surplusage.
 
 #### Amendments
 

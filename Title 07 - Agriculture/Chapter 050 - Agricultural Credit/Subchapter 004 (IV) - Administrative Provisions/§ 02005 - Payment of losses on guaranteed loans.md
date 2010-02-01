@@ -14,7 +14,7 @@
 
 #### (1) Loss by lender
 
-&emsp;If the lender of a guaranteed farmer program loan takes any action described in section 1981(b)(4) of this title with respect to the loan and the Secretary approves such action, then, for purposes of the guarantee, the lender shall be treated as having sustained a loss equal to the amount by which—
+&emsp;If the lender of a guaranteed farmer program loan takes any action described in section1981(b)(4) of this title with respect to the loan and the Secretary approves such action, then, for purposes of the guarantee, the lender shall be treated as having sustained a loss equal to the amount by which—
 
 &emsp;&emsp;(A) the outstanding balance of the loan immediately before such action, exceeds
 
@@ -30,7 +30,7 @@
 
 #### (3) Construction of subsection
 
-&emsp;This subsection shall not be construed to limit the authority of the Secretary to enterinto a shared appreciation arrangement with a borrower, or the terms and conditions which shall be required of a borrower, under section 2001(e) of this title.
+&emsp;This subsection shall not be construed to limit the authority of the Secretary to enter into a shared appreciation arrangement with a borrower, or the terms and conditions which shall be required of a borrower, under section 2001(e) of this title.
 
 (Pub. L. 87–128, title III, §357, as added Pub. L. 100–233, title VI, §619, Jan. 6, 1988, 101 Stat. 1683; amended Pub. L. 101–624, title XXIII, §2388(d)(2), Nov. 28, 1990, 104 Stat. 4053.)
 

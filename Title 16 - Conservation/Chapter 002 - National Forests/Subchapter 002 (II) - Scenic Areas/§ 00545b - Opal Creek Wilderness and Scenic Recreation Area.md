@@ -62,7 +62,7 @@ The purposes of this section are—
 
 &emsp;&emsp;(B) a binding agreement has been executed by the Secretary and the owners of record as of March 29, 1996, of the following interests, specifying the terms and conditions for the disposition of such interests to the United States Government—
 
-&emsp;&emsp;&emsp;(i) The lode mining claims known as Princess Lode, Black Prince Lode, and King Number 4 Lode, embracing portions of sections 29 and 32, township 8 south, range 5 east, Willamette Meridian, Marion County, Oregon, the claims being more particularly described in the field notes and depicted on the plat of mineral survey number 887, Oregon; and
+&emsp;&emsp;&emsp;(i) The lode mining claims known as Princess Lode, Black Prince Lode, and King Number 4 Lode, embracing portions of sections 29 and 32, township 8 south, range 5 east, Willamette Meridian, Marion County, Oregon, the claims being more particularly described in the field notesand depicted on the plat of mineral survey number 887, Oregon; and
 
 &emsp;&emsp;&emsp;(ii) Ruth Quartz Mine Number 1, mineral survey number 994, as described in patent number 39–91–0012, dated February 12, 1991.
 
@@ -354,7 +354,7 @@ The purposes of this section are—
 
 &emsp;(A) The exchange directed by this subsection shall be consummated not later than 120 days after the date Rosboro offers and conveys the property described in paragraph (2) to the United States.
 
-&emsp;(B) The authority provided by this subsection shall lapse of <sup>6</sup> Rosboro fails to offerthe land described in paragraph (2) within 2 years after November 12, 1996.
+&emsp;(B) The authority provided by this subsection shall lapse of <sup>6</sup> Rosboro fails to offer the land described in paragraph (2) within 2 years after November 12, 1996.
 
 #### (6) Challenge
 
@@ -428,7 +428,7 @@ Pub. L. 104–208, div. B, title I, §101, Sept. 30, 1996, 110 Stat. 3009–523,
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

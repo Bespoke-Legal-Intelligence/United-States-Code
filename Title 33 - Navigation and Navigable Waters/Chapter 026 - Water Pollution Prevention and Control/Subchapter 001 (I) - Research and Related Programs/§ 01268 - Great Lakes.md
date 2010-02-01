@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the Great Lakes are a valuable national resource, continuously serving the people of the United States and other nations as an important source of food, fresh water, recreation, beauty, and enjoyment;
 
-&emsp;&emsp;(B) the United States should seek to attain the goals embodied in the Great LakesWater Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments, with particular emphasis on goals related to toxic pollutants; and
+&emsp;&emsp;(B) the United States should seek to attain the goals embodied in the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments, with particular emphasis on goals related to toxic pollutants; and
 
 &emsp;&emsp;(C) the Environmental Protection Agency should take the lead in the effort to meet those goals, working with other Federal agencies and State and local authorities.
 
@@ -160,7 +160,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 &emsp;&emsp;&emsp;(i) show by categories (including judicial enforcement, research, State cooperative efforts, and general administration) the amount anticipated to be expended on Great Lakes water quality initiatives in the fiscal year to which the assessment relates; and
 
-&emsp;&emsp;&emsp;(ii) include a report of current programs administered by other Federal agencies which make available resources to the Great Lakes water quality management efforts.
+&emsp;&emsp;&emsp;(ii) include a report of current programs administered by other Federal agencieswhich make available resources to the Great Lakes water quality management efforts.
 
 #### (11) Confined disposal facilities
 
@@ -240,7 +240,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (III) Work performed before project agreement
 
-&emsp;&emsp;&emsp;&emsp;In any case in which a non-Federal sponsor is to receive credit under subclause (II) for the cost of work carried out by the non-Federal sponsor and such work has not been carried out by the non-Federal sponsor as of October 8, 2008, the Administrator and the non-Federal sponsor shall enter into an agreement under which the non-Federal sponsor shall carry out such work, and only work carried out following the execution of the agreement shall be eligible for credit.
+&emsp;&emsp;&emsp;&emsp;In any case in which a non-Federal sponsor is to receive credit under subclause (II) for the cost of work carried out by the non-Federal sponsor and such work has not been carried out by the non-Federal sponsor as of October 8, 2008, the Administrator and the non-Federal sponsor shall enter into an agreement under which the non-Federal sponsorshall carry out such work, and only work carried out following the execution of the agreement shall be eligible for credit.
 
 #### (IV) Limitation
 

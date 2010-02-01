@@ -32,11 +32,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(V) The amount the borrower may pay in interest, based on a standard repayment plan and the average amount borrowed from the lender by students who graduated from such institution in the preceding year and who obtained loans of such type from the lender for the preceding year, for—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) borrowers who take out loans under section 1078 of this title;
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) borrowers of loans made under section 1078 of this title;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) borrowers who take out loans under section 1078–2 or 1078–8 of this title, who pay the interest while in school; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) borrowers of loans made under section 1078–2 or 1078–8 of this title, who pay the interest while in school; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) borrowers who take out loans under section 1078–2 or 1078–8 of this title, who do not pay the interest while in school.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) borrowers of loans made under section 1078–2 or 1078–8 of this title, who do not pay the interest while in school.
 
 &emsp;&emsp;&emsp;&emsp;(VI) The consequences for the borrower of defaulting on a loan, including limitations on the discharge of an education loan in bankruptcy.
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(i) is easily usable by students, families, institutions, institution-affiliated organizations, lenders, loan servicers, and guaranty agencies; and
 
-&emsp;&emsp;&emsp;(ii) is similar in format to the form developed by the Board of Governors of the Federal Reserve System under paragraphs (1) and (5)(A) of section 1638(e) <sup>1</sup> of title 15, in order to permit students and the families of students to easily compare private education loans and education loans described in section 1019(3)(A) of this title; and
+&emsp;&emsp;&emsp;(ii) is similar in format to the form developed by the Board of Governors of the Federal Reserve System under paragraphs (1) and (5)(A) of section 1638(e) <sup>1</sup> of title 15,in order to permit students and the families of students to easily compare private education loans and education loans described in section 1019(3)(A) of this title; and
 
 &emsp;&emsp;(C) update such model disclosure form periodically, as necessary.
 
@@ -110,11 +110,19 @@ Each lender that has a preferred lender arrangement with a covered institution, 
 
 &emsp;&emsp;&emsp;(iii) administer and enforce such code of conduct by, at a minimum, requiring that all of such organization's agents with responsibilities with respect to education loans be annually informed of the provisions of such code of conduct.
 
-(Pub. L. 89–329, title I, §153, as added Pub. L. 110–315, title I, §120, Aug. 14, 2008, 122 Stat. 3122.)
+(Pub. L. 89–329, title I, §153, as added Pub. L. 110–315, title I, §120, Aug. 14, 2008, 122 Stat. 3122; amended Pub. L. 111–39, title I, §101(b)(6), July 1, 2009, 123 Stat. 1935.)
 
 #### References in Text
 
 Section 1638(e) of title 15, referred to in subsec. (a)(2)(B)(ii), was in the original “section 128(e)”, and was translated as meaning section 128(e) of Pub. L. 90–321, which is classified to section 1638(e) of title 15, to reflect the probable intent of Congress.
+
+#### Amendments
+
+2009—Subsec. (a)(1)(B)(iii)(V). Pub. L. 111–39 substituted “borrowers of loans made under” for “borrowers who take out loans under” wherever appearing.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

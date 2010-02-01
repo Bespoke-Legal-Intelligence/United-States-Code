@@ -50,7 +50,7 @@ The items of income referred to in subsection (a) are interest (other than origi
 
 #### (7) Certain annuities received under qualified plans
 
-&emsp;No deduction or withholding under subsection (a) shall be required in the case of any amount received as an annuity if such amount is, under section 871(f), exempt from the tax imposed by section 871(a).
+&emsp;No deduction or withholding under subsection (a) shall be required in the case of any amount received as an annuity if such amountis, under section 871(f), exempt from the tax imposed by section 871(a).
 
 #### (8) Original issue discount
 
@@ -104,7 +104,7 @@ The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec.
 
 The Tax Reform Act of 1984, referred to in subsec. (c)(3), is division A \[§§5 to 1082\] of Pub. L. 98–369, July 18, 1984, 98 Stat. 494, which was approved July 18, 1984. For complete classification of this Act to the Code, see Short Title of 1984 Amendments note set out under section 1 of this title and Tables.
 
-The Mutual Security Act of 1954, referred to in subsec. (c)(6), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§101 to 103, ch. II, §§201 to 205, ch. III, §301, ch. IV, §401, ch. V, §501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, §2, ch. 1, §101, ch. II, §§201 to 205(a) to (i), (k) to (n), ch. III, §301, ch. IV, §401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§1750 et seq.) of Title 22, Foreign Relations and Intercourse, and which was repealed by act July 18, 1956, ch. 627, §8(m), 70 Stat. 559, Pub. L. 85–141, §§2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat 745, except for sections 1754, 1783, 1796, 1853, 1922, 1928, and 1937 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of Title 22 and Tables.
+The Mutual Security Act of 1954, referred to in subsec. (c)(6), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§101 to 103, ch. II, §§201 to 205, ch. III, §301, ch. IV, §401, ch. V, §501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, §2, ch. 1, §101, ch. II, §§201 to 205(a) to (i), (k) to (n), ch. III, §301, ch. IV, §401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§1750 et seq.) of Title 22, Foreign Relations and Intercourse, and which was repealed by act July 18, 1956, ch. 627, §8(m), 70 Stat. 559, Pub. L. 85–141, §§2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat 745, except for sections 1754, 1783, 1796, 1853, 1922, 1928, and 1937 of Title 22. For complete classification of this Act tothe Code, see Short Title note set out under section 1754 of Title 22 and Tables.
 
 #### Amendments
 
@@ -180,7 +180,7 @@ Subsec. (c)(4). Pub. L. 87–256, §110(d)(3), authorized the exemption from ded
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to dividends with respect to taxable years of regulated investment companies beginning after Dec. 31, 2004, see section 411(d)(1) of Pub. L. 108–357, set out as a note under section 871 of this title.
+Amendment by Pub. L. 108–357 applicable to dividends with respect to taxable years of regulated investment companies beginning after Dec. 31, 2004, see section411(d)(1) of Pub. L. 108–357, set out as a note under section 871 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -210,7 +210,7 @@ Amendment by section 1810(d)(3)(D) of Pub. L. 99–514 effective, except as othe
 
 Amendment by section 42(a)(13) of Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, see section 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
 
-Amendment by section 127(e)(1) of Pub. L. 98–369 applicable to interest received after July 18, 1984, with respect to obligations issued after such date, in taxableyears ending after such date, see section 127(g)(1) of Pub. L. 98–369, set out as a note under section 871 of this title.
+Amendment by section 127(e)(1) of Pub. L. 98–369 applicable to interest received after July 18, 1984, with respect to obligations issued after such date, in taxable years ending after such date, see section 127(g)(1) of Pub. L. 98–369, set out as a note under section 871 of this title.
 
 Amendment by section 474(r)(29)(G), (H) of Pub. L. 98–369 not applicable with respect to obligations issued before Jan. 1, 1984, see section 475(b) of Pub. L. 98–369, set out as a note under section 33 of this title.
 

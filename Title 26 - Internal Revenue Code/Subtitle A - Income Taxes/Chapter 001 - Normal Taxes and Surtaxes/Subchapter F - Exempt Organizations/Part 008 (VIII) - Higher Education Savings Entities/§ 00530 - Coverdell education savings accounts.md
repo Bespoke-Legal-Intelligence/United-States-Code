@@ -314,7 +314,7 @@ Amendment by Pub. L. 110–245 applicable with respect to deaths from injuries o
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 404(a) of Pub. L. 108–311 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub.L. 107–16, to which such amendment relates, see section 404(f) of Pub. L. 108–311, set out as a note under section 45A of this title.
+Amendment by section 404(a) of Pub. L. 108–311 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 404(f) of Pub. L. 108–311, set out as a note under section 45A of this title.
 
 Amendment by section 406(b) of Pub. L. 108–311 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 406(h) of Pub. L. 108–311, set out as a note under section 55 of this title.
 

@@ -46,5 +46,5 @@ Section 1 of Pub. L. 89–465 provided: “That this Act \[enacting sections 314
 
 #### Purpose of Bail Reform Act of 1966
 
-Section 2 of Pub. L. 89–465 provided that: “The purpose of this Act \[enacting sections 3146 to 3152 of this title, amending sections 3041, 3141 to 3143, and 3568 of this title and enacting provisions set out as a note above\] is to revise the practices relating to bail to assure that all persons, regardless of their financial status, shall not needlessly be detained pending their appearance to answer charges, to testify, or pending appeal, when detention serves neither the ends of justice nor the public interest.”
+Section 2 of Pub. L. 89–465 provided that: “The purpose of this Act \[enacting sections 3146 to 3152 of thistitle, amending sections 3041, 3141 to 3143, and 3568 of this title and enacting provisions set out as a note above\] is to revise the practices relating to bail to assure that all persons, regardless of their financial status, shall not needlessly be detained pending their appearance to answer charges, to testify, or pending appeal, when detention serves neither the ends of justice nor the public interest.”
 

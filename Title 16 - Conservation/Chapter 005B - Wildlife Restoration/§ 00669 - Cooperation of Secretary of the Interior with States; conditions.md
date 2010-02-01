@@ -6,7 +6,7 @@ The Secretary of the Interior is authorized to cooperate with the States, throug
 
 #### Transfer of Functions
 
-Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees,transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 #### Short Title of 2000 Amendment
 

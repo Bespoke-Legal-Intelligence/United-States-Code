@@ -167,7 +167,9 @@
 | 74a–7. | Speaker's Office for Legislative Floor Activities. |
 | 74a–8. | Training and program development activities of Republican Conference and Democratic Steering and Policy Committee. |
 | 74a–9. | Appointment of consultants by Speaker, Majority Leader, and Minority Leader of House; compensation. |
-| 74a–10. | Lump sum allowances for House Minority Leader and Majority Whip. |
+| 74a–10. | Lump-sum allowances for House Minority Leader and Majority Whip. |
+| 74a–10a. | Lump-sum allowances for House Majority Floor Leader, Minority Floor Leader, Majority Whip, and Minority Whip. |
+| 74a–10b. | Lump-sum allowances for House Majority Whip and Minority Whip. |
 | 74a–11. | Transfer of appropriations by House Leadership Offices. |
 | 74a–12. | Lump sum allowance for Speaker. |
 | 74a–13. | Republican Policy Committee. |
@@ -506,7 +508,9 @@
 - [&sect; 00074a&#8211;7 - Speaker's Office for Legislative Floor Activities](%C2%A7%2000074a%E2%80%937%20-%20Speaker%27s%20Office%20for%20Legislative%20Floor%20Activities.md)
 - [&sect; 00074a&#8211;8 - Training and program development activities of Republican Conference and Democratic Steering and Policy Committee](%C2%A7%2000074a%E2%80%938%20-%20Training%20and%20program%20development%20activities%20of%20Republican%20Conference%20and%20Democratic%20Steering%20and%20Policy%20Committee.md)
 - [&sect; 00074a&#8211;9 - Appointment of consultants by Speaker, Majority Leader, and Minority Leader of House; compensation](%C2%A7%2000074a%E2%80%939%20-%20Appointment%20of%20consultants%20by%20Speaker%2C%20Majority%20Leader%2C%20and%20Minority%20Leader%20of%20House%3B%20compensation.md)
-- [&sect; 00074a&#8211;10 - Lump sum allowances for House Minority Leader and Majority Whip](%C2%A7%2000074a%E2%80%9310%20-%20Lump%20sum%20allowances%20for%20House%20Minority%20Leader%20and%20Majority%20Whip.md)
+- [&sect; 00074a&#8211;10 - Lump-sum allowances for House Minority Leader and Majority Whip](%C2%A7%2000074a%E2%80%9310%20-%20Lump-sum%20allowances%20for%20House%20Minority%20Leader%20and%20Majority%20Whip.md)
+- [&sect; 00074a&#8211;10a - Lump-sum allowances for House Majority Floor Leader, Minority Floor Leader, Majority Whip, and Minority Whip](%C2%A7%2000074a%E2%80%9310a%20-%20Lump-sum%20allowances%20for%20House%20Majority%20Floor%20Leader%2C%20Minority%20Floor%20Leader%2C%20Majority%20Whip%2C%20and%20Minority%20Whip.md)
+- [&sect; 00074a&#8211;10b - Lump-sum allowances for House Majority Whip and Minority Whip](%C2%A7%2000074a%E2%80%9310b%20-%20Lump-sum%20allowances%20for%20House%20Majority%20Whip%20and%20Minority%20Whip.md)
 - [&sect; 00074a&#8211;11 - Transfer of appropriations by House Leadership Offices](%C2%A7%2000074a%E2%80%9311%20-%20Transfer%20of%20appropriations%20by%20House%20Leadership%20Offices.md)
 - [&sect; 00074a&#8211;12 - Lump sum allowance for Speaker](%C2%A7%2000074a%E2%80%9312%20-%20Lump%20sum%20allowance%20for%20Speaker.md)
 - [&sect; 00074a&#8211;13 - Republican Policy Committee](%C2%A7%2000074a%E2%80%9313%20-%20Republican%20Policy%20Committee.md)

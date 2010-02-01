@@ -50,7 +50,7 @@ Plan Requirements.—A State drug interdiction and counter-drug activities plan 
 
 &emsp;(5) include a certification by the Attorney General of the State (or, in the case of a State with no position of Attorney General, a civilian official of the State equivalent to a State attorney general) that the use of the National Guard of the State for the activities proposed under the plan is authorized by, and is consistent with, State law; and
 
-&emsp;(6) certify that the Governor of the State or a civilian law enforcement official of the State designated by the Governor has determined that any activities included in the plan that are carried out in conjunction with Federal law enforcement agencies serve a State law enforcement purpose.
+&emsp;(6) certify that the Governor of the State or a civilian law enforcement official of the State designated by the Governor has determinedthat any activities included in the plan that are carried out in conjunction with Federal law enforcement agencies serve a State law enforcement purpose.
 
 (d)
 

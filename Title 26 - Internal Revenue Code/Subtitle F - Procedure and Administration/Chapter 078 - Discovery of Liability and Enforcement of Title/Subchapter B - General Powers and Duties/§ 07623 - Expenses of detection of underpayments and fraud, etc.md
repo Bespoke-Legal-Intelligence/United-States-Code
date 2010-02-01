@@ -56,7 +56,7 @@ The Secretary, under regulations prescribed by the Secretary, is authorized to p
 
 &emsp;&emsp;No award may be made under this subsection based on information submitted to the Secretary unless such information is submitted under penalty of perjury.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 904; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90Stat. 1834; Pub. L. 104–168, title XII, §1209(a), July 30, 1996, 110 Stat. 1473; Pub. L. 109–432, div. A, title IV, §406(a)(1), Dec. 20, 2006, 120 Stat. 2958.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 904; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 104–168, title XII, §1209(a), July 30, 1996, 110 Stat. 1473; Pub. L. 109–432, div. A, title IV, §406(a)(1), Dec. 20, 2006, 120 Stat. 2958.)
 
 #### Amendments
 

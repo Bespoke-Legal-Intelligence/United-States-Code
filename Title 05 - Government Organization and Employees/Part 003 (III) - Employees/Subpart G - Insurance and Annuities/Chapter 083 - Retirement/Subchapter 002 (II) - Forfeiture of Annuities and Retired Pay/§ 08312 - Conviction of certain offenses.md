@@ -20,9 +20,9 @@
 
 &emsp;&emsp;(B) chapter 105 (relating to sabotage) of title 18;
 
-&emsp;&emsp;(C) section 2381 (treason), 2382 (misprision of treason), 2383 (rebellion or insurrection), 2384 (seditious conspiracy), 2385 (advocating overthrow of government), 2387 (activities affecting armed forces generally), 2388 (activities affecting armed forces during war), 2389 (recruiting for service against United States), or 2390 (enlistment to serve against United States), of chapter 115 (relating to treason, sedition, and subversive activities) of title 18;
+&emsp;&emsp;(C) section 2381 (treason), 2382 (misprision of treason), 2383 (rebellion or insurrection), 2384 (seditious conspiracy), 2385 (advocating overthrow of government), 2387 (activitiesaffecting armed forces generally), 2388 (activities affecting armed forces during war), 2389 (recruiting for service against United States), or 2390 (enlistment to serve against United States), of chapter 115 (relating to treason, sedition, and subversive activities) of title 18;
 
-&emsp;&emsp;(D) section 10(b)(2), (3), or (4) of the Atomic Energy Act of 1946 (60 Stat. 766, 767), as in effect August 30, 1954;
+&emsp;&emsp;(D) section 10(b)(2), (3), or (4) of the Atomic Energy Act of 1946 (60 Stat. 766, 767), as in effect before August 30, 1954;
 
 &emsp;&emsp;(E) section 16(a) or (b) of the Atomic Energy Act of 1946 (60 Stat. 773), as in effect before August 30, 1954, insofar as the offense is committed with intent to injure the United States or with intent to secure an advantage to a foreign nation; or
 
@@ -72,7 +72,7 @@
 
 &emsp;(C) that such conviction occurred after the date of enactment of this subsection.
 
-(2) Any certification made pursuant to this subsection shall be subject to review by the United States Court of Claims based upon the application of the individual concerned, or his or her attorney, alleging that any of the conditions set forth in subparagraphs <sup>1</sup> (A), (B), or (C) of paragraph (1), as certified by the Attorney General, have not been satisfied in his or her particular circumstances. Should the court determine that any of these conditions has not been satisfied in such case, the court shall order any annuity or retirement benefit to which the person concerned is entitled to be restored and shall order that any payments which may have been previously denied or withheld to be paid by the department or agency concerned.
+(2) Any certification made pursuant to this subsection shall be subject to review by theUnited States Court of Claims based upon the application of the individual concerned, or his or her attorney, alleging that any of the conditions set forth in subparagraphs <sup>1</sup> (A), (B), or (C) of paragraph (1), as certified by the Attorney General, have not been satisfied in his or her particular circumstances. Should the court determine that any of these conditions has not been satisfied in such case, the court shall order any annuity or retirement benefit to which the person concerned is entitled to be restored and shall order that any payments which may have been previously denied or withheld to be paid by the department or agency concerned.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 559; Pub. L. 92–128, §2(b), Sept. 25, 1971, 85 Stat. 348; Pub. L. 99–569, title VI, §603, Oct. 27, 1986, 100 Stat. 3204; Pub. L. 103–337, div. A, title VI, §639(a), Oct. 5, 1994, 108 Stat. 2791; Pub. L. 103–359, title VIII, §805, Oct. 14, 1994, 108 Stat. 3441.)
 

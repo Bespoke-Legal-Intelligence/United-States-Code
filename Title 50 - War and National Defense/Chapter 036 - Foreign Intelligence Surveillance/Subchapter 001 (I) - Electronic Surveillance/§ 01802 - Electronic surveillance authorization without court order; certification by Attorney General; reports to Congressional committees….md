@@ -36,7 +36,7 @@
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(3), (4)(B). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+2004—Subsec. (a)(3), (4)(B). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 #### Effective Date of 2004 Amendment
 

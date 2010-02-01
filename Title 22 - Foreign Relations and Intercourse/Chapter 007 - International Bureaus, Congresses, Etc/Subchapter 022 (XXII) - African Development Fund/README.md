@@ -25,3 +25,5 @@
 - [&sect; 00290g&#8211;15 - Sixth replenishment](%C2%A7%2000290g%E2%80%9315%20-%20Sixth%20replenishment.md)
 - [&sect; 00290g&#8211;16 - Ninth replenishment](%C2%A7%2000290g%E2%80%9316%20-%20Ninth%20replenishment.md)
 - [&sect; 00290g&#8211;17 - Tenth replenishment](%C2%A7%2000290g%E2%80%9317%20-%20Tenth%20replenishment.md)
+- [&sect; 00290g&#8211;18 - Eleventh replenishment](%C2%A7%2000290g%E2%80%9318%20-%20Eleventh%20replenishment.md)
+- [&sect; 00290g&#8211;19 - Multilateral Debt Relief Initiative](%C2%A7%2000290g%E2%80%9319%20-%20Multilateral%20Debt%20Relief%20Initiative.md)

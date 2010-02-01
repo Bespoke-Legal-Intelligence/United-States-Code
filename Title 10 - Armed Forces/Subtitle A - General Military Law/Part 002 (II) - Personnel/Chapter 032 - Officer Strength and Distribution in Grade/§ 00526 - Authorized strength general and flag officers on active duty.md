@@ -4,25 +4,45 @@
 
 Limitations.—The number of general officers on active duty in the Army, Air Force, and Marine Corps, and the number of flag officers on active duty in the Navy, may not exceed the number specified for the armed force concerned as follows:
 
-&emsp;(1) For the Army, 307.
+&emsp;(1) For the Army, 230.
 
-&emsp;(2) For the Navy, 216.
+&emsp;(2) For the Navy, 160.
 
-&emsp;(3) For the Air Force, 279.
+&emsp;(3) For the Air Force, 208.
 
-&emsp;(4) For the Marine Corps, 81.
+&emsp;(4) For the Marine Corps, 60.
 
 (b)
 
-Limited Exclusion for Joint Duty Requirements.—(1) The Chairman of the Joint Chiefs of Staff may designate up to 65 general officer and flag officer positions that are joint duty assignments for purposes of chapter 38 of this title for exclusion from the limitations in subsection (a). Officers in positions so designated shall not be counted for the purposes of those limitations.
+Limited Exclusion for Joint Duty Requirements.—(1) The Secretary of Defense may designate up to 324 general officer and flag officer positions that are joint duty assignments for purposes of chapter 38 of this title for exclusion from the limitations in subsection (a). The Secretary of Defense shall allocate those exclusions to the armed forces based on the number of general or flag officers required from each armed force for assignment to these designated positions.
 
-(2)(A) The Chairman of the Joint Chiefs of Staff may designate up to 15 general and flag officer positions in the unified and specified combatant commands, and up to three general and flag officer positions on the Joint Staff, as positions to be held only by reserve component officers who are in a general or flag officer grade below lieutenant general or vice admiral. Each position so designated shall be considered to be a joint duty assignment position for purposes of chapter 38 of this title.
+(2) Unless the Secretary of Defense determines that a lower number is in the best interest of the Department, the minimum number of officers serving in positions designated under paragraph (1) for each armed force shall be as follows:
+
+&emsp;(A) For the Army, 85.
+
+&emsp;(B) For the Navy, 61.
+
+&emsp;(C) For the Air Force, 76.
+
+&emsp;(D) For the Marine Corps, 21.
+
+(3) The number excluded under paragraph (1) and serving in positions designated under that paragraph—
+
+&emsp;(A) in the grade of general or admiral may not exceed 20;
+
+&emsp;(B) in a grade above the grade of major general or rear admiral may not exceed 68; and
+
+&emsp;(C) in the grade of major general or rear admiral may not exceed 144.
+
+(4) Not later than 30 days after determining to raise or lower a number specified in paragraph (2), the Secretary of Defense shall notify the Committees on Armed Services of the Senate and the House of Representatives of such determination.
+
+(5)(A) The Chairman of the Joint Chiefs of Staff may designate up to 15 general and flag officer positions in the unified and specified combatant commands, and up to three general and flag officer positions on the Joint Staff, as positions to be held only by reserve component officers who are in a general or flag officer grade below lieutenant general or vice admiral. Each position so designated shall be considered to be a joint duty assignment position for purposes of chapter 38 of this title.
 
 (B) A reserve component officer serving in a position designated under subparagraph (A) while on active duty under a call or order to active duty that does not specify a period of 180 days or less shall not be counted for the purposes of the limitations under subsection (a) and under section 525 of this title if the officer was selected for service in that position in accordance with the procedures specified in subparagraph (C).
 
 (C) Whenever a vacancy occurs, or is anticipated to occur, in a position designated under subparagraph (A)—
 
-&emsp;(i) the Secretary of Defense shall require the Secretary of the Army to submit the name of at least one Army reserve component officer, the Secretary of the Navy to submit the name of at least one Navy Reserve officer and the name of at least one Marine Corps Reserve officer, and the Secretary of the Air Force to submit the name of at least one Air Force reserve component officer for consideration by the Secretary for assignment to that position; and
+&emsp;(i) the Secretary of Defense shall require the Secretary of the Army to submit the name ofat least one Army reserve component officer, the Secretary of the Navy to submit the name of at least one Navy Reserve officer and the name of at least one Marine Corps Reserve officer, and the Secretary of the Air Force to submit the name of at least one Air Force reserve component officer for consideration by the Secretary for assignment to that position; and
 
 &emsp;(ii) the Chairman of the Joint Chiefs of Staff may submit to the Secretary of Defense the name of one or more officers (in addition to the officers whose names are submitted pursuant to clause (i)) for consideration by the Secretary for assignment to that position.
 
@@ -38,6 +58,8 @@ Exclusion of Certain Reserve Officers.—(1) The limitations of this section do 
 
 (2) The limitations of this section also do not apply to a number, as specified by the Secretary of the military department concerned, of reserve component general or flag officers authorized to serve on active duty for a period of not more than 365 days. The number so specified for an armed force may not exceed the number equal to 10 percent of the authorized number of general or flag officers, as the case may be, of that armed force under section 12004 of this title. In determining such number, any fraction shall be rounded down to the next whole number, except that such number shall be at least one.
 
+(3) The limitations of this section do not apply to a reserve component general or flag officer who is on active duty for a period in excess of 365 days but not to exceed three years, except that the number of such officers from each reserve component who are covered by this paragraph and not serving in a position that is a joint duty assignment for purposes of chapter 38 of this title may not exceed 5 per component, unless authorized by the Secretary of Defense.
+
 (e)
 
 Exclusion of Certain Officers Pending Separation or Retirement or Between Senior Positions.—The limitations of this section do not apply to a general or flag officer who is covered by an exclusion under section 525(e) of this title.
@@ -46,19 +68,39 @@ Exclusion of Certain Officers Pending Separation or Retirement or Between Senior
 
 Exclusion of Attending Physician to the Congress.—The limitations of this section do not apply to the general or flag officer who is serving as Attending Physician to the Congress.
 
-(Added Pub. L. 100–370, §1(b)(1)(B), July 19, 1988, 102 Stat. 840; amended Pub. L. 101–510, div. A, title IV, §403(a), Nov. 5, 1990, 104 Stat. 1545; Pub. L. 102–484, div. A, title IV, §403, Oct. 23, 1992, 106 Stat. 2398; Pub. L. 103–337, div. A, title IV, §404, title V, §512, Oct. 5, 1994, 108 Stat. 2744, 2752; Pub. L. 104–106, div. A, title XV, §§1502(a)(1), 1503(a)(3), Feb. 10, 1996, 110 Stat. 502, 510; Pub. L. 104–201, div. A, title IV, §405, Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §405, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §553, title X, §1067(1), Oct. 5, 1999, 113 Stat. 615, 774; Pub. L. 107–314, div. A, title IV, §405(c), title X, §1041(a)(3), Dec. 2, 2002, 116 Stat. 2526, 2645; Pub. L. 108–136, div. A, title V, §504(c), Nov. 24, 2003, 117 Stat. 1457; Pub. L. 109–163, div. A, title V, §§503(b), 510, 515(b)(1)(C), Jan. 6, 2006, 119 Stat. 3226, 3231, 3233; Pub. L. 109–364, div. A, title V, §507(c), Oct. 17, 2006, 120 Stat. 2180; Pub. L. 110–181, div. A, title V, §502, title XVIII, §1824(c),Jan. 28, 2008, 122 Stat. 95, 501; Pub. L. 110–417, \[div. A\], title V, §§503(a)–(c), 525, Oct. 14, 2008, 122 Stat. 4433, 4448.)
+(g)
+
+Temporary Exclusion for Assignment to Certain Temporary Billets.—(1) The limitations in subsection (a) and in section 525(a) of this title do not apply to a general or flag officer assigned to a temporary joint duty assignment designated by the Secretary of Defense.
+
+(2) A general or flag officer assigned to a temporary joint duty assignment as described in paragraph (1) may not be excluded under this subsection from the limitations in subsection (a) for a period of longer than one year.
+
+(h)
+
+Exclusion of Officers Departing From Joint Duty Assignments.—The limitations in subsection (a) do not apply to an officer released from a joint duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty assignment. The Secretary of Defense may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, except that not more than three officers on active duty from each armed force may be covered by an extension under this sentence at the same time.
+
+(Added Pub. L. 100–370, §1(b)(1)(B), July 19, 1988, 102 Stat. 840; amended Pub. L. 101–510, div. A, title IV, §403(a), Nov. 5, 1990, 104 Stat. 1545; Pub. L. 102–484, div. A, title IV, §403, Oct. 23, 1992, 106 Stat. 2398; Pub. L. 103–337, div. A, title IV, §404, title V, §512, Oct. 5, 1994, 108 Stat. 2744, 2752; Pub. L. 104–106, div. A, title XV, §§1502(a)(1), 1503(a)(3), Feb. 10, 1996, 110 Stat. 502, 510; Pub. L. 104–201, div. A, title IV, §405, Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §405, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §553, title X, §1067(1), Oct. 5, 1999, 113 Stat. 615, 774; Pub. L. 107–314, div. A, title IV, §405(c), title X, §1041(a)(3), Dec. 2, 2002, 116 Stat. 2526, 2645; Pub. L. 108–136, div. A, title V, §504(c), Nov. 24, 2003, 117 Stat. 1457; Pub. L. 109–163, div. A, title V, §§503(b), 510, 515(b)(1)(C), Jan. 6, 2006, 119 Stat. 3226, 3231, 3233; Pub. L. 109–364, div. A, title V, §507(c), Oct. 17, 2006, 120 Stat. 2180; Pub. L. 110–181, div. A, title V, §502, title XVIII, §1824(c), Jan. 28, 2008, 122 Stat. 95, 501; Pub. L. 110–417, \[div. A\], title V, §§503(a)–(c), 525, Oct. 14, 2008, 122 Stat. 4433, 4448; Pub. L. 111–84, div. A, title V, §502(e)–(g), Oct. 28, 2009, 123 Stat. 2275, 2276.)
 
 #### Historical and Revision Notes
 
 Section is based on Pub. L. 95–79, title VIII, §811(a), July 30, 1977, 91 Stat. 335, as amended by Pub. L. 96–107, title VIII, §817, Nov. 9, 1979, 93 Stat. 818; Pub. L. 96–342, title X, §1003, Sept. 8, 1980, 94 Stat. 1120; Pub. L. 97–86, title VI, §602, Dec. 1, 1981, 95 Stat. 1110.
 
-Present law (section 811(a) of Public Law 95–79, as amended) provides that the authority to suspend the limitation on the number of general and flag officers who may be serving on active duty applies during war or national emergency. In codifying the limitation (in section 526 of title 10 as proposed to be added by section 1(b) of the bill), the committee determined that the same war and emergency waiver authority as applies to other limitations on the number of officers on active duty under the existing 10 U.S.C. 526 (redesignated as 10 U.S.C. 527 by the bill) should apply with respect to this limitation and accordingly amended the suspension authority in present law to include the codified general and flag officer limitation. This authority is slightly different from the waiver authority in the source law in that the suspension would expire 2 years after it takes effect or 1 year after the end of the war or national emergency, whichever occurs first, rather than upon termination of the war or emergency.
+Present law (section 811(a) of Public Law 95–79, as amended) provides that the authority to suspend the limitation on the number of general and flag officers who may be serving on active duty applies during war or national emergency. In codifying the limitation (in section 526 of title 10 as proposed to be added by section 1(b) of the bill), the committee determined that the same war and emergency waiver authority as applies to other limitations on the number of officers on active duty under the existing 10 U.S.C. 526 (redesignated as 10 U.S.C. 527 by the bill) should apply with respect to this limitation and accordingly amended the suspension authority in present law to include the codified general and flag officer limitation. This authority is slightly different from the waiver authority in the source law inthat the suspension would expire 2 years after it takes effect or 1 year after the end of the war or national emergency, whichever occurs first, rather than upon termination of the war or emergency.
 
 #### Prior Provisions
 
 A prior section 526 was renumbered section 527 of this title.
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–84, §502(e), substituted “230” for “307” in par. (1), “160” for “216” in par. (2), “208” for “279” in par. (3), and “60” for “81” in par. (4).
+
+Subsec. (b)(1). Pub. L. 111–84, §502(f)(1), substituted “Secretary of Defense” for “Chairman of the Joint Chiefs of Staff”, “324” for “65”, and “The Secretary of Defense shall allocate those exclusions to the armed forces based on the number of general or flag officers required from each armed force for assignment to these designated positions.” for “Officers in positions so designated shall not be counted for the purposes of those limitations.”
+
+Subsec. (b)(2) to (5). Pub. L. 111–84, §502(f)(2), (3), added pars. (2) to (4) and redesignated former par. (2) as (5).
+
+Subsec. (d)(3). Pub. L. 111–84, §502(g)(1), added par. (3).
+
+Subsecs. (g), (h). Pub. L. 111–84, §502(g)(2), added subsecs. (g) and (h).
 
 2008—Subsec. (a)(1). Pub. L. 110–417, §503(a), substituted “307” for “302”.
 
@@ -146,7 +188,7 @@ Pub. L. 110–417, \[div. A\], title V, §503(e), Oct. 14, 2008, 122 Stat. 4434,
 
 “(1)
 
-Reservation of army increase.—The increase in the number of general officers on active duty in the Army, as authorized by the amendment made by subsection (a) \[amending this section\] is reserved for general officers in the Army who serve in an acquisition position.
+Reservation of army increase.—The increase in the number of general officers on active duty in theArmy, as authorized by the amendment made by subsection (a) \[amending this section\] is reserved for general officers in the Army who serve in an acquisition position.
 
 “(2)
 

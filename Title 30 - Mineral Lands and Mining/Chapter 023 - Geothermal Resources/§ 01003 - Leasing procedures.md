@@ -12,7 +12,7 @@ The Secretary shall accept nominations of land to be leased at any time from qua
 
 #### (2) Competitive lease sales
 
-&emsp;The Secretary shall hold a competitive lease sale at least once every 2 years for land in a State that has nominations pending under subsection (a) of this section if the land is otherwise available for leasing.
+&emsp;The Secretary shall hold a competitive lease sale at least once every 2 years for land in aState that has nominations pending under subsection (a) of this section if the land is otherwise available for leasing.
 
 #### (3) Lands subject to mining claims
 

@@ -20,5 +20,5 @@ Purposes.—The program under this section shall be designed to achieve the foll
 
 #### Time for Implementation
 
-Pub. L. 108–375, div. A, title VII, §733(a)(3), Oct. 28, 2004, 118 Stat. 1998, provided that: “The Secretary of Defense shall implement the program required under section 1092a of title 10, United States Code (as added by paragraph (1)), not later than two years after the date of the enactment of this Act \[Oct. 28, 2004\].”
+Pub. L. 108–375, div. A, title VII, §733(a)(3), Oct. 28, 2004, 118 Stat. 1998, provided that: “The Secretary of Defense shall implement the program required undersection 1092a of title 10, United States Code (as added by paragraph (1)), not later than two years after the date of the enactment of this Act \[Oct. 28, 2004\].”
 

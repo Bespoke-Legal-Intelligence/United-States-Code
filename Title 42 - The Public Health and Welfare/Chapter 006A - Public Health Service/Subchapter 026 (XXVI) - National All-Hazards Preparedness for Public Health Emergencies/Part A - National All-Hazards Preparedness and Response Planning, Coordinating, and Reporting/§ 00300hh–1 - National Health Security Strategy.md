@@ -4,7 +4,7 @@
 
 #### (1) Preparedness and response regarding public health emergencies
 
-&emsp;Beginning in 2009 and every four years thereafter, the Secretary shall prepare and submit to the relevant committees of Congress a coordinated strategy (to be known as the National Health Security Strategy) and any revisions thereof, and an accompanying implementation plan for public health emergency preparedness and response. Such National Health Security Strategy shall identify the process for achieving the preparedness goals described in subsection (b) and shall be consistent with the National Preparedness Goal, the National Incident Management System, and the National Response Plan developed pursuant to section 314(6) <sup>1</sup> of title 6, or any successor plan.
+&emsp;Beginning in 2009 and every four years thereafter, the Secretary shall prepare and submit to the relevant committees of Congress a coordinated strategy (to be known as the National Health Security Strategy) and any revisions thereof, and an accompanying implementation plan for public health emergency preparedness and response. Such National Health Security Strategy shall identify the process for achieving the preparedness goals described in subsection (b) and shall be consistent with theNational Preparedness Goal, the National Incident Management System, and the National Response Plan developed pursuant to section 314(6) <sup>1</sup> of title 6, or any successor plan.
 
 #### (2) Evaluation of progress
 
@@ -71,6 +71,44 @@ The National Health Security Strategy shall include provisions in furtherance of
 #### References in Text
 
 Section 314(6) of title 6, referred to in subsec. (a)(1), was in the original “section 502(6) of the Homeland Security Act of 2002”, and was translated as meaning section 504(6) of Pub. L. 107–296, to reflect the probable intent of Congress and the renumbering of section 502 as 504 by Pub. L. 109–295, title VI, §611(8), Oct. 4, 2006, 120 Stat. 1395.
+
+#### Ex. Ord. No. 13527. Establishing Federal Capability for the Timely Provision of Medical Countermeasures Following a Biological Attack
+
+Ex. Ord. No. 13527, Dec. 30, 2009, 75 F.R. 737, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. It is the policy of the United States to plan and prepare for the timely provision of medical countermeasures to the American people in the event of a biological attack in the United States through a rapid Federal response in coordination with State, local, territorial, and tribal governments.
+
+This policy would seek to: (1) mitigate illness and prevent death; (2) sustain critical infrastructure; and (3) complement and supplement State, local, territorial, and tribal government medical countermeasure distribution capacity.
+
+Sec. 2. <i>United States Postal Service Delivery of Medical Countermeasures</i>. (a) The U.S. Postal Service has the capacity for rapid residential delivery of medical countermeasures for self administration across all communities in the United States. The Federal Governmentshall pursue a national U.S. Postal Service medical countermeasures dispensing model to respond to a large-scale biological attack.
+
+(b) The Secretaries of Health and Human Services and Homeland Security, in coordination with the U.S. Postal Service, within 180 days of the date of this order, shall establish a national U.S. Postal Service medical countermeasures dispensing model for U.S. cities to respond to a large-scale biological attack, with anthrax as the primary threat consideration.
+
+(c) In support of the national U.S. Postal Service model, the Secretaries of Homeland Security, Health and Human Services, and Defense, and the Attorney General, in coordination with the U.S. Postal Service, and in consultation with State and local public health, emergency management, and law enforcement officials, within 180 days of the date of this order, shall develop an accompanying plan for supplementing local law enforcement personnel, as necessary and appropriate, with local Federal law enforcement, as well as other appropriate personnel, to escort U.S. Postal workers delivering medical countermeasures.
+
+Sec. 3. <i>Federal Rapid Response</i>. (a) The Federal Government must develop the capacity to anticipate and immediately supplement the capabilities of affected jurisdictions to rapidly distribute medical countermeasures following a biological attack. Implementation of a Federal strategy to rapidly dispense medical countermeasures requires establishment of a Federal rapid response capability.
+
+(b) The Secretaries of Homeland Security and Health and Human Services, in coordination with the Secretary of Defense, within 90 days of the date of this order, shall develop a concept of operations and establish requirements for a Federal rapid response to dispense medical countermeasures to an affected population following a large-scale biological attack.
+
+Sec. 4. <i>Continuity of Operations</i>. (a) The Federal Government must establish mechanisms for the provision of medical countermeasures to personnel performing mission-essential functions to ensure that mission-essential functions of Federal agencies continue to be performed following a biological attack.
+
+(b) The Secretaries of Health and Human Services and Homeland Security, within 180 days of the date of this order, shall develop a plan for the provision of medical countermeasures to ensure that mission-essential functions of executive branch departments and agencies continue to be performed following a large-scale biological attack.
+
+Sec. 5. <i>General Provisions</i>.
+
+(a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) authority granted by law to a department or agency, or the head thereof; or
+
+(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

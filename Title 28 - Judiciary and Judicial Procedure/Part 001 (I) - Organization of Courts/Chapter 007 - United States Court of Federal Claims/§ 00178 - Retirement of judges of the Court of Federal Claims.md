@@ -54,7 +54,7 @@
 
 &emsp;(2) he or she shall be relieved of performing such duties during any period in which illness or disability precludes the performance of such duties.
 
-> Any act, or failure to act, by an individual performing judicial duties pursuant to this subsection shall have the same force and effect as if it were the act (or failure to act) of a Court of Federal Claims judge in regular active service.Any individual performing judicial duties pursuant to this subsection shall receive the allowances for official travel and other expenses of a judge in regular active service.
+> Any act, or failure to act, by an individual performing judicial duties pursuant to this subsection shall have the same force and effect as if it were the act (or failure to act) of a Court of Federal Claims judge in regular active service. Any individual performing judicial duties pursuant to this subsection shall receive the allowances for official travel and other expenses of a judge in regular active service.
 
 (e)(1) Any judge who retires under the provisions of subsection (a) or (b) of this section shall be designated “senior judge”.
 
@@ -110,7 +110,7 @@
 
 (C) Any election under this paragraph shall take effect on the first day of the first month following the month in which the election is made.
 
-(k)(1) Notwithstanding subsection (f)(1)(B), an individual who has filed an election under subsection (f) to receive an annuity may revoke such election at any time before the first day onwhich such annuity would (but for such revocation) begin to accrue with respect to such individual.
+(k)(1) Notwithstanding subsection (f)(1)(B), an individual who has filed an election under subsection (f) to receive an annuity may revoke such election at any time before the first day on which such annuity would (but for such revocation) begin to accrue with respect to such individual.
 
 (2) Any revocation under this subsection shall be made by filing a notice thereof in writing with the Director of <sup>1</sup> Administrative Office of the United States Courts.
 

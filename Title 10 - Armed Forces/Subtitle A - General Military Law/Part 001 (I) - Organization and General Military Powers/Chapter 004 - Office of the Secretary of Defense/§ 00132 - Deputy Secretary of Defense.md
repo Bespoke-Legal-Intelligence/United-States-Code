@@ -6,9 +6,15 @@
 
 (c) The Deputy Secretary serves as the Chief Management Officer of the Department of Defense. The Deputy Secretary shall be assisted in this capacity by a Deputy Chief Management Officer, who shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
-(d) The Deputy Secretary takes precedence in the Department of Defense immediately after the Secretary.
+(d) <sup>1</sup> The Deputy Secretary takes precedence in the Department of Defense immediately after the Secretary.
 
-(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §134; amended Pub. L. 92–596, §4(1), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §1(a), Oct. 21, 1977, 91 Stat. 1172; renumbered §132 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(d)(7), Oct. 1, 1986, 100 Stat. 995, 1003; Pub. L. 110–181, div. A, title IX, §§903(b), 904(a)(1), Jan. 28, 2008, 122 Stat. 273.)
+(d) <sup>1</sup> Until September 30, 2015, the Deputy Secretary of Defense shall lead the Guam Executive Council and shall be the Department of Defense's principal representative for coordinating the interagency efforts in matters relating to Guam, including the following executive orders:
+
+&emsp;(1) Executive Order No. 13299 of May 12, 2003 (68 Fed. Reg. 25477; 48 U.S.C. note prec. 1451; relating to the Interagency Group on Insular Affairs).
+
+&emsp;(2) Executive Order No. 12788 of January 15, 1992, as amended (57 Fed. Reg. 2213; relating to the Defense Economic Adjustment Program).
+
+(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §134; amended Pub. L. 92–596, §4(1), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §1(a), Oct. 21, 1977, 91 Stat. 1172; renumbered §132 and amended Pub. L. 99–433, title I, §§101(a)(7),110(d)(7), Oct. 1, 1986, 100 Stat. 995, 1003; Pub. L. 110–181, div. A, title IX, §§903(b), 904(a)(1), Jan. 28, 2008, 122 Stat. 273; Pub. L. 111–84, div. B, title XXVIII, §2831(a), Oct. 28, 2009, 123 Stat. 2669.)
 
 Historical and Revision Notes
 
@@ -34,11 +40,17 @@ July 26, 1947, ch. 343, §203(a); added Aug. 10, 1949, ch. 412, §6(a) (1st par.
 
 In subsection (a), the last sentence is substituted for 5 U.S.C. 171c(a) (proviso).
 
+#### References in Text
+
+Executive Order No. 12788, referred to in subsec. (d)(2), is set out as a note under section 2391 of this title.
+
 #### Prior Provisions
 
 A prior section 132 was renumbered section 112 of this title.
 
 #### Amendments
+
+2009—Subsec. (d). Pub. L. 111–84 added subsec. (d) relating to the Deputy Secretary of Defense leading the Guam Executive Council.
 
 2008—Subsec. (a). Pub. L. 110–181, §903(b), substituted “seven” for “ten”.
 
@@ -89,4 +101,6 @@ Pub. L. 110–181, div. A, title IX, §904(b), Jan. 28, 2008, 122 Stat. 274, pro
 “(3) The Secretary shall assign such duties and authorities to the Chief Management Officer as are necessary for that official to effectively and efficiently organize the business operations of the military department concerned.
 
 “(4) The Chief Management Officer of each military department shall promptly provide such information relating to the business operations of such department to the Chief Management Officer and Deputy Chief Management Officer of the Department of Defense as is necessary to assist those officials in the performance of their duties.”
+
+<i><sup>1</sup></i><i> So in original. Two subsecs. (d) have been enacted.</i>
 

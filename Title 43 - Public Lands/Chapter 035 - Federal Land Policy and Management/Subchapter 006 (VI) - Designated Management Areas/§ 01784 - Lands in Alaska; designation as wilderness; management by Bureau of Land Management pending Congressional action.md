@@ -76,7 +76,7 @@ Offer to kna.—
 
 &emsp;&emsp;“(A)
 
-In general.—Subject to the availability of the funds identified in paragraph (2)(C), no later than 90 days after the date of enactment of this section \[Nov. 12, 1996\], the Secretary shall offer to convey to KNA the interests in land and rights set forth in paragraph (2)(B), subject to valid existing rights, in return for the conveyance by KNA to the United States of the interests in land or relinquishment of ANCSA selections set forth in paragraph (2)(A). Payment for the lands conveyed to the United States by KNA is contingent upon KNA's acceptance of the entire conveyance outlined herein.
+In general.—Subject to the availability of the funds identified in paragraph (2)(C), no later than 90 days after the date of enactment of this section \[Nov. 12, 1996\], the Secretary shall offer to convey to KNA the interests in land and rights set forth in paragraph (2)(B), subject to valid existingrights, in return for the conveyance by KNA to the United States of the interests in land or relinquishment of ANCSA selections set forth in paragraph (2)(A). Payment for the lands conveyed to the United States by KNA is contingent upon KNA's acceptance of the entire conveyance outlined herein.
 
 &emsp;&emsp;“(B)
 

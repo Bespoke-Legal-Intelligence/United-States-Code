@@ -24,5 +24,5 @@ Historical and Revision Notes
 
 June 28, 1950, ch. 383, §309, 64 Stat. 270.
 
-The words “authorized by section 21f of this title”, “as now or hereafter provided by law”, and “and commissioned \* \* \* or in any component thereof” are omitted as surplusage.
+The words “authorized by section 21f of this title”, “as now or hereafter provided by law”, and “and commissioned or in any component thereof” are omitted as surplusage.
 

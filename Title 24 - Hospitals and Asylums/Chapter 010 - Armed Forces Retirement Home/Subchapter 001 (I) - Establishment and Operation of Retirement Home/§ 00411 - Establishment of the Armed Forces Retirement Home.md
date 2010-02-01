@@ -6,7 +6,7 @@ The Armed Forces Retirement Home is an independent establishment in the executiv
 
 #### (b) Purpose
 
-The purpose of the Retirement Home is to provide, through the Armed Forces RetirementHome—Washington and the Armed Forces Retirement Home—Gulfport, residences and related services for certain retired and former members of the Armed Forces.
+The purpose of the Retirement Home is to provide, through the Armed Forces Retirement Home—Washington and the Armed Forces Retirement Home—Gulfport, residences and related services for certain retired and former members of the Armed Forces.
 
 #### (c) Facilities
 
@@ -26,9 +26,9 @@ The purpose of the Retirement Home is to provide, through the Armed Forces Retir
 
 (1) The Retirement Home shall include such property and facilities as may be acquired under paragraph (2) or accepted under section 415(f) of this title for inclusion in the Retirement Home.
 
-(2) The Secretary of Defense may acquire, for the benefit of the Retirement Home, property and facilities for inclusion in the Retirement Home.
+(2) The Secretary of Defense may acquire, for the benefit of the Retirement Home, property and facilities for inclusion in the Retirement Home. If the purchase price to acquire fee title to real property for inclusion in the Retirement Home is more than $750,000, the Secretary may acquire the real property only if the acquisition is specifically authorized by law.
 
-(3) The Secretary of Defense may dispose of any property of the Retirement Home, by sale, lease, or otherwise, that the Secretary determines is excess to the needs of the Retirement Home. The proceeds from such a disposal of property shall be deposited in the Armed Forces Retirement Home Trust Fund. No such disposal of real property shall be effective earlier than 120 days after the date on which the Secretary transmits a notification of the proposed disposal to the Committees on Armed Services of the Senate and the House of Representatives.
+(3) If the Secretary of Defense determines that any property of the Retirement Home is excess to the needs of the Retirement Home, the Secretary shall dispose of the property in accordance with subchapter III of chapter 5 of title 40 (40 U.S.C. 541 et seq.). The proceeds from the disposal of property under this paragraph shall be deposited in the Armed Forces Retirement Home Trust Fund.
 
 #### (f) Department of Defense support
 
@@ -42,13 +42,71 @@ The Chief Operating Officer shall secure and maintain accreditation by a nationa
 
 The Secretary of Defense shall transmit to Congress an annual report on the financial and other affairs of the Retirement Home for each fiscal year. The annual report shall include an assessment of all aspects of each facility of the Retirement Home, including the quality of care at the facility.
 
-(Pub. L. 101–510, div. A, title XV, §1511, Nov. 5, 1990, 104 Stat. 1723; Pub. L. 103–160, div. A, title III, §366(a), Nov. 30, 1993, 107 Stat. 1630; Pub. L. 107–107, div. A, title XIV, §1403, Dec. 28, 2001, 115 Stat. 1258; Pub. L. 110–181, div. A, title XIV, §1422(a), (b), Jan. 28, 2008, 122 Stat. 420.)
+#### (i) Authority to lease non-excess property
+
+(1) Whenever the Chief Operating Officer of the Armed Forces Retirement Home considers it advantageous to the Retirement Home, the Secretary of Defense (acting on behalf of the Chief Operating Officer) may lease to such lessee and upon such terms as the Secretary considers will promote the purpose and financial stability of the Retirement Home or be in the public interest, real or personal property that is—
+
+&emsp;(A) under the control of the Retirement Home; and
+
+&emsp;(B) not excess property (as defined by section 102 of title 40) subject to disposal under subsection (e)(3).
+
+(2) A lease under this subsection—
+
+&emsp;(A) may not be for more than five years, unless the Chief Operating Officer determines that a lease for a longer period will promote the purpose and financial stability of the Retirement Home or be in the public interest;
+
+&emsp;(B) may give the lessee the first right to buy the property if the lease is revoked to allow the United States to sell the property under any other provision of law;
+
+&emsp;(C) shall permit the Chief Operating Officer to revoke the lease at any time, unless the Chief Operating Officer determines that the omission of such a provision will promote the purpose and financial stability of the Retirement Home or be in the public interest;
+
+&emsp;(D) shall provide for the payment (in cash or in kind) by the lessee of consideration in an amount that is not less than the fair market value of the lease interest, as determined by the Chief Operating Officer; and
+
+&emsp;(E) may provide, notwithstanding section 1302 of title 40 or any other provision of law, for the alteration, repair, or improvement, by the lessee, of the property leased as the payment of part or all of the consideration for the lease.
+
+(3) In addition to any in-kind consideration accepted under subparagraph (D) or (E) of paragraph (2), in-kind consideration accepted with respect to a lease under this subsection may include the following:
+
+&emsp;(A) Maintenance, protection, alteration, repair, improvement, or restoration (including environmental restoration) of property or facilities of the Retirement Home.
+
+&emsp;(B) Construction of new facilities for the Retirement Home.
+
+&emsp;(C) Provision of facilities for use by the Retirement Home.
+
+&emsp;(D) Facilities operation support for the Retirement Home.
+
+&emsp;(E) Provision of such other services relating to activities that will occur on the leased property as the Chief Operating Officer considers appropriate.
+
+(4) In-kind consideration under paragraph (3) may be accepted at any property or facilities of the Retirement Home that are selected for that purpose by the Chief Operating Officer.
+
+(5) In the case of a lease for which all or part of the consideration proposed to be accepted under this subsection is in-kind consideration with a value in excess of $500,000, the Secretary of Defense may not enter into the lease on behalf of the Chief Operating Officer until at least 30 days after the date on which a report on the facts of the lease is submitted to Congress. This paragraph does not apply to a lease covered by paragraph (6).
+
+(6)(A) If a proposed lease under this subsection involves only personal property, the lease term exceeds one year, or the fair market value of the lease interest exceeds $100,000, as determined by the Chief Operating Officer, the Secretary of Defense shall use competitive procedures to select the lessee unless the Chief Operating Officer determines that—
+
+&emsp;(i) a public interest will be served as a result of the lease; and
+
+&emsp;(ii) the use of competitive procedures for the selection of certain lessees is unobtainable or not compatible with the public benefit served under clause (i).
+
+(B) Not later than 45 days before entering into a lease described in subparagraph (A), the Chief Operating Officer shall submit to Congress written notice describing the terms of the proposed lease and—
+
+&emsp;(i) the competitive procedures used to select the lessee; or
+
+&emsp;(ii) in the case of a lease involving the public benefit exception authorized by subparagraph (A)(ii), a description of the public benefit to be served by the lease.
+
+(7) The proceeds from the lease of property under this subsection shall be deposited in the Armed Forces Retirement Home Trust Fund.
+
+(8) The interest of a lessee of property leased under this subsection may be taxed by State or local governments. A lease under this subsection shall provide that, if and to the extent that the leased property is later made taxable by State or local governments under an Act of Congress, the lease shall be renegotiated.
+
+(Pub. L. 101–510, div. A, title XV, §1511, Nov. 5, 1990, 104 Stat. 1723; Pub. L. 103–160, div. A, title III, §366(a), Nov. 30, 1993, 107 Stat. 1630; Pub. L. 107–107, div. A, title XIV, §1403, Dec. 28, 2001, 115 Stat. 1258; Pub. L. 110–181, div. A, title XIV, §1422(a), (b), Jan. 28, 2008, 122 Stat. 420; Pub. L. 111–84, div. B, title XXVIII, §2823, Oct. 28, 2009, 123 Stat. 2666.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (f), was in the original “this title”, meaning title XV of Pub. L. 101–510, div. A, Nov. 5, 1990, 104 Stat. 1722, as amended, which is classified principally to this chapter. For complete classification of title XV to the Code, see Short Title note set out under section 401 of this title and Tables.
+This chapter, referred to in subsec. (f), was in the original “this title”, meaning title XV of Pub. L. 101–510, div. A, Nov. 5, 1990, 104 Stat. 1722, which is classified principally to this chapter. For complete classification of title XV to the Code, see Short Title note set out under section 401 of this title and Tables.
 
 #### Amendments
+
+2009—Subsec. (e)(2). Pub. L. 111–84, §2823(a), inserted at end “If the purchase price to acquire fee title to real property for inclusion in the Retirement Home is more than $750,000, the Secretary may acquire the real property only if the acquisition is specifically authorized by law.”
+
+Subsec. (e)(3). Pub. L. 111–84, §2823(b)(1), added par. (3) and struck out former par. (3) which read as follows: “The Secretary of Defense may dispose of any property of the Retirement Home, by sale, lease, or otherwise, that the Secretary determines is excess to the needs of the Retirement Home. The proceeds from such a disposal of property shall be deposited in the Armed Forces Retirement Home Trust Fund. No such disposal of real property shall be effective earlier than 120 days after the date on which the Secretary transmits a notification of the proposed disposal to the Committees on Armed Services of the Senate and the House of Representatives.”
+
+Subsec. (i). Pub. L. 111–84, §2823(b)(2), added subsec. (i).
 
 2008—Subsec. (d)(3). Pub. L. 110–181, §1422(a)(1), added par. (3).
 

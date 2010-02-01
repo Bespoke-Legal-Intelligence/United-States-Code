@@ -8,7 +8,7 @@ Congress recognizes that the alarming spread of HIV/AIDS in countries in sub-Sah
 
 #### (1) Objectives
 
-&emsp;It is a major objective of the foreign assistance program of the United States to provideassistance for the prevention and treatment of HIV/AIDS and the care of those affected by the disease. It is the policy objective of the United States, by 2013, to—
+&emsp;It is a major objective of the foreign assistance program of the United States to provide assistance for the prevention and treatment of HIV/AIDS and the care of those affected by the disease. It is the policy objective of the United States, by 2013, to—
 
 &emsp;&emsp;(A) assist partner countries to—
 
@@ -72,7 +72,7 @@ Assistance provided under subsection (c) of this section shall, to the maximum e
 
 &emsp;Prevention of HIV/AIDS through activities including—
 
-&emsp;&emsp;(A) programs and efforts that are designed or intended to impart knowledge with the exclusive purpose of helping individuals avoid behaviors that place them at risk of HIV infection, including integration of such programs into health programs and the inclusion in counseling programs of information on methods of avoiding infection of HIV, including delaying sexual debut, abstinence, fidelity and monogamy, reduction of casual sexual partnering and multiple concurrent sexual partnering,,<sup>2</sup> reducing sexual violence and coercion, including child marriage, widow inheritance, and polygamy, and where appropriate, use of male and female condoms;
+&emsp;&emsp;(A) programs and efforts that are designed or intended to impart knowledge with the exclusive purpose of helping individuals avoid behaviors that place them at risk of HIV infection, including integration of such programs into health programs and the inclusion in counseling programs of information on methods of avoiding infection of HIV, including delaying sexual debut, abstinence, fidelity and monogamy, reduction of casual sexual partnering and multiple concurrent sexual partnering,,<sup>2</sup> reducing sexual violence and coercion, including child marriage, widow inheritance, and polygamy, andwhere appropriate, use of male and female condoms;
 
 &emsp;&emsp;(B) assistance to establish and implement culturally appropriate HIV/AIDS education and prevention programs that are designed with local input and focus on helping individuals avoid infection of HIV/AIDS, implemented through nongovernmental organizations, including faith-based and community-based organizations, particularly those locally based organizations that utilize both professionals and volunteers with appropriate skills, experience, and community presence;
 
@@ -138,7 +138,7 @@ Assistance provided under subsection (c) of this section shall, to the maximum e
 
 #### (3) Preventative intervention education and technologies
 
-&emsp;(A) With particular emphasis on specific populations that represent a particularly high risk of contracting or spreading HIV/AIDS, including those exploited through the sex trade, victims of rape and sexual assault, individuals already infected with HIV/AIDS, and in cases of occupational exposure of health care workers, assistance with efforts to reduce the risk of HIV/AIDS infection including post-exposure pharmaceutical prophylaxis, and necessary pharmaceuticals and commodities, including test kits, condoms, and, when proven effective, microbicides.
+&emsp;(A) With particular emphasis on specific populations that represent a particularly highrisk of contracting or spreading HIV/AIDS, including those exploited through the sex trade, victims of rape and sexual assault, individuals already infected with HIV/AIDS, and in cases of occupational exposure of health care workers, assistance with efforts to reduce the risk of HIV/AIDS infection including post-exposure pharmaceutical prophylaxis, and necessary pharmaceuticals and commodities, including test kits, condoms, and, when proven effective, microbicides.
 
 &emsp;(B) Bulk purchases of available test kits, condoms, and, when proven effective, microbicides that are intended to reduce the risk of HIV/AIDS transmission and for appropriate program support for the introduction and distribution of these commodities, as well as education and training on the use of the technologies.
 

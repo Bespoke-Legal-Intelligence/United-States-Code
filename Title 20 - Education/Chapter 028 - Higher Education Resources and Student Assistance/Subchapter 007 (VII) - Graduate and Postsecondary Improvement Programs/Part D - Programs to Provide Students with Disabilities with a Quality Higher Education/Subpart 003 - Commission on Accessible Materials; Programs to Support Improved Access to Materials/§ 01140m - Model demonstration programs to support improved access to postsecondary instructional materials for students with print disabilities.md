@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-It is the purpose of this section to support model demonstration programs for the purpose of encouraging the development of systems to improve the quality of postsecondary instructional materials in specialized formats and such materials’ timely delivery to postsecondary students with print disabilities, including systems to improve efficiency and reduce duplicative efforts across multiple institutions of higher education.
+It is the purpose of this section to support model demonstration programs for the purposeof encouraging the development of systems to improve the quality of postsecondary instructional materials in specialized formats and such materials’ timely delivery to postsecondary students with print disabilities, including systems to improve efficiency and reduce duplicative efforts across multiple institutions of higher education.
 
 #### (b) Definition of eligible partnership
 
@@ -34,7 +34,7 @@ In awarding grants or contracts under this section, the Secretary shall give pri
 
 #### (f) Required activities
 
-An eligible partnership that receives a grant or contract under this section shall use thegrant or contract funds to carry out the following:
+An eligible partnership that receives a grant or contract under this section shall use the grant or contract funds to carry out the following:
 
 &emsp;(1) Supporting the development and implementation of the following:
 

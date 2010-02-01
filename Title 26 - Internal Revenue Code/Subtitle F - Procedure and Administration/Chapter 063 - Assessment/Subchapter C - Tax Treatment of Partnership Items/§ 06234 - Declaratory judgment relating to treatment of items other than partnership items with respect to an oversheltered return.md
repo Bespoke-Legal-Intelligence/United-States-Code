@@ -6,7 +6,7 @@ If—
 
 &emsp;(1) a taxpayer files an oversheltered return for a taxable year,
 
-&emsp;(2) the Secretary makes a determination with respect to the treatment of items (otherthan partnership items) of such taxpayer for such taxable year, and
+&emsp;(2) the Secretary makes a determination with respect to the treatment of items (other than partnership items) of such taxpayer for such taxable year, and
 
 &emsp;(3) the adjustments resulting from such determination do not give rise to a deficiency (as defined in section 6211) but would give rise to a deficiency if there were no net loss from partnership items,
 
@@ -70,7 +70,7 @@ If the Secretary mails a notice of adjustment to the taxpayer for a taxable year
 
 #### (2) Special rule in case of computational adjustment
 
-&emsp;In the case of a computational adjustment that is made in connection with a partnershipproceeding under this subchapter (other than under this section), the provisions of paragraph (1) shall apply only if the computational adjustment is made within the period prescribed by section 6229 for assessing any tax under subtitle A which is attributable to any partnership item or affected item for the taxable year involved.
+&emsp;In the case of a computational adjustment that is made in connection with a partnership proceeding under this subchapter (other than under this section), the provisions of paragraph (1) shall apply only if the computational adjustment is made within the period prescribed by section 6229 for assessing any tax under subtitle A which is attributable to any partnership item or affected item for the taxable year involved.
 
 #### (3) Conversion to deficiency proceeding
 

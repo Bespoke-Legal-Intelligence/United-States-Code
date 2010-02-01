@@ -314,7 +314,7 @@ For purposes of this section—
 
 This section shall not apply to the estates of decedents dying after December 31, 2003.
 
-(Added Pub. L. 105–34, title V, §502(a), Aug. 5, 1997, 111 Stat. 847, §2033A; renumbered §2057 and amended Pub. L. 105–206, title VI, §6007(b)(1)(A)–(D), (2)–(7), July 22, 1998, 112 Stat. 807–809; Pub. L. 107–16, title V, §521(d), June 7, 2001, 115 Stat. 72; Pub. L. 108–311, title II, §207(23), Oct. 4, 2004, 118 Stat. 1178.)
+(Added Pub. L. 105–34, title V, §502(a), Aug. 5, 1997, 111 Stat. 847, §2033A; renumbered §2057 andamended Pub. L. 105–206, title VI, §6007(b)(1)(A)–(D), (2)–(7), July 22, 1998, 112 Stat. 807–809; Pub. L. 107–16, title V, §521(d), June 7, 2001, 115 Stat. 72; Pub. L. 108–311, title II, §207(23), Oct. 4, 2004, 118 Stat. 1178.)
 
 #### Amendment of Section
 

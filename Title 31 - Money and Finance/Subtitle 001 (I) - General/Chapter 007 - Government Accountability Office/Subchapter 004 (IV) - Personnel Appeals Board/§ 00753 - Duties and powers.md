@@ -64,7 +64,7 @@ In the section, the words “officer or” are added for consistency in the revi
 
 In subsection (a), before clause (1), the words “decide” and “(where appropriate)” are omitted as surplus. In clause (6), the words “relations program” are substituted for “system” for consistency. In clause (8), the words “most appropriately” are omitted as surplus.
 
-In subsection (b), the words “delegate . . . to act” are substituted for “designate . . . to take any action which the Board is authorized to take” for consistency and to eliminate unnecessary words. The words “individual” and “reopened and” are omitted as surplus.
+In subsection (b), the words “delegate . . . to act” are substituted for “designate . . . to take any action which the Board is authorized to take” for consistencyand to eliminate unnecessary words. The words “individual” and “reopened and” are omitted as surplus.
 
 In subsection (c), the words “reopen and” are omitted as surplus.
 

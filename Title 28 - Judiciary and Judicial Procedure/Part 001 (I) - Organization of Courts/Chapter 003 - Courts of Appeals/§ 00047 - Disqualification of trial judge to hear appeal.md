@@ -12,7 +12,7 @@ The provision in section 11–205 of the District of Columbia Code, 1940 ed., th
 
 References in said section 11–205 to the power to prescribe rules, requisites of record on appeal, forms of bills of exception, and procedure on appeal, were omitted as covered by Rules 73, 75, 76, of the Federal Rules of Civil Procedure and by Rule 51 of the Federal Rules of Criminal Procedure.
 
-Said section 11–205 contained a provision that on a divided opinion by the Court of Appeals for the District of Columbia the decision of the lower court should stand affirmed. This was omitted as unnecessary as merely expressing a well-established rule of law.
+Said section 11–205 contained a provision that on a divided opinion by the Court of Appeals for the Districtof Columbia the decision of the lower court should stand affirmed. This was omitted as unnecessary as merely expressing a well-established rule of law.
 
 Other provisions of said section 11–205 are incorporated in section 48 of this title.
 

@@ -14,7 +14,7 @@ An audit under subsection (a) shall include a review, with respect to the period
 
 &emsp;(1) budget, life-cycle costing, and contracting issues, using best practices identified by the Comptroller General of the United States and heads of other agencies in accordance with section 17092(d) of this title;
 
-&emsp;(2) the level of coordination among the Federal Director, the Office of Management and Budget, the Department of Energy, and relevant agencies;
+&emsp;(2) the level of coordination among the Federal Director, the Office of Management andBudget, the Department of Energy, and relevant agencies;
 
 &emsp;(3) the performance of the Federal Director and other agencies in carrying out the implementation plan;
 
@@ -34,5 +34,5 @@ The Federal Director shall consult with the Advisory Committee to enhance, and a
 
 This Act, referred to in subsec. (a), is Pub. L. 110–140, which was approved Dec. 19, 2007.
 
-This part, referred to in subsec. (a)(1), was in the original “this subtitle”, meaning subtitle C (§§431–441) of title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1607, which enacted this part, amended sections 6832, 6834, 8253, and 8254 of this title, and enacted provisions setout as a note under section 6834 of this title. For complete classification of subtitle C to the Code, see Tables.
+This part, referred to in subsec. (a)(1), was in the original “this subtitle”, meaning subtitle C (§§431–441) of title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1607, which enacted this part, amended sections 6832, 6834, 8253, and 8254 of this title, and enacted provisions set out as a note under section 6834 of this title. For complete classification of subtitle C to the Code, see Tables.
 

@@ -2,9 +2,9 @@
 
 #### (a) Filing of petitions; assistance; publication of notice
 
-(1) A petition for certification of eligibility to apply for adjustment assistance for a group of workers under this part may be filed simultaneously with the Secretary and with the Governor of the State in which such workers’ firm or subdivision is located by any of the following:
+(1) A petition for certification of eligibility to apply for adjustment assistance for a group of workers under this part may be filed simultaneously with the Secretary of Labor and with the Governor of the State in which such workers’ firm (as defined in section 2319 of this title) is located by any of the following:
 
-&emsp;(A) The group of workers (including workers in an agricultural firm or subdivision of any agricultural firm).
+&emsp;(A) The group of workers.
 
 &emsp;(B) The certified or recognized union or other duly authorized representative of such workers.
 
@@ -12,23 +12,35 @@
 
 (2) Upon receipt of a petition filed under paragraph (1), the Governor shall—
 
-&emsp;(A) ensure that rapid response assistance and appropriate core and intensive services (as described in section 134 of the Workforce Investment Act of 1998 (29 U.S.C. 2864)) authorized under other Federal laws are made available to the workers covered by the petition to the extent authorized under such laws; and
+&emsp;(A) ensure that rapid response activities and appropriate core and intensive services (as described in section 134 of the Workforce Investment Act of 1998 (29 U.S.C. 2864)) authorized under other Federal laws are made available to the workers covered by the petition to the extent authorized under such laws; and
 
 &emsp;(B) assist the Secretary in the review of the petition by verifying such information and providing such other assistance as the Secretary may request.
 
-(3) Upon receipt of the petition, the Secretary shall promptly publish notice in the Federal Register that the Secretary has received the petition and initiated an investigation.
+(3) Upon receipt of the petition, the Secretary shall promptly publish notice in the Federal Register and on the website of the Department of Labor that the Secretary has received the petition and initiated an investigation.
 
 #### (b) Hearing
 
 If the petitioner, or any other person found by the Secretary to have a substantial interest in the proceedings, submits not later than 10 days after the date of the Secretary's publication under subsection (a) of this section a request for a hearing, the Secretary shall provide for a public hearing and afford such interested persons an opportunity to be present, to produce evidence, and to be heard.
 
-(Pub. L. 93–618, title II, §221, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §112(a), Aug. 6, 2002, 116 Stat. 937; Pub. L. 108–429, title II, §2004(a)(4), Dec. 3, 2004, 118 Stat. 2590.)
+(Pub. L. 93–618, title II, §221, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §112(a), Aug. 6, 2002, 116 Stat. 937; Pub. L. 108–429, title II, §2004(a)(4), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1801(e)(1), Feb. 17, 2009, 123 Stat. 370.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
 
 #### References in Text
 
 The Workforce Investment Act of 1998, referred to in subsec. (a)(1)(C), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
+
+2009—Subsec. (a)(1). Pub. L. 111–5, §§1801(e)(1)(A)(i), 1893, temporarily substituted “Secretary of Labor” for “Secretary” and “(as defined in section 2319 of this title)” for “or subdivision” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(1)(A). Pub. L. 111–5, §§1801(e)(1)(A)(ii), 1893, temporarily struck out “(including workers in an agricultural firm or subdivision of any agricultural firm)” after “group of workers”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(2)(A). Pub. L. 111–5, §§1801(e)(1)(B), 1893, temporarily substituted “rapid response activities” for “rapid response assistance”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(3). Pub. L. 111–5, §§1801(e)(1)(C), 1893, temporarily inserted “and on the website of the Department of Labor” after “Federal Register”. See Effective and Termination Dates of 2009 Amendment note below.
 
 2004—Subsec. (a)(2)(A). Pub. L. 108–429 substituted “assistance and appropriate” for “assistance, and appropriate”.
 
@@ -37,6 +49,46 @@ The Workforce Investment Act of 1998, referred to in subsec. (a)(1)(C), is Pub. 
 1993—Subsec. (a). Pub. L. 103–182 substituted “assistance under this subpart” for “assistance under this part”.
 
 1986—Subsec. (a). Pub. L. 99–272 inserted “(including workers in any agricultural firm or subdivision of an agricultural firm)” after “group of workers”.
+
+#### Effective and Termination Dates of 2009 Amendment
+
+Pub. L. 111–5, div. B, title I, §1891, Feb. 17, 2009, 123 Stat. 420, provided that:
+
+“(a)
+
+In General.—Except as otherwise provided in this subtitle \[subtitle I (§§1800–1899L) of title I of div. B of Pub. L. 111–5, enacting part 4 (§2371 et seq.) of this subchapter and sections 2295a, 2322, 2323, 2344, 2345, 2356, and 2397a of this title, amending sections 2271 to 2275, 2291 to 2295, 2296 to 2298, 2311, 2315 to 2321, 2341, 2343, 2348 to 2352, 2354, 2355, 2393, 2395, 2401 to 2401b, and 2401e to 2401g of this title, sections 35, 4980B, 7527, and 9801 of Title 26, Internal Revenue Code, section 1581 of Title 28, Judiciary and Judicial Procedure, sections 1162, 1181, 2918, and 2919 of Title 29, Labor, and sections 300bb–2 and 300gg of Title 42, The Public Health and Welfare, repealing former sections 2344 to 2347 of this title, enacting provisions set out as notes preceding section 2271 and under sections 2271, 2295a, 2296, 2323, 2344, 2371, and 2393 of this title and sections 1, 35, 4980B, 7527, and 9801 of Title 26, and amending provisions set out as a note preceding section 2271 of this title\], and subsection (b) of this section, this subtitle and the amendments made by this subtitle—
+
+&emsp;“(1) shall take effect upon the expiration of the 90-day period beginning on the date of the enactment of this Act \[Feb. 17, 2009\]; and
+
+&emsp;“(2) shall apply to—
+
+&emsp;&emsp;“(A) petitions for certification filed under chapter 2, 3, or 6 of title II of the Trade Act of 1974 \[this part and parts 3 and 6 of this subchapter\] on or after the effective date described in paragraph (1); and
+
+&emsp;&emsp;“(B) petitions for assistance and proposals for grants filed under chapter 4 of title II of the Trade Act of 1974 \[part 4 of this subchapter\] on or after such effective date.
+
+“(b)
+
+Certifications Made Before Effective Date.—Notwithstanding subsection (a)—
+
+&emsp;“(1) a worker shall continue to receive (or be eligible to receive) trade adjustment assistance and other benefits under subchapter B of chapter 2 of title II of the Trade Act of 1974 \[subpart B of this part\], as in effect on the day before the effective date described in subsection (a)(1), for any week for which the worker meets the eligibility requirements of such chapter 2 as in effect on the day before such effective date, if the worker—
+
+&emsp;&emsp;“(A) is certified as eligible for trade adjustment assistance benefits under such chapter 2 pursuant to a petition filed under section 221 of the Trade Act of 1974 \[19 U.S.C. 2271\] on or before such effective date; and
+
+&emsp;&emsp;“(B) would otherwise be eligible to receive trade adjustment assistance benefits under such chapter as in effect on the day before such effective date;
+
+&emsp;“(2) a worker shall continue to receive (or be eligible to receive) benefits under section 246(a)(2) of the Trade Act of 1974 \[19 U.S.C. 2318(a)(2)\], as in effect on the day before the effective date described in subsection (a)(1), for such period for which the worker meets the eligibility requirements of section 246 of that Act as in effect on the day before such effective date, if the worker—
+
+&emsp;&emsp;“(A) is certified as eligible for benefits under such section 246 pursuant to a petition filed under section 221 of the Trade Act of 1974 on or before such effective date; and
+
+&emsp;&emsp;“(B) would otherwise be eligible to receive benefits under such section 246(a)(2) as in effect on the day before such effective date; and
+
+&emsp;“(3) a firm shall continue to receive (or be eligible to receive) adjustment assistance under chapter 3 of title II of the Trade Act of 1974 \[part 3 of this subchapter\], as in effect on the day before the effective date described in subsection (a)(1), for such period for which the firm meets the eligibility requirements of such chapter 3 as in effect on the day before such effective date, if the firm—
+
+&emsp;&emsp;“(A) is certified as eligible for benefits under such chapter 3 pursuant to a petition filed under section 251 of the Trade Act of 1974 \[19 U.S.C. 2341\] on or before such effective date; and
+
+&emsp;&emsp;“(B) would otherwise be eligible to receive benefits under such chapter 3 as in effect on the day before such effective date.”
+
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding this section.
 
 #### Effective Date of 2002 Amendment
 
@@ -74,7 +126,17 @@ Reachback.—Notwithstanding paragraph (1), any worker—
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding this section.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding this section.
+
+#### Determination of Increases of Imports for Certain Fishermen
+
+Pub. L. 111–5, div. B, title I, §1886, Feb. 17, 2009, 123 Stat. 419, provided that: “For purposes of chapters 2 and 6 \[this part and part 6 of this subchapter\] of title II of the Trade Act of 1974 (19 U.S.C. 2251 et seq.), in the case of an agricultural commodity producer that—
+
+&emsp;“(1) is a fisherman or aquaculture producer, and
+
+&emsp;“(2) is otherwise eligible for adjustment assistance under chapter 2 or 6, as the case may be,
+
+> the increase in imports of articles like or directly competitive with the agricultural commodity produced bysuch producer may be based on imports of wild-caught seafood, farm-raised seafood, or both.”
 
 #### Declaration of Policy; Sense of Congress
 

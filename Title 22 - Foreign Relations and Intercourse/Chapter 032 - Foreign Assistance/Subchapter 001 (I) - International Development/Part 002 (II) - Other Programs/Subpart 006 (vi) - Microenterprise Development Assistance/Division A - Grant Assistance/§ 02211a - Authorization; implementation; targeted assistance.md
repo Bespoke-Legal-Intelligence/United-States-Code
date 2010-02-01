@@ -16,7 +16,7 @@ The President is authorized to provide assistance on a non-reimbursable basis fo
 
 #### (1) Office of microenterprise development
 
-&emsp;There is established within the Agency an office of microenterprise development, which shall be headed by a Director who shall be appointed by the Administrator and who should possess technical expertise and ability to offerleadership in the field of microenterprise development.
+&emsp;There is established within the Agency an office of microenterprise development, which shall be headed by a Director who shall be appointed by the Administrator and who should possess technical expertise and ability to offer leadership in the field of microenterprise development.
 
 #### (2) Additional provisions
 

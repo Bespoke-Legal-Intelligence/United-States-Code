@@ -86,7 +86,7 @@ Continuing designation.—A designation of a metropolitan planning organization 
 
 &emsp;(5)
 
-Redesignation procedures.—A metropolitan planning organization may be redesignated by agreement between the Governor and units of general purpose local government that together represent at least 75 percent of the existing planning area population (including the largest incorporated city (based on population) as named by the Bureau of the Census) as appropriate to carry out this section.
+Redesignation procedures.—A metropolitan planning organization may be redesignated by agreement between the Governor and units of general purpose local government that together represent at least 75 percent ofthe existing planning area population (including the largest incorporated city (based on population) as named by the Bureau of the Census) as appropriate to carry out this section.
 
 &emsp;(6)
 
@@ -156,7 +156,7 @@ Definition.—In this paragraph, the term “Lake Tahoe region” has the meanin
 
 Transportation planning process.—The Secretary shall—
 
-&emsp;&emsp;&emsp;(i) establish with the Federal land management agencies that have jurisdictionover land in the Lake Tahoe region a transportation planning process for the region; and
+&emsp;&emsp;&emsp;(i) establish with the Federal land management agencies that have jurisdiction over land in the Lake Tahoe region a transportation planning process for the region; and
 
 &emsp;&emsp;&emsp;(ii) coordinate the transportation planning process with the planning process required of State and local governments under this section and section 135.
 
@@ -178,7 +178,7 @@ Representation.—The policy board of a metropolitan planning organization desig
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Funding.—For fiscal year 2008 and each fiscal year thereafter, in addition to other funds made available to the metropolitan planning organization for the Lake Tahoe region under this title and chapter 53 of title 49, prior to any allocation under section 202 of this title and notwithstanding the allocation provisions of section 202, the Secretary shall set aside 1/2 of 1 percent of all funds authorized to be appropriated for such fiscal year to carry out section 204 and shall make such funds available to the metropolitan planning organization for the Lake Tahoe region to carry out the transportation planning process, environmental reviews, preliminary engineering, and design to complete environmental documentation for transportation projects for the Lake Tahoe region under the Tahoe Regional Planning Compact as consented to in Public Law 96–551 (94 Stat. 3233) and this paragraph.
+Funding.—For fiscal year 2008 and each fiscal year thereafter, in addition to other funds made available to the metropolitan planning organization for the Lake Tahoe region under this title and chapter 53 of title 49, prior to any allocation under section 202 of this title and notwithstanding the allocation provisions of section 202, the Secretary shallset aside 1/2 of 1 percent of all funds authorized to be appropriated for such fiscal year to carry out section 204 and shall make such funds available to the metropolitan planning organization for the Lake Tahoe region to carry out the transportation planning process, environmental reviews, preliminary engineering, and design to complete environmental documentation for transportation projects for the Lake Tahoe region under the Tahoe Regional Planning Compact as consented to in Public Law 96–551 (94 Stat. 3233) and this paragraph.
 
 &emsp;&emsp;(D)
 
@@ -230,7 +230,7 @@ In general.—The metropolitan planning process for a metropolitan planning area
 
 &emsp;&emsp;(D) increase the accessibility and mobility of people and for freight;
 
-&emsp;&emsp;(E) protect and enhance the environment, promote energy conservation, improve the quality of life, and promote consistency between transportation improvements andState and local planned growth and economic development patterns;
+&emsp;&emsp;(E) protect and enhance the environment, promote energy conservation, improve the quality of life, and promote consistency between transportation improvements and State and local planned growth and economic development patterns;
 
 &emsp;&emsp;(F) enhance the integration and connectivity of the transportation system, across and between modes, for people and freight;
 
@@ -340,7 +340,7 @@ Methods.—In carrying out subparagraph (A), the metropolitan planning organizat
 
 &emsp;(6)
 
-Publication.—A transportation plan involving Federal participation shall be published or otherwise made readily available by the metropolitan planning organization for public review, including (to the maximum extent practicable) in electronically accessible formats and means, such as the World Wide Web, approved by the metropolitan planning organization and submitted for information purposes to the Governor at such times and in such manner as the Secretary shall establish.
+Publication.—A transportation plan involving Federal participation shall be published or otherwise made readily available by the metropolitan planning organization for public review, including (to the maximum extent practicable) in electronically accessible formats and means, such as the World Wide Web, approved by the metropolitan planningorganization and submitted for information purposes to the Governor at such times and in such manner as the Secretary shall establish.
 
 &emsp;(7)
 
@@ -424,7 +424,7 @@ Requirement of anticipated full funding.—The program shall include a project, 
 
 &emsp;(4)
 
-Notice and comment.—Before approving a TIP, a metropolitan planning organization,in cooperation with the State and any affected public transportation operator, shall provide an opportunity for participation by interested parties in the development of the program, in accordance with subsection (i)(5).
+Notice and comment.—Before approving a TIP, a metropolitan planning organization, in cooperation with the State and any affected public transportation operator, shall provide an opportunity for participation by interested parties in the development of the program, in accordance with subsection (i)(5).
 
 &emsp;(5)
 
@@ -704,7 +704,7 @@ Pub. L. 109–59, title VI, §6001(b), Aug. 10, 2005, 119 Stat. 1857, provided t
 
 #### Demonstration Project for Restricted Access to Central Business District of Metropolitan Areas
 
-Section 155 of Pub. L. 95–599 authorized Secretary of Transportation to carry out a demonstration project in a metropolitan area respecting the restriction of access of motor vehicles to the central business district during peak hours of traffic, authorized the necessary appropriations, and required progress reports and a final report and recommendations not later than three years after Nov. 6, 1978.
+Section 155 of Pub. L. 95–599 authorized Secretary of Transportation to carry out a demonstration project ina metropolitan area respecting the restriction of access of motor vehicles to the central business district during peak hours of traffic, authorized the necessary appropriations, and required progress reports and a final report and recommendations not later than three years after Nov. 6, 1978.
 
 #### Reduction of Urban Blight Adjacent to Federal-Aid Primary and Interstate Highways Located in Central Business Districts
 

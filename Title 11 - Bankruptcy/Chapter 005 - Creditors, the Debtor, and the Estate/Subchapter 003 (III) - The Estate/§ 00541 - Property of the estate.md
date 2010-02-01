@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(ii) but for the operation of this paragraph, the estate could include the interest referred to in clause (i) only by virtue of section 365 or 542 of this title;
 
-&emsp;(5) funds placed in an education individual retirement account (as defined in section 530(b)(1) of the Internal Revenue Code of 1986) not later than 365 days before the date of thefiling of the petition in a case under this title, but—
+&emsp;(5) funds placed in an education individual retirement account (as defined in section 530(b)(1) of the Internal Revenue Code of 1986) not later than 365 days before the date of the filing of the petition in a case under this title, but—
 
 &emsp;&emsp;(A) only if the designated beneficiary of such account was a child, stepchild, grandchild, or stepgrandchild of the debtor for the taxable year for which funds were placed in such account;
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;(ii) to a health insurance plan regulated by State law whether or not subject to such title;
 
-&emsp;(8) subject to subchapter III of chapter 5, any interest of the debtor in property where the debtor pledged or sold tangible personal property (other than securities or written or printed evidences of indebtedness or title) as collateral for a loan or advance of money given by a person licensed under law to make such loans or advances, where—
+&emsp;(8) subject to subchapter III of chapter 5, any interest of the debtor in property where thedebtor pledged or sold tangible personal property (other than securities or written or printed evidences of indebtedness or title) as collateral for a loan or advance of money given by a person licensed under law to make such loans or advances, where—
 
 &emsp;&emsp;(A) the tangible personal property is in the possession of the pledgee or transferee;
 
@@ -136,7 +136,7 @@ Section 541(a)(7) is new. The provision clarifies that any interest in property 
 
 Section 541(c)(2) follows the position taken in the House bill and rejects the position taken in the Senate amendment with respect to income limitations on a spend-thrift trust.
 
-Section 541(d) of the House amendment is derived from section 541(e) of the Senate amendment and reiterates the general principle that where the debtor holds bare legal title without any equitable interest, that the estate acquires bare legal title without any equitable interest in the property. The purpose of section 541(d) as applied to the secondary mortgage market is identical to the purpose of section 541(e) of the Senate amendment and section 541(d) will accomplish the same result as would have been accomplished by section 541(e). Even if a mortgage seller retains for purposes of servicing legal title to mortgages or interests in mortgages sold in the secondary mortgage market, the trustee would be required by section 541(d) to turn over the mortgages or interests in mortgages to the purchaser of those mortgages.
+Section 541(d) of the House amendment is derived from section 541(e) of the Senate amendment and reiterates the general principle that where the debtor holds bare legal title without any equitable interest, that the estate acquires bare legal title without any equitable interest in the property. The purpose of section 541(d) as applied to the secondary mortgage market is identical to the purpose of section 541(e) of the Senate amendment and section 541(d) will accomplish the same result as would have been accomplished by section 541(e). Even if a mortgage seller retains for purposes ofservicing legal title to mortgages or interests in mortgages sold in the secondary mortgage market, the trustee would be required by section 541(d) to turn over the mortgages or interests in mortgages to the purchaser of those mortgages.
 
 The seller of mortgages in the secondary mortgage market will often retain the original mortgage notes and related documents and the seller will not endorse the notes to reflect the sale to the purchaser. Similarly, the purchaser will often not record the purchaser's ownership of the mortgages or interests in mortgages under State recording statutes. These facts are irrelevant and the seller's retention of the mortgage documents and the purchaser's decision not to record do not change the trustee's obligation to turn the mortgages or interests in mortgages over to the purchaser. The application of section 541(d) to secondary mortgage market transactions will not be affected by the terms of the servicing agreement between the mortgage servicer and the purchaser of the mortgages. Under section 541(d), the trustee is required to recognize the purchaser's title to the mortgages or interests in mortgages and to turn this property over to the purchaser. It makes no difference whether the servicer and the purchaser characterize their relationship as one of trust, agency, or independent contractor.
 
@@ -160,7 +160,7 @@ Paragraph (1) has the effect of overruling <i>Lockwood v. Exchange Bank</i>, 190
 
 Paragraph (1) also has the effect of overruling <i>Lines v. Frederick</i>, 400 U.S. 18 (1970).
 
-Situations occasionally arise where property ostensibly belonging to the debtor will actually not be property of the debtor, but will be held in trust for another. For example, if the debtor has incurred medical bills that were covered by insurance, and the insurance company had sent the payment of the bills to the debtor before the debtor had paid the bill for which the payment was reimbursement, the payment would actually be held in a constructive trust for the person to whom the bill was owed. This section and proposed 11 U.S.C. 545 also will not affect various statutory provisions that give a creditor of the debtor a lien that is valid outside as well as inside bankruptcy, or that creates a trust fund for the benefit of a creditor of the debtor. See Packers and Stockyards Act §206, 7 U.S.C. 196.
+Situations occasionally arise where property ostensibly belonging to the debtor will actually not be property of the debtor, but will be held in trust for another. For example, if the debtor has incurred medical bills that were covered by insurance, and the insurance company had sent the payment of the bills to the debtor before the debtor had paid the bill for which the payment was reimbursement, the payment would actually be held in a constructive trust for the person to whom the bill was owed. This section and proposed 11 U.S.C. 545 also will not affect various statutory provisions that give a creditor of the debtor a lien that is valid outsideas well as inside bankruptcy, or that creates a trust fund for the benefit of a creditor of the debtor. See Packers and Stockyards Act §206, 7 U.S.C. 196.
 
 Bankruptcy Act §8 \[section 26 of former title 11\] has been deleted as unnecessary. Once the estate is created, no interests in property of the estate remain in the debtor. Consequently, if the debtor dies during the case, only property exempted from property of the estate or acquired by the debtor after the commencement of the case and not included as property of the estate will be available to the representative of the debtor's probate estate. The bankruptcy proceeding will continue in rem with respect to property of the state, and the discharge will apply in personam to relieve the debtor, and thus his probate representative, of liability for dischargeable debts.
 
@@ -226,7 +226,7 @@ Subsec. (c)(1)(B). Pub. L. 98–353, §456(b)(2), substituted “taking” for �
 
 Subsec. (d). Pub. L. 98–353, §456(c), inserted “(1) or (2)” after “(a)”.
 
-Subsec. (e). Pub. L. 98–353, §456(d), struck out subsec. (e) which read as follows: “The estate shall have the benefit of any defense available to the debtor as against an entity other than the estate, including statutes of limitation, statutes of frauds, usury, and other personal defenses. A waiver of any such defense by the debtor after the commencement of the case does not bind the estate.”
+Subsec. (e). Pub. L. 98–353, §456(d), struck out subsec. (e) which read as follows: “The estate shall have the benefit of any defense available to the debtor as against an entity other than the estate, including statutes of limitation, statutes of frauds, usury, and otherpersonal defenses. A waiver of any such defense by the debtor after the commencement of the case does not bind the estate.”
 
 #### Effective Date of 2005 Amendment
 

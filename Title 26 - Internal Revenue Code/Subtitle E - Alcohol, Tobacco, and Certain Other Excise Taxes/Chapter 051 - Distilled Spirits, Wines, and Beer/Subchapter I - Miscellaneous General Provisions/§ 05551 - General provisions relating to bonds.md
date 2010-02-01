@@ -2,7 +2,7 @@
 
 #### (a) Approval as condition to commencing business
 
-No individual, firm, partnership, corporation, or association, intending to commence or to continue the business of a distiller, warehouseman, processor, brewer, or winemaker, shall commence or continue the business of a distiller, warehouseman, processor, brewer, or winemaker until all bonds in respect of such abusiness, required by any provision of law, have been approved by the Secretary of the Treasury or the officer designated by him.
+No individual, firm, partnership, corporation, or association, intending to commence or to continue the business of a distiller, warehouseman, processor, brewer, or winemaker, shall commence or continue the business of a distiller, warehouseman, processor, brewer, or winemaker until all bonds in respect of such a business, required by any provision of law, have been approved by the Secretary of the Treasury or the officer designated by him.
 
 #### (b) Disapproval
 

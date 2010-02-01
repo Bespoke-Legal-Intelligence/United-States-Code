@@ -42,7 +42,7 @@ No advertisement, announcement, or solicitation made by any depository instituti
 
 #### (e) Misleading or inaccurate advertisements, etc., prohibited
 
-No depository institution or deposit broker shall make any advertisement, announcement,or solicitation relating to a deposit account that is inaccurate or misleading or that misrepresents its deposit contracts.
+No depository institution or deposit broker shall make any advertisement, announcement, or solicitation relating to a deposit account that is inaccurate or misleading or that misrepresents its deposit contracts.
 
 (Pub. L. 102–242, title II, §263, Dec. 19, 1991, 105 Stat. 2334; Pub. L. 102–550, title IX, §957(a), Oct. 28, 1992, 106 Stat. 3896; Pub. L. 104–208, div. A, title II, §2604(b), Sept. 30, 1996, 110 Stat. 3009–471.)
 

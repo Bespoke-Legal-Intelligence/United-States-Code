@@ -12,7 +12,7 @@
 
 (3)(A) Except as provided in subparagraph (C), an individual shall be considered to be disabled for purposes of this subchapter if he is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than twelve months.
 
-(B) For purposes of subparagraph (A), an individual shall be determined to be under a disability only if his physical or mental impairment or impairments are of such severity that he is not only unable to do his previous work but cannot, considering his age, education, and work experience, engage in any other kind of substantial gainful work which exists in the national economy, regardless of whether such work exists in the immediate area in which he lives, or whether a specific job vacancy exists for him, or whether he would be hired if he applied for work. For purposes of the preceding sentence (with respect to any individual), “work which exists in the national economy” means work which exists in significant numbers either in the region where such individual lives or in several regions of the country.
+(B) For purposes of subparagraph (A), an individual shall be determined to be under a disability only if his physical or mental impairment orimpairments are of such severity that he is not only unable to do his previous work but cannot, considering his age, education, and work experience, engage in any other kind of substantial gainful work which exists in the national economy, regardless of whether such work exists in the immediate area in which he lives, or whether a specific job vacancy exists for him, or whether he would be hired if he applied for work. For purposes of the preceding sentence (with respect to any individual), “work which exists in the national economy” means work which exists in significant numbers either in the region where such individual lives or in several regions of the country.
 
 (C)(i) An individual under the age of 18 shall be considered disabled for the purposes of this subchapter if that individual has a medically determinable physical or mental impairment, which results in marked and severe functional limitations, and which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than 12 months.
 
@@ -88,7 +88,7 @@
 
 &emsp;(B) in the case of an individual who is under the age of 18—
 
-&emsp;&emsp;(i) substantial evidence which demonstrates that there has been medical improvement in the individual's impairment or combination of impairments, and that such impairment or combination of impairments no longer results in marked and severe functional limitations; or
+&emsp;&emsp;(i) substantial evidence which demonstrates that there has been medical improvement in the individual's impairment orcombination of impairments, and that such impairment or combination of impairments no longer results in marked and severe functional limitations; or
 
 &emsp;&emsp;(ii) substantial evidence which demonstrates that, as determined on the basis of new or improved diagnostic techniques or evaluations, the individual's impairment or combination of impairments, is not as disabling as it was considered to be at the time of the most recent prior decision that the individual was under a disability or continued to be under a disability, and such impairment or combination of impairments does not result in marked and severe functional limitations; or
 
@@ -122,7 +122,7 @@
 
 &emsp;(iv) but for this subparagraph, would not be eligible for benefits under this subchapter.
 
-(3) For purposes of determining eligibility for and the amount of benefits for any individual who is an alien, such individual's income and resources shall be deemed to include the income and resources of his sponsor and such sponsor's spouse (if such alien has a sponsor) as provided in section 1382j of this title. Any such income deemed to be income of such individual shall be treated as unearned income of such individual.
+(3) For purposes of determining eligibility for and the amount of benefits for any individualwho is an alien, such individual's income and resources shall be deemed to include the income and resources of his sponsor and such sponsor's spouse (if such alien has a sponsor) as provided in section 1382j of this title. Any such income deemed to be income of such individual shall be treated as unearned income of such individual.
 
 (4) For purposes of paragraphs (1) and (2), a spouse or parent (or spouse of such a parent) who is absent from the household in which the individual lives due solely to a duty assignment as a member of the Armed Forces on active duty shall, in the absence of evidence to the contrary, be deemed to be living in the same household as the individual.
 
@@ -144,7 +144,7 @@ Subsec. (a)(3)(H)(iv). Pub. L. 105–33, §5522(a)(2), substituted “Except as 
 
 Subsec. (a)(4). Pub. L. 105–33, §5522(d), made technical correction to directory language of Pub. L. 104–193, §211(c). See 1996 Amendment notes below.
 
-1996—Subsec. (a)(3)(A). Pub. L. 104–193, §211(a)(1), (2), substituted “Except as provided in subparagraph (C), an individual” for “An individual” and struck out “(or, in the case of an individual under the age of 18, if he suffers from any medically determinable physical ormental impairment of comparable severity)” before period at end.
+1996—Subsec. (a)(3)(A). Pub. L. 104–193, §211(a)(1), (2), substituted “Except as provided in subparagraph (C), an individual” for “An individual” and struck out “(or, in the case of an individual under the age of 18, if he suffers from any medically determinable physical or mental impairment of comparable severity)” before period at end.
 
 Subsec. (a)(3)(C). Pub. L. 104–193, §211(a)(4), added subpar. (C). Former subpar. (C) redesignated (D).
 
@@ -310,7 +310,7 @@ Report.—The Commissioner of Social Security shall report to the Congress regar
 
 “(4)
 
-Regulations.—Notwithstanding any other provision of law, the Commissioner of Social Security shallsubmit for review to the committees of jurisdiction in the Congress any final regulation pertaining to the eligibility of individuals under age 18 for benefits under title XVI of the Social Security Act \[this subchapter\] at least 45 days before the effective date of such regulation. The submission under this paragraph shall include supporting documentation providing a cost analysis, workload impact, and projections as to how the regulation will effect the future number of recipients under such title.
+Regulations.—Notwithstanding any other provision of law, the Commissioner of Social Security shall submit for review to the committees of jurisdiction in the Congress any final regulation pertaining to the eligibility of individuals under age 18 for benefits under title XVI of the Social Security Act \[this subchapter\] at least 45 days before the effective date of such regulation. The submission under this paragraph shall include supporting documentation providing a cost analysis, workload impact, and projections as to how the regulation will effect the future number of recipients under such title.
 
 “(5)
 
@@ -392,7 +392,7 @@ Amendment by section 302(a)(2) of Pub. L. 96–265 applicable with respect to ex
 
 Amendment by section 303(c)(1) of Pub. L. 96–265 effective on first day of sixth month which begins after June 9, 1980, and applicable with respect to any individual whose disability has not been determined to have ceased prior to such first day, see section 303(d) of Pub. L. 96–265, set out as a note under section 402 of this title.
 
-Amendment by section 504(a) of Pub. L. 96–265 effective with respect to individuals applying for supplemental security income benefits under this subchapter for the first time after Sept. 30, 1980, see section 504(c)of Pub. L. 96–265, set out as an Effective Date note under section 1382j of this title.
+Amendment by section 504(a) of Pub. L. 96–265 effective with respect to individuals applying for supplemental security income benefits under this subchapter for the first time after Sept. 30, 1980, see section 504(c) of Pub. L. 96–265, set out as an Effective Date note under section 1382j of this title.
 
 #### Effective Date
 

@@ -26,7 +26,7 @@ In awarding grants under this subchapter, the Director of the Bureau of Justice 
 
 #### (d) Minimum amount
 
-Unless all eligible applications submitted by any State or unit of local government within such State for a grant under this section have been funded, such State, together with grantees within the State (other than Indian tribes), shall be allocated in each fiscal year under this section not less than 0.50 percent of the total amount appropriated in the fiscal year forgrants pursuant to this section, except that the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands shall each be allocated .25 percent.
+Unless all eligible applications submitted by any State or unit of local government within such State for a grant under this section have been funded, such State, together with grantees within the State (other than Indian tribes), shall be allocated in each fiscal year under this section not less than 0.50 percent of the total amount appropriated in the fiscal year for grants pursuant to this section, except that the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands shall each be allocated .25 percent.
 
 #### (e) Maximum amount
 
@@ -52,11 +52,15 @@ A qualifying State, unit of local government, or Indian tribe may not receive mo
 
 &emsp;Any funds appropriated by Congress for the activities of any agency of an Indian tribal government or the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of a matching requirement funded under this subsection.
 
+#### (3) Waiver
+
+&emsp;The Director may waive in whole or in part, the match requirement of paragraph (1) in the case of fiscal hardship, as determined by the Director.
+
 #### (g) Allocation of funds
 
 Funds available under this subchapter shall be awarded, without regard to subsection (c) of this section, to each qualifying unit of local government with fewer than 100,000 residents. Any remaining funds available under this subchapter shall be awarded to other qualifying applicants.
 
-(Pub. L. 90–351, title I, §2501, as added Pub. L. 105–181, §3(a)(3), June 16, 1998, 112 Stat. 513; amended Pub. L. 106–517, §3(a), (b), Nov. 13, 2000, 114 Stat. 2407, 2408; Pub. L. 110–177, title III, §302(d), Jan. 7, 2008, 121 Stat. 2539.)
+(Pub. L. 90–351, title I, §2501, as added Pub. L. 105–181, §3(a)(3), June 16, 1998, 112 Stat. 513; amended Pub. L. 106–517, §3(a), (b), Nov. 13, 2000, 114 Stat. 2407, 2408; Pub. L. 110–177, title III, §302(d), Jan. 7, 2008, 121 Stat. 2539; Pub. L. 111–8, div. B, title II, Mar. 11, 2009, 123 Stat. 583.)
 
 #### References in Text
 
@@ -67,6 +71,8 @@ The Departments of Commerce, Justice, and State, the Judiciary, and Related Agen
 A prior section 2501 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
 
 #### Amendments
+
+2009—Subsec. (f)(3). Pub. L. 111–8 added par. (3).
 
 2008—Subsec. (a). Pub. L. 110–177, §302(d)(1), inserted “and State and local court officers” after “tribal law enforcement officers”.
 

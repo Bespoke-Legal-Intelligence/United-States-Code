@@ -32,7 +32,7 @@ Subsecs. (b), (c). Pub. L. 108–375, §1103(a)(2), (3), redesignated subsec. (c
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title X, §1071(g), Oct. 17, 2006, 120 Stat. 2402, provided that the amendment made by section 1071(g)(12) is effective as of Oct. 28, 2004, and as if included in Pub. L. 108–375 as enacted.
+Pub. L. 109–364, div. A, title X, §1071(g), Oct. 17, 2006, 120 Stat. 2402, provided that the amendment made bysection 1071(g)(12) is effective as of Oct. 28, 2004, and as if included in Pub. L. 108–375 as enacted.
 
 #### Effective Date
 

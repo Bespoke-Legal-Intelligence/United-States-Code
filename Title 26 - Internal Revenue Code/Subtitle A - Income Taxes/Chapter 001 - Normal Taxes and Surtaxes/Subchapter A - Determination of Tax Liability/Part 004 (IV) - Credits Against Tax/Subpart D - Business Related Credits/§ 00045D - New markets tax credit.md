@@ -184,9 +184,13 @@ For purposes of this section—
 
 &emsp;&emsp;(B) $1,500,000,000 for 2002 and 2003,
 
-&emsp;&emsp;(C) $2,000,000,000 for 2004 and 2005, and
+&emsp;&emsp;(C) $2,000,000,000 for 2004 and 2005,
 
-&emsp;&emsp;(D) $3,500,000,000 for 2006, 2007, 2008, and 2009.
+&emsp;&emsp;(D) $3,500,000,000 for 2006 and 2007,
+
+&emsp;&emsp;(E) $5,000,000,000 for 2008, and
+
+&emsp;&emsp;(F) $5,000,000,000 for 2009.
 
 #### (2) Allocation of limitation
 
@@ -256,9 +260,13 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 &emsp;(6) which ensure that non-metropolitan counties receive a proportional allocation of qualified equity investments.
 
-(Added Pub. L. 106–554, §1(a)(7) \[title I, §121(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amended Pub. L. 108–357, title II, §§221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div. A, title I, §102(a), (b), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §302, Oct. 3, 2008, 122 Stat. 3866.)
+(Added Pub. L. 106–554, §1(a)(7) \[title I, §121(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amended Pub. L. 108–357, title II, §§221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div.A, title I, §102(a), (b), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §302, Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–5, div. B, title I, §1403(a), Feb. 17, 2009, 123 Stat. 352.)
 
 #### Amendments
+
+2009—Subsec. (f)(1)(D). Pub. L. 111–5, §1403(a)(2), substituted “and 2007,” for “, 2007, 2008, and 2009.”
+
+Subsec. (f)(1)(E), (F). Pub. L. 111–5, §1403(a)(1), (3), added subpars. (E) and (F).
 
 2008—Subsec. (f)(1)(D). Pub. L. 110–343 substituted “2008, and 2009” for “and 2008”.
 
@@ -293,6 +301,16 @@ Pub. L. 108–357, title II, §223(b), Oct. 22, 2004, 118 Stat. 1432, provided t
 #### Effective Date
 
 Section applicable to investments made after Dec. 31, 2000, see §1(a)(7) \[title I, §121(e)\] of Pub. L. 106–554, set out as a Effective Date of 2000 Amendment note under section 38 of this title.
+
+#### Special Rule for Allocation of Increased 2008 Limitation
+
+Pub. L. 111–5, div. B, title I, §1403(b), Feb. 17, 2009, 123 Stat. 352, provided that: “The amount of the increase in the new markets tax credit limitation for calendar year 2008 by reason of the amendments made by subsection (a) \[amending this section\] shall be allocated in accordance with section 45D(f)(2) of the Internal Revenue Code of 1986 to qualified community development entities (as defined in section 45D(c) of such Code) which—
+
+&emsp;“(1) submitted an allocation application with respect to calendar year 2008, and
+
+&emsp;“(2)(A) did not receive an allocation for such calendar year, or
+
+&emsp;“(B) received an allocation for such calendar year in an amount less than the amount requested in the allocation application.”
 
 #### Guidance on Allocation of National Limitation
 

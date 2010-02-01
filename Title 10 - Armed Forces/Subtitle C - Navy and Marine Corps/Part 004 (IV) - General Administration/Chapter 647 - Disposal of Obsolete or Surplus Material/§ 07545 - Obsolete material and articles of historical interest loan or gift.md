@@ -18,7 +18,7 @@ Authority To Make Loans and Gifts.—The Secretary of the Navy may lend or give,
 
 &emsp;(7) A State museum.
 
-&emsp;(8) A museum or memorial operated and maintained for educational purposes only, whose charter denies it the right to operate for profit.
+&emsp;(8) A museum or memorial operated and maintained for educational purposes only,whose charter denies it the right to operate for profit.
 
 &emsp;(9) A post of the Veterans of Foreign Wars of the United States.
 
@@ -80,7 +80,7 @@ Aug. 7, 1946, ch. 804, §3 (last sentence as applicable to §2), 60 Stat. 897.
 
 Aug. 7, 1946, ch. 804, §6 (1st sentence as applicable to §2, and 3d sentence), 60 Stat. 898.
 
-In subsection (a) the words, “ordnance material” are substituted for the words “ordnance, guns, projectiles”.Posts of the Grand Army of the Republic are omitted from the list of authorized donees because there are no surviving members of that organization. The word “Commonwealth” is inserted to reflect the present status of Puerto Rico. Specific reference to the Canal Zone is omitted as unnecessary, since the Zone is a “possession of the United States” as defined in section 101 of this title and is therefore covered by clause (1).
+In subsection (a) the words, “ordnance material” are substituted for the words “ordnance, guns, projectiles”. Posts of the Grand Army of the Republic are omitted from the list of authorized donees because there are no surviving members of that organization. The word “Commonwealth” is inserted to reflect the present status of Puerto Rico. Specific reference to the Canal Zone is omitted as unnecessary, since the Zone is a “possession of the United States” as defined in section 101 of this title and is therefore covered by clause (1).
 
 Subsection (d) is added to note the existence of a later act, codified in §2572 of this title, which provides similar disposal authority, and to give effect to §2 of the Act of February 27, 1948, ch. 76, 62 Stat. 37, which is not now contained in the U.S. Code, and which saves this section despite the apparent implied repeal.
 

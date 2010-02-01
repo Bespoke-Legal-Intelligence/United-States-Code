@@ -46,7 +46,7 @@ For purposes of this chapter—
 
 #### (8) Check clearinghouse association
 
-&emsp;The term “check clearinghouse association” means any arrangement by which participant depository institutions exchange deposited checks on a local basis, including an entire metropolitan area, without using the check processing facilities of the Federal Reserve System.
+&emsp;The term “check clearinghouse association” means any arrangement by which participantdepository institutions exchange deposited checks on a local basis, including an entire metropolitan area, without using the check processing facilities of the Federal Reserve System.
 
 #### (9) Check processing region
 
@@ -154,7 +154,7 @@ Year After Date of Enactment.—Sections 603, 604, 605, 606, 610, and 611 \[enac
 
 #### Short Title
 
-Section 601 of title VI of Pub. L. 100–86 provided that: “This title \[enacting this chapter, amending section 248a of this title, and enacting provisions set out as notes under this section and section 248a of this title\] may be cited as the ‘Expedited Funds Availability Act’.”
+Section 601 of title VI of Pub. L. 100–86 provided that: “This title \[enacting this chapter, amending section 248a of this title, and enacting provisions set out asnotes under this section and section 248a of this title\] may be cited as the ‘Expedited Funds Availability Act’.”
 
 #### Separability
 

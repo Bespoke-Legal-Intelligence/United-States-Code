@@ -8,7 +8,7 @@ For the purpose of—
 
 &emsp;(2) coordinating those aspects of all Federal health programs and activities relating to such diseases to assure the adequacy and technical soundness of such programs and activities and to provide for the full communication and exchange of information necessary to maintain adequate coordination of such programs and activities;
 
-> the Secretary shall establish a Diabetes Mellitus Interagency Coordinating Committee, a Digestive Diseases Interagency Coordinating Committee, and a Kidney, Urologic, and Hematologic Diseases Coordinating Committee (hereafter inthis section individually referred to as a “Committee”).
+> the Secretary shall establish a Diabetes Mellitus Interagency Coordinating Committee, a Digestive Diseases Interagency Coordinating Committee, and a Kidney, Urologic, and Hematologic Diseases Coordinating Committee (hereafter in this section individually referred to as a “Committee”).
 
 #### (b) Membership; chairman; meetings
 

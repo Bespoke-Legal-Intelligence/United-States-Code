@@ -38,7 +38,7 @@ The Secretary shall prevent any person from violating this chapter in the same m
 
 &emsp;&emsp;(B) to the Commission, in accordance with requirements in the Convention and decisions of the Commission, and, insofar as possible, in accordance with an agreement with the Commission that prevents public disclosure of the identity or business of any person;
 
-&emsp;&emsp;(C) to State or Marine Fisheries Commission employees pursuant to an agreement with the Secretary that prevents public disclosure of the identity or business or any person;
+&emsp;&emsp;(C) to State or Marine Fisheries Commission employees pursuant to an agreementwith the Secretary that prevents public disclosure of the identity or business or any person;
 
 &emsp;&emsp;(D) when required by court order; or
 

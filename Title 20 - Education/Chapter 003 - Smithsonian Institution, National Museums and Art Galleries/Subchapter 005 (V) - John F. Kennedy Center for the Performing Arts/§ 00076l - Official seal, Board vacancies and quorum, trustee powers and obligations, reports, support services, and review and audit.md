@@ -14,7 +14,7 @@ The Board shall submit to the Smithsonian Institution and to Congress an annual 
 
 #### (d) Inspector General
 
-The functions of the Board funded by funds appropriated pursuant to section 76r <sup>1</sup> of this title shall be subject to the requirements for a Federal entity under the Inspector General Act of 1978 (5 U.S.C. App.). The Inspector General of the Smithsonian Institution is authorized to carry out the requirements of such Act on behalf of the Board, on a reimbursable basis when requested by the Board.
+The functions of the Board funded by funds appropriated pursuant to section 76r <sup>1</sup> of this title shall be subject to the requirements for a Federal entity under the Inspector General Act of 1978 (5 U.S.C. App.). The Inspector General of the Smithsonian Institution is authorized to carry out the requirements of such Act on behalf ofthe Board, on a reimbursable basis when requested by the Board.
 
 #### (e) Property and personnel compensation
 
@@ -94,7 +94,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (c) of this se
 
 #### Award of Service Contracts
 
-Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1782, provided: “That contracts hereafter awarded for environmental systems, housekeeping, protection systems, and repair or renovation of buildings of the John F.Kennedy Center for the Performing Arts may be negotiated with selected contractors and awarded on the basis of contractor qualifications as well as price.”
+Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1782, provided: “That contracts hereafter awarded for environmental systems, housekeeping, protection systems, and repair or renovation of buildings of the John F. Kennedy Center for the Performing Arts may be negotiated with selected contractors and awarded on the basis of contractor qualifications as well as price.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

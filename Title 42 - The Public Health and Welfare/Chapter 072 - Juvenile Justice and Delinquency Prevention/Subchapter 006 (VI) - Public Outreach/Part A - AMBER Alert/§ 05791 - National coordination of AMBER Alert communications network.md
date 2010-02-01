@@ -2,7 +2,7 @@
 
 #### (a) Coordination within Department of Justice
 
-The Attorney General shall assign an officer of the Department of Justice to act as the national coordinator of the AMBER Alert communications network regarding abducted children. The officer so designated shall be known as theAMBER Alert Coordinator of the Department of Justice.
+The Attorney General shall assign an officer of the Department of Justice to act as the national coordinator of the AMBER Alert communications network regarding abducted children. The officer so designated shall be known as the AMBER Alert Coordinator of the Department of Justice.
 
 #### (b) Duties
 

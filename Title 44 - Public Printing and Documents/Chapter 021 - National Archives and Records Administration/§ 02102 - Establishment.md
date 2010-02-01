@@ -62,15 +62,19 @@ Sec. 104. (a) Except as otherwise provided in this Act \[Pub. L. 98–497\], the
 
 “(b) The transfer pursuant to this title \[title I (§§101–108) of Pub. L. 98–497\] of full-time personnel (except special Government employees) and part-time personnel holding permanent positions shall not cause any such employees to be separated or reduced in grade or compensation for one year after such transfer or after the effective date of this Act \[Apr. 1, 1985\], whichever is later.”
 
+#### Annual Capital Needs Assessment for Funding of Repairs and Restoration
+
+Pub. L. 111–8, div. D, title V, Mar. 11, 2009, 123 Stat. 668, provided that: “Hereafter, the National Archives and Records Administration shall include in its annual budget submission a comprehensive capital needs assessment for funding provided under the ‘Repairs and Restoration’ appropriations account to be updated yearly: <i>Provided</i>, That funds proposed under the ‘Repairs and Restoration’ appropriations account for each fiscal year shall be allocated to projects on a priority basis established under a comprehensive capital needs assessment.”
+
 #### Establishment of Positions of Director of the Center for Legislative Archives and Specialist in Congressional History
 
 Pub. L. 101–509, title IV, §1(a)–(c), Nov. 5, 1990, 104 Stat. 1416, 1417, as amended by Pub. L. 103–329, title V, §541, Sept. 30, 1994, 108 Stat. 2415, provided that:
 
-“(a)(1) The Director of the Center for Legislative Archives within the National Archives and Records Administration shall be established without regard to chapter 51 of title 5 and shall be paid at a rate determined without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 governing General Schedule classification and pay rates: <i>Provided</i>, That such pay shall be no less than 120 percent of the rate of pay for GS–15, step 1 of the General Schedule nor more than the rate of pay in effect for level one of the Senior Executive Schedule.
+“(a)(1) The Director of the Center for Legislative Archives within the National Archives and Records Administration shall be established without regard tochapter 51 of title 5 and shall be paid at a rate determined without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 governing General Schedule classification and pay rates: <i>Provided</i>, That such pay shall be no less than 120 percent of the rate of pay for GS–15, step 1 of the General Schedule nor more than the rate of pay in effect for level one of the Senior Executive Schedule.
 
 “(2) There is established within the Center for Legislative Archives within the National Archives and Records Administration the position of Specialist in Congressional History.
 
-“(b) There shall be made available from funds appropriated in each fiscal year to the National Archives and Records Administration, $20,000 for the administrativeexpenses of the Advisory Committee on the Records of Congress established under section 2701 of title 44, United States Code.
+“(b) There shall be made available from funds appropriated in each fiscal year to the National Archives and Records Administration, $20,000 for the administrative expenses of the Advisory Committee on the Records of Congress established under section 2701 of title 44, United States Code.
 
 “(c) There are authorized to be appropriated such sums as may be necessary to carry out the purposes of subsections (a) and (b) of this section.”
 

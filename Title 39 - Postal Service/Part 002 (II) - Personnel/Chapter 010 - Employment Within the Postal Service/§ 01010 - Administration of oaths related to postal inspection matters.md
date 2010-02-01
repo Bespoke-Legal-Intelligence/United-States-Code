@@ -1,6 +1,6 @@
 ### §1010. Administration of oaths related to postal inspection matters
 
-Officers and employees of the Postal Service performing duties related to the inspection of postal matters may administer oaths required or authorized by law or regulation with respect to any matter coming before them in the performance of their official duties.
+Officers and employees of the Postal Service performing duties related to the inspection of postal matters may administer oaths requiredor authorized by law or regulation with respect to any matter coming before them in the performance of their official duties.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 733.)
 

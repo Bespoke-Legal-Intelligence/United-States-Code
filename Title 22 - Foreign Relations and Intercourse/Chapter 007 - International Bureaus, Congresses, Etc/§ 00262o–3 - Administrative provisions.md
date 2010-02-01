@@ -32,7 +32,7 @@ No later than 60 calendar days after a meeting of the Board of Directors of a mu
 
 #### (d) Congressional briefings
 
-The Secretary of the Treasury or the designee of the Secretary should brief the appropriate congressional committees, when requested, on the steps that have been taken by the United States Executive Director at any multilateral development institution, and by any such institution, to implement the measures described in this section.
+The Secretary of the Treasury or the designee of the Secretary should brief the appropriatecongressional committees, when requested, on the steps that have been taken by the United States Executive Director at any multilateral development institution, and by any such institution, to implement the measures described in this section.
 
 #### (e) Publication of “no” votes and abstentions by the United States
 

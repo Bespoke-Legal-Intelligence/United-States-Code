@@ -22,7 +22,7 @@ At least once during every 2-year period, the Secretary shall prepare and submit
 
 &emsp;(7) information concerning Head Start staff, including salaries, education, training, experience, and staff turnover;
 
-&emsp;(8) information concerning children participating in programs that receive Head Start funding, including information on family income, racial and ethnic background, homelessness, whether the child is in foster care or was referred by a child welfare agency, disability, and receipt of benefits under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\];
+&emsp;(8) information concerning children participating in programs that receive Head Start funding, including information on family income, racial and ethnic background, homelessness, whether the child is in foster care or wasreferred by a child welfare agency, disability, and receipt of benefits under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\];
 
 &emsp;(9) the use and source of funds to extend Head Start services to operate full-day and year round;
 

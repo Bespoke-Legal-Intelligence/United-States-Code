@@ -62,7 +62,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 #### (3) Remedial actions; dismissal
 
-&emsp;Within 120 days after the date a complaint is filed under paragraph (1), the Commission shall determine whether the satellite carrier has met its obligations under subsections (b) through (e) of this section. If the Commission determines that the satellite carrier has failed to meet such obligations, the Commission shall order the satellite carrier to take appropriate remedial action. If the Commission determines that the satellite carrier has fully met the requirements of such subsections, the Commission shall dismiss the complaint.
+&emsp;Within 120 days after the date a complaint is filed under paragraph (1), the Commission shall determine whether the satellite carrierhas met its obligations under subsections (b) through (e) of this section. If the Commission determines that the satellite carrier has failed to meet such obligations, the Commission shall order the satellite carrier to take appropriate remedial action. If the Commission determines that the satellite carrier has fully met the requirements of such subsections, the Commission shall dismiss the complaint.
 
 #### (g) Carriage of local stations on a single dish
 
@@ -98,7 +98,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 &emsp;&emsp;&emsp;(i) offering to substitute the local network signal for the duplicating distant network signal; and
 
-&emsp;&emsp;&emsp;(ii) informing the subscriber that, if the subscriber fails to respond in 60 days, thesubscriber will lose the distant network signal but will be permitted to subscribe to the local network signal; and
+&emsp;&emsp;&emsp;(ii) informing the subscriber that, if the subscriber fails to respond in 60 days, the subscriber will lose the distant network signal but will be permitted to subscribe to the local network signal; and
 
 &emsp;&emsp;(B) if the subscriber—
 
@@ -178,7 +178,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 #### (A) Consent to disclosure
 
-&emsp;&emsp;Except as provided in subparagraph (B), a satellite carrier shall not disclose personally identifiable information concerning any subscriber without the prior written or electronic consent of the subscriber concernedand shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or satellite carrier.
+&emsp;&emsp;Except as provided in subparagraph (B), a satellite carrier shall not disclose personally identifiable information concerning any subscriber without the prior written or electronic consent of the subscriber concerned and shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or satellite carrier.
 
 #### (B) Exceptions
 

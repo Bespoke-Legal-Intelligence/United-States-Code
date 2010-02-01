@@ -132,7 +132,7 @@ Beginning in calendar year 2009, and each year thereafter, the Secretary shall s
 
 &emsp;(6) Waivers granted by the Secretary under section 1308–3a(b)(2) of title 7 in order to protect environmentally sensitive land of special significance.
 
-(Pub. L. 99–198, title XII, §1241, as added Pub. L. 107–171, title II, §2701, May 13, 2002, 116 Stat. 278; amended Pub. L. 108–7, div. N, title II, §§213, 216(c), Feb. 20, 2003, 117 Stat. 545, 546; Pub. L. 108–11, title II, §2106(a), Apr. 16, 2003, 117 Stat. 590; Pub. L. 108–199, div. H, §101, Jan. 23, 2004, 118 Stat. 434; Pub. L. 108–324, div. B, §101(e), Oct. 13, 2004, 118 Stat. 1235; Pub. L. 108–498, §1(a), Dec. 23, 2004, 118 Stat. 4020; Pub. L. 109–171, title I, §§1202(b), 1203(c), Feb. 8, 2006, 120 Stat. 5, 6; Pub. L. 110–234, title II, §§2701–2705, May 22, 2008, 122 Stat. 1071–1074; Pub. L. 110–246, §4(a), title II, §§2701–2705, June 18, 2008, 122 Stat. 1664, 1799–1802.)
+(Pub. L. 99–198, title XII, §1241, as added Pub. L. 107–171, title II, §2701, May 13, 2002, 116 Stat. 278;amended Pub. L. 108–7, div. N, title II, §§213, 216(c), Feb. 20, 2003, 117 Stat. 545, 546; Pub. L. 108–11, title II, §2106(a), Apr. 16, 2003, 117 Stat. 590; Pub. L. 108–199, div. H, §101, Jan. 23, 2004, 118 Stat. 434; Pub. L. 108–324, div. B, §101(e), Oct. 13, 2004, 118 Stat. 1235; Pub. L. 108–498, §1(a), Dec. 23, 2004, 118 Stat. 4020; Pub. L. 109–171, title I, §§1202(b), 1203(c), Feb. 8, 2006, 120 Stat. 5, 6; Pub. L. 110–234, title II, §§2701–2705, May 22, 2008, 122 Stat. 1071–1074; Pub. L. 110–246, §4(a), title II, §§2701–2705, June 18, 2008, 122 Stat. 1664, 1799–1802.)
 
 #### References in Text
 

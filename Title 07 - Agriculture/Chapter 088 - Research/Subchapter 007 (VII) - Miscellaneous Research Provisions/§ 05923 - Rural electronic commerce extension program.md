@@ -26,7 +26,7 @@ In this section:
 
 #### (4) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Agriculture, acting through the Administrator of the Cooperative State Research, Education, and Extension Service.
+&emsp;The term “Secretary” means the Secretary of Agriculture, acting through the Director ofthe National Institute of Food and Agriculture.
 
 #### (5) Small business
 
@@ -54,7 +54,7 @@ The Secretary shall establish a rural electronic commerce extension program to e
 
 &emsp;The selection criteria established for grants awarded under paragraph (1)(B) shall include—
 
-&emsp;&emsp;(A) the ability of an applicant to provide training and education on best practices,technology transfer, adoption, and use of electronic commerce in rural communities by small businesses and microenterprises;
+&emsp;&emsp;(A) the ability of an applicant to provide training and education on best practices, technology transfer, adoption, and use of electronic commerce in rural communities by small businesses and microenterprises;
 
 &emsp;&emsp;(B) the extent and geographic diversity of the area served by the proposed project or activity under the extension program;
 
@@ -90,10 +90,6 @@ There is authorized to be appropriated to carry out this section $60,000,000 for
 
 (Pub. L. 101–624, title XVI, §1670, as added Pub. L. 107–171, title VI, §6202, May 13, 2002, 116 Stat. 419; amended Pub. L. 110–234, title VII, §7511(c)(22), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(22), June 18, 2008, 122 Stat. 1664, 2031.)
 
-#### Amendment of Subsection (a)(4)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2031, provided that, effective Oct. 1, 2009, subsection (a)(4) of this section is amended by substituting “the Director of the National Institute of Food and Agriculture” for “the Administrator of the Cooperative State Research, Education, and Extension Service”.</i>
-
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -101,6 +97,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 #### Prior Provisions
 
 A prior section 5923, Pub. L. 101–624, title XVI, §1670, Nov. 28, 1990, 104 Stat. 3769; Pub. L. 102–237, title IV, §407(10), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 104–127, title VIII, §834, Apr. 4, 1996, 110 Stat. 1169, authorized establishment of livestock product safety and inspection program, prior to repeal by Pub. L. 105–185, title III, §302(c), June 23, 1998, 112 Stat. 563.
+
+#### Amendments
+
+2008—Subsec. (a)(4). Pub. L. 110–246, §7511(c)(22), substituted “Director of the National Institute of Food and Agriculture” for “Administrator of the Cooperative State Research, Education, and Extension Service”.
 
 #### Effective Date of 2008 Amendment
 

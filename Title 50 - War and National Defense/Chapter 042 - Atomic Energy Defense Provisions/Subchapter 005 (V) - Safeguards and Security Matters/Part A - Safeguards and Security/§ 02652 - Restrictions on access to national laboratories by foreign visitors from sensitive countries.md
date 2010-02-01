@@ -90,7 +90,7 @@ Section was formerly classified to section 7383c of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b)(2). Pub. L. 108–136, §3141(h)(3)(D)(i)(I), substituted “on November 4, 1999,” for “30 days after October 5, 1999,” in introductory provisions.
+2003—Subsec. (b)(2). Pub. L. 108–136, §3141(h)(3)(D)(i)(I), substituted “on November 4, 1999,” for “30 days after October 5, 1999,” in introductory provisions.
 
 Subsec. (b)(2)(A). Pub. L. 108–136, §3141(h)(3)(D)(i)(II), substituted “January 3, 2000” for “The date that is 90 days after October 5, 1999”.
 

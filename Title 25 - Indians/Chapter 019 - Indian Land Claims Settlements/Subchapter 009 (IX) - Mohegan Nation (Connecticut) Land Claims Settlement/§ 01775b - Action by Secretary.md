@@ -12,7 +12,7 @@ The Secretary is authorized to carry out the duties specified in subsection (b) 
 
 #### (b) Publication by Secretary
 
-If the Secretary makes a determination under subsection (a) of this section that the conditions specified in paragraphs (1) through (3) of that subsection have been met, the Secretary shall publish the determination, together with the State Agreement, in the Federal Register.
+If the Secretary makes a determination under subsection (a) of this section that the conditionsspecified in paragraphs (1) through (3) of that subsection have been met, the Secretary shall publish the determination, together with the State Agreement, in the Federal Register.
 
 #### (c) Effect of publication
 
@@ -80,7 +80,7 @@ Subject to subsection (g) of this section, any transfer of lands or natural reso
 
 #### References in Text
 
-The Indian Gaming Regulatory Act, referred to in subsec. (a)(1), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, as amended, which is classified principally to chapter 29 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+The Indian Gaming Regulatory Act, referred to in subsec. (a)(1), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, as amended, which is classified principally tochapter 29 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 The Trade and Intercourse Act of 1790, referred to in subsecs. (c)(2)(B) and (d)(2), is act July 22, 1790, ch. 33, 1 Stat. 137, which is not classified to the Code.
 

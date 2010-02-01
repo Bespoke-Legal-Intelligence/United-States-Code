@@ -204,7 +204,7 @@ In this section:
 
 #### (E) Foreign nationals eligible
 
-&emsp;&emsp;The Secretary may under this section award contracts, grants, and cooperativeagreements to, and may enter into other transactions with, highly qualified foreign national persons outside the United States, alone or in collaboration with American participants, when such transactions may inure to the benefit of the American people.
+&emsp;&emsp;The Secretary may under this section award contracts, grants, and cooperative agreements to, and may enter into other transactions with, highly qualified foreign national persons outside the United States, alone or in collaboration with American participants, when such transactions may inure to the benefit of the American people.
 
 #### (F) Establishment of research centers
 
@@ -224,7 +224,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) without regard to those provisions of title 5 governing appointments in the competitive service, appoint highly qualified individuals to scientific or professional positions in BARDA, such as program managers, to carry out this section; and
 
-&emsp;&emsp;&emsp;&emsp;(II) compensate them in the same manner and subject to the same terms and conditions in which individuals appointed under section 9903 of such title are compensated, without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+&emsp;&emsp;&emsp;&emsp;(II) compensate them in the same manner and subject to the same terms andconditions in which individuals appointed under section 9903 of such title are compensated, without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
 #### (ii) Manner of exercise of authority
 
@@ -280,7 +280,7 @@ In this section:
 
 #### (2) Review
 
-&emsp;Notwithstanding section 14 of the Federal Advisory Committee Act, a working group of BARDA under this section and the National Biodefense Science Board under section 247d–7fof this title shall each terminate on the date that is 5 years after the date on which each such group or Board, as applicable, was established. Such 5-year period may be extended by the Secretary for one or more additional 5-year periods if the Secretary determines that any such extension is appropriate.
+&emsp;Notwithstanding section 14 of the Federal Advisory Committee Act, a working group of BARDA under this section and the National Biodefense Science Board under section 247d–7f of this title shall each terminate on the date that is 5 years after the date on which each such group or Board, as applicable, was established. Such 5-year period may be extended by the Secretary for one or more additional 5-year periods if the Secretary determines that any such extension is appropriate.
 
 (July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865.)
 

@@ -12,7 +12,7 @@ For the purpose of all subchapters of this chapter, subject to the limitations o
 
 &emsp;(4) makes membership available on a voluntary basis, without any social, political, racial, or religious discrimination and without any discrimination on the basis of age, sex, or marital status, to all persons who can make use of its services and are willing to accept the responsibilities of membership, subject only to limitations under applicable Federal or State laws or regulations;
 
-&emsp;(5) in the case of primary cooperative organizations restricts its voting control to members or voting stockholders on a one vote per person basis (except that this requirement shall not apply to any housing cooperative in existence on March 21, 1980, which did not meet such requirement on such date) and takes positive steps to insure economic democracy and maximum participation by members of the cooperative including the holdingof annual meetings and, in the case of organizations owned by groups of cooperatives, provides positive protections to insure economic democracy; and
+&emsp;(5) in the case of primary cooperative organizations restricts its voting control to members or voting stockholders on a one vote per person basis (except that this requirement shall not apply to any housing cooperative in existence on March 21, 1980, which did not meet such requirement on such date) and takes positive steps to insure economic democracy and maximum participation by members of the cooperative including the holding of annual meetings and, in the case of organizations owned by groups of cooperatives, provides positive protections to insure economic democracy; and
 
 &emsp;(6) is not a credit union, mutual savings bank, or mutual savings and loan association.
 

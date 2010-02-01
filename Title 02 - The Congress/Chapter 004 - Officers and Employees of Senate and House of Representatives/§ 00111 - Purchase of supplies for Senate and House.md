@@ -10,5 +10,5 @@ Bureau of Federal Supply and its functions and duties transferred to Administrat
 
 Effective Jan. 1, 1947, Procurement Division of Treasury Department changed to Bureau of Federal Supply by former regulation §5.7 of subpart A of Part 5 of Title 41, Public Contracts, 11 F.R. 13638, issued by the Secretary of the Treasury.
 
-Ex. Ord. No. 6166, abolished General Supply Committee of Treasury Department and vested it in Procurement Division. Public Buildings Branch of Procurement Division was in turn changed to Public Buildings Administration to be within Federal Works Agency byReorg. Plan No. I, §§301, 303, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, 1427.
+Ex. Ord. No. 6166, abolished General Supply Committee of Treasury Department and vested it in Procurement Division. Public Buildings Branch of Procurement Division was in turn changed to Public Buildings Administration to be within Federal Works Agency by Reorg. Plan No. I, §§301, 303, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, 1427.
 

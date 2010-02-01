@@ -56,7 +56,7 @@ If for any taxable year a corporation has a net capital gain and any rate of tax
 
 &emsp;&emsp;&emsp;<b>(3) in the case of real estate investment trusts, see section 857(b)(3)(A).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 320; Mar. 13, 1956, ch. 83, §5(7), 70 Stat. 49; Pub. L. 86–69, §3(f)(2), June 25, 1959, 73 Stat. 140; Pub. L. 87–834, §8(g)(3), Oct. 16, 1962, 76 Stat. 999; Pub. L. 91–172, title V, §511(b), Dec. 30, 1969, 83 Stat. 635; Pub. L. 94–455, title XIX, §1901(a)(135), (b)(33)(L), Oct. 4, 1976, 90 Stat. 1786, 1801; Pub. L. 95–600, title IV, §§401(a), 403(a), (b), Nov. 6, 1978, 92 Stat. 2866, 2868; Pub. L. 96–222, title I, §104(a)(2)(B), (3)(A), Apr. 1, 1980, 94 Stat. 214, 215; Pub. L. 98–369, div. A, title II, §211(b)(16), July 18, 1984, 98 Stat. 756; Pub. L. 99–514, title III, §311(a), title X, §1024(c)(14), Oct. 22, 1986, 100 Stat. 2219, 2408; Pub. L. 100–647, title I, §1003(c)(1), title II, §2004(<i>l</i>), Nov. 10, 1988, 102 Stat. 3384, 3606; Pub. L. 103–66, title XIII, §13221(c)(2), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1703(f), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title III, §314(a), Aug. 5, 1997, 111 Stat. 842; Pub. L. 110–234, title XV, §15311(a), May 22, 2008, 122 Stat. 1502; Pub. L. 110–246, §4(a), title XV, §15311(a), June 18, 2008, 122 Stat. 1664, 2264.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 320; Mar. 13, 1956, ch. 83, §5(7), 70 Stat. 49; Pub. L. 86–69, §3(f)(2), June 25, 1959, 73 Stat. 140; Pub. L. 87–834, §8(g)(3), Oct. 16, 1962, 76 Stat. 999; Pub. L. 91–172, title V, §511(b), Dec. 30, 1969, 83 Stat. 635; Pub. L. 94–455, title XIX, §1901(a)(135), (b)(33)(L), Oct. 4, 1976, 90Stat. 1786, 1801; Pub. L. 95–600, title IV, §§401(a), 403(a), (b), Nov. 6, 1978, 92 Stat. 2866, 2868; Pub. L. 96–222, title I, §104(a)(2)(B), (3)(A), Apr. 1, 1980, 94 Stat. 214, 215; Pub. L. 98–369, div. A, title II, §211(b)(16), July 18, 1984, 98 Stat. 756; Pub. L. 99–514, title III, §311(a), title X, §1024(c)(14), Oct. 22, 1986, 100 Stat. 2219, 2408; Pub. L. 100–647, title I, §1003(c)(1), title II, §2004(<i>l</i>), Nov. 10, 1988, 102 Stat. 3384, 3606; Pub. L. 103–66, title XIII, §13221(c)(2), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1703(f), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title III, §314(a), Aug. 5, 1997, 111 Stat. 842; Pub. L. 110–234, title XV, §15311(a), May 22, 2008, 122 Stat. 1502; Pub. L. 110–246, §4(a), title XV, §15311(a), June 18, 2008, 122 Stat. 1664, 2264.)
 
 #### References in Text
 
@@ -202,7 +202,7 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1980 Amendment
 
-Amendment by section 104(a)(3)(A) of Pub. L. 96–222 effective, except as otherwise provided, as if it had beenincluded in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
+Amendment by section 104(a)(3)(A) of Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
 Section 104(b)(1) of Pub. L. 96–222 provided that: “The amendments made by subsection (a)(2)(B) \[amending this section\] shall apply to taxable years beginning in 1978.”
 

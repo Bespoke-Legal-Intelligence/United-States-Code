@@ -4,7 +4,7 @@
 
 #### (1) Exception to State statutes
 
-&emsp;In the case of any action brought under State law for personal injury, or property damages, which are caused or contributed to by exposure to any hazardous substance, or pollutant or contaminant, released into the environment from a facility, if the applicable limitations period for such action (as specified in the State statute of limitations or under common law) provides a commencement date which is earlier than the federally required commencement date, such period shall commence at the federally required commencement date in lieu of the date specified in such State statute.
+&emsp;In the case of any action brought under State law for personal injury, or propertydamages, which are caused or contributed to by exposure to any hazardous substance, or pollutant or contaminant, released into the environment from a facility, if the applicable limitations period for such action (as specified in the State statute of limitations or under common law) provides a commencement date which is earlier than the federally required commencement date, such period shall commence at the federally required commencement date in lieu of the date specified in such State statute.
 
 #### (2) State law generally applicable
 
@@ -42,7 +42,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(i) In the case of a minor, the date on which the minor reaches the age of majority, as determined by State law, or has a legal representative appointed.
 
-&emsp;&emsp;&emsp;(ii) In the case of an incompetent individual, the date on which such individualbecomes competent or has had a legal representative appointed.
+&emsp;&emsp;&emsp;(ii) In the case of an incompetent individual, the date on which such individual becomes competent or has had a legal representative appointed.
 
 (Pub. L. 96–510, title III, §309, as added Pub. L. 99–499, title II, §203(a), Oct. 17, 1986, 100 Stat. 1695.)
 

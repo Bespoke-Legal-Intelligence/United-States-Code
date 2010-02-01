@@ -104,7 +104,7 @@ Composition.—The Task Force shall be composed of 12 members, of whom—
 
 &emsp;“(1) three members shall be appointed by the Secretary of Agriculture, two of whom shall be representatives of the Forest Service and the Soil Conservation Service, respectively;
 
-&emsp;“(2) two members shall be appointed by the Secretary of the Interior as representatives of the UnitedStates Fish and Wildlife Service and the National Park Service, respectively;
+&emsp;“(2) two members shall be appointed by the Secretary of the Interior as representatives of the United States Fish and Wildlife Service and the National Park Service, respectively;
 
 &emsp;“(3) six members shall be appointed by the Governor of Hawaii, of whom—
 

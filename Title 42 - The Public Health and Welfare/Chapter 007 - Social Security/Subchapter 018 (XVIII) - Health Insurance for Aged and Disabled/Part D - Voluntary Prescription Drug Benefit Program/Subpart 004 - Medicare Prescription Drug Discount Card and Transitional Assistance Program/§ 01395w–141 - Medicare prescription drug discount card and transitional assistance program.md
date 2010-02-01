@@ -136,7 +136,7 @@ For purposes of this section:
 
 #### (A) Continuous open enrollment
 
-&emsp;&emsp;Subject to the succeeding provisions of this paragraph and subsection (h)(9) of thissection, a discount card eligible individual who is not enrolled in an endorsed discount card program and is residing in a State may enroll in any such endorsed program—
+&emsp;&emsp;Subject to the succeeding provisions of this paragraph and subsection (h)(9) of this section, a discount card eligible individual who is not enrolled in an endorsed discount card program and is residing in a State may enroll in any such endorsed program—
 
 &emsp;&emsp;&emsp;(i) that serves residents of the State; and
 
@@ -238,7 +238,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) includes educational materials on the variability of discounts on prices of covered discount card drugs under an endorsed program.
 
-> &emsp;&emsp;The dissemination of information under clause (i) shall, to the extent practicable, be coordinated with the dissemination of educational information on other medicare options.
+> &emsp;&emsp;The dissemination of information under clause (i) shall, to the extent practicable, becoordinated with the dissemination of educational information on other medicare options.
 
 #### (C) Special rule for initial enrollment date under the program
 
@@ -266,7 +266,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;A prescription drug card sponsor offering an endorsed discount card program shall provide that each pharmacy that dispenses a covered discount card drug shall inform a discount card eligible individual enrolled in the program of any differential between the price of the drug to the enrollee and the price of the lowest priced generic covereddiscount card drug under the program that is therapeutically equivalent and bioequivalent and available at such pharmacy.
+&emsp;&emsp;A prescription drug card sponsor offering an endorsed discount card program shall provide that each pharmacy that dispenses a covered discount card drug shall inform a discount card eligible individual enrolled in the program of any differential between the price of the drug to the enrollee and the price of the lowest priced generic covered discount card drug under the program that is therapeutically equivalent and bioequivalent and available at such pharmacy.
 
 #### (B) Timing of notice
 
@@ -444,7 +444,7 @@ For purposes of this section:
 
 #### (A) Waiver permitted by pharmacy
 
-&emsp;&emsp;Nothing in this section shall be construed as precluding a pharmacy from reducing or waiving the application of coinsurance imposed under paragraph (1)(B) in accordance with section 1320a–7b(b)(3)(G) of this title.
+&emsp;&emsp;Nothing in this section shall be construed as precluding a pharmacy from reducing orwaiving the application of coinsurance imposed under paragraph (1)(B) in accordance with section 1320a–7b(b)(3)(G) of this title.
 
 #### (B) Optional payment of coinsurance by State
 
@@ -476,7 +476,7 @@ For purposes of this section:
 
 #### (6) No impact on benefits under other programs
 
-&emsp;The availability of negotiated prices or transitional assistance under this section shall not be treated as benefits or otherwise taken intoaccount in determining an individual's eligibility for, or the amount of benefits under, any other Federal program.
+&emsp;The availability of negotiated prices or transitional assistance under this section shall not be treated as benefits or otherwise taken into account in determining an individual's eligibility for, or the amount of benefits under, any other Federal program.
 
 #### (7) Disregard for purposes of part C
 
@@ -552,7 +552,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of the program under this section, the operations of an endorsed program are covered functions and a prescription drug card sponsor is a covered entity forpurposes of applying part C of subchapter XI of this chapter and all regulatory provisions promulgated thereunder, including regulations (relating to privacy) adopted pursuant to the authority of the Secretary under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note).<sup>1</sup>
+&emsp;&emsp;For purposes of the program under this section, the operations of an endorsed program are covered functions and a prescription drug card sponsor is a covered entity for purposes of applying part C of subchapter XI of this chapter and all regulatory provisions promulgated thereunder, including regulations (relating to privacy) adopted pursuant to the authority of the Secretary under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note).<sup>1</sup>
 
 #### (B) Waiver authority
 
@@ -612,7 +612,7 @@ For purposes of this section:
 
 #### (3) Sanctions for abusive practices
 
-&emsp;The Secretary may implement intermediate sanctions or may revoke the endorsement of a program offered by a sponsor under this section if the Secretary determines that the sponsor or the program no longer meets the applicable requirements of this section or that the sponsor has engaged in false or misleadingmarketing practices. The Secretary may impose a civil money penalty in an amount not to exceed $10,000 for conduct that a party knows or should know is a violation of this section. The provisions of section 1320a–7a of this title (other than subsections (a) and (b) and the second sentence of subsection (f)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;The Secretary may implement intermediate sanctions or may revoke the endorsement of a program offered by a sponsor under this section if the Secretary determines that the sponsor or the program no longer meets the applicable requirements of this section or that the sponsor has engaged in false or misleading marketing practices. The Secretary may impose a civil money penalty in an amount not to exceed $10,000 for conduct that a party knows or should know is a violation of this section. The provisions of section 1320a–7a of this title (other than subsections (a) and (b) and the second sentence of subsection (f)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (j) Treatment of territories
 
@@ -644,7 +644,7 @@ For purposes of this section:
 
 #### (D) Continued availability of funds
 
-&emsp;&emsp;Amounts made available to a State under this paragraph which are not used under this paragraph shall be added to the amount available to that State for purposes of carrying out section 1396u–5(e) of this title.
+&emsp;&emsp;Amounts made available to a State under this paragraph which are not used under this paragraph shall be added to the amountavailable to that State for purposes of carrying out section 1396u–5(e) of this title.
 
 #### (k) Funding
 

@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 161, acts June 14, 1930, ch. 488, §1, 46 Stat. 585; Oct. 15, 1949, ch. 695, §6(a), 63 Stat. 881, established a Bureau of Narcotics in the Department of the Treasury and provided for appointment of a Commissioner of Narcotics for the Bureau with duty of making an annual report to Congress.
+Section 161, acts June 14, 1930, ch. 488, §1, 46 Stat. 585; Oct. 15, 1949, ch. 695, §6(a), 63 Stat. 881, established aBureau of Narcotics in the Department of the Treasury and provided for appointment of a Commissioner of Narcotics for the Bureau with duty of making an annual report to Congress.
 
 Section 162, acts June 14, 1930, ch. 488, §2, 46 Stat. 585; June 26, 1930, ch. 623, §1, 46 Stat. 819; Oct. 27, 1970, Pub. L. 91–513, title III, §1101(a)(4), 84 Stat. 1291, provided for appointment and compensation of a deputy commissioner and other personnel for the Bureau of Narcotics, required the deputy to be an acting Commissioner during absence or disability of the Commissioner or a vacancy in the office, and authorized designation of a member of the Treasury Department as an acting Commissioner in event there is no Commissioner or deputy commissioner.
 

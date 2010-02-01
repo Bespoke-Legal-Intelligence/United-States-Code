@@ -22,7 +22,7 @@ Words “in a jail” which followed “imprisonment” and preceded “for not 
 
 Language relating to receiving stolen property is from said section 101.
 
-Words “or aid in concealing” were omitted as unnecessary in view of definitive section 2 of this title. Procedural language at end of said section 101 “and suchperson may be tried either before or after the conviction of the principal offender” was transferred to and rephrased in section 3435 of this title.
+Words “or aid in concealing” were omitted as unnecessary in view of definitive section 2 of this title. Procedural language at end of said section 101 “and such person may be tried either before or after the conviction of the principal offender” was transferred to and rephrased in section 3435 of this title.
 
 Words “or any corporation in which the United States of America is a stockholder” in said section 82 were omitted as unnecessary in view of definition of “agency” in section 6 of this title.
 

@@ -50,11 +50,11 @@ In any action under subsection (a) or (b) of this section, the United States may
 
 #### (2) United States actions in courts outside the United States
 
-&emsp;The Attorney General is authorized to seek any and all available redress in any international tribunal for indemnification to the United States for any liability imposed on the United States by virtue of the actions of an inspector of the Technical Secretariat, and to seek such redress in the courts of the foreign nation from which the inspector is a national.
+&emsp;The Attorney General is authorized to seek any and all available redress in any international tribunal for indemnification to the United States for any liability imposed on the United States by virtue of the actions of an inspector of the Technical Secretariat, and toseek such redress in the courts of the foreign nation from which the inspector is a national.
 
 #### (3) Actions brought by individuals and businesses
 
-&emsp;Notwithstanding any other law, any national of the United States, or any business entity organized and operating under the laws of the United States, may bring a civil action in a United States District Court for money damages against any foreign national or anybusiness entity organized and operating under the laws of a foreign nation for an unauthorized or unlawful acquisition, receipt, transmission, or use of property by or on behalf of such foreign national or business entity as a result of any tort under the Constitution or any Federal or State law arising from acts or omissions by any officer or employee of the United States or any member of an inspection team of the Technical Secretariat taken pursuant to or under the color of the Convention or this chapter.
+&emsp;Notwithstanding any other law, any national of the United States, or any business entity organized and operating under the laws of the United States, may bring a civil action in a United States District Court for money damages against any foreign national or any business entity organized and operating under the laws of a foreign nation for an unauthorized or unlawful acquisition, receipt, transmission, or use of property by or on behalf of such foreign national or business entity as a result of any tort under the Constitution or any Federal or State law arising from acts or omissions by any officer or employee of the United States or any member of an inspection team of the Technical Secretariat taken pursuant to or under the color of the Convention or this chapter.
 
 #### (e) Recoupment
 
@@ -112,7 +112,7 @@ In any action under subsection (a) or (b) of this section, the United States may
 
 #### (i) Arms export transactions
 
-&emsp;&emsp;&emsp;The United States Government shall not sell a country described in subparagraph (A) any item on the United States Munitions List, shall terminate sales of any defense articles, defense services, or design and construction services to that country under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], and shall terminate all foreign military financing for that country under the Arms Export Control Act.
+&emsp;&emsp;&emsp;The United States Government shall not sell a country described in subparagraph\(A) any item on the United States Munitions List, shall terminate sales of any defense articles, defense services, or design and construction services to that country under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], and shall terminate all foreign military financing for that country under the Arms Export Control Act.
 
 #### (ii) Denial of certain licenses
 

@@ -8,7 +8,7 @@
 
 (B) In determining the amount of a civil penalty under subparagraph (A), the court shall take into account the degree of culpability, any history of prior such conduct, ability to pay, effect on ability to continue to do business, and such other matters as justice may require.
 
-(3) Notwithstanding paragraph (2), a court may not impose any civil penalty on a person for a violation of section 1681s–2(a)(1) of this title unless the person has been enjoined from committing the violation, or ordered not to commit the violation, in an action or proceeding brought by or on behalf of the Federal Trade Commission, and has violated the injunction or order, and the court may not impose any civil penalty for any violation occurring before the date of the violation of the injunction or order.
+(3) Notwithstanding paragraph (2), a court may not impose any civil penalty on a person for a violation of section 1681s–2(a)(1) of this title unless the person has been enjoined fromcommitting the violation, or ordered not to commit the violation, in an action or proceeding brought by or on behalf of the Federal Trade Commission, and has violated the injunction or order, and the court may not impose any civil penalty for any violation occurring before the date of the violation of the injunction or order.
 
 #### (b) Enforcement by other agencies
 
@@ -18,7 +18,7 @@ Compliance with the requirements imposed under this subchapter with respect to c
 
 &emsp;&emsp;(A) national banks, and Federal branches and Federal agencies of foreign banks, by the Office of the Comptroller of the Currency;
 
-&emsp;&emsp;(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreignbanks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25A of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\], by the Board of Governors of the Federal Reserve System; and
+&emsp;&emsp;(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25A of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\], by the Board of Governors of the Federal Reserve System; and
 
 &emsp;&emsp;(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;
 
@@ -70,7 +70,7 @@ Compliance with the requirements imposed under this subchapter with respect to c
 
 #### (4) Limitation on State action while Federal action pending
 
-&emsp;If the Federal Trade Commission or the appropriate Federal regulator has instituted a civil action or an administrative action under section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\] for a violation of this subchapter, no State may, during the pendency of such action, bring an action under this section against any defendant named in the complaint of the Commission or the appropriate Federal regulator for any violation of this subchapter that is alleged in that complaint.
+&emsp;If the Federal Trade Commission or the appropriate Federal regulator has instituted a civil action or an administrative action undersection 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\] for a violation of this subchapter, no State may, during the pendency of such action, bring an action under this section against any defendant named in the complaint of the Commission or the appropriate Federal regulator for any violation of this subchapter that is alleged in that complaint.
 
 #### (5) Limitations on State actions for certain violations
 

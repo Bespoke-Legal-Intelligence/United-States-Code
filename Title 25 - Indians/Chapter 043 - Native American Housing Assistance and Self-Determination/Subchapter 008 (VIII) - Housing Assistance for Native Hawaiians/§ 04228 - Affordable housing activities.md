@@ -54,7 +54,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A housing plan submitted under section 4223 of this title may authorize a preference, for housing or housing assistance provided through affordable housing activities assisted with grant amounts provided under this subchapter to be provided,to the extent practicable, to families that are eligible to reside on the Hawaiian Home Lands.
+&emsp;&emsp;&emsp;A housing plan submitted under section 4223 of this title may authorize a preference, for housing or housing assistance provided through affordable housing activities assisted with grant amounts provided under this subchapter to be provided, to the extent practicable, to families that are eligible to reside on the Hawaiian Home Lands.
 
 #### (ii) Application
 

@@ -6,7 +6,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 02161 - John W. McCormack Residential Page School](%C2%A7%2002161%20-%20John%20W.%20McCormack%20Residential%20Page%20School.md)
-- [&sect; 02162 - Capitol power plant](%C2%A7%2002162%20-%20Capitol%20power%20plant.md)
+- [&sect; 02162 - Capitol Power Plant](%C2%A7%2002162%20-%20Capitol%20Power%20Plant.md)
 - [&sect; 02162a - Promoting maximum efficiency in operation of Capitol Power Plant](%C2%A7%2002162a%20-%20Promoting%20maximum%20efficiency%20in%20operation%20of%20Capitol%20Power%20Plant.md)
 - [&sect; 02163 - Capitol Grounds shuttle service](%C2%A7%2002163%20-%20Capitol%20Grounds%20shuttle%20service.md)
 - [&sect; 02164 - Transportation of House Pages by Capitol Grounds shuttle service](%C2%A7%2002164%20-%20Transportation%20of%20House%20Pages%20by%20Capitol%20Grounds%20shuttle%20service.md)

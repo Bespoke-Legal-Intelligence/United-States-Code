@@ -6,7 +6,7 @@ For the purpose of this chapter—
 
 &emsp;(2) The term “commercial activity” means all activities of industry and trade, including, but not limited to, the buying or selling of commodities and activities conducted for the purpose of facilitating such buying and selling: <i>Provided, however</i>, That it does not include exhibition of commodities by museums or similar cultural or historical organizations.
 
-&emsp;(3) The terms “conserve”, “conserving”, and “conservation” mean to use and the use of allmethods and procedures which are necessary to bring any endangered species or threatened species to the point at which the measures provided pursuant to this chapter are no longer necessary. Such methods and procedures include, but are not limited to, all activities associated with scientific resources management such as research, census, law enforcement, habitat acquisition and maintenance, propagation, live trapping, and transplantation, and, in the extraordinary case where population pressures within a given ecosystem cannot be otherwise relieved, may include regulated taking.
+&emsp;(3) The terms “conserve”, “conserving”, and “conservation” mean to use and the use of all methods and procedures which are necessary to bring any endangered species or threatened species to the point at which the measures provided pursuant to this chapter are no longer necessary. Such methods and procedures include, but are not limited to, all activities associated with scientific resources management such as research, census, law enforcement, habitat acquisition and maintenance, propagation, live trapping, and transplantation, and, in the extraordinary case where population pressures within a given ecosystem cannot be otherwise relieved, may include regulated taking.
 
 &emsp;(4) The term “Convention” means the Convention on International Trade in Endangered Species of Wild Fauna and Flora, signed on March 3, 1973, and the appendices thereto.
 
@@ -56,7 +56,7 @@ For the purpose of this chapter—
 
 &emsp;(19) The term “take” means to harass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect, or to attempt to engage in any such conduct.
 
-&emsp;(20) The term “threatened species” means any species which is likely to become an endangered species within the foreseeable futurethroughout all or a significant portion of its range.
+&emsp;(20) The term “threatened species” means any species which is likely to become an endangered species within the foreseeable future throughout all or a significant portion of its range.
 
 &emsp;(21) The term “United States”, when used in a geographical context, includes all States.
 
@@ -74,7 +74,7 @@ Reorganization Plan Numbered 4 of 1970, referred to in par. (15), is Reorg. Plan
 
 Par. (15). Pub. L. 100–478, §1001(b), inserted “also” before “means the Secretary of Agriculture”.
 
-1982—Par. (11). Pub. L. 97–304 struck out par. (11) which defined “irresolvable conflict” as, with respect to any action authorized, funded, or carried out by a Federal agency, a set of circumstances under which, after consultation as required in section 1536(a) of this title, completion of such action would violate section 1536(a)(2) of this title.
+1982—Par. (11). Pub. L. 97–304 struck out par. (11) which defined “irresolvable conflict” as, with respectto any action authorized, funded, or carried out by a Federal agency, a set of circumstances under which, after consultation as required in section 1536(a) of this title, completion of such action would violate section 1536(a)(2) of this title.
 
 1979—Par. (11). Pub. L. 96–159 substituted “action would violate section 1536(a)(2) of this title” for “action would (A) jeopardize the continued existence of an endangered or threatened species, or (B) result in the adverse modification or destruction of a critical habitat”.
 

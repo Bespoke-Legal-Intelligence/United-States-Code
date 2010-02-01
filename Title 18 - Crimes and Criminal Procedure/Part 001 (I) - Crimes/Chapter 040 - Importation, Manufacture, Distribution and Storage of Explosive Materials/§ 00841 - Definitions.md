@@ -40,7 +40,7 @@ As used in this chapter—
 
 &emsp;&emsp;(3) Para-Mononitrotoluene (p-MNT), C<sub>7</sub>H<sub>7</sub>NO<sub>2</sub>, molecular weight 137, when the minimum concentration in the finished explosive is 0.5 percent by mass;
 
-&emsp;&emsp;(4) Ortho-Mononitrotoluene (o-MNT), C<sub>7</sub>H<sub>7</sub>NO<sub>2</sub>, molecular weight 137, when the minimum concentration in the finished explosive is 0.5 percent by mass; and
+&emsp;&emsp;(4) Ortho-Mononitrotoluene (o-MNT), C<sub>7</sub>H<sub>7</sub>NO<sub>2</sub>, molecular weight 137, when theminimum concentration in the finished explosive is 0.5 percent by mass; and
 
 &emsp;&emsp;(5) any other substance in the concentration specified by the Attorney General, after consultation with the Secretary of State and the Secretary of Defense, that has been added to the table in part 2 of the Technical Annex to the Convention on the Marking of Plastic Explosives.
 
@@ -80,7 +80,7 @@ Amendment by section 1122(a) of Pub. L. 107–296 effective 180 days after Nov. 
 
 #### Effective Date of 1996 Amendment
 
-Section 607 of title VI of Pub. L. 104–132 provided that: “Except as otherwise provided in this title \[amending this section, sections 842, 844, and 845 of this title, and section 1595a of Title 19, Customs Duties, and enacting provisions set out as a note below\], this titleand the amendments made by this title shall take effect 1 year after the date of enactment of this Act \[Apr. 24, 1996\].”
+Section 607 of title VI of Pub. L. 104–132 provided that: “Except as otherwise provided in this title \[amending this section, sections 842, 844, and 845 of this title, and section 1595a of Title 19, Customs Duties, and enacting provisions set out as a note below\], this title and the amendments made by this title shall take effect 1 year after the date of enactment of this Act \[Apr. 24, 1996\].”
 
 #### Effective Date
 
@@ -126,7 +126,7 @@ Purpose.—The purpose of this title \[amending this section, sections 842, 844,
 
 #### Marking, Rendering Inert, and Licensing of Explosive Materials
 
-Section 732 of Pub. L. 104–132, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §113\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1272, required study by the Secretary of the Treasury of the marking, rendering inert, and licensing of explosive materials not later than 12 months after Apr. 24, 1996, report to Congress on results and recommendations, hearings by Congress to review study results, promulgation of regulations, and special study on the tagging of smokeless and black powder and report two years after Sept. 30, 1996.
+Section 732 of Pub. L. 104–132, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §113\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–61, title I, Oct.10, 1997, 111 Stat. 1272, required study by the Secretary of the Treasury of the marking, rendering inert, and licensing of explosive materials not later than 12 months after Apr. 24, 1996, report to Congress on results and recommendations, hearings by Congress to review study results, promulgation of regulations, and special study on the tagging of smokeless and black powder and report two years after Sept. 30, 1996.
 
 #### Congressional Declaration of Purpose
 

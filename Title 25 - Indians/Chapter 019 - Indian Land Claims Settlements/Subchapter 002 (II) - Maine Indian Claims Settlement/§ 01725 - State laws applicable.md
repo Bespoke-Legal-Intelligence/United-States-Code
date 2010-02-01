@@ -16,7 +16,7 @@ Except as provided in section 1727(e) and section 1724(d)(4) of this title, all 
 
 #### (c) Federal criminal jurisdiction inapplicable in State of Maine under certain sections of title 18; effective date: publication in Federal Register
 
-The United States shall not have any criminal jurisdiction in the State of Maine under the provisions of sections 1152, 1153, 1154, 1155, 1156, 1160, 1161, and 1165 of title 18. This provision shall not be effective until sixty days after the publication of notice in the Federal Register as required by section 1723(d) of this title.
+The United States shall not have any criminal jurisdiction in the State of Maine under the provisions of sections 1152, 1153, 1154, 1155, 1156, 1160,1161, and 1165 of title 18. This provision shall not be effective until sixty days after the publication of notice in the Federal Register as required by section 1723(d) of this title.
 
 #### (d) Capacity to sue and be sued in State of Maine and Federal courts; section 1362 of title 28 applicable to civil actions; immunity from suits provided in Maine Implementing Act; assignment of quarterly income payments from settlement fund to judgment creditors for satisfaction of judgments
 

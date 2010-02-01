@@ -36,7 +36,7 @@ Any depository institution lacking Federal deposit insurance shall, within the U
 
 #### (A) In general
 
-&emsp;&emsp;Include clearly and conspicuously in all advertising, except as provided in subparagraph (B); and at each station or window where deposits are normally received, its principal place of business and all its branches where it accepts deposits or opens accounts (excluding automated teller machines or point of sale terminals), and on its main Internet page, a notice that the institution is not federally insured.
+&emsp;&emsp;Include clearly and conspicuously in all advertising, except as provided in subparagraph (B); and at each station or window where deposits are normally received, its principal place of business and all its branches where it accepts deposits or opens accounts (excluding automated teller machines or point of sale terminals), and on itsmain Internet page, a notice that the institution is not federally insured.
 
 #### (B) Exceptions
 

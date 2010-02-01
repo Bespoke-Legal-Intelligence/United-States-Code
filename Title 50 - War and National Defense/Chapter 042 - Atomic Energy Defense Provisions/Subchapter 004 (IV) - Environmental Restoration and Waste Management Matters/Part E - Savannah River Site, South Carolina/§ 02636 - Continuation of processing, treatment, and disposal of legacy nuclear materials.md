@@ -6,5 +6,5 @@ The Secretary of Energy shall continue operations and maintain a high state of r
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–136, §3141(g)(23)(D)(iii), inserted section catchline and struck out former subsec. heading.
+2003—Pub. L. 108–136, §3141(g)(23)(D)(iii), inserted section catchline and struck out former subsec. heading.
 

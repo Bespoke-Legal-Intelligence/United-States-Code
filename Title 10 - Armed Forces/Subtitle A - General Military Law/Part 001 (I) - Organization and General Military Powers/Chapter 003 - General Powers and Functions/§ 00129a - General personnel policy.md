@@ -18,7 +18,7 @@ Pub. L. 104–106, div. A, title X, §1032, Feb. 10, 1996, 110 Stat. 429, as ame
 
 #### Prohibition on Use of Funds To Assign Supervisor's Title or Grade Based Upon Number of People Supervised
 
-Pub. L. 104–61, title VIII, §8031, Dec. 1, 1995, 109 Stat. 658, provided that: “None of the funds appropriated during the current fiscal year and hereafter, may be used by the Department of Defense to assign a supervisor's title or grade when the number of people he or she supervises is considered as a basis for this determination: <i>Provided</i>, That savings that result from this provision are represented as such in future budget proposals.”
+Pub. L. 104–61, title VIII, §8031, Dec. 1, 1995, 109 Stat. 658, provided that: “None of the funds appropriated during the current fiscal year and hereafter, may be usedby the Department of Defense to assign a supervisor's title or grade when the number of people he or she supervises is considered as a basis for this determination: <i>Provided</i>, That savings that result from this provision are represented as such in future budget proposals.”
 
 Similar provisions were contained in the following prior appropriation acts:
 

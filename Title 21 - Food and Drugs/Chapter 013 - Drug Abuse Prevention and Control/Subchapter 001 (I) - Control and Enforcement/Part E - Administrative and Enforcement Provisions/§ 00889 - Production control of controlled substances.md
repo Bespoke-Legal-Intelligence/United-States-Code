@@ -8,7 +8,7 @@ As used in this section:
 
 &emsp;(2) The term “Secretary” means the Secretary of Agriculture.
 
-&emsp;(3) The term “State” means each of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa,the Commonwealth of the Northern Mariana Islands, or the Trust Territory of the Pacific Islands.
+&emsp;(3) The term “State” means each of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, or the Trust Territory of the Pacific Islands.
 
 #### (b) Persons ineligible for Federal agricultural program benefits
 
@@ -34,7 +34,7 @@ Notwithstanding any other provision of law, following December 23, 1985, any per
 
 #### (c) Regulations
 
-Not later than 180 days after December 23, 1985, the Secretary shall issue such regulations as the Secretary determines are necessary to carry out this section, including regulations that—
+Not later than 180 days after December 23, 1985, the Secretary shall issue such regulationsas the Secretary determines are necessary to carry out this section, including regulations that—
 
 &emsp;(1) define the term “person”;
 

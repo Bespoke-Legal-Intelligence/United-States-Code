@@ -60,7 +60,7 @@ Unless otherwise specified, in this chapter:
 
 #### (B) State and national units
 
-&emsp;&emsp;An organization described in subparagraph (A) may have State and national units thataggregate the work and purposes of instruction in career and technical education at the local level.
+&emsp;&emsp;An organization described in subparagraph (A) may have State and national units that aggregate the work and purposes of instruction in career and technical education at the local level.
 
 #### (7) Career guidance and academic counseling
 
@@ -184,7 +184,7 @@ Unless otherwise specified, in this chapter:
 
 #### (24) School dropout
 
-&emsp;The term “school dropout” means an individual who is no longer attending any school and who has not received a secondary school diploma or its recognized equivalent.
+&emsp;The term “school dropout” means an individual who is no longer attending any schooland who has not received a secondary school diploma or its recognized equivalent.
 
 #### (25) Scientifically based research
 

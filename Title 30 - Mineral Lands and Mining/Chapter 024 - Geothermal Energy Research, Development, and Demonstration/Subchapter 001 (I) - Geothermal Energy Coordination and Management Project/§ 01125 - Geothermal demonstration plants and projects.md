@@ -42,7 +42,7 @@ The responsible Federal agency is authorized to investigate the feasibility of, 
 
 Before favorably considering proposals under subsection (c) of this section, the responsible Federal agency must find that—
 
-&emsp;(1) the nature of the resource, the geographical location, the scale and engineering designof the facilities, the techniques of production, or any other significant factor of the proposal offers opportunities to make important contributions to the general knowledge of geothermal resources, the techniques of its development, or public confidence in the technology;
+&emsp;(1) the nature of the resource, the geographical location, the scale and engineering design of the facilities, the techniques of production, or any other significant factor of the proposal offers opportunities to make important contributions to the general knowledge of geothermal resources, the techniques of its development, or public confidence in the technology;
 
 &emsp;(2) the development of the practical benefits as set forth in paragraph (1) of this subsection are unlikely to be accomplished without such cooperative development; and
 

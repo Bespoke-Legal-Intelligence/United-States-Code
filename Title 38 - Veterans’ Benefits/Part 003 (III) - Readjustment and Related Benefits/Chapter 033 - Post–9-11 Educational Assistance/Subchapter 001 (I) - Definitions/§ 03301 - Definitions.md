@@ -28,7 +28,7 @@ In this chapter:
 
 #### Effective Date
 
-Chapter effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under section 16163 of Title 10, Armed Forces.
+Chapter effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008Amendment note under section 16163 of Title 10, Armed Forces.
 
 #### Findings
 
@@ -148,7 +148,7 @@ Timing of payment.—The amount payable with respect to an individual under subp
 
 “(7)
 
-Continuing Entitlement to Additional Assistance for Critical Skills or Speciality and Additional Service.—An individual making an election under paragraph (1)(A) who, at the time of the election, is entitled to increased educational assistance under section 3015(d) of title 38, United States Code, or section 16131(i) of title 10, United States Code, or supplemental educational assistance under subchapter III of chapter 30 of title 38, United States Code, shall remain entitled to such increased educational assistance or supplemental educational assistance in the utilization of entitlement to educational assistance under chapter33 of title 38, United States Code (as so added), in an amount equal to the quarter, semester, or term, as applicable, equivalent of the monthly amount of such increased educational assistance or supplemental educational assistance payable with respect to the individual at the time of the election.
+Continuing Entitlement to Additional Assistance for Critical Skills or Speciality and Additional Service.—An individual making an election under paragraph (1)(A) who, at the time of the election, is entitled to increased educational assistance under section 3015(d) of title 38, United States Code, or section 16131(i) of title 10, United States Code, or supplemental educational assistance under subchapter III of chapter 30 of title 38, United States Code, shall remain entitled to such increased educational assistance or supplemental educational assistance in the utilization of entitlement to educational assistance under chapter 33 of title 38, United States Code (as so added), in an amount equal to the quarter, semester, or term, as applicable, equivalent of the monthly amount of such increased educational assistance or supplemental educational assistance payable with respect to the individual at the time of the election.
 
 “(8)
 

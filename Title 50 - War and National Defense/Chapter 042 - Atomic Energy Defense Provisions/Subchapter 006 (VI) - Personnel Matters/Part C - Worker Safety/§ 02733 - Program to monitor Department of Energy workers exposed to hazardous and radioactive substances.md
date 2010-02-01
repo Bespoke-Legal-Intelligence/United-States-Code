@@ -60,7 +60,7 @@ Section was formerly classified to section 7274i of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b)(6). Pub. L. 108–136, §3141(i)(14)(D)(i), substituted “October 23, 1993” for “1 year after October 23, 1992”.
+2003—Subsec. (b)(6). Pub. L. 108–136, §3141(i)(14)(D)(i), substituted “October 23, 1993” for “1 year after October 23, 1992”.
 
 Subsec. (c). Pub. L. 108–136, §3141(i)(14)(D)(ii), substituted “April 23, 1993,” for “180 days after October 23, 1992,”.
 

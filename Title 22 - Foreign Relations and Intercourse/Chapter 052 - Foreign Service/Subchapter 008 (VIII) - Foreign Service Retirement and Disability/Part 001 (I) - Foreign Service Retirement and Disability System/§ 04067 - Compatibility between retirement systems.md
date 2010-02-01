@@ -38,7 +38,7 @@ Pub. L. 102–54, §13(h)(2), June 13, 1991, 105 Stat. 275, provided that: “An
 
 #### Construction of Section With Civil Service Retirement Spouse Equity Act of 1984
 
-This section not applicable with respect to either the amendments made by section 2 of Pub. L. 98–615 or the provisions of section 4 of Pub. L. 98–615 relating to equitable treatment under the Civil Service Retirement System for former spouses, except that, notwithstanding section 4(h) of Pub. L. 98–615, this section applicable with respect to sections 8339(j) and 8341(e) and (h) of Title 5, Government Organization and Employees, and section 4 (except subsec. (b)) of Pub. L. 98–615 to the extent that those sections apply to a qualified former wife or husband, see section 4069–1 of this title and section 4(h) of Pub. L. 98–615, set out as an Effective Date of 1984 Amendment note under section 8341 of Title 5.
+This section not applicable with respect to either the amendments made by section 2 of Pub. L. 98–615 or the provisions of section 4 of Pub. L. 98–615 relating to equitable treatment under the Civil Service Retirement System for former spouses, except that, notwithstanding section 4(h) of Pub. L. 98–615, this section applicable with respect to sections 8339(j) and 8341(e) and (h) ofTitle 5, Government Organization and Employees, and section 4 (except subsec. (b)) of Pub. L. 98–615 to the extent that those sections apply to a qualified former wife or husband, see section 4069–1 of this title and section 4(h) of Pub. L. 98–615, set out as an Effective Date of 1984 Amendment note under section 8341 of Title 5.
 
 #### Recommendations by Secretary of State to President
 
@@ -110,7 +110,7 @@ Sec. 4. <i>Credit For Military Service</i>. (a) Section 805 of the Act (22 U.S.C
 
 (i) by striking out subsection (e) and substituting the following subsection in lieu thereof:
 
-“(e)(1) Each participant who has performed military or naval service before the date of separation on which the entitlement to any annuity under this chapter is based may pay to the Secretary a special contribution equal to 7 percent of the amount of the basic pay paid under section 204 of title 37 of the United States Code, to the participant for each period of military or navalservice after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or if the Secretary determines sufficient evidence has not been so provided to adequately determine basic pay for military or naval service, such payment shall be based upon estimates of such basic pay provided to the Department under paragraph (4).
+“(e)(1) Each participant who has performed military or naval service before the date of separation on which the entitlement to any annuity under this chapter is based may pay to the Secretary a special contribution equal to 7 percent of the amount of the basic pay paid under section 204 of title 37 of the United States Code, to the participant for each period of military or naval service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or if the Secretary determines sufficient evidence has not been so provided to adequately determine basic pay for military or naval service, such payment shall be based upon estimates of such basic pay provided to the Department under paragraph (4).
 
 “(2) Any deposit made under paragraph (1) of this subsection more than two years after the later of—
 

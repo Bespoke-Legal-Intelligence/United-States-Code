@@ -8,7 +8,7 @@ Notwithstanding any provision of chapter 83 of title 5, the annuity under subcha
 
 (1) The portion of the annuity relating to such service abroad that is actually performed at any time during the officer's or employee's first ten years of total service shall be computed at the rate and using the percent of average pay specified in section 8339(a)(3) of title 5 that is normally applicable only to so much of an employee's total service as exceeds ten years.
 
-(2) The portion of the annuity relating to service abroad as described in subsection (a) of this section but that is actually performed at any time after the officer's or employee's first tenyears of total service shall be computed as provided in section 8339(a)(3) of title 5; but, in addition, the officer or employee shall be deemed for annuity computation purposes to have actually performed an equivalent period of service abroad during his or her first ten years of total service, and in calculating the portion of the officer's or employee's annuity for his or her first ten years of total service, the computation rate and percent of average pay specified in paragraph (1) shall also be applied to the period of such deemed or equivalent service abroad.
+(2) The portion of the annuity relating to service abroad as described in subsection (a) of this section but that is actually performed at any time after the officer's or employee's first ten years of total service shall be computed as provided in section 8339(a)(3) of title 5; but, in addition, the officer or employee shall be deemed for annuity computation purposes to have actually performed an equivalent period of service abroad during his or her first ten years of total service, and in calculating the portion of the officer's or employee's annuity for his or her first ten years of total service, the computation rate and percent of average pay specified in paragraph (1) shall also be applied to the period of such deemed or equivalent service abroad.
 
 (3) The portion of the annuity relating to other service by an officer or employee as described in subsection (a) of this section shall be computed as provided in the provisions of section 8339(a) of title 5 that would otherwise be applicable to such service.
 
@@ -34,7 +34,7 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–496 substituted reference to section 2013 of this title for reference in original to section 203 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees which was formerly set out as a note under section 403 of this title.
+1992—Subsec. (a). Pub. L. 102–496 substituted reference to section 2013 of this title for reference in original to section 203 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees which was formerly set out as a note under section 403 of this title.
 
 #### Effective Date of 1992 Amendment
 

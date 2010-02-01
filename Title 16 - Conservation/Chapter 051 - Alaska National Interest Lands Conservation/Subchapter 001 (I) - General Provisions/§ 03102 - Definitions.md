@@ -14,7 +14,7 @@ As used in this Act (except that in titles IX and XIV the following terms shall 
 
 &emsp;&emsp;(C) lands referred to in section 19(b) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1618(b)\].
 
-&emsp;(4) The term “conservation system unit” means any unit in Alaska of the National Park System, National Wildlife Refuge System, National Wild and Scenic Rivers Systems, National Trails System, National Wilderness Preservation System, or a National Forest Monument including existing units, units established, designated, or expanded byor under the provisions of this Act, additions to such units, and any such unit established, designated, or expanded hereafter.
+&emsp;(4) The term “conservation system unit” means any unit in Alaska of the National Park System, National Wildlife Refuge System, National Wild and Scenic Rivers Systems, National Trails System, National Wilderness Preservation System, or a National Forest Monument including existing units, units established, designated, or expanded by or under the provisions of this Act, additions to such units, and any such unit established, designated, or expanded hereafter.
 
 &emsp;(5) The term “Alaska Native Claims Settlement Act”, means “An Act to provide for the settlement of certain land claims of Alaska Natives, and for other purposes”, approved December 18, 1971 (85 Stat. 688), as amended \[43 U.S.C. 1601 et seq.\].
 
@@ -48,7 +48,7 @@ As used in this Act (except that in titles IX and XIV the following terms shall 
 
 #### References in Text
 
-This Act, referred to in provision preceding par. (1) and in par. (4), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. Title IX of this Act enacted sections 1631 to 1638 of Title 43, Public Lands, amended sections 1614 and 1620 of Title 43, and amended provisions set out as notes under section 1611 of Title 43 and preceding section 21 of Title 48, Territories and Insular Possessions. Title XIV of this Act enacted sections 1639 to 1641 of Title 43, amended sections 1602, 1606, 1607, 1611, 1613, 1620, and 1621 of Title 43, enacted provisions set out as notes under sections 1605, 1613, and 1618 of Title 43, and amended provisions set out as notes under sections 1611 and 1613 of Title 43. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in provision preceding par. (1) and in par. (4), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. Title IX of this Act enacted sections 1631 to 1638 of Title 43, Public Lands, amended sections 1614 and 1620 of Title 43, and amendedprovisions set out as notes under section 1611 of Title 43 and preceding section 21 of Title 48, Territories and Insular Possessions. Title XIV of this Act enacted sections 1639 to 1641 of Title 43, amended sections 1602, 1606, 1607, 1611, 1613, 1620, and 1621 of Title 43, enacted provisions set out as notes under sections 1605, 1613, and 1618 of Title 43, and amended provisions set out as notes under sections 1611 and 1613 of Title 43. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in provision preceding par. (1) and in pars. (3)(B), (C)(5), and (11), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
@@ -66,7 +66,7 @@ Section 316(d) of Pub. L. 105–83 provided that: “Unless and until laws are a
 
 #### Savings Clause
 
-Section 316(c) of Pub. L. 105–83 provided that: “No provision of this section \[amending this section andsections 3111, 3113 to 3115, 3117, 3124, and 3125 of this title and enacting provisions set out as notes under this section\], amendment made by this section, or exercise of authority pursuant to this section may be construed to validate, invalidate, or in any way affect—
+Section 316(c) of Pub. L. 105–83 provided that: “No provision of this section \[amending this section and sections 3111, 3113 to 3115, 3117, 3124, and 3125 of this title and enacting provisions set out as notes under this section\], amendment made by this section, or exercise of authority pursuant to this section may be construed to validate, invalidate, or in any way affect—
 
 &emsp;“(1) any assertion that an Alaska Native organization (including a federally recognized tribe, traditional Alaska Native council, or Alaska Native council organized pursuant to the Act of June 18, 1934 (25 U.S.C. 461 et seq.), as amended) has or does not have governmental authority over lands (including management of, or regulation of the taking of, fish and wildlife) or persons within the boundaries of the State of Alaska;
 

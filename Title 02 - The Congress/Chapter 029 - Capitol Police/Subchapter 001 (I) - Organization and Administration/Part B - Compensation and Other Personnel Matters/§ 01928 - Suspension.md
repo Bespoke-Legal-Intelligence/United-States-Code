@@ -1,6 +1,6 @@
 ### §1928. Suspension
 
-The captain of the Capitol police may suspend any member of the force, subject to the approvalof the two Sergeants at Arms and of the Architect of the Capitol.
+The captain of the Capitol police may suspend any member of the force, subject to the approval of the two Sergeants at Arms and of the Architect of the Capitol.
 
 (R.S. §1823; Mar. 3, 1921, ch. 124, §1, 41 Stat. 1291.)
 

@@ -48,7 +48,7 @@
 
 &emsp;&emsp;In a case in which the Federal Government provides access to the public to information or data through electronic and information technology, nothing in this section shall be construed to require a Federal department or agency—
 
-&emsp;&emsp;&emsp;(i) to make equipment owned by the Federal Government available for access and use by individuals with disabilities covered by paragraph (1) at a location other than that where the electronic and information technology is provided to the public; or
+&emsp;&emsp;&emsp;(i) to make equipment owned by the Federal Government available for access and use by individuals with disabilities covered by paragraph (1) at a location other thanthat where the electronic and information technology is provided to the public; or
 
 &emsp;&emsp;&emsp;(ii) to purchase equipment for access and use by individuals with disabilities covered by paragraph (1) at a location other than that where the electronic and information technology is provided to the public.
 
@@ -106,13 +106,13 @@ This section shall not be construed to limit any right, remedy, or procedure oth
 
 #### Codification
 
-“Section 11101(6) of title 40” substituted in subsec. (a)(2)(A)(i) for “section 5002(3) of the Clinger-Cohen Actof 1996 (40 U.S.C. 1401(3))” and “section 11103(a) of title 40” substituted in subsec. (a)(5) for “section 5142 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1452)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Section 11101(6) of title 40” substituted in subsec. (a)(2)(A)(i) for “section 5002(3) of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401(3))” and “section 11103(a) of title 40” substituted in subsec. (a)(5) for “section 5142 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1452)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
 2000—Subsec. (f)(1)(A). Pub. L. 106–246, §2405(1), substituted “Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section,” for “Effective 2 years after August 7, 1998,”.
 
-Subsec. (f)(1)(B). Pub. L. 106–246, §2405(2), substituted “6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section.” for “2 years after August 7, 1998.”
+Subsec. (f)(1)(B). Pub. L. 106–246, §2405(2), substituted “6 months after the date of publication by the AccessBoard of final standards described in subsection (a)(2) of this section.” for “2 years after August 7, 1998.”
 
 1998—Pub. L. 105–220 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to electronic and information technology accessibility guidelines.
 

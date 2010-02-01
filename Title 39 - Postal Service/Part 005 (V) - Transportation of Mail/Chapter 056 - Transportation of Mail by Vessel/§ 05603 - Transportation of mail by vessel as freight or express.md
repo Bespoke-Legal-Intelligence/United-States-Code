@@ -6,7 +6,7 @@ The Postal Service may require that mail be transported by freight or express wh
 
 &emsp;(2) no proposal is received.
 
-> A common carrier by water that fails or refuses to transport the mail when required to do so under this section shall be fined not more than $500 for each day of refusal.
+> A common carrier by water that fails or refuses to transport the mail when required to do sounder this section shall be fined not more than $500 for each day of refusal.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 773.)
 

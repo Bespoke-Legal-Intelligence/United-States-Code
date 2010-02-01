@@ -70,7 +70,7 @@ Section 511(b) of Pub. L. 86–707, Sept. 6, 1960, 74 Stat. 800, Overseas Differ
 
 #### Appropriations
 
-Section 501(a) of Pub. L. 86–707, Sept. 6, 1960, 74 Stat. 800, Overseas Differentials and Allowances Act, provided that: “There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act and the amendments made by thisAct \[enacting chapter 37 of former title 5 (now covered by this subchapter), amending other sections as shown in the Tables, and enacting provisions set out as notes under this section and section 912 of Title 26, Internal Revenue Code\].”
+Section 501(a) of Pub. L. 86–707, Sept. 6, 1960, 74 Stat. 800, Overseas Differentials and Allowances Act, provided that: “There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act and the amendments made by this Act \[enacting chapter 37 of former title 5 (now covered by this subchapter), amending other sections as shown in the Tables, and enacting provisions set out as notes under this section and section 912 of Title 26, Internal Revenue Code\].”
 
 #### References to Provisions Affected by the Overseas Differentials and Allowances Act
 

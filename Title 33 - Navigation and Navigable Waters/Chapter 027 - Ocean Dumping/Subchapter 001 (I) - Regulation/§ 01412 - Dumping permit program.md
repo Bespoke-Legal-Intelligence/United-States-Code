@@ -42,11 +42,11 @@ The Administrator may establish and issue various categories of permits, includi
 
 #### (2) Prohibitions regarding site or time period
 
-&emsp;In any case where the Administrator determines that, with respect to certain materials, it is necessary to prohibit dumping at a site or during a time period, the Administrator shall prohibit the dumping of such materials in such site or during such time period. This prohibition shall apply to any dumping at the site or during such time period. This prohibition shall apply to any dumping at the site or during the time period, including any dumping under section 1413(e) of this title.
+&emsp;In any case where the Administrator determines that, with respect to certain materials, it is necessary to prohibit dumping at a site or during a time period, the Administrator shall prohibit the dumping of such materials in such site or during such time period. This prohibition shall apply to any dumping at the site or during such time period. This prohibitionshall apply to any dumping at the site or during the time period, including any dumping under section 1413(e) of this title.
 
 #### (3) Dredged material disposal sites
 
-&emsp;In the case of dredged material disposal sites, the Administrator, in conjunction with the Secretary, shall develop a site management plan for each site designated pursuant tothis section. In developing such plans, the Administrator and the Secretary shall provide opportunity for public comment. Such plans shall include, but not be limited to—
+&emsp;In the case of dredged material disposal sites, the Administrator, in conjunction with the Secretary, shall develop a site management plan for each site designated pursuant to this section. In developing such plans, the Administrator and the Secretary shall provide opportunity for public comment. Such plans shall include, but not be limited to—
 
 &emsp;&emsp;(A) a baseline assessment of conditions at the site;
 

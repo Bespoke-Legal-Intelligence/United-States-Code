@@ -30,7 +30,7 @@
 
 #### (4) Additional bank authority
 
-&emsp;Subparagraphs (A) through (E) of paragraph (3) shall not affect the ability of any Federal Home Loan Bank to take such steps as it deems necessary to protect its security position with respect to outstanding advances, including requiring deposits of additional collateral security, whether or not such additional security would be eligible to originate an advance. If an advance existing on August 9, 1989,matures and the member does not have sufficient eligible collateral to fully secure a renewal of such advance, a Bank may renew such advance secured by such collateral as the Bank determines is appropriate. A member that has an advance secured by such insufficient eligible collateral must reduce its level of outstanding advances promptly and prudently in accordance with a schedule determined by the Federal home loan bank.
+&emsp;Subparagraphs (A) through (E) of paragraph (3) shall not affect the ability of any Federal Home Loan Bank to take such steps as it deems necessary to protect its security position with respect to outstanding advances, including requiring deposits of additional collateral security, whether or not such additional security would be eligible to originate an advance. If an advance existing on August 9, 1989, matures and the member does not have sufficient eligible collateral to fully secure a renewal of such advance, a Bank may renew such advance secured by such collateral as the Bank determines is appropriate. A member that has an advance secured by such insufficient eligible collateral must reduce its level of outstanding advances promptly and prudently in accordance with a schedule determined by the Federal home loan bank.
 
 #### (5) Review of certain collateral standards
 
@@ -158,7 +158,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (D) Monitoring suspension
 
-&emsp;&emsp;If the Director grants a suspension, it shall specify the period of time such suspensionshall remain in effect and shall continue to monitor the Bank's financial condition during such suspension.
+&emsp;&emsp;If the Director grants a suspension, it shall specify the period of time such suspension shall remain in effect and shall continue to monitor the Bank's financial condition during such suspension.
 
 #### (E) Limitations on grounds for suspension
 
@@ -256,7 +256,7 @@ Submission to congress.—The Director shall submit the reports under subparagra
 
 #### (A) In general
 
-&emsp;&emsp;The Director shall make available to the public, in a form that is useful to the public (including forms accessible electronically), and to the extent practicable, the data provided to the Director under paragraph (1).
+&emsp;&emsp;The Director shall make available to the public, in a form that is useful to the public\(including forms accessible electronically), and to the extent practicable, the data provided to the Director under paragraph (1).
 
 #### (B) Proprietary information
 
@@ -304,7 +304,7 @@ Subsec. (j)(9). Pub. L. 110–289, §1204(12), substituted “Director” for �
 
 Subsec. (j)(11) to (12)(B). Pub. L. 110–289, §1204(8), (9), substituted “the Director” for “the Board” and “The Director” for “The Board” wherever appearing.
 
-Subsec. (j)(12)(C), (D). Pub. L. 110–289, §1212(1), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “The Comptroller General of the United States shall audit and evaluate the Affordable Housing Program established by this subsection aftersuch program has been operating for 2 years. The Comptroller General shall report to Congress on the conclusions of the audit and recommend improvements or modifications to the program.”
+Subsec. (j)(12)(C), (D). Pub. L. 110–289, §1212(1), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “The Comptroller General of the United States shall audit and evaluate the Affordable Housing Program established by this subsection after such program has been operating for 2 years. The Comptroller General shall report to Congress on the conclusions of the audit and recommend improvements or modifications to the program.”
 
 Subsec. (k). Pub. L. 110–289, §1212(2), added subsec. (k).
 

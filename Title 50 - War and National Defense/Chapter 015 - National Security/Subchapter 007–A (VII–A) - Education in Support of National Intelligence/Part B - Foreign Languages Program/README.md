@@ -1,5 +1,7 @@
 Part B—Foreign Languages Program
 
+<i><sup>1</sup></i><i> So in original. Probably should be subsection “(g)(2)(B)”.</i>
+
 
 ---
 

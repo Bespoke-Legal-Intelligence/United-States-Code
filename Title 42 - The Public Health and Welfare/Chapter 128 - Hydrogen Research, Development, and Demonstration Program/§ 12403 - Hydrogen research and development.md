@@ -10,7 +10,7 @@ In conducting the program authorized by this section, the Secretary shall—
 
 &emsp;(1) give particular attention to developing an understanding and resolution of critical technical issues preventing the introduction of hydrogen into the marketplace;
 
-&emsp;(2) initiate or accelerate existing research in critical technical issues that will contribute to the development of more economic hydrogen production and use, including, but not limited to, critical technical issues with respect to production (giving priority to those production techniques that use renewable energy resources as their primary source of energy for hydrogen production), liquefaction, transmission, distribution, storage, and use\(including use of hydrogen in surface transportation); and
+&emsp;(2) initiate or accelerate existing research in critical technical issues that will contribute to the development of more economic hydrogen production and use, including, but not limited to, critical technical issues with respect to production (giving priority to those production techniques that use renewable energy resources as their primary source of energy for hydrogen production), liquefaction, transmission, distribution, storage, and use (including use of hydrogen in surface transportation); and
 
 &emsp;(3) survey private sector hydrogen activities and take steps to ensure that research and development activities under this section do not displace or compete with the privately funded hydrogen research and development activities of United States industry.
 
@@ -40,7 +40,7 @@ The Secretary shall not carry out any activities under this section that unneces
 
 #### (i) Federal funding consistent with the Agreement on Subsidies and Countervailing Measures
 
-The Secretary shall establish, after consultation with other Federal agencies, terms and conditions under which Federal funding will be provided under this chapter that are consistent with the Agreement on Subsidies and Countervailing Measures referred to in section 3511(d)(12) of title 19.
+The Secretary shall establish, after consultation with other Federal agencies, terms and conditions under which Federal funding will be provided under this chapter that are consistentwith the Agreement on Subsidies and Countervailing Measures referred to in section 3511(d)(12) of title 19.
 
 (Pub. L. 101–566, §104, Nov. 15, 1990, 104 Stat. 2798; Pub. L. 104–271, title I, §103(a), Oct. 9, 1996, 110 Stat. 3305.)
 

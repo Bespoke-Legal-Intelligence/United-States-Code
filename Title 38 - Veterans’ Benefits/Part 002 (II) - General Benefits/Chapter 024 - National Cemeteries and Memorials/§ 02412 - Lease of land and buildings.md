@@ -20,7 +20,7 @@ Notice.—Before entering into a lease under subsection (a), the Secretary shall
 
 (e)
 
-National Cemetery Administration Facilities Operation Fund.—(1) There is established on the book of the Treasury an account tobe known as the “National Cemetery Administration Facilities Operation Fund” (in this section referred to as the “Fund”).
+National Cemetery Administration Facilities Operation Fund.—(1) There is established on the book of the Treasury an account to be known as the “National Cemetery Administration Facilities Operation Fund” (in this section referred to as the “Fund”).
 
 (2) The Fund shall consist of the following:
 

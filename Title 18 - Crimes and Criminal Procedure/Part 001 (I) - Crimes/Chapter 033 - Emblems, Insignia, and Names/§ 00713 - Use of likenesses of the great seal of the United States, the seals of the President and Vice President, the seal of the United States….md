@@ -8,7 +8,7 @@
 
 (d) Whoever, except as directed by the United States House of Representatives, or the Clerk of the House of Representatives on its behalf, knowingly uses, manufactures, reproduces, sells or purchases for resale, either separately or appended to any article manufactured or sold, any likeness of the seal of the United States House of Representatives, or any substantial part thereof, except for manufacture or sale of the article for the official use of the Government of the United States, shall be fined under this title or imprisoned not more than six months, or both.
 
-(e) Whoever, except as directed by the United States Congress, or the Secretary of the Senate and the Clerk of the House of Representatives, acting jointly on its behalf, knowingly uses, manufactures, reproduces, sells or purchases for resale, either separately or appended to any article manufactured or sold, any likeness of the seal of the United States Congress, or any substantial part thereof, except for manufacture orsale of the article for the official use of the Government of the United States, shall be fined under this title or imprisoned not more than six months, or both.
+(e) Whoever, except as directed by the United States Congress, or the Secretary of the Senate and the Clerk of the House of Representatives, acting jointly on its behalf, knowingly uses, manufactures, reproduces, sells or purchases for resale, either separately or appended to any article manufactured or sold, any likeness of the seal of the United States Congress, or any substantial part thereof, except for manufacture or sale of the article for the official use of the Government of the United States, shall be fined under this title or imprisoned not more than six months, or both.
 
 (f) A violation of the provisions of this section may be enjoined at the suit of the Attorney General,
 
@@ -44,7 +44,7 @@ Subsecs. (c), (d). Pub. L. 102–229, §210(c), (d), added subsec. (c), amended 
 
 1971—Pub. L. 91–651 substituted “Use of likenesses of the great seal of the United States, and of the seals of the President and Vice President” for “Use of the great seal of the United States” in section catchline.
 
-Subsec. (a). Pub. L. 91–651 redesignated existing provisions as subsec. (a), expanded prohibition to include likenesses of the seals of the President and Vice President, and added to the enumerated list of prohibited uses for likenesses of the great seal of the United States and for the seals of the President and Vice President, use in posters, public meetings, or on any building, monument, or stationery.
+Subsec. (a). Pub. L. 91–651 redesignated existing provisions as subsec. (a), expanded prohibition to include likenesses of the seals of the President and Vice President, and added to the enumerated list of prohibited uses for likenesses of the great seal of the UnitedStates and for the seals of the President and Vice President, use in posters, public meetings, or on any building, monument, or stationery.
 
 Subsecs. (b), (c). Pub. L. 91–651 added subsecs. (b) and (c).
 

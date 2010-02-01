@@ -90,7 +90,7 @@ No action or proceeding may be brought in the United States Court of Federal Cla
 
 &emsp;&emsp;<b>(4) For payment by the Treasury of judgments against internal revenue officers or employees, upon certificate of probable cause, see section 2006 of Title 28 of the United States Code.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 876; Pub. L. 85–866, title I, §78, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 89–713, §3(a), Nov. 2, 1966, 80 Stat. 1108; Pub. L. 91–172, title I, §101(i), (j)(56), Dec. 30, 1969, 83 Stat. 525, 532; Pub. L. 92–178, title III, §309(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 93–406, title II, §1016(a)(26), Sept. 2, 1974, 88 Stat. 931; Pub. L. 94–455, title XIII, §1307(d)(2)(F)(viii), title XVI, §1605(b)(11), title XIX, §1906(a)(44), (b)(13)(A),Oct. 4, 1976, 90 Stat. 1728, 1755, 1830, 1834; Pub. L. 96–222, title I, §108(b)(1)(D)–(F), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–223, title I, §101(f)(1)(J), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–596, §2(c)(2), Dec. 24, 1980, 94 Stat. 3474; Pub. L. 97–164, title I, §151, Apr. 2, 1982, 96 Stat. 46; Pub. L. 97–248, title IV, §402(c)(11), Sept. 3, 1982, 96 Stat. 668; Pub. L. 98–369, div. A, title VII, §714(g)(1), (p)(2)(H), July 18, 1984, 98 Stat. 961, 965; Pub. L. 99–514, title XVIII, §1899A(58), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 100–203, title X, §10712(c)(5), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 100–418, title I, §1941(b)(2)(B)(x), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–168, title XIII, §1311(c)(4), July 30, 1996, 110 Stat. 1478; Pub. L. 105–206, title III, §3104(a), July 22, 1998, 112 Stat. 731.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 876; Pub. L. 85–866, title I, §78, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 89–713, §3(a), Nov. 2, 1966, 80 Stat. 1108; Pub. L. 91–172, title I, §101(i), (j)(56), Dec. 30, 1969, 83 Stat. 525, 532; Pub. L. 92–178, title III, §309(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 93–406, title II, §1016(a)(26), Sept. 2, 1974, 88 Stat. 931; Pub. L. 94–455, title XIII, §1307(d)(2)(F)(viii), title XVI, §1605(b)(11), title XIX, §1906(a)(44), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1728, 1755, 1830, 1834; Pub. L. 96–222, title I, §108(b)(1)(D)–(F), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–223, title I, §101(f)(1)(J), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–596, §2(c)(2), Dec. 24, 1980, 94 Stat. 3474; Pub. L. 97–164, title I, §151, Apr. 2, 1982, 96 Stat. 46; Pub. L. 97–248, title IV, §402(c)(11), Sept. 3, 1982, 96 Stat. 668; Pub. L. 98–369, div. A, title VII, §714(g)(1), (p)(2)(H), July 18, 1984, 98 Stat. 961, 965; Pub. L. 99–514, title XVIII, §1899A(58), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 100–203, title X, §10712(c)(5), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 100–418, title I, §1941(b)(2)(B)(x), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–168, title XIII, §1311(c)(4), July 30, 1996, 110 Stat. 1478; Pub. L. 105–206, title III, §3104(a), July 22, 1998, 112 Stat. 731.)
 
 #### References in Text
 
@@ -166,7 +166,7 @@ Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 714(g)(1) of Pub. L. 98–369 applicable to any claim for refund or credit filed afterJuly 18, 1984, see section 714(g)(4) of Pub. L. 98–369, set out as an Effective Date note under section 1509 of Title 28, Judiciary and Judicial Procedure.
+Amendment by section 714(g)(1) of Pub. L. 98–369 applicable to any claim for refund or credit filed after July 18, 1984, see section 714(g)(4) of Pub. L. 98–369, set out as an Effective Date note under section 1509 of Title 28, Judiciary and Judicial Procedure.
 
 Amendment by section 714(p)(2)(H) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
@@ -182,7 +182,7 @@ For effective date of amendment by Pub. L. 96–596 with respect to any first ti
 
 Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see section 101(i) of Pub. L. 96–223, set out as a note under section 6161 of this title.
 
-Amendment by Pub. L. 96–222 effective as if included in the provisions of the Black Lung Benefits Revenue Act of 1977, Pub. L. 95–227, see section 108(b)(4) of Pub. L. 96–222, set out as a note under section 192 of this title.
+Amendment by Pub. L. 96–222 effective as if included in the provisions of the Black Lung Benefits RevenueAct of 1977, Pub. L. 95–227, see section 108(b)(4) of Pub. L. 96–222, set out as a note under section 192 of this title.
 
 #### Effective Date of 1976 Amendment
 

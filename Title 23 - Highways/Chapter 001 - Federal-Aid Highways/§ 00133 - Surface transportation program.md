@@ -60,7 +60,7 @@ Allocations of Apportioned Funds.—
 
 &emsp;(2)
 
-For transportation enhancement activities.—In a fiscal year, the greater of 10 percent of the funds apportioned to a State under section 104(b)(3) for such fiscal year, orthe amount set aside under this paragraph with respect to the State for fiscal year 2005, shall only be available for transportation enhancement activities.
+For transportation enhancement activities.—In a fiscal year, the greater of 10 percent of the funds apportioned to a State under section 104(b)(3) for such fiscal year, or the amount set aside under this paragraph with respect to the State for fiscal year 2005, shall only be available for transportation enhancement activities.
 
 &emsp;(3)
 
@@ -86,7 +86,7 @@ Noncontiguous states exemption.—Subparagraph (A) shall not apply to Hawaii and
 
 &emsp;&emsp;(D)
 
-Distribution between urbanized areas of over 200,000 population.—The amount of funds which a State is required to obligate under subparagraph (A)(i) shall be obligated in urbanized areas described in subparagraph (A)(i) based on the relative population of such areas; except that the State may obligate such funds based on other factors if the State and the relevant metropolitan planning organizations jointly apply to the Secretary for the permission to do so and the Secretary grants the request.
+Distribution between urbanized areas of over 200,000 population.—The amount of funds which a State is required to obligate under subparagraph (A)(i) shall be obligated in urbanized areas described in subparagraph (A)(i) based on the relative population of such areas; except that the State may obligate such funds based on other factors if the State and the relevantmetropolitan planning organizations jointly apply to the Secretary for the permission to do so and the Secretary grants the request.
 
 &emsp;(4)
 
@@ -154,7 +154,7 @@ In general.—The Secretary may advance funds to the State for transportation en
 
 &emsp;&emsp;&emsp;(ii)
 
-Limitation on amounts.—Amounts advanced under this subparagraph shall belimited to such amounts as are necessary to make prompt payments for project costs.
+Limitation on amounts.—Amounts advanced under this subparagraph shall be limited to such amounts as are necessary to make prompt payments for project costs.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -186,7 +186,7 @@ Cost sharing.—
 
 &emsp;&emsp;&emsp;(i)
 
-Required aggregate non-federal share.—The average annual non-Federal share of the total cost of all projects to carry out transportation enhancement activities in a State for a fiscal year shall be not less than the non-Federal share authorized for the State under section 120(b).
+Required aggregate non-federal share.—The average annual non-Federalshare of the total cost of all projects to carry out transportation enhancement activities in a State for a fiscal year shall be not less than the non-Federal share authorized for the State under section 120(b).
 
 &emsp;&emsp;&emsp;(ii)
 

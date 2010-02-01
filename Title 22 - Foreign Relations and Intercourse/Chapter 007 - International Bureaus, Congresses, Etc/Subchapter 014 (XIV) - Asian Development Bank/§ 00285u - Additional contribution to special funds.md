@@ -2,7 +2,7 @@
 
 #### (a) United States share
 
-The United States Governor of the Bank is authorized to contribute on behalf of the UnitedStates $378,250,000 to the Asian Development Fund, a special fund of the Bank, except that any commitment to make such contribution shall be made subject to obtaining the necessary appropriations.
+The United States Governor of the Bank is authorized to contribute on behalf of the United States $378,250,000 to the Asian Development Fund, a special fund of the Bank, except that any commitment to make such contribution shall be made subject to obtaining the necessary appropriations.
 
 #### (b) Authorization of appropriations; maximum available for certain years
 

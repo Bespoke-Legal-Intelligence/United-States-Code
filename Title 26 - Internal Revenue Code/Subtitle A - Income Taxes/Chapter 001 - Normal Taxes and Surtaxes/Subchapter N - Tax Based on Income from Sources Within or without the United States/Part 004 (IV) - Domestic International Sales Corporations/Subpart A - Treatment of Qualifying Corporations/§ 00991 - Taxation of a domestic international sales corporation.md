@@ -26,7 +26,7 @@ Close of 1984 taxable years of disc's.—
 
 &emsp;“(A)
 
-In general.—For purposes of applying the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the taxable year of each DISC which begins before January 1, 1985, and which (but for this paragraph) would include January 1, 1985, shall close on December 31, 1984. For purposes of such Code, the requirements of section 992(a)(1)(B) of such Code (relating to percentage of qualified export assets on last day of the taxable year) shall not apply to any taxable year ending on December 31, 1984.
+In general.—For purposes of applying the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the taxable year of each DISC which begins before January 1, 1985, and which (but for this paragraph) would include January 1, 1985, shall close on December 31,1984. For purposes of such Code, the requirements of section 992(a)(1)(B) of such Code (relating to percentage of qualified export assets on last day of the taxable year) shall not apply to any taxable year ending on December 31, 1984.
 
 &emsp;“(B)
 
@@ -100,7 +100,7 @@ In general.—If, before January 1, 1985, any export trade corporation—
 
 &emsp;“(B) elects not to be treated as an export trade corporation with respect to taxable years beginning after December 31, 1984,
 
-> rules similar to the rules of paragraphs (2) and (4) of subsection (b) \[section 805(b)(2) and (4) of Pub. L. 98–369,set out as a note above\] shall apply to such export trade corporation.
+> rules similar to the rules of paragraphs (2) and (4) of subsection (b) \[section 805(b)(2) and (4) of Pub. L. 98–369, set out as a note above\] shall apply to such export trade corporation.
 
 “(2)
 

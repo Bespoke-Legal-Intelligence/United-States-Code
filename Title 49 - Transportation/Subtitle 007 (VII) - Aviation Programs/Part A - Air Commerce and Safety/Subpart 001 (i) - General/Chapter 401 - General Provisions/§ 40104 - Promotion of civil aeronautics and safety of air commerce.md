@@ -48,7 +48,7 @@ The words “and foster” in 49 App.:1346 are omitted as surplus. The words “
 
 #### Pub. L. 103–429, §6(47)(A), (B)
 
-This makes conforming amendments to 49:40104, as enacted by section 1 of the Act of July 5, 1994 (PublicLaw 103–272, 108 Stat. 1102), because of the restatement of 49 App.:1655(c)(1) (words after last comma) as 49:40104(b) by section 6(47)(C) of the bill.
+This makes conforming amendments to 49:40104, as enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1102), because of the restatement of 49 App.:1655(c)(1) (words after last comma) as 49:40104(b) by section 6(47)(C) of the bill.
 
 Pub. L. 103–429, §6(47)(C)
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Effective Date of 1994 Amendment
 

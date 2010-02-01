@@ -126,7 +126,7 @@ As used in this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “seller” means a person who, in the course of a business conducted for thatpurpose, sells, distributes, leases, packages, labels, or otherwise places an implant in the stream of commerce.
+&emsp;&emsp;The term “seller” means a person who, in the course of a business conducted for that purpose, sells, distributes, leases, packages, labels, or otherwise places an implant in the stream of commerce.
 
 #### (B) Exclusions
 

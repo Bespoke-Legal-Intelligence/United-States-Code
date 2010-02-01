@@ -2,7 +2,7 @@
 
 #### (a) Capital gain dividend
 
-For purposes of section 1(h)(11) (relating to maximum rate of tax on dividends) and section 243 (relating to deductions for dividends received by corporations), a capital gain dividend (as defined in section 852(b)(3)) received from a regulated investment company shall not be considered as a dividend.
+For purposes of section 1(h)(11) (relating to maximum rate of tax on dividends) and section 243 (relating to deductions for dividends receivedby corporations), a capital gain dividend (as defined in section 852(b)(3)) received from a regulated investment company shall not be considered as a dividend.
 
 #### (b) Other dividends
 
@@ -30,7 +30,7 @@ For purposes of section 1(h)(11) (relating to maximum rate of tax on dividends) 
 
 &emsp;&emsp;&emsp;&emsp;(III) the qualified dividend income of such investment company for such taxable year is less than 95 percent of its gross income,
 
-&emsp;&emsp;&nbsp;then, in computing qualified dividend income, there shall be taken into accountonly that portion of such dividend designated by the regulated investment company.
+&emsp;&emsp;&nbsp;then, in computing qualified dividend income, there shall be taken into account only that portion of such dividend designated by the regulated investment company.
 
 #### (ii) Gross income
 
@@ -92,7 +92,7 @@ For purposes of section 1(h)(11) (relating to maximum rate of tax on dividends) 
 
 &emsp;For purposes of this subsection, the term “qualified dividend income” has the meaning given such term by section 1(h)(11)(B).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 273; Pub. L. 88–272, title II, §§201(d)(8)–(10), 229(a)(4), Feb. 26, 1964, 78 Stat. 32, 99; Pub. L. 96–223, title IV, §404(b)(6), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, §302(c)(4), (d)(1), Aug. 13, 1981, 95 Stat. 272, 274; Pub. L. 98–369, div. A, title I, §§16(a), 52(a)–(c), July 18, 1984, 98 Stat. 505, 564, 565; Pub. L. 99–514, title VI, §§612(b)(6), 655(a)(4), Oct. 22, 1986, 100 Stat. 2250, 2299; Pub. L. 100–203, title X, §10221(d)(3), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §1006(b)(2), Nov. 10, 1988, 102 Stat. 3393; Pub. L. 108–27, title III, §302(c), May 28, 2003, 117 Stat. 762; Pub. L. 108–311, title IV, §402(a)(5)(A)–(D), Oct. 4, 2004, 118 Stat. 1184.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 273; Pub. L. 88–272, title II, §§201(d)(8)–(10), 229(a)(4), Feb. 26,1964, 78 Stat. 32, 99; Pub. L. 96–223, title IV, §404(b)(6), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, §302(c)(4), (d)(1), Aug. 13, 1981, 95 Stat. 272, 274; Pub. L. 98–369, div. A, title I, §§16(a), 52(a)–(c), July 18, 1984, 98 Stat. 505, 564, 565; Pub. L. 99–514, title VI, §§612(b)(6), 655(a)(4), Oct. 22, 1986, 100 Stat. 2250, 2299; Pub. L. 100–203, title X, §10221(d)(3), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §1006(b)(2), Nov. 10, 1988, 102 Stat. 3393; Pub. L. 108–27, title III, §302(c), May 28, 2003, 117 Stat. 762; Pub. L. 108–311, title IV, §402(a)(5)(A)–(D), Oct. 4, 2004, 118 Stat. 1184.)
 
 #### Amendment of Section
 
@@ -142,7 +142,7 @@ Subsec. (b)(3)(A). Pub. L. 98–369, §52(c), substituted provisions directing t
 
 Subsec. (b)(4). Pub. L. 98–369, §52(b), added par. (4).
 
-1981—Subsec. (b). Pub. L. 97–34, §302(c)(4), (d)(1), provided for general amendment of subsec. (b) so as to include provisions relating to taxable interest described in section 128 of this title, applicable to taxable years beginning after Dec. 31, 1984. Section 16(a) of Pub. L. 98–369, repealed section 302(c) of Pub. L. 97–34, and provided that this title shall be applied and administered as if section 302(c), and the amendments made by section 302(c), had not been enacted.
+1981—Subsec. (b). Pub. L. 97–34, §302(c)(4), (d)(1), provided for general amendment of subsec. (b) so as to include provisions relating to taxable interest describedin section 128 of this title, applicable to taxable years beginning after Dec. 31, 1984. Section 16(a) of Pub. L. 98–369, repealed section 302(c) of Pub. L. 97–34, and provided that this title shall be applied and administered as if section 302(c), and the amendments made by section 302(c), had not been enacted.
 
 1980—Subsec. (b). Pub. L. 96–223, §404(b)(6), temporarily substituted “Other dividends and taxable interest” for “Other dividends” in heading, substituted “Deduction under section 243” for “General rule” in heading for par. (1), struck out “the exclusion under section 116 and” after “in computing” in text of par. (1) following subpar. (B), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and, in par. (4) as so redesignated, substituted “116(b)(2)” for “116(b)” and “116(c)(2)” for “116(c)” in subpar. (B) and added subpar. (C).
 

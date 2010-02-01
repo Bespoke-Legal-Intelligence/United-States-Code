@@ -172,7 +172,7 @@ In connection with examinations of insured depository institutions and any State
 
 &emsp;&emsp;If any affiliate of any insured depository institution—
 
-&emsp;&emsp;&emsp;(i) refuses to permit an examiner appointed by the Board of Directors under subsection (b)(1) of this section to conduct an examination; or
+&emsp;&emsp;&emsp;(i) refuses to permit an examiner appointed by the Board of Directors undersubsection (b)(1) of this section to conduct an examination; or
 
 &emsp;&emsp;&emsp;(ii) refuses to provide any information required to be disclosed in the course of any examination,
 
@@ -236,7 +236,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (A) In general
 
-&emsp;&emsp;With respect to a branch operated in a host State by an out-of-State insured Statebank that resulted from an interstate merger transaction approved under section 1831u of this title, or that was established in such State pursuant to section 36(g) of this title, the third undesignated paragraph of section 321 of this title or section 1828(d)(4) of this title, the appropriate State bank supervisor of such host State may—
+&emsp;&emsp;With respect to a branch operated in a host State by an out-of-State insured State bank that resulted from an interstate merger transaction approved under section 1831u of this title, or that was established in such State pursuant to section 36(g) of this title, the third undesignated paragraph of section 321 of this title or section 1828(d)(4) of this title, the appropriate State bank supervisor of such host State may—
 
 &emsp;&emsp;&emsp;(i) with written notice to the State bank supervisor of the bank's home State and subject to the terms of any applicable cooperative agreement with the State bank supervisor of such home State, examine such branch for the purpose of determining compliance with host State laws that are applicable pursuant to section 1831a(j) of this title, including those that govern community reinvestment, fair lending, and consumer protection; and
 
@@ -246,7 +246,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The State bank supervisor of the home State of an insured State bank shall notify the State bank supervisor of each host State of the bank if there has been a final determination that the bank is in a troubled condition.
+&emsp;&emsp;&emsp;The State bank supervisor of the home State of an insured State bank shall notifythe State bank supervisor of each host State of the bank if there has been a final determination that the bank is in a troubled condition.
 
 #### (ii) Timing of notice
 
@@ -516,7 +516,7 @@ Subsec. (d). Pub. L. 101–73, §210(b)(2), struck out subsec. (d) which defined
 
 Subsec. (d). Pub. L. 97–320, §410(g), inserted “as in section 221a(b) of this title and”.
 
-1978—Subsec. (b). Pub. L. 95–630, §305(a), inserted “or other institution” after “any State nonmember bank” and struck out provisions that each claim agent have power to administer oaths and affirmations and to examine and to take and preserve testimony under oath as to any matter in respect to claims for insured deposits, and to issue subpenas and subpenas duces tecum, and, for the enforcement thereof, to apply to theUnited States district court for the judicial district or the United States court in any territory in which the main office of the bank or affiliate thereof is located, or in which the witness resides or carriers on business and that such courts have jurisdiction and power to order and require compliance with any such subpena.
+1978—Subsec. (b). Pub. L. 95–630, §305(a), inserted “or other institution” after “any State nonmember bank” and struck out provisions that each claim agent have power to administer oaths and affirmations and to examine and to take and preserve testimony under oath as to any matter in respect to claims for insured deposits, and to issue subpenas and subpenas duces tecum, and, for the enforcement thereof, to apply to the United States district court for the judicial district or the United States court in any territory in which the main office of the bank or affiliate thereof is located, or in which the witness resides or carriers on business and that such courts have jurisdiction and power to order and require compliance with any such subpena.
 
 Pub. L. 95–369 inserted “any insured State branch of a foreign bank, any State branch of a foreign bank making application to become an insured bank” after “(except a District bank)”, inserted “or branch” after “and any closed insured bank”, substituted “any national bank, insured Federal branch of a foreign bank, or District bank” for “any national bank or District bank” and inserted “and in the case of a foreign bank, a binding commitment by such bank to permit such examination to the extent determined by the Board of Directors to be necessary to carry out the purposes of this chapter shall be required as a condition to the insurance of any deposits” after “effect of such relations upon such banks”.
 

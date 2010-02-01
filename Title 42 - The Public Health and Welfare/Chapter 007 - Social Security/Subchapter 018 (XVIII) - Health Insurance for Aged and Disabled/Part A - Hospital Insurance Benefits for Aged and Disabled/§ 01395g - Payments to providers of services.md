@@ -2,7 +2,7 @@
 
 #### (a) Determination of amount
 
-The Secretary shall periodically determine the amount which should be paid under this part to each provider of services with respect to the services furnished by it, and the provider of services shall be paid, at such time or times as the Secretary believes appropriate (but not less often than monthly) and prior to audit or settlement by the Government Accountability Office, from the Federal Hospital Insurance Trust Fund, the amounts so determined, with necessary adjustments on account of previously made overpayments or underpayments; except that no such payments shall be made to any provider unless it has furnished such information as the Secretary may request in order to determine the amounts due such provider under this part for the period with respect to which the amounts are being paid or any prior period.
+The Secretary shall periodically determine the amount which should be paid under this part to each provider of services with respect to the services furnished by it, and the provider of services shall be paid, at such time or times as the Secretary believes appropriate (but not less often than monthly) and prior to audit or settlement by the Government Accountability Office,from the Federal Hospital Insurance Trust Fund, the amounts so determined, with necessary adjustments on account of previously made overpayments or underpayments; except that no such payments shall be made to any provider unless it has furnished such information as the Secretary may request in order to determine the amounts due such provider under this part for the period with respect to which the amounts are being paid or any prior period.
 
 #### (b) Conditions
 
@@ -134,7 +134,7 @@ Section 9311(a)(3) of Pub. L. 99–509 provided that: “Upon the request of a h
 
 &emsp;“(C) is paid through an agency or organization with an agreement under section 1816 of such Act \[section 1395h of this title\],
 
-> the Secretary of Health and Human Services shall continue payment on such a basis until not earlier than the end of the first period of three consecutive calendar months (beginning no earlier than April 1987) during all of which the agency or organization has met the requirements of section 1816(c)(2) of such Act (relating to prompt payment of claims).”
+> the Secretary of Health and Human Services shall continue payment on such a basis until not earlier than the end of the first period of three consecutive calendarmonths (beginning no earlier than April 1987) during all of which the agency or organization has met the requirements of section 1816(c)(2) of such Act (relating to prompt payment of claims).”
 
 #### Delay in Periodic Interim Payments
 

@@ -14,7 +14,7 @@
 
 (2) The Secretary may issue a Federal guarantee instrument under this section for a qualified infrastructure project only if the loan or other debt obligation guaranteed by the instrument has been issued by an eligible lender.
 
-(3) The Secretary shall not require as a condition of issuing a Federal guarantee instrument under this section any contractual commitment or other form of credit support of the sponsors (other than equity contribution commitments and completion guarantees), or any throughput or other guarantee from prospective shippers greater than such guarantees as shall be required by the project owners.
+(3) The Secretary shall not require as a condition of issuing a Federal guarantee instrument under this section any contractual commitmentor other form of credit support of the sponsors (other than equity contribution commitments and completion guarantees), or any throughput or other guarantee from prospective shippers greater than such guarantees as shall be required by the project owners.
 
 (4) Such loan guarantee may be utilized only by the project chosen by the Federal Energy Regulatory Commission as the qualified project.
 

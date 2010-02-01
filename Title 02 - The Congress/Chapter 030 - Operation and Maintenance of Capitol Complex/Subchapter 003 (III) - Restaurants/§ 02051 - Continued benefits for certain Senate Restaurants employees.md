@@ -30,7 +30,7 @@ In this section:
 
 #### (4) Transfer date
 
-&emsp;The term “transfer date” means the date on which a contractor begins the performance offood services operations under a food services contract.
+&emsp;The term “transfer date” means the date on which a contractor begins the performance of food services operations under a food services contract.
 
 #### (b) Election of coverage
 

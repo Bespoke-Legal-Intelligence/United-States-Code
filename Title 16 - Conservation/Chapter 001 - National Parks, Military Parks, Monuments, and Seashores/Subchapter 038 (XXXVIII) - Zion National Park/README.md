@@ -14,6 +14,7 @@
 - [&sect; 00346a&#8211;3 - Exchange of lands; construction of interchange](%C2%A7%2000346a%E2%80%933%20-%20Exchange%20of%20lands%3B%20construction%20of%20interchange.md)
 - [&sect; 00346a&#8211;4 - Boundary revision](%C2%A7%2000346a%E2%80%934%20-%20Boundary%20revision.md)
 - [&sect; 00346a&#8211;5 - Zion National Park boundary adjustment](%C2%A7%2000346a%E2%80%935%20-%20Zion%20National%20Park%20boundary%20adjustment.md)
+- [&sect; 00346a&#8211;6 - Transfer of administrative jurisdiction to National Park Service](%C2%A7%2000346a%E2%80%936%20-%20Transfer%20of%20administrative%20jurisdiction%20to%20National%20Park%20Service.md)
 - [&sect; 00346b - Consolidation of Zion National Park and Zion National Monument](%C2%A7%2000346b%20-%20Consolidation%20of%20Zion%20National%20Park%20and%20Zion%20National%20Monument.md)
 - [&sect; 00346c - Administration](%C2%A7%2000346c%20-%20Administration.md)
 - [&sect; 00346d - Use of funds](%C2%A7%2000346d%20-%20Use%20of%20funds.md)

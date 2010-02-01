@@ -10,7 +10,7 @@
 
 &emsp;(3) except as provided in subsection (c), may not exceed $200 in a fiscal year for any police officer.
 
-(c) The amount of an allowance under this section may be increased to an amount up to $400 for not more than one fiscal year in the case of any Department police officer. In the case of a person who is appointed as a Department police officer on or after January 1, 1990, an allowance in an amount established under this subsection shall be paid at the beginning of such person's employment as such an officer. In the case of any other Department police officer, an allowance in an amount established under this subsection shall be paid upon the request of the officer.
+(c) The amount of an allowance under this section may be increased to an amount up to $400for not more than one fiscal year in the case of any Department police officer. In the case of a person who is appointed as a Department police officer on or after January 1, 1990, an allowance in an amount established under this subsection shall be paid at the beginning of such person's employment as such an officer. In the case of any other Department police officer, an allowance in an amount established under this subsection shall be paid upon the request of the officer.
 
 (d) A police officer who resigns as a police officer less than one year after receiving an allowance in an amount established under this section shall repay to the Department a pro rata share of the amount paid, based on the number of months the officer was actually employed as such an officer during the twelve-month period following the date on which such officer began such employment or the date on which the officer submitted a request for such an allowance, as the case may be.
 

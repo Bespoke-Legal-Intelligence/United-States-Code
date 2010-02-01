@@ -8,7 +8,7 @@ The personnel employed in connection with, and the assets, liabilities, contract
 
 #### (c) Employment, compensation, authority, and duties of personnel
 
-The Secretary is authorized, subject to the civil service and classification laws, to select, appoint, employ, and fix the compensation of such officers and employees, including attorneys, as shall be necessary to carry out the provisions of this chapter and to prescribe their authority and duties: <i>Provided</i>, That any other provision of law to the contrary notwithstanding, the Secretary may fix the compensation for not more than six positions in the Department at the annual rate applicable to positions in level V of the Executive Schedule provided by subchapter II of chapter 53 of title 5.
+The Secretary is authorized, subject to the civil service and classification laws, to select, appoint, employ, and fix the compensation of such officers and employees, including attorneys, as shall be necessary to carry out the provisions of this chapter and to prescribe their authority and duties: <i>Provided</i>, That any other provision of law to the contrary notwithstanding, the Secretary may fix the compensation for not more than six positions in the Department atthe annual rate applicable to positions in level V of the Executive Schedule provided by subchapter II of chapter 53 of title 5.
 
 #### (d) Delegation of authority; rules and regulations
 
@@ -20,7 +20,7 @@ The Secretary may obtain services as authorized by section 3109 of title 5, at r
 
 #### (f) Working capital fund; establishment; uses; appropriations; capitalization; reimbursement
 
-The Secretary is authorized to establish a working capital fund, to be available without fiscal year limitation, for expenses necessary for the maintenance and operation of such common administrative services as he shall find to be desirable in the interest of economy and efficiency in the Department, including such services as a central supply service for stationery and other supplies and equipment for which adequate stocks may be maintained to meet in whole or in part the requirements of the Department and its agencies; central messenger, mail, telephone, and other communications services; office space; central services for document reproduction and for graphics and visual aids; and a central library service. In addition to amounts appropriated to provide capital for said fund, which appropriations are hereby authorized, the fund shall be capitalized by transfer to it of suchstock of supplies and equipment on hand or on order as the Secretary shall direct. Such fund shall be reimbursed from available funds of agencies and offices in the Department for which services are performed at rates which will return in full all expenses of operation, including reserves for accrued annual leave and for depreciation of equipment.
+The Secretary is authorized to establish a working capital fund, to be available without fiscal year limitation, for expenses necessary for the maintenance and operation of such common administrative services as he shall find to be desirable in the interest of economy and efficiency in the Department, including such services as a central supply service for stationery and other supplies and equipment for which adequate stocks may be maintained to meet in whole or in part the requirements of the Department and its agencies; central messenger, mail, telephone, and other communications services; office space; central services for document reproduction and for graphics and visual aids; and a central library service. In addition to amounts appropriated to provide capital for said fund, which appropriations are hereby authorized, the fund shall be capitalized by transfer to it of such stock of supplies and equipment on hand or on order as the Secretary shall direct. Such fund shall be reimbursed from available funds of agencies and offices in the Department for which services are performed at rates which will return in full all expenses of operation, including reserves for accrued annual leave and for depreciation of equipment.
 
 #### (g) Seal
 
@@ -56,7 +56,7 @@ Notwithstanding any other provision of law the Secretary is authorized to establ
 
 (2) For the purpose of Federal income, estate, and gift taxes, property accepted under paragraph (1) shall be considered as a gift or bequest to or for use of the United States.
 
-(3) Upon the request of the Secretary, the Secretary of the Treasury may invest and reinvestin securities of the United States or in securities guaranteed as to principal and interest by the United States any moneys contained in the fund provided for in paragraph (1). Income accruing from such securities and from any other property held by the Secretary pursuant to paragraph (1) shall be deposited to the credit of the fund and shall be disbursed upon order of the Secretary.
+(3) Upon the request of the Secretary, the Secretary of the Treasury may invest and reinvest in securities of the United States or in securities guaranteed as to principal and interest by the United States any moneys contained in the fund provided for in paragraph (1). Income accruing from such securities and from any other property held by the Secretary pursuant to paragraph (1) shall be deposited to the credit of the fund and shall be disbursed upon order of the Secretary.
 
 #### (<i>l</i>) Consultants; appointment of advisory committees; compensation and travel expenses
 
@@ -154,7 +154,7 @@ A plan for the reorganization of any regional, area, insuring, or other field of
 
 &emsp;(K) titles II \[42 U.S.C. 12721 et seq.\], III, and IV and section 811 \[42 U.S.C. 8013\] of the Cranston-Gonzalez National Affordable Housing Act.
 
-(3) In conducting evaluations and monitoring pursuant to the authority under this subsection, and collecting and maintaining data pursuant to the authority under this subsection, the Secretary shall determine any need for additional staff and funding relating to evaluating and monitoring the programs under paragraph (2) and collecting and maintaining data for such purposes.
+(3) In conducting evaluations and monitoring pursuant to the authority under this subsection,and collecting and maintaining data pursuant to the authority under this subsection, the Secretary shall determine any need for additional staff and funding relating to evaluating and monitoring the programs under paragraph (2) and collecting and maintaining data for such purposes.
 
 (4)(A) The Secretary may provide for evaluation and monitoring under this subsection and collecting and maintaining data for such purposes directly or by grants, contracts, or interagency agreements. Not more than 50 percent of the amounts made available under paragraph (1) may be used for grants, contracts, or interagency agreements.
 
@@ -168,7 +168,7 @@ A plan for the reorganization of any regional, area, insuring, or other field of
 
 (2) Of the amounts authorized to be appropriated by this section, $96,000,000 shall be available for each of the fiscal years 1993 and 1994, which amounts shall be used to provide staff in regional, field, or zone offices of the Department of Housing and Urban Development to review, process, approve, and service applications for mortgage insurance under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] for housing consisting of 5 or more dwelling units.
 
-(3) Of the amounts authorized to be appropriated to carry out this section, not less than$5,000,000 of such amount shall be available for each fiscal year exclusively for the purposes of providing ongoing training and capacity building for Department personnel.
+(3) Of the amounts authorized to be appropriated to carry out this section, not less than $5,000,000 of such amount shall be available for each fiscal year exclusively for the purposes of providing ongoing training and capacity building for Department personnel.
 
 #### (t) Training regarding issues relating to grandparent-headed and relative-headed families
 
@@ -192,7 +192,7 @@ The United States Housing Act of 1937, referred to in subsec. (r)(2)(A), is act 
 
 The Fair Housing Act, referred to in subsec. (r)(2)(D), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I of chapter 45 (§3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
-The Housing and Community Development Act of 1974, referred to in subsec. (r)(2)(E), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables. Section 810 of the Act which was classified to section 1706e of Title 12, Banks and Banking, was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
+The Housing and Community Development Act of 1974, referred to in subsec. (r)(2)(E), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Actis classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables. Section 810 of the Act which was classified to section 1706e of Title 12, Banks and Banking, was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
 
 Section 201 of the Housing and Community Development Amendments of 1978, referred to in subsec. (r)(2)(F), is section 201 of Pub. L. 95–557, title II, Oct. 31, 1978, 92 Stat. 2084, which enacted section 1715z–1a of Title 12, Banks and Banking, and amended section 1715z–1 of Title 12.
 
@@ -204,7 +204,7 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (r)(2)(J), is
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (r)(2)(K), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of this title. Title III of the Act enacted subchapter III (§12851 et seq.) of chapter 130 of this title and sections 1735f–17 and 1735f–18 of Title 12, Banks and Banking, amended sections 1703, 1708, 1709, 1715d, 1715z–20, 1721, and 1735f–9 of Title 12, and enacted provisions set out as notes under sections 1703, 1709, 1713, and 1735f–18 of Title 12. Title IV of the Act, known as the Homeownership and Opportunity Through HOPE Act, enacted subchapter II–A (§1437aaa et seq.) of chapter 8 of this title and subchapter IV (§12871 et seq.) of chapter 130 of this title, amended sections 1437c, 1437f, 1437<i>l</i>, 1437p, 1437r, and 1437s of this title and section 1709 of Title 12, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
-Section 202 of the LEGACY Act of 2003, referred to in subsec. (t), is section 202 of Pub. L. 108–186, which is setout in a note under section 1701q of Title 12, Banks and Banking.
+Section 202 of the LEGACY Act of 2003, referred to in subsec. (t), is section 202 of Pub. L. 108–186, which is set out in a note under section 1701q of Title 12, Banks and Banking.
 
 #### Codification
 
@@ -338,7 +338,7 @@ In General.—Not later than 12 months after the date of the enactment of this A
 
 &emsp;&emsp;&emsp;“(viii) indications of rodent infestation; and
 
-&emsp;“(2) with respect to multifamily housing projects (as that term is defined in section 203 of the Housing and Community Development Amendments of 1978 \[12 U.S.C. 1701z–11\]) owned by the Department of Housing and Urban Development on a monthly average basis—
+&emsp;“(2) with respect to multifamily housing projects (as that term is defined in section 203 of the Housingand Community Development Amendments of 1978 \[12 U.S.C. 1701z–11\]) owned by the Department of Housing and Urban Development on a monthly average basis—
 
 &emsp;&emsp;“(A) the total number of units in those projects;
 
@@ -374,7 +374,7 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ Whoever buys or receives or has in his possession any such goods or chattels, kn
 
 Whoever embezzles, steals, or unlawfully takes, carries away, or by fraud or deception obtains with intent to convert to his own use any baggage which shall have come into the possession of any common carrier for transportation in interstate or foreign commerce or breaks into, steals, takes, carries away, or conceals any of the contents of such baggage, or buys, receives, or has in his possession any such baggage or any article therefrom of whatever nature, knowing the same to have been embezzled or stolen; or
 
-Whoever embezzles, steals, or unlawfully takes by any fraudulent device, scheme, or game, from any railroad car, bus, vehicle, steamboat, vessel, or aircraft operated by any common carrier moving in interstate or foreign commerce or from any passenger thereon any money, baggage, goods, or chattels, or whoever buys, receives, or has in his possession any such money,baggage, goods, or chattels, knowing the same to have been embezzled or stolen—
+Whoever embezzles, steals, or unlawfully takes by any fraudulent device, scheme, or game, from any railroad car, bus, vehicle, steamboat, vessel, or aircraft operated by any common carrier moving in interstate or foreign commerce or from any passenger thereon any money, baggage, goods, or chattels, or whoever buys, receives, or has in his possession any such money, baggage, goods, or chattels, knowing the same to have been embezzled or stolen—
 
 Shall be fined under this title or imprisoned not more than 10 years, or both, but if the amount or value of such money, baggage, goods, or chattels is less than $1,000, shall be fined under this title or imprisoned for not more than 3 years, or both.
 

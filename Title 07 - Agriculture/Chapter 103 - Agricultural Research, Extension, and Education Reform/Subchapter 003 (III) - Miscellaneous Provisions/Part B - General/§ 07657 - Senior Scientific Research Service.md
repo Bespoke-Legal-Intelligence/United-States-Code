@@ -28,7 +28,7 @@ There is established in the Department of Agriculture the Senior Scientific Rese
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B) and subsection (d)(2) of this section, the Secretary may appoint and employ a member of the Service without regard to—
+&emsp;&emsp;Subject to subparagraph (B) and subsection (d)(2) of this section, the Secretarymay appoint and employ a member of the Service without regard to—
 
 &emsp;&emsp;&emsp;(i) the provisions of title 5 governing appointments in the competitive service;
 

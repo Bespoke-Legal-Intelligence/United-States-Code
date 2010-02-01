@@ -78,7 +78,7 @@ It is the purpose of this section to encourage model programs to support veteran
 
 #### (e) Evaluation and accountability plan
 
-The Secretary shall develop an evaluation and accountability plan for model programs funded under this section to objectively measure the impact of such programs, including a measure of whether postsecondary education enrollment, persistence, and completion for veterans increases as a result of such programs.
+The Secretary shall develop an evaluation and accountability plan for model programs funded under this section to objectively measure the impact of such programs, including a measure ofwhether postsecondary education enrollment, persistence, and completion for veterans increases as a result of such programs.
 
 #### (f) Authorization of appropriations
 

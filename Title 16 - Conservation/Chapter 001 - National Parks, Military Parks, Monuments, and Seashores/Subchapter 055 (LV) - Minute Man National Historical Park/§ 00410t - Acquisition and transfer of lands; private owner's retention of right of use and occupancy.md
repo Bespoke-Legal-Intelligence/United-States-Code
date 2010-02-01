@@ -8,7 +8,7 @@ The park shall be established as Minute Man National Historical Park by notice i
 
 #### (b) Transfer of lands
 
-The Secretary of the Interior shall transfer, without reimbursement, to the administrative jurisdiction of the Secretary of Defense the two parcels currently administered by the Secretary of the Interior, as depicted on the map dated April 1990 and numbered NARO–406/80805. The Secretary of Defense shall transfer to the administrative jurisdiction of the Secretary of the Interior, without reimbursement, for inclusionin the Minute Man National Historical Park the 4 parcels now administered by the Secretary of Defense, as depicted on the maps dated April 1990 and numbered NARO–406/80804 and NARO–406/80805.
+The Secretary of the Interior shall transfer, without reimbursement, to the administrative jurisdiction of the Secretary of Defense the two parcels currently administered by the Secretary of the Interior, as depicted on the map dated April 1990 and numbered NARO–406/80805. The Secretary of Defense shall transfer to the administrative jurisdiction of the Secretary of the Interior, without reimbursement, for inclusion in the Minute Man National Historical Park the 4 parcels now administered by the Secretary of Defense, as depicted on the maps dated April 1990 and numbered NARO–406/80804 and NARO–406/80805.
 
 #### (c) Exceptions and limitations to authorization to acquire lands; condemnation
 
@@ -18,7 +18,7 @@ The Secretary of the Interior is authorized to acquire by donation, purchase wit
 
 &emsp;(2) lands, and interests in lands, within the 1991 additions which are used for noncommercial residential purposes as of July 1, 1991, may be acquired only with the consent of the owner thereof unless the property is being developed, or is proposed to be developed, in a manner which the Secretary determines to be detrimental to the scenic, historical, cultural, and other values of the park.
 
-> Nothing in paragraph (2) shall be construed to prohibit the use of condemnation as a means of acquiring a clear and marketable title, free of any and all encumbrances for any lands within the 1991 additions. Not later than 6 months after October 24, 1992, and after notice and opportunity for public comment, the Secretary of the Interior shall publish specific guidelines for making determinations under paragraph (2). Such guidelines shall provide for (A) written notice to the Secretary prior to commencement of any proposed development on the lands referred to in paragraph (2), (B) written notice by the Secretary to the owner of such lands of any determination proposed to be made under paragraph (2), and (C) a reasonable opportunity for the owner to comment on such proposed determination.
+> Nothing in paragraph (2) shall be construed to prohibit the use of condemnation as a means of acquiring a clear and marketable title, free of any and all encumbrances for any lands within the 1991 additions. Not later than 6 months after October 24, 1992, and after notice and opportunity for public comment, the Secretary of theInterior shall publish specific guidelines for making determinations under paragraph (2). Such guidelines shall provide for (A) written notice to the Secretary prior to commencement of any proposed development on the lands referred to in paragraph (2), (B) written notice by the Secretary to the owner of such lands of any determination proposed to be made under paragraph (2), and (C) a reasonable opportunity for the owner to comment on such proposed determination.
 
 #### (d) Private owner's retention of right of use and occupancy
 
@@ -37,4 +37,58 @@ The Minute Man National Historical Park Amendments of 1991, referred to in subse
 #### Amendments
 
 1992—Pub. L. 102–488 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+
+#### Boundary Adjustment
+
+Pub. L. 111–11, title VII, §7106, Mar. 30, 2009, 123 Stat. 1193, provided that:
+
+“(a)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Map.—The term ‘map’ means the map entitled ‘Minute Man National Historical Park Proposed Boundary’, numbered 406/81001, and dated July 2007.
+
+&emsp;“(2)
+
+Park.—The term ‘Park’ means the Minute Man National Historical Park in the State of Massachusetts.
+
+&emsp;“(3)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+
+“(b)
+
+Minute Man National Historical Park.—
+
+&emsp;“(1)
+
+Boundary adjustment.—
+
+&emsp;&emsp;“(A)
+
+In general.—The boundary of the Park is modified to include the area generally depicted on the map.
+
+&emsp;&emsp;“(B)
+
+Availability of map.—The map shall be on file and available for inspection in the appropriate offices of the National Park Service.
+
+&emsp;“(2)
+
+Acquisition of land.—The Secretary may acquire the land or an interest in the land described in paragraph (1)(A) by—
+
+&emsp;&emsp;“(A) purchase from willing sellers with donated or appropriated funds;
+
+&emsp;&emsp;“(B) donation; or
+
+&emsp;&emsp;“(C) exchange.
+
+&emsp;“(3)
+
+Administration of land.—The Secretary shall administer the land added to the Park under paragraph (1)(A) in accordance with applicable laws (including regulations).
+
+“(c)
+
+Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section.”
 

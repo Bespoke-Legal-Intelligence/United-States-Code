@@ -76,7 +76,7 @@
 
 &emsp;(B) The policy shall be based on the premises that—
 
-&emsp;&emsp;(i) the Federal Government has an established interest in conducting research anddevelopment programs for improving the usefulness, performance, speed, safety, and efficiency of aeronautical vehicles, as described in section 2451(d)(2) of this title; and
+&emsp;&emsp;(i) the Federal Government has an established interest in conducting research and development programs for improving the usefulness, performance, speed, safety, and efficiency of aeronautical vehicles, as described in section 2451(d)(2) of this title; and
 
 &emsp;&emsp;(ii) the Federal Government has an established interest in conducting research and development programs that help preserve the role of the United States as a global leader in aeronautical technologies and in their application, as described in section 2451(d)(5) of this title.
 
@@ -302,7 +302,7 @@ NASA shall make available, upon request from the Committee on Science of the Hou
 
 #### (1) Review
 
-&emsp;The Director of the Office of Science and Technology Policy shall commission an independent review of the Nation's long-term strategic needs for aeronautics test facilities and shall submit the review to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate. The review shall include an evaluation of the facility needs described pursuant to subsection (c)(2)(A)(iii). The review shall take into consideration the results of the study conducted pursuant to the instructions on page 582 of the conference report (H. Rept. 108–767) to accompany the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (P.L. 108–375).
+&emsp;The Director of the Office of Science and Technology Policy shall commission an independent review of the Nation's long-term strategic needs for aeronautics test facilities and shall submit the review to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate. The review shallinclude an evaluation of the facility needs described pursuant to subsection (c)(2)(A)(iii). The review shall take into consideration the results of the study conducted pursuant to the instructions on page 582 of the conference report (H. Rept. 108–767) to accompany the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (P.L. 108–375).
 
 #### (2) Limitation
 
@@ -378,7 +378,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>National Aeronautics Research and Development Policy</i>. Continued progress in aeronautics, the science of flight, is essential to America's economic success and the protection of America's security interests at home and around the globe. Accordingly, it shall be the policy of the United States to facilitate progress in aeronautics research and development (R\&D) through appropriate funding and activities of the Federal Government, in cooperation with State, territorial, tribal, local, and foreign governments, international organizations, academic and research institutions, private organizations, and other entities, as appropriate. The Federal Government shall only undertake roles in supporting aeronautics R\&D that are not more appropriately performed by the private sector. The National Aeronautics Research and Development Policy prepared by the National Science and Technology Council should, to the extent consistent with this order and its implementation, guide the aeronautics R\&D programs of the United States through 2020.
 
-Sec. 2. <i>Functions of the Director of the Office of Science and Technology Policy</i>. To implement the policy setforth in section 1 of this order, the Director of the Office of Science and Technology Policy (the “Director”) shall:
+Sec. 2. <i>Functions of the Director of the Office of Science and Technology Policy</i>. To implement the policy set forth in section 1 of this order, the Director of the Office of Science and Technology Policy (the “Director”) shall:
 
 (a) review the funding and activities of the Federal Government relating to aeronautics R\&D;
 

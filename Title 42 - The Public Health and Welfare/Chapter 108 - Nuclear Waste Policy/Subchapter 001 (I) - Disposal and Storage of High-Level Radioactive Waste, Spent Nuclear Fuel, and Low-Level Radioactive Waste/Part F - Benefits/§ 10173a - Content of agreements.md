@@ -20,7 +20,7 @@ BENEFITS SCHEDULE<br>(amounts in $ millions)
 
 &emsp;(C) “first spent fuel receipt” does not include receipt of spent fuel or high-level radioactive waste for purposes of testing or operational demonstration.
 
-(3) Annual payments prior to first spent fuel receipt under paragraph (1)(A) shall be made on the date of execution of the benefits agreement and thereafter on the anniversary date of such execution. Annual payments after the firstspent fuel receipt until closure of the facility under paragraph (1)(C) shall be made on the anniversary date of such first spent fuel receipt.
+(3) Annual payments prior to first spent fuel receipt under paragraph (1)(A) shall be made on the date of execution of the benefits agreement and thereafter on the anniversary date of such execution. Annual payments after the first spent fuel receipt until closure of the facility under paragraph (1)(C) shall be made on the anniversary date of such first spent fuel receipt.
 
 (4) If the first spent fuel payment under paragraph (1)(B) is made within six months after the last annual payment prior to the receipt of spent fuel under paragraph (1)(A), such first spent fuel payment under paragraph (1)(B) shall be reduced by an amount equal to one-twelfth of such annual payment under paragraph (1)(A) for each full month less than six that has not elapsed since the last annual payment under paragraph (1)(A).
 

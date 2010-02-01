@@ -10,7 +10,7 @@ Section was formerly classified to section 12542 of this title prior to renumber
 
 #### Amendments
 
-1993—Pub. L. 103–82, §101(e)(3), amended section generally, substituting provisions relating to limitation on purchase of capital equipment for provisions relating to allocation of funds.
+1993—Pub. L. 103–82, §101(e)(3), amended section generally, substituting provisions relating to limitation onpurchase of capital equipment for provisions relating to allocation of funds.
 
 1991—Subsec. (e). Pub. L. 102–10 inserted “service” after “youth”.
 

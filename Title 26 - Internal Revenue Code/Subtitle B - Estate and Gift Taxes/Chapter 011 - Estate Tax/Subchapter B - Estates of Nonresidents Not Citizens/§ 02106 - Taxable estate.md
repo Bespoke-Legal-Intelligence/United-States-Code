@@ -78,7 +78,7 @@ No deduction shall be allowed under paragraphs (1) and (2) of subsection (a) in 
 
 1976—Subsec. (a)(2)(A)(i). Pub. L. 94–455, §1902 (a)(12)(A), struck out “Territory” after “any State”.
 
-Subsec. (a)(2)(A)(ii). Pub. L. 94–455, §1307(d)(1)(B)(iii), substituted “which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation” for “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation” after “stockholder or individual”.
+Subsec. (a)(2)(A)(ii). Pub. L. 94–455, §1307(d)(1)(B)(iii), substituted “which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting toinfluence legislation” for “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation” after “stockholder or individual”.
 
 Subsec. (a)(2)(A)(iii). Pub. L. 94–455, §1307(d)(1)(C), substituted “such trust, fraternal society, order, or association would not be disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation” for “no substantial part of the activities of such trustee or trustees, or of such fraternal society, order, or association, is carrying on propaganda, or otherwise attempting, to influence legislation” after “children or animals”.
 

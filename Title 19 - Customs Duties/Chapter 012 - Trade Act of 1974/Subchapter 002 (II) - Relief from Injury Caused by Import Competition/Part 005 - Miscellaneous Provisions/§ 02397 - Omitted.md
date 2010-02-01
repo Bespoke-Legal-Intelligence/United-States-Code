@@ -1,6 +1,6 @@
 ### §2397. Omitted
 
-Section, Pub. L. 93–618, title II, §287, as added Pub. L. 100–418, title I, §1428(b), Aug. 23, 1988, 102 Stat. 1255, which imposed an additional fee, did not become effective pursuant to section 1430(b) of Pub. L. 100–418, as amended, set out below.
+Section, Pub. L. 93–618, title II, §287, as added Pub. L. 100–418, title I, §1428(b), Aug. 23, 1988, 102 Stat. 1255,which imposed an additional fee, did not become effective pursuant to section 1430(b) of Pub. L. 100–418, as amended, set out below.
 
 #### Effective Date
 
@@ -74,7 +74,7 @@ Section 1428(a) of Pub. L. 100–418 provided that:
 
 > the President shall submit to the Congress, and publish in the Federal Register, written notice of such determination on such date. \[See Determination of President of the United States, No. 90–34, set out below.\]
 
-“(5)(A) Any disapproval resolution that is introduced in the Senate or House of Representatives within the90-day period beginning on the date that is 2 years after the date of enactment of this Act \[Aug. 23, 1988\] shall, for purposes of section 152 of the Trade Act of 1974 (19 U.S.C. 2192), be treated as a joint resolution described in section 152(a)(1)(A) of such Act.
+“(5)(A) Any disapproval resolution that is introduced in the Senate or House of Representatives within the 90-day period beginning on the date that is 2 years after the date of enactment of this Act \[Aug. 23, 1988\] shall, for purposes of section 152 of the Trade Act of 1974 (19 U.S.C. 2192), be treated as a joint resolution described in section 152(a)(1)(A) of such Act.
 
 “(B) For purposes of this part \[see Effective Date note above\], the term ‘disapproval resolution’ means a joint resolution of the two Houses of the Congress, the matter after the resolving clause of which is as follows: ‘That the Congress disapproves of the determination made by the President under section 1428(a)(4)(A) of the Omnibus Trade and Competitiveness Act of 1988 \[subsec. (a)(4)(A) of this note\].’ ”
 
@@ -82,7 +82,7 @@ Section 1428(a) of Pub. L. 100–418 provided that:
 
 Determination of President of the United States, No. 90–34, Aug. 23, 1990, 55 F.R. 34889, provided:
 
-Pursuant to section 1428(a)(4)(B) of the Omnibus Trade and Competitiveness Act of 1988 \[Pub. L. 100–418, set out above\], I determine that it is not in the national economic interest to impose the fee described under subsection (b) of that section \[enacting this section\].
+Pursuant to section 1428(a)(4)(B) of the Omnibus Trade and Competitiveness Act of 1988 \[Pub. L. 100–418,set out above\], I determine that it is not in the national economic interest to impose the fee described under subsection (b) of that section \[enacting this section\].
 
 I hereby authorize and direct the United States Trade Representative to submit to the Congress and publish in the Federal Register written notice of this determination.
 

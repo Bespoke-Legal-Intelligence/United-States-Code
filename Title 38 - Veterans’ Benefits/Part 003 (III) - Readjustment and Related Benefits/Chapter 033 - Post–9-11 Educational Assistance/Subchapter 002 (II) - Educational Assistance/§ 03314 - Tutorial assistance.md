@@ -30,7 +30,7 @@ In general.—The amount of benefits described in subsection (a) that are payabl
 
 &emsp;(2)
 
-As additional assistance.—The amount provided an individual under this subsection isin addition to the amounts of educational assistance paid the individual under section 3313.
+As additional assistance.—The amount provided an individual under this subsection is in addition to the amounts of educational assistance paid the individual under section 3313.
 
 (d)
 

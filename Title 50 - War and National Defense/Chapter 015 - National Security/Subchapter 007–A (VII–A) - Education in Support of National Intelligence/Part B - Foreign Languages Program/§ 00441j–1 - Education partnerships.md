@@ -24,7 +24,7 @@ Under an educational partnership agreement entered into with an educational inst
 
 &emsp;&emsp;(B) to assist in the development for the educational institution of courses and materials on such languages.
 
-&emsp;(4) The involvement of faculty and students of the educational institution in research projects of the element of the intelligence community.
+&emsp;(4) The involvement of faculty and students of the educational institution in researchprojects of the element of the intelligence community.
 
 &emsp;(5) Cooperation with the educational institution in developing a program under which students receive academic credit at the educational institution for work on research projects of the element of the intelligence community.
 

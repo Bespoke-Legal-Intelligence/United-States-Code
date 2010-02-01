@@ -8,7 +8,7 @@ In General.—The Secretary may carry out a program using the authority provided
 
 Authority.—Under the program, the Secretary may—
 
-&emsp;(1) appoint personnel from outside the civil service and uniformed services (as such terms are defined in section 2101) to positions in the Department of Defense without regard to any provision of this title governing the appointment of employees to positions in the Department of Defense;
+&emsp;(1) appoint personnel from outside the civil service and uniformed services (as such terms are defined in section 2101) to positions in theDepartment of Defense without regard to any provision of this title governing the appointment of employees to positions in the Department of Defense;
 
 &emsp;(2) prescribe the rates of basic pay for positions to which employees are appointed under paragraph (1) at rates not in excess of the maximum rate of basic pay authorized for senior-level positions under section 5376, as increased by locality-based comparability payments under section 5304, notwithstanding any provision of this title governing the rates of pay or classification of employees in the executive branch; and
 
@@ -32,7 +32,7 @@ Limitations on Additional Payments.—(1) The total amount of the additional pay
 
 (2) An employee appointed under this section is not eligible for any bonus, monetary award, or other monetary incentive for service except for payments authorized under this section.
 
-(3) Notwithstanding any other provision of this subsection or of section 5307, no additional payments may be paid to an employee underthis section in any calendar year if, or to the extent that, the employee's total annual compensation will exceed the maximum amount of total annual compensation payable at the salary set in accordance with section 104 of title 3.
+(3) Notwithstanding any other provision of this subsection or of section 5307, no additional payments may be paid to an employee under this section in any calendar year if, or to the extent that, the employee's total annual compensation will exceed the maximum amount of total annual compensation payable at the salary set in accordance with section 104 of title 3.
 
 (e)
 

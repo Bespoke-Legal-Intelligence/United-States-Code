@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(bb) not less than 25 percent shall be available to the Secretary to support a State-based training and technical assistance system, or a national system, described in section 9843(e) of this title for supporting program quality; and
 
-&emsp;&emsp;(cc) the remainder of the portion set aside under this subclause shall be available to the Secretary to assist Head Start agencies in meeting and exceeding the standards described in section 9836a(a)(1) of this title bycarrying out activities described in subsections (a), (b), (c), (f), and (g) of section 9843 of this title, including helping Head Start programs address weaknesses identified by monitoring activities conducted by the Secretary under section 9836a(c) of this title, except that not less than $3,000,000 of the remainder shall be made available to carry out activities described in section 9843(a)(3)(B)(ii) of this title.
+&emsp;&emsp;(cc) the remainder of the portion set aside under this subclause shall be available to the Secretary to assist Head Start agencies in meeting and exceeding the standards described in section 9836a(a)(1) of this title by carrying out activities described in subsections (a), (b), (c), (f), and (g) of section 9843 of this title, including helping Head Start programs address weaknesses identified by monitoring activities conducted by the Secretary under section 9836a(c) of this title, except that not less than $3,000,000 of the remainder shall be made available to carry out activities described in section 9843(a)(3)(B)(ii) of this title.
 
 (ii) In determining the portion set aside under clause (i)(I) and the amount reserved under this subparagraph, the Secretary shall consider the number of Early Head Start programs newly funded for that fiscal year.
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(aa) subject to subparagraph (B), provide 5 percent of that amount for Indian Head Start programs (including Early Head Start programs), and 5 percent of that amount for migrant and seasonal Head Start programs, to increase enrollment in the programs involved; and
 
-&emsp;&emsp;&emsp;(bb) use 90 percent of that amount to provide, for each Head Start agency (including each Early Head Start agency) funded as described in clause (i)(I), the same percentage (but not less than 50 percent) of the cost of living increase described in clause (i); and
+&emsp;&emsp;&emsp;(bb) use 90 percent of that amount to provide, for each Head Start agency (including each Early Head Start agency)funded as described in clause (i)(I), the same percentage (but not less than 50 percent) of the cost of living increase described in clause (i); and
 
 &emsp;&emsp;(II) for fiscal year 2011 and each subsequent fiscal year—
 
@@ -110,7 +110,7 @@
 
 &emsp;(i) use 0.2 percent for Head Start programs funded under clause (iv) or (v) of paragraph (2)(B) (other than Early Head Start programs);
 
-&emsp;(ii) for any fiscal year after the last fiscal year for which Indian Head Start programs receive funds under the special expansion provisions, use 3 percent for Head Start programs funded under paragraph (2)(B)(ii) (other than Early Head Start programs), except that the Secretary may increase that percentage if the Secretary determines that the results of the study conducted under section 9844(k) of this title indicate that the percentage should be increased;
+&emsp;(ii) for any fiscal year after the last fiscal year for which Indian Head Start programs receive funds under the special expansion provisions, use 3 percent for Head Start programs funded under paragraph (2)(B)(ii) (other than Early Head Start programs), except that the Secretary may increase that percentage if the Secretary determines that the results of the study conducted under section 9844(k) of thistitle indicate that the percentage should be increased;
 
 &emsp;(iii) for any fiscal year after the last fiscal year for which migrant or seasonal Head Start programs receive funds under the special expansion provisions, use 4.5 percent for Head Start programs funded under paragraph (2)(B)(iii) (other than Early Head Start programs), except that the Secretary may increase that percentage if the Secretary determines that the results of the study conducted under section 9844(<i>l</i>) of this title indicate that the percentage should be increased; and
 
@@ -332,7 +332,7 @@ Nothing in this subchapter shall be construed to require a State to establish a 
 
 All curricula funded under this subchapter shall be based on scientifically valid research, and be age and developmentally appropriate. The curricula shall reflect all areas of child development and learning and be aligned with the Head Start Child Outcomes Framework. Parents shall have the opportunity to examine any such curricula or instructional materials funded under this subchapter.
 
-(Pub. L. 97–35, title VI, §640, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §103, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §102, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–476, title IX, §901(d), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–501, title I, §§104(a), 105, 123(b), Nov. 3, 1990, 104 Stat. 1224, 1228, 1237; Pub. L. 102–119, §26(g), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–401, §2(a)–(d), (k)(1), Oct. 7, 1992, 106 Stat. 1956, 1958; Pub. L. 103–252, title I, §105, May 18, 1994, 108 Stat. 626; Pub. L. 104–193, title I, §110(t), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title I, §106(a)–(d), Oct. 27, 1998, 112 Stat. 2705–2711; Pub. L. 108–446, title III, §305(<i>l</i>)(1), (2), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §6, Dec. 12, 2007, 121 Stat. 1367.)
+(Pub. L. 97–35, title VI, §640, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §103, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §102,Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–476, title IX, §901(d), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–501, title I, §§104(a), 105, 123(b), Nov. 3, 1990, 104 Stat. 1224, 1228, 1237; Pub. L. 102–119, §26(g), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–401, §2(a)–(d), (k)(1), Oct. 7, 1992, 106 Stat. 1956, 1958; Pub. L. 103–252, title I, §105, May 18, 1994, 108 Stat. 626; Pub. L. 104–193, title I, §110(t), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title I, §106(a)–(d), Oct. 27, 1998, 112 Stat. 2705–2711; Pub. L. 108–446, title III, §305(<i>l</i>)(1), (2), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §6, Dec. 12, 2007, 121 Stat. 1367.)
 
 #### References in Text
 
@@ -414,7 +414,7 @@ Subsec. (a)(3)(B)(vi). Pub. L. 105–285, §106(a)(2)(B)(iv), inserted before pe
 
 Subsec. (a)(3)(B)(vii), (viii). Pub. L. 105–285, §106(a)(2)(B)(v), (vi), added cl. (vii) and redesignated former cl. (vii) as (viii).
 
-Subsec. (a)(3)(C)(i)(I). Pub. L. 105–285, §106(a)(2)(C)(i)(I), substituted “this paragraph” for “this subparagraph”, “of classroom teachers and otherstaff” for “of staff”, and “qualified staff, including recruitment and retention pursuant to achieving the requirements set forth in section 9843a(a) of this title” for “such staff”, and inserted at end “Preferences in awarding salary increases, in excess of cost-of-living allowances, with such funds shall be granted to classroom teachers and staff who obtain additional training or education related to their responsibilities as employees of a Head Start program.”
+Subsec. (a)(3)(C)(i)(I). Pub. L. 105–285, §106(a)(2)(C)(i)(I), substituted “this paragraph” for “this subparagraph”, “of classroom teachers and other staff” for “of staff”, and “qualified staff, including recruitment and retention pursuant to achieving the requirements set forth in section 9843a(a) of this title” for “such staff”, and inserted at end “Preferences in awarding salary increases, in excess of cost-of-living allowances, with such funds shall be granted to classroom teachers and staff who obtain additional training or education related to their responsibilities as employees of a Head Start program.”
 
 Subsec. (a)(3)(C)(i)(II). Pub. L. 105–285, §106(a)(2)(C)(i)(II), substituted “this subparagraph” for “the subparagraph”.
 
@@ -480,7 +480,7 @@ Subsec. (a)(2)(D). Pub. L. 103–252, §105(b)(2)(B), inserted “(including pay
 
 Subsec. (a)(3)(A), (B). Pub. L. 103–252, §105(a)(2), added subpars. (A) and (B). Former subpars. (A) and (B) redesignated subpars. (C) and (D), respectively.
 
-Subsec. (a)(3)(C). Pub. L. 103–252, §105(a)(1)–(3), redesignated subpar. (A) as (C), substituted in introductory provisions “Quality improvement funds shall be used to carry out any or all of the following activities:” for “For any fiscal year for which the amount appropriated under section 9834(a) of this title exceeds the adjusted appropriation, the Secretary shall reserve the qualityimprovement funds for such fiscal year, for one or more of the following quality improvement activities:”, and added cl. (vii).
+Subsec. (a)(3)(C). Pub. L. 103–252, §105(a)(1)–(3), redesignated subpar. (A) as (C), substituted in introductory provisions “Quality improvement funds shall be used to carry out any or all of the following activities:” for “For any fiscal year for which the amount appropriated under section 9834(a) of this title exceeds the adjusted appropriation, the Secretary shall reserve the quality improvement funds for such fiscal year, for one or more of the following quality improvement activities:”, and added cl. (vii).
 
 Subsec. (a)(3)(D). Pub. L. 103–252, §105(a)(1), redesignated subpar. (B) as (D).
 
@@ -510,7 +510,7 @@ Subsec. (a)(7). Pub. L. 103–252, §105(b)(4), redesignated par. (6) as (7).
 
 Subsec. (g). Pub. L. 103–252, §105(c), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (h). Pub. L. 103–252, §105(d), substituted “Financial assistance provided under this subchapter may be used by each Head Start program to” for “Each Head Start program may”.
+Subsec. (h). Pub. L. 103–252, §105(d), substituted “Financial assistance provided under this subchapter maybe used by each Head Start program to” for “Each Head Start program may”.
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 103–252, §105(e), added subsecs. (j) to (<i>l</i>).
 
@@ -592,7 +592,7 @@ Effective Dates.—(1) Except as provided in paragraph (2) and subsection (b), t
 
 “(b)
 
-Application of Amendments.—The amendments made by this Act, other than the amendment made by section 2(e)(1), shall not apply with respect to fiscal years beginning before October 1, 1992.”
+Application of Amendments.—The amendments made by this Act, other than the amendment made bysection 2(e)(1), shall not apply with respect to fiscal years beginning before October 1, 1992.”
 
 #### Effective Date of 1990 Amendments
 

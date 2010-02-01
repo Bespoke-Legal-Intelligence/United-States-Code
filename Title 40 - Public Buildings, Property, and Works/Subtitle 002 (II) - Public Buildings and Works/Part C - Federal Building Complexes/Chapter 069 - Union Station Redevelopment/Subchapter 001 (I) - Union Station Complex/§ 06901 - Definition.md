@@ -22,7 +22,7 @@ Pub. L. 90–264, title I, §111(a) (last sentence), as added Pub. L. 97–125, 
 
 #### References in Text
 
-Sections 101–110 of the National Visitors Center Facilities Act of 1968, referred to in text, are sections 101 to 110 of Pub. L. 90–264, title I, Mar. 12, 1968, 82 Stat. 43–45, which were classified principally to part A (§801 et seq.) of subchapter I of chapter 18 of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.Section 104 of the Act was classified as a note under section 804 of former Title 40 prior to repeal by Pub. L. 107–217. Section 108 of the Act was not classified to the Code.
+Sections 101–110 of the National Visitors Center Facilities Act of 1968, referred to in text, are sections 101 to 110 of Pub. L. 90–264, title I, Mar. 12, 1968, 82 Stat. 43–45, which were classified principally to part A (§801 et seq.) of subchapter I of chapter 18 of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304. Section 104 of the Act was classified as a note under section 804 of former Title 40 prior to repeal by Pub. L. 107–217. Section 108 of the Act was not classified to the Code.
 
 #### Sale of Air Rights
 

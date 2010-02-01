@@ -28,7 +28,7 @@
 | [8420a.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008420a%20-%20Alternative%20forms%20of%20annuities.md) | Alternative forms of annuities. |
 | [8421\.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008421%20-%20Annuity%20supplement.md) | Annuity supplement. |
 | [8421a.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008421a%20-%20Reductions%20on%20account%20of%20earnings%20from%20work%20performed%20while%20entitled%20to%20an%20annuity%20supplement.md) | Reductions on account of earnings from work performed while entitled to an annuity supplement. |
-| [8422\.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008422%20-%20Deductions%20from%20pay%3B%20contributions%20for%20other%20service.md) | Deductions from pay; contributions for other service. |
+| [8422\.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008422%20-%20Deductions%20from%20pay%3B%20contributions%20for%20other%20service%3B%20deposits.md) | Deductions from pay; contributions for other service; deposits. |
 | [8423\.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008423%20-%20Government%20contributions.md) | Government contributions. |
 | [8424\.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008424%20-%20Lump-sum%20benefits%3B%20designation%20of%20beneficiary%3B%20order%20of%20precedence.md) | Lump-sum benefits; designation of beneficiary; order of precedence. |
 | [8425\.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008425%20-%20Mandatory%20separation.md) | Mandatory separation. |
@@ -44,6 +44,7 @@
 | [8432a.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008432a%20-%20Payment%20of%20lost%20earnings.md) | Payment of lost earnings. |
 | [8432b.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008432b%20-%20Contributions%20of%20persons%20who%20perform%20military%20service.md) | Contributions of persons who perform military service. |
 | [8432c.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008432c%20-%20Contributions%20of%20certain%20persons%20reemployed%20after%20service%20with%20international%20organizations.md) | Contributions of certain persons reemployed after service with international organizations. |
+| [8432d.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008432d%20-%20Qualified%20Roth%20contribution%20program.md) | Qualified Roth contribution program. |
 | [8433\.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008433%20-%20Benefits%20and%20election%20of%20benefits.md) | Benefits and election of benefits. |
 | [8434\.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008434%20-%20Annuities%20methods%20of%20payment%3B%20election%3B%20purchase.md) | Annuities: methods of payment; election; purchase. |
 | [8435\.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008435%20-%20Protections%20for%20spouses%20and%20former%20spouses.md) | Protections for spouses and former spouses. |
@@ -118,10 +119,15 @@
 | [8478\.](Subchapter%20007%20%28VII%29%20-%20Federal%20Retirement%20Thrift%20Investment%20Management%20System/%C2%A7%2008478%20-%20Bonding.md) | Bonding. |
 | [8478a.](Subchapter%20007%20%28VII%29%20-%20Federal%20Retirement%20Thrift%20Investment%20Management%20System/%C2%A7%2008478a%20-%20Investigative%20authority.md) | Investigative authority. |
 | [8479\.](Subchapter%20007%20%28VII%29%20-%20Federal%20Retirement%20Thrift%20Investment%20Management%20System/%C2%A7%2008479%20-%20Exculpatory%20provisions%3B%20insurance.md) | Exculpatory provisions; insurance. |
+| [8480\.](Subchapter%20007%20%28VII%29%20-%20Federal%20Retirement%20Thrift%20Investment%20Management%20System/%C2%A7%2008480%20-%20Subpoena%20authority.md) | Subpoena authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. A, title XIX, §1904(b)(3)(B), Oct. 28, 2009, 123 Stat. 2617, added item 8422 and struck out former item 8422 “Deductions from pay; contributions for other service”.
+
+Pub. L. 111–31, div. B, title I, §§103(b), 107(b), June 22, 2009, 123 Stat. 1854, 1856, added items 8432d and 8480.
 
 2001—Pub. L. 107–107, div. A, title XI, §1132(b)(2)(C), Dec. 28, 2001, 115 Stat. 1244, substituted “other service” for “military service” in item 8422.
 
@@ -145,7 +151,7 @@ Pub. L. 102–378, §5(d)(2), Oct. 2, 1992, 106 Stat. 1358, amended directory la
 
 1991—Pub. L. 102–198, §7(c)(2), Dec. 9, 1991, 105 Stat. 1625, redesignated item 8440b “Claims Court judges” as item 8440c.
 
-Pub. L. 102–198, §7(c)(4)(B), Dec. 9, 1991, 105 Stat. 1625, as amended by Pub. L. 102–378, §5(d)(2), Oct. 2, 1992, 106 Stat. 1358, redesignated item 8440c “Judges of theUnited States Court of Veterans Appeals” as item 8440d.
+Pub. L. 102–198, §7(c)(4)(B), Dec. 9, 1991, 105 Stat. 1625, as amended by Pub. L. 102–378, §5(d)(2), Oct. 2, 1992, 106 Stat. 1358, redesignated item 8440c “Judges of the United States Court of Veterans Appeals” as item 8440d.
 
 Pub. L. 102–82, §5(a)(2), Aug. 6, 1991, 105 Stat. 376, added item 8440c “Judges of the United States Court of Veterans Appeals”.
 

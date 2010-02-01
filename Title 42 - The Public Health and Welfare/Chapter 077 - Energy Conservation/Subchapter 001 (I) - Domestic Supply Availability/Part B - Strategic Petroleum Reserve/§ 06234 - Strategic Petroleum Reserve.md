@@ -20,7 +20,7 @@ The Secretary, in accordance with this part, shall exercise authority over the d
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–469, §103(7)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a)provided for the creation of a Strategic Petroleum Reserve of up to 1 billion barrels of petroleum products and required that the Reserve contain not less than 150 million barrels of petroleum products by the end of the 3-year period beginning on Dec. 22, 1975, and that the President take actions to enlarge the Reserve to 1,000,000,000 barrels as rapidly as possible beginning Oct. 24, 1992.
+2000—Subsec. (a). Pub. L. 106–469, §103(7)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) provided for the creation of a Strategic Petroleum Reserve of up to 1 billion barrels of petroleum products and required that the Reserve contain not less than 150 million barrels of petroleum products by the end of the 3-year period beginning on Dec. 22, 1975, and that the President take actions to enlarge the Reserve to 1,000,000,000 barrels as rapidly as possible beginning Oct. 24, 1992.
 
 Subsec. (b). Pub. L. 106–469, §103(7)(B), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary, not later than December 15, 1976, shall prepare and transmit to the Congress, in accordance with section 6421 of this title, a Strategic Petroleum Reserve Plan. Such Plan shall comply with the provisions of this section and shall detail the Secretary's proposals for designing, constructing, and filling the storage and related facilities of the Reserve.”
 

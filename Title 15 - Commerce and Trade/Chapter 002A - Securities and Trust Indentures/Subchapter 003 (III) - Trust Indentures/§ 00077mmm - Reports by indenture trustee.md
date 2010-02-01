@@ -26,7 +26,7 @@ The indenture trustee shall transmit to the indenture security holders as herein
 
 &emsp;(1) the release, or release and substitution, of property subject to the lien of the indenture (and the consideration therefor, if any) unless the fair value of such property, as set forth in the certificate or opinion required by paragraph (1) of subsection (d) of section 77nnn of this title, is less than 10 per centum of the principal amount of indenture securities outstanding at the time of such release, or such release and substitution, such report to be so transmitted within 90 days after such time; and
 
-&emsp;(2) the character and amount of any advances made by it as such since the date of the last report transmitted pursuant to the provisions of subsection (a) of this section (or if no such report has yet been so transmitted, since the date of execution of the indenture), for the reimbursement of which it claims or may claim a lien or charge, prior to that of the indenture securities, on the trust estate or on property or funds held or collected by it as such trustee, and which it has not previously reported pursuant to this paragraph, if such advances remaining unpaid at any time aggregate more than 10 per centum of the principal amount of indenture securities outstanding at such time, such report to be so transmitted within 90 days after such time.
+&emsp;(2) the character and amount of any advances made by it as such since the date of the last report transmitted pursuant to the provisions of subsection (a) of this section (or if no such report has yet been so transmitted, since the date of execution of the indenture), for the reimbursement of which it claims or may claim a lien or charge, prior to that of the indenture securities, on the trust estate or on property or funds held or collected by it as such trustee, and which it has not previously reported pursuant to this paragraph, if such advances remaining unpaid at any time aggregate more than 10 per centum of the principalamount of indenture securities outstanding at such time, such report to be so transmitted within 90 days after such time.
 
 #### (c) Additional parties to whom reports to be transmitted
 
@@ -42,7 +42,7 @@ Reports pursuant to this section shall be transmitted by mail—
 
 A copy of each such report shall, at the time of such transmission to indenture security holders, be filed with each stock exchange upon which the indenture securities are listed, and also with the Commission.
 
-(May 27, 1933, ch. 38, title III, §313, as added Aug. 3, 1939, ch. 411, 53 Stat. 1165; amended Pub. L.101–550, title IV, §§411, 412, Nov. 15, 1990, 104 Stat. 2729; Pub. L. 105–353, title III, §301(e)(3), Nov. 3, 1998, 112 Stat. 3237.)
+(May 27, 1933, ch. 38, title III, §313, as added Aug. 3, 1939, ch. 411, 53 Stat. 1165; amended Pub. L. 101–550, title IV, §§411, 412, Nov. 15, 1990, 104 Stat. 2729; Pub. L. 105–353, title III, §301(e)(3), Nov. 3, 1998, 112 Stat. 3237.)
 
 #### Amendments
 

@@ -20,7 +20,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Not later than 90 days after December 19, 2007, the Secretary and the Administrator of the Environmental Protection Agency shall, after consulting with information technology industry and other interested parties, initiate a voluntary national information program for those types of data centers and data center equipment and facilities that are widely usedand for which there is a potential for significant data center energy savings as a result of the program.
+&emsp;Not later than 90 days after December 19, 2007, the Secretary and the Administrator of the Environmental Protection Agency shall, after consulting with information technology industry and other interested parties, initiate a voluntary national information program for those types of data centers and data center equipment and facilities that are widely used and for which there is a potential for significant data center energy savings as a result of the program.
 
 #### (2) Requirements
 
@@ -72,7 +72,7 @@ In this section:
 
 &emsp;&emsp;(D) have a mission to develop and promote energy efficiency for data centers and information technology; and
 
-&emsp;&emsp;(E) have the primary responsibility to consult in the development and publishing of the information, measurements, and benchmarks described in subsection (b) and transmission of the information to the Secretary and the Administrator for consideration under subsection (d).
+&emsp;&emsp;(E) have the primary responsibility to consult in the development and publishing ofthe information, measurements, and benchmarks described in subsection (b) and transmission of the information to the Secretary and the Administrator for consideration under subsection (d).
 
 #### (d) Measurements and specifications
 

@@ -4,15 +4,25 @@
 
 Conditions for Obligation of Funds for Defense Business System Modernization.—Effective October 1, 2005, funds appropriated to the Department of Defense may not be obligated for a defense business system modernization that will have a total cost in excess of $1,000,000 unless—
 
-&emsp;(1) the approval authority designated for the defense business system certifies to the Defense Business Systems Management Committee established by section 186 of this title that the defense business system modernization—
+&emsp;(1) the appropriate chief management officer for the defense business system modernization has determined whether or not—
 
-&emsp;&emsp;(A) is in compliance with the enterprise architecture developed under subsection (c);
+&emsp;&emsp;(A) the defense business system modernization is in compliance with the enterprise architecture developed under subsection (c); and
+
+&emsp;&emsp;(B) appropriate business process reengineering efforts have been undertaken to ensure that—
+
+&emsp;&emsp;&emsp;(i) the business process to be supported by the defense business system modernization will be as streamlined and efficient as practicable; and
+
+&emsp;&emsp;&emsp;(ii) the need to tailor commercial-off-the-shelf systems to meet unique requirements or incorporate unique interfaces has been eliminated or reduced to the maximum extent practicable;
+
+&emsp;(2) the approval authority designated for the defense business system certifies to the Defense Business Systems Management Committee established by section 186 of this title that the defense business system modernization—
+
+&emsp;&emsp;(A) has been determined by the appropriate chief management officer to be in compliance with the requirements of paragraph (1);
 
 &emsp;&emsp;(B) is necessary to achieve a critical national security capability or address a critical requirement in an area such as safety or security; or
 
 &emsp;&emsp;(C) is necessary to prevent a significant adverse effect on a project that is needed to achieve an essential capability, taking into consideration the alternative solutions for preventing such adverse effect; and
 
-&emsp;(2) the certification by the approval authority is approved by the Defense Business Systems Management Committee.
+&emsp;(3) the certification by the approval authority and the determination by the chief management officer are approved by the Defense Business Systems Management Committee.
 
 (b)
 
@@ -56,17 +66,29 @@ Composition of Transition Plan.—(1) The transition plan developed under subsec
 
 (f)
 
-Approval Authorities and Accountability for Defense Business Systems.—The Secretary of Defense shall delegate responsibility for review, approval, and oversight of the planning, design, acquisition, deployment, operation, maintenance, and modernization of defense business systems as follows:
+Approval Authorities and Accountability for Defense Business Systems.—(1) The Secretary of Defense shall delegate responsibility for review, approval, and oversight of the planning, design, acquisition, deployment, operation, maintenance, and modernization of defense business systems as follows:
 
-&emsp;(1) The Under Secretary of Defense for Acquisition, Technology and Logistics shall be responsible and accountable for any defense business system the primary purpose of which is to support acquisition activities, logistics activities, or installations and environment activities of the Department of Defense.
+&emsp;(A) The Under Secretary of Defense for Acquisition, Technology and Logistics shall be responsible and accountable for any defense business system the primary purpose of which is to support acquisition activities, logistics activities, or installations and environment activities of the Department of Defense.
 
-&emsp;(2) The Under Secretary of Defense (Comptroller) shall be responsible and accountable for any defense business system the primary purpose of which is to support financial management activities or strategic planning and budgeting activities of the Department of Defense.
+&emsp;(B) The Under Secretary of Defense (Comptroller) shall be responsible and accountable for any defense business system the primary purpose of which is to support financial management activities or strategic planning and budgeting activities of the Department of Defense.
 
-&emsp;(3) The Under Secretary of Defense for Personnel and Readiness shall be responsible and accountable for any defense business system the primary purpose of which is to supporthuman resource management activities of the Department of Defense.
+&emsp;(C) The Under Secretary of Defense for Personnel and Readiness shall be responsible and accountable for any defense business system the primary purpose of which is to support human resource management activities of the Department of Defense.
 
-&emsp;(4) The Assistant Secretary of Defense for Networks and Information Integration and the Chief Information Officer of the Department of Defense shall be responsible and accountable for any defense business system the primary purpose of which is to support information technology infrastructure or information assurance activities of the Department of Defense.
+&emsp;(D) The Assistant Secretary of Defense for Networks and Information Integration and the Chief Information Officer of the Department of Defense shall be responsible and accountable for any defense business system the primary purpose of which is to support information technology infrastructure or information assurance activities of the Department of Defense.
 
-&emsp;(5) The Deputy Secretary of Defense or an Under Secretary of Defense, as designated by the Secretary of Defense, shall be responsible for any defense business system the primary purpose of which is to support any activity of the Department of Defense not covered by paragraphs (1) through (4).
+&emsp;(E) The Deputy Secretary of Defense or an Under Secretary of Defense, as designated by the Secretary of Defense, shall be responsible for any defense business system the primary purpose of which is to support any activity of the Department of Defense not covered by subparagraphs (A) through (D).
+
+(2) For purposes of subsection (a), the appropriate chief management officer for a defense business system modernization is as follows:
+
+&emsp;(A) In the case of an Army program, the Chief Management Officer of the Army.
+
+&emsp;(B) In the case of a Navy program, the Chief Management Officer of the Navy.
+
+&emsp;(C) In the case of an Air Force program, the Chief Management Officer of the Air Force.
+
+&emsp;(D) In the case of a program of a Defense Agency, the Deputy Chief Management Officer of the Department of Defense.
+
+&emsp;(E) In the case of a program that will support the business processes of more than one military department or Defense Agency, the Deputy Chief Management Officer of the Department of Defense.
 
 (g)
 
@@ -138,7 +160,7 @@ Definitions.—In this section:
 
 &emsp;(6) The term “national security system” has the meaning given that term in section 3542(b)(2) of title 44.
 
-(Added Pub. L. 108–375, div. A, title III, §332(a)(1), Oct. 28, 2004, 118 Stat. 1851; amended Pub. L. 109–364, div. A, title IX, §906(a), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–417, \[div. A\], title III, §351, Oct. 14, 2008, 122 Stat. 4425.)
+(Added Pub. L. 108–375, div. A, title III, §332(a)(1), Oct. 28, 2004, 118 Stat. 1851; amended Pub. L. 109–364, div. A, title IX, §906(a), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–417, \[div. A\], title III, §351, Oct. 14, 2008, 122 Stat. 4425; Pub. L. 111–84, div. A, title X, §1072(a), Oct. 28, 2009, 123 Stat. 2470.)
 
 #### Prior Provisions
 
@@ -146,9 +168,119 @@ A prior section 2222, added Pub. L. 105–85, div. A, title X, §1008(a)(1), Nov
 
 #### Amendments
 
+2009—Subsec. (a). Pub. L. 111–84, §1072(a)(1)(A), (B), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+
+Subsec. (a)(2)(A). Pub. L. 111–84, §1072(a)(1)(C), added subpar. (A) and struck out former subpar. (A), which read as follows: “is in compliance with the enterprise architecture developed under subsection (c);”.
+
+Subsec. (a)(3). Pub. L. 111–84, §1072(a)(1)(D), substituted “the certification by the approval authority and the determination by the chief management officer are” for “the certification by the approval authority is”.
+
+Subsec. (f). Pub. L. 111–84, §1072(a)(2), designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), in subpar. (E) substituted “subparagraphs (A) through (D)” for “paragraphs (1) through (4)”, and added par. (2).
+
 2008—Subsec. (i). Pub. L. 110–417 substituted “2013” for “2009” in introductory provisions.
 
 2006—Subsec. (j)(6). Pub. L. 109–364 substituted “in section 3542(b)(2) of title 44” for “in section 2315 of this title”.
+
+#### Audit Readiness of Financial Statements of the Department of Defense
+
+Pub. L. 111–84, div. A, title X, §1003, Oct. 28, 2009, 123 Stat. 2439, provided that:
+
+“(a)
+
+Financial Improvement Audit Readiness Plan.—
+
+&emsp;“(1)
+
+In general.—The Chief Management Officer of the Department of Defense shall, in consultation with the Under Secretary of Defense (Comptroller), develop and maintain a plan to be known as the ‘Financial Improvement and Audit Readiness Plan’.
+
+&emsp;“(2)
+
+Elements.—The plan required by paragraph (1) shall—
+
+&emsp;&emsp;“(A) describe specific actions to be taken and the costs associated with—
+
+&emsp;&emsp;&emsp;“(i) correcting the financial management deficiencies that impair the ability of the Department of Defense to prepare timely, reliable, and complete financial management information; and
+
+&emsp;&emsp;&emsp;“(ii) ensuring the financial statements of the Department of Defense are validated as ready for audit by not later than September 30, 2017;
+
+&emsp;&emsp;“(B) systematically tie the actions described under subparagraph (A) to process and control improvements and business systems modernization efforts described in the business enterprise architecture and transition plan required by section 2222 of title 10, United States Code;
+
+&emsp;&emsp;“(C) prioritize—
+
+&emsp;&emsp;&emsp;“(i) improving the budgetary information of the Department of Defense, in order to achieve an unqualified audit opinion on the Department's statements of budgetary resources; and
+
+&emsp;&emsp;&emsp;“(ii) as a secondary goal, improving the accuracy and reliability of management information on the Department's mission-critical assets (military and general equipment, real property, inventory, and operating materials and supplies) and validating its accuracy through existence and completeness audits; and
+
+&emsp;&emsp;“(D) include interim goals, including—
+
+&emsp;&emsp;&emsp;“(i) the objective of ensuring that the financial statement of each of the Department of the Army, the Department of the Navy, the Department of the Air Force, and the Defense Logistics Agency is validated as ready for audit: and
+
+&emsp;&emsp;&emsp;“(ii) a schedule setting forth milestones for elements of the military departments and financial statements of the military departments to be made ready for audit as part of the progress required to meet the objectives established pursuant to clause (i) of this subparagraph and clause (ii) of subparagraph (A) of this paragraph.
+
+“(b)
+
+Semi-annual Reports on Financial Improvement and Audit Readiness Plan.—
+
+&emsp;“(1)
+
+In general.—Not later than May 15 and November 15 each year, the Under Secretary of Defense (Comptroller) shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the status of the implementation by the Department of Defense of the Financial Improvement and Audit Readiness Plan required by subsection (a).
+
+&emsp;“(2)
+
+Elements.—Each report under paragraph (1) shall include, at a minimum—
+
+&emsp;&emsp;“(A) an overview of the steps the Department has taken or plans to take to meet the objectives specified in subsection (a)(2)(A), including progress toward achieving the interim goals and milestone schedule established pursuant to subsection (a)(2)(D); and
+
+&emsp;&emsp;“(B) a description of any impediments identified in the efforts of the Department to meet such objectives, and of the actions the Department has taken or plans to take to address such impediments.
+
+&emsp;“(3)
+
+Additional issues to be addressed in first report.—The first report submitted under paragraph (1) after the date of the enactment of this Act \[Oct. 28, 2009\] shall address, in addition to the elements required by paragraph (2), the actions taken or to be taken by the Department as follows:
+
+&emsp;&emsp;“(A) To develop standardized guidance for financial improvement plans by components of the Department.
+
+&emsp;&emsp;“(B) To establish a baseline of financial management capabilities and weaknesses at the component level of the Department.
+
+&emsp;&emsp;“(C) To provide results-oriented metrics for measuring and reporting quantifiable results toward addressing financial management deficiencies.
+
+&emsp;&emsp;“(D) To define the oversight roles of the Chief Management Officer of the Department of Defense, the chief management officers of the military departments, and other appropriate elements of the Department to ensure that the requirements of the Financial Improvement and Audit Readiness Plan are carried out.
+
+&emsp;&emsp;“(E) To assign accountability for carrying out specific elements of the Financial Improvement and Audit Readiness Plan to appropriate officials and organizations at the component level of the Department.
+
+&emsp;&emsp;“(F) To develop mechanisms to track budgets and expenditures for the implementation of the requirements of the Financial Improvement and Audit Readiness Plan.
+
+&emsp;&emsp;“(G) To develop a mechanism to conduct audits of the military intelligence programs and agencies and to submit audited financial statements for such agencies to Congress in a classified manner.
+
+“(c)
+
+Relationship to Existing Law.—The requirements of this section shall be implemented in a manner that is consistent with the requirements of section 1008 of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 115 Stat. 1204; 10 U.S.C. 2222 \[113\] note).”
+
+#### Business Process Reengineering Efforts; Ongoing Programs
+
+Pub. L. 111–84, div. A, title X, §1072(b), Oct. 28, 2009, 123 Stat. 2471, provided that:
+
+“(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Oct. 28, 2009\], the appropriate chief management officer for each defense business system modernization approved by the Defense Business Systems Management Committee before the date of the enactment of this Act that will have a total cost in excess of $100,000,000 shall review such defense business system modernization to determine whether or not appropriate business process reengineering efforts have been undertaken to ensure that—
+
+&emsp;“(A) the business process to be supported by such defense business system modernization will be as streamlined and efficient as practicable; and
+
+&emsp;“(B) the need to tailor commercial-off-the-shelf systems to meet unique requirements or incorporate unique interfaces has been eliminated or reduced to the maximum extent practicable.
+
+“(2)
+
+Action on finding of lack of reengineering efforts.—If the appropriate chief management officer determines that appropriate business process reengineering efforts have not been undertaken with regard to a defense business system modernization as described in paragraph (1), that chief management officer—
+
+&emsp;“(A) shall develop a plan to undertake business process reengineering efforts with respect to the defense business system modernization; and
+
+&emsp;“(B) may direct that the defense business system modernization be restructured or terminated, if necessary to meet the requirements of paragraph (1).
+
+“(3)
+
+Definitions.—In this subsection:
+
+&emsp;“(A) The term ‘appropriate chief management officer’, with respect to a defense business system modernization, has the meaning given that term in paragraph (2) of subsection (f) of section 2222 of title 10, United States Code (as amended by subsection (a)(2) of this section).
+
+&emsp;“(B) The term ‘defense business system modernization’ has the meaning given that term in subsection (j)(3) of section 2222 of title 10, United States Code.”
 
 #### Business Transformation Initiatives for the Military Departments
 
@@ -340,7 +472,7 @@ Initial Operational Capability Limitation.—If an information system described 
 
 “(c)
 
-Covered Systems.—An information system described in this subsection is any Department of Defense information technology business system that is not anational security system, as defined in 3542(b)(2) of title 44, United States Code.
+Covered Systems.—An information system described in this subsection is any Department of Defense information technology business system that is not a national security system, as defined in 3542(b)(2) of title 44, United States Code.
 
 “(d)
 

@@ -38,7 +38,7 @@ Subsec. (a). Pub. L. 100–26 substituted “48” for “forty-eight” whereve
 
 Subsec. (a)(2). Pub. L. 100–180, §614(d)(1), substituted “the time the member is first granted leave—” for “the first time the member is granted leave.” and added subpars. (A) and (B).
 
-1985—Subsec. (a)(1). Pub. L. 99–145 struck out “if he is a member without dependents,” after “home of record”, struck out “, if either his last duty station or his designated post of duty is a restricted area in which dependents are not authorized” after “post of duty” in first sentence, and inserted “such allowances may be paid for the member and for the dependents of the member who are authorized to, and do, accompany him at his duty stations.”
+1985—Subsec. (a)(1). Pub. L. 99–145 struck out “if he is a member without dependents,” after “home of record”, struck out “, if either his last duty station orhis designated post of duty is a restricted area in which dependents are not authorized” after “post of duty” in first sentence, and inserted “such allowances may be paid for the member and for the dependents of the member who are authorized to, and do, accompany him at his duty stations.”
 
 1981—Subsec. (a). Pub. L. 97–60 designated existing provisions as par. (1), inserted “who is ordered to a consecutive tour of duty at the same duty station or” after “District of Columbia”, and added par. (2).
 

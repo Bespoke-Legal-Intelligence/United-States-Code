@@ -18,7 +18,7 @@ The Secretary of Health and Human Services (in this section referred to as the â
 
 &emsp;(1) developâ€”
 
-&emsp;&emsp;(A) indicators of the rate at which and, to the extent feasible, the degree to which,families depend on income from welfare programs and the duration of welfare receipt; and
+&emsp;&emsp;(A) indicators of the rate at which and, to the extent feasible, the degree to which, families depend on income from welfare programs and the duration of welfare receipt; and
 
 &emsp;&emsp;(B) predictors of welfare receipt;
 
@@ -52,7 +52,7 @@ The Secretary of Health and Human Services (in this section referred to as the â
 
 #### (3) Vacancies
 
-&emsp;Any vacancy occurring in the membership of the Board shall be filled in the same manner as the original appointment for the position being vacated. The vacancy shall not affect the power of the remaining members to execute the duties of the Board.
+&emsp;Any vacancy occurring in the membership of the Board shall be filled in the same manneras the original appointment for the position being vacated. The vacancy shall not affect the power of the remaining members to execute the duties of the Board.
 
 #### (4) Duties
 
@@ -116,7 +116,7 @@ The Secretary of Health and Human Services (in this section referred to as the â
 
 #### (4) Submission
 
-&emsp;The Secretary shall submit such a report not later than 3 years after October 31, 1994, andannually thereafter, to the committees specified in subsection (b)(3) of this section. Each such report shall be transmitted during the first 60 days of each regular session of Congress.
+&emsp;The Secretary shall submit such a report not later than 3 years after October 31, 1994, and annually thereafter, to the committees specified in subsection (b)(3) of this section. Each such report shall be transmitted during the first 60 days of each regular session of Congress.
 
 #### (e) Short title
 
@@ -146,7 +146,7 @@ Subsec. (d)(4). Pub. L. 105â€“200, Â§410(h)(2), substituted â€œsubsection (b)(3)
 
 #### Change of Name
 
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce ofHouse of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

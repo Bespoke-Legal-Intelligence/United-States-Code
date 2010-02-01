@@ -32,7 +32,7 @@ Minor changes were made in translation and phraseology.
 
 #### 1949 Act
 
-This section \[section 26\] removes an ambiguity in section 1153 of title 18, U.S.C., by eliminating the provision that the crime of rape in the Indian country is to be punished in accordance with the law of the State where the offense was committed, leaving the definition of the offense to be determined by State law, but providing that punishment of rape of an Indian by an Indian is to be by imprisonment at the discretion of the court. The offense of rape, other than rape of an Indian by an Indian within the Indian country, is covered by section 2031 of title 18, U.S.C., and the offense of burglary by sections 1152 and 3242 of such title.
+This section \[section 26\] removes an ambiguity in section 1153 of title 18, U.S.C., by eliminating the provision that the crime of rape in the Indian country is to be punished in accordance with the law of the State where the offense was committed, leaving the definition of the offense to be determined by State law, butproviding that punishment of rape of an Indian by an Indian is to be by imprisonment at the discretion of the court. The offense of rape, other than rape of an Indian by an Indian within the Indian country, is covered by section 2031 of title 18, U.S.C., and the offense of burglary by sections 1152 and 3242 of such title.
 
 #### Amendments
 

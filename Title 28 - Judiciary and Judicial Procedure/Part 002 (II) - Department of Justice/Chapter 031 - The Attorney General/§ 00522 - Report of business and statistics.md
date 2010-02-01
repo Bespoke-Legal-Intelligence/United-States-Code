@@ -58,7 +58,7 @@ Data collection.—The Attorney General shall compile and collect data concernin
 
 &emsp;&emsp;“(B) the number of—
 
-&emsp;&emsp;&emsp;“(i) investigations, prosecutions, and related proceedings described in subparagraph (A) whichare inactive as of the close of the reporting period but have not been closed or declined; and
+&emsp;&emsp;&emsp;“(i) investigations, prosecutions, and related proceedings described in subparagraph (A) which are inactive as of the close of the reporting period but have not been closed or declined; and
 
 &emsp;&emsp;&emsp;“(ii) unaddressed referrals which allege criminal misconduct involving offenses described in subparagraph (A),
 

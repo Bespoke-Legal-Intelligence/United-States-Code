@@ -2,7 +2,7 @@
 
 #### (a) Report to Congress
 
-The Secretary shall conduct the following studies, and shall make a report or reports of the results of such studies to the Congress on or before January 1, 1970, and from time to time thereafter as he may find necessary, together with such recommendations for legislation as he may deem appropriate:
+The Secretary shall conduct the following studies, and shall make a report or reports ofthe results of such studies to the Congress on or before January 1, 1970, and from time to time thereafter as he may find necessary, together with such recommendations for legislation as he may deem appropriate:
 
 (1) A study of present State and Federal control of health hazards from electronic product radiation and other types of ionizing radiation, which study shall include, but not be limited to—
 

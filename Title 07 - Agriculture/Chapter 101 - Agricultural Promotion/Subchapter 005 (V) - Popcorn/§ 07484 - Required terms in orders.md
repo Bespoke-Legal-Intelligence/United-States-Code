@@ -24,7 +24,7 @@ An order shall contain the terms and conditions specified in this section.
 
 #### (5) Compensation and expenses
 
-&emsp;A member of the Board shall serve without compensation, but shall be reimbursed for the expenses of the member incurred in the performance of duties for the Board.
+&emsp;A member of the Board shall serve without compensation, but shall be reimbursed for theexpenses of the member incurred in the performance of duties for the Board.
 
 #### (c) Powers and duties of Board
 
@@ -116,7 +116,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 #### (B) Expenditures based on source of assessments
 
-&emsp;&emsp;In implementing plans and projects of promotion, research, consumer information, and industry information, the Board shall expend funds on—
+&emsp;&emsp;In implementing plans and projects of promotion, research, consumer information,and industry information, the Board shall expend funds on—
 
 &emsp;&emsp;&emsp;(i) plans and projects for popcorn marketed in the United States or Canada in proportion to the amount of assessments collected on domestically marketed popcorn; and
 

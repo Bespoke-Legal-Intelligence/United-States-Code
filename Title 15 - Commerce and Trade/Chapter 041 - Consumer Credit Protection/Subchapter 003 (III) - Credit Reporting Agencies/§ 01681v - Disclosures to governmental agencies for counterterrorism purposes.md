@@ -38,7 +38,7 @@ Notwithstanding any other provision of this subchapter, any consumer reporting a
 
 2006—Subsec. (c). Pub. L. 109–177, §116(c), amended subsec. (c) generally. Prior to amendment, text read as follows: “No consumer reporting agency, or officer, employee, or agent of such consumer reporting agency, shall disclose to any person, or specify in any consumer report, that a government agency has sought or obtained access to information under subsection (a) of this section.”
 
-Subsec. (c)(4). Pub. L. 109–178 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “At the request of the authorized Government agency, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized Government agency the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform such requesting official that the person intends to consult an attorney to obtain legal advice or legal assistance.”
+Subsec. (c)(4). Pub. L. 109–178 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “At the request of the authorized Government agency, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized Government agency the person to whomsuch disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform such requesting official that the person intends to consult an attorney to obtain legal advice or legal assistance.”
 
 Subsec. (f). Pub. L. 109–177, §118(b), added subsec. (f).
 

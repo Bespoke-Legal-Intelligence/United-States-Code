@@ -124,7 +124,7 @@ The Board shall—
 
 &emsp;&emsp;(C) request information or assistance from any State, tribal, or local government; and
 
-&emsp;&emsp;(D) at the direction of a majority of the members of the Board, submit a written request to the Attorney General of the United States that the Attorney General require, by subpoena, persons (other than departments, agencies, and elements of the executivebranch) to produce any relevant information, documents, reports, answers, records, accounts, papers, and other documentary or testimonial evidence.
+&emsp;&emsp;(D) at the direction of a majority of the members of the Board, submit a written request to the Attorney General of the United States that the Attorney General require, by subpoena, persons (other than departments, agencies, and elements of the executive branch) to produce any relevant information, documents, reports, answers, records, accounts, papers, and other documentary or testimonial evidence.
 
 #### (2) Review of subpoena request
 
@@ -142,7 +142,7 @@ The Board shall—
 
 #### (3) Enforcement of subpoena
 
-&emsp;In the case of contumacy or failure to obey a subpoena issued pursuant to paragraph (1)(D), the United States district court for the judicial district in which the subpoenaed person resides, is served, or may be found may issue an order requiring such person to produce the evidence required by such subpoena.
+&emsp;In the case of contumacy or failure to obey a subpoena issued pursuant to paragraph (1)(D), the United States district court for thejudicial district in which the subpoenaed person resides, is served, or may be found may issue an order requiring such person to produce the evidence required by such subpoena.
 
 #### (4) Agency cooperation
 
@@ -198,7 +198,7 @@ The Board shall—
 
 #### (1) Appointment and compensation
 
-&emsp;The chairman of the Board, in accordance with rules agreed upon by the Board, shall appoint and fix the compensation of a full-time executive director and such other personnel as may be necessary to enable the Board to carry out its functions, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsectionmay exceed the equivalent of that payable for a position at level V of the Executive Schedule under section 5316 of title 5.
+&emsp;The chairman of the Board, in accordance with rules agreed upon by the Board, shall appoint and fix the compensation of a full-time executive director and such other personnel as may be necessary to enable the Board to carry out its functions, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable for a position at level V of the Executive Schedule under section 5316 of title 5.
 
 #### (2) Detailees
 
@@ -216,7 +216,7 @@ The Board shall—
 
 #### (2) Rules and procedures
 
-&emsp;After consultation with the Secretary of Defense, the Attorney General, and the Director of National Intelligence, the Board shall adopt rules and procedures of the Board for physical, communications, computer, document, personnel, and other security relating to carrying out the functions of the Board.
+&emsp;After consultation with the Secretary of Defense, the Attorney General, and the Directorof National Intelligence, the Board shall adopt rules and procedures of the Board for physical, communications, computer, document, personnel, and other security relating to carrying out the functions of the Board.
 
 #### (<i>l</i>) Treatment as agency, not as advisory committee
 

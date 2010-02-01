@@ -14,7 +14,7 @@
 
 #### (b) Notice; exclusion election; final judgment
 
-(1) In any action brought under subsection (a)(1) of this section, the State attorney general shall, at such times, in such manner, and with such content as the court may direct, cause notice thereof to be given by publication. If the court finds that notice given solely by publication would deny due process of law to any person or persons, the court may direct further notice to such person or persons according to the circumstances of the case.
+(1) In any action brought under subsection (a)(1) of this section, the State attorney generalshall, at such times, in such manner, and with such content as the court may direct, cause notice thereof to be given by publication. If the court finds that notice given solely by publication would deny due process of law to any person or persons, the court may direct further notice to such person or persons according to the circumstances of the case.
 
 (2) Any person on whose behalf an action is brought under subsection (a)(1) of this section may elect to exclude from adjudication the portion of the State claim for monetary relief attributable to him by filing notice of such election with the court within such time as specified in the notice given pursuant to paragraph (1) of this subsection.
 

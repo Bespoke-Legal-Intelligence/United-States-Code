@@ -100,7 +100,7 @@ Effective Date; Applicability.—This section \[enacting this section and amendi
 
 &emsp;“(1) shall take effect on the date of enactment of this Act \[Oct. 13, 1994\]; and
 
-&emsp;“(2) shall apply to any employee whose release from military service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of title 38, United States Code, occurs on or after August 2, 1990.
+&emsp;“(2) shall apply to any employee whose release from military service, discharge from hospitalization, orother similar event making the individual eligible to seek restoration or reemployment under chapter 43 of title 38, United States Code, occurs on or after August 2, 1990.
 
 “(f)
 

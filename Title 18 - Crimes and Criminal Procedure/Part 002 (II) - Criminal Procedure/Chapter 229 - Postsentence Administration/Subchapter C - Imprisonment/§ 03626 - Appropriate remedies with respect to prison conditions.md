@@ -6,7 +6,7 @@ Requirements for Relief.—
 
 &emsp;(1)
 
-Prospective relief.—(A) Prospective relief in any civil action with respect to prisonconditions shall extend no further than necessary to correct the violation of the Federal right of a particular plaintiff or plaintiffs. The court shall not grant or approve any prospective relief unless the court finds that such relief is narrowly drawn, extends no further than necessary to correct the violation of the Federal right, and is the least intrusive means necessary to correct the violation of the Federal right. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the relief.
+Prospective relief.—(A) Prospective relief in any civil action with respect to prison conditions shall extend no further than necessary to correct the violation of the Federal right of a particular plaintiff or plaintiffs. The court shall not grant or approve any prospective relief unless the court finds that such relief is narrowly drawn, extends no further than necessary to correct the violation of the Federal right, and is the least intrusive means necessary to correct the violation of the Federal right. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the relief.
 
 &emsp;(B) The court shall not order any prospective relief that requires or permits a government official to exceed his or her authority under State or local law or otherwise violates State or local law, unless—
 
@@ -42,7 +42,7 @@ Prisoner release order.—(A) In any civil action with respect to prison conditi
 
 &emsp;&emsp;(ii) no other relief will remedy the violation of the Federal right.
 
-&emsp;(F) Any State or local official including a legislator or unit of government whose jurisdiction or function includes the appropriation of funds for the construction, operation, or maintenance of prison facilities, or the prosecution or custody of persons who may be released from, or not admitted to, a prison as a result of a prisoner release order shall have standing to oppose the imposition or continuation in effect of such relief and to seek termination of such relief, and shall have the right to intervene in any proceeding relating to such relief.
+&emsp;(F) Any State or local official including a legislator or unit of government whose jurisdiction or function includes the appropriation of funds for the construction, operation, or maintenance of prison facilities, or the prosecution or custody of persons who may be released from, or not admitted to, a prison as a result of a prisoner release order shall have standing to oppose the imposition or continuation in effect of such relief and to seek termination of such relief, and shall have the rightto intervene in any proceeding relating to such relief.
 
 (b)
 
@@ -136,7 +136,7 @@ Appointment.—(A) If the court determines that the appointment of a special mas
 
 &emsp;(3)
 
-Interlocutory appeal.—Any party shall have the right to an interlocutory appeal of the judge's selection of the special master under this subsection, on the ground of partiality.
+Interlocutory appeal.—Any party shall have the right to an interlocutory appeal of the judge's selection of the special masterunder this subsection, on the ground of partiality.
 
 &emsp;(4)
 
@@ -228,7 +228,7 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title III, §306\], Sept. 30, 199
 
 #### Payment of Damage Award in Satisfaction of Pending Restitution Orders
 
-Section 101\[(a)\] \[title VIII, §807\] of Pub. L. 104–134 provided that: “Any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent ofsuch jail, prison, or correctional facility, shall be paid directly to satisfy any outstanding restitution orders pending against the prisoner. The remainder of any such award after full payment of all pending restitution orders shall be forwarded to the prisoner.”
+Section 101\[(a)\] \[title VIII, §807\] of Pub. L. 104–134 provided that: “Any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, shall be paid directly to satisfy any outstanding restitution orders pending against the prisoner. The remainder of any such award after full payment of all pending restitution orders shall be forwarded to the prisoner.”
 
 #### Notice to Crime Victims of Pending Damage Award
 

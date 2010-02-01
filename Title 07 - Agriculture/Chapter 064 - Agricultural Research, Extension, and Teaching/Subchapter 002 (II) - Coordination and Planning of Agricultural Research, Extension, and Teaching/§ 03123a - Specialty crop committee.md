@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Not later than 90 days after December 21, 2004, the executive committee of the Advisory Boardshall establish, and appoint the initial members of, a permanent specialty crops committee that will be responsible for studying the scope and effectiveness of research, extension, and economics programs affecting the specialty crop industry.
+Not later than 90 days after December 21, 2004, the executive committee of the Advisory Board shall establish, and appoint the initial members of, a permanent specialty crops committee that will be responsible for studying the scope and effectiveness of research, extension, and economics programs affecting the specialty crop industry.
 
 #### (b) Members
 

@@ -14,7 +14,7 @@ As used in this section:
 
 &emsp;&emsp;(A) is not eligible for a loan from the Farm Credit Bank or association; and
 
-&emsp;&emsp;(B) has operations that are functionally similar to a person that is eligible for a loan from the Farm Credit Bank or association in that the person derives a majority of the income of the person from, or has a majority of the assets of the person invested in, the conduct of activities that are functionally similar to the activities that are conducted by an eligible person.
+&emsp;&emsp;(B) has operations that are functionally similar to a person that is eligible for a loanfrom the Farm Credit Bank or association in that the person derives a majority of the income of the person from, or has a majority of the assets of the person invested in, the conduct of activities that are functionally similar to the activities that are conducted by an eligible person.
 
 #### (b) Loan participation authority
 

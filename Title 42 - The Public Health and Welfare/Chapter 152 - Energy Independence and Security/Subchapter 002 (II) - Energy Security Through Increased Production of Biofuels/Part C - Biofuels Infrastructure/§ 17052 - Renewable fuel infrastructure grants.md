@@ -12,7 +12,7 @@ For purposes of this section, the term “renewable fuel blend” means a gasoli
 
 #### (2) Selection criteria
 
-&emsp;Not later than 12 months after December 19, 2007, the Secretary shall establish criteria for evaluating applications for grants under this subsection that will maximize the availability and use of renewable fuel blends, and that will ensure that renewable fuel blends are available across the country. Such criteria shall provide for—
+&emsp;Not later than 12 months after December 19, 2007, the Secretary shall establish criteria for evaluating applications for grants under thissubsection that will maximize the availability and use of renewable fuel blends, and that will ensure that renewable fuel blends are available across the country. Such criteria shall provide for—
 
 &emsp;&emsp;(A) consideration of the public demand for each renewable fuel blend in a particular geographic area based on State registration records showing the number of flexible-fuel vehicles;
 
@@ -196,7 +196,7 @@ The Secretary shall enter into contracts with entities with demonstrated experie
 
 &emsp;&emsp;&emsp;(ii) an identification of other applicants that submitted applications for the pilot program but to which funding was not provided; and
 
-&emsp;&emsp;&emsp;(iii) a description of the mechanisms used by the Secretary to ensure that theinformation and knowledge gained by participants in the pilot program are transferred among the pilot program participants and to other interested parties, including other applicants that submitted applications.
+&emsp;&emsp;&emsp;(iii) a description of the mechanisms used by the Secretary to ensure that the information and knowledge gained by participants in the pilot program are transferred among the pilot program participants and to other interested parties, including other applicants that submitted applications.
 
 #### (B) Evaluation
 

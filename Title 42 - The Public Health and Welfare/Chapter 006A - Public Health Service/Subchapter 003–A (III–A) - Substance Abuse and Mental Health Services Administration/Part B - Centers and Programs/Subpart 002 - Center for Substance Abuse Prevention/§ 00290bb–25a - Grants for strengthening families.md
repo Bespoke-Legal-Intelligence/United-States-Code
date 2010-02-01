@@ -28,7 +28,7 @@ An applicant that is awarded a grant under subsection (a) of this section shall�
 
 &emsp;(1) in the first fiscal year that such funds are received under the grant, use such funds to develop a model substance abuse prevention program; and
 
-&emsp;(2) in the fiscal year following the first fiscal year that such funds are received, use such funds to implement the program developed under paragraph (1) to provide early intervention and substance abuse prevention services to—
+&emsp;(2) in the fiscal year following the first fiscal year that such funds are received, use suchfunds to implement the program developed under paragraph (1) to provide early intervention and substance abuse prevention services to—
 
 &emsp;&emsp;(A) strengthen the environment of children of high risk families by targeting interventions at the families of such children and the communities in which such children reside;
 

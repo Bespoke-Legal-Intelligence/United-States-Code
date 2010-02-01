@@ -131,7 +131,7 @@
 
 |  |  |
 | :--- | ---: |
-| [141\.](Subchapter%20008%20%28VIII%29%20-%20Reserve%20Cities%3B%20Lawful%20Reserves/%C2%A7%2000141%20-%20Central%20reserve%20and%20reserve%20cities%3B%20designation.md) | Central reserve and reserve cities; designation. |
+| [141\.](Subchapter%20008%20%28VIII%29%20-%20Reserve%20Cities%3B%20Lawful%20Reserves/%C2%A7%2000141%20-%20Omitted.md) | Omitted. |
 | [142\.](Subchapter%20008%20%28VIII%29%20-%20Reserve%20Cities%3B%20Lawful%20Reserves/%C2%A7%2000142%20-%20Banks%20in%20reserve%20cities%3B%20reserves.md) | Banks in reserve cities; reserves. |
 | [143\.](Subchapter%20008%20%28VIII%29%20-%20Reserve%20Cities%3B%20Lawful%20Reserves/%C2%A7%2000143%20-%20Banks%20in%20Alaska%20and%20insular%20possessions%3B%20lawful%20money%20reserves.md) | Banks in Alaska and insular possessions; lawful money reserves. |
 | [144\.](Subchapter%20008%20%28VIII%29%20-%20Reserve%20Cities%3B%20Lawful%20Reserves/%C2%A7%2000144%20-%20Certain%20balances%20counted%20toward%20reserves%20in%20dependencies%20and%20insular%20possessions.md) | Certain balances counted toward reserves in dependencies and insular possessions. |

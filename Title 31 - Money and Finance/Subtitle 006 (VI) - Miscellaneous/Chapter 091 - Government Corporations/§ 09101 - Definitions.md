@@ -172,9 +172,13 @@ Amendment effective Sept. 13, 1982, see section 2(i) of Pub. L. 97–452, set ou
 
 Section 2(<i>l</i>) of Pub. L. 97–258 provided that the amendment made by that section is effective Jan. 1, 1982.
 
+#### Short Title
+
+This chapter is popularly known as the Government Corporation Control Act. The Government CorporationControl Act was previously the official short title of act Dec. 6, 1945, ch. 557, 59 Stat. 597, which was classified generally to chapter 14 (§§841, 846–852, 856–859, 866–869) of former Title 31, Money and Finance. That act was primarily repealed and restated in chapter 91 of this title by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877, the first section of which enacted this title. For complete classification of act Dec. 6, 1945, to the Code, see Tables. For disposition of sections of former Title 31 to this title, see Disposition Table preceding section 101 of this title.
+
 #### Dissolution of Pennsylvania Avenue Development Corporation
 
-Pennsylvania Avenue Development Corporation dissolved on or before Apr. 1, 1996, and assets, obligations,indebtedness, and unobligated and unexpended balances of Corporation transferred, see Pub. L. 92–578, §3, Oct. 27, 1972, 86 Stat. 1267, as amended, which was classified to section 872 of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
+Pennsylvania Avenue Development Corporation dissolved on or before Apr. 1, 1996, and assets, obligations, indebtedness, and unobligated and unexpended balances of Corporation transferred, see Pub. L. 92–578, §3, Oct. 27, 1972, 86 Stat. 1267, as amended, which was classified to section 872 of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
 
 #### Abolition of United States Railway Association and Transfer of Functions
 

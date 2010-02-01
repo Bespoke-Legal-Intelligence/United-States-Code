@@ -2,7 +2,7 @@
 
 (a)
 
-Requirements.—(1) The Secretary of Defense may not enter into a contract with an aircarrier for the charter air transportation of members of the armed forces unless the air carrier—
+Requirements.—(1) The Secretary of Defense may not enter into a contract with an air carrier for the charter air transportation of members of the armed forces unless the air carrier—
 
 &emsp;(A) meets, at a minimum, the safety standards established by the Secretary of Transportation under chapter 447 of title 49;
 

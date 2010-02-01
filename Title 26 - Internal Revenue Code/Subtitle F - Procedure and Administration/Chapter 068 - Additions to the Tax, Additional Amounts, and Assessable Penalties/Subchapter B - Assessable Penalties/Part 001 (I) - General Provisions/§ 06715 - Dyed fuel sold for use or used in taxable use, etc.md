@@ -26,7 +26,7 @@ If—
 
 #### (2) Multiple violations
 
-&emsp;In determining the penalty under subsection (a) on any person, paragraph (1) shall be applied by increasing the amount in paragraph (1)(A) by the product of such amount and the number of prior penalties (if any) imposed by this section on such person (or a related person or any predecessor of such person or related person).
+&emsp;In determining the penalty under subsection (a) on any person, paragraph (1) shall be applied by increasing the amount in paragraph (1)(A) by the product of such amount and thenumber of prior penalties (if any) imposed by this section on such person (or a related person or any predecessor of such person or related person).
 
 #### (c) Definitions
 

@@ -4,7 +4,7 @@
 
 (1) Whenever, on the basis of any information available to him, the Administrator finds that any person is in violation of any condition or limitation which implements section 1311, 1312, 1316, 1317, 1318, 1328, or 1345 of this title in a permit issued by a State under an approved permit program under section 1342 or 1344 of this title he shall proceed under his authority in paragraph (3) of this subsection or he shall notify the person in alleged violation and such State of such finding. If beyond the thirtieth day after the Administrator's notification the State has not commenced appropriate enforcement action, the Administrator shall issue an order requiring such person to comply with such condition or limitation or shall bring a civil action in accordance with subsection (b) of this section.
 
-(2) Whenever, on the basis of information available to him, the Administrator finds that violations of permit conditions or limitations as set forth in paragraph (1) of this subsection are so widespread that such violations appear to result from a failure of the State to enforce such permit conditions or limitations effectively, he shall so notify the State. If the Administrator finds such failure extends beyond the thirtieth day after such notice, he shall give public notice of such finding. During the period beginning with such public notice and ending when such State satisfies the Administrator that it will enforce such conditions and limitations (hereafter referred to in this section as the period of “federally assumed enforcement”), except where an extension has been granted under paragraph (5)(B) of this subsection, the Administrator shall enforce any permit condition or limitation with respect to any person—
+(2) Whenever, on the basis of information available to him, the Administrator finds that violations of permit conditions or limitations as set forth in paragraph (1) of this subsection are so widespread that such violations appear to result from a failure of the State to enforce such permit conditions or limitations effectively, he shall so notify the State. If the Administrator finds such failure extends beyond the thirtieth day after such notice, he shall give public notice of such finding. During the period beginning with such public notice and ending when such State satisfies the Administrator that it will enforce such conditions and limitations (hereafter referred to in this section as the period of “federally assumed enforcement”), except where anextension has been granted under paragraph (5)(B) of this subsection, the Administrator shall enforce any permit condition or limitation with respect to any person—
 
 &emsp;(A) by issuing an order to comply with such condition or limitation, or
 
@@ -40,7 +40,7 @@ The Administrator is authorized to commence a civil action for appropriate relie
 
 &emsp;Any person who—
 
-&emsp;&emsp;(A) knowingly violates section 1311, 1312, 1316, 1317, 1318, 1321(b)(3), 1328, or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator or by a State, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title or in a permit issued under section 1344 of this title by the Secretary of the Army or by a State; or
+&emsp;&emsp;(A) knowingly violates section 1311, 1312, 1316, 1317, 1318, 1321(b)(3), 1328, or 1345 of thistitle, or any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator or by a State, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title or in a permit issued under section 1344 of this title by the Secretary of the Army or by a State; or
 
 &emsp;&emsp;(B) knowingly introduces into a sewer system or into a publicly owned treatment works any pollutant or hazardous substance which such person knew or reasonably should have known could cause personal injury or property damage or, other than in compliance with all applicable Federal, State, or local requirements or permits, which causes such treatment works to violate any effluent limitation or condition in a permit issued to the treatment works under section 1342 of this title by the Administrator or a State;
 
@@ -124,7 +124,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 #### (B) Class II
 
-&emsp;&emsp;The amount of a class II civil penalty under paragraph (1) may not exceed $10,000 per day for each day during which the violation continues; except that the maximum amount of any class II civil penalty under this subparagraph shall not exceed $125,000. Except as otherwise provided in this subsection, a class II civil penalty shall be assessed and collected in the same manner, and subject to the same provisions, as in the case of civil penalties assessed and collected after notice and opportunity for a hearing on the record in accordance with section 554 of title 5. The Administrator and the Secretary may issue rules for discovery procedures for hearings under this subparagraph.
+&emsp;&emsp;The amount of a class II civil penalty under paragraph (1) may not exceed $10,000 per day for each day during which the violation continues; except that the maximumamount of any class II civil penalty under this subparagraph shall not exceed $125,000. Except as otherwise provided in this subsection, a class II civil penalty shall be assessed and collected in the same manner, and subject to the same provisions, as in the case of civil penalties assessed and collected after notice and opportunity for a hearing on the record in accordance with section 554 of title 5. The Administrator and the Secretary may issue rules for discovery procedures for hearings under this subparagraph.
 
 #### (3) Determining amount
 
@@ -182,7 +182,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 &emsp;&emsp;(B) in the case of assessment of a class II civil penalty, in United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business,
 
-> &emsp;by filing a notice of appeal in such court within the 30-day period beginning on the date the civil penalty order is issued and by simultaneously sending a copy of such notice by certified mail to the Administrator or the Secretary, as the case may be, and the Attorney General. The Administrator or the Secretary shall promptly file in such court a certified copy of the record on which the order was issued. Such court shall not set aside or remand such order unless there is not substantial evidence in the record, taken as a whole, to support the finding of a violation or unless the Administrator's or Secretary's assessment ofthe penalty constitutes an abuse of discretion and shall not impose additional civil penalties for the same violation unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion.
+> &emsp;by filing a notice of appeal in such court within the 30-day period beginning on the date the civil penalty order is issued and by simultaneously sending a copy of such notice by certified mail to the Administrator or the Secretary, as the case may be, and the Attorney General. The Administrator or the Secretary shall promptly file in such court a certified copy of the record on which the order was issued. Such court shall not set aside or remand such order unless there is not substantial evidence in the record, taken as a whole, to support the finding of a violation or unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion and shall not impose additional civil penalties for the same violation unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion.
 
 #### (9) Collection
 
@@ -226,7 +226,7 @@ Subsec. (g). Pub. L. 100–4, §314(a), added subsec. (g).
 
 Subsec. (a)(2). Pub. L. 95–217, §56(a), substituted “except where an extension has been granted under paragraph (5)(B) of this subsection, the Administrator shall enforce any permit condition or limitation” for “the Administrator shall enforce any permit condition or limitation”.
 
-Subsec. (a)(3). Pub. L. 95–217, §§55(b), 67(c)(2)(B), substituted “1318, 1328, or 1345 of this title” for “or 1318 of this title” and inserted “or in a permit issued under section 1344 of this title by a State” after “in a permit issued under section 1342 of this title by him or by a State”.
+Subsec. (a)(3). Pub. L. 95–217, §§55(b), 67(c)(2)(B), substituted “1318, 1328, or 1345 of this title” for “or 1318 of this title” and inserted “or in a permit issued undersection 1344 of this title by a State” after “in a permit issued under section 1342 of this title by him or by a State”.
 
 Subsec. (a)(4). Pub. L. 95–217, §56(b), struck out provision that any order issued under this subsection had to be by personal service and had to state with reasonable specificity the nature of the violation and a time for compliance, not to exceed thirty days, which the Administrator determined to be reasonable, taking into account the seriousness of the violation and any good faith efforts to comply with applicable requirements. See section subsec. (a)(5) of this section.
 
@@ -240,7 +240,7 @@ Subsec. (f). Pub. L. 95–217, §54(b), added subsec. (f).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L.101–380, set out as an Effective Date note under section 2701 of this title.
+Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of this title.
 
 #### Savings Provision
 

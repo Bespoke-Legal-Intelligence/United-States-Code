@@ -118,7 +118,7 @@ Section 1601(c) of Pub. L. 104–188 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending sections 55, 56, 59, and 936 of this title\] shall apply to taxable years beginning after December 31, 1995.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending sections 55, 56, 59, and 936 of thistitle\] shall apply to taxable years beginning after December 31, 1995.
 
 “(2)
 
@@ -134,7 +134,7 @@ Pub. L. 109–432, div. A, title I, §119, Dec. 20, 2006, 120 Stat. 2942, as ame
 
 “(a)
 
-In General.—For purposes of section 30A of the Internal Revenue Code of 1986, a domestic corporationshall be treated as a qualified domestic corporation to which such section applies if such corporation—
+In General.—For purposes of section 30A of the Internal Revenue Code of 1986, a domestic corporation shall be treated as a qualified domestic corporation to which such section applies if such corporation—
 
 &emsp;“(1) is an existing credit claimant with respect to American Samoa, and
 

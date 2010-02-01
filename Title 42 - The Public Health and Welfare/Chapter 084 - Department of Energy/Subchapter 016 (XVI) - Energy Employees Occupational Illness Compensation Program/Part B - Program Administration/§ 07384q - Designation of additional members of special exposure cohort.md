@@ -10,7 +10,7 @@
 
 #### (b) Designation of additional members
 
-Subject to the provisions of section 7384<i>l</i>(14)(C) of this title, the members of a class of employees at a Department of Energy facility, or at an atomic weapons employer facility, may be treated as members of the Special Exposure Cohortfor purposes of the compensation program if the President, upon recommendation of the Advisory Board on Radiation and Worker Health, determines that—
+Subject to the provisions of section 7384<i>l</i>(14)(C) of this title, the members of a class of employees at a Department of Energy facility, or at an atomic weapons employer facility, may be treated as members of the Special Exposure Cohort for purposes of the compensation program if the President, upon recommendation of the Advisory Board on Radiation and Worker Health, determines that—
 
 &emsp;(1) it is not feasible to estimate with sufficient accuracy the radiation dose that the class received; and
 

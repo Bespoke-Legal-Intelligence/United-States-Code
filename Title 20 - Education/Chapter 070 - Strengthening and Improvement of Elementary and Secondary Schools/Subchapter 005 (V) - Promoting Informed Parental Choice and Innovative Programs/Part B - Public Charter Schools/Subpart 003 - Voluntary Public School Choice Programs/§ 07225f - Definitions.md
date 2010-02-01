@@ -30,7 +30,7 @@ In this subpart:
 
 #### (3) Low-performing school
 
-&emsp;The term “low-performing school” means a public elementary school or secondary schoolthat has failed to make adequate yearly progress, as described in section 6311(b) of this title, for two or more consecutive years.
+&emsp;The term “low-performing school” means a public elementary school or secondary school that has failed to make adequate yearly progress, as described in section 6311(b) of this title, for two or more consecutive years.
 
 (Pub. L. 89–10, title V, §5247, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1805.)
 

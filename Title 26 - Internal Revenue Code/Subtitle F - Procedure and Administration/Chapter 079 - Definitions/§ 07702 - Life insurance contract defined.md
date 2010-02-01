@@ -24,7 +24,7 @@ For purposes of this title, the term “life insurance contract” means any con
 
 &emsp;&emsp;(B) on the basis of the rules of subparagraph (B)(i) (and, in the case of qualified additional benefits, subparagraph (B)(ii)) of subsection (c)(3), and
 
-&emsp;&emsp;(C) by taking into account under subparagraphs (A) and (D) of subsection (e)(1) onlycurrent and future death benefits and qualified additional benefits.
+&emsp;&emsp;(C) by taking into account under subparagraphs (A) and (D) of subsection (e)(1) only current and future death benefits and qualified additional benefits.
 
 #### (c) Guideline premium requirements
 
@@ -132,7 +132,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) was purchased to cover payment of burial expenses or in connection with prearranged funeral expenses.
 
-> &emsp;For purposes of subparagraph (C), the initial death benefit of a contract shall be determined by treating all contracts issued to the same contract owner as 1 contract.
+> &emsp;For purposes of subparagraph (C), the initial death benefit of a contract shall be determinedby treating all contracts issued to the same contract owner as 1 contract.
 
 #### (f) Other definitions and special rules
 
@@ -232,7 +232,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) in the case of a contract to which subsection (a)(2) applies, the greater of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the excess of the aggregate premiums paid under the contract, immediately before the reduction, over the guideline premium limitation for the contract (determined under subsection (c)(2), taking into account the adjustment described in subparagraph (A)), or
+&emsp;&emsp;&emsp;&emsp;(I) the excess of the aggregate premiums paid under the contract, immediately before the reduction, over the guideline premium limitation for thecontract (determined under subsection (c)(2), taking into account the adjustment described in subparagraph (A)), or
 
 &emsp;&emsp;&emsp;&emsp;(II) the excess of the cash surrender value of the contract, immediately before the reduction, over the cash value corridor of subsection (d) (determined immediately after the reduction).
 
@@ -296,7 +296,7 @@ For purposes of this section—
 
 #### (3) Contract continues to be treated as insurance contract
 
-&emsp;If any contract which is a life insurance contract under the applicable law does not meetthe definition of life insurance contract under subsection (a), such contract shall, notwithstanding such failure, be treated as an insurance contract for purposes of this title.
+&emsp;If any contract which is a life insurance contract under the applicable law does not meet the definition of life insurance contract under subsection (a), such contract shall, notwithstanding such failure, be treated as an insurance contract for purposes of this title.
 
 #### (h) Endowment contracts receive same treatment
 

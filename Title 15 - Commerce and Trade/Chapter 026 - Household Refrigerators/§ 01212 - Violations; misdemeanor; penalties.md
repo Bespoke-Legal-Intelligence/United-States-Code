@@ -6,5 +6,5 @@ Any person who violates section 1211 of this title shall be guilty of a misdemea
 
 #### Transfer of Functions
 
-Functions of Secretary of Commerce and Federal Trade Commission under this chapter transferred toConsumer Product Safety Commission, see section 2079 of this title.
+Functions of Secretary of Commerce and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, see section 2079 of this title.
 

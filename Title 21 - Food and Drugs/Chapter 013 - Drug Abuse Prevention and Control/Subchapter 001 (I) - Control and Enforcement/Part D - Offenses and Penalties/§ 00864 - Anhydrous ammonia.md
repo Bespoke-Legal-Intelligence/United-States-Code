@@ -6,7 +6,7 @@
 
 &emsp;(2) to transport stolen anhydrous ammonia across State lines,
 
-> knowing, intending, or having reasonable cause to believe that such anhydrous ammonia will be used to manufacture a controlled substance in violation of this part.
+> knowing, intending, or having reasonable cause to believe that such anhydrous ammonia will beused to manufacture a controlled substance in violation of this part.
 
 (b) Any person who violates subsection (a) of this section shall be imprisoned or fined, or both, in accordance with section 843(d) of this title as if such violation were a violation of a provision of section 843 of this title.
 

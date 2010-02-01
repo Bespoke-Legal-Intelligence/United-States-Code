@@ -62,7 +62,7 @@ The term “personal holding company” as defined in subsection (a) does not in
 
 &emsp;&emsp;(A) 60 percent or more of its ordinary gross income (as defined in section 543(b)(1)) is derived directly from the active and regular conduct of a lending or finance business;
 
-&emsp;&emsp;(B) the personal holding company income for the taxable year (computed without regard to income described in subsection (d)(3) and income derived directly from the active and regular conduct of a lending or finance business, and computed by including as personal holding company income the entire amount of the gross income from rents, royalties, produced film rents, and compensation for use of corporate property by shareholders) is not more than 20 percent of the ordinary gross income;
+&emsp;&emsp;(B) the personal holding company income for the taxable year (computed without regard to income described in subsection (d)(3)and income derived directly from the active and regular conduct of a lending or finance business, and computed by including as personal holding company income the entire amount of the gross income from rents, royalties, produced film rents, and compensation for use of corporate property by shareholders) is not more than 20 percent of the ordinary gross income;
 
 &emsp;&emsp;(C) the sum of the deductions which are directly allocable to the active and regular conduct of its lending or finance business equals or exceeds the sum of—
 
@@ -120,7 +120,7 @@ The term “personal holding company” as defined in subsection (a) does not in
 
 &emsp;&emsp;(A) deductions which are allowable only by reason of section 162 or section 404, except there shall not be included any such deduction in respect of compensation for personal services rendered by shareholders (including members of the shareholder's family as described in section 544(a)(2)), and
 
-&emsp;&emsp;(B) deductions allowable under section 167, and deductions allowable under section 164 for real property taxes, but in either case only to the extent that the property with respect to which such deductions are allowable is used directly in the active and regular conduct of the lending or finance business.
+&emsp;&emsp;(B) deductions allowable under section 167, and deductions allowable under section 164for real property taxes, but in either case only to the extent that the property with respect to which such deductions are allowable is used directly in the active and regular conduct of the lending or finance business.
 
 #### (3) Income received from certain affiliated corporations
 

@@ -8,7 +8,7 @@
 
 &emsp;(A) Each State shall generally be designated as a geographic area for purposes of paragraph (1).
 
-&emsp;(B) The Secretary shall establish local or regional areas rather than State areas only where the volume of review activity or otherrelevant factors (as determined by the Secretary) warrant such an establishment, and the Secretary determines that review activity can be carried out with equal or greater efficiency by establishing such local or regional areas. In applying this subparagraph the Secretary shall take into account the number of hospital admissions within each State for which payment may be made under subchapter XVIII of this chapter or a State plan approved under subchapter XIX of this chapter, with any State having fewer than 180,000 such admissions annually being established as a single statewide area, and no local or regional area being established which has fewer than 60,000 total hospital admissions (including public and private pay patients) under review annually, unless the Secretary determines that other relevant factors warrant otherwise.
+&emsp;(B) The Secretary shall establish local or regional areas rather than State areas only where the volume of review activity or other relevant factors (as determined by the Secretary) warrant such an establishment, and the Secretary determines that review activity can be carried out with equal or greater efficiency by establishing such local or regional areas. In applying this subparagraph the Secretary shall take into account the number of hospital admissions within each State for which payment may be made under subchapter XVIII of this chapter or a State plan approved under subchapter XIX of this chapter, with any State having fewer than 180,000 such admissions annually being established as a single statewide area, and no local or regional area being established which has fewer than 60,000 total hospital admissions (including public and private pay patients) under review annually, unless the Secretary determines that other relevant factors warrant otherwise.
 
 &emsp;(C) No local or regional area shall be designated which is not a self-contained medical service area, having a full spectrum of services, including medical specialists’ services.
 
@@ -78,7 +78,7 @@ The Secretary shall provide that fiscal intermediaries furnish to peer review or
 
 (1) The Secretary shall publish in the Federal Register any new policy or procedure adopted by the Secretary that affects substantially the performance of contract obligations under this section not less than 30 days before the date on which such policy or procedure is to take effect. This paragraph shall not apply to the extent it is inconsistent with a statutory deadline.
 
-(2) The Secretary shall publish in the Federal Register the general criteria and standards used for evaluating the efficient and effective performance of contract obligations under this section and shall provide opportunity for public comment with respect to such criteria and standards.
+(2) The Secretary shall publish in the Federal Register the general criteria and standards usedfor evaluating the efficient and effective performance of contract obligations under this section and shall provide opportunity for public comment with respect to such criteria and standards.
 
 (3) The Secretary shall regularly furnish each peer review organization with a contract under this section with a report that documents the performance of the organization in relation to the performance of other such organizations.
 
@@ -148,7 +148,7 @@ Section 4094(d)(2) of Pub. L. 100–203 provided that: “The amendment made by 
 
 #### Effective Date of 1986 Amendments
 
-Section 9352(c)(1) of Pub. L. 99–509 provided that: “The Secretary of Health and Human Services shall implement the amendment made by subsection (a) \[amending this section and section 1395h of this title\] not later than 6 months after the date of the enactment of this Act \[Oct. 21, 1986\].”
+Section 9352(c)(1) of Pub. L. 99–509 provided that: “The Secretary of Health and Human Services shall implement the amendment made by subsection (a) \[amending this section and section 1395h of this title\]not later than 6 months after the date of the enactment of this Act \[Oct. 21, 1986\].”
 
 Section 9402(c)(2) of Pub. L. 99–272 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to contracts entered into or renewed on or after the date of the enactment of this Act \[Apr. 7, 1986\].”
 

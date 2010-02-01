@@ -4,6 +4,10 @@ The flag of the United States shall be thirteen horizontal stripes, alternate re
 
 (July 30, 1947, ch. 389, 61 Stat. 642.)
 
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–41, §1, July 27, 2009, 123 Stat. 1962, provided that: “This Act \[amending section 6 of this title\] may be cited as the ‘Korean War Veterans Recognition Act’.”
+
 #### Short Title of 2007 Amendment
 
 Pub. L. 110–41, §1, June 29, 2007, 121 Stat. 233, provided that: “This Act \[amending section 7 of this title and provisions set out as a note under section 7 of this title\] may be cited as the ‘Army Specialist Joseph P. Micks Federal Flag Code Amendment Act of 2007’.”

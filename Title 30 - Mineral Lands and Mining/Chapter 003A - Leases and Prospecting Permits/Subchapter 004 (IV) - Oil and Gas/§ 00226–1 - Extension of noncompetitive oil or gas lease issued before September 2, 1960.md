@@ -10,7 +10,7 @@ As to lands not within the known geologic structure of a producing oil or gas fi
 
 #### (c) Application requirement
 
-Any noncompetitive oil or gas lease extended under this section shall be subject to the rules and regulations in force at the expiration of the initial five-year term of the lease. No extension shall be granted, however, unless within a period of ninety days prior to the expiration date of the lease an application therefor is filed by the record titleholder or an assignee whose assignment has been filed for approval or an operator whose operating agreement has been filed for approval.
+Any noncompetitive oil or gas lease extended under this section shall be subject to the rules and regulations in force at the expiration of the initial five-year term of the lease. No extension shall be granted, however, unless within a periodof ninety days prior to the expiration date of the lease an application therefor is filed by the record titleholder or an assignee whose assignment has been filed for approval or an operator whose operating agreement has been filed for approval.
 
 #### (d) Commencement of actual drilling operations
 

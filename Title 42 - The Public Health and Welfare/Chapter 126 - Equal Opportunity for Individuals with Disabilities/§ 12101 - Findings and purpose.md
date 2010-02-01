@@ -4,7 +4,7 @@
 
 The Congress finds that—
 
-&emsp;(1) physical or mental disabilities in no way diminish a person's right to fully participate in all aspects of society, yet many people with physical or mental disabilities have been precluded from doing so because of discrimination; others who have a record of a disabilityor are regarded as having a disability also have been subjected to discrimination;
+&emsp;(1) physical or mental disabilities in no way diminish a person's right to fully participate in all aspects of society, yet many people with physical or mental disabilities have been precluded from doing so because of discrimination; others who have a record of a disability or are regarded as having a disability also have been subjected to discrimination;
 
 &emsp;(2) historically, society has tended to isolate and segregate individuals with disabilities, and, despite some improvements, such forms of discrimination against individuals with disabilities continue to be a serious and pervasive social problem;
 

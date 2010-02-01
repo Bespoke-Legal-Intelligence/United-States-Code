@@ -52,7 +52,7 @@ Under the direction of the Director of National Intelligence and in a manner con
 
 #### Amendments
 
-<b>2004</b>—Subsec. (g). Pub. L. 108–487 added subsec. (g).
+2004—Subsec. (g). Pub. L. 108–487 added subsec. (g).
 
 #### Effective Date of 2004 Amendment
 
@@ -60,7 +60,7 @@ Pub. L. 108–487, title VI, §611(b), Dec. 23, 2004, 118 Stat. 3955, provided t
 
 #### Effective Date
 
-For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President ofthe United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
@@ -84,5 +84,5 @@ Disciplinary Actions.—The regulations shall specify appropriate disciplinary a
 
 #### Executive Order No. 13355
 
-Ex. Ord. No. 13355, Aug. 27, 2004, 69 F.R. 53593, which related to strengthened management of the Intelligence Community, was revoked by Ex. Ord. No. 12333, §3.6, Dec. 4, 1981, 46 F.R. 59954, as amended by Ex. Ord.No. 13470, §4(j), July 30, 2008, 73 F.R. 45341, set out as a note under section 401 of this title.
+Ex. Ord. No. 13355, Aug. 27, 2004, 69 F.R. 53593, which related to strengthened management of the Intelligence Community, was revoked by Ex. Ord. No. 12333, §3.6, Dec. 4, 1981, 46 F.R. 59954, as amended by Ex. Ord. No. 13470, §4(j), July 30, 2008, 73 F.R. 45341, set out as a note under section 401 of this title.
 

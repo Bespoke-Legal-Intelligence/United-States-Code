@@ -50,7 +50,7 @@ The Congress makes the following findings:
 
 &emsp;(20) The United Nations Commission on Human Rights has repeatedly reported on the unacceptable human rights situation in Cuba and has taken the extraordinary step of appointing a Special Rapporteur.
 
-&emsp;(21) The Cuban Government has consistently refused access to the Special Rapporteur and formally expressed its decision not to “implement so much as one comma” of the United Nations Resolutions appointing the Rapporteur.
+&emsp;(21) The Cuban Government has consistently refused access to the Special Rapporteur and formally expressed its decision not to “implement so much as one comma” of the UnitedNations Resolutions appointing the Rapporteur.
 
 &emsp;(22) The United Nations General Assembly passed Resolution 47–139 on December 18, 1992, Resolution 48–142 on December 20, 1993, and Resolution 49–200 on December 23, 1994, referencing the Special Rapporteur's reports to the United Nations and condemning violations of human rights and fundamental freedoms in Cuba.
 

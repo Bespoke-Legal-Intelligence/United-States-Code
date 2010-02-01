@@ -118,7 +118,7 @@ In this Compact:
 
 #### (20) Positive identification
 
-&emsp;The term “positive identification” means a determination, based upon a comparison of fingerprints or other equally reliable biometric identification techniques, that the subject of a record search is the same person as the subject of a criminal history record or records indexed in the III System. Identifications based solely upon a comparison of subjects’ names or other nonunique identification characteristics or numbers, or combinations thereof, shall not constitute positive identification.
+&emsp;The term “positive identification” means a determination, based upon a comparison of fingerprints or other equally reliable biometric identification techniques, that the subject of a record search is the same person as the subject of a criminal history record or recordsindexed in the III System. Identifications based solely upon a comparison of subjects’ names or other nonunique identification characteristics or numbers, or combinations thereof, shall not constitute positive identification.
 
 #### (21) Sealed record information
 
@@ -266,7 +266,7 @@ A State criminal history record repository or the FBI—
 
 #### (1) In general
 
-&emsp;There is established a council to be known as the “Compact Council”, which shall have the authority to promulgate rules and procedures governing the use of the III System for noncriminal justice purposes, not to conflict with FBI administration of the III System for criminal justice purposes.
+&emsp;There is established a council to be known as the “Compact Council”, which shall havethe authority to promulgate rules and procedures governing the use of the III System for noncriminal justice purposes, not to conflict with FBI administration of the III System for criminal justice purposes.
 
 #### (2) Organization
 
@@ -344,7 +344,7 @@ This Compact shall take effect upon being entered into by 2 or more States as be
 
 #### (a) Relation of Compact to certain FBI activities
 
-Administration of this Compact shall not interfere with the management and control of the Director of the FBI over the FBI's collection and dissemination of criminal history records and the advisory function of the FBI's advisorypolicy board chartered under the Federal Advisory Committee Act (5 U.S.C. App.) for all purposes other than noncriminal justice.
+Administration of this Compact shall not interfere with the management and control of the Director of the FBI over the FBI's collection and dissemination of criminal history records and the advisory function of the FBI's advisory policy board chartered under the Federal Advisory Committee Act (5 U.S.C. App.) for all purposes other than noncriminal justice.
 
 #### (b) No authority for nonappropriated expenditures
 

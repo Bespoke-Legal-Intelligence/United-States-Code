@@ -18,7 +18,7 @@ The Secretary is authorized to permit the University to withdraw or expend more 
 
 (1) If the University withdraws or expends more than the endowment fund income authorized by this section, the University shall repay the Secretary an amount equal to 50 per centum of the amount improperly expended (representing the Federal share thereof).
 
-(2) The University shall not withdraw or expend any endowment fund corpus. If the University withdraws or expends any endowment fund corpus, the University shall repay the Secretaryan amount equal to 50 per centum of the amount withdrawn or expended (representing the Federal share thereof) plus any income earned thereon.
+(2) The University shall not withdraw or expend any endowment fund corpus. If the University withdraws or expends any endowment fund corpus, the University shall repay the Secretary an amount equal to 50 per centum of the amount withdrawn or expended (representing the Federal share thereof) plus any income earned thereon.
 
 (Pub. L. 98–480, title II, §205, Oct. 17, 1984, 98 Stat. 2246.)
 

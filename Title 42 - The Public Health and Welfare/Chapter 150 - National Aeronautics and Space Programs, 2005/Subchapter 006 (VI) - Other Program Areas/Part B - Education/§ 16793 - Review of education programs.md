@@ -12,7 +12,7 @@ The review and evaluation under subsection (a) shall include—
 
 &emsp;(2) an assessment of the quality and educational effectiveness of the major components of the program, including an evaluation of the adequacy of assessment metrics and data collection requirements available for determining the effectiveness of individual projects;
 
-&emsp;(3) an evaluation of the funding priorities in the program, including a review of the funding level and funding trend for each major component of the program and an assessment of whether the resources made available are consistent with meeting identified goals and priorities; and
+&emsp;(3) an evaluation of the funding priorities in the program, including a review of the fundinglevel and funding trend for each major component of the program and an assessment of whether the resources made available are consistent with meeting identified goals and priorities; and
 
 &emsp;(4) a determination of the extent and the effectiveness of coordination and collaboration between NASA and other Federal agencies that sponsor science, technology, and mathematics education activities.
 

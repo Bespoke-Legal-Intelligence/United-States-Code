@@ -134,7 +134,7 @@ Par. (17)(A). Pub. L. 101–440, §6(b)(5), substituted “or energy cost saving
 
 #### Separability
 
-Section 302(c) of title III of Pub. L. 95–619 provided that: “If any provision of this title \[enacting sections 6371 to 6371j and section 6372 to 6372i of this title, amending sections 300k–2 and 300n–1 of this title, and enacting provisions set out as notes under this section and section 6372 of this title\] or the application thereof to any person or circumstances be held invalid, the provisions of other sections of this title and their application to other persons or circumstances shall not be affected thereby.”
+Section 302(c) of title III of Pub. L. 95–619 provided that: “If any provision of this title \[enacting sections 6371 to 6371j and section 6372 to 6372i of this title, amending sections 300k–2 and 300n–1 of this title, and enacting provisions set out as notes under this sectionand section 6372 of this title\] or the application thereof to any person or circumstances be held invalid, the provisions of other sections of this title and their application to other persons or circumstances shall not be affected thereby.”
 
 #### Congressional Statement of Findings and Purposes
 

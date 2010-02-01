@@ -36,7 +36,7 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §113 (1st 2 sentences), 39 Stat. 211.
 
-In subsection (a), the words “such a comprehensive \* \* \* as will ultimately result in” are omitted as surplusage.
+In subsection (a), the words “such a comprehensive as will ultimately result in” are omitted as surplusage.
 
 In subsection (b), the words “United States” are substituted for the word “Congress”. The words “members of the armed forces” are substituted for the words “those in any branch of the military or naval service”. The words “of the United States” are omitted as surplusage.
 

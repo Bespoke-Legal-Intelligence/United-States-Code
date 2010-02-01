@@ -24,7 +24,7 @@ The Secretary may not make a grant under section 280c–3(a) of this title to a 
 
 &emsp;(2) with respect to carrying out the purpose for which the grant is to be made, provide assurances of compliance satisfactory to the Secretary; and
 
-&emsp;(3) otherwise be in such form, be made in such manner, and contain such information and agreements as the Secretary determines to be necessary to carry out this subpart.
+&emsp;(3) otherwise be in such form, be made in such manner, and contain such informationand agreements as the Secretary determines to be necessary to carry out this subpart.
 
 #### (d) Evaluations and report by Secretary
 

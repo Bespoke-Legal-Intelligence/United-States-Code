@@ -28,7 +28,7 @@ The purposes of this part are—
 
 #### Prior Provisions
 
-A prior section 6812, Pub. L. 89–10, title III, §3112, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3638, set forth purpose of former part A of this subchapter, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6812, Pub. L. 89–10, title III, §3112, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3638, set forth purpose of former part A of this subchapter, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 Prior sections 6813 to 6815 were omitted in the general amendment of this subchapter by Pub. L. 107–110.
 

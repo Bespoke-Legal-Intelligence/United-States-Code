@@ -22,7 +22,7 @@ The Foundation shall—
 
 &emsp;(5) recruit meeting participants and hold or sponsor (in whole or in part) meetings as appropriate to further the goals and priorities established under paragraph (2);
 
-&emsp;(6) release and publish information and data and, to the extent practicable, license, distribute, and release material, reagents, and techniques to maximize, promote, and coordinate the availability of such material, reagents,and techniques for use by the Food and Drug Administration, nonprofit organizations, and academic and industrial researchers to further the goals and priorities established under paragraph (2);
+&emsp;(6) release and publish information and data and, to the extent practicable, license, distribute, and release material, reagents, and techniques to maximize, promote, and coordinate the availability of such material, reagents, and techniques for use by the Food and Drug Administration, nonprofit organizations, and academic and industrial researchers to further the goals and priorities established under paragraph (2);
 
 &emsp;(7) ensure that—
 
@@ -208,7 +208,7 @@ In carrying out this part, the Board, acting through the Executive Director, may
 
 &emsp;(5) enter into contracts with public and private organizations for the writing, editing, printing, and publishing of books and other material;
 
-&emsp;(6) hold, administer, invest, and spend any gift, devise, or bequest of real or personal property made to the Foundation under subsection (i);
+&emsp;(6) hold, administer, invest, and spend any gift, devise, or bequest of real or personalproperty made to the Foundation under subsection (i);
 
 &emsp;(7) enter into such other contracts, leases, cooperative agreements, and other transactions as the Board considers appropriate to conduct the activities of the Foundation;
 

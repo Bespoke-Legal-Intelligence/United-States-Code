@@ -12,7 +12,7 @@ Any citizen, association, or corporation of the United States to whom there has 
 
 #### Codification
 
-Section, insofar as it relates also to rights-of-way in military and other reservations and national forests, isalso set out as sections 420 and 523 of this title, and, in so far as it relates to rights-of-way on public lands generally, and Indian reservations, is set out as section 961 of Title 43, Public Lands.
+Section, insofar as it relates also to rights-of-way in military and other reservations and national forests, is also set out as sections 420 and 523 of this title, and, in so far as it relates to rights-of-way on public lands generally, and Indian reservations, is set out as section 961 of Title 43, Public Lands.
 
 #### Amendments
 

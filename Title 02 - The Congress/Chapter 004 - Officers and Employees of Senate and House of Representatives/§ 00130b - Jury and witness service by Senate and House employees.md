@@ -48,7 +48,7 @@ The Committee on Rules and Administration of the Senate and the Committee on Hou
 
 #### (g) Congressional consent not conferred for production of official records or to testimony concerning activities related to employment
 
-No provision of this section shall be construed to confer the consent of either House of the Congress to the production of official records of that House or to testimony by an employee of that House concerning activities related to his employment.
+No provision of this section shall be construed to confer the consent of either House of the Congress to the production of official records of thatHouse or to testimony by an employee of that House concerning activities related to his employment.
 
 (Pub. L. 91–563, §6, Dec. 19, 1970, 84 Stat. 1478; Pub. L. 94–310, §2, June 15, 1976, 90 Stat. 687; Pub. L. 104–186, title II, §204(74), (75), Aug. 20, 1996, 110 Stat. 1741.)
 

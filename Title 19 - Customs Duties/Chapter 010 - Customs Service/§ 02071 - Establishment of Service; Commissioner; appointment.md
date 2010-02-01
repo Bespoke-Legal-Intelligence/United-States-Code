@@ -14,11 +14,11 @@ There shall be in the Department of the Treasury a service to be known as the Un
 
 Provisions that fixed the compensation of the Commissioner have been omitted as the position is under the Executive Schedule, see section 5316 of Title 5, Government Organization and Employees.
 
-Provisions that authorized appointment of the Commissioner “without regard to the civil service laws” were omitted as the appointment is subject to the civil service laws unless specifically excepted by such laws or by laws enacted subsequent to Executive Order No.8743, Apr. 23, 1941, issued by the President pursuant to the act of Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5. The position is currently excepted from the civil service rules and regulations by Schedule C, see Part 213 of Title 5 of the Code of Federal Regulations.
+Provisions that authorized appointment of the Commissioner “without regard to the civil service laws” were omitted as the appointment is subject to the civil service laws unless specifically excepted by such laws or by laws enacted subsequent to Executive Order No. 8743, Apr. 23, 1941, issued by the President pursuant to the act of Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5. The position is currently excepted from the civil service rules and regulations by Schedule C, see Part 213 of Title 5 of the Code of Federal Regulations.
 
 Section was formerly classified to section 281 of Title 5 prior to the general revision and codification of Title 5 by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
-References to the Bureau of Prohibition and to the Commissioner of Prohibition were omitted in view of the change of name of the Bureau of Prohibition to the Bureau of Industrial Alcohol by act May 27, 1930, and the abolition of the Bureau of Industrial Alcohol by Ex. Ord. No. 6639.
+References to the Bureau of Prohibition and to the Commissioner of Prohibition were omitted in view ofthe change of name of the Bureau of Prohibition to the Bureau of Industrial Alcohol by act May 27, 1930, and the abolition of the Bureau of Industrial Alcohol by Ex. Ord. No. 6639.
 
 #### Amendments
 
@@ -78,7 +78,7 @@ Parameters.—In developing regulations pursuant to paragraph (1), the Secretary
 
 &emsp;&emsp;“(H) In determining the timing for transmittal of any information, the Secretary shall balance likely impact on flow of commerce with impact on cargo safety and security. With respect to requirements that may be imposed on carriers of cargo, the timing for transmittal of information shall take into account differences among different modes of transportation, as described in subparagraph (D).
 
-&emsp;&emsp;“(I) Where practicable, the regulations shall avoid imposing requirements that are redundant with one another or that are redundant with requirements in other provisions of law.
+&emsp;&emsp;“(I) Where practicable, the regulations shall avoid imposing requirements that are redundantwith one another or that are redundant with requirements in other provisions of law.
 
 &emsp;&emsp;“(J) The Secretary shall determine whether it is appropriate to provide transition periods between promulgation of the regulations and the effective date of the regulations and shall prescribe such transition periods in the regulations, as appropriate. The Secretary may determine that different transition periods are appropriate for different classes of affected parties.
 
@@ -142,7 +142,7 @@ Pub. L. 101–382, title II, §233, Aug. 20, 1990, 104 Stat. 663, required the C
 
 #### Incumbent Commissioner on December 6, 1989
 
-Section 3(b)(2) of Pub. L. 101–207 provided that: “The individual who is serving as the Commissioner of Customs on the day before the date of the enactment of this Act \[Dec. 7, 1989\] may continue to serve in such capacity until a Commissioner of Customs, appointed as provided in the amendment made by paragraph (1) \[amending this section\], takes office.”
+Section 3(b)(2) of Pub. L. 101–207 provided that: “The individual who is serving as the Commissioner of Customs on the day before the date of the enactment of this Act \[Dec. 7, 1989\] may continue to serve in such capacity until a Commissioner of Customs, appointed asprovided in the amendment made by paragraph (1) \[amending this section\], takes office.”
 
 #### Advisory Committee on Commercial Operations of United States Customs Service
 

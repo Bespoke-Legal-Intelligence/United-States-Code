@@ -74,7 +74,7 @@ In subsection (b), or 10:156c (1st 6, and 9th through 43d, words) is omitted as 
 
 In subsection (c), 10:166g(b) (proviso) is omitted as executed.
 
-In subsection (d), the words “Upon retirement” are substituted for the words “When \* \* \* is retired”. The word “allowances” is omitted, since retired officers are not entitled to allowances. The words “grade is below brigadier general” are inserted, since any permanent professor who has the grade of brigadier general retires in that grade under section 4335 of this title.
+In subsection (d), the words “Upon retirement” are substituted for the words “When is retired”. The word “allowances” is omitted, since retired officers are not entitled to allowances. The words “grade is below brigadier general” are inserted, since any permanent professor who has the grade of brigadier general retires in that grade under section 4335 of this title.
 
 1958
 

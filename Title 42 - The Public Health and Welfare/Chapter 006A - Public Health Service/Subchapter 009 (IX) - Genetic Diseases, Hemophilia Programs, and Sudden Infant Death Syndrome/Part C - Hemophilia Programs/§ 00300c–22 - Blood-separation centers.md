@@ -126,7 +126,7 @@ Payment.—
 
 &emsp;“(1)
 
-In general.—To the extent there are sufficient amounts in the Fund to cover each payment, the Secretary shall pay, from the Fund, each petition thatthe Secretary determines meets the requirements of this title in the order received.
+In general.—To the extent there are sufficient amounts in the Fund to cover each payment, the Secretary shall pay, from the Fund, each petition that the Secretary determines meets the requirements of this title in the order received.
 
 &emsp;“(2)
 
@@ -240,7 +240,7 @@ Private Payments.—
 
 &emsp;“(1)
 
-In general.—Notwithstanding any other provision of law, the payments described in paragraph (2)shall not be considered income or resources in determining eligibility for, or the amount of—
+In general.—Notwithstanding any other provision of law, the payments described in paragraph (2) shall not be considered income or resources in determining eligibility for, or the amount of—
 
 &emsp;&emsp;“(A) medical assistance under title XIX of the Social Security Act \[section 1396 et seq. of this title\]; or
 

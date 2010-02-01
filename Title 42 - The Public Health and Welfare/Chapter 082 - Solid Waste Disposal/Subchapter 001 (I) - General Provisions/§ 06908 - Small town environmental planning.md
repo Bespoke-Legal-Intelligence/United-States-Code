@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Administrator of the Environmental Protection Agency (hereafter referred to as the“Administrator”) shall establish a program to assist small communities in planning and financing environmental facilities. The program shall be known as the “Small Town Environmental Planning Program”.
+The Administrator of the Environmental Protection Agency (hereafter referred to as the “Administrator”) shall establish a program to assist small communities in planning and financing environmental facilities. The program shall be known as the “Small Town Environmental Planning Program”.
 
 #### (b) Small Town Environmental Planning Task Force
 
@@ -36,7 +36,7 @@ The Administrator of the Environmental Protection Agency (hereafter referred to 
 
 #### (d) Small Town Ombudsman
 
-The Administrator shall establish and staff an Office of the Small Town Ombudsman. The Office shall provide assistance to small towns in connection with the Small Town Environmental Planning Program and other business with the Agency. Each regional office shall identify a small town contact. The Small Town Ombudsman and the regional contacts also may assist larger communities, but only if first priority is given to providing assistance to small towns.
+The Administrator shall establish and staff an Office of the Small Town Ombudsman. The Office shall provide assistance to small towns in connection with the Small Town Environmental Planning Program and other business with theAgency. Each regional office shall identify a small town contact. The Small Town Ombudsman and the regional contacts also may assist larger communities, but only if first priority is given to providing assistance to small towns.
 
 #### (e) Multi-media permits
 

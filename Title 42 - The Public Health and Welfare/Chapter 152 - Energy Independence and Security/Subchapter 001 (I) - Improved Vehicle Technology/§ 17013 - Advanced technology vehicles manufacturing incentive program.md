@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Advanced technology vehicle
 
-&emsp;The term “advanced technology vehicle” means a light duty vehicle that meets—
+&emsp;The term “advanced technology vehicle” means an ultra efficient vehicle or a light duty vehicle that meets—
 
 &emsp;&emsp;(A) the Bin 5 Tier II emission standard established in regulations issued by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act (42 U.S.C. 7521(i)), or a lower-numbered Bin emission standard;
 
@@ -38,17 +38,29 @@ In this section:
 
 &emsp;&emsp;(B) installed for the purpose of meeting the performance requirements of advanced technology vehicles.
 
+#### (5) Ultra efficient vehicle
+
+&emsp;The term “ultra efficient vehicle” means a fully closed compartment vehicle designed to carry at least 2 adult passengers that achieves—
+
+&emsp;&emsp;(A) at least 75 miles per gallon while operating on gasoline or diesel fuel;
+
+&emsp;&emsp;(B) at least 75 miles per gallon equivalent while operating as a hybrid electric-gasoline or electric-diesel vehicle; or
+
+&emsp;&emsp;(C) at least 75 miles per gallon equivalent while operating as a fully electric vehicle.
+
 #### (b) Advanced vehicles manufacturing facility
 
-The Secretary shall provide facility funding awards under this section to automobile manufacturers and component suppliers to pay not more than 30 percent of the cost of—
+The Secretary shall provide facility funding awards under this section to automobile manufacturers, ultra efficient vehicle manufacturers, and component suppliers to pay not more than 30 percent of the cost of—
 
 &emsp;(1) reequipping, expanding, or establishing a manufacturing facility in the United States to produce—
 
-&emsp;&emsp;(A) qualifying advanced technology vehicles; or
+&emsp;&emsp;(A) qualifying advanced technology vehicles;
 
-&emsp;&emsp;(B) qualifying components; and
+&emsp;&emsp;(B) qualifying components; or
 
-&emsp;(2) engineering integration performed in the United States of qualifying vehicles and qualifying components.
+&emsp;&emsp;(C) ultra efficient vehicles; and
+
+&emsp;(2) engineering integration performed in the United States of qualifying vehicles, ultra efficient vehicles, and qualifying components.
 
 #### (c) Period of availability
 
@@ -108,7 +120,7 @@ Administrative costs shall be no more than $100,000 or 10 basis point <sup>2</s
 
 #### (g) Priority
 
-The Secretary shall, in making awards or loans to those manufacturers that have existing facilities, give priority to those facilities that are oldest or have been in existence for at least 20 years. Such facilities can currently be sitting idle.
+The Secretary shall, in making awards or loans to those manufacturers that have existing facilities, give priority to those facilities that are oldest or have been in existence for at least 20 years or are utilized primarily for the manufacture of ultra efficient vehicles. Such facilities can currently be sitting idle.
 
 #### (h) Set aside for small automobile manufacturers and component suppliers
 
@@ -118,7 +130,7 @@ The Secretary shall, in making awards or loans to those manufacturers that have 
 
 &emsp;&emsp;(A) employs less than 500 individuals; and
 
-&emsp;&emsp;(B) manufactures automobiles or components of automobiles.
+&emsp;&emsp;(B) manufactures ultra efficient vehicles, automobiles, or components of automobiles.
 
 #### (2) Set aside
 
@@ -130,13 +142,13 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### (j) Appointment and pay of personnel
 
-(1) The Secretary may use direct hiring authority pursuant to section 3304(a)(3) of title 5 to appoint such professional and administrative personnel as the Secretary deems necessary tothe discharge of the Secretary's functions under this section.
+(1) The Secretary may use direct hiring authority pursuant to section 3304(a)(3) of title 5 to appoint such professional and administrative personnel as the Secretary deems necessary to the discharge of the Secretary's functions under this section.
 
 (2) The rate of pay for a person appointed pursuant to paragraph (1) shall not exceed the maximum rate payable for GS-15 of the General Schedule under chapter 53 such <sup>3</sup> title 5.
 
 (3) The Secretary may retain such consultants as the Secretary deems necessary to the discharge of the functions required by this section, pursuant to section 427 of title 41.
 
-(Pub. L. 110–140, title I, §136, Dec. 19, 2007, 121 Stat. 1514; Pub. L. 110–329, div. A, §129(c), Sept. 30, 2008, 122 Stat. 3578.)
+(Pub. L. 110–140, title I, §136, Dec. 19, 2007, 121 Stat. 1514; Pub. L. 110–329, div. A, §129(c), Sept. 30, 2008, 122 Stat. 3578; Pub. L. 111–85, title III, §312(a), Oct. 28, 2009, 123 Stat. 2874.)
 
 #### References in Text
 
@@ -146,9 +158,33 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (d)(2)(B), is se
 
 #### Amendments
 
+2009—Subsec. (a)(1). Pub. L. 111–85, §312(a)(1)(A), inserted “an ultra efficient vehicle or” after “means” in introductory provisions.
+
+Subsec. (a)(5). Pub. L. 111–85, §312(a)(1)(B), added par. (5).
+
+Subsec. (b). Pub. L. 111–85, §312(a)(2)(A), inserted “, ultra efficient vehicle manufacturers,” after “automobile manufacturers” in introductory provisions.
+
+Subsec. (b)(1)(C). Pub. L. 111–85, §312(a)(2)(B), added subpar. (C).
+
+Subsec. (b)(2). Pub. L. 111–85, §312(a)(2)(C), inserted “, ultra efficient vehicles,” after “qualifying vehicles”.
+
+Subsec. (g). Pub. L. 111–85, §312(a)(3), inserted “or are utilized primarily for the manufacture of ultra efficient vehicles” after “20 years”.
+
+Subsec. (h)(1)(B). Pub. L. 111–85, §312(a)(4), substituted “ultra efficient vehicles, automobiles,” for “automobiles”.
+
 2008—Subsec. (d)(1). Pub. L. 110–329, §129(c)(1), inserted at end “The loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal and interest. The full credit subsidy shall be paid by the Secretary using appropriated funds.”
 
 Subsec. (e). Pub. L. 110–329, §129(c)(2), substituted “Not later than 60 days after September 30, 2008, the Secretary shall promulgate an interim final rule establishing regulations that the Secretary deems necessary to administer this section and any loans made by the Secretary pursuant to this section. Such interim final rule shall require that,” for “The Secretary shall issue regulations that require that,”.
 
 Subsec. (j). Pub. L. 110–329, §129(c)(3), added subsec. (j).
+
+#### Reconsideration of Prior Applications
+
+Pub. L. 111–85, title III, §312(b), Oct. 28, 2009, 123 Stat. 2875, provided that: “The Secretary of Energy shall reconsider applications for assistance under section 136 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17013) that were—
+
+&emsp;“(1) timely filed under that section before January 1, 2009;
+
+&emsp;“(2) rejected on the basis that the vehicles to which the proposal related were not advanced technology vehicles; and
+
+&emsp;“(3) related to ultra efficient vehicles.”
 

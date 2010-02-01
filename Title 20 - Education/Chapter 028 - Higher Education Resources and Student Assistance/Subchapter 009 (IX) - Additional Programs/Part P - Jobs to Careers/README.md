@@ -1,7 +1,5 @@
 Part P—Jobs to Careers
 
-<i><sup>1</sup></i><i> So in original. Probably should be “1093a(b)(1)”.</i>
-
 
 ---
 

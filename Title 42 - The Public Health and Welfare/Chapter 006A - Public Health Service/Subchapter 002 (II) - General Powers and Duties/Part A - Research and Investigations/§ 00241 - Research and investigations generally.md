@@ -20,7 +20,7 @@ The Secretary shall conduct in the Service, and encourage, cooperate with, and r
 
 &emsp;(8) adopt, upon recommendations of the advisory councils to the appropriate entities of the Department or, with respect to mental health, the National Advisory Mental Health Council, such additional means as the Secretary considers necessary or appropriate to carry out the purposes of this section.
 
-> The Secretary may make available to individuals and entities, for biomedical and behavioral research, substances and living organisms. Such substances and organisms shall be made available under such terms and conditions (including payment for them) as the Secretary determines appropriate.
+> The Secretary may make available to individuals and entities, for biomedical and behavioralresearch, substances and living organisms. Such substances and organisms shall be made available under such terms and conditions (including payment for them) as the Secretary determines appropriate.
 
 #### (b) Testing for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects; consultation
 
@@ -38,7 +38,7 @@ The Secretary shall conduct in the Service, and encourage, cooperate with, and r
 
 &emsp;(B) information concerning the nature of such exposure and the estimated number of persons exposed to such substances;
 
-&emsp;(C) a statement identifying (i) each substance contained in the list under subparagraph (A) for which no effluent, ambient, or exposure standard has been established by a Federal agency, and (ii) for each effluent, ambient, or exposure standard established by a Federal agency with respect to a substance contained in the list under subparagraph (A), the extent to which, on the basis of availablemedical, scientific, or other data, such standard, and the implementation of such standard by the agency, decreases the risk to public health from exposure to the substance; and
+&emsp;(C) a statement identifying (i) each substance contained in the list under subparagraph (A) for which no effluent, ambient, or exposure standard has been established by a Federal agency, and (ii) for each effluent, ambient, or exposure standard established by a Federal agency with respect to a substance contained in the list under subparagraph (A), the extent to which, on the basis of available medical, scientific, or other data, such standard, and the implementation of such standard by the agency, decreases the risk to public health from exposure to the substance; and
 
 &emsp;(D) a description of (i) each request received during the year involved—
 
@@ -62,7 +62,7 @@ The Secretary may authorize persons engaged in biomedical, behavioral, clinical,
 
 The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall expand, intensify, and coordinate the activities of the Centers for Disease Control and Prevention with respect to preterm labor and delivery and infant mortality.
 
-(July 1, 1944, ch. 373, title III, §301, 58 Stat. 691; July 3, 1946, ch. 538, §7(a), (b), 60 Stat. 423; June 16, 1948, ch. 481, §4(e), (f), 62 Stat. 467; June 24, 1948, ch. 621, §4(e), (f), 62 Stat. 601; June 25, 1948, ch. 654, §1, 62 Stat. 1017; July 3, 1956, ch. 510, §4, 70 Stat. 490; Pub. L. 86–798, Sept. 15, 1960, 74 Stat. 1053; Pub. L. 87–838, §2, Oct. 17, 1962, 76 Stat. 1073; Pub. L. 89–115, §3, Aug. 9, 1965, 79 Stat. 448; Pub. L. 90–174, §9, Dec. 5, 1967, 81 Stat. 540; Pub. L. 91–513, title I, §3(a), Oct. 27, 1970, 84 Stat. 1241; Pub. L. 91–515, title II, §292, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 92–218, §6(a)(2), Dec. 23, 1971, 85 Stat. 785; Pub. L. 92–423, §7(b), Sept. 19, 1972, 86 Stat. 687; Pub. L. 93–282, title I, §122(b), May 14, 1974, 88 Stat. 132; Pub. L. 93–348, title I, §104(a)(1), July 12, 1974, 88 Stat. 346; Pub. L. 93–352, title I, §111, July 23, 1974, 88 Stat. 360; Pub. L. 94–278, title I, §111, Apr. 22, 1976, 90 Stat. 405; Pub. L. 95–622, title II, §§261, 262, Nov. 9, 1978, 92 Stat. 3434; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–158, §3(a)(5), Nov. 20, 1985, 99 Stat. 879; Pub. L. 99–570, title IV, §4021(b)(2), Oct. 27, 1986, 100 Stat. 3207–124; Pub. L. 99–660, title I, §104, Nov. 14, 1986, 100 Stat. 3751; Pub. L. 100–607, title I, §163(1), (2), Nov. 4, 1988, 102 Stat. 3062; Pub. L. 103–43, title XX, §2009, June 10, 1993, 107 Stat. 213; Pub. L. 109–450, §3(a), Dec. 22, 2006, 120 Stat. 3341.)
+(July 1, 1944, ch. 373, title III, §301, 58 Stat. 691; July 3, 1946, ch. 538, §7(a), (b), 60 Stat. 423; June 16, 1948, ch. 481, §4(e), (f), 62 Stat. 467; June 24, 1948, ch. 621, §4(e), (f), 62 Stat. 601; June 25, 1948, ch. 654, §1, 62 Stat. 1017; July 3, 1956, ch. 510, §4, 70 Stat. 490; Pub. L. 86–798, Sept. 15, 1960, 74 Stat. 1053; Pub. L. 87–838, §2, Oct. 17, 1962, 76 Stat. 1073; Pub. L. 89–115, §3, Aug. 9, 1965, 79 Stat. 448; Pub. L. 90–174, §9, Dec. 5, 1967, 81 Stat. 540; Pub. L. 91–513, title I, §3(a), Oct. 27, 1970, 84 Stat. 1241; Pub. L. 91–515, title II, §292, Oct. 30, 1970, 84 Stat.1308; Pub. L. 92–218, §6(a)(2), Dec. 23, 1971, 85 Stat. 785; Pub. L. 92–423, §7(b), Sept. 19, 1972, 86 Stat. 687; Pub. L. 93–282, title I, §122(b), May 14, 1974, 88 Stat. 132; Pub. L. 93–348, title I, §104(a)(1), July 12, 1974, 88 Stat. 346; Pub. L. 93–352, title I, §111, July 23, 1974, 88 Stat. 360; Pub. L. 94–278, title I, §111, Apr. 22, 1976, 90 Stat. 405; Pub. L. 95–622, title II, §§261, 262, Nov. 9, 1978, 92 Stat. 3434; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–158, §3(a)(5), Nov. 20, 1985, 99 Stat. 879; Pub. L. 99–570, title IV, §4021(b)(2), Oct. 27, 1986, 100 Stat. 3207–124; Pub. L. 99–660, title I, §104, Nov. 14, 1986, 100 Stat. 3751; Pub. L. 100–607, title I, §163(1), (2), Nov. 4, 1988, 102 Stat. 3062; Pub. L. 103–43, title XX, §2009, June 10, 1993, 107 Stat. 213; Pub. L. 109–450, §3(a), Dec. 22, 2006, 120 Stat. 3341.)
 
 #### Amendments
 
@@ -78,7 +78,7 @@ Subsec. (c). Pub. L. 99–660 added subsec. (c).
 
 1985—Subsec. (a)(3). Pub. L. 99–158, §3(a)(5)(A), substituted “as are recommended by the advisory council to the entity of the Department supporting such projects or, in the case of mental health projects, by the National Advisory Mental Health Council; and make, upon recommendation of the advisory council to the appropriate entity of the Department or the National Advisory Mental Health Council, grants-in-aid to public or nonprofit universities, hospitals, laboratories, and other institutions for the general support of their research” for “as are recommended by the National Advisory Health Council, or, with respect to cancer, recommended by the National Cancer Advisory Board, or, with respect to mental health, recommended by the National Advisory Mental Health Council, or with respect to heart, blood vessel, lung, and blood diseases and blood resources, recommended by the National Heart, Lung, and Blood Advisory Council, or, with respect to dental diseases and conditions, recommended by the National Advisory Dental Research Council; and include in the grants for any such project grants of penicillin and other antibiotic compounds for use in such project; and make, upon recommendation of the National Advisory Health Council, grants-in-aid to public or nonprofit universities, hospitals, laboratories, and other institutions for the general support of their research: <i>Provided</i>, That such uniform percentage, not to exceed 15 per centum, as the Secretary may determine, of the amounts provided for grants for research projects for any fiscal year through the appropriations for the National Institutes of Health may be transferred from such appropriations to a separate account to be available for such research grants-in-aid for such fiscal year”.
 
-Subsec. (a)(8). Pub. L. 99–158, §3(a)(5)(B), substituted “recommendations of the advisory councils to the appropriate entities of the Department or, with respect to mental health, the National Advisory Mental Health Council, such additional means as the Secretary considers” for “recommendation of the National AdvisoryHealth Council, or, with respect to cancer, upon recommendation of the National Cancer Advisory Board, or, with respect to mental health, upon recommendation of the National Advisory Mental Health Council, or, with respect to heart, blood vessel, lung, and blood diseases and blood resources, upon recommendation of the National Heart, Lung and Blood Advisory Council, or, with respect to dental diseases and conditions, upon recommendations of the National Advisory Dental Research Council, such additional means as he deems”.
+Subsec. (a)(8). Pub. L. 99–158, §3(a)(5)(B), substituted “recommendations of the advisory councils to the appropriate entities of the Department or, with respect to mental health, the National Advisory Mental Health Council, such additional means as the Secretary considers” for “recommendation of the National Advisory Health Council, or, with respect to cancer, upon recommendation of the National Cancer Advisory Board, or, with respect to mental health, upon recommendation of the National Advisory Mental Health Council, or, with respect to heart, blood vessel, lung, and blood diseases and blood resources, upon recommendation of the National Heart, Lung and Blood Advisory Council, or, with respect to dental diseases and conditions, upon recommendations of the National Advisory Dental Research Council, such additional means as he deems”.
 
 1978—Pub. L. 95–622 designated existing provisions as subsec. (a), redesignated former pars. (a) to (h) as (1) to (8), respectively, substituted “Secretary” for “Surgeon General” wherever appearing, and inserted following par. (8) provisions relating to authority of Secretary to make available to individuals and entities substances and living organisms, and added subsec. (b).
 
@@ -152,7 +152,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(e)\], Nov. 29, 1999, 
 
 #### Female Genital Mutilation
 
-Pub. L. 104–134, title I, §101(d) \[title V, §520\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–250; renumbered title I,Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that:
+Pub. L. 104–134, title I, §101(d) \[title V, §520\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–250; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that:
 
 “(a) Congress finds that—
 
@@ -182,7 +182,7 @@ Section 161 of Pub. L. 100–607, as amended by Pub. L. 102–531, title III, §
 
 #### National Commission on Sleep Disorders Research
 
-Section 162 of Pub. L. 100–607 directed Secretary of Health and Human Services, after consultation with Director of National Institutes of Health, to establish a National Commission on Sleep Disorders Research to conduct a comprehensive study of present state of knowledge of incidence, prevalence, morbidity, and mortality resulting from sleep disorders, and of social and economic impact of such disorders, evaluate public and private facilities and resources (including trained personnel and research activities) available for diagnosis, prevention, and treatment of, and research into, such disorders, and identify programs (including biological, physiological, behavioral, environmental, and social programs) by which improvement in management and research into sleep disorders could be accomplished and, not later than 18 months after initial meeting of Commission, to submit to appropriate Committees of Congress a final report, and provided for termination of the Commission 30 days after submission of final report.
+Section 162 of Pub. L. 100–607 directed Secretary of Health and Human Services, after consultation with Director of National Institutes of Health, to establish a National Commission on Sleep Disorders Research to conduct a comprehensive study of present state of knowledge of incidence, prevalence, morbidity, and mortality resulting from sleep disorders, and of socialand economic impact of such disorders, evaluate public and private facilities and resources (including trained personnel and research activities) available for diagnosis, prevention, and treatment of, and research into, such disorders, and identify programs (including biological, physiological, behavioral, environmental, and social programs) by which improvement in management and research into sleep disorders could be accomplished and, not later than 18 months after initial meeting of Commission, to submit to appropriate Committees of Congress a final report, and provided for termination of the Commission 30 days after submission of final report.
 
 #### Research With Respect to Health Resources and Services Administration
 
@@ -218,49 +218,53 @@ Pub. L. 97–414, §7, Jan. 4, 1983, 96 Stat. 2059, as amended by Pub. L. 109–
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
-#### Ex. Ord. No. 13435. Expanding Approved Stem Cell Lines in Ethically Responsible Ways
+#### Executive Order No. 13435
 
-Ex. Ord. No. 13435, June 20, 2007, 72 F.R. 34591, provided:
+Ex. Ord. No. 13435, June 20, 2007, 72 F.R. 34591, which directed research with stem cells not derived from the creation or destruction of a human embryo or fetus, was revoked by Ex. Ord. No. 13505, §5(b), Mar. 9, 2009, 74 F.R. 10668, set out below.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and to provide leadership with respect to research on pluripotent stem cells derived by ethically responsible techniques so that the potential of pluripotent stem cells can be explored without violating human dignity or demeaning human life, it is hereby ordered as follows:
+#### Ex. Ord. No. 13505. Removing Barriers to Responsible Scientific Research Involving Human Stem Cells
 
-Section 1. <i>Research on Alternative Sources of Pluripotent Stem Cells</i>. (a) The Secretary of Health and Human Services (Secretary) shall conduct and support research on the isolation, derivation, production, and testing of stem cells that are capable of producing all or almost all of the cell types of the developing body and may result in improved understanding of or treatments for diseases and other adverse health conditions, but are derived without creating a human embryo for research purposes or destroying, discarding, or subjecting to harm a human embryo or fetus.
+Ex. Ord. No. 13505, Mar. 9, 2009, 74 F.R. 10667, provided:
 
-(b) Within 90 days of this order, the Secretary, after such consultation with the Director of the National Institutes of Health (Director), shall issue a plan, including such mechanisms as requests for proposals, requests for applications, program announcements and other appropriate means, to implement subsection (a) of this section, that:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-(i) specifies and reflects a determination of the extent to which specific techniques may require additional basic or animal research to ensure that any research involving human cells using these techniques is clearly consistent with the standards established under this order and applicable law;
+Section 1. <i>Policy</i>. Research involving human embryonic stem cells and human non-embryonic stem cells has the potential to lead to better understanding and treatment of many disabling diseases and conditions. Advances over the past decade in this promising scientific field have been encouraging, leading to broad agreement in the scientific community that the research should be supported by Federal funds.
 
-(ii) prioritizes research with the greatest potential for clinical benefit;
+For the past 8 years, the authority of the Department of Health and Human Services, including the National Institutes of Health (NIH), to fund and conduct human embryonic stem cell research has been limited by Presidential actions. The purpose of this order is to remove these limitations on scientific inquiry, to expand NIH support for the exploration of human stem cell research, and in so doing to enhance the contribution of America's scientists to important new discoveries and new therapies for the benefit of humankind.
 
-(iii) takes into account techniques outlined by the President's Council on Bioethics, and any other appropriate techniques and research, provided they clearly meet the standard set forth in subsection (a) of this section;
+Sec. 2. <i>Research</i>. The Secretary of Health and Human Services (Secretary), through the Director of NIH, may support and conduct responsible, scientifically worthy human stem cell research, including human embryonic stem cell research, to the extent permitted by law.
 
-(iv) renames the “Human Embryonic Stem Cell Registry” the “Human Pluripotent Stem Cell Registry;” \[sic\] and
-
-(v) adds to the registry new human pluripotent stem cell lines that clearly meet the standard set forth in subsection (a) of this section.
-
-(c) Not later than December 31 of each year, the Secretary shall report to the President on the activities carried out under this order during the past fiscal year, including a description of the research carried out or supported by the Department of Health and Human Services, including the National Institutes of Health, and other developments in the science of pluripotent stem cells not derived from human embryos.
-
-Sec. 2. <i>Policy</i>. The activities undertaken and supported by and under the direction of the Secretary shall be clearly consistent with the following policies and principles:
-
-(a) the purposes of this order are (i) to direct the Department of Health and Human Services, including the National Institutes of Health, to intensify peer reviewed research that may result in improved understanding of or treatments for diseases and other adverse health conditions, and (ii) to promote the derivation of human pluripotent stem cell lines from a variety of alternative sources while clearly meeting the standard set forth in section 1(a) of this order;
-
-(b) it is critical to establish moral and ethical boundaries to allow the Nation to move forward vigorously with medical research, while also maintaining the highest ethical standards and respecting human life and human dignity;
-
-(c) the destruction of nascent life for research violates the principle that no life should be used as a mere means for achieving the medical benefit of another;
-
-(d) human embryos and fetuses, as living members of the human species, are not raw materials to be exploited or commodities to be bought and sold; and
-
-(e) the Federal Government has a duty to exercise responsible stewardship of taxpayer funds, both supporting important medical research and respecting ethical and moral boundaries.
-
-Sec. 3. <i>Interpretation of this Order</i>. (a) For purposes of this order, the term “human embryo” shall mean any organism, not protected as a human subject under 45 CFR 46 as of the date of this order, that is derived by fertilization, parthenogenesis, cloning, or any other means from one or more human gametes or human diploid cells.
-
-(b) For purposes of this order, the term “subjecting to harm a human embryo” shall mean subjecting such an embryo to risk of injury or death greater than that allowed for research on fetuses in utero under 45 CFR 46.204(b) and section 498(b) of the Public Health Service Act (42 U.S.C. 289g(b)) as of the date of this order.
-
-(c) Nothing in this order shall be construed to affect any policy, guideline, or regulation regarding embryonic stem cell research, human cloning by somatic cell nuclear transfer, or any other research not specifically authorized by this order, or to forbid the use of existing stem cell lines deemed eligible for other federally funded research in accordance with the presidential policy decision of August 9, 2001, for research specifically authorized by this order.
+Sec. 3. <i>Guidance</i>. Within 120 days from the date of this order, the Secretary, through the Director of NIH, shall review existing NIH guidance and other widely recognized guidelines on human stem cell research, including provisions establishing appropriate safeguards, and issue new NIH guidance on such research that is consistent with this order. The Secretary, through NIH, shall review and update such guidance periodically, as appropriate.
 
 Sec. 4. <i>General Provisions</i>. (a) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(b) This order is not intended to, and does not, create any right, benefit, or privilege, substantive or procedural, enforceable at law or in equity, by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+(b) Nothing in this order shall be construed to impair or otherwise affect:
 
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&emsp;(i) authority granted by law to an executive department, agency, or the head thereof; or
+
+&emsp;(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 5. <i>Revocations</i>. (a) The Presidential statement of August 9, 2001, limiting Federal funding for research involving human embryonic stem cells, shall have no further effect as a statement of governmental policy.
+
+(b) Executive Order 13435 of June 20, 2007, which supplements the August 9, 2001, statement on human embryonic stem cell research, is revoked.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Guidelines for Human Stem Cell Research
+
+Memorandum of President of the United States, July 30, 2009, 74 F.R. 38885, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+As outlined in Executive Order 13505 of March 9, 2009, my Administration is committed to supporting and conducting ethically responsible, scientifically worthy human stem cell research, including human embryonic stem cell research, to the extent permitted by law. Pursuant to that order, the National Institutes of Health (NIH) published final “National Institutes of Health Guidelines for Human Stem Cell Research” (Guidelines), effective July 7, 2009. These Guidelines apply to the expenditure of NIH funds for research using human embryonic stem cells and certain uses of human induced pluripotent stem cells. The Guidelines are based on the principles that responsible research with human embryonic stem cells has the potential to improve our understanding of human biology and aid in the discovery of new ways to prevent and treat illness, and that individuals donating embryos for research purposes should do so freely, with voluntary and informed consent. These Guidelines will ensure that NIH-funded research adheres to the highest ethical standards.
+
+In order to ensure that all federally funded human stem cell research is conducted according to these same principles and to promote a uniform Federal policy across the executive branch, I hereby direct the heads of executive departments and agencies that support and conduct stem cell research to adopt these Guidelines, to the fullest extent practicable in light of legal authorities and obligations. I also direct those departments and agencies to submit to the Director of the Office of Management and Budget (OMB), within 90 days, proposed additions or revisions to any other guidance, policies, or procedures related to human stem cell research, consistent with Executive Order 13505 and this memorandum. The Director of the OMB shall, in coordination with the Director of NIH, review these proposals to ensure consistent implementation of Executive Order 13505 and this memorandum.
+
+This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person. Executive departments and agencies shall carry out the provisions of this memorandum to the extent permitted by law and consistent with their statutory and regulatory authorities and their enforcement mechanisms.
+
+The Director of the OMB is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -8,7 +8,7 @@ Refusal or Revocation of Clearance.—If any owner, agent, master, officer, or p
 
 Clearance Upon Filing of Bond or Other Surety.—The Secretary may require the filing of a bond or other surety as a condition of granting clearance refused or revoked under this subsection.
 
-(Added Pub. L. 108–293, title VIII, §802(a)(2), Aug. 9, 2004, 118 Stat. 1079, §70118; renumbered §70121 and amended Pub. L. 109–241, title IX, §901(<i>l</i>)(2), (4), July 11, 2006, 120 Stat. 565; Pub. L. 109–304, §15(33)(B), (D), Oct. 6, 2006, 120 Stat. 1705; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603.)
+(Added Pub. L. 108–293, title VIII, §802(a)(2), Aug. 9, 2004, 118 Stat. 1079, §70118; renumbered §70121 and amended Pub. L. 109–241, title IX, §901(<i>l</i>)(2), (4), July 11, 2006, 120 Stat. 565; Pub. L. 109–304,§15(33)(B), (D), Oct. 6, 2006, 120 Stat. 1705; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603.)
 
 #### Amendments
 

@@ -377,7 +377,8 @@ I74subpart 1—child welfare services
 | 1320b–6. | Exclusion of representatives and health care providers convicted of violations from participation in social security programs. |
 | 1320b–7. | Income and eligibility verification system. |
 | 1320b–8. | Hospital protocols for organ procurement and standards for organ procurement agencies. |
-| 1320b–9. | National Commission on Children. |
+| 1320b–9. | Improved access to, and delivery of, health care for Indians under subchapters XIX and XXI. |
+| 1320b–9a. | Child health quality measures. |
 | 1320b–10. | Prohibitions relating to references to Social Security or Medicare. |
 | 1320b–11. | Blood Donor Locator Service. |
 | 1320b–12. | Research on outcomes of health care services and procedures. |
@@ -392,6 +393,7 @@ I74subpart 1—child welfare services
 | 1320b–21. | State grants for work incentives assistance to disabled beneficiaries. |
 | 1320b–22. | Grants to develop and establish State infrastructures to support working individuals with disabilities. |
 | 1320b–23. | Repealed. |
+| 1320b–24. | Consultation with Tribal Technical Advisory Group. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -720,12 +722,14 @@ I74subpart 1—part d eligible individuals and prescription drug benefits
 
 |  |  |
 | :--- | ---: |
-| [1396\.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396%20-%20Appropriations.md) | Appropriations. |
+| [1396\.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396%20-%20Medicaid%20and%20CHIP%20Payment%20and%20Access%20Commission.md) | Medicaid and CHIP Payment and Access Commission. |
+| 1396–1. | Appropriations. |
 | [1396a.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396a%20-%20State%20plans%20for%20medical%20assistance.md) | State plans for medical assistance. |
 | [1396b.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396b%20-%20Payment%20to%20States.md) | Payment to States. |
 | [1396c.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396c%20-%20Operation%20of%20State%20plans.md) | Operation of State plans. |
 | [1396d.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396d%20-%20Definitions.md) | Definitions. |
 | [1396e.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396e%20-%20Enrollment%20of%20individuals%20under%20group%20health%20plans.md) | Enrollment of individuals under group health plans. |
+| 1396e–1. | Premium assistance option for children. |
 | [1396f.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396f%20-%20Observance%20of%20religious%20beliefs.md) | Observance of religious beliefs. |
 | [1396g.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396g%20-%20State%20programs%20for%20licensing%20of%20administrators%20of%20nursing%20homes.md) | State programs for licensing of administrators of nursing homes. |
 | 1396g–1. | Required laws relating to medical child support. |
@@ -743,7 +747,7 @@ I74subpart 1—part d eligible individuals and prescription drug benefits
 | [1396r.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396r%20-%20Requirements%20for%20nursing%20facilities.md) | Requirements for nursing facilities. |
 | 1396r–1. | Presumptive eligibility for pregnant women. |
 | 1396r–1a. | Presumptive eligibility for children. |
-| §1396r–1b. | Presumptive eligibility for certain breast or cervical cancer patients. |
+| 1396r–1b. | Presumptive eligibility for certain breast or cervical cancer patients. |
 | 1396r–2. | Information concerning sanctions taken by State licensing authorities against health care practitioners and providers. |
 | 1396r–3. | Correction and reduction plans for intermediate care facilities for mentally retarded. |
 | 1396r–4. | Adjustment in payment for inpatient hospital services furnished by disproportionate share hospitals. |
@@ -765,6 +769,7 @@ I74subpart 1—part d eligible individuals and prescription drug benefits
 | [1396v.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396v%20-%20References%20to%20laws%20directly%20affecting%20medicaid%20program.md) | References to laws directly affecting medicaid program. |
 | [1396w.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396w%20-%20Asset%20verification%20through%20access%20to%20information%20held%20by%20financial%20institutions.md) | Asset verification through access to information held by financial institutions. |
 | 1396w–1. | Medicaid Improvement Fund. |
+| 1396w–2. | Authorization to receive relevant information. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -796,6 +801,9 @@ I74subpart 1—part d eligible individuals and prescription drug benefits
 | [1397hh.](Subchapter%20021%20%28XXI%29%20-%20State%20Children%27s%20Health%20Insurance%20Program/%C2%A7%2001397hh%20-%20Annual%20reports%3B%20evaluations.md) | Annual reports; evaluations. |
 | [1397ii.](Subchapter%20021%20%28XXI%29%20-%20State%20Children%27s%20Health%20Insurance%20Program/%C2%A7%2001397ii%20-%20Miscellaneous%20provisions.md) | Miscellaneous provisions. |
 | [1397jj.](Subchapter%20021%20%28XXI%29%20-%20State%20Children%27s%20Health%20Insurance%20Program/%C2%A7%2001397jj%20-%20Definitions.md) | Definitions. |
+| [1397kk.](Subchapter%20021%20%28XXI%29%20-%20State%20Children%27s%20Health%20Insurance%20Program/%C2%A7%2001397kk%20-%20Phase-out%20of%20coverage%20for%20nonpregnant%20childless%20adults%3B%20conditions%20for%20coverage%20of%20parents.md) | Phase-out of coverage for nonpregnant childless adults; conditions for coverage of parents. |
+| 1397<i>ll.</i> | Optional coverage of targeted low-income pregnant women through a State plan amendment. |
+| [1397mm.](Subchapter%20021%20%28XXI%29%20-%20State%20Children%27s%20Health%20Insurance%20Program/%C2%A7%2001397mm%20-%20Grants%20to%20improve%20outreach%20and%20enrollment.md) | Grants to improve outreach and enrollment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

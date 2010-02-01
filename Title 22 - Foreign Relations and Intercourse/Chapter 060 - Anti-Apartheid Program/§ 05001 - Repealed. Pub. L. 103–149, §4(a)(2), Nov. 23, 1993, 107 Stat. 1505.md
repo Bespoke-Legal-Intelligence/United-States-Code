@@ -64,7 +64,7 @@ Pub. L. 103–149, Nov. 23, 1993, 107 Stat. 1503, provided that:
 
 &emsp;&emsp;“(D) urge United States investors to develop a working partnership with representative organs of South African civil society, particularly churches and trade unions, in promoting responsible codes of corporate conduct and other measures to address the historical inequities created under apartheid;
 
-&emsp;“(5) the United States should urge the Government of South Africa to liberalize its trade and investment policies to facilitate the expansion of the economy, and to shift resources to meet the needs of disadvantaged South Africans;
+&emsp;“(5) the United States should urge the Government of South Africa to liberalize its trade and investmentpolicies to facilitate the expansion of the economy, and to shift resources to meet the needs of disadvantaged South Africans;
 
 &emsp;“(6) the United States should promote cooperation between South Africa and other countries in the region to foster regional stability and economic growth; and
 
@@ -82,7 +82,7 @@ In general.—All provisions of the Comprehensive Anti-Apartheid Act of 1986 (22
 
 &emsp;“(2)
 
-Effective date of repeal of code of conduct requirements.—Sections 1, 3, 203(a), 203(b), 205, 207,208, 601, 603, and 604 of the Comprehensive Anti-Apartheid Act of 1986 \[22 U.S.C. 5001 note, 5001, 5031(a), (b), 5032, 5034, 5035, 5111, 5113, 5114\] are repealed as of the date on which the President certifies to the Congress that an interim government, elected on a nonracial basis through free and fair elections, has taken office in South Africa. \[A Presidential message to Congress dated June 8, 1994, set out in 30 Weekly Compilation of Presidential Documents 1258, June 13, 1994, certified that interim government, elected on nonracial basis through free and fair elections, had taken office in South Africa.\]
+Effective date of repeal of code of conduct requirements.—Sections 1, 3, 203(a), 203(b), 205, 207, 208, 601, 603, and 604 of the Comprehensive Anti-Apartheid Act of 1986 \[22 U.S.C. 5001 note, 5001, 5031(a), (b), 5032, 5034, 5035, 5111, 5113, 5114\] are repealed as of the date on which the President certifies to the Congress that an interim government, elected on a nonracial basis through free and fair elections, has taken office in South Africa. \[A Presidential message to Congress dated June 8, 1994, set out in 30 Weekly Compilation of Presidential Documents 1258, June 13, 1994, certified that interim government, elected on nonracial basis through free and fair elections, had taken office in South Africa.\]
 
 &emsp;“(3)
 

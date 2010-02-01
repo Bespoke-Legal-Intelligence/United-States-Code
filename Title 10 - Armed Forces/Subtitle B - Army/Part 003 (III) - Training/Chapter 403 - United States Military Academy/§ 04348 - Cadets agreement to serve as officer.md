@@ -36,9 +36,9 @@
 
 (2) In the case of a cadet who is a minor and who has parents or a guardian, the cadet may sign the agreement required by subsection (a) only with the consent of a parent or guardian.
 
-(f) A cadet or former cadet who does not fulfill the terms of the agreement as specified under section <sup>1</sup> (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) of title 37.
+(f) A cadet or former cadet who does not fulfill the terms of the agreement as specified under subsection (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) of title 37.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 243; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(9), Oct. 13, 1964, 78 Stat. 1072; Pub. L. 98–525, title V, §§541(a), 542(b), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 101–189, div. A, title V, §511(b), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1439, 1605; Pub. L. 104–106, div. A, title V, §531(a), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title VI, §687(c)(9), Jan. 6, 2006, 119 Stat. 3335.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 243; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(9), Oct. 13, 1964, 78 Stat. 1072; Pub. L. 98–525, title V, §§541(a), 542(b), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 101–189, div. A, title V, §511(b), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1439, 1605; Pub. L. 104–106, div. A, title V, §531(a), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title VI, §687(c)(9), Jan. 6, 2006, 119 Stat. 3335; Pub. L. 111–84, div. A, title X, §1073(a)(29), Oct. 28, 2009, 123 Stat. 2474.)
 
 Historical and Revision Notes
 
@@ -57,6 +57,8 @@ June 30, 1950, ch. 421, §3, 64 Stat. 304.
 The word “agreement” is substituted for the word “articles”. The words “Hereafter”, “appointed to the United States Military Academy”, “engage”, and 10:1092c (1st 25 words of clause (2)) are omitted as surplusage. The word “separated” is substituted for the words “discharged by competent authority”. The words “if he is permitted to resign” are substituted for the words “in the event of the acceptance of his resignation”, since a resignation is effective only when accepted. The first 31 words of clause (3) are substituted for 10:1092c (last 29 words of clause (3)). The last sentence is substituted for the words “with the consent of his parents or guardian if he be a minor, and if any he have”.
 
 #### Amendments
+
+2009—Subsec. (f). Pub. L. 111–84 substituted “subsection (a)” for “section (a)”.
 
 2006—Subsec. (f). Pub. L. 109–163 added subsec. (f).
 
@@ -173,6 +175,4 @@ Elements of Policy.—The policy prescribed under subsection (a) shall address t
 “(c)
 
 Application of Policy to Armed Forces.—Not later than December 1, 2007, the Secretary of each military department shall prescribe regulations, or modify current regulations, in order to implement the policy prescribed by the Secretary of Defense under subsection (a) with respect to the Armed Forces under the jurisdiction of such Secretary.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

@@ -30,7 +30,7 @@ An individual who, as a part of an individualized plan for employment under a St
 
 The standards used to determine whether this section has been violated in a complaint alleging nonaffirmative action employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510,<sup>1</sup> of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201–12204 and 12210), as such sections relate to employment.
 
-(Pub. L. 93–112, title V, §501, Sept. 26, 1973, 87 Stat. 390; Pub. L. 98–221, title I, §104(b)(3), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, §103(d)(2)(C), title X, §§1001(f)(1), 1002(e)(1), (2)(A), Oct. 21, 1986, 100 Stat. 1810, 1843, 1844; Pub. L. 100–630, title II, §206(a), Nov. 7, 1988, 102 Stat.3310; Pub. L. 102–54, §13(k)(1)(B), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(29), title V, §503, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(a), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title III, §341(c), title IV, §408(a)(1), Aug. 7, 1998, 112 Stat. 1092, 1202; Pub. L. 109–435, title VI, §604(d), Dec. 20, 2006, 120 Stat. 3242.)
+(Pub. L. 93–112, title V, §501, Sept. 26, 1973, 87 Stat. 390; Pub. L. 98–221, title I, §104(b)(3), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, §103(d)(2)(C), title X, §§1001(f)(1), 1002(e)(1), (2)(A), Oct. 21, 1986, 100 Stat. 1810, 1843, 1844; Pub. L. 100–630, title II, §206(a), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–54, §13(k)(1)(B), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(29), title V, §503, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(a), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title III, §341(c), title IV, §408(a)(1), Aug. 7, 1998, 112 Stat. 1092, 1202; Pub. L. 109–435, title VI, §604(d), Dec. 20, 2006, 120 Stat. 3242.)
 
 #### References in Text
 
@@ -46,7 +46,7 @@ Prior similar provisions were set out in section 38 of this title.
 
 2006—Subsec. (b). Pub. L. 109–435, §604(d), substituted “Postal Regulatory Commission” for “Postal Rate Office”.
 
-1998—Subsec. (a). Pub. L. 105–220, §408(a)(1)(A), substituted “President's Committees on Employment of People With Disabilities” for “President's Committees on Employment of the Handicapped” in third sentence.
+1998—Subsec. (a). Pub. L. 105–220, §408(a)(1)(A), substituted “President's Committees on Employment ofPeople With Disabilities” for “President's Committees on Employment of the Handicapped” in third sentence.
 
 Pub. L. 105–220, §341(c)(1), inserted “and the Smithsonian Institution” after “Government” in fourth sentence.
 
@@ -106,7 +106,7 @@ Subsec. (f)(1). Pub. L. 98–221, §104(b)(3)(F), substituted “Secretary of Ed
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 341(c) of Pub. L. 105–220 effective Aug. 7, 1998, and applicable to and may be raised in any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date,and any administrative or judicial claim or action brought after such date regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations, see section 341(d) of Pub. L. 105–220, set out as a note under section 633a of this title.
+Amendment by section 341(c) of Pub. L. 105–220 effective Aug. 7, 1998, and applicable to and may be raised in any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date, and any administrative or judicial claim or action brought after such date regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations, see section 341(d) of Pub. L. 105–220, set out as a note under section 633a of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -202,7 +202,7 @@ Sec. 2. <i>Implementation</i>. Each Federal agency shall prepare a plan to incre
 
 Sec. 3. <i>Authority to Develop Guidance</i>. The Office of Personnel Management shall develop guidance on the provisions of this order to increase the opportunities for individuals with disabilities employed in the Federal Government.
 
-Sec. 4. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, its employees, or any person.
+Sec. 4. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executivebranch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, its employees, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

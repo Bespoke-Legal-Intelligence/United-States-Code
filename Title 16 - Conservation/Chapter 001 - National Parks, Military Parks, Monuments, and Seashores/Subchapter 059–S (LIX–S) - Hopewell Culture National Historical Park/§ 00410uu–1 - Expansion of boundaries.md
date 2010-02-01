@@ -2,15 +2,17 @@
 
 #### (a) In general
 
-The boundaries of the Hopewell Culture National Historical Park (referred to as the “park”) are revised to include the lands within the areas marked for inclusion in the monument as generally depicted on—
+The boundaries of the Hopewell Culture National Historical Park (referred to as the“park”) are revised to include the lands within the areas marked for inclusion in the monument as generally depicted on—
 
 &emsp;(1) the map entitled “Hopeton Earthworks” numbered 353–80025 and dated July 1987;
 
 &emsp;(2) the map entitled “High Banks Works” numbered 353–80027 and dated July 1987;
 
-&emsp;(3) the map entitled “Hopewell Mound Group” numbered 353–80029 and dated July 1987; and
+&emsp;(3) the map entitled “Hopewell Mound Group” numbered 353–80029 and dated July 1987;
 
-&emsp;(4) the map entitled “Seip Earthworks” numbered 353–80033 and dated July 1987.
+&emsp;(4) the map entitled “Seip Earthworks” numbered 353–80033 and dated July 1987; and
+
+&emsp;(5) the map entitled “Hopewell Culture National Historical Park, Ohio Proposed Boundary Adjustment” numbered 353/80,049 and dated June, 2006.
 
 #### (b) Public inspection of maps
 
@@ -28,9 +30,17 @@ The Secretary of the Interior (referred to as the “Secretary”) may, by notic
 
 (B) Lands and interests in land may be acquired by purchase at a price based on the fair market value thereof as determined by independent appraisal, consistent with the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4601 et seq.).
 
-(Pub. L. 102–294, §2, May 27, 1992, 106 Stat. 185.)
+(3) The Secretary may acquire lands added by subsection (a)(5) only from willing sellers.
+
+(Pub. L. 102–294, §2, May 27, 1992, 106 Stat. 185; Pub. L. 111–11, title VII, §7104, Mar. 30, 2009, 123 Stat. 1191.)
 
 #### References in Text
 
 The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (d)(2)(B), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, which is classified generally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
+
+#### Amendments
+
+2009—Subsec. (a)(5). Pub. L. 111–11, §7104(1)–(3), added par. (5).
+
+Subsec. (d)(3). Pub. L. 111–11, §7104(4), added par. (3).
 

@@ -2,7 +2,7 @@
 
 #### (a) Annual report by President to Congress on measures to protect identities of covert agents
 
-The President, after receiving information from the Director of National Intelligence, shallsubmit to the congressional intelligence committees an annual report on measures to protect the identities of covert agents, and on any other matter relevant to the protection of the identities of covert agents. The date for the submittal of the report shall be the date provided in section 415b of this title.
+The President, after receiving information from the Director of National Intelligence, shall submit to the congressional intelligence committees an annual report on measures to protect the identities of covert agents, and on any other matter relevant to the protection of the identities of covert agents. The date for the submittal of the report shall be the date provided in section 415b of this title.
 
 #### (b) Exemption from disclosure
 
@@ -12,9 +12,9 @@ The report described in subsection (a) of this section shall be exempt from any 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+2004—Subsec. (a). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–306, §811(b)(1)(E)(i), inserted at end “The date for the submittal of the report shall be the date provided in section 415b of this title.”
+2002—Subsec. (a). Pub. L. 107–306, §811(b)(1)(E)(i), inserted at end “The date for the submittal of the report shall be the date provided in section 415b of this title.”
 
 Pub. L. 107–306, §353(b)(1)(B), substituted “congressional intelligence committees” for “Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives”.
 

@@ -76,7 +76,7 @@ Under regulations prescribed by the Secretary, if—
 
 #### Prior Provisions
 
-A prior section 336, acts Aug. 16, 1954, ch. 736, 68A Stat. 106; Apr. 2, 1980, Pub. L. 96–223, title IV, §403(b)(1),94 Stat. 304; Oct. 19, 1980, Pub. L. 96–471, §2(b)(1), (c)(1), 94 Stat. 2253, 2254; Sept. 3, 1982, Pub. L. 97–248, title II, §222(b), (e)(1)(D), 224(c)(4), 96 Stat. 478, 480, 489, related to distributions of property in liquidation, prior to repeal by Pub. L. 99–514, §631(a).
+A prior section 336, acts Aug. 16, 1954, ch. 736, 68A Stat. 106; Apr. 2, 1980, Pub. L. 96–223, title IV, §403(b)(1), 94 Stat. 304; Oct. 19, 1980, Pub. L. 96–471, §2(b)(1), (c)(1), 94 Stat. 2253, 2254; Sept. 3, 1982, Pub. L. 97–248, title II, §222(b), (e)(1)(D), 224(c)(4), 96 Stat. 478, 480, 489, related to distributions of property in liquidation, prior to repeal by Pub. L. 99–514, §631(a).
 
 #### Amendments
 
@@ -292,7 +292,7 @@ Other Transitional Rules.—
 
 &emsp;&emsp;“(C) the corporation is completely liquidated on or before December 31, 1988.
 
-&emsp;“(2) The amendments made by this subtitle shall not apply to any liquidation (or deemed liquidation under section 338 of the Internal Revenue Code of1986) of a diversified financial services corporation incorporated under the laws of Delaware on May 9, 1929 (or any direct or indirect subsidiary of such corporation), pursuant to a binding written contract entered into on or before December 31, 1986; but only if the liquidation is completed (or in the case of a section 338 election, the acquisition date occurs) before January 1, 1988.
+&emsp;“(2) The amendments made by this subtitle shall not apply to any liquidation (or deemed liquidation under section 338 of the Internal Revenue Code of 1986) of a diversified financial services corporation incorporated under the laws of Delaware on May 9, 1929 (or any direct or indirect subsidiary of such corporation), pursuant to a binding written contract entered into on or before December 31, 1986; but only if the liquidation is completed (or in the case of a section 338 election, the acquisition date occurs) before January 1, 1988.
 
 &emsp;“(3) The amendments made by this subtitle shall not apply to any distribution, or sale, or exchange—
 
@@ -310,7 +310,7 @@ Other Transitional Rules.—
 
 &emsp;&emsp;“(i) if—
 
-&emsp;&emsp;&emsp;“(I) an option agreement to sell substantially all of the assets of a selling corporation organized under the laws of Massachusetts on October 20, 1976, is executed before August 1, 1986, the corporation adopts (by approval of its shareholders) a conditional plan of liquidation before August 1, 1986 to become effective upon the exercise of such option agreement (or modification thereto), and the assets are sold pursuant to the exercise of the option (as originally executed or subsequently modified provided that the purchase price is not thereby increased), or
+&emsp;&emsp;&emsp;“(I) an option agreement to sell substantially all of the assets of a selling corporation organized under the laws of Massachusetts on October 20, 1976, is executed before August 1, 1986, the corporation adopts (by approval of its shareholders) a conditional plan of liquidation before August 1, 1986 to become effective upon the exercise of such option agreement (or modification thereto), and the assets are sold pursuant to the exercise of the option (as originally executed or subsequentlymodified provided that the purchase price is not thereby increased), or
 
 &emsp;&emsp;&emsp;“(II) in the event that the optionee does not acquire substantially all the assets of the corporation, the optionor corporation sells substantially all its assets to another purchaser at a purchase price not greater than that contemplated by such option agreement pursuant to an effective plan of liquidation, and
 

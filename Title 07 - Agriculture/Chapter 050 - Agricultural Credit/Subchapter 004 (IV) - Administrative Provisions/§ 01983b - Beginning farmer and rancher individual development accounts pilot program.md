@@ -118,7 +118,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A qualified entity administering a demonstration program under this section may provide not more than $6,000 for each fiscal year in matching funds to the individual development account established by the qualified entity for an eligible participant.
+&emsp;&emsp;&emsp;A qualified entity administering a demonstration program under this section mayprovide not more than $6,000 for each fiscal year in matching funds to the individual development account established by the qualified entity for an eligible participant.
 
 #### (ii) Treatment of amount
 

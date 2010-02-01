@@ -2,7 +2,7 @@
 
 #### (a) Exercise of President's authority pursuant to executive order respecting use
 
-The President shall, by executive order, require that motor vehicles which are owned orleased by Federal agencies and are capable of operating on gasohol shall use gasohol where available at reasonable prices and in reasonable quantities.
+The President shall, by executive order, require that motor vehicles which are owned or leased by Federal agencies and are capable of operating on gasohol shall use gasohol where available at reasonable prices and in reasonable quantities.
 
 #### (b) Exceptions
 
@@ -38,7 +38,7 @@ By the authority vested in me as President of the United States of America by Se
 
 1–103. In determining the feasibility of specifying gasohol as a substitute motor fuel in procurement actions for unleaded gasoline, agencies shall include in their considerations such factors as the availability of storage facilities for bulk purchases and the number of vehicles capable of operating on gasohol.
 
-1–104. Agencies shall designate those vehicles which are capable of using gasohol, consistent with overall agency needs and sound vehicle management practices. Agencies shall specify the conditions governing the use of gasohol, including when gasohol shall be purchased from normal retail outlets by vehicle operators.
+1–104. Agencies shall designate those vehicles which are capable of using gasohol, consistent with overall agency needs and sound vehicle management practices. Agencies shall specify the conditions governing the useof gasohol, including when gasohol shall be purchased from normal retail outlets by vehicle operators.
 
 1–105. The use of gasohol by the Department of Defense pursuant to this Order shall be in accordance with Section 815 of the Department of Defense Authorization Act, 1980 (93 Stat. 817; Public Law 96–107; 10 U.S.C. 2388 note) which provides for the use of gasohol to the maximum extent feasible and consistent with overall defense needs and sound vehicle management practices, as determined by the Secretary of Defense.
 

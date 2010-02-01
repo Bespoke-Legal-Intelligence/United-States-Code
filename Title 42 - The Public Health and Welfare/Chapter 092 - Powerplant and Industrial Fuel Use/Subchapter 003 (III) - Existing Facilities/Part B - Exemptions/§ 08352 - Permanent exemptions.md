@@ -40,7 +40,7 @@ After consideration of a petition (and comments thereon) for an exemption from o
 
 (2) Repealed. Pub. L. 100–42, §1(c)(12)(A), May 21, 1987, 101 Stat. 313.
 
-(3) The Secretary may authorize a higher percentage than that referred to in paragraph (1)(B)if he finds that the higher percentage of natural gas allowed would be mixed with synthetic fuels derived from municipal wastes or agricultural wastes and would encourage the use of alternate or new technologies which use renewable sources of energy.
+(3) The Secretary may authorize a higher percentage than that referred to in paragraph (1)(B) if he finds that the higher percentage of natural gas allowed would be mixed with synthetic fuels derived from municipal wastes or agricultural wastes and would encourage the use of alternate or new technologies which use renewable sources of energy.
 
 #### (e) Permanent exemption for emergency purposes
 
@@ -74,7 +74,7 @@ After consideration of a petition (and comments thereon) for an exemption from o
 
 &emsp;(C) such powerplant is and shall continue to be operated solely as an intermediate load powerplant;
 
-&emsp;(D) the net fuel heat input rate for such powerplant will be maintained at or less than 9,500 Btu's per kilowatt hour throughout the remaining useful life of the powerplant; and
+&emsp;(D) the net fuel heat input rate for such powerplant will be maintained at or less than9,500 Btu's per kilowatt hour throughout the remaining useful life of the powerplant; and
 
 &emsp;(E) the powerplant has the capability to use synthetic fuels derived from coal or other alternate fuel.
 

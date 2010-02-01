@@ -138,7 +138,7 @@ Except as otherwise provided in subsection (a) of this section, the members of t
 
 (2) Existing cost accounting standards referred to in paragraph (1) shall be subject to the provisions of this chapter in the same manner as if promulgated by the Board under this chapter.
 
-(3) The Administrator, under the authority set forth in section 405 of this title, shall ensure that no regulation or proposed regulation of an executive agency is inconsistent with a cost accounting standard promulgated or amendedunder this section by rescinding or denying the promulgation of any such inconsistent regulation or proposed regulation and taking such other action authorized under section 405 of this title as may be appropriate.
+(3) The Administrator, under the authority set forth in section 405 of this title, shall ensure that no regulation or proposed regulation of an executive agency is inconsistent with a cost accounting standard promulgated or amended under this section by rescinding or denying the promulgation of any such inconsistent regulation or proposed regulation and taking such other action authorized under section 405 of this title as may be appropriate.
 
 (4) Costs which are the subject of cost accounting standards promulgated under this section shall not be subject to regulations that are established by another executive agency that differ from such standards with respect to the measurement, assignment, and allocation of such costs.
 
@@ -246,7 +246,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

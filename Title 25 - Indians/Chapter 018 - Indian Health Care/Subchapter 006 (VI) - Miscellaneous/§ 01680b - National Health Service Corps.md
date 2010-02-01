@@ -2,7 +2,7 @@
 
 The Secretary of Health and Human Services shall not—
 
-&emsp;(1) remove a member of the National Health Service Corps from a health facility operated by the Indian Health Service or by a tribe or tribal organization under contract with the Indian Health Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], or
+&emsp;(1) remove a member of the National Health Service Corps from a health facility operatedby the Indian Health Service or by a tribe or tribal organization under contract with the Indian Health Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], or
 
 &emsp;(2) withdraw funding used to support such member,
 

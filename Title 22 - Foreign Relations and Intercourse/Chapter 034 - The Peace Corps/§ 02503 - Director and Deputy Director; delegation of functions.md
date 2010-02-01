@@ -50,5 +50,5 @@ Functions of President under subsecs. (c)(1), (4), (d) delegated to Director of 
 
 #### Continuing Functions of Director of Peace Corps From December 14, 1981
 
-Section 601(d)(2) of Pub. L. 97–113 provided: “The Director of the Peace Corps shall continue to exercise allthe functions under the Peace Corps Act \[this chapter\] or any other law or authority which the Director was performing on December 14, 1981.”
+Section 601(d)(2) of Pub. L. 97–113 provided: “The Director of the Peace Corps shall continue to exercise all the functions under the Peace Corps Act \[this chapter\] or any other law or authority which the Director was performing on December 14, 1981.”
 

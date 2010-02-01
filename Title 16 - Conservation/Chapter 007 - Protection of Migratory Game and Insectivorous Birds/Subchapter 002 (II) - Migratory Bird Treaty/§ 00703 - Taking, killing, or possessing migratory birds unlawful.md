@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Unless and except as permitted by regulations made as hereinafter provided in this subchapter, it shall be unlawful at any time, by any means or in any manner, to pursue, hunt, take, capture, kill, attempt to take, capture, or kill, possess, offer for sale, sell, offer to barter, barter, offer to purchase, purchase, deliver for shipment, ship, export, import, cause to be shipped, exported, or imported, deliver for transportation, transport or cause to be transported, carry or cause to be carried, or receive for shipment, transportation, carriage, or export, any migratory bird, any part, nest, or eggs of any such bird, or any product, whether or not manufactured, which consists, or is composed in whole or part, of any such bird or any part, nest, or egg thereof, included in the terms of the conventions between the United States and Great Britain for the protection of migratory birds concluded August 16, 1916 (39 Stat. 1702), the United States and the United Mexican States for the protection of migratory birds and game mammals concluded February 7, 1936, the United States and the Government of Japan for the protection of migratory birds and birds in danger of extinction, and their environment concluded March 4, 1972 <sup>1</sup> and the convention between the United States and the Union of Soviet Socialist Republics for the conservation of migratory birds and their environments concluded November 19, 1976.
+Unless and except as permitted by regulations made as hereinafter provided in this subchapter, it shall be unlawful at any time, by any means or in any manner, to pursue, hunt, take, capture, kill, attempt to take, capture, or kill, possess, offer for sale, sell, offer to barter, barter, offer to purchase, purchase, deliver for shipment, ship, export, import, cause to be shipped, exported, or imported, deliver for transportation, transport or cause to be transported, carry or cause to be carried, or receive for shipment, transportation, carriage, or export, any migratory bird, any part, nest, or eggs of any such bird, or any product, whether or not manufactured, which consists, or is composed in whole or part, of any such bird or any part, nest, or egg thereof, included in the terms of the conventions between the United States and GreatBritain for the protection of migratory birds concluded August 16, 1916 (39 Stat. 1702), the United States and the United Mexican States for the protection of migratory birds and game mammals concluded February 7, 1936, the United States and the Government of Japan for the protection of migratory birds and birds in danger of extinction, and their environment concluded March 4, 1972 and the convention between the United States and the Union of Soviet Socialist Republics for the conservation of migratory birds and their environments concluded November 19, 1976.
 
 #### (b) Limitation on application to introduced species
 
@@ -84,7 +84,7 @@ Identification of Measures to Minimize Impact of Activities.—During the period
 
 “(c)
 
-Period of Application for Interim Authority.—The period described in this subsection is the period beginning on the date of the enactment of this Act \[Dec. 2, 2002\] and ending on the date on which the Secretary of the Interior publishes in the Federal Register a notice that—
+Period of Application for Interim Authority.—The period described in this subsection is the period beginning on the date of the enactment of this Act\[Dec. 2, 2002\] and ending on the date on which the Secretary of the Interior publishes in the Federal Register a notice that—
 
 &emsp;“(1) regulations authorizing the incidental taking of migratory birds by members of the Armed Forces have been prescribed in accordance with the requirements of subsection (d);
 
@@ -251,6 +251,4 @@ Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
 &emsp;“(3)
 
 Service.—The term ‘Service’ means the United States Fish and Wildlife Service.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

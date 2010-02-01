@@ -1,6 +1,6 @@
 ### §883a. Surveys and other activities
 
-To provide charts and related information for the safe navigation of marine and air commerce, and to provide basic data for engineering and scientific purposes and for other commercial and industrial needs, the Secretary of Commerce, is authorized to conduct the following activities:
+To provide charts and related information for the safe navigation of marine and air commerce, and to provide basic data for engineering and scientific purposes and for other commercial andindustrial needs, the Secretary of Commerce, is authorized to conduct the following activities:
 
 (1) Hydrographic and topographic surveys;
 

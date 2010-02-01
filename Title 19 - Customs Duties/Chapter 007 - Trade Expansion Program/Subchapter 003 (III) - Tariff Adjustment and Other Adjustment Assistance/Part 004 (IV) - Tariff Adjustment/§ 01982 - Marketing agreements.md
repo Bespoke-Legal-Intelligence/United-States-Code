@@ -12,7 +12,7 @@ In order to carry out an agreement concluded under subsection (a) of this sectio
 
 #### References in Text
 
-Section 1901 of this title, referred to in subsec. (a), was repealed by Pub. L. 93–618, title VI, §602(d), (e), Jan. 3, 1975, 88 Stat. 2072. See section 2251 et seq. of this title.
+Section 1901 of this title, referred to in subsec. (a), was repealed by Pub. L. 93–618, title VI, §602(d), (e), Jan.3, 1975, 88 Stat. 2072. See section 2251 et seq. of this title.
 
 #### Amendments
 

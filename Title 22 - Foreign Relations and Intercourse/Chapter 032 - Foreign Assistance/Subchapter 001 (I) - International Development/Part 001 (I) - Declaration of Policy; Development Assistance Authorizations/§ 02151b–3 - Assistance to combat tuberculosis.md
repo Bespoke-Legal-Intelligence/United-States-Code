@@ -34,7 +34,7 @@ In carrying out this section, the President shall coordinate with the World Heal
 
 In furnishing assistance under subsection (c), the President shall give priority to—
 
-&emsp;(1) direct services described in the Stop TB Strategy, including expansion and enhancement of Directly Observed Treatment Short-course (DOTS) coverage, rapid testing, treatment for individuals infected with both tuberculosis and HIV, and treatment for individuals with multi-drug resistant tuberculosis (MDR–TB), strengthening of health systems, use of the International Standards for Tuberculosis Care by all providers, empowering individuals with tuberculosis, and enabling and promoting research to develop new diagnostics, drugs, and vaccines, and program-based operational research relating to tuberculosis; and
+&emsp;(1) direct services described in the Stop TB Strategy, including expansion and enhancement of Directly Observed Treatment Short-course (DOTS) coverage, rapid testing, treatment for individuals infected with both tuberculosis and HIV, and treatment for individuals with multi-drug resistant tuberculosis (MDR–TB), strengthening of health systems, use of the International Standards for Tuberculosis Care by all providers, empowering individuals with tuberculosis, and enabling andpromoting research to develop new diagnostics, drugs, and vaccines, and program-based operational research relating to tuberculosis; and
 
 &emsp;(2) funding for the Global Tuberculosis Drug Facility, the Stop Tuberculosis Partnership, and the Global Alliance for TB Drug Development.
 
@@ -102,7 +102,7 @@ In this section:
 
 #### (5) Stop TB Strategy
 
-&emsp;The term “Stop TB Strategy” means the 6-point strategy to reduce tuberculosis developed by the World Health Organization, whichis described in the Global Plan to Stop TB 2006–2015: Actions for Life, a comprehensive plan developed by the Stop TB Partnership that sets out the actions necessary to achieve the millennium development goal of cutting tuberculosis deaths and disease burden in half by 2015.
+&emsp;The term “Stop TB Strategy” means the 6-point strategy to reduce tuberculosis developed by the World Health Organization, which is described in the Global Plan to Stop TB 2006–2015: Actions for Life, a comprehensive plan developed by the Stop TB Partnership that sets out the actions necessary to achieve the millennium development goal of cutting tuberculosis deaths and disease burden in half by 2015.
 
 #### (6) Stop Tuberculosis Partnership
 

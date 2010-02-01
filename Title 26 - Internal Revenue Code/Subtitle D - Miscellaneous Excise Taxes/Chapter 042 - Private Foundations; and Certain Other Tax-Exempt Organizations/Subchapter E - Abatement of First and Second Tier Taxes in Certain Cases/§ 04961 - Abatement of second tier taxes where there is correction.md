@@ -24,7 +24,7 @@ If the determination by a court that the taxpayer is liable for a second tier ta
 
 #### (4) Jeopardy collection
 
-&emsp;If the Secretary makes a finding that the collection of the second tier tax is in jeopardy, nothing in this subsection shall prevent the immediate collection of such tax.
+&emsp;If the Secretary makes a finding that the collection of the second tier tax is in jeopardy,nothing in this subsection shall prevent the immediate collection of such tax.
 
 (Added Pub. L. 96–596, §2(c)(1), Dec. 24, 1980, 94 Stat. 3472; amended Pub. L. 99–514, title XVIII, §1899A(50), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 

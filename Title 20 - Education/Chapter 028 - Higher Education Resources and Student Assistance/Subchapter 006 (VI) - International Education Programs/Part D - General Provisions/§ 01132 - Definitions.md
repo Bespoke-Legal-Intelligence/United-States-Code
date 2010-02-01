@@ -28,7 +28,7 @@ As used in this subchapter—
 
 All references to individuals or organizations, unless the context otherwise requires, mean individuals who are citizens or permanent residents of the United States or organizations which are organized or incorporated in the United States.
 
-(Pub. L. 89–329, title VI, §631, as added Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 736; amended Pub. L. 105–244, title I, §102(b)(8), title VI, §604(a), Oct. 7, 1998, 112 Stat. 1622, 1786; Pub. L. 110–315, title VI, §621, Aug. 14, 2008, 122 Stat. 3342.)
+(Pub. L. 89–329, title VI, §631, as added Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 736; amended Pub. L. 105–244, title I, §102(b)(8), title VI, §604(a), Oct. 7, 1998, 112 Stat. 1622, 1786; Pub. L. 110–315, title VI, §621, Aug. 14, 2008, 122 Stat. 3342; Pub. L. 111–39, title VI, §601(b), July 1, 2009, 123 Stat. 1954.)
 
 #### Prior Provisions
 
@@ -38,31 +38,37 @@ Another prior section 1132, Pub. L. 89–329, title VI, §622, Nov. 8, 1965, 79 
 
 #### Amendments
 
-2008—Subsec. (a)(2). Pub. L. 110–315, §621(2), (3), redesignated par. (5) as (2) and substituted “comprehensive foreign language and area or international studies center” for “comprehensive language and area center”. Former par. (2) redesignated (7).
+2009—Subsec. (a). Pub. L. 111–39 made technical correction to directory language of Pub. L. 110–315, §621. See 2008 Amendment notes below.
 
-Subsec. (a)(3). Pub. L. 110–315, §621(2), (4), redesignated par. (9) as (3) and substituted semicolon for period at end. Former par. (3) redesignated (4).
+2008—Subsec. (a)(2). Pub. L. 110–315, §621(2), (3), as amended by Pub. L. 111–39, redesignated par. (5) as (2) and substituted “comprehensive foreign language and area or international studies center” for “comprehensive language and area center”. Former par. (2) redesignated (7).
 
-Subsec. (a)(4). Pub. L. 110–315, §621(2), redesignated par. (3) as (4). Former par. (4) redesignated (8).
+Subsec. (a)(3). Pub. L. 110–315, §621(2), (4), as amended by Pub. L. 111–39, redesignated par. (9) as (3) and substituted semicolon for period at end. Former par. (3) redesignated (4).
 
-Subsec. (a)(5). Pub. L. 110–315, §621(5), added par. (5).
+Subsec. (a)(4). Pub. L. 110–315, §621(2), as amended by Pub. L. 111–39, redesignated par. (3) as (4). Former par. (4) redesignated (8).
 
-Pub. L. 110–315, §621(2), redesignated par. (5) as (2).
+Subsec. (a)(5). Pub. L. 110–315, §621(5), as amended by Pub. L. 111–39, added par. (5).
 
-Subsec. (a)(6). Pub. L. 110–315, §621(2), (6), redesignated par. (8) as (6) and struck out “and” after semicolon. Former par. (6) redesignated (10).
+Pub. L. 110–315, §621(2), as amended by Pub. L. 111–39, redesignated par. (5) as (2).
 
-Subsec. (a)(7). Pub. L. 110–315, §621(1), (2), redesignated par. (2) as (7) and struck out former par. (7) which read as follows: “the term ‘critical languages’ means each of the languages contained in the list of critical languages designated by the Secretary pursuant to section 212(d) of the Education for Economic Security Act (50 Fed. Reg. 149, 31413), except that, in the implementation of this definition, the Secretary may set priorities according to the purposes of this subchapter;”.
+Subsec. (a)(6). Pub. L. 110–315, §621(2), (6), as amended by Pub. L. 111–39, redesignated par. (8) as (6) and struck out “and” after semicolon. Former par. (6) redesignated (10).
 
-Subsec. (a)(8). Pub. L. 110–315, §621(2), redesignated par. (4) as (8). Former par. (8) redesignated (6).
+Subsec. (a)(7). Pub. L. 110–315, §621(1), (2), as amended by Pub. L. 111–39, redesignated par. (2) as (7) and struck out former par. (7) which read as follows: “the term ‘critical languages’ means each of the languages contained in the list of critical languages designated by the Secretary pursuant to section 212(d) of the Education for Economic Security Act (50 Fed. Reg. 149, 31413), except that, in the implementation of this definition, the Secretary may set priorities according to the purposes of this subchapter;”.
 
-Subsec. (a)(9). Pub. L. 110–315, §621(7), added par. (9).
+Subsec. (a)(8). Pub. L. 110–315, §621(2), as amended by Pub. L. 111–39, redesignated par. (4) as (8). Former par. (8) redesignated (6).
 
-Pub. L. 110–315, §621(2), redesignated par. (9) as (3).
+Subsec. (a)(9). Pub. L. 110–315, §621(7), as amended by Pub. L. 111–39, added par. (9).
 
-Subsec. (a)(10). Pub. L. 110–315, §621(2), (8), redesignated par. (6) as (10) and substituted “undergraduate foreign language and area or international studies center” for “undergraduate language and area center” and a period for the semicolon at end.
+Pub. L. 110–315, §621(2), as amended by Pub. L. 111–39, redesignated par. (9) as (3).
+
+Subsec. (a)(10). Pub. L. 110–315, §621(2), (8), as amended by Pub. L. 111–39, redesignated par. (6) as (10) and substituted “undergraduate foreign language and area or international studies center” for “undergraduate language and area center” and a period for the semicolon at end.
 
 1998—Subsec. (a)(8). Pub. L. 105–244, §102(b)(8), substituted “section 1001” for “section 1141(a)” in two places and “of section 1001” for “of 1141(a)”.
 
 Subsec. (a)(9). Pub. L. 105–244, §604(a), added par. (9).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1998 Amendment
 

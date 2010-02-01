@@ -18,7 +18,7 @@ Congress finds that:
 
 &emsp;(8) There are not enough Federal housing rent vouchers available to accommodate the number of people in need of long-term housing. Some people remain on the waiting list for Federal housing rent vouchers for years, while some lists are closed.
 
-&emsp;(9) Transitional housing resources and services provide an essential continuum between emergency shelter provision and independent living. A majority of women in transitional housing programs stated that had these programs not existed, they would have likely gone back to abusive partners.
+&emsp;(9) Transitional housing resources and services provide an essential continuum between emergency shelter provision and independentliving. A majority of women in transitional housing programs stated that had these programs not existed, they would have likely gone back to abusive partners.
 
 &emsp;(10) Because abusers frequently manipulate finances in an effort to control their partners, victims often lack steady income, credit history, landlord references, and a current address, all of which are necessary to obtain long-term permanent housing.
 

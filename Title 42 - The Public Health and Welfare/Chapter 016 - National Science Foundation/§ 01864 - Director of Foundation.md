@@ -2,7 +2,7 @@
 
 #### (a) Appointment; compensation; term of office
 
-The Director of the Foundation (referred to in this chapter as the “Director”) shall be appointed by the President, by and with the adviceand consent of the Senate. Before any person is appointed as Director, the President shall afford the Board an opportunity to make recommendations to him with respect to such appointment. The Director shall receive basic pay at the rate provided for level II of the Executive Schedule under section 5313 of title 5, and shall serve for a term of six years unless sooner removed by the President.
+The Director of the Foundation (referred to in this chapter as the “Director”) shall be appointed by the President, by and with the advice and consent of the Senate. Before any person is appointed as Director, the President shall afford the Board an opportunity to make recommendations to him with respect to such appointment. The Director shall receive basic pay at the rate provided for level II of the Executive Schedule under section 5313 of title 5, and shall serve for a term of six years unless sooner removed by the President.
 
 #### (b) Exercise of authority of Foundation; actions as final and binding upon the Foundation
 
@@ -52,7 +52,7 @@ Committee on Science of House of Representatives changed to Committee on Science
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–407, insofar as related to rates of basic pay, effective on first day of first calendar month which begins on or after July 18, 1968, seesection 15(a)(4), set out as a note under section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 90–407, insofar as related to rates of basic pay, effective on first day of first calendar month which begins on or after July 18, 1968, see section 15(a)(4), set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Transfer of Functions
 

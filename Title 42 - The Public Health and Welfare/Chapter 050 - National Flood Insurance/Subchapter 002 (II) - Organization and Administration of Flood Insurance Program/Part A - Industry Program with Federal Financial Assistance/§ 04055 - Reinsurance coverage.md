@@ -2,7 +2,7 @@
 
 #### (a) Availability for excess losses
 
-The Director is authorized to take such action as may be necessary in order to make available,to the pool formed or otherwise created under section 4051 of this title, reinsurance for losses (due to claims for proved and approved losses covered by flood insurance) which are in excess of losses assumed by such pool in accordance with the excess loss agreement entered into under subsection (c) of this section.
+The Director is authorized to take such action as may be necessary in order to make available, to the pool formed or otherwise created under section 4051 of this title, reinsurance for losses (due to claims for proved and approved losses covered by flood insurance) which are in excess of losses assumed by such pool in accordance with the excess loss agreement entered into under subsection (c) of this section.
 
 #### (b) Availability pursuant to contract, agreement, or other arrangement; payment of premium, fee, or other charge
 
@@ -10,7 +10,7 @@ Such reinsurance shall be made available pursuant to contract, agreement, or any
 
 #### (c) Excess loss agreement; negotiation
 
-The Director is authorized to negotiate an excess loss agreement, from time to time, under which the amount of flood insurance retained by the pool, after ceding reinsurance, shall be adequate to further the purposes of this chapter, consistent with the objective of maintaining appropriate financial participation and risk sharing to the maximum extent practicable on the part of participating insurance companies and other insurers.
+The Director is authorized to negotiate an excess loss agreement, from time to time, under which the amount of flood insurance retained bythe pool, after ceding reinsurance, shall be adequate to further the purposes of this chapter, consistent with the objective of maintaining appropriate financial participation and risk sharing to the maximum extent practicable on the part of participating insurance companies and other insurers.
 
 #### (d) Submission of excess losses on portfolio basis
 

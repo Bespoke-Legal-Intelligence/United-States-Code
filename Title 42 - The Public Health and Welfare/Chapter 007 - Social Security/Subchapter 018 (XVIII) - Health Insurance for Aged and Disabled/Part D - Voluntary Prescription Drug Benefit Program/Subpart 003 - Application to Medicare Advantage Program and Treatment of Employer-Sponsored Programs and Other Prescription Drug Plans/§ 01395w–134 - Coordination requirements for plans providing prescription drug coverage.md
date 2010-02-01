@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may impose user fees for the transmittal of information necessary forbenefit coordination under section 1395w–102(b)(4)(D) of this title in a manner similar to the manner in which user fees are imposed under section 1395u(h)(3)(B) of this title, except that the Secretary may retain a portion of such fees to defray the Secretary's costs in carrying out procedures under section 1395w–102(b)(4)(D) of this title.
+&emsp;&emsp;The Secretary may impose user fees for the transmittal of information necessary for benefit coordination under section 1395w–102(b)(4)(D) of this title in a manner similar to the manner in which user fees are imposed under section 1395u(h)(3)(B) of this title, except that the Secretary may retain a portion of such fees to defray the Secretary's costs in carrying out procedures under section 1395w–102(b)(4)(D) of this title.
 
 #### (B) Application
 

@@ -4,6 +4,10 @@ The Secretary of the Interior shall develop, reconstruct, equip, operate, and ma
 
 (Aug. 1, 1956, ch. 845, §1, 70 Stat. 897.)
 
+#### Change of Name
+
+Pub. L. 111–8, div. E, title I, §116, Mar. 11, 2009, 123 Stat. 724, provided that: “The Pittsford National Fish Hatchery in Chittenden, Vermont is hereby renamed the Dwight D. Eisenhower National Fish Hatchery.”
+
 #### Appropriations
 
 Section 2 of act Aug. 1, 1956, authorized the appropriation of $220,000 to carry out the provisions of this section.

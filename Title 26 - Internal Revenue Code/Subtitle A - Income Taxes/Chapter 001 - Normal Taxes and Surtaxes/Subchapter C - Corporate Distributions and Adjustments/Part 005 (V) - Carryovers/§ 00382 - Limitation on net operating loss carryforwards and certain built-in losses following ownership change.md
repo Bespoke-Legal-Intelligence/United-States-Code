@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The long-term tax-exempt rate shall be the highest of the adjusted Federal long-term rates in effect for any month in the 3-calendar-month period ending with the calendar month in which the change date occurs.
+&emsp;The long-term tax-exempt rate shall be the highest of the adjusted Federal long-termrates in effect for any month in the 3-calendar-month period ending with the calendar month in which the change date occurs.
 
 #### (2) Adjusted Federal long-term rate
 
@@ -518,7 +518,7 @@ For purposes of this section—
 
 #### (E) Treatment of subsidiaries
 
-&emsp;&emsp;For purposes of this paragraph, stock and securities in any subsidiary corporation shall be disregarded and the parent corporation shall be deemed to own its ratable share of the subsidiary's assets. For purposes of the preceding sentence, a corporation shallbe treated as a subsidiary if the parent owns 50 percent or more of the combined voting power of all classes of stock entitled to vote, and 50 percent or more of the total value of shares of all classes of stock.
+&emsp;&emsp;For purposes of this paragraph, stock and securities in any subsidiary corporation shall be disregarded and the parent corporation shall be deemed to own its ratable share of the subsidiary's assets. For purposes of the preceding sentence, a corporation shall be treated as a subsidiary if the parent owns 50 percent or more of the combined voting power of all classes of stock entitled to vote, and 50 percent or more of the total value of shares of all classes of stock.
 
 #### (5) Title 11 or similar case
 
@@ -594,7 +594,7 @@ For purposes of this section—
 
 #### (6) Special rule for insolvency transactions
 
-&emsp;If paragraph (5) does not apply to any reorganization described in subparagraph (G) of section 368(a)(1) or any exchange of debt for stock in a title 11 or similar case (as defined in section 368(a)(3)(A)), the value under subsection (e) shall reflect the increase (if any) invalue of the old loss corporation resulting from any surrender or cancellation of creditors’ claims in the transaction.
+&emsp;If paragraph (5) does not apply to any reorganization described in subparagraph (G) of section 368(a)(1) or any exchange of debt for stock in a title 11 or similar case (as defined in section 368(a)(3)(A)), the value under subsection (e) shall reflect the increase (if any) in value of the old loss corporation resulting from any surrender or cancellation of creditors’ claims in the transaction.
 
 #### (7) Coordination with alternative minimum tax
 
@@ -618,13 +618,51 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(5) providing, in the case of any group of corporations described in section 1563(a) (determined by substituting “50 percent” for “80 percent” each place it appears and determined without regard to paragraph (4) thereof), appropriate adjustments to value, built-in gain or loss, and other items so that items are not omitted or taken into account more than once.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 129; Pub. L. 88–554, §4(b)(3), Aug. 31, 1964, 78 Stat. 763; Pub. L. 94–455, title VIII, §806(e), Oct. 4, 1976, 90 Stat. 1599; Pub. L. 96–589, §2(d), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 97–34, title II, §242, Aug. 13, 1981, 95 Stat. 255; Pub. L. 98–369, div. A, title I, §62(b)(1), July 18, 1984, 98 Stat. 583; Pub. L. 99–514, title VI, §621(a), (e)(1), Oct. 22, 1986, 100 Stat. 2254, 2266; Pub. L. 100–203, title X, §10225(a), (b), Dec. 22, 1987, 101 Stat. 1330–413; Pub. L. 100–647, title I, §1006(d)(1)(A)–(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, §4012(a)(3), (b)(1)(B), title V, §5077(a), Nov. 10, 1988, 102 Stat. 3395–3400, 3426, 3656, 3657, 3683; Pub. L. 101–73, title XIV, §1401(a)(2), Aug. 9, 1989, 103 Stat. 548; Pub. L. 101–239, title VII, §§7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), Dec. 19, 1989, 103 Stat. 2335, 2354, 2407, 2420, 2428; Pub. L. 103–66, title XIII, §13226(a)(2)(A), Aug. 10, 1993, 107 Stat. 487; Pub. L. 104–188, title I, §1621(b)(3), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(2), Oct. 22, 2004, 118 Stat. 1593.)
+#### (n) Special rule for certain ownership changes
+
+#### (1) In general
+
+&emsp;The limitation contained in subsection (a) shall not apply in the case of an ownership change which is pursuant to a restructuring plan of a taxpayer which—
+
+&emsp;&emsp;(A) is required under a loan agreement or a commitment for a line of credit entered into with the Department of the Treasury under the Emergency Economic Stabilization Act of 2008, and
+
+&emsp;&emsp;(B) is intended to result in a rationalization of the costs, capitalization, and capacity with respect to the manufacturing workforce of, and suppliers to, the taxpayer and its subsidiaries.
+
+#### (2) Subsequent acquisitions
+
+&emsp;Paragraph (1) shall not apply in the case of any subsequent ownership change unless such ownership change is described in such paragraph.
+
+#### (3) Limitation based on control in corporation
+
+#### (A) In general
+
+&emsp;&emsp;Paragraph (1) shall not apply in the case of any ownership change if, immediately aftersuch ownership change, any person (other than a voluntary employees’ beneficiary association under section 501(c)(9)) owns stock of the new loss corporation possessing 50 percent or more of the total combined voting power of all classes of stock entitled to vote, or of the total value of the stock of such corporation.
+
+#### (B) Treatment of related persons
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Related persons shall be treated as a single person for purposes of this paragraph.
+
+#### (ii) Related persons
+
+&emsp;&emsp;&emsp;For purposes of clause (i), a person shall be treated as related to another person if—
+
+&emsp;&emsp;&emsp;&emsp;(I) such person bears a relationship to such other person described in section 267(b) or 707(b), or
+
+&emsp;&emsp;&emsp;&emsp;(II) such persons are members of a group of persons acting in concert.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 129; Pub. L. 88–554, §4(b)(3), Aug. 31, 1964, 78 Stat. 763; Pub. L. 94–455, title VIII, §806(e), Oct. 4, 1976, 90 Stat. 1599; Pub. L. 96–589, §2(d), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 97–34, title II, §242, Aug. 13, 1981, 95 Stat. 255; Pub. L. 98–369, div. A, title I, §62(b)(1), July 18, 1984, 98 Stat. 583; Pub. L. 99–514, title VI, §621(a), (e)(1), Oct. 22, 1986, 100 Stat. 2254, 2266; Pub. L. 100–203, title X, §10225(a), (b), Dec. 22, 1987, 101 Stat. 1330–413; Pub. L. 100–647, title I, §1006(d)(1)(A)–(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, §4012(a)(3), (b)(1)(B), title V, §5077(a), Nov. 10, 1988, 102 Stat. 3395–3400, 3426, 3656, 3657, 3683; Pub. L. 101–73, title XIV, §1401(a)(2), Aug. 9, 1989, 103 Stat. 548; Pub. L. 101–239, title VII, §§7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), Dec. 19, 1989, 103 Stat. 2335, 2354, 2407, 2420, 2428; Pub. L. 103–66, title XIII, §13226(a)(2)(A), Aug. 10, 1993, 107 Stat. 487; Pub. L. 104–188, title I, §1621(b)(3), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(2), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 111–5, div. B, title I, §1262(a), Feb. 17, 2009, 123 Stat. 343.)
 
 #### References in Text
 
 Section 368(a)(3)(D), referred to in subsec. (<i>l</i>)(5)(F)(iii)(I), was amended generally by Pub. L. 99–514, title IX, §904(a), Oct. 22, 1986, 100 Stat. 2385, and, as so amended, does not contain a cl. (ii) or (iv).
 
+The Emergency Economic Stabilization Act of 2008, referred to in subsec. (n)(1)(A), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
+
 #### Amendments
+
+2009—Subsec. (n). Pub. L. 111–5 added subsec. (n).
 
 2004—Subsec. (<i>l</i>)(4)(B)(ii). Pub. L. 108–357 substituted “or a REMIC to which part IV of subchapter M applies,” for “a REMIC to which part IV of subchapter M applies, or a FASIT to which part V of subchapter M applies,”.
 
@@ -678,7 +716,7 @@ Pub. L. 100–647, §1006(d)(1)(B), inserted “or other corporate contractions�
 
 Subsec. (h)(3)(B)(ii). Pub. L. 100–647, §1006(d)(26), inserted “except as provided in regulations,” after “under clause (i),”.
 
-Subsec. (h)(4). Pub. L. 100–647, §1006(d)(20), substituted “allowed as a carryforward” for “treated as a net operating loss” in heading and inserted “(or to the extent the amount so disallowed is attributable to capital losses, under rules similar to the rules for the carrying forward of net capital losses)” after “net operating losses” in subpar. (A).
+Subsec. (h)(4). Pub. L. 100–647, §1006(d)(20), substituted “allowed as a carryforward” for “treated as a net operating loss” in heading and inserted “(or to the extent the amount so disallowed is attributable to capital losses, under rules similar to the rules for the carryingforward of net capital losses)” after “net operating losses” in subpar. (A).
 
 Subsec. (h)(5)(A). Pub. L. 100–647, §1006(d)(3)(B), substituted “recognized built-in gains to the extent such gains increased the section 382 limitation for the year (or recognized built-in losses to the extent such losses are treated as pre-change losses)” for “recognized built-in gains and losses”.
 
@@ -740,7 +778,7 @@ Subsec. (h)(2)(B). Pub. L. 100–203, §10225(b), inserted at end “Such term i
 
 Pub. L. 99–514, §621(e)(1), repealed amendment by Pub. L. 94–455, §806(e). See 1976 Amendment note below.
 
-1984—Subsec. (b)(1). Pub. L. 98–369, in section as amended by Pub. L. 94–455, substituted “subparagraph (A), (B), (C), or (F) of section 368(a)(1) or subparagraph (D) or (G) of section 368(a)(1) (but only if the requirements of section 354(b)(1) are met)” for “section368(a)(1)(A), (B), (C), (D) (but only if the requirements of section 354(b)(1) are met, or (F)”.
+1984—Subsec. (b)(1). Pub. L. 98–369, in section as amended by Pub. L. 94–455, substituted “subparagraph (A), (B), (C), or (F) of section 368(a)(1) or subparagraph (D) or (G) of section 368(a)(1) (but only if the requirements of section 354(b)(1) are met)” for “section 368(a)(1)(A), (B), (C), (D) (but only if the requirements of section 354(b)(1) are met, or (F)”.
 
 1981—Subsec. (b)(7). Pub. L. 97–34 designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -749,6 +787,10 @@ Pub. L. 99–514, §621(e)(1), repealed amendment by Pub. L. 94–455, §806(e).
 1976—Pub. L. 94–455, §806(e), which amended section generally, substituting provisions relating to special limitations on net operating loss carryovers based on continuity of trade or business conducted, for provisions relating to special limitations on net operating loss carryovers based on continuity of ownership, was repealed by Pub. L. 99–514, §621(e)(1). See Effective Date of 1986 and 1976 Amendment notes below.
 
 1964—Subsec. (a)(3). Pub. L. 88–554 inserted reference to section 318(a)(3)(C) of this title.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–5, div. B, title I, §1262(b), Feb. 17, 2009, 123 Stat. 344, provided that: “The amendment made by this section \[amending this section\] shall apply to ownership changes after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
 #### Effective Date of 2004 Amendment
 
@@ -914,7 +956,7 @@ Ownership change of regulated air carrier.—The amendments made by subsections 
 
 > but only if the ownership change occurs on or before the later of March 31, 1987, or such 90th day. The aggregate reduction in tax for any taxable year by reason of this paragraph shall not exceed $10,000,000. The testing period for determining whether a subsequent ownership change has occurred shall not begin before the 1st day following an ownership change to which this paragraph applies.
 
-“(8) The amendments made by subsections (a), (b), and (c) shall not apply to any ownership change resulting from the conversion of a Minnesota mutual savings bank holding a Federal charter dated December 31, 1985,to a stock savings bank pursuant to the rules and regulations of the Federal Home Loan Bank Board, and from the issuance of stock pursuant to that conversion to a holding company incorporated in Delaware on February 21, 1984. For purposes of determining whether any ownership change occurs with respect to the holding company or any subsidiary thereof (whether resulting from the transaction described in the preceding sentence or otherwise), any issuance of stock made by such holding company in connection with the transaction described in the preceding sentence shall not be taken into account.
+“(8) The amendments made by subsections (a), (b), and (c) shall not apply to any ownership change resulting from the conversion of a Minnesota mutual savings bank holding a Federal charter dated December 31, 1985, to a stock savings bank pursuant to the rules and regulations of the Federal Home Loan Bank Board, and from the issuance of stock pursuant to that conversion to a holding company incorporated in Delaware on February 21, 1984. For purposes of determining whether any ownership change occurs with respect to the holding company or any subsidiary thereof (whether resulting from the transaction described in the preceding sentence or otherwise), any issuance of stock made by such holding company in connection with the transaction described in the preceding sentence shall not be taken into account.
 
 “(9)
 
@@ -947,6 +989,44 @@ Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes 
 #### Delay in Effective Date of 1976 Amendment
 
 Pub. L. 95–600, title III, §368, Nov. 6, 1978, 92 Stat. 2857, provided for delaying the effective date established by section 806(g)(2), (3) of Pub. L. 94–455, formerly set out above, by substituting “1980” for “1978”, with certain elections.
+
+#### Clarification of Regulations Related to Limitations on Certain Built-In Losses Following an Ownership Change
+
+Pub. L. 111–5, div. B, title I, §1261, Feb. 17, 2009, 123 Stat. 342, provided that:
+
+“(a)
+
+Findings.—Congress finds as follows:
+
+&emsp;“(1) The delegation of authority to the Secretary of the Treasury under section 382(m) of the Internal Revenue Code of 1986 does not authorize the Secretary to provide exemptions or special rules that are restricted to particular industries or classes of taxpayers.
+
+&emsp;“(2) Internal Revenue Service Notice 2008–83 is inconsistent with the congressional intent in enacting such section 382(m).
+
+&emsp;“(3) The legal authority to prescribe Internal Revenue Service Notice 2008–83 is doubtful.
+
+&emsp;“(4) However, as taxpayers should generally be able to rely on guidance issued by the Secretary of the Treasury legislation is necessary to clarify the force and effect of Internal Revenue Service Notice 2008–83 and restore the proper application under the Internal Revenue Code of 1986 of the limitation on built-in losses following an ownership change of a bank.
+
+“(b)
+
+Determination of Force and Effect of Internal Revenue Service Notice 2008–83
+
+Exempting Banks From Limitation on Certain Built–in Losses Following Ownership Change.—
+
+&emsp;“(1)
+
+In general.—Internal Revenue Service Notice 2008–83—
+
+&emsp;&emsp;“(A) shall be deemed to have the force and effect of law with respect to any ownership change (as defined in section 382(g) of the Internal Revenue Code of 1986) occurring on or before January 16, 2009, and
+
+&emsp;&emsp;“(B) shall have no force or effect with respect to any ownership change after such date.
+
+&emsp;“(2)
+
+Binding contracts.—Notwithstanding paragraph (1), Internal Revenue Service Notice 2008–83 shall have the force and effect of law with respect to any ownership change (as so defined) which occurs after January 16, 2009, if such change—
+
+&emsp;&emsp;“(A) is pursuant to a written binding contract entered into on or before such date, or
+
+&emsp;&emsp;“(B) is pursuant to a written agreement entered into on or before such date and such agreement was described on or before such date in a public announcement or in a filing with the Securities and Exchange Commission required by reason of such ownership change.”
 
 #### Report on Depreciation and Built-In Deductions; Report on Bankruptcy Workouts
 

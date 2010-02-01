@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Education (hereinafter in this section referred to as the “Secretary”) isauthorized to provide financial assistance in accordance with the provisions of this section to assist in establishing the Wayne Morse Chair of Law and Politics at the University of Oregon, of Eugene, Oregon.
+The Secretary of Education (hereinafter in this section referred to as the “Secretary”) is authorized to provide financial assistance in accordance with the provisions of this section to assist in establishing the Wayne Morse Chair of Law and Politics at the University of Oregon, of Eugene, Oregon.
 
 #### (b) Federal share; application for financial assistance
 

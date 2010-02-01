@@ -10,7 +10,7 @@ Office of Appeals and Redress.—
 
 &emsp;(1)
 
-Establishment.—The Secretary shall establish in the Department an Office of Appealsand Redress to implement, coordinate, and execute the process established by the Secretary pursuant to subsection (a). The Office shall include representatives from the Transportation Security Administration, United States Customs and Border Protection, and such other offices and components of the Department as the Secretary determines appropriate.
+Establishment.—The Secretary shall establish in the Department an Office of Appeals and Redress to implement, coordinate, and execute the process established by the Secretary pursuant to subsection (a). The Office shall include representatives from the Transportation Security Administration, United States Customs and Border Protection, and such other offices and components of the Department as the Secretary determines appropriate.
 
 &emsp;(2)
 

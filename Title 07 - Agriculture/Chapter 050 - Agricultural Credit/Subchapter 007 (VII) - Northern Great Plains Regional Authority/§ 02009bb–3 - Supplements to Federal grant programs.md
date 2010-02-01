@@ -2,7 +2,7 @@
 
 #### (a) Finding
 
-Congress finds that certain States and local communities of the region may be unable to take maximum advantage of Federal grant programs for which the States and communities are eligible because—
+Congress finds that certain States and local communities of the region may be unable totake maximum advantage of Federal grant programs for which the States and communities are eligible because—
 
 &emsp;(1) they lack the economic resources to provide the required matching share; or
 
@@ -38,7 +38,7 @@ Notwithstanding any provision of law limiting the Federal share, the areas eligi
 
 #### (B) Acceptance by Federal cochairperson
 
-&emsp;&emsp;In the case of any project described in paragraph (1), any finding, report, certification, or documentation required to be submitted with respect to the project to thehead of the department, agency, or instrumentality of the Federal Government responsible for the administration of the Federal grant program under which the project is carried out shall be accepted by the Federal cochairperson.
+&emsp;&emsp;In the case of any project described in paragraph (1), any finding, report, certification, or documentation required to be submitted with respect to the project to the head of the department, agency, or instrumentality of the Federal Government responsible for the administration of the Federal grant program under which the project is carried out shall be accepted by the Federal cochairperson.
 
 (Pub. L. 87–128, title III, §383E, formerly §383D, as added Pub. L. 107–171, title VI, §6028, May 13, 2002, 116 Stat. 381; renumbered §383E and amended Pub. L. 110–234, title VI, §6026(c)(1)(A), (2)(C), (e), May 22, 2008, 122 Stat. 1178–1180, and Pub. L. 110–246, §4(a), title VI, §6026(c)(1)(A), (2)(C), (e), June 18, 2008, 122 Stat. 1664, 1940, 1941.)
 

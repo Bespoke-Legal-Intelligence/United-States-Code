@@ -32,7 +32,7 @@ State.—The term “State” has the meaning such term has under section 401.
 
 &emsp;(4)
 
-Capitalization.—The term “capitalization” means the process used for depositingfunds as initial capital into a State infrastructure bank to establish the infrastructure bank.
+Capitalization.—The term “capitalization” means the process used for depositing funds as initial capital into a State infrastructure bank to establish the infrastructure bank.
 
 &emsp;(5)
 
@@ -124,7 +124,7 @@ Forms of Assistance From Infrastructure Banks.—An infrastructure bank establis
 
 (f)
 
-Eligible Projects.—Subject to subsection (e), funds in an infrastructure bank establishedunder this section may be used only to provide assistance for projects eligible for assistance under this title and capital projects defined in section 5302 of title 49, and any other projects relating to surface transportation that the Secretary determines to be appropriate.
+Eligible Projects.—Subject to subsection (e), funds in an infrastructure bank established under this section may be used only to provide assistance for projects eligible for assistance under this title and capital projects defined in section 5302 of title 49, and any other projects relating to surface transportation that the Secretary determines to be appropriate.
 
 (g)
 
@@ -162,7 +162,7 @@ In general.—The requirements of this title and title 49 that would otherwise a
 
 &emsp;&emsp;(B) projects assisted by the bank through the use of the funds,
 
-> &emsp;except to the extent that the Secretary determines that any requirement of such title (other than sections 113 and 114 of this title and section 5333 of title 49) is not consistent with the objectives of this section.
+> &emsp;except to the extent that the Secretary determines that any requirement of such title\(other than sections 113 and 114 of this title and section 5333 of title 49) is not consistent with the objectives of this section.
 
 &emsp;(2)
 

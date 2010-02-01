@@ -92,6 +92,18 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;Any such affiliation period shall run concurrently with any waiting period under the plan.
 
+#### (D) TAA-eligible individuals
+
+&emsp;&emsp;In the case of plan years beginning before January 1, 2011—
+
+#### (i) TAA pre-certification period rule
+
+&emsp;&emsp;&emsp;In the case of a TAA-eligible individual, the period beginning on the date the individual has a TAA-related loss of coverage and ending on the date which is 7 days after the date of the issuance by the Secretary (or by any person or entity designated by the Secretary) of a qualified health insurance costs credit eligibility certificate for such individual for purposes of section 7527 shall not be taken into account in determining the continuous period under subparagraph (A).
+
+#### (ii) Definitions
+
+&emsp;&emsp;&emsp;The terms “TAA-eligible individual” and “TAA-related loss of coverage” have the meanings given such terms in section 4980B(f)(5)(C)(iv).
+
 #### (3) Method of crediting coverage
 
 #### (A) Standard method
@@ -224,15 +236,59 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) in the case of a dependent's adoption or placement for adoption, the date of such adoption or placement for adoption.
 
-(Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2073; amended Pub. L. 105–34, title XV, §1531(b)(1)(A), Aug. 5, 1997, 111 Stat. 1084.)
+#### (3) Special rules relating to Medicaid and CHIP
+
+#### (A) In general
+
+&emsp;&emsp;A group health plan shall permit an employee who is eligible, but not enrolled, forcoverage under the terms of the plan (or a dependent of such an employee if the dependent is eligible, but not enrolled, for coverage under such terms) to enroll for coverage under the terms of the plan if either of the following conditions is met:
+
+#### (i) Termination of Medicaid or CHIP coverage
+
+&emsp;&emsp;&emsp;The employee or dependent is covered under a Medicaid plan under title XIX of the Social Security Act or under a State child health plan under title XXI of such Act and coverage of the employee or dependent under such a plan is terminated as a result of loss of eligibility for such coverage and the employee requests coverage under the group health plan not later than 60 days after the date of termination of such coverage.
+
+#### (ii) Eligibility for employment assistance under Medicaid or CHIP
+
+&emsp;&emsp;&emsp;The employee or dependent becomes eligible for assistance, with respect to coverage under the group health plan under such Medicaid plan or State child health plan (including under any waiver or demonstration project conducted under or in relation to such a plan), if the employee requests coverage under the group health plan not later than 60 days after the date the employee or dependent is determined to be eligible for such assistance.
+
+#### (B) Employee outreach and disclosure
+
+#### (i) Outreach to employees regarding availability of Medicaid and CHIP coverage
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Each employer that maintains a group health plan in a State that provides medical assistance under a State Medicaid plan under title XIX of the Social Security Act, or child health assistance under a State child health plan under title XXI of such Act, in the form of premium assistance for the purchase of coverage under a group health plan, shall provide to each employee a written notice informing the employee of potential opportunities then currently available in the State in which the employee resides for premium assistance under such plans for health coverage of the employee or the employee's dependents. For purposes of compliance with this clause, the employer may use any State-specific model notice developed in accordance with section 701(f)(3)(B)(i)(II) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1181(f)(3)(B)(i)(II)).
+
+#### (II) Option to provide concurrent with provision of plan materials to employee
+
+&emsp;&emsp;&emsp;&emsp;An employer may provide the model notice applicable to the State in which an employee resides concurrent with the furnishing of materials notifying the employee of health plan eligibility, concurrent with materials provided to the employee in connection with an open season or election process conducted under the plan, or concurrent with the furnishing of the summary plan description as provided in section 104(b) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1024).
+
+#### (ii) Disclosure about group health plan benefits to States for Medicaid and CHIP eligible individuals
+
+&emsp;&emsp;&emsp;In the case of a participant or beneficiary of a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act or under a State child health plan under title XXI of such Act, the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under the group health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
+
+(Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2073; amended Pub. L. 105–34, title XV, §1531(b)(1)(A), Aug. 5, 1997, 111 Stat. 1084; Pub. L. 111–3, title III, §311(a), Feb. 4, 2009, 123 Stat. 64; Pub. L. 111–5, div. B, title I, §1899D(a), Feb. 17, 2009, 123 Stat. 425.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(1)(C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42. Section 1928 of the Act is classified to section 1396s of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(1)(C), (D), (f)(3)(A)(i), (B)(i)(I), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. Sections 1928 and 2105 of the Act are classified to sections 1396s and 1397ee, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+Section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (f)(3)(B)(ii), is section 311(b)(1)(C) of Pub. L. 111–3, which is set out as a note under section 1181 of Title 29, Labor.
 
 #### Amendments
 
+2009—Subsec. (c)(2)(D). Pub. L. 111–5 added subpar. (D).
+
+Subsec. (f)(3). Pub. L. 111–3 added par. (3).
+
 1997—Subsec. (c)(1). Pub. L. 105–34 substituted “section 9832(c)” for “section 9805(c)” in concluding provisions.
+
+#### Effective Date of 2009 Amendment
+
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
+
+Pub. L. 111–5, div. B, title I, §1899D(d), Feb. 17, 2009, 123 Stat. 426, provided that: “The amendments made by this section \[amending this section, section 1181 of Title 29, Labor, and section 300gg of Title 42, The Public Health and Welfare\] shall apply to plan years beginning after the date of the enactment of this Act \[Feb. 17, 2009\].”
+
+Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1997 Amendment
 

@@ -14,7 +14,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Labor dispute.—The term “labor dispute” has the same meaning given that term in section 13(c) of the Act to amend the Judicial Code and to define and limit the jurisdiction of courts sitting in equity, and for other purposes (29 U.S.C. 113(c), commonly known as the Norris-LaGuardia Act).
+Labor dispute.—The term “labor dispute” has the same meaning given that term in section 13(c) of the Act to amend the Judicial Code and to define and limit the jurisdiction of courts sitting in equity, and for otherpurposes (29 U.S.C. 113(c), commonly known as the Norris-LaGuardia Act).
 
 &emsp;(2)
 

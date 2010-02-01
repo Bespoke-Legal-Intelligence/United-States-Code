@@ -4,7 +4,7 @@
 
 Under regulations prescribed by the Secretary, in the case of a United States shareholder who is an individual and who elects to have the provisions of this section apply for the taxable year—
 
-&emsp;(1) the tax imposed under this chapter on amounts which are included in his gross income under section 951(a) shall (in lieu of the tax determined under sections 1 and 55) be an amount equal to the tax which would be imposed under sections 11 and 55 if such amounts were received by a domestic corporation, and
+&emsp;(1) the tax imposed under this chapter on amounts which are included in his gross income under section 951(a) shall (in lieu of the tax determined under sections 1 and 55) be anamount equal to the tax which would be imposed under sections 11 and 55 if such amounts were received by a domestic corporation, and
 
 &emsp;(2) for purposes of applying the provisions of section 960 (relating to foreign tax credit) such amounts shall be treated as if they were received by a domestic corporation.
 

@@ -40,7 +40,7 @@
 
 #### (B) Expired terms
 
-&emsp;&emsp;A member of the Commission shall serve on the Commission after the expiration of the member's term until the successor of such member has taken office as a member of the Commission.
+&emsp;&emsp;A member of the Commission shall serve on the Commission after the expiration ofthe member's term until the successor of such member has taken office as a member of the Commission.
 
 #### (C) Unexpired terms
 
@@ -50,7 +50,7 @@
 
 #### (1) In general
 
-&emsp;The Commission shall select a chair and vice chair from among its members for a term of 1year, except that the chair and vice chair may not be affiliated with the same political party.
+&emsp;The Commission shall select a chair and vice chair from among its members for a term of 1 year, except that the chair and vice chair may not be affiliated with the same political party.
 
 #### (2) Number of terms
 

@@ -48,7 +48,7 @@ The Director shall issue regulations for the conduct of peer review under this s
 
 #### References in Text
 
-The provisions of title 5 that govern appointments in the competitive service, referred to in subsec. (c)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 that govern appointments in the competitive service, referred to in subsec. (c)(1), areclassified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (c)(3), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5.
 

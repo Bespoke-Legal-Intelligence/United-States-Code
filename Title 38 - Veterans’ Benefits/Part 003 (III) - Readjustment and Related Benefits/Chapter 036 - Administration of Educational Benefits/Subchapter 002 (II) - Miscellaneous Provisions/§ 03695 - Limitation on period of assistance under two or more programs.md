@@ -8,7 +8,7 @@
 
 &emsp;(3) The War Orphans’ Educational Assistance Act of 1956.
 
-&emsp;(4) Chapters 30, 32, 34, 35, and 36 of this title, and the former chapter 33.
+&emsp;(4) Chapters 30, 32, 33, 34, 35, and 36.
 
 &emsp;(5) Chapters 107, 1606, 1607, and 1611 of title 10.
 
@@ -20,13 +20,7 @@
 
 (b) No person may receive assistance under chapter 31 of this title in combination with assistance under any of the provisions of law cited in subsection (a) of this section in excess of 48 months (or the part-time equivalent thereof) unless the Secretary determines that additional months of benefits under chapter 31 of this title are necessary to accomplish the purposes of a rehabilitation program (as defined in section 3101(5) of this title) in the individual case.
 
-(Added Pub. L. 90–631, §1(d)(1), Oct. 23, 1968, 82 Stat. 1331, §1791; renumbered §1795 and amended Pub. L. 92–540, title III, §316(2), title IV, §403(13), Oct. 24, 1972, 86 Stat. 1086, 1090; Pub. L. 96–466, title I, §103, Oct. 17, 1980, 94 Stat. 2187; Pub. L. 98–223, title II, §203(c)(2), Mar. 2, 1984, 98 Stat. 41; Pub. L. 98–525, title VII, §703(d), Oct. 19, 1984, 98Stat. 2564; Pub. L. 101–237, title IV, §423(a)(8)(B), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3695 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 106–65, div. A, title V, §551(b), Oct. 5, 1999, 113 Stat. 614; Pub. L. 107–103, title V, §509(d), Dec. 27, 2001, 115 Stat. 997; Pub. L. 107–107, div. A, title X, §1048(i)(8), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 108–375, div. A, title V, §527(b)(2), Oct. 28, 2004, 118 Stat. 1894; Pub. L. 110–252, title V, §5003(b)(1)(B), June 30, 2008, 122 Stat. 2375.)
-
-#### Amendment of Subsection (a)(4)
-
-<i>Pub. L. 110–252, title V, §5003(b)(1)(B), (d), June 30, 2008, 122 Stat. 2375, 2378, provided that, effective Aug. 1, 2009, subsection (a)(4) of this section is amended to read as follows:</i>
-
-&emsp;<i>(4) Chapters 30, 32, 33, 34, 35, and 36.</i>
+(Added Pub. L. 90–631, §1(d)(1), Oct. 23, 1968, 82 Stat. 1331, §1791; renumbered §1795 and amended Pub. L. 92–540, title III, §316(2), title IV, §403(13), Oct. 24, 1972, 86 Stat. 1086, 1090; Pub. L. 96–466, title I, §103, Oct. 17, 1980, 94 Stat. 2187; Pub. L. 98–223, title II, §203(c)(2), Mar. 2, 1984, 98 Stat. 41; Pub. L. 98–525, title VII, §703(d), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 101–237, title IV, §423(a)(8)(B), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3695 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 106–65, div. A, title V, §551(b), Oct. 5, 1999, 113 Stat. 614; Pub. L. 107–103, title V, §509(d), Dec. 27, 2001, 115 Stat. 997; Pub. L. 107–107, div. A, title X, §1048(i)(8), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 108–375, div. A, title V, §527(b)(2), Oct. 28, 2004, 118 Stat. 1894; Pub. L. 110–252, title V, §5003(b)(1)(B), June 30, 2008, 122 Stat. 2375.)
 
 #### References in Text
 
@@ -36,8 +30,6 @@ The Veterans’ Readjustment Assistance Act of 1952, referred to in subsec. (a)(
 
 The War Orphans’ Educational Assistance Act of 1956, referred to in subsec. (a)(3), is act June 29, 1956, ch. 476, 70 Stat. 411, as amended, which was classified generally to chapter 15 (§1031 et seq.) of former Title 38, which was repealed and the provisions thereof reenacted as chapter 35 of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
-Former chapter 33, referred to in subsec. (a)(4), is former chapter 33 (§1601 et seq.) of this title enacted by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1174, which was repealed by Pub. L. 89–358, §4(a), Mar. 3, 1966, 80 Stat. 23.
-
 Section 903 of the Department of Defense Authorization Act, 1981, referred to in subsec. (a)(6), is section 903 of Pub. L. 96–342, title IX, Sept. 8, 1980, 94 Stat. 1115, which is set out as a note under section 2141 of Title 10, Armed Forces.
 
 The Hostage Relief Act of 1980, referred to in subsec. (a)(7), is Pub. L. 96–449, Oct. 14, 1980, 94 Stat. 1967, as amended, which was formerly set out as a note under section 5561 of Title 5, Government Organization and Employees.
@@ -45,6 +37,8 @@ The Hostage Relief Act of 1980, referred to in subsec. (a)(7), is Pub. L. 96–4
 The Omnibus Diplomatic Security and Antiterrorism Act of 1986, referred to in subsec. (a)(8), is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 22, Foreign Relations and Intercourse, and Tables.
 
 #### Amendments
+
+2008—Subsec. (a)(4). Pub. L. 110–252 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Chapters 30, 32, 34, 35, and 36 of this title, and the former chapter 33.”
 
 2004—Subsec. (a)(5). Pub. L. 108–375 inserted “1607,” after “1606,”.
 

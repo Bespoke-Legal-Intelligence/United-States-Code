@@ -132,7 +132,7 @@ Clarification of existing law.—Section 5891(d) of such Code (as so added) shal
 
 Transition rule.—In the case of a structured settlement factoring transaction entered into during the period beginning on the 30th day following the date of the enactment of this Act and ending on July 1, 2002, no tax shall be imposed under section 5891(a) of such Code if—
 
-&emsp;“(A) the structured settlement payee is domiciled in a State (or possession of the United States) which has not enacted a statute providing that the structured settlement factoring transaction is ineffective unless the transaction has been approved by an order, judgment, or decree of a court (or where applicable, a responsible administrative authority) which finds that such transaction—
+&emsp;“(A) the structured settlement payee is domiciled in a State (or possession of the United States) whichhas not enacted a statute providing that the structured settlement factoring transaction is ineffective unless the transaction has been approved by an order, judgment, or decree of a court (or where applicable, a responsible administrative authority) which finds that such transaction—
 
 &emsp;&emsp;“(i) does not contravene any Federal or State statute or the order of any court (or responsible administrative authority); and
 

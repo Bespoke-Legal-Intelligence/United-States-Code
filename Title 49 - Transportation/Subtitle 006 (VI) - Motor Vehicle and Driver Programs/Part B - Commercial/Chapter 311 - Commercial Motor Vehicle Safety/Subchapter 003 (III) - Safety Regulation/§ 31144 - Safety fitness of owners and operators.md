@@ -40,7 +40,7 @@ Owners or operators transporting passengers.—With regard to owners or operator
 
 &emsp;(3)
 
-Owners or operators transporting hazardous material.—With regard to owners or operators of commercial motor vehicles designed or used to transport hazardous material for which placarding of a motor vehicle is required under regulations prescribed under chapter 51, an owner or operator who the Secretary determines is not fit may not operate in interstate commerce beginning on the 46th day after the date of such fitness determination and until the Secretary determines such owner or operator is fit. A violation of this paragraph by an owner or operator transporting hazardous material shall be considered a violation of chapter 51, and shall be subject to the penalties in sections 5123 and 5124.
+Owners or operators transporting hazardous material.—With regard to owners or operators of commercial motor vehicles designed or used to transport hazardous material for which placarding of a motor vehicle is required under regulations prescribed under chapter 51, an owner or operator who the Secretary determines is not fit may not operate in interstate commerce beginning on the 46th day after the date of such fitness determination and until the Secretary determines such owner or operator is fit. A violation of this paragraph by an owner or operator transporting hazardous material shall be considered aviolation of chapter 51, and shall be subject to the penalties in sections 5123 and 5124.
 
 &emsp;(4)
 
@@ -196,7 +196,7 @@ Findings and Action on Applications.—The Commission shall—
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to betreated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under section 101 of Title 23, Highways.
+Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1995 Amendment
 

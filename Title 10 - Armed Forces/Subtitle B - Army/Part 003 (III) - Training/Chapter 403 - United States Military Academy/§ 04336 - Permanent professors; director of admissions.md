@@ -34,7 +34,7 @@ The word “regular” is deleted \[in sections 4335 and 4336\] to make clear th
 
 1980—Subsecs. (a), (b). Pub. L. 96–513, §502(25), substituted “a regular officer” for “a promotion-list officer”, and inserted “or active-duty list” after “on the promotion list”.
 
-Subsec. (c). Pub. L. 96–513, §218(a), struck out subsec. (c) which provided that, unless he is serving in a higher grade, an officer detailed to perform the duties of director of admissions has, while performing those duties, the temporary grade of lieutenant colonel and, after performing those duties for a period of six years, has the temporary grade of colonel.
+Subsec. (c). Pub. L. 96–513, §218(a), struck out subsec. (c) which provided that, unless he is serving in a highergrade, an officer detailed to perform the duties of director of admissions has, while performing those duties, the temporary grade of lieutenant colonel and, after performing those duties for a period of six years, has the temporary grade of colonel.
 
 1978—Pub. L. 95–551, §4(a), substituted “director of admissions” for “registrar” in section catchline.
 

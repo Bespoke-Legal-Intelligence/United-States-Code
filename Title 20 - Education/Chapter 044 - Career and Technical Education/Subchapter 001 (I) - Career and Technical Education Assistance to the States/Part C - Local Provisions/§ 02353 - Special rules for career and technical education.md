@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;In any academic year that an eligible recipient does not expend all of the amounts the eligible recipient is allocated for such year undersection 2351 or 2352 of this title, such eligible recipient shall return any unexpended amounts to the eligible agency to be reallocated under section 2351 or 2352 of this title, as appropriate.
+&emsp;In any academic year that an eligible recipient does not expend all of the amounts the eligible recipient is allocated for such year under section 2351 or 2352 of this title, such eligible recipient shall return any unexpended amounts to the eligible agency to be reallocated under section 2351 or 2352 of this title, as appropriate.
 
 #### (2) Redistribution of amounts returned late in an academic year
 
@@ -36,7 +36,7 @@ Nothing in section 2351 or 2352 of this title shall be construed—
 
 #### (d) Consistent application
 
-For purposes of this section, the eligible agency shall provide funds to charter schools offering career and technical education programs in the same manner as the eligible agency provides those funds to other schools. Such career and technical education programs within a charter school shall be of sufficient size, scope, and quality to be effective.
+For purposes of this section, the eligible agency shall provide funds to charter schools offering career and technical education programs inthe same manner as the eligible agency provides those funds to other schools. Such career and technical education programs within a charter school shall be of sufficient size, scope, and quality to be effective.
 
 (Pub. L. 88–210, title I, §133, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 731.)
 

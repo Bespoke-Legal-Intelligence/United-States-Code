@@ -20,7 +20,7 @@ Eligible persons.—A person described in paragraph (1) is any person who—
 
 Limitation on eligibility.—A person may not be paid a bonus under this subsection if—
 
-&emsp;&emsp;(A) the person, in exchange for an agreement to accept an appointment as an officer,received financial assistance from the Department of Defense to pursue a course of study in psychology; or
+&emsp;&emsp;(A) the person, in exchange for an agreement to accept an appointment as an officer, received financial assistance from the Department of Defense to pursue a course of study in psychology; or
 
 &emsp;&emsp;(B) the Secretary concerned determines that the person is not qualified to become and remain certified as a psychologist.
 
@@ -76,7 +76,11 @@ Retention bonus.—An officer who does not complete the period of active duty sp
 
 (f)
 
-Termination of Authority.—No agreement under subsection (a) or (b) may be entered into after December 31, 2009.
+Termination of Authority.—No agreement under subsection (a) or (b) may be entered into after December 31, 2010.
 
-(Added Pub. L. 110–417, \[div. A\], title VI, §620(b)(1), Oct. 14, 2008, 122 Stat. 4490.)
+(Added Pub. L. 110–417, \[div. A\], title VI, §620(b)(1), Oct. 14, 2008, 122 Stat. 4490; amended Pub. L. 111–84, div. A, title VI, §612(b)(1), Oct. 28, 2009, 123 Stat. 2353.)
+
+#### Amendments
+
+2009—Subsec. (f). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 

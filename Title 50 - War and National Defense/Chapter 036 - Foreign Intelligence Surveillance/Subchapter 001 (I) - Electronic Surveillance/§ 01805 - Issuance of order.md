@@ -22,9 +22,9 @@ In determining whether or not probable cause exists for purposes of an order und
 
 #### (c) Specifications and directions of orders
 
-(1)
+#### (1) Specifications
 
-Specifications.—An order approving an electronic surveillance under this section shall specify—
+&emsp;An order approving an electronic surveillance under this section shall specify—
 
 &emsp;&emsp;(A) the identity, if known, or a description of the specific target of the electronic surveillance identified or described in the application pursuant to section 1804(a)(3) of this title;
 
@@ -36,9 +36,9 @@ Specifications.—An order approving an electronic surveillance under this secti
 
 &emsp;&emsp;(E) the period of time during which the electronic surveillance is approved.
 
-&emsp;(2)
+#### (2) Directions
 
-Directions.—An order approving an electronic surveillance under this section shall direct—
+&emsp;An order approving an electronic surveillance under this section shall direct—
 
 &emsp;&emsp;(A) that the minimization procedures be followed;
 
@@ -48,9 +48,9 @@ Directions.—An order approving an electronic surveillance under this section s
 
 &emsp;&emsp;(D) that the applicant compensate, at the prevailing rate, such carrier, landlord, custodian, or other person for furnishing such aid.
 
-&emsp;(3)
+#### (3) Special directions for certain orders
 
-Special directions for certain orders.—An order approving an electronic surveillance under this section in circumstances where the nature and location of each of the facilities or places at which the surveillance will be directed is unknown shall direct the applicant to provide notice to the court within ten days after the date on which surveillance begins to be directed at any new facility or place, unless the court finds good cause to justify a longer period of up to 60 days, of—
+&emsp;An order approving an electronic surveillance under this section in circumstances where the nature and location of each of the facilities or places at which the surveillance will be directed is unknown shall direct the applicant to provide notice to the court within ten days after the date on which surveillance begins to be directed at any new facility or place, unless the court finds good cause to justify a longer period of up to 60 days, of—
 
 &emsp;&emsp;(A) the nature and location of each new facility or place at which the electronic surveillance is directed;
 
@@ -78,7 +78,7 @@ Special directions for certain orders.—An order approving an electronic survei
 
 &emsp;(C) informs, either personally or through a designee, a judge having jurisdiction under section 1803 of this title at the time of such authorization that the decision has been made to employ emergency electronic surveillance; and
 
-&emsp;(D) makes an application in accordance with this subchapter to a judge having jurisdiction under section 1803 of this title as soon as practicable, but not later than 7 days after the Attorney General authorizes such surveillance.
+&emsp;(D) makes an application in accordance with this subchapter to a judge having jurisdictionunder section 1803 of this title as soon as practicable, but not later than 7 days after the Attorney General authorizes such surveillance.
 
 (2) If the Attorney General authorizes the emergency employment of electronic surveillance under paragraph (1), the Attorney General shall require that the minimization procedures required by this subchapter for the issuance of a judicial order be followed.
 
@@ -86,7 +86,7 @@ Special directions for certain orders.—An order approving an electronic survei
 
 (4) A denial of the application made under this subsection may be reviewed as provided in section 1803 of this title.
 
-(5) In the event that such application for approval is denied, or in any other case where theelectronic surveillance is terminated and no order is issued approving the surveillance, no information obtained or evidence derived from such surveillance shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired from such surveillance shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
+(5) In the event that such application for approval is denied, or in any other case where the electronic surveillance is terminated and no order is issued approving the surveillance, no information obtained or evidence derived from such surveillance shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired from such surveillance shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
 
 (6) The Attorney General shall assess compliance with the requirements of paragraph (5).
 
@@ -138,17 +138,17 @@ No cause of action shall lie in any court against any provider of a wire or elec
 
 In any case in which the Government makes an application to a judge under this subchapter to conduct electronic surveillance involving communications and the judge grants such application, upon the request of the applicant, the judge shall also authorize the installation and use of pen registers and trap and trace devices, and direct the disclosure of the information set forth in section 1842(d)(2) of this title.
 
-(Pub. L. 95–511, title I, §105, Oct. 25, 1978, 92 Stat. 1790; Pub. L. 98–549, §6(b)(3), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 106–567, title VI, §602(b), Dec. 27, 2000, 114 Stat. 2851; Pub. L. 107–56, title II, §§206, 207(a)(1), (b)(1), 225, Oct. 26, 2001, 115 Stat. 282, 295; Pub. L. 107–108, title III, §314(a)(2), (c)(1), Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 107–273, div. B, title IV, §4005(c), Nov. 2, 2002, 116 Stat. 1812; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§102(b)(1), 105(a), 108(a)(2), (b), Mar. 9, 2006, 120 Stat. 195, 203; Pub. L. 110–261, title I, §§105(a), 110(c)(1), July 10, 2008, 122 Stat. 2461, 2466.)
+(Pub. L. 95–511, title I, §105, Oct. 25, 1978, 92 Stat. 1790; Pub. L. 98–549, §6(b)(3), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 106–567, title VI, §602(b), Dec. 27, 2000, 114 Stat. 2851; Pub. L. 107–56, title II, §§206, 207(a)(1), (b)(1), 225, Oct. 26, 2001, 115 Stat. 282, 295; Pub. L. 107–108, title III, §314(a)(2), (c)(1),Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 107–273, div. B, title IV, §4005(c), Nov. 2, 2002, 116 Stat. 1812; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§102(b)(1), 105(a), 108(a)(2), (b), Mar. 9, 2006, 120 Stat. 195, 203; Pub. L. 110–261, title I, §§105(a), 110(c)(1), July 10, 2008, 122 Stat. 2461, 2466; Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470.)
 
 #### Amendment of Subsection (c)(2)
 
-<i>Pub. L. 109–177, title I, §102(b), Mar. 9, 2006, 120 Stat. 195, provided that, effective Dec. 31, 2009, with certain exceptions, subsec. (c)(2) of this section is amended to read as it read on Oct. 25, 2001:</i>
+<i>Pub. L. 109–177, title I, §102(b), Mar. 9, 2006, 120 Stat. 195, as amended by Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470, provided that, effective Feb. 28, 2010, with certain exceptions, subsec. (c)(2) of this section is amended to read as it read on Oct. 25, 2001:</i>
 
 &emsp;<i>(2) direct—</i>
 
 &emsp;&emsp;<i>(A) that the minimization procedures be followed;</i>
 
-&emsp;&emsp;<i>(B) that, upon the request of the applicant, a specified communication or other common carrier, landlord, custodian, or other specified person furnish the applicant forthwith all information, facilities, or technical assistance necessary</i><i>to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier, landlord, custodian, or other person is providing that target of electronic surveillance;</i>
+&emsp;&emsp;<i>(B) that, upon the request of the applicant, a specified communication or other common carrier, landlord, custodian, or other specified person furnish the applicant forthwith all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier, landlord, custodian, or other person is providing that target of electronic surveillance;</i>
 
 &emsp;&emsp;<i>(C) that such carrier, landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of Central Intelligence any records concerning the surveillance or the aid furnished that such person wishes to retain; and</i>
 
@@ -168,7 +168,7 @@ As originally enacted, Pub. L. 107–56, §225, amended this section by adding s
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–261, §105(a)(1), redesignated pars. (2) to (5) as (1) to (4), respectively, and struck out former par. (1) which read as follows: “the President has authorized the Attorney General to approve applications for electronic surveillance for foreign intelligence information;”.
+2008—Subsec. (a). Pub. L. 110–261, §105(a)(1), redesignated pars. (2) to (5) as (1) to (4), respectively, and struck out former par. (1) which read as follows: “the President has authorized the Attorney General to approve applications for electronic surveillance for foreign intelligence information;”.
 
 Subsec. (b). Pub. L. 110–261, §105(a)(2), substituted “(a)(2)” for “(a)(3)”.
 
@@ -182,7 +182,7 @@ Subsec. (e). Pub. L. 110–261, §105(a)(5), (6), redesignated subsec. (f) as (e
 
 Subsecs. (f) to (i). Pub. L. 110–261, §105(a)(5), (7), added subsec. (i) and redesignated former subsecs. (g) to (i) as (f) to (h), respectively. Former subsec. (f) redesignated (e).
 
-<b>2006</b>—Subsec. (c)(1). Pub. L. 109–177, §108(b)(1), substituted “(1)
+2006—Subsec. (c)(1). Pub. L. 109–177, §108(b)(1), substituted “(1)
 
 Specifications.—An order approving an electronic surveillance under this section shall specify—” for “An order approving an electronic surveillance under this section shall—
 
@@ -202,11 +202,11 @@ Subsec. (e)(1)(B). Pub. L. 109–177, §105(a)(1), substituted “who is not a U
 
 Subsec. (e)(2)(B). Pub. L. 109–177, §105(a)(2), substituted “who is not a United States person” for “as defined in section 1801(b)(1)(A) of this title”.
 
-<b>2004</b>—Subsec. (c)(2)(C). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+2004—Subsec. (c)(2)(C). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-<b>2002</b>—Subsec. (i). Pub. L. 107–273 amended Pub. L. 107–56, §225. See 2001 Amendment notes below.
+2002—Subsec. (i). Pub. L. 107–273 amended Pub. L. 107–56, §225. See 2001 Amendment notes below.
 
-<b>2001</b>—Subsec. (c)(1)(B). Pub. L. 107–108, §314(a)(2)(A), inserted “, if known” before semicolon at end.
+2001—Subsec. (c)(1)(B). Pub. L. 107–108, §314(a)(2)(A), inserted “, if known” before semicolon at end.
 
 Subsec. (c)(2)(B). Pub. L. 107–56, §206, inserted “, or in circumstances where the Court finds that the actions of the target of the application may have the effect of thwarting the identification of a specified person, such other persons,” after “specified person”.
 
@@ -224,13 +224,13 @@ Pub. L. 107–108, §314(a)(2)(C), transferred subsec. (h) added by section 225 
 
 Pub. L. 107–56, §225, as amended by Pub. L. 107–273, §4005(c), added subsec. (i) relating to bar of legal action.
 
-<b>2000</b>—Subsecs. (b), (c). Pub. L. 106–567, §602(b)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+2000—Subsecs. (b), (c). Pub. L. 106–567, §602(b)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 106–567, §602(b)(1), (3), redesignated subsec. (c) as (d) and substituted “subsection (c)(1)” for “subsection (b)(1)”. Former subsec. (d) redesignated (e).
 
 Subsecs. (e) to (h). Pub. L. 106–567, §602(b)(1), redesignated subsecs. (d) to (g) as (e) to (h), respectively.
 
-<b>1984</b>—Subsec. (f)(2)(C). Pub. L. 98–549 substituted “section 705” for “section 605” in the original to accommodate renumbering of sections in subchapter VI (section 601 et seq.) of chapter 5 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, by section 6(a) of Pub. L. 98–549. Because both sections translate as “section 605 of Title 47”, the amendment by Pub. L. 98–549 resulted in no change in text.
+1984—Subsec. (f)(2)(C). Pub. L. 98–549 substituted “section 705” for “section 605” in the original to accommodate renumbering of sections in subchapter VI (section 601 et seq.) of chapter 5 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, by section 6(a) of Pub. L. 98–549. Because both sections translate as “section 605 of Title 47”, the amendment by Pub. L. 98–549 resulted in no change in text.
 
 #### Effective Date of 2008 Amendment
 
@@ -238,11 +238,11 @@ Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in se
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–177, title I, §102(b), Mar. 9, 2006, 120 Stat. 195, provided that:
+Pub. L. 109–177, title I, §102(b), Mar. 9, 2006, 120 Stat. 195, as amended by Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470, provided that:
 
 “(1)
 
-In general.—Effective December 31, 2009, the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1801 et seq.\] is amended so that sections 501, 502, and 105(c)(2) \[50 U.S.C. 1861, 1862, and 1805(c)(2)\] read as they read on October 25, 2001.
+In general.—Effective February 28, 2010, the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1801 et seq.\] is amended so that sections 501, 502, and 105(c)(2) \[50 U.S.C. 1861, 1862, and 1805(c)(2)\] read as they read on October 25, 2001.
 
 “(2)
 

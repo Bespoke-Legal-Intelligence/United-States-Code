@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) such ability to obtain such information from sources other than the disclosure required by this section as holders of claims or interests in such class generally have.
 
-(b) An acceptance or rejection of a plan may not be solicited after the commencement of the case under this title from a holder of a claim or interest with respect to such claim or interest, unless, at the time of or before such solicitation, there is transmitted to such holder the plan ora summary of the plan, and a written disclosure statement approved, after notice and a hearing, by the court as containing adequate information. The court may approve a disclosure statement without a valuation of the debtor or an appraisal of the debtor's assets.
+(b) An acceptance or rejection of a plan may not be solicited after the commencement of the case under this title from a holder of a claim or interest with respect to such claim or interest, unless, at the time of or before such solicitation, there is transmitted to such holder the plan or a summary of the plan, and a written disclosure statement approved, after notice and a hearing, by the court as containing adequate information. The court may approve a disclosure statement without a valuation of the debtor or an appraisal of the debtor's assets.
 
 (c) The same disclosure statement shall be transmitted to each holder of a claim or interest of a particular class, but there may be transmitted different disclosure statements, differing in amount, detail, or kind of information, as between classes.
 
@@ -24,7 +24,7 @@
 
 &emsp;(1) the court may determine that the plan itself provides adequate information and that a separate disclosure statement is not necessary;
 
-&emsp;(2) the court may approve a disclosure statement submitted on standard forms approved by the court or adopted under section 2075 of title 28; and
+&emsp;(2) the court may approve a disclosure statement submitted on standard forms approvedby the court or adopted under section 2075 of title 28; and
 
 &emsp;(3)(A) the court may conditionally approve a disclosure statement subject to final approval after notice and a hearing;
 
@@ -56,7 +56,7 @@ A plan is necessarily predicated on knowledge of the assets and liabilities bein
 
 Subsection (b) establishes the jurisdiction of the court over this subject by prohibiting solicitation of acceptance or rejection of a plan after the commencement of the case, unless the person solicited receives, before or at the time of the solicitation, a written disclosure statement approved by the court, after notice and hearing, as containing adequate information. As under present law, determinations of value, by appraisal or otherwise, are not required if not needed to accomplish the purpose specified in subsection (a)(1).
 
-Subsection (c) requires that the same disclosure statement be transmitted to each member of a class. It recognizes that the information needed for an informedjudgment about the plan may differ among classes. A class whose rights under the plan center on a particular fund or asset would have no use for an extensive description of other matters that could not affect them.
+Subsection (c) requires that the same disclosure statement be transmitted to each member of a class. It recognizes that the information needed for an informed judgment about the plan may differ among classes. A class whose rights under the plan center on a particular fund or asset would have no use for an extensive description of other matters that could not affect them.
 
 Subsection (d) relieves the court of the need to follow any otherwise applicable Federal or state law in determining the adequacy of the information contained in the disclosure statement submitted for its approval. It authorizes an agency or official, Federal or state, charged with administering cognate laws so preempted to advise the court on the adequacy of proposed disclosure statement. But they are not authorized to appeal the court's decision.
 
@@ -66,7 +66,7 @@ Subsection (e) exonerates any person who, in good faith and in compliance with t
 
 In the nonpublic case, the court, when approving the disclosure statement, has before it the texts of the plan, a proposed disclosure document, and such other information the plan proponents and other interested parties may present at the hearing. In the final analysis the exoneration which subsection (e) grants must depend on the good faith of the plan proponents and of those who participate in the preparation of the disclosure statement and in the solicitation. Subsection (e) does not affect civil or criminal liability for defects and inadequacies that are beyond the limits of the exoneration that good faith provides.
 
-Section 1125 applies to public companies as well, subject to the qualifications of subsection (f). In case of a public company no solicitations of acceptance is permitted unless authorized by the court upon or after approval of the plan pursuant to section 1128(c). In addition to the documents specified in subsection (b), subsection (f) requires transmission of the opinion and order of the court approving the plan and, if filed, the advisory report of the Securities and Exchange Commission or a summary thereof prepared by the Commission.
+Section 1125 applies to public companies as well, subject to the qualifications of subsection (f). In case of apublic company no solicitations of acceptance is permitted unless authorized by the court upon or after approval of the plan pursuant to section 1128(c). In addition to the documents specified in subsection (b), subsection (f) requires transmission of the opinion and order of the court approving the plan and, if filed, the advisory report of the Securities and Exchange Commission or a summary thereof prepared by the Commission.
 
 #### house report no. 95–595
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 ofPub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

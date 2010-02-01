@@ -40,13 +40,13 @@ Project Reports.—(1) The Secretary of Defense shall transmit to the appropriat
 
 Annual Reports.—The Secretary of Defense shall include each year in the materials that the Secretary submits to Congress in support of the budget submitted by the President pursuant to section 1105 of title 31 the following:
 
-&emsp;(1) A separate report on the expenditures and receipts during the preceding fiscal year covering each of the Funds established under section 2883 of this title, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred and the privatization projects or contracts to which those funds were transferred. Each report shall also include, for each military department or defense agency, a description of all funds to be transferred to such Funds for the current fiscal year and the next fiscal year.
+&emsp;(1) A separate report on the expenditures and receipts during the preceding fiscal year covering each of the Funds established under section 2883 of this title, including a description of the specific construction, acquisition, or improvement projects from which funds weretransferred and the privatization projects or contracts to which those funds were transferred. Each report shall also include, for each military department or defense agency, a description of all funds to be transferred to such Funds for the current fiscal year and the next fiscal year.
 
 &emsp;(2) A methodology for evaluating the extent and effectiveness of the use of the authorities under this subchapter during such preceding fiscal year, and such recommendations as the Secretary considers necessary for improving the extent and effectiveness of the use of such authorities in the future.
 
 &emsp;(3) A review of activities of the Secretary under this subchapter during such preceding fiscal year, shown for military family housing, military unaccompanied housing, dual military family housing and military unaccompanied housing, and ancillary supporting facilities.
 
-&emsp;(4) If a contract for the acquisition or construction of military family housing, military unaccompanied housing, or dual military family housing and military unaccompanied housing entered into during the preceding fiscal year did not include the acquisition or construction of the types of ancillary supportingfacilities specifically referred to in section 2871(1) of this title, a explanation of the reasons why such ancillary supporting facilities were not included.
+&emsp;(4) If a contract for the acquisition or construction of military family housing, military unaccompanied housing, or dual military family housing and military unaccompanied housing entered into during the preceding fiscal year did not include the acquisition or construction of the types of ancillary supporting facilities specifically referred to in section 2871(1) of this title, a explanation of the reasons why such ancillary supporting facilities were not included.
 
 &emsp;(5) A report setting forth, by armed force—
 

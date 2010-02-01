@@ -10,7 +10,7 @@ How Land May Be Acquired.—
 
 &emsp;(1)
 
-Purchase or condemnation proceeding.—The National Capital Planning Commission may buy land when the land can be acquired at a price the Planning Commission considers reasonable or by a condemnationproceeding when the land cannot be bought at a reasonable price.
+Purchase or condemnation proceeding.—The National Capital Planning Commission may buy land when the land can be acquired at a price the Planning Commission considers reasonable or by a condemnation proceeding when the land cannot be bought at a reasonable price.
 
 &emsp;(2)
 

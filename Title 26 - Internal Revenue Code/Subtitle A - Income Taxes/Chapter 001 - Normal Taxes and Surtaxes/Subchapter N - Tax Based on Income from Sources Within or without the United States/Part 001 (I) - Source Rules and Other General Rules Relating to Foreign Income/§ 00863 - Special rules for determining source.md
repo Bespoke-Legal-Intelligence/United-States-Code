@@ -2,7 +2,7 @@
 
 #### (a) Allocation under regulations
 
-Items of gross income, expenses, losses, and deductions, other than those specified in sections 861(a) and 862(a), shall be allocated or apportioned to sources within or without the United States, under regulations prescribed by the Secretary. Where items of gross income are separately allocated to sources within the United States, there shall be deducted (for the purpose of computing the taxable income therefrom) the expenses, losses, and other deductions properly apportioned or allocated thereto and a ratable part of other expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income. The remainder, if any, shall be included in full as taxable income from sources within the United States.
+Items of gross income, expenses, losses, and deductions, other than those specified in sections 861(a) and 862(a), shall be allocated or apportioned to sources within or without theUnited States, under regulations prescribed by the Secretary. Where items of gross income are separately allocated to sources within the United States, there shall be deducted (for the purpose of computing the taxable income therefrom) the expenses, losses, and other deductions properly apportioned or allocated thereto and a ratable part of other expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income. The remainder, if any, shall be included in full as taxable income from sources within the United States.
 
 #### (b) Income partly from within and partly from without the United States
 
@@ -20,7 +20,7 @@ In the case of gross income derived from sources partly within and partly withou
 
 #### (1) Transportation beginning and ending in the United States
 
-&emsp;All transportation income attributable to transportation which begins and ends in theUnited States shall be treated as derived from sources within the United States.
+&emsp;All transportation income attributable to transportation which begins and ends in the United States shall be treated as derived from sources within the United States.
 
 #### (2) Other transportation having United States connection
 

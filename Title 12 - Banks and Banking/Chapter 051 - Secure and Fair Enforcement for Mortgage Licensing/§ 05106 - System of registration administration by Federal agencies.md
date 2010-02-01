@@ -8,7 +8,7 @@
 
 #### (2) Registration requirements
 
-&emsp;In connection with the registration of any loan originator under this subsection, the appropriate Federal banking agency and the Farm Credit Administration shall, at a minimum, furnish or cause to be furnished to the Nationwide Mortgage Licensing System and Registry information concerning the employees's <sup>1</sup> identity, including—
+&emsp;In connection with the registration of any loan originator under this subsection, the appropriate Federal banking agency and the Farm Credit Administration shall, at a minimum, furnish or cause to be furnished to the Nationwide Mortgage Licensing System andRegistry information concerning the employees's <sup>1</sup> identity, including—
 
 &emsp;&emsp;(A) fingerprints for submission to the Federal Bureau of Investigation, and any governmental agency or entity authorized to receive such information for a State and national criminal history background check; and
 

@@ -50,7 +50,7 @@ Changes to noncommercial service airport status.—If the status of a commercial
 
 Changes to nonhub primary status.—If the status of a nonhub primary airport changes to a small hub primary airport at a time when the airport has received discretionary funds under this chapter for a terminal development project in accordance with section 47110(d)(2), and the project is not yet completed, the project shall remain eligible for funding from the discretionary fund and the small airport fund to pay costs allowable under section 47110(d). Such project shall remain eligible for such funds for three fiscal years after the start of construction of the project, or if the Secretary determines that a further extension of eligibility is justified, until the project is completed.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1262; Pub. L. 106–181, title I, §135(c), Apr. 5, 2000, 114Stat. 84; Pub. L. 108–176, title I, §149(a), Dec. 12, 2003, 117 Stat. 2505; Pub. L. 109–115, div. A, title I, §176(a), Nov. 30, 2005, 119 Stat. 2427.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1262; Pub. L. 106–181, title I, §135(c), Apr. 5, 2000, 114 Stat. 84; Pub. L. 108–176, title I, §149(a), Dec. 12, 2003, 117 Stat. 2505; Pub. L. 109–115, div. A, title I, §176(a), Nov. 30, 2005, 119 Stat. 2427.)
 
 Historical and Revision Notes
 

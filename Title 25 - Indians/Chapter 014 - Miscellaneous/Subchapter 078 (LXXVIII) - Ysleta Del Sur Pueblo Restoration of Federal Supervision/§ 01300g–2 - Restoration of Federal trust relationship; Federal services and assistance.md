@@ -10,7 +10,7 @@ All rights and privileges of the tribe and members of the tribe under any Federa
 
 #### (c) Federal services and benefits
 
-Notwithstanding any other provision of law, the tribe and the members of the tribe shall be eligible, on and after August 18, 1987, for all benefits and services furnished to federally recognized Indian tribes.
+Notwithstanding any other provision of law, the tribe and the members of the tribe shall beeligible, on and after August 18, 1987, for all benefits and services furnished to federally recognized Indian tribes.
 
 #### (d) Effect on property rights and other obligations
 

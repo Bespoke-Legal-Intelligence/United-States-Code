@@ -24,7 +24,7 @@ No State may receive a grant under this section unless the State educational age
 
 #### (2) Reservations
 
-&emsp;(A) The Secretary is authorized to reserve 0.1 percent of the amount appropriated for each fiscal year under section 11435 of this title to be allocated by the Secretary among the United States Virgin Islands, Guam, American Samoa, and the Commonwealth ofthe Northern Mariana Islands, according to their respective need for assistance under this part, as determined by the Secretary.
+&emsp;(A) The Secretary is authorized to reserve 0.1 percent of the amount appropriated for each fiscal year under section 11435 of this title to be allocated by the Secretary among the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, according to their respective need for assistance under this part, as determined by the Secretary.
 
 &emsp;(B)(i) The Secretary shall transfer 1 percent of the amount appropriated for each fiscal year under section 11435 of this title to the Department of the Interior for programs for Indian students served by schools funded by the Secretary of the Interior, as determined under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), that are consistent with the purposes of the programs described in this part.
 
@@ -62,7 +62,7 @@ Grants under this section shall be used for the following:
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) and section 11433(a)(2)(B)(ii) of this title, in providing a free public education to a homeless child or youth, no State receiving funds under this part shall segregate such child or youth in a separate school, or in a separate program within a school, based on such child's or youth's status as homeless.
+&emsp;&emsp;Except as provided in subparagraph (B) and section 11433(a)(2)(B)(ii) of this title, in providing a free public education to a homeless child or youth, no State receiving funds under this part shall segregate such child or youth in a separate school, or in a separateprogram within a school, based on such child's or youth's status as homeless.
 
 #### (B) Exception
 
@@ -208,7 +208,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;Each State shall submit to the Secretary a plan to provide for the education of homeless children and youths within the State. Such plan shall include the following:
 
-&emsp;&emsp;(A) A description of how such children and youths are (or will be) given the opportunity to meet the same challenging State academic achievement standards all students are expected to meet.
+&emsp;&emsp;(A) A description of how such children and youths are (or will be) given the opportunityto meet the same challenging State academic achievement standards all students are expected to meet.
 
 &emsp;&emsp;(B) A description of the procedures the State educational agency will use to identify such children and youths in the State and to assess their special needs.
 
@@ -348,7 +348,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;Each local educational agency serving homeless children and youths that receives assistance under this part shall coordinate—
 
-&emsp;&emsp;&emsp;(i) the provision of services under this part with local social services agencies and other agencies or programs providing services to homeless children and youths and their families, including services and programs funded under the Runaway and Homeless Youth Act (42 U.S.C. 5701 et seq.); and
+&emsp;&emsp;&emsp;(i) the provision of services under this part with local social services agencies and other agencies or programs providing services to homeless children and youths and their families, including services and programs funded under the Runaway andHomeless Youth Act (42 U.S.C. 5701 et seq.); and
 
 &emsp;&emsp;&emsp;(ii) with other local educational agencies on interdistrict issues, such as transportation or transfer of school records.
 
@@ -420,7 +420,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 #### (C) Eligible individuals
 
-&emsp;&emsp;Funds made available under this subsection shall be used to provide such activities for eligible individuals, consisting of homeless children and youths, and their families, who have become homeless due to home foreclosure, including children and youths, and their families, who became homeless when lenders foreclosed on properties rented by the families.
+&emsp;&emsp;Funds made available under this subsection shall be used to provide such activities for eligible individuals, consisting of homeless children and youths, and their families, who have become homeless due tohome foreclosure, including children and youths, and their families, who became homeless when lenders foreclosed on properties rented by the families.
 
 #### (2) Grants to State educational agencies
 

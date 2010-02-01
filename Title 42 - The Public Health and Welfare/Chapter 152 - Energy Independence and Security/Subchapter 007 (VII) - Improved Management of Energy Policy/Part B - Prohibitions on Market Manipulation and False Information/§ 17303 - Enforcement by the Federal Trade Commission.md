@@ -6,7 +6,7 @@ This part shall be enforced by the Federal Trade Commission in the same manner, 
 
 #### (b) Violation is treated as unfair or deceptive act or practice
 
-The violation of any provision of this part shall be treated as an unfair or deceptive act orpractice proscribed under a rule issued under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
+The violation of any provision of this part shall be treated as an unfair or deceptive act or practice proscribed under a rule issued under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
 
 (Pub. L. 110–140, title VIII, §813, Dec. 19, 2007, 121 Stat. 1724.)
 

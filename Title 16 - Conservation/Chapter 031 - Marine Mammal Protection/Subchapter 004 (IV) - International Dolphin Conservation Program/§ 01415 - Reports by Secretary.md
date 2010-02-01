@@ -12,7 +12,7 @@ Notwithstanding section 1373(f) of this title, the Secretary shall submit annual
 
 &emsp;(5) actions taken by the Secretary under section 1371(a)(2)(B) of this title and section 1371(d) of this title;
 
-&emsp;(6) copies of any relevant resolutions and decisions of the Inter-American Tropical Tuna Commission, and any regulations promulgated by the Secretary under this subchapter; and
+&emsp;(6) copies of any relevant resolutions and decisions of the Inter-American Tropical TunaCommission, and any regulations promulgated by the Secretary under this subchapter; and
 
 &emsp;(7) any other information deemed relevant by the Secretary.
 

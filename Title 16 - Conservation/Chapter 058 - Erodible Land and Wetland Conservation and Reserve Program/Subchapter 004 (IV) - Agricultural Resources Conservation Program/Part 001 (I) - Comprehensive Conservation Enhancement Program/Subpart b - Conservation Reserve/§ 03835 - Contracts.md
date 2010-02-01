@@ -118,7 +118,7 @@ If, during the term of a contract entered into under this subpart, an owner or o
 
 #### (1) Duties of the Secretary
 
-&emsp;In the case of a contract modification approved in order to facilitate the transfer, as described in subsection (c)(1)(B)(iii), of land to a beginning farmer or rancher or socially disadvantaged farmer or rancher (in this subsection referred to as a “covered farmer or rancher”), the Secretary shall—
+&emsp;In the case of a contract modification approved in order to facilitate the transfer, asdescribed in subsection (c)(1)(B)(iii), of land to a beginning farmer or rancher or socially disadvantaged farmer or rancher (in this subsection referred to as a “covered farmer or rancher”), the Secretary shall—
 
 &emsp;&emsp;(A) beginning on the date that is 1 year before the date of termination of the contract—
 

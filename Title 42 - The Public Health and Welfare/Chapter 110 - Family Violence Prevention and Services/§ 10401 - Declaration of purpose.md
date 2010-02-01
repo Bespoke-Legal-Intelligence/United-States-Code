@@ -4,7 +4,7 @@ It is the purpose of this chapter to—
 
 &emsp;(1) assist States in efforts to increase public awareness about and prevent family violence and to provide immediate shelter and related assistance for victims of family violence and their dependents; and
 
-&emsp;(2) provide for technical assistance and training relating to family violence programsto States, local public agencies (including law enforcement agencies, courts, legal, social service, and health care professionals), nonprofit private organizations, and other persons seeking such assistance.
+&emsp;(2) provide for technical assistance and training relating to family violence programs to States, local public agencies (including law enforcement agencies, courts, legal, social service, and health care professionals), nonprofit private organizations, and other persons seeking such assistance.
 
 (Pub. L. 98–457, title III, §302, Oct. 9, 1984, 98 Stat. 1757; Pub. L. 102–295, title III, §302, May 28, 1992, 106 Stat. 201; Pub. L. 108–36, title IV, §415(1), June 25, 2003, 117 Stat. 830.)
 

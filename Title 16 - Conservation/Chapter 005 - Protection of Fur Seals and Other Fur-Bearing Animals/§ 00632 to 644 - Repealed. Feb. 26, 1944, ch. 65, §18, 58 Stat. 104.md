@@ -20,7 +20,7 @@ Section 640, act Aug. 24, 1912, ch. 373, §9, 37 Stat. 501, related to guard or 
 
 Section 641, act Aug. 24, 1912, ch. 373, §10, 37 Stat. 501, related to seizure of vessels outside of jurisdiction of signatory powers, and procedure.
 
-Section 642, acts Aug. 24, 1912, ch. 373, §11, 37 Stat. 502; June 22, 1916, ch. 171, 39 Stat. 236; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, which related todelivery by, receipt and disposal of skins by the United States under convention of July 7, 1911, and performance of articles thereunder.
+Section 642, acts Aug. 24, 1912, ch. 373, §11, 37 Stat. 502; June 22, 1916, ch. 171, 39 Stat. 236; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, which related to delivery by, receipt and disposal of skins by the United States under convention of July 7, 1911, and performance of articles thereunder.
 
 Section 643, act Aug. 24, 1912, ch. 373, §12, 37 Stat. 502, related to definition of “Pelagic sealing”, and construction of “person”.
 

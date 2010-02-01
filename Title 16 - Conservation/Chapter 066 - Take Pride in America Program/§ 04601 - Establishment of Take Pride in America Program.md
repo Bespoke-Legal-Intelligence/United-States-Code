@@ -16,7 +16,7 @@ The purposes of the TPIA Program shall include the following:
 
 &emsp;&emsp;(C) to promote participation by individuals, organizations, and communities of a conservation ethic in caring for these lands, facilities, and resources.
 
-&emsp;(2) To conduct a national awards program to honor those individuals and entities which, in the opinion of the Secretary of the Interior\(hereafter in this chapter referred to as the “Secretary”), have distinguished themselves in the activities described in paragraph (1) of this subsection.
+&emsp;(2) To conduct a national awards program to honor those individuals and entities which, in the opinion of the Secretary of the Interior (hereafter in this chapter referred to as the “Secretary”), have distinguished themselves in the activities described in paragraph (1) of this subsection.
 
 (Pub. L. 101–628, title XI, §1102, Nov. 28, 1990, 104 Stat. 4502.)
 

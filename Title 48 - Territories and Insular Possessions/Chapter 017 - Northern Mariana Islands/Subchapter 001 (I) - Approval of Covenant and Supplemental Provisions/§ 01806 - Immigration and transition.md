@@ -226,7 +226,7 @@ Pub. L. 110–229, title VII, §702(h)(4), May 8, 2008, 122 Stat. 865, provided 
 
 “(4)
 
-Reports by the Local Government.—The Governor of the Commonwealth may submit an annual report to the President on the implementation of this subtitle \[subtitle A (§§701–705) of title VII of Pub. L. 110–229, see Effective Date note set out above\], and the amendments made by this subtitle, with recommendations for future changes. The President shall forward the Governor's report to the Congress with any Administration comment after an appropriate period of time for internal review, provided that nothing in this paragraph shall be construed to require the President to provide any legislative recommendation to the Congress.”
+Reports by the local government.—The Governor of the Commonwealth may submit an annual report to the President on the implementation of this subtitle \[subtitle A (§§701–705) of title VII of Pub. L. 110–229, see Effective Date note set out above\], and the amendments made by this subtitle, with recommendations for future changes. The President shall forward the Governor's report to the Congress with any Administration comment after an appropriate period of time for internal review, provided that nothing in this paragraph shall be construed to require the President to provide any legislative recommendation to the Congress.”
 
 #### Required Actions Prior to Transition Program Effective Date
 

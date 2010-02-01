@@ -20,7 +20,7 @@
 
 #### (1) Nonseparation or nonreduction in grade or compensation of full-time personnel and part-time personnel holding permanent positions
 
-&emsp;Except as otherwise provided in this chapter, the transfer under this chapter of full-time personnel (except special Government employees) and part-time personnel holding permanent positions shall not cause any such employee to be separated or reduced in grade or compensation for 1 year after the date of transfer to the Department.
+&emsp;Except as otherwise provided in this chapter, the transfer under this chapter of full-time personnel (except special Government employees) and part-time personnel holding permanent positions shall not cause any suchemployee to be separated or reduced in grade or compensation for 1 year after the date of transfer to the Department.
 
 #### (2) Positions compensated in accordance with Executive Schedule
 

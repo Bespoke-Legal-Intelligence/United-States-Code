@@ -22,7 +22,7 @@ In carrying out the policy set forth in section 205b of this title (with particu
 
 &emsp;(1) the predominant voluntary industry consensus standards include the use of hard-metric for the items specified; or
 
-&emsp;(2) hard-metric specifications are necessary in a contract for the repair or replacement of parts of Federal facilities in existence or under construction upon the effective date of the Savings in Construction Act of 1996; or
+&emsp;(2) hard-metric specifications are necessary in a contract for the repair or replacement ofparts of Federal facilities in existence or under construction upon the effective date of the Savings in Construction Act of 1996; or
 
 &emsp;(3) the following 2 criteria are met:
 

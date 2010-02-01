@@ -82,7 +82,7 @@ Pub. L. 107–299, §1, Nov. 26, 2002, 116 Stat. 2345, provided that: “This Ac
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–160, §1, Mar. 6, 1998, 112 Stat. 21, provided that: “This Act \[enacting section 1541 of Title 15, Commerce and Trade, amending this section and sections 1122, 1123, 1126 to 1128, and 1131 of this title, repealing section 1124a of this title, and enacting provisions set out as notes under sections 1123 and 1131 of this title\] may be cited as the ‘National Sea Grant College Program Reauthorization Act of 1998’.”
+Pub. L. 105–160, §1, Mar. 6, 1998, 112 Stat. 21, provided that: “This Act \[enacting section 1541 of Title 15, Commerce and Trade, amending this section and sections 1122, 1123, 1126 to 1128, and 1131 of this title, repealing section 1124a of this title, and enacting provisions setout as notes under sections 1123 and 1131 of this title\] may be cited as the ‘National Sea Grant College Program Reauthorization Act of 1998’.”
 
 #### Short Title of 1991 Amendment
 

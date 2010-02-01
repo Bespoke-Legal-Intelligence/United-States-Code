@@ -40,7 +40,7 @@
 
 #### (5) Statutory construction
 
-&emsp;Nothing in this section supersedes or otherwise affects the authority of any military commander under title 10 with respect to the person or property of any decedent who died while under a military command or jurisdiction or the authority of the Peace Corps with respect to a Peace Corps volunteer or the volunteer's property.
+&emsp;Nothing in this section supersedes or otherwise affects the authority of any military commander under title 10 with respect to the person or property of any decedent who died while under a military command or jurisdiction or the authority of the Peace Corps withrespect to a Peace Corps volunteer or the volunteer's property.
 
 #### (b) Disposition of estates by the Secretary of State
 

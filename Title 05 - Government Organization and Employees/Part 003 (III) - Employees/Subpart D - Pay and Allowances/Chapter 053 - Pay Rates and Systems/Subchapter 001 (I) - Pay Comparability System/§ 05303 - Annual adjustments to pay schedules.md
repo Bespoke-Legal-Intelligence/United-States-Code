@@ -106,9 +106,17 @@ Section 529 \[title I, §101(e)\] of Pub. L. 101–509 provided that: “It is t
 
 #### Federal Employee Pay Adjustments
 
-Pub. L. 110–329, div. A, §142, Sept. 30, 2008, 122 Stat. 3580, provided that:
+2009—Pub. L. 111–117, div. C, title VII, §744, Dec. 16, 2009, 123 Stat. 3219, provided that:
 
-“(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2009 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 3.9 percent, and this adjustment shall apply to civilian employees in the Department of Homeland Security. Such adjustment shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2009.
+“(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2010 under section 5303 of title 5, United States Code, shall be an increase of 1.5 percent, and the overall average percentage of the adjustments taking effect in such fiscal year under sections 5304–5304a of such title 5 shall be an increase of 0.5 percent (with comparability payments to be determined and allocated among pay localities by the President). Adjustments under the preceding sentence shall also apply to civilian employees in the Department of Homeland Security and in the Department of Defense. All adjustments under this subsection shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2010.
+
+“(b) Notwithstanding section 710 \[Pub. L. 111–117, 5 U.S.C. 5343 note\], the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2010 under sections 5344 and 5348 of title 5, United States Code, shall be no less than the percentages in subsection (a) as employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under section 5303 and 5304–5304a of title 5, United States Code. Prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and 5304–5304a of such title 5 and prevailing rate employees described in section 5343(a)(5) of such title 5 shall be considered to be located in the pay locality designated as ‘Rest of U.S.’ pursuant to section 5304 of such title 5 for purposes of this subsection.
+
+“(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicable department or agency for salaries and expenses for fiscal year 2010.”
+
+2008—Pub. L. 110–329, div. A, §142, Sept. 30, 2008, 122 Stat. 3580, as amended by Pub. L. 111–8, div. D, title VII, §738(a), Mar. 11, 2009, 123 Stat. 691, provided that:
+
+“(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2009 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 3.9 percent, and this adjustment shall apply to civilian employees in the Department of Homeland Security andshall apply to civilian employees in the Department of Defense who are represented by a labor organization as defined in section 7103(a)(4) of title 5, United States Code. Such adjustment shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2009.
 
 “(b) The adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2009 under sections 5344 and 5348 of title 5, United States Code, shall be no less than the percentage in subsection (a) as employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under section 5303 and 5304 of such title 5. Prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and 5304 of such title 5 and prevailing rate employees described in section 5343(a)(5) of such title 5 shall be considered to be located in the pay locality designated as ‘Rest of US’ pursuant to section 5304 of such title 5 for purposes of this subsection.
 
@@ -116,7 +124,9 @@ Pub. L. 110–329, div. A, §142, Sept. 30, 2008, 122 Stat. 3580, provided that:
 
 “(d) The provisions of this section shall apply notwithstanding any other provision of this joint resolution \[div. A of Pub. L. 110–329, amending section 17013 of Title 42, The Public Health and Welfare, and provisions set out in a note under section 1701 of Title 50, War and National Defense\].”
 
-Pub. L. 110–161, div. D, title VII, §740, Dec. 26, 2007, 121 Stat. 2031, provided that:
+\[Pub. L. 111–8, div. D, title VII, §738(b), Mar. 11, 2009, 123 Stat. 691, provided that: “The amendment made by subsection (a) \[amending section 142 of Pub. L. 110–329, set out above\] shall take effect as if included in the enactment of the Consolidated Security, Disaster Assistance, and Continuing Appropriations Act, 2009 \[Pub. L. 110–329\].”\]
+
+2007—Pub. L. 110–161, div. D, title VII, §740, Dec. 26, 2007, 121 Stat. 2031, provided that:
 
 “(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2008 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 3.5 percent, and this adjustment shall apply to civilian employees in the Department of Homeland Security and shall apply to civilian employees in the Department of Defense who are represented by a labor organization as defined in 5 U.S.C. 7103(a)(4), and such adjustments shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2008. Civilian employees in the Department of Defense who are eligible to be represented by a labor organization as defined in 5 U.S.C. 7103(a)(4), but are not so represented, will receive the adjustment provided for in this section unless the positions are entitled to a pay adjustment under 5 U.S.C. 9902.
 
@@ -124,7 +134,7 @@ Pub. L. 110–161, div. D, title VII, §740, Dec. 26, 2007, 121 Stat. 2031, prov
 
 “(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicable department or agency for salaries and expenses for fiscal year 2008.”
 
-Pub. L. 109–115, div. A, title VIII, §843, Nov. 30, 2005, 119 Stat. 2506, provided that:
+2005—Pub. L. 109–115, div. A, title VIII, §843, Nov. 30, 2005, 119 Stat. 2506, provided that:
 
 “(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2006 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 3.1 percent, and this adjustment shall apply to civilian employees in the Department of Defense and the Department of Homeland Security and such adjustments shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2006.
 
@@ -132,7 +142,7 @@ Pub. L. 109–115, div. A, title VIII, §843, Nov. 30, 2005, 119 Stat. 2506, pro
 
 “(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicable department or agency for salaries and expenses for fiscal year 2006.”
 
-Pub. L. 108–447, div. H, title VI, §640, Dec. 8, 2004, 118 Stat. 3282, provided that:
+2004—Pub. L. 108–447, div. H, title VI, §640, Dec. 8, 2004, 118 Stat. 3282, provided that:
 
 “(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2005 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 3.5 percent, and this adjustment shall apply to civilian employees in the Department of Defense and the Department of Homeland Security and such adjustments shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2005.
 
@@ -144,13 +154,13 @@ Pub. L. 108–199, div. F, title VI, §640, Jan. 23, 2004, 118 Stat. 359, provid
 
 “(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2004 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 4.1 percent, and this adjustment shall apply to civilian employees in the Department of Defense and the Department of Homeland Security and such adjustments shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2004.
 
-“(b) Notwithstanding section 613 of this Act \[div. F of Pub. L. 108–199, 5 U.S.C. 5343 note\], the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2004 under sections 5344 and 5348 of title 5, United States Code, shall be no less than the percentage in paragraph (a) as employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under section 5303 and 5304 of title 5, United States Code. Prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and 5304 of title 5 and prevailing rate employees described in section 5343(a)(5) of title 5 shall be considered to be located in the pay locality designated as ‘Rest of US’ pursuant to section 5304 of title 5 for purposes of this paragraph.
+“(b) Notwithstanding section 613 of this Act \[div. F of Pub. L. 108–199, 5 U.S.C. 5343 note\], the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2004 under sections 5344 and 5348 of title 5, United States Code, shall be no less than the percentage in paragraph (a) as employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under section 5303 and 5304 of title 5, United States Code. Prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and5304 of title 5 and prevailing rate employees described in section 5343(a)(5) of title 5 shall be considered to be located in the pay locality designated as ‘Rest of US’ pursuant to section 5304 of title 5 for purposes of this paragraph.
 
 “(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicable department or agency for salaries and expenses for fiscal year 2004.”
 
-Pub. L. 108–7, div. J, title VI, §637, Feb. 20, 2003, 117 Stat. 472, provided that:
+2003—Pub. L. 108–7, div. J, title VI, §637, Feb. 20, 2003, 117 Stat. 472, provided that:
 
-“(a) The adjustment in rates of basic pay for the statutory pay systems that takes effect in fiscal year 2003under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 4.1 percent and shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2003.
+“(a) The adjustment in rates of basic pay for the statutory pay systems that takes effect in fiscal year 2003 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 4.1 percent and shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2003.
 
 “(b) Funds used to carry out this section shall be paid from appropriations which are made to each applicable department or agency for salaries and expenses for fiscal year 2003.”
 
@@ -306,7 +316,7 @@ Pub. L. 101–136, title VI, §619, Nov. 3, 1989, 103 Stat. 820, provided that:
 
 1988—Pub. L. 100–440, title VI, §620, Sept. 22, 1988, 102 Stat. 1756, provided that:
 
-“(a)(1) Notwithstanding any other provision of law, in the case of fiscal year 1989, the overall percentage ofthe adjustment under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule, and in the rates of pay under the other statutory pay systems (as defined by section 5301(c) of such title), shall be an increase of 4.1 percent.
+“(a)(1) Notwithstanding any other provision of law, in the case of fiscal year 1989, the overall percentage of the adjustment under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule, and in the rates of pay under the other statutory pay systems (as defined by section 5301(c) of such title), shall be an increase of 4.1 percent.
 
 “(2) Each increase in a pay rate or schedule which takes effect pursuant to paragraph (1) shall, to the maximum extent practicable, be of the same percentage, and shall take effect as of the first day of the first applicable pay period commencing on or after January 1, 1989.
 
@@ -372,7 +382,7 @@ Pub. L. 99–272, title XV, §15201(a), Apr. 7, 1986, 100 Stat. 332, provided th
 
 “(1) The rates of pay under the General Schedule and the rates of pay under the other statutory pay systems referred to in section 5301(c) of title 5, United States Code, shall not be adjusted under section 5305 of such title during fiscal year 1986.
 
-“(2)(A)(i) For fiscal years 1987 and 1988, the President shall provide for the adjustment of rates of pay under section 5305 of title 5, United States Code, as appropriate to reduce outlays, relating to pay of officers and employees of the Federal Government, by at least $746,000,000 in fiscal year 1987 and $1,264,000,000 in fiscal year 1988 (without regard to reductions in outlays which result by reason of subparagraph (B)(ii) of this paragraph, paragraph (1) of this subsection, subsection (b) of this section, and the application of section 1009 of title 37, United States Code), computed using the baseline used for the First Concurrent Resolution on the Budget for Fiscal Year 1986 (S. Con. Res. 32, 99th Congress), agreed to on August 1, 1985.
+“(2)(A)(i) For fiscal years 1987 and 1988, the President shall provide for the adjustment of rates of pay undersection 5305 of title 5, United States Code, as appropriate to reduce outlays, relating to pay of officers and employees of the Federal Government, by at least $746,000,000 in fiscal year 1987 and $1,264,000,000 in fiscal year 1988 (without regard to reductions in outlays which result by reason of subparagraph (B)(ii) of this paragraph, paragraph (1) of this subsection, subsection (b) of this section, and the application of section 1009 of title 37, United States Code), computed using the baseline used for the First Concurrent Resolution on the Budget for Fiscal Year 1986 (S. Con. Res. 32, 99th Congress), agreed to on August 1, 1985.
 
 “(ii) Clause (i) of this subparagraph shall not be construed to suspend the requirements of section 5305 of title 5, United States Code, with respect to fiscal years 1987 and 1988.
 
@@ -428,7 +438,7 @@ Section 3(c) of Pub. L. 91–656 provided that: “The President may make the in
 
 &emsp;“(1) effective on the first day of the first pay period beginning on or after July 1, 1968, adjust the rates of basic pay, basic compensation, and salary, as in effect by reason of the enactment of the provisions of this title \[see Short Title note under section 5332 of this title\] other than this section and sections 205, 210, 213, 214, 215, and 219—
 
-&emsp;&emsp;“(A) by amounts equal, as nearly as may be practicable, to one-half of the amounts by which such rates are exceeded by rates of pay paid for the same levels of work in private enterprise as determined on the basis of the 1967 annual survey conducted by the Bureau of Labor Statistics in accordance with the provisions of section 5302 of title 5, United States Code, or
+&emsp;&emsp;“(A) by amounts equal, as nearly as may be practicable, to one-half of the amounts by which such rates are exceeded by rates of pay paid for the samelevels of work in private enterprise as determined on the basis of the 1967 annual survey conducted by the Bureau of Labor Statistics in accordance with the provisions of section 5302 of title 5, United States Code, or
 
 &emsp;&emsp;“(B) by 3 per centum,
 

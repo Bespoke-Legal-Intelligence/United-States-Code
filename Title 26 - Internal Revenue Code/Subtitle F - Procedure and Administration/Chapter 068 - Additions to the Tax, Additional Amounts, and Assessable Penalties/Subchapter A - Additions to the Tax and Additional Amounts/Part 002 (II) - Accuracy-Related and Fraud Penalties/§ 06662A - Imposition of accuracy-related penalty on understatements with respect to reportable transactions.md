@@ -18,7 +18,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the highest rate of tax imposed by section 1 (section 11 in the case of a taxpayer which is a corporation), and
 
-&emsp;&emsp;(B) the amount of the decrease (if any) in the aggregate amount of credits determined under subtitle A which results from a difference between the taxpayer's treatment of an item to which this section applies (as shown on the taxpayer's return of tax) and the proper tax treatment of such item.
+&emsp;&emsp;(B) the amount of the decrease (if any) in the aggregate amount of credits determinedunder subtitle A which results from a difference between the taxpayer's treatment of an item to which this section applies (as shown on the taxpayer's return of tax) and the proper tax treatment of such item.
 
 > &emsp;For purposes of subparagraph (A), any reduction of the excess of deductions allowed for the taxable year over gross income for such year, and any reduction in the amount of capital losses which would (without regard to section 1211) be allowed for such year, shall be treated as an increase in taxable income.
 
@@ -46,7 +46,7 @@ For purposes of this section, the terms “reportable transaction” and “list
 
 &emsp;&emsp;(A) the amount of such understatement (determined without regard to this paragraph) shall be increased by the aggregate amount of reportable transaction understatements for purposes of determining whether such understatement is a substantial understatement under section 6662(d)(1), and
 
-&emsp;&emsp;(B) the addition to tax under section 6662(a) shall apply only to the excess of theamount of the substantial understatement (if any) after the application of subparagraph (A) over the aggregate amount of reportable transaction understatements.
+&emsp;&emsp;(B) the addition to tax under section 6662(a) shall apply only to the excess of the amount of the substantial understatement (if any) after the application of subparagraph (A) over the aggregate amount of reportable transaction understatements.
 
 #### (2) Coordination with other penalties
 

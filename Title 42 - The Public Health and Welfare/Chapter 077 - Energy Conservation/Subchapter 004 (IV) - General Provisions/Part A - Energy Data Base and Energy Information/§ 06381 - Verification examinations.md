@@ -16,7 +16,7 @@ The Comptroller General may conduct verification examinations with respect to th
 
 #### (b) Request for examination
 
-The Comptroller General shall conduct verification examinations of any person or company described in subsection (a) of this section, if requested to do so by any duly established committee of the Congress having legislative or oversight responsibilities under the rules of the House of Representatives or of the Senate, with respect to energy matters or any of the laws administered by the Department of the Interior (or the Secretary thereof), the Federal Energy Regulatory Commission, or the Secretary.
+The Comptroller General shall conduct verification examinations of any person or company described in subsection (a) of this section, if requested to do so by any duly established committee of the Congress having legislative or oversight responsibilities under the rules of theHouse of Representatives or of the Senate, with respect to energy matters or any of the laws administered by the Department of the Interior (or the Secretary thereof), the Federal Energy Regulatory Commission, or the Secretary.
 
 #### (c) Definitions
 
@@ -38,5 +38,5 @@ For the purposes of this subchapter—
 
 #### Transfer of Functions
 
-“Secretary, the Department of the Interior, or the Federal Energy Regulatory Commission” and “Secretary” substituted for “Federal Energy Administration, the Department of the Interior, or the FederalPower Commission” and “Administration”, respectively, in subsec. (a)(1), and “Federal Energy Regulatory Commission, or the Secretary” substituted for “Federal Power Commission, or the Federal Energy Administration (or the Administrator)” in subsec. (b) pursuant to sections 301, 402, 703, and 707 of Pub. L. 95–91, which are classified to sections 7151, 7172, 7293, and 7297 of this title and which terminated Federal Energy Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy and terminated Federal Power Commission and transferred its functions to Federal Energy Regulatory Commission and Secretary of Energy.
+“Secretary, the Department of the Interior, or the Federal Energy Regulatory Commission” and “Secretary” substituted for “Federal Energy Administration, the Department of the Interior, or the Federal Power Commission” and “Administration”, respectively, in subsec. (a)(1), and “Federal Energy Regulatory Commission, or the Secretary” substituted for “Federal Power Commission, or the Federal Energy Administration (or the Administrator)” in subsec. (b) pursuant to sections 301, 402, 703, and 707 of Pub. L. 95–91, which are classified to sections 7151, 7172, 7293, and 7297 of this title and which terminated Federal Energy Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy and terminated Federal Power Commission and transferred its functions to Federal Energy Regulatory Commission and Secretary of Energy.
 

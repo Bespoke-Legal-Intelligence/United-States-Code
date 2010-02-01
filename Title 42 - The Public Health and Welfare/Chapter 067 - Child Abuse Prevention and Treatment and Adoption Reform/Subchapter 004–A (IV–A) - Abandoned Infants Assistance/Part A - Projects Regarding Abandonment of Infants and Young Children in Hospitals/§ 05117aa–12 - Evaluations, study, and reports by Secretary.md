@@ -10,7 +10,7 @@ The Secretary shall, directly or through contracts with public and nonprofit pri
 
 &emsp;The Secretary shall conduct a study for the purpose of determining—
 
-&emsp;&emsp;(A) an estimate of the annual number of infants and young children relinquished, abandoned, or found deceased in the United States and the number of such infants and young children who are infants and young children described in section 5117aa–11(b) of this title;
+&emsp;&emsp;(A) an estimate of the annual number of infants and young children relinquished, abandoned, or found deceased in the UnitedStates and the number of such infants and young children who are infants and young children described in section 5117aa–11(b) of this title;
 
 &emsp;&emsp;(B) an estimate of the annual number of infants and young children who are victims of homicide;
 

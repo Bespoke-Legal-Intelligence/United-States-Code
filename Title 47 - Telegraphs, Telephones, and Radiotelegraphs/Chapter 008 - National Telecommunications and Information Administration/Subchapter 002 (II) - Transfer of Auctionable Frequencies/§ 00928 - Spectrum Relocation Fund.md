@@ -42,11 +42,9 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 &emsp;&emsp;(i) such subsequent transfers are subject to prior approval by the Director of OMB as required by subsection (d)(2)(A) of this section;
 
-&emsp;&emsp;(ii) the notice to the committees containing the plan required by subsection (d)(2)(B) of this section shall be not less than 45 days prior to the date of the transfer that causes such excess above 10 percent;
+&emsp;&emsp;(ii) the notice to the committees containing the plan required by subsection (d)(2)(B) of this section shall be not less than 45 days prior to the date of the transfer that causes such excess above 10 percent; and
 
-&emsp;&emsp;(iii) such notice shall include, in addition to such plan, an explanation of need for such subsequent transfer or transfers; and
-
-&emsp;&emsp;(iv) the Comptroller General shall, within 30 days after receiving such plan, review such plan and submit to such committees an assessment of the explanation for the subsequent transfer or transfers.
+&emsp;&emsp;(iii) such notice shall include, in addition to such plan, an explanation of need for such subsequent transfer or transfers.
 
 &emsp;(C) Such transferred amounts shall be credited to the appropriations account of the eligible Federal entity which has incurred, or will incur, such costs, and shall, subject to paragraph (2), remain available until expended.
 
@@ -54,7 +52,11 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 &emsp;An eligible Federal entity that has received such amounts shall report its expenditures to OMB and shall transfer any amounts in excess of actual relocation costs back to the Fund immediately after the NTIA has notified the Commission that the entity's relocation is complete, or has determined that such entity has unreasonably failed to complete such relocation in accordance with the timeline required by subsection (d)(2)(A) of this section.
 
-(Pub. L. 102–538, title I, §118, as added Pub. L. 108–494, title II, §204, Dec. 23, 2004, 118 Stat. 3994.)
+(Pub. L. 102–538, title I, §118, as added Pub. L. 108–494, title II, §204, Dec. 23, 2004, 118 Stat. 3994; amended Pub. L. 111–8, div. G, title I, §1301(a), Mar. 11, 2009, 123 Stat. 829.)
+
+#### Amendments
+
+2009—Subsec. (e)(1)(B)(ii) to (iv). Pub. L. 111–8 inserted “and” after semicolon in cl. (ii), substituted period for “; and” in cl. (iii), and struck out cl. (iv) which read as follows: “the Comptroller General shall, within 30 days after receiving such plan, review such plan and submit to such committees an assessment of the explanation for the subsequent transfer or transfers.”
 
 #### Annual Report
 

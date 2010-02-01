@@ -78,7 +78,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;&emsp;(i) $30,000,000 for such fiscal year shall be available to eligible institutions described in subsection (a)(3) and shall be made available as grants under section 1059c of this title, treating such $30,000,000 as part of the amount appropriated for such fiscal year in a regular or supplemental appropriation Act to carry out such section, and using such $30,000,000 for purposes described in subsection (c) of such section;
 
-&emsp;&emsp;&emsp;(ii) $15,000,000 for such fiscal year shall be available to eligible institutions described in subsection (a)(4) and shall be made available as grants under section 1059d of this title, treating such $15,000,000 as part of the amount appropriated for such fiscal year in a regular or supplemental appropriation Act to carry out such section and using such $15,000,000 for purposes described in subsection (c) of such section;
+&emsp;&emsp;&emsp;(ii) $15,000,000 for such fiscal year shall be available to eligible institutions described in subsection (a)(4) and shall be made available as grants under section 1059d of this title, treating such $15,000,000 as part of the amount appropriated for such fiscal year in a regular or supplemental appropriation Act to carry outsuch section and using such $15,000,000 for purposes described in subsection (c) of such section;
 
 &emsp;&emsp;&emsp;(iii) $5,000,000 for such fiscal year shall be available to eligible institutions described in subsection (a)(6) for activities described in section 1057(c) of this title; and
 
@@ -128,15 +128,15 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;(C) attended a public or nonprofit private secondary school—
 
-&emsp;&emsp;&emsp;(i) that is in the school district of a local educational agency that was eligible for assistance under part A of title I of theElementary and Secondary Education Act of 1965 \[20 U.S.C. 6311 et seq.\] for any year during which the student attended such secondary school; and
+&emsp;&emsp;&emsp;(i) that is in the school district of a local educational agency that was eligible for assistance under part A of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311 et seq.\] for any year during which the student attended such secondary school; and
 
 &emsp;&emsp;&emsp;(ii) which for the purpose of this paragraph and for that year was determined by the Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which the school is located) to be a school in which the enrollment of children counted under a measure of poverty described in section 1113(a)(5) of such Act \[20 U.S.C. 6313(a)(5)\] exceeds 30 percent of the total enrollment of such school; or
 
-&emsp;&emsp;(D) are first-generation college students (as that term is defined in section 1070a–11(g) of this title), and a majority of such first-generation college students are low-income individuals.
+&emsp;&emsp;(D) are first-generation college students (as that term is defined in section 1070a–11(h) of this title), and a majority of such first-generation college students are low-income individuals.
 
 #### (4) Low-income individual
 
-&emsp;The term “low-income individual” has the meaning given such term in section 1070a–11(g) of this title.
+&emsp;The term “low-income individual” has the meaning given such term in section 1070a–11(h) of this title.
 
 #### (5) Means-tested Federal benefit program
 
@@ -176,7 +176,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;&emsp;(ii) that is at least 1,000 undergraduate students;
 
-&emsp;&emsp;&emsp;(iii) of which not less than 50 percent of the undergraduate students enrolled at the institution are low-income individuals or first-generation college students (as that term is defined in section 1070a–11(g) of this title); and
+&emsp;&emsp;&emsp;(iii) of which not less than 50 percent of the undergraduate students enrolled at the institution are low-income individuals or first-generation college students (as that term is defined in section 1070a–11(h) of this title); and
 
 &emsp;&emsp;&emsp;(iv) of which not less than 50 percent of the undergraduate students are enrolled in an educational program leading to a bachelor's or associate's degree that the institution is licensed to award by the State in which the institution is located;
 
@@ -184,13 +184,21 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;(E) is accredited by a nationally recognized accrediting agency or association determined by the Secretary to be a reliable authority as to the quality of training offered, or is, according to such an agency or association, making reasonable progress toward accreditation; and
 
-&emsp;&emsp;(F) is not receiving assistance under part B of this subchapter.
+&emsp;&emsp;(F) is not receiving assistance under—
 
-(Pub. L. 89–329, title III, §371, formerly title IV, §499A, as added Pub. L. 110–84, title VIII, §802, Sept. 27, 2007, 121 Stat. 817; renumbered title III, §371, and amended Pub. L. 110–315, title III, §316(a)(3), (b), (c), Aug. 14, 2008, 122 Stat. 3185.)
+&emsp;&emsp;&emsp;(i) part B;
+
+&emsp;&emsp;&emsp;(ii) part A of subchapter V; or
+
+&emsp;&emsp;&emsp;(iii) an annual authorization of appropriations under the Act of March 2, 1867 (14 Stat. 438; 20 U.S.C. 123).
+
+(Pub. L. 89–329, title III, §371, formerly title IV, §499A, as added Pub. L. 110–84, title VIII, §802, Sept. 27, 2007, 121 Stat. 817; renumbered title III, §371, and amended Pub. L. 110–315, title III, §316(a)(3), (b), (c), Aug. 14, 2008, 122 Stat. 3185; Pub. L. 111–39, title III, §301(7), July 1, 2009, 123 Stat. 1937.)
 
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(3)(C)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+
+The Act of March 2, 1867, referred to in subsec. (c)(9)(F)(iii), is act Mar. 2, 1867, ch. 162, 14 Stat. 438. Provisions relating to authorization of appropriations are contained in section 8 of the Act, which is classified to section 123 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -198,11 +206,19 @@ Section was formerly classified to section 1099e of this title prior to renumber
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–315, §316(c), amended par. (1) generally. Prior to amendment, text read as follows: “There shall be available to the Secretary tocarry out this section, from funds not otherwise appropriated, $255,000,000 for each of the fiscal years 2008 and 2009. The authority to award grants under this section shall expire at the end of fiscal year 2009.”
+2009—Subsec. (c)(3)(D), (4), (9)(C)(iii). Pub. L. 111–39, §301(7)(A)–(C)(i), substituted “1070a–11(h)” for “1070a–11(g)”.
+
+Subsec. (c)(9)(F). Pub. L. 111–39, §301(7)(C)(ii), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “is not receiving assistance under part B of this subchapter.”
+
+2008—Subsec. (b)(1). Pub. L. 110–315, §316(c), amended par. (1) generally. Prior to amendment, text read as follows: “There shall be available to the Secretary to carry out this section, from funds not otherwise appropriated, $255,000,000 for each of the fiscal years 2008 and 2009. The authority to award grants under this section shall expire at the end of fiscal year 2009.”
 
 Subsec. (b)(2)(C)(i). Pub. L. 110–315, §316(b)(1), substituted “this subchapter” for “subchapter III” in two places.
 
 Subsec. (c)(9)(F). Pub. L. 110–315, §316(b)(2), substituted “this subchapter” for “subchapter III”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date
 

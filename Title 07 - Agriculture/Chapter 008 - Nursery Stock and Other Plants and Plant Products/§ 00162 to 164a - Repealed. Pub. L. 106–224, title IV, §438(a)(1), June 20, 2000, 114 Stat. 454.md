@@ -1,4 +1,4 @@
-### §162 to 164a. Repealed. Pub. L. 106–224, title IV, §438(a)(1), June 20, 2000, 114 Stat. 454
+### §§162 to 164a. Repealed. Pub. L. 106–224, title IV, §438(a)(1), June 20, 2000, 114 Stat. 454
 
 Section 162, act Aug. 20, 1912, ch. 308, §9, 37 Stat. 318, authorized rules and regulations as necessary for carrying out the purposes of this chapter.
 

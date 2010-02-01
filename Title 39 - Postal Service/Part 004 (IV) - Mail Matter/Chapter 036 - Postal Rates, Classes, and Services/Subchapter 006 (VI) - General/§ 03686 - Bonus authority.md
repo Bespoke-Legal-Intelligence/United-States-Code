@@ -18,7 +18,7 @@ Approval process.—If the Postal Service wishes to have the authority, under an
 
 &emsp;&emsp;(A) the Postal Service shall make an appropriate request to the Board of Governors of the Postal Service in such form and manner as the Board requires; and
 
-&emsp;&emsp;(B) the Board of Governors shall approve any such request if the Board certifies, forthe annual appraisal period involved, that the performance appraisal system for affected officers and employees of the Postal Service (as designed and applied) makes meaningful distinctions based on relative performance.
+&emsp;&emsp;(B) the Board of Governors shall approve any such request if the Board certifies, for the annual appraisal period involved, that the performance appraisal system for affected officers and employees of the Postal Service (as designed and applied) makes meaningful distinctions based on relative performance.
 
 &emsp;(3)
 

@@ -54,7 +54,7 @@
 
 (c) The Secretary shall ensure that each primary care health care facility of the Department develops and carries out a plan to provide mental health services, either through referral or direct provision of services, to veterans who require such services.
 
-(Added Pub. L. 104–262, title I, §104(a)(1), Oct. 9, 1996, 110 Stat. 3183; amended Pub. L. 105–368, title IX, §903(a), title X, §1005(b)(2), Nov. 11, 1998, 112 Stat. 3360, 3365; Pub. L. 107–95, §8(a), Dec. 21, 2001, 115 Stat. 919; Pub. L. 107–135, title II, §203, Jan. 23, 2002, 115 Stat. 2458; Pub. L. 109–461, title II, §208(a), Dec. 22, 2006, 120 Stat. 3413.)
+(Added Pub. L. 104–262, title I, §104(a)(1), Oct. 9, 1996, 110 Stat. 3183; amended Pub. L. 105–368, titleIX, §903(a), title X, §1005(b)(2), Nov. 11, 1998, 112 Stat. 3360, 3365; Pub. L. 107–95, §8(a), Dec. 21, 2001, 115 Stat. 919; Pub. L. 107–135, title II, §203, Jan. 23, 2002, 115 Stat. 2458; Pub. L. 109–461, title II, §208(a), Dec. 22, 2006, 120 Stat. 3413.)
 
 #### Amendments
 

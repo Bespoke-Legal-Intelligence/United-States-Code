@@ -12,7 +12,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 &emsp;&emsp;(B) in the case of cervical cancer, both a pelvic examination and the screening procedure known as a pap smear are conducted;
 
-&emsp;(3) to ensure that, by the end of any second fiscal year of payments pursuant to the grant, each of the services or activities described in section 300k(a) of this title is provided; and
+&emsp;(3) to ensure that, by the end of any second fiscal year of payments pursuant to the grant,each of the services or activities described in section 300k(a) of this title is provided; and
 
 &emsp;(4) to ensure that not more than 40 percent of the grant is expended to provide the services or activities described in paragraphs (3) through (6) of such section.
 
@@ -44,7 +44,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 &emsp;&emsp;&emsp;(i) assurances, satisfactory to the Secretary, that the State will maintain the average annual level of State fiscal year expenditures for the services and activities described in paragraphs (1) and (2) of section 300k(a) of this title for the period for which the waiver is granted, and for the period for which any extension of such wavier is granted, at a level that is not less than—
 
-&emsp;&emsp;&emsp;&emsp;(I) the level of the State fiscal year expenditures for such services and activities for the fiscal year preceding the firstfiscal year for which the waiver is granted; or
+&emsp;&emsp;&emsp;&emsp;(I) the level of the State fiscal year expenditures for such services and activities for the fiscal year preceding the first fiscal year for which the waiver is granted; or
 
 &emsp;&emsp;&emsp;&emsp;(II) at the option of the State and upon approval by the Secretary, the average level of the State expenditures for such services and activities for the 3-fiscal year period preceding the first fiscal year for which the waiver is granted; and
 
@@ -120,7 +120,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 #### (C) State
 
-&emsp;&emsp;The term “State” means each of the several States of the United States, the Districtof Columbia, the Commonwealth of Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, the Republic of Palau, an Indian tribe, and a tribal organization.
+&emsp;&emsp;The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, the Republic of Palau, an Indian tribe, and a tribal organization.
 
 #### (6) Sunset
 

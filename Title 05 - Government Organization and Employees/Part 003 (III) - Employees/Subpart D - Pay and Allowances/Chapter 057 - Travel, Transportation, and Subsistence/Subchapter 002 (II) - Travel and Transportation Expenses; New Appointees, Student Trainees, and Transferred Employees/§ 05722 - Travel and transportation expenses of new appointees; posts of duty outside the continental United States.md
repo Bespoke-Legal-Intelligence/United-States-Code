@@ -72,5 +72,5 @@ Section 1725(b) of title XVII of div. A of Pub. L. 104–201 provided that: “T
 
 #### Assessment of Cost Savings
 
-Section 1724 of title XVII of div. A of Pub. L. 104–201 directed Comptroller General, not later than one yearafter the effective date set forth in section 1725(a) of Pub. L. 104–201, to submit to Congress an assessment of costs of Federal travel administration that were saved as a result of the amendments made by title XVII of div. A of Pub. L. 104–201 and the regulations prescribed to carry out the amendments.
+Section 1724 of title XVII of div. A of Pub. L. 104–201 directed Comptroller General, not later than one year after the effective date set forth in section 1725(a) of Pub. L. 104–201, to submit to Congress an assessment of costs of Federal travel administration that were saved as a result of the amendments made by title XVII of div. A of Pub. L. 104–201 and the regulations prescribed to carry out the amendments.
 

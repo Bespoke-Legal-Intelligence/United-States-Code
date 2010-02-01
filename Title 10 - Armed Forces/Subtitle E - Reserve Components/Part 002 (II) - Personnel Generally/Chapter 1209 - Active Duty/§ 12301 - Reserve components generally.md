@@ -66,7 +66,7 @@ July 9, 1952, ch. 608, §§233 (less (b) and (f)), 234 (1st sentence), 66 Stat. 
 
 50:961(e).
 
-In subsection (a), the word “hereafter” is omitted as surplusage. The words “there are not enough \* \* \* who are” are substituted for the words “adequate numbers of \* \* \* are not”. The words “without the consent of the persons affected” and “under the jurisdiction of that Secretary” are inserted for clarity. The words “and the members thereof” are omitted as surplusage.
+In subsection (a), the word “hereafter” is omitted as surplusage. The words “there are not enough who are” are substituted for the words “adequate numbers of are not”. The words “without the consent of the persons affected” and “under the jurisdiction of that Secretary” are inserted for clarity. The words “and the members thereof” are omitted as surplusage.
 
 In subsection (b), the words “without the consent of the persons affected” are substituted for the words “without his consent”, since units as well as individuals are covered by the revised subsection. The words “and the members thereof”, “and required to perform”, “or required to serve on”, and “in the service of the United States” are omitted as surplusage.
 
@@ -156,7 +156,7 @@ Pub. L. 110–181, div. A, title V, §515, Jan. 28, 2008, 122 Stat. 99, provided
 
 “(a)
 
-Advance Notice Required.—The Secretary of a military department shall ensure that a member of a reserve component under the jurisdiction of that Secretary who will be called or ordered to active duty for a period of more than 30 days in support of a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) receives notice in advance of the mobilization date. In so far as is practicable, the notice shall be provided not less than 30 days before the mobilization date, but with a goal of 90 days before the mobilization date.
+Advance Notice Required.—The Secretary of a military department shall ensure that a member of a reserve component under the jurisdiction of that Secretary who will be called or ordered to active duty fora period of more than 30 days in support of a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) receives notice in advance of the mobilization date. In so far as is practicable, the notice shall be provided not less than 30 days before the mobilization date, but with a goal of 90 days before the mobilization date.
 
 “(b)
 

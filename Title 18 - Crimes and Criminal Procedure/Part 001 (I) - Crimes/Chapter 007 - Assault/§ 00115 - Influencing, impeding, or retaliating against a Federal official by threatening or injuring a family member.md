@@ -8,7 +8,7 @@
 
 > with intent to impede, intimidate, or interfere with such official, judge, or law enforcement officer while engaged in the performance of official duties, or with intent to retaliate against such official, judge, or law enforcement officer on account of the performance of official duties, shall be punished as provided in subsection (b).
 
-(2) Whoever assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder, or threatens to assault, kidnap, or murder, any person who formerly served as a person designated in paragraph (1), or a member of the immediate family of any person who formerly served as a person designated in paragraph (1), with intent to retaliate against such person on account of the performance of official duties during the term of service of such person, shall be punished as provided in subsection (b).
+(2) Whoever assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder, or threatens to assault, kidnap, or murder, any person who formerly served as a person designated in paragraph (1), or a member of the immediate family of any person who formerly served as a person designated in paragraph (1), with intent to retaliate against such person on account of the performance of official dutiesduring the term of service of such person, shall be punished as provided in subsection (b).
 
 (b)(1) The punishment for an assault in violation of this section is—
 

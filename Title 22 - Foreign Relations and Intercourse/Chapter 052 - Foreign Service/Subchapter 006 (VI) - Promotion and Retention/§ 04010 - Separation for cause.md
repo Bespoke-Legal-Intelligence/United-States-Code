@@ -4,7 +4,7 @@
 
 (1) The Secretary may decide to separate any member from the Service for such cause as will promote the efficiency of the Service.
 
-(2)(A) Except as provided in subparagraph (B), whenever the Secretary decides under paragraph\(1) to separate, on the basis of misconduct, any member of the Service (other than a United States citizen employed under section 3951 of this title who is not a family member) who either—
+(2)(A) Except as provided in subparagraph (B), whenever the Secretary decides under paragraph (1) to separate, on the basis of misconduct, any member of the Service (other than a United States citizen employed under section 3951 of this title who is not a family member) who either—
 
 &emsp;(i) is serving under a career appointment, or
 
@@ -58,7 +58,7 @@ Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2311(b), Oct. 21, 1998, 112
 
 “(1)
 
-Separation of lowest ranked foreign service members.—Not later than 90 days after the date of enactment of this Act \[Oct. 21, 1998\], the Secretary of State shall develop and implement procedures to identify, and recommend for separation, any member of the Foreign Service ranked by promotion boards of the Department of State in the bottom 5 percent of his or her class for 2 or more of the 5 years preceding the date of enactment of this Act (in this subsection referred to asthe ‘years of lowest ranking’) if the rating official for such member was not the same individual for any two of the years of lowest ranking.
+Separation of lowest ranked foreign service members.—Not later than 90 days after the date of enactment of this Act \[Oct. 21, 1998\], the Secretary of State shall develop and implement procedures to identify, and recommend for separation, any member of the Foreign Service ranked by promotion boards of the Department of State in the bottom 5 percent of his or her class for 2 or more of the 5 years preceding the date of enactment of this Act (in this subsection referred to as the ‘years of lowest ranking’) if the rating official for such member was not the same individual for any two of the years of lowest ranking.
 
 “(2)
 

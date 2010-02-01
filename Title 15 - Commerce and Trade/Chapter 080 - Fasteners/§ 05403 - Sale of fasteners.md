@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-It shall be unlawful for a manufacturer or distributor, in conjunction with the sale or offer for sale of fasteners from a single lot, to knowingly misrepresent or falsify—
+It shall be unlawful for a manufacturer or distributor, in conjunction with the sale or offerfor sale of fasteners from a single lot, to knowingly misrepresent or falsify—
 
 &emsp;(1) the record of conformance for the lot of fasteners;
 

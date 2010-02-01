@@ -16,7 +16,7 @@ For purposes of this section, the term “publicly traded partnership” means a
 
 #### (1) In general
 
-&emsp;Subsection (a) shall not apply to any publicly traded partnership for any taxable year if such partnership met the gross income requirements of paragraph (2) for such taxable year and each preceding taxable year beginning after December 31, 1987, during which the partnership (or any predecessor) was in existence. For purposes of the preceding sentence, a partnership shall not be treated as being in existence during any period before the 1st taxable year in which such partnership (or a predecessor) was a publicly traded partnership.
+&emsp;Subsection (a) shall not apply to any publicly traded partnership for any taxable year ifsuch partnership met the gross income requirements of paragraph (2) for such taxable year and each preceding taxable year beginning after December 31, 1987, during which the partnership (or any predecessor) was in existence. For purposes of the preceding sentence, a partnership shall not be treated as being in existence during any period before the 1st taxable year in which such partnership (or a predecessor) was a publicly traded partnership.
 
 #### (2) Gross income requirements
 
@@ -132,7 +132,7 @@ As of the 1st day that a partnership is treated as a corporation under this sect
 
 &emsp;An election and consent under this subsection shall apply to the taxable year for which made and all subsequent taxable years unless revoked by the partnership. Such revocation may be made without the consent of the Secretary, but, once so revoked, may not be reinstated.
 
-(Added Pub. L. 100–203, title X, §10211(a), Dec. 22, 1987, 101 Stat. 1330–403; amended Pub. L. 100–647,title II, §2004(f)(1), (3)–(5), Nov. 10, 1988, 102 Stat. 3602, 3603; Pub. L. 105–34, title IX, §964(a), Aug. 5, 1997, 111 Stat. 892; Pub. L. 105–206, title VI, §6009(b)(1), July 22, 1998, 112 Stat. 812; Pub. L. 106–170, title V, §532(c)(2)(V)–(Y), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 108–357, title III, §331(e), Oct. 22, 2004, 118 Stat. 1476; Pub. L. 110–343, div. B, title I, §116(a), title II, §208(a), Oct. 3, 2008, 122 Stat. 3831, 3840.)
+(Added Pub. L. 100–203, title X, §10211(a), Dec. 22, 1987, 101 Stat. 1330–403; amended Pub. L. 100–647, title II, §2004(f)(1), (3)–(5), Nov. 10, 1988, 102 Stat. 3602, 3603; Pub. L. 105–34, title IX, §964(a), Aug. 5, 1997, 111 Stat. 892; Pub. L. 105–206, title VI, §6009(b)(1), July 22, 1998, 112 Stat. 812; Pub. L. 106–170, title V, §532(c)(2)(V)–(Y), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 108–357, title III, §331(e), Oct. 22, 2004, 118 Stat. 1476; Pub. L. 110–343, div. B, title I, §116(a), title II, §208(a), Oct. 3, 2008, 122 Stat. 3831, 3840.)
 
 #### References in Text
 
@@ -164,7 +164,7 @@ Subsec. (e)(4). Pub. L. 100–647, §2004(f)(1), inserted “or to pay such amou
 
 Pub. L. 110–343, div. B, title I, §116(b), Oct. 3, 2008, 122 Stat. 3831, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date.”
 
-Pub. L. 110–343, div. B, title II, §208(b), Oct. 3, 2008, 122 Stat. 3840, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date.”
+Pub. L. 110–343, div. B, title II, §208(b), Oct. 3, 2008, 122 Stat. 3840, provided that: “The amendment made by this section \[amending this section\] shall take effect onthe date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date.”
 
 #### Effective Date of 2004 Amendment
 

@@ -6,7 +6,7 @@ No agreements to finance sales or to provide other assistance under this chapter
 
 #### Prior Provisions
 
-Provisions covering the termination date for agreements to finance sales under subchapter II and programs of assistance under subchapter III were coveredby section 1736c of this title prior to amendment of that section by Pub. L. 101–624, and by sections 1709, 1724 of this title prior to the amendment of those sections by Pub. L. 89–808.
+Provisions covering the termination date for agreements to finance sales under subchapter II and programs of assistance under subchapter III were covered by section 1736c of this title prior to amendment of that section by Pub. L. 101–624, and by sections 1709, 1724 of this title prior to the amendment of those sections by Pub. L. 89–808.
 
 #### Amendments
 

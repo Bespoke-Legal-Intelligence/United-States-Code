@@ -14,7 +14,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;&emsp;(B) upon completion of the contract (or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account), the taxpayer shall pay (or shall be entitled to receive) interest computed under the look-back method of paragraph (2).
 
-> &emsp;In the case of any long-term contract with respect to which the percentage of completion method is used, except for purposes of applying the look-back method of paragraph (2), any income under the contract (to the extentnot previously includible in gross income) shall be included in gross income for the taxable year following the taxable year in which the contract was completed. For purposes of subtitle F (other than sections 6654 and 6655), any interest required to be paid by the taxpayer under subparagraph (B) shall be treated as an increase in the tax imposed by this chapter for the taxable year in which the contract is completed (or, in the case of interest payable with respect to any amount properly taken into account after completion of the contract, for the taxable year in which the amount is so properly taken into account).
+> &emsp;In the case of any long-term contract with respect to which the percentage of completion method is used, except for purposes of applying the look-back method of paragraph (2), any income under the contract (to the extent not previously includible in gross income) shall be included in gross income for the taxable year following the taxable year in which the contract was completed. For purposes of subtitle F (other than sections 6654 and 6655), any interest required to be paid by the taxpayer under subparagraph (B) shall be treated as an increase in the tax imposed by this chapter for the taxable year in which the contract is completed (or, in the case of interest payable with respect to any amount properly taken into account after completion of the contract, for the taxable year in which the amount is so properly taken into account).
 
 #### (2) Look-back method
 
@@ -22,7 +22,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;&emsp;(A) first <sup>1</sup> allocating income under the contract among taxable years before the year in which the contract is completed on the basis of the actual contract price and costs instead of the estimated contract price and costs,
 
-&emsp;&emsp;(B) second, determining (solely for purposes of computing such interest) the overpayment or underpayment of tax for each taxable year referred to in subparagraph (A) which would result solely from the application of subparagraph (A), and
+&emsp;&emsp;(B) second, determining (solely for purposes of computing such interest) the overpayment or underpayment of tax for each taxable year referred to in subparagraph (A)which would result solely from the application of subparagraph (A), and
 
 &emsp;&emsp;(C) then using the adjusted overpayment rate (as defined in paragraph (7)), compounded daily, on the overpayment or underpayment determined under subparagraph (B).
 
@@ -98,7 +98,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (iii) Closely held pass-thru entity
 
-&emsp;&emsp;&emsp;The term “closely held pass-thru entity” means any pass-thru entity if, at any time during any taxable year for which there is income under the contract, 50 percent or more (by value) of the beneficial interestsin such entity are held (directly or indirectly) by or for 5 or fewer persons. For purposes of the preceding sentence, rules similar to the constructive ownership rules of section 1563(e) shall apply.
+&emsp;&emsp;&emsp;The term “closely held pass-thru entity” means any pass-thru entity if, at any time during any taxable year for which there is income under the contract, 50 percent or more (by value) of the beneficial interests in such entity are held (directly or indirectly) by or for 5 or fewer persons. For purposes of the preceding sentence, rules similar to the constructive ownership rules of section 1563(e) shall apply.
 
 #### (5) Election to use 10-percent method
 
@@ -194,7 +194,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (2) Costs identified under cost-plus and certain Federal contracts
 
-&emsp;In the case of a cost-plus long-term contract or a Federal long-term contract, any cost notallocated to such contract under paragraph (1) shall be allocated to such contract if such cost is identified by the taxpayer (or a related person), pursuant to the contract or Federal, State, or local law or regulation, as being attributable to such contract.
+&emsp;In the case of a cost-plus long-term contract or a Federal long-term contract, any cost not allocated to such contract under paragraph (1) shall be allocated to such contract if such cost is identified by the taxpayer (or a related person), pursuant to the contract or Federal, State, or local law or regulation, as being attributable to such contract.
 
 #### (3) Allocation of production period interest to contract
 
@@ -290,7 +290,7 @@ For purposes of this section—
 
 #### (4) Construction contract
 
-&emsp;For purposes of this subsection, the term “construction contract” means any contractfor the building, construction, reconstruction, or rehabilitation of, or the installation of any integral component to, or improvements of, real property.
+&emsp;For purposes of this subsection, the term “construction contract” means any contract for the building, construction, reconstruction, or rehabilitation of, or the installation of any integral component to, or improvements of, real property.
 
 #### (5) Special rule for residential construction contracts which are not home construction contracts
 
@@ -486,7 +486,7 @@ Amendment by section 1702(h)(15) of Pub. L. 104–188 effective, except as other
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicableto any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
 #### Effective Date of 1989 Amendment
 

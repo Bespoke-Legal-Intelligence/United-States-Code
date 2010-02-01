@@ -34,3 +34,11 @@ For fiscal year 2009 and on and after December 26, 2007, the National Aeronautic
 
 Section was enacted as part of the Science Appropriations Act, 2008, and also as part of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2008, and the Consolidated Appropriations Act, 2008, and not as part of the National Aeronautics and Space Administration Authorization Act of 2005 which comprises this chapter.
 
+#### Estimates of Receipts and Collections and Proposed Use of Funds From Leases of Non-Excess Property
+
+Pub. L. 111–117, div. B, title III, Dec. 16, 2009, 123 Stat. 3144, provided in part: “That each annual budget request shall include an annual estimate of gross receipts and collections and proposed use of all funds collected pursuant to section 315 of the National Aeronautics and Space Act of 1958 (42 U.S.C. 2459j).”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 111–8, div. B, title III, Mar. 11, 2009, 123 Stat. 589.
+

@@ -18,7 +18,7 @@ Whenever—
 
 (1) No proclamation shall be made pursuant to subsection (a) of this section decreasing any rate of duty to a rate which is less than 70 percent of the existing rate of duty.
 
-(2) Where the rate of duty in effect at any time is an intermediate stage under section 2902(a) of this title, the proclamation made pursuant to subsection (a) of this section may provide for the reduction of each rate of duty at each such stage proclaimed under such section 2902(a) of this title by not more than 30 percent of such rate of duty, and may provide for a final rate of duty which is not less than 70 percent of the rate of duty proclaimed as the final stage under such section 2902(a) of this title.
+(2) Where the rate of duty in effect at any time is an intermediate stage under section 2902(a) of this title, the proclamation made pursuant to subsection (a) of this section may provide for the reduction of each rate of duty at each suchstage proclaimed under such section 2902(a) of this title by not more than 30 percent of such rate of duty, and may provide for a final rate of duty which is not less than 70 percent of the rate of duty proclaimed as the final stage under such section 2902(a) of this title.
 
 (3) If the President determines that such action will simplify the computation of the amount of duty imposed with respect to an article, he may exceed the limitations provided by paragraphs (1) and (2) of this subsection by not more than the lesser of—
 

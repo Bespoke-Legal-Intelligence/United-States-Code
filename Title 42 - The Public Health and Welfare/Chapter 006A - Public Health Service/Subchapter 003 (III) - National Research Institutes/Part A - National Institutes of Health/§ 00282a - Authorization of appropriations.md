@@ -12,7 +12,7 @@ For the purpose of carrying out this subchapter, there are authorized to be appr
 
 #### (b) Office of the Director
 
-Of the amount authorized to be appropriated under subsection (a) for a fiscal year, there are authorized to be appropriated for programs and activities under this subchapter carried out through the Office of the Director of NIH such sums as may be necessary for each of the fiscal years 2007 through 2009.
+Of the amount authorized to be appropriated under subsection (a) for a fiscal year, there areauthorized to be appropriated for programs and activities under this subchapter carried out through the Office of the Director of NIH such sums as may be necessary for each of the fiscal years 2007 through 2009.
 
 #### (c) Trans-NIH research
 
@@ -38,7 +38,7 @@ Of the amount authorized to be appropriated under subsection (a) for a fiscal ye
 
 &emsp;&emsp;&emsp;(i) An estimate of the amounts determined by the Director of NIH to be appropriate for maximizing the potential of such research.
 
-&emsp;&emsp;&emsp;(ii) An estimate of the amounts determined by the Director of NIH to be sufficient only for continuing to fund researchactivities previously identified by the Division of Program Coordination, Planning, and Strategic Initiatives.
+&emsp;&emsp;&emsp;(ii) An estimate of the amounts determined by the Director of NIH to be sufficient only for continuing to fund research activities previously identified by the Division of Program Coordination, Planning, and Strategic Initiatives.
 
 &emsp;&emsp;&emsp;(iii) An estimate of the amounts determined by the Director of NIH to be necessary to fund research described in section 282(b)(7)(A)(i) of this title—
 
@@ -78,7 +78,7 @@ Of the amount authorized to be appropriated under subsection (a) for a fiscal ye
 
 #### (d) Transfer authority
 
-Of the total amount appropriated under subsection (a) for a fiscal year, the Director of NIH may (in addition to the reservation under subsection (c)(1) for such year) transfer not more than 1 percent for programs or activities that are authorized in this subchapter and identified by the Director to receive funds pursuant to this subsection. In making such transfers, the Director may not decrease any appropriation account under subsection (a) by more than 1 percent.
+Of the total amount appropriated under subsection (a) for a fiscal year, the Director of NIH may (in addition to the reservation under subsection (c)(1) for such year) transfer not more than 1 percent for programs or activities that are authorized in this subchapter and identified by the Director to receive funds pursuant to thissubsection. In making such transfers, the Director may not decrease any appropriation account under subsection (a) by more than 1 percent.
 
 #### (e) Rule of construction
 

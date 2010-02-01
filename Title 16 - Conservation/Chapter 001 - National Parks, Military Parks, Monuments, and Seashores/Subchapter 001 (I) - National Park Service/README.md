@@ -15,6 +15,7 @@
 - [&sect; 00001a&#8211;6 - Law enforcement personnel within National Park System](%C2%A7%2000001a%E2%80%936%20-%20Law%20enforcement%20personnel%20within%20National%20Park%20System.md)
 - [&sect; 00001a&#8211;7 - National Park System development program](%C2%A7%2000001a%E2%80%937%20-%20National%20Park%20System%20development%20program.md)
 - [&sect; 00001a&#8211;7a - National Park System crime prevention assistance](%C2%A7%2000001a%E2%80%937a%20-%20National%20Park%20System%20crime%20prevention%20assistance.md)
+- [&sect; 00001a&#8211;7b - Protecting Americans from violent crime](%C2%A7%2000001a%E2%80%937b%20-%20Protecting%20Americans%20from%20violent%20crime.md)
 - [&sect; 00001a&#8211;8 - Maintenance management system](%C2%A7%2000001a%E2%80%938%20-%20Maintenance%20management%20system.md)
 - [&sect; 00001a&#8211;9 - Periodic review of National Park System](%C2%A7%2000001a%E2%80%939%20-%20Periodic%20review%20of%20National%20Park%20System.md)
 - [&sect; 00001a&#8211;10 - Consultation with affected agencies and organizations](%C2%A7%2000001a%E2%80%9310%20-%20Consultation%20with%20affected%20agencies%20and%20organizations.md)

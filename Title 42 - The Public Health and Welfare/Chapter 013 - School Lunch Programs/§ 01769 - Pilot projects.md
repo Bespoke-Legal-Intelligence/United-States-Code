@@ -140,7 +140,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 &emsp;&emsp;&emsp;(ii) shall not have a history of violations of this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.);
 
-&emsp;&emsp;&emsp;(iii) shall have, under the jurisdiction of the school food authority, a sufficient number of elementary schools that are not participating in the pilot projects to permit a valid evaluation of the effects of the pilot projects; and
+&emsp;&emsp;&emsp;(iii) shall have, under the jurisdiction of the school food authority, a sufficient number of elementary schools that are notparticipating in the pilot projects to permit a valid evaluation of the effects of the pilot projects; and
 
 &emsp;&emsp;&emsp;(iv) shall meet all other requirements that the Secretary may reasonably require.
 
@@ -258,7 +258,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 &emsp;&emsp;&emsp;The term “eligible program” means—
 
-&emsp;&emsp;&emsp;&emsp;(I) a school-based program with hands-on vegetable gardening and nutrition education that is incorporated into thecurriculum for 1 or more grades at 2 or more eligible schools; or
+&emsp;&emsp;&emsp;&emsp;(I) a school-based program with hands-on vegetable gardening and nutrition education that is incorporated into the curriculum for 1 or more grades at 2 or more eligible schools; or
 
 &emsp;&emsp;&emsp;&emsp;(II) a community-based summer program with hands-on vegetable gardening and nutrition education that is part of, or coordinated with, a summer enrichment program at 2 or more eligible schools.
 
@@ -320,7 +320,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 &emsp;&emsp;&emsp;(iii) in the case of a service institution that provides meal service at a nonschool site to children who are not in school for a period during the school year due to a natural disaster, building repair, court order, or similar case, at anytime during such a period; and
 
-&emsp;&emsp;(B) for a snack served during each day of operation after school hours, weekends, and school holidays during the regular school calendar.
+&emsp;&emsp;(B) for a snack served during each day of operation after school hours, weekends, andschool holidays during the regular school calendar.
 
 #### (2) Payments
 
@@ -336,7 +336,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 #### (5) Funding
 
-&emsp;The Secretary shall provide to the State of California such sums as are necessary to carry out this subsection for each of fiscal years 2005 through 2009.
+&emsp;The Secretary shall provide to the State of California such sums as are necessary to carry out this subsection for each of fiscal years 2005 through 2010.
 
 #### (i) Free lunch and breakfast eligibility
 
@@ -390,11 +390,11 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 &emsp;There are authorized to be appropriated such sums as are necessary to carry out this subsection, to remain available until expended.
 
-(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215; Pub. L. 107–171, title IV, §4305(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–30, §1, May 29, 2003, 117 Stat. 774; Pub. L. 108–134, §5(2), Nov. 22, 2003, 117 Stat. 1390; Pub. L. 108–211, §5(b), Mar. 31, 2004, 118 Stat. 567; Pub. L. 108–265, title I, §§116(f), 120–124, June 30, 2004, 118 Stat. 750, 756–760; Pub. L. 109–97, title VII, §777(a), Nov. 10, 2005, 119 Stat. 2161; Pub. L. 110–161, div. A, title VII, §738(b), Dec. 26, 2007, 121 Stat. 1880; Pub. L. 110–234, title IV, §§4303, 4304(b), May 22, 2008, 122 Stat. 1126, 1131; Pub. L. 110–246, §4(a), title IV, §§4303, 4304(b), June 18, 2008, 122 Stat. 1664, 1887, 1892.)
+(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215; Pub. L. 107–171, title IV, §4305(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–30, §1, May 29, 2003, 117 Stat. 774; Pub. L. 108–134, §5(2), Nov. 22, 2003, 117 Stat. 1390;Pub. L. 108–211, §5(b), Mar. 31, 2004, 118 Stat. 567; Pub. L. 108–265, title I, §§116(f), 120–124, June 30, 2004, 118 Stat. 750, 756–760; Pub. L. 109–97, title VII, §777(a), Nov. 10, 2005, 119 Stat. 2161; Pub. L. 110–161, div. A, title VII, §738(b), Dec. 26, 2007, 121 Stat. 1880; Pub. L. 110–234, title IV, §§4303, 4304(b), May 22, 2008, 122 Stat. 1126, 1131; Pub. L. 110–246, §4(a), title IV, §§4303, 4304(b), June 18, 2008, 122 Stat. 1664, 1887, 1892; Pub. L. 111–80, title VII, §749(d), Oct. 21, 2009, 123 Stat. 2132.)
 
 #### References in Text
 
-The Child Nutrition Act of 1966, referred to in subsecs. (a) and (e)(6), (7)(B)(ii), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+The Child Nutrition Act of 1966, referred to in subsecs. (a) and (e)(6), (7)(B)(ii), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (i)(3)(B)(ii)(IV), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
@@ -410,6 +410,8 @@ A prior section 18 of act June 4, 1946, which was classified to section 1767 of 
 
 #### Amendments
 
+2009—Subsec. (h)(5). Pub. L. 111–80 substituted “2010” for “2009”.
+
 2008—Subsecs. (f), (g). Pub. L. 110–246, §4304(b), redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f) which related to fresh fruit and vegetable program.
 
 Subsec. (h). Pub. L. 110–246, §4304(b), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
@@ -418,7 +420,7 @@ Pub. L. 110–246, §4303, in par. (1)(C) inserted “promotes healthy food educ
 
 Subsecs. (i), (j). Pub. L. 110–246, §4304(b), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
 
-2007—Subsecs. (f) to (k). Pub. L. 110–161 redesignated subsecs. (g) to (k) as (f) to (j), respectively, and struckout former subsec. (f) which related to simplified summer food programs.
+2007—Subsecs. (f) to (k). Pub. L. 110–161 redesignated subsecs. (g) to (k) as (f) to (j), respectively, and struck out former subsec. (f) which related to simplified summer food programs.
 
 2005—Subsec. (f)(1)(B). Pub. L. 109–97, §777(a)(1), substituted “June 2005” for “April 2004” in introductory provisions.
 
@@ -508,7 +510,7 @@ Subsec. (d). Pub. L. 101–147, §311(1), redesignated subsec. (g) as (d). Forme
 
 Subsec. (e). Pub. L. 101–147, §311(1), redesignated subsec. (e) as (b).
 
-Subsec. (e)(1). Pub. L. 101–147, §107(1)(A), substituted “beginning July 1, 1987, and ending September 30, 1992” for “for the duration beginning July 1, 1987, and ending December 31, 1990” and inserted at end “The Secretary,directly or through contract, shall administer the project under this subsection.”
+Subsec. (e)(1). Pub. L. 101–147, §107(1)(A), substituted “beginning July 1, 1987, and ending September 30, 1992” for “for the duration beginning July 1, 1987, and ending December 31, 1990” and inserted at end “The Secretary, directly or through contract, shall administer the project under this subsection.”
 
 Subsec. (f). Pub. L. 101–147, §311(1), redesignated subsec. (f) as (c).
 

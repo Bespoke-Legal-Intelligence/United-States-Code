@@ -32,7 +32,7 @@ For purposes of this section, a qualified renewable energy facility is a facilit
 
 #### (c) Eligibility window
 
-Payments may be made under this section only for electricity generated from a qualified renewable energy facility first used before October 1, 2016.
+Payments may be made under this section only for electricity generated from a qualifiedrenewable energy facility first used before October 1, 2016.
 
 #### (d) Payment period
 

@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (d) Special rule for determination of refinery runs
 
-For purposes <sup>1</sup> this section and section 179B(b), in the calculation of average daily domestic refinery run or retained production, only refineries which on April 1, 2003, were refineries of the refiner or a related person (within the meaningof section 613A(d)(3)), shall be taken into account.
+For purposes <sup>1</sup> this section and section 179B(b), in the calculation of average daily domestic refinery run or retained production, only refineries which on April 1, 2003, were refineries of the refiner or a related person (within the meaning of section 613A(d)(3)), shall be taken into account.
 
 #### (e) Certification
 
@@ -130,7 +130,7 @@ Subsec. (g). Pub. L. 110–172, §7(a)(2)(A), added subsec. (g). Former subsec. 
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–172 effective as if included in the provision of the American Jobs Creation Act of2004, Pub. L. 108–357, to which such amendment relates, see section 7(e) of Pub. L. 110–172, set out as a note under section 1092 of this title.
+Amendment by Pub. L. 110–172 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 7(e) of Pub. L. 110–172, set out as a note under section 1092 of this title.
 
 #### Effective Date
 

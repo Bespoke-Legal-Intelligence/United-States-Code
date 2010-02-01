@@ -36,7 +36,7 @@ In this section, the term “appropriate congressional committees” means—
 
 &emsp;(2) the Committee on Appropriations and the Committee on Foreign Relations of the Senate.
 
-(Pub. L. 87–195, pt. III, §656, as added Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §1307\], Nov. 29, 1999, 113 Stat. 1536, 1501A–512; amended Pub. L. 107–228, div. B, title XII, §1262(a), Sept. 30, 2002, 116 Stat. 1434.)
+(Pub. L. 87–195, pt. III, §656, as added Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII,§1307\], Nov. 29, 1999, 113 Stat. 1536, 1501A–512; amended Pub. L. 107–228, div. B, title XII, §1262(a), Sept. 30, 2002, 116 Stat. 1434.)
 
 #### Prior Provisions
 

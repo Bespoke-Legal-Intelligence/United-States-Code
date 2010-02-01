@@ -10,7 +10,7 @@
 
 #### (A) Parts A and B of this subchapter
 
-&emsp;&emsp;From the amount appropriated under paragraph (1) for a fiscal year, the Secretaryshall reserve not less than 90 percent to carry out parts A and B of this subchapter.
+&emsp;&emsp;From the amount appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not less than 90 percent to carry out parts A and B of this subchapter.
 
 #### (B) Part B of this subchapter
 
@@ -80,7 +80,7 @@ Subsec. (b). Pub. L. 98–473, §657(c), struck out “Associate” before “Ad
 
 Subsec. (c). Pub. L. 98–473, §657(d), added subsec. (c).
 
-1980—Subsec. (a). Pub. L. 96–509 substituted provisions authorizing appropriations of $25,000,000 for each of fiscal years ending Sept. 30, 1981, 1982, 1983, and 1984, for provisions that had authorized appropriations of$10,000,000 for each of fiscal years ending Sept. 30, 1975, 1976, and 1977, and $25,000,000 for each of fiscal years ending Sept. 30, 1978, 1979, and 1980.
+1980—Subsec. (a). Pub. L. 96–509 substituted provisions authorizing appropriations of $25,000,000 for each of fiscal years ending Sept. 30, 1981, 1982, 1983, and 1984, for provisions that had authorized appropriations of $10,000,000 for each of fiscal years ending Sept. 30, 1975, 1976, and 1977, and $25,000,000 for each of fiscal years ending Sept. 30, 1978, 1979, and 1980.
 
 1977—Subsec. (a). Pub. L. 95–115, §7(d)(1), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1978, 1979, and 1980.
 

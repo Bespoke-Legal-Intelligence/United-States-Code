@@ -10,7 +10,7 @@ Upon proof being made, at any hearing on a complaint under this section, that th
 
 #### (c) Payment or acceptance of commission, brokerage, or other compensation
 
-It shall be unlawful for any person engaged in commerce, in the course of such commerce, to pay or grant, or to receive or accept, anything of value as a commission, brokerage, or other compensation, or any allowance or discount in lieu thereof, except for services rendered in connection with the sale or purchase of goods, wares, or merchandise, either to the other party to such transaction or to an agent, representative, or other intermediary therein where such intermediary is acting in fact for or in behalf, or is subject to the direct or indirect control, of any party to such transaction other than the person by whom such compensation is so granted or paid.
+It shall be unlawful for any person engaged in commerce, in the course of such commerce, to pay or grant, or to receive or accept, anything of value as a commission, brokerage, or other compensation, or any allowance or discount in lieuthereof, except for services rendered in connection with the sale or purchase of goods, wares, or merchandise, either to the other party to such transaction or to an agent, representative, or other intermediary therein where such intermediary is acting in fact for or in behalf, or is subject to the direct or indirect control, of any party to such transaction other than the person by whom such compensation is so granted or paid.
 
 #### (d) Payment for services or facilities for processing or sale
 

@@ -50,7 +50,7 @@ The Panel shall meet at the call of the Chairman, but not less than once per yea
 
 #### (g) Executive Secretary; administrative staff and support
 
-The Executive Secretary of the Council shall serve as Executive Secretary of the Panel. The Secretary shall provide the Panel with such additional administrative staff and support as may be necessary to enable the Panel to carry out its functions.
+The Executive Secretary of the Council shall serve as Executive Secretary of the Panel. TheSecretary shall provide the Panel with such additional administrative staff and support as may be necessary to enable the Panel to carry out its functions.
 
 #### (h) Compensation; travel expenses
 

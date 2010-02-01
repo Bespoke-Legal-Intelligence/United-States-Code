@@ -370,6 +370,44 @@ Section 7 of Pub. L. 89–83 provided that:
 
 For termination, effective May 15, 2000, of provisions in subsec. (i)(4) of this section relating to annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 55 of House Document No. 103–7.
 
+#### Authority of PTO Director To Use Trademark Funds
+
+Pub. L. 111–45, §1, Aug. 7, 2009, 123 Stat. 1968, provided that:
+
+“(a)
+
+Authority.—
+
+&emsp;“(1)
+
+In general.—The Director of the United States Patent and Trademark Office—
+
+&emsp;&emsp;“(A) may use funds made available for fiscal year 2009, pursuant to section 31 of the Trademark Act of 1946 (15 U.S.C. 1113), under the heading ‘Department of Commerce—United States Patent and Trademark Office—Salaries and Expenses’ in title I of division B of the Omnibus Appropriations Act, 2009 (Public Law 111–8), up to $70,000,000, to support the processing of patents and other activities, services, and materials relating to patents, notwithstanding section 42(c) of title 35, United States Code; and
+
+&emsp;&emsp;“(B) notwithstanding any other provision of law, shall, upon the exercise of the authority under subparagraph (A), establish a surcharge, in amounts up to $70,000,000, on patent fees in effect under title 35, United States Code, to repay any funds drawn down pursuant to subparagraph (A),
+
+> &emsp;if the Director certifies in writing to the Congress that the use of the funds described in subparagraph (A) is reasonably necessary to avoid furloughs or a reduction-in-force, or both, in the United States Patent and Trademark Office, and does not create a substantial risk of a furlough or reduction-in-force of personnel working in the Trademark Operation of the United States Patent and Trademark Office.
+
+&emsp;“(2)
+
+Surcharges deposited in treasury.—All surcharges paid under paragraph (1)(B) shall be deposited in the Treasury as an offsetting receipt that shall not be available for obligation or expenditure.
+
+“(b)
+
+Limitations on Authority.—The authority under subsection (a)(1)(A) shall terminate on June 30, 2010. The surcharge established under subsection (a)(1)(B) shall take effect no later than September 30, 2011, and all funds drawn down pursuant to subsection (a)(1)(A) shall be repaid pursuant to subsection (a)(1)(B) no later than September 30, 2014.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Director.—The terms ‘Director of the United States Patent and Trademark Office’ and ‘Director’ mean the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.
+
+&emsp;“(2)
+
+Trademark act of 1946.—The term ‘Trademark Act of 1946’ means the Act entitled ‘An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes’, approved July 5, 1946 (15 U.S.C. 1051 et seq.).”
+
 #### Patent and Trademark Fees in Certain Fiscal Years After 2005
 
 Pub. L. 108–447, div. B, title VIII, Dec. 8, 2004, 118 Stat. 2924, as amended by Pub. L. 109–289, div. B, title II, §20933, as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 45, provided that:
@@ -512,7 +550,7 @@ Patent search fees.—
 
 &emsp;&emsp;“ ‘(C) The provisions of section 111(a)(3) of this title relating to the payment of the fee for filing the application shall apply to the payment of the fee specified in this paragraph with respect to an application filed under section 111(a) of this title. The provisions of section 371(d) of this title relating to the payment of the national fee shall apply to the payment of the fee specified in this paragraph with respect to an international application.
 
-&emsp;&emsp;“ ‘(D) The Director may by regulation provide for a refund of any part of the fee specified in this paragraph for any applicant who files a written declaration of express abandonment as prescribed by the Director before an examination has been made of the application under section 131 of this title, and for any applicant who provides a search report that meets the conditions prescribed by the Director.
+&emsp;&emsp;“ ‘(D) The Director may by regulation provide for a refund of any part of the fee specified in this paragraph for any applicant who files a written declaration of express abandonment as prescribed by theDirector before an examination has been made of the application under section 131 of this title, and for any applicant who provides a search report that meets the conditions prescribed by the Director.
 
 &emsp;&emsp;“ ‘(E) For purposes of subparagraph (A), a “qualified search authority” may not include a commercial entity unless—
 
@@ -548,7 +586,7 @@ Patent search fees.—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“ ‘(II) an analysis of the reasonableness, appropriateness, and effectiveness of the methods used in the pilot program to make the evaluations required under clause (ii)(IV); and
 
-&emsp;&emsp;&emsp;“ ‘(iv) Congress does not, during the 1-year period beginning on the date on which the PatentPublic Advisory Committee submits its report to the Congress under clause (iii), enact a law prohibiting searches by commercial entities of the available prior art relating to the subject matter of inventions claimed in patent applications.
+&emsp;&emsp;&emsp;“ ‘(iv) Congress does not, during the 1-year period beginning on the date on which the Patent Public Advisory Committee submits its report to the Congress under clause (iii), enact a law prohibiting searches by commercial entities of the available prior art relating to the subject matter of inventions claimed in patent applications.
 
 &emsp;&emsp;“ ‘(F) The Director shall require that any search by a qualified search authority that is a commercial entity is conducted in the United States by persons that—
 
@@ -612,7 +650,7 @@ Applicability.—
 
 &emsp;&emsp;“(I) applications for patents filed under section 111 of title 35, United States Code, on or after the effective date set forth in subsection (a) of this section, and
 
-&emsp;&emsp;“(II) international applications entering the national stage under section 371 of title 35, United States Code, for which the basic national fee specified in section 41 of title 35, United States Code, was not paid before the effective date set forth in subsection (a) of this section.
+&emsp;&emsp;“(II) international applications entering the national stage under section 371 of title 35, UnitedStates Code, for which the basic national fee specified in section 41 of title 35, United States Code, was not paid before the effective date set forth in subsection (a) of this section.
 
 &emsp;“(ii) Section 41(a)(1)(D) of title 35, United States Code, as administered as provided in this title, shall apply only to applications for patent filed under section 111(b) of title 35, United States Code, before, on, or after the effective date set forth in subsection (a) of this section in which the filing fee specified in section 41 of title 35, United States Code, was not paid before the effective date set forth in subsection (a) of this section.
 
@@ -644,7 +682,11 @@ Timing of fees.—The provisions of section 111(a)(3) of title 35, United States
 
 #### “SEC. 804. DEFINITION.
 
-“In this title, the term ‘Director’ means the Under Secretary of Commerce for Intellectual Property andDirector of the United States Patent and Trademark Office.”
+“In this title, the term ‘Director’ means the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.”
+
+\[Pub. L. 111–117, div. B, title I, Dec. 16, 2009, 123 Stat. 3116, provided in part: “That sections 801, 802, and 803 of division B, Public Law 108–447 \[set out above\] shall remain in effect during fiscal year 2010”.\]
+
+\[Pub. L. 111–8, div. B, title I, Mar. 11, 2009, 123 Stat. 564, provided in part: “That sections 801, 802, and 803 of division B, Public Law 108–447 \[set out above\] shall remain in effect during fiscal year 2009”.\]
 
 \[Pub. L. 110–161, div. B, title I, Dec. 26, 2007, 121 Stat. 1888, provided in part: “That sections 801, 802, and 803 of division B, Public Law 108–447 \[set out above\] shall remain in effect during fiscal year 2008”.\]
 
@@ -706,7 +748,7 @@ Section 404 of Pub. L. 98–622 provided that:
 
 “(a) Notwithstanding section 41 of title 35, United States Code, as in effect before the enactment of Public Law 97–247 (96 Stat. 317) \[Aug. 27, 1982\], no fee shall be collected for maintaining a plant patent in force.
 
-“(b) Notwithstanding section 41(c) of title 35, United States Code, as in effect before the enactment of PublicLaw 97–247 (96 Stat. 317) \[Aug. 27, 1982\], the Commissioner of Patents and Trademarks \[now Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] may accept, after the six-month grace period referred to in such section 41(c), the payment of any maintenance fee due on any patent based on an application filed in the Patent and Trademark Office on or after December 12, 1980, and before August 27, 1982, to the same extent as in the case of patents based on applications filed in the Patent and Trademark Office on or after August 27, 1982.”
+“(b) Notwithstanding section 41(c) of title 35, United States Code, as in effect before the enactment of Public Law 97–247 (96 Stat. 317) \[Aug. 27, 1982\], the Commissioner of Patents and Trademarks \[now Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] may accept, after the six-month grace period referred to in such section 41(c), the payment of any maintenance fee due on any patent based on an application filed in the Patent and Trademark Office on or after December 12, 1980, and before August 27, 1982, to the same extent as in the case of patents based on applications filed in the Patent and Trademark Office on or after August 27, 1982.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

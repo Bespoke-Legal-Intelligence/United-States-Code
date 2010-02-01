@@ -26,7 +26,7 @@ Before ordering an expansion under subsection (a), the Commission shall—
 
 #### (c) Requirement for a firm transportation agreement
 
-Any order of the Commission issued in accordance with this section shall be void unless the person requesting the order executes a firm transportation agreement with the Alaska natural gas transportation project within such reasonable period of time as the order may specify.
+Any order of the Commission issued in accordance with this section shall be void unless theperson requesting the order executes a firm transportation agreement with the Alaska natural gas transportation project within such reasonable period of time as the order may specify.
 
 #### (d) Limitation
 

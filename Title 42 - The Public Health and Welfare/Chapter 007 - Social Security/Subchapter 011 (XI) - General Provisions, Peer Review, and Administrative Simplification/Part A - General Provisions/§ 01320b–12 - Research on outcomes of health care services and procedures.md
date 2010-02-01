@@ -92,11 +92,11 @@ In carrying out this section, the Secretary shall develop—
 
 #### (1) In general
 
-&emsp;The Secretary shall provide for the dissemination of the findings of research and the guidelines described in subsection (a) of this section, and for the education of providers andothers in the application of such research findings and guidelines.
+&emsp;The Secretary shall provide for the dissemination of the findings of research and the guidelines described in subsection (a) of this section, and for the education of providers and others in the application of such research findings and guidelines.
 
 #### (2) Cooperative educational activities
 
-&emsp;In disseminating findings and guidelines under paragraph (1), and in providing for education under such paragraph, the Secretary shall work with professional associations, medical specialty and subspecialty organizations, and other relevant groups to identify and implement effective means to educate physicians, other providers, consumers, and others in using such findings and guidelines, including training for physician managers within provider organizations.
+&emsp;In disseminating findings and guidelines under paragraph (1), and in providing for education under such paragraph, the Secretary shall work with professional associations,medical specialty and subspecialty organizations, and other relevant groups to identify and implement effective means to educate physicians, other providers, consumers, and others in using such findings and guidelines, including training for physician managers within provider organizations.
 
 #### (f) Evaluations
 
@@ -178,7 +178,7 @@ Report.—Not later than two years after the date of the enactment of this Act \
 
 #### Report on Linkage of Public and Private Research Related Data
 
-Section 6103(b)(2) of Pub. L. 101–239 provided that: “Not later than 1 year after the date of the enactment of this Act \[Dec. 19, 1989\], the Secretary of Health andHuman Services shall report to the Congress on the feasibility of linking research-related data described in section 1142(d) of the Social Security Act \[subsec. (d) of this section\] (as added by paragraph (1) of this subsection) with similar data collected or maintained by non-Federal entities and by Federal agencies other than the Department of Health and Human Services (including the Departments of Defense and Veterans Affairs and the Office of Personnel Management).”
+Section 6103(b)(2) of Pub. L. 101–239 provided that: “Not later than 1 year after the date of the enactment of this Act \[Dec. 19, 1989\], the Secretary of Health and Human Services shall report to the Congress on the feasibility of linking research-related data described in section 1142(d) of the Social Security Act \[subsec. (d) of this section\] (as added by paragraph (1) of this subsection) with similar data collected or maintained by non-Federal entities and by Federal agencies other than the Department of Health and Human Services (including the Departments of Defense and Veterans Affairs and the Office of Personnel Management).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

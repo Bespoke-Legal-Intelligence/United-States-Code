@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 Mar. 1, 1929, ch. 429, 45 Stat. 1430; Oct. 31, 1951, ch. 654, §2(21), 65 Stat. 707.
 
-The word “give” is substituted for the words “dispose of without charge”; the words “naval purposes” are substituted for the words “the Navy”; and the word “sell” is substituted for the words “dispose of \* \* \* at prices”. The words “to the Navy” are omitted as surplusage. Since the corporate name of the organization is “Boy Scouts of America”, that name is used to designate the transferee in lieu of words “sea scout department”, and the words “for the sea scouts” are added.
+The word “give” is substituted for the words “dispose of without charge”; the words “naval purposes” are substituted for the words “the Navy”; and the word “sell” is substituted for the words “dispose of at prices”. The words “to the Navy” are omitted as surplusage. Since the corporate name of the organization is “Boy Scouts of America”, that name is used to designate the transferee in lieu of words “sea scout department”, and the words “for the sea scouts” are added.
 
 #### Amendments
 

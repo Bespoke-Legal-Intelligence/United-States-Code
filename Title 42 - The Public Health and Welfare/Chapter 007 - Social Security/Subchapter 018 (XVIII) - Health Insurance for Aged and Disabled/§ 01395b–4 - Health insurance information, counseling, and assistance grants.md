@@ -12,7 +12,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 &emsp;(A) establish or improve upon a health insurance information, counseling, and assistance program that provides counseling and assistance to eligible individuals in need of health insurance information, including—
 
-&emsp;&emsp;(i) information that may assist individuals in obtaining benefits and filing claims underthis subchapter and subchapter XIX of this chapter;
+&emsp;&emsp;(i) information that may assist individuals in obtaining benefits and filing claims under this subchapter and subchapter XIX of this chapter;
 
 &emsp;&emsp;(ii) policy comparison information for medicare supplemental policies (as described in section 1395ss(g)(1) of this title) and information that may assist individuals in filing claims under such medicare supplemental policies;
 
@@ -76,7 +76,7 @@ A State that receives a grant under this section shall, not later than 180 days 
 
 #### (f) Report to Congress
 
-Beginning with 1992, and annually thereafter, the Secretary shall issue a report to the Committee on Finance of the Senate, the SpecialCommittee on Aging of the Senate, the Committee on Ways and Means of the House of Representatives, and the Committee on Energy and Commerce of the House of Representatives that—
+Beginning with 1992, and annually thereafter, the Secretary shall issue a report to the Committee on Finance of the Senate, the Special Committee on Aging of the Senate, the Committee on Ways and Means of the House of Representatives, and the Committee on Energy and Commerce of the House of Representatives that—
 
 &emsp;(1) summarizes the allocation of funds authorized for grants under this section and the expenditure of such funds;
 
@@ -90,7 +90,7 @@ Beginning with 1992, and annually thereafter, the Secretary shall issue a report
 
 There are authorized to be appropriated, in equal parts from the Federal Hospital Insurance Trust Fund and from the Federal Supplementary Medical Insurance Trust Fund, $10,000,000 for each of fiscal years 1991, 1992, 1993, 1994, 1995, and 1996, to fund the grant programs described in this section.
 
-(Pub. L. 101–508, title IV, §4360, Nov. 5, 1990, 104 Stat. 1388–138; Pub. L. 103–432, title I, §171(i), Oct. 31, 1994, 108 Stat. 4450; Pub. L. 103–437, §15(b), Nov. 2, 1994, 108 Stat. 4591; Pub. L. 105–362, title VI, §602(b)(2), Nov. 10, 1998, 112 Stat. 3286.)
+(Pub. L. 101–508, title IV, §4360, Nov. 5, 1990, 104 Stat. 1388–138; Pub. L. 103–432, title I, §171(i),Oct. 31, 1994, 108 Stat. 4450; Pub. L. 103–437, §15(b), Nov. 2, 1994, 108 Stat. 4591; Pub. L. 105–362, title VI, §602(b)(2), Nov. 10, 1998, 112 Stat. 3286.)
 
 #### References in Text
 

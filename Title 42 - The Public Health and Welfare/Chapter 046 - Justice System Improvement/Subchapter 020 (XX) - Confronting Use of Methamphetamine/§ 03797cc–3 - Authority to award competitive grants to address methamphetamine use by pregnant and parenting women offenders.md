@@ -72,7 +72,7 @@ The grant shall be a three-year grant. Successful applicants may reapply for onl
 
 #### (2) Evaluations
 
-&emsp;Not later than 12 months at <sup>5</sup> the end of the 3 year funding cycle under this section, the Attorney General shall submit a report to the appropriate committees of jurisdiction that summarizes the results of the evaluations conducted by recipients and recommendations for further legislative action.
+&emsp;Not later than 12 months at <sup>5</sup> the end of the 3 year funding cycle under this section, the Attorney General shall submit a report to the appropriate committees of jurisdiction thatsummarizes the results of the evaluations conducted by recipients and recommendations for further legislative action.
 
 #### (f) Authorization of appropriations
 

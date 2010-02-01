@@ -8,7 +8,7 @@ This section may be cited as the “Library of Congress Inspector General Act of
 
 There is an Office of Inspector General within the Library of Congress which is an independent objective office to—
 
-&emsp;(1) conduct and supervise audits and investigations (excluding incidents involving violence and personal property) relating to the Library of Congress;
+&emsp;(1) conduct and supervise audits and investigations (excluding incidents involving violence and personal property) relating to the Library of Congress, except that nothing in this paragraph may be construed to authorize the Inspector General to audit or investigate any operations or activities of the United States Capitol Police;
 
 &emsp;(2) provide leadership and coordination and recommend policies to promote economy, efficiency, and effectiveness; and
 
@@ -68,13 +68,15 @@ This section shall be effective on August 2, 2005.
 
 (Pub. L. 109–55, title I, §1307, Aug. 2, 2005, 119 Stat. 583; Pub. L. 110–161, div. H, title I, §1004(d)(3), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, §4(c), Jan. 7, 2008, 121 Stat. 2552.)
 
-#### Amendment of Subsection (b)(1)
-
-<i>Pub. L. 110–161, div. H, title I, §1004(d)(3), (4), Dec. 26, 2007, 121 Stat. 2234, and Pub. L. 110–178, §4(c), (d), Jan. 7, 2008, 121 Stat. 2552, both provided that, effective Oct. 1, 2009, subsection (b)(1) of this section is amended by inserting “, except that nothing in this paragraph may be construed to authorize the Inspector General to audit or investigate any operations or activities of the United States Capitol Police” before semicolon at end.</i>
-
 #### References in Text
 
 The Inspector General Act of 1978, referred to in subsec. (d)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2008—Subsec. (b)(1). Pub. L. 110–178 made amendment identical to that made by Pub. L. 110–161, inserting “, except that nothing in this paragraph may be construed to authorize the Inspector General to audit or investigate any operations or activities of the United States Capitol Police” before semicolon at end. See 2007 Amendment note below.
+
+2007—Subsec. (b)(1). Pub. L. 110–161 made amendment identical to that made by Pub. L. 110–178, inserting “, except that nothing in this paragraph may be construed to authorize the Inspector General to audit or investigate any operations or activities of the United States Capitol Police” before semicolon at end. See 2008 Amendment note above.
 
 #### Effective Date of 2008 Amendment
 

@@ -82,7 +82,7 @@ For purposes of subsections (c) through (f) of this section:
 
 &emsp;(2) A reference to the “Natural Resources Conservation Service” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Natural Resources Conservation Service under section 6962(b) of this title.
 
-(Pub. L. 103–354, title II, §226, Oct. 13, 1994, 108 Stat. 3214; Pub. L. 104–127, title I, §194(c), titleIII, §§315(b), 336(a)(2)(C), Apr. 4, 1996, 110 Stat. 946, 985, 1005.)
+(Pub. L. 103–354, title II, §226, Oct. 13, 1994, 108 Stat. 3214; Pub. L. 104–127, title I, §194(c), title III, §§315(b), 336(a)(2)(C), Apr. 4, 1996, 110 Stat. 946, 985, 1005.)
 
 #### References in Text
 

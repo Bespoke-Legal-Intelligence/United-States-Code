@@ -16,9 +16,9 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–458 redesignated subsecs. (a) to (c) as pars. (1) to (3), respectively, and amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘Director’ means the Director of Central Intelligence;”.
+2004—Pub. L. 108–458 redesignated subsecs. (a) to (c) as pars. (1) to (3), respectively, and amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘Director’ means the Director of Central Intelligence;”.
 
-<b>1960</b>—Subsec. (c). Pub. L. 86–707, §511(c)(1), substituted “Government.” for “Government; and”.
+1960—Subsec. (c). Pub. L. 86–707, §511(c)(1), substituted “Government.” for “Government; and”.
 
 Subsec. (d). Pub. L. 86–707, §511(a)(3), repealed subsec. (d) which defined “continental United States”. See section 5921 of Title 5, Government Organization and Employees.
 
@@ -26,7 +26,7 @@ Subsec. (d). Pub. L. 86–707, §511(a)(3), repealed subsec. (d) which defined �
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwiseexpressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Short Title
 

@@ -8,7 +8,7 @@ Not later than 12 months after August 3, 2007, the Secretary shall issue regulat
 
 &emsp;&emsp;(A) conduct a vulnerability assessment in accordance with subsections (c) and (d); and
 
-&emsp;&emsp;(B) to <sup>1</sup> prepare, submit to the Secretary for approval, and implement a security planin accordance with this section that addresses security performance requirements; and
+&emsp;&emsp;(B) to <sup>1</sup> prepare, submit to the Secretary for approval, and implement a security plan in accordance with this section that addresses security performance requirements; and
 
 &emsp;(2) establish standards and guidelines, based on and consistent with the risk assessment and National Strategy for Railroad Transportation Security developed under section 1161 of this title, for developing and implementing the vulnerability assessments and security plans for railroad carriers assigned to high-risk tiers.
 
@@ -170,7 +170,7 @@ Utilizing the risk assessment and National Strategy for Railroad Transportation 
 
 #### (1) Submission of evaluation
 
-&emsp;Not later than 3 years after the date on which a vulnerability assessment or security plan required to be submitted to the Secretary under subsection (c) is approved, and at least once every 5 years thereafter (or on such aschedule as the Secretary may establish by regulation), a railroad carrier who submitted a vulnerability assessment and security plan and who is still assigned to the high-risk tier must also submit to the Secretary an evaluation of the adequacy of the vulnerability assessment and security plan that includes a description of any material changes made to the vulnerability assessment or security plan.
+&emsp;Not later than 3 years after the date on which a vulnerability assessment or security plan required to be submitted to the Secretary under subsection (c) is approved, and at least once every 5 years thereafter (or on such a schedule as the Secretary may establish by regulation), a railroad carrier who submitted a vulnerability assessment and security plan and who is still assigned to the high-risk tier must also submit to the Secretary an evaluation of the adequacy of the vulnerability assessment and security plan that includes a description of any material changes made to the vulnerability assessment or security plan.
 
 #### (2) Review of evaluation
 

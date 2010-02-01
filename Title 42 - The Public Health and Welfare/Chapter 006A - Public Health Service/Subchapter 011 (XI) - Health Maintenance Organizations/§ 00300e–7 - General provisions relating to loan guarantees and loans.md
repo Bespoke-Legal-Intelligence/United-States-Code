@@ -44,7 +44,7 @@
 
 #### (e) Loan fund
 
-There is established in the Treasury a loan fund (hereinafter in this subsection referred to as the “fund”) which shall be available to the Secretary without fiscal year limitation, in such amounts as may be specified from time to time in appropriation Acts, to enable him to make loans under this subchapter and to take the action authorized by subsection (f) of this section. There shall also be deposited in the fund amounts received by the Secretary as interest payments and repayment of principal on loans made under this subchapter and other property or assets derived by him from his operations respecting such loans, from the sale of loans under subsection (c) of this section, or from the sale of assets.
+There is established in the Treasury a loan fund (hereinafter in this subsection referred to as the “fund”) which shall be available to the Secretary without fiscal year limitation, in suchamounts as may be specified from time to time in appropriation Acts, to enable him to make loans under this subchapter and to take the action authorized by subsection (f) of this section. There shall also be deposited in the fund amounts received by the Secretary as interest payments and repayment of principal on loans made under this subchapter and other property or assets derived by him from his operations respecting such loans, from the sale of loans under subsection (c) of this section, or from the sale of assets.
 
 #### (f) Actions to protect interest of United States in event of default
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 99–660 effective Oct. 1, 1985, see section 815(a) of Pub.
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–559 effective only for fiscal years beginning on or after October 1, 1978, see section4(d) of Pub. L. 95–559, set out as a note under section 300e–4 of this title.
+Amendment by Pub. L. 95–559 effective only for fiscal years beginning on or after October 1, 1978, see section 4(d) of Pub. L. 95–559, set out as a note under section 300e–4 of this title.
 
 #### Effective Date of 1976 Amendment
 

@@ -60,7 +60,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (28) American, California: The North Fork from the Cedars to the Auburn Reservoir.
 
-(29) Au Sable, Michigan: The segment downstream from Foot Dam to Oscoda, and upstreamfrom Loud Reservoir to its source, including its principal tributaries and excluding Mio and Bamfield Reservoirs.
+(29) Au Sable, Michigan: The segment downstream from Foot Dam to Oscoda, and upstream from Loud Reservoir to its source, including its principal tributaries and excluding Mio and Bamfield Reservoirs.
 
 (30) Big Thompson, Colorado: The segment from its source to the boundary of Rocky Mountain National Park.
 
@@ -140,7 +140,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (68) Cacapon, West Virginia: The entire river.
 
-(69) Escatawpa, Alabama and Mississippi: The segment upstream from a point approximately one mile downstream from the confluence of the Escatawpa River and Jackson Creek to a pointwhere the Escatawpa River is joined by the Yellowhouse Branch in Washington County, Alabama, near the town of Deer Park, Alabama; and the segment of Brushy Creek upstream from its confluence with the Escatawpa to its confluence with Scarsborough Creek.
+(69) Escatawpa, Alabama and Mississippi: The segment upstream from a point approximately one mile downstream from the confluence of the Escatawpa River and Jackson Creek to a point where the Escatawpa River is joined by the Yellowhouse Branch in Washington County, Alabama, near the town of Deer Park, Alabama; and the segment of Brushy Creek upstream from its confluence with the Escatawpa to its confluence with Scarsborough Creek.
 
 (70) Myakka, Florida: The segment south of the southern boundary of the Myakka River State Park.
 
@@ -240,7 +240,7 @@ Wallowa, Oregon.—The segment from its confluence with the Minam River to its c
 
 (106)
 
-Merrimack River, New Hampshire.—The segment from its origin at the confluence of thePemigewasset and Winnipesaukee Rivers in Franklin, New Hampshire, to the backwater impoundment at Hooksett Dam, excluding the Garvins Falls Dam and its impoundment.
+Merrimack River, New Hampshire.—The segment from its origin at the confluence of the Pemigewasset and Winnipesaukee Rivers in Franklin, New Hampshire, to the backwater impoundment at Hooksett Dam, excluding the Garvins Falls Dam and its impoundment.
 
 (107)
 
@@ -334,7 +334,7 @@ Tahquamenon, Michigan.—The 103.5-mile segment as follows—
 
 (124)
 
-Whitefish, Michigan.—The 26-mile segment of the West Branch Whitefish from itssource in section 26, township 46 north, range 23 west, to County Road 444.
+Whitefish, Michigan.—The 26-mile segment of the West Branch Whitefish from its source in section 26, township 46 north, range 23 west, to County Road 444.
 
 (125)
 
@@ -418,13 +418,17 @@ Eightmile River, Connecticut.—The segment from its headwaters downstream to it
 
 Lower Farmington River and Salmon Brook, Connecticut.—The segment of the Farmington River downstream from the segment designated as a recreational river by section 1274(a)(156) of this title to its confluence with the Connecticut River, and the segment of the Salmon Brook including its mainstream and east and west branches.
 
+(140)
+
+Missisquoi and trout rivers, vermont.—The approximately 25-mile segment of the upper Missisquoi from its headwaters in Lowell to the Canadian border in North Troy, the approximately 25-mile segment from the Canadian border in East Richford to Enosburg Falls, and the approximately 20-mile segment of the Trout River from its headwaters to its confluence with the Missisquoi River.
+
 #### (b) Studies and reports
 
 (1) The studies of rivers named in subparagraphs (28) through (55) of subsection (a) of this section shall be completed and reports thereon submitted by not later than October 2, 1979: <i>Provided</i>, That with respect to the rivers named in subparagraphs (33), (50), and (51), the Secretaries shall not commence any studies until (i) the State legislature has acted with respect to such rivers or (ii) one year from January 3, 1975, whichever is earlier. Studies of the river <sup>2</sup> named in paragraphs (38), (55), (83), and (87) shall be completed and the reports transmitted to the Congress not later than January 1, 1987.
 
 (2) The study of the river named in subparagraph (56) of subsection (a) of this section shall be completed and the report thereon submitted by not later than January 3, 1976.
 
-(3) The studies of the rivers named in paragraphs (59) through (76) of subsection (a) of this section shall be completed and reports submitted thereon not later than five full fiscal years after November 10, 1978. The study of riversnamed in paragraphs (62) through (64) of subsection (a) of this section shall be completed and the report thereon submitted by not later than April 1981. The study of the river named in paragraph (90) of subsection (a) of this section shall be completed not later than three years after October 17, 1984. The study of the river named in paragraph (93) of subsection (a) of this section shall be completed not later than three years after October 30, 1986.
+(3) The studies of the rivers named in paragraphs (59) through (76) of subsection (a) of this section shall be completed and reports submitted thereon not later than five full fiscal years after November 10, 1978. The study of rivers named in paragraphs (62) through (64) of subsection (a) of this section shall be completed and the report thereon submitted by not later than April 1981. The study of the river named in paragraph (90) of subsection (a) of this section shall be completed not later than three years after October 17, 1984. The study of the river named in paragraph (93) of subsection (a) of this section shall be completed not later than three years after October 30, 1986.
 
 (4) For the purposes of conducting the studies of rivers named in subsection (a) of this section, there are authorized to be appropriated such sums as necessary.
 
@@ -438,7 +442,7 @@ Lower Farmington River and Salmon Brook, Connecticut.—The segment of the Farmi
 
 (9) The study of the Pemigewasset River, New Hampshire, shall be completed and the report thereon submitted not later than three years after August 10, 1990.
 
-(10) The study of the river named in paragraph (106) <sup>4</sup> of subsection (a) of this section shall be completed not later than three years after August 15, 1990. In carrying out the study, the Secretary of the Interior shall consult with the Governors of the States of Florida and Georgia or their representatives, representatives of affected local governments, and owners of land adjacent to the river. Such consultation shall include participation in the assessment of resource values and the development of alternatives for the protection of those resource values, and shall be carried out through public meetings and media notification. The study shall also include a recommendation on the part of the Secretary as to the role the States, local governments and landowners should play in the management of the river if it were designated as a component of the National Wild and Scenic Rivers System.
+(10) The study of the river named in paragraph (106) <sup>4</sup> of subsection (a) of this section shall be completed not later than three years after August 15, 1990. In carrying out the study, the Secretary of the Interior shall consult with the Governors of the States of Florida and Georgia or their representatives, representatives of affected local governments, and owners of land adjacent to the river. Such consultation shall include participation in the assessment of resource values and the development of alternatives for the protection of those resource values, and shall be carried out through public meetings and media notification. The study shall also include a recommendation on the part of the Secretary as to the role the States, localgovernments and landowners should play in the management of the river if it were designated as a component of the National Wild and Scenic Rivers System.
 
 (11) The study of the Lamprey River, New Hampshire, shall be completed by the Secretary of the Interior and the report thereon submitted not later than 3 years after December 11, 1991.
 
@@ -474,6 +478,14 @@ Taunton River, Massachusetts.—Not later than 3 years after October 19, 2000, t
 
 (18) The study of the Eightmile River, Connecticut, named in paragraph (138) of subsection (a) of this section shall be completed by the Secretary of the Interior and the report thereon submitted to Congress not later than 3 years after November 6, 2001.
 
+(19)
+
+Missisquoi and trout rivers, vermont.—Not later than 3 years after the date on which funds are made available to carry out this paragraph, the Secretary of the Interior shall—
+
+&emsp;(A) complete the study of the Missisquoi and Trout Rivers, Vermont, described in subsection (a)(140); and
+
+&emsp;(B) submit a report describing the results of that study to the appropriate committees of Congress.
+
 #### (c) State participation
 
 The study of any of said rivers shall be pursued in as close cooperation with appropriate agencies of the affected State and its political subdivisions as possible, shall be carried on jointly with such agencies if request for such joint study is made by the State and shall include a determination of the degree to which the State or its political subdivisions might participate in the preservation and administration of the river should it be proposed for inclusion in the national wild and scenic rivers system.
@@ -484,7 +496,7 @@ The study of any of said rivers shall be pursued in as close cooperation with ap
 
 (2) The Congress finds that the Secretary of the Interior, in preparing the Nationwide Rivers Inventory as a specific study for possible additions to the National Wild and Scenic Rivers System, identified the Upper Klamath River from below the John Boyle Dam to the Oregon-California State line. The Secretary, acting through the Bureau of Land Management, is authorized under this subsection to complete a study of the eligibility and suitability of such segment for potential addition to the National Wild and Scenic Rivers System. Such study shall be completed, and a report containing the results of the study shall be submitted to Congress by April 1, 1990. Nothing in this paragraph shall affect the authority or responsibilities of any other Federal agency with respect to activities or actions on this segment and its immediate environment.
 
-(Pub. L. 90–542, §5, Oct. 2, 1968, 82 Stat. 910; Pub. L. 93–279, §1(b)(2), May 10, 1974, 88 Stat. 123; Pub. L. 93–621, §1(a), (b), Jan. 3, 1975, 88 Stat. 2094, 2095; Pub. L. 94–199, §5(a), Dec. 31, 1975, 89 Stat. 1118; Pub. L. 94–486, title IV, §401, title VII, §701, Oct. 12, 1976, 90 Stat. 2330; Pub. L. 95–625, title VII, §§721–736, title XI, §1108, Nov. 10, 1978, 92 Stat. 3530–3532, 3547; Pub. L. 96–87, title IV, §404, Oct. 12, 1979, 93 Stat. 667; Pub. L. 96–199, title I, §102, Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–487, title VI, §604, Dec. 2, 1980, 94 Stat. 2415; Pub. L. 98–323, title II, §201, June 19, 1984, 98 Stat. 261; Pub. L. 98–484, §5, Oct. 17, 1984, 98 Stat. 2259; Pub. L. 98–494, §2, Oct. 19, 1984, 98 Stat. 2274; Pub. L. 99–590, title II, §202(b), (c), title III, §301, title V, §503, Oct. 30, 1986, 100 Stat. 3332–3335; Pub. L. 99–663, §13(d), Nov. 17, 1986, 100 Stat. 4294; Pub. L. 100–33, §1, May 7, 1987, 101 Stat. 299; Pub. L. 100–149, §2, Nov. 2, 1987, 101 Stat. 879; Pub. L. 100–557, title I, §§103, 104, Oct. 28, 1988, 102 Stat. 2790; Pub. L. 101–40, §2(b), June 20, 1989, 103 Stat. 82; Pub. L. 101–356, §§2, 3, Aug. 10, 1990, 104 Stat. 417; Pub. L. 101–357, §§2, 3, Aug. 10, 1990, 104 Stat. 418; Pub. L. 101–364, §1, Aug. 15, 1990, 104 Stat. 428; Pub. L. 101–538, §1, Nov. 8, 1990, 104 Stat. 2376; Pub. L. 101–628, title VII, §703, Nov. 28, 1990, 104 Stat. 4497; Pub. L. 102–50, §3(a), May 24, 1991, 105 Stat. 254; Pub. L. 102–214, §§2, 3, Dec. 11, 1991, 105 Stat. 1663; Pub. L. 102–215, §§3, 4, Dec. 11, 1991, 105 Stat. 1664; Pub. L. 102–249, §4, Mar. 3, 1992, 106 Stat. 48; Pub. L. 102–271, §5(a), Apr. 20, 1992, 106 Stat. 110; Pub. L. 102–301, §7(a), June 19, 1992, 106 Stat. 245; Pub. L. 102–432, §2, Oct. 23, 1992, 106 Stat. 2213; Pub. L. 102–460, §1(a), (b), Oct. 23, 1992, 106 Stat. 2270; Pub. L. 102–525, title IV, §401, Oct. 26, 1992, 106 Stat. 3441; Pub. L. 103–242, §3, May 4, 1994, 108 Stat. 611; Pub. L. 104–311, Oct. 19, 1996, 110 Stat. 3818; Pub. L. 104–333, div. I, title IV, §407(b), Nov. 12, 1996, 110 Stat. 4152; Pub. L. 106–318, §§3, 4, Oct. 19, 2000, 114 Stat. 1278; Pub. L. 107–65, §§3, 4, Nov. 6, 2001, 115 Stat. 484; Pub. L. 109–370, §2(a), Nov. 27, 2006, 120 Stat. 2643.)
+(Pub. L. 90–542, §5, Oct. 2, 1968, 82 Stat. 910; Pub. L. 93–279, §1(b)(2), May 10, 1974, 88 Stat. 123; Pub. L. 93–621, §1(a), (b), Jan. 3, 1975, 88 Stat. 2094, 2095; Pub. L. 94–199, §5(a), Dec. 31, 1975, 89 Stat. 1118; Pub. L. 94–486, title IV, §401, title VII, §701, Oct. 12, 1976, 90 Stat. 2330; Pub. L. 95–625, title VII, §§721–736, title XI, §1108, Nov. 10, 1978, 92 Stat. 3530–3532, 3547; Pub. L. 96–87, title IV, §404, Oct. 12, 1979, 93 Stat. 667; Pub. L. 96–199, title I, §102, Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–487, title VI, §604, Dec. 2, 1980, 94 Stat. 2415; Pub. L. 98–323, title II, §201, June 19, 1984, 98 Stat. 261; Pub. L. 98–484, §5, Oct. 17, 1984, 98 Stat. 2259; Pub. L. 98–494, §2, Oct. 19, 1984, 98 Stat. 2274; Pub. L. 99–590, title II, §202(b), (c), title III, §301, title V, §503, Oct. 30, 1986, 100 Stat. 3332–3335; Pub. L. 99–663, §13(d), Nov. 17, 1986, 100 Stat. 4294; Pub. L. 100–33, §1, May 7, 1987, 101 Stat. 299; Pub. L. 100–149, §2, Nov. 2, 1987, 101 Stat. 879; Pub. L. 100–557, title I, §§103, 104, Oct. 28, 1988, 102 Stat. 2790; Pub. L. 101–40, §2(b), June 20, 1989, 103 Stat. 82; Pub. L. 101–356, §§2, 3, Aug. 10, 1990, 104 Stat. 417; Pub. L. 101–357, §§2, 3, Aug. 10, 1990, 104 Stat. 418; Pub. L. 101–364, §1, Aug. 15, 1990, 104 Stat. 428; Pub. L. 101–538, §1, Nov. 8, 1990, 104 Stat. 2376; Pub. L. 101–628, title VII, §703, Nov. 28, 1990, 104 Stat. 4497; Pub. L. 102–50, §3(a), May 24, 1991, 105 Stat. 254; Pub. L. 102–214, §§2, 3, Dec. 11, 1991, 105 Stat. 1663; Pub. L. 102–215, §§3, 4, Dec. 11, 1991, 105 Stat. 1664; Pub. L. 102–249, §4, Mar. 3, 1992, 106 Stat. 48; Pub. L. 102–271, §5(a), Apr. 20, 1992, 106 Stat. 110; Pub. L. 102–301, §7(a), June 19, 1992, 106 Stat. 245; Pub. L. 102–432, §2, Oct. 23, 1992, 106 Stat. 2213; Pub. L. 102–460, §1(a), (b), Oct. 23, 1992, 106 Stat. 2270; Pub. L. 102–525, title IV, §401, Oct. 26, 1992, 106 Stat. 3441; Pub. L. 103–242, §3, May 4, 1994, 108 Stat. 611; Pub. L. 104–311, Oct. 19, 1996, 110 Stat. 3818; Pub. L. 104–333, div. I, title IV, §407(b), Nov. 12, 1996, 110 Stat. 4152; Pub. L. 106–318, §§3, 4, Oct. 19, 2000, 114 Stat. 1278; Pub. L. 107–65, §§3, 4, Nov. 6, 2001, 115 Stat. 484; Pub. L. 109–370, §2(a), Nov. 27, 2006, 120 Stat. 2643; Pub. L. 111–11, title V, §5101(a), (b), Mar. 30, 2009, 123 Stat. 1153.)
 
 #### References in Text
 
@@ -495,6 +507,10 @@ Section 5 of the Michigan Scenic Rivers Act of 1990, referred to in subsec. (b)(
 Section 3183 of this title, referred to in subsec. (b)(6), was in the original “section 1204 of the Alaska National Interest Lands Conservation Act” and has been editorially translated as section 3183 of this title, which is section 1203 of that Act, as the probable intent of Congress, in view of that Act being enacted without a section 1204 and section 1203 of that Act relating to the Bristol Bay Cooperative Region Plan.
 
 #### Amendments
+
+2009—Subsec. (a)(140). Pub. L. 111–11, §5101(a), added par. (140).
+
+Subsec. (b)(19). Pub. L. 111–11, §5101(b), added par. (19).
 
 2006—Subsec. (a)(139). Pub. L. 109–370 added par. (139).
 
@@ -508,7 +524,7 @@ Subsec. (a)(137). Pub. L. 106–318, §3(2), added par. (137).
 
 Subsec. (b)(8), (10). Pub. L. 106–318, §4(1), redesignated par. (8) relating to study of St. Marys River, Florida and Georgia, as (10).
 
-Subsec. (b)(11) to (14). Pub. L. 106–318, §4(2)–(4), redesignated par. (11) relating to study of White Clay Creek,Delaware and Pennsylvania, as (12), par. (11) relating to study of segments of Brule, Carp, and other rivers in Michigan as (13), and par. (11) relating to study of segments of Delaware River in Pennsylvania and New Jersey as (14).
+Subsec. (b)(11) to (14). Pub. L. 106–318, §4(2)–(4), redesignated par. (11) relating to study of White Clay Creek, Delaware and Pennsylvania, as (12), par. (11) relating to study of segments of Brule, Carp, and other rivers in Michigan as (13), and par. (11) relating to study of segments of Delaware River in Pennsylvania and New Jersey as (14).
 
 Subsec. (b)(15). Pub. L. 106–318, §4(5), designated unnumbered par. relating to study of Rio Grande, New Mexico, as par. (15).
 
@@ -542,7 +558,7 @@ Pub. L. 102–301 added unnumbered pars. relating to the following rivers in Cal
 
 Pub. L. 102–271 added unnumbered pars. relating to Clarion River and Mill Creek, Pennsylvania.
 
-Pub. L. 102–249, §4(a), added unnumbered pars. relating to the Brule River in Michigan and Wisconsin, and the following rivers in Michigan: Carp, Little Manistee, White, Ontonagon, Paint, Presque Isle, Sturgeon (Ottawa National Forest), Sturgeon (Hiawatha National Forest), Tahquamenon, and Whitefish.
+Pub. L. 102–249, §4(a), added unnumbered pars. relating to the Brule River in Michigan and Wisconsin, andthe following rivers in Michigan: Carp, Little Manistee, White, Ontonagon, Paint, Presque Isle, Sturgeon (Ottawa National Forest), Sturgeon (Hiawatha National Forest), Tahquamenon, and Whitefish.
 
 Subsec. (b)(11). Pub. L. 102–460, §1(b), added par. (11) relating to study of segments of Delaware River in Pennsylvania and New Jersey.
 

@@ -6,7 +6,7 @@ Congress finds that—
 
 &emsp;(1) the Nation's farmland is a unique natural resource and provides food and fiber necessary for the continued welfare of the people of the United States;
 
-&emsp;(2) each year, a large amount of the Nation's farmland is irrevocably converted from actual or potential agricultural use to nonagricultural use;
+&emsp;(2) each year, a large amount of the Nation's farmland is irrevocably converted from actualor potential agricultural use to nonagricultural use;
 
 &emsp;(3) continued decrease in the Nation's farmland base may threaten the ability of the United States to produce food and fiber in sufficient quantities to meet domestic needs and the demands of our export markets;
 
@@ -164,7 +164,7 @@ Required Purchases of Stock.—The Secretary shall promptly notify the Secretary
 
 “(e)
 
-Entitlements.—The Secretary is entitled to receive funds, and shall receive funds, from the Secretary of the Treasury in an amount equal to the total par-value of the stock issued to the Secretary of the Treasury. Each State trust fund is entitled to receive, and the Secretary of Agriculture shall promptly pay to each such trust fund, amounts calculated under procedures described in subsection (b).
+Entitlements.—The Secretary is entitled to receive funds, and shall receive funds, from the Secretary of the Treasury in an amount equal to the total par-value of the stock issued to the Secretary of the Treasury. Each State trust fund is entitled to receive, and the Secretary of Agriculture shall promptly pay toeach such trust fund, amounts calculated under procedures described in subsection (b).
 
 “(f)
 

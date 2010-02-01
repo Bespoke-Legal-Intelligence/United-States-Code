@@ -177,7 +177,7 @@ Subsec. (b)(2)(B) to (D). Pub. L. 105–178, §4015(b)(2), (3), added subpar. (B
 
 1994—Subsec. (b)(1)(A). Pub. L. 103–272, §5(m)(11)(A), substituted “a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), 31310(g)(1)(A), or 31502 of this title” for “section 3102 of this title or the Motor Carrier Safety Act of 1984 or section 12002, 12003, 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986” and “any of those provisions” for “such sections or Act”.
 
-Subsec. (b)(2)(A). Pub. L. 103–272, §5(m)(11)(B), substituted “under subchapter III of chapter 311 (exceptsections 31138 and 31139) or section 31502 of this title” for “pursuant to section 3102 of this title or the Motor Carrier Safety Act of 1984”.
+Subsec. (b)(2)(A). Pub. L. 103–272, §5(m)(11)(B), substituted “under subchapter III of chapter 311 (except sections 31138 and 31139) or section 31502 of this title” for “pursuant to section 3102 of this title or the Motor Carrier Safety Act of 1984”.
 
 Pub. L. 103–272, §4(j)(11)(D), substituted “chapter 59 of this title” for “section 508 of this title”.
 
@@ -193,7 +193,7 @@ Subsec. (b)(6)(B)(i). Pub. L. 103–272, §5(m)(11)(G), substituted “section 3
 
 Subsec. (b)(6)(B)(ii). Pub. L. 103–272, §5(m)(11)(H), substituted “section 31301 of this title” for “section 12019 of such Act”, “section 31303(a) of this title” for “section 12003(a) of such Act”, and “section 31303(a)” for “such section 12003(a)”.
 
-Subsec. (b)(12). Pub. L. 103–272, §5(m)(11)(I), substituted “chapter 51 of this title” for “any provision of the Hazardous Materials Transportation Act (49 U.S.C. App. 1801–1812)” and “chapter 51” for “such Act”.
+Subsec. (b)(12). Pub. L. 103–272, §5(m)(11)(I), substituted “chapter 51 of this title” for “any provision ofthe Hazardous Materials Transportation Act (49 U.S.C. App. 1801–1812)” and “chapter 51” for “such Act”.
 
 Subsec. (b)(13). Pub. L. 103–272, §5(m)(11)(J), substituted “section 31132 of this title” for “section 204 of the Motor Carrier Safety Act of 1984”.
 

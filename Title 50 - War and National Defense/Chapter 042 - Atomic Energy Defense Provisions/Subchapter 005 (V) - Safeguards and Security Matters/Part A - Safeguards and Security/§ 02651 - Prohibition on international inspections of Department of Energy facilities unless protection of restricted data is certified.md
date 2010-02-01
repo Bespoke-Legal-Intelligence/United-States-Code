@@ -20,5 +20,5 @@ Subsec. (a) of section 3154 of Pub. L. 104–106 was formerly set out as a note 
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–136, §3141(h)(2)(D), redesignated par. (1) of subsec. (a) as entire subsec. (a) and par. (2) of subsec. (a) as subsec. (c) and, in subsec. (c), inserted heading and substituted “In this section” for “For purposes of paragraph (1)”. Subsec. (c) was editorially transferred to follow subsec. (b), to reflect the probable intent of Congress.
+2003—Pub. L. 108–136, §3141(h)(2)(D), redesignated par. (1) of subsec. (a) as entire subsec. (a) and par. (2) of subsec. (a) as subsec. (c) and, in subsec. (c), inserted heading and substituted “In this section” for “For purposes of paragraph (1)”. Subsec. (c) was editorially transferred to follow subsec. (b), to reflect the probable intent of Congress.
 

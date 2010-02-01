@@ -22,7 +22,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 #### (A) In general
 
-&emsp;&emsp;The election to receive a share of the State payment, the county payment, a share of the State payment and the county payment, a share of the 25-percent payment, the 50-percent payment, or a share of the 25-percent payment and the 50-percent payment, as applicable, shall be made at the discretion of each affected county by August 1, 2008 (or as soon thereafter as the Secretary concerned determines is practicable), and August 1 of each second fiscal year thereafter, in accordance with paragraph (2), and transmitted to the Secretary concerned by the Governor of each eligible State.
+&emsp;&emsp;The election to receive a share of the State payment, the county payment, a share of the State payment and the county payment, a share of the 25-percent payment, the 50-percent payment, or a share of the 25-percent payment and the 50-percent payment, as applicable, shall be made at the discretionof each affected county by August 1, 2008 (or as soon thereafter as the Secretary concerned determines is practicable), and August 1 of each second fiscal year thereafter, in accordance with paragraph (2), and transmitted to the Secretary concerned by the Governor of each eligible State.
 
 #### (B) Failure to transmit
 
@@ -72,7 +72,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 #### (B) Election as to use of balance
 
-&emsp;&emsp;Except as provided in subparagraph (C), an eligible county shall elect to do 1 or more ofthe following with the balance of any funds not expended pursuant to subparagraph (A):
+&emsp;&emsp;Except as provided in subparagraph (C), an eligible county shall elect to do 1 or more of the following with the balance of any funds not expended pursuant to subparagraph (A):
 
 &emsp;&emsp;&emsp;(i) Reserve any portion of the balance for projects in accordance with subchapter II.
 

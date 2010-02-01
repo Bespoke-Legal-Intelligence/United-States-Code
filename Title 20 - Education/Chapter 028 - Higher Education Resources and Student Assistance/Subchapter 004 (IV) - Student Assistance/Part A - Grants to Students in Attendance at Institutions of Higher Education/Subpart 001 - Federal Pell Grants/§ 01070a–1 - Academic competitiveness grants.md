@@ -14,7 +14,7 @@ A grant under this section—
 
 #### (c) Definition of eligible student
 
-In this section the term “eligible student” means a student who, for the award year for which the determination of eligibility is made for a grant under this section—
+In this section the term “eligible student” means a student who, for the award year forwhich the determination of eligibility is made for a grant under this section—
 
 &emsp;(1) is eligible for a Federal Pell Grant;
 
@@ -76,7 +76,7 @@ In this section the term “eligible student” means a student who, for the awa
 
 &emsp;&emsp;&emsp;&emsp;(II) a critical foreign language; and
 
-&emsp;&emsp;&emsp;(ii) has obtained a cumulative grade point average of at least 3.0 (or the equivalent, as determined under regulations prescribed by the Secretary) in thecoursework required for the major described in clause (i).
+&emsp;&emsp;&emsp;(ii) has obtained a cumulative grade point average of at least 3.0 (or the equivalent, as determined under regulations prescribed by the Secretary) in the coursework required for the major described in clause (i).
 
 #### (d) Grant award
 
@@ -174,7 +174,7 @@ Subsec. (c)(3). Pub. L. 110–227, §10(a)(3)(C)(i), struck out “academic” b
 
 Subsec. (c)(3)(A). Pub. L. 110–227, §10(a)(3)(C)(ii)(I), substituted, in introductory provisions, “the first year of a program of undergraduate education at a two- or four-year degree-granting institution of higher education (including a program of not less than one year for which the institution awards a certificate)—” for “the first year of a program of undergraduate education at a two- or four-year degree-granting institution of higher education—”.
 
-Subsec. (c)(3)(A)(i). Pub. L. 110–315, §402(a)(1)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows: “has successfully completed, after January 1,2006, a rigorous secondary school program of study established by a State or local educational agency and recognized as such by the Secretary; and”. See Effective Date of 2008 Amendment notes below.
+Subsec. (c)(3)(A)(i). Pub. L. 110–315, §402(a)(1)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows: “has successfully completed, after January 1, 2006, a rigorous secondary school program of study established by a State or local educational agency and recognized as such by the Secretary; and”. See Effective Date of 2008 Amendment notes below.
 
 Pub. L. 110–227, §10(a)(3)(C)(ii)(II), added cl. (i) and struck out former cl. (i), as amended by Pub. L. 110–315, §402(a)(1)(A)(i), which read as follows:
 

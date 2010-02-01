@@ -16,25 +16,25 @@ The head of the Office shall be the Ombudsman. The individual serving as Ombudsm
 
 The duties of the Office shall be as follows:
 
-&emsp;(1) To provide information on the benefits available under this part and on the requirements and procedures applicable to the provision of such benefits.
+&emsp;(1) To provide information on the benefits available under this part and part B and on the requirements and procedures applicable to the provision of such benefits.
 
-&emsp;(2) To make recommendations to the Secretary regarding the location of centers (to be known as “resource centers”) for the acceptance and development of claims for benefits under this part.
+&emsp;(2) To make recommendations to the Secretary regarding the location of centers (to be known as “resource centers”) for the acceptance and development of claims for benefits under this part and part B.
 
-&emsp;(3) To carry out such other duties with respect to this part as the Secretary shall specify for purposes of this section.
+&emsp;(3) To carry out such other duties with respect to this part and part B as the Secretary shall specify for purposes of this section.
 
 #### (d) Independent Office
 
-The Secretary shall take appropriate actions to ensure the independence of the Office within the Department of Labor, including independence from other officers and employees of the Department engaged in activities relating to the administration of the provisions of this part.
+The Secretary shall take appropriate actions to ensure the independence of the Office within the Department of Labor, including independence from other officers and employees of the Department engaged in activities relating to the administration of the provisions of this part and part B.
 
 #### (e) Annual report
 
-(1) Not later than February 15 each year, the Ombudsman shall submit to Congress a report on activities under this part.
+(1) Not later than February 15 each year, the Ombudsman shall submit to Congress a report on activities under this part and part B.
 
 (2) Each report under paragraph (1) shall set forth the following:
 
-&emsp;(A) The number and types of complaints, grievances, and requests for assistance received by the Ombudsman under this part during the preceding year.
+&emsp;(A) The number and types of complaints, grievances, and requests for assistance received by the Ombudsman under this part and part B during the preceding year.
 
-&emsp;(B) An assessment of the most common difficulties encountered by claimants and potential claimants under this part during the preceding year.
+&emsp;(B) An assessment of the most common difficulties encountered by claimants and potential claimants under this part and part B during the preceding year.
 
 (3) The first report under paragraph (1) shall be the report submitted in 2006.
 
@@ -42,13 +42,25 @@ The Secretary shall take appropriate actions to ensure the independence of the O
 
 The Secretary of Labor and the Secretary of Health and Human Services shall each undertake outreach to advise the public of the existence and duties of the Office.
 
-#### (g) Sunset
+#### (g) National Institute for Occupational Safety and Health Ombudsman
+
+In carrying out the duties of the Ombudsman under this section, the Ombudsman shall work with the individual employed by the National Institute for Occupational Safety and Health to serve as an ombudsman to individuals making claims under part B.
+
+#### (h) Sunset
 
 Effective October 28, 2012, this section shall have no further force or effect.
 
-(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3686\], as added Pub. L. 108–375, div. C, title XXXI, §3161, Oct. 28, 2004, 118 Stat. 2185; amended Pub. L. 110–181, div. C, title XXXI, §3116, Jan. 28, 2008, 122 Stat. 578.)
+(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3686\], as added Pub. L. 108–375, div. C, title XXXI, §3161, Oct. 28, 2004, 118 Stat. 2185; amended Pub. L. 110–181, div. C, title XXXI, §3116, Jan. 28, 2008, 122 Stat. 578; Pub. L. 111–84, div. C, title XXXI, §3142(a), Oct. 28, 2009, 123 Stat. 2715.)
 
 #### Amendments
 
+2009—Subsecs. (c) to (e). Pub. L. 111–84, §3142(a)(1)–(3), inserted “and part B” after “this part” wherever appearing.
+
+Subsecs. (g), (h). Pub. L. 111–84, §3142(a)(4), (5), added subsec. (g) and redesignated former subsec. (g) as (h).
+
 2008—Subsec. (g). Pub. L. 110–181 substituted “October 28, 2012” for “on the date that is 3 years after October 28, 2004”.
+
+#### Construction
+
+Pub. L. 111–84, div. C, title XXXI, §3142(b), Oct. 28, 2009, 123 Stat. 2716, provided that: “Except as specifically provided in subsection (g) of section 3686 of the Energy Employees Occupational Illness Compensation Program Act of 2000 \[42 U.S.C. 7385s–15(g)\], as amended by subsection (a) of this section, nothing in the amendments made by such subsection (a) shall be construed to alter or affect the duties and functions of the individual employed by the National Institute for Occupational Safety and Health to serve as an ombudsman to individuals making claims under subtitle B of the Energy Employees Occupational Illness Compensation Program Act of 2000 (42 U.S.C. 7384<i>l</i> et seq.).”
 

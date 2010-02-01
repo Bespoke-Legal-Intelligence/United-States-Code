@@ -16,7 +16,7 @@
 
 (d) The Office of Personnel Management may prescribe regulations necessary for the administration of this section.
 
-(Added Pub. L. 90–105, §1(a), Oct. 11, 1967, 81 Stat. 273; amended Pub. L. 91–375, §6(c)(6), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(B)\], Nov. 5, 1990, 104 Stat. 1427, 1441.)
+(Added Pub. L. 90–105, §1(a), Oct. 11, 1967, 81 Stat. 273; amended Pub. L. 91–375, §6(c)(6), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IX,§906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(B)\], Nov. 5, 1990, 104 Stat. 1427, 1441.)
 
 #### Amendments
 

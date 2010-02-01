@@ -44,7 +44,7 @@ Provisions similar to those in this section were contained in former section 98f
 
 #### Amendments
 
-<b>1989</b>—Subsecs. (c), (d). Pub. L. 101–189 added subsecs. (c) and (d).
+1989—Subsecs. (c), (d). Pub. L. 101–189 added subsecs. (c) and (d).
 
 #### Delegation of Functions
 

@@ -18,7 +18,7 @@ If for any 12-month period beginning on or after January 1, 1981, the Secretary,
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, the applicable rate of interest on loans made pursuant to section 1078–1 <sup>1</sup> or 1078–2 of this title on or after October 1, 1981,shall be 14 percent per year on the unpaid principal balance of the loan.
+&emsp;Except as otherwise provided in this subsection, the applicable rate of interest onloans made pursuant to section 1078–1 <sup>1</sup> or 1078–2 of this title on or after October 1, 1981, shall be 14 percent per year on the unpaid principal balance of the loan.
 
 #### (2) Reduction of rate after decline in Treasury bill rates
 
@@ -210,7 +210,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 &emsp;(A) Subject to subparagraphs (C) and (D), a lender or holder shall convert the interest rate on a loan that is made pursuant to this part and is subject to the provisions of this subsection to a variable rate. Such conversion shall occur not later than January 1, 1995, and, commencing on the date of conversion, the applicable interest rate for each 12-month period beginning on July 1 and ending on June 30 shall be determined by the Secretary on the June 1 preceding each such 12-month period and be equal to the sum of (i) the bond equivalent rate of the 91-day Treasury bills auctioned at the final auction prior to such June 1; and (ii) 3.25 percent in the case of loans described in paragraph (1), or 3.10 percent in the case of loans described in paragraph (3).
 
-&emsp;(B) In connection with the conversion specified in subparagraph (A) for any period prior to such conversion, and subject to paragraphs (C) and (D), a lender or holder shall convert the interest rate to a variable rate on a loan that is made pursuant to this part and is subject to the provisions of this subsection to a variable rate. The interest rates for such period shall be reset on a quarterly basis and the applicable interest rate for any quarter or portion thereof shall equal the sum of (i) the average of the bond equivalent rates of 91-Treasury bills auctioned for the preceding 3-month period, and (ii) 3.25 percent in the case of loans described in paragraph (1) or 3.10 percent in the case of loans described in paragraph (3).The rebate of excess interest derived through this conversion shall be provided to the borrower as specified in paragraph (5) for loans described in paragraph (1) or to the Government and borrower as specified in paragraph (3).
+&emsp;(B) In connection with the conversion specified in subparagraph (A) for any period prior to such conversion, and subject to paragraphs (C) and (D), a lender or holder shall convert the interest rate to a variable rate on a loan that is made pursuant to this part and is subject to the provisions of this subsection to a variable rate. The interest rates for such period shall be reset on a quarterly basis and the applicable interest rate for any quarter or portion thereof shall equal the sum of (i) the average of the bond equivalent rates of 91-Treasury bills auctioned for the preceding 3-monthperiod, and (ii) 3.25 percent in the case of loans described in paragraph (1) or 3.10 percent in the case of loans described in paragraph (3). The rebate of excess interest derived through this conversion shall be provided to the borrower as specified in paragraph (5) for loans described in paragraph (1) or to the Government and borrower as specified in paragraph (3).
 
 &emsp;(C) A lender or holder of a loan being converted pursuant to this paragraph shall complete such conversion on or before January 1, 1995. The lender or holder shall notify the borrower that the loan shall be converted to a variable interest rate and provide a description of the rate to the borrower not later than 30 days prior to the conversion. The notice shall advise the borrower that such rate shall be calculated in accordance with the procedures set forth in this paragraph and shall provide the borrower with a substantially equivalent benefit as the adjustment otherwise provided for under this subsection. Such notice may be incorporated into the disclosure required under section 1083(b) of this title if such disclosure has not been previously made.
 
@@ -348,7 +348,7 @@ Section 1078–1 of this title, referred to in subsecs. (c) to (e)(1), was repea
 
 #### Codification
 
-Amendments by section 2(c)(6)–(10) of Pub. L. 103–208 (which were effective as if included in Pub. L. 102–325) were executed to this section as amended by Pub. L.102–325 and Pub. L. 103–66, to reflect the probable intent of Congress.
+Amendments by section 2(c)(6)–(10) of Pub. L. 103–208 (which were effective as if included in Pub. L. 102–325) were executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–66, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
@@ -438,7 +438,7 @@ Amendment by section 2(c)(5) of Pub. L. 103–208 effective on and after Dec. 20
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

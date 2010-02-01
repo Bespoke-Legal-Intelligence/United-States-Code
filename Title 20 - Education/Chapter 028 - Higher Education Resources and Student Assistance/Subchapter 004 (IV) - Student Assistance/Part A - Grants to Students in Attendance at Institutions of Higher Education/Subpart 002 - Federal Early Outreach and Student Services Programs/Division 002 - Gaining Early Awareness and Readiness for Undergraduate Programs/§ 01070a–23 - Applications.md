@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(ii) if the eligible entity is described in section 1070a–21(c)(2) of this title and requests that contributions to the eligible entity's scholarship fund established under section 1070a–25 of this title be matched on a two to one basis; or
 
-&emsp;&emsp;(B) in response to a petition by an eligible entity subsequent to a grant award under this section if the eligible entity demonstrates that the matching funds describedin its application are no longer available and the eligible entity has exhausted all revenues for replacing such matching funds.
+&emsp;&emsp;(B) in response to a petition by an eligible entity subsequent to a grant award under this section if the eligible entity demonstrates that the matching funds described in its application are no longer available and the eligible entity has exhausted all revenues for replacing such matching funds.
 
 #### (c) Methods for complying with matching requirement
 

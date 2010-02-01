@@ -138,7 +138,7 @@ Section 330 of Pub. L. 103–325 provided that:
 
 “(a)
 
-Study.—The Secretary of the Treasury, in consultation with the Board of Governors of the FederalReserve System, the Administrator of the Small Business Administration, the Secretary of Housing and Urban Development, and the other Federal banking agencies, shall conduct a study of the process, including any Federal laws, by which credit is made available for consumers and small businesses in order to identify procedures, including any Federal laws, which have the effect of—
+Study.—The Secretary of the Treasury, in consultation with the Board of Governors of the Federal Reserve System, the Administrator of the Small Business Administration, the Secretary of Housing and Urban Development, and the other Federal banking agencies, shall conduct a study of the process, including any Federal laws, by which credit is made available for consumers and small businesses in order to identify procedures, including any Federal laws, which have the effect of—
 
 &emsp;“(1) reducing the amount of credit available for such purposes or the number of persons eligible for such credit;
 

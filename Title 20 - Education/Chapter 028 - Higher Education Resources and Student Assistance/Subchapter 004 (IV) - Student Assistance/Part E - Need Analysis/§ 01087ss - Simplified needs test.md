@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) certify that the parents are not required to file a Federal income tax return;
 
-&emsp;&emsp;&emsp;&emsp;(III) 1 of whom is a dislocated worker; or
+&emsp;&emsp;&emsp;&emsp;(III) include at least one parent who is a dislocated worker; or
 
 &emsp;&emsp;&emsp;&emsp;(IV) received, or the student received, benefits at some time during the previous 24-month period under a means-tested Federal benefit program as defined under subsection (d); and
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) certifies that the student (and the student's spouse, if any) is not required to file a Federal income tax return;
 
-&emsp;&emsp;&emsp;&emsp;(III) 1 of whom is a dislocated worker; or
+&emsp;&emsp;&emsp;&emsp;(III) is a dislocated worker or has a spouse who is a dislocated worker; or
 
 &emsp;&emsp;&emsp;&emsp;(IV) received benefits at some time during the previous 24-month period under a means-tested Federal benefit program as defined under subsection (d); and
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(E) the number of family members in postsecondary education, and
 
-&emsp;&emsp;(F) an allowance (A) for State and other taxes, as defined in section 1087<i>oo</i>(c)(2) of this title for dependent students and in section 1087qq(b)(2) of this title for independent students with dependents other than a spouse, or (B) for State and other income taxes, as defined in section 1087pp(b)(2) of this title for independent students without dependents other than a spouse.
+&emsp;&emsp;(F) an allowance (A) for State and other taxes, as defined in section 1087<i>oo</i>(c)(2) of this title for dependent students and in section 1087qq(b)(2) of this title for independent students with dependents other than aspouse, or (B) for State and other income taxes, as defined in section 1087pp(b)(2) of this title for independent students without dependents other than a spouse.
 
 #### (3) Qualifying forms
 
@@ -86,7 +86,7 @@ The Secretary shall consider an applicant to have an expected family contributio
 
 &emsp;&emsp;&emsp;(ii) certify that the parents are not required to file a Federal income tax return;
 
-&emsp;&emsp;&emsp;(iii) 1 of whom is a dislocated worker; or
+&emsp;&emsp;&emsp;(iii) include at least one parent who is a dislocated worker; or
 
 &emsp;&emsp;&emsp;(iv) received, or the student received, benefits at some time during the previous 24-month period under a means-tested Federal benefit program as defined under subsection (d); and
 
@@ -100,7 +100,7 @@ The Secretary shall consider an applicant to have an expected family contributio
 
 &emsp;&emsp;&emsp;(ii) certifies that the student (and the student's spouse, if any) is not required to file a Federal income tax return;
 
-&emsp;&emsp;&emsp;(iii) 1 of whom is a dislocated worker; or
+&emsp;&emsp;&emsp;(iii) is a dislocated worker or has a spouse who is a dislocated worker; or
 
 &emsp;&emsp;&emsp;(iv) received benefits at some time during the previous 24-month period under a means-tested Federal benefit program as defined under subsection (d); and
 
@@ -132,21 +132,29 @@ In this section:
 
 &emsp;&emsp;(F) other programs identified by the Secretary.
 
-(Pub. L. 89–329, title IV, §479, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(23)–(25), June 3, 1987, 101 Stat. 352; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–26, §11, Apr. 9, 1991, 105 Stat. 129; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 604; Pub. L. 103–208, §2(g)(10)–(15), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §477, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 109–171, title VIII, §8018(a), Feb. 8, 2006, 120 Stat. 174; Pub. L. 110–84, title VI, §602(a), Sept. 27, 2007, 121 Stat. 804; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(N), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(N), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(Pub. L. 89–329, title IV, §479, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(23)–(25), June 3, 1987, 101 Stat. 352; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–26, §11, Apr. 9, 1991, 105 Stat. 129; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 604; Pub. L. 103–208, §2(g)(10)–(15), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §477, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 109–171, title VIII, §8018(a), Feb. 8, 2006, 120 Stat. 174; Pub. L. 110–84, title VI, §602(a), Sept. 27, 2007, 121 Stat. 804; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(N), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(N), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–39, title IV, §406(a)(4), July 1, 2009, 123 Stat. 1948.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (d)(2)(A), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food and Nutrition Act of 2008, referred to in subsec. (d)(2)(B), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (d)(2)(B), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat.703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(2)(C), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2009—Subsec. (b)(1)(A)(i)(III). Pub. L. 111–39, §406(a)(4)(A)(i), amended subcl. (III) generally. Prior to amendment, subcl. (III) read as follows: “1 of whom is a dislocated worker; or”.
+
+Subsec. (b)(1)(B)(i)(III). Pub. L. 111–39, §406(a)(4)(A)(ii), amended subcl. (III) generally. Prior to amendment, subcl. (III) read as follows: “1 of whom is a dislocated worker; or”.
+
+Subsec. (c)(1)(A)(iii). Pub. L. 111–39, §406(a)(4)(B)(i), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “1 of whom is a dislocated worker; or”.
+
+Subsec. (c)(2)(A)(iii). Pub. L. 111–39, §406(a)(4)(B)(ii), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “1 of whom is a dislocated worker; or”.
 
 2008—Subsec. (d)(2). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(N), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
@@ -221,6 +229,10 @@ Subsec. (b)(2). Pub. L. 100–50, §14(24)(A), struck out “and State” after 
 Subsec. (b)(6). Pub. L. 100–50, §14(24)(B)–(D), added par. (6).
 
 Subsec. (c). Pub. L. 100–50, §14(25), added subsec. (c).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted as part of amendments made by section 602(a) of Pub. L. 110–84 and effective July 1, 2009, see section 406(b)(2) of Pub. L. 111–39, set out as a note under section 1087mm of this title.
 
 #### Effective Date of 2008 Amendment
 

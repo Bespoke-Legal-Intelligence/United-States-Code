@@ -70,7 +70,7 @@ An MA regional plan shall include the following:
 
 #### (B) Notification of allowable costs under the plan
 
-&emsp;&emsp;In the case of an MA organization that offers an MA regional plan in an MA region in 2006 or 2007, the organization shall notify the Secretary, before such date in the succeeding year as the Secretary specifies, of—
+&emsp;&emsp;In the case of an MA organization that offers an MA regional plan in an MA region in2006 or 2007, the organization shall notify the Secretary, before such date in the succeeding year as the Secretary specifies, of—
 
 &emsp;&emsp;&emsp;(i) its total amount of costs that the organization incurred in providing benefits covered under the original medicare fee-for-service program option for all enrollees under the plan in the region in the year and the portion of such costs that is attributable to administrative expenses described in subparagraph (C); and
 
@@ -112,7 +112,7 @@ An MA regional plan shall include the following:
 
 #### (ii) Costs below 92 percent of target amount
 
-&emsp;&emsp;&emsp;If the allowable costs for the plan for the year are less than 92 percent of the targetamount for the plan and year, the Secretary shall reduce the total of the monthly payments made to the organization offering the plan for the year under section 1395w–23(a) of this title by an amount (or otherwise recover from the plan an amount) equal to the sum of—
+&emsp;&emsp;&emsp;If the allowable costs for the plan for the year are less than 92 percent of the target amount for the plan and year, the Secretary shall reduce the total of the monthly payments made to the organization offering the plan for the year under section 1395w–23(a) of this title by an amount (or otherwise recover from the plan an amount) equal to the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) 2.5 percent of such target amount; and
 
@@ -196,7 +196,7 @@ An MA regional plan shall include the following:
 
 #### (ii) Savings
 
-&emsp;&emsp;&emsp;The savings described in this clause are 25 percent of the average per capita savings described in section 1395w–24(b)(4)(C) of this title for which monthly rebates areprovided under section 1395w–24(b)(1)(C) of this title in the fiscal year involved that are attributable to MA regional plans.
+&emsp;&emsp;&emsp;The savings described in this clause are 25 percent of the average per capita savings described in section 1395w–24(b)(4)(C) of this title for which monthly rebates are provided under section 1395w–24(b)(1)(C) of this title in the fiscal year involved that are attributable to MA regional plans.
 
 #### (iii) Availability
 
@@ -222,7 +222,7 @@ An MA regional plan shall include the following:
 
 #### (ii) Regional plans
 
-&emsp;&emsp;&emsp;Subject to clause (iii), for an increased amount under subparagraph (C) for an MA regional plan offered in an MA region which did not have any MA regional plan offered in the prior year.
+&emsp;&emsp;&emsp;Subject to clause (iii), for an increased amount under subparagraph (C) for an MAregional plan offered in an MA region which did not have any MA regional plan offered in the prior year.
 
 #### (iii) Limitation on regional plan funding in case of national plan
 
@@ -340,24 +340,6 @@ An MA regional plan shall include the following:
 
 &emsp;&emsp;(B) a certification from the Chief Actuary of the Centers for Medicare \& Medicaid Services that the description provided under subparagraph (A) is reasonable, accurate, and based on generally accepted actuarial principles and methodologies.
 
-#### (7) Biennial GAO reports
-
-&emsp;Not later than January 1 of 2009, 2011, 2013, and 2015, the Comptroller General of the United States shall submit to the Secretary and Congress a report on the application of additional payments under this subsection. Each report shall include—
-
-&emsp;&emsp;(A) an evaluation of—
-
-&emsp;&emsp;&emsp;(i) the quality of care provided to individuals enrolled in MA regional plans for which additional payments were made under this subsection;
-
-&emsp;&emsp;&emsp;(ii) the satisfaction of such individuals with benefits under such a plan;
-
-&emsp;&emsp;&emsp;(iii) the costs to the medicare program for payments made to such plans; and
-
-&emsp;&emsp;&emsp;(iv) any improvements in the delivery of health care services under such a plan;
-
-&emsp;&emsp;(B) a comparative analysis of the performance of MA regional plans receiving payments under this subsection with MA regional plans not receiving such payments; and
-
-&emsp;&emsp;(C) recommendations for such legislation or administrative action as the Comptroller General determines to be appropriate.
-
 #### (f) Computation of applicable MA region-specific non-drug monthly benchmark amounts
 
 #### (1) Computation for regions
@@ -428,7 +410,7 @@ An MA regional plan shall include the following:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to the succeeding provisions of this subparagraph, the factor described in this subparagraph for a plan is equal to the number of individuals described in subparagraph (C) for such plan, divided by thetotal number of such individuals for all MA regional plans described in subparagraph (D) for that region and year.
+&emsp;&emsp;&emsp;Subject to the succeeding provisions of this subparagraph, the factor described in this subparagraph for a plan is equal to the number of individuals described in subparagraph (C) for such plan, divided by the total number of such individuals for all MA regional plans described in subparagraph (D) for that region and year.
 
 #### (ii) Single plan rule
 
@@ -460,7 +442,7 @@ Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an
 
 &emsp;For purposes of enabling MA organizations that offer MA regional plans to meet applicable provider access requirements under section 1395w–22 of this title with respect to such plans, the Secretary may provide for payment under this section to an essential hospital that provides inpatient hospital services to enrollees in such a plan where the MA organization offering the plan certifies to the Secretary that the organization was unable to reach an agreement between the hospital and the organization regarding provision of such services under the plan. Such payment shall be available only if—
 
-&emsp;&emsp;(A) the organization provides assurances satisfactory to the Secretary that the organization will make payment to the hospital for inpatient hospital services of an amount that is not less than the amount that would be payable to the hospital under section 1395ww of this title with respect to such services; and
+&emsp;&emsp;(A) the organization provides assurances satisfactory to the Secretary that the organization will make payment to the hospital for inpatient hospital services of an amountthat is not less than the amount that would be payable to the hospital under section 1395ww of this title with respect to such services; and
 
 &emsp;&emsp;(B) with respect to specific inpatient hospital services provided to an enrollee, the hospital demonstrates to the satisfaction of the Secretary that the hospital's costs of such services exceed the payment amount described in subparagraph (A).
 
@@ -486,9 +468,11 @@ Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an
 
 &emsp;In this subsection, the term “essential hospital” means, with respect to an MA regional plan offered by an MA organization, a subsection (d) hospital (as defined in section 1395ww(d) of this title) that the Secretary determines, based upon an application filed by the organization with the Secretary, is necessary to meet the requirements referred to in paragraph (1) for such plan.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1858, as added Pub. L. 108–173, title II, §221(c), Dec. 8, 2003, 117 Stat. 2181; amended Pub. L. 109–432, div. B, title III, §301, Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §3, July 18, 2007, 121 Stat. 244; Pub. L. 110–173, title I, §110, Dec. 29, 2007, 121 Stat. 2497; Pub. L. 110–275, title I, §166, July 15, 2008, 122 Stat. 2575.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1858, as added Pub. L. 108–173, title II, §221(c), Dec. 8, 2003, 117 Stat. 2181; amended Pub. L. 109–432, div. B, title III, §301, Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §3, July 18, 2007, 121 Stat. 244; Pub. L. 110–173, title I, §110, Dec. 29, 2007, 121 Stat. 2497; Pub. L. 110–275, title I, §166, July 15, 2008, 122 Stat. 2575; Pub. L. 111–8, div. G, title I, §1301(f), Mar. 11, 2009, 123 Stat. 829.)
 
 #### Amendments
+
+2009—Subsec. (e)(7). Pub. L. 111–8 struck out par. (7) which related to biennial GAO reports to be submitted by the Comptroller General to the Secretary and Congress.
 
 2008—Subsec. (e)(2)(A)(i). Pub. L. 110–275 substituted “2014” for “2013” and “$1” for “$1,790,000,000”.
 

@@ -16,7 +16,7 @@
 
 (2) All plans or substantial amendments submitted to the Congress pursuant to this section shall contain a report by the Attorney General of the United States with respect to the anticipated effects of such plans or amendments on competition. Such plans or amendments shall not be implemented until sixty days after such plans or amendments have been submitted to such committees.
 
-(c) During the period of production authorized by section 7422(c) of this title, the Secretary shall submit annual reports as of the first day of the fiscal year to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, and such committees shall cause such reports to be printed as a Senate or House document, as appropriate. The Secretary shall include in such reports, with respect to each naval petroleum reserve, an explanation in detail of the following:
+(c) During the period of production authorized by section 7422(c) of this title, the Secretaryshall submit annual reports as of the first day of the fiscal year to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, and such committees shall cause such reports to be printed as a Senate or House document, as appropriate. The Secretary shall include in such reports, with respect to each naval petroleum reserve, an explanation in detail of the following:
 
 &emsp;(1) The status of the exploration, development, and production programs.
 

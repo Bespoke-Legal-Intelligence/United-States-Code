@@ -68,7 +68,7 @@ In the case of any study or design documents for a flood control project that we
 
 #### (A) Reimbursement or credit
 
-&emsp;&emsp;For work (including work associated with studies, planning, design, and construction) carried out by a non-Federal interest with respect to a project described in subsection\(f) of this section, the Secretary shall, subject to the availability of appropriations, reimburse, without interest, the non-Federal interest an amount equal to the estimated Federal share of the cost of such work, or provide credit (depending on the request of the non-Federal interest) for the non-Federal share of such work, if such work is later recommended by the Chief of Engineers and approved by the Secretary.
+&emsp;&emsp;For work (including work associated with studies, planning, design, and construction) carried out by a non-Federal interest with respect to a project described in subsection (f) of this section, the Secretary shall, subject to the availability of appropriations, reimburse, without interest, the non-Federal interest an amount equal to the estimated Federal share of the cost of such work, or provide credit (depending on the request of the non-Federal interest) for the non-Federal share of such work, if such work is later recommended by the Chief of Engineers and approved by the Secretary.
 
 #### (B) Credit
 
@@ -130,7 +130,7 @@ For the purpose of demonstrating the potential advantages and effectiveness of n
 
 #### (6) Brays Bayou, Texas
 
-&emsp;Flood control components comprising the Brays Bayou element of the project for flood control, Buffalo Bayou and tributaries, Texas, authorized by section 101(a)(21) of the Water Resources Development Act of 1990 (104 Stat. 4610); except that, subject to the approval of the Secretary as provided by this section, the non-Federal interest may design and construct an alternative to the diversion component of such element.
+&emsp;Flood control components comprising the Brays Bayou element of the project for flood control, Buffalo Bayou and tributaries, Texas,authorized by section 101(a)(21) of the Water Resources Development Act of 1990 (104 Stat. 4610); except that, subject to the approval of the Secretary as provided by this section, the non-Federal interest may design and construct an alternative to the diversion component of such element.
 
 #### (7) Hunting Bayou, Texas
 

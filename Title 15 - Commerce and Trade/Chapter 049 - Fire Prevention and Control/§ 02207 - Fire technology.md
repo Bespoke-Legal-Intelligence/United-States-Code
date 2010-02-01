@@ -80,7 +80,7 @@ At the request of other Federal agencies, including the Department of Agricultur
 
 &emsp;(A) The Administrator shall, by regulation, require that new equipment or systems purchased through the assistance program established by section 2229 of this title meet or exceed applicable voluntary consensus standards for such equipment or systems for which applicable voluntary consensus standards have been established. The Administrator may waive the requirement under this subparagraph with respect to specific standards.
 
-&emsp;(B) If an applicant for a grant under section 2229 of this title proposes to purchase, with assistance provided under the grant, new equipment or systems that do not meet or exceed applicable voluntary consensus standards, the applicant shall include in the application an explanation of why such equipment or systems will serve the needs of the applicant betterthan equipment or systems that do meet or exceed such standards.
+&emsp;(B) If an applicant for a grant under section 2229 of this title proposes to purchase, with assistance provided under the grant, new equipment or systems that do not meet or exceed applicable voluntary consensus standards, the applicant shall include in the application an explanation of why such equipment or systems will serve the needs of the applicant better than equipment or systems that do meet or exceed such standards.
 
 &emsp;(C) In making a determination whether or not to waive the requirement under subparagraph (A) with respect to a specific standard, the Administrator shall, to the greatest extent practicable—
 

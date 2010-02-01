@@ -142,7 +142,7 @@ The Corporation may use the United States mails in the same manner and under the
 
 &emsp;&emsp;&emsp;(i) encourage the participation of the Under Secretary of Defense for Personnel and Readiness;
 
-&emsp;&emsp;&emsp;(ii) encourage the participation of two officers from each branch of the Armed Forces to represent the Training Commands of their branch; and
+&emsp;&emsp;&emsp;(ii) encourage the participation of two officers from each branch of the ArmedForces to represent the Training Commands of their branch; and
 
 &emsp;&emsp;&emsp;(iii) seek the participation and guidance of the Assistant Secretary of Labor for Veterans’ Employment and Training.
 

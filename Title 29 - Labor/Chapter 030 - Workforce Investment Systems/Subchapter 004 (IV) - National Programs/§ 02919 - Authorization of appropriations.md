@@ -48,11 +48,15 @@
 
 #### (c) Assistance for eligible workers
 
-#### (1) Authorization and appropriation for fiscal year 2002
+#### (1) Appropriations
 
 &emsp;There are authorized to be appropriated and appropriated—
 
-&emsp;&emsp;(A) to carry out subsection (a)(4)(A) of section 2918 of this title, $10,000,000 for fiscal year 2002; and
+&emsp;&emsp;(A) to carry out subsection (a)(4)(A) of section 2918 of this title—
+
+&emsp;&emsp;&emsp;(i) $10,000,000 for fiscal year 2002; and
+
+&emsp;&emsp;&emsp;(ii) $150,000,000 for the period of fiscal years 2009 through 2010; and
 
 &emsp;&emsp;(B) to carry out subsection (a)(4)(B) of section 2918 of this title, $50,000,000 for fiscal year 2002.
 
@@ -76,7 +80,7 @@
 
 &emsp;&emsp;(B) paragraph <sup>1</sup> (1)(B) and (2)(B), for each fiscal year shall, notwithstanding section 2939(g) of this title, remain available during the period that begins on August 6, 2002, and ends on September 30, 2004.
 
-(Pub. L. 105–220, title I, §174, Aug. 7, 1998, 112 Stat. 1037; Pub. L. 107–210, div. A, title II, §203(c), Aug. 6, 2002, 116 Stat. 969.)
+(Pub. L. 105–220, title I, §174, Aug. 7, 1998, 112 Stat. 1037; Pub. L. 107–210, div. A, title II, §203(c), Aug. 6, 2002, 116 Stat. 969; Pub. L. 111–5, div. B, title I, §1899K(b), Feb. 17, 2009, 123 Stat. 435.)
 
 #### References in Text
 
@@ -84,7 +88,15 @@ The Trade Act of 1974, as amended by the Trade Act of 2002, referred to in subse
 
 #### Amendments
 
+2009—Subsec. (c)(1). Pub. L. 111–5, §1899K(b)(1), substituted “Appropriations” for “Authorization and appropriation for fiscal year 2002” in heading.
+
+Subsec. (c)(1)(A). Pub. L. 111–5, §1899K(b)(2), added subpar. (A) and struck out former subpar. (A) which read as follows: “to carry out subsection (a)(4)(A) of section 2918 of this title, $10,000,000 for fiscal year 2002; and”.
+
 2002—Subsec. (c). Pub. L. 107–210 added subsec. (c).
+
+#### Effective Date of 2009 Amendment
+
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
 
 #### Effective Date of 2002 Amendment
 

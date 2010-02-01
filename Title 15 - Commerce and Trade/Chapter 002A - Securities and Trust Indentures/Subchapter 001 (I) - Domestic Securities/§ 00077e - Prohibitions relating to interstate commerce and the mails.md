@@ -12,7 +12,7 @@ Unless a registration statement is in effect as to a security, it shall be unlaw
 
 It shall be unlawful for any person, directly or indirectly—
 
-&emsp;(1) to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to carry or transmit any prospectus relating to any security with respect to which a registration statement has been filed under this subchapter, unless such prospectus meets the requirements of section 77j of this title; or
+&emsp;(1) to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to carry ortransmit any prospectus relating to any security with respect to which a registration statement has been filed under this subchapter, unless such prospectus meets the requirements of section 77j of this title; or
 
 &emsp;(2) to carry or cause to be carried through the mails or in interstate commerce any such security for the purpose of sale or for delivery after sale, unless accompanied or preceded by a prospectus that meets the requirements of subsection (a) of section 77j of this title.
 

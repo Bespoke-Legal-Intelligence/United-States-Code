@@ -44,7 +44,7 @@
 
 #### (6) Preliminary committee report
 
-&emsp;The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than January 1, 1998, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus islikely to occur before 1 month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress towards such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
+&emsp;The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than January 1, 1998, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before 1 month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress towards such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
 
 #### (7) Final committee report
 
@@ -62,7 +62,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish by regulation other standards (not described in subsection (a) of this section) for Medicare+Choice organizations and plans consistent with, and to carry out, this part. The Secretary shall publish such regulations by June 1, 1998. In order to carry out this requirement in a timely manner, the Secretary may promulgate regulations that take effect on an interim basis, after notice and pending opportunity for public comment.
+&emsp;The Secretary shall establish by regulation other standards (not described in subsection\(a) of this section) for Medicare+Choice organizations and plans consistent with, and to carry out, this part. The Secretary shall publish such regulations by June 1, 1998. In order to carry out this requirement in a timely manner, the Secretary may promulgate regulations that take effect on an interim basis, after notice and pending opportunity for public comment.
 
 #### (2) Use of current standards
 

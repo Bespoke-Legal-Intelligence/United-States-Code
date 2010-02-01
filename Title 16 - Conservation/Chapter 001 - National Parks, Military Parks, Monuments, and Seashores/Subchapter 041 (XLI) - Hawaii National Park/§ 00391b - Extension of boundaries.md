@@ -68,7 +68,7 @@ Footprint extension: Beginning at the northeast corner of this tract of land, at
 
 5\. Two hundred and twenty degrees and forty minutes exactly one thousand seven hundred and eighty-seven feet crossing the Government main road to a spike in large boulder in stone wall about one hundred and twenty-five feet north of the Government main road; thence
 
-6\. Along stone wall over the lava flows, the boundary following the wall in its turns and windings, the direct azimuth and distance being: two hundred and nineteen degrees twenty-two minutes and forty-five seconds exactly eighteen thousand one hundred and twenty-one feet to a point in said stone wall.
+6\. Along stone wall over the lava flows, the boundary following the wall in its turns andwindings, the direct azimuth and distance being: two hundred and nineteen degrees twenty-two minutes and forty-five seconds exactly eighteen thousand one hundred and twenty-one feet to a point in said stone wall.
 
 7\. Two hundred and thirty-eight degrees and seven minutes exactly two hundred and fifty feet partly along stone wall to a pipe in the middle of a corral;
 

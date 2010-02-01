@@ -24,7 +24,7 @@
 
 &emsp;(11) report at least once each year to the President and the Congress on the overall activities and accomplishments of the Office, pursuant to section 6615 of this title;
 
-&emsp;(12) periodically survey the nature and needs of national science and technology policy and make recommendations to the President, forreview and transmission to the Congress, for the timely and appropriate revision of such policy in accordance with section 6602(a)(6) of this title; and
+&emsp;(12) periodically survey the nature and needs of national science and technology policy and make recommendations to the President, for review and transmission to the Congress, for the timely and appropriate revision of such policy in accordance with section 6602(a)(6) of this title; and
 
 &emsp;(13) perform such other duties and functions and make and furnish such studies and reports thereon, and recommendations with respect to matters of policy and legislation as the President may request.
 
@@ -52,7 +52,7 @@ Section 5703 of title 5, referred to in subsec. (b)(4), was amended generally by
 
 #### Transfer of Functions
 
-Functions vested in Office of Science and Technology Policy and Director thereof pursuant to subsec. (a)(2) of this section and sections 6615 and 6618 of this title transferred to Director of National Science Foundation by section 5A of Reorg. Plan No. 1 of 1977, set out in the Appendix to Title 5, Government Organization and Employees, effective Feb. 26, 1978, as provided by section 1(a) of Ex. Ord. No. 12039, Feb. 24, 1978, 43 F.R. 8095, set out under section 6601 of this title.
+Functions vested in Office of Science and Technology Policy and Director thereof pursuant to subsec. (a)(2) of this section and sections 6615 and 6618 of this titletransferred to Director of National Science Foundation by section 5A of Reorg. Plan No. 1 of 1977, set out in the Appendix to Title 5, Government Organization and Employees, effective Feb. 26, 1978, as provided by section 1(a) of Ex. Ord. No. 12039, Feb. 24, 1978, 43 F.R. 8095, set out under section 6601 of this title.
 
 #### Abolition of Intergovernmental Science, Engineering, and Technology Advisory Panel; Transfer of Functions
 

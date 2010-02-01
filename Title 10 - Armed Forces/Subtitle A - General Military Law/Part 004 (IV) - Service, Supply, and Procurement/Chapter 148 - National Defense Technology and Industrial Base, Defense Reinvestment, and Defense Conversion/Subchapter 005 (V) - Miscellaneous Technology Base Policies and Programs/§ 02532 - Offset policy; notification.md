@@ -12,7 +12,7 @@ Establishment of Offset Policy.—The President shall establish, consistent with
 
 (b)
 
-Technology Transfer.—(1) No official of the United States may enter into a memorandum of understanding or other agreement with a foreign government that would require the transfer of United States defense technology toa foreign country or a foreign firm in connection with a contract that is subject to an offset arrangement if the implementation of such memorandum or agreement would significantly and adversely affect the defense industrial base of the United States and would result in a substantial financial loss to a United States firm.
+Technology Transfer.—(1) No official of the United States may enter into a memorandum of understanding or other agreement with a foreign government that would require the transfer of United States defense technology to a foreign country or a foreign firm in connection with a contract that is subject to an offset arrangement if the implementation of such memorandum or agreement would significantly and adversely affect the defense industrial base of the United States and would result in a substantial financial loss to a United States firm.
 
 (2) Paragraph (1) shall not apply in the case of a memorandum of understanding or agreement described in paragraph (1) if the Secretary of Defense, in consultation with the Secretary of Commerce and the Secretary of State, determines that a transfer of United States defense technology pursuant to such understanding or agreement will result in strengthening the national security of the United States and so certifies to Congress.
 
@@ -72,7 +72,7 @@ Section 825(c) of Pub. L. 100–456, as amended by Pub. L. 101–189, div. A, ti
 
 “(2) In the negotiation or renegotiation of any memorandum of understanding between the United States and one or more foreign countries relating to the reciprocal procurement of defense equipment and supplies or research and development, the President shall make every effort to achieve an agreement with the country or countries concerned that would limit the adverse effects that offset arrangements have on the defense industrial base of the United States.”
 
-\[For delegation of functions of President under section 825(c) of Pub. L. 100–456 to Secretary of Defenseand United States Trade Representative, see section 5–201 of Ex. Ord. No. 12661, 54 F.R. 779, set out as a note under section 2901 of Title 19, Customs Duties.\]
+\[For delegation of functions of President under section 825(c) of Pub. L. 100–456 to Secretary of Defense and United States Trade Representative, see section 5–201 of Ex. Ord. No. 12661, 54 F.R. 779, set out as a note under section 2901 of Title 19, Customs Duties.\]
 
 #### Report to Congress on Offset Arrangements Required by Foreign Countries and Firms; Discussion of Policy Options
 

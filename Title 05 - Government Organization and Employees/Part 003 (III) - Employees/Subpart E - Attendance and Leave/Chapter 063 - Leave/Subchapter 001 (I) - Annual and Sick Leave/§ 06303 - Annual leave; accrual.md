@@ -146,7 +146,7 @@ Exceptions.—(1) The amendment made by section 4(c) \[amending provisions set o
 
 “(8) The amendment made by section 2(69) \[amending section 8440 of this title\] shall be effective as of November 10, 1988.
 
-“(9) The amendments made by sections 2(40), 2(41), 2(42), 2(43), and 3(5) \[amending sections 5541, 5542, 5544,and 5547 of this title and provisions set out as a note under section 5305 of this title\] shall be effective as of the first day of the first applicable pay period beginning on or after the date of enactment of this Act \[Oct. 2, 1992\].
+“(9) The amendments made by sections 2(40), 2(41), 2(42), 2(43), and 3(5) \[amending sections 5541, 5542, 5544, and 5547 of this title and provisions set out as a note under section 5305 of this title\] shall be effective as of the first day of the first applicable pay period beginning on or after the date of enactment of this Act \[Oct. 2, 1992\].
 
 “(10) The amendments made by section 2(28) \[amending section 5314 of this title\] shall be effective as of the first day of the first applicable pay period beginning on or after November 5, 1990.
 

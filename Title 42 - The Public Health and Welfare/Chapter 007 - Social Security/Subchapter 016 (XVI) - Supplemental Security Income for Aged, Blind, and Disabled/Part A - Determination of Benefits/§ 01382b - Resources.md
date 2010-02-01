@@ -80,7 +80,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(II) no payment could under any circumstance be made to the individual,
 
-> then, for purposes of this subsection, the payment described in clause (I) or the foreclosure ofpayment described in clause (II) shall be considered a transfer of resources by the individual or the individual's spouse as of the date of the payment or foreclosure, as the case may be.
+> then, for purposes of this subsection, the payment described in clause (I) or the foreclosure of payment described in clause (II) shall be considered a transfer of resources by the individual or the individual's spouse as of the date of the payment or foreclosure, as the case may be.
 
 (C) An individual shall not be ineligible for benefits under this subchapter by reason of the application of this paragraph to a disposal of resources by the individual or the spouse of the individual, to the extent that—
 
@@ -114,7 +114,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(iv) the Commissioner determines, under procedures established by the Commissioner, that the denial of eligibility would work an undue hardship as determined on the basis of criteria established by the Commissioner.
 
-(D) For purposes of this subsection, in the case of a resource held by an individual in common with another person or persons in a joint tenancy, tenancy in common, or similar arrangement, the resource (or the affected portion of such resource) shall be considered to be disposed of by the individual when any action is taken, either by the individual or by any other person, that reduces or eliminates the individual's ownership or control of such resource.
+(D) For purposes of this subsection, in the case of a resource held by an individual in commonwith another person or persons in a joint tenancy, tenancy in common, or similar arrangement, the resource (or the affected portion of such resource) shall be considered to be disposed of by the individual when any action is taken, either by the individual or by any other person, that reduces or eliminates the individual's ownership or control of such resource.
 
 (E) In the case of a transfer by the spouse of an individual that results in a period of ineligibility for the individual under this subsection, the Commissioner shall apportion the period (or any portion of the period) among the individual and the individual's spouse if the spouse becomes eligible for benefits under this subchapter.
 
@@ -138,7 +138,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 (1) In determining the resources of an individual, there shall be excluded an amount, not in excess of $1,500 each with respect to such individual and his spouse (if any), that is separately identifiable and has been set aside to meet the burial and related expenses of such individual or spouse.
 
-(2) The amount of $1,500, referred to in paragraph (1), with respect to an individual shall be reduced by an amount equal to (A) the total facevalue of all insurance policies on his life which are owned by him or his spouse and the cash surrender value of which has been excluded in determining the resources of such individual or of such individual and his spouse, and (B) the total of any amounts in an irrevocable trust (or other irrevocable arrangement) available to meet the burial and related expenses of such individual or his spouse.
+(2) The amount of $1,500, referred to in paragraph (1), with respect to an individual shall be reduced by an amount equal to (A) the total face value of all insurance policies on his life which are owned by him or his spouse and the cash surrender value of which has been excluded in determining the resources of such individual or of such individual and his spouse, and (B) the total of any amounts in an irrevocable trust (or other irrevocable arrangement) available to meet the burial and related expenses of such individual or his spouse.
 
 (3) If the Commissioner of Social Security finds that any part of the amount excluded under paragraph (1) was used for purposes other than those for which it was set aside in cases where the inclusion of any portion of the amount would cause the resources of such individual, or of such individual and spouse, to exceed the limits specified in paragraph (1) or (2) (whichever may be applicable) of section 1382(a) of this title, the Commissioner shall reduce any future benefits payable to the eligible individual (or to such individual and his spouse) by an amount equal to such part.
 
@@ -318,7 +318,7 @@ Amendment by section 5031(b) of Pub. L. 101–508 applicable with respect to ben
 
 Amendment by section 5035(b) of Pub. L. 101–508 applicable with respect to benefits for calendar months beginning on or after the first day of the 6th calendar month following November 1990, see section 5035(c) of Pub. L. 101–508, as amended, set out as a note under section 1382a of this title.
 
-Amendment by section 11115(b)(2) of Pub. L. 101–508 applicable to determinations of income or resources made for any period after Dec. 31, 1990, see section 11115(e) of Pub. L. 101–508, set out as a note under section 1382a of this title.
+Amendment by section 11115(b)(2) of Pub. L. 101–508 applicable to determinations of income or resourcesmade for any period after Dec. 31, 1990, see section 11115(e) of Pub. L. 101–508, set out as a note under section 1382a of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -358,7 +358,7 @@ Section 5(c) of Pub. L. 96–611 provided that: “The amendment made by subsect
 
 #### Effective Date of 1977 Amendment
 
-Section 9(b) of Pub. L. 95–171 provided that: “The amendment made by this section \[amending this section\] shall be effective July 1, 1976, with respect to catastrophes which occurred on or after June 1, 1976, and before December 31, 1976. With respect to catastrophes which occurred on or after December 1, 1976, theamendment made by this section shall be effective the first day of the calendar quarter following enactment of this Act \[Nov. 12, 1977\].”
+Section 9(b) of Pub. L. 95–171 provided that: “The amendment made by this section \[amending this section\] shall be effective July 1, 1976, with respect to catastrophes which occurred on or after June 1, 1976, and before December 31, 1976. With respect to catastrophes which occurred on or after December 1, 1976, the amendment made by this section shall be effective the first day of the calendar quarter following enactment of this Act \[Nov. 12, 1977\].”
 
 #### Effective Date
 

@@ -20,7 +20,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 &emsp;&emsp;&emsp;(iii) particularly severe violations of religious freedom engaged in or tolerated by the government of that country; and
 
-&emsp;&emsp;&emsp;(iv) wherever applicable, an assessment and description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement that occur in that country during the preceding year, including—
+&emsp;&emsp;&emsp;(iv) wherever applicable, an assessment and description of the nature and extent ofacts of anti-Semitism and anti-Semitic incitement that occur in that country during the preceding year, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) acts of physical violence against, or harassment of, Jewish people, acts of violence against, or vandalism of, Jewish community institutions, and instances of propaganda in government and nongovernment media that incite such acts; and
 

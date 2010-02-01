@@ -128,7 +128,7 @@ Applicability of Chapter 1.—The provisions contained in section 402(d) shall a
 
 #### References in Text
 
-The date of enactment of the Transportation Equity Act for the 21st Century, referred to in subsec. (a)(3), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
+The date of enactment of the Transportation Equity Act for the 21st Century, referred to in subsec. (a)(3), isthe date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
 #### Amendments
 

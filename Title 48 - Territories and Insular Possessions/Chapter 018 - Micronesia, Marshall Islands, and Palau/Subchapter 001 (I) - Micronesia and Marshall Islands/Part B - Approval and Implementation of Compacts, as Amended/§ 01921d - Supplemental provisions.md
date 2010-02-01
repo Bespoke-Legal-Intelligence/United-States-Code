@@ -58,7 +58,7 @@ In general.—The three United States appointees (United States chair plus two m
 
 &emsp;&emsp;(ii)
 
-Departments.—It is the sense of Congress that 2 of the 3 appointees should be designated from the Department of State and the Department of the Interior, and that U.S. officials of the Asian Development Bank shall be consulted in order to properly coordinate U.S. and Asian Development Bank financial, program, and technical assistance.
+Departments.—It is the sense of Congress that 2 of the 3 appointees should be designated from the Department of Stateand the Department of the Interior, and that U.S. officials of the Asian Development Bank shall be consulted in order to properly coordinate U.S. and Asian Development Bank financial, program, and technical assistance.
 
 &emsp;&emsp;(iii)
 
@@ -277,4 +277,8 @@ Subsec. (f)(1)(C). Pub. L. 110–229, §805, inserted before period at end “,�
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–229, title VIII, §803(b), May 8, 2008, 122 Stat. 870, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective as of the date that is 180 days after the date of enactment of this Act \[May 8, 2008\].”
+
+#### Continued Applicability of Subsection (f)(1)(B)(ix)
+
+Pub. L. 111–117, div. D, title III, §309, Dec. 16, 2009, 123 Stat. 3272, provided that: “Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 (48 U.S.C. 1921d(f)(1)(B)(ix)) shall be applied by substituting ‘2010’ for ‘2009’.”
 

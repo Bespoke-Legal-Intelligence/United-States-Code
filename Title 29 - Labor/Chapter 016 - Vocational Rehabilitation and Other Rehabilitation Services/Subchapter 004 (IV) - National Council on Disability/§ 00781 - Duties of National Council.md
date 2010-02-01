@@ -28,7 +28,7 @@ The National Council shall—
 
 &emsp;(9) provide to the Congress on a continuing basis advice, recommendations, legislative proposals, and any additional information that the National Council or the Congress deems appropriate; and
 
-&emsp;(10) review and evaluate on a continuing basis new and emerging disability policy issues affecting individuals with disabilities at the Federal, State, and local levels, and in the private sector, including the need for and coordination of adult services, access to personal assistance services, school reform efforts and the impact of such efforts on individuals with disabilities, access to health care, and policies that operate as disincentives for the individuals to seek and retain employment.
+&emsp;(10) review and evaluate on a continuing basis new and emerging disability policy issues affecting individuals with disabilities atthe Federal, State, and local levels, and in the private sector, including the need for and coordination of adult services, access to personal assistance services, school reform efforts and the impact of such efforts on individuals with disabilities, access to health care, and policies that operate as disincentives for the individuals to seek and retain employment.
 
 #### (b) Annual reports
 
@@ -76,5 +76,5 @@ Committee on Education and the Workforce of House of Representatives changed to 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report to Congress required under subsec. (b) of this section is listed on page 182), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report to Congress required under subsec. (b) of this section is listed on page 182), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 

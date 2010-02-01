@@ -124,7 +124,7 @@ Duties of the Advisory Committee.—The duties of the Advisory Committee are as 
 
 (d)
 
-Expenses.—The expenses of the Advisory Committee that the Secretary of the Treasurydetermines to be reasonable and appropriate shall be paid by the Secretary from the United States Mint Public Enterprise Fund.
+Expenses.—The expenses of the Advisory Committee that the Secretary of the Treasury determines to be reasonable and appropriate shall be paid by the Secretary from the United States Mint Public Enterprise Fund.
 
 (e)
 

@@ -62,7 +62,7 @@
 
 (e) It shall be unlawful for any licensee knowingly to distribute any explosive materials to any person in any State where the purchase, possession, or use by such person of such explosive materials would be in violation of any State law or any published ordinance applicable at the place of distribution.
 
-(f) It shall be unlawful for any licensee or permittee willfully to manufacture, import, purchase, distribute, or receive explosive materials without making such records as the Attorney General may by regulation require, including, but not limited to, a statement of intended use, the name, date, place of birth, social security number or taxpayer identification number, and place of residence of any natural person to whom explosive materials are distributed. If explosive materials are distributed to a corporation or other business entity, such records shall include the identity and principal and localplaces of business and the name, date, place of birth, and place of residence of the natural person acting as agent of the corporation or other business entity in arranging the distribution.
+(f) It shall be unlawful for any licensee or permittee willfully to manufacture, import, purchase, distribute, or receive explosive materials without making such records as the Attorney General may by regulation require, including, but not limited to, a statement of intended use, the name, date, place of birth, social security number or taxpayer identification number, and place of residence of any natural person to whom explosive materials are distributed. If explosive materials are distributed to a corporation or other business entity, such records shall include the identity and principal and local places of business and the name, date, place of birth, and place of residence of the natural person acting as agent of the corporation or other business entity in arranging the distribution.
 
 (g) It shall be unlawful for any licensee or permittee knowingly to make any false entry in any record which he is required to keep pursuant to this section or regulations promulgated under section 847 of this title.
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(C) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Attorney General in consultation with the Secretary of Defense, who is present in the United States under military orders for training or other military purpose authorized by the United States and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the authorized military purpose; or
 
-&emsp;&emsp;(D) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;
+&emsp;&emsp;(D) is lawfully present in the United States in cooperation with the Director of CentralIntelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;
 
 &emsp;(6) who has been discharged from the armed forces under dishonorable conditions; <sup>2</sup>
 
@@ -144,7 +144,7 @@ Prohibition.—It shall be unlawful for any person—
 
 #### References in Text
 
-Section 101(a)(20) of the Immigration and Nationality Act, referred to in subsecs. (d)(7)(A) and (i)(5)(A), is classified to section 1101(a)(20) of Title 8, Aliens and Nationality.
+Section 101(a)(20) of the Immigration and Nationality Act, referred to in subsecs. (d)(7)(A) and (i)(5)(A), isclassified to section 1101(a)(20) of Title 8, Aliens and Nationality.
 
 The date of enactment of this subsection, referred to in subsecs. (m)(2), (n)(2), and (<i>o</i>), is the date of enactment of Pub. L. 104–132, which was approved Apr. 24, 1996.
 

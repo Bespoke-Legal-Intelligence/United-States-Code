@@ -2,11 +2,11 @@
 
 (a)
 
-Establishment of Program.—The Secretary of Defense shall conduct a program tofurther the national security objectives set forth in section 2501(a) of this title by encouraging and providing for research, development, and application of dual-use critical technologies. The Secretary may make grants, enter into contracts, or enter into cooperative agreements and other transactions pursuant to section 2371 of this title in furtherance of the program. The Secretary shall identify projects to be conducted as part of the program.
+Establishment of Program.—The Secretary of Defense shall conduct a program to further the national security objectives set forth in section 2501(a) of this title by encouraging and providing for research, development, and application of dual-use critical technologies. The Secretary may make grants, enter into contracts, or enter into cooperative agreements and other transactions pursuant to section 2371 of this title in furtherance of the program. The Secretary shall identify projects to be conducted as part of the program.
 
 (b)
 
-Assistance Authorized.—The Secretary of Defense may provide technical and other assistance to facilitate the achievement of the purposes of projects conducted under the program. In providing such assistance, the Secretary shall make available, as appropriate for the work to be performed, equipment and facilities of Department of Defense laboratories (including the scientists and engineers at those laboratories) for purposes of projects selected by the Secretary.
+Assistance Authorized.—The Secretary of Defense may provide technical and other assistance to facilitate the achievement of the purposes of projects conducted under the program. In providing such assistance, the Secretary shallmake available, as appropriate for the work to be performed, equipment and facilities of Department of Defense laboratories (including the scientists and engineers at those laboratories) for purposes of projects selected by the Secretary.
 
 (c)
 
@@ -72,7 +72,7 @@ Funding 1998.—Of the amounts authorized to be appropriated by section 201 \[11
 
 “(b)
 
-Goals.—(1) Subject to paragraph (3), it shall be the objective of the Secretary of each military department to obligate for dual-use projects in each fiscal year referred to in paragraph (2), out of the total amount authorized to be appropriated for such fiscal year for the applied research programs of the military department, the percent of such amount that is specified for that fiscal year in paragraph (2).
+Goals.—(1) Subject to paragraph (3), it shall be the objective of the Secretary of each military department to obligate for dual-use projects in each fiscal year referred to in paragraph (2), out of the total amount authorized to be appropriated for such fiscal year for the applied research programs of the militarydepartment, the percent of such amount that is specified for that fiscal year in paragraph (2).
 
 “(2) The objectives for fiscal years under paragraph (1) are as follows:
 

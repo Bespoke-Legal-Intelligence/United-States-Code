@@ -26,7 +26,7 @@ Provisions similar to those in this section were contained in sections 3845, 639
 
 #### Amendments
 
-2008—Subsec. (a)(2). Pub. L. 110–181, §1825(b)(1), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “The Chief of the National Guard Bureau.”
+2008—Subsec. (a)(2). Pub. L. 110–181, §1825(b)(1), redesignated subpars. (B) to (D) as (A) to (C), respectively,and struck out former subpar. (A) which read as follows: “The Chief of the National Guard Bureau.”
 
 Subsec. (b). Pub. L. 110–181, §1825(b)(2), designated existing provisions as par. (1) and added par. (2).
 

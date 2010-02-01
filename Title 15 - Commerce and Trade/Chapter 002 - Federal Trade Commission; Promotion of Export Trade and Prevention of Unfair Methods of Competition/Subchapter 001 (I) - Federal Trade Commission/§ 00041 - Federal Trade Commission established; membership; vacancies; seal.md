@@ -1,6 +1,6 @@
 ### §41. Federal Trade Commission established; membership; vacancies; seal
 
-A commission is created and established, to be known as the Federal Trade Commission (hereinafter referred to as the Commission), which shall be composed of five Commissioners, who shall be appointed by the President, by and with the advice and consent of the Senate. Not more than three of the Commissioners shall be members of the same political party. The first Commissioners appointed shall continue in office for terms of three, four, five, six, and seven years, respectively, from September 26, 1914, the term of each to be designated by the President, but their successors shall be appointed for terms of seven years, except that any person chosen to fill a vacancy shall be appointed only for the unexpired term of the Commissioner whom heshall succeed: <i>Provided, however</i>, That upon the expiration of his term of office a Commissioner shall continue to serve until his successor shall have been appointed and shall have qualified. The President shall choose a chairman from the Commission's membership. No Commissioner shall engage in any other business, vocation, or employment. Any Commissioner may be removed by the President for inefficiency, neglect of duty, or malfeasance in office. A vacancy in the Commission shall not impair the right of the remaining Commissioners to exercise all the powers of the Commission.
+A commission is created and established, to be known as the Federal Trade Commission (hereinafter referred to as the Commission), which shall be composed of five Commissioners, who shall be appointed by the President, by and with the advice and consent of the Senate. Not more than three of the Commissioners shall be members of the same political party. The first Commissioners appointed shall continue in office for terms of three, four, five, six, and seven years, respectively, from September 26, 1914, the term of each to be designated by the President, but their successors shall be appointed for terms of seven years, except that any person chosen to fill a vacancy shall be appointed only for the unexpired term of the Commissioner whom he shall succeed: <i>Provided, however</i>, That upon the expiration of his term of office a Commissioner shall continue to serve until his successor shall have been appointed and shall have qualified..<sup>1</sup> The President shall choose a chairman from the Commission's membership. No Commissioner shall engage in any other business, vocation, or employment. Any Commissioner may be removed by the President for inefficiency, neglect of duty, or malfeasance in office. A vacancy in the Commission shall not impair the right of the remaining Commissioners to exercise all the powers of the Commission.
 
 The Commission shall have an official seal, which shall be judicially noticed.
 
@@ -64,7 +64,7 @@ The functions of the Commission with respect to choosing a Chairman from among t
 
 I transmit herewith Reorganization Plan No. 8 of 1950, prepared in accordance with the Reorganization Act of 1949 and providing for reorganizations in the Federal Trade Commission. My reasons for transmitting this plan are stated in any accompanying general message.
 
-After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 8 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
+After investigation I have found and hereby declare that each reorganization included in ReorganizationPlan No. 8 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
 
 The taking effect of the reorganizations included in this plan may not in itself result in substantial immediate savings. However, many benefits in improved operations are probable during the next years which will result in a reduction in expenditures as compared with those that would be otherwise necessary. An itemization of these reductions in advance of actual experience under this plan is not practicable.
 
@@ -80,7 +80,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. Authority To Delegate
 
-(a) In addition to its existing authority, the Federal Trade Commission, hereinafter referred to as the“Commission”, shall have the authority to delegate, by published order or rule, any of its functions to a division of the Commission, an individual Commissioner, a hearing examiner, or an employee or employee board, including functions with respect to hearing, determining, ordering, certifying, reporting or otherwise acting as to any work, business, or matter; <i>Provided, however</i>, That nothing herein contained shall be deemed to supersede the provisions of section 7(a) of the Administrative Procedure Act (60 Stat. 241), as amended \[see 5 U.S.C. 556\].
+(a) In addition to its existing authority, the Federal Trade Commission, hereinafter referred to as the “Commission”, shall have the authority to delegate, by published order or rule, any of its functions to a division of the Commission, an individual Commissioner, a hearing examiner, or an employee or employee board, including functions with respect to hearing, determining, ordering, certifying, reporting or otherwise acting as to any work, business, or matter; <i>Provided, however</i>, That nothing herein contained shall be deemed to supersede the provisions of section 7(a) of the Administrative Procedure Act (60 Stat. 241), as amended \[see 5 U.S.C. 556\].
 
 (b) With respect to the delegation of any of its functions, as provided in subsection (a) of this section, the Commission shall retain a discretionary right to review the action of any such division of the Commission, individual Commissioner, hearing examiner, employee or employee board, upon its own initiative or upon petition of a party to or an intervenor in such action, within such time and in such manner as the Commission shall by rule prescribe: <i>Provided, however</i>, That the vote of a majority of the Commission less one member thereof shall be sufficient to bring any such action before the Commission for review.
 
@@ -111,4 +111,6 @@ After investigation, I have found and hereby declare that each reorganization in
 I recommend that the Congress allow the reorganization plan to become effective.
 
 John F. Kennedy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> So in original.</i>
 

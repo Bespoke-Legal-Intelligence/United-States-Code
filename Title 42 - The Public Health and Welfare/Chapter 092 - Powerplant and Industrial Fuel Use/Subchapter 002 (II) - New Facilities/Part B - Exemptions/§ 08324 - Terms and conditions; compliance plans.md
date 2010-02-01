@@ -20,5 +20,5 @@ A compliance plan meets the requirements of this subsection if it is approved by
 
 #### Exemption for Certain Electric Powerplants as Effective Prior to 180 Days After November 9, 1978
 
-For effectiveness of exemption for certain electric powerplants as prior to 180 days after Nov. 9, 1978, see section 902(a) of Pub. L. 95–620, set out as a note under section 8301 of this title.
+For effectiveness of exemption for certain electric powerplants as prior to 180 days after Nov. 9, 1978, seesection 902(a) of Pub. L. 95–620, set out as a note under section 8301 of this title.
 

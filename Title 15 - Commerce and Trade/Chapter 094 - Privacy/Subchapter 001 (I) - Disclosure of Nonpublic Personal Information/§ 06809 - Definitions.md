@@ -50,7 +50,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(iii) otherwise obtained by the financial institution.
 
-&emsp;(B) Such term does not include publicly available information, as such term is definedby the regulations prescribed under section 6804 of this title.
+&emsp;(B) Such term does not include publicly available information, as such term is defined by the regulations prescribed under section 6804 of this title.
 
 &emsp;(C) Notwithstanding subparagraph (B), such term—
 

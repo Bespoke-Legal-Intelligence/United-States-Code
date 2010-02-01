@@ -28,5 +28,5 @@ The word “conditions” is omitted as being included in “terms”, and the w
 
 #### Transition Rule
 
-Pub. L. 105–178, title VII, §7107(b), June 9, 1998, 112 Stat. 469, provided that: “A person who is the owner ofa motor vehicle located in the United States on the date of enactment of this Act \[June 9, 1998\] may seek an exemption under section 30114 of title 49, United States Code, as amended by subsection (a) of this section, for a period of 6 months after the date regulations of the Secretary of Transportation promulgated in response to such amendment take effect.”
+Pub. L. 105–178, title VII, §7107(b), June 9, 1998, 112 Stat. 469, provided that: “A person who is the owner of a motor vehicle located in the United States on the date of enactment of this Act \[June 9, 1998\] may seek an exemption under section 30114 of title 49, United States Code, as amended by subsection (a) of this section, for a period of 6 months after the date regulations of the Secretary of Transportation promulgated in response to such amendment take effect.”
 

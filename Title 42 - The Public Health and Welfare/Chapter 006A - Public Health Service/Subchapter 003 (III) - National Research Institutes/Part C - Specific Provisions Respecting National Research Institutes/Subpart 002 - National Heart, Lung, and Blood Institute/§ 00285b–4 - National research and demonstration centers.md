@@ -4,7 +4,7 @@
 
 (1) The Director of the Institute may provide, in accordance with subsection (c) of this section, for the development of—
 
-&emsp;(A) ten centers for basic and clinical research into, training in, and demonstration of, advanced diagnostic, prevention, and treatment and rehabilitation methods (includingmethods of providing emergency medical services) for heart and blood vessel diseases;
+&emsp;(A) ten centers for basic and clinical research into, training in, and demonstration of, advanced diagnostic, prevention, and treatment and rehabilitation methods (including methods of providing emergency medical services) for heart and blood vessel diseases;
 
 &emsp;(B) ten centers for basic and clinical research into, training in, and demonstration of, advanced diagnostic, prevention, and treatment and rehabilitation methods (including methods of providing emergency medical services) for lung diseases (including bronchitis, emphysema, asthma, cystic fibrosis, and other lung diseases of children);
 
@@ -32,7 +32,7 @@ The Director of the Institute shall provide, in accordance with subsection (c) o
 
 #### (c) Cooperative agreements and grants for establishing and supporting; uses for Federal payments; period of support, additional periods
 
-(1) The Director of the Institute may enter into cooperative agreements with and make grants to public or private nonprofit entities to pay all or part of the cost of planning, establishing, or strengthening, and providing basic operating support for centers for basic and clinical research into, training in, and demonstration of the management of blood resources and advanced diagnostic, prevention, and treatment methods for heart, blood vessel, lung, or blood diseases.
+(1) The Director of the Institute may enter into cooperative agreements with and makegrants to public or private nonprofit entities to pay all or part of the cost of planning, establishing, or strengthening, and providing basic operating support for centers for basic and clinical research into, training in, and demonstration of the management of blood resources and advanced diagnostic, prevention, and treatment methods for heart, blood vessel, lung, or blood diseases.
 
 (2) A cooperative agreement or grant under paragraph (1) shall be entered into in accordance with policies established by the Director of NIH and after consultation with the Institute's advisory council.
 

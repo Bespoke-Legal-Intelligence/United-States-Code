@@ -2,7 +2,7 @@
 
 #### (a) Establishment and elements of program
 
-The Director of the Trade and Development Agency shall carry out a program of tied aid credits for United States exports. The program shall be carried out in cooperation with the Export-Import Bank of the United States and with private financial institutions or entities, as appropriate. The program may include—
+The Director of the Trade and Development Agency shall carry out a program of tied aidcredits for United States exports. The program shall be carried out in cooperation with the Export-Import Bank of the United States and with private financial institutions or entities, as appropriate. The program may include—
 
 &emsp;(1) the combined use of the credits, loans, or guarantees offered by the Bank with concessional financing or grants made available under subsection (d) of this section, by methods including the blending of the financing of, or parallel financing by, the Bank and the Trade and Development Agency; and
 

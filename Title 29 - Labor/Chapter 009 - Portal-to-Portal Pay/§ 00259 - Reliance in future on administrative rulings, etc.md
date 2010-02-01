@@ -6,7 +6,7 @@
 
 &emsp;(1) in the case of the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\]—the Administrator of the Wage and Hour Division of the Department of Labor;
 
-&emsp;(2) in the case of the Walsh-Healey Act \[41 U.S.C. 35 et seq.\]—the Secretary of Labor, orany Federal officer utilized by him in the administration of such Act; and
+&emsp;(2) in the case of the Walsh-Healey Act \[41 U.S.C. 35 et seq.\]—the Secretary of Labor, or any Federal officer utilized by him in the administration of such Act; and
 
 &emsp;(3) in the case of the Bacon-Davis Act <sup>1</sup>—the Secretary of Labor.
 

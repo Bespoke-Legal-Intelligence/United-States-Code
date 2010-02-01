@@ -40,7 +40,7 @@ Subsec. (b). Pub. L. 104–294, which directed substitution in text of “1112,�
 
 Pub. L. 103–322, §330009(c), substituted “or any other officer or employee of the United States or any agency thereof” for “or any other officer, agency, or employee of the United States”.
 
-Pub. L. 103–322, §60007, substituted “punished, in the case of murder, as provided under section 1111, or, inthe case of manslaughter, as provided under section 1112.” for “punished as provided under sections 1111 and 1112 of this title,”.
+Pub. L. 103–322, §60007, substituted “punished, in the case of murder, as provided under section 1111, or, in the case of manslaughter, as provided under section 1112.” for “punished as provided under sections 1111 and 1112 of this title,”.
 
 1992—Pub. L. 102–365 inserted “any officer or employee of the Federal Railroad Administration assigned to perform investigative, inspection, or law enforcement functions,” after “any employee of the Coast Guard assigned to perform investigative, inspection or law enforcement functions,”.
 

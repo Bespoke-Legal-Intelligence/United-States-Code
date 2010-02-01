@@ -4,7 +4,7 @@
 
 (1) Any person who violates a provision of section 331 of this title shall be imprisoned for not more than one year or fined not more than $1,000, or both.
 
-(2) Notwithstanding the provisions of paragraph (1) of this section,<sup>1</sup> if any person commits such a violation after a conviction of him under this section has become final, or commits such a violation with the intent to defraud or mislead, such person shall be imprisoned for not more than three years or fined not more than $10,000, or both.
+(2) Notwithstanding the provisions of paragraph (1) of this section,<sup>1</sup> if any person commits such a violation after a conviction of him under this section has become final, or commits such a violation with the intent to defraud or mislead, such person shall be imprisoned for notmore than three years or fined not more than $10,000, or both.
 
 #### (b) Prescription drug marketing violations
 
@@ -46,7 +46,7 @@
 
 #### (c) Exceptions in certain cases of good faith, etc.
 
-No person shall be subject to the penalties of subsection (a)(1) of this section, (1) for having received in interstate commerce any article and delivered it or proffered delivery of it, if such delivery or proffer was made in good faith, unless he refuses to furnish on request of an officer or employee duly designated by the Secretary the name and address of the person from whom he purchased or received such article and copies of all documents, if any there be, pertaining to the delivery of the article to him; or (2) for having violated section 331(a) or (d) of this title, if he establishes a guaranty or undertaking signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the article, to the effect, in case of an alleged violation of section 331(a) of this title, that such article is not adulterated or misbranded, within the meaning of this chapter designating this chapter or to the effect, in case of an alleged violation of section 331(d) of this title, that such article is not an article which may not, under the provisions of section 344 or 355 of this title, be introduced into interstate commerce; or (3) for having violated section 331(a) of this title, where the violation exists because the article is adulterated by reason of containing a color additive not from a batch certified in accordance with regulations promulgated by the Secretary under this chapter, if such person establishes a guaranty or undertaking signed by, and containing the name and address of, the manufacturer of the color additive, to the effect that such color additive was from a batch certified in accordance with the applicable regulations promulgated by the Secretary under this chapter; or (4) for having violated section 331(b), (c) or (k) of this title by failure to comply with section 352(f) of this title in respect to an article received in interstate commerce to which neither section 353(a) nor 353(b)(1) of this title is applicable, if the delivery or proffered delivery was made in good faith and the labeling at the time thereof contained the same directions for use and warning statements as were contained in the labeling at the time of such receipt of such article; or (5) for having violated section 331(i)(2) of this title if such person acted in good faith and had no reason to believe that use of the punch, die, plate, stone, or other thing involved would result in a drug being a counterfeit drug, or for having violated section 331(i)(3) of this title if the person doing the act or causing it to be done acted in good faith and had no reason to believe that the drug was a counterfeit drug.
+No person shall be subject to the penalties of subsection (a)(1) of this section, (1) for having received in interstate commerce any article and delivered it or proffered delivery of it, if such delivery or proffer was made in good faith, unless he refuses to furnish on request of an officer or employee duly designated by the Secretary the name and address of the person from whom he purchased or received such article and copies of all documents, if any there be, pertaining to the delivery of the article to him; or (2) for having violated section 331(a) or (d) of this title, if he establishes a guaranty or undertaking signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the article, to the effect, in case of an alleged violation of section 331(a) of this title, that such article is not adulterated or misbranded, within the meaning of this chapter designating this chapter or to the effect, in case of an alleged violation of section 331(d) of this title, that such article is not an article which may not, under the provisions of section 344 or 355 of this title, be introduced intointerstate commerce; or (3) for having violated section 331(a) of this title, where the violation exists because the article is adulterated by reason of containing a color additive not from a batch certified in accordance with regulations promulgated by the Secretary under this chapter, if such person establishes a guaranty or undertaking signed by, and containing the name and address of, the manufacturer of the color additive, to the effect that such color additive was from a batch certified in accordance with the applicable regulations promulgated by the Secretary under this chapter; or (4) for having violated section 331(b), (c) or (k) of this title by failure to comply with section 352(f) of this title in respect to an article received in interstate commerce to which neither section 353(a) nor 353(b)(1) of this title is applicable, if the delivery or proffered delivery was made in good faith and the labeling at the time thereof contained the same directions for use and warning statements as were contained in the labeling at the time of such receipt of such article; or (5) for having violated section 331(i)(2) of this title if such person acted in good faith and had no reason to believe that use of the punch, die, plate, stone, or other thing involved would result in a drug being a counterfeit drug, or for having violated section 331(i)(3) of this title if the person doing the act or causing it to be done acted in good faith and had no reason to believe that the drug was a counterfeit drug.
 
 #### (d) Exceptions involving misbranded food
 
@@ -94,11 +94,13 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 (B) In determining the amount of a civil penalty under subparagraph (A)(ii), the Secretary shall take into consideration whether the responsible person is making efforts toward correcting the violation of the requirement of section 355(<i>o</i>), 355(p), or 355–1 of this title for which the responsible person is subject to such civil penalty.
 
-(5)(A) A civil penalty under paragraph (1), (2), (3), or (4) shall be assessed by the Secretary by an order made on the record after opportunity for a hearing provided in accordance with this subparagraph and section 554 of title 5. Beforeissuing such an order, the Secretary shall give written notice to the person to be assessed a civil penalty under such order of the Secretary's proposal to issue such order and provide such person an opportunity for a hearing on the order. In the course of any investigation, the Secretary may issue subpoenas requiring the attendance and testimony of witnesses and the production of evidence that relates to the matter under investigation.
+(5)(A) A civil penalty under paragraph (1), (2), (3), (4), or (9) shall be assessed, or a no-tobacco-sale order may be imposed, by the Secretary by an order made on the record after opportunity for a hearing provided in accordance with this subparagraph and section 554 of title 5. Before issuing such an order, the Secretary shall give written notice to the person to be assessed a civil penalty, or upon whom a no-tobacco-sale order is to be imposed, under such order of the Secretary's proposal to issue such order and provide such person an opportunity for a hearing on the order. In the course of any investigation, the Secretary may issue subpoenas requiring the attendance and testimony of witnesses and the production of evidence that relates to the matter under investigation.
 
-(B) In determining the amount of a civil penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the violation or violations and, with respect to the violator, ability to pay, effect on ability to continue to do business, any history of prior such violations, the degree of culpability, and such other matters as justice may require.
+(B) In determining the amount of a civil penalty, or the period to be covered by a no-tobacco-sale order, the Secretary shall take into account the nature, circumstances, extent, and gravity of the violation or violations and, with respect to the violator, ability to pay, effect on ability to continue to do business, any history of prior such violations, the degree of culpability, and such other matters as justice may require. A no-tobacco-sale order permanently prohibiting an individual retail outlet from selling tobacco products shall include provisions that allow the outlet, after a specified period of time, to request that the Secretary compromise, modify, or terminate the order.
 
-(C) The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty which may be assessed under paragraph (1), (2), (3), or (4). The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the person charged.
+(C) The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty which may be assessed under paragraph (1), (2), (3), (4), or (9). The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the person charged.
+
+(D) The Secretary may compromise, modify, or terminate, with or without conditions, any no-tobacco-sale order.
 
 (6) Any person who requested, in accordance with paragraph (5)(A), a hearing respecting the assessment of a civil penalty and who is aggrieved by an order assessing a civil penalty may file a petition for judicial review of such order with the United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business. Such a petition may only be filed within the 60-day period beginning on the date the order making such assessment was issued.
 
@@ -156,15 +158,57 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 > the Attorney General of the United States shall recover the amount assessed (plus interest at currently prevailing rates from the date of the expiration of the 60-day period referred to in paragraph (6) or the date of such final judgment, as the case may be) in an action brought in any appropriate district court of the United States. In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review.
 
-(June 25, 1938, ch. 675, §303, 52 Stat. 1043; Oct. 26, 1951, ch. 578, §2, 65 Stat. 649; Pub. L. 86–618, title I, §105(b), July 12, 1960, 74 Stat. 403; Pub. L. 89–74, §§7, 9(d), July 15, 1965, 79 Stat. 233, 235; Pub. L. 90–639, §3, Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(b), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 94–278, title V, §502(a)(2)(B), Apr. 22, 1976, 90 Stat. 411; Pub. L. 100–293, §7(b), Apr. 22, 1988, 102 Stat. 99; Pub. L. 100–690, title II, §2403, Nov. 18, 1988, 102 Stat. 4230; Pub. L. 101–629, §17(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 101–647, title XIX, §1904, Nov. 29, 1990, 104 Stat. 4853; Pub. L. 102–353, §3, Aug. 26, 1992, 106 Stat. 941; Pub. L. 103–80, §3(e), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–322, title XXXIII, §330015, Sept. 13, 1994, 108 Stat. 2146; Pub. L. 104–170, title IV, §407, Aug. 3, 1996, 110 Stat. 1535; Pub. L. 106–387, §1(a) \[title VII, §745(d)(2)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–40; Pub. L. 107–250, title II, §201(c), Oct. 26, 2002, 116 Stat. 1609; Pub. L. 108–173, title XI, §1121(b)(2), Dec. 8, 2003, 117 Stat. 2469; Pub. L. 110–85, title II, §226(b), title VIII, §801(b)(2), title IX, §§901(d)(4), 902(b), Sept. 27, 2007, 121 Stat. 854, 920, 940, 943.)
+(June 25, 1938, ch. 675, §303, 52 Stat. 1043; Oct. 26, 1951, ch. 578, §2, 65 Stat. 649; Pub. L. 86–618, title I, §105(b), July 12, 1960, 74 Stat. 403; Pub. L. 89–74, §§7, 9(d), July 15, 1965, 79 Stat. 233, 235; Pub. L. 90–639, §3, Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(b), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 94–278, title V, §502(a)(2)(B), Apr. 22, 1976, 90 Stat. 411; Pub. L. 100–293, §7(b), Apr. 22, 1988, 102 Stat. 99; Pub. L. 100–690, title II, §2403, Nov. 18, 1988, 102 Stat. 4230; Pub. L. 101–629, §17(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 101–647, title XIX, §1904, Nov. 29, 1990, 104 Stat. 4853; Pub. L. 102–353, §3, Aug. 26, 1992, 106 Stat. 941; Pub. L. 103–80, §3(e), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–322, title XXXIII, §330015, Sept. 13, 1994, 108 Stat. 2146; Pub. L. 104–170, title IV, §407, Aug. 3, 1996, 110 Stat. 1535; Pub. L. 106–387, §1(a) \[title VII, §745(d)(2)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–40; Pub. L. 107–250, title II, §201(c), Oct. 26, 2002, 116 Stat. 1609; Pub. L. 108–173, title XI, §1121(b)(2), Dec. 8, 2003, 117 Stat. 2469; Pub. L. 110–85, title II, §226(b), title VIII, §801(b)(2), title IX, §§901(d)(4), 902(b), Sept. 27, 2007, 121 Stat. 854, 920, 940, 943; Pub. L. 111–31, div. A, title I, §103(c), June 22, 2009, 123 Stat. 1835.)
+
+#### Amendment of Subsection (f)
+
+<i>Pub. L. 111–31, div. A, title I, §103(c)(2), (3), (q)(3), June 22, 2009, 123 Stat. 1835, 1840, provided that, effective upon the issuance of guid</i><i>ance described in section 103(q)(1) of Pub. L. 111–31, set out as a Guidance note below, subsection (f) of this section is amended:</i>
+
+<i>(1) in paragraph (6), by (A) inserting “or the imposition of a no-tobacco-sale order” after “penalty” wherever appearing, and (B) substituting “issued, or on which the no-tobacco-sale order was imposed, as the case may be.” for “issued.”; and</i>
+
+<i>(2) by adding paragraphs (8) and (9) at the end to read as follows:</i>
+
+<i>(8) If the Secretary finds that a person has committed repeated violations of restrictions promulgated under section 387f(d) of this title at a particular retail outlet then the Secretary may impose a no-tobacco-sale order on that person prohibiting the sale of tobacco products in that outlet. A no-tobacco-sale order may be imposed with a civil penalty under paragraph (1). Prior to the entry of a no-sale order under this paragraph, a person shall be entitled to a hearing pursuant to the procedures established through regulations of the Food and Drug Administration for assessing civil money penalties, including at a retailer's request a hearing by telephone, or at the nearest regional or field office of the Food and Drug Administration, or at a Federal, State, or county facility within 100 miles from the location of the retail outlet, if such a facility is available.</i>
+
+<i>(9)</i>
+
+<i>Civil Monetary Penalties for Violation of Tobacco Product Requirements.—</i>
+
+#### <i>(A) In general</i>
+
+&emsp;<i>Subject to subparagraph (B), any person who violates a requirement of this chapter which relates to tobacco products shall be liable to the United States for a civil penalty in an amount not to exceed $15,000 for each such violation, and not to exceed $1,000,000 for all such violations adjudicated in a single proceeding.</i>
+
+#### <i>(B) Enhanced penalties</i>
+
+&emsp;<i>(i) Any person who intentionally violates a requirement of section 387b(5), 387b(6), 387d, 387h(c), or 387k(a) of this title, shall be subject to a civil monetary penalty of—</i>
+
+&emsp;&emsp;<i>(I) not to exceed $250,000 per violation, and not to exceed $1,000,000 for all such violations adjudicated in a single proceeding; or</i>
+
+&emsp;&emsp;<i>(II) in the case of a violation that continues after the Secretary provides written notice to such person, $250,000 for the first 30-day period (or any portion thereof) that the person continues to be in violation, and such amount shall double for every 30-day period thereafter that the violation continues, not to exceed $1,000,000 for any 30-day period, and not to exceed $10,000,000 for all such violations adjudicated in a single proceeding.</i>
+
+&emsp;<i>(ii) Any person who violates a requirement of section 387k(g)(2)(C)(ii) or 387k(i)(1) of this title, shall be subject to a civil monetary penalty of—</i>
+
+&emsp;&emsp;<i>(I) not to exceed $250,000 per violation, and not to exceed $1,000,000 for all such violations adjudicated in a single proceeding; or</i>
+
+&emsp;&emsp;<i>(II) in the case of a violation that continues after the Secretary provides written notice to such person, $250,000 for the first 30-day period (or any portion thereof) that the person continues to be in violation, and such amount shall double for every 30-day period thereafter that the violation continues, not to exceed $1,000,000 for any 30-day period, and not to exceed $10,000,000 for all such violations adjudicated in a single proceeding.</i>
+
+&emsp;<i>(iii) In determining the amount of a civil penalty under clause (i)(II) or (ii)(II), the Secretary shall take into consideration whether the person is making efforts toward correcting the violation of the requirements of the section for which such person is subject to such civil penalty.</i>
 
 #### References in Text
 
 The Controlled Substances Act, referred to in subsec. (e)(3), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
-Section 282(j)(5)(C)(ii) of title 42, referred to in subsec. (f)(3)(B), was in the original “section 402(j)(5)(C)(ii)”, and was translated as meaning section 402(j)(5)(C)(ii) of the Public Health Service Act to reflect the probable intent of Congress because there is no subsec. (j) of section 402 of The Federal Food, Drug, and Cosmetic Act and section 402(j)(5)(C)(ii) of the Public Health Service Act relates to notification of noncompliance with clinical trial information requirements.
+Section 282(j)(5)(C)(ii) of title 42, referred to in subsec. (f)(3)(B), was in the original “section 402(j)(5)(C)(ii)”, and was translated as meaning section 402(j)(5)(C)(ii) of the Public Health Service Act to reflect the probable intent of Congress because there is no subsec. (j) of section 402 of the Federal Food, Drug, and Cosmetic Act and section 402(j)(5)(C)(ii) of the Public Health Service Act relates to notification of noncompliance with clinical trial information requirements.
 
 #### Amendments
+
+2009—Subsec. (f)(5)(A). Pub. L. 111–31, §103(c)(1)(A), (B), substituted “paragraph (1), (2), (3), (4), or (9)” for “paragraph (1), (2), (3), or (4)”, “shall be assessed, or a no-tobacco-sale order may be imposed,” for “shall be assessed”, and “assessed a civil penalty, or upon whom a no-tobacco-sale order is to be imposed,” for “assessed a civil penalty”.
+
+Subsec. (f)(5)(B). Pub. L. 111–31, §103(c)(1)(C), inserted “or the period to be covered by a no-tobacco-sale order,” after “penalty,” and inserted at end “A no-tobacco-sale order permanently prohibiting an individual retail outlet from selling tobacco products shall include provisions that allow the outlet, after a specified period of time, to request that the Secretary compromise, modify, or terminate the order.”
+
+Subsec. (f)(5)(C). Pub. L. 111–31, §103(c)(1)(A), substituted “paragraph (1), (2), (3), (4), or (9)” for “paragraph (1), (2), (3), or (4)”.
+
+Subsec. (f)(5)(D). Pub. L. 111–31, §103(c)(1)(D), added subpar. (D).
 
 2007—Subsec. (f). Pub. L. 110–85, §226(b)(1), redesignated subsec. (g) as (f).
 
@@ -200,7 +244,7 @@ Pub. L. 110–85, §226(b)(1), redesignated subsec. (g) as (f).
 
 1996—Subsec. (g)(2). Pub. L. 104–170, §407(1), (2), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (g)(3). Pub. L. 104–170, §407(1), (3), redesignated par. (2) as (3) and substituted “paragraph (1) or\(2)” for “paragraph (1)” in subpars. (A) and (C). Former par. (3) redesignated (4).
+Subsec. (g)(3). Pub. L. 104–170, §407(1), (3), redesignated par. (2) as (3) and substituted “paragraph (1) or (2)” for “paragraph (1)” in subpars. (A) and (C). Former par. (3) redesignated (4).
 
 Subsec. (g)(4). Pub. L. 104–170, §407(1), (4), redesignated par. (3) as (4) and substituted “paragraph (3)(A)” for “paragraph (2)(A)”. Former par. (4) redesignated (5).
 
@@ -251,6 +295,18 @@ Subsec. (c)(5). Pub. L. 89–74, §9(d), added cl. (5).
 1960—Subsec. (c)(3). Pub. L. 86–618 substituted “a color additive” for “a coal-tar color”, “the color additive” for “the coal-tar color” and “such color additive was” for “such color was”.
 
 1951—Subsec. (c)(4). Act Oct. 26, 1951, added cl. (4).
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–31, div. A, title I, §103(q)(3), (4), June 22, 2009, 123 Stat. 1840, provided that:
+
+“(3)
+
+General effective date.—The amendments made by paragraphs (2) \[amending this section\], (3) \[amending this section\], and (4) \[no par. (4) has been enacted\] of subsection (c) shall take effect upon the issuance of guidance described in paragraph (1) of this subsection \[set out as a Guidance note below\].
+
+“(4)
+
+Special effective date.—The amendment made by subsection (c)(1) \[amending this section\] shall take effect on the date of enactment of this Act \[June 22, 2009\].”
 
 #### Effective Date of 2007 Amendment
 
@@ -311,6 +367,80 @@ Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for violat
 #### Transfer of Functions
 
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
+
+#### Guidance
+
+Pub. L. 111–31, div. A, title I, §103(q)(1), (2), June 22, 2009, 123 Stat. 1838, 1839, provided that:
+
+“(1)
+
+In general.—The Secretary of Health and Human Services shall issue guidance—
+
+&emsp;“(A) defining the term ‘repeated violation’, as used in section 303(f)(8) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 333(f)(8)) as amended by subsection (c), as including at least 5 violations of particular requirements over a 36-month period at a particular retail outlet that constitute a repeated violation and providing for civil penalties in accordance with paragraph (2);
+
+&emsp;“(B) providing for timely and effective notice by certified or registered mail or personal delivery to the retailer of each alleged violation at a particular retail outlet prior to conducting a followup compliance check, such notice to be sent to the location specified on the retailer's registration or to the retailer's registered agent if the retailer has provider \[sic\] such agent information to the Food and Drug Administration prior to the violation;
+
+&emsp;“(C) providing for a hearing pursuant to the procedures established through regulations of the Food and Drug Administration for assessing civil money penalties, including at a retailer's request a hearing by telephone or at the nearest regional or field office of the Food and Drug Administration, and providing for an expedited procedure for the administrative appeal of an alleged violation;
+
+&emsp;“(D) providing that a person may not be charged with a violation at a particular retail outlet unless the Secretary has provided notice to the retailer of all previous violations at that outlet;
+
+&emsp;“(E) establishing that civil money penalties for multiple violations shall increase from one violation to the next violation pursuant to paragraph (2) within the time periods provided for in such paragraph;
+
+&emsp;“(F) providing that good faith reliance on the presentation of a false government-issued photographic identification that contains a date of birth does not constitute a violation of any minimum age requirement for the sale of tobacco products if the retailer has taken effective steps to prevent such violations, including—
+
+&emsp;&emsp;“(i) adopting and enforcing a written policy against sales to minors;
+
+&emsp;&emsp;“(ii) informing its employees of all applicable laws;
+
+&emsp;&emsp;“(iii) establishing disciplinary sanctions for employee noncompliance; and
+
+&emsp;&emsp;“(iv) requiring its employees to verify age by way of photographic identification or electronic scanning device; and
+
+&emsp;“(G) providing for the Secretary, in determining whether to impose a no-tobacco-sale order and in determining whether to compromise, modify, or terminate such an order, to consider whether the retailerhas taken effective steps to prevent violations of the minimum age requirements for the sale of tobacco products, including the steps listed in subparagraph (F).
+
+“(2)
+
+Penalties for violations.—
+
+&emsp;“(A)
+
+In general.—The amount of the civil penalty to be applied for violations of restrictions promulgated under section 906(d) \[probably means section 906(d) of the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. 387f(d)\], as described in paragraph (1), shall be as follows:
+
+&emsp;&emsp;“(i) With respect to a retailer with an approved training program, the amount of the civil penalty shall not exceed—
+
+&emsp;&emsp;&emsp;“(I) in the case of the first violation, $0.00 together with the issuance of a warning letter to the retailer;
+
+&emsp;&emsp;&emsp;“(II) in the case of a second violation within a 12-month period, $250;
+
+&emsp;&emsp;&emsp;“(III) in the case of a third violation within a 24-month period, $500;
+
+&emsp;&emsp;&emsp;“(IV) in the case of a fourth violation within a 24-month period, $2,000;
+
+&emsp;&emsp;&emsp;“(V) in the case of a fifth violation within a 36-month period, $5,000; and
+
+&emsp;&emsp;&emsp;“(VI) in the case of a sixth or subsequent violation within a 48-month period, $10,000 as determined by the Secretary on a case-by-case basis.
+
+&emsp;&emsp;“(ii) With respect to a retailer that does not have an approved training program, the amount of the civil penalty shall not exceed—
+
+&emsp;&emsp;&emsp;“(I) in the case of the first violation, $250;
+
+&emsp;&emsp;&emsp;“(II) in the case of a second violation within a 12-month period, $500;
+
+&emsp;&emsp;&emsp;“(III) in the case of a third violation within a 24-month period, $1,000;
+
+&emsp;&emsp;&emsp;“(IV) in the case of a fourth violation within a 24-month period, $2,000;
+
+&emsp;&emsp;&emsp;“(V) in the case of a fifth violation within a 36-month period, $5,000; and
+
+&emsp;&emsp;&emsp;“(VI) in the case of a sixth or subsequent violation within a 48-month period, $10,000 as determined by the Secretary on a case-by-case basis.
+
+&emsp;“(B)
+
+Training program.—For purposes of subparagraph (A), the term ‘approved training program’ means a training program that complies with standards developed by the Food and Drug Administration for such programs.
+
+&emsp;“(C)
+
+Consideration of state penalties.—The Secretary shall coordinate with the States in enforcing the provisions of this Act \[probably means div. A of Pub. L. 111–31, see Short Title of 2009 Amendment note set out under section 301 of this title and Tables for classifications\] and, for purposes of mitigating a civil penalty to be applied for a violation by a retailer of any restriction promulgated under section 906(d) \[21 U.S.C. 387f(d)\], shall consider the amount of any penalties paid by the retailer to a State for the same violation.”
 
 #### Enforcement
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In making in-kind payments under subchapter III of this chapter, title I of the Farm Securityand Rural Investment Act of 2002 \[7 U.S.C. 7901 et seq.\], and title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\], the Commodity Credit Corporation may—
+In making in-kind payments under subchapter III of this chapter, title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7901 et seq.\], and title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\], the Commodity Credit Corporation may—
 
 &emsp;(1) acquire and use commodities that have been pledged to the Commodity Credit Corporation as collateral for loans made by the Corporation;
 

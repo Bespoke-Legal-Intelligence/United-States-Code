@@ -58,7 +58,7 @@ For purposes of this section—
 
 &emsp;(E) the name of the person responsible for making notifications under subsection (d), who shall be an individual whose primary responsibility is overseeing the program.
 
-(3) For the major program for which a Baseline Report has been submitted, subsequent Major Program Annual Reports shall describe any changes to the information that had been provided in the Baseline Report, and the reasons for those changes.
+(3) For the major program for which a Baseline Report has been submitted, subsequentMajor Program Annual Reports shall describe any changes to the information that had been provided in the Baseline Report, and the reasons for those changes.
 
 #### (d) Notification to Under Secretary of excess development costs
 
@@ -93,4 +93,16 @@ Not later than 30 days after receiving a written notification under subsection (
 For the purposes of determining whether cost of the Geostationary Operational Environmental Satellite Program exceeds 20 percent more than the baseline under this section, the estimate of the total life-cycle cost for GOES–R shall be the estimate provided with the NOAA Fiscal Year 2008 Presidential Budget justification (page 513).
 
 (Pub. L. 110–161, div. B, title I, §112, Dec. 26, 2007, 121 Stat. 1894.)
+
+#### Requirements Adopted by Reference
+
+Pub. L. 111–117, div. B, title I, §105, Dec. 16, 2009, 123 Stat. 3121, provided that: “The requirements set forth by section 112 of division B of Public Law 110–161 \[33 U.S.C. 878a\] are hereby adopted by reference.”
+
+#### Similar Provisions
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 111–8, div. B, title I, §107, Mar. 11, 2009, 123 Stat. 568.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “NOAA; and”.</i>
 

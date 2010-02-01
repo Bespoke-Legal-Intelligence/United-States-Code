@@ -4,7 +4,7 @@ As used in this chapter—
 
 &emsp;(1) The term “documentary material” means all books, correspondence, memorandums, documents, papers, pamphlets, works of art, models, pictures, photographs, plats, maps, films, and motion pictures, including, but not limited to, audio, audiovisual, or other electronic or mechanical recordations.
 
-&emsp;(2) The term “Presidential records” means documentary materials, or any reasonably segregable portion thereof, created or received by the President, his immediate staff, or a unit or individual of the Executive Office of the President whose function is to advise and assist the President, in the course of conducting activities which relate to or have an effect upon the carrying out of the constitutional,statutory, or other official or ceremonial duties of the President. Such term—
+&emsp;(2) The term “Presidential records” means documentary materials, or any reasonably segregable portion thereof, created or received by the President, his immediate staff, or a unit or individual of the Executive Office of the President whose function is to advise and assist the President, in the course of conducting activities which relate to or have an effect upon the carrying out of the constitutional, statutory, or other official or ceremonial duties of the President. Such term—
 
 &emsp;&emsp;(A) includes any documentary materials relating to the political activities of the President or members of his staff, but only if such activities relate to or have a direct effect upon the carrying out of constitutional, statutory, or other official or ceremonial duties of the President; but
 

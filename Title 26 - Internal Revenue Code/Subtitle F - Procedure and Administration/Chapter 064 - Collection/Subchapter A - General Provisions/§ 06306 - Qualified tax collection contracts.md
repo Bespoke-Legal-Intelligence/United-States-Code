@@ -32,7 +32,7 @@ For purposes of this section, the term “qualified tax collection contract” m
 
 The Secretary may retain and use—
 
-&emsp;(1) an amount not in excess of 25 percent of the amount collected under any qualified taxcollection contract for the costs of services performed under such contract, and
+&emsp;(1) an amount not in excess of 25 percent of the amount collected under any qualified tax collection contract for the costs of services performed under such contract, and
 
 &emsp;(2) an amount not in excess of 25 percent of such amount collected for collection enforcement activities of the Internal Revenue Service.
 

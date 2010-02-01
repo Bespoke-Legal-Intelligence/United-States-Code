@@ -132,7 +132,7 @@ Subject to such regulations as the Board may prescribe, subsections (a)(2), (b),
 
 &emsp;&emsp;(C) In the case of a deposit to which subsection (d) or (e) of this section applies, notice shall be provided by the depository institution in accordance with regulations of the Board.
 
-&emsp;&emsp;(D) In the case of a deposit to which subsection (b)(1) or (b)(2) of this section applies, the depository institution may, for nonconsumer accounts and other classes of accounts, as defined by the Board, that generally have a large number of such deposits, provide notice at or before the time it first determines that the subsection applies.
+&emsp;&emsp;(D) In the case of a deposit to which subsection (b)(1) or (b)(2) of this section applies,the depository institution may, for nonconsumer accounts and other classes of accounts, as defined by the Board, that generally have a large number of such deposits, provide notice at or before the time it first determines that the subsection applies.
 
 &emsp;&emsp;(E) In the case of a deposit to which subsection (b)(3) of this section applies, the depository institution may, subject to regulations of the Board, provide notice at the beginning of each time period it determines that the subsection applies. In addition to the requirements contained in paragraph (1)(A), the notice shall specify the time period for which the exception will apply.
 

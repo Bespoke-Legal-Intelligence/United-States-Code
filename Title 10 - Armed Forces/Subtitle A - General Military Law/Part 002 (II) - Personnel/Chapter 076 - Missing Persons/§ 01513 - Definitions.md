@@ -8,7 +8,7 @@ In this chapter:
 
 &emsp;&emsp;(B) a civilian employee of the Department of Defense or an employee of a contractor of the Department of Defense who serves in direct support of, or accompanies, the armed forces in the field under orders and who is in a missing status.
 
-> &emsp;Such term includes an unaccounted for person described in section 1509(b) of this title who is required by section 1509(a)(1) of this title to be considered a missing person.
+> &emsp;Such term includes an unaccounted for person described in subsection (a) of section 1509 of this title who is required by subsection (b) of such section to be considered a missing person.
 
 &emsp;(2) The term “missing status” means the status of a missing person who is determined to be absent in a category of any of the following:
 
@@ -30,7 +30,7 @@ In this chapter:
 
 &emsp;&emsp;(A) the person is returned to United States control alive;
 
-&emsp;&emsp;(B) the remains of the person are recovered and, if not identifiable through visual means as those of the missing person, are identifiedas those of the missing person by a practitioner of an appropriate forensic science; or
+&emsp;&emsp;(B) the remains of the person are recovered and, if not identifiable through visual means as those of the missing person, are identified as those of the missing person by a practitioner of an appropriate forensic science; or
 
 &emsp;&emsp;(C) credible evidence exists to support another determination of the person's status.
 
@@ -40,7 +40,7 @@ In this chapter:
 
 &emsp;&emsp;(A) The spouse of the person.
 
-&emsp;&emsp;(B) A natural child, adopted child, stepchild, or illegitimate child (if acknowledged by the person or parenthood has been established by a court of competent jurisdiction) of the person, except that if such child has not attained the age of 18 years, the term means a surviving parent or legal guardian of such child.
+&emsp;&emsp;(B) A natural child, adopted child, stepchild, or illegitimate child (if acknowledged by the person or parenthood has been established by a court of competent jurisdiction) of the person, except that if such child hasnot attained the age of 18 years, the term means a surviving parent or legal guardian of such child.
 
 &emsp;&emsp;(C) A biological parent of the person, unless legal custody of the person by the parent has been previously terminated by reason of a court decree or otherwise under law and not restored.
 
@@ -54,9 +54,11 @@ In this chapter:
 
 &emsp;(8) The term “theater component commander” means, with respect to any of the combatant commands, an officer of any of the armed forces who (A) is commander of all forces of that armed force assigned to that combatant command, and (B) is directly subordinate to the commander of the combatant command.
 
-(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 350; amended Pub. L. 104–201, div. A, title V, §578(a)(4), (b)(3), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(4), (b)(2), Nov. 18, 1997, 111 Stat. 1768; Pub. L. 106–65, div. A, title X, §1066(a)(15), Oct. 5, 1999, 113 Stat. 771.)
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 350; amended Pub. L. 104–201, div. A, title V, §578(a)(4), (b)(3), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(4), (b)(2), Nov. 18, 1997, 111 Stat. 1768; Pub. L. 106–65, div. A, title X, §1066(a)(15), Oct. 5, 1999, 113 Stat. 771; Pub. L. 111–84, div. A, title V, §541(c), Oct. 28, 2009, 123 Stat. 2298.)
 
 #### Amendments
+
+2009—Par. (1). Pub. L. 111–84 substituted “subsection (a) of section 1509 of this title who is required by subsection (b) of such section” for “section 1509(b) of this title who is required by section 1509(a)(1) of this title” in concluding provisions.
 
 1999—Par. (1). Pub. L. 106–65 substituted “who is required by section 1509(a)(1) of this title to be considered a missing person” for “, under the circumstances specified in the last sentence of section 1509(a) of this title” in concluding provisions.
 

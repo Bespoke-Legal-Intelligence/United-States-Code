@@ -20,7 +20,7 @@ The Administrator shall take all necessary steps to ensure that the Internationa
 
 &emsp;&emsp;&emsp;(ii) Specific known or anticipated maintenance actions that would need to be performed to support International Space Station operations and research through the year 2020.
 
-&emsp;&emsp;&emsp;(iii) Annual upmass and downmass requirements, including potential vehiclesthat will deliver such upmass and downmass, to support the International Space Station after the retirement of the Space Shuttle and through the year 2020.
+&emsp;&emsp;&emsp;(iii) Annual upmass and downmass requirements, including potential vehicles that will deliver such upmass and downmass, to support the International Space Station after the retirement of the Space Shuttle and through the year 2020.
 
 #### (B) ISS National Laboratory Research Management Plan
 

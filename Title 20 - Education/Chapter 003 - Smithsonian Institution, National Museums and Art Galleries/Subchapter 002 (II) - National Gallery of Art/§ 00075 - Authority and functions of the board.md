@@ -14,7 +14,7 @@ The board shall have all the usual powers and obligations of a trustee in respec
 
 #### (d) Annual reports
 
-The board shall submit to the Smithsonian Institution an annual report of its operations under this subchapter, including a detailed statement of all acquisitions and loans of works of art and of all public and private moneys received and disbursed.
+The board shall submit to the Smithsonian Institution an annual report of its operations under this subchapter, including a detailed statement of all acquisitions and loans of worksof art and of all public and private moneys received and disbursed.
 
 (Mar. 24, 1937, ch. 50, §5, 50 Stat. 53.)
 

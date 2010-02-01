@@ -48,7 +48,7 @@
 
 &emsp;(K) Critical skill retention bonus under section 323 <sup>1</sup> of this title.
 
-(2) The following special and incentive pays are dependent on a member being in an enlistedstatus and may not be considered in determining the amount of the pay and allowances of a grade formerly held by an officer:
+(2) The following special and incentive pays are dependent on a member being in an enlisted status and may not be considered in determining the amount of the pay and allowances of a grade formerly held by an officer:
 
 &emsp;(A) Special duty assignment pay under section 307 of this title.
 

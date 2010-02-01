@@ -2,7 +2,7 @@
 
 (a)
 
-Expedited Process.—The Secretary of Defense shall prescribe a process for expediting thecompletion of the background investigations necessary for granting security clearances for Department of Defense personnel and Department of Defense contractor personnel who are engaged in sensitive duties that are critical to the national security.
+Expedited Process.—The Secretary of Defense shall prescribe a process for expediting the completion of the background investigations necessary for granting security clearances for Department of Defense personnel and Department of Defense contractor personnel who are engaged in sensitive duties that are critical to the national security.
 
 (b)
 

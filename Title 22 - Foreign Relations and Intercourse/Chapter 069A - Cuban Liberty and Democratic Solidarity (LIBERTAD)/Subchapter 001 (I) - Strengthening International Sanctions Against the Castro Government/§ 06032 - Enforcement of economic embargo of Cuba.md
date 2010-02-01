@@ -8,7 +8,7 @@
 
 #### (2) Sanctions on other countries
 
-&emsp;The Congress further urges the President to take immediate steps to apply the sanctions described in section 1704(b)(1) of that Act \[22 U.S.C. 6003(b)(1)\] against countries assisting Cuba.
+&emsp;The Congress further urges the President to take immediate steps to apply the sanctionsdescribed in section 1704(b)(1) of that Act \[22 U.S.C. 6003(b)(1)\] against countries assisting Cuba.
 
 #### (b) Diplomatic efforts
 

@@ -18,7 +18,7 @@
 
 &emsp;(D) Hodgkin's disease becoming manifest to a degree of disability of 10 percent or more.
 
-&emsp;(E) Porphyria cutanea tarda becoming manifest to a degree of disability of 10 percent or more within a year after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
+&emsp;(E) Porphyria cutanea tarda becoming manifest to a degree of disability of 10 percent or more within a year after the last date onwhich the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
 
 &emsp;(F) Respiratory cancers (cancer of the lung, bronchus, larynx, or trachea) becoming manifest to a degree of disability of 10 percent or more.
 
@@ -146,7 +146,7 @@ Scientific Determinations Concerning Diseases.—(1) For each disease reviewed, 
 
 “(e)
 
-Recommendations for Additional Scientific Studies.—The Academy shall make any recommendations it has for additional scientific studies to resolve areas of continuing scientific uncertainty relating to herbicide exposure. In making recommendations for further study, the Academy shall consider the scientific information that is currently available, the value and relevance of the information that could result from additional studies, and the cost and feasibility of carrying out such additional studies.
+Recommendations for Additional Scientific Studies.—The Academy shall make any recommendations it has for additional scientific studies to resolve areas of continuing scientific uncertainty relating to herbicide exposure. In making recommendations forfurther study, the Academy shall consider the scientific information that is currently available, the value and relevance of the information that could result from additional studies, and the cost and feasibility of carrying out such additional studies.
 
 “(f)
 
@@ -220,7 +220,7 @@ Annual Report.—The Secretary shall submit to the Committees on Veterans’ Aff
 
 &emsp;“(5) other explanations for the incidence of such disabilities considered reasonable by the Secretary; and
 
-&emsp;“(6) the Secretary's views on the scientific validity of drawing conclusions from the incidence of such disabilities, as evidenced by the data compiled under subsection (a), about any association between such disabilities and exposure to dioxin or any other toxic substance referred to in section 1710(e)(1)(A) of title 38, United States Code, or between such disabilities and active military, naval, or air service, in the Republic of Vietnam during the Vietnam era.
+&emsp;“(6) the Secretary's views on the scientific validity of drawing conclusions from the incidence of such disabilities, as evidenced by the data compiled under subsection (a), about any association between such disabilities and exposure to dioxin or any other toxicsubstance referred to in section 1710(e)(1)(A) of title 38, United States Code, or between such disabilities and active military, naval, or air service, in the Republic of Vietnam during the Vietnam era.
 
 “(c)
 

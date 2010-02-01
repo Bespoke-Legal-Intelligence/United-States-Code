@@ -16,7 +16,7 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 &emsp;(D) to administer oaths.
 
-(2) For the purpose of verifying the accuracy of any energy information requested, acquired, or collected by the Federal Energy Administrator, the Federal Energy Administrator, orany officer or employer <sup>2</sup> duly designated by him, upon presenting appropriate credentials and a written notice from the Federal Energy Administrator to the owner, operator, or agent in charge, may—
+(2) For the purpose of verifying the accuracy of any energy information requested, acquired, or collected by the Federal Energy Administrator, the Federal Energy Administrator, or any officer or employer <sup>2</sup> duly designated by him, upon presenting appropriate credentials and a written notice from the Federal Energy Administrator to the owner, operator, or agent in charge, may—
 
 &emsp;(A) enter, at reasonable times, any business premise or facility; and
 
@@ -54,7 +54,7 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 &emsp;&emsp;(iv) of LPG by State and owner: quantities stored, and existing capacities, and previous priorities on types, inventories of suppliers, and changes in supplier inventories.
 
-(3) In order to carry out his responsibilities under subsection (a) of this section, the Federal Energy Administrator shall require, pursuant to subsection (b)(1)(A) of this section, that persons engaged, in whole or in part, in the production of crude oil or natural gas—
+(3) In order to carry out his responsibilities under subsection (a) of this section, the FederalEnergy Administrator shall require, pursuant to subsection (b)(1)(A) of this section, that persons engaged, in whole or in part, in the production of crude oil or natural gas—
 
 &emsp;(A) keep energy information in accordance with the accounting practices developed pursuant to section 503 of the Energy Policy and Conservation Act \[42 U.S.C. 6383\], and
 

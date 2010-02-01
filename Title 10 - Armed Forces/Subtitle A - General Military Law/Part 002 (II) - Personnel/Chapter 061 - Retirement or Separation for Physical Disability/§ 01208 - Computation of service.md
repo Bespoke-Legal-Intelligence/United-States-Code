@@ -64,7 +64,7 @@ Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that se
 
 #### Effective Date of 1980 Amendment
 
-Amendment by section 501(16) of Pub. L. 96–513 effective Sept. 15, 1981, and amendment by section 511(42) of Pub. L. 96–513 effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+Amendment by section 501(16) of Pub. L. 96–513 effective Sept. 15, 1981, and amendment by section 511(42) ofPub. L. 96–513 effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
 #### Repeals
 

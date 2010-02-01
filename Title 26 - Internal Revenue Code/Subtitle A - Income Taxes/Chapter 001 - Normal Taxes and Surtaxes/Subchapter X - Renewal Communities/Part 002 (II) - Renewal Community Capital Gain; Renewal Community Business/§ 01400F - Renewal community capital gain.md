@@ -42,7 +42,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) as of the time such interest was acquired, such partnership was a renewal community business (or, in the case of a new partnership, such partnership was being organized for purposes of being a renewal community business), and
 
-&emsp;&emsp;(C) during substantially all of the taxpayer's holding period for such interest, suchpartnership qualified as a renewal community business.
+&emsp;&emsp;(C) during substantially all of the taxpayer's holding period for such interest, such partnership qualified as a renewal community business.
 
 > &emsp;A rule similar to the rule of paragraph (2)(B) shall apply for purposes of this paragraph.
 

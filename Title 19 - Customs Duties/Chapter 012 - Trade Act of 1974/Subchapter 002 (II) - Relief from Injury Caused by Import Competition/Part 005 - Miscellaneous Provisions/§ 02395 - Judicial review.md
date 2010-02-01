@@ -2,7 +2,7 @@
 
 #### (a) Petition for review; time and place of filing
 
-A worker, group of workers, certified or recognized union, or authorized representative of such worker or group aggrieved by a final determination of the Secretary of Labor under section 2273 of this title, a firm or its representative or any other interested domestic party aggrieved by a final determination of the Secretary of Commerce under section 2341 of this title, an agricultural commodity producer (as defined in section 2401(2) of this title) aggrieved by a determination of the Secretary of Agriculture under section 2401b of this title, or a community or any other interested domestic party aggrieved by a final determination of the Secretary of Commerce under section 2371 <sup>1</sup> of this title may, within sixty days after notice of such determination, commence a civil action in the United States Court of International Trade for review of such determination. The clerk of such court shall send a copy of the summons and the complaint in such action to the Secretary of Labor, the Secretary of Commerce, or the Secretary of Agriculture, as the case may be. Upon receiving a copy of such summons and complaint, such Secretary shall promptly certify and file in such court the record on which he based such determination.
+A worker, group of workers, certified or recognized union, or authorized representative of such worker or group aggrieved by a final determination of the Secretary of Labor under section 2273 of this title, a firm or its representative or any other interested domestic party aggrieved by a final determination of the Secretary of Commerce under section 2341 of this title, an agricultural commodity producer (as defined in section 2401(2) of this title) aggrieved by a determination of the Secretary of Agriculture under section 2401b or 2401e of this title, or a community or authorized representative of a community aggrieved by a final determination of the Secretary of Commerce under section 2371b of this title may, within sixty days after notice of such determination, commence a civil action in the United States Court of International Trade for review of such determination. The clerk of such court shall send a copy of the summons and the complaint in such action to the Secretary of Labor, the Secretary of Commerce, or the Secretary of Agriculture, as the case may be. Upon receiving a copy of such summons and complaint, such Secretary shall promptly certify and file in such court the record on which he based such determination.
 
 #### (b) Findings of fact by Secretary; conclusiveness; new or modified findings
 
@@ -12,15 +12,23 @@ The findings of fact by the Secretary of Labor, the Secretary of Commerce, or th
 
 The Court of International Trade shall have jurisdiction to affirm the action of the Secretary of Labor, the Secretary of Commerce, or the Secretary of Agriculture, as the case may be, or to set such action aside, in whole or in part. The judgment of the Court of International Trade shall be subject to review by the United States Court of Appeals for the Federal Circuit as prescribed by the rules of such court. The judgment of the Court of Appeals for the Federal Circuit shall be subject to review by the Supreme Court of the United States upon certiorari as provided in section 1256 <sup>1</sup> of title 28.
 
-(Pub. L. 93–618, title II, §284, as added Pub. L. 96–417, title VI, §613(a), Oct. 10, 1980, 94 Stat. 1746; amended Pub. L. 97–164, title I, §163(a)(5), Apr. 2, 1982, 96 Stat. 49; Pub. L. 103–182, title V, §503(d), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §§123(b)(4), 142(a), Aug. 6, 2002, 116 Stat. 944, 953; Pub. L. 108–429, title II, §2004(a)(11)(A), Dec. 3, 2004, 118 Stat. 2590.)
+(Pub. L. 93–618, title II, §284, as added Pub. L. 96–417, title VI, §613(a), Oct. 10, 1980, 94 Stat. 1746; amended Pub. L. 97–164, title I, §163(a)(5), Apr. 2, 1982, 96 Stat. 49; Pub. L. 103–182, title V, §503(d), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §§123(b)(4), 142(a), Aug. 6, 2002, 116 Stat. 944, 953; Pub. L. 108–429, title II, §2004(a)(11)(A), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1873(b)(1), Feb. 17, 2009, 123 Stat. 414.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
 
 #### References in Text
-
-Section 2371 of this title, referred to in subsec. (a), was omitted from the Code as terminated Sept. 30, 1982, pursuant to section 285 of Pub. L. 93–618, as amended, set out as a Termination Date note preceding section 2271 of this title.
 
 Section 1256 of title 28, referred to in subsec. (c), was repealed by Pub. L. 97–164, title I, §123, Apr. 2, 1982, 96 Stat. 36.
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–5, §§1873(b)(1)(C), 1893, temporarily substituted “section 2371b” for “section 2371”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Pub. L. 111–5, §§1873(b)(1)(B), 1893, which directed the temporary substitution of “or authorized representative of a community” for “or any other interested domestic party”, was executed by making the temporary substitution for “or any other interested domestic party” the second time appearing to reflect the probable intent of Congress. See Effective and Termination Dates of 2009 Amendment note below.
+
+Pub. L. 111–5, §§1873(b)(1)(A), 1893, temporarily inserted “or 2401e” after “section 2401b”. See Effective and Termination Dates of 2009 Amendment note below.
 
 2004—Pub. L. 108–429, §2004(a)(11)(A), amended directory language of Pub. L. 107–210, §142(a)(1). See 2002 Amendment notes below.
 
@@ -33,6 +41,12 @@ Subsecs. (b), (c). Pub. L. 107–210, §142(a)(1)(B), as amended by Pub. L. 108�
 1993—Subsec. (a). Pub. L. 103–182 inserted reference to section 2331(c) of this title.
 
 1982—Subsec. (c). Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
+
+#### Effective and Termination Dates of 2009 Amendment
+
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
+
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Effective Date of 2002 Amendment
 

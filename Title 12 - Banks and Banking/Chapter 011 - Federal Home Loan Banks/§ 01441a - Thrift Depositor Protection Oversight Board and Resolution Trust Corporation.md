@@ -48,7 +48,7 @@
 
 #### (A) Expenses
 
-&emsp;&emsp;Members of the Thrift Depositor Protection Oversight Board shall receive allowances in accordance with subchapter I of chapter 57 of title 5 for necessary expenses of travel, lodging, and subsistence incurred in attending meetings and other activities of the Thrift Depositor Protection Oversight Board, as set forth in the bylaws issued by the Thrift Depositor Protection Oversight Board.
+&emsp;&emsp;Members of the Thrift Depositor Protection Oversight Board shall receive allowances in accordance with subchapter I of chapter 57 of title 5 for necessary expenses oftravel, lodging, and subsistence incurred in attending meetings and other activities of the Thrift Depositor Protection Oversight Board, as set forth in the bylaws issued by the Thrift Depositor Protection Oversight Board.
 
 #### (B) No additional compensation for United States officers or employees
 
@@ -82,7 +82,7 @@
 
 &emsp;&emsp;(H) enter into contracts and modify or consent to the modification of any contract or agreement;
 
-&emsp;&emsp;(I) indemnify, from funds made available to it by the Corporation, the members, officers, and employees of the Thrift Depositor Protection Oversight Board on such terms as the Thrift Depositor Protection Oversight Board deems proper against any liability under any civil suit pursuant to any statute or pursuant to common law with respect to any claim arising out of or resulting from any act or omission by such person within the scope of such person's employment in connection with any transaction entered into involving the disposition of assets (or any interests in any assets or any obligations backed by any assets) by the Corporation, and the indemnification authorized by this provision shall be in addition to and notin lieu of any immunities or other protections that may be available to such person under applicable law, and this provision does not affect any such immunities or other protections;
+&emsp;&emsp;(I) indemnify, from funds made available to it by the Corporation, the members, officers, and employees of the Thrift Depositor Protection Oversight Board on such terms as the Thrift Depositor Protection Oversight Board deems proper against any liability under any civil suit pursuant to any statute or pursuant to common law with respect to any claim arising out of or resulting from any act or omission by such person within the scope of such person's employment in connection with any transaction entered into involving the disposition of assets (or any interests in any assets or any obligations backed by any assets) by the Corporation, and the indemnification authorized by this provision shall be in addition to and not in lieu of any immunities or other protections that may be available to such person under applicable law, and this provision does not affect any such immunities or other protections;
 
 &emsp;&emsp;(J) sue and be sued in courts of competent jurisdiction; and
 
@@ -136,7 +136,7 @@
 
 #### (10) Open meetings
 
-&emsp;Not less than 6 times each year, the Thrift Depositor Protection Oversight Board shallconduct open meetings to review overall strategies, policies, and goals established by the Corporation and to consider such other matters as pertain to its functions under this chapter. The Thrift Depositor Protection Oversight Board shall maintain a transcript of the board's open meetings.
+&emsp;Not less than 6 times each year, the Thrift Depositor Protection Oversight Board shall conduct open meetings to review overall strategies, policies, and goals established by the Corporation and to consider such other matters as pertain to its functions under this chapter. The Thrift Depositor Protection Oversight Board shall maintain a transcript of the board's open meetings.
 
 #### (11) Power to remove; jurisdiction
 
@@ -196,7 +196,7 @@
 
 #### (15) Reports on any modification to any strategy, policy, or goal
 
-&emsp;If, pursuant to paragraph (6)(A), the Thrift Depositor Protection Oversight Board requires the Corporation to modify any overall strategy, policy, or goal, such board shall submit, before the end of the 30-day period beginning on the date on which the board first notifies the Corporation of such requirement, to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives an explanation ofthe grounds which the board determined justified the review and the reasons why the modification is necessary to satisfy any such ground.
+&emsp;If, pursuant to paragraph (6)(A), the Thrift Depositor Protection Oversight Board requires the Corporation to modify any overall strategy, policy, or goal, such board shall submit, before the end of the 30-day period beginning on the date on which the board first notifies the Corporation of such requirement, to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives an explanation of the grounds which the board determined justified the review and the reasons why the modification is necessary to satisfy any such ground.
 
 #### (16) Termination
 
@@ -220,7 +220,7 @@
 
 #### (2) Government corporation
 
-&emsp;Notwithstanding the fact that no Government funds may be invested in the Corporation, the Corporation shall be treated, for purposes of sections 9105,<sup>3</sup> 9107, and 9108 of title 31, as a mixed-ownership Government corporation which has capital of the Government.
+&emsp;Notwithstanding the fact that no Government funds may be invested in the Corporation, the Corporation shall be treated, for purposes of sections 9105,<sup>3</sup> 9107, and 9108 of title 31,as a mixed-ownership Government corporation which has capital of the Government.
 
 #### (3) Duties
 
@@ -294,7 +294,7 @@
 
 #### (i) FDIC
 
-&emsp;&emsp;&emsp;The Corporation shall use employees (selected by the Corporation) of the Federal Deposit Insurance Corporation and the Federal Deposit Insurance Corporation shall provide such personnel to the Corporation for its use. Notwithstanding the foregoing, the Federal Deposit Insurance Corporation need not provide to the Corporation any employee of the Federal Deposit Insurance Corporation who was employed by the Federal Deposit Insurance Corporation on December 12, 1991, and who had not theretofore been provided to the Corporation by the Federal Deposit Insurance Corporation. In addition to persons otherwise employed by the Federal Deposit Insurance Corporation, the Federal Deposit Insurance Corporation shall employ, and shall provide to the Corporation, such persons as the Corporation may request from time to time. Federal Deposit Insurance Corporation employees provided to the Corporation shall be subject to the direction and control of the Corporation and any of them may be returned to the Federal Deposit Insurance Corporation at any time by the Corporation in the discretion of the Corporation. The Corporation shall reimburse the Federal Deposit Insurance Corporation for the actual costs incurred in providing such employees. Any permanent employee of the Federal Deposit Insurance Corporation who was performing services on behalf of the Corporation immediately prior to December 12, 1991, shall continue to be provided to the Corporation after December 12, 1991, unless the Corporation determines the services of any such employee to be unnecessary, in which case such employee shall be returned to a similar position performing services on behalf of the Federal Deposit Insurance Corporation. In any ensuing reduction-in-force or reorganization within the Federal Deposit Insurance Corporation, any such employee shall compete with the same rights as any other Federal Deposit Insurance Corporation employee. The Corporation may use administrative services of the Federal Deposit Insurance Corporation and, if it does so, shall reimburse the Federal Deposit Insurance Corporation for the actual costs of providing such services.
+&emsp;&emsp;&emsp;The Corporation shall use employees (selected by the Corporation) of the Federal Deposit Insurance Corporation and theFederal Deposit Insurance Corporation shall provide such personnel to the Corporation for its use. Notwithstanding the foregoing, the Federal Deposit Insurance Corporation need not provide to the Corporation any employee of the Federal Deposit Insurance Corporation who was employed by the Federal Deposit Insurance Corporation on December 12, 1991, and who had not theretofore been provided to the Corporation by the Federal Deposit Insurance Corporation. In addition to persons otherwise employed by the Federal Deposit Insurance Corporation, the Federal Deposit Insurance Corporation shall employ, and shall provide to the Corporation, such persons as the Corporation may request from time to time. Federal Deposit Insurance Corporation employees provided to the Corporation shall be subject to the direction and control of the Corporation and any of them may be returned to the Federal Deposit Insurance Corporation at any time by the Corporation in the discretion of the Corporation. The Corporation shall reimburse the Federal Deposit Insurance Corporation for the actual costs incurred in providing such employees. Any permanent employee of the Federal Deposit Insurance Corporation who was performing services on behalf of the Corporation immediately prior to December 12, 1991, shall continue to be provided to the Corporation after December 12, 1991, unless the Corporation determines the services of any such employee to be unnecessary, in which case such employee shall be returned to a similar position performing services on behalf of the Federal Deposit Insurance Corporation. In any ensuing reduction-in-force or reorganization within the Federal Deposit Insurance Corporation, any such employee shall compete with the same rights as any other Federal Deposit Insurance Corporation employee. The Corporation may use administrative services of the Federal Deposit Insurance Corporation and, if it does so, shall reimburse the Federal Deposit Insurance Corporation for the actual costs of providing such services.
 
 #### (ii) Other agencies
 
@@ -584,7 +584,7 @@
 
 &emsp;&emsp;In selling such a property, the Corporation shall give preference to any bona fide offer made by the household residing in the property, if—
 
-&emsp;&emsp;&emsp;(i) such offer is substantially similar in amount to other offers made within suchperiod (or expected by the Corporation to be made within such period);
+&emsp;&emsp;&emsp;(i) such offer is substantially similar in amount to other offers made within such period (or expected by the Corporation to be made within such period);
 
 &emsp;&emsp;&emsp;(ii) such offer is made during the period beginning upon the Corporation making such property available and of a reasonable duration, as determined by the Corporation based on the normal period for sale of such properties; and
 
@@ -602,7 +602,7 @@
 
 #### (16) Preference for sales for homeless families
 
-&emsp;Subject to paragraph (15), in selling any real property (other than eligible residential property and eligible condominium property, as such terms are defined in subsection (c)(9) of this section) to which the Corporation acquires title, the Corporation shall give preference, among offers to purchase the property that will result in the same net present value proceeds, to any offer that would provide for the property to be used, during the remaining useful life of the property, to provide housing or shelter for homeless persons (as such term is defined in section 103 of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11302\]) or homeless families.
+&emsp;Subject to paragraph (15), in selling any real property (other than eligible residential property and eligible condominium property, as such terms are defined in subsection (c)(9) of this section) to which the Corporation acquires title, the Corporation shall give preference, among offers to purchase the property that will result in the same net present value proceeds, to any offer that would provide for the property to be used, during the remaininguseful life of the property, to provide housing or shelter for homeless persons (as such term is defined in section 103 of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11302\]) or homeless families.
 
 #### (17) Preferences for sales of certain commercial real properties
 
@@ -640,11 +640,11 @@
 
 #### (B) Offers to sell single family properties to nonprofit organizations, public agencies, and qualifying households
 
-&emsp;&emsp;Except as provided in the last sentence of this subparagraph <sup>5</sup> for the 3-month and one week period following the date on which the Corporation makes an eligible single family property available for sale, the Corporation shall offer to sell the property to (i) qualifying households (including qualifying households with members who are veterans), or (ii) public agencies or nonprofit organizations that agree to (I) make the property available for occupancy by and maintain it as affordable for lower-income families (including lower-income families with members who are veterans) for the remaining useful life of such property, or (II) make the property available for purchase by any such family who, except as provided in subparagraph (D), agrees to occupy the property as a principal residence for at least 12 months andwho certifies in writing that the family intends to occupy the property for at least 12 months. The restrictions described in subclause (I) of the preceding sentence shall be contained in the deed or other recorded instrument. If upon the expiration of such 3-month and one week period, no qualifying household, public agency, or nonprofit organization has made a bona fide offer to purchase the property, the Corporation may offer to sell the property to any purchaser. The Corporation shall actively market eligible single family properties for sale to lower-income families and to lower-income families with members who are veterans. To the extent or in such amounts as are provided in appropriations Acts for additional costs and losses to the Corporation resulting from this sentence taking effect, for purposes of this subsection the period referred to in the first and third sentences shall be considered to be the 180-day period following the date on which the Corporation first makes an eligible single family property available for sale.
+&emsp;&emsp;Except as provided in the last sentence of this subparagraph <sup>5</sup> for the 3-month and one week period following the date on which the Corporation makes an eligible single family property available for sale, the Corporation shall offer to sell the property to (i) qualifying households (including qualifying households with members who are veterans), or (ii) public agencies or nonprofit organizations that agree to (I) make the property available for occupancy by and maintain it as affordable for lower-income families (including lower-income families with members who are veterans) for the remaining useful life of such property, or (II) make the property available for purchase by any such family who, except as provided in subparagraph (D), agrees to occupy the property as a principal residence for at least 12 months and who certifies in writing that the family intends to occupy the property for at least 12 months. The restrictions described in subclause (I) of the preceding sentence shall be contained in the deed or other recorded instrument. If upon the expiration of such 3-month and one week period, no qualifying household, public agency, or nonprofit organization has made a bona fide offer to purchase the property, the Corporation may offer to sell the property to any purchaser. The Corporation shall actively market eligible single family properties for sale to lower-income families and to lower-income families with members who are veterans. To the extent or in such amounts as are provided in appropriations Acts for additional costs and losses to the Corporation resulting from this sentence taking effect, for purposes of this subsection the period referred to in the first and third sentences shall be considered to be the 180-day period following the date on which the Corporation first makes an eligible single family property available for sale.
 
 #### (C) Recapture of profits from resale
 
-&emsp;&emsp;Except as provided in subparagraph (D), if any eligible single family property sold (i) to a qualifying household, or (ii) to a lower-income family pursuant to subparagraph (B)(ii)(II), paragraph (12)(C)(i), or paragraph (13)(B), is resold by the qualifying household or lower-income family during the 1-year period beginning upon initial acquisition by the household or lower-income family, the Corporation shall recapture 75 percent of the amount of any proceeds from the resale that exceed the sum of (I) the original sale price for the acquisition of the property by the qualifying household or lower-income family; (II) the costs of any improvements to the property made after the date of the acquisition, and (III) any closing costs in connection with the acquisition.
+&emsp;&emsp;Except as provided in subparagraph (D), if any eligible single family property sold (i) to a qualifying household, or (ii) to a lower-income family pursuant to subparagraph (B)(ii)(II), paragraph (12)(C)(i), or paragraph (13)(B), is resold by the qualifying household or lower-income family during the 1-year period beginning upon initial acquisition by the household or lower-income family, the Corporation shall recapture 75 percent of the amount of any proceeds from the resale that exceed the sum of (I) the original sale price for the acquisition of the property by the qualifying household or lower-income family; (II) the costs of any improvements tothe property made after the date of the acquisition, and (III) any closing costs in connection with the acquisition.
 
 #### (D) Exceptions to recapture requirement
 
@@ -678,7 +678,7 @@
 
 #### (D) Offers to purchase
 
-&emsp;&emsp;A qualifying multifamily purchaser receiving notice in accordance with subparagraph\(C) shall have 45 days (from the date notice is received) to make a bona fide offer to purchase a property. The Corporation shall accept an offer that complies with the terms and conditions established by the Corporation. If, before the expiration of such 45-day period, any offer to purchase a property initially accepted by the Corporation is subsequently rejected or fails (for any reason), the Corporation shall accept another offer to purchase the property made during such period that complies with the terms and conditions established by the Corporation (if such another offer is made). The preceding sentence may not be construed to require a qualifying multifamily purchaser whose offer is accepted during the 45-day period to purchase the property before the expiration of the period.
+&emsp;&emsp;A qualifying multifamily purchaser receiving notice in accordance with subparagraph (C) shall have 45 days (from the date notice is received) to make a bona fide offer to purchase a property. The Corporation shall accept an offer that complies with the terms and conditions established by the Corporation. If, before the expiration of such 45-day period, any offer to purchase a property initially accepted by the Corporation is subsequently rejected or fails (for any reason), the Corporation shall accept another offer to purchase the property made during such period that complies with the terms and conditions established by the Corporation (if such another offer is made). The preceding sentence may not be construed to require a qualifying multifamily purchaser whose offer is accepted during the 45-day period to purchase the property before the expiration of the period.
 
 #### (E) Lower-income occupancy requirements
 
@@ -688,7 +688,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) not less than 35 percent of all dwelling units purchased shall be made available for occupancy by and maintained as affordable for lower-income and very low-income families during the remaining useful life of the property in which the units are located; and
 
-&emsp;&emsp;&emsp;&emsp;(II) not less than 20 percent of all dwelling units purchased shall be made available for occupancy by and maintained as affordable for very low-income families (including very low-income families taken into account for purposes of subclause (I)) during the remaining useful life of the property in which the units are located.
+&emsp;&emsp;&emsp;&emsp;(II) not less than 20 percent of all dwelling units purchased shall be made available for occupancy by and maintained as affordable for very low-income families (including very low-income families taken into account for purposes ofsubclause (I)) during the remaining useful life of the property in which the units are located.
 
 #### (ii) Aggregation requirements for multiproperty purchases
 
@@ -756,7 +756,7 @@
 
 #### (B) Assistance by HUD
 
-&emsp;&emsp;The Secretary shall take such action as may be necessary to expedite the processing of applications for assistance under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11361 et seq.\], section 810 <sup>3</sup> of the Housing and Community Development Act of 1974 \[12 U.S.C. 1706e\], and the National Housing Act \[12 U.S.C. 1701 et seq.\] to enable any organization or individual to purchase eligible residential property.
+&emsp;&emsp;The Secretary shall take such action as may be necessary to expedite the processing of applications for assistance under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11360 et seq.\], section 810 <sup>3</sup> of the Housing and Community Development Act of 1974 \[12 U.S.C. 1706e\], and the National Housing Act \[12 U.S.C. 1701 et seq.\] to enable any organization or individual to purchase eligible residential property.
 
 #### (C) Assistance by FmHA
 
@@ -768,7 +768,7 @@
 
 #### (E) Urban homesteading acquisition
 
-&emsp;&emsp;(i) In providing for bulk acquisition of eligible single family properties by the Secretary under section 810(<i>l</i>) <sup>3</sup> of the Housing and Community Development Act of 1974 \[12 U.S.C. 1706e(<i>l</i>)\] and by participating jurisdictions for inclusion in affordable housing activities assisted under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\], the Corporation shall agree to an amount to be paid for acquisition of such properties. The acquisition price shall include discounts for bulk purchase and for holding of the property such that the acquisition price for each property shall not exceed 50 percent of the fair market value of the property, as valued individually.
+&emsp;&emsp;(i) In providing for bulk acquisition of eligible single family properties by the Secretary under section 810(<i>l</i>) <sup>3</sup> of the Housing and Community Development Act of 1974 \[12 U.S.C. 1706e(<i>l</i>)\] and by participating jurisdictions for inclusion in affordable housing activities assisted under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\], the Corporation shall agree to an amount to be paid for acquisition of such properties. The acquisition price shall include discounts for bulk purchase and for holding of the property such that the acquisition price for each propertyshall not exceed 50 percent of the fair market value of the property, as valued individually.
 
 &emsp;&emsp;(ii) To the extent necessary to facilitate sale of properties to the Secretary and participating jurisdictions, the requirements of paragraphs (2), (5), and (6)(A) of this subsection shall not apply to such transactions and property involved in such transactions.
 
@@ -824,7 +824,7 @@
 
 &emsp;&emsp;The term “eligible condominium property” means a condominium unit, as such term is defined in section 3603 of title 15—
 
-&emsp;&emsp;&emsp;(i) to which the Corporation acquires title in its corporate capacity, its capacity as conservator, or its capacity as receiver (including its capacity as the sole owner of a subsidiary corporation of a depositoryinstitution under conservatorship or receivership, which subsidiary has as its principal business the ownership of real property); and
+&emsp;&emsp;&emsp;(i) to which the Corporation acquires title in its corporate capacity, its capacity as conservator, or its capacity as receiver (including its capacity as the sole owner of a subsidiary corporation of a depository institution under conservatorship or receivership, which subsidiary has as its principal business the ownership of real property); and
 
 &emsp;&emsp;&emsp;(ii) that has an appraised value that does not exceed—
 
@@ -878,7 +878,7 @@
 
 &emsp;&emsp;The term “nonprofit organization” means a private organization (including a limited equity cooperative)—
 
-&emsp;&emsp;&emsp;(i) no part of the net earnings of which inures to the benefit of any member,shareholder, founder, contributor, or individual; and
+&emsp;&emsp;&emsp;(i) no part of the net earnings of which inures to the benefit of any member, shareholder, founder, contributor, or individual; and
 
 &emsp;&emsp;&emsp;(ii) that is approved by the Corporation as to financial responsibility.
 
@@ -946,7 +946,7 @@
 
 #### (B) Acquisition price and discount
 
-&emsp;&emsp;The acquisition price paid by the State housing finance agency or State or localhousing agency to the Corporation for properties transferred under this paragraph shall be an amount agreed to by the Corporation and the transferee agency.
+&emsp;&emsp;The acquisition price paid by the State housing finance agency or State or local housing agency to the Corporation for properties transferred under this paragraph shall be an amount agreed to by the Corporation and the transferee agency.
 
 #### (C) Lower-income use
 
@@ -974,7 +974,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) subject to the provisions of paragraph (3)(H);
 
-&emsp;&emsp;&emsp;&emsp;(IV) subject to a preference, among financially acceptable offers, to the offer that would reserve the highest percentage of dwelling units for occupancy or purchase by very low-income families and lower-income families and would retain such affordability for the longest term; and
+&emsp;&emsp;&emsp;&emsp;(IV) subject to a preference, among financially acceptable offers, to the offerthat would reserve the highest percentage of dwelling units for occupancy or purchase by very low-income families and lower-income families and would retain such affordability for the longest term; and
 
 &emsp;&emsp;&emsp;&emsp;(V) subject to the rent limitations under paragraph (4)(A).
 
@@ -1020,7 +1020,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), any nonprofit organization, public agency, or for-profit entity that purchases an eligible condominium property shall (I) make the property available for occupancy by and maintain it as affordable for lower-income families for the remaining useful life of the property, or (II) make the property available for purchase by any such family who, except as provided in subparagraph\(E), agrees to occupy the property as a principal residence for at least 12 months and who certifies in writing that the family intends to occupy the property for at least 12 months. The restriction described in subclause (I) of the preceding sentence shall be contained in the deed or other recorded instrument.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), any nonprofit organization, public agency, or for-profit entity that purchases an eligible condominium property shall (I) make the property available for occupancy by and maintain it as affordable for lower-income families for the remaining useful life of the property, or (II) make the property available for purchase by any such family who, except as provided in subparagraph (E), agrees to occupy the property as a principal residence for at least 12 months and who certifies in writing that the family intends to occupy the property for at least 12 months. The restriction described in subclause (I) of the preceding sentence shall be contained in the deed or other recorded instrument.
 
 #### (ii) Multiple-unit purchases
 
@@ -1028,7 +1028,7 @@
 
 #### (iii) Sale to other purchasers
 
-&emsp;&emsp;&emsp;If, upon the expiration of the 180-day period referred to in subparagraph (B), no purchaser described in clauses (i) through (iv) of subparagraph (B) has made a bona fide offer to purchase the property, the Corporation may offer to sell the property to any other purchaser.
+&emsp;&emsp;&emsp;If, upon the expiration of the 180-day period referred to in subparagraph (B), nopurchaser described in clauses (i) through (iv) of subparagraph (B) has made a bona fide offer to purchase the property, the Corporation may offer to sell the property to any other purchaser.
 
 #### (D) Recapture of profits from resale
 
@@ -1136,7 +1136,7 @@
 
 #### (iv) Ineligible residential property
 
-&emsp;&emsp;&emsp;The term “ineligible residential property” includes ineligible single familyproperties, ineligible multifamily housing properties, and ineligible condominium properties.
+&emsp;&emsp;&emsp;The term “ineligible residential property” includes ineligible single family properties, ineligible multifamily housing properties, and ineligible condominium properties.
 
 #### (17) Unified affordable housing program
 
@@ -1212,7 +1212,7 @@
 
 #### (1) Limitations on certain activities
 
-&emsp;All insured depository institutions (as defined in section 1813 of this title) organized bythe Corporation under this section shall, during the period such institutions are within the control of the Corporation, be subject to such limitations, restrictions, and conditions as determined by the Corporation with respect to the following activities:
+&emsp;All insured depository institutions (as defined in section 1813 of this title) organized by the Corporation under this section shall, during the period such institutions are within the control of the Corporation, be subject to such limitations, restrictions, and conditions as determined by the Corporation with respect to the following activities:
 
 &emsp;&emsp;(A) Growth of assets.
 
@@ -1300,7 +1300,7 @@ The Corporation and the Thrift Depositor Protection Oversight Board, the capital
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation, upon approval of the Thrift Depositor Protection OversightBoard, is authorized to borrow from the Treasury. The Secretary of the Treasury is authorized and directed to loan to the Corporation, on such terms as may be fixed by the Secretary of the Treasury, an amount not exceeding in the aggregate $5,000,000,000 outstanding at any one time.
+&emsp;&emsp;The Corporation, upon approval of the Thrift Depositor Protection Oversight Board, is authorized to borrow from the Treasury. The Secretary of the Treasury is authorized and directed to loan to the Corporation, on such terms as may be fixed by the Secretary of the Treasury, an amount not exceeding in the aggregate $5,000,000,000 outstanding at any one time.
 
 #### (B) Interest rate
 
@@ -1318,7 +1318,7 @@ The Corporation and the Thrift Depositor Protection Oversight Board, the capital
 
 #### (A) Certification required
 
-&emsp;&emsp;Of the funds appropriated under paragraph (3) which are provided after April 1, 1993, any amount in excess of $10,000,000,000 shall not be available to the Corporation before the date on which the Secretary of the Treasury certifies to the Congress that, since December 17, 1993, the Corporation has taken such action as may be necessary to comply with the requirements of subsection (w) of this section or that, as of the date of the certification, the Corporation is continuing to make adequate progress toward full compliance with such requirements.
+&emsp;&emsp;Of the funds appropriated under paragraph (3) which are provided after April 1, 1993, anyamount in excess of $10,000,000,000 shall not be available to the Corporation before the date on which the Secretary of the Treasury certifies to the Congress that, since December 17, 1993, the Corporation has taken such action as may be necessary to comply with the requirements of subsection (w) of this section or that, as of the date of the certification, the Corporation is continuing to make adequate progress toward full compliance with such requirements.
 
 #### (B) Appearance upon request
 
@@ -1478,7 +1478,7 @@ The Corporation and the Thrift Depositor Protection Oversight Board, the capital
 
 &emsp;&emsp;&emsp;(iv) a list of the properties sold to State housing finance authorities (as such term is defined in section 1301 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[12 U.S.C. 1441a–1\]), the individual purchase prices of such properties, and an estimate of the premium paid by such authorities for such properties; and
 
-&emsp;&emsp;&emsp;(v) descriptions of the operations and activities of the national and regional advisory boards established under subsection (d) of this section and financial statements detailing the expenses of such boards.
+&emsp;&emsp;&emsp;(v) descriptions of the operations and activities of the national and regional advisory boards established under subsection\(d) of this section and financial statements detailing the expenses of such boards.
 
 #### (C) Submission to Congress and the President
 
@@ -1698,7 +1698,7 @@ The Corporation and the Thrift Depositor Protection Oversight Board, the capital
 
 #### (2) Corporation as party
 
-&emsp;The Corporation shall be substituted as a party in any civil action, suit, or proceeding to which its predecessor in interest was a party with respect to institutions which are subject to the management agreement dated February 7, 1989, among the Federal Savings and Loan Insurance Corporation, the Federal Home Loan Bank Board and the Federal Deposit Insurance Corporation.
+&emsp;The Corporation shall be substituted as a party in any civil action, suit, or proceeding to which its predecessor in interest was a party with respect to institutions which are subject to the management agreement dated February 7, 1989, among the Federal Savingsand Loan Insurance Corporation, the Federal Home Loan Bank Board and the Federal Deposit Insurance Corporation.
 
 #### (3) Removal and remand
 
@@ -1740,7 +1740,7 @@ The Corporation and the Thrift Depositor Protection Oversight Board, the capital
 
 #### (1) In general
 
-&emsp;(A) The Thrift Depositor Protection Oversight Board and the Corporation shall each be an “agency” for purposes of title 18. Any individual who, pursuant to a contract or any other arrangement, performs functions or activities of the Thrift Depositor Protection Oversight Board or the Corporation, under the direct supervision of an officer or employee of the Thrift Depositor Protection Oversight Board or the Corporation, shall be deemed tobe an employee of the Thrift Depositor Protection Oversight Board or the Corporation for the purposes of title 18 and this chapter.
+&emsp;(A) The Thrift Depositor Protection Oversight Board and the Corporation shall each be an “agency” for purposes of title 18. Any individual who, pursuant to a contract or any other arrangement, performs functions or activities of the Thrift Depositor Protection Oversight Board or the Corporation, under the direct supervision of an officer or employee of the Thrift Depositor Protection Oversight Board or the Corporation, shall be deemed to be an employee of the Thrift Depositor Protection Oversight Board or the Corporation for the purposes of title 18 and this chapter.
 
 &emsp;(B) Any individual who, pursuant to a contract or any other agreement, acts for or on behalf of the Corporation shall be deemed to be a public official for the purposes of section 201 of title 18.
 
@@ -1750,7 +1750,7 @@ The Corporation and the Thrift Depositor Protection Oversight Board, the capital
 
 #### (3) Use of confidential information
 
-&emsp;The Thrift Depositor Protection Oversight Board and the Corporation shall, not later than 180 days after August 9, 1989, promulgate rules and regulations applicable to independent contractors governing conflicts of interest, ethical responsibilities, and the use of confidential information consistent with the goals and purposes of titles 18 and 41.
+&emsp;The Thrift Depositor Protection Oversight Board and the Corporation shall, not later than 180 days after August 9, 1989, promulgate rules and regulations applicable to independent contractors governing conflicts of interest, ethical responsibilities, and the use ofconfidential information consistent with the goals and purposes of titles 18 and 41.
 
 #### (4) Post employment
 
@@ -1806,7 +1806,7 @@ The Corporation and the Thrift Depositor Protection Oversight Board, the capital
 
 &emsp;&emsp;(A) fails to disclose a material fact to the Thrift Depositor Protection Oversight Board or the Corporation,
 
-&emsp;&emsp;(B) would be prohibited under paragraph (6) from providing services to, receiving feesfrom, or contracting with the Corporation or the Thrift Depositor Protection Oversight Board, or
+&emsp;&emsp;(B) would be prohibited under paragraph (6) from providing services to, receiving fees from, or contracting with the Corporation or the Thrift Depositor Protection Oversight Board, or
 
 &emsp;&emsp;(C) has been subject to a final enforcement action by any Federal bank regulatory agency.
 
@@ -1820,7 +1820,7 @@ The Corporation and the Thrift Depositor Protection Oversight Board, the capital
 
 &emsp;&emsp;(A) The term “company” has the same meaning as in section 1841(b) of this title.
 
-&emsp;&emsp;(B) The term “control” has the same meaning given such term under regulations promulgated by the Federal Home Loan Bank Board with respect to savings and loan holding companies as in effect on the day before August 9, 1989.
+&emsp;&emsp;(B) The term “control” has the same meaning given such term under regulations promulgated by the Federal Home Loan Bank Board with respect to savings and loanholding companies as in effect on the day before August 9, 1989.
 
 &emsp;&emsp;(C) The term “Corporation” includes the Resolution Trust Corporation, the national advisory board, and the regional advisory boards.
 
@@ -2138,7 +2138,7 @@ No person obligated to provide services to an insured depository institution at 
 
 #### (B) Vice president
 
-&emsp;&emsp;The head of the division shall be a vice president of the Corporation and a member of the executive committee of the Corporation.
+&emsp;&emsp;The head of the division shall be a vice president of the Corporation and a memberof the executive committee of the Corporation.
 
 #### (5) Chief financial officer
 
@@ -2286,7 +2286,7 @@ No person obligated to provide services to an insured depository institution at 
 
 #### (A) In general
 
-&emsp;&emsp;In considering offers to acquire any insured depository institution, or any branch of an insured depository institution, located in a predominantly minority neighborhood (as defined in regulations prescribed under subsection (s) of this section), the Corporation shall give preference to an offer fromany minority individual, minority-owned business, or a minority depository institution, over any other offer that results in the same cost to the Corporation, as determined under section 1823(c)(4) of this title.
+&emsp;&emsp;In considering offers to acquire any insured depository institution, or any branch of an insured depository institution, located in a predominantly minority neighborhood (as defined in regulations prescribed under subsection (s) of this section), the Corporation shall give preference to an offer from any minority individual, minority-owned business, or a minority depository institution, over any other offer that results in the same cost to the Corporation, as determined under section 1823(c)(4) of this title.
 
 #### (B) Capital assistance
 
@@ -2300,7 +2300,7 @@ No person obligated to provide services to an insured depository institution at 
 
 #### (C) Performing assets
 
-&emsp;&emsp;In the case of an acquisition of any depository institution or branch described in subparagraph (A) by any minority individual, minority-owned business, or a minority depository institution, the Corporation may provide, in connection with such acquisition and in addition to performing assets of the depository institution or branch, other performing assets under the control of the Corporation in an amount (as determined on the basis of the Corporation's estimate of the fair market value of the assets) not greater than the amount of net liabilities carried on the books of the institution or branch, including deposits, which are assumed in connection with the acquisition.
+&emsp;&emsp;In the case of an acquisition of any depository institution or branch described in subparagraph (A) by any minority individual, minority-owned business, or a minority depository institution, the Corporation may provide, in connection with such acquisition and in addition to performing assets of the depository institution or branch, other performing assets under the control of the Corporation in an amount (as determined on thebasis of the Corporation's estimate of the fair market value of the assets) not greater than the amount of net liabilities carried on the books of the institution or branch, including deposits, which are assumed in connection with the acquisition.
 
 #### (D) First priority for disposition of assets
 
@@ -2386,7 +2386,7 @@ No person obligated to provide services to an insured depository institution at 
 
 &emsp;To improve the management of legal services, the Corporation—
 
-&emsp;&emsp;(A) shall utilize staff counsel when such utilization would provide the same level of quality in legal services as the use of outside counsel at the same or a lower estimated cost; and
+&emsp;&emsp;(A) shall utilize staff counsel when such utilization would provide the same level ofquality in legal services as the use of outside counsel at the same or a lower estimated cost; and
 
 &emsp;&emsp;(B) may only employ outside counsel—
 
@@ -2446,7 +2446,7 @@ No person obligated to provide services to an insured depository institution at 
 
 #### (B) Employee
 
-&emsp;&emsp;For purposes of this subsection and sections 4302, 4502, 4503, and 4505a of title 5 (asapplicable with respect to this subsection), the term “employee” includes any officer or employee assigned to the Corporation under subsection (b)(8) of this section and any officer or employee of the Thrift Depositor Protection Oversight Board.
+&emsp;&emsp;For purposes of this subsection and sections 4302, 4502, 4503, and 4505a of title 5 (as applicable with respect to this subsection), the term “employee” includes any officer or employee assigned to the Corporation under subsection (b)(8) of this section and any officer or employee of the Thrift Depositor Protection Oversight Board.
 
 #### (y) Authority to execute contracts
 
@@ -2466,7 +2466,7 @@ No person obligated to provide services to an insured depository institution at 
 
 #### (2) Presentation of identification
 
-&emsp;Prior to executing any contract described in paragraph (1) with any person, a warranted contracting officer or managing agent shall present to that person—
+&emsp;Prior to executing any contract described in paragraph (1) with any person, a warrantedcontracting officer or managing agent shall present to that person—
 
 &emsp;&emsp;(A) a valid certificate of appointment (or such other identification as may be required by the Corporation) that is signed by the appropriate officer of the Corporation; or
 
@@ -2538,7 +2538,7 @@ No person obligated to provide services to an insured depository institution at 
 
 &emsp;The failure of any person executing a contract, or a modification of a contract, on behalf of the Corporation, or authorizing such a contract or modification of a contract, to comply with the requirements of this subsection shall not void, or serve as grounds to void or rescind, any otherwise properly executed contract.
 
-(July 22, 1932, ch. 522, §21A, as added Pub. L. 101–73, title V, §501(a), Aug. 9, 1989, 103 Stat. 363; amended Pub. L. 101–625, title VIII, §804(d), title IX, §914(c), Nov. 28, 1990, 104 Stat. 4323, 4395; Pub. L. 101–647, title XXV, §§2526(c), 2540, Nov. 29, 1990, 104 Stat. 4876, 4885; Pub. L. 102–18, title I, §§101, 102(a), 103(a), 104, 105, title II, §§201, 202, title III, §301, title IV, §401, Mar. 23, 1991, 105 Stat. 58, 60–63, 65; Pub. L. 102–139, title V, §523(a), Oct. 28, 1991, 105 Stat. 781; Pub. L. 102–233, title I, §§101, 103, 105, 106(a)–(e)(1), title II, §201, title III, §§302(b), (c), 303–312, 314, 316, title IV, §§401, 402(a), 403–405, title V, §501, title VI, §§601–611, 613–617, Dec. 12, 1991, 105 Stat. 1761–1765, 1767–1770, 1772–1774, 1776–1789; Pub. L. 102–242, title I, §141(a)(3), title II, §251(c)(1), title IV, §471, Dec. 19, 1991, 105 Stat. 2276, 2333, 2385; Pub. L. 102–378, §5(e), Oct. 2, 1992, 106 Stat. 1358; Pub. L. 102–550, title V, §§503(c)(3), 509(i), title XVI, §§1611(a), (d)(1)–(3), 1612, 1613(a)(1)–(6), (8), (b)–(h), 1614(a)(1)–(5), (7), (b), 1615(a)(2), 1616, Oct. 28, 1992, 106 Stat. 3780, 3783, 4090–4096; Pub. L. 103–204, §§2–3(b), 4(a), 5(a), (b)(2), 7, 12, 14(a)(1), (c)(2), (d)(1), (e)(1), (f)(1), 15(a), 16(a), 17(a), 21(b), 24, 27(a), 29–31, 36, Dec. 17, 1993, 107 Stat. 2370–2380, 2382, 2383, 2390, 2391, 2395–2400, 2406, 2408, 2410–2413, 2415; Pub. L. 103–211, title IV, §406, Feb. 12, 1994, 108 Stat. 41; Pub. L. 103–325, title VI, §602(b), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 103–328, title II, §201(b), Sept. 29, 1994, 108 Stat. 2368; Pub. L. 104–66, title II, §2231, Dec. 21, 1995, 109 Stat. 733; Pub. L. 104–208, div. A, title II, §2704(d)(11)(B)–(D), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 105–135, title VI, §604(b), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(3)–(6), Feb. 15, 2006, 119 Stat. 3616, 3617; Pub. L. 110–289, div. A, title II, §1204(8), (12), July 30, 2008, 122 Stat. 2786.)
+(July 22, 1932, ch. 522, §21A, as added Pub. L. 101–73, title V, §501(a), Aug. 9, 1989, 103 Stat. 363; amended Pub. L. 101–625, title VIII, §804(d), title IX, §914(c), Nov. 28, 1990, 104 Stat. 4323, 4395; Pub. L. 101–647, title XXV, §§2526(c), 2540, Nov. 29, 1990, 104 Stat. 4876, 4885; Pub. L. 102–18, title I, §§101, 102(a), 103(a), 104, 105, title II, §§201, 202, title III, §301, title IV, §401, Mar. 23, 1991, 105 Stat. 58, 60–63, 65; Pub. L. 102–139, title V, §523(a), Oct. 28, 1991, 105 Stat. 781; Pub. L. 102–233, title I, §§101, 103, 105, 106(a)–(e)(1), title II, §201, title III, §§302(b), (c), 303–312, 314, 316, title IV, §§401, 402(a), 403–405, title V, §501, title VI, §§601–611, 613–617, Dec. 12, 1991, 105 Stat. 1761–1765, 1767–1770, 1772–1774, 1776–1789; Pub. L. 102–242, title I, §141(a)(3), title II, §251(c)(1), title IV,§471, Dec. 19, 1991, 105 Stat. 2276, 2333, 2385; Pub. L. 102–378, §5(e), Oct. 2, 1992, 106 Stat. 1358; Pub. L. 102–550, title V, §§503(c)(3), 509(i), title XVI, §§1611(a), (d)(1)–(3), 1612, 1613(a)(1)–(6), (8), (b)–(h), 1614(a)(1)–(5), (7), (b), 1615(a)(2), 1616, Oct. 28, 1992, 106 Stat. 3780, 3783, 4090–4096; Pub. L. 103–204, §§2–3(b), 4(a), 5(a), (b)(2), 7, 12, 14(a)(1), (c)(2), (d)(1), (e)(1), (f)(1), 15(a), 16(a), 17(a), 21(b), 24, 27(a), 29–31, 36, Dec. 17, 1993, 107 Stat. 2370–2380, 2382, 2383, 2390, 2391, 2395–2400, 2406, 2408, 2410–2413, 2415; Pub. L. 103–211, title IV, §406, Feb. 12, 1994, 108 Stat. 41; Pub. L. 103–325, title VI, §602(b), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 103–328, title II, §201(b), Sept. 29, 1994, 108 Stat. 2368; Pub. L. 104–66, title II, §2231, Dec. 21, 1995, 109 Stat. 733; Pub. L. 104–208, div. A, title II, §2704(d)(11)(B)–(D), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 105–135, title VI, §604(b), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(3)–(6), Feb. 15, 2006, 119 Stat. 3616, 3617; Pub. L. 110–289, div. A, title II, §1204(8), (12), July 30, 2008, 122 Stat. 2786.)
 
 #### References in Text
 
@@ -2554,7 +2554,7 @@ The Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referr
 
 The United States Housing Act of 1937, referred to in subsec. (c)(6)(B) is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (c)(6)(B), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title IV of the Act is classified principally to subchapter IV (§11361 et seq.) of chapter 119 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (c)(6)(B), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title IV of the Act is classified generally to subchapter IV (§11360 et seq.) of chapter 119 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 Section 810 of the Housing and Community Development Act of 1974, referred to in subsec. (c)(6)(B), (E)(i), is section 810 of Pub. L. 93–383, which was classified to section 1706e of this title, and was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
 
@@ -2588,7 +2588,7 @@ Subsec. (c)(9)(B)(ii). Pub. L. 110–289, §1204(12), substituted “Director”
 
 Subsec. (h)(1). Pub. L. 110–289, §1204(12), which directed amendment of the Federal Home Loan Bank Act (this chapter) by substituting “the Director” for “Federal Housing Finance Board” wherever appearing, was not executed to subsec. (h)(1) to reflect the probable intent of Congress.
 
-Subsecs. (k)(2)(B)(i), (n)(6)(C)(ii). Pub. L. 110–289, §1204(8), which directed amendment of the Federal Home Loan Bank Act (this chapter) by substituting “the Director” for “the Board” wherever appearing, was not executed to subsecs. (k)(2)(B)(i) and (n)(6)(C)(ii) to reflect the probable intent of Congress.
+Subsecs. (k)(2)(B)(i), (n)(6)(C)(ii). Pub. L. 110–289, §1204(8), which directed amendment of the FederalHome Loan Bank Act (this chapter) by substituting “the Director” for “the Board” wherever appearing, was not executed to subsecs. (k)(2)(B)(i) and (n)(6)(C)(ii) to reflect the probable intent of Congress.
 
 2006—Subsec. (b)(4)(B). Pub. L. 109–173, §9(d)(3), substituted “Deposit Insurance Fund” for “affected deposit insurance fund”.
 
@@ -2678,7 +2678,7 @@ Membership.—The National Housing Advisory Board shall consist of—
 
 &emsp;“(C)
 
-Meetings.—The National Housing Advisory Board shall meet 4 times a year, or more frequently if requested by the Thrift Depositor Protection Oversight Board.”
+Meetings.—The National Housing Advisory Board shall meet 4 times a year, or more frequentlyif requested by the Thrift Depositor Protection Oversight Board.”
 
 Subsec. (i)(3) to (6). Pub. L. 103–204, §2, struck out “until April 1, 1992” after “this section” in par. (3) and added pars. (4) to (6).
 
@@ -2844,7 +2844,7 @@ Subsec. (a)(6)(A). Pub. L. 102–233, §305(1), amended subpar. (A) generally. P
 
 Subsec. (a)(6)(B). Pub. L. 102–233, §305(2), inserted “financial plans, budgets, and” after “implementation”.
 
-Subsec. (a)(6)(C). Pub. L. 102–233, §305(3), amended subpar. (C) generally and inserted closing provision relating to explanation to Congress of review and modification. Prior to amendment, subpar. (C) read as follows: “To review all rules, regulations, principles, procedures, and guidelines that may be adopted or announced by the Corporation. After consultation with the Corporation, the Oversight Board may require the modification of any such rules, regulations, principles, procedures, or guidelines except that the rules, regulations, principles, procedures, and guidelines relating to the Corporation's powers and activities as a conservator or receiver shall be consistent with the Federal Deposit Insurance Act. The provisions of this subparagraph shall not apply to internal administrative policies and procedures, and determinations or actions described in paragraph (8) of this subsection.”
+Subsec. (a)(6)(C). Pub. L. 102–233, §305(3), amended subpar. (C) generally and inserted closing provision relating to explanation to Congress of review and modification. Prior to amendment, subpar. (C) read as follows: “To review all rules, regulations, principles, procedures, and guidelines that may be adopted or announced by the Corporation. After consultation with the Corporation, the Oversight Board may require the modification of any such rules, regulations, principles, procedures, or guidelines except that the rules, regulations, principles, procedures, and guidelines relating tothe Corporation's powers and activities as a conservator or receiver shall be consistent with the Federal Deposit Insurance Act. The provisions of this subparagraph shall not apply to internal administrative policies and procedures, and determinations or actions described in paragraph (8) of this subsection.”
 
 Subsec. (a)(7). Pub. L. 102–233, §314(1)(A), substituted “(b)(11)” for “(b)(12)”.
 
@@ -2910,7 +2910,7 @@ Subsec. (b)(10)(N). Pub. L. 102–18, §104(a), inserted at end “The Corporati
 
 Subsec. (b)(11). Pub. L. 102–233, §310, redesignated par. (12) as (11). Former par. (11) redesignated (10).
 
-Subsec. (b)(11)(A). Pub. L. 102–233, §314(2)(C)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Subject to the review of the Oversight Board, the Corporation shall adopt the rules, regulations, standards, policies, procedures, guidelines, and statements necessary to implement the strategic plan established by the Oversight Board under subsection (a)(14) of this section. The Corporation may issue such rules, regulations, standards, policies, procedures, guidelines, and statements as the Corporation considers necessary or appropriate to carry out this section.”
+Subsec. (b)(11)(A). Pub. L. 102–233, §314(2)(C)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Subject to the review of the Oversight Board, the Corporation shall adopt therules, regulations, standards, policies, procedures, guidelines, and statements necessary to implement the strategic plan established by the Oversight Board under subsection (a)(14) of this section. The Corporation may issue such rules, regulations, standards, policies, procedures, guidelines, and statements as the Corporation considers necessary or appropriate to carry out this section.”
 
 Subsec. (b)(11)(B). Pub. L. 102–233, §314(2)(C)(ii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Such rules, regulations, standards, policies, procedures, guidelines, and statements—
 
@@ -2970,7 +2970,7 @@ Subsec. (c)(9)(A). Pub. L. 102–233, §617(1), added subpar. (A) and struck out
 
 Subsec. (c)(9)(C). Pub. L. 102–233, §601(1), added subpar. (C) and struck out former subpar. (C) which defined “Corporation” as Resolution Trust Corporation, with certain qualifications.
 
-Pub. L. 102–18, §§201(a), 203, temporarily amended subpar. (C) by striking period at end and inserting “, except that for purposes of subsection (c)(2) of thissection only, the term means the Resolution Trust Corporation acting in any capacity.” See Effective and Termination Dates of 1991 Amendments note below.
+Pub. L. 102–18, §§201(a), 203, temporarily amended subpar. (C) by striking period at end and inserting “, except that for purposes of subsection (c)(2) of this section only, the term means the Resolution Trust Corporation acting in any capacity.” See Effective and Termination Dates of 1991 Amendments note below.
 
 Subsec. (c)(9)(D). Pub. L. 102–233, §617(2), (3), added subpar. (D) and redesignated former subpar. (D), as added by Pub. L. 102–233, §601(1), as (E).
 
@@ -3140,7 +3140,7 @@ Section 106(e)(2) of Pub. L. 102–233, as amended by Pub. L. 102–550, title X
 
 Amendment by sections 302(b), (c), 303 to 312, 314, and 316 of Pub. L. 102–233 effective Feb. 1, 1992, see section 318 of Pub. L. 102–233, set out as an Effective Date of 1991 Amendment note under section 1441 of this title.
 
-Section 612 of Pub. L. 102–233 provided that: “Notwithstanding section 203 of the Resolution Trust Corporation Funding Act of 1991 \[Pub. L. 102–18, set out below\], the amendment made by section 201(b) of suchAct \[amending this section\] shall apply on and after the date of the enactment of this Act \[Dec. 12, 1991\].”
+Section 612 of Pub. L. 102–233 provided that: “Notwithstanding section 203 of the Resolution Trust Corporation Funding Act of 1991 \[Pub. L. 102–18, set out below\], the amendment made by section 201(b) of such Act \[amending this section\] shall apply on and after the date of the enactment of this Act \[Dec. 12, 1991\].”
 
 Section 619 of title VI of Pub. L. 102–233 provided that: “The amendments made by this title \[amending this section and enacting provisions set out above and as a note under section 1831n of this title\] shall not apply to any eligible residential property or eligible condominium property of the Resolution Trust Corporation, that is subject to an agreement for sale entered into by the Corporation before the date of the enactment of this Act \[Dec. 12, 1991\].”
 
@@ -3250,7 +3250,7 @@ In general.—All orders, resolutions, determinations, and regulations regarding
 
 &emsp;&emsp;“(B)
 
-Enforceability of orders, resolutions, determinations, and regulations before transfer.—Before the effective date of the transfer of the authority and duties of the Resolution Funding Corporation to the Secretary of the Treasury under subsection (d), all orders, resolutions, determinations, and regulations pertaining to the Resolution Funding Corporation shall be enforceable by and against the United States.
+Enforceability of orders, resolutions, determinations, and regulations before transfer.—Before the effective date of the transfer of the authority and duties of the Resolution Funding Corporation to the Secretary of the Treasury under subsection (d), all orders, resolutions, determinations, and regulations pertaining to the ResolutionFunding Corporation shall be enforceable by and against the United States.
 
 &emsp;&emsp;“(C)
 

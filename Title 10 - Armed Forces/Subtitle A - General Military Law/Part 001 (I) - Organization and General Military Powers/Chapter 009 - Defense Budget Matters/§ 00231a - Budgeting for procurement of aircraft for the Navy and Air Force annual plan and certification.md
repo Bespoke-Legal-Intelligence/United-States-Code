@@ -54,7 +54,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
 
-&emsp;(3) The term “Quadrennial Defense Review” means the review of the defense programs andpolicies of the United States that is carried out every 4 years under section 118 of this title.
+&emsp;(3) The term “Quadrennial Defense Review” means the review of the defense programs and policies of the United States that is carried out every 4 years under section 118 of this title.
 
 (Added Pub. L. 110–417, \[div. A\], title I, §141(a), Oct. 14, 2008, 122 Stat. 4379.)
 

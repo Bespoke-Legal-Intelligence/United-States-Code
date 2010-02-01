@@ -32,7 +32,7 @@ In awarding grants under this section, the Secretary shall—
 
 &emsp;&emsp;(B) In the case of an institution of higher education that provides institutionally owned or operated housing for students attending the institution, the integration of students with intellectual disabilities into the housing offered to nondisabled students.
 
-&emsp;&emsp;(C) The involvement of students attending the institution of higher education who are studying special education, general education, vocational rehabilitation, assistive technology, or related fields in the model program.
+&emsp;&emsp;(C) The involvement of students attending the institution of higher education who arestudying special education, general education, vocational rehabilitation, assistive technology, or related fields in the model program.
 
 #### (d) Use of funds
 
@@ -64,7 +64,7 @@ An institution of higher education (or consortium) receiving a grant under this 
 
 #### (e) Matching requirement
 
-An institution of higher education (or consortium) that receives a grant under this sectionshall provide matching funds toward the cost of the model comprehensive transition and postsecondary program for students with intellectual disabilities carried out under the grant. Such matching funds may be provided in cash or in-kind, and shall be in an amount of not less than 25 percent of the amount of such costs.
+An institution of higher education (or consortium) that receives a grant under this section shall provide matching funds toward the cost of the model comprehensive transition and postsecondary program for students with intellectual disabilities carried out under the grant. Such matching funds may be provided in cash or in-kind, and shall be in an amount of not less than 25 percent of the amount of such costs.
 
 #### (f) Report
 

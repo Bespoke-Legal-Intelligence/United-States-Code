@@ -1,6 +1,6 @@
 ### §1115. Determination of contributions to the Fund
 
-(a) The Board shall determine the amount that is the present value (as of October 1, 2002) of future benefits payable from the Fund that are attributable to service in the participating uniformed services performed before October 1, 2002. That amount is the original unfunded liability of the Fund. The Board shall determine the period of time over which the original unfunded liability should be liquidated and shall determine an amortization schedule for the liquidation of such liability over that period. Contributions to the Fund for the liquidation of the original unfunded liability in accordance with such schedule shall be made as provided in section 1116 of this title.
+(a) The Board shall determine the amount that is the present value (as of October 1, 2002) of future benefits payable from the Fund that are attributable to service in the participatinguniformed services performed before October 1, 2002. That amount is the original unfunded liability of the Fund. The Board shall determine the period of time over which the original unfunded liability should be liquidated and shall determine an amortization schedule for the liquidation of such liability over that period. Contributions to the Fund for the liquidation of the original unfunded liability in accordance with such schedule shall be made as provided in section 1116 of this title.
 
 (b) The Secretary of Defense shall determine, before the beginning of each fiscal year after September 30, 2005, the total amount of the Department of Defense contribution to be made to the Fund for that fiscal year for purposes of section 1116(b)(2). That amount shall be the sum of the following:
 
@@ -40,7 +40,7 @@
 
 #### Amendments
 
-2006—Subsec. (b)(1)(B). Pub. L. 109–364, §592(b)(1)(A), substituted “on active duty and full-time National Guard duty, but excluding any member who would be excluded for active-duty end strength purposes by section 115(i) of this title” for “on active duty (other than active duty for training) and full-time National Guard duty (other than full-time National Guard duty for training only)”.
+2006—Subsec. (b)(1)(B). Pub. L. 109–364, §592(b)(1)(A), substituted “on active duty and full-time National Guard duty, but excluding any member who would be excluded for active-duty end strength purposes by section 115(i) of this title” for “on active duty (other thanactive duty for training) and full-time National Guard duty (other than full-time National Guard duty for training only)”.
 
 Subsec. (b)(2)(B). Pub. L. 109–364, §592(b)(1)(B), substituted “Selected Reserve” for “Ready Reserve” and struck out “(other than members on full-time National Guard duty other than for training)” after “Secretary of Defense”.
 

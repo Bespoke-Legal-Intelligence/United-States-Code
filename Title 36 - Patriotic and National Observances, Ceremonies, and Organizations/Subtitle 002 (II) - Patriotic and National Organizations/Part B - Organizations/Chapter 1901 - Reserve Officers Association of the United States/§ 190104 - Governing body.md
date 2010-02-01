@@ -8,23 +8,23 @@ National Convention.—The corporation shall hold an annual national convention.
 
 National Executive Committee.—(1) The national executive committee is the governing body of the corporation.
 
-(2) The national executive committee consists of the president, the last past president, 3 vice presidents, 3 junior vice presidents, 3 national executive committee members, and the executive director. Each of these individuals, except the executive director, has one vote on each matter decided by the committee.
+(2) The national executive committee consists of the president, the president elect, the last past president, 3 vice presidents, 3 junior vice presidents, a minimum of 3 national executive committee members, and the executive director. Each of these individuals, except the president elect and the executive director, has one vote on each matter decided by the committee.
 
 (c)
 
-Officers.—(1) The officers of the corporation are a president, 3 vice presidents, 3 junior vice presidents, 3 national executive committee members, an executive director, a national treasurer, a judge advocate, a surgeon, a chaplain, a historian, a public relations officer, and other officers as decided at the national convention.
+Officers.—(1) The officers of the corporation are a president, a president elect, 3 vice presidents, 3 junior vice presidents, a minimum of 3 national executive committee members, an executive director, a national treasurer, a judge advocate, and other officers specified in the constitution of the corporation.
 
-(2) The national officers of the corporation shall be elected at the annual national convention, except for the executive director, the national treasurer, and the national public relations officer, who shall be appointed by the national executive committee.
+(2) The national officers of the corporation shall be elected and take office at the annual national convention, except for the executive director, the national treasurer, the judge advocate, and any other national officers specified in the constitution of the corporation, who shall be appointed by the national executive committee.
 
 (3) The elected officers shall hold office for one year or until their successors have been elected and qualified.
 
 (d)
 
-Vacancies.—(1) Except for the positions of president and last past president, a vacancy on the national executive committee shall be filled by the existing members of the committee. An individual appointed by the committee to fill a vacancy serves until the next national convention when the individual's successor shall be elected for the unexpired term, if any, caused by the vacancy.
+Vacancies.—(1) Except for the positions of president, president elect, and last past president, a vacancy on the national executive committee shall be filled by the existing members of the committee. An individual appointed by the committee to fill a vacancy serves until the next national convention when the individual's successor shall be elected for the unexpired term, if any, caused by the vacancy.
 
 (2) If the president is absent or the office of president is vacant, the national vice president of the same service as the president shall act as president.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1447.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1447; Pub. L. 111–113, §2(a)–(c), Dec. 14, 2009, 123 Stat. 3026.)
 
 Historical and Revision Notes
 
@@ -87,4 +87,14 @@ In subsection (c)(3), the word “duly” is omitted as unnecessary.
 In subsection (d)(1), the words “In the event of the death, inability to serve, or resignation” are omitted as unnecessary.
 
 In subsection (d)(2), the words “If the president is absent or the office of president is vacant” are substituted for “in the event of his death, inability to serve, resignation, or absence”, and the words “act as president” are substituted for “assume the duties and have the powers of the president”, to eliminate unnecessary words.
+
+#### Amendments
+
+2009—Subsec. (b)(2). Pub. L. 111–113, §2(a), inserted “the president elect,” after “the president,” and “a minimum of” before “3 national executive committee members,” and substituted “except the president elect and the executive director,” for “except the executive director,”.
+
+Subsec. (c)(1). Pub. L. 111–113, §2(b)(1), inserted “a president elect,” after “a president,” and “a minimum of” before “3 national executive committee members,”, struck out “a surgeon, a chaplain, a historian, a public relations officer,” after “a judge advocate,”, and substituted “specified in the constitution of the corporation” for “as decided at the national convention”.
+
+Subsec. (c)(2). Pub. L. 111–113, §2(b)(2), inserted “and take office” after “be elected” and substituted “the judge advocate, and any other national officers specified in the constitution of the corporation,” for “and the national public relations officer,”.
+
+Subsec. (d)(1). Pub. L. 111–113, §2(c), substituted “president, president elect, and last past president,” for “president and last past president,”.
 

@@ -140,7 +140,7 @@
 
 (ii) Aliens claiming status as a special immigrant under section 1101(a)(27)(D) of this title may file a petition only with the Secretary of State and only after notification by the Secretary that such status has been recommended and approved pursuant to such section.
 
-(H) Any alien desiring to be classified under section 1153(b)(5) of this title may file a petitionwith the Attorney General for such classification.
+(H) Any alien desiring to be classified under section 1153(b)(5) of this title may file a petition with the Attorney General for such classification.
 
 (I)(i) Any alien desiring to be provided an immigrant visa under section 1153(c) of this title may file a petition at the place and time determined by the Secretary of State by regulation. Only one such petition may be filed by an alien with respect to any petitioning period established. If more than one petition is submitted all such petitions submitted for such period by the alien shall be voided.
 
@@ -174,17 +174,17 @@
 
 #### (b) Investigation; consultation; approval; authorization to grant preference status
 
-After an investigation of the facts in each case, and after consultation with the Secretary of Labor with respect to petitions to accord a status under section 1153(b)(2) or 1153(b)(3) of this title, the Attorney General shall, if he determines that the facts stated in the petition are true and that the alien in behalf of whom the petition is made is an immediate relative specified in section 1151(b) of this title, or is eligible for preference under subsection (a) or (b) of section 1153 of this title, approve the petition and forward one copy thereof to the Department of State. The Secretary of State shall then authorize the consular officer concerned to grant the preference status.
+After an investigation of the facts in each case, and after consultation with the Secretary of Labor with respect to petitions to accord a status under section 1153(b)(2) or 1153(b)(3) of this title, the Attorney General shall, if he determines that the facts stated in the petition are true and that the alien in behalf of whom the petition is made is an immediate relative specified in section 1151(b) of this title or is eligible for preference under subsection (a) or (b) of section 1153 of this title, approve the petition and forward one copy thereof to the Department of State. The Secretary of State shall then authorize the consular officer concerned to grant the preference status.
 
 #### (c) Limitation on orphan petitions approved for a single petitioner; prohibition against approval in cases of marriages entered into in order to evade immigration laws; restriction on future entry of aliens involved with marriage fraud
 
-Notwithstanding the provisions of subsection (b) of this section no petition shall be approved if (1) the alien has previously been accorded, or has sought to be accorded, an immediate relative or preference status as the spouse of a citizen of the United States or the spouse of an alien lawfully admitted for permanent residence, by reason of a marriage determined by the Attorney General to have been entered into for the purpose of evading the immigration laws, or (2) the Attorney General has determined that the alien has attempted or conspired to enter into a marriage for the purpose of evading the immigration laws.
+Notwithstanding the provisions of subsection (b) of this section no petition shall be approved if (1) the alien has previously been accorded, or has sought to be accorded, an immediate relative or preference status as the spouse of a citizen of the United States or the spouse of an alien lawfully admitted for permanent residence, by reason of a marriage determined by the Attorney General to have been entered into for the purpose of evading the immigration laws, or (2) the Attorney General has determined thatthe alien has attempted or conspired to enter into a marriage for the purpose of evading the immigration laws.
 
 #### (d) Recommendation of valid home-study
 
 (1) Notwithstanding the provisions of subsections (a) and (b) of this section no petition may be approved on behalf of a child defined in subparagraph (F) or (G) of section 1101(b)(1) of this title unless a valid home-study has been favorably recommended by an agency of the State of the child's proposed residence, or by an agency authorized by that State to conduct such a study, or, in the case of a child adopted abroad, by an appropriate public or private adoption agency which is licensed in the United States.
 
-(2) Notwithstanding the provisions of subsections (a) and (b) of this section, no petition may be approved on behalf of a child defined insection 1101(b)(1)(G) of this title unless the Secretary of State has certified that the central authority of the child's country of origin has notified the United States central authority under the convention referred to in such section 1101(b)(1)(G) of this title that a United States citizen habitually resident in the United States has effected final adoption of the child, or has been granted custody of the child for the purpose of emigration and adoption, in accordance with such convention and the Intercountry Adoption Act of 2000 \[42 U.S.C. 14901 et seq.\].
+(2) Notwithstanding the provisions of subsections (a) and (b) of this section, no petition may be approved on behalf of a child defined in section 1101(b)(1)(G) of this title unless the Secretary of State has certified that the central authority of the child's country of origin has notified the United States central authority under the convention referred to in such section 1101(b)(1)(G) of this title that a United States citizen habitually resident in the United States has effected final adoption of the child, or has been granted custody of the child for the purpose of emigration and adoption, in accordance with such convention and the Intercountry Adoption Act of 2000 \[42 U.S.C. 14901 et seq.\].
 
 #### (e) Subsequent finding of non-entitlement to preference classification
 
@@ -222,7 +222,7 @@ Notwithstanding subsection (a) of this section, except as provided in section 12
 
 #### (h) Survival of rights to petition
 
-The legal termination of a marriage may not be the sole basis for revocation under section 1155 of this title of a petition filed under subsection (a)(1)(A)(iii) of this section or a petition filed under subsection (a)(1)(B)(ii) of this sectionpursuant to conditions described in subsection (a)(1)(A)(iii)(I) of this section. Remarriage of an alien whose petition was approved under subsection (a)(1)(B)(ii) or (a)(1)(A)(iii) of this section or marriage of an alien described in clause (iv) or (vi) of subsection (a)(1)(A) of this section or in subsection (a)(1)(B)(iii) of this section shall not be the basis for revocation of a petition approval under section 1155 of this title.
+The legal termination of a marriage may not be the sole basis for revocation under section 1155 of this title of a petition filed under subsection (a)(1)(A)(iii) of this section or a petition filed under subsection (a)(1)(B)(ii) of this section pursuant to conditions described in subsection (a)(1)(A)(iii)(I) of this section. Remarriage of an alien whose petition was approved under subsection (a)(1)(B)(ii) or (a)(1)(A)(iii) of this section or marriage of an alien described in clause (iv) or (vi) of subsection (a)(1)(A) of this section or in subsection (a)(1)(B)(iii) of this section shall not be the basis for revocation of a petition approval under section 1155 of this title.
 
 #### (i) Professional athletes
 
@@ -260,7 +260,29 @@ A petition under subsection (a)(1)(D) of this section for an individual whose ap
 
 &emsp;This subsection shall apply to a petition if it is properly filed, regardless of whether it was approved or not before such naturalization.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §204, 66 Stat. 179; Pub. L. 87–885, §3, Oct. 24, 1962, 76 Stat. 1247; Pub. L. 89–236, §4, Oct. 3, 1965, 79 Stat. 915; Pub. L. 94–571, §7(b), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 95–417, §§2, 3, Oct. 5, 1978, 92 Stat. 917; Pub. L. 96–470, title II, §207, Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–116, §§3, 18(d), Dec. 29, 1981, 95 Stat. 1611, 1620; Pub. L. 97–359, Oct. 22, 1982, 96 Stat. 1716; Pub. L. 99–639, §§2(c), 4(a), 5(b), Nov. 10, 1986, 100 Stat. 3541, 3543; Pub. L. 100–525, §9(g), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 101–649, title I, §162(b), title VII, §702(b), Nov. 29, 1990, 104 Stat. 5010, 5086; Pub. L. 102–232, title III, §§302(e)(4), (5), 308(b), 309(b)(5), Dec. 12, 1991, 105 Stat. 1745, 1746, 1757, 1758; Pub. L. 103–322, title IV, §40701(a), (b)(1), (c), Sept. 13, 1994, 108 Stat. 1953, 1954; Pub. L. 103–416, title II, §219(b)(2), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(1)(A), (f)(2)(A), title VI, §624(b), Sept. 30, 1996, 110 Stat. 3009–619, 3009–621, 3009–699; Pub. L. 106–279, title III, §302(b), Oct. 6, 2000, 114 Stat. 839; Pub. L. 106–313, title I, §106(c)(1), Oct. 17, 2000, 114 Stat. 1254; Pub. L. 106–386, div. B, title V, §§1503(b)–(d), 1507(a)(1), (2), (b), Oct. 28, 2000, 114 Stat. 1518–1521, 1529, 1530; Pub. L. 107–208, §§6, 7, Aug. 6, 2002, 116 Stat. 929; Pub. L. 109–162, title VIII, §§805(a),(c), 814(b),(e), 816, Jan. 5, 2006, 119 Stat. 3056, 3059, 3060; Pub. L. 109–248, title IV, §402(a), July 27, 2006, 120 Stat. 622; Pub. L. 109–271, §6(a), Aug. 12, 2006, 120 Stat. 762.)
+#### (<i>l</i>) Surviving relative consideration for certain petitions and applications
+
+#### (1) In general
+
+&emsp;An alien described in paragraph (2) who resided in the United States at the time of the death of the qualifying relative and who continues to reside in the United States shall have such petition described in paragraph (2), or an application for adjustment of status to that of a person admitted for lawful permanent residence based upon the family relationship described in paragraph (2), and any related applications, adjudicated notwithstanding the death of the qualifying relative, unless the Secretary of Homeland Security determines, in the unreviewable discretion of the Secretary, that approval would not be in the public interest.
+
+#### (2) Alien described
+
+&emsp;An alien described in this paragraph is an alien who, immediately prior to the death of his or her qualifying relative, was—
+
+&emsp;&emsp;(A) the beneficiary of a pending or approved petition for classification as an immediate relative (as described in section 1151(b)(2)(A)(i) of this title);
+
+&emsp;&emsp;(B) the beneficiary of a pending or approved petition for classification under section 1153(a) or (d) of this title;
+
+&emsp;&emsp;(C) a derivative beneficiary of a pending or approved petition for classification under section 1153(b) of this title (as described in section 1153(d) of this title);
+
+&emsp;&emsp;(D) the beneficiary of a pending or approved refugee/asylee relative petition under section 1157 or 1158 of this title;
+
+&emsp;&emsp;(E) an alien admitted in “T” nonimmigrant status as described in section 1101(a)(15)(T)(ii) of this title or in “U” nonimmigrant status as described in section 1101(a)(15)(U)(ii) of this title; or
+
+&emsp;&emsp;(F) an asylee (as described in section 1158(b)(3) of this title).
+
+(June 27, 1952, ch. 477, title II, ch. 1, §204, 66 Stat. 179; Pub. L. 87–885, §3, Oct. 24, 1962, 76 Stat. 1247; Pub. L. 89–236, §4, Oct. 3, 1965, 79 Stat. 915; Pub. L. 94–571, §7(b), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 95–417, §§2, 3, Oct. 5, 1978, 92 Stat. 917; Pub. L. 96–470, title II, §207, Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–116, §§3, 18(d), Dec. 29, 1981, 95 Stat. 1611, 1620; Pub. L. 97–359, Oct. 22, 1982, 96 Stat. 1716; Pub. L. 99–639, §§2(c), 4(a), 5(b), Nov. 10, 1986, 100 Stat. 3541, 3543; Pub. L. 100–525, §9(g), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 101–649, title I, §162(b), title VII, §702(b), Nov. 29, 1990, 104 Stat. 5010, 5086; Pub. L. 102–232, title III, §§302(e)(4), (5), 308(b), 309(b)(5), Dec. 12, 1991, 105 Stat. 1745, 1746, 1757, 1758; Pub. L. 103–322, title IV, §40701(a), (b)(1), (c), Sept. 13, 1994, 108 Stat. 1953, 1954; Pub. L. 103–416, title II, §219(b)(2), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(1)(A), (f)(2)(A), title VI, §624(b), Sept. 30, 1996, 110 Stat. 3009–619, 3009–621, 3009–699; Pub. L. 106–279, title III, §302(b), Oct. 6, 2000, 114 Stat. 839; Pub. L. 106–313, title I, §106(c)(1), Oct. 17, 2000, 114 Stat. 1254; Pub. L. 106–386, div. B, title V, §§1503(b)–(d), 1507(a)(1), (2), (b), Oct. 28, 2000, 114 Stat. 1518–1521, 1529, 1530; Pub. L. 107–208, §§6, 7, Aug. 6, 2002, 116 Stat. 929; Pub. L. 109–162, title VIII, §§805(a),(c), 814(b),(e), 816, Jan. 5, 2006, 119 Stat. 3056, 3059, 3060; Pub. L. 109–248, title IV, §402(a), July 27, 2006, 120 Stat. 622; Pub. L. 109–271, §6(a), Aug. 12, 2006, 120 Stat. 762; Pub. L. 111–83, title V, §568(d)(1), Oct. 28, 2009, 123 Stat. 2187.)
 
 #### References in Text
 
@@ -269,6 +291,8 @@ The Child Status Protection Act, referred to in subsec. (a)(1)(D)(iii), is Pub. 
 The Intercountry Adoption Act of 2000, referred to in subsec. (d)(2), is Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, which is classified principally to chapter 143 (§14901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of Title 42 and Tables.
 
 #### Amendments
+
+2009—Subsec. (<i>l</i>). Pub. L. 111–83 added subsec. (<i>l</i>).
 
 2006—Subsec. (a)(1)(A)(i). Pub. L. 109–248, §402(a)(1), substituted “Except as provided in clause (viii), any” for “Any”.
 
@@ -314,7 +338,7 @@ Subsec. (a)(1)(A)(vi). Pub. L. 106–386, §1507(a)(1), added cl. (vi).
 
 Subsec. (a)(1)(B)(ii). Pub. L. 106–386, §1503(c)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “An alien who is the spouse of an alien lawfully admitted for permanent residence, who is a person of good moral character, who is eligible for classification under section 1153(a)(2)(A) of this title, and who has resided in the United States with the alien's legal permanent resident spouse may file a petition with the Attorney General under this subparagraph for classification of the alien (and any child of the alien if such a child has not been classified under clause (iii)) under such section if the alien demonstrates to the Attorney General that the conditions described in subclauses (I) and (II) of subparagraph (A)(iii) are met with respect to the alien.”
 
-Subsec. (a)(1)(B)(iii). Pub. L. 106–386, §1503(c)(2), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “An alien who is the child of an alien lawfully admitted for permanent residence, who is a person of good moral character, who is eligible for classification under section 1153(a)(2)(A) of this title, and who has resided in the United States with the alien's permanent resident alien parent may file a petition with the Attorney General under this subparagraph for classification of the alien under such section if the alien demonstrates to the Attorney General that—
+Subsec. (a)(1)(B)(iii). Pub. L. 106–386, §1503(c)(2), amended cl. (iii) generally. Prior to amendment, cl.\(iii) read as follows: “An alien who is the child of an alien lawfully admitted for permanent residence, who is a person of good moral character, who is eligible for classification under section 1153(a)(2)(A) of this title, and who has resided in the United States with the alien's permanent resident alien parent may file a petition with the Attorney General under this subparagraph for classification of the alien under such section if the alien demonstrates to the Attorney General that—
 
 &emsp;“(I) the alien is residing in the United States and during the period of residence with the permanent resident parent the alien has been battered by or has been the subject of extreme cruelty perpetrated by the alien's permanent resident parent; and
 
@@ -420,7 +444,7 @@ Amendment by Pub. L. 107–208 effective Aug. 6, 2002, and applicable to certain
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–279 effective Apr. 1, 2008, see section 505(a)(2), (b) of Pub. L. 106–279, set out as anEffective Dates; Transition Rule note under section 14901 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 106–279 effective Apr. 1, 2008, see section 505(a)(2), (b) of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under section 14901 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1996 Amendment
 
@@ -460,13 +484,17 @@ Amendment by Pub. L. 94–571 effective on first day of first month which begins
 
 For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 89–236, set out as a note under section 1151 of this title.
 
+#### Construction of 2009 Amendment
+
+Pub. L. 111–83, title V, §568(d)(2), Oct. 28, 2009, 123 Stat. 2187, provided that: “Nothing in the amendment made by paragraph (1) \[amending this section\] may be construed to limit or waive any ground of removal, basis for denial of petition or application, or other criteria for adjudicating petitions or applications as otherwise provided under the immigration laws of the United States other than ineligibility based solely on the lack of a qualifying family relationship as specifically provided by such amendment.”
+
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Alien Sheepherders
 
-Act Sept. 3, 1954, ch. 1254, §§1–3, 68 Stat. 1145, provided for the importation of skilled alien sheepherders upon approval by the Attorney General, certification to the Secretary of State by the Attorney General of names and addresses of sheepherders whose applications for importation were approved, and issuance of not more than 385 special nonquota immigrant visas. Provisions of said act expired on Sept. 3, 1955, by terms of section 1 thereof.
+Act Sept. 3, 1954, ch. 1254, §§1–3, 68 Stat. 1145, provided for the importation of skilled alien sheepherders uponapproval by the Attorney General, certification to the Secretary of State by the Attorney General of names and addresses of sheepherders whose applications for importation were approved, and issuance of not more than 385 special nonquota immigrant visas. Provisions of said act expired on Sept. 3, 1955, by terms of section 1 thereof.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(II)”.</i>
 

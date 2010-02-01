@@ -10,7 +10,7 @@
 
 #### (A) Total number of members
 
-&emsp;&emsp;The Commission shall include not more than 19 members, who shall be appointed bythe Secretary in accordance with in <sup>1</sup> subparagraphs (B) and (C).
+&emsp;&emsp;The Commission shall include not more than 19 members, who shall be appointed by the Secretary in accordance with subparagraphs (B) and (C).
 
 #### (B) Members of the Commission
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;The Commission shall conduct a comprehensive study to—
 
-&emsp;&emsp;&emsp;(i) assess the barriers and systemic issues that may affect, and technical solutions available that may improve, the timely delivery and quality of accessible instructional materials for postsecondary students with print disabilities, as well as the effective use of such materials by faculty and staff; and
+&emsp;&emsp;&emsp;(i) assess the barriers and systemic issues that may affect, and technical solutions available that may improve, the timely delivery and quality of accessible instructional materials for postsecondarystudents with print disabilities, as well as the effective use of such materials by faculty and staff; and
 
 &emsp;&emsp;&emsp;(ii) make recommendations related to the development of a comprehensive approach to improve the opportunities for postsecondary students with print disabilities to access instructional materials in specialized formats in a timeframe comparable to the availability of instructional materials for postsecondary nondisabled students.
 
@@ -106,7 +106,7 @@
 
 #### (ii) Considerations
 
-&emsp;&emsp;&emsp;In developing the recommendations under subparagraph (C), the Commission shall consider—
+&emsp;&emsp;&emsp;In developing the recommendations under clause (i), the Commission shall consider—
 
 &emsp;&emsp;&emsp;&emsp;(I) how students with print disabilities may obtain instructional materials in accessible formats—
 
@@ -140,11 +140,19 @@
 
 The Commission shall terminate on the date that is 90 days after the date on which the Commission submits the report under subsection (b)(2) to the Secretary and the authorizing committees.
 
-(Pub. L. 89–329, title VII, §772, as added Pub. L. 110–315, title VII, §709(2), Aug. 14, 2008, 122 Stat. 3368.)
+(Pub. L. 89–329, title VII, §772, as added Pub. L. 110–315, title VII, §709(2), Aug. 14, 2008, 122 Stat. 3368; amended Pub. L. 111–39, title VII, §701(5), July 1, 2009, 123 Stat. 1955.)
 
 #### Prior Provisions
 
 A prior section 772 of Pub. L. 89–329 was classified to section 1132h–1 of this title, prior to repeal by Pub. L. 102–325.
 
-<i><sup>1</sup></i><i> So in original. The word “in” probably should not appear.</i>
+#### Amendments
+
+2009—Subsec. (a)(2)(A). Pub. L. 111–39, §701(5)(A), substituted “with” for “with in”.
+
+Subsec. (b)(1)(C)(ii). Pub. L. 111–39, §701(5)(B), substituted “clause (i)” for “subparagraph (C)” in introductory provisions.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

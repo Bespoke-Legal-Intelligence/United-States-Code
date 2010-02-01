@@ -44,7 +44,7 @@ Limitation and Waiver.—(1) In the case of the administration of an investigati
 
 &emsp;(A) the Secretary may not delegate to any other official the authority to request the President to waive the prior consent requirement for the Department of Defense; and
 
-&emsp;(B) if the President grants the requested waiver, the Secretary shall submit to the chairman and ranking minority member ofeach congressional defense committee a notification of the waiver, together with the written determination of the President under paragraph (1) and the Secretary's justification for the request or requirement under subsection (a) for the member to receive the drug covered by the waiver.
+&emsp;(B) if the President grants the requested waiver, the Secretary shall submit to the chairman and ranking minority member of each congressional defense committee a notification of the waiver, together with the written determination of the President under paragraph (1) and the Secretary's justification for the request or requirement under subsection (a) for the member to receive the drug covered by the waiver.
 
 (4) In this subsection:
 
@@ -118,7 +118,7 @@ Section 1. <i>Policy</i>. Military personnel deployed in particular military ope
 
 Sec. 2. <i>Administration of Investigational New Drugs to Members of the Armed Forces.</i>
 
-(a) The Secretary of Defense (Secretary) shall collect intelligence on potential health threats that might be encountered in an area of operations. The Secretary shall work together with the Secretary of Health and Human Services to ensure appropriate countermeasures are developed. When the Secretary considers an investigational new drug or a drug unapproved forits intended use (investigational drug) to represent the most appropriate countermeasure, it shall be studied through scientifically based research and development protocols to determine whether it is safe and effective for its intended use.
+(a) The Secretary of Defense (Secretary) shall collect intelligence on potential health threats that might be encountered in an area of operations. The Secretary shall work together with the Secretary of Health and Human Services to ensure appropriate countermeasures are developed. When the Secretary considers an investigational new drug or a drug unapproved for its intended use (investigational drug) to represent the most appropriate countermeasure, it shall be studied through scientifically based research and development protocols to determine whether it is safe and effective for its intended use.
 
 (b) It is the expectation that the United States Government will administer products approved for their intended use by the Food and Drug Administration (FDA). However, in the event that the Secretary considers a product to represent the most appropriate countermeasure for diseases endemic to the area of operations or to protect against possible chemical, biological, or radiological weapons, but the product has not yet been approved by the FDA for its intended use, the product may, under certain circumstances and strict controls, be administered to provide potential protection for the health and well-being of deployed military personnel in order to ensure the success of the military operation. The provisions of 21 CFR Part 312 contain the FDA requirements for investigational new drugs.
 
@@ -126,7 +126,7 @@ Sec. 3. <i>Informed Consent Requirements and Waiver Provisions.</i>
 
 (a) Before administering an investigational drug to members of the Armed Forces, the Department of Defense (DoD) must obtain informed consent from each individual unless the Secretary can justify to the President a need for a waiver of informed consent in accordance with 10 U.S.C. 1107(f). Waivers of informed consent will be granted only when absolutely necessary.
 
-(b) In accordance with 10 U.S.C. 1107(f), the President may waive the informed consent requirement for the administration of an investigational drug to a member of the Armed Forces in connection with the member's participation in a particular military operation, upon a written determination by the President that obtaining consent:
+(b) In accordance with 10 U.S.C. 1107(f), the President may waive the informed consent requirement for theadministration of an investigational drug to a member of the Armed Forces in connection with the member's participation in a particular military operation, upon a written determination by the President that obtaining consent:
 
 &emsp;(1) is not feasible;
 

@@ -16,7 +16,15 @@ The report of the Secretary of the study under subsection (a) of this section sh
 
 Whenever the Commission makes an affirmative finding under section 2252(b) of this title that increased imports are a substantial cause of serious injury or threat thereof with respect to an industry, the Secretary shall make available, to the extent feasible, full information to the firms in such industry about programs which may facilitate the orderly adjustment to import competition of such firms, and he shall provide assistance in the preparation and processing of petitions and applications of such firms for program benefits.
 
-(Pub. L. 93–618, title II, §264, Jan. 3, 1975, 88 Stat. 2035; Pub. L. 100–418, title I, §1401(b)(1)(B), Aug. 23, 1988, 102 Stat. 1239.)
+(Pub. L. 93–618, title II, §261, formerly §264, Jan. 3, 1975, 88 Stat. 2035; Pub. L. 100–418, title I, §1401(b)(1)(B), Aug. 23, 1988, 102 Stat. 1239; renumbered §261, Pub. L. 111–5, div. B, title I, §1864(a)(2), Feb. 17, 2009, 123 Stat. 397.)
+
+#### Renumbering of Section
+
+For termination of renumbering of section by section 1893 of Pub. L. 111–5, see Termination Date of 2009 Amendment note set out preceding section 2271 of this title.
+
+#### Prior Provisions
+
+A prior section 261 of Pub. L. 93–618 was temporarily renumbered section 259 and is classified to section 2351 of this title.
 
 #### Amendments
 
@@ -32,5 +40,5 @@ Amendment by Pub. L. 100–418 effective Aug. 23, 1988, and applicable with resp
 
 #### Termination Date
 
-No technical assistance to be provided under this part after Dec. 31, 2007, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and grants may not be provided under this part after Dec. 31, 2010, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(D) the first $100 deposited by check or checks on any one business day;
 
-&emsp;&emsp;(E) a check deposited in a branch of a depository institution and drawn on the sameor another branch of the same depository institution if both such branches are located in the same State or the same check processing region;
+&emsp;&emsp;(E) a check deposited in a branch of a depository institution and drawn on the same or another branch of the same depository institution if both such branches are located in the same State or the same check processing region;
 
 &emsp;&emsp;(F) a cashier's check, certified check, teller's check, or depository check which—
 
@@ -76,7 +76,7 @@
 
 #### (C) $100 availability
 
-&emsp;&emsp;Any amount available for withdrawal under this paragraph shall be in addition to the amount available under subsection (a)(2)(D) of this section.
+&emsp;&emsp;Any amount available for withdrawal under this paragraph shall be in addition tothe amount available under subsection (a)(2)(D) of this section.
 
 #### (4) Applicability
 
@@ -110,7 +110,7 @@
 
 #### (3) Applicability
 
-&emsp;This subsection shall apply with respect to funds deposited by check in an account at adepository institution after August 31, 1988, and before September 1, 1990, except as may be otherwise provided under subsection (b)(4) of this section.
+&emsp;This subsection shall apply with respect to funds deposited by check in an account at a depository institution after August 31, 1988, and before September 1, 1990, except as may be otherwise provided under subsection (b)(4) of this section.
 
 #### (d) Time period adjustments
 
@@ -152,7 +152,7 @@
 
 #### (3) Study and report on ATM's
 
-&emsp;The Board shall, either directly or through the Consumer Advisory Council, establish and maintain a dialogue with depository institutions and their suppliers on the computer software and hardware available for use by automated teller machines, and shall, not later than September 1 of each of the first 3 calendar years beginning after August 10, 1987, report to the Congress regarding such software and hardware and regarding the potential for improving the processing of automated teller machine deposits.
+&emsp;The Board shall, either directly or through the Consumer Advisory Council, establish andmaintain a dialogue with depository institutions and their suppliers on the computer software and hardware available for use by automated teller machines, and shall, not later than September 1 of each of the first 3 calendar years beginning after August 10, 1987, report to the Congress regarding such software and hardware and regarding the potential for improving the processing of automated teller machine deposits.
 
 #### (f) Check return; notice of nonpayment
 

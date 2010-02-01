@@ -52,7 +52,7 @@ Violation of Territorial Restrictions on Statutory License for Television Broadc
 
 &emsp;(1)
 
-Individual violations.—The willful or repeated secondary transmission to the public by a satellite carrier of a primary transmission embodying a performance or display of a work made by a television broadcast station to a subscriber who does not reside in that station's local market, and is not subject to statutory licensing under section 119 or a private licensing agreement, is actionable as an act of infringement under section 501 and is fully subject to the remedies provided by sections 502 through 506, except that—
+Individual violations.—The willful or repeated secondary transmission to the public by a satellite carrier of a primary transmission embodying a performance or displayof a work made by a television broadcast station to a subscriber who does not reside in that station's local market, and is not subject to statutory licensing under section 119 or a private licensing agreement, is actionable as an act of infringement under section 501 and is fully subject to the remedies provided by sections 502 through 506, except that—
 
 &emsp;&emsp;(A) no damages shall be awarded for such act of infringement if the satellite carrier took corrective action by promptly withdrawing service from the ineligible subscriber; and
 
@@ -124,7 +124,7 @@ Network station; satellite carrier; secondary transmission.—The terms “netwo
 
 &emsp;(4)
 
-Subscriber.—The term “subscriber” means a person who receives a secondary transmission service from a satellite carrier and pays a fee for the service, directly or indirectly, to the satellite carrier or to a distributor.
+Subscriber.—The term “subscriber” means a person who receives a secondarytransmission service from a satellite carrier and pays a fee for the service, directly or indirectly, to the satellite carrier or to a distributor.
 
 &emsp;(5)
 
@@ -132,7 +132,7 @@ Television broadcast station.—The term “television broadcast station”—
 
 &emsp;&emsp;(A) means an over-the-air, commercial or noncommercial television broadcast station licensed by the Federal Communications Commission under subpart E of part 73 of title 47, Code of Federal Regulations, except that such term does not include a low-power or translator television station; and
 
-&emsp;&emsp;(B) includes a television broadcast station licensed by an appropriate governmental authority of Canada or Mexico if the stationbroadcasts primarily in the English language and is a network station as defined in section 119(d)(2)(A).
+&emsp;&emsp;(B) includes a television broadcast station licensed by an appropriate governmental authority of Canada or Mexico if the station broadcasts primarily in the English language and is a network station as defined in section 119(d)(2)(A).
 
 (Added Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1002(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–523; amended Pub. L. 107–273, div. C, title III, §13210(2)(A), Nov. 2, 2002, 116 Stat. 1909; Pub. L. 108–447, div. J, title IX \[title I, §111(b)\], Dec. 8, 2004, 118 Stat. 3409; Pub. L. 110–403, title II, §209(a)(5), Oct. 13, 2008, 122 Stat. 4264.)
 

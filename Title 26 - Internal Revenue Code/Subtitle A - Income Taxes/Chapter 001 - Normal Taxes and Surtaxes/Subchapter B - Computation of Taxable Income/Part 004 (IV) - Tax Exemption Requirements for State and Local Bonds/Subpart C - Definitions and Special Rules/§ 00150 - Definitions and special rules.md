@@ -44,7 +44,7 @@ For purposes of this part—
 
 &emsp;In the case of any project for residential rental property—
 
-&emsp;&emsp;(A) with respect to which financing is provided from the proceeds of any private activity bond which, when issued, purported to bea tax-exempt bond described in paragraph (7) of section 142(a), and
+&emsp;&emsp;(A) with respect to which financing is provided from the proceeds of any private activity bond which, when issued, purported to be a tax-exempt bond described in paragraph (7) of section 142(a), and
 
 &emsp;&emsp;(B) which does not meet the requirements of section 142(d),
 
@@ -130,7 +130,7 @@ For purposes of this part and section 103—
 
 &emsp;&emsp;(A) is a corporation not for profit established and operated exclusively for the purpose of acquiring student loan notes incurred under the Higher Education Act of 1965, and
 
-&emsp;&emsp;(B) is organized at the request of the State or 1 or more political subdivisions thereof or is requested to exercise such power by 1 or more political subdivisions and required by its corporate charter and bylaws, or required by State law, to devote any income (after payment of expenses, debt service, and the creation of reserves for the same) to the purchase of additional student loan notes or to pay over any income to the United States.
+&emsp;&emsp;(B) is organized at the request of the State or 1 or more political subdivisions thereof or is requested to exercise such power by 1 or more political subdivisions and required by its corporate charter and bylaws, or required by State law, to devote any income (after payment of expenses, debt service, and thecreation of reserves for the same) to the purchase of additional student loan notes or to pay over any income to the United States.
 
 #### (3) Election to cease status as qualified scholarship funding corporation
 
@@ -194,7 +194,7 @@ For purposes of this part and section 103—
 
 &emsp;&emsp;&emsp;(i) the last day of the last taxable year for which more than 50 percent of the gross income of such transferee corporation is derived from, or more than 50 percent of the assets (by value) of such transferee corporation consists of, student loan notes incurred under the Higher Education Act of 1965; or
 
-&emsp;&emsp;&emsp;(ii) the last day of the taxable year of the issuer during which occurs the date which is 10 years after the date on which the election under this paragraph is made.
+&emsp;&emsp;&emsp;(ii) the last day of the taxable year of the issuer during which occurs the datewhich is 10 years after the date on which the election under this paragraph is made.
 
 #### (G) Election
 

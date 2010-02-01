@@ -60,7 +60,7 @@ In this section, the term “endowment fund” means the Hispanic-Serving Agricu
 
 #### (2) Payments
 
-&emsp;For fiscal year 2008 and each fiscal year thereafter, the Secretary of the Treasury shallpay to the treasurer of each Hispanic-serving agricultural college and university an amount equal to—
+&emsp;For fiscal year 2008 and each fiscal year thereafter, the Secretary of the Treasury shall pay to the treasurer of each Hispanic-serving agricultural college and university an amount equal to—
 
 &emsp;&emsp;(A) the total amount made available by appropriations under paragraph (1); divided by
 
@@ -92,7 +92,7 @@ In this section, the term “endowment fund” means the Hispanic-Serving Agricu
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;As part of an application for a grant under this subsection, the Secretary shall require the applicant to demonstrate need for the grant, as determined by the Secretary.
+&emsp;&emsp;&emsp;As part of an application for a grant under this subsection, the Secretary shallrequire the applicant to demonstrate need for the grant, as determined by the Secretary.
 
 #### (ii) Other sources of funding
 

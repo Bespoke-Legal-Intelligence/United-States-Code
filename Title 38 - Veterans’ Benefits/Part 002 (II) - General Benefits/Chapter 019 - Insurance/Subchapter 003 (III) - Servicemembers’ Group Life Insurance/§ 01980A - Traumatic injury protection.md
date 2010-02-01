@@ -2,7 +2,7 @@
 
 (a)(1) A member of the uniformed services who is insured under Servicemembers’ Group Life Insurance shall automatically be insured for traumatic injury in accordance with this section. Insurance benefits under this section shall be payable if the member, while so insured, sustains a traumatic injury on or after December 1, 2005, that results in a qualifying loss specified pursuant to subsection (b)(1).
 
-(2) If a member suffers more than one such qualifying loss as a result of traumatic injury from the same traumatic event, payment shall be made under this section in accordance with the schedule prescribed pursuant to subsection (d) for the single loss providing the highest payment.
+(2) If a member suffers more than one such qualifying loss as a result of traumatic injury from the same traumatic event, payment shall be made under this section in accordance with the schedule prescribed pursuant to subsection\(d) for the single loss providing the highest payment.
 
 (b)(1) A member who is insured against traumatic injury under this section is insured against such losses due to traumatic injury (in this section referred to as “qualifying losses”) as are prescribed by the Secretary by regulation. Qualifying losses so prescribed shall include the following:
 
@@ -66,7 +66,7 @@
 
 (5) Each premium rate for the first policy year shall be continued for subsequent policy years, except that the rate may be adjusted for any such subsequent policy year on the basis of the experience under the policy, as determined by the Secretary in advance of that policy year.
 
-(6) The cost attributable to insuring members under this section for any month or other period specified by the Secretary, less the premiums paid by the members, shall be paid by the Secretary concerned to the Secretary. The Secretary shall allocate the amount payable among the uniformed services using such methods and data as the Secretary determines to be reasonable and practicable. Payments under this paragraph shall be made on a monthly basis or at such other intervals as may be specified by the Secretary and shall be made within 10 days of the date on which the Secretary provides notice to the Secretary concerned of the amount required.
+(6) The cost attributable to insuring members under this section for any month or other period specified by the Secretary, less the premiums paid by the members, shall be paid by the Secretary concerned to the Secretary. The Secretary shall allocate the amount payable among the uniformed services using such methods and data as the Secretary determines to be reasonable and practicable. Payments under this paragraph shall be made on a monthly basis or at such other intervals as may be specified by the Secretary and shall be made within 10 days ofthe date on which the Secretary provides notice to the Secretary concerned of the amount required.
 
 (7) For each period for which a payment by a Secretary concerned is required under paragraph (6), the Secretary concerned shall contribute such amount from appropriations available for active duty pay of the uniformed service concerned.
 

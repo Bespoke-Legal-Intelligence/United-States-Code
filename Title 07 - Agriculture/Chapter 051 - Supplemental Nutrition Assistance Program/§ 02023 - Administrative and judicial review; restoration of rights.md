@@ -1,6 +1,6 @@
 ### §2023. Administrative and judicial review; restoration of rights
 
-(a)(1) Whenever an application of a retail food store or wholesale food concern to participate in the supplemental nutrition assistance program is denied pursuant to section 2018 of this title, or a retail food store or wholesale food concern is disqualified or subjected to a civil money penalty under the provisions of section 2021 of this title, or a retail food store or wholesale food concern forfeits a bond under section 2021(d) of this title, or all or part of any claim of a retail food store or wholesale food concern is denied under the provisions of section 2022 of this title, or a claim against a State agency is stated pursuant to the provisions of section 2022 of this title, notice of such administrative action shall be issued to the retail food store, wholesale food concern, or State agency involved.
+(a)(1) Whenever an application of a retail food store or wholesale food concern to participate in the supplemental nutrition assistance program is denied pursuant to section 2018 of this title, or a retail food store or wholesale food concern is disqualified or subjected to a civil money penalty under the provisions of section 2021 of thistitle, or a retail food store or wholesale food concern forfeits a bond under section 2021(d) of this title, or all or part of any claim of a retail food store or wholesale food concern is denied under the provisions of section 2022 of this title, or a claim against a State agency is stated pursuant to the provisions of section 2022 of this title, notice of such administrative action shall be issued to the retail food store, wholesale food concern, or State agency involved.
 
 (2)
 
@@ -12,9 +12,9 @@ Delivery of notices.—A notice under paragraph (1) shall be delivered by any fo
 
 (5) If such request is made by such store, concern, or State agency, such information as may be submitted by the store, concern, or State agency, as well as such other information as may be available, shall be reviewed by the person or persons designated by the Secretary, who shall, subject to the right of judicial review hereinafter provided, make a determination which shall be final and which shall take effect thirty days after the date of the delivery or service of such final notice of determination.
 
-(6) Determinations regarding claims made pursuant to section 2025(c) of this title (including determinations as to whether there is good cause for not imposing all or a portion of the penalty) shall be made on the record after opportunity for an agency hearing in accordance with section 556 and 557 of title 5 in which one or more administrative law judges appointed pursuant to section 3105 of such title shall preside over the taking of evidence.
+(6) Determinations regarding claims made pursuant to section 2025(c) of this title (including determinations as to whether there is good cause for not imposing all or a portion of the penalty) shall be made on the record after opportunity for an agency hearing in accordance with section <sup>1</sup> 556 and 557 of title 5 in which one or more administrative law judges appointed pursuant to section 3105 of such title shall preside over the taking of evidence.
 
-(7) Such judges shall have authority to issue and enforce subpoenas in the manner prescribed in sections <sup>1</sup> 499m(c) and (d) of this title and to appoint expert witnesses under the provisions of Rule 706 of the Federal Rules of Evidence.
+(7) Such judges shall have authority to issue and enforce subpoenas in the manner prescribed in sections <sup>2</sup> 499m(c) and (d) of this title and to appoint expert witnesses under the provisions of Rule 706 of the Federal Rules of Evidence.
 
 (8) The Secretary may not limit the authority of such judges presiding over determinations regarding claims made pursuant to section 2025(c) of this title.
 
@@ -24,7 +24,7 @@ Delivery of notices.—A notice under paragraph (1) shall be delivered by any fo
 
 (11) On a petition by the State agency or sua sponte, the Secretary may permit the full administrative review procedure to be used in lieu of such summary review procedure for a claim of less than $50,000.
 
-(12) Subject to the right of judicial review hereinafter provided, a determination made byan administrative law judge regarding a claim made pursuant to section 2025(c) of this title shall be final and shall take effect thirty days after the date of the delivery or service of final notice of such determination.
+(12) Subject to the right of judicial review hereinafter provided, a determination made by an administrative law judge regarding a claim made pursuant to section 2025(c) of this title shall be final and shall take effect thirty days after the date of the delivery or service of final notice of such determination.
 
 (13) If the store, concern, or State agency feels aggrieved by such final determination, it may obtain judicial review thereof by filing a complaint against the United States in the United States court for the district in which it resides or is engaged in business, or, in the case of a retail food store or wholesale food concern, in any court of record of the State having competent jurisdiction, within thirty days after the date of delivery or service of the final notice of determination upon it, requesting the court to set aside such determination.
 
@@ -118,5 +118,7 @@ Section 1301 of Pub. L. 95–113 provided that the amendment made by that sectio
 
 Amendment by Pub. L. 92–603 effective Jan. 1, 1973, see section 411(h) of Pub. L. 92–603, set out as a note under section 2012 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>
 

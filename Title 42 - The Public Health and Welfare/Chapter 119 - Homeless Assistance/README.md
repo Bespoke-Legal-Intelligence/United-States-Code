@@ -70,8 +70,14 @@
 
 |  |  |
 | :--- | ---: |
+| [11360\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20Comprehensive%20Homeless%20Assistance%20Plan/%C2%A7%2011360%20-%20Definitions.md) | Definitions. |
+| [11360a.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20Comprehensive%20Homeless%20Assistance%20Plan/%C2%A7%2011360a%20-%20Collaborative%20applicants.md) | Collaborative applicants. |
 | [11361\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20Comprehensive%20Homeless%20Assistance%20Plan/%C2%A7%2011361%20-%20Housing%20affordability%20strategy.md) | Housing affordability strategy. |
+| [11361a.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20Comprehensive%20Homeless%20Assistance%20Plan/%C2%A7%2011361a%20-%20Preventing%20involuntary%20family%20separation.md) | Preventing involuntary family separation. |
+| [11361b.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20Comprehensive%20Homeless%20Assistance%20Plan/%C2%A7%2011361b%20-%20Technical%20assistance.md) | Technical assistance. |
 | [11362\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20Comprehensive%20Homeless%20Assistance%20Plan/%C2%A7%2011362%20-%20Discharge%20coordination%20policy.md) | Discharge coordination policy. |
+| [11363\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20Comprehensive%20Homeless%20Assistance%20Plan/%C2%A7%2011363%20-%20Protection%20of%20personally%20identifying%20information%20by%20victim%20service%20providers.md) | Protection of personally identifying information by victim service providers. |
+| [11364\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20Comprehensive%20Homeless%20Assistance%20Plan/%C2%A7%2011364%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -81,6 +87,7 @@
 | :--- | ---: |
 | [11371\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Shelter%20Grants%20Program/%C2%A7%2011371%20-%20Definitions.md) | Definitions. |
 | [11372\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Shelter%20Grants%20Program/%C2%A7%2011372%20-%20Grant%20assistance.md) | Grant assistance. |
+| [11372a.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Shelter%20Grants%20Program/%C2%A7%2011372a%20-%20Amount%20and%20allocation%20of%20assistance.md) | Amount and allocation of assistance. |
 | [11373\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Shelter%20Grants%20Program/%C2%A7%2011373%20-%20Allocation%20and%20distribution%20of%20assistance.md) | Allocation and distribution of assistance. |
 | [11374\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Shelter%20Grants%20Program/%C2%A7%2011374%20-%20Eligible%20activities.md) | Eligible activities. |
 | [11375\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Shelter%20Grants%20Program/%C2%A7%2011375%20-%20Responsibilities%20of%20recipients.md) | Responsibilities of recipients. |
@@ -100,6 +107,11 @@
 | [11384\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011384%20-%20Supportive%20housing.md) | Supportive housing. |
 | [11385\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011385%20-%20Supportive%20services.md) | Supportive services. |
 | [11386\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011386%20-%20Program%20requirements.md) | Program requirements. |
+| [11386a.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011386a%20-%20Selection%20criteria.md) | Selection criteria. |
+| [11386b.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011386b%20-%20Allocation%20of%20amounts%20and%20incentives%20for%20specific%20eligible%20activities.md) | Allocation of amounts and incentives for specific eligible activities. |
+| [11386c.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011386c%20-%20Renewal%20funding%20and%20terms%20of%20assistance%20for%20permanent%20housing.md) | Renewal funding and terms of assistance for permanent housing. |
+| [11386d.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011386d%20-%20Matching%20funding.md) | Matching funding. |
+| [11386e.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011386e%20-%20Appeal%20procedure.md) | Appeal procedure. |
 | [11387\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011387%20-%20Regulations.md) | Regulations. |
 | [11388\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011388%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | [11389\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011389%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |

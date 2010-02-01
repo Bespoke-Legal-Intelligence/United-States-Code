@@ -30,7 +30,7 @@ Any bank (as defined in section 408(n)) shall surrender (subject to an attachmen
 
 #### (2) Penalty for violation
 
-&emsp;In addition to the personal liability imposed by paragraph (1), if any person required to surrender property or rights to property fails orrefuses to surrender such property or rights to property without reasonable cause, such person shall be liable for a penalty equal to 50 percent of the amount recoverable under paragraph (1). No part of such penalty shall be credited against the tax liability for the collection of which such levy was made.
+&emsp;In addition to the personal liability imposed by paragraph (1), if any person required to surrender property or rights to property fails or refuses to surrender such property or rights to property without reasonable cause, such person shall be liable for a penalty equal to 50 percent of the amount recoverable under paragraph (1). No part of such penalty shall be credited against the tax liability for the collection of which such levy was made.
 
 #### (e) Effect of honoring levy
 

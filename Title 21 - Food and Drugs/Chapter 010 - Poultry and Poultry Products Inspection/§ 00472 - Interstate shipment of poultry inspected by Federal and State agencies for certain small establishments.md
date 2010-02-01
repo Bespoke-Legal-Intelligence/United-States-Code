@@ -28,7 +28,7 @@
 
 #### (5) Selected establishment
 
-&emsp;The term “selected establishment” means an eligible establishment that is selected by the Secretary, in coordination with the appropriate State agency of the State in which the eligible establishment is located, under subsection (b) to ship poultry items in interstate commerce.
+&emsp;The term “selected establishment” means an eligible establishment that is selected bythe Secretary, in coordination with the appropriate State agency of the State in which the eligible establishment is located, under subsection (b) to ship poultry items in interstate commerce.
 
 #### (b) Authority of Secretary to allow shipments
 
@@ -120,7 +120,7 @@ The Secretary shall reimburse a State for costs related to the inspection of sel
 
 #### (4) Performance evaluations
 
-&emsp;Performance evaluations of State coordinators designated under this subsection shall be conducted by the Secretary as part of the Federal agency management control system.
+&emsp;Performance evaluations of State coordinators designated under this subsection shall beconducted by the Secretary as part of the Federal agency management control system.
 
 #### (e) Audits
 

@@ -32,5 +32,5 @@ Paragraph (1) of subsection (b) of section 5 of the Atomic Energy Act of 1946, a
 
 #### Key Largo Coral Reef Preserve
 
-Withdrawal of area designated Key Largo Coral Reef Preserve from disposition, see Proc. No. 3339, Mar. 15, 1960, 25 F.R. 2352, set out as a note under section 461 of Title 16, Conservation.
+Withdrawal of area designated Key Largo Coral Reef Preserve from disposition, see Proc. No. 3339, Mar. 15,1960, 25 F.R. 2352, set out as a note under section 461 of Title 16, Conservation.
 

@@ -4,7 +4,7 @@
 
 The Secretary shall—
 
-&emsp;(1) administer the programs and projects conducted under sections 5811 and 5813 of this title through the Cooperative State Research Service in close cooperation with the Extension Service, Agricultural Research Service, and other appropriate agencies;
+&emsp;(1) administer the programs and projects conducted under sections 5811 and 5813 of this title through the National Institute of Food and Agriculture, Agricultural Research Service, and other appropriate agencies;
 
 &emsp;(2) establish a minimum of four Regional Administrative Councils in accordance with subsection (b) of this section; and
 
@@ -18,27 +18,25 @@ The Secretary shall—
 
 &emsp;&emsp;(A) the Agricultural Research Service;
 
-&emsp;&emsp;(B) the Cooperative State Research Service;
+&emsp;&emsp;(B) the National Institute of Food and Agriculture;
 
-&emsp;&emsp;(C) the Extension Service;
+&emsp;&emsp;(C) State cooperative extension services;
 
-&emsp;&emsp;(D) State cooperative extension services;
+&emsp;&emsp;(D) State agricultural experiment stations;
 
-&emsp;&emsp;(E) State agricultural experiment stations;
+&emsp;&emsp;(E) the Soil Conservation Service;
 
-&emsp;&emsp;(F) the Soil Conservation Service;
+&emsp;&emsp;(F) State departments engaged in sustainable agriculture programs;
 
-&emsp;&emsp;(G) State departments engaged in sustainable agriculture programs;
+&emsp;&emsp;(G) nonprofit organizations with demonstrable expertise;
 
-&emsp;&emsp;(H) nonprofit organizations with demonstrable expertise;
+&emsp;&emsp;(H) farmers utilizing systems and practices of sustainable agriculture;
 
-&emsp;&emsp;(I) farmers utilizing systems and practices of sustainable agriculture;
+&emsp;&emsp;(I) agribusiness;
 
-&emsp;&emsp;(J) agribusiness;
+&emsp;&emsp;(J) the State or United States Geological Survey; and
 
-&emsp;&emsp;(K) the State or United States Geological Survey; and
-
-&emsp;&emsp;(L) other persons knowledgeable about sustainable agriculture and its impact on the environment and rural communities.
+&emsp;&emsp;(K) other persons knowledgeable about sustainable agriculture and its impact on the environment and rural communities.
 
 #### (2) Responsibilities
 
@@ -60,17 +58,19 @@ The Secretary shall—
 
 (Pub. L. 101–624, title XVI, §1622, Nov. 28, 1990, 104 Stat. 3736; Pub. L. 104–127, title VIII, §860(a), (b), Apr. 4, 1996, 110 Stat. 1173; Pub. L. 110–234, title VII, §7511(c)(15), May 22, 2008, 122 Stat. 1268; Pub. L. 110–246, §4(a), title VII, §7511(c)(15), June 18, 2008, 122 Stat. 1664, 2030.)
 
-#### Amendment of Subsections (a)(1) and (b)(1)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2030, provided that, effective Oct. 1, 2009, subsection (a)(1) of this section is amended by substituting “the National Institute of Food and Agriculture” for “the Cooperative State Research Service in close cooperation with the Extension Service” and subsection (b)(1) of this section is amended by striking out subpars. (B) and (C), redesignating subpars. (D) to (L) as (C) to (K), respectively, and adding a new subpar. (B) to read as follows:</i>
-
-&emsp;&emsp;<i>“(B) the National Institute of Food and Agriculture;”.</i>
-
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–246, §7511(c)(15)(A), substituted “the National Institute of Food and Agriculture” for “the Cooperative State Research Service in close cooperation with the Extension Service”.
+
+Subsec. (b)(1)(B) to (L). Pub. L. 110–246, §7511(c)(15)(B), added subpar. (B), redesignated former subpars. (D) to (L) as (C) to (K), respectively, and struck out former subpars. (B) and (C) which read as follows:
+
+“(B) the Cooperative State Research Service;
+
+“(C) the Extension Service;”.
 
 1996—Subsec. (a)(2) to (4). Pub. L. 104–127, §860(b)(1), redesignated pars. (3) and (4) as (2) and (3), respectively, substituted “subsection (b)” for “subsection (e)” in par. (2), and struck out former par. (2) which read as follows: “establish the Advisory Council in accordance with subsection (c) of this section;”.
 

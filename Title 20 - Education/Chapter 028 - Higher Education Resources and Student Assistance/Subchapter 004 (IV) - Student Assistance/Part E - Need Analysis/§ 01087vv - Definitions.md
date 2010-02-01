@@ -6,7 +6,7 @@ As used in this part:
 
 (1) Except as provided in paragraph (2), the term “total income” is equal to adjusted gross income plus untaxed income and benefits for the preceding tax year minus excludable income (as defined in subsection (e) of this section).
 
-(2) No portion of any student financial assistance received from any program by an individual, no portion of a national service educational award or post-service benefit received by an individual under title I of the National and Community Service Act of 1990 \[42 U.S.C. 12511 et seq.\], no portion of any tax credit taken under section 25A of title 26, and no distribution from any qualified education benefit described in subsection (f)(3) that is not subject to Federal income tax, shall be included as income or assets in the computation of expected family contribution for any program funded in whole or in part under this chapter.
+(2) No portion of any student financial assistance received from any program by an individual, no portion of a national service educational award or post-service benefit received by an individual under title I of the National and Community Service Act of 1990 (42 U.S.C. 12511 et seq.), no portion of any tax credit taken under section 25A of title 26, and no distribution from any qualified education benefit described in subsection (f)(3) that is not subject to Federal income tax, shall be included as income or assets in the computation of expected family contribution for any program funded in whole or in part under this chapter.
 
 #### (b) Untaxed income and benefits
 
@@ -52,27 +52,31 @@ As used in this part:
 
 &emsp;(B) was released under a condition other than dishonorable.
 
-(2) The term “veterans’ education benefits” means veterans’ benefits the student will receive during the award year, including but not limited to the following:
+(2) The term “veterans’ education benefits” means veterans’ benefits the student will receive during the award year, including but not limited to benefits under the following provisions of law:
 
-&emsp;(A) Title 10, chapter 2: Reserve Officer Training Corps scholarship.
+&emsp;(A) Chapter 103 of title 10 (Senior Reserve Officers’ Training Corps).
 
-&emsp;(B) Title 10, chapter 106: Selective Reserve.
+&emsp;(B) Chapter 106A of title 10 (Educational Assistance for Persons Enlisting for Active Duty).
 
-&emsp;(C) Title 10, chapter 107: Selective Reserve Educational Assistance Program.
+&emsp;(C) Chapter 1606 of title 10 (Selected Reserve Educational Assistance Program).
 
-&emsp;(D) Title 37, chapter 2: Reserve Officer Training Corps Program.
+&emsp;(D) Chapter 1607 of title 10 (Educational Assistance Program for Reserve Component Members Supporting Contingency Operations and Certain Other Operations).
 
-&emsp;(E) Title 38, chapter 30: Montgomery GI Bill—active duty.
+&emsp;(E) Chapter 30 of title 38 (All-Volunteer Force Educational Assistance Program, also known as the “Montgomery GI Bill—active duty”).
 
-&emsp;(F) Title 38, chapter 31: vocational rehabilitation.
+&emsp;(F) Chapter 31 of title 38 (Training and Rehabilitation for Veterans with Service-Connected Disabilities).
 
-&emsp;(G) Title 38, chapter 32: Post-Vietnam Era Veterans’ Educational Assistance Program.
+&emsp;(G) Chapter 32 of title 38 (Post-Vietnam Era Veterans’ Educational Assistance Program).
 
-&emsp;(H) Title 38, chapter 35: Dependents Educational Assistance Program.
+&emsp;(H) Chapter 33 of title 38 (Post-9/11 Educational Assistance).
 
-&emsp;(I) Public Law 97–376, section 156: Restored Entitlement Program for Survivors (or Quayle benefits).
+&emsp;(I) Chapter 35 of title 38 (Survivors’ and Dependents’ Educational Assistance Program).
 
-&emsp;(J) Public Law 96–342, section 903: Educational Assistance Pilot Program.
+&emsp;(J) Section 903 of the Department of Defense Authorization Act, 1981 (10 U.S.C. 2141 note) (Educational Assistance Pilot Program).
+
+&emsp;(K) Section 156(b) of the “Joint Resolution making further continuing appropriations and providing for productive employment for the fiscal year 1983, and for other purposes” (42 U.S.C. 402 note) (Restored Entitlement Program for Survivors, also known as “Quayle benefits”).
+
+&emsp;(L) The provisions of chapter 3 of title 37, related to subsistence allowances for members of the Reserve Officers Training Corps.
 
 #### (d) Independent student
 
@@ -164,7 +168,7 @@ The term “net assets” means the current market value at the time of applicat
 
 #### (h) Treatment of income taxes paid to other jurisdictions
 
-(1) The tax on income paid to the Governments of the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, or the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or Palau under the laws applicable to those jurisdictions, or the comparable tax paid to the central government of a foreign country, shall be treated as Federal income taxes.
+(1) The tax on income paid to the Governments of the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, or the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, theFederated States of Micronesia, or Palau under the laws applicable to those jurisdictions, or the comparable tax paid to the central government of a foreign country, shall be treated as Federal income taxes.
 
 (2) References in this part to title 26, Federal income tax forms, and the Internal Revenue Service shall, for purposes of the tax described in paragraph (1), be treated as references to the corresponding laws, tax forms, and tax collection agencies of those jurisdictions, respectively, subject to such adjustments as the Secretary may provide by regulation.
 
@@ -174,7 +178,7 @@ The term “current balance of checking and savings accounts” does not include
 
 #### (j) Other financial assistance
 
-(1) For purposes of determining a student's eligibility for funds under this subchapter and part C of subchapter I of chapter 34 of title 42, estimated financial assistance not received under this subchapter and part C of subchapter I of chapter 34 of title 42 shall include all scholarships, grants, loans, or other assistance known to the institution at the time the determination of the student's need is made, including veterans’ education benefits as defined in subsection (c) of this section, and national service educational awards or post-service benefits under title I of the National and Community Service Act of 1990 \[42 U.S.C. 12511 et seq.\].
+(1) For purposes of determining a student's eligibility for funds under this subchapter and part C of subchapter I of chapter 34 of title 42, estimated financial assistance not received under this subchapter and part C of subchapter I of chapter 34 of title 42 shall include all scholarships, grants, loans, or other assistance known to the institution at the time the determination of the student's need is made, including national service educational awards or post-service benefits under title I of the National and Community Service Act of 1990 (42 U.S.C. 12511 et seq.), but excluding veterans’ education benefits as defined in subsection (c).
 
 (2) Notwithstanding paragraph (1), a tax credit taken under section 25A of title 26, or a distribution that is not includable in gross income under section 529 of such title, under another prepaid tuition plan offered by a State, or under a Coverdell education savings account under section 530 of such title, shall not be treated as estimated financial assistance for purposes of section 1087kk(3) of this title.
 
@@ -184,7 +188,7 @@ The term “current balance of checking and savings accounts” does not include
 
 #### (k) Dependents
 
-(1) Except as otherwise provided, the term “dependent of the parent” means the student, dependent children of the student's parents, including those children who are deemed to be dependent students when applying for aid underthis subchapter and part C of subchapter I of chapter 34 of title 42, and other persons who live with and receive more than one-half of their support from the parent and will continue to receive more than half of their support from the parent during the award year.
+(1) Except as otherwise provided, the term “dependent of the parent” means the student, dependent children of the student's parents, including those children who are deemed to be dependent students when applying for aid under this subchapter and part C of subchapter I of chapter 34 of title 42, and other persons who live with and receive more than one-half of their support from the parent and will continue to receive more than half of their support from the parent during the award year.
 
 (2) Except as otherwise provided, the term “dependent of the student” means the student's dependent children and other persons (except the student's spouse) who live with and receive more than one-half of their support from the student and will continue to receive more than half of their support from the student during the award year.
 
@@ -212,11 +216,11 @@ The term “business assets” means property that is used in the operation of a
 
 The term “special combat pay” means pay received by a member of the Armed Forces because of exposure to a hazardous situation.
 
-(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 105–78, title VI, §609(j), (k), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §479, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 109–171, title VIII, §8019, Feb. 8, 2006, 120 Stat. 176; Pub. L. 110–84, title VI, §604(a), Sept. 27, 2007, 121 Stat. 806; Pub. L. 110–153, §1(a), Dec. 21, 2007, 121 Stat. 1824; Pub. L. 110–315, title IV, §473(a)–(e), Aug. 14, 2008, 122 Stat. 3270, 3271.)
+(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 105–78, title VI, §609(j), (k), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §479, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 109–171, title VIII, §8019, Feb. 8, 2006, 120 Stat.176; Pub. L. 110–84, title VI, §604(a), Sept. 27, 2007, 121 Stat. 806; Pub. L. 110–153, §1(a), Dec. 21, 2007, 121 Stat. 1824; Pub. L. 110–315, title IV, §473(a)–(e), Aug. 14, 2008, 122 Stat. 3270, 3271; Pub. L. 111–39, title IV, §406(a)(6)–(8), July 1, 2009, 123 Stat. 1949, 1950.)
 
 #### Amendment of Section
 
-<i>Pub. L. 110–315, title IV, §473, Aug. 14, 2008, 122 Stat. 3270, provided that, effective July 1, 2010, this section is amended—</i>
+<i>Pub. L. 110–315, title IV, §473(a)–(d), (f), Aug. 14, 2008, 122 Stat. 3270, 3271, provided that, effective July 1, 2010, this section is amended—</i>
 
 <i>(a) in subsection (a)—</i>
 
@@ -252,15 +256,9 @@ The term “special combat pay” means pay received by a member of the Armed Fo
 
 &emsp;<i>“(2) any income earned from work under a cooperative education program offered by an institution of higher education;”.</i>
 
-<i>(e) in subsection (j)(1)—</i>
-
-<i>(1) by striking “veterans’ education benefits as defined in subsection (c) of this section, and”; and</i>
-
-<i>(2) by inserting before the period at the end the following: “, but excluding veterans’ education benefits as defined in subsection (c)”.</i>
-
 #### References in Text
 
-The National and Community Service Act of 1990, referred to in subsecs. (a)(2), (e)(2), and (j)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. Title I of the Act enacted subchapter I (§12511 et seq.) of chapter 129 of Title 42 and amended sections 1070a–6 and 1087vv of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsecs. (a)(2), (e)(2), and (j)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. Title I of the Act enacted subchapter I (§12511 et seq.) of chapter 129 of Title 42 and amended this section and section 1070a–6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (a)(2), was in the original “this Act”, meaning Pub. L. 89–329, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
@@ -268,15 +266,9 @@ The Workforce Investment Act of 1998, referred to in subsec. (b)(1)(I), is Pub. 
 
 The Social Security Act, referred to in subsecs. (b)(2)(B) and (e)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and E of title IV of the Act are classified generally to parts A (§601 et seq.) and E (§670 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Title 10, chapter 2, referred to in subsec. (c)(2)(A), relates to the organization of the Department of Defense. For provisions relating to the Reserve Officer Training Corps, see chapters 102 and 103 of Title 10, Armed Forces.
+Section 903 of the Department of Defense Authorization Act, 1981, referred to in subsec. (c)(2)(J), is section 903 of Pub. L. 96–342, which is set out as a note under section 2141 of Title 10, Armed Forces.
 
-Title 10, chapter 107, referred to in subsec. (c)(2)(C), relates to educational assistance for active duty enlistees. For provisions relating to the Selective Reserve educational assistance program, see chapter 106 of Title 10.
-
-Title 37, chapter 2, referred to in subsec. (c)(2)(D), has never been enacted. For provisions relating to the Reserve Officer Training Corps, see chapters 102 and 103 of Title 10.
-
-Public Law 97–376, section 156, referred to in subsec. (c)(2)(I), probably means Pub. L. 97–377, title I, §156, Dec. 21, 1982, 96 Stat. 1920, as amended, which is set out as a note under section 402 of Title 42, The Public Health and Welfare. Pub. L. 97–376 does not contain a section 156.
-
-Public Law 96–342, section 903, referred to in subsec. (c)(2)(J), is set out as a note under section 2141 of Title 10, Armed Forces.
+Section 156(b) of the “Joint Resolution making further continuing appropriations and providing for productive employment for the fiscal year 1983, and for other purposes”, referred to in subsec. (c)(2)(K), is section 156(b) of Pub. L. 97–377, which is set out as a note under section 402 of Title 42, The Public Health and Welfare.
 
 The Runaway and Homeless Youth Act, referred to in subsec. (d)(1)(H)(ii), is title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1129, which is classified generally to subchapter III (§5701 et seq.) of chapter 72 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
 
@@ -287,6 +279,14 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (d)(1)(H)(iii
 Amendment by section 2(g)(19) of Pub. L. 103–208 (which was effective as if included in Pub. L. 102–325) was executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–82, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2009—Subsec. (a)(2). Pub. L. 111–39, §406(a)(6), substituted “12511” for “12571”.
+
+Subsec. (c)(2). Pub. L. 111–39, §406(a)(7), substituted “benefits under the following provisions of law” for “the following” in introductory provisions, added subpars. (A) to (L), and struck out former subpars. (A) to (J) which listed, respectively, the following provisions of law: title 10, chapter 2; title 10, chapter 106; title 10, chapter 107; title 37, chapter 2; title 38, chapter 30; title 38, chapter 31; title 38, chapter 32; title 38, chapter 35; Public Law 97–376, section 156; and Public Law 96–342, section 903.
+
+Subsec. (j)(1). Pub. L. 111–39, §406(a)(8), substituted “12511” for “12571”.
+
+2008—Subsec. (j)(1). Pub. L. 110–315, §473(e), struck out “veterans’ education benefits as defined in subsection (c) of this section, and” before “national service educational awards” and inserted “, but excluding veterans’ education benefits as defined in subsection (c)” before period at end.
 
 2007—Subsec. (a)(2). Pub. L. 110–84, §604(a)(1), substituted “no portion of any” for “and no portion of any” and inserted “and no distribution from any qualified education benefit described in subsection (f)(3) that is not subject to Federal income tax,” after “section 25A of title 26,”.
 
@@ -330,7 +330,7 @@ Subsec. (j)(2), (3). Pub. L. 109–171, §8019(e)(2)–(4), struck out par. (2),
 
 1998—Subsec. (b)(14). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(12)(B)\], struck out “Job Training Partnership Act noneducational benefits or” after “railroad retirement benefits, or”.
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(15)(B)\], substituted “Job Training Partnership Act noneducationalbenefits or benefits received through participation in employment and training activities under title I of the Workforce Investment Act of 1998” for “Job Training Partnership Act noneducational benefits”.
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(15)(B)\], substituted “Job Training Partnership Act noneducational benefits or benefits received through participation in employment and training activities under title I of the Workforce Investment Act of 1998” for “Job Training Partnership Act noneducational benefits”.
 
 Subsec. (j)(1). Pub. L. 105–244, §479(1), inserted before period at end “, and national service educational awards or post-service benefits under title I of the National and Community Service Act of 1990”.
 
@@ -374,9 +374,13 @@ Subsec. (d)(2)(F). Pub. L. 100–50, §14(28)(F), substituted “annual total re
 
 Subsecs. (f) to (h). Pub. L. 100–50, §14(28)(G), added subsecs. (f) to (h).
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–315, title IV, §473(f), Aug. 14, 2008, 122 Stat. 3271, provided that: “The amendments made by this section \[amending this section\] shall take effect on July 1, 2010.”
+Pub. L. 110–315, title IV, §473(f), Aug. 14, 2008, 122 Stat. 3271, as amended by Pub. L. 111–39, title IV, §406(c), July 1, 2009, 123 Stat. 1950, provided that: “The amendments made by this section \[amending this section\] shall take effect on July 1, 2010, except that the amendments made in subsection (e) \[amending this section\] shall take effect on July 1, 2009.”
 
 #### Effective Date of 2007 Amendment
 

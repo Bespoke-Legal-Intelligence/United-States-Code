@@ -2,7 +2,7 @@
 
 #### (a) Limitation on preexisting condition exclusion period; crediting for periods of previous coverage
 
-Subject to subsection (d) of this section, a group health plan, and a health insurance issueroffering group health insurance coverage, may, with respect to a participant or beneficiary, impose a preexisting condition exclusion only if—
+Subject to subsection (d) of this section, a group health plan, and a health insurance issuer offering group health insurance coverage, may, with respect to a participant or beneficiary, impose a preexisting condition exclusion only if—
 
 &emsp;(1) such exclusion relates to a condition (whether physical or mental), regardless of the cause of the condition, for which medical advice, diagnosis, care, or treatment was recommended or received within the 6-month period ending on the enrollment date;
 
@@ -77,6 +77,18 @@ For purposes of this part—
 #### (B) Waiting period not treated as a break in coverage
 
 &emsp;&emsp;For purposes of subparagraph (A) and subsection (d)(4) of this section, any period that an individual is in a waiting period for any coverage under a group health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection (g)(2) of this section) shall not be taken into account in determining the continuous period under subparagraph (A).
+
+#### (C) TAA-eligible individuals
+
+&emsp;&emsp;In the case of plan years beginning before January 1, 2011—
+
+#### (i) TAA pre-certification period rule
+
+&emsp;&emsp;&emsp;In the case of a TAA-eligible individual, the period beginning on the date the individual has a TAA-related loss of coverage and ending on the date that is 7 days after the date of the issuance by the Secretary (or by any person or entity designated by the Secretary) of a qualified health insurance costs credit eligibility certificate for such individual for purposes of section 7527 of title 26 shall not be taken into account in determining the continuous period under subparagraph (A).
+
+#### (ii) Definitions
+
+&emsp;&emsp;&emsp;The terms “TAA-eligible individual” and “TAA-related loss of coverage” have the meanings given such terms in section 1165(b)(4) of this title.
 
 #### (3) Method of crediting coverage
 
@@ -208,6 +220,40 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(iii) in the case of a dependent's adoption or placement for adoption, the date of such adoption or placement for adoption.
 
+#### (3) Special rules for application in case of Medicaid and CHIP
+
+#### (A) In general
+
+&emsp;&emsp;A group health plan, and a health insurance issuer offering group health insurance coverage in connection with a group health plan, shall permit an employee who is eligible, but not enrolled, for coverage under the terms of the plan (or a dependent of such an employee if the dependent is eligible, but not enrolled, for coverage under such terms) to enroll for coverage under the terms of the plan if either of the following conditions is met:
+
+#### (i) Termination of Medicaid or CHIP coverage
+
+&emsp;&emsp;&emsp;The employee or dependent is covered under a Medicaid plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] or under a State child health plan under title XXI of such Act \[42 U.S.C. 1397aa et seq.\] and coverage of the employee or dependent under such a plan is terminated as a result of loss of eligibility for such coverage and the employee requests coverage under the group health plan (or health insurance coverage) not later than 60 days after the date of termination of such coverage.
+
+#### (ii) Eligibility for employment assistance under Medicaid or CHIP
+
+&emsp;&emsp;&emsp;The employee or dependent becomes eligible for assistance, with respect to coverage under the group health plan or health insurance coverage, under such Medicaid plan or State child health plan (including under any waiver or demonstration project conducted under or in relation to such a plan), if the employee requests coverage under the group health plan or health insurance coverage not later than 60 days after the date the employee or dependent is determined to be eligible for such assistance.
+
+#### (B) Coordination with Medicaid and CHIP
+
+#### (i) Outreach to employees regarding availability of Medicaid and CHIP coverage
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Each employer that maintains a group health plan in a State that provides medical assistance under a State Medicaid plan under title XIX of the Social Security Act, or child health assistance under a State child health plan under title XXI of such Act, in the form of premium assistance for the purchase of coverage under a group health plan, shall provide to each employee a written notice informing the employee of potential opportunities then currently available in the State in which the employee resides for premium assistance under such plans for health coverage of the employee or the employee's dependents.
+
+#### (II) Model notice
+
+&emsp;&emsp;&emsp;&emsp;Not later than 1 year after February 4, 2009, the Secretary and the Secretary of Health and Human Services, in consultation with Directors of State Medicaid agencies under title XIX of the Social Security Act and Directors of State CHIP agencies under title XXI of such Act, shall jointly develop national and State-specific model notices for purposes of subparagraph (A). The Secretary shall provide employers with such model notices so as to enable employers to timely comply with the requirements of subparagraph (A). Such model notices shall include information regarding how an employee may contact the State in which the employee resides for additional information regarding potential opportunities for such premium assistance, including how to apply for such assistance.
+
+#### (III) Option to provide concurrent with provision of plan materials to employee
+
+&emsp;&emsp;&emsp;&emsp;An employer may provide the model notice applicable to the State in which an employee resides concurrent with the furnishing of materials notifying the employee of health plan eligibility, concurrent with materials provided to the employee in connection with an open season or election process conducted under the plan, or concurrent with the furnishing of the summary plan description as provided in section 1024(b) of this title.
+
+#### (ii) Disclosure about group health plan benefits to States for Medicaid and CHIP eligible individuals
+
+&emsp;&emsp;&emsp;In the case of a participant or beneficiary of a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act or under a State child health plan under title XXI of such Act, the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under the group health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act \[42 U.S.C. 1397ee(c)(2)(B), (3), (10)\] or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
+
 #### (g) Use of affiliation period by HMOs as alternative to preexisting condition exclusion
 
 #### (1) In general
@@ -236,19 +282,33 @@ For purposes of this part—
 
 #### (3) Alternative methods
 
-&emsp;A health maintenance organization described in paragraph (1) may use alternative methods, from those described in such paragraph, to address adverse selection as approved by the State insurance commissioner or official or officials designated by the Stateto enforce the requirements of part A of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\] for the State involved with respect to such issuer.
+&emsp;A health maintenance organization described in paragraph (1) may use alternative methods, from those described in such paragraph, to address adverse selection as approved by the State insurance commissioner or official or officials designated by the State to enforce the requirements of part A of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\] for the State involved with respect to such issuer.
 
-(Pub. L. 93–406, title I, §701, as added Pub. L. 104–191, title I, §101(a), Aug. 21, 1996, 110 Stat. 1939; amended Pub. L. 104–204, title VI, §603(b)(3)(H), Sept. 26, 1996, 110 Stat. 2938.)
+(Pub. L. 93–406, title I, §701, as added Pub. L. 104–191, title I, §101(a), Aug. 21, 1996, 110 Stat. 1939; amended Pub. L. 104–204, title VI, §603(b)(3)(H), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 111–3, title III, §311(b)(1)(A), Feb. 4, 2009, 123 Stat. 65; Pub. L. 111–5, div. B, title I, §1899D(b), Feb. 17, 2009, 123 Stat. 426.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(1)(C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(1)(C), (D), (f)(3)(A)(i), (B)(i)(I), (II), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapterXVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+Section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (f)(3)(B)(ii), is section 311(b)(1)(C) of Pub. L. 111–3, which is set out as a note under this section.
 
 The Public Health Service Act, referred to in subsec. (g)(3), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title XXVII of the Act is classified generally to part A (§300gg et seq.) of subchapter XXV of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
 
+2009—Subsec. (c)(2)(C). Pub. L. 111–5 added subpar. (C).
+
+Subsec. (f)(3). Pub. L. 111–3 added par. (3).
+
 1996—Subsec. (c)(1). Pub. L. 104–204 made technical amendment to reference in original act which appears in text as reference to section 1191b of this title.
+
+#### Effective Date of 2009 Amendment
+
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
+
+Amendment by Pub. L. 111–5 applicable to plan years beginning after Feb. 17, 2009, see section 1899D(d) of Pub. L. 111–5, set out as a note under section 9801 of Title 26, Internal Revenue Code.
+
+Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1996 Amendment
 
@@ -319,4 +379,80 @@ Timely regulations.—The Secretary of Labor, consistent with section 104 \[42 U
 “(5)
 
 Limitation on actions.—No enforcement action shall be taken, pursuant to the amendments made by this section, against a group health plan or health insurance issuer with respect to a violation of a requirement imposed by such amendments before January 1, 1998, or, if later, the date of issuance of regulations referred to in paragraph (4), if the plan or issuer has sought to comply in good faith with such requirements.”
+
+#### Working Group to Develop Model Coverage Coordination Disclosure Form
+
+Pub. L. 111–3, title III, §311(b)(1)(C), Feb. 4, 2009, 123 Stat. 68, provided that:
+
+“(i)
+
+Medicaid, chip, and employer-sponsored coverage coordination working group.—
+
+&emsp;“(I)
+
+In general.—Not later than 60 days after the date of enactment of this Act \[Feb. 4, 2009\], the Secretary of Health and Human Services and the Secretary of Labor shall jointly establish a Medicaid, CHIP, and Employer-Sponsored Coverage Coordination Working Group (in this subparagraph referred to as the ‘Working Group’). The purpose of the WorkingGroup shall be to develop the model coverage coordination disclosure form described in subclause (II) and to identify the impediments to the effective coordination of coverage available to families that include employees of employers that maintain group health plans and members who are eligible for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] or child health assistance or other health benefits coverage under title XXI of such Act \[42 U.S.C. 1397aa et seq.\].
+
+&emsp;“(II)
+
+Model coverage coordination disclosure form described.—The model form described in this subclause is a form for plan administrators of group health plans to complete for purposes of permitting a State to determine the availability and cost-effectiveness of the coverage available under such plans to employees who have family members who are eligible for premium assistance offered under a State plan under title XIX or XXI of such Act and to allow for coordination of coverage for enrollees of such plans. Such form shall provide the following information in addition to such other information as the Working Group determines appropriate:
+
+&emsp;&emsp;“(aa) A determination of whether the employee is eligible for coverage under the group health plan.
+
+&emsp;&emsp;“(bb) The name and contract information of the plan administrator of the group health plan.
+
+&emsp;&emsp;“(cc) The benefits offered under the plan.
+
+&emsp;&emsp;“(dd) The premiums and cost-sharing required under the plan.
+
+&emsp;&emsp;“(ee) Any other information relevant to coverage under the plan.
+
+“(ii)
+
+Membership.—The Working Group shall consist of not more than 30 members and shall be composed of representatives of—
+
+&emsp;“(I) the Department of Labor;
+
+&emsp;“(II) the Department of Health and Human Services;
+
+&emsp;“(III) State directors of the Medicaid program under title XIX of the Social Security Act;
+
+&emsp;“(IV) State directors of the State Children's Health Insurance Program under title XXI of the Social Security Act;
+
+&emsp;“(V) employers, including owners of small businesses and their trade or industry representatives and certified human resource and payroll professionals;
+
+&emsp;“(VI) plan administrators and plan sponsors of group health plans (as defined in section 607(1) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1167(1)\]);
+
+&emsp;“(VII) health insurance issuers; and
+
+&emsp;“(VIII) children and other beneficiaries of medical assistance under title XIX of the Social Security Act or child health assistance or other health benefits coverage under title XXI of such Act.
+
+“(iii)
+
+Compensation.—The members of the Working Group shall serve without compensation.
+
+“(iv)
+
+Administrative support.—The Department of Health and Human Services and the Department of Labor shall jointly provide appropriate administrative support to the Working Group, including technical assistance. The Working Group may use the services and facilities of either such Department, with or without reimbursement, as jointly determined by such Departments.
+
+“(v)
+
+Report.—
+
+&emsp;“(I)
+
+Report by working group to the secretaries.—Not later than 18 months after the date of the enactment of this Act, the Working Group shall submit to the Secretary of Labor and the Secretary of Health and Human Services the model form described in clause (i)(II) along with a report containing recommendations for appropriate measures to address the impediments to the effective coordination of coverage between group health plans and the State plans under titles XIX and XXI of the Social Security Act.
+
+&emsp;“(II)
+
+Report by secretaries to the congress.—Not later than 2 months after receipt of the report pursuant to subclause (I), the Secretaries shall jointly submit a report to each House of the Congress regarding the recommendations contained in the report under such subclause.
+
+“(vi)
+
+Termination.—The Working Group shall terminate 30 days after the date of the issuance of its report under clause (v).”
+
+\[For definitions of “CHIP” and “Medicaid” as used in section 311(b)(1)(C) of Pub. L. 111–3, set out above, see section 1(c)(1), (2) of Pub. L. 111–3, set out as a Definitions note under section 1396 of Title 42, The Public Health and Welfare.\]
+
+#### Implementation of 2009 Amendment
+
+Pub. L. 111–3, title III, §311(b)(1)(D), Feb. 4, 2009, 123 Stat. 69, provided that: “The Secretary of Labor and the Secretary of Health and Human Services shall develop the initial model notices under section 701(f)(3)(B)(i)(II) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181(f)(3)(B)(i)(II)\], and the Secretary of Labor shall provide such notices to employers, not later than the date that is 1 year after the date of enactment of this Act \[Feb. 4, 2009\], and each employer shall provide the initial annual notices to such employer's employees beginning with the first plan year that begins after the date on which such initial model notices are first issued. The model coverage coordination disclosure form developed under subparagraph (C) \[set out above\] shall apply with respect to requests made by States beginning with the first plan year that begins after the date on which such model coverage coordination disclosure form is first issued.”
 

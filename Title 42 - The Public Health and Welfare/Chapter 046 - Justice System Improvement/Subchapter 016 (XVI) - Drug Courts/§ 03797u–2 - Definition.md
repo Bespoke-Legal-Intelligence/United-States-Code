@@ -36,5 +36,5 @@ For construction of amendments and provisions set out as a note below by Pub. L.
 
 #### Period for Compliance
 
-Pub. L. 110–199, title I, §103(b), Apr. 9, 2008, 122 Stat. 668, provided that: “Notwithstanding section 2952(2) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797u–1(2)), each grantee under part EE of such Act \[42 U.S.C. 3797u et seq.\] shall have not more than 3 years from the date of the enactment of this Act \[Apr. 9, 2008\] to adopt the definition of ‘violent offender’ under such part, as amended by subsection (a) of this section \[amending this section\].”
+Pub. L. 110–199, title I, §103(b), Apr. 9, 2008, 122 Stat. 668, provided that: “Notwithstanding section 2952(2) ofthe Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797u–1(2)), each grantee under part EE of such Act \[42 U.S.C. 3797u et seq.\] shall have not more than 3 years from the date of the enactment of this Act \[Apr. 9, 2008\] to adopt the definition of ‘violent offender’ under such part, as amended by subsection (a) of this section \[amending this section\].”
 

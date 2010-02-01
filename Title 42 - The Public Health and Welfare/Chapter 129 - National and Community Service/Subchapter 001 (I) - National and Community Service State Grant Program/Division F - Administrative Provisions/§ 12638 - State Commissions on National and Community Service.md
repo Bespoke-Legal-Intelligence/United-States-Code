@@ -8,7 +8,7 @@
 
 #### (2) Alternative administrative entity
 
-&emsp;The chief executive officer of a State may apply to the Corporation for approval to use an alternative administrative entity to carry out the duties otherwise entrusted to a State Commission under this chapter. The chief executive officer shall ensure that any alternative administrative entity used in lieu of a State Commission provides for the individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) of this section to play a significant policymaking role in carrying out the duties otherwise entrusted to a State Commission, including the submission of applications on behalf of the State under sections 12543 and 12582 of this title.
+&emsp;The chief executive officer of a State may apply to the Corporation for approval to use an alternative administrative entity to carry out the duties otherwise entrusted to a State Commission under this chapter. The chief executive officer shall ensure that any alternative administrative entity used in lieu of a State Commission provides for the individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) of this section to play a significant policymaking role in carrying out the duties otherwise entrusted to a State Commission, including the submission of applications on behalf of the State under section 12582 of this title.
 
 #### (b) Appointment and size
 
@@ -36,7 +36,9 @@ Except as provided in subsection (c)(3) of this section, the members of a State 
 
 &emsp;&emsp;(H) An individual between the ages of 16 and 25 who is a participant or supervisor in a program.
 
-&emsp;&emsp;(I) A representative of a national service program described in section 12572(a) of this title, such as a youth corps program described in section 12572(a)(2) of this title.
+&emsp;&emsp;(I) A representative of a national service program described in subsection (a), (b), or (c) of section 12572.
+
+&emsp;&emsp;(J) A representative of the volunteer sector.
 
 #### (2) Sources of other members
 
@@ -54,7 +56,7 @@ Except as provided in subsection (c)(3) of this section, the members of a State 
 
 #### (3) Corporation representative
 
-&emsp;The representative of the Corporation designated under section 12651f(c) of this title for a State shall be an ex officio nonvoting member of the State Commission or alternative administrative entity for that State, unless the State permits the representative to serve as a voting member of the State Commission or alternative administrative entity.
+&emsp;The representative of the Corporation designated under section 12651f(c) of this title for a State shall be an ex officio nonvoting member of the State Commission or alternative administrative entity for that State.
 
 #### (4) Ex officio State representatives
 
@@ -62,7 +64,7 @@ Except as provided in subsection (c)(3) of this section, the members of a State 
 
 #### (5) Limitation on number of State employees as members
 
-&emsp;The number of voting members of a State Commission selected under paragraph (1) or (2) who are officers or employees of the State may not exceed 25 percent (reduced to the nearest whole number) of the total membership of the State Commission.
+&emsp;The number of voting members of a State Commission selected under paragraph (1) or (2)who are officers or employees of the State may not exceed 25 percent (reduced to the nearest whole number) of the total membership of the State Commission.
 
 #### (d) Miscellaneous matters
 
@@ -90,7 +92,7 @@ Except as provided in subsection (c)(3) of this section, the members of a State 
 
 #### (A) General limitation
 
-&emsp;&emsp;Except as provided in subparagraph (B), a voting member of the State Commission (or of an alternative administrative entity)shall not participate in the administration of the grant program (including any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or such positions, to any program or entity) described in subsection (e)(9) of this section if—
+&emsp;&emsp;Except as provided in subparagraph (B), a voting member of the State Commission (or of an alternative administrative entity) shall not participate in the administration of the grant program (including any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or such positions, to any program or entity) described in subsection (e)(9) of this section if—
 
 &emsp;&emsp;&emsp;(i) a grant application relating to such program is pending before the Commission (or such entity); and
 
@@ -98,7 +100,7 @@ Except as provided in subsection (c)(3) of this section, the members of a State 
 
 #### (B) Exception
 
-&emsp;&emsp;If, as a result of the operation of subparagraph (A), the number of voting members of the Commission (or of such entity) is insufficient to establish a quorum for the purpose of administering such program, then voting members excluded from participation by subparagraph (A) may participate in the administration of such program, notwithstanding the limitation in subparagraph (A), to the extent permitted by regulations issued under section 12651d(b)(11) of this title by the Corporation.
+&emsp;&emsp;If, as a result of the operation of subparagraph (A), the number of voting members of the Commission (or of such entity) is insufficient to establish a quorum for the purpose of administering such program, then voting members excluded from participation by subparagraph (A) may participate in the administration of such program, notwithstanding the limitation in subparagraph (A), to the extent permitted by regulations issued under section 12651d(b)(12) of this title by the Corporation.
 
 #### (C) Rule of construction
 
@@ -118,21 +120,25 @@ The State Commission or alternative administrative entity for a State shall be r
 
 &emsp;(1) Preparation of a national service plan for the State that—
 
-&emsp;&emsp;(A) is developed through an open and public process (such as through regional forums, hearings, and other means) that provides for maximum participation and input from national service programs within the State and other interested members of the public;
+&emsp;&emsp;(A) is developed, through an open and public process (such as through regional forums, hearings, and other means) that provides for maximum participation and input from the private sector, organizations, and public agencies, using service and volunteerism as strategies to meet critical community needs, including service through programs funded under the national service laws;
 
-&emsp;&emsp;(B) covers a 3-year period;
+&emsp;&emsp;(B) covers a 3-year period, the beginning of which may be set by the State;
 
-&emsp;&emsp;(C) is updated annually;
+&emsp;&emsp;(C) is subject to approval by the chief executive officer of the State;
 
-&emsp;&emsp;(D) ensures outreach to diverse community-based agencies that serve underrepresented populations, by—
+&emsp;&emsp;(D) includes measurable goals and outcomes for the State national service programs in the State consistent with the performance levels for national service programs as described in section 12639(k) of this title;
 
-&emsp;&emsp;&emsp;(i) using established networks, and registries, at the State level; or
+&emsp;&emsp;(E) ensures outreach to diverse community-based agencies that serve underrepresented populations, through established networks and registries at the State level, or through the development of such networks and registries;
 
-&emsp;&emsp;&emsp;(ii) establishing such networks and registries; and
+&emsp;&emsp;(F) provides for effective coordination of funding applications submitted by the State and other organizations within the State under the national service laws;
 
-&emsp;&emsp;(E) contains such information as the State Commission considers to be appropriate or as the Corporation may require.
+&emsp;&emsp;(G) is updated annually, reflecting changes in practices and policies that will improve the coordination and effectiveness of Federal, State, and local resources for service and volunteerism within the State;
 
-&emsp;(2) Preparation of the applications of the State under sections 12543 and 12582 of this title for financial assistance.
+&emsp;&emsp;(H) ensures outreach to, and coordination with, municipalities (including large cities)and county governments regarding the national service laws; and
+
+&emsp;&emsp;(I) contains such information as the State Commission considers to be appropriate or as the Corporation may require.
+
+&emsp;(2) Preparation of the applications of the State under section 12582 of this title for financial assistance.
 
 &emsp;(3) Assistance in the preparation of the application of the State educational agency for assistance under section 12525 of this title.
 
@@ -144,7 +150,7 @@ The State Commission or alternative administrative entity for a State shall be r
 
 &emsp;&emsp;(A) to plan and implement service programs; and
 
-&emsp;&emsp;(B) to apply for assistance under the national service laws using, if appropriate, information and materials available through a clearinghouse established under section 12653a of this title.
+&emsp;&emsp;(B) to apply for assistance under the national service laws using, if appropriate, information and materials available through a clearinghouse established under section 12653a <sup>1</sup> of this title.
 
 &emsp;(7) Assistance in the provision of health care and child care benefits under section 12594 of this title to participants in national service programs that receive assistance under section 12571 of this title.
 
@@ -154,19 +160,73 @@ The State Commission or alternative administrative entity for a State shall be r
 
 &emsp;(10) Development of projects, training methods, curriculum materials, and other materials and activities related to national service programs that receive assistance directly from the Corporation (to be made available in a case in which such a program requests such a project, method, material, or activity) or from the State using assistance provided under section 12571 of this title, for use by programs that request such projects, methods, materials, and activities.
 
-#### (f) Activity ineligible for assistance
+#### (f) Relief from administrative requirements
+
+Upon approval of a State plan submitted under subsection (e)(1), the Chief Executive Officer may waive for the State, or specify alternatives for the State to, administrative requirements (other than statutory provisions) otherwise applicable to grants made to States under the national service laws, including those requirements identified by the State as impeding the coordination and effectiveness of Federal, State, and local resources for service and volunteerism within the State.
+
+#### (g) State service plan for adults age 55 or older
+
+#### (1) In general
+
+&emsp;Notwithstanding any other provision of this section, to be eligible to receive a grant or allotment under division B or C or to receive a distribution of approved national service positions under division C, a State shall work with appropriate State agencies and private entities to develop a comprehensive State service plan for service by adults age 55 or older.
+
+#### (2) Matters included
+
+&emsp;The State service plan shall include—
+
+&emsp;&emsp;(A) recommendations for policies to increase service for adults age 55 or older, including how to best use such adults as sources of social capital, and how to utilize their skills and experience to address community needs;
+
+&emsp;&emsp;(B) recommendations to the State agency (as defined in section 3002 of this title) on—
+
+&emsp;&emsp;&emsp;(i) a marketing outreach plan to businesses; and
+
+&emsp;&emsp;&emsp;(ii) outreach to—
+
+&emsp;&emsp;&emsp;&emsp;(I) nonprofit organizations;
+
+&emsp;&emsp;&emsp;&emsp;(II) the State educational agency;
+
+&emsp;&emsp;&emsp;&emsp;(III) institutions of higher education; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) other State agencies;
+
+&emsp;&emsp;(C) recommendations for civic engagement and multigenerational activities, such as—
+
+&emsp;&emsp;&emsp;(i) early childhood education and care, family literacy, and after school programs;
+
+&emsp;&emsp;&emsp;(ii) respite services for adults age 55 or older and caregivers; and
+
+&emsp;&emsp;&emsp;(iii) transitions for older adults age 55 or older to purposeful work in their post-career lives; and
+
+&emsp;&emsp;(D) recommendations for encouraging the development of Encore service programs in the State.
+
+#### (3) Knowledge base
+
+&emsp;The State service plan shall incorporate the current knowledge base (as of the time of the plan) regarding—
+
+&emsp;&emsp;(A) the economic impact of the roles of workers age 55 or older in the economy;
+
+&emsp;&emsp;(B) the social impact of the roles of such workers in the community; and
+
+&emsp;&emsp;(C) the health and social benefits of active engagement for adults age 55 or older.
+
+#### (4) Publication
+
+&emsp;The State service plan shall be made available to the public and be transmitted to the Chief Executive Officer.
+
+#### (h) Activity ineligible for assistance
 
 A State Commission or alternative administrative entity may not directly carry out any national service program that receives assistance under section 12571 of this title.
 
-#### (g) Delegation
+#### (i) Delegation
 
-Subject to such requirements as the Corporation may prescribe, a State Commission may delegate nonpolicymaking duties to a State agency or public or private nonprofit organization.
+Subject to such requirements as the Corporation may prescribe, a State Commission maydelegate nonpolicymaking duties to a State agency or public or private nonprofit organization.
 
-#### (h) Approval of State Commission or alternative
+#### (j) Approval of State Commission or alternative
 
 #### (1) Submission to Corporation
 
-&emsp;The chief executive officer for a State shall notify the Corporation of the establishment ordesignation of the State Commission or use of an alternative administrative entity for the State. The notification shall include a description of—
+&emsp;The chief executive officer for a State shall notify the Corporation of the establishment or designation of the State Commission or use of an alternative administrative entity for the State. The notification shall include a description of—
 
 &emsp;&emsp;(A) the composition and membership of the State Commission or alternative administrative entity; and
 
@@ -192,7 +252,7 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 &emsp;An alternative administrative entity approved by the Corporation under this subsection shall have the same rights as a State Commission.
 
-#### (i) Coordination
+#### (k) Coordination
 
 #### (1) Coordination with other State agencies
 
@@ -210,9 +270,9 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 &emsp;&emsp;&emsp;(i) carry out such a function jointly;
 
-&emsp;&emsp;&emsp;(ii) to <sup>1</sup> assign responsibility for such a function to the Commission or entity; or
+&emsp;&emsp;&emsp;(ii) to <sup>2</sup> assign responsibility for such a function to the Commission or entity; or
 
-&emsp;&emsp;&emsp;(iii) to <sup>1</sup> assign responsibility for such a function to the division.
+&emsp;&emsp;&emsp;(iii) to <sup>2</sup> assign responsibility for such a function to the division.
 
 #### (C) Information
 
@@ -222,7 +282,7 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 &emsp;&emsp;&emsp;(ii) opportunities to coordinate activities.
 
-#### (j) Liability
+#### (<i>l</i>) Liability
 
 #### (1) Liability of State
 
@@ -232,11 +292,11 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 #### (A) In general
 
-&emsp;&emsp;A member of the State Commission or alternative administrative entity shall have no personal liability with respect to any claim arising out of or resulting from any act or omission by such person, within the scope of the service of the member on the State Commission or alternative administrative entity.
+&emsp;&emsp;A member of the State Commission or alternative administrative entity shall haveno personal liability with respect to any claim arising out of or resulting from any act or omission by such person, within the scope of the service of the member on the State Commission or alternative administrative entity.
 
 #### (B) Limitation
 
-&emsp;&emsp;This paragraph shall not be construed to limit personal liability for criminal acts oromissions, willful or malicious misconduct, acts or omissions for private gain, or any other act or omission outside the scope of the service of such member on the State Commission or alternative administrative entity.
+&emsp;&emsp;This paragraph shall not be construed to limit personal liability for criminal acts or omissions, willful or malicious misconduct, acts or omissions for private gain, or any other act or omission outside the scope of the service of such member on the State Commission or alternative administrative entity.
 
 #### (3) Effect on other law
 
@@ -248,13 +308,15 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 &emsp;&emsp;(C) to limit or alter in any way the immunities that are available under applicable law for State officials and employees not described in this subsection.
 
-(Pub. L. 101–610, title I, §178, as added and amended Pub. L. 103–82, title II, §201(a), title IV, §405(p)(1), Sept. 21, 1993, 107 Stat. 867, 922.)
+(Pub. L. 101–610, title I, §178, as added and amended Pub. L. 103–82, title II, §201(a), title IV, §405(p)(1), Sept. 21, 1993, 107 Stat. 867, 922; Pub. L. 111–13, title I, §1606, Apr. 21, 2009, 123 Stat. 1530.)
 
 #### References in Text
 
-The Domestic Volunteer Service Act of 1973, referred to in subsecs. (c)(2)(E) and (e)(5), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsecs. (c)(2)(E) and (e)(5), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified principally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
-The Community Services Block Grant Act, referred to in subsec. (i)(1), is subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
+Section 12653a of this title, referred to in subsec. (e)(6)(B), was in the original “section 198A”, meaning section 198A of Pub. L. 101–610, as added by section 104(c) of Pub. L. 103–82, which was repealed, and section 198B was redesignated section 198A, by Pub. L. 111–13, title I, §1803(a)(1), (b), Apr. 21, 2009, 123 Stat. 1554. Provisions similar to section 12653a are now contained in section 12653<i>o</i> of this title.
+
+The Community Services Block Grant Act, referred to in subsec. (k)(1), is subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
 
 #### Prior Provisions
 
@@ -262,7 +324,27 @@ A prior section 12638, Pub. L. 101–610, title I, §178, Nov. 16, 1990, 104 Sta
 
 #### Amendments
 
+2009—Subsec. (a)(2). Pub. L. 111–13, §1606(1), substituted “section 12582” for “sections 12543 and 12582”.
+
+Subsec. (c)(1)(I). Pub. L. 111–13, §1606(2)(A), substituted “subsection (a), (b), or (c) of section 12572.” for “section 12572(a) of this title, such as a youth corps program described in section 12572(a)(2) of this title.”
+
+Subsec. (c)(1)(J). Pub. L. 111–13, §1606(2)(B), added subpar. (J).
+
+Subsec. (c)(3). Pub. L. 111–13, §1606(3), struck out “, unless the State permits the representative to serve as a voting member of the State Commission or alternative administrative entity” before period at end.
+
+Subsec. (d)(6)(B). Pub. L. 111–13, §1606(4), substituted “section 12651d(b)(12)” for “section 12651d(b)(11)”.
+
+Subsec. (e)(1). Pub. L. 111–13, §1606(5)(A), added par. (1) and struck out former par. (1) which related to preparation of a national service plan for the State.
+
+Subsec. (e)(2). Pub. L. 111–13, §1606(5)(B), substituted “section 12582” for “sections 12543 and 12582”.
+
+Subsecs. (f) to (<i>l</i>). Pub. L. 111–13, §1606(6), (7), added subsecs. (f) and (g) and redesignated former subsecs. (f) to (j) as (h) to (<i>l</i>), respectively.
+
 1993—Subsec. (i)(2)(A). Pub. L. 103–82, §405(p)(1), substituted “the Corporation” for “ACTION, or of the Corporation,” before “that carries out”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -284,5 +366,7 @@ Use of alternatives to state commission.—If a State does not have a State Comm
 
 Application of subsection.—This subsection shall apply only during the 27-month period beginning on the date of the enactment of this Act \[Sept. 21, 1993\].”
 
-<i><sup>1</sup></i><i> So in original. The word “to” probably should not appear.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “to” probably should not appear.</i>
 

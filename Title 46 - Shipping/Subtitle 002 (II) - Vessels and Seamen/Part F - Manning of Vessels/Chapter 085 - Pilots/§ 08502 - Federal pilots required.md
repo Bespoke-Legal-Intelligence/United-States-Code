@@ -24,7 +24,7 @@
 
 (g)(1) The Secretary shall designate by regulation the areas of the approaches to and waters of Prince William Sound, Alaska, if any, on which a vessel subject to this section is not required to be under the direction and control of a pilot licensed under section 7101 of this title.
 
-(2) In any area of Prince William Sound, Alaska, where a vessel subject to this section is required to be under the direction and control of a pilot licensed under section 7101 of this title, the pilot may not be a member of the crew of that vessel and shall be a pilot licensed by the State of Alaska who is operating under a Federal license, when the vessel is navigating waters between 60°49 North latitude and the Port of Valdez, Alaska.
+(2) In any area of Prince William Sound, Alaska, where a vessel subject to this section is required to be under the direction and control of a pilot licensed under section 7101 of this title, the pilot may not be a member of the crew of that vessel and shall be a pilot licensed by the State of Alaska who is operating under a Federal license, when the vessel is navigating waters between 60°49′ North latitude and the Port of Valdez, Alaska.
 
 (h) The Secretary shall designate waters on which tankers over 1,600 gross tons subject to this section shall have on the bridge a master or mate licensed to direct and control the vessel under section 7101(c)(1) of this title who is separate and distinct from the pilot required under subsection (a) of this section.
 

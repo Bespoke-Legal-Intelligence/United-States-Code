@@ -106,15 +106,17 @@ For purposes of this section—
 
 #### (iv) Application of subparagraph to certain obligations issued after August 7, 1986
 
-&emsp;&emsp;<b>For application of this subparagraph to certain obligations issued after August 7, 1986, see section 265(b)(3).</b>
+&emsp;&emsp;<b>For application of this subparagraph to certain obligations issued after August 7, 1986, see section 265(b)(3). That portion of any obligation not taken into account under paragraph (2)(A) of section 265(b) by reason of paragraph (7) of such section shall be treated for purposes of this section as having been acquired on August 7, 1986.</b>
 
 #### (2) Section 1245 and 1250 property
 
 &emsp;The terms “section 1245 property” and “section 1250 property” have the meanings given such terms by sections 1245(a)(3) and 1250(c), respectively.
 
-(Added Pub. L. 97–248, title II, §204(a), Sept. 3, 1982, 96 Stat. 423; amended Pub. L. 97–354, §5(a)(27), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–448, title III, §306(a)(2), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §68(a), (b), title VII, §712(a)(1)(A), (2)–(4), July 18, 1984, 98 Stat. 588, 946; Pub. L. 99–514, title II, §201(d)(5), title IV, §§411(a), (b)(2)(C)(ii), 412(b)(1), title IX, §§901(b)(4), (d)(4)(C), 902(c), title XVIII, §§1804(k)(1), (3)(A), 1854(c)(1), 1876(b)(1), Oct. 22, 1986, 100 Stat. 2140, 2225, 2227, 2378, 2380, 2382, 2809, 2878, 2898; Pub. L. 100–418, title I, §1941(b)(5), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1009(b)(4), (5), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 101–508, title XI, §11801(c)(12)(B), Nov. 5, 1990, 104 Stat. 1388–527; Pub. L. 104–188, title I, §§1602(b)(1), 1616(b)(5), Aug. 20, 1996, 110 Stat. 1833, 1856; Pub. L. 110–172, §11(g)(6), Dec. 29, 2007, 121 Stat. 2490.)
+(Added Pub. L. 97–248, title II, §204(a), Sept. 3, 1982, 96 Stat. 423; amended Pub. L. 97–354, §5(a)(27), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–448, title III, §306(a)(2), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §68(a), (b), title VII, §712(a)(1)(A), (2)–(4), July 18, 1984, 98 Stat. 588, 946; Pub. L. 99–514, title II, §201(d)(5), title IV, §§411(a), (b)(2)(C)(ii), 412(b)(1), title IX, §§901(b)(4), (d)(4)(C), 902(c), title XVIII, §§1804(k)(1), (3)(A), 1854(c)(1), 1876(b)(1), Oct. 22, 1986, 100 Stat. 2140, 2225, 2227, 2378, 2380, 2382, 2809, 2878, 2898; Pub. L. 100–418, title I, §1941(b)(5), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1009(b)(4), (5), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 101–508, title XI, §11801(c)(12)(B), Nov. 5, 1990, 104 Stat. 1388–527; Pub. L. 104–188, title I, §§1602(b)(1), 1616(b)(5), Aug. 20, 1996, 110 Stat. 1833, 1856; Pub. L. 110–172, §11(g)(6), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 111–5, div. B, title I, §1501(b), Feb. 17, 2009, 123 Stat. 353.)
 
 #### Amendments
+
+2009—Subsec. (e)(1)(B)(iv). Pub. L. 111–5 inserted at end “That portion of any obligation not taken into account under paragraph (2)(A) of section 265(b) by reason of paragraph (7) of such section shall be treated for purposes of this section as having been acquired on August 7, 1986.”
 
 2007—Subsec. (a)(4), (5). Pub. L. 110–172, §11(g)(6)(A), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “In the case of taxable years beginning after December 31, 1984, section 923(a) shall be applied with respect to any FSC by substituting—
 
@@ -214,6 +216,10 @@ Subsec. (b). Pub. L. 97–354, §5(a)(27)(A), substituted “a corporation” fo
 
 Subsec. (e)(2), (3). Pub. L. 97–354, §5(a)(27)(B), redesignated par. (3) as (2). Former par. (2), defining “applicable corporation”, was struck out.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–5 applicable to obligations issued after Dec. 31, 2008, see section 1501(c) of Pub. L. 111–5, set out as a note under section 265 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by section 1602(b)(1) of Pub. L. 104–188 applicable to loans made after Aug. 20, 1996, with exception and provisions relating to certain refinancings, see section 1602(c) of Pub. L. 104–188, set out as an Effective Date of Repeal note under former section 133 of this title.
@@ -240,7 +246,7 @@ Amendment by section 901(b)(4), (d)(4)(C) of Pub. L. 99–514 applicable to taxa
 
 Amendment by section 902(c) of Pub. L. 99–514 applicable to taxable years ending after Dec. 31, 1986, with certain exceptions and qualifications, see section 902(f) of Pub. L. 99–514, set out as a note under section 265 of this title.
 
-Section 1804(k)(1) of Pub. L. 99–514 provided that amendment made by section 1804(k)(1) of Pub. L. 99–514is effective with respect to taxable years beginning after Dec. 31, 1982.
+Section 1804(k)(1) of Pub. L. 99–514 provided that amendment made by section 1804(k)(1) of Pub. L. 99–514 is effective with respect to taxable years beginning after Dec. 31, 1982.
 
 Amendment by sections 1804(k)(3)(A), 1854(c)(1), and 1876(b)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -262,7 +268,7 @@ Pollution control facilities.—The amendments made by this section to section 2
 
 “(4)
 
-Drilling and mining costs.—The amendments made by this section to section 291(b) of such Code shall apply to expenditures after December 31, 1984, in taxable years ending after such date.”
+Drilling and mining costs.—The amendments made by this section to section 291(b) of such Code shallapply to expenditures after December 31, 1984, in taxable years ending after such date.”
 
 Amendment by section 712 of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 

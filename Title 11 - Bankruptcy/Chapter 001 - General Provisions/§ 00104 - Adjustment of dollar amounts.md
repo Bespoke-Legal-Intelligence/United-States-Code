@@ -30,9 +30,9 @@ If the Judicial Conference has policy recommendations concerning the appropriate
 
 #### Amendments
 
-2008—Pub. L. 110–406 redesignated subsec. (b)(1) as (a), subpars. (A) and (B) of subsec. (b)(1) as pars. (1) and (2), respectively, of subsec. (a), and pars. (2) and (3) of subsec. (b) as subsecs. (b) and (c), respectively, substituted “subsection (a)” for “paragraph (1)” in subsec. (c), and struck out former subsec. (a) which read as follows: “The Judicial Conference of the United States shall transmit to the Congress and to the President before May 1, 1985, and before May 1 of every sixth year after May 1, 1985, a recommendation for the uniform percentage adjustment of each dollar amount in this title and in section 1930 of title 28.”
+2008—Pub. L. 110–406 redesignated subsec. (b)(1) as (a), subpars. (A) and (B) of subsec. (b)(1) as pars. (1) and (2), respectively, of subsec. (a), and pars. (2) and (3) of subsec. (b) as subsecs. (b) and (c), respectively, substituted “subsection (a)” for “paragraph (1)” in subsec. (c), and struck out former subsec. (a) which read as follows:“The Judicial Conference of the United States shall transmit to the Congress and to the President before May 1, 1985, and before May 1 of every sixth year after May 1, 1985, a recommendation for the uniform percentage adjustment of each dollar amount in this title and in section 1930 of title 28.”
 
-2005—Subsec. (b)(1). Pub. L. 109–8, §1202(1)–(4), in introductory provisions, inserted “101(19A),” after “101(18),”, “522(f)(3) and 522(f)(4),” after “522(d),”, and“541(b), 547(c)(9),” after “523(a)(2)(C),” and substituted “1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28” for “and 1325(b)(3)”.
+2005—Subsec. (b)(1). Pub. L. 109–8, §1202(1)–(4), in introductory provisions, inserted “101(19A),” after “101(18),”, “522(f)(3) and 522(f)(4),” after “522(d),”, and “541(b), 547(c)(9),” after “523(a)(2)(C),” and substituted “1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28” for “and 1325(b)(3)”.
 
 Pub. L. 109–8, §1002, inserted “101(18),” after “101(3),” in introductory provisions.
 
@@ -72,69 +72,71 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Adjustment of Dollar Amounts
 
-By notice dated Feb. 14, 2007, 72 F.R. 7082, the Judicial Conference of the United States adjusted the dollar amounts in provisions specified in former subsec. (b) of this section, effective Apr. 1, 2007, as follows:
+By notice dated Feb. 19, 2010, 75 F.R. 8747, the Judicial Conference of the United States adjusted the dollar amounts in provisions specified in subsec. (a) of this section, effective Apr. 1, 2010, as follows:
 
 &nbsp;
 
 | 28 U.S.C. | Dollar amount to be adjusted | New (adjusted) dollar amount |
 | :--- | :---: | ---: |
-| 1409(b)—a trustee may commence a proceeding arising in or related to a case to recover: |  |  |
-| (1)—money judgment of or property worth less than | $1,000 | $1,100 |
-| (2)—a consumer debt less than | 15,000 | 16,425 |
-| (3)—a non consumer debt against a non insider less than | 10,000 | 10,950 |
+| 1409(b)—a trustee may commence a proceeding arising in or related to a case to recover |  |  |
+| (1)—money judgment of or property worth less than | $1,100 | $1,175 |
+| (2)—a consumer debt less than | 16,425 | 17,575 |
+| (3)—a non consumer debt against a non insider less than | 10,950 | 11,725 |
 
 &nbsp;
 
 | 11 U.S.C. | Dollar amount to be adjusted | New (adjusted) dollar amount |
 | :--- | :---: | ---: |
-| Section 101(3)—definition of assisted person | $150,000 | $164,250 |
-| Section 101(18)—definition of family farmer | 3,237,000 <sup>1</sup> | 3,544,525 <sup>1</sup> |
-| 101(19A)—definition of family fisherman | 1,500,000 <sup>1</sup> | 1,642,500 <sup>1</sup> |
-| 101(51D)—definition of small business debtor | 2,000,000 <sup>1</sup> | 2,190,000 <sup>1</sup> |
-| Section 109(e)—allowable debt limits for individual filing bankruptcy under Chapter 13 | 307,675 <sup>1</sup>922,975 <sup>1</sup> | 336,900 <sup>1</sup>1,010,650 <sup>1</sup> |
-| Section 303(b)—minimum aggregate claims needed for the commencement of involuntary chapter 7 or chapter 11 bankruptcy: |  |  |
-| (1)—in paragraph (1) | 12,300 | 13,475 |
-| (2)—in paragraph (2) | 12,300 | 13,475 |
-| Section 507(a)—priority expenses and claims |  |  |
-| (1)—in paragraph (4) | 10,000 | 10,950 |
-| (2)—in paragraph (5) | 10,000 | 10,950 |
-| (3)—in paragraph (6) | 4,925 | 5,400 |
-| (4)—in paragraph (7) | 2,225 | 2,425 |
-| Section 522(d)—value of property exemptions allowed to the debtor |  |  |
-| (1)—in paragraph (1) | 18,450 | 20,200 |
-| (2)—in paragraph (2) | 2,950 | 3,225 |
-| (3)—in paragraph (3) | 4759,850 | 52510,775 |
-| (4)—in paragraph (4) | 1,225 | 1,350 |
-| (5)—in paragraph (5) | 9759,250 | 1,07510,125 |
-| (6)—in paragraph (6) | 1,850 | 2,025 |
-| (7)—in paragraph (8) | 9,850 | 10,775 |
-| (8)—in paragraph (11)(D) | 18,450 | 20,200 |
-| 522(f)(3)—exception to lien avoidance under certain state laws | 5,000 | 5,475 |
-| 522(f)(4)—items excluded from definition of household goods for lien avoidance purposes | 500 <sup>1</sup> | 550 <sup>1</sup> |
-| 522(n)—maximum aggregate value of assets in individual retirement accounts exempted | 1,000,000 | 1,095,000 |
-| 522(p)—qualified homestead exemption | 125,000 | 136,875 |
-| 522(q)—state homestead exemption. | 125,000 | 136,875 |
-| 523(a)(2)(C)—exceptions to discharge: |  |  |
-| in subclause (i)(I)—consumer debts, incurred \< = 90 days before filing owed to a single creditor in the aggregate | 500 | 550 |
-| in subclause (i)(II)—cash advances incurred \< = 70 days before filing in the aggregate | 750 | 825 |
-| 541(b)—property of the estate exclusions: |  |  |
-| (1)—in paragraph (5)(C)—education IRA funds in the aggregate | 5,000 | 5,475 |
-| (2)—in paragraph (6)(C)—pre-purchased tuition credits in the aggregate | 5,000 | 5,475 |
-| 547(c)(9)—preferences, trustee may not avoid a transfer if, in a case filed by a debtor whose debts are not primarily consumer debts, the aggregate value of property is less than | 5,000 | 5,475 |
-| 707(b)—dismissal of a case or conversion to a case under chapter 11 or 13 (means test): |  |  |
-| (1)—in paragraph (2)(A)(i)(I) | 6,000 | 6,575 |
-| (2)—in paragraph (2)(A)(i)(II) | 10,000 | 10,950 |
-| (3)—in paragraph (2)(A)(ii)(IV) | 1,500 | 1,650 |
-| (4)—in paragraph (5)(B) | 1,000 | 1,100 |
-| (5)—in paragraph 6(C) | 525 | 575 |
-| (6)—in paragraph 7(A) | 525 | 575 |
-| 1322(d)—contents of chapter 13 plan, monthly income | 525 <sup>1</sup> | 575 <sup>1</sup> |
-| 1325(b)—chapter 13 confirmation of plan, disposable income | 525 <sup>1</sup> | 575 <sup>1</sup> |
-| 1326(b)(3)—payments to former chapter 7 trustee | 25 | 25 |
+| 101(3)—definition of assisted person | $164,250 | $175,750 |
+| 101(18)(A) \& (B)(ii)—definition of family farmer | 3,544,525 (each time it appears) | 3,792,650 (each time it appears). |
+| 101(19A)(A)(i) \& (b)(ii)(II)—definition of family fisherman | 1,642,500 (each time it appears) | 1,757,475 (each time it appears). |
+| 101(51D)(A) \& (B)—definition of small business debtor | 2,190,000 (each time it appears) | 2,343,300 (each time it appears). |
+| 109(e)—allowable debt limits for individual filing bankruptcy under chapter 13 | 336,900 (each time it appears)1,010,650 (each time it appears) | 360,475 (each time it appears).1,081,400 (each time it appears). |
+| 303(b)—minimum aggregate claims needed for the commencement of involuntary chapter 7 or chapter 11 bankruptcy |  |  |
+| (1)—in paragraph (1) | 13,475 | 14,425 |
+| (2)—in paragraph (2) | 13,475 | 14,425 |
+| 507(a)—priority expenses and claims |  |  |
+| (1)—in paragraph (4) | 10,950 | 11,725 |
+| (2)—in paragraph (5) | 10,950 | 11,725 |
+| (3)—in paragraph (6) | 5,400 | 5,775 |
+| (4)—in paragraph (7) | 2,425 | 2,600 |
+| 522(d)—value of property exemptions allowed to the debtor |  |  |
+| (1)—in paragraph (1) | 20,200 | 21,625 |
+| (2)—in paragraph (2) | 3,225 | 3,450 |
+| (3)—in paragraph (3) | 52510,775 | 55011,525 |
+| (4)—in paragraph (4) | 1,350 | 1,450 |
+| (5)—in paragraph (5) | 1,07510,125 | 1,15010,825 |
+| (6)—in paragraph (6) | 2,025 | 2,175 |
+| (7)—in paragraph (8) | 10,775 | 11,525 |
+| (8)—in paragraph (11)(D) | 20,200 | 21,625 |
+| 522(f)(3)(B)—exception to lien avoidance under certain state laws | 5,475 | 5,850 |
+| 522(f)(4)(B)—items excluded from definition of household goods for lien avoidance purposes | 550 (each time it appears) | 600 (each time it appears). |
+| 522(n)—maximum aggregate value of assets in individual retirement accounts exempted | 1,095,000 | 1,171,650 |
+| 522(p)(1)—qualified homestead exemption | 136,875 | 146,450 |
+| 522(q)(1)—state homestead exemption | 136,875 | 146,450 |
+| 523(a)(2)(C)—exceptions to discharge |  |  |
+| in subclause (i)(I)—consumer debts, incurred \< = 90 days before filing owed to a single creditor in the aggregate | 550 | 600 |
+| in subclause (i)(II)—cash advances incurred \< = 70 days before filing in the aggregate | 825 | 875 |
+| 541(b)—property of the estate exclusions |  |  |
+| (1)—in paragraph (5)(C)—education IRA funds in the aggregate | 5,475 | 5,850 |
+| (2)—in paragraph (6)(C)—pre-purchased tuition credits in the aggregate | 5,475 | 5,850 |
+| 547(c)(9)—preferences, trustee may not avoid a transfer if, in a case filed by a debtor whose debts are not primarily consumer debts, the aggregate value of property is less than | 5,475 | 5,850 |
+| 707(b)—dismissal of a case or conversion to a case under chapter 11 or 13 (means test) |  |  |
+| (1)—in paragraph (2)(A)(i)(I) | 6,575 | 7,025 |
+| (2)—in paragraph (2)(A)(i)(II) | 10,950 | 11,725 |
+| (3)—in paragraph (2)(A)(ii)(IV) | 1,650 | 1,775 |
+| (4)—in paragraph (2)(B)(iv)(I) | 6,575 | 7,025 |
+| (5)—in paragraph (2)(B)(iv)(II) | 10,950 | 11,725 |
+| (6)—in paragraph (5)(B) | 1,100 | 1,175 |
+| (7)—in paragraph 6(C) | 575 | 625 |
+| (8)—in paragraph 7(A)(iii) | 575 | 625 |
+| 1322(d)(1)(c)\[(C)\] \& (2)(c)\[(C)\]—contents of chapter 13 plan, monthly income | 575 (each time it appears) | 625 (each time it appears). |
+| 1325(b)(3) \& (b)(4)—chapter 13 confirmation of plan, disposable income | 575 (each time it appears) | 625 (each time it appears). |
+| 1326(b)(3)(B)—payments to former chapter 7 trustee | 25 | 25 |
 
-<sup>1</sup> Each time it appears.
+Similar notices by the Judicial Conference of the United States adjusting the dollar amounts in provisions specified in subsec. (a) of this section were contained in the following:
 
-Similar notices by the Judicial Conference of the United States adjusting the dollar amounts in provisions specified in former subsec. (b) of this section, were contained in the following:
+Feb. 14, 2007, 72 F.R. 7082, effective Apr. 1, 2007.
 
 Feb. 18, 2004, 69 F.R. 8482, effective Apr. 1, 2004.
 

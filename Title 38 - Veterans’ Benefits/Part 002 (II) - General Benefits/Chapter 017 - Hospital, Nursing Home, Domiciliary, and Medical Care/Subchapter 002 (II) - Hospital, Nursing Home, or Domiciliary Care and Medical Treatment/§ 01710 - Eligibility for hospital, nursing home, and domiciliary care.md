@@ -36,13 +36,13 @@
 
 &emsp;(B) Any veteran who the Secretary determines has no adequate means of support.
 
-(c) While any veteran is receiving hospital care or nursing home care in any Department facility, the Secretary may, within the limits of Department facilities, furnish medical services to correct or treat any non-service-connecteddisability of such veteran, in addition to treatment incident to the disability for which such veteran is hospitalized, if the veteran is willing, and the Secretary finds such services to be reasonably necessary to protect the health of such veteran. The Secretary may furnish dental services and treatment, and related dental appliances, under this subsection for a non-service-connected dental condition or disability of a veteran only (1) to the extent that the Secretary determines that the dental facilities of the Department to be used to furnish such services, treatment, or appliances are not needed to furnish services, treatment, or appliances for dental conditions or disabilities described in section 1712(a) of this title, or (2) if (A) such non-service-connected dental condition or disability is associated with or aggravating a disability for which such veteran is receiving hospital care, or (B) a compelling medical reason or a dental emergency requires furnishing dental services, treatment, or appliances (excluding the furnishing of such services, treatment, or appliances of a routine nature) to such veteran during the period of hospitalization under this section.
+(c) While any veteran is receiving hospital care or nursing home care in any Department facility, the Secretary may, within the limits of Department facilities, furnish medical services to correct or treat any non-service-connected disability of such veteran, in addition to treatment incident to the disability for which such veteran is hospitalized, if the veteran is willing, and the Secretary finds such services to be reasonably necessary to protect the health of such veteran. The Secretary may furnish dental services and treatment, and related dental appliances, under this subsection for a non-service-connected dental condition or disability of a veteran only (1) to the extent that the Secretary determines that the dental facilities of the Department to be used to furnish such services, treatment, or appliances are not needed to furnish services, treatment, or appliances for dental conditions or disabilities described in section 1712(a) of this title, or (2) if (A) such non-service-connected dental condition or disability is associated with or aggravating a disability for which such veteran is receiving hospital care, or (B) a compelling medical reason or a dental emergency requires furnishing dental services, treatment, or appliances (excluding the furnishing of such services, treatment, or appliances of a routine nature) to such veteran during the period of hospitalization under this section.
 
 (d) In no case may nursing home care be furnished in a hospital not under the direct jurisdiction of the Secretary except as provided in section 1720 of this title.
 
 (e)(1)(A) A Vietnam-era herbicide-exposed veteran is eligible (subject to paragraph (2)) for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such exposure.
 
-(B) A radiation-exposed veteran is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any disease suffered by the veteran that is—
+(B) A radiation-exposed veteran is eligible for hospital care, medical services, and nursinghome care under subsection (a)(2)(F) for any disease suffered by the veteran that is—
 
 &emsp;(i) a disease listed in section 1112(c)(2) of this title; or
 
@@ -76,7 +76,7 @@
 
 (4) For purposes of this subsection—
 
-&emsp;(A) The term “Vietnam-era herbicide-exposed veteran” means a veteran (i) who served on active duty in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, and (ii) who the Secretary finds may have been exposed duringsuch service to dioxin or was exposed during such service to a toxic substance found in a herbicide or defoliant used for military purposes during such period.
+&emsp;(A) The term “Vietnam-era herbicide-exposed veteran” means a veteran (i) who served on active duty in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, and (ii) who the Secretary finds may have been exposed during such service to dioxin or was exposed during such service to a toxic substance found in a herbicide or defoliant used for military purposes during such period.
 
 &emsp;(B) The term “radiation-exposed veteran” has the meaning given that term in section 1112(c)(3) of this title.
 
@@ -130,7 +130,7 @@
 
 (F) A veteran may not be required to make a payment under this subsection or subsection (g) for any days of care in excess of 360 days of care during any 365-calendar-day period.
 
-(4) In the case of a veteran covered by this subsection who is also described by section1705(a)(7) of this title, the amount for which the veteran shall be liable to the United States for hospital care under this subsection shall be an amount equal to 20 percent of the total amount for which the veteran would otherwise be liable for such care under subparagraphs (2)(B) and (3)(A) but for this paragraph.
+(4) In the case of a veteran covered by this subsection who is also described by section 1705(a)(7) of this title, the amount for which the veteran shall be liable to the United States for hospital care under this subsection shall be an amount equal to 20 percent of the total amount for which the veteran would otherwise be liable for such care under subparagraphs (2)(B) and (3)(A) but for this paragraph.
 
 (5) For the purposes of this subsection, the term “inpatient Medicare deductible” means the amount of the inpatient hospital deductible in effect under section 1813(b) of the Social Security Act (42 U.S.C. 1395e(b)) on the first day of the 365-day period applicable under paragraph (3) of this subsection.
 
@@ -262,7 +262,7 @@ Subsec. (e)(1)(A), (B). Pub. L. 104–262, §102(a)(1), added subpars. (A) and (
 
 > is eligible for hospital care and nursing home care under subsection (a)(1)(G) of this section for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such exposure.
 
-“(B) Subject to paragraphs (2) and (3) of this subsection, a veteran who the Secretary finds was exposedwhile serving on active duty to ionizing radiation from the detonation of a nuclear device in connection with such veteran's participation in the test of such a device or with the American occupation of Hiroshima and Nagasaki, Japan, during the period beginning on September 11, 1945, and ending on July 1, 1946, is eligible for hospital care and nursing home care under subsection (a)(1)(G) of this section for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such exposure.”
+“(B) Subject to paragraphs (2) and (3) of this subsection, a veteran who the Secretary finds was exposed while serving on active duty to ionizing radiation from the detonation of a nuclear device in connection with such veteran's participation in the test of such a device or with the American occupation of Hiroshima and Nagasaki, Japan, during the period beginning on September 11, 1945, and ending on July 1, 1946, is eligible for hospital care and nursing home care under subsection (a)(1)(G) of this section for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such exposure.”
 
 Subsec. (e)(1)(C). Pub. L. 104–262, §101(d)(3), substituted “hospital care, medical services, and nursing home care under subsection (a)(2)(F)” for “hospital care and nursing home care under subsection (a)(1)(G) of this section”.
 
@@ -278,7 +278,7 @@ Subsec. (e)(4)(A). Pub. L. 104–275 substituted “during the period beginning 
 
 Subsec. (f)(1). Pub. L. 104–262, §101(d)(4)(A), substituted “subsection (a)(3)” for “subsection (a)(2)”.
 
-Subsec. (f)(3)(E). Pub. L. 104–262, §101(d)(4)(B), substituted “paragraph (3) of subsection (a)” for “section 1712(a) of this title” and “subsection (g)” for “section 1712(f) of this title”.
+Subsec. (f)(3)(E). Pub. L. 104–262, §101(d)(4)(B), substituted “paragraph (3) of subsection (a)” for “section1712(a) of this title” and “subsection (g)” for “section 1712(f) of this title”.
 
 Subsec. (f)(3)(F). Pub. L. 104–262, §101(d)(4)(C), substituted “subsection (g)” for “section 1712(f) of this title”.
 
@@ -382,7 +382,7 @@ Pub. L. 99–272, §19011(a)(1), amended subsec. (a) generally. Prior to amendme
 
 &emsp;“(2) a veteran whose discharge or release from the active military, naval, or air service was for a disability incurred or aggravated in line of duty;
 
-&emsp;“(3) a person (A) who is in receipt of, or but for the receipt of retirement pay would be entitled to, disability compensation, or (B) who, but for a suspension pursuant to section 351 of this title (or both such a suspension and the receipt of retired pay), would be entitled to disability compensation, but only to the extent that such person's continuing eligibility for such care is provided for in the judgment or settlement described in such section;
+&emsp;“(3) a person (A) who is in receipt of, or but for the receipt of retirement pay would be entitled to, disability compensation, or (B) who, but for a suspension pursuant to section 351 of this title (or both such a suspension and the receipt of retired pay), would beentitled to disability compensation, but only to the extent that such person's continuing eligibility for such care is provided for in the judgment or settlement described in such section;
 
 &emsp;“(4) a veteran who is a former prisoner of war;
 
@@ -722,7 +722,7 @@ Section 105 of Pub. L. 103–452 provided that: “Any action of the Secretary o
 
 #### Reimbursement for Hospital, Nursing Home or Outpatient Services Expenses
 
-Section 1(c)(2) of Pub. L. 103–210 directed Secretary of Veterans Affairs, on request, to reimburse any veteran who paid the United States an amount under 38 U.S.C. 1710(f) or 1712(f) for hospital care, nursing home care, or outpatient services furnished by the Secretary to the veteran before Dec. 20, 1993, on the basis of a findingthat the veteran may have been exposed to a toxic substance or environmental hazard during the Persian Gulf War, with amount of reimbursement to be amount that was paid by the veteran for such care or services.
+Section 1(c)(2) of Pub. L. 103–210 directed Secretary of Veterans Affairs, on request, to reimburse any veteran who paid the United States an amount under 38 U.S.C. 1710(f) or 1712(f) for hospital care, nursing home care, or outpatient services furnished by the Secretary to the veteran before Dec. 20, 1993, on the basis of a finding that the veteran may have been exposed to a toxic substance or environmental hazard during the Persian Gulf War, with amount of reimbursement to be amount that was paid by the veteran for such care or services.
 
 #### Health Care Services for Women
 

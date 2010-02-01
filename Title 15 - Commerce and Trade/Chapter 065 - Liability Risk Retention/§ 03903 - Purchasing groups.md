@@ -12,7 +12,7 @@ Except as provided in this section and section 3905 of this title, a purchasing 
 
 &emsp;(4) prohibit a purchasing group from obtaining insurance on a group basis because the group has not been in existence for a minimum period of time or because any member has not belonged to the group for a minimum period of time;
 
-&emsp;(5) require that a purchasing group must have a minimum number of members, commonownership or affiliation, or a certain legal form;
+&emsp;(5) require that a purchasing group must have a minimum number of members, common ownership or affiliation, or a certain legal form;
 
 &emsp;(6) require that a certain percentage of a purchasing group must obtain insurance on a group basis;
 
@@ -82,7 +82,7 @@ A purchasing group shall register with and designate the State insurance commiss
 
 #### (f) Purchases of insurance through licensed agents or brokers acting pursuant to surplus lines laws
 
-A purchasing group may not purchase insurance from a risk retention group that is not chartered in a State or from an insurer not admitted in the State in which the purchasing group is located, unless the purchase is effected through a licensed agent or broker acting pursuant to the surplus lines laws and regulations of such State.
+A purchasing group may not purchase insurance from a risk retention group that is not chartered in a State or from an insurer not admitted in the State in which the purchasing group is located, unless the purchase is effectedthrough a licensed agent or broker acting pursuant to the surplus lines laws and regulations of such State.
 
 #### (g) State powers to enforce State laws
 

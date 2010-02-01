@@ -30,7 +30,7 @@ Aug. 1, 1949, ch. 372, 63 Stat. 483.
 
 5:150<i>o.</i>
 
-In subsection (a), the word “may” is substituted for the words “are authorized to \* \* \* at their discretion”. The word “supplies” is substituted for the words “articles or equipment”. The words “available” and “as may be needed” are omitted as surplusage. The words “under the jurisdiction of that department” are substituted for the words “of the Army, Navy, or Air Force” and “under their respective jurisdictions”.
+In subsection (a), the word “may” is substituted for the words “are authorized to at their discretion”. The word “supplies” is substituted for the words “articles or equipment”. The words “available” and “as may be needed” are omitted as surplusage. The words “under the jurisdiction of that department” are substituted for the words “of the Army, Navy, or Air Force” and “under their respective jurisdictions”.
 
 In subsection (b), the words “prior to any such conventions or national youth athletic or recreation tournaments” are omitted as surplusage.
 

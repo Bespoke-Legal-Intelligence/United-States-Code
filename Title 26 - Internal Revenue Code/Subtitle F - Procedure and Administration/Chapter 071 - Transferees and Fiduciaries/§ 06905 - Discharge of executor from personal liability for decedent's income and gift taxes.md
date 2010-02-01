@@ -6,7 +6,7 @@ In the case of liability of a decedent for taxes imposed by subtitle A or by cha
 
 #### (b) Definition of executor
 
-For purposes of this section, the term “executor” means the executor or administrator of thedecedent appointed, qualified, and acting within the United States.
+For purposes of this section, the term “executor” means the executor or administrator of the decedent appointed, qualified, and acting within the United States.
 
 #### (c) Cross reference
 

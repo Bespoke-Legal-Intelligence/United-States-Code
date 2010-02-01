@@ -10,7 +10,7 @@ Section 1024, acts May 20, 1908, ch. 181, §4, 35 Stat. 170; Oct. 28, 1921, ch. 
 
 Section 1025, acts May 20, 1908, ch. 181, §5, 35 Stat. 170; Sept. 5, 1916, ch. 437, 39 Stat. 722; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to procedure for issuance of patents to purchasers of unentered lands.
 
-Section 1026, acts May 20, 1908, ch. 181, §6, 35 Stat. 170; Sept. 5, 1916, ch. 437, 39 Stat. 723; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to procedure for issuance of patents to purchasers of entered lands.
+Section 1026, acts May 20, 1908, ch. 181, §6, 35 Stat. 170; Sept. 5, 1916, ch. 437, 39 Stat. 723; Oct. 28, 1921, ch. 114,§1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to procedure for issuance of patents to purchasers of entered lands.
 
 Section 1027, acts May 20, 1908, ch. 181, §7, 35 Stat. 171; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, required all notices under drainage laws to be supplied to land offices and entrymen.
 

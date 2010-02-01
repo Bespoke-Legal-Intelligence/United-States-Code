@@ -700,7 +700,7 @@ Provisions relating to national wildlife refuges were contained in the following
 
 Alaska Maritime National Wildlife Refuge, Alaska.—Pub. L. 96–487, title III, §303(1), Dec. 2, 1980, 94 Stat. 2389; Pub. L. 101–622, Nov. 21, 1990, 104 Stat. 3347; Pub. L. 102–489, Oct. 24, 1992, 106 Stat. 3138; Pub. L. 106–554, §1(a)(4) \[div. A, §302\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180; Pub. L. 107–239, Oct. 11, 2002, 116 Stat. 1488; Pub. L. 107–314, div. B, title XXVIII, §2853, Dec. 2, 2002, 116 Stat. 2727.
 
-Alaska Peninsula National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(1), Dec. 2, 1980, 94 Stat. 2385.
+Alaska Peninsula National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(1), Dec. 2, 1980, 94 Stat. 2385; Pub. L. 111–11, title VI, §§6401–6406, Mar. 30, 2009, 123 Stat. 1177–1182.
 
 Amagansett National Wildlife Refuge, New York.—Pub. L. 104–148, §1, May 24, 1996, 110 Stat. 1378.
 
@@ -738,7 +738,7 @@ Cape Romain National Wildlife Refuge, South Carolina.—Pub. L. 107–63, title 
 
 Cat Island National Wildlife Refuge, Louisiana.—Pub. L. 106–369, §§1–7, Oct. 27, 2000, 114 Stat. 1417–1419.
 
-Charles M. Russell National Wildlife Refuge, Montana.—Pub. L. 106–541, title VIII, Dec. 11, 2000, 114 Stat. 2699.
+Charles M. Russell National Wildlife Refuge, Montana.—Pub. L. 106–541, title VIII, Dec. 11, 2000, 114 Stat. 2699; Pub. L. 111–85, title I, §123, Oct. 28, 2009, 123 Stat. 2852.
 
 Cibola National Wildlife Refuge, California.—Pub. L. 109–127, Dec. 7, 2005, 119 Stat. 2548.
 
@@ -776,7 +776,7 @@ Humboldt Bay National Wildlife Refuge, California.—Pub. L. 96–290, §2, June
 
 Innoko National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(3), Dec. 2, 1980, 94 Stat. 2386.
 
-Izembek National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §303(3), Dec. 2, 1980, 94 Stat. 2390.
+Izembek National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §303(3), Dec. 2, 1980, 94 Stat. 2390; Pub. L. 111–11, title VI, §§6401–6406, Mar. 30, 2009, 123 Stat. 1177–1182.
 
 James Campbell National Wildlife Refuge, Hawaii.—Pub. L. 109–225, May 25, 2006, 120 Stat. 378.
 
@@ -788,7 +788,7 @@ Kanuti National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(4)
 
 Kenai National Wildlife Refuge, Alaska.—Pub. L. 96–487, title III, §303(4), Dec. 2, 1980, 94 Stat. 2391; Pub. L. 104–333, div. I, title III, §311(d)(3), Nov. 12, 1996, 110 Stat. 4142.
 
-Kilauea Point National Wildlife Refuge, Hawaii.–Pub. L. 108–481, Dec. 23, 2004, 118 Stat. 3910.
+Kilauea Point National Wildlife Refuge, Hawaii.—Pub. L. 108–481, Dec. 23, 2004, 118 Stat. 3910.
 
 Klamath Marsh National Wildlife Refuge, Oregon.—Act Aug. 13, 1954, ch. 732, §28, as added Pub. L. 85–731, §1, Aug. 23, 1958, 72 Stat. 816; amended Pub. L. 86–247, Sept. 9, 1959, 73 Stat. 477; Pub. L. 105–312, title II, §205, Oct. 30, 1998, 112 Stat. 2957; Pub. L. 105–321, §4(e), Oct. 30, 1998, 112 Stat. 3025.
 
@@ -900,7 +900,7 @@ Ex. Ord. No. 12996, Mar. 25, 1996, 61 F.R. 13647, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish and Wildlife Act of 1956 (16 U.S.C. 742a \[et seq.\]), the Fish and Wildlife Coordination Act (16 U.S.C. 661 \[et seq.\]), the National Wildlife Refuge System Administration Act (16 U.S.C. 668dd \[, 668ee\]), the Refuge Recreation Act (16 U.S.C. 460k \[et seq.\]), the Endangered Species Act of 1973 (16 U.S.C. 1531 \[et seq.\]), the Emergency Wetlands Resources Act (16 U.S.C. 3901 \[et seq.\]), the North American Wetlands Conservation Act (16 U.S.C. 4401 \[et seq.\]), the National Environmental Policy Act (42 U.S.C. 4321 \[et seq.\]), and other pertinent statutes, and in order to conserve fish and wildlife and their habitat, it is ordered as follows:
 
-Section 1. <i>The Mission of the National Wildlife Refuge System</i>. The mission of the National Wildlife Refuge System (“Refuge System”) is to preserve a national network of lands and waters for the conservation andmanagement of fish, wildlife, and plant resources of the United States for the benefit of present and future generations.
+Section 1. <i>The Mission of the National Wildlife Refuge System</i>. The mission of the National Wildlife Refuge System (“Refuge System”) is to preserve a national network of lands and waters for the conservation and management of fish, wildlife, and plant resources of the United States for the benefit of present and future generations.
 
 Sec. 2. <i>Guiding Principles</i>. To help ensure a bright future for its treasured national heritage, I hereby affirm the following four guiding principles for the management and general public use of the Refuge System:
 

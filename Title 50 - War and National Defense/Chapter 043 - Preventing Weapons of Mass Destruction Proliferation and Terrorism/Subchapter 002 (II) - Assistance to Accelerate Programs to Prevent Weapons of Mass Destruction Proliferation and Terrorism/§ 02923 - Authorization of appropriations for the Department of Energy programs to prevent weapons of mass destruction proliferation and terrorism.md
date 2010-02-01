@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsection (b), there are authorized to be appropriated to Department of Energy National Nuclear Security Administration Defense Nuclear Nonproliferation such sums as may benecessary for fiscal year 2008 to accelerate, expand, and strengthen the following programs to prevent weapons of mass destruction (WMD) proliferation and terrorism:
+Subject to subsection (b), there are authorized to be appropriated to Department of Energy National Nuclear Security Administration Defense Nuclear Nonproliferation such sums as may be necessary for fiscal year 2008 to accelerate, expand, and strengthen the following programs to prevent weapons of mass destruction (WMD) proliferation and terrorism:
 
 &emsp;(1) The Global Threat Reduction Initiative.
 

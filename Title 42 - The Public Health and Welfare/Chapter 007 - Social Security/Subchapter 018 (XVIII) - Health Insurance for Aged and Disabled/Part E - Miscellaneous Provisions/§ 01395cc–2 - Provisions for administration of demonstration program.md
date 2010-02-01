@@ -140,7 +140,7 @@
 
 #### (2) Bonuses
 
-&emsp;Notwithstanding any other provision of law, but subject to subparagraph (B)(ii), the Secretary may make bonus payments under the demonstration program from the Federal Health Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in amounts that do not exceed the amounts authorized under the program in accordance with the following:
+&emsp;Notwithstanding any other provision of law, but subject to subparagraph (B)(ii), the Secretary may make bonus payments under the demonstration program from the FederalHealth Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in amounts that do not exceed the amounts authorized under the program in accordance with the following:
 
 #### (A) Payments to program administrators
 
@@ -186,7 +186,7 @@ None of the provisions of this section or of the demonstration program shall app
 
 Not later than two years after December 21, 2000, and biennially thereafter for six years, the Secretary shall report to Congress on the use of authorities under the demonstration program. Each report shall address the impact of the use of those authorities on expenditures, access, and quality under the programs under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1866B, as added Pub. L. 106–554, §1(a)(6) \[title IV, §412(a)\],Dec. 21, 2000, 114 Stat. 2763, 2763A–511; amended Pub. L. 108–173, title VII, §736(c)(5), Dec. 8, 2003, 117 Stat. 2356.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1866B, as added Pub. L. 106–554, §1(a)(6) \[title IV, §412(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–511; amended Pub. L. 108–173, title VII, §736(c)(5), Dec. 8, 2003, 117 Stat. 2356.)
 
 #### References in Text
 

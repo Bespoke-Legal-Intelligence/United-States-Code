@@ -42,7 +42,7 @@ For the purposes of this section—
 
 &emsp;(1) a Federal pavilion shall be considered to satisfy both needs described in subsection (b)(1)(B) of this section if the Federal pavilion which satisfies the needs described in paragraph (1)(B)(i) of such subsection can be modified after completion of the exposition to satisfy the needs described in paragraph (1)(B)(ii) of such subsection, provided that such modification shall cost no more than the expense of demolition, dismantling, or other disposal, or if the cost is higher, it shall be no more than 50 per centum of the original cost of the construction of the pavilion; and
 
-&emsp;(2) a Federal pavilion is temporary if the Federal pavilion is designed to satisfy the minimum needs of the Federal Government described in subsection (b)(1)(B)(i) of this section and is intended for disposal by the Federal Government after the termination of participation in the exposition.
+&emsp;(2) a Federal pavilion is temporary if the Federal pavilion is designed to satisfy the minimum needs of the Federal Governmentdescribed in subsection (b)(1)(B)(i) of this section and is intended for disposal by the Federal Government after the termination of participation in the exposition.
 
 (Pub. L. 91–269, §3, May 27, 1970, 84 Stat. 272; Pub. L. 97–254, §16(a), Sept. 8, 1982, 96 Stat. 812.)
 

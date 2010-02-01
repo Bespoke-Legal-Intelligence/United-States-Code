@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(A)(i) To award funds under section 7301a of this title to States according to the quality, needs, and scope of the State application under that section.
 
-&emsp;&emsp;(ii) In determining the grant amount under clause (i), the Secretary shall ensure that a State's grant shall include an amount that bears the same relationship to the totalfunds available under this paragraph for the fiscal year as the number of students ages 5 through 17 in the State (as determined by the Secretary on the basis of the most recent satisfactory data) bears to the total number of such students in all States.
+&emsp;&emsp;(ii) In determining the grant amount under clause (i), the Secretary shall ensure that a State's grant shall include an amount that bears the same relationship to the total funds available under this paragraph for the fiscal year as the number of students ages 5 through 17 in the State (as determined by the Secretary on the basis of the most recent satisfactory data) bears to the total number of such students in all States.
 
 &emsp;&emsp;(B) Any amounts remaining after the Secretary awards funds under subparagraph (A) shall be allocated to each State that did not receive a grant under such subparagraph, in an amount that bears the same relationship to the total funds available under this subparagraph as the number of students ages 5 through 17 in the State (as determined by the Secretary on the basis of the most recent satisfactory data) bears to the total number of such students in all States.
 

@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(C) is made available through appropriate public information services; and
 
-&emsp;(3) shall include coordination with the Secretary of Defense seeking to ensure that individuals who are being separated from activemilitary, naval, or air service are provided appropriate information about programs, requirements, and procedures for applying for counseling and treatment under this section.
+&emsp;(3) shall include coordination with the Secretary of Defense seeking to ensure that individuals who are being separated from active military, naval, or air service are provided appropriate information about programs, requirements, and procedures for applying for counseling and treatment under this section.
 
 (d) In this section, the term “sexual harassment” means repeated, unsolicited verbal or physical contact of a sexual nature which is threatening in character.
 
@@ -40,7 +40,7 @@ Subsec. (a)(2). Pub. L. 108–422, §301(a)(2), struck out “, during the peri
 
 1999—Subsec. (a)(1). Pub. L. 106–117, §115(a)(1), (b)(1), substituted “December 31, 2004” for “December 31, 2001” and “shall operate a program under which the Secretary provides counseling and appropriate care and services to veterans who the Secretary determines require such counseling and care and services” for “may provide counseling to a veteran who the Secretary determines requires such counseling”.
 
-Subsec. (a)(2), (3). Pub. L. 106–117, §115(a)(2), (b)(2), redesignated par. (3) as (2), substituted “December 31, 2004” for “December 31, 2001”, and struck out former par. (2) which read as follows: “During the period referred to in paragraph (1), the Secretary may provide appropriate care and services to a veteran for an injury, illness, or other psychological condition that the Secretary determines to be the result of a physical assault, battery, or harassment referred to in that paragraph.”
+Subsec. (a)(2), (3). Pub. L. 106–117, §115(a)(2), (b)(2), redesignated par. (3) as (2), substituted “December 31, 2004” for “December 31, 2001”, and struck out formerpar. (2) which read as follows: “During the period referred to in paragraph (1), the Secretary may provide appropriate care and services to a veteran for an injury, illness, or other psychological condition that the Secretary determines to be the result of a physical assault, battery, or harassment referred to in that paragraph.”
 
 Subsec. (c). Pub. L. 106–117, §115(c)(1), inserted “and treatment” after “counseling” in first sentence.
 
@@ -92,7 +92,7 @@ Section 101(g)(2) to (5) of Pub. L. 103–452 provided that:
 
 #### Transition Period for Eligibility for Counseling
 
-Section 102(b) of Pub. L. 102–585, as amended by Pub. L. 103–210, §2(b), Dec. 20, 1993, 107 Stat. 2497, provided that in the case of a veteran who was discharged or released from active military, naval, or air service before Dec. 31, 1992, the two-year period specified in 38 U.S.C. 1720D(a)(2) was to be treated as ending on Dec. 31, 1994,prior to repeal by Pub. L. 103–452, title I, §101(h), Nov. 2, 1994, 108 Stat. 4785.
+Section 102(b) of Pub. L. 102–585, as amended by Pub. L. 103–210, §2(b), Dec. 20, 1993, 107 Stat. 2497, provided that in the case of a veteran who was discharged or released from active military, naval, or air service before Dec. 31, 1992, the two-year period specified in 38 U.S.C. 1720D(a)(2) was to be treated as ending on Dec. 31, 1994, prior to repeal by Pub. L. 103–452, title I, §101(h), Nov. 2, 1994, 108 Stat. 4785.
 
 #### Commencement of Provision of Information on Services
 

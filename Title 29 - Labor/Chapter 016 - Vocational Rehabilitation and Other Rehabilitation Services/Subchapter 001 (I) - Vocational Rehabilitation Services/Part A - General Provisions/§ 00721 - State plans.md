@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the number and type of personnel needed by the State, and a projection of the numbers of such personnel that will be needed in 5 years, based on projections of the number of individuals to be served, the number of such personnel who are expected to retire or leave the vocational rehabilitation field, and other relevant factors;
 
-&emsp;&emsp;&emsp;(ii) where appropriate, a description of the manner in which activities will beundertaken under this section to coordinate the system of personnel development with personnel development activities under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);
+&emsp;&emsp;&emsp;(ii) where appropriate, a description of the manner in which activities will be undertaken under this section to coordinate the system of personnel development with personnel development activities under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);
 
 &emsp;&emsp;&emsp;(iii) a description of the development and maintenance of a system of determining, on an annual basis, information on the programs of institutions of higher education within the State that are preparing rehabilitation professionals, including—
 
@@ -154,7 +154,7 @@
 
 #### (ii) Conditions, terms, and procedures of reimbursement
 
-&emsp;&emsp;&emsp;Information specifying the conditions, terms, and procedures under which a designated State unit shall be reimbursed by other public entities for providing such services, based on the provisions of such agreement or mechanism.
+&emsp;&emsp;&emsp;Information specifying the conditions, terms, and procedures under which a designated State unit shall be reimbursed by other public entities for providing suchservices, based on the provisions of such agreement or mechanism.
 
 #### (iii) Interagency disputes
 
@@ -218,7 +218,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the number who received services under paragraph (5)(D), but not assistance under an individualized plan for employment;
 
-&emsp;&emsp;&emsp;&emsp;(II) of those recipients who are individuals with significant disabilities, the number who received assistance under an individualized plan for employment consistent with section 722(b) of this title; and
+&emsp;&emsp;&emsp;&emsp;(II) of those recipients who are individuals with significant disabilities, the number who received assistance under anindividualized plan for employment consistent with section 722(b) of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(III) of those recipients who are not individuals with significant disabilities, the number who received assistance under an individualized plan for employment consistent with section 722(b) of this title;
 
@@ -332,7 +332,7 @@
 
 #### (F) Cooperative agreement with recipients of grants for services to American Indians
 
-&emsp;&emsp;In applicable cases, the State plan shall include an assurance that the State has entered into a formal cooperative agreement with each grant recipient in the State that receives funds under part C of this subchapter. The agreement shall describe strategies for collaboration and coordination in providing vocational rehabilitation services to American Indians who are individuals with disabilities, including—
+&emsp;&emsp;In applicable cases, the State plan shall include an assurance that the State has entered into a formal cooperative agreement with each grant recipient in the State that receives funds under part C of this subchapter. The agreement shall describe strategies for collaboration and coordination in providing vocational rehabilitation servicesto American Indians who are individuals with disabilities, including—
 
 &emsp;&emsp;&emsp;(i) strategies for interagency referral and information sharing that will assist in eligibility determinations and the development of individualized plans for employment;
 
@@ -390,7 +390,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The State plan shall identify the goals and priorities of the State in carrying out the program. The goals and priorities shall be jointly developed, agreed to, and reviewed annually by the designated State unit and the State Rehabilitation Council, if the State has such a Council. Any revisions to the goals and priorities shall be jointly agreed to by the designated State unit and the State Rehabilitation Council, if the State has such a Council. The State plan shall provide that the State shall submit to the Commissioner a report containing information regarding revisions in the goals and priorities, for any year in which the State revises the goals and priorities.
+&emsp;&emsp;&emsp;The State plan shall identify the goals and priorities of the State in carrying out the program. The goals and priorities shall be jointly developed, agreed to, and reviewed annually by the designated Stateunit and the State Rehabilitation Council, if the State has such a Council. Any revisions to the goals and priorities shall be jointly agreed to by the designated State unit and the State Rehabilitation Council, if the State has such a Council. The State plan shall provide that the State shall submit to the Commissioner a report containing information regarding revisions in the goals and priorities, for any year in which the State revises the goals and priorities.
 
 #### (ii) Basis
 
@@ -440,7 +440,7 @@
 
 &emsp;The State plan shall—
 
-&emsp;&emsp;(A) provide that the designated State agency, prior to the adoption of any policies or procedures governing the provision of vocational rehabilitation services under the State plan (including making any amendment to such policies and procedures), shall conduct public meetings throughout the State, after providing adequate notice of the meetings, to provide the public, including individuals with disabilities, an opportunity to comment on the policies or procedures, and actively consult with the Director of the client assistance program carried out under section 732 of this title, and, as appropriate,Indian tribes, tribal organizations, and Native Hawaiian organizations on the policies or procedures; and
+&emsp;&emsp;(A) provide that the designated State agency, prior to the adoption of any policies or procedures governing the provision of vocational rehabilitation services under the State plan (including making any amendment to such policies and procedures), shall conduct public meetings throughout the State, after providing adequate notice of the meetings, to provide the public, including individuals with disabilities, an opportunity to comment on the policies or procedures, and actively consult with the Director of the client assistance program carried out under section 732 of this title, and, as appropriate, Indian tribes, tribal organizations, and Native Hawaiian organizations on the policies or procedures; and
 
 &emsp;&emsp;(B) provide that the designated State agency (or each designated State agency if two agencies are designated) and any sole agency administering the plan in a political subdivision of the State, shall take into account, in connection with matters of general policy arising in the administration of the plan, the views of—
 
@@ -574,13 +574,13 @@
 
 &emsp;Prior to disapproval of the State plan, the Commissioner shall notify the State of the intention to disapprove the plan and shall afford the State reasonable notice and opportunity for a hearing.
 
-(Pub. L. 93–112, title I, §101, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1119;amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415; Pub. L. 108–446, title III, §305(h)(1), Dec. 3, 2004, 118 Stat. 2805.)
+(Pub. L. 93–112, title I, §101, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1119; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415; Pub. L. 108–446, title III, §305(h)(1), Dec. 3, 2004, 118 Stat. 2805.)
 
 #### References in Text
 
 The Architectural Barriers Act of 1968, referred to in subsec. (a)(6)(C), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, as amended, which is classified generally to chapter 51 (§4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(6)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(6)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The PublicHealth and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (a)(7)(A)(ii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 

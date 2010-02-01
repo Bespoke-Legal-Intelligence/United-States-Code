@@ -46,7 +46,7 @@
 
 Pub. L. 105–261, div. A, title VIII, §813(b), Oct. 17, 1998, 112 Stat. 2087, added item 2646.
 
-1996—Pub. L. 104–201, div. A, title III, §368(a)(2)(B), title IX, §906(d)(1), title X, §1079(b)(2), Sept. 23, 1996, 110 Stat. 2498, 2620, 2670, substituted “Motor vehicles:transportation or storage for members on change of permanent station or extended deployment” for “Motor vehicles: for members on change of permanent station” in item 2634 and added items 2644 and 2645.
+1996—Pub. L. 104–201, div. A, title III, §368(a)(2)(B), title IX, §906(d)(1), title X, §1079(b)(2), Sept. 23, 1996, 110 Stat. 2498, 2620, 2670, substituted “Motor vehicles: transportation or storage for members on change of permanent station or extended deployment” for “Motor vehicles: for members on change of permanent station” in item 2634 and added items 2644 and 2645.
 
 Pub. L. 104–106, div. A, title III, §334(b), Feb. 10, 1996, 110 Stat. 262, added item 2643.
 

@@ -94,7 +94,7 @@ Not later than 180 days after March 12, 1996, the President shall transmit to th
 
 &emsp;&emsp;&emsp;(i) reciprocal extension of nondiscriminatory trade treatment (most-favored-nation treatment);
 
-&emsp;&emsp;&emsp;(ii) designation of Cuba as a beneficiary developing country under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] (relating to the Generalized System of Preferences) or as a beneficiary country under the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\], and the implications of such designation with respect to trade with any other country that is such a beneficiary developing country or beneficiary country or is a party to the North American Free Trade Agreement; and
+&emsp;&emsp;&emsp;(ii) designation of Cuba as a beneficiary developing country under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] (relating to the Generalized System of Preferences) or as a beneficiary country under the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\], and the implications of such designation with respect to trade with any other country that is such a beneficiary developing country orbeneficiary country or is a party to the North American Free Trade Agreement; and
 
 &emsp;&emsp;&emsp;(iii) negotiations regarding free trade, including the accession of Cuba to the North American Free Trade Agreement;
 
@@ -104,7 +104,7 @@ Not later than 180 days after March 12, 1996, the President shall transmit to th
 
 #### (2) Consultation
 
-&emsp;The President shall consult with the Committee on Ways and Means of the House ofRepresentatives and the Committee on Finance of the Senate and the appropriate congressional committees and shall seek advice from the appropriate advisory committees established under section 135 of the Trade Act of 1974 \[19 U.S.C. 2155\] regarding the policy and negotiating objectives and the legislative proposals described in paragraph (1).
+&emsp;The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate and the appropriate congressional committees and shall seek advice from the appropriate advisory committees established under section 135 of the Trade Act of 1974 \[19 U.S.C. 2155\] regarding the policy and negotiating objectives and the legislative proposals described in paragraph (1).
 
 (Pub. L. 104–114, title II, §202, Mar. 12, 1996, 110 Stat. 806; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(W), June 18, 2008, 122 Stat. 1820, 1821.)
 

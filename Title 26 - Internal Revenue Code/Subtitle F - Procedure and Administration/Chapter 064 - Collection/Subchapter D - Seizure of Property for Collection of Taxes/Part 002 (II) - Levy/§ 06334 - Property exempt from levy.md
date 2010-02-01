@@ -158,11 +158,11 @@ Any payment described in subparagraph (B) or (C) of section 6331(h)(2) shall not
 
 #### References in Text
 
-The Railroad Retirement Act, referred to in subsec. (a)(6), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, known as the Railroad Retirement Act of 1974, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act, referred to in subsec. (a)(6), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, known as the Railroad Retirement Act of 1974, which isclassified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 The Railroad Unemployment Insurance Act, referred to in subsec. (a)(6), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
 
-The Social Security Act, referred to in subsecs. (a)(11)(A) and (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles IV and XVI of the Social Security Act are classified generally to subchapters IV (§601 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Section 207of the Social Security Act is classified to section 407 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(11)(A) and (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles IV and XVI of the Social Security Act are classified generally to subchapters IV (§601 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Section 207 of the Social Security Act is classified to section 407 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Job Training Partnership Act, referred to in subsec. (a)(12), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
@@ -264,7 +264,7 @@ Reference to United States magistrate or to magistrate deemed to refer to United
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3431(d), July 22, 1998, 112 Stat. 758, provided that: “The amendments made by this section \[amending this section\] shall take effect with respect to levies issued after the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3431(d), July 22, 1998, 112 Stat. 758, provided that: “The amendments made bythis section \[amending this section\] shall take effect with respect to levies issued after the date of the enactment of this Act \[July 22, 1998\].”
 
 Pub. L. 105–206, title III, §3445(d), July 22, 1998, 112 Stat. 763, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) provide balanced funding for prevention activities for sexual transmission of HIV/AIDS; and
 
-&emsp;&emsp;(B) ensure that activities promoting abstinence, delay of sexual debut, monogamy, fidelity, and partner reduction are implemented and funded in a meaningful and equitable way in the strategy for each host country based on objective epidemiological evidence as to the source of infections and in consultation with the government of eachhost county <sup>1</sup> involved in HIV/AIDS prevention activities.
+&emsp;&emsp;(B) ensure that activities promoting abstinence, delay of sexual debut, monogamy, fidelity, and partner reduction are implemented and funded in a meaningful and equitable way in the strategy for each host country based on objective epidemiological evidence as to the source of infections and in consultation with the government of each host county <sup>1</sup> involved in HIV/AIDS prevention activities.
 
 #### (2) Prevention strategy
 
@@ -38,7 +38,7 @@ For fiscal years 2009 through 2013, not less than 10 percent of the amounts appr
 
 #### (c) Funding allocation
 
-For each of the fiscal years 2009 through 2013, more than half of the amounts appropriated for bilateral global HIV/AIDS assistance pursuant to section 7671 of this title shall be expended for—
+For each of the fiscal years 2009 through 2013, more than half of the amounts appropriated for bilateral global HIV/AIDS assistance pursuantto section 7671 of this title shall be expended for—
 
 &emsp;(1) antiretroviral treatment for HIV/AIDS;
 

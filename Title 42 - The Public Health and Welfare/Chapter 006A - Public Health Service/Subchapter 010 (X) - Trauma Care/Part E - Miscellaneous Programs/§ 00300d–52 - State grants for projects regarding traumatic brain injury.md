@@ -74,7 +74,7 @@ A State or American Indian consortium that received a grant under this section p
 
 #### (A) In general
 
-&emsp;&emsp;State or American Indian consortium services and supports provided under a grant under this section shall reflect the best practices in the field of traumatic brain injury, shall be in compliance with title II of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12131 et seq.\], and shall be supported by quality assurance measures as well as state-of-the-art health care and integrated community supports, regardless of the severity of injury.
+&emsp;&emsp;State or American Indian consortium services and supports provided under a grantunder this section shall reflect the best practices in the field of traumatic brain injury, shall be in compliance with title II of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12131 et seq.\], and shall be supported by quality assurance measures as well as state-of-the-art health care and integrated community supports, regardless of the severity of injury.
 
 #### (B) Demonstration by State agency
 
@@ -142,7 +142,7 @@ Subsec. (f). Pub. L. 110–206, §6(a)(5)(A), (B), inserted “and American Indi
 
 Subsec. (f)(1)(A)(ii). Pub. L. 110–206, §6(a)(5)(C), substituted “children, youth, and adults” for “children and other individuals”.
 
-Subsec. (h). Pub. L. 110–206, §6(a)(6), substituted “Not less than biennially, the Secretary” for “Not later than 2 years after July 29, 1996, the Secretary” and “Energy and Commerce of the House of Representatives, and to the Committee on Health, Education, Labor, and Pensions” for “Commerce of the House of Representatives, and to the Committee on Labor and Human Resources” and inserted “and section 300d–53 of this title” after “programs established under this section,”.
+Subsec. (h). Pub. L. 110–206, §6(a)(6), substituted “Not less than biennially, the Secretary” for “Not later than 2 years after July 29, 1996, the Secretary” and “Energy and Commerce of the House of Representatives, and to the Committee on Health, Education, Labor, and Pensions” for “Commerce of the House of Representatives,and to the Committee on Labor and Human Resources” and inserted “and section 300d–53 of this title” after “programs established under this section,”.
 
 Subsec. (i). Pub. L. 110–206, §6(a)(7), amended subsec. (i) generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘traumatic brain injury’ means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma. The Secretary may revise the definition of such term as the Secretary determines necessary, after consultation with States and other appropriate public or nonprofit private entities.”
 

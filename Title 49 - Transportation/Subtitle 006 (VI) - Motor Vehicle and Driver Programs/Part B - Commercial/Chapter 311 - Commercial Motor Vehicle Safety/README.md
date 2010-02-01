@@ -71,7 +71,7 @@
 
 1999—Pub. L. 106–159, title II, §211(b), Dec. 9, 1999, 113 Stat. 1766, added item 31148.
 
-1998—Pub. L. 105–178, title IV, §§4002(b), 4004(d), 4008(c), (d), 4010, June 9, 1998, 112 Stat. 395, 400, 404, 407, inserted “AND OTHER COMMERCIAL MOTOR VEHICLE PROGRAMS” after “GRANTS” in subchapter I heading, added item 31100, substituted “Information systems” for “Commercial motor vehicle information system program” in item 31106 and “Contract authority funding for information systems” for “Truck and bus accident grant program” in item 31107, struck out items 31134 “Commercial Motor Vehicle Safety Regulatory Review Panel” and 31140 “Submission of State laws and regulations for review”, subchapter IV heading “MISCELLANEOUS”, and items 31161 “Procedures to ensure timely correction of safety violations” and 31162 “Compliance review priority”.
+1998—Pub. L. 105–178, title IV, §§4002(b), 4004(d), 4008(c), (d), 4010, June 9, 1998, 112 Stat. 395, 400, 404, 407, inserted “AND OTHER COMMERCIAL MOTOR VEHICLE PROGRAMS” after “GRANTS” in subchapter I heading, added item 31100, substituted “Information systems” for “Commercial motor vehicle information system program” in item 31106 and “Contract authority funding for information systems” for “Truck and bus accident grant program” in item 31107, struck out items 31134 “Commercial Motor Vehicle Safety Regulatory Review Panel” and 31140 “Submission of Statelaws and regulations for review”, subchapter IV heading “MISCELLANEOUS”, and items 31161 “Procedures to ensure timely correction of safety violations” and 31162 “Compliance review priority”.
 
 
 ---

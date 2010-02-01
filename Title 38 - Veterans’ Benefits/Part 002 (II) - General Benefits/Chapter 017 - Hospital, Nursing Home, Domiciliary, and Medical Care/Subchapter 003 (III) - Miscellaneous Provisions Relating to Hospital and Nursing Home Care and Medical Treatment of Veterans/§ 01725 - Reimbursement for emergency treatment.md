@@ -26,7 +26,7 @@ Eligibility.—(1) A veteran referred to in subsection (a)(1) is an individual w
 
 &emsp;(B) has no entitlement to care or services under a health-plan contract (determined, in the case of a health-plan contract as defined in subsection (f)(2)(B) or (f)(2)(C), without regard to any requirement or limitation relating to eligibility for care or services from any department or agency of the United States);
 
-&emsp;(C) has no other contractual or legal recourse against a third party that would, in whole or in part, extinguish such liability to the provider; and
+&emsp;(C) has no other contractual or legal recourse against a third party that would, in whole, extinguish such liability to the provider; and
 
 &emsp;(D) is not eligible for reimbursement for medical care or services under section 1728 of this title.
 
@@ -43,6 +43,14 @@ Limitations on Reimbursement.—(1) The Secretary, in accordance with regulation
 (2) Subject to paragraph (1), the Secretary may provide reimbursement under this section only after the veteran or the provider of emergency treatment has exhausted without success all claims and remedies reasonably available to the veteran or provider against a third party for payment of such treatment.
 
 (3) Payment by the Secretary under this section on behalf of a veteran to a provider of emergency treatment shall, unless rejected and refunded by the provider within 30 days of receipt, extinguish any liability on the part of the veteran for that treatment. Neither the absence of a contract or agreement between the Secretary and the provider nor any provision of a contract, agreement, or assignment to the contrary shall operate to modify, limit, or negate the requirement in the preceding sentence.
+
+(4)(A) If the veteran has contractual or legal recourse against a third party that would only, in part, extinguish the veteran's liability to the provider of the emergency treatment, and payment for the treatment may be made both under subsection (a) and by the third party, the amount payable for such treatment under such subsection shall be the amount by which the costs for the emergency treatment exceed the amount payable or paid by the third party, except that the amount payable may not exceed the maximum amount payable established under paragraph (1)(A).
+
+(B) In any case in which a third party is financially responsible for part of the veteran's emergency treatment expenses, the Secretary shall be the secondary payer.
+
+(C) A payment in the amount payable under subparagraph (A) shall be considered payment in full and shall extinguish the veteran's liability to the provider.
+
+(D) The Secretary may not reimburse a veteran under this section for any copayment or similar payment that the veteran owes the third party or for which the veteran is responsible under a health-plan contract.
 
 (d)
 
@@ -88,8 +96,6 @@ Definitions.—For purposes of this section:
 
 &emsp;&emsp;(D) A workers’ compensation law or plan described in section 1729(a)(2)(A) of this title.
 
-&emsp;&emsp;(E) A law of a State or political subdivision described in section 1729(a)(2)(B) of this title.
-
 &emsp;(3) The term “third party” means any of the following:
 
 &emsp;&emsp;(A) A Federal entity.
@@ -102,7 +108,7 @@ Definitions.—For purposes of this section:
 
 &emsp;&emsp;(E) A person or entity obligated to provide, or to pay the expenses of, health services under a health-plan contract.
 
-(Added Pub. L. 106–117, title I, §111(a), Nov. 30, 1999, 113 Stat. 1553; amended Pub. L. 110–387, title IV, §402(a), Oct. 10, 2008, 122 Stat. 4123.)
+(Added Pub. L. 106–117, title I, §111(a), Nov. 30, 1999, 113 Stat. 1553; amended Pub. L. 110–387, title IV, §402(a), Oct. 10, 2008, 122 Stat. 4123; Pub. L. 111–137, §1(a), (b), Feb. 1, 2010, 123 Stat. 3495.)
 
 #### References in Text
 
@@ -110,9 +116,27 @@ The Social Security Act, referred to in subsec. (f)(2), is act Aug. 14, 1935, ch
 
 #### Amendments
 
+2010—Subsec. (b)(3)(C). Pub. L. 111–137, §1(a)(1), struck out “or in part” after “in whole”.
+
+Subsec. (c)(4). Pub. L. 111–137, §1(b), added par. (4).
+
+Subsec. (f)(2)(E). Pub. L. 111–137, §1(a)(2), struck out subpar. (E) which read as follows: “A law of a State or political subdivision described in section 1729(a)(2)(B) of this title.”
+
 2008—Subsec. (a)(1). Pub. L. 110–387, §402(a)(1), substituted “shall reimburse” for “may reimburse”.
 
 Subsec. (f)(1)(C). Pub. L. 110–387, §402(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “until such time as the veteran can be transferred safely to a Department facility or other Federal facility”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–137, §1(c), Feb. 1, 2010, 123 Stat. 3495, provided that:
+
+“(1)
+
+In general.—The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[Feb. 1, 2010\], and shall apply with respect to emergency treatment furnished on or after the date of the enactment of this Act.
+
+“(2)
+
+Reimbursement for treatment provided before effective date.—The Secretary may provide reimbursement under section 1725 of title 38, United States Code, as amended by subsections (a) and (b), for emergency treatment furnished to a veteran before the date of the enactment of this Act \[Feb. 1, 2010\], if the Secretary determines that, under the circumstances applicable with respect to the veteran, it is appropriate to do so.”
 
 #### Effective Date
 

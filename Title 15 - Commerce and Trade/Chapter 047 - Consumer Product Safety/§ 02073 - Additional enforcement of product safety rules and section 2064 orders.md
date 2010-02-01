@@ -14,7 +14,7 @@ Any interested person (including any individual or nonprofit, business, or other
 
 #### (A) Notice to Commission required in all cases
 
-&emsp;&emsp;A State shall provide written notice to the Commission regarding any civil action under paragraph (1). Except when proceeding under subparagraph (C), the State shall provide the notice at least 30 days before the date on which the State intends to initiate the civil action by filing a complaint.
+&emsp;&emsp;A State shall provide written notice to the Commission regarding any civil action underparagraph (1). Except when proceeding under subparagraph (C), the State shall provide the notice at least 30 days before the date on which the State intends to initiate the civil action by filing a complaint.
 
 #### (B) Filing of complaint
 
@@ -30,7 +30,7 @@ Any interested person (including any individual or nonprofit, business, or other
 
 #### (D) Form of notice
 
-&emsp;&emsp;The written notice required by this paragraph may be provided by electronic mail, facsimile machine, or any other means ofcommunication accepted by the Commission.
+&emsp;&emsp;The written notice required by this paragraph may be provided by electronic mail, facsimile machine, or any other means of communication accepted by the Commission.
 
 #### (E) Copy of complaint
 

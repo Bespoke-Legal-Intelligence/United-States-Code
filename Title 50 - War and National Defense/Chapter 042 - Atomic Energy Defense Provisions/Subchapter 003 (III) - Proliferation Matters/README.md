@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02561 - International cooperative stockpile stewardship](%C2%A7%2002561%20-%20International%20cooperative%20stockpile%20stewardship.md)
+- [&sect; 02561 - Repealed. Pub. L. 111&#8211;84, div. C, title XXXI, &sect;3117(a), Oct. 28, 2009, 123 Stat. 2709](%C2%A7%2002561%20-%20Repealed.%20Pub.%20L.%20111%E2%80%9384%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73117%28a%29%2C%20Oct.%2028%2C%202009%2C%20123%20Stat.%202709.md)
 - [&sect; 02562 - Nonproliferation initiatives and activities](%C2%A7%2002562%20-%20Nonproliferation%20initiatives%20and%20activities.md)
 - [&sect; 02563 - Annual report on status of Nuclear Materials Protection, Control, and Accounting Program](%C2%A7%2002563%20-%20Annual%20report%20on%20status%20of%20Nuclear%20Materials%20Protection%2C%20Control%2C%20and%20Accounting%20Program.md)
 - [&sect; 02564 - Nuclear Cities Initiative](%C2%A7%2002564%20-%20Nuclear%20Cities%20Initiative.md)

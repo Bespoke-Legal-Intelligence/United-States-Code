@@ -190,6 +190,7 @@
 | 247d–7e. | Biomedical Advanced Research and Development Authority. |
 | 247d–7f. | National Biodefense Science Board and working groups. |
 | 247d–8. | Coordinated program to improve pediatric oral health. |
+| 247d–9. | Dental education for parents of newborns. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -536,6 +537,7 @@ I74subpart i—grants for demonstration projects
 | 280g–6. | Chronic kidney disease initiatives. |
 | 280g–7. | Amyotrophic lateral sclerosis registry. |
 | 280g–8. | Support for patients receiving a positive diagnosis of Down syndrome or other prenatally or postnatally diagnosed conditions. |
+| 280g–9. | Programs to improve quality of life for persons with paralysis and other physical disabilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -572,6 +574,7 @@ I74subpart i—grants for demonstration projects
 | [282\.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282%20-%20Director%20of%20National%20Institutes%20of%20Health.md) | Director of National Institutes of Health. |
 | [282a.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282a%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [282b.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282b%20-%20Electronic%20coding%20of%20grants%20and%20activities.md) | Electronic coding of grants and activities. |
+| [282c.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282c%20-%20Public%20access%20to%20funded%20investigators%E2%80%99%20final%20manuscripts.md) | Public access to funded investigators’ final manuscripts. |
 | [283\.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283%20-%20Biennial%20reports%20of%20Director%20of%20NIH.md) | Biennial reports of Director of NIH. |
 | [283a.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283a%20-%20Annual%20reporting%20to%20increase%20interagency%20collaboration%20and%20coordination.md) | Annual reporting to increase interagency collaboration and coordination. |
 | 283a–1. | Annual reporting to prevent fraud and abuse. |
@@ -608,6 +611,8 @@ I74subpart i—grants for demonstration projects
 | 284<i>l</i>. | Enhancement awards. |
 | [284m.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284m%20-%20Program%20for%20pediatric%20studies%20of%20drugs.md) | Program for pediatric studies of drugs. |
 | [284n.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284n%20-%20Certain%20demonstration%20projects.md) | Certain demonstration projects. |
+| 284<i>o.</i> | Activities of the National Institutes of Health with respect to research on paralysis. |
+| [284p.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284p%20-%20Activities%20of%20the%20National%20Institutes%20of%20Health%20with%20respect%20to%20research%20with%20implications%20for%20enhancing%20daily%20function%20for%20persons%20with%E2%80%A6.md) | Activities of the National Institutes of Health with respect to research with implications for enhancing daily function for persons with paralysis. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1504,6 +1509,7 @@ I74subpart 1—health professions workforce information and analysis
 | 299b–5. | Health care practice and technology innovation. |
 | 299b–6. | Coordination of Federal Government quality improvement efforts. |
 | 299b–7. | Research on outcomes of health care items and services. |
+| 299b–8. | Federal Coordinating Council for Comparative Effectiveness Research. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1976,6 +1982,7 @@ I74subpart i—block grants for community mental health services
 | 300x–24. | Requirements regarding tuberculosis and human immunodeficiency virus. |
 | 300x–25. | Group homes for recovering substance abusers. |
 | 300x–26. | State law regarding sale of tobacco products to individuals under age of 18. |
+| 300x–26a. | Withholding of substance abuse funding under section 300x–26. |
 | 300x–27. | Treatment services for pregnant women. |
 | 300x–28. | Additional agreements. |
 | 300x–29. | Submission to Secretary of statewide assessment of needs. |
@@ -2418,6 +2425,7 @@ I74subpart i—general grant provisions
 | 300ff–85. | Privacy protections. |
 | 300ff–86. | GAO report. |
 | 300ff–87. | Severity of need index. |
+| 300ff–87a. | National HIV/AIDS testing goal. |
 | 300ff–88. | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2445,6 +2453,23 @@ I74subpart i—special projects of national significance
 |  |  |
 | :--- | ---: |
 | 300ff–121. | Minority AIDS initiative. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part G—Notification of Possible Exposure to Infectious Diseases
+
+|  |  |
+| :--- | ---: |
+| 300ff–131. | Infectious diseases and circumstances relevant to notification requirements. |
+| 300ff–132. | Routine notifications with respect to airborne infectious diseases in victims assisted. |
+| 300ff–133. | Request for notification with respect to victims assisted. |
+| 300ff–134. | Procedures for notification of exposure. |
+| 300ff–135. | Notification of employee. |
+| 300ff–136. | Selection of designated officers. |
+| 300ff–137. | Limitation with respect to duties of medical facilities. |
+| 300ff–138. | Miscellaneous provisions. |
+| 300ff–139. | Injunctions regarding violation of prohibition. |
+| 300ff–140. | Applicability of part. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2572,7 +2597,45 @@ I74subpart 1—portability, access, and renewability requirements
 | 300ii–2. | National lifespan respite resource center. |
 | 300ii–3. | Report. |
 | 300ii–4. | Authorization of appropriations. |
-| 300aaa to 300aaa–13. Transferred. |  |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER XXVIII—HEALTH INFORMATION TECHNOLOGY AND QUALITY
+
+|  |  |
+| :--- | ---: |
+| [300jj.](Subchapter%20028%20%28XXVIII%29%20-%20Health%20Information%20Technology%20and%20Quality/%C2%A7%2000300jj%20-%20Definitions.md) | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part A—Promotion of Health Information Technology
+
+|  |  |
+| :--- | ---: |
+| 300jj–11. | Office of the National Coordinator for Health Information Technology. |
+| 300jj–12. | HIT Policy Committee. |
+| 300jj–13. | HIT Standards Committee. |
+| 300jj–14. | Process for adoption of endorsed recommendations; adoption of initial set of standards, implementation specifications, and certification criteria. |
+| 300jj–15. | Application and use of adopted standards and implementation specifications by Federal agencies. |
+| 300jj–16. | Voluntary application and use of adopted standards and implementation specifications by private entities. |
+| 300jj–17. | Federal health information technology. |
+| 300jj–18. | Transitions. |
+| 300jj–19. | Miscellaneous provisions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part B—Incentives for the Use of Health Information Technology
+
+|  |  |
+| :--- | ---: |
+| 300jj–31. | Immediate funding to strengthen the health information technology infrastructure. |
+| 300jj–32. | Health information technology implementation assistance. |
+| 300jj–33. | State grants to promote health information technology. |
+| 300jj–34. | Competitive grants to States and Indian tribes for the development of loan programs to facilitate the widespread adoption of certified EHR technology. |
+| 300jj–35. | Demonstration program to integrate information technology into clinical education. |
+| 300jj–36. | Information technology professionals in health care. |
+| 300jj–37. | General grant and loan provisions. |
+| 300jj–38. | Authorization for appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2610,3 +2673,4 @@ I74subpart 1—portability, access, and renewability requirements
 - [Subchapter 025 (XXV) - Requirements Relating to Health Insurance Coverage](Subchapter%20025%20%28XXV%29%20-%20Requirements%20Relating%20to%20Health%20Insurance%20Coverage/README.md)
 - [Subchapter 026 (XXVI) - National All-Hazards Preparedness for Public Health Emergencies](Subchapter%20026%20%28XXVI%29%20-%20National%20All-Hazards%20Preparedness%20for%20Public%20Health%20Emergencies/README.md)
 - [Subchapter 027 (XXVII) - Lifespan Respite Care](Subchapter%20027%20%28XXVII%29%20-%20Lifespan%20Respite%20Care/README.md)
+- [Subchapter 028 (XXVIII) - Health Information Technology and Quality](Subchapter%20028%20%28XXVIII%29%20-%20Health%20Information%20Technology%20and%20Quality/README.md)

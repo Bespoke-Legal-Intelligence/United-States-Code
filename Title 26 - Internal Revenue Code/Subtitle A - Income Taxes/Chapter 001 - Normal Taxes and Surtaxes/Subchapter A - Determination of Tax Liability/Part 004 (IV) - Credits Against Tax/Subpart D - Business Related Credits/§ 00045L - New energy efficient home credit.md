@@ -56,7 +56,7 @@ A dwelling unit meets the energy saving requirements of this subsection if such 
 
 &emsp;&emsp;(A) to have a level of annual heating and cooling energy consumption which is at least 50 percent below the annual level of heating and cooling energy consumption of a comparable dwelling unit—
 
-&emsp;&emsp;&emsp;(i) which is constructed in accordance with the standards of chapter 4 of the 2003 International Energy Conservation Code, as such Code (including supplements) is ineffect on the date of the enactment of this section, and
+&emsp;&emsp;&emsp;(i) which is constructed in accordance with the standards of chapter 4 of the 2003 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of this section, and
 
 &emsp;&emsp;&emsp;(ii) for which the heating and cooling equipment efficiencies correspond to the minimum allowed under the regulations established by the Department of Energy pursuant to the National Appliance Energy Conservation Act of 1987 and in effect at the time of completion of construction, and
 

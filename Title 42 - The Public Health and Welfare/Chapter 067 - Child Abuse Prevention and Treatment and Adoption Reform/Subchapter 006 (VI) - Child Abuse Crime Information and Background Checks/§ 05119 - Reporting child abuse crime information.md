@@ -8,7 +8,7 @@ In each State, an authorized criminal justice agency of the State shall report c
 
 (1) Not later than 180 days after December 20, 1993, the Attorney General shall, subject to availability of appropriations—
 
-&emsp;(A) investigate the criminal history records system of each State and determine for each State a timetable by which the State shouldbe able to provide child abuse crime records on an on-line basis through the national criminal history background check system;
+&emsp;(A) investigate the criminal history records system of each State and determine for each State a timetable by which the State should be able to provide child abuse crime records on an on-line basis through the national criminal history background check system;
 
 &emsp;(B) in consultation with State officials, establish guidelines for the reporting or indexing of child abuse crime information, including guidelines relating to the format, content, and accuracy of criminal history records and other procedures for carrying out this subchapter; and
 
@@ -20,7 +20,7 @@ In each State, an authorized criminal justice agency of the State shall report c
 
 &emsp;(B) continue to maintain a reporting rate of at least 80 percent for final dispositions in all identifiable child abuse crime cases in which there has been an event of activity within the preceding 5 years; and
 
-&emsp;(C) take steps to achieve 100 percent disposition reporting, including data quality audits and periodic notices to criminal justice agencies identifying records that lack final dispositions and requesting those dispositions.
+&emsp;(C) take steps to achieve 100 percent disposition reporting, including data quality auditsand periodic notices to criminal justice agencies identifying records that lack final dispositions and requesting those dispositions.
 
 #### (c) Liaison
 

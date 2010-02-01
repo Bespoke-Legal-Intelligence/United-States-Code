@@ -30,11 +30,15 @@ It is the purpose of this chapter—
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
 2004—Subsec. (b)(1). Pub. L. 108–199 substituted “the United States Interagency Council on Homelessness” for “an Interagency Council on the Homeless”.
+
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–22, div. B, §1001(a), May 20, 2009, 123 Stat. 1663, provided that: “This division \[enacting sections 11318, 11360, 11360a, 11361a, 11361b, 11363, 11364, 11372, 11372a, 11374, 11381 to 11384, and 11386a to 11386e of this title, redesignating part G of subchapter IV of this chapter as part D of subchapter IV of this chapter, amending sections 11302, 11311 to 11313, 11315, 11361, 11362, 11373 to 11376, 11378, 11386, 11387, 11388, and 11408 of this title, repealing sections 11318, 11372, 11374, 11377, 11381 to 11384, and 11389 of this title and parts D to F of subchapter IV of this chapter, and enacting provisions set out as notes under this section and sections 11302 and 11311 of this title\] may be cited as the ‘Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009’.”
 
 #### Short Title of 2002 Amendment
 
@@ -46,7 +50,7 @@ Pub. L. 103–421, §1, Oct. 25, 1994, 108 Stat. 4346, provided that: “This Ac
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–120, §1, Oct. 27, 1993, 107 Stat. 1144, provided that: “This Act \[amending sections 1490<i>o</i> and 12724 of this title and sections 1701z–11, 1721, and 1735f–9 of Title 12, Banks and Banking, enacting provisions set out as notes under this section and sections 1437f, 1490<i>o</i>, and 9816 of this title, and amending a provision set out as a note under section 1437f of this title\] may be cited as the ‘HUD Demonstration Act of 1993’.”
+Pub. L. 103–120, §1, Oct. 27, 1993, 107 Stat. 1144, provided that: “This Act \[amending sections 1490<i>o</i> and12724 of this title and sections 1701z–11, 1721, and 1735f–9 of Title 12, Banks and Banking, enacting provisions set out as notes under this section and sections 1437f, 1490<i>o</i>, and 9816 of this title, and amending a provision set out as a note under section 1437f of this title\] may be cited as the ‘HUD Demonstration Act of 1993’.”
 
 #### Short Title of 1992 Amendment
 
@@ -60,7 +64,7 @@ Pub. L. 101–645, title VI, §601, Nov. 29, 1990, 104 Stat. 4734, provided that
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–628, §1(a), Nov. 7, 1988, 102 Stat. 3224, provided that: “This Act \[enacting sections 3544, 11320, and 11402 of this title and sections 1583, 1791 to 1791j of Title 29, Labor, amending sections 254e, 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, 290ee–1, 503, 504, 602, 1437d, 1437f, 1437n, 1437<i>o</i>, 1437r, 1472, 1480, 1484 to 1486, 1490<i>o</i>, 3002, 3015, 3021, 3025 to 3027, 3031,3035a, 3056e, 4013, 4121, 4822, 5302, 5304, 5306, 5318, 8103, 11304, 11313, 11318, 11319, 11352, 11361, 11373 to 11375, 11377, 11382 to 11385, 11387, 11388, 11392, 11394, 11401, 11411, 11421, 11432, 11433, 11435, 11447, 11449, 11462 to 11464, and 11501 of this title, sections 1454, 1701x, 1701z–11, 1709, 1710, 1715z–1a, 1715z–12, 1715z–20, 1717, 2805, and 2806 of Title 12, Banks and Banking, sections 1701 and 1719 of Title 15, Commerce and Trade, and sections 49, 49a, 49b, 49d to 49j, 49<i>l</i>, 49<i>l</i>–1, 1502, 1504, 1505, 1514, 1516, 1531, and 1602 of Title 29, enacting provisions set out as notes under this section and sections 256, 1437d, 1437f, 1472, 11303, 11374, 11381, 11383, 11384, 11392, 11401, and 11501 of this title, sections 1710 and 1715z–1a of Title 12, section 2661 of Title 15, and section 1501 of Title 29, and amending provisions set out as notes under sections 290aa–3, 1472, 1490m, and 4822 of this title, sections 1701z–6, 1709, 1715<i>l</i>, and 2802 of Title 12, and section 49 of Title 29\] may be cited as the ‘Stewart B. McKinney Homeless Assistance Amendments Act of 1988’.”
+Pub. L. 100–628, §1(a), Nov. 7, 1988, 102 Stat. 3224, provided that: “This Act \[enacting sections 3544, 11320, and 11402 of this title and sections 1583, 1791 to 1791j of Title 29, Labor, amending sections 254e, 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, 290ee–1, 503, 504, 602, 1437d, 1437f, 1437n, 1437<i>o</i>, 1437r, 1472, 1480, 1484 to 1486, 1490<i>o</i>, 3002, 3015, 3021, 3025 to 3027, 3031, 3035a, 3056e, 4013, 4121, 4822, 5302, 5304, 5306, 5318, 8103, 11304, 11313, 11318, 11319, 11352, 11361, 11373 to 11375, 11377, 11382 to 11385, 11387, 11388, 11392, 11394, 11401, 11411, 11421, 11432, 11433, 11435, 11447, 11449, 11462 to 11464, and 11501 of this title, sections 1454, 1701x, 1701z–11, 1709, 1710, 1715z–1a, 1715z–12, 1715z–20, 1717, 2805, and 2806 of Title 12, Banks and Banking, sections 1701 and 1719 of Title 15, Commerce and Trade, and sections 49, 49a, 49b, 49d to 49j, 49<i>l</i>, 49<i>l</i>–1, 1502, 1504, 1505, 1514, 1516, 1531, and 1602 of Title 29, enacting provisions set out as notes under this section and sections 256, 1437d, 1437f, 1472, 11303, 11374, 11381, 11383, 11384, 11392, 11401, and 11501 of this title, sections 1710 and 1715z–1a of Title 12, section 2661 of Title 15, and section 1501 of Title 29, and amending provisions set out as notes under sections 290aa–3, 1472, 1490m, and 4822 of this title, sections 1701z–6, 1709, 1715<i>l</i>, and 2802 of Title 12, and section 49 of Title 29\] may be cited as the ‘Stewart B. McKinney Homeless Assistance Amendments Act of 1988’.”
 
 #### Short Title
 
@@ -72,7 +76,39 @@ Section 101(a) of Pub. L. 100–77, as amended by Pub. L. 106–400, §1, Oct. 3
 
 #### Regulations
 
+Pub. L. 111–22, div. B, title V, §1504, May 20, 2009, 123 Stat. 1702, provided that:
+
+“(a)
+
+In General.—Not later than 12 months after the date of the enactment of this division \[May 20, 2009\], the Secretary of Housing and Urban Development shall promulgate regulations governing the operation of the programs that are created or modified by this division \[see Short Title of 2009 Amendment note above\].
+
+“(b)
+
+Effective Date.—This section shall take effect on the date of the enactment of this division.”
+
 Pub. L. 100–628, title IV, §485, Nov. 7, 1988, 102 Stat. 3239, provided that: “Not later than 60 days after the date of the enactment of this Act \[Nov. 7, 1988\], the Secretary of Housing and Urban Development or other Federal entity involved shall by notice establish such requirements as may be necessary to carry out the amendments made by titles I through IV \[see Tables for classification\] and by section 501(2)(B) \[amending section 11411 of this title\]. The Secretary or other Federal entity involved shall issue regulations based on the notice not later than 12 months after the date of the enactment of this Act.”
+
+#### Findings and Purposes
+
+Pub. L. 111–22, div. B, §1002, May 20, 2009, 123 Stat. 1664, provided that:
+
+“(a)
+
+Findings.—The Congress finds that—
+
+&emsp;“(1) a lack of affordable housing and limited scale of housing assistance programs are the primary causes of homelessness; and
+
+&emsp;“(2) homelessness affects all types of communities in the United States, including rural, urban, and suburban areas.
+
+“(b)
+
+Purposes.—The purposes of this division \[see Short Title of 2009 Amendment note above\] are—
+
+&emsp;“(1) to consolidate the separate homeless assistance programs carried out under title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11360 et seq.\] (consisting of the supportive housing program and related innovative programs, the safe havens program, the section 8 \[42 U.S.C. 1437f\] assistance program for single-room occupancy dwellings, and the shelter plus care program) into a single program with specific eligible activities;
+
+&emsp;“(2) to codify in Federal law the continuum of care planning process as a required and integral local function necessary to generate the local strategies for ending homelessness; and
+
+&emsp;“(3) to establish a Federal goal of ensuring that individuals and families who become homeless return to permanent housing within 30 days.”
 
 #### References to Stewart B. McKinney Homeless Assistance Act
 

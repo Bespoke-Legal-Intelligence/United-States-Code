@@ -1175,6 +1175,26 @@ Section 103(n) of Pub. L. 89–809 provided that:
 
 Section 131 of Pub. L. 88–272, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except for purposes of section 21 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title \[amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title\] shall apply with respect to taxable years beginning after December 31, 1963.”
 
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–116, §1, Dec. 16, 2009, 123 Stat. 3031, provided that: “This Act \[amending sections 4081, 4261, 4271, and 9502 of this title and sections 106, 40117, 44302, 44303, 47104, 47107, 47115, 47141, 48101 to 48103, and 49108 of Title 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title and section 40117 of Title 49, and amending provisions set out as a note under section 47109 of Title 49\] may be cited as the ‘Fiscal Year 2010 Federal Aviation Administration Extension Act, Part II’.”
+
+Pub. L. 111–92, §1, Nov. 6, 2009, 123 Stat. 2984, provided that: “This Act \[amending sections 36, 56, 132, 172, 810, 864, 1400C, 3301, 6011, 6213, 6698, and 6699 of this title, section 1103 of Title 42, The Public Health and Welfare, and section 352 of Title 45, Railroads, enacting provisions set out as notes under sections 36, 56, 132, 172, 864, 3301, 3304, 6011, 6213, 6655, and 6698 of this title and section 1103 of Title 42, and amending provisions set out as a note under section 3304 of this title\] may be cited as the ‘Worker, Homeownership, and Business Assistance Act of 2009’.”
+
+Pub. L. 111–69, §1, Oct. 1, 2009, 123 Stat. 2054, provided that: “This Act \[amending sections 4081, 4261, 4271, and 9502 of this title and sections 106, 40117, 41743, 44302, 44303, 47104, 47107, 47115, 47141, 48101 to 48103, and 49108 of Title 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title and section 40117 of Title 49, and amending provisions set out as notes under sections 41731 and 47109 of Title 49\] may be cited as the ‘Fiscal Year 2010 Federal Aviation Administration Extension Act’.”
+
+Pub. L. 111–42, title II, §201, July 28, 2009, 123 Stat. 1964, provided that: “This title \[enacting provisions set out as a note under section 6655 of this title\] may be cited as the ‘Corporate Estimated Tax Shift Act of 2009’.”
+
+Pub. L. 111–12, §1, Mar. 30, 2009, 123 Stat. 1457, provided that: “This Act \[amending sections 4081, 4261, 4271, and 9502 of this title and sections 106, 40117, 44302, 44303, 47104, 47107, 47115, 47141, 48101 to 48103, and 49108 of Title 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title and section 40117 of Title 49, and amending provisions set out as a note under section 47109 of Title 49\] may be cited as the ‘Federal Aviation Administration Extension Act of 2009’.”
+
+Pub. L. 111–5, §1, Feb. 17, 2009, 123 Stat. 115, provided that: “This Act \[see Tables for classification\] may be cited as the ‘American Recovery and Reinvestment Act of 2009’.”
+
+Pub. L. 111–5, div. B, title I, §1000(a), Feb. 17, 2009, 123 Stat. 306, provided that: “This title \[see Tables for classification\] may be cited as the ‘American Recovery and Reinvestment Tax Act of 2009’.”
+
+Pub. L. 111–5, div. B, title I, §1899, Feb. 17, 2009, 123 Stat. 423, provided that: “This part \[part VI (§§1899–1899L) of subtitle I of title I of div. B of Pub. L. 111–5, amending sections 35, 4980B, 7527, and 9801 of this title, sections 1162, 1181, 2918, and 2919 of Title 29, Labor, and sections 300bb–2 and 300gg of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 35, 4980B, 7527, and 9801 of this title\] may be cited as the ‘TAA Health Coverage Improvement Act of 2009’.”
+
+Pub. L. 111–5, div. B, title II, §2000(a), Feb. 17, 2009, 123 Stat. 436, provided that: “This title \[amending sections 603, 604, 607, 1103, 1308, and 1322 of Title 42, The Public Health and Welfare, and section 352 of Title 45, Railroads, enacting provisions set out as notes under sections 3304 and 6428 of this title and sections 603, 607, 655, 1103, and 1308 of Title 42, and amending provisions set out as notes under section 3304 of this title\] may be cited as the ‘Assistance for Unemployed Workers and Struggling Families Act’.”
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–449, §1, Nov. 21, 2008, 122 Stat. 5014, provided that: “This Act \[enacting and amending provisions set out as notes under section 3304 of this title\] may be cited as the ‘Unemployment Compensation Extension Act of 2008’.”
@@ -1193,7 +1213,7 @@ Pub. L. 110–289, div. C, §3000(a), July 30, 2008, 122 Stat. 2877, provided th
 
 Pub. L. 110–253, §1, June 30, 2008, 122 Stat. 2417, provided that: “This Act \[amending sections 4081, 4261, 4271, and 9502 of this title and sections 40117, 44302, 44303, 47104, 47115, 47141, and 48103 of Title 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title and section 47104 of Title 49, and amending provisions set out as a note under section 47109 of Title 49\] may be cited as the ‘Federal Aviation Administration Extension Act of 2008’.”
 
-Pub. L. 110–245, §1(a), June 17, 2008, 122 Stat. 1624, provided that: “This Act \[enacting chapter 15 and sections 45P and 877A of this title, amending sections 32, 38, 72,121, 125, 134, 143, 219, 280C, 401, 403, 404, 408A, 414, 457, 530, 877, 3121, 3306, 3401, 6039G, 6103, 6428, 6511, 6651, 7701, and 9812 of this title, section 1185a of Title 29, Labor, and sections 300gg–5, 409, 410, 1382a, and 1382b of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 32, 38, 72, 121, 125, 134, 143, 219, 401, 408A, 414, 3121, 3401, 6103, 6428, 6511, and 6651 of this title and section 1382a of Title 42\] may be cited as the ‘Heroes Earnings Assistance and Relief Tax Act of 2008’.”
+Pub. L. 110–245, §1(a), June 17, 2008, 122 Stat. 1624, provided that: “This Act \[enacting chapter 15 and sections 45P and 877A of this title, amending sections 32, 38, 72, 121, 125, 134, 143, 219, 280C, 401, 403, 404, 408A, 414, 457, 530, 877, 3121, 3306, 3401, 6039G, 6103, 6428, 6511, 6651, 7701, and 9812 of this title, section 1185a of Title 29, Labor, and sections 300gg–5, 409, 410, 1382a, and 1382b of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 32, 38, 72, 121, 125, 134, 143, 219, 401, 408A, 414, 3121, 3401, 6103, 6428, 6511, and 6651 of this title and section 1382a of Title 42\] may be cited as the ‘Heroes Earnings Assistance and Relief Tax Act of 2008’.”
 
 Pub. L. 110–234, title XV, §15001(a), May 22, 2008, 122 Stat. 1484, and Pub. L. 110–246, §4(a), title XV, §15001(a), June 18, 2008, 122 Stat. 1664, 2246, provided that: “This title \[see Tables for classification\] may be cited as the ‘Heartland, Habitat, Harvest, and Horticulture Act of 2008’.”
 
@@ -1249,7 +1269,7 @@ Pub. L. 108–26, §1, May 28, 2003, 117 Stat. 751, provided that: “This Act \
 
 #### Short Title of 2002 Amendments
 
-Pub. L. 107–358, §1, Dec. 17, 2002, 116 Stat. 3015, provided that: “This Act \[amending provisions set out asa note under this section\] may be cited as the ‘Holocaust Restitution Tax Fairness Act of 2002’.”
+Pub. L. 107–358, §1, Dec. 17, 2002, 116 Stat. 3015, provided that: “This Act \[amending provisions set out as a note under this section\] may be cited as the ‘Holocaust Restitution Tax Fairness Act of 2002’.”
 
 Pub. L. 107–181, §1, May 20, 2002, 116 Stat. 583, provided that: “This Act \[amending section 107 of this title and enacting provisions set out as a note under section 107 of this title\] may be cited as the ‘Clergy Housing Allowance Clarification Act of 2002’.”
 
@@ -1363,7 +1383,7 @@ Pub. L. 99–662, title XIV, §1401, Nov. 17, 1986, 100 Stat. 4266, provided tha
 
 Section 1(a) of Pub. L. 99–514 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Tax Reform Act of 1986’.”
 
-Pub. L. 99–499, title V, §501, Oct. 17, 1986, 100 Stat. 1760, provided that: “This title \[enacting sections 59A, 4671, 4672, 9507, and 9508 of this title, amending sections 26, 164, 275, 936, 1561, 4041, 4042, 4081, 4221, 4611, 4612, 4661, 4662, 6154, 6416, 6420, 6421, 6425, 6427, 6655, 9502, 9503, and 9506 of this title and section 9601 of Title 42, The Public Health and Welfare, repealing sections 4681 and 4682 of this title and sections 9631 to 9633, 9641, and 9653 of Title 42, and enacting provisions set out as notes under this section and sections 26, 4041, 4611, 4661, 4671, 4681, 9507,and 9508 of this title\] may be cited as the ‘Superfund Revenue Act of 1986’.”
+Pub. L. 99–499, title V, §501, Oct. 17, 1986, 100 Stat. 1760, provided that: “This title \[enacting sections 59A, 4671, 4672, 9507, and 9508 of this title, amending sections 26, 164, 275, 936, 1561, 4041, 4042, 4081, 4221, 4611, 4612, 4661, 4662, 6154, 6416, 6420, 6421, 6425, 6427, 6655, 9502, 9503, and 9506 of this title and section 9601 of Title 42, The Public Health and Welfare, repealing sections 4681 and 4682 of this title and sections 9631 to 9633, 9641, and 9653 of Title 42, and enacting provisions set out as notes under this section and sections 26, 4041, 4611, 4661, 4671, 4681, 9507, and 9508 of this title\] may be cited as the ‘Superfund Revenue Act of 1986’.”
 
 #### Short Title of 1984 Amendment
 
@@ -1413,7 +1433,7 @@ Pub. L. 96–499, title XI, §1100, Dec. 5, 1980, 94 Stat. 2660, provided: “Th
 
 Pub. L. 96–499, title XI, subtitle A (§§1101–1104), §1101, Dec. 5, 1980, 94 Stat. 2660, provided: “This subtitle \[enacting section 103A of this title, amending section 103 of this title, and enacting provisions set out as a note under section 103A of this title\] may be cited as the ‘Mortgage Subsidy Bond Tax Act of 1980’.”
 
-Pub. L. 96–499, title XI, §1121, Dec. 5, 1980, 94 Stat. 2682, provided: “This subtitle \[subtitle C (§§1121–1125) of title XI of Pub. L. 96–499, enacting sections 897 and 6039C of this title, amending sections 861, 871, 882, and 6652 of this title, and enacting provisions set out asnotes under section 897 of this title\] may be cited as the ‘Foreign Investment in Real Property Tax Act of 1980’.”
+Pub. L. 96–499, title XI, §1121, Dec. 5, 1980, 94 Stat. 2682, provided: “This subtitle \[subtitle C (§§1121–1125) of title XI of Pub. L. 96–499, enacting sections 897 and 6039C of this title, amending sections 861, 871, 882, and 6652 of this title, and enacting provisions set out as notes under section 897 of this title\] may be cited as the ‘Foreign Investment in Real Property Tax Act of 1980’.”
 
 Pub. L. 96–471, §1(a), Oct. 19, 1980, 94 Stat. 2247, provided: “This Act \[enacting sections 453 to 453B of this title, amending sections 311, 336, 337, 381, former section 453, sections 453B, 481, 644, 691, 1038, 1239, and 1255 of this title, and enacting provisions set out as notes under sections 453, 691, and 1038 of this title\] may be cited as the ‘Installment Sales Revision Act of 1980’.”
 
@@ -1439,7 +1459,7 @@ Section 1(a) of Pub. L. 95–600 provided that: “This Act \[see Tables for cla
 
 Pub. L. 95–502, title II, §201, Oct. 21, 1978, 92 Stat. 1696, provided that: “This title \[enacting section 4042 of this title and sections 1801 to 1804 of Title 33, Navigation and Navigable Waters, amending section 4293 of this title, and enacting provisions set out as notes under section 4042 of this title\] may be cited as the ‘Inland Waterways Revenue Act of 1978’.”
 
-Pub. L. 95–227, §1, Feb. 10, 1978, 92 Stat. 11, provided that: “This Act \[enacting sections 192, 4121, and 4951 to 4953 of this title and section 934a of Title 30, Mineral Lands and Mining, amended sections 501, 4218, 4221, 4293, 4946, 6104, 6213, 6405, 6416, 6501, 6503, and 7454 of this title and section 934 of Title 30 and enacted provisions set out as notes under sections 192 and 4121 of this title and section 934 of Title 30\] may be cited as the ‘Black Lung Benefits Revenue Act of 1977’.”
+Pub. L. 95–227, §1, Feb. 10, 1978, 92 Stat. 11, provided that: “This Act \[enacting sections 192, 4121, and 4951 to4953 of this title and section 934a of Title 30, Mineral Lands and Mining, amended sections 501, 4218, 4221, 4293, 4946, 6104, 6213, 6405, 6416, 6501, 6503, and 7454 of this title and section 934 of Title 30 and enacted provisions set out as notes under sections 192 and 4121 of this title and section 934 of Title 30\] may be cited as the ‘Black Lung Benefits Revenue Act of 1977’.”
 
 #### Short Title of 1977 Amendments
 
@@ -1513,7 +1533,7 @@ Pub. L. 88–272, §2(a), Feb. 26, 1964, 78 Stat 19, provided that: “This Act 
 
 #### Short Title of 1963 Amendment
 
-Pub. L. 88–52, §1, June 29, 1963, 77 Stat. 72, provided: “That this Act \[amending sections 11, 821, 4061, 4251, 4261, 5001, 5022, 5041, 5051, 5063, 5701, 5707, 6412 of this title and provisions set out as notes under sections 4261 and 5701 of this title\] may be cited as the ‘Tax Rate Extension Act of 1963’.”
+Pub. L. 88–52, §1, June 29, 1963, 77 Stat. 72, provided: “That this Act \[amending sections 11, 821, 4061, 4251, 4261, 5001, 5022, 5041, 5051, 5063, 5701, 5707, 6412 of this title and provisions set out as notes under sections 4261and 5701 of this title\] may be cited as the ‘Tax Rate Extension Act of 1963’.”
 
 #### Short Title of 1962 Amendments
 
@@ -1558,6 +1578,28 @@ Section 1 of act Mar. 13, 1956, provided: “That this Act \[enacting section 84
 #### Short Title of 1955 Amendment
 
 For short title of act Mar. 30, 1955 as the “Tax Rate Extension Act of 1955”, see section 1 of act Mar. 30, 1955, set out as a note under section 4041 of this title.
+
+#### Purposes and Principles
+
+Pub. L. 111–5, §3, Feb. 17, 2009, 123 Stat. 115, provided that:
+
+“(a)
+
+Statement of Purposes.—The purposes of this Act \[see Tables for classification\] include the following:
+
+&emsp;“(1) To preserve and create jobs and promote economic recovery.
+
+&emsp;“(2) To assist those most impacted by the recession.
+
+&emsp;“(3) To provide investments needed to increase economic efficiency by spurring technological advances in science and health.
+
+&emsp;“(4) To invest in transportation, environmental protection, and other infrastructure that will provide long-term economic benefits.
+
+&emsp;“(5) To stabilize State and local government budgets, in order to minimize and avoid reductions in essential services and counterproductive state and local tax increases.
+
+“(b)
+
+General Principles Concerning Use of Funds.—The President and the heads of Federal departments and agencies shall manage and expend the funds made available in this Act so as to achieve the purposes specified in subsection (a), including commencing expenditures and activities as quickly as possible consistent with prudent management.”
 
 #### Transitional Rules for Taxable Years Which Include May 6, 2003
 
@@ -1631,7 +1673,7 @@ Pub. L. 106–554, §1(a)(7) \[title III, §308\], Dec. 21, 2000, 114 Stat. 2763
 
 “(a)
 
-Determinations by OMB.—As soon as practicable after the date of the enactment of this Act \[Dec. 21, 2000\], the Director of the Office of Management and Budget shall determine with respect to each applicable Federal benefit program whether the CPI computation error for 1999 has or will result in a shortfall in payments to beneficiaries under such program (as compared to payments that would have been made if the error had not occurred). As soon as practicable after the date of the enactment of this Act, but not laterthan 60 days after such date, the Director shall direct the head of the Federal agency which administers such program to make a payment or payments that, insofar as the Director finds practicable and feasible—
+Determinations by OMB.—As soon as practicable after the date of the enactment of this Act \[Dec. 21, 2000\], the Director of the Office of Management and Budget shall determine with respect to each applicable Federal benefit program whether the CPI computation error for 1999 has or will result in a shortfall in payments to beneficiaries under such program (as compared to payments that would have been made if the error had not occurred). As soon as practicable after the date of the enactment of this Act, but not later than 60 days after such date, the Director shall direct the head of the Federal agency which administers such program to make a payment or payments that, insofar as the Director finds practicable and feasible—
 
 &emsp;“(1) are targeted to the amount of the shortfall experienced by individual beneficiaries, and
 
@@ -1667,7 +1709,7 @@ Definitions.—For purposes of this section:
 
 &emsp;“(1)
 
-Applicable federal benefit program.—The term ‘applicable Federal benefit program’ means any program of the Government of the United States providing for regular or periodic payments or cash assistance paid directly to individual beneficiaries, as determined by the Director of the Office of Management and Budget.
+Applicable federal benefit program.—The term ‘applicable Federal benefit program’ means anyprogram of the Government of the United States providing for regular or periodic payments or cash assistance paid directly to individual beneficiaries, as determined by the Director of the Office of Management and Budget.
 
 &emsp;“(2)
 
@@ -1723,7 +1765,7 @@ Pub. L. 105–277, div. J, title IV, §4002(i)(2), Oct. 21, 1998, 112 Stat. 2681
 
 #### Capital Gain Distribution by Trust
 
-Pub. L. 105–277, div. J, title IV, §4003(b), Oct. 21, 1998, 112 Stat. 2681–909, as amended by Pub. L. 106–554, §1(a)(7) \[title III, §312(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–640, provided that: “In the case of any capital gain distribution made after 1997 by a trust to whichsection 664 of the 1986 Code applies with respect to amounts properly taken into account by such trust during 1997, paragraphs (5)(A)(i)(I), (5)(A)(ii)(I), (7)(A)(i)(II), and (13)(A) of section 1(h) of the 1986 Code (as in effect for taxable years ending on December 31, 1997) shall not apply.”
+Pub. L. 105–277, div. J, title IV, §4003(b), Oct. 21, 1998, 112 Stat. 2681–909, as amended by Pub. L. 106–554, §1(a)(7) \[title III, §312(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–640, provided that: “In the case of any capital gain distribution made after 1997 by a trust to which section 664 of the 1986 Code applies with respect to amounts properly taken into account by such trust during 1997, paragraphs (5)(A)(i)(I), (5)(A)(ii)(I), (7)(A)(i)(II), and (13)(A) of section 1(h) of the 1986 Code (as in effect for taxable years ending on December 31, 1997) shall not apply.”
 
 #### Election To Recognize Gain on Assets Held on January 1, 2001
 
@@ -1755,7 +1797,7 @@ Readily tradable stock.—For purposes of this subsection, the term ‘readily t
 
 &emsp;“(5)
 
-Disposition of interest in passive activity.—Section 469(g)(1)(A) of the Internal Revenue Code of 1986 shall not apply by reason of an election made under paragraph (1).”
+Disposition of interest in passive activity.—Section 469(g)(1)(A) of the Internal Revenue Code of1986 shall not apply by reason of an election made under paragraph (1).”
 
 \[Pub. L. 107–147, title IV, §414(b), Mar. 9, 2002, 116 Stat. 54, provided that: “The amendments made by this section \[amending section 311(e) of Pub. L. 105–34, set out above\] shall take effect as if included in section 311 of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34\].”\]
 
@@ -1886,6 +1928,8 @@ Pub. L. 88–272, §1, Feb. 26, 1964, 78 Stat. 19, provided that: “It is the s
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 42, 59, 63, 68, 132, 135, 137, 146, 147, 151, 179, 213, 219, 220, 221, 223, 408A, 512, 513, 685, 877, 877A, 911, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 7430, and 7702B of this title for certain years were contained in the following:
+
+2010—Revenue Procedure 2009–50.
 
 2009—Revenue Procedure 2008–66.
 

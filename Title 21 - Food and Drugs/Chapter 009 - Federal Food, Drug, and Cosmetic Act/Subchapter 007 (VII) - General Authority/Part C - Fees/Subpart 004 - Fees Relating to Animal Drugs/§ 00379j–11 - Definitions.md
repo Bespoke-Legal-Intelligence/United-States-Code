@@ -20,13 +20,13 @@ For purposes of this subpart:
 
 &emsp;&emsp;(B) the submission of information for the purpose of enabling the Secretary to evaluate the safety or effectiveness of an animal drug application or supplemental animal drug application in the event of their filing.
 
-&emsp;(6) The term “animal drug sponsor” means either an applicant named in an animal drug application that has not been withdrawn by the applicant and for which approval has not been withdrawn by the Secretary, or a person who has submitted an investigational animal drug submission that has not been terminatedor otherwise rendered inactive by the Secretary.
+&emsp;(6) The term “animal drug sponsor” means either an applicant named in an animal drug application that has not been withdrawn by the applicant and for which approval has not been withdrawn by the Secretary, or a person who has submitted an investigational animal drug submission that has not been terminated or otherwise rendered inactive by the Secretary.
 
 &emsp;(7) The term “final dosage form” means, with respect to an animal drug product, a finished dosage form which is approved for administration to an animal without substantial further manufacturing. Such term includes animal drug products intended for mixing in animal feeds.
 
 &emsp;(8) The term “process for the review of animal drug applications” means the following activities of the Secretary with respect to the review of animal drug applications, supplemental animal drug applications, and investigational animal drug submissions:
 
-&emsp;&emsp;(A) The activities necessary for the review of animal drug applications, supplemental animal drug applications, and investigational animal drug submissions.
+&emsp;&emsp;(A) The activities necessary for the review of animal drug applications, supplementalanimal drug applications, and investigational animal drug submissions.
 
 &emsp;&emsp;(B) The issuance of action letters which approve animal drug applications or supplemental animal drug applications or which set forth in detail the specific deficiencies in animal drug applications, supplemental animal drug applications, or investigational animal drug submissions and, where appropriate, the actions necessary to place such applications, supplements or submissions in condition for approval.
 
@@ -86,7 +86,7 @@ Par. (11). Pub. L. 110–85, §109(b), substituted “379g(11)” for “379g(9)
 
 #### Effective and Termination Dates of 2008 Amendment
 
-Pub. L. 110–316, title I, §107, Aug. 14, 2008, 122 Stat. 3514, provided that: “The amendments made by sections 102, 103, and 104 \[enacting section 379j–13 of this title and amending this section and section 379j–12 of this title\] shall take effect on October 1, 2008, and fees under part 4 of subchapter C of chapter VII of the FederalFood, Drug, and Cosmetic Act \[21 U.S.C. 379j–11 et seq.\], as amended by this title, shall be assessed for all animal drug applications and supplemental animal drug applications received on or after such date, regardless of the date of the enactment of this title \[Aug. 14, 2008\].”
+Pub. L. 110–316, title I, §107, Aug. 14, 2008, 122 Stat. 3514, provided that: “The amendments made by sections 102, 103, and 104 \[enacting section 379j–13 of this title and amending this section and section 379j–12 of this title\] shall take effect on October 1, 2008, and fees under part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–11 et seq.\], as amended by this title, shall be assessed for all animal drug applications and supplemental animal drug applications received on or after such date, regardless of the date of the enactment of this title \[Aug. 14, 2008\].”
 
 Pub. L. 110–316, title I, §108, Aug. 14, 2008, 122 Stat. 3515, provided that:
 

@@ -26,7 +26,7 @@ No person who sells, or offers for sale, distilled spirits, or agent or employee
 
 &emsp;(4) possess any liquor bottle, any portion of the contents of which has been altered or increased in violation of the provisions of paragraph (3);
 
-> except that the Secretary may by regulations authorize the reuse of liquor bottles, under such conditions as he may by regulations prescribe. When used in this subsection the term “liquor bottle” shall mean a liquor bottle or other container which has been used for the bottling or packaging of distilled spirits under regulations issued pursuant to subsection (a).
+> except that the Secretary may by regulations authorize the reuse of liquor bottles, under suchconditions as he may by regulations prescribe. When used in this subsection the term “liquor bottle” shall mean a liquor bottle or other container which has been used for the bottling or packaging of distilled spirits under regulations issued pursuant to subsection (a).
 
 #### (d) Closures
 
@@ -58,7 +58,7 @@ A prior section 5307, act Aug. 16, 1954, ch. 736, 68A Stat. 657, related to prod
 
 A prior section 5308, act Aug. 16, 1954, ch. 736, 68A Stat. 657, related to transfer of alcohol to other plants or warehouses, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5212 and 5223(a) of this title.
 
-A prior section 5309, act Aug. 16, 1954, ch. 736, 68A Stat. 658, related to withdrawal of fermented liquors toindustrial alcohol plants, prior to the general revision of this chapter by Pub. L. 85–859. See section 5222(b) of this title.
+A prior section 5309, act Aug. 16, 1954, ch. 736, 68A Stat. 658, related to withdrawal of fermented liquors to industrial alcohol plants, prior to the general revision of this chapter by Pub. L. 85–859. See section 5222(b) of this title.
 
 A prior section 5310, act Aug. 16, 1954, ch. 736, 68A Stat. 658, related to withdrawal of alcohol free of tax, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5214(a), (a)(1) to (3), 5241, 5242, 5272(b), 5273(b)(1), (2), (d), and 5313 of this title.
 

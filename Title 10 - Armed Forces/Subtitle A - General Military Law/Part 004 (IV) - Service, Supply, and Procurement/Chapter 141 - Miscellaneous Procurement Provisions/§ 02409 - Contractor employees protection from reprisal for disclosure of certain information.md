@@ -22,7 +22,7 @@ Remedy and Enforcement Authority.—(1) Not later than 30 days after receiving a
 
 &emsp;(C) Order the contractor to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys’ fees and expert witnesses’ fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the agency.
 
-(2) If the head of an executive agency issues an order denying relief under paragraph (1) or has not issued an order within 210 days after the submission of a complaint under subsection (b), or in the case of an extension of time under paragraph (b)(2)(B), not later than 30 days after the expiration of the extension of time, and there is no showing that such delay is due to the bad faith of the complainant, the complainant shall be deemed to have exhausted all administrative remedies with respect to the complaint, and the complainant may bring a de novo action at law or equity against the contractor to seek compensatory damages and other relief available under this section in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy. Such an action shall, at the request of either party to the action, be tried by the court with a jury.
+(2) If the head of an executive agency issues an order denying relief under paragraph (1) or has not issued an order within 210 days after the submission of a complaint under subsection (b), or in the case of an extension of time under paragraph (b)(2)(B), not later than 30 days after the expiration of the extension of time, and there is no showing that such delay is due to the bad faith of the complainant, the complainant shall be deemed to have exhausted all administrative remedies with respect to the complaint,and the complainant may bring a de novo action at law or equity against the contractor to seek compensatory damages and other relief available under this section in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy. Such an action shall, at the request of either party to the action, be tried by the court with a jury.
 
 (3) An Inspector General determination and an agency head order denying relief under paragraph (2) shall be admissible in evidence in any de novo action at law or equity brought pursuant to this subsection.
 
@@ -90,7 +90,7 @@ Section 4321(a) of Pub. L. 104–106 provided that the amendment made by that se
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective Date of 1992 Amendment
 

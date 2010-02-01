@@ -22,7 +22,7 @@ The Commission shall also have the power—
 
 &emsp;(7) to—
 
-&emsp;&emsp;(A) initiate, prosecute, defend, or appeal (other than to the Supreme Court of the United States), through its own legal representative and in the name of the Commission, any civil action if the Commission makes a written request to the Attorney General for representation in such civil action and the Attorney General does notwithin the 45-day period beginning on the date such request was made notify the Commission in writing that the Attorney General will represent the Commission in such civil action, and
+&emsp;&emsp;(A) initiate, prosecute, defend, or appeal (other than to the Supreme Court of the United States), through its own legal representative and in the name of the Commission, any civil action if the Commission makes a written request to the Attorney General for representation in such civil action and the Attorney General does not within the 45-day period beginning on the date such request was made notify the Commission in writing that the Attorney General will represent the Commission in such civil action, and
 
 &emsp;&emsp;(B) initiate, prosecute, or appeal, through its own legal representative, with the concurrence of the Attorney General or through the Attorney General, any criminal action,
 
@@ -82,7 +82,7 @@ Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act o
 
 &emsp;&emsp;(A) progress reports and incident updates with respect to action plans implemented under section 2064(d) of this title;
 
-&emsp;&emsp;(B) statistics with respect to injuries and deaths associated with products that theCommission determines present a substantial product hazard under section 2064(c) of this title; and
+&emsp;&emsp;(B) statistics with respect to injuries and deaths associated with products that the Commission determines present a substantial product hazard under section 2064(c) of this title; and
 
 &emsp;&emsp;(C) the number and type of communication from consumers to the Commission with respect to each product with respect to which the Commission takes action under section 2064(d) of this title;
 
@@ -146,7 +146,7 @@ Subsec. (m). Pub. L. 97–35, §1211(d), struck out subsec. (m) which defined �
 
 1978—Subsec. (m). Pub. L. 95–631 added subsec. (m).
 
-1976—Subsec. (b)(7). Pub. L. 94–284, §11(c), permitted the Commission to initiate, defend, prosecute, or appeal any civil action through its own legal representative provided that the Commission make a written request to the Attorney General for such representationand the Attorney General fail within a 45 day period to notify the Commission in writing that the Attorney General will represent the Commission, and with regard to criminal action, permitted the Commission to initiate, prosecute, or appeal with its own legal representative, with the concurrence of the Attorney General, or through the Attorney General.
+1976—Subsec. (b)(7). Pub. L. 94–284, §11(c), permitted the Commission to initiate, defend, prosecute, or appeal any civil action through its own legal representative provided that the Commission make a written request to the Attorney General for such representation and the Attorney General fail within a 45 day period to notify the Commission in writing that the Attorney General will represent the Commission, and with regard to criminal action, permitted the Commission to initiate, prosecute, or appeal with its own legal representative, with the concurrence of the Attorney General, or through the Attorney General.
 
 Subsec. (b)(8), (9). Pub. L. 94–284, §8(b), added par. (8) and redesignated former par. (8) as par (9).
 

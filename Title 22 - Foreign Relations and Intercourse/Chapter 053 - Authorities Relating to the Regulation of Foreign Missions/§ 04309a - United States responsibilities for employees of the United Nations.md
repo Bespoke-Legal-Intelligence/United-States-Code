@@ -32,7 +32,7 @@ This section shall not apply with respect to any United States national.
 
 #### (e) “United Nations Headquarters District” defined
 
-For purposes of this section, the term “United Nations Headquarters District” means the area within the United States which is agreed to by the United Nations and the United States to constitute such a district, together with such other areas as the Secretary of State may approve from time to time in order to permit effective functioning of the United Nations or missions to the United Nations.
+For purposes of this section, the term “United Nations Headquarters District” means the areawithin the United States which is agreed to by the United Nations and the United States to constitute such a district, together with such other areas as the Secretary of State may approve from time to time in order to permit effective functioning of the United Nations or missions to the United Nations.
 
 (Aug. 1, 1956, ch. 841, title II, §209A, as added Pub. L. 99–93, title I, §141, Aug. 16, 1985, 99 Stat. 423; amended Pub. L. 103–236, title I, §139(26), Apr. 30, 1994, 108 Stat. 399.)
 

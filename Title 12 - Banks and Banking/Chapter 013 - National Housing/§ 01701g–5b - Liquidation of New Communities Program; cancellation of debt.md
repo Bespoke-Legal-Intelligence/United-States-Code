@@ -26,7 +26,7 @@ The Housing and Urban Development Act of 1970, referred to in subsec. (a), is Pu
 
 The Independent Offices Appropriation Act, 1955, as amended, referred to in subsec. (a), is act June 24, 1954, ch. 359, 68 Stat. 272, as amended. Provisions of title II of this Act relating to the establishment of the revolving fund (liquidating programs) are classified to section 1701g–5 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Department of Housing and Urban Development-Independent Agencies Appropriation Act, 1984, referredto in subsecs. (a), (c), and (d), is Pub. L. 98–45, July 12, 1983, 97 Stat. 219. Provisions of title I of this Act requiring the transfer of assets and liabilities to the revolving fund (liquidating programs) are classified to section 1701g–5a of this title. For complete classification of this Act to the Code, see Tables.
+The Department of Housing and Urban Development-Independent Agencies Appropriation Act, 1984, referred to in subsecs. (a), (c), and (d), is Pub. L. 98–45, July 12, 1983, 97 Stat. 219. Provisions of title I of this Act requiring the transfer of assets and liabilities to the revolving fund (liquidating programs) are classified to section 1701g–5a of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

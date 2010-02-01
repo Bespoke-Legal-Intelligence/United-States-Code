@@ -8,7 +8,7 @@ In the processing of applications for assistance, priority and immediate conside
 
 &emsp;(2) Sections 3502 to 3505 of title 40 for assistance in public works planning.
 
-&emsp;(3) The Community Development Block Grant Program under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\].
+&emsp;(3) The Community Development Block Grant Program under title I of the Housingand Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\].
 
 &emsp;(4) Section 1926 of title 7.
 

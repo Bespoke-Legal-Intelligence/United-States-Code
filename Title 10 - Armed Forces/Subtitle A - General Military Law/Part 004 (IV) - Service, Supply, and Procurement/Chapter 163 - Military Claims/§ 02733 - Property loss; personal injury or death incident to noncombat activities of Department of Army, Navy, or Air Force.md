@@ -4,7 +4,7 @@
 
 &emsp;(1) damage to or loss of real property, including damage or loss incident to use and occupancy;
 
-&emsp;(2) damage to or loss of personal property, including property bailed to the United States and including registered or insured mail damaged, lost, or destroyed by a criminal act while in the possession of the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be; or
+&emsp;(2) damage to or loss of personal property, including property bailed to the United Statesand including registered or insured mail damaged, lost, or destroyed by a criminal act while in the possession of the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be; or
 
 &emsp;(3) personal injury or death;
 
@@ -36,7 +36,7 @@
 
 (h) Under such regulations as the Secretary of Defense may prescribe, he or his designee has the same authority as the Secretary of a military department under this section with respect to the settlement of claims based on damage, loss, personal injury, or death caused by a civilian officer or employee of the Department of Defense acting within the scope of his employment or otherwise incident to noncombat activities of that department.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 153; Pub. L. 85–729, §1, Aug. 23, 1958, 72 Stat. 813; Pub. L. 85–861, §1(54), Sept. 2, 1958, 72 Stat. 1461; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–522, Sept. 26, 1968, 82 Stat. 875; Pub. L. 90–525, §§1, 3–5, Sept. 26, 1968, 82 Stat. 877, 878; Pub. L. 91–312, §2, July 8, 1970, 84 Stat. 412; Pub. L. 93–336, §1, July 8, 1974, 88 Stat. 291; Pub. L. 96–513, title V, §511(94), Dec. 12, 1980, 94 Stat.2928; Pub. L. 98–564, §1, Oct. 30, 1984, 98 Stat. 2918; Pub. L. 104–316, title II, §202(e), Oct. 19, 1996, 110 Stat. 3842.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 153; Pub. L. 85–729, §1, Aug. 23, 1958, 72 Stat. 813; Pub. L. 85–861, §1(54), Sept. 2, 1958, 72 Stat. 1461; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–522, Sept. 26, 1968, 82 Stat. 875; Pub. L. 90–525, §§1, 3–5, Sept. 26, 1968, 82 Stat. 877, 878; Pub. L. 91–312, §2, July 8, 1970, 84 Stat. 412; Pub. L. 93–336, §1, July 8, 1974, 88 Stat. 291; Pub. L. 96–513, title V, §511(94), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 98–564, §1, Oct. 30, 1984, 98 Stat. 2918; Pub. L. 104–316, title II, §202(e), Oct. 19, 1996, 110 Stat. 3842.)
 
 Historical and Revision Notes<br>1956
 
@@ -116,7 +116,7 @@ In subsection (b)(1), the words “it accrues” are substituted for the words �
 
 In subsection (b)(2), the words “or section 2672 of title 28” are substituted for the words “claims cognizable under part 2 of this title”, to reflect the express amendment of 31:223b and 223c by the fourth clause of section 424(a) of the Federal Tort Claims Act, 60 Stat. 847. Section 424(a) of the Federal Tort Claims Act referred to “claims cognizable under part 2 of this title”. Part 2 of that act consisted of sections 403 and 404 which were repealed by section 39 of the Act of June 25, 1948, ch. 646, 62 Stat. 1008, and replaced by sections 2672 and 2673 of title 28. The words “or possessions thereof” are omitted, since possessions of foreign countries are not specifically covered by the section to which the words refer.
 
-In subsection (d), the words “claim \* \* \* that would otherwise be covered by this section” are substituted for the words “such claims”.
+In subsection (d), the words “claim that would otherwise be covered by this section” are substituted for the words “such claims”.
 
 In subsection (e), the words “and final settlement” are omitted as surplusage.
 
@@ -174,7 +174,7 @@ Subsec. (h). Pub. L. 90–525, §4, added subsec. (h).
 
 1958—Subsec. (a). Pub. L. 85–729, §1(1)(A), substituted “the Judge Advocate General of an armed force under his jurisdiction, if designated by him, may settle, and pay in an amount not more than $5,000” for “any officer designated by him may settle, and pay in an amount not more than $1,000”.
 
-Subsec. (b). Pub. L. 85–861, §1(54)(A), (B), in cl. (1), substituted “two years” for “one year” in three places and included claims accruing in time of armed conflict,and inserted sentence providing for the determination of dates of the beginning and ending of an armed conflict.
+Subsec. (b). Pub. L. 85–861, §1(54)(A), (B), in cl. (1), substituted “two years” for “one year” in three places and included claims accruing in time of armed conflict, and inserted sentence providing for the determination of dates of the beginning and ending of an armed conflict.
 
 Subsec. (c). Pub. L. 85–861, §1(54)(C), substituted provisions prohibiting payment for reimbursement for medical, hospital, or burial services furnished at the expense of the United States for provisions which prohibited allowance of claims for personal injury or death for more than the cost of reasonable medical, hospital, and burial expenses actually incurred, and not otherwise furnished or paid by the United States.
 

@@ -38,7 +38,7 @@
 
 #### (1) Flexibility
 
-&emsp;In implementing the comprehensive plan described in subsection (a) of this section, each State educational agency, where applicable through its local educational agencies, shall have the flexibility to determine the activities to be provided with funds made available under this part, except that such funds firstshall be used to meet the identified needs of migratory children that result from their migratory lifestyle, and to permit these children to participate effectively in school.
+&emsp;In implementing the comprehensive plan described in subsection (a) of this section, each State educational agency, where applicable through its local educational agencies, shall have the flexibility to determine the activities to be provided with funds made available under this part, except that such funds first shall be used to meet the identified needs of migratory children that result from their migratory lifestyle, and to permit these children to participate effectively in school.
 
 #### (2) Unaddressed needs
 
@@ -46,7 +46,7 @@
 
 #### (3) Construction
 
-&emsp;Nothing in this part shall be construed to prohibit a local educational agency from serving migratory children simultaneously with students with similar educational needs in the same educational settings, where appropriate.
+&emsp;Nothing in this part shall be construed to prohibit a local educational agency from serving migratory children simultaneously withstudents with similar educational needs in the same educational settings, where appropriate.
 
 #### (4) Special rule
 

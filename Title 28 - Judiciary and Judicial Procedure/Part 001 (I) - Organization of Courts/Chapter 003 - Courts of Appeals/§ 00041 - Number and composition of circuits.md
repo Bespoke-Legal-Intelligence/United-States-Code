@@ -34,11 +34,11 @@ In recognizing the District of Columbia as a separate circuit, the Supreme Court
 
 See section 17 of title 28, U.S.C., 1940 ed., providing, “For the purposes of sections 17–23 of this title, the District of Columbia shall be deemed to be a judicial circuit \* \* \*”, and act Dec. 23, 1944, ch. 724, 58 Stat. 925, which amended section 215 of title 28, U.S.C., 1940 ed., incorporated in section 42 of this title. Such amendment provided that for the purposes of said section 215 “the District of Columbia shall be deemed to be a judicial circuit.”
 
-Many other acts of Congress have recognized the District of Columbia as a separate circuit. (See the following acts; Aug. 24, 1937, ch. 754, 50 Stat. 751; Feb. 11, 1938, ch. 25, 52 Stat. 28; Aug. 5, 1939, ch. 433, 53 Stat. 1204; Aug. 7, 1939, ch. 501, 53 Stat. 1223; Dec. 29, 1942, ch. 835, 56 Stat. 1094; May 11, 1944, ch. 192, 58 Stat. 218; Dec. 23, 1944, ch. 724, 58 Stat. 925.)
+Many other acts of Congress have recognized the District of Columbia as a separate circuit. (See the following acts; Aug. 24, 1937, ch. 754, 50 Stat. 751; Feb. 11, 1938, ch. 25, 52 Stat. 28; Aug. 5, 1939, ch. 433, 53 Stat. 1204; Aug. 7, 1939, ch. 501, 53 Stat. 1223; Dec. 29, 1942, ch. 835,56 Stat. 1094; May 11, 1944, ch. 192, 58 Stat. 218; Dec. 23, 1944, ch. 724, 58 Stat. 925.)
 
 See also the following acts recognizing the Court of Appeals for the District of Columbia as a circuit court of appeals: Aug. 15, 1921, ch. 64, 42 Stat. 162; July 5, 1935, ch. 372, 49 Stat. 454; Aug. 24, 1937, ch. 754, 50 Stat. 751; Apr. 6, 1942, ch. 210, 56 Stat. 198; May 9, 1942, ch. 295, 56 Stat. 271. See also Rule 81(d) Federal Rules of Civil Procedure.
 
-In the following cases the Supreme Court of the United States has recognized the status of the Court of Appeals of the District of Columbia as a permanent establishment within the federal judicial system:<i>O'Donoghue v. United States</i>, 1933, 53 S.Ct. 740, 289 U.S. 516, 77 L.Ed. 1356; <i>Federal Trade Commission v. Klesner</i>, 1927, 47 S.Ct. 557, 274 U.S. 145, 71 L.Ed. 972; <i>Claiborne-Annapolis Ferry v. United States</i>, 1932, 52 S.Ct. 440, 285 U.S. 382, 76 L.Ed. 808; <i>United States v. California Canneries</i>, 1929, 49 S.Ct. 423, 279 U.S. 553, 73 L.Ed. 838.
+In the following cases the Supreme Court of the United States has recognized the status of the Court of Appeals of the District of Columbia as a permanent establishment within the federal judicial system: <i>O'Donoghue v. United States</i>, 1933, 53 S.Ct. 740, 289 U.S. 516, 77 L.Ed. 1356; <i>Federal Trade Commission v. Klesner</i>, 1927, 47 S.Ct. 557, 274 U.S. 145, 71 L.Ed. 972; <i>Claiborne-Annapolis Ferry v. United States</i>, 1932, 52 S.Ct. 440, 285 U.S. 382, 76 L.Ed. 808; <i>United States v. California Canneries</i>, 1929, 49 S.Ct. 423, 279 U.S. 553, 73 L.Ed. 838.
 
 Alaska, Canal Zone, and Virgin Islands were added to the 9th, 5th, and 3rd Circuits, respectively, to conform to section 1294 of this title.
 
@@ -112,7 +112,7 @@ Section 11 of Pub. L. 96–452 provided that: “The court of appeals for the fi
 
 #### Appeals Court Administrative Units
 
-Pub. L. 95–486, §6, Oct. 20, 1978, 92 Stat. 1633, provided that: “Any court of appeals having more than 15 activejudges may constitute itself into administrative units complete with such facilities and staff as may be prescribed by the Administrative Office of the United States Courts, and may perform its en banc function by such number of members of its en banc courts as may be prescribed by rule of the court of appeals.”
+Pub. L. 95–486, §6, Oct. 20, 1978, 92 Stat. 1633, provided that: “Any court of appeals having more than 15 active judges may constitute itself into administrative units complete with such facilities and staff as may be prescribed by the Administrative Office of the United States Courts, and may perform its en banc function by such number of members of its en banc courts as may be prescribed by rule of the court of appeals.”
 
 #### Northern Mariana Islands
 

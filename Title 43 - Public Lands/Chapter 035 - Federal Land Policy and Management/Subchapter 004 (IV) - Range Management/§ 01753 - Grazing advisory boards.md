@@ -10,7 +10,7 @@ The function of grazing advisory boards established pursuant to this section sha
 
 #### (c) Appointment and terms of members
 
-The number of advisers on each board and the number of years an adviser may serve shall be determined by the Secretary concerned in his discretion. Each board shall consist of livestock representatives who shall be lessees or permittees in the area administered by the office concerned and shall be chosen by the lessees andpermittees in the area through an election prescribed by the Secretary concerned.
+The number of advisers on each board and the number of years an adviser may serve shall be determined by the Secretary concerned in his discretion. Each board shall consist of livestockrepresentatives who shall be lessees or permittees in the area administered by the office concerned and shall be chosen by the lessees and permittees in the area through an election prescribed by the Secretary concerned.
 
 #### (d) Meetings
 

@@ -24,9 +24,9 @@ Section was formerly classified to section 40 of this title. In the original thi
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–295 added introductory provisions, designated existing provisions as par. (1), inserted heading, struck out “as used in this Act” before “includes”, and added par. (2).
+2002—Pub. L. 107–295 added introductory provisions, designated existing provisions as par. (1), inserted heading, struck out “as used in this Act” before “includes”, and added par. (2).
 
-<b>1979</b>—Pub. L. 96–70 struck out “the Canal Zone and” after “this Act includes”.
+1979—Pub. L. 96–70 struck out “the Canal Zone and” after “this Act includes”.
 
 #### Effective Date of 1979 Amendment
 

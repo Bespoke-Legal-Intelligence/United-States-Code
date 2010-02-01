@@ -6,7 +6,7 @@ Service by natives of the Pribilof Islands engaged in the taking and curing of f
 
 #### (b) Adjustment of annuities
 
-The annuity of any person or the annuity of the survivor of any person who shall have performed service described in subsection (a) of this section, and who, prior to November 2, 1966, died or shall have been retired on annuity payable from the civil service retirement and disability fund, shall, upon application filed by the annuitant within one year after November 2, 1966, be adjusted, effective as of the first day of the month immediately following November 2, 1966, so that the amount of the annuity shall be thesame as if such subsection had been in effect at the time of such person's retirement or death.
+The annuity of any person or the annuity of the survivor of any person who shall have performed service described in subsection (a) of this section, and who, prior to November 2, 1966, died or shall have been retired on annuity payable from the civil service retirement and disability fund, shall, upon application filed by the annuitant within one year after November 2, 1966, be adjusted, effective as of the first day of the month immediately following November 2, 1966, so that the amount of the annuity shall be the same as if such subsection had been in effect at the time of such person's retirement or death.
 
 #### (c) Nonentitlement to lump-sum benefits
 
@@ -26,7 +26,7 @@ Notwithstanding any other provisions of this chapter or any other law, benefits 
 
 1983—Subsecs. (a) to (c). Pub. L. 98–129 reenacted subsecs. (a) to (c) without change.
 
-Subsec. (d). Pub. L. 98–129 reenacted subsec. (d) without change other than the substitution of “subject to reimbursement to such fund from the Operations, Research, and Facilities Account of the National Oceanic and Atmospheric Administration in the Department of Commerce, for the purpose of compensating said retirement fund for the cost, as determined by the Civil Service Commission during each fiscal year, of benefits provided by this section” for “subject to reimbursement to such fund from the gross receipts of the Pribilof Islands fund, established in section 1187 of this title, for the purpose of compensating said retirement fund for the cost, as determined by the Civil Service Commission during each fiscal year, of benefits provided by this section. This reimbursement to the civil service retirement fund shall be considered a cost of administering the fur seal program”.
+Subsec. (d). Pub. L. 98–129 reenacted subsec. (d) without change other than the substitution of “subject to reimbursement to such fund from the Operations, Research, and Facilities Account of the National Oceanic and Atmospheric Administration in the Department of Commerce, for the purpose of compensating said retirement fund for the cost, as determined by the Civil Service Commission during each fiscal year, of benefits provided by this section” for “subject to reimbursement tosuch fund from the gross receipts of the Pribilof Islands fund, established in section 1187 of this title, for the purpose of compensating said retirement fund for the cost, as determined by the Civil Service Commission during each fiscal year, of benefits provided by this section. This reimbursement to the civil service retirement fund shall be considered a cost of administering the fur seal program”.
 
 #### Transfer of Functions
 

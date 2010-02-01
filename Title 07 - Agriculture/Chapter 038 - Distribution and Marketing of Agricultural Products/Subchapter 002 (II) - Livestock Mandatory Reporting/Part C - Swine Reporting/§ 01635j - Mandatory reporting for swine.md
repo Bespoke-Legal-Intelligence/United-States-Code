@@ -214,7 +214,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 #### (4) Price calculations without packer-owned swine
 
-&emsp;A packer shall omit the prices of sows and boars that qualify as packer-owned swine fromall average price calculations, price range calculations, and reports required by this subsection.
+&emsp;A packer shall omit the prices of sows and boars that qualify as packer-owned swine from all average price calculations, price range calculations, and reports required by this subsection.
 
 #### (5) Reporting exception: public auction purchases
 

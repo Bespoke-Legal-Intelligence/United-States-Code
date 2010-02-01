@@ -26,11 +26,11 @@ The Secretary, acting through the Office, may undertake the following activities
 
 &emsp;(2) Obtain standardized weather observation data collected in near real time through State agricultural weather information systems.
 
-&emsp;(3) Make, through the Cooperative State Research Service, competitive grants under subsection (c) of this section for research in atmospheric sciences and climatology.
+&emsp;(3) Make, through the National Institute of Food and Agriculture, competitive grants under subsection (c) of this section for research in atmospheric sciences and climatology.
 
 &emsp;(4) Make grants to eligible States under section 5854 of this title to plan and administer State agricultural weather information systems.
 
-&emsp;(5) Coordinate the activities of the Office with the weather and climate research activities of the Cooperative State Research Service, the National Academy of Sciences, the National Science Foundation Atmospheric Services Program, and the National Climate Program.
+&emsp;(5) Coordinate the activities of the Office with the weather and climate research activities of the National Institute of Food and Agriculture, the National Academy of Sciences, the National Science Foundation Atmospheric Services Program, and the National Climate Program.
 
 &emsp;(6) Encourage private sector participation in the National Agricultural Weather Information System through mutually beneficial cooperation with the private sector, particularly in generating weather and climatic data useful for site-specific agricultural weather forecasting.
 
@@ -54,17 +54,15 @@ In selecting among applications for grants under subsection (c) of this section,
 
 &emsp;(3) the impact of weather on economic and environmental costs in agricultural production.
 
-(Pub. L. 101–624, title XVI, §1638, Nov. 28, 1990, 104 Stat. 3748; Pub. L. 102–237, title IV, §407(6),Dec. 13, 1991, 105 Stat. 1865; Pub. L. 110–234, title VII, §7511(c)(18), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(18), June 18, 2008, 122 Stat. 1664, 2030.)
-
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2030, provided that, effective Oct. 1, 2009, subsection (b) of this section is amended by substituting “National Institute of Food and Agriculture” for “Cooperative State Research Service” in paragraphs (3) and (5).</i>
+(Pub. L. 101–624, title XVI, §1638, Nov. 28, 1990, 104 Stat. 3748; Pub. L. 102–237, title IV, §407(6), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 110–234, title VII, §7511(c)(18), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(18), June 18, 2008, 122 Stat. 1664, 2030.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (b)(3), (5). Pub. L. 110–246, §7511(c)(18), substituted “National Institute of Food and Agriculture” for “Cooperative State Research Service”.
 
 1991—Subsec. (b)(5). Pub. L. 102–237 substituted “National Science Foundation” for “National Sciences Foundation”.
 

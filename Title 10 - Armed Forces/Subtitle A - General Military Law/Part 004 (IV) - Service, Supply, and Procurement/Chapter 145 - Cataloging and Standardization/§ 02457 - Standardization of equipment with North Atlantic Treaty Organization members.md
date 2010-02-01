@@ -116,7 +116,7 @@ In subsection (b), the words “It is the sense of the Congress”, “It is fur
 
 In subsection (c)(1), the word “should” is substituted for “shall” for clarity.
 
-In subsection (d)(1), the word “members” is substituted for “allies” for consistency. The words “The Secretary of Defense shall include in the report to theCongress required by section 302(c) of Public Law 93–365, as amended” are omitted as unnecessary because of the restatement.
+In subsection (d)(1), the word “members” is substituted for “allies” for consistency. The words “The Secretary of Defense shall include in the report to the Congress required by section 302(c) of Public Law 93–365, as amended” are omitted as unnecessary because of the restatement.
 
 In subsection (d)(2), the words “The report required under section 302(c) of Public Law 93–365 shall include” are omitted as unnecessary because of the restatement.
 

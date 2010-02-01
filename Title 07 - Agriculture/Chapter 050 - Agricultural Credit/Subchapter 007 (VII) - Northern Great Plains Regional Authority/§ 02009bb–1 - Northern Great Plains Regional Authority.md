@@ -44,7 +44,7 @@
 
 &emsp;&emsp;Notwithstanding any other provision of this section, if a Federal member described in paragraph (2)(A) has not been confirmed by the Senate by not later than 180 days after the date of enactment of this paragraph, the Authority may organize and operate without the Federal member.
 
-#### (B) Indian chairperson
+#### (B) Indian Chairperson
 
 &emsp;&emsp;In the case of the Indian Chairperson, if no Indian Chairperson is confirmed by the Senate, the regional authority shall consult and coordinate with the leaders of Indian tribes in the region concerning the activities of the Authority, as appropriate.
 
@@ -308,7 +308,7 @@ A Federal agency shall—
 
 &emsp;&emsp;(B) makes full disclosure of the financial interest; and
 
-&emsp;&emsp;(C) before the proceeding concerning the matter presenting the conflict of interest, receives a written determination by the Authority that the interest is not so substantial as to be likely to affect the integrity of the services that the Authority may expectfrom the State member, Indian tribe member, alternate, officer, or employee.
+&emsp;&emsp;(C) before the proceeding concerning the matter presenting the conflict of interest, receives a written determination by the Authority that the interest is not so substantial as to be likely to affect the integrity of the services that the Authority may expect from the State member, Indian tribe member, alternate, officer, or employee.
 
 #### (3) Violation
 

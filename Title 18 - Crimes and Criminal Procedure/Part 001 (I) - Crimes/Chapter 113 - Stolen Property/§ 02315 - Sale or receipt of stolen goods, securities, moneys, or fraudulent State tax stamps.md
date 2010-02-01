@@ -12,7 +12,7 @@ This section shall not apply to any falsely made, forged, altered, counterfeited
 
 For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 806; Pub. L. 87–371, §3, Oct. 4, 1961, 75 Stat. 802; Pub. L. 99–646, §76, Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title VII, §§7048, 7057(b), Nov. 18, 1988, 102 Stat. 4401, 4402; Pub. L. 101–647, title XII, §1205(m), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 806; Pub. L. 87–371, §3, Oct. 4, 1961, 75 Stat. 802; Pub. L. 99–646, §76,Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title VII, §§7048, 7057(b), Nov. 18, 1988, 102 Stat. 4401, 4402; Pub. L. 101–647, title XII, §1205(m), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

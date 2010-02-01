@@ -16,7 +16,7 @@
 
 &emsp;(A) The estimated average revenue per piece to be received by the Postal Service from each subclass of mail under former sections 4452 (b) and (c) of this title shall be equal, as nearly as practicable, to 60 percent of the estimated average revenue per piece to be received from the most closely corresponding regular-rate subclass of mail.
 
-&emsp;(B) For purposes of subparagraph (A), the estimated average revenue per piece of each regular-rate subclass shall be calculated on the basis of expected volumes and mix of mail for such subclass at current rates in the test year of the proceeding.
+&emsp;(B) For purposes of subparagraph (A), the estimated average revenue per piece of each regular-rate subclass shall be calculated on the basis of expected volumes and mix of mail forsuch subclass at current rates in the test year of the proceeding.
 
 &emsp;(C) Rate differentials within each subclass of mail matter under former sections 4452 (b) and (c) shall reflect the policies of this title, including the factors set forth in section 3622(b) of this title.
 
@@ -32,7 +32,7 @@
 
 (d)(1) For purposes of this title, the term “agricultural”, as used in former sections 4358(j)(2), 4452(d), and 4554(b)(1)(B) of this title, includes the art or science of cultivating land, harvesting crops or marine resources, or raising of livestock.
 
-(2) In the administration of this section, and for purposes of former sections 4358(j)(2), 4452(d),and 4554(b)(1)(B) of this title, agricultural organizations or associations shall include any organization or association which collects and disseminates information or materials relating to agricultural pursuits.
+(2) In the administration of this section, and for purposes of former sections 4358(j)(2), 4452(d), and 4554(b)(1)(B) of this title, agricultural organizations or associations shall include any organization or association which collects and disseminates information or materials relating to agricultural pursuits.
 
 (e)(1) In the administration of this section, the rates for third-class mail matter mailed by a qualified political committee shall be the rates currently in effect under former section 4452 of this title for third-class mail matter mailed by a qualified nonprofit organization.
 
@@ -122,7 +122,7 @@ Section 101 of the Higher Education Act of 1965, referred to in subsec. (b)(3), 
 
 Section 513 of the Internal Revenue Code of 1986, referred to in subsecs. (j)(1)(D)(I) and (m)(1)(B), is classified to section 513 of Title 26, Internal Revenue Code.
 
-The phrase “shall take effect immediately and shall stay in effect hereafter”, referred to in subsec. (j)(1)(D)(III), probably means that the provision shalltake effect Sept. 30, 1994, the date of enactment of Pub. L. 103–329, which enacted subsec. (j)(1)(D)(III), and shall stay in effect after that date.
+The phrase “shall take effect immediately and shall stay in effect hereafter”, referred to in subsec. (j)(1)(D)(III), probably means that the provision shall take effect Sept. 30, 1994, the date of enactment of Pub. L. 103–329, which enacted subsec. (j)(1)(D)(III), and shall stay in effect after that date.
 
 #### Amendments
 
@@ -248,5 +248,5 @@ Effective Date and Applicability.—The provisions of this section shall become 
 
 #### Construction Respecting Postage Rates Reduction Unauthorized
 
-Section 2 of Pub. L. 93–328 provided that: “Nothing in section 1 of this Act \[amending this section\] shall be construed to authorize a reduction in any rate of postage in effect and being paid on the date of enactment of this Act \[June 30, 1974\].”
+Section 2 of Pub. L. 93–328 provided that: “Nothing in section 1 of this Act \[amending this section\] shall beconstrued to authorize a reduction in any rate of postage in effect and being paid on the date of enactment of this Act \[June 30, 1974\].”
 

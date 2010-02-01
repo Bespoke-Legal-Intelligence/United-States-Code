@@ -6,7 +6,7 @@ Except as otherwise provided in this section, a tax-exempt use loss for any taxa
 
 #### (b) Disallowed loss carried to next year
 
-Any tax-exempt use loss with respect to any tax-exempt use property which is disallowedunder subsection (a) for any taxable year shall be treated as a deduction with respect to such property in the next taxable year.
+Any tax-exempt use loss with respect to any tax-exempt use property which is disallowed under subsection (a) for any taxable year shall be treated as a deduction with respect to such property in the next taxable year.
 
 #### (c) Definitions
 
@@ -100,7 +100,7 @@ This section shall not apply to any lease of property which meets the requiremen
 
 &emsp;&emsp;&emsp;&emsp;(II) maintains such investment throughout the term of the lease, and
 
-&emsp;&emsp;&emsp;(ii) the fair market value of the property at the end of the lease term is reasonablyexpected to be equal to at least 20 percent of such basis.
+&emsp;&emsp;&emsp;(ii) the fair market value of the property at the end of the lease term is reasonably expected to be equal to at least 20 percent of such basis.
 
 #### (B) Risk of loss
 

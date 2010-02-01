@@ -38,13 +38,13 @@ General Distribution.—The Secretary shall—
 
 (c)
 
-State Programmatic Distribution.—Of the funds to be apportioned to each State under subsection (b)(4) for a fiscal year, the Secretary shall ensure that such funds are apportioned for the Interstate and National Highway System program, the bridge program, the surface transportation program, the highway safety improvement program, and the congestion mitigation air quality improvement program in the same ratio that each State is apportioned funds for such programs for such fiscal year but for this section.
+State Programmatic Distribution.—Of the funds to be apportioned to each State under subsection (b)(4) for a fiscal year, the Secretary shall ensure that such funds are apportioned for the Interstate and National Highway Systemprogram, the bridge program, the surface transportation program, the highway safety improvement program, and the congestion mitigation air quality improvement program in the same ratio that each State is apportioned funds for such programs for such fiscal year but for this section.
 
 (d)
 
 Authorization of Appropriations.—There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) such sums as may be necessary to carry out this section for fiscal years beginning after September 30, 1998.
 
-(e) After making any calculation necessary to implement this section for fiscal year 2001, the amount available under paragraph (a)(1) shall be increased by $128,752,000. The amounts addedunder this subsection shall not apply to any calculation in any other fiscal year.
+(e) After making any calculation necessary to implement this section for fiscal year 2001, the amount available under paragraph (a)(1) shall be increased by $128,752,000. The amounts added under this subsection shall not apply to any calculation in any other fiscal year.
 
 (f) For fiscal year 2001, prior to making any distribution under this section, $22,029,000 of the allocation under paragraph (a)(1) shall be available only for each program authorized under chapter 53 of title 49, United States Code, and title III of Public Law 105–178, in proportion to each such program's share of the total authorization in section 5338 (other than 5338(h)) of such title and sections 3037 and 3038 of such Public Law, under the terms and conditions of chapter 53 of such title.
 
@@ -96,7 +96,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 #### Special Rule
 
-Pub. L. 109–59, title I, §1105(f), Aug. 10, 2005, 119 Stat. 1166, provided that: “If the amount available pursuant to section 110 of title 23, United States Code, for fiscal year 2007 is greater than zero, the Secretary \[of Transportation\] shall—
+Pub. L. 109–59, title I, §1105(f), Aug. 10, 2005, 119 Stat. 1166, provided that: “If the amount available pursuantto section 110 of title 23, United States Code, for fiscal year 2007 is greater than zero, the Secretary \[of Transportation\] shall—
 
 &emsp;“(1) determine the total amount necessary to increase each State's rate of return (as determined under section 105(b)(1)(A) of title 23, United States Code) to 92 percent, excluding amounts provided under this paragraph;
 

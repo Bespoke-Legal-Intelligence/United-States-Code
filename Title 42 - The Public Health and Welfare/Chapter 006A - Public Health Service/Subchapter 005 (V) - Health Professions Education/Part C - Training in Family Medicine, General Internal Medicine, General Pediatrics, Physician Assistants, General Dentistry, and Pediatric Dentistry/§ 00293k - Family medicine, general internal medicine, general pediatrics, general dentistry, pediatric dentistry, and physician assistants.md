@@ -10,7 +10,7 @@ The Secretary may make grants to, or enter into contracts with, any public or no
 
 &emsp;(3) to plan, develop, and operate a program for the training of physicians who plan to teach in family medicine (including geriatrics), general internal medicine or general pediatrics training programs;
 
-&emsp;(4) to provide financial assistance (in the form of traineeships and fellowships) to physicians who are participants in any such program and who plan to teach in a family medicine (including geriatrics), general internal medicine or general pediatrics training program;
+&emsp;(4) to provide financial assistance (in the form of traineeships and fellowships) to physicians who are participants in any such program and who plan to teach in a family medicine (including geriatrics), general internalmedicine or general pediatrics training program;
 
 &emsp;(5) to meet the costs of projects to plan, develop, and operate or maintain programs for the training of physician assistants (as defined in section 295p of this title), and for the training of individuals who will teach in programs to provide such training; and
 
@@ -22,7 +22,7 @@ The Secretary may make grants to, or enter into contracts with, any public or no
 
 #### (1) In general
 
-&emsp;The Secretary may make grants to or enter into contracts with schools of medicine or osteopathic medicine to meet the costs of projects to establish, maintain, or improve academic administrative units (which may bedepartments, divisions, or other units) to provide clinical instruction in family medicine, general internal medicine, or general pediatrics.
+&emsp;The Secretary may make grants to or enter into contracts with schools of medicine or osteopathic medicine to meet the costs of projects to establish, maintain, or improve academic administrative units (which may be departments, divisions, or other units) to provide clinical instruction in family medicine, general internal medicine, or general pediatrics.
 
 #### (2) Preference in making awards
 

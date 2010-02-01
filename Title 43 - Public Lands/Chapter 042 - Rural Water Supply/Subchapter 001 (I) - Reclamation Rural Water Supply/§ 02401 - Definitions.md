@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Construction
 
-&emsp;The term “construction” means the installation of infrastructure and the upgrading of existing facilities in locations in which the infrastructure or facilities are associated withthe new infrastructure of a rural water project recommended by the Secretary pursuant to this subchapter.
+&emsp;The term “construction” means the installation of infrastructure and the upgrading of existing facilities in locations in which the infrastructure or facilities are associated with the new infrastructure of a rural water project recommended by the Secretary pursuant to this subchapter.
 
 #### (2) Federal reclamation law
 

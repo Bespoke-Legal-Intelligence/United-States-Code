@@ -10,7 +10,7 @@ Exceptions.—
 
 &emsp;(1)
 
-Discrimination.—For purposes of any action arising under section 411 (or any action alleging intimidation, reprisal, or discrimination under section 417 relating to any practicemade unlawful under section 411), the appropriate agency shall be the Equal Employment Opportunity Commission, and the complaint in any such action shall be processed under the same administrative procedures as any such complaint filed by any employee in the executive branch of the Federal Government (other than a covered employee).
+Discrimination.—For purposes of any action arising under section 411 (or any action alleging intimidation, reprisal, or discrimination under section 417 relating to any practice made unlawful under section 411), the appropriate agency shall be the Equal Employment Opportunity Commission, and the complaint in any such action shall be processed under the same administrative procedures as any such complaint filed by any employee in the executive branch of the Federal Government (other than a covered employee).
 
 &emsp;(2)
 

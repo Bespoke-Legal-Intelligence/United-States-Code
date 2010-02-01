@@ -76,7 +76,7 @@
 
 #### (1) Authority to require submission
 
-&emsp;Subject to paragraph (2), when certified cost or pricing data are not required to be submitted by subsection (a) of this section for a contract, subcontract, or modification of a contract or subcontract, such data may nevertheless be required to be submitted by the head of the procuring activity, but only if the head of the procuring activity determines that such data are necessary for the evaluation by the agency of the reasonableness of the price of the contract, subcontract, or modification of a contract or subcontract. In any case in which the head of the procuring activity requires such data to be submitted under this subsection, the head of the procuring activity shall justify in writing the reason for such requirement.
+&emsp;Subject to paragraph (2), when certified cost or pricing data are not required to be submitted by subsection (a) of this section for a contract, subcontract, or modification of a contract or subcontract, such data may nevertheless be required to be submitted by the head of the procuring activity, but only if the head of the procuring activity determines that such data are necessary for the evaluation by theagency of the reasonableness of the price of the contract, subcontract, or modification of a contract or subcontract. In any case in which the head of the procuring activity requires such data to be submitted under this subsection, the head of the procuring activity shall justify in writing the reason for such requirement.
 
 #### (2) Exception
 
@@ -196,7 +196,7 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 #### Effective Date
 
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an EffectiveDate of 1994 Amendment note under section 251 of this title.
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
 
 Section 1251(b) of Pub. L. 103–355, as amended by Pub. L. 104–106, div. D, title XLIII, §4321(a)(3), Feb. 10, 1996, 110 Stat. 671, provided that: “Subsection (a) of section 304A of the Federal Property and Administrative Services Act of 1949 \[subsec. (a) of this section\], as added by subsection (a), shall apply according to the provisions thereof on and after the date of the enactment of this Act \[Oct. 13, 1994\], notwithstanding section 10001(b) \[see Effective Date of 1994 Amendment note set out under section 251 of this title\].”
 

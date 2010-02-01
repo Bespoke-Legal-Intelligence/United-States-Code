@@ -14,7 +14,7 @@ Pub. L. 100–553 and Pub. L. 100–607 contained identical provisions enacting 
 
 #### Short Title of 1988 Amendment
 
-For short title of Pub. L. 100–553 which enacted this subpart and amended sections 281 and 285j of this title as the “National Deafness and Other Communication Disorders Act of 1988”, see section 1 of Pub. L. 100–553, set out as a note under section 201 of this title.
+For short title of Pub. L. 100–553 which enacted this subpart and amended sections 281 and 285j of this title as the “National Deafness and Other CommunicationDisorders Act of 1988”, see section 1 of Pub. L. 100–553, set out as a note under section 201 of this title.
 
 #### Effect of Enactment of Similar Provisions
 

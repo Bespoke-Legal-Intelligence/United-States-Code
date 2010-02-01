@@ -72,7 +72,7 @@ Pub. L. 108–375, div. A, title V, §557(b)(1), (2), Oct. 28, 2004, 118 Stat. 1
 
 “(1) The position of Academic Dean of the Naval Postgraduate School is redesignated as Provost and Academic Dean of the Naval Postgraduate School.
 
-“(2) Any reference to the Academic Dean of the Naval Postgraduate School in any law, rule, regulation, document, record, or other paper of the United States shall be deemed to be a reference to the Provost and Academic Dean of the Naval Postgraduate School.”
+“(2) Any reference to the Academic Dean of the Naval Postgraduate School in any law, rule, regulation, document, record, or other paper of the United States shallbe deemed to be a reference to the Provost and Academic Dean of the Naval Postgraduate School.”
 
 #### Effective Date of 1980 Amendment
 

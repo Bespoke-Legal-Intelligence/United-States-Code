@@ -46,7 +46,7 @@ The Director may carry out a program under which elements of the Agency provide 
 
 #### (d) Limitation on amount of orders
 
-The total value of all orders for items or services to be provided under the program in any fiscal year may not exceed an amount specified in advance by the Director of the Office of Management and Budget.
+The total value of all orders for items or services to be provided under the program in any fiscal year may not exceed an amount specified inadvance by the Director of the Office of Management and Budget.
 
 #### (e) Payment for items and services
 
@@ -78,29 +78,29 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (g)(1). Pub. L. 108–458, §1071(b)(3)(D), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence” in introductory provisions.
+2004—Subsec. (g)(1). Pub. L. 108–458, §1071(b)(3)(D), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence” in introductory provisions.
 
 Subsec. (g)(2). Pub. L. 108–458, §1071(b)(3)(E), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
-<b>2003</b>—Subsec. (f)(2). Pub. L. 108–177 substituted “The Director” for “(A) Subject to subparagraph (B), the Director” and struck out subpar. (B) which read as follows: “The Director may not expend amounts in the Fund for purposes specified in subparagraph (A) in fiscal year 1998, 1999, or 2000 unless the Director—
+2003—Subsec. (f)(2). Pub. L. 108–177 substituted “The Director” for “(A) Subject to subparagraph (B), the Director” and struck out subpar. (B) which read as follows: “The Director may not expend amounts in the Fund for purposes specified in subparagraph (A) in fiscal year 1998, 1999, or 2000 unless the Director—
 
 &emsp;“(i) secures the prior approval of the Director of the Office of Management and Budget; and
 
 &emsp;“(ii) submits notice of the proposed expenditure to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.”
 
-<b>2002</b>—Subsecs. (g), (h). Pub. L. 107–306 redesignated subsec. (h) as (g) and struck out former subsec. (g), which required annual audit of program activities, set forth provisions relating to form, content, and procedures, and required submission of copies to the Director of the Office of Management and Budget, the Director of Central Intelligence, the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate.
+2002—Subsecs. (g), (h). Pub. L. 107–306 redesignated subsec. (h) as (g) and struck out former subsec. (g), which required annual audit of program activities, set forth provisions relating to form, content, and procedures, and required submission of copies to the Director of the Office of Management and Budget, the Director of Central Intelligence, the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate.
 
-<b>2001</b>—Subsec. (g)(1). Pub. L. 107–108, §401(a), substituted “January 31” for “December 31” and “complete an audit” for “conduct an audit”.
+2001—Subsec. (g)(1). Pub. L. 107–108, §401(a), substituted “January 31” for “December 31” and “complete an audit” for “conduct an audit”.
 
 Subsec. (h). Pub. L. 107–108, §401(b), redesignated pars. (2) and (3) as (1) and (2), respectively, substituted “paragraph (2)” for “paragraph (3)” in par. (1) and “paragraph (1)” for “paragraph (2)” in par. (2), and struck out former par. (1) which read as follows: “The authority of the Director to carry out the program under this section shall terminate on March 31, 2002.”.
 
-<b>2000</b>—Subsec. (c)(2)(F) to (H). Pub. L. 106–567, §401(a), added subpars. (F) and (G) and redesignated former subpar. (F) as (H).
+2000—Subsec. (c)(2)(F) to (H). Pub. L. 106–567, §401(a), added subpars. (F) and (G) and redesignated former subpar. (F) as (H).
 
 Subsec. (e)(1). Pub. L. 106–567, §401(b), in second sentence, inserted “other than structures owned by the Agency” after “depreciation of plant and equipment”.
 
 Subsec. (g)(2). Pub. L. 106–567, §401(c), substituted “financial statements to be prepared with respect to the program. Office of Management and Budget guidance shall also determine the procedures for conducting annual audits under paragraph (1).” for “annual audits under paragraph (1)”.
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–120, §401(a), substituted “, nonappropriated fund entities or instrumentalities associated or affiliated with the Agency, and other” for “and to other”.
+1999—Subsec. (a). Pub. L. 106–120, §401(a), substituted “, nonappropriated fund entities or instrumentalities associated or affiliated with the Agency, and other” for “and to other”.
 
 Subsec. (c)(2)(D). Pub. L. 106–120, §401(b)(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “Amounts collected in payment for loss or damage to equipment or other property of a central service provider as a result of activities under the program.”
 
@@ -118,9 +118,11 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Availability of Funds Credited to Central Services Working Capital Fund
 
-Pub. L. 110–329, div. C, title VIII, §8035, Sept. 30, 2008, 122 Stat. 3629, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
+Pub. L. 111–118, div. A, title VIII, §8035, Dec. 19, 2009, 123 Stat. 3436, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 110–329, div. C, title VIII, §8035, Sept. 30, 2008, 122 Stat. 3629.
 
 Pub. L. 110–116, div. A, title VIII, §8035, Nov. 13, 2007, 121 Stat. 1322.
 

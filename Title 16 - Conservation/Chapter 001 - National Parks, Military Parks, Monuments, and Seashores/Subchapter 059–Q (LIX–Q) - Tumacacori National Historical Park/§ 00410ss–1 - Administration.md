@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-The Secretary of the Interior (hereinafter referred to as the “Secretary”) shall administerthe park in accordance with this subchapter and with the provisions of law generally applicable to units of the national park system, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title. The Secretary may acquire lands or interests in land within the boundaries of the park by donation, purchase with donated or appropriated funds, or exchange.
+The Secretary of the Interior (hereinafter referred to as the “Secretary”) shall administer the park in accordance with this subchapter and with the provisions of law generally applicable to units of the national park system, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title. The Secretary may acquire lands or interests in land within the boundaries of the park by donation, purchase with donated or appropriated funds, or exchange.
 
 #### (b) Donations
 
-Notwithstanding any other provision of law, the Secretary may accept and retain donations of funds, property, or services from individuals, foundations, corporations, or public entities for the purpose of providing services and facilities which he deems consistent with the purposes of this subchapter.
+Notwithstanding any other provision of law, the Secretary may accept and retain donations of funds, property, or services from individuals, foundations, corporations, or public entities forthe purpose of providing services and facilities which he deems consistent with the purposes of this subchapter.
 
 #### (c) Separate units
 

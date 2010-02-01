@@ -70,7 +70,7 @@ Ongoing Outreach to Individuals Listed in Registry.—The Secretary of Veterans 
 
 In General.—(1) The Secretary of Veterans Affairs—
 
-&emsp;“(A) shall, upon the request of a veteran described in subsection (b)(1), provide the veteran with a health examination (including any appropriate diagnostic tests) and consultation and counseling with respect to the results of the examination and the tests; and
+&emsp;“(A) shall, upon the request of a veteran described in subsection (b)(1), provide the veteran with a healthexamination (including any appropriate diagnostic tests) and consultation and counseling with respect to the results of the examination and the tests; and
 
 &emsp;“(B) may, upon the request of a veteran described in subsection (b)(2), provide the veteran with such an examination (including diagnostic tests) and such consultation and counseling.
 
@@ -144,7 +144,7 @@ Agreement.—(1) The Secretary of Veterans Affairs and Secretary of Defense join
 
 Report.—(1) The agreement under this section shall require the National Academy of Sciences to submit to the committees and secretaries referred to in paragraph (2) a report on the results of the review carried out under the agreement. Such report shall contain the following:
 
-&emsp;“(A) An assessment of the effectiveness of actions taken by the Secretary of Veterans Affairs and the Secretary of Defense to collect and maintain information that is potentially useful for assessing thehealth consequences of the military service referred to in subsection (a).
+&emsp;“(A) An assessment of the effectiveness of actions taken by the Secretary of Veterans Affairs and the Secretary of Defense to collect and maintain information that is potentially useful for assessing the health consequences of the military service referred to in subsection (a).
 
 &emsp;“(B) Recommendations on means of improving the collection and maintenance of such information.
 
@@ -162,7 +162,7 @@ Report.—(1) The agreement under this section shall require the National Academ
 
 “(c)
 
-Funding.—(1) The Secretary of Veterans Affairs and the Secretary of Defense shall make available up to a total of $500,000 in fiscal year 1993, from funds available to the Department of Veterans Affairs and the Department of Defense in that fiscal year, to carry out the review. Any amounts provided by the two departments shall be provided in equal amounts.
+Funding.—(1) The Secretary of Veterans Affairs and the Secretary of Defense shall make available up to a total of $500,000 in fiscal year 1993, from funds available to the Department of Veterans Affairs andthe Department of Defense in that fiscal year, to carry out the review. Any amounts provided by the two departments shall be provided in equal amounts.
 
 “(2) If the Secretary of Veterans Affairs and the Secretary of Defense enter into an agreement under subsection (a) with the National Academy of Sciences—
 

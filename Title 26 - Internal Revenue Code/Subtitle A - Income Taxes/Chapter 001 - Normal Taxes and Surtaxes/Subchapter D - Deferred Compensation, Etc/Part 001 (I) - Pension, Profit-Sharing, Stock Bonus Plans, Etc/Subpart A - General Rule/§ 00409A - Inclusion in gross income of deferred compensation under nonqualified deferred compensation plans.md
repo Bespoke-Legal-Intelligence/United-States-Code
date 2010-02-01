@@ -64,7 +64,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term “unforeseeable emergency” means a severe financial hardship to the participant resulting from an illness or accident of the participant, the participant's spouse, or a dependent (as defined in section 152(a)) of the participant, loss of the participant's property due to casualty, or other similar extraordinary and unforeseeable circumstances arising as a result of events beyond the control of the participant.
+&emsp;&emsp;&emsp;&emsp;The term “unforeseeable emergency” means a severe financial hardship to the participant resulting from an illness or accident of the participant, the participant's spouse, or a dependent (as defined in section 152(a)) of the participant, lossof the participant's property due to casualty, or other similar extraordinary and unforeseeable circumstances arising as a result of events beyond the control of the participant.
 
 #### (II) Limitation on distributions
 
@@ -182,7 +182,7 @@
 
 #### (ii) Covered employee
 
-&emsp;&emsp;&emsp;The term “covered employee” means an individual described in section 162(m)(3) oran individual subject to the requirements of section 16(a) of the Securities Exchange Act of 1934.
+&emsp;&emsp;&emsp;The term “covered employee” means an individual described in section 162(m)(3) or an individual subject to the requirements of section 16(a) of the Securities Exchange Act of 1934.
 
 #### (4) Income inclusion for offshore trusts and employer's financial health
 

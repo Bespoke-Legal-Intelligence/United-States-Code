@@ -2,7 +2,7 @@
 
 #### (1) In general
 
-In addition to funds available under section 104(c) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c)) for such purpose or under anyother provision of that Act \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President, from amounts authorized to be appropriated under section 7671 of this title, a total of $4,000,000,000 for the 5-year period beginning on October 1, 2008.<sup>1</sup> to carry out section 104B of the Foreign Assistance Act of 1961, as added by subsection (a) \[22 U.S.C. 2151b–3\].
+In addition to funds available under section 104(c) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c)) for such purpose or under any other provision of that Act \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President, from amounts authorized to be appropriated under section 7671 of this title, a total of $4,000,000,000 for the 5-year period beginning on October 1, 2008.<sup>1</sup> to carry out section 104B of the Foreign Assistance Act of 1961, as added by subsection (a) \[22 U.S.C. 2151b–3\].
 
 #### (2) Availability of funds
 

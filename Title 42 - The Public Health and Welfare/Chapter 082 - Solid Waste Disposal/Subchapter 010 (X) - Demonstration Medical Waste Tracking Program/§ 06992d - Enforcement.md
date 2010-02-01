@@ -8,7 +8,7 @@
 
 #### (2) Orders assessing penalties
 
-&emsp;Any penalty assessed in an order under this subsection shall not exceed $25,000 per day ofnoncompliance for each violation of a requirement or prohibition in effect under this subchapter. In assessing such a penalty, the Administrator shall take into account the seriousness of the violation and any good faith efforts to comply with applicable requirements.
+&emsp;Any penalty assessed in an order under this subsection shall not exceed $25,000 per day of noncompliance for each violation of a requirement or prohibition in effect under this subchapter. In assessing such a penalty, the Administrator shall take into account the seriousness of the violation and any good faith efforts to comply with applicable requirements.
 
 #### (3) Public hearing
 

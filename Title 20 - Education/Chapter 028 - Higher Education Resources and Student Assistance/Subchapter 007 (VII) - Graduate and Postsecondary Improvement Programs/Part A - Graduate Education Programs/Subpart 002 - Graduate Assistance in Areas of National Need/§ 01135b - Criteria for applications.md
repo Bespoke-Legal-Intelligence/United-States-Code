@@ -42,9 +42,9 @@ Provisions similar to this section were contained in section 1134<i>o</i> of thi
 
 A prior section 1135b, Pub. L. 89–329, title X, §1021, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1561, and amended, which related to purpose of and authority for minority science improvement program, was renumbered section 351 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1067a of this title.
 
-Another prior section 1135b, Pub. L. 89–329, title X, §1051, as added Pub. L. 92–318, title I, §186(a)(1), June 23,1972, 86 Stat. 316, authorized appropriations for occupational education programs, prior to repeal by Pub. L. 94–482, title I, §176(c), title II, §204(c)(2), Oct. 12, 1976, 90 Stat. 2165, 2215, eff. Sept. 30, 1977, Oct. 1, 1977.
+Another prior section 1135b, Pub. L. 89–329, title X, §1051, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 316, authorized appropriations for occupational education programs, prior to repeal by Pub. L. 94–482, title I, §176(c), title II, §204(c)(2), Oct. 12, 1976, 90 Stat. 2165, 2215, eff. Sept. 30, 1977, Oct. 1, 1977.
 
-Another prior section 1135b, Pub. L. 89–329, title X, §1003, as added Pub. L. 90–575, title II, §271, Oct. 16, 1968, 82 Stat. 1048, related to selection of grant recipients for improvement of graduate programs, prior to the general amendment of subchapter X of this chapter by Pub. L. 92–318.
+Another prior section 1135b, Pub. L. 89–329, title X, §1003, as added Pub. L. 90–575, title II, §271, Oct. 16, 1968, 82 Stat. 1048, related to selection of grant recipients forimprovement of graduate programs, prior to the general amendment of subchapter X of this chapter by Pub. L. 92–318.
 
 A prior section 713 of Pub. L. 89–329 was classified to section 1132b–2 of this title, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
@@ -60,7 +60,7 @@ A prior section 1135b–2, Pub. L. 89–329, title X, §1023, as added Pub. L. 9
 
 Another prior section 1135b–2, Pub. L. 89–329, title X, §1053, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 317, set forth requirements for administration of programs by Secretary, prior to repeal by Pub. L. 94–482, title I, §176(c), title II, §204(c)(2), Oct. 12, 1976, 90 Stat. 2165, 2215, eff. Sept. 30, 1987, Oct. 1, 1977.
 
-A prior section 1135b–3, Pub. L. 89–329, title X, §1024, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1562, and amended, which required multiagency study of minority science programs, was renumbered section 1024 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(5), Oct. 7, 1998, 112 Stat. 1636, transferred to section 1067d of this title, and omitted from the Code.
+A prior section 1135b–3, Pub. L. 89–329, title X, §1024, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1562, and amended, which required multiagency study of minority science programs, was renumbered section 1024 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(5), Oct. 7, 1998, 112 Stat. 1636, transferred to section 1067d of this title, and repealed by Pub. L. 111–39, title III, §302, July 1, 2009, 123 Stat. 1938.
 
 Another prior section 1135b–3 and prior sections 1135b–4 to 1135b–9 were repealed by Pub. L. 94–482, title I, §176(c), title II, §204(c)(2), Oct. 12, 1976, 90 Stat. 2165, 2215, eff. Sept. 30, 1977, Oct. 1, 1977.
 

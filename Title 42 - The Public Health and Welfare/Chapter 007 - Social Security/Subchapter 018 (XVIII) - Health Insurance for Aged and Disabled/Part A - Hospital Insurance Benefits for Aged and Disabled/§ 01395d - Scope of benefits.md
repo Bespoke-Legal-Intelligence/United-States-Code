@@ -186,7 +186,7 @@ Pub. L. 108–173, title V, §512(d), Dec. 8, 2003, 117 Stat. 2300, provided tha
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(m)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–368, provided that:“Except as otherwise provided, the amendments made by this section \[amending this section and sections 1395i, 1395i–4, 1395<i>l</i>, 1395m, 1395u, 1395w–3, 1395w–4, 1395w–21, 1395w–22, 1395w–24, 1395x, 1395y, 1395cc, 1395ss, 1395ww, 1395yy, and 1395fff of this title, repealing section 1320b–5 of this title, and amending provisions set out as notes under sections 1395f and 1395ww of this title\] shall take effect as if included in the enactment of BBA \[Balanced Budget Act of 1997, Pub. L. 105–33\].”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(m)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–368, provided that: “Except as otherwise provided, the amendments made by this section \[amending this section and sections 1395i, 1395i–4, 1395<i>l</i>, 1395m, 1395u, 1395w–3, 1395w–4, 1395w–21, 1395w–22, 1395w–24, 1395x, 1395y, 1395cc, 1395ss, 1395ww, 1395yy, and 1395fff of this title, repealing section 1320b–5 of this title, and amending provisions set out as notes under sections 1395f and 1395ww of this title\] shall take effect as if included in the enactment of BBA \[Balanced Budget Act of 1997, Pub. L. 105–33\].”
 
 #### Effective Date of 1997 Amendment
 
@@ -288,7 +288,7 @@ Report.—Upon completion of the project, the Secretary shall submit a report to
 
 Pub. L. 108–173, title IX, §953(d), Dec. 8, 2003, 117 Stat. 2428, provided that: “Not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Inspector General of the Department of Health and Human Services shall submit a report to Congress on—
 
-&emsp;“(1) the extent to which hospitals provide notice to medicare beneficiaries in accordance with applicable requirements before they use the 60 lifetime reserve days described in section 1812(a)(1) of the Social Security Act (42 U.S.C. 1395d(a)(1)); and
+&emsp;“(1) the extent to which hospitals provide notice to medicare beneficiaries in accordance with applicablerequirements before they use the 60 lifetime reserve days described in section 1812(a)(1) of the Social Security Act (42 U.S.C. 1395d(a)(1)); and
 
 &emsp;“(2) the appropriateness and feasibility of hospitals providing a notice to such beneficiaries before they completely exhaust such lifetime reserve days.”
 

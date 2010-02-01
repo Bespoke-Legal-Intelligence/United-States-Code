@@ -54,7 +54,7 @@
 
 #### (3) Purpose
 
-&emsp;The purpose of the Centers shall be to generate innovative approaches to computer and network security by conducting cutting-edge, multidisciplinary research in computer andnetwork security, including the research areas described in subsection (a)(1) of this section.
+&emsp;The purpose of the Centers shall be to generate innovative approaches to computer and network security by conducting cutting-edge, multidisciplinary research in computer and network security, including the research areas described in subsection (a)(1) of this section.
 
 #### (4) Applications
 

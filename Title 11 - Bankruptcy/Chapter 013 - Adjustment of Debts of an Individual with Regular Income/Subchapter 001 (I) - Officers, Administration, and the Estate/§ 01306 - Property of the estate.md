@@ -18,7 +18,7 @@ Section 1306(a)(2) adopts a provision contained in the Senate amendment in prefe
 
 #### senate report no. 95–989
 
-Section 541 is expressly made applicable to chapter 13 cases by section 103(a). Section 1306 broadens the definition of property of the estate for chapter 13 purposes to include all property acquired and all earnings fromservices performed by the debtor after the commencement of the case.
+Section 541 is expressly made applicable to chapter 13 cases by section 103(a). Section 1306 broadens the definition of property of the estate for chapter 13 purposes to include all property acquired and all earnings from services performed by the debtor after the commencement of the case.
 
 Subsection (b) nullifies the effect of section 521(3), otherwise applicable, by providing that a chapter 13 debtor need not surrender possession of property of the estate, unless required by the plan or order of confirmation.
 

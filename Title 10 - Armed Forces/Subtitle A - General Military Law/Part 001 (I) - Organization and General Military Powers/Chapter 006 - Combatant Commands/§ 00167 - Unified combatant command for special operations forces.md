@@ -74,7 +74,7 @@ Authority of Combatant Commander.—(1) In addition to the authority prescribed 
 
 (ii) The command acquisition executive of the special operations command shall be included on the distribution list for acquisition directives and instructions of the Department of Defense.
 
-(D) The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the special operations command and such other inspector general functions as may be assigned.
+(D) The staff of the commander shall include an inspector general who shall conduct internalaudits and inspections of purchasing and contracting actions through the special operations command and such other inspector general functions as may be assigned.
 
 (f)
 

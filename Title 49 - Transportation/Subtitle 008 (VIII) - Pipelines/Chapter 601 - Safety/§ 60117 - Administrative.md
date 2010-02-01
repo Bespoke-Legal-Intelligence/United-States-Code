@@ -38,7 +38,7 @@ Testing Facilities Involved in Accidents.—The Secretary may require testing of
 
 (g)
 
-Providing Safety Information.—On request, the Secretary shall provide the Federal Energy Regulatory Commission or appropriate State authority with information the Secretary has on the safety of material, operations, devices, or processes related to pipeline transportation or operating a pipeline facility.
+Providing Safety Information.—On request, the Secretary shall provide the FederalEnergy Regulatory Commission or appropriate State authority with information the Secretary has on the safety of material, operations, devices, or processes related to pipeline transportation or operating a pipeline facility.
 
 (h)
 
@@ -74,7 +74,7 @@ In general.—Not later than December 31, 2007, the Secretary shall issue regula
 
 &emsp;(2)
 
-Considerations.—In making a determination under paragraph (1), the Secretary,if relevant and pursuant to the regulations issued under paragraph (1), shall consider—
+Considerations.—In making a determination under paragraph (1), the Secretary, if relevant and pursuant to the regulations issued under paragraph (1), shall consider—
 
 &emsp;&emsp;(A) the considerations specified in paragraphs (1) through (6) of section 60112(b);
 

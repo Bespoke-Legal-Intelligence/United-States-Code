@@ -6,7 +6,7 @@ Any final rule or order prescribed by the Secretary imposing a prohibition or gr
 
 #### (b) Publication of denial of exemption or permit
 
-Any final order issued by the Secretary denying any petition for an exemption or a permitunder this chapter shall be published in the Federal Register, together with the reasons for such action.
+Any final order issued by the Secretary denying any petition for an exemption or a permit under this chapter shall be published in the Federal Register, together with the reasons for such action.
 
 #### (c) Judicial review
 

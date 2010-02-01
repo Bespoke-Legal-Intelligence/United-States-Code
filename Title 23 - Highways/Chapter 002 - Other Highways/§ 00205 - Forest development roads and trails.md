@@ -4,7 +4,7 @@
 
 (b) Cooperation of States, counties, or other local subdivisions may be accepted but shall not be required by the Secretary of Agriculture.
 
-(c) Construction estimated to cost $50,000 or more per mile or $50,000 or more per project forprojects with a length of less than one mile, exclusive of bridges and engineering, shall be advertised and let to contract. If such estimated cost is less than $50,000 per mile or $50,000 per project for projects with a length of less than one mile or if, after proper advertising, no acceptable bid is received or the bids are deemed excessive, the work may be done by the Secretary of Agriculture on his own account.
+(c) Construction estimated to cost $50,000 or more per mile or $50,000 or more per project for projects with a length of less than one mile, exclusive of bridges and engineering, shall be advertised and let to contract. If such estimated cost is less than $50,000 per mile or $50,000 per project for projects with a length of less than one mile or if, after proper advertising, no acceptable bid is received or the bids are deemed excessive, the work may be done by the Secretary of Agriculture on his own account.
 
 (d) Funds available for forest development roads and trails shall be available for adjacent vehicular parking areas and for sanitary, water, and fire control facilities.
 

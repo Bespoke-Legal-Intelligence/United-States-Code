@@ -14,7 +14,7 @@
 
 #### (2) Authorization for administrative costs beginning in fiscal years 2007 through 2014
 
-&emsp;For each of the fiscal years 2007 through 2014, there are authorized to be appropriated such sums as may be necessary for administrative costs under this part and part B, including the costs of the direct student loan programs under this part.
+&emsp;For each of the fiscal years 2007 through 2014, there are authorized to be appropriatedsuch sums as may be necessary for administrative costs under this part and part B, including the costs of the direct student loan programs under this part.
 
 #### (3) Continuing mandatory funds for account maintenance fees
 

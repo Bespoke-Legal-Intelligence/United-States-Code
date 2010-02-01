@@ -76,7 +76,7 @@ A State which has adopted the certification program may use accreditation organi
 
 #### (1) In general
 
-&emsp;A State which qualifies to adopt the certification program within the State shall conduct inspections in accordance with paragraph (2) to determine if laboratories in the State meet the requirements of such program. Such inspections shall be carried out by the State or by accreditation organizations used by the State under subsection (g) <sup>2</sup> of this section.
+&emsp;A State which qualifies to adopt the certification program within the State shall conductinspections in accordance with paragraph (2) to determine if laboratories in the State meet the requirements of such program. Such inspections shall be carried out by the State or by accreditation organizations used by the State under subsection (g) <sup>2</sup> of this section.
 
 #### (2) Requirements
 

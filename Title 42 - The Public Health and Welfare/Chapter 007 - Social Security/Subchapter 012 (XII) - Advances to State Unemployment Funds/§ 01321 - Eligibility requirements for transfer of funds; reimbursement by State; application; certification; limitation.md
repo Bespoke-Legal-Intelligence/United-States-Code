@@ -1,6 +1,6 @@
 ### §1321. Eligibility requirements for transfer of funds; reimbursement by State; application; certification; limitation
 
-(a)(1) Advances shall be made to the States from the Federal unemployment account in the Unemployment Trust Fund as provided in this section, and shall be repayable, with interest to the extent provided in section 1322(b) of this title, in the manner provided in sections 1101(d)(1), 1103(b)(2), and 1322 of this title. An advance to a State for the payment of compensation in any 3-month period may be made if—
+(a)(1) Advances shall be made to the States from the Federal unemployment account in theUnemployment Trust Fund as provided in this section, and shall be repayable, with interest to the extent provided in section 1322(b) of this title, in the manner provided in sections 1101(d)(1), 1103(b)(2), and 1322 of this title. An advance to a State for the payment of compensation in any 3-month period may be made if—
 
 &emsp;(A) the Governor of the State applies therefor no earlier than the first day of the month preceding the first month of such 3-month period, and
 
@@ -16,7 +16,7 @@
 
 (3) For purposes of this subsection—
 
-&emsp;(A) an application for an advance shall be made on such forms, and shall contain such information and data (fiscal and otherwise) concerning the operation and administration ofthe State unemployment compensation law, as the Secretary of Labor deems necessary or relevant to the performance of his duties under this subchapter,
+&emsp;(A) an application for an advance shall be made on such forms, and shall contain such information and data (fiscal and otherwise) concerning the operation and administration of the State unemployment compensation law, as the Secretary of Labor deems necessary or relevant to the performance of his duties under this subchapter,
 
 &emsp;(B) the amount required by any State for the payment of compensation in any month shall be determined with due allowance for contingencies and taking into account all other amounts that will be available in the State's unemployment fund for the payment of compensation in such month, and
 
@@ -42,7 +42,7 @@ Subsec. (b). Pub. L. 94–566, §213(c), provided that the transfer of amounts b
 
 Subsec. (b). Pub. L. 86–778 amended subsec. (b) generally, striking out provision for repayment of advances which is now incorporated in subsec. (a)(1) in the reference to repayment under sections 1101(d)(1) and 1322 of this title.
 
-1954—Act Aug. 5, 1954, amended section generally to provide that: (1) the first condition of eligibility for an advance is that the balance in the State unemployment fund at the close of a calendar quarter be less than the total of cash payments made by the State to individuals during the 12-month period which ends with such quarter; (2) the Governor of the State must apply for an advance during the quarter following the quarter specified in paragraph (1) of this section; and (3) the total amount certified for any one application may not exceed the amount paid out by the State for cash benefits in that particular quarter.
+1954—Act Aug. 5, 1954, amended section generally to provide that: (1) the first condition of eligibility for an advance is that the balance in the State unemployment fund at the close of a calendar quarter be less than the total of cash payments made by the State to individuals during the 12-month period which ends with such quarter; (2) the Governor of the State must apply for anadvance during the quarter following the quarter specified in paragraph (1) of this section; and (3) the total amount certified for any one application may not exceed the amount paid out by the State for cash benefits in that particular quarter.
 
 1950—Subsec. (a). Act Aug. 28, 1950, substituted “January 1, 1952” for “January 1, 1950”.
 

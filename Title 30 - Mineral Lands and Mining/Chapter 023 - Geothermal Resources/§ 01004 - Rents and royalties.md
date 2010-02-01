@@ -74,7 +74,7 @@ The Secretary may provide to a lessee a credit against royalties owed under this
 
 &emsp;(2) the contract establishes a specific methodology to determine the value of such credits; and
 
-&emsp;(3) the maximum credit will be equal to the royalty value owed to the State or countythat is a party to the contract and the electricity received will serve as the royalty payment from the Federal Government to that entity.
+&emsp;(3) the maximum credit will be equal to the royalty value owed to the State or county that is a party to the contract and the electricity received will serve as the royalty payment from the Federal Government to that entity.
 
 #### (e) Crediting of rental toward royalty
 
@@ -120,7 +120,7 @@ Any annual rental under this section that is paid with respect to a lease before
 
 &emsp;A lease that would otherwise terminate under paragraph (1) shall not terminate under that paragraph if the lessee pays to the Secretary, before the end of the period referred to in paragraph (1), the amount of rental due plus a late fee equal to 10 percent of the amount.
 
-(Pub. L. 91–581, §5, Dec. 24, 1970, 84 Stat. 1567; Pub. L. 109–58, title II, §§223(a), 224(a), 228, 230, 232, 233, 236(7), Aug. 8, 2005, 119 Stat. 661, 662, 667–670, 672.)
+(Pub. L. 91–581, §5, Dec. 24, 1970, 84 Stat. 1567; Pub. L. 109–58, title II, §§223(a), 224(a), 228, 230,232, 233, 236(7), Aug. 8, 2005, 119 Stat. 661, 662, 667–670, 672.)
 
 #### References in Text
 

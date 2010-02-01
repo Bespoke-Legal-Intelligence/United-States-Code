@@ -4,7 +4,7 @@
 
 For purposes of this section:
 
-&emsp;(1) The term “rule” means any rule promulgated by the Commission under section 46 or section 57a of this title, except that such term does not include interpretive rules, rules involving Commission management or personnel, general statements of policy, or rules relating to Commission organization, procedure, or practice. Such term does not include any amendment to a rule unless the Commission—
+&emsp;(1) The term “rule” means any rule promulgated by the Commission under section 46 or section 57a of this title, except that such term does not include interpretive rules, rules involving Commission management or personnel, general statements of policy, or rules relating to Commission organization, procedure,or practice. Such term does not include any amendment to a rule unless the Commission—
 
 &emsp;&emsp;(A) estimates that such amendment will have an annual effect on the national economy of $100,000,000 or more;
 
@@ -16,7 +16,7 @@ For purposes of this section:
 
 #### (b) Notice of proposed rulemaking; regulatory analysis; contents; issuance
 
-(1) In any case in which the Commission publishes notice of a proposed rulemaking, the Commission shall issue a preliminary regulatory analysis relating to the proposed rule involved.Each preliminary regulatory analysis shall contain—
+(1) In any case in which the Commission publishes notice of a proposed rulemaking, the Commission shall issue a preliminary regulatory analysis relating to the proposed rule involved. Each preliminary regulatory analysis shall contain—
 
 &emsp;(A) a concise statement of the need for, and the objectives of, the proposed rule;
 

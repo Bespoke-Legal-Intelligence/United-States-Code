@@ -96,7 +96,7 @@ Whenever the Administrator determines after public hearing that a State is not a
 
 &emsp;&emsp;The Administrator may revise the allocation process referred to in subparagraph (A) after—
 
-&emsp;&emsp;&emsp;(i) consulting with State agencies responsible for overseeing corrective action for releases from underground storage tanks; and
+&emsp;&emsp;&emsp;(i) consulting with State agencies responsible for overseeing corrective actionfor releases from underground storage tanks; and
 
 &emsp;&emsp;&emsp;(ii) taking into consideration, at a minimum, each of the following:
 

@@ -108,7 +108,7 @@ Amended standards.—The final rule shall contain any amended standards.
 
 &emsp;(B) Single Package Systems: 6.6 for products manufactured on or after January 1, 1993.
 
-(3)(A) The Secretary shall publish a final rule no later than January 1, 1994, to determine whether the standards established under paragraph (1) should be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1999. The Secretary shall publish a final rule no later than January 1, 1994, to determine whether the standards established under paragraph (2) shall be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 2002.
+(3)(A) The Secretary shall publish a final rule no later than January 1, 1994, to determine whether the standards established under paragraph (1) should be amended. Such rule shallcontain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1999. The Secretary shall publish a final rule no later than January 1, 1994, to determine whether the standards established under paragraph (2) shall be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 2002.
 
 (B) The Secretary shall publish a final rule after January 1, 1994, and no later than January 1, 2001, to determine whether the standards in effect for central air conditioners and central air conditioning heat pumps should be amended. Such rule shall provide that any amendment shall apply to products manufactured on or after January 1, 2006.
 
@@ -279,7 +279,7 @@ Exception.—A boiler that is manufactured to operate without any need for elect
 | two F96T12HO lamps | 120 | 220 | 0\.390 |
 | &nbsp; | 277 | 220 | 0\.390 |
 
-(6) The standards described in paragraph (5) do not apply to (A) a ballast which is designed for dimming or for use in ambient temperatures of 0° F or less, or (B) a ballast which has a power factor of less than 0.90 and is designed and labeled for use only in residential building applications.
+(6) The standards described in paragraph (5) do not apply to (A) a ballast which is designed for dimming or for use in ambient temperatures of 0° F or less, or (B) a ballast which has a powerfactor of less than 0.90 and is designed and labeled for use only in residential building applications.
 
 (7)(A) The Secretary shall publish a final rule no later than January 1, 1992, to determine if the standards established under paragraph (5) should be amended, including whether such standards should be amended so that they would be applicable to ballasts described in paragraph (6) and other fluorescent lamp ballasts. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1995.
 
@@ -394,7 +394,7 @@ Standards.—
 
 &emsp;(A)
 
-Definition of effective date.—In this paragraph (other than subparagraph (D)), the term “effective date” means, with respect to each type of lamp specified in a table contained in subparagraph (B), the last day of the period of months corresponding to that type of lamp (as specified in the table) that follows October 24, 1992.
+Definition of effective date.—In this paragraph (other than subparagraph (D)), theterm “effective date” means, with respect to each type of lamp specified in a table contained in subparagraph (B), the last day of the period of months corresponding to that type of lamp (as specified in the table) that follows October 24, 1992.
 
 &emsp;(B)
 
@@ -404,13 +404,13 @@ FLUORESCENT LAMPS
 
 | Lamp Type | Nominal Lamp Wattage | Minimum CRI | Minimum Average Lamp Efficacy (LPW) | Effective Date (Period of Months) |
 | :--- | :---: | :---: | :---: | ---: |
-| 4-foot medium bi-pin | \>35 W | 69 | 75\.0 | 36 |
+| 4-foot medium bi-pin | G6\>35 W | 69 | 75\.0 | 36 |
 |  | g806�35 W | 45 | 75\.0 | 36 |
-| 2-foot U-shaped | \>35 W | 69 | 68\.0 | 36 |
+| 2-foot U-shaped | G6\>35 W | 69 | 68\.0 | 36 |
 |  | g806�35 W | 45 | 64\.0 | 36 |
 | 8-foot slimline | 65 W | 69 | 80\.0 | 18 |
 |  | g806�65 W | 45 | 80\.0 | 18 |
-| 8-foot high output | \>100 W | 69 | 80\.0 | 18 |
+| 8-foot high output | G6\>100 W | 69 | 80\.0 | 18 |
 |  | g806�100 W | 45 | 80\.0 | 18 |
 
 INCANDESCENT REFLECTOR LAMPS
@@ -540,7 +540,7 @@ Phased-in effective dates.—The Secretary shall consider phased-in effective da
 
 #### (j) Standards for showerheads and faucets
 
-(1) The maximum water use allowed for any showerhead manufactured after January 1, 1994, is 2.5 gallons per minute when measured at a flowing water pressure of 80 pounds per square inch. Any such showerhead shall also meet the requirements of ASME/ANSI A112.18.1M–1989, 7.4.3(a).
+(1) The maximum water use allowed for any showerhead manufactured after January 1, 1994, is 2.5 gallons per minute when measured at a flowing water pressure of 80 pounds per square inch. Any such showerhead shall also meet therequirements of ASME/ANSI A112.18.1M–1989, 7.4.3(a).
 
 (2) The maximum water use allowed for any of the following faucets manufactured after January 1, 1994, when measured at a flowing water pressure of 80 pounds per square inch, is as follows:
 
@@ -576,7 +576,7 @@ Phased-in effective dates.—The Secretary shall consider phased-in effective da
 
 &emsp;(II) is applicable to any sale or installation of all products in such type or class of showerhead or faucet.
 
-(C) If, after any period of five consecutive years, the maximum flow rate requirements ofthe ASME/ANSI standard for showerheads are not amended to improve the efficiency of water use of such products, or after any such period such requirements for faucets are not amended to improve the efficiency of water use of such products, the Secretary shall, not later than six months after the end of such five-year period, publish a final rule waiving the provisions of section 6297(c) of this title with respect to any State regulation concerning the water use or water efficiency of such type or class of showerhead or faucet if such State regulation—
+(C) If, after any period of five consecutive years, the maximum flow rate requirements of the ASME/ANSI standard for showerheads are not amended to improve the efficiency of water use of such products, or after any such period such requirements for faucets are not amended to improve the efficiency of water use of such products, the Secretary shall, not later than six months after the end of such five-year period, publish a final rule waiving the provisions of section 6297(c) of this title with respect to any State regulation concerning the water use or water efficiency of such type or class of showerhead or faucet if such State regulation—
 
 &emsp;(i) is more stringent than the standards in effect for such type of class of showerhead or faucet; and
 
@@ -618,7 +618,7 @@ Phased-in effective dates.—The Secretary shall consider phased-in effective da
 
 &emsp;(iii) is not consistent with the purposes of this chapter.
 
-(B)(i) As part of the rulemaking conducted under subparagraph (A), the Secretary shall also determine if adoption of a uniform national standard for any type or class of low consumption water closet or low consumption urinal more stringent than such amended ASME/ANSI Standard A112.19.6 for such product—
+(B)(i) As part of the rulemaking conducted under subparagraph (A), the Secretary shall also determine if adoption of a uniform national standard for any type or class of low consumption water closet or low consumption urinalmore stringent than such amended ASME/ANSI Standard A112.19.6 for such product—
 
 &emsp;(I) would result in additional conservation of energy or water;
 
@@ -830,7 +830,7 @@ Backstop requirement.—If the Secretary imposes a backstop requirement as a res
 
 &emsp;&emsp;Except as provided in subparagraph (B), an amendment prescribed under this subsection shall apply to—
 
-&emsp;&emsp;&emsp;(i) with respect to refrigerators, refrigerator-freezers, freezers, room air conditioners, dishwashers, clothes washers,clothes dryers, fluorescent lamp ballasts, and kitchen ranges and ovens, such a product that is manufactured after the date that is 3 years after publication of the final rule establishing an applicable standard; and
+&emsp;&emsp;&emsp;(i) with respect to refrigerators, refrigerator-freezers, freezers, room air conditioners, dishwashers, clothes washers, clothes dryers, fluorescent lamp ballasts, and kitchen ranges and ovens, such a product that is manufactured after the date that is 3 years after publication of the final rule establishing an applicable standard; and
 
 &emsp;&emsp;&emsp;(ii) with respect to central air conditioners, heat pumps, water heaters, pool heaters, direct heating equipment, and furnaces, such a product that is manufactured after the date that is 5 years after publication of the final rule establishing an applicable standard.
 
@@ -982,7 +982,7 @@ In general.—In any subsequent rulemaking for any product for which a regional 
 
 &emsp;&emsp;(ii)
 
-Regional standard no longer appropriate.—Except as provided in clause (iii), if the Secretary determines that regional standards are no longer appropriate for aproduct, beginning on the effective date of the amended standard for the product—
+Regional standard no longer appropriate.—Except as provided in clause (iii), if the Secretary determines that regional standards are no longer appropriate for a product, beginning on the effective date of the amended standard for the product—
 
 &emsp;&emsp;&emsp;(I) there shall be 1 base national standard for the product with Federal enforcement; and
 
@@ -1038,7 +1038,7 @@ Enforcement plan.—Not later than 90 days after the date of the issuance of a f
 
 &emsp;&emsp;&emsp;(II)
 
-Responsible entities.—Any rules regarding enforcement of a regional standard shall clearly specify which entities are legally responsible for compliance with the standards and for making any required information or labeling disclosures.
+Responsible entities.—Any rules regarding enforcement of a regional standard shall clearly specify which entities arelegally responsible for compliance with the standards and for making any required information or labeling disclosures.
 
 &emsp;&emsp;&emsp;(III)
 
@@ -1172,7 +1172,7 @@ Compliance with, and performance under, the energy conservation standards (excep
 
 (C) The assessment under subparagraph (B)(ii) shall include—
 
-&emsp;(i) estimates of the significance of potential energy savings from technical improvements to battery chargers and external power supplies; and
+&emsp;(i) estimates of the significance of potential energy savings from technical improvementsto battery chargers and external power supplies; and
 
 &emsp;(ii) suggested product classes for energy conservation standards.
 
@@ -1290,7 +1290,7 @@ End-use products.—An energy conservation standard for external power supplies 
 
 #### (w) Illuminated exit signs
 
-An illuminated exit sign manufactured on or after January 1, 2006, shall meet the version 2.0 Energy Star Program performance requirements for illuminated exit signs prescribed by the Environmental Protection Agency.
+An illuminated exit sign manufactured on or after January 1, 2006, shall meet the version 2.0 Energy Star Program performance requirementsfor illuminated exit signs prescribed by the Environmental Protection Agency.
 
 #### (x) Torchieres
 
@@ -1627,7 +1627,7 @@ Section 6297 of this title applies—
 
 &emsp;(2) to products for which energy conservation standards are established under subsections (w) through (hh) of this section on August 8, 2005, except that any State or local standard prescribed or enacted before August 8, 2005, shall not be preempted until the energy conservation standards established under subsections (w) through (hh) of this section take effect.
 
-(Pub. L. 94–163, title III, §325, Dec. 22, 1975, 89 Stat. 923; Pub. L. 94–385, title I, §161, Aug. 14, 1976, 90 Stat. 1140; Pub. L. 95–619, title IV, §422, Nov. 9, 1978, 92 Stat. 3259; Pub. L. 100–12, §5, Mar. 17, 1987, 101 Stat. 107; Pub. L. 100–357, §2(e), June 28, 1988, 102 Stat. 673; Pub. L. 102–486, title I, §123(f), Oct. 24, 1992, 106 Stat. 2824; Pub. L. 105–388, §5(a)(5), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(c), Aug. 8, 2005, 119 Stat. 628; Pub. L. 110–140, title III, §§301(c), 303–305(a), 306(a), 307, 308(a), 309–311(a), 316(c)(2), (d), 321(a)(3), 322(b), 324(e), Dec. 19, 2007, 121 Stat. 1550, 1552, 1553, 1556, 1559–1561, 1563, 1573, 1577, 1588, 1593.)
+(Pub. L. 94–163, title III, §325, Dec. 22, 1975, 89 Stat. 923; Pub. L. 94–385, title I, §161, Aug. 14, 1976, 90 Stat. 1140; Pub. L. 95–619, title IV, §422, Nov. 9, 1978, 92 Stat. 3259; Pub. L. 100–12, §5, Mar. 17, 1987, 101 Stat. 107; Pub. L. 100–357, §2(e), June 28, 1988, 102 Stat. 673; Pub. L. 102–486, title I, §123(f), Oct. 24, 1992, 106 Stat. 2824; Pub. L. 105–388, §5(a)(5), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(c), Aug. 8, 2005, 119 Stat.628; Pub. L. 110–140, title III, §§301(c), 303–305(a), 306(a), 307, 308(a), 309–311(a), 316(c)(2), (d), 321(a)(3), 322(b), 324(e), Dec. 19, 2007, 121 Stat. 1550, 1552, 1553, 1556, 1559–1561, 1563, 1573, 1577, 1588, 1593.)
 
 #### References in Text
 
@@ -1699,7 +1699,7 @@ Subsec. (cc)(2). Pub. L. 110–140, §311(a)(1), added par. (2) and struck out f
 
 Subsec. (ee). Pub. L. 110–140, §316(c)(2), inserted “(other than specialty application mercury vapor lamp ballasts)” before “shall”.
 
-Subsec. (ff)(1)(A)(iii), (iv). Pub. L. 110–140, §316(d)(2)(A), redesignated cl. (iv) as (iii), inserted “fans sold for” before “outdoor” in subcl. (II), and struck out former cl. (iii) which read as follows: “Adjustable speed controls (either more than 1 speed or variable speed).”
+Subsec. (ff)(1)(A)(iii), (iv). Pub. L. 110–140, §316(d)(2)(A), redesignated cl. (iv) as (iii), inserted “fanssold for” before “outdoor” in subcl. (II), and struck out former cl. (iii) which read as follows: “Adjustable speed controls (either more than 1 speed or variable speed).”
 
 Subsec. (ff)(4)(C). Pub. L. 110–140, §316(d)(2)(B)(i), substituted “date specified in subparagraph (A)” for “date specified in subparagraph (B)” in introductory provisions.
 

@@ -8,17 +8,19 @@
 
 (d) A person who does not serve satisfactorily in the element of the Ready Reserve in the combat or combat support skill for the period for which the bonus was paid under this section shall be subject to the repayment provisions of section 303a(e) of this title.
 
-(e) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdictionand by the Secretary of Homeland Security for the Coast Guard when it is not operating as a service in the Navy.
+(e) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as a service in the Navy.
 
 (f) A bonus may not be paid under this section to any person for an enlistment—
 
 &emsp;(1) during the period beginning on October 1, 1992, and ending on September 30, 2005; or
 
-&emsp;(2) after December 31, 2009.
+&emsp;(2) after December 31, 2010.
 
-(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 99–145, title VI, §646(a)(1), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §618(d), Oct. 28, 2004, 118 Stat. 1950; Pub. L. 109–163, div. A, title VI, §§621(c), 687(b)(17), Jan. 6, 2006, 119 Stat. 3294, 3330; Pub. L. 109–364, div. A, title VI, §611(d), title X, §1071(c)(3), Oct. 17, 2006, 120 Stat. 2247, 2400; Pub. L. 110–181, div. A, title VI, §611(d), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §611(d), Oct. 14, 2008, 122 Stat. 4484.)
+(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 99–145, title VI, §646(a)(1), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §618(d), Oct. 28, 2004, 118 Stat. 1950; Pub. L. 109–163, div. A, title VI, §§621(c), 687(b)(17), Jan. 6, 2006, 119 Stat. 3294, 3330; Pub. L. 109–364, div. A, title VI, §611(d), title X, §1071(c)(3), Oct. 17, 2006, 120 Stat. 2247, 2400; Pub. L. 110–181, div. A, title VI, §611(d), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §611(d), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §611(4), Oct. 28, 2009, 123 Stat. 2352.)
 
 #### Amendments
+
+2009—Subsec. (f)(2). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 
 2008—Subsec. (f)(2). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
 

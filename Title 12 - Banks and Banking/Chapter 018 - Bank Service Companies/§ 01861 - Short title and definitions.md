@@ -78,5 +78,5 @@ Subsec. (d). Pub. L. 97–320 redesignated provisions of subsec. (d) as (b)(6).
 
 #### Transfer of Functions
 
-Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
+Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
 

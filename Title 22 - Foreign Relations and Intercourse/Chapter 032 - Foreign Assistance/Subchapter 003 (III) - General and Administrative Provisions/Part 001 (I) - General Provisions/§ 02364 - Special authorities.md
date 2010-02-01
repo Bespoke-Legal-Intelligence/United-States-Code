@@ -24,7 +24,7 @@
 
 #### (b) United States obligations in West Germany
 
-Whenever the President determines it to be important to the national interest, he may use funds available for the purposes of part IV of subchapter I of this chapter in order to meet the responsibilities or objectives of the United States in Germany, including West Berlin, and without regard to such provisions of law as hedetermines should be disregarded to achieve this purpose.
+Whenever the President determines it to be important to the national interest, he may use funds available for the purposes of part IV of subchapter I of this chapter in order to meet the responsibilities or objectives of the United States in Germany, including West Berlin, and without regard to such provisions of law as he determines should be disregarded to achieve this purpose.
 
 #### (c) Certification by President of inadvisability to specify nature of use of funds; reports to Congress
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Public-Private Competition.—(1) A function of the Department of Defense performed by 10 or more Department of Defense civilian employees may not be converted, in whole or in part, to performance by a contractor unless the conversion is based on the results of a public-private competition that—
+Public-Private Competition.—(1) No function of the Department of Defense performed by Department of Defense civilian employees may be converted, in whole or in part, to performance by a contractor unless the conversion is based on the results of a public-private competition that—
 
 &emsp;(A) formally compares the cost of performance of the function by Department of Defense civilian employees with the cost of performance by a contractor;
 
@@ -46,6 +46,42 @@ Public-Private Competition.—(1) A function of the Department of Defense perfor
 
 (4) A military department or Defense Agency may not be required to conduct a public-private competition under Office of Management and Budget Circular A–76 or any other provision of law at the end of the performance period specified in a letter of obligation or other agreement entered into with Department of Defense civilian employees pursuant to a public-private competition for any function of the Department of Defense performed by Department of Defense civilian employees.
 
+(5)(A) Except as provided in subparagraph (B), the duration of a public-private competition conducted pursuant to Office of Management and Budget Circular A–76 or any other provision of law for any function of the Department of Defense performed by Department of Defense civilian employees may not exceed a period of 24 months, commencing on the date on which the preliminary planning for the public-private competition begins and ending on the date on which a performance decision is rendered with respect to the function.
+
+(B)(i) The Secretary of Defense may specify an alternative period of time for a public-private competition, which may not exceed 33 months, if the Secretary—
+
+&emsp;(I) determines that the competition is of such complexity that it cannot be completed within 24 months; and
+
+&emsp;(II) submits to Congress, as part of the formal congressional notification of a public-private competition pursuant to subsection (c), written notification that explains the basis of such determination.
+
+(ii) The notification under clause (i)(II) shall also address each of the following:
+
+&emsp;(I) Any efforts of the Secretary to break up the study geographically or functionally.
+
+&emsp;(II) The Secretary's justification for undertaking a public-private competition instead of using internal reengineering alternatives.
+
+&emsp;(III) The cost savings that the Secretary expects to achieve as a result of the public-private competition.
+
+(iii) If the Secretary specifies an alternative time period under this subparagraph, the alternative time period shall be binding on the Department in the same manner and to the same extent as the limitation provided in subparagraph (A).
+
+(C) The time period specified in subparagraph (A) for a public-private competition does not include any day during which the public-private competition is delayed by reason of the filing of a protest before the Government Accountability Office or a complaint in the United States Court of Federal Claims up until the day the decision or recommendation of either authority becomes final. In the case of a protest before the Government Accountability Office, the recommendation becomes final after the period of time for filing a request for reconsideration, or if a request for reconsideration is filed, on the day the Government Accountability Office issues a decision on the reconsideration.
+
+(D) If a protest with respect to a public-private competition before the Government Accountability Office or the United States Court of Federal Claims is sustained, and the recommendation is final as described in subparagraph (C), and if such protest and recommendation result in an unforeseen delay in implementing a final performance decision, the Secretary of Defense may terminate the public-private competition or extend the period of time specified for the public-private competition under subparagraph (A) or subparagraph (B). If the Secretary decides not to terminate a competition, the Secretary shall submit to Congress written notice of such decision. Any such notification shall include a justification for the Secretary's decision and a new time limitation for the competition, which shall not exceed 12 months from the finaldecision and shall be binding on the Department.
+
+(E) For the purposes of this paragraph, preliminary planning with respect to a public-private competition, begins on the date on which the Department of Defense obligates funds for the acquisition of contract support, or formally assigns Department of Defense personnel, to carry out any of the following activities:
+
+&emsp;(i) Determining the scope of the competition.
+
+&emsp;(ii) Conducting research to determine the appropriate grouping of functions for the competition.
+
+&emsp;(iii) Assessing the availability of workload data, quantifiable outputs of functions, and agency or industry performance standards applicable to the competition.
+
+&emsp;(iv) Determining the baseline cost of any function for which the competition is conducted.
+
+(F) To effectively establish the date that is the first day of preliminary planning for a public-private competition, the head of a military department shall submit to Congress written notice of such date and shall provide public notice by announcing such date on an appropriate Internet website. Such date is the first day of preliminary planning for a public-private competition for the purpose of computing the duration of the public private competition for purposes of this section.
+
+(G) The Secretary of Defense shall submit to the congressional defense committees an annual report on the use, during the year covered by the report, of alternative time periods for public-private competitions under this section, and the explanations of the Secretary for such alternative time periods.
+
 (b)
 
 Requirement to Consult DOD Employees.—(1) Each officer or employee of the Department of Defense responsible for determining under Office of Management and Budget Circular A–76 whether to convert to contractor performance any function of the Department of Defense—
@@ -80,7 +116,7 @@ Congressional Notification.—(1) Before commencing a public-private competition
 
 &emsp;(B) the local community and the Government, if more than 50 Department of Defense civilian employees perform the function.
 
-(3)(A) A representative individual or entity at a facility where a public-private competition is conducted may submit to the Secretary of Defense an objection to the public private <sup>1</sup> competition on the grounds that the report required by paragraph (1) has not been submitted or that the certification required by paragraph (1)(E) is not included in the report submitted as a condition for the public private <sup>1</sup> competition. The objection shall be in writing and shall be submitted within 90 days after the following date:
+(3)(A) A representative individual or entity at a facility where a public-private competition is conducted may submit to the Secretary of Defense an objection to the public-private competition on the grounds that the report required by paragraph (1) has not been submitted or that the certification required by paragraph (1)(E) is not included in the report submitted as a condition for the public-private competition. The objection shall be in writing and shall be submitted within 90 days after the following date:
 
 &emsp;(i) In the case of a failure to submit the report when required, the date on which the representative individual or an official of the representative entity authorized to pose the objection first knew or should have known of that failure.
 
@@ -100,7 +136,7 @@ Exemption for the Purchase of Products and Services of the Blind and Other Sever
 
 Inapplicability During War or Emergency.—The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
 
-(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, title XI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711; Pub. L. 105–261, div. A, title III, §342(a)–(c), Oct. 17, 1998, 112 Stat. 1974–1976; Pub. L. 106–65, div. A, title III, §341, Oct. 5, 1999, 113 Stat. 568; Pub. L. 106–398, §1 \[\[div. A\], title III, §§351, 352\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, 1654A–72; Pub. L. 107–107, div. A, title III, §344, Dec. 28, 2001, 115 Stat. 1061; Pub. L. 107–314, div. A, title III, §331, Dec. 2, 2002, 116 Stat. 2512; Pub. L. 109–163, div. A, title III, §341(a), (b), (c)(2), (3), (g)(1)–(2)(B), Jan. 6, 2006, 119 Stat. 3195, 3196, 3199, 3200; Pub. L. 110–181, div. A, title III, §§322(a), (b)(2), (c), 323, Jan. 28, 2008, 122 Stat. 58–60.)
+(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, title XI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711; Pub. L. 105–261, div. A, title III, §342(a)–(c), Oct. 17, 1998, 112 Stat. 1974–1976; Pub. L. 106–65, div. A, title III, §341, Oct. 5, 1999, 113 Stat. 568; Pub. L. 106–398, §1 \[\[div. A\], title III, §§351, 352\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, 1654A–72; Pub. L. 107–107, div. A, title III, §344, Dec. 28, 2001, 115 Stat. 1061; Pub. L. 107–314, div. A, title III, §331, Dec. 2, 2002, 116 Stat. 2512; Pub. L. 109–163, div. A, title III, §341(a), (b), (c)(2), (3), (g)(1)–(2)(B), Jan. 6, 2006, 119 Stat. 3195, 3196, 3199, 3200; Pub. L. 110–181, div. A, title III, §§322(a), (b)(2), (c), 323, Jan. 28, 2008, 122 Stat. 58–60; Pub. L. 111–84, div. A, title III, §§321(a), 322(a), title X, §1073(a)(25), Oct. 28, 2009, 123 Stat. 2250, 2251, 2474.)
 
 #### Historical and Revision Notes
 
@@ -111,6 +147,12 @@ Section is based on Pub. L. 96–342, title V, §502, Sept. 8, 1980, 94 Stat. 10
 The Javits-Wagner-O'Day Act, referred to in subsec. (d)(2), is act June 25, 1938, ch. 697, 52 Stat. 1196, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 46 of Title 41 and Tables.
 
 #### Amendments
+
+2009—Subsec. (a)(1). Pub. L. 111–84, §321(a), in introductory provisions, substituted “No function” for “A function” and “may be converted” for “may not be converted” and struck out “10 or more” before “Department of Defense civilian employees”.
+
+Subsec. (a)(5). Pub. L. 111–84, §322(a), added par. (5).
+
+Subsec. (c)(3)(A). Pub. L. 111–84, §1073(a)(25), substituted “the public-private competition” for “the public private competition” in two places in introductory provisions.
 
 2008—Subsec. (a)(1)(B). Pub. L. 110–181, §322(c)(1)(A), inserted “, or any successor circular” after “2003”.
 
@@ -196,6 +238,12 @@ Subsec. (d). Pub. L. 105–85, §384(c), substituted “20 or fewer” for “45
 
 1989—Subsecs. (e) to (g). Pub. L. 101–189 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–84, div. A, title III, §321(b), Oct. 28, 2009, 123 Stat. 2250, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to a function for which a public-private competition is commenced on or after the date of the enactment of this Act \[Oct. 28, 2009\].”
+
+Pub. L. 111–84, div. A, title III, §322(b), Oct. 28, 2009, 123 Stat. 2252, provided that: “Paragraph (5) of section 2461(a) of title 10, United States Code, as added by subsection (a), shall apply with respect to a public-private competition covered by such section that is initiated on or after the date of the enactment of this Act \[Oct. 28, 2009\].”
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–261, div. A, title III, §342(d), Oct. 17, 1998, 112 Stat. 1976, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 1998\], but the amendments shall not apply with respect to a conversion of a function of the Department of Defense to performance by a private contractor concerning which the Secretary of Defense provided to Congress, before the date of the enactment of this Act, a notification under paragraph (1) of section 2461(a) of title 10, United States Code, as in effect on the day before the date of the enactment of this Act.”
@@ -234,11 +282,41 @@ Inspector general access.—For the purpose of determining compliance with the r
 
 #### Pilot Program on Commercial Fee-for-Service Air Refueling Support for the Air Force
 
-Pub. L. 110–181, div. A, title X, §1081, Jan. 28, 2008, 122 Stat. 335, provided that:
+Pub. L. 111–84, div. A, title X, §1082, Oct. 28, 2009, 123 Stat. 2481, provided that:
 
 “(a)
 
-Pilot Program Required.—The Secretary of the Air Force shall conduct, as soon as practicable after the date of the enactment of this Act \[Jan. 28, 2008\], a pilot program to assess the feasibility and advisability of utilizing commercial fee-for-service air refueling tanker aircraft for Air Force operations. The duration of the pilot program shall be at least five years after commencement of the program.
+Multiyear Contracts Authorized.—The Secretary of the Air Force may enter into one or more multiyear contracts, beginning with the fiscal year 2011 program year, for purposes of conducting the pilot program on utilizing commercial fee-for-service air refueling tanker aircraft for Air Force operations required by section 1081 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 335) \[set out below\].
+
+“(b)
+
+Compliance With Law Applicable to Multiyear Contracts.—Any contract entered into under subsection (a) shall be entered into in accordance with the provisions of section 2306c of title 10, United States Code, except that—
+
+&emsp;“(1) the term of the contract may not be more than 8 years; and
+
+&emsp;“(2) notwithstanding section 2306c(b) of such title, the authority under section 2306c(a) of such title shall apply to the fee-for-service air refueling pilot program.
+
+“(c)
+
+Compliance With Law Applicable to Service Contracts.—A contract entered into under subsection (a) shall be entered into in accordance with the provisions of section 2401 of title 10, United States Code, except that—
+
+&emsp;“(1) the Secretary shall not be required to certify to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that the contract is the most cost-effective means of obtaining commercial fee-for-service air refueling tanker aircraft for Air Force operations; and
+
+&emsp;“(2) the Secretary shall not be required to certify to the congressional defense committees that there is no alternative for meeting urgent operational requirements other than making the contract.
+
+“(d)
+
+Limitation on Amount.—The amount of a contract under subsection (a) may not exceed $999,999,999.
+
+“(e)
+
+Provision of Government Insurance.—A commercial air operator contracting with the Department of Defense under the pilot program referred to in subsection (a) shall be eligible to receive Government-provided insurance pursuant to chapter 443 of title 49, United States Code, if commercial insurance is unavailable on reasonable terms and conditions.”
+
+Pub. L. 110–181, div. A, title X, §1081, Jan. 28, 2008, 122 Stat. 335, as amended by Pub. L. 111–84, div. A, title X, §1081, Oct. 28, 2009, 123 Stat. 2481, provided that:
+
+“(a)
+
+Pilot Program Required.—The Secretary of the Air Force shall conduct, as soon as practicable after the date of the enactment of this Act \[Jan. 28, 2008\], a pilot program to assess the feasibility and advisability of utilizing commercial fee-for-service air refueling tanker aircraft for Air Force operations, unless the Secretary of Defense submits notification to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that pursuing such a program is not in the national interest. The duration of the pilot program shall be at least five years after commencement of the program.
 
 “(b)
 
@@ -398,7 +476,7 @@ Information Technology Service Defined.—In this section, the term ‘informati
 
 #### Pilot Manpower Reporting System in Department of the Army
 
-Pub. L. 107–107, div. A, title III, §345(a)–(c), Dec. 28, 2001, 115 Stat. 1061, 1062, provided that, not later than Mar. 1 of each of the fiscal years 2002 through 2004, theSecretary of the Army was to submit to Congress a report describing the use during the previous fiscal year of non-Federal entities to provide services to the Department of the Army.
+Pub. L. 107–107, div. A, title III, §345(a)–(c), Dec. 28, 2001, 115 Stat. 1061, 1062, provided that, not later than Mar. 1 of each of the fiscal years 2002 through 2004, the Secretary of the Army was to submit to Congress a report describing the use during the previous fiscal year of non-Federal entities to provide services to the Department of the Army.
 
 #### Pilot Program for Commercial Services
 
@@ -474,7 +552,7 @@ Section 353(b) of Pub. L. 104–106 provided that:
 
 “(2) The payroll and other accounting and finance functions designated by the Secretary for performance by private-sector sources under the pilot program shall include at least one major payroll, accounting, or finance function.
 
-“(3) To carry out the pilot program, the Secretary shall enter into discussions with private-sector sources for the purpose of developing a request for proposals to be issued for performance by those sources of functionsdesignated by the Secretary under paragraph (2). The discussions shall be conducted on a schedule that accommodates issuance of a request for proposals within 60 days after the date of the enactment of this Act \[Feb. 10, 1996\].
+“(3) To carry out the pilot program, the Secretary shall enter into discussions with private-sector sources for the purpose of developing a request for proposals to be issued for performance by those sources of functions designated by the Secretary under paragraph (2). The discussions shall be conducted on a schedule that accommodates issuance of a request for proposals within 60 days after the date of the enactment of this Act \[Feb. 10, 1996\].
 
 “(4) A goal of the pilot program is to reduce by at least 25 percent the total costs incurred by the Department annually for the performance of a function referred to in paragraph (2) through the performance of that function by a private-sector source.
 
@@ -633,6 +711,4 @@ Report.—(1) The Secretary shall identify activities of the Department (other t
 &emsp;“(D) The views of the Secretary on the desirability of terminating the applicability of OMB Circular A–76 to the Department.
 
 “(4) The Secretary shall carry out paragraph (1) in consultation with the Director of the Office of Management and Budget and the Comptroller General of the United States. In carrying out that paragraph, the Secretary shall consult with, and seek the views of, representatives of the private sector, including organizations representing small businesses.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be “public-private”.</i>
 

@@ -10,7 +10,7 @@ Replacement of existing buildings.—When the Administrator of General Services 
 
 &emsp;(2)
 
-Sale or exchange of sites.—When the Administrator decides that a site acquired for the construction of a public building is not suitable for that purpose, the Administratormay exchange the site for another site, or may sell it in accordance with subtitle I of this title and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
+Sale or exchange of sites.—When the Administrator decides that a site acquired for the construction of a public building is not suitable for that purpose, the Administrator may exchange the site for another site, or may sell it in accordance with subtitle I of this title and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
 
 &emsp;(3)
 
@@ -88,5 +88,5 @@ In subsection (b)(2)(B), the words “Transportation and Infrastructure” are s
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a)(1) and (2), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a)(1) and (2), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 

@@ -18,7 +18,7 @@ Whenever—
 
 &emsp;(B) in baggage belonging to and accompanying a passenger being lawfully transported on such conveyance; or
 
-&emsp;(C) in the cargo of the conveyance if the cargo is listed on the manifest and marks, numbers, weights and quantities of the outer packages or containers agree with the manifest;
+&emsp;(C) in the cargo of the conveyance if the cargo is listed on the manifest and marks, numbers, weights and quantities of the outerpackages or containers agree with the manifest;
 
 > unless the owner or operator, or the master, pilot, conductor, driver or other person in charge participated in, or had knowledge of, the violation, or was grossly negligent in preventing or discovering the violation.
 

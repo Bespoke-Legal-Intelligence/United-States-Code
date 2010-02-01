@@ -12,15 +12,21 @@ A State shall apply for obsolete ships under this chapter in such manner and for
 
 Before taking any action with respect to an application submitted under this chapter, the Secretary shall provide copies of the application to the Secretary of the Interior, the Secretary of Defense, and any other appropriate Federal officer, and shall consider comments and views of such officers with respect to the application.
 
-(Pub. L. 92–402, §3, Aug. 22, 1972, 86 Stat. 618; Pub. L. 98–623, title II, §207(1), (2), Nov. 8, 1984, 98 Stat. 3397.)
+#### (d) United States territory, possession, or Commonwealth; foreign country
+
+Any territory, possession, or Commonwealth of the United States, and any foreign country, may apply to the Secretary for an obsolete vessel to be used for an artificial reef under this section. The application process and reefing of any such obsolete vessel shall be performed in a manner consistent with the process jointly developed by the Secretary of Transportation and the Administrator of the Environmental Protection Agency under section 3504(b) of Public Law 107–314 (16 U.S.C. 1220 note).
+
+(Pub. L. 92–402, §3, Aug. 22, 1972, 86 Stat. 618; Pub. L. 98–623, title II, §207(1), (2), Nov. 8, 1984, 98 Stat. 3397; Pub. L. 111–84, div. C, title XXXV, §3513(a), Oct. 28, 2009, 123 Stat. 2724.)
 
 #### Amendments
+
+2009—Subsec. (d). Pub. L. 111–84 added subsec. (d).
 
 1984—Subsecs. (a), (b). Pub. L. 98–623, §207, substituted “Secretary of Transportation” for “Secretary of Commerce” and “obsolete ships” for “Liberty ships”, wherever appearing.
 
 #### Environmental Best Management Practices for Preparing Vessels for Use as Artificial Reefs
 
-Pub. L. 107–314, div. C, title XXXV, §3504(b), Dec. 2, 2002, 116 Stat. 2754, as amended by Pub. L. 108–136, div.C, title XXXV, §3516, Nov. 24, 2003, 117 Stat. 1795, provided that:
+Pub. L. 107–314, div. C, title XXXV, §3504(b), Dec. 2, 2002, 116 Stat. 2754, as amended by Pub. L. 108–136, div. C, title XXXV, §3516, Nov. 24, 2003, 117 Stat. 1795, provided that:
 
 “(1) Not later than March 31, 2004, the Secretary of Transportation, acting through the Maritime Administration, and the Administrator of the Environmental Protection Agency shall jointly develop guidance recommending environmental best management practices to be used in the preparation of vessels for use as artificial reefs.
 

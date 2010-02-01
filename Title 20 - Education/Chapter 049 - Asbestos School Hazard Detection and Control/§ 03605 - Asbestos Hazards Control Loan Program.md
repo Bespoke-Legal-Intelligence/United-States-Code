@@ -22,7 +22,7 @@ Loans under this section shall be made pursuant to loan agreements which shall p
 
 &emsp;(1) The loan shall not bear any interest except as otherwise provided under paragraph (5).
 
-&emsp;(2) The loan shall have a maturity period of not more than 20 years (as determined by the Secretary) and shall be repayable during such period at such times and in such amounts as the Secretary may specify in the loan agreement.
+&emsp;(2) The loan shall have a maturity period of not more than 20 years (as determined by the Secretary) and shall be repayable during suchperiod at such times and in such amounts as the Secretary may specify in the loan agreement.
 
 &emsp;(3) Repayment of the loan shall be made to the Secretary of the Treasury for deposit in the general fund of the Treasury.
 

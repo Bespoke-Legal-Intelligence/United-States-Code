@@ -1,7 +1,5 @@
 Part C—Business Workforce Partnerships for Job Skill Training in High-Growth Occupations or Industries
 
-<i><sup>1</sup></i><i> So in original. Probably should be “regulations”.</i>
-
 
 ---
 

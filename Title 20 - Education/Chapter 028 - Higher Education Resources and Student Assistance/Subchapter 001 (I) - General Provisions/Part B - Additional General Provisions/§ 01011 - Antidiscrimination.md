@@ -6,9 +6,9 @@ Institutions of higher education receiving Federal financial assistance may not 
 
 #### (b) Limitations on statutory construction
 
-Nothing in this chapter shall be construed to limit the rights or responsibilities of any individual under the Americans With Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\], the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], or any other law.
+Nothing in this chapter shall be construed to limit the rights or responsibilities of any individual under the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\], the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], or any other law.
 
-(Pub. L. 89–329, title I, §111, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1590.)
+(Pub. L. 89–329, title I, §111, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1590; amended Pub. L. 111–39, title I, §101(b)(2), July 1, 2009, 123 Stat. 1935.)
 
 #### References in Text
 
@@ -29,4 +29,12 @@ Another prior section 1011, Pub. L. 89–329, title I, §111, as added Pub. L. 9
 Another prior section 1011, Pub. L. 89–329, title I, §111, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1377, stated Congressional findings with respect to education outreach programs, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 Another prior section 1011, Pub. L. 89–329, title I, §114, formerly §111, Nov. 8, 1965, 79 Stat. 1224, renumbered §112 and amended Pub. L. 92–318, title I, §§102(a)(1), 131(d)(2)(A), June 23, 1972, 86 Stat. 236, 260, renumbered §113, Pub. L. 93–29, title VIII, §803, May 3, 1973, 87 Stat. 59, renumbered §114, Pub. L. 94–482, title I, §101(e), Oct. 12, 1976, 90 Stat. 2085, prohibited the giving of grants for programs relating to sectarian instruction or worship, prior to the general amendment of this subchapter by Pub. L. 96–374.
+
+#### Amendments
+
+2009—Subsec. (b). Pub. L. 111–39 substituted “with” for “With”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

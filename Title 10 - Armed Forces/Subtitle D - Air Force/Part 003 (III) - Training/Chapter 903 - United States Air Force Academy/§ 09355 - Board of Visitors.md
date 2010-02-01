@@ -94,7 +94,7 @@ In subsections (a) and (b), the word “designated” is substituted for the wor
 
 Subsection (b) is substituted for 10:1056(e) (less 1st sentence).
 
-In subsection (c), the words “during the term for which such member was appointed” and “Such successor shall be appointed \* \* \* who died or resigned” are omitted as surplusage.
+In subsection (c), the words “during the term for which such member was appointed” and “Such successor shall be appointed who died or resigned” are omitted as surplusage.
 
 In subsection (g), the words “as it may deem necessary or advisable to effectuate the duties imposed upon it by the provisions of sections 1055–1060 of this title” are omitted as surplusage.
 

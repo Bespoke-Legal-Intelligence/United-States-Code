@@ -48,7 +48,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 &emsp;&emsp;(A) improve the ability to inventory emissions of volatile organic compounds and nitrogen oxides that contribute to urban air pollution, including anthropogenic and natural sources;
 
-&emsp;&emsp;(B) improve the understanding of the mechanism through which anthropogenicand biogenic volatile organic compounds react to form ozone and other oxidants; and
+&emsp;&emsp;(B) improve the understanding of the mechanism through which anthropogenic and biogenic volatile organic compounds react to form ozone and other oxidants; and
 
 &emsp;&emsp;(C) improve the ability to identify and evaluate region-specific prevention and control options for ozone pollution.
 
@@ -64,7 +64,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 &emsp;(C) shall consult with other Federal agencies to ensure that similar research being conducted in other agencies is coordinated to avoid duplication.
 
-(2) In conducting the research program under this subsection, the Administrator shall develop methods and techniques necessary to identify and assess the risks to human health from both routine and accidental exposures to individual air pollutants and combinations thereof. Such research program shall include the following elements:
+(2) In conducting the research program under this subsection, the Administrator shall develop methods and techniques necessary to identify and assess the risks to human health from bothroutine and accidental exposures to individual air pollutants and combinations thereof. Such research program shall include the following elements:
 
 &emsp;(A) The creation of an Interagency Task Force to coordinate such program. The Task Force shall include representatives of the National Institute for Environmental Health Sciences, the Environmental Protection Agency, the Agency for Toxic Substances and Disease Registry, the National Toxicology Program, the National Institute of Standards and Technology, the National Science Foundation, the Surgeon General, and the Department of Energy. This Interagency Task Force shall be chaired by a representative of the Environmental Protection Agency and shall convene its first meeting within 60 days after November 15, 1990.
 

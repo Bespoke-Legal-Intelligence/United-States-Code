@@ -16,7 +16,7 @@
 
 &emsp;(A) the period which the member would have been permitted to remain in class but for the decrease in maximum time in class, or
 
-&emsp;(B) such minimum period as the Secretary determines is necessary to provide members of the Service who are in the same category and salary class as that member a reasonable opportunity to be promoted into the next higher class or combination of classes, as the case may be.
+&emsp;(B) such minimum period as the Secretary determines is necessary to provide members ofthe Service who are in the same category and salary class as that member a reasonable opportunity to be promoted into the next higher class or combination of classes, as the case may be.
 
 #### (b) Limited career extension
 

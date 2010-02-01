@@ -72,7 +72,7 @@ Penalties and Remedies.—
 
 &emsp;(1)
 
-Misdemeanor.—A creditor who knowingly violates this section shall be fined as provided in title 18, or imprisoned for not more than one year, or both.
+Misdemeanor.—A creditor who knowingly violates this section shall be fined asprovided in title 18, or imprisoned for not more than one year, or both.
 
 &emsp;(2)
 
@@ -174,7 +174,7 @@ Consumer credit.—The term “consumer credit” has the meaning provided for s
 
 The Truth in Lending Act, referred to in subsec. (c)(1)(B), (2), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
-The Servicemembers Civil Relief Act, referred to in subsecs. (e)(2) and (g), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
+The Servicemembers Civil Relief Act, referred to in subsecs. (e)(2) and (g), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
 
 #### Effective Date
 

@@ -16,23 +16,21 @@ To the extent the Secretary elects to carry out the program, the Secretary shall
 
 &emsp;(4) economic analyses and market feasibility studies to identify new and expanded opportunities for producers on the operations that provide tools and strategies to meet consumer demand in domestic and international markets, such as cooperative marketing and value-added strategies for milk, meat, and poultry production and processing; and
 
-&emsp;(5) technology assessment that compares the technological resources of large specialized producers with the technological needs of producers on the operations to identify and transfer existing technology across all sizes and scales and to identify the specific research and education needs of the producers.
+&emsp;(5) technology assessment that compares the technological resources of large specializedproducers with the technological needs of producers on the operations to identify and transfer existing technology across all sizes and scales and to identify the specific research and education needs of the producers.
 
 #### (c) Administration
 
-The Secretary may use the funds, facilities, and technical expertise of the Agricultural Research Service and the Cooperative State Research, Education, and Extension Service and other funds available to the Secretary (other than funds of the Commodity Credit Corporation) to carry out this section.
+The Secretary may use the funds, facilities, and technical expertise of the Agricultural Research Service and the National Institute of Food and Agriculture and other funds available to the Secretary (other than funds of the Commodity Credit Corporation) to carry out this section.
 
 (Pub. L. 105–185, title IV, §407, June 23, 1998, 112 Stat. 573; Pub. L. 107–171, title VII, §7207(c), May 13, 2002, 116 Stat. 440; Pub. L. 110–234, title VII, §7511(c)(31), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, §4(a), title VII, §7511(c)(31), June 18, 2008, 122 Stat. 1664, 2032.)
-
-#### Amendment of Subsection (c)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2032, provided that, effective Oct. 1, 2009, subsection (c) of this section is amended by substituting “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service”.</i>
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (c). Pub. L. 110–246, §7511(c)(31), substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.
 
 2002—Subsec. (b)(3). Pub. L. 107–171 inserted “(including improved use of energy inputs)” after “poultry systems that increase efficiencies”.
 

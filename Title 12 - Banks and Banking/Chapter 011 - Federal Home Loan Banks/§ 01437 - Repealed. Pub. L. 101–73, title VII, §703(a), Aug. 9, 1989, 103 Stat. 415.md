@@ -12,7 +12,7 @@ Pub. L. 101–73, title IV, §§401–406, Aug. 9, 1989, 103 Stat. 354–363, as
 
 In general.—
 
-&emsp;“(1) FSLIC.—Effective on the date of the enactment of this Act \[Aug. 9, 1989\], the Federal Savings and Loan Insurance Corporation established under section 402 of the National Housing Act \[former 12 U.S.C. 1725\] is abolished.
+&emsp;“(1) FSLIC.—Effective on the date of the enactment of this Act \[Aug. 9, 1989\], the Federal Savings andLoan Insurance Corporation established under section 402 of the National Housing Act \[former 12 U.S.C. 1725\] is abolished.
 
 &emsp;“(2) FHLBB.—Effective at the end of the 60-day period beginning on the date of the enactment of this Act, the Federal Home Loan Bank Board and the position of Chairman of the Federal Home Loan Bank Board are abolished.
 
@@ -90,7 +90,7 @@ Continuation of Services.—
 
 &emsp;“(1)
 
-In general.—The Director of the Office of Thrift Supervision, the Chairperson of the OversightBoard of the Resolution Trust Corporation, the Chairperson of the Federal Deposit Insurance Corporation, and the Chairperson of the Federal Housing Finance Board may use the services of employees and other personnel and the property of the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation, on a reimbursable basis, to perform functions which have been transferred to such agencies for such time as is reasonable to facilitate the orderly transfer of functions transferred pursuant to any other provision of this Act \[see Tables for classification\] or any amendment made by this Act to any other provision of law.
+In general.—The Director of the Office of Thrift Supervision, the Chairperson of the Oversight Board of the Resolution Trust Corporation, the Chairperson of the Federal Deposit Insurance Corporation, and the Chairperson of the Federal Housing Finance Board may use the services of employees and other personnel and the property of the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation, on a reimbursable basis, to perform functions which have been transferred to such agencies for such time as is reasonable to facilitate the orderly transfer of functions transferred pursuant to any other provision of this Act \[see Tables for classification\] or any amendment made by this Act to any other provision of law.
 
 &emsp;“(2)
 
@@ -318,7 +318,7 @@ FSLIC Employees Engaged in Conservatorship or Receivership Functions.—Individu
 
 &emsp;“(6) Any employee employed by the Office of Thrift Supervision as a result of the transfer may retain membership in any employee benefit program of the Federal Home Loan Bank Board, including insurance, which such employee has on the date of enactment of this Act, if such employee does not elect to give up such membership and the benefit or program is continued by the Director of the Office of Thrift Supervision. If any employee elects to give up membership in a health insurance program or the health insurance program is not continued by the Director of the Office of Thrift Supervision, such employee shall be permitted to select an alternate Federal health insurance program within 30 days of such election or discontinuance, without regard to any other regularly scheduled open season.
 
-&emsp;“(7) A transferring employee in the Senior Executive Service shall be placed in a comparable positionat the agency or entity to which such employee is transferred.
+&emsp;“(7) A transferring employee in the Senior Executive Service shall be placed in a comparable position at the agency or entity to which such employee is transferred.
 
 &emsp;“(8) Transferring employees shall receive notice of their position assignments not later than 120 days after the effective date of their transfer.
 
@@ -468,7 +468,7 @@ Effective Date.—The guidelines required to be promulgated under subsection (a)
 
 #### Guidelines for Asset Disposition
 
-Pub. L. 100–86, title IV, §411, Aug. 10, 1987, 101 Stat. 620, which directed Federal Home Loan Bank Board to submit, not later than 6 months after Aug. 10, 1987, to congressional committees a report containing appropriate new guidelines to prevent dumping of assets over which it had direct or indirect control and which the Board was to promulgate at end of such period, ceased to be effective on date that notice of completion of all net new borrowing by Financing Corporation is published in Federal Register (Mar. 30, 1992). See section416 of Pub. L. 100–86, set out as a Sunset and Savings Provision note under section 1441 of this title.
+Pub. L. 100–86, title IV, §411, Aug. 10, 1987, 101 Stat. 620, which directed Federal Home Loan Bank Board to submit, not later than 6 months after Aug. 10, 1987, to congressional committees a report containing appropriate new guidelines to prevent dumping of assets over which it had direct or indirect control and which the Board was to promulgate at end of such period, ceased to be effective on date that notice of completion of all net new borrowing by Financing Corporation is published in Federal Register (Mar. 30, 1992). See section 416 of Pub. L. 100–86, set out as a Sunset and Savings Provision note under section 1441 of this title.
 
 #### Expansion of Use of Underutilized Minority Thrift Institutions
 

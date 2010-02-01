@@ -1,6 +1,6 @@
 ### §2031. General treatment
 
-(a) In providing care and services under section 1710 of this title to veterans suffering fromserious mental illness, including veterans who are homeless, the Secretary may provide (directly or in conjunction with a governmental or other entity)—
+(a) In providing care and services under section 1710 of this title to veterans suffering from serious mental illness, including veterans who are homeless, the Secretary may provide (directly or in conjunction with a governmental or other entity)—
 
 &emsp;(1) outreach services;
 

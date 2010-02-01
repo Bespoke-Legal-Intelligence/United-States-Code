@@ -46,7 +46,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;As a condition of receiving a grant under this subsection, an eligible organization shall agree to obtain, after the application of the eligible organization has been approved and notice of award has been issued, contributions from non-Federal sources that are equal to—
+&emsp;&emsp;As a condition of receiving a grant under this subsection, an eligible organization shall agree to obtain, after the applicationof the eligible organization has been approved and notice of award has been issued, contributions from non-Federal sources that are equal to—
 
 &emsp;&emsp;&emsp;(i) during each of the first, second, and third years of a project, 30 percent of the amount of the grant; and
 

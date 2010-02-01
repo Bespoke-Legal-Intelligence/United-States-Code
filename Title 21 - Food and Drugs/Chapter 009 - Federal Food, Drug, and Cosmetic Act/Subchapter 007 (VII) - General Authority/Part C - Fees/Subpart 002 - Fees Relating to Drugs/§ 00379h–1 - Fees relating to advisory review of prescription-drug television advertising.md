@@ -22,7 +22,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The fee required by subparagraph (A) (referred to in this section as “an advisory review fee”) shall be due not later than October 1 of the fiscal year in which the DTC advertisement involved is intended to be submitted for advisory review, subject to subparagraph (F)(i). Notwithstanding thepreceding sentence, the advisory review fee for any DTC advertisement that is intended to be submitted for advisory review during fiscal year 2008 shall be due not later than 120 days after September 27, 2007, or an earlier date as specified by the Secretary.
+&emsp;&emsp;&emsp;The fee required by subparagraph (A) (referred to in this section as “an advisory review fee”) shall be due not later than October 1 of the fiscal year in which the DTC advertisement involved is intended to be submitted for advisory review, subject to subparagraph (F)(i). Notwithstanding the preceding sentence, the advisory review fee for any DTC advertisement that is intended to be submitted for advisory review during fiscal year 2008 shall be due not later than 120 days after September 27, 2007, or an earlier date as specified by the Secretary.
 
 #### (ii) Effect of submission
 
@@ -76,7 +76,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (C) Late notice of submission
 
-&emsp;&emsp;If, in the first fiscal year of a person's participation in the program under this section, that person submits any DTC advertisements for advisory review that are in excess of the number identified by that person inresponse to the Federal Register notice described in subsection (a)(1)(C), that person shall pay an operating reserve fee for each of those advisory reviews equal to the advisory review fee for each submission established under paragraph (1)(E)(ii). Fees required by this subparagraph shall be in addition to any fees required by subparagraph (A). Fees under this subparagraph shall be due 20 days before any DTC advertisement is submitted by such person to the Secretary for advisory review.
+&emsp;&emsp;If, in the first fiscal year of a person's participation in the program under this section, that person submits any DTC advertisements for advisory review that are in excess of the number identified by that person in response to the Federal Register notice described in subsection (a)(1)(C), that person shall pay an operating reserve fee for each of those advisory reviews equal to the advisory review fee for each submission established under paragraph (1)(E)(ii). Fees required by this subparagraph shall be in addition to any fees required by subparagraph (A). Feesunder this subparagraph shall be due 20 days before any DTC advertisement is submitted by such person to the Secretary for advisory review.
 
 #### (D) Late payment
 
@@ -198,7 +198,7 @@ Notwithstanding any other requirement, a submission for advisory review of a DTC
 
 #### (3) Authorization of appropriations
 
-&emsp;For each of the fiscal years 2008 through 2012, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount determined under subsection (b) for the fiscal year, as adjusted pursuant to subsection (c) and paragraph (4) of this subsection, plus amounts collected for the reserve fund under subsection (d).
+&emsp;For each of the fiscal years 2008 through 2012, there is authorized to be appropriated for fees under this section an amount equal to thetotal revenue amount determined under subsection (b) for the fiscal year, as adjusted pursuant to subsection (c) and paragraph (4) of this subsection, plus amounts collected for the reserve fund under subsection (d).
 
 #### (4) Offset
 

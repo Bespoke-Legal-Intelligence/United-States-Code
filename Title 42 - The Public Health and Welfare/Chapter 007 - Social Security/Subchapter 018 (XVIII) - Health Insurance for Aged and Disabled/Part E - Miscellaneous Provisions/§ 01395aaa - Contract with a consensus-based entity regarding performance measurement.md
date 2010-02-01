@@ -136,5 +136,5 @@ Section 12(d) of the National Technology Transfer and Advancement Act of 1995, r
 
 #### Prior Provisions
 
-A prior section 1395aaa, act Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Aug. 18, 1987, Pub. L. 100–93, §10, 101 Stat. 696, which related to limitation of liability of beneficiaries with respect to services furnished by excluded individuals and entities, was amended and transferred to section 1862(e)(2) of act Aug. 14, 1935, by Pub. L. 100–360, title IV, §411(i)(4)(D)(ii), July 1, 1988, 102 Stat. 790, as amended by Pub. L. 100–485, title VI,§608(d)(24)(C)(ii), Oct. 13, 1988, 102 Stat. 2421, and is classified to section 1395y(e)(2) of this title.
+A prior section 1395aaa, act Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Aug. 18, 1987, Pub. L. 100–93, §10, 101 Stat. 696, which related to limitation of liability of beneficiaries with respect to services furnished by excluded individuals and entities, was amended and transferred to section 1862(e)(2) of act Aug. 14, 1935, by Pub. L. 100–360, title IV, §411(i)(4)(D)(ii), July 1, 1988, 102 Stat. 790, as amended by Pub. L. 100–485, title VI, §608(d)(24)(C)(ii), Oct. 13, 1988, 102 Stat. 2421, and is classified to section 1395y(e)(2) of this title.
 

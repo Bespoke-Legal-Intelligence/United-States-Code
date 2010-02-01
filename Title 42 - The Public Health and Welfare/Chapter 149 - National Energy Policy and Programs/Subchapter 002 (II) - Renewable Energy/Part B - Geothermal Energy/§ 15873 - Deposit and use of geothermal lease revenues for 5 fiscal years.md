@@ -2,7 +2,7 @@
 
 #### (a) Deposit of geothermal resources leases
 
-Notwithstanding any other provision of law, amounts received by the United States in the first 5 fiscal years beginning after August 8, 2005, as rentals, royalties, and other payments required under leases under the Geothermal Steam Act of 1970 \[30 U.S.C. 1001 et seq.\], excluding funds required to be paid to State and county governments, shall be deposited into a separate account in the Treasury.
+Notwithstanding any other provision of law, amounts received by the United States in the first 5 fiscal years beginning after August 8, 2005, as rentals, royalties, and other payments required under leases under the GeothermalSteam Act of 1970 \[30 U.S.C. 1001 et seq.\], excluding funds required to be paid to State and county governments, shall be deposited into a separate account in the Treasury.
 
 #### (b) Use of deposits
 

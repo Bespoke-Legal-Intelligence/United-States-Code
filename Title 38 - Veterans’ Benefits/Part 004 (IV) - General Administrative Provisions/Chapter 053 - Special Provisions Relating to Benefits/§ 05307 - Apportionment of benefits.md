@@ -24,7 +24,7 @@ Subsec. (a)(2). Pub. L. 98–160, §703(2)(A)–(C), substituted “the veteran'
 
 Subsec. (b). Pub. L. 98–160, §703(2)(D), substituted “surviving spouse” for “widow” in two places.
 
-Subsec. (c). Pub. L. 98–160, §703(2)(A)–(C), (E), substituted “the veteran's spouse” for “his wife”, “the veteran's children” for “his children”, “the custody ofthe veteran” for “his custody”, and “payable to the veteran” for “payable to him”.
+Subsec. (c). Pub. L. 98–160, §703(2)(A)–(C), (E), substituted “the veteran's spouse” for “his wife”, “the veteran's children” for “his children”, “the custody of the veteran” for “his custody”, and “payable to the veteran” for “payable to him”.
 
 1972—Subsec. (c). Pub. L. 92–540 inserted provisions relating to that portion of the educational assistance allowance payable on account of dependents under chapter 34 of this title.
 

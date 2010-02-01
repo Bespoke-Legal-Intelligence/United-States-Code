@@ -2,7 +2,7 @@
 
 #### (a) Rights and remedies of Corporation; State qualifications or similar statutes
 
-All rights and remedies of the Corporation, including without limitation on the generality of the foregoing any rights and remedies of the Corporation on, under, or with respect to any mortgage or any obligation secured thereby, shall be immune from impairment, limitation, or restriction by or under (1) any law (except laws enacted by the Congress expressly in limitation of this sentence) which becomes effective after the acquisition by the Corporation of the subject or property on, under, or with respect to which such right or remedy arises or exists or would so arise or exist in the absence of such law, or (2) any administrative or other action which becomes effective after such acquisition. The Corporation is authorized to conduct its business without regard to any qualification or similar statute in any State.
+All rights and remedies of the Corporation, including without limitation on the generality of the foregoing any rights and remedies of theCorporation on, under, or with respect to any mortgage or any obligation secured thereby, shall be immune from impairment, limitation, or restriction by or under (1) any law (except laws enacted by the Congress expressly in limitation of this sentence) which becomes effective after the acquisition by the Corporation of the subject or property on, under, or with respect to which such right or remedy arises or exists or would so arise or exist in the absence of such law, or (2) any administrative or other action which becomes effective after such acquisition. The Corporation is authorized to conduct its business without regard to any qualification or similar statute in any State.
 
 #### (b) Government audits; procedure; access to records, etc.; reimbursement of costs
 
@@ -116,7 +116,7 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 #### References in Text
 
-The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, referred to in subsec. (f)(1), is title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941. Subpart B of part 2 of subtitle A of the Act is classified generally to subpart 2 (§4561 et seq.) of part B of subchapter I of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note under section 4501 of this title and Tables.
+The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, referred to in subsec. (f)(1), is title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941. Subpart B of part 2 of subtitle A of the Act is classified generally to subpart 2 (§4561 et seq.) of part B of subchapter I of chapter 46 of this title. For completeclassification of this Act to the Code, see Short Title note under section 4501 of this title and Tables.
 
 #### Amendments
 

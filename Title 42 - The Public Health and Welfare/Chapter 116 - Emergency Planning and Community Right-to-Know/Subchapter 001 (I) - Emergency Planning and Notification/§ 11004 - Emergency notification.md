@@ -8,7 +8,7 @@
 
 #### (2) Other 11002(a) substance
 
-&emsp;If a release of an extremely hazardous substance referred to in section 11002(a) of this title occurs from a facility at which a hazardous chemical is produced, used, or stored, and such release is not subject to the notification requirements under section 103(a) of CERCLA \[42 U.S.C. 9603(a)\], the owner or operator of the facility shall immediately provide notice as described in subsection (b) of this section, but only if the release—
+&emsp;If a release of an extremely hazardous substance referred to in section 11002(a) of this title occurs from a facility at which a hazardous chemical is produced, used, or stored, and such release is not subject to the notification requirements under section 103(a) of CERCLA \[42 U.S.C. 9603(a)\], the owner or operator of the facility shall immediately provide notice asdescribed in subsection (b) of this section, but only if the release—
 
 &emsp;&emsp;(A) is not a federally permitted release as defined in section 101(10) of CERCLA \[42 U.S.C. 9601(10)\],
 
@@ -22,7 +22,7 @@
 
 &emsp;If a release of a substance which is not on the list referred to in section 11002(a) of this title occurs at a facility at which a hazardous chemical is produced, used, or stored, and such release requires notification under section 103(a) of CERCLA \[42 U.S.C. 9603(a)\], the owner or operator shall provide notice as follows:
 
-&emsp;&emsp;(A) If the substance is one for which a reportable quantity has been established undersection 102(a) of CERCLA \[42 U.S.C. 9602(a)\], the owner or operator shall provide notice as described in subsection (b) of this section.
+&emsp;&emsp;(A) If the substance is one for which a reportable quantity has been established under section 102(a) of CERCLA \[42 U.S.C. 9602(a)\], the owner or operator shall provide notice as described in subsection (b) of this section.
 
 &emsp;&emsp;(B) If the substance is one for which a reportable quantity has not been established under section 102(a) of CERCLA \[42 U.S.C. 9602(a)\]—
 

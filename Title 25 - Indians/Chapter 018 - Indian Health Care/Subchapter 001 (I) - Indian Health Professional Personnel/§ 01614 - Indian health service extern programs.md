@@ -12,7 +12,7 @@ Any individual enrolled in a course of study in the health professions may be em
 
 Any employment pursuant to this section shall be made without regard to any competitive personnel system or agency personnel limitation and to a position which will enable the individual so employed to receive practical experience in the health profession in which he or she is engaged in study. Any individual so employed shall receive payment for his or her services comparable to the salary he or she would receive if he or she were employed in the competitive system. Any individual so employed shall not be counted against any employment ceiling affecting the Service or the Department of Health and Human Services.
 
-(Pub. L. 94–437, title I, §105, Sept. 30, 1976, 90 Stat. 1404; Pub. L. 95–83, title III, §307(n)(2), Aug. 1, 1977, 91 Stat. 393; Pub. L. 96–537, §3(c), Dec. 17, 1980, 94 Stat. 3174; Pub. L. 100–713, title I, §103, Nov. 23, 1988, 102 Stat. 4786; Pub. L. 102–573, title I, §§102(e), 117(b)(2), title IX, §902(2)(B), Oct. 29, 1992, 106 Stat. 4532, 4544, 4591.)
+(Pub. L. 94–437, title I, §105, Sept. 30, 1976, 90 Stat. 1404; Pub. L. 95–83, title III, §307(n)(2), Aug.1, 1977, 91 Stat. 393; Pub. L. 96–537, §3(c), Dec. 17, 1980, 94 Stat. 3174; Pub. L. 100–713, title I, §103, Nov. 23, 1988, 102 Stat. 4786; Pub. L. 102–573, title I, §§102(e), 117(b)(2), title IX, §902(2)(B), Oct. 29, 1992, 106 Stat. 4532, 4544, 4591.)
 
 #### Amendments
 

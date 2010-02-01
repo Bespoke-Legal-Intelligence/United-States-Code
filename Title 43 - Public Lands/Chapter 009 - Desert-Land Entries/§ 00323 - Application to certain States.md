@@ -1,6 +1,6 @@
 ### §323. Application to certain States
 
-Sections 321 to 323, 325, and 327 to 329 of this title shall only apply to and take effect in theStates of California, Colorado, Oregon, Nevada, Washington, Idaho, Montana, Utah, Wyoming, Arizona, New Mexico, and North and South Dakota.
+Sections 321 to 323, 325, and 327 to 329 of this title shall only apply to and take effect in the States of California, Colorado, Oregon, Nevada, Washington, Idaho, Montana, Utah, Wyoming, Arizona, New Mexico, and North and South Dakota.
 
 (Mar. 3, 1877, ch. 107, §§3, 8, 19 Stat. 377; Mar. 3, 1891, ch. 561, §2, 26 Stat. 1097; Jan. 6, 1921, ch. 12, 41 Stat. 1086.)
 

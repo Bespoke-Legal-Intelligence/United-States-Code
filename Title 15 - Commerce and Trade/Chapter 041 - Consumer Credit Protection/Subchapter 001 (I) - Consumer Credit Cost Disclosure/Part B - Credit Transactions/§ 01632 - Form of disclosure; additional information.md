@@ -40,9 +40,33 @@ Any creditor or lessor may supply additional information or explanation with any
 
 &emsp;&emsp;Either the heading or the statement under the heading which relates to the time period referred to in section 1637(c)(1)(A)(iii) of this title shall contain the term “grace period”.
 
-(Pub. L. 90–321, title I, §122, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, §307(e), (f), Oct. 28, 1974, 88 Stat. 1516, 1517; Pub. L. 96–221, title VI, §611, Mar. 31, 1980, 94 Stat. 175; Pub. L. 100–583, §2(b), Nov. 3, 1988, 102 Stat. 2966; Pub. L. 100–709, §2(d), Nov. 23, 1988, 102 Stat. 4731.)
+#### (d) Additional electronic disclosures
+
+#### (1) Posting agreements
+
+&emsp;Each creditor shall establish and maintain an Internet site on which the creditor shall post the written agreement between the creditor and the consumer for each credit card account under an open-end consumer credit plan.
+
+#### (2) Creditor to provide contracts to the Board
+
+&emsp;Each creditor shall provide to the Board, in electronic format, the consumer credit card agreements that it publishes on its Internet site.
+
+#### (3) Record repository
+
+&emsp;The Board shall establish and maintain on its publicly available Internet site a central repository of the consumer credit card agreements received from creditors pursuant to this subsection, and such agreements shall be easily accessible and retrievable by the public.
+
+#### (4) Exception
+
+&emsp;This subsection shall not apply to individually negotiated changes to contractual terms, such as individually modified workouts or renegotiations of amounts owed by a consumer under an open end consumer credit plan.
+
+#### (5) Regulations
+
+&emsp;The Board, in consultation with the other Federal banking agencies (as that term is defined in section 1681a of this title) and the Federal Trade Commission, may promulgate regulations to implement this subsection, including specifying the format for posting the agreements on the Internet sites of creditors and establishing exceptions to paragraphs (1) and (2), in any case in which the administrative burden outweighs the benefit of increased transparency, such as where a credit card plan has a de minimis number of consumer account holders.
+
+(Pub. L. 90–321, title I, §122, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, §307(e), (f), Oct. 28, 1974, 88 Stat. 1516, 1517; Pub. L. 96–221, title VI, §611, Mar. 31, 1980, 94 Stat. 175; Pub. L. 100–583, §2(b), Nov. 3, 1988, 102 Stat. 2966; Pub. L. 100–709, §2(d), Nov. 23, 1988, 102 Stat. 4731; Pub. L. 111–24, title II, §204, May 22, 2009, 123 Stat. 1746.)
 
 #### Amendments
+
+2009—Subsec. (d). Pub. L. 111–24 added subsec. (d).
 
 1988—Subsec. (a). Pub. L. 100–583, §2(b)(1), substituted “Except as provided in subsection (c) of this section, regulations” for “Regulations”.
 
@@ -55,6 +79,10 @@ Subsec. (c). Pub. L. 100–583, §2(b)(2), added subsec. (c).
 Subsec. (b). Pub. L. 96–221 substituted provisions setting forth disclosure requirements for additional information by creditors or lessors, for provisions setting forth disclosure requirements for additional information by creditors.
 
 1974—Subsecs. (a), (b). Pub. L. 93–495 inserted references to part D of this subchapter.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–24 effective 9 months after May 22, 2009, except as otherwise specifically provided, see section 3 of Pub. L. 111–24, set out as a note under section 1602 of this title.
 
 #### Effective Date of 1988 Amendment
 

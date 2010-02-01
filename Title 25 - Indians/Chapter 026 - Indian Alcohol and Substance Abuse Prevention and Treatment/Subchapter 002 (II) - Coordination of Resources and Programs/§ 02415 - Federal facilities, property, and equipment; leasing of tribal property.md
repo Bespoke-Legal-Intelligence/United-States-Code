@@ -2,7 +2,7 @@
 
 #### (a) Facility availability
 
-In the furtherance of the purposes and goals of this chapter, the Secretary of the Interior and the Secretary of Health and Human Services shall make available for community use, to the extent permitted by law and as may be provided in a Tribal Action Plan, local Federal facilities, property, and equipment, including school facilities. Such facility availability shall include school facilities under the Secretary of the Interior's jurisdiction: <i>Provided</i>, That the use of any school facilities shall be conditioned upon approval of the local school board with jurisdiction over such school.
+In the furtherance of the purposes and goals of this chapter, the Secretary of the Interior and the Secretary of Health and Human Services shall make available for community use, to the extent permitted by law and as may be provided in a Tribal Action Plan, local Federal facilities,property, and equipment, including school facilities. Such facility availability shall include school facilities under the Secretary of the Interior's jurisdiction: <i>Provided</i>, That the use of any school facilities shall be conditioned upon approval of the local school board with jurisdiction over such school.
 
 #### (b) Costs
 

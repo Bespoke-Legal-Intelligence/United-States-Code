@@ -22,13 +22,25 @@
 
 (d) Amounts computed under this section, if not a multiple of $1, shall be rounded down to the next lower multiple of $1.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 3004; amended Pub. L. 107–314, div. A, title VI, §632(a), (b), Dec. 2, 2002, 116 Stat. 2572; Pub. L. 109–364, div. A, title VI, §642(b), Oct. 17, 2006, 120 Stat. 2259.)
+(e)(1) If a member of the Retired Reserve is recalled to an active status in the Selected Reserve of the Ready Reserve under section 10145(d) of this title and completes not less than two years of service in such active status, the member is entitled to the recomputation under this section of the retired pay of the member.
+
+(2) The Secretary concerned may reduce the two-year service requirement specified in paragraph (1) in the case of a member who—
+
+&emsp;(A) is recalled to serve in a position of adjutant general required under section 314 of title 32 or in a position of assistant adjutant general subordinate to such a position of adjutant general;
+
+&emsp;(B) completes at least one year of service in such position; and
+
+&emsp;(C) fails to complete the minimum two years of service solely because the appointment of the member to such position is terminated or vacated as described in section 324(b) of title 32.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 3004; amended Pub. L. 107–314, div. A, title VI, §632(a), (b), Dec. 2, 2002, 116 Stat. 2572; Pub. L. 109–364, div. A, title VI, §642(b), Oct. 17, 2006, 120 Stat. 2259; Pub. L. 111–84, div. A, title VI, §642(a), Oct. 28, 2009, 123 Stat. 2365.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in formula 3 of the table in section 1401(a) of this title, prior to amendment by Pub. L. 103–337, §1662(j)(2).
 
 #### Amendments
+
+2009—Subsec. (e). Pub. L. 111–84 added subsec. (e).
 
 2006—Subsec. (c). Pub. L. 109–364 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the” for “The”, and added par. (2).
 

@@ -10,7 +10,7 @@ Except as provided in section 47153 of this title, the following terms apply to 
 
 &emsp;&emsp;(A) to conduct an aeronautical activity requiring the operation of aircraft; or
 
-&emsp;&emsp;(B) to engage in selling or supplying aircraft, aircraft accessories, equipment, or supplies (except gasoline and oil), or aircraft services necessary to operate aircraft (including maintaining and repairing aircraft, aircraft engines, propellers, and appliances).
+&emsp;&emsp;(B) to engage in selling or supplying aircraft, aircraft accessories, equipment, orsupplies (except gasoline and oil), or aircraft services necessary to operate aircraft (including maintaining and repairing aircraft, aircraft engines, propellers, and appliances).
 
 &emsp;(4) The State, political subdivision, or tax-supported organization accepting the interest shall clear and protect the aerial approaches to the airport by mitigating existing, and preventing future, airport hazards.
 

@@ -8,7 +8,7 @@ The Secretary shall conduct research activities authorized by this subpart throu
 
 Such research activities—
 
-&emsp;(1) shall have a practical application to teachers, counselors, paraprofessionals, school administrators, parents, and others involved in improving the education of limited English proficient children and their families;
+&emsp;(1) shall have a practical application to teachers, counselors, paraprofessionals, schooladministrators, parents, and others involved in improving the education of limited English proficient children and their families;
 
 &emsp;(2) may include research on effective instruction practices for multilingual classes, and on effective instruction strategies to be used by a teacher or other staff member who does not know the native language of a limited English proficient child in the teacher's or staff member's classroom;
 
@@ -66,7 +66,7 @@ Authorized Activities.—Research activities authorized to be assisted under thi
 
 &emsp;“(7) studies to determine and evaluate effective methods of instruction for bilingual programs, taking into account language and cultural differences among students;
 
-&emsp;“(8) studies to determine effective approaches to preservice and inservice training for teachers, takinginto account the language and cultural differences of their students;
+&emsp;“(8) studies to determine effective approaches to preservice and inservice training for teachers, taking into account the language and cultural differences of their students;
 
 &emsp;“(9) the effect of such title on the capacity of local educational agencies to operate bilingual programs following the termination of assistance under this \[such\] title; and
 

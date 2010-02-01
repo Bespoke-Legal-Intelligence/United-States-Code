@@ -78,7 +78,7 @@
 
 (1) Assistance under this section shall be provided only upon application, which application shall contain such information as the Secretary of Agriculture shall prescribe.
 
-(2) The Secretary of Agriculture may make any grant under this section in whole or in part to the local government or governments serving an area designated and approved under subsection (a) of this section, or to a council of local governments which includes one or morelocal governments serving such area (in lieu of making such grant solely to the State), if he has determined, after consultation with the Governor of the State, that to do so would be appropriate.
+(2) The Secretary of Agriculture may make any grant under this section in whole or in part to the local government or governments serving an area designated and approved under subsection (a) of this section, or to a council of local governments which includes one or more local governments serving such area (in lieu of making such grant solely to the State), if he has determined, after consultation with the Governor of the State, that to do so would be appropriate.
 
 (3) The Secretary of Agriculture shall prescribe, by rule, criteria for the allocation of assistance under this section. Such criteria shall give due weight to the magnitude of the employment increase involved, the financial resources of the designated area, and the ratio of the financial burden on the area to the resources available to such area.
 
@@ -112,7 +112,7 @@ Any person regularly engaged in any coal or uranium development activity within 
 
 #### (g) Administration
 
-The Secretary of Agriculture shall carry out his responsibilities under this section through the Farmers Home Administration and such other agencies within the Department of Agriculture as he may determine appropriate.
+The Secretary of Agriculture shall carry out his responsibilities under this section throughthe Farmers Home Administration and such other agencies within the Department of Agriculture as he may determine appropriate.
 
 #### (h) Appropriations authorization
 

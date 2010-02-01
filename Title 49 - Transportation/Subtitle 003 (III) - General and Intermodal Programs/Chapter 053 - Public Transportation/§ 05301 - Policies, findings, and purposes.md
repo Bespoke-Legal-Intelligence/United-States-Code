@@ -42,7 +42,7 @@ Elderly Individuals and Individuals With Disabilities.—It is the policy of the
 
 (e)
 
-Preserving the Environment.—It is the policy of the Government that special effort shall be made to preserve the natural beauty ofthe countryside, public park and recreation lands, wildlife and waterfowl refuges, and important historical and cultural assets when planning, designing, and carrying out a public transportation capital project with assistance from the Government.
+Preserving the Environment.—It is the policy of the Government that special effort shall be made to preserve the natural beauty of the countryside, public park and recreation lands, wildlife and waterfowl refuges, and important historical and cultural assets when planning, designing, and carrying out a public transportation capital project with assistance from the Government.
 
 (f)
 
@@ -56,7 +56,7 @@ General Purposes.—The purposes of this chapter are—
 
 &emsp;(4) to provide financial assistance to State and local governments and their authorities to help carry out national goals related to mobility for elderly individuals, individuals with disabilities, and economically disadvantaged individuals; and
 
-&emsp;(5) to establish a partnership that allows a community, with financial assistance from the Government, to satisfy its public transportation requirements.
+&emsp;(5) to establish a partnership that allows a community, with financial assistance from theGovernment, to satisfy its public transportation requirements.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 785; Pub. L. 109–59, title III, §§3002(b)(4), 3003, Aug. 10, 2005, 119 Stat. 1545.)
 
@@ -174,7 +174,7 @@ Terms of Agreement.—The agreement entered into in subsection (a) shall provide
 
 “(c)
 
-Report.—Not later than 24 months after the date of entry into the agreement under subsection (a), the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing the results of the study.
+Report.—Not later than 24 months after the date of entry into the agreement under subsection (a), the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, andUrban Affairs of the Senate a report containing the results of the study.
 
 “(d)
 

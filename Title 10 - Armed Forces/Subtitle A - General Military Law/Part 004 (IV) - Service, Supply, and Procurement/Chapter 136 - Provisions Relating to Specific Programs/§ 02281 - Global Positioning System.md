@@ -28,11 +28,11 @@ Federal Radionavigation Plan.—The Secretary of Defense and the Secretary of Tr
 
 (d)
 
-Biennial Report.—(1) Not later than 30 days after the end of each even-numbered fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the Global Positioning System. The report shall include a discussion of the following matters:
+Biennial Report.—(1) Not later than 30 days after the end of each even-numbered fiscal year, the Deputy Secretary of Defense and the Deputy Secretary of Transportation, in their capacity as co-chairs of the National Executive Committee for Space-Based Positioning, Navigation, and Timing, shall submit to the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and the Committees on Armed Services, Energy and Commerce, and Transportation and Infrastructure of the House of Representatives a report on the Global Positioning System. The report shall include a discussion of the following matters:
 
 &emsp;(A) The operational status of the system.
 
-&emsp;(B) The capability of the system to satisfy effectively (i) the military requirements for the system that are current as of the date of the report, and (ii) the performance requirements of the Federal Radionavigation Plan.
+&emsp;(B) The capability of the system to satisfy effectively (i) the military requirements for the system that are current as of the date of the report, and (ii) the validated performance requirements of the Federal Radionavigation Plan in accordance with Office of Management and Budget Circular A–109.
 
 &emsp;(C) The status of cooperative activities undertaken by the United States with the governments of other countries concerning the capability of the system or any augmentation of the system to satisfy civil, commercial, scientific, and military requirements, including a discussion of the status and results of activities undertaken under any regional international agreement.
 
@@ -44,7 +44,7 @@ Biennial Report.—(1) Not later than 30 days after the end of each even-numbere
 
 &emsp;(G) The effects of use of the system on national security, regional security, and the economic competitiveness of United States industry, including the Global Positioning System equipment and service industry and user industries.
 
-(2) In preparing the parts of each such report required under subparagraphs (C), (D), (E), (F), and (G) of paragraph (1), the Secretary of Defense shall consult with the Secretary of State, the Secretary of Commerce, and the Secretary of Transportation.
+(2) In preparing each report required under paragraph (1), the Deputy Secretary of Defense and the Deputy Secretary of Transportation, in their capacity as co-chairs of the National Executive Committee for Space-Based Positioning, Navigation, and Timing, shall consult with the Secretary of Defense, the Secretary of State, the Secretary of Transportation, and the Secretary of Homeland Security.
 
 (e)
 
@@ -60,7 +60,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term “GPS Standard Positioning Service” means the civil and commercial service provided by the basic Global Positioning System as defined in the 1996 Federal Radionavigation Plan (published jointly by the Secretary of Defense and the Secretary of Transportation in July 1997).
 
-(Added Pub. L. 105–85, div. A, title X, §1074(d)(1), Nov. 18, 1997, 111 Stat. 1909; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title IX, §914, Nov. 24, 2003, 117 Stat. 1567.)
+(Added Pub. L. 105–85, div. A, title X, §1074(d)(1), Nov. 18, 1997, 111 Stat. 1909; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title IX, §914, Nov. 24, 2003, 117 Stat. 1567; Pub. L. 111–84, div. A, title X, §1032, Oct. 28, 2009, 123 Stat. 2448.)
 
 #### References in Text
 
@@ -68,9 +68,15 @@ Section 507 of the International Maritime Satellite Telecommunications Act, refe
 
 #### Amendments
 
+2009—Subsec. (d)(1). Pub. L. 111–84, §1032(a)(1), in introductory provisions, substituted “the Deputy Secretary of Defense and the Deputy Secretary of Transportation, in their capacity as co-chairs of the National Executive Committee for Space-Based Positioning, Navigation, and Timing,” for “the Secretary of Defense” and “the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and the Committees on Armed Services, Energy and Commerce, and Transportation and Infrastructure of the House of Representatives” for “the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives”.
+
+Subsec. (d)(1)(B)(ii). Pub. L. 111–84, §1032(b), inserted “validated” before “performance requirements” and “in accordance with Office of Management and Budget Circular A–109” after “Plan”.
+
+Subsec. (d)(2). Pub. L. 111–84, §1032(a)(2), added par. (2) and struck out former par. (2), which read as follows: “In preparing the parts of each such report required under subparagraphs (C), (D), (E), (F), and (G) of paragraph (1), the Secretary of Defense shall consult with the Secretary of State, the Secretary of Commerce, and the Secretary of Transportation.”
+
 2003—Subsec. (d)(1)(C). Pub. L. 108–136, §914(a)(1), (2), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The most recent determination by the President regarding continued use of the selective availability feature of the system and the expected date of any change or elimination of the use of that feature.”
 
-Subsec. (d)(1)(D). Pub. L. 108–136, §914(a)(3), redesignated subpar. (E) as (D) and substituted “Progress and challenges in” for “Any progress made toward”. Former subpar. (D) redesignated (C).
+Subsec. (d)(1)(D). Pub. L. 108–136, §914(a)(3), redesignated subpar. (E) as (D) and substituted “Progress andchallenges in” for “Any progress made toward”. Former subpar. (D) redesignated (C).
 
 Subsec. (d)(1)(E). Pub. L. 108–136, §914(a)(4), added subpar. (E). Former subpar. (E) redesignated (D).
 
@@ -154,7 +160,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;&emsp;“(B) to promote broader acceptance and use of the Global Positioning System and the technological standards that facilitate expanded use of the system for civil purposes;
 
-&emsp;&emsp;“(C) to coordinate with other countries to ensure (i) efficient management of the electromagneticspectrum used by the Global Positioning System, and (ii) protection of that spectrum in order to prevent disruption of signals from the system and interference with that portion of the electromagnetic spectrum used by the system; and
+&emsp;&emsp;“(C) to coordinate with other countries to ensure (i) efficient management of the electromagnetic spectrum used by the Global Positioning System, and (ii) protection of that spectrum in order to prevent disruption of signals from the system and interference with that portion of the electromagnetic spectrum used by the system; and
 
 &emsp;&emsp;“(D) to encourage open access in all international markets to the Global Positioning System and supporting equipment, services, and techniques.
 
@@ -168,7 +174,7 @@ International Cooperation.—Congress urges the President to promote the securit
 
 &emsp;“(3) Undertaking efforts to eliminate any barriers to, and other restrictions of foreign governments on, peaceful uses of the Global Positioning System.
 
-&emsp;“(4) Requiring that any proposed international agreement involving nonmilitary use of the Global Positioning System or any augmentation to the system not be agreed to by the United States unless the proposed agreement has been reviewed by the Secretary of State, the Secretary of Defense, the Secretary of Transportation, and the Secretary of Commerce (acting as the Interagency Global Positioning System Executive Board established by Presidential Decision Directive NSTC–6, dated March 28, 1996).”
+&emsp;“(4) Requiring that any proposed international agreement involving nonmilitary use of the GlobalPositioning System or any augmentation to the system not be agreed to by the United States unless the proposed agreement has been reviewed by the Secretary of State, the Secretary of Defense, the Secretary of Transportation, and the Secretary of Commerce (acting as the Interagency Global Positioning System Executive Board established by Presidential Decision Directive NSTC–6, dated March 28, 1996).”
 
 #### Access to Global Positioning System
 

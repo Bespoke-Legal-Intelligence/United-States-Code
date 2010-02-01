@@ -66,13 +66,13 @@ Purposes.—The purposes of this title are:
 
 &emsp;“(2) To protect Red Rock Canyon and to expand its boundaries as contemplated by the Bureau of Land Management, as depicted on the Red Rock Canyon Map.
 
-&emsp;“(3) To further fulfill the purposes of the Southern Nevada Public Lands \[Land\] Management Act of 1998 and the Red Rock Canyon National Conservation Area Establishment Act of 1990.
+&emsp;“(3) To further fulfill the purposes of the Southern Nevada Public Lands \[Land\] Management Act of 1998and the Red Rock Canyon National Conservation Area Establishment Act of 1990.
 
 #### “SEC. 104. RED ROCK CANYON LAND EXCHANGE.
 
 “(a)
 
-Acquisition Requirement.—If the Corporation offers to convey to the United States all right, title,and interest in and to the approximately 1,082 acres of non-Federal land owned by the Corporation and depicted on the Red Rock Canyon Map as ‘Offered Lands proposed addition to the Red Rock Canyon NCA’, the Secretary shall accept such offer on behalf of the United States, and not later than 90 days after the date of the offer, except as otherwise provided in this title, shall make the following conveyances:
+Acquisition Requirement.—If the Corporation offers to convey to the United States all right, title, and interest in and to the approximately 1,082 acres of non-Federal land owned by the Corporation and depicted on the Red Rock Canyon Map as ‘Offered Lands proposed addition to the Red Rock Canyon NCA’, the Secretary shall accept such offer on behalf of the United States, and not later than 90 days after the date of the offer, except as otherwise provided in this title, shall make the following conveyances:
 
 &emsp;“(1) To the Corporation, the approximately 998 acres of Federal lands depicted on the Red Rock Canyon Map as ‘Public land selected for exchange’.
 

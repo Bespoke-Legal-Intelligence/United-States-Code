@@ -1,6 +1,6 @@
 ### §561. Contractual right to terminate, liquidate, accelerate, or offset under a master netting agreement and across contracts; proceedings under chapter 15
 
-(a) Subject to subsection (b), the exercise of any contractual right, because of a condition of the kind specified in section 365(e)(1), to cause the termination, liquidation, or acceleration of or to offset or net termination values, payment amounts, or other transfer obligations arising under or in connection with one or more (or the termination, liquidation, or acceleration of one or more)—
+(a) Subject to subsection (b), the exercise of any contractual right, because of a condition of the kind specified in section 365(e)(1), to cause the termination, liquidation, or acceleration of or to offset or net termination values, paymentamounts, or other transfer obligations arising under or in connection with one or more (or the termination, liquidation, or acceleration of one or more)—
 
 &emsp;(1) securities contracts, as defined in section 741(7);
 

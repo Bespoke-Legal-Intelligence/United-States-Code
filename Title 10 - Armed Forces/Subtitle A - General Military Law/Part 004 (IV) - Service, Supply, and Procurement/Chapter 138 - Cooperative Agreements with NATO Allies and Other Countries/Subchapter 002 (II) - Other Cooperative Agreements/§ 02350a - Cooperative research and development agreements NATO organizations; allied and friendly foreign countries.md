@@ -72,7 +72,7 @@ Secretary To Encourage Similar Programs.—The Secretary of Defense shall encour
 
 Definitions.—In this section:
 
-&emsp;(1) The term “cooperative research and development project” means a project involving joint participation by the United States and one or more countries and organizations referred to in subsection (a)(2) under a memorandum of understanding (or other formal agreement) to carry out a joint research and development program—
+&emsp;(1) The term “cooperative research and development project” means a project involving joint participation by the United States andone or more countries and organizations referred to in subsection (a)(2) under a memorandum of understanding (or other formal agreement) to carry out a joint research and development program—
 
 &emsp;&emsp;(A) to develop new conventional defense equipment and munitions; or
 
@@ -132,7 +132,7 @@ Subsec. (e)(1)(A). Pub. L. 107–107, §1048(b)(2), substituted “Under Secreta
 
 Subsec. (e)(2)(A). Pub. L. 107–107, §1212(a)(4)(A), substituted “any country or organization referred to in subsection (a)(2)” for “one or more of the major allies of the United States”.
 
-Subsec. (e)(2)(B). Pub. L. 107–107, §§1048(b)(2), 1212(a)(4)(B), substituted “countries and organizations referred to in subsection (a)(2)” for “major allies of the United States or NATO organizations” and “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+Subsec. (e)(2)(B). Pub. L. 107–107, §§1048(b)(2), 1212(a)(4)(B), substituted “countries and organizationsreferred to in subsection (a)(2)” for “major allies of the United States or NATO organizations” and “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 Subsec. (e)(2)(C). Pub. L. 107–107, §1212(a)(4)(C), substituted “countries and organizations referred to in subsection (a)(2)” for “major allies of the United States”.
 

@@ -66,7 +66,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (C) Reserved funds for all qualified beginning farmers and ranchers
 
-&emsp;&emsp;If a qualified beginning farmer or rancher meets the eligibility criteria for receiving adirect or guaranteed loan under section 1922, 1935, or 1941 of this title, the Secretary shall make or guarantee the loan if sufficient funds reserved under this paragraph are available to make or guarantee the loan.
+&emsp;&emsp;If a qualified beginning farmer or rancher meets the eligibility criteria for receiving a direct or guaranteed loan under section 1922, 1935, or 1941 of this title, the Secretary shall make or guarantee the loan if sufficient funds reserved under this paragraph are available to make or guarantee the loan.
 
 #### (3) Transfer for down payment loans
 
@@ -104,7 +104,7 @@ The Secretary shall develop long-term cost projections for loan program authoriz
 
 (1) Notwithstanding any other provision of law, not less than 25 per centum of the loans for farm ownership purposes under subchapter I of this chapter, and not less than 25 per centum of the loans for farm operating purposes under subchapter II of this chapter, authorized to be insured, or made to be sold and insured, from the Agricultural Credit Insurance Fund during each fiscal year shall be for low-income, limited-resource borrowers.
 
-(2) The Secretary shall provide notification to farm borrowers under this chapter, as soon as practicable after April 10, 1984, and in the normal course of loan making and loan servicing operations, of the provisions of this chapter relating to low-income, limited-resource borrowers and the procedures by which persons may apply for loans under the low-income, limited-resource borrower program.
+(2) The Secretary shall provide notification to farm borrowers under this chapter, as soon as practicable after April 10, 1984, and in the normal course of loan making and loan servicing operations, of the provisions of this chapter relating to low-income, limited-resource borrowers and the procedures by which persons mayapply for loans under the low-income, limited-resource borrower program.
 
 (Pub. L. 87–128, title III, §346, as added Pub. L. 95–334, title I, §125, Aug. 4, 1978, 92 Stat. 428; amended Pub. L. 96–438, §4, Oct. 13, 1980, 94 Stat. 1876; Pub. L. 97–35, title I, §164, Aug. 13, 1981, 95 Stat. 379; Pub. L. 98–258, title VI, §607, Apr. 10, 1984, 98 Stat. 140; Pub. L. 99–198, title XIII, §1317, Dec. 23, 1985, 99 Stat. 1529; Pub. L. 101–508, title I, §1202(a), Nov. 5, 1990, 104 Stat. 1388–9; Pub. L. 101–624, title XXIII, §2388(i), Nov. 28, 1990, 104 Stat. 4053; Pub. L. 102–237, title VII, §§701(h)(1)(F), 702(i), Dec. 13, 1991, 105 Stat. 1880, 1881; Pub. L. 102–554, §20, Oct. 28, 1992, 106 Stat. 4159; Pub. L. 104–127, title VI, §641, Apr. 4, 1996, 110 Stat. 1098; Pub. L. 107–171, title V, §§5311, 5312, May 13, 2002, 116 Stat. 346, 347; Pub. L. 110–234, title V, §§5302(b), 5303, May 22, 2008, 122 Stat. 1152; Pub. L. 110–246, §4(a), title V, §§5302(b), 5303, June 18, 2008, 122 Stat. 1664, 1913, 1914.)
 
@@ -118,7 +118,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–246, §5303(1), substituted “$4,226,000,000 for each of fiscal years 2008through 2012” for “$3,796,000,000 for each of fiscal years 2003 through 2007” in introductory provisions.
+2008—Subsec. (b)(1). Pub. L. 110–246, §5303(1), substituted “$4,226,000,000 for each of fiscal years 2008 through 2012” for “$3,796,000,000 for each of fiscal years 2003 through 2007” in introductory provisions.
 
 Subsec. (b)(1)(A). Pub. L. 110–246, §5303(2), in introductory provisions, substituted “$1,200,000,000” for “$770,000,000”, in cl. (i), substituted “$350,000,000” for “$205,000,000”, and, in cl. (ii), substituted “$850,000,000” for “$565,000,000”.
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub.
 
 #### Construction of 1990 Amendment
 
-Section 702(i) of Pub. L. 102–237 provided that: “Subsection (i) of section 2388 of the Food, Agriculture, Conservation, and Trade Act of 1990 (104 Stat. 4053) \[Pub. L. 101–624, amending this section\] is hereby repealed and the Consolidated Farm and Rural Development Act \[see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendments made by such subsection had never been enacted.”
+Section 702(i) of Pub. L. 102–237 provided that: “Subsection (i) of section 2388 of the Food, Agriculture, Conservation, and Trade Act of 1990 (104 Stat. 4053) \[Pub. L. 101–624, amending this section\] is hereby repealed and the Consolidated Farm and Rural Development Act \[see Short Title note set out under section 1921 of this title\]shall be applied and administered as if the amendments made by such subsection had never been enacted.”
 
 #### Nullification of Reservation of Funds During Fiscal Year 1999 for Guaranteed Loans for Qualified Beginning Farmers and Ranchers
 

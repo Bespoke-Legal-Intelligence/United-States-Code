@@ -30,6 +30,36 @@ There shall be allowed as a deduction for the taxable year an amount equal to th
 
 &emsp;In the case of a loss from operations for any taxable year, the taxpayer may elect to relinquish the entire carryback period for such loss. Such election shall be made by the due date (including extensions of time) for filing the return for the taxable year of the loss from operations for which the election is to be in effect, and, once made for any taxable year, such election shall be irrevocable for that taxable year.
 
+#### (4) Carryback for 2008 or 2009 losses
+
+#### (A) In general
+
+&emsp;&emsp;In the case of an applicable loss from operations with respect to which the taxpayer has elected the application of this paragraph, paragraph (1)(A) shall be applied by substituting any whole number elected by the taxpayer which is more than 3 and less than 6 for “3”.
+
+#### (B) Applicable loss from operations
+
+&emsp;&emsp;For purposes of this paragraph, the term “applicable loss from operations” means the taxpayer's loss from operations for a taxable year ending after December 31, 2007, and beginning before January 1, 2010.
+
+#### (C) Election
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Any election under this paragraph may be made only with respect to 1 taxable year.
+
+#### (ii) Procedure
+
+&emsp;&emsp;&emsp;Any election under this paragraph shall be made in such manner as may be prescribed by the Secretary, and shall be made by the due date (including extension of time) for filing the return for the taxpayer's last taxable year beginning in 2009. Any such election, once made, shall be irrevocable.
+
+#### (D) Limitation on amount of loss carryback to 5th preceding taxable year
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The amount of any loss from operations which may be carried back to the 5th taxable year preceding the taxable year of such loss under subparagraph (A) shall not exceed 50 percent of the taxpayer's taxable income (computed without regard to the loss from operations for the loss year or any taxable year thereafter) for such preceding taxable year.
+
+#### (ii) Carrybacks and carryovers to other taxable years
+
+&emsp;&emsp;&emsp;Appropriate adjustments in the application of the second sentence of paragraph (2) shall be made to take into account the limitation of clause (i).
+
 #### (c) Computation of loss from operations
 
 For purposes of this section—
@@ -44,7 +74,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the operations loss deduction shall not be allowed, and
 
-&emsp;&emsp;(B) the deductions allowed by sections 243 (relating to dividends received by corporations), 244 (relating to dividends received oncertain preferred stock of public utilities), and 245 (relating to dividends received from certain foreign corporations) shall be computed without regard to section 246(b) as modified by section 805(a)(4).
+&emsp;&emsp;(B) the deductions allowed by sections 243 (relating to dividends received by corporations), 244 (relating to dividends received on certain preferred stock of public utilities), and 245 (relating to dividends received from certain foreign corporations) shall be computed without regard to section 246(b) as modified by section 805(a)(4).
 
 #### (d) Offset defined
 
@@ -68,7 +98,7 @@ Except as provided in section 805(b)(5),<sup>1</sup> subtitles A and F shall app
 
 For purposes of this section and section 812 (as in effect before the enactment of the Life Insurance Tax Act of 1984), this section shall be treated as a continuation of such section 812.
 
-(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 738.)
+(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 738; amended Pub. L. 111–92, §13(c), Nov. 6, 2009, 123 Stat. 2994.)
 
 #### References in Text
 
@@ -81,6 +111,14 @@ The Life Insurance Tax Act of 1984, referred to in subsec. (g), probably means t
 #### Prior Provisions
 
 A prior section 810, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 125; amended Pub. L. 91–172, title I, §121(b)(5)(B), title IX, §907(a)(2), Dec. 30, 1969, 83 Stat. 541, 715, related to rules for certain reserves, prior to the general revision of this part by Pub. L. 98–369, §211(a).
+
+#### Amendments
+
+2009—Subsec. (b)(4). Pub. L. 111–92 added par. (4).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–92 applicable to losses arising in taxable years ending after Dec. 31, 2007, with transition provisions and exception for TARP recipients, see section 13(e), (f) of Pub. L. 111–92, set out as a note under section 56 of this title.
 
 #### Effective Date
 

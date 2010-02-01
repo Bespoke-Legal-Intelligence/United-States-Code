@@ -10,7 +10,7 @@ Members Traveling In Connection With Medical Evacuation.—The Secretary of the 
 
 (b)
 
-Certain Enlisted Members.—The Secretary of the military department concerned may furnish civilian clothing, at a cost of not more than $40, to an enlisted member who is—
+Certain Enlisted Members.—The Secretary of the military department concernedmay furnish civilian clothing, at a cost of not more than $40, to an enlisted member who is—
 
 &emsp;(1) discharged for misconduct or unsuitability or under conditions other than honorable;
 

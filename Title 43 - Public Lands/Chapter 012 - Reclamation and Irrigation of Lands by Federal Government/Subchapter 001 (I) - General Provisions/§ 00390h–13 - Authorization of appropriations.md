@@ -6,7 +6,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### (b) Prerequisite cost-sharing agreement
 
-(1) Funds may not be appropriated for the construction of any project authorized by sections 390h to 390h–31 of this title until after—
+(1) Funds may not be appropriated for the construction of any project authorized by sections 390h to 390h–39 of this title until after—
 
 &emsp;(A) an appraisal investigation and a feasibility study that complies with the provisions of sections 390h–1(b) or 390h–2(c) of this title, as the case may be, have been completed by the Secretary or the non-Federal project sponsor;
 
@@ -14,7 +14,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 &emsp;(C) the Secretary has approved a cost-sharing agreement with the non-Federal project sponsor which commits the non-Federal project sponsor to funding its proportionate share of the project's construction costs on an annual basis.
 
-(2) The requirements of paragraph (1) shall not apply to those projects authorized by sections 390h to 390h–31 of this title for which funds were appropriated prior to January 1, 1996.
+(2) The requirements of paragraph (1) shall not apply to those projects authorized by sections 390h to 390h–39 of this title for which funds were appropriated prior to January 1, 1996.
 
 #### (c) Congressional notification
 
@@ -22,9 +22,9 @@ The Secretary shall notify the Committees on Resources and Appropriations of the
 
 #### (d) Ceiling on Federal share
 
-(1) Notwithstanding any other provision of sections 390h to 390h–31 of this title and except as provided by paragraph (2), the Federal share of the costs of each of the individual projects authorized by sections 390h to 390h–31 of this title shall not exceed $20,000,000 (October 1996 prices).
+(1) Notwithstanding any other provision of sections 390h to 390h–39 of this title and except as provided by paragraph (2), the Federal share of the costs of each of the individual projects authorized by sections 390h to 390h–39 of this title shall not exceed $20,000,000 (October 1996 prices).
 
-(2)(A) Subject to subparagraph (B), in the case of any project authorized by sections 390h to 390h–31 of this title for which construction funds were appropriated before January 1, 1996, the Federal share of the cost of such project may not exceed the amount specified as the “total Federal obligation” for that project in the budget justification made by the Bureau of Reclamation for fiscal year 1997, as contained in part 3 of the report of the hearing held on March 27, 1996, before the Subcommittee on Energy and Water Development of the Committee on Appropriations of the House of Representatives.
+(2)(A) Subject to subparagraph (B), in the case of any project authorized by sections 390h to 390h–39 of this title for which construction funds were appropriated before January 1, 1996, the Federal share of the cost of such project may not exceed the amount specified as the “total Federal obligation” for that project in the budget justification made by the Bureau of Reclamation for fiscal year 1997, as contained in part 3 of the report of the hearing held on March 27, 1996, before the Subcommittee on Energy and Water Development of the Committee on Appropriations of the House of Representatives.
 
 (B) In the case of the San Gabriel Basin demonstration project authorized by section 390h–12 of this title, the Federal share of the cost of such project may not exceed the sum determined by adding—
 
@@ -46,5 +46,5 @@ Sections 390h through 390h–12p of this title, referred to in subsec. (a), was 
 
 #### Change of Name
 
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of Houseof Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

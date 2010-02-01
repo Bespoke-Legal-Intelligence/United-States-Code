@@ -138,7 +138,7 @@ Section was enacted as part of the Ronald W. Reagan National Defense Authorizati
 
 #### Amendments
 
-<b>2006</b>—Subsecs. (f), (g). Pub. L. 109–364 added subsec. (f) and redesignated former subsec. (f) as (g).
+2006—Subsecs. (f), (g). Pub. L. 109–364 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 #### “Congressional Defense Committees” Defined
 

@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-&emsp;(1) “mortgage” means a deed of trust, mortgage, deed to secure debt, security agreement,or any other form of instrument under which any interest in property, real, personal or mixed, or any interest in property including leaseholds, life estates, reversionary interests, and any other estates under applicable State law, is conveyed in trust, mortgaged, encumbered, pledged, or otherwise rendered subject to a lien, for the purpose of securing the payment of money or the performance of an obligation;
+&emsp;(1) “mortgage” means a deed of trust, mortgage, deed to secure debt, security agreement, or any other form of instrument under which any interest in property, real, personal or mixed, or any interest in property including leaseholds, life estates, reversionary interests, and any other estates under applicable State law, is conveyed in trust, mortgaged, encumbered, pledged, or otherwise rendered subject to a lien, for the purpose of securing the payment of money or the performance of an obligation;
 
 &emsp;(2) “multifamily mortgage” means a mortgage held by the Secretary pursuant to—
 

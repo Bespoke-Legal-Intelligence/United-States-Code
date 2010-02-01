@@ -22,7 +22,7 @@ As used in subsection (a) of this section, the term “discriminate against a qu
 
 &emsp;(5)(A) not making reasonable accommodations to the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or employee, unless such covered entity can demonstrate that the accommodation would impose an undue hardship on the operation of the business of such covered entity; or
 
-&emsp;(B) denying employment opportunities to a job applicant or employee who is an otherwise qualified individual with a disability, if such denial is based on the need of such covered entity to make reasonable accommodation to the physical or mental impairments of the employee or applicant;
+&emsp;(B) denying employment opportunities to a job applicant or employee who is an otherwisequalified individual with a disability, if such denial is based on the need of such covered entity to make reasonable accommodation to the physical or mental impairments of the employee or applicant;
 
 &emsp;(6) using qualification standards, employment tests or other selection criteria that screen out or tend to screen out an individual with a disability or a class of individuals with disabilities unless the standard, test or other selection criteria, as used by the covered entity, is shown to be job-related for the position in question and is consistent with business necessity; and
 

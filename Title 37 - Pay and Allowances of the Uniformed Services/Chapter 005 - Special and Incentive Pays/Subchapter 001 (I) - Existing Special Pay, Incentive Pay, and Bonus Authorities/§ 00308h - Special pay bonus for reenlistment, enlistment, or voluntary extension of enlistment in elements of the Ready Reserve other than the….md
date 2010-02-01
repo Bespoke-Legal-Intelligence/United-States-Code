@@ -54,11 +54,13 @@ Regulations.—(1) This section shall be administered under regulations to be pr
 
 (e)
 
-Termination of Authority.—A bonus may not be paid under this section to any person for a reenlistment, enlistment, or voluntary extension of an enlistment after December 31, 2009.
+Termination of Authority.—A bonus may not be paid under this section to any person for a reenlistment, enlistment, or voluntary extension of an enlistment after December 31, 2010.
 
-(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 98–525, title V, §552(f)(2), Oct. 19, 1984, 98 Stat. 2532; Pub. L. 99–145, title VI, §646(a)–(c), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(d), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(d), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §611(d), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(f), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §611(f), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §611(f), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(f), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §§611(f), 619(a), (b), Dec. 28, 2001, 115 Stat. 1135, 1137, 1138; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §611(e), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §§611(e), 626(c), Nov. 24, 2003, 117 Stat. 1501, 1508; Pub. L. 108–375, div. A, title VI, §§611(e), 618(e), Oct. 28, 2004, 118 Stat. 1947, 1950; Pub. L. 109–163, div. A, title VI, §§621(d), 687(b)(18), Jan. 6, 2006, 119 Stat. 3294, 3330; Pub. L. 109–364, div. A, title VI, §611(e), Oct. 17, 2006, 120 Stat. 2247; Pub. L. 110–181, div. A, title VI, §611(e), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §611(e), Oct. 14, 2008, 122 Stat. 4484.)
+(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 98–525, title V, §552(f)(2), Oct. 19, 1984, 98 Stat. 2532; Pub. L. 99–145, title VI, §646(a)–(c), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(d), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(d), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §611(d), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(f), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §611(f), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §611(f), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(f), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §§611(f), 619(a), (b), Dec. 28, 2001, 115 Stat. 1135, 1137, 1138; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §611(e), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §§611(e), 626(c), Nov. 24, 2003, 117 Stat. 1501, 1508; Pub. L. 108–375, div. A, title VI, §§611(e), 618(e), Oct. 28, 2004, 118 Stat. 1947, 1950; Pub. L. 109–163, div. A, title VI, §§621(d), 687(b)(18), Jan. 6, 2006, 119 Stat. 3294, 3330; Pub. L. 109–364, div. A, title VI, §611(e), Oct. 17, 2006, 120 Stat. 2247; Pub. L. 110–181, div. A, title VI, §611(e), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §611(e), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §611(5), Oct. 28, 2009, 123 Stat. 2352.)
 
 #### Amendments
+
+2009—Subsec. (e). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 
 2008—Subsec. (e). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
 
@@ -70,7 +72,7 @@ Subsec. (d). Pub. L. 109–163, §687(b)(18)(B), (C), redesignated subsec. (f) a
 
 Subsec. (e). Pub. L. 109–364 substituted “December 31, 2007” for “December 31, 2006”.
 
-Pub. L. 109–163, §687(b)(18)(B), (C), redesignated subsec. (g) as (e) and struck out heading and text of formersubsec. (e). Text read as follows: “A discharge in bankruptcy under title 11 that is entered less than five years after the termination of a reenlistment, enlistment, or extension for which a bonus was paid under this section does not discharge the person receiving such bonus payment from the debt arising under subsection (c). This subsection applies to any case commenced under title 11 after September 24, 1983.”
+Pub. L. 109–163, §687(b)(18)(B), (C), redesignated subsec. (g) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “A discharge in bankruptcy under title 11 that is entered less than five years after the termination of a reenlistment, enlistment, or extension for which a bonus was paid under this section does not discharge the person receiving such bonus payment from the debt arising under subsection (c). This subsection applies to any case commenced under title 11 after September 24, 1983.”
 
 Subsec. (f). Pub. L. 109–163, §687(b)(18)(C), redesignated subsec. (f) as (d).
 
@@ -130,7 +132,7 @@ Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996
 
 1987—Subsec. (g). Pub. L. 100–180 substituted “September 30, 1990” for “September 30, 1987”.
 
-1985—Subsec. (a)(1). Pub. L. 99–145, §646(b)(1), substituted “for a period of three years, or for a period of six years,” for “for a period of not less than three years”.
+1985—Subsec. (a)(1). Pub. L. 99–145, §646(b)(1), substituted “for a period of three years, or for a period ofsix years,” for “for a period of not less than three years”.
 
 Subsec. (b). Pub. L. 99–145, §646(b)(2), designated existing provisions as par. (1), struck out “, except that the amount of such a bonus may not exceed $900 and shall be paid in equal annual increments”, and added pars. (2) and (3).
 
@@ -172,7 +174,7 @@ Section effective Oct. 1, 1983, see section 1011(c) of Pub. L. 98–94, set out 
 
 #### Regulations
 
-Pub. L. 107–107, div. A, title VI, §619(c), Dec. 28, 2001, 115 Stat. 1138, provided that: “Not later than 180 days after the date of the enactment of this Act \[Dec. 28, 2001\], the Secretaries of the military departments shallprescribe such regulations as may be necessary for administering subsection (a) of section 308h of title 37, United States Code, as amended by this section.”
+Pub. L. 107–107, div. A, title VI, §619(c), Dec. 28, 2001, 115 Stat. 1138, provided that: “Not later than 180 days after the date of the enactment of this Act \[Dec. 28, 2001\], the Secretaries of the military departments shall prescribe such regulations as may be necessary for administering subsection (a) of section 308h of title 37, United States Code, as amended by this section.”
 
 #### Savings Provision
 

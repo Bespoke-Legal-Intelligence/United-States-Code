@@ -2,7 +2,7 @@
 
 #### (a) Transfer of functions
 
-There are transferred to the Director of the Office of Refugee Resettlement of the Department of Health and Human Services functions under the immigration laws of the United States with respect to the care of unaccompanied alien children that were vested by statute in, or performed by, the Commissioner of Immigration and Naturalization (or any officer, employee, or component of the Immigration and Naturalization Service) immediately before the effective date specified in subsection (d) of this section.
+There are transferred to the Director of the Office of Refugee Resettlement of the Department of Health and Human Services functions under the immigration laws of the United Stateswith respect to the care of unaccompanied alien children that were vested by statute in, or performed by, the Commissioner of Immigration and Naturalization (or any officer, employee, or component of the Immigration and Naturalization Service) immediately before the effective date specified in subsection (d) of this section.
 
 #### (b) Functions
 
@@ -76,7 +76,7 @@ Notwithstanding section 4,<sup>1</sup> this section shall take effect on the dat
 
 #### (e) References
 
-With respect to any function transferred by this section, any reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to a component of government from which such function is transferred—
+With respect to any function transferred by this section, any reference in any other Federallaw, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to a component of government from which such function is transferred—
 
 &emsp;(1) to the head of such component is deemed to refer to the Director of the Office of Refugee Resettlement; or
 

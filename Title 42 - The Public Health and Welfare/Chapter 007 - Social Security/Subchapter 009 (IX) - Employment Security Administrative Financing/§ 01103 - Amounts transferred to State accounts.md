@@ -48,7 +48,7 @@
 
 &emsp;(D)(i) the appropriation law limits the total amount which may be obligated under such appropriation at any time to an amount which does not exceed, at any such time, the amount by which—
 
-&emsp;&emsp;(I) the aggregate of the amounts transferred to the account of such State pursuant to subsections (a) and (b) of this section, exceeds
+&emsp;&emsp;(I) the aggregate of the amounts transferred to the account of such State pursuant to subsections (a) and (b), exceeds
 
 &emsp;&emsp;(II) the aggregate of the amounts used by the State pursuant to this subsection and charged against the amounts transferred to the account of such State, and
 
@@ -72,7 +72,7 @@
 
 #### (d) Special transfer in fiscal year 2002
 
-(1) The Secretary of the Treasury shall transfer (as of the date determined under paragraph (5)) from the Federal unemployment account to the account of each State in the UnemploymentTrust Fund the amount determined with respect to such State under paragraph (2).
+(1) The Secretary of the Treasury shall transfer (as of the date determined under paragraph (5)) from the Federal unemployment account to the account of each State in the Unemployment Trust Fund the amount determined with respect to such State under paragraph (2).
 
 (2)(A) The amount to be transferred under this subsection to a State account shall (as determined by the Secretary of Labor and certified by such Secretary to the Secretary of the Treasury) be equal to—
 
@@ -132,7 +132,95 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 &emsp;(3) $85,000,000 to the account of Mississippi in the Unemployment Trust Fund.
 
-(Aug. 14, 1935, ch. 531, title IX, §903, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 670; amended Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 974; Pub. L. 88–31, §3, May 29, 1963, 77 Stat. 51; Pub. L. 90–430, July 26, 1968, 82 Stat. 447; Pub. L. 91–373, title III, §305(b), Aug. 10, 1970, 84 Stat. 717; Pub. L. 92–224, §1, title II, §204(c), Dec. 29, 1971, 85 Stat. 810, 814; Pub. L. 92–329, §2(d), June 30, 1972, 86 Stat. 398; Pub. L. 93–368, §4(b), Aug. 7, 1974, 88 Stat. 420; Pub. L. 94–273, §§2(20), 3(23), 23, 41, Apr. 21, 1976, 90 Stat. 375, 377, 379, 381; Pub. L. 97–248, title I, §192, Sept. 3, 1982, 96 Stat. 408; Pub. L. 100–203, title IX, §9155(c), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 101–508, title V, §5021(a), (b), Nov. 5, 1990, 104 Stat. 1388–223; Pub. L. 105–33, title V, §5403, Aug. 5, 1997, 111 Stat. 603; Pub. L. 107–147, title II, §209(a)(1), (b), Mar. 9, 2002, 116 Stat. 31; Pub. L. 109–91, title II, §201, Oct. 20, 2005, 119 Stat. 2093.)
+#### (f) Special transfers in fiscal years 2009, 2010, and 2011 for modernization
+
+(1)(A) In addition to any other amounts, the Secretary of Labor shall provide for the making of unemployment compensation modernization incentive payments (hereinafter “incentive payments”) to the accounts of the States in the Unemployment Trust Fund, by transfer from amounts reserved for that purpose in the Federal unemployment account, in accordance with succeeding provisions of this subsection.
+
+(B) The maximum incentive payment allowable under this subsection with respect to any State shall, as determined by the Secretary of Labor, be equal to the amount obtained by multiplying $7,000,000,000 by the same ratio as would apply under subsection (a)(2)(B) for purposes of determining such State's share of any excess amount (as described in subsection (a)(1)) that would have been subject to transfer to State accounts, as of October 1, 2008, under the provisions of subsection (a).
+
+(C) Of the maximum incentive payment determined under subparagraph (B) with respect to a State—
+
+&emsp;(i) one-third shall be transferred to the account of such State upon a certification under paragraph (4)(B) that the State law of such State meets the requirements of paragraph (2); and
+
+&emsp;(ii) the remainder shall be transferred to the account of such State upon a certification under paragraph (4)(B) that the State law ofsuch State meets the requirements of paragraph (3).
+
+(2) The State law of a State meets the requirements of this paragraph if such State law—
+
+&emsp;(A) uses a base period that includes the most recently completed calendar quarter before the start of the benefit year for purposes of determining eligibility for unemployment compensation; or
+
+&emsp;(B) provides that, in the case of an individual who would not otherwise be eligible for unemployment compensation under the State law because of the use of a base period that does not include the most recently completed calendar quarter before the start of the benefit year, eligibility shall be determined using a base period that includes such calendar quarter.
+
+(3) The State law of a State meets the requirements of this paragraph if such State law includes provisions to carry out at least 2 of the following subparagraphs:
+
+&emsp;(A) An individual shall not be denied regular unemployment compensation under any State law provisions relating to availability for work, active search for work, or refusal to accept work, solely because such individual is seeking only part-time work (as defined by the Secretary of Labor), except that the State law provisions carrying out this subparagraph may exclude an individual if a majority of the weeks of work in such individual's base period do not include part-time work (as so defined).
+
+&emsp;(B) An individual shall not be disqualified from regular unemployment compensation for separating from employment if that separation is for any compelling family reason. For purposes of this subparagraph, the term “compelling family reason” means the following:
+
+&emsp;&emsp;(i) One or both of the following offenses as selected by the State, but in making such selection, the resulting change in the State law shall not supercede any other provision of law relating to unemployment insurance to the extent that such other provision provides broader access to unemployment benefits for victims of such selected offense or offenses:
+
+&emsp;&emsp;&emsp;(I) Domestic violence, verified by such reasonable and confidential documentation as the State law may require, which causes the individual reasonably to believe that such individual's continued employment would jeopardize the safety of the individual or of any member of the individual's immediate family (as defined by the Secretary of Labor); and
+
+&emsp;&emsp;&emsp;(II) Sexual assault, verified by such reasonable and confidential documentation as the State law may require, which causes the individual reasonably to believe that such individual's continued employment would jeopardize the safety of the individual or of any member of the individual's immediate family (as defined by the Secretary of Labor).
+
+&emsp;&emsp;(ii) The illness or disability of a member of the individual's immediate family (as those terms are defined by the Secretary of Labor).
+
+&emsp;&emsp;(iii) The need for the individual to accompany such individual's spouse—
+
+&emsp;&emsp;&emsp;(I) to a place from which it is impractical for such individual to commute; and
+
+&emsp;&emsp;&emsp;(II) due to a change in location of the spouse's employment.
+
+&emsp;(C)(i) Weekly unemployment compensation is payable under this subparagraph to any individual who is unemployed (as determined under the State unemployment compensation law), has exhausted all rights to regular unemployment compensation under the State law, and is enrolled and making satisfactory progress in a State-approved training program or in a job training program authorized under the Workforce Investment Act of 1998, except that such compensation is not required to be paid to an individual who is receiving similar stipends or other training allowances for non-training costs.
+
+&emsp;(ii) Each State-approved training program or job training program referred to in clause (i) shall prepare individuals who have been separated from a declining occupation, or who have been involuntarily and indefinitely separated from employment as a result of a permanent reduction of operations at the individual's place of employment, for entry into a high-demand occupation.
+
+&emsp;(iii) The amount of unemployment compensation payable under this subparagraph to an individual for a week of unemployment shall be equal to—
+
+&emsp;&emsp;(I) the individual's average weekly benefit amount (including dependents’ allowances) for the most recent benefit year, less
+
+&emsp;&emsp;(II) any deductible income, as determined under State law.
+
+> &emsp;The total amount of unemployment compensation payable under this subparagraph to any individual shall be equal to at least 26 times the individual's average weekly benefit amount (including dependents’ allowances) for the most recent benefit year.
+
+&emsp;(D) Dependents’ allowances are provided, in the case of any individual who is entitled to receive regular unemployment compensation and who has any dependents (as defined by State law), in an amount equal to at least $15 per dependent per week, subject to any aggregate limitation on such allowances which the State law may establish (but which aggregate limitation on the total allowance for dependents paid to an individual may not be less than $50 for each week of unemployment or 50 percent of the individual's weekly benefit amount for the benefit year, whichever is less), except that a State law may provide for a reasonable reduction in the amount of any such allowance for a week of less than total unemployment.
+
+(4)(A) Any State seeking an incentive payment under this subsection shall submit an application therefor at such time, in such manner, and complete with such information as the Secretary of Labor may within 60 days after February 17, 2009, prescribe (whether by regulation or otherwise), including information relating to compliance with the requirements of paragraph (2) or (3), as well as how the State intends to use the incentive payment to improve or strengthenthe State's unemployment compensation program. The Secretary of Labor shall, within 30 days after receiving a complete application, notify the State agency of the State of the Secretary's findings with respect to the requirements of paragraph (2) or (3) (or both).
+
+(B)(i) If the Secretary of Labor finds that the State law provisions (disregarding any State law provisions which are not then currently in effect as permanent law or which are subject to discontinuation) meet the requirements of paragraph (2) or (3), as the case may be, the Secretary of Labor shall thereupon make a certification to that effect to the Secretary of the Treasury, together with a certification as to the amount of the incentive payment to be transferred to the State account pursuant to that finding. The Secretary of the Treasury shall make the appropriate transfer within 7 days after receiving such certification.
+
+(ii) For purposes of clause (i), State law provisions which are to take effect within 12 months after the date of their certification under this subparagraph shall be considered to be in effect as of the date of such certification.
+
+(C)(i) No certification of compliance with the requirements of paragraph (2) or (3) may be made with respect to any State whose State law is not otherwise eligible for certification under section 503 of this title or approvable under section 3304 of the Federal Unemployment Tax Act \[26 U.S.C. 3304\].
+
+(ii) No certification of compliance with the requirements of paragraph (3) may be made with respect to any State whose State law is not in compliance with the requirements of paragraph (2).
+
+(iii) No application under subparagraph (A) may be considered if submitted before February 17, 2009, or after the latest date necessary (as specified by the Secretary of Labor) to ensure that all incentive payments under this subsection are made before October 1, 2011.
+
+(5)(A) Except as provided in subparagraph (B), any amount transferred to the account of a State under this subsection may be used by such State only in the payment of cash benefits to individuals with respect to their unemployment (including for dependents’ allowances and for unemployment compensation under paragraph (3)(C)), exclusive of expenses of administration.
+
+(B) A State may, subject to the same conditions as set forth in subsection (c)(2) (excluding subparagraph (B) thereof, and deeming the reference to “subsections (a) and (b)” in subparagraph (D) thereof to include this subsection), use any amount transferred to the account of such State under this subsection for the administration of its unemployment compensation law and public employment offices.
+
+(6) Out of any money in the Federal unemployment account not otherwise appropriated, the Secretary of the Treasury shall reserve $7,000,000,000 for incentive payments under this subsection. Any amount so reserved shall not be taken into account for purposes of any determination under section 1102, 1110, or 1323 of this title of the amount in the Federal unemployment account as of any given time. Any amount so reserved for which the Secretary of the Treasury has not received a certification under paragraph (4)(B) by the deadline described in paragraph (4)(C)(iii) shall, upon the close of fiscal year 2011, become unrestricted as to use as part of the Federal unemployment account.
+
+(7) For purposes of this subsection, the terms “benefit year”, “base period”, and “week” have the respective meanings given such terms under section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note).
+
+#### (g) Special transfer in fiscal year 2009 for administration
+
+(1) In addition to any other amounts, the Secretary of the Treasury shall transfer from the employment security administration account to the account of each State in the Unemployment Trust Fund, within 30 days after February 17, 2009, the amount determined with respect to such State under paragraph (2).
+
+(2) The amount to be transferred under this subsection to a State account shall (as determined by the Secretary of Labor and certified by such Secretary to the Secretary of the Treasury) be equal to the amount obtained by multiplying $500,000,000 by the same ratio as determined under subsection (f)(1)(B) with respect to such State.
+
+(3) Any amount transferred to the account of a State as a result of the enactment of this subsection may be used by the State agency of such State only in the payment of expenses incurred by it for—
+
+&emsp;(A) the administration of the provisions of its State law carrying out the purposes of subsection (f)(2) or any subparagraph of subsection (f)(3);
+
+&emsp;(B) improved outreach to individuals who might be eligible for regular unemployment compensation by virtue of any provisions of the State law which are described in subparagraph (A);
+
+&emsp;(C) the improvement of unemployment benefit and unemployment tax operations, including responding to increased demand for unemployment compensation; and
+
+&emsp;(D) staff-assisted reemployment services for unemployment compensation claimants.
+
+(Aug. 14, 1935, ch. 531, title IX, §903, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 670; amended Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 974; Pub. L. 88–31, §3, May 29, 1963, 77 Stat. 51; Pub. L. 90–430, July 26, 1968, 82 Stat. 447; Pub. L. 91–373, title III, §305(b), Aug. 10, 1970, 84 Stat. 717; Pub. L. 92–224, §1, title II, §204(c), Dec. 29, 1971, 85 Stat. 810, 814; Pub. L. 92–329, §2(d), June 30, 1972, 86 Stat. 398; Pub. L. 93–368, §4(b), Aug. 7, 1974, 88 Stat. 420; Pub. L. 94–273, §§2(20), 3(23), 23, 41, Apr. 21, 1976, 90 Stat. 375, 377, 379, 381; Pub. L. 97–248, title I, §192, Sept. 3, 1982, 96 Stat. 408; Pub. L. 100–203, title IX, §9155(c), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 101–508, title V, §5021(a), (b), Nov. 5, 1990, 104 Stat. 1388–223; Pub. L. 105–33, title V, §5403, Aug. 5, 1997, 111 Stat. 603; Pub. L. 107–147, title II, §209(a)(1), (b), Mar. 9, 2002, 116 Stat. 31; Pub. L. 109–91, title II, §201, Oct. 20, 2005, 119 Stat. 2093; Pub. L. 111–5, div. B, title II, §2003(a), Feb. 17, 2009, 123 Stat. 439; Pub. L. 111–92, §7(a), Nov. 6, 2009, 123 Stat. 2987.)
 
 #### References in Text
 
@@ -140,13 +228,23 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(2)(B)(i), is class
 
 The Temporary Extended Unemployment Compensation Act of 2002, referred to in subsec. (d)(2)(A)(i)(I), (3)(B)(i)(II), is title II of Pub. L. 107–147, Mar. 9, 2002, 116 Stat. 26, which is set out as a note under section 3304 of Title 26, Internal Revenue Code. Section 209(a)(1) of the Act amended this section. For complete classification of this Act to the Code, see Tables.
 
-Section 5402 of Public Law 105–33, referred to in subsec. (d)(2)(A)(i)(II), is section 5402 of Pub. L. 105–33, titleV, Aug. 5, 1997, 111 Stat. 603, which amended section 1102 of this title and enacted provisions set out as a note under section 1102 of this title.
+Section 5402 of Public Law 105–33, referred to in subsec. (d)(2)(A)(i)(II), is section 5402 of Pub. L. 105–33, title V, Aug. 5, 1997, 111 Stat. 603, which amended section 1102 of this title and enacted provisions set out as a note under section 1102 of this title.
+
+The Workforce Investment Act of 1998, referred to in subsec. (f)(3)(C)(i), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
+Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (f)(7), is section 205 of Pub. L. 91–373, which is set out as a note under section 3304 of Title 26, Internal Revenue Code.
 
 #### Prior Provisions
 
 A prior section 1103, act Aug. 14, 1935, ch. 531, title IX, §903, 49 Stat. 640, related to approval and certification of State laws. For further details, see Prior Law note set out preceding section 1101 of this title.
 
 #### Amendments
+
+2009—Subsec. (f). Pub. L. 111–5 added subsec. (f).
+
+Subsec. (f)(3)(B)(i). Pub. L. 111–92 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “Domestic violence, verified by such reasonable and confidential documentation as the State law may require, which causes the individual reasonably to believe that such individual's continued employment would jeopardize the safety of the individual or of any member of the individual's immediate family (as defined by the Secretary of Labor).”
+
+Subsec. (g). Pub. L. 111–5 added subsec. (g).
 
 2005—Subsec. (e). Pub. L. 109–91 added subsec. (e).
 
@@ -200,9 +298,13 @@ Subsec. (c)(2). Pub. L. 92–224, §1, substituted “twenty-four preceding fisc
 
 1960—Subsec. (a). Pub. L. 86–778 substituted provisions of par. (1) for first sentence of the section which read “So much of any amount transferred to the Unemployment Trust Fund at the close of any fiscal year under section 1101(a) of this title as is not credited to the Federal unemployment account under section 1102 of this title shall be credited (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund” and designated existing provisions of second sentence as part (2), substituting “transferred” for “credited”, and striking out “on or” before “before” in subpar. (A).
 
-Subsec. (b). Pub. L. 86–778 redesignated existing provisions as par. (1) and cls. (1) and (2) thereof as subpars. (A) and (B), substituted “section 3304 of title 26” for “section 1603 of title 26”, in two places, and “transfer to such States’ account”, “transferred”, and “transfer” for “crediting to such States’ account”, “credited” and “credit”, respectively, except where already reading “shall transfer”, and added par. (2).
+Subsec. (b). Pub. L. 86–778 redesignated existing provisions as par. (1) and cls. (1) and (2) thereof as subpars. (A) and (B), substituted “section 3304 of title 26” for “section 1603 of title 26”, in two places, and “transferto such States’ account”, “transferred”, and “transfer” for “crediting to such States’ account”, “credited” and “credit”, respectively, except where already reading “shall transfer”, and added par. (2).
 
 Subsec. (c). Pub. L. 86–778 substituted “transferred” for “credited”, wherever appearing, “obligation” for “expenditure” in par. (2)(B), “obligated” for “so used” in par. (2)(D), and “obligated for administration” for “used” in concluding par., inserted references to subsection (b) in pars. (1) and (2)(D), and struck out “any of” before “such five fiscal years” in par. (2)(D).
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–92, §7(b), Nov. 6, 2009, 123 Stat. 2988, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to State applications submitted on and after January 1, 2010.”
 
 #### Effective Date of 1990 Amendment
 
@@ -213,6 +315,8 @@ Section 5021(c) of Pub. L. 101–508 provided that: “The amendments made by th
 Section 9155(d) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and sections 1105 and 1323 of this title\] shall apply to advances made on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
 #### Regulations
+
+Pub. L. 111–5, div. B, title II, §2003(b), Feb. 17, 2009, 123 Stat. 443, provided that: “The Secretary of Labor may prescribe any regulations, operating instructions, or other guidance necessary to carry out the amendment made by subsection (a) \[amending this section\].”
 
 Pub. L. 109–91, title II, §203, Oct. 20, 2005, 119 Stat. 2094, provided that: “The Secretary of Labor may prescribe any operating instructions or regulations necessary to carry out this title \[amending this section\] and any amendment made by this title.”
 

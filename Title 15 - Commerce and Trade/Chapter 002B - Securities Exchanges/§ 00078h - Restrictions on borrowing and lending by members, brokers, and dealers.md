@@ -16,7 +16,7 @@ It shall be unlawful for any registered broker or dealer, member of a national s
 
 1984—Subsec. (a). Pub. L. 98–440 inserted provision that no person shall be deemed to have borrowed within the ordinary course of business, within the meaning of this subsection, by reason of a bona fide agreement for delayed delivery of a mortgage related security under certain conditions.
 
-1975—Pub. L. 94–29, §5(1), substituted “any registered broker or dealer, member of a national securities exchange, or broker or dealer who transacts a business in securities through the medium of any member of a national securities exchange” for “any member of a national securities exchange, or any broker or dealer whotransacts a business in securities through the medium of any such member” in provisions preceding subsec. (a).
+1975—Pub. L. 94–29, §5(1), substituted “any registered broker or dealer, member of a national securities exchange, or broker or dealer who transacts a business in securities through the medium of any member of a national securities exchange” for “any member of a national securities exchange, or any broker or dealer who transacts a business in securities through the medium of any such member” in provisions preceding subsec. (a).
 
 Subsecs. (b) to (d). Pub. L. 94–29, §5(2), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and in subsec. (c) as so redesignated inserted “or in contravention of such rules and regulations as the Commissioner shall prescribe for the protection of investors” after “written consent of such customer”. Former subsec. (b), which covered the maximum allowable aggregate indebtedness of brokers, was struck out.
 

@@ -32,7 +32,7 @@ With respect to any entity not less than six months prior to the expiration of t
 
 #### (e) Reduction or termination of assistance payments; determination by Administrator of financial self-sufficiency
 
-In exercising the authority of subsection (a) of this section the Administrator shall assure that the governmental or other entities receiving assistance hereunder utilize all reasonable, available means to achieve financial self-sufficiencyto the end that assistance payments by the Administrator may be reduced or terminated at the earliest practical time.
+In exercising the authority of subsection (a) of this section the Administrator shall assure that the governmental or other entities receiving assistance hereunder utilize all reasonable, available means to achieve financial self-sufficiency to the end that assistance payments by the Administrator may be reduced or terminated at the earliest practical time.
 
 (Aug. 4, 1955, ch. 543, ch. 9, §91, 69 Stat. 481; Pub. L. 90–190, §2, Dec. 14, 1967, 81 Stat. 576; Pub. L. 94–187, title VI, §601(1)–(6), Dec. 31, 1975, 89 Stat. 1077, 1078; Pub. L. 95–238, title II, §205(a), Feb. 25, 1978, 92 Stat. 60; Pub. L. 104–106, div. C, title XXXI, §3161(c), Feb. 10, 1996, 110 Stat. 627.)
 
@@ -42,7 +42,7 @@ Act of September 30, 1950, referred to in subsec. (c), is act Sept. 30, 1950, ch
 
 #### Amendments
 
-1996—Subsec. (d). Pub. L. 104–106 substituted “; or not later than June 30, 1996, in the case of the Los Alamos School Board and the county of Los Alamos, New Mexico” for “, and the Los Alamos School Board; and not less than six months prior to June 30, 1987, in the case of the county of Los Alamos, New Mexico” and inserted at end “If the recommendation under the preceding sentence regarding the Los Alamos School Board or the county of Los Alamos, New Mexico, indicates a need for further assistance for the school board or the county, as the case may be, after June 30, 1997, the recommendation shall include a report and plan describing the actions required to eliminate the need for further assistance for the school board or the county, including a proposal for legislative action to carry out the plan.”
+1996—Subsec. (d). Pub. L. 104–106 substituted “; or not later than June 30, 1996, in the case of the Los AlamosSchool Board and the county of Los Alamos, New Mexico” for “, and the Los Alamos School Board; and not less than six months prior to June 30, 1987, in the case of the county of Los Alamos, New Mexico” and inserted at end “If the recommendation under the preceding sentence regarding the Los Alamos School Board or the county of Los Alamos, New Mexico, indicates a need for further assistance for the school board or the county, as the case may be, after June 30, 1997, the recommendation shall include a report and plan describing the actions required to eliminate the need for further assistance for the school board or the county, including a proposal for legislative action to carry out the plan.”
 
 1978—Subsec. (a). Pub. L. 95–238, §205(a)(1), inserted provisions for applicability to the Los Alamos School Board and the county of Los Alamos, New Mexico, and substituted provisions authorizing Administrator to make payments for provisions requiring Administrator to make payments.
 
@@ -112,7 +112,7 @@ Environmental Restoration.—(1) Not later than 21 months after the date of enac
 
 “(e)
 
-Agreement for Allocation of Parcels.—As soon as practicable after completing the review of titles to parcels of land under subsection (c), but not later than 90 days after the submittal of the report under subsection (d)(1)(C), the County and the Pueblo shall submit to the Secretary an agreement between the County and the Pueblo which allocates between the County and the Pueblo the parcels identified for conveyance or transfer under subsection (b).
+Agreement for Allocation of Parcels.—As soon as practicable after completing the review oftitles to parcels of land under subsection (c), but not later than 90 days after the submittal of the report under subsection (d)(1)(C), the County and the Pueblo shall submit to the Secretary an agreement between the County and the Pueblo which allocates between the County and the Pueblo the parcels identified for conveyance or transfer under subsection (b).
 
 “(f)
 

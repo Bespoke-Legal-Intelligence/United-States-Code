@@ -16,9 +16,9 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(D) contains criteria and procedures to assure a supply of drinking water which dependably complies with such maximum contaminant levels; including accepted methods for quality control and testing procedures to insure compliance with such levels and to insure proper operation and maintenance of the system, and requirements as to (i) the minimum quality of water which may be taken into the system and (ii) siting for new facilities for public water systems.
 
-> &emsp;At any time after promulgation of a regulation referred to in this paragraph, the Administrator may add equally effective quality control and testing procedures by guidance published in the Federal Register. Such procedures shall be treated as an alternative for public water systems to the quality control and testing procedures listed in the regulation.
+> &emsp;At any time after promulgation of a regulation referred to in this paragraph, the Administrator may add equally effective quality control and testing procedures by guidance published in the Federal Register. Such procedures shall be treated as an alternative forpublic water systems to the quality control and testing procedures listed in the regulation.
 
-&emsp;(2) The term “secondary drinking water regulation” which applies to public water systems and which specifies the maximum contaminant levels which, in the judgment of the Administrator, are requisite to protect the public welfare. Such regulations may apply to any contaminant in drinking water (A) which may adversely affect the odor or appearance of such water and consequently may cause a substantial number of the persons served by the public water system providing such water to discontinue its use, or (B) which may otherwise adversely affect the public welfare. Such regulations may vary accordingly to geographic and other circumstances.
+&emsp;(2) The term “secondary drinking water regulation” means a regulation which applies to public water systems and which specifies the maximum contaminant levels which, in the judgment of the Administrator, are requisite to protect the public welfare. Such regulations may apply to any contaminant in drinking water (A) which may adversely affect the odor or appearance of such water and consequently may cause a substantial number of the persons served by the public water system providing such water to discontinue its use, or (B) which may otherwise adversely affect the public welfare. Such regulations may vary according to geographic and other circumstances.
 
 &emsp;(3) The term “maximum contaminant level” means the maximum permissible level of a contaminant in water which is delivered to any user of a public water system.
 
@@ -46,7 +46,7 @@ In general.—For purposes of subparagraph (A), a connection to a system that de
 
 &emsp;&emsp;&emsp;(ii)
 
-Irrigation districts.—An irrigation district in existence prior to May 18, 1994,that provides primarily agricultural service through a piped water system with only incidental residential or similar use shall not be considered to be a public water system if the system or the residential or similar users of the system comply with subclause (II) or (III) of clause (i).
+Irrigation districts.—An irrigation district in existence prior to May 18, 1994, that provides primarily agricultural service through a piped water system with only incidental residential or similar use shall not be considered to be a public water system if the system or the residential or similar users of the system comply with subclause (II) or (III) of clause (i).
 
 &emsp;&emsp;(C)
 
@@ -118,7 +118,7 @@ Pub. L. 94–317 added par. (13).
 
 #### Effective Date of 1996 Amendment
 
-Section 2(b) of Pub. L. 104–182 provided that: “Except as otherwise specified in this Act \[enacting sections 300g–7 to 300g–9, 300h–8, 300j–3c, and 300j–12 to 300j–18 of this title and section 1263a of Title 33, Navigation and Navigable Waters, amending this section, sections 300g–1 to 300g–6, 300h, 300h–5 to 300h–7, 300i, 300i–1, 300j to 300j–2, 300j–4 to 300j–8, 300j–11, and 300j–21 to 300j–25 of this title, sections 4701 and 4721 of Title 16, Conservation, and section 349 of Title 21, Food and Drugs, repealing section 13551 of this title, enacting provisions set out as notes under this section, sections 201, 300g–1, 300j–1, and 300j–12 of this title, section 1281 of Title 33, and section 45 of former Title 40, Public Buildings,Property, and Works, and amending provisions set out as a note under section 201 of this title\] or in the amendments made by this Act, this Act and the amendments made by this Act shall take effect on the date of enactment of this Act \[Aug. 6, 1996\].”
+Section 2(b) of Pub. L. 104–182 provided that: “Except as otherwise specified in this Act \[enacting sections 300g–7 to 300g–9, 300h–8, 300j–3c, and 300j–12 to 300j–18 of this title and section 1263a of Title 33, Navigation and Navigable Waters, amending this section, sections 300g–1 to 300g–6, 300h, 300h–5 to 300h–7, 300i, 300i–1, 300j to 300j–2, 300j–4 to 300j–8, 300j–11, and 300j–21 to 300j–25 of this title, sections 4701 and 4721 of Title 16, Conservation, and section 349 of Title 21, Food and Drugs, repealing section 13551 of this title, enacting provisions set out as notes under this section, sections 201, 300g–1, 300j–1, and 300j–12 of this title, section 1281 of Title 33, and section 45 of former Title 40, Public Buildings, Property, and Works, and amending provisions set out as a note under section 201 of this title\] or in the amendments made by this Act, this Act and the amendments made by this Act shall take effect on the date of enactment of this Act \[Aug. 6, 1996\].”
 
 #### Short Title
 

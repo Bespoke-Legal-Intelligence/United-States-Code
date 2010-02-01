@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(iii) the acquiring corporation acquires, solely for voting stock described in paragraph (1)(C), property of the other corporation having a fair market value which is at least 80 percent of the fair market value of all of the property of the other corporation,
 
-> &emsp;&emsp;then such acquisition shall (subject to subparagraph (A) of this paragraph) be treatedas qualifying under paragraph (1)(C). Solely for the purpose of determining whether clause (iii) of the preceding sentence applies, the amount of any liability assumed by the acquiring corporation shall be treated as money paid for the property.
+> &emsp;&emsp;then such acquisition shall (subject to subparagraph (A) of this paragraph) be treated as qualifying under paragraph (1)(C). Solely for the purpose of determining whether clause (iii) of the preceding sentence applies, the amount of any liability assumed by the acquiring corporation shall be treated as money paid for the property.
 
 #### (C) Transfers of assets or stock to subsidiaries in certain paragraph (1)(A), (1)(B), (1)(C), and (1)(G) cases
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(i) after the transaction, the corporation surviving the merger holds substantially all of its properties and of the properties of the merged corporation (other than stock of the controlling corporation distributed in the transaction); and
 
-&emsp;&emsp;&emsp;(ii) in the transaction, former shareholders of the surviving corporation exchanged, for an amount of voting stock of the controlling corporation, an amount of stock in the surviving corporation which constitutes control of such corporation.
+&emsp;&emsp;&emsp;(ii) in the transaction, former shareholders of the surviving corporation exchanged, for an amount of voting stock ofthe controlling corporation, an amount of stock in the surviving corporation which constitutes control of such corporation.
 
 #### (F) Certain transactions involving 2 or more investment companies
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(v) This subparagraph shall not apply if the stock of each investment company is owned substantially by the same persons in the same proportions.
 
-&emsp;&emsp;&emsp;(vi) If an investment company which does not meet the requirements of clause (ii) acquires assets of another corporation, clause (i) shall be applied to such investment company and its shareholders and security holders as though its assets had been acquired by such other corporation. If such investment company acquires stock of another corporation in a reorganization described in section 368(a)(1)(B), clause (i) shall be applied to the shareholders of such investment company as though they had exchanged with such other corporation allof their stock in such company for stock having a fair market value equal to the fair market value of their stock of such investment company immediately after the exchange. For purposes of section 1001, the deemed acquisition or exchange referred to in the two preceding sentences shall be treated as a sale or exchange of property by the corporation and by the shareholders and security holders to which clause (i) is applied.
+&emsp;&emsp;&emsp;(vi) If an investment company which does not meet the requirements of clause (ii) acquires assets of another corporation, clause (i) shall be applied to such investment company and its shareholders and security holders as though its assets had been acquired by such other corporation. If such investment company acquires stock of another corporation in a reorganization described in section 368(a)(1)(B), clause (i) shall be applied to the shareholders of such investment company as though they had exchanged with such other corporation all of their stock in such company for stock having a fair market value equal to the fair market value of their stock of such investment company immediately after the exchange. For purposes of section 1001, the deemed acquisition or exchange referred to in the two preceding sentences shall be treated as a sale or exchange of property by the corporation and by the shareholders and security holders to which clause (i) is applied.
 
 &emsp;&emsp;&emsp;(vii) For purposes of clauses (ii) and (iii), the term “securities” includes obligations of State and local governments, commodity futures contracts, shares of regulated investment companies and real estate investment trusts, and other investments constituting a security within the meaning of the Investment Company Act of 1940 (15 U.S.C. 80a–2(36)).<sup>1</sup>
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;(i) in the case of a transaction with respect to which the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met, the term “control” has the meaning given such term by section 304(c), and
 
-&emsp;&emsp;&emsp;(ii) in the case of a transaction with respect to which the requirements of section 355 (or so much of section 356 as relates to section 355) are met, the fact that the shareholders of the distributing corporation dispose of part or all of the distributed stock, or the fact that the corporation whose stock was distributed issues additional stock, shall not be taken into account.
+&emsp;&emsp;&emsp;(ii) in the case of a transaction with respect to which the requirements of section355 (or so much of section 356 as relates to section 355) are met, the fact that the shareholders of the distributing corporation dispose of part or all of the distributed stock, or the fact that the corporation whose stock was distributed issues additional stock, shall not be taken into account.
 
 #### (3) Additional rules relating to title 11 and similar cases
 
@@ -142,7 +142,7 @@ For purposes of this part, the term “a party to a reorganization” includes�
 
 &emsp;(2) both corporations, in the case of a reorganization resulting from the acquisition by one corporation of stock or properties of another.
 
-> In the case of a reorganization qualifying under paragraph (1)(B) or (1)(C) of subsection (a), if the stock exchanged for the stock or properties isstock of a corporation which is in control of the acquiring corporation, the term “a party to a reorganization” includes the corporation so controlling the acquiring corporation. In the case of a reorganization qualifying under paragraph (1)(A), (1)(B), or (1)(C), or (1)(G) of subsection (a) by reason of paragraph (2)(C) of subsection (a), the term “a party to a reorganization” includes the corporation controlling the corporation to which the acquired assets or stock are transferred. In the case of a reorganization qualifying under paragraph (1)(A) or (1)(G) of subsection (a) by reason of paragraph (2)(D) of that subsection, the term “a party to a reorganization” includes the controlling corporation referred to in such paragraph (2)(D). In the case of a reorganization qualifying under subsection (a)(1)(A) by reason of subsection (a)(2)(E), the term “party to a reorganization” includes the controlling corporation referred to in subsection (a)(2)(E).
+> In the case of a reorganization qualifying under paragraph (1)(B) or (1)(C) of subsection (a), if the stock exchanged for the stock or properties is stock of a corporation which is in control of the acquiring corporation, the term “a party to a reorganization” includes the corporation so controlling the acquiring corporation. In the case of a reorganization qualifying under paragraph (1)(A), (1)(B), or (1)(C), or (1)(G) of subsection (a) by reason of paragraph (2)(C) of subsection (a), the term “a party to a reorganization” includes the corporation controlling the corporation to which the acquired assets or stock are transferred. In the case of a reorganization qualifying under paragraph (1)(A) or (1)(G) of subsection (a) by reason of paragraph (2)(D) of that subsection, the term “a party to a reorganization” includes the controlling corporation referred to in such paragraph (2)(D). In the case of a reorganization qualifying under subsection (a)(1)(A) by reason of subsection (a)(2)(E), the term “party to a reorganization” includes the controlling corporation referred to in subsection (a)(2)(E).
 
 #### (c) Control defined
 
@@ -218,7 +218,7 @@ Subsec. (a)(3). Pub. L. 96–589, §4(b), added par. (3).
 
 Subsec. (b). Pub. L. 96–589, §4(h)(4), substituted “paragraph (1)(A), (1)(B), (1)(C), or (1)(G) of subsection (a) by reason of paragraph (2)(C)” and “paragraph (1)(A) or (1)(G) of subsection (a) by reason of paragraph (2)(D)” for “paragraph (1)(A), (1)(B), or (1)(C) of subsection (a) by reason of paragraph (2)(C)” and “paragraph (1)(A) of subsection (a) by reason of paragraph (2)(D)”, respectively.
 
-1978—Subsec. (a)(2)(F). Pub. L. 95–600 substituted in cl. (iii), first sentence, “50 percent or more” and “80 percent or more” for “more than 50 percent” and “more than 80 percent”; substituted in cl. (vi), first sentence, “does not meet the requirements” for “is not diversified within the meaning”; struck from cl. (vi), second sentence, “(hereafter referred to as the (‘actual acquisition’)” after “section 368(a)(1)(B)” and “and security holders” after “the shareholders” and substituted “stock in such company for stock having a fair market value equal to the fair market value of their stock of such investment company immediately after the exchange” for “stock in such investment company for a percentage of the value of the total outstanding stock of the other corporation equal to the percentage of the value of the total outstanding stock of such investment company which such shareholders own immediately after the actual acquisition”; and added cls. (vii) and (viii).
+1978—Subsec. (a)(2)(F). Pub. L. 95–600 substituted in cl. (iii), first sentence, “50 percent or more” and “80percent or more” for “more than 50 percent” and “more than 80 percent”; substituted in cl. (vi), first sentence, “does not meet the requirements” for “is not diversified within the meaning”; struck from cl. (vi), second sentence, “(hereafter referred to as the (‘actual acquisition’)” after “section 368(a)(1)(B)” and “and security holders” after “the shareholders” and substituted “stock in such company for stock having a fair market value equal to the fair market value of their stock of such investment company immediately after the exchange” for “stock in such investment company for a percentage of the value of the total outstanding stock of the other corporation equal to the percentage of the value of the total outstanding stock of such investment company which such shareholders own immediately after the actual acquisition”; and added cls. (vii) and (viii).
 
 1976—Subsec. (a)(2)(F). Pub. L. 94–455, §2131(a), added subpar. (F).
 
@@ -258,7 +258,7 @@ Section 1401(c)(1) of Pub. L. 101–73 provided that: “The amendment made by s
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1018(q)(5) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1018(q)(5) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Section 4012(b)(1)(C)(i) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to acquisitions after the date of the enactment of this Act \[Nov. 10, 1988\] and before January 1, 1990.”
 

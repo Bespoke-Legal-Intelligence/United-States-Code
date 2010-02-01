@@ -20,7 +20,7 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 #### (2) Chimpanzees accepted into system
 
-&emsp;With respect to chimpanzees that are accepted into the sanctuary system, standardsunder paragraph (1) shall include the following:
+&emsp;With respect to chimpanzees that are accepted into the sanctuary system, standards under paragraph (1) shall include the following:
 
 &emsp;&emsp;(A) A prohibition that the chimpanzees may not be used for research, except as authorized under paragraph (3).
 
@@ -148,7 +148,7 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 #### (5) Establishment of contract entity
 
-&emsp;If the Secretary determines that an entity meeting the requirements of paragraph (2)does not exist, not later than 60 days after December 20, 2000, the Secretary shall, for purposes of paragraph (1), make a grant for the establishment of such an entity, including paying the cost of incorporating the entity under the law of one of the States.
+&emsp;If the Secretary determines that an entity meeting the requirements of paragraph (2) does not exist, not later than 60 days after December 20, 2000, the Secretary shall, for purposes of paragraph (1), make a grant for the establishment of such an entity, including paying the cost of incorporating the entity under the law of one of the States.
 
 #### (f) Definitions
 

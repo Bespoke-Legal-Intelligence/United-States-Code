@@ -1,6 +1,6 @@
 ### §2648. Persons and supplies: sea transportation
 
-Whenever the Secretary of Defense considers that space is available, the following persons and supplies may be transported on vessels operated by the Department of Defense:
+Whenever the Secretary of Defense considers that space is available, the following personsand supplies may be transported on vessels operated by the Department of Defense:
 
 &emsp;(1) Members of Congress.
 

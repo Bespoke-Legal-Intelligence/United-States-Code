@@ -34,7 +34,7 @@ The House amendment deletes section 930 of the Senate amendment and incorporates
 
 #### senate report no. 95–989
 
-Section 927 conforms to section 98 of current law \[section 418 of former title 11\]. The Section permits dismissal by the court for unreasonable delay by the debtor, failure to propose a plan, failure of acceptance of a plan, or default by the debtor under a conformed plan. Mandatory dismissal is required if confirmation is refused.
+Section 927 conforms to section 98 of current law \[section 418 of former title 11\]. The Section permits dismissal by the court for unreasonable delay by the debtor, failure to propose a plan, failure of acceptance of a plan, or default by the debtor under a conformed plan.Mandatory dismissal is required if confirmation is refused.
 
 #### house report no. 95–595
 

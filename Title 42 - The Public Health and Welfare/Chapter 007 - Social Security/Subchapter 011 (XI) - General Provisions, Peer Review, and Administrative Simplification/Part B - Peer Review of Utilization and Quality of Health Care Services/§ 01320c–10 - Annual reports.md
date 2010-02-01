@@ -6,7 +6,7 @@ The Secretary shall submit to the Congress not later than April 1 of each year, 
 
 &emsp;(2) the number of health care institutions and practitioners whose services are subject to review by such organizations, and the number of beneficiaries and recipients who received services subject to such review during such year;
 
-&emsp;(3) the various methods of reimbursement utilized in contracts under this part, and therelative efficiency of each such method of reimbursement;
+&emsp;(3) the various methods of reimbursement utilized in contracts under this part, and the relative efficiency of each such method of reimbursement;
 
 &emsp;(4) the imposition of penalties and sanctions under this title for violations of law and for failure to comply with the obligations imposed by this part;
 

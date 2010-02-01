@@ -50,7 +50,7 @@ In this section, the term “entry and exit data system” means the entry and e
 
 &emsp;&emsp;&emsp;(i) the earliest date on which the Secretary estimates that full implementation of the biometric entry and exit data system can be completed;
 
-&emsp;&emsp;&emsp;(ii) the actions the Secretary will take to accelerate the full implementation of the biometric entry and exit data system at all ports of entry through which allaliens must pass that are legally required to do so; and
+&emsp;&emsp;&emsp;(ii) the actions the Secretary will take to accelerate the full implementation of the biometric entry and exit data system at all ports of entry through which all aliens must pass that are legally required to do so; and
 
 &emsp;&emsp;&emsp;(iii) the resources and authorities required to enable the Secretary to meet the implementation date described in clause (i);
 

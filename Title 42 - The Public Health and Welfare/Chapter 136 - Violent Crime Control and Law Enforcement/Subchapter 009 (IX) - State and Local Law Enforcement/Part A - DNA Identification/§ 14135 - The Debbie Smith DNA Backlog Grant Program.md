@@ -58,7 +58,7 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 &emsp;&emsp;(A) For fiscal year 2009, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.
 
-&emsp;&emsp;(B) For each of the fiscal years 2010 through 2014, not less than 40 percent of thegrant amounts shall be awarded for purposes under subsection (a)(2).
+&emsp;&emsp;(B) For each of the fiscal years 2010 through 2014, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2).
 
 #### (d) Analysis of samples
 
@@ -72,7 +72,7 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 #### (2) Quality assurance standards
 
-&emsp;(A) The Director of the Federal Bureau of Investigation shall maintain and make available to States and units of local government a description of quality assurance protocols and practices that the Director considers adequate to assure the quality of a forensic laboratory.
+&emsp;(A) The Director of the Federal Bureau of Investigation shall maintain and make availableto States and units of local government a description of quality assurance protocols and practices that the Director considers adequate to assure the quality of a forensic laboratory.
 
 &emsp;(B) For purposes of this section, a laboratory satisfies quality assurance standards if the laboratory satisfies the quality control requirements described in paragraphs (1) and (2) of section 14132(b) of this title.
 

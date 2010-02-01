@@ -2,7 +2,7 @@
 
 #### (a) Application by Governor
 
-The Governor of any State may apply to the Secretary at such time as the Secretary may specify after promulgation of the guidelines under section 6372a(a) of this title for grants to conduct preliminary energy audits of buildings owned by units of local government and public care institutions in such State under this part.
+The Governor of any State may apply to the Secretary at such time as the Secretary mayspecify after promulgation of the guidelines under section 6372a(a) of this title for grants to conduct preliminary energy audits of buildings owned by units of local government and public care institutions in such State under this part.
 
 #### (b) Grants for conduct of preliminary energy audits
 
@@ -22,7 +22,7 @@ If a State, unit of local government, or public care institution, without the us
 
 #### (f) Restriction on use of funds
 
-Amounts made available under this section (together with any other amounts made available from other Federal sources) may not beused to pay more than 50 percent of the costs of any preliminary energy audit or energy audit.
+Amounts made available under this section (together with any other amounts made available from other Federal sources) may not be used to pay more than 50 percent of the costs of any preliminary energy audit or energy audit.
 
 (Pub. L. 94–163, title III, §400C, as added Pub. L. 95–619, title III, §311(a), Nov. 9, 1978, 92 Stat. 3250.)
 

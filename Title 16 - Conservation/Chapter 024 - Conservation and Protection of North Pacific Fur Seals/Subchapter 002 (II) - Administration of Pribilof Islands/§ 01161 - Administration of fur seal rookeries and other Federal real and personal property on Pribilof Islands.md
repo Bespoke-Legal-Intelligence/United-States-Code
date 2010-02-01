@@ -68,7 +68,7 @@ In general.—Subject to paragraph (2), there are terminated all obligations of 
 
 Application.—Paragraph (1) shall apply on and after the date on which the Secretary of Commerce certifies that—
 
-&emsp;&emsp;“(A) the State of Alaska has provided written confirmation that no further corrective action is required at the sites and operable units covered by the Pribilof Islands Environmental Restoration Agreement between the National Oceanic and Atmospheric Administration and the State of Alaska, signed January 26, 1996, with the exception of postremedial measures, such as monitoring and operation and maintenance activities;
+&emsp;&emsp;“(A) the State of Alaska has provided written confirmation that no further corrective action is required at the sites and operable units covered by the Pribilof Islands Environmental RestorationAgreement between the National Oceanic and Atmospheric Administration and the State of Alaska, signed January 26, 1996, with the exception of postremedial measures, such as monitoring and operation and maintenance activities;
 
 &emsp;&emsp;“(B) the cleanup required under section 3(a) of Public Law 104–91 (16 U.S.C. 1165 note) is complete;
 

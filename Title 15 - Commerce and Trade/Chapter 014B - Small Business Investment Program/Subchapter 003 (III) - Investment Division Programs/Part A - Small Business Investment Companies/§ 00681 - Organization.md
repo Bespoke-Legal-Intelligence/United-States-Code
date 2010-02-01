@@ -2,7 +2,7 @@
 
 #### (a) Incorporation and charter under State law, period of succession; area of operations
 
-A small business investment company shall be an incorporated body, a limited liability company, or a limited partnership organized and chartered or otherwise existing under State law solely for the purpose of performing the functions and conducting the activities contemplated under this subchapter, which, if incorporated, has succession for a period of not less than thirty years unless sooner dissolved by its shareholders, and if a limited partnership, has succession for a period of not less than ten years, and possesses the powers reasonably necessary to perform such functions and conduct such activities. The area in which the companyis to conduct its operations, and the establishment of branch offices or agencies (if authorized by the articles), shall be subject to the approval of the Administration.
+A small business investment company shall be an incorporated body, a limited liability company, or a limited partnership organized and chartered or otherwise existing under State law solely for the purpose of performing the functions and conducting the activities contemplated under this subchapter, which, if incorporated, has succession for a period of not less than thirty years unless sooner dissolved by its shareholders, and if a limited partnership, has succession for a period of not less than ten years, and possesses the powers reasonably necessary to perform such functions and conduct such activities. The area in which the company is to conduct its operations, and the establishment of branch offices or agencies (if authorized by the articles), shall be subject to the approval of the Administration.
 
 #### (b) Articles of incorporation; approval
 
@@ -24,7 +24,7 @@ The articles of any small business investment company shall specify in general t
 
 &emsp;&emsp;Within a reasonable time after receiving a completed application submitted in accordance with this subsection and in accordance with such requirements as the Administrator may prescribe by regulation, the Administrator shall—
 
-&emsp;&emsp;&emsp;(i) approve the application and issue a license for such operation to the applicant if the requirements of this section are satisfied; or
+&emsp;&emsp;&emsp;(i) approve the application and issue a license for such operation to the applicant ifthe requirements of this section are satisfied; or
 
 &emsp;&emsp;&emsp;(ii) disapprove the application and notify the applicant in writing of the disapproval.
 
@@ -84,7 +84,7 @@ The articles of any small business investment company shall specify in general t
 
 &emsp;&emsp;(B) are authorized to be appropriated solely to cover the costs of licensing examinations.
 
-(Pub. L. 85–699, title III, §301, Aug. 21, 1958, 72 Stat. 691; Pub. L. 86–502, §4, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §11(a), (b), Oct. 3, 1961, 75 Stat. 756; Pub. L. 90–104, title II, §202, Oct. 11, 1967, 81 Stat. 269; Pub. L. 92–595, §2(b), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §106(b)–(d), June 4, 1976, 90 Stat. 666; Pub. L. 95–507, title I, §104, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 100–590, title I, §105, Nov. 3, 1988, 102 Stat. 2993; Pub. L. 104–208, div. D, title II,§208(b)(1)–(3)(A), Sept. 30, 1996, 110 Stat. 3009–741, 3009–742; Pub. L. 105–135, title II, §§212, 214, Dec. 2, 1997, 111 Stat. 2601.)
+(Pub. L. 85–699, title III, §301, Aug. 21, 1958, 72 Stat. 691; Pub. L. 86–502, §4, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §11(a), (b), Oct. 3, 1961, 75 Stat. 756; Pub. L. 90–104, title II, §202, Oct. 11, 1967, 81 Stat. 269; Pub. L. 92–595, §2(b), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §106(b)–(d), June 4, 1976, 90 Stat. 666; Pub. L. 95–507, title I, §104, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 100–590, title I, §105, Nov. 3, 1988, 102 Stat. 2993; Pub. L. 104–208, div. D, title II, §208(b)(1)–(3)(A), Sept. 30, 1996, 110 Stat. 3009–741, 3009–742; Pub. L. 105–135, title II, §§212, 214, Dec. 2, 1997, 111 Stat. 2601.)
 
 #### References in Text
 
@@ -100,7 +100,7 @@ Subsec. (e). Pub. L. 105–135, §214, added subsec. (e).
 
 Subsec. (c). Pub. L. 104–208, §208(b)(2), inserted heading and amended text of subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The articles and amendments thereto shall be forwarded to the Administration for consideration and approval or disapproval. In determining whether to approve such a company's articles and permit it to operate under the provisions of this chapter, the Administration shall give due regard, among other things, to the need and availability for the financing of small business concerns in the geographic area in which the proposed company is to commence business, the general business reputation and character of the proposed owners and management of the company, and the probability of successful operations of such company including adequate profitability and financial soundness. After consideration of all relevant factors, if it approves the company's articles, the Administration may in its discretion approve the company to operate under the provisions of this chapter and issue the company a license for such operation.”
 
-Subsec. (d). Pub. L. 104–208, §208(b)(3)(A), struck out subsec. (d) which read as follows: “Notwithstanding any other provision of this chapter, a small business investment company, the investment policy of which is that its investments will be made solely in small business concerns which will contribute to a well-balanced national economy by facilitating ownership in such concerns by persons whose participation in the free enterprise system is hampered because of social or economic disadvantages may be organized and chartered under State business or nonprofit corporation statutes, or formed as a limited partnership, and may be licensed by the Administration to operate under the provisions of this chapter.”
+Subsec. (d). Pub. L. 104–208, §208(b)(3)(A), struck out subsec. (d) which read as follows: “Notwithstanding any other provision of this chapter, a small business investment company, the investment policy of which is that its investments will be made solely in small business concerns which will contribute to a well-balancednational economy by facilitating ownership in such concerns by persons whose participation in the free enterprise system is hampered because of social or economic disadvantages may be organized and chartered under State business or nonprofit corporation statutes, or formed as a limited partnership, and may be licensed by the Administration to operate under the provisions of this chapter.”
 
 1988—Subsec. (a). Pub. L. 100–590 substituted “, if incorporated, has succession for a period of not less than thirty years unless sooner dissolved by its shareholders, and if a limited partnership, has succession for a period of not less than ten years,” for “has succession for a period of not less than thirty years unless sooner dissolved by its shareholders or partners”.
 

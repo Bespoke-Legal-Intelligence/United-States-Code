@@ -6,6 +6,14 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–84, div. E, §4701, Oct. 28, 2009, 123 Stat. 2835, provided that: “This division \[enacting sections 249 and 1389 of this title and sections 3716 and 3716a of Title 42, The Public Health and Welfare, amending section 249 of this title, enacting provisions set out as notes under section 249 of this title and section 3716 of Title 42, and amending provisions set out as a note under section 534 and provisions listed in a table relating to sentencing guidelines set out under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act’.”
+
+Pub. L. 111–79, §1, Oct. 19, 2009, 123 Stat. 2086, provided that: “This Act \[enacting section 3512 of this title and amending sections 2703, 2711, and 3127 of this title\] may be cited as the ‘Foreign Evidence Request Efficiency Act of 2009’.”
+
+Pub. L. 111–21, §1, May 20, 2009, 123 Stat. 1617, provided that: “This Act \[enacting section 27 of this title, amending sections 20, 1014, 1031, 1348, 1956, and 1957 of this title and sections 3729 to 3733 of Title 31, Money and Finance, and enacting provisions set out as a note under section 3729 of Title 31\] may be cited as the ‘Fraud Enforcement and Recovery Act of 2009’ or ‘FERA’.”
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–407, §1, Oct. 13, 2008, 122 Stat. 4296, provided that: “This Act \[enacting section 2285 of this title and section 70508 of Title 46, Shipping, amending sections 70501, 70502, 70504, and 70505 of Title 46, and enacting provisions set out as a note under section 2285 of this title and provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Drug Trafficking Vessel Interdiction Act of 2008’.”
@@ -20,7 +28,7 @@ Pub. L. 110–326, title I, §101, Sept. 26, 2008, 122 Stat. 3560, provided that
 
 Pub. L. 110–326, title II, §201, Sept. 26, 2008, 122 Stat. 3560, provided that: “This title \[amending sections 1030, 2332b, and 3663 of this title and amending provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Identity Theft Enforcement and Restitution Act of 2008’.”
 
-Pub. L. 110–179, §1, Jan. 7, 2008, 121 Stat. 2556, provided that: “This Act \[enacting section 1040 of this title, amending sections 1341 and 1343 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Emergency and Disaster Assistance Fraud Penalty Enhancement Act of 2007’.”
+Pub. L. 110–179, §1, Jan. 7, 2008, 121 Stat. 2556, provided that: “This Act \[enacting section 1040 of this title, amending sections 1341 and 1343 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title28, Judiciary and Judicial Procedure\] may be cited as the ‘Emergency and Disaster Assistance Fraud Penalty Enhancement Act of 2007’.”
 
 #### Short Title of 2007 Amendment
 
@@ -34,7 +42,7 @@ Pub. L. 109–476, §1, Jan. 12, 2007, 120 Stat. 3568, provided that: “This Ac
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–437, §1, Dec. 20, 2006, 120 Stat. 3266, provided that: “This Act \[amending section 704 of this titleand enacting provisions set out as a note under section 704 of this title\] may be cited as the ‘Stolen Valor Act of 2005’.”
+Pub. L. 109–437, §1, Dec. 20, 2006, 120 Stat. 3266, provided that: “This Act \[amending section 704 of this title and enacting provisions set out as a note under section 704 of this title\] may be cited as the ‘Stolen Valor Act of 2005’.”
 
 Pub. L. 109–374, §1, Nov. 27, 2006, 120 Stat. 2652, provided that: “This Act \[amending section 43 of this title\] may be cited as the ‘Animal Enterprise Terrorism Act’.”
 
@@ -88,7 +96,7 @@ Pub. L. 104–132, §1, Apr. 24, 1996, 110 Stat. 1214, provided that: “This Ac
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–322, title X, §100001, Sept. 13, 1994, 108 Stat. 1996, provided that: “This title \[amending section 13 of this title and section 3751 of Title 42, The Public Health and Welfare\] may be cited as the ‘Drunk Driving Child Protection Act of 1994’.”
+Pub. L. 103–322, title X, §100001, Sept. 13, 1994, 108 Stat. 1996, provided that: “This title \[amending section13 of this title and section 3751 of Title 42, The Public Health and Welfare\] may be cited as the ‘Drunk Driving Child Protection Act of 1994’.”
 
 #### Short Title of 1990 Amendment
 
@@ -104,7 +112,7 @@ Pub. L. 100–185, §1, Dec. 11, 1987, 101 Stat. 1279, provided that: “This Ac
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–646, §1, Nov. 10, 1986, 100 Stat. 3592, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Criminal Law and Procedure Technical Amendments Act of 1986’.”
+Pub. L. 99–646, §1, Nov. 10, 1986, 100 Stat. 3592, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Criminal Law and Procedure Technical Amendments Act of 1986’.”
 
 #### Short Title of 1984 Amendment
 

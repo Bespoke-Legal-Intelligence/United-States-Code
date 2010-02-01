@@ -40,7 +40,7 @@ Amendment by section 3(8) of Pub. L. 100–26 applicable as if included in Pub. 
 
 #### Effective Date
 
-Section 806(b)(3) of Pub. L. 99–399 provided that: “Section 1051 \[now 1032\] of title 10, United States Code, as added by paragraph (1), shall apply with respect to any disability or death resulting from an injury that occurs after January 21, 1981.”
+Section 806(b)(3) of Pub. L. 99–399 provided that: “Section 1051 \[now 1032\] of title 10, United States Code, asadded by paragraph (1), shall apply with respect to any disability or death resulting from an injury that occurs after January 21, 1981.”
 
 #### Delegation of Functions
 

@@ -6,7 +6,7 @@ The Secretary may not conduct site-specific activities with respect to a second 
 
 #### (b) Report
 
-The Secretary shall report to the President and to Congress on or after January 1, 2007, butnot later than January 1, 2010, on the need for a second repository.
+The Secretary shall report to the President and to Congress on or after January 1, 2007, but not later than January 1, 2010, on the need for a second repository.
 
 #### (c) Termination of granite research
 

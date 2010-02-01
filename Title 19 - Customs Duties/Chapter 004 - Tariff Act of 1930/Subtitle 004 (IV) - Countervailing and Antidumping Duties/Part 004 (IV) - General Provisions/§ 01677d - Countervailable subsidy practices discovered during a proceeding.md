@@ -6,7 +6,7 @@ If, in the course of a proceeding under this subtitle, the administering authori
 
 &emsp;(2) shall transfer the information (other than confidential information) concerning the practice, subsidy, or subsidy program to the library maintained under section 1677f(a)(1) of this title, if the practice, subsidy, or subsidy program appears to be a countervailable subsidy with respect to any other merchandise.
 
-(June 17, 1930, ch. 497, title VII, §775, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 186; amended Pub. L. 98–573, title VI, §617, Oct. 30, 1984, 98 Stat. 3037; Pub. L. 99–514, title XVIII, §1886(a)(12), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 103–465, title II, §283(b), Dec. 8, 1994, 108 Stat. 4930.)
+(June 17, 1930, ch. 497, title VII, §775, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat.186; amended Pub. L. 98–573, title VI, §617, Oct. 30, 1984, 98 Stat. 3037; Pub. L. 99–514, title XVIII, §1886(a)(12), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 103–465, title II, §283(b), Dec. 8, 1994, 108 Stat. 4930.)
 
 #### Amendments
 

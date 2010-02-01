@@ -18,7 +18,7 @@ United States Tariff Commission redesignated United States International Trade C
 - [&sect; 00094 - Omitted](%C2%A7%2000094%20-%20Omitted.md)
 - [&sect; 00095 - Repealed. June 17, 1930, ch. 497, title IV, &sect;651(a)(1), 46 Stat. 762](%C2%A7%2000095%20-%20Repealed.%20June%2017%2C%201930%2C%20ch.%20497%2C%20title%20IV%2C%20%C2%A7651%28a%29%281%29%2C%2046%20Stat.%20762.md)
 - [&sect; 00096 to 98 - Omitted](%C2%A7%2000096%20to%2098%20-%20Omitted.md)
-- [&sect; 00099 - Repealed. Pub. 89&#8211;554, &sect;8(a), Sept. 6, 1966, 80 Stat. 643](%C2%A7%2000099%20-%20Repealed.%20Pub.%2089%E2%80%93554%2C%20%C2%A78%28a%29%2C%20Sept.%206%2C%201966%2C%2080%20Stat.%20643.md)
+- [&sect; 00099 - Repealed. Pub. L. 89&#8211;554, &sect;8(a), Sept. 6, 1966, 80 Stat. 643](%C2%A7%2000099%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93554%2C%20%C2%A78%28a%29%2C%20Sept.%206%2C%201966%2C%2080%20Stat.%20643.md)
 - [&sect; 00100 - Omitted](%C2%A7%2000100%20-%20Omitted.md)
 - [&sect; 00101 - Repealed. Pub. L. 89&#8211;554, &sect;8(a), Sept. 6, 1966, 80 Stat. 643](%C2%A7%2000101%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93554%2C%20%C2%A78%28a%29%2C%20Sept.%206%2C%201966%2C%2080%20Stat.%20643.md)
 - [&sect; 00102 to 104 - Repealed. June 17, 1930, ch. 497, title IV, &sect;651(a)(1), 46 Stat. 762](%C2%A7%2000102%20to%20104%20-%20Repealed.%20June%2017%2C%201930%2C%20ch.%20497%2C%20title%20IV%2C%20%C2%A7651%28a%29%281%29%2C%2046%20Stat.%20762.md)

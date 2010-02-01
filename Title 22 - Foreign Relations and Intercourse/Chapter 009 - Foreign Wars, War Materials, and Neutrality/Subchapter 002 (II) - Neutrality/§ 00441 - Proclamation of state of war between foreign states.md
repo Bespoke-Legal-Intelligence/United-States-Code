@@ -22,7 +22,7 @@ Neutrality Act of 1939 not to be deemed repealed or modified in any manner by Jo
 
 #### Separability
 
-Section 17 of Joint Res. Nov. 4, 1939, provided that: “If any of the provisions of this joint resolution \[thissubchapter\], or the application thereof to any person or circumstance, is held invalid, the remainder of the joint resolution, and the application of such provision to other persons or circumstances, shall not be affected thereby.”
+Section 17 of Joint Res. Nov. 4, 1939, provided that: “If any of the provisions of this joint resolution \[this subchapter\], or the application thereof to any person or circumstance, is held invalid, the remainder of the joint resolution, and the application of such provision to other persons or circumstances, shall not be affected thereby.”
 
 #### Purpose of and Rights Reserved Under Subchapter
 

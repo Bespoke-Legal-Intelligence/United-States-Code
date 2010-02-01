@@ -14,7 +14,7 @@ Covered Individuals.—An individual described in this subsection is any individ
 
 &emsp;&emsp;(A) physically relocates a distance of at least 500 miles in order to pursue a program of education for which the individual utilizes educational assistance under this chapter; or
 
-&emsp;&emsp;(B) travels by air to physically attend an institution of higher education for pursuit of such a program of education because the individual cannot travel to such institution by automobile or other established form of transportation due to an absence of road or other infrastructure.
+&emsp;&emsp;(B) travels by air to physically attend an institution of higher education for pursuit ofsuch a program of education because the individual cannot travel to such institution by automobile or other established form of transportation due to an absence of road or other infrastructure.
 
 (c)
 

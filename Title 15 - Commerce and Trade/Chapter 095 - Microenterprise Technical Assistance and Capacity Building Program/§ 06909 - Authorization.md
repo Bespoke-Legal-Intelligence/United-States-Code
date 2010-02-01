@@ -1,6 +1,6 @@
 ### §6909. Authorization
 
-In addition to funds otherwise authorized to be appropriated to the Fund to carry out this title,<sup>1</sup> there are authorized to be appropriated to the Administrator to carry out this chapter—
+In addition to funds otherwise authorized to be appropriated to the Fund to carry out this title,<sup>1</sup>there are authorized to be appropriated to the Administrator to carry out this chapter—
 
 &emsp;(1) $15,000,000 for fiscal year 2000;
 

@@ -84,7 +84,7 @@ The Committee shall—
 
 #### (A) Establishment
 
-&emsp;&emsp;The agenda for a meeting of the Committee shall be established by the Chairperson and shall be submitted to the members of the Committee upon notification of the meeting.
+&emsp;&emsp;The agenda for a meeting of the Committee shall be established by the Chairpersonand shall be submitted to the members of the Committee upon notification of the meeting.
 
 #### (B) Opportunity for public comment
 
@@ -116,7 +116,7 @@ The Committee shall—
 
 #### (2) Report
 
-&emsp;Not later than the last day of each fiscal year, the Committee shall make available anannual report to the Secretary, the authorizing committees, and the public. The annual report shall contain—
+&emsp;Not later than the last day of each fiscal year, the Committee shall make available an annual report to the Secretary, the authorizing committees, and the public. The annual report shall contain—
 
 &emsp;&emsp;(A) a detailed summary of the agenda and activities of, and the findings and recommendations made by, the Committee during the fiscal year preceding the fiscal year in which the report is made;
 

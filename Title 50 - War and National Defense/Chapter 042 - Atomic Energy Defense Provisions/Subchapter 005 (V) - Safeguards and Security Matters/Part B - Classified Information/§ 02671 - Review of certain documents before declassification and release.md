@@ -16,7 +16,7 @@ In this section, the term “restricted data” has the meaning provided by sect
 
 #### References in Text
 
-Executive Order 12958, referred to in subsec. (b), is set out as a note under section 435 of this title.
+Executive Order 12958, referred to in subsec. (b), which was formerly set out as a note under section 435 of this title, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 #### Codification
 

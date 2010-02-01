@@ -4,7 +4,7 @@
 
 (1) To achieve the purposes of sections 544 to 544p of this title and to facilitate cooperation among the States of Oregon and Washington, and with the United States of America, the consent of Congress is given for an agreement described in sections 544 to 544p of this title pursuant to which, within one year after November 17, 1986—
 
-&emsp;(A) the States of Oregon and Washington shall establish by way of an interstate agreement a regional agency known as the Columbia River Gorge Commission, and shall incorporate sections 544 to 544p of this title by specific reference in such agreement. The Commission shall carry out its functions and responsibilities in accordance with the provisions of the interstate agreement and of sections 544 to 544p of this title and shall not be considered an agency or instrumentality of the United States for the purpose of any Federal law;
+&emsp;(A) the States of Oregon and Washington shall establish by way of an interstate agreement a regional agency known as the Columbia River Gorge Commission, and shall incorporate sections 544 to 544p of this title by specific reference in such agreement. The Commission shall carry out its functions and responsibilities in accordance with the provisions of the interstate agreement and of sections 544 to 544p of this title and shall not be considered an agency or instrumentality ofthe United States for the purpose of any Federal law;
 
 &emsp;(B) the States of Oregon and Washington shall provide to the Commission, State agencies, and the counties under State law the authority to carry out their respective functions and responsibilities in accordance with the provisions of paragraph (1)(A) of this subsection; and
 
@@ -24,7 +24,7 @@
 
 (4) A majority of the members of the Commission shall constitute a quorum. The members of the Commission shall select from among themselves a Chairman by majority vote of the members appointed from each State.
 
-(5) Except for the ex-officio member appointed pursuant to paragraph (1)(C)(iv), the membersand officers and employees of the Commission shall not be officers or employees of the United States for any purpose. The Commission shall appoint, fix compensation for, and assign and delegate duties to such officers and employees as the Commission deems necessary to fulfill its functions under sections 544 to 544p of this title. The compensation of Commission members shall be fixed by State law. The compensation of Commission members, officers, and employees and the expenses of the Commission shall be paid from funds provided to the Commission by the States.
+(5) Except for the ex-officio member appointed pursuant to paragraph (1)(C)(iv), the members and officers and employees of the Commission shall not be officers or employees of the United States for any purpose. The Commission shall appoint, fix compensation for, and assign and delegate duties to such officers and employees as the Commission deems necessary to fulfill its functions under sections 544 to 544p of this title. The compensation of Commission members shall be fixed by State law. The compensation of Commission members, officers, and employees and the expenses of the Commission shall be paid from funds provided to the Commission by the States.
 
 #### (b) Applicable law
 

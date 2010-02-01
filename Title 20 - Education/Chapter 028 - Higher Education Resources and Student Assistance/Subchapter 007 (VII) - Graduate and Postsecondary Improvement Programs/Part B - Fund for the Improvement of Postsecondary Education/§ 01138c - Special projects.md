@@ -2,7 +2,7 @@
 
 #### (a) Grant authority
 
-The Secretary is authorized to make grants to institutions of higher education, or consortia thereof, and such other public agencies and nonprofit organizations as the Secretary deems necessary for innovative projects concerning one or more areas of particular national need identified by the Secretary.
+The Secretary is authorized to make grants to institutions of higher education, or consortiathereof, and such other public agencies and nonprofit organizations as the Secretary deems necessary for innovative projects concerning one or more areas of particular national need identified by the Secretary.
 
 #### (b) Application
 
@@ -34,9 +34,9 @@ Areas of national need shall include, at a minimum, the following:
 
 &emsp;&emsp;(B) engage effectively in personal and systemic efforts to continually reduce medical harm; and
 
-&emsp;&emsp;(C) improve patient care and outcomes, as recommended by the Institute of Medicine.
+&emsp;&emsp;(C) improve patient care and outcomes, as recommended by the Institute of Medicine of the National Academies.
 
-(Pub. L. 89–329, title VII, §744, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1798; amended Pub. L. 110–315, title VII, §707(f), (h)(3), Aug. 14, 2008, 122 Stat. 3359, 3361.)
+(Pub. L. 89–329, title VII, §744, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1798; amended Pub. L. 110–315, title VII, §707(f), (h)(3), Aug. 14, 2008, 122 Stat. 3359, 3361; Pub. L. 111–39, title VII, §701(3), July 1, 2009, 123 Stat. 1954.)
 
 #### Prior Provisions
 
@@ -47,6 +47,8 @@ A prior section 1138c, Pub. L. 89–329, title XI, §1144, as added Pub. L. 102�
 A prior section 744 of Pub. L. 89–329 was classified to section 1132c–3 of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 #### Amendments
+
+2009—Subsec. (c)(6)(C). Pub. L. 111–39 inserted “of the National Academies” after “Institute of Medicine”.
 
 2008—Subsec. (a). Pub. L. 110–315, §707(h)(3), substituted “Secretary” for “Director” wherever appearing.
 
@@ -59,4 +61,8 @@ Subsec. (c). Pub. L. 110–315, §707(f), amended subsec. (c) generally. Prior t
 &emsp;“(3) Evaluation and dissemination of model programs.
 
 &emsp;“(4) International cooperation and student exchange among postsecondary educational institutions.”
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

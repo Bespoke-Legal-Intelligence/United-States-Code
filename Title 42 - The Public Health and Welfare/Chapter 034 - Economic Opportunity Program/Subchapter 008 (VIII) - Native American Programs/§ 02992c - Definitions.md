@@ -6,9 +6,9 @@ As used in this subchapter, the term—
 
 &emsp;(2) “financial assistance” includes assistance advanced by grant, agreement, or contract, but does not include the procurement of plant or equipment, or goods or services;
 
-&emsp;(3) “Indian reservation or Alaska Native village” includes the reservation of any federally or State recognized Indian tribe, including any band, nation, pueblo, or rancheria, any former reservation in Oklahoma, and community under the jurisdiction of an Indian tribe, including a band, nation, pueblo, or rancheria, with allotted lands or lands subject to a restriction against alienation imposed by the United States or a State, and any lands of or under the jurisdiction of an Alaska Native village or group, including any lands selected by Alaska Natives or Alaska Native organizations under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\];
+&emsp;(3) “Indian reservation or Alaska Native village” includes the reservation of any federally or State recognized Indian tribe, including any band, nation, pueblo, or rancheria, any former reservation in Oklahoma, and communityunder the jurisdiction of an Indian tribe, including a band, nation, pueblo, or rancheria, with allotted lands or lands subject to a restriction against alienation imposed by the United States or a State, and any lands of or under the jurisdiction of an Alaska Native village or group, including any lands selected by Alaska Natives or Alaska Native organizations under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\];
 
-&emsp;(4) “Native Hawaiian” means any individual any of whose ancestors were natives of thearea which consists of the Hawaiian Islands prior to 1778;
+&emsp;(4) “Native Hawaiian” means any individual any of whose ancestors were natives of the area which consists of the Hawaiian Islands prior to 1778;
 
 &emsp;(5) the term “rule” has the meaning given it in section 551(4) of title 5, as amended from time to time;
 

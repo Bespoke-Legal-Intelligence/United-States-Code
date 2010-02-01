@@ -50,7 +50,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person who provides intercity rail transportation to fail to haveon each train which includes one or more single-level rail passenger coaches—
+&emsp;&emsp;It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person who provides intercity rail transportation to fail to have on each train which includes one or more single-level rail passenger coaches—
 
 &emsp;&emsp;&emsp;(i) a number of spaces—
 
@@ -120,7 +120,7 @@
 
 #### (B) Accessibility
 
-&emsp;&emsp;For purposes of section 12132 of this title and section 794 of title 29, a requirementthat a rail passenger car used in commuter rail transportation be accessible to or readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, shall not be construed to require—
+&emsp;&emsp;For purposes of section 12132 of this title and section 794 of title 29, a requirement that a rail passenger car used in commuter rail transportation be accessible to or readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, shall not be construed to require—
 
 &emsp;&emsp;&emsp;(i) a restroom usable by an individual who uses a wheelchair if no restroom is provided in such car for any passenger;
 
@@ -178,7 +178,7 @@ It shall be considered discrimination for purposes of section 12132 of this titl
 
 #### (i) General rule
 
-&emsp;&emsp;&emsp;It shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, with respect to alterations of an existing station or part thereof in the intercity or commuter rail transportation systems that affect or could affect the usability of the station or part thereof, for the responsible person, owner, or person in control of the station to fail to make the alterations in such amanner that, to the maximum extent feasible, the altered portions of the station are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon completion of such alterations.
+&emsp;&emsp;&emsp;It shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, with respect to alterations of an existing station or part thereof in the intercity or commuter rail transportation systems that affect or could affect the usability of the station or part thereof, for the responsible person, owner, or person in control of the station to fail to make the alterations in such a manner that, to the maximum extent feasible, the altered portions of the station are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon completion of such alterations.
 
 #### (ii) Alterations to a primary function area
 

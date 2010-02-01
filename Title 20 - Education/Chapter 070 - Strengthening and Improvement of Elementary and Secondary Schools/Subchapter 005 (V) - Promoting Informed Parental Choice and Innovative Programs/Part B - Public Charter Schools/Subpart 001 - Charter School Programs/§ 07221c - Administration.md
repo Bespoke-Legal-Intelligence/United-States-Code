@@ -60,11 +60,11 @@ The Secretary may waive any statutory or regulatory requirement over which the S
 
 #### (1) State educational agencies
 
-&emsp;Each State educational agency receiving a grant under this subpart shall use such grantfunds to award subgrants to one or more eligible applicants in the State to enable such applicant to plan and implement a charter school in accordance with this subpart, except that the State educational agency may reserve not more than 10 percent of the grant funds to support dissemination activities described in paragraph (6).
+&emsp;Each State educational agency receiving a grant under this subpart shall use such grant funds to award subgrants to one or more eligible applicants in the State to enable such applicant to plan and implement a charter school in accordance with this subpart, except that the State educational agency may reserve not more than 10 percent of the grant funds to support dissemination activities described in paragraph (6).
 
 #### (2) Eligible applicants
 
-&emsp;Each eligible applicant receiving funds from the Secretary or a State educational agency shall use such funds to plan and implement a charter school, or to disseminate information about the charter school and successful practices in the charter school, in accordance with this subpart.
+&emsp;Each eligible applicant receiving funds from the Secretary or a State educational agencyshall use such funds to plan and implement a charter school, or to disseminate information about the charter school and successful practices in the charter school, in accordance with this subpart.
 
 #### (3) Allowable activities
 

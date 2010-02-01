@@ -4,7 +4,7 @@
 
 Before issuing or transferring a license for exploration or permit for commercial recovery, the Administrator must find in writing, after consultation with interested departments and agencies pursuant to section 1413(e) of this title, and upon considering public comments received with respect to the license or permit, that the exploration or commercial recovery proposed in the application—
 
-&emsp;(1) will not unreasonably interfere with the exercise of the freedoms of the high seas by other states, as recognized under general principles of international law;
+&emsp;(1) will not unreasonably interfere with the exercise of the freedoms of the high seas byother states, as recognized under general principles of international law;
 
 &emsp;(2) will not conflict with any international obligation of the United States established by any treaty or international convention in force with respect to the United States;
 

@@ -70,6 +70,7 @@
 | [1790b.](Subchapter%20002%20%28II%29%20-%20Share%20Insurance/%C2%A7%2001790b%20-%20Credit%20union%20employee%20protection%20remedy.md) | Credit union employee protection remedy. |
 | [1790c.](Subchapter%20002%20%28II%29%20-%20Share%20Insurance/%C2%A7%2001790c%20-%20Reward%20for%20information%20leading%20to%20recoveries%20or%20civil%20penalties.md) | Reward for information leading to recoveries or civil penalties. |
 | [1790d.](Subchapter%20002%20%28II%29%20-%20Share%20Insurance/%C2%A7%2001790d%20-%20Prompt%20corrective%20action.md) | Prompt corrective action. |
+| [1790e.](Subchapter%20002%20%28II%29%20-%20Share%20Insurance/%C2%A7%2001790e%20-%20Temporary%20Corporate%20Credit%20Union%20Stabilization%20Fund.md) | Temporary Corporate Credit Union Stabilization Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

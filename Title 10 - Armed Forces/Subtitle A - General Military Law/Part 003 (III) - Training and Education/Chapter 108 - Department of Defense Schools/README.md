@@ -9,11 +9,15 @@
 | [2165\.](%C2%A7%2002165%20-%20National%20Defense%20University%20component%20institutions.md) | National Defense University: component institutions. |
 | [2166\.](%C2%A7%2002166%20-%20Western%20Hemisphere%20Institute%20for%20Security%20Cooperation.md) | Western Hemisphere Institute for Security Cooperation. |
 | [2167\.](%C2%A7%2002167%20-%20National%20Defense%20University%20admission%20of%20private%20sector%20civilians%20to%20professional%20military%20education%20program.md) | National Defense University: admission of private sector civilians to professional military education program. |
+| [2167a.](%C2%A7%2002167a%20-%20Defense%20Cyber%20Investigations%20Training%20Academy%20admission%20of%20private%20sector%20civilians%20to%20receive%20instruction.md) | Defense Cyber Investigations Training Academy: admission of private sector civilians to receive instruction. |
 | [2168\.](%C2%A7%2002168%20-%20Defense%20Language%20Institute%20Foreign%20Language%20Center%20degree%20of%20Associate%20of%20Arts%20in%20foreign%20language.md) | Defense Language Institute Foreign Language Center: degree of Associate of Arts in foreign language. |
+| [2169\.](%C2%A7%2002169%20-%20School%20of%20Nursing%20establishment.md) | School of Nursing: establishment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. A, title V, §525(a)(3)(B), title IX, §901(b), Oct. 28, 2009, 123 Stat. 2286, 2423, added items 2167a and 2169.
 
 2008—Pub. L. 110–417, \[div. A\], title V, §543(a)(2), (b)(2), Oct. 14, 2008, 122 Stat. 4457, 4458, added items 2161 and 2163 and struck out former items 2161 “Joint Military Intelligence College: academic degrees” and 2163 “National Defense University: master's degree programs”.
 
@@ -33,7 +37,7 @@ Pub. L. 105–85, div. A, title IX, §921(a)(2), Nov. 18, 1997, 111 Stat. 1862, 
 
 1993—Pub. L. 103–160, div. A, title IX, §922(b), Nov. 30, 1993, 107 Stat. 1731, added item 2163.
 
-1990—Pub. L. 101–510, div. A, title IX, §911(b)(1), (2), Nov. 5, 1990, 104 Stat. 1626, substituted “DEPARTMENT OF DEFENSE SCHOOLS” for “GRANTING OF ADVANCED DEGREES AT DEPARTMENT OF DEFENSE SCHOOLS” as chapter heading and added item 2162.
+1990—Pub. L. 101–510, div. A, title IX, §911(b)(1), (2), Nov. 5, 1990, 104 Stat. 1626, substituted “DEPARTMENTOF DEFENSE SCHOOLS” for “GRANTING OF ADVANCED DEGREES AT DEPARTMENT OF DEFENSE SCHOOLS” as chapter heading and added item 2162.
 
 #### Asia-Pacific Center for Security Studies: Reimbursement Waiver for Personnel of Foreign Nations
 
@@ -99,4 +103,6 @@ Pub. L. 102–484, div. A, title V, §542, Oct. 23, 1992, 106 Stat. 2413, relate
 - [&sect; 02165 - National Defense University component institutions](%C2%A7%2002165%20-%20National%20Defense%20University%20component%20institutions.md)
 - [&sect; 02166 - Western Hemisphere Institute for Security Cooperation](%C2%A7%2002166%20-%20Western%20Hemisphere%20Institute%20for%20Security%20Cooperation.md)
 - [&sect; 02167 - National Defense University admission of private sector civilians to professional military education program](%C2%A7%2002167%20-%20National%20Defense%20University%20admission%20of%20private%20sector%20civilians%20to%20professional%20military%20education%20program.md)
+- [&sect; 02167a - Defense Cyber Investigations Training Academy admission of private sector civilians to receive instruction](%C2%A7%2002167a%20-%20Defense%20Cyber%20Investigations%20Training%20Academy%20admission%20of%20private%20sector%20civilians%20to%20receive%20instruction.md)
 - [&sect; 02168 - Defense Language Institute Foreign Language Center degree of Associate of Arts in foreign language](%C2%A7%2002168%20-%20Defense%20Language%20Institute%20Foreign%20Language%20Center%20degree%20of%20Associate%20of%20Arts%20in%20foreign%20language.md)
+- [&sect; 02169 - School of Nursing establishment](%C2%A7%2002169%20-%20School%20of%20Nursing%20establishment.md)

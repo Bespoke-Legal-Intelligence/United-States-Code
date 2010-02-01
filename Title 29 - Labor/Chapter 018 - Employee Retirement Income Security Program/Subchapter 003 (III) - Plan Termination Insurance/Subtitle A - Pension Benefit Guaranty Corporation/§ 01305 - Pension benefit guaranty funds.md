@@ -28,7 +28,7 @@ There are established on the books of the Treasury of the United States for revo
 
 &emsp;(B) to purchase assets from a plan being terminated by the corporation when the corporation determines such purchase will best protect the interests of the corporation, participants in the plan being terminated, and other insured plans,
 
-&emsp;(C) to repay to the Secretary of the Treasury such sums as may be borrowed (together with interest thereon) under subsection (c) of this section,
+&emsp;(C) to repay to the Secretary of the Treasury such sums as may be borrowed (together withinterest thereon) under subsection (c) of this section,
 
 &emsp;(D) to pay the operational and administrative expenses of the corporation, including reimbursement of the expenses incurred by the Department of the Treasury in maintaining the funds, and the Comptroller General in auditing the corporation, and
 
@@ -90,7 +90,7 @@ The corporation is authorized to issue to the Secretary of the Treasury notes or
 
 (1) Amounts in any fund established under this section may be used only for the purposes for which such fund was established and may not be used to make loans to (or on behalf of) any other fund or to finance any other activity of the corporation.
 
-(2) None of the funds borrowed under subsection (c) of this section may be used to make loans to (or on behalf of) any fund other than a fund described in the second sentence of subsection (a) of this section.
+(2) None of the funds borrowed under subsection (c) of this section may be used to makeloans to (or on behalf of) any fund other than a fund described in the second sentence of subsection (a) of this section.
 
 (3) Any repayment to the corporation of any amount paid out of any fund in connection with a multiemployer plan shall be deposited in such fund.
 

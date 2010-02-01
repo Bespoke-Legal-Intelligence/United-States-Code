@@ -144,7 +144,7 @@ Not later than 6 months after the end of fiscal year 1997, and each fiscal year 
 
 #### References in Text
 
-Section 301 of the Social Security Amendments of 1972, referred to in subsec. (a)(1)(A)(ii)(III), is section 301 of Pub. L. 92–603, title III, Oct. 30, 1972, 86 Stat. 1465, which enacted sections 1381 to 1382e and 1383 to 1383c of this title.
+Section 301 of the Social Security Amendments of 1972, referred to in subsec. (a)(1)(A)(ii)(III), is section301 of Pub. L. 92–603, title III, Oct. 30, 1972, 86 Stat. 1465, which enacted sections 1381 to 1382e and 1383 to 1383c of this title.
 
 #### Codification
 

@@ -44,7 +44,7 @@ The activities of the Program shall include—
 
 &emsp;(10) ensuring that ethical, legal, environmental, and other appropriate societal concerns, including the potential use of nanotechnology in enhancing human intelligence and in developing artificial intelligence which exceeds human capacity, are considered during the development of nanotechnology by—
 
-&emsp;&emsp;(A) establishing a research program to identify ethical, legal, environmental, and other appropriate societal concerns related to nanotechnology, and ensuring that the results of such research are widely disseminated;
+&emsp;&emsp;(A) establishing a research program to identify ethical, legal, environmental, andother appropriate societal concerns related to nanotechnology, and ensuring that the results of such research are widely disseminated;
 
 &emsp;&emsp;(B) requiring that interdisciplinary nanotechnology research centers established under paragraph (4) include activities that address societal, ethical, and environmental concerns;
 
@@ -56,7 +56,7 @@ The activities of the Program shall include—
 
 #### (c) Program management
 
-The National Science and Technology Council shall oversee the planning, management, and coordination of the Program. The Council, itself orthrough an appropriate subgroup it designates or establishes, shall—
+The National Science and Technology Council shall oversee the planning, management, and coordination of the Program. The Council, itself or through an appropriate subgroup it designates or establishes, shall—
 
 &emsp;(1) establish goals and priorities for the Program, based on national needs for a set of broad applications of nanotechnology;
 

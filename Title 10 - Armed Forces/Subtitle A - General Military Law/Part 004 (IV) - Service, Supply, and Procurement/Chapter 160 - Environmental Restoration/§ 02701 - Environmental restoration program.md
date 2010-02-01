@@ -50,7 +50,7 @@ Other responsible parties.—Paragraph (1) shall not apply to a removal or remed
 
 &emsp;(3)
 
-State fees and charges.—The Secretary shall pay fees and charges imposed by State authorities for permit services for the disposal of hazardous substances on lands which are under the jurisdiction of the Secretary to the same extent that nongovernmental entities are required to pay fees and charges imposed by State authorities for permit services. Thepreceding sentence shall not apply with respect to a payment that is the responsibility of a lessee, contractor, or other private person.
+State fees and charges.—The Secretary shall pay fees and charges imposed by Stateauthorities for permit services for the disposal of hazardous substances on lands which are under the jurisdiction of the Secretary to the same extent that nongovernmental entities are required to pay fees and charges imposed by State authorities for permit services. The preceding sentence shall not apply with respect to a payment that is the responsibility of a lessee, contractor, or other private person.
 
 (d)
 
@@ -80,7 +80,7 @@ Definitions.—In this subsection:
 
 &emsp;(5)
 
-Savings clause.—Nothing in this subsection affects the applicability of section 120 of CERCLA (42 U.S.C. 6920) <sup>1</sup> to the Department of Defense or the obligations and responsibilities of the Department of Defense under subsection (h) of such section.
+Savings clause.—Nothing in this subsection affects the applicability of section 120 of CERCLA (42 U.S.C. 9620) to the Department of Defense or the obligations and responsibilities of the Department of Defense under subsection (h) of such section.
 
 (e)
 
@@ -112,7 +112,7 @@ Limitation of accrual of rights of action under bonds.—If, under applicable Fe
 
 &emsp;(3)
 
-Liability of sureties under bonds.—If, under applicable Federal law, surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program, unless otherwise provided for by the Secretary in the bond, in the event of a default, the surety's liability on a performance bond shall be only for the cost of completion of the contract work in accordance with the plans and specifications of the contract less the balance of funds remaining to be paid under the contract, up to the penal sum of the bond. The surety shall in no event be liable on bonds to indemnify or compensate the obligee for loss or liability arising from personal injury or property damage whether or not caused by a breach of the bonded contract.
+Liability of sureties under bonds.—If, under applicable Federal law, surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program, unless otherwise provided for by the Secretary in the bond, in the event of a default, the surety's liability on a performance bond shall be only for the cost of completion of the contract work in accordance with the plans and specifications of the contract less the balance offunds remaining to be paid under the contract, up to the penal sum of the bond. The surety shall in no event be liable on bonds to indemnify or compensate the obligee for loss or liability arising from personal injury or property damage whether or not caused by a breach of the bonded contract.
 
 &emsp;(4)
 
@@ -126,7 +126,7 @@ Applicability.—(1) Subsections (h) and (i) shall not apply to bonds executed b
 
 (k) UXO
 
-Program Manager.—(1) The Secretary of Defense shall designate a program manager who shall serve as the single point of contact in the Department of Defense for policy and budgeting issues involving the characterization, research, remediation, and management of explosive and related risks with respect to unexploded ordnance, discarded military munitions, and munitions constituents at defense sites (as such terms are defined in section 2710 <sup>2</sup> of this title) that pose a threat to human health or safety.
+Program Manager.—(1) The Secretary of Defense shall designate a program manager who shall serve as the single point of contact in the Department of Defense for policy and budgeting issues involving the characterization, research, remediation, and management of explosive and related risks with respect to unexploded ordnance, discarded military munitions, and munitions constituents at defense sites (as such terms are defined in section 2710 <sup>1</sup> of this title) that pose a threat to human health or safety.
 
 (2) The position of program manager shall be filled by—
 
@@ -136,9 +136,9 @@ Program Manager.—(1) The Secretary of Defense shall designate a program manage
 
 (3) The program manager shall report to the Deputy Under Secretary of Defense for Installations and Environment.
 
-(4) The program manager may establish an independent advisory and review panel that may include representatives of the National Academy of Sciences, nongovernmental organizations with expertise regarding unexploded ordnance, discarded military munitions, or munitions constituents, the Environmental Protection Agency, States (as defined in section 2710 <sup>2</sup> of this title), and tribal governments. If established, the panel shall report annually to Congress on progress made by the Department of Defense to address unexploded ordnance, discarded military munitions, or munitions constituents at defense sites and make such recommendations as the panel considers appropriate.
+(4) The program manager may establish an independent advisory and review panel that may include representatives of the National Academy of Sciences, nongovernmental organizations with expertise regarding unexploded ordnance, discarded military munitions, or munitions constituents, the Environmental Protection Agency, States (as defined in section 2710 <sup>1</sup> of this title), and tribal governments. If established, the panel shall report annually to Congress on progress made by the Department of Defense to address unexploded ordnance, discarded military munitions, or munitions constituents at defense sites and make such recommendations as the panel considers appropriate.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, §314, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 107–217, §3(b)(17), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title III, §§311, 312, 313(c)(2), div. B, title XXVIII, §2812(c), Dec. 2, 2002, 116 Stat. 2506, 2508, 2709; Pub. L. 108–375, div. A, title X, §1084(d)(24), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–163, div. A, title III, §312(a), Jan. 6, 2006, 119 Stat. 3190; Pub. L. 109–284, §2, Sept. 27, 2006, 120 Stat. 1211; Pub. L. 109–364, div. A, title III, §§311, 312, Oct. 17, 2006, 120 Stat. 2137.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, §314, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 107–217, §3(b)(17), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title III, §§311, 312, 313(c)(2), div. B, title XXVIII, §2812(c), Dec. 2, 2002, 116 Stat. 2506, 2508, 2709; Pub. L. 108–375, div. A, title X, §1084(d)(24), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–163, div. A, title III, §312(a), Jan. 6, 2006, 119 Stat. 3190; Pub. L. 109–284, §2, Sept. 27, 2006, 120 Stat. 1211; Pub. L. 109–364, div. A, title III, §§311, 312, Oct. 17, 2006, 120 Stat. 2137; Pub. L. 111–84, div. A, title X, §1073(a)(28), Oct. 28, 2009, 123 Stat. 2474.)
 
 #### References in Text
 
@@ -151,6 +151,8 @@ Provisions similar to those in subsecs. (f) and (g) of this section were contain
 A prior section 2701 was renumbered section 2721 of this title.
 
 #### Amendments
+
+2009—Subsec. (d)(5). Pub. L. 111–84 substituted “9620)” for “6920)”.
 
 2006—Subsec. (d)(1). Pub. L. 109–163, §312(a)(1), inserted “any owner of covenant property,” after “any Indian tribe,” and “owner,” after “, Indian tribe,”.
 
@@ -235,6 +237,58 @@ Pub. L. 102–484, §331(b), substituted “December 31, 1995” for “December
 Section 1504(a) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Oct. 5, 1994, and as if included in Pub. L. 103–337 as enacted.
 
 For effective date and applicability of amendment by section 4321(b)(22) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+
+#### Prohibition on Disposing of Waste in Open-Air Burn Pits
+
+Pub. L. 111–84, div. A, title III, §317, Oct. 28, 2009, 123 Stat. 2249, provided that:
+
+“(a)
+
+Regulations.—
+
+&emsp;“(1)
+
+In general.—Not later than 120 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall prescribe regulations prohibiting the disposal of covered waste in open-air burn pits during contingency operations except in circumstances in which the Secretary determines that no alternative disposal method is feasible. Such regulations shall apply to contingency operations that are ongoing as of the date of the enactment of this Act, including Operation Iraqi Freedom and Operation Enduring Freedom, and to contingency operations that begin after the date of the enactment of this Act.
+
+&emsp;“(2)
+
+Notification.—In determining that no alternative disposal method is feasible for an open-air burn pit pursuant to regulations prescribed under paragraph (1), the Secretary shall—
+
+&emsp;&emsp;“(A) not later than 30 days after such determination is made, submit to the Committees on Armed Services of the Senate and House of Representatives notice of such determination, including the circumstances, reasoning, and methodology that led to such determination; and
+
+&emsp;&emsp;“(B) after notice is given under subparagraph (A), for each subsequent 180-day-period during which covered waste is disposed of in the open-air burn pit covered by such notice, submit to the Committees on Armed Services of the Senate and House of Representatives the justifications of the Secretary for continuing to operate such open-air burn pit.
+
+“(b)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the use of open-air burn pits by the United States Armed Forces. Such report shall include—
+
+&emsp;“(1) an explanation of the situations and circumstances under which open-air burn pits are used to dispose of waste during military exercises and operations worldwide;
+
+&emsp;“(2) a detailed description of the types of waste authorized to be burned in open-air burn pits;
+
+&emsp;“(3) a plan through which the Secretary intends to develop and implement alternatives to the use of open-air burn pits;
+
+&emsp;“(4) a copy of the regulations required to be prescribed by subsection (a);
+
+&emsp;“(5) the health and environmental compliance standards the Secretary has established for military and contractor operations in Iraq and Afghanistan with regard to solid waste disposal, including an assessment of whether those standards are being met;
+
+&emsp;“(6) a description of the environmental, health, and operational impacts of open-pit burning of plasticsand the feasibility of including plastics in the regulations prescribed pursuant to subsection (a); and
+
+&emsp;“(7) an assessment of the ability of existing medical surveillance programs to identify and track exposures to toxic substances that result from open-air burn pits, including recommendations for such changes to such programs as would be required to more accurately identify and track such exposures.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘contingency operation’ has the meaning given that term by section 101(a)(13) of title 10, United States Code.
+
+&emsp;“(2) The term ‘covered waste’ includes—
+
+&emsp;&emsp;“(A) hazardous waste, as defined by section 1004(5) of the Solid Waste Disposal Act (42 U.S.C. 6903(5));
+
+&emsp;&emsp;“(B) medical waste; and
+
+&emsp;&emsp;“(C) other waste as designated by the Secretary.”
 
 #### Purpose of Pub. L. 109–284
 
@@ -366,7 +420,7 @@ Implementation.—For each defense site for which the Secretary develops a land 
 
 “(f)
 
-Deadlines.—For each defense site for which the Secretary intends to develop a land use plan under thissection, the Secretary shall develop a draft land use plan by October 1, 1997, and a final land use plan by March 15, 1998.
+Deadlines.—For each defense site for which the Secretary intends to develop a land use plan under this section, the Secretary shall develop a draft land use plan by October 1, 1997, and a final land use plan by March 15, 1998.
 
 “(g)
 
@@ -400,7 +454,7 @@ Section 328 of Pub. L. 103–337 provided that:
 
 “(a)
 
-Establishment.—The Secretary of Defense shall establish and conduct an education and training program for members of the Armed Forces and civilian employees of the Department of Defense whose responsibilities include planning or executing the environmental mission of the Department. The Secretary shall conduct the program to ensure that such members and employees obtain and maintain the knowledge and skill required to comply with existing environmental laws and regulations.
+Establishment.—The Secretary of Defense shall establish and conduct an education and training program for members of the Armed Forces and civilian employees of the Department of Defense whose responsibilities include planning or executing the environmental mission of the Department. The Secretary shallconduct the program to ensure that such members and employees obtain and maintain the knowledge and skill required to comply with existing environmental laws and regulations.
 
 “(b)
 
@@ -444,7 +498,7 @@ Use of Grant Funds.—(1) An institution of higher education receiving a grant u
 
 “(d)
 
-Eligible Individuals.—A program established or conducted using funds provided under subsection (a)may provide education and training in environmental restoration and waste management to—
+Eligible Individuals.—A program established or conducted using funds provided under subsection (a) may provide education and training in environmental restoration and waste management to—
 
 &emsp;“(1) individuals who have been terminated or laid off from employment (or have received notice of termination or lay off) as a consequence of reductions in expenditures by the United States for defense, the cancellation, termination, or completion of a defense contract, or the closure or realignment of a military installation under a base closure law, as determined in accordance with regulations prescribed by the Secretary; or
 
@@ -616,7 +670,7 @@ Award of Scholarship.—(1)(A) The Secretary of Defense shall award scholarships
 
 &emsp;“(ii) award a scholarship only to an eligible individual who has been accepted for enrollment in the institution of higher education described in subsection (c) and providing the educational training or activities for which the scholarship assistance is sought.
 
-“(2) The Secretary of Defense shall determine the amount of the scholarships awarded under this section, except that the amount of scholarship assistance awarded to any individual under this section may not exceed—
+“(2) The Secretary of Defense shall determine the amount of the scholarships awarded under this section,except that the amount of scholarship assistance awarded to any individual under this section may not exceed—
 
 &emsp;“(A) $10,000 in any 12-month period; and
 
@@ -698,7 +752,7 @@ Priority in Training and Employment.—The Secretary shall give priority in prov
 
 “(e)
 
-Effect on Other Environmental Requirements.—Nothing in this section shall be construed to revise or modify any requirement established under Federal or State law relating to environmental assessment, remediation, or restoration activities at military installations closed or to be closed.”
+Effect on Other Environmental Requirements.—Nothing in this section shall be construed torevise or modify any requirement established under Federal or State law relating to environmental assessment, remediation, or restoration activities at military installations closed or to be closed.”
 
 #### Cooperative Agreements and Grants To Implement Legacy Resource Management Program
 
@@ -878,7 +932,7 @@ Section 342(b) of Pub. L. 101–510 provided that:
 
 “(1) The Secretary of Defense shall develop a policy for determining applicable environmental requirements for military installations located outside the United States. In developing the policy, the Secretary shall ensure that the policy gives consideration to adequately protecting the health and safety of military and civilian personnel assigned to such installations.
 
-“(2) The Secretary of Defense shall develop a policy for determining the responsibilities of the Department of Defense with respect to cleaning up environmental contamination that may be present at military installations located outside the United States. In developing the policy, the Secretary shall take into account applicable international agreements (such as Status of Forces agreements), multinational or joint use and operation of such installations, relative share of the collective defense burden, and negotiated accommodations.
+“(2) The Secretary of Defense shall develop a policy for determining the responsibilities of the Department of Defense with respect to cleaning up environmentalcontamination that may be present at military installations located outside the United States. In developing the policy, the Secretary shall take into account applicable international agreements (such as Status of Forces agreements), multinational or joint use and operation of such installations, relative share of the collective defense burden, and negotiated accommodations.
 
 “(3) The Secretary of Defense shall develop a policy and strategy to ensure adequate oversight of compliance with applicable environmental requirements and responsibilities of the Department of Defense determined under the policies developed under paragraphs (1) and (2). In developing the policy, the Secretary shall consider using the Inspector General of the Department of Defense to ensure active and forceful oversight.
 
@@ -906,7 +960,7 @@ DOD Requirements for Ozone Depleting Chemicals Other Than CFCs.—(1) In additio
 
 “(b)
 
-Requirement.—In preparing the report required by section 356(d) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 \[Pub. L. 101–189, setout below\] and the report required by subsection (d) of this section, the Committee shall work closely with the Strategic Environmental Research and Development Program Council and shall provide to such Council such reports.
+Requirement.—In preparing the report required by section 356(d) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 \[Pub. L. 101–189, set out below\] and the report required by subsection (d) of this section, the Committee shall work closely with the Strategic Environmental Research and Development Program Council and shall provide to such Council such reports.
 
 “(c)
 
@@ -940,7 +994,7 @@ Pub. L. 101–189, div. A, title III, §356, Nov. 29, 1989, 103 Stat. 1425, as a
 
 “(a)
 
-Chlorofluorocarbons Emission Reduction.—The Secretary of Defense shall formulate and carry out, through the Under Secretary of Defense for Acquisition, Technology, and Logistics a program to reduce the unnecessary release of chlorofluorocarbons (hereinafter in this section referred to as ‘CFCs’) and halons into the atmosphere in connection with maintenance operations and training and testing practices of the Department of Defense.
+Chlorofluorocarbons Emission Reduction.—The Secretary of Defense shall formulate and carryout, through the Under Secretary of Defense for Acquisition, Technology, and Logistics a program to reduce the unnecessary release of chlorofluorocarbons (hereinafter in this section referred to as ‘CFCs’) and halons into the atmosphere in connection with maintenance operations and training and testing practices of the Department of Defense.
 
 “(b)
 
@@ -988,7 +1042,5 @@ Pub. L. 101–189, div. A, title III, §361, Nov. 29, 1989, 103 Stat. 1429, as a
 
 Pub. L. 101–165, title IX, §9038, Nov. 21, 1989, 103 Stat. 1137, which authorized appropriations available to the Department of Defense to be used at sites formerly used by the Department for removal of unsafe buildings or debris of the Department and required that removal be completed before the property is released from Federal Government control, was repealed and restated in subsecs. (f) and (g) of this section by Pub. L. 101–510, div. A, title XIV, §1481(i), Nov. 5, 1990, 104 Stat. 1708.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “9620)”.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -22,7 +22,7 @@ The amount of a consent dividend shall be considered, for purposes of this title
 
 #### (d) Consent dividends and other distributions
 
-If a distribution by a corporation consists in part of consent dividends and in part of money or other property, the entire amount specified in the consents and the amount of such money or other property shall be considered together for purposes of applying this title.
+If a distribution by a corporation consists in part of consent dividends and in part of money or other property, the entire amount specified in the consents and the amount of such money orother property shall be considered together for purposes of applying this title.
 
 #### (e) Nonresident aliens and foreign corporations
 

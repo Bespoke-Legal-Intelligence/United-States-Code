@@ -28,7 +28,7 @@ New fixed guideway capital project.—The term “new fixed guideway capital pro
 
 General Authority.—The Secretary may make grants under this section to assist State and local governmental authorities in financing—
 
-&emsp;(1) new fixed guideway capital projects under subsections (d) and (e), including the acquisition of real property, the initial acquisition of rolling stock for the systems, the acquisition of rights-of-way, and relocation, for fixedguideway corridor development for projects in the advanced stages of alternatives analysis or preliminary engineering;
+&emsp;(1) new fixed guideway capital projects under subsections (d) and (e), including the acquisition of real property, the initial acquisition of rolling stock for the systems, the acquisition of rights-of-way, and relocation, for fixed guideway corridor development for projects in the advanced stages of alternatives analysis or preliminary engineering;
 
 &emsp;(2) capital projects to modernize existing fixed guideway systems;
 
@@ -346,7 +346,7 @@ Statement of contingent commitment.—The agreement shall state that the conting
 
 &emsp;&emsp;&emsp;(iii)
 
-Interest and other financing costs.—Interest and other financing costs of efficiently carrying out a part of the project within a reasonable time are a cost of carrying out the project under a full funding grant agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
+Interest and other financing costs.—Interest and other financing costs of efficiently carrying out a part of the project within a reasonable time are a costof carrying out the project under a full funding grant agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
 
 &emsp;&emsp;&emsp;(iv)
 
@@ -408,7 +408,7 @@ Contents.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—A work agreement under this paragraph obligates an amount of available budget authority specified in law and shall provide for reimbursement of preliminary costs of carrying out the project, including land acquisition, timely procurement of system elements for whichspecifications are decided, and other activities the Secretary decides are appropriate to make efficient, long-term project management easier.
+In general.—A work agreement under this paragraph obligates an amount of available budget authority specified in law and shall provide for reimbursement of preliminary costs of carrying out the project, including land acquisition, timely procurement of system elements for which specifications are decided, and other activities the Secretary decides are appropriate to make efficient, long-term project management easier.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -428,7 +428,7 @@ Limitation on amounts.—
 
 &emsp;&emsp;(A)
 
-Major capital investment grants contingent commitment authority.—The total estimated amount of future obligations of the Government and contingent commitments to incur obligations covered by all outstanding letters of intent, full funding grant agreements, and early systems work agreements under this subsection for major new fixed guideway capital projects may be not more than the greater of the amount authorized under sections 5338(a)(3) and 5338(c) for such projects or an amount equivalent to the last 3 fiscal years of funding allocated under subsections (m)(1)(A) and (m)(2)(A)(ii) for such projects, less an amount the Secretary reasonably estimates is necessary for grants under this section for those of such projects that are not covered by a letter or agreement. The total amount covered by new letters and contingent commitments included in full funding grant agreements and early systems work agreements for such projects may be not more than a limitation specified in law.
+Major capital investment grants contingent commitment authority.—The total estimated amount of future obligations of the Government and contingent commitments to incur obligations covered by all outstanding letters of intent, full funding grant agreements, and early systems work agreements under this subsection for major new fixed guideway capital projects may be not more than the greater of the amount authorized under sections 5338(a)(3) and 5338(c) for such projects or an amount equivalent to the last 3 fiscal years of funding allocated under subsections (m)(1)(A) and (m)(2)(A)(ii)for such projects, less an amount the Secretary reasonably estimates is necessary for grants under this section for those of such projects that are not covered by a letter or agreement. The total amount covered by new letters and contingent commitments included in full funding grant agreements and early systems work agreements for such projects may be not more than a limitation specified in law.
 
 &emsp;&emsp;(B)
 
@@ -494,7 +494,7 @@ In general.—The Secretary may pay the Government's share of the net capital pr
 
 &emsp;&emsp;(B) the Secretary approves the payment; and
 
-&emsp;&emsp;(C) before carrying out the part of the project, the Secretary approves the plans and specifications for the part in the same way as other projects under this section.
+&emsp;&emsp;(C) before carrying out the part of the project, the Secretary approves the plansand specifications for the part in the same way as other projects under this section.
 
 &emsp;(2)
 
@@ -682,7 +682,7 @@ Projects not in urbanized areas.—Not less than 5.5 percent shall be available 
 
 &emsp;&emsp;(D)
 
-Intermodal terminals.—Not less than $35,000,000 shall be available in each fiscalyear for intermodal terminal projects, including the intercity bus portion of such projects.
+Intermodal terminals.—Not less than $35,000,000 shall be available in each fiscal year for intermodal terminal projects, including the intercity bus portion of such projects.
 
 &emsp;&emsp;(E)
 
@@ -1154,6 +1154,10 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 Amendment by section 5(12) of Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 
+#### Non-New Starts Share of Public Transportation Element of Interstate Multi-Modal Projects
+
+Pub. L. 111–117, div. A, title I, §173, Dec. 16, 2009, 123 Stat. 3066, provided that: “Hereafter, for interstate multi-modal projects which are in Interstate highway corridors, the Secretary shall base the rating under section 5309(d) of title 49, United States Code, of the non-New Starts share of the public transportation element of the project on the percentage of non-New Starts funds in the unified finance plan for the multi-modal project: <i>Provided</i>, That the Secretary shall base the accounting of local matching funds on the total amount of all local funds incorporated in the unified finance plan for the multi-modal project for the purposes of funding under chapter 53 of title 49, United States Code\[,\] and title 23, United States Code: <i>Provided further</i>, That the Secretary shall evaluate the justification for the project under section 5309(d) of title 49, United States Code, including cost effectiveness, on the public transportation costs and public transportation benefits.”
+
 #### Transit Tunnels
 
 Pub. L. 110–244, title II, §201(p), June 6, 2008, 122 Stat. 1615, provided that: “In carrying out section 5309(d)(3)(D) of title 49, United States Code, the Secretary of Transportation shall specifically analyze, evaluate, and consider—
@@ -1204,7 +1208,7 @@ Report to congress.—Not later than 2 years after the date of enactment of this
 
 #### Report to Congress on Use of Funds Under Pub. L. 105–178
 
-Pub. L. 105–200, title IV, §403(b), July 16, 1998, 112 Stat. 670, provided that: “Not later than 2 years after the date of the enactment of this Act \[July 16, 1998\], the Secretary of Transportation, in consultation with the Secretary of Health and Human Services, shall submit to the Committees on Ways and Means and on Transportation and Infrastructure of the House of Representatives and the Committees on Finance and on Environment and Public Works of the Senate a report that—
+Pub. L. 105–200, title IV, §403(b), July 16, 1998, 112 Stat. 670, provided that: “Not later than 2 years after the date of the enactment of this Act \[July 16, 1998\], the Secretary of Transportation, in consultation with the Secretary of Health and Human Services, shall submitto the Committees on Ways and Means and on Transportation and Infrastructure of the House of Representatives and the Committees on Finance and on Environment and Public Works of the Senate a report that—
 
 &emsp;“(1) describes the manner in which funds made available under section 3037 of the Transportation Equity Act for the 21st Century \[Pub. L. 105–178, set out as a note below\] have been used;
 

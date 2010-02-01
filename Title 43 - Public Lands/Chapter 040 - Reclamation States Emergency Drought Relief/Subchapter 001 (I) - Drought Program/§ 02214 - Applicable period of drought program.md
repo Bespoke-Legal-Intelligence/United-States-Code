@@ -12,7 +12,7 @@ If a Governor referred to in subsection (a) of this section is the Governor of t
 
 The authorities established under this subchapter shall terminate on September 30, 2010.
 
-(Pub. L. 102–250, title I, §104, Mar. 5, 1992, 106 Stat. 56; Pub. L. 106–566, title II, §201(a), Dec. 23, 2000, 114 Stat. 2820; Pub. L. 109–234, title II, §2306(a), June 15, 2006, 120 Stat. 456.)
+(Pub. L. 102–250, title I, §104, Mar. 5, 1992, 106 Stat. 56; Pub. L. 106–566, title II, §201(a), Dec. 23,2000, 114 Stat. 2820; Pub. L. 109–234, title II, §2306(a), June 15, 2006, 120 Stat. 456.)
 
 #### Amendments
 

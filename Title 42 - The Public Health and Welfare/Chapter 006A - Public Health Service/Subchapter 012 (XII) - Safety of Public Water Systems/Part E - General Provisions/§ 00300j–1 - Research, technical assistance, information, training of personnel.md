@@ -38,7 +38,7 @@ Information and research facilities.—In carrying out this subchapter, the Admi
 
 (7) The Administrator shall carry out a study of virus contamination of drinking water sources and means of control of such contamination.
 
-(8) The Administrator shall carry out a study of the nature and extent of the impact on underground water which supplies or can reasonably be expected to supply public water systems of (A) abandoned injection or extraction wells; (B) intensive application of pesticides and fertilizers in underground water recharge areas; and (C) ponds, pools, lagoons, pits, or other surface disposal of contaminants in underground water recharge areas.
+(8) The Administrator shall carry out a study of the nature and extent of the impact on underground water which supplies or can reasonably be expected to supply public water systems of (A) abandoned injection or extraction wells; (B) intensive application of pesticides and fertilizersin underground water recharge areas; and (C) ponds, pools, lagoons, pits, or other surface disposal of contaminants in underground water recharge areas.
 
 (9) The Administrator shall conduct a comprehensive study of public water supplies and drinking water sources to determine the nature, extent, sources of and means of control of contamination by chemicals or other substances suspected of being carcinogenic. Not later than six months after December 16, 1974, he shall transmit to the Congress the initial results of such study, together with such recommendations for further review and corrective action as he deems appropriate.
 
@@ -104,7 +104,7 @@ Subsec. (e). Pub. L. 104–182, §122, amended subsec. (e) generally. Prior to a
 
 > shall be utilized for technical assistance to public water systems owned or operated by Indian tribes.”
 
-1995—Subsecs. (c) to (g). Pub. L. 104–66 redesignated subsecs. (d), (f), and (g) as (c), (d), and (e), respectively, and struck out former subsec. (c) which read as follows: “Not later than eighteen months after November 16, 1977, the Administrator shall submit a report to Congress on the present and projected future availability of an adequate and dependable supply of safe drinking water to meet present and projected future need. Such report shall include an analysis of the future demand for drinking water and other competing uses of water, the availability and use of methods to conserve water or reduce demand, the adequacy of present measures to assure adequate and dependable supplies of safe drinking water, and the problems (financial, legal, or other)which need to be resolved in order to assure the availability of such supplies for the future. Existing information and data complied by the National Water Commission and others shall be utilized to the extent possible.”
+1995—Subsecs. (c) to (g). Pub. L. 104–66 redesignated subsecs. (d), (f), and (g) as (c), (d), and (e), respectively, and struck out former subsec. (c) which read as follows: “Not later than eighteen months after November 16, 1977, the Administrator shall submit a report to Congress on the present and projected future availability of an adequate and dependable supply of safe drinking water to meet present and projected future need. Such report shall include an analysis of the future demand for drinking water and other competing uses of water, the availability and use of methods to conserve water or reduce demand, the adequacy of present measures to assure adequate and dependable supplies of safe drinking water, and the problems (financial, legal, or other) which need to be resolved in order to assure the availability of such supplies for the future. Existing information and data complied by the National Water Commission and others shall be utilized to the extent possible.”
 
 1986—Subsec. (e). Pub. L. 99–339, §304(a), struck out subsec. (e) which authorized the Administrator to make grants to public water systems which are required, under State or local law, to meet standards relating to drinking turbidity which are more stringent than the standards in effect under this subchapter.
 
@@ -154,7 +154,7 @@ Plan.—The Administrator shall transmit the plan to the Committees on Commerce 
 
 #### National Center for Ground Water Research
 
-Section 203 of Pub. L. 104–182 provided that: “The Administrator of the Environmental Protection Agency, acting through the Robert S. Kerr Environmental Research Laboratory, is authorized to reestablish a partnership between the Laboratory and the National Center for Ground Water Research, a university consortium, to conduct research, training, and technology transfer for ground water quality protection and restoration. No funds are authorized by this section.”
+Section 203 of Pub. L. 104–182 provided that: “The Administrator of the Environmental Protection Agency,acting through the Robert S. Kerr Environmental Research Laboratory, is authorized to reestablish a partnership between the Laboratory and the National Center for Ground Water Research, a university consortium, to conduct research, training, and technology transfer for ground water quality protection and restoration. No funds are authorized by this section.”
 
 #### Comparative Health Effects Assessment
 

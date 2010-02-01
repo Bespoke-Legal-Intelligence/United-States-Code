@@ -206,7 +206,7 @@ Pub. L. 110–69, title III, §3012(c), Aug. 9, 2007, 121 Stat. 598, provided th
 
 #### National Academies of Sciences and Engineering Study of Government-Industry Cooperation in Civilian Technology
 
-Pub. L. 100–418, title V, §5131(c), Aug. 23, 1988, 102 Stat. 1443, directed the Secretary of Commerce, within 90 days after Aug. 23, 1988, to enter into contracts with the National Academies of Sciences and Engineering to review the various types of cooperative arrangements between the private sector and the Federal Government and required a report based on the review to be submitted to the Secretary, the President, and Congress within 18 months after the contracts were signed.
+Pub. L. 100–418, title V, §5131(c), Aug. 23, 1988, 102 Stat. 1443, directed the Secretary of Commerce, within 90 days after Aug. 23, 1988, to enter into contracts with the National Academies of Sciences and Engineering to review the various types of cooperative arrangements between the private sector and the Federal Governmentand required a report based on the review to be submitted to the Secretary, the President, and Congress within 18 months after the contracts were signed.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

@@ -78,7 +78,7 @@ Effective date.—This subsection shall take effect on April 1, 1996.
 
 (h)
 
-Right To Contest Adverse Personnel Actions.—An employee of the Federal Aviation Administration who is the subject of a major adverse personnel action may contest the action either through any contractual grievance procedure that is applicable to the employee as amember of the collective bargaining unit or through the Administration's internal process relating to review of major adverse personnel actions of the Administration, known as Guaranteed Fair Treatment, or under section 40122(g)(3).
+Right To Contest Adverse Personnel Actions.—An employee of the Federal Aviation Administration who is the subject of a major adverse personnel action may contest the action either through any contractual grievance procedure that is applicable to the employee as a member of the collective bargaining unit or through the Administration's internal process relating to review of major adverse personnel actions of the Administration, known as Guaranteed Fair Treatment, or under section 40122(g)(3).
 
 (i)
 

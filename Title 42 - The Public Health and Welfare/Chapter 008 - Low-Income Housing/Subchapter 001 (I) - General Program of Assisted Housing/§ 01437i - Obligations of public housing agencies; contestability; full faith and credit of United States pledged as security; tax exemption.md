@@ -8,7 +8,7 @@
 
 #### Prior Provisions
 
-A prior section 11 of act Sept. 1, 1937, ch. 896, 50 Stat. 893, as amended, authorized capital grants to publichousing agencies in assistance of low rentals and was classified to section 1411 of this title, prior to the general revision of this chapter by Pub. L. 93–383.
+A prior section 11 of act Sept. 1, 1937, ch. 896, 50 Stat. 893, as amended, authorized capital grants to public housing agencies in assistance of low rentals and was classified to section 1411 of this title, prior to the general revision of this chapter by Pub. L. 93–383.
 
 #### Amendments
 

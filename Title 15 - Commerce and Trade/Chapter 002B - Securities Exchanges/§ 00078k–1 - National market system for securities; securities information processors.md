@@ -22,7 +22,7 @@
 
 &emsp;(D) The linking of all markets for qualified securities through communication and data processing facilities will foster efficiency, enhance competition, increase the information available to brokers, dealers, and investors, facilitate the offsetting of investors’ orders, and contribute to best execution of such orders.
 
-(2) The Commission is directed, therefore, having due regard for the public interest, the protection of investors, and the maintenance of fair and orderly markets, to use its authority under this chapter to facilitate the establishment of a national market system for securities (which may include subsystems for particular types of securities with unique trading characteristics) in accordance with the findings and to carry out the objectives set forth in paragraph (1) of this subsection. The Commission, by rule, shall designate the securities or classes of securities qualified for trading in the national market system from among securities other than exempted securities. (Securities or classes of securities so designated hereinafter <sup>1</sup> in this section referred to as “qualified securities”.)
+(2) The Commission is directed, therefore, having due regard for the public interest, the protection of investors, and the maintenance of fair and orderly markets, to use its authority under this chapter to facilitate the establishment of a national market system for securities (which may include subsystems for particular types of securities with unique trading characteristics)in accordance with the findings and to carry out the objectives set forth in paragraph (1) of this subsection. The Commission, by rule, shall designate the securities or classes of securities qualified for trading in the national market system from among securities other than exempted securities. (Securities or classes of securities so designated hereinafter <sup>1</sup> in this section referred to as “qualified securities”.)
 
 (3) The Commission is authorized in furtherance of the directive in paragraph (2) of this subsection—
 
@@ -30,7 +30,7 @@
 
 &emsp;(B) by rule or order, to authorize or require self-regulatory organizations to act jointly with respect to matters as to which they share authority under this chapter in planning, developing, operating, or regulating a national market system (or a subsystem thereof) or one or more facilities thereof; and
 
-&emsp;(C) to conduct studies and make recommendations to the Congress from time to time as to the possible need for modifications of the scheme of self-regulation provided for in thischapter so as to adapt it to a national market system.
+&emsp;(C) to conduct studies and make recommendations to the Congress from time to time as to the possible need for modifications of the scheme of self-regulation provided for in this chapter so as to adapt it to a national market system.
 
 #### (b) Securities information processors; registration; withdrawal of registration; access to services; censure; suspension or revocation of registration
 
@@ -70,7 +70,7 @@
 
 &emsp;(F) assure equal regulation of all markets for qualified securities and all exchange members, brokers, and dealers effecting transactions in such securities.
 
-(2) The Commission, by rule, as it deems necessary or appropriate in the public interest or for the protection of investors, may require any person who has effected the purchase or sale of any qualified security by use of the mails or any means or instrumentality of interstate commerce to report such purchase or sale to a registered securities information processor, national securities exchange, or registered securities association and require such processor, exchange, or association to make appropriate distribution and publication of information with respect to such purchase or sale.
+(2) The Commission, by rule, as it deems necessary or appropriate in the public interest or for the protection of investors, may require any person who has effected the purchase or sale of any qualified security by use of the mails or anymeans or instrumentality of interstate commerce to report such purchase or sale to a registered securities information processor, national securities exchange, or registered securities association and require such processor, exchange, or association to make appropriate distribution and publication of information with respect to such purchase or sale.
 
 (3)(A) The Commission, by rule, is authorized to prohibit brokers and dealers from effecting transactions in securities registered pursuant to section 78<i>l</i>(b) of this title otherwise than on a national securities exchange, if the Commission finds, on the record after notice and opportunity for hearing, that—
 
@@ -78,7 +78,7 @@
 
 &emsp;(ii) no rule of any national securities exchange unreasonably impairs the ability of any dealer to solicit or effect transactions in such securities for his own account or unreasonably restricts competition among dealers in such securities or between dealers acting in the capacity of market makers who are specialists in such securities and such dealers who are not specialists in such securities, and
 
-&emsp;(iii) the maintenance or restoration of fair and orderly markets in such securities maynot be assured through other lawful means under this chapter.
+&emsp;(iii) the maintenance or restoration of fair and orderly markets in such securities may not be assured through other lawful means under this chapter.
 
 > The Commission may conditionally or unconditionally exempt any security or transaction or any class of securities or transactions from any such prohibition if the Commission deems such exemption consistent with the public interest, the protection of investors, and the maintenance of fair and orderly markets.
 
@@ -126,7 +126,7 @@
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(3)(A), is Pub. L. 92–436, Oct. 6, 1972, 86 Stat.770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (a)(3)(A), is Pub. L. 92–436, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

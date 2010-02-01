@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–220, §408(a)(4)(A), in concluding provisions, inserted last sentence and struck out former last sentence which read as follows: “Any concurrence of the Access Board under this paragraph shall reflect its consideration of the cost studies carried out by States under section 792(c)(1) of this title.”
+1998—Subsec. (a). Pub. L. 105–220, §408(a)(4)(A), in concluding provisions, inserted last sentence and struckout former last sentence which read as follows: “Any concurrence of the Access Board under this paragraph shall reflect its consideration of the cost studies carried out by States under section 792(c)(1) of this title.”
 
 Subsec. (c). Pub. L. 105–394 substituted “792(i)(1)” for “792(h)(1)”.
 

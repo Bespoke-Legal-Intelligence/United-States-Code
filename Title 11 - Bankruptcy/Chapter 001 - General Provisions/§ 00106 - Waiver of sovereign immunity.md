@@ -1,6 +1,6 @@
 ### §106. Waiver of sovereign immunity
 
-(a) Notwithstanding an assertion of sovereign immunity, sovereign immunity is abrogated asto a governmental unit to the extent set forth in this section with respect to the following:
+(a) Notwithstanding an assertion of sovereign immunity, sovereign immunity is abrogated as to a governmental unit to the extent set forth in this section with respect to the following:
 
 &emsp;(1) Sections 105, 106, 107, 108, 303, 346, 362, 363, 364, 365, 366, 502, 503, 505, 506, 510, 522, 523, 524, 525, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 722, 724, 726, 728, <sup>1</sup> 744, 749, 764, 901, 922, 926, 928, 929, 944, 1107, 1141, 1142, 1143, 1146, 1201, 1203, 1205, 1206, 1227, 1231, 1301, 1303, 1305, and 1327 of this title.
 

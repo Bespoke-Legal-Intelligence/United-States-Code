@@ -106,7 +106,7 @@ To provide for a trust solely to meet emergency humanitarian food needs in devel
 
 #### (D) Waiver relating to minimum tonnage requirements
 
-&emsp;&emsp;Nothing in this paragraph requires a waiver by the Administrator of the Agency forInternational Development under section 204(a)(3) of the Food for Peace Act (7 U.S.C. 1724(a)(3)) as a condition for a release of funds or commodities under subparagraph (B).
+&emsp;&emsp;Nothing in this paragraph requires a waiver by the Administrator of the Agency for International Development under section 204(a)(3) of the Food for Peace Act (7 U.S.C. 1724(a)(3)) as a condition for a release of funds or commodities under subparagraph (B).
 
 #### (2) Processing of eligible commodities
 
@@ -192,7 +192,7 @@ Any determination by the Secretary under this section shall be final.
 
 &emsp;Eligible commodities remaining in the trust after September 30, 2012, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
 
-(Pub. L. 96–494, title III, §302, as added Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959; amended Pub. L. 105–385, title II, §212(a), (b)(3), Nov. 13, 1998, 112 Stat. 3465, 3467; Pub. L. 107–171, title III, §3202, May 13, 2002, 116 Stat. 300; Pub. L.110–246, title III, §§3001(b)(1)(A), (2)(E), 3201, June 18, 2008, 122 Stat. 1820, 1834.)
+(Pub. L. 96–494, title III, §302, as added Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959; amended Pub. L. 105–385, title II, §212(a), (b)(3), Nov. 13, 1998, 112 Stat. 3465, 3467; Pub. L. 107–171, title III, §3202, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §§3001(b)(1)(A), (2)(E), 3201, June 18, 2008, 122 Stat. 1820, 1834.)
 
 #### References in Text
 

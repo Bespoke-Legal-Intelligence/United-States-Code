@@ -38,7 +38,7 @@ Management Plan.—The Secretary and the State shall cooperate in the developmen
 
 “(c)
 
-Savings.—(1) Nothing in this Act shall alter or affect the provisions of section 123 of the Department of the Interior and Related Agencies Appropriations Act for Fiscal Year 1999 (Public Law 105–277)\[set out as a note below\], as amended by section 501 of the 1999 Emergency Supplemental Appropriations Act (Public Law 106–31).
+Savings.—(1) Nothing in this Act shall alter or affect the provisions of section 123 of the Department of the Interior and Related Agencies Appropriations Act for Fiscal Year 1999 (Public Law 105–277) \[set out as a note below\], as amended by section 501 of the 1999 Emergency Supplemental Appropriations Act (Public Law 106–31).
 
 “(2) Nothing in this Act shall enlarge or diminish Federal or State title, jurisdiction, or authority with respect to the waters of the State of Alaska, the waters within Glacier Bay National Park and Preserve, or tidal or submerged lands.
 

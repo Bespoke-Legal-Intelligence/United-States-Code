@@ -14,11 +14,19 @@ The Council may secure directly from any Federal agency such information as may 
 
 #### (d) Donations
 
-The Council may accept, use, and dispose of gifts or donations of services or property.
+The Council may accept, use, and dispose of gifts or donations of services or property, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Council.
 
 #### (e) Mails
 
 The Council may use the United States mails in the same manner and under the same conditions as other Federal agencies.
 
-(Pub. L. 100–77, title II, §205, July 22, 1987, 101 Stat. 488.)
+(Pub. L. 100–77, title II, §205, July 22, 1987, 101 Stat. 488; Pub. L. 111–22, div. B, §1004(a)(5), May 20, 2009, 123 Stat. 1668.)
+
+#### Amendments
+
+2009—Subsec. (d). Pub. L. 111–22 substituted “property, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Council.” for “property.”
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–22 effective on, and applicable beginning on, May 20, 2009, see section 1004(b) of Pub. L. 111–22, set out as a note under section 11311 of this title.
 

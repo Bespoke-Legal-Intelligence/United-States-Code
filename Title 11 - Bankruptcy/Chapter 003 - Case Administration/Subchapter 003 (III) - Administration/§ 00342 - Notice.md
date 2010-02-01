@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) all information supplied by a debtor in connection with a case under this title is subject to examination by the Attorney General.
 
-(c)(1) If notice is required to be given by the debtor to a creditor under this title, any rule,any applicable law, or any order of the court, such notice shall contain the name, address, and last 4 digits of the taxpayer identification number of the debtor. If the notice concerns an amendment that adds a creditor to the schedules of assets and liabilities, the debtor shall include the full taxpayer identification number in the notice sent to that creditor, but the debtor shall include only the last 4 digits of the taxpayer identification number in the copy of the notice filed with the court.
+(c)(1) If notice is required to be given by the debtor to a creditor under this title, any rule, any applicable law, or any order of the court, such notice shall contain the name, address, and last 4 digits of the taxpayer identification number of the debtor. If the notice concerns an amendment that adds a creditor to the schedules of assets and liabilities, the debtor shall include the full taxpayer identification number in the notice sent to that creditor, but the debtor shall include only the last 4 digits of the taxpayer identification number in the copy of the notice filed with the court.
 
 (2)(A) If, within the 90 days before the commencement of a voluntary case, a creditor supplies the debtor in at least 2 communications sent to the debtor with the current account number of the debtor and the address at which such creditor requests to receive correspondence, then any notice required by this title to be sent by the debtor to such creditor shall be sent to such address and shall include such account number.
 
@@ -26,7 +26,7 @@
 
 (e)(1) In a case under chapter 7 or 13 of this title of a debtor who is an individual, a creditor at any time may both file with the court and serve on the debtor a notice of address to be used to provide notice in such case to such creditor.
 
-(2) Any notice in such case required to be provided to such creditor by the debtor or the court later than 5 days after the court and the debtor receive such creditor's notice of address, shall be provided to such address.
+(2) Any notice in such case required to be provided to such creditor by the debtor or the court later than 7 days after the court and the debtor receive such creditor's notice of address, shall be provided to such address.
 
 (f)(1) An entity may file with any bankruptcy court a notice of address to be used by all the bankruptcy courts or by particular bankruptcy courts, as so specified by such entity at the time such notice is filed, to provide notice to such entity in all cases under chapters 7 and 13 pending in the courts with respect to which such notice is filed, in which such entity is a creditor.
 
@@ -38,7 +38,7 @@
 
 (2) A monetary penalty may not be imposed on a creditor for a violation of a stay in effect under section 362(a) (including a monetary penalty imposed under section 362(k)) or for failure to comply with section 542 or 543 unless the conduct that is the basis of such violation or of such failure occurs after such creditor receives notice effective under this section of the order for relief.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2565; Pub. L. 98–353, title III, §§302, 435, July 10, 1984, 98 Stat. 352, 370; Pub. L. 103–394, title II, §225, Oct. 22, 1994, 108 Stat. 4131; Pub. L. 109–8, title I, §§102(d), 104, title II, §234(b), title III, §315(a), Apr. 20, 2005, 119 Stat. 33, 35, 75, 88.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2565; Pub. L. 98–353, title III, §§302, 435, July 10, 1984, 98 Stat. 352, 370; Pub. L. 103–394, title II, §225, Oct. 22, 1994, 108 Stat. 4131; Pub. L. 109–8, title I, §§102(d), 104, title II, §234(b), title III, §315(a), Apr. 20, 2005, 119 Stat. 33, 35, 75, 88; Pub. L. 111–16, §2(4), May 7, 2009, 123 Stat. 1607.)
 
 #### Historical and Revision Notes
 
@@ -55,6 +55,8 @@ Subsection (a) of section 342 requires the clerk of the bankruptcy court to give
 Subsections (b) and (c) \[enacted as section 549(c)\] are derived from section 21g of the Bankruptcy Act \[section 44(g) of former title 11\]. They specify that the trustee may file notice of the commencement of the case in land recording offices in order to give notice of the pendency of the case to potential transferees of the debtor's real property. Such filing is unnecessary in the county in which the bankruptcy case is commenced. If notice is properly filed, a subsequent purchaser of the property will not be a bona fide purchaser. Otherwise, a purchaser, including a purchaser at a judicial sale, that has no knowledge of the case, is not prevented from obtaining the status of a bona fide purchaser by the mere commencement of the case. “County” is defined in title 1 of the United States Code to include other political subdivisions where counties are not used.
 
 #### Amendments
+
+2009—Subsec. (e)(2). Pub. L. 111–16 substituted “7 days” for “5 days”.
 
 2005—Subsec. (b). Pub. L. 109–8, §104, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Prior to the commencement of a case under this title by an individual whose debts are primarily consumer debts, the clerk shall give written notice to such individual that indicates each chapter of this title under which such individual may proceed.”
 
@@ -73,6 +75,10 @@ Subsecs. (e) to (g). Pub. L. 109–8, §315(a)(2), added subsecs. (e) to (g).
 Pub. L. 98–353, §302(1), designated existing provisions as subsec. (a).
 
 Subsec. (b). Pub. L. 98–353, §302(2), added subsec. (b).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 111–16, set out as a note under section 109 of this title.
 
 #### Effective Date of 2005 Amendment
 

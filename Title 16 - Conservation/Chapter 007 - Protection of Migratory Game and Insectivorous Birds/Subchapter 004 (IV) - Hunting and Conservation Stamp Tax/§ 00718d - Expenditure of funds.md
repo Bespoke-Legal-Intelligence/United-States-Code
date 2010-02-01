@@ -36,7 +36,7 @@ All funds received into the fund are appropriated for the following purposes, to
 
 &emsp;The Secretary shall include in each annual report of the Commission under section 715b <sup>1</sup> of this title a description of activities conducted under this subsection in the year covered by the report.
 
-(Mar. 16, 1934, ch. 71, §4, 48 Stat. 451; June 15, 1935, ch. 261, title I, §§3, 4, 49 Stat. 379, 380; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Aug. 12, 1949, ch. 421, §2, 63 Stat. 600; Oct. 20, 1951, ch. 520, 65 Stat. 451; Pub.L. 85–585, §§2, 3, Aug. 1, 1958, 72 Stat. 486, 487; Pub. L. 89–669, §6, Oct. 15, 1966, 80 Stat. 929; Pub. L. 92–214, §2, Dec. 22, 1971, 85 Stat. 777; Pub. L. 94–215, §3(d), Feb. 17, 1976, 90 Stat. 190; Pub. L. 105–269, §2, Oct. 19, 1998, 112 Stat. 2381; Pub. L. 109–266, §10(e), Aug. 3, 2006, 120 Stat. 676.)
+(Mar. 16, 1934, ch. 71, §4, 48 Stat. 451; June 15, 1935, ch. 261, title I, §§3, 4, 49 Stat. 379, 380; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Aug. 12, 1949, ch. 421, §2, 63 Stat. 600; Oct. 20, 1951, ch. 520, 65 Stat. 451; Pub. L. 85–585, §§2, 3, Aug. 1, 1958, 72 Stat. 486, 487; Pub. L. 89–669, §6, Oct. 15, 1966, 80 Stat. 929; Pub. L. 92–214, §2, Dec. 22, 1971, 85 Stat. 777; Pub. L. 94–215, §3(d), Feb. 17, 1976, 90 Stat. 190; Pub. L. 105–269, §2, Oct. 19, 1998, 112 Stat. 2381; Pub. L. 109–266, §10(e), Aug. 3, 2006, 120 Stat. 676.)
 
 #### References in Text
 

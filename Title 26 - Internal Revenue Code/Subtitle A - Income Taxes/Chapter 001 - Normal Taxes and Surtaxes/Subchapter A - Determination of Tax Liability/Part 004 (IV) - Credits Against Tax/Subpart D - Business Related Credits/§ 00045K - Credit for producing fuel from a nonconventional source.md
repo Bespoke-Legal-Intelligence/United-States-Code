@@ -324,7 +324,7 @@ Subsec. (d)(5), (6). Pub. L. 101–508, §11816(b)(3), (4), redesignated par. (6
 
 Subsec. (d)(7) to (9). Pub. L. 101–508, §11816(b)(3), redesignated pars. (7) to (9) as (6) to (8), respectively.
 
-Subsec. (f). Pub. L. 101–508, §11816(b)(5), amended subsec. (f) generally, redesignating former par. (1) as subsec. (f), making minor changes in phraseology, substituting par. (2) for former par. (1)(B) which read as follows: “which are sold after December 31, 1979, and before January 1, 2003.”, and striking out former par. (2) which related to special rules applicable to qualified processed wood and solid agricultural byproduct steam.
+Subsec. (f). Pub. L. 101–508, §11816(b)(5), amended subsec. (f) generally, redesignating former par. (1) as subsec. (f), making minor changes in phraseology, substituting par. (2) for former par. (1)(B) which read asfollows: “which are sold after December 31, 1979, and before January 1, 2003.”, and striking out former par. (2) which related to special rules applicable to qualified processed wood and solid agricultural byproduct steam.
 
 Subsec. (f)(1)(A)(i), (ii). Pub. L. 101–508, §11501(a)(1), substituted “1993” for “1991”.
 
@@ -410,13 +410,13 @@ Section 11821(a) of Pub. L. 101–508 provided that: “Except as otherwise prov
 
 Amendment by section 701(c)(3) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 
-Section 1879(c)(2) of Pub. L. 99–514 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 231 of Public Law 96–223 \[see Effective Date note below\].”
+Section 1879(c)(2) of Pub. L. 99–514 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall take effect as if included in the amendments made by section 231 of Public Law 96–223 \[see Effective Date note below\].”
 
 #### Effective Date of 1984 Amendment
 
 Amendment by section 474(h) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
-Amendment by section 612(e)(1) of Pub. L. 98–369 applicable to interest paid or accrued after Dec. 31, 1984,on indebtedness incurred after Dec. 31, 1984, see section 612(g) of Pub. L. 98–369, set out as an Effective Date note under section 25 of this title.
+Amendment by section 612(e)(1) of Pub. L. 98–369 applicable to interest paid or accrued after Dec. 31, 1984, on indebtedness incurred after Dec. 31, 1984, see section 612(g) of Pub. L. 98–369, set out as an Effective Date note under section 25 of this title.
 
 Section 722(d)(3) of Pub. L. 98–369 provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after December 31, 1979.”
 

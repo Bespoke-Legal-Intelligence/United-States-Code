@@ -40,7 +40,7 @@ The Attorney General shall submit to the committees of Congress referred to in s
 
 #### (d) Protection of national security
 
-The Attorney General, in consultation with the Director of National Intelligence, may authorize redactions of materials described in subsection (c) that are provided to the committees of Congress referred to in subsection (a), if such redactions are necessary to protect the national security of the United States and are limited to sensitive sources and methods information or the identities of targets.
+The Attorney General, in consultation with the Director of National Intelligence, may authorize redactions of materials described in subsection (c) that are provided to the committees of Congress referred to in subsection (a), if such redactions are necessary to protect the nationalsecurity of the United States and are limited to sensitive sources and methods information or the identities of targets.
 
 #### (e) Definitions
 
@@ -70,7 +70,7 @@ A prior section 601 of Pub. L. 95–511 was renumbered section 701 and was set o
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1)(E), (F). Pub. L. 110–261, §101(c)(2), added subpars. (E) and (F).
+2008—Subsec. (a)(1)(E), (F). Pub. L. 110–261, §101(c)(2), added subpars. (E) and (F).
 
 Subsec. (a)(5). Pub. L. 110–261, §103(a), substituted “, orders,” for “(not including orders)”.
 

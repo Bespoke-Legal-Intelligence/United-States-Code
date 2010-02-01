@@ -15,6 +15,7 @@
 - [&sect; 01718 - Inspections](%C2%A7%2001718%20-%20Inspections.md)
 - [&sect; 01719 - Civil penalties](%C2%A7%2001719%20-%20Civil%20penalties.md)
 - [&sect; 01720 - Criminal penalties](%C2%A7%2001720%20-%20Criminal%20penalties.md)
+- [&sect; 01720a - Applicability of civil and criminal penalties to various uses of Federal or Indian lands and Outer Continental Shelf](%C2%A7%2001720a%20-%20Applicability%20of%20civil%20and%20criminal%20penalties%20to%20various%20uses%20of%20Federal%20or%20Indian%20lands%20and%20Outer%20Continental%20Shelf.md)
 - [&sect; 01721 - Royalty terms and conditions, interest, and penalties](%C2%A7%2001721%20-%20Royalty%20terms%20and%20conditions%2C%20interest%2C%20and%20penalties.md)
 - [&sect; 01721a - Adjustments and refunds](%C2%A7%2001721a%20-%20Adjustments%20and%20refunds.md)
 - [&sect; 01722 - Injunction and specific enforcement authority](%C2%A7%2001722%20-%20Injunction%20and%20specific%20enforcement%20authority.md)

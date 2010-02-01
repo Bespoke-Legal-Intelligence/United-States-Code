@@ -62,7 +62,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (1) In general
 
-&emsp;Regulations under subsections (b) and (c) of this section shall include appropriate safeguard and security requirements for personspossessing, using, or transferring a listed agent or toxin commensurate with the risk such agent or toxin poses to animal and plant health, and animal and plant products (including the risk of use in domestic or international terrorism). The Secretary shall establish such requirements in collaboration with the Secretary of Homeland Security and the Attorney General, and shall ensure compliance with such requirements as part of the registration system under such regulations.
+&emsp;Regulations under subsections (b) and (c) of this section shall include appropriate safeguard and security requirements for persons possessing, using, or transferring a listed agent or toxin commensurate with the risk such agent or toxin poses to animal and plant health, and animal and plant products (including the risk of use in domestic or international terrorism). The Secretary shall establish such requirements in collaboration with the Secretary of Homeland Security and the Attorney General, and shall ensure compliance with such requirements as part of the registration system under such regulations.
 
 #### (2) Limiting access to listed agents and toxins
 
@@ -76,7 +76,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 &emsp;&emsp;(ii) in the case of listed agents and toxins that are overlap agents—
 
-&emsp;&emsp;&emsp;(I) deny access to such agents and toxins by individuals whom the Attorney General has identified as within any category referred to in paragraph (3)(B)(i); and
+&emsp;&emsp;&emsp;(I) deny access to such agents and toxins by individuals whom the Attorney Generalhas identified as within any category referred to in paragraph (3)(B)(i); and
 
 &emsp;&emsp;&emsp;(II) limit or deny access to such agents and toxins by individuals whom the Attorney General has identified as within any category under paragraph (3)(B)(ii), if limiting or denying such access by the individuals involved is determined appropriate by the Secretary, in consultation with the Attorney General.
 
@@ -124,7 +124,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (B) Other persons
 
-&emsp;&emsp;Regulations under subsections (b) and (c) of this section shall provide that, in determining whether to deny or revoke registration by a person other than an individual, the Secretary shall submit the name of suchperson to the Attorney General, who shall use criminal, immigration, national security, and other electronic databases available to the Federal Government, as appropriate for the purpose of promptly notifying the Secretary whether the person, or, where relevant, the individual who owns or controls such person, is within any of the categories described in section 175b(d)(1) of title 18 (relating to restricted persons), or is reasonably suspected by any Federal law enforcement or intelligence agency of being within any category specified in paragraph (3)(B)(ii) (as applied to persons, including individuals). Such regulations shall provide that a person who seeks to register under either of such subsections is subject to the same processes described in paragraphs (2) and (4) as apply to names and other identifying information submitted to the Attorney General under paragraph (2)(B). Paragraph (5) does not apply for purposes of this subparagraph. The Secretary may exempt Federal, State, or local governmental agencies from the requirements of this subparagraph.
+&emsp;&emsp;Regulations under subsections (b) and (c) of this section shall provide that, in determining whether to deny or revoke registration by a person other than an individual, the Secretary shall submit the name of such person to the Attorney General, who shall use criminal, immigration, national security, and other electronic databases available to the Federal Government, as appropriate for the purpose of promptly notifying the Secretary whether the person, or, where relevant, the individual who owns or controls such person, is within any of the categories described in section 175b(d)(1) of title 18 (relating to restricted persons), or is reasonably suspected by any Federal law enforcement or intelligence agency of being within any category specified in paragraph (3)(B)(ii) (as applied to persons, including individuals). Such regulations shall provide that a person who seeks to register under either of such subsections is subject to the same processes described in paragraphs (2) and (4) as apply to names and other identifying information submitted to the Attorney General under paragraph (2)(B). Paragraph (5) does not apply for purposes of this subparagraph. The Secretary may exempt Federal, State, or local governmental agencies from the requirements of this subparagraph.
 
 #### (7) Review
 
@@ -342,7 +342,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### References in Text
 
-Section 262a(a)(1) of title 42, referred to in subsec. (g)(1)(A)(ii), was in the original “section 315A(a)(1) of the Public Health Service Act”, and was translated as meaning section 351A(a)(1) of that Act to reflect the probable intent of Congress, because the Public Health Service Act does not contain a section 315A and section 351A refers to a list of biological agents and toxins.
+Section 262a(a)(1) of title 42, referred to in subsec. (g)(1)(A)(ii), was in the original “section 315A(a)(1) of the Public Health Service Act”, and was translated as meaning section 351A(a)(1) of that Act to reflect the probable intent of Congress, because the Public HealthService Act does not contain a section 315A and section 351A refers to a list of biological agents and toxins.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(1)(C)(ii)(I), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 

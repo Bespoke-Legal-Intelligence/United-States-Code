@@ -4,25 +4,25 @@
 
 #### (1) Services
 
-#### (A) Volunteers
+#### (A) Organizations and individuals
 
-&emsp;&emsp;Notwithstanding section 1342 of title 31, the Corporation may solicit and accept the voluntary services of individuals to assist the Corporation in carrying out the duties of the Corporation under the national service laws, and may provide to such individuals the travel expenses described in section 12651b(d) of this title.
+&emsp;&emsp;Notwithstanding section 1342 of title 31, the Corporation may solicit and accept the services of organizations and individuals (other than participants) to assist the Corporation in carrying out the duties of the Corporation under the national service laws, and may provide to such individuals the travel expenses described in section 12651b(d) of this title.
 
 #### (B) Limitation
 
-&emsp;&emsp;Such a volunteer shall not be considered to be a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits, except that—
+&emsp;&emsp;A person who provides assistance, either individually or as a member of an organization, in accordance with subparagraph (A) shall not be considered to be a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits, except that—
 
-&emsp;&emsp;&emsp;(i) for the purposes of the tort claims provisions of chapter 171 of title 28, a volunteer under this division shall be considered to be a Federal employee;
+&emsp;&emsp;&emsp;(i) for the purposes of the tort claims provisions of chapter 171 of title 28, such a person shall be considered to be a Federal employee;
 
-&emsp;&emsp;&emsp;(ii) for the purposes of subchapter I of chapter 81 of title 5 relating to compensation to Federal employees for work injuries, volunteers under this division shall be considered to be employees, as defined in section 8101(1)(B) of title 5 and the provisions of such subchapter shall apply; and
+&emsp;&emsp;&emsp;(ii) for the purposes of subchapter I of chapter 81 of title 5 relating to compensation to Federal employees for work injuries, such persons shall be considered to be employees, as defined in section 8101(1)(B) of title 5 and the provisions of such subchapter shall apply; and
 
-&emsp;&emsp;&emsp;(iii) for purposes of the provisions of chapter 11 of part I of title 18, such a volunteer (to whom such provisions would not otherwise apply except for this subsection) shall be a special Government employee.
+&emsp;&emsp;&emsp;(iii) for purposes of the provisions of chapter 11 of part I of title 18, such a person (to whom such provisions would not otherwise apply except for this subsection) shall be a special Government employee.
 
 #### (C) Inherently governmental function
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Such a volunteer shall not carry out an inherently governmental function.
+&emsp;&emsp;&emsp;Such a person shall not carry out an inherently governmental function.
 
 #### (ii) Regulations
 
@@ -52,11 +52,7 @@
 
 #### (D) Disposition
 
-&emsp;&emsp;Upon completion of the use by the Corporation of any property accepted pursuant to subparagraph (A) (other than money or monetary proceeds from sales of property so accepted), such completion shall be reported to the General Services Administration and such property shall be disposed of in accordance with title II of the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
-
-#### (3) Volunteer
-
-&emsp;As used in this subsection, the term “volunteer” does not include a participant.
+&emsp;&emsp;Upon completion of the use by the Corporation of any property accepted pursuantto subparagraph (A) (other than money or monetary proceeds from sales of property so accepted), such completion shall be reported to the General Services Administration and such property shall be disposed of in accordance with title II of the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
 
 #### (b) Contracts
 
@@ -66,15 +62,33 @@ Subject to the Federal Property and Administrative Services Act of 1949,<sup>1</
 
 Appropriate circulars of the Office of Management and Budget shall apply to the Corporation.
 
-(Pub. L. 101–610, title I, §196, as added Pub. L. 103–82, title II, §§202(a), 203(a)(1)(B), Sept. 21, 1993, 107 Stat. 885, 891.)
+(Pub. L. 101–610, title I, §196, as added Pub. L. 103–82, title II, §§202(a), 203(a)(1)(B), Sept. 21, 1993, 107 Stat. 885, 891; amended Pub. L. 111–13, title I, §1707, Apr. 21, 2009, 123 Stat. 1548.)
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsecs. (a)(2)(D) and (b), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works. Title II of the Act, which was classified principally to subchapter II (§§481, 483, 484, 485, 486, 487 to 490, 491, 492) of chapter 10 and section 758 of former Title 40, was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304, the first section of which enacted Title 40. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsecs. (a)(2)(D) and (b), is act June 30, 1949, ch. 288, 63 Stat. 377. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works. Title II of the Act, which was classified principally to subchapter II (§§481, 483, 484, 485, 486, 487 to 490, 491, 492) of chapter 10 and section 758 of former Title 40, was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304, the first section of which enacted Title 40. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
+2009—Subsec. (a)(1)(A). Pub. L. 111–13, §1707(1)(A), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Notwithstanding section 1342 of title 31, the Corporation may solicit and accept the voluntary services of individuals to assist the Corporation in carrying out the duties of the Corporation under the national service laws, and may provide to such individuals the travel expenses described in section 12651b(d) of this title.”
+
+Subsec. (a)(1)(B). Pub. L. 111–13, §1707(1)(B)(i), substituted “A person who provides assistance, either individually or as a member of an organization, in accordance with subparagraph (A)” for “Such a volunteer” in introductory provisions.
+
+Subsec. (a)(1)(B)(i). Pub. L. 111–13, §1707(1)(B)(ii), substituted “such a person” for “a volunteer under this division”.
+
+Subsec. (a)(1)(B)(ii). Pub. L. 111–13, §1707(1)(B)(iii), substituted “such persons” for “volunteers under this division”.
+
+Subsec. (a)(1)(B)(iii). Pub. L. 111–13, §1707(1)(B)(iv), substituted “such a person” for “such a volunteer”.
+
+Subsec. (a)(1)(C)(i). Pub. L. 111–13, §1707(1)(C), substituted “Such a person” for “Such a volunteer”.
+
+Subsec. (a)(3). Pub. L. 111–13, §1707(2), struck out par. (3). Text read as follows: “As used in this subsection, the term ‘volunteer’ does not include a participant.”
+
 1993—Subsecs. (a)(1)(A), (2)(A), (b). Pub. L. 103–82, §203(a)(1)(B), which directed amendment of section 196(a) and (b) of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter”, was executed to subsecs. (a)(1)(A), (2)(A) and (b) of this section, which is section 196 of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 
 #### Effective Date of 1993 Amendment
 

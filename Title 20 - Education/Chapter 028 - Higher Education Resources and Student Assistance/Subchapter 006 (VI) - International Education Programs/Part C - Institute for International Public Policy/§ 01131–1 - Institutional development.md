@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Institute shall award grants, from amounts available to the Institute for each fiscal year, to historically Black colleges and universities, Hispanic-serving institutions, tribally controlled colleges or universities, and minority institutions, to enable such colleges, universities, and institutions to strengthen international affairs, international business, and foreign language study programs, including the teaching of foreign languages, at such colleges, universities, and institutions, respectively, which may include collaboration with institutions of higher education that receive funding under this subchapter <sup>1</sup>
+The Institute shall award grants, from amounts available to the Institute for each fiscal year, to historically Black colleges and universities, Hispanic-serving institutions, tribally controlled colleges or universities, and minority institutions, to enable such colleges, universities, and institutions to strengthen international affairs, international business, and foreign language study programs, including the teaching of foreign languages, at such colleges, universities, and institutions, respectively, which may include collaboration with institutions of higher education that receive funding under this subchapter.
 
 #### (b) Application
 
@@ -16,7 +16,7 @@ In this section—
 
 &emsp;(2) the term “minority institution” has the meaning given the term in section 1067k of this title.
 
-(Pub. L. 89–329, title VI, §622, as added Pub. L. 105–244, title VI, §603(b)(2), Oct. 7, 1998, 112 Stat. 1784; amended Pub. L. 110–315, title VI, §613, Aug. 14, 2008, 122 Stat. 3340.)
+(Pub. L. 89–329, title VI, §622, as added Pub. L. 105–244, title VI, §603(b)(2), Oct. 7, 1998, 112 Stat. 1784; amended Pub. L. 110–315, title VI, §613, Aug. 14, 2008, 122 Stat. 3340; Pub. L. 111–39, title VI, §601(a)(2), July 1, 2009, 123 Stat. 1954.)
 
 #### Prior Provisions
 
@@ -28,13 +28,17 @@ Another prior section 622 of Pub. L. 89–329, title VI, Nov. 8, 1965, 79 Stat. 
 
 #### Amendments
 
+2009—Subsec. (a). Pub. L. 111–39 inserted period at end.
+
 2008—Subsec. (a). Pub. L. 110–315, §613(1), substituted “tribally controlled colleges or universities” for “Tribally Controlled Colleges or Universities” and “international affairs, international business, and foreign language study programs, including the teaching of foreign languages, at such colleges, universities, and institutions, respectively, which may include collaboration with institutions of higher education that receive funding under this subchapter” for “international affairs programs.”
 
 Subsec. (c)(1) to (4). Pub. L. 110–315, §613(2), redesignated pars. (2) and (4) as (1) and (2), respectively, and struck out former pars. (1) and (3), which defined “historically Black college and university” and “Tribally Controlled College or University”, respectively.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+
 #### Effective Date
 
 Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

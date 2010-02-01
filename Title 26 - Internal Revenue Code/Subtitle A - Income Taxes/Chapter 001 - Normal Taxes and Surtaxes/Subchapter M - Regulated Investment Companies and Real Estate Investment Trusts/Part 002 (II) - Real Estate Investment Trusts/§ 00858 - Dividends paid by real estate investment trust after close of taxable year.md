@@ -16,7 +16,7 @@ Except as provided in section 857(b)(8), amounts to which subsection (a) applies
 
 #### (c) Notice to shareholders
 
-In the case of amounts to which subsection (a) applies, any notice to shareholders or holders of beneficial interests required under this part with respect to such amounts shall be made not later than 30 days after the close of the taxable year in which the distribution is made (ormailed to its shareholders or holders of beneficial interests with its annual report for the taxable year).
+In the case of amounts to which subsection (a) applies, any notice to shareholders or holders of beneficial interests required under this part with respect to such amounts shall be made not later than 30 days after the close of the taxable year in which the distribution is made (or mailed to its shareholders or holders of beneficial interests with its annual report for the taxable year).
 
 (Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1008; amended Pub. L. 94–455, title XVI, §§1604(h), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1752, 1834; Pub. L. 99–514, title VI, §§665(b)(2), 668(b)(1)(B), Oct. 22, 1986, 100 Stat. 2304, 2307; Pub. L. 100–647, title I, §1018(u)(27), Nov. 10, 1988, 102 Stat. 3591.)
 

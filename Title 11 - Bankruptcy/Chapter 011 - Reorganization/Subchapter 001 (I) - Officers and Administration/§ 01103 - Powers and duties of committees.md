@@ -2,7 +2,7 @@
 
 (a) At a scheduled meeting of a committee appointed under section 1102 of this title, at which a majority of the members of such committee are present, and with the court's approval, such committee may select and authorize the employment by such committee of one or more attorneys, accountants, or other agents, to represent or perform services for such committee.
 
-(b) An attorney or accountant employed to represent a committee appointed under section 1102 of this title may not, while employed by such committee, represent any other entity having an adverse interest in connection with the case. Representation of one or more creditors of the same class as represented by the committee shall not per se constitute the representation of an adverse interest.
+(b) An attorney or accountant employed to represent a committee appointed under section 1102 of this title may not, while employed by such committee, represent any other entity having an adverse interest in connection with the case. Representation of one or more creditors ofthe same class as represented by the committee shall not per se constitute the representation of an adverse interest.
 
 (c) A committee appointed under section 1102 of this title may—
 
@@ -42,7 +42,7 @@ Subsection (d) requires the trustee and each committee to meet as soon as practi
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–353, §§324, 500(a), substituted “An attorney or accountant” for “A person”,substituted “entity having an adverse interest” for “entity”, and inserted provision that representation of one or more creditors of the same class as represented by the committee shall not per se constitute the representation of an adverse interest.
+1984—Subsec. (b). Pub. L. 98–353, §§324, 500(a), substituted “An attorney or accountant” for “A person”, substituted “entity having an adverse interest” for “entity”, and inserted provision that representation of one or more creditors of the same class as represented by the committee shall not per se constitute the representation of an adverse interest.
 
 Subsec. (c)(3). Pub. L. 98–353, §500(b)(1), substituted “determinations” for “recommendations”, and “acceptances or rejections” for “acceptances”.
 

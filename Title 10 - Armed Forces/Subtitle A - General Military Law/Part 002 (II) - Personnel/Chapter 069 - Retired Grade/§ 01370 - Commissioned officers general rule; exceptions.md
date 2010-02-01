@@ -64,7 +64,7 @@ Reserve Officers.—(1) Unless entitled to a higher grade, or to credit for sati
 
 (F) A person covered by subparagraph (A) who has completed at least six months of satisfactory service in a grade above colonel or (in the case of the Navy) captain and, while serving in an active status in such grade, is involuntarily transferred (other than for cause) from active status may be credited with satisfactory service in the grade in which serving at the time of such transfer, notwithstanding failure of the person to complete three years of service in that grade.
 
-(4) A person whose length of service in the highest grade held does not meet the service in grade requirements specified in this subsection shall be credited with satisfactory service in the next lower grade in which that person served satisfactorily (as determined by the Secretary of the military department concerned) for not less than six months.
+(4) A person whose length of service in the highest grade held does not meet the service in grade requirements specified in this subsection shall be credited with satisfactory service in thenext lower grade in which that person served satisfactorily (as determined by the Secretary of the military department concerned) for not less than six months.
 
 (5)(A) The Secretary of Defense may authorize the Secretary of a military department to reduce the 3-year period required by paragraph (3)(A) to a period not less than two years.
 

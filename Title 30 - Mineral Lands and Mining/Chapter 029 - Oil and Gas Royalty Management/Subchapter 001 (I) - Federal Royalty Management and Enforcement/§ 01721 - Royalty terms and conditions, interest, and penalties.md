@@ -2,7 +2,7 @@
 
 #### (a) Charge on late royalty payment or royalty payment deficiency
 
-In the case of oil and gas leases where royalty payments are not received by the Secretary on the date that such payments are due, or are less than the amount due, the Secretary shall charge interest on such late payments or underpayments at the rate applicable under section 6621 of title 26. In the case of an underpayment or partial payment, interest shall be computed and charged only on the amount of the deficiency and not on the total amount due.
+In the case of oil and gas leases where royalty payments are not received by the Secretary on the date that such payments are due, or are lessthan the amount due, the Secretary shall charge interest on such late payments or underpayments at the rate applicable under section 6621 of title 26. In the case of an underpayment or partial payment, interest shall be computed and charged only on the amount of the deficiency and not on the total amount due.
 
 #### (b) Charge on late payment made by Secretary to States
 
@@ -10,7 +10,7 @@ Any payment made by the Secretary to a State under section 191 of this title and
 
 #### (c) Deposit in royalty accounts of charges on royalties due and owing Indians
 
-All interest charges collected under this chapter or under other applicable laws because ofnonpayment, late payment or underpayment of royalties due and owing an Indian tribe or an Indian allottee shall be deposited to the same account as the royalty with respect to which such interest is paid.
+All interest charges collected under this chapter or under other applicable laws because of nonpayment, late payment or underpayment of royalties due and owing an Indian tribe or an Indian allottee shall be deposited to the same account as the royalty with respect to which such interest is paid.
 
 #### (d) Charge on late deposit of royalty fund to an Indian account
 
@@ -48,7 +48,7 @@ A lessee or its designee may make a payment for the approximate amount of royalt
 
 &emsp;(C) a lessee or its designee of a lease that is not contained in a unit or communitization agreement shall report and pay royalties on oil and gas production for each production month based on the actual volume of production sold by or on behalf of that lessee.
 
-(2) This subsection applies only to requirements for reporting and paying royalties. Nothing in this subsection is intended to alter a lessee's liability for royalties on oil or gas production based on the share of production allocatedto the lease in accordance with the terms of the lease, a unit or communitization agreement, or any other agreement.
+(2) This subsection applies only to requirements for reporting and paying royalties. Nothing in this subsection is intended to alter a lessee's liability for royalties on oil or gas production based on the share of production allocated to the lease in accordance with the terms of the lease, a unit or communitization agreement, or any other agreement.
 
 (3) For any unit or communitization agreement if all lessees contractually agree to an alternative method of royalty reporting and payment, the lessees may submit such alternative method to the Secretary or the delegated State for approval and make payments in accordance with such approved alternative method so long as such alternative method does not reduce the amount of the royalty obligation.
 

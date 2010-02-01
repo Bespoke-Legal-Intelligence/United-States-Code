@@ -54,7 +54,7 @@ For the purposes of this section, the term “benefits” means—
 
 #### (e) Effect of section on annuity
 
-Nothing in this section shall be construed to impair, reduce, or otherwise affect the annuity or the entitlement to an annuity of a participant or former participant under this subchapter.
+Nothing in this section shall be construed to impair, reduce, or otherwise affect the annuityor the entitlement to an annuity of a participant or former participant under this subchapter.
 
 #### (f) Former spouses of United States Information Agency and Agency for International Development employees
 

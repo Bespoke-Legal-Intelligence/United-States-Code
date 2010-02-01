@@ -72,7 +72,7 @@ The following items of gross income shall be treated as income from sources with
 
 #### (b) Taxable income from sources within United States
 
-From the items of gross income specified in subsection (a) as being income from sourceswithin the United States there shall be deducted the expenses, losses, and other deductions properly apportioned or allocated thereto and a ratable part of any expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income. The remainder, if any, shall be included in full as taxable income from sources within the United States. In the case of an individual who does not itemize deductions, an amount equal to the standard deduction shall be considered a deduction which cannot definitely be allocated to some item or class of gross income.
+From the items of gross income specified in subsection (a) as being income from sources within the United States there shall be deducted the expenses, losses, and other deductions properly apportioned or allocated thereto and a ratable part of any expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income. The remainder, if any, shall be included in full as taxable income from sources within the United States. In the case of an individual who does not itemize deductions, an amount equal to the standard deduction shall be considered a deduction which cannot definitely be allocated to some item or class of gross income.
 
 #### (c) Foreign business requirements
 
@@ -116,7 +116,7 @@ From the items of gross income specified in subsection (a) as being income from 
 
 #### (d) Special rule for application of subsection (a)(2)(B)
 
-For purposes of subsection (a)(2)(B), if the foreign corporation has no gross income from any source for the 3-year period (or part thereof) specified, the requirements of such subsection shall be applied with respect to the taxable year of such corporation in which the payment of the dividend is made.
+For purposes of subsection (a)(2)(B), if the foreign corporation has no gross income from anysource for the 3-year period (or part thereof) specified, the requirements of such subsection shall be applied with respect to the taxable year of such corporation in which the payment of the dividend is made.
 
 #### (e) Income from certain railroad rolling stock treated as income from sources within the United States
 
@@ -198,7 +198,7 @@ Subsec. (a)(2)(B). Pub. L. 100–203, §10221(d)(4)(A), which directed that subp
 
 1986—Subsec. (a)(1). Pub. L. 99–514, §1241(b)(1)(A), substituted “noncorporate residents or domestic corporations” for “residents, corporate or otherwise,” in introductory text.
 
-Subsec. (a)(1)(A). Pub. L. 99–514, §1214(a)(1), (c)(5)(A), amended subpar. (B) generally and redesignated it as\(A). Prior to amendment and redesignation, former subpar. (B) read as follows: “interest received from a resident alien individual or a domestic corporation, when it is shown to the satisfaction of the Secretary that less than 20 percent of the gross income from all sources of such individual or such corporation has been derived from sources within the United States, as determined under the provisions of this part, for the 3-year period ending with the close of the taxable year of such individual or such corporation preceding the payment of such interest, or for such part of such period as may be applicable,”. Former subpar. (A), which read “interest on amounts described in subsection (c) received by a nonresident alien individual or a foreign corporation, if such interest is not effectively connected with the conduct of a trade or business within the United States,”, was struck out.
+Subsec. (a)(1)(A). Pub. L. 99–514, §1214(a)(1), (c)(5)(A), amended subpar. (B) generally and redesignated it as (A). Prior to amendment and redesignation, former subpar. (B) read as follows: “interest received from a resident alien individual or a domestic corporation, when it is shown to the satisfaction of the Secretary that less than 20 percent of the gross income from all sources of such individual or such corporation has been derived from sources within the United States, as determined under the provisions of this part, for the 3-year period ending with the close of the taxable year of such individual or such corporation preceding the payment of such interest, or for such part of such period as may be applicable,”. Former subpar. (A), which read “interest on amounts described in subsection (c) received by a nonresident alien individual or a foreign corporation, if such interest is not effectively connected with the conduct of a trade or business within the United States,”, was struck out.
 
 Subsec. (a)(1)(B). Pub. L. 99–514, §1241(b)(1)(B), redesignated subpar. (D), as previously redesignated and amended by §1214(c)(5)(A), (B) of Pub. L. 99–514, as (B) and struck out former subpar. (B) \[previously (C)\] which read as follows: “interest received from a foreign corporation (other than interest paid or credited by a domestic branch of a foreign corporation, if such branch is engaged in the commercial banking business), when it is shown to the satisfaction of the Secretary that less than 50 percent of the gross income from all sources of such foreign corporation for the 3-year period ending with the close of its taxable year preceding the payment of such interest (or for such part of such period as the corporation has been in existence) was effectively connected with the conduct of a trade or business within the United States,”.
 
@@ -310,7 +310,7 @@ Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11813(b)(17) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by section 11813(b)(17) of Pub. L. 101–508 applicable to property placed in service after Dec. 31,1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -494,7 +494,7 @@ Certain amendments to apply notwithstanding treaties.—The following amendments
 
 “(3)
 
-Certain amendments not to apply to the extent inconsistent with treaties.—The following amendments made by the Reform Act \[Pub. L. 99–514\] shall not apply to the extent the application of such amendments would be contrary to any treaty obligation of the United States in effect on the date of the enactment of the Reform Act \[Oct. 22, 1986\]:
+Certain amendments not to apply to the extent inconsistent with treaties.—The followingamendments made by the Reform Act \[Pub. L. 99–514\] shall not apply to the extent the application of such amendments would be contrary to any treaty obligation of the United States in effect on the date of the enactment of the Reform Act \[Oct. 22, 1986\]:
 
 &emsp;“(A) The amendments made by section 1211 of the Reform Act \[enacting section 865 of this title and amending this section and sections 862 to 864, 871, 881, and 904 of this title\] to the extent—
 
@@ -522,7 +522,7 @@ Certain amendments not to apply to the extent inconsistent with treaties.—The 
 
 “(4)
 
-Treatment of technical corrections.—For purposes of paragraphs (2) and (3), any amendment madeby this title \[see Tables for classification\] shall be treated as if it had been included in the provision of the Reform Act \[Pub. L. 99–514\] to which such amendment relates.”
+Treatment of technical corrections.—For purposes of paragraphs (2) and (3), any amendment made by this title \[see Tables for classification\] shall be treated as if it had been included in the provision of the Reform Act \[Pub. L. 99–514\] to which such amendment relates.”
 
 #### Qualified Research and Experimental Expenditures; Allocation and Apportionment; Definitions; Special Rules; Effective Dates
 

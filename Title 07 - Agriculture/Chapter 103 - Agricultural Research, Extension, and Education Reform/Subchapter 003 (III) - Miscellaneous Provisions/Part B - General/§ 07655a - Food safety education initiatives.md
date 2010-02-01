@@ -14,7 +14,7 @@ The Secretary may carry out the education program in cooperation with public and
 
 #### (c) Authorization of appropriations
 
-There is authorized to be appropriated to the Secretary to carry out this section $1,000,000 foreach of fiscal years 2008 through 2012, to remain available until expended.
+There is authorized to be appropriated to the Secretary to carry out this section $1,000,000 for each of fiscal years 2008 through 2012, to remain available until expended.
 
 (Pub. L. 110–234, title X, §10105, May 22, 2008, 122 Stat. 1336; Pub. L. 110–246, §4(a), title X, §10105, June 18, 2008, 122 Stat. 1664, 2098.)
 

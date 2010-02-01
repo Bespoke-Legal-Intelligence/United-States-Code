@@ -2,7 +2,7 @@
 
 #### (a) Assessment
 
-In view of the importance of ensuring continuity of Landsat data and in view of the challenges facing the National Polar-Orbiting Operational Environmental Satellite System program, the Administrator shall seek an independent assessment of the costs as well as the technical, cost, and schedule risks associated with incorporating the Landsat instrument on the first National Polar-Orbiting Operational Environmental Satellite System spacecraft compared with undertaking various alternatives, including a dedicated Landsat data “gap-filler” mission followedby the incorporation of the Landsat instrument on the second National Polar-Orbiting Operational Environmental Satellite System spacecraft. The assessment shall also include an evaluation of the budgetary requirements of each of the options under consideration.
+In view of the importance of ensuring continuity of Landsat data and in view of the challenges facing the National Polar-Orbiting Operational Environmental Satellite System program, the Administrator shall seek an independent assessment of the costs as well as the technical, cost, and schedule risks associated with incorporating the Landsat instrument on the first National Polar-Orbiting Operational Environmental Satellite System spacecraft compared with undertaking various alternatives, including a dedicated Landsat data “gap-filler” mission followed by the incorporation of the Landsat instrument on the second National Polar-Orbiting Operational Environmental Satellite System spacecraft. The assessment shall also include an evaluation of the budgetary requirements of each of the options under consideration.
 
 #### (b) Report
 

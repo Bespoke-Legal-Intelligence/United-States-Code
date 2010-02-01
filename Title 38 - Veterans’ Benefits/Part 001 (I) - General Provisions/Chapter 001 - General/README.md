@@ -18,10 +18,13 @@
 | [114\.](%C2%A7%2000114%20-%20Multiyear%20procurement.md) | Multiyear procurement. |
 | [115\.](%C2%A7%2000115%20-%20Acquisition%20of%20real%20property.md) | Acquisition of real property. |
 | [116\.](%C2%A7%2000116%20-%20Reports%20to%20Congress%20cost%20information.md) | Reports to Congress: cost information. |
+| [117\.](%C2%A7%2000117%20-%20Advance%20appropriations%20for%20certain%20medical%20care%20accounts.md) | Advance appropriations for certain medical care accounts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–81, §3(b), Oct. 22, 2009, 123 Stat. 2138, which directed addition of item 117 after item 113, was executed by adding item 117 after item 116 to reflect the probable intent of Congress.
 
 2000—Pub. L. 106–419, title IV, §403(d)(1)(B), Nov. 1, 2000, 114 Stat. 1864, added item 116.
 
@@ -64,3 +67,4 @@
 - [&sect; 00114 - Multiyear procurement](%C2%A7%2000114%20-%20Multiyear%20procurement.md)
 - [&sect; 00115 - Acquisition of real property](%C2%A7%2000115%20-%20Acquisition%20of%20real%20property.md)
 - [&sect; 00116 - Reports to Congress cost information](%C2%A7%2000116%20-%20Reports%20to%20Congress%20cost%20information.md)
+- [&sect; 00117 - Advance appropriations for certain medical care accounts](%C2%A7%2000117%20-%20Advance%20appropriations%20for%20certain%20medical%20care%20accounts.md)

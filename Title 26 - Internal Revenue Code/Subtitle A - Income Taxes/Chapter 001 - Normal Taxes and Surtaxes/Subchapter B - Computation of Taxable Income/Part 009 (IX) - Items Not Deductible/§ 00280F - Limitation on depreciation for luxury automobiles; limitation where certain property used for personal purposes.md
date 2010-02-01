@@ -94,7 +94,7 @@
 
 #### (2) Lessee's deductions reduced
 
-&emsp;For purposes of determining the amount allowable as a deduction under this chapter for rentals or other payments under a lease for a period of 30 days or more of listed property, only the allowable percentage of such payments shall be taken into account.
+&emsp;For purposes of determining the amount allowable as a deduction under this chapter for rentals or other payments under a lease for a period of 30 days or more of listed property,only the allowable percentage of such payments shall be taken into account.
 
 #### (3) Allowable percentage
 
@@ -248,7 +248,7 @@ For purposes of this section—
 
 #### (10) Special rule for property acquired in nonrecognition transactions
 
-&emsp;For purposes of subsection (a)(2) any property acquired in a nonrecognition transactionshall be treated as a single property originally placed in service in the taxable year in which it was placed in service after being so acquired.
+&emsp;For purposes of subsection (a)(2) any property acquired in a nonrecognition transaction shall be treated as a single property originally placed in service in the taxable year in which it was placed in service after being so acquired.
 
 #### (e) Regulations
 
@@ -272,7 +272,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 1990—Pub. L. 101–508, §11813(b)(13)(E), struck out “investment tax credit and” after “Limitation on” in section catchline.
 
-Subsec. (a)(1). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (2) as (1) and struck out former par. (1) “Investment tax credit” which read as follows: “The amount of the credit determined under section 46(a) for any passenger automobile shall not exceed $675.”
+Subsec. (a)(1). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (2) as (1) and struck out former par. (1) “Investment tax credit” which read as follows: “Theamount of the credit determined under section 46(a) for any passenger automobile shall not exceed $675.”
 
 Subsec. (a)(2). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
@@ -364,7 +364,7 @@ Pub. L. 105–34, title IX, §971(b), Aug. 5, 1997, 111 Stat. 897, as amended by
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub.L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -430,7 +430,7 @@ Compliance provisions.—The amendments made by subsection (b) \[amending sectio
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -439,6 +439,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Inflation Adjusted Items for Certain Calendar Years
 
 Provisions relating to inflation adjustment of items in this section for certain calendar years were contained in the following:
+
+2009—Revenue Procedure 2009–24.
 
 2008—Revenue Procedure 2008–22.
 

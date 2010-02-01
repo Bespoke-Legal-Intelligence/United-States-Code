@@ -34,7 +34,7 @@ The following vessels shall not be required to make entry under section 1434 of 
 
 #### Prior Provisions
 
-Provisions somewhat similar to those in par. (1) of this section were contained in R.S. §2791. R.S. §3123 provided that steam-tugs duly enrolled and licensed to engage in the foreign and coasting trade on the northern, northeastern, and northwestern frontiers of the United States, when exclusively employed in towing vessels, should not be required to report and clear at the custom-house but that when employed in towing rafts or other vessels without sale or steam motive-power, not required to be enrolled or licensed they should report and clear in the same manner as other vessels. Both sections were superseded and more closely assimilated to this section by act Sept. 21, 1922, ch. 356, title IV, §441, 42 Stat. 952, and repealed by section 642 thereof. Section 441 of the 1922 act was superseded by section 441 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions somewhat similar to those in par. (1) of this section were contained in R.S. §2791. R.S. §3123 provided that steam-tugs duly enrolled and licensed to engage in the foreign and coasting trade on the northern, northeastern, and northwestern frontiers of the United States, when exclusively employed in towingvessels, should not be required to report and clear at the custom-house but that when employed in towing rafts or other vessels without sale or steam motive-power, not required to be enrolled or licensed they should report and clear in the same manner as other vessels. Both sections were superseded and more closely assimilated to this section by act Sept. 21, 1922, ch. 356, title IV, §441, 42 Stat. 952, and repealed by section 642 thereof. Section 441 of the 1922 act was superseded by section 441 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 
@@ -44,7 +44,7 @@ Provisions somewhat similar to those in par. (1) of this section were contained 
 
 1996—Pars. (1), (2), (4), (5). Pub. L. 104–295 substituted period for semicolon at end of pars. (1), (2), and (4) and substituted period for “; and” at end of par. (5).
 
-1993—Pub. L. 103–182, §655(1), (5), substituted catchline for one which read “Vessels not required to enter”and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The following vessels shall not be required to make entry at the customhouse:”.
+1993—Pub. L. 103–182, §655(1), (5), substituted catchline for one which read “Vessels not required to enter” and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The following vessels shall not be required to make entry at the customhouse:”.
 
 Par. (3). Pub. L. 103–182, §655(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Vessels carrying passengers on excursion from the United States Virgin Islands to the British Virgin Islands and returning, and licensed yachts or undocumented American pleasure vessels not engaged in trade: <i>Provided</i>, That such vessels do not in any way violate the customs or navigation laws of the United States and have not visited any hovering vessel: <i>Provided further</i>, That the master of any such vessel which has on board any article required by law to be entered shall be required to report such article to the appropriate customs officer within twenty-four hours after arrival.”
 

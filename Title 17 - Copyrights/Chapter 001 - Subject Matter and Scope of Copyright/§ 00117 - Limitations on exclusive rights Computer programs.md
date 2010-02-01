@@ -14,7 +14,7 @@ Lease, Sale, or Other Transfer of Additional Copy or Adaptation.—Any exact cop
 
 (c)
 
-Machine Maintenance or Repair.—Notwithstanding the provisions of section 106, it is not an infringement for the owner or lessee of a machine to make or authorize the making of a copy of a computer program if such copy ismade solely by virtue of the activation of a machine that lawfully contains an authorized copy of the computer program, for purposes only of maintenance or repair of that machine, if—
+Machine Maintenance or Repair.—Notwithstanding the provisions of section 106, it is not an infringement for the owner or lessee of a machine to make or authorize the making of a copy of a computer program if such copy is made solely by virtue of the activation of a machine that lawfully contains an authorized copy of the computer program, for purposes only of maintenance or repair of that machine, if—
 
 &emsp;(1) such new copy is used in no other manner and is destroyed immediately after the maintenance or repair is completed; and
 

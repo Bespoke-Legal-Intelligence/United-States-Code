@@ -24,7 +24,7 @@ Authorized Activities.—Activities for which funds may be provided under subsec
 
 (c)
 
-Priority.—The Chairman of the Joint Chiefs of Staff, in considering requests for fundsin the Combating Terrorism Readiness Initiatives Fund, should give priority consideration to emergency or emergent unforeseen high-priority requirements for combating terrorism.
+Priority.—The Chairman of the Joint Chiefs of Staff, in considering requests for funds in the Combating Terrorism Readiness Initiatives Fund, should give priority consideration to emergency or emergent unforeseen high-priority requirements for combating terrorism.
 
 (d)
 

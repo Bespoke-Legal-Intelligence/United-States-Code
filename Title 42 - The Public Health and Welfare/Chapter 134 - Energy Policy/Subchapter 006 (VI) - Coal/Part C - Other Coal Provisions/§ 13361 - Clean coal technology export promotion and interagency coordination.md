@@ -30,7 +30,7 @@ The Secretary, acting through the CCT Subgroup, shall—
 
 &emsp;(4) encourage the training in, and understanding of, clean coal technologies by representatives of foreign companies or countries intending to use coal or clean coal technologies by providing technical or financial support for training programs, workshops, and other educational programs sponsored by United States firms;
 
-&emsp;(5) educate loan officers and other officers of international lending institutions, commercial and energy attache�AE1s of the United States, and such other personnel as the CCT Subgroupconsiders appropriate, for the purposes of providing information about clean coal technologies to foreign governments or potential project sponsors of clean coal technology projects;
+&emsp;(5) educate loan officers and other officers of international lending institutions, commercial and energy attache�AE1s of the United States, and such other personnel as the CCT Subgroup considers appropriate, for the purposes of providing information about clean coal technologies to foreign governments or potential project sponsors of clean coal technology projects;
 
 &emsp;(6) develop policies and practices to be conducted by commercial and energy attache�AE1s of the United States, and such other personnel as the CCT Subgroup considers appropriate, in order to promote the exports of clean coal technologies to those countries interested in or intending to utilize coal resources;
 
@@ -46,7 +46,7 @@ The Secretary, acting through the CCT Subgroup, shall—
 
 #### (e) Data and information
 
-(1) The CCT Subgroup, consistent with other applicable provisions of law, shall ensure the development of a comprehensive data base and information dissemination system, using the National Trade Data Bank and the Commercial Information Management System of the Department of Commerce, relating to the availability of clean coal technologies and the potential need for such technologies, particularly in developing countries and countries making the transition from nonmarket to market economies.
+(1) The CCT Subgroup, consistent with other applicable provisions of law, shall ensure the development of a comprehensive data base and information dissemination system, using the National Trade Data Bank and the Commercial Information Management System of the Department of Commerce, relating to the availability of clean coal technologies and the potential need for such technologies, particularly in developingcountries and countries making the transition from nonmarket to market economies.
 
 (2) The Secretary, acting through the CCT Subgroup, shall assess and prioritize foreign markets that have the most potential for the export of clean coal technologies that are developed, manufactured, or controlled by United States firms. Such assessment shall include—
 

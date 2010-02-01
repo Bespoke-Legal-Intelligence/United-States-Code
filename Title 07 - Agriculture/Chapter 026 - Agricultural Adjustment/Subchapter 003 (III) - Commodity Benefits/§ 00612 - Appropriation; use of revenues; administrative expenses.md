@@ -22,7 +22,7 @@ Subsec. (b). Act Aug. 24, 1935, §3, amended subsec. (b) generally.
 
 #### Validity of Section Affirmed
 
-Act June 3, 1937, §1, affirmed and validated, and reenacted without change the provisions of subsecs. (a) and (c) of this section, except for the amendment to subsec. (a) by section 2 of the act. See note set out under section 601 of this title.
+Act June 3, 1937, §1, affirmed and validated, and reenacted without change the provisions of subsecs. (a) and (c) of this section, except for the amendment to subsec.\(a) by section 2 of the act. See note set out under section 601 of this title.
 
 #### Settlement of Certain Claims and Accounts
 

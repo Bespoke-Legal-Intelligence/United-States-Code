@@ -16,7 +16,11 @@ The Secretary shall carry out this part insofar as is practicable through contra
 
 #### (b) Contract terms
 
-Contracts under this part shall be for not more than 3 years and shall provide not more than 20 percent of the operating budget of the contracting organization in any one year. Within any fiscal year, contracts with any one organization may not be entered into for a total of more than 20 percent of the funds appropriated under this part in that fiscal year.
+Contracts under this part shall be for not more than 3 years and shall provide not more than 20 percent of the operating budget of the contracting organization in any one year. Within any fiscal year, contracts with any one organization may not be entered into for a total of more than 40 percent of the funds appropriated under this part in that fiscal year.
 
-(Pub. L. 101–625, title II, §243, Nov. 28, 1990, 104 Stat. 4118.)
+(Pub. L. 101–625, title II, §243, Nov. 28, 1990, 104 Stat. 4118; Pub. L. 111–8, div. I, title II, §229(3), Mar. 11, 2009, 123 Stat. 978.)
+
+#### Amendments
+
+2009—Subsec. (b). Pub. L. 111–8 substituted “40 percent of the funds” for “20 percent of the funds”.
 

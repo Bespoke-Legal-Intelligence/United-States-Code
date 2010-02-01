@@ -1,6 +1,6 @@
 ### §716. Claims for overpayment of pay and allowances, and travel and transportation allowances
 
-(a) A claim of the United States against a person arising out of an erroneous payment of any pay or allowances made before, on, or after October 2, 1972, or arising out of an erroneous payment of travel and transportation allowances, to or on behalf of a member or former member of the National Guard, the collection of which would be against equity and good conscience and not in the best interest of the United States, may be waived in whole or in part by—
+(a) A claim of the United States against a person arising out of an erroneous payment of any pay or allowances made before, on, or after October 2, 1972, or arising out of an erroneous payment of travel and transportation allowances, to or on behalf of a member or former member ofthe National Guard, the collection of which would be against equity and good conscience and not in the best interest of the United States, may be waived in whole or in part by—
 
 &emsp;(1) the Director of the Office of Management and Budget; or
 
@@ -16,7 +16,7 @@
 
 &emsp;(2) if application for waiver is received in his office after the expiration of five years immediately following the date on which the erroneous payment was discovered.
 
-(c) A person who has repaid to the United States all or part of the amount of a claim, with respect to which a waiver is granted under this section, is entitled, to the extent of the waiver, to refund, by the department concerned at the time of the erroneous payment, of the amount repaid to the United States, if he applies to thatdepartment for that refund within two years following the effective date of the waiver. The Secretary concerned shall pay from current applicable appropriations that refund in accordance with this section.
+(c) A person who has repaid to the United States all or part of the amount of a claim, with respect to which a waiver is granted under this section, is entitled, to the extent of the waiver, to refund, by the department concerned at the time of the erroneous payment, of the amount repaid to the United States, if he applies to that department for that refund within two years following the effective date of the waiver. The Secretary concerned shall pay from current applicable appropriations that refund in accordance with this section.
 
 (d) In the audit and settlement of accounts of any accountable officer or official, full credit shall be given for any amounts with respect to which collection by the United States is waived under this section.
 

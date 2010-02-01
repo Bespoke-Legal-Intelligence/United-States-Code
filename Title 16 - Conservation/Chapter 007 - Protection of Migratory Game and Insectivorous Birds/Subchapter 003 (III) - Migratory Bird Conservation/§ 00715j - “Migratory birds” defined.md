@@ -10,7 +10,7 @@ The Migratory Bird Treaty Act, referred to in text, is act July 3, 1918, ch. 128
 
 #### Amendments
 
-1978—Pub. L. 95–616 defined migratory birds for purposes of the Migratory Bird Treaty Act and to include those defined in the Convention of Mar. 4, 1972, concluded with Government of Japan and the Conventionof Nov. 19, 1976, concluded with Union of Soviet Socialist Republics.
+1978—Pub. L. 95–616 defined migratory birds for purposes of the Migratory Bird Treaty Act and to include those defined in the Convention of Mar. 4, 1972, concluded with Government of Japan and the Convention of Nov. 19, 1976, concluded with Union of Soviet Socialist Republics.
 
 1966—Pub. L. 89–669 inserted “(39 Stat. 1702)” and defined migratory birds to include those defined in the Treaty of Feb. 7, 1936 (50 Stat. 1311) with the United Mexican States.
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) all assets and all liabilities are required to be completely and accurately disclosed in the documents filed to commence the case, and the replacement value of each asset as defined in section 506 must be stated in those documents where requested after reasonable inquiry to establish such value;
 
-&emsp;&emsp;(C) current monthly income, the amounts specified in section 707(b)(2), and, in a caseunder chapter 13 of this title, disposable income (determined in accordance with section 707(b)(2)), are required to be stated after reasonable inquiry; and
+&emsp;&emsp;(C) current monthly income, the amounts specified in section 707(b)(2), and, in a case under chapter 13 of this title, disposable income (determined in accordance with section 707(b)(2)), are required to be stated after reasonable inquiry; and
 
 &emsp;&emsp;(D) information that an assisted person provides during their case may be audited pursuant to this title, and that failure to provide such information may result in dismissal of the case under this title or other sanction, including a criminal sanction.
 
@@ -34,7 +34,7 @@
 
 (c) Except to the extent the debt relief agency provides the required information itself after reasonably diligent inquiry of the assisted person or others so as to obtain such information reasonably accurately for inclusion on the petition, schedules or statement of financial affairs, a debt relief agency providing bankruptcy assistance to an assisted person, to the extent permitted by nonbankruptcy law, shall provide each assisted person at the time required for the notice required under subsection (a)(1) reasonably sufficient information (which shall be provided in a clear and conspicuous writing) to the assisted person on how to provide all the information the assisted person is required to provide under this title pursuant to section 521, including—
 
-&emsp;(1) how to value assets at replacement value, determine current monthly income, the amounts specified in section 707(b)(2) and, in a chapter 13 case, how to determine disposable income in accordance with section 707(b)(2) and related calculations;
+&emsp;(1) how to value assets at replacement value, determine current monthly income, the amounts specified in section 707(b)(2) and, in achapter 13 case, how to determine disposable income in accordance with section 707(b)(2) and related calculations;
 
 &emsp;(2) how to complete the list of creditors, including how to determine what amount is owed and what address for the creditor should be shown; and
 

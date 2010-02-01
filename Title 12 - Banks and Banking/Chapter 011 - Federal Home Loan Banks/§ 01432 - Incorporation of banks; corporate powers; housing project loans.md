@@ -22,7 +22,7 @@ Subsec. (b). Pub. L. 106–102, §606(d)(2), substituted “Federal home loan ba
 
 1989—Subsec. (a). Pub. L. 101–73 substituted “Board” for “board” wherever appearing.
 
-1970—Subsec. (b). Pub. L. 91–609 extended authority to make housing project loans to acquisition, holding, and disposition of loans, or interest therein, having benefit of any guaranty under section 2181 or 2182 of title 22 or such sections as hereafter amended or extended, or of any commitment or agreement for any such guaranty.
+1970—Subsec. (b). Pub. L. 91–609 extended authority to make housing project loans to acquisition, holding, and disposition of loans, or interest therein, having benefit of any guaranty under section 2181 or 2182 of title 22 orsuch sections as hereafter amended or extended, or of any commitment or agreement for any such guaranty.
 
 1968—Pub. L. 90–448 designated existing provisions as subsec. (a) and added subsec. (b).
 

@@ -26,11 +26,11 @@ Section 301, referred to in subsec. (c), is section 301 of Pub. L. 104–201, di
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(2). Pub. L. 105–261 substituted “of the National Security Council” for “established under section 1342”.
+1998—Subsec. (b)(2). Pub. L. 105–261 substituted “of the National Security Council” for “established under section 1342”.
 
 #### Commission To Assess Organization of Federal Government To Combat Proliferation of Weapons of Mass Destruction
 
-Pub. L. 104–293, title VII, subtitle A, Oct. 11, 1996, 110 Stat. 3470, as amended by Pub. L. 105–277, div. A, §101(f)\[title VII, §708\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–390, established the Commission to Assess the Organization of the Federal Government to Combat the Proliferation of Weapons of Mass Destruction, directed the Commission to carry out a thorough study of the organization of the Federal Government, including the elements of the intelligence community, with respect to combatting the proliferation of weapons of mass destruction and, not later than 18 months after Jan. 18, 1998, to submit to Congress a report containing a detailed statement of its findings and conclusions, and provided that the Commission terminate 60 days after the date on which it submitted such report.
+Pub. L. 104–293, title VII, subtitle A, Oct. 11, 1996, 110 Stat. 3470, as amended by Pub. L. 105–277, div. A, §101(f) \[title VII, §708\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–390, established the Commission to Assess the Organization of the Federal Government to Combat the Proliferation of Weapons of Mass Destruction, directed the Commission to carry out a thorough study of the organization of the Federal Government, including the elements of the intelligence community, with respect to combatting the proliferation of weapons of mass destruction and, not later than 18 months after Jan. 18, 1998, to submit to Congress a report containing a detailed statement of its findings and conclusions, and provided that the Commission terminate 60 days after the date on which it submitted such report.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

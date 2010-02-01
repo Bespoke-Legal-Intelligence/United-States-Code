@@ -50,7 +50,7 @@ The Congress declares that the general welfare and security of the United States
 
 It is the purpose of this chapter to carry out and effectuate the policies declared in subsections (a), (b), (c), (d), (e), (f), and (g) of this section.
 
-(Pub. L. 85–568, title I, §102, July 29, 1958, 72 Stat. 426; Pub. L. 94–413, §15(a), (b), Sept. 17, 1976, 90 Stat. 1270; Pub. L. 95–238, title III, §311, Feb. 25, 1978, 92 Stat. 83; Pub. L. 95–401, §7, Sept. 30, 1978, 92 Stat. 860; Pub. L. 98–361, title I, §110, July 16, 1984, 98 Stat. 426; Pub. L. 100–685, title II, §214, Nov. 17, 1988, 102 Stat. 4093; Pub. L. 106–391, title III, §302(a), Oct. 30, 2000, 114 Stat. 1591; Pub. L.109–155, title III, §321(d)(2), Dec. 30, 2005, 119 Stat. 2923.)
+(Pub. L. 85–568, title I, §102, July 29, 1958, 72 Stat. 426; Pub. L. 94–413, §15(a), (b), Sept. 17, 1976, 90 Stat. 1270; Pub. L. 95–238, title III, §311, Feb. 25, 1978, 92 Stat. 83; Pub. L. 95–401, §7, Sept. 30, 1978, 92 Stat. 860; Pub. L. 98–361, title I, §110, July 16, 1984, 98 Stat. 426; Pub. L. 100–685, title II, §214, Nov. 17, 1988, 102 Stat. 4093; Pub. L. 106–391, title III, §302(a), Oct. 30, 2000, 114 Stat. 1591; Pub. L. 109–155, title III, §321(d)(2), Dec. 30, 2005, 119 Stat. 2923.)
 
 #### References in Text
 
@@ -64,7 +64,7 @@ This chapter, referred to in subsec. (h), was in the original “this Act”, me
 
 Subsec. (h). Pub. L. 109–155, §321(d)(2)(A), (C), redesignated subsec. (g) as (h) and substituted “(f), and (g)” for “and (f)”.
 
-2000—Subsecs. (f) to (h). Pub. L. 106–391 redesignated subsecs. (g) and (h) as (f) and (g), respectively, substituted “and (f)” for “(f), and (g)” in subsec. (g), and struck out former subsec. (f) which read as follows: “The Congress declares that the general welfare of the United States requires that the unique competence in scientific and engineering systems of the National Aeronautics and Space Administration also be directed toward the development of advanced automobile propulsion systems. Such development shall be conducted so as to contribute to the achievement of the purposes set forth in section 2701(b) of title 15.”
+2000—Subsecs. (f) to (h). Pub. L. 106–391 redesignated subsecs. (g) and (h) as (f) and (g), respectively, substituted “and (f)” for “(f), and (g)” in subsec. (g), and struck out former subsec. (f) which read as follows: “The Congress declares that the general welfare of theUnited States requires that the unique competence in scientific and engineering systems of the National Aeronautics and Space Administration also be directed toward the development of advanced automobile propulsion systems. Such development shall be conducted so as to contribute to the achievement of the purposes set forth in section 2701(b) of title 15.”
 
 1988—Subsec. (d)(9). Pub. L. 100–685, which directed the amendment of subsec. (c) by adding par. (9), was executed to subsec. (d) to reflect the probable intent of Congress and the redesignation of former subsec. (c) as (d) by Pub. L. 98–361.
 
@@ -220,7 +220,7 @@ Bimonthly Reporting on Russian Status.—Not later than the first day of the fir
 
 “(b)
 
-Decision on Russian Critical Path Items.—The President shall notify Congress within 90 days after the date of the enactment of this Act \[Oct. 30, 2000\] of the decision on whether or not to proceed with permanent replacement of any Russian elements in the critical path \[as defined in section 3 of Pub. L. 106–391, 42 U.S.C. 2452 note\] of the International Space Station or any Russian launch services. Such notification shall include the reasons and justifications for the decision and the costs associated with the decision. Such decision shall include a judgment of when all elements identified in Revision E assembly sequence as of June 1999 will be in orbit and operational. If the President decides to proceed with a permanent replacement for any Russian element in the critical path or any Russian launch services, the President shall notify Congress of the reasons and the justification for the decision toproceed with the permanent replacement and the costs associated with the decision.
+Decision on Russian Critical Path Items.—The President shall notify Congress within 90 days after the date of the enactment of this Act \[Oct. 30, 2000\] of the decision on whether or not to proceed with permanent replacement of any Russian elements in the critical path \[as defined in section 3 of Pub. L. 106–391, 42 U.S.C. 2452 note\] of the International Space Station or any Russian launch services. Such notification shall include the reasons and justifications for the decision and the costs associated with the decision. Such decision shall include a judgment of when all elements identified in Revision E assembly sequence as of June 1999 will be in orbit and operational. If the President decides to proceed with a permanent replacement for any Russian element in the critical path or any Russian launch services, the President shall notify Congress of the reasons and the justification for the decision to proceed with the permanent replacement and the costs associated with the decision.
 
 “(c)
 
@@ -232,7 +232,7 @@ Equitable Utilization.—In the event that any International Partner in the Inte
 
 “(e)
 
-Operation Costs.—The Administrator shall, in a manner consistent with relevant international agreements, seek to reduce the National Aeronautics and Space Administration's share of International Space Station common operating costs, based upon any additional capabilities provided to the International Space Station through the National Aeronautics and Space Administration's Russian Program Assurance activities.
+Operation Costs.—The Administrator shall, in a manner consistent with relevant international agreements, seek to reduce the National Aeronautics and Space Administration's share of International SpaceStation common operating costs, based upon any additional capabilities provided to the International Space Station through the National Aeronautics and Space Administration's Russian Program Assurance activities.
 
 #### “\[SEC. 202. Repealed. Pub. L. 109–155, title II, §207(b), Dec. 30, 2005, 119 Stat. 2916, effective 30 days after Dec. 1, 2006.\]
 
@@ -302,7 +302,7 @@ Establishment of Program.—In order to promote a ‘faster, cheaper, better’ 
 
 “(b)
 
-Awards.—At least 75 percent of the amount appropriated for Technology and Commercialization under section 101(b)(4) \[114 Stat. 1581\] for any fiscal year shall be awarded through broadly distributed announcements of opportunity that solicit proposals from educational institutions, industry, nonprofit institutions, National Aeronautics and Space AdministrationCenters, the Jet Propulsion Laboratory, other Federal agencies, and other interested organizations, and that allow partnerships among any combination of those entities, with evaluation, prioritization, and recommendations made by external peer review panels.
+Awards.—At least 75 percent of the amount appropriated for Technology and Commercialization under section 101(b)(4) \[114 Stat. 1581\] for any fiscal year shall be awarded through broadly distributed announcements of opportunity that solicit proposals from educational institutions, industry, nonprofit institutions, National Aeronautics and Space Administration Centers, the Jet Propulsion Laboratory, other Federal agencies, and other interested organizations, and that allow partnerships among any combination of those entities, with evaluation, prioritization, and recommendations made by external peer review panels.
 
 “(c)
 
@@ -592,7 +592,7 @@ Section 101 of Pub. L. 100–685 provided that: “Congress finds that—
 
 &emsp;“(6) over the next five years the National Aeronautics and Space Administration, hereafter referred to as the ‘Administration’, should pursue leadership in science through an aggressive set of major and moderate missions while maintaining a robust series of cost effective missions that can provide frequent flight opportunities to the scientific community\[;\]
 
-&emsp;“(7) over the next five years the Administration should prepare for the transition to the United States International Space Station of those science and technology programs that can be most efficiently and effectively conducted on that facility;
+&emsp;“(7) over the next five years the Administration should prepare for the transition to the United StatesInternational Space Station of those science and technology programs that can be most efficiently and effectively conducted on that facility;
 
 &emsp;“(8) the Administration should encourage the United States private sector investment in space and, to the maximum extent practicable provide frequent flight opportunities for the development of technologies, processes and products that benefit from the space environment;
 
@@ -780,7 +780,7 @@ Sec. 108. In order to ensure that the development of the space station is part o
 
 “
 
-Sec. 109. (a) It is the sense of the Congress that the launching and servicing of the space station should be accomplished by the most cost-effective use of spacetransportation systems, including the space shuttle and expendable launch vehicles.
+Sec. 109. (a) It is the sense of the Congress that the launching and servicing of the space station should be accomplished by the most cost-effective use of space transportation systems, including the space shuttle and expendable launch vehicles.
 
 “(b) Not later than January 15, 1988, the Administrator shall submit a preliminary report on the cost-effective use of space transportation systems for the launch of space station elements during the development and operation of the space station. The Administrator shall consider—
 
@@ -900,7 +900,7 @@ Section 1. <i>Establishment and Composition of the National Space Council.</i>
 
 (2) The heads of other executive departments and agencies and other senior officials in the Executive Office of the President.
 
-Sec. 2. <i>Functions of the Council</i>. (a) The Council shall advise and assist the President on national space policy and strategy, and perform such other duties as the President may from time to time prescribe.
+Sec. 2. <i>Functions of the Council</i>. (a) The Council shall advise and assist the President on national space policyand strategy, and perform such other duties as the President may from time to time prescribe.
 
 (b) In addition, the Council is directed to:
 

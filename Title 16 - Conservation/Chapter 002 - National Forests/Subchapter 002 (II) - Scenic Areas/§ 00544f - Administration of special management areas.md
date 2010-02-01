@@ -36,7 +36,7 @@ Within three years after November 17, 1986, the Secretary shall develop land use
 
 #### (h) <sup>3</sup> Adoption of special management area land use ordinances
 
-(1) Within sixty days of receipt of the management plan, each county shall submit to the Commission a letter stating that it proposes to adopt a land use ordinance consistent with the management plan. If any county fails to submit a letter as provided in this subsection, or fails to adopt a land use ordinance as provided in this section, the Commission shall carry out the requirements of subsection (<i>l</i>) of this section.
+(1) Within sixty days of receipt of the management plan, each county shall submit to the Commission a letter stating that it proposes to adopt a land use ordinance consistent with the management plan. If any county fails to submit a letter as provided in this subsection, or fails toadopt a land use ordinance as provided in this section, the Commission shall carry out the requirements of subsection (<i>l</i>) of this section.
 
 (2) Within two hundred seventy days of receipt of the management plan, each county shall adopt a special management area land use ordinance consistent with the management plan, and thereafter may adopt an amendment, revision or variance to a land use ordinance at any time. Each county upon adoption of a special management area land use ordinance shall promptly submit the adopted ordinance to the Commission.
 
@@ -74,7 +74,7 @@ Upon receipt of notification of nonconcurrence by the Secretary, the Commission 
 
 &emsp;(A) revise and resubmit the land use ordinance to the Secretary; or
 
-&emsp;(B) by a vote of two-thirds of its membership, including a majority of the members appointed from each State, reject the suggested modifications of the Secretary and adopt a land use ordinance consistent with the provisions of this section and the purposes of sections 544 to 544p of this title.
+&emsp;(B) by a vote of two-thirds of its membership, including a majority of the members appointed from each State, reject the suggested modifications of the Secretary and adopt aland use ordinance consistent with the provisions of this section and the purposes of sections 544 to 544p of this title.
 
 #### (m) Subsequent compliance
 

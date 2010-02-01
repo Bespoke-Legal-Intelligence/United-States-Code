@@ -78,7 +78,7 @@ Persons to whom restrictions apply.—(A) Paragraph (1) shall apply to a person 
 
 &emsp;(C) At the request of a department or agency, the Director of the Office of Government Ethics may waive the restrictions contained in paragraph (1) with respect to any position, or category of positions, referred to in clause (ii) or (iv) of subparagraph (A), in such department or agency if the Director determines that—
 
-&emsp;&emsp;(i) the imposition of the restrictions with respect to such position or positions would create an undue hardship on the department or agency in obtaining qualified personnel to fill such position or positions, and
+&emsp;&emsp;(i) the imposition of the restrictions with respect to such position or positions would create an undue hardship on the departmentor agency in obtaining qualified personnel to fill such position or positions, and
 
 &emsp;&emsp;(ii) granting the waiver would not create the potential for use of undue influence or unfair advantage.
 
@@ -142,7 +142,7 @@ Personal staff.—(A) Any person who is an employee of a Member of the House of 
 
 &emsp;(4)
 
-Committee staff.—Any person who is an employee of a committee of the House of Representatives, or an employee of a joint committee of the Congress whose pay is disbursed by the Clerk of the House of Representatives, to whom paragraph (7)(A) applies and who, within 1 year after the termination of that person's employment on such committee or joint committee (as the case may be), knowingly makes, with the intent to influence, any communication to or appearance before any person who is a Member or an employee of that committee or joint committee (as the case may be) or who was a Member of the committee or joint committee (as the case may be) in the year immediately prior to the termination of such person's employment by the committee or joint committee (as the case may be), on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
+Committee staff.—Any person who is an employee of a committee of the House of Representatives, or an employee of a joint committee of the Congress whose pay is disbursed by the Clerk of the House of Representatives, to whom paragraph (7)(A) applies and who,within 1 year after the termination of that person's employment on such committee or joint committee (as the case may be), knowingly makes, with the intent to influence, any communication to or appearance before any person who is a Member or an employee of that committee or joint committee (as the case may be) or who was a Member of the committee or joint committee (as the case may be) in the year immediately prior to the termination of such person's employment by the committee or joint committee (as the case may be), on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
 
 &emsp;(5)
 
@@ -158,7 +158,7 @@ Other legislative offices.—(A) Any person who is an employee of any other legi
 
 &emsp;(7)
 
-Limitation on restrictions.—(A) The restrictions contained in paragraphs (2), (3), (4), and (5) apply only to acts by a former employee who, for at least 60 days, in the aggregate, during the 1-year period before thatformer employee's service as such employee terminated, was paid a rate of basic pay equal to or greater than an amount which is 75 percent of the basic rate of pay payable for a Member of the House of Congress in which such employee was employed.
+Limitation on restrictions.—(A) The restrictions contained in paragraphs (2), (3), (4), and (5) apply only to acts by a former employee who, for at least 60 days, in the aggregate, during the 1-year period before that former employee's service as such employee terminated, was paid a rate of basic pay equal to or greater than an amount which is 75 percent of the basic rate of pay payable for a Member of the House of Congress in which such employee was employed.
 
 &emsp;(B) The restrictions contained in paragraph (6) apply only to acts by a former employee who, for at least 60 days, in the aggregate, during the 1-year period before that former employee's service as such employee terminated, was employed in a position for which the rate of basic pay, exclusive of any locality-based pay adjustment under section 5302 of title 5, is equal to or greater than the basic rate of pay payable for level IV of the Executive Schedule.
 
@@ -286,7 +286,7 @@ Exception for scientific or technological information.—The restrictions contai
 
 &emsp;(6)
 
-Exception for testimony.—Nothing in this section shall prevent an individual fromgiving testimony under oath, or from making statements required to be made under penalty of perjury. Notwithstanding the preceding sentence—
+Exception for testimony.—Nothing in this section shall prevent an individual from giving testimony under oath, or from making statements required to be made under penalty of perjury. Notwithstanding the preceding sentence—
 
 &emsp;&emsp;(A) a former officer or employee of the executive branch of the United States (including any independent agency) who is subject to the restrictions contained in subsection (a)(1) with respect to a particular matter may not, except pursuant to court order, serve as an expert witness for any other person (except the United States) in that matter; and
 
@@ -314,7 +314,7 @@ Political parties and campaign committees.—(A) Except as provided in subparagr
 
 &emsp;&emsp;(iii) the term “national committee” means the organization which, by virtue of the bylaws of a political party, is responsible for the day-to-day operation of such political party at the national level;
 
-&emsp;&emsp;(iv) the term “national Federal campaign committee” means an organization that, by virtue of the bylaws of a political party, is established primarily for the purpose of providing assistance, at the national level, to candidates nominated by that party for election to the office of Senator or Representative in, or Delegate or Resident Commissioner to, the Congress;
+&emsp;&emsp;(iv) the term “national Federal campaign committee” means an organization that, byvirtue of the bylaws of a political party, is established primarily for the purpose of providing assistance, at the national level, to candidates nominated by that party for election to the office of Senator or Representative in, or Delegate or Resident Commissioner to, the Congress;
 
 &emsp;&emsp;(v) the term “State committee” means the organization which, by virtue of the bylaws of a political party, is responsible for the day-to-day operation of such political party at the State level;
 
@@ -396,7 +396,7 @@ Subsec. (e)(1). Pub. L. 110–81, §101(b)(3), added par. (1) and struck out for
 
 Members of congress and elected officers.—(A) Any person who is a Member of Congress or an elected officer of either House of Congress and who, within 1 year after that person leaves office, knowingly makes, with the intent to influence, any communication to or appearance before any of the persons described in subparagraph (B) or (C), on behalf of any other person (except the United States) in connection with any matter on which such former Member of Congress or elected officer seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
 
-“(B) The persons referred to in subparagraph (A) with respect to appearances or communications by a formerMember of Congress are any Member, officer, or employee of either House of Congress, and any employee of any other legislative office of the Congress.
+“(B) The persons referred to in subparagraph (A) with respect to appearances or communications by a former Member of Congress are any Member, officer, or employee of either House of Congress, and any employee of any other legislative office of the Congress.
 
 “(C) The persons referred to in subparagraph (A) with respect to appearances or communications by a former elected officer are any Member, officer, or employee of the House of Congress in which the elected officer served.”
 
@@ -476,7 +476,7 @@ Subsec. (a)(3). Pub. L. 101–280, §2(a)(3), amended subsec. (a), as amended by
 
 Subsec. (b)(1). Pub. L. 101–280, §2(a)(4), amended subsec. (b)(1), as amended by Pub. L. 101–194, by substituting “a former officer or employee of the executive branch of the United States (including any independent agency) and is” for “a former officer or employee”, substituting “or any person who is a former officer or employee of the legislative branch or a former Member of Congress” for “and any person described in subsection (e)(7)”, substituting “which is so designated by the appropriate department or agency, and which the person knew or should have known was so designated, shall not, on the basis of that information, knowingly represent” for “and which is so designated by the appropriate department or agency, shall not, on the basis of that information, which the person knew or should have known was so designated, knowingly represent”, inserting “a period of” before “1 year”, and striking out “Government” before “terminates”.
 
-Subsec. (c). Pub. L. 101–280, §5(d), substituted “shall be subject to the penalties set forth in section 216 of this title” for “shall be fined not more than $10,000 orimprisoned for not more than two years, or both” in concluding provisions of subsec. (c) as in effect on May 4, 1990.
+Subsec. (c). Pub. L. 101–280, §5(d), substituted “shall be subject to the penalties set forth in section 216 of this title” for “shall be fined not more than $10,000 or imprisoned for not more than two years, or both” in concluding provisions of subsec. (c) as in effect on May 4, 1990.
 
 Subsec. (c)(1). Pub. L. 101–280, §2(a)(5)(A), amended subsec. (c)(1), as amended by Pub. L. 101–194, by substituting “(including any special Government employee) of the executive branch of the United States” for “of the executive branch”.
 
@@ -508,7 +508,7 @@ Subsec. (i)(1). Pub. L. 101–280, §2(a)(9), amended subsec. (i)(1), as amended
 
 Subsec. (j)(1). Pub. L. 101–280, §2(a)(10)(A), amended subsec. (j)(1), as amended by Pub. L. 101–194, by substituting “this section” for “subsections (a), (c), (d), and (e)”, “on behalf of” for “as an officer or employee of”, and “or the District of Columbia” for “Government”.
 
-Subsec. (j)(3). Pub. L. 101–280, §2(a)(10)(B), amended subsec. (j)(3), as amended by Pub. L. 101–194, by substituting “this section” for “subsections (c), (d), and (e)” and “in which the United States participates, if the Secretary of State certifies in advance that such activity is in the interests of the United States” for “of which the United States is a member”.
+Subsec. (j)(3). Pub. L. 101–280, §2(a)(10)(B), amended subsec. (j)(3), as amended by Pub. L. 101–194, by substituting “this section” for “subsections (c), (d), and\(e)” and “in which the United States participates, if the Secretary of State certifies in advance that such activity is in the interests of the United States” for “of which the United States is a member”.
 
 Subsec. (j)(4). Pub. L. 101–280, §2(a)(10)(C), amended subsec. (j)(4), as amended by Pub. L. 101–194, by substituting “Special” for “Personal matters and special” in heading, substituting “prevent an individual” for “apply to appearances or communications by a former officer or employee concerning matters of a personal and individual nature, such as personal income taxes or pension benefits; nor shall the prohibitions of those subsections prevent a former officer or employee”, substituting “individual's” for “former officer's or employee's”, and striking out “, other than that regularly provided for by law or regulation for witnesses” after “if no compensation is thereby received”.
 
@@ -600,7 +600,7 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 &emsp;“(3) as to (i), which was actually pending under his official responsibility as an officer or employee within a period of one year prior to the termination of such responsibility, or, as to (ii), in which he participated personally and substantially as an officer or employee; or
 
-“(c) Whoever, other than a special Government employee who serves for less than sixty days in a givencalendar year, having been so employed as specified in subsection (d) of this section, within one year after such employment has ceased, knowingly acts as agent or attorney for, or otherwise represents, anyone other than the United States in any formal or informal appearance before, or, with the intent to influence, makes any oral or written communication on behalf of anyone other than the United States, to—
+“(c) Whoever, other than a special Government employee who serves for less than sixty days in a given calendar year, having been so employed as specified in subsection (d) of this section, within one year after such employment has ceased, knowingly acts as agent or attorney for, or otherwise represents, anyone other than the United States in any formal or informal appearance before, or, with the intent to influence, makes any oral or written communication on behalf of anyone other than the United States, to—
 
 &emsp;“(1) the department or agency in which he served as an officer or employee, or any officer or employee thereof, and
 
@@ -624,7 +624,7 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 &emsp;“(B) whose principal occupation or employment is with (i) an agency or instrumentality of a State or local government, (ii) an accredited, degree-granting institution of higher education, as defined in section 1201(a) of the Higher Education Act of 1965, or (iii) a hospital or medical research organization, exempted and defined under section 501(c)(3) of the Internal Revenue Code of 1986, and the appearance, communication, or representation is on behalf of such government, institution, hospital, or organization.
 
-“(e) For the purposes of subsection (c), whenever the Director of the Office of Government Ethics determines that a separate statutory agency or bureau within a department or agency exercises functions which are distinct and separate from the remaining functions of the department or agency, the Director shall by rule designate such agency or bureau as a separate department or agency; except that such designation shall not apply to former heads of designated bureaus or agencies, or former officers and employees of the department or agency whose official responsibilities included supervision of said agency or bureau.
+“(e) For the purposes of subsection (c), whenever the Director of the Office of Government Ethics determines that a separate statutory agency or bureau within a department or agency exercises functions which are distinct and separate from the remaining functions of the department or agency, the Director shall by rule designate such agency or bureau as a separate departmentor agency; except that such designation shall not apply to former heads of designated bureaus or agencies, or former officers and employees of the department or agency whose official responsibilities included supervision of said agency or bureau.
 
 “(f) The prohibitions of subsections (a), (b), and (c) shall not apply with respect to the making of communications solely for the purpose of furnishing scientific or technological information under procedures acceptable to the department or agency concerned, or if the head of the department or agency concerned with the particular matter, in consultation with the Director of the Office of Government Ethics, makes a certification, published in the Federal Register, that the former officer or employee has outstanding qualifications in a scientific, technological, or other technical discipline, and is acting with respect to a particular matter which requires such qualifications, and that the national interest would be served by the participation of the former officer or employee.
 
@@ -634,7 +634,7 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 “(i) The prohibition contained in subsection (c) shall not apply to appearances or communications by a former officer or employee concerning matters of a personal and individual nature, such as personal income taxes or pension benefits; nor shall the prohibition of that subsection prevent a former officer or employee from making or providing a statement, which is based on the former officer's or employee's own special knowledge in the particular area that is the subject of the statement, provided that no compensation is thereby received, other than that regularly provided for by law or regulation for witnesses.
 
-“(j) If the head of the department or agency in which the former officer or employee served finds, after notice and opportunity for a hearing, that such former officer or employee violated subsection (a), (b), or (c) of this section, such department or agency head may prohibit that person from making, on behalf of any other person (except the United States), any informal or formal appearance before, or, with the intent to influence, any oral or written communication to, such department or agency on a pending matter of business for a period not to exceed five years, or may take other appropriate disciplinary action. Such disciplinary action shall be subject to review in an appropriate United States district court. No later than six months afterthe effective date of this Act, departments and agencies shall, in consultation with the Director of the Office of Government Ethics, establish procedures to carry out this subsection.
+“(j) If the head of the department or agency in which the former officer or employee served finds, after notice and opportunity for a hearing, that such former officer or employee violated subsection (a), (b), or (c) of this section, such department or agency head may prohibit that person from making, on behalf of any other person (except the United States), any informal or formal appearance before, or, with the intent to influence, any oral or written communication to, such department or agency on a pending matter of business for a period not to exceed five years, or may take other appropriate disciplinary action. Such disciplinary action shall be subject to review in an appropriate United States district court. No later than six months after the effective date of this Act, departments and agencies shall, in consultation with the Director of the Office of Government Ethics, establish procedures to carry out this subsection.
 
 “(k)(1)(A) The President may grant a waiver of a restriction imposed by this section to any officer or employee described in paragraph (2) if the President determines and certifies in writing that it is in the public interest to grant the waiver and that the services of the officer or employee are critically needed for the benefit of the Federal Government. Not more than 25 officers and employees currently employed by the Federal Government at any one time may have been granted waivers under this paragraph.
 
@@ -666,7 +666,7 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 Section 503 of Pub. L. 95–521, which provided that the amendments made by section 501 (amending this section) shall become effective on July 1, 1979, was amended generally by Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1761, and is now set out in the Appendix to Title 5, Government Organization and Employees.
 
-Section 502 of Pub. L. 95–521, which provided that the amendments made by section 501 (amending this section) shall not apply to those individuals who left Government service prior to the effective date of such amendments (July 1, 1979) or, in the case of individuals who occupied positions designated pursuant to section 207(d) of title 18, United States Code, prior to the effective date of such designation; except that any such individual who returns to Government service on or after the effective date of such amendments or designation shall be thereafter covered by such amendments or designation, was amended generally by Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1761, and is now set out in the Appendix to Title 5.
+Section 502 of Pub. L. 95–521, which provided that the amendments made by section 501 (amending this section) shall not apply to those individuals who left Government service prior to the effective date of such amendments (July 1, 1979) or, in the case of individuals who occupied positions designated pursuant to section 207(d) of title 18, United States Code, prior to the effective date of such designation; except that any such individual who returns to Government service on or after the effective date of such amendments or designation shall be thereafter covered by such amendments or designation, was amended generally by Pub. L. 101–194,title VI, §601(a), Nov. 30, 1989, 103 Stat. 1761, and is now set out in the Appendix to Title 5.
 
 #### Effective Date
 

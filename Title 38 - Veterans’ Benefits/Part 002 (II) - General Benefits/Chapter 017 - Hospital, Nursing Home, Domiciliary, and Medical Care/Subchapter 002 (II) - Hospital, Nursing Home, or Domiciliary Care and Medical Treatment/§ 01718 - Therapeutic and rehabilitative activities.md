@@ -36,7 +36,7 @@
 
 &emsp;(D) A veteran's receipt of payment as a result of participation in a program described in subparagraph (C).
 
-(3) A distribution of funds made under this section and a payment made to a veteran undera program of rehabilitative services described in paragraph (2)(C) shall be considered for the purposes of chapter 15 of this title to be a donation from a public or private relief or welfare organization.
+(3) A distribution of funds made under this section and a payment made to a veteran under a program of rehabilitative services described in paragraph (2)(C) shall be considered for the purposes of chapter 15 of this title to be a donation from a public or private relief or welfare organization.
 
 (Added Pub. L. 87–574, §2(1), Aug. 6, 1962, 76 Stat. 308, §618; amended Pub. L. 94–581, title I, §105(a), Oct. 21, 1976, 90 Stat. 2845; Pub. L. 98–543, title III, §303, Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title II, §205, Oct. 28, 1986, 100 Stat. 3256; Pub. L. 102–54, §§10, 14(b)(12), June 13, 1991, 105 Stat. 273, 284; renumbered §1718 and amended Pub. L. 102–83, §§2(c)(3), 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 404–406; Pub. L. 102–86, title V, §506(a)(1), Aug. 14, 1991, 105 Stat. 426; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title IV, §401, Nov. 4, 1992, 106 Stat. 4953; Pub. L. 103–446, title XII, §1201(i)(1), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 104–262, title I, §101(d)(7), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 108–170, title I, §104(b), Dec. 6, 2003, 117 Stat. 2045; Pub. L. 109–444, §8(a)(1), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(1), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468.)
 

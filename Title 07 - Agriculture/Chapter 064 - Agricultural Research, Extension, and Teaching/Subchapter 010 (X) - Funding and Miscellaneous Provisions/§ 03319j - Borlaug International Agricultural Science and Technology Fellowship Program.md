@@ -46,7 +46,7 @@ A fellowship provided under this section shall—
 
 #### (1) Eligible candidates
 
-&emsp;The Secretary may provide fellowships under this section to individuals from eligiblecountries who specialize or have experience in agricultural education, research, extension, or related fields, including—
+&emsp;The Secretary may provide fellowships under this section to individuals from eligible countries who specialize or have experience in agricultural education, research, extension, or related fields, including—
 
 &emsp;&emsp;(A) individuals from the public and private sectors; and
 

@@ -4,7 +4,7 @@
 
 Additional General Officers.—(1) In addition to the Chief of the National Guard Bureau and the Director of the Joint Staff of the National Guard Bureau, there shall be assigned to the National Guard Bureau—
 
-&emsp;(A) two general officers selected by the Secretary of the Army from officers of the ArmyNational Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom shall be appointed in accordance with paragraph (3), shall hold the grade of lieutenant general while so serving, and shall serve as Director, Army National Guard, with the other serving as Deputy Director, Army National Guard; and
+&emsp;(A) two general officers selected by the Secretary of the Army from officers of the Army National Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom shall be appointed in accordance with paragraph (3), shall hold the grade of lieutenant general while so serving, and shall serve as Director, Army National Guard, with the other serving as Deputy Director, Army National Guard; and
 
 &emsp;(B) two general officers selected by the Secretary of the Air Force from officers of the Air National Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom shall be appointed in accordance with paragraph (3), shall hold the grade of lieutenant general while so serving, and shall serve as Director, Air National Guard, with the other serving as Deputy Director, Air National Guard.
 
@@ -48,7 +48,7 @@ Subsec. (a)(3)(D). Pub. L. 108–375, §536(a), substituted “December 31, 2006
 
 Subsec. (a)(3). Pub. L. 106–398, §1 \[\[div. A\], title V, §507(e)(2)\], added par. (3).
 
-1999—Subsec. (a)(1)(A), (B). Pub. L. 106–65 inserted “or, if appointed to that position in accordance with section 12505(a)(2) of this title, the grade of lieutenant general,” after “major general”.
+1999—Subsec. (a)(1)(A), (B). Pub. L. 106–65 inserted “or, if appointed to that position in accordance withsection 12505(a)(2) of this title, the grade of lieutenant general,” after “major general”.
 
 #### Effective Date of 1999 Amendment; Applicability to Incumbents
 

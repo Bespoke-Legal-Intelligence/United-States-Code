@@ -10,7 +10,7 @@ The requirements of subsection (d) of section 1342 of this title may not be waiv
 
 #### (c) Guidelines for determining degradation of waters
 
-(1) The Administrator shall, within one hundred and eighty days after October 18, 1972 (and from time to time thereafter), promulgateguidelines for determining the degradation of the waters of the territorial seas, the contiguous zone, and the oceans, which shall include:
+(1) The Administrator shall, within one hundred and eighty days after October 18, 1972 (and from time to time thereafter), promulgate guidelines for determining the degradation of the waters of the territorial seas, the contiguous zone, and the oceans, which shall include:
 
 &emsp;(A) the effect of disposal of pollutants on human health or welfare, including but not limited to plankton, fish, shellfish, wildlife, shorelines, and beaches;
 

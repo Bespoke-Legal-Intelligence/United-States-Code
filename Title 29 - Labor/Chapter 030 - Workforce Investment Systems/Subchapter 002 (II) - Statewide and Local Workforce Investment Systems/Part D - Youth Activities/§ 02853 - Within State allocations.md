@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Governor of a State shall reserve not more than 15 percent of each of the amounts allotted to the State under section 2852(b)(1)(C) of this title and paragraphs (1)(B) and (2)(B) of section 2862(b) of this title for a fiscal year for statewide workforce investment activities.
+&emsp;The Governor of a State shall reserve not more than 15 percent of each of the amounts allotted to the State under section2852(b)(1)(C) of this title and paragraphs (1)(B) and (2)(B) of section 2862(b) of this title for a fiscal year for statewide workforce investment activities.
 
 #### (2) Use of funds
 
@@ -72,7 +72,7 @@
 
 #### (B) Use of funds
 
-&emsp;&emsp;Funds made available for administrative costs under subparagraph (A) may be usedfor the administrative cost of any of the local workforce investment activities described in subsection (d) or (e) of section 2864 of this title or in section 2854(c) of this title, regardless of whether the funds were allocated under this subsection or section 2863(b) of this title.
+&emsp;&emsp;Funds made available for administrative costs under subparagraph (A) may be used for the administrative cost of any of the local workforce investment activities described in subsection (d) or (e) of section 2864 of this title or in section 2854(c) of this title, regardless of whether the funds were allocated under this subsection or section 2863(b) of this title.
 
 #### (C) Regulations
 
@@ -86,7 +86,7 @@
 
 #### (2) Amount
 
-&emsp;The amount available for reallocation for a program year is equal to the amount by which the unobligated balance of the local area allocation under paragraph (2)(A) or (3) of subsection (b) of this section for such activities, at the end of the program year prior to the program year for which the determination under this paragraph is made exceeds 20 percent of such allocation for the prior program year.
+&emsp;The amount available for reallocation for a program year is equal to the amount by whichthe unobligated balance of the local area allocation under paragraph (2)(A) or (3) of subsection (b) of this section for such activities, at the end of the program year prior to the program year for which the determination under this paragraph is made exceeds 20 percent of such allocation for the prior program year.
 
 #### (3) Reallocation
 

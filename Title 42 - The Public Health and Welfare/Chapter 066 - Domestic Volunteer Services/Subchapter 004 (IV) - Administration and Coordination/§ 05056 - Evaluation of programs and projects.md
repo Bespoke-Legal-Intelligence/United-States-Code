@@ -2,11 +2,11 @@
 
 #### (a) General objectives; persons conducting the evaluation
 
-The Director shall measure and evaluate the impact of all programs authorized by this chapter (including the VISTA Literacy Corps which shall be evaluated as a separate program at least once every 3 years), their effectiveness in achieving stated goals, in general, and in relation to their cost, their impact on related programs, and their structure and mechanism for delivery of services. Each program shall be evaluated at least once every three years. Evaluations shall be conducted by persons not immediately involved in the administration of the program or project evaluated. Such evaluation shall also measure and evaluate compliance with the equitable distribution requirement of section 5054 of this title.
+The Director shall measure and evaluate the impact of all programs authorized by this chapter, their effectiveness in achieving stated goals, in general, and in relation to their cost, their impact on related programs, and their structure and mechanism for delivery of services. Each program shall be evaluated at least once every three years. Evaluations shall be conducted by persons not immediately involved in the administration of the program or project evaluated. Such evaluation shall also measure and evaluate compliance with the equitable distribution requirement of section 5054 of this title.
 
 #### (b) General standards; publication; reports of ensuing actions
 
-The Director shall develop and publish general standards for evaluation of program and projecteffectiveness in achieving the objectives of this chapter. Reports submitted pursuant to section 5047 <sup>1</sup> of this title shall describe the actions taken as a result of evaluations carried out under this section.
+The Director shall develop and publish general standards for evaluation of program and project effectiveness in achieving the objectives of this chapter. Reports submitted pursuant to section 5047 <sup>1</sup> of this title shall describe the actions taken as a result of evaluations carried out under this section.
 
 #### (c) Opinions of participants
 
@@ -42,19 +42,23 @@ Not later than December 31, 1988, the Director shall—
 
 &emsp;&emsp;(C) a review of the effect that participation by volunteers who do not receive such stipend have on the administration of such programs; and
 
-&emsp;(3) submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report summarizing in detail the results of the evaluations made under paragraphs (1) and (2).
+&emsp;(3) submit to the authorizing committees a report summarizing in detail the results of the evaluations made under paragraphs (1) and (2).
 
 #### (g) Funds limitation; reduction of allotments
 
 The Director is authorized to use such sums as are required, but not to exceed 1 per centum of the funds appropriated under this chapter, to conduct program and project evaluations (directly, or by grants or contracts) as required by this chapter. In the case of allotments from such an appropriation, the amount available for such allotments (and the amount deemed appropriate therefor) shall be reduced accordingly.
 
-(Pub. L. 93–113, title IV, §416, Oct. 1, 1973, 87 Stat. 412; Pub. L. 98–288, §23, May 21, 1984, 98 Stat. 195; Pub. L. 99–551, §8, Oct. 27, 1986, 100 Stat. 3075; Pub. L. 101–204, title IV, §402, Dec. 7, 1989, 103 Stat. 1815; Pub. L. 103–82, title IV, §405(a)(9), Sept. 21, 1993, 107 Stat. 920.)
+(Pub. L. 93–113, title IV, §416, Oct. 1, 1973, 87 Stat. 412; Pub. L. 98–288, §23, May 21, 1984, 98 Stat. 195; Pub. L. 99–551, §8, Oct. 27, 1986, 100 Stat. 3075; Pub. L. 101–204, title IV, §402, Dec. 7, 1989, 103 Stat. 1815; Pub. L. 103–82, title IV, §405(a)(9), Sept. 21, 1993, 107 Stat. 920; Pub. L. 111–13, title II, §2153, Apr. 21, 2009, 123 Stat. 1591.)
 
 #### References in Text
 
 Section 5047 of this title, referred to in subsec. (b), was repealed by Pub. L. 103–82, title III, §365, Sept. 21, 1993, 107 Stat. 908.
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–13, §2153(1), struck out “(including the VISTA Literacy Corps which shall be evaluated as a separate program at least once every 3 years)” after “authorized by this chapter”.
+
+Subsec. (f)(3). Pub. L. 111–13, §2153(2), substituted “authorizing committees” for “Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate”.
 
 1993—Subsec. (f)(1). Pub. L. 103–82 substituted “Corporation” for “ACTION Agency” in introductory provisions.
 
@@ -66,9 +70,9 @@ Subsecs. (f), (g). Pub. L. 99–551, §8(b), added subsec. (f) and redesignated 
 
 1984—Subsec. (a). Pub. L. 98–288 substituted “biennially” for “periodically” in first sentence, and substituted “or any project of such program being evaluated. Such evaluation shall also measure and evaluate compliance with the equitable distribution requirement of section 5054 of this title” for “or project evaluated”.
 
-#### Change of Name
+#### Effective Date of 2009 Amendment
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 
 #### Effective Date of 1993 Amendment
 

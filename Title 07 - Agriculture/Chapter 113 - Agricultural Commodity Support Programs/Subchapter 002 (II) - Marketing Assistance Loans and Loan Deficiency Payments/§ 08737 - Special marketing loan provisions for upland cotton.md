@@ -4,7 +4,7 @@
 
 #### (1) Definition of special import quota
 
-&emsp;In this subsection, the term “special import quota” means a quantity of imports that isnot subject to the over-quota tariff rate of a tariff-rate quota.
+&emsp;In this subsection, the term “special import quota” means a quantity of imports that is not subject to the over-quota tariff rate of a tariff-rate quota.
 
 #### (2) Establishment
 
@@ -102,7 +102,7 @@
 
 #### (D) Quota entry period
 
-&emsp;&emsp;When a quota is established under this subsection, cotton may be entered under thequota during the 90-day period beginning on the date the quota is established by the Secretary.
+&emsp;&emsp;When a quota is established under this subsection, cotton may be entered under the quota during the 90-day period beginning on the date the quota is established by the Secretary.
 
 #### (3) No overlap
 
@@ -130,7 +130,7 @@
 
 #### (4) Review or audit
 
-&emsp;The Secretary may conduct such review or audit of the records of a domestic user under this subsection as the Secretary determines necessary to carry out this subsection.
+&emsp;The Secretary may conduct such review or audit of the records of a domestic user underthis subsection as the Secretary determines necessary to carry out this subsection.
 
 #### (5) Improper use of assistance
 

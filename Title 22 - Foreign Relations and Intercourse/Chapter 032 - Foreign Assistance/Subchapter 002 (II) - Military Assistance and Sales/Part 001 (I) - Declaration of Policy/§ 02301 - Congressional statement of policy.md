@@ -6,7 +6,7 @@ The Congress recognizes that the peace of the world and the security of the Unit
 
 It is the sense of the Congress that an important contribution toward peace would be made by the establishment under the Organization of American States of an international military force.
 
-In enacting this legislation, it is therefore the intention of the Congress to promote the peaceof the world and the foreign policy, security, and general welfare of the United States by fostering an improved climate of political independence and individual liberty, improving the ability of friendly countries and international organizations to deter or, if necessary, defeat aggression, facilitating arrangements for individual and collective security, assisting friendly countries to maintain internal security, and creating an environment of security and stability in the developing friendly countries essential to their more rapid social, economic, and political progress. The Congress urges that all other countries able to contribute join in a common undertaking to meet the goals stated in subchapter II of this chapter.
+In enacting this legislation, it is therefore the intention of the Congress to promote the peace of the world and the foreign policy, security, and general welfare of the United States by fostering an improved climate of political independence and individual liberty, improving the ability of friendly countries and international organizations to deter or, if necessary, defeat aggression, facilitating arrangements for individual and collective security, assisting friendly countries to maintain internal security, and creating an environment of security and stability in the developing friendly countries essential to their more rapid social, economic, and political progress. The Congress urges that all other countries able to contribute join in a common undertaking to meet the goals stated in subchapter II of this chapter.
 
 It is the sense of the Congress that in the administration of subchapter II of this chapter priority shall be given to the needs of those countries in danger of becoming victims of aggression or in which the internal security is threatened by internal subversion inspired or supported by hostile countries.
 
@@ -20,7 +20,7 @@ This legislation, referred to in fourth paragraph, means Pub. L. 87–195, Sept.
 
 #### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
 
-References to subchapter II of this chapter are deemed to exclude parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter II of this chapter are deemed to exclude parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226,set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Prior Provisions
 
@@ -55,6 +55,8 @@ Report.—In conjunction with the report required under title VIII of the P.L.O.
 “(d)
 
 Definition.—In this section, the term ‘proscribed weapons’ means arms, ammunition, and equipment the transfer of which is not in compliance with the Agreement on the Gaza Strip and the Jericho Area of May 4, 1994, its annexes, or subsequent agreements between Israel and the PLO, or Palestinian Authority, as appropriate.”
+
+\[Functions of President under section 699 of Pub. L. 107–228, set out above, delegated to Secretary of State by Memorandum of President of the United States, Apr. 30, 2009, 74 F.R. 22637.\]
 
 \[For definition of “appropriate congressional committees” as used in section 699 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 

@@ -14,7 +14,7 @@ General Penalty and Civil Actions To Collect.—(1) A person that violates secti
 
 (b)
 
-Chop Shop Penalty and Enforcement.—(1) A person that violates section 33114(a)(5) ofthis title is liable to the Government for a civil penalty of not more than $100,000 a day for each violation.
+Chop Shop Penalty and Enforcement.—(1) A person that violates section 33114(a)(5) of this title is liable to the Government for a civil penalty of not more than $100,000 a day for each violation.
 
 (2) As appropriate and in consultation with the Attorney General, the Secretary shall—
 

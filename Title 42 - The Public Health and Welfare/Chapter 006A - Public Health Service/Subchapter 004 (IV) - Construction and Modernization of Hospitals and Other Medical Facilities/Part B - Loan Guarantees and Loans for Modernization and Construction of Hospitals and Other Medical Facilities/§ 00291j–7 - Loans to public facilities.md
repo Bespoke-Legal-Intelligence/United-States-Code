@@ -2,7 +2,7 @@
 
 #### (a) Interest rates; security; equitable geographical distribution
 
-(1) Any loan made by the Secretary to a public agency under this part for the modernization or construction of a public hospital or other health facility shall require such public agency to pay interest thereon at a rate comparable to the current rate of interest prevailing with respect to loans, to nonprofit private agencies, which are guaranteed under this part, for the modernization or construction of similar facilities in the same or similar areas, minus 3 per centum per annum.
+(1) Any loan made by the Secretary to a public agency under this part for the modernization orconstruction of a public hospital or other health facility shall require such public agency to pay interest thereon at a rate comparable to the current rate of interest prevailing with respect to loans, to nonprofit private agencies, which are guaranteed under this part, for the modernization or construction of similar facilities in the same or similar areas, minus 3 per centum per annum.
 
 (2)(A) No loan to a public agency shall be made under this part unless—
 
@@ -16,7 +16,7 @@
 
 #### (b) Sale
 
-(1) The Secretary shall from time to time, but with due regard to the financial interests of theUnited States, sell loans referred to in subsection (a)(1) of this section either on the private market or to the Federal National Mortgage Association in accordance with section 1717 of title 12.
+(1) The Secretary shall from time to time, but with due regard to the financial interests of the United States, sell loans referred to in subsection (a)(1) of this section either on the private market or to the Federal National Mortgage Association in accordance with section 1717 of title 12.
 
 (2) Any loan so sold shall be sold for an amount which is equal (or approximately equal) to the amount of the unpaid principal of such loan as of the time of sale.
 

@@ -118,7 +118,7 @@ Section 108(a)(2) of Pub. L. 96–222 provided that:
 
 “(A)
 
-In general.—Except as provided in subparagraph (B), the amendments made by paragraph (1) \[amending this section and sections 119, 911, and 913 of this title\] shall take effect as if included in the Foreign Earned Income Act of 1978 \[Pub. L. 95–615\].
+In general.—Except as provided in subparagraph (B), the amendments made by paragraph (1)\[amending this section and sections 119, 911, and 913 of this title\] shall take effect as if included in the Foreign Earned Income Act of 1978 \[Pub. L. 95–615\].
 
 “(B)
 

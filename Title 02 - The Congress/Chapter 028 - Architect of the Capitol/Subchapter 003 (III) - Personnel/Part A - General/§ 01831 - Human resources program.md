@@ -30,7 +30,7 @@ This section may be cited as the “Architect of the Capitol Human Resources Act
 
 &emsp;&emsp;(C) A system for the classification of positions which takes into account the difficulty, responsibility, and qualification requirements of the work performed, and which conforms to the principle of equal pay for substantially equal work.
 
-&emsp;&emsp;(D) A program for the training of Architect of the Capitol employees which hasamong its goals improved employee performance and opportunities for employee advancement.
+&emsp;&emsp;(D) A program for the training of Architect of the Capitol employees which has among its goals improved employee performance and opportunities for employee advancement.
 
 &emsp;&emsp;(E) A formal performance appraisal system which will permit the accurate evaluation of job performance on the basis of objective criteria for all Architect of the Capitol employees.
 

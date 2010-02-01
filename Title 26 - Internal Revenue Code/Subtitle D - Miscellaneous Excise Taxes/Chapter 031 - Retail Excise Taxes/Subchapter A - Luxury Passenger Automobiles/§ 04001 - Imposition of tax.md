@@ -44,7 +44,7 @@
 
 #### (A) Trucks and vans
 
-&emsp;&emsp;In the case of a truck or van, paragraph (1)(B) shall be applied by substituting “gross vehicle weight” for “unloaded gross vehicle weight”.
+&emsp;&emsp;In the case of a truck or van, paragraph (1)(B) shall be applied by substituting “grossvehicle weight” for “unloaded gross vehicle weight”.
 
 #### (B) Limousines
 
@@ -160,7 +160,7 @@ Subsec. (g). Pub. L. 104–188, §1607(b), redesignated subsec. (f) as (g).
 
 #### Effective Date of 1997 Amendment
 
-Section 906(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 4003 of this title\] shall apply to salesand installations occurring after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Section 906(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 4003 of this title\] shall apply to sales and installations occurring after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 Section 1601(f)(3)(C) of Pub. L. 105–34 provided that: “The amendments made by this paragraph \[amending this section\] shall apply to sales after the date of the enactment of this Act \[Aug. 5, 1997\].”
 

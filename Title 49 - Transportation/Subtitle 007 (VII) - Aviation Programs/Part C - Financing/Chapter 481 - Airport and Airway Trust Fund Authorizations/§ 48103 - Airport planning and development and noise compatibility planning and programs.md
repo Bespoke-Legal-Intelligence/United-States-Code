@@ -10,13 +10,15 @@ The total amounts which shall be available after September 30, 2003, to the Secr
 
 &emsp;(4) $3,700,000,000 for fiscal year 2007;
 
-&emsp;(5) $3,675,000,000 for fiscal year 2008; and
+&emsp;(5) $3,675,000,000 for fiscal year 2008;
 
-&emsp;(6) $1,950,000,000 for the 6-month period beginning on October 1, 2008.
+&emsp;(6) $3,900,000,000 for fiscal year 2009; and
+
+&emsp;(7) $2,000,000,000 for the 6-month period beginning on October 1, 2009.
 
 > Such sums shall remain available until expended.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1296; Pub. L. 103–305, title I, §101(a), Aug. 23, 1994, 108 Stat. 1570; Pub. L. 104–264, title I, §101(a), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 105–277, div. C, title I, §110(b)(1), Oct. 21, 1998, 112 Stat. 2681–587; Pub. L. 106–6, §2(a), Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(a), May 21, 1999, 113 Stat. 113; Pub. L. 106–59, §1(a), Sept. 29, 1999, 113 Stat. 482; Pub. L. 106–181, title I, §101(a), Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §101(a), Dec.12, 2003, 117 Stat. 2494; Pub. L. 110–190, §4(a)(1), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, §4(a), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §4(a)(1), Sept. 30, 2008, 122 Stat. 3717.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1296; Pub. L. 103–305, title I, §101(a), Aug. 23, 1994, 108 Stat. 1570; Pub. L. 104–264, title I, §101(a), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 105–277, div. C, title I, §110(b)(1), Oct. 21, 1998, 112 Stat. 2681–587; Pub. L. 106–6, §2(a), Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(a), May 21, 1999, 113 Stat. 113; Pub. L. 106–59, §1(a), Sept. 29, 1999, 113 Stat. 482; Pub. L. 106–181, title I, §101(a), Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §101(a), Dec. 12, 2003, 117 Stat. 2494; Pub. L. 110–190, §4(a)(1), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, §4(a), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §4(a)(1), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, §4(a), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–69, §4(a)(1), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, §4(a)(1), Dec. 16, 2009, 123 Stat. 3031.)
 
 Historical and Revision Notes
 
@@ -43,6 +45,12 @@ Sept. 3, 1982, Pub. L. 97–248, §505(a) (2d sentence), 96 Stat. 676; Jan. 6, 1
 In this section, references to the aggregate amounts for fiscal years ending before October 1, 1987–1992, are omitted as obsolete. The words “of which $475,000,000 shall be credited to the supplementary discretionary fund established by section 2206(a)(3)(B)” are omitted as executed. In restating section 505(a) (2d sentence) of the Airport and Airway Improvement Act of 1982 (Public Law 97–248, 96 Stat. 676), the cross-reference to the discretionary fund was retained but is incorrect because of the restatement of section 507 of the Airport and Airway Improvement Act of 1982 (Public Law 97–248, 96 Stat. 679) by section 426(a) of the Highway Improvement Act of 1982 (Public Law 97–424, 96 Stat. 2167). See section 47115 of the revised title.
 
 #### Amendments
+
+2009—Par. (6). Pub. L. 111–12 substituted “$3,900,000,000 for fiscal year 2009” for “$1,950,000,000 for the 6-month period beginning on October 1, 2008”.
+
+Par. (7). Pub. L. 111–116 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$1,000,000,000 for the 3-month period beginning on October 1, 2009.”
+
+Par. (7). Pub. L. 111–69 added par. (7).
 
 2008—Par. (5). Pub. L. 110–253 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “$2,756,250,000 for the 9-month period beginning October 1, 2007.”
 
@@ -74,7 +82,7 @@ Pub. L. 106–6 substituted “$1,607,000,000 for the 8-month period beginning O
 
 1998—Pub. L. 105–277 substituted “September 30, 1998” for “September 30, 1996” and “$1,205,000,000 for the six-month period beginning October 1, 1998” for “$2,280,000,000 for fiscal years ending before October 1, 1997, and $4,627,000,000 for fiscal years ending before October 1, 1998.”
 
-1996—Pub. L. 104–264 substituted “September 30, 1996” for “September 30, 1981” and “$2,280,000,000 for fiscal years ending before October 1, 1997, and $4,627,000,000 for fiscal years ending before October 1, 1998.” for “$17,583,500,000 for fiscal years ending before October 1, 1994, $19,744,500,000 for fiscal years ending before October 1, 1995, and $21,958,500,000 for fiscal years ending before October 1, 1996.”
+1996—Pub. L. 104–264 substituted “September 30, 1996” for “September 30, 1981” and “$2,280,000,000 for fiscalyears ending before October 1, 1997, and $4,627,000,000 for fiscal years ending before October 1, 1998.” for “$17,583,500,000 for fiscal years ending before October 1, 1994, $19,744,500,000 for fiscal years ending before October 1, 1995, and $21,958,500,000 for fiscal years ending before October 1, 1996.”
 
 1994—Pub. L. 103–305 substituted “The total amounts which shall be available after September 30, 1981, to the Secretary of Transportation” for “Not more than a total of $15,966,700,000 is available to the Secretary of Transportation for the fiscal years ending September 30, 1982–1993,” and inserted before period at end “shall be $17,583,500,000 for fiscal years ending before October 1, 1994, $19,744,500,000 for fiscal years ending before October 1, 1995, and $21,958,500,000 for fiscal years ending before October 1, 1996”.
 

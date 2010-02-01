@@ -76,7 +76,7 @@ The Council shall adopt such internal rules of procedure as it deems necessary. 
 
 &emsp;(D) to make recommendations to appropriate officials of the governments of the United States and the State of Alaska with respect to those changes in laws, policies, and programs relating to publicly owned lands and resources which the Council deems necessary;
 
-&emsp;(E) to make recommendations to appropriate officials of the governments of the United States and the State of Alaska with respect to the inventory, planning, classification, management, and use of Federal and State lands, respectively, and to provide suchassistance to Native Corporations upon their request;
+&emsp;(E) to make recommendations to appropriate officials of the governments of the United States and the State of Alaska with respect to the inventory, planning, classification, management, and use of Federal and State lands, respectively, and to provide such assistance to Native Corporations upon their request;
 
 &emsp;(F) to make recommendations to appropriate officials of the governments of the United States and the State of Alaska with respect to needed modifications in existing withdrawals of Federal and State lands; and
 

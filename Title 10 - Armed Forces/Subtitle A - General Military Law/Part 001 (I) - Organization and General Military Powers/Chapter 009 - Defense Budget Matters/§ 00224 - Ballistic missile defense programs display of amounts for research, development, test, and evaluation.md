@@ -44,7 +44,7 @@ Subsec. (f). Pub. L. 108–136, §1043(b)(4), struck out heading and text of sub
 
 2002—Subsecs. (a), (b)(1), (c), (d). Pub. L. 107–314, §225(b)(1)(A), substituted “Missile Defense Agency” for “Ballistic Missile Defense Organization”.
 
-Subsec. (e). Pub. L. 107–314 substituted “for each” for “before a”, “transferred” for “is transferred”, “MissileDefense Agency” for “Ballistic Missile Defense Organization”, and “responsibility for research, development, test, and evaluation related to system improvements for that program remains with the Director” for “roles and responsibilities for research, development, test, and evaluation related to system improvements for that program are clearly defined”.
+Subsec. (e). Pub. L. 107–314 substituted “for each” for “before a”, “transferred” for “is transferred”, “Missile Defense Agency” for “Ballistic Missile Defense Organization”, and “responsibility for research, development, test, and evaluation related to system improvements for that program remains with the Director” for “roles and responsibilities for research, development, test, and evaluation related to system improvements for that program are clearly defined”.
 
 2001—Pub. L. 107–107, §231(b)(1), substituted “research, development, test, and evaluation” for “procurement” in section catchline.
 

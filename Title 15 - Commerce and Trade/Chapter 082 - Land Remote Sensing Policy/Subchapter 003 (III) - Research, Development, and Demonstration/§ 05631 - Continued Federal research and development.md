@@ -16,7 +16,7 @@
 
 (1) In order to enhance the ability of the United States to manage and utilize its renewable and nonrenewable resources, the Secretary of Agriculture and the Secretary of the Interior are authorized and encouraged to conduct programs of research and development in the applications of remote sensing using funds appropriated for such purposes.
 
-(2) Such programs may include basic research at universities, demonstrations of applications,and cooperative activities involving other Government agencies, private sector parties, and foreign and international organizations.
+(2) Such programs may include basic research at universities, demonstrations of applications, and cooperative activities involving other Government agencies, private sector parties, and foreign and international organizations.
 
 #### (c) Role of other Federal agencies
 

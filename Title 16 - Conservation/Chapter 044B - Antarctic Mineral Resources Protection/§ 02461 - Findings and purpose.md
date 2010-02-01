@@ -30,7 +30,7 @@ The purpose of this chapter is to—
 
 &emsp;(2) prohibit prospecting, exploration, and development of Antarctic mineral resources by United States citizens and other persons subject to the jurisdiction of the United States;
 
-&emsp;(3) urge other nations to join the United States in immediately negotiating one ormore new agreements to provide an indefinite ban on all Antarctic mineral resource activities and comprehensive protection for Antarctica and its associated and dependent ecosystems; and
+&emsp;(3) urge other nations to join the United States in immediately negotiating one or more new agreements to provide an indefinite ban on all Antarctic mineral resource activities and comprehensive protection for Antarctica and its associated and dependent ecosystems; and
 
 &emsp;(4) urge all nations to consider a permanent ban on Antarctic mineral resource activities.
 

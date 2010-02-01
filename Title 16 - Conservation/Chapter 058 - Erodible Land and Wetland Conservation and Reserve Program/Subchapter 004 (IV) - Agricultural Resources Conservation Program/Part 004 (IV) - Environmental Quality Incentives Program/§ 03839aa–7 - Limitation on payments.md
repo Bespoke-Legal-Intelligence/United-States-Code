@@ -2,7 +2,7 @@
 
 #### (a) Limitation
 
-Subject to subsection (b), a person or legal entity may not receive, directly or indirectly, cost-share or incentive payments under this part that, in the aggregate, exceed $300,000 for all contracts entered into under this part by the person or entity during any six-year period,<sup>1</sup> (excluding funding arrangements with federally recognized Native American Indian Tribes or Alaska Native Corporations under section 3839aa–2(h) <sup>2</sup> of this title) regardless of the number of contracts entered into under this part by the person or entity.
+Subject to subsection (b), a person or legal entity may not receive, directly or indirectly,cost-share or incentive payments under this part that, in the aggregate, exceed $300,000 for all contracts entered into under this part by the person or entity during any six-year period,<sup>1</sup> (excluding funding arrangements with federally recognized Native American Indian Tribes or Alaska Native Corporations under section 3839aa–2(h) <sup>2</sup> of this title) regardless of the number of contracts entered into under this part by the person or entity.
 
 #### (b) Waiver authority
 

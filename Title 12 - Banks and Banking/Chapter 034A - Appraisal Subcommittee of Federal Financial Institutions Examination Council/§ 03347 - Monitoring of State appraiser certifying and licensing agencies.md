@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Appraisal Subcommittee shall monitor State appraiser certifying and licensing agencies for the purpose of determining whether a State agency's policies, practices, and procedures are consistent with this chapter. The Appraisal Subcommittee and all agencies, instrumentalities, and federally recognized entities under this chapter shall not recognize appraiser certifications and licenses from States whose appraisal policies, practices, or procedures are found to be inconsistent with this chapter.
+The Appraisal Subcommittee shall monitor State appraiser certifying and licensing agencies for the purpose of determining whether a State agency's policies, practices, and procedures are consistent with this chapter. The Appraisal Subcommittee and all agencies, instrumentalities,and federally recognized entities under this chapter shall not recognize appraiser certifications and licenses from States whose appraisal policies, practices, or procedures are found to be inconsistent with this chapter.
 
 #### (b) Disapproval by Appraisal Subcommittee
 

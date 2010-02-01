@@ -10,7 +10,7 @@ The Office established under subsection (a) shall be headed by a Director who sh
 
 #### (c) Voluntary and uncompensated services
 
-Notwithstanding section 1342 of title 31, the Secretary is authorized to accept voluntary and uncompensated services in furtherance of the purposes of this chapter.
+Notwithstanding section 1342 of title 31, the Secretary is authorized to accept voluntary anduncompensated services in furtherance of the purposes of this chapter.
 
 (Pub. L. 91–230, title VI, §603, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2659.)
 

@@ -68,7 +68,7 @@ From the amounts appropriated under subsection (f), the Secretary is authorized 
 
 &emsp;&emsp;(C) is enrolled in a program of undergraduate instruction leading to a bachelor's degree with a major in science, technology, engineering, mathematics, or a health-related field; and
 
-&emsp;&emsp;(D) has obtained a cumulative grade point average of at least a 3.0 (or the equivalent as determined under regulation <sup>1</sup> prescribed bythe Secretary) at the end of the most recently completed term.
+&emsp;&emsp;(D) has obtained a cumulative grade point average of at least a 3.0 (or the equivalent as determined under regulations prescribed by the Secretary) at the end of the most recently completed term.
 
 #### (3) Priority for scholarships
 
@@ -94,5 +94,13 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 The term “Governor” means the chief executive officer of a State.
 
-(Pub. L. 89–329, title VIII, §802, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3381.)
+(Pub. L. 89–329, title VIII, §802, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3381; amended Pub. L. 111–39, title VIII, §801(1), July 1, 2009, 123 Stat. 1955.)
+
+#### Amendments
+
+2009—Subsec. (d)(2)(D). Pub. L. 111–39 substituted “regulations” for “regulation”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

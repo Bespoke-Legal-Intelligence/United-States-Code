@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(H) nonelected community leaders;
 
-&emsp;&emsp;(I) State government (including the State medicaid agency and the agency administering the program under part B) of this subchapter;
+&emsp;&emsp;(I) State government (including the State medicaid agency and the agency administering the program under part B of this subchapter);
 
 &emsp;&emsp;(J) grantees under subpart II <sup>1</sup> of part C of this subchapter;
 
@@ -80,13 +80,15 @@
 
 &emsp;The planning council established or designated under paragraph (1) shall—
 
-&emsp;&emsp;(A) determine the size and demographics of the population of individuals with HIV/AIDS;
+&emsp;&emsp;(A) determine the size and demographics of the population of individuals with HIV/AIDS, as well as the size and demographics of the estimated population of individuals with HIV/AIDS who are unaware of their HIV status;
 
 &emsp;&emsp;(B) determine the needs of such population, with particular attention to—
 
-&emsp;&emsp;&emsp;(i) individuals with HIV/AIDS who know their HIV status and are not receiving HIV-related services; and
+&emsp;&emsp;&emsp;(i) individuals with HIV/AIDS who know their HIV status and are not receiving HIV-related services;
 
-&emsp;&emsp;&emsp;(ii) disparities in access and services among affected subpopulations and historically underserved communities;
+&emsp;&emsp;&emsp;(ii) disparities in access and services among affected subpopulations and historically underserved communities; and
+
+&emsp;&emsp;&emsp;(iii) individuals with HIV/AIDS who do not know their HIV status;
 
 &emsp;&emsp;(C) establish priorities for the allocation of funds within the eligible area, including how best to meet each such priority and additional factors that a grantee should consider in allocating funds under a grant based on the—
 
@@ -104,17 +106,19 @@
 
 &emsp;&emsp;(D) develop a comprehensive plan for the organization and delivery of health and support services described in section 300ff–14 of this title that—
 
-&emsp;&emsp;&emsp;(i) includes a strategy for identifying individuals who know their HIV status and are not receiving such services and for informing the individuals of and enabling the individuals to utilize the services, giving particular attention to eliminating disparities in access and services among affected subpopulations and historically underserved communities, and including discrete goals, a timetable, and an appropriate allocation of funds;
+&emsp;&emsp;&emsp;(i) includes a strategy for identifying individuals who know their HIV status and are not receiving such services and for informing the individuals of and enabling the individuals to utilize the services, giving particular attention to eliminating disparities in access and services among affected subpopulations and historically underserved communities, and includingdiscrete goals, a timetable, and an appropriate allocation of funds;
 
-&emsp;&emsp;&emsp;(ii) includes a strategy to coordinate the provision of such services with programs for HIV prevention (including outreach and early intervention) and for the prevention and treatment of substance abuse (including programs that provide comprehensive treatment services for such abuse); and
+&emsp;&emsp;&emsp;(ii) includes a strategy to coordinate the provision of such services with programs for HIV prevention (including outreach and early intervention) and for the prevention and treatment of substance abuse (including programs that provide comprehensive treatment services for such abuse);
 
-&emsp;&emsp;&emsp;(iii) is compatible with any State or local plan for the provision of services to individuals with HIV/AIDS;
+&emsp;&emsp;&emsp;(iii) is compatible with any State or local plan for the provision of services to individuals with HIV/AIDS; and
+
+&emsp;&emsp;&emsp;(iv) includes a strategy, coordinated as appropriate with other community strategies and efforts, including discrete goals, a timetable, and appropriate funding, for identifying individuals with HIV/AIDS who do not know their HIV status, making such individuals aware of such status, and enabling such individuals to use the health and support services described in section 300ff–14 of this title, with particular attention to reducing barriers to routine testing and disparities in access and services among affected subpopulations and historically underserved communities;
 
 &emsp;&emsp;(E) assess the efficiency of the administrative mechanism in rapidly allocating funds to the areas of greatest need within the eligible area, and at the discretion of the planning council, assess the effectiveness, either directly or through contractual arrangements, of the services offered in meeting the identified needs;
 
 &emsp;&emsp;(F) participate in the development of the statewide coordinated statement of need initiated by the State public health agency responsible for administering grants under part B of this subchapter;
 
-&emsp;&emsp;(G) establish methods for obtaining input on community needs and priorities whichmay include public meetings (in accordance with paragraph (7)), conducting focus groups, and convening ad-hoc panels; and
+&emsp;&emsp;(G) establish methods for obtaining input on community needs and priorities which may include public meetings (in accordance with paragraph (7)), conducting focus groups, and convening ad-hoc panels; and
 
 &emsp;&emsp;(H) coordinate with Federal grantees that provide HIV-related services within the eligible area.
 
@@ -174,7 +178,7 @@
 
 #### (d) Process for establishing allocation priorities
 
-Promptly after the date of the submission of the report required in section 501(b) of the Ryan White CARE Act Amendments of 2000 (relatingto the relationship between epidemiological measures and health care for certain individuals with HIV/AIDS), the Secretary, in consultation with planning councils and entities that receive amounts from grants under section 300ff–11(a) or 300ff–21 of this title, shall develop epidemiologic measures—
+Promptly after the date of the submission of the report required in section 501(b) of the Ryan White CARE Act Amendments of 2000 (relating to the relationship between epidemiological measures and health care for certain individuals with HIV/AIDS), the Secretary, in consultation with planning councils and entities that receive amounts from grants under section 300ff–11(a) or 300ff–21 of this title, shall develop epidemiologic measures—
 
 &emsp;(1) for establishing the number of individuals living with HIV/AIDS who are not receiving HIV-related health services; and
 
@@ -184,17 +188,13 @@ Promptly after the date of the submission of the report required in section 501(
 
 The Secretary shall provide to each chief elected official receiving a grant under section 300ff–11(a) of this title guidelines and materials for training members of the planning council under paragraph (1) regarding the duties of the council.
 
-(July 1, 1944, ch. 373, title XXVI, §2602, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 577; amended Pub. L. 102–531, title III, §312(d)(26), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 104–146, §3(b)(1), May 20, 1996, 110 Stat. 1347; Pub. L. 106–345, title I, §§101–102(c), 103, Oct. 20, 2000, 114 Stat. 1320–1323; Pub. L. 109–415, title I, §§106(b), 107(b), title VII, §702(3), Dec. 19, 2006, 120 Stat. 2780, 2783, 2820.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2602, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 577; amended Pub. L. 102–531, title III, §312(d)(26), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 104–146, §3(b)(1), May 20, 1996, 110 Stat. 1347; Pub. L. 106–345, title I, §§101–102(c), 103, Oct. 20, 2000, 114 Stat. 1320–1323; Pub. L. 109–415, title I, §§106(b), 107(b), title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2780, 2783, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 6(a), Oct. 30, 2009, 123 Stat. 2885, 2891.)
 
 #### References in Text
 
 Subpart II of part C of this subchapter, referred to in subsec. (b)(2)(J), was redesignated subpart I of part C of this subchapter by Pub. L. 106–345, title III, §301(b)(1), Oct. 20, 2000, 114 Stat. 1345, and is classified to section 300ff–51 et seq. of this title.
 
-The Social Security Act, referred to in subsec. (b)(4)(C)(v), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(4)(C)(v), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 Section 501 of the Ryan White CARE Act Amendments of 2000, referred to in subsec. (d), is section 501 of Pub. L. 106–345, which is set out as a note under section 300ff–11 of this title. Provisions relating to a report are contained in section 501(d) of Pub. L. 106–345.
 
@@ -204,7 +204,17 @@ A prior section 2602 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-2006—Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing.
+2009—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+Subsec. (b)(4)(A). Pub. L. 111–87, §6(a)(1), inserted “, as well as the size and demographics of the estimated population of individuals with HIV/AIDS who are unaware of their HIV status” before semicolon.
+
+Subsec. (b)(4)(B)(iii). Pub. L. 111–87, §6(a)(2), added cl. (iii).
+
+Subsec. (b)(4)(D)(iv). Pub. L. 111–87, §6(a)(3), added cl. (iv).
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing.
 
 Pub. L. 109–415, §107(b), substituted “this subpart” for “this part” wherever appearing.
 
@@ -303,6 +313,10 @@ Subsec. (b)(5), (6). Pub. L. 104–146, §3(b)(1)(F), added pars. (5) and (6).
 Subsec. (c). Pub. L. 104–146, §3(b)(1)(F), added subsec. (c).
 
 1992—Subsec. (a)(1). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by section 6(a) of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 2000 Amendment
 

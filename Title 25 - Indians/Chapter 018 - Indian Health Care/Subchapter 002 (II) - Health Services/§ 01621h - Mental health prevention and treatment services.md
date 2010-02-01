@@ -48,7 +48,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 (1) The governing body of any Indian tribe may, at its discretion, adopt a resolution for the establishment of a community mental health plan providing for the identification and coordination of available resources and programs to identify, prevent, or treat mental illness or dysfunctional and self-destructive behavior, including child abuse and family violence, among its members.
 
-(2) In furtherance of a plan established pursuant to paragraph (1) and at the request of a tribe, the appropriate agency, service unit, or other officials of the Bureau of Indian Affairs and the Service shall cooperate with, and provide technical assistance to, the tribe in the development of such plan. Upon the establishment of such a plan and at the request of the tribe, such officials, as directed by the memorandum of agreement developed pursuant to subsection (c) of this section, shall cooperate with the tribe in the implementation of such plan.
+(2) In furtherance of a plan established pursuant to paragraph (1) and at the request of a tribe, the appropriate agency, service unit, or other officials of the Bureau of Indian Affairsand the Service shall cooperate with, and provide technical assistance to, the tribe in the development of such plan. Upon the establishment of such a plan and at the request of the tribe, such officials, as directed by the memorandum of agreement developed pursuant to subsection (c) of this section, shall cooperate with the tribe in the implementation of such plan.
 
 (3) Two or more Indian tribes may form a coalition for the adoption of resolutions and the establishment and development of a joint community mental health plan under this subsection.
 
@@ -72,7 +72,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 &emsp;(B) staff positions with the Service; and
 
-&emsp;(C) staff positions similar to those identified in subparagraphs (A) and (B) established and maintained by Indian tribes, including positions established in contracts entered intounder the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\].
+&emsp;(C) staff positions similar to those identified in subparagraphs (A) and (B) established and maintained by Indian tribes, including positions established in contracts entered into under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\].
 
 (3)(A) The appropriate Secretary shall provide training criteria appropriate to each type of position identified in paragraph (2)(A) and ensure that appropriate training has been, or will be, provided to any individual in any such position. With respect to any such individual in a position identified pursuant to paragraph (2)(C), the respective Secretaries shall provide appropriate training to, or provide funds to an Indian tribe for the training of, such individual. In the case of positions funded under a contract entered into under the Indian Self-Determination Act, the appropriate Secretary shall ensure that such training costs are included in the contract, if necessary.
 
@@ -166,7 +166,7 @@ Any person employed as a psychologist, social worker, or marriage and family the
 
 &emsp;(1) in the case of a person employed as a psychologist, be licensed as a clinical psychologist or working under the direct supervision of a licensed clinical psychologist;
 
-&emsp;(2) in the case of a person employed as a social worker, be licensed as a social worker or working under the direct supervision of a licensed social worker; or
+&emsp;(2) in the case of a person employed as a social worker, be licensed as a social worker orworking under the direct supervision of a licensed social worker; or
 
 &emsp;(3) in the case of a person employed as a marriage and family therapist, be licensed as a marriage and family therapist or working under the direct supervision of a licensed marriage and family therapist.
 
@@ -194,7 +194,7 @@ Any person employed as a psychologist, social worker, or marriage and family the
 
 (3) Funds provided under this subsection may not be used for the purposes described in section 1621<i>o</i>(b)(1) of this title.
 
-(4) An Indian tribe or tribal organization receiving a grant under this subsection shall ensure that intermediate adolescent mental health services are coordinated with other tribal, Service, and Bureau of Indian Affairs mental health,alcohol and substance abuse, and social services programs on the reservation of such tribe or tribal organization.
+(4) An Indian tribe or tribal organization receiving a grant under this subsection shall ensure that intermediate adolescent mental health services are coordinated with other tribal, Service, and Bureau of Indian Affairs mental health, alcohol and substance abuse, and social services programs on the reservation of such tribe or tribal organization.
 
 (5) The Secretary shall establish criteria for the review and approval of applications for grants made pursuant to this subsection.
 
@@ -240,7 +240,7 @@ Section 503(a) of Pub. L. 101–630 provided that: “The purposes of this secti
 
 &emsp;“(1) authorize and direct the Indian Health Service to develop a comprehensive mental health prevention and treatment program;
 
-&emsp;“(2) provide direction and guidance relating to mental illness and dysfunctional and self-destructive behavior, including child abuse and family violence, to those Federal, tribal, State, and local agencies responsible for programs in Indian communities in areas of health care, education, social services, child and family welfare, alcohol and substance abuse, law enforcement, and judicial services;
+&emsp;“(2) provide direction and guidance relating to mental illness and dysfunctional and self-destructive behavior, including child abuse and family violence,to those Federal, tribal, State, and local agencies responsible for programs in Indian communities in areas of health care, education, social services, child and family welfare, alcohol and substance abuse, law enforcement, and judicial services;
 
 &emsp;“(3) assist Indian tribes to identify services and resources available to address mental illness and dysfunctional and self-destructive behavior;
 

@@ -68,7 +68,7 @@ Rules similar to the rules of paragraphs (1) and (2) of section 41(f) shall appl
 
 #### (h) Regulations
 
-The Secretary may prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations which—
+The Secretary may prescribe such regulations as may be necessary or appropriate to carry outthe purposes of this section, including regulations which—
 
 &emsp;(1) provide for the proper treatment of amounts which are paid or incurred for purpose of protecting any specified agricultural chemical and for other purposes, and
 

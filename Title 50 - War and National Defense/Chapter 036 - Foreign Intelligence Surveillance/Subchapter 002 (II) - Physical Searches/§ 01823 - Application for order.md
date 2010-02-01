@@ -2,7 +2,7 @@
 
 #### (a) Submission by Federal officer; approval of Attorney General; contents
 
-Each application for an order approving a physical search under this subchapter shall be made by a Federal officer in writing upon oath or affirmation to a judge of the Foreign Intelligence Surveillance Court. Each application shall require the approval of the Attorney General based upon the Attorney General's finding that it satisfies the criteria and requirements for such application as set forth in this subchapter. Each application shall include—
+Each application for an order approving a physical search under this subchapter shall bemade by a Federal officer in writing upon oath or affirmation to a judge of the Foreign Intelligence Surveillance Court. Each application shall require the approval of the Attorney General based upon the Attorney General's finding that it satisfies the criteria and requirements for such application as set forth in this subchapter. Each application shall include—
 
 &emsp;(1) the identity of the Federal officer making the application;
 
@@ -62,7 +62,7 @@ The judge may require the applicant to furnish such other information as may be 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2). Pub. L. 110–261, §107(a)(1)(A)–(C), redesignated par. (3) as (2), struck out “detailed” before “description of the premises”, and struck out former par. (2) which read as follows: “the authority conferred on the Attorney General by the President and the approval of the Attorney General to make the application;”.
+2008—Subsec. (a)(2). Pub. L. 110–261, §107(a)(1)(A)–(C), redesignated par. (3) as (2), struck out “detailed” before “description of the premises”, and struck out former par. (2) which read as follows: “the authority conferred on the Attorney General by the President and the approval of the Attorney General to make the application;”.
 
 Subsec. (a)(3). Pub. L. 110–261, §107(a)(1)(B), (D), redesignated par. (4) as (3) and inserted “or is about to be” before “owned” in subpar. (C). Former par. (3) redesignated (2).
 
@@ -74,11 +74,11 @@ Subsec. (a)(7) to (9). Pub. L. 110–261, §107(a)(1)(B), redesignated pars. (8)
 
 Subsec. (d)(1)(A). Pub. L. 110–261, §107(a)(2), substituted “the Director of National Intelligence, or the Director of the Central Intelligence Agency” for “or the Director of National Intelligence”.
 
-<b>2004</b>—Subsec. (d)(1)(A). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+2004—Subsec. (d)(1)(A). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-<b>2001</b>—Subsec. (a)(7)(B). Pub. L. 107–56 substituted “a significant purpose” for “the purpose”.
+2001—Subsec. (a)(7)(B). Pub. L. 107–56 substituted “a significant purpose” for “the purpose”.
 
-<b>2000</b>—Subsec. (d). Pub. L. 106–567 added subsec. (d).
+2000—Subsec. (d). Pub. L. 106–567 added subsec. (d).
 
 #### Effective Date of 2008 Amendment
 

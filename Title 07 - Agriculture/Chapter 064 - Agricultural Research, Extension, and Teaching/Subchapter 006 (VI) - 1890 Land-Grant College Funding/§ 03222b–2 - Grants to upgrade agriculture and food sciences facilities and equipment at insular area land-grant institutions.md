@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-It is the intent of Congress to assist the land-grant institutions in the insular areas in efforts to acquire, alter, or repair facilities or relevant equipment necessary for conducting agricultural research.
+It is the intent of Congress to assist the land-grant institutions in the insular areas in effortsto acquire, alter, or repair facilities or relevant equipment necessary for conducting agricultural research.
 
 #### (b) Method of awarding grants
 

@@ -24,17 +24,21 @@ The purpose of the HOPE for Homeowners Program is—
 
 #### (c) Establishment and implementation of program requirements
 
-#### (1) Duties of the Board
+#### (1) Duties of Secretary
 
-&emsp;In order to carry out the purposes of the HOPE for Homeowners Program, the Board shall—
+&emsp;In order to carry out the purposes of the HOPE for Homeowners Program, the Secretary, after consultation with the Board, shall—
 
-&emsp;&emsp;(A) establish requirements and standards for the program; and
+&emsp;&emsp;(A) establish requirements and standards for the program consistent with section 1709(b) of this title to the maximum extent possible; and
 
 &emsp;&emsp;(B) prescribe such regulations and provide such guidance as may be necessary or appropriate to implement such requirements and standards.
 
 #### (2) Duties of the Secretary
 
 &emsp;In carrying out any of the program requirements or standards established under paragraph (1), the Secretary may issue such interim guidance and mortgagee letters as the Secretary determines necessary or appropriate.
+
+#### (3) Duties of Board
+
+&emsp;The Board shall advise the Secretary regarding the establishment and implementation of the HOPE for Homeowners Program.
 
 #### (d) Insurance of mortgages
 
@@ -44,35 +48,27 @@ The Secretary is authorized upon application of a mortgagee to make commitments 
 
 To be eligible for insurance under this section, a refinanced eligible mortgage shall comply with all of the following requirements:
 
-#### (1) Lack of capacity to pay existing mortgage
+#### (1) Borrower certification
 
-#### (A) Borrower certification
+#### (A) No intentional default or false information
 
-#### (i) In general
+&emsp;&emsp;The mortgagor shall provide a certification to the Secretary that the mortgagor has not intentionally defaulted on the existing mortgage or mortgages or any other substantial debt within the last 5 years and has not knowingly, or willfully and with actual knowledge, furnished material information known to be false for the purpose of obtaining the eligible mortgage to be insured and has not been convicted under Federal or State law for fraud during the 10-year period ending upon the insurance of the mortgage under this section.
 
-&emsp;&emsp;&emsp;The mortgagor shall provide certification to the Secretary that the mortgagor has not intentionally defaulted on the mortgage or any other debt, and has not knowingly, or willfully and with actual knowledge, furnished material information known to be false for the purpose of obtaining any eligible mortgage.
+#### (B) Liability for repayment
 
-#### (ii) Penalties
+&emsp;&emsp;The mortgagor shall agree in writing that the mortgagor shall be liable to repay to the Secretary any direct financial benefit achieved from the reduction of indebtedness on the existing mortgage or mortgages on the residence refinanced under this section derived from misrepresentations made by the mortgagor in the certifications and documentation required under this paragraph, subject to the discretion of the Secretary.
 
-#### (I) False statement
+#### (C) Current borrower debt-to-income ratio
 
-&emsp;&emsp;&emsp;&emsp;Any certification filed pursuant to clause (i) shall contain an acknowledgment that any willful false statement made in such certification is punishable under section 1001,<sup>2</sup> of title 18 by fine or imprisonment of not more than 5 years, or both.
-
-#### (II) Liability for repayment
-
-&emsp;&emsp;&emsp;&emsp;The mortgagor shall agree in writing that the mortgagor shall be liable to repay to the Federal Housing Administration any direct financial benefit achieved from the reduction of indebtedness on the existing mortgage or mortgages on the residence refinanced under this section derived from misrepresentations made in the certifications and documentation required under this subparagraph, subject to the discretion of the Secretary.
-
-#### (B) Current borrower debt-to-income ratio
-
-&emsp;&emsp;As of March 1, 2008, the mortgagor shall have had, or thereafter is likely to have, due to the terms of the mortgage being reset, a ratio of mortgage debt to income, taking into consideration all existing mortgages of that mortgagor at such time, greater than 31 percent (or such higher amount as the Board determines appropriate).
+&emsp;&emsp;As of the date of application for a commitment to insure or insurance under this section, the mortgagor shall have had, or thereafter is likely to have, due to the terms of the mortgage being reset, a ratio of mortgage debt to income, taking into consideration all existing mortgages of that mortgagor at such time, greater than 31 percent (or such higher amount as the Secretary determines appropriate).
 
 #### (2) Determination of principal obligation amount
 
 &emsp;The principal obligation amount of the refinanced eligible mortgage to be insured shall—
 
-&emsp;&emsp;(A) be determined by the reasonable ability of the mortgagor to make his or her mortgage payments, as such ability is determined by the Secretary pursuant to section 1709(b)(4) of this title or by any other underwriting standards established by the Board; and
+&emsp;&emsp;(A) be determined by the reasonable ability of the mortgagor to make his or her mortgage payments, as such ability is determined by the Secretary pursuant to section 1709(b)(4) of this title or by any other underwriting standards established by the Secretary; and
 
-&emsp;&emsp;(B) not exceed 90 percent of the appraised value of the property to which such mortgage relates (or such higher percentage as the Board determines, in the discretion of the Board).
+&emsp;&emsp;(B) not exceed 90 percent of the appraised value of the property to which such mortgage relates (or such higher percentage asthe Secretary determines, in the discretion of the Secretary).
 
 #### (3) Required waiver of prepayment penalties and fees
 
@@ -82,17 +78,17 @@ To be eligible for insurance under this section, a refinanced eligible mortgage 
 
 #### (A) Required agreement
 
-&emsp;&emsp;All holders of outstanding mortgage liens on the property to which the eligible mortgage relates shall agree to accept the proceeds of the insured loan and any payments made under this paragraph, as payment in full of all indebtedness under the eligible mortgage, and all encumbrances related to such eligible mortgage shall be removed. The Secretary may take such actions, subject to standards established by the Board under subparagraph (B), as may be necessary and appropriate to facilitate coordination and agreement between the holders of the existing senior mortgage and any existing subordinate mortgages, taking into consideration the subordinate lien status of such subordinate mortgages. Such actions may include making payments, which shall be accepted as payment in full of all indebtedness under the eligible mortgage, to any holder of an existing subordinate mortgage, in lieu of any future appreciation payments authorized under subparagraph (B).
+&emsp;&emsp;All holders of outstanding mortgage liens on the property to which the eligible mortgage relates shall agree to accept the proceeds of the insured loan and any payments made under this paragraph, as payment in full of all indebtedness under the eligible mortgage, and all encumbrances related to such eligible mortgage shall be removed. The Secretary may take such actions as may be necessary and appropriate to facilitate coordination and agreement between the holders of the existing senior mortgage and any existing subordinate mortgages, taking into consideration the subordinate lien status of such subordinate mortgages. Such actions may include making payments, which shall be accepted as payment in full of all indebtedness under the eligible mortgage, to any holder of an existing subordinate mortgage, in lieu of any future appreciation payments authorized under subparagraph (B).
 
 #### (B) Shared appreciation
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Board shall establish standards and policies that will allow for the payment to the holder of any existing subordinate mortgage of a portion of any future appreciation in the property secured by such eligible mortgage that is owed to the Secretary pursuant to subsection (k).
+&emsp;&emsp;&emsp;The Secretary may establish standards and policies that will allow for the payment to the holder of any existing subordinate mortgage of a portion of any future appreciation in the property secured by such eligible mortgage that is owed to the Secretary pursuant to subsection (k).
 
 #### (ii) Factors
 
-&emsp;&emsp;&emsp;In establishing the standards and policies required under clause (i), the Board shall take into consideration—
+&emsp;&emsp;&emsp;In establishing the standards and policies required under clause (i), the Secretary shall take into consideration—
 
 &emsp;&emsp;&emsp;&emsp;(I) the status of any subordinate mortgage;
 
@@ -100,7 +96,7 @@ To be eligible for insurance under this section, a refinanced eligible mortgage 
 
 &emsp;&emsp;&emsp;&emsp;(III) the extent to which the current appraised value of the property securing a subordinate mortgage is less than the outstanding principal balance and accrued interest on any other liens that are senior to such subordinate mortgage; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) such other factors as the Board determines to be appropriate.
+&emsp;&emsp;&emsp;&emsp;(IV) such other factors as the Secretary determines to be appropriate.
 
 #### (C) Voluntary program
 
@@ -120,7 +116,7 @@ To be eligible for insurance under this section, a refinanced eligible mortgage 
 
 #### (7) Prohibition on second liens
 
-&emsp;A mortgagor may not grant a new second lien on the mortgaged property during the first 5 years of the term of the mortgage insured under this section, except as the Board determines to be necessary to ensure the maintenance of property standards; and provided that such new outstanding liens (A) do not reduce the value of the Government's equity in the borrower's home; and (B) when combined with the mortgagor's existing mortgage indebtedness, do not exceed 95 percent of the home's appraised value at the time of the new second lien.
+&emsp;A mortgagor may not grant a new second lien on the mortgaged property during the first 5 years of the term of the mortgage insured under this section, except as the Secretary determines to be necessary to ensure the maintenance of property standards.
 
 #### (8) Appraisals
 
@@ -132,21 +128,31 @@ To be eligible for insurance under this section, a refinanced eligible mortgage 
 
 &emsp;&emsp;(C) be completed by an appraiser who meets the competency requirements of the Uniform Standards of Professional Appraisal Practice;
 
-&emsp;&emsp;(D) be wholly consistent with the appraisal standards, practices, and procedures under section 1708(e) of this title that apply to all loans insured under this chapter; and
+&emsp;&emsp;(D) be wholly consistent with the appraisal standards, practices, and procedures under section 1708(e) <sup>2</sup> of this title that apply to all loans insured under this chapter; and
 
 &emsp;&emsp;(E) comply with the requirements of subsection (g) of this section (relating to appraisal independence).
 
 #### (9) Documentation and verification of income
 
-&emsp;In complying with the FHA underwriting requirements under the HOPE for Homeowners Program under this section, the mortgagee shall document and verify the income of the mortgagor or non-filing status by procuring (A) an income tax return transcript of the income tax returns of the mortgagor, or (B) a copy of the income tax returns from the Internal Revenue Service, for the two most recent years for which the filing deadline for such years has passed and by any other method, in accordance with procedures and standards that the Board shall establish.
+&emsp;In complying with the FHA underwriting requirements under the HOPE for Homeowners Program under this section, the mortgagee shall document and verify the income of the mortgagor or non-filing status in accordance with procedures and standards that the Secretary shall establish (provided that such procedures and standards are consistent with section 1709(b) of this title to the maximum extent possible) which may include requiring the mortgagee to procure a copy of the income tax returns from the Internal Revenue Service, for the two most recent years for which the filing deadline for such years has passed.
 
 #### (10) Mortgage fraud
 
-&emsp;The mortgagor shall not have been convicted under Federal or State law for fraud during the 10-year period ending upon the insurance of the mortgage under this section.
+#### (A) Prohibition
+
+&emsp;&emsp;The mortgagor shall not have been convicted under Federal or State law for fraud during the 10-year period ending upon the insurance of the mortgage under this section.
+
+#### (B) Duty of mortgagee
+
+&emsp;&emsp;The duty of the mortgagee to ensure that the mortgagor is in compliance with the prohibition under subparagraph (A) shall be satisfied if the mortgagee makes a good faith effort to determine that the mortgagor has not been convicted under Federal or State law for fraud during the period described in subparagraph (A).
 
 #### (11) Primary residence
 
-&emsp;The mortgagor shall provide documentation satisfactory in the determination of the Secretary to prove that the residence covered by the mortgage to be insured under this section is occupied by the mortgagor as the primary residence of the mortgagor, and that such residence is the only residence in which the mortgagor has any present ownership interest.
+&emsp;The mortgagor shall provide documentation satisfactory in the determination of the Secretary to prove that the residence covered by the mortgage to be insured under this section is occupied by the mortgagor as the primary residence of the mortgagor, and that such residence is the only residence in which the mortgagor has any present ownership interest, except that the Secretary may provide exceptions to such latter requirement (relating to present ownership interest) for any mortgagor who has inherited a property.
+
+#### (12) Ban on millionaires
+
+&emsp;The mortgagor shall not have a net worth, as of the date the mortgagor first applies for a mortgage to be insured under the Program under this section, that exceeds $1,000,000.
 
 #### (f) Study of auction or bulk refinance program
 
@@ -198,37 +204,47 @@ To be eligible for insurance under this section, a refinanced eligible mortgage 
 
 #### (1) In general
 
-&emsp;The Board shall, by rule or order, establish standards and policies to require the underwriter of the insured loan to provide such representations and warranties as the Board considers necessary or appropriate to enforce compliance with all underwriting and appraisal standards of the HOPE for Homeowners Program.
+&emsp;The Secretary shall, by rule or order, establish standards and policies to require the underwriter of the insured loan to provide such representations and warranties as the Secretary considers necessary or appropriate to enforce compliance with all underwriting and appraisal standards of the HOPE for Homeowners Program.
 
 #### (2) Exclusion for violations
 
-&emsp;The Board shall prohibit the Secretary from paying insurance benefits to a mortgagee who violates the representations and warranties, as established under paragraph (1), or in any case in which a mortgagor fails to make the first payment on a refinanced eligible mortgage.
+&emsp;The Secretary shall not pay insurance benefits to a mortgagee who violates the representations and warranties, as established under paragraph (1), or in any case in which a mortgagor fails to make the first payment on a refinanced eligible mortgage.
 
 #### (3) Other authority
 
-&emsp;The Board may establish such other standards or policies as necessary to protect against adverse selection, including requiring loans identified by the Secretary as higher risk loans to demonstrate payment performance for a reasonable period of time prior to being insured under the program.
+&emsp;The Secretary may establish such other standards or policies as necessary to protect against adverse selection, including requiring loans identified by the Secretary as higher risk loans to demonstrate payment performance for a reasonable period of time prior to being insured under the program.
 
 #### (i) Premiums
 
-For each refinanced eligible mortgage insured under this section, the Secretary shall establish and collect—
+#### (1) Premiums
 
-&emsp;(1) at the time of insurance, a single premium payment in an amount equal to 3 percent of the amount of the original insured principal obligation of the refinanced eligible mortgage, which shall be paid from the proceeds of the mortgage being insured under this section, through the reduction of the amount of indebtedness that existed on the eligible mortgage prior to refinancing; and
+&emsp;For each refinanced eligible mortgage insured under this section, the Secretary shall establish and collect—
 
-&emsp;(2) in addition to the premium required under paragraph (1), an annual premium in an amount equal to 1.5 percent of the amount of the remaining insured principal balance of the mortgage.
+&emsp;&emsp;(A) at the time of insurance, a single premium payment in an amount not more than 3 percent of the amount of the original insured principal obligation of the refinanced eligible mortgage, which shall be paid from the proceeds of the mortgage being insured under this section, through the reduction of the amount of indebtedness that existed on the eligible mortgage prior to refinancing; and
+
+&emsp;&emsp;(B) in addition to the premium required under paragraph (1), an annual premium in an amount not more than 1.5 percent of the amount of the remaining insured principal balance of the mortgage.
+
+#### (2) Considerations
+
+&emsp;In setting the premium under this subsection, the Secretary shall consider—
+
+&emsp;&emsp;(A) the financial integrity of the HOPE for Homeowners Program; and
+
+&emsp;&emsp;(B) the purposes of the HOPE for Homeowners Program described in subsection (b).
 
 #### (j) Origination fees and interest rate
 
-The Board shall establish—
+The Secretary shall establish—
 
 &emsp;(1) a reasonable limitation on origination fees for refinanced eligible mortgages insured under this section; and
 
 &emsp;(2) procedures to ensure that interest rates on such mortgages shall be commensurate with market rate interest rates on such types of loans.
 
-#### (k) Equity and appreciation
+#### (k) Exit fee
 
 #### (1) Five-year phase-in for equity as a result of sale or refinancing
 
-&emsp;For each eligible mortgage insured under this section, the Secretary and the mortgagor of such mortgage shall, upon any sale or disposition of the property to which such mortgage relates, or upon the subsequent refinancing of such mortgage, be entitled to the following with respect to any equity created as a direct result of such sale or refinancing:
+&emsp;For each eligible mortgage insured under this section, the Secretary and the mortgagor of such mortgage shall, upon any sale or disposition of the property to which such mortgage relates, or upon the subsequent refinancing of such mortgage, be entitled to the following with respect to any equity created as a direct result of the mortgage being insured under this section:
 
 &emsp;&emsp;(A) If such sale or refinancing occurs during the period that begins on the date that such mortgage is insured and ends 1 year after such date of insurance, the Secretary shall be entitled to 100 percent of such equity.
 
@@ -244,13 +260,13 @@ The Board shall establish—
 
 #### (2) Appreciation in value
 
-&emsp;For each eligible mortgage insured under this section, the Secretary and the mortgagor of such mortgage shall, upon any sale or disposition of the property to which such mortgage relates, each be entitled to 50 percent of any appreciation in value of the appraised value of such property that has occurred since the date that such mortgage was insured under this section.
+&emsp;For each eligible mortgage insured under this section, the Secretary may, upon any sale or disposition of the property to which the mortgage relates, be entitled to up to 50 percent of appreciation, up to the appraised value of the home at the time when the mortgage being refinanced under this section was originally made. The Secretary may share any amounts received under this paragraph with or assign the rights of any amounts due to the Secretary to the holder of the existing senior mortgage on the eligible mortgage, the holder of any existing subordinate mortgage on the eligible mortgage, or both.
 
 #### (<i>l</i>) Establishment of HOPE Fund
 
 #### (1) In general
 
-&emsp;There is established in the Federal Housing Administration a revolving fund to be known as the Home Ownership Preservation Entity Fund, which shall be used by the Board for carrying out the mortgage insurance obligations under this section.
+&emsp;There is established in the Federal Housing Administration a revolving fund to be known as the Home Ownership Preservation Entity Fund, which shall be used by the Secretary for carrying out the mortgage insurance obligations under this section.
 
 #### (2) Management of Fund
 
@@ -260,9 +276,9 @@ The Board shall establish—
 
 The aggregate original principal obligation of all mortgages insured under this section may not exceed $300,000,000,000.
 
-#### (n) Reports by the Board
+#### (n) Reports by the Secretary
 
-The Board shall submit monthly reports to the Congress identifying the progress of the HOPEfor Homeowners Program, which shall contain the following information for each month:
+The Secretary shall submit monthly reports to the Congress identifying the progress of theHOPE for Homeowners Program, which shall contain the following information for each month:
 
 &emsp;(1) The number of new mortgages insured under this section, including the location of the properties subject to such mortgages by census tract.
 
@@ -274,7 +290,7 @@ The Board shall submit monthly reports to the Congress identifying the progress 
 
 &emsp;(5) The claim and loss rates for mortgages insured under this section.
 
-&emsp;(6) Any other information that the Board considers appropriate.
+&emsp;(6) Any other information that the Secretary considers appropriate.
 
 #### (<i>o</i>) Required outreach efforts
 
@@ -282,7 +298,7 @@ The Secretary shall carry out outreach efforts to ensure that homeowners, lender
 
 #### (p) Enhancement of FHA capacity
 
-Under the direction of the Board, the Secretary shall take such actions as may be necessary to—
+The Secretary shall take such actions as may be necessary to—
 
 &emsp;(1) contract for the establishment of underwriting criteria, automated underwriting systems, pricing standards, and other factors relating to eligibility for mortgages insured under this section;
 
@@ -302,7 +318,7 @@ Under the direction of the Board, the Secretary shall take such actions as may b
 
 #### (r) Sunset
 
-The Secretary may not enter into any new commitment to insure any refinanced eligible mortgage, or newly insure any refinanced eligible mortgage pursuant to this section before October 1, 2008 <sup>3</sup> or after September 30, 2011.
+The Secretary may not enter into any new commitment to insure any refinanced eligible mortgage, or newly insure any refinanced eligible mortgage pursuant to this section before October 1, 2008 or after September 30, 2011.
 
 #### (s) Definitions
 
@@ -314,7 +330,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Board
 
-&emsp;The term “Board” means the Board of Directors of the HOPE for Homeowners Program. The Board shall be composed of the Secretary, the Secretary of the Treasury, the Chairperson of the Board of Governors of the Federal Reserve System, and the Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation, or their designees.
+&emsp;The term “Board” means the Advisory Board for the HOPE for Homeowners Program. The Board shall be composed of the Secretary, the Secretary of the Treasury, the Chairperson of the Board of Governors of the Federal Reserve System, and the Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation, or their designees.
 
 #### (3) Eligible mortgage
 
@@ -324,7 +340,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i) occupies such property as his or her principal residence; and
 
-&emsp;&emsp;&emsp;(ii) cannot, subject to subsection (e)(1)(B) and such other standards established by the Board, afford his or her mortgage payments; and
+&emsp;&emsp;&emsp;(ii) cannot, subject to such standards established by the Secretary, afford his or her mortgage payments; and
 
 &emsp;&emsp;(B) originated on or before January 1, 2008.
 
@@ -380,7 +396,7 @@ This section shall not be construed to require that any approved financial insti
 
 #### (v) Rule of construction related to insurance of mortgages
 
-Except as otherwise provided for in this section or by action of the Board, the provisions and requirements of section 1709(b) of this title shall apply with respect to the insurance of any eligible mortgage under this section.
+Except as otherwise provided for in this section or by action of the Secretary, the provisions and requirements of section 1709(b) of this title shall apply with respect to the insurance of any eligible mortgage under this section. The Secretary shall conform documents, forms, and procedures for mortgages insured under this section to those in place for mortgages insured under section 1709(b) of this title to the maximum extent possible consistent with the requirements of this section.
 
 #### (w) HOPE Bonds
 
@@ -406,11 +422,25 @@ Except as otherwise provided for in this section or by action of the Board, the 
 
 &emsp;Amounts collected under the HOPE for Homeowners Program in accordance with subsections (i) and (k) in excess of the net cost to the Federal Government for such Program shall be used to reduce the National debt.
 
-(June 27, 1934, ch. 847, title II, §257, as added Pub. L. 110–289, div. A, title IV, §1402(a), July 30, 2008, 122 Stat. 2800; amended Pub. L. 110–343, div. A, title I, §124, Oct. 3, 2008, 122 Stat. 3791.)
+#### (x) Payments to servicers and originators
+
+The Secretary may establish a payment to the—
+
+&emsp;(1) servicer of the existing senior mortgage or existing subordinate mortgage for every loan insured under the HOPE for Homeowners Program; and
+
+&emsp;(2) originator of each new loan insured under the HOPE for Homeowners Program.
+
+#### (y) Auctions
+
+The Secretary, with the concurrence of the Board, shall, if feasible, establish a structure and organize procedures for an auction to refinance eligible mortgages on a wholesale or bulk basis.
+
+(June 27, 1934, ch. 847, title II, §257, as added Pub. L. 110–289, div. A, title IV, §1402(a), July 30, 2008, 122 Stat. 2800; amended Pub. L. 110–343, div. A, title I, §124, Oct. 3, 2008, 122 Stat. 3791; Pub. L. 111–22, div. A, title II, §202(a), May 20, 2009, 123 Stat. 1640.)
 
 #### References in Text
 
 The Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (e)(8)(B), is Pub. L. 101–73, Aug. 9, 1989, 103 Stat. 183. Title XI of the Act is classified principally to chapter 34A (§3331 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 1811 of this title and Tables.
+
+Section 1708(e) of this title, referred to in subsec. (e)(8)(D), was redesignated section 1708(f) and then 1708(g) of this title by Pub. L. 110–289, div. B, title I, §2116(1)(B), July 30, 2008, 122 Stat. 2832, and Pub. L. 111–22, div. A, title II, §203(b)(1), May 20, 2009, 123 Stat. 1643.
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (w)(1)(B), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
@@ -418,9 +448,73 @@ Section 4568(b) of this title, referred to in subsec. (w)(2), was in the origina
 
 #### Codification
 
-Another section 257 of act June 27, 1934, ch. 847, is classified to section 1715z–24 of this title.
+Pub. L. 111–22, §202(a)(2), which directed amendment of subsecs. (e), (h)(1), (h)(3), (j), (<i>l</i>), (n), (s)(3), and (v) bysubstituting “Secretary” for “Board” each place such term appeared, was not executed to subsec. (e)(4)(A), (9), or the heading for subsec. (n), to reflect the probable intent of Congress and the amendments by Pub. L. 111–22, §202(a)(3)(B)(i), (D)(ii), (7). See 2010 Amendment notes below.
+
+Another section 257 of act June 27, 1934, was renumbered section 258 and is classified to section 1715z–24 of this title.
 
 #### Amendments
+
+2009—Subsec. (c)(1). Pub. L. 111–22, §202(a)(1)(A), (B), substituted “Secretary” for “the Board” in heading and “Secretary, after consultation with the Board,” for “Board” in introductory provisions.
+
+Subsec. (c)(1)(A). Pub. L. 111–22, §202(a)(1)(C), inserted “consistent with section 1709(b) of this title to the maximum extent possible” before semicolon.
+
+Subsec. (c)(3). Pub. L. 111–22, §202(a)(1)(D), added par. (3).
+
+Subsec. (e)(1). Pub. L. 111–22, §202(a)(3)(A), added par. (1) and struck out former par. (1) which related to lack of capacity to pay existing mortgage.
+
+Subsec. (e)(2). Pub. L. 111–22, §202(a)(2), substituted “established by the Secretary” for “established by the Board” in subpar. (A) and “Secretary” for “Board” in two places in subpar. (B).
+
+Subsec. (e)(4)(A). Pub. L. 111–22, §202(a)(3)(B)(i), struck out “, subject to standards established by the Board under subparagraph (B),” after “may take such actions”. See Codification note above.
+
+Subsec. (e)(4)(B)(i). Pub. L. 111–22, §202(a)(3)(B)(ii), substituted “may” for “shall”.
+
+Pub. L. 111–22, §202(a)(2), substituted “The Secretary” for “The Board”.
+
+Subsec. (e)(4)(B)(ii). Pub. L. 111–22, §202(a)(2), substituted “Secretary” for “Board” in introductory provisions and in subcl. (IV).
+
+Subsec. (e)(7). Pub. L. 111–22, §202(a)(3)(C), struck out “; and provided that such new outstanding liens (A) do not reduce the value of the Government's equity in the borrower's home; and (B) when combined with the mortgagor's existing mortgage indebtedness, do not exceed 95 percent of the home's appraised value at the time of the new second lien” after “property standards”.
+
+Pub. L. 111–22, §202(a)(2), substituted “Secretary” for “Board”.
+
+Subsec. (e)(9). Pub. L. 111–22, §202(a)(3)(D), substituted “in accordance with procedures and standards that the Secretary shall establish (provided that such procedures and standards are consistent with section 1709(b) of this title to the maximum extent possible) which may include requiring the mortgagee to procure” for “by procuring (A) an income tax return transcript of the income tax returns of the mortgagor, or (B)” and struck out “and by any other method, in accordance with procedures and standards that the Board shall establish” before period at end. See Codification note above.
+
+Subsec. (e)(10). Pub. L. 111–22, §202(a)(3)(E), designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
+
+Subsec. (e)(11). Pub. L. 111–22, §202(a)(3)(F), inserted “, except that the Secretary may provide exceptions to such latter requirement (relating to present ownership interest) for any mortgagor who has inherited a property” before period at end.
+
+Subsec. (e)(12). Pub. L. 111–22, §202(a)(3)(G), added par. (12).
+
+Subsec. (h)(1). Pub. L. 111–22, §202(a)(2), substituted “Secretary” for “Board” in two places.
+
+Subsec. (h)(2). Pub. L. 111–22, §202(a)(4), substituted “The Secretary shall not pay” for “The Board shall prohibit the Secretary from paying”.
+
+Subsec. (h)(3). Pub. L. 111–22, §202(a)(2), substituted “The Secretary” for “The Board”.
+
+Subsec. (i). Pub. L. 111–22, §202(a)(5), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively, and adjusted margins, substituted “not more than 3 percent” for “equal to 3 percent” in par. (1)(A) and “not more than 1.5 percent” for “equal to 1.5 percent” in par. (1)(B), and added par. (2).
+
+Subsec. (j). Pub. L. 111–22, §202(a)(2), substituted “Secretary” for “Board” in introductory provisions.
+
+Subsec. (k). Pub. L. 111–22, §202(a)(6)(A), substituted “Exit fee” for “Equity and appreciation” in heading.
+
+Subsec. (k)(1). Pub. L. 111–22, §202(a)(6)(B), substituted “the mortgage being insured under this section” for “such sale or refinancing” in introductory provisions.
+
+Subsec. (k)(2). Pub. L. 111–22, §202(a)(6)(C), substituted “may, upon any sale or disposition of the property to which the mortgage relates, be entitled to up to 50 percent of appreciation, up to the appraised value of the home at the time when the mortgage being refinanced under this section was originally made. The Secretary may share any amounts received under this paragraph with or assign the rights of any amounts due to the Secretary to the holder of the existing senior mortgage on the eligible mortgage, the holder of any existing subordinate mortgage on the eligible mortgage, or both.” for “and the mortgagor of such mortgage shall, upon any sale or disposition of the property to which such mortgage relates, each be entitled to 50 percent of any appreciation in value of the appraised value of such property that has occurred since the date that such mortgage was insured under this section.”
+
+Subsec. (<i>l</i>)(1). Pub. L. 111–22, §202(a)(2), substituted “Secretary” for “Board”.
+
+Subsec. (n). Pub. L. 111–22, §202(a)(2), (7), substituted “Secretary” for “the Board” in heading and “Secretary” for “Board” in introductory provisions and in par. (6). See Codification note above.
+
+Subsec. (p). Pub. L. 111–22, §202(a)(8), substituted “The” for “Under the direction of the Board, the” in introductory provisions.
+
+Subsec. (s)(2). Pub. L. 111–22, §202(a)(9)(A), substituted “Advisory Board for” for “Board of Directors of”.
+
+Subsec. (s)(3)(A)(ii). Pub. L. 111–22, §202(a)(9)(B), substituted “such” for “subsection (e)(1)(B) and such other”.
+
+Pub. L. 111–22, §202(a)(2), substituted “Secretary” for “Board”.
+
+Subsec. (v). Pub. L. 111–22, §202(a)(2), (10), substituted “action of the Secretary” for “action of the Board” and inserted at end “The Secretary shall conform documents, forms, and procedures for mortgages insured under this section to those in place for mortgages insured under section 1709(b) of this title to the maximum extent possible consistent with the requirements of this section.”
+
+Subsecs. (x), (y). Pub. L. 111–22, §202(a)(11), added subsecs. (x) and (y).
 
 2008—Subsec. (e)(1)(B). Pub. L. 110–343, §124(1)(A), inserted “, or thereafter is likely to have, due to the terms of the mortgage being reset,” before “a ratio”.
 
@@ -432,7 +526,5 @@ Subsec. (w)(1)(C). Pub. L. 110–343, §124(2), inserted “and payments pursuan
 
 <i><sup>1</sup></i><i> So in original. Probably should be “principal”.</i>
 
-<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

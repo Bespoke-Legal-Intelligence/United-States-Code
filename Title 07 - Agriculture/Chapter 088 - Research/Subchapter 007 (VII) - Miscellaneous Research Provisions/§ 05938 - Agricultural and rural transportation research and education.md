@@ -36,7 +36,7 @@ A grant shall be awarded under this section on a competitive, peer- and merit-re
 
 #### (g) No duplication
 
-In awarding grants under this section, the Secretary shall ensure that activities funded underthis section do not duplicate the efforts of the University Transportation Centers described in sections 5505 and 5506 of title 49.
+In awarding grants under this section, the Secretary shall ensure that activities funded under this section do not duplicate the efforts of the University Transportation Centers described in sections 5505 and 5506 of title 49.
 
 #### (h) Authorization of appropriations
 

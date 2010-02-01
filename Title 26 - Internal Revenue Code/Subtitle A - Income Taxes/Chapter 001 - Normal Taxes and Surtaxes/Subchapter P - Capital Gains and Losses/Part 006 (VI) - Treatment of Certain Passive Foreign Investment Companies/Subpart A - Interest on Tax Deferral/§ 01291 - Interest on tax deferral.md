@@ -170,11 +170,7 @@ For purposes of this section—
 
 #### (e) Certain basis, etc., rules made applicable
 
-Except to the extent inconsistent with the regulations prescribed under subsection (f), rules similar to the rules of subsections (c), (d), (e), and (f) of section 1246 (as in effect on the day before the date of the enactment of the American Jobs Creation Act of 2004) shall apply for purposes of this section; except that—
-
-&emsp;(1) the reduction under subsection (e) of such section shall be the excess of the basis determined under section 1014 over the adjusted basis of the stock immediately before the decedent's death, and
-
-&emsp;(2) such a reduction shall not apply in the case of a decedent who was a nonresident alien at all times during his holding period in the stock.
+Except to the extent inconsistent with the regulations prescribed under subsection (f), rules similar to the rules of subsections (c), (d), and (f) of section 1246 (as in effect on the day before the date of the enactment of the American Jobs Creation Act of 2004) shall apply for purposes of this section.
 
 #### (f) Recognition of gain
 
@@ -198,9 +194,9 @@ To the extent provided in regulations, in the case of any transfer of stock in a
 
 &emsp;&emsp;(C) to the extent—
 
-&emsp;&emsp;&emsp;(i) that such excess distribution taxes are allocated to a taxable year referred toin subsection (a)(1)(B), such taxes shall be taken into account under section 901 for the current year, and
+&emsp;&emsp;&emsp;(i) that such excess distribution taxes are allocated to a taxable year referred to in subsection (a)(1)(B), such taxes shall be taken into account under section 901 for the current year, and
 
-&emsp;&emsp;&emsp;(ii) that such excess distribution taxes are allocated to any other taxable year, such taxes shall reduce (subject to the principles of section 904(d) and not below zero) the increase in tax determined under subsection (c)(2) for such taxable year by reason of such distribution (but such taxes shall not be taken into account under section 901).
+&emsp;&emsp;&emsp;(ii) that such excess distribution taxes are allocated to any other taxable year, such taxes shall reduce (subject to the principles of section 904(d) and not below zero) the increase in tax determined undersubsection (c)(2) for such taxable year by reason of such distribution (but such taxes shall not be taken into account under section 901).
 
 #### (2) Definitions
 
@@ -226,9 +222,9 @@ To the extent provided in regulations, in the case of any transfer of stock in a
 
 (Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2566; amended Pub. L. 100–647, title I, §1012(p)(1), (3), (6), (7), (9), (12)–(14), (28), (31), (33), title VI, §6127(b), Nov. 10, 1988, 102 Stat. 3515–3517, 3520, 3521, 3715; Pub. L. 105–34, title XI, §1122(b), Aug. 5, 1997, 111 Stat. 976; Pub. L. 105–206, title VI, §6011(c)(2), July 22, 1998, 112 Stat. 818; Pub. L. 107–16, title V, §542(e)(5)(B), June 7, 2001, 115 Stat. 85; Pub. L. 108–357, title IV, §413(c)(24), Oct. 22, 2004, 118 Stat. 1509.)
 
-#### Amendment of Subsection (e)
+#### Amendment of Section
 
-<i>Pub. L. 107–16, title V, §542(e)(5)(B), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 85, 86, 150, provided that, applicable to estates of decedents dying after Dec. 31, 2009, subsection (e) of this section is temporarily amended by striking “(e),” and by striking “; except that” and all that follows and inserting a period at the end. See Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -239,6 +235,14 @@ The date of the enactment of the American Jobs Creation Act of 2004, referred to
 2004—Subsec. (b)(3)(F). Pub. L. 108–357, §413(c)(24)(A), substituted “959(a)” for “551(d), 959(a),”.
 
 Subsec. (e). Pub. L. 108–357, §413(c)(24)(B), inserted “(as in effect on the day before the date of the enactment of the American Jobs Creation Act of 2004)” after “section 1246” in introductory provisions.
+
+2001—Subsec. (e). Pub. L. 107–16, §§542(e)(5)(B), 901, temporarily struck out “(e),” after “subsections (c), (d),” and substituted period at end for “; except that—
+
+&emsp;“(1) the reduction under subsection (e) of such section shall be the excess of the basis determined under section 1014 over the adjusted basis of the stock immediately before the decedent's death, and
+
+&emsp;“(2) such a reduction shall not apply in the case of a decedent who was a nonresident alien at all times during his holding period in the stock.”
+
+> See Effective and Termination Dates of 2001 Amendment note below.
 
 1998—Subsec. (d)(1). Pub. L. 105–206 inserted at end “In the case of stock which is marked to market under section 475 or any other provision of this chapter, this section shall not apply, except that rules similar to the rules of section 1296(j) shall apply.”
 

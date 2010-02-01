@@ -1,6 +1,6 @@
 ### §1340. Internal revenue; customs duties
 
-The district courts shall have original jurisdiction of any civil action arising under any Act of Congress providing for internal revenue, or revenue from imports or tonnage except matters within the jurisdiction of the Court of International Trade.
+The district courts shall have original jurisdiction of any civil action arising under any Act of Congress providing for internal revenue, orrevenue from imports or tonnage except matters within the jurisdiction of the Court of International Trade.
 
 (June 25, 1948, ch. 646, 62 Stat. 932; Pub. L. 96–417, title V, §501(21), Oct. 10, 1980, 94 Stat. 1742.)
 

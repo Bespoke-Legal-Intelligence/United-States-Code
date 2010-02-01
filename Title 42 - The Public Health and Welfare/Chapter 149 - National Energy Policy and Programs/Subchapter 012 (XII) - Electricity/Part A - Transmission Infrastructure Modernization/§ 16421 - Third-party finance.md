@@ -18,7 +18,7 @@ The Secretary, acting through the Administrator of the Western Area Power Admini
 
 #### (b) New facilities
 
-The Secretary, acting through WAPA or SWPA, or both, may design, develop, construct, operate, maintain, or own, or participate with other entities in designing, developing, constructing, operating, maintaining, or owning, a new electric power transmission facility and related facilities (“Project”) located within any State in which WAPA or SWPA operates if the Secretary, in consultation with the applicable Administrator, determines that the proposed Project—
+The Secretary, acting through WAPA or SWPA, or both, may design, develop, construct,operate, maintain, or own, or participate with other entities in designing, developing, constructing, operating, maintaining, or owning, a new electric power transmission facility and related facilities (“Project”) located within any State in which WAPA or SWPA operates if the Secretary, in consultation with the applicable Administrator, determines that the proposed Project—
 
 &emsp;(1)(A) is located in an area designated under section 216(a) of the Federal Power Act \[16 U.S.C. 824p(a)\] and will reduce congestion of electric transmission in interstate commerce; or
 

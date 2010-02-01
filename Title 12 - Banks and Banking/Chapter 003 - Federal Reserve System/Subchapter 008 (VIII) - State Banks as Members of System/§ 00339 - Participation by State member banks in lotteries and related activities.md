@@ -8,7 +8,7 @@ A State member bank may not—
 
 &emsp;(2) deal in bets used as a means or substitute for participation in a lottery;
 
-&emsp;(3) announce, advertise, or publicize the existence of any lottery;
+&emsp;(3) announce, advertise, or publicize the existence of any lottery; <sup>1</sup>
 
 &emsp;(4) announce, advertise, or publicize the existence or identity of any participant or winner, as such, in a lottery.
 
@@ -53,4 +53,6 @@ Section was enacted as section 9A of act Dec. 13, 1913, and not as part of secti
 #### Effective Date
 
 Section effective Apr. 1, 1968, see section 6 of Pub. L. 90–203, set out as a note under section 25a of this title.
+
+<i><sup>1</sup></i><i> So in original. The word “or” probably should appear.</i>
 

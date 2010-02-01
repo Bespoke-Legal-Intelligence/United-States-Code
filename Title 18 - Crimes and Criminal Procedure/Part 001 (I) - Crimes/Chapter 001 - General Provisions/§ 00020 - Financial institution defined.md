@@ -16,27 +16,33 @@ As used in this title, the term “financial institution” means—
 
 &emsp;(7) a Federal Reserve bank or a member bank of the Federal Reserve System;
 
-&emsp;(8) an organization operating under section 25 or section 25(a) <sup>1</sup> of the Federal Reserve Act; or
+&emsp;(8) an organization operating under section 25 or section 25(a) <sup>1</sup> of the Federal Reserve Act;
 
-&emsp;(9) a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978).
+&emsp;(9) a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978); or
 
-(Added Pub. L. 98–473, title II, §1107(a), Oct. 12, 1984, 98 Stat. 2145, §215(b); amended Pub. L. 99–370, §2, Aug. 4, 1986, 100 Stat. 779; renumbered §20 and amended Pub. L. 101–73, title IX, §962(e)(1), (2), Aug. 9, 1989, 103 Stat. 503; Pub. L. 101–647, title XXV, §2597(a), Nov. 29, 1990, 104 Stat. 4908.)
+&emsp;(10) a mortgage lending business (as defined in section 27 of this title) or any person or entity that makes in whole or in part a federally related mortgage loan as defined in section 3 of the Real Estate Settlement Procedures Act of 1974.
+
+(Added Pub. L. 98–473, title II, §1107(a), Oct. 12, 1984, 98 Stat. 2145, §215(b); amended Pub. L. 99–370, §2, Aug. 4, 1986, 100 Stat. 779; renumbered §20 and amended Pub. L. 101–73, title IX, §962(e)(1), (2), Aug. 9, 1989, 103 Stat. 503; Pub. L. 101–647, title XXV, §2597(a), Nov. 29, 1990, 104 Stat. 4908; Pub. L. 111–21, §2(a), May 20, 2009, 123 Stat. 1617.)
 
 #### References in Text
 
 Section 3 of the Federal Deposit Insurance Act, referred to in pars. (1) and (6), is classified to section 1813 of Title 12, Banks and Banking.
 
-Section 5.35(3) of the Farm Credit Act of 1971, referred to in par. (4), is classified to section 2271(3) of Title 12.
+Section 5.35(3) of the Farm Credit Act of 1971, referred to in par. (4), is classified to section 2271(3) of Title 12, Banks and Banking.
 
-Section 25 of the Federal Reserve Act, referred to in par. (8), is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
+Section 25 of the Federal Reserve Act, referred to in par. (8), is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
 
-Section 1(b) of the International Banking Act of 1978, referred to in par. (9), is classified to section 3101 of Title 12.
+Section 1(b) of the International Banking Act of 1978, referred to in par. (9), is classified to section 3101 of Title 12, Banks and Banking.
+
+Section 3 of the Real Estate Settlement Procedures Act of 1974, referred to in par. (10), is classified to section 2602 of Title 12, Banks and Banking.
 
 #### Prior Provisions
 
 A prior section 20 was renumbered section 17 of this title.
 
 #### Amendments
+
+2009—Par. (10). Pub. L. 111–21 added par. (10).
 
 1990—Pars. (7) to (9). Pub. L. 101–647 added pars. (7) to (9).
 

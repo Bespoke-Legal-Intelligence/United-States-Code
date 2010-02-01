@@ -34,7 +34,7 @@ If property was acquired by a corporation in connection with a reorganization to
 
 &emsp;&emsp;(B) is not contributed by a shareholder as such,
 
-> &emsp;then the basis of any property acquired with such money during the 12-month period beginning on the day the contribution is received shall be reduced by the amount of such contribution. The excess (if any) of the amount of such contribution over the amount of the reduction under the preceding sentence shall be applied to the reduction (as of the last day of the period specified in the preceding sentence) of the basis of any other property held by the taxpayer. The particular properties to which the reductions required by this paragraph shall be allocated shall be determined under regulations prescribed by the Secretary.
+> &emsp;then the basis of any property acquired with such money during the 12-month period beginning on the day the contribution is received shall be reduced by the amount of such contribution. The excess (if any) of the amount ofsuch contribution over the amount of the reduction under the preceding sentence shall be applied to the reduction (as of the last day of the period specified in the preceding sentence) of the basis of any other property held by the taxpayer. The particular properties to which the reductions required by this paragraph shall be allocated shall be determined under regulations prescribed by the Secretary.
 
 #### (d) Limitation on basis increase attributable to assumption of liability
 
@@ -82,7 +82,7 @@ If property was acquired by a corporation in connection with a reorganization to
 
 &emsp;&emsp;&emsp;(i) property is transferred by a transferor in any transaction which is described in subsection (a) and which is not described in paragraph (1) of this subsection, and
 
-&emsp;&emsp;&emsp;(ii) the transferee's aggregate adjusted bases of such property so transferredwould (but for this paragraph) exceed the fair market value of such property immediately after such transaction,
+&emsp;&emsp;&emsp;(ii) the transferee's aggregate adjusted bases of such property so transferred would (but for this paragraph) exceed the fair market value of such property immediately after such transaction,
 
 > &emsp;&emsp;then, notwithstanding subsection (a), the transferee's aggregate adjusted bases of the property so transferred shall not exceed the fair market value of such property immediately after such transaction.
 

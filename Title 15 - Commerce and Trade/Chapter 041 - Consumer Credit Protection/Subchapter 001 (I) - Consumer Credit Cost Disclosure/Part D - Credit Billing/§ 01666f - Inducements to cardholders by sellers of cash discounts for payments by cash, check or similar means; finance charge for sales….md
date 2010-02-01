@@ -14,7 +14,7 @@ With respect to any sales transaction, any discount from the regular price offer
 
 1981—Subsec. (b). Pub. L. 97–25 substituted “With respect to any sales transaction, any discount from the regular price offered by the seller for the purpose of inducing payment by cash, checks, or other means not involving the use of an open-end credit plan or a credit card shall not constitute a finance charge as determined under section 1605 of this title if such discount is offered to all prospective buyers and its availability is disclosed clearly and conspicuously” for “With respect to any sales transaction, any discount not in excess of 5 per centum offered by the seller for the purpose of inducing payment by cash, check, or other means not involving the use of a credit card shall not constitute a finance charge as determined under section 1605 of this title, if such discount is offered to all prospective buyers and its availability is disclosed to all prospective buyers clearly and conspicuously in accordance with regulations of the Board”.
 
-1976—Subsec. (a). Pub. L. 94–222 temporarily designated existing provisions as par. (1) and added par.\(2). See Termination Date of 1976 Amendment note below.
+1976—Subsec. (a). Pub. L. 94–222 temporarily designated existing provisions as par. (1) and added par. (2). See Termination Date of 1976 Amendment note below.
 
 #### Termination Date of 1976 Amendment
 

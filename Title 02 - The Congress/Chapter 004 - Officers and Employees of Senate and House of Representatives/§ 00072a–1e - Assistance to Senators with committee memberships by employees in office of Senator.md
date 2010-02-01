@@ -16,7 +16,7 @@ A Senator shall notify the chairman and ranking minority member of a committee w
 
 #### References in Text
 
-Section 705(c)(1) of Senate Resolution 4, 95th Congress, referred to in par. (2), which was not classified to the Code, was repealed by Pub. L. 95–94, title I, §111(e)(2), Aug. 5, 1977, 91 Stat. 663.
+Section 705(c)(1) of Senate Resolution 4, 95th Congress, referred to in par. (2), which was not classified tothe Code, was repealed by Pub. L. 95–94, title I, §111(e)(2), Aug. 5, 1977, 91 Stat. 663.
 
 Section 72a–1d(c)(1) of this title, referred to in par. (2), was repealed by Pub. L. 95–94, title I, §111(e)(1), Aug. 5, 1977, 91 Stat. 663.
 

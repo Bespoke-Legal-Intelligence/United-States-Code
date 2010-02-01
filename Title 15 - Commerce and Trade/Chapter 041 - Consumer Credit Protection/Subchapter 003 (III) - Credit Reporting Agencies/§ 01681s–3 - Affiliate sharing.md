@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) using information to make a solicitation for marketing purposes to a consumer with whom the person has a pre-existing business relationship;
 
-&emsp;&emsp;(B) using information to facilitate communications to an individual for whose benefit the person provides employee benefit or other services pursuant to a contract withan employer related to and arising out of the current employment relationship or status of the individual as a participant or beneficiary of an employee benefit plan;
+&emsp;&emsp;(B) using information to facilitate communications to an individual for whose benefit the person provides employee benefit or other services pursuant to a contract with an employer related to and arising out of the current employment relationship or status of the individual as a participant or beneficiary of an employee benefit plan;
 
 &emsp;&emsp;(C) using information to perform services on behalf of another person related by common ownership or affiliated by corporate control, except that this subparagraph shall not be construed as permitting a person to send solicitations on behalf of another person, if such other person would not be permitted to send the solicitation on its own behalf as a result of the election of the consumer to prohibit solicitations under paragraph (1)(B);
 

@@ -46,7 +46,7 @@ The Committee on House Oversight shall have authority to prescribe regulations t
 
 #### Codification
 
-Section is comprised of section 104 of Pub. L. 104–186. Subsec. (e)(1) of section 104 of Pub. L. 104–186 repealed former section 92 of this title. Subsec. (e)(2) and (3) ofsection 104 of Pub. L. 104–186 repealed provisions formerly set out as notes below.
+Section is comprised of section 104 of Pub. L. 104–186. Subsec. (e)(1) of section 104 of Pub. L. 104–186 repealed former section 92 of this title. Subsec. (e)(2) and (3) of section 104 of Pub. L. 104–186 repealed provisions formerly set out as notes below.
 
 #### Prior Provisions
 

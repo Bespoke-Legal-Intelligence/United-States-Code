@@ -50,7 +50,7 @@ Subsec. (a)(4). Pub. L. 108–36, §201(1)(A), (D), redesignated par. (5) as (4)
 
 Subsec. (a)(5). Pub. L. 108–36, §201(1)(D), redesignated par. (7) as (5). Former par. (5) redesignated (4).
 
-Subsec. (a)(6). Pub. L. 108–36, §201(1)(B), (D), redesignated par. (8) as (6) and struck out former par. (6) whichread as follows: “the majority of such children are of school age, members of sibling groups or disabled;”.
+Subsec. (a)(6). Pub. L. 108–36, §201(1)(B), (D), redesignated par. (8) as (6) and struck out former par. (6) which read as follows: “the majority of such children are of school age, members of sibling groups or disabled;”.
 
 Subsec. (a)(7). Pub. L. 108–36, §201(1)(D), redesignated par. (9) as (7). Former par. (7) redesignated (5).
 

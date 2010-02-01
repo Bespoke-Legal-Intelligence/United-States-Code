@@ -6,11 +6,15 @@ Charges and Specifications.—Charges and specifications against an accused in a
 
 &emsp;(1) that the signer has personal knowledge of, or reason to believe, the matters set forth therein; and
 
-&emsp;(2) that they are true in fact to the best of the signer's knowledge and belief.
+&emsp;(2) that such matters are true in fact to the best of the signer's knowledge and belief.
 
 (b)
 
-Notice to Accused.—Upon the swearing of the charges and specifications in accordance with subsection (a), the accused shall be informed of the charges against him as soon as practicable.
+Notice to Accused.—Upon the swearing of the charges and specifications in accordance with subsection (a), the accused shall be informed of the charges and specifications against the accused as soon as practicable.
 
-(Added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2606.)
+(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2579.)
+
+#### Prior Provisions
+
+A prior section 948q, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2606, related to charges and specifications, prior to the general amendment of this chapter by Pub. L. 111–84.
 

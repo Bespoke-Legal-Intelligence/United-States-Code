@@ -102,7 +102,7 @@ Of amounts made available under section 777c(b) of this title for each fiscal ye
 
 The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any activity carried out under this section.
 
-(Aug. 9, 1950, ch. 658, §14, as added Pub. L. 106–408, title I, §122(a), Nov. 1, 2000, 114 Stat. 1772; amended Pub. L. 109–59, title X, §10118, Aug. 10,2005, 119 Stat. 1929; Pub. L. 109–241, title IX, §901(r)(2), July 11, 2006, 120 Stat. 566.)
+(Aug. 9, 1950, ch. 658, §14, as added Pub. L. 106–408, title I, §122(a), Nov. 1, 2000, 114 Stat. 1772; amended Pub. L. 109–59, title X, §10118, Aug. 10, 2005, 119 Stat. 1929; Pub. L. 109–241, title IX, §901(r)(2), July 11, 2006, 120 Stat. 566.)
 
 #### References in Text
 

@@ -34,7 +34,7 @@ The Secretary, with the cooperation and assistance of the Administrator of Gener
 
 #### (d) Coordination of assistance with assistance of Secretary of Commerce under Federal fire prevention and control provisions
 
-To promote maximum effectiveness and economy, the Secretary shall seek to coordinate theassistance the Secretary provides under this section with the assistance provided by the Secretary of Commerce under the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 2201 et seq.\].
+To promote maximum effectiveness and economy, the Secretary shall seek to coordinate the assistance the Secretary provides under this section with the assistance provided by the Secretary of Commerce under the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 2201 et seq.\].
 
 #### (e) Authorization of appropriations for implementation of provisions
 
@@ -64,7 +64,7 @@ As used in this section—
 
 #### References in Text
 
-The Federal Fire Prevention and Control Act of 1974, referred to in subsecs. (b) and (d), is Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, as amended, which is classified principally to chapter 49 (§2201 et seq.) of Title 15, Commerce and Trade. For complete classification of the Act to the Code, see Short Title note set out under section 2201 of Title 15 and Tables.
+The Federal Fire Prevention and Control Act of 1974, referred to in subsecs. (b) and (d), is Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, as amended, which is classifiedprincipally to chapter 49 (§2201 et seq.) of Title 15, Commerce and Trade. For complete classification of the Act to the Code, see Short Title note set out under section 2201 of Title 15 and Tables.
 
 Section 1926(a)(7) of title 7, referred to in subsec. (b)(3), was repealed by Pub. L. 107–171, title VI, §6020(b)(1), May 13, 2002, 116 Stat. 363.
 

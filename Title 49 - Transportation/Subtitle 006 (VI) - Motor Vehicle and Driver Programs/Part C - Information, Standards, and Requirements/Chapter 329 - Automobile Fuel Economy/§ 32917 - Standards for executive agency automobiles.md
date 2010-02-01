@@ -16,7 +16,7 @@ Fleet Average Fuel Economy.—(1) The President shall prescribe regulations that
 
 &emsp;(A) the total number of passenger automobiles leased for at least 60 consecutive days or bought by executive agencies in a fiscal year (except automobiles designed for combat-related missions, law enforcement work, or emergency rescue work); divided by
 
-&emsp;(B) the sum of the fractions obtained by dividing the number of automobiles of eachmodel leased or bought by the fuel economy of that model.
+&emsp;(B) the sum of the fractions obtained by dividing the number of automobiles of each model leased or bought by the fuel economy of that model.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1075.)
 

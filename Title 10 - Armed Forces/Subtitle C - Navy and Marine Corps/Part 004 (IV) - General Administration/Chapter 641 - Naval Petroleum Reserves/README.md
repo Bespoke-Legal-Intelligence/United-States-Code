@@ -27,7 +27,7 @@
 
 #### Amendments
 
-2000—Pub. L. 106–398, §1 \[div. C, title XXXIV, §3402(b)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, struck out item 7426 “Cooperative or unit plans affecting Naval Petroleum Reserve Numbered 1”.
+2000—Pub. L. 106–398, §1 \[div. C, title XXXIV, §3402(b)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–484,struck out item 7426 “Cooperative or unit plans affecting Naval Petroleum Reserve Numbered 1”.
 
 1997—Pub. L. 105–85, div. C, title XXXIV, §3404(b), Nov. 18, 1997, 111 Stat. 2061, added item 7439.
 

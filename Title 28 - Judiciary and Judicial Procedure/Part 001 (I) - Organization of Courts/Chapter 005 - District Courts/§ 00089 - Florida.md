@@ -62,7 +62,7 @@ Section 1021(b), (c) of title X of Pub. L. 100–702 provided that:
 
 Effective Date.—(1) The amendments made by this section \[amending this section\] shall take effect 90 days after the date of enactment of this title \[Nov. 19, 1988\].
 
-“(2) The amendments made by subsection (a) \[amending this section\] shall apply to any action commenced in the United States District Court for the Middle District of Florida, or in the United States District Court for the Southern District of Florida, on or after the effective date of this title \[probably should be effective date of this section\], and shall not affect any action pending in either such court on such effective date.
+“(2) The amendments made by subsection (a) \[amending this section\] shall apply to any action commencedin the United States District Court for the Middle District of Florida, or in the United States District Court for the Southern District of Florida, on or after the effective date of this title \[probably should be effective date of this section\], and shall not affect any action pending in either such court on such effective date.
 
 “(c)
 

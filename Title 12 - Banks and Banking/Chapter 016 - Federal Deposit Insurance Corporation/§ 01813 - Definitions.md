@@ -158,7 +158,7 @@ As used in this chapter—
 
 In general.—Subject to paragraph (2), the term “insured deposit” means the net amount due to any depositor for deposits in an insured depository institution as determined under sections 1817(i) and 1821(a) of this title.
 
-&emsp;(2) In the case of any deposit in a branch of a foreign bank, the term “insured deposit” means an insured deposit as defined in paragraph (1) of this subsection which—
+&emsp;(2) In the case of any deposit in a branch of a foreign bank, the term “insured deposit”means an insured deposit as defined in paragraph (1) of this subsection which—
 
 &emsp;&emsp;(A) is payable in the United States to—
 
@@ -208,7 +208,7 @@ Preferred deposits.—The term “preferred deposits” means deposits of any pu
 
 &emsp;&emsp;&emsp;(D) any agency or commercial lending company other than a Federal agency,
 
-&emsp;&emsp;&emsp;(E) supervisory or regulatory proceedings arising from the authority given tothe Board of Governors under section 7(c)(1) of the International Banking Act of 1978 \[12 U.S.C. 3105(c)(1)\], including such proceedings under the Financial Institutions Supervisory Act of 1966, and
+&emsp;&emsp;&emsp;(E) supervisory or regulatory proceedings arising from the authority given to the Board of Governors under section 7(c)(1) of the International Banking Act of 1978 \[12 U.S.C. 3105(c)(1)\], including such proceedings under the Financial Institutions Supervisory Act of 1966, and
 
 &emsp;&emsp;&emsp;(F) any bank holding company and any subsidiary of a bank holding company (other than a bank);
 
@@ -548,7 +548,7 @@ Subsecs. (r), (s). Pub. L. 95–369, §6(c)(6), added subsecs. (r) and (s).
 
 Subsec. (q). Pub. L. 89–695, §201, added subsec. (q).
 
-1960—Subsec. (<i>l</i>). Pub. L. 86–671 amended subsec. (<i>l</i>) generally, and among other changes, inserted in par. (1) “or held”, “either conditionally or unconditionally”, “or a check or draft drawn against a deposit account and certified by the bank, or a letter of credit or a traveler's check on which the bank is primarily liable”, and inserted the proviso, added pars. (3) and (4), inserted provisions in par. (5) requiring the Board of Directors to consult with the Comptroller of the Currency and the Board of Governors of the Federal Reserve System, and struck out provisions which permitted mainland banks to exclude from deposit insurance the deposits of any of its branches in the Virgin Islands.
+1960—Subsec. (<i>l</i>). Pub. L. 86–671 amended subsec. (<i>l</i>) generally, and among other changes, inserted in par. (1) “or held”, “either conditionally or unconditionally”, “or a check or draft drawn against a deposit account and certified by the bank, or a letter of credit or a traveler's check on which the bank is primarily liable”, and inserted the proviso, added pars. (3) and (4), inserted provisions in par. (5) requiring the Board of Directorsto consult with the Comptroller of the Currency and the Board of Governors of the Federal Reserve System, and struck out provisions which permitted mainland banks to exclude from deposit insurance the deposits of any of its branches in the Virgin Islands.
 
 1956—Subsec. (a). Act Aug. 1, 1956, §3(a), inserted “Guam,” after “Puerto Rico,” and substituted a comma for the period and inserted “and the word ‘State’ means any State of the United States, the District of Columbia, any Territory of the United States, Puerto Rico, Guam, or the Virgin Islands”.
 
@@ -622,7 +622,7 @@ Section 301(e) of Pub. L. 89–695 provided that: “The amendments made by this
 
 #### Expiration of 1966 Amendment
 
-Pub. L. 91–609, title IX, §908, Dec. 31, 1970, 84 Stat. 1811, repealed section 401 of Pub. L. 89–695 which had provided that: “The provisions of titles I and II of this Act \[amending this section and sections 1464, 1730, 1817 to 1820 of this title, repealing section 77 of this title, and enacting provisions set out as notes under this section and sections 1464 and 1730 of this title\] and any provisions of law enacted by said titles shall be effective only during the period ending at the close of June 30, 1972. Effective upon the expiration of such period, each provision of law amended by either of such titles is further amended to read as it did immediately prior to the enactment of this Act \[Oct. 16, 1966\] and each provision of law repealed by either of such titles is reenacted”.
+Pub. L. 91–609, title IX, §908, Dec. 31, 1970, 84 Stat. 1811, repealed section 401 of Pub. L. 89–695 which had provided that: “The provisions of titles I and II of this Act \[amending this section and sections 1464, 1730, 1817 to 1820 of this title, repealing section 77 of this title, and enacting provisions set out as notes under this section and sections 1464 and 1730 of this title\] and any provisions of law enacted by said titles shall be effective only during the period ending at the close of June 30, 1972. Effective upon the expiration of such period,each provision of law amended by either of such titles is further amended to read as it did immediately prior to the enactment of this Act \[Oct. 16, 1966\] and each provision of law repealed by either of such titles is reenacted”.
 
 #### Effective Date of 1960 Amendment
 

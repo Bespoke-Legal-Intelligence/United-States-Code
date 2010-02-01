@@ -68,11 +68,16 @@
 | :--- | ---: |
 | [3171\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003171%20-%20Contract%20authority%20when%20appropriation%20is%20for%20less%20than%20full%20amount.md) | Contract authority when appropriation is for less than full amount. |
 | [3172\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003172%20-%20Extension%20of%20state%20workers%E2%80%99%20compensation%20laws%20to%20buildings%2C%20works%2C%20and%20property%20of%20the%20Federal%20Government.md) | Extension of state workers’ compensation laws to buildings, works, and property of the Federal Government. |
-| [3173\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003173%20-%20Working%20capital%20fund%20for%20blueprinting%2C%20photostating%2C%20and%20duplicating%20services%20in%20General%20Services%20Administration.md) | Working capital fund for blueprinting, photostating, and duplicating services in General Services Administration. |
+| [3173\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003173%20-%20Working%20capital%20fund%20for%20General%20Services%20Administration.md) | Working capital fund for blueprinting, photostating, and duplicating services in General Services Administration.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [3174\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003174%20-%20Operation%20of%20public%20utility%20communications%20services%20serving%20governmental%20activities.md) | Operation of public utility communications services serving governmental activities. |
 | [3175\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003175%20-%20Acceptance%20of%20gifts%20of%20property.md) | Acceptance of gifts of property. |
 | [3176\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003176%20-%20Administrator%20of%20General%20Services%20to%20furnish%20services%20in%20continental%20United%20States%20to%20international%20bodies.md) | Administrator of General Services to furnish services in continental United States to international bodies. |
-| [3177\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003177%20-%20Use%20of%20photovoltaic%20energy%20in%20public%20buildings.md) | Use of photovoltaic energy in public buildings.<sup>1</sup> |
+| [3177\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003177%20-%20Use%20of%20photovoltaic%20energy%20in%20public%20buildings.md) | Use of photovoltaic energy in public buildings.<sup>2</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

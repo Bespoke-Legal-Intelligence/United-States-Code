@@ -32,7 +32,7 @@
 
 #### (B) Allocation of additional amount
 
-&emsp;&emsp;For fiscal year 2003 and succeeding fiscal years, the amount (if any) by which thefunds appropriated to carry out this part for the year exceed such funds for fiscal year 2002 shall be allocated to a State (other than the Commonwealth of Puerto Rico) so that the State receives an amount equal to—
+&emsp;&emsp;For fiscal year 2003 and succeeding fiscal years, the amount (if any) by which the funds appropriated to carry out this part for the year exceed such funds for fiscal year 2002 shall be allocated to a State (other than the Commonwealth of Puerto Rico) so that the State receives an amount equal to—
 
 &emsp;&emsp;&emsp;(i) the sum of—
 

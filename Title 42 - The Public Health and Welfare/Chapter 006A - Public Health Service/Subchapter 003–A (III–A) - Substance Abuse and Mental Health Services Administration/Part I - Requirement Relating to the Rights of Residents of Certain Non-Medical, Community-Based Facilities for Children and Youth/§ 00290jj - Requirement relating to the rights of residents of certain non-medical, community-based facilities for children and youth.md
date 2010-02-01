@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A public or private non-medical, community-based facility for children and youth (as defined in regulations to be promulgated by the Secretary) that receives support in any form from any program supported in whole or in part with funds appropriated under this chapter shall protect and promote the rights of each resident of the facility, including the right to be free from physical or mental abuse, corporal punishment, and any restraints or involuntary seclusions imposed for purposes of discipline or convenience.
+&emsp;A public or private non-medical, community-based facility for children and youth (as defined in regulations to be promulgated by the Secretary) that receives support in any form from any program supported in whole or in part with funds appropriated under this chapter shall protect and promote the rights of each resident of the facility, including the right to be free from physical or mental abuse,corporal punishment, and any restraints or involuntary seclusions imposed for purposes of discipline or convenience.
 
 #### (2) Nonapplicability
 
@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) the restraints or seclusion are imposed only in emergency circumstances and only to ensure the immediate physical safety of the resident, a staff member, or others and less restrictive interventions have been determined to be ineffective; and
 
-&emsp;&emsp;(B) the restraints or seclusion are imposed only by an individual trained and certified, by a State-recognized body (as defined in regulation promulgated by the Secretary)and pursuant to a process determined appropriate by the State and approved by the Secretary, in the prevention and use of physical restraint and seclusion, including the needs and behaviors of the population served, relationship building, alternatives to restraint and seclusion, de-escalation methods, avoiding power struggles, thresholds for restraints and seclusion, the physiological and psychological impact of restraint and seclusion, monitoring physical signs of distress and obtaining medical assistance, legal issues, position asphyxia, escape and evasion techniques, time limits, the process for obtaining approval for continued restraints, procedures to address problematic restraints, documentation, processing with children, and follow-up with staff, and investigation of injuries and complaints.
+&emsp;&emsp;(B) the restraints or seclusion are imposed only by an individual trained and certified, by a State-recognized body (as defined in regulation promulgated by the Secretary) and pursuant to a process determined appropriate by the State and approved by the Secretary, in the prevention and use of physical restraint and seclusion, including the needs and behaviors of the population served, relationship building, alternatives to restraint and seclusion, de-escalation methods, avoiding power struggles, thresholds for restraints and seclusion, the physiological and psychological impact of restraint and seclusion, monitoring physical signs of distress and obtaining medical assistance, legal issues, position asphyxia, escape and evasion techniques, time limits, the process for obtaining approval for continued restraints, procedures to address problematic restraints, documentation, processing with children, and follow-up with staff, and investigation of injuries and complaints.
 
 #### (2) Interim procedures relating to training and certification
 

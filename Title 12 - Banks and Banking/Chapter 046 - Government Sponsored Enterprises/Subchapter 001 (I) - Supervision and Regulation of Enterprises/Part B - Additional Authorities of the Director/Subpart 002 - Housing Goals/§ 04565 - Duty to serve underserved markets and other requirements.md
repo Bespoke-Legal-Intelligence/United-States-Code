@@ -72,7 +72,7 @@ The Director may submit recommendations to the Committee on Financial Services o
 
 &emsp;&emsp;(B) the extent of outreach to qualified loan sellers and other market participants in each of such underserved markets;
 
-&emsp;&emsp;(C) the volume of loans purchased in each of such underserved markets relative to themarket opportunities available to the enterprise, except that the Director shall not establish specific quantitative targets nor evaluate the enterprises based solely on the volume of loans purchased; and
+&emsp;&emsp;(C) the volume of loans purchased in each of such underserved markets relative to the market opportunities available to the enterprise, except that the Director shall not establish specific quantitative targets nor evaluate the enterprises based solely on the volume of loans purchased; and
 
 &emsp;&emsp;(D) the amount of investments and grants in projects which assist in meeting the needs of such underserved markets.
 
@@ -88,7 +88,7 @@ The Director may submit recommendations to the Committee on Financial Services o
 
 #### References in Text
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1)(B)(vi), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title IV of the Act is classified principally to subchapter IV (§11361 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1)(B)(vi), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title IV of the Act is classified generally to subchapter IV (§11360 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 The Community Reinvestment Act of 1977, referred to in subsec. (b)(3)(B), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 

@@ -28,7 +28,7 @@ For purposes of subsection (a), the term “control” means—
 
 #### (c) Authority of the Secretary under this section
 
-The provisions of section 269(c) and the authority of the Secretary under such section, shall, to the extent not inconsistent with the provisions of this section, be applicable to this section.
+The provisions of section 269(c) and the authority of the Secretary under such section,shall, to the extent not inconsistent with the provisions of this section, be applicable to this section.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 371; Pub. L. 85–866, title II, §205(a), Sept. 2, 1958, 72 Stat. 1680; Pub. L. 88–272, title II, §235(b), Feb. 26, 1964, 78 Stat. 125; Pub. L. 94–12, title III, §304(b), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–455, title XIX, §§1901(a)(158), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1790, 1834; Pub. L. 95–600, title III, §301(b)(18)(A), (B), Nov. 6, 1978, 92 Stat. 2823; Pub. L. 97–34, title II, §232(b)(2), Aug. 13, 1981, 95 Stat. 250; Pub. L. 99–514, title XVIII, §1899A(36), Oct. 22, 1986, 100 Stat. 2960.)
 
@@ -46,7 +46,7 @@ Subsec. (a). Pub. L. 95–600, §301(b)(18)(A), in provisions following par. (3)
 
 1975—Subsec. (a). Pub. L. 94–12 substituted “$150,000” for “$100,000”.
 
-1964—Pub. L. 88–272 amended section generally, and among other changes, designated provisions as subsecs.\(a) to (c), included among corporations who are disallowed surtax exemption and accumulated earnings credit, corporations, and five or fewer individuals in charge of a corporation who, directly or indirectly, transfer property in contravention of subsec. (a) after June 12, 1963, substituted provisions permitting the Secretary or his delegate to disallow the exemption or the earnings credit, for provisions which disallowed the exemption and the credit except as otherwise determined by the Secretary of his delegate, provisions that for purposes of determining ownership of stock, section 1563(e) shall apply, for provisions which determined ownership in accordance with section 544, and defined control, with respect to corporations described in subsec. (a)(3), to include the additional test as stated in subsec. (b)(2)(B).
+1964—Pub. L. 88–272 amended section generally, and among other changes, designated provisions as subsecs. (a) to (c), included among corporations who are disallowed surtax exemption and accumulated earnings credit, corporations, and five or fewer individuals in charge of a corporation who, directly or indirectly, transfer property in contravention of subsec. (a) after June 12, 1963, substituted provisions permitting the Secretary or his delegate to disallow the exemption or the earnings credit, for provisions which disallowed the exemption and the credit except as otherwise determined by the Secretary of his delegate, provisions that for purposes of determining ownership of stock, section 1563(e) shall apply, for provisions which determined ownership in accordance with section 544, and defined control, with respect to corporations described in subsec. (a)(3), to include the additional test as stated in subsec. (b)(2)(B).
 
 1958—Pub. L. 85–866 substituted “$100,000” for “$60,000”.
 

@@ -48,7 +48,7 @@
 
 #### (A) Publication of regulations
 
-&emsp;&emsp;The Secretary of Housing and Urban Development shall prescribe by regulation nolater than 4 months after the date of the enactment of this section, after consultation with the officials described in paragraph (1)(B)—
+&emsp;&emsp;The Secretary of Housing and Urban Development shall prescribe by regulation no later than 4 months after the date of the enactment of this section, after consultation with the officials described in paragraph (1)(B)—
 
 &emsp;&emsp;&emsp;(i) the procedures for nominating an area under paragraph (1)(A),
 
@@ -138,7 +138,7 @@
 
 &emsp;&emsp;(C) the poverty rate for each population census tract within the nominated area is at least 20 percent, and
 
-&emsp;&emsp;(D) in the case of an urban area, at least 70 percent of the households living in the area have incomes below 80 percent of the median income of households within the jurisdiction of the local government (determined in the same manner as under section 119(b)(2) ofthe Housing and Community Development Act of 1974).
+&emsp;&emsp;(D) in the case of an urban area, at least 70 percent of the households living in the area have incomes below 80 percent of the median income of households within the jurisdiction of the local government (determined in the same manner as under section 119(b)(2) of the Housing and Community Development Act of 1974).
 
 #### (4) Consideration of other factors
 
@@ -252,7 +252,7 @@ For purposes of this subchapter—
 
 #### (3) Special rule for certain census tracts with low population in 2000
 
-&emsp;At the request of all governments which nominated an area as a renewal community, the Secretary of Housing and Urban Development may expand the area of such community to include any census tract if—
+&emsp;At the request of all governments which nominated an area as a renewal community,the Secretary of Housing and Urban Development may expand the area of such community to include any census tract if—
 
 &emsp;&emsp;(A) either—
 
@@ -314,7 +314,7 @@ Number and Appointment.—The Advisory Council shall be composed of 7 members ap
 
 “(b)
 
-Chairperson.—The Chairperson of the Advisory Council (in this part referred to as the ‘Chairperson’)shall be designated by the Secretary at the time of the appointment.
+Chairperson.—The Chairperson of the Advisory Council (in this part referred to as the ‘Chairperson’) shall be designated by the Secretary at the time of the appointment.
 
 “(c)
 

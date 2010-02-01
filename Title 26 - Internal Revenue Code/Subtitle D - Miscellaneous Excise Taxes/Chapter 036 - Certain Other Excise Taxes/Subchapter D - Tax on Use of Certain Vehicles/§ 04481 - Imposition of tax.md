@@ -168,7 +168,7 @@ Special rule in the case of certain owner-operators.—
 
 &emsp;&emsp;“(ii) the determination shall be made without regard to subsections (a)(4) and (e)(3)(C) of section 1563.
 
-“(F) Highway motor vehicles.—For purposes of this paragraph, the term ‘highway motor vehicle’ hasthe meaning given to such term by section 4482(a) of such Code.”
+“(F) Highway motor vehicles.—For purposes of this paragraph, the term ‘highway motor vehicle’ has the meaning given to such term by section 4482(a) of such Code.”
 
 #### Effective Date of 1961 Amendment
 

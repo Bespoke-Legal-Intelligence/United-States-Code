@@ -14,7 +14,7 @@
 
 (B) Individuals shall be included on the list of those not authorized to represent claimants under this chapter if the Secretary determines under this section, in accordance with the procedure provided in subsection (j) of section 907 of this title, that such individual—
 
-&emsp;(i) has been convicted (without regard to pending appeal) of any crime in connectionwith the representation of a claimant under this chapter or any workers’ compensation statute;
+&emsp;(i) has been convicted (without regard to pending appeal) of any crime in connection with the representation of a claimant under this chapter or any workers’ compensation statute;
 
 &emsp;(ii) has engaged in fraud in connection with the presentation of a claim under this or any workers’ compensation statute, including, but not limited to, knowingly making false representations, concealing or attempting to conceal material facts with respect to a claim, or soliciting or otherwise procuring false testimony;
 
@@ -32,7 +32,7 @@
 
 #### (c) False statements or representation to reduce, deny, or terminate benefits
 
-A person including, but not limited to, an employer, his duly authorized agent, or an employee of an insurance carrier who knowingly and willfully makes a false statement or representation for the purpose of reducing, denying, or terminating benefits to an injured employee, or his dependents pursuant to section 909 of this title if the injury results in death, shall be punished by a fine not to exceed $10,000, by imprisonment not to exceed five years, or by both.
+A person including, but not limited to, an employer, his duly authorized agent, or an employee of an insurance carrier who knowingly and willfully makes a false statement or representation for the purpose of reducing, denying,or terminating benefits to an injured employee, or his dependents pursuant to section 909 of this title if the injury results in death, shall be punished by a fine not to exceed $10,000, by imprisonment not to exceed five years, or by both.
 
 (Mar. 4, 1927, ch. 509, §31, 44 Stat. 1439; Pub. L. 98–426, §19, Sept. 28, 1984, 98 Stat. 1650.)
 

@@ -18,7 +18,7 @@ A Commission may, to such extent and in such amounts as are provided in appropri
 
 #### (1) In general
 
-&emsp;A Commission may secure directly from any executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality of the Government, information, suggestions, estimates, and statistics for the purposes of this subchapter. Each department, bureau, agency, board, commission, office, independent establishment, or instrumentality shall, to the extent authorized by law, furnish such information, suggestions, estimates, and statistics directly to the Commission, upon request made by the Chairman, the chairman of any subcommittee created by a majority of the Commission, or any member designated by a majority of the Commission.
+&emsp;A Commission may secure directly from any executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality of the Government, information, suggestions, estimates, and statistics for the purposes of this subchapter. Each department, bureau, agency, board, commission, office, independent establishment, orinstrumentality shall, to the extent authorized by law, furnish such information, suggestions, estimates, and statistics directly to the Commission, upon request made by the Chairman, the chairman of any subcommittee created by a majority of the Commission, or any member designated by a majority of the Commission.
 
 #### (2) Receipt, handling, storage, and dissemination
 
@@ -28,7 +28,7 @@ A Commission may, to such extent and in such amounts as are provided in appropri
 
 #### (1) General Services Administration
 
-&emsp;The Administrator of General Services shall provide to a Commission on a reimbursablebasis administrative support and other services for the performance of the Commission's tasks.
+&emsp;The Administrator of General Services shall provide to a Commission on a reimbursable basis administrative support and other services for the performance of the Commission's tasks.
 
 #### (2) Other departments and agencies
 

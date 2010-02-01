@@ -90,7 +90,7 @@ Additional Administrative Matters.—
 
 &emsp;(1)
 
-Use.—The use of any entitlement to educational assistance transferred under this section shall be charged against the entitlement of the individual making the transfer at the rate of one month for each month of transferred entitlement that is used.
+Use.—The use of any entitlement to educational assistance transferred under this section shall be charged against the entitlementof the individual making the transfer at the rate of one month for each month of transferred entitlement that is used.
 
 &emsp;(2)
 

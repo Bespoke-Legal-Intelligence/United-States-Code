@@ -78,7 +78,7 @@
 
 #### (d) Listing
 
-The Secretary shall compile and maintain a listing of entities with respect to which there is an acceptance of a certification pursuant to subsection (c)(2)(A) of this section that has not been revoked under subsection (e) of this section or voluntarily relinquished.
+The Secretary shall compile and maintain a listing of entities with respect to which there isan acceptance of a certification pursuant to subsection (c)(2)(A) of this section that has not been revoked under subsection (e) of this section or voluntarily relinquished.
 
 #### (e) Revocation of acceptance of certification
 

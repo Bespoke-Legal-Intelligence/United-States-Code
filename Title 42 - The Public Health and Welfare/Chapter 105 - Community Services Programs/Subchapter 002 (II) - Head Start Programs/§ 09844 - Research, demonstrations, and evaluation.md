@@ -58,7 +58,7 @@ The research, demonstration, and evaluation activities under this subchapter sha
 
 &emsp;(4) assist in developing knowledge concerning the factors that promote or inhibit healthy development and effective functioning of children and their families both during and following participation in a Head Start program;
 
-&emsp;(5)(A) identify successful strategies that promote good oral health and provide effective linkages to quality dental services through pediatric dental referral networks, for infants and toddlers participating in Early Head Start programs and children participating in other Head Start programs; and
+&emsp;(5)(A) identify successful strategies that promote good oral health and provide effective linkages to quality dental services through pediatric dental referral networks, for infantsand toddlers participating in Early Head Start programs and children participating in other Head Start programs; and
 
 &emsp;(B) identify successful strategies that promote good vision health through vision screenings for such infants, toddlers, and children, and referrals for appropriate followup care for those identified as having a vision problem;
 
@@ -122,7 +122,7 @@ The Secretary shall take necessary steps to ensure that all studies, reports, pr
 
 &emsp;The Secretary shall ensure that the organization conducting the research—
 
-&emsp;&emsp;(A)(i) determines if, overall, the Head Start programs have impacts consistent with their primary goal of increasing the social competence of children, by increasing the everyday effectiveness of the children in dealing with their present environments and future responsibilities, and increasing their school readiness;
+&emsp;&emsp;(A)(i) determines if, overall, the Head Start programs have impacts consistentwith their primary goal of increasing the social competence of children, by increasing the everyday effectiveness of the children in dealing with their present environments and future responsibilities, and increasing their school readiness;
 
 &emsp;&emsp;(ii) considers whether the Head Start programs—
 
@@ -292,7 +292,7 @@ The Secretary shall—
 
 &emsp;(5) through regulation, ensure the confidentiality of any personally identifiable data, information, and records collected or maintained by the Secretary, by Head Start agencies that carry out Indian Head Start programs, and by State Directors of Head Start Collaboration, by the Indian Head Start Collaboration Project Director and by other appropriate entities pursuant to this subsection (such regulations shall provide the policies, protections, and rights equivalent to those provided a parent, student, or educational agency or institution under section 1232g of title 20); and
 
-&emsp;(6) ensure that nothing in this subsection shall be construed to authorize the development of a nationwide database of personallyidentifiable information on individuals involved in studies or other collections of data under this subsection.
+&emsp;(6) ensure that nothing in this subsection shall be construed to authorize the development of a nationwide database of personally identifiable information on individuals involved in studies or other collections of data under this subsection.
 
 #### (<i>l</i>) Migrant and seasonal Head Start program study
 
@@ -314,7 +314,7 @@ The Secretary shall—
 
 #### (4) Protection of confidentiality
 
-&emsp;The Secretary shall, through regulation, ensure the protection of the confidentiality of any personally identifiable data, information, and records collected or maintained by the Secretary, by Head Start agencies that carry out migrant or seasonal Head Start programs, by the State director of Head Start Collaboration, and by the Migrant and Seasonal Farmworker Collaboration project Director (such regulations shall provide the policies, protections, and rights equivalent to those provided a parent, student, or educational agency or institution under section 1232g of title 20).
+&emsp;The Secretary shall, through regulation, ensure the protection of the confidentiality of any personally identifiable data, information, and records collected or maintained by the Secretary, by Head Start agencies that carry out migrant or seasonal Head Start programs, by the State director of Head Start Collaboration, and by the Migrant and Seasonal Farmworker Collaboration project Director (such regulations shall provide the policies, protections, and rights equivalent to those provideda parent, student, or educational agency or institution under section 1232g of title 20).
 
 #### (5) Rule of construction
 
@@ -342,7 +342,7 @@ The Secretary shall—
 
 &emsp;&emsp;(D) an evaluation of procedures for Head Start agencies and the Secretary to coordinate with appropriate Federal, State, and local emergency management agencies in the event of a large scale emergency and recommendations to improve such procedures.
 
-(Pub. L. 97–35, title VI, §649, Aug. 13, 1981, 95 Stat. 505; Pub. L. 98–558, title I, §107, Oct. 30, 1984, 98 Stat. 2880; Pub. L. 101–501, title I, §117(a), Nov. 3, 1990, 104 Stat. 1233; Pub. L. 103–252, title I, §116, May 18, 1994, 108 Stat. 646; Pub. L. 105–244,title I, §102(a)(13)(G), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 105–285, title I, §116, Oct. 27, 1998, 112 Stat. 2723; Pub. L. 110–134, §20, Dec. 12, 2007, 121 Stat. 1435.)
+(Pub. L. 97–35, title VI, §649, Aug. 13, 1981, 95 Stat. 505; Pub. L. 98–558, title I, §107, Oct. 30, 1984, 98 Stat. 2880; Pub. L. 101–501, title I, §117(a), Nov. 3, 1990, 104 Stat. 1233; Pub. L. 103–252, title I, §116, May 18, 1994, 108 Stat. 646; Pub. L. 105–244, title I, §102(a)(13)(G), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 105–285, title I, §116, Oct. 27, 1998, 112 Stat. 2723; Pub. L. 110–134, §20, Dec. 12, 2007, 121 Stat. 1435.)
 
 #### References in Text
 

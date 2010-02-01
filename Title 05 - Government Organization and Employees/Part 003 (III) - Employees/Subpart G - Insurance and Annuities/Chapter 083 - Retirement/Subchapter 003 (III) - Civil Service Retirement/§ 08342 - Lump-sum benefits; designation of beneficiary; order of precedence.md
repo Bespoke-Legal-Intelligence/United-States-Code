@@ -8,7 +8,7 @@
 
 &emsp;(2) files an application with the Office of Personnel Management for payment of the lump-sum credit;
 
-&emsp;(3) is not reemployed in a position in which he is subject to this subchapter, or chapter 84 of this title, at the time he files the application; and
+&emsp;(3) is not reemployed in a position in which he is subject to this subchapter, or chapter 84of this title, at the time he files the application; and
 
 &emsp;(4) will not become eligible to receive an annuity within thirty-one days after filing the application,
 
@@ -70,7 +70,7 @@
 
 (j)(1)(A) Payment of the lump-sum credit under subsection (a) may be made only if the spouse, if any, and any former spouse of the employee or Member are notified of the employee or Member's application.
 
-(B) The Office shall prescribe regulations under which the lump-sum credit shall not be paid without the consent of a spouse or former spouse of the employee or Member where the Office has received such additional information and documentation as the Office may require that—
+(B) The Office shall prescribe regulations under which the lump-sum credit shall not bepaid without the consent of a spouse or former spouse of the employee or Member where the Office has received such additional information and documentation as the Office may require that—
 
 &emsp;(i) a court order bars payment of the lump-sum credit in order to preserve the court's ability to award an annuity under section 8341(h) or section 8345(j); or
 
@@ -206,5 +206,5 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Reestablishment of Right To Receive Annuity by Judges Who Received Lump-sum Credit
 
-Pub. L. 96–504, §2, Dec. 5, 1980, 94 Stat. 2741, provided that: “A present or former justice or judge of the United States, as defined by section 451 of title 28, United States Code, who, prior to the effective date of this section \[Dec. 5, 1980\], voided his right to receive an annuity under subchapter III of chapter 83 of title 5,United States Code, by applying for and receiving a refund of his lump-sum credit while serving as such a justice or judge may, upon application filed with the Office of Personnel Management within one year following the effective date of this section, redeposit such refund with interest computed under section 8334(e) of such title 5 and thereby reestablish his right to receive an annuity under such subchapter effective on the date he otherwise was eligible to receive an annuity. The surviving spouse of any such justice or judge who dies before the effective date of this section may apply to make such redeposit within one year following the effective date of this section and receive both (1) the amount of the annuity which the justice or judge would have been entitled to receive before his death had application been made by him for the annuity and (2) any survivor annuity the justice or judge could have provided under the provisions of law in effect at the time of separation from the service on which title to the annuity is based.”
+Pub. L. 96–504, §2, Dec. 5, 1980, 94 Stat. 2741, provided that: “A present or former justice or judge of the United States, as defined by section 451 of title 28, United States Code, who, prior to the effective date of this section \[Dec. 5, 1980\], voided his right to receive an annuity under subchapter III of chapter 83 of title 5, United States Code, by applying for and receiving a refund of his lump-sum credit while serving as such a justice or judge may, upon application filed with the Office of Personnel Management within one year following the effective date of this section, redeposit such refund with interest computed under section 8334(e) of such title 5 and thereby reestablish his right to receive an annuity under such subchapter effective on the date he otherwise was eligible to receive an annuity. The surviving spouse of any such justice or judge who dies before the effective date of this section may apply to make such redeposit within one year following the effective date of this section and receive both (1) the amount of the annuity which the justice or judge would have been entitled to receive before his death had application been made by him for the annuity and (2) any survivor annuity the justice or judge could have provided under the provisions of law in effect at the time of separation from the service on which title to the annuity is based.”
 

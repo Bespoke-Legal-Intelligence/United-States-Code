@@ -2,7 +2,7 @@
 
 #### (a) Authorization and appropriation
 
-There are authorized to be appropriated, and there are appropriated, to carry out this section $66,000,000 for each of the fiscal years 2008 and 2009. In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+There are authorized to be appropriated, and there are appropriated, to carry out this section $66,000,000 for each of the fiscal years 2008 and2009. In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
 #### (b) Program authorized
 
@@ -80,7 +80,7 @@ There are authorized to be appropriated, and there are appropriated, to carry ou
 
 #### (e) Subgrants to nonprofit organizations
 
-A State receiving a payment under this section may elect to make a subgrant to one or more nonprofit organizations in the State, including an eligible not-for-profit holder (as defined in section 1085(p) of this title, as amended by section 303 <sup>2</sup> of this Act), or those nonprofit organizations that have agreements with the Secretary under section 1085(j) of this title, or a partnership of such organizations, to carry out activities or services described in subsection (f), if the nonprofit organization or partnership—
+A State receiving a payment under this section may elect to make a subgrant to one or more nonprofit organizations in the State, including an eligible not-for-profit holder (as described in section 1085(p) of this title), or those nonprofit organizations that have agreements with the Secretary under section 1078(b) of this title, or a partnership of such organizations, to carry out activities or services described in subsection (f), if the nonprofit organization or partnership—
 
 &emsp;(1) was in existence on the day before the date of the enactment of this Act; and
 
@@ -106,7 +106,7 @@ A State receiving a payment under this section may elect to make a subgrant to o
 
 &emsp;&emsp;(C) Outreach activities for students who may be at risk of not enrolling in or completing postsecondary education.
 
-&emsp;&emsp;(D) Assistance in completion of the Free Application for Federal Student Aid or othercommon financial reporting form under section 1090(a) of this title.
+&emsp;&emsp;(D) Assistance in completion of the Free Application for Federal Student Aid or other common financial reporting form under section 1090(a) of this title.
 
 &emsp;&emsp;(E) Need-based grant aid for students.
 
@@ -160,7 +160,7 @@ A State receiving a payment under this section may elect to make a subgrant to o
 
 #### (2) Priority
 
-&emsp;A grantee receiving a grant payment under this section shall, in carrying out any activity or service described in subsection (f)(1) with the grant funds, prioritize students and families who are living below the poverty line applicable to the individual's family size (as determined under section 9902(2) of title 42).
+&emsp;A grantee receiving a grant payment under this section shall, in carrying out any activityor service described in subsection (f)(1) with the grant funds, prioritize students and families who are living below the poverty line applicable to the individual's family size (as determined under section 9902(2) of title 42).
 
 #### (3) Disclosures
 
@@ -206,17 +206,17 @@ In this section:
 
 &emsp;&emsp;(C) that has a demonstrated record of dispersing grant aid to underserved populations to ensure access to, and participation in, higher education;
 
-&emsp;&emsp;(D) that is affiliated with an eligible consortia (as defined in paragraph (2)) to carry out this section; and
+&emsp;&emsp;(D) that is affiliated with an eligible consortium (as defined in paragraph (2)) to carry out this section; and
 
 &emsp;&emsp;(E) the primary purpose of which is to provide financial aid and support services to students from underrepresented populations to increase the number of such students who enter and remain in college.
 
-#### (2) Eligible consortia
+#### (2) Eligible consortium
 
-&emsp;The term “eligible consortia” means a partnership of 2 or more entities that have agreed to work together to carry out this section that—
+&emsp;The term “eligible consortium” means a partnership of 2 or more entities that have agreed to work together to carry out this section that—
 
 &emsp;&emsp;(A) includes—
 
-&emsp;&emsp;&emsp;(i) a philanthropic organization, which serves as the manager of the consortia;
+&emsp;&emsp;&emsp;(i) a philanthropic organization, which serves as the manager of the consortium;
 
 &emsp;&emsp;&emsp;(ii) a State that demonstrates a commitment to ensuring the creation of a Statewide system to address the issues of early intervention and financial support for eligible students to enter and remain in college; and
 
@@ -226,15 +226,15 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) providing need-based grants to students;
 
-&emsp;&emsp;&emsp;(ii) providing early notification to low-income students of their potential eligibility for Federal financial aid (which may include assisting students and families with filling out FAFSA forms), as well as other financial aid and other support available from the eligible consortia;
+&emsp;&emsp;&emsp;(ii) providing early notification to low-income students of their potential eligibility for Federal financial aid (which may include assisting students and families with filling out FAFSA forms), as well as other financial aid and other support available from the eligible consortium;
 
 &emsp;&emsp;&emsp;(iii) encouraging increased student participation in higher education through mentoring or outreach programs; and
 
 &emsp;&emsp;&emsp;(iv) conducting marketing and outreach efforts that are designed to—
 
-&emsp;&emsp;&emsp;&emsp;(I) encourage full participation of students in the activities of the consortia that carry out this section; and
+&emsp;&emsp;&emsp;&emsp;(I) encourage full participation of students in the activities of the consortium that carry out this section; and
 
-&emsp;&emsp;&emsp;&emsp;(II) provide the communities impacted by the activities of the consortia with a general knowledge about the efforts of the consortia.
+&emsp;&emsp;&emsp;&emsp;(II) provide the communities impacted by the activities of the consortium with a general knowledge about the efforts of the consortium.
 
 #### (3) Grantee
 
@@ -244,11 +244,9 @@ In this section:
 
 &emsp;&emsp;(B) with respect to such a State that has failed to meet the non-Federal share requirement of subsection (b), a philanthropic organization awarded the proportionate reduction amount of such a grant under subsection (b)(3).
 
-(Pub. L. 89–329, title VII, §781, formerly §771, as added Pub. L. 110–84, title VIII, §801, Sept. 27, 2007, 121 Stat. 812; renumbered §781 and amended Pub. L. 110–315, title VII, §§709(1), 710, Aug. 14, 2008, 122 Stat. 3361, 3377.)
+(Pub. L. 89–329, title VII, §781, formerly §771, as added Pub. L. 110–84, title VIII, §801, Sept. 27, 2007, 121 Stat. 812; renumbered §781 and amended Pub. L. 110–315, title VII, §§709(1), 710, Aug. 14, 2008, 122 Stat. 3361, 3377; Pub. L. 111–39, title VII, §701(6), July 1, 2009, 123 Stat. 1955.)
 
 #### References in Text
-
-Section 303 of this Act, referred to in subsec. (e), probably should be a reference to section 304 of Pub. L. 110–84, which added subsec. (p) of section 1085 of this title.
 
 The date of the enactment of this Act, referred to in subsec. (e)(1), probably means the date of enactment of Pub. L. 110–84, which enacted this section and was approved Sept. 27, 2007.
 
@@ -300,7 +298,7 @@ Another prior section 1145c, Pub. L. 89–329, title XII, §1208, as added Pub. 
 
 Section 1145d, Pub. L. 89–329, title XII, §1209, as added Pub. L. 102–325, title XII, §1204, July 23, 1992, 106 Stat. 794; amended Pub. L. 103–208, §2(j)(54), Dec. 20, 1993, 107 Stat. 2485, related to disclosures of foreign gifts.
 
-Another prior section 1145d, Pub. L. 89–329, title XII, §1209, as added Pub. L. 99–498, title XII, §1206(a), Oct. 17, 1986, 100 Stat. 1577, related to disclosures of foreign gifts, prior to repeal by Pub. L. 99–498, title XII, §1206(b), Oct. 17, 1986, 100 Stat. 1579, as amended by Pub. L. 100–50, §22(f), June 3, 1987, 101 Stat. 362, effective Aug. 1, 1989.
+Another prior section 1145d, Pub. L. 89–329, title XII, §1209, as added Pub. L. 99–498, title XII, §1206(a), Oct. 17,1986, 100 Stat. 1577, related to disclosures of foreign gifts, prior to repeal by Pub. L. 99–498, title XII, §1206(b), Oct. 17, 1986, 100 Stat. 1579, as amended by Pub. L. 100–50, §22(f), June 3, 1987, 101 Stat. 362, effective Aug. 1, 1989.
 
 Section 1145d–1, Pub. L. 89–329, title XII, §1210, as added Pub. L. 100–50, §21(b), June 3, 1987, 101 Stat. 360, related to application of peer review process.
 
@@ -322,11 +320,23 @@ Prior sections 1147 to 1150, Pub. L. 89–329, title XII, §§1207–1210, as ad
 
 #### Amendments
 
+2009—Subsec. (c)(1). Pub. L. 111–39, §701(6)(A), made technical amendment to reference in original act which appears in two places in text as reference to section 9902(2) of title 42.
+
+Subsec. (e). Pub. L. 111–39, §701(6)(B), substituted “(as described in section 1085(p) of this title)” for “(as defined in section 1085(p) of this title, as amended by section 303 of this Act)” and “1078(b)” for “1085(j)” in introductory provisions.
+
+Subsec. (g)(2). Pub. L. 111–39, §701(6)(C), made technical amendment to reference in original act which appears in text as reference to section 9902(2) of title 42.
+
+Subsec. (i). Pub. L. 111–39, §701(6)(D), substituted “consortium” for “consortia” in par. (1)(D) and in par. (2) in heading and wherever appearing in text.
+
 2008—Subsec. (a). Pub. L. 110–315, §710(1), substituted “In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.” for “The authority to award grants under this section shall expire at the end of fiscal year 2009.”
 
 Subsec. (b)(1). Pub. L. 110–315, §710(2), inserted “, subject to the availability of appropriations,” after “the Secretary shall”.
 
 Subsec. (e). Pub. L. 110–315, §710(3), inserted “, or those nonprofit organizations that have agreements with the Secretary under section 1085(j) of this title” before “, or a partnership”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date
 

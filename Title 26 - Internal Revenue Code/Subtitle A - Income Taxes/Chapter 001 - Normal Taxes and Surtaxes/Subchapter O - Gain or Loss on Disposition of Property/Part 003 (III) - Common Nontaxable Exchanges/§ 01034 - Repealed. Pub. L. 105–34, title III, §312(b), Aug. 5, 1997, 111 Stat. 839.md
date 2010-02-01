@@ -4,5 +4,5 @@ Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 306; Sept. 2, 1958, Pub. L. 85�
 
 #### Effective Date of Repeal
 
-Repeal applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 121 of this title.
+Repeal applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub.L. 105–34, set out as an Effective Date of 1997 Amendment note under section 121 of this title.
 

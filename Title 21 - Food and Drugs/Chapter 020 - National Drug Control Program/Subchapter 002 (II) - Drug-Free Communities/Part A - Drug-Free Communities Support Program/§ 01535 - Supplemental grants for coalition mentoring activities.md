@@ -26,7 +26,7 @@ A coalition meets the criteria specified in this subsection if the coalition—
 
 &emsp;(2) has achieved, by or through its own efforts, measurable results in the prevention and treatment of substance abuse among youth;
 
-&emsp;(3) has staff or members willing to serve as mentors for persons seeking to start or expandthe activities of other coalitions in the prevention and treatment of substance abuse;
+&emsp;(3) has staff or members willing to serve as mentors for persons seeking to start or expand the activities of other coalitions in the prevention and treatment of substance abuse;
 
 &emsp;(4) has demonstrable support from some members of the community in which the coalition mentoring activities to be supported by the grant under this section are to be carried out; and
 
@@ -48,7 +48,7 @@ The Administrator may make a renewal grant to any coalition awarded a grant unde
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), the total amount of grants awarded to a coalition under this section for a fiscal year may not exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year. Funds appropriated for the substance abuse activities of a coalition that includes a representative of the Bureau of Indian Affairs, the Indian Health Service, or a tribal government agency with expertise in the field of substance abuse may be counted as non-Federal funds raised by the coalition.
+&emsp;Subject to paragraphs (2) and (3), the total amount of grants awarded to a coalition under this section for a fiscal year may not exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year. Funds appropriated for the substance abuse activities of a coalition that includes a representative of the Bureau of Indian Affairs, the Indian Health Service, or a tribal government agency with expertise inthe field of substance abuse may be counted as non-Federal funds raised by the coalition.
 
 #### (2) Initial grants
 

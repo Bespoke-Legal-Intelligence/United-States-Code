@@ -32,7 +32,7 @@ Amounts distributed under this section to accounts referred to in subsection (d)
 
 #### (c) Tribal governing body of Assiniboine and Sioux Tribes of Fort Peck Reservation
 
-For purposes of making distributions of funds pursuant to this part, the Sisseton and Wahpeton Sioux Council of the Assiniboine and Sioux Tribes shall act as the governing body of the Assiniboine and Sioux Tribes of the Fort Peck Reservation.
+For purposes of making distributions of funds pursuant to this part, the Sisseton and Wahpeton Sioux Council of the Assiniboine andSioux Tribes shall act as the governing body of the Assiniboine and Sioux Tribes of the Fort Peck Reservation.
 
 #### (d) Tribal Trust Fund Accounts
 

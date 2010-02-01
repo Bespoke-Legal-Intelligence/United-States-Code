@@ -2,7 +2,7 @@
 
 #### (a) Notice of medicare benefits
 
-The Secretary shall prepare (in consultation with groups representing the elderly and with health insurers) and provide for distribution of a notice containing—
+The Secretary shall prepare (in consultation with groups representing the elderly and withhealth insurers) and provide for distribution of a notice containing—
 
 &emsp;(1) a clear, simple explanation of the benefits available under this subchapter and the major categories of health care for which benefits are not available under this subchapter,
 
@@ -72,7 +72,7 @@ For provisions relating to changes required to conform State regulatory programs
 
 #### Demonstration Projects
 
-Section 4361(b) of Pub. L. 101–508 provided that: “The Secretary of Health and Human Services is authorized to conduct demonstration projects in up to 5 States for the purpose of establishing statewide toll-free telephone numbers for providing information on medicare benefits, medicare supplemental policies available in the State, and benefits under the State medicaid program.”
+Section 4361(b) of Pub. L. 101–508 provided that: “The Secretary of Health and Human Services is authorized to conduct demonstration projects in up to 5 States for the purpose of establishing statewide toll-free telephone numbers for providing information on medicare benefits, medicare supplemental policies available inthe State, and benefits under the State medicaid program.”
 
 #### Notice of Changes Under Repeal of Medicare Catastrophic Coverage
 

@@ -2,7 +2,7 @@
 
 #### (a) Persons eligible; terms and conditions
 
-Whenever the President determines that, as a result of a major disaster, low-income households are unable to purchase adequate amounts of nutritious food, he is authorized, under such terms and conditions as he may prescribe, to distribute through the Secretary of Agriculture or other appropriate agencies benefit allotments to such households pursuant to the provisions of the Food and Nutrition Act of 2008 of 1964 <sup>1</sup> (P.L. 91–671; 84 Stat. 2048) \[7 U.S.C. 2011 et seq.\] and to make surplus commodities available pursuant to the provisions of this chapter.
+Whenever the President determines that, as a result of a major disaster, low-income households are unable to purchase adequate amounts of nutritious food, he is authorized, under such terms and conditions as he may prescribe, todistribute through the Secretary of Agriculture or other appropriate agencies benefit allotments to such households pursuant to the provisions of the Food and Nutrition Act of 2008 of 1964 <sup>1</sup> (P.L. 91–671; 84 Stat. 2048) \[7 U.S.C. 2011 et seq.\] and to make surplus commodities available pursuant to the provisions of this chapter.
 
 #### (b) Duration of assistance; factors considered
 
@@ -44,7 +44,7 @@ Amendment by sections 4002(b)(1)(C), (E), (2)(DD), and 4115(c)(1)(A)(ii), (iv), 
 
 #### Delegation of Functions
 
-Secretary of Agriculture designated and empowered to exercise, without approval, ratification, or other action of President, all authority vested in President by this section concerning food coupons and distribution, see section 3 of Ex. Ord. No. 11795, as amended, set out as a note under section 5121 of this title.
+Secretary of Agriculture designated and empowered to exercise, without approval, ratification, or other action of President, all authority vested in President by this section concerning food coupons (benefits) and distribution, see section 3 of Ex. Ord. No. 11795, as amended, set out as a note under section 5121 of this title.
 
 <i><sup>1</sup></i><i> So in original. See 2008 Amendment note below.</i>
 

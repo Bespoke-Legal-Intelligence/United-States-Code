@@ -28,7 +28,7 @@ In making such a grant, the Secretary shall give priority to a partnership or co
 
 #### (1) In general
 
-&emsp;To be eligible to receive a grant under this section, an entity described in subsection (b) of this section shall submit an application tothe Secretary at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;To be eligible to receive a grant under this section, an entity described in subsection (b) of this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (2) Contents
 
@@ -42,7 +42,7 @@ In making such a grant, the Secretary shall give priority to a partnership or co
 
 &emsp;&emsp;&emsp;(ii) demonstrate that the members are eligible to achieve the objectives of this section;
 
-&emsp;&emsp;(C) describe how the applicant will use funds received under this section to develop a teacher corps or other program to recruit and retain highly qualified midcareer professionals (which may include highly qualified paraprofessionals), recent college graduates, and recent graduate school graduates, as highly qualified teachers in high-need schools operated by high-need local educational agencies;
+&emsp;&emsp;(C) describe how the applicant will use funds received under this section to develop a teacher corps or other program to recruit and retain highly qualified midcareer professionals (which may include highly qualifiedparaprofessionals), recent college graduates, and recent graduate school graduates, as highly qualified teachers in high-need schools operated by high-need local educational agencies;
 
 &emsp;&emsp;(D) explain how the program carried out under the grant will meet the relevant State laws (including regulations) related to teacher certification or licensing and facilitate the certification or licensing of such teachers;
 
@@ -106,7 +106,7 @@ To the extent practicable, the Secretary shall ensure an equitable geographic di
 
 #### (1) Targeting
 
-&emsp;An entity that receives a grant under this section to carry out a program shall ensurethat participants in the program recruited with funds made available under this section are placed in high-need schools operated by high-need local educational agencies. In placing the participants in the schools, the entity shall give priority to the schools that are located in areas with the highest percentages of students from families with incomes below the poverty line.
+&emsp;An entity that receives a grant under this section to carry out a program shall ensure that participants in the program recruited with funds made available under this section are placed in high-need schools operated by high-need local educational agencies. In placing the participants in the schools, the entity shall give priority to the schools that are located in areas with the highest percentages of students from families with incomes below the poverty line.
 
 #### (2) Supplement, not supplant
 

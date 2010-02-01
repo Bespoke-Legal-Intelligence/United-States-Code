@@ -10,7 +10,7 @@
 
 &emsp;(2) in diminution of the responsibility of the Secretary in providing oil shale and products therefrom for needs of national defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 462; Pub. L. 87–796, §1(12), Oct. 11, 1962, 76 Stat. 906; Pub. L. 94–258, title II, §201(19), Apr. 5, 1976, 90 Stat. 313; Pub. L. 96–513, title V, §513(37), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 462; Pub. L. 87–796, §1(12), Oct. 11, 1962, 76 Stat. 906; Pub. L. 94–258, title II, §201(19), Apr. 5, 1976, 90 Stat. 313;Pub. L. 96–513, title V, §513(37), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 Historical and Revision Notes
 

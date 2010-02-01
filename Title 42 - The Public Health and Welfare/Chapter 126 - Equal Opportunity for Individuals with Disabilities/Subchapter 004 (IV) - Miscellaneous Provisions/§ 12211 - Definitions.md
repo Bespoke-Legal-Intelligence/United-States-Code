@@ -2,7 +2,7 @@
 
 #### (a) Homosexuality and bisexuality
 
-For purposes of the definition of “disability” in section 12102(2) <sup>1</sup> of this title, homosexualityand bisexuality are not impairments and as such are not disabilities under this chapter.
+For purposes of the definition of “disability” in section 12102(2) <sup>1</sup> of this title, homosexuality and bisexuality are not impairments and as such are not disabilities under this chapter.
 
 #### (b) Certain conditions
 

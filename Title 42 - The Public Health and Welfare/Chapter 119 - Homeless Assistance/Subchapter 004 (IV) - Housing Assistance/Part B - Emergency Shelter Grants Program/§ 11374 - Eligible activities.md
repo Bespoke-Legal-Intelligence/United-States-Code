@@ -30,7 +30,43 @@ Assistance provided under this part may be used for the following activities rel
 
 The Secretary may waive the 20 percent limitation on the use of assistance for essential services contained in subsection (a)(2)(B) of this section, if the local government receiving the assistance demonstrates that the other eligible activities under the program are already being carried out in the locality with other resources.
 
-(Pub. L. 100–77, title IV, §414, July 22, 1987, 101 Stat. 497; Pub. L. 100–628, title IV, §§422, 423(a), Nov. 7, 1988, 102 Stat. 3231; Pub. L. 101–625, title VIII, §832(c), (d), (f)(6), Nov. 28, 1990, 104 Stat. 4360, 4361; Pub. L. 102–550, title XIV, §1402(e), Oct. 28, 1992, 106 Stat. 4013; Pub. L. 104–330, title V, §506(a)(4), Oct. 26, 1996, 110 Stat. 4044; Pub. L. 106–377, §1(a)(1) \[title II, §229(b)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–31.)
+(Pub. L. 100–77, title IV, §414, July 22, 1987, 101 Stat. 497; Pub. L. 100–628, title IV, §§422, 423(a),Nov. 7, 1988, 102 Stat. 3231; Pub. L. 101–625, title VIII, §832(c), (d), (f)(6), Nov. 28, 1990, 104 Stat. 4360, 4361; Pub. L. 102–550, title XIV, §1402(e), Oct. 28, 1992, 106 Stat. 4013; Pub. L. 104–330, title V, §506(a)(4), Oct. 26, 1996, 110 Stat. 4044; Pub. L. 106–377, §1(a)(1) \[title II, §229(b)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–31; Pub. L. 111–22, div. B, title II, §1201(3), May 20, 2009, 123 Stat. 1678.)
+
+#### Renumbering and Repeal of Section and Enactment of New Section
+
+<i>Pub. L. 111–22, div. B, title II, §§1201(3), 1202, title V, §1503, May 20, 2009, 123 Stat. 1678, 1679, 1702, provided that, effective on, and applicable beginning on, the earlier of the expiration of the 18-month period beginning on May 20, 2009, or the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 of Pub. L. 111–22: section 414 of Pub. L. 100–77, which is classified to this section, is renumbered as section 415 of Pub. L. 100–77 and repealed and a new section 11374 is enacted to read as follows:</i>
+
+#### §11374. Eligible activities
+
+#### <i>(a) In general</i>
+
+<i>Assistance provided under section 11372 of this title may be used for the following activities:</i>
+
+&emsp;<i>(1) The renovation, major rehabilitation, or conversion of buildings to be used as emergency shelters.</i>
+
+&emsp;<i>(2) The provision of essential services related to emergency shelter or street outreach, including services concerned with employment, health, education, family support services for homeless youth, substance abuse services, victim services, or mental health services, if—</i>
+
+&emsp;&emsp;<i>(A) such essential services have not been provided by the local government during any part of the immediately preceding 12-month period or the Secretary determines that the local government is in a severe financial deficit; or</i>
+
+&emsp;&emsp;<i>(B) the use of assistance under this part would complement the provision of those essential services.</i>
+
+&emsp;<i>(3) Maintenance, operation, insurance, provision of utilities, and provision of furnishings related to emergency shelter.</i>
+
+&emsp;<i>(4) Provision of rental assistance to provide short-term or medium-term housing to homeless individuals or families or individuals or families at risk of homelessness. Such rental assistance may include tenant-based or project-based rental assistance.</i>
+
+&emsp;<i>(5) Housing relocation or stabilization services for homeless individuals or families or individuals or families at risk of homelessness, including housing search, mediation or outreach to property owners, legal services, credit repair, providing security or utility deposits, utility payments, rental assistance for a final month at a location, assistance with moving costs, or other activities that are effective at—</i>
+
+&emsp;&emsp;<i>(A) stabilizing individuals and families in their current housing; or</i>
+
+&emsp;&emsp;<i>(B) quickly moving such individuals and families to other permanent housing.</i>
+
+#### <i>(b) Maximum allocation for emergency shelter activities</i>
+
+<i>A grantee of assistance provided under section 11372 of this title for any fiscal year may not use an amount of such assistance for activities described in paragraphs (1) through (3) of subsection (a) that exceeds the greater of—</i>
+
+&emsp;<i>(1) 60 percent of the aggregate amount of such assistance provided for the grantee for such fiscal year; or</i>
+
+&emsp;<i>(2) the amount expended by such grantee for such activities during fiscal year most recently completed before the effective date under section 1503 of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009.</i>
 
 #### Amendments
 

@@ -78,7 +78,7 @@ Subsecs. (b), (c). Pub. L. 110–389, §312(c), (d), added subsecs. (b) and (c).
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–389, title III, §312(f), Oct. 10, 2008, 122 Stat. 4166, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to each report required under section 4332 of title38, United States Code (as amended by this section), after the date of the enactment of this Act \[Oct. 10, 2008\].”
+Pub. L. 110–389, title III, §312(f), Oct. 10, 2008, 122 Stat. 4166, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to each report required under section 4332 of title 38, United States Code (as amended by this section), after the date of the enactment of this Act \[Oct. 10, 2008\].”
 
 #### Effective Date
 

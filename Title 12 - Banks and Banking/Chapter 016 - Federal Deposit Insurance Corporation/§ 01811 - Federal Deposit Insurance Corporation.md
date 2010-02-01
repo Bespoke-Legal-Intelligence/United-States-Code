@@ -46,7 +46,7 @@ Pub. L. 109–351, §1(a), Oct. 13, 2006, 120 Stat. 1966, provided that: “This
 
 Pub. L. 109–173, §1, Feb. 15, 2006, 119 Stat. 3601, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Deposit Insurance Reform Conforming Amendments Act of 2005’.”
 
-Pub. L. 109–171, title II, §2101, Feb. 8, 2006, 120 Stat. 9, provided that: “This subtitle \[subtitle B (§§2101–2109) of title II of Pub. L. 109–171, amending sections 24, 338a, 347b, 1431, 1441a, 1441b, 1464, 1467a, 1723i, 1735f–14, 1813, 1815 to 1817, 1821, 1821a, 1823 to 1825, 1827, 1828, 1831a, 1831e, 1831h, 1831m, 1831<i>o</i>, 1833a, 1834, 1841, and 3341 of this title and section 905 of Title 2, The Congress, enacting provisions set out as notes under sections 1817 and 1821 of this title, and repealing provisions set out as notes under section 1821 of this title\] may be cited as the ‘Federal Deposit Insurance Reform Act of 2005’.”
+Pub. L. 109–171, title II, §2101, Feb. 8, 2006, 120 Stat. 9, provided that: “This subtitle \[subtitle B (§§2101–2109) of title II of Pub. L. 109–171, amending sections 24, 338a, 347b, 1431, 1441a, 1441b, 1464, 1467a, 1723i, 1735f–14, 1813, 1815 to 1817, 1821, 1821a, 1823 to 1825, 1827, 1828, 1831a, 1831e, 1831h, 1831m, 1831<i>o</i>, 1833a, 1834, 1841, and 3341 ofthis title and section 905 of Title 2, The Congress, enacting provisions set out as notes under sections 1817 and 1821 of this title, and repealing provisions set out as notes under section 1821 of this title\] may be cited as the ‘Federal Deposit Insurance Reform Act of 2005’.”
 
 #### Short Title of 2004 Amendment
 
@@ -90,7 +90,7 @@ Pub. L. 102–485, §1, Oct. 23, 1992, 106 Stat. 2771, provided that: “This Ac
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–242, §1(a), Dec. 19, 1991, 105 Stat. 2236, as amended by Pub. L. 102–550, title XVI, §1601, Oct. 28,1992, 106 Stat. 4075, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Deposit Insurance Corporation Improvement Act of 1991’.”
+Pub. L. 102–242, §1(a), Dec. 19, 1991, 105 Stat. 2236, as amended by Pub. L. 102–550, title XVI, §1601, Oct. 28, 1992, 106 Stat. 4075, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Deposit Insurance Corporation Improvement Act of 1991’.”
 
 Pub. L. 102–242, title II, §231, Dec. 19, 1991, 105 Stat. 2308, provided that: “This subtitle \[subtitle C (§§231–234) of title II of Pub. L. 102–242, enacting sections 1834, 1834a, and 1834b of this title and amending section 1817 of this title\] may be cited as the ‘Bank Enterprise Act of 1991’.”
 
@@ -222,7 +222,7 @@ Model approaches.—
 
 &emsp;&emsp;“(A)
 
-In general.—Each Federal banking agency and the National Credit Union Administration Board shall make available to each depository institution and insured credit union under the jurisdiction of such agency model approaches to common Year 2000 computer problems, such as model approaches with regard to project management, vendor contracts, testing regimes, and business continuity planning.
+In general.—Each Federal banking agency and the National Credit Union AdministrationBoard shall make available to each depository institution and insured credit union under the jurisdiction of such agency model approaches to common Year 2000 computer problems, such as model approaches with regard to project management, vendor contracts, testing regimes, and business continuity planning.
 
 &emsp;&emsp;“(B)
 
@@ -454,7 +454,7 @@ Final Report.—Not later than the close of the 18-month period beginning on the
 
 “(a)
 
-Annual Survey Required.—The Board of Governors of the Federal Reserve System shall obtain a sample, which is representative by geographic location and size of the institution, of—
+Annual Survey Required.—The Board of Governors of the Federal Reserve System shall obtain asample, which is representative by geographic location and size of the institution, of—
 
 &emsp;“(1) certain retail banking services provided by insured depository institutions; and
 
@@ -558,7 +558,7 @@ Reports to Congress.—The Comptroller General shall submit to the Congress 2 re
 
 &emsp;&emsp;“(A) the extent and nature of the activities of the government-sponsored enterprises; and
 
-&emsp;&emsp;“(B) the nature of any periodic reports that the Comptroller General believes should be submitted to the Congress relating to the capital condition and operations of the government-sponsored enterprises; and
+&emsp;&emsp;“(B) the nature of any periodic reports that the Comptroller General believes should be submitted to the Congress relating to the capital conditionand operations of the government-sponsored enterprises; and
 
 &emsp;“(4) any recommendations and opinions of the Secretary of Agriculture, the Secretary of Education, the Secretary of Housing and Urban Development, and the Secretary of the Treasury regarding the report, to the extent that the recommendations and views of such officers differ from the recommendations and opinions of the Comptroller General.
 
@@ -662,7 +662,7 @@ Exemption from public disclosure requirements.—The Department of the Treasury 
 
 Penalty for unauthorized disclosure.—Any officer or employee of the Department of the Treasury shall be subject to the penalties set forth in section 1906 of title 18, United States Code, if—
 
-&emsp;&emsp;&emsp;“(i) by virtue of his employment or official position, he has possession of or access to any book, record, or information made available under this subsection and determined by the Secretary to be confidential under subparagraph (A); and
+&emsp;&emsp;&emsp;“(i) by virtue of his employment or official position, he has possession of or access to any book,record, or information made available under this subsection and determined by the Secretary to be confidential under subparagraph (A); and
 
 &emsp;&emsp;&emsp;“(ii) he discloses the material in any manner other than—
 

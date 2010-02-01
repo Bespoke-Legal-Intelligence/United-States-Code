@@ -2,7 +2,7 @@
 
 #### (a) Determination for release
 
-The Secretary shall, in consultation with the Secretary of the Interior, the Marine MammalCommission, and individuals with knowledge and experience in marine science, marine mammal science, marine mammal veterinary and husbandry practices, and marine conservation, including stranding network participants, develop objective criteria, after an opportunity for public review and comment, to provide guidance for determining at what point a rehabilitated marine mammal is releasable to the wild.
+The Secretary shall, in consultation with the Secretary of the Interior, the Marine Mammal Commission, and individuals with knowledge and experience in marine science, marine mammal science, marine mammal veterinary and husbandry practices, and marine conservation, including stranding network participants, develop objective criteria, after an opportunity for public review and comment, to provide guidance for determining at what point a rehabilitated marine mammal is releasable to the wild.
 
 #### (b) Collection
 
@@ -22,7 +22,7 @@ The Secretary shall, in consultation with the Secretary of the Interior, collect
 
 #### (c) Availability
 
-The Secretary shall make information collected under this section available to stranding network participants and other qualified scientists.
+The Secretary shall make information collected under this section available to strandingnetwork participants and other qualified scientists.
 
 (Pub. L. 92–522, title IV, §402, formerly title III, §302, as added Pub. L. 102–587, title III, §3003(a), Nov. 4, 1992, 106 Stat. 5061; renumbered title IV, §402, Pub. L. 103–238, §24(b), Apr. 30, 1994, 108 Stat. 565.)
 

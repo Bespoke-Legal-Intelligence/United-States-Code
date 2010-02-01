@@ -42,7 +42,7 @@ Notwithstanding section 1346 of title 31 or section 610 of this Act, funds made 
 
 #### Repeal of Section
 
-<i>Pub. L. 110–403, title III, §305(a)(1), Oct. 13, 2008, 122 Stat. 4270, provided that this section is repealed effective upon confirmation of the Intellectual Property Enforcement Coordinator by the Senate and publication of such appointment in the Congressional Record.</i>
+<i>For repeal of section effective Dec. 3, 2009, see Effective Date of Repeal note below.</i>
 
 #### References in Text
 
@@ -60,7 +60,7 @@ Section was enacted as part of the Treasury and General Government Appropriation
 
 #### Effective Date of Repeal
 
-Pub. L. 110–403, title III, §305(a)(1), Oct. 13, 2008, 122 Stat. 4270, provided that the repeal of this section is effective upon confirmation of the Intellectual Property Enforcement Coordinator by the Senate and publication of such appointment in the Congressional Record.
+Pub. L. 110–403, title III, §305(a)(1), Oct. 13, 2008, 122 Stat. 4270, provided that the repeal of this section is effective upon confirmation of the Intellectual Property Enforcement Coordinator by the Senate and publication of such appointment in the Congressional Record. The Senate confirmed the first Intellectual Property Enforcement Coordinator on Dec. 3, 2009, as reflected in that day's Congressional Record. See 155 Cong. Rec. 178 at S12351, S12353 (daily ed. Dec. 3, 2009).
 
 #### Effective Date of 1999 Amendment
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Coordinator for International Intellectual Property Enforcement
 

@@ -21,6 +21,8 @@
 | [6428\.](%C2%A7%2006428%20-%202008%20recovery%20rebates%20for%20individuals.md) | 2008 recovery rebates for individuals. |
 | [6429\.](%C2%A7%2006429%20-%20Advance%20payment%20of%20portion%20of%20increased%20child%20credit%20for%202003.md) | Advance payment of portion of increased child credit for 2003. |
 | [6430\.](%C2%A7%2006430%20-%20Treatment%20of%20tax%20imposed%20at%20Leaking%20Underground%20Storage%20Tank%20Trust%20Fund%20financing%20rate.md) | Treatment of tax imposed at Leaking Underground Storage Tank Trust Fund financing rate. |
+| [6431\.](%C2%A7%2006431%20-%20Credit%20for%20qualified%20bonds%20allowed%20to%20issuer.md) | Credit for qualified bonds allowed to issuer. |
+| [6432\.](%C2%A7%2006432%20-%20COBRA%20premium%20assistance.md) | COBRA premium assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -31,6 +33,8 @@
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note set out under section 1 of this title.</i>
 
 #### Amendments
+
+2009—Pub. L. 111–5, div. B, title I, §1531(c)(7), title III, §3001(a)(12)(C), Feb. 17, 2009, 123 Stat. 360, 463, added items 6431 and 6432.
 
 2008—Pub. L. 110–185, title I, §101(f)(3), Feb. 13, 2008, 122 Stat. 617, substituted “2008 recovery rebates for individuals” for “Acceleration of 10 percent income tax rate bracket benefit for 2001” in item 6428.
 
@@ -107,3 +111,5 @@ Act Apr. 2, 1956, ch. 160, §4(c), 70 Stat. 91, added item 6420 and renumbered f
 - [&sect; 06428 - 2008 recovery rebates for individuals](%C2%A7%2006428%20-%202008%20recovery%20rebates%20for%20individuals.md)
 - [&sect; 06429 - Advance payment of portion of increased child credit for 2003](%C2%A7%2006429%20-%20Advance%20payment%20of%20portion%20of%20increased%20child%20credit%20for%202003.md)
 - [&sect; 06430 - Treatment of tax imposed at Leaking Underground Storage Tank Trust Fund financing rate](%C2%A7%2006430%20-%20Treatment%20of%20tax%20imposed%20at%20Leaking%20Underground%20Storage%20Tank%20Trust%20Fund%20financing%20rate.md)
+- [&sect; 06431 - Credit for qualified bonds allowed to issuer](%C2%A7%2006431%20-%20Credit%20for%20qualified%20bonds%20allowed%20to%20issuer.md)
+- [&sect; 06432 - COBRA premium assistance](%C2%A7%2006432%20-%20COBRA%20premium%20assistance.md)

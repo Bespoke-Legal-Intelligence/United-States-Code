@@ -80,5 +80,5 @@ Section 206(f) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22
 
 &emsp;“(A) a consent of surety which changes (for periods on and after the date of the enactment of this Act) the condition based on the withdrawal of spirits from the internal revenue bonded warehouse within 8 years from the date of original entry for deposit to a condition based on the withdrawal of spirits from the internal revenue bonded warehouse within 20 years from the date of original entry for deposit, or
 
-&emsp;“(B) a bond which applies to periods on and after the date of the enactment of this Act and which satisfies the requirements of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this section, and is conditioned on the withdrawal of spirits from the internal revenue bonded warehouse within 20 years from the date of original entry for deposit.”
+&emsp;“(B) a bond which applies to periods on and after the date of the enactment of this Act and which satisfies the requirements of the Internal Revenue Codeof 1986 \[formerly I.R.C. 1954\], as amended by this section, and is conditioned on the withdrawal of spirits from the internal revenue bonded warehouse within 20 years from the date of original entry for deposit.”
 

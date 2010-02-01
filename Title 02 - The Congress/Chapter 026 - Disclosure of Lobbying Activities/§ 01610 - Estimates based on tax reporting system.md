@@ -46,7 +46,7 @@ Not later than March 31, 1997, the Comptroller General of the United States shal
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c) and (d)(2), (3), was in the original “this Act” meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of thisAct to the Code, see Short Title note set out under section 1601 of this title and Tables.
+This chapter, referred to in subsecs. (c) and (d)(2), (3), was in the original “this Act” meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 #### Amendments
 

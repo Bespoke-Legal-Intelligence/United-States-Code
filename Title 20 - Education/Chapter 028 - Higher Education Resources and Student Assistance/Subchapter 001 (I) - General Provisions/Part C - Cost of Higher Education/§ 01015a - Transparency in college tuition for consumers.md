@@ -150,7 +150,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 #### (4) Disclaimer
 
-&emsp;Estimates of an individual net price determined using a net price calculator required under paragraph (3) shall be accompanied by a clear and conspicuous notice—
+&emsp;Estimates of an individual net price determined using a net price calculator requiredunder paragraph (3) shall be accompanied by a clear and conspicuous notice—
 
 &emsp;&emsp;(A) stating that the estimate—
 
@@ -224,7 +224,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 &emsp;&emsp;(Q) The total annual grant aid awarded to undergraduate students enrolled at the institution, from the Federal Government, a State, the institution, and other sources known by the institution.
 
-&emsp;&emsp;(R) The percentage of first-time, full-time undergraduate students enrolled at the institution receiving Federal, State, and institutional grants, student loans, and any other type of student financial assistance known by the institution, provided publicly or through the institution, such as Federal work-study funds.
+&emsp;&emsp;(R) The percentage of first-time, full-time undergraduate students enrolled at the institution receiving Federal, State, and institutional grants, student loans, and any other type of student financial assistance knownby the institution, provided publicly or through the institution, such as Federal work-study funds.
 
 &emsp;&emsp;(S) The number of students enrolled at the institution receiving Federal Pell Grants.
 
@@ -326,7 +326,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 &emsp;&emsp;(C) calculate an estimate of the total amount of tuition and fees to complete a program of study at such institution, based on the normal duration of such program, using the estimate calculated under subparagraph (B) for each year of the program of study;
 
-&emsp;&emsp;(D) provide the individual with the option to replace the estimated annual percentage change described in subparagraph (B)(ii)with an alternative annual percentage change specified by the individual, and calculate an estimate of tuition and fees for each year and an estimate of the total amount of tuition and fees using the alternative percentage change;
+&emsp;&emsp;(D) provide the individual with the option to replace the estimated annual percentage change described in subparagraph (B)(ii) with an alternative annual percentage change specified by the individual, and calculate an estimate of tuition and fees for each year and an estimate of the total amount of tuition and fees using the alternative percentage change;
 
 &emsp;&emsp;(E) in the case of an institution that offers a multi-year tuition guarantee program, allow the individual to have the estimates of tuition and fees described in subparagraphs (B) and (C) calculated based on the provisions of such guarantee program for the tuition and fees charged to a student, or cohort of students, enrolled for the duration of the program of study; and
 

@@ -20,7 +20,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Coordinated care plans which provide health care services, including but notlimited to health maintenance organization plans (with or without point of service options), plans offered by provider-sponsored organizations (as defined in section 1395w–25(d) of this title), and regional or local preferred provider organization plans (including MA regional plans).
+&emsp;&emsp;&emsp;Coordinated care plans which provide health care services, including but not limited to health maintenance organization plans (with or without point of service options), plans offered by provider-sponsored organizations (as defined in section 1395w–25(d) of this title), and regional or local preferred provider organization plans (including MA regional plans).
 
 #### (ii) Specialized MA plans for special needs individuals
 
@@ -86,7 +86,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Under rules established by the Secretary, an individual is not eligible to enroll (orcontinue enrollment) in an MSA plan for a year unless the individual provides assurances satisfactory to the Secretary that the individual will reside in the United States for at least 183 days during the year.
+&emsp;&emsp;Under rules established by the Secretary, an individual is not eligible to enroll (or continue enrollment) in an MSA plan for a year unless the individual provides assurances satisfactory to the Secretary that the individual will reside in the United States for at least 183 days during the year.
 
 #### (B) Evaluation
 
@@ -164,7 +164,7 @@
 
 #### (C) Form
 
-&emsp;&emsp;The information disseminated under this paragraph shall be written and formattedusing language that is easily understandable by medicare beneficiaries.
+&emsp;&emsp;The information disseminated under this paragraph shall be written and formatted using language that is easily understandable by medicare beneficiaries.
 
 #### (D) Periodic updating
 
@@ -260,7 +260,7 @@
 
 #### (5) Maintaining a toll-free number and Internet site
 
-&emsp;The Secretary shall maintain a toll-free number for inquiries regardingMedicare+Choice options and the operation of this part in all areas in which Medicare+Choice plans are offered and an Internet site through which individuals may electronically obtain information on such options and Medicare+Choice plans.
+&emsp;The Secretary shall maintain a toll-free number for inquiries regarding Medicare+Choice options and the operation of this part in all areas in which Medicare+Choice plans are offered and an Internet site through which individuals may electronically obtain information on such options and Medicare+Choice plans.
 
 #### (6) Use of non-Federal entities
 
@@ -406,7 +406,7 @@
 
 &emsp;&emsp;(B) subject to subparagraph (C), may not discontinue an election of an MSA plan except during the periods described in clause (ii) or (iii) of subparagraph (A) and under the first sentence of paragraph (4); and
 
-&emsp;&emsp;(C) who elects an MSA plan during an annual, coordinated election period, and who never previously had elected such a plan, may revoke such election, in a manner determined by the Secretary, by not later than December 15 following the date of the election.
+&emsp;&emsp;(C) who elects an MSA plan during an annual, coordinated election period, and whonever previously had elected such a plan, may revoke such election, in a manner determined by the Secretary, by not later than December 15 following the date of the election.
 
 #### (6) Open enrollment periods
 
@@ -538,7 +538,7 @@
 
 #### (1) Payments to organizations
 
-&emsp;Subject to sections 1395w–22(a)(5), 1395w–23(a)(4), 1395w–23(g), 1395w–23(h), 1395ww(d)(11), and 1395ww(h)(3)(D) of this title, payments under a contract with a Medicare+Choice organization under section 1395w–23(a) of this title with respect to an individual electing a Medicare+�Choice plan offered by the organization shall be instead of the amounts which (in the absence of the contract) would otherwise be payable under parts A and B of this subchapter for items and services furnished to the individual.
+&emsp;Subject to sections 1395w–22(a)(5), 1395w–23(a)(4), 1395w–23(g), 1395w–23(h), 1395ww(d)(11), 1395ww(h)(3)(D), and 1395w–23(m) of this title, payments under a contract with a Medicare+Choice organization under section 1395w–23(a) of this title with respect to an individual electing a Medicare+Choice plan offered by the organization shall be instead of the amounts which (in the absence of the contract) would otherwise be payable under parts A and B of this subchapter for items and services furnished to the individual.
 
 #### (2) Only organization entitled to payment
 
@@ -594,7 +594,7 @@
 
 &emsp;&emsp;The use by a Medicare Advantage organization of any individual as an agent, broker, or other third party representing the organization that has not completed an initial training and testing program and does not complete an annual retraining and testing program.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(A), title V, §§501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–378 to 1501A–380, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(2)(C), 613(a), 619(a), 620(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, 2763A–560, 2763A–563; Pub. L. 107–188, title V, §532(a), (c)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §102(a), (c)(1), title II, §§221(a)(1), (d)(5), 222(<i>l</i>)(3)(A), (B), (D), (E), 231(a), 233(b), (d), 237(b)(2)(A), Dec. 8, 2003, 117 Stat. 2152, 2154, 2180, 2193, 2206, 2207, 2209, 2212; Pub. L. 109–432, div. B, title II, §206(a), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §2, July 18, 2007, 121 Stat. 244; Pub. L. 110–275, title I, §103(a)(1), (b)(1), (c)(1), (d)(1), July 15, 2008, 122 Stat. 2498–2501.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(A), title V, §§501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–378 to 1501A–380, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(2)(C), 613(a), 619(a), 620(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, 2763A–560, 2763A–563; Pub. L. 107–188, title V, §532(a), (c)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §102(a), (c)(1), title II, §§221(a)(1), (d)(5), 222(<i>l</i>)(3)(A), (B), (D), (E), 231(a), 233(b), (d), 237(b)(2)(A), Dec. 8, 2003, 117 Stat. 2152, 2154, 2180, 2193, 2206, 2207, 2209, 2212; Pub. L. 109–432, div. B, title II, §206(a), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §2, July 18, 2007, 121 Stat. 244; Pub. L. 110–275, title I, §103(a)(1), (b)(1), (c)(1), (d)(1), July 15, 2008, 122 Stat. 2498–2501; Pub. L. 111–5, div. B, title IV, §4102(d)(2), Feb. 17, 2009, 123 Stat. 486.)
 
 #### References in Text
 
@@ -603,6 +603,8 @@ Parts A and B of this subchapter, referred to in text, are classified to section
 Part D of this subchapter, referred to in subsec. (e)(2)(C)(iii), (E)(iv)(I), is classified to section 1395w–101 et seq. of this title.
 
 #### Amendments
+
+2009—Subsec. (i)(1). Pub. L. 111–5 substituted “1395ww(h)(3)(D), and 1395w–23(m)” for “and 1395ww(h)(3)(D)”.
 
 2008—Subsec. (h)(4)(A). Pub. L. 110–275, §103(a)(1)(A)(i)(I)(aa), substituted “, subject to subsection (j)(2)(C), cash, gifts, prizes, or other monetary rebates” for “cash or other monetary rebates”.
 
@@ -690,7 +692,7 @@ Subsec. (i)(2). Pub. L. 108–173, §237(b)(2)(A)(ii), inserted “1395w–23(a)
 
 Pub. L. 108–173, §221(d)(5), inserted “1395w–27a(h),” after “1395w–27(f)(2),”.
 
-2002—Subsec. (e)(2)(A). Pub. L. 107–188, §532(a)(1), substituted “through 2004” for “through 2001” in headingand “during the period beginning January 1, 1998, and ending on December 31, 2004” for “during 1998, 1999, 2000, and 2001” in text.
+2002—Subsec. (e)(2)(A). Pub. L. 107–188, §532(a)(1), substituted “through 2004” for “through 2001” in heading and “during the period beginning January 1, 1998, and ending on December 31, 2004” for “during 1998, 1999, 2000, and 2001” in text.
 
 Subsec. (e)(2)(B). Pub. L. 107–188, §532(a)(2), substituted “during 2005” for “during 2002” in heading.
 
@@ -838,7 +840,7 @@ Enrollment in new plans.—During the period beginning on January 1, 2008, and e
 
 Pub. L. 108–173, title II, §231(d), Dec. 8, 2003, 117 Stat. 2208, provided that: “In promulgating regulations to carry out section 1851(a)(2)(A)(ii) of the Social Security Act \[subsec. (a)(2)(A)(ii) of this section\] (as added by subsection (a)) and section 1859(b)(6) of such Act \[section 1395w–28(b)(6) of this title\] (as added by subsection (b)), the Secretary \[of Health and Human Services\] may provide (notwithstanding section 1859(b)(6)(A) of such Act) for the offering of specialized MA plans for special needs individuals by MA plans that disproportionately serve special needs individuals.”
 
-Pub. L. 108–173, title II, §231(e), Dec. 8, 2003, 117 Stat. 2208, provided that: “Not later than December 31, 2007,the Secretary \[of Health and Human Services\] shall submit to Congress a report that assesses the impact of specialized MA plans for special needs individuals on the cost and quality of services provided to enrollees. Such report shall include an assessment of the costs and savings to the medicare program as a result of amendments made by subsections (a), (b), and (c) \[amending this section and section 1395w–28 of this title\].”
+Pub. L. 108–173, title II, §231(e), Dec. 8, 2003, 117 Stat. 2208, provided that: “Not later than December 31, 2007, the Secretary \[of Health and Human Services\] shall submit to Congress a report that assesses the impact of specialized MA plans for special needs individuals on the cost and quality of services provided to enrollees. Such report shall include an assessment of the costs and savings to the medicare program as a result of amendments made by subsections (a), (b), and (c) \[amending this section and section 1395w–28 of this title\].”
 
 #### MedPAC Study on Consumer Coalitions
 

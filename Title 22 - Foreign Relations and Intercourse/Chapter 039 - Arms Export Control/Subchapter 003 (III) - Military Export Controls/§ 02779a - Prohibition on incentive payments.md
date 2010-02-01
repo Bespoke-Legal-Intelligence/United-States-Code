@@ -18,7 +18,7 @@ For purposes of this section—
 
 &emsp;(1) the term “offset agreement” means an agreement, arrangement, or understanding between a United States supplier of defense articles or defense services and a foreign country under which the supplier agrees to purchase or acquire, or to promote the purchase or acquisition by other United States persons of, goods or services produced, manufactured, grown, or extracted, in whole or in part, in that foreign country in consideration for the purchase by the foreign country of defense articles or defense services from the supplier;
 
-&emsp;(2) the term “incentive payments” means direct monetary compensation made by a United States supplier of defense articles or defense services or by any employee, agent or subcontractor thereof to any other United States person to induce or persuade that United States person to purchase or acquire goods or services produced, manufactured, grown, or extracted, in whole or in part, in the foreign country which is purchasing those defense articles or services from the United States supplier; and
+&emsp;(2) the term “incentive payments” means direct monetary compensation made by a United States supplier of defense articles or defense services or by any employee, agent or subcontractor thereof to any other United States person to induce or persuade that United States person to purchase or acquire goods orservices produced, manufactured, grown, or extracted, in whole or in part, in the foreign country which is purchasing those defense articles or services from the United States supplier; and
 
 &emsp;(3) the term “United States person” means—
 

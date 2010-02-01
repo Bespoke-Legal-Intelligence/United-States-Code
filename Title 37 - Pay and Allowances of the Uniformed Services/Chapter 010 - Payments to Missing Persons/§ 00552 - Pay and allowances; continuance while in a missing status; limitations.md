@@ -20,7 +20,7 @@
 
 (e) A member in a missing status who is continued in that status under section 555 of this title or under chapter 76 of title 10 is entitled to be credited with pay and allowances under subsection (a).
 
-(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 625; amended Pub. L. 92–169, §1, Nov. 24, 1971, 85 Stat. 489; Pub. L. 92–482, Oct. 12, 1972, 86 Stat. 796; Pub. L. 93–26, §1, Apr. 27, 1973, 87 Stat. 26; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title V, §569(c)(2), Feb. 10, 1996, 110 Stat. 351.)
+(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 625; amended Pub. L. 92–169, §1, Nov. 24, 1971, 85 Stat. 489; Pub. L. 92–482, Oct. 12, 1972, 86 Stat. 796; Pub. L. 93–26, §1, Apr. 27, 1973, 87 Stat. 26;Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title V, §569(c)(2), Feb. 10, 1996, 110 Stat. 351.)
 
 Historical and Revision Notes
 

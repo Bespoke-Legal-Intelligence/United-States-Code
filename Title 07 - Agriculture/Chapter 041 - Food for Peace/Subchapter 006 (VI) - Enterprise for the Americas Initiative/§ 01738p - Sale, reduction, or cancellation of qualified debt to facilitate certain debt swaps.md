@@ -34,7 +34,7 @@ The President shall establish the terms and conditions under which qualified deb
 
 #### (e) Limitation
 
-In the aggregate, not more than 40 percent of the qualified debt of an eligible country may be sold, reduced, or cancelled under this section or sold under section 1738<i>o</i> of this title.
+In the aggregate, not more than 40 percent of the qualified debt of an eligible country may besold, reduced, or cancelled under this section or sold under section 1738<i>o</i> of this title.
 
 #### (f) Administration
 

@@ -80,7 +80,7 @@
 
 &emsp;&emsp;(E) a description of the programs required under subparagraphs (A)(iii) and (B)(iii) of subsection (a)(3), including activities to assist new teachers in fulfilling the teachers’ service requirements under this section;
 
-&emsp;&emsp;(F) an identification of the applicant eligible entity's science, technology, engineering, and mathematics faculty and its education faculty (and such faculty of participating institutions of higher education of the consortium, if applicable) who will carry out the development and implementation of the program as required under subsection (a)(4); and
+&emsp;&emsp;(F) an identification of the applicant eligible entity's science, technology, engineering, and mathematics faculty and its education faculty (and such faculty of participating institutions of higher education ofthe consortium, if applicable) who will carry out the development and implementation of the program as required under subsection (a)(4); and
 
 &emsp;&emsp;(G) a description of the process the applicant will use to fulfill the requirements of subsection (f).
 
@@ -196,7 +196,7 @@ As a condition of acceptance of a scholarship or stipend under this section, a r
 
 #### (A) Less than one year of service
 
-&emsp;&emsp;If a circumstance described in paragraph (1) occurs before the completion of 1 year of a service obligation under this section, thetotal amount of awards received by the individual under this section shall be repaid or such amount shall be treated as a loan to be repaid in accordance with subparagraph (C).
+&emsp;&emsp;If a circumstance described in paragraph (1) occurs before the completion of 1 year of a service obligation under this section, the total amount of awards received by the individual under this section shall be repaid or such amount shall be treated as a loan to be repaid in accordance with subparagraph (C).
 
 #### (B) More than one year of service
 
@@ -232,7 +232,7 @@ In this section—
 
 &emsp;(3) the term “fellowship” means an award to an individual under section 1862n–1a of this title;
 
-&emsp;(4) the term “high need local educational agency” has the meaning given such term in section 201 of the Higher Education Act of 1965 (20 U.S.C. 1021);
+&emsp;(4) the term “high need local educational agency” has the meaning given such term insection 201 of the Higher Education Act of 1965 (20 U.S.C. 1021);
 
 &emsp;(5) the term “mathematics and science teacher” means a science, technology, engineering, or mathematics teacher at the elementary school or secondary school level;
 

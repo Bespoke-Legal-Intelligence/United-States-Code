@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) is appointed as, or is serving as, a reserve officer and agrees to serve in the Selected Reserve for a period of not less than six years in addition to any other period of obligated service in the Selected Reserve to which the person may be subject; and
 
-&emsp;(2) before applying for benefits under this section, has completed the requirements of asecondary school diploma (or an equivalency certificate);
+&emsp;(2) before applying for benefits under this section, has completed the requirements of a secondary school diploma (or an equivalency certificate);
 
 > is entitled to educational assistance under section 16131 of this title.
 

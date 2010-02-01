@@ -2,7 +2,7 @@
 
 #### (a) Civil penalties for emergency planning
 
-The Administrator may order a facility owner or operator (except an owner or operator of a facility designated under section 11002(b)(2) of this title) to comply with section 11002(c) of this title and section 11003(d) of this title. The United States district court for the district in which the facility is located shall have jurisdiction toenforce the order, and any person who violates or fails to obey such an order shall be liable to the United States for a civil penalty of not more than $25,000 for each day in which such violation occurs or such failure to comply continues.
+The Administrator may order a facility owner or operator (except an owner or operator of a facility designated under section 11002(b)(2) of this title) to comply with section 11002(c) of this title and section 11003(d) of this title. The United States district court for the district in which the facility is located shall have jurisdiction to enforce the order, and any person who violates or fails to obey such an order shall be liable to the United States for a civil penalty of not more than $25,000 for each day in which such violation occurs or such failure to comply continues.
 
 #### (b) Civil, administrative, and criminal penalties for emergency notification
 
@@ -54,7 +54,7 @@ The Administrator may order a facility owner or operator (except an owner or ope
 
 #### (e) Special enforcement provisions for section 11043
 
-Whenever any facility owner or operator required to provide information under section 11043 of this title to a health professional who has requested such information fails or refuses to provide such information in accordance with such section, such health professional may bring an action in the appropriate United States district court to require such facility owner or operator to provide the information. Such courtshall have jurisdiction to issue such orders and take such other action as may be necessary to enforce the requirements of section 11043 of this title.
+Whenever any facility owner or operator required to provide information under section 11043 of this title to a health professional who has requested such information fails or refuses to provide such information in accordance with such section, such health professional may bring an action in the appropriate United States district court to require such facility owner or operator to provide the information. Such court shall have jurisdiction to issue such orders and take such other action as may be necessary to enforce the requirements of section 11043 of this title.
 
 #### (f) Procedures for administrative penalties
 

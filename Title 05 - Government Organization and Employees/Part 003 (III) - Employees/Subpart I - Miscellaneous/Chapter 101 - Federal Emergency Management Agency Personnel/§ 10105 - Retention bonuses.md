@@ -58,7 +58,7 @@ Reports.—
 
 &emsp;(1)
 
-In general.—The Office of Personnel Management shall submit to the appropriatecommittees of Congress, annually for each of the first 5 years during which this section is in effect, a report on the operation of this section.
+In general.—The Office of Personnel Management shall submit to the appropriate committees of Congress, annually for each of the first 5 years during which this section is in effect, a report on the operation of this section.
 
 &emsp;(2)
 

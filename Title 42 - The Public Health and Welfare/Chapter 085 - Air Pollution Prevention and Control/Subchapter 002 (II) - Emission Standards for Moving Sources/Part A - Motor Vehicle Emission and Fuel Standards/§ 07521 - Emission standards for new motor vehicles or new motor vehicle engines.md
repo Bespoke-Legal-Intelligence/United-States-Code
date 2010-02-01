@@ -18,7 +18,7 @@ In general.—(i) Unless the standard is changed as provided in subparagraph (B)
 
 Revised standards for heavy duty trucks.—(i) On the basis of information available to the Administrator concerning the effects of air pollutants emitted from heavy-duty vehicles or engines and from other sources of mobile source related pollutants on the public health and welfare, and taking costs into account, the Administrator may promulgate regulations under paragraph (1) of this subsection revising any standard promulgated under, or before the date of, the enactment of the Clean Air Act Amendments of 1990 (or previously revised under this subparagraph) and applicable to classes or categories of heavy-duty vehicles or engines.
 
-(ii) Effective for the model year 1998 and thereafter, the regulations under paragraph (1) of thissubsection applicable to emissions of oxides of nitrogen (NO<sub>x</sub>) from gasoline and diesel-fueled heavy duty trucks shall contain standards which provide that such emissions may not exceed 4.0 grams per brake horsepower hour (gbh).
+(ii) Effective for the model year 1998 and thereafter, the regulations under paragraph (1) of this subsection applicable to emissions of oxides of nitrogen (NO<sub>x</sub>) from gasoline and diesel-fueled heavy duty trucks shall contain standards which provide that such emissions may not exceed 4.0 grams per brake horsepower hour (gbh).
 
 (C)
 
@@ -74,7 +74,7 @@ After Fifth
 
 #### (b) Emissions of carbon monoxide, hydrocarbons, and oxides of nitrogen; annual report to Congress; waiver of emission standards; research objectives
 
-(1)(A) The regulations under subsection (a) of this section applicable to emissions of carbon monoxide and hydrocarbons from light-duty vehicles and engines manufactured during model years 1977 through 1979 shall contain standards which provide that such emissions from such vehicles and engines may not exceed 1.5 grams per vehicle mile of hydrocarbons and 15.0 grams per vehicle mile of carbon monoxide. The regulations under subsection (a) of this section applicable to emissions of carbon monoxide from light-duty vehicles and engines manufactured during the model year 1980 shall contain standards which provide that such emissions may not exceed 7.0 grams per vehicle mile. The regulations under subsection (a) of this section applicable to emissions of hydrocarbons from light-duty vehicles and engines manufactured during or after model year 1980 shall contain standards which require a reduction of at least 90 percent from emissions of such pollutant allowable under the standards under this section applicable to light-duty vehicles and engines manufactured in model year 1970. Unless waived as provided in paragraph (5),<sup>1</sup> regulations under subsection (a) of this section applicable to emissions of carbon monoxide from light-duty vehicles and engines manufactured during or after the model year 1981 shall contain standards which require a reduction of at least 90 percent from emissions of such pollutant allowable under the standards under this section applicable to light-duty vehicles and engines manufactured in model year 1970.
+(1)(A) The regulations under subsection (a) of this section applicable to emissions of carbon monoxide and hydrocarbons from light-duty vehicles and engines manufactured during model years 1977 through 1979 shall contain standards which provide that such emissions from such vehicles and engines may not exceed 1.5 grams per vehicle mile of hydrocarbons and 15.0 grams per vehicle mile of carbon monoxide. The regulations under subsection (a) of this section applicable to emissions of carbon monoxide from light-duty vehicles and engines manufactured during the model year 1980 shall contain standards which provide that such emissions may not exceed 7.0 grams per vehicle mile. The regulations under subsection (a) of this section applicable to emissions of hydrocarbons from light-duty vehicles and engines manufactured during or after model year 1980 shall contain standards which require a reduction of at least 90 percent from emissions of such pollutant allowable under the standards under this section applicable to light-duty vehicles and engines manufactured in model year 1970. Unless waived as provided in paragraph (5),<sup>1</sup> regulations under subsection (a) of this section applicable to emissions of carbon monoxide from light-duty vehicles and engines manufactured during or after the model year 1981 shall contain standards which require a reduction of at least 90 percent from emissions of such pollutant allowableunder the standards under this section applicable to light-duty vehicles and engines manufactured in model year 1970.
 
 (B) The regulations under subsection (a) of this section applicable to emissions of oxides of nitrogen from light-duty vehicles and engines manufactured during model years 1977 through 1980 shall contain standards which provide that such emissions from such vehicles and engines may not exceed 2.0 grams per vehicle mile. The regulations under subsection (a) of this section applicable to emissions of oxides of nitrogen from light-duty vehicles and engines manufactured during the model year 1981 and thereafter shall contain standards which provide that such emissions from such vehicles and engines may not exceed 1.0 gram per vehicle mile. The Administrator shall prescribe standards in lieu of those required by the preceding sentence, which provide that emissions of oxides of nitrogen may not exceed 2.0 grams per vehicle mile for any light-duty vehicle manufactured during model years 1981 and 1982 by any manufacturer whose production, by corporate identity, for calendar year 1976 was less than three hundred thousand light-duty motor vehicles worldwide if the Administrator determines that—
 
@@ -94,7 +94,7 @@ After Fifth
 
 &emsp;(B) Repealed. Pub. L. 101–549, title II, §230(1), Nov. 15, 1990, 104 Stat. 2529.
 
-&emsp;(C) The term “heavy duty vehicle” means a truck, bus, or other vehicle manufactured primarily for use on the public streets, roads, andhighways (not including any vehicle operated exclusively on a rail or rails) which has a gross vehicle weight (as determined under regulations promulgated by the Administrator) in excess of six thousand pounds. Such term includes any such vehicle which has special features enabling off-street or off-highway operation and use.
+&emsp;(C) The term “heavy duty vehicle” means a truck, bus, or other vehicle manufactured primarily for use on the public streets, roads, and highways (not including any vehicle operated exclusively on a rail or rails) which has a gross vehicle weight (as determined under regulations promulgated by the Administrator) in excess of six thousand pounds. Such term includes any such vehicle which has special features enabling off-street or off-highway operation and use.
 
 (3) <sup>2</sup> Upon the petition of any manufacturer, the Administrator, after notice and opportunity for public hearing, may waive the standard required under subparagraph (B) of paragraph (1) to not exceed 1.5 grams of oxides of nitrogen per vehicle mile for any class or category of light-duty vehicles or engines manufactured by such manufacturer during any period of up to four model years beginning after the model year 1980 if the manufacturer demonstrates that such waiver is necessary to permit the use of an innovative power train technology, or innovative emission control device or system, in such class or category of vehicles or engines and that such technology or system was not utilized by more than 1 percent of the light-duty vehicles sold in the United States in the 1975 model year. Such waiver may be granted only if the Administrator determines—
 
@@ -110,7 +110,7 @@ After Fifth
 
 (1) The Administrator shall undertake to enter into appropriate arrangements with the National Academy of Sciences to conduct a comprehensive study and investigation of the technological feasibility of meeting the emissions standards required to be prescribed by the Administrator by subsection (b) of this section.
 
-(2) Of the funds authorized to be appropriated to the Administrator by this chapter, such amounts as are required shall be available to carry out the study and investigation authorized by paragraph (1) of this subsection.
+(2) Of the funds authorized to be appropriated to the Administrator by this chapter, suchamounts as are required shall be available to carry out the study and investigation authorized by paragraph (1) of this subsection.
 
 (3) In entering into any arrangement with the National Academy of Sciences for conducting the study and investigation authorized by paragraph (1) of this subsection, the Administrator shall request the National Academy of Sciences to submit semiannual reports on the progress of its study and investigation to the Administrator and the Congress, beginning not later than July 1, 1971, and continuing until such study and investigation is completed.
 
@@ -362,7 +362,7 @@ CO
 
 &emsp;(i) the availability of technology (including the costs thereof), in the case of light-duty vehicles and light-duty trucks with a loaded vehicle weight (LVW) of 3,750 lbs. or less, for meeting more stringent emission standards than those provided in subsections (g) and (h) of this section for model years commencing not earlier than after January 1, 2003, and not later than model year 2006, including the lead time and safety and energy impacts of meeting more stringent emission standards; and
 
-&emsp;(ii) the need for, and cost effectiveness of, obtaining further reductions in emissions from such light-duty vehicles and light-duty trucks, taking into consideration alternative means of attaining or maintaining the national primaryambient air quality standards pursuant to State implementation plans and other requirements of this chapter, including their feasibility and cost effectiveness.
+&emsp;(ii) the need for, and cost effectiveness of, obtaining further reductions in emissions from such light-duty vehicles and light-duty trucks, taking into consideration alternative means of attaining or maintaining the national primary ambient air quality standards pursuant to State implementation plans and other requirements of this chapter, including their feasibility and cost effectiveness.
 
 (B) The Administrator shall submit a report to Congress no later than June 1, 1997, containing the results of the study under this subsection, including the results of the examination conducted under subparagraph (A). Before submittal of such report the Administrator shall provide a reasonable opportunity for public comment and shall include a summary of such comments in the report to Congress.
 
@@ -404,7 +404,7 @@ CO
 
 #### (1) Phase I
 
-&emsp;Not later than 12 months after November 15, 1990, the Administrator shall promulgate regulations under subsection (a) of this section applicable to emissions of carbon monoxide from 1994 and later model year light-duty vehicles and light-duty trucks when operated at 20 degrees Fahrenheit. The regulations shall contain standards which provide that emissions of carbon monoxide from a manufacturer's vehicles when operated at 20 degrees Fahrenheit may not exceed, in the case of light-duty vehicles, 10.0 grams per mile, and in the case of light-duty trucks, a level comparable in stringency to the standard applicable to light-duty vehicles. The standards shall take effect after model year 1993 according to a phase-in schedule which requires a percentage of each manufacturer's sales volume of light-duty vehiclesand light-duty trucks to comply with applicable standards after model year 1993. The percentage shall be as specified in the following table:
+&emsp;Not later than 12 months after November 15, 1990, the Administrator shall promulgate regulations under subsection (a) of this section applicable to emissions of carbon monoxide from 1994 and later model year light-duty vehicles and light-duty trucks when operated at 20 degrees Fahrenheit. The regulations shall contain standards which provide that emissions of carbon monoxide from a manufacturer's vehicles when operated at 20 degrees Fahrenheit may not exceed, in the case of light-duty vehicles, 10.0 grams per mile, and in the case of light-duty trucks, a level comparable in stringency to the standard applicable to light-duty vehicles. The standards shall take effect after model year 1993 according to a phase-in schedule which requires a percentage of each manufacturer's sales volume of light-duty vehicles and light-duty trucks to comply with applicable standards after model year 1993. The percentage shall be as specified in the following table:
 
 Phase-In Schedule for Cold Start Standards
 
@@ -442,7 +442,7 @@ Percentage
 
 #### (k) Control of evaporative emissions
 
-The Administrator shall promulgate (and from time to time revise) regulations applicable to evaporative emissions of hydrocarbons from all gasoline-fueled motor vehicles—
+The Administrator shall promulgate (and from time to time revise) regulations applicable toevaporative emissions of hydrocarbons from all gasoline-fueled motor vehicles—
 
 &emsp;(1) during operation; and
 
@@ -458,7 +458,7 @@ The Administrator shall promulgate (and from time to time revise) regulations ap
 
 #### (2) Standards
 
-&emsp;Within 54 months after November 15, 1990, the Administrator shall, based on the study under paragraph (1), promulgate (and from time to time revise) regulations under subsection (a)(1) of this section or section 7545(c)(1) of this title containing reasonable requirements to control hazardous air pollutants from motor vehicles and motor vehicle fuels. The regulations shall contain standards for such fuels or vehicles, or both, which the Administrator determines reflect the greatest degree of emission reduction achievable through the application of technology which will be available, taking into consideration the standards established under subsection (a) of this section, the availability and costs of the technology, and noise, energy, and safety factors, and lead time. Such regulations shall not be inconsistent with standards under subsection (a) of this section. The regulations shall, at aminimum, apply to emissions of benzene and formaldehyde.
+&emsp;Within 54 months after November 15, 1990, the Administrator shall, based on the study under paragraph (1), promulgate (and from time to time revise) regulations under subsection (a)(1) of this section or section 7545(c)(1) of this title containing reasonable requirements to control hazardous air pollutants from motor vehicles and motor vehicle fuels. The regulations shall contain standards for such fuels or vehicles, or both, which the Administrator determines reflect the greatest degree of emission reduction achievable through the application of technology which will be available, taking into consideration the standards established under subsection (a) of this section, the availability and costs of the technology, and noise, energy, and safety factors, and lead time. Such regulations shall not be inconsistent with standards under subsection (a) of this section. The regulations shall, at a minimum, apply to emissions of benzene and formaldehyde.
 
 #### (m) Emissions control diagnostics
 
@@ -490,7 +490,7 @@ The Administrator shall promulgate (and from time to time revise) regulations ap
 
 &emsp;&emsp;(A) that any connectors through which the emission control diagnostics system is accessed for inspection, diagnosis, service, or repair shall be standard and uniform on all motor vehicles and motor vehicle engines;
 
-&emsp;&emsp;(B) that access to the emission control diagnostics system through such connectors shall be unrestricted and shall not require any access code or any device which is only available from a vehicle manufacturer; and
+&emsp;&emsp;(B) that access to the emission control diagnostics system through such connectors shall be unrestricted and shall not requireany access code or any device which is only available from a vehicle manufacturer; and
 
 &emsp;&emsp;(C) that the output of the data from the emission control diagnostics system through such connectors shall be usable without the need for any unique decoding information or device.
 
@@ -526,7 +526,7 @@ Standard\*
 
 #### References in Text
 
-The enactment of the Clean Air Act Amendments of 1990, referred to in subsec. (a)(3)(B), probably means theenactment of Pub. L. 101–549, Nov. 15, 1990, 104 Stat. 2399, which was approved Nov. 15, 1990. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The enactment of the Clean Air Act Amendments of 1990, referred to in subsec. (a)(3)(B), probably means the enactment of Pub. L. 101–549, Nov. 15, 1990, 104 Stat. 2399, which was approved Nov. 15, 1990. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 Section 7525(f)(1) of this title, referred to in subsec. (a)(3)(E), was redesignated section 7525(f) of this title by Pub. L. 101–549, title II, §230(8), Nov. 15, 1990, 104 Stat. 2529.
 
@@ -644,7 +644,7 @@ Subsec. (b)(1)(B). Pub. L. 93–319, §5(b), substituted “model year 1978” f
 
 Subsec. (b)(5). Pub. L. 93–319, §5(c), (d), substituted in subpar. (A), “At any time after January 1, 1975” for “At any time after January 1, 1972”, “with respect to such manufacturer for light-duty vehicles and engines manufactured in model year 1977” for “with respect to such manufacturer”, “sixty days” for “60 days”, “paragraph (1)(A) of this subsection” for “paragraph (1)(A)”, and “vehicles and engines manufactured during model year 1977” for “vehicles and engines manufactured during model year 1975”, redesignated subpars. (C) to (E) as (B) to (D), respectively, and struck out former subpar. (B) which had allowed manufacturers, at any time after Jan. 1, 1973, to file with the Administrator an application requesting a 1-year suspension of the effective date of any emission standard required by subsec. (b)(1)(B) with respect to such manufacturer.
 
-1970—Subsec. (a). Pub. L. 91–604 redesignated existing provisions as par. (1), substituted Administrator for Secretary as the issuing authority for standards, inserted references to the useful life of engines, and substituted the emission of any air pollutant for the emission of any kind of substance as the subject to be regulated, and added par. (2).
+1970—Subsec. (a). Pub. L. 91–604 redesignated existing provisions as par. (1), substituted Administrator forSecretary as the issuing authority for standards, inserted references to the useful life of engines, and substituted the emission of any air pollutant for the emission of any kind of substance as the subject to be regulated, and added par. (2).
 
 Subsec. (b). Pub. L. 91–604 added subsec. (b). Former subsec. (b) redesignated as par. (2) of subsec. (a).
 
@@ -672,7 +672,7 @@ Section 226 of Pub. L. 95–95 provided that the Administrator, in conjunction w
 
 Section 403(f) of Pub. L. 95–95 provided that: “The Administrator of the Environmental Protection Agency shall undertake to enter into appropriate arrangements with the National Academy of Sciences to conduct continuing comprehensive studies and investigations of the effects on public health and welfare of emissions subject to section 202(a) of the Clean Air Act \[subsec. (a) of this section\] (including sulfur compounds) and the technological feasibility of meeting emission standards required to be prescribed by the Administrator by section 202(b) of such Act \[subsec. (b) of this section\]. The Administrator shall report to the Congress within six months of the date of enactment of this section \[Aug. 7, 1977\] and each year thereafter regarding the status of the contractual arrangements and conditions necessary to implement this paragraph.”
 
-\[For termination, effective May 15, 2000, of provisions relating to annual report to Congress in section 403(f)of Pub. L. 95–95, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 2nd item on page 165 of House Document No. 103–7.\]
+\[For termination, effective May 15, 2000, of provisions relating to annual report to Congress in section 403(f) of Pub. L. 95–95, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 2nd item on page 165 of House Document No. 103–7.\]
 
 #### Study on Emission of Sulfur-Bearing Compounds From Motor Vehicles and Motor Vehicle and Aircraft Engines
 

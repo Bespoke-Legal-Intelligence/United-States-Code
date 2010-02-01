@@ -54,7 +54,7 @@ This chapter, referred to in subsecs. (b)(1)(A)(i)(II) and (d), was in the origi
 
 #### Amendments
 
-2000—Pub. L. 106–568 and Pub. L. 106–569 amended section identically, reenacting section catchline without change and amending text generally. Prior to amendment, section required the Secretary to make reviews and audits of recipients’ activities and performance, to prepare reports, and to make adjustments in amounts of annual grants under this chapter based on the reviews and audits.
+2000—Pub. L. 106–568 and Pub. L. 106–569 amended section identically, reenacting section catchline withoutchange and amending text generally. Prior to amendment, section required the Secretary to make reviews and audits of recipients’ activities and performance, to prepare reports, and to make adjustments in amounts of annual grants under this chapter based on the reviews and audits.
 
 #### Effective Date
 

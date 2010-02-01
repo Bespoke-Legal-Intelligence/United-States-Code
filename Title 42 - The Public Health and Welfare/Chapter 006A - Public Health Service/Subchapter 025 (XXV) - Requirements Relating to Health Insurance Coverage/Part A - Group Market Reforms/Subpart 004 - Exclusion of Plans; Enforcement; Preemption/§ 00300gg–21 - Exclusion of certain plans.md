@@ -18,7 +18,7 @@ The requirements of subparts 1 and 3 shall not apply to any group health plan (a
 
 #### (A) Election to be excluded
 
-&emsp;&emsp;Except as provided in subparagraph (D), if the plan sponsor of a nonfederal governmental plan which is a group health plan to which the provisions of subparts 1 through 3 otherwise apply makes an election under this subparagraph (in such form and manner as the Secretary may by regulations prescribe), then the requirements of such subparts insofar as they apply directly to group health plans (and not merely to group health insurance coverage) shall not apply to such governmental plans for such period except as provided in this paragraph.
+&emsp;&emsp;Except as provided in subparagraph (D), if the plan sponsor of a nonfederal governmental plan which is a group health plan to which the provisions of subparts 1 through 3 otherwise apply makes an election under this subparagraph (in such form and manner as the Secretary may by regulations prescribe), then the requirements of such subparts insofar as they apply directly to group health plans (and not merely to group healthinsurance coverage) shall not apply to such governmental plans for such period except as provided in this paragraph.
 
 #### (B) Period of election
 

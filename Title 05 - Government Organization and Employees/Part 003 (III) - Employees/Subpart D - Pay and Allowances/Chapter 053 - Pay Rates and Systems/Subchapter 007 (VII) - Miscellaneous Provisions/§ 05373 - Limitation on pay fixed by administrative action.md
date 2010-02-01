@@ -2,7 +2,7 @@
 
 (a) Except as provided in subsection (b) and by the Government Employees Salary Reform Act of 1964 (78 Stat. 400) and notwithstanding the provisions of other statutes, the head of an Executive agency or military department who is authorized to fix by administrative action the annual rate of basic pay for a position or employee may not fix the rate at more than the rate for level IV of the Executive Schedule. This section does not impair the authorities provided by—
 
-&emsp;(1) sections 248, 482, 1766, and 1819 of title 12, section 206 of the Bank Conservation Act, sections 2B(b) <sup>1</sup> and 21A(e)(4) of the Federal HomeLoan Bank Act, section 2A(i) <sup>1</sup> of the Home Owners’ Loan Act, and sections 5.11 and 5.58 of the Farm Credit Act of 1971;
+&emsp;(1) sections 248, 482, 1766, and 1819 of title 12, section 206 of the Bank Conservation Act, sections 2B(b) <sup>1</sup> and 21A(e)(4) of the Federal Home Loan Bank Act, section 2A(i) <sup>1</sup> of the Home Owners’ Loan Act, and sections 5.11 and 5.58 of the Farm Credit Act of 1971;
 
 &emsp;(2) section 831b of title 16;
 
@@ -14,7 +14,7 @@
 
 (b) Subsection (a) shall not affect the authority of the Secretary of Defense or the Secretary of a military department to fix the pay of a civilian employee paid from nonappropriated funds, except that the annual rate of basic pay (including any portion of such pay attributable to comparability with private-sector pay in a locality) of such an employee may not be fixed at a rate greater than the rate for level III of the Executive Schedule.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, §5363; renumbered §5373, Pub. L. 95–454, title VIII, §801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221; Pub. L. 96–70, title III, §3302(e)(4), Sept. 27, 1979, 93 Stat. 498; Pub. L. 101–73, title VII, §742(b), title XII, §1209, Aug. 9, 1989, 103 Stat. 437, 523; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(H)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 104–201, div. C, title XXXV, §3548(a)(4), Sept. 23, 1996, 110 Stat. 2868; Pub. L. 106–65, div. A, title XI, §1102, Oct. 5, 1999, 113 Stat. 776; Pub. L. 107–123, §8(d)(1)(C), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 107–171, title X, §10702(c)(3), May 13, 2002, 116 Stat. 517.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, §5363; renumbered §5373, Pub. L. 95–454, title VIII, §801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221; Pub. L. 96–70, title III, §3302(e)(4), Sept. 27, 1979, 93 Stat. 498; Pub. L. 101–73, title VII, §742(b), title XII, §1209, Aug. 9, 1989, 103 Stat. 437, 523; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(H)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 104–201, div. C, title XXXV, §3548(a)(4), Sept. 23, 1996, 110 Stat. 2868; Pub. L. 106–65, div. A, title XI, §1102, Oct. 5,1999, 113 Stat. 776; Pub. L. 107–123, §8(d)(1)(C), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 107–171, title X, §10702(c)(3), May 13, 2002, 116 Stat. 517.)
 
 Historical and Revision Notes
 
@@ -50,7 +50,7 @@ Section 2A(i) of the Home Owners’ Loan Act, referred to in subsec. (a)(1), pro
 
 Sections 5.11 and 5.58 of the Farm Credit Act of 1971, referred to in subsec. (a)(1), are classified to sections 2245 and 2277a–7, respectively, of Title 12, Banks and Banking.
 
-Sections 403a–403c, 403e–403h, and 403j of title 50, referred to in subsec. (a)(3), was in the original (78 Stat. 432) a reference to “the Central Intelligence Agency Act of 1949, as amended (50 U.S.C. 403a and the following)”. Subsequent to the enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, additional sections have been added to the 1949 Act and are classified to sections 403k to 403r, and 403s to 403w of Title 50, War and National Defense.
+Section 403e–1 of Title 50, War and National Defense, included within the reference to sections 403e–403h of Title 50 in subsec. (a)(3), was enacted by Pub. L. 98–215, title IV, §402, Dec. 9, 1983, 97 Stat. 1477, after subsec. (a)(3) was enacted.
 
 Level III of the Executive Schedule, referred to in subsec. (b), is set out in section 5314 of this title.
 

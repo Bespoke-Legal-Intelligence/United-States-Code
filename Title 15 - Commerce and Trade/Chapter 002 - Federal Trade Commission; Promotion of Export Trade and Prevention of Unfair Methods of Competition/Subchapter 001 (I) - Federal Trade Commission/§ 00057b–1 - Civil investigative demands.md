@@ -80,7 +80,7 @@ For the purpose of investigations performed pursuant to this section with respec
 
 &emsp;(B) delivering a duly executed copy of such demand or petition to the principal office or place of business of the partnership, corporation, association, or other legal entity to be served; or
 
-&emsp;(C) depositing a duly executed copy in the United States mails, by registered or certified mail, return receipt requested, duly addressedto such partnership, corporation, association, or other legal entity at its principal office or place of business.
+&emsp;(C) depositing a duly executed copy in the United States mails, by registered or certified mail, return receipt requested, duly addressed to such partnership, corporation, association, or other legal entity at its principal office or place of business.
 
 (9) Service of any civil investigative demand or of any enforcement petition filed under this section may be made upon any natural person by—
 
@@ -110,7 +110,7 @@ For the purpose of investigations performed pursuant to this section with respec
 
 (E)(i) After the testimony of any witness is fully transcribed, the Commission investigator shall afford the witness (who may be accompanied by an attorney) a reasonable opportunity to examine the transcript. The transcript shall be read to or by the witness, unless such examination and reading are waived by the witness. Any changes in form or substance which the witness desires to make shall be entered and identified upon the transcript by the Commission investigator with a statement of the reasons given by the witness for making such changes. The transcript shall then be signed by the witness, unless the witness in writing waives the signing, is ill, cannot be found, or refuses to sign.
 
-(ii) If the transcript is not signed by the witness during the 30-day period following the date upon which the witness is first afforded a reasonable opportunity to examine it, the Commission investigator shall sign the transcript andstate on the record the fact of the waiver, illness, absence of the witness, or the refusal to sign, together with any reasons given for the failure to sign.
+(ii) If the transcript is not signed by the witness during the 30-day period following the date upon which the witness is first afforded a reasonable opportunity to examine it, the Commission investigator shall sign the transcript and state on the record the fact of the waiver, illness, absence of the witness, or the refusal to sign, together with any reasons given for the failure to sign.
 
 (F) The Commission investigator shall certify on the transcript that the witness was duly sworn by him and that the transcript is a true record of the testimony given by the witness, and the Commission investigator shall promptly deliver the transcript or send it by registered or certified mail to the custodian.
 
@@ -158,7 +158,7 @@ The provisions of this section shall not—
 
 The Clayton Act, referred to in subsec. (a)(8)(B), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
 
-The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (a)(8)(C), is Pub. L.103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (a)(8)(C), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Prior Provisions
 

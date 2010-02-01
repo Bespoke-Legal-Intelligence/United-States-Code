@@ -6,7 +6,7 @@ Acquisition of Housing With Special Features.—(1) Subject to paragraph (3), th
 
 (2) A veteran is described in this paragraph if the veteran is entitled to compensation under chapter 11 of this title for a permanent and total service-connected disability that meets any of the following criteria:
 
-&emsp;(A) The disability is due to the loss, or loss of use, of both lower extremities such as to preclude locomotion without the aid of braces, crutches, canes, or a wheelchair.
+&emsp;(A) The disability is due to the loss, or loss of use, of both lower extremities such as topreclude locomotion without the aid of braces, crutches, canes, or a wheelchair.
 
 &emsp;(B) The disability is due to—
 

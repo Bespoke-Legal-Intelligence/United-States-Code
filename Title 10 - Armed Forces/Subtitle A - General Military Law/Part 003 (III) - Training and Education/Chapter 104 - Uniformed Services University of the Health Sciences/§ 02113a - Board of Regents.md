@@ -8,7 +8,7 @@ In General.—To assist the Secretary of Defense in an advisory capacity, there 
 
 Membership.—The Board shall consist of—
 
-&emsp;(1) nine persons outstanding in the fields of health and health education who shall be appointed from civilian life by the Secretary of Defense;
+&emsp;(1) nine persons outstanding in the fields of health care, higher education administration, or public policy who shall be appointed from civilian life by the Secretary of Defense;
 
 &emsp;(2) the Secretary of Defense, or his designee, who shall be an ex officio member;
 
@@ -36,5 +36,9 @@ Compensation.—Members of the Board (other than ex officio members) while atten
 
 Meetings.—The Board shall meet at least once a quarter.
 
-(Added Pub. L. 110–181, div. A, title IX, §954(a)(1), Jan. 28, 2008, 122 Stat. 293.)
+(Added Pub. L. 110–181, div. A, title IX, §954(a)(1), Jan. 28, 2008, 122 Stat. 293; amended Pub. L. 111–84, div. A, title V, §523, Oct. 28, 2009, 123 Stat. 2285.)
+
+#### Amendments
+
+2009—Subsec. (b)(1). Pub. L. 111–84 substituted “health care, higher education administration, or public policy” for “health and health education”.
 

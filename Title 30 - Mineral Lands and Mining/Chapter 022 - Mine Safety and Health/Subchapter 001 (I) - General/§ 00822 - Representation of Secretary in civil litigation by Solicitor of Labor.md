@@ -1,6 +1,6 @@
 ### §822. Representation of Secretary in civil litigation by Solicitor of Labor
 
-Except as provided in section 518(a) of title 28, relating to litigation before the Supreme Court, the Solicitor of Labor may appear for and represent the Secretary in any civil litigationbrought under this chapter but all such litigation shall be subject to the direction and control of the Attorney General.
+Except as provided in section 518(a) of title 28, relating to litigation before the Supreme Court, the Solicitor of Labor may appear for and represent the Secretary in any civil litigation brought under this chapter but all such litigation shall be subject to the direction and control of the Attorney General.
 
 (Pub. L. 91–173, title I, §112, as added Pub. L. 95–164, title II, §201, Nov. 9, 1977, 91 Stat. 1313.)
 

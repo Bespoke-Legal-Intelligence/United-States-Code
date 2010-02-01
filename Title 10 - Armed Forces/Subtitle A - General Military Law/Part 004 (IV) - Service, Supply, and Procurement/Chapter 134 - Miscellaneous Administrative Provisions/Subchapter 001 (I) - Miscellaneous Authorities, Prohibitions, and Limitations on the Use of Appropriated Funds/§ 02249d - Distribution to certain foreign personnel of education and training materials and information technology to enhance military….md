@@ -4,7 +4,7 @@
 
 Distribution Authorized.—To enhance interoperability between the armed forces and military forces of friendly foreign nations, the Secretary of Defense, with the concurrence of the Secretary of State, may—
 
-&emsp;(1) provide to personnel referred to in subsection (b) electronically-distributed learningcontent for the education and training of such personnel for the development or enhancement of allied and friendly military and civilian capabilities for multinational operations, including joint exercises and coalition operations; and
+&emsp;(1) provide to personnel referred to in subsection (b) electronically-distributed learning content for the education and training of such personnel for the development or enhancement of allied and friendly military and civilian capabilities for multinational operations, including joint exercises and coalition operations; and
 
 &emsp;(2) provide information technology, including computer software developed for such purpose, but only to the extent necessary to support the use of such learning content for the education and training of such personnel.
 

@@ -24,7 +24,7 @@
 
 (b) For the purpose of statutes relating to pay and leave of employees, with respect to a legal public holiday and any other day declared to be a holiday by Federal statute or Executive order, the following rules apply:
 
-&emsp;(1) Instead of a holiday that occurs on a Saturday, the Friday immediately before is a legal holiday for—
+&emsp;(1) Instead of a holiday that occurs on a Saturday, the Friday immediately before is a legal public holiday for—
 
 &emsp;&emsp;(A) employees whose basic workweek is Monday through Friday; and
 
@@ -32,7 +32,7 @@
 
 &emsp;(2) Instead of a holiday that occurs on a regular weekly non-workday of an employee whose basic workweek is other than Monday through Friday, except the regular weekly non-workday administratively scheduled for the employee instead of Sunday, the workday immediately before that regular weekly nonworkday is a legal public holiday for the employee.
 
-&emsp;(3) Instead of a holiday that is designated under subsection (a) to occur on a Monday, for an employee at a duty post outside the United States whose basic workweek is other than Monday through Friday, and for whom Monday is a regularly scheduled workday, the legal public holiday is the first workday of the workweek in which the Monday designated forthe observance of such holiday under subsection (a) occurs.
+&emsp;(3) Instead of a holiday that is designated under subsection (a) to occur on a Monday, for an employee at a duty post outside the United States whose basic workweek is other than Monday through Friday, and for whom Monday is a regularly scheduled workday, the legal public holiday is the first workday of the workweek in which the Monday designated for the observance of such holiday under subsection (a) occurs.
 
 > This subsection, except subparagraph (B) of paragraph (1), does not apply to an employee whose basic workweek is Monday through Saturday.
 
@@ -146,7 +146,7 @@ Sec. 2. As used in this order:
 
 (a) <i>Holiday</i> means the first day of January, the third Monday of February, the last Monday of May, the fourth day of July, the first Monday of September, the second Monday of October, the fourth Monday of October, the fourth Thursday of November, the twenty-fifth day of December, or any other calendar day designated as a holiday by Federal statute or Executive order.
 
-(b) <i>Workday</i> means those hours which comprise in sequence the employee's regular daily tour of duty withinany 24-hour period, whether falling entirely within one calendar day or not.
+(b) <i>Workday</i> means those hours which comprise in sequence the employee's regular daily tour of duty within any 24-hour period, whether falling entirely within one calendar day or not.
 
 Sec. 3. (a) Any employee whose basic workweek does not include Sunday and who would ordinarily be excused from work on a holiday falling within his basic workweek shall be excused from work on the next workday of his basic workweek whenever a holiday falls on Sunday.
 

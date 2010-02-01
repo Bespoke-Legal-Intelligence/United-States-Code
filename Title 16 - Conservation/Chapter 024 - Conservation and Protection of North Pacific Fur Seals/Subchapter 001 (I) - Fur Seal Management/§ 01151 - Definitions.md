@@ -46,7 +46,7 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 
 #### Short Title of 2000 Amendments
 
-Pub. L. 106–562, title I, §101, Dec. 23, 2000, 114 Stat. 2794, provided that: “This title \[enacting section 1169bof this title, amending sections 1161, 1165, and 1166 of this title, repealing section 1165 of this title, enacting provisions set out as notes under this section and section 1161 of this title, amending provisions set out as a note under section 1165 of this title, and repealing provisions set out as a note under section 1165 of this title\] may be referred to as the ‘Pribilof Islands Transition Act’.”
+Pub. L. 106–562, title I, §101, Dec. 23, 2000, 114 Stat. 2794, provided that: “This title \[enacting section 1169b of this title, amending sections 1161, 1165, and 1166 of this title, repealing section 1165 of this title, enacting provisions set out as notes under this section and section 1161 of this title, amending provisions set out as a note under section 1165 of this title, and repealing provisions set out as a note under section 1165 of this title\] may be referred to as the ‘Pribilof Islands Transition Act’.”
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–244, provided that: “This subsection \[enacting section 1169b of this title, amending sections 1161, 1165, and 1166 of this title, repealing section 1165 of this title, enacting provisions set out as notes under this section and section 1161 of this title, amending provisions set out as a note under section 1165 of this title, and repealing provisions set out as a note under section 1165 of this title\] may be referred to as the ‘Pribilof Islands Transition Act’.”
 

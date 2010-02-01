@@ -46,7 +46,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 651(b)(1)(B) of Pub. L. 99–514 applicable to calendar years beginning after Dec. 31, 1986, see section 651(d) of Pub. L. 99–514, set out as an Effective Date note under section 4982 of this title.
 
-Amendment by section 655(a)(5) of Pub. L. 99–514 applicable to taxable years beginning after Oct. 22, 1986,see section 655(b) of Pub. L. 99–514, set out as a note under section 852 of this title.
+Amendment by section 655(a)(5) of Pub. L. 99–514 applicable to taxable years beginning after Oct. 22, 1986, see section 655(b) of Pub. L. 99–514, set out as a note under section 852 of this title.
 
 #### Effective Date of 1964 Amendment
 

@@ -50,7 +50,7 @@ Contingency Contracting Matters Covered.—(1) The joint policy for contingency 
 
 &emsp;&emsp;(i) the use of law, regulations, policies, and directives related to contingency contracting operations;
 
-&emsp;&emsp;(ii) the appropriate use of rapid acquisition methods, including the use of exceptions to competition requirements under section 2304 of this title, sealed bidding, letter contracts, indefinite delivery <sup>1</sup> indefinite quantity task orders, set asides under section 8(a) of the Small Business Act (15 U.S.C. 637(a)), undefinitized contract actions, and other tools available to expedite the delivery of goods and services during combat operations or post-conflict operations;
+&emsp;&emsp;(ii) the appropriate use of rapid acquisition methods, including the use of exceptions to competition requirements under section 2304 of this title, sealed bidding, letter contracts, indefinite delivery-indefinite quantity task orders, set asides under section 8(a) of the Small Business Act (15 U.S.C. 637(a)), undefinitized contract actions, and other tools available to expedite the delivery of goods and services during combat operations or post-conflict operations;
 
 &emsp;&emsp;(iii) the appropriate use of rapid acquisition authority, commanders’ emergency response program funds, and other tools unique to contingency contracting; and
 
@@ -60,7 +60,7 @@ Contingency Contracting Matters Covered.—(1) The joint policy for contingency 
 
 &emsp;(F) Such steps as may be needed to ensure jointness and cross-service coordination in the area of contingency contracting.
 
-(2) To the extent practicable, the joint policy for contingency contracting required by subsection (a) should be taken into account in the development of interagency plans for stabilization and reconstruction operations, consistent with the report submitted by the President under section 1035 of this Act <sup>2</sup> on interagency operating procedures for the planning and conduct of stabilization and reconstruction operations.
+(2) To the extent practicable, the joint policy for contingency contracting required by subsection (a) should be taken into account in the development of interagency plans for stabilization and reconstruction operations, consistent with the report submitted by the President under section 1035 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2388) on interagency operating procedures for the planning and conduct of stabilization and reconstruction operations.
 
 (e)
 
@@ -84,7 +84,7 @@ Contingency contracting.—The term “contingency contracting” means all stag
 
 &emsp;(3)
 
-Contingency operation.—The term “contingency operation” has the meaning provided in section 101(13) <sup>3</sup> of this title.
+Contingency operation.—The term “contingency operation” has the meaning provided in section 101(a)(13) of this title.
 
 &emsp;(4)
 
@@ -98,13 +98,19 @@ Contingency program management.—The term “contingency program management” 
 
 Requirements definition.—The term “requirements definition” means the process of translating policy objectives and mission needs into specific requirements, the description of which will be the basis for awarding acquisition contracts for projects to be accomplished, work to be performed, or products to be delivered.
 
-(Added Pub. L. 109–364, div. A, title VIII, §854(a)(1), Oct. 17, 2006, 120 Stat. 2343; Pub. L. 110–181, div. A, title VIII, §849(a), Jan. 28, 2008, 122 Stat. 245.)
+(Added Pub. L. 109–364, div. A, title VIII, §854(a)(1), Oct. 17, 2006, 120 Stat. 2343; amended Pub. L. 110–181, div. A, title VIII, §849(a), Jan. 28, 2008, 122 Stat. 245; Pub. L. 111–84, div. A, title X, §1073(a)(23), Oct. 28, 2009, 123 Stat. 2473.)
 
 #### References in Text
 
-Section 1035 of this Act, referred to in subsec. (d)(2), probably means section 1035 of Pub. L. 109–364, div. A, title X, Oct. 17, 2006, 120 Stat. 2388, which was not classified to the Code. Section 851(a)(1) of Pub. L. 109–364 enacted this section.
+Section 1035 of the John Warner National Defense Authorization Act for Fiscal Year 2007, referred to in subsec. (d)(2), is section 1035 of Pub. L. 109–364, div. A, title X, Oct. 17, 2006, 120 Stat. 2388, which is not classified to the Code.
 
 #### Amendments
+
+2009—Subsec. (d)(1)(D)(ii). Pub. L. 111–84, §1073(a)(23)(A), substituted “indefinite delivery-indefinite quantity” for “indefinite delivery indefinite quantity”.
+
+Subsec. (d)(2). Pub. L. 111–84, §1073(a)(23)(B), substituted “the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2388)” for “this Act”.
+
+Subsec. (f)(3). Pub. L. 111–84, §1073(a)(23)(C), substituted “section 101(a)(13)” for “section 101(13)”.
 
 2008—Subsecs. (e), (f). Pub. L. 110–181 added subsec. (e) and redesignated former subsec. (e) as (f).
 

@@ -4,13 +4,13 @@
 
 (b) Unless otherwise provided by law, the number of members of the armed forces (other than the Coast Guard) on active duty at the end of any fiscal year shall be not less than the following:
 
-&emsp;(1) For the Army, 532,400.
+&emsp;(1) For the Army, 547,400.
 
-&emsp;(2) For the Navy, 325,300.
+&emsp;(2) For the Navy, 328,800.
 
-&emsp;(3) For the Marine Corps, 194,000.
+&emsp;(3) For the Marine Corps, 202,100.
 
-&emsp;(4) For the Air Force, 317,050.
+&emsp;(4) For the Air Force, 331,700.
 
 (c) The budget for the Department of Defense for any fiscal year as submitted to Congress shall include amounts for funding for each of the armed forces (other than the Coast Guard) at least in the amounts necessary to maintain the active duty end strengths prescribed in subsection (b), as in effect at the time that such budget is submitted.
 
@@ -20,9 +20,11 @@
 
 (f) The number of members of the armed forces on active duty shall be counted for purposes of this section in the same manner as applies under section 115(a)(1) of this title.
 
-(Added Pub. L. 104–106, div. A, title IV, §401(b)(1), Feb. 10, 1996, 110 Stat. 285; amended Pub. L. 104–201, div. A, title IV, §402, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 105–85, div. A, title IV, §402, Nov. 18, 1997, 111 Stat. 1719; Pub. L. 105–261, div. A, title IV, §402(a), (b), Oct. 17, 1998, 112 Stat. 1995, 1996; Pub. L. 106–65, div. A, title IV, §402(a), title X, §1066(b)(1), Oct. 5, 1999, 113 Stat. 585, 772; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§402(a), 403\], Oct. 30, 2000, 114 Stat. 1654, 1654A–92; Pub. L. 107–107, div. A, title IV, §402, Dec. 28, 2001, 115 Stat. 1069; Pub. L. 107–314, div. A, title IV, §402, Dec. 2, 2002, 116 Stat. 2524; Pub. L. 108–136, div. A, title IV, §402, Nov. 24, 2003, 117 Stat. 1450; Pub. L. 108–375, div. A, title IV, §402, Oct. 28, 2004, 118 Stat. 1862; Pub. L. 109–163, div. A, title IV, §402, Jan. 6, 2006, 119 Stat. 3219; Pub. L. 109–364, div. A, title IV, §402, Oct. 17, 2006, 120 Stat. 2169; Pub. L. 110–181, div. A, title IV, §402, Jan. 28, 2008, 122 Stat. 86; Pub. L. 110–417, \[div. A\], title IV, §402, Oct. 14, 2008, 122 Stat. 4428.)
+(Added Pub. L. 104–106, div. A, title IV, §401(b)(1), Feb. 10, 1996, 110 Stat. 285; amended Pub. L. 104–201, div. A, title IV, §402, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 105–85, div. A, title IV, §402, Nov. 18, 1997, 111 Stat. 1719; Pub. L. 105–261, div. A, title IV, §402(a), (b), Oct. 17, 1998, 112 Stat. 1995, 1996; Pub. L. 106–65, div. A, title IV, §402(a), title X, §1066(b)(1), Oct. 5, 1999, 113 Stat. 585, 772; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§402(a), 403\], Oct. 30, 2000, 114 Stat. 1654, 1654A–92; Pub. L. 107–107, div. A, title IV, §402, Dec. 28, 2001, 115 Stat. 1069; Pub. L. 107–314, div. A, title IV, §402, Dec. 2, 2002, 116 Stat. 2524; Pub. L. 108–136, div. A, title IV, §402, Nov. 24, 2003, 117 Stat. 1450; Pub. L. 108–375, div. A, title IV, §402, Oct. 28, 2004, 118 Stat. 1862; Pub. L. 109–163, div. A, title IV, §402, Jan. 6, 2006, 119 Stat. 3219; Pub. L. 109–364, div. A, title IV, §402, Oct. 17, 2006, 120 Stat. 2169; Pub. L. 110–181, div. A, title IV, §402, Jan. 28, 2008, 122 Stat. 86; Pub. L. 110–417, \[div. A\], title IV, §402, Oct. 14, 2008, 122 Stat. 4428; Pub. L. 111–84, div. A, title IV, §402, Oct. 28, 2009, 123 Stat. 2265.)
 
 #### Amendments
+
+2009—Subsec. (b). Pub. L. 111–84 substituted “547,400” for “532,400” in par. (1), “328,800” for “325,300” in par. (2), “202,100” for “194,000” in par. (3), and “331,700” for “317,050” in par. (4).
 
 2008—Subsec. (b). Pub. L. 110–417 substituted “532,400” for “525,400” in par. (1), “325,300” for “328,400” in par. (2), “194,000” for “189,000” in par. (3), and “317,050” for “328,600” in par. (4).
 
@@ -86,7 +88,7 @@ Pub. L. 106–65, div. A, title X, §1066(b), Oct. 5, 1999, 113 Stat. 772, provi
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title IV, §402(c), Oct. 17, 1998, 112 Stat. 1996, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1998.”
+Pub. L. 105–261, div. A, title IV, §402(c), Oct. 17, 1998, 112 Stat. 1996, provided that: “The amendments madeby this section \[amending this section\] shall take effect on October 1, 1998.”
 
 #### Transfer of Functions
 

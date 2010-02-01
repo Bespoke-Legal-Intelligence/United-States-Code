@@ -15,3 +15,5 @@
 - [&sect; 12651g - Administration](%C2%A7%2012651g%20-%20Administration.md)
 - [&sect; 12651h - Corporation State offices](%C2%A7%2012651h%20-%20Corporation%20State%20offices.md)
 - [&sect; 12651i - VISTA Advance Payments Revolving Fund](%C2%A7%2012651i%20-%20VISTA%20Advance%20Payments%20Revolving%20Fund.md)
+- [&sect; 12651j - Assignment to State Commissions](%C2%A7%2012651j%20-%20Assignment%20to%20State%20Commissions.md)
+- [&sect; 12651k - Study of involvement of veterans](%C2%A7%2012651k%20-%20Study%20of%20involvement%20of%20veterans.md)

@@ -82,7 +82,7 @@ Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was 
 
 #### Effective Date of 1981 Amendment
 
-Section 1703(c) of Pub. L. 97–35 provided that: “The amendments made by this section \[enacting subchapter II of this chapter, designating this section and sections 4502 to 4507 of this title as subchapter I, and amending this section and sections 4502, 4505, and 4506 of this title\] shall take effect on October 1, 1981.”
+Section 1703(c) of Pub. L. 97–35 provided that: “The amendments made by this section \[enacting subchapterII of this chapter, designating this section and sections 4502 to 4507 of this title as subchapter I, and amending this section and sections 4502, 4505, and 4506 of this title\] shall take effect on October 1, 1981.”
 
 #### Effective Date of 1978 Amendment
 

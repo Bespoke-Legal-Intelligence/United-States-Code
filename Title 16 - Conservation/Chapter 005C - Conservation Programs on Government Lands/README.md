@@ -9,7 +9,7 @@
 | 670a–1. | Repealed. |
 | [670b.](Subchapter%20001%20%28I%29%20-%20Conservation%20Programs%20on%20Military%20Installations/%C2%A7%2000670b%20-%20Migratory%20game%20birds%3B%20permits%3B%20fees%3B%20Stamp%20Act%20and%20State%20law%20requirements.md) | Migratory game birds; permits; fees; Stamp Act and State law requirements. |
 | [670c.](Subchapter%20001%20%28I%29%20-%20Conservation%20Programs%20on%20Military%20Installations/%C2%A7%2000670c%20-%20Program%20for%20public%20outdoor%20recreation.md) | Program for public outdoor recreation. |
-| 670c–1. | Cooperative agreements for land management on Department of Defense installations. |
+| 670c–1. | Cooperative and interagency agreements for land management on Department of Defense installations. |
 | [670d.](Subchapter%20001%20%28I%29%20-%20Conservation%20Programs%20on%20Military%20Installations/%C2%A7%2000670d%20-%20Liability%20for%20funds%3B%20accounting%20to%20Comptroller%20General.md) | Liability for funds; accounting to Comptroller General. |
 | [670e.](Subchapter%20001%20%28I%29%20-%20Conservation%20Programs%20on%20Military%20Installations/%C2%A7%2000670e%20-%20Applicability%20to%20other%20laws%3B%20national%20forest%20lands.md) | Applicability to other laws; national forest lands. |
 | 670e–1. | Federal enforcement of other laws. |

@@ -2,7 +2,7 @@
 
 (a) As used in this chapter:
 
-&emsp;(1) The term “farmer” includes a person who is engaged in, or who, with assistance affordedunder this chapter, intends to engage in, fish farming.
+&emsp;(1) The term “farmer” includes a person who is engaged in, or who, with assistance afforded under this chapter, intends to engage in, fish farming.
 
 &emsp;(2) The term “farming” shall be deemed to include fish farming.
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(bb) provide substantial day-to-day labor and management of the farm or ranch, consistent with the practices in the State or county in which the farm or ranch is located; or
 
-&emsp;&emsp;&emsp;(II)(aa) in the case of a loan made to a cooperative, corporation, partnership, or joint operation, will have members, stockholders, partners, or joint operators, materially and substantially participate in the operation of the farm or ranch; and
+&emsp;&emsp;&emsp;(II)(aa) in the case of a loan made to a cooperative, corporation, partnership, orjoint operation, will have members, stockholders, partners, or joint operators, materially and substantially participate in the operation of the farm or ranch; and
 
 &emsp;&emsp;&emsp;(bb) in the case of a loan made to a corporation, has stockholders, all of whom are qualified beginning farmers or ranchers;
 
@@ -66,7 +66,7 @@ Debt forgiveness.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), the term “debt forgiveness” means reducing or terminating afarmer program loan made or guaranteed under this chapter, in a manner that results in a loss to the Secretary, through—
+In general.—Except as provided in subparagraph (B), the term “debt forgiveness” means reducing or terminating a farmer program loan made or guaranteed under this chapter, in a manner that results in a loss to the Secretary, through—
 
 &emsp;&emsp;&emsp;(i) writing down or writing off a loan under section 2001 of this title;
 
@@ -218,7 +218,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-Subsec. (a)(13). Pub. L. 110–246, §6018(a), amended par. (13) generally, substituting provisions defining “rural” and “rural area”, provisions defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans and community facility loans and grants, and provisions relating to areas rural in character, exclusions, urban area growth, and designations in Hawaii and Puerto Rico, for provisions defining “rural” and “rural area” and defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans, community facility loans and grants, multijurisdictional regional planning organizations, and the rural business investment program.
+Subsec. (a)(13). Pub. L. 110–246, §6018(a), amended par. (13) generally, substituting provisions defining “rural” and “rural area”, provisions defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans and community facility loans and grants, and provisions relating to areas rural in character, exclusions, urban area growth, and designations in Hawaii and Puerto Rico, for provisions defining “rural” and “rural area” and defining suchterms for the purpose of water and waste disposal grants and direct and guaranteed loans, community facility loans and grants, multijurisdictional regional planning organizations, and the rural business investment program.
 
 2002—Subsec. (a)(11)(F). Pub. L. 107–171, §5310(a), substituted “30 percent” for “25 percent”.
 

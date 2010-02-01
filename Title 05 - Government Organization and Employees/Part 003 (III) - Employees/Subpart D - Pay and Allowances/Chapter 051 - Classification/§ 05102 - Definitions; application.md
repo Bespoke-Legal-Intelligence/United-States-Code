@@ -92,7 +92,7 @@
 
 &emsp;(13) employees who serve without pay or at nominal rates of pay;
 
-&emsp;(14) employees whose pay is not wholly from appropriated funds of the United States (other than employees of the Federal Retirement Thrift Investment Management System appointed under section 8474(c)(2) of this title),except that with respect to the Veterans’ Canteen Service, Department of Veterans Affairs this paragraph applies only to employees necessary for the transaction of the business of the Service at canteens, warehouses, and storage depots whose employment is authorized by section 7802 of title 38;
+&emsp;(14) employees whose pay is not wholly from appropriated funds of the United States (other than employees of the Federal Retirement Thrift Investment Management System appointed under section 8474(c)(2) of this title), except that with respect to the Veterans’ Canteen Service, Department of Veterans Affairs this paragraph applies only to employees necessary for the transaction of the business of the Service at canteens, warehouses, and storage depots whose employment is authorized by section 7802 of title 38;
 
 &emsp;(15) employees whose pay is fixed under a cooperative agreement between the United States and—
 
@@ -110,7 +110,7 @@
 
 &emsp;(20) employees employed on a fee, contract, or piece work basis;
 
-&emsp;(21) employees who may lawfully perform their duties concurrently with their private profession, business, or other employment, and whose duties require only a portion of their time, when it is impracticable to ascertain or anticipate the proportion of time devoted to the service of the Government of the United States;
+&emsp;(21) employees who may lawfully perform their duties concurrently with their privateprofession, business, or other employment, and whose duties require only a portion of their time, when it is impracticable to ascertain or anticipate the proportion of time devoted to the service of the Government of the United States;
 
 &emsp;(22) “teachers” and “teaching positions” as defined by section 901 of title 20;
 
@@ -226,7 +226,7 @@ In subsection (a)(1)(vii), the words “Panama Canal Company” are substituted 
 
 The exception for the Inland Waterways Corporation in former section 1082(13) is omitted on authority of the Act of July 19, 1963, Pub. L. 88–67, 77 Stat. 81.
 
-The exceptions for Production Credit Corporations and Federal Intermediate Credit Banks in former section 1082(18) and (19) are omitted as they are no longer “corporations wholly owned by the United States”. Under the Farm Credit Act of 1956, 70 Stat. 659, the Production Credit Corporations were merged in the Federal Intermediate Credit Banks, and pursuant to that Act the Federal Intermediate Credit Banks have ceased to be corporations wholly owned by the United States.
+The exceptions for Production Credit Corporations and Federal Intermediate Credit Banks in former section 1082(18) and (19) are omitted as they are no longer“corporations wholly owned by the United States”. Under the Farm Credit Act of 1956, 70 Stat. 659, the Production Credit Corporations were merged in the Federal Intermediate Credit Banks, and pursuant to that Act the Federal Intermediate Credit Banks have ceased to be corporations wholly owned by the United States.
 
 Subsection (a)(2) is added for clarity. The reference to “an individual employed in or under an agency” includes both officers and employees of an agency.
 
@@ -398,7 +398,7 @@ Amendment by section 529 \[title I, §109(a)(2)\] of Pub. L. 101–509 effective
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–135 applicable with respect to pay periods beginning after Sept. 30, 1987, except that any pay increase for employees of Library of Congress, pursuant to such amendment, to be subject to appropriation and to be implemented in four approximately equal annual increments, so that pay parity with Capitol Police occurs beginning with first pay period beginning after Sept. 30, 1990, see section 3 of Pub. L. 100–135, set out as a note under section 167 of Title 2, The Congress.
+Pub. L. 100–135, §3, Oct. 16, 1987, 101 Stat. 812, provided that: “The amendments made by section 1 \[amending this section and sections 167 and 167h of Title 2, The Congress\] shall apply with respect to pay periods beginning after September 30, 1987, except that any pay increase for employees of the Library of Congress, pursuant to the amendments made by such section, shall be subject to appropriation and shall be implemented in four approximately equal annual increments, so that pay parity with the Capitol Police occurs beginning with the first pay period beginning after September 30, 1990.”
 
 #### Effective Date of 1986 Amendment
 
@@ -442,7 +442,7 @@ Amendment by Pub. L. 91–34 effective at beginning of first pay period which co
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–610 effective on first day of first pay period which begins on or after Oct. 21, 1968, see section 3 of Pub. L. 90–610, set out as a note under section 167 of Title 2, The Congress.
+Pub. L. 90–610, §3, Oct. 21, 1968, 82 Stat. 1201, provided that: “The amendments made by this Act \[amending this section and section 167 of Title 2, The Congress\] shall take effect on the first day of the first pay period which begins on or after the date of enactment of this Act \[Oct. 21, 1968\]. Notwithstanding any provisions of this Act, no rate of basic pay shall be reduced by reason of the enactment of this Act.”
 
 #### Effective Date of 1967 Amendment
 

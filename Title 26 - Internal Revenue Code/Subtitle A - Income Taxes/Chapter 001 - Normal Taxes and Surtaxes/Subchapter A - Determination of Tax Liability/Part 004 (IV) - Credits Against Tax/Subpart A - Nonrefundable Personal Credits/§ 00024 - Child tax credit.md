@@ -28,7 +28,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 &emsp;&emsp;(A) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;&emsp;(B) the sum of the credits allowable under this subpart (other than this section and sections 23, 25B, 25D, and 30D) and section 27 for the taxable year.
+&emsp;&emsp;(B) the sum of the credits allowable under this subpart (other than this section and sections 23, 25A(i), 25B, 25D, 30, 30B, and 30D) and section 27 for the taxable year.
 
 #### (c) Qualifying child
 
@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (B) Coordination with special refund of social security taxes
 
-&emsp;&emsp;The term “social security taxes” shall not include any taxes to the extent the taxpayeris entitled to a special refund of such taxes under section 6413(c).
+&emsp;&emsp;The term “social security taxes” shall not include any taxes to the extent the taxpayer is entitled to a special refund of such taxes under section 6413(c).
 
 #### (C) Special rule
 
@@ -94,9 +94,9 @@ For purposes of this section—
 
 > &emsp;Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $50.
 
-#### (4) Special rule for 2008
+#### (4) Special rule for 2009 and 2010
 
-&emsp;Notwithstanding paragraph (3), in the case of any taxable year beginning in 2008, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $8,500.
+&emsp;Notwithstanding paragraph (3), in the case of any taxable year beginning in 2009 or 2010, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $3,000.
 
 #### (e) Identification requirement
 
@@ -106,13 +106,15 @@ No credit shall be allowed under this section to a taxpayer with respect to any 
 
 Except in the case of a taxable year closed by reason of the death of the taxpayer, no credit shall be allowable under this section in the case of a taxable year covering a period of less than 12 months.
 
-(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(b)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, §618(b)(2)(A), June 7, 2001, 115 Stat. 45–47, 49, 108; Pub. L. 107–90, title II, §204(e)(1), Dec. 21, 2001, 115 Stat. 893; Pub. L. 107–147, title IV, §§411(b), 417(23)(A), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–27, title I, §101(a), May 28, 2003, 117 Stat. 753; Pub. L. 108–311, title I, §§101(a), 102(a), 104(a), title II, §204, title IV, §408(b)(4), Oct. 4, 2004, 118 Stat. 1167, 1168, 1176, 1192; Pub. L. 109–135, title IV, §402(i)(3)(B), Dec. 21, 2005, 119 Stat. 2613; Pub. L. 110–172, §11(c)(1), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–343, div. B, title I, §106(e)(2)(B), title II, §205(d)(1)(A), div. C, title V, §501(a), Oct. 3, 2008, 122 Stat. 3817, 3838, 3876; Pub. L. 110–351, title V, §501(c)(1), Oct. 7, 2008, 122 Stat. 3979.)
+(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(b)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, §618(b)(2)(A), June 7, 2001, 115 Stat. 45–47, 49, 108; Pub. L. 107–90, title II, §204(e)(1), Dec. 21, 2001, 115 Stat. 893; Pub. L. 107–147, title IV, §§411(b), 417(23)(A), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–27, title I, §101(a), May 28, 2003, 117 Stat. 753; Pub. L. 108–311, title I, §§101(a), 102(a), 104(a), title II, §204, title IV, §408(b)(4), Oct. 4, 2004, 118 Stat. 1167, 1168, 1176, 1192; Pub. L. 109–135, title IV, §402(i)(3)(B), Dec. 21, 2005, 119 Stat. 2613; Pub. L. 110–172, §11(c)(1), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–343, div. B, title I, §106(e)(2)(B), title II, §205(d)(1)(A), div. C, title V, §501(a), Oct. 3, 2008, 122 Stat. 3817, 3838, 3876; Pub. L. 110–351, title V, §501(c)(1), Oct. 7, 2008, 122 Stat. 3979; Pub. L. 111–5, div. B, title I, §§1003(a), 1004(b)(1), 1142(b)(1)(A), 1144(b)(1)(A), Feb. 17, 2009, 123 Stat. 313, 314, 330, 332.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendment of Section
+
+<i>For termination of amendment by sections 1004(e), 1142(e), and 1144(d) of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment notes below.</i>
 
 <i>For termination of amendment by sections 106(f)(3) and 205(f) of Pub. L. 110–343, see Effective and Termination Dates of 2008 Amendment notes below.</i>
 
@@ -129,6 +131,14 @@ Except in the case of a taxable year closed by reason of the death of the taxpay
 A prior section 24, added Pub. L. 92–178, title VII, §701(a), Dec. 10, 1971, 85 Stat. 560, §41; amended Pub. L. 93–625, §§11(a)–(c), (e), 12(a), Jan. 3, 1975, 88 Stat. 2119, 2120; Pub. L. 94–455, title V, §503(b)(4), title XIX, §§1901(b)(1)(B), (H)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1562, 1790, 1791, 1834; Pub. L. 95–600, title I, §113(c), Nov. 6, 1978, 92 Stat. 2778; Pub. L. 97–473, title II, §202(b)(1), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §24 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(f), July 18, 1984, 98 Stat. 826, 831, related to contributions to candidates for public office, prior to repeal by Pub. L. 99–514, title I, §§112(a), 151(a), Oct. 22, 1986, 100 Stat. 2108, 2121, applicable to taxable years beginning after Dec. 31, 1986.
 
 #### Amendments
+
+2009—Subsec. (b)(3)(B). Pub. L. 111–5, §1144(b)(1)(A), (d), temporarily inserted “30B,” after “30,”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Pub. L. 111–5, §1142(b)(1)(A), (e), temporarily inserted “30,” after “25D,”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Pub. L. 111–5, §1004(b)(1), (e), temporarily inserted “25A(i),” after “23,”. See Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (d)(4). Pub. L. 111–5, §1003(a), amended par. (4) generally. Prior to amendment, text read as follows: “Notwithstanding paragraph (3), in the case of any taxable year beginning in 2008, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $8,500.”
 
 2008—Subsec. (a). Pub. L. 110–351 inserted “for which the taxpayer is allowed a deduction under section 151” after “of the taxpayer”.
 
@@ -249,6 +259,22 @@ Subsec. (d)(3). Pub. L. 105–206, §6003(a)(1)(A), (B), (2), redesignated par. 
 Subsec. (d)(4). Pub. L. 105–206, §6003(a)(1)(A), struck out heading and text of par. (4). Text read as follows: “If the amount of the credit under paragraph (1)(B) exceeds the amount of the credit under paragraph (1)(A), such excess shall be treated as a credit to which subpart C applies. The rule of section 32(h) shall apply to such excess.”
 
 Subsec. (d)(5). Pub. L. 105–206, §6003(a)(1)(B), redesignated par. (5) as (3).
+
+#### Effective and Termination Dates of 2009 Amendment
+
+Pub. L. 111–5, div. B, title I, §1003(b), Feb. 17, 2009, 123 Stat. 313, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008.”
+
+Pub. L. 111–5, div. B, title I, §1004(d), Feb. 17, 2009, 123 Stat. 315, provided that: “The amendments made by this section \[amending this section, sections 25 to 25B, 26, 904, 1400C, and 6211 of this title, and section 1324 of Title 31, Money and Finance\] shall apply to taxable years beginning after December 31, 2008.”
+
+Pub. L. 111–5, div. B, title I, §1004(e), Feb. 17, 2009, 123 Stat. 315, provided that: “The amendment made by subsection (b)(1) \[amending this section\] shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] in the same manner as the provision of such Act to which such amendment relates.”
+
+Pub. L. 111–5, div. B, title I, §1142(c), Feb. 17, 2009, 123 Stat. 331, provided that: “The amendments made by this section \[amending this section and sections 25, 25B, 26, 30, 30B, 30C, 53, 55, 904, 1016, 1400C, and 6501 of this title\] shall apply to vehicles acquired after the date of the enactment of this Act \[Feb. 17, 2009\].”
+
+Pub. L. 111–5, div. B, title I, §1142(e), Feb. 17, 2009, 123 Stat. 331, provided that: “The amendment made by subsection (b)(1)(A) \[amending this section\] shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] in the same manner as the provision of such Act to which such amendment relates.”
+
+Pub. L. 111–5, div. B, title I, §1144(c), Feb. 17, 2009, 123 Stat. 333, provided that: “The amendments made by this section \[amending this section and sections 25, 25B, 26, 30B, 30C, 55, 904, and 1400C of this title\] shall apply to taxable years beginning after December 31, 2008.”
+
+Pub. L. 111–5, div. B, title I, §1144(d), Feb. 17, 2009, 123 Stat. 333, provided that: “The amendment made by subsection (b)(1)(A) \[amending this section\] shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] in the same manner as the provision of such Act to which such amendment relates.”
 
 #### Effective and Termination Dates of 2008 Amendment
 

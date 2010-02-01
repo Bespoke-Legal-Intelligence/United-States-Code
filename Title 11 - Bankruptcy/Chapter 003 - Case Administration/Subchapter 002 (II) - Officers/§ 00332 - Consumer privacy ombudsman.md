@@ -1,6 +1,6 @@
 ### §332. Consumer privacy ombudsman
 
-(a) If a hearing is required under section 363(b)(1)(B), the court shall order the United States trustee to appoint, not later than 5 days before the commencement of the hearing, 1 disinterested person (other than the United States trustee) to serve as the consumer privacy ombudsman in the case and shall require that notice of such hearing be timely given to such ombudsman.
+(a) If a hearing is required under section 363(b)(1)(B), the court shall order the United States trustee to appoint, not later than 7 days before the commencement of the hearing, 1 disinterested person (other than the United States trustee) to serve as the consumer privacy ombudsman in the case and shall require that notice of such hearing be timely given to such ombudsman.
 
 (b) The consumer privacy ombudsman may appear and be heard at such hearing and shall provide to the court information to assist the court in its consideration of the facts, circumstances, and conditions of the proposed sale or lease of personally identifiable information under section 363(b)(1)(B). Such information may include presentation of—
 
@@ -14,7 +14,15 @@
 
 (c) A consumer privacy ombudsman shall not disclose any personally identifiable information obtained by the ombudsman under this title.
 
-(Added Pub. L. 109–8, title II, §232(a), Apr. 20, 2005, 119 Stat. 73.)
+(Added Pub. L. 109–8, title II, §232(a), Apr. 20, 2005, 119 Stat. 73; amended Pub. L. 111–16, §2(3), May 7, 2009, 123 Stat. 1607.)
+
+#### Amendments
+
+2009—Subsec. (a). Pub. L. 111–16 substituted “7 days” for “5 days”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 111–16, set out as a note under section 109 of this title.
 
 #### Effective Date
 

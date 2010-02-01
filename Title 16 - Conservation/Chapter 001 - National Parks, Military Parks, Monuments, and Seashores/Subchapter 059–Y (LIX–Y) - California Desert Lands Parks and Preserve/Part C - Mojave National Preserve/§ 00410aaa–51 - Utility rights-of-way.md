@@ -14,7 +14,7 @@
 
 &emsp;(D) in the Eldorado rights-of-way and Mojave right-of-way no additional land shall be issued, granted, or permitted for such upgrade unless an addition would reduce the impacts to preserve resources;
 
-&emsp;(E) no more than 350 feet of additional land shall be issued, granted, or permitted for anadjacent right-of-way to the south of the Mojave right-of-way unless a greater addition would reduce the impacts to preserve resources; and
+&emsp;(E) no more than 350 feet of additional land shall be issued, granted, or permitted for an adjacent right-of-way to the south of the Mojave right-of-way unless a greater addition would reduce the impacts to preserve resources; and
 
 &emsp;(F) such upgrade activities, including helicopter aided construction, shall be conducted in a manner which will minimize the impact on preserve resources.
 

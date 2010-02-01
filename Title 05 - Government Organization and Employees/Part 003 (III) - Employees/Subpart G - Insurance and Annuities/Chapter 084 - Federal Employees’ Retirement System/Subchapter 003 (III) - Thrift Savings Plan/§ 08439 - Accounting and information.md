@@ -32,11 +32,15 @@
 
 (2) Information under this subsection shall be provided on a regular basis, and in a manner designed to facilitate informed decisionmaking with respect to elections under sections 8432 and 8438 of this title. Nothing in this paragraph shall be considered to limit the dissemination of information only to the times required under the preceding sentence.
 
-(d) Each employee, Member, former employee, or former Member who elects to invest in the Common Stock Index Investment Fund, the Fixed Income Investment Fund, the International Stock Index Investment Fund, or the Small Capitalization Stock Index Investment Fund, defined in paragraphs (1), (3), (5), and (10), respectively, of section 8438(a) of this title shall sign an acknowledgement prescribed by the Executive Director which states that the employee, Member, former employee, or former Member understands that an investment in either such Fund is made at the employee's, Member's, former employee's, or former Member's risk, that the employee, Member, former employee, or former Member is not protected by the Government against any loss on such investment, and that a return on such investment is not guaranteed by the Government.
+(d) Each employee, Member, former employee, or former Member who elects to invest in any investment fund or option under this chapter, other than the Government Securities Investment Fund, shall sign an acknowledgement prescribed by the Executive Director which states that the employee, Member, former employee, or former Member understands that an investment in any such fund or option is made at the employee's, Member's, former employee's, or former Member's risk, that the employee, Member, former employee, or former Member is not protected by the Government against any loss on such investment, and that a return on such investment is not guaranteed by the Government.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 555; amended Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §103\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–373; Pub. L. 104–316, title I, §103(j), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–65, div. A, title VI, §661(a)(5), Oct. 5, 1999, 113 Stat. 672; Pub. L. 106–361, §2(b)(4), (5), Oct. 27, 2000, 114 Stat. 1401; Pub. L. 108–469, §1(d)(3), Dec. 21, 2004, 118 Stat. 3892.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 555; amended Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §103\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–373; Pub. L. 104–316, title I, §103(j), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–65, div. A, title VI, §661(a)(5), Oct. 5, 1999, 113 Stat. 672; Pub. L. 106–361, §2(b)(4), (5), Oct. 27, 2000, 114 Stat. 1401; Pub. L. 108–469, §1(d)(3), Dec. 21, 2004, 118 Stat. 3892; Pub. L. 111–31, div. B, title I, §106(a), June 22, 2009, 123 Stat. 1855.)
 
 #### Amendments
+
+2009—Subsec. (d). Pub. L. 111–31, §106(a)(2), substituted “any such fund or option” for “either such Fund”.
+
+Pub. L. 111–31, §106(a)(1), which directed substitution of “any investment fund or option under this chapter, other than the Government Securities Investment Fund,” for “the matter after ‘who elects to invest in’ and before ‘shall sign an acknowledgment’ ”, was executed by making the substitution for “the Common Stock Index Investment Fund, the Fixed Income Investment Fund, the International Stock Index Investment Fund, or the Small Capitalization Stock Index Investment Fund, defined in paragraphs (1), (3), (5), and (10), respectively, of section 8438(a) of this title”, before “shall sign an acknowledgement”, to reflect the probable intent of Congress.
 
 2004—Subsec. (c)(2). Pub. L. 108–469 substituted “on a regular basis” for “at least 30 calendar days before the beginning of each election period under section 8432(b)(1)(A) of this title”.
 
@@ -44,7 +48,7 @@
 
 Subsec. (c)(2). Pub. L. 106–361, §2(b)(5), inserted at end “Nothing in this paragraph shall be considered to limit the dissemination of information only to the times required under the preceding sentence.”
 
-1999—Subsec. (a)(1). Pub. L. 106–65, §661(a)(5)(A), in so far as it directed amendment of par. (1) by striking out “under section 8432(c)(1) of this title”, could not be executed because the words “under section 8432(c)(1) of this title” did not appear subsequent to amendment byPub. L. 106–361, §2(b)(4). See 2000 Amendment note above.
+1999—Subsec. (a)(1). Pub. L. 106–65, §661(a)(5)(A), in so far as it directed amendment of par. (1) by striking out “under section 8432(c)(1) of this title”, could not be executed because the words “under section 8432(c)(1) of this title” did not appear subsequent to amendment by Pub. L. 106–361, §2(b)(4). See 2000 Amendment note above.
 
 Pub. L. 106–65, §661(a)(5)(A), struck out “under section 8351 of this title” after “Thrift Savings Fund”.
 
@@ -67,4 +71,34 @@ Amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless pos
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–208 effective Sept. 30, 1996, with provisions for certain funds to be offered for investment at earliest practicable election period, see section 101(f) \[title VI, §659 \[title I, §104\]\] of Pub. L. 104–208, set out as a note under section 8438 of this title.
+
+#### Reporting Requirements
+
+Pub. L. 111–31, div. B, title I, §105, June 22, 2009, 123 Stat. 1855, provided that:
+
+“(a)
+
+Annual Report.—The Board shall, not later than June 30 of each year, submit to Congress an annual report on the operations of the Thrift Savings Plan. Such report shall include, for the prior calendar year, information on the number of participants as of the last day of such prior calendar year, the median balance in participants’ accounts as of such last day, demographic information on participants, the percentage allocation of amounts among investment funds or options, the status of the development and implementation of the mutual fund window, the diversity demographics of any company, investment adviser, or other entity retained to invest and manage the assets of the Thrift Savings Fund, and such other information as the Board considers appropriate. A copy of each annual report under this subsection shall be made available to the public through an Internet website.
+
+“(b)
+
+Reporting of Fees and Other Information.—
+
+&emsp;“(1)
+
+In general.—The Board shall include in the periodic statements provided to participants under section 8439(c) of title 5, United States Code, the amount of the investment management fees, administrative expenses, and any other fees or expenses paid with respect to each investment fund and option under the Thrift Savings Plan. Any such statement shall also provide a statement notifying participants as to how they may access the annual report described in subsection (a), as well as any other information concerning the Thrift Savings Plan that might be useful.
+
+&emsp;“(2)
+
+Use of estimates.—For purposes of providing the information required under this subsection, the Board may provide a reasonable and representative estimate of any fees or expenses described in paragraph (1) and shall indicate any such estimate as being such an estimate. Any such estimate shall be based on the previous year's experience.
+
+“(c)
+
+Definitions.—For purposes of this section—
+
+&emsp;“(1) the term ‘Board’ has the meaning given such term by 8401(5) of title 5, United States Code;
+
+&emsp;“(2) the term ‘participant’ has the meaning given such term by section 8471(3) of title 5, United States Code; and
+
+&emsp;“(3) the term ‘account’ means an account established under section 8439 of title 5, United States Code.”
 

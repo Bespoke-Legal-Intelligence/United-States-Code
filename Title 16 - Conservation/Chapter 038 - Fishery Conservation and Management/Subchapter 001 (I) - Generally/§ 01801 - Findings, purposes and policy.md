@@ -186,7 +186,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Federal Agency Duties</i>. Federal agencies shall, to the extent permitted by law and where practicable, and in cooperation with States and Tribes, improve the quantity, function, sustainable productivity, and distribution of U.S. aquatic resources for increased recreational fishing opportunities by: (a) developing and encouraging partnerships between governments and the private sector to advance aquatic resource conservation and enhance recreational fishing opportunities;
 
-(b) identifying recreational fishing opportunities that are limited by water quality and habitat degradationand promoting restoration to support viable, healthy, and, where feasible, self-sustaining recreational fisheries;
+(b) identifying recreational fishing opportunities that are limited by water quality and habitat degradation and promoting restoration to support viable, healthy, and, where feasible, self-sustaining recreational fisheries;
 
 (c) fostering sound aquatic conservation and restoration endeavors to benefit recreational fisheries;
 

@@ -58,7 +58,7 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;&emsp;(B) instances of propaganda in government and nongovernment media that attempt to justify or promote racial hatred or incite acts of violence against Jewish people;
 
-&emsp;&emsp;(C) the actions, if any, taken by the government of the country to respond to such violence and attacks or to eliminate such propaganda or incitement;
+&emsp;&emsp;(C) the actions, if any, taken by the government of the country to respond to suchviolence and attacks or to eliminate such propaganda or incitement;
 
 &emsp;&emsp;(D) the actions taken by such government to enact and enforce laws relating to the protection of the right to religious freedom of Jewish people; and
 
@@ -110,7 +110,7 @@ The President is authorized and encouraged to use not less than $3,000,000 of th
 
 &emsp;(C) Such other information relating to trafficking in persons as the Secretary of State considers appropriate.
 
-(2) In compiling data and making assessments for the purposes of paragraph (1), United States diplomatic mission personnel shall consult with human rights organizations and other appropriate nongovernmental organizations.
+(2) In compiling data and making assessments for the purposes of paragraph (1), United Statesdiplomatic mission personnel shall consult with human rights organizations and other appropriate nongovernmental organizations.
 
 (Pub. L. 87–195, pt. I, §116, as added Pub. L. 94–161, title III, §310, Dec. 20, 1975, 89 Stat. 860; amended Pub. L. 95–88, title I, §111, Aug. 3, 1977, 91 Stat. 537; Pub. L. 95–105, title I, §109(a)(2), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title I, §109, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §106, title V, §504(a), Aug. 14, 1979, 93 Stat. 362, 378; Pub. L. 96–533, title III, §305, title VII, §701(a), Dec. 16, 1980, 94 Stat. 3147, 3156; Pub. L. 97–113, title III, §306, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 98–164, title X, §1002(a), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 99–440, title II, §202, Oct. 2, 1986, 100 Stat. 1095; Pub. L. 99–631, §1(b)(2), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 100–204, title I, §127(1), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 101–513, title V, §§562(d)(3), 599D, Nov. 5, 1990, 104 Stat. 2031, 2066; Pub. L. 103–149, §4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title I, §162(e)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(a), Oct. 19, 1996, 110 Stat. 3866; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2216, Oct. 21, 1998, 112 Stat. 2681–815; Pub. L. 105–292, title I, §102(d)(1), title IV, §421(a), title V, §501(b), Oct. 27, 1998, 112 Stat. 2794, 2809, 2811; Pub. L. 106–113, div. B, §§1000(a)(2) \[title V, §597\], 1000(a)(7) \[div. A, title VIII, §806(a)\], Nov. 29, 1999, 113 Stat. 1535, 1536, 1501A–126, 1501A–471; Pub. L. 106–386, div. A, §104(a), Oct. 28, 2000, 114 Stat. 1471; Pub. L. 107–228, div. A, title VI, §§665(a), 683(a), Sept. 30, 2002, 116 Stat. 1406, 1410; Pub. L. 108–332, §6(a)(1), Oct. 16, 2004, 118 Stat. 1285.)
 
@@ -166,7 +166,7 @@ Subsec. (c). Pub. L. 103–236 substituted “Assistant Secretary of State for D
 
 Subsecs. (f), (g). Pub. L. 103–149 struck out subsec. (f) which authorized assistance to political detainees and prisoners and support for black-led community organizations in South Africa and subsec. (g) which authorized assistance to families of victims of violence in South Africa.
 
-1990—Subsec. (b). Pub. L. 101–513, §599D, added subsec. (b) prohibiting assistance to governments failing toprotect children from exploitation, abuse or conscription.
+1990—Subsec. (b). Pub. L. 101–513, §599D, added subsec. (b) prohibiting assistance to governments failing to protect children from exploitation, abuse or conscription.
 
 Subsec. (e)(1). Pub. L. 101–513, §562(d)(3), inserted “, part X of this subchapter,” after “available under this part” and “or under part X of this subchapter, except that funds made available under part X of this subchapter may only be used under this subsection with respect to countries in sub-Saharan Africa” before period at end of first sentence.
 
@@ -184,7 +184,7 @@ Subsec. (g). Pub. L. 99–440, §202(b), added subsec. (g).
 
 1981—Subsec. (e). Pub. L. 97–113 substituted “each of the fiscal years 1982 and 1983” for “the fiscal year 1981”.
 
-1980—Subsec. (a). Pub. L. 96–533, §701(a), prohibited assistance for government of any country causing the disappearance of persons by the abduction and clandestine detention of those persons.
+1980—Subsec. (a). Pub. L. 96–533, §701(a), prohibited assistance for government of any country causing thedisappearance of persons by the abduction and clandestine detention of those persons.
 
 Subsec. (e). Pub. L. 96–533, §305, substituted “1981” for “1980”.
 

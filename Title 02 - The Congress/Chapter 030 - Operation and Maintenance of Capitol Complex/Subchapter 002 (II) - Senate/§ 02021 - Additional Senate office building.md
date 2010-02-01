@@ -1,6 +1,6 @@
 ### §2021. Additional Senate office building
 
-Upon completion of the additional office building for the United States Senate, the building and the grounds and sidewalks surrounding the same shall be subject to the provisions of sections 1922, 1961, 1966, 1967, 1969, 2023, and 2024 of this title and sections 5101 to 5107 and 5109 of title 40, in the same manner and to the same extent as the present Senate Office Building and the grounds and sidewalks surrounding the same.
+Upon completion of the additional office building for the United States Senate, the building and the grounds and sidewalks surrounding the same shall be subject to the provisions of sections 1922, 1961, 1966, 1967, 1969, 2023, and 2024 of this title and sections 5101 to 5107 and 5109 of title 40, in the same manner and to the same extent as the present Senate Office Building andthe grounds and sidewalks surrounding the same.
 
 (June 25, 1948, ch. 658, title I, 62 Stat. 1029.)
 
@@ -68,7 +68,7 @@ Pub. L. 101–520, title I, §107, Nov. 5, 1990, 104 Stat. 2267, provided that:
 
 “(b) Notwithstanding any other provision of law, property leased under authority of subsection (a) shall be maintained by the Architect of the Capitol as part of the ‘Senate Office Buildings’ subject to the laws, rules, and regulations governing such buildings, and the Architect is authorized to incur such expenses as may be necessary to provide for such occupancy.
 
-“(c) There is hereby authorized to be appropriated to the ‘Architect of the Capitol, Senate Office Buildings’ such sums as may be necessary to carry out the provisions of subsections (a) and (b).
+“(c) There is hereby authorized to be appropriated to the ‘Architect of the Capitol, Senate Office Buildings’such sums as may be necessary to carry out the provisions of subsections (a) and (b).
 
 “(d) There is authorized to be appropriated to the Sergeant at Arms of the United States Senate such sums as may be necessary to provide for the planning and relocation of offices and equipment to the property described in subsection (a), subject to direction by the Committee on Rules and Administration.
 
@@ -82,7 +82,7 @@ Pub. L. 94–157, title I, §112, Dec. 18, 1975, 89 Stat. 832, as amended by Pub
 
 “(b) Notwithstanding any other provision of law, property leased under authority of subsection (a) shall be maintained by the Architect of the Capitol as part of the ‘Senate Office Buildings’ subject to the laws, rules, and regulations governing such buildings, and the Architect is authorized to incur such expenses as may be necessary to provide for such occupancy.
 
-“(c) Notwithstanding any other provision of law, the Sergeant at Arms of the Senate, subject to the approval of the Committee on Rules and Administration and the Committee on Appropriations, is authorized to sublease any part of the property leased under authority of subsection (a) which is in excess of the requirements of the Senate. All rental payments under anysuch sublease shall be paid to the Sergeant at Arms of the Senate and such amounts shall thereupon be added to and merged with the appropriation ‘Miscellaneous Items’ under the Contingent Fund of the Senate.
+“(c) Notwithstanding any other provision of law, the Sergeant at Arms of the Senate, subject to the approval of the Committee on Rules and Administration and the Committee on Appropriations, is authorized to sublease any part of the property leased under authority of subsection (a) which is in excess of the requirements of the Senate. All rental payments under any such sublease shall be paid to the Sergeant at Arms of the Senate and such amounts shall thereupon be added to and merged with the appropriation ‘Miscellaneous Items’ under the Contingent Fund of the Senate.
 
 “(d) Notwithstanding any other provision of law, upon the approval of the Committee on Rules and Administration and the Committee on Appropriations, the Secretary of the Senate shall transfer by voucher or vouchers to the Architect of the Capitol from the ‘Contingent Fund of the Senate’ such amounts as may be necessary for the Architect of the Capitol to carry out the provisions of subsection (b) and such amounts shall thereupon be added to and merged with the appropriation ‘Senate Office Buildings’.
 

@@ -20,7 +20,7 @@ The Secretary may make such investigations as the Secretary considers necessary�
 
 #### (c) Aid of courts
 
-In the case of contumacy by, or refusal to obey a subpoena issued to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which the investigation or proceeding is carried on, or where the person resides or carries on business, in order to enforce a subpoena issued by the Secretary under subsection (b) of this section. The court may issue an order requiring the person to comply with the subpoena.
+In the case of contumacy by, or refusal to obey a subpoena issued to, any person, the Secretarymay invoke the aid of any court of the United States within the jurisdiction of which the investigation or proceeding is carried on, or where the person resides or carries on business, in order to enforce a subpoena issued by the Secretary under subsection (b) of this section. The court may issue an order requiring the person to comply with the subpoena.
 
 #### (d) Contempt
 
@@ -32,7 +32,7 @@ Process may be served on a person in the judicial district in which the person r
 
 #### (f) Hearing site
 
-The site of a hearing held under section 7447 or 7448 of this title shall be in the judicial districtwhere the person affected by the hearing resides or has a principal place of business.
+The site of a hearing held under section 7447 or 7448 of this title shall be in the judicial district where the person affected by the hearing resides or has a principal place of business.
 
 (Pub. L. 104–127, title V, §540, Apr. 4, 1996, 110 Stat. 1062.)
 

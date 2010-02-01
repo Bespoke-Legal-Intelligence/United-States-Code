@@ -12,7 +12,7 @@
 
 #### (b) Waiver
 
-Notwithstanding any other provision of law, assistance may be furnished to a foreign government described in subsection (a) of this section if the President determines that furnishing such assistance is important to the national interestsof the United States and, not later than 15 days before obligating such assistance, furnishes a report to the appropriate committees of Congress including—
+Notwithstanding any other provision of law, assistance may be furnished to a foreign government described in subsection (a) of this section if the President determines that furnishing such assistance is important to the national interests of the United States and, not later than 15 days before obligating such assistance, furnishes a report to the appropriate committees of Congress including—
 
 &emsp;(1) a statement of the determination;
 

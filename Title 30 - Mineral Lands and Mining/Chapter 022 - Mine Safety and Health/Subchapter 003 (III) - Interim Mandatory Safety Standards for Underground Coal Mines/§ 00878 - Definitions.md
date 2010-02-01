@@ -8,7 +8,7 @@ For the purpose of this subchapter and subchapter II of this chapter, the term�
 
 &emsp;&emsp;(1) an individual deemed qualified by the Secretary and designated by the operator to make tests and examinations required by this chapter; and
 
-&emsp;&emsp;(2) an individual deemed, in accordance with minimum requirements to be established by the Secretary, qualified by training, education, and experience, to perform electrical work, to maintain electrical equipment, and to conduct examinations and tests of all electrical equipment;
+&emsp;&emsp;(2) an individual deemed, in accordance with minimum requirements to be established by the Secretary, qualified by training, education, and experience, to perform electrical work, to maintain electricalequipment, and to conduct examinations and tests of all electrical equipment;
 
 &emsp;(c) “permissible” as applied to—
 

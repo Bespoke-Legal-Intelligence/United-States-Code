@@ -44,7 +44,7 @@ The Administrator shall submit an annual report by January 31st of each year. Su
 
 The authority to enter into leases under this section shall expire on the date that is ten years after December 26, 2007. The expiration under this subsection of authority to enter into leases under this section shall not affect the validity or term of leases or NASA's retention of proceeds from leases entered into under this section before the date of the expiration of such authority.
 
-(Pub. L. 85–568, title III, §315, as added Pub. L. 108–7, div. K, title IV, §418, Feb. 20, 2003, 117 Stat. 525; amended Pub. L. 110–161, div. B, title V, §533(a)–(e), Dec. 26, 2007, 121 Stat. 1931, 1932; Pub. L. 110–422, title XI, §1117(c), (d), Oct. 15, 2008, 122 Stat. 4814.)
+(Pub. L. 85–568, title III, §315, as added Pub. L. 108–7, div. K, title IV, §418, Feb. 20, 2003, 117 Stat.525; amended Pub. L. 110–161, div. B, title V, §533(a)–(e), Dec. 26, 2007, 121 Stat. 1931, 1932; Pub. L. 110–422, title XI, §1117(c), (d), Oct. 15, 2008, 122 Stat. 4814.)
 
 #### Codification
 

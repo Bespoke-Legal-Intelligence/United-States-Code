@@ -46,7 +46,7 @@ There is hereby established the Malcolm Baldrige National Quality Award, which s
 
 (2)(A) The Director of the National Institute of Standards and Technology shall, under appropriate contractual arrangements, carry out the Director's responsibilities under subparagraphs (A) and (B) of paragraph (1) through one or more broad-based nonprofit entities which are leaders in the field of quality management and which have a history of service to society.
 
-(B) The Secretary shall appoint a board of overseers for the award, consisting of at least five persons selected for their preeminence in the field of quality management. This board shall meet annually to review the work of the contractor or contractors and make such suggestions for the improvement of the award process as they deem necessary. The board shall report the results of the award activities to theDirector of the National Institute of Standards and Technology each year, along with its recommendations for improvement of the process.
+(B) The Secretary shall appoint a board of overseers for the award, consisting of at least five persons selected for their preeminence in the field of quality management. This board shall meet annually to review the work of the contractor or contractors and make such suggestions for the improvement of the award process as they deem necessary. The board shall report the results of the award activities to the Director of the National Institute of Standards and Technology each year, along with its recommendations for improvement of the process.
 
 #### (e) Information and technology transfer program
 

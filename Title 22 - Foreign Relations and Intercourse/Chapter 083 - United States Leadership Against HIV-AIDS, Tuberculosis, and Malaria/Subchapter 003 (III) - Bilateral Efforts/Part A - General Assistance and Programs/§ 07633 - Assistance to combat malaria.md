@@ -6,7 +6,7 @@
 
 #### (1) In general
 
-In addition to funds available under section 104(c) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c)) for such purpose or under any other provision of that Act \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President, from amounts authorized to be appropriated under section 7671 of this title, $5,000,000,000 during the 5-year period beginning on October 1, 2008 <sup>1</sup> to carry out section 104C of the Foreign Assistance Act of 1961, as added by subsection (a) \[22 U.S.C. 2151b–4\], including for the development of anti-malarial pharmaceuticals by the Medicines for Malaria Venture.
+In addition to funds available under section 104(c) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c)) for such purpose or under any other provision of that Act \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President, from amounts authorized to be appropriated under section 7671 of this title, $5,000,000,000 during the 5-year period beginning on October 1, 2008 to carry out section 104C of the Foreign Assistance Act of 1961, as added by subsection (a) \[22 U.S.C. 2151b–4\], including for the development of anti-malarial pharmaceuticals by the Medicines for Malaria Venture.
 
 #### (2) Availability of funds
 
@@ -14,7 +14,7 @@ Amounts appropriated pursuant to paragraph (1) are authorized to remain availabl
 
 #### (3) Transfer of prior year funds
 
-Unobligated balances of funds made available for fiscal year 2001, 2002, or 2003 under section 104(c) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c) <sup>2</sup> (as in effect immediately before May 27, 2003) and made available for the control of malaria shall be transferred to, merged with, and made available for the same purposes as funds made available for fiscal years 2009 through 2013 under paragraph (1).
+Unobligated balances of funds made available for fiscal year 2001, 2002, or 2003 under section104(c) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c) <sup>1</sup> (as in effect immediately before May 27, 2003) and made available for the control of malaria shall be transferred to, merged with, and made available for the same purposes as funds made available for fiscal years 2009 through 2013 under paragraph (1).
 
 #### (c) Statement of policy
 
@@ -28,7 +28,7 @@ Providing assistance for the prevention, control, treatment, and the ultimate er
 
 The President shall establish a comprehensive, 5-year strategy to combat global malaria that—
 
-&emsp;(1) strengthens the capacity of the United States to be an effective leader of international efforts to reduce <sup>3</sup> malaria burden;
+&emsp;(1) strengthens the capacity of the United States to be an effective leader of international efforts to reduce <sup>2</sup> malaria burden;
 
 &emsp;(2) maintains sufficient flexibility and remains responsive to the ever-changing nature of the global malaria challenge;
 
@@ -76,9 +76,7 @@ Subsec. (b)(3). Pub. L. 110–293, §303(b)(1)(B), substituted “fiscal years 2
 
 Subsecs. (c), (d). Pub. L. 110–293, §303(b)(2), added subsecs. (c) relating to statement of policy and (d).
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a second closing parenthesis.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a second closing parenthesis.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be followed by “the”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “the”.</i>
 

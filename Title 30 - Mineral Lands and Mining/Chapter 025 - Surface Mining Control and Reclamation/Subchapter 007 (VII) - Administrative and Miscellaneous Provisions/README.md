@@ -23,6 +23,7 @@
 - [&sect; 01306 - Effect on rights of owner of coal in Alaska to conduct surface mining operations](%C2%A7%2001306%20-%20Effect%20on%20rights%20of%20owner%20of%20coal%20in%20Alaska%20to%20conduct%20surface%20mining%20operations.md)
 - [&sect; 01307 - Water rights and replacement](%C2%A7%2001307%20-%20Water%20rights%20and%20replacement.md)
 - [&sect; 01308 - Advance appropriations](%C2%A7%2001308%20-%20Advance%20appropriations.md)
+- [&sect; 01308a - Use of civil penalty funds to reclaim lands](%C2%A7%2001308a%20-%20Use%20of%20civil%20penalty%20funds%20to%20reclaim%20lands.md)
 - [&sect; 01309 - Certification and training of blasters](%C2%A7%2001309%20-%20Certification%20and%20training%20of%20blasters.md)
 - [&sect; 01309a - Subsidence](%C2%A7%2001309a%20-%20Subsidence.md)
 - [&sect; 01309b - Research](%C2%A7%2001309b%20-%20Research.md)

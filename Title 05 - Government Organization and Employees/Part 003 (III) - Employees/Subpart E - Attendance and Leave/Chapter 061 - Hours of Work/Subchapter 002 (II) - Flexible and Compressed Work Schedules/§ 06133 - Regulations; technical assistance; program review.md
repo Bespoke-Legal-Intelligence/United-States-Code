@@ -22,9 +22,13 @@
 
 (2) With respect to employees in the Government Printing Office, the authority granted to the Office of Personnel Management under this subchapter shall be exercised by the Public Printer.
 
-(Added Pub. L. 97–221, §2(a)(2), July 23, 1982, 96 Stat. 233; amended Pub. L. 101–163, title III, §312, Nov. 21, 1989, 103 Stat. 1065.)
+(3) With respect to employees of the Architect of the Capitol and the Botanic Garden, the authority granted to the Office of Personnel Management under this subchapter shall be exercised by the Architect of the Capitol.
+
+(Added Pub. L. 97–221, §2(a)(2), July 23, 1982, 96 Stat. 233; amended Pub. L. 101–163, title III, §312, Nov. 21, 1989, 103 Stat. 1065; Pub. L. 111–68, div. A, title I, §1302(2), Oct. 1, 2009, 123 Stat. 2034.)
 
 #### Amendments
+
+2009—Subsec. (c)(3). Pub. L. 111–68 added par. (3).
 
 1989—Subsec. (c). Pub. L. 101–163 designated existing provisions as par. (1) and added par. (2).
 

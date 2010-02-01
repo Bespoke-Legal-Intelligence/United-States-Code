@@ -84,7 +84,7 @@ Concealment.—Whoever—
 
 &emsp;&emsp;(A) knowing or intending that the support or resources are to be provided, or knowing that the support or resources were provided, in violation of section 2339B of this title; or
 
-&emsp;&emsp;(B) knowing or intending that any such funds are to be provided or collected, or knowing that the funds were provided or collected, in violation of subsection (a),
+&emsp;&emsp;(B) knowing or intending that any such funds are to be provided or collected, orknowing that the funds were provided or collected, in violation of subsection (a),
 
 > shall be punished as prescribed in subsection (d)(2).
 

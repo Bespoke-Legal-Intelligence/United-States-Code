@@ -74,7 +74,7 @@ Not later than 1 year after August 8, 2005, the Secretary shall submit to Congre
 
 &emsp;&emsp;(D) Review the progress of the Program in archiving significant data and preventing the loss of such data, and the scientific progress of the studies funded under the Program.
 
-&emsp;&emsp;(E) Include in the annual report to the Secretary required under section 5(b)(3) of the National Geologic Mapping Act of 1992 (43 U.S.C. 31d(b)(3)) an evaluation of the progress of the Program toward fulfilling the purposes of the Program under subsection (b).
+&emsp;&emsp;(E) Include in the annual report to the Secretary required under section 5(b)(3) <sup>1</sup> of the National Geologic Mapping Act of 1992 (43 U.S.C. 31d(b)(3)) an evaluation of the progress of the Program toward fulfilling the purposes of the Program under subsection (b).
 
 #### (g) Financial assistance
 
@@ -136,5 +136,7 @@ There are authorized to be appropriated to carry out this section $30,000,000 fo
 
 #### References in Text
 
-The National Geologic Mapping Act of 1992, referred to in subsec. (f)(2), is Pub. L. 102–285, May 18, 1992, 106 Stat. 166, as amended, which is classified principally to sections 31a to 31h of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 31a of Title 43 and Tables.
+The National Geologic Mapping Act of 1992, referred to in subsec. (f)(2), is Pub. L. 102–285, May 18, 1992, 106 Stat. 166, which is classified principally to sections 31a to 31h of Title 43, Public Lands. Par. (3) of section 5(b) of the Act was redesignated par. (4) by Pub. L. 111–11, title XI, §11001(f)(2)(B), Mar. 30, 2009, 123 Stat. 1415, and is now classified to section 31d(b)(4) of Title 43. For complete classification of this Act to the Code, see Short Title note set out under section 31a of Title 43 and Tables.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

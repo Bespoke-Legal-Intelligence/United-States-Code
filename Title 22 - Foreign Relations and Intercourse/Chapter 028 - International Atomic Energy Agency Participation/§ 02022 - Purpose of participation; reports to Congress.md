@@ -1,18 +1,18 @@
 ### §2022. Purpose of participation; reports to Congress
 
-The participation of the United States in the International Atomic Energy Agency shall be consistent with and in furtherance of the purposes of the Agency set forth in its Statute and the policy concerning the development, use, and control of atomic energy set forth in the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\]. The President shall, from time to time as occasion may require, but not less than once each year, make reports to the Congress on the activities of the International Atomic Energy Agency and on the participation of the United States therein. In addition to any other requirements of law, the Department of State and the Atomic Energy Commission shall keep the Committees on Energy and Commerce and on Foreign Affairs of the House of Representatives and the Committees on Energy and Natural Resources and on Foreign Relations of the Senate, as appropriate, currently informed with respect to the activities of the Agency and the participation of the United States therein.
+The participation of the United States in the International Atomic Energy Agency shall be consistent with and in furtherance of the purposes of the Agency set forth in its Statute and the policy concerning the development, use, and control of atomic energy set forth in the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 etseq.\]. The President shall, from time to time as occasion may require, but not less than once each year, make reports to the Congress on the activities of the International Atomic Energy Agency and on the participation of the United States therein. In addition to any other requirements of law, the Department of State and the Atomic Energy Commission shall keep the Committees on Energy and Commerce and on Foreign Affairs of the House of Representatives and the Committees on Energy and Natural Resources and on Foreign Relations of the Senate, as appropriate, currently informed with respect to the activities of the Agency and the participation of the United States therein.
 
 (Pub. L. 85–177, §3, Aug. 28, 1957, 71 Stat. 453; Pub. L. 103–437, §9(b), Nov. 2, 1994, 108 Stat. 4588.)
+
+#### Repeal of Reporting Requirement
+
+<i>Pub. L. 89–348, §1(20), Nov. 8, 1965, 79 Stat. 1311, repealed provisions of this section which directed President to report to Congress not less than once each year on activities of International Atomic Energy Agency and on participation of United States therein.</i>
 
 #### References in Text
 
 Statute, referred to in text, is the “Statute of the International Atomic Energy Agency”.
 
 The Atomic Energy Act of 1954, as amended, referred to in text, is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
-
-#### Repeal of Reporting Requirement
-
-<i>Pub. L. 89–348, §1(20), Nov. 8, 1965, 79 Stat. 1311, repealed provisions of this section which directed President to report to Congress not less than once each year on activities of International Atomic Energy Agency and on participation of United States therein.</i>
 
 #### Amendments
 

@@ -48,7 +48,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-1999—Subsec. (a)(3). Pub. L. 106–36 substituted “Secretariat of the World Trade Organization (as the term ‘World Trade Organization’ is defined in section 3501(8) of title 19)” for “GATT Secretariat”.
+1999—Subsec. (a)(3). Pub. L. 106–36 substituted “Secretariat of the World Trade Organization (as the term‘World Trade Organization’ is defined in section 3501(8) of title 19)” for “GATT Secretariat”.
 
 1986—Subsec. (a)(1). Pub. L. 99–500 and Pub. L. 99–591, §101(f) \[title V, §555(b)\], inserted “each of the multilateral development banks (in this section referred to as the ‘banks’) and of”, “each of the banks and of”, and “banks and of the”, and substituted “development of financial” for “development of Fund financial”.
 

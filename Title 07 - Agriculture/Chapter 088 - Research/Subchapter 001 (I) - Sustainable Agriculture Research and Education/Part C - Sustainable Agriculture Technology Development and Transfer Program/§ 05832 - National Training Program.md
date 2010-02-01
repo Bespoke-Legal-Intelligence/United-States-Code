@@ -6,7 +6,7 @@ The Secretary shall establish a National Training Program in Sustainable Agricul
 
 #### (b) Administration
 
-The National Training Program shall be organized and administered by the Extension Service, in coordination with other appropriate Federal agencies. The Secretary shall designate an individual from the Cooperative Extension Service in each State to coordinate the National Training Program within that State. The coordinators shall be responsible, in cooperation with appropriate Federal and State agencies, for developing and implementing a statewide training program for appropriate field office personnel.
+The National Training Program shall be organized and administered by the National Institute of Food and Agriculture, in coordination with other appropriate Federal agencies. The Secretary shall designate an individual from the Cooperative Extension Service in each State to coordinate the National Training Program within that State. The coordinators shall be responsible, in cooperation with appropriate Federal and State agencies, for developing and implementing a statewide training program for appropriate field office personnel.
 
 #### (c) Required training
 
@@ -16,7 +16,7 @@ The National Training Program shall be organized and administered by the Extensi
 
 #### (2) Proof of training
 
-&emsp;Beginning three years after November 28, 1990, the Secretary shall ensure that all new Cooperative Extension Service agents employed by such Service are able to demonstrate, not later than 18 months after the employment of such agents, that such agentshave completed the training program established in subsection (a) of this section.
+&emsp;Beginning three years after November 28, 1990, the Secretary shall ensure that all new Cooperative Extension Service agents employed by such Service are able to demonstrate, not later than 18 months after the employment of such agents, that such agents have completed the training program established in subsection (a) of this section.
 
 #### (d) Regional training centers
 
@@ -42,7 +42,7 @@ The National Training Program shall be organized and administered by the Extensi
 
 #### (e) Competitive grants
 
-#### (1) In General
+#### (1) In general
 
 &emsp;The Secretary shall establish a competitive grants program to award grants to organizations, including land-grant colleges and universities, to carry out sustainable agricultural training for county agents and other individuals that need basic information concerning sustainable agriculture practices.
 
@@ -82,17 +82,13 @@ The Cooperative Extension Service within each State shall transfer information d
 
 #### (h) “Appropriate field office personnel” defined
 
-For purposes of this section, the term “appropriate field office personnel” includes employees of the Extension Service, Soil Conservation Service, and other appropriate Department of Agriculture personnel, as determined by the Secretary, whose activities involve the provision of agricultural production and conservation information to agricultural producers.
+For purposes of this section, the term “appropriate field office personnel” includes employees of the National Institute of Food and Agriculture, Soil Conservation Service, and other appropriate Department of Agriculture personnel, as determined by the Secretary, whose activities involve the provision of agricultural production and conservation information to agricultural producers.
 
 #### (i) Authorization of appropriations
 
 There are authorized to be appropriated $20,000,000 for each fiscal year to carry out the National Training Program.
 
 (Pub. L. 101–624, title XVI, §1629, Nov. 28, 1990, 104 Stat. 3741; Pub. L. 102–237, title IV, §407(4), Dec. 13, 1991, 105 Stat. 1864; Pub. L. 104–127, title VIII, §862(b)(4), Apr. 4, 1996, 110 Stat. 1174; Pub. L. 105–185, title VI, §606(f), June 23, 1998, 112 Stat. 604; Pub. L. 110–234, title VII, §7511(c)(17), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(17), June 18, 2008, 122 Stat. 1664, 2030.)
-
-#### Amendment of Subsections (b) and (h)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2030, provided that, effective Oct. 1, 2009, subsection (b) of this section is amended by substituting “the National Institute of Food and Agriculture” for “the Extension Service” and subsection (h) of this section is amended by substituting “National Institute of Food and Agriculture” for “Extension Service”.</i>
 
 #### References in Text
 
@@ -103,6 +99,10 @@ Chapter 86 of this title, referred to in subsecs. (f) and (g), was in the origin
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–246, §7511(c)(17)(A), substituted “the National Institute of Food and Agriculture” for “the Extension Service” in first sentence.
+
+Subsec. (h). Pub. L. 110–246, §7511(c)(17)(B), substituted “National Institute of Food and Agriculture” for “Extension Service”.
 
 1998—Subsec. (g). Pub. L. 105–185 struck out “section 5881 of this title,” before “and other appropriate research” in introductory provisions.
 

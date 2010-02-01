@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (3) Specialized small business investment company
 
-&emsp;The term “specialized small business investment company” means any partnership or corporation which is licensed by the Small Business Administration under section 301(d) of the Small Business Investment Act of 1958 (as in effect on May 13, 1993).
+&emsp;The term “specialized small business investment company” means any partnership or corporation which is licensed by the Small Business Administration under section 301(d) ofthe Small Business Investment Act of 1958 (as in effect on May 13, 1993).
 
 #### (4) Certain entities not eligible
 

@@ -18,7 +18,7 @@
 
 #### (b) Loans to nonprofit organizations or public housing agencies; purpose and terms; repayment; authorization of appropriations; deposit of appropriations in Low and Moderate Income Sponsor Fund
 
-(1) The Secretary is authorized to make loans to nonprofit organizations or public housing agencies for the necessary expenses, prior to construction, in planning, and obtaining financing for, the rehabilitation or construction of housing for low or moderate income families under section 235 of the National Housing Act \[12 U.S.C. 1715z\] or any other federally assisted program. Such loans shall be made without interest and shall not exceed 80 per centum of thereasonable costs expected to be incurred in planning, and in obtaining financing for, such housing prior to the availability of financing, including, but not limited to, preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site acquisition, application and mortgage commitment fees, and construction loan fees and discounts. The Secretary shall require repayment of loans made under this subsection, under such terms and conditions as he may require, upon completion of the project or sooner, and may cancel any part or all of a loan if he determines that it cannot be recovered from the proceeds of any permanent loan made to finance the rehabilitation or construction of the housing.
+(1) The Secretary is authorized to make loans to nonprofit organizations or public housing agencies for the necessary expenses, prior to construction, in planning, and obtaining financing for, the rehabilitation or construction of housing for low or moderate income families under section 235 of the National Housing Act \[12 U.S.C. 1715z\] or any other federally assisted program. Such loans shall be made without interest and shall not exceed 80 per centum of the reasonable costs expected to be incurred in planning, and in obtaining financing for, such housing prior to the availability of financing, including, but not limited to, preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site acquisition, application and mortgage commitment fees, and construction loan fees and discounts. The Secretary shall require repayment of loans made under this subsection, under such terms and conditions as he may require, upon completion of the project or sooner, and may cancel any part or all of a loan if he determines that it cannot be recovered from the proceeds of any permanent loan made to finance the rehabilitation or construction of the housing.
 
 (2) The Secretary shall determine prior to the making of any loan that the nonprofit organization or public housing agency meets such requirements with respect to financial responsibility and stability as he may prescribe.
 
@@ -244,7 +244,7 @@
 
 #### (A) Designation of counseling target areas
 
-&emsp;&emsp;The Secretary shall designate 3 counseling target areas (as provided in subparagraph\(B)), which shall be located in not less than 2 separate metropolitan areas. The Secretary shall provide for counseling under the demonstration program under this subsection with respect to only such counseling target areas.
+&emsp;&emsp;The Secretary shall designate 3 counseling target areas (as provided in subparagraph (B)), which shall be located in not less than 2 separate metropolitan areas. The Secretary shall provide for counseling under the demonstration program under this subsection with respect to only such counseling target areas.
 
 #### (B) Counseling target areas
 
@@ -268,7 +268,7 @@
 
 #### (E) Designation of control areas
 
-&emsp;&emsp;For purposes of determining the effectiveness of counseling under the demonstration program, the Secretary shall designate 3 control areas, each of which shall correspond to 1 of the counseling target areas designated under subparagraph (A). Each control area shall be located in the metropolitan area in which the corresponding counseling target area is located, shall meet the requirements of subparagraph (B), and shall be similar to such area with respect to size, age of housing stock, median income, and racial makeup of the population. Each control area shall also comply with the requirements of subclause (I) or (II) of subparagraph (B)(iv), according to the subclause with which the corresponding counseling target area complies.
+&emsp;&emsp;For purposes of determining the effectiveness of counseling under the demonstration program, the Secretary shall designate 3 control areas, each of which shall correspondto 1 of the counseling target areas designated under subparagraph (A). Each control area shall be located in the metropolitan area in which the corresponding counseling target area is located, shall meet the requirements of subparagraph (B), and shall be similar to such area with respect to size, age of housing stock, median income, and racial makeup of the population. Each control area shall also comply with the requirements of subclause (I) or (II) of subparagraph (B)(iv), according to the subclause with which the corresponding counseling target area complies.
 
 #### (8) Evaluation
 

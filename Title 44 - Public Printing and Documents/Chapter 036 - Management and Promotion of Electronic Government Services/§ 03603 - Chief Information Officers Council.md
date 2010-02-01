@@ -40,7 +40,7 @@
 
 &emsp;(4) Promote the development and use of common performance measures for agency information resources management under this chapter and title II of the E-Government Act of 2002.
 
-&emsp;(5) Work as appropriate with the National Institute of Standards and Technology and the Administrator to develop recommendations on information technology standards developed under section 20 of the National Institute of Standards and Technology Act (15 U.S.C.278g–3) and promulgated under section 11331 of title 40, and maximize the use of commercial standards as appropriate, including the following:
+&emsp;(5) Work as appropriate with the National Institute of Standards and Technology and the Administrator to develop recommendations on information technology standards developed under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3) and promulgated under section 11331 of title 40, and maximize the use of commercial standards as appropriate, including the following:
 
 &emsp;&emsp;(A) Standards and guidelines for interconnectivity and interoperability as described under section 3504.
 

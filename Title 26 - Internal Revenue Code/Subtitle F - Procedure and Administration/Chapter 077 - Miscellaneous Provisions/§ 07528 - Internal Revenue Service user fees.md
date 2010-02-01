@@ -52,7 +52,7 @@ The Secretary shall establish a program requiring the payment of user fees forâ€
 
 #### (iii) Determination of average fees charged
 
-&emsp;&emsp;&emsp;For purposes of any determination of average fees charged, any request to which subparagraph (B) applies shall not be taken into account.
+&emsp;&emsp;&emsp;For purposes of any determination of average fees charged, any request to whichsubparagraph (B) applies shall not be taken into account.
 
 #### (3) Average fee requirement
 

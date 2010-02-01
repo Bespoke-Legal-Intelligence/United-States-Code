@@ -82,7 +82,7 @@ The Secretary of Agriculture shall consider the effects on significant thermal f
 
 Nothing in this chapter shall affect the ban on leasing under this chapter with respect to the Island Park Geothermal Area, as designated by the map in the “Final Environmental Impact Statement of the Island Park Geothermal Area” (January 15, 1980, p. XI), and provided for in Public Law 98–473.
 
-(Pub. L. 91–581, §28, as added Pub. L. 100–443, §6, Sept. 22, 1988, 102 Stat. 1769; amended Pub. L.106–510, §3(a)(2), (b)(2), Nov. 13, 2000, 114 Stat. 2363; Pub. L. 109–58, title II, §236(1), (26), Aug. 8, 2005, 119 Stat. 671, 673.)
+(Pub. L. 91–581, §28, as added Pub. L. 100–443, §6, Sept. 22, 1988, 102 Stat. 1769; amended Pub. L. 106–510, §3(a)(2), (b)(2), Nov. 13, 2000, 114 Stat. 2363; Pub. L. 109–58, title II, §236(1), (26), Aug. 8, 2005, 119 Stat. 671, 673.)
 
 #### References in Text
 

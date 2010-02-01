@@ -64,7 +64,7 @@ Par. (3). Pub. L. 99–272 struck out subpar. (A) relating to general revenue-sh
 
 #### Change of Name
 
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of Houseof Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1986 Amendment
 

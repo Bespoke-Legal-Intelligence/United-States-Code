@@ -20,7 +20,7 @@ The Secretary is authorized to enter into written agreements with any taxpayer u
 
 #### (3) Subsequent change in financial conditions
 
-&emsp;If the Secretary makes a determination that the financial condition of a taxpayer with whom the Secretary has entered into an agreement under subsection (a) has significantly changed, the Secretary may alter, modify, or terminate such agreement.
+&emsp;If the Secretary makes a determination that the financial condition of a taxpayer withwhom the Secretary has entered into an agreement under subsection (a) has significantly changed, the Secretary may alter, modify, or terminate such agreement.
 
 #### (4) Failure to pay an installment or any other tax liability when due or to provide requested financial information
 
@@ -74,7 +74,7 @@ The Secretary shall establish procedures for an independent administrative revie
 
 &emsp;&emsp;<b>For rights to administrative review and appeal, see section 7122(e).</b>
 
-(Added Pub. L. 100–647, title VI, §6234(a), Nov. 10, 1988, 102 Stat. 3735; amended Pub. L. 104–168, title II, §§201(a), (b), 202(a), July 30, 1996, 110 Stat. 1456, 1457; Pub. L. 105–206, title III, §§3462(c)(2), 3467(a), July 22, 1998, 112 Stat. 766, 769; Pub. L. 105–277, div. J, title IV, §4002(g), Oct. 21, 1998, 112Stat. 2681–907; Pub. L. 108–357, title VIII, §843(a), (b), Oct. 22, 2004, 118 Stat. 1600; Pub. L. 109–222, title V, §509(c), May 17, 2006, 120 Stat. 363.)
+(Added Pub. L. 100–647, title VI, §6234(a), Nov. 10, 1988, 102 Stat. 3735; amended Pub. L. 104–168, title II, §§201(a), (b), 202(a), July 30, 1996, 110 Stat. 1456, 1457; Pub. L. 105–206, title III, §§3462(c)(2), 3467(a), July 22, 1998, 112 Stat. 766, 769; Pub. L. 105–277, div. J, title IV, §4002(g), Oct. 21, 1998, 112 Stat. 2681–907; Pub. L. 108–357, title VIII, §843(a), (b), Oct. 22, 2004, 118 Stat. 1600; Pub. L. 109–222, title V, §509(c), May 17, 2006, 120 Stat. 363.)
 
 #### Amendments
 
@@ -120,7 +120,7 @@ Pub. L. 109–222, title V, §509(d), May 17, 2006, 120 Stat. 364, provided that
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §843(c), Oct. 22, 2004, 118 Stat. 1600, provided that: “The amendments made by this section \[amending this section\] shall apply to agreements entered into on or after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title VIII, §843(c), Oct. 22, 2004, 118 Stat. 1600, provided that: “The amendments made by this section \[amending this section\] shall apply toagreements entered into on or after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective Date of 1998 Amendments
 

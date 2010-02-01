@@ -104,7 +104,7 @@ Prior service described.—The service described in this paragraph is all servic
 
 “(c)
 
-Regulations.—The Office of Personnel Management shall prescribe any regulations necessary to carryout this section, including provisions relating to the time, form, and manner in which any election under this section shall be made. Such an election shall not be effective unless—
+Regulations.—The Office of Personnel Management shall prescribe any regulations necessary to carry out this section, including provisions relating to the time, form, and manner in which any election under this section shall be made. Such an election shall not be effective unless—
 
 &emsp;“(1) it is made before the employee separates from service with the Metropolitan Washington Airports Authority, but in no event later than 1 year after the regulations under this subsection take effect; and
 

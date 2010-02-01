@@ -14,13 +14,13 @@ There is established within the Foundation a National Endowment for the Arts.
 
 The Chairperson, with the advice of the National Council on the Arts, is authorized to establish and carry out a program of contracts with, or grants-in-aid or loans to, groups or, in appropriate cases, individuals of exceptional talent engaged in or concerned with the arts, for the purpose of enabling them to provide or support—
 
-&emsp;(1) projects and productions which have substantial national or international artistic and cultural significance, giving emphasis to American creativity and cultural diversityand to the maintenance and encouragement of professional excellence;
+&emsp;(1) projects and productions which have substantial national or international artistic and cultural significance, giving emphasis to American creativity and cultural diversity and to the maintenance and encouragement of professional excellence;
 
 &emsp;(2) projects and productions, meeting professional standards or standards of authenticity or tradition, irrespective of origin, which are of significant merit and which, without such assistance, would otherwise be unavailable to our citizens for geographic or economic reasons;
 
 &emsp;(3) projects and productions that will encourage and assist artists and enable them to achieve wider distribution of their works, to work in residence at an educational or cultural institution, or to achieve standards of professional excellence;
 
-&emsp;(4) projects and productions which have substantial artistic and cultural significance and that reach, or reflect the culture of, a minority, inner city, rural, or tribal community;
+&emsp;(4) projects and productions which have substantial artistic and cultural significance andthat reach, or reflect the culture of, a minority, inner city, rural, or tribal community;
 
 &emsp;(5) projects and productions that will encourage public knowledge, education, understanding, and appreciation of the arts;
 
@@ -64,7 +64,7 @@ Any group shall be eligible for financial assistance pursuant to this section on
 
 &emsp;(B) provides that funds paid to the State under this subsection will be expended solely on projects and productions approved by the State agency which carry out one or more of the objectives of subsection (c) of this section;
 
-&emsp;(C) provides that the State agency will make such reports, in such form and containing suchinformation, as the Chairperson may from time to time require, including a description of the progress made toward achieving the goals of the State plan;
+&emsp;(C) provides that the State agency will make such reports, in such form and containing such information, as the Chairperson may from time to time require, including a description of the progress made toward achieving the goals of the State plan;
 
 &emsp;(D) provides—
 
@@ -116,7 +116,7 @@ Whenever the Chairperson, after reasonable notice and opportunity for hearing, f
 
 #### (i) Application for financial assistance; requirements
 
-It shall be a condition of the receipt of financial assistance provided under this section bythe Chairperson or the State agency that the applicant for such assistance include in its application—
+It shall be a condition of the receipt of financial assistance provided under this section by the Chairperson or the State agency that the applicant for such assistance include in its application—
 
 &emsp;(1) a detailed description of the proposed project, production, workshop, or program for which the applicant requests such assistance;
 
@@ -228,7 +228,7 @@ The Chairperson shall correlate the programs of the National Endowment for the A
 
 #### (q) National information and data collection system on the arts, artists and art groups, and audiences; development and implementation plan; state of the arts reports
 
-The Chairperson of the National Endowment for the Arts shall, in ongoing consultation with State and local agencies, relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the arts, artists and arts groups, and their audiences. Such system shall include artistic and financial trends in the various artistic fields, trends in audience participation, and trends in arts education on national, regional, and State levels. Such system shallalso include information regarding the availability of the arts to various audience segments, including rural communities. Such system shall be used, along with a summary of the data submitted with State plans under subsection (g) of this section, to prepare a periodic report on the state of the arts in the Nation. The state of the arts report shall include a description of the availability of the Endowment's programs to emerging, rural, and culturally diverse artists, arts organizations, and communities and of the participation by such artists, organizations, and communities in such programs. The state of the arts report shall be submitted to the President and the Congress, and provided to the States, not later than October 1, 1992, and quadrennially thereafter.
+The Chairperson of the National Endowment for the Arts shall, in ongoing consultation with State and local agencies, relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the arts, artists and arts groups, and their audiences. Such system shall include artistic and financial trends in the various artistic fields, trends in audience participation, and trends in arts education on national, regional, and State levels. Such system shall also include information regarding the availability of the arts to various audience segments, including rural communities. Such system shall be used, along with a summary of the data submitted with State plans under subsection (g) of this section, to prepare a periodic report on the state of the arts in the Nation. The state of the arts report shall include a description of the availability of the Endowment's programs to emerging, rural, and culturally diverse artists, arts organizations, and communities and of the participation by such artists, organizations, and communities in such programs. The state of the arts report shall be submitted to the Presidentand the Congress, and provided to the States, not later than October 1, 1992, and quadrennially thereafter.
 
 (Pub. L. 89–209, §5, Sept. 29, 1965, 79 Stat. 846; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–348, §§2, 3, June 18, 1968, 82 Stat. 185; Pub. L. 91–346, §§4, 5(a)(1), (2), 6, 7, July 20, 1970, 84 Stat. 443, 445; Pub. L. 93–133, §2(a)(3), (4), Oct. 19, 1973, 87 Stat. 462; Pub. L. 94–462, title I, §§101, 102, title III, §301(a), title IV, §401(a), Oct. 8, 1976, 90 Stat. 1971, 1978, 1980; Pub. L. 96–496, title I, §§102, 109(a), (b), Dec. 4, 1980, 94 Stat. 2583, 2591; renumbered title I, §5, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §5 and amended Pub. L. 99–194, title I, §§101(1), 105, Dec. 20, 1985, 99 Stat. 1332, 1333; Pub. L. 101–512, title III, §318 \[title I, §§103(a)–(i)(1), 104\], Nov. 5, 1990, 104 Stat. 1960, 1963–1966.)
 
@@ -368,7 +368,7 @@ Subsec. (f). Pub. L. 90–348, §2(a), provided that contracts as well as grants
 
 Subsec. (h)(3). Pub. L. 90–348, §3, substituted “Funds appropriated to carry out the purpose of this subsection” for “The funds appropriated pursuant to section 960(c) of this title”.
 
-Subsec. (h)(5). Pub. L. 90–348, §3, struck out provision that amounts available to the National Endowment for the Arts at the end of the fiscal year shall be limited to the excess of the value of gifts, bequests, and devises received by the Endowment over the amounts appropriated to the Endowment, the appropriated amounts to be equal to the amounts received by the Endowment in the form of donations, bequests, and devises, but not to exceed $2,250,000.
+Subsec. (h)(5). Pub. L. 90–348, §3, struck out provision that amounts available to the National Endowment forthe Arts at the end of the fiscal year shall be limited to the excess of the value of gifts, bequests, and devises received by the Endowment over the amounts appropriated to the Endowment, the appropriated amounts to be equal to the amounts received by the Endowment in the form of donations, bequests, and devises, but not to exceed $2,250,000.
 
 Subsecs. (j), (k). Pub. L. 90–348, §2(b), inserted “of exceptional talent” after “the group or individual”.
 

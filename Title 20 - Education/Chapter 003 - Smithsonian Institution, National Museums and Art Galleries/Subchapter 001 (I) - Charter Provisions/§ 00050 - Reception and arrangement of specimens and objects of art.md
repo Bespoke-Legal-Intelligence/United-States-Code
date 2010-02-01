@@ -8,6 +8,18 @@ Whenever suitable arrangements can be made from time to time for their reception
 
 R.S. §5586 derived from act Aug. 10, 1846, ch. 178, §6, 9 Stat. 105.
 
+#### Laboratory Space, Gamboa, Panama
+
+Pub. L. 111–11, title XV, §15102, Mar. 30, 2009, 123 Stat. 1456, provided that:
+
+“(a)
+
+Authority To Construct.—The Board of Regents of the Smithsonian Institution is authorized to construct laboratory space to accommodate the terrestrial research program of the Smithsonian tropical research institute in Gamboa, Panama.
+
+“(b)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section a total of $14,000,000 for fiscal years 2009 and 2010. Such sums shall remain available until expended.”
+
 #### Veritas Astrophysical Observatory Project; Authorization of Construction and Appropriations
 
 Pub. L. 108–331, Oct. 16, 2004, 118 Stat. 1281, as amended by Pub. L. 110–341, §1(2), Oct. 3, 2008, 122 Stat. 3738, provided that:
@@ -50,7 +62,7 @@ Pub. L. 106–383, Oct. 27, 2000, 114 Stat. 1459, provided that:
 
 #### “SECTION 1. FACILITY AUTHORIZED.
 
-“The Board of Regents of the Smithsonian Institution is authorized to plan, design, construct, and equip laboratory, administrative, and support space to housebase operations for the Smithsonian Astrophysical Observatory Submillimeter Array located on Mauna Kea at Hilo, Hawaii.
+“The Board of Regents of the Smithsonian Institution is authorized to plan, design, construct, and equip laboratory, administrative, and support space to house base operations for the Smithsonian Astrophysical Observatory Submillimeter Array located on Mauna Kea at Hilo, Hawaii.
 
 #### “SEC. 2. AUTHORIZATION OF APPROPRIATIONS.
 
@@ -116,6 +128,16 @@ Pub. L. 101–455, Oct. 24, 1990, 104 Stat. 1067, as amended by Pub. L. 103–98
 
 #### Charles McC. Mathias, Jr. Laboratory for Environmental Research
 
+Pub. L. 111–11, title XV, §15101, Mar. 30, 2009, 123 Stat. 1456, provided that:
+
+“(a)
+
+Authority To Design and Construct.—The Board of Regents of the Smithsonian Institution is authorized to design and construct laboratory and support space to accommodate the Mathias Laboratory at the Smithsonian Environmental Research Center in Edgewater, Maryland.
+
+“(b)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section a total of $41,000,000 for fiscal years 2009 through 2011. Such sums shall remain available until expended.”
+
 Pub. L. 99–617, §1, Nov. 6, 1986, 100 Stat. 3488, provided that:
 
 “(a)
@@ -173,6 +195,16 @@ Pub. L. 96–36, July 20, 1979, 93 Stat. 94, provided: “That the Board of Rege
 “Sec. 3. Any portion of the sums appropriated to carry out the purposes of this Act may be transferred to the General Services Administration which, in consultation with the Smithsonian Institution, is authorized to enter into contracts and take such other action, to the extent of the sums so transferred to it, as may be necessary to carry out such purposes.”
 
 #### Smithsonian Institution Plans for and Construction of Museum Support Facilities; Approval of Plans and Specifications; Situs; Transfer of Land; Appropriations; Contracts by General Services Administration
+
+Pub. L. 111–11, title XV, §15103, Mar. 30, 2009, 123 Stat. 1456, provided that:
+
+“(a)
+
+In General.—The Board of Regents of the Smithsonian Institution is authorized to construct a greenhouse facility at its museum support facility in Suitland, Maryland, to maintain the horticultural operations of, and preserve the orchid collection held in trust by, the Smithsonian Institution.
+
+“(b)
+
+Authorization of Appropriations.—There is authorized to be appropriated $12,000,000 to carry out this section. Such sums shall remain available until expended.”
 
 Pub. L. 94–98, Sept. 19, 1975, 89 Stat. 480, as amended by Pub. L. 95–569, Nov. 2, 1978, 92 Stat. 2444; Pub. L. 108–72, §2, Aug. 15, 2003, 117 Stat. 888, provided that: “The Regents of the Smithsonian Institution are authorized to prepare plans for, and to construct, museum support facilities to be used for (1) the care, curation, conservation, deposit, preparation, and study of the national collections of scientific, historic, and artistic objects, specimens, and artifacts; (2) the related documentation of such collections of the Smithsonian Institution; and (3) the training of museum conservators. No appropriation shall be made to construct the facilities authorized by this Act until the Committee on Public Works and Transportation of the House of Representatives and the Committee on Rules and Administration of the Senate, by resolution approve the final plans and specifications of such facilities.
 

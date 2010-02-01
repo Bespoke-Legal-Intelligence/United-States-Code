@@ -16,7 +16,7 @@
 
 (c) In determining the scope of a proposed military construction project, the Secretary concerned shall submit to the President such recommendations as the Secretary considers to be appropriate regarding the incorporation and inclusion of life-cycle cost-effective practices as an element in the project documents submitted to Congress in connection with the budget submitted pursuant to section 1105 of title 31 for the fiscal year in which a contract is proposed to be awarded for the project.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 154; Pub. L. 110–181, div. B, title XXVIII, §2802(a), Jan. 28, 2008, 122 Stat. 539; Pub. L. 110–417, div. B, title XXVIII, §2801(b), Oct. 14, 2008, 122 Stat. 4719.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 154; amended Pub. L. 110–181, div. B, title XXVIII, §2802(a), Jan. 28, 2008, 122 Stat. 539; Pub. L. 110–417, div. B, title XXVIII, §2801(b), Oct. 14, 2008, 122 Stat. 4719.)
 
 #### Amendments
 

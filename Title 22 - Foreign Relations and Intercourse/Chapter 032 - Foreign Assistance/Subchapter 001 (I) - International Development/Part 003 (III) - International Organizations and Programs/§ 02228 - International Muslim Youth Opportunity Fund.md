@@ -44,7 +44,7 @@ The purpose of this section is to strengthen the public educational systems in p
 
 &emsp;&emsp;(i) The establishment of training programs for teachers and educational administrators to enhance skills, including the establishment of regional centers to train individuals who can transfer such skills upon return to their countries.
 
-&emsp;&emsp;(ii) The establishment of exchange programs for teachers and administrators inpredominantly Muslim countries and with other countries to stimulate additional ideas and reform throughout the world, including teacher training exchange programs focused on primary school teachers in such countries.
+&emsp;&emsp;(ii) The establishment of exchange programs for teachers and administrators in predominantly Muslim countries and with other countries to stimulate additional ideas and reform throughout the world, including teacher training exchange programs focused on primary school teachers in such countries.
 
 &emsp;&emsp;(iii) The establishment of exchange programs for primary and secondary students in predominantly Muslim countries and with other countries to foster understanding and tolerance and to stimulate long-standing relationships.
 
@@ -82,7 +82,7 @@ The purpose of this section is to strengthen the public educational systems in p
 
 #### (6) Report to Congress
 
-&emsp;Not later than 180 days after August 3, 2007, and annually thereafter until January 30, 2010, the President shall submit to the appropriate congressional committees a report on United States efforts to assist in the improvement of educational opportunities for predominantly Muslim children and youths, including the progress made toward establishing the International Muslim Youth Opportunity Fund.
+&emsp;Not later than 180 days after August 3, 2007, and annually thereafter until January 30, 2010,the President shall submit to the appropriate congressional committees a report on United States efforts to assist in the improvement of educational opportunities for predominantly Muslim children and youths, including the progress made toward establishing the International Muslim Youth Opportunity Fund.
 
 #### (7) Appropriate congressional committees defined
 

@@ -38,7 +38,7 @@ The Secretary shall, with respect to the financial operations arising by reason 
 
 #### (2) Collection and reporting requirements
 
-&emsp;(A) The Secretary shall collect data under this subsection from all insurers under this part and shall publish not less often than once every fiscal year a report showing loan volume guaranteed and default data for each categoryspecified in subparagraph (B) of paragraph (1) of this subsection and for the total of all lenders.
+&emsp;(A) The Secretary shall collect data under this subsection from all insurers under this part and shall publish not less often than once every fiscal year a report showing loan volume guaranteed and default data for each category specified in subparagraph (B) of paragraph (1) of this subsection and for the total of all lenders.
 
 &emsp;(B) The reports specified in subparagraph (A) of this paragraph shall include a separate report for each insurer under this part including the Secretary, and where an insurer insures loans for lenders in more than one State, such insurer's report shall list all data separately for each State.
 
@@ -210,7 +210,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (2) Length of emergency action
 
-&emsp;An emergency action under this subsection may not exceed 30 days unless a limitation, suspension, or termination proceeding is initiated against the lender under subsection (h) of this section before the expiration of that period.
+&emsp;An emergency action under this subsection may not exceed 30 days unless a limitation,suspension, or termination proceeding is initiated against the lender under subsection (h) of this section before the expiration of that period.
 
 #### (3) Opportunity to show cause
 
@@ -228,7 +228,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (3) Recommendation
 
-&emsp;The Secretary shall recommend to the appropriate committees in the Senate and House of Representatives changes to statutes thatcould be made in order to further encourage such efforts.
+&emsp;The Secretary shall recommend to the appropriate committees in the Senate and House of Representatives changes to statutes that could be made in order to further encourage such efforts.
 
 #### (<i>l</i>) Uniform administrative and claims procedures
 
@@ -288,9 +288,9 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 &emsp;&emsp;The forms prescribed by the Secretary shall—
 
-&emsp;&emsp;&emsp;(i) use clear, concise, and simple language to facilitate understanding of loan terms and conditions by applicants;
+&emsp;&emsp;&emsp;(i) use clear, concise, and simple language to facilitate understanding of loan terms and conditions by applicants; and
 
-&emsp;&emsp;&emsp;(ii) be formatted to require the applicant to clearly indicate a choice of lender; and <sup>2</sup>
+&emsp;&emsp;&emsp;(ii) be formatted to require the applicant to clearly indicate a choice of lender.
 
 #### (C) Free application form
 
@@ -368,7 +368,7 @@ In the event that the Secretary has determined that a guaranty agency is unable 
 
 All officers and directors, and those employees and paid consultants of eligible institutions, eligible lenders, guaranty agencies, loan servicing agencies, accrediting agencies or associations, State licensing agencies or boards, and entities acting as secondary markets (including the Student Loan Marketing Association), who are engaged in making decisions as to the administration of any program or funds under this subchapter and part C of subchapter I of chapter 34 of title 42 or as to the eligibility of any entity or individual to participate under this subchapter and part C of subchapter I of chapter 34 of title 42, shall report to the Secretary, in such manner and at such time as the Secretary shall require, on any financial interest which such individual may hold in any other entity participating in any program assisted under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
-(Pub. L. 89–329, title IV, §432, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1401; amended Pub. L. 100–50, §10(x), (y), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2006(a), Dec. 19, 1989, 103 Stat. 2118; Pub. L. 102–325, title IV, §425, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(k)(2), (3), Dec. 20, 1993, 107 Stat. 2485; Pub. L. 104–66, title I, §1042(e), Dec. 21, 1995, 109 Stat. 716; Pub. L. 105–244, title IV, §427, Oct. 7, 1998, 112 Stat. 1702; Pub. L. 106–554, §1(a)(1) \[title III, §311\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46; Pub. L. 109–171, title VIII, §8014(j), Feb. 8, 2006, 120 Stat. 171; Pub. L. 110–315, title I, §103(b)(6), title IV, §433, Aug. 14, 2008, 122 Stat. 3089, 3247.)
+(Pub. L. 89–329, title IV, §432, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1401; amended Pub. L. 100–50, §10(x), (y), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2006(a), Dec. 19, 1989, 103 Stat. 2118; Pub. L. 102–325, title IV, §425, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(k)(2), (3), Dec. 20, 1993, 107 Stat. 2485; Pub. L. 104–66, title I, §1042(e), Dec. 21, 1995, 109 Stat. 716; Pub. L. 105–244, title IV, §427, Oct. 7, 1998, 112 Stat. 1702; Pub. L. 106–554, §1(a)(1) \[title III, §311\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46; Pub. L. 109–171, title VIII, §8014(j), Feb. 8, 2006, 120 Stat. 171; Pub. L. 110–315, title I, §103(b)(6), title IV, §433, Aug. 14, 2008, 122 Stat. 3089, 3247; Pub. L. 111–39, title IV, §402(f)(9), July 1, 2009, 123 Stat. 1944.)
 
 #### References in Text
 
@@ -384,6 +384,10 @@ A prior section 1082, Pub. L. 89–329, title IV, §432, Nov. 8, 1965, 79 Stat. 
 
 #### Amendments
 
+2009—Subsec. (b). Pub. L. 111–39, §402(f)(9)(A), made technical amendment to reference in original act which appears in text as reference to section 1078 of this title.
+
+Subsec. (m)(1)(B). Pub. L. 111–39, §402(f)(9)(B), in cl. (i), inserted “and” at end and, in cl. (ii), substituted period for “; and”.
+
 2008—Subsec. (b). Pub. L. 110–315, §433(a), inserted at end “The Secretary may not enter into any settlement of any claim under this subchapter and part C of subchapter I of chapter 34 of title 42 that exceeds $1,000,000 unless—” and pars. (1) and (2).
 
 Subsec. (f)(1)(C). Pub. L. 110–315, §103(b)(6)(A), substituted “either of the authorizing committees” for “the Committee on Education and the Workforce of the House of Representatives or the Committee on Labor and Human Resources of the Senate”.
@@ -394,7 +398,7 @@ Subsec. (n)(3). Pub. L. 110–315, §103(b)(6)(B), substituted “authorizing co
 
 2006—Subsec. (<i>l</i>)(1)(H). Pub. L. 109–171 inserted “and anticipated graduation date” after “status change”.
 
-2000—Subsec. (m)(1)(D)(iv). Pub. L. 106–554, §1(a)(1) \[title III, §311(1)\], struck out heading and text of cl. (iv). Text read as follows: “Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in loans made under this part created on behalf of any eligible lender as defined in section 1085(d) of this title may be perfected either through the taking of possession of such loans (which can be through taking possession of an original or copy of the master promissory note) or by the filing of notice of such security interest in such loans in the manner provided by such State law for perfection of security interests in accounts.”
+2000—Subsec. (m)(1)(D)(iv). Pub. L. 106–554, §1(a)(1) \[title III, §311(1)\], struck out heading and text of cl. (iv). Text read as follows: “Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in loans made under this part created on behalf of any eligible lender as defined in section 1085(d) of this title may be perfected either through the taking of possession of such loans (which can be through taking possession of an original or copy of the master promissory note) or by the filing of notice ofsuch security interest in such loans in the manner provided by such State law for perfection of security interests in accounts.”
 
 Subsec. (m)(1)(E). Pub. L. 106–554, §1(a)(1) \[title III, §311(2)\], added subpar. (E).
 
@@ -468,9 +472,13 @@ Subsecs. (k) to (p). Pub. L. 102–325, §425(e), added subsecs. (k) to (p).
 
 Subsec. (g)(2)(A)(i), (B). Pub. L. 100–50, §10(y), substituted “misrepresentation” for “representation”.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub.L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -485,6 +493,4 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. The “; and” probably should be a period.</i>
 

@@ -6,7 +6,7 @@ In carrying out section 45102 of this title, the Administrator of the Federal Av
 
 &emsp;(2) for laboratories and testing procedures for controlled substances, incorporate the Department of Health and Human Services scientific and technical guidelines dated April 11, 1988, and any amendments to those guidelines, including mandatory guidelines establishing—
 
-&emsp;&emsp;(A) comprehensive standards for every aspect of laboratory controlled substancestesting and laboratory procedures to be applied in carrying out this chapter, including standards requiring the use of the best available technology to ensure the complete reliability and accuracy of controlled substances tests and strict procedures governing the chain of custody of specimens collected for controlled substances testing;
+&emsp;&emsp;(A) comprehensive standards for every aspect of laboratory controlled substances testing and laboratory procedures to be applied in carrying out this chapter, including standards requiring the use of the best available technology to ensure the complete reliability and accuracy of controlled substances tests and strict procedures governing the chain of custody of specimens collected for controlled substances testing;
 
 &emsp;&emsp;(B) the minimum list of controlled substances for which individuals may be tested; and
 

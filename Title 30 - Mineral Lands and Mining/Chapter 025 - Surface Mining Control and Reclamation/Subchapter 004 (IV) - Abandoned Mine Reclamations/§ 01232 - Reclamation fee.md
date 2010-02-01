@@ -40,7 +40,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;&emsp;(i) an <sup>2</sup> approved abandoned mine reclamation program pursuant to section 1235 of this title.
 
-&emsp;&emsp;(ii) Lands and waters which are eligible pursuant to section 1234 of this title (in the case of an Indian tribe not certified under section 1240a(a) of this title) or pursuant to section 1240a(b) of this title (in the case of a tribe certified under section 1240a(a) of this title).
+&emsp;&emsp;(ii) Lands and waters which are eligible pursuant to section 1234 of this title (in the case of an Indian tribe not certified undersection 1240a(a) of this title) or pursuant to section 1240a(b) of this title (in the case of a tribe certified under section 1240a(a) of this title).
 
 &emsp;(C) The funds allocated by the Secretary under this paragraph to States and Indian tribes shall only be used for annual reclamation project construction and program administration grants.
 
@@ -64,7 +64,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 (B) Funds made available under this paragraph may be used for reclamation or drainage abatement at a site referred to in subparagraph (A) if the Secretary makes either of the following findings:
 
-&emsp;(i) A finding that the surface coal mining operation occurred during the period beginning on August 4, 1977, and ending on or before the date on which the Secretary approved a State program pursuant to section 1253 of this title for a State in which the site is located, and that any funds for reclamation or abatement which are available pursuant to a bond or other form of financial guarantee or from anyother source are not sufficient to provide for adequate reclamation or abatement at the site.
+&emsp;(i) A finding that the surface coal mining operation occurred during the period beginning on August 4, 1977, and ending on or before the date on which the Secretary approved a State program pursuant to section 1253 of this title for a State in which the site is located, and that any funds for reclamation or abatement which are available pursuant to a bond or other form of financial guarantee or from any other source are not sufficient to provide for adequate reclamation or abatement at the site.
 
 &emsp;(ii) A finding that the surface coal mining operation occurred during the period beginning on August 4, 1977, and ending on or before November 5, 1990, and that the surety of such mining operator became insolvent during such period, and as of November 5, 1990, funds immediately available from proceedings relating to such insolvency, or from any financial guarantee or other source are not sufficient to provide for adequate reclamation or abatement at the site.
 
@@ -78,7 +78,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 (5)(A) The Secretary shall allocate 60 percent of the amount in the fund after making the allocation referred to in paragraph (1) for making additional annual grants to States and Indian tribes which are not certified under section 1240a(a) of this title to supplement grants received by such States and Indian tribes pursuant to paragraph (1)(C) until the priorities stated in paragraphs (1) and (2) of section 1233(a) of this title have been achieved by such State or Indian tribe. The allocation of such funds for the purpose of making such expenditures shall be through a formula based on the amount of coal historically produced in the State or from the Indian lands concerned prior to August 3, 1977. Funds made available under paragraph (3) or (4) of this subsection for any State or Indian tribe shall not be deducted against any allocation of funds to the State or Indian tribe under paragraph (1) or under this paragraph.
 
-(B) Any amount that is reallocated and available under section 1240a(h)(3) of this title shall be in addition to amounts that are allocated under subparagraph (A).
+(B) Any amount that is reallocated and available under section 1240a(h)(3) of this title shallbe in addition to amounts that are allocated under subparagraph (A).
 
 (6)(A) Any State with an approved abandoned mine reclamation program pursuant to section 1235 of this title may receive and retain, without regard to the 3-year limitation referred to in paragraph (1)(D), up to 30 percent of the total of the grants made annually to the State under paragraphs (1) and (5) if those amounts are deposited into an acid mine drainage abatement and treatment fund established under State law, from which amounts (together with all interest earned on the amounts) are expended by the State for the abatement of the causes and the treatment of the effects of acid mine drainage in a comprehensive manner within qualified hydrologic units affected by coal mining practices.
 
@@ -134,7 +134,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;&emsp;&emsp;(ii) the amount that the trustees of the 1992 UMWA Benefit Plan estimate the 1992 UMWA Benefit Plan will receive during the next calendar year in—
 
-&emsp;&emsp;&emsp;&emsp;(I) required monthly per beneficiary premiums, including the amount of any security provided to the 1992 UMWA Benefit Plan that is available for use in the provision of benefits; and
+&emsp;&emsp;&emsp;&emsp;(I) required monthly per beneficiary premiums, including the amount of anysecurity provided to the 1992 UMWA Benefit Plan that is available for use in the provision of benefits; and
 
 &emsp;&emsp;&emsp;&emsp;(II) payments paid by Federal agencies in connection with benefits provided by the 1992 UMWA Benefit Plan.
 
@@ -164,7 +164,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;&emsp;&emsp;(i) shall be held in reserve by the Secretary until such time as necessary to make the payments under subparagraphs (A) and (B) of subsection (i)(1), as described in clause (ii); and
 
-&emsp;&emsp;&emsp;(ii) in the event that the amounts described in subsection (i)(1) are insufficient to make the maximum payments described in subparagraphs (A) and (B) of subsection\(i)(1), shall be used by the Secretary to supplement the payments so that the maximum amount permitted under those paragraphs is paid.
+&emsp;&emsp;&emsp;(ii) in the event that the amounts described in subsection (i)(1) are insufficient to make the maximum payments described in subparagraphs (A) and (B) of subsection (i)(1), shall be used by the Secretary to supplement the payments so that the maximum amount permitted under those paragraphs is paid.
 
 #### (B) Previously allocated amounts
 
@@ -242,7 +242,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;Subject to paragraph (3), out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the plans described in subsection (h)(2) such sums as are necessary to pay the following amounts:
 
-&emsp;&emsp;(A) To the Combined Fund (as defined in section 9701(a)(5) of title 26 and referred to in this paragraph as the “Combined Fund”), the amount that the trustees of the Combined Fund estimate will be expended from premium accounts maintained by the Combined Fund for the fiscal year to providebenefits for beneficiaries who are unassigned beneficiaries solely as a result of the application of section 9706(h)(1) of title 26, subject to the following limitations:
+&emsp;&emsp;(A) To the Combined Fund (as defined in section 9701(a)(5) of title 26 and referred to in this paragraph as the “Combined Fund”), the amount that the trustees of the Combined Fund estimate will be expended from premium accounts maintained by the Combined Fund for the fiscal year to provide benefits for beneficiaries who are unassigned beneficiaries solely as a result of the application of section 9706(h)(1) of title 26, subject to the following limitations:
 
 &emsp;&emsp;&emsp;(i) For fiscal year 2008, the amount paid under this subparagraph shall equal—
 
@@ -350,7 +350,7 @@ Subsec. (h). Pub. L. 102–486, §19143(b)(2), added subsec. (h).
 
 1990—Subsec. (b). Pub. L. 101–508, §6003(a), substituted “ending September 30, 1995” for “ending fifteen years after August 3, 1977, unless extended by an Act of Congress”.
 
-Subsec. (c). Pub. L. 101–508, §6003(b), inserted at end “Such statement shall include an identification of the permittee of the surface coal mining operation, any operator in addition to the permittee, the owner of the coal, the preparation plant, tripple, or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under section 1256 of this title and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.”
+Subsec. (c). Pub. L. 101–508, §6003(b), inserted at end “Such statement shall include an identification of thepermittee of the surface coal mining operation, any operator in addition to the permittee, the owner of the coal, the preparation plant, tripple, or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under section 1256 of this title and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.”
 
 Subsec. (d). Pub. L. 101–508, §6003(c), designated existing provisions as par. (1) and added par. (2).
 

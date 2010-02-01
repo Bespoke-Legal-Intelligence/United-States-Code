@@ -56,7 +56,7 @@ Period of availability.—Funds authorized to carry out this section shall remai
 
 &emsp;(8)
 
-Use of surface transportation program funding.—In addition to funds madeavailable to carry out this section, a State may expend up to 1/4 of 1 percent of the funds apportioned to the State for a fiscal year under section 104(b)(3) on initiatives to halt the evasion of payment of motor fuel taxes.
+Use of surface transportation program funding.—In addition to funds made available to carry out this section, a State may expend up to 1/4 of 1 percent of the funds apportioned to the State for a fiscal year under section 104(b)(3) on initiatives to halt the evasion of payment of motor fuel taxes.
 
 &emsp;(9)
 
@@ -78,7 +78,7 @@ In general.—Not later than 90 days after the date of enactment of the SAFETEA�
 
 &emsp;&emsp;(D) the collection, analysis, and sharing of information on fuel distribution and compliance or noncompliance with fuel taxes, and
 
-&emsp;&emsp;(E) the development, completion, operation, and maintenance of an electronic claims filing system and database and an electronic database of heavy vehicle highway use payments.
+&emsp;&emsp;(E) the development, completion, operation, and maintenance of an electronicclaims filing system and database and an electronic database of heavy vehicle highway use payments.
 
 &emsp;(2)
 
@@ -150,7 +150,7 @@ Pub. L. 102–240, title VIII, §8002(g), (h), Dec. 18, 1991, 105 Stat. 2204, 22
 
 “(g)
 
-Use of Revenues for Enforcement of Highway Trust Fund Taxes.—The Secretary of Transportation shall not impose any condition on the use of funds transferred under section 143 of title 23, United States Code, to the Internal Revenue Service. The Secretary of the Treasury shall, at least 60 days before the beginning of each fiscal year (after fiscal year 1992) for which such funds are to be transferred, submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate detailing the increased enforcement activities to be financed with such funds with respect to taxes referred to in section 9503(b)(1) of the Internal Revenue Code of 1986 \[26 U.S.C. 9503(b)(1)\].
+Use of Revenues for Enforcement of Highway Trust Fund Taxes.—The Secretary of Transportation shall not impose any condition on the use of funds transferred under section 143 of title 23, United States Code, to the Internal Revenue Service. The Secretaryof the Treasury shall, at least 60 days before the beginning of each fiscal year (after fiscal year 1992) for which such funds are to be transferred, submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate detailing the increased enforcement activities to be financed with such funds with respect to taxes referred to in section 9503(b)(1) of the Internal Revenue Code of 1986 \[26 U.S.C. 9503(b)(1)\].
 
 “\[(h) Repealed. Pub. L. 105–178, title I, §1114(b)(3)(B), June 9, 1998, 112 Stat. 154.\]”
 

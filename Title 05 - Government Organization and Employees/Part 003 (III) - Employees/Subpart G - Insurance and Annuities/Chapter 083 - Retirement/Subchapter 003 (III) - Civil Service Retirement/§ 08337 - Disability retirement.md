@@ -126,7 +126,7 @@ Subsec. (g). Pub. L. 100–238 added subsec. (g) and struck out former subsec. (
 
 &emsp;“(1) refund to the Department of Labor the amount representing the commuted compensation payments for the extended period; or
 
-&emsp;“(2) authorize the deduction of that amount from the annuity payable to him under this subchapter, which amount shall be transmitted to the Department of Labor for reimbursement to the Employees’ Compensation Fund.
+&emsp;“(2) authorize the deduction of that amount from the annuity payable to him under this subchapter,which amount shall be transmitted to the Department of Labor for reimbursement to the Employees’ Compensation Fund.
 
 > Deductions from the annuity may be made from accrued and accruing payments. When the Department of Labor finds that the financial circumstances of the annuitant warrant deferred refunding, deductions from the annuity may be prorated against and paid from accruing payments in such manner as that Department determines.”
 
@@ -154,7 +154,7 @@ Section 124(c) of Pub. L. 100–238 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 8464a of this title, amending this section, renumbering section 8457 of this title as section 8456, and repealingformer section 8456 of this title\] shall be effective as of January 1, 1987, and shall apply with respect to benefits payable based on a death or disability occurring on or after that date.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 8464a of this title, amending this section, renumbering section 8457 of this title as section 8456, and repealing former section 8456 of this title\] shall be effective as of January 1, 1987, and shall apply with respect to benefits payable based on a death or disability occurring on or after that date.
 
 “(2)
 

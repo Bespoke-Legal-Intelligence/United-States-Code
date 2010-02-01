@@ -30,7 +30,7 @@ Conditions.—Prior to the establishment of a preinspection station, the Attorne
 
 &emsp;(B) such employees and their families will not be subject to unreasonable risks to their welfare and safety; and
 
-&emsp;(C) the country in which the preinspection station is to be established maintains practices and procedures with respect to asylum seekers and refugees in accordance with the Convention Relating to the Status of Refugees (done at Geneva, July 28, 1951), or the Protocol Relating to the Status of Refugees (done atNew York, January 31, 1967), or that an alien in the country otherwise has recourse to avenues of protection from return to persecution.
+&emsp;(C) the country in which the preinspection station is to be established maintains practices and procedures with respect to asylum seekers and refugees in accordance with the Convention Relating to the Status of Refugees (done at Geneva, July 28, 1951), or the Protocol Relating to the Status of Refugees (done at New York, January 31, 1967), or that an alien in the country otherwise has recourse to avenues of protection from return to persecution.
 
 #### (b) Establishment of carrier consultant program and immigration security initiative
 

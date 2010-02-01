@@ -38,7 +38,7 @@ In any action brought under subsection (a), upon a finding of liability on the p
 
 #### (d) Period for bringing action
 
-Notwithstanding any other provision of law, an action to enforce any liability created under this section may be brought, without regard to the amount in controversy, at any time within 2 years after the date of discovery by the plaintiff of the unauthorized inspection or disclosure.
+Notwithstanding any other provision of law, an action to enforce any liability created under this section may be brought, without regard tothe amount in controversy, at any time within 2 years after the date of discovery by the plaintiff of the unauthorized inspection or disclosure.
 
 #### (e) Notification of unlawful inspection and disclosure
 

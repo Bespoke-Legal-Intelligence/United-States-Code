@@ -1,6 +1,6 @@
 ### §3311. Destruction of records outside continental United States in time of war or when hostile action seems imminent; written report to Archivist
 
-During a state of war between the United States and another nation, or when hostile action by a foreign power appears imminent, the head of an agency of the United States Government may authorize the destruction of recordsin his legal custody situated in a military or naval establishment, ship, or other depository outside the territorial limits of continental United States—
+During a state of war between the United States and another nation, or when hostile action by a foreign power appears imminent, the head of an agency of the United States Government may authorize the destruction of records in his legal custody situated in a military or naval establishment, ship, or other depository outside the territorial limits of continental United States—
 
 &emsp;(1) the retention of which would be prejudicial to the interests of the United States or
 

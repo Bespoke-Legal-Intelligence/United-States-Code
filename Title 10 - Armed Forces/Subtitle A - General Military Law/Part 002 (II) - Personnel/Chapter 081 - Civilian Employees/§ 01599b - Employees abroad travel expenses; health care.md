@@ -10,7 +10,7 @@ Travel and Related Expenses.—The Secretary of Defense may pay travel expenses 
 
 (c)
 
-Health Care Program.—The Secretary of Defense may establish a health care program that is comparable to the health care programestablished by the Secretary of State under section 904 of the Foreign Service Act of 1980 (22 U.S.C. 4084).
+Health Care Program.—The Secretary of Defense may establish a health care program that is comparable to the health care program established by the Secretary of State under section 904 of the Foreign Service Act of 1980 (22 U.S.C. 4084).
 
 (d)
 

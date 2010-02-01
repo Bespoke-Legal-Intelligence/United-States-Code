@@ -10,7 +10,7 @@ Within 1 year after October 24, 1992, and annually thereafter, the Secretary sha
 
 #### (c) Savings provision
 
-This section may not be construed to authorize the Secretary to take any action in violation of the multilateral trade agreements (as defined in section 3501(4) of title 19) or the North American Free Trade Agreement.
+This section may not be construed to authorize the Secretary to take any action in violationof the multilateral trade agreements (as defined in section 3501(4) of title 19) or the North American Free Trade Agreement.
 
 (Pub. L. 102–486, title X, §1017, Oct. 24, 1992, 106 Stat. 2950; Pub. L. 106–36, title I, §1002(g)(2), June 25, 1999, 113 Stat. 133.)
 

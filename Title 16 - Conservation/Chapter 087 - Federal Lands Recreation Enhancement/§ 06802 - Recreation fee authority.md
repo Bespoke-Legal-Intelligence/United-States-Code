@@ -16,7 +16,7 @@ Recreation fees shall be established in a manner consistent with the following c
 
 &emsp;(4) The Secretary shall consider the public policy or management objectives served by the recreation fee.
 
-&emsp;(5) The Secretary shall obtain input from the appropriate Recreation Resource AdvisoryCommittee, as provided in section 6803(d) of this title.
+&emsp;(5) The Secretary shall obtain input from the appropriate Recreation Resource Advisory Committee, as provided in section 6803(d) of this title.
 
 &emsp;(6) The Secretary shall consider such other factors or criteria as determined appropriate by the Secretary.
 
@@ -96,7 +96,7 @@ The Secretary shall establish the minimum number of recreation fees and shall av
 
 #### (f) Standard amenity recreation fee
 
-Except as limited by subsection (d), the Secretary may charge a standard amenity recreation fee for Federal recreational lands and waters under the jurisdiction of the Bureau of LandManagement, the Bureau of Reclamation, or the Forest Service, but only at the following:
+Except as limited by subsection (d), the Secretary may charge a standard amenity recreation fee for Federal recreational lands and waters under the jurisdiction of the Bureau of Land Management, the Bureau of Reclamation, or the Forest Service, but only at the following:
 
 &emsp;(1) A National Conservation Area.
 
@@ -158,7 +158,7 @@ Except as limited by subsection (d), the Secretary may charge a standard amenity
 
 &emsp;&emsp;(B) Use of highly developed boat launches with specialized facilities or services such as mechanical or hydraulic boat lifts or facilities, multi-lane paved ramps, paved parking, restrooms and other improvements such as boarding floats, loading ramps, or fish cleaning stations.
 
-&emsp;&emsp;(C) Rental of cabins, boats, stock animals, lookouts, historic structures, group day-use or overnight sites, audio tour devices, portable sanitation devices, binoculars or other equipment.
+&emsp;&emsp;(C) Rental of cabins, boats, stock animals, lookouts, historic structures, group day-useor overnight sites, audio tour devices, portable sanitation devices, binoculars or other equipment.
 
 &emsp;&emsp;(D) Use of hookups for electricity, cable, or sewer.
 

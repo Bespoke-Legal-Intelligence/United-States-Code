@@ -198,7 +198,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, as amended by Ex. Ord. No. 12363, May 21, 1982, 47 F.R. 22497; Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12536, Oct. 9, 1985, 50 F.R. 41477; Ex. Ord. No. 13118, §10(4), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13325, Jan. 23, 2004, 69 F.R. 4217; Ex. Ord. No. 13374, Mar. 14, 2005, 70 F.R. 12961, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America,including the Foreign Service Act of 1980 (94 Stat. 2071, 22 U.S.C. 3901 et seq.), Section 202 of the Revised Statutes (22 U.S.C. 2656), and Section 301 of Title 3 of the United States Code, and in order to provide for the administration of the Foreign Service of the United States, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including the Foreign Service Act of 1980 (94 Stat. 2071, 22 U.S.C. 3901 et seq.), Section 202 of the Revised Statutes (22 U.S.C. 2656), and Section 301 of Title 3 of the United States Code, and in order to provide for the administration of the Foreign Service of the United States, it is hereby ordered as follows:
 
 Section 1. There are hereby delegated to the Secretary of State those functions vested in the President by Sections 205, 401(a), 502(c), 613, and 801 of the Foreign Service Act of 1980, hereinafter referred to as the Act (22 U.S.C. 3925, 3942(a)(1), 3892(c) \[3982(c)\], 4013, and 4041).
 

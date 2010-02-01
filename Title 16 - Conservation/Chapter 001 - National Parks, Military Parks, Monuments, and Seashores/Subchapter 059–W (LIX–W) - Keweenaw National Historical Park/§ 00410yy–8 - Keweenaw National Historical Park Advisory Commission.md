@@ -88,7 +88,7 @@ Members shall serve without pay. Members who are full-time officers or employees
 
 #### (e) Travel expenses
 
-While away from their homes or regular places of business in the performance of services forthe Commission, members shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
+While away from their homes or regular places of business in the performance of services for the Commission, members shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
 
 #### (f) Mails
 

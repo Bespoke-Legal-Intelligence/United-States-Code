@@ -12,7 +12,7 @@ If the taxpayer fails to substantially comply with any formal document request a
 
 #### (2) Foreign nondisclosure law not reasonable cause
 
-&emsp;For purposes of paragraph (1), the fact that a foreign jurisdiction would impose a civil or criminal penalty on the taxpayer (or any other person) for disclosing the requested documentation is not reasonable cause.
+&emsp;For purposes of paragraph (1), the fact that a foreign jurisdiction would impose a civil orcriminal penalty on the taxpayer (or any other person) for disclosing the requested documentation is not reasonable cause.
 
 #### (c) Formal document request
 
@@ -76,5 +76,5 @@ Amendment by Pub. L. 98–369 effective as if included in the provision of the T
 
 #### Effective Date
 
-Section 337(c) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting thissection\] shall apply with respect to formal document requests (as defined in section 982(c)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by this section) mailed after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Section 337(c) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to formal document requests (as defined in section 982(c)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by this section) mailed after the date of the enactment of this Act \[Sept. 3, 1982\].”
 

@@ -58,7 +58,7 @@ Notification of Eligibility.—(1) The Secretary concerned shall transmit to eac
 
 Repayment.—If a person paid a bonus under this section does not complete a period of active duty beginning on the date on which the election of the person under paragraph (1) of subsection (a) is received and ending on the date on which the person completes 20 years of active duty service as described in paragraph (2) of such subsection, the person shall be subject to the repayment provisions of section 373 of this title.
 
-(Added Pub. L. 106–65, div. A, title VI, §642(a), Oct. 5, 1999, 113 Stat. 662, §322; amended Pub. L. 107–107, div. A, title VI, §620(a), Dec. 28, 2001, 115 Stat. 1138; Pub. L. 109–163, div. A, title VI, §687(b)(30), Jan. 6, 2006, 119 Stat. 3332; renumbered §354 and amended Pub. L. 110–181, div. A, title VI, §661(b)(1), (2), Jan. 28, 2008, 122 Stat. 178.)
+(Added Pub. L. 106–65, div. A, title VI, §642(a), Oct. 5, 1999, 113 Stat. 662, §322; amended Pub. L. 107–107, div. A, title VI, §620(a), Dec. 28, 2001, 115 Stat. 1138; Pub. L. 109–163, div. A, title VI, §687(b)(30), Jan. 6, 2006, 119 Stat. 3332; renumbered §354 and amended Pub. L. 110–181, div. A,title VI, §661(b)(1), (2), Jan. 28, 2008, 122 Stat. 178.)
 
 #### Amendments
 

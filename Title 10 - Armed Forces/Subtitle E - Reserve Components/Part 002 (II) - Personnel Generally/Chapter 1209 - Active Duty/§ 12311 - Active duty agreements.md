@@ -46,9 +46,9 @@ July 9, 1952, ch. 608, §§235 (less last sentence of (a), and less (b)), 236, 6
 
 50:964.
 
-In subsection (a), the words “To provide definite terms of active duty for” are substituted for the words “In order that \* \* \* may remain on or be ordered to active duty \* \* \* for terms of service of definite duration”. The words “with their consent” are substituted for the word “voluntarily”. The words “requiring the member to serve” are substituted for 50:963(c). The words “more than” are substituted for the words “to exceed”. The second sentence is substituted for 50:963(a) (2d sentence). The word “hereafter” is omitted as surplusage. 50:963(f) is omitted as executed. The words “under his jurisdiction” are inserted for clarity.
+In subsection (a), the words “To provide definite terms of active duty for” are substituted for the words “In order that may remain on or be ordered to active duty for terms of service of definite duration”. The words “with their consent” are substituted for the word “voluntarily”. The words “requiring the member to serve” are substituted for 50:963(c). The words “more than” are substituted for the words “to exceed”. The second sentence is substituted for 50:963(a) (2d sentence). The word “hereafter” is omitted as surplusage. 50:963(f) is omitted as executed. The words “under his jurisdiction” are inserted for clarity.
 
-In subsection (b), the words “is at least \* \* \* longer” are substituted for the words “exceeds by at least”. The words “active duty that the member is otherwise required to perform” are substituted for the words “obligated or involuntary active duty to which he is otherwise liable”.
+In subsection (b), the words “is at least longer” are substituted for the words “exceeds by at least”. The words “active duty that the member is otherwise required to perform” are substituted for the words “obligated or involuntary active duty to which he is otherwise liable”.
 
 In subsection (c), the words “for the armed forces under his jurisdiction” are inserted for clarity.
 

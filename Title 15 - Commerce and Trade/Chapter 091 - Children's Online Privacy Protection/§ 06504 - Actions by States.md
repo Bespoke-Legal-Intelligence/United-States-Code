@@ -64,7 +64,7 @@ For purposes of bringing any civil action under subsection (a) of this section, 
 
 #### (d) Actions by Commission
 
-In any case in which an action is instituted by or on behalf of the Commission for violation ofany regulation prescribed under section 6502 of this title, no State may, during the pendency of that action, institute an action under subsection (a) of this section against any defendant named in the complaint in that action for violation of that regulation.
+In any case in which an action is instituted by or on behalf of the Commission for violation of any regulation prescribed under section 6502 of this title, no State may, during the pendency of that action, institute an action under subsection (a) of this section against any defendant named in the complaint in that action for violation of that regulation.
 
 #### (e) Venue; service of process
 

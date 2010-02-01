@@ -94,7 +94,7 @@ In order to receive assistance under this section, an eligible system shall subm
 
 #### (1) Direct payment
 
-&emsp;Notwithstanding any other provision of law, the Commissioner shall pay directly to anysystem that complies with the provisions of this section, the amount of the allotment of the State or the grant for the eligible system that serves the American Indian consortium involved under this section, unless the State or American Indian consortium provides otherwise.
+&emsp;Notwithstanding any other provision of law, the Commissioner shall pay directly to any system that complies with the provisions of this section, the amount of the allotment of the State or the grant for the eligible system that serves the American Indian consortium involved under this section, unless the State or American Indian consortium provides otherwise.
 
 #### (2) Carryover
 
@@ -170,7 +170,7 @@ Allotments.—For any fiscal year in which the amount appropriated to carry out 
 
 “(2)
 
-Other jurisdictions.—For the purposes of this subsection, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau shall not be considered to be States.”
+Other jurisdictions.—For the purposes of this subsection, Guam, American Samoa, the United StatesVirgin Islands, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau shall not be considered to be States.”
 
 Subsec. (c)(4)(A). Pub. L. 103–73, §112(c)(3)(A)(i), substituted “paragraph (3)(B)” for “this subsection”.
 

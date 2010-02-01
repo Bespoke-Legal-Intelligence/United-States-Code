@@ -48,7 +48,7 @@ Reimbursement Authorized.—The Attorney General, acting through the Administrat
 
 “(b)
 
-Additional DEA Personnel.—From amounts appropriated or otherwise made available to carry outthis section, the Attorney General may hire not more than five additional Drug Enforcement Administration personnel to administer this section.
+Additional DEA Personnel.—From amounts appropriated or otherwise made available to carry out this section, the Attorney General may hire not more than five additional Drug Enforcement Administration personnel to administer this section.
 
 “(c)
 

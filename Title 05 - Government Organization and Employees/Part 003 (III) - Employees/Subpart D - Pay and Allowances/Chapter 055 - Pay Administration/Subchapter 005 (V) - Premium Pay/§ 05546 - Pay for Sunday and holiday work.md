@@ -2,7 +2,7 @@
 
 (a) An employee who performs work during a regularly scheduled 8-hour period of service which is not overtime work as defined by section 5542(a) of this title a part of which is performed on Sunday is entitled to pay for the entire period of service at the rate of his basic pay, plus premium pay at a rate equal to 25 percent of his rate of basic pay. For employees serving outside the United States in areas where Sunday is a routine workday and another day of the week is officially recognized as the day of rest and worship, the Secretary of State may designate the officially recognized day of rest and worship as the day with respect to which the preceding sentence shall apply instead of Sunday.
 
-(b) An employee who performs work on a holiday designated by Federal Statute, Executive order, or with respect to an employee of the government of the District of Columbia, by order of the District of Columbia Council, is entitled to pay at the rate of his basic pay, plus premium pay at a rate equal to the rate of his basic pay, for that holiday work which is not—
+(b) An employee who performs work on a holiday designated by Federal statute, Executive order, or with respect to an employee of the government of the District of Columbia, by order of the District of Columbia Council, is entitled to pay at the rate of his basic pay, plus premium pay at a rate equal to the rate of his basic pay, for that holiday work which is not—
 
 &emsp;(1) in excess of 8 hours; or
 
@@ -78,7 +78,7 @@ Subsec. (d). Pub. L. 90–623, §1(13)(B), substituted “5542(a)” for “5442
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22,1968, but amendment of subsec. (d) of this section by section 1(13)(B) of Pub. L. 90–623 effective as of Sept. 6, 1966, for all purposes, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, but amendment of subsec. (d) of this section by section 1(13)(B) of Pub. L. 90–623 effective as of Sept. 6, 1966, for all purposes, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
 
 #### Transfer of Functions
 

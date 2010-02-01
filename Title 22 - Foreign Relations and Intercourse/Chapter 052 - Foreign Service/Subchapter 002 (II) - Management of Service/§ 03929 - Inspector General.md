@@ -16,7 +16,7 @@ Inspections, investigations, and audits conducted by or under the direction of t
 
 &emsp;(3) whether the administration of activities and operations meets the requirements of applicable laws and regulations and, specifically, whether such administration is consistent with the requirements of section 3905 of this title;
 
-&emsp;(4) whether there exist instances of fraud or other serious problems, abuses, or deficiencies, and whether adequate steps for detection, correction, and prevention have been taken; and
+&emsp;(4) whether there exist instances of fraud or other serious problems, abuses, or deficiencies,and whether adequate steps for detection, correction, and prevention have been taken; and
 
 &emsp;(5) whether policy goals and objectives are being effectively achieved and whether the interests of the United States are being accurately and effectively represented.
 
@@ -40,7 +40,7 @@ Investigations.—
 
 &emsp;(A)
 
-Conduct of investigations.—In conducting investigations of potential violations ofFederal criminal law or Federal regulations, the Inspector General shall—
+Conduct of investigations.—In conducting investigations of potential violations of Federal criminal law or Federal regulations, the Inspector General shall—
 
 &emsp;&emsp;(i) abide by professional standards applicable to Federal law enforcement agencies; and
 
@@ -88,7 +88,7 @@ Final reports of investigations.—In order to ensure that final reports of inve
 
 (2) At the request of the Inspector General, employees of the Department and members of the Service may be assigned as employees of the Inspector General. The individuals so assigned and individuals appointed pursuant to paragraph (1) shall be responsible solely to the Inspector General, and the Inspector General or his or her designee shall prepare the performance evaluation reports for such individuals.
 
-(3) The Inspector General shall ensure that only officials from the Office of the Inspector General may participate in formal interviews or other formal meetings with the individual who is the subject of an investigation, other than an intelligence-related or sensitive undercover investigation, or except in those situations when the Inspector General has a reasonable basis to believe that such notice would cause tampering with witnesses, destroying evidence, or endangering the lives of individuals, unless that individual receives prior adequate notice regardingparticipation by officials of any other agency, including the Department of Justice, in such interviews or meetings.
+(3) The Inspector General shall ensure that only officials from the Office of the Inspector General may participate in formal interviews or other formal meetings with the individual who is the subject of an investigation, other than an intelligence-related or sensitive undercover investigation, or except in those situations when the Inspector General has a reasonable basis to believe that such notice would cause tampering with witnesses, destroying evidence, or endangering the lives of individuals, unless that individual receives prior adequate notice regarding participation by officials of any other agency, including the Department of Justice, in such interviews or meetings.
 
 #### (f) Reception and investigation of complaints or information; disclosure of identity of informer
 
@@ -140,7 +140,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(c)\], Nov. 29
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this section relating to the requirement that the Secretary of State transmit a copy of the annual report furnished by the Inspector General, together with any comments which the Secretary deems appropriate, to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives and to other appropriate committees, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 129 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this section relating to the requirement that the Secretary of State transmit a copy of the annual report furnished by the Inspector General, together with any comments which the Secretary deems appropriate, to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives and to other appropriate committees, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 ofTitle 31, Money and Finance, and page 129 of House Document No. 103–7.
 
 #### No Grievance or Right of Action
 

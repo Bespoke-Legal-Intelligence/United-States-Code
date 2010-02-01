@@ -14,7 +14,7 @@ In addition to the penalty imposed by section 7203 (relating to willful failure 
 
 For purposes of subsection (a), the amount determined under this subsection for any month is the product of—
 
-&emsp;(1) $89, multiplied by
+&emsp;(1) $195, multiplied by
 
 &emsp;(2) the number of persons who were shareholders in the S corporation during any part of the taxable year.
 
@@ -26,7 +26,7 @@ The penalty imposed by subsection (a) shall be assessed against the S corporatio
 
 Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply in respect of the assessment or collection of any penalty imposed by subsection (a).
 
-(Added Pub. L. 110–142, §9(a), Dec. 20, 2007, 121 Stat. 1807; amended Pub. L. 110–458, title I, §128(a), Dec. 23, 2008, 122 Stat. 5116.)
+(Added Pub. L. 110–142, §9(a), Dec. 20, 2007, 121 Stat. 1807; amended Pub. L. 110–458, title I, §128(a), Dec. 23, 2008, 122 Stat. 5116; Pub. L. 111–92, §16(a), Nov. 6, 2009, 123 Stat. 2996.)
 
 #### Codification
 
@@ -38,7 +38,13 @@ A prior section 6699, added Pub. L. 95–600, title I, §141(c)(1), Nov. 6, 1978
 
 #### Amendments
 
+2009—Subsec. (b)(1). Pub. L. 111–92 substituted “$195” for “$89”.
+
 2008—Subsec. (b)(1). Pub. L. 110–458 substituted “$89” for “$85”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–92 applicable to returns for taxable years beginning after Dec. 31, 2009, see section 16(b) of Pub. L. 111–92, set out as a note under section 6698 of this title.
 
 #### Effective Date of 2008 Amendment
 

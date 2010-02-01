@@ -8,7 +8,7 @@
 
 #### (2) Secretarial review
 
-&emsp;Not later than 60 days after receiving the submission under paragraph (1), the Secretaryshall review and augment the security assessments received, and conduct additional security assessments as necessary to ensure that at a minimum, all high risk public transportation agencies, as determined by the Secretary, will have a completed security assessment.
+&emsp;Not later than 60 days after receiving the submission under paragraph (1), the Secretary shall review and augment the security assessments received, and conduct additional security assessments as necessary to ensure that at a minimum, all high risk public transportation agencies, as determined by the Secretary, will have a completed security assessment.
 
 #### (3) Content
 
@@ -52,7 +52,7 @@ Not later than 180 days after August 3, 2007, the Secretary shall—
 
 &emsp;&emsp;(A) a prioritized list of all items included in the public transportation agency's security assessment that have not yet been addressed;
 
-&emsp;&emsp;(B) a detailed list of any additional capital and operational improvements identified by the Department or the public transportation agency and a certification of the public transportation agency's technical capacity for operating and maintaining any security equipment that may be identified in such list;
+&emsp;&emsp;(B) a detailed list of any additional capital and operational improvements identified bythe Department or the public transportation agency and a certification of the public transportation agency's technical capacity for operating and maintaining any security equipment that may be identified in such list;
 
 &emsp;&emsp;(C) specific procedures to be implemented or used by the public transportation agency in response to a terrorist attack, including evacuation and passenger communication plans and appropriate evacuation and communication measures for the elderly and individuals with disabilities;
 
@@ -84,7 +84,7 @@ Not later than 180 days after August 3, 2007, the Secretary shall—
 
 #### (5) Waiver
 
-&emsp;The Secretary may waive the exemption provided in paragraph (4) to require a public transportation agency to develop a security plan under paragraph (1) in the absence of grant funds under section 1135 of this title if not less than 3 days after making the determination the Secretary provides the appropriate congressional committees and the public transportation agency written notification detailing the need for the security plan, thereasons grant funding has not been made available, and the reason the agency has been designated high risk.
+&emsp;The Secretary may waive the exemption provided in paragraph (4) to require a public transportation agency to develop a security plan under paragraph (1) in the absence of grant funds under section 1135 of this title if not less than 3 days after making the determination the Secretary provides the appropriate congressional committees and the public transportation agency written notification detailing the need for the security plan, the reasons grant funding has not been made available, and the reason the agency has been designated high risk.
 
 #### (d) Consistency with other plans
 

@@ -104,7 +104,7 @@ Subsec. (f). Pub. L. 99–514, §1821(k)(1), inserted reference to section 819(b
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VII, §705(b), Oct. 22, 2004, 118 Stat. 1549, provided that: “The amendment made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 2004.”
+Pub. L. 108–357, title VII, §705(b), Oct. 22, 2004, 118 Stat. 1549, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2004.”
 
 #### Effective Date of 1988 Amendment
 

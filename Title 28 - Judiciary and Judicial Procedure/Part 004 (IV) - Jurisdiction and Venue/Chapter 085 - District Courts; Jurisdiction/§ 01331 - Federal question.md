@@ -34,5 +34,5 @@ Section 4 of Pub. L. 96–486 provided: “This Act \[amending this section and 
 
 #### Effective Date of 1958 Amendment
 
-Section 3 of Pub. L. 85–554 provided that: “This Act \[amending this section and sections 1332 and 1345 of this title\] shall apply only in the case of actions commenced after the date of the enactment of this Act \[July 25, 1958\].”
+Section 3 of Pub. L. 85–554 provided that: “This Act \[amending this section and sections 1332 and 1345 of thistitle\] shall apply only in the case of actions commenced after the date of the enactment of this Act \[July 25, 1958\].”
 

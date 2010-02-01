@@ -30,7 +30,7 @@ The National Emergency Communications Plan shall—
 
 &emsp;(7) identify obstacles to deploying interoperable emergency communications capabilities nationwide and recommend short-term and long-term measures to overcome those obstacles, including recommendations for multijurisdictional coordination among Federal, State, local, and tribal governments;
 
-&emsp;(8) recommend goals and timeframes for the deployment of emergency, command-level communications systems based on new and existing equipment across the United States and develop a timetable for the deployment of interoperable emergency communications systems nationwide;
+&emsp;(8) recommend goals and timeframes for the deployment of emergency, command-levelcommunications systems based on new and existing equipment across the United States and develop a timetable for the deployment of interoperable emergency communications systems nationwide;
 
 &emsp;(9) recommend appropriate measures that emergency response providers should employ to ensure the continued operation of relevant governmental communications infrastructure in the event of natural disasters, acts of terrorism, or other man-made disasters; and
 

@@ -20,7 +20,7 @@ Subsection (a) of this section and the provisions relating to wages (pursuant to
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2) and notwithstanding any other provision of law, each adult resident of a public housing project shall—
+&emsp;Except as provided in paragraph (2) and notwithstanding any other provision of law, eachadult resident of a public housing project shall—
 
 &emsp;&emsp;(A) contribute 8 hours per month of community service (not including political activities) within the community in which that adult resides; or
 

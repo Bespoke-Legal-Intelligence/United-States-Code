@@ -6,7 +6,7 @@ In this section, the terms “1862 Institution” and “1890 Institution” hav
 
 #### (b) Establishment
 
-The Secretary shall establish a national education program which shall include, but not belimited to, the dissemination of the results of food and human nutrition research performed or funded by the Department of Agriculture.
+The Secretary shall establish a national education program which shall include, but not be limited to, the dissemination of the results of food and human nutrition research performed or funded by the Department of Agriculture.
 
 #### (c) Employment and training
 

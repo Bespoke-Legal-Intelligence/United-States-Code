@@ -58,7 +58,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 &emsp;&emsp;&emsp;&emsp;(I) emergency supplies of breathable air for individuals trapped underground sufficient to maintain such individuals for a sustained period of time;
 
-&emsp;&emsp;&emsp;&emsp;(II) in addition to the 2 hours of breathable air per miner required by lawunder the emergency temporary standard as of the day before June 15, 2006, caches of self-rescuers providing in the aggregate not less than 2 hours per miner to be kept in escapeways from the deepest work area to the surface at a distance of no further than an average miner could walk in 30 minutes;
+&emsp;&emsp;&emsp;&emsp;(II) in addition to the 2 hours of breathable air per miner required by law under the emergency temporary standard as of the day before June 15, 2006, caches of self-rescuers providing in the aggregate not less than 2 hours per miner to be kept in escapeways from the deepest work area to the surface at a distance of no further than an average miner could walk in 30 minutes;
 
 &emsp;&emsp;&emsp;&emsp;(III) a maintenance schedule for checking the reliability of self rescuers, retiring older self-rescuers first, and introducing new self-rescuer technology, such as units with interchangeable air or oxygen cylinders not requiring doffing to replenish airflow and units with supplies of greater than 60 minutes, as they are approved by the Administration and become available on the market; and
 
@@ -84,7 +84,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 #### (ii) Post accident communications
 
-&emsp;&emsp;&emsp;Not later than 3 years after June 15, 2006, a plan shall, to be approved, provide for post accident communication between underground and surface personnel via a wireless two-way medium, and provide for an electronic tracking system permitting surface personnel to determine the location of any persons trapped underground or set forth within the plan the reasons such provisions can not be adopted. Where such plan sets forth the reasons such provisions can not be adopted, the plan shall also set forth the operator's alternative means of compliance. Such alternative shall approximate, as closely as possible, the degree of functional utility and safety protection provided by the wireless two-way medium and tracking system referred to in this subpart.<sup>1</sup>
+&emsp;&emsp;&emsp;Not later than 3 years after June 15, 2006, a plan shall, to be approved, provide for post accident communication between underground and surface personnel via a wireless two-way medium, and provide for an electronic tracking system permitting surface personnel to determine the location of any persons trapped underground or set forth within the plan the reasons such provisions can not be adopted. Wheresuch plan sets forth the reasons such provisions can not be adopted, the plan shall also set forth the operator's alternative means of compliance. Such alternative shall approximate, as closely as possible, the degree of functional utility and safety protection provided by the wireless two-way medium and tracking system referred to in this subpart.<sup>1</sup>
 
 #### (G) Plan dispute resolution
 

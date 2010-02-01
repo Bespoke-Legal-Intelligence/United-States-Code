@@ -116,7 +116,7 @@ Nothing in this section shall be construed—
 
 #### (A) In general
 
-&emsp;&emsp;With respect to a group health plan (or health insurance coverage offered in connection with such a plan), if the application of this section to such plan (or coverage) results in an increase for the plan year involved of the actual total costs of coverage with respect to medical and surgical benefits and mental health and substance use disorder benefits under the plan (as determinedand certified under subparagraph (C)) by an amount that exceeds the applicable percentage described in subparagraph (B) of the actual total plan costs, the provisions of this section shall not apply to such plan (or coverage) during the following plan year, and such exemption shall apply to the plan (or coverage) for 1 plan year. An employer may elect to continue to apply mental health and substance use disorder parity pursuant to this section with respect to the group health plan (or coverage) involved regardless of any increase in total costs.
+&emsp;&emsp;With respect to a group health plan (or health insurance coverage offered in connection with such a plan), if the application of this section to such plan (or coverage) results in an increase for the plan year involved of the actual total costs of coverage with respect to medical and surgical benefits and mental health and substance use disorder benefits under the plan (as determined and certified under subparagraph (C)) by an amount that exceeds the applicable percentage described in subparagraph (B) of the actual total plan costs, the provisions of this section shall not apply to such plan (or coverage) during the following plan year, and such exemption shall apply to the plan (or coverage) for 1 plan year. An employer may elect to continue to apply mental health and substance use disorder parity pursuant to this section with respect to the group health plan (or coverage) involved regardless of any increase in total costs.
 
 #### (B) Applicable percentage
 
@@ -180,7 +180,7 @@ For purposes of this section—
 
 #### (3) Medical or surgical benefits
 
-&emsp;The term “medical or surgical benefits” means benefits with respect to medical or surgical services, as defined under the terms of the plan or coverage (as the case may be), butdoes not include mental health or substance use disorder benefits.
+&emsp;The term “medical or surgical benefits” means benefits with respect to medical or surgical services, as defined under the terms of the plan or coverage (as the case may be), but does not include mental health or substance use disorder benefits.
 
 #### (4) Mental health benefits
 
@@ -192,7 +192,7 @@ For purposes of this section—
 
 #### (f) Secretary report
 
-The Secretary shall, by January 1, 2012, and every two years thereafter, submit to the appropriate committees of Congress a report on compliance of group health plans (and health insurance coverage offered in connection with such plans) with the requirements of this section. Such report shall include the results of any surveys or audits on compliance of group health plans (and health insurance coverage offered in connection with such plans) with such requirements and an analysis of the reasons for any failures to comply.
+The Secretary shall, by January 1, 2012, and every two years thereafter, submit to the appropriate committees of Congress a report on compliance of group health plans (and health insurance coverage offered in connection with suchplans) with the requirements of this section. Such report shall include the results of any surveys or audits on compliance of group health plans (and health insurance coverage offered in connection with such plans) with such requirements and an analysis of the reasons for any failures to comply.
 
 #### (g) Notice and assistance
 

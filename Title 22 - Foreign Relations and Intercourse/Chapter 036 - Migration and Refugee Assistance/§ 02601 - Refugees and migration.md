@@ -28,7 +28,7 @@ The President shall keep the appropriate committees of Congress currently inform
 
 #### (e) Continued availability of certain funds
 
-Unexpended balances of funds made available under authority of the Mutual Security Act of 1954, as amended, and of the Foreign Assistance Act of 1961, as amended, \[22 U.S.C. 2151 et seq.\], and allocated or transferred for the purposes of sections 405(a), 405(c), 405(d) and 451(c) <sup>1</sup> of the Mutual Security Act of 1954, as amended \[22 U.S.C. 1925(a), (c), (d), 1951(c)\], are authorized to be continued available for the purposes of this section and may be consolidated with appropriations authorized by this section.
+Unexpended balances of funds made available under authority of the Mutual Security Act of1954, as amended, and of the Foreign Assistance Act of 1961, as amended, \[22 U.S.C. 2151 et seq.\], and allocated or transferred for the purposes of sections 405(a), 405(c), 405(d) and 451(c) <sup>1</sup> of the Mutual Security Act of 1954, as amended \[22 U.S.C. 1925(a), (c), (d), 1951(c)\], are authorized to be continued available for the purposes of this section and may be consolidated with appropriations authorized by this section.
 
 #### (f) Restrictions on foreign assistance not applicable to migration and refugee assistance
 
@@ -48,7 +48,7 @@ Sections 405(a), 405(c), 405(d), and 451(c) of the Mutual Security Act of 1954, 
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–228 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The President is authorized to continue membership for the United States in the International Organization for Migration in accordance with its constitution approved in Venice, Italy, on October 19, 1953, as amended in Geneva, Switzerland, on May 20, 1987. For the purpose of assisting in the movement of refugeesand migrants and to enhance the economic progress of the developing countries by providing for a coordinated supply of selected manpower, there are authorized to be appropriated such amounts as may be necessary from time to time for the payment by the United States of its contributions to the Organization and all necessary salaries and expenses incident to United States participation in the Organization.”
+2002—Subsec. (a). Pub. L. 107–228 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The President is authorized to continue membership for the United States in the International Organization for Migration in accordance with its constitution approved in Venice, Italy, on October 19, 1953, as amended in Geneva, Switzerland, on May 20, 1987. For the purpose of assisting in the movement of refugees and migrants and to enhance the economic progress of the developing countries by providing for a coordinated supply of selected manpower, there are authorized to be appropriated such amounts as may be necessary from time to time for the payment by the United States of its contributions to the Organization and all necessary salaries and expenses incident to United States participation in the Organization.”
 
 1994—Subsec. (a). Pub. L. 103–236, §430(a)(1)–(3), substituted “the International Organization for Migration” for “the Intergovernmental Committee for European Migration”, inserted “, as amended in Geneva, Switzerland, on May 20, 1987” before period at end of first sentence, and substituted “the Organization” for “the Committee” in two places.
 
@@ -80,7 +80,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §251\], Nov. 29, 19
 
 “(a)
 
-In General.—None of the funds made available by this Act \[see Short Title of 1999 Amendment note set out under section 2651 of this title\] or by section 2(c) of the Migration and Refugee Assistance Act of 1962 (22 U.S.C. 2601(c)) shall be available to effect the involuntary return by the United States of any person to a country in which the person has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion, except on grounds recognized as precluding protection as a refugee under the United Nations Convention Relating to the Status of Refugees of July 28, 1951, and the Protocol Relating to the Status of Refugees of January 31, 1967, subject to the reservations contained in the United States Senate Resolution of Ratification.
+In General.—None of the funds made available by this Act \[see Short Title of 1999 Amendment note set out under section 2651 of this title\] or by section 2(c) ofthe Migration and Refugee Assistance Act of 1962 (22 U.S.C. 2601(c)) shall be available to effect the involuntary return by the United States of any person to a country in which the person has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion, except on grounds recognized as precluding protection as a refugee under the United Nations Convention Relating to the Status of Refugees of July 28, 1951, and the Protocol Relating to the Status of Refugees of January 31, 1967, subject to the reservations contained in the United States Senate Resolution of Ratification.
 
 “(b)
 
@@ -156,7 +156,7 @@ Pub. L. 100–204, title VII, §745, Dec. 22, 1987, 101 Stat. 1396, authorized P
 
 #### Indochina Migration and Refugee Assistance
 
-Pub. L. 94–23, May 23, 1975, 89 Stat. 87, as amended by Pub. L. 94–313, June 21, 1976, 90 Stat. 691; Pub. L. 95–145, title II, §§201, 202, Oct. 28, 1977, 91 Stat. 1224, 1225; Pub. L. 95–549, title II, §201, Oct. 30, 1978, 92 Stat. 2066; Pub. L. 96–110, §3(a), Nov. 13, 1979, 93 Stat. 844, which set forth provisions respecting appropriations, etc., for migration and refugee assistance for aliens who fled from Cambodia, Laos, and Vietnam, was repealed by Pub. L. 96–212, title III, §312(c), Mar. 17, 1980, 94 Stat. 117.
+Pub. L. 94–23, May 23, 1975, 89 Stat. 87, as amended by Pub. L. 94–313, June 21, 1976, 90 Stat. 691; Pub. L. 95–145, title II, §§201, 202, Oct. 28, 1977, 91 Stat. 1224, 1225; Pub. L. 95–549, title II, §201, Oct. 30, 1978, 92 Stat. 2066; Pub. L. 96–110, §3(a), Nov. 13, 1979, 93 Stat. 844, which set forth provisions respecting appropriations, etc., for migration and refugee assistance for aliens who fled fromCambodia, Laos, and Vietnam, was repealed by Pub. L. 96–212, title III, §312(c), Mar. 17, 1980, 94 Stat. 117.
 
 #### Availability of Funds for Continuation of Activities
 

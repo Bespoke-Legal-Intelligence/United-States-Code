@@ -142,7 +142,7 @@ In subsec. (c), “section 5703 of title 5” substituted for “section 5 of th
 
 2000—Subsecs. (a) to (f). Pub. L. 106–176, §118(2), (3), capitalized the first letter of the first word and substituted a period for the semicolon at end.
 
-Subsec. (g). Pub. L. 106–176, §118(1), (2), in introductory provisions, capitalized the first letter of the first word and substituted a period for the semicolon after “such exhibits and demonstrations”.
+Subsec. (g). Pub. L. 106–176, §118(1), (2), in introductory provisions, capitalized the first letter of the firstword and substituted a period for the semicolon after “such exhibits and demonstrations”.
 
 Subsec. (h). Pub. L. 106–176, §118(2), (3), capitalized the first letter of the first word and substituted a period for the semicolon at end.
 

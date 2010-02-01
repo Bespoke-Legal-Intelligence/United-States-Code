@@ -22,7 +22,7 @@
 | [<b>148.</b>](Chapter%20148%20-%20National%20Defense%20Technology%20and%20Industrial%20Base%2C%20Defense%20Reinvestment%2C%20and%20Defense%20Conversion/README.md) | <b>National Defense Technology and Industrial Base, Defense Reinvestment, and Defense Conversion</b> | <b>2500</b> |
 | <b>\[149.</b> | <b>Repealed.\]</b> |  |
 | <b>\[150.</b> | <b>Repealed.\]</b> |  |
-| [<b>152.</b>](Chapter%20152%20-%20Issue%20of%20Supplies%2C%20Services%2C%20and%20Facilities/README.md) | <b>Issue of Supplies, Services, and Facilities</b> | <b>2541</b> |
+| [<b>152.</b>](Chapter%20152%20-%20Issue%20of%20Supplies%2C%20Services%2C%20and%20Facilities/README.md) | <b>Issue of Supplies, Services, and Facilities</b> | <b>2551</b> |
 | [<b>153.</b>](Chapter%20153%20-%20Exchange%20of%20Material%20and%20Disposal%20of%20Obsolete%2C%20Surplus%2C%20or%20Unclaimed%20Property/README.md) | <b>Exchange of Material and Disposal of Obsolete, Surplus, or Unclaimed Property</b> | <b>2571</b> |
 | [<b>155.</b>](Chapter%20155%20-%20Acceptance%20of%20Gifts%20and%20Services/README.md) | <b>Acceptance of Gifts and Services</b> | <b>2601</b> |
 | [<b>157.</b>](Chapter%20157%20-%20Transportation/README.md) | <b>Transportation</b> | <b>2631</b> |
@@ -41,13 +41,15 @@
 
 #### Amendments
 
+2009—Pub. L. 111–84, div. A, title X, §1073(a)(21), Oct. 28, 2009, 123 Stat. 2473, substituted “2551” for “2541” in item for chapter 152.
+
 2006—Pub. L. 109–364, div. A, title VIII, §816(a)(2), div. B, title XXVIII, §2851(c)(1), Oct. 17, 2006, 120 Stat. 2326, 2495, added items for chapters 144A and 173.
 
 2003—Pub. L. 108–136, div. A, title X, §1045(a)(1), Nov. 24, 2003, 117 Stat. 1612, substituted “2700” for “2701” in item for chapter 160.
 
 2001—Pub. L. 107–107, div. A, title IX, §911(b), Dec. 28, 2001, 115 Stat. 1196, added item for chapter 135.
 
-1997—Pub. L. 105–85, div. A, title III, §§355(c)(2), 371(a)(2), (c)(5), title X, §§1073(a)(2), 1074(d)(2), Nov. 18, 1997, 111 Stat. 1694, 1705, 1900, 1910, added item for chapter 136 and substituted “2460” for “2461” in item for chapter 146, “Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities” for “Utilities and Services” in item for chapter 147, “2500” for “2491” in item for chapter 148, and “2541” for “2540” in item for chapter 152.
+1997—Pub. L. 105–85, div. A, title III, §§355(c)(2), 371(a)(2), (c)(5), title X, §§1073(a)(2), 1074(d)(2), Nov. 18,1997, 111 Stat. 1694, 1705, 1900, 1910, added item for chapter 136 and substituted “2460” for “2461” in item for chapter 146, “Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities” for “Utilities and Services” in item for chapter 147, “2500” for “2491” in item for chapter 148, and “2541” for “2540” in item for chapter 152.
 
 1996—Pub. L. 104–201, div. A, title XI, §1123(a)(3), Sept. 23, 1996, 110 Stat. 2688, struck out item for chapter 167 “Defense Mapping Agency”.
 
@@ -69,7 +71,7 @@ Pub. L. 104–106, div. A, title X, §1061(b)(2), Feb. 10, 1996, 110 Stat. 442, 
 
 Pub. L. 100–370, §§1(e)(2), 2(a)(2), 3(a)(2), July 19, 1988, 102 Stat. 845, 854, 855, added items for chapters 134, 146, and 148.
 
-1987—Pub. L. 100–26, §7(c)(1), Apr. 21, 1987, 101 Stat. 280, substituted “Acquisition and Cross-Servicing Agreements with NATO Allies and Other Countries” for “North Atlantic Treaty Organization Acquisition and Cross-Servicing Agreements” in item for chapter 138, substituted “Major Defense Acquisition Programs” for“Oversight of Cost Growth in Major Programs” and “2430” for “2431” in item for chapter 144, and substituted “2721” for “2701” in item for chapter 161.
+1987—Pub. L. 100–26, §7(c)(1), Apr. 21, 1987, 101 Stat. 280, substituted “Acquisition and Cross-Servicing Agreements with NATO Allies and Other Countries” for “North Atlantic Treaty Organization Acquisition and Cross-Servicing Agreements” in item for chapter 138, substituted “Major Defense Acquisition Programs” for “Oversight of Cost Growth in Major Programs” and “2430” for “2431” in item for chapter 144, and substituted “2721” for “2701” in item for chapter 161.
 
 1986—Pub. L. 99–661, div. A, title XIII, §1343(a)(22), Nov. 14, 1986, 100 Stat. 3994, substituted “2341” for “2321” in item for chapter 138.
 

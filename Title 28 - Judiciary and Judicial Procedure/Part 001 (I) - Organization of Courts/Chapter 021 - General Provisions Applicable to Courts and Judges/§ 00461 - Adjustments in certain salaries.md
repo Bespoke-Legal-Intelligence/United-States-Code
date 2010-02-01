@@ -34,11 +34,17 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 704(b) of Pub. L. 101–194, set out as a note under section 5318 of Title 5, Government Organization and Employees.
 
-#### References in Div. D of Pub. L. 110–161
+#### References to “this Act” in Div. D of Pub. L. 111–8
+
+Pub. L. 111–8, div. D, title VII, §750, Mar. 11, 2009, 123 Stat. 693, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any title other than title IV \[123 Stat. 649\] or VIII \[123 Stat. 695\] shall not apply to such title IV or VIII.”
+
+#### References to “this Act” in Div. D of Pub. L. 110–161
 
 Pub. L. 110–161, div. D, title VII, §749, Dec. 26, 2007, 121 Stat. 2035, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any title other than title IV \[121 Stat. 1990\] or VIII \[121 Stat. 2035\] shall not apply to such title IV or VIII.”
 
 #### Salary Adjustments
+
+Pub. L. 111–8, div. D, title III, §310, Mar. 11, 2009, 123 Stat. 649, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], and from funds appropriated in this Act \[div. D of Pub. L. 111–8, see Tables for classification and see section 750 of Pub. L. 111–8, set out as a note above\], Justices and judges of the United States are authorized during fiscal year 2009, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
 
 Pub. L. 110–161, div. D, title III, §305, Dec. 26, 2007, 121 Stat. 1989, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], and from funds appropriated in this Act \[div. D of Pub. L. 110–161, see Tables for classification and see section 749 of Pub. L. 110–161, set out as a note above\], Justices and judges of the United States are authorized during fiscal year 2008, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
 
@@ -76,13 +82,13 @@ Pub. L. 99–500, §101(b) \[title IV, §406\], Oct. 18, 1986, 100 Stat. 1783–
 
 Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 310, provided in part that: “Effective on the first day of the first applicable pay period commencing on or after January 1, 1985, each rate of pay subject to adjustment by section 461 of title 28, United States Code, shall be increased by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the overall percentage of the adjustment taking effect under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule during fiscal year 1985.”
 
-Pub. L. 98–369, div. B, title II, §2207, July 18, 1984, 98 Stat. 1060, provided that: “Effective on the first day of the first applicable pay period commencing on or after January 1, 1984, each rate of pay subject to adjustment by section 461 of title 28, United States Code, shall be increased by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the overall percentage of the adjustment taking effect under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule during fiscal year 1984.”
+Pub. L. 98–369, div. B, title II, §2207, July 18, 1984, 98 Stat. 1060, provided that: “Effective on the first day of the first applicable pay period commencing on or after January 1, 1984, each rate of pay subject to adjustment by section 461 of title 28, United States Code, shall be increased by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the overallpercentage of the adjustment taking effect under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule during fiscal year 1984.”
 
 #### Specific Congressional Authorization Required for Salary Increases for Federal Judges and Justices of the Supreme Court
 
 Pub. L. 97–92, §140, Dec. 15, 1981, 95 Stat. 1200, as amended by Pub. L. 107–77, title VI, §625, Nov. 28, 2001, 115 Stat. 803, provided that: “Notwithstanding any other provision of law or of this joint resolution \[Pub. L. 97–92\], none of the funds appropriated by this joint resolution or by any other Act shall be obligated or expended to increase, after the date of enactment of this joint resolution \[Dec. 15, 1981\], any salary of any Federal judge or Justice of the Supreme Court, except as may be specifically authorized by Act of Congress hereafter enacted: <i>Provided</i>, That nothing in this limitation shall be construed to reduce any salary which may be in effect at the time of enactment of this joint resolution nor shall this limitation be construed in any manner to reduce the salary of any Federal judge or of any Justice of the Supreme Court. This section shall apply to fiscal year 1981 and each fiscal year thereafter.”
 
-#### Salary Rate Limitations On Use of Funds
+#### Salary Rate Limitations on Use of Funds
 
 1982—Limitations on use of funds for fiscal year ending Sept. 30, 1983, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(e) of Pub. L. 97–276, as amended, set out as a note under section 5318 of Title 5, Government Organization and Employees.
 

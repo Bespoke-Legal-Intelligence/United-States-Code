@@ -28,7 +28,7 @@ Audit Requirement.—The Secretary may require a sponsor to conduct an appropria
 
 (e)
 
-Annual Review.—The Secretary shall review annually the recordkeeping and reportingrequirements under this subchapter to ensure that they are the minimum necessary to carry out this subchapter.
+Annual Review.—The Secretary shall review annually the recordkeeping and reporting requirements under this subchapter to ensure that they are the minimum necessary to carry out this subchapter.
 
 (f)
 

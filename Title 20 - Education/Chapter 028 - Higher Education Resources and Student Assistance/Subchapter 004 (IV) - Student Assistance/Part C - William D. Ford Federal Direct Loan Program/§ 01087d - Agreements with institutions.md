@@ -16,7 +16,7 @@ An agreement with any institution of higher education for participation in the d
 
 &emsp;&emsp;(E) provide timely and accurate information—
 
-&emsp;&emsp;&emsp;(i) concerning the status of student borrowers (and students on whose behalf parents borrow under this part) while such students are in attendance at the institution and concerning any new information of which the institution becomes aware for such students (or their parents) after such borrowers leave the institution, to the Secretary for the servicing and collecting of loans made under this part; and
+&emsp;&emsp;&emsp;(i) concerning the status of student borrowers (and students on whose behalf parents borrow under this part) while such students are in attendance at the institution and concerning any new information of which the institution becomes aware for such students (or their parents) after suchborrowers leave the institution, to the Secretary for the servicing and collecting of loans made under this part; and
 
 &emsp;&emsp;&emsp;(ii) if the institution does not have an agreement with the Secretary under subsection (b) of this section, concerning student eligibility and need, as determined under subparagraphs (A) and (B), to the Secretary as needed for the alternative origination of loans to eligible students and parents in accordance with this part;
 

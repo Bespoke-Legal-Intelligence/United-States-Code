@@ -22,7 +22,7 @@
 
 &emsp;(B) the probable future effect that this chapter will have on the United States economy generally, as well as on such domestic industries, before the provisions of this chapter terminate; and
 
-&emsp;(C) the estimated effect that this chapter has had on the drug-related crop eradication and crop substitution efforts of the beneficiary countries.
+&emsp;(C) the estimated effect that this chapter has had on the drug-related crop eradicationand crop substitution efforts of the beneficiary countries.
 
 (2) In preparing the assessments required under paragraph (1), the Commission shall, to the extent practicable—
 

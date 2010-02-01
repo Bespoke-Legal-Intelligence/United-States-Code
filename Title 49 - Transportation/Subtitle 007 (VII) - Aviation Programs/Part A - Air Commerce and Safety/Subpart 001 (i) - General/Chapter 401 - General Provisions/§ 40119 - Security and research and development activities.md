@@ -16,11 +16,21 @@ Disclosure.—(1) Notwithstanding section 552 of title 5 and the establishment o
 
 (2) Paragraph (1) of this subsection does not authorize information to be withheld from a committee of Congress authorized to have the information.
 
+(3) Nothing in paragraph (1) shall be construed to authorize the designation of information as sensitive security information (as defined in section 15.5 of title 49, Code of Federal Regulations)—
+
+&emsp;(A) to conceal a violation of law, inefficiency, or administrative error;
+
+&emsp;(B) to prevent embarrassment to a person, organization, or agency;
+
+&emsp;(C) to restrain competition; or
+
+&emsp;(D) to prevent or delay the release of information that does not require protection in the interest of transportation security, including basic scientific research information not clearly related to transportation security.
+
 (c)
 
 Transfers of Duties and Powers Prohibited.—Except as otherwise provided by law, the Under Secretary may not transfer a duty or power under this section to another department, agency, or instrumentality of the United States Government.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1117; Pub. L. 107–71, title I, §101(e), Nov. 19, 2001, 115 Stat. 603; Pub. L. 107–296, title XVI, §1601(a), Nov. 25, 2002, 116 Stat. 2312.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1117; Pub. L. 107–71, title I, §101(e), Nov. 19, 2001, 115 Stat. 603; Pub. L. 107–296, title XVI, §1601(a), Nov. 25, 2002, 116 Stat. 2312; Pub. L. 111–83, title V, §561(c)(2), Oct. 28, 2009, 123 Stat. 2182.)
 
 Historical and Revision Notes
 
@@ -57,6 +67,8 @@ In subsection (b)(1), before clause (A), the words “relating to freedom of inf
 In subsection (b)(2), the word “duly” is omitted as surplus. The words “to have the information” are added for clarity.
 
 #### Amendments
+
+2009—Subsec. (b)(3). Pub. L. 111–83 added par. (3).
 
 2002—Subsec. (a). Pub. L. 107–296, §1601(a)(1), inserted “and the Administrator of the Federal Aviation Administration each” after “for Security” and substituted “criminal violence, aircraft piracy, and terrorism and to ensure security” for “criminal violence and aircraft piracy”.
 

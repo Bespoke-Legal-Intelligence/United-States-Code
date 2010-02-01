@@ -20,7 +20,7 @@ A person who willfully commits, willfully attempts to commit, or willfully consp
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–96 amended section generally. Prior to amendment, text of section read as follows:
+2007—Pub. L. 110–96 amended section generally. Prior to amendment, text of section read as follows:
 
 “(a) A civil penalty of not to exceed $50,000 may be imposed on any person who violates, or attempts to violate, any license, order, or regulation issued under this chapter.
 
@@ -38,15 +38,15 @@ Civil penalties.—Section 206(b) of the International Emergency Economic Powers
 
 Criminal penalties.—Section 206(c) of the International Emergency Economic Powers Act, as amended by subsection (a), shall apply to violations described in section 206(a) of such Act with respect to which enforcement action is commenced on or after the date of the enactment of this Act.”
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–177, §402(1), substituted “$50,000” for “$10,000”.
+2006—Subsec. (a). Pub. L. 109–177, §402(1), substituted “$50,000” for “$10,000”.
 
 Subsec. (b). Pub. L. 109–177, §402(2), substituted “twenty years” for “ten years”.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–201, §1422(1), inserted “, or attempts to violate,” after “violates”.
+1996—Subsec. (a). Pub. L. 104–201, §1422(1), inserted “, or attempts to violate,” after “violates”.
 
 Subsec. (b). Pub. L. 104–201, §1422(2), inserted “, or willfully attempts to violate,” after “violates”.
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–396 substituted “$10,000” for “$50,000”.
+1992—Subsec. (a). Pub. L. 102–396 substituted “$10,000” for “$50,000”.
 
 Pub. L. 102–393 substituted “$50,000” for “$10,000”.
 

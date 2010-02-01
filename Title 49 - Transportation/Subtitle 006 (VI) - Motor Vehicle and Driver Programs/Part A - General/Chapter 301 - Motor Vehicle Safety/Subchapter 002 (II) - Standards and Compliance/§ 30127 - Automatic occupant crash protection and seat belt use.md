@@ -222,7 +222,7 @@ Elements for Consideration.—In the rulemaking proceeding required by subsectio
 
 “(c)
 
-Completion.—The Secretary shall complete the rulemaking proceeding required by subsection (a) notlater than 30 months after the date of the enactment of this Act \[Dec. 4, 2002\].
+Completion.—The Secretary shall complete the rulemaking proceeding required by subsection (a) not later than 30 months after the date of the enactment of this Act \[Dec. 4, 2002\].
 
 #### “SEC. 4. DEVELOPMENT OF ANTHROPOMORPHIC TEST DEVICE SIMULATING A 10-YEAR OLD CHILD.
 
@@ -276,7 +276,7 @@ Report.—Not later than 12 months after the date of enactment of this Act \[Dec
 
 &emsp;“(1)
 
-Child restraint.—The term ‘child restraint’ means any product designed to provide restraint to a child (including booster seats and other products used with a lap and shoulder belt assembly) that meets applicable Federal motor vehicle safety standards prescribed by the National Highway Traffic Safety Administration.
+Child restraint.—The term ‘child restraint’ means any product designed to provide restraint to achild (including booster seats and other products used with a lap and shoulder belt assembly) that meets applicable Federal motor vehicle safety standards prescribed by the National Highway Traffic Safety Administration.
 
 &emsp;“(2)
 
@@ -338,7 +338,7 @@ Elements for Consideration.—In the rulemaking required by subsection (a), the 
 
 “(c)
 
-Report to Congress.—If the Secretary does not incorporate any element described in subsection (b) in the final rule, the Secretary shall explain, in a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Commerce \[now Committee on Energy and Commerce\] submitted within 30 days after issuing thefinal rule, specifically why the Secretary did not incorporate any such element in the final rule.
+Report to Congress.—If the Secretary does not incorporate any element described in subsection (b) in the final rule, the Secretary shall explain, in a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Commerce \[now Committee on Energy and Commerce\] submitted within 30 days after issuing the final rule, specifically why the Secretary did not incorporate any such element in the final rule.
 
 “(d)
 
@@ -382,7 +382,7 @@ Final rule.—Notwithstanding any other provision of law, the Secretary shall co
 
 &emsp;“(3)
 
-Effective date.—The final rule issued under this subsection shall become effective in phases as rapidly as practicable, beginning not earlier than September 1, 2002, and no sooner than 30 months after the date of the issuance of the final rule, but not later than September 1, 2003. The final rule shall become fully effective for all vehicles identified in section 30127(b), title 49, United States Code, that are manufactured on and after September 1, 2005. Should the phase-in of the final rule required by this paragraph commence on September 1, 2003, then in that event, and only in that event, the Secretary is authorized to make the final rule fully effective on September 1, 2006, for all vehicles that are manufactured on and after that date.
+Effective date.—The final rule issued under this subsection shall become effective in phases as rapidly as practicable, beginning not earlier than September 1, 2002, and no sooner than 30 months after the date of the issuance of the final rule, but notlater than September 1, 2003. The final rule shall become fully effective for all vehicles identified in section 30127(b), title 49, United States Code, that are manufactured on and after September 1, 2005. Should the phase-in of the final rule required by this paragraph commence on September 1, 2003, then in that event, and only in that event, the Secretary is authorized to make the final rule fully effective on September 1, 2006, for all vehicles that are manufactured on and after that date.
 
 &emsp;“(4)
 

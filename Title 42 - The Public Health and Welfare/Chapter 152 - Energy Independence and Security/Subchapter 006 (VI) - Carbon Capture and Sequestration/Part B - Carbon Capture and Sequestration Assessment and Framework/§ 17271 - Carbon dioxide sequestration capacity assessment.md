@@ -26,7 +26,7 @@ In this section—
 
 #### (6) Sequestration formation
 
-&emsp;The term “sequestration formation” means a deep saline formation, unmineable coalseam, or oil or gas reservoir that is capable of accommodating a volume of industrial carbon dioxide.
+&emsp;The term “sequestration formation” means a deep saline formation, unmineable coal seam, or oil or gas reservoir that is capable of accommodating a volume of industrial carbon dioxide.
 
 #### (b) Methodology
 

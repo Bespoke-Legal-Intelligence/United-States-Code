@@ -8,7 +8,7 @@
 
 #### (2) Corporate powers
 
-&emsp;The Corporation shall be subject to the provisions of this section, and, to the extent not inconsistent with this section, to the District of Columbia Business Corporation Act (or thecomparable law of another State, if applicable). The Corporation shall have the powers conferred upon a corporation by the District of Columbia Business Corporation Act (or such other applicable State law) as from time to time in effect in order to conduct the Corporation's affairs as a private, for-profit corporation and to carry out the Corporation's purposes and activities incidental thereto. The Corporation shall have the power to enter into contracts, to execute instruments, to incur liabilities, to provide products and services, and to do all things as are necessary or incidental to the proper management of the Corporation's affairs and the efficient operation of a private, for-profit business.
+&emsp;The Corporation shall be subject to the provisions of this section, and, to the extent not inconsistent with this section, to the District of Columbia Business Corporation Act (or the comparable law of another State, if applicable). The Corporation shall have the powers conferred upon a corporation by the District of Columbia Business Corporation Act (or such other applicable State law) as from time to time in effect in order to conduct the Corporation's affairs as a private, for-profit corporation and to carry out the Corporation's purposes and activities incidental thereto. The Corporation shall have the power to enter into contracts, to execute instruments, to incur liabilities, to provide products and services, and to do all things as are necessary or incidental to the proper management of the Corporation's affairs and the efficient operation of a private, for-profit business.
 
 #### (3) Limitation on ownership of stock
 
@@ -74,7 +74,7 @@
 
 #### (4) Articles of incorporation
 
-&emsp;The Corporation shall amend the Corporation's articles of incorporation without delay to reflect that one of the purposes of the Corporation shall be to guarantee, insure, and reinsure bonds, leases, and other evidences of debt of educational institutions, includingHistorically Black Colleges and Universities and other academic institutions which are ranked in the lower investment grade category using a nationally recognized credit rating system.
+&emsp;The Corporation shall amend the Corporation's articles of incorporation without delay to reflect that one of the purposes of the Corporation shall be to guarantee, insure, and reinsure bonds, leases, and other evidences of debt of educational institutions, including Historically Black Colleges and Universities and other academic institutions which are ranked in the lower investment grade category using a nationally recognized credit rating system.
 
 #### (5) Requirements until stock sale
 
@@ -84,7 +84,7 @@
 
 #### (1) Purchase by the Corporation
 
-&emsp;The Secretary of the Treasury shall sell and the Corporation shall purchase, within 90 days after September 30, 1996, the stock of the Corporation held by the Secretary of Education at a price determined by the binding, independent appraisal of a nationally recognized financial firm, except that the 90-day period may be extended by mutual agreement of the Secretary of the Treasury and the Corporation to not more than 150 days after September 30, 1996. The appraiser shall be jointly selected by the Secretary of the Treasury and the Corporation. In the event that the Secretary of the Treasury and the Corporation cannot agree on the appraiser, then the Secretary of the Treasury and the Corporation shall name an independent third party to select the appraiser.
+&emsp;The Secretary of the Treasury shall sell and the Corporation shall purchase, within 90 days after September 30, 1996, the stock of the Corporation held by the Secretary of Education at a price determined by the binding, independent appraisal of a nationally recognized financial firm, except that the 90-day period may be extended by mutual agreement of the Secretary of the Treasury and the Corporation to not more than 150 days after September 30, 1996. The appraiser shall be jointly selected by the Secretary of the Treasury and the Corporation. In the event that the Secretary of the Treasury and the Corporation cannot agree on the appraiser, then the Secretary ofthe Treasury and the Corporation shall name an independent third party to select the appraiser.
 
 #### (2) Reimbursement of costs and expenses of sale
 
@@ -144,7 +144,7 @@
 
 #### (ii) Administration
 
-&emsp;&emsp;&emsp;Subject to subparagraph (F), the Mayor shall administer the program of grants under this subparagraph, except that if thecommittee described in subparagraph (C)(iii) is in operation and is fully functional prior to the date the Mayor makes the grants, the Mayor may delegate the administration of the program to the committee.
+&emsp;&emsp;&emsp;Subject to subparagraph (F), the Mayor shall administer the program of grants under this subparagraph, except that if the committee described in subparagraph (C)(iii) is in operation and is fully functional prior to the date the Mayor makes the grants, the Mayor may delegate the administration of the program to the committee.
 
 #### (C) Other grants
 
@@ -162,7 +162,7 @@
 
 #### (iv) Cap on administrative costs
 
-&emsp;&emsp;&emsp;Not more than 5 percent of the funds available for grants under this subparagraph for a fiscal year may be used to cover the administrative costs of making grants under this subparagraph for the fiscal year.
+&emsp;&emsp;&emsp;Not more than 5 percent of the funds available for grants under this subparagraph for a fiscal year may be used tocover the administrative costs of making grants under this subparagraph for the fiscal year.
 
 #### (D) Special rule regarding eligibility of nonprofit corporations
 
@@ -228,7 +228,7 @@ Subsec. (e)(3)(C)(iv). Pub. L. 107–96, proviso, which directed amendment of th
 
 2000—Subsec. (e)(2)(B). Pub. L. 106–553, §1(a)(1) \[§161(1)\], which directed amendment identical to amendment by Pub. L. 106–522, §161(1), below, was repealed by Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\]. See Effective Date and Construction of 2000 Amendment note below.
 
-Pub. L. 106–522, §161(1), as amended by Pub. L. 107–96, par. (2), amended second sentence generally. Prior to amendment, second sentence read as follows: “Of such amounts and proceeds, $5,000,000 shall be set aside for use as a credit enhancement fund for public charter schools in the District of Columbia, with the administration of the fund (including the making of loans) to be carried out by the Mayor through a committee consisting of three individuals appointed by the Mayor of the District of Columbia and two individuals appointed by the Public Charter School Board established under section 2214 of the District of Columbia School Reform Act of 1995.”
+Pub. L. 106–522, §161(1), as amended by Pub. L. 107–96, par. (2), amended second sentence generally. Prior toamendment, second sentence read as follows: “Of such amounts and proceeds, $5,000,000 shall be set aside for use as a credit enhancement fund for public charter schools in the District of Columbia, with the administration of the fund (including the making of loans) to be carried out by the Mayor through a committee consisting of three individuals appointed by the Mayor of the District of Columbia and two individuals appointed by the Public Charter School Board established under section 2214 of the District of Columbia School Reform Act of 1995.”
 
 Subsec. (e)(3). Pub. L. 106–553, §1(a)(1) \[§161(2)\], which directed amendment identical to amendment by Pub. L. 106–522, §161(2), below, was repealed by Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\]. See Effective Date and Construction of 2000 Amendment note below.
 

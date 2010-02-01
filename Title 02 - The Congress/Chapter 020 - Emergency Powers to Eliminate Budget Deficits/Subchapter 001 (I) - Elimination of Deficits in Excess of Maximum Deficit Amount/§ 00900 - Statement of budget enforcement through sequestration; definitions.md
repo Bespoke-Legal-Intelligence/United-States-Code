@@ -150,7 +150,7 @@ Special rule.—(i) Any outlays in excess of the discretionary spending limit se
 
 &emsp;(17) As used in this subchapter, all references to entitlement authority shall include the list of mandatory appropriations included in the joint explanatory statement of managers accompanying the conference report on the Balanced Budget Act of 1997.
 
-&emsp;(18) The term “deposit insurance” refers to the expenses <sup>3</sup> the Federal deposit insurance agencies, and other Federal agencies supervising insured depository institutions, resulting from full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates.
+&emsp;(18) The term “deposit insurance” refers to the expenses <sup>3</sup> the Federal deposit insurance agencies, and other Federal agencies supervising insured depository institutions, resulting from full funding of, and continuation of,the deposit insurance guarantee commitment in effect under current estimates.
 
 &emsp;(19) The term “asset sale” means the sale to the public of any asset (except for those assets covered by title V of the Congressional Budget Act of 1974 \[2 U.S.C. 661 et seq.\]), whether physical or financial, owned in whole or in part by the United States.
 
@@ -280,7 +280,7 @@ In General.—
 
 “(b)
 
-Expiration.—Sections 251, 253, 258B, and 271(b) of this Act \[sections 901, 903, and 907c of this title and provisions set out as a note below\], and sections 1105(f) and1106(c) of title 31, United States Code, shall expire September 30, 2002. The remaining sections of part C of this title \[enacting this subchapter\] shall expire September 30, 2006.
+Expiration.—Sections 251, 253, 258B, and 271(b) of this Act \[sections 901, 903, and 907c of this title and provisions set out as a note below\], and sections 1105(f) and 1106(c) of title 31, United States Code, shall expire September 30, 2002. The remaining sections of part C of this title \[enacting this subchapter\] shall expire September 30, 2006.
 
 “(c)
 
@@ -334,7 +334,7 @@ Pub. L. 99–177, title II, §271(b), Dec. 12, 1985, 99 Stat. 1094, as amended b
 
 #### Appeals of Rulings
 
-Pub. L. 99–177, title II, §271(c), as added by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: “An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall berequired in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under section 301(i), 302(c), 302(f), 304(b), 306, 310(d), 310(g), or 311(a) of the Congressional Budget Act of 1974 \[sections 632(i), 633(c), 633(f), 635(b), 637, 641(d), 641(g), or 642(a) of this title\].”
+Pub. L. 99–177, title II, §271(c), as added by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: “An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under section 301(i), 302(c), 302(f), 304(b), 306, 310(d), 310(g), or 311(a) of the Congressional Budget Act of 1974 \[sections 632(i), 633(c), 633(f), 635(b), 637, 641(d), 641(g), or 642(a) of this title\].”
 
 \[For effective date of section 271(c) of Pub. L. 99–177, see section 275(a)(1) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note above.\]
 
@@ -400,11 +400,11 @@ Sec. 2. <i>Deficit Reduction Fund.</i>
 
 (c) <i>Status of Amounts in Fund</i>. (i) The amounts in the Deficit Reduction Fund shall be used exclusively to redeem maturing debt obligations of the Treasury of the United States held by foreign governments in the amounts specified in subsection (b).
 
-(ii) The amounts in the Deficit Reduction Fund as set forth in subsection (b) that result from increases in total revenues and spending reductions shall not be available for new spending or to finance measures that increase the deficit for purposes of budget enforcementprocedures under the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901–922 \[900–922\]).
+(ii) The amounts in the Deficit Reduction Fund as set forth in subsection (b) that result from increases in total revenues and spending reductions shall not be available for new spending or to finance measures that increase the deficit for purposes of budget enforcement procedures under the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901–922 \[900–922\]).
 
 (d) <i>Effect on Other Funds</i>. Establishment of and transfers to the Deficit Reduction Fund shall not affect trust fund transfers that may be authorized or required by provisions of the Omnibus Reconciliation Act of 1993 or any other provision of law.
 
-Sec. 3. <i>Requirement for the President To Report Annually on the Status of the Fund</i>. The Director of the Office of Management and Budget shall include in the President's Budget transmitted under section 1105 of title 31, United States Code, information about the Deficit Reduction Fund, including a separate statement of amounts in and Federal debt redeemed by that Fund.
+Sec. 3. <i>Requirement for the President To Report Annually on the Status of the Fund</i>. The Director of the Officeof Management and Budget shall include in the President's Budget transmitted under section 1105 of title 31, United States Code, information about the Deficit Reduction Fund, including a separate statement of amounts in and Federal debt redeemed by that Fund.
 
 Sec. 4. <i>Implementation</i>. The Secretary of the Treasury and the Director of the Office of Management and Budget shall each take such actions as may be necessary, within their respective authorities, promptly to carry out this order.
 

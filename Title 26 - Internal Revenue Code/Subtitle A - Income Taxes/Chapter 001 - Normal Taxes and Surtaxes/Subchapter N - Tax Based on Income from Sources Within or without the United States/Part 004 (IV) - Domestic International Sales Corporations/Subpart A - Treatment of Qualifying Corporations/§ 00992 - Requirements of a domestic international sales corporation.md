@@ -54,7 +54,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the conditions provided by paragraph (2), a corporation which for a taxable year does not satisfy a condition specified in paragraph (1)(A) (relating to gross receipts) or\(1)(B) (relating to assets) of subsection (a) shall nevertheless be deemed to satisfy such condition for such year if it makes a pro rata distribution of property after the close of the taxable year to its shareholders (designated at the time of such distribution as a distribution to meet qualification requirements) with respect to their stock in an amount which is equal to—
+&emsp;Subject to the conditions provided by paragraph (2), a corporation which for a taxable year does not satisfy a condition specified in paragraph (1)(A) (relating to gross receipts) or (1)(B) (relating to assets) of subsection (a) shall nevertheless be deemed to satisfy such condition for such year if it makes a pro rata distribution of property after the close of the taxable year to its shareholders (designated at the time of such distribution as a distribution to meet qualification requirements) with respect to their stock in an amount which is equal to—
 
 &emsp;&emsp;(A) if the condition of subsection (a)(1)(A) is not satisfied, the portion of such corporation's taxable income attributable to its gross receipts which are not qualified export receipts for such year,
 
@@ -128,7 +128,7 @@ Section 941, referred to in subsec. (d)(6), was repealed by Pub. L. 94–455, ti
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) ofPub. L. 104–188, set out as a note under section 593 of this title.
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
 
 #### Effective Date of 1984 Amendment
 

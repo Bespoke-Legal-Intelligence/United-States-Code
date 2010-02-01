@@ -6,7 +6,7 @@
 
 &emsp;(A) such individual continues to have the disabling physical or mental impairment on the basis of which such individual was found to be under a disability; and
 
-&emsp;(B) the income of such individual, other than income excluded pursuant to section 1382a(b) of this title, is not equal to or in excess of theamount which would cause him to be ineligible for payments under section 1382 of this title and such individual meets all other non-disability-related requirements for eligibility for benefits under this subchapter.
+&emsp;(B) the income of such individual, other than income excluded pursuant to section 1382a(b) of this title, is not equal to or in excess of the amount which would cause him to be ineligible for payments under section 1382 of this title and such individual meets all other non-disability-related requirements for eligibility for benefits under this subchapter.
 
 (2) The Commissioner of Social Security shall make a determination under paragraph (1)(A) with respect to an individual not later than 12 months after the first month for which the individual qualifies for a benefit under this subsection.
 
@@ -24,7 +24,7 @@
 
 (2)(A) Determinations made under paragraph (1)(D) shall be based on information and data updated no less frequently than annually.
 
-(B) In determining an individual's earnings for purposes of paragraph (1)(D), there shall be excluded from such earnings an amount equal to the sum of any amounts which are or would be excluded under clauses (ii) and (iv) of section 1382a(b)(4)(B) of this title (or under clauses (ii) and (iii) of section 1382a(b)(4)(A) of this title) in determining his or her income.
+(B) In determining an individual's earnings for purposes of paragraph (1)(D), there shall be excluded from such earnings an amount equal to the sum of any amounts which are or would be excluded under clauses (ii) and (iv) of section1382a(b)(4)(B) of this title (or under clauses (ii) and (iii) of section 1382a(b)(4)(A) of this title) in determining his or her income.
 
 (3) In the case of a State that exercises the option under section 1396a(f) of this title, any individual who—
 

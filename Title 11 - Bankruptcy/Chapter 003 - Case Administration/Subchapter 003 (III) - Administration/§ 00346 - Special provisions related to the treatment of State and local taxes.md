@@ -12,7 +12,7 @@
 
 (f) For purposes of any State or local law imposing a tax on or measured by income, a transfer of property from the debtor to the estate or from the estate to the debtor shall not be treated as a disposition for purposes of any provision assigning tax consequences to a disposition, except to the extent that such transfer is treated as a disposition under the Internal Revenue Code of 1986.
 
-(g) Whenever a tax is imposed pursuant to a State or local law imposing a tax on or measured by income pursuant to subsection (a) or (b), such tax shall be imposed at rates generally applicable to the same types of entities under such State or local law.
+(g) Whenever a tax is imposed pursuant to a State or local law imposing a tax on or measured by income pursuant to subsection (a) or (b),such tax shall be imposed at rates generally applicable to the same types of entities under such State or local law.
 
 (h) The trustee shall withhold from any payment of claims for wages, salaries, commissions, dividends, interest, or other payments, or collect, any amount required to be withheld or collected under applicable State or local tax law, and shall pay such withheld or collected amount to the appropriate governmental unit at the time and in the manner required by such tax law, and with the same priority as the claim from which such amount was withheld or collected was paid.
 
@@ -28,7 +28,7 @@
 
 (j)(1) For purposes of any State or local law imposing a tax on or measured by income, income is not realized by the estate, the debtor, or a successor to the debtor by reason of discharge of indebtedness in a case under this title, except to the extent, if any, that such income is subject to tax under the Internal Revenue Code of 1986.
 
-(2) Whenever the Internal Revenue Code of 1986 provides that the amount excluded from gross income in respect of the discharge of indebtedness in a case under this title shall be applied to reduce the tax attributes of the debtor or the estate, a similar reduction shall be made under any State or local law imposing a tax on or measured by income to the extent such State or local law recognizes such attributes. Such Stateor local law may also provide for the reduction of other attributes to the extent that the full amount of income from the discharge of indebtedness has not been applied.
+(2) Whenever the Internal Revenue Code of 1986 provides that the amount excluded from gross income in respect of the discharge of indebtedness in a case under this title shall be applied to reduce the tax attributes of the debtor or the estate, a similar reduction shall be made under any State or local law imposing a tax on or measured by income to the extent such State or local law recognizes such attributes. Such State or local law may also provide for the reduction of other attributes to the extent that the full amount of income from the discharge of indebtedness has not been applied.
 
 (k)(1) Except as provided in this section and section 505, the time and manner of filing tax returns and the items of income, gain, loss, deduction, and credit of any taxpayer shall be determined under applicable nonbankruptcy law.
 

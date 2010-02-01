@@ -24,7 +24,7 @@ Limitation on Contracting.—(1) Except as provided in paragraph (2), performanc
 
 &emsp;(i) continuity of session is broken only by an adjournment of Congress sine die; and
 
-&emsp;(ii) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of any period of time in which Congress is in continuous session.
+&emsp;(ii) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excludedin the computation of any period of time in which Congress is in continuous session.
 
 (c)
 
@@ -34,7 +34,7 @@ Notification of Determinations Regarding Certain Commercial Items.—The first t
 
 &emsp;(2) The value of any unique support and test equipment and tools that are necessary to support the military requirements if the item were maintained by the Government.
 
-&emsp;(3) A comparison of the estimated life cycle logistics support costs that would be incurred by the Government if the item were maintained by the private sector with the estimated life cycle logistics support costs thatwould be incurred by the Government if the item were maintained by the Government.
+&emsp;(3) A comparison of the estimated life cycle logistics support costs that would be incurred by the Government if the item were maintained by the private sector with the estimated life cycle logistics support costs that would be incurred by the Government if the item were maintained by the Government.
 
 (Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 853; amended Pub. L. 101–189, div. A, title XVI, §1622(c)(7), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 104–106, div. A, title III, §314, Feb. 10, 1996, 110 Stat. 251; Pub. L. 105–85, div. A, title III, §356(a), Nov. 18, 1997, 111 Stat. 1694; Pub. L. 105–261, div. A, title III, §343(a), Oct. 17, 1998, 112 Stat. 1976; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 

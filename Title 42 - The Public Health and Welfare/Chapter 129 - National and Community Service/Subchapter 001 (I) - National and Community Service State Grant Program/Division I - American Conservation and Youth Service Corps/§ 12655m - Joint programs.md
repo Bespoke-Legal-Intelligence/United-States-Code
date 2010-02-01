@@ -16,7 +16,7 @@ Program agencies may enter into contracts and other appropriate arrangements wit
 
 The Corporation and program agencies carrying out programs under this division shall coordinate the programs with related Federal, State, local, and private activities.
 
-(Pub. L. 101–610, title I, §199L, formerly §134, Nov. 16, 1990, 104 Stat. 3148; renumbered §199N, renumbered §199L, and amended Pub. L. 103–82, title I, §101(a), (e)(1), (8)(B), Sept. 21, 1993, 107 Stat. 788, 815, 816; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(42)(C), (f)(33)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–428, 2681–434.)
+(Pub. L. 101–610, title I, §199L, formerly §134, Nov. 16, 1990, 104 Stat. 3148; renumbered §199N, renumbered §199L, and amended Pub. L. 103–82, title I, §101(a), (e)(1), (8)(B), Sept. 21, 1993, 107Stat. 788, 815, 816; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(42)(C), (f)(33)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–428, 2681–434.)
 
 #### References in Text
 

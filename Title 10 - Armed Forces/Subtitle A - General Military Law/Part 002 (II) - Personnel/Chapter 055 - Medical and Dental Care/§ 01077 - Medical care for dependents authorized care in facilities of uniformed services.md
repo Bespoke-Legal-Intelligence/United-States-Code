@@ -70,7 +70,7 @@
 
 (2) An augmentative communication device may be provided as a voice prosthesis under subsection (a)(15).
 
-(3) A prosthetic device customized for a patient may be provided under this section only by a prosthetic practitioner who is qualified to customize the device, as determined under regulations prescribed by the Secretary of Defense in consultation with the administering Secretaries.
+(3) A prosthetic device customized for a patient may be provided under this section only bya prosthetic practitioner who is qualified to customize the device, as determined under regulations prescribed by the Secretary of Defense in consultation with the administering Secretaries.
 
 (f)(1) Items that may be provided to a patient under subsection (a)(12) include the following:
 
@@ -190,7 +190,7 @@ Subsec. (a)(13), (14). Pub. L. 98–525, §633(a)(2), redesignated cls. (13) and
 
 Subsec. (b)(3). Pub. L. 98–525, §1401(e)(3), added par. (3).
 
-1966—Pub. L. 89–614 authorized an improved health benefits program for dependents of active duty members of the uniformed services in facilities of such services, expanding health care to be provided to include: hospitalization, outpatient care, and drugs in clauses (1) to (3) of subsec. (a) (hospitalization being limited by former subsec. (b) to treatment of nervous or mental disturbances or chronic diseases or for elective medical and surgical treatment to one year period in special cases); treatment of mental and surgical conditions in clause (4) minus acute condition restriction of former subsec. (a)(2); treatment of nervous, mental, and chronic conditions in clause (5) formerly restricted as stated above; clause (6) reenactment of former subsec. (a)(3); physical, including eye, examinations in clause (7) reenacting former subsec. (a)(4) immunization provisions; clause (8) reenactment of former subsec. (a)(5); diagnostic tests and services, including laboratory and X-ray examinations (diagnosis being covered in former subsec. (a)(1)); dental care provisions in clauses (10) to (12) (provided in former subsec. (d)) as (1) emergency care to relieve pain and suffering, but not including permanent restorative work or dental prosthesis, (2) care as a necessary adjunct to medical or surgical treatment, and care outside the United States, and in remote areas inside the United States, where adequate civilian facilities are unavailable; ambulance service and home calls in clause 13 (covering former subsec. (c)(2), (3)); durable equipment on loan basis in clause (14); and to exclude in subsec. (b)(1) (incorporating last sentence of former subsec. (b)) custodial care; subsec. (b)(2)(A) reenactment of former subsec. (e)(1); and permitted in subsec. (b)(2)(B) artificial limbs and eyes to be provided.
+1966—Pub. L. 89–614 authorized an improved health benefits program for dependents of active duty members of the uniformed services in facilities of such services, expanding health care to be provided to include: hospitalization, outpatient care, and drugs in clauses (1) to (3) of subsec. (a) (hospitalization being limited byformer subsec. (b) to treatment of nervous or mental disturbances or chronic diseases or for elective medical and surgical treatment to one year period in special cases); treatment of mental and surgical conditions in clause (4) minus acute condition restriction of former subsec. (a)(2); treatment of nervous, mental, and chronic conditions in clause (5) formerly restricted as stated above; clause (6) reenactment of former subsec. (a)(3); physical, including eye, examinations in clause (7) reenacting former subsec. (a)(4) immunization provisions; clause (8) reenactment of former subsec. (a)(5); diagnostic tests and services, including laboratory and X-ray examinations (diagnosis being covered in former subsec. (a)(1)); dental care provisions in clauses (10) to (12) (provided in former subsec. (d)) as (1) emergency care to relieve pain and suffering, but not including permanent restorative work or dental prosthesis, (2) care as a necessary adjunct to medical or surgical treatment, and care outside the United States, and in remote areas inside the United States, where adequate civilian facilities are unavailable; ambulance service and home calls in clause 13 (covering former subsec. (c)(2), (3)); durable equipment on loan basis in clause (14); and to exclude in subsec. (b)(1) (incorporating last sentence of former subsec. (b)) custodial care; subsec. (b)(2)(A) reenactment of former subsec. (e)(1); and permitted in subsec. (b)(2)(B) artificial limbs and eyes to be provided.
 
 #### Effective Date of 1984 Amendment
 
@@ -201,6 +201,78 @@ Amendment by section 1401(e)(3) of Pub. L. 98–525 effective Oct. 1, 1985, see 
 #### Effective Date of 1966 Amendment
 
 For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89–614, set out as a note under section 1071 of this title.
+
+#### Study, Plan, and Pilot for the Mental Health Care Needs of Dependent Children of Members of the Armed Forces
+
+Pub. L. 111–84, div. A, title VII, §722, Oct. 28, 2009, 123 Stat. 2387, provided that:
+
+“(a)
+
+Report and Plan on the Mental Health Care and Counseling Services Available to Military Children.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Defense shall conduct a comprehensive review of the mental health care and counseling services available to dependent children of members of the Armed Forces through the Department of Defense.
+
+&emsp;“(2)
+
+Elements.—The review under paragraph (1) shall include an assessment of the following:
+
+&emsp;&emsp;“(A) The availability, quality, and effectiveness of Department of Defense programs intended to meet the mental health care needs of military children.
+
+&emsp;&emsp;“(B) The availability, quality, and effectiveness of Department of Defense programs intended to promote resiliency in military children in coping with deployment cycles, injury, or death of military parents.
+
+&emsp;&emsp;“(C) The extent of access to, adequacy, and availability of mental health care and counseling services for military children in military medical treatment facilities, in family assistance centers, through Military OneSource, under the TRICARE program, and in Department of Defense Education Activity schools.
+
+&emsp;&emsp;“(D) Whether the status of a member of the Armed Forces on active duty, or in reserve active status, affects the access of a military child to mental health care and counseling services.
+
+&emsp;&emsp;“(E) Whether, and to what extent, waiting lists, geographic distance, and other factors may obstruct the receipt by military children of mental health care and counseling services.
+
+&emsp;&emsp;“(F) The extent of access to, availability, and viability of specialized mental health care for military children (including adolescents).
+
+&emsp;&emsp;“(G) The extent of any gaps in the current capabilities of the Department of Defense to provide preventive mental health services for military children.
+
+&emsp;&emsp;“(H) Such other matters as the Secretary considers appropriate.
+
+&emsp;“(3)
+
+Report.—Not later than one year after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the review conducted under paragraph (1), including the findings and recommendations of the Secretary as a result of the review.
+
+“(b)
+
+Comprehensive Plan for Improvements in Access to Care and Counseling.—The Secretary shall develop and implement a comprehensive plan for improvements in access to quality mental health care and counseling services for military children in order to develop and promote psychological health and resilience in children of deploying and deployed members of the Armed Forces. The information in the report required by subsection (a) shall provide the basis for the development of the plan.
+
+“(c)
+
+Pilot Program.—
+
+&emsp;“(1)
+
+Elements.—The Secretary of the Army shall carry out a pilot program on the mental health care needs of military children and adolescents. In carrying out the pilot program, the Secretary shall establish a center to—
+
+&emsp;&emsp;“(A) develop teams to train primary care managers in mental health evaluations and treatment of common psychiatric disorders affecting children and adolescents;
+
+&emsp;&emsp;“(B) develop strategies to reduce barriers to accessing behavioral health services and encourage better use of the programs and services by children and adolescents; and
+
+&emsp;&emsp;“(C) expand the evaluation of mental health care using common indicators, including—
+
+&emsp;&emsp;&emsp;“(i) psychiatric hospitalization rates;
+
+&emsp;&emsp;&emsp;“(ii) non-psychiatric hospitalization rates; and
+
+&emsp;&emsp;&emsp;“(iii) mental health relative value units.
+
+&emsp;“(2)
+
+Reports.—
+
+&emsp;&emsp;“(A) Not later than 90 days after establishing the pilot program, the Secretary of the Army shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report describing the—
+
+&emsp;&emsp;&emsp;“(i) structure and mission of the program; and
+
+&emsp;&emsp;&emsp;“(ii) the resources allocated to the program.
+
+&emsp;&emsp;“(B) Not later than September 30, 2012, the Secretary of the Army shall submit to the congressional defense committees a report that addresses the elements described under paragraph (1).”
 
 #### Program for Mental Health Awareness for Dependents and Pilot Project on Post Traumatic Stress Disorder
 

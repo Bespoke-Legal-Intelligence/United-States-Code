@@ -58,7 +58,7 @@ Ex. Ord. No. 11882, Oct. 6, 1975, 40 F.R. 46293, relating to membership of the E
 
 Ex. Ord. No. 12319, Sept. 9, 1981, 46 F.R. 45591, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States, in order to ensure the orderly termination of the six river basin commissions established pursuant to the Water Resources Planning Act (42 U.S.C. 1962 et seq.), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States, in order to ensure the orderly termination of the six river basincommissions established pursuant to the Water Resources Planning Act (42 U.S.C. 1962 et seq.), it is hereby ordered as follows:
 
 Section 1. In accord with the decision of the Water Resources Council pursuant to Section 203(a) of the Water Resources Planning Act (42 U.S.C. 1962b–2(a)), the following river basin commissions shall terminate on the date indicated:
 

@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;(iv) the average scaled score of individuals participating in such a program, or who have completed such a program during the two-year period preceding the first year for which the annual State report card is provided, who took each such assessment.
 
-&emsp;&emsp;(E) A description of alternative routes to teacher certification or licensure in the State (including any such routes operated by entities that are not institutions of higher education), if any, including, for each of the assessments used by the State for teacher certification or licensure—
+&emsp;&emsp;(E) A description of alternative routes to teacher certification or licensure in the State (including any such routes operated by entities that are not institutions of higher education), if any, including, for each of theassessments used by the State for teacher certification or licensure—
 
 &emsp;&emsp;&emsp;(i) the percentage of individuals participating in such routes, or who have completed such routes during the two-year period preceding the date for which the determination is made, who passed each such assessment; and
 
@@ -172,7 +172,7 @@ The Secretary, to the extent practicable, shall coordinate the information colle
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) and (b)(1), was in the original “this Act”, meaning Pub. L. 89–329, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1) and (b)(1), was in the original “this Act”, meaning Pub. L. 89–329,known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 

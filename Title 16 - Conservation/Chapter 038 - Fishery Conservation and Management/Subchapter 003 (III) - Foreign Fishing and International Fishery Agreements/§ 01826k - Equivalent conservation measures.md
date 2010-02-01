@@ -42,7 +42,7 @@ The Secretary, acting through the Secretary of State, shall—
 
 #### (3) Certification
 
-&emsp;The Secretary shall certify to the Congress by January 31, 2007, and biennially thereafter whether each such nation has provided the documentary evidence described in paragraph (1)(A) and established a management plan described in paragraph (1)(B).
+&emsp;The Secretary shall certify to the Congress by January 31, 2007, and biennially thereafterwhether each such nation has provided the documentary evidence described in paragraph (1)(A) and established a management plan described in paragraph (1)(B).
 
 #### (4) Alternative procedure
 

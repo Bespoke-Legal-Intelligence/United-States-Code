@@ -4,6 +4,10 @@ An applicant under this part may enter into a contract with the owner or lessor 
 
 (Pub. L. 100–77, title IV, §462, as added Pub. L. 110–289, div. B, title VIII, §2835(c)(1)(C), July 30, 2008, 122 Stat. 2874.)
 
+#### Repeal of Section
+
+<i>Pub. L. 111–22, div. B, title V, §§1501, 1503, May 20, 2009, 123 Stat. 1701, 1702, provided that, effective on, and applicable beginning on, the earlier of the expiration of the 18-month period beginning on May 20, 2009, or the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 of Pub. L. 111–22, this section is repealed.</i>
+
 #### Prior Provisions
 
 A prior section 462 of Pub. L. 100–77 was renumbered section 463 and is classified to section 11403g of this title.

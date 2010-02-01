@@ -6,7 +6,7 @@ When used in this chapter the term—
 
 &emsp;(b) “rehabilitation grants” means matching capital grants to local governments for the purpose of rebuilding, remodeling, expanding, or developing existing outdoor or indoor recreation areas and facilities, including improvements in park landscapes, buildings, and support facilities, but excluding routine maintenance and upkeep activities;
 
-&emsp;(c) “innovation grants” means matching grants to local governments to cover costs of personnel, facilities, equipment, supplies, or services designed to demonstrate innovative and cost-effective ways to augment park andrecreation opportunities at the neighborhood level and to address common problems related to facility operations and improved delivery of recreation service, and which shall exclude routine operation and maintenance activities;
+&emsp;(c) “innovation grants” means matching grants to local governments to cover costs of personnel, facilities, equipment, supplies, or services designed to demonstrate innovative and cost-effective ways to augment park and recreation opportunities at the neighborhood level and to address common problems related to facility operations and improved delivery of recreation service, and which shall exclude routine operation and maintenance activities;
 
 &emsp;(d) “at-risk youth recreation grants” means—
 
@@ -40,5 +40,5 @@ When used in this chapter the term—
 
 #### “Secretary” Defined
 
-Section 2 of Pub. L. 95–625 provided that: “As used in this Act \[see Short Title of 1978 Amendment note set out under section 1 of this title\], except as otherwise specifically provided, the term ‘Secretary’ means the Secretary of the Interior.”
+Section 2 of Pub. L. 95–625 provided that: “As used in this Act \[see Short Title of 1978 Amendment note set out under section 1 of this title\], except as otherwisespecifically provided, the term ‘Secretary’ means the Secretary of the Interior.”
 

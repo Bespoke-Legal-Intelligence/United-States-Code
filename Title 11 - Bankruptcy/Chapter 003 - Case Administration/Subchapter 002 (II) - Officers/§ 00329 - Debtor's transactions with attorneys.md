@@ -22,7 +22,7 @@ This section, derived in large part from current Bankruptcy Act section 60d \[se
 
 Subsection (b) permits the court to deny compensation to the attorney, to cancel an agreement to pay compensation, or to order the return of compensation paid, if the compensation exceeds the reasonable value of the services provided. The return of payments already made are generally to the trustee for the benefit of the estate. However, if the property would not have come into the estate in any event, the court will order it returned to the entity that made the payment.
 
-The Bankruptcy Commission recommended a provision similar to this that would have also permitted an examination of the debtor's transactions with insiders. S. 236, 94th Cong., 1st sess, sec. 4–311(b) (1975). Its exclusion here is to permit it to be dealt with by the Rules of Bankruptcy Procedure. It is not intended that the provision be deleted entirely, only that the flexibility of the rules is more appropriate for such evidentiary matters.
+The Bankruptcy Commission recommended a provision similar to this that would have also permitted an examination of the debtor's transactions with insiders. S. 236, 94th Cong., 1st sess, sec. 4–311(b) (1975). Its exclusion here is to permit it to be dealt with by the Rules of Bankruptcy Procedure. It is not intended that theprovision be deleted entirely, only that the flexibility of the rules is more appropriate for such evidentiary matters.
 
 #### Amendments
 

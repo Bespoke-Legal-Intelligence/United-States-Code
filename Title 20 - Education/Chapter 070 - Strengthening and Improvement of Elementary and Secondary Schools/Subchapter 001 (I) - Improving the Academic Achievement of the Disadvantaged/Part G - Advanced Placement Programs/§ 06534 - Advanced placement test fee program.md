@@ -18,7 +18,7 @@ A State educational agency awarded a grant under this section shall disseminate 
 
 #### (d) Applications
 
-Each State educational agency desiring to receive a grant under this section shall submit an application to the Secretary at such time, insuch manner, and accompanied by such information as the Secretary may require. At a minimum, each State educational agency application shall—
+Each State educational agency desiring to receive a grant under this section shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require. At a minimum, each State educational agency application shall—
 
 &emsp;(1) describe the advanced placement test fees the State educational agency will pay on behalf of low-income individuals in the State from grant funds awarded under this section;
 

@@ -22,11 +22,11 @@ As used in this subchapter—
 
 (10) “Secretary” means the Secretary of Housing and Urban Development.
 
-(Pub. L. 89–754, title II, §208, Nov. 3, 1966, 80 Stat. 1265; Pub. L. 90–448, title VI, §602(e), Aug. 1, 1968, 82 Stat. 532; Pub. L. 91–258, title I, §52(b)(3), May 21, 1970, 84 Stat. 235; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(6)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.)
+(Pub. L. 89–754, title II, §208, Nov. 3, 1966, 80 Stat. 1265; Pub. L. 90–448, title VI, §602(e), Aug. 1, 1968, 82 Stat. 532; Pub. L. 91–258, title I, §52(b)(3), May 21, 1970, 84 Stat. 235; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub.L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(6)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.)
 
 #### References in Text
 
-Section 702 of the Housing and Urban Development Act of 1965 \[42 U.S.C. 3102\], referred to in par. (2), wasomitted from the Code pursuant to section 5316 of this title which terminated the authority to make grants or loans under that section after Jan. 1, 1975.
+Section 702 of the Housing and Urban Development Act of 1965 \[42 U.S.C. 3102\], referred to in par. (2), was omitted from the Code pursuant to section 5316 of this title which terminated the authority to make grants or loans under that section after Jan. 1, 1975.
 
 Section 8 of the Federal Water Pollution Control Act, referred to in par. (2), which related to grants for construction of sewerage treatment works, was formerly classified to section 1158 of Title 33, Navigation and Navigable Waters, prior to the reorganization of that Act by Pub. L. 92–500, Oct. 18, 1972, 86 Stat. 816. See Codification note set out under section 1251 of Title 33. Provisions of the Act relating to grants for construction of treatment works appear in section 1281 et seq. of Title 33.
 

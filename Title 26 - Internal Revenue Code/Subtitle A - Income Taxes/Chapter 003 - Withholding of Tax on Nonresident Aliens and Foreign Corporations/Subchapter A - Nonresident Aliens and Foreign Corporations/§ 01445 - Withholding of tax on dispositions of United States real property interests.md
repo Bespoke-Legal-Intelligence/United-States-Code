@@ -62,7 +62,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 &emsp;&emsp;&emsp;(ii) the transferee or qualified substitute receives a notice (as described in subsection (d)) from a transferor's agent, transferee's agent, or qualified substitute that such affidavit or statement is false, or
 
-&emsp;&emsp;(B) if the Secretary by regulations requires the transferee or qualified substitute to furnish a copy of such affidavit or statement to the Secretary and the transferee or qualified substitute fails to furnish a copy of such affidavit or statement to the Secretary at such time and in such manner as required by such regulations.
+&emsp;&emsp;(B) if the Secretary by regulations requires the transferee or qualified substituteto furnish a copy of such affidavit or statement to the Secretary and the transferee or qualified substitute fails to furnish a copy of such affidavit or statement to the Secretary at such time and in such manner as required by such regulations.
 
 #### (8) Applicable wash sales transactions
 
@@ -246,7 +246,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the transferee's agent.
 
-(Added Pub. L. 98–369, div. A, title I, §129(a)(1), July 18, 1984, 98 Stat. 655; amended Pub. L. 99–514, title III, §311(b)(4), title XVIII, §1810(f)(2)–(4)(A), (5), (6), (8), Oct. 22, 1986, 100 Stat. 2219, 2827, 2828; Pub. L. 100–647, title I, §1003(b)(3), Nov. 10, 1988, 102 Stat. 3384; Pub. L. 103–66, title XIII, §13221(c)(3), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1704(c)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 105–34, title III, §311(c)(1), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(C), May 28, 2003, 117 Stat. 758; Pub. L. 109–222, title V, §§505(b), 506(b), May 17, 2006, 120 Stat. 356, 358; Pub. L. 110–289,div. C, title I, §3024(a)–(c), July 30, 2008, 122 Stat. 2895.)
+(Added Pub. L. 98–369, div. A, title I, §129(a)(1), July 18, 1984, 98 Stat. 655; amended Pub. L. 99–514, title III, §311(b)(4), title XVIII, §1810(f)(2)–(4)(A), (5), (6), (8), Oct. 22, 1986, 100 Stat. 2219, 2827, 2828; Pub. L. 100–647, title I, §1003(b)(3), Nov. 10, 1988, 102 Stat. 3384; Pub. L. 103–66, title XIII, §13221(c)(3), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1704(c)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 105–34, title III, §311(c)(1), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(C), May 28, 2003, 117 Stat. 758; Pub. L. 109–222, title V, §§505(b), 506(b), May 17, 2006, 120 Stat. 356, 358; Pub. L. 110–289, div. C, title I, §3024(a)–(c), July 30, 2008, 122 Stat. 2895.)
 
 #### Amendment of Section
 

@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (C) Contributions to qualified tuition program and Coverdell education savings accounts
 
-&emsp;&emsp;Such term shall include any contribution to a qualified tuition program (as defined insection 529) on behalf of a designated beneficiary (as defined in such section), or to a Coverdell education savings account (as defined in section 530) on behalf of an account beneficiary, who is an individual described in subparagraph (A); but there shall be no increase in the investment in the contract for purposes of applying section 72 by reason of any portion of such contribution which is not includible in gross income by reason of this subparagraph.
+&emsp;&emsp;Such term shall include any contribution to a qualified tuition program (as defined in section 529) on behalf of a designated beneficiary (as defined in such section), or to a Coverdell education savings account (as defined in section 530) on behalf of an account beneficiary, who is an individual described in subparagraph (A); but there shall be no increase in the investment in the contract for purposes of applying section 72 by reason of any portion of such contribution which is not includible in gross income by reason of this subparagraph.
 
 #### (3) Eligible educational institution
 
@@ -152,7 +152,7 @@ Subsec. (d)(2)(B). Pub. L. 107–16, §402(b)(2)(A), substituted “the exclusio
 
 Subsec. (c)(3). Pub. L. 105–206, §6004(c)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘eligible educational institution’ means—
 
-&emsp;“(A) an institution described in section 1201(a) or subparagraph (C) or (D) of section 481(a)(1) of theHigher Education Act of 1965 (as in effect on October 21, 1988), and
+&emsp;“(A) an institution described in section 1201(a) or subparagraph (C) or (D) of section 481(a)(1) of the Higher Education Act of 1965 (as in effect on October 21, 1988), and
 
 &emsp;“(B) an area vocational education school (as defined in subparagraph (C) or (D) of section 521(3) of the Carl D. Perkins Vocational Education Act) which is in any State (as defined in section 521(27) of such Act), as such sections are in effect on October 21, 1988.”
 
@@ -216,7 +216,7 @@ Amendment by section 1703(d) of Pub. L. 104–188 effective as if included in th
 
 Amendment by section 1806(b)(1) of Pub. L. 104–188 applicable to taxable years ending after Aug. 20, 1996, with transition rules applicable where States or agencies or instrumentalities thereof maintain on such date programs under which persons may purchase tuition credits or certificates on behalf of, or make contributions for education expenses of, designated beneficiaries, see section 1806(c) of Pub. L. 104–188, set out as an Effective Date note under section 529 of this title.
 
-Amendment by section 1807(c)(2) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 23 of this title.
+Amendment by section 1807(c)(2) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996,see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 23 of this title.
 
 #### Effective Date of 1990 Amendment
 

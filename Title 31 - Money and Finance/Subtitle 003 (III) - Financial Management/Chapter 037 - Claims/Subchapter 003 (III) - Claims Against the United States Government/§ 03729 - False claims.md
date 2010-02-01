@@ -2,57 +2,87 @@
 
 (a)
 
-Liability for Certain Acts.—Any person who—
+Liability for Certain Acts.—
 
-&emsp;(1) knowingly presents, or causes to be presented, to an officer or employee of the United States Government or a member of the Armed Forces of the United States a false or fraudulent claim for payment or approval;
+&emsp;(1)
 
-&emsp;(2) knowingly makes, uses, or causes to be made or used, a false record or statement to get a false or fraudulent claim paid or approved by the Government;
+In general.—Subject to paragraph (2), any person who—
 
-&emsp;(3) conspires to defraud the Government by getting a false or fraudulent claim allowed or paid;
+&emsp;&emsp;(A) knowingly presents, or causes to be presented, a false or fraudulent claim for payment or approval;
 
-&emsp;(4) has possession, custody, or control of property or money used, or to be used, by the Government and, intending to defraud the Government or willfully to conceal the property, delivers, or causes to be delivered, less property than the amount for which the person receives a certificate or receipt;
+&emsp;&emsp;(B) knowingly makes, uses, or causes to be made or used, a false record or statement material to a false or fraudulent claim;
 
-&emsp;(5) authorized to make or deliver a document certifying receipt of property used, or to be used, by the Government and, intending to defraud the Government, makes or delivers the receipt without completely knowing that the information on the receipt is true;
+&emsp;&emsp;(C) conspires to commit a violation of subparagraph (A), (B), (D), (E), (F), or (G);
 
-&emsp;(6) knowingly buys, or receives as a pledge of an obligation or debt, public property from an officer or employee of the Government, or a member of the Armed Forces, who lawfully may not sell or pledge the property; or
+&emsp;&emsp;(D) has possession, custody, or control of property or money used, or to be used, by the Government and knowingly delivers, or causes to be delivered, less than all of that money or property;
 
-&emsp;(7) knowingly makes, uses, or causes to be made or used, a false record or statement to conceal, avoid, or decrease an obligation to pay or transmit money or property to the Government,
+&emsp;&emsp;(E) is authorized to make or deliver a document certifying receipt of property used, or to be used, by the Government and, intending to defraud the Government, makes or delivers the receipt without completely knowing that the information on the receipt is true;
 
-> is liable to the United States Government for a civil penalty of not less than $5,000 and not more than $10,000, plus 3 times the amount of damages which the Government sustains because of the act of that person, except that if the court finds that—
+&emsp;&emsp;(F) knowingly buys, or receives as a pledge of an obligation or debt, public property from an officer or employee of the Government, or a member of the Armed Forces, who lawfully may not sell or pledge property; or
 
-&emsp;(A) the person committing the violation of this subsection furnished officials of the United States responsible for investigating false claims violations with all information known to such person about the violation within 30 days after the date on which the defendant first obtained the information;
+&emsp;&emsp;(G) knowingly makes, uses, or causes to be made or used, a false record or statement material to an obligation to pay or transmit money or property to the Government, or knowingly conceals or knowingly and improperly avoids or decreases an obligation to pay or transmit money or property to the Government,
 
-&emsp;(B) such person fully cooperated with any Government investigation of such violation; and
+> &emsp;is liable to the United States Government for a civil penalty of not less than $5,000 and not more than $10,000, as adjusted by the Federal Civil Penalties Inflation Adjustment Act of 1990 (28 U.S.C. 2461 note; Public Law 104–410 <sup>1</sup>), plus 3 times the amount of damages which the Government sustains because of the act of that person.
 
-&emsp;(C) at the time such person furnished the United States with the information about the violation, no criminal prosecution, civil action, or administrative action had commenced under this title with respect to such violation, and the person did not have actual knowledge of the existence of an investigation into such violation;
+&emsp;(2)
 
-> the court may assess not less than 2 times the amount of damages which the Government sustains because of the act of the person. A person violating this subsection shall also be liable to the United States Government for the costs of a civil action brought to recover any such penalty or damages.
+Reduced damages.—If the court finds that—
+
+&emsp;&emsp;(A) the person committing the violation of this subsection furnished officials of the United States responsible for investigating false claims violations with all information known to such person about the violation within 30 days after the date on which the defendant first obtained the information;
+
+&emsp;&emsp;(B) such person fully cooperated with any Government investigation of such violation; and
+
+&emsp;&emsp;(C) at the time such person furnished the United States with the information about the violation, no criminal prosecution, civil action, or administrative action had commenced under this title with respect to suchviolation, and the person did not have actual knowledge of the existence of an investigation into such violation,
+
+> &emsp;the court may assess not less than 2 times the amount of damages which the Government sustains because of the act of that person.
+
+&emsp;(3)
+
+Costs of civil actions.—A person violating this subsection shall also be liable to the United States Government for the costs of a civil action brought to recover any such penalty or damages.
 
 (b)
 
-Knowing and Knowingly Defined.—For purposes of this section, the terms “knowing” and “knowingly” mean that a person, with respect to information—
+Definitions.—For purposes of this section—
 
-&emsp;(1) has actual knowledge of the information;
+&emsp;(1) the terms “knowing” and “knowingly”—
 
-&emsp;(2) acts in deliberate ignorance of the truth or falsity of the information; or
+&emsp;&emsp;(A) mean that a person, with respect to information—
 
-&emsp;(3) acts in reckless disregard of the truth or falsity of the information,
+&emsp;&emsp;&emsp;(i) has actual knowledge of the information;
 
-> and no proof of specific intent to defraud is required.
+&emsp;&emsp;&emsp;(ii) acts in deliberate ignorance of the truth or falsity of the information; or
+
+&emsp;&emsp;&emsp;(iii) acts in reckless disregard of the truth or falsity of the information; and
+
+&emsp;&emsp;(B) require no proof of specific intent to defraud;
+
+&emsp;(2) the term “claim”—
+
+&emsp;&emsp;(A) means any request or demand, whether under a contract or otherwise, for money or property and whether or not the United States has title to the money or property, that—
+
+&emsp;&emsp;&emsp;(i) is presented to an officer, employee, or agent of the United States; or
+
+&emsp;&emsp;&emsp;(ii) is made to a contractor, grantee, or other recipient, if the money or property is to be spent or used on the Government's behalf or to advance a Government program or interest, and if the United States Government—
+
+&emsp;&emsp;&emsp;&emsp;(I) provides or has provided any portion of the money or property requested or demanded; or
+
+&emsp;&emsp;&emsp;&emsp;(II) will reimburse such contractor, grantee, or other recipient for any portion of the money or property which is requested or demanded; and
+
+&emsp;&emsp;(B) does not include requests or demands for money or property that the Government has paid to an individual as compensation for Federal employment or as an income subsidy with no restrictions on that individual's use of the money or property;
+
+&emsp;(3) the term “obligation” means an established duty, whether or not fixed, arising from an express or implied contractual, grantor-grantee, or licensor-licensee relationship, from a fee-based or similar relationship, from statute or regulation, or from the retention of any overpayment; and
+
+&emsp;(4) the term “material” means having a natural tendency to influence, or be capable of influencing, the payment or receipt of money or property.
 
 (c)
 
-Claim Defined.—For purposes of this section, “claim” includes any request or demand, whether under a contract or otherwise, for money or property which is made to a contractor, grantee, or other recipient if the United States Government provides any portion of the money or property which is requested or demanded, or if the Government will reimburse such contractor, grantee, or other recipient for any portion of the money or property which is requested or demanded.
+Exemption From Disclosure.—Any information furnished pursuant to subsection (a)(2) shall be exempt from disclosure under section 552 of title 5.
 
 (d)
 
-Exemption From Disclosure.—Any information furnished pursuant to subparagraphs (A) through (C) of subsection (a) shall be exempt from disclosure under section 552 of title 5.
-
-(e)
-
 Exclusion.—This section does not apply to claims, records, or statements made under the Internal Revenue Code of 1986.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 978; Pub. L. 99–562, §2, Oct. 27, 1986, 100 Stat. 3153; Pub. L. 103–272, §4(f)(1)(O), July 5, 1994, 108 Stat. 1362.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 978; Pub. L. 99–562, §2, Oct. 27, 1986, 100 Stat. 3153; Pub. L. 103–272, §4(f)(1)(O), July 5, 1994, 108 Stat. 1362; Pub. L. 111–21, §4(a), May 20, 2009, 123 Stat. 1621.)
 
 Historical and Revision Notes
 
@@ -72,9 +102,17 @@ In the section, before clause (1), the words “a member of an armed force of th
 
 #### References in Text
 
-The Internal Revenue Code of 1986, referred to in subsec. (e), is classified generally to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1986, referred to in subsec. (d), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2009—Subsecs. (a), (b). Pub. L. 111–21, §4(a)(1), (2), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to liability for certain acts and defined “knowing” and “knowingly”, respectively.
+
+Subsec. (c). Pub. L. 111–21, §4(a)(4), substituted “subsection (a)(2)” for “subparagraphs (A) through (C) of subsection (a)”.
+
+Pub. L. 111–21, §4(a)(2), (3), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Prior to amendment, text read as follows: “For purposes of this section, ‘claim’ includes any request or demand, whether under a contract or otherwise, for money or property which is made to a contractor, grantee, or other recipient if the United States Government provides any portion of the money or property which is requested or demanded, or if the Government will reimburse such contractor, grantee, or other recipient for any portion of the money or property which is requested or demanded.”
+
+Subsecs. (d), (e). Pub. L. 111–21, §4(a)(3), redesignated subsecs. (d) and (e) as (c) and (d), respectively.
 
 1994—Subsec. (e). Pub. L. 103–272 substituted “1986” for “1954”.
 
@@ -94,9 +132,19 @@ Subsec. (a)(7). Pub. L. 99–562, §2(7), added par. (7).
 
 Subsecs. (b) to (e). Pub. L. 99–562, §2(7), added subsecs. (b) to (e).
 
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–21, §4(f), May 20, 2009, 123 Stat. 1625, provided that: “The amendments made by this section \[amending this section and sections 3730 to 3733 of this title\] shall take effect on the date of enactment of this Act \[May 20, 2009\] and shall apply to conduct on or after the date of enactment, except that—
+
+&emsp;“(1) subparagraph (B) of section 3729(a)(1) of title 31, United States Code, as added by subsection (a)(1), shall take effect as if enacted on June 7, 2008, and apply to all claims under the False Claims Act (31 U.S.C. 3729 et seq.) that are pending on or after that date; and
+
+&emsp;“(2) section 3731(b) \[probably should be section 3731\] of title 31, as amended by subsection (b); section 3733, of title 31, as amended by subsection (c); and section 3732 of title 31, as amended by subsection (e); shall apply to cases pending on the date of enactment.”
+
 #### Increased Penalties for False Claims in Defense Procurement
 
 Pub. L. 99–145, title IX, §931(b), Nov. 8, 1985, 99 Stat. 699, provided that: “Notwithstanding section 3729 of title 31, United States Code, the amount of the liability under that section in the case of a person who makes a false claim related to a contract with the Department of Defense shall be a civil penalty of $2,000, an amount equal to three times the amount of the damages the Government sustains because of the act of the person, and costs of the civil action.”
 
 \[Section 931(c) of Pub. L. 99–145 provided that section 931(b) is applicable to claims made or presented on or after Nov. 8, 1985.\]
+
+<i><sup>1</sup></i><i> So in original. Probably should be “101–410”.</i>
 

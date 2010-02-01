@@ -32,7 +32,7 @@ The General Schedule, the symbol for which is “GS”, is the basic pay schedul
 
 &emsp;&emsp;&emsp;(i) a moderate amount of training and minor supervisory or other experience;
 
-&emsp;&emsp;&emsp;(ii) good working knowledge of a special subject matter or a limited field of office,laboratory, engineering, scientific, or other procedure and practice; and
+&emsp;&emsp;&emsp;(ii) good working knowledge of a special subject matter or a limited field of office, laboratory, engineering, scientific, or other procedure and practice; and
 
 &emsp;&emsp;&emsp;(iii) the exercise of independent judgment in accordance with well-established policies, procedures, and techniques; or
 

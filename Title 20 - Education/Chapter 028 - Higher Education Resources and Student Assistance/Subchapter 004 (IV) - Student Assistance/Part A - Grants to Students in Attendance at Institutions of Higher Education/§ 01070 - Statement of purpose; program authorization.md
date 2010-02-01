@@ -16,9 +16,9 @@ It is the purpose of this part, to assist in making available the benefits of po
 
 #### (b) Secretary required to carry out purposes
 
-The Secretary shall, in accordance with subparts 1 through 8 of this part, carry out programs to achieve the purposes of this part.
+The Secretary shall, in accordance with subparts 1 through 9 of this part, carry out programs to achieve the purposes of this part.
 
-(Pub. L. 89–329, title IV, §400, formerly §401, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1308; renumbered §400, Pub. L. 102–325, title IV, §402(a)(3), July 23, 1992, 106 Stat. 482; amended Pub. L. 105–244, title IV, §401(g)(1), Oct. 7, 1998, 112 Stat. 1652.)
+(Pub. L. 89–329, title IV, §400, formerly §401, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1308; renumbered §400, Pub. L. 102–325, title IV, §402(a)(3), July 23, 1992, 106 Stat. 482; amended Pub. L. 105–244, title IV, §401(g)(1), Oct. 7, 1998, 112 Stat. 1652; Pub. L. 111–39, title IV, §401(a)(1), July 1, 2009, 123 Stat. 1938.)
 
 #### Prior Provisions
 
@@ -26,7 +26,13 @@ A prior section 1070, Pub. L. 89–329, title IV, §401, as added and amended Pu
 
 #### Amendments
 
+2009—Subsec. (b). Pub. L. 111–39 substituted “1 through 9” for “1 through 8”.
+
 1998—Subsec. (a)(1). Pub. L. 105–244 substituted “Federal Pell Grants” for “basic educational opportunity grants”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -52,7 +58,7 @@ Section 1405 of Pub. L. 102–325 directed Secretary of Education to conduct a s
 
 #### Olympic Scholarships
 
-Pub. L. 102–325, title XV, §1543, July 23, 1992, 106 Stat. 836, as amended by Pub. L. 105–244, title VIII, §836, Oct.7, 1998, 112 Stat. 1820; Pub. L. 106–554, §1(a)(1) \[title III, §319\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–116, title III, §305(a), Jan. 10, 2002, 115 Stat. 2208; Pub. L. 110–315, title IX, §934, Aug. 14, 2008, 122 Stat. 3460, provided that:
+Pub. L. 102–325, title XV, §1543, July 23, 1992, 106 Stat. 836, as amended by Pub. L. 105–244, title VIII, §836, Oct. 7, 1998, 112 Stat. 1820; Pub. L. 106–554, §1(a)(1) \[title III, §319\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–116, title III, §305(a), Jan. 10, 2002, 115 Stat. 2208; Pub. L. 110–315, title IX, §934, Aug. 14, 2008, 122 Stat. 3460, provided that:
 
 “(a)
 
@@ -132,7 +138,7 @@ Definitions.—For purposes of this Act \[probably should be “section”\]—
 
 &emsp;&emsp;“(A) any Reserve of an Armed Force called to active duty under section 672(a) \[now 12301(a)\], 672(g) \[now 12301(g)\], 673 \[now 12302\], 673b \[now 12304\], 674 \[now 12306\], or 688 of title 10, United States Code, for service in connection with Operation Desert Shield or Operation Desert Storm, regardless of the location at which such active duty service is performed; and
 
-&emsp;&emsp;“(B) for purposes of waivers of administrative requirements under subsection (b)(2) only, any other member of an Armed Force on active duty in connection with Operation Desert Shield or Operation Desert Storm, who has been assigned to a duty station at a location other than the location at which such member is normally assigned.
+&emsp;&emsp;“(B) for purposes of waivers of administrative requirements under subsection (b)(2) only, any other member of an Armed Force on active duty in connection with Operation Desert Shield or OperationDesert Storm, who has been assigned to a duty station at a location other than the location at which such member is normally assigned.
 
 &emsp;“(2) The term ‘active duty’ has the meaning given such term in section 101(22) of title 10, United States Code, except that such term does not include active duty for training or attendance at a service school.
 

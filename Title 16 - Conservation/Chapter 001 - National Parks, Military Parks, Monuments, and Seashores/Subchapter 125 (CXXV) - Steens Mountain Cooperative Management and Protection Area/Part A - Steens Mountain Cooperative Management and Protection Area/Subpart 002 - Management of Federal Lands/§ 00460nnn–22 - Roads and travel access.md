@@ -24,7 +24,7 @@ The management plan shall include, as an integral part, a comprehensive transpor
 
 #### (c) Road closures
 
-Any determination to permanently close an existing road in the Cooperative Management and Protection Area or to restrict the access of motorized or mechanized vehicles on certain roads shall be made in consultation with the advisory council and the public.
+Any determination to permanently close an existing road in the Cooperative Management and Protection Area or to restrict the access ofmotorized or mechanized vehicles on certain roads shall be made in consultation with the advisory council and the public.
 
 #### (d) Prohibition on new construction
 

@@ -24,7 +24,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 #### (2) Certain storage use
 
-&emsp;Subsection (a) shall not apply to any item to the extent such item is allocable to spacewithin the dwelling unit which is used on a regular basis as a storage unit for the inventory or product samples of the taxpayer held for use in the taxpayer's trade or business of selling products at retail or wholesale, but only if the dwelling unit is the sole fixed location of such trade or business.
+&emsp;Subsection (a) shall not apply to any item to the extent such item is allocable to space within the dwelling unit which is used on a regular basis as a storage unit for the inventory or product samples of the taxpayer held for use in the taxpayer's trade or business of selling products at retail or wholesale, but only if the dwelling unit is the sole fixed location of such trade or business.
 
 #### (3) Rental use
 
@@ -92,7 +92,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 &emsp;&emsp;(C) by any individual (other than an employee with respect to whose use section 119 applies), unless for such day the dwelling unit is rented for a rental which, under the facts and circumstances, is fair rental.
 
-> &emsp;The Secretary shall prescribe regulations with respect to the circumstances under which use of the unit for repairs and annual maintenance will not constitute personal use under this paragraph, except that if the taxpayer is engaged in repair and maintenance on a substantially full time basis for any day, such authority shall not allow the Secretary to treat a dwelling unit as being used for personal use bythe taxpayer on such day merely because other individuals who are on the premises on such day are not so engaged.
+> &emsp;The Secretary shall prescribe regulations with respect to the circumstances under which use of the unit for repairs and annual maintenance will not constitute personal use under this paragraph, except that if the taxpayer is engaged in repair and maintenance on a substantially full time basis for any day, such authority shall not allow the Secretary to treat a dwelling unit as being used for personal use by the taxpayer on such day merely because other individuals who are on the premises on such day are not so engaged.
 
 #### (3) Rental to family member, etc., for use as principal residence
 
@@ -198,7 +198,7 @@ The date of enactment of the Tax Reduction and Simplification Act of 1977, refer
 
 #### Amendments
 
-1997—Subsec. (c)(1). Pub. L. 105–34, §932(a), inserted at end “For purposes of subparagraph (A), the term ‘principal place of business’ includes a place of business which is used by the taxpayer for the administrative or management activities of any trade or business of the taxpayer if there is no other fixed location of such trade or business where the taxpayer conducts substantial administrative or management activities of such trade or business.”
+1997—Subsec. (c)(1). Pub. L. 105–34, §932(a), inserted at end “For purposes of subparagraph (A), the term ‘principal place of business’ includes a place of business which is used by the taxpayer for the administrative ormanagement activities of any trade or business of the taxpayer if there is no other fixed location of such trade or business where the taxpayer conducts substantial administrative or management activities of such trade or business.”
 
 Subsec. (d)(4)(A). Pub. L. 105–34, §312(d)(1), substituted “section 121” for “section 1034”.
 

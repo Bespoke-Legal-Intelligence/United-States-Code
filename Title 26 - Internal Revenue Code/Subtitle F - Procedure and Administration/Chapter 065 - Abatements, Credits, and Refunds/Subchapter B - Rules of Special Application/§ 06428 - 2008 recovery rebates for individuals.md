@@ -186,6 +186,250 @@ Section applicable to taxable years beginning after Dec. 31, 2000, see section 1
 
 Section inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
 
+#### Economic Recovery Payment to Recipients of Social Security, Supplemental Security Income, Railroad Retirement Benefits, and Veterans Disability Compensation or Pension Benefits
+
+Pub. L. 111–5, div. B, title II, §2201, Feb. 17, 2009, 123 Stat. 450, provided that:
+
+“(a)
+
+Authority to Make Payments.—
+
+&emsp;“(1)
+
+Eligibility.—
+
+&emsp;&emsp;“(A)
+
+In general.—Subject to paragraph (5)(B), the Secretary of the Treasury shall disburse a $250 payment to each individual who, for any month during the 3-month period ending with the month which ends prior to the month that includes the date of the enactment of this Act \[Feb. 17, 2009\], is entitled to a benefit payment described in clause (i), (ii), or (iii) of subparagraph (B) or is eligible for a SSI cash benefit described in subparagraph (C).
+
+&emsp;&emsp;“(B)
+
+Benefit payment described.—For purposes of subparagraph (A):
+
+&emsp;&emsp;&emsp;“(i)
+
+Title ii benefit.—A benefit payment described in this clause is a monthly insurance benefit payable (without regard to sections 202(j)(1) and 223(b) of the Social Security Act (42 U.S.C. 402(j)(1), 423(b))\[)\] under—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) section 202(a) of such Act (42 U.S.C. 402(a));
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) section 202(b) of such Act (42 U.S.C. 402(b));
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) section 202(c) of such Act (42 U.S.C. 402(c));
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) section 202(d)(1)(B)(ii) of such Act (42 U.S.C. 402(d)(1)(B)(ii));
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(V) section 202(e) of such Act (42 U.S.C. 402(e));
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(VI) section 202(f) of such Act (42 U.S.C. 402(f));
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(VII) section 202(g) of such Act (42 U.S.C. 402(g));
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(VIII) section 202(h) of such Act (42 U.S.C. 402(h));
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IX) section 223(a) of such Act (42 U.S.C. 423(a));
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(X) section 227 of such Act (42 U.S.C. 427); or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(XI) section 228 of such Act (42 U.S.C. 428).
+
+&emsp;&emsp;&emsp;“(ii)
+
+Railroad retirement benefit.—A benefit payment described in this clause is a monthly annuity or pension payment payable (without regard to section 5(a)(ii) of the Railroad Retirement Act of 1974 (45 U.S.C. 231d(a)(ii))) under—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) section 2(a)(1) of such Act (45 U.S.C. 231a(a)(1));
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) section 2(c) of such Act (45 U.S.C. 231a(c));
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) section 2(d)(1)(i) of such Act (45 U.S.C. 231a(d)(1)(i));
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) section 2(d)(1)(ii) of such Act (45 U.S.C. 231a(d)(1)(ii));
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(V) section 2(d)(1)(iii)(C) of such Act to an adult disabled child (45 U.S.C. 231a(d)(1)(iii)(C));
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(VI) section 2(d)(1)(iv) of such Act (45 U.S.C. 231a(d)(1)(iv));
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(VII) section 2(d)(1)(v) of such Act (45 U.S.C. 231a(d)(1)(v)); or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(VIII) section 7(b)(2) of such Act (45 U.S.C. 231f(b)(2)) with respect to any of the benefit payments described in clause (i) of this subparagraph.
+
+&emsp;&emsp;&emsp;“(iii)
+
+Veterans benefit.—A benefit payment described in this clause is a compensation or pension payment payable under—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) section 1110, 1117, 1121, 1131, 1141, or 1151 of title 38, United States Code;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) section 1310, 1312, 1313, 1315, 1316, or 1318 of title 38, United States Code;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) section 1513, 1521, 1533, 1536, 1537, 1541, 1542, or 1562 of title 38, United States Code; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) section 1805, 1815, or 1821 of title 38, United States Code,
+
+&emsp;&emsp;&nbsp;to a veteran, surviving spouse, child, or parent as described in paragraph (2), (3), (4)(A)(ii), or (5) of section 101, title 38, United States Code, who received that benefit during any month within the 3 month period ending with the month which ends prior to the month that includes the date of the enactment of this Act \[Feb. 17, 2009\].
+
+&emsp;&emsp;“(C)
+
+Ssi cash benefit described.—A SSI cash benefit described in this subparagraph is a cash benefit payable under section 1611 (other than under subsection (e)(1)(B) of such section) or 1619(a) of the Social Security Act (42 U.S.C. 1382, 1382h\[(a)\]).
+
+&emsp;“(2)
+
+Requirement.—A payment shall be made under paragraph (1) only to individuals who reside in 1 of the 50 States, the District of Columbia, Puerto Rico, Guam, the United States Virgin Islands, American Samoa, or the Northern Mariana Islands. For purposes of the preceding sentence, the determination of the individual's residence shall be based on the current address of record under a program specified in paragraph (1).
+
+&emsp;“(3)
+
+No double payments.—An individual shall be paid only 1 payment under this section, regardless of whether the individual is entitled to, or eligible for, more than 1 benefit or cash payment described in paragraph (1).
+
+&emsp;“(4)
+
+Limitation.—A payment under this section shall not be made—
+
+&emsp;&emsp;“(A) in the case of an individual entitled to a benefit specified in paragraph (1)(B)(i) or paragraph (1)(B)(ii)(VIII) if, for the most recent month of such individual's entitlement in the 3-month period described in paragraph (1), such individual's benefit under such paragraph was not payable by reason of subsection (x) or (y) of section 202 \[of\] the Social Security Act (42 U.S.C. 402) or section 1129A of such Act (42 U.S.C. 1320a–8a);
+
+&emsp;&emsp;“(B) in the case of an individual entitled to a benefit specified in paragraph (1)(B)(iii) if, for the most recent month of such individual's entitlement in the 3 month period described in paragraph (1), such individual's benefit under such paragraph was not payable, or was reduced, by reason of section 1505, 5313, or 5313B of title 38, United States Code;
+
+&emsp;&emsp;“(C) in the case of an individual entitled to a benefit specified in paragraph (1)(C) if, for such most recent month, such individual's benefit under such paragraph was not payable by reason of subsection (e)(1)(A) or (e)(4) of section 1611 (42 U.S.C. 1382) or section 1129A of such Act (42 U.S.C. 1320a–8a); or
+
+&emsp;&emsp;“(D) in the case of any individual whose date of death occurs before the date on which the individual is certified under subsection (b) to receive a payment under this section.
+
+&emsp;“(5)
+
+Timing and manner of payments.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Secretary of the Treasury shall commence disbursing payments under this section at the earliest practicable date but in no event later than 120 days after the date of enactment of this Act \[Feb. 17, 2009\]. The Secretary of the Treasury may disburse any payment electronically to an individual in such manner as if such payment was a benefit payment or cash benefit to such individual under the applicable program described in subparagraph (B) or (C) of paragraph (1).
+
+&emsp;&emsp;“(B)
+
+Deadline.—No payments shall be disbursed under this section after December 31, 2010, regardless of any determinations of entitlement to, or eligibility for, such payments made after such date.
+
+“(b)
+
+Identification of Recipients.—The Commissioner of Social Security, the Railroad Retirement Board, and the Secretary of Veterans Affairs shall certify the individuals entitled to receive payments under this section and provide the Secretary of the Treasury with the information needed to disburse such payments. A certification of an individual shall be unaffected by any subsequent determination or redetermination of the individual's entitlement to, or eligibility for, a benefit specified in subparagraph (B) or (C) of subsection (a)(1).
+
+“(c)
+
+Treatment of Payments.—
+
+&emsp;“(1)
+
+Payment to be disregarded for purposes of all federal and federally assisted programs.—A payment under subsection (a) shall not be regarded as income and shall not be regarded as a resource for the month of receipt and the following 9 months, for purposes of determining the eligibility of the recipient (or the recipient's spouse or family) for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.
+
+&emsp;“(2)
+
+Payment not considered income for purposes of taxation.—A payment under subsection (a) shall not be considered as gross income for purposes of the Internal Revenue Code of 1986.
+
+&emsp;“(3)
+
+Payments protected from assignment.—The provisions of sections 207 and 1631(d)(1) of the SocialSecurity Act (42 U.S.C. 407, 1383(d)(1)), section 14(a) of the Railroad Retirement Act of 1974 (45 U.S.C. 231m(a)), and section 5301 of title 38, United States Code, shall apply to any payment made under subsection (a) as if such payment was a benefit payment or cash benefit to such individual under the applicable program described in subparagraph (B) or (C) of subsection (a)(1).
+
+&emsp;“(4)
+
+Payments subject to offset.—Notwithstanding paragraph (3), for purposes of section 3716 of title 31, United States Code, any payment made under this section shall not be considered a benefit payment or cash benefit made under the applicable program described in subparagraph (B) or (C) of subsection (a)(1) and all amounts paid shall be subject to offset to collect delinquent debts.
+
+“(d)
+
+Payment to Representative Payees and Fiduciaries.—
+
+&emsp;“(1)
+
+In general.—In any case in which an individual who is entitled to a payment under subsection (a) and whose benefit payment or cash benefit described in paragraph (1) of that subsection is paid to a representative payee or fiduciary, the payment under subsection (a) shall be made to the individual's representative payee or fiduciary and the entire payment shall be used only for the benefit of the individual who is entitled to the payment.
+
+&emsp;“(2)
+
+Applicability.—
+
+&emsp;&emsp;“(A)
+
+Payment on the basis of a title ii or ssi benefit.—Section 1129(a)(3) of the Social Security Act (42 U.S.C. 1320a–8(a)(3)) shall apply to any payment made on the basis of an entitlement to a benefit specified in paragraph (1)(B)(i) or (1)(C) of subsection (a) in the same manner as such section applies to a payment under title II or XVI of such Act \[42 U.S.C. 401 et seq., 1381 et seq.\].
+
+&emsp;&emsp;“(B)
+
+Payment on the basis of a railroad retirement benefit.—Section 13 of the Railroad Retirement Act \[of 1974\] (45 U.S.C. 231<i>l</i>) shall apply to any payment made on the basis of an entitlement to a benefit specified in paragraph (1)(B)(ii) of subsection (a) in the same manner as such section applies to a payment under such Act \[45 U.S.C. 231 et seq.\].
+
+&emsp;&emsp;“(C)
+
+Payment on the basis of a veterans benefit.—Sections 5502, 6106, and 6108 of title 38, United States Code, shall apply to any payment made on the basis of an entitlement to a benefit specified in paragraph (1)(B)(iii) of subsection (a) in the same manner as those sections apply to a payment under that title.
+
+“(e)
+
+Appropriation.—Out of any sums in the Treasury of the United States not otherwise appropriated, the following sums are appropriated for the period of fiscal years 2009 through 2011, to remain available until expended, to carry out this section:
+
+&emsp;“(1) For the Secretary of the Treasury, $131,000,000 for administrative costs incurred in carrying out this section, section 2202 \[set out below\], section 36A of the Internal Revenue Code of 1986 (as added by this Act), and other provisions of this Act \[see Tables for classification\] or the amendments made by this Act relating to the Internal Revenue Code of 1986.
+
+&emsp;“(2) For the Commissioner of Social Security—
+
+&emsp;&emsp;“(A) such sums as may be necessary for payments to individuals certified by the Commissioner of Social Security as entitled to receive a payment under this section; and
+
+&emsp;&emsp;“(B) $90,000,000 for the Social Security Administration's Limitation on Administrative Expenses for costs incurred in carrying out this section.
+
+&emsp;“(3) For the Railroad Retirement Board—
+
+&emsp;&emsp;“(A) such sums as may be necessary for payments to individuals certified by the Railroad Retirement Board as entitled to receive a payment under this section; and
+
+&emsp;&emsp;“(B) $1,400,000 to the Railroad Retirement Board's Limitation on Administration for administrative costs incurred in carrying out this section.
+
+&emsp;“(4)(A) For the Secretary of Veterans Affairs—
+
+&emsp;&emsp;“(i) such sums as may be necessary for the Compensation and Pensions account, for payments to individuals certified by the Secretary of Veterans Affairs as entitled to receive a payment under this section; and
+
+&emsp;&emsp;“(ii) $100,000 for the Information Systems Technology account and $7,100,000 for the General Operating Expenses account for administrative costs incurred in carrying out this section.
+
+&emsp;“(B) The Department of Veterans Affairs Compensation and Pensions account shall hereinafter be available for payments authorized under subsection (a)(1)(A) to individuals entitled to a benefit payment described in subsection (a)(1)(B)(iii).”
+
+#### Special Credit for Certain Government Retirees
+
+Pub. L. 111–5, div. B, title II, §2202, Feb. 17, 2009, 123 Stat. 454, provided that:
+
+“(a)
+
+In General.—In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by subtitle A of the Internal Revenue Code of 1986 for the first taxable year beginning in 2009 an amount equal \[to\] $250 ($500 in the case of a joint return where both spouses are eligible individuals).
+
+“(b)
+
+Eligible Individual.—For purposes of this section—
+
+&emsp;“(1)
+
+In general.—The term ‘eligible individual’ means any individual—
+
+&emsp;&emsp;“(A) who receives during the first taxable year beginning in 2009 any amount as a pension or annuity for service performed in the employ of the United States or any State, or any instrumentality thereof, which is not considered employment for purposes of chapter 21 of the Internal Revenue Code of 1986, and
+
+&emsp;&emsp;“(B) who does not receive a payment under section 2201 \[set out above\] during such taxable year.
+
+&emsp;“(2)
+
+Identification number requirement.—Such term shall not include any individual who does not include on the return of tax for the taxable year—
+
+&emsp;&emsp;“(A) such individual's social security account number, and
+
+&emsp;&emsp;“(B) in the case of a joint return, the social security account number of one of the taxpayers on such return.
+
+> &emsp;For purposes of the preceding sentence, the social security account number shall not include a TIN (as defined in section 7701(a)(41) of the Internal Revenue Code of 1986) issued by the Internal Revenue Service. Any omission of a correct social security account number required under this subparagraph \[probably should be “this paragraph”\] shall be treated as a mathematical or clerical error for purposes of applying section 6213(g)(2) of such Code to such omission.
+
+“(c)
+
+Treatment of Credit.—
+
+&emsp;“(1)
+
+Refundable credit.—
+
+&emsp;&emsp;“(A)
+
+In general.—The credit allowed by subsection (a) shall be treated as allowed by subpart C of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986.
+
+&emsp;&emsp;“(B)
+
+Appropriations.—For purposes of section 1324(b)(2) of title 31, United States Code, the credit allowed by subsection (a) shall be treated in the same manner \[as\] a refund from the credit allowed under section 36A of the Internal Revenue Code of 1986 (as added by this Act).
+
+&emsp;“(2)
+
+Deficiency rules.—For purposes of section 6211(b)(4)(A) of the Internal Revenue Code of 1986, the credit allowable by subsection (a) shall be treated in the same manner as the credit allowable under section 36A of the Internal Revenue Code of 1986 (as added by this Act).
+
+“(d)
+
+Refunds Disregarded in the Administration of Federal Programs and Federally Assisted Programs.—Any credit or refund allowed or made to any individual by reason of this section shall not be taken into account as income and shall not be taken into account as resources for the month of receipt and the following 2 months, for purposes of determining the eligibility of such individual or any other individual forbenefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.”
+
 #### Treatment of Possessions
 
 Pub. L. 110–185, title I, §101(c), Feb. 13, 2008, 122 Stat. 616, provided that:

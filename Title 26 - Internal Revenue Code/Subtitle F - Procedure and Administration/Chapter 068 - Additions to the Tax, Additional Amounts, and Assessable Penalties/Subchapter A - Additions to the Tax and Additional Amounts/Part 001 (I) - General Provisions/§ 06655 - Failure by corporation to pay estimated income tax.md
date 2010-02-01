@@ -305,7 +305,7 @@ No addition to tax shall be imposed under subsection (a) for any taxable year if
 
 &emsp;&emsp;(C) Any reference to taxable income shall be treated as including a reference to unrelated business taxable income or net investment income (as the case may be).
 
-> &emsp;In the case of any organization described in subparagraph (A), subsection (b)(2)(A) shall be applied by substituting “5th month” for “3rd month”, subsection (e)(2)(A) shall be applied by substituting “2 months” for “3 months” in clause (i)(I), the election under clause (i) of subsection (e)(2)(C) may be made separately for each installment, and clause (ii) of subsection (e)(2)(C) shall not apply. In the case of a private foundation, subsection (c)(2) shall be applied by substituting “May 15” for “April 15”.
+> &emsp;In the case of any organization described in subparagraph (A), subsection (b)(2)(A) shall be applied by substituting “5th month” for “3rd month”, subsection (e)(2)(A) shall be applied by substituting “2 months” for “3 months” in clause (i)(I), the election under clause (i) of subsection (e)(2)(C) may be made separatelyfor each installment, and clause (ii) of subsection (e)(2)(C) shall not apply. In the case of a private foundation, subsection (c)(2) shall be applied by substituting “May 15” for “April 15”.
 
 #### (4) Application of section to certain taxes imposed on S corporations
 
@@ -467,7 +467,7 @@ Subsec. (h). Pub. L. 96–499, §1111(a), added subsec. (h).
 
 Subsec. (e)(2)(B). Pub. L. 94–455, §1906(b)(3)(B), substituted “clause (ii)” for “clauses (ii) and (iii)”.
 
-Subsec. (e)(3), (4). Pub. L. 94–455, §1906(b)(3)(C)(i), redesignated par. (4) as (3). Former par. (3), which related to the computation of a corporation's transitional exemption, was struck out.
+Subsec. (e)(3), (4). Pub. L. 94–455, §1906(b)(3)(C)(i), redesignated par. (4) as (3). Former par. (3), which relatedto the computation of a corporation's transitional exemption, was struck out.
 
 Subsec. (f). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -599,6 +599,28 @@ Pub. L. 109–222, title IV, §401, May 17, 2006, 120 Stat. 353, as amended by P
 
 &emsp;“(3) 27.5 percent of the amount of any required installment of corporate estimated tax which is otherwise due in September 2011 shall not be due until October 1, 2011.”
 
+\[Pub. L. 111–42, title II, §202, July 28, 2009, 123 Stat. 1964, provided that:
+
+\[“(a)
+
+Repeal of Adjustments for 2010, 2011,
+
+and 2013.—Section 401 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] (and any modification of such section contained in any other provision of law) shall not apply with respect to any installment of corporate estimated tax which (without regard to such section) would otherwise be due after December 31, 2009.
+
+\[“(b)
+
+Adjustment for 2014.—Notwithstanding section 6655 of the Internal Revenue Code of 1986—
+
+&emsp;\[“(1) in the case of a corporation with assets of not less than $1,000,000,000 (determined as of the end of the preceding taxable year), the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2014 shall be 100.25 percent of such amount; and
+
+&emsp;\[“(2) the amount of the next required installment after an installment referred to in paragraph (1) shall be appropriately reduced to reflect the amount of the increase by reason of such paragraph.”\]
+
+\[Pub. L. 111–124, §4, Dec. 28, 2009, 123 Stat. 3485, provided that: “The percentage under paragraph (1) of section 202(b) of the Corporate Estimated Tax Shift Act of 2009 \[Pub. L. 111–42, set out above\] in effect on the date of the enactment of this Act \[Dec. 28, 2009\] is increased by 1.5 percentage points.”\]
+
+\[Pub. L. 111–92, §18, Nov. 6, 2009, 123 Stat. 2997, provided that: “The percentage under paragraph (1) of section 202(b) of the Corporate Estimated Tax Shift Act of 2009 \[Pub. L. 111–42, set out above\] in effect on the date of the enactment of this Act \[Nov. 6, 2009\] is increased by 33.0 percentage points.”\]
+
+\[Pub. L. 111–3, title VII, §704, Feb. 4, 2009, 123 Stat. 111, provided that: “The percentage under subparagraph (C) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[Feb. 4, 2009\] is increased by 0.5 percentage point.”\]
+
 \[Pub. L. 110–436, §6, Oct. 16, 2008, 122 Stat. 4981, provided that: “The percentage under subparagraph (C) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[Oct. 16, 2008\] is increased by 2 percentage points.”\]
 
 \[Pub. L. 110–289, div. C, title III, §3094(a), July 30, 2008, 122 Stat. 2912, provided that: “Subparagraph (B) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 110–222, set out above\] is amended by striking the percentage contained therein and inserting ‘100 percent’. No other provision of law which would change such percentage shall have any force and effect.”\]
@@ -675,7 +697,7 @@ No addition to tax to be made under this section for any period before Mar. 16, 
 
 #### Waiver of Estimated Tax Penalties
 
-Section 1879(a) of Pub. L. 99–514 provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1954 \[now 1986\] (relating to failure to pay estimated income tax) for any period before April 16, 1985 (March 16, 1985 in the case of a taxpayer subject to section 6655 of such Code), with respect to any underpayment, to the extent that such underpayment was created or increased by any provision of the Tax Reform Act of 1984 \[Pub. L. 98–369, div. A\].”
+Section 1879(a) of Pub. L. 99–514 provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1954 \[now 1986\] (relating to failure to pay estimated income tax) for any period before April 16, 1985 (March 16, 1985 in the case of a taxpayer subject to section 6655 of such Code), withrespect to any underpayment, to the extent that such underpayment was created or increased by any provision of the Tax Reform Act of 1984 \[Pub. L. 98–369, div. A\].”
 
 #### Underpayments of Estimated Tax for 1984
 

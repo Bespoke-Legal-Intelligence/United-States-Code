@@ -62,7 +62,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;In the case of a qualified reserve plan, the amount properly taken into account for the taxable year is the reasonable addition forsuch year to a reserve for the taxpayer's liability under the plan. Unless otherwise required or permitted in regulations prescribed by the Secretary, the reserve for the taxpayer's liability shall be determined under the unit credit method modified to reflect the requirements of paragraphs (3) and (4). All benefits paid under the plan shall be charged to the reserve.
+&emsp;In the case of a qualified reserve plan, the amount properly taken into account for the taxable year is the reasonable addition for such year to a reserve for the taxpayer's liability under the plan. Unless otherwise required or permitted in regulations prescribed by the Secretary, the reserve for the taxpayer's liability shall be determined under the unit credit method modified to reflect the requirements of paragraphs (3) and (4). All benefits paid under the plan shall be charged to the reserve.
 
 #### (2) Income item
 
@@ -160,7 +160,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;No deduction shall be allowed under this section with respect to any plan for any taxable year unless the taxpayer furnishes to the Secretary with respect to such plan (atsuch time as the Secretary may by regulations prescribe)—
+&emsp;&emsp;No deduction shall be allowed under this section with respect to any plan for any taxable year unless the taxpayer furnishes to the Secretary with respect to such plan (at such time as the Secretary may by regulations prescribe)—
 
 &emsp;&emsp;&emsp;(i) a statement from the foreign tax authorities specifying the amount of the deduction allowed in computing taxable income under foreign law for such year with respect to such plan,
 

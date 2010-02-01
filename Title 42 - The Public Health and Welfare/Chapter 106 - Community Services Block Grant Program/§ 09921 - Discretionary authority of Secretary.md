@@ -18,7 +18,7 @@
 
 #### (C) Governing boards
 
-&emsp;&emsp;For a community development corporation to receive funds to carry out this paragraph,the corporation shall be governed by a board that shall consist of residents of the community and business and civic leaders and shall have as a principal purpose planning, developing, or managing low-income housing or community development projects.
+&emsp;&emsp;For a community development corporation to receive funds to carry out this paragraph, the corporation shall be governed by a board that shall consist of residents of the community and business and civic leaders and shall have as a principal purpose planning, developing, or managing low-income housing or community development projects.
 
 #### (D) Geographic distribution
 
@@ -62,9 +62,13 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 #### Procedures To Permit Grant Funds or Intangible Property Acquired by Grant Funds To Become Sole Property of Grantees
 
-Pub. L. 110–161, div. G, title II, Dec. 26, 2007, 121 Stat. 2180, provided in part: “That the Secretary of Health and Human Services shall establish procedures regarding the disposition of intangible property which permits grant funds, or intangible assets acquired with funds authorized under section 680 of the Community Services Block Grant Act \[42 U.S.C. 9921\] to become the sole property of such grantees after a period of not more than 12 years after the end of the grant for purposes and uses consistent with the original grant”.
+Pub. L. 111–117, div. D, title II, Dec. 16, 2009, 123 Stat. 3251, provided in part: “That the Secretary of Health and Human Services shall establish procedures regarding the disposition of intangible assets and program income that permit such assets acquired with, and program income derived from, grant funds authorized under section 680 of the CSBG Act \[Community Services Block Grant Act, 42 U.S.C. 9921\] to become the sole property of such grantees after a period of not more than 12 years after the end of the grant period for any activity consistent with section 680(a)(2)(A) of the CSBG Act \[42 U.S.C. 9921(a)(2)(A)\]: <i>Provided further</i>, That intangible assets in the form of loans, equity investments and other debt instruments, and program income may be used by grantees for any eligible purpose consistent with section 680(a)(2)(A) of the CSBG Act: <i>Provided further</i>, That these procedures shall apply to such grant funds made available after November 29, 1999”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 111–8, div. F, title II, Mar. 11, 2009, 123 Stat. 775.
+
+Pub. L. 110–161, div. G, title II, Dec. 26, 2007, 121 Stat. 2180.
 
 Pub. L. 109–149, title II, Dec. 30, 2005, 119 Stat. 2855.
 

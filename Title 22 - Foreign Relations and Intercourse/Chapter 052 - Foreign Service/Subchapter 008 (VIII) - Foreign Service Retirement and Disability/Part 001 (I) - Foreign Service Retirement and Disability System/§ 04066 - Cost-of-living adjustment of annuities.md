@@ -62,7 +62,7 @@ Effective from its commencing date, there shall be an increase of 10 percent in 
 
 &emsp;“(b) the number of full months for which the annuity was payable from the Fund under this part before the effective date of the increase (counting any portion of a month as a full month).
 
-> In the administration of this paragraph, the number of days of unused sick leave to the credit of a participant or deceased participant on the effective date of the then last preceding general annuity increase under this section shall be deemed to be equal to the number of days of unused sick leave to his or her credit on the day of separation from the Service.”
+> In the administration of this paragraph, the number of days of unused sick leave to the credit of a participant or deceased participant on the effective date of the then last preceding general annuity increase under this section shall be deemed to be equal to the number ofdays of unused sick leave to his or her credit on the day of separation from the Service.”
 
 1986—Subsecs. (a), (c). Pub. L. 99–335 inserted “under this part” after “payable from the Fund” wherever appearing.
 

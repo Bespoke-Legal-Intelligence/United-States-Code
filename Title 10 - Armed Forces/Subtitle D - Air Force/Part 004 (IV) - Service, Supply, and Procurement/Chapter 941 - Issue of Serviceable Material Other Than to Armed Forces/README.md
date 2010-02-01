@@ -11,6 +11,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendments
+
+2009—Pub. L. 111–84, div. A, title X, §1073(a)(32), Oct. 28, 2009, 123 Stat. 2474, transferred item 9515 “Charter air transportation services: minimum annual purchase amount for carriers participating in Civil Reserve Air Fleet” to chapter 931 of this title.
+
+2008—Pub. L. 110–417, \[div. A\], title X, §1033(b), Oct. 14, 2008, 122 Stat. 4593, added item 9515 at end.
+
 
 ---
 

@@ -62,7 +62,7 @@ In awarding grants under this section, the Secretary shall—
 
 &emsp;(3) take into consideration the capability of an institution of higher education that is participating in an eligible partnership to—
 
-&emsp;&emsp;(A) offer one- or two-year high-quality programs of instruction and job skill trainingfor students entering a high-growth and high-wage occupation or industry;
+&emsp;&emsp;(A) offer one- or two-year high-quality programs of instruction and job skill training for students entering a high-growth and high-wage occupation or industry;
 
 &emsp;&emsp;(B) involve the local business community, and to place graduates in employment in high-growth and high-wage occupations or industries in the community; and
 

@@ -66,7 +66,7 @@ The judge may require the applicant to furnish such other information as may be 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2) to (4). Pub. L. 110–261, §104(1)(A), (B), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “the authority conferred on the Attorney General by the President of the United States and the approval of the Attorney General to make the application;”.
+2008—Subsec. (a)(2) to (4). Pub. L. 110–261, §104(1)(A), (B), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “the authority conferred on the Attorney General by the President of the United States and the approval of the Attorney General to make the application;”.
 
 Subsec. (a)(5). Pub. L. 110–261, §104(1)(B), (C), redesignated par. (6) as (5) and struck out “detailed” before “description”. Former par. (5) redesignated (4).
 
@@ -78,13 +78,13 @@ Subsec. (a)(8) to (11). Pub. L. 110–261, §104(1)(A), (B), redesignated pars. 
 
 Subsecs. (b) to (e). Pub. L. 110–261, §104(2)–(4), redesignated subsecs. (c) to (e) as (b) to (d), respectively, in subsec. (d)(1)(A) substituted “the Director of National Intelligence, or the Director of the Central Intelligence Agency” for “or the Director of National Intelligence”, and struck out former subsec. (b) which related to exclusion of certain information respecting foreign power targets.
 
-<b>2006</b>—Subsec. (a)(3). Pub. L. 109–177 inserted “specific” before “target”.
+2006—Subsec. (a)(3). Pub. L. 109–177 inserted “specific” before “target”.
 
-<b>2004</b>—Subsec. (e)(1)(A). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+2004—Subsec. (e)(1)(A). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-<b>2001</b>—Subsec. (a)(7)(B). Pub. L. 107–56 substituted “a significant purpose” for “the purpose”.
+2001—Subsec. (a)(7)(B). Pub. L. 107–56 substituted “a significant purpose” for “the purpose”.
 
-<b>2000</b>—Subsec. (e). Pub. L. 106–567 added subsec. (e).
+2000—Subsec. (e). Pub. L. 106–567 added subsec. (e).
 
 #### Effective Date of 2008 Amendment
 

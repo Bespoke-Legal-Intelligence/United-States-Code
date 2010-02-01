@@ -54,15 +54,15 @@ As used in this section—
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(2). Pub. L. 108–458, §1071(a)(5), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
+2004—Subsec. (a)(2). Pub. L. 108–458, §1071(a)(5), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
 Subsec. (a)(3)(C). Pub. L. 108–458, §1071(a)(1)(Z), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 Subsec. (d)(2). Pub. L. 108–458, §1071(a)(1)(AA), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-<b>2002</b>—Subsec. (d)(2). Pub. L. 107–306 substituted “congressional intelligence committees” for “intelligence committees”.
+2002—Subsec. (d)(2). Pub. L. 107–306 substituted “congressional intelligence committees” for “intelligence committees”.
 
-<b>1991</b>—Subsec. (a)(2). Pub. L. 102–88, §602(c)(1), substituted “section 413b” for “section 413”.
+1991—Subsec. (a)(2). Pub. L. 102–88, §602(c)(1), substituted “section 413b” for “section 413”.
 
 Subsecs. (c) to (e). Pub. L. 102–88, §603, added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 

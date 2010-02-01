@@ -16,7 +16,7 @@
 
 > Unless otherwise authorized by this section, information about the juvenile record may not be released when the request for information is related to an application for employment, license, bonding, or any civil right or privilege. Responses to such inquiries shall not be different from responses made about persons who have never been involved in a delinquency proceeding.
 
-(b) District courts exercising jurisdiction over any juvenile shall inform the juvenile, and his parent or guardian, in writing in clear and nontechnical language, of rights relating to his juvenile record.
+(b) District courts exercising jurisdiction over any juvenile shall inform the juvenile, and hisparent or guardian, in writing in clear and nontechnical language, of rights relating to his juvenile record.
 
 (c) During the course of any juvenile delinquency proceeding, all information and records relating to the proceeding, which are obtained or prepared in the discharge of an official duty by an employee of the court or an employee of any other governmental agency, shall not be disclosed directly or indirectly to anyone other than the judge, counsel for the juvenile and the Government, or others entitled under this section to receive juvenile records.
 

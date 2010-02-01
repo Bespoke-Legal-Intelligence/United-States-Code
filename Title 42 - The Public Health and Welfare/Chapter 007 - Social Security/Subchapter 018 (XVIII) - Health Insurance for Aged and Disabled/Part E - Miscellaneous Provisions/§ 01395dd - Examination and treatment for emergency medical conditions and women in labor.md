@@ -16,7 +16,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 #### (2) Refusal to consent to treatment
 
-&emsp;A hospital is deemed to meet the requirement of paragraph (1)(A) with respect to an individual if the hospital offers the individual the further medical examination and treatment described in that paragraph and informs the individual (or a person acting on the individual's behalf) of the risks and benefits to the individual of such examination and treatment,but the individual (or a person acting on the individual's behalf) refuses to consent to the examination and treatment. The hospital shall take all reasonable steps to secure the individual's (or person's) written informed consent to refuse such examination and treatment.
+&emsp;A hospital is deemed to meet the requirement of paragraph (1)(A) with respect to an individual if the hospital offers the individual the further medical examination and treatment described in that paragraph and informs the individual (or a person acting on the individual's behalf) of the risks and benefits to the individual of such examination and treatment, but the individual (or a person acting on the individual's behalf) refuses to consent to the examination and treatment. The hospital shall take all reasonable steps to secure the individual's (or person's) written informed consent to refuse such examination and treatment.
 
 #### (3) Refusal to consent to transfer
 
@@ -68,7 +68,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 &emsp;&emsp;(ii) misrepresents an individual's condition or other information, including a hospital's obligations under this section,
 
-> &emsp;is subject to a civil money penalty of not more than $50,000 for each such violation and, if theviolation is gross and flagrant or is repeated, to exclusion from participation in this subchapter and State health care programs. The provisions of section 1320a–7a of this title (other than the first and second sentences of subsection (a) and subsection (b)) shall apply to a civil money penalty and exclusion under this subparagraph in the same manner as such provisions apply with respect to a penalty, exclusion, or proceeding under section 1320a–7a(a) of this title.
+> &emsp;is subject to a civil money penalty of not more than $50,000 for each such violation and, if the violation is gross and flagrant or is repeated, to exclusion from participation in this subchapter and State health care programs. The provisions of section 1320a–7a of this title (other than the first and second sentences of subsection (a) and subsection (b)) shall apply to a civil money penalty and exclusion under this subparagraph in the same manner as such provisions apply with respect to a penalty, exclusion, or proceeding under section 1320a–7a(a) of this title.
 
 &emsp;(C) If, after an initial examination, a physician determines that the individual requires the services of a physician listed by the hospital on its list of on-call physicians (required to be maintained under section 1395cc(a)(1)(I) of this title) and notifies the on-call physician and the on-call physician fails or refuses to appear within a reasonable period of time, and the physician orders the transfer of the individual because the physician determines that without the services of the on-call physician the benefits of transfer outweigh the risks of transfer, the physician authorizing the transfer shall not be subject to a penalty under subparagraph (B). However, the previous sentence shall not apply to the hospital or to the on-call physician who failed or refused to appear.
 
@@ -84,7 +84,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 #### (C) Limitations on actions
 
-&emsp;&emsp;No action may be brought under this paragraph more than two years after the date of the violation with respect to which the action is brought.
+&emsp;&emsp;No action may be brought under this paragraph more than two years after the date ofthe violation with respect to which the action is brought.
 
 #### (3) Consultation with peer review organizations
 
@@ -140,7 +140,7 @@ A participating hospital may not delay provision of an appropriate medical scree
 
 A participating hospital may not penalize or take adverse action against a qualified medical person described in subsection (c)(1)(A)(iii) of this section or a physician because the person or physician refuses to authorize the transfer of an individual with an emergency medical condition that has not been stabilized or against any hospital employee because the employee reports a violation of a requirement of this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1867, as added Pub. L. 99–272, title IX, §9121(b), Apr. 7, 1986, 100 Stat. 164; amended Pub. L. 99–509, title IX, §9307(c)(4), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 99–514, title XVIII, §1895(b)(4), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4009(a)(1), formerly §4009(a)(1), (2), Dec. 22, 1987, 101 Stat. 1330–56, 1330–57; Pub. L. 100–360, title IV, §411(b)(8)(A)(i), July 1, 1988, 102 Stat. 772; Pub. L. 100–485, title VI, §608(d)(18)(E), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xiv), 6211(a)–(h), Dec. 19, 1989, 103 Stat. 2154, 2245–2248; Pub. L. 101–508, title IV, §§4008(b)(1)–(3)(A), 4207(a)(1)(A), (2), (3), (k)(3), formerly 4027(a)(1)(A), (2), (3), (k)(3), Nov. 5, 1990, 104 Stat. 1388–44, 1388–117, 1388–124, renumbered and amended Pub. L. 103–432, title I, §160(d)(4), (5)(A), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373; Pub. L. 108–173, title VII, §736(a)(14), title IX, §944(b), (c)(1), Dec. 8, 2003, 117 Stat. 2355, 2423.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1867, as added Pub. L. 99–272, title IX, §9121(b), Apr. 7, 1986, 100 Stat. 164; amended Pub. L. 99–509, title IX,§9307(c)(4), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 99–514, title XVIII, §1895(b)(4), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4009(a)(1), formerly §4009(a)(1), (2), Dec. 22, 1987, 101 Stat. 1330–56, 1330–57; Pub. L. 100–360, title IV, §411(b)(8)(A)(i), July 1, 1988, 102 Stat. 772; Pub. L. 100–485, title VI, §608(d)(18)(E), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xiv), 6211(a)–(h), Dec. 19, 1989, 103 Stat. 2154, 2245–2248; Pub. L. 101–508, title IV, §§4008(b)(1)–(3)(A), 4207(a)(1)(A), (2), (3), (k)(3), formerly 4027(a)(1)(A), (2), (3), (k)(3), Nov. 5, 1990, 104 Stat. 1388–44, 1388–117, 1388–124, renumbered and amended Pub. L. 103–432, title I, §160(d)(4), (5)(A), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373; Pub. L. 108–173, title VII, §736(a)(14), title IX, §944(b), (c)(1), Dec. 8, 2003, 117 Stat. 2355, 2423.)
 
 #### References in Text
 
@@ -278,7 +278,7 @@ Amendment by Pub. L. 105–33 applicable to services furnished on or after Oct. 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 4008(b)(1)–(3)(A) of Pub. L. 101–508 applicable to actions occurring on or after the first day of the sixth month beginning after Nov. 5, 1990, see section 4008(b)(4) of Pub. L. 101–508, set out as a note under section 1395cc of this title.
+Amendment by section 4008(b)(1)–(3)(A) of Pub. L. 101–508 applicable to actions occurring on or after thefirst day of the sixth month beginning after Nov. 5, 1990, see section 4008(b)(4) of Pub. L. 101–508, set out as a note under section 1395cc of this title.
 
 Amendment by section 4207(a)(1)(A) of Pub. L. 101–508 effective on the first day of the first month beginning more than 60 days after Nov. 5, 1990, see section 4207(a)(1)(C) of Pub. L. 101–508, as amended, set out as a note under section 1320c–3 of this title.
 
@@ -392,7 +392,7 @@ Based on percentage of undocumented aliens.—
 
 &emsp;&emsp;“(A)
 
-In general.—Out of the amount appropriated under subsection (a) for a fiscal year, the Secretary shall use $167,000,000 of such amount to make allotments for such fiscal year in accordance with subparagraph (B).
+In general.—Out of the amount appropriated under subsection (a) for a fiscal year, theSecretary shall use $167,000,000 of such amount to make allotments for such fiscal year in accordance with subparagraph (B).
 
 &emsp;&emsp;“(B)
 

@@ -48,7 +48,7 @@ By virtue of the authority vested in me by the Postal Reorganization Act (39 U.S
 
 Section 1. The authority conferred upon the President by section 2002(d) of title 39 of the United States Code is hereby delegated to the Administrator of General Services subject to the provisions of this order.
 
-Sec. 2. Property transferred to the Postal Service under this order shall be subject to reimbursement at fair market value, as agreed to by the Administrator of General Services and the Postmaster General, unless the Director of the Office of Management and Budget finds that a different basis of valuation, or transfer without reimbursement, is more equitable or better serves the public interest.
+Sec. 2. Property transferred to the Postal Service under this order shall be subject to reimbursement at fair market value, as agreed to by the Administrator of General Services and the Postmaster General, unlessthe Director of the Office of Management and Budget finds that a different basis of valuation, or transfer without reimbursement, is more equitable or better serves the public interest.
 
 Sec. 3. Reimbursement of fair market value required for property transfers to the Postal Service under this order may consist of cash payments or, subject to approval by the Director of the Office of Management and Budget, property transferred from the Postal Service to other departments, agencies, or independent establishments of the Government of the United States, or both cash and approved properties.
 

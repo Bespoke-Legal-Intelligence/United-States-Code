@@ -28,7 +28,7 @@ In providing for the direction, supervision, and control of the Capitol Guide Se
 
 &emsp;&emsp;(B) fix, and adjust from time to time, respective rates of pay at single per annum (gross) rates;
 
-&emsp;(4) with respect to the individuals appointed under paragraph (2), take appropriate disciplinary action, including, when circumstanceswarrant, suspension from duty without pay, reduction in pay, demotion, or termination of employment with the Capitol Guide Service, against any employee who violates any provision of this section or any regulation prescribed by the Architect of the Capitol under paragraph (8);
+&emsp;(4) with respect to the individuals appointed under paragraph (2), take appropriate disciplinary action, including, when circumstances warrant, suspension from duty without pay, reduction in pay, demotion, or termination of employment with the Capitol Guide Service, against any employee who violates any provision of this section or any regulation prescribed by the Architect of the Capitol under paragraph (8);
 
 &emsp;(5) prescribe a uniform dress, including appropriate insignia, which shall be worn by personnel of the Capitol Guide Service;
 

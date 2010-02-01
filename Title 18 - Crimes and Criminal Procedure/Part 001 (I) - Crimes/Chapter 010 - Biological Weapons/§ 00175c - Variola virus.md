@@ -68,5 +68,5 @@ Findings.—Congress makes the following findings:
 
 “(b)
 
-Purpose.—The purpose of this subtitle \[subtitle J (§§6901–6911) of title VI of Pub. L. 108–458, see ShortTitle of 2004 Amendment note set out under section 1 of this title\] is to combat the potential use of weapons that have the ability to cause widespread harm to United States persons and the United States economy (and that have no legitimate private use) and to threaten or harm the national security or foreign relations of the United States.”
+Purpose.—The purpose of this subtitle \[subtitle J (§§6901–6911) of title VI of Pub. L. 108–458, see Short Title of 2004 Amendment note set out under section 1 of this title\] is to combat the potential use of weapons that have the ability to cause widespread harm to United States persons and the United States economy (and that have no legitimate private use) and to threaten or harm the national security or foreign relations of the United States.”
 

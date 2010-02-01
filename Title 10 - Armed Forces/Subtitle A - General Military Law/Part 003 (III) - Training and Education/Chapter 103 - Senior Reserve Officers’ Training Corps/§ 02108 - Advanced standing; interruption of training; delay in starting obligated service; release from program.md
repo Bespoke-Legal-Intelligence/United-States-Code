@@ -2,7 +2,7 @@
 
 (a) The Secretary of the military department concerned may give to any enlisted member of an armed force under his jurisdiction, or any person who has served on active duty in any armed force, such advanced standing in the program as may be justified by his education and training.
 
-(b) In determining a member's eligibility for advanced training, the Secretary of the militarydepartment concerned may credit him with any military training that is substantially equivalent in kind to that prescribed for admission to advanced training and was received while he was taking a course of instruction in a program under the jurisdiction of another armed force or while he was on active duty in the armed forces.
+(b) In determining a member's eligibility for advanced training, the Secretary of the military department concerned may credit him with any military training that is substantially equivalent in kind to that prescribed for admission to advanced training and was received while he was taking a course of instruction in a program under the jurisdiction of another armed force or while he was on active duty in the armed forces.
 
 (c) The Secretary of the military department concerned may excuse from a portion of the prescribed course of military instruction, including field training and practice cruises, any person found qualified on the basis of his previous education, military experience, or both.
 

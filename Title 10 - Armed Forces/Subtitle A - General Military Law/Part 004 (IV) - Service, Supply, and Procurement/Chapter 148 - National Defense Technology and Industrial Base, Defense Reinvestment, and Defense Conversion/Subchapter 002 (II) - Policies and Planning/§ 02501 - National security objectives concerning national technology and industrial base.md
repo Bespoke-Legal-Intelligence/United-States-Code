@@ -20,6 +20,8 @@ National Security Objectives for National Technology and Industrial Base.—It i
 
 &emsp;(5) Providing for the development, manufacture, and supply of items and technologies critical to the production and sustainment of advanced military weapon systems within the national technology and industrial base.
 
+&emsp;(6) Maintaining critical design skills to ensure that the armed forces are provided with systems capable of ensuring technological superiority over potential adversaries.
+
 (b)
 
 Civil-Military Integration Policy.—It is the policy of Congress that the United States attain the national technology and industrial base objectives set forth in subsection (a) through acquisition policy reforms that have the following objectives:
@@ -30,7 +32,7 @@ Civil-Military Integration Policy.—It is the policy of Congress that the Unite
 
 &emsp;(3) Reducing Federal Government barriers to the use of commercial products, processes, and standards.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4211, Oct. 23, 1992, 106 Stat. 2662; amended Pub. L. 103–35, title II, §201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, §1182(a)(10), title XIII, §1313, Nov. 30, 1993, 107 Stat. 1771, 1786; Pub. L. 104–106, div. A, title X, §1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(a), Sept. 23, 1996, 110 Stat. 2612.)
+(Added Pub. L. 102–484, div. D, title XLII, §4211, Oct. 23, 1992, 106 Stat. 2662; amended Pub. L. 103–35, title II, §201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, §1182(a)(10), title XIII, §1313, Nov. 30, 1993, 107 Stat. 1771, 1786; Pub. L. 104–106, div. A, title X, §1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(a), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, §303(a), May 22, 2009, 123 Stat. 1731.)
 
 #### Prior Provisions
 
@@ -39,6 +41,8 @@ A prior section 2501, added Pub. L. 100–456, div. A, title VIII, §821(b)(1)(B
 Another prior section 2501 was renumbered section 2533 of this title.
 
 #### Amendments
+
+2009—Subsec. (a)(6). Pub. L. 111–23 added par. (6).
 
 1996—Pub. L. 104–106, §1081(a)(2), substituted “National security objectives concerning national technology and industrial base” for “Congressional defense policy concerning national technology and industrial base, reinvestment, and conversion” as section catchline.
 
@@ -102,7 +106,7 @@ Pub. L. 109–163, div. A, title II, §253(c), Jan. 6, 2006, 119 Stat. 3180, pro
 
 #### Essential Items Identification and Domestic Production Capabilities Improvement Program
 
-Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, as amended by Pub. L. 109–364, div. A, title VIII, §841, Oct. 17, 2006, 120 Stat. 2335, provided that:
+Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, as amended by Pub. L. 109–364, div. A, title VIII, §841, Oct. 17, 2006, 120 Stat. 2335; Pub. L. 111–84, div. A, title VIII, §846, Oct. 28, 2009, 123 Stat. 2420, provided that:
 
 #### “SEC. 811. CONSISTENCY WITH UNITED STATES OBLIGATIONS UNDER INTERNATIONAL AGREEMENTS.
 
@@ -122,7 +126,7 @@ Assessment Program.—(1) The Secretary of Defense shall establish a program to 
 
 “(b)
 
-Use of Existing Data.—(1) At a minimum, with respect to each prime contract with a value greater than $25,000 for the procurement of defense items andcomponents, the following information from existing sources shall be used for purposes of the assessment program:
+Use of Existing Data.—(1) At a minimum, with respect to each prime contract with a value greater than $25,000 for the procurement of defense items and components, the following information from existing sources shall be used for purposes of the assessment program:
 
 &emsp;“(A) Whether the contractor is a United States or foreign contractor.
 
@@ -178,65 +182,7 @@ Public Availability.—The Secretary of Defense shall make the report submitted 
 
 Applicability.—This section shall not apply to acquisitions made by an agency, or component thereof, that is an element of the intelligence community as set forth in or designated under section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).
 
-#### “SEC. 813. IDENTIFICATION OF ESSENTIAL ITEMS: MILITARY SYSTEM BREAKOUT LIST.
-
-“(a)
-
-Identification Process.—(1) The Secretary of Defense shall establish a process, using the Defense Logistics Information System existing database, to identify, with respect to each military system—
-
-&emsp;“(A) the essential items, assemblies, and components of the system that are active items, assemblies, and components;
-
-&emsp;“(B) foreign and domestic sources of supply for active items, assemblies, and components of the system;
-
-&emsp;“(C) the active items, assemblies, and components of the system that are commercial; and
-
-&emsp;“(D) Federal Supply Class and North American Industry Classification System Codes for active items, assemblies, and components of the system.
-
-“(2) Any modification to the logistics management system or any successor system of the Department of Defense shall maintain the capability to identify—
-
-&emsp;“(A) essential items, assemblies, and components described in paragraph (1)(A);
-
-&emsp;“(B) foreign and domestic sources of supply for active items, assemblies, and components;
-
-&emsp;“(C) the active items, assemblies, and components of the system that are commercial; and
-
-&emsp;“(D) Federal Supply Class and North American Industry Classification System Codes for active items, assemblies, and components.
-
-“(3) For purposes of meeting the requirements set forth in this section, the Secretary of Defense may not require the provision of information beyond the information that is currently provided to the Department of Defense through existing data collection systems by non-Federal entities with respect to contracts and subcontracts with the Department of Defense or any military department.
-
-“(b)
-
-Military System Essential Item Breakout List.—The Secretary of Defense shall produce a list, to be known as the ‘military system essential item breakout list’, consisting of the items, assemblies, and components identified under subsection (a)(1)(A). In producing the list, the Secretary of Defense shall consider the results of the report under subsection (c).
-
-“(c)
-
-Assessment.—Not later than 18 months after the date of the enactment of this Act \[Nov. 24, 2003\], the Secretary of Defense, acting through a federally funded research and development center, shall prepare a report that—
-
-&emsp;“(1) assesses the criteria that should be used for identifying whether an item, assembly, or component is essential to a military system; and
-
-&emsp;“(2) recommends which items, assemblies, and components should be included on the military system essential item breakout list under subsection (b).
-
-“(d)
-
-Report.—(1) Not later than November 1 of each year, beginning with November 1, 2005, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of this section. The report may be submitted in classified and unclassified form.
-
-“(2) The report shall include the following:
-
-&emsp;“(A) A list of each military system covered by the process established under subsection (a).
-
-&emsp;“(B) A list of the items, assemblies, and components on the military system essential item breakout list that are manufactured or produced outside the United States, setting forth military and commercial separately.
-
-&emsp;“(C) The portion of the entire military system essential item breakout list that consists of the items, assemblies, and components listed under subparagraph (B) (stated as a percentage).
-
-&emsp;“(D) A list of each Federal Supply Class and North American Industry Classification System Code represented on the military system essential item breakout list, and the portion of the entire military system essential item breakout list that consists of items, assemblies, or components in such classes or codes (stated as a percentage).
-
-&emsp;“(E) A list of each country outside the United States where the items, assemblies, and components listed under subparagraph (B) are manufactured or produced, and the portion of the entire military system essential item breakout list that consists of—
-
-&emsp;&emsp;“(i) the items, assemblies, or components manufactured or produced in that country, setting forth military and commercial separately (stated as a percentage); and
-
-&emsp;&emsp;“(ii) the Federal Supply Classes and North American Industry Classification System Codes represented by those items, assemblies, or components (stated as a percentage).
-
-“(3) The Secretary shall submit an interim version of the report required by this subsection not later than February 1, 2005, containing as much information as is practicable to be included by such date.
+#### “\[SEC. 813. Repealed. Pub. L. 111–84, div. A, title VIII, §846, Oct. 28, 2009, 123 Stat. 2420.\]
 
 #### “SEC. 814. PRODUCTION CAPABILITIES IMPROVEMENT FOR CERTAIN ESSENTIAL ITEMS USING DEFENSE INDUSTRIAL BASE CAPABILITIES FUND.
 
@@ -426,7 +372,7 @@ Short-Term Objectives.—(1) The Secretary of the Air Force shall establish a ta
 
 &emsp;“(A) consider the work of the integrated product team conducted pursuant to paragraph (5); and
 
-&emsp;“(B) identify the science and technology work of the Air Force that should be undertaken to eliminateeach deficiency in enabling capabilities that is identified by the integrated product team pursuant to subparagraph (B) of that paragraph.
+&emsp;“(B) identify the science and technology work of the Air Force that should be undertaken to eliminate each deficiency in enabling capabilities that is identified by the integrated product team pursuant to subparagraph (B) of that paragraph.
 
 “(e)
 
@@ -440,33 +386,7 @@ Pub. L. 106–65, div. A, title II, §243, Oct. 5, 1999, 113 Stat. 551, required
 
 #### Sense of Congress on Defense Science and Technology Program
 
-Pub. L. 106–65, div. A, title II, §212, Oct. 5, 1999, 113 Stat. 542, as amended by Pub. L. 108–136, div. A, title X, §1031(h)(1), Nov. 24, 2003, 117 Stat. 1604; Pub. L. 109–364, div. A, title II, §217, Oct. 17, 2006, 120 Stat. 2125, provided that:
-
-“(a)
-
-Failure To Comply With Funding Objective.—It is the sense of Congress that the Secretary of Defense has failed to comply with the funding objective for the Defense Science and Technology Program, as stated in section 214(a) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 1948) \[set out as a note below\], thus jeopardizing the stability of the defense technology base and increasing the risk of failure to maintain technological superiority in future weapon systems.
-
-“(b)
-
-Funding Objective.—It is further the sense of Congress that, for each of the fiscal years 2001 through 2012, it should be an objective of the Secretary of Defense to increase the budget for the Defense Science and Technology Program, including the science and technology program within each military department, for the fiscal year over the budget for that program for the preceding fiscal year by a percent that is at least two percent above the rate of inflation as determined by the Office of Management and Budget.”
-
-“(c)
-
-Actions Following Failure To Comply With Objective.—If the proposed budget for a fiscal year covered by subsection (b) fails to comply with the objective set forth in that subsection, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], at the same time that the Department of Defense budget justification materials for the next fiscal year are submitted to Congress—
-
-&emsp;“(1) a detailed, prioritized list, including estimates of required funding, of highly-rated science and technology projects received by the Department through competitive solicitations and broad agency announcements which—
-
-&emsp;&emsp;“(A) are not funded solely due to lack of resources, but
-
-&emsp;&emsp;“(B) represent science and technology opportunities that support the research and development programs and goals of the military departments and the Defense Agencies; and
-
-&emsp;“(2) a report, in both classified and unclassified form, containing an analysis and evaluation of international research and technology capabilities, including an identification of any technology areas in which the United States may not have global technical leadership within the next 10 years, in each of the technology areas described in the following plans:
-
-&emsp;&emsp;“(A) The most current Joint Warfighting Science and Technology Plan required by section 270 of the National Defense Authorization Act for Fiscal Year 1997 \[Pub. L. 104–201\] (10 U.S.C. 2501 note).
-
-&emsp;&emsp;“(B) The Defense Technology Area Plan of the Department of Defense.
-
-&emsp;&emsp;“(C) The Basic Research Plan of the Department of Defense.”
+Pub. L. 106–65, div. A, title II, §212, Oct. 5, 1999, 113 Stat. 542, as amended by Pub. L. 108–136, div. A, title X, §1031(h)(1), Nov. 24, 2003, 117 Stat. 1604; Pub. L. 109–364, div. A, title II, §217, Oct. 17, 2006, 120 Stat. 2125, which provided the sense of Congress as to funding objectives for the Defense Science and Technology Program, was repealed by Pub. L. 111–84, div. A, title II, §213, Oct. 28, 2009, 123 Stat. 2226.
 
 Pub. L. 105–261, div. A, title II, §214, Oct. 17, 1998, 112 Stat. 1948, provided that:
 
@@ -508,7 +428,7 @@ Synergistic management of research and development.—It is the sense of Congres
 
 Management of science and technology.—It is the sense of Congress that—
 
-&emsp;&emsp;“(A) management and funding for the Defense Science and Technology Program for each military department should receive a level of priority andleadership attention equal to the level received by program acquisition, and the Secretary of each military department should ensure that a senior official in the department holds the appropriate title and responsibility to ensure effective oversight and emphasis on science and technology;
+&emsp;&emsp;“(A) management and funding for the Defense Science and Technology Program for each military department should receive a level of priority and leadership attention equal to the level received by program acquisition, and the Secretary of each military department should ensure that a senior official in the department holds the appropriate title and responsibility to ensure effective oversight and emphasis on science and technology;
 
 &emsp;&emsp;“(B) to ensure an appropriate long-term focus for investments, a sufficient percentage of science and technology funds should be directed toward new technology areas, and annual reviews should be conducted for ongoing research areas to ensure that those funded initiatives are either integrated into acquisition programs or discontinued when appropriate;
 
@@ -550,9 +470,7 @@ Definitions.—In this section:
 
 #### Biennial Joint Warfighting Science and Technology Plan
 
-Pub. L. 104–201, div. A, title II, §270, Sept. 23, 1996, 110 Stat. 2469, as amended by Pub. L. 106–65, div. A, title II, §242, title X, §1067(5), Oct. 5, 1999, 113 Stat. 551, 774; Pub. L. 109–163, div. A, title II, §253(a), (b), Jan. 6, 2006, 119 Stat. 3179, 3180, provided that:
-
-“Not later than March 1 of each even-numbered year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a plan for ensuring that the science and technology program of the Department of Defense supports the development of the future joint warfighting capabilities identified as priority requirements for the Armed Forces.
+Pub. L. 104–201, div. A, title II, §270, Sept. 23, 1996, 110 Stat. 2469, as amended by Pub. L. 106–65, div. A, title II, §242, title X, §1067(5), Oct. 5, 1999, 113 Stat. 551, 774; Pub. L. 109–163, div. A, title II, §253(a), (b), Jan. 6, 2006, 119 Stat. 3179, 3180, which required biennial submission to Congress by the Secretary of Defense of a plan for ensuring that the science and technology program of the Department of Defense supported the development of the future joint warfighting capabilities identified as priority requirements for the Armed Forces, was repealed by Pub. L. 111–84, div. A, title II, §241, Oct 28, 2009, 123 Stat. 2237.
 
 #### Cost Reimbursement Rules for Indirect Costs Attributable to Private Sector Work of Defense Contractors
 
@@ -606,7 +524,7 @@ Navy's affordability through commonality program.—Enhanced support by the Secr
 
 &emsp;“(4)
 
-Navy's manufacturing technology and technology base programs.—Enhanced support by the Secretary of Defense for, and strengthened funding for, that portion of the Manufacturing Technology program of the Navy, and that portion of the Technology Base program of the Navy, that are in the areas of shipbuilding technologies and ship repair technologies.
+Navy's manufacturing technology and technology base programs.—Enhanced support by the Secretary of Defense for, and strengthened funding for, that portion of the Manufacturing Technology program of the Navy, and that portion of the Technology Base program of the Navy, that are in theareas of shipbuilding technologies and ship repair technologies.
 
 #### “SEC. 1353. DEPARTMENT OF DEFENSE PROGRAM MANAGEMENT THROUGH DEFENSE ADVANCED RESEARCH PROJECTS AGENCY.
 
@@ -664,7 +582,7 @@ Section 4471 of Pub. L. 102–484, as amended by Pub. L. 103–160, div. A, titl
 
 “(a)
 
-Notice Requirement After Enactment of Appropriations Act.—Each year, not later than 60 daysafter the date of the enactment of an Act appropriating funds for the military functions of the Department of Defense, the Secretary of Defense, in accordance with regulations prescribed by the Secretary—
+Notice Requirement After Enactment of Appropriations Act.—Each year, not later than 60 days after the date of the enactment of an Act appropriating funds for the military functions of the Department of Defense, the Secretary of Defense, in accordance with regulations prescribed by the Secretary—
 
 &emsp;“(1) shall identify each contract (if any) under major defense programs of the Department of Defense that will be terminated or substantially reduced as a result of the funding levels provided in that Act; and
 

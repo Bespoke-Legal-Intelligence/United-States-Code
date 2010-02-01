@@ -28,7 +28,7 @@ Each report submitted under subsection (a) of this section shall contain—
 
 &emsp;(7) key issues in United States policies arising from the most recent consultation requested by the International Monetary Fund under article IV of the Fund's Articles of Agreement; and
 
-&emsp;(8) a report on the size and composition of international capital flows, and the factorscontributing to such flows, including, where possible, an assessment of the impact of such flows on exchange rates and trade flows.
+&emsp;(8) a report on the size and composition of international capital flows, and the factors contributing to such flows, including, where possible, an assessment of the impact of such flows on exchange rates and trade flows.
 
 (Pub. L. 100–418, title III, §3005(a), (b), Aug. 23, 1988, 102 Stat. 1374.)
 

@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(II) the nature of any transaction made by the subscriber over the cable system of the cable operator; or
 
-&emsp;(D) to a government entity as authorized under chapters 119, 121, or 206 of title 18, except that such disclosure shall not include records revealing cable subscriber selection of video programming from a cable operator.
+&emsp;(D) to a government entity as authorized under chapters 119, 121, or 206 of title 18, except that such disclosure shall not includerecords revealing cable subscriber selection of video programming from a cable operator.
 
 #### (d) Subscriber access to information
 
@@ -94,7 +94,7 @@ Except as provided in subsection (c)(2)(D) of this section, a governmental entit
 
 #### References in Text
 
-For “the effective date of this section”, referred to in subsec. (a)(1), as 60 days after Oct. 30, 1984, except whereotherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as an Effective Date note under section 521 of this title.
+For “the effective date of this section”, referred to in subsec. (a)(1), as 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as an Effective Date note under section 521 of this title.
 
 #### Amendments
 

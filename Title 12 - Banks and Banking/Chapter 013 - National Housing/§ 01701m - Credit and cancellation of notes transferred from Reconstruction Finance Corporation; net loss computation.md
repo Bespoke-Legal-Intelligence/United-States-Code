@@ -14,7 +14,7 @@ Section was enacted as part of the Housing Act of 1952, and not as part of the N
 
 #### Transfer of Functions
 
-Functions, powers, and duties of Housing and Home Finance Agency and its Administrator transferred to and vested in Secretary of Housing and Urban Development by Pub. L. 89–174, §5, Sept. 9, 1965, 79 Stat. 669, classified to section 3534 of Title 42, The Public Health and Welfare.
+Functions, powers, and duties of Housing and Home Finance Agency and its Administrator transferred toand vested in Secretary of Housing and Urban Development by Pub. L. 89–174, §5, Sept. 9, 1965, 79 Stat. 669, classified to section 3534 of Title 42, The Public Health and Welfare.
 
 #### Termination, Liquidation, and Abolition of Reconstruction Finance Corporation
 

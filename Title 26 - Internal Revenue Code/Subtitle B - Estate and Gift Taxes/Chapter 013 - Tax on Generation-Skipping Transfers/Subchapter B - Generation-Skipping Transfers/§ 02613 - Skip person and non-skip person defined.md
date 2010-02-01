@@ -20,7 +20,7 @@ For purposes of this chapter, the term “skip person” means—
 
 For purposes of this chapter, the term “non-skip person” means any person who is not a skip person.
 
-(Added Pub. L. 94–455, title XX, §2006(a), Oct. 4, 1976, 90 Stat. 1884; amended Pub. L. 95–600, title VII, §702(n)(2), (3), Nov. 6, 1978, 92 Stat. 2935, 2936; Pub. L. 96–222, title I, §107(a)(2)(B), Apr. 1, 1980, 94 Stat. 222; Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2720; Pub. L. 100–647, title I, §1014(g)(5)(A), Nov. 10, 1988, 102 Stat. 3564.)
+(Added Pub. L. 94–455, title XX, §2006(a), Oct. 4, 1976, 90 Stat. 1884; amended Pub. L. 95–600, title VII, §702(n)(2), (3), Nov. 6, 1978, 92 Stat. 2935, 2936; Pub. L. 96–222, title I, §107(a)(2)(B), Apr. 1, 1980,94 Stat. 222; Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2720; Pub. L. 100–647, title I, §1014(g)(5)(A), Nov. 10, 1988, 102 Stat. 3564.)
 
 #### Amendments
 

@@ -32,7 +32,7 @@ All of the expenses of the commission, including all necessary expenses for tran
 
 #### (d) Principal office at Washington
 
-The principal office of the commission shall be in the city of Washington, but it may meet and exercise all its powers at any other place. Thecommission may, by one or more of its members, or by such agents as it may designate, prosecute any inquiry necessary to its duties in any part of the United States or in any foreign country.
+The principal office of the commission shall be in the city of Washington, but it may meet and exercise all its powers at any other place. The commission may, by one or more of its members, or by such agents as it may designate, prosecute any inquiry necessary to its duties in any part of the United States or in any foreign country.
 
 #### (e) Office at New York
 

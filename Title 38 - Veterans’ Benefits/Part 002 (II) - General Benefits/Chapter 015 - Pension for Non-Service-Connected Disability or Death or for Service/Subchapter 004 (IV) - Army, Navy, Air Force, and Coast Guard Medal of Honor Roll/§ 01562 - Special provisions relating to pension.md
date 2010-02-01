@@ -8,7 +8,7 @@
 
 (d) If any person has been awarded more than one medal of honor, such person shall not receive more than one special pension.
 
-(e) Effective as of December 1 each year, the Secretary shall increase the amount of monthly special pension payable under subsection (a) as of November 30 of such year by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1 of such year as a result of a determination under section 215(i) of that Act (42 U.S.C. 415(i)).
+(e) Effective as of December 1 each year, the Secretary shall increase the amount of monthly special pension payable under subsection (a) asof November 30 of such year by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1 of such year as a result of a determination under section 215(i) of that Act (42 U.S.C. 415(i)).
 
 (f)(1) The Secretary shall pay, in a lump sum, to each person who is in receipt of special pension payable under this section an amount equal to the total amount of special pension that the person would have received during the period beginning on the first day of the first month beginning after the date of the act for which the person was awarded the Medal of Honor and ending on the last day of the month preceding the month in which the person's special pension in fact commenced.
 
@@ -130,7 +130,7 @@ Another prior section 1686, which related to approval of courses, was renumbered
 
 Another prior section 1686, which related to discontinuance of educational assistance allowance by Administrator, was renumbered section 1687 and subsequently repealed by Pub. L. 92–540, title IV, §401(6), Oct. 24, 1972, 86 Stat. 1090.
 
-Prior section 1687, added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 19, §1686; renumbered §1687, Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186, related to discontinuance of educational assistance allowance byAdministrator, prior to repeal by Pub. L. 92–540, title IV, §401(6), Oct. 24, 1972, 86 Stat. 1090. See section 3690(b) of this title.
+Prior section 1687, added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 19, §1686; renumbered §1687, Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186, related to discontinuance of educational assistance allowance by Administrator, prior to repeal by Pub. L. 92–540, title IV, §401(6), Oct. 24, 1972, 86 Stat. 1090. See section 3690(b) of this title.
 
 Prior sections 1695 to 1698 were repealed, effective Oct. 1, 1980, by Pub. L. 96–466, title VI, §601(a)(1), title VIII, §802(f), Oct. 17, 1980, 94 Stat. 2208, 2218.
 

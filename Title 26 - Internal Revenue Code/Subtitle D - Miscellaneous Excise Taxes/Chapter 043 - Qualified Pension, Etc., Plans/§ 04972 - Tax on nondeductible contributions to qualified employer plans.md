@@ -98,11 +98,11 @@ For purposes of this section—
 
 #### Prior Provisions
 
-A prior section, added Pub. L. 93–406, title II, §2001(f)(1), Sept. 2, 1974, 88 Stat. 955; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title III, §312(e)(3), Aug. 13, 1981, 95 Stat. 285; Pub. L. 97–448, title I, §103(c)(10)(B), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–369, div. A, title IV, §491(d)(40), July 18, 1984, 98 Stat. 851, related to tax on excess contributions for self-employed individuals, prior to repeal applicable to years beginning after Dec. 31, 1983, by Pub. L. 97–248, title II, §237(c)(1), Sept. 3, 1982, 96 Stat. 511.
+A prior section, added Pub. L. 93–406, title II, §2001(f)(1), Sept. 2, 1974, 88 Stat. 955; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title III, §312(e)(3), Aug. 13, 1981, 95 Stat. 285; Pub. L. 97–448, title I, §103(c)(10)(B), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–369, div. A, title IV, §491(d)(40), July 18, 1984, 98 Stat. 851, related to tax on excess contributions for self-employed individuals, prior to repeal applicable to years beginning after Dec.31, 1983, by Pub. L. 97–248, title II, §237(c)(1), Sept. 3, 1982, 96 Stat. 511.
 
 #### Amendments
 
-2006—Subsec. (c)(6)(A). Pub. L. 109–280, §803(c), amended subpar. (A) generally. Prior to amendment, subpar.\(A) read as follows: “so much of the contributions to 1 or more defined contribution plans which are not deductible when contributed solely because of section 404(a)(7) as does not exceed the greater of—
+2006—Subsec. (c)(6)(A). Pub. L. 109–280, §803(c), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “so much of the contributions to 1 or more defined contribution plans which are not deductible when contributed solely because of section 404(a)(7) as does not exceed the greater of—
 
 &emsp;“(i) the amount of contributions not in excess of 6 percent of compensation (within the meaning of section 404(a) and as adjusted under section 404(a)(12)) paid or accrued (during the taxable year for which the contributions were made) to beneficiaries under the plans, or
 

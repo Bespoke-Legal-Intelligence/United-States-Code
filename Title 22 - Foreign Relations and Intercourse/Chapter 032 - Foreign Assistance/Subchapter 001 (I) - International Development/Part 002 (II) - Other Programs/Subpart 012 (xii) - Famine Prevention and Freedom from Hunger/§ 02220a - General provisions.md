@@ -6,7 +6,7 @@ The Congress declares that, in order to achieve the mutual goals among nations o
 
 The Congress so declares because it finds—
 
-&emsp;(A) that the establishment, endowment, and continuing support of land-grant universities in the United States by Federal, State, and county governments has led to agricultural progress with and through the private sector in this country and to understanding processes of economic development;
+&emsp;(A) that the establishment, endowment, and continuing support of land-grant universitiesin the United States by Federal, State, and county governments has led to agricultural progress with and through the private sector in this country and to understanding processes of economic development;
 
 &emsp;(B) that land-grant and other universities in the United States have demonstrated over many years their ability to cooperate with international agencies, educational and research institutions in other countries, the private sector, and nongovernmental organizations worldwide, in expanding global agricultural production, processing, business and trade, to the benefit of aid recipient countries and of the United States;
 
@@ -26,7 +26,7 @@ The Congress so declares because it finds—
 
 #### (b) Congressional declaration for collation of components to increase world food production
 
-Accordingly, the Congress declares that, in order to prevent famine and establish freedomfrom hunger, the following components must be brought together in a coordinated program to increase world food and fiber production, agricultural trade, and responsible management of natural resources, including—
+Accordingly, the Congress declares that, in order to prevent famine and establish freedom from hunger, the following components must be brought together in a coordinated program to increase world food and fiber production, agricultural trade, and responsible management of natural resources, including—
 
 &emsp;(1) continued efforts by the international agricultural research centers and other international research entities to provide a global network, including United States universities, for international scientific collaboration on crops, livestock, forests, fisheries, farming resources, and food systems of worldwide importance;
 
@@ -102,7 +102,7 @@ The Equity in Educational Land-Grant Status Act of 1994, referred to in subsec. 
 
 2000—Subsec. (a). Pub. L. 106–373, §2(a)(2)(A), in second sentence, redesignated pars. (1) to (7) as subpars. (A) to (G), respectively.
 
-Pub. L. 106–373, §2(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “The Congress declares that, in order to prevent famine and establish freedom from hunger, the United States should strengthen the capacities of the United States land-grant and other eligible universities in program-related agricultural institutional development and research, consistent with sections 2151a and 2151a–1 of this title, should improve their participation in the United States Government's international efforts to apply more effective agricultural sciences to the goal of increasing world food production, and in general should provide increased and longer term support to the application of science to solving food and nutrition problems of the developing countries.”
+Pub. L. 106–373, §2(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “The Congress declares that, in order to prevent famine and establish freedom from hunger, the United States should strengthen the capacities of the United States land-grant and other eligible universities in program-related agricultural institutional development and research, consistent with sections 2151a and 2151a–1 of this title, should improve their participation in the United States Government's international efforts to apply more effective agricultural sciences to the goal of increasing world food production, and in generalshould provide increased and longer term support to the application of science to solving food and nutrition problems of the developing countries.”
 
 Subsec. (a)(A). Pub. L. 106–373, §2(a)(2)(B), substituted “with and through the private sector in this country and to understanding processes of economic development” for “in this country”.
 
@@ -224,5 +224,5 @@ Pub. L. 93–189, §39, Dec. 17, 1973, 87 Stat. 735, as amended by Pub. L. 110�
 
 &emsp;“(1) in making assessments which would affect or relate to the level of domestic production, the Executive Branch should include in the estimates of overall utilization the expected demands for humanitarian food assistance through such programs as are carried out under the Food for Peace Act (Public Law 480) \[7 U.S.C. 1691 et seq.\]; and
 
-&emsp;“(2) legislation providing increased flexibility for responding to emergency and humanitarian requirements for food assistance should be considered as promptly as possible to the end that the last sentence of section 401 of the Food for Peace Act (Public Law480) \[7 U.S.C. 1731\], may be amended by striking the period and inserting in lieu thereof a comma and the following: ‘unless the Secretary determines that some part of the exportable supply should be used to carry out the national interest and humanitarian objectives of this Act \[see Short Title of 1973 Amendment note set out under section 2151 of this title\]’.”
+&emsp;“(2) legislation providing increased flexibility for responding to emergency and humanitarian requirements for food assistance should be considered as promptly as possible to the end that the last sentence of section 401 of the Food for Peace Act (Public Law 480) \[7 U.S.C. 1731\], may be amended by striking the period and inserting in lieu thereof a comma and the following: ‘unless the Secretary determines that some part of the exportable supply should be used to carry out the national interest and humanitarian objectives of this Act \[see Short Title of 1973 Amendment note set out under section 2151 of this title\]’.”
 

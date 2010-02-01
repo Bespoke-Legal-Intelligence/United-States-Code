@@ -198,7 +198,7 @@ In subsection (f)(3)(B), the word “only” is added for clarity. The words “
 
 In subsection (g), the word “exemption” is substituted for “authorization” and “authority” for clarity and consistency.
 
-In subsection (g)(1), before clause (A), the words “required”, “a period”, and “to the extent necessary” are omitted as surplus. The word “mail” is omitted as being included in “cargo”. In clause (B), before subclause (i), the words “for example” are omitted as surplus.
+In subsection (g)(1), before clause (A), the words “required”, “a period”, and “to the extent necessary” areomitted as surplus. The word “mail” is omitted as being included in “cargo”. In clause (B), before subclause (i), the words “for example” are omitted as surplus.
 
 In subsection (g)(3), the words “a period” are omitted as surplus.
 

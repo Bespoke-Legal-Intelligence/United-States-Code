@@ -66,6 +66,7 @@
 | [5535\.](Subchapter%20004%20%28IV%29%20-%20Dual%20Pay%20and%20Dual%20Employment/%C2%A7%2005535%20-%20Extra%20pay%20for%20details%20prohibited.md) | Extra pay for details prohibited. |
 | [5536\.](Subchapter%20004%20%28IV%29%20-%20Dual%20Pay%20and%20Dual%20Employment/%C2%A7%2005536%20-%20Extra%20pay%20for%20extra%20services%20prohibited.md) | Extra pay for extra services prohibited. |
 | [5537\.](Subchapter%20004%20%28IV%29%20-%20Dual%20Pay%20and%20Dual%20Employment/%C2%A7%2005537%20-%20Fees%20for%20jury%20and%20witness%20service.md) | Fees for jury and witness service. |
+| [5538\.](Subchapter%20004%20%28IV%29%20-%20Dual%20Pay%20and%20Dual%20Employment/%C2%A7%2005538%20-%20Nonreduction%20in%20pay%20while%20serving%20in%20the%20uniformed%20services%20or%20National%20Guard.md) | Nonreduction in pay while serving in the uniformed services or National Guard. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -142,6 +143,8 @@
 
 #### Amendments
 
+2009—Pub. L. 111–8, div. D, title VII, §751(b), Mar. 11, 2009, 123 Stat. 695, added item 5538.
+
 2004—Pub. L. 108–411, title II, §203(b), Oct. 30, 2004, 118 Stat. 2313, added item 5550b.
 
 1999—Pub. L. 106–65, div. A, title VI, §651(a)(2), Oct. 5, 1999, 113 Stat. 664, struck out item 5532 “Employment of retired members of the uniformed services; reduction in retired or retainer pay.”
@@ -188,7 +191,11 @@ Pub. L. 90–588, §2(c), Oct. 17, 1968, 82 Stat. 1152, added item 5519.
 
 1967—Pub. L. 90–83, §1(23), (26)(B), (28), (30), (35), Sept. 11, 1967, 81 Stat. 200, 201, 203, inserted items 5534a, 5595 and 5596, included Sunday rates in item 5544, Sunday and hazardous duty differential in item 5545 and Sundays in item 5546, substituted “Severance Pay and Back Pay” for “Back Pay” in heading of subchapter IX, and struck out items 5591 to 5594.
 
-#### Payment to Person Filling Position After Vote By Senate Not To Approve Person's Nomination
+#### No Payment of Services to Individual in Acting or Temporary Capacity After Second Nomination for That Individual is Withdrawn or Returned to President
+
+Pub. L. 111–8, div. D, title VII, §749, Mar. 11, 2009, 123 Stat. 693, provided that: “Effective January 20, 2009, and for each fiscal year thereafter, no part of any appropriation contained in this or any other Act may be used for the payment of services to any individual carrying out the responsibilities of any position requiring Senate advice and consent in an acting or temporary capacity after the second submission of a nomination for that individual to that position has been withdrawn or returned to the President.”
+
+#### No Payment to Person Filling Position After Vote by Senate Not To Approve Person's Nomination
 
 Pub. L. 110–161, div. D, title VII, §709, Dec. 26, 2007, 121 Stat. 2021, provided that: “Hereafter, no part of any appropriation contained in this or any other Act shall be paid to any person for the filling of any position for which he or she has been nominated after the Senate has voted not to approve the nomination of said person.”
 

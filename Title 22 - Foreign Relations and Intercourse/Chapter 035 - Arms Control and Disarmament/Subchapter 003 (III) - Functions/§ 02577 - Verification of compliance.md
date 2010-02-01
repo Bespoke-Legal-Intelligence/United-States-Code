@@ -30,7 +30,7 @@ Except as otherwise provided for by law, nothing in this section may be construe
 
 1999—Subsec. (a). Pub. L. 106–113, §1000(a)(7) \[title XI, §1115(a)\], struck out “adequately” before “verified” in introductory provisions.
 
-Subsecs. (b) to (d). Pub. L. 106–113, §1000(a)(7) \[title XI, §1115(b)\], added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively. Language in section 1000(a)(7) \[title XI, §1115(b)\] directing redesignation of subsec. (d) as (e) could not be executed. See 1998 Amendment note below.
+Subsecs. (b) to (d). Pub. L. 106–113, §1000(a)(7) \[title XI, §1115(b)\], added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively. Language in section 1000(a)(7) \[title XI, §1115(b)\] directingredesignation of subsec. (d) as (e) could not be executed. See 1998 Amendment note below.
 
 1998—Subsec. (a). Pub. L. 105–277, §1223(11)(A), substituted “Secretary of State” for “Director” in introductory provisions and par. (1) and substituted “Department of State” for “Agency” in par. (3).
 

@@ -46,7 +46,7 @@ Amendment by Pub. L. 103–66 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) ofPub. L. 99–514, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 

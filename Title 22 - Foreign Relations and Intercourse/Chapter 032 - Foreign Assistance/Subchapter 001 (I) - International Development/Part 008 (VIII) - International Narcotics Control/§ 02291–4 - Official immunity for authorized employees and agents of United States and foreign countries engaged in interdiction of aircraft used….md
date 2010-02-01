@@ -28,7 +28,7 @@ Notwithstanding any other provision of law, it shall not be unlawful for authori
 
 &emsp;(D) A summary description of the aircraft interception activity for which the United States Government provided any form of assistance under subsection (b) of this section.
 
-(2) In the case of a report required to be submitted under paragraph (1) to the congressionalintelligence committees (as defined in section 401a of title 50), the submittal date for such report shall be as provided in section 415b of title 50.
+(2) In the case of a report required to be submitted under paragraph (1) to the congressional intelligence committees (as defined in section 401a of title 50), the submittal date for such report shall be as provided in section 415b of title 50.
 
 (3) Each report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
 
@@ -62,7 +62,9 @@ Subsecs. (c), (d). Pub. L. 107–108, §503(b), added subsec. (c) and redesignat
 
 The President made the determination required by subsec. (a)(2) of this section for the following countries:
 
-Brazil.—Determination No. 2009–4, Oct. 15, 2008, 73 F.R. 62849.
+Brazil.—Determination No. 2010–02, Oct. 16, 2009, 74 F.R. 54429.
+
+Determination No. 2009–4, Oct. 15, 2008, 73 F.R. 62849.
 
 Determination No. 2008–3, Oct. 16, 2007, 72 F.R. 61035.
 
@@ -72,7 +74,9 @@ Determination No. 2006–02, Oct. 16, 2005, 70 F.R. 62227.
 
 Determination No. 2005–03, Oct. 16, 2004, 69 F.R. 62797.
 
-Colombia.—Determination No. 2008–24, Aug. 15, 2008, 73 F.R. 54283.
+Colombia.—Determination No. 2009–24, Aug. 13, 2009, 74 F.R. 42573.
+
+Determination No. 2008–24, Aug. 15, 2008, 73 F.R. 54283.
 
 Determination No. 2007–28, Aug. 16, 2007, 72 F.R. 50035.
 

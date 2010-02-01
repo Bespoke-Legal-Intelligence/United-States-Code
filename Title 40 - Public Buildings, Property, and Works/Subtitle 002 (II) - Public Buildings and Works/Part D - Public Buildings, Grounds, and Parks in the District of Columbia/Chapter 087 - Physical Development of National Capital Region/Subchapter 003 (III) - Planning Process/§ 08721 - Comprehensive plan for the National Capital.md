@@ -2,7 +2,7 @@
 
 (a)
 
-Preparation and Adoption by Commission.—The National Capital Planning Commission shall prepare and adopt a comprehensive, consistent, and coordinated plan for the National Capital. The plan shall include the Commission's recommendations or proposals for federal developments or projects in the environs and District elements of the comprehensive plan, or amendments to the elements, adopted by the Council of the District of Columbia and with respect to which the Commission has not determined a negative impact exists. Those elements or amendments shall be incorporated into the comprehensive plan without change. The Commission may include in its plan any part of a plan adopted by any planning agency in theenvirons and may make recommendations of collateral interest to the agencies. The Commission may adopt any part of an element. The Commission shall review and may amend or extend the plan so that its recommendations may be kept up to date.
+Preparation and Adoption by Commission.—The National Capital Planning Commission shall prepare and adopt a comprehensive, consistent, and coordinated plan for the National Capital. The plan shall include the Commission's recommendations or proposals for federal developments or projects in the environs and District elements of the comprehensive plan, or amendments to the elements, adopted by the Council of the District of Columbia and with respect to which the Commission has not determined a negative impact exists. Those elements or amendments shall be incorporated into the comprehensive plan without change. The Commission may include in its plan any part of a plan adopted by any planning agency in the environs and may make recommendations of collateral interest to the agencies. The Commission may adopt any part of an element. The Commission shall review and may amend or extend the plan so that its recommendations may be kept up to date.
 
 (b)
 
@@ -78,7 +78,7 @@ Procedures for Consultation.—
 
 &emsp;(1)
 
-Commission and mayor.—The Commission and the Mayor jointly shall establish procedures for appropriate meaningful continuingconsultation throughout the planning process for the National Capital.
+Commission and mayor.—The Commission and the Mayor jointly shall establish procedures for appropriate meaningful continuing consultation throughout the planning process for the National Capital.
 
 &emsp;(2)
 
@@ -142,5 +142,5 @@ In subsection (g), the words “from time to time” are omitted as unnecessary.
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

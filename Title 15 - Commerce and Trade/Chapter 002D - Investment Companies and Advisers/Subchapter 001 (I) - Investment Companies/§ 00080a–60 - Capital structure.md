@@ -44,7 +44,7 @@ Notwithstanding the exemption set forth in section 80a–6(f) of this title, sec
 
 A business development company shall comply with the provisions of this section at the time it becomes subject to sections 80a–54 through 80a–64 of this title, as if it were issuing a security of each class which it has outstanding at such time.
 
-(Aug. 22, 1940, ch. 686, title I, §61, as added Pub. L. 96–477, title I, §105, Oct. 21, 1980, 94 Stat. 2286; amended Pub. L. 104–290, title V, §506, Oct. 11, 1996, 110 Stat. 3446.)
+(Aug. 22, 1940, ch. 686, title I, §61, as added Pub. L. 96–477, title I, §105, Oct. 21, 1980, 94 Stat. 2286;amended Pub. L. 104–290, title V, §506, Oct. 11, 1996, 110 Stat. 3446.)
 
 #### References in Text
 

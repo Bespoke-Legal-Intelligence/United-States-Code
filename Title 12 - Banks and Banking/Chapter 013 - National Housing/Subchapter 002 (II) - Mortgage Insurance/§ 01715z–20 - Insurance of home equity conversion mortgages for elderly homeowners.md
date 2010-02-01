@@ -6,7 +6,7 @@ The purpose of this section is to authorize the Secretary to carry out a program
 
 &emsp;(1) to meet the special needs of elderly homeowners by reducing the effect of the economic hardship caused by the increasing costs of meeting health, housing, and subsistence needs at a time of reduced income, through the insurance of home equity conversion mortgages to permit the conversion of a portion of accumulated home equity into liquid assets; and
 
-&emsp;(2) to encourage and increase the involvement of mortgagees and participants in themortgage markets in the making and servicing of home equity conversion mortgages for elderly homeowners.
+&emsp;(2) to encourage and increase the involvement of mortgagees and participants in the mortgage markets in the making and servicing of home equity conversion mortgages for elderly homeowners.
 
 #### (b) Definitions
 
@@ -24,7 +24,7 @@ Mortgage.—The term “mortgage” means a first mortgage or first lien on real
 
 &emsp;&emsp;(A) under a lease for not less than 99 years that is renewable; or
 
-&emsp;&emsp;(B) under a lease having a period of not less than 10 years to run beyond the maturity date of the mortgage.
+&emsp;&emsp;(B) under a lease that has a term that ends no earlier than the minimum number of years, as specified by the Secretary, beyond the actuarial life expectancy of the mortgagor or comortgagor, whichever is the later date.
 
 &emsp;(5)
 
@@ -102,7 +102,7 @@ The Secretary shall require each mortgagee of a mortgage insured under this sect
 
 &emsp;(1) at the time of the loan application, a written list of the names and addresses of third-party information sources who are approved by the Secretary as responsible and able to provide the information required by subsection (f) of this section;
 
-&emsp;(2) at least 10 days prior to loan closing, a statement informing the homeowner that the liability of the homeowner under the mortgage is limited and explaining the homeowner's rights, obligations, and remedies with respect to temporary absences from the home, late payments, and payment default by the lender, all conditions requiring satisfaction of the loan obligation, and any other information that the Secretary may require;
+&emsp;(2) at least 10 days prior to loan closing, a statement informing the homeowner that the liability of the homeowner under the mortgage is limited and explaining the homeowner's rights, obligations, and remedies withrespect to temporary absences from the home, late payments, and payment default by the lender, all conditions requiring satisfaction of the loan obligation, and any other information that the Secretary may require;
 
 &emsp;(3) on an annual basis (but not later than January 31 of each year), a statement summarizing the total principal amount paid to the homeowner under the loan secured by the mortgage, the total amount of deferred interest added to the principal, and the outstanding loan balance at the end of the preceding year; and
 
@@ -212,7 +212,7 @@ The Secretary may use a portion of the mortgage insurance premiums collected und
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this section, the Secretary may insure, upon application by a mortgagee, a home equity conversion mortgage upon such terms and conditions as the Secretary may prescribe, when the home equity conversion mortgage will be usedto purchase a 1- to 4-family dwelling unit, one unit of which the mortgagor will occupy as a primary residence, and to provide for any future payments to the mortgagor, based on available equity, as authorized under subsection (d)(9).
+&emsp;Notwithstanding any other provision of this section, the Secretary may insure, upon application by a mortgagee, a home equity conversion mortgage upon such terms and conditions as the Secretary may prescribe, when the home equity conversion mortgage will be used to purchase a 1- to 4-family dwelling unit, one unit of which the mortgagor will occupy as a primary residence, and to provide for any future payments to the mortgagor, based on available equity, as authorized under subsection (d)(9).
 
 #### (2) Limitation on principal obligation
 
@@ -264,9 +264,11 @@ The Secretary shall establish limits on the origination fee that may be charged 
 
 &emsp;(6) be subject to a maximum origination fee of $6,000, except that such maximum limit shall be adjusted in accordance with the annual percentage increase in the Consumer Price Index of the Bureau of Labor Statistics of the Department of Labor in increments of $500 only when the percentage increase in such index, when applied to the maximum origination fee, produces dollar increases that exceed $500.
 
-(June 27, 1934, ch. 847, title II, §255, as added Pub. L. 100–242, title IV, §417(a), Feb. 5, 1988, 101 Stat. 1908; amended Pub. L. 100–628, title X, §1066, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 101–508, title II, §2106, Nov. 5, 1990, 104 Stat. 1388–20; Pub. L. 101–625, title III, §334(b)–(d), Nov. 28, 1990, 104 Stat. 4141, 4142; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592; Pub. L. 102–550, title V, §§503(c)(2), 520, Oct. 28, 1992, 106 Stat. 3779, 3793; Pub. L. 104–99, title IV, §406, Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–120, §6, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–276, title V, §593(a)–(e)(1), Oct. 21, 1998, 112 Stat. 2654, 2655; Pub. L. 106–569, title II, §201(a)(1), (b), (c)(1), Dec. 27, 2000, 114 Stat. 2948, 2950; Pub. L. 109–13, div. A, title VI, §6074, May 11, 2005, 119 Stat. 300; Pub. L. 109–289, div. B, §131, Sept. 29, 2006, 120 Stat. 1316; Pub. L. 110–289, div. B, title I, §§2118(b)(2), 2122(a)–(c), July 30, 2008, 122 Stat. 2835–2838.)
+(June 27, 1934, ch. 847, title II, §255, as added Pub. L. 100–242, title IV, §417(a), Feb. 5, 1988, 101 Stat. 1908; amended Pub. L. 100–628, title X, §1066, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 101–508, title II, §2106, Nov. 5, 1990, 104 Stat. 1388–20; Pub. L. 101–625, title III, §334(b)–(d), Nov. 28, 1990, 104 Stat. 4141, 4142; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592; Pub. L. 102–550, title V, §§503(c)(2), 520, Oct. 28, 1992, 106 Stat. 3779, 3793; Pub. L. 104–99, title IV, §406, Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–120, §6, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–276, title V, §593(a)–(e)(1), Oct. 21, 1998, 112 Stat. 2654, 2655; Pub. L. 106–569, title II, §201(a)(1), (b), (c)(1), Dec. 27, 2000, 114 Stat. 2948, 2950; Pub. L. 109–13, div. A, title VI, §6074, May 11, 2005, 119 Stat. 300; Pub. L. 109–289, div. B, §131, Sept. 29, 2006, 120 Stat. 1316; Pub. L. 110–289, div. B, title I, §§2118(b)(2), 2122(a)–(c), July 30, 2008, 122 Stat. 2835–2838; Pub. L. 111–22, div. A, title II, §206, May 20, 2009, 123 Stat. 1654.)
 
 #### Amendments
+
+2009—Subsec. (b)(4)(B). Pub. L. 111–22 added subpar. (B) and struck out former subpar. (B), which read as follows: “under a lease having a period of not less than 10 years to run beyond the maturity date of the mortgage.”
 
 2008—Subsec. (b)(2). Pub. L. 110–289, §2122(a)(1), inserted “ ‘real estate,’ ” after “ ‘mortgagor’, ”.
 
@@ -278,7 +280,7 @@ Subsec. (d)(1). Pub. L. 110–289, §2122(a)(2), amended par. (1) generally. Pri
 
 Subsec. (d)(2)(B). Pub. L. 110–289, §2122(a)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “has received adequate counseling by a third party (other than the lender) as provided in subsection (f) of this section;”.
 
-Subsec. (f). Pub. L. 110–289, §2122(a)(4), substituted “Counseling services and information for mortgagors”for “Information services for mortgagors” in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The Secretary shall provide or cause to be provided by entities other than the lender the information required in subsection (d)(2)(B) of this section. Such information shall be discussed with the mortgagor and shall include—”.
+Subsec. (f). Pub. L. 110–289, §2122(a)(4), substituted “Counseling services and information for mortgagors” for “Information services for mortgagors” in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The Secretary shall provide or cause to be provided by entities other than the lender the information required in subsection (d)(2)(B) of this section. Such information shall be discussed with the mortgagor and shall include—”.
 
 Subsec. (g). Pub. L. 110–289, §2122(a)(5), substituted “limitation established under section 1454(a)(2) of this title for a 1-family residence” for “established under section 1709(b)(2) of this title for 1-family residences in the area in which the dwelling subject to the mortgage under this section is located”.
 
@@ -366,7 +368,7 @@ Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 
 
 #### Regulations
 
-Pub. L. 106–569, title II, §201(a)(2), Dec. 27, 2000, 114 Stat. 2949, provided that: “The Secretary shall issue any final regulations necessary to implement theamendments made by paragraph (1) of this subsection \[amending this section\], which shall take effect not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 27, 2000\]. The regulations shall be issued after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
+Pub. L. 106–569, title II, §201(a)(2), Dec. 27, 2000, 114 Stat. 2949, provided that: “The Secretary shall issue any final regulations necessary to implement the amendments made by paragraph (1) of this subsection \[amending this section\], which shall take effect not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 27, 2000\]. The regulations shall be issued after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
 
 Section 417(b) of Pub. L. 100–242 directed Secretary of Housing and Urban Development, not later than 6 months after Feb. 5, 1988, to consult with lenders, insurers, and organizations and individuals with expertise in home equity conversion in developing proposed regulations implementing this section and not later than 9 months after Feb. 5, 1988, to issue proposed regulations implementing this section.
 
@@ -380,7 +382,7 @@ Notice.—The Secretary of Housing and Urban Development shall, by interim notic
 
 “(B)
 
-Regulations.—The Secretary shall, not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Oct. 21, 1998\], issue final regulations to implement the amendments made by paragraph (1). Such regulations shall be issued only after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2) and (b)(3)(B) of such section).”
+Regulations.—The Secretary shall, not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Oct. 21, 1998\], issue final regulations to implement the amendments made by paragraph (1). Such regulations shall be issuedonly after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2) and (b)(3)(B) of such section).”
 
 <i><sup>1</sup></i><i> So in original. The comma probably should follow the closed quotes.</i>
 

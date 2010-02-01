@@ -28,7 +28,7 @@ Furnish information.—The head of any federal, state, or local department or ag
 
 (c)
 
-Public Participation.—Public participation in the development, revision, and implementation of all plans and programs under this subtitle by the Commission, any State, or any local development district shall be provided for,encouraged, and assisted. The Commission shall develop and publish regulations specifying minimum guidelines for public participation, including public hearings.
+Public Participation.—Public participation in the development, revision, and implementation of all plans and programs under this subtitle by the Commission, any State, or any local development district shall be provided for, encouraged, and assisted. The Commission shall develop and publish regulations specifying minimum guidelines for public participation, including public hearings.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1260; Pub. L. 109–284, §6(31), Sept. 27, 2006, 120 Stat. 1213.)
 

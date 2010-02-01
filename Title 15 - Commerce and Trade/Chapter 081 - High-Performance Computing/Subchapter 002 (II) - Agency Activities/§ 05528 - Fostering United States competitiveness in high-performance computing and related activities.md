@@ -30,7 +30,7 @@ The Congress finds the following:
 
 &emsp;&emsp;&emsp;(i) unmanufactured articles, materials, or supplies mined or produced outside the United States; or
 
-&emsp;&emsp;&emsp;(ii) manufactured articles, materials, or supplies other than those manufactured inthe United States substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States,
+&emsp;&emsp;&emsp;(ii) manufactured articles, materials, or supplies other than those manufactured in the United States substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States,
 
 > &emsp;&emsp;under the meaning of title III of the Act of March 3, 1933 (41 U.S.C. 10a–10d; <sup>1</sup> popularly known as the Buy American Act) as amended by the Buy American Act of 1988.
 

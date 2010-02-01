@@ -66,5 +66,8 @@ Part C—General Administrative Provisions
 - [&sect; 07276c - Miscellaneous provisions](%C2%A7%2007276c%20-%20Miscellaneous%20provisions.md)
 - [&sect; 07276d - Property protection program for power marketing administrations](%C2%A7%2007276d%20-%20Property%20protection%20program%20for%20power%20marketing%20administrations.md)
 - [&sect; 07276e - Provision of rewards](%C2%A7%2007276e%20-%20Provision%20of%20rewards.md)
+- [&sect; 07276f - Western Area Power Administration; deposit and availability of discretionary offsetting collections](%C2%A7%2007276f%20-%20Western%20Area%20Power%20Administration%3B%20deposit%20and%20availability%20of%20discretionary%20offsetting%20collections.md)
+- [&sect; 07276g - Western Area Power Administration; deposit and availability of funds related to Falcon and Amistad Dams](%C2%A7%2007276g%20-%20Western%20Area%20Power%20Administration%3B%20deposit%20and%20availability%20of%20funds%20related%20to%20Falcon%20and%20Amistad%20Dams.md)
 - [&sect; 07277 - Report concerning review of United States coal imports](%C2%A7%2007277%20-%20Report%20concerning%20review%20of%20United%20States%20coal%20imports.md)
 - [&sect; 07278 - Availability of appropriations for Department of Energy for transportation, uniforms, security, and price support and loan guarantee&#8230;](%C2%A7%2007278%20-%20Availability%20of%20appropriations%20for%20Department%20of%20Energy%20for%20transportation%2C%20uniforms%2C%20security%2C%20and%20price%20support%20and%20loan%20guarantee%E2%80%A6.md)
+- [&sect; 07279 - Identification in budget materials of amounts for certain Department of Energy pension obligations](%C2%A7%2007279%20-%20Identification%20in%20budget%20materials%20of%20amounts%20for%20certain%20Department%20of%20Energy%20pension%20obligations.md)

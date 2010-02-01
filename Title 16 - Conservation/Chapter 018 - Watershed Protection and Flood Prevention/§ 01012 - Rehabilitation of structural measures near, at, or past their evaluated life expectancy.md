@@ -46,7 +46,7 @@ Flood Prevention” of the Department of Agriculture Appropriation Act, 1954 (Pu
 
 #### (c) Technical assistance for watershed project rehabilitation
 
-The Secretary, acting through the Natural Resources Conservation Service, may provide technical assistance in planning, designing, and implementing rehabilitation projects should a local organization request such assistance. Such assistance may consist of specialists in suchfields as engineering, geology, soils, agronomy, biology, hydraulics, hydrology, economics, water quality, and contract administration.
+The Secretary, acting through the Natural Resources Conservation Service, may provide technical assistance in planning, designing, and implementing rehabilitation projects should a local organization request such assistance. Such assistance may consist of specialists in such fields as engineering, geology, soils, agronomy, biology, hydraulics, hydrology, economics, water quality, and contract administration.
 
 #### (d) Prohibited use
 
@@ -128,7 +128,7 @@ The Department of Agriculture Appropriation Act, 1954, referred to in subsec. (a
 
 Flood Prevention” are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-The Agriculture and Food Act of 1981, referred to in subsec. (a)(2)(D), is Pub. L. 97–98, Dec. 22, 1981, 95 Stat.1213, as amended. Subtitle H of title XV of the Act is classified generally to subchapter V (§3451 et seq.) of chapter 54 of this title. For complete classification of this Act to the Code, see Tables.
+The Agriculture and Food Act of 1981, referred to in subsec. (a)(2)(D), is Pub. L. 97–98, Dec. 22, 1981, 95 Stat. 1213, as amended. Subtitle H of title XV of the Act is classified generally to subchapter V (§3451 et seq.) of chapter 54 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

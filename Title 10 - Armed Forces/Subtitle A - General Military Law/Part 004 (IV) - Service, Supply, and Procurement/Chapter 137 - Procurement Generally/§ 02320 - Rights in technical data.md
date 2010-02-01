@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(iv) Such other factors as the Secretary of Defense may prescribe.
 
-&emsp;(F) A contractor or subcontractor (or a prospective contractor or subcontractor) may notbe required, as a condition of being responsive to a solicitation or as a condition for the award of a contract—
+&emsp;(F) A contractor or subcontractor (or a prospective contractor or subcontractor) may not be required, as a condition of being responsive to a solicitation or as a condition for the award of a contract—
 
 &emsp;&emsp;(i) to sell or otherwise relinquish to the United States any rights in technical data except—
 
@@ -84,13 +84,15 @@
 
 (c) Nothing in this section or in section 2305(d) of this title prohibits the Secretary of Defense from—
 
-&emsp;(1) prescribing standards for determining whether a contract entered into by the Department of Defense shall provide for a time to be specified in the contract after which the United States shall have the right to use (or have used) for any purpose of the United States all technical data required to be delivered to the United States under the contract or providing for such a period of time (not to exceed 7 years) as a negotiation objective; or
+&emsp;(1) prescribing standards for determining whether a contract entered into by the Department of Defense shall provide for a time to be specified in the contract after which the United States shall have the right to use (or have used) for any purpose of the United States all technical data required to be delivered to the United States under the contract or providing for such a period of time (not to exceed 7 years) as a negotiation objective;
 
-&emsp;(2) prescribing reasonable and flexible guidelines, including negotiation objectives, for the conduct of negotiations regarding the respective rights in technical data of the United States and the contractor.
+&emsp;(2) notwithstanding any limitation upon the license rights conveyed under subsection (a), allowing a covered Government support contractor access to and use of any technical data delivered under a contract for the sole purpose of furnishing independent and impartial advice or technical assistance directly to the Government in support of the Government's management and oversight of the program or effort to which such technical data relates; or
+
+&emsp;(3) prescribing reasonable and flexible guidelines, including negotiation objectives, for the conduct of negotiations regarding the respective rights in technical data of the United States and the contractor.
 
 (d) The Secretary of Defense shall by regulation establish programs which provide domestic business concerns an opportunity to purchase or borrow replenishment parts from the United States for the purpose of design replication or modification, to be used by such concerns in the submission of subsequent offers to sell the same or like parts to the United States. Nothing in this subsection limits the authority of the head of an agency to impose restrictions on such a program related to national security considerations, inventory needs of the United States, the improbability of future purchases of the same or like parts, or any additional restriction otherwise required by law.
 
-(e) The Secretary of Defense shall require program managers for major weapon systems and subsystems of major weapon systems to assess the long-term technical data needs of such systems and subsystems and establish corresponding acquisition strategies that provide for technical data rights needed to sustain such systems and subsystems over their life cycle. Such strategies may include the development of maintenance capabilities within the Department of Defense or competition for contracts for sustainment of such systems or subsystems. Assessments and corresponding acquisition strategiesdeveloped under this section with respect to a weapon system or subsystem shall—
+(e) The Secretary of Defense shall require program managers for major weapon systems and subsystems of major weapon systems to assess the long-term technical data needs of such systems and subsystems and establish corresponding acquisition strategies that provide for technical data rights needed to sustain such systems and subsystems over their life cycle. Such strategies may include the development of maintenance capabilities within the Department of Defense or competition for contracts for sustainment of such systems or subsystems. Assessments and corresponding acquisition strategies developed under this section with respect to a weapon system or subsystem shall—
 
 &emsp;(1) be developed before issuance of a contract solicitation for the weapon system or subsystem;
 
@@ -100,13 +102,37 @@
 
 &emsp;(4) apply to weapon systems and subsystems that are to be supported by performance-based logistics arrangements as well as to weapons systems and subsystems that are to be supported by other sustainment approaches.
 
-(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2595; amended Pub. L. 98–577, title III, §301(b), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 99–145, title IX, §961(d)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 99–500, §101(c) \[title X, §953(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §953(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(a), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(4), Apr. 21, 1987, 101 Stat. 275; Pub. L. 100–180, div. A, title VIII, §808(a), (b), Dec. 4, 1987, 101 Stat. 1128, 1130; Pub. L. 101–189, div. A, title VIII, §853(b)(2), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 103–355, title VIII, §8106(a), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 108–136, div. A, title VIII, §844, Nov. 24, 2003, 117 Stat. 1553; Pub. L. 109–364, div. A, title VIII, §802(a), Oct. 17, 2006, 120 Stat. 2312.)
+(f) In this section, the term “covered Government support contractor” means a contractor under a contract the primary purpose of which is to furnish independent and impartial advice or technical assistance directly to the Government in support of the Government's management and oversight of a program or effort (rather than to directly furnish an end item or service to accomplish a program or effort), which contractor—
+
+&emsp;(1) is not affiliated with the prime contractor or a first-tier subcontractor on the program or effort, or with any direct competitor of such prime contractor or any such first-tier subcontractor in furnishing end items or services of the type developed or produced on the program or effort; and
+
+&emsp;(2) executes a contract with the Government agreeing to and acknowledging—
+
+&emsp;&emsp;(A) that proprietary or nonpublic technical data furnished will be accessed and used only for the purposes stated in that contract;
+
+&emsp;&emsp;(B) that the covered Government support contractor will enter into a non-disclosure agreement with the contractor to whom the rights to the technical data belong;
+
+&emsp;&emsp;(C) that the covered Government support contractor will take all reasonable steps to protect the proprietary and nonpublic nature of the technical data furnished to the covered Government support contractor during the program or effort for the period of time in which the Government is restricted from disclosing the technical data outside of the Government;
+
+&emsp;&emsp;(D) that a breach of that contract by the covered Government support contractor with regard to a third party's ownership or rights in such technical data may subject the covered Government support contractor—
+
+&emsp;&emsp;&emsp;(i) to criminal, civil, administrative, and contractual actions in law and equity for penalties, damages, and other appropriate remedies by the United States; and
+
+&emsp;&emsp;&emsp;(ii) to civil actions for damages and other appropriate remedies by the contractor or subcontractor whose technical data is affected by the breach; and
+
+&emsp;&emsp;(E) that such technical data provided to the covered Government support contractorunder the authority of this section shall not be used by the covered Government support contractor to compete against the third party for Government or non-Government contracts.
+
+(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2595; amended Pub. L. 98–577, title III, §301(b), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 99–145, title IX, §961(d)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 99–500, §101(c) \[title X, §953(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §953(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(a), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(4), Apr. 21, 1987, 101 Stat. 275; Pub. L. 100–180, div. A, title VIII, §808(a), (b), Dec. 4, 1987, 101 Stat. 1128, 1130; Pub. L. 101–189, div. A, title VIII, §853(b)(2), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 103–355, title VIII, §8106(a), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 108–136, div. A, title VIII, §844, Nov. 24, 2003, 117 Stat. 1553; Pub. L. 109–364, div. A, title VIII, §802(a), Oct. 17, 2006, 120 Stat. 2312; Pub. L. 111–84, div. A, title VIII, §821, Oct. 28, 2009, 123 Stat. 2411.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2009—Subsec. (c)(2), (3). Pub. L. 111–84, §821(a), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (f). Pub. L. 111–84, §821(b), added subsec. (f).
 
 2006—Subsec. (e). Pub. L. 109–364 added subsec. (e).
 
@@ -140,7 +166,7 @@ Subsec. (a)(3). Pub. L. 100–180, §808(a)(5), substituted “, ‘exclusively
 
 Subsec. (c). Pub. L. 100–180, §808(b), substituted “from—” for “from”, designated existing provisions beginning with “prescribing standards” as par. (1), and added par. (2).
 
-1986—Subsec. (a). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended generally subsec. (a) identically, substituting provision that regulations to define the legitimate interest of the United States and of a contractor or subcontractor in technical data be included in regulations of the Department of Defense prescribed as part of the Federal Acquisition Regulation for provision that such regulations define the legitimate proprietary interest of the United States and a contractor and be part of the single system of Government-wide procurement regulations, detailed what such regulations must contain if the item or process is developed exclusively with Federal funds, exclusively with private funds, or partly with Federal funds and partly with private funds, inserted provision relating to relinquishment of rights in data to the United States, directed the Secretary of Defense to define “developed” and “private expense”, and defined “Federal Acquisition Regulation”.
+1986—Subsec. (a). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended generally subsec. (a) substantially identically, substituting provision that regulations to define the legitimate interest of the United States and of a contractor or subcontractor in technical data be included in regulations of the Department of Defense prescribed as part of the Federal Acquisition Regulation for provision that such regulations define the legitimate proprietary interest of the United States and a contractor and be part of the single system of Government-wide procurement regulations, detailed what such regulations must contain if the item or process is developed exclusively with Federal funds, exclusively with private funds, or partly with Federal funds and partly with private funds, inserted provision relating to relinquishment of rights in data to the United States, directed the Secretary of Defense to define “developed” and “private expense”, and defined “Federal Acquisition Regulation”. Text reflects amendment by Pub. L. 99–661, which was executed last.
 
 1985—Subsec. (a)(1). Pub. L. 99–145 substituted “the item or process to which the technical data pertains” for “the technical data”.
 
@@ -148,7 +174,7 @@ Subsec. (c). Pub. L. 100–180, §808(b), substituted “from—” for “from�
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective Date of 1987 Amendment
 

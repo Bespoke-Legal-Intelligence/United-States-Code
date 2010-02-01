@@ -86,7 +86,7 @@ Recognition of Child Support Orders.—If 1 or more child support orders have be
 
 &emsp;(2) If 2 or more courts have issued child support orders for the same obligor and child, and only 1 of the courts would have continuing, exclusive jurisdiction under this section, the order of that court must be recognized.
 
-&emsp;(3) If 2 or more courts have issued child support orders for the same obligor and child, and more than 1 of the courts would have continuing, exclusive jurisdiction under this section, an order issued by a court in the current home State of the child must be recognized, but if an order has not been issued in the current home State of the child, the order most recently issued must be recognized.
+&emsp;(3) If 2 or more courts have issued child support orders for the same obligor and child, and more than 1 of the courts would have continuing, exclusive jurisdiction under this section, an order issued by a court in the current homeState of the child must be recognized, but if an order has not been issued in the current home State of the child, the order most recently issued must be recognized.
 
 &emsp;(4) If 2 or more courts have issued child support orders for the same obligor and child, and none of the courts would have continuing, exclusive jurisdiction under this section, a court having jurisdiction over the parties shall issue a child support order, which must be recognized.
 

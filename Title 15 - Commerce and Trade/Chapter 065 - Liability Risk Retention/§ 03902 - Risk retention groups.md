@@ -84,7 +84,7 @@ Each risk retention group shall submit—
 
 &emsp;&emsp;(B) a copy of any revisions to such plan or study, as provided in paragraph (1)(B) (which shall include any change in the designation of the State in which it is chartered); and
 
-&emsp;(3) to the insurance commissioner of each State in which it is doing business, a copy ofthe group's annual financial statement submitted to the State in which the group is chartered as an insurance company, which statement shall be certified by an independent public accountant and contain a statement of opinion on loss and loss adjustment expense reserves made by—
+&emsp;(3) to the insurance commissioner of each State in which it is doing business, a copy of the group's annual financial statement submitted to the State in which the group is chartered as an insurance company, which statement shall be certified by an independent public accountant and contain a statement of opinion on loss and loss adjustment expense reserves made by—
 
 &emsp;&emsp;(A) a member of the American Academy of Actuaries, or
 

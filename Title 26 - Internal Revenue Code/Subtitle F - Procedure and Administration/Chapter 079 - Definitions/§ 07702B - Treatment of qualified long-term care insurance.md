@@ -152,29 +152,43 @@ For purposes of this section—
 
 &emsp;For purposes of this subsection, the term “periodic payment” means any payment (whether on a periodic basis or otherwise) made without regard to the extent of the costs incurred by the payee for qualified long-term care services.
 
-#### (e) Treatment of coverage provided as part of a life insurance contract
+#### (e) Treatment of coverage provided as part of a life insurance or annuity contract
 
-Except as otherwise provided in regulations prescribed by the Secretary, in the case of any long-term care insurance coverage (whether or not qualified) provided by a rider on or as part of a life insurance contract—
+Except as otherwise provided in regulations prescribed by the Secretary, in the case of any long-term care insurance coverage (whether or not qualified) provided by a rider on or as part of a life insurance contract or an annuity contract—
 
 #### (1) In general
 
 &emsp;This title shall apply as if the portion of the contract providing such coverage is a separate contract.
 
-#### (2) Application of section 7702
+#### (2) Denial of deduction under section 213
 
-&emsp;Section 7702(c)(2) (relating to the guideline premium limitation) shall be applied by increasing the guideline premium limitation with respect to a life insurance contract, as of any date—
+&emsp;No deduction shall be allowed under section 213(a) for any payment made for coverage under a qualified long-term care insurance contract if such payment is made as a charge against the cash surrender value of a life insurance contract or the cash value of an annuity contract.
 
-&emsp;&emsp;(A) by the sum of any charges (but not premium payments) against the life insurancecontract's cash surrender value (within the meaning of section 7702(f)(2)(A)) for such coverage made to that date under the contract, less
+#### (3) Portion defined
 
-&emsp;&emsp;(B) any such charges the imposition of which reduces the premiums paid for the contract (within the meaning of section 7702(f)(1)).
+&emsp;For purposes of this subsection, the term “portion” means only the terms and benefits under a life insurance contract or annuity contract that are in addition to the terms and benefits under the contract without regard to long-term care insurance coverage.
 
-#### (3) Application of section 213
+#### (4) Annuity contracts to which paragraph (1) does not apply
 
-&emsp;No deduction shall be allowed under section 213(a) for charges against the life insurance contract's cash surrender value described in paragraph (2), unless such charges are includible in income as a result of the application of section 72(e)(10) and the rider is a qualified long-term care insurance contract under subsection (b).
+&emsp;For purposes of this subsection, none of the following shall be treated as an annuity contract:
 
-#### (4) Portion defined
+&emsp;&emsp;(A) A trust described in section 401(a) which is exempt from tax under section 501(a).
 
-&emsp;For purposes of this subsection, the term “portion” means only the terms and benefits under a life insurance contract that are in addition to the terms and benefits under the contract without regard to long-term care insurance coverage.
+&emsp;&emsp;(B) A contract—
+
+&emsp;&emsp;&emsp;(i) purchased by a trust described in subparagraph (A),
+
+&emsp;&emsp;&emsp;(ii) purchased as part of a plan described in section 403(a),
+
+&emsp;&emsp;&emsp;(iii) described in section 403(b),
+
+&emsp;&emsp;&emsp;(iv) provided for employees of a life insurance company under a plan described in section 818(a)(3), or
+
+&emsp;&emsp;&emsp;(v) from an individual retirement account or an individual retirement annuity.
+
+&emsp;&emsp;(C) A contract purchased by an employer for the benefit of the employee (or the employee's spouse).
+
+> &emsp;Any dividend described in section 404(k) which is received by a participant or beneficiary shall, for purposes of this paragraph, be treated as paid under a separate contract to which subparagraph (B)(i) applies.
 
 #### (f) Treatment of certain State-maintained plans
 
@@ -270,7 +284,7 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 #### (iii) Determination
 
-&emsp;&emsp;&emsp;For purposes of this section and section 4980C, the determination of whether any requirement of a model regulation or themodel Act has been met shall be made by the Secretary.
+&emsp;&emsp;&emsp;For purposes of this section and section 4980C, the determination of whether any requirement of a model regulation or the model Act has been met shall be made by the Secretary.
 
 #### (3) Disclosure requirement
 
@@ -310,55 +324,15 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
-#### Amendment of Subsection (e)
-
-<i>Pub. L. 109–280, title VIII, §844(c), (g)(1), Aug. 17, 2006, 120 Stat. 1011, 1013, provided that, applicable to contracts issued after Dec. 31, 1996, but only with respect to taxable years beginning after Dec. 31, 2009, subsection (e) of this section is amended to read as follows:</i>
-
-#### <i>(e) Treatment of coverage provided as part of a life insurance or annuity contract</i>
-
-<i>Except as otherwise provided in regulations prescribed by the Secretary, in the case of any long-term care insurance coverage (whether or not qualified) provided by a rider on or as part of a life insurance contract or an annuity contract—</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>This title shall apply as if the portion of the contract providing such coverage is a separate contract.</i>
-
-#### <i>(2) Denial of deduction under section 213</i>
-
-&emsp;<i>No deduction shall be allowed under section 213(a) for any payment made for coverage under a qualified long-term care insurance contract if such payment is made as a charge against the cash surrender value of a life insurance contract or the cash value of an annuity contract.</i>
-
-#### <i>(3) Portion defined</i>
-
-&emsp;<i>For purposes of this subsection, the term “portion” means only the terms and benefits under a life insurance contract or annuity contract that are in addition to the terms and benefits under the contract without regard to long-term care insurance coverage.</i>
-
-#### <i>(4) Annuity contracts to which paragraph (1) does not apply</i>
-
-&emsp;<i>For purposes of this subsection, none of the following shall be treated as an annuity contract:</i>
-
-&emsp;&emsp;<i>(A) A trust described in section 401(a) which is exempt from tax under section 501(a).</i>
-
-&emsp;&emsp;<i>(B) A contract—</i>
-
-&emsp;&emsp;&emsp;<i>(i) purchased by a trust described in subparagraph (A),</i>
-
-&emsp;&emsp;&emsp;<i>(ii) purchased as part of a plan described in section 403(a),</i>
-
-&emsp;&emsp;&emsp;<i>(iii) described in section 403(b),</i>
-
-&emsp;&emsp;&emsp;<i>(iv) provided for employees of a life insurance company under a plan described in section 818(a)(3), or</i>
-
-&emsp;&emsp;&emsp;<i>(v) from an individual retirement account or an individual retirement annuity.</i>
-
-&emsp;&emsp;<i>(C) A contract purchased by an employer for the benefit of the employee (or the employee's spouse).</i>
-
-> &emsp;<i>Any dividend described in section 404(k) which is received by a participant or beneficiary shall, for purposes of this paragraph, be treated as paid under a separate contract to which subparagraph (B)(i) applies.</i>
-
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(1)(B), (2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1861(r)(1) of the Act is classified to section 1395x(r)(1) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
-2006—Subsec. (e)(1). Pub. L. 109–280, §844(f), substituted “title” for “section”.
+2006—Subsec. (e). Pub. L. 109–280, §844(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to treatment of coverage provided as part of a life insurance contract.
+
+Subsec. (e)(1). Pub. L. 109–280, §844(f), substituted “title” for “section”.
 
 2004—Subsec. (f)(2)(C)(iii). Pub. L. 108–311 substituted “subparagraphs (A) through (G) of section 152(d)(2)” for “paragraphs (1) through (8) of section 152(a)”.
 

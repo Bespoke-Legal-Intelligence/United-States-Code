@@ -28,7 +28,7 @@ Penalties applicable to individuals and small business concerns.—
 
 &emsp;(A) An individual (except an airman serving as an airman) or small business concern is liable to the Government for a civil penalty of not more than $10,000 for violating—
 
-&emsp;&emsp;(i) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section44502 (b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title; or
+&emsp;&emsp;(i) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502 (b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title; or
 
 &emsp;&emsp;(ii) a regulation prescribed or order issued under any provision to which clause (i) applies.
 
@@ -62,7 +62,7 @@ Smoke Alarm Device Penalty.—(1) A passenger may not tamper with, disable, or d
 
 Procedural Requirements.—(1) The Secretary of Transportation may impose a civil penalty for the following violations only after notice and an opportunity for a hearing:
 
-&emsp;(A) a violation of subsection (b) of this section or chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II of chapter 421, or section 44909 of this title.
+&emsp;(A) a violation of subsection (b) of this section or chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (exceptsections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II of chapter 421, or section 44909 of this title.
 
 &emsp;(B) a violation of a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies.
 

@@ -52,7 +52,7 @@
 
 #### (c) Prohibition against contributions for volunteer manpower programs
 
-None of the funds available to carry out this part shall be contributed to any international organization or to any foreign government or agency thereof to pay the costs of developing oroperating any volunteer program of such organization, government, or agency relating to the selection, training, and programing of volunteer manpower.
+None of the funds available to carry out this part shall be contributed to any international organization or to any foreign government or agency thereof to pay the costs of developing or operating any volunteer program of such organization, government, or agency relating to the selection, training, and programing of volunteer manpower.
 
 #### (d) Tuberculosis vaccine development programs
 
@@ -86,13 +86,15 @@ In addition to amounts otherwise available under this section, there is authoriz
 
 In addition to amounts otherwise available under this section, there are authorized to be appropriated to the President such sums as may be necessary for each of the fiscal years 2009 through 2013 to be available for United States contributions to malaria vaccine development programs, including the Malaria Vaccine Initiative of the Program for Appropriate Technologies in Health (PATH).
 
-(Pub. L. 87–195, pt. I, §302, Sept. 4, 1961, 75 Stat. 433; Pub. L. 87–565, pt. I, §107, Aug. 1, 1962, 76 Stat. 259; Pub. L. 88–205, pt. I, §108, Dec. 16, 1963, 77 Stat. 383; Pub. L. 88–633, pt. I, §106, Oct. 7, 1964, 78 Stat. 1010; Pub. L. 89–171, pt. I, §106(b), Sept. 6, 1965, 79 Stat. 656; Pub. L. 89–583, pt. I, §107(d), Sept. 19, 1966, 80 Stat. 801; Pub. L. 90–137, pt. I, §110(b), Nov. 14, 1967, 81 Stat. 454; Pub. L. 90–554, pt. I, §108, Oct. 8, 1968, 82 Stat. 962; Pub. L. 91–175, pt. I, §108(b)–(d), Dec. 30, 1969, 83 Stat. 819; Pub. L. 92–226, pt. I, §107, Feb. 7, 1972, 86 Stat. 23; Pub. L. 93–189, §9(2)–(5), Dec. 17, 1973, 87 Stat. 719; Pub. L. 93–559, §9, Dec. 30, 1974, 88 Stat. 1798; Pub. L. 94–161, title III, §313(a), Dec. 20, 1975, 89 Stat. 866; Pub. L. 94–329, title V, §505, June 30, 1976, 90 Stat. 764; Pub. L. 95–88, title I, §118(a), Aug. 3, 1977, 91 Stat. 540; Pub. L. 95–424, title I, §117(a), (b)(1), (c), title VI, §604, Oct. 6, 1978, 92 Stat. 952, 953, 961; Pub. L. 96–53, title I, §114(a), Aug. 14, 1979, 93 Stat. 364; Pub. L. 96–533, title III, §309, Dec. 16, 1980, 94 Stat. 3148; Pub. L. 97–113, title III, §311(b), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1536, 1560; Pub. L. 99–83, title IV, §402(a), Aug. 8, 1985, 99 Stat. 217; Pub. L. 99–529, title IV, §404(2), Oct. 24, 1986, 100 Stat. 3019; Pub. L. 100–690, title IV, §4107, Nov. 18, 1988, 102 Stat. 4266; Pub. L. 106–264, title I, §112(a), Aug. 19, 2000, 114 Stat. 753; Pub. L. 108–25, title II, §203, May 27, 2003, 117 Stat. 727; Pub. L. 110–293, title II, §201, July 30, 2008, 122 Stat. 2936.)
+(Pub. L. 87–195, pt. I, §302, Sept. 4, 1961, 75 Stat. 433; Pub. L. 87–565, pt. I, §107, Aug. 1, 1962, 76 Stat. 259; Pub. L. 88–205, pt. I, §108, Dec. 16, 1963, 77 Stat. 383; Pub. L. 88–633, pt. I, §106, Oct. 7, 1964, 78 Stat. 1010; Pub. L. 89–171, pt. I, §106(b), Sept. 6, 1965, 79 Stat. 656; Pub. L. 89–583, pt. I, §107(d), Sept. 19, 1966, 80 Stat. 801; Pub. L. 90–137, pt. I, §110(b), Nov. 14, 1967, 81 Stat. 454; Pub. L. 90–554, pt. I, §108, Oct. 8, 1968, 82 Stat. 962; Pub. L. 91–175, pt. I, §108(b)–(d), Dec. 30, 1969, 83 Stat. 819; Pub. L. 92–226, pt. I, §107, Feb. 7, 1972, 86 Stat. 23; Pub. L. 93–189, §9(2)–(5), Dec. 17, 1973, 87 Stat. 719; Pub. L. 93–559, §9, Dec. 30, 1974, 88 Stat. 1798; Pub. L. 94–161, title III, §313(a), Dec. 20, 1975, 89 Stat. 866; Pub. L. 94–329, title V, §505, June 30, 1976, 90 Stat. 764; Pub. L. 95–88, title I, §118(a), Aug. 3, 1977, 91 Stat. 540; Pub. L. 95–424, title I, §117(a), (b)(1), (c), title VI, §604, Oct. 6, 1978, 92 Stat. 952, 953, 961; Pub. L. 96–53, title I, §114(a), Aug. 14, 1979, 93 Stat. 364; Pub. L. 96–533, title III, §309, Dec. 16, 1980, 94 Stat. 3148; Pub. L. 97–113, title III, §311(b), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1536, 1560; Pub. L. 99–83, title IV, §402(a), Aug. 8, 1985, 99 Stat. 217; Pub. L. 99–529, title IV, §404(2), Oct. 24, 1986, 100 Stat. 3019; Pub. L. 100–690, title IV, §4107, Nov. 18, 1988, 102 Stat. 4266; Pub. L. 106–264, title I, §112(a), Aug. 19, 2000, 114 Stat. 753; Pub. L. 108–25, title II, §203, May 27, 2003, 117 Stat. 727; Pub. L. 110–293, title II, §201, July 30, 2008, 122 Stat. 2936; Pub. L. 111–117, div. F, title VII, §7034(q)(2), Dec. 16, 2009, 123 Stat. 3363.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
+
+2009—Subsec. (<i>l</i>). Pub. L. 111–117, which directed substitution in subsec. (<i>l</i>) of “GAVI Alliance” for “Vaccine Fund”, could not be executed because “Vaccine Fund” did not appear in text.
 
 2008—Subsec. (d). Pub. L. 110–293, §201(1), added subsec. (d).
 
@@ -130,7 +132,7 @@ Subsec. (d). Pub. L. 95–424, §604, struck out subsec. (d) which related to co
 
 Subsec. (e). Pub. L. 95–424, §604, struck out subsec. (e) which related to added contributions for expansion of technical and vocational training of Arab refugees.
 
-Subsec. (f). Pub. L. 95–424, §604, struck out subsec. (f) which related to appropriation of Egyptian pounds for technical and vocational training and other assistance to Arab refugees.
+Subsec. (f). Pub. L. 95–424, §604, struck out subsec. (f) which related to appropriation of Egyptian pounds fortechnical and vocational training and other assistance to Arab refugees.
 
 Subsec. (g). Pub. L. 95–424, §604, struck out subsec. (g) which related to availability of funds for the International Atomic Energy Agency.
 
@@ -216,5 +218,5 @@ Section 117(b)(2) of Pub. L. 95–424 which provided that, not later than Jan. 3
 
 #### Authorization of Appropriations for Contributions to the World Assembly on Aging
 
-Section 117(e) of Pub. L. 95–424 provided that: “In addition to amounts otherwise available for such purpose, there are authorized to be appropriated to the President not to exceed $1,000,000 for contributions to the World Assembly on Aging to be convened under the auspices of the United Nations, except that the amount so contributed may not exceed 25 percent of the expenditures of such Assembly. Amounts appropriated under this subsection \[this note\] are authorized to remain available until expended.”
+Section 117(e) of Pub. L. 95–424 provided that: “In addition to amounts otherwise available for such purpose,there are authorized to be appropriated to the President not to exceed $1,000,000 for contributions to the World Assembly on Aging to be convened under the auspices of the United Nations, except that the amount so contributed may not exceed 25 percent of the expenditures of such Assembly. Amounts appropriated under this subsection \[this note\] are authorized to remain available until expended.”
 

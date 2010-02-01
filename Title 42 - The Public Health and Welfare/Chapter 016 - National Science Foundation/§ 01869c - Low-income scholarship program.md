@@ -10,7 +10,7 @@ The Director of the National Science Foundation (referred to in this section as 
 
 &emsp;To be eligible to receive a scholarship under this section, an individual—
 
-&emsp;&emsp;(i) must be a citizen of the United States, a national of the United States (as defined in section 1101(a) of title 8), an alien admitted as a refugee under section 1157 of title 8, or an alien lawfully admitted to the United States for permanent residence;
+&emsp;&emsp;(i) must be a citizen of the United States, a national of the United States (as defined insection 1101(a) of title 8), an alien admitted as a refugee under section 1157 of title 8, or an alien lawfully admitted to the United States for permanent residence;
 
 &emsp;&emsp;(ii) shall prepare and submit to the Director an application at such time, in such manner, and containing such information as the Director may require; and
 
@@ -40,7 +40,7 @@ Section 1157 of title 8, referred to in par. (2)(A)(i), was in the original “s
 
 #### Codification
 
-Section was enacted as part of the American Competitiveness and Workforce Improvement Act of 1998,and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the American Competitiveness and Workforce Improvement Act of 1998, and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
 

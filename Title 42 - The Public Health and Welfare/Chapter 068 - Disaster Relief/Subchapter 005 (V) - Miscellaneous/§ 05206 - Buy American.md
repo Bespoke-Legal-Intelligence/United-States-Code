@@ -18,7 +18,7 @@ No funds authorized to be appropriated under this Act or any amendment made by t
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 106–390, Oct. 30, 2000, 114 Stat. 1552, known as the Disaster Mitigation Act of 2000. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 5121 of this title and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 106–390, Oct. 30, 2000, 114 Stat. 1552, known as the Disaster Mitigation Act of 2000. For complete classification of thisAct to the Code, see Short Title of 2000 Amendment note set out under section 5121 of this title and Tables.
 
 The Buy American Act, referred to in subsec. (a), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, as amended, which is classified generally to sections 10a, 10b, and 10c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
 

@@ -26,7 +26,7 @@ The Director of National Intelligence shall establish, for all elements of the i
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(NN), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+2004—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(NN), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 Subsec. (b)(1). Pub. L. 108–458, §1071(a)(1)(OO), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 

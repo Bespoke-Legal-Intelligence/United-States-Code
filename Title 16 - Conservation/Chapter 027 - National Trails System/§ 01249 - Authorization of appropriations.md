@@ -1,24 +1,46 @@
 ### §1249. Authorization of appropriations
 
-(a)(1) There are hereby authorized to be appropriated for the acquisition of lands or interests in lands not more than $5,000,000 for the Appalachian National Scenic Trail and not more than $500,000 for the Pacific Crest National Scenic Trail. From the appropriations authorized for fiscal year 1979 and succeeding fiscal years pursuant to the Land and Water Conservation Fund Act (78 Stat. 897), as amended \[16 U.S.C. 460<i>l</i>–4 et seq.\], not more than the following amounts may be expended for the acquisition of lands and interests in lands authorized to be acquired pursuant to the provisions of this chapter: for the Appalachian National Scenic Trail, not to exceed $30,000,000 for fiscal year 1979, $30,000,000 for fiscal year 1980, and $30,000,000 for fiscal year 1981, except that the difference between the foregoing amounts and the actual appropriations in any one fiscal year shall be available for appropriation in subsequent fiscal years.
+#### (a) Appalachian and Pacific Crest National Scenic Trails
+
+(1) There are hereby authorized to be appropriated for the acquisition of lands or interests in lands not more than $5,000,000 for the Appalachian National Scenic Trail and not more than $500,000 for the Pacific Crest National Scenic Trail. From the appropriations authorized for fiscal year 1979 and succeeding fiscal years pursuant to the Land and Water Conservation Fund Act (78 Stat. 897), as amended \[16 U.S.C. 460<i>l</i>–4 et seq.\], not more than the following amounts may be expended for the acquisition of lands and interests in lands authorized to be acquired pursuant to the provisions of this chapter: for the Appalachian National Scenic Trail, not to exceed $30,000,000 for fiscal year 1979, $30,000,000 for fiscal year 1980, and $30,000,000 for fiscal year 1981, except that the difference between the foregoing amounts and the actual appropriations in any one fiscal year shall be available for appropriation in subsequent fiscal years.
 
 (2) It is the express intent of the Congress that the Secretary should substantially complete the land acquisition program necessary to insure the protection of the Appalachian Trail within three complete fiscal years following March 21, 1978.
 
-(b) For the purposes of Public Law 95–42 (91 Stat. 211), the lands and interests therein acquired pursuant to this section shall be deemed to qualify for funding under the provisions of section 1, clause 2, of said Act \[16 U.S.C. 460<i>l</i>–7\].
+#### (b) Land deemed to qualify for funding
 
-(c)(1) There is hereby authorized to be appropriated such sums as may be necessary to implement the provisions of this chapter relating to the trails designated by section 1244(a)(3), (4), (5), (6), (7), (8), (9), and (10) of this title: <i>Provided</i>, That no such funds are authorized to be appropriated prior to October 1, 1978: <i>And provided further</i>, That notwithstanding any other provisions of this chapter or any other provisions of law, no funds may be expended by Federal agencies for the acquisition of lands or interests in lands outside the exterior boundaries of existing Federal areas for the Continental Divide National Scenic Trail, the North Country National Scenic Trail, the Ice Age National Scenic Trail, the Oregon National Historic Trail, the Mormon Pioneer National Historic Trail, the Lewis and Clark National Historic Trail, and the Iditarod National Historic Trail, except that funds may be expended for the acquisition of lands or interests therein for the purpose of providing for one trail interpretation site, as described in section 1246(c) of this title, along with such trail in each State crossed by the trail.
+For the purposes of Public Law 95–42 (91 Stat. 211), the lands and interests therein acquired pursuant to this section shall be deemed to qualify for funding under the provisions of section 1, clause 2, of said Act \[16 U.S.C. 460<i>l</i>–7\].
 
-(2) Except as otherwise provided in this chapter, there is authorized to be appropriated such sums as may be necessary to implement the provisions of this chapter relating to the trails designated by section 1244(a) of this title. Not more than $500,000 may be appropriated for the purposes of acquisition of land and interests therein for the trail designated by section 1244(a)(12) of this title, and not more than $2,000,000 may be appropriated for the purposes of the development of such trail. The administering agency for the trail shall encourage volunteer trail groups to participate in the development of the trail.
+#### (c) Authorization of appropriations
 
-(Pub. L. 90–543, §10, Oct. 2, 1968, 82 Stat. 926; Pub. L. 95–248, §1(5), Mar. 21, 1978, 92 Stat. 160; Pub. L. 95–625, title V, §551(23), Nov. 10, 1978, 92 Stat. 3517; Pub. L. 96–199, title I, §101(b)(4), Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–370, §1(b), Oct. 3, 1980, 94 Stat. 1360; Pub. L. 98–11, title II, §209, Mar. 28, 1983, 97 Stat. 48; Pub. L. 100–35, §1(b), May 8, 1987, 101 Stat. 302; Pub. L. 100–192, §2, Dec. 16, 1987, 101 Stat. 1309; Pub. L. 101–365, §2(b), Aug. 15, 1990, 104 Stat. 429; Pub. L. 103–437, §6(d)(38), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 104–333, div. I, title VIII, §814(d)(1)(J), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 108–352, §14(2), Oct. 21, 2004, 118 Stat. 1397.)
+#### (1) In general
+
+&emsp;Except as otherwise provided in this chapter, there are authorized to be appropriated such sums as are necessary to implement the provisions of this chapter relating to the trails designated by section 1244(a) of this title.
+
+#### (2) Natchez Trace National Scenic Trail
+
+#### (A) In general
+
+&emsp;&emsp;With respect to the Natchez Trace National Scenic Trail (referred to in this paragraph as the “trail”) designated by section 1244(a)(12) of this title—
+
+&emsp;&emsp;&emsp;(i) not more than $500,000 shall be appropriated for the acquisition of land or interests in land for the trail; and
+
+&emsp;&emsp;&emsp;(ii) not more than $2,000,000 shall be appropriated for the development of the trail.
+
+#### (B) Participation by volunteer trail groups
+
+&emsp;&emsp;The administering agency for the trail shall encourage volunteer trail groups to participate in the development of the trail.
+
+(Pub. L. 90–543, §10, Oct. 2, 1968, 82 Stat. 926; Pub. L. 95–248, §1(5), Mar. 21, 1978, 92 Stat. 160; Pub. L. 95–625, title V, §551(23), Nov. 10, 1978, 92 Stat. 3517; Pub. L. 96–199, title I, §101(b)(4), Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–370, §1(b), Oct. 3, 1980, 94 Stat. 1360; Pub. L. 98–11, title II, §209, Mar. 28, 1983, 97 Stat. 48; Pub. L. 100–35, §1(b), May 8, 1987, 101 Stat. 302; Pub. L. 100–192, §2, Dec. 16, 1987, 101 Stat. 1309; Pub. L. 101–365, §2(b), Aug. 15, 1990, 104 Stat. 429; Pub. L. 103–437, §6(d)(38), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 104–333, div. I, title VIII, §814(d)(1)(J), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 108–352, §14(2), Oct. 21, 2004, 118 Stat. 1397; Pub. L. 111–11, title V, §5301(b), Mar. 30, 2009, 123 Stat. 1161.)
 
 #### References in Text
 
-The Land and Water Conservation Fund Act (78 Stat. 897), as amended, referred to in subsec. (a)(1), probablymeans the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
+The Land and Water Conservation Fund Act (78 Stat. 897), as amended, referred to in subsec. (a)(1), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
 
 Public Law 95–42 (91 Stat. 211), referred to in subsec. (b), is Pub. L. 95–42, June 10, 1977, 91 Stat. 210, which, to the extent classified to the Code, amended sections 460<i>l</i>–5, 460<i>l</i>–7, and 460<i>l</i>–9 of this title. Section 1, clause 2 of said Act amended section 460<i>l</i>–7 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2009—Subsec. (c). Pub. L. 111–11 added subsec. (c) and struck out former subsec. (c) which appropriated such sums as necessary to implement the provisions of this chapter relating to the trails designated by section 1244(a) of this title.
 
 2004—Subsec. (c)(1). Pub. L. 108–352 substituted “the Ice Age” for “The Ice Age”.
 
@@ -46,7 +68,7 @@ Subsec. (c). Pub. L. 98–11, §209(5), designated existing provisions as par. (
 
 1980—Subsec. (c). Pub. L. 96–370 substituted “(7), (8), (9), and (10)” for “(7), and (8)” and inserted reference to the Ice Age National Scenic Trail.
 
-Pub. L. 96–199 inserted references to the North Country National Scenic Trail in two places, once by its full name and once by the designation as the trail “designated by” section 1244(a)(8) of this title, substituted “appropriated prior to October 1, 1978” for “appropriated prior to October 1, 1979”, and substituted “no funds may be expended by Federal agencies for the acquisition of lands or interests in lands outside the exterior boundaries of existing Federal area” for “no funds may be expended for the acquisition of lands or interests in lands”.
+Pub. L. 96–199 inserted references to the North Country National Scenic Trail in two places, once by its full name and once by the designation as the trail “designated by” section 1244(a)(8) of this title, substituted “appropriated prior to October 1, 1978” for “appropriated prior to October 1, 1979”, and substituted “nofunds may be expended by Federal agencies for the acquisition of lands or interests in lands outside the exterior boundaries of existing Federal area” for “no funds may be expended for the acquisition of lands or interests in lands”.
 
 1978—Pub. L. 95–248 inserted provisions relating to determinations respecting appropriations authorized for fiscal year 1979 and succeeding fiscal years.
 

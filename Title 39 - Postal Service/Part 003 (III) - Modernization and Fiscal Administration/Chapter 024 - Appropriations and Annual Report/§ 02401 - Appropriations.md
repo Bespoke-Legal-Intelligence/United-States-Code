@@ -18,7 +18,7 @@
 
 &emsp;(G) except as provided in paragraph (2) of this subsection, for each fiscal year thereafter an amount equal to 5 percent of such sum for fiscal year 1971.
 
-(2) After fiscal year 1984, the Postal Service may reduce the percentage figure in paragraph (1)(G) of this subsection, including a reduction to 0, if the Postal Service finds that the amounts determined under such paragraph are no longer required to operate the Postal Service in accordance with the policies of this title.
+(2) After fiscal year 1984, the Postal Service may reduce the percentage figure in paragraph (1)(G) of this subsection, including a reduction to 0, if the Postal Service finds that theamounts determined under such paragraph are no longer required to operate the Postal Service in accordance with the policies of this title.
 
 (c) There are authorized to be appropriated to the Postal Service each year a sum determined by the Postal Service to be equal to the difference between the revenues the Postal Service would have received if sections 3217 and 3403 through 3406 had not been enacted and the estimated revenues to be received on mail carried under such sections. In requesting an appropriation under this subsection for a fiscal year, the Postal Service shall include an amount to reconcile sums authorized to be appropriated for prior fiscal years on the basis of estimated mail volume.
 
@@ -28,7 +28,7 @@
 
 &emsp;(1) the plans, policies, and procedures of the Postal Service designed to comply with all of the provisions of section 101 of this title;
 
-&emsp;(2) postal operations generally, including data on the speed and reliability of service provided for the various classes of mail andtypes of mail service, mail volume, productivity, trends in postal operations, and analyses of the impact of internal and external factors upon the Postal Service;
+&emsp;(2) postal operations generally, including data on the speed and reliability of service provided for the various classes of mail and types of mail service, mail volume, productivity, trends in postal operations, and analyses of the impact of internal and external factors upon the Postal Service;
 
 &emsp;(3) a listing of the total expenditures and obligations incurred by the Postal Service for the most recent fiscal year for which information is available, an estimate of the total expenditures and obligations to be incurred by the Postal Service during the fiscal year for which funds are requested to be appropriated, and the means by which these estimated expenses will be financed; and
 
@@ -56,7 +56,7 @@ Subsec. (e). Pub. L. 109–435, §1010(d)(1), substituted “Committee on Govern
 
 1994—Subsec. (e). Pub. L. 103–437, in introductory provisions, substituted “Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives” for “Committees on Post Office and Civil Service”, and, in concluding provisions, substituted “Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives” for “Committees on Post Office and Civil Service of the Senate and the House of Representatives”.
 
-1993—Subsec. (c). Pub. L. 103–123, §703(a), in first sentence substituted “if sections 3217 and 3403 through 3406 had not been enacted” for “if sections 3217, 3403–3406, 3626(a)–(h), 3626(j)–(k), and 3629 of this title, had not been enacted” and “such sections.” for “such sections and Acts.” and in second sentence struck out “(i)” after “Postal Service shall” and substituted “volume.” for “volume; and (ii) calculate the sums requested in respect of mail under former sections 4452(b) and 4452(c) of this title as though all such mail consisted of letter shaped pieces, as such pieces are defined in the then effective classification and rate schedules.”
+1993—Subsec. (c). Pub. L. 103–123, §703(a), in first sentence substituted “if sections 3217 and 3403 through 3406 had not been enacted” for “if sections 3217, 3403–3406, 3626(a)–(h), 3626(j)–(k), and 3629 of this title, had notbeen enacted” and “such sections.” for “such sections and Acts.” and in second sentence struck out “(i)” after “Postal Service shall” and substituted “volume.” for “volume; and (ii) calculate the sums requested in respect of mail under former sections 4452(b) and 4452(c) of this title as though all such mail consisted of letter shaped pieces, as such pieces are defined in the then effective classification and rate schedules.”
 
 Pub. L. 103–31 substituted “3626(a)–(h), 3626(j)–(k), and 3629 of this title” for “and 3626(a)–(h) and (j)–(k) of this title,” in first sentence.
 

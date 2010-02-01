@@ -36,13 +36,13 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 #### (3) Definitions
 
-&emsp;For purposes of this subsection, the terms “required installment” and “due date” havethe same meanings given such terms by section 1083(j) of this title.
+&emsp;For purposes of this subsection, the terms “required installment” and “due date” have the same meanings given such terms by section 1083(j) of this title.
 
 #### (e) Notice of transfer of excess pension assets to health benefits accounts
 
 #### (1) Notice to participants
 
-&emsp;Not later than 60 days before the date of a qualified transfer by an employee pension benefit plan of excess pension assets to a health benefits account, the administrator of the plan shall notify (in such manner as the Secretary may prescribe) each participant and beneficiary under the plan of such transfer. Such notice shall include information with respect to the amount of excess pension assets, the portion to be transferred, the amount of health benefits liabilities expected to be provided with the assets transferred, and the amount of pension benefits of the participant which will be nonforfeitable immediately after the transfer.
+&emsp;Not later than 60 days before the date of a qualified transfer by an employee pension benefit plan of excess pension assets to a health benefits account, the administrator of the plan shall notify (in such manner as the Secretary may prescribe) each participant andbeneficiary under the plan of such transfer. Such notice shall include information with respect to the amount of excess pension assets, the portion to be transferred, the amount of health benefits liabilities expected to be provided with the assets transferred, and the amount of pension benefits of the participant which will be nonforfeitable immediately after the transfer.
 
 #### (2) Notice to Secretaries, administrator, and employee organizations
 
@@ -102,7 +102,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 &emsp;&emsp;&emsp;(v) in the case of a multiemployer plan, whether the plan was in critical or endangered status under section 1085 of this title for such plan year and, if so—
 
-&emsp;&emsp;&emsp;&emsp;(I) a statement describing how a person may obtain a copy of the plan's funding improvement or rehabilitation plan, as appropriate, adopted under section 1085 of this title and the actuarial and financial data that demonstrate any action taken by the plan toward fiscal improvement, and
+&emsp;&emsp;&emsp;&emsp;(I) a statement describing how a person may obtain a copy of the plan's funding improvement or rehabilitation plan, as appropriate, adopted under section 1085 of this title and the actuarial and financial data that demonstrate any actiontaken by the plan toward fiscal improvement, and
 
 &emsp;&emsp;&emsp;&emsp;(II) a summary of any funding improvement plan, rehabilitation plan, or modification thereof adopted under section 1085 of this title during the plan year to which the notice relates,
 
@@ -178,7 +178,7 @@ The Secretary may, by regulation, require multiple employer welfare arrangements
 
 #### (1) Duties of plan administrator
 
-&emsp;In advance of the commencement of any blackout period with respect to an individual account plan, the plan administrator shall notify the plan participants and beneficiaries who are affected by such action in accordance with this subsection.
+&emsp;In advance of the commencement of any blackout period with respect to an individualaccount plan, the plan administrator shall notify the plan participants and beneficiaries who are affected by such action in accordance with this subsection.
 
 #### (2) Notice requirements
 
@@ -240,7 +240,7 @@ The Secretary may, by regulation, require multiple employer welfare arrangements
 
 #### (A) In general
 
-&emsp;&emsp;The term “blackout period” means, in connection with an individual account plan, any period for which any ability of participants or beneficiaries under the plan, which is otherwise available under the terms of such plan, to direct or diversify assets credited to their accounts, to obtain loans from the plan, or to obtain distributions from the plan is temporarily suspended, limited, orrestricted, if such suspension, limitation, or restriction is for any period of more than 3 consecutive business days.
+&emsp;&emsp;The term “blackout period” means, in connection with an individual account plan, any period for which any ability of participants or beneficiaries under the plan, which is otherwise available under the terms of such plan, to direct or diversify assets credited to their accounts, to obtain loans from the plan, or to obtain distributions from the plan is temporarily suspended, limited, or restricted, if such suspension, limitation, or restriction is for any period of more than 3 consecutive business days.
 
 #### (B) Exclusions
 
@@ -308,7 +308,7 @@ The plan administrator of a single-employer plan shall provide a written notice 
 
 #### (3) Limitations
 
-&emsp;In no case shall a participant, beneficiary, or employer be entitled under this subsection to receive more than one copy of any report or application described in paragraph (1) during any one 12-month period. The administrator may make a reasonable charge to cover copying, mailing, and other costs of furnishing copies of information pursuant to paragraph (1).The Secretary may by regulations prescribe the maximum amount which will constitute a reasonable charge under the preceding sentence.
+&emsp;In no case shall a participant, beneficiary, or employer be entitled under this subsection to receive more than one copy of any report or application described in paragraph (1) during any one 12-month period. The administrator may make a reasonable charge to cover copying, mailing, and other costs of furnishing copies of information pursuant to paragraph (1). The Secretary may by regulations prescribe the maximum amount which will constitute a reasonable charge under the preceding sentence.
 
 #### (<i>l</i>) Notice of potential withdrawal liability
 
@@ -490,7 +490,7 @@ Pub. L. 109–280, title V, §501(d), Aug. 17, 2006, 120 Stat. 939, provided tha
 
 “(1)
 
-In general.—The amendments made by this section \[amending this section and repealing section 1311 of this title\] shall apply to plan years beginning afterDecember 31, 2007, except that the amendment made by subsection (b) \[repealing section 1311 of this title\] shall apply to plan years beginning after December 31, 2006.
+In general.—The amendments made by this section \[amending this section and repealing section 1311 of this title\] shall apply to plan years beginning after December 31, 2007, except that the amendment made by subsection (b) \[repealing section 1311 of this title\] shall apply to plan years beginning after December 31, 2006.
 
 “(2)
 
@@ -576,13 +576,13 @@ Section 9304(d) of Pub. L. 100–203, as amended by Pub. L. 101–239, title VII
 
 Pub. L. 109–280, title V, §502(a)(3), Aug. 17, 2006, 120 Stat. 940, provided that: “The Secretary shall prescribe regulations under section 101(k)(2) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1021(k)(2)\] (as added by paragraph (1)) not later than 1 year after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
-Pub. L. 108–218, title I, §103(c), Apr. 10, 2004, 118 Stat. 604, provided that: “The Secretary of Labor shall, not later than 1 year after the date of the enactment of this Act \[Apr. 10, 2004\], issue regulations (including a model notice) necessary to implement the amendments madeby this section \[amending this section and section 1132 of this title\].”
+Pub. L. 108–218, title I, §103(c), Apr. 10, 2004, 118 Stat. 604, provided that: “The Secretary of Labor shall, not later than 1 year after the date of the enactment of this Act \[Apr. 10, 2004\], issue regulations (including a model notice) necessary to implement the amendments made by this section \[amending this section and section 1132 of this title\].”
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280,set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Model Notices and Forms
 

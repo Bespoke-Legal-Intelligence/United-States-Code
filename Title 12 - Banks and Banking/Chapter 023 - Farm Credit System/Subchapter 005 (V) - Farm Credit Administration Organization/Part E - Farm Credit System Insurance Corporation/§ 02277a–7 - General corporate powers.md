@@ -30,7 +30,7 @@ On January 6, 1988, the Corporation shall become a body corporate and as such sh
 
 #### (D) Agent for service of process
 
-&emsp;&emsp;The Board of Directors shall designate an agent on whom service of process may bemade in any State or jurisdiction in which any insured System bank is located.
+&emsp;&emsp;The Board of Directors shall designate an agent on whom service of process may be made in any State or jurisdiction in which any insured System bank is located.
 
 #### (5) Officers and employees
 
@@ -48,7 +48,7 @@ On January 6, 1988, the Corporation shall become a body corporate and as such sh
 
 #### (7) Incidental powers
 
-&emsp;The Corporation may exercise by its Board of Directors, or duly authorized officers or agents, all powers specifically granted by the provisions of this part, and such incidental powers as shall be necessary to carry out the powers so granted.
+&emsp;The Corporation may exercise by its Board of Directors, or duly authorized officers oragents, all powers specifically granted by the provisions of this part, and such incidental powers as shall be necessary to carry out the powers so granted.
 
 #### (8) Information
 

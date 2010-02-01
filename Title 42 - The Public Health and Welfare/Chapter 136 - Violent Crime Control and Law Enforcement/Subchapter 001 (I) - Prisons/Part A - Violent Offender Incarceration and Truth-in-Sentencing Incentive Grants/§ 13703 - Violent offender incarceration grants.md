@@ -2,7 +2,7 @@
 
 #### (a) Eligibility for minimum grant
 
-To be eligible to receive a minimum grant under this section, a State shall submit an application to the Attorney General that provides assurances that the State has implemented, or will implement, correctional policies and programs, including truth-in-sentencing laws that ensure that violent offenders serve a substantial portion of the sentences imposed, that are designed to provide sufficiently severe punishment for violent offenders, including violent juvenile offenders, and that the prison time served is appropriately related to the determination that the inmate is a violent offender and for a period of time deemed necessary to protect the public.
+To be eligible to receive a minimum grant under this section, a State shall submit an application to the Attorney General that provides assurances that the State has implemented, or will implement, correctional policies and programs, including truth-in-sentencing laws that ensure that violent offenders serve a substantial portion of the sentences imposed, that are designed to provide sufficiently severe punishment for violent offenders, including violent juvenile offenders, and that the prison time served is appropriately related to the determination thatthe inmate is a violent offender and for a period of time deemed necessary to protect the public.
 
 #### (b) Additional amount for increased percentage of persons sentenced and time served
 

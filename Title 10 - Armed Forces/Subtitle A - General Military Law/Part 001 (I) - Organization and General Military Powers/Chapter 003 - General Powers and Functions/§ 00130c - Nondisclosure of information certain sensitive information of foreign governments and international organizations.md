@@ -18,7 +18,7 @@ Information Eligible for Exemption.—For the purposes of this section, informat
 
 &emsp;&emsp;(B) The information was provided or made available to the United States Government on the condition that it not be released to the public.
 
-&emsp;&emsp;(C) The information is an item of information, or is in a category of information, that the national security official concerned has specified in regulations prescribed under subsection (g) as being information the release of which would have an adverse effect on the ability of the United States Government to obtain the same or similar information in the future.
+&emsp;&emsp;(C) The information is an item of information, or is in a category of information, thatthe national security official concerned has specified in regulations prescribed under subsection (g) as being information the release of which would have an adverse effect on the ability of the United States Government to obtain the same or similar information in the future.
 
 (c)
 

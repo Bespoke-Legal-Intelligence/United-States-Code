@@ -10,7 +10,7 @@ Definition.—In this section, the term “public welfare” includes, with resp
 
 (b)
 
-Factors in Making Arbitration Award.—An arbitrator rendering an arbitration award involving the employees of an interstate compactagency operating in the national capital area may not make a finding or a decision for inclusion in a collective bargaining agreement governing conditions of employment without considering the following factors:
+Factors in Making Arbitration Award.—An arbitrator rendering an arbitration award involving the employees of an interstate compact agency operating in the national capital area may not make a finding or a decision for inclusion in a collective bargaining agreement governing conditions of employment without considering the following factors:
 
 &emsp;(1) The existing terms and conditions of employment of the employees in the bargaining unit.
 
@@ -18,7 +18,7 @@ Factors in Making Arbitration Award.—An arbitrator rendering an arbitration aw
 
 &emsp;(3) The annual increase or decrease in consumer prices for goods and services as reflected in the most recent consumer price index for the Washington metropolitan area, published by the Bureau of Labor Statistics.
 
-&emsp;(4) The wages, benefits, and terms and conditions of the employment of other employees who perform, in other jurisdictions in the Washington standard metropolitan statistical area, services similar to those in the bargaining unit.
+&emsp;(4) The wages, benefits, and terms and conditions of the employment of other employeeswho perform, in other jurisdictions in the Washington standard metropolitan statistical area, services similar to those in the bargaining unit.
 
 &emsp;(5) The special nature of the work performed by the employees in the bargaining unit, including any hazards or the relative ease of employment, physical requirements, educational qualifications, job training and skills, shift assignments, and the demands placed upon the employees as compared to other employees of the interstate compact agency.
 

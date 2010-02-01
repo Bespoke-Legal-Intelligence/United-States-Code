@@ -28,7 +28,7 @@
 
 #### (4) Locations
 
-&emsp;In providing for tourism development demonstration projects under the program under this section, the Secretary, acting through theDirector, shall provide for a demonstration project to be conducted—
+&emsp;In providing for tourism development demonstration projects under the program under this section, the Secretary, acting through the Director, shall provide for a demonstration project to be conducted—
 
 &emsp;&emsp;(A) for Indians of the Four Corners area located in the area adjacent to the border between Arizona, Utah, Colorado, and New Mexico;
 

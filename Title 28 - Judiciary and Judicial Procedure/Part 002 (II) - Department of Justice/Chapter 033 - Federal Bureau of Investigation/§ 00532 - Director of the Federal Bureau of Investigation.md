@@ -88,7 +88,7 @@ Reports.—(1) Not later than 180 days after the date of the enactment of this A
 
 “(a)
 
-Directorate of Intelligence of Federal Bureau of Investigation.—The element of the Federal Bureau of Investigation known as of the date of the enactment of this Act \[Dec. 17, 2004\] as the Office of Intelligence is hereby redesignated as the Directorate of Intelligence of the Federal Bureau of Investigation.
+Directorate of Intelligence of Federal Bureau of Investigation.—The element of the FederalBureau of Investigation known as of the date of the enactment of this Act \[Dec. 17, 2004\] as the Office of Intelligence is hereby redesignated as the Directorate of Intelligence of the Federal Bureau of Investigation.
 
 “(b)
 

@@ -34,7 +34,7 @@ Subsecs. (b) to (d). Pub. L. 109–364, §673(b)(2), redesignated subsecs. (c) a
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–181, div. A, title X, §1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(7)(B) is effective as of Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, Pub. L. 109–364, as enacted.
+Pub. L. 110–181, div. A, title X, §1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made bysection 1063(c)(7)(B) is effective as of Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, Pub. L. 109–364, as enacted.
 
 #### Termination Date of 2006 Amendment
 

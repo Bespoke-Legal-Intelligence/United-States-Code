@@ -20,7 +20,7 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 (3) Any person who provides assistance to the Commission under this subsection shall not be considered, by reason of having provided such assistance, a Federal employee.
 
-(4) Any advisory coordinating committee which furnishes assistance to the Commission under this subsection shall not be subject to the provisions of the Federal Advisory Committee Act.
+(4) Any advisory coordinating committee which furnishes assistance to the Commissionunder this subsection shall not be subject to the provisions of the Federal Advisory Committee Act.
 
 #### (c) Regulatory treatment of mobile services
 
@@ -70,7 +70,7 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 &emsp;&emsp;(A) The extent of foreign ownership interest shall not be increased above the extent which existed on May 24, 1993.
 
-&emsp;&emsp;(B) Such waiver shall not permit the subsequent transfer of ownership to any otherperson in violation of section 310(b) of this title.
+&emsp;&emsp;(B) Such waiver shall not permit the subsequent transfer of ownership to any other person in violation of section 310(b) of this title.
 
 #### (7) Preservation of local zoning authority
 
@@ -126,7 +126,7 @@ Provisions of part III of title 5, referred to in subsec. (b)(2), are classified
 
 The Federal Advisory Committee Act, referred to in subsec. (b)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
 
-The Communications Satellite Act of 1962, referred to in subsec. (c)(4), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended. Titles III and IV of the Act are classified generally to subchapters III (§731 et seq.) and IV\(§741 et seq.), respectively, of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Communications Satellite Act of 1962, referred to in subsec. (c)(4), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended. Titles III and IV of the Act are classified generally to subchapters III (§731 et seq.) and IV (§741 et seq.), respectively, of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 The Omnibus Budget Reconciliation Act of 1993, referred to in subsec. (c)(6), is Pub. L. 103–66, Aug. 10, 1993, 107 Stat. 312, as amended. For complete classification of this Act to the Code, see Tables.
 
@@ -162,7 +162,7 @@ Effective dates of mobile service amendments.—The amendments made by subsectio
 
 #### Availability of Property
 
-Section 704(c) of Pub. L. 104–104 provided that: “Within 180 days of the enactment of this Act \[Feb. 8, 1996\], the President or his designee shall prescribe procedures by which Federal departments and agencies may make available on a fair, reasonable, and nondiscriminatory basis, property, rights-of-way, and easements under their control for the placement of new telecommunications services that are dependent, in whole or in part, upon the utilization of Federal spectrum rights for the transmission or reception of such services. These procedures may establish a presumption that requests for the use of property, rights-of-way, and easements by duly authorized providers should be granted absent unavoidable direct conflict with the department or agency's mission, or the current or planned use of the property, rights-of-way, and easements in question. Reasonable fees may be charged to providers of such telecommunications services for use of property, rights-of-way, and easements. The Commission shall provide technical support to States to encourage them to make property, rights-of-way, and easements under their jurisdiction available for such purposes.”
+Section 704(c) of Pub. L. 104–104 provided that: “Within 180 days of the enactment of this Act \[Feb. 8, 1996\], the President or his designee shall prescribe procedures by which Federal departments and agencies may make available on a fair, reasonable, and nondiscriminatory basis, property, rights-of-way, and easements under their control for the placement of new telecommunications services that are dependent, in whole or in part, upon the utilization of Federal spectrum rights for the transmission or reception of such services. These procedures may establish a presumption that requests for the use of property, rights-of-way, and easements by duly authorized providers should be granted absent unavoidable direct conflict with the department or agency's mission, or the current or planned use of the property, rights-of-way, and easements in question. Reasonable fees may be charged to providers of such telecommunications services for use of property, rights-of-way, and easements. The Commission shall provide technical support to States to encourage them to makeproperty, rights-of-way, and easements under their jurisdiction available for such purposes.”
 
 #### Transitional Rulemaking for Mobile Service Providers
 

@@ -44,7 +44,7 @@ This section \[section 35\] makes the following changes in section 1384 of title
 
 #### Transfer of Functions
 
-Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 3508(b) of Title 20, Education.
+Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department ofHealth and Human Services by section 3508(b) of Title 20, Education.
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator were abolished by section 8 of Reorg. Plan No. 1 of 1953.
 

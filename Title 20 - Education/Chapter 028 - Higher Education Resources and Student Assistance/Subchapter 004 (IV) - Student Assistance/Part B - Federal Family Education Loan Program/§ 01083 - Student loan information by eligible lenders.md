@@ -136,7 +136,7 @@ Loans made under sections 1078–2 and 1078–8 of this title shall not be subje
 
 #### (1) Pertinent information about a loan provided on a periodic basis
 
-&emsp;Each eligible lender shall provide the borrower of a loan made, insured, or guaranteed under this part with a bill or statement (as applicable) that corresponds to each payment installment time period in which a payment is due and that includes, in simple and understandable terms—
+&emsp;Each eligible lender shall provide the borrower of a loan made, insured, or guaranteed under this part with a bill or statement (as applicable) that corresponds to each payment installment time period in which a payment isdue and that includes, in simple and understandable terms—
 
 &emsp;&emsp;(A) the original principal amount of the borrower's loan;
 
@@ -216,7 +216,7 @@ A prior section 1083, Pub. L. 89–329, title IV, §433, Nov. 8, 1965, 79 Stat. 
 
 2008—Pub. L. 110–315 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to student loan information by eligible lenders.
 
-1998—Subsec. (a). Pub. L. 105–244, §428(a), amended heading and introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Each eligible lender shall, at or prior to the time such lender disburses a loan which is insured or guaranteed under this part (other than a loan made under section 1078–3 of this title), provide thorough and accurate loan information on such loan to the borrower. Any disclosure required by this subsection may be made by an eligible lender as part of the written application material provided to the borrower, or as part of the promissory note evidencing the loan, or on a separate written form provided to the borrower. The disclosure shall include—”.
+1998—Subsec. (a). Pub. L. 105–244, §428(a), amended heading and introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Each eligible lender shall, at or prior to the time suchlender disburses a loan which is insured or guaranteed under this part (other than a loan made under section 1078–3 of this title), provide thorough and accurate loan information on such loan to the borrower. Any disclosure required by this subsection may be made by an eligible lender as part of the written application material provided to the borrower, or as part of the promissory note evidencing the loan, or on a separate written form provided to the borrower. The disclosure shall include—”.
 
 Subsec. (b). Pub. L. 105–244, §428(b), amended heading and introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Each eligible lender shall, at or prior to the start of the repayment period of the student borrower on loans made, insured, or guaranteed under this part, disclose to the borrower the information required under this subsection. For any loan made, insured, or guaranteed under this part, other than a loan made under section 1078–2 or 1078–3 of this title, such disclosure required by this subsection shall be made not less than 30 days nor more than 240 days before the first payment on the loan is due from the borrower. The disclosure shall �include—”.
 

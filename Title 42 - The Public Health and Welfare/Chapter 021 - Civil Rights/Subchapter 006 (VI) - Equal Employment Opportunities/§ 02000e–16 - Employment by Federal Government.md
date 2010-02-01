@@ -6,7 +6,7 @@ All personnel actions affecting employees or applicants for employment (except w
 
 #### (b) Equal Employment Opportunity Commission; enforcement powers; issuance of rules, regulations, etc.; annual review and approval of national and regional equal employment opportunity plans; review and evaluation of equal employment opportunity programs and publication of progress reports; consultations with interested parties; compliance with rules, regulations, etc.; contents of national and regional equal employment opportunity plans; authority of Librarian of Congress
 
-Except as otherwise provided in this subsection, the Equal Employment Opportunity Commission shall have authority to enforce the provisions of subsection (a) of this section through appropriate remedies, including reinstatement or hiring of employees with or without back pay, as will effectuate the policies of this section, and shall issue such rules, regulations, orders and instructions as it deems necessary and appropriate to carry out its responsibilities under this section. The Equal Employment Opportunity Commission shall—
+Except as otherwise provided in this subsection, the Equal Employment Opportunity Commission shall have authority to enforce the provisions of subsection (a) of this section through appropriate remedies, including reinstatement or hiring of employees with or without back pay, as will effectuate the policies ofthis section, and shall issue such rules, regulations, orders and instructions as it deems necessary and appropriate to carry out its responsibilities under this section. The Equal Employment Opportunity Commission shall—
 
 &emsp;(1) be responsible for the annual review and approval of a national and regional equal employment opportunity plan which each department and agency and each appropriate unit referred to in subsection (a) of this section shall submit in order to maintain an affirmative program of equal employment opportunity for all such employees and applicants for employment;
 
@@ -34,15 +34,21 @@ The provisions of section 2000e–5(f) through (k) of this title, as applicable,
 
 Nothing contained in this Act shall relieve any Government agency or official of its or his primary responsibility to assure nondiscrimination in employment as required by the Constitution and statutes or of its or his responsibilities under Executive Order 11478 relating to equal employment opportunity in the Federal Government.
 
-(Pub. L. 88–352, title VII, §717, as added Pub. L. 92–261, §11, Mar. 24, 1972, 86 Stat. 111; amended 1978 Reorg. Plan No. 1, §3, eff. Jan. 1, 1979, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 96–191, §8(g), Feb. 15, 1980, 94 Stat. 34; Pub. L. 102–166, title I, §114, Nov. 21, 1991, 105 Stat. 1079; Pub. L. 104–1, title II, §201(c)(1), Jan. 23, 1995, 109 Stat. 8; Pub. L. 105–220, title III, §341(a), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
+#### (f) Section 2000e–5(e)(3) of this title applicable to compensation discrimination
+
+Section 2000e–5(e)(3) of this title shall apply to complaints of discrimination in compensation under this section.
+
+(Pub. L. 88–352, title VII, §717, as added Pub. L. 92–261, §11, Mar. 24, 1972, 86 Stat. 111; amended 1978 Reorg. Plan No. 1, §3, eff. Jan. 1, 1979, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 96–191, §8(g), Feb. 15, 1980, 94 Stat. 34; Pub. L. 102–166, title I, §114, Nov. 21, 1991, 105 Stat. 1079; Pub. L. 104–1, title II, §201(c)(1), Jan. 23, 1995, 109 Stat. 8; Pub. L. 105–220, title III, §341(a), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–2, §5(c)(2), Jan. 29, 2009, 123 Stat. 7.)
 
 #### References in Text
 
-This Act, referred to in subsec. (e), means Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§2000a et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+This Act, referred to in subsec. (e), means Pub. L. 88–352, July 2, 1964, 78 Stat. 241, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§2000a et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 Executive Order 11478, as amended, referred to in subsecs. (c) and (e), is set out as a note under section 2000e of this title.
 
 #### Amendments
+
+2009—Subsec. (f). Pub. L. 111–2 added subsec. (f).
 
 2006—Subsec. (a). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
@@ -57,6 +63,10 @@ Executive Order 11478, as amended, referred to in subsecs. (c) and (e), is set o
 Subsec. (d). Pub. L. 102–166, §114(2), inserted before the period “, and the same interest to compensate for delay in payment shall be available as in cases involving nonpublic parties.”
 
 1980—Subsec. (a). Pub. L. 96–191 struck out “(other than the General Accounting Office)” after “in executive agencies”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–2 effective as if enacted May 28, 2007, and applicable to certain claims of discrimination in compensation pending on or after that date, see section 6 of Pub. L. 111–2, set out as a note under section 2000e–5 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -120,7 +130,7 @@ Sec. 2. <i>Requirements Applicable to Employing Departments and Agencies.</i>
 
 &emsp;(a) The employing department or agency shall not discharge, fail or refuse to hire, or otherwise discriminate against any employee with respect to the compensation, terms, conditions, or privileges of employment of that employee, because of protected genetic information with respect to the employee, or because of information about a request for or the receipt of genetic services by such employee.
 
-&emsp;(b) The employing department or agency shall not limit, segregate, or classify employees in any way that would deprive or tend to deprive any employee of employment opportunities or otherwise adversely affect that employee's status, because of protected genetic information with respect to the employee or because of information about a request for or the receipt of genetic services by such employee.
+&emsp;(b) The employing department or agency shall not limit, segregate, or classify employees in any way that would deprive or tend to deprive any employeeof employment opportunities or otherwise adversely affect that employee's status, because of protected genetic information with respect to the employee or because of information about a request for or the receipt of genetic services by such employee.
 
 &emsp;(c) The employing department or agency shall not request, require, collect, or purchase protected genetic information with respect to an employee, or information about a request for or the receipt of genetic services by such employee.
 

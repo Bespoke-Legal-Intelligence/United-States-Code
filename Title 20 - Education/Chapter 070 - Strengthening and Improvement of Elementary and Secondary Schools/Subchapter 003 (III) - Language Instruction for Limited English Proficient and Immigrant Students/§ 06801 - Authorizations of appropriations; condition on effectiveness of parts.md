@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to subsection (b) of this section, there are authorized to be appropriated to carry out this subchapter, except for subpart 4 of part B, $750,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years.
+&emsp;Subject to subsection (b) of this section, there are authorized to be appropriated tocarry out this subchapter, except for subpart 4 of part B, $750,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years.
 
 #### (2) Emergency immigrant education program
 

@@ -22,11 +22,15 @@
 
 Section 101, referred to in subsec. (a), is section 101 of title I of div. B of Pub. L. 109–289, as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 8. Subsec. (b) of section 101 is classified as a note under section 12651i of this title. Subsecs. (a) and (c) of section 101 are not classified to the Code.
 
-The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat.1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 The Energy Policy Act of 2005, referred to in text, is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594. Title XVII of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 15801 of this title and Tables.
 
 #### Codification
 
 Section was enacted as part of the Continuing Appropriations Resolution, 2007, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

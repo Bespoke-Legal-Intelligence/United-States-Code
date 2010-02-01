@@ -22,7 +22,7 @@
 
 &emsp;(3) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-(c) This section shall not apply to any bingo game, lottery, or similar game of chance conducted by an organization exempt from tax under paragraph (3) of subsection (c) of section 501 of the Internal Revenue Code of 1986, asamended, if no part of the gross receipts derived from such activity inures to the benefit of any private shareholder, member, or employee of such organization, except as compensation for actual expenses incurred by him in the conduct of such activity.
+(c) This section shall not apply to any bingo game, lottery, or similar game of chance conducted by an organization exempt from tax under paragraph (3) of subsection (c) of section 501 of the Internal Revenue Code of 1986, as amended, if no part of the gross receipts derived from such activity inures to the benefit of any private shareholder, member, or employee of such organization, except as compensation for actual expenses incurred by him in the conduct of such activity.
 
 (d) Whoever violates this section shall be punished by a fine under this title or imprisonment for not more than five years, or both.
 

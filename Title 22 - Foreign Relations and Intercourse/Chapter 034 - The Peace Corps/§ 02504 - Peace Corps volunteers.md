@@ -30,7 +30,7 @@ Volunteers shall receive such health care during their service, applicants for e
 
 #### (g) Assignment to other entities
 
-The President may detail or assign volunteers or otherwise make them available to any entity referred to in paragraph (1) of section 2509(a) of this title on such terms and conditions as he may determine: <i>Provided</i>, That not to exceedtwo hundred volunteers may be assigned to carry out secretarial or clerical duties on the staffs of the Peace Corps representatives abroad: <i>Provided, however</i>, That any volunteer so detailed or assigned shall continue to be entitled to the allowances, benefits and privileges of volunteers authorized under or pursuant to this chapter.
+The President may detail or assign volunteers or otherwise make them available to any entity referred to in paragraph (1) of section 2509(a) of this title on such terms and conditions as he may determine: <i>Provided</i>, That not to exceed two hundred volunteers may be assigned to carry out secretarial or clerical duties on the staffs of the Peace Corps representatives abroad: <i>Provided, however</i>, That any volunteer so detailed or assigned shall continue to be entitled to the allowances, benefits and privileges of volunteers authorized under or pursuant to this chapter.
 
 #### (h) Tort claims; absentee voting; general average contributions for transportation of baggage; check cashing and currency exchange; claims for overpayment of pay; passport fees
 
@@ -114,7 +114,7 @@ Subsec. (h). Pub. L. 95–331, §4(2), inserted provisions relating to applicabi
 
 Subsec. (c). Pub. L. 94–130, §6, substituted $125 for $75 in initial clause of first sentence.
 
-1970—Subsec. (c). Pub. L. 91–352, §3(a), inserted exception that in case of volunteers having one or more children at time of entering a period of pre-enrollment training, one parent would be entitled to receive a readjustment allowance not exceeding $125 for each month of satisfactory service as determined by the President, and substituted “section 5582(b) of title 5” for “section 61f of title 5”.
+1970—Subsec. (c). Pub. L. 91–352, §3(a), inserted exception that in case of volunteers having one or more children at time of entering a period of pre-enrollment training, one parent would be entitled to receive a readjustment allowance not exceeding $125 for each month of satisfactory service as determined by thePresident, and substituted “section 5582(b) of title 5” for “section 61f of title 5”.
 
 Subsecs. (m), (n). Pub. L. 91–352, §3(b), added subsecs. (m) and (n).
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Delegation of Functions
 
-Functions of President under this section, except those under subsec. (f)(1)(B), delegated to Director of Peace Corps, with function of prescribing conditions insubsec. (e) to be exercised in consultation with head of agency responsible for facility, by sections 1–103, 1–106, and 1–301(c) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
+Functions of President under this section, except those under subsec. (f)(1)(B), delegated to Director of Peace Corps, with function of prescribing conditions in subsec. (e) to be exercised in consultation with head of agency responsible for facility, by sections 1–103, 1–106, and 1–301(c) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
 #### Evaluation of Health-Care Services Provided to Peace Corps Volunteers
 

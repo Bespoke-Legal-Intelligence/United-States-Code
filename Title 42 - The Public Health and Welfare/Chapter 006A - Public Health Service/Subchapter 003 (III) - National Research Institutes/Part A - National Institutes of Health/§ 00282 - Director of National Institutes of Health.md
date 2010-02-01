@@ -58,7 +58,7 @@ In carrying out the purposes of section 241 of this title, the Secretary, acting
 
 &emsp;(12) may, from funds appropriated under section 282a(b) of this title, reserve funds to provide for research on matters that have not received significant funding relative to other matters, to respond to new issues and scientific emergencies, and to act on research opportunities of high priority;
 
-&emsp;(13) may, subject to appropriations Acts, collect and retain registration fees obtained from third parties to defray expenses for scientific, educational, and research-related conferences;
+&emsp;(13) may, subject to appropriations Acts, collect and retain registration fees obtained fromthird parties to defray expenses for scientific, educational, and research-related conferences;
 
 &emsp;(14) for the national research institutes and administrative entities within the National Institutes of Health—
 
@@ -82,7 +82,7 @@ In carrying out the purposes of section 241 of this title, the Secretary, acting
 
 &emsp;(22) may appoint physicians, dentists, and other health care professionals, subject to the provisions of title 5 relating to appointments and classifications in the competitive service, and may compensate such professionals subject to the provisions of chapter 74 of title 38; and
 
-&emsp;(23) shall designate a contact point or office to help innovators and physicians identifysources of funding available for pediatric medical device development.
+&emsp;(23) shall designate a contact point or office to help innovators and physicians identify sources of funding available for pediatric medical device development.
 
 > The Federal Advisory Committee Act shall not apply to the duration of a peer review group appointed under paragraph (16). The members of such a group shall be individuals who by virtue of their training or experience are eminently qualified to perform the review functions of such group. Not more than one-fourth of the members of any such group shall be officers or employees of the United States.
 
@@ -240,7 +240,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (i) Expansion of data bank
 
-&emsp;&emsp;&emsp;To enhance patient enrollment and provide a mechanism to track subsequent progress of clinical trials, the Secretary, acting through the Director of NIH, shall expand, in accordance with this subsection, the clinical trials registry of the data bank described under subsection (i)(1) (referred to in this subsection as the “registry data bank”). The Director of NIH shall ensure that the registry data bank is made publicly available through the Internet.
+&emsp;&emsp;&emsp;To enhance patient enrollment and provide a mechanism to track subsequentprogress of clinical trials, the Secretary, acting through the Director of NIH, shall expand, in accordance with this subsection, the clinical trials registry of the data bank described under subsection (i)(1) (referred to in this subsection as the “registry data bank”). The Director of NIH shall ensure that the registry data bank is made publicly available through the Internet.
 
 #### (ii) Content
 
@@ -294,7 +294,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the responsible party, by official title; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the facility name and facility contact information (including thecity, State, and zip code for each clinical trial location, or a toll-free number through which such location information may be accessed); and
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the facility name and facility contact information (including the city, State, and zip code for each clinical trial location, or a toll-free number through which such location information may be accessed); and
 
 &emsp;&emsp;&emsp;&emsp;(IV) administrative data (which the Secretary may make publicly available as necessary), including—
 
@@ -344,7 +344,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (C) Data submission
 
-&emsp;&emsp;The responsible party for an applicable clinical trial, including an applicable drug clinical trial for a serious or life-threatening disease or condition, that is initiated after, or is ongoing on the date that is 90 days after, September 27, 2007, shall submit to the Director of NIH for inclusion in the registry data bank the clinical trial information described in of <sup>1</sup> subparagraph (A)(ii) not later than the later of—
+&emsp;&emsp;The responsible party for an applicable clinical trial, including an applicable drug clinical trial for a serious or life-threatening disease or condition, that is initiated after, or is ongoing on the date that is 90 days after, September 27, 2007, shall submit to theDirector of NIH for inclusion in the registry data bank the clinical trial information described in of <sup>1</sup> subparagraph (A)(ii) not later than the later of—
 
 &emsp;&emsp;&emsp;(i) 90 days after September 27, 2007;
 
@@ -482,7 +482,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 &emsp;&emsp;&emsp;&emsp;(II) whether the clinical trial information described in clause (iii) should be required to be submitted for an applicable clinical trial for which the clinical trial information described in subparagraph (C) is submitted to the registry and results data bank before the effective date of the regulations issued under this subparagraph; and
 
-&emsp;&emsp;&emsp;&emsp;(III) in the case when the clinical trial information described in clause (iii) is required to be submitted for the applicable clinical trials described in clause (ii)(II), the date by which such clinical trial information shall be required to be submitted, taking into account—
+&emsp;&emsp;&emsp;&emsp;(III) in the case when the clinical trial information described in clause (iii) is required to be submitted for the applicable clinical trials described in clause\(ii)(II), the date by which such clinical trial information shall be required to be submitted, taking into account—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the certification process under subparagraph (E)(iii) when approval, licensure, or clearance is sought; and
 
@@ -544,7 +544,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;With respect to an applicable clinical trial where the manufacturer of the drug or device is the sponsor of an applicable clinical trial, and such manufacturer has filed, or will file within 1 year, an application seeking approval under section 355 of title 21, licensing under section 262 of this title, or clearance under section 360(k), or approval under section 360e or 360j(m) of title 21 for the use studied in such clinical trial (which use is not included in the labeling of the approved drug or device), then the responsible party shall submit to the Director of NIH for inclusion in the registry and results data bank the clinical trial information described in subparagraphs (C) and (D) on the earlier of the date that is 30 days after the date—
+&emsp;&emsp;&emsp;&emsp;With respect to an applicable clinical trial where the manufacturer of the drug or device is the sponsor of an applicable clinical trial, and such manufacturer has filed, or will file within 1 year, an application seeking approval under section 355 of title 21, licensing under section 262 of this title, or clearance under section 360(k), or approval under section 360e or 360j(m) of title 21 for the use studied in such clinical trial (which use is not included in the labeling of the approved drug or device), then the responsible party shall submit to the Director of NIH for inclusion in the registry and results data bank the clinical trial information described in subparagraphs (C)and (D) on the earlier of the date that is 30 days after the date—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the new use of the drug or device is approved under such section 355, licensed under such section 262, cleared under such section 360(k), or approved under such section 360e or 360j(m);
 
@@ -566,7 +566,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (F) Notice to Director of NIH
 
-&emsp;&emsp;The Commissioner of Food and Drugs shall notify the Director of NIH when there is anaction described in subparagraph (E)(iv) or item (aa), (bb), or (cc) of subparagraph (E)(v)(I) with respect to an application or a report that includes a certification required under paragraph (5)(B) of such action not later than 30 days after such action.
+&emsp;&emsp;The Commissioner of Food and Drugs shall notify the Director of NIH when there is an action described in subparagraph (E)(iv) or item (aa), (bb), or (cc) of subparagraph (E)(v)(I) with respect to an application or a report that includes a certification required under paragraph (5)(B) of such action not later than 30 days after such action.
 
 #### (G) Posting of data
 
@@ -628,7 +628,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 &emsp;&emsp;&emsp;A clinical trial described in this clause is—
 
-&emsp;&emsp;&emsp;&emsp;(I) an applicable clinical trial for a drug that is approved under section 355 of title 21 or licensed under section 262 of this title or for a device that is clearedunder section 360(k) of title 21 or approved under section 360e or section 360j(m) of title 21, whose completion date is on or after the date 10 years before September 27, 2007; or
+&emsp;&emsp;&emsp;&emsp;(I) an applicable clinical trial for a drug that is approved under section 355 of title 21 or licensed under section 262 of this title or for a device that is cleared under section 360(k) of title 21 or approved under section 360e or section 360j(m) of title 21, whose completion date is on or after the date 10 years before September 27, 2007; or
 
 &emsp;&emsp;&emsp;&emsp;(II) an applicable clinical trial that is described by both by <sup>3</sup> paragraph (2)(C) and paragraph (3)(D)(ii)(II)).<sup>4</sup>
 
@@ -682,7 +682,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (i) Pilot quality control project
 
-&emsp;&emsp;&emsp;Until the effective date of the regulations issued under paragraph (3)(D), the Secretary, acting through the Director of NIH and the Commissioner of Food and Drugs, shall conduct a pilot project to determine the optimal method of verification to help to ensure that the clinical trial information submitted under paragraph (3)(C) is non-promotional and is not false or misleading in any particular under subparagraph (D). The Secretary shall usethe publicly available information described in paragraph (3)(A) and any other information available to the Secretary about applicable clinical trials to verify the accuracy of the clinical trial information submitted under paragraph (3)(C).
+&emsp;&emsp;&emsp;Until the effective date of the regulations issued under paragraph (3)(D), the Secretary, acting through the Director of NIH and the Commissioner of Food and Drugs, shall conduct a pilot project to determine the optimal method of verification to help to ensure that the clinical trial information submitted under paragraph (3)(C) is non-promotional and is not false or misleading in any particular under subparagraph (D). The Secretary shall use the publicly available information described in paragraph (3)(A) and any other information available to the Secretary about applicable clinical trials to verify the accuracy of the clinical trial information submitted under paragraph (3)(C).
 
 #### (ii) Notice of compliance
 
@@ -758,7 +758,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (k) Day care for children of employees
 
-(1) The Director of NIH may establish a program to provide day care services for the employees of the National Institutes of Healthsimilar to those services provided by other Federal agencies (including the availability of day care service on a 24-hour-a-day basis).
+(1) The Director of NIH may establish a program to provide day care services for the employees of the National Institutes of Health similar to those services provided by other Federal agencies (including the availability of day care service on a 24-hour-a-day basis).
 
 (2) Any day care provider at the National Institutes of Health shall establish a sliding scale of fees that takes into consideration the income and needs of the employee.
 
@@ -840,7 +840,7 @@ In subsec. (b)(14)(B), “section 8141 of title 40” substituted for “the Act
 
 #### Amendments
 
-2008—Subsec. (j)(3)(C). Pub. L. 110–316, §302(1), in introductory provisions, substituted “for each applicable clinical trial for a drug that is approved under section 355 of title 21 or licensed under section 262 of this titleor a device that is cleared under section 360(k) of title 21 or approved under section 360e or 360j(m) of title 21, the following elements:” for “the following elements for drugs that are approved under section 355 of title 21 or licensed under section 262 of this title and devices that are cleared under section 360(k) of title 21 or approved under section 360e or 360j(m) of title 21:”.
+2008—Subsec. (j)(3)(C). Pub. L. 110–316, §302(1), in introductory provisions, substituted “for each applicable clinical trial for a drug that is approved under section 355 of title 21 or licensed under section 262 of this title or a device that is cleared under section 360(k) of title 21 or approved under section 360e or 360j(m) of title 21, the following elements:” for “the following elements for drugs that are approved under section 355 of title 21 or licensed under section 262 of this title and devices that are cleared under section 360(k) of title 21 or approved under section 360e or 360j(m) of title 21:”.
 
 Subsec. (j)(3)(I)(i), (iii). Pub. L. 110–316, §302(2), substituted “applicable clinical trials described in subparagraph (C)” for “drugs described in subparagraph (C)”.
 
@@ -930,7 +930,7 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
 #### Rule of Construction Regarding Continuation of Programs
 
-Pub. L. 109–482, title I, §103(c), Jan. 15, 2007, 120 Stat. 3689, provided that: “The amendment of a program by a provision of subsection (b) \[amending this section and sections 283a, 283d, 283g to 283i, 284e to 284j, 284<i>l</i>, 284m, 285a–9, 285a–10, 285b–7a, 285b–7b, 285c–9, 285d–6a, 285d–8, 285e–10, 285e–10a, 285f–2, 285f–3, 285g–5, 285g–9, 285g–10, 285n, 285<i>o</i>, 285<i>o</i>–2, 285<i>o</i>–4, 285p, 285r, 286a–1, 287a–2, 287a–3,287a–4, 287c–11, 287c–31 to 287c–33, 288, 288–1, and 288–5a of this title and repealing sections 285a–8, 285b–8, 285e–11, and 286a–2 of this title\] may not be construed as terminating the authority of the Federal agency involved to carry out the program.”
+Pub. L. 109–482, title I, §103(c), Jan. 15, 2007, 120 Stat. 3689, provided that: “The amendment of a program by a provision of subsection (b) \[amending this section and sections 283a, 283d, 283g to 283i, 284e to 284j, 284<i>l</i>, 284m, 285a–9, 285a–10, 285b–7a, 285b–7b, 285c–9, 285d–6a, 285d–8, 285e–10, 285e–10a, 285f–2, 285f–3, 285g–5, 285g–9, 285g–10, 285n, 285<i>o</i>, 285<i>o</i>–2, 285<i>o</i>–4, 285p, 285r, 286a–1, 287a–2, 287a–3, 287a–4, 287c–11, 287c–31 to 287c–33, 288, 288–1, and 288–5a of this title and repealing sections 285a–8, 285b–8, 285e–11, and 286a–2 of this title\] may not be construed as terminating the authority of the Federal agency involved to carry out the program.”
 
 #### Demonstration Grants for Improving Pediatric Device Availability
 
@@ -1016,7 +1016,7 @@ Section 902(c) of Pub. L. 103–43 provided that: “The Secretary of Health and
 
 #### Third-Party Payments Regarding Certain Clinical Trials and Certain Life-Threatening Illnesses
 
-Section 1901(a) of Pub. L. 103–43 provided that: “The Secretary of Health and Human Services, actingthrough the Director of the National Institutes of Health, shall conduct a study for the purpose of—
+Section 1901(a) of Pub. L. 103–43 provided that: “The Secretary of Health and Human Services, acting through the Director of the National Institutes of Health, shall conduct a study for the purpose of—
 
 &emsp;“(1) determining the policies of third-party payors regarding the payment of the costs of appropriate health services that are provided incident to the participation of individuals as subjects in clinical trials conducted in the development of drugs with respect to acquired immune deficiency syndrome, cancer, and other life-threatening illnesses; and
 

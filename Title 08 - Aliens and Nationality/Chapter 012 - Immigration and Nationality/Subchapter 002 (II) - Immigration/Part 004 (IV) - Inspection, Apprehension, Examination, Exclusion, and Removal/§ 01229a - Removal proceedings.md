@@ -56,7 +56,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Any alien who, after written notice required under paragraph (1) or (2) of section 1229(a) of this title has been provided to the alien or the alien's counsel of record, does not attend a proceeding under this section, shall be ordered removed in absentia if the Service establishes by clear, unequivocal, and convincing evidence that the written notice was so provided and that the alien is removable (as defined in subsection (e)(2) of this section). The written notice by the Attorney General shall be considered sufficient for purposes of this subparagraph if provided at the most recent address provided under section 1229(a)(1)(F) of this title.
+&emsp;&emsp;Any alien who, after written notice required under paragraph (1) or (2) of section 1229(a) of this title has been provided to the alien or the alien's counsel of record, does not attend a proceeding under this section,shall be ordered removed in absentia if the Service establishes by clear, unequivocal, and convincing evidence that the written notice was so provided and that the alien is removable (as defined in subsection (e)(2) of this section). The written notice by the Attorney General shall be considered sufficient for purposes of this subparagraph if provided at the most recent address provided under section 1229(a)(1)(F) of this title.
 
 #### (B) No notice if failure to provide address information
 
@@ -74,7 +74,7 @@
 
 #### (D) Effect on judicial review
 
-&emsp;&emsp;Any petition for review under section 1252 of this title of an order entered in absentiaunder this paragraph shall (except in cases described in section 1252(b)(5) of this title) be confined to (i) the validity of the notice provided to the alien, (ii) the reasons for the alien's not attending the proceeding, and (iii) whether or not the alien is removable.
+&emsp;&emsp;Any petition for review under section 1252 of this title of an order entered in absentia under this paragraph shall (except in cases described in section 1252(b)(5) of this title) be confined to (i) the validity of the notice provided to the alien, (ii) the reasons for the alien's not attending the proceeding, and (iii) whether or not the alien is removable.
 
 #### (E) Additional application to certain aliens in contiguous territory
 
@@ -122,7 +122,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the proceeding the Service has the burden of establishing by clear and convincing evidence that, in the case of an alien who has been admitted to the United States, the alien is deportable. No decision on deportability shall be valid unless it is based upon reasonable, substantial, and probative evidence.
+&emsp;&emsp;In the proceeding the Service has the burden of establishing by clear and convincing evidence that, in the case of an alien who has been admitted to the United States, the alien is deportable. No decision on deportability shall be valid unless it is based uponreasonable, substantial, and probative evidence.
 
 #### (B) Proof of convictions
 
@@ -210,7 +210,7 @@
 
 #### (iii) Failure to appear
 
-&emsp;&emsp;&emsp;The filing of a motion to reopen an order entered pursuant to subsection (b)(5) ofthis section is subject to the deadline specified in subparagraph (C) of such subsection.
+&emsp;&emsp;&emsp;The filing of a motion to reopen an order entered pursuant to subsection (b)(5) of this section is subject to the deadline specified in subparagraph (C) of such subsection.
 
 #### (iv) Special rule for battered spouses, children, and parents
 
@@ -260,7 +260,7 @@ A prior section 240 of act June 27, 1952, was renumbered section 240C, and is cl
 
 2006—Subsec. (c)(7)(A). Pub. L. 109–162, §825(a)(1), inserted before period at end “, except that this limitation shall not apply so as to prevent the filing of one motion to reopen described in subparagraph (C)(iv)”.
 
-Subsec. (c)(7)(C)(iv). Pub. L. 109–162, §825(a)(2)(A), (B), substituted “spouses, children, and parents” for “spouses and children” in heading and “Any limitation under this section on the deadlines for filing such motions shall not apply” for “The deadline specified in subsection (b)(5)(C) of this section for filing a motion to reopen does not apply” in introductory provisions.
+Subsec. (c)(7)(C)(iv). Pub. L. 109–162, §825(a)(2)(A), (B), substituted “spouses, children, and parents” for“spouses and children” in heading and “Any limitation under this section on the deadlines for filing such motions shall not apply” for “The deadline specified in subsection (b)(5)(C) of this section for filing a motion to reopen does not apply” in introductory provisions.
 
 Subsec. (c)(7)(C)(iv)(I). Pub. L. 109–162, §825(a)(2)(C), which directed substitution of “, section 1229b(b) of this title, or section 1254(a)(3) of this title (as in effect on March 31, 1997)” for “or section 1229b(b) of this title”, was executed by making the substitution for “or section 1229b(b)(2) of this title”, to reflect the probable intent of Congress.
 
@@ -286,7 +286,7 @@ Pub. L. 106–386, div. B, title V, §1506(c)(1)(B), Oct. 28, 2000, 114 Stat. 15
 
 #### Effective Date
 
-Section effective, with certain transitional provisions, on the first day of the first month beginningmore than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 Subsec. (c)(3)(B), (C) of this section applicable to proving convictions entered before, on, or after Sept. 30, 1996, see section 322(c) of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 

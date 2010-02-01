@@ -94,7 +94,7 @@ The Secretary shall disapprove an application submitted under subsection (a) of 
 
 #### (1) In general
 
-&emsp;In the case of a proposed disposition of a public housing project or portion of a project, the public housing agency shall, in appropriate circumstances, as determined by theSecretary, initially offer the property to any eligible resident organization, eligible resident management corporation, or nonprofit organization acting on behalf of the residents, if that entity has expressed an interest, in writing, to the public housing agency in a timely manner, in purchasing the property for continued use as low-income housing.
+&emsp;In the case of a proposed disposition of a public housing project or portion of a project, the public housing agency shall, in appropriate circumstances, as determined by the Secretary, initially offer the property to any eligible resident organization, eligible resident management corporation, or nonprofit organization acting on behalf of the residents, if that entity has expressed an interest, in writing, to the public housing agency in a timely manner, in purchasing the property for continued use as low-income housing.
 
 #### (2) Timing
 
@@ -116,7 +116,7 @@ Nothing in this section may be construed to prevent a public housing agency from
 
 #### (f) De minimis exception to demolition requirements
 
-Notwithstanding any other provision of this section, in any 5-year period a public housing agency may demolish not more than the lesser of 5 dwelling units or 5 percent of the total dwelling units owned by the public housing agency, but only if the space occupied by the demolished unit is used for meeting the service or other needs of public housing residents or the demolished unit was beyond repair.
+Notwithstanding any other provision of this section, in any 5-year period a public housingagency may demolish not more than the lesser of 5 dwelling units or 5 percent of the total dwelling units owned by the public housing agency, but only if the space occupied by the demolished unit is used for meeting the service or other needs of public housing residents or the demolished unit was beyond repair.
 
 #### (g) Uniform Relocation and Real Property Acquisition Act
 

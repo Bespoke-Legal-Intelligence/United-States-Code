@@ -98,7 +98,7 @@ Authorization.—The amounts transferred and deposited in the Fund shall be avai
 
 #### Liabilities of Trustees of TAPS Fund
 
-Section 8102(a)(5)(B) of Pub. L. 101–380 provided that: “Upon the effective date of the repeal pursuant to subparagraph (A) \[see Effective Date of 1990 Amendment note above\], the trustees of the TAPS Fund shall be relieved of all responsibilities under section 204(c) of the Trans-Alaska Pipeline Authorization Act \[43 U.S.C. 1653(c)\], but not any existing legal liability.”
+Section 8102(a)(5)(B) of Pub. L. 101–380 provided that: “Upon the effective date of the repeal pursuant to subparagraph (A) \[see Effective Date of 1990 Amendment note above\], the trustees of the TAPS Fund shall be relieved of all responsibilities under section 204(c) of theTrans-Alaska Pipeline Authorization Act \[43 U.S.C. 1653(c)\], but not any existing legal liability.”
 
 #### Preservation of Rights and Remedies of Contributors to TAPS Fund
 

@@ -16,7 +16,7 @@ Preservation programs assisted under this section shall—
 
 &emsp;(1) be used to provide loans or grants to owners of single family housing in order to cover the cost of repairs and improvements;
 
-&emsp;(2) be used to provide loans or grants, not to exceed $15,000 per unit, to owners of single family housing to replace existing housing if repair or rehabilitation of the housing is determined by the Secretary not to be practicable and the owner of the housing is unable to afford a loan under section 1472 of this title for replacement housing;
+&emsp;(2) be used to provide loans or grants, not to exceed $15,000 per unit, to owners of singlefamily housing to replace existing housing if repair or rehabilitation of the housing is determined by the Secretary not to be practicable and the owner of the housing is unable to afford a loan under section 1472 of this title for replacement housing;
 
 &emsp;(3) be used to provide interest reduction payment;
 

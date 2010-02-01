@@ -32,5 +32,5 @@ Limitation on Authority.—Direct loans and loan guarantees may be made under th
 
 2004—Pub. L. 108–293, §207(b)(2)–(5), added subsec. (a), redesignated former subsecs. (a) and (b) as (b) and (c), respectively, substituted “subsection (c)” for “subsection (b)” in subsec. (b), and, in subsec. (c), struck out “Guarantee” before “Authority” in heading and substituted “Direct loans and loan guarantees” for “Loan guarantees” in text.
 
-Pub. L. 108—293, §207(b)(1), added section catchline and struck out former section catchline which read as follows: “Loan guarantees”.
+Pub. L. 108–293, §207(b)(1), added section catchline and struck out former section catchline which read as follows: “Loan guarantees”.
 

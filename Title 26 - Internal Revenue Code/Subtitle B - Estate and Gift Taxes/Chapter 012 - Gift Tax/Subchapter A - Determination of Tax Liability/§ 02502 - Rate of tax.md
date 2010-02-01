@@ -2,11 +2,30 @@
 
 #### (a) Computation of tax
 
-The tax imposed by section 2501 for each calendar year shall be an amount equal to the excess of—
+#### (1) In general
 
-&emsp;(1) a tentative tax, computed under section 2001(c), on the aggregate sum of the taxable gifts for such calendar year and for each of the preceding calendar periods, over
+&emsp;The tax imposed by section 2501 for each calendar year shall be an amount equal to the excess of—
 
-&emsp;(2) a tentative tax, computed under such section, on the aggregate sum of the taxable gifts for each of the preceding calendar periods.
+&emsp;&emsp;(A) a tentative tax, computed under paragraph (2), on the aggregate sum of the taxable gifts for such calendar year and for each of the preceding calendar periods, over
+
+&emsp;&emsp;(B) a tentative tax, computed under paragraph (2), on the aggregate sum of the taxable gifts for each of the preceding calendar periods.
+
+#### (2) Rate schedule
+
+&nbsp;
+
+| If the amount with respect to which the tentative tax to be computed is: | The tentative tax is: |
+| :--- | ---: |
+| Not over $10,000 | 18% of such amount. |
+| Over $10,000 but not over $20,000 | $1,800, plus 20% of the excess over $10,000. |
+| Over $20,000 but not over $40,000 | $3,800, plus 22% of the excess over $20,000. |
+| Over $40,000 but not over $60,000 | $8,200, plus 24% of the excess over $40,000. |
+| Over $60,000 but not over $80,000 | $13,000, plus 26% of the excess over $60,000. |
+| Over $80,000 but not over $100,000 | $18,200, plus 28% of the excess over $80,000. |
+| Over $100,000 but not over $150,000 | $23,800, plus 30% of the excess over $100,000. |
+| Over $150,000 but not over $250,000 | $38,800, plus 32% of the excess over $150,000. |
+| Over $250,000 but not over $500,000 | $70,800, plus 34% of the excess over $250,000. |
+| Over $500,000 | $155,800, plus 35% of the excess over $500,000. |
 
 #### (b) Preceding calendar period
 
@@ -26,40 +45,19 @@ The tax imposed by section 2501 shall be paid by the donor.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 403; Pub. L. 91–614, title I, §102(a)(2), Dec. 31, 1970, 84 Stat. 1839; Pub. L. 94–455, title XX, §2001(b)(1), Oct. 4, 1976, 90 Stat. 1849; Pub. L. 97–34, title IV, §442(a)(2), Aug. 13, 1981, 95 Stat. 320; Pub. L. 100–203, title X, §10401(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–431; Pub. L. 107–16, title V, §511(d), June 7, 2001, 115 Stat. 70.)
 
-#### Amendment of Subsection (a)
+#### Amendment of Section
 
-<i>Pub. L. 107–16, title V, §511(d), (f)(3), title IX, §901, June 7, 2001, 115 Stat. 70, 71, 150, provided</i><i>that, applicable to gifts made after Dec. 31, 2009, subsection (a) of this section is temporarily amended to read as follows:</i>
-
-#### <i>(a) Computation of tax</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>The tax imposed by section 2501 for each calendar year shall be an amount equal to the excess of—</i>
-
-&emsp;&emsp;<i>(A) a tentative tax, computed under paragraph (2), on the aggregate sum of the taxable gifts for such calendar year and for each of the preceding calendar periods, over</i>
-
-&emsp;&emsp;<i>(B) a tentative tax, computed under paragraph (2), on the aggregate sum of the taxable gifts for each of the preceding calendar periods.</i>
-
-#### <i>(2) Rate schedule</i>
-
-&nbsp;
-
-| If the amount with  respect to which the  tentative tax to be  computed is: | The tentative tax is: |
-| :--- | ---: |
-| Not over $10,000 | 18% of such amount. |
-| Over $10,000 but not over $20,000 | $1,800, plus 20% of the excess over $10,000. |
-| Over $20,000 but not over $40,000 | $3,800, plus 22% of the excess over $20,000. |
-| Over $40,000 but not over $60,000 | $8,200, plus 24% of the excess over $40,000. |
-| Over $60,000 but not over $80,000 | $13,000, plus 26% of the excess over $60,000. |
-| Over $80,000 but not over $100,000 | $18,200, plus 28% of the excess over $80,000. |
-| Over $100,000 but not over $150,000 | $23,800, plus 30% of the excess over $100,000. |
-| Over $150,000 but not over $250,000 | $38,800, plus 32% of the excess over $150,000. |
-| Over $250,000 but not over $500,000 | $70,800, plus 34% of the excess over $250,000. |
-| Over $500,000 | $155,800, plus 35% of the excess over $500,000. |
-
-<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–16, §§511(d), 901, temporarily amended subsec. (a) generally. Prior to amendment, text read as follows: “The tax imposed by section 2501 for each calendar year shall be an amount equal to the excess of—
+
+&emsp;“(1) a tentative tax, computed under section 2001(c), on the aggregate sum of the taxable gifts for such calendar year and for each of the preceding calendar periods, over
+
+&emsp;“(2) a tentative tax, computed under such section, on the aggregate sum of the taxable gifts for each of the preceding calendar periods.”
+
+> See Effective and Termination Dates of 2001 Amendment note below.
 
 1987—Subsec. (a)(1). Pub. L. 100–203, §10401(b)(2)(B)(i), substituted “under section 2001(c)” for “in accordance with the rate schedule set forth in section 2001(c)”.
 

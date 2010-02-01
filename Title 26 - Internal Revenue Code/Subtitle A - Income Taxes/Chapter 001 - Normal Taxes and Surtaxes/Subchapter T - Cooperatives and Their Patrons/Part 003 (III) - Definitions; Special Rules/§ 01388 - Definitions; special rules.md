@@ -54,13 +54,13 @@ For purposes of this subchapter, the term “written notice of allocation” mea
 
 #### (B) Revocation, etc.
 
-&emsp;&emsp;&emsp;(i) Any consent described in paragraph (2)(A) may be revoked (in writing) by the distributee at any time. Any such revocation shall be effective with respect to patronage occurring on or after the first day of the first taxable year of the organization beginning after the revocation is filed with such organization; except that in the case of a pooling arrangement described in section 1382(e), a revocation made by a distributee shall not be effective as to any pool with respect to which the distributee has been a patron before such revocation.
+&emsp;&emsp;&emsp;(i) Any consent described in paragraph (2)(A) may be revoked (in writing) by the distributee at any time. Any such revocation shall be effective with respect to patronage occurring on or after the first dayof the first taxable year of the organization beginning after the revocation is filed with such organization; except that in the case of a pooling arrangement described in section 1382(e), a revocation made by a distributee shall not be effective as to any pool with respect to which the distributee has been a patron before such revocation.
 
 &emsp;&emsp;&emsp;(ii) Any consent described in paragraph (2)(B) shall not be effective with respect to any patronage occurring (determined without the application of section 1382(e)) after the distributee ceases to be a member of the organization or after the bylaws of the organization cease to contain the provision described in paragraph (2)(B)(i).
 
 #### (4) Qualified check
 
-&emsp;For purposes of this subchapter, the term “qualified check” means only a check (or other instrument which is redeemable in money) which is paid as a part of a patronage dividend, or as a part of a payment described in section 1382(c)(2)(A), to a distributee who has not given consent as provided in paragraph (2)(A) or (B) with respect to such patronage dividend or payment, and on which there is clearly imprinted a statement that the endorsement and cashing of the check (or other instrument) constitutes the consent of the payee to include in his gross income, as provided in the Federal income tax laws, the stated dollar amount of the written notice of allocation which is a part of the patronage dividend or payment of which such qualified check is also a part. Such term does not include any check (or other instrument) which is paid as part of a patronage dividend or payment whichdoes not include a written notice of allocation (other than a written notice of allocation described in paragraph (1)(A)).
+&emsp;For purposes of this subchapter, the term “qualified check” means only a check (or other instrument which is redeemable in money) which is paid as a part of a patronage dividend, or as a part of a payment described in section 1382(c)(2)(A), to a distributee who has not given consent as provided in paragraph (2)(A) or (B) with respect to such patronage dividend or payment, and on which there is clearly imprinted a statement that the endorsement and cashing of the check (or other instrument) constitutes the consent of the payee to include in his gross income, as provided in the Federal income tax laws, the stated dollar amount of the written notice of allocation which is a part of the patronage dividend or payment of which such qualified check is also a part. Such term does not include any check (or other instrument) which is paid as part of a patronage dividend or payment which does not include a written notice of allocation (other than a written notice of allocation described in paragraph (1)(A)).
 
 #### (d) Nonqualified written notice of allocation
 
@@ -118,7 +118,7 @@ For purposes of this subchapter, the term “per-unit retain certificate” mean
 
 #### (i) Nonqualified per-unit retain certificate
 
-For purposes of this subchapter, the term “nonqualified per-unit retain certificate” means a per-unit retain certificate which is not described in subsection (h).
+For purposes of this subchapter, the term “nonqualified per-unit retain certificate” meansa per-unit retain certificate which is not described in subsection (h).
 
 #### (j) Special rules for the netting of gains and losses by cooperatives
 
@@ -134,7 +134,7 @@ For purposes of this subchapter, in the case of any organization to which part I
 
 &emsp;&emsp;(A) such earnings are properly allocable to periods after the date of acquisition, and
 
-&emsp;&emsp;(B) such earnings could have been offset by such losses if such earnings and losses hadbeen derived from allocation units of the same organization.
+&emsp;&emsp;(B) such earnings could have been offset by such losses if such earnings and losses had been derived from allocation units of the same organization.
 
 #### (3) Notice requirements
 
@@ -222,7 +222,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Notification requirement.—The provisions of section 1388(j)(3) of the Internal Revenue Code of 1954\[now 1986\] (as added by subsection (a)) shall apply to taxable years beginning on or after the date of the enactment of this Act \[Apr. 7, 1986\].
+Notification requirement.—The provisions of section 1388(j)(3) of the Internal Revenue Code of 1954 \[now 1986\] (as added by subsection (a)) shall apply to taxable years beginning on or after the date of the enactment of this Act \[Apr. 7, 1986\].
 
 “(3)
 

@@ -28,7 +28,7 @@ The initial board of directors of a consolidated bank shall include the members 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The nomination and election of the second member from each district shall becarried out with each voting stockholder of the consolidated bank located in the district having one vote, plus a number of votes (or fractional part thereof) equal to the number of stockholders eligible to vote in that district multiplied by the percentage (or fractional part thereof) of the total equity interest (including allocated, but not unallocated, surplus and reserves) in the consolidated bank of all such stockholders located in that district held by the individual voting stockholder—
+&emsp;&emsp;&emsp;The nomination and election of the second member from each district shall be carried out with each voting stockholder of the consolidated bank located in the district having one vote, plus a number of votes (or fractional part thereof) equal to the number of stockholders eligible to vote in that district multiplied by the percentage (or fractional part thereof) of the total equity interest (including allocated, but not unallocated, surplus and reserves) in the consolidated bank of all such stockholders located in that district held by the individual voting stockholder—
 
 &emsp;&emsp;&emsp;&emsp;(I) at the close of the immediately preceding fiscal year of the consolidated bank; or
 

@@ -4,7 +4,7 @@
 
 The Secretary of Agriculture (hereinafter in this section referred to as the “Secretary”) shall assure the coordination of the responsibilities of the Department of Agriculture related to minor uses of pesticides, including—
 
-&emsp;(1) carrying out the Inter-Regional Project Number 4 (IR–4) as described in section 450i of this title and the national pesticide resistance monitoring program established under section 1651 <sup>1</sup> of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5882);
+&emsp;(1) carrying out the Inter-Regional Project Number 4 (IR–4) as described in section 2 of Public Law 89–106 (7 U.S.C. 450i(e)) and the national pesticide resistance monitoring program established under section 1651 <sup>1</sup> of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5882);
 
 &emsp;(2) supporting integrated pest management research;
 

@@ -20,6 +20,8 @@
 
 1958—Pub. L. 85–689, §1(b), (c), Aug. 20, 1958, 72 Stat. 683, substituted “CHAPTER 125—PENDING ACTIONS AND JUDGMENTS” for “CHAPTER 125—JUDGMENTS” in chapter heading and added item 1964.
 
+<i><sup>1</sup></i><i> Another section 1932 is set out preceding this section.</i>
+
 
 ---
 

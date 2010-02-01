@@ -34,7 +34,7 @@ For the purposes of this chapter—
 
 &emsp;(D) Preventive health services.
 
-&emsp;(E) Noninstitutional extended care services, including alternatives to institutional extended care that the Secretary may furnish directly, by contract, or through provision ofcase management by another provider or payer.
+&emsp;(E) Noninstitutional extended care services, including alternatives to institutional extended care that the Secretary may furnish directly, by contract, or through provision of case management by another provider or payer.
 
 &emsp;(F) In the case of a person otherwise receiving care or services under this chapter—
 
@@ -104,7 +104,7 @@ Par. (10)(A). Pub. L. 108–170, §106(a), substituted “November 30, 1999, and
 
 Par. (6). Pub. L. 107–135, §208(a)(1)(A), (B), substituted “services, the following:” for “services—” in introductory provisions and struck out concluding provisions which read as follows: “For the purposes of this paragraph, a dependent or survivor of a veteran receiving care under the last sentence of section 1713(b) of this title shall be eligible for the same medical services as a veteran.”
 
-Par. (6)(A). Pub. L. 107–135, §208(a)(1)(C), added subpar. (A) and struck out former subpar. (A) which read as follows: “(i) surgical services, dental services and appliances as described in sections 1710 and 1712 of this title, optometric and podiatric services, preventivehealth services, and (in the case of a person otherwise receiving care or services under this chapter) wheelchairs, artificial limbs, trusses, and similar appliances, special clothing made necessary by the wearing of prosthetic appliances, and such other supplies or services as the Secretary determines to be reasonable and necessary, except that the Secretary may not furnish sensori-neural aids other than in accordance with guidelines which the Secretary shall prescribe, and (ii) travel and incidental expenses pursuant to the provisions of section 111 of this title; and”.
+Par. (6)(A). Pub. L. 107–135, §208(a)(1)(C), added subpar. (A) and struck out former subpar. (A) which read as follows: “(i) surgical services, dental services and appliances as described in sections 1710 and 1712 of this title, optometric and podiatric services, preventive health services, and (in the case of a person otherwise receiving care or services under this chapter) wheelchairs, artificial limbs, trusses, and similar appliances, special clothing made necessary by the wearing of prosthetic appliances, and such other supplies or services as the Secretary determines to be reasonable and necessary, except that the Secretary may not furnish sensori-neural aids other than in accordance with guidelines which the Secretary shall prescribe, and (ii) travel and incidental expenses pursuant to the provisions of section 111 of this title; and”.
 
 Par. (6)(B) to (F). Pub. L. 107–135, §208(a)(1)(A), (C), added subpars. (B) to (F) and struck out former subpar. (B) which included in the definition of “medical services” certain necessary consultation, professional counseling, training, and mental health services.
 
@@ -120,7 +120,7 @@ Par. (6)(B)(i)(II). Pub. L. 104–262, §101(d)(1)(B), substituted “paragraph 
 
 1994—Par. (3). Pub. L. 103–446 made technical correction to directory language of Pub. L. 102–83, §4(a)(2)(E). See 1991 Amendment note below.
 
-1992—Par. (6)(A)(i). Pub. L. 102–585, §513(b), substituted “preventive health services,” for “preventive health-care services as defined in section 1762 of this title,”.
+1992—Par. (6)(A)(i). Pub. L. 102–585, §513(b), substituted “preventive health services,” for “preventivehealth-care services as defined in section 1762 of this title,”.
 
 Par. (9). Pub. L. 102–585, §513(a), transferred the text of section 1762 of this title to the end of this section and redesignated it as par. (9), substituted “The term ‘preventive health service’ means” for “For the purposes of this subchapter, the term ‘preventive health-care services’ means”, and redesignated pars. (1) to (11) as subpars. (A) to (K), respectively. See Codification note above.
 
@@ -184,7 +184,7 @@ Par. (6)(a)(i). Pub. L. 98–160 inserted “(in the case of a person otherwise 
 
 1981—Par. (4)(C)(v). Pub. L. 97–72 substituted “September 30, 1982” for “December 31, 1981”.
 
-1979—Par. (4). Pub. L. 96–22, §§102(c)(1), 201(a), substituted “medical services for the treatment of any disability of a veteran described in clause (1)(B) or (2) of the first sentence, or the third sentence, of section 612(f) of this title or of a veteran described in section 612(g) of this title if the Administrator has determined, based on an examination by a physician employed by the Veterans’ Administration (or, in areas where no such physician is available, by a physician carrying out such function under a contract or fee arrangement),that the medical condition of such veteran precludes appropriate treatment in facilities described in clauses (A) and (B) of this paragraph” for “medical services for the treatment of any disability of a veteran described in clause (1)(B) or (2) of section 612(f) of this title” in subcl. (ii) of cl. (C), and added subcl. (vi) of cl. (C) and the provisions following cl. (C) relating to the periodic review of the necessity for continuing contractual arrangements in the case of veterans receiving contract care.
+1979—Par. (4). Pub. L. 96–22, §§102(c)(1), 201(a), substituted “medical services for the treatment of any disability of a veteran described in clause (1)(B) or (2) of the first sentence, or the third sentence, of section 612(f) of this title or of a veteran described in section 612(g) of this title if the Administrator has determined, based on an examination by a physician employed by the Veterans’ Administration (or, in areas where no such physician is available, by a physician carrying out such function under a contract or fee arrangement), that the medical condition of such veteran precludes appropriate treatment in facilities described in clauses (A) and (B) of this paragraph” for “medical services for the treatment of any disability of a veteran described in clause (1)(B) or (2) of section 612(f) of this title” in subcl. (ii) of cl. (C), and added subcl. (vi) of cl. (C) and the provisions following cl. (C) relating to the periodic review of the necessity for continuing contractual arrangements in the case of veterans receiving contract care.
 
 Par. (4)(C)(iii). Pub. L. 96–151, §202, inserted provisions respecting safe transfer of the veteran, and substituted “medical services in” for “hospital care in”.
 

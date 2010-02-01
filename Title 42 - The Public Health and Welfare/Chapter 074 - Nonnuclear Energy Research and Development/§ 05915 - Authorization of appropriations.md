@@ -16,7 +16,7 @@ Pub. L. 96–126, title II, §201, Nov. 27, 1979, 93 Stat. 970, as amended by Pu
 
 “This Act \[Pub. L. 96–126\] shall be deemed to satisfy the requirements for congressional action pursuant to sections 7(c) and 19 of said Act \[section 5906(c) and former section 5919 of this title\] with respect to any purchase commitment, price guarantee, or loan guarantee for which funds appropriated hereby are utilized or obligated.
 
-“For the purposes of this appropriation the term ‘alternative fuels’, means gaseous, liquid, or solid fuels and chemical feedstocks derived from coal, shale, tarsands, lignite, peat, biomass, solid waste, unconventional natural gas, and other minerals or organic materials other than crude oil or any derivative thereof.
+“For the purposes of this appropriation the term ‘alternative fuels’, means gaseous, liquid, or solid fuels and chemical feedstocks derived from coal, shale, tar sands, lignite, peat, biomass, solid waste, unconventional natural gas, and other minerals or organic materials other than crude oil or any derivative thereof.
 
 “Within ninety days following enactment of this Act \[Nov. 27, 1979\], the Secretary of Energy in his sole discretion shall issue a solicitation for applications which shall include criteria for project development feasibility studies described in this account.
 

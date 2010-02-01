@@ -30,7 +30,7 @@ Section 206B of the Gramm-Leach-Bliley Act, referred to in subsecs. (a) and (d),
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title III, §302(b)\], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “It shall be unlawful for any person in the offer or sale of any securities by the use of any means or instruments of transportation or communication in interstate commerce or by the use of the mails, directly or indirectly—
+2000—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title III, §302(b)\], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “It shall be unlawful for any person in the offer or sale of any securities by the use of any means or instruments of transportationor communication in interstate commerce or by the use of the mails, directly or indirectly—
 
 &emsp;“(1) to employ any device, scheme, or artifice to defraud, or
 

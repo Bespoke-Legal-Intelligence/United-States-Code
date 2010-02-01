@@ -2,7 +2,7 @@
 
 (a)
 
-Accession Bonus Authorized.—A person who is a graduate of an accredited pharmacy school and who, during the period beginning on October 30, 2000, and ending on December 31, 2009, executes a written agreement described in subsection (d) to accept a commission as an officer of a uniformed service and remain on active duty for a period of not less than 4 years may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+Accession Bonus Authorized.—A person who is a graduate of an accredited pharmacy school and who, during the period beginning on October 30, 2000, and ending on December 31, 2010, executes a written agreement described in subsection (d) to accept a commission as an officer of a uniformed service and remain on active duty for a period of not less than 4 years may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
 
 (b)
 
@@ -18,15 +18,17 @@ Limitation on Eligibility for Bonus.—A person may not be paid a bonus under su
 
 (d)
 
-Agreement.—The agreement referred to in subsection (a) shall provide that, consistent with the needs of the uniformed service concerned, the person executing the agreement shall be assigned to duty, for the period of obligated service covered by the agreement, as a pharmacy officer in the Medical Service Corps of the Army or Navy, a biomedical sciences officer in the Air Force designated as a pharmacy officer, or a pharmacy officer of the Public Health Service.
+Agreement.—The agreement referred to in subsection (a) shall provide that, consistentwith the needs of the uniformed service concerned, the person executing the agreement shall be assigned to duty, for the period of obligated service covered by the agreement, as a pharmacy officer in the Medical Service Corps of the Army or Navy, a biomedical sciences officer in the Air Force designated as a pharmacy officer, or a pharmacy officer of the Public Health Service.
 
 (e)
 
 Repayment.—A person who, after signing an agreement under subsection (a), is not commissioned as an officer of the armed forces, does not become and remain certified or licensed as a pharmacist, or does not complete the period of active duty specified in the agreement shall be subject to the repayment provisions of section 303a(e) of this title.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §628(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–154; amended Pub. L. 107–314, div. A, title X, §1062(c)(1), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–375, div. A, title VI, §612(g), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(g), 687(b)(12), Jan. 6, 2006, 119 Stat. 3294, 3329; Pub. L. 109–364, div. A, title VI, §612(g), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–181, div. A, title VI, §612(g), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §612(g), Oct. 14, 2008, 122 Stat. 4484.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §628(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–154; amended Pub. L. 107–314, div. A, title X, §1062(c)(1), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–375, div. A, title VI, §612(g), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(g), 687(b)(12), Jan. 6, 2006, 119 Stat. 3294, 3329; Pub. L. 109–364, div. A, title VI, §612(g), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–181, div. A, title VI, §612(g), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §612(g), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §612(b)(6), Oct. 28, 2009, 123 Stat. 2353.)
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 
 2008—Subsec. (a). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
 

@@ -30,6 +30,22 @@ Amendment by Pub. L. 107–56 applicable with respect to reports filed or record
 
 This subchapter and chapter 21 (§1951 et seq.) of Title 12, Banks and Banking, are each popularly known as the “Bank Secrecy Act”. See Short Title note set out under section 1951 of Title 12.
 
+#### Stored Value
+
+Pub. L. 111–24, title V, §503, May 22, 2009, 123 Stat. 1756, provided that:
+
+“(a)
+
+In General.—Not later than 270 days after the date of enactment of this Act \[May 22, 2009\], the Secretary of the Treasury, in consultation with the Secretary of Homeland Security, shall issue regulations in final form implementing the Bank Secrecy Act \[see Short Title note under section 1951 of Title 12, Banks and Banking\], regarding the sale, issuance, redemption, or international transport of stored value, including stored value cards.
+
+“(b)
+
+Consideration of International Transport.—Regulations under this section regarding international transport of stored value may include reporting requirements pursuant to section 5316 of title 31, United States Code.
+
+“(c)
+
+Emerging Methods for Transmittal and Storage in Electronic Form.—Regulations under this section shall take into consideration current and future needs and methodologies for transmitting and storing value in electronic form.”
+
 #### Improvement of International Standards and Cooperation To Fight Terrorist Financing
 
 Pub. L. 108–458, title VII, §§7701, 7702, 7704, Dec. 17, 2004, 118 Stat. 3858–3860, provided that:

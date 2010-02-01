@@ -24,7 +24,7 @@ For the purpose (i) of developing or assisting in the development of any impleme
 
 &emsp;&emsp;(A) shall have a right of entry to, upon, or through any premises of such person or in which any records required to be maintained under paragraph (1) of this section are located, and
 
-&emsp;&emsp;(B) may at reasonable times have access to and copy any records, inspect any monitoring equipment or method required under paragraph (1), and sample any emissions which such person is required to sample under paragraph (1).<sup>3</sup>
+&emsp;&emsp;(B) may at reasonable times have access to and copy any records, inspect any monitoring equipment or method required under paragraph (1), and sample any emissionswhich such person is required to sample under paragraph (1).<sup>3</sup>
 
 &emsp;(3) The <sup>4</sup> Administrator shall in the case of any person which is the owner or operator of a major stationary source, and may, in the case of any other person, require enhanced monitoring and submission of compliance certifications. Compliance certifications shall include (A) identification of the applicable requirement that is the basis of the certification, (B) the method used for determining the compliance status of the source, (C) the compliance status, (D) whether compliance is continuous or intermittent, (E) such other facts as the Administrator may require. Compliance certifications and monitoring data shall be subject to subsection (c) of this section. Submission of a compliance certification shall in no way limit the Administrator's authorities to investigate or otherwise implement this chapter. The Administrator shall promulgate rules to provide guidance and to implement this paragraph within 2 years after November 15, 1990.
 
@@ -48,7 +48,7 @@ Any records, reports or information obtained under subsection (a) of this sectio
 
 #### References in Text
 
-Section 7413(d) of this title, referred to in subsec. (d)(1), was amended generally by Pub. L. 101–549, titleVII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, no longer relates to final compliance orders.
+Section 7413(d) of this title, referred to in subsec. (d)(1), was amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, no longer relates to final compliance orders.
 
 #### Codification
 

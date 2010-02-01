@@ -12,7 +12,7 @@ For purposes of part V of subchapter B of chapter 1 and those provisions of this
 
 For purposes of those provisions of this title which refer to this subsection, if—
 
-&emsp;(1) an individual who is married (within the meaning of subsection (a)) and who files a separate return maintains as his home a household which constitutes for more than one-half of the taxable year the principal place of abode of a child (within the meaning of section 152(f)(1)) with respect to whom such individual is entitled to a deduction for the taxable yearunder section 151 (or would be so entitled but for section 152(e)),
+&emsp;(1) an individual who is married (within the meaning of subsection (a)) and who files a separate return maintains as his home a household which constitutes for more than one-half of the taxable year the principal place of abode of a child (within the meaning of section 152(f)(1)) with respect to whom such individual is entitled to a deduction for the taxable year under section 151 (or would be so entitled but for section 152(e)),
 
 &emsp;(2) such individual furnishes over one-half of the cost of maintaining such household during the taxable year, and
 

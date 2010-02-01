@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For each of fiscal years 2006 through 2009, the balance of each annual appropriation made in accordance with the provisions of section 777b of this title remaining after the distributions for administrative expenses and other purposes under subsection (b) of this section and for multistate conservation grants under section 777m of this title shall be distributed as follows:
+For each of fiscal years 2006 through 2009, and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, the balance of each annual appropriation made in accordance with the provisions of section 777b of this title remaining after the distributions for administrative expenses and other purposes under subsection (b) of this section and for multistate conservation grants under section 777m of this title shall be distributed as follows:
 
 #### (1) Coastal wetlands
 
@@ -30,7 +30,7 @@ For each of fiscal years 2006 through 2009, the balance of each annual appropria
 
 #### (A) Set-aside for administration
 
-&emsp;&emsp;From the annual appropriation made in accordance with section 777b of this title, for each of fiscal years 2006 through 2009, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementationof this chapter, in accordance with this section and section 777h of this title. The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) of this section for the fiscal year.
+&emsp;&emsp;From the annual appropriation made in accordance with section 777b of this title, for each of fiscal years 2006 through 2009 and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law,,<sup>2</sup> the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and section 777h of this title. The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) of this section for the fiscal year.
 
 #### (B) Available amounts
 
@@ -58,11 +58,11 @@ For each of fiscal years 2006 through 2009, the balance of each annual appropria
 
 #### (B) Apportionment of unobligated amounts
 
-&emsp;&emsp;Not later than 60 days after the end of a fiscal year, the Secretary of the Interior shall apportion among the States any of the available amount under paragraph (1) that remains unobligated at the end of the fiscal year, on the same basis and in the same manner as other amounts made available under this chapter are apportioned among the States under subsection (e) <sup>2</sup> of this section for the fiscal year.
+&emsp;&emsp;Not later than 60 days after the end of a fiscal year, the Secretary of the Interior shall apportion among the States any of the available amount under paragraph (1) that remains unobligated at the end of the fiscal year, on the same basis and in the same manner as other amounts made available under this chapter are apportioned among the States under subsection (e) <sup>3</sup> of this section for the fiscal year.
 
 #### (c) Apportionment among States
 
-The Secretary <sup>3</sup> after the distribution, transfer, use and deduction under subsection (b) of this section, and after deducting amounts used for grants under section 777m of this title, shall apportion 57 percent of the balance of each such annual appropriation among the several States in the following manner: 40 percent in the ratio which the area of each State including coastal and Great Lakes waters (as determined by the Secretary of the Interior) bears to the total area of all the States, and 60 percent in the ratio which the number of persons holding paid licenses to fish for sport or recreation in the State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the number of such persons in all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than 1 percent nor more than 5 percent of the total amount apportioned. Where the apportionment to any State under this section is less than $4,500 annually, the Secretary of the Interior may allocate not more than $4,500 of said appropriation to said State to carry out the purposes of this chapter when said State certifies to the Secretary of the Interior that it has set aside not less than $1,500 from its fish-and-game funds or has made, through its legislature, an appropriation in this amount of said purposes.
+The Secretary <sup>4</sup> after the distribution, transfer, use and deduction under subsection (b) of this section, and after deducting amounts used for grants under section 777m of this title, shall apportion 57 percent of the balance of each such annual appropriation among the several States in the following manner: 40 percent in the ratio which the area of each State including coastal and Great Lakes waters (as determined by the Secretary of the Interior) bears to the total area of all the States, and 60 percent in the ratio which the number of persons holding paid licenses to fish for sport or recreation in the State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the number of such persons in all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than 1 percent nor more than 5 percent of the total amount apportioned. Where the apportionment to any State under this section is less than $4,500 annually, the Secretary of the Interior may allocate not more than $4,500 of said appropriation to said State to carry out the purposes of this chapter when said State certifies to the Secretary of the Interior that it has set aside not less than $1,500 from its fish-and-game funds or has made, through its legislature, an appropriation in this amount of said purposes.
 
 #### (d) Unallocated funds
 
@@ -72,7 +72,7 @@ So much of any sum not allocated under the provisions of this section for any fi
 
 #### (1) In general
 
-&emsp;For each fiscal year, of the amounts appropriated under section 777b of this title, the Secretary of the Interior shall use only funds authorized for use under paragraphs (1), (3), (4), and (5) of subsection (a) of this section to pay the expenses for administration incurred in carrying out the provisions of law referred to in those subsections, respectively.
+&emsp;For each fiscal year, of the amounts appropriated under section 777b of this title, the Secretary of the Interior shall use only funds authorized for use under paragraphs (1), (3), (4), and (5) of subsection (a) of this section to pay the expenses for administration incurred in carrying out the provisions of law referred to in those subsections,<sup>5</sup> respectively.
 
 #### (2) Maximum amount
 
@@ -82,9 +82,11 @@ So much of any sum not allocated under the provisions of this section for any fi
 
 Amounts available under paragraphs (3) and (4) of subsection (a) of this section that are unobligated by the Secretary of the Interior after 3 fiscal years shall be transferred to the Secretary of the department in which the Coast Guard is operating and shall be expended for State recreational boating safety programs under section 13107(a) of title 46.
 
-(Aug. 9, 1950, ch. 658, §4, 64 Stat. 432; Pub. L. 91–503, title II, §201, Oct. 23, 1970, 84 Stat. 1101; Pub. L. 94–273, §4(2), Apr. 21, 1976, 90 Stat. 377; Pub. L. 98–369, div. A, title X, §1014(a)(3), July 18, 1984, 98 Stat. 1015; Pub. L. 101–646, title III, §308, Nov. 29, 1990, 104 Stat. 4787; Pub. L. 102–587, title V, §5604(a), Nov. 4, 1992, 106 Stat. 5087; Pub. L. 105–178, title VII, §§7402(b), 7403, June 9, 1998, 112 Stat. 483, 485; Pub. L. 105–206, title IX, §9012(b), July 22, 1998, 112 Stat. 864; Pub. L. 106–74, title IV, §430, Oct. 20, 1999, 113 Stat. 1096; Pub. L. 106–377, §1(a)(2) \[title VI, §605\], Oct. 27, 2000, 114 Stat. 1441, 1441A–85; Pub. L. 106–408, title I, §§121(a), (c), 122(b)–124, Nov. 1, 2000, 114 Stat. 1769, 1772, 1774; Pub. L. 108–88, §9(a), (b), Sept. 30, 2003, 117 Stat. 1126; Pub. L. 108–202, §7(a), (b), Feb. 29, 2004, 118 Stat. 483; Pub. L. 108–224, §6(a), (b), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §6(a), (b), June 30, 2004, 118 Stat. 703; Pub. L. 108–280, §6(a), (b), July 30, 2004, 118 Stat. 881, 882; Pub. L. 108–310, §9(a), (b), Sept. 30, 2004, 118 Stat. 1159; Pub. L. 108–447, div. C, title I, §114(b), Dec.8, 2004, 118 Stat. 2944; Pub. L. 109–14, §8(a), (b), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, §8(a), (b), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, §8(a), (b), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §8(a), (b), July 22, 2005, 119 Stat. 404, 405; Pub. L. 109–40, §8(a), (b), July 28, 2005, 119 Stat. 421; Pub. L. 109–59, title X, §10113, Aug. 10, 2005, 119 Stat. 1927; Pub. L. 109–74, title II, §§201, 202, Sept. 29, 2005, 119 Stat. 2031; Pub. L. 109–241, title IX, §901(r)(1), July 11, 2006, 120 Stat. 566; Pub. L. 109–304, §16(c)(1), Oct. 6, 2006, 120 Stat. 1705.)
+(Aug. 9, 1950, ch. 658, §4, 64 Stat. 432; Pub. L. 91–503, title II, §201, Oct. 23, 1970, 84 Stat. 1101; Pub. L. 94–273, §4(2), Apr. 21, 1976, 90 Stat. 377; Pub. L. 98–369, div. A, title X, §1014(a)(3), July 18, 1984, 98 Stat. 1015; Pub. L. 101–646, title III, §308, Nov. 29, 1990, 104 Stat. 4787; Pub. L. 102–587, title V, §5604(a), Nov. 4, 1992, 106 Stat. 5087; Pub. L. 105–178, title VII, §§7402(b), 7403, June 9, 1998, 112 Stat. 483, 485; Pub. L. 105–206, title IX, §9012(b), July 22, 1998, 112 Stat. 864; Pub. L. 106–74, title IV, §430, Oct. 20, 1999, 113 Stat. 1096; Pub. L. 106–377, §1(a)(2) \[title VI, §605\], Oct. 27, 2000, 114 Stat. 1441, 1441A–85; Pub. L. 106–408, title I, §§121(a), (c), 122(b)–124, Nov. 1, 2000, 114 Stat. 1769, 1772, 1774; Pub. L. 108–88, §9(a), (b), Sept. 30, 2003, 117 Stat. 1126; Pub. L. 108–202, §7(a), (b), Feb. 29, 2004, 118 Stat. 483; Pub. L. 108–224, §6(a), (b), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §6(a), (b), June 30, 2004, 118 Stat. 703; Pub. L. 108–280, §6(a), (b), July 30, 2004, 118 Stat. 881, 882; Pub. L. 108–310, §9(a), (b), Sept. 30, 2004, 118 Stat. 1159; Pub. L. 108–447, div. C, title I, §114(b), Dec. 8, 2004, 118 Stat. 2944; Pub. L. 109–14, §8(a), (b), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, §8(a), (b), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, §8(a), (b), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §8(a), (b), July 22, 2005, 119 Stat. 404, 405; Pub. L. 109–40, §8(a), (b), July 28, 2005, 119 Stat. 421; Pub. L. 109–59, title X, §10113, Aug. 10, 2005, 119 Stat. 1927; Pub. L. 109–74, title II, §§201, 202, Sept. 29, 2005, 119 Stat. 2031; Pub. L. 109–241, title IX, §901(r)(1), July 11, 2006, 120 Stat. 566; Pub. L. 109–304, §16(c)(1), Oct. 6, 2006, 120 Stat. 1705; Pub. L. 111–68, div. B, §160, Oct. 1, 2009, 123 Stat. 2052.)
 
 #### References in Text
+
+The date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, referred to in subsecs. (a) and (b)(1)(A), probably means the date specified in section 106(3) of div. B of Pub. L. 111–68, as amended by Pub. L. 111–88, div. B, §101, Oct. 30, 2009, 123 Stat. 2972, which is December 18, 2009.
 
 The Coastal Wetlands Planning, Protection and Restoration Act, referred to in subsec. (a)(1), is title III of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4778, as amended, which is classified generally to chapter 59A (§3951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3951 of this title and Tables.
 
@@ -93,6 +95,10 @@ Section 5604(c) of the Clean Vessel Act of 1992, referred to in subsec. (a)(3), 
 Subsection (e) of this section, referred to in subsec. (b)(2)(B), was redesignated subsection (c) by Pub. L. 109–59, title X, §10113(1), Aug. 10, 2005, 119 Stat. 1927.
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–68, §160(1), inserted “and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law,” after “2009,” in introductory provisions.
+
+Subsec. (b)(1)(A). Pub. L. 111–68, §160(2), inserted “and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law,” after “2009”.
 
 2006—Subsec. (a)(2). Pub. L. 109–304 substituted “13107” for “13106”.
 
@@ -230,7 +236,11 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior by
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>3</sup></i><i> See References in Text note below.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be “paragraphs,”.</i>
 

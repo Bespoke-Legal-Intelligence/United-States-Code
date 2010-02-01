@@ -66,7 +66,7 @@ The Secretary shall select applications for grants under this section based upon
 
 #### (2) Calculation of rent
 
-&emsp;For assistance pursuant to this subsection, the maximum monthly rent of a dwelling unit that is an assisted living facility with respect to which assistance payments are made shall not include charges attributable to services relating to assisted living.
+&emsp;For assistance pursuant to this subsection, the maximum monthly rent of a dwelling unitthat is an assisted living facility with respect to which assistance payments are made shall not include charges attributable to services relating to assisted living.
 
 #### (g) Definitions
 

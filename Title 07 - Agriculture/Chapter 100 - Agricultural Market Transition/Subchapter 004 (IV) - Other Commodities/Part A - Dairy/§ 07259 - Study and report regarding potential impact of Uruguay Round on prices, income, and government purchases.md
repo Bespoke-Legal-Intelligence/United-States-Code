@@ -6,7 +6,7 @@ The Secretary of Agriculture shall conduct a study, on a variety by variety of c
 
 #### (b) Report
 
-Not later than June 30, 1997, the Secretary shall report to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives the results of the study conducted under this section.
+Not later than June 30, 1997, the Secretary shall report to the Committee on Agriculture,Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives the results of the study conducted under this section.
 
 #### (c) Rule of construction
 

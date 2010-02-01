@@ -154,7 +154,7 @@ Subsecs. (f) to (j). Pub. L. 104–201, §1718, added subsecs. (f) to (j).
 
 Subsec. (a)(2). Pub. L. 99–234, §105(1), (2), substituted “allowance or” for “allowance instead of” and “maximum payment permitted under regulations which implement section 5702 of this title” for “maximum per diem rates prescribed by or under section 5702 of this title”.
 
-Subsec. (a)(3). Pub. L. 99–234, §105(2), (3), substituted “maximum payment permitted under regulations which implement section 5702 of this title” for “maximum per diem rates prescribed by or under section 5702of this title” and “daily rates and amounts” for “average daily rates”.
+Subsec. (a)(3). Pub. L. 99–234, §105(2), (3), substituted “maximum payment permitted under regulations which implement section 5702 of this title” for “maximum per diem rates prescribed by or under section 5702 of this title” and “daily rates and amounts” for “average daily rates”.
 
 1983—Subsec. (a)(3). Pub. L. 98–151, §118(a)(5)(A), in first sentence substituted “60 days” for “30 days”.
 
@@ -162,7 +162,7 @@ Pub. L. 98–151, §118(a)(5)(B), substituted provisions authorizing extension f
 
 Subsec. (a)(4). Pub. L. 98–151, §118(a)(6), redesignated existing provisions as subpar. (A) and added subpar. (B).
 
-1979—Subsec. (a)(3), (4). Pub. L. 96–70 substituted in pars. (3) and (4) “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone” wherever appearing.
+1979—Subsec. (a)(3), (4). Pub. L. 96–70 substituted in pars. (3) and (4) “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and relatedagreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone” wherever appearing.
 
 #### Effective Date of 1997 Amendment
 

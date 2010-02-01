@@ -52,7 +52,7 @@
 
 #### (4) Distribution of subgrants
 
-&emsp;The Secretary may make a grant to a State educational agency only if the State educational agency agrees to expend at least 80percent of the amount of the funds provided under the grant for the purpose of making, in accordance with subsection (c) of this section, competitive subgrants to eligible local educational agencies.
+&emsp;The Secretary may make a grant to a State educational agency only if the State educational agency agrees to expend at least 80 percent of the amount of the funds provided under the grant for the purpose of making, in accordance with subsection (c) of this section, competitive subgrants to eligible local educational agencies.
 
 #### (5) Reallotment
 
@@ -72,7 +72,7 @@
 
 #### (A) Minimum subgrant amount
 
-&emsp;&emsp;In making subgrants under paragraph (1), a State educational agency shall allocate to each eligible local educational agency that receives such a subgrant, at a minimum, an amount that bears the same relation to the funds made available under subsection (b)(4) of this section as the amount the eligible local educational agency received under part A of this subchapter for the preceding fiscal year bears to the amount all the local educational agencies in the State received under part A of this subchapter for the preceding fiscal year.
+&emsp;&emsp;In making subgrants under paragraph (1), a State educational agency shall allocate toeach eligible local educational agency that receives such a subgrant, at a minimum, an amount that bears the same relation to the funds made available under subsection (b)(4) of this section as the amount the eligible local educational agency received under part A of this subchapter for the preceding fiscal year bears to the amount all the local educational agencies in the State received under part A of this subchapter for the preceding fiscal year.
 
 #### (B) Priority
 
@@ -278,7 +278,7 @@
 
 #### (B) Information included
 
-&emsp;&emsp;The progress report shall include information on the progress the State educationalagency and local educational agencies within the State are making in reducing the number of students served under this subpart in grades 1, 2, and 3 who are reading below grade level (as demonstrated by such information as teacher reports and school evaluations of mastery of the essential components of reading instruction). The report shall also include evidence from the State educational agency and local educational agencies within the State that the State educational agency and the local educational agencies have significantly increased the number of students reading at grade level or above, significantly increased the percentages of students described in section 6311(b)(2)(C)(v)(II) of this title who are reading at grade level or above, and successfully implemented this subpart.
+&emsp;&emsp;The progress report shall include information on the progress the State educational agency and local educational agencies within the State are making in reducing the number of students served under this subpart in grades 1, 2, and 3 who are reading below grade level (as demonstrated by such information as teacher reports and school evaluations of mastery of the essential components of reading instruction). The report shall also include evidence from the State educational agency and local educational agencies within the State that the State educational agency and the local educational agencies have significantly increased the number of students reading at grade level or above, significantly increased the percentages of students described in section 6311(b)(2)(C)(v)(II) of this title who are reading at grade level or above, and successfully implemented this subpart.
 
 #### (2) Peer review
 
@@ -286,7 +286,7 @@
 
 #### (3) Consequences of insufficient progress
 
-&emsp;After submission of the progress report described in paragraph (1), if the Secretary determines that the State educational agency is not making significant progress in meeting the purposes of this subpart, the Secretary may withhold from the State educational agency, in whole or in part, further payments under this section in accordance with section 1234d of this title or take such other action authorized by law as the Secretary determines necessary, including providing technical assistance upon request of the State educational agency.
+&emsp;After submission of the progress report described in paragraph (1), if the Secretary determines that the State educational agency is not making significant progress in meetingthe purposes of this subpart, the Secretary may withhold from the State educational agency, in whole or in part, further payments under this section in accordance with section 1234d of this title or take such other action authorized by law as the Secretary determines necessary, including providing technical assistance upon request of the State educational agency.
 
 #### (f) Funds not used for State level activities
 

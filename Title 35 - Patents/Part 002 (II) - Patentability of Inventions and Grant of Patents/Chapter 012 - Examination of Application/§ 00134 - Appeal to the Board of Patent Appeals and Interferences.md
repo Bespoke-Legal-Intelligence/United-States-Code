@@ -10,7 +10,7 @@ Patent Owner.—A patent owner in any reexamination proceeding may appeal from t
 
 (c)
 
-Third-Party.—A third-party requester in an inter partes proceeding may appeal to the Board of Patent Appeals and Interferences from the final decision of the primary examiner favorable to the patentability of any original or proposed amended or new claim of a patent, having once paid the fee for such appeal.
+Third-Party.—A third-party requester in an inter partes proceeding may appeal to theBoard of Patent Appeals and Interferences from the final decision of the primary examiner favorable to the patentability of any original or proposed amended or new claim of a patent, having once paid the fee for such appeal.
 
 (July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 98–622, title II, §204(b)(1), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4605(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–570; Pub. L. 107–273, div. C, title III, §§13106(b), 13202(b)(1), Nov. 2, 2002, 116 Stat. 1901.)
 

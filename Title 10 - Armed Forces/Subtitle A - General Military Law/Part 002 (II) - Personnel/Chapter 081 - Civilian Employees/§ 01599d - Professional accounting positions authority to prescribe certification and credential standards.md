@@ -18,7 +18,7 @@ Report.—The Secretary of Defense shall submit to Congress a report on the Secr
 
 (e)
 
-Definition.—In this section, the term “professional accounting position” means a positionor group of positions in the 0505, 0510, 0511, or equivalent series that involves professional accounting work.
+Definition.—In this section, the term “professional accounting position” means a position or group of positions in the 0505, 0510, 0511, or equivalent series that involves professional accounting work.
 
 (Added Pub. L. 107–314, div. A, title XI, §1104(a)(1), Dec. 2, 2002, 116 Stat. 2661; amended Pub. L. 110–417, \[div. A\], title XI, §1110, Oct. 14, 2008, 122 Stat. 4619.)
 
@@ -28,5 +28,5 @@ Definition.—In this section, the term “professional accounting position” m
 
 #### Effective Date
 
-Pub. L. 107–314, div. A, title XI, §1104(b), Dec. 2, 2002, 116 Stat. 2661, provided that: “Standards established pursuant to section 1599d of title 10, United States Code, as added by subsection (a), may take effect no sooner than 120 days after the date of the enactment of this Act \[Dec. 2, 2002\].”
+Pub. L. 107–314, div. A, title XI, §1104(b), Dec. 2, 2002, 116 Stat. 2661, provided that: “Standards established pursuant to section 1599d of title 10, United StatesCode, as added by subsection (a), may take effect no sooner than 120 days after the date of the enactment of this Act \[Dec. 2, 2002\].”
 

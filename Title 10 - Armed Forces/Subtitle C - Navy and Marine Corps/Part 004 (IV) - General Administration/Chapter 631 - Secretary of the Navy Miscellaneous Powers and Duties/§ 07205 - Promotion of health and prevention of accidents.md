@@ -14,7 +14,7 @@
 
 (b) The Secretary, to the extent he considers proper, may delegate the authority conferred by this section to any person in the Department of the Navy, with or without the authority to make successive redelegations.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 443; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, §513(24), Dec. 12, 1980, 94 Stat. 2932.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 443; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L.96–513, title V, §513(24), Dec. 12, 1980, 94 Stat. 2932.)
 
 Historical and Revision Notes
 

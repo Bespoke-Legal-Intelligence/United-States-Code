@@ -32,7 +32,7 @@
 
 #### (1) In general
 
-&emsp;The President may agree to hold harmless and indemnify any response action contractor meeting the requirements of this subsection against any liability (including the expenses of litigation or settlement) for negligence arising out of the contractor's performance in carrying out response action activities under this subchapter, unless such liability was caused by conduct of the contractor which was grossly negligent or which constituted intentional misconduct.
+&emsp;The President may agree to hold harmless and indemnify any response action contractormeeting the requirements of this subsection against any liability (including the expenses of litigation or settlement) for negligence arising out of the contractor's performance in carrying out response action activities under this subchapter, unless such liability was caused by conduct of the contractor which was grossly negligent or which constituted intentional misconduct.
 
 #### (2) Applicability
 
@@ -90,7 +90,7 @@
 
 #### (6) Cost recovery
 
-&emsp;For purposes of section 9607 of this title, amounts expended pursuant to this subsection for indemnification of any person who is a response action contractor with respect to any release or threatened release shall be considered a cost of response incurred by the United States Government with respect to such release.
+&emsp;For purposes of section 9607 of this title, amounts expended pursuant to this subsectionfor indemnification of any person who is a response action contractor with respect to any release or threatened release shall be considered a cost of response incurred by the United States Government with respect to such release.
 
 #### (7) Regulations
 
@@ -170,7 +170,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Codification
 
-In subsec. (g)(1), “sections 3131 and 3133 of title 40” substituted for “the Act of August 24, 1935 (40 U.S.C. 270a–270d), commonly referred to as the ‘Miller Act’ ” and for “such Act of August 24, 1935” and “section 3134 of title 40” substituted for “the Act of April 29, 1941 (40 U.S.C. 270e–270f)”, on authority of Pub. L. 107–217, §5(c),Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (g)(1), “sections 3131 and 3133 of title 40” substituted for “the Act of August 24, 1935 (40 U.S.C. 270a–270d), commonly referred to as the ‘Miller Act’ ” and for “such Act of August 24, 1935” and “section 3134 of title 40” substituted for “the Act of April 29, 1941 (40 U.S.C. 270e–270f)”, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

@@ -144,7 +144,7 @@ Clearinghouse.—A clearinghouse shall be established or designated in each prog
 
 #### “SEC. 425. RESTRICTIONS NOT APPLICABLE.
 
-“Prohibitions on the use of foreign assistance funds for assistance for the Russian Federation or for Ukraine shall not apply with respect to the funds made available to carry out this subtitle.
+“Prohibitions on the use of foreign assistance funds for assistance for the Russian Federation or forUkraine shall not apply with respect to the funds made available to carry out this subtitle.
 
 #### “SEC. 426. AUTHORIZATION OF APPROPRIATIONS.
 
@@ -176,7 +176,7 @@ Pub. L. 107–115, title II \[(g)(2)–(6)\], Jan. 10, 2002, 115 Stat. 2129, pro
 
 “(5) The Committees on Appropriations shall be consulted prior to the provision of any assistance made available pursuant to paragraph (2).
 
-“(6) Within 60 days of any exercise of the authority under paragraph (2) the President shall send a report tothe appropriate congressional committees specifying in detail the following—
+“(6) Within 60 days of any exercise of the authority under paragraph (2) the President shall send a report to the appropriate congressional committees specifying in detail the following—
 
 &emsp;“(A) the nature and quantity of all training and assistance provided to the Government of Azerbaijan pursuant to paragraph (2);
 

@@ -12,7 +12,7 @@ The Commission may promulgate consumer product safety standards in accordance wi
 
 #### (b) Reliance of Commission upon voluntary standards
 
-(1) The Commission shall rely upon voluntary consumer product safety standards rather thanpromulgate a consumer product safety standard prescribing requirements described in subsection (a) of this section whenever compliance with such voluntary standards would eliminate or adequately reduce the risk of injury addressed and it is likely that there will be substantial compliance with such voluntary standards.
+(1) The Commission shall rely upon voluntary consumer product safety standards rather than promulgate a consumer product safety standard prescribing requirements described in subsection (a) of this section whenever compliance with such voluntary standards would eliminate or adequately reduce the risk of injury addressed and it is likely that there will be substantial compliance with such voluntary standards.
 
 (2) The Commission shall devise procedures to monitor compliance with any voluntary standards—
 
@@ -70,7 +70,7 @@ Subsec. (d)(2). Pub. L. 94–284, §8(a), inserted provision which permits the C
 
 Subsec. (e). Pub. L. 94–284, §7(b), permitted the Commission to develop and publish a proposed consumer safety product rule if the development period as specified in par. (3) ends.
 
-Subsec. (f). Pub. L. 94–284, §7(c), provided that if within 60 days after publication of notice for a proceeding for the development of a consumer product safetystandard (or longer if the Commission so prescribe), no offer is submitted or none is acceptable, the Commission terminate the proceeding or develop proposals of its own, which proposals be published as a rule within 150 days after the expiration of the 60 day period or the proceeding then terminated, and that if an offer is accepted within the 60 day period, then within 210 days after acceptance, the Commission must publish the proposal as a rule or terminate the proceeding.
+Subsec. (f). Pub. L. 94–284, §7(c), provided that if within 60 days after publication of notice for a proceeding for the development of a consumer product safety standard (or longer if the Commission so prescribe), no offer is submitted or none is acceptable, the Commission terminate the proceeding or develop proposals of its own, which proposals be published as a rule within 150 days after the expiration of the 60 day period or the proceeding then terminated, and that if an offer is accepted within the 60 day period, then within 210 days after acceptance, the Commission must publish the proposal as a rule or terminate the proceeding.
 
 #### Effective Date of 1981 Amendment
 
@@ -148,7 +148,7 @@ Notification.—Effective on and after July 1, 1991, all manufacturers of automa
 
 “(f)
 
-Preemption.—In applying section 26(a) of the Consumer Product Safety Act (15 U.S.C. 2075) \[15 U.S.C. 2075(a)\] with respect to the consumer product safety rule of the Consumer Product Safety Commission under subsection (a), only those provisions of laws of States or political subdivisions which relate to the labeling of automatic residential garage door openers and those provisions which do not provide at least the equivalent degree of protection from the risk of injury associatedwith automatic residential garage door openers as the consumer product safety rule provides shall be subject to such section.
+Preemption.—In applying section 26(a) of the Consumer Product Safety Act (15 U.S.C. 2075) \[15 U.S.C. 2075(a)\] with respect to the consumer product safety rule of the Consumer Product Safety Commission under subsection (a), only those provisions of laws of States or political subdivisions which relate to the labeling of automatic residential garage door openers and those provisions which do not provide at least the equivalent degree of protection from the risk of injury associated with automatic residential garage door openers as the consumer product safety rule provides shall be subject to such section.
 
 “(g)
 

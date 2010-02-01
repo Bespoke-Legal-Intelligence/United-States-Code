@@ -14,11 +14,11 @@ Matter not pending.—For purposes of this section, a habeas corpus proceeding i
 
 &emsp;(3)
 
-Application for appointment of counsel.—If a State prisoner sentenced to death applies for appointment of counsel pursuant to section 3599(a)(2) of title 18 in a court that would have jurisdiction to entertain a habeas corpus application regarding that sentence, that court may stay execution of the sentence of death, but such stay shall terminate not later than 90 days after counsel is appointed or the application for appointment of counsel is withdrawn or denied.
+Application for appointment of counsel.—If a State prisoner sentenced to deathapplies for appointment of counsel pursuant to section 3599(a)(2) of title 18 in a court that would have jurisdiction to entertain a habeas corpus application regarding that sentence, that court may stay execution of the sentence of death, but such stay shall terminate not later than 90 days after counsel is appointed or the application for appointment of counsel is withdrawn or denied.
 
 (b)
 
-No Further Proceedings.—After the granting of such a stay, any such proceeding inany State court or by or under the authority of any State shall be void. If no stay is granted, any such proceeding shall be as valid as if no habeas corpus proceedings or appeal were pending.
+No Further Proceedings.—After the granting of such a stay, any such proceeding in any State court or by or under the authority of any State shall be void. If no stay is granted, any such proceeding shall be as valid as if no habeas corpus proceedings or appeal were pending.
 
 (June 25, 1948, ch. 646, 62 Stat. 966; Pub. L. 109–177, title V, §507(f), Mar. 9, 2006, 120 Stat. 251.)
 

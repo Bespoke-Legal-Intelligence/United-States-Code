@@ -12,7 +12,7 @@ The Secretary may perform in-reactor tests of tritium target rods as part of the
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–136, §3141(e)(18)(C)(i), (ii), inserted section catchline and redesignated subsecs. (c) and (d) of section 3133 of Pub. L. 104–201, which were transferred to this section, as subsecs. (a) and (b), respectively, of this section.
+2003—Pub. L. 108–136, §3141(e)(18)(C)(i), (ii), inserted section catchline and redesignated subsecs. (c) and (d) of section 3133 of Pub. L. 104–201, which were transferred to this section, as subsecs. (a) and (b), respectively, of this section.
 
 Subsec. (a). Pub. L. 108–136, §3141(e)(18)(C)(iii), inserted “of Energy” after “The Secretary”.
 

@@ -44,7 +44,7 @@ If an order is approved in a referendum conducted under subsection (a) of this s
 
 &emsp;(1) at the discretion of the Secretary, may conduct at any time a referendum of producers and importers required to pay assessments under the order, as provided in section 7804(h)(1) of this title, subject to the voting requirements of subsections (b) and (c) of this section, to ascertain whether eligible producers and importers favor suspension, termination, or continuance of the order; or
 
-&emsp;(2) shall conduct a referendum of eligible producers and importers if requested by the Board or by a representative group comprising 30 percent or more of all producers and importers required to pay assessments under the order, as provided in section 7804(h)(1) of this title, subject to the voting requirements of subsections (b) and (c) of this section, to ascertain whether producers and importers favor suspension, termination, or continuance of the order.
+&emsp;(2) shall conduct a referendum of eligible producers and importers if requested by theBoard or by a representative group comprising 30 percent or more of all producers and importers required to pay assessments under the order, as provided in section 7804(h)(1) of this title, subject to the voting requirements of subsections (b) and (c) of this section, to ascertain whether producers and importers favor suspension, termination, or continuance of the order.
 
 #### (e) Suspension or termination
 

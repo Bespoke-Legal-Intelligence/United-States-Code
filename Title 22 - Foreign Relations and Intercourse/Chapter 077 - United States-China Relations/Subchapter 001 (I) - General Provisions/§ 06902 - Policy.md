@@ -10,7 +10,7 @@ It is the policy of the United States—
 
 &emsp;(4) to encourage the Government of the People's Republic of China to afford its workers internationally recognized worker rights;
 
-&emsp;(5) to encourage the Government of the People's Republic of China to protect the human rights of people within the territory of the People's Republic of China, and to take steps toward protecting such rights, including, but not limited to—
+&emsp;(5) to encourage the Government of the People's Republic of China to protect the humanrights of people within the territory of the People's Republic of China, and to take steps toward protecting such rights, including, but not limited to—
 
 &emsp;&emsp;(A) ratifying the International Covenant on Civil and Political Rights;
 
@@ -22,7 +22,7 @@ It is the policy of the United States—
 
 &emsp;&emsp;&emsp;(ii) the right to be informed, if he or she does not have legal assistance, of the right set forth in clause (i);
 
-&emsp;&emsp;&emsp;(iii) the right to have legal assistance assigned to him or her in any case in which the interests of justice so require and without payment by him or her in anysuch case if he or she does not have sufficient means to pay for it;
+&emsp;&emsp;&emsp;(iii) the right to have legal assistance assigned to him or her in any case in which the interests of justice so require and without payment by him or her in any such case if he or she does not have sufficient means to pay for it;
 
 &emsp;&emsp;&emsp;(iv) the right to a fair and public hearing by a competent, independent, and impartial tribunal established by the law;
 

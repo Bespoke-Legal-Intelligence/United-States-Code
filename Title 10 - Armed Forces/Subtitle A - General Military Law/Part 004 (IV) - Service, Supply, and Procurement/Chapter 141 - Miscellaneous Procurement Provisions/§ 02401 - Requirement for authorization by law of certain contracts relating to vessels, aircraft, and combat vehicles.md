@@ -24,11 +24,11 @@
 
 (2) For purposes of paragraph (1)(C), the continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in a computation of such 30-day period.
 
-(3) Upon receipt of a notice under paragraph (1)(C), a committee identified in paragraph (1)(B) may request the Inspector General of the Department of Defense or the Comptroller General of the United States to conduct a review of theproposed contract to determine whether or not such contract meets the requirements of this section.
+(3) Upon receipt of a notice under paragraph (1)(C), a committee identified in paragraph (1)(B) may request the Inspector General of the Department of Defense or the Comptroller General of the United States to conduct a review of the proposed contract to determine whether or not such contract meets the requirements of this section.
 
 (4) If a review is requested under paragraph (3), the Inspector General of the Department of Defense or the Comptroller General of the United States, as the case may be, shall submit to the Secretary and the congressional defense committees a report on such review before the expiration of the period specified in paragraph (1)(C).
 
-(5) In the case of a contract described in subsection (a)(1)(B), the commander of the special operations command may make a contract without regard to this subsection if—
+(5) In the case of a contract described in subsection (a)(1)(B), the commander of the specialoperations command may make a contract without regard to this subsection if—
 
 &emsp;(A) funds are available and obligated for the full cost of the contract (including termination costs) on or before the date the contract is awarded;
 
@@ -80,9 +80,9 @@
 
 (e)(1) Whenever a request is submitted to Congress for the authorization of the long-term lease or charter of aircraft, naval vessels, or combat vehicles or for the authorization of a lease or charter of aircraft, naval vessels, or combat vehicles which provides for a substantial termination liability on the part of the United States, the Secretary of Defense shall submit with that request an analysis of the cost to the United States (including lost tax revenues) of any such lease or charter arrangement compared with the cost to the United States of direct procurement of the aircraft, naval vessels, or combat vehicles by the United States.
 
-(2) Any such analysis shall be reviewed and evaluated by the Director of the Office of Management and Budget and the Secretary of theTreasury within 30 days after the date on which the request and analysis are submitted to Congress. The Director and Secretary shall conduct such review and evaluation on the basis of the guidelines issued pursuant to subsection (f) and shall report to Congress in writing on the results of their review and evaluation at the earliest practicable date, but in no event more than 45 days after the date on which the request and analysis are submitted to the Congress.
+(2) Any such analysis shall be reviewed and evaluated by the Director of the Office of Management and Budget and the Secretary of the Treasury within 30 days after the date on which the request and analysis are submitted to Congress. The Director and Secretary shall conduct such review and evaluation on the basis of the guidelines issued pursuant to subsection (f) and shall report to Congress in writing on the results of their review and evaluation at the earliest practicable date, but in no event more than 45 days after the date on which the request and analysis are submitted to the Congress.
 
-(3) Whenever a request is submitted to Congress for the authorization of funds for the Department of Defense for the long-term lease or charter of aircraft, naval vessels, or combat vehicles authorized under this section, the Secretary of Defense—
+(3) Whenever a request is submitted to Congress for the authorization of funds for the Department of Defense for the long-term lease orcharter of aircraft, naval vessels, or combat vehicles authorized under this section, the Secretary of Defense—
 
 &emsp;(A) shall indicate in the request what portion of the requested funds is attributable to capital-hire; and
 
@@ -94,7 +94,7 @@
 
 &emsp;(B) funds appropriated to the Department of Defense for operation and maintenance may not be obligated or expended for the lease or charter.
 
-(2) In this subsection, the terms “capital lease” and “lease-purchase” have the meanings given those terms in Appendix B to Office of Management and Budget Circular A–11, as in effect on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2006.
+(2) In this subsection, the terms “capital lease” and “lease-purchase” have the meanings given those terms in Appendix B to Office of Management and Budget Circular A–11, as in effect on January 6, 2006.
 
 (g) The Director of the Office of Management and Budget and the Secretary of the Treasury shall jointly issue guidelines for determining under what circumstances the Department of Defense may use lease or charter arrangements for aircraft, naval vessels, and combat vehicles rather than directly procuring such aircraft, vessels, and combat vehicles.
 
@@ -110,15 +110,15 @@
 
 &emsp;(2) a period of 30 days of continuous session of Congress has expired following the date on which notice was received by such committees.
 
-(Added Pub. L. 98–94, title XII, §1202(a)(1), Sept. 24, 1983, 97 Stat. 679; amended Pub. L. 98–525, title XII, §1232(a), Oct. 19, 1984, 98 Stat. 2600; Pub. L. 100–26, §7(h)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 103–35, title II, §201(c)(6), May 31, 1993, 107 Stat. 98; Pub. L. 104–106, div. A, title XV, §§1502(a)(20), 1503(a)(21), Feb. 10, 1996, 110 Stat. 504, 512; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(13)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 109–163, div. A, title VIII, §815(a)–(d)(1), Jan. 6, 2006, 119 Stat. 3381, 3382; Pub. L. 110–181, div. A, title VIII, §824, title X, §1011, Jan. 28, 2008, 122 Stat. 227, 303.)
+(Added Pub. L. 98–94, title XII, §1202(a)(1), Sept. 24, 1983, 97 Stat. 679; amended Pub. L. 98–525, title XII, §1232(a), Oct. 19, 1984, 98 Stat. 2600; Pub. L. 100–26, §7(h)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 103–35, title II, §201(c)(6), May 31, 1993, 107 Stat. 98; Pub. L. 104–106, div. A, title XV, §§1502(a)(20), 1503(a)(21), Feb. 10, 1996, 110 Stat. 504, 512; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(13)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 109–163, div. A, title VIII, §815(a)–(d)(1), Jan. 6, 2006, 119 Stat. 3381, 3382; Pub. L. 110–181, div. A, title VIII, §824, title X, §1011, Jan. 28, 2008, 122 Stat. 227, 303; Pub. L. 111–84, div. A, title X, §1073(a)(24), Oct. 28, 2009, 123 Stat. 2473.)
 
 #### References in Text
 
-The Internal Revenue Code of 1986, referred to in subsecs. (c)(2)(A), (d)(1)(B), is classified generally to Title 26, Internal Revenue Code. Section 168 of the Internal Revenue Code of 1986 is classified to section 168 of Title 26.
-
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2006, referred to in subsec. (f)(2), is the date of enactment of Pub. L. 109–163, which was approved Jan. 6, 2006.
+The Internal Revenue Code of 1986, referred to in subsecs. (c)(2)(A) and (d)(1)(B), is classified generally to Title 26, Internal Revenue Code. Section 168 of the Internal Revenue Code of 1986 is classified to section 168 of Title 26.
 
 #### Amendments
+
+2009—Subsec. (f)(2). Pub. L. 111–84 substituted “January 6, 2006” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2006”.
 
 2008—Subsec. (b)(5). Pub. L. 110–181, §824, added par. (5).
 
@@ -248,7 +248,7 @@ Definition.—For purposes of subsection (a), the term ‘long-term lease or cha
 
 #### Limitation on Use of Funds for Contracts for Lease or Charter of Any Vessel, Aircraft, or Vehicles
 
-Pub. L. 101–165, title IX, §9081, Nov. 21, 1989, 103 Stat. 1147, directed that no funds available to Department of Defense could be used to enter into any contract with term of eighteen months or more or to extend or renew any contract for term of eighteen months or more, for any vessel, aircraft, or vehicle, through lease, charter, or similar agreement without previously having been submitted to Committees on Appropriations, with further requirement with respect to contractual agreements which imposed certain termination liability onGovernment, prior to repeal by Pub. L. 103–355, title III, §3065(b), Oct. 13, 1994, 108 Stat. 3337. See section 2401a of this title.
+Pub. L. 101–165, title IX, §9081, Nov. 21, 1989, 103 Stat. 1147, directed that no funds available to Department of Defense could be used to enter into any contract with term of eighteen months or more or to extend or renew any contract for term of eighteen months or more, for any vessel, aircraft, or vehicle, through lease, charter, or similar agreement without previously having been submitted to Committees on Appropriations, with further requirement with respect to contractual agreements which imposed certain termination liability on Government, prior to repeal by Pub. L. 103–355, title III, §3065(b), Oct. 13, 1994, 108 Stat. 3337. See section 2401a of this title.
 
 #### Issuance of Guidelines
 
@@ -256,7 +256,7 @@ Section 1232(a)(2) of Pub. L. 98–525 provided in part that guidelines required
 
 #### Limitation on Funds Available to Department of Defense To Enter Into Contracts During Fiscal Year 1984
 
-Section 1202(d) of Pub. L. 98–94 provided that: “Funds available to the Department of Defense may not be used to enter into any contract during fiscal year 1984 under section 2401 of title 10, United States Code, as added by subsection (a), the term of which is for 3 years or more, inclusive of any option for contract extension or renewal, for any vessels, aircraft, or vehicles, through a lease, charter, or similar agreement, that imposes an estimated termination liability (excluding the estimated value of the leased item at the time of termination) on the United States exceeding 50 percent of the original purchase value of the vessel, aircraft, or vehicle involved for which the Congress has not specifically provided budget authority for the obligation of 10 percent of such termination liability.”
+Section 1202(d) of Pub. L. 98–94 provided that: “Funds available to the Department of Defense may not be used to enter into any contract during fiscal year 1984 under section 2401 of title 10, United States Code, asadded by subsection (a), the term of which is for 3 years or more, inclusive of any option for contract extension or renewal, for any vessels, aircraft, or vehicles, through a lease, charter, or similar agreement, that imposes an estimated termination liability (excluding the estimated value of the leased item at the time of termination) on the United States exceeding 50 percent of the original purchase value of the vessel, aircraft, or vehicle involved for which the Congress has not specifically provided budget authority for the obligation of 10 percent of such termination liability.”
 
 #### Limitation on Use of Funds Appropriated Pursuant to Authorizations Contained in Department of Defense Authorization Act, 1984
 

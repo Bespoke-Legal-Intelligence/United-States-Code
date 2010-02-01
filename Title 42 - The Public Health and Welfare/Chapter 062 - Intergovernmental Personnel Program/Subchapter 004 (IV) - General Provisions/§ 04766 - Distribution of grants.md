@@ -32,7 +32,7 @@ This chapter, referred to in subsecs. (a), (b)(1), and (c), means the provisions
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out asa note under section 1101 of Title 5, Government Organization and Employees.
 
 #### Transfer of Functions
 

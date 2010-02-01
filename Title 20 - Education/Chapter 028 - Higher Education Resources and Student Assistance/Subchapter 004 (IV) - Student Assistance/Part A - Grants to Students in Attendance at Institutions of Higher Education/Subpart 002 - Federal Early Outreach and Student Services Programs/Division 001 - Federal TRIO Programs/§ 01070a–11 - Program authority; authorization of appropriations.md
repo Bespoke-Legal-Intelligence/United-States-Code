@@ -8,7 +8,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (1) Recipients
 
-&emsp;For the purposes described in subsection (a) of this section, the Secretary is authorized, without regard to section 5 of title 41, to make grants to, and contracts with, institutions of higher education, public and private agencies and organizations including community-based organizations with experience in serving disadvantaged youth, combinations of such institutions, agencies and organizations, and, as appropriate to the purposes of the program, secondary schools, for planning, developing, or carrying out one or more of the services assisted under this division.
+&emsp;For the purposes described in subsection (a) of this section, the Secretary is authorized, without regard to section 5 of title 41, to make grants to, and contracts with, institutions of higher education, public and private agencies and organizations, including community-based organizations with experience in serving disadvantaged youth, combinations of such institutions, agencies and organizations, and, as appropriate to the purposes of the program, secondary schools, for planning, developing, or carrying out one or more of the services assisted under this division.
 
 #### (2) Duration
 
@@ -110,7 +110,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (I) Referral to secondary review
 
-&emsp;&emsp;&emsp;&emsp;In the case of a peer review process error listed in clause (i)(I), if the Secretary determines that points were withheld for criteria not required in Federal statute, regulation, or guidance governing a program assisted under this division or the application for a grant for such program, or determines that information pertaining to selection criteria was wrongly determined <sup>1</sup> missing from an application by a peer reviewer, then the Secretary shall refer the application to a secondary review panel.
+&emsp;&emsp;&emsp;&emsp;In the case of a peer review process error listed in clause (i)(I), if the Secretary determines that points were withheld for criteria not required in Federal statute, regulation, or guidance governing a program assisted under this division or the application for a grant for such program, or determines that information pertaining to selection criteria was wrongly determined to be missing from an application by a peer reviewer, then the Secretary shall refer the application to a secondary review panel.
 
 #### (II) Timely review; replacement score
 
@@ -256,7 +256,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 &emsp;&emsp;(D) For programs authorized under section 1070a–15 of this title, the extent to which the entity met or exceeded the entity's objectives for such program regarding—
 
-&emsp;&emsp;&emsp;(i) the delivery of service to a total number of students served by the program, as agreed upon by the entity and the Secretary for the period;
+&emsp;&emsp;&emsp;(i) the delivery of service to a total number of students served by the program, asagreed upon by the entity and the Secretary for the period;
 
 &emsp;&emsp;&emsp;(ii) the provision of appropriate scholarly and research activities for the students served by the program;
 
@@ -332,7 +332,7 @@ For the purpose of this division:
 
 &emsp;The Secretary may waive the service requirements in subparagraph (A), (B), or (C) of paragraph (5) if the Secretary determines the application of the service requirements to a veteran will defeat the purpose of a program under this division.
 
-(Pub. L. 89–329, title IV, §402A, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 482; amended Pub. L. 103–208, §2(b)(6)–(9), Dec. 20, 1993, 107 Stat. 2458; Pub. L. 105–244, title I, §102(b)(1), title IV, §402(a), Oct. 7, 1998, 112 Stat.1622, 1652; Pub. L. 110–315, title IV, §403(a), Aug. 14, 2008, 122 Stat. 3191.)
+(Pub. L. 89–329, title IV, §402A, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 482; amended Pub. L. 103–208, §2(b)(6)–(9), Dec. 20, 1993, 107 Stat. 2458; Pub. L. 105–244, title I, §102(b)(1), title IV, §402(a), Oct. 7, 1998, 112 Stat. 1622, 1652; Pub. L. 110–315, title IV, §403(a), Aug. 14, 2008, 122 Stat. 3191; Pub. L. 111–39, title IV, §401(a)(4), July 1, 2009, 123 Stat. 1938.)
 
 #### References in Text
 
@@ -345,6 +345,10 @@ The Higher Education Amendments of 1992, referred to in subsec. (g), is Pub. L. 
 Section 402(b) of Pub. L. 102–325 provided that: “Reference in any provision of law (other than the Act \[20 U.S.C. 1001 et seq.\]) to subpart 2, 3, or 4 of part A of title IV of the Act shall, after the date of enactment of this Act \[July 23, 1992\], be deemed to refer to subpart 3 \[20 U.S.C. 1070b et seq.\], 4 \[20 U.S.C. 1070c et seq.\], or 2 \[20 U.S.C. 1070a–11 et seq.\] of such part, respectively.”
 
 #### Amendments
+
+2009—Subsec. (b)(1). Pub. L. 111–39, §401(a)(4)(A), substituted “organizations, including” for “organizations including”.
+
+Subsec. (c)(8)(C)(iv)(I). Pub. L. 111–39, §401(a)(4)(B), inserted “to be” after “determined”.
 
 2008—Subsec. (b)(1). Pub. L. 110–315, §403(a)(1)(A), inserted “including community-based organizations with experience in serving disadvantaged youth” after “private agencies and organizations” and substituted “, as appropriate to the purposes of the program” for “in exceptional circumstances”.
 
@@ -416,6 +420,10 @@ Subsec. (e). Pub. L. 103–208, §2(b)(9), amended subsec. (e) generally. Prior 
 
 &emsp;“(2) in the case of an individual who is age 18 or older or who is an independent student, by providing the Secretary with a signed statement from the individual, verification from another governmental source, a signed financial aid form, or a signed United States or Puerto Rican income tax return.”
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
@@ -429,6 +437,4 @@ Amendment by section 2(b)(6), (8), (9) of Pub. L. 103–208 effective as if incl
 Pub. L. 105–244, title VIII, §810, Oct. 7, 1998, 112 Stat. 1808, which authorized grants to States to enable States to reimburse low-income individuals to cover part or all of the cost of advanced placement test fees, required dissemination of information regarding availability of payments, set forth requirements for approval of applications and funding rules, authorized regulations, required annual report, defined terms, and authorized appropriations, was repealed by Pub. L. 107–110, title X, §1011(2), Jan. 8, 2002, 115 Stat. 1986.
 
 Similar provisions were contained in Pub. L. 102–325, title XV, §1545, July 23, 1992, 106 Stat. 837, which was repealed by Pub. L. 107–110, title X, §1011(1), Jan. 8, 2002, 115 Stat. 1986.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “to be”.</i>
 

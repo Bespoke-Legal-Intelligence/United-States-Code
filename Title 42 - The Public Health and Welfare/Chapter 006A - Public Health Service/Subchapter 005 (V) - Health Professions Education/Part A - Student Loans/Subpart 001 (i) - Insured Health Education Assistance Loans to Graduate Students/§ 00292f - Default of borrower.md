@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Upon default by the borrower on any loan covered by Federal loan insurance pursuant to this subpart, and after a substantial collection effort (including, subject to subsection (h) of this section, commencement and prosecution of an action) as determined under regulations of the Secretary, the insurance beneficiary shall promptly notify the Secretary and the Secretary shall, if requested (at that time or after further collection efforts) by the beneficiary, or may on his own motion, if the insurance is still in effect, pay to the beneficiary the amount of the loss sustained by the insured upon that loan as soon as that amount has been determined, except that, if the insurance beneficiary including any servicer of the loan is not designated for “exceptional performance”, as set forth in paragraph (2), the Secretary shall pay to the beneficiary a sum equal to 98 percent of the amount of the loss sustained by the insured upon that loan.
+&emsp;Upon default by the borrower on any loan covered by Federal loan insurance pursuant to this subpart, and after a substantial collection effort (including, subject to subsection (h) of this section, commencement and prosecution of an action) as determined under regulations of the Secretary, the insurance beneficiary shall promptly notify the Secretary and the Secretary shall, if requested (at that time or after further collection efforts) by the beneficiary, or may on his own motion, if the insurance is still in effect, pay to the beneficiarythe amount of the loss sustained by the insured upon that loan as soon as that amount has been determined, except that, if the insurance beneficiary including any servicer of the loan is not designated for “exceptional performance”, as set forth in paragraph (2), the Secretary shall pay to the beneficiary a sum equal to 98 percent of the amount of the loss sustained by the insured upon that loan.
 
 #### (2) Exceptional performance
 
@@ -18,7 +18,7 @@
 
 #### (C) Annual audits for lenders, holders, and servicers
 
-&emsp;&emsp;Each eligible lender, holder, or servicer desiring a designation under subparagraph (A)shall have an annual financial and compliance audit conducted with respect to the loan portfolio of such eligible lender, holder, or servicer, by a qualified independent organization from a list of qualified organizations identified by the Secretary and in accordance with standards established by the Secretary. The standards shall measure the lender's, holder's, or servicer's compliance with due diligence standards and shall include a defined statistical sampling technique designed to measure the performance rating of the eligible lender, holder, or servicer for the purpose of this section. Each eligible lender, holder, or servicer shall submit the audit required by this section to the Secretary.
+&emsp;&emsp;Each eligible lender, holder, or servicer desiring a designation under subparagraph (A) shall have an annual financial and compliance audit conducted with respect to the loan portfolio of such eligible lender, holder, or servicer, by a qualified independent organization from a list of qualified organizations identified by the Secretary and in accordance with standards established by the Secretary. The standards shall measure the lender's, holder's, or servicer's compliance with due diligence standards and shall include a defined statistical sampling technique designed to measure the performance rating of the eligible lender, holder, or servicer for the purpose of this section. Each eligible lender, holder, or servicer shall submit the audit required by this section to the Secretary.
 
 #### (D) Secretary's determinations
 
@@ -58,7 +58,7 @@ Nothing in this section or in this subpart shall be construed to preclude any fo
 
 #### (d) Reasonable care and diligence regarding loans
 
-Nothing in this section or in this subpart shall be construed to excuse the eligible lender or holder of a federally insured loan from exercising reasonable care and diligence in the making of loans under the provisions of this subpart and from exercising a substantial effort in the collection of loans under the provisions of this subpart. If the Secretary, after reasonable notice and opportunity for hearing to an eligible lender, finds that the lender has failed to exercise such care and diligence, to exercise such substantial efforts, to make the reports and statements required under section 292e(a)(3) of this title, or to pay the required Federal loan insurance premiums, he shall disqualify that lender from obtaining further Federal insurance on loans granted pursuant to this subpart until he is satisfied that its failure has ceased and findsthat there is reasonable assurance that the lender will in the future exercise necessary care and diligence, exercise substantial effort, or comply with such requirements, as the case may be.
+Nothing in this section or in this subpart shall be construed to excuse the eligible lender or holder of a federally insured loan from exercising reasonable care and diligence in the making of loans under the provisions of this subpart and from exercising a substantial effort in the collection of loans under the provisions of this subpart. If the Secretary, after reasonable notice and opportunity for hearing to an eligible lender, finds that the lender has failed to exercise such care and diligence, to exercise such substantial efforts, to make the reports and statements required under section 292e(a)(3) of this title, or to pay the required Federal loan insurance premiums, he shall disqualify that lender from obtaining further Federal insurance on loans granted pursuant to this subpart until he is satisfied that its failure has ceased and finds that there is reasonable assurance that the lender will in the future exercise necessary care and diligence, exercise substantial effort, or comply with such requirements, as the case may be.
 
 #### (e) Definitions
 
@@ -122,7 +122,7 @@ An institution or postgraduate training program attended by a borrower may assis
 
 #### References in Text
 
-The Federal False Claims Act, referred to in subsec. (a)(2)(J), probably means the False Claims Act whichwas the popular name for sections 231, 232, 233, and 235 of former Title 31, Money and Finance. Sections 231, 232, 233, and 235 were repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1084, and reenacted by the first section thereof as sections 3729 to 3731 of Title 31, Money and Finance.
+The Federal False Claims Act, referred to in subsec. (a)(2)(J), probably means the False Claims Act which was the popular name for sections 231, 232, 233, and 235 of former Title 31, Money and Finance. Sections 231, 232, 233, and 235 were repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1084, and reenacted by the first section thereof as sections 3729 to 3731 of Title 31, Money and Finance.
 
 #### Prior Provisions
 

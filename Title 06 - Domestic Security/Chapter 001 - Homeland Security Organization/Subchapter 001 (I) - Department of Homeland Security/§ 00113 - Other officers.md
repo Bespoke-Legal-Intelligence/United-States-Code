@@ -52,7 +52,7 @@ There shall be in the Department a Chief Financial Officer, as provided in chapt
 
 Subject to the provisions of this chapter, every officer of the Department shall perform the functions specified by law for the official's office or prescribed by the Secretary.
 
-(Pub. L. 107–296, title I, §103, Nov. 25, 2002, 116 Stat. 2144; Pub. L. 108–7, div. L, §104(a), Feb. 20,2003, 117 Stat. 529; Pub. L. 108–330, §3(d)(1)(A), Oct. 16, 2004, 118 Stat. 1276; Pub. L. 108–458, title VII, §7407(b), Dec. 17, 2004, 118 Stat. 3853; Pub. L. 109–295, title VI, §612(b), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–347, title V, §501(b)(1), Oct. 13, 2006, 120 Stat. 1935; Pub. L. 110–53, title V, §531(b)(2), Aug. 3, 2007, 121 Stat. 334; Pub. L. 110–388, §1, Oct. 10, 2008, 122 Stat. 4144.)
+(Pub. L. 107–296, title I, §103, Nov. 25, 2002, 116 Stat. 2144; Pub. L. 108–7, div. L, §104(a), Feb. 20, 2003, 117 Stat. 529; Pub. L. 108–330, §3(d)(1)(A), Oct. 16, 2004, 118 Stat. 1276; Pub. L. 108–458, title VII, §7407(b), Dec. 17, 2004, 118 Stat. 3853; Pub. L. 109–295, title VI, §612(b), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–347, title V, §501(b)(1), Oct. 13, 2006, 120 Stat. 1935; Pub. L. 110–53, title V, §531(b)(2), Aug. 3, 2007, 121 Stat. 334; Pub. L. 110–388, §1, Oct. 10, 2008, 122 Stat. 4144.)
 
 #### References in Text
 

@@ -124,5 +124,5 @@ Hearing requirement.—The amendment made by subsection (b) \[amending this sect
 
 “(2)
 
-Civil actions to collect.—The amendment made by subsection (c) \[amending this section\] shall apply with respect to civil penalties imposed on violations described in section 5123(a) of title 49, United States Code (as amended by this section), that occur on or after the date of enactment of this Act \[Aug. 10, 2005\].”
+Civil actions to collect.—The amendment made by subsection (c) \[amending this section\] shall apply with respect to civil penalties imposed on violations described in section 5123(a) of title 49, United States Code (as amended by this section), that occur onor after the date of enactment of this Act \[Aug. 10, 2005\].”
 

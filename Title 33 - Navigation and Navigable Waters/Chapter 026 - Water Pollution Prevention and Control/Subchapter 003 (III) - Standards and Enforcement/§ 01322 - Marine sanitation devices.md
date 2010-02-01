@@ -70,7 +70,7 @@ For the purpose of this section, the term—
 
 #### (d) Vessels owned and operated by the United States
 
-The provisions of this section and the standards and regulations promulgated hereunder apply to vessels owned and operated by the United States unless the Secretary of Defense finds that compliance would not be in the interest of national security. With respect to vessels owned and operated by the Department of Defense, regulations under the last sentence of subsection (b)(1) of this section and certifications under subsection (g)(2) of this section shall be promulgated and issued by the Secretary of Defense.
+The provisions of this section and the standards and regulations promulgated hereunder apply to vessels owned and operated by the United States unless the Secretary of Defense finds that compliance would not be in the interest of national security. With respect to vessels owned and operated by the Department of Defense, regulations under the last sentence of subsection (b)(1) of this section and certifications under subsection (g)(2) of this sectionshall be promulgated and issued by the Secretary of Defense.
 
 #### (e) Pre-promulgation consultation
 
@@ -140,7 +140,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator and the Secretary of Defense, after consultation with the Secretary of the department in which the Coast Guard is operating, the Secretary of Commerce, and interested States, shall jointly determine the discharges incidental to the normal operation of a vessel of the Armed Forces for which it is reasonable and practicable to require use of a marine pollution control device to mitigate adverse impacts on the marine environment. Notwithstanding subsection (a)(1) of section 553 of title 5, the Administrator and the Secretary of Defense shall promulgate the determinations in accordance with such section. The Secretary of Defense shall require the use of a marine pollution control device on board a vessel of the Armed Forces in any case in which it is determined that the use of such a device is reasonable and practicable.
+&emsp;&emsp;The Administrator and the Secretary of Defense, after consultation with the Secretary of the department in which the Coast Guard is operating, the Secretary of Commerce, and interested States, shall jointly determine the discharges incidental to the normal operation of a vessel of the Armed Forces for which it is reasonable and practicable to require use of a marine pollution control device to mitigate adverse impacts on the marine environment. Notwithstanding subsection (a)(1) of section 553 of title 5, the Administrator and the Secretary of Defense shall promulgate the determinations in accordance with such section. The Secretary of Defense shall require the use of a marine pollution control device on board avessel of the Armed Forces in any case in which it is determined that the use of such a device is reasonable and practicable.
 
 #### (B) Considerations
 
@@ -224,7 +224,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;Beginning on the effective date of—
 
-&emsp;&emsp;&emsp;(i) a determination under paragraph (2) that it is not reasonable and practicable to require use of a marine pollution control device regarding a particular discharge incidental to the normal operation of a vessel of the Armed Forces; or
+&emsp;&emsp;&emsp;(i) a determination under paragraph (2) that it is not reasonable and practicable to require use of a marine pollution controldevice regarding a particular discharge incidental to the normal operation of a vessel of the Armed Forces; or
 
 &emsp;&emsp;&emsp;(ii) regulations promulgated by the Secretary of Defense under paragraph (4);
 
@@ -398,13 +398,13 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (5) Effect of other laws
 
-&emsp;This subsection shall not affect the application of section 1321 of this title to discharges incidental to the normal operation of a recreational vessel.
+&emsp;This subsection shall not affect the application of section 1321 of this title to dischargesincidental to the normal operation of a recreational vessel.
 
 #### (6) Prohibition relating to recreational vessels
 
 &emsp;After the effective date of the regulations promulgated by the Secretary of the department in which the Coast Guard is operating under paragraph (4), the owner or operator of a recreational vessel shall neither operate in nor discharge any discharge incidental to the normal operation of the vessel into, the waters of the United States or the waters of the contiguous zone, if the owner or operator of the vessel is not using any applicable management practice meeting standards established under this subsection.
 
-(June 30, 1948, ch. 758, title III, §312, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 871;amended Pub. L. 95–217, §59, Dec. 27, 1977, 91 Stat. 1596; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–4, title III, §311, Feb. 4, 1987, 101 Stat. 42; Pub. L. 104–106, div. A, title III, §325(b)–(c)(2), Feb. 10, 1996, 110 Stat. 254–259; Pub. L. 110–288, §4, July 29, 2008, 122 Stat. 2650.)
+(June 30, 1948, ch. 758, title III, §312, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 871; amended Pub. L. 95–217, §59, Dec. 27, 1977, 91 Stat. 1596; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–4, title III, §311, Feb. 4, 1987, 101 Stat. 42; Pub. L. 104–106, div. A, title III, §325(b)–(c)(2), Feb. 10, 1996, 110 Stat. 254–259; Pub. L. 110–288, §4, July 29, 2008, 122 Stat. 2650.)
 
 #### References in Text
 
@@ -492,7 +492,7 @@ Findings.—The Congress finds the following:
 
 &emsp;“(1) The discharge of untreated sewage by vessels is prohibited under Federal law in all areas within the navigable waters of the United States.
 
-&emsp;“(2) The discharge of treated sewage by vessels is prohibited under either Federal or State law in many of the United States bodies of water where recreational boaters operate.
+&emsp;“(2) The discharge of treated sewage by vessels is prohibited under either Federal or State law in manyof the United States bodies of water where recreational boaters operate.
 
 &emsp;“(3) There is currently an inadequate number of pumpout stations for type III marine sanitation devices where recreational vessels normally operate.
 
@@ -612,7 +612,7 @@ Disclaimer.—Nothing in this subtitle shall be interpreted to preclude a State 
 
 Issuance of Guidance.—Not later than 3 months after the date of the enactment of this subtitle \[Nov. 4, 1992\], the Secretary of the Interior shall, after consulting with the Administrator of the Environmental Protection Agency, the Under Secretary of Commerce for Oceans and Atmosphere, and the Commandant of the Coast Guard, issue for public comment pumpout station and waste reception facility guidance. The Secretary of the Interior shall finalize the guidance not later than 6 months after the date of enactment of this subtitle. The guidance shall include—
 
-&emsp;“(1) guidance regarding the types of pumpout stations and waste reception facilities that may be appropriate for construction, renovation, operation, or maintenance with amounts available under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]), as amended by this subtitle, and appropriate location of the stations and facilities within a marina or boatyard;
+&emsp;“(1) guidance regarding the types of pumpout stations and waste reception facilities that may be appropriate for construction, renovation, operation, or maintenance with amounts available under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 etseq.\]), as amended by this subtitle, and appropriate location of the stations and facilities within a marina or boatyard;
 
 &emsp;“(2) guidance defining what constitutes adequate and reasonably available pumpout stations and waste reception facilities in boating areas;
 
@@ -626,7 +626,7 @@ Issuance of Guidance.—Not later than 3 months after the date of the enactment 
 
 “(b)
 
-Notification.—Not later than one month after the guidance issued under subsection (a) is finalized,the Secretary of the Interior shall provide notification in writing to the fish and wildlife, water pollution control, and coastal zone management authorities of each State, of—
+Notification.—Not later than one month after the guidance issued under subsection (a) is finalized, the Secretary of the Interior shall provide notification in writing to the fish and wildlife, water pollution control, and coastal zone management authorities of each State, of—
 
 &emsp;“(1) the availability of amounts under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]) to implement the Clean Vessel Act of 1992; and
 

@@ -10,7 +10,7 @@
 
 &emsp;(C) any document, container, wrapping, or other article which is evidence of a violation of section 1592 of this title involving fraud or of any other law enforced or administered by the United States Customs Service,
 
-> is in any dwelling house, store, or other building or place, he may make application, under oath, to any justice of the peace, to any municipal, county, State, or Federal judge, or to any Federal magistrate judge, and shall thereupon be entitled to a warrant to enter such dwelling house in the daytime only, or such store or other place at night or by day, and to search for and seize such merchandise or other article described in the warrant.
+> is in any dwelling house, store, or other building or place, he may make application, under oath, to any justice of the peace, to any municipal, county, State, or Federal judge, or to any Federal magistrate judge, and shall thereupon beentitled to a warrant to enter such dwelling house in the daytime only, or such store or other place at night or by day, and to search for and seize such merchandise or other article described in the warrant.
 
 (2) If any house, store, or other building or place, in which any merchandise or other article subject to forfeiture is found, is upon or within 10 feet of the boundary line between the United States and a foreign country, such portion thereof that is within the United States may be taken down or removed.
 
@@ -26,7 +26,7 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 
 Provisions somewhat similar to those in subsec. (a), but authorizing searches in the daytime only, with a further provision as to forfeitures, were contained in R.S. §3066, as amended by act Apr. 25, 1882, ch. 89, 22 Stat. 49. Provisions for searches of buildings on or near the boundary line, and for seizure and forfeiture of merchandise, and removal of the building, were contained in R.S. §3107. Provisions empowering persons, authorized to make searches and seizures, to enter into or upon lands, inclosures, and buildings, were contained in R.S. §3065. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
-R.S. §3091, authorized the issuance of a warrant, upon complaint and affidavit of fraud on the revenue, directing the marshal of the district to enter any place andseize books or papers relating to merchandise in respect to which the alleged fraud was committed, and produce them before the judge.
+R.S. §3091, authorized the issuance of a warrant, upon complaint and affidavit of fraud on the revenue, directing the marshal of the district to enter any place and seize books or papers relating to merchandise in respect to which the alleged fraud was committed, and produce them before the judge.
 
 R.S. §3092, provided that no warrant for such seizure should be issued unless the complaint should set forth the character of the fraud alleged, its nature, the importations in respect to which it was committed, and the papers to be seized, and required the return of such warrant as other warrants are returned.
 

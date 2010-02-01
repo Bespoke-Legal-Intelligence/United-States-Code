@@ -2,7 +2,7 @@
 
 (a)
 
-Construction Work In General.—The construction of any Federal-aid highway or a portion of a Federal-aid highway shall be undertaken by the respective State transportation departments or under their direct supervision. The Secretary shall have the right to conduct such inspections and take such corrective action as the Secretary determines to be appropriate. The construction work and labor in each State shall be performed under the direct supervision of the State transportation department and in accordance with the laws of that State and applicable Federal laws. Construction may be begun as soon as funds are available for expenditure pursuant to subsection (a) of section 118 of this title. After July 1, 1973, the State transportation department shall not erect on any project where actual construction is in progress and visible to highway users any informational signs other than official traffic control devices conforming with standards developed by the Secretary of Transportation.
+Construction Work In General.—The construction of any Federal-aid highway or a portion of a Federal-aid highway shall be undertaken by the respective State transportation departments or under their direct supervision. The Secretary shall have the right to conduct such inspections and take such corrective action as the Secretary determines to be appropriate. The construction work and labor in each State shall be performed under the direct supervision of theState transportation department and in accordance with the laws of that State and applicable Federal laws. Construction may be begun as soon as funds are available for expenditure pursuant to subsection (a) of section 118 of this title. After July 1, 1973, the State transportation department shall not erect on any project where actual construction is in progress and visible to highway users any informational signs other than official traffic control devices conforming with standards developed by the Secretary of Transportation.
 
 (b)
 
@@ -216,7 +216,7 @@ In general.—The Secretary \[of Transportation\] shall conduct a highways for l
 
 &emsp;“(2)
 
-Availability of information.—The Secretary shall ensure that the information and technology used, developed, or deployed under this subsection ismade available to the transportation community and the public.
+Availability of information.—The Secretary shall ensure that the information and technology used, developed, or deployed under this subsection is made available to the transportation community and the public.
 
 “(e)
 

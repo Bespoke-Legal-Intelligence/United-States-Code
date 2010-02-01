@@ -52,7 +52,7 @@
 
 (h)(1) The Secretary shall prescribe by regulation standards for the safeguarding and use of obligations issued under this chapter, and obligations otherwise issued or guaranteed as to principal or interest by the United States. Such regulations shall apply only to a depository institution that is not a government securities broker or a government securities dealer and that holds such obligations as fiduciary, custodian, or otherwise for the account of a customer and not for its own account. Such regulations shall provide for the adequate segregation of obligations so held, including obligations which are purchased or sold subject to resale or repurchase.
 
-(2) Violation of a regulation prescribed under paragraph (1) shall constitute adequate basis for the issuance of an order under section 5239(a) or (b) of the Revised Statutes (12 U.S.C. 93(a) or (b)), section 8(b) or 8(c) of the Federal Deposit Insurance Act, section 5(d)(2) or 5(d)(3) <sup>1</sup> of the Home Owners’ Loan Act of 1933, section 407(e) or 407(f) <sup>1</sup> of the National Housing Act, or section 206(e) or 206(f) of the Federal Credit Union Act. Such an order may be issued with respect to a depository institution by its appropriate regulatory agency and with respect to a federally insured credit union by the National Credit Union Administration Board.
+(2) Violation of a regulation prescribed under paragraph (1) shall constitute adequate basis for the issuance of an order under section 5239(a) or (b) of the Revised Statutes (12 U.S.C. 93(a) or (b)), section 8(b) or 8(c) of the Federal Deposit Insurance Act, section 5(d)(2) or 5(d)(3) <sup>1</sup> of theHome Owners’ Loan Act of 1933, section 407(e) or 407(f) <sup>1</sup> of the National Housing Act, or section 206(e) or 206(f) of the Federal Credit Union Act. Such an order may be issued with respect to a depository institution by its appropriate regulatory agency and with respect to a federally insured credit union by the National Credit Union Administration Board.
 
 (3) Nothing in this subsection shall be construed to affect in any way the powers of such agencies under any other provision of law.
 
@@ -188,7 +188,7 @@ In subsection (g)(4), the words “or chain of nominees” are omitted as includ
 
 Section 8(b) or (c) of the Federal Deposit Insurance Act, referred to in subsec. (h)(2), is classified to section 1818(b), (c) of Title 12, Banks and Banking.
 
-Section 5(d)(2) or 5(d)(3) of the Home Owners’ Loan Act of 1933, referred to in subsec. (h)(2), is classified to section 1464(d)(2), (3) of Title 12, but was amended generally by Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 282, and no longer relates to issuance of orders. See section 1464(d)(1) of Title 12.
+Section 5(d)(2) or 5(d)(3) of the Home Owners’ Loan Act of 1933, referred to in subsec. (h)(2), is classified tosection 1464(d)(2), (3) of Title 12, but was amended generally by Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 282, and no longer relates to issuance of orders. See section 1464(d)(1) of Title 12.
 
 Section 407 of the National Housing Act, referred to in subsec. (h)(2), which was classified to section 1730 of Title 12, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 

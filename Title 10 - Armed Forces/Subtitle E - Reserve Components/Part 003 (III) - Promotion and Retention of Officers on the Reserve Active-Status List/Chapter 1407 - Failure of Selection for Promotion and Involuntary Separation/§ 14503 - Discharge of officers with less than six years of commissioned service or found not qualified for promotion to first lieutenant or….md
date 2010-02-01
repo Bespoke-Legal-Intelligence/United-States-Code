@@ -6,7 +6,7 @@ Authorized Discharges.—The Secretary of the military department concerned may 
 
 &emsp;(1) has less than six years of service in an active status as a commissioned officer; or
 
-&emsp;(2) is serving in the grade of second lieutenant or ensign and has been found not qualified for promotion to the grade of first lieutenant or lieutenant (junior grade).
+&emsp;(2) is serving in the grade of second lieutenant or ensign and has been found not qualifiedfor promotion to the grade of first lieutenant or lieutenant (junior grade).
 
 (b)
 
@@ -22,7 +22,7 @@ Time for Discharge.—(1) An officer described in subsection (a)(2)—
 
 Regulations.—Discharges under this section shall be made under regulations prescribed by the Secretary of Defense and may be made without regard to section 12645 of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2949; Pub. L. 110–181, div. A, title V, §503(c)(1), (2), Jan. 28, 2008, 122 Stat. 95.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2949; amended Pub. L. 110–181, div. A, title V, §503(c)(1), (2), Jan. 28, 2008, 122 Stat. 95.)
 
 #### Prior Provisions
 

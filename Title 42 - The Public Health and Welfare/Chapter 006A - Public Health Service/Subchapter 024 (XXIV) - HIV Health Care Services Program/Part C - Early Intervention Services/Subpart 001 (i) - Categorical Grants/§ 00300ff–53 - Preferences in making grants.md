@@ -30,7 +30,7 @@ In making grants under section 300ff–51 of this title, the Secretary shall giv
 
 #### (c) Equitable allocations
 
-In providing preferences for purposes of subsection (b) of this section, the Secretary shallequitably allocate the preferences among urban and rural areas.
+In providing preferences for purposes of subsection (b) of this section, the Secretary shall equitably allocate the preferences among urban and rural areas.
 
 #### (d) Certain areas
 
@@ -40,15 +40,15 @@ Of the applicants who qualify for preference under this section—
 
 &emsp;(2) the Secretary shall give preference to areas that are underserved with respect to such services.
 
-(July 1, 1944, ch. 373, title XXVI, §2653, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 608; amended Pub. L. 106–345, title III, §311, Oct. 20, 2000, 114 Stat. 1345; Pub. L. 109–415, title III, §302(b), title VII, §702(3), Dec. 19, 2006, 120 Stat. 2806, 2820.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2653, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 608; amended Pub. L. 106–345, title III, §311, Oct. 20, 2000, 114 Stat. 1345; Pub. L. 109–415, title III, §302(b), title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2806, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease”.
+2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect onSept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+Subsec. (a). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease”.
 
 Subsec. (b)(1)(A). Pub. L. 109–415, §302(b)(1)(A), substituted “HIV/AIDS” for “acquired immune deficiency syndrome”.
 
@@ -57,6 +57,10 @@ Subsec. (b)(1)(D). Pub. L. 109–415, §302(b)(1)(B), inserted “and the number
 Subsec. (d)(2). Pub. L. 109–415, §302(b)(2), substituted “preference” for “special consideration”.
 
 2000—Subsec. (d). Pub. L. 106–345 added subsec. (d).
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

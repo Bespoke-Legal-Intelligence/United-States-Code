@@ -180,7 +180,7 @@ Subsec. (b)(2)(A). Pub. L. 105–178, §1307(a)(2), substituted “Subject to pa
 
 Subsec. (b)(2)(B)(i). Pub. L. 105–178, §1205(a), struck out before period at end “, except to the extent that such State adopts by statute a formal procedure for the procurement of such services”.
 
-Subsec. (b)(2)(B)(ii). Pub. L. 105–178, §1205(a), struck out before period at end “, except to the extent that such State adopts or has adopted by statute a formal procedure for the procurement of the services described in subparagraph (A)”.
+Subsec. (b)(2)(B)(ii). Pub. L. 105–178, §1205(a), struck out before period at end “, except to the extent thatsuch State adopts or has adopted by statute a formal procedure for the procurement of the services described in subparagraph (A)”.
 
 Subsec. (b)(3). Pub. L. 105–178, §1307(a)(3), added par. (3).
 

@@ -44,5 +44,3 @@ In this section, the term “national security laboratory” has the meaning giv
 
 (Pub. L. 107–314, div. D, title XLII, §4214, as added Pub. L. 109–364, div. C, title XXXI, §3111(a), Oct. 17, 2006, 120 Stat. 2502.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(a)”.</i>
-

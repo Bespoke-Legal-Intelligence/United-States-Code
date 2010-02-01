@@ -28,7 +28,7 @@ Automobile fuel economy average for model years 2011 through 2020.—The Secreta
 
 &emsp;&emsp;(B)
 
-Automobile fuel economy average for model years 2021 through 2030.—For model years 2021 through 2030, the average fuel economy required to be attained by each fleet of passenger and non-passenger automobiles manufactured for sale in the United States shall be the maximum feasible average fuel economy standard for each fleet for that model year.
+Automobile fuel economy average for model years 2021 through 2030.—For model years 2021 through 2030, the average fuel economy required to be attained by each fleet of passenger and non-passengerautomobiles manufactured for sale in the United States shall be the maximum feasible average fuel economy standard for each fleet for that model year.
 
 &emsp;&emsp;(C)
 
@@ -224,7 +224,7 @@ In subsection (c)(1), the words “Subject to paragraph (2) of this subsection�
 
 In subsection (c)(2), the words “If an amendment increases the standard . . . or decreases the standard” are substituted for “except that any amendment that has the effect of increasing . . . a standard . . ., or of decreasing . . . a standard” to eliminate unnecessary words. The words “For purposes of considering any modification which is submitted to the Congress under paragraph (4)” are omitted as surplus. The words “are deemed to be” are substituted for “shall be lengthened to” for clarity and consistency.
 
-In subsection (d)(1), before clause (A), the words “Except as provided in paragraph (3) of this subsection” are added because of the restatement. The words “in the model year 2 years before” are substituted for “in the second model year preceding” for clarity. The words “The Secretary may exempt a manufacturer only if the Secretary” are substituted for “Such exemption may only be granted if the Secretary” and “The Secretary may not issue exemptions with respect to a model year unless he” to eliminate unnecessary words. The words“each such standard shall be set at a level which” are omitted as surplus.
+In subsection (d)(1), before clause (A), the words “Except as provided in paragraph (3) of this subsection” are added because of the restatement. The words “in the model year 2 years before” are substituted for “in the second model year preceding” for clarity. The words “The Secretary may exempt a manufacturer only if the Secretary” are substituted for “Such exemption may only be granted if the Secretary” and “The Secretary may not issue exemptions with respect to a model year unless he” to eliminate unnecessary words. The words “each such standard shall be set at a level which” are omitted as surplus.
 
 In subsection (d)(3), before clause (A), the words “Notwithstanding paragraph (1) of this subsection” are substituted for “Notwithstanding any provision of law authorizing exemptions from energy conservation requirements for manufacturers of fewer than 10,000 motor vehicles” to eliminate unnecessary words. In clause (B), the word “compliance” is substituted for “conformity” for consistency with chapter 301 of the revised title. The words “prescribed under chapter 301 of this title” are substituted for “Federal” for consistency in the revised title.
 
@@ -289,4 +289,28 @@ Report.—The Academy shall submit the report to the Secretary, the Committee on
 “(c)
 
 Quinquennial Updates.—After submitting the initial report, the Academy shall update the report at 5 year intervals thereafter through 2025.”
+
+#### The Energy Independence and Security Act of 2007
+
+Memorandum of President of the United States, Jan. 26, 2009, 74 F.R. 4907, provided:
+
+Memorandum for the Secretary of Transportation \[and\] the Administrator of the National Highway Traffic Safety Administration
+
+In 2007, the Congress passed the Energy Independence and Security Act (EISA). This law mandates that, as part of the Nation's efforts to achieve energy independence, the Secretary of Transportation prescribe annual fuel economy increases for automobiles, beginning with model year 2011, resulting in a combined fuel economy fleet average of at least 35 miles per gallon by model year 2020. On May 2, 2008, the National Highway Traffic Safety Administration (NHTSA) published a Notice of Proposed Rulemaking entitled <i>Average Fuel Economy Standards, Passenger Cars and Light Trucks; Model Years 2011–2015, 73 Fed. Reg.</i> 24352. In the notice and comment period, the NHTSA received numerous comments, some of them contending that certain aspects of the proposed rule, including appendices providing for preemption of State laws, were inconsistent with provisions of EISA and the Supreme Court's decision in <i>Massachusetts v. Environmental Protection Agency</i>, 549 U.S. 497 (2007).
+
+Federal law requires that the final rule regarding fuel economy standards be adopted at least 18 months before the beginning of the model year (49 U.S.C. 32902(g)(2)). In order for the model year 2011 standards to meet this requirement, the NHTSA must publish the final rule in the Federal Register by March 30, 2009. To date, the NHTSA has not published a final rule.
+
+Therefore, I request that:
+
+(a) in order to comply with the EISA requirement that fuel economy increases begin with model year 2011, you take all measures consistent with law, and in coordination with the Environmental Protection Agency, to publish in the Federal Register by March 30, 2009, a final rule prescribing increased fuel economy for model year 2011;
+
+(b) before promulgating a final rule concerning model years after model year 2011, you consider the appropriate legal factors under the EISA, the comments filed in response to the Notice of Proposed Rulemaking, the relevant technological and scientific considerations, and to the extent feasible, the forthcoming report by the National Academy of Sciences mandated under section 107 of EISA; and
+
+(c) in adopting the final rules in paragraphs (a) and (b) above, you consider whether any provisions regarding preemption are consistent with the EISA, the Supreme Court's decision in <i>Massachusetts v. EPA</i> and other relevant provisions of law and the policies underlying them.
+
+This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+The Secretary of Transportation is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

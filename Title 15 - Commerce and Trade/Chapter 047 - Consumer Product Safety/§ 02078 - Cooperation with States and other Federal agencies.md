@@ -28,13 +28,13 @@ Notwithstanding section 2055(a)(3) of this title, the Commission may provide to 
 
 &emsp;(B) any information contained in any such report,
 
-> which the agency or authority makes available to any member of the public. No Federal agency or State or local agency or authority may disclose to the public any information contained in a report received by the agency or authority under this subsection unless with respect to such information the Commission has complied with the applicable requirements of section 2055(b) of this title.
+> which the agency or authority makes available to any member of the public. No Federal agencyor State or local agency or authority may disclose to the public any information contained in a report received by the agency or authority under this subsection unless with respect to such information the Commission has complied with the applicable requirements of section 2055(b) of this title.
 
 #### (f) Sharing of information with Federal, State, local, and foreign government agencies
 
 #### (1) Agreements and conditions
 
-&emsp;Notwithstanding the requirements of subsections (a)(3) and (b) of section 2055 of this title, relating to public disclosure of information, the Commission may make information obtained by the Commission available to any Federal, State, local, or foreign government agency upon the prior certification of an appropriate official of any such agency, either by a prior agreement or memorandum of understanding with the Commission or by other written certification, that such material willbe maintained in confidence and will be used only for official law enforcement or consumer protection purposes, if—
+&emsp;Notwithstanding the requirements of subsections (a)(3) and (b) of section 2055 of this title, relating to public disclosure of information, the Commission may make information obtained by the Commission available to any Federal, State, local, or foreign government agency upon the prior certification of an appropriate official of any such agency, either by a prior agreement or memorandum of understanding with the Commission or by other written certification, that such material will be maintained in confidence and will be used only for official law enforcement or consumer protection purposes, if—
 
 &emsp;&emsp;(A) the agency has set forth a bona fide legal basis for its authority to maintain the material in confidence;
 

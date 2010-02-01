@@ -44,7 +44,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 (B) Each publication of properties shall include a description and the location of each property (including the address and zip code) and the current classification of each property as unutilized, underutilized, excess property, or surplus property.
 
-(C) The Secretary shall make available to the public upon request all information in the possession of the Department of Housing and Urban Development (other than valuation information), regardless of format, about all propertiesreviewed and not identified as being suitable for use to assist the homeless, including the reasons such properties were not so identified.
+(C) The Secretary shall make available to the public upon request all information in the possession of the Department of Housing and Urban Development (other than valuation information), regardless of format, about all properties reviewed and not identified as being suitable for use to assist the homeless, including the reasons such properties were not so identified.
 
 (D) The Secretary shall publish separately, on an annual basis, all properties identified as being suitable for use to assist the homeless, but reported to be unavailable, and the reasons such properties were unavailable.
 
@@ -76,7 +76,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 (2) If written notice of intent to apply for such a property for use to assist the homeless is received by the Secretary of Health and Human Services within the 60-day period described under paragraph (1), such property may not be made available for any other purpose until the date the Secretary of Health and Human Services or other appropriate landholding agency has completed action on the application submitted under subsection (e) of this section with respect to that written notice of intent.
 
-(3) Property that is reviewed by the Secretary under subsection (a) of this section and that is not identified by the Secretary as being suitable for use to assist the homeless may not be made available for any other purpose for 20 days after the determination of unsuitability to allow for review of the determination at the request of the representative of the homeless. The Secretary shall disseminate immediately this information to the regional offices of the Department of Housing and Urban Development and to the United States Interagency Council on Homelessness.
+(3) Property that is reviewed by the Secretary under subsection (a) of this section and that isnot identified by the Secretary as being suitable for use to assist the homeless may not be made available for any other purpose for 20 days after the determination of unsuitability to allow for review of the determination at the request of the representative of the homeless. The Secretary shall disseminate immediately this information to the regional offices of the Department of Housing and Urban Development and to the United States Interagency Council on Homelessness.
 
 (4)(A) Written notice of intent to apply for a property published under subsection (c)(1)(A)(ii) of this section may be filed at any time after the 60-day period described in paragraph (1) has expired. In such case, an application submitted pursuant to the notice may be approved for disposal for use to assist the homeless only if the property remains available for application for use to assist the homeless. If the property remains available, the use to assist the homeless shall be given priority of consideration over other competing disposal opportunities under sections 541–555 of title 40, except as provided in subsection (f)(3)(A) of this section.
 
@@ -92,7 +92,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 #### (f) Making property available to representatives of homeless
 
-(1) Subject to the provisions of this subsection, property for which the Secretary of Health and Human Services has approved an application under subsection (e) of this sectionshall be made promptly available by permit or lease, or by deed as a public health use under section 550(a)–(d) of title 40, to the representative of the homeless that submitted the application.
+(1) Subject to the provisions of this subsection, property for which the Secretary of Health and Human Services has approved an application under subsection (e) of this section shall be made promptly available by permit or lease, or by deed as a public health use under section 550(a)–(d) of title 40, to the representative of the homeless that submitted the application.
 
 (2) Unutilized or underutilized property that is the subject of an agency's statement of intention under subsection (b)(1)(A)(ii) of this section shall be made promptly available by the appropriate landholding agency to the approved applicant by lease or permit for a term of not less than 1 year, unless the applicant requests a shorter term.
 

@@ -36,15 +36,17 @@ Each nonprofit educational organization awarded a grant under this section shall
 
 #### (c) Authorization of appropriations
 
-There are authorized to be appropriated to carry out <sup>1</sup> $3,000,000 for fiscal year 2009 and each of the five succeeding fiscal years.
+There are authorized to be appropriated to carry out this section $3,000,000 for fiscal year 2009 and each of the five succeeding fiscal years.
 
-(Pub. L. 105–244, title VIII, §841, Oct. 7, 1998, 112 Stat. 1820; Pub. L. 110–315, title IX, §933, Aug. 14, 2008, 122 Stat. 3459.)
+(Pub. L. 105–244, title VIII, §841, Oct. 7, 1998, 112 Stat. 1820; Pub. L. 110–315, title IX, §933, Aug. 14, 2008, 122 Stat. 3459; Pub. L. 111–39, title VIII, §802(a)(2), July 1, 2009, 123 Stat. 1957.)
 
 #### Codification
 
 Section was enacted as part of the Higher Education Amendments of 1998, and not as part of the Higher Education Act of 1965 which comprises this chapter.
 
 #### Amendments
+
+2009—Subsec. (c). Pub. L. 111–39 inserted “this section” after “to carry out”.
 
 2008—Subsec. (a). Pub. L. 110–315, §933(1), inserted “, including the lessons to be drawn from such history” after “Underground Railroad”.
 
@@ -60,5 +62,7 @@ Subsec. (b)(5). Pub. L. 110–315, §933(2)(C), inserted “and maintain” afte
 
 Subsec. (c). Pub. L. 110–315, §933(3), substituted “$3,000,000 for fiscal year 2009 and each of the five succeeding fiscal years” for “this section $6,000,000 for fiscal year 1999, $6,000,000 for fiscal year 2000, $6,000,000 for fiscal year 2001, $3,000,000 for fiscal year 2002, and $3,000,000 for fiscal year 2003”.
 
-<i><sup>1</sup></i><i> So in original. The words “this section” probably should appear.</i>
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

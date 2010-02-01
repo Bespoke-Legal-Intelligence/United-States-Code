@@ -30,7 +30,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(A) The activities necessary for the review of human drug applications and supplements.
 
-&emsp;&emsp;(B) The issuance of action letters which approve human drug applications or whichset forth in detail the specific deficiencies in such applications and, where appropriate, the actions necessary to place such applications in condition for approval.
+&emsp;&emsp;(B) The issuance of action letters which approve human drug applications or which set forth in detail the specific deficiencies in such applications and, where appropriate, the actions necessary to place such applications in condition for approval.
 
 &emsp;&emsp;(C) The inspection of prescription drug establishments and other facilities undertaken as part of the Secretary's review of pending human drug applications and supplements.
 
@@ -38,7 +38,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(E) Monitoring of research conducted in connection with the review of human drug applications.
 
-&emsp;&emsp;(F) Postmarket safety activities with respect to drugs approved under human drug applications or supplements, including the following activities:
+&emsp;&emsp;(F) Postmarket safety activities with respect to drugs approved under human drugapplications or supplements, including the following activities:
 
 &emsp;&emsp;&emsp;(i) Collecting, developing, and reviewing safety information on approved drugs, including adverse event reports.
 
@@ -104,7 +104,7 @@ Par. (1)(B), (C). Pub. L. 110–85, §§102(2)(B), (C), 106(a), temporarily rede
 
 Par. (3)(C). Pub. L. 110–85, §§102(3), 106(a), temporarily substituted “355(j)(7)(A) of this title (not including the discontinued section of such list)” for “355(j)(7)(A) of this title” and inserted “(not including the discontinued section of such list)” before period at end. See Effective and Termination Dates of 2007 Amendment note below.
 
-Par. (4). Pub. L. 110–85, §§102(4), 106(a), temporarily inserted “(such as capsules, tablets, or lyophilized products before reconstitution)” before period at end.See Effective and Termination Dates of 2007 Amendment note below.
+Par. (4). Pub. L. 110–85, §§102(4), 106(a), temporarily inserted “(such as capsules, tablets, or lyophilized products before reconstitution)” before period at end. See Effective and Termination Dates of 2007 Amendment note below.
 
 Par. (6)(F). Pub. L. 110–85, §§102(5), 106(a), temporarily amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “In the case of drugs approved after October 1, 2002, under human drug applications or supplements: collecting, developing, and reviewing safety information on the drugs, including adverse event reports, during a period of time after approval of such applications or supplements, not to exceed three years.” See Effective and Termination Dates of 2007 Amendment note below.
 
@@ -156,7 +156,7 @@ Pub. L. 110–85, title I, §107, Sept. 27, 2007, 121 Stat. 842, provided that: 
 
 Amendment by Pub. L. 107–188 effective Oct. 1, 2002, see section 508 of Pub. L. 107–188, set out as an Effective Date of 2002 Amendment note under section 356b of this title.
 
-Pub. L. 107–188, title V, §509, June 12, 2002, 116 Stat. 694, provided that: “The amendments made by sections 503 and 504 \[amending this section and section 379h ofthis title\] cease to be effective October 1, 2007, and section 505 \[enacting provisions set out as a note below\] ceases to be effective 120 days after such date.”
+Pub. L. 107–188, title V, §509, June 12, 2002, 116 Stat. 694, provided that: “The amendments made by sections 503 and 504 \[amending this section and section 379h of this title\] cease to be effective October 1, 2007, and section 505 \[enacting provisions set out as a note below\] ceases to be effective 120 days after such date.”
 
 #### Effective and Termination Dates of 1997 Amendment
 
@@ -166,7 +166,7 @@ Pub. L. 105–115, title I, §107, Nov. 21, 1997, 111 Stat. 2305, provided that:
 
 #### Termination Date
 
-Pub. L. 102–571, title I, §105, Oct. 29, 1992, 106 Stat. 4498, provided that: “The amendments made by section 103 \[enacting this subpart\] shall not be in effect after October 1, 1997 and section 104 \[enacting provisions set out as a note below\] shall not be in effect after 120 days after such date.”
+Pub. L. 102–571, title I, §105, Oct. 29, 1992, 106 Stat. 4498, provided that: “The amendments made by section103 \[enacting this subpart\] shall not be in effect after October 1, 1997 and section 104 \[enacting provisions set out as a note below\] shall not be in effect after 120 days after such date.”
 
 #### Savings Provision
 

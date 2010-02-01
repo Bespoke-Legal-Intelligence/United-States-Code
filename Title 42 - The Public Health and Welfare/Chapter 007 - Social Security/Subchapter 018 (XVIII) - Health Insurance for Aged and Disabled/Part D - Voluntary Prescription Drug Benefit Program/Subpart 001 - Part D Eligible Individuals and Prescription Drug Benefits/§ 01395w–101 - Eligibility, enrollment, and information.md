@@ -22,7 +22,7 @@
 
 #### (iii) Private fee-for-service enrollees in MA plans not providing qualified prescription drug coverage permitted to enroll in a prescription drug plan
 
-&emsp;&emsp;&emsp;A part D eligible individual who is enrolled in an MA private fee-for-service plan (as defined in section 1395w–28(b)(2) of this title) that does not provide qualified prescription drug coverage may obtain qualified prescription drug coverage through enrollment in a prescription drug plan.
+&emsp;&emsp;&emsp;A part D eligible individual who is enrolled in an MA private fee-for-service plan\(as defined in section 1395w–28(b)(2) of this title) that does not provide qualified prescription drug coverage may obtain qualified prescription drug coverage through enrollment in a prescription drug plan.
 
 #### (iv) Enrollees in MSA plans permitted to enroll in a prescription drug plan
 
@@ -98,7 +98,7 @@
 
 #### (B) Continuing periods
 
-&emsp;&emsp;In the case of an individual who becomes a part D eligible individual after November 15, 2005, there shall be an initial enrollment period which is the period under section 1395w–21(e)(1) of this title, as applied under paragraph (1)(B)(iii) of this section, as if “entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter” were substituted for “entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter”, but in no case shall such period end before the period described in subparagraph (A).
+&emsp;&emsp;In the case of an individual who becomes a part D eligible individual after November 15, 2005, there shall be an initial enrollment period which is the period under section 1395w–21(e)(1) of this title, as applied under paragraph (1)(B)(iii) of this section, as if “entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter” were substituted for “entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter”, but in no case shall such periodend before the period described in subparagraph (A).
 
 #### (3) Additional special enrollment periods
 
@@ -148,7 +148,7 @@
 
 #### (i) Provision of information
 
-&emsp;&emsp;&emsp;The Secretary may provide the information under subparagraph (A) only to theextent necessary to carry out such subparagraph.
+&emsp;&emsp;&emsp;The Secretary may provide the information under subparagraph (A) only to the extent necessary to carry out such subparagraph.
 
 #### (ii) Use of information
 
@@ -240,7 +240,7 @@ Pub. L. 108–173, title I, §101(c), Dec. 8, 2003, 117 Stat. 2150, provided tha
 
 #### Report on Progress in Implementation of Prescription Drug Benefit
 
-Pub. L. 108–173, title I, §101(d), Dec. 8, 2003, 117 Stat. 2150, provided that: “Not later than March 1, 2005, the Secretary \[of Health and Human Services\] shall submit a report to Congress on the progress that has been made in implementing the prescription drug benefitunder this title \[see Tables for classification\]. The Secretary shall include in the report specific steps that have been taken, and that need to be taken, to ensure a timely start of the program on January 1, 2006. The report shall include recommendations regarding an appropriate transition from the program under section 1860D–31 of the Social Security Act \[section 1395w–141 of this title\] to prescription drug benefits under subpart 1 of part D of title XVIII of such Act \[this subpart\].”
+Pub. L. 108–173, title I, §101(d), Dec. 8, 2003, 117 Stat. 2150, provided that: “Not later than March 1, 2005, the Secretary \[of Health and Human Services\] shall submit a report to Congress on the progress that has been made in implementing the prescription drug benefit under this title \[see Tables for classification\]. The Secretary shall include in the report specific steps that have been taken, and that need to be taken, to ensure a timely start of the program on January 1, 2006. The report shall include recommendations regarding an appropriate transition from the program under section 1860D–31 of the Social Security Act \[section 1395w–141 of this title\] to prescription drug benefits under subpart 1 of part D of title XVIII of such Act \[this subpart\].”
 
 #### State Pharmaceutical Assistance Transition Commission
 
@@ -286,7 +286,7 @@ Composition.—The Commission shall include the following:
 
 Development of Proposal.—The Commission shall develop the proposal described in subsection (a) in a manner consistent with the following principles:
 
-&emsp;“(1) Protection of the interests of program participants in a manner that is the least disruptive to such participants and that includes a single point of contact for enrollment and processing of benefits.
+&emsp;“(1) Protection of the interests of program participants in a manner that is the least disruptive to suchparticipants and that includes a single point of contact for enrollment and processing of benefits.
 
 &emsp;“(2) Protection of the financial and flexibility interests of States so that States are not financially worse off as a result of the enactment of this title \[see Tables for classification\].
 

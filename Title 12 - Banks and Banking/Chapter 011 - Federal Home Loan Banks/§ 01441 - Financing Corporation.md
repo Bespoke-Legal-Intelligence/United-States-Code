@@ -336,7 +336,7 @@ The Financing Corporation shall obtain funds for anticipated interest payments, 
 
 &emsp;&emsp;The term “issuance costs”—
 
-&emsp;&emsp;&emsp;(i) means issuance fees and commissions incurred by the Financing Corporation in connection with the issuance or servicing of any obligation of the Financing Corporation; and
+&emsp;&emsp;&emsp;(i) means issuance fees and commissions incurred by the Financing Corporation inconnection with the issuance or servicing of any obligation of the Financing Corporation; and
 
 &emsp;&emsp;&emsp;(ii) includes legal and accounting expenses, trustee and fiscal and paying agent charges, costs incurred in connection with preparing and printing offering materials, and advertising expenses, to the extent that any such cost or expense is incurred by the Financing Corporation in connection with issuing any obligation.
 
@@ -396,7 +396,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The term “insured depository institution” has the same meaning as in section 1813 of this title <sup>5</sup>
 
-(July 22, 1932, ch. 522, §21, as added Pub. L. 100–86, title III, §302, Aug. 10, 1987, 101 Stat. 585;amended Pub. L. 101–73, title V, §512, title VII, §§701(b)(2), 713, Aug. 9, 1989, 103 Stat. 406, 412, 419; Pub. L. 102–233, title I, §104, title III, §302(b), Dec. 12, 1991, 105 Stat. 1762, 1767; Pub. L. 102–550, title XVI, §1611(c), Oct. 28, 1992, 106 Stat. 4090; Pub. L. 104–208, div. A, title II, §2703(a), Sept. 30, 1996, 110 Stat. 3009–485; Pub. L. 109–173, §9(d)(2), Feb. 15, 2006, 119 Stat. 3616; Pub. L. 110–289, div. A, title II, §1204(6), (8), (12), July 30, 2008, 122 Stat. 2786.)
+(July 22, 1932, ch. 522, §21, as added Pub. L. 100–86, title III, §302, Aug. 10, 1987, 101 Stat. 585; amended Pub. L. 101–73, title V, §512, title VII, §§701(b)(2), 713, Aug. 9, 1989, 103 Stat. 406, 412, 419; Pub. L. 102–233, title I, §104, title III, §302(b), Dec. 12, 1991, 105 Stat. 1762, 1767; Pub. L. 102–550, title XVI, §1611(c), Oct. 28, 1992, 106 Stat. 4090; Pub. L. 104–208, div. A, title II, §2703(a), Sept. 30, 1996, 110 Stat. 3009–485; Pub. L. 109–173, §9(d)(2), Feb. 15, 2006, 119 Stat. 3616; Pub. L. 110–289, div. A, title II, §1204(6), (8), (12), July 30, 2008, 122 Stat. 2786.)
 
 #### References in Text
 
@@ -510,7 +510,7 @@ Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for 
 
 Subsec. (e)(3). Pub. L. 101–73, §512(12)(A), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-Subsec. (e)(4). Pub. L. 101–73, §512(2), (12)(A), redesignated par. (5) as (4) and substituted “Federal Housing Finance Board” for “Board”. Former par. (4) redesignated (3).
+Subsec. (e)(4). Pub. L. 101–73, §512(2), (12)(A), redesignated par. (5) as (4) and substituted “Federal HousingFinance Board” for “Board”. Former par. (4) redesignated (3).
 
 Subsec. (e)(5). Pub. L. 101–73, §512(12)(A), redesignated par. (6) as (5). Former par. (5) redesignated (4).
 
@@ -574,7 +574,7 @@ Section 1618 of Pub. L. 102–550 provided that: “Except as otherwise provided
 
 #### Effective Date of 1991 Amendment
 
-Section 318 of Pub. L. 102–233 provided that: “The effective date of the Resolution Trust Corporation ThriftDepositor Protection Reform Act of 1991 \[title III of Pub. L. 102–233, amending this section, sections 1441a, 1441b, 1786, 1818, 1821, 1833b, and 1833e of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, and section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, enacting provisions set out as notes under section 1441a of this title, and amending provisions set out as notes under sections 1437 and 1441a of this title\] shall be February 1, 1992.”
+Section 318 of Pub. L. 102–233 provided that: “The effective date of the Resolution Trust Corporation Thrift Depositor Protection Reform Act of 1991 \[title III of Pub. L. 102–233, amending this section, sections 1441a, 1441b, 1786, 1818, 1821, 1833b, and 1833e of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, and section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, enacting provisions set out as notes under section 1441a of this title, and amending provisions set out as notes under sections 1437 and 1441a of this title\] shall be February 1, 1992.”
 
 #### Transfer of Functions
 
@@ -590,7 +590,7 @@ Section 2703(d) of Pub. L. 104–208 provided that:
 
 “(1)
 
-In general.—Effective as of the date of the enactment of this Act \[Sept. 30, 1996\] and ending on the date provided in subsection (c)(2) of this section \[set out as a note above\], the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System, and the Director of the Office of Thrift Supervision shall take appropriate actions, including enforcement actions, denial of applications, or imposition of entrance and exit fees as if such transactions qualified as conversion transactions pursuant to section 5(d) of the Federal Deposit Insurance Act \[12 U.S.C. 1815(d)\], to prevent insured depository institutions and depository institution holding companies from facilitating or encouraging the shifting of deposits from SAIF-assessable deposits to BIF-assessable deposits (as defined in section 21(k) of the Federal Home Loan Bank Act \[12 U.S.C. 1441(k)\]) for the purpose of evading the assessments imposed on insured depository institutions with respect to SAIF-assessable deposits under section 7(b) of the Federal Deposit Insurance Act \[12 U.S.C. 1817(b)\] and section 21(f)(2) of the Federal Home Loan Bank Act \[12 U.S.C. 1441(f)(2)\].
+In general.—Effective as of the date of the enactment of this Act \[Sept. 30, 1996\] and ending on the date provided in subsection (c)(2) of this section \[set out as a note above\], the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System, and the Director of the Office of Thrift Supervision shall take appropriate actions, including enforcement actions, denial of applications, or imposition of entrance and exit fees as if such transactions qualified as conversion transactions pursuant to section 5(d) of the Federal Deposit Insurance Act \[12 U.S.C. 1815(d)\], to prevent insured depository institutions and depository institution holding companies from facilitating or encouraging the shifting of deposits from SAIF-assessable deposits to BIF-assessable deposits (as defined in section 21(k) of the Federal Home Loan Bank Act \[12 U.S.C. 1441(k)\]) for the purpose of evading the assessments imposed on insured depositoryinstitutions with respect to SAIF-assessable deposits under section 7(b) of the Federal Deposit Insurance Act \[12 U.S.C. 1817(b)\] and section 21(f)(2) of the Federal Home Loan Bank Act \[12 U.S.C. 1441(f)(2)\].
 
 “(2)
 

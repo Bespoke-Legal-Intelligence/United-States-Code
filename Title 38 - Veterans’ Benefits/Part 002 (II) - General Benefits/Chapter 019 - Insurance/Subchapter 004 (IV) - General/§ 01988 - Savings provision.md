@@ -1,6 +1,6 @@
 ### §1988. Savings provision
 
-Nothing in this title or any amendment or repeal made by the Act enacting this title shall affect any right, remedy, liability, authorization or requirement pertaining to Government insurance, the respective insurance funds, or the insurance appropriations, authorized or prescribed under the provisions of the War Risk Insurance Act, the World War Veterans’ Act, 1924, the National Service Life Insurance Act of 1940, or any related Act, which was in effect on December 31, 1958.
+Nothing in this title or any amendment or repeal made by the Act enacting this title shall affect any right, remedy, liability, authorization or requirement pertaining to Government insurance, the respective insurance funds, or the insurance appropriations, authorized or prescribed under the provisions of the War Risk InsuranceAct, the World War Veterans’ Act, 1924, the National Service Life Insurance Act of 1940, or any related Act, which was in effect on December 31, 1958.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1167, §788; renumbered §1988, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 

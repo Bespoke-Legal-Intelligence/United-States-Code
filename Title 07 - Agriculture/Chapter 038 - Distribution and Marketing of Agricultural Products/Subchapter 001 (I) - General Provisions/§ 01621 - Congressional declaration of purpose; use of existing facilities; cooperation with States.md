@@ -4,6 +4,10 @@ The Congress declares that a sound, efficient, and privately operated system for
 
 (Aug. 14, 1946, ch. 966, title II, §202, 60 Stat. 1087.)
 
+#### References in Text
+
+Under this chapter, referred to in text, was in the original “hereunder”, and was translated as meaning under title II of act Aug. 14, 1946, which is classified generally to this chapter.
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–532, §1, Nov. 22, 2000, 114 Stat. 2541, provided that: “This Act \[enacting subchapter III of this chapter\] may be cited as the ‘Dairy Market Enhancement Act of 2000’.”
@@ -80,7 +84,7 @@ Eligibility.—To be eligible to receive a grant under this section, a State dep
 
 &emsp;“(2) an assurance that the State will comply with the requirements of the plan; and
 
-&emsp;“(3) an assurance that grant funds received under this section shall supplement the expenditure ofState funds in support of specialty crops grown in that State, rather than replace State funds.
+&emsp;“(3) an assurance that grant funds received under this section shall supplement the expenditure of State funds in support of specialty crops grown in that State, rather than replace State funds.
 
 “(e)
 

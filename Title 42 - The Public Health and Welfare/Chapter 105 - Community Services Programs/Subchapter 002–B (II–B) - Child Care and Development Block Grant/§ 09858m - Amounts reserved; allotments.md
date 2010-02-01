@@ -16,7 +16,7 @@
 
 &emsp;From the amounts appropriated under section 9858 of this title for each fiscal year remaining after reservations under subsection (a) of this section, the Secretary shall allot to each State an amount equal to the sum of—
 
-&emsp;&emsp;(A) an amount that bears the same ratio to 50 percent of such remainder as the product of the young child factor of the State and the allotment percentage of the State bearsto the sum of the corresponding products for all States; and
+&emsp;&emsp;(A) an amount that bears the same ratio to 50 percent of such remainder as the product of the young child factor of the State and the allotment percentage of the State bears to the sum of the corresponding products for all States; and
 
 &emsp;&emsp;(B) an amount that bears the same ratio to 50 percent of such remainder as the product of the school lunch factor of the State and the allotment percentage of the State bears to the sum of the corresponding products for all States.
 
@@ -98,7 +98,7 @@
 
 #### (B) Determination
 
-&emsp;&emsp;With respect to a request submitted under subparagraph (A), and except as provided in subparagraph (C), upon a determination by the Secretary that adequate facilities are not otherwise available to an Indian tribe or tribal organization to enable such tribe or organization to carry out child care programs in accordance with this subchapter, and that the lack of such facilities will inhibit the operation of such programs in the future, the Secretary may permit the tribeor organization to use assistance provided under this subsection to make payments for the construction or renovation of facilities that will be used to carry out such programs.
+&emsp;&emsp;With respect to a request submitted under subparagraph (A), and except as provided in subparagraph (C), upon a determination by the Secretary that adequate facilities are not otherwise available to an Indian tribe or tribal organization to enable such tribe or organization to carry out child care programs in accordance with this subchapter, and that the lack of such facilities will inhibit the operation of such programs in the future, the Secretary may permit the tribe or organization to use assistance provided under this subsection to make payments for the construction or renovation of facilities that will be used to carry out such programs.
 
 #### (C) Limitation
 
@@ -134,7 +134,7 @@ The Secretary shall obtain from each appropriate Federal agency, the most recent
 
 #### (4) Indian tribes or tribal organizations
 
-&emsp;Any portion of a grant or contract made to an Indian tribe or tribal organization under subsection (c) of this section that the Secretary determines is not being used in a manner consistent with the provision of this subchapter in the period for which the grant or contract is made available, shall be allotted by the Secretary to other tribes or organizations that have submitted applications under subsection (c) of this section in accordance with their respective needs.
+&emsp;Any portion of a grant or contract made to an Indian tribe or tribal organization under subsection (c) of this section that the Secretary determines is not being used in a manner consistent with the provision of this subchapter in the period for which the grant orcontract is made available, shall be allotted by the Secretary to other tribes or organizations that have submitted applications under subsection (c) of this section in accordance with their respective needs.
 
 #### (f) “State” defined
 

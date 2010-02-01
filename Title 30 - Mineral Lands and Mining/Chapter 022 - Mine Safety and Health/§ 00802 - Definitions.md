@@ -6,7 +6,7 @@ For the purpose of this chapter, the term—
 
 &emsp;(b) “commerce” means trade, traffic, commerce, transportation, or communication among the several States, or between a place in a State and any place outside thereof, or within the District of Columbia or a possession of the United States, or between points in the same State but through a point outside thereof;
 
-&emsp;(c) “State” includes a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Trust Territory of the Pacific Islands;
+&emsp;(c) “State” includes a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands,American Samoa, Guam, and the Trust Territory of the Pacific Islands;
 
 &emsp;(d) “operator” means any owner, lessee, or other person who operates, controls, or supervises a coal or other mine or any independent contractor performing services or construction at such mine;
 
@@ -26,7 +26,7 @@ For the purpose of this chapter, the term—
 
 &emsp;(k) “accident” includes a mine explosion, mine ignition, mine fire, or mine inundation, or injury to, or death of, any person;
 
-&emsp;(<i>l</i>) “mandatory health or safety standard” means the interim mandatory health or safetystandards established by subchapters II and III of this chapter, and the standards promulgated pursuant to subchapter I of this chapter;
+&emsp;(<i>l</i>) “mandatory health or safety standard” means the interim mandatory health or safety standards established by subchapters II and III of this chapter, and the standards promulgated pursuant to subchapter I of this chapter;
 
 &emsp;(m) “Panel” means the Interim Compliance Panel established by this chapter; and
 

@@ -30,7 +30,7 @@ The Director shall revise and update any floodplain areas and flood-risk zones�
 
 &emsp;(1) upon the determination of the Director, according to the assessment under subsection (e) of this section, that revision and updating are necessary for the areas and zones; or
 
-&emsp;(2) upon the request from any State or local government stating that specific floodplain areas or flood-risk zones in the State or locality need revision or updating, if sufficient technical data justifying the request is submitted and the unit of government making the request agrees to provide funds in an amountdetermined by the Director, but which may not exceed 50 percent of the cost of carrying out the requested revision or update.
+&emsp;(2) upon the request from any State or local government stating that specific floodplain areas or flood-risk zones in the State or locality need revision or updating, if sufficient technical data justifying the request is submitted and the unit of government making the request agrees to provide funds in an amount determined by the Director, but which may not exceed 50 percent of the cost of carrying out the requested revision or update.
 
 #### (g) Availability of flood maps
 
@@ -108,7 +108,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 #### Geospatial Digital Flood Hazard Data
 
-Pub. L. 108–264, title I, §107, June 30, 2004, 118 Stat. 724, provided that: “For the purposes of flood insurance and floodplain management activities conducted pursuant to the National Flood Insurance Program under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.), geospatial digital flood hazard data distributed by the Federal Emergency Management Agency, or its designee, or the printed products derived from that data, are interchangeable and legally equivalent for the determination of the location of 1 in 100 year and 1 in 500 year flood planes \[sic\], provided that all other geospatial data shown on the printed product meets or exceeds any accuracy standard promulgated by the Federal Emergency Management Agency.”
+Pub. L. 108–264, title I, §107, June 30, 2004, 118 Stat. 724, provided that: “For the purposes of flood insurance and floodplain management activities conducted pursuant to the National Flood Insurance Program under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.), geospatial digital flood hazard data distributed by the Federal Emergency Management Agency, or itsdesignee, or the printed products derived from that data, are interchangeable and legally equivalent for the determination of the location of 1 in 100 year and 1 in 500 year flood planes \[sic\], provided that all other geospatial data shown on the printed product meets or exceeds any accuracy standard promulgated by the Federal Emergency Management Agency.”
 
 #### Reiteration of FEMA Responsibility to Map Mudslides
 

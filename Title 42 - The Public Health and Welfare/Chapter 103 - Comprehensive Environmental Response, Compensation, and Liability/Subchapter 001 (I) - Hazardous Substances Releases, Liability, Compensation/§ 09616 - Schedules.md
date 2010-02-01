@@ -18,7 +18,7 @@ If any of the goals established by subsection (a) or (b) of this section are not
 
 #### (d) Commencement of RI/FS
 
-The President shall assure that remedial investigations and feasibility studies (RI/FS) arecommenced for facilities listed on the National Priorities List, in addition to those commenced prior to October 17, 1986, in accordance with the following schedule:
+The President shall assure that remedial investigations and feasibility studies (RI/FS) are commenced for facilities listed on the National Priorities List, in addition to those commenced prior to October 17, 1986, in accordance with the following schedule:
 
 &emsp;(1) not fewer than 275 by the date 36 months after October 17, 1986, and
 

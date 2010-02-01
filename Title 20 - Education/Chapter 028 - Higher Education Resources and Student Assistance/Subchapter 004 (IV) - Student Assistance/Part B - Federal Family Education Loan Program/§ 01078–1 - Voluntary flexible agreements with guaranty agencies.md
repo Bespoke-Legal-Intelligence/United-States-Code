@@ -14,7 +14,7 @@
 
 #### (2) Eligibility
 
-&emsp;During fiscal years 1999, 2000, and 2001, the Secretary may enter into a voluntary, flexible agreement with not more than 6 guaranty agencies that had 1 or more agreements with the Secretary under subsections (b) and (c) of section 1078 of this title as of the day before October 7, 1998. Beginning in fiscal year 2002, any guaranty agency or consortium thereof may enter into a voluntary flexible agreement with the Secretary.
+&emsp;During fiscal years 1999, 2000, and 2001, the Secretary may enter into a voluntary, flexibleagreement with not more than 6 guaranty agencies that had 1 or more agreements with the Secretary under subsections (b) and (c) of section 1078 of this title as of the day before October 7, 1998. Beginning in fiscal year 2002, any guaranty agency or consortium thereof may enter into a voluntary flexible agreement with the Secretary.
 
 #### (3) Report required
 
@@ -122,7 +122,7 @@ An agreement between the Secretary and a guaranty agency under this section—
 
 #### (4) Public availability
 
-&emsp;The text of any voluntary flexible agreement, and any subsequent revisions, and anywaivers related to section 1078(b)(3) of this title that are not part of such an agreement, shall be readily available to the public.
+&emsp;The text of any voluntary flexible agreement, and any subsequent revisions, and any waivers related to section 1078(b)(3) of this title that are not part of such an agreement, shall be readily available to the public.
 
 #### (5) Modification notice
 
@@ -164,7 +164,7 @@ Subsec. (a)(4). Pub. L. 109–171, §8014(f)(4), struck out par. (4), which requ
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub.L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date
 

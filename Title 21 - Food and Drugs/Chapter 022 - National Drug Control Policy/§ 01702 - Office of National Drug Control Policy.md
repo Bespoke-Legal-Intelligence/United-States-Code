@@ -100,9 +100,13 @@ Subsec. (b). Pub. L. 109–469, §102(b), amended subsec. (b) generally. Prior t
 
 #### Gifts to Office of National Drug Control Policy
 
-Pub. L. 110–161, div. D, title II, Dec. 26, 2007, 121 Stat. 1983, provided in part: “That the Office \[of National Drug Control Policy\] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office.”
+Pub. L. 111–117, div. C, title II, Dec. 16, 2009, 123 Stat. 3170, provided in part: “That the Office \[of National Drug Control Policy\] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 111–8, div. D, title II, Mar. 11, 2009, 123 Stat. 641.
+
+Pub. L. 110–161, div. D, title II, Dec. 26, 2007, 121 Stat. 1983.
 
 Pub. L. 109–115, div. A, title V, Nov. 30, 2005, 119 Stat. 2475.
 

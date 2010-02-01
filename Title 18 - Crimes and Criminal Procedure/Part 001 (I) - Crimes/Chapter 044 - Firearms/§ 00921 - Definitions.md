@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(vi) device similar to any of the devices described in the preceding clauses;
 
-&emsp;(B) any type of weapon (other than a shotgun or a shotgun shell which the Attorney General finds is generally recognized as particularly suitable for sporting purposes) by whatever name known which will, or which may be readily converted to, expel a projectile by the action of an explosive or other propellant, and which has any barrel with a bore of more than one-half inch in diameter; and
+&emsp;(B) any type of weapon (other than a shotgun or a shotgun shell which the Attorney General finds is generally recognized as particularly suitable for sporting purposes) by whatever name known which will, or which may be readily converted to, expel a projectileby the action of an explosive or other propellant, and which has any barrel with a bore of more than one-half inch in diameter; and
 
 &emsp;(C) any combination of parts either designed or intended for use in converting any device into any destructive device described in subparagraph (A) or (B) and from which a destructive device may be readily assembled.
 
@@ -128,7 +128,7 @@
 
 (27) The term “motor vehicle” has the meaning given such term in section 13102 of title 49, United States Code.
 
-(28) The term “semiautomatic rifle” means any repeating rifle which utilizes a portion of the energy of a firing cartridge to extract the fired cartridge case and chamber the next round, and which requires a separate pull of the trigger to fire each cartridge.
+(28) The term “semiautomatic rifle” means any repeating rifle which utilizes a portion ofthe energy of a firing cartridge to extract the fired cartridge case and chamber the next round, and which requires a separate pull of the trigger to fire each cartridge.
 
 (29) The term “handgun” means—
 
@@ -240,7 +240,7 @@ Subsec. (a)(13). Pub. L. 99–308, §101(4), struck out “or ammunition” afte
 
 Subsec. (a)(17). Pub. L. 99–408 designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (a)(20). Pub. L. 99–308, §101(5), amended par. (20) generally. Prior to amendment, par. (20) read as follows: “The term ‘crime punishable by imprisonment for a term exceeding one year’ shall not include (A) any Federal or State offenses pertaining to antitrust violations, unfair trade practices, restraints of trade, or other similar offenses relating to the regulation ofbusiness practices as the Secretary may by regulation designate, or (B) any State offense (other than one involving a firearm or explosive) classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of two years or less.”
+Subsec. (a)(20). Pub. L. 99–308, §101(5), amended par. (20) generally. Prior to amendment, par. (20) read as follows: “The term ‘crime punishable by imprisonment for a term exceeding one year’ shall not include (A) any Federal or State offenses pertaining to antitrust violations, unfair trade practices, restraints of trade, or other similar offenses relating to the regulation of business practices as the Secretary may by regulation designate, or (B) any State offense (other than one involving a firearm or explosive) classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of two years or less.”
 
 Subsec. (a)(21). Pub. L. 99–308, §101(6), added par. (21).
 
@@ -278,7 +278,7 @@ Section 1702(b)(4) of Pub. L. 101–647 provided that: “The amendments made by
 
 #### Effective Date of 1986 Amendments; Publication and Availability of Compilation of State Laws and Published Ordinances
 
-Section 9 of Pub. L. 99–408 provided that: “The amendments made by this Act \[amending this section and sections 922, 923, and 929 of this title and enacting provisions set out as notes under this section\] shall take effect on the date of enactment of this Act \[Aug. 28, 1986\], except that sections 3, 4, and 5 \[amending section 923 of this title\] shall take effect on the first day of the first calendar month which begins more than ninety days after the date of the enactment of this Act.”
+Section 9 of Pub. L. 99–408 provided that: “The amendments made by this Act \[amending this sectionand sections 922, 923, and 929 of this title and enacting provisions set out as notes under this section\] shall take effect on the date of enactment of this Act \[Aug. 28, 1986\], except that sections 3, 4, and 5 \[amending section 923 of this title\] shall take effect on the first day of the first calendar month which begins more than ninety days after the date of the enactment of this Act.”
 
 Section 2 of Pub. L. 99–360 provided that: “This Act and the amendments made by this Act \[enacting section 926A of this title, amending this section and section 923 of this title, and repealing former section 926A of this title\], intended to amend the Firearms Owners’ Protection Act \[Pub. L. 99–308, see Short Title of 1986 Amendment note below\], shall become effective on the date on which the section they are intended to amend in such Firearms Owners’ Protection Act becomes effective \[see section 110 of Pub. L. 99–308 set out below\] and shall apply to the amendments to title 18, United States Code, made by such Act.”
 
@@ -310,7 +310,7 @@ Section 907 of title IV of Pub. L. 90–351 provided that: “The amendments mad
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–92, §5(a), Oct. 26, 2005, 119 Stat. 2099, provided that: “This section \[amending sections 922 and924 of this title and enacting provisions set out as notes under section 922 of this title\] may be cited as the ‘Child Safety Lock Act of 2005’.”
+Pub. L. 109–92, §5(a), Oct. 26, 2005, 119 Stat. 2099, provided that: “This section \[amending sections 922 and 924 of this title and enacting provisions set out as notes under section 922 of this title\] may be cited as the ‘Child Safety Lock Act of 2005’.”
 
 #### Short Title of 2004 Amendment
 
@@ -398,7 +398,7 @@ Section 901 of title IV of Pub. L. 90–351 provided that:
 
 &emsp;“(9) that the existing licensing system under the Federal Firearms Act \[former sections 901 to 910 of Title 15, Commerce and Trade\] does not provide adequate license fees or proper standards for the granting or denial of licenses, and that this has led to licenses being issued to persons not reasonably entitled thereto, thus distorting the purposes of the licensing system.
 
-“(b) The Congress further hereby declares that the purpose of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15, Commerce and Trade\] is to cope with the conditions referred to in the foregoing subsection, and that it is not the purpose of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\] to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trap shooting, target shooting, personal protection, or any other lawful activity, and that this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\] is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes, or provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\].”
+“(b) The Congress further hereby declares that the purpose of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15, Commerce and Trade\] is to cope with the conditions referred to in the foregoing subsection, and that it is not the purpose of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\] to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trap shooting, target shooting, personal protection, or any other lawful activity, and that this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\] is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes, or provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implementand effectuate the provisions of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\].”
 
 #### Administration and Enforcement
 

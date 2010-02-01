@@ -16,7 +16,7 @@ The words “district court” were substituted for “circuit court,” upon in
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–293 substituted “$5,000 for a violation occurring in 2004; $10,000 for a violationoccurring in 2005; $15,000 for a violation occurring in 2006; $20,000 for a violation occurring in 2007; and $25,000 for a violation occurring in 2008 and any year thereafter” for “$1,000”.
+2004—Subsec. (b). Pub. L. 108–293 substituted “$5,000 for a violation occurring in 2004; $10,000 for a violation occurring in 2005; $15,000 for a violation occurring in 2006; $20,000 for a violation occurring in 2007; and $25,000 for a violation occurring in 2008 and any year thereafter” for “$1,000”.
 
 1983—Subsec. (a). Pub. L. 97–449 substituted “Secretary of Transportation” for “Secretary of War” wherever appearing. See Transfer of Functions note below.
 

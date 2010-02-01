@@ -2,7 +2,7 @@
 
 #### (a) Engage in work, promulgate rules and regulations, etc., to implement and administer this subchapter
 
-The Secretary or the State pursuant to an approved State program, shall have the power andauthority, if not granted it otherwise, to engage in any work and to do all things necessary or expedient, including promulgation of rules and regulations, to implement and administer the provisions of this subchapter.
+The Secretary or the State pursuant to an approved State program, shall have the power and authority, if not granted it otherwise, to engage in any work and to do all things necessary or expedient, including promulgation of rules and regulations, to implement and administer the provisions of this subchapter.
 
 #### (b) Engage in cooperative projects
 
@@ -24,7 +24,7 @@ The Secretary may transfer funds to other appropriate Federal agencies, in order
 
 #### References in Text
 
-The Federal Water Pollution Control Act (33 U.S.C.A. 1151, et seq. as amended), referred to in subsec. (d), is act June 30, 1948, ch. 758, 62 Stat. 1155, formerly classified to chapter 23 (§1151 et seq.) of Title 33, Navigation and Navigable Waters, which was completely revised by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, and is classified generally to chapter 26 (§1251 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act (33 U.S.C.A. 1151, et seq. as amended), referred to in subsec. (d), isact June 30, 1948, ch. 758, 62 Stat. 1155, formerly classified to chapter 23 (§1151 et seq.) of Title 33, Navigation and Navigable Waters, which was completely revised by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, and is classified generally to chapter 26 (§1251 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 #### Prior Provisions
 

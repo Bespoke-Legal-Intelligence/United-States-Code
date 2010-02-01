@@ -24,7 +24,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 (4) The appointment of any individual as a special master shall be for a term of 4 years, subject to termination under paragraphs (2) and (3). Individuals serving as special masters on December 19, 1989, shall serve for 4 years from the date of their original appointment, subject to termination under paragraphs (2) and (3). The chief special master in office on December 19, 1989, shall continue to serve as chief special master for the balance of the master's term, subject to termination under paragraphs (2) and (3).
 
-(5) The compensation of the special masters shall be determined by the judges of the United States Court of Federal Claims, upon advice of the chief special master. The salary of the chief special master shall be the annual rate of basic pay for level IV of the Executive Schedule, as prescribed by section 5315, title 5. The salaries of the other special masters shall not exceed the annual rate of basic pay of level V of the Executive Schedule, as prescribed by section 5316, title 5.
+(5) The compensation of the special masters shall be determined by the judges of the United States Court of Federal Claims, upon advice of the chief special master. The salary of the chief special master shall be the annual rate of basic pay for level IV of the Executive Schedule, as prescribed by section 5315, title 5. The salaries of the other special masters shall not exceed theannual rate of basic pay of level V of the Executive Schedule, as prescribed by section 5316, title 5.
 
 (6) The chief special master shall be responsible for the following:
 
@@ -148,7 +148,7 @@ A prior section 2112 of act July 1, 1944, was successively renumbered by subsequ
 
 Subsec. (g). Pub. L. 102–168, §201(h)(3), made technical amendment to underlying provisions of original Act.
 
-Pub. L. 102–168, §201(d)(1), substituted “or the petitioner may choose under section 300aa–21(b) of this title to have the petition remain before the special master or court, as the case may be” for “and the petition will be considered withdrawn under such section if the petitioner, the special master, or the court do not take certain actions” before period at end.
+Pub. L. 102–168, §201(d)(1), substituted “or the petitioner may choose under section 300aa–21(b) of this title to have the petition remain before the special masteror court, as the case may be” for “and the petition will be considered withdrawn under such section if the petitioner, the special master, or the court do not take certain actions” before period at end.
 
 1990—Subsec. (d)(3)(D). Pub. L. 101–502, §5(b)(1), added subpar. (D).
 
@@ -220,7 +220,7 @@ Amendment by Pub. L. 101–502 effective Sept. 30, 1990, see section 5(h) of Pub
 
 #### Effective Date of 1989 Amendment
 
-For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediatesuspension for 30 days of all pending cases, except that such suspension be excluded in determining the 240-day period prescribed in subsec. (d) of this section, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
+For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, except that such suspension be excluded in determining the 240-day period prescribed in subsec. (d) of this section, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -232,7 +232,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (c)(6)(E) of t
 
 #### Review by 3-Judge Panel
 
-Section 322(c) of Pub. L. 99–660, as added by Pub. L. 101–502, §5(g)(2), Nov. 3, 1990, 104 Stat. 1288, and amended by Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516, provided that: “If the review authorized by section 2112(f) \[subsec. (f) of this section\] is held invalid because the judgment of the United States Court of Federal Claims being reviewed did not arise from a case or controversy under Article III of the Constitution, such judgment shall be reviewed by a 3-judge panel of the United States Court of Federal Claims. Such panel shall not include the judge who participated in such judgment.”
+Section 322(c) of Pub. L. 99–660, as added by Pub. L. 101–502, §5(g)(2), Nov. 3, 1990, 104 Stat. 1288, and amendedby Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516, provided that: “If the review authorized by section 2112(f) \[subsec. (f) of this section\] is held invalid because the judgment of the United States Court of Federal Claims being reviewed did not arise from a case or controversy under Article III of the Constitution, such judgment shall be reviewed by a 3-judge panel of the United States Court of Federal Claims. Such panel shall not include the judge who participated in such judgment.”
 
 \[Enactment of section 322(c) of Pub. L. 99–660 by section 5(g)(2) of Pub. L. 101–502, set out above, effective Nov. 14, 1986, see section 5(h) of Pub. L. 101–502, set out as an Effective Date of 1990 Amendment note under section 300aa–11 of this title.\]
 

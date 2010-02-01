@@ -22,7 +22,7 @@ In this section:
 
 #### (5) Product
 
-&emsp;The term “product” does not include any energy consuming product or system designed orprocured for combat or combat-related missions.
+&emsp;The term “product” does not include any energy consuming product or system designed or procured for combat or combat-related missions.
 
 #### (b) Procurement of energy efficient products
 
@@ -52,7 +52,7 @@ Energy Star products and FEMP designated products shall be clearly identified an
 
 #### (d) Specific products
 
-(1) In the case of electric motors of 1 to 500 horsepower, agencies shall select only premium efficient motors that meet a standard designated by the Secretary. The Secretary shall designate such a standard not later than 120 days after August 8, 2005, after considering the recommendations of associated electric motor manufacturers and energy efficiency groups.
+(1) In the case of electric motors of 1 to 500 horsepower, agencies shall select only premium efficient motors that meet a standard designated by the Secretary. The Secretary shall designate such a standard not later than 120days after August 8, 2005, after considering the recommendations of associated electric motor manufacturers and energy efficiency groups.
 
 (2) All Federal agencies are encouraged to take actions to maximize the efficiency of air conditioning and refrigeration equipment, including appropriate cleaning and maintenance, including the use of any system treatment or additive that will reduce the electricity consumed by air conditioning and refrigeration equipment. Any such treatment or additive must be—
 
@@ -98,7 +98,7 @@ Energy Star products and FEMP designated products shall be clearly identified an
 
 #### (4) Eligible products
 
-&emsp;The Secretary, in consultation with the Secretary of Defense, the Administrator of theEnvironmental Protection Agency, and the Administrator of General Services, shall compile a publicly accessible list of cost-effective eligible products that shall be subject to the purchasing requirements of paragraph (2).
+&emsp;The Secretary, in consultation with the Secretary of Defense, the Administrator of the Environmental Protection Agency, and the Administrator of General Services, shall compile a publicly accessible list of cost-effective eligible products that shall be subject to the purchasing requirements of paragraph (2).
 
 #### (f) Regulations
 

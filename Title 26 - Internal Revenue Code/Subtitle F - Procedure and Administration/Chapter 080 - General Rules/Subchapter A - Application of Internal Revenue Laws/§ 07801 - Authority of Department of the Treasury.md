@@ -370,7 +370,7 @@ Report.—The Commissioner shall not later than March 1 of each year report the 
 
 #### National Commission on Restructuring Internal Revenue Service
 
-Pub. L. 104–52, title VI, §637, Nov. 19, 1995, 109 Stat. 509, as amended by Pub. L. 104–134, title II, §2904(a),Apr. 26, 1996, 110 Stat. 1321–333; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §643(a)–(e)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365, provided that:
+Pub. L. 104–52, title VI, §637, Nov. 19, 1995, 109 Stat. 509, as amended by Pub. L. 104–134, title II, §2904(a), Apr. 26, 1996, 110 Stat. 1321–333; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §643(a)–(e)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365, provided that:
 
 “(a)
 

@@ -1,6 +1,6 @@
 ### §119. Establishment; notice in Federal Register; administration; exchange and acquisition of lands; remaining funds
 
-In order to permit the establishment of the Petrified Forest National Monument, Arizona, and other lands as provided for herein, as the Petrified Forest National Park, such national park shall be established (a) after title to all of the lands described in section 119a of this title shall have been vested in the United States, with the exception of such easements and rights-of-way for railroad, public utilities, and highway purposes as may be acceptable to the Secretary of the Interior, and (b) when notification of the effective date of such establishmentof the park, as determined by the said Secretary, is published in the Federal Register. Disestablishment of the Petrified Forest National Monument shall be effected concurrently with the establishment of the park.
+In order to permit the establishment of the Petrified Forest National Monument, Arizona, and other lands as provided for herein, as the Petrified Forest National Park, such national park shall be established (a) after title to all of the lands described in section 119a of this title shall have been vested in the United States, with the exception of such easements and rights-of-way for railroad, public utilities, and highway purposes as may be acceptable to the Secretary of the Interior, and (b) when notification of the effective date of such establishment of the park, as determined by the said Secretary, is published in the Federal Register. Disestablishment of the Petrified Forest National Monument shall be effected concurrently with the establishment of the park.
 
 The Petrified Forest National Park shall be preserved and administered in its natural condition by the Secretary of the Interior for the public benefit in accordance with the general laws governing areas of the National Park System and in accordance with the basic policies relating thereto as prescribed by sections 1, 2, 3, and 4 of this title.
 
@@ -14,7 +14,7 @@ Upon establishment of the Petrified Forest National Park, as authorized by this 
 
 #### Petrified Forest National Park Expansion
 
-Pub. L. 108–430, Dec. 3, 2004, 118 Stat. 2606, provided that:
+Pub. L. 108–430, Dec. 3, 2004, 118 Stat. 2606, as amended by Pub. L. 111–11, title VII, §7116(d), Mar. 30, 2009, 123 Stat. 1203, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -26,7 +26,7 @@ Pub. L. 108–430, Dec. 3, 2004, 118 Stat. 2606, provided that:
 
 &emsp;“(1)
 
-Map.—The term ‘map’ means the map entitled ‘Proposed Boundary Adjustments, Petrified Forest National Park’, numbered 110/80,044, and dated July 2004.
+Map.—The term ‘map’ means the map entitled ‘Proposed Boundary Adjustments, Petrified Forest National Park’, numbered 110/80,045, and dated January 2005.
 
 &emsp;“(2)
 

@@ -6,7 +6,7 @@
 
 (3) For the purposes of this section “United States” means the fifty States, Guam, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, the Commonwealth of the Northern Mariana Islands, and the District of Columbia.
 
-(4) The Secretary shall administer the special milk program provided for by this section to the maximum extent practicable in the same manner as the Secretary administered the special milk program provided for by this chapter during the fiscal year ending June 30, 1969.
+(4) The Secretary shall administer the special milk program provided for by this section to the maximum extent practicable in the same manner as the Secretary administered the specialmilk program provided for by this chapter during the fiscal year ending June 30, 1969.
 
 (5) Any school or nonprofit child care institution which does not participate in a meal service program authorized under this chapter or the Richard B. Russell National School Lunch Act shall receive the special milk program upon its request.
 

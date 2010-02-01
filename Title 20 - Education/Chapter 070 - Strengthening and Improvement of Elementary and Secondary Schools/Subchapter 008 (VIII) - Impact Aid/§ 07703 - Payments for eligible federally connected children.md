@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(C) Multiply the number of children described in subparagraphs (A) and (B) of paragraph (1) by a factor of .35 if the local educational agency has—
 
-&emsp;&emsp;&emsp;(i) a number of such children described in such subparagraphs which exceeds 6,500; and
+&emsp;&emsp;&emsp;(i) a number of such children described in such subparagraphs which exceeds 5,000; and
 
 &emsp;&emsp;&emsp;(ii) an average daily attendance for all children which exceeds 100,000.
 
@@ -374,7 +374,7 @@ Notwithstanding any other provision of law, a local educational agency receiving
 
 A local educational agency may receive funds under subsection (b) of this section and section 7702 of this title for any fiscal year only if the State educational agency finds that either the combined fiscal effort per student or the aggregate expenditures of that agency and the State with respect to the provision of free public education by that agency for the preceding fiscal year was not less than 90 percent of such combined fiscal effort or aggregate expenditures for the second preceding fiscal year.
 
-(Pub. L. 89–10, title VIII, §8003, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3752; amended Pub. L. 104–106, div. A, title X, §1074(f), (g), Feb. 10, 1996, 110 Stat. 448, 449; Pub. L. 104–195, §§3(a), 4(a), 5(a), (b), Sept. 16, 1996, 110 Stat. 2380–2382; Pub. L. 104–201, div. A, title III, §376, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §307(a)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60005(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1497; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §§1804(a), (b)(1), (c), 1805–1808(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–372, 1654A–374 to 1654A–382; Pub. L. 106–554, §1(a)(1) \[title III, §323\], Dec. 21, 2000, 114 Stat. 2763, 2763A–61; Pub. L. 107–20, title II, §2703(a), July 24, 2001, 115 Stat. 182; Pub. L. 107–110, title VIII, §802(a)(1), Jan. 8, 2002, 115 Stat. 1949; Pub. L. 107–206, title I, §§801, 802, Aug. 2, 2002, 116 Stat. 874; Pub. L. 107–279, title IV, §406(a), Nov. 5, 2002, 116 Stat. 1986; Pub. L. 107–314, div. A, title III, §344, Dec. 2, 2002, 116 Stat. 2515; Pub. L. 108–136, div. A, title V, §537(a), Nov. 24, 2003, 117 Stat. 1475.)
+(Pub. L. 89–10, title VIII, §8003, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3752; amended Pub. L. 104–106, div. A, title X, §1074(f), (g), Feb. 10, 1996, 110 Stat. 448, 449; Pub. L. 104–195, §§3(a), 4(a), 5(a), (b), Sept. 16, 1996, 110 Stat. 2380–2382; Pub. L. 104–201, div. A, title III, §376, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §307(a)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60005(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1497; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §§1804(a), (b)(1), (c), 1805–1808(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–372, 1654A–374 to 1654A–382; Pub. L. 106–554, §1(a)(1) \[title III, §323\], Dec. 21, 2000, 114 Stat. 2763, 2763A–61; Pub. L. 107–20, title II, §2703(a), July 24, 2001, 115 Stat. 182; Pub. L. 107–110, title VIII, §802(a)(1), Jan. 8, 2002, 115 Stat. 1949; Pub. L. 107–206, title I, §§801, 802, Aug. 2, 2002, 116 Stat. 874; Pub. L. 107–279, title IV, §406(a), Nov. 5, 2002, 116 Stat. 1986; Pub. L. 107–314, div. A, title III, §344, Dec. 2, 2002, 116 Stat. 2515; Pub. L. 108–136, div. A, title V, §537(a), Nov. 24, 2003, 117 Stat. 1475; Pub. L. 111–84, div. A, title V, §536, Oct. 28, 2009, 123 Stat. 2293.)
 
 #### References in Text
 
@@ -393,6 +393,8 @@ Provisions similar to those in this section were contained in section 238 of thi
 A prior section 8003 of Pub. L. 89–10 was renumbered section 9003 and was classified to section 3383 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 #### Amendments
+
+2009—Subsec. (a)(2)(C)(i). Pub. L. 111–84 substituted “5,000” for “6,500”.
 
 2003—Subsec. (b)(2)(H)(i), (ii). Pub. L. 108–136 added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 

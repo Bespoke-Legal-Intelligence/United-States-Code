@@ -20,5 +20,5 @@ The Secretary of the Navy should ensure, in any case in which the Secretary awar
 
 #### Effective Date
 
-Section 1225(b) of Pub. L. 100–456 provided that: “Section 7313 \[now 7314\] of title 10, United States Code, asadded by subsection (a), applies to any award by the Secretary of the Navy made after the end of the 30-day period beginning on the date of the enactment of this Act \[Sept. 29, 1988\] for repair, alteration, overhaul, or conversion of a naval vessel following competition between public and private shipyards.”
+Section 1225(b) of Pub. L. 100–456 provided that: “Section 7313 \[now 7314\] of title 10, United States Code, as added by subsection (a), applies to any award by the Secretary of the Navy made after the end of the 30-day period beginning on the date of the enactment of this Act \[Sept. 29, 1988\] for repair, alteration, overhaul, or conversion of a naval vessel following competition between public and private shipyards.”
 

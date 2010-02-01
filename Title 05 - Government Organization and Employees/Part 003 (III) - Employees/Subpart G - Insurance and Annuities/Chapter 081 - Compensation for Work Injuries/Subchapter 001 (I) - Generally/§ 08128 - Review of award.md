@@ -12,7 +12,7 @@
 
 &emsp;(2) not subject to review by another official of the United States or by a court by mandamus or otherwise.
 
-> Credit shall be allowed in the accounts of a certifying or disbursing official for payment in accordance with that action.
+> Credit shall be allowed in the accounts of a certifying or disbursing official for payments in accordance with that action.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 545.)
 

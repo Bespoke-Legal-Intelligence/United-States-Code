@@ -56,7 +56,7 @@ As used in this chapter:
 
 #### (9) Industry information
 
-&emsp;The term “industry information” means information and programs that are designed toincrease efficiency in processing, enhance the development of new markets and marketing strategies, increase marketing efficiency, and activities to enhance the image of Hass avocados and the Hass avocado industry domestically.
+&emsp;The term “industry information” means information and programs that are designed to increase efficiency in processing, enhance the development of new markets and marketing strategies, increase marketing efficiency, and activities to enhance the image of Hass avocados and the Hass avocado industry domestically.
 
 #### (10) Order
 

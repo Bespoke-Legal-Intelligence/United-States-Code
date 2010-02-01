@@ -14,7 +14,7 @@ Review of Remand Orders.—
 
 &emsp;(1)
 
-In general.—Section 1447 shall apply to any removal of a case under this section, except that notwithstanding section 1447(d), a court of appeals may accept an appeal from an order of a district court granting or denying a motion to remand a class action to the State court from which it was removed if application is made to the court of appeals not less than 7 days after entry of the order.
+In general.—Section 1447 shall apply to any removal of a case under this section, except that notwithstanding section 1447(d), a court of appeals may accept an appeal from an order of a district court granting or denying a motion to remand a class action to the State court from which it was removed if application is made to the court of appeals not more than 10 days after entry of the order.
 
 &emsp;(2)
 
@@ -42,7 +42,15 @@ Exception.—This section shall not apply to any class action that solely involv
 
 &emsp;(3) a claim that relates to the rights, duties (including fiduciary duties), and obligations relating to or created by or pursuant to any security (as defined under section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)) and the regulations issued thereunder).
 
-(Added Pub. L. 109–2, §5(a), Feb. 18, 2005, 119 Stat. 12.)
+(Added Pub. L. 109–2, §5(a), Feb. 18, 2005, 119 Stat. 12; amended Pub. L. 111–16, §6(2), May 7, 2009, 123 Stat. 1608.)
+
+#### Amendments
+
+2009—Subsec. (c)(1). Pub. L. 111–16 substituted “not more than 10 days” for “not less than 7 days”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 111–16, set out as a note under section 109 of Title 11, Bankruptcy.
 
 #### Effective Date
 

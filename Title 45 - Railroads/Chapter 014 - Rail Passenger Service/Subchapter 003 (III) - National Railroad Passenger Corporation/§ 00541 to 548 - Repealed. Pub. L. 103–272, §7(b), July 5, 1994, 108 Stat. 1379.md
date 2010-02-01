@@ -1,6 +1,6 @@
 ### §§541 to 548. Repealed. Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379
 
-Section 541, Pub. L. 91–518, title III, §301, Oct. 30, 1970, 84 Stat. 1330; Pub. L. 95–421, §11, Oct. 5, 1978, 92 Stat.928; Pub. L. 97–35, title XI, §1188(a), Aug. 13, 1981, 95 Stat. 699; Pub. L. 100–342, §18(a), June 22, 1988, 102 Stat. 636, authorized establishment of National Railroad Passenger Corporation. See sections 24101 and 24301 of Title 49, Transportation.
+Section 541, Pub. L. 91–518, title III, §301, Oct. 30, 1970, 84 Stat. 1330; Pub. L. 95–421, §11, Oct. 5, 1978, 92 Stat. 928; Pub. L. 97–35, title XI, §1188(a), Aug. 13, 1981, 95 Stat. 699; Pub. L. 100–342, §18(a), June 22, 1988, 102 Stat. 636, authorized establishment of National Railroad Passenger Corporation. See sections 24101 and 24301 of Title 49, Transportation.
 
 Section 542, Pub. L. 91–518, title III, §302, Oct. 30, 1970, 84 Stat. 1330, related to Presidential appointment of incorporators to establish National Railroad Passenger Corporation.
 

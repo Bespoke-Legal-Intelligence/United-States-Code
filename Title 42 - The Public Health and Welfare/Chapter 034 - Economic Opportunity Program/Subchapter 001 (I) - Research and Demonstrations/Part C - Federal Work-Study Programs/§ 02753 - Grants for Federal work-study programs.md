@@ -26,7 +26,7 @@ An agreement entered into pursuant to this section shall—
 
 &emsp;(3) provide that in the selection of students for employment under such work-study program, only students who demonstrate financial need in accordance with part F \[20 U.S.C. 1087kk et seq.\] and meet the requirements of section 1091 of title 20 will be assisted, except that if the institution's grant under this part is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution on less than a full-time basis, or (B) independent students, a reasonable portion of the grant shall be made available to such students;
 
-&emsp;(4) provide that for a student employed in a work-study program under this part, at the time income derived from any need-based employment is in excess of the determination of the amount of such student's need by more than $300, continued employment shall not be subsidized with funds appropriated under this part;
+&emsp;(4) provide that for a student employed in a work-study program under this part, at thetime income derived from any need-based employment is in excess of the determination of the amount of such student's need by more than $300, continued employment shall not be subsidized with funds appropriated under this part;
 
 &emsp;(5) provide that the Federal share of the compensation of students employed in the work-study program in accordance with the agreement shall not exceed 75 percent, except that—
 
@@ -82,7 +82,7 @@ As part of its agreement agreement <sup>2</sup> described in subsection (b) of 
 
 #### (1) Use of funds
 
-&emsp;In any academic year to which subsection (b)(2)(B) of this section applies, an institution shall ensure that funds granted to such institution under this section are used in accordance with such subsection to compensate (including compensation for time spent in training and travel directly related to tutoring in reading and family literacy activities) students—
+&emsp;In any academic year to which subsection (b)(2)(A) applies, an institution shall ensure that funds granted to such institution under this section are used in accordance with such subsection to compensate (including compensation for time spent in training and travel directly related to tutoring in reading and family literacy activities) students—
 
 &emsp;&emsp;(A) employed as reading tutors for children who are preschool age or are in elementary school; or
 
@@ -108,7 +108,7 @@ As part of its agreement agreement <sup>2</sup> described in subsection (b) of 
 
 #### (1) Use of funds
 
-&emsp;Funds granted to an institution under this section may be used in accordance with such subsection <sup>2</sup> to compensate (including compensation for time spent in training and travel directly related to civic education and participation activities) students employed in projects that—
+&emsp;Funds granted to an institution under this section may be used to compensate (including compensation for time spent in training and travel directly related to civic education and participation activities) students employed in projects that—
 
 &emsp;&emsp;(A) teach civics in schools;
 
@@ -128,19 +128,25 @@ As part of its agreement agreement <sup>2</sup> described in subsection (b) of 
 
 &emsp;The Federal share of the compensation of work-study students compensated under this subsection may exceed 75 percent.
 
-(Pub. L. 89–329, title IV, §443, as added Pub. L. 96–374, title IV, §434, Oct. 3, 1980, 94 Stat. 1434; amended Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1432; Pub. L. 100–50, §11(b), (c), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §§441(a)(2), 443, July 23, 1992, 106 Stat. 563, 564; Pub. L. 103–208, §2(d)(3)–(5), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §443, Oct. 7, 1998, 112 Stat. 1712; Pub. L. 110–315, title IV, §443, Aug. 14, 2008, 122 Stat. 3258.)
+(Pub. L. 89–329, title IV, §443, as added Pub. L. 96–374, title IV, §434, Oct. 3, 1980, 94 Stat. 1434; amended Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1432; Pub. L. 100–50, §11(b), (c), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §§441(a)(2), 443, July 23, 1992, 106 Stat. 563, 564; Pub. L. 103–208, §2(d)(3)–(5), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §443, Oct. 7, 1998, 112 Stat. 1712; Pub. L. 110–315, title IV, §443, Aug. 14, 2008, 122 Stat. 3258; Pub. L. 111–39, title IV, §403, July 1, 2009, 123 Stat. 1945.)
 
 #### References in Text
 
-Part F, referred to in subsec. (b)(3), means part F of title IV of Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, known as the Higher Education Act of 1965. Part F of title IV of the Act is classified generally to part E (§1087kk et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+Part F, referred to in subsec. (b)(3), means part F of title IV of Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, known as the Higher Education Act of 1965. Part F of title IV of the Act is classified generally to part E (§1087kk et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2)(A)(ii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2)(A)(ii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Prior Provisions
 
 A prior section 2753, Pub. L. 89–329, title IV, §443, formerly title I, §143, as added, renumbered title IV, §443, and amended Pub. L. 90–575, title I, §§131(a), (b)(1), 133(a), (b), 139(1), Oct. 16, 1968, 82 Stat. 1028, 1029, 1030; Pub. L. 94–482, title I, §128(b), Oct. 12, 1976, 90 Stat. 2143, made provision for the grants for work-study programs, prior to repeal by Pub. L. 96–374, §434.
 
 #### Amendments
+
+2009—Subsec. (b)(2). Pub. L. 111–39, §403(1), made technical amendment to reference in original act which appears in text as reference to this section in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 111–39, §403(2), substituted “subsection (b)(2)(A)” for “subsection (b)(2)(B)”.
+
+Subsec. (e)(1). Pub. L. 111–39, §403(3), struck out “in accordance with such subsection” before “to compensate” in introductory provisions.
 
 2008—Subsec. (b)(2)(A) to (C). Pub. L. 110–315, §443(1), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “for fiscal year 1999, an institution shall use at least 5 percent of the total amount of funds granted to such institution under this section in any fiscal year to compensate students employed in community service (including a reasonable amount of time spent in travel or training directly related to such community service), except that the Secretary may waive this subparagraph if the Secretary determines that enforcing it would cause hardship for students at an institution;”.
 
@@ -214,6 +220,10 @@ Subsec. (c). Pub. L. 100–50, §11(c), substituted “As part of its agreement�
 
 1986—Pub. L. 99–498 amended section generally, inserting provisions relating to private sector employment agreements.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on Aug. 14, 2008, see section 3 of Pub. L. 111–39, set out as a note under section 1001 of Title 20, Education.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
@@ -228,7 +238,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of Title 20, Education.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of Title 20, Education.
 
 #### Effective Date of 1986 Amendment
 

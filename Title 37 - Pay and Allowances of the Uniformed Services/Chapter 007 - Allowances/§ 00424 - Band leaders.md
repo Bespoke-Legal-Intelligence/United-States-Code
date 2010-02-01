@@ -2,7 +2,7 @@
 
 (a) The leader of the Army Band is entitled to the allowances of a captain in the Army.
 
-(b) The leader of the United State Navy Band is entitled to the allowances of a lieutenant of the Navy.
+(b) The leader of the United States Navy Band is entitled to the allowances of a lieutenant of the Navy.
 
 (c) A member of the Marine Corps who is appointed as director or assistant director of the United States Marine Corps Band under section 6222 of title 10, is entitled, while serving thereunder, only to the allowances of an officer in the grade in which he is serving. However, his allowances may not be less than those to which he was entitled at the time of his appointment under that section.
 

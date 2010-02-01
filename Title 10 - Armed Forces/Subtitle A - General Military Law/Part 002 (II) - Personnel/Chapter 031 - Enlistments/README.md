@@ -60,7 +60,7 @@ Pub. L. 90–235, §2(a)(1)(C), Jan. 2, 1968, 81 Stat. 755, redesignated item 50
 
 1958—Pub. L. 85–861, §1(9)(B), (C), Sept. 2, 1958, 72 Stat. 1440, struck out item 513 “Reserve components: promotions” and added item 516.
 
-<i><sup>1</sup></i><i> Chapter 81 amended by Pub. L. 106–65 by adding section 1580 without corresponding amendment of part analysis.</i>
+<i><sup>1</sup></i><i> Chapter 53 amended by Pub. L. 110–181 by adding section 1030 without corresponding amendment of part analysis.</i>
 
 
 ---

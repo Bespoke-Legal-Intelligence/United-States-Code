@@ -10,7 +10,7 @@ Definitions.—In this section—
 
 (b)
 
-Preference.—Subject to subsections (c) and (d) of this section, the Administrator of the Federal Aviation Administration may make, with a domestic firm, a contract related to a grant made under section 44511, 44512, or 44513 of this title that, under competitive procedures, would be made with a foreign firm, if—
+Preference.—Subject to subsections (c) and (d) of this section, the Administrator of the Federal Aviation Administration may make, with a domestic firm, a contract related to a grant made under section 44511, 44512, or 44513 ofthis title that, under competitive procedures, would be made with a foreign firm, if—
 
 &emsp;(1) the Administrator decides, and the Secretary of Commerce and the United States Trade Representative concur, that the public interest requires making the contract with the domestic firm, considering United States international obligations and trade relations;
 
@@ -82,7 +82,7 @@ Nov. 5, 1990, Pub. L. 101–508, §9207, 104 Stat. 1388–375.
 
 In subsection (a), the text of 49 App.:2226d(e)(1) is omitted because the complete name of the Administrator of the Federal Aviation Administration is used the first time the term appears in a section.
 
-In subsection (b), before clause (1), the words “Subject to subsections (c) and (d) of this section” are added to alert the reader to the limitations in those subsections. In clause (1), the words “requires making the contract with the domestic firm” are substituted for “so requires” for clarity. The words “considering United States international obligations and trade relations” are substituted for “In determining under this subsection whether the public interest so requires, the Administrator shall take into account United States international obligations and trade relations” to eliminate unnecessary words. In clause (4), the words “whencompletely assembled” are omitted as surplus. The words “produced in the United States” are substituted for “domestically produced” for consistency with clause (3).
+In subsection (b), before clause (1), the words “Subject to subsections (c) and (d) of this section” are added to alert the reader to the limitations in those subsections. In clause (1), the words “requires making the contract with the domestic firm” are substituted for “so requires” for clarity. The words “considering United States international obligations and trade relations” are substituted for “In determining under this subsection whether the public interest so requires, the Administrator shall take into account United States international obligations and trade relations” to eliminate unnecessary words. In clause (4), the words “when completely assembled” are omitted as surplus. The words “produced in the United States” are substituted for “domestically produced” for consistency with clause (3).
 
 In subsection (c), the words “(1) such applicability would not be in the public interest” are omitted as redundant to subsection (b)(1) of the revised section.
 

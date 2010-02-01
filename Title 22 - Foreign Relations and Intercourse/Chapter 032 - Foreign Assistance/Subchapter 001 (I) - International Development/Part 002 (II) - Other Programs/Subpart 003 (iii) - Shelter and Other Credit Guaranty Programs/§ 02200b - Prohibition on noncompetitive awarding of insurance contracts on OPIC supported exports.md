@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (3), the investor on whose behalf insurance, reinsurance, guaranties, or other financing is provided under this subpart with respect to a project shall be required to certify to the Corporation that any contract for the export of goods as part of that project will include a clause requiring that United States insurance companies have a fair and open competitive opportunity to provide insurance against risk of loss of such export.
+&emsp;Except as provided in paragraph (3), the investor on whose behalf insurance, reinsurance,guaranties, or other financing is provided under this subpart with respect to a project shall be required to certify to the Corporation that any contract for the export of goods as part of that project will include a clause requiring that United States insurance companies have a fair and open competitive opportunity to provide insurance against risk of loss of such export.
 
 #### (2) When certification must be made
 

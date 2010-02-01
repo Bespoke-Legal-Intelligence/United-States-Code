@@ -8,7 +8,7 @@
 
 (c) Members of the National Guard participating in an exercise under subsection (a) may, after being mustered, be paid for the period beginning with the date of leaving home and ending with the date of return, as determined in advance. If otherwise correct, such a payment passes to the credit of the disbursing officer.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 610; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 104–106, div. A, title V, §517, Feb. 10, 1996, 110 Stat. 309; Pub. L. 109–163, div. A, title X, §1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 610; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 104–106, div. A, titleV, §517, Feb. 10, 1996, 110 Stat. 309; Pub. L. 109–163, div. A, title X, §1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
 
 Historical and Revision Notes
 
@@ -32,7 +32,7 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §§94 (less last 43 words after semicolon), 98, 39 Stat. 206, 207.
 
-In subsection (a), the words “the whole or any part” and “any part of” are omitted as surplusage. The word “Army” is substituted for the words “Regular Army”, since the Army is the category that participates in theexercises, and the Regular Army is a personnel category only. Similarly, the words “Air Force” are used instead of the words “Regular Air Force”.
+In subsection (a), the words “the whole or any part” and “any part of” are omitted as surplusage. The word “Army” is substituted for the words “Regular Army”, since the Army is the category that participates in the exercises, and the Regular Army is a personnel category only. Similarly, the words “Air Force” are used instead of the words “Regular Air Force”.
 
 In subsection (b), the words “Amounts necessary” are substituted for the words “such portion of said funds as may be necessary”. The words “participating in an exercise under subsection (a)” are substituted for the words “as shall participate in such encampments, maneuvers, or other exercises, including outdoor target practice, for field and coast-defense instruction”. The words “allocated to it from appropriations for field or coast-defense instruction” are substituted for the words “appropriated for that purpose and allocated to any State, Territory, or the District of Columbia”.
 

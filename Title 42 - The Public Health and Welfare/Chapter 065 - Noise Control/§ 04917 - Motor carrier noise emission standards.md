@@ -6,7 +6,7 @@
 
 (2) Within ninety days after the publication of such regulations as may be proposed under paragraph (1) of this subsection, and subject to the provisions of section 4915 of this title, the Administrator shall promulgate final regulations. Such regulations may be revised from time to time, in accordance with this subsection.
 
-(3) Any standard or regulation, or revision thereof, proposed under this subsection shall be promulgated only after consultation with theSecretary of Transportation in order to assure appropriate consideration for safety and technological availability.
+(3) Any standard or regulation, or revision thereof, proposed under this subsection shall be promulgated only after consultation with the Secretary of Transportation in order to assure appropriate consideration for safety and technological availability.
 
 (4) Any regulation or revision thereof promulgated under this subsection shall take effect after such period as the Administrator finds necessary, after consultation with the Secretary of Transportation, to permit the development and application of the requisite technology, giving appropriate consideration to the cost of compliance within such period.
 

@@ -14,7 +14,7 @@ As used in this section:
 
 &emsp;(3) The term “farm program loan” means any loan made by the Administrator under the Small Business Act (15 U.S.C. 631 et seq.) for any of the purposes authorized for loans under subchapters <sup>1</sup> I or II of this chapter.
 
-&emsp;(4) The term “homestead property” means the principal residence and adjoining property possessed and occupied by a borrower-owner specified in paragraph (2) of this subsection, including a reasonable number of farm outbuildings located on the adjoining land that are useful to the occupants of the homestead,and no more than 10 acres of adjoining land that is used to maintain the family of the individual.
+&emsp;(4) The term “homestead property” means the principal residence and adjoining property possessed and occupied by a borrower-owner specified in paragraph (2) of this subsection, including a reasonable number of farm outbuildings located on the adjoining land that are useful to the occupants of the homestead, and no more than 10 acres of adjoining land that is used to maintain the family of the individual.
 
 &emsp;(5) The term “Secretary” means the Secretary of Agriculture.
 
@@ -56,13 +56,13 @@ As used in this section:
 
 (2) For purposes of subparagraphs (B) and (C) of paragraph (1), the term “farming or ranching operations” shall include rent paid by lessees of agricultural land during any period in which the borrower-owner, due to circumstances beyond the control of the borrower-owner, is unable to actively farm such land.
 
-(3) For the purposes of paragraph (1)(E), the failure of the borrower-owner to make timely rental payments shall constitute cause for the termination of all rights of such borrower-owner to possession and occupancy of the homestead property under this section. In effecting any such termination, the Secretary shall afford the borrower-owner or lessee the notice and hearing procedural rights described in section 1983b <sup>2</sup> of this title and shall comply with all applicable State and local laws governing eviction from residential property.
+(3) For the purposes of paragraph (1)(E), the failure of the borrower-owner to make timely rental payments shall constitute cause for the termination of all rights of such borrower-owner to possession and occupancy of the homesteadproperty under this section. In effecting any such termination, the Secretary shall afford the borrower-owner or lessee the notice and hearing procedural rights described in section 1983b <sup>2</sup> of this title and shall comply with all applicable State and local laws governing eviction from residential property.
 
 (4)(A) The period of occupancy allowed the prior owner of homestead property under this section shall be the period requested in writing by the prior owner, except that such period shall not exceed 5 years.
 
 (B) At any time during the period of occupancy of a borrower-owner who is a socially disadvantaged farmer or rancher (as defined in section 2003(e)(2) of this title), the borrower-owner or a member of the immediate family of the borrower-owner shall have a right of first refusal to reacquire the homestead property on such terms and conditions as the Secretary shall determine, except that the Secretary may not demand a payment for the homestead property that is in excess of the current market value of the homestead property as established by an independent appraisal. The independent appraisal shall be conducted by an appraiser selected by the borrower-owner or immediate family member, as the case may be, from a list of three appraisers approved by the county supervisor.
 
-(5) No rights of a borrower-owner under this section, and no agreement entered into between the borrower-owner and the Secretary for occupancy of the homestead property, shall be transferable or assignable by the borrower-owner orby operation of any law, except that in the case of death or incompetency of such borrower-owner, such rights and agreements shall be transferable to the spouse of the borrower-owner if the spouse agrees to comply with the terms and conditions thereof.
+(5) No rights of a borrower-owner under this section, and no agreement entered into between the borrower-owner and the Secretary for occupancy of the homestead property, shall be transferable or assignable by the borrower-owner or by operation of any law, except that in the case of death or incompetency of such borrower-owner, such rights and agreements shall be transferable to the spouse of the borrower-owner if the spouse agrees to comply with the terms and conditions thereof.
 
 (6) Not later than the date of acquisition of the property securing a loan made under this chapter (or, in the case of real property in inventory on April 4, 1996, not later than 5 days after April 4, 1996), the Secretary shall notify the borrower-owner from whom the property was acquired of the availability of homestead protection rights under this section.
 
@@ -108,7 +108,7 @@ Subsec. (c)(6). Pub. L. 104–127, §644(2), substituted “Not later than the d
 
 Subsec. (b)(2). Pub. L. 102–552, §516(j)(1), substituted “borrower-owner's” for “borrower's”.
 
-1991—Subsec. (a)(2) to (4). Pub. L. 102–237, §501(g), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “borrower-owner” for “borrower” in redesignated par. (4).
+1991—Subsec. (a)(2) to (4). Pub. L. 102–237, §501(g), added par. (2), redesignated former pars. (2) and (3) as\(3) and (4), respectively, and substituted “borrower-owner” for “borrower” in redesignated par. (4).
 
 Subsec. (b)(1). Pub. L. 102–237, §501(g)(2), substituted “borrower-owner” for “borrower” wherever appearing.
 

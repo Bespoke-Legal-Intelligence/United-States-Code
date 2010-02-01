@@ -58,7 +58,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(i) any electric generating unit subject to the licensing jurisdiction of the Nuclear Regulatory Commission; and
 
-&emsp;&emsp;(ii) any cogeneration facility, less than half of the annual electric power generation of which is sold or exchanged for resale, as determined by the Secretary.
+&emsp;&emsp;(ii) any cogeneration facility, less than half of the annual electric power generationof which is sold or exchanged for resale, as determined by the Secretary.
 
 &emsp;(C) For purposes of clause (ii) of subparagraph (A), there shall be excluded any unit which has a design capability to consume any fuel (including any mixture thereof) that does not equal or exceed 100 million Btu's per hour and the exclusion of which for purposes of such clause is determined by the Secretary, by rule, to be appropriate.
 
@@ -88,7 +88,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(ii) any pump or compressor used solely in connection with the production, gathering, transmission, storage, or distribution of gases or liquids, but only if there is certification to the Secretary of such use (in accordance with rules prescribed by the Secretary).
 
-&emsp;(C) For purposes of clause (ii) of subparagraph (A), there shall be excluded any unit which has a design capability to consume any fuel (including any mixture thereof) that does not equal or exceed 100 million Btu's per hourand the exclusion of which for purposes of such clause is determined by the Secretary, by rule to be appropriate.
+&emsp;(C) For purposes of clause (ii) of subparagraph (A), there shall be excluded any unit which has a design capability to consume any fuel (including any mixture thereof) that does not equal or exceed 100 million Btu's per hour and the exclusion of which for purposes of such clause is determined by the Secretary, by rule to be appropriate.
 
 &emsp;(11) The term “new major fuel-burning installation” means—
 
@@ -150,7 +150,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;(18)(A) The term “peakload powerplant” means a powerplant the electrical generation of which in kilowatt hours does not exceed, for any 12-calendar-month period, such powerplant's design capacity multiplied by 1,500 hours.
 
-&emsp;(B) The term “intermediate load powerplant” means a powerplant (other than a peakload powerplant), the electrical generation of which in kilowatt hours does not exceed, forany 12-calendar-month period, such powerplant's design capacity multiplied by 3,500 hours.
+&emsp;(B) The term “intermediate load powerplant” means a powerplant (other than a peakload powerplant), the electrical generation of which in kilowatt hours does not exceed, for any 12-calendar-month period, such powerplant's design capacity multiplied by 3,500 hours.
 
 &emsp;(C) The term “base load powerplant” means a powerplant the electrical generation of which in kilowatt hours exceeds, for any 12-calendar-month period, such powerplant's design capacity multiplied by 3,500 hours.
 
@@ -186,7 +186,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;(27) the term “Mcf” means, when used in relation to natural gas, 1,000 cubic feet of natural gas.
 
-&emsp;(28) The term “mixture”, when used in relation to fuels used in a unit, means a mixture of such fuels or a combination of such fuels used simultaneously or alternately in such unit.
+&emsp;(28) The term “mixture”, when used in relation to fuels used in a unit, means a mixtureof such fuels or a combination of such fuels used simultaneously or alternately in such unit.
 
 &emsp;(29) The term “fluidized bed combustion” means combustion of fuel in connection with a bed of inert material, such as limestone or dolomite, which is held in a fluid-like state by the means of air or other gases being passed through such materials.
 
@@ -216,7 +216,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (a)(17)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, whichis classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Clean Air Act, referred to in subsec. (a)(17)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 The Federal Water Pollution Control Act, referred to in subsec. (a)(17)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 

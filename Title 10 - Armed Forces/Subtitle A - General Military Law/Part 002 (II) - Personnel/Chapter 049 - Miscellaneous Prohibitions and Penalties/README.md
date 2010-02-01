@@ -5,7 +5,7 @@
 | [971\.](%C2%A7%2000971%20-%20Service%20credit%20officers%20may%20not%20count%20service%20performed%20while%20serving%20as%20cadet%20or%20midshipman.md) | Service credit: officers may not count service performed while serving as cadet or midshipman. |
 | [972\.](%C2%A7%2000972%20-%20Members%20effect%20of%20time%20lost.md) | Members: effect of time lost. |
 | [973\.](%C2%A7%2000973%20-%20Duties%20officers%20on%20active%20duty%3B%20performance%20of%20civil%20functions%20restricted.md) | Duties: officers on active duty; performance of civil functions restricted. |
-| [974\.](%C2%A7%2000974%20-%20Uniform%20performance%20policies%20for%20military%20bands%20and%20other%20musical%20units.md) | Uniform performance policies for military bands and other musical units. |
+| [974\.](%C2%A7%2000974%20-%20Military%20musical%20units%20and%20musicians%20performance%20policies%3B%20restriction%20on%20performance%20in%20competition%20with%20local%20civilian%20musicians.md) | Military musical units and musicians: performance policies; restriction on performance in competition with local civilian musicians. |
 | \[975. | Renumbered.\] |
 | [976\.](%C2%A7%2000976%20-%20Membership%20in%20military%20unions%2C%20organizing%20of%20military%20unions%2C%20and%20recognition%20of%20military%20unions%20prohibited.md) | Membership in military unions, organizing of military unions, and recognition of military unions prohibited. |
 | \[977. | Repealed.\] |
@@ -22,6 +22,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. A, title V, §591(b), Oct. 28, 2009, 123 Stat. 2337, substituted “Military musical units and musicians: performance policies; restriction on performance in competition with local civilian musicians” for “Uniform performance policies for military bands and other musical units” in item 974.
 
 2008—Pub. L. 110–181, div. A, title V, §590(a)(2), title X, §1072(b)(2), Jan. 28, 2008, 122 Stat. 138, 330, added item 974 and struck out item 986 “Security clearances: limitations”.
 
@@ -85,7 +87,7 @@ Pub. L. 95–485, title VIII, §815(b), Oct. 20, 1978, 92 Stat. 1626, added item
 - [&sect; 00971 - Service credit officers may not count service performed while serving as cadet or midshipman](%C2%A7%2000971%20-%20Service%20credit%20officers%20may%20not%20count%20service%20performed%20while%20serving%20as%20cadet%20or%20midshipman.md)
 - [&sect; 00972 - Members effect of time lost](%C2%A7%2000972%20-%20Members%20effect%20of%20time%20lost.md)
 - [&sect; 00973 - Duties officers on active duty; performance of civil functions restricted](%C2%A7%2000973%20-%20Duties%20officers%20on%20active%20duty%3B%20performance%20of%20civil%20functions%20restricted.md)
-- [&sect; 00974 - Uniform performance policies for military bands and other musical units](%C2%A7%2000974%20-%20Uniform%20performance%20policies%20for%20military%20bands%20and%20other%20musical%20units.md)
+- [&sect; 00974 - Military musical units and musicians performance policies; restriction on performance in competition with local civilian musicians](%C2%A7%2000974%20-%20Military%20musical%20units%20and%20musicians%20performance%20policies%3B%20restriction%20on%20performance%20in%20competition%20with%20local%20civilian%20musicians.md)
 - [&sect; 00975 - Renumbered &sect;2390](%C2%A7%2000975%20-%20Renumbered%20%C2%A72390.md)
 - [&sect; 00976 - Membership in military unions, organizing of military unions, and recognition of military unions prohibited](%C2%A7%2000976%20-%20Membership%20in%20military%20unions%2C%20organizing%20of%20military%20unions%2C%20and%20recognition%20of%20military%20unions%20prohibited.md)
 - [&sect; 00977 - Repealed. Pub. L. 108&#8211;375, div. A, title VI, &sect;651(e)(1), Oct. 28, 2004, 118 Stat. 1972](%C2%A7%2000977%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93375%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A7651%28e%29%281%29%2C%20Oct.%2028%2C%202004%2C%20118%20Stat.%201972.md)

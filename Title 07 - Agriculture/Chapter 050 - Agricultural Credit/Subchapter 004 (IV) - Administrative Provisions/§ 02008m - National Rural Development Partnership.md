@@ -180,7 +180,7 @@ In this section:
 
 #### (2) Exceptions to matching requirement for certain Federal funds
 
-&emsp;Paragraph (1) shall not apply to funds, grants, funds provided under contracts or cooperative agreements, gifts, contributions, or technical assistance received by a State rural development council from a Federal agency that are used—
+&emsp;Paragraph (1) shall not apply to funds, grants, funds provided under contracts or cooperative agreements, gifts, contributions, ortechnical assistance received by a State rural development council from a Federal agency that are used—
 
 &emsp;&emsp;(A) to support 1 or more specific program or project activities; or
 
@@ -204,7 +204,7 @@ In this section:
 
 #### (B) Assistance
 
-&emsp;&emsp;Federal agencies are encouraged to use funds made available for programs that have an impact on rural areas to provide assistance to, and enter into contracts with, theCoordinating Committee or a State rural development council, as described in subparagraph (A).
+&emsp;&emsp;Federal agencies are encouraged to use funds made available for programs that have an impact on rural areas to provide assistance to, and enter into contracts with, the Coordinating Committee or a State rural development council, as described in subparagraph (A).
 
 #### (3) Contributions
 

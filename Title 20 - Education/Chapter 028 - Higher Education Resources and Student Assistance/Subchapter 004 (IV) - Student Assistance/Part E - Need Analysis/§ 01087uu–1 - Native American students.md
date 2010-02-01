@@ -2,25 +2,33 @@
 
 In determining family contributions for Native American students, computations performed pursuant to this part shall exclude—
 
-&emsp;(1) any income and assets of $2,000 or less per individual payment received by the student (and spouse) and student's parents under the Per Capita Act or the Distribution of Judgment Funds Act \[25 U.S.C. 1401 et seq.\]; and
+&emsp;(1) any income and assets of $2,000 or less per individual payment received by the student (and spouse) and student's parents under Public Law 98–64 (25 U.S.C. 117a et seq.; 97 Stat. 365) (commonly known as the “Per Capita Act”) or the Indian Tribal Judgment Funds Use or Distribution Act (25 U.S.C. 1401 et seq.); and
 
-&emsp;(2) any income received by the student (and spouse) and student's parents under the Alaskan Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] or the Maine Indian Claims Settlement Act \[25 U.S.C. 1721 et seq.\].
+&emsp;(2) any income received by the student (and spouse) and student's parents under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) or the Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1721 et seq.).
 
-(Pub. L. 89–329, title IV, §479C, as added Pub. L. 100–50, §14(27), June 3, 1987, 101 Stat. 353; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606.)
+(Pub. L. 89–329, title IV, §479C, as added Pub. L. 100–50, §14(27), June 3, 1987, 101 Stat. 353; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 111–39, title IV, §406(a)(5), July 1, 2009, 123 Stat. 1949.)
 
 #### References in Text
 
-The Per Capita Act, referred to in par. (1), probably means Pub. L. 98–64, Aug. 2, 1983, 97 Stat. 365, which enacted sections 117a to 117c of Title 25, Indians, and repealed section 117 of Title 25. For complete classification of this Act to the Code, see Tables.
+Public Law 98–64, referred to in par. (1), is Pub. L. 98–64, Aug. 2, 1983, 97 Stat. 365, commonly known as the Per Capita Act, which enacted sections 117a to 117c of Title 25, Indians, and repealed section 117 of Title 25. For complete classification of this Act to the Code, see Tables.
 
-The Distribution of Judgment Funds Act, referred to in par. (1), is Pub. L. 93–134, Oct. 19, 1973, 87 Stat. 466, as amended, also known as the Indian Tribal Judgment Funds Use or Distribution Act, which is classified generally to chapter 16 (§1401 et seq.) of Title 25. For complete classification of this Act to the Code, see Tables.
+The Indian Tribal Judgment Funds Use or Distribution Act, referred to in par. (1), is Pub. L. 93–134, Oct. 19, 1973, 87 Stat. 466, which is classified generally to chapter 16 (§1401 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see section 1401(c) of Title 25 and Tables.
 
-The Alaskan Native Claims Settlement Act, referred to in par. (2), probably means the Alaska Native Claims Settlement Act, Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (2), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Maine Indian Claims Settlement Act, referred to in par. (2), probably means the Maine Indian Claims Settlement Act of 1980, Pub. L. 96–420, Oct. 10, 1980, 94 Stat. 1785, which is classified generally to subchapter II (§1721 et seq.) of chapter 19 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1721 of Title 25 and Tables.
+The Maine Indian Claims Settlement Act of 1980, referred to in par. (2), is Pub. L. 96–420, Oct. 10, 1980, 94 Stat. 1785, which is classified generally to subchapter II (§1721 et seq.) of chapter 19 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1721 of Title 25 and Tables.
 
 #### Amendments
 
+2009—Par. (1). Pub. L. 111–39, §406(a)(5)(A), substituted “under Public Law 98–64 (25 U.S.C. 117a et seq.; 97 Stat. 365) (commonly known as the ‘Per Capita Act’) or the Indian Tribal Judgment Funds Use or Distribution Act (25 U.S.C. 1401 et seq.); and” for “under the Per Capita Act or the Distribution of Judgment Funds Act; and”.
+
+Par. (2). Pub. L. 111–39, §406(a)(5)(B), substituted “Alaska” for “Alaskan” and inserted “(43 U.S.C. 1601 et seq.)” after “Native Claims Settlement Act” and “of 1980 (25 U.S.C. 1721 et seq.)” after “Maine Indian Claims Settlement Act”.
+
 1992—Pub. L. 102–325 amended section generally, reenacting provisions without change.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1992 Amendment
 

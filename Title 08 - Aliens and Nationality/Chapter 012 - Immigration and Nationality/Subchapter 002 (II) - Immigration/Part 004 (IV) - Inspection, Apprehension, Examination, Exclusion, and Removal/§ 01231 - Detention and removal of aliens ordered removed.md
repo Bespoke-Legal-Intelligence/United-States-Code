@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(i) in the case of an alien in the custody of the Attorney General, if the Attorney General determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense related to smuggling or harboring of aliens or an offense described in section 1101(a)(43)(B), (C), (E), (I), or (L) of this title <sup>3</sup> and (II) the removal of the alien is appropriate and in the best interest of the United States; or
 
-&emsp;&emsp;&emsp;(ii) in the case of an alien in the custody of a State (or a political subdivision of a State), if the chief State official exercising authority with respect to the incarceration of the alien determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense described in section 1101(a)(43)(C) or (E) of this title), (II) the removal is appropriate and in the best interest of the State, and (III) submits a written request to the Attorney General that such alien be so removed.
+&emsp;&emsp;&emsp;(ii) in the case of an alien in the custody of a State (or a political subdivision of a State), if the chief State official exercising authority with respect to the incarceration of the alien determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense described in section 1101(a)(43)(C) or (E) of this title), (II) the removal is appropriate and in the best interest of the State, and (III) submits awritten request to the Attorney General that such alien be so removed.
 
 #### (C) Notice
 
@@ -72,7 +72,7 @@
 
 &emsp;No alien ordered removed shall be eligible to receive authorization to be employed in the United States unless the Attorney General makes a specific finding that—
 
-&emsp;&emsp;(A) the alien cannot be removed due to the refusal of all countries designated by thealien or under this section to receive the alien, or
+&emsp;&emsp;(A) the alien cannot be removed due to the refusal of all countries designated by the alien or under this section to receive the alien, or
 
 &emsp;&emsp;(B) the removal of the alien is otherwise impracticable or contrary to the public interest.
 
@@ -192,7 +192,7 @@
 
 #### (1) Vessels and aircraft
 
-&emsp;An alien arriving at a port of entry of the United States who is ordered removed either without a hearing under section 1225(b)(1) or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival shall be removed immediately on a vessel or aircraft owned by the owner of the vessel or aircraft on which the alien arrived in the United States, unless—
+&emsp;An alien arriving at a port of entry of the United States who is ordered removed either without a hearing under section 1225(b)(1) or 1225(c) of this title or pursuant to proceedingsunder section 1229a of this title initiated at the time of such alien's arrival shall be removed immediately on a vessel or aircraft owned by the owner of the vessel or aircraft on which the alien arrived in the United States, unless—
 
 &emsp;&emsp;(A) it is impracticable to remove the alien on one of those vessels or aircraft within a reasonable time, or
 
@@ -304,7 +304,7 @@
 
 #### (1) Costs of removal at time of arrival
 
-&emsp;In the case of an alien who is a stowaway or who is ordered removed either without a hearing under section 1225(a)(1) <sup>5</sup> or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival, the owner of the vessel or aircraft (if any) on which the alien arrived in the United States shall pay the transportation cost of removing the alien. If removal is on a vessel or aircraft not owned by the owner ofthe vessel or aircraft on which the alien arrived in the United States, the Attorney General may—
+&emsp;In the case of an alien who is a stowaway or who is ordered removed either without a hearing under section 1225(a)(1) <sup>5</sup> or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival, the owner of the vessel or aircraft (if any) on which the alien arrived in the United States shall pay the transportation cost of removing the alien. If removal is on a vessel or aircraft not owned by the owner of the vessel or aircraft on which the alien arrived in the United States, the Attorney General may—
 
 &emsp;&emsp;(A) pay the cost from the appropriation “Immigration and Naturalization Service—Salaries and Expenses”; and
 
@@ -432,7 +432,7 @@ Pub. L. 109–162, title XI, §1196(d), as added by Pub. L. 109–271, §8(n)(6)
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–13 effective May 11, 2005, and applicable to applications for asylum, withholding, or other relief from removal made on or after such date, see section 101(h)(2) of Pub. L. 109–13, set out as a note under section 1158 of this title.
+Amendment by Pub. L. 109–13 effective May 11, 2005, and applicable to applications for asylum, withholding,or other relief from removal made on or after such date, see section 101(h)(2) of Pub. L. 109–13, set out as a note under section 1158 of this title.
 
 #### Effective Date of 1996 Amendment
 

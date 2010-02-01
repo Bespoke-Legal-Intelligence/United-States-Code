@@ -18,7 +18,7 @@ Superiority of Rights.—When a negotiable bill of lading is negotiated to a per
 
 (c)
 
-Mortgagee and Lien Holder Rights Not Affected.—Except as provided in subsection (b) of this section, this chapter does not limit aright of a mortgagee or lien holder having a mortgage or lien on goods against a person that purchased for value in good faith from the owner, and got possession of the goods immediately before delivery to the common carrier.
+Mortgagee and Lien Holder Rights Not Affected.—Except as provided in subsection (b) of this section, this chapter does not limit a right of a mortgagee or lien holder having a mortgage or lien on goods against a person that purchased for value in good faith from the owner, and got possession of the goods immediately before delivery to the common carrier.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1347.)
 

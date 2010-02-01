@@ -38,7 +38,7 @@ Subsections (a) and (b) of this section shall not prohibit the disclosure of non
 
 &emsp;&emsp;(B) maintaining or servicing the consumer's account with the financial institution, or with another entity as part of a private label credit card program or other extension of credit on behalf of such entity; or
 
-&emsp;&emsp;(C) a proposed or actual securitization, secondary market sale (including sales of servicing rights), or similar transaction related to a transaction of the consumer;
+&emsp;&emsp;(C) a proposed or actual securitization, secondary market sale (including sales ofservicing rights), or similar transaction related to a transaction of the consumer;
 
 &emsp;(2) with the consent or at the direction of the consumer;
 

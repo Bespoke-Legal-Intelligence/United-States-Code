@@ -42,10 +42,6 @@ The Secretary shall enter into agreements pursuant to section 1087d(a) of this t
 
 &emsp;&emsp;(F) meets such other criteria as the Secretary may establish to protect the financial interest of the United States and to promote the purposes of this part.
 
-#### (3) Regulations governing approval
-
-&emsp;The Secretary shall promulgate and publish in the Federal Register regulations governing the approval of institutions to originate loans under this part in accordance with section 1087g(a)(2) of this title.
-
 #### (d) Eligible institutions
 
 The Secretary may not select an institution of higher education for participation under this section unless such institution is an eligible institution under section 1085(a) of this title.
@@ -54,7 +50,7 @@ The Secretary may not select an institution of higher education for participatio
 
 Subject to such requirements as the Secretary may prescribe, eligible institutions of higher education (as determined under subsection (d) of this section) with agreements under section 1087d(a) of this title may apply to the Secretary as consortia to originate loans under this part for students in attendance at such institutions. Each such institution shall be required to meet the requirements of subsection (c) of this section with respect to loan origination.
 
-(Pub. L. 89–329, title IV, §453, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1438; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 342; Pub. L. 103–208, §2(e), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §451, Oct. 7, 1998, 112 Stat. 1715.)
+(Pub. L. 89–329, title IV, §453, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1438; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 342; Pub. L. 103–208, §2(e), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §451, Oct. 7, 1998, 112 Stat. 1715; Pub. L. 111–39, title IV, §404(b)(1), July 1, 2009, 123 Stat. 1946.)
 
 #### Codification
 
@@ -65,6 +61,8 @@ Amendment by section 2 of Pub. L. 103–208 (which was effective as if included 
 A prior section 1087c, Pub. L. 89–329, title IV, §453, as added Pub. L. 90–575, title I, §141, Oct. 16, 1968, 82 Stat. 1032; amended Pub. L. 92–318, title I, §136(b)(2), June 23, 1972, 86 Stat. 272, authorized grants and contracts for training and research in cooperative education programs, prior to repeal by Pub. L. 94–482, title I, §129(a), Oct. 12, 1976, 90 Stat. 2144, eff. 30 days after Oct. 12, 1976.
 
 #### Amendments
+
+2009—Subsec. (c)(3). Pub. L. 111–39 struck out par. (3). Text read as follows: “The Secretary shall promulgate and publish in the Federal Register regulations governing the approval of institutions to originate loans under this part in accordance with section 1087g(a)(2) of this title.”
 
 1998—Subsec. (a). Pub. L. 105–244, §451(a), amended heading, redesignated par. (1) as entire subsec., and struck out pars. (2) to (4) which provided for transition from loan programs under part B of this subchapter to direct student loan program under this part and defined term “new student loan volume”.
 
@@ -97,6 +95,10 @@ Subsec. (c)(3). Pub. L. 105–244, §451(c)(2), struck out “after transition�
 Subsec. (b)(2)(B). Pub. L. 103–208 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if the Secretary determines it necessary to carry out the purposes of this part, selecting additional institutions.” See Codification note above.
 
 1992—Pub. L. 102–325 amended section generally, substituting provisions relating to selection by the Secretary for former provisions relating to agreements with institutions of higher education.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1998 Amendment
 

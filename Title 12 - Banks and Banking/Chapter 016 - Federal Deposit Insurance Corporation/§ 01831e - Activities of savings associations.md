@@ -62,7 +62,7 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 #### (B) Treatment of noncompliance during divestment
 
-&emsp;&emsp;With respect to any corporate debt security not of investment grade held by anysavings association or subsidiary on August 9, 1989, the savings association or subsidiary shall be deemed not to be in violation of the prohibition in paragraph (1) on retaining such investment so long as the association or subsidiary complies with any applicable requirement established by the Corporation pursuant to subparagraph (A) for divesting such securities.
+&emsp;&emsp;With respect to any corporate debt security not of investment grade held by any savings association or subsidiary on August 9, 1989, the savings association or subsidiary shall be deemed not to be in violation of the prohibition in paragraph (1) on retaining such investment so long as the association or subsidiary complies with any applicable requirement established by the Corporation pursuant to subparagraph (A) for divesting such securities.
 
 #### (4) Definitions
 

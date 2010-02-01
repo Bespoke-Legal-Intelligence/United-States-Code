@@ -50,7 +50,7 @@
 
 #### (2) Availability
 
-&emsp;Amounts credited under paragraph (1) shall be merged with the appropriations, or with appropriations in the fund or account, to which credited and shall be available for the same purposes, and subject to the same conditionsand limitations, as the appropriations with which merged.
+&emsp;Amounts credited under paragraph (1) shall be merged with the appropriations, or with appropriations in the fund or account, to which credited and shall be available for the same purposes, and subject to the same conditions and limitations, as the appropriations with which merged.
 
 #### (c) Covered assistance
 

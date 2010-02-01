@@ -36,7 +36,7 @@
 
 (g) The Administrator may delegate any authority conferred by this section to another agency or agencies if the Administrator determines that such a delegation would be cost-effective or otherwise in the public interest.
 
-(h) Under regulations the head of an agency prescribes that conform with standards the Secretary of the Treasury prescribes, a bill underthis section may be paid before the transportation is completed notwithstanding section 3324 of this title when a carrier or freight forwarder issues the usual document for the transportation. Payment for transportation ordered but not provided may be recovered by deduction or other means.
+(h) Under regulations the head of an agency prescribes that conform with standards the Secretary of the Treasury prescribes, a bill under this section may be paid before the transportation is completed notwithstanding section 3324 of this title when a carrier or freight forwarder issues the usual document for the transportation. Payment for transportation ordered but not provided may be recovered by deduction or other means.
 
 (i)(1) A carrier or freight forwarder may request the Administrator of General Services to review the action of the Administrator if the request is received not later than 6 months (excluding time of war) after the Administrator acts or within the time stated in subsection (c) of this section, whichever is later.
 

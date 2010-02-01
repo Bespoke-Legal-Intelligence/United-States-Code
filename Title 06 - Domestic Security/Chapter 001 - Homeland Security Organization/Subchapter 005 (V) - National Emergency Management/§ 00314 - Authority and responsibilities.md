@@ -118,7 +118,7 @@ Amendment by section 611(12) of Pub. L. 109–295 effective Mar. 31, 2007, see s
 
 Ex. Ord. No. 13347, July 22, 2004, 69 F.R. 44573, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and to strengthen emergency preparednesswith respect to individuals with disabilities, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to strengthen emergency preparedness with respect to individuals with disabilities, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. To ensure that the Federal Government appropriately supports safety and security for individuals with disabilities in situations involving disasters, including earthquakes, tornadoes, fires, floods, hurricanes, and acts of terrorism, it shall be the policy of the United States that executive departments and agencies of the Federal Government (agencies):
 

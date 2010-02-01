@@ -6,7 +6,7 @@ When used in this subchapter—
 
 (b) The term “Secretary” means the Secretary of the Interior, except that with respect to functions under this subchapter transferred to, or vested in, the Secretary of Energy or the Federal Energy Regulatory Commission by or pursuant to the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), the term “Secretary” means the Secretary of Energy, or the Federal Energy Regulatory Commission, as the case may be;
 
-(c) The term “lease” means any form of authorization which is issued under section 1337 of this title or maintained under section 1335 of this title and which authorizes exploration for, and development and production of, minerals;
+(c) The term “lease” means any form of authorization which is issued under section 1337 ofthis title or maintained under section 1335 of this title and which authorizes exploration for, and development and production of, minerals;
 
 (d) The term “person” includes, in addition to a natural person, an association, a State, a political subdivision of a State, or a private, public, or municipal corporation;
 
@@ -50,7 +50,7 @@ When used in this subchapter—
 
 &emsp;(5) the Act of June 19, 1936, chapter 592 (15 U.S.C. 13, 13a, 13b, and 21a);
 
-(<i>o</i>) The term “fair market value” means the value of any mineral (1) computed at a unit price equivalent to the average unit price at which such mineral was sold pursuant to a lease during the period for which any royalty or net profit share is accrued or reserved to the United States pursuant to such lease, or (2) if there were no such sales, or if the Secretary finds that there were an insufficient number of such sales to equitably determine such value, computed at the average unit price at which such mineral was sold pursuant to other leases in the same region of the outer Continental Shelf during such period, or (3) if there were no sales of such mineral from such region during such period, or if the Secretary finds that there are an insufficient number of such sales to equitably determine such value, at an appropriate price determined by the Secretary;
+(<i>o</i>) The term “fair market value” means the value of any mineral (1) computed at a unit price equivalent to the average unit price at which such mineral was sold pursuant to a lease during the period for which any royalty or net profit share is accrued or reserved to the United States pursuant to such lease, or (2) if there were no such sales, or if the Secretary finds that there were an insufficient number of such sales to equitably determine such value, computed at the average unit price at which such mineral was sold pursuant to other leases in the same region of the outer Continental Shelf during suchperiod, or (3) if there were no sales of such mineral from such region during such period, or if the Secretary finds that there are an insufficient number of such sales to equitably determine such value, at an appropriate price determined by the Secretary;
 
 (p) The term “major Federal action” means any action or proposal by the Secretary which is subject to the provisions of section 4332(2)(C) of title 42; and
 
@@ -128,7 +128,7 @@ south area.—The term ‘181 South Area’ means any area—
 
 &emsp;&emsp;&emsp;“(iii) in the Central Planning Area;
 
-&emsp;&emsp;“(B) excluded from the Proposed Final Outer Continental Shelf Oil and Gas Leasing Program for 1997–2002, dated August 1996, of the Minerals Management Service; and
+&emsp;&emsp;“(B) excluded from the Proposed Final Outer Continental Shelf Oil and Gas Leasing Program for1997–2002, dated August 1996, of the Minerals Management Service; and
 
 &emsp;&emsp;“(C) included in the areas considered for oil and gas leasing, as identified in map 8, page 37 of the document entitled ‘Draft Proposed Program Outer Continental Shelf Oil and Gas Leasing Program 2007–2012’, dated February 2006.
 
@@ -174,7 +174,7 @@ Gulf producing state.—The term ‘Gulf producing State’ means each of the St
 
 &emsp;“(8)
 
-Military mission line.—The term ‘Military Mission Line’ means the north-south line at 86°41 W. longitude.
+Military mission line.—The term ‘Military Mission Line’ means the north-south line at 86°41′ W. longitude.
 
 &emsp;“(9)
 
@@ -270,7 +270,7 @@ Exchange of Certain Leases.—
 
 &emsp;“(1)
 
-In general.—The Secretary shall permit any person that, as of the date of enactment of this Act \[Dec. 20, 2006\], has entered into an oil or gas lease with the Secretary in any area described in paragraph (2) or (3) of subsection (a) to exchange the lease for a bonus or royalty credit that may only be used in the Gulf of Mexico.
+In general.—The Secretary shall permit any person that, as of the date of enactment of this Act \[Dec. 20, 2006\], has entered into an oil or gas leasewith the Secretary in any area described in paragraph (2) or (3) of subsection (a) to exchange the lease for a bonus or royalty credit that may only be used in the Gulf of Mexico.
 
 &emsp;“(2)
 

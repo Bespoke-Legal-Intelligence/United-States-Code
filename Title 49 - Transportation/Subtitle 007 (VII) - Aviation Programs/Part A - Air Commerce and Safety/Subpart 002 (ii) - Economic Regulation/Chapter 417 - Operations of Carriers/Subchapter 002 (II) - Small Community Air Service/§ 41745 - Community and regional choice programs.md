@@ -24,7 +24,7 @@ Use of assistance.—A unit of local government or State receiving assistance fo
 
 &emsp;&emsp;(D) In combination with other units of local government in the same region, to provide transportation services to and from all the eligible places in that region at an airport or other transportation center that can serve all the eligible places in that region.
 
-&emsp;&emsp;(E) To purchase aircraft to provide transportation to and from the eligible place or to purchase a fractional share in an aircraft toprovide such transportation after the effective date of a rule the Secretary issues relating to fractional ownership.
+&emsp;&emsp;(E) To purchase aircraft to provide transportation to and from the eligible place or to purchase a fractional share in an aircraft to provide such transportation after the effective date of a rule the Secretary issues relating to fractional ownership.
 
 &emsp;&emsp;(F) To pay for other transportation or related services that the Secretary may permit.
 

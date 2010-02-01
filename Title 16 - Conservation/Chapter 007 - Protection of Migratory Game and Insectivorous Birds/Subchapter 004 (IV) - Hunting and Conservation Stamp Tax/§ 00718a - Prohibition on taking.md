@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), no individual who has attained the age of 16 years shall take any migratory waterfowl unless, at the time of the taking, the individual carries on the person of the individual a valid Migratory Bird Hunting and Conservation Stamp, validated by the signature of the individual written in ink across the face of the stamp prior to the time of the taking by the individual of the waterfowl.
+&emsp;Except as provided in paragraph (2), no individual who has attained the age of 16 years shall take any migratory waterfowl unless, at the time of the taking, the individual carries on the person of the individual a valid Migratory Bird Hunting and Conservation Stamp, validated by the signature of the individual written in ink across the face of the stampprior to the time of the taking by the individual of the waterfowl.
 
 #### (2) Exception
 

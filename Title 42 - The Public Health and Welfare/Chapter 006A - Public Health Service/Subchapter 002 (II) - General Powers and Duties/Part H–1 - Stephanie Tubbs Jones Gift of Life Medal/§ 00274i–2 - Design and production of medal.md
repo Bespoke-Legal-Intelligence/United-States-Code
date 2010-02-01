@@ -34,7 +34,7 @@ The Secretary of the Treasury shall strike and deliver to the Secretary of Healt
 
 #### (e) Cost of medals
 
-Medals struck under this section and sold to the Secretary of Health and Human Services for distribution in accordance with this part shall be sold to the Secretary of Health and Human Services at a price sufficient to cover the cost of designing and striking the medals, includinglabor, materials, dies, use of machinery, and overhead expenses.
+Medals struck under this section and sold to the Secretary of Health and Human Services for distribution in accordance with this part shall be sold to the Secretary of Health and Human Services at a price sufficient to cover the cost of designing and striking the medals, including labor, materials, dies, use of machinery, and overhead expenses.
 
 #### (f) No expenditures in advance of receipt of fund
 

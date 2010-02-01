@@ -22,7 +22,7 @@ Grants under this section shall be directed to agricultural research, extension,
 
 There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2012.
 
-(Pub. L. 95–113, title XIV, §1459A, as added Pub. L. 105–185, title II, §229, June 23, 1998, 112 Stat.545; amended Pub. L. 107–171, title VII, §7112, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, §7131, May 22, 2008, 122 Stat. 1228; Pub. L. 110–246, §4(a), title VII, §7131, June 18, 2008, 122 Stat. 1664, 1989.)
+(Pub. L. 95–113, title XIV, §1459A, as added Pub. L. 105–185, title II, §229, June 23, 1998, 112 Stat. 545; amended Pub. L. 107–171, title VII, §7112, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, §7131, May 22, 2008, 122 Stat. 1228; Pub. L. 110–246, §4(a), title VII, §7131, June 18, 2008, 122 Stat. 1664, 1989.)
 
 #### Codification
 

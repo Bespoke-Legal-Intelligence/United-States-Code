@@ -24,7 +24,7 @@ Subsec. (b). Pub. L. 105–178, §1302(1), added subsec. (b) and struck out form
 
 Subsec. (c). Pub. L. 105–178, §1302(2), (3), redesignated subsec. (e) as (c) and struck out former subsec. (c) which read as follows: “No payment shall be made under this chapter, except for a project located on a Federal-aid system and covered by a project agreement. No final payment shall be made to a State for its costs of construction of a project until the completion of the construction has been approved by the Secretary following inspections pursuant to section 114(a) of this title.”
 
-Subsec. (d). Pub. L. 105–178, §1302(2), struck out subsec. (d) which read as follows: “In making payments pursuant to this section, the Secretary shall be bound by the limitations with respect to the permissible amounts of such payments continued in sections 106(c), 120, and 130 of this title.”
+Subsec. (d). Pub. L. 105–178, §1302(2), struck out subsec. (d) which read as follows: “In making payments pursuant to this section, the Secretary shall be boundby the limitations with respect to the permissible amounts of such payments continued in sections 106(c), 120, and 130 of this title.”
 
 Subsec. (e). Pub. L. 105–178, §1302(3), redesignated subsec. (e) as (c).
 

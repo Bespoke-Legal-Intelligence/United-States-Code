@@ -2,7 +2,7 @@
 
 #### (a) Defense articles and services; noncombatant personnel; transfer of funds
 
-The President is authorized to furnish military assistance, on such terms and conditions as he may determine, to any friendly country or international organization, the assisting of which the President finds will strengthen the security of the United States and promote world peace and which is otherwise eligible to receive such assistance, by—
+The President is authorized to furnish military assistance, on such terms and conditions ashe may determine, to any friendly country or international organization, the assisting of which the President finds will strengthen the security of the United States and promote world peace and which is otherwise eligible to receive such assistance, by—
 
 &emsp;(1) acquiring for any source and providing (by loan or grant) any defense article or defense service;
 
@@ -60,7 +60,7 @@ A guaranty provision, formerly subsec. (e) of this section, was renumbered secti
 
 1981—Subsec. (a)(3). Pub. L. 97–113, §110(c), substituted “country” for “specified in section 2312(a)(1) of this title, within the dollar limitations of that section”.
 
-Subsec. (b)(5). Pub. L. 97–113 substituted provision respecting payment of restoration or replacement costs for defense articles on loan for provision for making such a loan only if arrangements were made with the agency making the loan for reimbursement in the event the article was lost or destroyed while on loan, the reimbursement of which was to be made first out of any funds available to carry out this part and based on the depreciated value of the article at the time of loss or destruction.
+Subsec. (b)(5). Pub. L. 97–113 substituted provision respecting payment of restoration or replacement costs for defense articles on loan for provision for making such a loan only if arrangements were made with the agency making the loan for reimbursement in the event the article was lost or destroyed while on loan, the reimbursement of which was to be made first out of any funds available to carry out this part and based onthe depreciated value of the article at the time of loss or destruction.
 
 1980—Subsec. (a)(3). Pub. L. 96–533 added par. (3).
 

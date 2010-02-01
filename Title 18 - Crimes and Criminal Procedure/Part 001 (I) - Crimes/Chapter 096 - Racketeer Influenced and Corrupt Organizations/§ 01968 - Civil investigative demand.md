@@ -1,6 +1,6 @@
 ### §1968. Civil investigative demand
 
-(a) Whenever the Attorney General has reason to believe that any person or enterprise may bein possession, custody, or control of any documentary materials relevant to a racketeering investigation, he may, prior to the institution of a civil or criminal proceeding thereon, issue in writing, and cause to be served upon such person, a civil investigative demand requiring such person to produce such material for examination.
+(a) Whenever the Attorney General has reason to believe that any person or enterprise may be in possession, custody, or control of any documentary materials relevant to a racketeering investigation, he may, prior to the institution of a civil or criminal proceeding thereon, issue in writing, and cause to be served upon such person, a civil investigative demand requiring such person to produce such material for examination.
 
 (b) Each such demand shall—
 

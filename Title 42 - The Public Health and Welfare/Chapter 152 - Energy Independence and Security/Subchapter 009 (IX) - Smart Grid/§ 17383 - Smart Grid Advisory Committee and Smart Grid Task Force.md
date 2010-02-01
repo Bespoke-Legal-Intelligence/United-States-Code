@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish, within 90 days of December 19, 2007, a Smart Grid Advisory Committee (either as an independent entity or as a designated sub-part of a larger advisory committee on electricity matters). The Smart Grid Advisory Committee shall include eight or more members appointed by the Secretary who have sufficient experience and expertise to represent the full range of smart grid technologies and services, to represent both private and non-Federal public sector stakeholders. One member shall be appointed by the Secretary to Chair the Smart Grid Advisory Committee.
+&emsp;The Secretary shall establish, within 90 days of December 19, 2007, a Smart Grid AdvisoryCommittee (either as an independent entity or as a designated sub-part of a larger advisory committee on electricity matters). The Smart Grid Advisory Committee shall include eight or more members appointed by the Secretary who have sufficient experience and expertise to represent the full range of smart grid technologies and services, to represent both private and non-Federal public sector stakeholders. One member shall be appointed by the Secretary to Chair the Smart Grid Advisory Committee.
 
 #### (2) Mission
 
@@ -18,7 +18,7 @@
 
 #### (1) Establishment
 
-&emsp;The Assistant Secretary of the Office of Electricity Delivery and Energy Reliability shall establish, within 90 days of December 19, 2007, a Smart Grid Task Force composed of designated employees from the various divisions of that office who have responsibilities related to the transition to smart-grid technologies and practices. The Assistant Secretary or his designee shall be identified as the Director of the Smart Grid Task Force. The Chairman of the Federal Energy Regulatory Commission and the Director of the National Institute of Standards and Technology shall each designate at least one employee to participate on the Smart Grid Task Force. Othermembers may come from other agencies at the invitation of the Assistant Secretary or the nomination of the head of such other agency. The Smart Grid Task Force shall, without disrupting the work of the Divisions or Offices from which its members are drawn, provide an identifiable Federal entity to embody the Federal role in the national transition toward development and use of smart grid technologies.
+&emsp;The Assistant Secretary of the Office of Electricity Delivery and Energy Reliability shall establish, within 90 days of December 19, 2007, a Smart Grid Task Force composed of designated employees from the various divisions of that office who have responsibilities related to the transition to smart-grid technologies and practices. The Assistant Secretary or his designee shall be identified as the Director of the Smart Grid Task Force. The Chairman of the Federal Energy Regulatory Commission and the Director of the National Institute of Standards and Technology shall each designate at least one employee to participate on the Smart Grid Task Force. Other members may come from other agencies at the invitation of the Assistant Secretary or the nomination of the head of such other agency. The Smart Grid Task Force shall, without disrupting the work of the Divisions or Offices from which its members are drawn, provide an identifiable Federal entity to embody the Federal role in the national transition toward development and use of smart grid technologies.
 
 #### (2) Mission
 

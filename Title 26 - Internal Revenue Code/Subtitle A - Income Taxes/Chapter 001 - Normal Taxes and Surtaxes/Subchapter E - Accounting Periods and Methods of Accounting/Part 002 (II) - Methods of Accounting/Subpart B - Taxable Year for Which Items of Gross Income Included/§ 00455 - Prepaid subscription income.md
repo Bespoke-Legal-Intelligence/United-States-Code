@@ -10,7 +10,7 @@ In the case of any prepaid subscription income to which this section applies—
 
 &emsp;(1) If the liability described in subsection (d)(2) ends, then so much of such income as was not includible in gross income under subsection (a) for preceding taxable years shall be included in gross income for the taxable year in which the liability ends.
 
-&emsp;(2) If the taxpayer dies or ceases to exist, then so much of such income as was not includible in gross income under subsection (a) for preceding taxable years shall be included in gross income for the taxable year in which such death, or such cessation of existence, occurs.
+&emsp;(2) If the taxpayer dies or ceases to exist, then so much of such income as was not includible in gross income under subsection (a)for preceding taxable years shall be included in gross income for the taxable year in which such death, or such cessation of existence, occurs.
 
 #### (c) Prepaid subscription income to which this section applies
 
@@ -70,5 +70,5 @@ Amendment by section 1901(a)(67) of Pub. L. 94–455 effective for taxable years
 
 #### Effective Date
 
-Section 28(c) of Pub. L. 85–866 provided that: “The amendments made by subsections (a) and (b) \[enactingthis section\] shall apply with respect to taxable years beginning after December 31, 1957.”
+Section 28(c) of Pub. L. 85–866 provided that: “The amendments made by subsections (a) and (b) \[enacting this section\] shall apply with respect to taxable years beginning after December 31, 1957.”
 

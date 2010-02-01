@@ -38,7 +38,7 @@
 
 #### (4) Enforcement
 
-&emsp;The pendency of proceedings instituted under subsection (a) of this section shall not impede, hinder, or delay the Attorney Generalor the Secretary from taking any action under section 6307 of this title.
+&emsp;The pendency of proceedings instituted under subsection (a) of this section shall not impede, hinder, or delay the Attorney General or the Secretary from taking any action under section 6307 of this title.
 
 (Pub. L. 101–624, title XIX, §1971, Nov. 28, 1990, 104 Stat. 3900.)
 

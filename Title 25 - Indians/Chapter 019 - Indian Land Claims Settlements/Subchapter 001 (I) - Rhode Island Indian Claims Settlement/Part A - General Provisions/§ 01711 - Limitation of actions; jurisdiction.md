@@ -1,6 +1,6 @@
 ### §1711. Limitation of actions; jurisdiction
 
-Notwithstanding any other provision of law, any action to contest the constitutionality of this subchapter shall be barred unless the complaint is filed within one hundred and eighty days of September 30, 1978. Exclusive jurisdiction over any such action is hereby vested in the United States District Court for the District of Rhode Island.
+Notwithstanding any other provision of law, any action to contest the constitutionality ofthis subchapter shall be barred unless the complaint is filed within one hundred and eighty days of September 30, 1978. Exclusive jurisdiction over any such action is hereby vested in the United States District Court for the District of Rhode Island.
 
 (Pub. L. 95–395, §12, Sept. 30, 1978, 92 Stat. 817.)
 

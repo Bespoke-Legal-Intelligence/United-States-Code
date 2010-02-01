@@ -104,13 +104,13 @@
 
 #### (B) Report
 
-&emsp;&emsp;Not later than January 1, 2012, the Comptroller General shall submit to Congress, the Commissioner, and the Secretary a report onthe analysis conducted under subparagraph (A).
+&emsp;&emsp;Not later than January 1, 2012, the Comptroller General shall submit to Congress, the Commissioner, and the Secretary a report on the analysis conducted under subparagraph (A).
 
 #### (7) Medicare Savings Program defined
 
 &emsp;For purposes of this subsection, the term “Medicare Savings Program” means the program of medical assistance for payment of the cost of medicare cost-sharing under the Medicaid program pursuant to sections 1396a(a)(10)(E) and 1396u–3 of this title.
 
-(Aug. 14, 1935, ch. 531, title XI, §1144, as added Pub. L. 106–554, §1(a)(6) \[title IX, §911(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583; amended Pub. L. 108–173, title I, §103(g), Dec. 8, 2003, 117 Stat. 2160; Pub. L. 110–275, title I, §113(a), July 15, 2008, 122 Stat. 2503.)
+(Aug. 14, 1935, ch. 531, title XI, §1144, as added Pub. L. 106–554, §1(a)(6) \[title IX, §911(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583; amended Pub.L. 108–173, title I, §103(g), Dec. 8, 2003, 117 Stat. 2160; Pub. L. 110–275, title I, §113(a), July 15, 2008, 122 Stat. 2503.)
 
 #### Prior Provisions
 

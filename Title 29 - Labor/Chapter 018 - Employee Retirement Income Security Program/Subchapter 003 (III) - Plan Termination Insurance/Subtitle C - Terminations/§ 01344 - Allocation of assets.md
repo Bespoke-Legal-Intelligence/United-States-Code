@@ -48,7 +48,7 @@ For purposes of subsection (a) of this section—
 
 &emsp;(6) The term “mandatory contributions” means amounts contributed to the plan by a participant which are required as a condition of employment, as a condition of participation in such plan, or as a condition of obtaining benefits under the plan attributable to employer contributions. For this purpose, the total amount of mandatory contributions of a participant is the amount of such contributions reduced (but not below zero) by the sum of the amounts paid or distributed to him under the plan before its termination.
 
-&emsp;(7) A plan may establish subclasses and categories within the classes described in paragraphs (1) through (6) of subsection (a) of thissection in accordance with regulations prescribed by the corporation.
+&emsp;(7) A plan may establish subclasses and categories within the classes described in paragraphs (1) through (6) of subsection (a) of this section in accordance with regulations prescribed by the corporation.
 
 #### (c) Increase or decrease in value of assets
 
@@ -130,7 +130,7 @@ If a contributing sponsor of a plan has filed or has had filed against such pers
 
 #### (C) Exception
 
-&emsp;&emsp;In the case of a terminated plan with respect to which the outstanding amount of benefit liabilities exceeds $20,000,000, the term “section 1362(c) recovery ratio” means, with respect to the termination of such plan, the ratio of—
+&emsp;&emsp;In the case of a terminated plan with respect to which the outstanding amount ofbenefit liabilities exceeds $20,000,000, the term “section 1362(c) recovery ratio” means, with respect to the termination of such plan, the ratio of—
 
 &emsp;&emsp;&emsp;(i) the value of the recoveries on behalf of the plan under section 1362(c) of this title, to
 

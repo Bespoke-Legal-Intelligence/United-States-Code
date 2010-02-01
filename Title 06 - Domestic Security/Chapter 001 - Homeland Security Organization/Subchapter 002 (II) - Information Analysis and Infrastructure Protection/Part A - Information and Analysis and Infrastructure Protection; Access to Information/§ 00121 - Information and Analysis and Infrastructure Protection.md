@@ -164,7 +164,7 @@ In accordance with subchapter XII of this chapter, there shall be transferred to
 
 &emsp;(5) The Federal Computer Incident Response Center of the General Services Administration, including the functions of the Administrator of General Services relating thereto.
 
-(Pub. L. 107–296, title II, §201, Nov. 25, 2002, 116 Stat. 2145; Pub. L. 110–53, title V, §§501(a)(2)(A), (b), 531(a), title X, §1002(a), Aug. 3, 2007, 121 Stat. 309, 332, 374; Pub. L. 110–417, \[div. A\], title IX, §931(b)(5), Oct. 14, 2008, 122 Stat. 4575.)
+(Pub. L. 107–296, title II, §201, Nov. 25, 2002, 116 Stat. 2145; Pub. L. 110–53, title V, §§501(a)(2)(A),\(b), 531(a), title X, §1002(a), Aug. 3, 2007, 121 Stat. 309, 332, 374; Pub. L. 110–417, \[div. A\], title IX, §931(b)(5), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–84, div. A, title X, §1073(c)(9), Oct. 28, 2009, 123 Stat. 2475.)
 
 #### References in Text
 
@@ -178,7 +178,9 @@ Section is comprised of section 201 of Pub. L. 107–296. Subsec. (h) of section
 
 #### Amendments
 
-2008—Subsec. (f)(2)(E). Pub. L. 110–417, which directed substitution of “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in subsec. (e)(2), was executed by making the substitution in subsec. (f)(2)(E) to reflect the probable intent of Congress, because the language to be stricken did not appear in subsec. (e)(2).
+2009—Subsec. (f)(2)(E). Pub. L. 111–84 made technical amendment to directory language of Pub. L. 110–417. See 2008 amendment note below.
+
+2008—Subsec. (f)(2)(E). Pub. L. 110–417, §931(b)(5), as amended by Pub. L. 111–84, substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 2007—Pub. L. 110–53, §531(a)(1), substituted “Information and” for “Directorate for Information” in section catchline.
 
@@ -230,13 +232,17 @@ Subsec. (f)(1). Pub. L. 110–53, §531(a)(5), substituted “Office of Intellig
 
 Subsec. (g). Pub. L. 110–53, §531(a)(6), substituted “Office of Intelligence and Analysis and the Office of Infrastructure Protection” for “Under Secretary for Information Analysis and Infrastructure Protection” in introductory provisions.
 
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment by section 1073(c)(9) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+
 #### Regulations
 
-Pub. L. 109–295, title V, §550, Oct. 4, 2006, 120 Stat. 1388, as amended by Pub. L. 110–161, div. E, title V, §534, Dec. 26, 2007, 121 Stat. 2075, provided that:
+Pub. L. 109–295, title V, §550, Oct. 4, 2006, 120 Stat. 1388, as amended by Pub. L. 110–161, div. E, title V, §534, Dec. 26, 2007, 121 Stat. 2075; Pub. L. 111–83, title V, §550, Oct. 28, 2009, 123 Stat. 2177, provided that:
 
-“(a) No later than six months after the date of enactment of this Act \[Oct. 4, 2006\], the Secretary of Homeland Security shall issue interim final regulations establishing risk-based performance standards for security of chemical facilities and requiring vulnerability assessments and the development and implementation of site security plans for chemical facilities: <i>Provided</i>, That such regulations shall apply to chemical facilities that, in the discretion of the Secretary, present high levels of security risk: <i>Provided further</i>, That such regulations shall permit each such facility, in developing and implementing site security plans, to select layered security measures that, in combination, appropriately address the vulnerability assessment and the risk-based performance standards for security for the facility: <i>Provided further</i>, That the Secretary may not disapprove a site security plan submitted under this section based on the presence or absence of a particular security measure, but the Secretary may disapprove a site security plan if the plan fails to satisfy the risk-based performance standards established by this section: <i>Provided further</i>, That the Secretary may approve alternative security programs established by private sector entities, Federal, State, or local authorities, or other applicable laws if the Secretary determines that the requirements of such programs meet the requirements of this section and the interim regulations: <i>Provided further</i>, That the Secretary shall review and approve each vulnerability assessment and site security plan required under this section: <i>Provided further</i>, That the Secretary shall not apply regulations issued pursuant to this section to facilities regulated pursuant to the Maritime Transportation Security Act of 2002, Public Law 107–295, as amended \[see Tables for classification\]; Public Water Systems, as defined by section 1401 of the Safe Drinking Water Act, Public Law 93–523, as amended \[42 U.S.C. 300f\]; Treatment Works as defined in section 212 of the Federal Water Pollution Control Act, Public Law 92–500, as amended \[33 U.S.C. 1292\]; any facility owned or operated by the Department of Defense or the Department of Energy, or any facility subject to regulation by the Nuclear Regulatory Commission.
+“(a) No later than six months after the date of enactment of this Act \[Oct. 4, 2006\], the Secretary of Homeland Security shall issue interim final regulations establishing risk-based performance standards for security of chemical facilities and requiring vulnerability assessments and the development and implementation of site security plans for chemical facilities: <i>Provided</i>, That such regulations shall apply to chemical facilities that, in the discretion of the Secretary, present high levels of security risk: <i>Provided further</i>, That such regulations shall permit each such facility, in developing and implementing site security plans, to select layered security measures that, in combination, appropriatelyaddress the vulnerability assessment and the risk-based performance standards for security for the facility: <i>Provided further</i>, That the Secretary may not disapprove a site security plan submitted under this section based on the presence or absence of a particular security measure, but the Secretary may disapprove a site security plan if the plan fails to satisfy the risk-based performance standards established by this section: <i>Provided further</i>, That the Secretary may approve alternative security programs established by private sector entities, Federal, State, or local authorities, or other applicable laws if the Secretary determines that the requirements of such programs meet the requirements of this section and the interim regulations: <i>Provided further</i>, That the Secretary shall review and approve each vulnerability assessment and site security plan required under this section: <i>Provided further</i>, That the Secretary shall not apply regulations issued pursuant to this section to facilities regulated pursuant to the Maritime Transportation Security Act of 2002, Public Law 107–295, as amended \[see Tables for classification\]; Public Water Systems, as defined by section 1401 of the Safe Drinking Water Act, Public Law 93–523, as amended \[42 U.S.C. 300f\]; Treatment Works as defined in section 212 of the Federal Water Pollution Control Act, Public Law 92–500, as amended \[33 U.S.C. 1292\]; any facility owned or operated by the Department of Defense or the Department of Energy, or any facility subject to regulation by the Nuclear Regulatory Commission.
 
-“(b) Interim regulations issued under this section shall apply until the effective date of interim or final regulations promulgated under other laws that establish requirements and standards referred to in subsection (a) and expressly supersede this section: <i>Provided</i>, That the authority provided by this section shall terminate three years after the date of enactment of this Act \[Oct. 4, 2006\].
+“(b) Interim regulations issued under this section shall apply until the effective date of interim or final regulations promulgated under other laws that establish requirements and standards referred to in subsection (a) and expressly supersede this section: <i>Provided</i>, That the authority provided by this section shall terminate on October 4, 2010.
 
 “(c) Notwithstanding any other provision of law and subsection (b), information developed under this section, including vulnerability assessments, site security plans, and other security related information, records, and documents shall be given protections from public disclosure consistent with similar information developed by chemical facilities subject to regulation under section 70103 of title 46, United States Code: <i>Provided</i>, That this subsection does not prohibit the sharing of such information, as the Secretary deems appropriate, with State and local government officials possessing the necessary security clearances, including law enforcement officials and first responders, for the purpose of carrying out this section, provided that such information may not be disclosed pursuant to any State or local law: <i>Provided further</i>, That in any proceeding to enforce this section, vulnerability assessments, site security plans, and other information submitted to or obtained by the Secretary under this section, and related vulnerability or security information, shall be treated as if the information were classified material.
 
@@ -294,7 +300,7 @@ Demonstration Project Required.—Not later than 120 days after the date of enac
 
 “(b)
 
-Security Management System Defined.—In this section, the term ‘security management system’ means a set of guidelines that address the security assessment needs of critical infrastructure and key resources that are consistent with a set of generally accepted management standards ratified and adopted by a standards making body.”
+Security Management System Defined.—In this section, the term ‘security management system’means a set of guidelines that address the security assessment needs of critical infrastructure and key resources that are consistent with a set of generally accepted management standards ratified and adopted by a standards making body.”
 
 #### Ex. Ord. No. 13231. Critical Infrastructure Protection in the Information Age
 
@@ -356,7 +362,9 @@ Term of the National Infrastructure Advisory Council extended until Sept. 30, 20
 
 Term of the National Infrastructure Advisory Council extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the National Infrastructure Advisory Council extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the National Infrastructure Advisory Council extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the National Infrastructure Advisory Council extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Ex. Ord. No. 13284. Amendment of Executive Orders, and Other Actions, in Connection With the Establishment of the Department of Homeland Security
 

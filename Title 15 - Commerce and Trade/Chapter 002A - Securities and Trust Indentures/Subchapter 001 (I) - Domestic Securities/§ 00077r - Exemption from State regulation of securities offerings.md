@@ -12,7 +12,7 @@ Except as otherwise provided in this section, no law, rule, regulation, or order
 
 &emsp;(2) shall directly or indirectly prohibit, limit, or impose any conditions upon the use of—
 
-&emsp;&emsp;(A) with respect to a covered security described in subsection (b) of this section, anyoffering document that is prepared by or on behalf of the issuer; or
+&emsp;&emsp;(A) with respect to a covered security described in subsection (b) of this section, any offering document that is prepared by or on behalf of the issuer; or
 
 &emsp;&emsp;(B) any proxy statement, report to shareholders, or other disclosure document relating to a covered security or the issuer thereof that is required to be and is filed with the Commission or any national securities organization registered under section 78<i>o</i>–3 of this title, except that this subparagraph does not apply to the laws, rules, regulations, or orders, or other administrative actions of the State of incorporation of the issuer; or
 
@@ -136,7 +136,7 @@ Subsec. (d)(2). Pub. L. 105–353, §301(a)(4)(E), made technical amendment to r
 
 Subsec. (d)(4). Pub. L. 105–353, §301(a)(4)(F), substituted “The term” for “For purposes of this paragraph, the term”.
 
-1996—Pub. L. 104–290 substituted “Exemption from State regulation of securities offerings” for “State control of securities” as section catchline and amended text generally. Prior to amendment, text read as follows: “Nothing in this subchapter shall affect the jurisdiction of the securities commission (or any agency or office performing like functions) of any State or Territory of the United States, or the District of Columbia, over any security or any person.”
+1996—Pub. L. 104–290 substituted “Exemption from State regulation of securities offerings” for “State control of securities” as section catchline and amended text generally. Prior to amendment, text read as follows: “Nothing in this subchapter shall affect the jurisdiction of the securities commission (or any agency oroffice performing like functions) of any State or Territory of the United States, or the District of Columbia, over any security or any person.”
 
 #### Transfer of Functions
 

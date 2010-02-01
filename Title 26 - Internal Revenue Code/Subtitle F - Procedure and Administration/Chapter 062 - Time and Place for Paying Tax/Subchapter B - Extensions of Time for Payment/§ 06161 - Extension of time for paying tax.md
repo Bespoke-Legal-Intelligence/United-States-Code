@@ -28,7 +28,7 @@
 
 #### (3) No extension for certain deficiencies
 
-&emsp;No extension shall be granted under this subsection for any deficiency if the deficiency is due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax.
+&emsp;No extension shall be granted under this subsection for any deficiency if the deficiencyis due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax.
 
 #### (c) Claims in cases under title 11 of the United States Code or in receivership proceedings
 

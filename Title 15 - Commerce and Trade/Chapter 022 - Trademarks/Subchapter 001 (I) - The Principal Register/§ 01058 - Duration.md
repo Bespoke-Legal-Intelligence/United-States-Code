@@ -26,7 +26,7 @@ During the 1-year period immediately preceding the end of the applicable time pe
 
 #### (d) Notice of affidavit requirement
 
-Special notice of the requirement for affidavits under this section shall be attached to each certificate of registration and notice of publication under section 1062(c) of this title.
+Special notice of the requirement for affidavits under this section shall be attached to eachcertificate of registration and notice of publication under section 1062(c) of this title.
 
 #### (e) Notification of acceptance or refusal of affidavits
 
@@ -52,7 +52,7 @@ Subsec. (e). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B), (C)\],
 
 Subsec. (f). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], substituted “Director” for “Commissioner”.
 
-1998—Pub. L. 105–330 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (c) relating to affidavits of continuinguse, registrations published under other provisions of law, and notification of acceptance or refusal of affidavits.
+1998—Pub. L. 105–330 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (c) relating to affidavits of continuing use, registrations published under other provisions of law, and notification of acceptance or refusal of affidavits.
 
 1988—Subsec. (a). Pub. L. 100–667 substituted “ten” for “twenty” and “setting forth those goods or services recited in the registration on or in connection with which the mark is in use in commerce and attaching to the affidavit a specimen or facsimile showing current use of the mark, or showing that any” for “showing that said mark is in use in commerce or showing that its”.
 
@@ -92,7 +92,7 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certainexceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References to Trademark Act of 1946
 

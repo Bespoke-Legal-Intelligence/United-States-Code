@@ -6,7 +6,7 @@
 
 &emsp;(2) express such goals in an objective, quantifiable, and measurable form unless authorized to be in an alternative form under subsection (b);
 
-&emsp;(3) provide a description of how the performance goals and objectives are to be achieved, including the operation processes, training, skills and technology, and the human, capital, information, and other resources and strategies required to meet those performance goals and objectives.<sup>1</sup>
+&emsp;(3) provide a description of how the performance goals and objectives are to be achieved,including the operation processes, training, skills and technology, and the human, capital, information, and other resources and strategies required to meet those performance goals and objectives.<sup>1</sup>
 
 &emsp;(4) establish performance indicators to be used in measuring or assessing the relevant outputs, service levels, and outcomes of each program activity;
 

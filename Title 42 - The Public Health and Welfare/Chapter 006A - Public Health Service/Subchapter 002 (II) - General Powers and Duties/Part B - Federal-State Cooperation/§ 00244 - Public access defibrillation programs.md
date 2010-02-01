@@ -18,7 +18,7 @@ The Secretary shall award grants to States, political subdivisions of States, In
 
 #### (b) Preference
 
-In awarding grants under subsection (a) of this section, the Secretary shall give a preference to a State, political subdivision of a State, Indian tribe, or tribal organization that—
+In awarding grants under subsection (a) of this section, the Secretary shall give a preference toa State, political subdivision of a State, Indian tribe, or tribal organization that—
 
 &emsp;(1) has a particularly low local survival rate for cardiac arrests, or a particularly low local response rate for cardiac arrest victims; or
 

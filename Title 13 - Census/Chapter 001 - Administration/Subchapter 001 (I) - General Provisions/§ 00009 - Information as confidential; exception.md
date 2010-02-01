@@ -32,7 +32,7 @@ For remainder of sections 122, 208, and 252 of title 13, U.S.C., 1952 ed., and o
 
 #### References in Text
 
-Section 210 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998, referred to in subsec. (a), is section 210 of Pub. L. 105–119, title II, Nov. 26, 1997, 111 Stat.2483, which amended this section and enacted provisions set out as a note under section 141 of this title.
+Section 210 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998, referred to in subsec. (a), is section 210 of Pub. L. 105–119, title II, Nov. 26, 1997, 111 Stat. 2483, which amended this section and enacted provisions set out as a note under section 141 of this title.
 
 Section 2(f) of the Census of Agriculture Act of 1997, referred to in subsec. (a), is classified to section 2204g(f) of Title 7, Agriculture.
 

@@ -8,7 +8,7 @@
 
 #### (2) Application of requirements to Federal facilities
 
-&emsp;All guidelines, rules, regulations, and criteria which are applicable to preliminary assessments carried out under this chapter for facilities at which hazardous substances are located, applicable to evaluations of such facilities under the National Contingency Plan, applicable to inclusion on the National Priorities List, or applicable to remedial actions at such facilities shall also be applicable to facilities which are owned or operated by a department, agency, or instrumentality of the United States in the same manner and to the extent as such guidelines, rules, regulations, and criteria are applicable to other facilities. No department, agency, or instrumentality of the United States may adopt or utilize any such guidelines, rules, regulations, or criteria which are inconsistent with the guidelines, rules, regulations, and criteria established by the Administrator under this chapter.
+&emsp;All guidelines, rules, regulations, and criteria which are applicable to preliminary assessments carried out under this chapter for facilities at which hazardous substances are located, applicable to evaluations of such facilities under the National Contingency Plan, applicable to inclusion on the National Priorities List, or applicable to remedial actions at such facilities shall also be applicable to facilities which are owned or operated by a department, agency, or instrumentality of the United States in the same manner and to the extent as such guidelines, rules, regulations, and criteria are applicable to other facilities. No department, agency, or instrumentality of the United States may adopt or utilize anysuch guidelines, rules, regulations, or criteria which are inconsistent with the guidelines, rules, regulations, and criteria established by the Administrator under this chapter.
 
 #### (3) Exceptions
 
@@ -160,7 +160,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 &emsp;&emsp;&emsp;&emsp;(II) the deed or other agreement proposed to govern the transfer between the United States and the transferee of the property contains the assurances set forth in clause (ii);
 
-&emsp;&emsp;&emsp;&emsp;(III) the Federal agency requesting deferral has provided notice, by publication in a newspaper of general circulation in the vicinity of the property, of the proposed transfer and of the opportunity for the public to submit, within a period of not less than 30 days after the date of the notice, written comments on the suitability of the property for transfer; and
+&emsp;&emsp;&emsp;&emsp;(III) the Federal agency requesting deferral has provided notice, by publication in a newspaper of general circulation in the vicinity of the property, ofthe proposed transfer and of the opportunity for the public to submit, within a period of not less than 30 days after the date of the notice, written comments on the suitability of the property for transfer; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) the deferral and the transfer of the property will not substantially delay any necessary response action at the property.
 
@@ -272,7 +272,7 @@ The Atomic Energy Act, referred to in subsec. (j)(2), probably means the Atomic 
 
 1996—Subsec. (a)(4). Pub. L. 104–201, §334(b), inserted “or facilities that are the subject of a deferral under subsection (h)(3)(C) of this section” after “United States”.
 
-Subsec. (d). Pub. L. 104–201, §330(2)–(4), designated existing provisions as par. (1), inserted par. heading, substituted “The Administrator” for “Not later than 18 months after October 17, 1986, the Administrator”, realigned margins of par. (1) and subpars. (A) and (B), and substituted pars. (2) and (3) for “Such criteria shall beapplied in the same manner as the criteria are applied to facilities which are owned or operated by other persons. Evaluation and listing under this subsection shall be completed not later than 30 months after October 17, 1986. Upon the receipt of a petition from the Governor of any State, the Administrator shall make such an evaluation of any facility included in the docket.”
+Subsec. (d). Pub. L. 104–201, §330(2)–(4), designated existing provisions as par. (1), inserted par. heading, substituted “The Administrator” for “Not later than 18 months after October 17, 1986, the Administrator”, realigned margins of par. (1) and subpars. (A) and (B), and substituted pars. (2) and (3) for “Such criteria shall be applied in the same manner as the criteria are applied to facilities which are owned or operated by other persons. Evaluation and listing under this subsection shall be completed not later than 30 months after October 17, 1986. Upon the receipt of a petition from the Governor of any State, the Administrator shall make such an evaluation of any facility included in the docket.”
 
 Pub. L. 104–201, §330(1), redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
 
@@ -298,7 +298,7 @@ Subsec. (h)(5). Pub. L. 102–426, §5, added par. (5).
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (e)(5) of this section is listed as the 5th item on page 151), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (e)(5) of this section is listed as the 5th item on page 151), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
 #### Identification of Uncontaminated Property at Installations To Be Closed
 

@@ -74,7 +74,7 @@
 
 &emsp;(7) Service in any status other than that as commissioned officer, warrant officer, nurse, flight officer, aviation midshipman, appointed aviation cadet, or enlisted member, and that described in clauses (I) and (J) of subsection (a)(1).
 
-&emsp;(8) Service in the screening performed pursuant to section 10149 of this title through electronic means, regardless of whether or not astipend is paid the member concerned for such service under section 433a of title 37.
+&emsp;(8) Service in the screening performed pursuant to section 10149 of this title through electronic means, regardless of whether or not a stipend is paid the member concerned for such service under section 433a of title 37.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1332; Pub. L. 85–861, §33(a)(9), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 86–197, §1(1)–(3), Aug. 25, 1959, 73 Stat. 425; Pub. L. 88–636, §1, Oct. 8, 1964, 78 Stat. 1034; Pub. L. 93–545, §1, Dec. 26, 1974, 88 Stat. 1741; Pub. L. 96–513, title V, §511(48), Dec. 12, 1980, 94 Stat. 2924; renumbered §12732 and amended Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3000; Pub. L. 104–201, div. A, title V, §543(b)(1), Sept. 23, 1996, 110 Stat. 2522; Pub. L. 106–65, div. A, title V, §578(h)(1), Oct. 5, 1999, 113 Stat. 628; Pub. L. 109–163, div. A, title V, §515(b)(1)(MM), Jan. 6, 2006, 119 Stat. 3234; Pub. L. 110–181, div. A, title VI, §633(c), Jan. 28, 2008, 122 Stat. 155.)
 
@@ -156,7 +156,7 @@ In subsection (a)(1)(B)–(C), the words “June 15” are inserted to reflect t
 
 In subsection (a)(1)(D), 10:1036e(c)(8) (last 25 words), 10:1036e(c)(9) (last 22 words), 34:440m(c)(8) (last 25 words), and 34:440m(c)(9) (last 22 words) are omitted as covered by subsection (b)(5).
 
-In subsection (a)(2)(A), the words “service that conformed to required standards and qualifications” are substituted for 10:1036e(b) and 34:440m(b). In clause (a)(2)(A), 10:1036e(d) and 34:440m(d), which make it clear that “active Federal service”, in the sense in which that term is used in 10:1036a–e and 34:440i–m, includes annual training duty and attendance at service schools, are omitted as covered by sections 101(22) and 101(24) of this title.
+In subsection (a)(2)(A), the words “service that conformed to required standards and qualifications” are substituted for 10:1036e(b) and 34:440m(b). In clause (a)(2)(A), 10:1036e(d) and 34:440m(d), which make it clearthat “active Federal service”, in the sense in which that term is used in 10:1036a–e and 34:440i–m, includes annual training duty and attendance at service schools, are omitted as covered by sections 101(22) and 101(24) of this title.
 
 In subsection (a)(2)(A) and (B), specific reference is made to National Guard service to reflect the opinion of the Judge Advocate General of the Army (JAGA, 1956/1908, 13 Feb. 1956).
 
@@ -228,7 +228,7 @@ Section 531(b), (c) of Pub. L. 104–201 provided that:
 
 “(b)
 
-Tracking System for Award of Retirement Points.—To better enable the Secretary of Defense and Congress to assess the cost and the effect on readiness of the amendment made by subsection (a) \[amending section 12733 of this title\] and of other potential changes to the Reserve retirement system under chapter 1223 of title 10, United States Code, the Secretary of Defense shall require the Secretary of each military department to implement a system to monitor the award of retirement points for purposes of that chapter by categories in accordance with the recommendation set forth in the August 1988 report of the Sixth Quadrennial Review of Military Compensation.
+Tracking System for Award of Retirement Points.—To better enable the Secretary of Defense and Congress to assess the cost and the effect on readiness of the amendment made by subsection (a) \[amending section 12733 of this title\] and of other potential changes to the Reserve retirement system under chapter 1223 of title 10, United States Code, the Secretary of Defense shall require the Secretary of each military department to implement a system to monitor the award of retirement points for purposes of that chapter bycategories in accordance with the recommendation set forth in the August 1988 report of the Sixth Quadrennial Review of Military Compensation.
 
 “(c)
 

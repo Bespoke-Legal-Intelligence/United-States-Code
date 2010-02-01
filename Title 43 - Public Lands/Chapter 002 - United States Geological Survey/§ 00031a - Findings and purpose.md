@@ -4,7 +4,7 @@
 
 The Congress finds and declares that—
 
-&emsp;(1) during the past 2 decades, the production of geologic maps has been drastically curtailed;
+&emsp;(1) although significant progress has been made in the production of geologic maps since the establishment of the national cooperative geologic mapping program in 1992, no modern, digital, geologic map exists for approximately 75 percent of the United States;
 
 &emsp;(2) geologic maps are the primary data base for virtually all applied and basic earth-science investigations, including—
 
@@ -12,11 +12,11 @@ The Congress finds and declares that—
 
 &emsp;&emsp;(B) screening and characterizing sites for toxic and nuclear waste disposal;
 
-&emsp;&emsp;(C) land use evaluation and planning for environmental protection;
+&emsp;&emsp;(C) land use evaluation and planning for homeland and environmental protection;
 
 &emsp;&emsp;(D) earthquake hazards reduction;
 
-&emsp;&emsp;(E) predicting volcanic hazards;
+&emsp;&emsp;(E) identifying volcanic hazards;
 
 &emsp;&emsp;(F) design and construction of infrastructure requirements such as utility lifelines, transportation corridors, and surface-water impoundments;
 
@@ -24,9 +24,11 @@ The Congress finds and declares that—
 
 &emsp;&emsp;(H) mitigating effects of coastal and stream erosion;
 
-&emsp;&emsp;(I) siting of critical facilities; and
+&emsp;&emsp;(I) siting of critical facilities;
 
-&emsp;&emsp;(J) basic earth-science research;
+&emsp;&emsp;(J) recreation and public awareness; and
+
+&emsp;&emsp;(K) basic earth-science research;
 
 &emsp;(3) Federal agencies, State and local governments, private industry, and the general public depend on the information provided by geologic maps to determine the extent of potential environmental damage before embarking on projects that could lead to preventable, costly environmental problems or litigation;
 
@@ -40,21 +42,33 @@ The Congress finds and declares that—
 
 &emsp;(8) geologic map information is required for the sustainable and balanced development of natural resources of all types, including energy, minerals, land, water, and biological resources;
 
-&emsp;(9) advances in digital technology and geographical information system science have made geologic map databases increasingly important as decision support tools for land and resource management; and
+&emsp;(9) advances in digital technology and geographical information system science have made geologic map databases increasingly available as decision support tools for land and resource management; and
 
 &emsp;(10) a comprehensive nationwide program of geologic mapping of surficial and bedrock deposits is required in order to systematically build the Nation's geologic-map data base at a pace that responds to increasing demand.
 
 #### (b) Purpose
 
-The purpose of sections 31a to 31h of this title is to expedite the production of a geologic-map data base for the Nation, to be located within the United States Geological Survey, which can be applied to land-use management, assessment, and utilization, conservation of natural resources, groundwater management, and environmental protection.
+The purpose of sections 31a to 31h of this title is to expedite the production of a geologic-map data base for the Nation, to be located within the United States Geological Survey, which can be applied to land-use management, assessment, and utilization, conservation of natural resources, groundwater management, and environmental protection and management.
 
-(Pub. L. 102–285, §2, May 18, 1992, 106 Stat. 166; Pub. L. 106–148, §2, Dec. 9, 1999, 113 Stat. 1719.)
+(Pub. L. 102–285, §2, May 18, 1992, 106 Stat. 166; Pub. L. 106–148, §2, Dec. 9, 1999, 113 Stat. 1719; Pub. L. 111–11, title XI, §11001(a), (b), Mar. 30, 2009, 123 Stat. 1414.)
 
 #### References in Text
 
-Sections 31a to 31h of this title, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 102–285, which is classified principally to sections 31a to 31h of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
+Sections 31a to 31h of this title, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 102–285, known as the National Geologic Mapping Act of 1992, which is classified principally to sections 31a to 31h of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Amendments
+
+2009—Subsec. (a)(1). Pub. L. 111–11, §11001(a)(1), added par. (1) and struck out former par. (1) which read as follows: “during the past 2 decades, the production of geologic maps has been drastically curtailed;”.
+
+Subsec. (a)(2)(C). Pub. L. 111–11, §11001(a)(2)(A), inserted “homeland and” after “planning for”.
+
+Subsec. (a)(2)(E). Pub. L. 111–11, §11001(a)(2)(B), substituted “identifying” for “predicting”.
+
+Subsec. (a)(2)(J), (K). Pub. L. 111–11, §11001(a)(2)(C)–(E), added subpar. (J) and redesignated former subpar. (J) as (K).
+
+Subsec. (a)(9). Pub. L. 111–11, §11001(a)(3), substituted “available” for “important”.
+
+Subsec. (b). Pub. L. 111–11, §11001(b), inserted “and management” before period at end.
 
 1999—Subsec. (a)(8) to (10). Pub. L. 106–148 added pars. (8) and (9) and redesignated former par. (8) as (10) and inserted “of surficial and bedrock deposits” after “geologic mapping”.
 

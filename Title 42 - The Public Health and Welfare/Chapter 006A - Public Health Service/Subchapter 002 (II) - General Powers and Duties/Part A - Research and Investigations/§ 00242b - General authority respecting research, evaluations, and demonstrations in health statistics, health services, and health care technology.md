@@ -22,7 +22,7 @@ To implement subsection (a) of this section and section 242k of this title, the 
 
 (2) The Secretary shall coordinate the health services research, evaluations, and demonstrations, the health statistical and (where appropriate) epidemiological activities, and the research, evaluations, and demonstrations respecting the assessment of health care technology authorized by this chapter through the Agency for Healthcare Research and Quality and the National Center for Health Statistics.
 
-(July 1, 1944, ch. 373, title III, §304, as added July 28, 1955, ch. 417, §3, 69 Stat. 382; amended Aug. 2, 1956, ch. 871, title V, §502, 70 Stat. 930; Pub. L. 90–174, §3(a), Dec. 5, 1967, 81 Stat. 534; Pub. L. 91–296, title IV, §401(b)(1)(A), June 30, 1970, 84 Stat. 352; Pub. L. 91–515, title II, §§201(a)–(c), 202, 203, Oct. 30, 1970, 84 Stat. 1301–1303; Pub. L. 93–45, title I, §102, June 18, 1973, 87 Stat. 91; Pub. L. 93–353, title I, §103, July 23, 1974, 88 Stat. 362; Pub. L. 95–623, §§3, 7, Nov. 9, 1978, 92 Stat. 3443, 3451; Pub. L. 96–32, §5(a)–(c), July 10, 1979, 93 Stat. 82; Pub. L. 97–35, title IX, §918, Aug. 13, 1981, 95 Stat. 565; Pub. L. 98–551, §5(c), Oct. 30, 1984, 98 Stat. 2819; Pub. L. 101–239, title VI, §6103(e)(1), Dec. 19, 1989, 103 Stat. 2205; Pub. L. 103–183, title V, §501(b), Dec. 14, 1993, 107 Stat. 2237; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 107–206, title I, §804(c), Aug. 2, 2002, 116 Stat. 874.)
+(July 1, 1944, ch. 373, title III, §304, as added July 28, 1955, ch. 417, §3, 69 Stat. 382; amended Aug. 2,1956, ch. 871, title V, §502, 70 Stat. 930; Pub. L. 90–174, §3(a), Dec. 5, 1967, 81 Stat. 534; Pub. L. 91–296, title IV, §401(b)(1)(A), June 30, 1970, 84 Stat. 352; Pub. L. 91–515, title II, §§201(a)–(c), 202, 203, Oct. 30, 1970, 84 Stat. 1301–1303; Pub. L. 93–45, title I, §102, June 18, 1973, 87 Stat. 91; Pub. L. 93–353, title I, §103, July 23, 1974, 88 Stat. 362; Pub. L. 95–623, §§3, 7, Nov. 9, 1978, 92 Stat. 3443, 3451; Pub. L. 96–32, §5(a)–(c), July 10, 1979, 93 Stat. 82; Pub. L. 97–35, title IX, §918, Aug. 13, 1981, 95 Stat. 565; Pub. L. 98–551, §5(c), Oct. 30, 1984, 98 Stat. 2819; Pub. L. 101–239, title VI, §6103(e)(1), Dec. 19, 1989, 103 Stat. 2205; Pub. L. 103–183, title V, §501(b), Dec. 14, 1993, 107 Stat. 2237; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 107–206, title I, §804(c), Aug. 2, 2002, 116 Stat. 874.)
 
 #### References in Text
 
@@ -52,7 +52,7 @@ Subsec. (c)(1), (2). Pub. L. 101–239, §6103(e)(1)(D), substituted “the Agen
 
 Subsec. (a)(3). Pub. L. 98–551, §5(c)(1), (3), substituted “the National Center for Health Services Research and Health Care Technology Assessment or the National Center for Health Statistics” for “the National Center for Health Services Research, the National Center for Health Statistics, or the National Center for Health Care Technology”.
 
-Subsec. (c)(1), (2). Pub. L. 98–551, §5(c)(1), (2), substituted “the National Center for Health Services Research and Health Care Technology Assessment and theNational Center for Health Statistics” for “the National Center for Health Services Research, the National Center for Health Statistics, and the National Center for Health Care Technology”.
+Subsec. (c)(1), (2). Pub. L. 98–551, §5(c)(1), (2), substituted “the National Center for Health Services Research and Health Care Technology Assessment and the National Center for Health Statistics” for “the National Center for Health Services Research, the National Center for Health Statistics, and the National Center for Health Care Technology”.
 
 1981—Subsec. (a)(3). Pub. L. 97–35, §918(a), substituted “may” for “shall”, “or the” for “and the”, “or using” for “and using”, and “or other” for “and other”.
 
@@ -76,7 +76,7 @@ Subsec. (b)(1). Pub. L. 95–623, §3(b), as amended by Pub. L. 96–32, §5(a),
 
 Subsec. (b)(3). Pub. L. 95–623, §3(d), as amended by Pub. L. 96–32, §5(b), substituted “advisable but in accordance with section 3109 of title 5” for “advisable”, struck out “experts and” before “consultants”, and authorized the Secretary to obtain for the centers the services of experts with appropriate scientific or professional qualifications.
 
-Subsec. (c). Pub. L. 95–623, §3(c), designated existing text as par. (1), substituted “evaluations, and demonstrations, all health statistical and epidemiological activities, and all research, evaluations, and demonstrations respecting the assessment of health care technology” for “evaluation, demonstration, and health statistical activities” before “undertaken and supported”, required coordination of activities to also be carried out through the National Center for Health Care Technology, and added par. (2).
+Subsec. (c). Pub. L. 95–623, §3(c), designated existing text as par. (1), substituted “evaluations, and demonstrations, all health statistical and epidemiological activities, and all research, evaluations, and demonstrations respecting the assessment of health care technology” for “evaluation, demonstration, and health statistical activities” before “undertaken and supported”, required coordination of activities to alsobe carried out through the National Center for Health Care Technology, and added par. (2).
 
 Subsec. (d). Pub. L. 95–623, §7, as amended by Pub. L. 96–32, §5(c), added subsec. (d).
 
@@ -112,7 +112,7 @@ Amendment of section by act Aug. 2, 1956, effective July 1, 1956, see section 50
 
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855,80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Commission on Systemic Interoperability
 

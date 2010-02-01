@@ -14,6 +14,7 @@
 | 1a–6. | Law enforcement personnel within National Park System. |
 | 1a–7. | National Park System development program. |
 | 1a–7a. | National Park System crime prevention assistance. |
+| 1a–7b. | Protecting Americans from violent crime. |
 | 1a–8. | Maintenance management system. |
 | 1a–9. | Periodic review of National Park System. |
 | 1a–10. | Consultation with affected agencies and organizations. |
@@ -577,20 +578,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER XXIII—ABRAHAM LINCOLN BIRTHPLACE NATIONAL HISTORIC SITE
+#### SUBCHAPTER XXIII—ABRAHAM LINCOLN BIRTHPLACE NATIONAL HISTORICAL PARK
 
 |  |  |
 | :--- | ---: |
-| [211\.](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historic%20Site/%C2%A7%2000211%20-%20Acceptance%20of%20title%3B%20terms%20and%20conditions%3B%20admission%20fees.md) | Acceptance of title; terms and conditions; admission fees. |
-| [212\.](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historic%20Site/%C2%A7%2000212%20-%20Endowment%20fund%3B%20protection%20and%20preservation.md) | Endowment fund; protection and preservation. |
-| [213\.](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historic%20Site/%C2%A7%2000213%20-%20Execution%20of%20instruments%20necessary%20to%20carry%20out%20purposes%20of%20gift.md) | Execution of instruments necessary to carry out purposes of gift. |
-| [214\.](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historic%20Site/%C2%A7%2000214%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
-| [215\.](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historic%20Site/%C2%A7%2000215%20-%20Improvements%20and%20preservation%20of%20lands%20and%20buildings.md) | Improvements and preservation of lands and buildings. |
-| [216\.](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historic%20Site/%C2%A7%2000216%20-%20Authorization%20of%20appropriation.md) | Authorization of appropriation. |
-| [217\.](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historic%20Site/%C2%A7%2000217%20-%20Change%20in%20name%20of%20Abraham%20Lincoln%20National%20Park.md) | Change in name of Abraham Lincoln National Park. |
-| [217a.](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historic%20Site/%C2%A7%2000217a%20-%20Change%20in%20name%20of%20Abraham%20Lincoln%20National%20Historical%20Park.md) | Change in name of Abraham Lincoln National Historical Park. |
-| [218\.](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historic%20Site/%C2%A7%2000218%20-%20Addition%20of%20land.md) | Addition of land. |
-| [218a.](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historic%20Site/%C2%A7%2000218a%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historic%20Site%2C%20Kentucky.md) | Abraham Lincoln Birthplace National Historic Site, Kentucky. |
+| [211\.](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historical%20Park/%C2%A7%2000211%20-%20Acceptance%20of%20title%3B%20terms%20and%20conditions%3B%20admission%20fees.md) | Acceptance of title; terms and conditions; admission fees. |
+| [212\.](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historical%20Park/%C2%A7%2000212%20-%20Endowment%20fund%3B%20protection%20and%20preservation.md) | Endowment fund; protection and preservation. |
+| [213\.](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historical%20Park/%C2%A7%2000213%20-%20Execution%20of%20instruments%20necessary%20to%20carry%20out%20purposes%20of%20gift.md) | Execution of instruments necessary to carry out purposes of gift. |
+| [214\.](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historical%20Park/%C2%A7%2000214%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| [215\.](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historical%20Park/%C2%A7%2000215%20-%20Improvements%20and%20preservation%20of%20lands%20and%20buildings.md) | Improvements and preservation of lands and buildings. |
+| [216\.](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historical%20Park/%C2%A7%2000216%20-%20Authorization%20of%20appropriation.md) | Authorization of appropriation. |
+| [217\.](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historical%20Park/%C2%A7%2000217%20-%20Change%20in%20name%20of%20Abraham%20Lincoln%20National%20Park.md) | Change in name of Abraham Lincoln National Park. |
+| [217a.](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historical%20Park/%C2%A7%2000217a%20-%20Change%20in%20name%20of%20Abraham%20Lincoln%20National%20Historical%20Park.md) | Change in name of Abraham Lincoln National Historical Park. |
+| [217b.](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historical%20Park/%C2%A7%2000217b%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historical%20Park.md) | Abraham Lincoln Birthplace National Historical Park. |
+| [218\.](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historical%20Park/%C2%A7%2000218%20-%20Addition%20of%20land.md) | Addition of land. |
+| [218a.](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historical%20Park/%C2%A7%2000218a%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historical%20Park%2C%20Kentucky.md) | Abraham Lincoln Birthplace National Historical Park, Kentucky. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -625,22 +627,22 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER XXV—JEAN LAFITTE NATIONAL HISTORICAL PARK
+#### SUBCHAPTER XXV—JEAN LAFITTE NATIONAL HISTORICAL PARK AND PRESERVE
 
 #### Part A—Generally
 
 |  |  |
 | :--- | ---: |
-| [230\.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park/Part%20A%20-%20Generally/%C2%A7%2000230%20-%20Establishment%3B%20description%20of%20area.md) | Establishment; description of area. |
-| [230a.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park/Part%20A%20-%20Generally/%C2%A7%2000230a%20-%20Acquisition%20of%20property.md) | Acquisition of property. |
-| [230b.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park/Part%20A%20-%20Generally/%C2%A7%2000230b%20-%20Owner%27s%20retention%20of%20right%20of%20use%20and%20occupancy%20for%20residential%20purposes%20for%20life%20or%20fixed%20term%20of%20years%3B%20election%20of%20term%3B%20fair%20market%E2%80%A6.md) | Owner's retention of right of use and occupancy for residential purposes for life or fixed term of years; election of term; fair market value; transfer, assignment or termination; “improved property” defined. |
-| [230c.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park/Part%20A%20-%20Generally/%C2%A7%2000230c%20-%20Cooperative%20agreements%3B%20specific%20provisions.md) | Cooperative agreements; specific provisions. |
-| [230d.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park/Part%20A%20-%20Generally/%C2%A7%2000230d%20-%20Hunting%2C%20fishing%2C%20and%20trapping%3B%20public%20safety%3B%20consultation.md) | Hunting, fishing, and trapping; public safety; consultation. |
-| [230e.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park/Part%20A%20-%20Generally/%C2%A7%2000230e%20-%20Establishment%3B%20notice%20in%20Federal%20Register%3B%20administration.md) | Establishment; notice in Federal Register; administration. |
-| [230f.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park/Part%20A%20-%20Generally/%C2%A7%2000230f%20-%20Delta%20Region%20Preservation%20Commission.md) | Delta Region Preservation Commission. |
-| [230g.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park/Part%20A%20-%20Generally/%C2%A7%2000230g%20-%20Authorization%20of%20appropriations%3B%20general%20management%20plan%3B%20submission%20to%20Congressional%20committees.md) | Authorization of appropriations; general management plan; submission to Congressional committees. |
-| [230h.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park/Part%20A%20-%20Generally/%C2%A7%2000230h%20-%20Change%20in%20name%20of%20Chalmette%20National%20Historical%20Park.md) | Change in name of Chalmette National Historical Park. |
-| [230i.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park/Part%20A%20-%20Generally/%C2%A7%2000230i%20-%20Report%20to%20Congressional%20committees.md) | Report to Congressional committees. |
+| [230\.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20A%20-%20Generally/%C2%A7%2000230%20-%20Establishment%3B%20description%20of%20area.md) | Establishment; description of area. |
+| [230a.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20A%20-%20Generally/%C2%A7%2000230a%20-%20Acquisition%20of%20property.md) | Acquisition of property. |
+| [230b.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20A%20-%20Generally/%C2%A7%2000230b%20-%20Owner%27s%20retention%20of%20right%20of%20use%20and%20occupancy%20for%20residential%20purposes%20for%20life%20or%20fixed%20term%20of%20years%3B%20election%20of%20term%3B%20fair%20market%E2%80%A6.md) | Owner's retention of right of use and occupancy for residential purposes for life or fixed term of years; election of term; fair market value; transfer, assignment or termination; “improved property” defined. |
+| [230c.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20A%20-%20Generally/%C2%A7%2000230c%20-%20Cooperative%20agreements%3B%20specific%20provisions.md) | Cooperative agreements; specific provisions. |
+| [230d.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20A%20-%20Generally/%C2%A7%2000230d%20-%20Hunting%2C%20fishing%2C%20and%20trapping%3B%20public%20safety%3B%20consultation.md) | Hunting, fishing, and trapping; public safety; consultation. |
+| [230e.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20A%20-%20Generally/%C2%A7%2000230e%20-%20Establishment%3B%20notice%20in%20Federal%20Register%3B%20administration.md) | Establishment; notice in Federal Register; administration. |
+| [230f.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20A%20-%20Generally/%C2%A7%2000230f%20-%20Delta%20Region%20Preservation%20Commission.md) | Delta Region Preservation Commission. |
+| [230g.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20A%20-%20Generally/%C2%A7%2000230g%20-%20Authorization%20of%20appropriations%3B%20general%20management%20plan%3B%20submission%20to%20Congressional%20committees.md) | Authorization of appropriations; general management plan; submission to Congressional committees. |
+| [230h.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20A%20-%20Generally/%C2%A7%2000230h%20-%20Change%20in%20name%20of%20Chalmette%20National%20Historical%20Park.md) | Change in name of Chalmette National Historical Park. |
+| [230i.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20A%20-%20Generally/%C2%A7%2000230i%20-%20Report%20to%20Congressional%20committees.md) | Report to Congressional committees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -648,11 +650,11 @@
 
 |  |  |
 | :--- | ---: |
-| [231\.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park/Part%20B%20-%20Chalmette%20Unit/%C2%A7%2000231%20-%20Establishment%3B%20description%20of%20area.md) | Establishment; description of area. |
-| [231a.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park/Part%20B%20-%20Chalmette%20Unit/%C2%A7%2000231a%20-%20Additional%20lands.md) | Additional lands. |
-| [231b.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park/Part%20B%20-%20Chalmette%20Unit/%C2%A7%2000231b%20-%20Acceptance%20of%20donations.md) | Acceptance of donations. |
-| [231c.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park/Part%20B%20-%20Chalmette%20Unit/%C2%A7%2000231c%20-%20Administration%2C%20protection%2C%20and%20development.md) | Administration, protection, and development. |
-| [231d.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park/Part%20B%20-%20Chalmette%20Unit/%C2%A7%2000231d%20-%20Repeal%20of%20inconsistent%20laws.md) | Repeal of inconsistent laws. |
+| [231\.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20B%20-%20Chalmette%20Unit/%C2%A7%2000231%20-%20Establishment%3B%20description%20of%20area.md) | Establishment; description of area. |
+| [231a.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20B%20-%20Chalmette%20Unit/%C2%A7%2000231a%20-%20Additional%20lands.md) | Additional lands. |
+| [231b.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20B%20-%20Chalmette%20Unit/%C2%A7%2000231b%20-%20Acceptance%20of%20donations.md) | Acceptance of donations. |
+| [231c.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20B%20-%20Chalmette%20Unit/%C2%A7%2000231c%20-%20Administration%2C%20protection%2C%20and%20development.md) | Administration, protection, and development. |
+| [231d.](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/Part%20B%20-%20Chalmette%20Unit/%C2%A7%2000231d%20-%20Repeal%20of%20inconsistent%20laws.md) | Repeal of inconsistent laws. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -869,6 +871,7 @@
 | 346a–3. | Exchange of lands; construction of interchange. |
 | 346a–4. | Boundary revision |
 | 346a–5. | Zion National Park boundary adjustment. |
+| 346a–6. | Transfer of administrative jurisdiction to National Park Service. |
 | [346b.](Subchapter%20038%20%28XXXVIII%29%20-%20Zion%20National%20Park/%C2%A7%2000346b%20-%20Consolidation%20of%20Zion%20National%20Park%20and%20Zion%20National%20Monument.md) | Consolidation of Zion National Park and Zion National Monument. |
 | [346c.](Subchapter%20038%20%28XXXVIII%29%20-%20Zion%20National%20Park/%C2%A7%2000346c%20-%20Administration.md) | Administration. |
 | [346d.](Subchapter%20038%20%28XXXVIII%29%20-%20Zion%20National%20Park/%C2%A7%2000346d%20-%20Use%20of%20funds.md) | Use of funds. |
@@ -1222,6 +1225,7 @@
 | 410r–6. | Boundary modification. |
 | 410r–7. | Administration. |
 | 410r–8. | Modification of certain water projects. |
+| 410r–9. | Everglades National Park. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1435,6 +1439,7 @@
 |  |  |
 | :--- | ---: |
 | 410<i>ll.</i> | Establishment. |
+| 410<i>ll</i>–1. | Votes for Women Trail. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1858,6 +1863,36 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER LIX–JJ—PATERSON GREAT FALLS NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| 410<i>lll</i>. | Paterson Great Falls National Historical Park, New Jersey. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER LIX–KK—THOMAS EDISON NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410mmm.](Subchapter%20059%E2%80%93KK%20%28LIX%E2%80%93KK%29%20-%20Thomas%20Edison%20National%20Historical%20Park/%C2%A7%2000410mmm%20-%20Thomas%20Edison%20National%20Historical%20Park%2C%20New%20Jersey.md) | Thomas Edison National Historical Park, New Jersey. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER LIX–LL—PALO ALTO BATTLEFIELD NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410nnn.](Subchapter%20059%E2%80%93LL%20%28LIX%E2%80%93LL%29%20-%20Palo%20Alto%20Battlefield%20National%20Historical%20Park/%C2%A7%2000410nnn%20-%20Findings.md) | Findings. |
+| 410nnn–1. | Palo Alto Battlefield National Historical Park. |
+| 410nnn–2. | Administration. |
+| 410nnn–3. | Land acquisition. |
+| 410nnn–4. | Cooperative agreements. |
+| 410nnn–5. | Management plan. |
+| 410nnn–6. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER LX—NATIONAL MILITARY PARKS
 
 |  |  |
@@ -2072,6 +2107,7 @@
 | 430uu–2. | Acquisition of land; exclusion from Beaverhead National Forest; administration. |
 | 430uu–3. | Jurisdiction. |
 | 430uu–4. | Authorization of appropriation. |
+| [430vv.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430vv%20-%20River%20Raisin%20National%20Battlefield%20Park.md) | River Raisin National Battlefield Park. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2998,11 +3034,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER XCIX—WHITE ROCKS NATIONAL RECREATION AREA
+#### SUBCHAPTER XCIX—ROBERT T. STAFFORD WHITE ROCKS NATIONAL RECREATION AREA
 
 |  |  |
 | :--- | ---: |
-| [460nn.](Subchapter%20099%20%28XCIX%29%20-%20White%20Rocks%20National%20Recreation%20Area/%C2%A7%2000460nn%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
+| [460nn.](Subchapter%20099%20%28XCIX%29%20-%20Robert%20T.%20Stafford%20White%20Rocks%20National%20Recreation%20Area/%C2%A7%2000460nn%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
 | 460nn–1. | Establishment. |
 | 460nn–2. | Map and description. |
 | 460nn–3. | Administration. |
@@ -3319,11 +3355,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER CXX—SNAKE RIVER BIRDS OF PREY NATIONAL CONSERVATION AREA
+#### SUBCHAPTER CXX—MORLEY NELSON SNAKE RIVER BIRDS OF PREY NATIONAL CONSERVATION AREA
 
 |  |  |
 | :--- | ---: |
-| [460iii.](Subchapter%20120%20%28CXX%29%20-%20Snake%20River%20Birds%20of%20Prey%20National%20Conservation%20Area/%C2%A7%2000460iii%20-%20Findings.md) | Findings. |
+| [460iii.](Subchapter%20120%20%28CXX%29%20-%20Morley%20Nelson%20Snake%20River%20Birds%20of%20Prey%20National%20Conservation%20Area/%C2%A7%2000460iii%20-%20Findings.md) | Findings. |
 | 460iii–1. | Definitions. |
 | 460iii–2. | Establishment. |
 | 460iii–3. | Management and use. |
@@ -3620,6 +3656,64 @@ I74subpart 1—designation and purposes
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER CXXXII—MOUNT HOOD NATIONAL RECREATION AREA
+
+|  |  |
+| :--- | ---: |
+| [460uuu.](Subchapter%20132%20%28CXXXII%29%20-%20Mount%20Hood%20National%20Recreation%20Area/%C2%A7%2000460uuu%20-%20Mount%20Hood%20National%20Recreation%20Area.md) | Mount Hood National Recreation Area. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER CXXXIII—BRIDGEPORT WINTER RECREATION AREA
+
+|  |  |
+| :--- | ---: |
+| [460vvv.](Subchapter%20133%20%28CXXXIII%29%20-%20Bridgeport%20Winter%20Recreation%20Area/%C2%A7%2000460vvv%20-%20Bridgeport%20Winter%20Recreation%20Area.md) | Bridgeport Winter Recreation Area. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER CXXXIV—RED CLIFFS NATIONAL CONSERVATION AREA
+
+|  |  |
+| :--- | ---: |
+| [460www.](Subchapter%20134%20%28CXXXIV%29%20-%20Red%20Cliffs%20National%20Conservation%20Area/%C2%A7%2000460www%20-%20Red%20Cliffs%20National%20Conservation%20Area.md) | Red Cliffs National Conservation Area. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER CXXXV—BEAVER DAM WASH NATIONAL CONSERVATION AREA
+
+|  |  |
+| :--- | ---: |
+| [460xxx.](Subchapter%20135%20%28CXXXV%29%20-%20Beaver%20Dam%20Wash%20National%20Conservation%20Area/%C2%A7%2000460xxx%20-%20Beaver%20Dam%20Wash%20National%20Conservation%20Area.md) | Beaver Dam Wash National Conservation Area. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER CXXXVI—FORT STANTON-SNOWY RIVER CAVE NATIONAL CONSERVATION AREA
+
+|  |  |
+| :--- | ---: |
+| [460yyy.](Subchapter%20136%20%28CXXXVI%29%20-%20Fort%20Stanton-Snowy%20River%20Cave%20National%20Conservation%20Area/%C2%A7%2000460yyy%20-%20Definitions.md) | Definitions. |
+| 460yyy–1. | Establishment of the Fort Stanton-Snowy River Cave National Conservation Area. |
+| 460yyy–2. | Management of the Conservation Area. |
+| 460yyy–3. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER CXXXVII—DOMINGUEZ-ESCALANTE NATIONAL CONSERVATION AREA
+
+|  |  |
+| :--- | ---: |
+| [460zzz.](Subchapter%20137%20%28CXXXVII%29%20-%20Dominguez-Escalante%20National%20Conservation%20Area/%C2%A7%2000460zzz%20-%20Definitions.md) | Definitions. |
+| 460zzz–1. | Dominguez-Escalante National Conservation Area. |
+| 460zzz–2. | Dominguez Canyon Wilderness Area. |
+| 460zzz–3. | Maps and legal descriptions. |
+| 460zzz–4. | Management of Conservation Area and Wilderness. |
+| 460zzz–5. | Management plan. |
+| 460zzz–6. | Advisory Council. |
+| 460zzz–7. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -3649,9 +3743,9 @@ I74subpart 1—designation and purposes
 - [Subchapter 020 (XX) - Glacier National Park](Subchapter%20020%20%28XX%29%20-%20Glacier%20National%20Park/README.md)
 - [Subchapter 021 (XXI) - Rocky Mountain National Park](Subchapter%20021%20%28XXI%29%20-%20Rocky%20Mountain%20National%20Park/README.md)
 - [Subchapter 022 (XXII) - Lassen Volcanic National Park](Subchapter%20022%20%28XXII%29%20-%20Lassen%20Volcanic%20National%20Park/README.md)
-- [Subchapter 023 (XXIII) - Abraham Lincoln Birthplace National Historic Site](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historic%20Site/README.md)
+- [Subchapter 023 (XXIII) - Abraham Lincoln Birthplace National Historical Park](Subchapter%20023%20%28XXIII%29%20-%20Abraham%20Lincoln%20Birthplace%20National%20Historical%20Park/README.md)
 - [Subchapter 024 (XXIV) - Grand Canyon National Park](Subchapter%20024%20%28XXIV%29%20-%20Grand%20Canyon%20National%20Park/README.md)
-- [Subchapter 025 (XXV) - Jean Lafitte National Historical Park](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park/README.md)
+- [Subchapter 025 (XXV) - Jean Lafitte National Historical Park and Preserve](Subchapter%20025%20%28XXV%29%20-%20Jean%20Lafitte%20National%20Historical%20Park%20and%20Preserve/README.md)
 - [Subchapter 026 (XXVI) - Theodore Roosevelt National Park](Subchapter%20026%20%28XXVI%29%20-%20Theodore%20Roosevelt%20National%20Park/README.md)
 - [Subchapter 027 (XXVII) - Olympic National Park](Subchapter%20027%20%28XXVII%29%20-%20Olympic%20National%20Park/README.md)
 - [Subchapter 028 (XXVIII) - Cumberland Gap National Historical Park](Subchapter%20028%20%28XXVIII%29%20-%20Cumberland%20Gap%20National%20Historical%20Park/README.md)
@@ -3723,6 +3817,9 @@ I74subpart 1—designation and purposes
 - [Subchapter 059&#8211;GG (LIX&#8211;GG) - Cedar Creek and Belle Grove National Historical Park](Subchapter%20059%E2%80%93GG%20%28LIX%E2%80%93GG%29%20-%20Cedar%20Creek%20and%20Belle%20Grove%20National%20Historical%20Park/README.md)
 - [Subchapter 059&#8211;HH (LIX&#8211;HH) - Congaree National Park](Subchapter%20059%E2%80%93HH%20%28LIX%E2%80%93HH%29%20-%20Congaree%20National%20Park/README.md)
 - [Subchapter 059&#8211;II (LIX&#8211;II) - Lewis and Clark National Historical Park](Subchapter%20059%E2%80%93II%20%28LIX%E2%80%93II%29%20-%20Lewis%20and%20Clark%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;JJ (LIX&#8211;JJ) - Paterson Great Falls National Historical Park](Subchapter%20059%E2%80%93JJ%20%28LIX%E2%80%93JJ%29%20-%20Paterson%20Great%20Falls%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;KK (LIX&#8211;KK) - Thomas Edison National Historical Park](Subchapter%20059%E2%80%93KK%20%28LIX%E2%80%93KK%29%20-%20Thomas%20Edison%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;LL (LIX&#8211;LL) - Palo Alto Battlefield National Historical Park](Subchapter%20059%E2%80%93LL%20%28LIX%E2%80%93LL%29%20-%20Palo%20Alto%20Battlefield%20National%20Historical%20Park/README.md)
 - [Subchapter 060 (LX) - National Military Parks](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/README.md)
 - [Subchapter 061 (LXI) - National and International Monuments and Memorials](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/README.md)
 - [Subchapter 062 (LXII) - Miscellaneous](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/README.md)
@@ -3763,7 +3860,7 @@ I74subpart 1—designation and purposes
 - [Subchapter 096 (XCVI) - Rattlesnake National Recreation Area](Subchapter%20096%20%28XCVI%29%20-%20Rattlesnake%20National%20Recreation%20Area/README.md)
 - [Subchapter 097 (XCVII) - Reserved](Subchapter%20097%20%28XCVII%29%20-%20Reserved/README.md)
 - [Subchapter 098 (XCVIII) - Steese National Conservation Area and White Mountains National Recreation Area](Subchapter%20098%20%28XCVIII%29%20-%20Steese%20National%20Conservation%20Area%20and%20White%20Mountains%20National%20Recreation%20Area/README.md)
-- [Subchapter 099 (XCIX) - White Rocks National Recreation Area](Subchapter%20099%20%28XCIX%29%20-%20White%20Rocks%20National%20Recreation%20Area/README.md)
+- [Subchapter 099 (XCIX) - Robert T. Stafford White Rocks National Recreation Area](Subchapter%20099%20%28XCIX%29%20-%20Robert%20T.%20Stafford%20White%20Rocks%20National%20Recreation%20Area/README.md)
 - [Subchapter 100 (C) - Oregon Cascades Recreation Area](Subchapter%20100%20%28C%29%20-%20Oregon%20Cascades%20Recreation%20Area/README.md)
 - [Subchapter 101 (CI) - Mount Baker Recreation Area](Subchapter%20101%20%28CI%29%20-%20Mount%20Baker%20Recreation%20Area/README.md)
 - [Subchapter 102 (CII) - Allegheny National Recreation Area](Subchapter%20102%20%28CII%29%20-%20Allegheny%20National%20Recreation%20Area/README.md)
@@ -3784,7 +3881,7 @@ I74subpart 1—designation and purposes
 - [Subchapter 117 (CXVII) - Amistad National Recreation Area](Subchapter%20117%20%28CXVII%29%20-%20Amistad%20National%20Recreation%20Area/README.md)
 - [Subchapter 118 (CXVIII) - Ed Jenkins National Recreation Area and Coosa Bald National Scenic Area](Subchapter%20118%20%28CXVIII%29%20-%20Ed%20Jenkins%20National%20Recreation%20Area%20and%20Coosa%20Bald%20National%20Scenic%20Area/README.md)
 - [Subchapter 119 (CXIX) - Spring Mountains National Recreation Area](Subchapter%20119%20%28CXIX%29%20-%20Spring%20Mountains%20National%20Recreation%20Area/README.md)
-- [Subchapter 120 (CXX) - Snake River Birds of Prey National Conservation Area](Subchapter%20120%20%28CXX%29%20-%20Snake%20River%20Birds%20of%20Prey%20National%20Conservation%20Area/README.md)
+- [Subchapter 120 (CXX) - Morley Nelson Snake River Birds of Prey National Conservation Area](Subchapter%20120%20%28CXX%29%20-%20Morley%20Nelson%20Snake%20River%20Birds%20of%20Prey%20National%20Conservation%20Area/README.md)
 - [Subchapter 121 (CXXI) - Jemez National Recreational Area](Subchapter%20121%20%28CXXI%29%20-%20Jemez%20National%20Recreational%20Area/README.md)
 - [Subchapter 122 (CXXII) - Boston Harbor Islands National Recreation Area](Subchapter%20122%20%28CXXII%29%20-%20Boston%20Harbor%20Islands%20National%20Recreation%20Area/README.md)
 - [Subchapter 123 (CXXIII) - Land Between the Lakes Protection](Subchapter%20123%20%28CXXIII%29%20-%20Land%20Between%20the%20Lakes%20Protection/README.md)
@@ -3796,3 +3893,9 @@ I74subpart 1—designation and purposes
 - [Subchapter 129 (CXXIX) - Rio Grande Natural Area](Subchapter%20129%20%28CXXIX%29%20-%20Rio%20Grande%20Natural%20Area/README.md)
 - [Subchapter 130 (CXXX) - Cow Mountain Recreation Area](Subchapter%20130%20%28CXXX%29%20-%20Cow%20Mountain%20Recreation%20Area/README.md)
 - [Subchapter 131 (CXXXI) - Moosalamoo National Recreation Area](Subchapter%20131%20%28CXXXI%29%20-%20Moosalamoo%20National%20Recreation%20Area/README.md)
+- [Subchapter 132 (CXXXII) - Mount Hood National Recreation Area](Subchapter%20132%20%28CXXXII%29%20-%20Mount%20Hood%20National%20Recreation%20Area/README.md)
+- [Subchapter 133 (CXXXIII) - Bridgeport Winter Recreation Area](Subchapter%20133%20%28CXXXIII%29%20-%20Bridgeport%20Winter%20Recreation%20Area/README.md)
+- [Subchapter 134 (CXXXIV) - Red Cliffs National Conservation Area](Subchapter%20134%20%28CXXXIV%29%20-%20Red%20Cliffs%20National%20Conservation%20Area/README.md)
+- [Subchapter 135 (CXXXV) - Beaver Dam Wash National Conservation Area](Subchapter%20135%20%28CXXXV%29%20-%20Beaver%20Dam%20Wash%20National%20Conservation%20Area/README.md)
+- [Subchapter 136 (CXXXVI) - Fort Stanton-Snowy River Cave National Conservation Area](Subchapter%20136%20%28CXXXVI%29%20-%20Fort%20Stanton-Snowy%20River%20Cave%20National%20Conservation%20Area/README.md)
+- [Subchapter 137 (CXXXVII) - Dominguez-Escalante National Conservation Area](Subchapter%20137%20%28CXXXVII%29%20-%20Dominguez-Escalante%20National%20Conservation%20Area/README.md)

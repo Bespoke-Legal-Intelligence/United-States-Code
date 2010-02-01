@@ -2,7 +2,7 @@
 
 To carry out section 12781 of this title, the Secretary shall provide assistance under this part to—
 
-&emsp;(1) facilitate the exchange of information that would help participating jurisdictionscarry out the purposes of this subchapter, including information on program design, housing finance, land use controls, and building construction techniques;
+&emsp;(1) facilitate the exchange of information that would help participating jurisdictions carry out the purposes of this subchapter, including information on program design, housing finance, land use controls, and building construction techniques;
 
 &emsp;(2) improve the ability of States and units of general local government to design and implement comprehensive housing affordability strategies, particularly those States and units of general local government that are relatively inexperienced in the development of affordable housing;
 
@@ -22,5 +22,5 @@ To carry out section 12781 of this title, the Secretary shall provide assistance
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
+Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of thischapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
 

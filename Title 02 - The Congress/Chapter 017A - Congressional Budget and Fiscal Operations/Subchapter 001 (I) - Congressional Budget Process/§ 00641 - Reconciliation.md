@@ -38,11 +38,11 @@ If a concurrent resolution containing directives to one or more committees to de
 
 &emsp;(A) if—
 
-&emsp;&emsp;(i) the amount of the changes of the type described in paragraph (1) of such subsectionrecommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under such paragraph by more than <sup>1</sup>
+&emsp;&emsp;(i) the amount of the changes of the type described in paragraph (1) of such subsection recommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under such paragraph by more than <sup>1</sup>
 
 &emsp;&emsp;&emsp;(I) in the Senate, 20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection; or
 
-&emsp;&emsp;&emsp;(II) in the House of Representatives, 20 percent of the sum of the absolute value of the changes the committee was directed to make under paragraph (1) and the absolute value of the changes the committee was directed to make under paragraph (2); and
+&emsp;&emsp;&emsp;(II) in the House of Representatives, 20 percent of the sum of the absolute value ofthe changes the committee was directed to make under paragraph (1) and the absolute value of the changes the committee was directed to make under paragraph (2); and
 
 &emsp;&emsp;(ii) the amount of the changes of the type described in paragraph (2) of such subsection recommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under that paragraph by more than <sup>1</sup>
 
@@ -76,7 +76,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 (1) Except as provided in paragraph (2), the provisions of section 636 of this title for the consideration in the Senate of concurrent resolutions on the budget and conference reports thereon shall also apply to the consideration in the Senate of reconciliation bills reported under subsection (b) of this section and conference reports thereon.
 
-(2) Debate in the Senate on any reconciliation bill reported under subsection (b) of this section,and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to not more than 20 hours.
+(2) Debate in the Senate on any reconciliation bill reported under subsection (b) of this section, and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to not more than 20 hours.
 
 #### (f) Completion of reconciliation process
 

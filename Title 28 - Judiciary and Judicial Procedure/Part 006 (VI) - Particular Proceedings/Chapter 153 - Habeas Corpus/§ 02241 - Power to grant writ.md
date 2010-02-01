@@ -60,7 +60,7 @@ Subsec. (e). Pub. L. 109–163 added subsec. (e), relating to section 1405 of th
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–366, §7(b), Oct. 17, 2006, 120 Stat. 2636, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 2006\], and shall apply to all cases, without exception, pending on or after the date of the enactment of this Act which relate to any aspect of the detention, transfer, treatment,trial, or conditions of detention of an alien detained by the United States since September 11, 2001.”
+Pub. L. 109–366, §7(b), Oct. 17, 2006, 120 Stat. 2636, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 2006\], and shall apply to all cases, without exception, pending on or after the date of the enactment of this Act which relate to any aspect of the detention, transfer, treatment, trial, or conditions of detention of an alien detained by the United States since September 11, 2001.”
 
 #### Treaty Obligations Not Establishing Grounds for Certain Claims
 

@@ -5,6 +5,4 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 14071 - Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Program](%C2%A7%2014071%20-%20Jacob%20Wetterling%20Crimes%20Against%20Children%20and%20Sexually%20Violent%20Offender%20Registration%20Program.md)
-- [&sect; 14072 - FBI database](%C2%A7%2014072%20-%20FBI%20database.md)
-- [&sect; 14073 - Immunity for good faith conduct](%C2%A7%2014073%20-%20Immunity%20for%20good%20faith%20conduct.md)
+- [&sect; 14071 to 14073 - Repealed. Pub. L. 109&#8211;248, title I, &sect;129(a), July 27, 2006, 120 Stat. 600](%C2%A7%2014071%20to%2014073%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93248%2C%20title%20I%2C%20%C2%A7129%28a%29%2C%20July%2027%2C%202006%2C%20120%20Stat.%20600.md)

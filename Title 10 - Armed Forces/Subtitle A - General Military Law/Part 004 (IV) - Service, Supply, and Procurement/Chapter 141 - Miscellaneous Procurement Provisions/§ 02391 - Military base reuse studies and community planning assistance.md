@@ -88,9 +88,9 @@ Executive Order 12788, referred to in subsec. (c), is set out below.
 
 Subsec. (c). Pub. L. 109–364, §2861, added subsec. (c).
 
-Subsec. (d)(1). Pub. L. 109–364, §2862, inserted at end “For purposes of subsection (b)(1)(D), the term ‘military installation’ includes a military facility owned and operated by any of the several States, the Districtof Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, or the Virgin Islands, even though the facility is not under the jurisdiction of the Department of Defense, if the Secretary of Defense determines that the military facility is subject to significant use for training by the armed forces.”
+Subsec. (d)(1). Pub. L. 109–364, §2862, inserted at end “For purposes of subsection (b)(1)(D), the term ‘military installation’ includes a military facility owned and operated by any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, or the Virgin Islands, even though the facility is not under the jurisdiction of the Department of Defense, if the Secretary of Defense determines that the military facility is subject to significant use for training by the armed forces.”
 
-Pub. L. 109–163, §2832(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘military installation’ means any camp, post, station, base, yard, or other installation under the jurisdiction of a military department that is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or Guam.”
+Pub. L. 109–163, §2832(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term‘military installation’ means any camp, post, station, base, yard, or other installation under the jurisdiction of a military department that is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or Guam.”
 
 2002—Subsec. (c). Pub. L. 107–314 struck out heading and text of subsec. (c). Text read as follows: “The Secretary of Defense shall submit a report not later than December 1 of each year to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives concerning the operation of this section during the preceding fiscal year. Each such report shall identify each State, unit of local government, and regional organization that received a grant under this section during such fiscal year and the total amount granted under this section during such year to each such State, unit of local government, and regional organization.”
 
@@ -548,7 +548,7 @@ Sec. 5. <i>Responsibilities of Executive Agencies.</i>
 
 (b) All executive agencies shall:
 
-(1) Support, to the extent permitted by law, the economic adjustment assistance activities of the Secretary of Defense. Such support may include the use and application of personnel, technical expertise, legal authorities, and available financial resources. This support may be used, to the extent permitted by law, to provide a coordinated Federal response to the needs of individual States, regions, municipalities, and communities adversely affected by necessary Defense changes;
+(1) Support, to the extent permitted by law, the economic adjustment assistance activities of the Secretary of Defense. Such support may include the use and application of personnel, technical expertise, legal authorities, and available financial resources. This support may be used, to the extent permitted by law, toprovide a coordinated Federal response to the needs of individual States, regions, municipalities, and communities adversely affected by necessary Defense changes;
 
 (2) Afford priority consideration to requests from Defense-affected communities for Federal technical assistance, financial resources, excess or surplus property, or other requirements, that are part of a comprehensive plan used by the Committee.
 

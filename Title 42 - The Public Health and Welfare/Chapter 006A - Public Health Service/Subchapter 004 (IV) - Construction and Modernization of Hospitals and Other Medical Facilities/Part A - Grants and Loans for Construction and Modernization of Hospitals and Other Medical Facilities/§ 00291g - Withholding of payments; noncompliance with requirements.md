@@ -24,7 +24,7 @@ Whenever the Surgeon General, after reasonable notice and opportunity for hearin
 
 A prior section 291g, act July 1, 1944, ch. 373, title VI, §624, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended June 29, 1948, ch. 728, §1, 62 Stat. 1103; Oct. 25, 1949, ch. 722, §§3(b), 7, 63 Stat. 899, 901; Aug. 1, 1956, ch. 852, §19(c), 70 Stat. 911; Sept. 25, 1962, Pub. L. 87–688, §4(a)(3), 76 Stat. 587, authorized allotments to States for construction, specified their amount, and provided for availability for unexpended funds, prior to the general amendment of this subchapter by Pub. L. 88–443. See section 291b of this title.
 
-Provisions similar to those comprising this section were contained in former section 291j(a), acts July 1, 1944, ch. 373, title VI, §632, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, §4,63 Stat. 900; July 12, 1954, ch. 471, §4(g), 68 Stat. 466, prior to the general amendment of this subchapter by Pub. L. 88–443.
+Provisions similar to those comprising this section were contained in former section 291j(a), acts July 1, 1944, ch. 373, title VI, §632, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, §4, 63 Stat. 900; July 12, 1954, ch. 471, §4(g), 68 Stat. 466, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
 #### Transfer of Functions
 

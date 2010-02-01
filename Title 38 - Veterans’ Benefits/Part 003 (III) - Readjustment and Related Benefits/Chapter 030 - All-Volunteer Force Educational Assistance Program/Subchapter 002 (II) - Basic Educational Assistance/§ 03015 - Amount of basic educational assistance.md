@@ -54,7 +54,7 @@
 
 &emsp;(B) the average cost of undergraduate tuition in the United States, as so determined, for the academic year preceding the academic year described in subparagraph (A).
 
-(2) Any increase under paragraph (1) in a rate with respect to a fiscal year after fiscal year 2004 and before fiscal year 2014 shall be rounded down to the next lower whole dollar amount. Any such increase with respect to a fiscal year after fiscal year 2013 shall be rounded to the nearest whole dollar amount.
+(2) Any increase under paragraph (1) in a rate with respect to a fiscal year after fiscal year 2004 and before fiscal year 2014 shall be rounded down to the next lower whole dollar amount. Any such increase with respect to a fiscal yearafter fiscal year 2013 shall be rounded to the nearest whole dollar amount.
 
 (Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2557, §1415; amended Pub. L. 100–689, title I, §§103(b)(3), 111(a)(5)(A), Nov. 18, 1988, 102 Stat. 4165, 4171; Pub. L. 101–189, div. A, title VI, §641, Nov. 29, 1989, 103 Stat. 1456; Pub. L. 101–237, title IV, §423(b)(1)(A), (5), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §561(b)(2), Nov. 5, 1990, 104 Stat. 1573; Pub. L. 102–25, title III, §337(a), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–54, §14(c)(1), June 13, 1991, 105 Stat. 284; renumbered §3015 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §§301(a), (c), 307(a), (b), Oct. 29, 1992, 106 Stat. 4325, 4326, 4328, 4329; Pub. L. 103–66, title XII, §12009(a), (d)(1), (2), Aug. 10, 1993, 107 Stat. 415, 416; Pub. L. 104–275, title I, §106(b)(3), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 105–114, title IV, §401(b), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–178, title VIII, §8203(a)(1)–(3), June 9, 1998, 112 Stat. 493; Pub. L. 105–261, div. A, title V, §565(a), title VI, §656(a), Oct. 17, 1998, 112 Stat. 2029, 2053; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(b)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–359; Pub. L. 106–419, title I, §§101(a), 103(d), 105(b), Nov. 1, 2000, 114 Stat. 1824, 1826, 1829; Pub. L. 107–14, §7(b)(2)(A), (c)(3), June 5, 2001, 115 Stat. 31, 32; Pub. L. 107–103, title I, §101(a), Dec. 27, 2001, 115 Stat. 977; Pub. L. 108–183, title III, §304(a), Dec. 16, 2003, 117 Stat. 2659; Pub. L. 110–252, title V, §5004(a)–(c), June 30, 2008, 122 Stat. 2379.)
 
@@ -250,7 +250,7 @@ Section 12009(d)(3) of Pub. L. 103–66 provided that: “The amendments made by
 
 #### Effective Date of 1992 Amendment
 
-Amendment by section 301(a) and (c) of Pub. L. 102–568 effective Apr. 1, 1993, but not to be construed tochange account from which payment is made for certain portion of payments made under this chapter or chapter 106 of Title 10, Armed Services, see section 301(e) of Pub. L. 102–568, set out as a note under section 16131 of Title 10.
+Amendment by section 301(a) and (c) of Pub. L. 102–568 effective Apr. 1, 1993, but not to be construed to change account from which payment is made for certain portion of payments made under this chapter or chapter 106 of Title 10, Armed Services, see section 301(e) of Pub. L. 102–568, set out as a note under section 16131 of Title 10.
 
 Section 307(c) of Pub. L. 102–568 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect as if enacted on June 30, 1985, and apply to the payment of educational assistance for education or training pursued on or after September 1, 1993.”
 

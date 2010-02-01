@@ -10,11 +10,11 @@ The Commissioner, in accordance with the provisions of this part, may make grant
 
 &emsp;(A) is made at such time, in such manner, and contains such information as the Commissioner may require;
 
-&emsp;(B) contains assurances that the rehabilitation services provided under this part to American Indians who are individuals with disabilities residing on or near a reservationin a State shall be, to the maximum extent feasible, comparable to rehabilitation services provided under this subchapter to other individuals with disabilities residing in the State and that, where appropriate, may include services traditionally used by Indian tribes; and
+&emsp;(B) contains assurances that the rehabilitation services provided under this part to American Indians who are individuals with disabilities residing on or near a reservation in a State shall be, to the maximum extent feasible, comparable to rehabilitation services provided under this subchapter to other individuals with disabilities residing in the State and that, where appropriate, may include services traditionally used by Indian tribes; and
 
 &emsp;(C) contains assurances that the application was developed in consultation with the designated State unit of the State.
 
-(2) The provisions of sections 450c, 450d, 450e, and 450f(a) of title 25 shall be applicable to any application submitted under this part. For purposes of this paragraph, any reference in any such provision to the Secretary of Education or to the Secretary of the Interior shall be considered to be a reference to the Commissioner.
+(2) The provisions of sections 450c, 450d, 450e, and 450f(a) of title 25 shall be applicable to anyapplication submitted under this part. For purposes of this paragraph, any reference in any such provision to the Secretary of Education or to the Secretary of the Interior shall be considered to be a reference to the Commissioner.
 
 (3) Any application approved under this part shall be effective for not more than 60 months, except as determined otherwise by the Commissioner pursuant to prescribed regulations. The State shall continue to provide vocational rehabilitation services under its State plan to American Indians residing on or near a reservation whenever such State includes any such American Indians in its State population under section 730(a)(1) of this title.
 

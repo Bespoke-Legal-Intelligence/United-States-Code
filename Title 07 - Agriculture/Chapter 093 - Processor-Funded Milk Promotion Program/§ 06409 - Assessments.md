@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The order shall provide that each fluid milk processor shall pay an assessment on each unitof fluid milk product that such person processes and markets commercially in consumer-type packages in the United States.
+The order shall provide that each fluid milk processor shall pay an assessment on each unit of fluid milk product that such person processes and markets commercially in consumer-type packages in the United States.
 
 #### (b) No effect on producer prices
 

@@ -26,7 +26,7 @@ An individual that receives assistance under this section with regard to the pro
 
 #### (A) Supervision of individuals
 
-&emsp;&emsp;Nothing in this section shall be construed to require or imply that a physician or other health professional licensed to prescribe drugs must supervise an individual receiving assistance under the demonstration project under this section, with respect to such project.
+&emsp;&emsp;Nothing in this section shall be construed to require or imply that a physician or otherhealth professional licensed to prescribe drugs must supervise an individual receiving assistance under the demonstration project under this section, with respect to such project.
 
 #### (B) Licensure of health professionals
 
@@ -72,7 +72,7 @@ This section shall not be construed to require any State to participate in the p
 
 #### (2) Fiscal year 2005
 
-&emsp;If the Secretary determines and certifies to Congress by not later than September 30, 2004, that the number of individuals participatingin the demonstration project established under this section is insufficient for purposes of performing the evaluation described in subsection (f)(1) of this section, the authorization of appropriations under paragraph (1) shall be extended to include fiscal year 2005.
+&emsp;If the Secretary determines and certifies to Congress by not later than September 30, 2004, that the number of individuals participating in the demonstration project established under this section is insufficient for purposes of performing the evaluation described in subsection (f)(1) of this section, the authorization of appropriations under paragraph (1) shall be extended to include fiscal year 2005.
 
 (July 1, 1944, ch. 373, title III, §338L, as added Pub. L. 107–251, title III, §317, Oct. 26, 2002, 116 Stat. 1653.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Appointments for educational programs
 
-(1) The Administrator is authorized to select and appoint up to 75 full-time permanent staff members in the Office of Research and Development to pursue full-time educational programs for the purpose of (A) securing an advanced degree or (B) securing academic training, for the purpose of making a career change in order to better carry out the Agency's research mission.
+(1) The Administrator is authorized to select and appoint up to 75 full-time permanent staffmembers in the Office of Research and Development to pursue full-time educational programs for the purpose of (A) securing an advanced degree or (B) securing academic training, for the purpose of making a career change in order to better carry out the Agency's research mission.
 
 (2) The Administrator shall select and appoint staff members for these assignments according to rules and criteria promulgated by him. The Agency may continue to pay the salary and benefits of the appointees as well as reasonable and appropriate relocation expenses and tuition.
 

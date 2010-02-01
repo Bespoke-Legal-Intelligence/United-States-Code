@@ -170,7 +170,7 @@ Continuance in office of assistant secretary for family support.—The individua
 
 “(c)
 
-Termination of Entitlement Under AFDC Program.—Effective October 1, 1996, no individual or family shall be entitled to any benefits or services under any State plan approved under part A or F of title IV of the Social Security Act \[this part or part F of this subchapter\] (as in effect on September 30, 1995).”
+Termination of Entitlement Under AFDC Program.—Effective October 1, 1996, no individual or family shall be entitled to any benefits or services underany State plan approved under part A or F of title IV of the Social Security Act \[this part or part F of this subchapter\] (as in effect on September 30, 1995).”
 
 #### Congressional Findings
 
@@ -258,7 +258,7 @@ Section 101 of Pub. L. 104–193 provided that: “The Congress makes the follow
 
 &emsp;&emsp;“(M) Of those youth held for criminal offenses within the State juvenile justice system, only 29.8 percent lived primarily in a home with both parents. In contrast to these incarcerated youth, 73.9 percent of the 62,800,000 children in the Nation's resident population were living with both parents.
 
-&emsp;“(10) Therefore, in light of this demonstration of the crisis in our Nation, it is the sense of the Congress that prevention of out-of-wedlock pregnancy and reduction in out-of-wedlock birth are very important Government interests and the policy contained in part A of title IV of the Social Security Act \[thispart\] (as amended by section 103(a) of this Act) is intended to address the crisis.”
+&emsp;“(10) Therefore, in light of this demonstration of the crisis in our Nation, it is the sense of the Congress that prevention of out-of-wedlock pregnancy and reduction in out-of-wedlock birth are very important Government interests and the policy contained in part A of title IV of the Social Security Act \[this part\] (as amended by section 103(a) of this Act) is intended to address the crisis.”
 
 \[References to the food stamp program established under the Food and Nutrition Act of 2008 considered to refer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of Title 7, Agriculture.\]
 

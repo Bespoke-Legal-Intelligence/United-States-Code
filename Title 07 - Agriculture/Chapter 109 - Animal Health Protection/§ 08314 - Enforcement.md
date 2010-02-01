@@ -58,7 +58,7 @@
 
 The Attorney General may—
 
-&emsp;(1) prosecute, in the name of the United States, all criminal violations of this chapterthat are referred to the Attorney General by the Secretary or are brought to the notice of the Attorney General by any person;
+&emsp;(1) prosecute, in the name of the United States, all criminal violations of this chapter that are referred to the Attorney General by the Secretary or are brought to the notice of the Attorney General by any person;
 
 &emsp;(2) bring an action to enjoin the violation of or to compel compliance with this chapter, or to enjoin any interference by any person with the Secretary in carrying out this chapter, in any case in which the Secretary has reason to believe that the person has violated, or is about to violate this chapter or has interfered, or is about to interfere, with the actions of the Secretary; or
 
@@ -78,7 +78,7 @@ The Attorney General may—
 
 &emsp;Paragraphs (1) and (2) do not apply to sections 8309(c) and 8313(b) of this title.
 
-(Pub. L. 107–171, title X, §10415, May 13, 2002, 116 Stat. 505; Pub. L. 110–234, title XI, §11012(b), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, §4(a), title XI, §11012(b), June 18, 2008, 122 Stat. 1664, 2122.)
+(Pub. L. 107–171, title X, §10415, May 13, 2002, 116 Stat. 505; Pub. L. 110–234, title XI, §11012(b), May22, 2008, 122 Stat. 1360; Pub. L. 110–246, §4(a), title XI, §11012(b), June 18, 2008, 122 Stat. 1664, 2122.)
 
 #### References in Text
 

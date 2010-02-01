@@ -50,7 +50,7 @@ This section, referred to in subsec. (b), was in the original “this Act”, wh
 
 #### Codification
 
-Section was enacted as the New England Fishery Resources Restoration Act of 1990, and not as part of the Fish Restoration and Management Projects Act which comprises this chapter.
+Section was enacted as the New England Fishery Resources Restoration Act of 1990, and not as part of theFish Restoration and Management Projects Act which comprises this chapter.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

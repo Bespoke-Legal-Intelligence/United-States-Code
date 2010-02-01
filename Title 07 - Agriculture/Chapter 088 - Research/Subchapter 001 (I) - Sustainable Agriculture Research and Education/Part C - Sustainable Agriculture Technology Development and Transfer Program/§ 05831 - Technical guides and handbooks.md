@@ -2,7 +2,7 @@
 
 #### (a) Development
 
-Not later than two years after November 28, 1990, the Secretary shall develop and make available handbooks and technical guides, and any other educational materials that are appropriate for describing sustainable agriculture production systems and practices, as researched and developed under this subchapter, chapter 86of this title,<sup>1</sup> and other appropriate research programs of the Department.
+Not later than two years after November 28, 1990, the Secretary shall develop and make available handbooks and technical guides, and any other educational materials that are appropriate for describing sustainable agriculture production systems and practices, as researched and developed under this subchapter, chapter 86 of this title,<sup>1</sup> and other appropriate research programs of the Department.
 
 #### (b) Consultation and coordination
 
@@ -38,7 +38,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 This subchapter, referred to in subsecs. (a), (c), and (d), was in the original “this subtitle”, meaning subtitle B (§§1619–1629) of title XVI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3733, which enacted this subchapter, repealed sections 4701 to 4710 of this title, and repealed provisions set out as a note under section 4701 of this title. For complete classification of subtitle B to the Code, see Tables.
 
-Chapter 86 of this title, referred to in subsecs. (a) and (d), was in the original “subtitle G of title XIV”, meaning subtitle G (§§1481–1485) of title XIV of Pub. L. 101–624, which was repealed by Pub. L. 105–185, title III, §302(c), June 23, 1998, 112 Stat. 563.
+Chapter 86 of this title, referred to in subsecs. (a) and (d), was in the original “subtitle G of title XIV”, meaning subtitle G (§§1481–1485) of title XIV of Pub. L.101–624, which was repealed by Pub. L. 105–185, title III, §302(c), June 23, 1998, 112 Stat. 563.
 
 #### Amendments
 

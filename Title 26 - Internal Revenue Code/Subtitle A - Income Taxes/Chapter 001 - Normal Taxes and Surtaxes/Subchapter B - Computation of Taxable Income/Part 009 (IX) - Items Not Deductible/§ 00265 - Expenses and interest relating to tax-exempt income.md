@@ -160,6 +160,36 @@ No deduction shall be allowed for—
 
 &emsp;&emsp;&emsp;(ii) the requirements of this paragraph are met with respect to each separate lot of obligations which are part of the issue (determined by treating each such separate lot as a separate issue).
 
+#### (G) Special rules for obligations issued during 2009 and 2010
+
+#### (i) Increase in limitation
+
+&emsp;&emsp;&emsp;In the case of obligations issued during 2009 or 2010, subparagraphs (C)(i), (D)(i), and (D)(iii)(II) shall each be applied by substituting “$30,000,000” for “$10,000,000”.
+
+#### (ii) Qualified 501(c)(3) bonds treated as issued by exempt organization
+
+&emsp;&emsp;&emsp;In the case of a qualified 501(c)(3) bond (as defined in section 145) issued during 2009 or 2010, this paragraph shall be applied by treating the 501(c)(3) organization for whose benefit such bond was issued as the issuer.
+
+#### (iii) Special rule for qualified financings
+
+&emsp;&emsp;&emsp;In the case of a qualified financing issue issued during 2009 or 2010—
+
+&emsp;&emsp;&emsp;&emsp;(I) subparagraph (F) shall not apply, and
+
+&emsp;&emsp;&emsp;&emsp;(II) any obligation issued as a part of such issue shall be treated as a qualified tax-exempt obligation if the requirements of this paragraph are met with respect to each qualified portion of the issue (determined by treating each qualified portion as a separate issue which is issued by the qualified borrower with respect to which such portion relates).
+
+#### (iv) Qualified financing issue
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “qualified financing issue” means any composite, pooled, or other conduit financing issue the proceeds of which are used directly or indirectly to make or finance loans to 1 or more ultimate borrowers each of whom is a qualified borrower.
+
+#### (v) Qualified portion
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “qualified portion” means that portion of the proceeds which are used with respect to each qualified borrower under the issue.
+
+#### (vi) Qualified borrower
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “qualified borrower” means a borrower which is a State or political subdivision thereof or an organization described in section 501(c)(3) and exempt from taxation under section 501(a).
+
 #### (4) Definitions
 
 &emsp;For purposes of this subsection—
@@ -194,7 +224,21 @@ No deduction shall be allowed for—
 
 &emsp;&emsp;This section shall be applied before the application of section 263A (relating to capitalization of certain expenses where taxpayer produces property).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 78; Pub. L. 88–272, title II, §216(a), Feb. 26, 1964, 78 Stat. 56; Pub. L. 94–455, title XIX, §§1901(a)(37), 1906(b)(13)(A), title XXI, §2137(e), Oct. 4, 1976, 90 Stat. 1770, 1834, 1931; Pub. L. 96–223, title IV, §404(b)(2), Apr. 2, 1980, 94 Stat. 306; Pub. L. 97–34, title III, §§301(b)(2), 302(c)(2), (d)(1), Aug. 13, 1981, 95 Stat. 270, 272, 274; Pub. L. 98–369, div. A, title I, §§16(a), 56(c), July 18, 1984, 98 Stat. 505, 574; Pub. L. 99–514, title I, §144, title IX, §902(a), (b), (d), Oct. 22, 1986, 100 Stat. 2121, 2380–2382; Pub. L. 100–647, title I, §1009(b)(3)(A), Nov. 10, 1988, 102 Stat. 3446; Pub. L. 101–508, title XI, §11801(c)(4), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 105–34, title X, §1084(c), Aug. 5, 1997, 111 Stat. 955.)
+#### (7) De minimis exception for bonds issued during 2009 or 2010
+
+#### (A) In general
+
+&emsp;&emsp;In applying paragraph (2)(A), there shall not be taken into account tax-exempt obligations issued during 2009 or 2010.
+
+#### (B) Limitation
+
+&emsp;&emsp;The amount of tax-exempt obligations not taken into account by reason of subparagraph (A) shall not exceed 2 percent of the amount determined under paragraph (2)(B).
+
+#### (C) Refundings
+
+&emsp;&emsp;For purposes of this paragraph, a refunding bond (whether a current or advance refunding) shall be treated as issued on the date of the issuance of the refunded bond (or in the case of a series of refundings, the original bond).
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 78; Pub. L. 88–272, title II, §216(a), Feb. 26, 1964, 78 Stat. 56; Pub. L. 94–455, title XIX, §§1901(a)(37), 1906(b)(13)(A), title XXI, §2137(e), Oct. 4, 1976, 90 Stat. 1770, 1834, 1931; Pub. L. 96–223, title IV, §404(b)(2), Apr. 2, 1980, 94 Stat. 306; Pub. L. 97–34, title III, §§301(b)(2), 302(c)(2), (d)(1), Aug. 13, 1981, 95 Stat. 270, 272, 274; Pub. L. 98–369, div. A, title I, §§16(a), 56(c), July 18, 1984, 98 Stat. 505, 574; Pub. L. 99–514, title I, §144, title IX, §902(a), (b), (d), Oct. 22, 1986, 100 Stat. 2121, 2380–2382; Pub. L. 100–647, title I, §1009(b)(3)(A), Nov. 10, 1988, 102 Stat. 3446; Pub. L. 101–508, title XI, §11801(c)(4), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 105–34, title X, §1084(c), Aug. 5, 1997, 111 Stat. 955; Pub. L. 111–5, div. B, title I, §§1501(a), 1502(a), Feb. 17, 2009, 123 Stat. 353.)
 
 #### References in Text
 
@@ -207,6 +251,10 @@ Sections 1312, 1313, 1316(g), and 1317 of the Tax Reform Act of 1986, referred t
 Another section 1084(c) of Pub. L. 105–34 amended section 264 of this title.
 
 #### Amendments
+
+2009—Subsec. (b)(3)(G). Pub. L. 111–5, §1502(a), added subpar. (G).
+
+Subsec. (b)(7). Pub. L. 111–5, §1501(a), added par. (7).
 
 1997—Subsec. (b)(4)(A). Pub. L. 105–34 inserted “, section 264,” before “and section 291”.
 
@@ -235,6 +283,12 @@ Pub. L. 97–34, §301(b)(2), inserted “, or to purchase or carry any certifi
 Pars. (3), (4). Pub. L. 94–455, §2137(e), added pars. (3) and (4).
 
 1964—Par. (2). Pub. L. 88–272 provided that interest on face-amount certificates issued by a face-amount certificate company, and interest on amounts received for the purchase of such certificates to be issued by such institution, shall not be considered interest on indebtedness to purchase or carry obligations the interest on which is wholly exempt from the taxes under this subtitle, to the extent the average amount of such obligations held by such institution during the taxable year doesn't exceed 15 percent of the average total assets held by such institution during the taxable year.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–5, div. B, title I, §1501(c), Feb. 17, 2009, 123 Stat. 353, provided that: “The amendments made by this section \[amending this section and section 291 of this title\] shall apply to obligations issued after December 31, 2008.”
+
+Pub. L. 111–5, div. B, title I, §1502(b), Feb. 17, 2009, 123 Stat. 354, provided that: “The amendment made by this section \[amending this section\] shall apply to obligations issued after December 31, 2008.”
 
 #### Effective Date of 1997 Amendment
 
@@ -370,7 +424,7 @@ Amendment by section 2137(e) of Pub. L. 94–455 effective for taxable years beg
 
 #### Effective Date of 1964 Amendment
 
-Section 216(b) of Pub. L. 88–272 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years endingafter the date of the enactment of this Act \[Feb. 21, 1964\].”
+Section 216(b) of Pub. L. 88–272 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Feb. 21, 1964\].”
 
 #### Savings Provision
 

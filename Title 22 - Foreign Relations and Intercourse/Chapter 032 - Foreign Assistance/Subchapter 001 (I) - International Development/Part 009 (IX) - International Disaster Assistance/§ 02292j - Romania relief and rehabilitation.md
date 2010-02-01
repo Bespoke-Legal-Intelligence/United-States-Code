@@ -2,7 +2,7 @@
 
 #### (a) Authorization of assistance
 
-The Congress, recognizing that prompt United States assistance is necessary to alleviate the human suffering arising from recent earthquakes in Romania, authorizes the President to furnish assistance, on such terms and conditions as he may determine, for the relief and rehabilitation of refugees and other earthquake victims in Romania.
+The Congress, recognizing that prompt United States assistance is necessary to alleviate thehuman suffering arising from recent earthquakes in Romania, authorizes the President to furnish assistance, on such terms and conditions as he may determine, for the relief and rehabilitation of refugees and other earthquake victims in Romania.
 
 #### (b) Authorization of appropriations
 

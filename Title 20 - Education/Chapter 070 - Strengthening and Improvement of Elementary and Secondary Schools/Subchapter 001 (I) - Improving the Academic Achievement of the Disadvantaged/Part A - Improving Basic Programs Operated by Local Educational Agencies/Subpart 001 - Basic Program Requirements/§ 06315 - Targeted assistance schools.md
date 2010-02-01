@@ -50,7 +50,7 @@ In all schools selected to receive funds under section 6313(c) of this title tha
 
 #### (1) In general
 
-&emsp;To assist targeted assistance schools and local educational agencies to meet their responsibility to provide for all their studentsserved under this part the opportunity to meet the State's challenging student academic achievement standards in subjects as determined by the State, each targeted assistance program under this section shall—
+&emsp;To assist targeted assistance schools and local educational agencies to meet their responsibility to provide for all their students served under this part the opportunity to meet the State's challenging student academic achievement standards in subjects as determined by the State, each targeted assistance program under this section shall—
 
 &emsp;&emsp;(A) use such program's resources under this part to help participating children meet such State's challenging student academic achievement standards expected for all children;
 
@@ -68,7 +68,7 @@ In all schools selected to receive funds under section 6313(c) of this title tha
 
 &emsp;&emsp;(E) provide instruction by highly qualified teachers;
 
-&emsp;&emsp;(F) in accordance with subsection (e)(3) of this section and section 6319 of this title, provide opportunities for professional development with resources provided under this part, and, to the extent practicable, from other sources, for teachers, principals, and paraprofessionals, including, if appropriate, pupil services personnel, parents, and other staff, who work with participating children in programs under this section or in the regular education program;
+&emsp;&emsp;(F) in accordance with subsection (e)(3) of this section and section 6319 of this title, provide opportunities for professional development with resources provided under this part, and, to the extent practicable, from other sources, for teachers, principals, and paraprofessionals, including, if appropriate, pupil services personnel, parents, and other staff, who work with participating childrenin programs under this section or in the regular education program;
 
 &emsp;&emsp;(G) provide strategies to increase parental involvement in accordance with section 6318 of this title, such as family literacy services; and
 

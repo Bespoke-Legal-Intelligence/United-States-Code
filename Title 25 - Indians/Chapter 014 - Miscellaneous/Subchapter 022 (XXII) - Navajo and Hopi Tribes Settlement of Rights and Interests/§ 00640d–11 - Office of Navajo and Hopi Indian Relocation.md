@@ -30,7 +30,7 @@ There is hereby established as an independent entity in the executive branch the
 
 &emsp;(A) appoint and fix the compensation of such staff and personnel as the Commissioner deems necessary in accordance with the provisions of title 5 governing appointments in the competitive service, but at rates not in excess of a position classified above a GS–15 of the General Schedule under section 5108 of such title; and
 
-&emsp;(B) procure temporary and intermittent services to the same extent as is authorized by section 3109 of title 5, but at rates not to exceed $200 a day for individuals.
+&emsp;(B) procure temporary and intermittent services to the same extent as is authorized bysection 3109 of title 5, but at rates not to exceed $200 a day for individuals.
 
 (2) The authority of the Commissioner to enter into contracts for the provision of legal services for the Commissioner or for the Office of Navajo and Hopi Indian Relocation shall be subject to the availability of funds provided for such purpose by appropriations Acts.
 

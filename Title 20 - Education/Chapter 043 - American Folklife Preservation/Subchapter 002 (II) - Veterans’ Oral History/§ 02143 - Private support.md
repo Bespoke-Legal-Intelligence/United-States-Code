@@ -6,7 +6,7 @@ The Librarian of Congress may solicit and accept donations of funds and in-kind 
 
 #### (b) Establishment of separate gift account
 
-There is established in the Treasury (among the accounts of the Library of Congress) a gift account for the oral history program under section 2142 of this title.
+There is established in the Treasury (among the accounts of the Library of Congress) a giftaccount for the oral history program under section 2142 of this title.
 
 #### (c) Dedication of funds
 

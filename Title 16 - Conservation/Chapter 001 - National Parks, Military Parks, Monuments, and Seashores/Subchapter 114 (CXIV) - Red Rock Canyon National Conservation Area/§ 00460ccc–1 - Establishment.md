@@ -42,7 +42,7 @@ Pub. L. 103–450, §3, Nov. 2, 1994, 108 Stat. 4767, as amended by Pub. L. 106�
 
 “(a)
 
-Withdrawal.—Subject to valid existing rights, the lands identified in subsection (b) are hereby withdrawn from all forms of entry under the public land laws, including the mining laws, and from operation of the mineral \[see 30 U.S.C. 181 et seq., 271 et seq., and 281 et seq.\] and geothermal leasing laws: <i>Provided</i>, That nothing in this subsection shall limit the issuance ofany necessary licenses or public land rights-of-way for any hydroelectric project involving such lands.
+Withdrawal.—Subject to valid existing rights, the lands identified in subsection (b) are hereby withdrawn from all forms of entry under the public landlaws, including the mining laws, and from operation of the mineral \[see 30 U.S.C. 181 et seq., 271 et seq., and 281 et seq.\] and geothermal leasing laws: <i>Provided</i>, That nothing in this subsection shall limit the issuance of any necessary licenses or public land rights-of-way for any hydroelectric project involving such lands.
 
 “(b)
 

@@ -20,7 +20,7 @@ In determining the eligibility of a household, an individual Native, or a descen
 
 > none of the following, received from a Native Corporation, shall be considered or taken into account as an asset or resource:
 
-&emsp;(A) cash (including cash dividends on stock received from a Native Corporation and on bonds received from a Native Corporation) to the extent that it does not, in the aggregate, exceed $2,000 per individual per annum;
+&emsp;(A) cash (including cash dividends on stock received from a Native Corporation and onbonds received from a Native Corporation) to the extent that it does not, in the aggregate, exceed $2,000 per individual per annum;
 
 &emsp;(B) stock (including stock issued or distributed by a Native Corporation as a dividend or distribution on stock) or bonds issued by a Native Corporation which bonds shall be subject to the protection of section 1606(h) of this title until voluntarily and expressly sold or pledged by the shareholder subsequent to the date of distribution;
 
@@ -52,7 +52,7 @@ Notwithstanding any other provision of law, Alaska Natives shall remain eligible
 
 (4)(A) Congress confirms that Federal procurement programs for tribes and Alaska Native Corporations are enacted pursuant to its authority under Article I, Section 8 of the United States Constitution.
 
-(B) Contracting with an entity defined in subsections <sup>1</sup> (e)(1) or (e)(2) of this section or section1452(c) of title 25 shall be credited towards the satisfaction of a contractor's small or small disadvantaged business subcontracting goals under section 502 of P.L. 100–656, provided that where lower tier subcontractors exist, the entity shall designate the appropriate contractor or contractors to receive such credit.
+(B) Contracting with an entity defined in subsections <sup>1</sup> (e)(1) or (e)(2) of this section or section 1452(c) of title 25 shall be credited towards the satisfaction of a contractor's small or small disadvantaged business subcontracting goals under section 502 of P.L. 100–656, provided that where lower tier subcontractors exist, the entity shall designate the appropriate contractor or contractors to receive such credit.
 
 (C) Any entity that satisfies subsection (e)(1) or (e)(2) of this section that has been certified under section 637 of title 15 is a Disadvantaged Business Enterprise for the purposes of Public Law 105–178.
 
@@ -78,7 +78,7 @@ The Civil Rights Act of 1964, referred to in subsec. (g), is Pub. L. 88–352, J
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Subsec. (f) amended section 1702(3), (4) of Title 30, Mineral Lands and Mining, and provided for effective date of such amendment.
 

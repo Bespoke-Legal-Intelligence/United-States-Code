@@ -68,7 +68,7 @@ In the case of the lessor or lessee under any section 467 rental agreement, ther
 
 &emsp;&emsp;(A) the prior understated inclusions, or
 
-&emsp;&emsp;(B) the excess of the amount realized (or in the case of a disposition other than a sale, exchange, or involuntary conversion, the fair market value of the property) over the adjusted basis of such property.
+&emsp;&emsp;(B) the excess of the amount realized (or in the case of a disposition other than a sale,exchange, or involuntary conversion, the fair market value of the property) over the adjusted basis of such property.
 
 > &emsp;The amount determined under subparagraph (B) shall be reduced by the amount of any gain treated as ordinary income on the disposition under any other provision of this subtitle.
 
@@ -174,7 +174,7 @@ For purposes of this section—
 
 #### (4) Discount and interest rate
 
-&emsp;For purposes of computing present value and interest under subsection (a)(2), the rate usedshall be equal to 110 percent of the applicable Federal rate determined under section 1274(d) (compounded semiannually) which is in effect at the time the agreement is entered into with respect to debt instruments having a maturity equal to the term of the agreement.
+&emsp;For purposes of computing present value and interest under subsection (a)(2), the rate used shall be equal to 110 percent of the applicable Federal rate determined under section 1274(d) (compounded semiannually) which is in effect at the time the agreement is entered into with respect to debt instruments having a maturity equal to the term of the agreement.
 
 #### (5) Related person
 
@@ -272,7 +272,7 @@ Exceptions.—The amendments made by this section shall not apply—
 
 &emsp;“(B) subject to the provisions of paragraph (3), to any agreement to lease property if—
 
-&emsp;&emsp;“(i) there was in effect a firm plan, evidenced by a board of directors’ resolution, memorandum of agreement, or letter of intent on March 15, 1984, to enter into such an agreement, and
+&emsp;&emsp;“(i) there was in effect a firm plan, evidenced by a board of directors’ resolution, memorandum ofagreement, or letter of intent on March 15, 1984, to enter into such an agreement, and
 
 &emsp;&emsp;“(ii) construction of the property was commenced (but such property was not placed in service) on or before March 15, 1984, and
 

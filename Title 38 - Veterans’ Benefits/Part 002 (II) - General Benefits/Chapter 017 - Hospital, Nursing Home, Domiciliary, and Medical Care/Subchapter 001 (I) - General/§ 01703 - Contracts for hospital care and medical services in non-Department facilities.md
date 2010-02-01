@@ -30,7 +30,7 @@
 
 &emsp;(8) Diagnostic services (on an inpatient or outpatient basis) for observation or examination of a person to determine eligibility for a benefit or service under laws administered by the Secretary.
 
-(b) In the case of any veteran for whom the Secretary contracts to furnish care or servicesin a non-Department facility pursuant to a provision of subsection (a) of this section, the Secretary shall periodically review the necessity for continuing such contractual arrangement pursuant to such provision.
+(b) In the case of any veteran for whom the Secretary contracts to furnish care or services in a non-Department facility pursuant to a provision of subsection (a) of this section, the Secretary shall periodically review the necessity for continuing such contractual arrangement pursuant to such provision.
 
 (c) The Secretary shall include in the budget documents which the Secretary submits to Congress for any fiscal year a detailed report on the furnishing of contract care and services during the most recently completed fiscal year under this section, sections 1712A, 1720, 1720A, 1724, and 1732 of this title, and section 115 of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 501).
 
@@ -108,7 +108,7 @@ Pub. L. 100–322, §101(e)(3)(A), substituted “section 612(a)(4) of this titl
 
 Subsec. (a)(2)(C). Pub. L. 100–322, §101(e)(3)(B), substituted “section 612(a)(3) (other than a veteran who is a former prisoner of war)” for “section 612(g)”.
 
-Subsec. (a)(3). Pub. L. 100–322, §104(a)(1), (b)(2), (3), substituted “Hospital” for “hospital”, inserted “ornursing home care under section 620 of this title”, and substituted the period for semicolon at end.
+Subsec. (a)(3). Pub. L. 100–322, §104(a)(1), (b)(2), (3), substituted “Hospital” for “hospital”, inserted “or nursing home care under section 620 of this title”, and substituted the period for semicolon at end.
 
 Subsec. (a)(4), (5). Pub. L. 100–322, §104(b)(2), (3), substituted “Hospital” for “hospital” and the period for semicolon at end.
 
@@ -126,7 +126,7 @@ Subsec. (c). Pub. L. 100–322, §112(a), added subsec. (c).
 
 #### Effective Date of 1988 Amendments
 
-Section 1503(b) of Pub. L. 100–687 provided that: “The amendments made by subsection (a)(1) \[amending this section\] shall apply with respect to the furnishing of medical services by contract to veterans who apply to the Veterans’ Administration for medical services after June 30, 1988.”
+Section 1503(b) of Pub. L. 100–687 provided that: “The amendments made by subsection (a)(1) \[amending this section\] shall apply with respect to the furnishing of medical services by contract to veterans who apply tothe Veterans’ Administration for medical services after June 30, 1988.”
 
 Section 101(i) of Pub. L. 100–322 provided that: “The amendments made by this section \[amending this section and sections 612 and 617 \[now 1712 and 1717\] of this title\] shall apply with respect to the furnishing of medical services to veterans who apply for such services after June 30, 1988.”
 
@@ -214,7 +214,7 @@ Exchange of Medical Information.—In conducting the pilot program under this se
 
 “(h)
 
-Reports.—Not later than the 30 days after the end of each year in which the pilot program under thissection is conducted, the Secretary shall submit to the Committee of Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report which includes—
+Reports.—Not later than the 30 days after the end of each year in which the pilot program under this section is conducted, the Secretary shall submit to the Committee of Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report which includes—
 
 &emsp;“(1) the assessment of the Secretary of the pilot program during the preceding year, including its cost, volume, quality, patient satisfaction, benefit to veterans, and such other findings and conclusions with respect to pilot program as the Secretary considers appropriate; and
 

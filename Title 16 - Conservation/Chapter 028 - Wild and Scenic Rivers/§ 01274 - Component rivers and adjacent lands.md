@@ -26,7 +26,7 @@ Rogue, Oregon—The segment of the river extending from the mouth of the Applega
 
 (6)
 
-Saint Croix, Minnesota and Wisconsin—The segment between the the dam near Taylors Falls, Minnesota, and the dam near Gordon, Wisconsin, and its tributary, the Namekago, from Lake Namekago downstream to its confluence with the Saint Croix; to be administered by the Secretary of the Interior: <i>Provided</i>, That except as may be required in connection with items (a) and (b) of this paragraph, no funds available to carry out the provisions of this chapter may be expended for the acquisition or development of lands in connection with, or for administration under this chapter of, that portion of the Saint Croix River between the dam near Taylors Falls, Minnesota, and the upstream end of Big Island in Wisconsin, until sixty days after the date on which the Secretary has transmitted to the President of the Senate and Speaker of the House of Representatives a proposed cooperative agreement between the Northern States Power Company and the United States (a) whereby the company agrees to convey to the United States, without charge, appropriate interests in certain of its lands between the dam near Taylors Falls, Minnesota, and the upstream end of Big Island in Wisconsin, including the company's right, title, and interest to approximately one hundred acres per mile, and (b) providing for the use and development of other lands and interests in land retained by the company between said points adjacent to the river in a manner which shall complement and not be inconsistent with the purposes for which the lands and interests in land donated by the company are administered under this chapter. Said agreement may also include provision for State or local governmental participation as authorized under subsection (e) of section 1281 of this title. A one-thousand-three-hundred-and-eighty-acre portion of the area commonly known as the Velie Estate, located adjacent to the Saint Croix River in Douglas County, Wisconsin, as depicted on the map entitled “Boundary Map/Velie Estate—Saint Croix National Scenic Riverway”, dated September 1980, and numbered 630–90,001, may be acquired by the Secretary without regard to any acreage limitation set forth in subsection (b) of this section or subsection (a) or (b) of section 1277 of this title.
+Saint Croix, Minnesota and Wisconsin—The segment between the the dam near Taylors Falls, Minnesota, and the dam near Gordon, Wisconsin, and its tributary, the Namekago, from Lake Namekago downstream to its confluence with the Saint Croix; to be administered by the Secretary of the Interior: <i>Provided</i>, That except as may be required in connection with items (a) and (b) of this paragraph, no funds available to carry out the provisions of this chapter may be expended for the acquisition or development of lands in connection with, or for administration under this chapter of, that portion of the Saint Croix River between the dam near Taylors Falls, Minnesota, and the upstream end of Big Island in Wisconsin, until sixty days after the date on which the Secretary has transmitted to the President of the Senate and Speaker of the House of Representatives a proposed cooperative agreement between the Northern States Power Company and the United States (a) whereby the company agrees to convey to the United States, without charge, appropriate interests in certain of its lands between the dam near Taylors Falls, Minnesota, and the upstream end of Big Island in Wisconsin, including the company's right, title, and interest to approximately one hundred acres per mile, and (b) providing for the use and development of other lands and interests in land retained by the company between said points adjacent to the river in a manner which shall complement and not be inconsistent with the purposes for which the lands and interests in land donated by the company are administered under this chapter. Said agreement may also include provision forState or local governmental participation as authorized under subsection (e) of section 1281 of this title. A one-thousand-three-hundred-and-eighty-acre portion of the area commonly known as the Velie Estate, located adjacent to the Saint Croix River in Douglas County, Wisconsin, as depicted on the map entitled “Boundary Map/Velie Estate—Saint Croix National Scenic Riverway”, dated September 1980, and numbered 630–90,001, may be acquired by the Secretary without regard to any acreage limitation set forth in subsection (b) of this section or subsection (a) or (b) of section 1277 of this title.
 
 (7)
 
@@ -66,7 +66,7 @@ Obed, Tennessee—The segment from the western edge of the Catoosa Wildlife Mana
 
 (16)
 
-Pere Marquette, Michigan—The segment downstream from the junction of the Middle and Little South Branches to its junction with United States Highway 31 as generally depicted on the boundary map entitled “Proposed Boundary Location, Pere Marquette Wild and Scenic River,”; to be administered by the Secretary of Agriculture. After consultation with State and local governments and the interested public, the Secretary shall take such action as is provided for under subsection (b) of this section with respect to the segment referred to in this paragraph within one year from November 10, 1978. Any development or management plan prepared pursuant to subsection (b) of this section shall include (a) provisions for the dissemination of information to river users and (b) such regulations relating to the recreational and other uses of the river as may be necessary in order to protect the area comprising such river (including lands contiguous or adjacent thereto) from damage or destruction by reason of overuse and to protect its scenic, historic, esthetic and scientific values. Such regulations shall further contain procedures and means which shall be utilized in the enforcement of such development and management plan. For the purposes of carrying out the provisions of this chapter with respect to the river designated by this paragraph, there are authorized to be appropriated not more than $8,125,000 for the acquisition of lands or interests in lands and $402,000 for development. Notwithstanding any other provision of this chapter, the installation and operation of facilities or other activities within or outside the boundaries of the Pere Marquette Wild and Scenic River for the control of the lamprey eel shall be permitted subject to such restrictions and conditions as the Secretary of Agriculture may prescribe for the protection of water quality and other values of the river, including the wild and scenic characteristics of the river.
+Pere Marquette, Michigan—The segment downstream from the junction of the Middle and Little South Branches to its junction with United States Highway 31 as generally depicted on the boundary map entitled “Proposed Boundary Location, Pere Marquette Wild and ScenicRiver,”; to be administered by the Secretary of Agriculture. After consultation with State and local governments and the interested public, the Secretary shall take such action as is provided for under subsection (b) of this section with respect to the segment referred to in this paragraph within one year from November 10, 1978. Any development or management plan prepared pursuant to subsection (b) of this section shall include (a) provisions for the dissemination of information to river users and (b) such regulations relating to the recreational and other uses of the river as may be necessary in order to protect the area comprising such river (including lands contiguous or adjacent thereto) from damage or destruction by reason of overuse and to protect its scenic, historic, esthetic and scientific values. Such regulations shall further contain procedures and means which shall be utilized in the enforcement of such development and management plan. For the purposes of carrying out the provisions of this chapter with respect to the river designated by this paragraph, there are authorized to be appropriated not more than $8,125,000 for the acquisition of lands or interests in lands and $402,000 for development. Notwithstanding any other provision of this chapter, the installation and operation of facilities or other activities within or outside the boundaries of the Pere Marquette Wild and Scenic River for the control of the lamprey eel shall be permitted subject to such restrictions and conditions as the Secretary of Agriculture may prescribe for the protection of water quality and other values of the river, including the wild and scenic characteristics of the river.
 
 (17)
 
@@ -80,11 +80,11 @@ Rio Grande, Texas—The segment on the United States side of the river from rive
 
 (18)
 
-Skagit, Washington—The segment from the pipeline crossing at Sedro-Woolley upstream to and including the mouth of Bacon Creek; the Cascade River from its mouth to the junction of its North and South Forks; the South Fork to the boundary of the Glacier Peak Wilderness Area; the Suiattle River from its mouth to the boundary of the Glacier Peak Wilderness Area at Milk Creek; the Sauk River from its mouth to its junction with Elliott Creek; the North Fork of the Sauk River from its junction withthe South Fork of the Sauk to the boundary of the Glacier Peak Wilderness Area; as generally depicted on the boundary map entitled “Skagit River—River Area Boundary”; all segments to be administered by the Secretary of Agriculture. Riprapping related to natural channels with natural rock along the shorelines of the Skagit segment to preserve and protect agricultural land shall not be considered inconsistent with the values for which such segment is designated. After consultation with affected Federal agencies, State and local government and the interested public, the Secretary shall take such action as is provided for under subsection (b) of this section with respect to the segments referred to in this paragraph within one year from November 10, 1978; as part of such action, the Secretary of Agriculture shall investigate that portion of the North Fork of the Cascade River from its confluence with the South Fork to the boundary of the North Cascades National Park and if such portion is found to qualify for inclusion, it shall be treated as a component of the Wild and Scenic Rivers System designated under this section upon publication by the Secretary of notification to that effect in the Federal Register. For the purposes of carrying out the provisions of this chapter with respect to the river designated by this paragraph there are authorized to be appropriated not more than $11,734,000 for the acquisition of lands or interest in lands and not more than $332,000 for development.
+Skagit, Washington—The segment from the pipeline crossing at Sedro-Woolley upstream to and including the mouth of Bacon Creek; the Cascade River from its mouth to the junction of its North and South Forks; the South Fork to the boundary of the Glacier Peak Wilderness Area; the Suiattle River from its mouth to the boundary of the Glacier Peak Wilderness Area at Milk Creek; the Sauk River from its mouth to its junction with Elliott Creek; the North Fork of the Sauk River from its junction with the South Fork of the Sauk to the boundary of the Glacier Peak Wilderness Area; as generally depicted on the boundary map entitled “Skagit River—River Area Boundary”; all segments to be administered by the Secretary of Agriculture. Riprapping related to natural channels with natural rock along the shorelines of the Skagit segment to preserve and protect agricultural land shall not be considered inconsistent with the values for which such segment is designated. After consultation with affected Federal agencies, State and local government and the interested public, the Secretary shall take such action as is provided for under subsection (b) of this section with respect to the segments referred to in this paragraph within one year from November 10, 1978; as part of such action, the Secretary of Agriculture shall investigate that portion of the North Fork of the Cascade River from its confluence with the South Fork to the boundary of the North Cascades National Park and if such portion is found to qualify for inclusion, it shall be treated as a component of the Wild and Scenic Rivers System designated under this section upon publication by the Secretary of notification to that effect in the Federal Register. For the purposes of carrying out the provisions of this chapter with respect to the river designated by this paragraph there are authorized to be appropriated not more than $11,734,000 for the acquisition of lands or interest in lands and not more than $332,000 for development.
 
 (19)
 
-Upper Delaware River, New York and Pennsylvania—The segment of the Upper Delaware River from the confluence of the East and West branches below Hancock, New York, to the existing railroad bridge immediately downstream of Cherry Island in the vicinity of Sparrow Bush, New York, as depicted on the boundary map entitled “The Upper Delaware Scenic and Recreational River”, dated April 1978; to be administered by the Secretary of the Interior. Subsection (b) of this section shall not apply, and the boundaries and classifications of the river shall be as specified on the map referred to in the preceding sentence, except to the extent that such boundaries or classifications are modified pursuant to section 704(c) of the National Parks and Recreation Act of 1978. Such boundaries and classifications shall be published in the Federal Register and shall not become effective until ninety days after they have been forwarded to the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate. For purposes of carrying out the provisions of this chapter with respect to the river designated by this paragraph there are authorized to be appropriated such sums as may be necessary.
+Upper Delaware River, New York and Pennsylvania—The segment of the Upper Delaware River from the confluence of the East and West branches below Hancock, New York, to the existing railroad bridge immediately downstream of Cherry Island in the vicinity of Sparrow Bush, New York, as depicted on the boundary map entitled “The Upper Delaware Scenic and Recreational River”, dated April 1978; to be administered by the Secretary of the Interior. Subsection (b) of this section shall not apply, and the boundaries and classifications of the river shall be as specified on the map referred to in the preceding sentence, except to the extent that such boundaries or classifications are modified pursuant to section 704(c) of the National Parks and Recreation Act of 1978. Such boundaries and classifications shall be published in the Federal Register and shall not become effective until ninety days after they have been forwarded to the Committee on Natural Resourcesof the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate. For purposes of carrying out the provisions of this chapter with respect to the river designated by this paragraph there are authorized to be appropriated such sums as may be necessary.
 
 (20)
 
@@ -98,11 +98,11 @@ American, California—The North Fork from a point 0.3 mile above Heath Springs 
 
 Missouri River, Nebraska, South Dakota—The segment from Gavins Point Dam, South Dakota, fifty-nine miles downstream to Ponca State Park, Nebraska, as generally depicted in the document entitled “Review Report for Water Resources Development, South Dakota, Nebraska, North Dakota, Montana”, prepared by the Division Engineer, Missouri River Division, Corps of Engineers, dated August 1977 (hereinafter in this paragraph referred to as the “August 1977 Report”). Such segment shall be administered as a recreational river by the Secretary. The Secretary shall enter into a written cooperative agreement with the Secretary of the Army (acting through the Chief of Engineers) for construction and maintenance of bank stabilization work and appropriate recreational development. After public notice and consultation with the State and local governments, other interested organizations and associations, and the interested public, the Secretary shall take such action as is required pursuant to subsection (b) of this section within one year from November 10, 1978. In administering such river, the Secretary shall, to the extent, and in a manner, consistent with this section—
 
-&emsp;(A) provide (i) for the construction by the United States of such recreation river features and streambank stabilization structures as the Secretary of the Army (acting through theChief of Engineers) deems necessary and advisable in connection with the segment designated by this paragraph, and (ii) for the operation and maintenance of all streambank stabilization structures constructed in connection with such segment (including both structures constructed before November 10, 1978, and structures constructed after such date, and including both structures constructed under the authority of this section and structures constructed under the authority of any other Act); and
+&emsp;(A) provide (i) for the construction by the United States of such recreation river features and streambank stabilization structures as the Secretary of the Army (acting through the Chief of Engineers) deems necessary and advisable in connection with the segment designated by this paragraph, and (ii) for the operation and maintenance of all streambank stabilization structures constructed in connection with such segment (including both structures constructed before November 10, 1978, and structures constructed after such date, and including both structures constructed under the authority of this section and structures constructed under the authority of any other Act); and
 
 &emsp;(B) permit access for such pumping and associated pipelines as may be necessary to assure an adequate supply of water for owners of land adjacent to such segment and for fish, wildlife, and recreational uses outside the river corridor established pursuant to this paragraph.
 
-> The streambank structures to be constructed and maintained under subparagraph (A) shall include, but not be limited to, structures at such sites as are specified with respect to such segment on pages 62 and 63 of the August 1977 Report, except that sites for such structures may be relocated to the extent deemed necessary by the Secretary of the Army (acting through the Chief of Engineers) by reason of physical changes in the river or river area. The Secretary of the Army (acting through the Chief of Engineers) shall condition the construction or maintenance of any streambank stabilization structure or of any recreational river feature at any site under subparagraph (A)(i) upon the availability to the United States of such land and interests in land in such ownership as he deems necessary to carry out such construction or maintenance and to protect and enhance the river in accordance with the purposes of this chapter. Administration of the river segment designated by this paragraph shall be in coordination with, and pursuant to the advice of a Recreational River Advisory Group which shall be established by the Secretary. Such Group may include in its membership, representatives of the affected States and political subdivisions thereof, affected Federal agencies, and such organized private groups as the Secretary deems desirable. Notwithstanding the authority to the contrary contained in section 1277(a) of this title, no land or interests in land may be acquired without the consent of the owner: <i>Provided</i>, That not to exceed 5 per centum of the acreage within the designated river boundaries may be acquired in less than fee title without the consent of the owner, in such instance of the Secretary's determination that activities are occurring, or threatening to occur thereon which constitute serious damage or threat to the integrity of the river corridor, in accordance with the values for which this river was designated. For purposes of carrying out the provisions of this chapter with respect to the river designated by this paragraph, there are authorized to be appropriated not to exceed $21,000,000, for acquisition of lands and interests in lands and for development.
+> The streambank structures to be constructed and maintained under subparagraph (A) shall include, but not be limited to, structures at such sites as are specified with respect to such segment on pages 62 and 63 of the August 1977 Report, except that sites for such structures may be relocated to the extent deemed necessary by the Secretary of the Army (acting through the Chief of Engineers) by reason of physical changes in the river or river area. The Secretary of the Army (acting through the Chief of Engineers) shall condition the construction or maintenance of any streambank stabilization structure or of any recreational river feature at any site under subparagraph (A)(i) upon the availability to the United States of such land and interests in land in such ownership as he deems necessary to carry out such construction or maintenance and to protect and enhance the river in accordance with the purposes of this chapter. Administration of the river segment designated by this paragraph shall be in coordination with, and pursuant to the advice of a Recreational River Advisory Group which shall be established by the Secretary. Such Group may include in its membership, representatives of the affected States and political subdivisions thereof, affected Federal agencies, and such organized private groups as the Secretary deems desirable. Notwithstanding the authority to the contrary contained in section 1277(a) of this title, no land or interests in land may be acquired without the consent of the owner: <i>Provided</i>, That not to exceed 5 per centum of the acreage within the designated river boundariesmay be acquired in less than fee title without the consent of the owner, in such instance of the Secretary's determination that activities are occurring, or threatening to occur thereon which constitute serious damage or threat to the integrity of the river corridor, in accordance with the values for which this river was designated. For purposes of carrying out the provisions of this chapter with respect to the river designated by this paragraph, there are authorized to be appropriated not to exceed $21,000,000, for acquisition of lands and interests in lands and for development.
 
 (23)
 
@@ -138,7 +138,7 @@ Alatna, Alaska—The main stem within the Gates of the Arctic National Park; to 
 
 (27)
 
-Aniakchak, Alaska—That portion of the river, including its major tributaries, Hidden Creek, Mystery Creek, Albert Johnson Creek, and North Fork Aniakchak River, within the Aniakchak National Monument and National Preserve; to be administered by the Secretary of the Interior.
+Aniakchak, Alaska—That portion of the river, including its major tributaries, Hidden Creek, Mystery Creek, Albert Johnson Creek,and North Fork Aniakchak River, within the Aniakchak National Monument and National Preserve; to be administered by the Secretary of the Interior.
 
 (28)
 
@@ -210,7 +210,7 @@ Alagnak, Alaska—Those segments or portions of the main stem and Nonvianuk trib
 
 (45)
 
-Beaver Creek, Alaska—The segment of the main stem from the vicinity of the confluence of the Bear and Champion Creeks downstream to its exit from the northeast corner of township 12 north, range 6 east, Fairbanks meridian within the White Mountains National Recreation Area, and the Yukon Flats NationalWildlife Refuge, to be administered by the Secretary of the Interior.
+Beaver Creek, Alaska—The segment of the main stem from the vicinity of the confluence of the Bear and Champion Creeks downstream to its exit from the northeast corner of township 12 north, range 6 east, Fairbanks meridian within the White Mountains National Recreation Area, and the Yukon Flats National Wildlife Refuge, to be administered by the Secretary of the Interior.
 
 (46)
 
@@ -250,7 +250,7 @@ Illinois, Oregon: The segment from the boundary of the Siskiyou National Forest 
 
 (55)
 
-Owyhee, Oregon: The South Fork from the Idaho-Oregon State line downstream to Three Forks; the Owyhee River from Three Forks downstream to China Gulch; and theOwyhee River downstream from Crooked Creek to the Owyhee Reservoir as generally depicted on a map entitled “Owyhee, Oregon” dated April 1984; all three segments to be administered as a wild river by the Secretary of the Interior. After consultation with State and local governments and the interested public, the Secretary shall take such appropriate action as is required under subsection (b) of this section within one year from October 19, 1984. For the purposes of this chapter with respect to the river designated by this paragraph, effective October 1, 1984, there are authorized to be appropriated such sums as necessary for the acquisition of lands or interests and such sums as necessary for development.
+Owyhee, Oregon: The South Fork from the Idaho-Oregon State line downstream to Three Forks; the Owyhee River from Three Forks downstream to China Gulch; and the Owyhee River downstream from Crooked Creek to the Owyhee Reservoir as generally depicted on a map entitled “Owyhee, Oregon” dated April 1984; all three segments to be administered as a wild river by the Secretary of the Interior. After consultation with State and local governments and the interested public, the Secretary shall take such appropriate action as is required under subsection (b) of this section within one year from October 19, 1984. For the purposes of this chapter with respect to the river designated by this paragraph, effective October 1, 1984, there are authorized to be appropriated such sums as necessary for the acquisition of lands or interests and such sums as necessary for development.
 
 (56)
 
@@ -290,7 +290,7 @@ White Salmon, Washington: The segment from its confluence with Gilmer Creek, Was
 
 (62)
 
-Merced, California.—(A) The main stem from its sources (including Red Peak Fork, Merced Peak Fork, Triple Peak Fork, and Lyell Fork) on the south side of Mount Lyell in Yosemite National Park to a point 300 feet upstream of the confluence with Bear Creek, consisting of approximately 71 miles, and the South Fork of the river from its source near Triple Divide Peak in Yosemite National Park to the confluence with the main stem, consisting of approximately 43 miles, both as generally depicted on the map entitled “Merced River Wild and Scenic Rivers—Proposed”, dated June 1987, to beadministered by the Secretary of Agriculture and the Secretary of the Interior. With respect to the portions of the river designated by this subparagraph which are within the boundaries of Yosemite National Park, and the El Portal Administrative Unit, the requirements of subsection (b) of this section shall be fulfilled by the Secretary of the Interior through appropriate revisions to the general management plan for the park, and the boundaries, classification, and development plans for such portions need not be published in the Federal Register. Such revisions to the general management plan for the park shall assure that no development or use of park lands shall be undertaken that is inconsistent with the designation of such river segments. There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this subparagraph, except that no more than $235,000 may be appropriated to the Secretary of Agriculture for the acquisition of lands and interests in lands.
+Merced, California.—(A) The main stem from its sources (including Red Peak Fork, Merced Peak Fork, Triple Peak Fork, and Lyell Fork) on the south side of Mount Lyell in Yosemite National Park to a point 300 feet upstream of the confluence with Bear Creek, consisting of approximately 71 miles, and the South Fork of the river from its source near Triple Divide Peak in Yosemite National Park to the confluence with the main stem, consisting of approximately 43 miles, both as generally depicted on the map entitled “Merced River Wild and Scenic Rivers—Proposed”, dated June 1987, to be administered by the Secretary of Agriculture and the Secretary of the Interior. With respect to the portions of the river designated by this subparagraph which are within the boundaries of Yosemite National Park, and the El Portal Administrative Unit, the requirements of subsection (b) of this section shall be fulfilled by the Secretary of the Interior through appropriate revisions to the general management plan for the park, and the boundaries, classification, and development plans for such portions need not be published in the Federal Register. Such revisions to the general management plan for the park shall assure that no development or use of park lands shall be undertaken that is inconsistent with the designation of such river segments. There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this subparagraph, except that no more than $235,000 may be appropriated to the Secretary of Agriculture for the acquisition of lands and interests in lands.
 
 (B)(i) The main stem from a point 300 feet upstream of the confluence with Bear Creek downstream to the normal maximum operating pool water surface level of Lake McClure (elevation 867 feet mean sea level) consisting of approximately 8 miles, as generally depicted on the map entitled “Merced Wild and Scenic River”, dated April, 1990. The Secretary of the Interior shall administer the segment as recreational, from a point 300 feet upstream of the confluence with Bear Creek downstream to a point 300 feet west of the boundary of the Mountain King Mine, and as wild, from a point 300 feet west of the boundary of the Mountain King Mine to the normal maximum operating pool water surface level of Lake McClure. The requirements of subsection (b) of this section shall be fulfilled by the Secretary of the Interior through appropriate revisions to the Sierra Management Framework Plan for the Sierra Planning Area of the Folsom Resource Area, Bakersfield District, Bureau of Land Management. There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this subparagraph.
 
@@ -316,7 +316,7 @@ South Fork Kern River, California.—The segment from its headwaters in the Inyo
 
 (65)
 
-Bluestone, West Virginia.—The segment in Mercer and Summers Counties, West Virginia, from a point approximately two miles upstream of the Summers and Mercer County line down to the maximum summer pool elevation (one thousand four hundred and ten feet above mean sea level) of Bluestone Lake as depicted on the boundary map entitled “Bluestone Wild and Scenic River”, numbered BLUE–80,005, dated May 1996; to be administered by the Secretary of the Interior as a scenic river. In carrying out the requirements of subsection (b) of this section, the Secretary shall consult with State and local governments and the interested public. The Secretary shall not be required to establish detailed boundaries of the river as provided under subsection (b) of this section. Nothing in this chapter shall preclude the improvement of any existing road or right-of-way within the boundaries of the segment designated under this paragraph. Jurisdiction over all lands and improvements on such lands owned by the United States within the boundaries of the segment designated under this paragraph is hereby transferred without reimbursement to the administrative jurisdiction of the Secretary of the Interior, subject to leases in effect on October 26, 1988 (or renewed thereafter) between the United States and the State of West Virginia with respect to the Bluestone State Park and the Bluestone Public Hunting and Fishing Area. Nothing in this chapter shall affect the management by the State of hunting and fishing within the segment designated under this paragraph. Nothing in this chapter shall affect or impair the management by the State of West Virginia of other wildlife activities in the Bluestone Public Hunting and Fishing Area to the extent permitted in the lease agreement as in effect on October 26, 1988, and such management may be continued pursuant to renewal of such lease agreement. If requested to do so by the State of West Virginia, the Secretary may terminate such leases and assume administrative authority over the areas concerned. Nothing in the designation of the segment referred to in this paragraph shall affect or impair the management of the Bluestone project or the authority of any department, agency, or instrumentality of the United States to carry out the project purposes of that project as of October 26, 1988. Nothing in this chapter shall be construed to affect the continuation of studies relating to such project which were commenced before October 26, 1988. In order to provide reasonable public access and vehicle parking for public use and enjoyment of the river designated by this paragraph, consistent with the preservation and enhancement of the natural and scenic values of such river, the Secretary may, with the consent of the owner thereof, negotiate a memorandum of understanding or cooperative agreement, or acquire not more than 10 acres of lands or interests in such lands, or both, as may be necessary to allow public access to the Bluestone River and to provide, outside the boundary of the scenic river, parking and related facilities in the vicinity of the area known as Eads Mill.
+Bluestone, West Virginia.—The segment in Mercer and Summers Counties, West Virginia, from a point approximately two miles upstream of the Summers and Mercer County line down to the maximum summer pool elevation (one thousand four hundred and ten feet above mean sea level) of Bluestone Lake as depicted on the boundary map entitled “Bluestone Wild and Scenic River”, numbered BLUE–80,005, dated May 1996; to be administered by the Secretary of the Interior as a scenic river. In carrying out the requirements of subsection (b) of this section, the Secretary shall consult with State and local governments and the interested public. The Secretary shall not be required to establish detailed boundaries of the river as provided under subsection (b) of this section. Nothing in this chapter shall preclude the improvement of any existing road or right-of-way within the boundaries of the segment designated under this paragraph. Jurisdiction over all lands and improvements on such lands owned by the United States within the boundaries of the segment designated under this paragraph is hereby transferred without reimbursement to the administrative jurisdiction of the Secretary of the Interior, subject to leases in effect on October 26, 1988 (or renewed thereafter) between the United States and the State of West Virginia with respect to the Bluestone State Park and the Bluestone Public Hunting and Fishing Area. Nothing in this chapter shall affect the management by the State of hunting and fishing within the segment designated under this paragraph. Nothing in this chapter shall affect or impair the management by the State of West Virginia of other wildlife activities in the Bluestone Public Hunting and Fishing Area to the extent permitted in the lease agreement as in effect on October 26,1988, and such management may be continued pursuant to renewal of such lease agreement. If requested to do so by the State of West Virginia, the Secretary may terminate such leases and assume administrative authority over the areas concerned. Nothing in the designation of the segment referred to in this paragraph shall affect or impair the management of the Bluestone project or the authority of any department, agency, or instrumentality of the United States to carry out the project purposes of that project as of October 26, 1988. Nothing in this chapter shall be construed to affect the continuation of studies relating to such project which were commenced before October 26, 1988. In order to provide reasonable public access and vehicle parking for public use and enjoyment of the river designated by this paragraph, consistent with the preservation and enhancement of the natural and scenic values of such river, the Secretary may, with the consent of the owner thereof, negotiate a memorandum of understanding or cooperative agreement, or acquire not more than 10 acres of lands or interests in such lands, or both, as may be necessary to allow public access to the Bluestone River and to provide, outside the boundary of the scenic river, parking and related facilities in the vicinity of the area known as Eads Mill.
 
 (66)(A)
 
@@ -352,13 +352,13 @@ Sipsey Fork of the West Fork, Alabama.—Segments of the Sipsey Fork and several
 
 (67)
 
-Wildcat River, New Hampshire.—(A) A 14.51 mile segment including the following tributaries: Wildcat Brook, Bog Brook, and Great Brook (all as generally depicted on a map entitled “Wildcat River”, dated October 1987) to be administered as follows: those segments of the Wildcat River and its tributaries located withinthe boundary of the White Mountain National Forest (hereinafter in this paragraph referred to as “the forest”) shall be administered by the Secretary of Agriculture (hereinafter in this paragraph referred to as the “Secretary”); those segments located outside the boundary of the forest shall be administered by the Secretary through a cooperative agreement with the Board of Selectmen of the town of Jackson and the State of New Hampshire pursuant to section 1281(e) of this title. Such agreement shall provide for the long-term protection, preservation, and enhancement of the river segments located outside the boundary of the forest and shall be consistent with the comprehensive management plan to be prepared by the Secretary pursuant to subsection (d) of this section and with the July 1987 River Conservation Plan prepared by the Wildcat Brook Advisory Committee in conjunction with the National Park Service.
+Wildcat River, New Hampshire.—(A) A 14.51 mile segment including the following tributaries: Wildcat Brook, Bog Brook, and Great Brook (all as generally depicted on a map entitled “Wildcat River”, dated October 1987) to be administered as follows: those segments of the Wildcat River and its tributaries located within the boundary of the White Mountain National Forest (hereinafter in this paragraph referred to as “the forest”) shall be administered by the Secretary of Agriculture (hereinafter in this paragraph referred to as the “Secretary”); those segments located outside the boundary of the forest shall be administered by the Secretary through a cooperative agreement with the Board of Selectmen of the town of Jackson and the State of New Hampshire pursuant to section 1281(e) of this title. Such agreement shall provide for the long-term protection, preservation, and enhancement of the river segments located outside the boundary of the forest and shall be consistent with the comprehensive management plan to be prepared by the Secretary pursuant to subsection (d) of this section and with the July 1987 River Conservation Plan prepared by the Wildcat Brook Advisory Committee in conjunction with the National Park Service.
 
 (B)(i) To assist in the implementation of this paragraph, the Secretary shall establish, within 3 months after October 28, 1988, a Wildcat River Advisory Commission (hereinafter in this paragraph referred to as the “Commission”).
 
 (ii) The Commission shall be composed of 7 members appointed by the Secretary as follows: one member from recommendations submitted by the Governor of the State of New Hampshire; 4 members from recommendations submitted by the Jackson Board of Selectmen, of which at least 2 members shall be riparian property owners, and at least one member shall be on the Board of Selectmen; one member from recommendations submitted by the Jackson Conservation Commission; and one member selected by the Secretary. Members of the Commission shall be appointed for terms of 3 years. A vacancy in the Commission shall be filled in the manner in which the original appointment was made. Any member appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. Any member of the Commission appointed for a definite term may serve after the expiration of his term until his successor is appointed. The Commission shall designate one of its members as Chairman.
 
-(iii) The Commission shall meet on a regular basis. Notice of meetings and agenda shall be published in local newspapers which have a distribution which generally covers the area affected by the designation of the segments described in this paragraph. Commission meetings shall be held at locations and in such a manner as to ensure adequate public involvement.
+(iii) The Commission shall meet on a regular basis. Notice of meetings and agenda shall bepublished in local newspapers which have a distribution which generally covers the area affected by the designation of the segments described in this paragraph. Commission meetings shall be held at locations and in such a manner as to ensure adequate public involvement.
 
 (iv) Members of the Commission shall serve without compensation as such, but the Secretary may pay expenses reasonably incurred in carrying out their responsibilities under this paragraph on vouchers signed by the Chairman.
 
@@ -464,11 +464,17 @@ Eagle Creek, Oregon.—The 27-mile segment from its headwaters below Eagle Lake 
 
 (76)
 
-Elk, Oregon.—The 19-mile segment to be administered by the Secretary of Agriculture in the following classes:
+Elk, Oregon.—The 29-mile segment to be administered by the Secretary of Agriculture in the following classes:
 
-&emsp;(A) The 17-mile segment from the confluence of the North and South Forks of the Elk to Anvil Creek as a recreational river; and
+&emsp;(A) The 17-mile segment from the confluence of the North and South Forks of the Elk to Anvil Creek as a recreational river.
 
-&emsp;(B) the 2-mile segment of the North Fork Elk from the falls to its confluence with the South Fork as a wild river.
+&emsp;(B)(i) The approximately 0.6-mile segment of the North Fork Elk from its source in sec. 21, T. 33 S., R. 12 W., Willamette Meridian, downstream to 0.01 miles below Forest Service Road 3353, as a scenic river.
+
+&emsp;(ii) The approximately 5.5-mile segment of the North Fork Elk from 0.01 miles below Forest Service Road 3353 to its confluence with the South Fork Elk, as a wild river.
+
+&emsp;(C)(i) The approximately 0.9-mile segment of the South Fork Elk from its source in the southeast quarter of sec. 32, T. 33 S., R. 12 W., Willamette Meridian, downstream to 0.01 miles below Forest Service Road 3353, as a scenic river.
+
+&emsp;(ii) The approximately 4.2-mile segment of the South Fork Elk from 0.01 miles below Forest Service Road 3353 to its confluence with the North Fork Elk, as a wild river.
 
 (77)
 
@@ -496,7 +502,7 @@ Imnaha, Oregon.—Those segments, including the South Fork Imnaha; to be adminis
 
 (79)
 
-John Day, Oregon.—The 147.5-mile segment from Service Creek to Tumwater Falls as a recreational river; to be administered througha cooperative management agreement between the State of Oregon and the Secretary of the Interior as provided in section 1281(e) of this title.
+John Day, Oregon.—The 147.5-mile segment from Service Creek to Tumwater Falls as a recreational river; to be administered through a cooperative management agreement between the State of Oregon and the Secretary of the Interior as provided in section 1281(e) of this title.
 
 (80)
 
@@ -576,7 +582,7 @@ North Fork John Day, Oregon.—The 54.1-mile segment from its headwaters in the 
 
 (89)
 
-North Fork Malheur, Oregon.—The 25.5-mile segment from its headwaters to theMalheur National Forest boundary as a scenic river; to be administered by the Secretary of Agriculture.
+North Fork Malheur, Oregon.—The 25.5-mile segment from its headwaters to the Malheur National Forest boundary as a scenic river; to be administered by the Secretary of Agriculture.
 
 (90)
 
@@ -604,7 +610,7 @@ North Fork Smith, Oregon.—The 13-mile segment from its headwaters to the Orego
 
 (93)
 
-North Fork Sprague, Oregon.—The 15-mile segment from the head of River Spring in the southwest quarter of section 15, township 35 south, range 16 east, to the northwest quarter of the southwest quarter of section 11, township 35 south, range 15 east, as a scenic river; to be administered by the Secretary of Agriculture.
+North Fork Sprague, Oregon.—The 15-mile segment from the head of River Spring inthe southwest quarter of section 15, township 35 south, range 16 east, to the northwest quarter of the southwest quarter of section 11, township 35 south, range 15 east, as a scenic river; to be administered by the Secretary of Agriculture.
 
 (94)
 
@@ -660,7 +666,7 @@ Sandy, Oregon.—Those portions as follows:
 
 (101)
 
-South Fork John Day, Oregon.—The 47-mile segment from the Malheur National Forestto Smokey Creek as a recreational river; to be administered by the Secretary of the Interior.
+South Fork John Day, Oregon.—The 47-mile segment from the Malheur National Forest to Smokey Creek as a recreational river; to be administered by the Secretary of the Interior.
 
 (102)
 
@@ -676,7 +682,7 @@ Sycan, Oregon.—The 59-mile segment from the northeast quarter of section 5, to
 
 &emsp;(A) The 26.4-mile segment from the northeast quarter of section 5, township 34 south, range 17 east to the west section line of section 22, township 32 south, range 141/2 east, as a scenic river;
 
-&emsp;(B) the 8.6-mile segment from the west section line of section 22, township 32 south, range 14 east, to the Fremont National Forest boundary in the southeast quarter of section 10, township 33 south, range 13 east, as a recreational river; and
+&emsp;(B) the 8.6-mile segment from the west section line of section 22, township 32 south,range 14 east, to the Fremont National Forest boundary in the southeast quarter of section 10, township 33 south, range 13 east, as a recreational river; and
 
 &emsp;(C) the 24-mile segment from the Fremont National Forest boundary in the southwest quarter of section 10, township 33 south, range 13 east, to Coyote Bucket at the Fremont National Forest boundary, as a scenic river.
 
@@ -734,7 +740,7 @@ East Fork of Jemez, New Mexico.—The 11-mile segment from the Santa Fe National
 
 &emsp;(C) the 5-mile segment from the third crossing of State Highway 4, approximately one and one-quarter miles upstream from Jemez Falls, to its confluence with the Rio San Antonio, as a scenic river.
 
-> After June 6, 1990, Federal lands within the boundaries of the segments designated under this paragraph or which constitute the bed or bank or are situated within one-quarter mile of the ordinary highwater mark on each side of such segments are withdrawn, subject to valid existing rights, from all forms of appropriation under the mining laws and from operation of the mineral leasing laws of the United States, and no patent may be issued for the surface estate with respect to any mining claim located on such lands. Nothing in this paragraph shall be construed as precluding mining operations on any valid existing claim, subject to applicable regulations under section 1280 of this title.
+> After June 6, 1990, Federal lands within the boundaries of the segments designated under this paragraph or which constitute the bed or bank or are situated within one-quarter mile of the ordinary highwater mark on each side of such segments are withdrawn, subject to valid existing rights, from all forms of appropriation under the mining laws and from operation of the mineral leasing laws of the United States, and no patent may be issued for the surface estate with respect to any mining claim located on such lands. Nothing in this paragraph shall be construed as precluding mining operations onany valid existing claim, subject to applicable regulations under section 1280 of this title.
 
 (110)
 
@@ -796,7 +802,7 @@ Middle Fork Smith River, California.—The segment from the headwaters to its co
 
 North Fork Smith River, California.—The segment from the California-Oregon State line to its confluence with the Middle Fork Smith River, including the following segments of the mainstem and certain tributaries, to be administered by the Secretary of Agriculture in the following classes:
 
-&emsp;(A) The segment from the California-Oregon State line to its confluence with an unnamed tributary in the northeast quarter of section 5, T. 18 N., R. 2 E., as depicted on the 1951 USGS 15° Gasquet topographic map, as a wild river.
+&emsp;(A) The segment from the California-Oregon State line to its confluence with an unnamed tributary in the northeast quarter of section 5,T. 18 N., R. 2 E., as depicted on the 1951 USGS 15° Gasquet topographic map, as a wild river.
 
 &emsp;(B) The segment from its confluence with an unnamed tributary in the northeast quarter of section 5, T. 18 N., R. 2 E., to its southern-most intersection with the eastern section line of section 5, T. 18 N., R. 2 E., as depicted on the 1951 USGS 15° Gasquet topographic map, as a scenic river.
 
@@ -844,7 +850,7 @@ South Fork Smith River, California.—The segment from its headwaters to its con
 
 &emsp;(E) Harrington Creek from its source to its confluence with the South Fork Smith River, as a wild river.
 
-&emsp;(F) Prescott Fork of the Smith River from its headwaters about 0.5 miles southeast of Island Lake, as depicted on the 1955 USGS 15°Dillon Mtn. topographic map, to its confluence with the South Fork Smith River, as a wild river.
+&emsp;(F) Prescott Fork of the Smith River from its headwaters about 0.5 miles southeast of Island Lake, as depicted on the 1955 USGS 15° Dillon Mtn. topographic map, to its confluence with the South Fork Smith River, as a wild river.
 
 &emsp;(G) Quartz Creek from its headwaters in section 31, T. 16 N., R. 4 E., as depicted on the 1952 15° USGS Ship Mountain topographic map, to its confluence with the South Fork Smith River, as a recreational river.
 
@@ -906,7 +912,7 @@ Black, Michigan.—The 14-mile segment from the Ottawa National Forest boundary 
 
 (121)
 
-Carp, Michigan.—The 27.8-mile segment from the west section line of section 30, township 43 north, range 5 west, to Lake Huron, to be administered by the Secretary of Agriculture in the following classes:
+Carp, Michigan.—The 27.8-mile segment from the west section line of section 30, township 43 north, range 5 west, to Lake Huron, to beadministered by the Secretary of Agriculture in the following classes:
 
 &emsp;(A) The 2.3-mile segment from the west section line of section 30, township 43 north, range 5 west, to Forest Development Road 3458 in section 32, township 43 north, range 5 west, as a scenic river.
 
@@ -970,7 +976,7 @@ Ontonagon, Michigan.—Segments of certain tributaries, totaling 157.4 miles, to
 
 (125)
 
-Paint, Michigan.—Segments of the mainstream and certain tributaries, totaling 51miles, to be administered by the Secretary of Agriculture as follows:
+Paint, Michigan.—Segments of the mainstream and certain tributaries, totaling 51 miles, to be administered by the Secretary of Agriculture as follows:
 
 &emsp;(A) The 6-mile segment of the main stem from the confluence of the North and South Branches Paint to the Ottawa National Forest boundary, as a recreational river.
 
@@ -1064,7 +1070,7 @@ Cossatot River, Arkansas.—Segments of the main stem and certain tributaries, t
 
 &emsp;(B) The 6.9-mile segment of the main stem from the Caney Creek Wilderness Boundary on the north section line of section 13, township 4 south, range 30 west, to the south section line of section 20, township 4 south, range 30 west, to be administered by the Secretary of Agriculture as a scenic river.
 
-&emsp;(C) The 4.4-mile segment of the Brushy Creek tributary from the north line of the south 1/2 of the southeast 1/4 of section 7, township 4 south, range 30 west, to the south section line of section 20, township 4 south, range 30 west, to be administered by the Secretary of Agriculture as a scenic river.
+&emsp;(C) The 4.4-mile segment of the Brushy Creek tributary from the north line of thesouth 1/2 of the southeast 1/4 of section 7, township 4 south, range 30 west, to the south section line of section 20, township 4 south, range 30 west, to be administered by the Secretary of Agriculture as a scenic river.
 
 &emsp;(D) The 4.6-mile segment of the main stem from the State Highway 4 bridge to Duchett's Ford, to be administered by the Secretary of the Army as a scenic river consistent with the operation of Gillham Dam (as authorized by section 203 of the Flood Control Act of 1958 (Public Law 85–500)). For purposes of management of such segment, the Secretary of the Army may enter into a cooperative agreement or memorandum of understanding or other appropriate arrangement with the Secretary of Agriculture or an appropriate official of the State of Arkansas.
 
@@ -1118,7 +1124,7 @@ Sisquoc River, California.—The 33-mile segment of the main stem of the river e
 
 (144)
 
-Big Sur River, California.—The main stems of the South Fork and North Fork of the Big Sur River from their headwaters to their confluence and the main stem of the river from the confluence of the South and North Forks downstream to the boundary of the VentanaWilderness in Los Padres National Forest, for a total distance of approximately 19.5 miles, to be administered by the Secretary of Agriculture as a wild river.
+Big Sur River, California.—The main stems of the South Fork and North Fork of the Big Sur River from their headwaters to their confluence and the main stem of the river from the confluence of the South and North Forks downstream to the boundary of the Ventana Wilderness in Los Padres National Forest, for a total distance of approximately 19.5 miles, to be administered by the Secretary of Agriculture as a wild river.
 
 (145)
 
@@ -1136,7 +1142,7 @@ Great Egg Harbor, New Jersey.—39.5 miles of the main stem to be administered b
 
 &emsp;(E) Squankum Branch from its confluence with Great Egg Harbor River to Malaga Road, approximately 4.5 miles, as a recreational river;
 
-&emsp;(F) Big Bridge Branch, from its confluence with Great Egg Harbor River to headwaters, approximately 2.2 miles, as a recreational river;
+&emsp;(F) Big Bridge Branch, from its confluence with Great Egg Harbor River to headwaters,approximately 2.2 miles, as a recreational river;
 
 &emsp;(G) Penny Pot Stream Branch, from its confluence with Great Egg Harbor River to 14th Street, approximately 4.1 miles, as a recreational river;
 
@@ -1218,7 +1224,7 @@ Rio Grande, New Mexico.—The main stem from the southern boundary of the segmen
 
 (156)
 
-Farmington River, Connecticut.—The 14-mile segment of the West Branch and mainstem extending from immediately below the Goodwin Dam and Hydroelectric Project in Hartland, Connecticut, to the downstream end of the New Hartford-Canton, Connecticut, town line (hereinafter in this paragraph referred to as the “segment”), as a recreational river, to be administered by the Secretary of the Interior through cooperative agreements between the Secretary of the Interior and the State of Connecticut and its relevant political subdivisions, namely the Towns of Colebrook, Hartland, Barkhamsted, New Hartford, and Canton and the Hartford Metropolitan District Commission, pursuant to section 1281(e) of this title. The segment shall be managed in accordance with the Upper Farmington River Management Plan, dated April 29, 1993, and such amendments thereto as the Secretary of the Interior determines are consistent with this chapter. Such plan shall be deemed to satisfy the requirement for a comprehensive management plan pursuant to subsection (d) of this section.
+Farmington River, Connecticut.—The 14-mile segment of the West Branch and mainstem extending from immediately below the Goodwin Dam and Hydroelectric Project in Hartland, Connecticut, to the downstream end of the New Hartford-Canton, Connecticut, town line (hereinafter in this paragraph referred to as the “segment”), as a recreational river, to be administered by the Secretary of the Interior through cooperative agreements between the Secretary of the Interior and the State of Connecticut and its relevant political subdivisions, namely the Towns of Colebrook, Hartland, Barkhamsted, New Hartford, and Canton and theHartford Metropolitan District Commission, pursuant to section 1281(e) of this title. The segment shall be managed in accordance with the Upper Farmington River Management Plan, dated April 29, 1993, and such amendments thereto as the Secretary of the Interior determines are consistent with this chapter. Such plan shall be deemed to satisfy the requirement for a comprehensive management plan pursuant to subsection (d) of this section.
 
 (157)
 
@@ -1250,7 +1256,7 @@ Elkhorn Creek.—The 6.4-mile segment traversing federally administered lands fr
 
 Sudbury, Assabet, and Concord Rivers, Massachusetts.—(A) The 29 miles of river segments in Massachusetts, as follows:
 
-&emsp;(i) The 14.9-mile segment of the Sudbury River beginning at the Danforth Street Bridgein the town of Framingham, downstream to the Route 2 Bridge in Concord, as a scenic river.
+&emsp;(i) The 14.9-mile segment of the Sudbury River beginning at the Danforth Street Bridge in the town of Framingham, downstream to the Route 2 Bridge in Concord, as a scenic river.
 
 &emsp;(ii) The 1.7-mile segment of the Sudbury River from the Route 2 Bridge downstream to its confluence with the Assabet River at Egg Rock, as a recreational river.
 
@@ -1260,7 +1266,7 @@ Sudbury, Assabet, and Concord Rivers, Massachusetts.—(A) The 29 miles of river
 
 (B) The segments referred to in subparagraph (A) shall be administered by the Secretary of the Interior in cooperation with the SUASCO River Stewardship Council provided for in the plan referred to in subparagraph (C) through cooperative agreements under section 1281(e) of this title between the Secretary and the Commonwealth of Massachusetts and its relevant political subdivisions (including the towns of Framingham, Wayland, Sudbury, Lincoln, Concord, Carlisle, Bedford, and Billerica).
 
-(C) The segments referred to in subparagraph (A) shall be managed in accordance with the plan entitled “Sudbury, Assabet and Concord Wild and Scenic River Study, River Conservation Plan”, dated March 16, 1995. The plan is deemed to satisfy the requirement for a comprehensive management plan under subsection (d) of this section.
+(C) The segments referred to in subparagraph (A) shall be managed in accordance with the plan entitled “Sudbury, Assabet and ConcordWild and Scenic River Study, River Conservation Plan”, dated March 16, 1995. The plan is deemed to satisfy the requirement for a comprehensive management plan under subsection (d) of this section.
 
 (161)
 
@@ -1324,7 +1330,7 @@ White Clay Creek, Delaware and Pennsylvania.—The 190 miles of river segments o
 
 &emsp;(A) 30.8 miles of the east branch, including Trout Run, beginning at the headwaters within West Marlborough township downstream to a point that is 500 feet north of the Borough of Avondale wastewater treatment facility, as a recreational river.
 
-&emsp;(B) 15.0 miles of the east branch beginning at the southern boundary line of the Borough of Avondale to a point where the East Branch enters New Garden Township at the Franklin Township boundary line, including Walnut Run and Broad Run outside the boundaries of the White Clay Creek Preserve, as a recreational river.
+&emsp;(B) 15.0 miles of the east branch beginning at the southern boundary line of the Borough of Avondale to a point where the East Branch enters New Garden Township at the FranklinTownship boundary line, including Walnut Run and Broad Run outside the boundaries of the White Clay Creek Preserve, as a recreational river.
 
 &emsp;(C) 4.0 miles of the east branch that flow through the boundaries of the White Clay Creek Preserve, Pennsylvania, beginning at the northern boundary line of London Britain township and downstream to the confluence of the middle and east branches, as a scenic river.
 
@@ -1374,7 +1380,7 @@ Lower delaware river and associated tributaries, new jersey and pennsylvania.—
 
 &emsp;(iv) the segment from a point 1,750 feet south of the Route 202 bridge to the southern border of the town of New Hope, Pennsylvania (approximately 1.9 miles), as a recreational river;
 
-&emsp;(v) the segment from the southern boundary of the town of New Hope, Pennsylvania, to thetown of Washington Crossing, Pennsylvania (approximately 6 miles), as a recreational river;
+&emsp;(v) the segment from the southern boundary of the town of New Hope, Pennsylvania, to the town of Washington Crossing, Pennsylvania (approximately 6 miles), as a recreational river;
 
 &emsp;(vi) Tinicum Creek (approximately 14.7 miles), as a scenic river;
 
@@ -1396,7 +1402,7 @@ Rio mameyes.—The segment of approximately 4.5 miles from its headwaters in the
 
 &emsp;&emsp;(i) As a wild river from its headwaters in the Ban�AE6o de Oro Research Natural Area to the crossing point of Trail No. 24/11 (approximately 500 feet upstream from the confluence with the Rio de La Mina), a total of approximately 2.1 miles.
 
-&emsp;&emsp;(ii) As a scenic river from the crossing point of Trail No. 24/11 to the access point of Trail No. 7, a total of approximately 1.4 miles.
+&emsp;&emsp;(ii) As a scenic river from the crossing point of Trail No. 24/11 to the access point ofTrail No. 7, a total of approximately 1.4 miles.
 
 &emsp;&emsp;(iii) As a recreational river from the access point of Trail No. 7 to the national forest boundary, a total of approximately 1.0 miles.
 
@@ -1460,15 +1466,519 @@ Eightmile River, Connecticut.—Segments of the main stem and specified tributar
 
 &emsp;(C) The 3.9-mile segment of Harris Brook starting with the confluence of an unnamed stream lying 0.74 miles due east of the intersection of Hartford Road (State Route 85) and Round Hill Road to its confluence with the East Branch of the Eightmile River, as a scenic river.
 
-&emsp;(D) The 1.9-mile segment of Beaver Brook starting at its confluence with Cedar PondBrook to its confluence with the main stem of the Eightmile River, as a scenic river.
+&emsp;(D) The 1.9-mile segment of Beaver Brook starting at its confluence with Cedar Pond Brook to its confluence with the main stem of the Eightmile River, as a scenic river.
 
 &emsp;(E) The 0.7-mile segment of Falls Brook from its confluence with Tisdale Brook to its confluence with the main stem of the Eightmile River at Hamburg Cove, as a scenic river.
+
+(171)
+
+South fork clackamas river, oregon.—The 4.2-mile segment of the South Fork Clackamas River from its confluence with the East Fork of the South Fork Clackamas to its confluence with the Clackamas River, to be administered by the Secretary of Agriculture as a wild river.
+
+(172)
+
+Eagle creek, oregon.—The 8.3-mile segment of Eagle Creek from its headwaters to the Mount Hood National Forest boundary, to be administered by the Secretary of Agriculture as a wild river.
+
+(173)
+
+Middle fork hood river.—The 3.7-mile segment of the Middle Fork Hood River from the confluence of Clear and Coe Branches to the north section line of section 11, township 1 south, range 9 east, to be administered by the Secretary of Agriculture as a scenic river.
+
+(174)
+
+South fork roaring river, oregon.—The 4.6-mile segment of the South Fork Roaring River from its headwaters to its confluence with Roaring River, to be administered by the Secretary of Agriculture as a wild river.
+
+(175)
+
+Zig zag river, oregon.—The 4.3-mile segment of the Zig Zag River from its headwaters to the Mount Hood Wilderness boundary, to be administered by the Secretary of Agriculture as a wild river.
+
+(176)
+
+Fifteenmile creek, oregon.—
+
+&emsp;(A)
+
+In general.—The 11.1-mile segment of Fifteenmile Creek from its source at Senecal Spring to the southern edge of the northwest quarter of the northwest quarter of section 20, township 2 south, range 12 east, to be administered by the Secretary of Agriculture in the following classes:
+
+&emsp;&emsp;(i) The 2.6-mile segment from its source at Senecal Spring to the Badger Creek Wilderness boundary, as a wild river.
+
+&emsp;&emsp;(ii) The 0.4-mile segment from the Badger Creek Wilderness boundary to the point 0.4 miles downstream, as a scenic river.
+
+&emsp;&emsp;(iii) The 7.9-mile segment from the point 0.4 miles downstream of the Badger Creek Wilderness boundary to the western edge of section 20, township 2 south, range 12 east as a wild river.
+
+&emsp;&emsp;(iv) The 0.2-mile segment from the western edge of section 20, township 2 south, range 12 east, to the southern edge of the northwest quarter of the northwest quarter of section 20, township 2 south, range 12 east as a scenic river.
+
+&emsp;(B)
+
+Inclusions.—Notwithstanding subsection (b), the lateral boundaries of both the wild river area and the scenic river area along Fifteenmile Creek shall include an average of not more than 640 acres per mile measured from the ordinary high water mark on both sides of the river.
+
+(177)
+
+East fork hood river, oregon.—The 13.5-mile segment of the East Fork Hood River from Oregon State Highway 35 to the Mount Hood National Forest boundary, to be administered by the Secretary of Agriculture as a recreational river.
+
+(178)
+
+Collawash river, oregon.—The 17.8-mile segment of the Collawash River from the headwaters of the East Fork Collawash to the confluence of the mainstream of the Collawash River with the Clackamas River, to be administered by the Secretary of Agriculture in the following classes:
+
+&emsp;(A) The 11.0-mile segment from the headwaters of the East Fork Collawash River to Buckeye Creek, as a scenic river.
+
+&emsp;(B) The 6.8-mile segment from Buckeye Creek to the Clackamas River, as a recreational river.
+
+(179)
+
+Fish creek, oregon.—The 13.5-mile segment of Fish Creek from its headwaters to the confluence with the Clackamas River, to be administered by the Secretary of Agriculture as a recreational river.
+
+(180)
+
+Battle creek, idaho.—The 23.4 miles of Battle Creek from the confluence of the Owyhee River to the upstream boundary of the Owyhee River Wilderness, to be administered by the Secretary of the Interior as a wild river.
+
+(181)
+
+Big jacks creek, idaho.—The 35.0 miles of Big Jacks Creek from the downstream border of the Big Jacks Creek Wilderness in sec. 8, T. 8 S., R. 4 E., to the point at which it enters the NW 1/4 of sec. 26, T. 10 S., R. 2 E., Boise Meridian, to be administered by the Secretary of the Interior as a wild river.
+
+(182)
+
+Bruneau river, idaho.—
+
+&emsp;(A)
+
+In general.—Except as provided in subparagraph (B), the 39.3-mile segment of the Bruneau River from the downstream boundary of the Bruneau-Jarbidge Wilderness to the upstream confluence with the west fork of the Bruneau River, to be administered by the Secretary of the Interior as a wild river.
+
+&emsp;(B)
+
+Exception.—Notwithstanding subparagraph (A), the 0.6-mile segment of the Bruneau River at the Indian Hot Springs public road access shall be administered by the Secretary of the Interior as a recreational river.
+
+(183)
+
+West fork bruneau river, idaho.—The approximately 0.35 miles of the West Fork of the Bruneau River from the confluence with the Jarbidge River to the downstream boundary of the Bruneau Canyon Grazing Allotment in the SE/NE of sec. 5, T. 13 S., R. 7 E., Boise Meridian, to be administered by the Secretary of the Interior as a wild river.
+
+(184)
+
+Cottonwood creek, idaho.—The 2.6 miles of Cottonwood Creek from the confluence with Big Jacks Creek to the upstream boundary of the Big Jacks Creek Wilderness, to be administered by the Secretary of the Interior as a wild river.
+
+(185)
+
+Deep creek, idaho.—The 13.1-mile segment of Deep Creek from the confluence with the Owyhee River to the upstream boundary of the Owyhee River Wilderness in sec. 30, T. 12 S., R. 2 W., Boise Meridian, to be administered by the Secretary of the Interior as a wild river.
+
+(186)
+
+Dickshooter creek, idaho.—The 9.25 miles of Dickshooter Creek from the confluence with Deep Creek to a point on the stream 1/4 mile due west of the east boundary of sec. 16, T. 12 S., R. 2 W., Boise Meridian, to be administered by the Secretary of the Interior as a wild river.
+
+(187)
+
+Duncan creek, idaho.—The 0.9-mile segment of Duncan Creek from the confluence with Big Jacks Creek upstream to the east boundary of sec. 18, T. 10 S., R. 4 E., Boise Meridian, to be administered by the Secretary of the Interior as a wild river.
+
+(188)
+
+Jarbidge river, idaho.—The 28.8 miles of the Jarbidge River from the confluence with the West Fork Bruneau River to the upstream boundary of the Bruneau-Jarbidge Rivers Wilderness, to be administered by the Secretary of the Interior as a wild river.
+
+(189)
+
+Little jacks creek, idaho.—The 12.4 miles of Little Jacks Creek from the downstream boundary of the Little Jacks Creek Wilderness, upstream to the mouth of OX Prong Creek, to be administered by the Secretary of the Interior as a wild river.
+
+(190)
+
+North fork owyhee river, idaho.—The following segments of the North Fork of the Owyhee River, to be administered by the Secretary of the Interior:
+
+&emsp;(A) The 5.7-mile segment from the Idaho-Oregon State border to the upstream boundary of the private land at the Juniper Mt. Road crossing, as a recreational river.
+
+&emsp;(B) The 15.1-mile segment from the upstream boundary of the North Fork Owyhee River recreational segment designated in paragraph (A) to the upstream boundary of the North Fork Owyhee River Wilderness, as a wild river.
+
+(191)
+
+Owyhee river, idaho.—
+
+&emsp;(A)
+
+In general.—Subject to subparagraph (B), the 67.3 miles of the Owyhee River fromthe Idaho-Oregon State border to the upstream boundary of the Owyhee River Wilderness, to be administered by the Secretary of the Interior as a wild river.
+
+&emsp;(B)
+
+Access.—The Secretary of the Interior shall allow for continued access across the Owyhee River at Crutchers Crossing, subject to such terms and conditions as the Secretary of the Interior determines to be necessary.
+
+(192)
+
+Red canyon, idaho.—The 4.6 miles of Red Canyon from the confluence of the Owyhee River to the upstream boundary of the Owyhee River Wilderness, to be administered by the Secretary of the Interior as a wild river.
+
+(193)
+
+Sheep creek, idaho.—The 25.6 miles of Sheep Creek from the confluence with the Bruneau River to the upstream boundary of the Bruneau-Jarbidge Rivers Wilderness, to be administered by the Secretary of the Interior as a wild river.
+
+(194)
+
+South fork owyhee river, idaho.—
+
+&emsp;(A)
+
+In general.—Except as provided in subparagraph (B), the 31.4-mile segment of the South Fork of the Owyhee River upstream from the confluence with the Owyhee River to the upstream boundary of the Owyhee River Wilderness at the Idaho–Nevada State border, to be administered by the Secretary of the Interior as a wild river.
+
+&emsp;(B)
+
+Exception.—Notwithstanding subparagraph (A), the 1.2-mile segment of the South Fork of the Owyhee River from the point at which the river enters the southernmost boundary to the point at which the river exits the northernmost boundary of private land in sec. 25 and 26, T. 14 S., R. 5 W., Boise Meridian, shall be administered by the Secretary of the Interior as a recreational river.
+
+(195)
+
+Wickahoney creek, idaho.—The 1.5 miles of Wickahoney Creek from the confluence of Big Jacks Creek to the upstream boundary of the Big Jacks Creek Wilderness, to be administered by the Secretary of the Interior as a wild river.
+
+(196)
+
+Amargosa river, california.—The following segments of the Amargosa River in the State of California, to be administered by the Secretary of the Interior:
+
+&emsp;(A) The approximately 4.1-mile segment of the Amargosa River from the northern boundary of sec. 7, T. 21 N., R. 7 E., to 100 feet upstream of the Tecopa Hot Springs road crossing, as a scenic river.
+
+&emsp;(B) The approximately 8-mile segment of the Amargosa River from 100 feet downstream of the Tecopa Hot Springs Road crossing to 100 feet upstream of the Old Spanish Trail Highway crossing near Tecopa, as a scenic river.
+
+&emsp;(C) The approximately 7.9-mile segment of the Amargosa River from the northern boundary of sec. 16, T. 20 N., R. 7 E., to .25 miles upstream of the confluence with Sperry Wash in sec. 10, T. 19 N., R. 7 E., as a wild river.
+
+&emsp;(D) The approximately 4.9-mile segment of the Amargosa River from .25 miles upstream of the confluence with Sperry Wash in sec. 10, T. 19 N., R. 7 E. to 100 feet upstream of the Dumont Dunes access road crossing in sec. 32, T. 19 N., R. 7 E., as a recreational river.
+
+&emsp;(E) The approximately 1.4-mile segment of the Amargosa River from 100 feet downstream of the Dumont Dunes access road crossing in sec. 32, T. 19 N., R. 7 E., as a recreational river.
+
+(197)
+
+Owens river headwaters, california.—The following segments of the Owens River in the State of California, to be administered by the Secretary of Agriculture:
+
+&emsp;(A) The 2.3-mile segment of Deadman Creek from the 2-forked source east of San Joaquin Peak to the confluence with the unnamed tributary flowing north into Deadman Creek from sec. 12, T. 3 S., R. 26 E., as a wild river.
+
+&emsp;(B) The 2.3-mile segment of Deadman Creek from the unnamed tributary confluence in sec. 12, T. 3 S., R. 26 E., to the Road 3S22 crossing, as a scenic river.
+
+&emsp;(C) The 4.1-mile segment of Deadman Creek from the Road 3S22 crossing to .25 miles downstream of the Highway 395 crossing, as a recreational river.
+
+&emsp;(D) The 3-mile segment of Deadman Creek from .25 miles downstream of the Highway 395 crossing to 100 feet upstream of Big Springs, as a scenic river.
+
+&emsp;(E) The 1-mile segment of the Upper Owens River from 100 feet upstream of Big Springs to the private property boundary in sec. 19, T. 2 S., R. 28 E., as a recreational river.
+
+&emsp;(F) The 4-mile segment of Glass Creek from its 2-forked source to 100 feet upstream of the Glass Creek Meadow Trailhead parking area in sec. 29, T. 2 S., R. 27 E., as a wild river.
+
+&emsp;(G) The 1.3-mile segment of Glass Creek from 100 feet upstream of the trailhead parking area in sec. 29 to the end of Glass Creek Road in sec. 21, T. 2 S., R. 27 E., as a scenic river.
+
+&emsp;(H) The 1.1-mile segment of Glass Creek from the end of Glass Creek Road in sec. 21, T. 2 S., R. 27 E., to the confluence with Deadman Creek, as a recreational river.
+
+(198)
+
+Cottonwood creek, california.—The following segments of Cottonwood Creek in the State of California:
+
+&emsp;(A) The 17.4-mile segment from its headwaters at the spring in sec. 27, T 4 S., R. 34 E., to the Inyo National Forest boundary at the east section line of sec 3, T. 6 S., R. 36 E., as a wild river to be administered by the Secretary of Agriculture.
+
+&emsp;(B) The 4.1-mile segment from the Inyo National Forest boundary to the northern boundary of sec. 5, T. 4 S., R. 34 E., as a recreational river, to be administered by the Secretary of the Interior.
+
+(199)
+
+Piru creek, california.—The following segments of Piru Creek in the State of California, to be administered by the Secretary of Agriculture:
+
+&emsp;(A) The 3-mile segment of Piru Creek from 0.5 miles downstream of Pyramid Dam at the first bridge crossing to the boundary of the Sespe Wilderness, as a recreational river.
+
+&emsp;(B) The 4.25-mile segment from the boundary of the Sespe Wilderness to the boundary between Los Angeles and Ventura Counties, as a wild river.
+
+(200)
+
+North Fork San Jacinto River, California.—The following segments of the North Fork San Jacinto River in the State of California, to be administered by the Secretary of Agriculture:
+
+&emsp;(A) The 2.12-mile segment from the source of the North Fork San Jacinto River at Deer Springs in Mt. San Jacinto State Park to the State Park boundary, as a wild river.
+
+&emsp;(B) The 1.66-mile segment from the Mt. San Jacinto State Park boundary to the Lawler Park boundary in section 26, township 4 south, range 2 east, San Bernardino meridian, as a scenic river.
+
+&emsp;(C) The 0.68-mile segment from the Lawler Park boundary to its confluence with Fuller Mill Creek, as a recreational river.
+
+&emsp;(D) The 2.15-mile segment from its confluence with Fuller Mill Creek to .25 miles upstream of the 5S09 road crossing, as a wild river.
+
+&emsp;(E) The 0.6-mile segment from .25 miles upstream of the 5S09 road crossing to its confluence with Stone Creek, as a scenic river.
+
+&emsp;(F) The 2.91-mile segment from the Stone Creek confluence to the northern boundary of section 17, township 5 south, range 2 east, San Bernardino meridian, as a wild river.
+
+(201)
+
+Fuller Mill Creek, California.—The following segments of Fuller Mill Creek in the State of California, to be administered by the Secretary of Agriculture:
+
+&emsp;(A) The 1.2-mile segment from the source of Fuller Mill Creek in the San Jacinto Wilderness to the Pinewood property boundary in section 13, township 4 south, range 2 east, San Bernardino meridian, as a scenic river.
+
+&emsp;(B) The 0.9-mile segment in the Pine Wood property, as a recreational river.
+
+&emsp;(C) The 1.4-mile segment from the Pinewood property boundary in section 23, township 4 south, range 2 east, San Bernardino meridian, to its confluence with the North Fork San Jacinto River, as a scenic river.
+
+(202)
+
+Palm Canyon Creek, California.—The 8.1-mile segment of Palm Canyon Creek in the State of California from the southern boundary of section 6, township 7 south, range 5 east, San Bernardino meridian, to the San Bernardino National Forest boundary in section 1, township 6 south, range 4 east, San Bernardino meridian, to be administered by the Secretary of Agriculture as a wild river, and the Secretary shall enter into a cooperative management agreement with the Agua Caliente Band of Cahuilla Indians to protect and enhance river values.
+
+(203)
+
+Bautista Creek, California.—The 9.8-mile segment of Bautista Creek in the State of California from the San Bernardino National Forest boundary in section 36, township 6 south, range 2 east, San Bernardino meridian, to the San Bernardino National Forest boundary in section 2, township 6 south, range 1 east, San Bernardino meridian, to be administered by the Secretary of Agriculture as a recreational river.
+
+(204)
+
+Zion national park, utah.—The approximately 165.5 miles of segments of the Virgin River and tributaries of the Virgin River across Federal land within and adjacent to Zion National Park, as generally depicted on the map entitled “Wild and Scenic River Segments Zion National Park and Bureau of Land Management” and dated April 2008, to be administered by the Secretary of the Interior in the following classifications:
+
+&emsp;(A)
+
+Taylor creek.—The 4.5-mile segment from the junction of the north, middle, and south forks of Taylor Creek, west to the park boundary and adjacent land rim-to-rim, as a scenic river.
+
+&emsp;(B)
+
+North fork of taylor creek.—The segment from the head of North Fork to the junction with Taylor Creek and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(C)
+
+Middle fork of taylor creek.—The segment from the head of Middle Fork on Bureau of Land Management land to the junction with Taylor Creek and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(D)
+
+South fork of taylor creek.—The segment from the head of South Fork to the junction with Taylor Creek and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(E)
+
+Timber creek and tributaries.—The 3.1-mile segment from the head of Timber Creek and tributaries of Timber Creek to the junction with LaVerkin Creek and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(F)
+
+Laverkin creek.—The 16.1-mile segment beginning in T. 38 S., R. 11 W., sec. 21, on Bureau of Land Management land, southwest through Zion National Park, and ending at the south end of T. 40 S., R. 12 W., sec. 7, and adjacent land 1/2-mile wide, as a wild river.
+
+&emsp;(G)
+
+Willis creek.—The 1.9-mile segment beginning on Bureau of Land Management land in the SWSW sec. 27, T. 38 S., R. 11 W., to the junction with LaVerkin Creek in Zion National Park and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(H)
+
+Beartrap canyon.—The 2.3-mile segment beginning on Bureau of Management land in the SWNW sec. 3, T. 39 S., R. 11 W., to the junction with LaVerkin Creek and the segment from the headwaters north of Long Point to the junction with LaVerkin Creek and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(I)
+
+Hop valley creek.—The 3.3-mile segment beginning at the southern boundary of T. 39 S., R. 11 W., sec. 20, to the junction with LaVerkin Creek and adjacent land 1/2-mile wide, as a wild river.
+
+&emsp;(J)
+
+Current creek.—The 1.4-mile segment from the head of Current Creek to the junction with LaVerkin Creek and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(K)
+
+Cane creek.—The 0.6-mile segment from the head of Smith Creek to the junction with LaVerkin Creek and adjacent land 1/2-mile wide, as a wild river.
+
+&emsp;(L)
+
+Smith creek.—The 1.3-mile segment from the head of Smith Creek to the junction with LaVerkin Creek and adjacent land 1/2-mile wide, as a wild river.
+
+&emsp;(M)
+
+North creek left and right forks.—The segment of the Left Fork from the junction with Wildcat Canyon to the junction with Right Fork, from the head of Right Fork to the junction with Left Fork, and from the junction of the Left and Right Forks southwest to Zion National Park boundary and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(N)
+
+Wildcat canyon (blue creek).—The segment of Blue Creek from the Zion National Park boundary to the junction with the Right Fork of North Creek and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(O)
+
+Little creek.—The segment beginning at the head of Little Creek to the junction with the Left Fork of North Creek and adjacent land 1/2-mile wide, as a wild river.
+
+&emsp;(P)
+
+Russell gulch.—The segment from the head of Russell Gulch to the junction with the Left Fork of North Creek and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(Q)
+
+Grapevine wash.—The 2.6-mile segment from the Lower Kolob Plateau to the junction with the Left Fork of North Creek and adjacent land rim-to-rim, as a scenic river.
+
+&emsp;(R)
+
+Pine spring wash.—The 4.6-mile segment to the junction with the left fork of North Creek and adjacent land 1/2-mile, as a scenic river.
+
+&emsp;(S)
+
+Wolf springs wash.—The 1.4-mile segment from the head of Wolf Springs Wash to the junction with Pine Spring Wash and adjacent land 1/2-mile wide, as a scenic river.
+
+&emsp;(T)
+
+Kolob creek.—The 5.9-mile segment of Kolob Creek beginning in T. 39 S., R. 10 W., sec. 30, through Bureau of Land Management land and Zion National Park land to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(U)
+
+Oak creek.—The 1-mile stretch of Oak Creek beginning in T. 39 S., R. 10 W., sec. 19, to the junction with Kolob Creek and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(V)
+
+Goose creek.—The 4.6-mile segment of Goose Creek from the head of Goose Creek to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(W)
+
+Deep creek.—The 5.3-mile segment of Deep Creek beginning on Bureau of Land Management land at the northern boundary of T. 39 S., R. 10 W., sec. 23, south to the junction of the North Fork of the Virgin River and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(X)
+
+North fork of the virgin river.—The 10.8-mile segment of the North Fork of the Virgin River beginning on Bureau of Land Management land at the eastern border of T. 39 S., R. 10 W., sec. 35, to Temple of Sinawava and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(Y)
+
+North fork of the virgin river.—The 8-mile segment of the North Fork of the Virgin River from Temple of Sinawava south to the Zion National Park boundary and adjacent land 1/2-mile wide, as a recreational river.
+
+&emsp;(Z)
+
+Imlay canyon.—The segment from the head of Imlay Creek to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(AA)
+
+Orderville canyon.—The segment from the eastern boundary of Zion National Park to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(BB)
+
+Mystery canyon.—The segment from the head of Mystery Canyon to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(CC)
+
+Echo canyon.—The segment from the eastern boundary of Zion National Park to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(DD)
+
+Behunin canyon.—The segment from the head of Behunin Canyon to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(EE)
+
+Heaps canyon.—The segment from the head of Heaps Canyon to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(FF)
+
+Birch creek.—The segment from the head of Birch Creek to the junction with the North Fork of the Virgin River and adjacent land 1/2-mile wide, as a wild river.
+
+&emsp;(GG)
+
+Oak creek.—The segment of Oak Creek from the head of Oak Creek to where the forks join and adjacent land 1/2-mile wide, as a wild river.
+
+&emsp;(HH)
+
+Oak creek.—The 1-mile segment of Oak Creek from the point at which the 2 forks of Oak Creek join to the junction with the North Fork of the Virgin River and adjacent land 1/2-mile wide, as a recreational river.
+
+&emsp;(II)
+
+Clear creek.—The 6.4-mile segment of Clear Creek from the eastern boundary of Zion National Park to the junction with Pine Creek and adjacent land rim-to-rim, as a recreational river.
+
+&emsp;(JJ)
+
+Pine creek.—The 2-mile segment of Pine Creek from the head of Pine Creek to the junction with Clear Creek and adjacent land rim-to-rim, as a wild river.
+
+&emsp;(KK)
+
+Pine creek.—The 3-mile segment of Pine Creek from the junction with Clear Creek to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a recreational river.
+
+&emsp;(LL)
+
+East fork of the virgin river.—The 8-mile segment of the East Fork of the Virgin River from the eastern boundary of Zion National Park through Parunuweap Canyon to the western boundary of Zion National Park and adjacent land 1/2-mile wide, as a wild river.
+
+&emsp;(MM)
+
+Shunes creek.—The 3-mile segment of Shunes Creek from the dry waterfall on land administered by the Bureau of Land Management through Zion National Park to the western boundary of Zion National Park and adjacent land 1/2-mile wide as a wild river.
+
+(205)
+
+Fossil creek, arizona.—Approximately 16.8 miles of Fossil Creek from the confluence of Sand Rock and Calf Pen Canyons to the confluence with the Verde River, to be administered by the Secretary of Agriculture in the following classes:
+
+&emsp;(A) The approximately 2.7-mile segment from the confluence of Sand Rock and Calf Pen Canyons to the point where the segment exits the Fossil Spring Wilderness, as a wild river.
+
+&emsp;(B) The approximately 7.5-mile segment from where the segment exits the Fossil Creek Wilderness to the boundary of the Mazatzal Wilderness, as a recreational river.
+
+&emsp;(C) The 6.6-mile segment from the boundary of the Mazatzal Wilderness downstream to the confluence with the Verde River, as a wild river.
+
+(206)
+
+Snake river headwaters, wyoming.—The following segments of the Snake River System, in the State of Wyoming:
+
+&emsp;(A)
+
+Bailey creek.—The 7-mile segment of Bailey Creek, from the divide with the Little Greys River north to its confluence with the Snake River, as a wild river.
+
+&emsp;(B)
+
+Blackrock creek.—The 22-mile segment from its source to the Bridger-Teton National Forest boundary, as a scenic river.
+
+&emsp;(C)
+
+Buffalo fork of the snake river.—The portions of the Buffalo Fork of the Snake River, consisting of—
+
+&emsp;&emsp;(i) the 55-mile segment consisting of the North Fork, the Soda Fork, and the South Fork, upstream from Turpin Meadows, as a wild river;
+
+&emsp;&emsp;(ii) the 14-mile segment from Turpin Meadows to the upstream boundary of Grand Teton National Park, as a scenic river; and
+
+&emsp;&emsp;(iii) the 7.7-mile segment from the upstream boundary of Grand Teton National Park to its confluence with the Snake River, as a scenic river.
+
+&emsp;(D)
+
+Crystal creek.—The portions of Crystal Creek, consisting of—
+
+&emsp;&emsp;(i) the 14-mile segment from its source to the Gros Ventre Wilderness boundary, as a wild river; and
+
+&emsp;&emsp;(ii) the 5-mile segment from the Gros Ventre Wilderness boundary to its confluence with the Gros Ventre River, as a scenic river.
+
+&emsp;(E)
+
+Granite creek.—The portions of Granite Creek, consisting of—
+
+&emsp;&emsp;(i) the 12-mile segment from its source to the end of Granite Creek Road, as a wild river; and
+
+&emsp;&emsp;(ii) the 9.5-mile segment from Granite Hot Springs to the point 1 mile upstream from its confluence with the Hoback River, as a scenic river.
+
+&emsp;(F)
+
+Gros ventre river.—The portions of the Gros Ventre River, consisting of—
+
+&emsp;&emsp;(i) the 16.5-mile segment from its source to Darwin Ranch, as a wild river;
+
+&emsp;&emsp;(ii) the 39-mile segment from Darwin Ranch to the upstream boundary of Grand Teton National Park, excluding the section along Lower Slide Lake, as a scenic river; and
+
+&emsp;&emsp;(iii) the 3.3-mile segment flowing across the southern boundary of Grand Teton National Park to the Highlands Drive Loop Bridge, as a scenic river.
+
+&emsp;(G)
+
+Hoback river.—The 10-mile segment from the point 10 miles upstream from its confluence with the Snake River to its confluence with the Snake River, as a recreational river.
+
+&emsp;(H)
+
+Lewis river.—The portions of the Lewis River, consisting of—
+
+&emsp;&emsp;(i) the 5-mile segment from Shoshone Lake to Lewis Lake, as a wild river; and
+
+&emsp;&emsp;(ii) the 12-mile segment from the outlet of Lewis Lake to its confluence with the Snake River, as a scenic river.
+
+&emsp;(I)
+
+Pacific creek.—The portions of Pacific Creek, consisting of—
+
+&emsp;&emsp;(i) the 22.5-mile segment from its source to the Teton Wilderness boundary, as a wild river; and
+
+&emsp;&emsp;(ii) the 11-mile segment from the Wilderness boundary to its confluence with the Snake River, as a scenic river.
+
+&emsp;(J)
+
+Shoal creek.—The 8-mile segment from its source to the point 8 miles downstream from its source, as a wild river.
+
+&emsp;(K)
+
+Snake river.—The portions of the Snake River, consisting of—
+
+&emsp;&emsp;(i) the 47-mile segment from its source to Jackson Lake, as a wild river;
+
+&emsp;&emsp;(ii) the 24.8-mile segment from 1 mile downstream of Jackson Lake Dam to 1 mile downstream of the Teton Park Road bridge at Moose, Wyoming, as a scenic river; and
+
+&emsp;&emsp;(iii) the 19-mile segment from the mouth of the Hoback River to the point 1 mile upstream from the Highway 89 bridge at Alpine Junction, as a recreational river, the boundary of the western edge of the corridor for the portion of the segment extending from the point 3.3 miles downstream of the mouth of the Hoback River to the point 4 miles downstream of the mouth of the Hoback River being the ordinary high water mark.
+
+&emsp;(L)
+
+Willow creek.—The 16.2-mile segment from the point 16.2 miles upstream from its confluence with the Hoback River to its confluence with the Hoback River, as a wild river.
+
+&emsp;(M)
+
+Wolf creek.—The 7-mile segment from its source to its confluence with the Snake River, as a wild river.
+
+(207)
+
+Taunton river, massachusetts.—The main stem of the Taunton River from its headwaters at the confluence of the Town and Matfield Rivers in the Town of Bridgewater downstream 40 miles to the confluence with the Quequechan River at the Route 195 Bridge in the City of Fall River, to be administered by the Secretary of the Interior in cooperation with the Taunton River Stewardship Council as follows:
+
+&emsp;(A) The 18-mile segment from the confluence of the Town and Matfield Rivers to Route 24 in the Town of Raynham, as a scenic river.
+
+&emsp;(B) The 5-mile segment from Route 24 to 0.5 miles below Weir Bridge in the City of Taunton, as a recreational river.
+
+&emsp;(C) The 8-mile segment from 0.5 miles below Weir Bridge to Muddy Cove in the Town of Dighton, as a scenic river.
+
+&emsp;(D) The 9-mile segment from Muddy Cove to the confluence with the Quequechan River at the Route 195 Bridge in the City of Fall River, as a recreational river.
 
 #### (b) Establishment of boundaries; classification
 
 The agency charged with the administration of each component of the national wild and scenic rivers system designated by subsection (a) of this section shall, within one year from the date of designation of such component under subsection (a) of this section (except where a different date if <sup>13</sup> provided in subsection (a) of this section), establish detailed boundaries therefor (which boundaries shall include an average of not more than 320 acres of land per mile measured from the ordinary high water mark on both sides of the river); and determine which of the classes outlined in section 1273(b) of this title best fit the river or its various segments.
 
-Notice of the availability of the boundaries and classification, and of subsequent boundary amendments shall be published in the Federal Register and shall not become effective until ninety days after they have been forwarded to the President of the Senate and the Speaker of the House of Representatives.
+Notice of the availability of the boundaries and classification, and of subsequent boundary amendments shall be published in the Federal Register and shall not become effective untilninety days after they have been forwarded to the President of the Senate and the Speaker of the House of Representatives.
 
 #### (c) Public inspection of maps and descriptions
 
@@ -1480,11 +1990,11 @@ Maps of all boundaries and descriptions of the classifications of designated riv
 
 (2) For rivers designated before January 1, 1986, all boundaries, classifications, and plans shall be reviewed for conformity within the requirements of this subsection within 10 years through regular agency planning processes.
 
-(Pub. L. 90–542, §3, Oct. 2, 1968, 82 Stat. 907; Pub. L. 92–560, §2, Oct. 25, 1972, 86 Stat. 1174; Pub. L. 93–279, §1(a), May 10, 1974, 88 Stat. 122; Pub. L. 94–199, §3(a), Dec. 31, 1975, 89 Stat. 1117; Pub. L. 94–486, title I, §101, title II, §201, title III, §301, title VI, §601, Oct. 12, 1976, 90 Stat. 2327, 2329, 2330; Pub. L. 95–625, title VII, §§701–704(a), 705–708, 755, 763(a), Nov. 10, 1978, 92 Stat. 3521–3523, 3527–3529, 3533; Pub. L. 96–87, title IV, §401(p)(1), Oct. 12, 1979, 93 Stat. 666; Pub. L. 96–312, §9(a), July 23, 1980, 94 Stat. 952; Pub. L. 96–344, §16, Sept. 8, 1980, 94 Stat. 1137; Pub. L. 96–487, title VI, §§601–603, Dec. 2, 1980, 94 Stat. 2412–2414; Pub. L. 96–580, Dec. 23, 1980, 94 Stat. 3370; Pub. L. 98–231, §1, Mar. 14, 1984, 98 Stat. 60; Pub. L. 98–406, title I, §104, Aug. 28, 1984, 98 Stat. 1491; Pub. L. 98–425, title II, §201, Sept. 28, 1984, 98 Stat. 1632; Pub. L. 98–444, Oct. 4, 1984, 98 Stat. 1714; Pub. L. 98–494, §1, Oct. 19, 1984, 98 Stat. 2274; Pub. L. 99–530, §1, Oct. 27, 1986, 100 Stat. 3021; Pub. L. 99–590, title I, §101, title IV, §401, title V, §501, title VI, §601, Oct. 30, 1986, 100 Stat. 3330, 3334, 3337; Pub. L. 99–663, §13(c), Nov. 17, 1986, 100 Stat. 4294; Pub. L. 100–149, §1, Nov. 2, 1987, 101 Stat. 879; Pub. L. 100–150, §1, Nov. 3, 1987, 101 Stat. 881; Pub. L. 100–174, Nov. 24, 1987, 101 Stat. 924; Pub. L. 100–534, title III, §301, title V, §501, Oct. 26, 1988, 102 Stat. 2706, 2708; Pub. L. 100–547, title I, §101, Oct. 28, 1988, 102 Stat. 2736; Pub. L. 100–554, §1, Oct. 28, 1988, 102 Stat. 2776; Pub. L. 100–557, title I, §102, Oct. 28, 1988, 102 Stat. 2782; Pub. L. 100–633, §1, Nov. 7, 1988, 102 Stat. 3320; Pub. L. 100–668, title V, §501, Nov. 16, 1988, 102 Stat. 3967; Pub. L. 101–40, §2(a), June 20, 1989, 103 Stat. 81; Pub. L. 101–306, §2, June 6, 1990, 104 Stat. 260; Pub. L. 101–612, §10(b), Nov. 16, 1990, 104 Stat. 3215; Pub. L. 101–628, title XIII, §1302, Nov. 28, 1990, 104 Stat. 4509; Pub. L. 102–50, §2, May 24, 1991, 105 Stat. 254; Pub. L. 102–249, §3, Mar. 3, 1992, 106 Stat. 45; Pub. L. 102–271, §1, Apr. 20, 1992, 106 Stat. 108; Pub. L. 102–275, §2, Apr. 22, 1992, 106 Stat. 123; Pub. L. 102–301, §6, June 19, 1992, 106 Stat. 245; Pub. L. 102–432, §1, Oct. 23, 1992, 106 Stat. 2212; Pub. L. 102–536, §1, Oct. 27, 1992, 106 Stat. 3528; Pub. L. 103–162, §2, Dec. 1, 1993, 107 Stat. 1969; Pub. L. 103–170, §3, Dec. 2, 1993, 107 Stat. 1986; Pub. L. 103–242, §2, May 4, 1994, 108 Stat. 611; Pub. L. 103–313, §3, Aug. 26, 1994, 108 Stat. 1700; Pub. L. 103–437, §6(d)(40), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 104–208, div. B, title I, §109, Sept. 30, 1996, 110 Stat. 3009–531; Pub. L. 104–314, Oct. 19, 1996, 110 Stat. 3823; Pub. L. 104–333, div. I, title IV, §§405(a), 406(d), 407(a), title X, §1023(h), Nov. 12, 1996, 110 Stat. 4149, 4151, 4223; Pub. L. 106–20, §2(b), (g), Apr. 9, 1999, 113 Stat. 31, 33; Pub. L. 106–176, title I, §106(a), Mar. 10, 2000, 114 Stat. 25; Pub. L. 106–192, §2(a), May 2, 2000, 114 Stat. 233; Pub. L. 106–261, Aug. 18, 2000, 114 Stat. 735; Pub. L. 106–299, §3, Oct. 13, 2000, 114 Stat. 1051; Pub. L. 106–357, §3, Oct. 24, 2000, 114 Stat. 1393; Pub. L. 106–399, title III, §301(a), (b), Oct. 30, 2000, 114 Stat. 1667, 1668; Pub. L. 106–418, §3, Nov. 1, 2000, 114 Stat. 1817; Pub. L. 107–365, §2(b), Dec. 19, 2002, 116 Stat. 3027; Pub. L. 108–352, §5, Oct. 21, 2004, 118 Stat. 1395; Pub. L. 108–447, div. E, title III, §340, Dec. 8, 2004, 118 Stat. 3103; Pub. L. 109–44, §2, Aug. 2, 2005, 119 Stat. 443; Pub. L. 109–362, §7(a), Oct. 17, 2006, 120 Stat. 2070; Pub. L. 109–452, §4, Dec. 22, 2006, 120 Stat. 3364; Pub. L. 110–229, title III, §344(b), May 8, 2008, 122 Stat. 798.)
+(Pub. L. 90–542, §3, Oct. 2, 1968, 82 Stat. 907; Pub. L. 92–560, §2, Oct. 25, 1972, 86 Stat. 1174; Pub. L. 93–279, §1(a), May 10, 1974, 88 Stat. 122; Pub. L. 94–199, §3(a), Dec. 31, 1975, 89 Stat. 1117; Pub. L. 94–486, title I, §101, title II, §201, title III, §301, title VI, §601, Oct. 12, 1976, 90 Stat. 2327, 2329, 2330; Pub. L. 95–625, title VII, §§701–704(a), 705–708, 755, 763(a), Nov. 10, 1978, 92 Stat. 3521–3523, 3527–3529, 3533; Pub. L. 96–87, title IV, §401(p)(1), Oct. 12, 1979, 93 Stat. 666; Pub. L. 96–312, §9(a), July 23, 1980, 94 Stat. 952; Pub. L. 96–344, §16, Sept. 8, 1980, 94 Stat. 1137; Pub. L. 96–487, title VI, §§601–603, Dec. 2, 1980, 94 Stat. 2412–2414; Pub. L. 96–580, Dec. 23, 1980, 94 Stat. 3370; Pub. L. 98–231, §1, Mar. 14, 1984, 98 Stat. 60; Pub. L. 98–406, title I, §104, Aug. 28, 1984, 98 Stat. 1491; Pub. L. 98–425, title II, §201, Sept. 28, 1984, 98 Stat. 1632; Pub. L. 98–444, Oct. 4, 1984, 98 Stat. 1714; Pub. L. 98–494, §1, Oct. 19, 1984, 98 Stat. 2274; Pub. L. 99–530, §1, Oct. 27, 1986, 100 Stat. 3021; Pub. L. 99–590, title I, §101, title IV, §401, title V, §501, title VI, §601, Oct. 30, 1986, 100 Stat. 3330, 3334, 3337; Pub. L. 99–663, §13(c), Nov. 17, 1986, 100 Stat. 4294; Pub. L. 100–149, §1, Nov. 2, 1987, 101 Stat. 879; Pub. L. 100–150, §1, Nov. 3, 1987, 101 Stat. 881; Pub. L. 100–174, Nov. 24, 1987, 101 Stat. 924; Pub. L. 100–534, title III, §301, title V, §501, Oct. 26, 1988, 102 Stat. 2706, 2708; Pub. L. 100–547, title I, §101, Oct. 28, 1988, 102 Stat. 2736; Pub. L. 100–554, §1, Oct. 28, 1988, 102 Stat. 2776; Pub. L. 100–557, title I, §102, Oct. 28, 1988, 102 Stat. 2782; Pub. L. 100–633, §1, Nov. 7, 1988, 102 Stat. 3320; Pub. L. 100–668, title V, §501, Nov. 16, 1988, 102 Stat. 3967; Pub. L. 101–40, §2(a), June 20, 1989, 103 Stat. 81; Pub. L. 101–306, §2, June 6, 1990, 104 Stat. 260; Pub. L. 101–612, §10(b), Nov. 16, 1990, 104 Stat. 3215; Pub. L. 101–628, title XIII, §1302, Nov. 28, 1990, 104 Stat. 4509; Pub. L. 102–50, §2, May 24, 1991, 105 Stat. 254; Pub. L. 102–249, §3, Mar. 3, 1992, 106 Stat. 45; Pub. L. 102–271, §1, Apr. 20, 1992, 106 Stat. 108; Pub. L. 102–275, §2, Apr. 22, 1992, 106 Stat. 123; Pub. L. 102–301, §6, June 19, 1992, 106 Stat. 245; Pub. L. 102–432, §1, Oct. 23, 1992, 106 Stat. 2212; Pub. L. 102–536, §1, Oct. 27, 1992, 106 Stat. 3528; Pub. L. 103–162, §2, Dec. 1, 1993, 107 Stat. 1969; Pub. L. 103–170, §3, Dec. 2, 1993, 107 Stat. 1986; Pub. L. 103–242, §2, May 4, 1994, 108 Stat. 611; Pub. L. 103–313, §3, Aug. 26, 1994, 108 Stat. 1700; Pub. L. 103–437, §6(d)(40), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 104–208, div. B, title I, §109, Sept. 30, 1996, 110 Stat. 3009–531; Pub. L. 104–314, Oct. 19, 1996, 110 Stat. 3823; Pub. L. 104–333, div. I, title IV, §§405(a), 406(d), 407(a), title X, §1023(h), Nov. 12, 1996, 110 Stat. 4149, 4151, 4223; Pub. L. 106–20, §2(b), (g), Apr. 9, 1999, 113 Stat. 31, 33; Pub. L. 106–176, title I, §106(a), Mar. 10, 2000, 114 Stat. 25; Pub. L. 106–192, §2(a), May 2, 2000, 114 Stat. 233; Pub. L. 106–261, Aug. 18, 2000, 114 Stat. 735; Pub. L. 106–299, §3, Oct. 13, 2000, 114 Stat. 1051; Pub. L. 106–357, §3, Oct. 24, 2000, 114 Stat. 1393; Pub. L. 106–399, title III, §301(a), (b), Oct. 30, 2000, 114 Stat. 1667, 1668; Pub. L. 106–418, §3, Nov. 1, 2000, 114 Stat. 1817; Pub. L. 107–365, §2(b), Dec. 19, 2002, 116 Stat. 3027; Pub. L. 108–352, §5, Oct. 21, 2004, 118 Stat. 1395; Pub. L. 108–447, div. E, title III, §340, Dec. 8, 2004, 118 Stat. 3103; Pub. L. 109–44, §2, Aug. 2, 2005, 119 Stat. 443; Pub. L. 109–362, §7(a), Oct. 17, 2006, 120 Stat. 2070; Pub. L. 109–452, §4, Dec. 22, 2006, 120 Stat. 3364; Pub. L. 110–229, title III, §344(b), May 8, 2008, 122 Stat. 798; Pub. L. 111–11, title I, §§1203(a)(1), 1302, 1504(a), 1805(a), 1852, 1976(a), title V, §§5001, 5002(d), 5003(a), Mar. 30, 2009, 123 Stat. 1011, 1026, 1037, 1057, 1067, 1085, 1147, 1149, 1152.)
 
 #### References in Text
 
-Section 704(c) of the National Parks and Recreation Act of 1978, referred to in subsec. (a)(19), is section704(c), Pub. L. 95–625, Nov. 10, 1978, 92 Stat. 3524, which is set out under this section in a note captioned “Upper Delaware Segment Special Provisions”.
+Section 704(c) of the National Parks and Recreation Act of 1978, referred to in subsec. (a)(19), is section 704(c), Pub. L. 95–625, Nov. 10, 1978, 92 Stat. 3524, which is set out under this section in a note captioned “Upper Delaware Segment Special Provisions”.
 
 The Act establishing the Delaware Water Gap National Recreation Area, referred to in subsec. (a)(20), is Pub. L. 89–158, Sept. 1, 1965, 79 Stat. 612, which is classified generally to subchapter LXXIII (§460<i>o</i> et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -1499,6 +2009,24 @@ Section 105 of the Omnibus Oregon Wild and Scenic Rivers Act of 1988, referred t
 Section 203 of the Flood Control Act of 1958, referred to in subsec. (a)(136)(D), is section 203 of Pub. L. 85–500, title II, July 3, 1958, 72 Stat. 305, which is not classified to the Code.
 
 #### Amendments
+
+2009—Subsec. (a)(76). Pub. L. 111–11, §1302, substituted “29-mile segment” for “19-mile segment” in introductory provisions, substituted period for “; and” in subpar. (A), added subpars. (B) and (C), and struck out former subpar. (B) which read as follows: “the 2-mile segment of the North Fork Elk from the falls to its confluence with the South Fork as a wild river.”
+
+Subsec. (a)(171) to (179). Pub. L. 111–11, §1203(a)(1), added pars. (171) to (179).
+
+Subsec. (a)(180) to (195). Pub. L. 111–11, §1504(a), added pars. (180) to (195).
+
+Subsec. (a)(196) to (199). Pub. L. 111–11, §1805(a), added pars. (196) to (199).
+
+Subsec. (a)(200) to (203). Pub. L. 111–11, §1852, added pars. (200) to (203).
+
+Subsec. (a)(204). Pub. L. 111–11, §1976(a), added par. (204).
+
+Subsec. (a)(205). Pub. L. 111–11, §5001, added par. (205).
+
+Subsec. (a)(206). Pub. L. 111–11, §5002(d), added par. (206).
+
+Subsec. (a)(207). Pub. L. 111–11, §5003(a), added par. (207).
 
 2008—Subsec. (a). Pub. L. 110–229 redesignated par. (167) relating to the Musconetcong River, New Jersey, as par. (169), designated the unnumbered par. relating to the White Salmon River, Washington, as par. (167) and the unnumbered par. relating to the Black Butte River, California, as par. (168), and added par. (170).
 
@@ -1716,17 +2244,15 @@ Subsec. (a)(15). Pub. L. 94–486, §301, added par. (15).
 
 Ex. Ord. No. 13428, Apr. 2, 2007, 72 F.R. 16693, provided that the Caribbean National Forest in the Commonwealth of Puerto Rico, referred to in subsec. (a)(166), is renamed the “El Yunque National Forest”.
 
-#### New Jersey; Administration of Wild and Scenic River Segments of Musconetcong River
+#### Savings Provisions
 
-Pub. L. 109–452, §§3, 5, Dec. 22, 2006, 120 Stat. 3363, 3364, defined terms, provided that Secretary of the Interior manage certain Musconetcong River segments in New Jersey in accordance with management plan in cooperation with appropriate agencies, provided for designation of additional river segment, and authorized appropriations to carry out Pub. L. 109–452.
+Pub. L. 111–11, title I, §1203(a)(2), Mar. 30, 2009, 123 Stat. 1012, provided that: “The amendments made by paragraph (1) \[amending this section\] do not affect valid existing water rights.”
 
-#### Puerto Rico; Rivers of Caribbean National Forest; Special Management Considerations; Preservation of Commonwealth Authority
+Pub. L. 111–11, title I, §1303(a), Mar. 30, 2009, 123 Stat. 1026, provided that: “Nothing in this subtitle \[subtitle D (§§1301–1303) of title I of Pub. L. 111–11, amending this section and enacting and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] shall be construed as diminishing any right of any Indian tribe.”
 
-Pub. L. 107–365, §2(c), (d), Dec. 19, 2002, 116 Stat. 3028, provided that the amendment by section 2(b) of Pub. L. 107–365 to this section and the applicability of this chapter to segments of the rivers of Caribbean National Forest (now El Yunque National Forest) were not to be construed to prevent various scientific research activities within the boundaries of these river segments, but that those activities were subject to such conditions as the Secretary of Agriculture considered desirable, and provided that section 2 of Pub. L. 107–365, amending this section, did not limit the authority of the Commonwealth of Puerto Rico over its waters and natural channels of public domain.
+Pub. L. 111–11, title I, §1805(b), Mar. 30, 2009, 123 Stat. 1059, provided that: “The designation of Piru Creek under subsection (a) \[amending this section\] shall not affect valid rights in existence on the date of enactment of this Act \[Mar. 30, 2009\].”
 
-#### Niobrara River; Designation of 6-Mile Segment as Component of National Wild and Scenic Rivers System
-
-Section 3(b) of Pub. L. 102–50 provided that: “If, within 5 years after the date of enactment of this Act \[May 24, 1991\], funds are not authorized and appropriated for the construction of a water resources project on the 6-mile segment of the Niobrara River from its confluence with Chimney Creek to its confluence with Rock Creek, at the expiration of such 5-year period the 6-mile segment shall be designated as a component of the National Wild and Scenic Rivers System by operation of law, to be administered by the Secretary of the Interior in accordance with sections 4 and 5 of this Act \[see below\] and the applicable provisions of the Wild and Scenic Rivers Act (16 U.S.C. 1271–1287). The Secretary of the Interior shall publish notification to that effect in the Federal Register.”
+Pub. L. 111–11, title I, §1976(c), Mar. 30, 2009, 123 Stat. 1088, provided that: “The amendment made by subsection (a) \[amending this section\] does not affect the agreement among the United States, the State \[of Utah\], the Washington County Water Conservancy District, and the Kane County Water Conservancy District entitled ‘Zion National Park Water Rights Settlement Agreement’ and dated December 4, 1996.”
 
 #### Alaska; Administration of Wild and Scenic River Segments
 
@@ -1738,11 +2264,11 @@ Section 3 of Pub. L. 102–275 provided that 10.4-mile segment of the Cossatot R
 
 #### Colorado; Administration of Wild and Scenic River Segments of Cache la Poudre River; Noninterference With Existing Decreed Water Rights
 
-Section 102 of Pub. L. 99–590 provided that inclusion of designated portions of Cache la Poudre River in Wild and Scenic Rivers System did not interfere with exercise of existing decreed water rights to water which had theretofore been stored or diverted by means of present capacity of storage, conveyance, or diversion structures that existed as of Oct. 30, 1986, or operation and maintenance of such structures, nor could inclusion of designated portions of Cache la Poudre River in Wild and Scenic Rivers System be utilized in any Federalproceeding, whether concerning a license, permit, right-of-way, or other Federal action, as a reason or basis to prohibit development or operation of any water impoundments, diversion facilities, and hydroelectric power and transmission facilities below Poudre Park located entirely downstream from and potentially affecting designated portions of Cache la Poudre River, or relocation of highway 14 to any point east of the north-south half section line of section 2, township 8 north, range 71 west of the sixth principal meridian, as necessary to provide access to Poudre Park around such facilities.
+Section 102 of Pub. L. 99–590 provided that inclusion of designated portions of Cache la Poudre River in Wild and Scenic Rivers System did not interfere with exercise of existing decreed water rights to water which had theretofore been stored or diverted by means of present capacity of storage, conveyance, or diversion structures that existed as of Oct. 30, 1986, or operation and maintenance of such structures, nor could inclusion of designated portions of Cache la Poudre River in Wild and Scenic Rivers System be utilized in any Federal proceeding, whether concerning a license, permit, right-of-way, or other Federal action, as a reason or basis to prohibit development or operation of any water impoundments, diversion facilities, and hydroelectric power and transmission facilities below Poudre Park located entirely downstream from and potentially affecting designated portions of Cache la Poudre River, or relocation of highway 14 to any point east of the north-south half section line of section 2, township 8 north, range 71 west of the sixth principal meridian, as necessary to provide access to Poudre Park around such facilities.
 
 #### Connecticut; Management of Wild and Scenic River Segment of Eightmile River; Coordinating Committee; Cooperative Agreements; Land Management; Watershed Approach
 
-Pub. L. 110–229, title III, §344(c)–(h), May 8, 2008, 122 Stat. 799, 800, provided that the segments of the main stem and certain tributaries of the Eightmile River in Connecticut designated as components of the National Wild and Scenic Rivers System be managed in accordance with the Eightmile River Watershed Management Plan; directed the Secretary of the Interior to coordinate management responsibilities of the Secretary with the Eightmile River Coordinating Committee; authorized the Secretary of the Interior to enter into cooperative agreements with State and local officials; directed that the Eightmile River not be administered as part of the National Park System; deemed certain local zoning ordinances to satisfy the standards and requirements of provisions of the Wild and Scenic Rivers Act; and provided for a watershed approach to resource preservation and enhancement.
+Pub. L. 110–229, title III, §344(c)–(h), May 8, 2008, 122 Stat. 799, 800, provided that the segments of the main stem and certain tributaries of the Eightmile River in Connecticut designated as components of the National Wild and Scenic Rivers System be managed in accordance with the Eightmile River Watershed ManagementPlan; directed the Secretary of the Interior to coordinate management responsibilities of the Secretary with the Eightmile River Coordinating Committee; authorized the Secretary of the Interior to enter into cooperative agreements with State and local officials; directed that the Eightmile River not be administered as part of the National Park System; deemed certain local zoning ordinances to satisfy the standards and requirements of provisions of the Wild and Scenic Rivers Act; and provided for a watershed approach to resource preservation and enhancement.
 
 #### Connecticut; Management of Wild and Scenic River Segment of Farmington River; Definitions; Authorization of Appropriations
 
@@ -1760,9 +2286,17 @@ Pub. L. 106–299, §§4–6, Oct. 13, 2000, 114 Stat. 1052–1054, provided for
 
 Pub. L. 100–677, §1, Nov. 17, 1988, 102 Stat. 4407, prohibited Federal Energy Regulatory Commission from issuing any preliminary permit, license, or exemption from licensing for construction of any dam, diversion or bypass under Federal Power Act (41 Stat. 1063), as amended \[see section 791a of this title\], on: (1) the Salmon River, Idaho, from Long Tom Bar to the confluence of the Snake River, or (2) the Snake River, Idaho, from the eastward extension of the north boundary of section 1, township 5 north, range 47 east, Willamette Meridian to the pool formed behind Lower Granite Dam, and provided that no dam may be constructed on those segments of the Salmon or Snake Rivers.
 
+#### Idaho; Wild and Scenic River Segments Boundaries and Private Land Acquisition
+
+Pub. L. 111–11, title I, §1504(b), (c), Mar. 30, 2009, 123 Stat. 1039, established an outer limit for the boundaries of the river segments added to the National Wild and Scenic Rivers System by subtitle F (§1501–1508) of title I of Pub. L. 111–11, notwithstanding subsec. (b) of this section, and prohibited the Secretary of the Interior from acquiring private land within the exterior boundary of a wild and scenic river corridor without consent of the owner.
+
 #### Idaho and Oregon; Administration of Wild and Scenic River Segments of Snake River and Rapid River
 
 Section 3(b) of Pub. L. 94–199 provided for administration of Wild and Scenic River segments of Snake River, Idaho and Oregon, and Rapid River, Idaho.
+
+#### Massachusetts; Management of Wild and Scenic River Segments of Taunton River
+
+Pub. L. 111–11, title V, §5003(b), Mar. 30, 2009, 123 Stat. 1152, provided for management of certain wild and scenic river segments of the Taunton River pursuant to the Taunton River Stewardship Plan.
 
 #### Massachusetts; Administration of Wild and Scenic River Segments of Sudbury, Assabet, and Concord Rivers; Authorization of Appropriations
 
@@ -1782,7 +2316,11 @@ Pub. L. 102–220, §3, Dec. 11, 1991, 105 Stat. 1674, authorized Secretary to m
 
 #### Montana; Administration of Wild and Scenic River Segment of Missouri River
 
-Section 202 and 203 of Pub. L. 94–486, as amended Pub. L. 100–552, §5, Oct. 28, 1988, 102 Stat. 2768, provided for administration of wild and scenic river segment of the Missouri River known as Missouri Breaks Freeflowing River segment, establishment of detailed boundaries, acquisition of lands and interests in lands, and construction of visitor facilities in or near Fort Benton.
+Section 202 and 203 of Pub. L. 94–486, as amended Pub. L. 100–552, §5, Oct. 28, 1988, 102 Stat. 2768, provided for administration of wild and scenic river segment of the Missouri River known as Missouri Breaks FreeflowingRiver segment, establishment of detailed boundaries, acquisition of lands and interests in lands, and construction of visitor facilities in or near Fort Benton.
+
+#### Nebraska; Niobrara River; Designation of 6-Mile Segment as Component of National Wild and Scenic Rivers System
+
+Section 3(b) of Pub. L. 102–50 provided that: “If, within 5 years after the date of enactment of this Act \[May 24, 1991\], funds are not authorized and appropriated for the construction of a water resources project on the 6-mile segment of the Niobrara River from its confluence with Chimney Creek to its confluence with Rock Creek, at the expiration of such 5-year period the 6-mile segment shall be designated as a component of the National Wild and Scenic Rivers System by operation of law, to be administered by the Secretary of the Interior in accordance with sections 4 and 5 of this Act \[see below\] and the applicable provisions of the Wild and Scenic Rivers Act (16 U.S.C. 1271–1287). The Secretary of the Interior shall publish notification to that effect in the Federal Register.”
 
 #### New Hampshire; Lamprey River Advisory Committee
 
@@ -1796,6 +2334,10 @@ Section 3 of Pub. L. 103–162 provided for administration of Wild and Scenic Ri
 
 Section 2 of Pub. L. 102–536 provided for administration of Wild and Scenic River segments of Great Egg Harbor River, New Jersey, review of local river management plans, biennial review of compliance with local river management plans, reports to Congress on deviations from such plans which could diminish value of river segments, and authorization of appropriations.
 
+#### New Jersey; Administration of Wild and Scenic River Segments of Musconetcong River
+
+Pub. L. 109–452, §§3, 5, Dec. 22, 2006, 120 Stat. 3363, 3364, defined terms, provided that Secretary of the Interior manage certain Musconetcong River segments in New Jersey in accordance with management plan in cooperation with appropriate agencies, provided for designation of additional river segment, and authorized appropriations to carry out Pub. L. 109–452.
+
 #### New Jersey and Pennsylvania; Administration of Wild and Scenic River Segments of Lower Delaware River and Associated Tributaries
 
 Pub. L. 106–418, §§4, 5, Nov. 1, 2000, 114 Stat. 1818, 1821, provided for administration of Wild and Scenic River segments of Lower Delaware River in accordance with the Lower Delaware River Management Plan and in cooperation with Federal, State, regional, and local agencies, provided that the Plan be considered to satisfy subsec. (d) of this section, provided that zoning ordinances of municipalities bordering the segments be considered to satisfy section 1277(c) of this title, and contained provisions relating to consideration of the effect of proposed water resources projects on the segments, requirements for cooperative agreements, provision by the Secretary of the Interior of planning, financial, and technical assistance, designation of certain additional segments as a recreational river or scenic river, and authorization of appropriations.
@@ -1808,21 +2350,33 @@ Section 4 of Pub. L. 103–242 directed Secretary of the Interior, acting throug
 
 Section 704(b)–(j) of Pub. L. 95–625, as amended Pub. L. 96–87, title IV, §401(p)(2), Oct. 12, 1979, 93 Stat. 666; Pub. L. 100–412, §1, Aug. 22, 1988, 102 Stat. 1100, provided for administration of Upper Delaware River along New York-Pennsylvania border between Hancock, New York, and Sparrow Bush, New York, including creation of Upper Delaware Citizens Advisory Council. See also Pub. L. 106–119, Dec. 3, 1999, 113 Stat. 1604.
 
+#### Oregon; Administration of Indian Treaty Lands and Authorization of Appropriations for Wild and Scenic River Segments
+
+Sections 105 and 106 of Pub. L. 100–557 provided for administration of, and authorization of appropriations for, segments of the following Oregon rivers: Big Marsh Creek, Chetco, Clackamas, Crescent Creek, Crooked, Deschutes, Donner and Blitzen, Eagle Creek, Elk, Grant Ronde, Imnaha, John Day, Joseph Creek, Little Deschutes, Lostine, Malheur, McKenzie, Metolius, Minam, North Fork Crooked, North Fork John Day, North Fork Malheur, North Fork of the Middle Fork of the Millamette, North Fork Owyhee, North Fork Smith, North Fork Sprague, North Powder, North Umpqua, Powder, Quartzville Creek, Roaring, Salmon, Sandy, South Fork John Day, Squaw Creek, Sycan, Upper Rogue, Wenaha, West Little Owyhee, and White.
+
 #### Pennsylvania; Allegheny River; Designation of Segments as Wild and Scenic River; Advisory Councils; Administration; Authorization of Appropriations
 
 Sections 1, 2, 3, and 6 of Pub. L. 102–271 provided that the designated portions of the Allegheny River were so designated in order to preserve and protect for present and future generations outstanding scenic, natural, recreational, scientific, historic, and ecological values and to protect, preserve, and enhance the fisheries resources associated with the designated segments, directed the Secretary of Agriculture to establish advisory councils to advise the Secretary on the establishment of final boundaries and management of river segments, directed the Secretary of Agriculture to take the necessary steps for the administration of the designated river segments, and authorized the appropriation of the funds necessary to carry out Pub. L. 102–271, which amended sections 1274 and 1276 of this title.
 
-#### Oregon; Administration of Indian Treaty Lands and Authorization of Appropriations for Wild and Scenic River Segments
+#### Puerto Rico; Rivers of Caribbean National Forest; Special Management Considerations; Preservation of Commonwealth Authority
 
-Sections 105 and 106 of Pub. L. 100–557 provided for administration of, and authorization of appropriations for, segments of the following Oregon rivers: Big Marsh Creek, Chetco, Clackamas, Crescent Creek, Crooked, Deschutes, Donner and Blitzen, Eagle Creek, Elk, Grant Ronde, Imnaha, John Day, Joseph Creek, Little Deschutes, Lostine, Malheur, McKenzie, Metolius, Minam, North Fork Crooked, North Fork John Day, North Fork Malheur, North Fork of the Middle Fork of the Millamette, North Fork Owyhee, North Fork Smith, North Fork Sprague, North Powder, North Umpqua, Powder, Quartzville Creek, Roaring, Salmon, Sandy, South Fork John Day, Squaw Creek, Sycan, Upper Rogue, Wenaha, West Little Owyhee, and White.
+Pub. L. 107–365, §2(c), (d), Dec. 19, 2002, 116 Stat. 3028, provided that the amendment by section 2(b) of Pub. L. 107–365 to this section and the applicability of this chapter to segments of the rivers of Caribbean National Forest (now El Yunque National Forest) were not to be construed to prevent various scientific research activities within the boundaries of these river segments, butthat those activities were subject to such conditions as the Secretary of Agriculture considered desirable, and provided that section 2 of Pub. L. 107–365, amending this section, did not limit the authority of the Commonwealth of Puerto Rico over its waters and natural channels of public domain.
 
 #### South Dakota and Nebraska; Administration of Wild and Scenic River Segments of Niobrara and Missouri Rivers
 
 Pub. L. 102–50, §§4–7, 8, formerly §9, May 24, 1991, 105 Stat. 255–258; §9 renumbered §8, Pub. L. 105–362, title IX, §901(g)(2), Nov. 10, 1998, 112 Stat. 3290, set acreage limits on lands acquired by Secretary of the Interior along the segments of the Niobrara River designated under section 2 of Pub. L. 102–50, provided for establishment of the Niobrara Scenic River Advisory Commission, required establishment of a recreational river advisory group by Secretary to be consulted in the administration of the segment of the Missouri River designated under section 2 of Pub. L. 102–50, directed that the designation of the river segment not place any additional requirements on placement of bridges, authorized use of erosion control techniques to protect water resource values along designated river segment, called for study of feasibility and suitability of possible designation of lands in Knox and Boyd Counties, Nebraska, as a national recreation area, and authorized appropriation of sums necessary to carry out provisions of Pub. L. 102–50.
 
+#### Utah; Incorporation of Acquired Non-Federal Land
+
+Pub. L. 111–11, title I, §1976(b), Mar. 30, 2009, 123 Stat. 1088, provided that: “If the United States acquires any non-Federal land within or adjacent to Zion National Park that includes a river segment that is contiguous to a river segment of the Virgin River designated as a wild, scenic, or recreational river by paragraph (204) of section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as added by subsection (a)), the acquired river segment shall be incorporated in, and be administered as part of, the applicable wild, scenic, or recreational river.”
+
 #### West Virginia; Wild and Scenic River Segments of Bluestone and Meadow Rivers; Public Awareness Program
 
 Section 403 of Pub. L. 100–534 directed Secretary of the Interior to establish a public awareness program to be carried out in Mercer, Nicholas, and Greenbrier Counties, West Virginia, in cooperation with State and local agencies, landowners, and other concerned organizations, to further public understanding of the effects of designation as components of National Wild and Scenic Rivers System of segments of Bluestone and Meadow Rivers which were found eligible in studies completed by National Park Service in August 1983 but which were not designated as units of such system, with Secretary to submit a report to Committee on Interior and Insular Affairs of United States House of Representatives and to Committee on Energy and Natural Resources of United States Senate by Dec. 31, 1992, describing the program.
+
+#### Wyoming; Definitions; Administration of Wild and Scenic River Segments of Snake River Headwaters
+
+Pub. L. 111–11, title V, §5002(c), (e), Mar. 30, 2009, 123 Stat. 1148, 1150, provided for administration of Wild and Scenic River segments of Snake River Headwaters; required Secretary concerned to develop a management plan for each such river segment and apply for quantification of water rights reserved by each such river segment; allowed such Secretary to carry out activities at United States Geological Survey stream gauges on the Snake River; prohibited such Secretary's acquisition of property or interest in property within such river segments without owner's consent; and enacted savings provisions.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Comanche”.</i>
 

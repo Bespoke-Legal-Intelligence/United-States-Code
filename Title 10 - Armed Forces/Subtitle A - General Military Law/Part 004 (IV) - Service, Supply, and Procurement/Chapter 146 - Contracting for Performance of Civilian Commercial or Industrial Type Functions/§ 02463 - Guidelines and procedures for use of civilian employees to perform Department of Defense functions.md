@@ -34,7 +34,7 @@ Exclusion of Certain Functions From Competitions.—The Secretary of Defense may
 
 (d)
 
-Use of Flexible Hiring Authority.—(1) The Secretary of Defense may use the flexible hiring authority available to the Secretary under the National Security Personnel System, as established pursuant to section 9902 of title 5, to facilitate the performance by Department of Defense civilian employees of functions described in subsection (b).
+Use of Flexible Hiring Authority.—(1) The Secretary of Defense may use the flexiblehiring authority available to the Secretary under the National Security Personnel System, as established pursuant to section 9902 of title 5, to facilitate the performance by Department of Defense civilian employees of functions described in subsection (b).
 
 (2) The Secretary shall make use of the inventory required by section 2330a(c) of this title for the purpose of identifying functions that should be considered for performance by Department of Defense civilian employees pursuant to subsection (b).
 

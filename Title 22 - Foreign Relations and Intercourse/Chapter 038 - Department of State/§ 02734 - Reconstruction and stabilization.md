@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(E) Entering into appropriate arrangements with agencies to carry out activities under this section and the Reconstruction and Stabilization Civilian Management Act of 2008.
 
-&emsp;&emsp;(F) Identifying personnel in State and local governments and in the private sector who are available to participate in the Civilian Reserve Corps established under subsection (b) or to otherwise participate in or contribute to reconstruction and stabilization activities.
+&emsp;&emsp;(F) Identifying personnel in State and local governments and in the private sectorwho are available to participate in the Civilian Reserve Corps established under subsection (b) or to otherwise participate in or contribute to reconstruction and stabilization activities.
 
 &emsp;&emsp;(G) Taking steps to ensure that training and education of civilian personnel to perform such reconstruction and stabilization activities is adequate and is carried out, as appropriate, with other agencies involved with stabilization operations.
 
@@ -48,7 +48,7 @@
 
 #### (c) Existing training and education programs
 
-The Secretary shall ensure that personnel of the Department, and, in coordination with the Administrator of USAID, that personnel of USAID, make use of the relevant existing training and education programs offered within the Government, such as those at the Center forStabilization and Reconstruction Studies at the Naval Postgraduate School and the Interagency Training, Education, and After Action Review Program at the National Defense University.
+The Secretary shall ensure that personnel of the Department, and, in coordination with the Administrator of USAID, that personnel of USAID, make use of the relevant existing training and education programs offered within the Government, such as those at the Center for Stabilization and Reconstruction Studies at the Naval Postgraduate School and the Interagency Training, Education, and After Action Review Program at the National Defense University.
 
 (Aug. 1, 1956, ch. 841, title I, §62, as added Pub. L. 110–417, \[div. A\], title XVI, §1605, Oct. 14, 2008, 122 Stat. 4654.)
 

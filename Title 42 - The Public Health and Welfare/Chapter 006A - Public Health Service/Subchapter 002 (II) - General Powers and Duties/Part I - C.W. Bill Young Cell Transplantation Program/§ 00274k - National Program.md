@@ -54,7 +54,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 &emsp;&emsp;(A) operate a system for identifying, matching, and facilitating the distribution of bone marrow that is suitably matched to candidate patients;
 
-&emsp;&emsp;(B) consistent with paragraph (3), permit transplant physicians, other appropriate health care professionals, and patients to search by means of electronic access all available bone marrow donors listed in the Program;
+&emsp;&emsp;(B) consistent with paragraph (3), permit transplant physicians, other appropriate health care professionals, and patients to search by means of electronic access allavailable bone marrow donors listed in the Program;
 
 &emsp;&emsp;(C) carry out a program for the recruitment of bone marrow donors in accordance with subsection (e) of this section, including with respect to increasing the representation of racial and ethnic minority groups (including persons of mixed ancestry) in the enrollment of the Program;
 
@@ -80,7 +80,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 &emsp;&emsp;(A) operate a system for identifying, matching, and facilitating the distribution of donated cord blood units that are suitably matched to candidate patients and meet all applicable Federal and State regulations (including informed consent and Food and Drug Administration regulations) from a qualified cord blood bank;
 
-&emsp;&emsp;(B) consistent with paragraph (3), allow transplant physicians, other appropriate health care professionals, and patients tosearch by means of electronic access all available cord blood units made available through the Program;
+&emsp;&emsp;(B) consistent with paragraph (3), allow transplant physicians, other appropriate health care professionals, and patients to search by means of electronic access all available cord blood units made available through the Program;
 
 &emsp;&emsp;(C) allow transplant physicians and other appropriate health care professionals to reserve, as defined by the Secretary, a cord blood unit for transplantation;
 
@@ -110,7 +110,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 &emsp;&emsp;(A) has obtained all applicable Federal and State licenses, certifications, registrations (including pursuant to the regulations of the Food and Drug Administration), and other authorizations required to operate and maintain a cord blood bank;
 
-&emsp;&emsp;(B) has implemented donor screening, cord blood collection practices, and processing methods intended to protect the health and safety of donors and transplant recipients to improve transplant outcomes, including with respect to the transmission of potentially harmful infections and other diseases;
+&emsp;&emsp;(B) has implemented donor screening, cord blood collection practices, and processingmethods intended to protect the health and safety of donors and transplant recipients to improve transplant outcomes, including with respect to the transmission of potentially harmful infections and other diseases;
 
 &emsp;&emsp;(C) is accredited by an accreditation entity recognized by the Secretary under subsection (b) of this section;
 
@@ -144,7 +144,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 #### (B) Priorities
 
-&emsp;&emsp;In carrying out informational and educational activities under subparagraph (A),the Program shall give priority to recruiting individuals to serve as donors of bone marrow for populations that are identified under paragraph (1).
+&emsp;&emsp;In carrying out informational and educational activities under subparagraph (A), the Program shall give priority to recruiting individuals to serve as donors of bone marrow for populations that are identified under paragraph (1).
 
 #### (3) Transplantation as treatment option
 
@@ -178,7 +178,7 @@ The Secretary shall enforce, for participating entities, including the Program, 
 
 #### (1) Recruitment; priorities
 
-&emsp;The Program shall support activities, in cooperation with qualified cord blood banks, for the recruitment of cord blood donors. Such recruitment program shall identify populations that are underrepresented among cord blood donors. In the case of populations that are identified under the preceding sentence:
+&emsp;The Program shall support activities, in cooperation with qualified cord blood banks, for the recruitment of cord blood donors. Such recruitment program shall identify populations that are underrepresented among cord blooddonors. In the case of populations that are identified under the preceding sentence:
 
 &emsp;&emsp;(A) The Program shall give priority to supporting activities under this part to increase representation for such populations in order to enable a member of such a population, to the extent practicable, to have a probability of finding a suitable cord blood unit that is comparable to the probability that an individual who is not a member of an underrepresented population would have.
 
@@ -212,7 +212,7 @@ The Secretary shall enforce, for participating entities, including the Program, 
 
 #### (1) In general
 
-&emsp;The Secretary shall establish and maintain, through a contract or other means determinedappropriate by the Secretary, an office of patient advocacy (in this subsection referred to as the “Office”).
+&emsp;The Secretary shall establish and maintain, through a contract or other means determined appropriate by the Secretary, an office of patient advocacy (in this subsection referred to as the “Office”).
 
 #### (2) General functions
 
@@ -484,7 +484,7 @@ Pub. L. 105–196, §2(b)(2), July 16, 1998, 112 Stat. 632, directed the Secreta
 
 #### Study by GAO
 
-Pub. L. 105–196, §5, July 16, 1998, 112 Stat. 636, provided that the Comptroller General was to conduct astudy of the National Bone Marrow Donor Registry under this section to determine the extent to which the Registry had increased the representation of racial and ethnic minority groups among potential donors enrolled with the Registry and whether the extent of increase resulted in a level of representation that met the standard established in subsec. (c)(1)(A) of this section, the extent to which patients in need of a transplant of bone marrow from a biologically unrelated donor, and the physicians of such patients, had been utilizing the Registry, the number of patients for whom the Registry began a preliminary but not complete search process and the reasons underlying such circumstances, the extent to which the plan required in section 2(b)(2) of Pub. L. 105–196 (42 U.S.C. 274k note) had been implemented, and the extent to which the Registry, donor centers, donor registries, collection centers, transplant centers, and other appropriate entities had been complying with subsec. (e) of this section; and provided that a report describing the findings of this study was to be submitted to Congress not later than Oct. 1, 2001, and not before Jan. 1, 2001.
+Pub. L. 105–196, §5, July 16, 1998, 112 Stat. 636, provided that the Comptroller General was to conduct a study of the National Bone Marrow Donor Registry under this section to determine the extent to which the Registry had increased the representation of racial and ethnic minority groups among potential donors enrolled with the Registry and whether the extent of increase resulted in a level of representation that met the standard established in subsec. (c)(1)(A) of this section, the extent to which patients in need of a transplant of bone marrow from a biologically unrelated donor, and the physicians of such patients, had been utilizing the Registry, the number of patients for whom the Registry began a preliminary but not complete search process and the reasons underlying such circumstances, the extent to which the plan required in section 2(b)(2) of Pub. L. 105–196 (42 U.S.C. 274k note) had been implemented, and the extent to which the Registry, donor centers, donor registries, collection centers, transplant centers, and other appropriate entities had been complying with subsec. (e) of this section; and provided that a report describing the findings of this study was to be submitted to Congress not later than Oct. 1, 2001, and not before Jan. 1, 2001.
 
 #### Compliance With New Requirements for Office of Patient Advocacy
 

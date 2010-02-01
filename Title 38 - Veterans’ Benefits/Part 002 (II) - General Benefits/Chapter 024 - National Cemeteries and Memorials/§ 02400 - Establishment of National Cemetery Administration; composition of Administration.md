@@ -16,7 +16,7 @@
 
 The National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), is Pub. L. 93–43, June 18, 1973, 87 Stat. 75, as amended, which is classified principally to this chapter (§2400 et seq.). For complete classification of this Act to the Code, see section 1 of Pub. L. 93–43 set out as a Short Title of 1973 Amendment note under section 101 of this title and Tables.
 
-For national cemeteries transferred from the Department of the Army to the Veterans’ Administration by the National Cemeteries Act of 1973, and any other cemetery, memorial, or monument transferred to the Veterans’ Administration by the National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), see Transfer of Functions note set out under section 2404 of this title.
+For national cemeteries transferred from the Department of the Army to the Veterans’ Administration by the National Cemeteries Act of 1973, and any othercemetery, memorial, or monument transferred to the Veterans’ Administration by the National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), see Transfer of Functions note set out under section 2404 of this title.
 
 The date of enactment of this chapter, referred to in subsec. (b)(2), is the date of enactment of Pub. L. 93–43, which was approved June 18, 1973.
 
@@ -116,7 +116,7 @@ Pub. L. 106–117, title VI, §611, Nov. 30, 1999, 113 Stat. 1580, provided that
 
 “(a)
 
-Establishment.—The Secretary \[of Veterans Affairs\] shall establish, in accordance with chapter 24 of title 38, United States Code, a national cemetery in each of the six areas in the United States that the Secretary determines to be most in need of such a cemetery to serve the needs of veterans and their families.
+Establishment.—The Secretary \[of Veterans Affairs\] shall establish, in accordance with chapter 24 of title 38, United States Code, a national cemetery ineach of the six areas in the United States that the Secretary determines to be most in need of such a cemetery to serve the needs of veterans and their families.
 
 “(b)
 

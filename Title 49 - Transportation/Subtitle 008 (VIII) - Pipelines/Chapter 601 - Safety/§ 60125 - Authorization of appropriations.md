@@ -108,7 +108,7 @@ In subsection (b), the words “(except sections 60107” are substituted for �
 
 In subsection (c)(1) and (2), the words “the Federal grants-in-aid provisions of” are omitted as surplus.
 
-In subsection (c)(3), the words “the amount of” are omitted as surplus. The word “program” is added for consistency in this chapter. The words “made to a State” are omitted as surplus.
+In subsection (c)(3), the words “the amount of” are omitted as surplus. The word “program” is added forconsistency in this chapter. The words “made to a State” are omitted as surplus.
 
 In subsection (e), the text of 49 App.:1684(a) (last sentence) is omitted as expired.
 

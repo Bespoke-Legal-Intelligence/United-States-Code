@@ -46,7 +46,7 @@
 
 #### (7) Waiver for desegregation plans
 
-&emsp;The Secretary may approve a local educational agency's written request for a waiver of the requirements of subsections (a) and (c) of this section, and permit such agency to treat as eligible, and serve, any school that children attend with a State-ordered, court-ordered school desegregation plan or a plan that continues to be implemented in accordancewith a State-ordered or court-ordered desegregation plan, if—
+&emsp;The Secretary may approve a local educational agency's written request for a waiver of the requirements of subsections (a) and (c) of this section, and permit such agency to treat as eligible, and serve, any school that children attend with a State-ordered, court-ordered school desegregation plan or a plan that continues to be implemented in accordance with a State-ordered or court-ordered desegregation plan, if—
 
 &emsp;&emsp;(A) the number of economically disadvantaged children enrolled in the school is at least 25 percent of the school's total enrollment; and
 

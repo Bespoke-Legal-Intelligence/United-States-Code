@@ -50,7 +50,7 @@ For purposes of this section and section 960(b), any amount included in the gros
 
 &emsp;In applying this section, actual distributions shall be taken into account before amounts that would be included under section 951(a)(1)(B) (determined without regard to this section).
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1019; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, §133(b)(1), July 18, 1984, 98Stat. 668; Pub. L. 99–514, title XII, §1226(b), Oct. 22, 1986, 100 Stat. 2560; Pub. L. 100–647, title I, §1012(bb)(7)(A), Nov. 10, 1988, 102 Stat. 3536; Pub. L. 103–66, title XIII, §13231(c)(1), (2), (4)(A), (B), Aug. 10, 1993, 107 Stat. 497, 498; Pub. L. 104–188, title I, §1501(b)(4)–(8), Aug. 20, 1996, 110 Stat. 1826.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1019; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, §133(b)(1), July 18, 1984, 98 Stat. 668; Pub. L. 99–514, title XII, §1226(b), Oct. 22, 1986, 100 Stat. 2560; Pub. L. 100–647, title I, §1012(bb)(7)(A), Nov. 10, 1988, 102 Stat. 3536; Pub. L. 103–66, title XIII, §13231(c)(1), (2), (4)(A), (B), Aug. 10, 1993, 107 Stat. 497, 498; Pub. L. 104–188, title I, §1501(b)(4)–(8), Aug. 20, 1996, 110 Stat. 1826.)
 
 #### References in Text
 
@@ -64,7 +64,7 @@ Subsec. (c). Pub. L. 104–188, §1501(b)(6), inserted at end “References in t
 
 Subsec. (f)(1). Pub. L. 104–188, §1501(b)(7), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this section—
 
-&emsp;“(A) amounts that would be included under subparagraph (B) of section 951(a)(1) (determined without regard to this section) shall be treated as attributable first to earnings described in subsection (c)(2), and then to earnings described in subsection (c)(3), and
+&emsp;“(A) amounts that would be included under subparagraph (B) of section 951(a)(1) (determined withoutregard to this section) shall be treated as attributable first to earnings described in subsection (c)(2), and then to earnings described in subsection (c)(3), and
 
 &emsp;“(B) amounts that would be included under subparagraph (C) of section 951(a)(1) (determined without regard to this section) shall be treated as attributable first to earnings described in subsection (c)(2) to the extent the earnings so described were accumulated in taxable years beginning after September 30, 1993, and then to earnings described in subsection (c)(3).”
 

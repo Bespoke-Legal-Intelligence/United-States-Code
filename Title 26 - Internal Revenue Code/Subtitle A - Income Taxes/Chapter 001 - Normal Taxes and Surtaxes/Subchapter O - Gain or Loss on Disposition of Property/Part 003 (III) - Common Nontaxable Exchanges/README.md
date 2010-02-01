@@ -11,7 +11,7 @@
 | [1037\.](%C2%A7%2001037%20-%20Certain%20exchanges%20of%20United%20States%20obligations.md) | Certain exchanges of United States obligations. |
 | [1038\.](%C2%A7%2001038%20-%20Certain%20reacquisitions%20of%20real%20property.md) | Certain reacquisitions of real property. |
 | \[1039. | Repealed.\] |
-| [1040\.](%C2%A7%2001040%20-%20Transfer%20of%20certain%20farm%2C%20etc.%2C%20real%20property.md) | Transfer of certain farm, etc., real property. |
+| [1040\.](%C2%A7%2001040%20-%20Use%20of%20appreciated%20carryover%20basis%20property%20to%20satisfy%20pecuniary%20bequest.md) | Use of appreciated carryover basis property to satisfy pecuniary bequest. |
 | [1041\.](%C2%A7%2001041%20-%20Transfers%20of%20property%20between%20spouses%20or%20incident%20to%20divorce.md) | Transfers of property between spouses or incident to divorce. |
 | [1042\.](%C2%A7%2001042%20-%20Sales%20of%20stock%20to%20employee%20stock%20ownership%20plans%20or%20certain%20cooperatives.md) | Sales of stock to employee stock ownership plans or certain cooperatives. |
 | [1043\.](%C2%A7%2001043%20-%20Sale%20of%20property%20to%20comply%20with%20conflict-of-interest%20requirements.md) | Sale of property to comply with conflict-of-interest requirements. |
@@ -22,9 +22,11 @@
 
 #### Amendment of Analysis
 
-<i>Pub. L. 107–16, title V, §542(d)(2), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 84, 86, 150, provided that, applicable to estates of decedents dying after Dec. 31, 2009, item 1040 is temporarily amended to read as follows: “Use of appreciated carryover basis property to satisfy pecuniary bequest”.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination</i><i>Dates of 2001 Amendment note set out under section 1 of this title.</i>
 
 #### Amendments
+
+2001—Pub. L. 107–16, title V, §542(d)(2), title IX, §901, June 7, 2001, 115 Stat. 84, 150, temporarily substituted “Use of appreciated carryover basis property to satisfy pecuniary bequest” for “Transfer of certain farm, etc., real property” in item 1040.
 
 1997—Pub. L. 105–34, title III, §§312(d)(15), 313(b)(3), Aug. 5, 1997, 111 Stat. 841, 842, struck out item 1034 “Rollover of gain on sale of principal residence” and added item 1045.
 
@@ -66,7 +68,7 @@
 - [&sect; 01037 - Certain exchanges of United States obligations](%C2%A7%2001037%20-%20Certain%20exchanges%20of%20United%20States%20obligations.md)
 - [&sect; 01038 - Certain reacquisitions of real property](%C2%A7%2001038%20-%20Certain%20reacquisitions%20of%20real%20property.md)
 - [&sect; 01039 - Repealed. Pub. L. 101&#8211;508, title XI, &sect;11801(a)(33), Nov. 5, 1990, 104 Stat. 1388&#8211;521](%C2%A7%2001039%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93508%2C%20title%20XI%2C%20%C2%A711801%28a%29%2833%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201388%E2%80%93521.md)
-- [&sect; 01040 - Transfer of certain farm, etc., real property](%C2%A7%2001040%20-%20Transfer%20of%20certain%20farm%2C%20etc.%2C%20real%20property.md)
+- [&sect; 01040 - Use of appreciated carryover basis property to satisfy pecuniary bequest](%C2%A7%2001040%20-%20Use%20of%20appreciated%20carryover%20basis%20property%20to%20satisfy%20pecuniary%20bequest.md)
 - [&sect; 01041 - Transfers of property between spouses or incident to divorce](%C2%A7%2001041%20-%20Transfers%20of%20property%20between%20spouses%20or%20incident%20to%20divorce.md)
 - [&sect; 01042 - Sales of stock to employee stock ownership plans or certain cooperatives](%C2%A7%2001042%20-%20Sales%20of%20stock%20to%20employee%20stock%20ownership%20plans%20or%20certain%20cooperatives.md)
 - [&sect; 01043 - Sale of property to comply with conflict-of-interest requirements](%C2%A7%2001043%20-%20Sale%20of%20property%20to%20comply%20with%20conflict-of-interest%20requirements.md)

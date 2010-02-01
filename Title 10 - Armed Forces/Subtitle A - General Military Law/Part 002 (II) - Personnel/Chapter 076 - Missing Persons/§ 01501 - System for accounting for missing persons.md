@@ -20,7 +20,7 @@ Office for Missing Personnel.—(1) The Secretary of Defense shall establish wit
 
 (ii) If for any reason the number of military and civilian personnel assigned or detailed to the office should fall below the required level under clause (i), the Secretary of Defense shall promptly notify the Committees on Armed Services of the Senate and House of Representatives of the number of personnel so assigned or detailed and of the Secretary's plan to restore the staffing level of the office to at least the required minimum number under clause (i). The Secretary shall publish such notice and plan in the Federal Register.
 
-(C) For any fiscal year, the level of funding allocated to the office within the Department of Defense may not be below the level requested for such purposes in the President's budget for fiscal year 2003, unless such a level of funding is expressly required by law.
+(C) For any fiscal year, the level of funding allocated to the office within the Department ofDefense may not be below the level requested for such purposes in the President's budget for fiscal year 2003, unless such a level of funding is expressly required by law.
 
 (b)
 
@@ -44,7 +44,7 @@ Covered Persons.—(1) Section 1502 of this title applies in the case of any mem
 
 &emsp;(B) whose status is undetermined or who is unaccounted for.
 
-(2) Section 1502 of this title applies in the case of any other person who is a citizen of theUnited States and a civilian officer or employee of the Department of Defense or (subject to paragraph (3)) an employee of a contractor of the Department of Defense—
+(2) Section 1502 of this title applies in the case of any other person who is a citizen of the United States and a civilian officer or employee of the Department of Defense or (subject to paragraph (3)) an employee of a contractor of the Department of Defense—
 
 &emsp;(A) who serves in direct support of, or accompanies, the armed forces in the field under orders and becomes involuntarily absent as a result of a hostile action or under circumstances suggesting that the involuntary absence is a result of a hostile action; and
 
@@ -118,7 +118,7 @@ Intelligence Analysis.—The Director of Central Intelligence, in consultation w
 
 “(b)
 
-Use of Intelligence in Analysis of POW/MIA Cases in Department of Defense.—The Secretary of Defense shall ensure that the Defense Prisoner of War/Missing Personnel Office of the Department of Defensetakes into full account all intelligence regarding matters concerning prisoners of war and missing persons (as defined in chapter 76 of title 10, United States Code) in analyzing cases involving such persons.”
+Use of Intelligence in Analysis of POW/MIA Cases in Department of Defense.—The Secretary of Defense shall ensure that the Defense Prisoner of War/Missing Personnel Office of the Department of Defense takes into full account all intelligence regarding matters concerning prisoners of war and missing persons (as defined in chapter 76 of title 10, United States Code) in analyzing cases involving such persons.”
 
 \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 

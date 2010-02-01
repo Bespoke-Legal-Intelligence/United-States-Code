@@ -126,7 +126,7 @@ Information Clearinghouse.—
 
 In general.—The Secretary shall—
 
-&emsp;&emsp;“(A) maintain a repository for technical and safety data collected as a result of federally sponsored projects carried out under this subtitle (including the amendments made by this subtitle); and
+&emsp;&emsp;“(A) maintain a repository for technical and safety data collected as a result of federally sponsoredprojects carried out under this subtitle (including the amendments made by this subtitle); and
 
 &emsp;&emsp;“(B) make, on request, that information (except for proprietary information and data) readily available to all users of the repository at an appropriate cost.
 
@@ -330,7 +330,7 @@ Secretary's discretion.—The Secretary may authorize exceptions to paragraph (1
 
 &emsp;&emsp;“(A) projects designed to achieve specific research objectives outlined in the national intelligent transportation system program plan or the surface transportation research and development strategic plan developed under section 508 of title 23, United States Code; or
 
-&emsp;&emsp;“(B) the upgrade or expansion of an intelligent transportation system in existence on the date ofenactment of this Act \[Aug. 10, 2005\] if the Secretary determines that the upgrade or expansion—
+&emsp;&emsp;“(B) the upgrade or expansion of an intelligent transportation system in existence on the date of enactment of this Act \[Aug. 10, 2005\] if the Secretary determines that the upgrade or expansion—
 
 &emsp;&emsp;&emsp;“(i) would not adversely affect the goals or purposes of this subtitle \[subtitle C (§§5301–5310) of title V of Pub. L. 109–59, enacting this section and section 513 of this title\];
 
@@ -532,7 +532,7 @@ Development.—The Secretary \[of Transportation\] shall develop a nationwide pr
 
 &emsp;“(2)
 
-Consultation.—The Secretary shall develop the agreement under paragraph (1) in consultation with the National Conference of State Historic Preservation Officers and the Advisory Council on Historic Preservation established under title II of the National Historic Preservation Act (26 U.S.C. 470i et seq.) and after soliciting the views of other interested parties.
+Consultation.—The Secretary shall develop the agreement under paragraph (1) in consultationwith the National Conference of State Historic Preservation Officers and the Advisory Council on Historic Preservation established under title II of the National Historic Preservation Act (26 U.S.C. 470i et seq.) and after soliciting the views of other interested parties.
 
 “(c)
 

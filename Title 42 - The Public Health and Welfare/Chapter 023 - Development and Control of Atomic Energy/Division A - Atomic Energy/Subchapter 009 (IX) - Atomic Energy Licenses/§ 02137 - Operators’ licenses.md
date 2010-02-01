@@ -10,7 +10,7 @@ The Commission shall—
 
 &emsp;(d) suspend such licenses for violations of any provision of this chapter or any rule or regulation issued thereunder whenever the Commission deems such action desirable.
 
-(Aug. 1, 1946, ch. 724, title I, §107, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 939; renumberedtitle I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §107, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 939; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Technical Capability of Licensee Personnel Improvement Plan; Study of License Requirement for Plant Managers and Senior Licensee Officers; Report to Congress
 

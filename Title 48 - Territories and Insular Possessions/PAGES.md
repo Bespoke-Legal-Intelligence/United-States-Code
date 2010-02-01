@@ -1,6 +1,6 @@
 # Printed pages - Title 48 - Territories and Insular Possessions
 
-GPO's 2008 edition (laws in effect as of 2009-01-05), from its printed page marks. The exact position of
+GPO's 2009 edition (laws in effect as of 2010-02-01), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title48.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -133,8 +133,8 @@ from edition to edition; the section files hold the text only.
 | [Chapter 004 - Puerto Rico](Chapter%20004%20-%20Puerto%20Rico/README.md) | 53 |
 | [Subchapter 001 (I) - General Provisions](Chapter%20004%20-%20Puerto%20Rico/Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md) | 53 |
 | [&sect; 00731 - Territory included under name Puerto Rico](Chapter%20004%20-%20Puerto%20Rico/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000731%20-%20Territory%20included%20under%20name%20Puerto%20Rico.md) | 53–54 |
-| [&sect; 00731a - Change of name; Puerto Rico](Chapter%20004%20-%20Puerto%20Rico/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000731a%20-%20Change%20of%20name%3B%20Puerto%20Rico.md) | 54 |
-| [&sect; 00731b - Organization of a government pursuant to a constitution](Chapter%20004%20-%20Puerto%20Rico/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000731b%20-%20Organization%20of%20a%20government%20pursuant%20to%20a%20constitution.md) | 54–55 |
+| [&sect; 00731a - Change of name; Puerto Rico](Chapter%20004%20-%20Puerto%20Rico/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000731a%20-%20Change%20of%20name%3B%20Puerto%20Rico.md) | 54–55 |
+| [&sect; 00731b - Organization of a government pursuant to a constitution](Chapter%20004%20-%20Puerto%20Rico/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000731b%20-%20Organization%20of%20a%20government%20pursuant%20to%20a%20constitution.md) | 55 |
 | [&sect; 00731c - Submission of sections 731b to 731e of this title to people of Puerto Rico for referendum; convening of constitutional convention&#8230;](Chapter%20004%20-%20Puerto%20Rico/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000731c%20-%20Submission%20of%20sections%20731b%20to%20731e%20of%20this%20title%20to%20people%20of%20Puerto%20Rico%20for%20referendum%3B%20convening%20of%20constitutional%20convention%E2%80%A6.md) | 55 |
 | [&sect; 00731d - Ratification of constitution by Congress](Chapter%20004%20-%20Puerto%20Rico/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000731d%20-%20Ratification%20of%20constitution%20by%20Congress.md) | 55 |
 | [&sect; 00731e - Chapter continued in force and effect](Chapter%20004%20-%20Puerto%20Rico/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000731e%20-%20Chapter%20continued%20in%20force%20and%20effect.md) | 55 |

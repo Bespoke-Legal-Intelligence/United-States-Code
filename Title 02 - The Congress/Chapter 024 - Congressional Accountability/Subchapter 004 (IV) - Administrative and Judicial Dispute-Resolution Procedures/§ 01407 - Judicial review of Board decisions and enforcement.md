@@ -58,7 +58,7 @@ To the extent necessary for decision in a proceeding commenced under subsection 
 
 #### (e) Record
 
-In making determinations under subsection (d) of this section, the court shall review the whole record, or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
+In making determinations under subsection (d) of this section, the court shall review thewhole record, or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
 
 (Pub. L. 104–1, title IV, §407, Jan. 23, 1995, 109 Stat. 35.)
 

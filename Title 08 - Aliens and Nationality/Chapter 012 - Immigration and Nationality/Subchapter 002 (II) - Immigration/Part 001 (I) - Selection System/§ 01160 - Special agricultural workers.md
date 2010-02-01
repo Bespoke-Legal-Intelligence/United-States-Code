@@ -98,7 +98,7 @@
 
 #### (4) Treatment of applications by designated entities
 
-&emsp;Each designated entity must agree to forward to the Attorney General applicationsfiled with it in accordance with paragraph (1)(A)(ii) but not to forward to the Attorney General applications filed with it unless the applicant has consented to such forwarding. No such entity may make a determination required by this section to be made by the Attorney General.
+&emsp;Each designated entity must agree to forward to the Attorney General applications filed with it in accordance with paragraph (1)(A)(ii) but not to forward to the Attorney General applications filed with it unless the applicant has consented to such forwarding. No such entity may make a determination required by this section to be made by the Attorney General.
 
 #### (5) Limitation on access to information
 
@@ -124,7 +124,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Nothing in this paragraph shall be construed to limit the use, or release, for immigration enforcement purposes or law enforcement purposes of information contained in files or records of the Service pertaining to an application filed under this section, other than information furnished by an applicant pursuant to the application, or any other information derived from the application, that is not available from any other source.
+&emsp;&emsp;&emsp;Nothing in this paragraph shall be construed to limit the use, or release, for immigration enforcement purposes or law enforcement purposes of information contained in files or records of the Service pertaining to an application filed underthis section, other than information furnished by an applicant pursuant to the application, or any other information derived from the application, that is not available from any other source.
 
 #### (ii) Criminal convictions
 
@@ -178,7 +178,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) Paragraph (4) (relating to aliens likely to become public charges).
 
-&emsp;&emsp;&emsp;&emsp;(III) Paragraph (2)(C) (relating to drug offenses), except for so much of suchparagraph as relates to a single offense of simple possession of 30 grams or less of marihuana.
+&emsp;&emsp;&emsp;&emsp;(III) Paragraph (2)(C) (relating to drug offenses), except for so much of such paragraph as relates to a single offense of simple possession of 30 grams or less of marihuana.
 
 &emsp;&emsp;&emsp;&emsp;(IV) Paragraph (3) (relating to security and related grounds), other than subparagraph (E) thereof.
 
@@ -206,7 +206,7 @@
 
 #### (3) Use of application fees to offset program costs
 
-&emsp;No application fees collected by the Service pursuant to this subsection may be used by the Service to offset the costs of the special agricultural worker legalization program until the Service implements the program consistent with the statutory mandate as follows:
+&emsp;No application fees collected by the Service pursuant to this subsection may be used by the Service to offset the costs of the special agricultural worker legalization program untilthe Service implements the program consistent with the statutory mandate as follows:
 
 &emsp;&emsp;(A) During the application period described in subsection (a)(1)(A) of this section the Service may grant temporary admission to the United States, work authorization, and provide an “employment authorized” endorsement or other appropriate work permit to any alien who presents a preliminary application for adjustment of status under subsection (a) of this section at a designated port of entry on the southern land border. An alien who does not enter through a port of entry is subject to deportation and removal as otherwise provided in this chapter.
 
@@ -258,7 +258,7 @@ In this section, the term “seasonal agricultural services” means the perform
 
 Public Law 89–732, referred to in subsec. (b)(2)(B), is Pub. L. 89–732, Nov. 2, 1966, 80 Stat. 1161, as amended, which is set out as a note under section 1255 of this title.
 
-Public Law 95–145, referred to in subsec. (b)(2)(B), is Pub. L. 95–145, Oct. 28, 1977, 91 Stat. 1223, as amended. Title I of Pub. L. 95–145 is set out as a note under section 1255 of this title. Title II of Pub. L. 95–145 amended Pub. L. 94–23, which was set out as a note under section 2601 of Title 22, Foreign Relations and Intercourse, and was repealed by Pub. L. 96–212, title III, §312(c), Mar. 17, 1980, 94 Stat. 117.
+Public Law 95–145, referred to in subsec. (b)(2)(B), is Pub. L. 95–145, Oct. 28, 1977, 91 Stat. 1223, as amended.Title I of Pub. L. 95–145 is set out as a note under section 1255 of this title. Title II of Pub. L. 95–145 amended Pub. L. 94–23, which was set out as a note under section 2601 of Title 22, Foreign Relations and Intercourse, and was repealed by Pub. L. 96–212, title III, §312(c), Mar. 17, 1980, 94 Stat. 117.
 
 Section 1105a of this title, referred to in subsec. (e)(3)(A), was repealed by Pub. L. 104–208, div. C, title III, §306(b), Sept. 30, 1996, 110 Stat. 3009–612.
 

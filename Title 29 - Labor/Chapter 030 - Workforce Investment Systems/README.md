@@ -84,6 +84,7 @@
 | [2882\.](Subchapter%20003%20%28III%29%20-%20Job%20Corps/%C2%A7%2002882%20-%20Definitions.md) | Definitions. |
 | [2883\.](Subchapter%20003%20%28III%29%20-%20Job%20Corps/%C2%A7%2002883%20-%20Establishment.md) | Establishment. |
 | [2883a.](Subchapter%20003%20%28III%29%20-%20Job%20Corps/%C2%A7%2002883a%20-%20Office%20of%20Job%20Corps.md) | Office of Job Corps. |
+| [2883b.](Subchapter%20003%20%28III%29%20-%20Job%20Corps/%C2%A7%2002883b%20-%20Transfer%20of%20administration%20of%20Job%20Corps%20program%20to%20Employment%20and%20Training%20Administration.md) | Transfer of administration of Job Corps program to Employment and Training Administration. |
 | [2884\.](Subchapter%20003%20%28III%29%20-%20Job%20Corps/%C2%A7%2002884%20-%20Individuals%20eligible%20for%20the%20Job%20Corps.md) | Individuals eligible for the Job Corps. |
 | [2885\.](Subchapter%20003%20%28III%29%20-%20Job%20Corps/%C2%A7%2002885%20-%20Recruitment%2C%20screening%2C%20selection%2C%20and%20assignment%20of%20enrollees.md) | Recruitment, screening, selection, and assignment of enrollees. |
 | [2886\.](Subchapter%20003%20%28III%29%20-%20Job%20Corps/%C2%A7%2002886%20-%20Enrollment.md) | Enrollment. |
@@ -119,6 +120,7 @@
 | [2917\.](Subchapter%20004%20%28IV%29%20-%20National%20Programs/%C2%A7%2002917%20-%20Evaluations.md) | Evaluations. |
 | [2918\.](Subchapter%20004%20%28IV%29%20-%20National%20Programs/%C2%A7%2002918%20-%20National%20emergency%20grants.md) | National emergency grants. |
 | [2918a.](Subchapter%20004%20%28IV%29%20-%20National%20Programs/%C2%A7%2002918a%20-%20YouthBuild%20program.md) | YouthBuild program. |
+| [2918b.](Subchapter%20004%20%28IV%29%20-%20National%20Programs/%C2%A7%2002918b%20-%20Re-enrollment%20in%20alternative%20school%20by%20high-school%20dropout.md) | Re-enrollment in alternative school by high-school dropout. |
 | [2919\.](Subchapter%20004%20%28IV%29%20-%20National%20Programs/%C2%A7%2002919%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [2920\.](Subchapter%20004%20%28IV%29%20-%20National%20Programs/%C2%A7%2002920%20-%20Educational%20assistance%20and%20training.md) | Educational assistance and training. |
 

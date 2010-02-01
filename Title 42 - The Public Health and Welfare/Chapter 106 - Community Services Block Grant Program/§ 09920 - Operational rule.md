@@ -32,7 +32,7 @@ No funds provided directly to a religious organization to provide assistance und
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), any religious organization providing assistance under any program described in subsection (a) of this section shall be subject to the same regulations as other nongovernmental organizations to account in accord with generally accepted accounting principles for the use of such funds provided under such program.
+&emsp;Except as provided in paragraph (2), any religious organization providing assistance underany program described in subsection (a) of this section shall be subject to the same regulations as other nongovernmental organizations to account in accord with generally accepted accounting principles for the use of such funds provided under such program.
 
 #### (2) Limited audit
 

@@ -34,7 +34,7 @@ The Bank shall estimate on the basis of an annual survey or tabulation the numbe
 
 #### (e) Outreach to certain small businesses
 
-The Bank shall include in its annual report to the Congress under subsection (a) of this section a description of outreach efforts made by the Bank to any socially and economically disadvantaged small business concerns (as defined in section 637(a)(4) of title 15), small business concerns (as defined in section 632(a) of title 15) owned by women, and small business concerns\(as defined in section 632(a) of title 15) employing fewer than 100 employees.
+The Bank shall include in its annual report to the Congress under subsection (a) of this section a description of outreach efforts made by the Bank to any socially and economically disadvantaged small business concerns (as defined in section 637(a)(4) of title 15), small business concerns (as defined in section 632(a) of title 15) owned by women, and small business concerns (as defined in section 632(a) of title 15) employing fewer than 100 employees.
 
 #### (f) Additional reports
 
@@ -124,5 +124,5 @@ Pub. L. 101–167, title V, §534(d), Nov. 21, 1989, 103 Stat. 1231, provided th
 
 #### Submission of Annual Report
 
-Pub. L. 89–348, §2(9), Nov. 8, 1965, 79 Stat. 1312, modified requirement relating to submission of reports to Congress by providing for annual reports instead of semiannual reports.
+Pub. L. 89–348, §2(9), Nov. 8, 1965, 79 Stat. 1312, modified requirement relating to submission of reports toCongress by providing for annual reports instead of semiannual reports.
 

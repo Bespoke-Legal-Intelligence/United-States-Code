@@ -2,7 +2,7 @@
 
 (a)
 
-General Rule.—Unless retired or separated earlier, each regular commissioned officer of the Army, Navy, Air Force, or Marine Corps serving in a general or flag officer grade shall be retired on the first day of the month followingthe month in which the officer becomes 64 years of age.
+General Rule.—Unless retired or separated earlier, each regular commissioned officer of the Army, Navy, Air Force, or Marine Corps serving in a general or flag officer grade shall be retired on the first day of the month following the month in which the officer becomes 64 years of age.
 
 (b)
 

@@ -16,7 +16,7 @@
 
 (2) The Director shall not be made a party to an inter partes proceeding under this subsection, but he shall be notified of the filing of the complaint by the clerk of the court in which it is filed and shall have the right to intervene in the action.
 
-(3) In any case where there is no adverse party, a copy of the complaint shall be served on the Director, and, unless the court finds the expenses to be unreasonable, all the expenses of the proceeding shall be paid by the party bringing the case, whether the final decision is in favor of such party or not. In suits brought hereunder, the record in the Patent and Trademark Office shall be admitted on motion of any party,upon such terms and conditions as to costs, expenses, and the further cross-examination of the witnesses as the court imposes, without prejudice to the right of any party to take further testimony. The testimony and exhibits of the record in the Patent and Trademark Office, when admitted, shall have the same effect as if originally taken and produced in the suit.
+(3) In any case where there is no adverse party, a copy of the complaint shall be served on the Director, and, unless the court finds the expenses to be unreasonable, all the expenses of the proceeding shall be paid by the party bringing the case, whether the final decision is in favor of such party or not. In suits brought hereunder, the record in the Patent and Trademark Office shall be admitted on motion of any party, upon such terms and conditions as to costs, expenses, and the further cross-examination of the witnesses as the court imposes, without prejudice to the right of any party to take further testimony. The testimony and exhibits of the record in the Patent and Trademark Office, when admitted, shall have the same effect as if originally taken and produced in the suit.
 
 (4) Where there is an adverse party, such suit may be instituted against the party in interest as shown by the records of the Patent and Trademark Office at the time of the decision complained of, but any party in interest may become a party to the action. If there be adverse parties residing in a plurality of districts not embraced within the same State, or an adverse party residing in a foreign country, the United States District Court for the District of Columbia shall have jurisdiction and may issue summons against the adverse parties directed to the marshal of any district in which any adverse party resides. Summons against adverse parties residing in foreign countries may be served by publication or otherwise as the court directs.
 
@@ -40,7 +40,7 @@ Subsec. (a)(4). Pub. L. 100–667, §120(2), inserted provision that no final ju
 
 Subsec. (b)(1). Pub. L. 100–667, §120(3), made technical amendments to references in the original act to subsection (a) of this section resulting in no change in text and inserted provision that no final judgment be entered before mark is registered if applicant cannot prevail without establishing constructive use.
 
-Subsec. (b)(3). Pub. L. 100–667, §120(4), amended first sentence generally. Prior to amendment, first sentence read as follows: “In all cases where there is no adverse party, a copy of the complaint shall be served on the Commissioner; and all the expenses of the proceedings shall be paid by the party bringing them, whether the final decision is in his favor or not.”
+Subsec. (b)(3). Pub. L. 100–667, §120(4), amended first sentence generally. Prior to amendment, first sentence read as follows: “In all cases where there is no adverseparty, a copy of the complaint shall be served on the Commissioner; and all the expenses of the proceedings shall be paid by the party bringing them, whether the final decision is in his favor or not.”
 
 1984—Subsec. (a)(2). Pub. L. 98–620 substituted provisions requiring the appellant to file a written notice of appeal in the Patent and Trademark Office directed to the Commissioner for provisions requiring the appellant to file the notice of appeal with the Commissioner, and struck out provision which required the notice of appeal to specify the party or parties taking the appeal, to designate the decision or part thereof appealed from, and to state that the appeal was being taken to the United States Court of Appeals for the Federal Circuit.
 
@@ -70,7 +70,7 @@ Subsec. (b)(3), (4). Pub. L. 93–596 substituted “Patent and Trademark Office
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\]of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1988 Amendment
 

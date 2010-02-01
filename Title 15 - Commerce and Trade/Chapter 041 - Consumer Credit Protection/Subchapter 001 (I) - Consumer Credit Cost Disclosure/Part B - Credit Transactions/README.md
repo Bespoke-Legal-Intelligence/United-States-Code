@@ -1,7 +1,5 @@
 Part B—Credit Transactions
 
-<i><sup>1</sup></i><i> So in original. Probably should be “de minimis”.</i>
-
 
 ---
 
@@ -17,7 +15,7 @@ Part B—Credit Transactions
 - [&sect; 01637a - Disclosure requirements for open end consumer credit plans secured by consumer's principal dwelling](%C2%A7%2001637a%20-%20Disclosure%20requirements%20for%20open%20end%20consumer%20credit%20plans%20secured%20by%20consumer%27s%20principal%20dwelling.md)
 - [&sect; 01638 - Transactions other than under an open end credit plan](%C2%A7%2001638%20-%20Transactions%20other%20than%20under%20an%20open%20end%20credit%20plan.md)
 - [&sect; 01639 - Requirements for certain mortgages](%C2%A7%2001639%20-%20Requirements%20for%20certain%20mortgages.md)
-- [&sect; 01639a - Fiduciary duty of servicers of pooled residential mortgages](%C2%A7%2001639a%20-%20Fiduciary%20duty%20of%20servicers%20of%20pooled%20residential%20mortgages.md)
+- [&sect; 01639a - Duty of servicers of residential mortgages](%C2%A7%2001639a%20-%20Duty%20of%20servicers%20of%20residential%20mortgages.md)
 - [&sect; 01640 - Civil liability](%C2%A7%2001640%20-%20Civil%20liability.md)
 - [&sect; 01641 - Liability of assignees](%C2%A7%2001641%20-%20Liability%20of%20assignees.md)
 - [&sect; 01642 - Issuance of credit cards](%C2%A7%2001642%20-%20Issuance%20of%20credit%20cards.md)
@@ -29,3 +27,4 @@ Part B—Credit Transactions
 - [&sect; 01648 - Reverse mortgages](%C2%A7%2001648%20-%20Reverse%20mortgages.md)
 - [&sect; 01649 - Certain limitations on liability](%C2%A7%2001649%20-%20Certain%20limitations%20on%20liability.md)
 - [&sect; 01650 - Preventing unfair and deceptive private educational lending practices and eliminating conflicts of interest](%C2%A7%2001650%20-%20Preventing%20unfair%20and%20deceptive%20private%20educational%20lending%20practices%20and%20eliminating%20conflicts%20of%20interest.md)
+- [&sect; 01651 - Procedure for timely settlement of estates of decedent obligors](%C2%A7%2001651%20-%20Procedure%20for%20timely%20settlement%20of%20estates%20of%20decedent%20obligors.md)

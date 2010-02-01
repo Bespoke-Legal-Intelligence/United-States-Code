@@ -48,7 +48,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;(5) provide, in a timely manner, that the highest level of assistance will be furnished to those households which have the lowest incomes and the highest energy costs or needs in relation to income, taking into account family size, except that the State may not differentiate in implementing this section between the households described in clause (2)(A) and (2)(B) of this subsection;
 
-&emsp;(6) to the extent it is necessary to designate local administrative agencies in order to carryout the purposes of this subchapter, give special consideration, in the designation of such agencies, to any local public or private nonprofit agency which was receiving Federal funds under any low-income energy assistance program or weatherization program under the Economic Opportunity Act of 1964 \[42 U.S.C. 2701 et seq.\] or any other provision of law on August 12, 1981, except that—
+&emsp;(6) to the extent it is necessary to designate local administrative agencies in order to carry out the purposes of this subchapter, give special consideration, in the designation of such agencies, to any local public or private nonprofit agency which was receiving Federal funds under any low-income energy assistance program or weatherization program under the Economic Opportunity Act of 1964 \[42 U.S.C. 2701 et seq.\] or any other provision of law on August 12, 1981, except that—
 
 &emsp;&emsp;(A) the State shall, before giving such special consideration, determine that the agency involved meets program and fiscal requirements established by the State; and
 
@@ -88,7 +88,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 > The Secretary may not prescribe the manner in which the States will comply with the provisions of this subsection. The Secretary shall issue regulations to prevent waste, fraud, and abuse in the programs assisted by this subchapter.
 
-Not later than 18 months after May 18, 1994, the Secretary shall develop model performance goals and measurements in consultation with State, territorial, tribal, and local grantees, that the States may use to assess the success ofthe States in achieving the purposes of this subchapter. The model performance goals and measurements shall be made available to States to be incorporated, at the option of the States, into the plans for fiscal year 1997. The Secretary may request data relevant to the development of model performance goals and measurements.
+Not later than 18 months after May 18, 1994, the Secretary shall develop model performance goals and measurements in consultation with State, territorial, tribal, and local grantees, that the States may use to assess the success of the States in achieving the purposes of this subchapter. The model performance goals and measurements shall be made available to States to be incorporated, at the option of the States, into the plans for fiscal year 1997. The Secretary may request data relevant to the development of model performance goals and measurements.
 
 #### (c) State plan; revision; public inspection
 
@@ -142,7 +142,7 @@ Each State shall, in carrying out the requirements of subsection (b)(10) of this
 
 #### (g) Repayment of funds expended improperly; offset
 
-The State shall repay to the United States amounts found not to have been expended in accordance with this subchapter or the Secretary may offset such amounts against any otheramount to which the State is or may become entitled under this subchapter.
+The State shall repay to the United States amounts found not to have been expended in accordance with this subchapter or the Secretary may offset such amounts against any other amount to which the State is or may become entitled under this subchapter.
 
 #### (h) Periodic evaluation of expenditures by Comptroller General
 
@@ -172,7 +172,7 @@ In verifying income eligibility for purposes of subsection (b)(2)(B) of this sec
 
 > may be used by the State for low-cost residential weatherization or other energy-related home repair for low-income households, particularly those low-income households with the lowest incomes that pay a high proportion of household income for home energy.
 
-(2)(A) If a State receives a waiver granted under subparagraph (B) for a fiscal year, the State may use not more than the greater of 25 percent of—
+(2)(A) If a State receives a waiver granted under subparagraph (B) for a fiscal year, theState may use not more than the greater of 25 percent of—
 
 &emsp;(i) the funds allotted to a State under this subchapter for such fiscal year; or
 
@@ -198,7 +198,7 @@ In verifying income eligibility for purposes of subsection (b)(2)(B) of this sec
 
 (3) Any certification for such tax credits shall be made by the State, but such State may use Federal data available to such State with respect to recipients of supplemental security income benefits if timely delivery of benefits to households described in subsection (b) of this section and suppliers will not be impeded by the use of such data.
 
-(Pub. L. 97–35, title XXVI, §2605, Aug. 13, 1981, 95 Stat. 896; Pub. L. 98–558, title VI, §605, Oct. 30, 1984, 98 Stat. 2891; Pub. L. 99–425, title V, §504, Sept. 30, 1986, 100 Stat. 974; Pub. L. 101–501, title VII, §§704, 705, Nov. 3, 1990, 104 Stat. 1259; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–252, title III, §§305–309, 311(a)(1), (b), (c)(4), (5), May 18, 1994, 108 Stat. 659–662; Pub. L. 104–66, title I, §1072(c), Dec. 21, 1995, 109 Stat. 721; Pub.L. 104–193, title I, §110(p), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title III, §306, Oct. 27, 1998, 112 Stat. 2758; Pub. L. 110–234, title IV, §4002(b)(1)(B), (E), (2)(EE), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (E), (2)(EE), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
+(Pub. L. 97–35, title XXVI, §2605, Aug. 13, 1981, 95 Stat. 896; Pub. L. 98–558, title VI, §605, Oct. 30, 1984, 98 Stat. 2891; Pub. L. 99–425, title V, §504, Sept. 30, 1986, 100 Stat. 974; Pub. L. 101–501, title VII, §§704, 705, Nov. 3, 1990, 104 Stat. 1259; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–252, title III, §§305–309, 311(a)(1), (b), (c)(4), (5), May 18, 1994, 108 Stat. 659–662; Pub. L. 104–66, title I, §1072(c), Dec. 21, 1995, 109 Stat. 721; Pub. L. 104–193, title I, §110(p), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title III, §306, Oct. 27, 1998, 112 Stat. 2758; Pub. L. 110–234, title IV, §4002(b)(1)(B), (E), (2)(EE), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (E), (2)(EE), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
 #### References in Text
 
@@ -258,7 +258,7 @@ Subsec. (b)(3). Pub. L. 103–252, §§306(b), 311(c)(3), substituted “disable
 
 Subsec. (b)(5). Pub. L. 103–252, §306(c), inserted “or needs” after “highest energy costs”.
 
-Subsec. (b)(7)(D). Pub. L. 103–252, §311(a)(1), amended subpar. (D) generally. Prior to amendment, subpar. (D)read as follows: “assure that any home energy supplier receiving direct payments agrees not to discriminate, either in the cost of the goods supplied or the services provided, against the eligible household on whose behalf payments are made;”.
+Subsec. (b)(7)(D). Pub. L. 103–252, §311(a)(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “assure that any home energy supplier receiving direct payments agrees not to discriminate, either in the cost of the goods supplied or the services provided, against the eligible household on whose behalf payments are made;”.
 
 Subsec. (b)(9)(B). Pub. L. 103–252, §305(b)(1), inserted before semicolon at end “(except for the costs of the activities described in paragraph (16))”.
 
@@ -384,7 +384,7 @@ Applicability.—This section applies to programs under the United States Housin
 
 “(d)
 
-Special Rule for Low-Income Home Energy Assistance Program.—For purposes of the Low-Income Home Energy Assistance Program, tenants described in subsection (a)(2) who are responsible for paying some or all heating or cooling costs shall not have their eligibility automatically denied. A State may consider the amount of the heating or cooling component of utility allowances received by tenants described in subsection (a)(2) when setting benefit levels under the Low-Income Home Energy Assistance Program. The size of any reduction in Low-Income Home Energy Assistance Program benefits must be reasonably related to the amount of the heating or cooling component of the utility allowance received and must ensure that the highest level of assistance will be furnished to those households with the lowest incomes and the highest energy costs in relation to income, taking into account family size, in compliance with section 2605(b)(5) of the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8624(b)(5)).”
+Special Rule for Low-Income Home Energy Assistance Program.—For purposes of the Low-Income Home Energy Assistance Program, tenants described in subsection (a)(2) who are responsible for paying some or all heating or cooling costs shall not have their eligibility automatically denied. A State may consider the amount of the heating or cooling component of utilityallowances received by tenants described in subsection (a)(2) when setting benefit levels under the Low-Income Home Energy Assistance Program. The size of any reduction in Low-Income Home Energy Assistance Program benefits must be reasonably related to the amount of the heating or cooling component of the utility allowance received and must ensure that the highest level of assistance will be furnished to those households with the lowest incomes and the highest energy costs in relation to income, taking into account family size, in compliance with section 2605(b)(5) of the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8624(b)(5)).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

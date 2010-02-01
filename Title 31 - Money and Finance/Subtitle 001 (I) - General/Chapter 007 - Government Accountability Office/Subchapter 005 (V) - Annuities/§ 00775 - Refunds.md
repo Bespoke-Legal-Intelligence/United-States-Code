@@ -2,7 +2,7 @@
 
 (a) A Comptroller General separated from office before becoming entitled to receive an annuity under section 772 of this title is entitled to a lump-sum refund of the amount deducted from pay or deposited as a contribution under section 772, plus 3 percent interest on the amount compounded every December 31.
 
-(b) A Comptroller General making an election under section 773 of this title who is separatedfrom office before becoming entitled to an annuity under section 772 of this title is entitled to a lump-sum refund of the amount deducted under section 773 of this title, plus 4 percent interest before January 1, 1948, and 3 percent interest after December 31, 1947, compounded every December 31 until the separation date.
+(b) A Comptroller General making an election under section 773 of this title who is separated from office before becoming entitled to an annuity under section 772 of this title is entitled to a lump-sum refund of the amount deducted under section 773 of this title, plus 4 percent interest before January 1, 1948, and 3 percent interest after December 31, 1947, compounded every December 31 until the separation date.
 
 (c) A lump-sum refund of the amounts deducted under sections 772 and 773 of this title, plus interest of 4 percent before January 1, 1948, and 3 percent after December 31, 1947, compounded every December 31 until the date of death, shall be paid under subsection (d) of this section if—
 
@@ -70,7 +70,7 @@ In subsection (b), the words “who has elected to bring himself within the purv
 
 In subsection (c), before clause (1), the words “A lump-sum refund of the amounts deducted under sections 772 and 773 of this title” are substituted for “total amount deducted from his salary and retirement pay” for clarity. The words “under subsection (d) of this section” are added because of the restatement. The words “to the person or persons surviving at the date title to payment arises” are omitted as surplus.
 
-In subsection (d), the words before clause (1) are included for clarity. In clauses (2)–(4) and (6), the words “of such Comptroller General or retired Comptroller General” are omitted as surplus. In clause (5), the words “duly appointed” are omitted as surplus.
+In subsection (d), the words before clause (1) are included for clarity. In clauses (2)–(4) and (6), the words“of such Comptroller General or retired Comptroller General” are omitted as surplus. In clause (5), the words “duly appointed” are omitted as surplus.
 
 In subsection (e), the words “of a Comptroller General or retired Comptroller General” are omitted as surplus. The words “is not subject to” are substituted for “shall be made . . . without regard to the definitions of these terms in” to eliminate unnecessary words.
 

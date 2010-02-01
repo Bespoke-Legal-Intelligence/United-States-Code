@@ -6,7 +6,7 @@
 
 (c) Members of the planning group with the exception of the reporter shall receive no additional compensation for their services, but shall be reimbursed for travel, subsistence and other necessary expenses incurred by them in carrying out the duties of the advisory group in accordance with the provisions of title 5, United States Code, chapter 57. The reporter shall be compensated in accordance with section 3109 of title 5, United States Code, and notwithstanding other provisions of law he may be employed for any period of time during which his services are needed.
 
-(Added Pub. L. 93–619, title I, §101, Jan. 3, 1975, 88 Stat. 2083; amended Pub. L. 96–43, §9(d), Aug. 2, 1979, 93 Stat. 330; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+(Added Pub. L. 93–619, title I, §101, Jan. 3, 1975, 88 Stat. 2083; amended Pub. L. 96–43, §9(d), Aug.2, 1979, 93 Stat. 330; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### Amendments
 

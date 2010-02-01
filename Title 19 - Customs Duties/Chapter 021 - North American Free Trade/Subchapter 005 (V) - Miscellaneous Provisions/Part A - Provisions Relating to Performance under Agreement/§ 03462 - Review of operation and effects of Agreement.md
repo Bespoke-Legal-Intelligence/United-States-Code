@@ -10,7 +10,7 @@ By not later than July 1, 1997, the President shall provide to the Congress a co
 
 &emsp;(3) The extent to which investment in new or existing production or other operations in the United States has been redirected to Mexico as a result of the Agreement, and the effect on United States employment of such redirection.
 
-&emsp;(4) The extent of any increase in investment, including foreign direct investment and increased investment by United States investors, in new or existing production or other operations in the United States as a result of the Agreement, and the effect on United States employment of such investment.
+&emsp;(4) The extent of any increase in investment, including foreign direct investment and increased investment by United States investors, in new or existing production or otheroperations in the United States as a result of the Agreement, and the effect on United States employment of such investment.
 
 &emsp;(5) The extent to which the Agreement has contributed to—
 

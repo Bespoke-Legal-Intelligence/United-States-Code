@@ -22,7 +22,7 @@ An institution of higher education that makes institutional payments for tuition
 
 Notwithstanding the provisions of subsection (a) of this section, no student shall receive an award—
 
-&emsp;(1) except during periods in which such student is maintaining satisfactory progress in, and devoting essentially full time to, study or research in the field in which such fellowship was awarded; or
+&emsp;(1) except during periods in which such student is maintaining satisfactory progress in,and devoting essentially full time to, study or research in the field in which such fellowship was awarded; or
 
 &emsp;(2) if the student is engaging in gainful employment other than part-time employment involved in teaching, research, or similar activities determined by the institution to be in support of the student's progress towards a degree.
 

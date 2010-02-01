@@ -48,7 +48,7 @@
 
 &emsp;&emsp;There is hereby imposed a tax on any liquid (other than gas oil, fuel oil, or any product taxable under section 4081 (other than such tax at the Leaking Underground Storage Tank Trust Fund financing rate))—
 
-&emsp;&emsp;&emsp;(i) sold by any person to an owner, lessee, or other operator of a motor vehicle ormotorboat for use as a fuel in such motor vehicle or motorboat, or
+&emsp;&emsp;&emsp;(i) sold by any person to an owner, lessee, or other operator of a motor vehicle or motorboat for use as a fuel in such motor vehicle or motorboat, or
 
 &emsp;&emsp;&emsp;(ii) used by any person as a fuel in a motor vehicle or motorboat unless there was a taxable sale of such liquid under clause (i).
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(i) sold by any person to an owner, lessee, or other operator of a motor vehicle or motorboat for use as a fuel in such motor vehicle or motorboat, or
 
-&emsp;&emsp;&emsp;(ii) used by any person as a fuel in a motor vehicle or motorboat unless there was a taxable sale of such gas under clause (i).
+&emsp;&emsp;&emsp;(ii) used by any person as a fuel in a motor vehicle or motorboat unless therewas a taxable sale of such gas under clause (i).
 
 > &emsp;&emsp;The rate of the tax imposed by this paragraph shall be 18.3 cents per energy equivalent of a gallon of gasoline.
 
@@ -290,7 +290,7 @@ Pub. L. 109–59, §11113(a)(1)(B), (D), added cl. (ii) and struck out former cl
 
 Subsec. (a)(2)(B)(iii). Pub. L. 109–59, §11113(a)(1)(B), struck out cl. (iii) which read as follows: “11.9 cents per gallon in the case of liquefied natural gas.”
 
-Subsec. (a)(3)(A). Pub. L. 109–59, §11113(a)(2)(A), substituted “18.3 cents per energy equivalent of a gallon of gasoline” for “48.54 cents per MCF (determined at standard temperature and pressure)” in concluding provisions.
+Subsec. (a)(3)(A). Pub. L. 109–59, §11113(a)(2)(A), substituted “18.3 cents per energy equivalent of a gallon of gasoline” for “48.54 cents per MCF (determined atstandard temperature and pressure)” in concluding provisions.
 
 Subsec. (a)(3)(C). Pub. L. 109–59, §11113(a)(2)(B), substituted “energy equivalent of a gallon of gasoline” for “MCF”.
 
@@ -386,7 +386,7 @@ Subsec. (c)(1). Pub. L. 105–34, §1032(e)(2), substituted “kerosene and any 
 
 Subsec. (c)(2). Pub. L. 105–34, §1435(b), inserted “or by reason of section 4261(h)” before period at end.
 
-Subsec. (c)(3). Pub. L. 105–2 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The taxes imposed by paragraph (1) shall apply during the period beginning on September 1, 1982, and ending on December 31, 1995, and during the period beginning on the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and ending on December 31, 1996. The termination under the preceding sentence shall not apply to so much of the tax imposed by paragraph (1) as does not exceed 4.3 cents per gallon.”
+Subsec. (c)(3). Pub. L. 105–2 amended heading and text of par. (3) generally. Prior to amendment, text read asfollows: “The taxes imposed by paragraph (1) shall apply during the period beginning on September 1, 1982, and ending on December 31, 1995, and during the period beginning on the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and ending on December 31, 1996. The termination under the preceding sentence shall not apply to so much of the tax imposed by paragraph (1) as does not exceed 4.3 cents per gallon.”
 
 Subsec. (c)(3)(B). Pub. L. 105–34, §1031(a)(3), substituted “September 30, 2007” for “September 30, 1997”.
 
@@ -450,7 +450,7 @@ Subsec. (b)(2)(A)(i). Pub. L. 103–66, §13242(d)(5)(C), struck out “Highway 
 
 Subsec. (c)(1). Pub. L. 103–66, §13242(d)(6), substituted “The rate of the tax imposed by this paragraph shall be the rate of tax specified in section 4091(b)(1) which is in effect at the time of such sale or use.” for “The rate of the tax imposed by this paragraph shall be the sum of the Airport and Airway Trust Fund financing rate and the aviation fuel deficit reduction rate in effect under section 4091 at the time of such sale or use.” in concluding provisions.
 
-Pub. L. 103–66, §13241(b)(2)(B)(iii), struck out “of 17.5 cents per gallon” before “upon any liquid” in introductory provisions and inserted “The rate of the tax imposed by this paragraph shall be the sum of the Airport and Airway Trust Fund financing rate and the aviation fuel deficit reduction rate in effect under section 4091at the time of such sale or use.” before last sentence in concluding provisions.
+Pub. L. 103–66, §13241(b)(2)(B)(iii), struck out “of 17.5 cents per gallon” before “upon any liquid” in introductory provisions and inserted “The rate of the tax imposed by this paragraph shall be the sum of the Airport and Airway Trust Fund financing rate and the aviation fuel deficit reduction rate in effect under section 4091 at the time of such sale or use.” before last sentence in concluding provisions.
 
 Subsec. (c)(2). Pub. L. 103–66, §13242(d)(7), substituted “gasoline (as defined in section 4083)” for “any product taxable under section 4081”.
 
@@ -538,7 +538,7 @@ Subsec. (c)(3). Pub. L. 100–647, §2001(d)(2), substituted “the Highway Trus
 
 Subsec. (f)(3). Pub. L. 100–647, §1017(c)(4), amended par. (3) generally, substituting “paragraph (1) shall not apply on and after October 1, 1993” for “on and after October 1, 1993, paragraph (1) shall not apply”.
 
-1987—Subsec. (a)(1). Pub. L. 100–203, §10502(b)(1), in heading substituted “Tax on diesel fuel where no tax imposed on fuel under section 4091” for “Diesel fuel” and in text inserted sentence at end that no tax be imposed by this paragraph on the sale or use of any liquidif there was a taxable sale of such liquid under section 4091.
+1987—Subsec. (a)(1). Pub. L. 100–203, §10502(b)(1), in heading substituted “Tax on diesel fuel where no tax imposed on fuel under section 4091” for “Diesel fuel” and in text inserted sentence at end that no tax be imposed by this paragraph on the sale or use of any liquid if there was a taxable sale of such liquid under section 4091.
 
 Subsec. (a)(3). Pub. L. 100–17, §502(a)(1), substituted “1993” for “1988”.
 
@@ -740,7 +740,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-No exemption.—The amendments made by subsection (b) \[enacting section 6430 of this title and amending this section and section 4082 of this title\] shall apply to fuel entered, removed, or sold after September 30, 2005.”
+No exemption.—The amendments made by subsection (b) \[enacting section 6430 of this title and amending this section and section 4082 of this title\]shall apply to fuel entered, removed, or sold after September 30, 2005.”
 
 #### Effective Date of 2004 Amendment
 
@@ -814,7 +814,7 @@ Amendment by Pub. L. 100–203 applicable to sales after Mar. 31, 1988, see sect
 
 Section 422(a)(3) of Pub. L. 99–514 provided that: “The amendments made by this subsection \[amending this section\] shall take effect on January 1, 1987.”
 
-Section 1702(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and section 6652 of this title\] shall apply to sales after the first calendar quarter beginning more than 60 days after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Section 1702(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and section 6652 of this title\] shall apply to sales after the first calendar quarter beginning more than 60days after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 Amendment by section 1878(c)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -906,7 +906,7 @@ Amendment by Pub. L. 85–859 effective on first day of first calendar quarter w
 
 #### Effective Date of 1956 Amendments
 
-Section 211 of title II of act June 29, 1956, provided that: “This title \[enacting sections 173 and 174 of Title 23, Highways, and sections 4426, 4481 to 4484 of this title, amending this section and sections 4061, 4071, 4072, 4073, 4081, 4084, 6206, 6412, 6416, 6504, 6511, 6612, 6675, 7210, 7603, 7604, and 7605 of this title, and renumbering sections 4227 and 6422 of this title\] shall take effect on the date of its enactment \[June 29, 1956\], except that the amendments made by sections 202, 203, 204, and 205 \[amending this section and sections 4061, 4071, 4072, 4073, and 4081 of this title\] shall take effect on July 1, 1956.”
+Section 211 of title II of act June 29, 1956, provided that: “This title \[enacting sections 173 and 174 of Title 23, Highways, and sections 4426, 4481 to 4484 of this title, amending this section and sections 4061, 4071, 4072, 4073, 4081, 4084, 6206, 6412, 6416, 6504, 6511, 6612, 6675, 7210, 7603, 7604, and 7605 of this title, and renumbering sections 4227 and 6422 of this title\] shall take effect on the dateof its enactment \[June 29, 1956\], except that the amendments made by sections 202, 203, 204, and 205 \[amending this section and sections 4061, 4071, 4072, 4073, and 4081 of this title\] shall take effect on July 1, 1956.”
 
 Section 2(a)(2) of act Apr. 2, 1956, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the day after the date of the enactment of this Act \[Apr. 2, 1956\].”
 

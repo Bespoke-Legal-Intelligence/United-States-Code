@@ -34,7 +34,7 @@ Appeals.—(1) A person adversely affected by an order of the Administrator unde
 
 (2) The Board may modify a suspension or revocation of a certificate to imposition of a civil penalty.
 
-(3) When conducting a hearing under this subsection, the Board is not bound by findings of fact of the Administrator but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law.
+(3) When conducting a hearing under this subsection, the Board is not bound by findings of fact of the Administrator but is bound by allvalidly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law.
 
 (e)
 

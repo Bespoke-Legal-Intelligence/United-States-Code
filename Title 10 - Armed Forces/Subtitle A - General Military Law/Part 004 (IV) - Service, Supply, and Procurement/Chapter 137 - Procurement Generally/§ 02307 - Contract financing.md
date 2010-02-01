@@ -40,7 +40,7 @@ Conditions for Payments for Commercial Items.—(1) Payments under subsection (a
 
 (2) Advance payments made under subsection (a) for commercial items may include payments, in a total amount of not more than 15 percent of the contract price, in advance of any performance of work under the contract.
 
-(3) The conditions of subsections (d) and (e) need not be applied if they would be inconsistent, as determined by the head of the agency,with commercial terms and conditions pursuant to paragraphs (1) and (2).
+(3) The conditions of subsections (d) and (e) need not be applied if they would be inconsistent, as determined by the head of the agency, with commercial terms and conditions pursuant to paragraphs (1) and (2).
 
 (g)
 
@@ -170,7 +170,7 @@ Subsec. (f). Pub. L. 102–190, which directed the substitution of “(1)” for
 
 Pub. L. 102–25, §701(j)(2)(A), redesignated subsec. (f) as (e).
 
-1990—Subsec. (d). Pub. L. 101–510, §1322(a)(4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Payments under subsection (a) in the case of any contract, other than partial, progress, or other payments specifically provided for in such contract at the time such contract was initially entered into, may not exceed $25,000,000 unless the Committees on Armed Services of the Senate and the House of Representatives have been notified in writing of such proposed payments and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees and neither House of Congress has adopted, within such 60-day period, a resolution disapproving such payments. For purposes of this section, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of such 60-day period.”
+1990—Subsec. (d). Pub. L. 101–510, §1322(a)(4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Payments under subsection (a) in the case of any contract, other than partial, progress, or other payments specifically provided for in such contract at the time such contract was initially entered into, may not exceed $25,000,000 unless the Committees on Armed Services of the Senate and the House of Representatives have been notified in writing of such proposed payments and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees and neither House of Congress has adopted, within such 60-day period, a resolution disapproving such payments. For purposes of this section, the continuity of a session of Congress is broken only by an adjournment of theCongress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of such 60-day period.”
 
 Subsec. (e). Pub. L. 101–510, §1322(a)(4)(B), redesignated subsec. (e) as (d).
 
@@ -202,5 +202,5 @@ Pub. L. 99–145, title IX, §916, Nov. 8, 1985, 99 Stat. 688, which required Se
 
 #### Obligations Entered Into Before November 16, 1973
 
-Section 807(e) of Pub. L. 93–155 provided that: “The amendments made by this section \[amending this section, section 1431 of Title 50, War and National Defense, and sections 468 and 2092 of Appendix to Title 50\] shallnot affect the carrying out of any contract, loan, guarantee, commitment, or other obligation entered into prior to the date of enactment of this section \[Nov. 16, 1973\].”
+Section 807(e) of Pub. L. 93–155 provided that: “The amendments made by this section \[amending this section, section 1431 of Title 50, War and National Defense, and sections 468 and 2092 of Appendix to Title 50\] shall not affect the carrying out of any contract, loan, guarantee, commitment, or other obligation entered into prior to the date of enactment of this section \[Nov. 16, 1973\].”
 

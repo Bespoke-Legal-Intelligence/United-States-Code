@@ -16,7 +16,7 @@ No State or local agency may receive reimbursement under this section if reimbur
 
 #### Effective Date
 
-Section applicable to information first provided more than 90 days after Nov. 18, 1988, see section 7602(e) ofPub. L. 100–690, set out as an Effective Date of 1988 Amendment note under section 6103 of this title.
+Section applicable to information first provided more than 90 days after Nov. 18, 1988, see section 7602(e) of Pub. L. 100–690, set out as an Effective Date of 1988 Amendment note under section 6103 of this title.
 
 #### Regulations
 

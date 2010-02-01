@@ -1,8 +1,8 @@
 ### §3432. Indictment and list of jurors and witnesses for prisoner in capital cases
 
-A person charged with treason or other capital offense shall at least three entire days before commencement of trial be furnished with a copy of the indictment and a list of the veniremen, and of the witnesses to be produced on the trial for proving the indictment, stating the place of abode of each venireman and witness, except that such list of the veniremen and witnesses need not be furnished if the court finds by a preponderance of the evidence that providing the list may jeopardize the life or safety of any person.
+A person charged with treason or other capital offense shall at least three entire days before commencement of trial, excluding intermediate weekends and holidays, be furnished with a copy of the indictment and a list of the veniremen, and of the witnesses to be produced on the trial for proving the indictment, stating the place of abode of each venireman and witness, except that such list of the veniremen and witnesses need not be furnished if the court finds by a preponderance of the evidence that providing the list may jeopardize the life or safety of any person.
 
-(June 25, 1948, ch. 645, 62 Stat. 831; Pub. L. 103–322, title VI, §60025, Sept. 13, 1994, 108 Stat. 1982.)
+(June 25, 1948, ch. 645, 62 Stat. 831; Pub. L. 103–322, title VI, §60025, Sept. 13, 1994, 108 Stat. 1982; Pub. L. 111–16, §3(10), May 7, 2009, 123 Stat. 1608.)
 
 #### Historical and Revision Notes
 
@@ -18,5 +18,11 @@ Minor changes in phraseology were made.
 
 #### Amendments
 
+2009—Pub. L. 111–16 inserted “, excluding intermediate weekends and holidays,” after “commencement of trial”.
+
 1994—Pub. L. 103–322 inserted before period at end “, except that such list of the veniremen and witnesses need not be furnished if the court finds by a preponderance of the evidence that providing the list may jeopardize the life or safety of any person”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 111–16, set out as a note under section 109 of Title 11, Bankruptcy.
 

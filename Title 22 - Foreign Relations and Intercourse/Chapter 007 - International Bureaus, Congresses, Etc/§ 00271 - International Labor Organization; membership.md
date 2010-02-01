@@ -46,7 +46,7 @@ Functions of the Committee
 
 1–201. The Committee shall monitor and assess the work of the ILO.
 
-1–202. The Committee shall make recommendations to the President or other officers of the Federal government, including the Secretary of Labor. With due recognition that in the ILO tripartite system, government, employer, and employee representatives retain the right to take positions independent of one another,the Committee shall exert its best efforts to develop a coordinated position as to United States policy on ILO issues.
+1–202. The Committee shall make recommendations to the President or other officers of the Federal government, including the Secretary of Labor. With due recognition that in the ILO tripartite system, government, employer, and employee representatives retain the right to take positions independent of one another, the Committee shall exert its best efforts to develop a coordinated position as to United States policy on ILO issues.
 
 1–203. The Committee shall also perform other functions relevant to relations with the ILO as requested by the President or the Committee Chairman.
 
@@ -98,5 +98,7 @@ Term of the President's Committee on the International Labor Organization extend
 
 Term of the President's Committee on the International Labor Organization extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee on the International Labor Organization extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee on the International Labor Organization extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Committee on the International Labor Organization extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

@@ -24,7 +24,19 @@
 
 (2) A former employee or Member may not change an election under this section on or after the date on which a payment is made in accordance with such election or, in the case of an election to receive an annuity, the date on which an annuity contract is purchased to provide for the annuity elected by the former employee or Member.
 
-(e) If an employee or Member (or former employee or Member) dies without having made an election under this section or after having elected an annuity under this section but before making an election under section 8434 of this title, an amount equal to the value of that individual's account (as of death) shall, subject to any decree, order, or agreement referred to in section 8435(c)(2) of this title be paid in a manner consistent with section 8424(d) of this title.
+(e)(1) If an employee or Member (or former employee or Member) dies without having made an election under this section or after having elected an annuity under this section but before making an election under section 8434 of this title, an amount equal to the value of that individual's account (as of death) shall, subject to any decree, order, or agreement referred to in section 8435(c)(2) of this title be paid in a manner consistent with section 8424(d) of this title.
+
+(2) Notwithstanding section 8424(d), if an employee, Member, former employee, or former Member dies and has designated as sole or partial beneficiary his or her spouse at the time of death, or, if an employee, Member, former employee, or former Member, dies with no designated beneficiary and is survived by a spouse, the spouse may maintain the portion of the employee's or Member's account to which thespouse is entitled in accordance with the following terms:
+
+&emsp;(A) Subject to the limitations of subparagraph (B), the spouse shall have the same withdrawal options under subsection (b) as the employee or Member were the employee or Member living.
+
+&emsp;(B) The spouse may not make withdrawals under subsection (g) or (h).
+
+&emsp;(C) The spouse may not make contributions or transfers to the account.
+
+&emsp;(D) The account shall be disbursed upon the death of the surviving spouse. A beneficiary or surviving spouse of a deceased spouse who has inherited an account is ineligible to maintain the inherited spousal account.
+
+(3) The Executive Director shall prescribe regulations to carry out this subsection.
 
 (f)(1) Notwithstanding subsection (b), if an employee or Member separates from Government employment, and such employee's or Member's nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment, unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this paragraph as if it had never occurred.
 
@@ -56,13 +68,15 @@
 
 (5) A withdrawal may not be made under this subsection unless the requirements of section 8435(e) of this title are satisfied.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 544; amended Pub. L. 100–238, title I, §132, Jan. 8, 1988, 101 Stat. 1760; Pub. L. 101–335, §§5(a), 6(a)(2), July 17, 1990, 104 Stat. 321, 322; Pub. L. 102–484, div. D, title XLIV, §4437(a), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(b), (i)(3)–(7), Mar. 30, 1994, 108 Stat. 119, 121, 122; Pub. L. 103–353, §§4(b), 5(e)(4), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §203(a)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374; Pub. L. 106–65, div. A, title VI, §661(a)(4), Oct. 5, 1999, 113 Stat. 672; Pub. L. 108–469, §3(1), Dec. 21, 2004, 118 Stat. 3893.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 544; amended Pub. L. 100–238, title I, §132, Jan. 8, 1988, 101 Stat. 1760; Pub. L. 101–335, §§5(a), 6(a)(2), July 17, 1990, 104 Stat. 321, 322; Pub. L. 102–484, div. D, title XLIV, §4437(a), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(b), (i)(3)–(7), Mar. 30, 1994, 108 Stat. 119, 121, 122; Pub. L. 103–353, §§4(b), 5(e)(4), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §203(a)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374; Pub. L. 106–65, div. A, title VI, §661(a)(4), Oct. 5, 1999, 113 Stat. 672; Pub. L. 108–469, §3(1), Dec. 21, 2004, 118 Stat. 3893; Pub. L. 111–31, div. B, title I, §109, June 22, 2009, 123 Stat. 1856.)
 
 #### References in Text
 
 Sections 72(p) and 402(c)(8) of the Internal Revenue Code of 1986, referred to in subsecs. (c)(3) and (g)(3), are classified to sections 72(p) and 402(c)(8), respectively, of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2009—Subsec. (e). Pub. L. 111–31 designated existing provisions as par. (1) and added pars. (2) and (3).
 
 2004—Subsec. (d)(1). Pub. L. 108–469 substituted “paragraph (2)” for “paragraph (3)”.
 
@@ -130,7 +144,7 @@ Subsec. (e). Pub. L. 103–226, §9(b)(2), (i)(6), redesignated subsec. (g) as (
 
 Subsec. (f). Pub. L. 103–226, §9(b)(2), redesignated subsec. (h) as (f). Former subsec. (f) redesignated (d).
 
-Subsec. (f)(1). Pub. L. 103–226, §9(b)(5)(A), (B), redesignated par. (2) as (1), substituted “Notwithstanding subsection (b), if an employee or Member separates from Government employment, and such employee's or Member's” for “Notwithstanding subsections (b) and (c), if an employee or Member separates from Government employment under circumstances making such employee or Member eligible to make an election under either of those subsections, and such employee's or Member's”, struck out “or (c), as applicable” before period at end, and struck out former par. (1) which read as follows: “Notwithstanding subsection (d), if an employee or Member separates from Government employment before becoming entitled to a deferred annuity under subchapter II, and such employee's or Member's nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, to have the nonforfeitable account balance transferred to an eligible retirement plan as provided in subsection (e), or unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this paragraph as if it had never occurred.”
+Subsec. (f)(1). Pub. L. 103–226, §9(b)(5)(A), (B), redesignated par. (2) as (1), substituted “Notwithstanding subsection (b), if an employee or Member separates from Government employment, and such employee's or Member's” for “Notwithstanding subsections (b) and (c), if an employee or Member separates from Government employment under circumstances making such employee or Member eligible to make an election under either of those subsections, and such employee's or Member's”, struck out “or (c), as applicable” before period at end, and struck out former par. (1) which read as follows: “Notwithstanding subsection (d), if an employee or Member separates from Government employment before becoming entitled to a deferred annuity under subchapter II, and such employee's or Member's nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, to have the nonforfeitable account balance transferred to an eligible retirement plan as provided in subsection (e), or unless an election under section8432b(h)(2) is made to treat such separation for purposes of this paragraph as if it had never occurred.”
 
 Subsec. (f)(2). Pub. L. 103–226, §9(b)(5)(A), (C), redesignated par. (3) as (2) and substituted “paragraph (1)” for “paragraphs (1) and (2)” before “, benefits under this chapter”. Former par. (2) redesignated (1).
 
@@ -174,7 +188,7 @@ Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and ele
 
 #### Effective Date of 1994 Amendments
 
-Amendment by section 4(b) of Pub. L. 103–353 effective Oct. 13, 1994, and applicable to any employee whose release from military service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of Title 38, Veterans’ Benefits, occurs on or after Aug. 2, 1990, with special rules for applying amendment to employees restored or reemployed before effective date, see section 4(e), (f) of Pub. L.103–353, set out as an Effective Date note under section 8432b of this title.
+Amendment by section 4(b) of Pub. L. 103–353 effective Oct. 13, 1994, and applicable to any employee whose release from military service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of Title 38, Veterans’ Benefits, occurs on or after Aug. 2, 1990, with special rules for applying amendment to employees restored or reemployed before effective date, see section 4(e), (f) of Pub. L. 103–353, set out as an Effective Date note under section 8432b of this title.
 
 Amendment by section 5(e)(4) of Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38.
 

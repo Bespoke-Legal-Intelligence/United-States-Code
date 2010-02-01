@@ -30,7 +30,7 @@ The Commodity Credit Corporation may suspend or debar for 1 or more years any ex
 
 The provisions of section 1001 of title 18 shall apply to any false certifications issued under this chapter.
 
-(Pub. L. 95–501, title IV, §402, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat.3681; amended Pub. L. 104–127, title II, §247, Apr. 4, 1996, 110 Stat. 969; Pub. L. 110–246, title III, §3103(b)(5), June 18, 2008, 122 Stat. 1833.)
+(Pub. L. 95–501, title IV, §402, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3681; amended Pub. L. 104–127, title II, §247, Apr. 4, 1996, 110 Stat. 969; Pub. L. 110–246, title III, §3103(b)(5), June 18, 2008, 122 Stat. 1833.)
 
 #### Amendments
 

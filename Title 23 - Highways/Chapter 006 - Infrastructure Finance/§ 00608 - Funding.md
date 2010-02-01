@@ -28,7 +28,7 @@ In general.—Notwithstanding any other provision of law, approval by the Secret
 
 Availability.—Amounts authorized under this section for a fiscal year shall be available for obligation on October 1 of the fiscal year.
 
-(Added and amended Pub. L. 105–178, title I, §1503(a), (c), June 9, 1998, 112 Stat. 249, §188; Pub. L. 105–206, title IX, §9007(a), July 22, 1998, 112 Stat. 849; Pub. L. 108–88, §5(a)(10), Sept. 30, 2003, 117 Stat. 1115; Pub. L. 108–202, §5(a)(10), Feb. 29, 2004, 118 Stat. 481; Pub. L. 108–224, §4(a)(10), Apr. 30, 2004, 118 Stat. 629; Pub. L. 108–263, §4(a)(10), June 30, 2004, 118 Stat. 700; Pub. L. 108–280, §4(a)(10), July 30, 2004, 118 Stat. 879; Pub. L. 108–310, §5(a)(10), Sept. 30, 2004, 118 Stat. 1149; Pub. L. 109–14, §4(a)(10), May 31, 2005, 119 Stat. 327; Pub. L. 109–20, §4(a)(10), July 1, 2005, 119 Stat. 348; Pub. L. 109–35, §4(a)(10), July 20, 2005, 119 Stat. 381; Pub. L. 109–37, §4(a)(10), July 22, 2005, 119 Stat. 396; Pub. L. 109–40, §4(a)(10), July 28, 2005, 119 Stat. 413; renumbered §608 and amended Pub. L. 109–59, title I, §§1601(g), 1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1242, 1247.)
+(Added and amended Pub. L. 105–178, title I, §1503(a), (c), June 9, 1998, 112 Stat. 249, §188; Pub. L. 105–206, title IX, §9007(a), July 22, 1998, 112 Stat. 849; Pub. L. 108–88, §5(a)(10), Sept. 30, 2003, 117 Stat. 1115; Pub. L. 108–202, §5(a)(10), Feb. 29, 2004, 118 Stat. 481; Pub. L. 108–224, §4(a)(10), Apr. 30, 2004, 118 Stat. 629; Pub. L. 108–263, §4(a)(10), June 30, 2004, 118 Stat. 700; Pub. L. 108–280, §4(a)(10), July 30, 2004, 118 Stat. 879; Pub. L. 108–310, §5(a)(10), Sept. 30, 2004, 118 Stat. 1149;Pub. L. 109–14, §4(a)(10), May 31, 2005, 119 Stat. 327; Pub. L. 109–20, §4(a)(10), July 1, 2005, 119 Stat. 348; Pub. L. 109–35, §4(a)(10), July 20, 2005, 119 Stat. 381; Pub. L. 109–37, §4(a)(10), July 22, 2005, 119 Stat. 396; Pub. L. 109–40, §4(a)(10), July 28, 2005, 119 Stat. 413; renumbered §608 and amended Pub. L. 109–59, title I, §§1601(g), 1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1242, 1247.)
 
 #### Amendments
 
@@ -125,5 +125,5 @@ Subsec. (c). Pub. L. 105–178, §1503(c)(2), as added by Pub. L. 105–206, §9
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated asincluded in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
 

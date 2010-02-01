@@ -28,7 +28,7 @@ The Tax Court and each division thereof shall have power to punish by fine or im
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–177 inserted before period at end of concluding provisions “and may otherwise provide, when requested by the chief judge of the Tax Court, for the security of the Tax Court, including the personal protection of Tax Court judges, court officers, witnesses, and other threatened persons in the interests of justice, where criminal intimidation impedes on the functioning of the judicial process or any other official proceeding. The United States Marshals Service retains final authority regarding security requirements for the Tax Court”.
+2008—Subsec. (c). Pub. L. 110–177 inserted before period at end of concluding provisions “and may otherwise provide, when requested by the chief judge of the Tax Court, for the security of the Tax Court, including the personal protection of Tax Court judges, court officers, witnesses, and other threatened persons in the interests of justice, where criminal intimidation impedes on the functioning of the judicial process or any otherofficial proceeding. The United States Marshals Service retains final authority regarding security requirements for the Tax Court”.
 
 1986—Subsec. (c). Pub. L. 99–514, §1556(b)(1), redesignated subsec. (e) as (c). Former subsec. (c), which provided for the appointment of special trial judges, was struck out.
 
@@ -108,5 +108,5 @@ Section 464(e)(2) of Pub. L. 98–369 provided that: “Any reference in any law
 
 #### Commissioners’ Salaries Pending Changes Under Federal Salary Act
 
-Section 153(b) of Pub. L. 97–164, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding the amendment made by subsection (a) \[amending this section\], until such time as a change in the salary rate of a commissioner of the United States Tax Court occurs in accordance with section 7456(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the salary of such commissioner shall be equal to the salary of a commissioner of the Court of Claims immediately prior to the effective date of this Act \[Oct. 1, 1982\].”
+Section 153(b) of Pub. L. 97–164, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“Notwithstanding the amendment made by subsection (a) \[amending this section\], until such time as a change in the salary rate of a commissioner of the United States Tax Court occurs in accordance with section 7456(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the salary of such commissioner shall be equal to the salary of a commissioner of the Court of Claims immediately prior to the effective date of this Act \[Oct. 1, 1982\].”
 

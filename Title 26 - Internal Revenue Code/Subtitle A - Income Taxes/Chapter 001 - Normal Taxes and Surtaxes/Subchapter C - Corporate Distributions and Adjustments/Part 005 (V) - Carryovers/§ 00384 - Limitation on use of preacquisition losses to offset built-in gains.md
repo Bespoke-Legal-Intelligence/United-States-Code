@@ -96,7 +96,7 @@ For purposes of this section—
 
 #### (6) Treatment of members of same group
 
-&emsp;Except as provided in regulations and except for purposes of subsection (b), all corporations which are members of the same affiliated group immediately before the acquisition date shall be treated as 1 corporation. To the extent provided in regulations, section 1504 shall be applied without regard to subsection (b) thereof for purposes of the preceding sentence.
+&emsp;Except as provided in regulations and except for purposes of subsection (b), all corporationswhich are members of the same affiliated group immediately before the acquisition date shall be treated as 1 corporation. To the extent provided in regulations, section 1504 shall be applied without regard to subsection (b) thereof for purposes of the preceding sentence.
 
 #### (7) Treatment of predecessors and successors
 
@@ -114,7 +114,7 @@ Rules similar to the rules of subsection (a) shall also apply in the case of any
 
 #### (1) Carryover rules
 
-&emsp;If any preacquisition loss may not offset a recognized built-in gain by reason of this section, such gain shall not be taken into account in determining under section 172(b)(2) theamount of such loss which may be carried to other taxable years. A similar rule shall apply in the case of any excess credit or net capital loss limited by reason of subsection (d).
+&emsp;If any preacquisition loss may not offset a recognized built-in gain by reason of this section, such gain shall not be taken into account in determining under section 172(b)(2) the amount of such loss which may be carried to other taxable years. A similar rule shall apply in the case of any excess credit or net capital loss limited by reason of subsection (d).
 
 #### (2) Ordering rule for losses carried from same taxable year
 

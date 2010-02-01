@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(D) The promotion of the inclusion of domestic violence, dating violence, sexual assault, and stalking into health professional training schools, including medical, dental, nursing school, social work, and mental health curriculum.
 
-&emsp;&emsp;(E) The integration of domestic violence, dating violence, sexual assault, and stalking into health care accreditation and professional licensing examinations, such as medical, dental, social work, and nursing boards.
+&emsp;&emsp;(E) The integration of domestic violence, dating violence, sexual assault, and stalkinginto health care accreditation and professional licensing examinations, such as medical, dental, social work, and nursing boards.
 
 #### (c) Allocation of funds
 
@@ -94,5 +94,5 @@ Pub. L. 109–162, title V, §501, Jan. 5, 2006, 119 Stat. 3023, provided that: 
 
 #### Purpose
 
-Pub. L. 109–162, title V, §502, Jan. 5, 2006, 119 Stat. 3024, provided that: “It is the purpose of this title \[enacting this section, sections 294h and 13973 of this title, and provisions set out as a note above\] to improve the health care system's response to domestic violence,dating violence, sexual assault, and stalking through the training and education of health care providers, developing comprehensive public health responses to violence against women and children, increasing the number of women properly screened, identified, and treated for lifetime exposure to violence, and expanding research on effective interventions in the health care setting.”
+Pub. L. 109–162, title V, §502, Jan. 5, 2006, 119 Stat. 3024, provided that: “It is the purpose of this title \[enacting this section, sections 294h and 13973 of this title, and provisions set out as a note above\] to improve the health care system's response to domestic violence, dating violence, sexual assault, and stalking through the training and education of health care providers, developing comprehensive public health responses to violence against women and children, increasing the number of women properly screened, identified, and treated for lifetime exposure to violence, and expanding research on effective interventions in the health care setting.”
 

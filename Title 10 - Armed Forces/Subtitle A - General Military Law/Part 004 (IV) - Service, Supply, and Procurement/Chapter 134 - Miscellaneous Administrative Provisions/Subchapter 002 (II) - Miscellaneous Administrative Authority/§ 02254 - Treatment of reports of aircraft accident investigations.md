@@ -8,7 +8,7 @@ In General.—(1) Whenever the Secretary of a military department conducts an ac
 
 (b)
 
-Public Disclosure of Certain Accident Investigation Information.—(1) The Secretary concerned, upon request, shall publicly disclose unclassified tapes, scientific reports, and other factual information pertinent to an aircraft accident investigation, before the release of the final accident investigation report relating to the accident, if the Secretary concerned determines—
+Public Disclosure of Certain Accident Investigation Information.—(1) The Secretaryconcerned, upon request, shall publicly disclose unclassified tapes, scientific reports, and other factual information pertinent to an aircraft accident investigation, before the release of the final accident investigation report relating to the accident, if the Secretary concerned determines—
 
 &emsp;(A) that such tapes, reports, or other information would be included within and releasable with the final accident investigation report; and
 
@@ -26,7 +26,7 @@ Opinions Regarding Causation of Accident.—Following a military aircraft accide
 
 &emsp;(1) if the evidence surrounding the accident is sufficient for the investigators who conduct the accident investigation to come to an opinion (or opinions) as to the cause or causes of the accident, the final report of the accident investigation shall set forth the opinion (or opinions) of the investigators as to the cause or causes of the accident; and
 
-&emsp;(2) if the evidence surrounding the accident is not sufficient for those investigators to come to an opinion as to the cause or causesof the accident, the final report of the accident investigation shall include a description of those factors, if any, that, in the opinion of the investigators, substantially contributed to or caused the accident.
+&emsp;(2) if the evidence surrounding the accident is not sufficient for those investigators to come to an opinion as to the cause or causes of the accident, the final report of the accident investigation shall include a description of those factors, if any, that, in the opinion of the investigators, substantially contributed to or caused the accident.
 
 (d)
 

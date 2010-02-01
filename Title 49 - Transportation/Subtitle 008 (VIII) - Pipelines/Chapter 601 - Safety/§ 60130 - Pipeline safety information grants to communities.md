@@ -40,7 +40,7 @@ In general.—Not later than 90 days after the last day of each fiscal year for 
 
 Contents.—The report shall include—
 
-&emsp;&emsp;(A) a listing of the identity and location of each recipient of a grant under this section in the preceding fiscal year and the amount received by the recipient;
+&emsp;&emsp;(A) a listing of the identity and location of each recipient of a grant under this sectionin the preceding fiscal year and the amount received by the recipient;
 
 &emsp;&emsp;(B) a description of the purpose for which each grant was made; and
 

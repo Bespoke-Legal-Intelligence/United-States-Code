@@ -72,7 +72,7 @@ For purposes of subsection (a)(4)—
 
 &emsp;&emsp;(C) The 35 percent threshold in subsection (a)(4)(C).
 
-> &emsp;If the appropriate Secretary elects to reduce the threshold under subparagraph (C), such Secretary may (in lieu of applying the preceding sentence) reduce by 10 percentage points the threshold under subparagraph (C) for 3 population census tracts.
+> &emsp;If the appropriate Secretary elects to reduce the threshold under subparagraph (C), suchSecretary may (in lieu of applying the preceding sentence) reduce by 10 percentage points the threshold under subparagraph (C) for 3 population census tracts.
 
 #### (3) Each noncontiguous area must satisfy poverty rate rule
 

@@ -22,7 +22,7 @@ Discretionary Adjustments and Arrangements.—To the extent the Secretary of Tra
 
 &emsp;(5) Provision for temporary or emergency employment of the vessel (instead of lay-up) as may be practicable, with such arrangements for management of the vessel, payment of expenses, and application of the proceeds of the employment, as the Secretary may approve, with any period of operation being included as part of the lay-up period.
 
-&emsp;(6) Payment to the Secretary, on termination of the arrangements with the applicant, of the applicant's net profits (earned while the arrangements were in effect) in excess of 10 percent a year on the capital necessarily employed in the applicant's business, as reimbursement for obligations postponed or canceled and expenses incurred or paid by the Secretary under this section.
+&emsp;(6) Payment to the Secretary, on termination of the arrangements with the applicant, of the applicant's net profits (earnedwhile the arrangements were in effect) in excess of 10 percent a year on the capital necessarily employed in the applicant's business, as reimbursement for obligations postponed or canceled and expenses incurred or paid by the Secretary under this section.
 
 (c)
 

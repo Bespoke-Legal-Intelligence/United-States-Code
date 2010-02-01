@@ -32,7 +32,7 @@ In this section:
 
 #### (2) Indian tribes and tribal organizations
 
-&emsp;The grants or contracts described in this section that are awarded to any Indian tribe or tribal organization shall be subject to the terms and conditions of section 450f of title 25 and shall be conducted in accordance with theprovisions of sections 455, 456, and 457 of title 25, which are relevant to the programs administered under this subsection.
+&emsp;The grants or contracts described in this section that are awarded to any Indian tribe or tribal organization shall be subject to the terms and conditions of section 450f of title 25 and shall be conducted in accordance with the provisions of sections 455, 456, and 457 of title 25, which are relevant to the programs administered under this subsection.
 
 #### (3) Special authority relating to secondary schools operated or supported by the Bureau of Indian Affairs
 
@@ -48,7 +48,7 @@ In this section:
 
 &emsp;&emsp;(A) confer with, and allow for active participation by, representatives of Indian tribes, tribal organizations, and individual tribal members; and
 
-&emsp;&emsp;(B) promulgate the regulations under subchapter III of chapter 5 of title 5, commonly known as the “Negotiated Rulemaking Act of 1990”.
+&emsp;&emsp;(B) promulgate the regulations under subchapter III of chapter 5 of title 5, commonlyknown as the “Negotiated Rulemaking Act of 1990”.
 
 #### (6) Application
 

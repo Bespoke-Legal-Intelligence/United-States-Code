@@ -38,7 +38,7 @@
 
 #### (1) Delay in removal
 
-&emsp;The Attorney General may hold in abeyance the removal of an alien who has been orderedremoved, pursuant to this subchapter, to allow the trial of such alien on any Federal or State criminal charge and the service of any sentence of confinement resulting from such a trial.
+&emsp;The Attorney General may hold in abeyance the removal of an alien who has been ordered removed, pursuant to this subchapter, to allow the trial of such alien on any Federal or State criminal charge and the service of any sentence of confinement resulting from such a trial.
 
 #### (2) Maintenance of custody
 

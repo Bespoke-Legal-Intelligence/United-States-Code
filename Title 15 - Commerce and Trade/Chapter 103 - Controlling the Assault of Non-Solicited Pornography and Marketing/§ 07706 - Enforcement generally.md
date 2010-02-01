@@ -52,7 +52,7 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 #### (1) Civil action
 
-&emsp;In any case in which the attorney general of a State, or an official or agency of a State, has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by any person who violates paragraph (1) or (2) of section 7704(a), who violates section 7704(d), or who engages in a pattern or practice that violates paragraph (3), (4), or (5) of section 7704(a), of this title, the attorney general, official, or agency of the State, as parens patriae, may bring a civil action on behalf of the residents of the State in a district court of the United States of appropriate jurisdiction—
+&emsp;In any case in which the attorney general of a State, or an official or agency of a State, hasreason to believe that an interest of the residents of that State has been or is threatened or adversely affected by any person who violates paragraph (1) or (2) of section 7704(a), who violates section 7704(d), or who engages in a pattern or practice that violates paragraph (3), (4), or (5) of section 7704(a), of this title, the attorney general, official, or agency of the State, as parens patriae, may bring a civil action on behalf of the residents of the State in a district court of the United States of appropriate jurisdiction—
 
 &emsp;&emsp;(A) to enjoin further violation of section 7704 of this title by the defendant; or
 
@@ -70,7 +70,7 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1)(B)(ii), the amount determined under this paragraph is the amount calculated by multiplying thenumber of violations (with each separately addressed unlawful message received by or addressed to such residents treated as a separate violation) by up to $250.
+&emsp;&emsp;For purposes of paragraph (1)(B)(ii), the amount determined under this paragraph is the amount calculated by multiplying the number of violations (with each separately addressed unlawful message received by or addressed to such residents treated as a separate violation) by up to $250.
 
 #### (B) Limitation
 

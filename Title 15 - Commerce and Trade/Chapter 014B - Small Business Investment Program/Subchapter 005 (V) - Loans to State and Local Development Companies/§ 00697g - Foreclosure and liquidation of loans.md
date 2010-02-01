@@ -36,7 +36,7 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 #### (1) In general
 
-&emsp;Each qualified State or local development company to which the Administration delegates authority under section <sup>1</sup> (a) may with respect to any loan described in subsection (a) of this section—
+&emsp;Each qualified State or local development company to which the Administration delegates authority under section <sup>1</sup> (a) may withrespect to any loan described in subsection (a) of this section—
 
 &emsp;&emsp;(A) perform all liquidation and foreclosure functions, including the purchase in accordance with this subsection of any other indebtedness secured by the property securing the loan, in a reasonable and sound manner according to commercially accepted practices, pursuant to a liquidation plan approved in advance by the Administration under paragraph (2)(A);
 
@@ -58,7 +58,7 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Before carrying out functions described in paragraph (1)(A), a qualified State orlocal development company shall submit to the Administration a proposed liquidation plan.
+&emsp;&emsp;&emsp;Before carrying out functions described in paragraph (1)(A), a qualified State or local development company shall submit to the Administration a proposed liquidation plan.
 
 #### (ii) Administration action on plan
 

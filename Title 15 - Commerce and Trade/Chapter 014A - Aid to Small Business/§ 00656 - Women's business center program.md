@@ -236,7 +236,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (B) Use of unawarded funds for sustainability pilot program grants
 
-&emsp;&emsp;If the amount reserved under subparagraph (A) for any fiscal year is not fully awarded to private nonprofit organizations described in subsection (<i>l</i>)(1)(B) of this section, the Administration is authorized to use the unawarded amount to fund additional women's business center sites or to increase funding of existing women's business center sites under subsection (b) of this section.
+&emsp;&emsp;If the amount reserved under subparagraph (A) for any fiscal year is not fully awarded to private nonprofit organizations described in subsection (<i>l</i>)(1)(B) of this section, the Administration is authorized to use the unawarded amount to fund additional women's business center sites or to increase fundingof existing women's business center sites under subsection (b) of this section.
 
 #### (<i>l</i>) Repealed. Pub. L. 110–28, title VIII, §8305(b), May 25, 2007, 121 Stat. 210
 
@@ -286,7 +286,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator may renew a grant under this subsection for additional 3-year periods, if the nonprofit organization submits an application for such renewal at such time, in such manner, and accompanied bysuch information as the Administrator may establish.
+&emsp;&emsp;The Administrator may renew a grant under this subsection for additional 3-year periods, if the nonprofit organization submits an application for such renewal at such time, in such manner, and accompanied by such information as the Administrator may establish.
 
 #### (B) Unlimited renewals
 

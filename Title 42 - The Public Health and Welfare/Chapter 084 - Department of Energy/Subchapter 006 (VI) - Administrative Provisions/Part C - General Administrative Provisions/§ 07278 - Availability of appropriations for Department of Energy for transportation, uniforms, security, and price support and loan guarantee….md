@@ -12,3 +12,5 @@ This title, referred to in text, is title III of Pub. L. 102–377, Oct. 2, 1992
 
 Section was enacted as part of the Energy and Water Development Appropriations Act, 1993, and not as part of the Department of Energy Organization Act which comprises this chapter.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

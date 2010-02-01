@@ -22,7 +22,7 @@ For purposes of this section, a grant is a new grant unless the work provided fo
 
 This section shall not apply with respect to any grant that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an executive agency and to report on such matters to Congress or any agency of the Federal Government.
 
-(June 30, 1949, ch. 288, title III, §316, as added Pub. L. 103–355, title VII, §7203(b)(2), Oct. 13,1994, 108 Stat. 3381; amended Pub. L. 104–106, div. D, title XLIII, §4321(e)(9), Feb. 10, 1996, 110 Stat. 675.)
+(June 30, 1949, ch. 288, title III, §316, as added Pub. L. 103–355, title VII, §7203(b)(2), Oct. 13, 1994, 108 Stat. 3381; amended Pub. L. 104–106, div. D, title XLIII, §4321(e)(9), Feb. 10, 1996, 110 Stat. 675.)
 
 #### Amendments
 

@@ -46,7 +46,7 @@ Section effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out
 
 Pub. L. 105–368, title VI, §602(b), Nov. 11, 1998, 112 Stat. 3346, provided that: “All amounts in the following funds are hereby transferred to the Veterans Housing Benefit Program Fund:
 
-&emsp;“(1) The Direct Loan Revolving Fund, as such fund was continued under section 3723 of title 38, United States Code (as such section was in effect on the day before the effective date of this title \[Nov. 11, 1998\]).
+&emsp;“(1) The Direct Loan Revolving Fund, as such fund was continued under section 3723 of title 38, UnitedStates Code (as such section was in effect on the day before the effective date of this title \[Nov. 11, 1998\]).
 
 &emsp;“(2) The Department of Veterans Affairs Loan Guaranty Revolving Fund, as established by section 3724 of such title (as such section was in effect on the day before the effective date of this title).
 

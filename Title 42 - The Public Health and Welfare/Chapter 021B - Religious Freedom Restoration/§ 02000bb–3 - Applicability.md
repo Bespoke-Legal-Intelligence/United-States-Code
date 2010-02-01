@@ -6,7 +6,7 @@ This chapter applies to all Federal law, and the implementation of that law, whe
 
 #### (b) Rule of construction
 
-Federal statutory law adopted after November 16, 1993, is subject to this chapter unless such law explicitly excludes such application by reference to this chapter.
+Federal statutory law adopted after November 16, 1993, is subject to this chapter unless suchlaw explicitly excludes such application by reference to this chapter.
 
 #### (c) Religious belief unaffected
 

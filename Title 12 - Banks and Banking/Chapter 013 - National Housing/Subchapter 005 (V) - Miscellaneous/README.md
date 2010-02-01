@@ -29,7 +29,7 @@
 - [&sect; 01735f&#8211;7a - State constitution or laws limiting mortgage interest, discount points, and finance or other charges; exemption for obligations made&#8230;](%C2%A7%2001735f%E2%80%937a%20-%20State%20constitution%20or%20laws%20limiting%20mortgage%20interest%2C%20discount%20points%2C%20and%20finance%20or%20other%20charges%3B%20exemption%20for%20obligations%20made%E2%80%A6.md)
 - [&sect; 01735f&#8211;8 - Time of payment of premium charges](%C2%A7%2001735f%E2%80%938%20-%20Time%20of%20payment%20of%20premium%20charges.md)
 - [&sect; 01735f&#8211;9 - Limitation on commitments to insure loans and mortgages](%C2%A7%2001735f%E2%80%939%20-%20Limitation%20on%20commitments%20to%20insure%20loans%20and%20mortgages.md)
-- [&sect; 01735f&#8211;10 - Purchaser-broker arrangement payments for insurance purposes](%C2%A7%2001735f%E2%80%9310%20-%20Purchaser-broker%20arrangement%20payments%20for%20insurance%20purposes.md)
+- [&sect; 01735f&#8211;10 - Change of mortgagee status](%C2%A7%2001735f%E2%80%9310%20-%20Change%20of%20mortgagee%20status.md)
 - [&sect; 01735f&#8211;11 - Review of mortgagee performance and authority to terminate](%C2%A7%2001735f%E2%80%9311%20-%20Review%20of%20mortgagee%20performance%20and%20authority%20to%20terminate.md)
 - [&sect; 01735f&#8211;12 - Assurance of adequate processing of applications for loan and mortgage insurance](%C2%A7%2001735f%E2%80%9312%20-%20Assurance%20of%20adequate%20processing%20of%20applications%20for%20loan%20and%20mortgage%20insurance.md)
 - [&sect; 01735f&#8211;13 - Prohibition of requirement of minimum principal loan amount](%C2%A7%2001735f%E2%80%9313%20-%20Prohibition%20of%20requirement%20of%20minimum%20principal%20loan%20amount.md)

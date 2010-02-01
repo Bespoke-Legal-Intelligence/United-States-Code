@@ -8,7 +8,7 @@
 
 &emsp;(1) review and approve applications to the leave bank under section 6367;
 
-&emsp;(2) monitor each case of a leave recipient; and
+&emsp;(2) monitor each case of a leave recipient;
 
 &emsp;(3) monitor the amount of leave in the leave bank and the number of applications for use of leave from the bank; and
 

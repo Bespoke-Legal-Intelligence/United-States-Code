@@ -230,7 +230,7 @@ Report to respective congressional committees.—With respect to each covered pr
 
 &emsp;“(B)
 
-Waiver in certain cases.—If, with respect to a covered program, the appropriate Secretary determines, on the Secretary's own initiative or upon anapplication by an administering entity and based on such information as the Secretary deems persuasive (which may include the results of the report required under subsection (d)(1) \[set out as a note below\] and information contained in such an application), that—
+Waiver in certain cases.—If, with respect to a covered program, the appropriate Secretary determines, on the Secretary's own initiative or upon an application by an administering entity and based on such information as the Secretary deems persuasive (which may include the results of the report required under subsection (d)(1) \[set out as a note below\] and information contained in such an application), that—
 
 &emsp;&emsp;“(i) the appropriate Secretary or the administering entity has in effect an alternative system of immigration status verification which—
 
@@ -270,7 +270,7 @@ Definitions.—In this paragraph:
 
 &emsp;&emsp;&emsp;“(V) The food stamp program under the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008, 7 U.S.C. 2011 et seq.\].
 
-&emsp;&emsp;&emsp;“(VI) The programs of financial assistance for housing subject to section 214 of the Housing and Community Development Act of 1980 \[42 U.S.C. 1436a\].
+&emsp;&emsp;&emsp;“(VI) The programs of financial assistance for housing subject to section 214 of the Housing andCommunity Development Act of 1980 \[42 U.S.C. 1436a\].
 
 &emsp;&emsp;&emsp;“(VII) The program of grants, loans, and work assistance under title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.; 42 U.S.C. 2751 et seq.\].
 

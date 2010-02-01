@@ -7,6 +7,7 @@
 | [2003\.](%C2%A7%2002003%20-%20Aeronautical%20rating%20as%20pilot%20qualifications.md) | Aeronautical rating as pilot: qualifications. |
 | [2004\.](%C2%A7%2002004%20-%20Detail%20of%20commissioned%20officers%20as%20students%20at%20law%20schools.md) | Detail of commissioned officers as students at law schools. |
 | [2004a.](%C2%A7%2002004a%20-%20Detail%20of%20commissioned%20officers%20as%20students%20at%20medical%20schools.md) | Detail of commissioned officers as students at medical schools. |
+| [2004b.](%C2%A7%2002004b%20-%20Detail%20of%20commissioned%20officers%20as%20students%20at%20schools%20of%20psychology.md) | Detail of commissioned officers as students at schools of psychology. |
 | [2005\.](%C2%A7%2002005%20-%20Advanced%20education%20assistance%20active%20duty%20agreement%3B%20reimbursement%20requirements.md) | Advanced education assistance: active duty agreement; reimbursement requirements. |
 | [2006\.](%C2%A7%2002006%20-%20Department%20of%20Defense%20Education%20Benefits%20Fund.md) | Department of Defense Education Benefits Fund. |
 | [2007\.](%C2%A7%2002007%20-%20Payment%20of%20tuition%20for%20off-duty%20training%20or%20education.md) | Payment of tuition for off-duty training or education. |
@@ -18,10 +19,13 @@
 | [2013\.](%C2%A7%2002013%20-%20Training%20at%20non-Government%20facilities.md) | Training at non-Government facilities. |
 | [2014\.](%C2%A7%2002014%20-%20Administrative%20actions%20adversely%20affecting%20military%20training%20or%20other%20readiness%20activities.md) | Administrative actions adversely affecting military training or other readiness activities. |
 | [2015\.](%C2%A7%2002015%20-%20Payment%20of%20expenses%20to%20obtain%20professional%20credentials.md) | Payment of expenses to obtain professional credentials. |
+| [2016\.](%C2%A7%2002016%20-%20Undergraduate%20nurse%20training%20program%20establishment%20through%20agreement%20with%20academic%20institution.md) | Undergraduate nurse training program: establishment through agreement with academic institution. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. A, title V, §§521(b), 525(b)(2), Oct. 28, 2009, 123 Stat. 2285, 2287, added items 2004b and 2016.
 
 2006—Pub. L. 109–364, div. A, title V, §536(b), Oct. 17, 2006, 120 Stat. 2209, added item 2004a.
 
@@ -52,6 +56,50 @@ Pub. L. 104–106, div. A, title V, §572(b), Feb. 10, 1996, 110 Stat. 355, adde
 1970—Pub. L. 91–278, §2(3), June 12, 1970, 84 Stat. 306, substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps” in item 2002.
 
 1965—Pub. L. 89–160, §1(2), Sept. 1, 1965, 79 Stat. 615, added item 2002.
+
+#### Language Training Centers for Members of the Armed Forces and Civilian Employees of the Department of Defense
+
+Pub. L. 111–84, div. A, title V, §529, Oct. 28, 2009, 123 Stat. 2290, provided that:
+
+“(a)
+
+Program Authorized.—The Secretary of Defense may carry out a program to establish language training centers at accredited universities, senior military colleges, or other similar institutions of higher education for purposes of accelerating the development of foundational expertise in critical and strategic languages and regional area studies (as defined by the Secretary of Defense for purposes of this section) for members of the Armed Forces, including members of the reserve components and candidates of the Reserve Officers’ Training Corps programs, and civilian employees of the Department of Defense.
+
+“(b)
+
+Elements.—Each language training center established under the program authorized by subsection (a) shall include the following:
+
+&emsp;“(1) Programs to provide that members of the Armed Forces or civilian employees of the Department of Defense who graduate from the institution of higher education concerned include members or employees, as the case may be, who are skilled in the languages and area studies covered by the program from beginning through advanced skill levels.
+
+&emsp;“(2) Programs of language proficiency training for such members and civilian employees at the institution of higher education concerned in critical and strategic languages tailored to meet operational readiness requirements.
+
+&emsp;“(3) Alternative language training delivery systems and modalities to meet language and regional area study requirements for such members and employees whether prior to deployment, during deployment, or post-deployment.
+
+&emsp;“(4) Programs on critical and strategic languages under the program that can be incorporated into Reserve Officers’ Training Corps programs to facilitate the development of language skills in such languages among future officers of the Armed Forces.
+
+&emsp;“(5) Training and education programs to expand the pool of qualified instructors and educators on critical and strategic languages and regional area studies under the program for the Armed Forces.
+
+&emsp;“(6) Programs to facilitate and encourage the recruitment of native and heritage speakers of critical and strategic languages under the program into the Armed Forces and the civilian workforce of the Department of Defense and to support the Civilian Linguist Reserve Corps.
+
+“(c)
+
+Partnerships With Other Schools.—Any language training center established under the program authorized by subsection (a) may enter into a partnership with one or more local educational agencies to facilitate the development of skills in critical and strategic languages under the program among students attending the elementary and secondary schools of such agencies who may pursue a military career.
+
+“(d)
+
+Coordination.—The Secretary of Defense shall ensure that the language training centers established under the program authorized by subsection (a) are aligned with those of the National Security Education Program, the Defense Language Institute, and other appropriate Department of Defense programs to facilitate and encourage the recruitment of native and heritage speakers of critical and strategic languages under the program into the Armed Forces and the civilian workforce of the Department of Defense and to support the Civilian Linguist Reserve Corps.
+
+“(e)
+
+Report.—Not later than one year after the date of the establishment of the program authorized by subsection (a), the Secretary of Defense shall submit tothe congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the program. The report shall include the following:
+
+&emsp;“(1) A description of each language training center established under the program.
+
+&emsp;“(2) An assessment of the cost-effectiveness of the program in providing foundational expertise in critical and strategic languages and regional area studies in support of the Defense Language Transformation Roadmap.
+
+&emsp;“(3) An assessment of the progress made by each language training center in providing capabilities in critical and strategic languages under the program to members of the Armed Forces and Department of Defense employees.
+
+&emsp;“(4) A recommendation whether the program should be continued and, if so, recommendations as to any modifications of the program that the Secretary considers appropriate.”
 
 #### Enhancing Education Partnerships To Improve Accessibility and Flexibility for Members of the Armed Forces
 
@@ -87,6 +135,7 @@ Educational Institution Defined.—In this section, the term ‘educational inst
 - [&sect; 02003 - Aeronautical rating as pilot qualifications](%C2%A7%2002003%20-%20Aeronautical%20rating%20as%20pilot%20qualifications.md)
 - [&sect; 02004 - Detail of commissioned officers as students at law schools](%C2%A7%2002004%20-%20Detail%20of%20commissioned%20officers%20as%20students%20at%20law%20schools.md)
 - [&sect; 02004a - Detail of commissioned officers as students at medical schools](%C2%A7%2002004a%20-%20Detail%20of%20commissioned%20officers%20as%20students%20at%20medical%20schools.md)
+- [&sect; 02004b - Detail of commissioned officers as students at schools of psychology](%C2%A7%2002004b%20-%20Detail%20of%20commissioned%20officers%20as%20students%20at%20schools%20of%20psychology.md)
 - [&sect; 02005 - Advanced education assistance active duty agreement; reimbursement requirements](%C2%A7%2002005%20-%20Advanced%20education%20assistance%20active%20duty%20agreement%3B%20reimbursement%20requirements.md)
 - [&sect; 02006 - Department of Defense Education Benefits Fund](%C2%A7%2002006%20-%20Department%20of%20Defense%20Education%20Benefits%20Fund.md)
 - [&sect; 02007 - Payment of tuition for off-duty training or education](%C2%A7%2002007%20-%20Payment%20of%20tuition%20for%20off-duty%20training%20or%20education.md)
@@ -98,3 +147,4 @@ Educational Institution Defined.—In this section, the term ‘educational inst
 - [&sect; 02013 - Training at non-Government facilities](%C2%A7%2002013%20-%20Training%20at%20non-Government%20facilities.md)
 - [&sect; 02014 - Administrative actions adversely affecting military training or other readiness activities](%C2%A7%2002014%20-%20Administrative%20actions%20adversely%20affecting%20military%20training%20or%20other%20readiness%20activities.md)
 - [&sect; 02015 - Payment of expenses to obtain professional credentials](%C2%A7%2002015%20-%20Payment%20of%20expenses%20to%20obtain%20professional%20credentials.md)
+- [&sect; 02016 - Undergraduate nurse training program establishment through agreement with academic institution](%C2%A7%2002016%20-%20Undergraduate%20nurse%20training%20program%20establishment%20through%20agreement%20with%20academic%20institution.md)

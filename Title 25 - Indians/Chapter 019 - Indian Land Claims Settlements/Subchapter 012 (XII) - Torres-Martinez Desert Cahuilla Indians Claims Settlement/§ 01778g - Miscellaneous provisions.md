@@ -6,7 +6,7 @@ Nothing in this subchapter or the Settlement Agreement shall affect the eligibil
 
 #### (b) Eligibility for other services not affected
 
-No payment pursuant to this subchapter shall result in the reduction or denial of any Federal services or programs to the Tribe or to members of the Tribe, to which they are entitled or eligible because of their status as a federally recognized Indian tribe or member of the Tribe.
+No payment pursuant to this subchapter shall result in the reduction or denial of any Federalservices or programs to the Tribe or to members of the Tribe, to which they are entitled or eligible because of their status as a federally recognized Indian tribe or member of the Tribe.
 
 #### (c) Preservation of existing rights
 

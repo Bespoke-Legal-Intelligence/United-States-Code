@@ -4,7 +4,7 @@
 
 (1) In order to provide the Congress with sufficient data to determine which Indians in the State of California should be eligible for health services provided by the Service, the Secretary shall, by no later than the date that is 3 years after November 23, 1988, prepare and submit to the Congress a report which sets forth—
 
-&emsp;(A) a determination by the Secretary of the number of Indians described in subsection (b)(2) of this section, and the number of Indians described in subsection (b)(3) of this section, who are not members of an Indian tribe recognized by the Federal Government,
+&emsp;(A) a determination by the Secretary of the number of Indians described in subsection\(b)(2) of this section, and the number of Indians described in subsection (b)(3) of this section, who are not members of an Indian tribe recognized by the Federal Government,
 
 &emsp;(B) the geographic location of such Indians,
 

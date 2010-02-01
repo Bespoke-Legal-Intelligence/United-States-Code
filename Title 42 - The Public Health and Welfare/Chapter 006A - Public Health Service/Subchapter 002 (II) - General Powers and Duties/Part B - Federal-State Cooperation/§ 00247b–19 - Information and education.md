@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Health and Human Services (referred to in this Act as the “Secretary”) shall establish and implement a program to provide information and education on muscular dystrophy to health professionals and the general public, including information and education onadvances in the diagnosis and treatment of muscular dystrophy and training and continuing education through programs for scientists, physicians, medical students, and other health professionals who provide care for patients with muscular dystrophy.
+The Secretary of Health and Human Services (referred to in this Act as the “Secretary”) shall establish and implement a program to provide information and education on muscular dystrophy to health professionals and the general public, including information and education on advances in the diagnosis and treatment of muscular dystrophy and training and continuing education through programs for scientists, physicians, medical students, and other health professionals who provide care for patients with muscular dystrophy.
 
 #### (b) Stipends
 
@@ -30,7 +30,7 @@ This Act, referred to in subsec. (a), is Pub. L. 107–84, Dec. 18, 2001, 115 St
 
 #### Codification
 
-Section was enacted as part of the Muscular Dystrophy Community Assistance, Research and Education Amendments of 2001, also known as the MD–CARE Act, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Muscular Dystrophy Community Assistance, Research and EducationAmendments of 2001, also known as the MD–CARE Act, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments
 

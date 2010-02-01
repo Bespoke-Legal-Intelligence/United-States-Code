@@ -12,7 +12,7 @@ The Secretaries, through the coordinating group, shall conduct within twelve mon
 
 #### (b) Capital requirements plan
 
-Based on the results of the Capital Requirements Study conducted under subsection (a) ofthis section, and within six months of the completion of the study, the Secretaries shall formulate a plan for acting on the study's findings. The plan shall include: (1) those Federal actions, if any, found to be necessary to meet financial needs unmet through normal credit channels and existing Federal programs; and (2) recommendations, if any, for legislative actions. Upon completion, the plan shall be submitted to Congress.
+Based on the results of the Capital Requirements Study conducted under subsection (a) of this section, and within six months of the completion of the study, the Secretaries shall formulate a plan for acting on the study's findings. The plan shall include: (1) those Federal actions, if any, found to be necessary to meet financial needs unmet through normal credit channels and existing Federal programs; and (2) recommendations, if any, for legislative actions. Upon completion, the plan shall be submitted to Congress.
 
 (Pub. L. 96–362, §8, Sept. 26, 1980, 94 Stat. 1204.)
 

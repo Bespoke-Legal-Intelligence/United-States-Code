@@ -54,7 +54,7 @@ A person shall not, other than as provided by law, knowingly obtain contractor b
 
 (2) Nothing in paragraph (1) may be construed to prohibit a former official of a Federal agency from accepting compensation from any division or affiliate of a contractor that does not produce the same or similar products or services as the entity of the contractor that is responsible for the contract referred to in subparagraph (A), (B), or (C) of such paragraph.
 
-(3) A former official who knowingly accepts compensation in violation of this subsection shall be subject to penalties and administrative actions as set forth in subsection (e) of this section.
+(3) A former official who knowingly accepts compensation in violation of this subsectionshall be subject to penalties and administrative actions as set forth in subsection (e) of this section.
 
 (4) A contractor who provides compensation to a former official knowing that such compensation is accepted by the former official in violation of this subsection shall be subject to penalties and administrative actions as set forth in subsection (e) of this section.
 
@@ -94,7 +94,7 @@ A person shall not, other than as provided by law, knowingly obtain contractor b
 
 &emsp;(B) If a Federal agency rescinds a contract pursuant to subparagraph (A)(ii), the United States is entitled to recover, in addition to any penalty prescribed by law, the amount expended under the contract.
 
-&emsp;(C) For purposes of any suspension or debarment proceedings initiated pursuant to subparagraph (A)(iii), engaging in conduct constituting an offense under subsection (a), (b),\(c), or (d) of this section affects the present responsibility of a Government contractor or subcontractor.
+&emsp;(C) For purposes of any suspension or debarment proceedings initiated pursuant to subparagraph (A)(iii), engaging in conduct constituting an offense under subsection (a), (b), (c), or (d) of this section affects the present responsibility of a Government contractor or subcontractor.
 
 #### (f) Definitions
 
@@ -254,7 +254,7 @@ Subsec. (p)(8). Pub. L. 101–189, §814(b)(3), added par. (8).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, setout as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
+Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
 
 #### Effective Date of 1996 Amendment
 

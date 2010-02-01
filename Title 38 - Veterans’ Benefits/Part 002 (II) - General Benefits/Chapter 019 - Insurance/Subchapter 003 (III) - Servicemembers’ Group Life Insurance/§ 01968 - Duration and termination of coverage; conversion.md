@@ -104,7 +104,7 @@ Subsec. (a)(1) to (3). Pub. L. 104–275, §402(c)(1)(B), (C), substituted a sem
 
 Subsec. (a)(4). Pub. L. 104–275, §402(c)(1)(D)(iv), struck out subpars. (B) and (C) which read as follows:
 
-“(B) unless on the date of such separation or release the member has completed at least twenty years of satisfactory service creditable for retirement purposes under chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act) and would upon application be eligible for assignment to or is assigned to the Retired Reserve, in which event the insurance, unless converted to an individual policy under terms and conditions set forth in section 1977(e) of thistitle, shall, upon timely payment of premiums under terms prescribed by the Secretary directly to the administrative office established under section 1966(b) of this title, continue in force until receipt of the first increment of retirement pay by the member or the member's sixty-first birthday, whichever occurs earlier; or
+“(B) unless on the date of such separation or release the member has completed at least twenty years of satisfactory service creditable for retirement purposes under chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act) and would upon application be eligible for assignment to or is assigned to the Retired Reserve, in which event the insurance, unless converted to an individual policy under terms and conditions set forth in section 1977(e) of this title, shall, upon timely payment of premiums under terms prescribed by the Secretary directly to the administrative office established under section 1966(b) of this title, continue in force until receipt of the first increment of retirement pay by the member or the member's sixty-first birthday, whichever occurs earlier; or
 
 “(C) unless on the date of such separation or release the member is transferred to the Retired Reserve of a uniformed service under the temporary special retirement authority provided in section 1331a of title 10, in which event the insurance, unless converted to an individual policy under terms and conditions set forth in section 1977(e) of this title, shall, upon timely payment of premiums under terms prescribed by the Secretary directly to the administrative office established under section 1966(b) of this title, continue in force until receipt of the first increment of retirement pay by the member or the member's sixty-first birthday, whichever occurs earlier.”
 
@@ -170,7 +170,7 @@ Pub. L. 110–389, title IV, §403(e)(2), Oct. 10, 2008, 122 Stat. 4174, provide
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–14 effective on the first day of the first month that begins more than 120 daysafter June 5, 2001, see section 4(g)(1) of Pub. L. 107–14, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–14 effective on the first day of the first month that begins more than 120 days after June 5, 2001, see section 4(g)(1) of Pub. L. 107–14, set out as a note under section 101 of this title.
 
 #### Effective Date of 1999 Amendment
 

@@ -6,9 +6,13 @@ The Secretary shall cause to be published from time to time reports summarizing 
 
 #### (b) Information regarding certain goods
 
-The Secretary may also cause to be disseminated information regarding food, drugs, devices, or cosmetics in situations involving, in the opinion of the Secretary, imminent danger to health or gross deception of the consumer. Nothing in this section shall be construed to prohibit the Secretary from collecting, reporting, and illustrating the results of the investigations of the Department.
+The Secretary may also cause to be disseminated information regarding food, drugs, devices, tobacco products, or cosmetics in situations involving, in the opinion of the Secretary, imminent danger to health or gross deception of the consumer. Nothing in this section shall be construed to prohibit the Secretary from collecting, reporting, and illustrating the results of the investigations of the Department.
 
-(June 25, 1938, ch. 675, §705, 52 Stat. 1057.)
+(June 25, 1938, ch. 675, §705, 52 Stat. 1057; Pub. L. 111–31, div. A, title I, §103(j), June 22, 2009, 123 Stat. 1837.)
+
+#### Amendments
+
+2009—Subsec. (b). Pub. L. 111–31 inserted “tobacco products,” after “devices,”.
 
 #### Transfer of Functions
 

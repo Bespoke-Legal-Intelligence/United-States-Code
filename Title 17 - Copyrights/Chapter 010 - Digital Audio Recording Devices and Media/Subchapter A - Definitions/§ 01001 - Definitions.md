@@ -44,7 +44,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;&emsp;(A) the owner of the exclusive right under section 106(1) of this title to reproduce a sound recording of a musical work that has been embodied in a digital musical recording or analog musical recording lawfully made under this title that has been distributed;
 
-&emsp;&emsp;(B) the legal or beneficial owner of, or the person that controls, the right to reproduce in a digital musical recording or analog musical recording a musical work that has been embodied in a digital musical recording or analog musical recording lawfully made under this title that has been distributed;
+&emsp;&emsp;(B) the legal or beneficial owner of, or the person that controls, the right to reproducein a digital musical recording or analog musical recording a musical work that has been embodied in a digital musical recording or analog musical recording lawfully made under this title that has been distributed;
 
 &emsp;&emsp;(C) a featured recording artist who performs on a sound recording that has been distributed; or
 

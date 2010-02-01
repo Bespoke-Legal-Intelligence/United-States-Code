@@ -36,7 +36,7 @@ A prior section 1204, act June 30, 1953, ch. 164, §17, as added Dec. 14, 1967, 
 
 #### Amendments
 
-2008—Pub. L. 110–314, §204(c)(2)(H), which directed substitution of “Commission” for “Consumer Product Safety Commission” in this section, was executed by making the substitution in subsec. (a) before “shall transmit”, but not in subsec. (b)(1), to reflect the probable intent of Congress.
+2008—Pub. L. 110–314, §204(c)(2)(H), which directed substitution of “Commission” for “Consumer ProductSafety Commission” in this section, was executed by making the substitution in subsec. (a) before “shall transmit”, but not in subsec. (b)(1), to reflect the probable intent of Congress.
 
 Subsec. (a). Pub. L. 110–314, §204(c)(2)(C), which directed substitution of “Commission” for “Secretary” wherever appearing in the Flammable Fabrics Act, classified to this chapter, was not executed in subsec. (a) of this section, where “Secretary” precedes “of the Senate”, to reflect the probable intent of Congress. Amendment was part of a series of conforming amendments to change references to the “Secretary” of Commerce to “Commission”.
 

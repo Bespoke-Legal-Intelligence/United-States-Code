@@ -100,7 +100,7 @@ Oversight and Cost Accounting.—The Secretary of Defense shall establish a prog
 
 &emsp;(4) Determine the total program cost for each project, including both those costs that are borne by the military departments from their own accounts and those costs that are borne by defense-wide accounts.
 
-&emsp;(5) Provide for oversight of project execution to ensure that a training project under thissection is carried out in accordance with the proposal for that project as approved.
+&emsp;(5) Provide for oversight of project execution to ensure that a training project under this section is carried out in accordance with the proposal for that project as approved.
 
 (Added Pub. L. 104–106, div. A, title V, §572(a)(1), Feb. 10, 1996, 110 Stat. 353; amended Pub. L. 105–85, div. A, title V, §594, Nov. 18, 1997, 111 Stat. 1764; Pub. L. 105–261, div. A, title V, §525(a), Oct. 17, 1998, 112 Stat. 2014.)
 

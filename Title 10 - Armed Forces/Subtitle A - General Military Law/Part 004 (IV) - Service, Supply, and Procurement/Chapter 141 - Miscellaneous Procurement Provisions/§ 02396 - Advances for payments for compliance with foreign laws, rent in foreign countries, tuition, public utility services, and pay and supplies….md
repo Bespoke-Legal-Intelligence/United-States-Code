@@ -24,7 +24,7 @@
 
 &emsp;(C) containing any other provision the President considers necessary to carry out this subsection and to safeguard the interests of the United States.
 
-(Added Pub. L. 97–258, §2(b)(4)(B), Sept. 13, 1982, 96 Stat. 1053, §2395; renumbered §2396 and amended Pub. L. 97–295, §1(28)(B), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 105–85, div. A, title X, §1014(a), (b)(1), Nov. 18, 1997, 111 Stat. 1875; Pub. L.107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 97–258, §2(b)(4)(B), Sept. 13, 1982, 96 Stat. 1053, §2395; renumbered §2396 and amended Pub. L. 97–295, §1(28)(B), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 105–85, div. A, title X, §1014(a), (b)(1), Nov. 18, 1997, 111 Stat. 1875; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes<br>1982
 
@@ -48,7 +48,7 @@ July 13, 1955, ch. 358, §602, 69 Stat. 314.
 
 Oct. 19, 1965, Pub. L. 89–265, 79 Stat. 989.
 
-In subsection (a), the words “On and after July 13, 1955” are omitted as executed. The words “An advance” are substituted for “section 529 of this title shall not apply in the case of payments” because of the restatement.
+In subsection (a), the words “On and after July 13, 1955” are omitted as executed. The words “An advance” are substituted for “section 529 of this title shall notapply in the case of payments” because of the restatement.
 
 In subsection (b), the words “armed force of the United States” are substituted for “Army, Navy, Air Force, Marine Corps, or Coast Guard” because of 10:101(4) and to avoid confusion with the phrase “armed force of a friendly foreign country”.
 

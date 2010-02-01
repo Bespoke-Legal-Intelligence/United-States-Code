@@ -2,7 +2,7 @@
 
 #### (a) Establishment; appointment of Director; statistical and epidemiological activities
 
-There is established in the Department of Health and Human Services the National Center for Health Statistics (hereinafter in this section referred to as the “Center”) which shall be under the direction of a Director who shall be appointed by the Secretary. The Secretary, acting through the Center, shall conduct and support statistical and epidemiological activities for the purpose of improving the effectiveness, efficiency, and quality of health services in the United States.
+There is established in the Department of Health and Human Services the National Centerfor Health Statistics (hereinafter in this section referred to as the “Center”) which shall be under the direction of a Director who shall be appointed by the Secretary. The Secretary, acting through the Center, shall conduct and support statistical and epidemiological activities for the purpose of improving the effectiveness, efficiency, and quality of health services in the United States.
 
 #### (b) Duties
 
@@ -136,7 +136,7 @@ In carrying out the requirements of section 242b(c) of this title and paragraph 
 
 &emsp;(A) The extent to which persons required to comply with part C of title XI of the Social Security Act are cooperating in implementing the standards adopted under such part.
 
-&emsp;(B) The extent to which such entities are meeting the security standards adopted undersuch part and the types of penalties assessed for noncompliance with such standards.
+&emsp;(B) The extent to which such entities are meeting the security standards adopted under such part and the types of penalties assessed for noncompliance with such standards.
 
 &emsp;(C) Whether the Federal and State Governments are receiving information of sufficient quality to meet their responsibilities under such part.
 
@@ -164,7 +164,7 @@ In carrying out this section, the Secretary, acting through the Center, shall co
 
 (4)(A) Subject to subparagraph (B), the Secretary, acting through the Center, shall collect data on Hispanics and major Hispanic subpopulation groups and American Indians, and for developing special area population studies on major Asian American and Pacific Islander populations.
 
-(B) The provisions of subparagraph (A) shall be effective with respect to a fiscal year only to the extent that funds are appropriated pursuant to paragraph (3) of subsection (n) of this section, and only if the amounts appropriated for such fiscal year pursuant to each of paragraphs (1) and (2) of subsection (n) of this section equal or exceed the amounts so appropriated for fiscal year 1997.
+(B) The provisions of subparagraph (A) shall be effective with respect to a fiscal year only to the extent that funds are appropriated pursuant to paragraph (3) of subsection (n) of this section, and only if the amounts appropriated for such fiscal year pursuant to each of paragraphs (1)and (2) of subsection (n) of this section equal or exceed the amounts so appropriated for fiscal year 1997.
 
 #### (n) Authorization of appropriations
 
@@ -194,7 +194,7 @@ Provisions similar to those comprising subsec. (h) of this section were containe
 
 Subsec. (n)(1). Pub. L. 105–340, §201(1), and Pub. L. 105–392, §201(b)(2), amended par. (1) identically, substituting “2003” for “1998”.
 
-Subsec. (n)(2). Pub. L. 105–392, §201(b)(3)(A), in first sentence, substituted “paragraphs (1) through (3) of subsection (m)” for “subsection (m)” and substituted “such sums as may be necessary for each of the fiscal years 1999 through 2003.” for “$5,000,000 for fiscal year 1991, $7,500,000 for fiscal year 1992, $10,000,000 for fiscalyear 1993, and $10,000,000 for each of the fiscal years 1994 through 2003.”
+Subsec. (n)(2). Pub. L. 105–392, §201(b)(3)(A), in first sentence, substituted “paragraphs (1) through (3) of subsection (m)” for “subsection (m)” and substituted “such sums as may be necessary for each of the fiscal years 1999 through 2003.” for “$5,000,000 for fiscal year 1991, $7,500,000 for fiscal year 1992, $10,000,000 for fiscal year 1993, and $10,000,000 for each of the fiscal years 1994 through 2003.”
 
 Pub. L. 105–340, §201(2), substituted “2003” for “1998”.
 
@@ -230,7 +230,7 @@ Subsecs. (n), (<i>o</i>). Pub. L. 103–183, §501(a)(5)(B), (D), (d), redesigna
 
 1991—Subsec. (k)(4)(C). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1990—Subsec. (h). Pub. L. 101–527, §7(a), designated existing text as par. (1), inserted after second sentence “The Secretary shall encourage States and registration areas to obtain detailed data on ethnic and racial populations, including subpopulations of Hispanics, Asian Americans, and Pacific Islanders with significant representation in the State or registration area.”, and added par. (2).
+1990—Subsec. (h). Pub. L. 101–527, §7(a), designated existing text as par. (1), inserted after second sentence“The Secretary shall encourage States and registration areas to obtain detailed data on ethnic and racial populations, including subpopulations of Hispanics, Asian Americans, and Pacific Islanders with significant representation in the State or registration area.”, and added par. (2).
 
 Subsecs. (m) to (<i>o</i>). Pub. L. 101–527, §7(b)(1), (c), added subsecs. (m) and (n) and redesignated former subsec. (m) as (<i>o</i>) and amended it generally. Prior to amendment, subsec. (<i>o</i>) read as follows: “For health statistical and epidemiological activities undertaken or supported under this section, there are authorized to be appropriated $55,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989 and 1990.”
 

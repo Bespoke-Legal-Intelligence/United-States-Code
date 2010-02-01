@@ -10,7 +10,7 @@ The corporation shall guarantee, in accordance with this section, the payment of
 
 #### (b) Benefits or benefit increases not eligible for guarantee
 
-(1)(A) For purposes of this section, a benefit or benefit increase which has been in effect undera plan for less than 60 months is not eligible for the corporation's guarantee. For purposes of this paragraph, any month of any plan year during which the plan was insolvent or terminated (within the meaning of section 1341a(a)(2) of this title) shall not be taken into account.
+(1)(A) For purposes of this section, a benefit or benefit increase which has been in effect under a plan for less than 60 months is not eligible for the corporation's guarantee. For purposes of this paragraph, any month of any plan year during which the plan was insolvent or terminated (within the meaning of section 1341a(a)(2) of this title) shall not be taken into account.
 
 (B) For purposes of this section, a benefit or benefit increase which has been in effect under a plan for less than 60 months before the first day of the plan year for which an amendment reducing the benefit or the benefit increase is taken into account under section 1425(a)(2) of this title in determining the minimum contribution requirement for the plan year under section 1423(b) of this title is not eligible for the corporation's guarantee.
 
@@ -136,7 +136,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 (C) For purposes of subparagraph (A), the term “legislative day” means any calendar day other than a day on which either House is not in session because of a sine die adjournment or an adjournment of more than 3 days to a day certain.
 
-(D) The procedure for disposition of a joint resolution described in subparagraph (B) shall be the procedure described in paragraphs (4) through (7) of section 1306(b) of this title.
+(D) The procedure for disposition of a joint resolution described in subparagraph (B) shall bethe procedure described in paragraphs (4) through (7) of section 1306(b) of this title.
 
 (5) Regulations prescribed by the corporation to carry out the provisions of this subsection, may, to the extent provided therein, supersede the requirements of sections 1426, 1431, and 1441 of this title, and the requirements of section 418E of title 26, but only with respect to benefits guaranteed under this subsection.
 

@@ -26,7 +26,7 @@
 
 (f) There are authorized for the Air Force 24,000 serviceable aircraft or 225,000 airframe tons of serviceable aircraft, whichever the Secretary of the Air Force considers appropriate to carry out this section. This subsection does not apply to guided missiles.
 
-(g)(1) Effective October 1, 2008, the Secretary of the Air Force shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 299 aircraft.
+(g)(1) Effective October 1, 2009, the Secretary of the Air Force shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 316 aircraft.
 
 (2) In this subsection:
 
@@ -38,7 +38,7 @@
 
 &emsp;(B) The term “outsized cargo” means any single item of equipment that exceeds 1,090 inches in length, 117 inches in width, or 105 inches in height.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 493; Pub. L. 96–513, title V, §504(4), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 99–433, title I, §110(g)(10), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 100–26, §7(g)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XIII, §1314(b)(9), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 109–163, div. A, title X, §1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 109–364, div. A, title I, §132, Oct. 17, 2006, 120 Stat. 2112.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 493; Pub. L. 96–513, title V, §504(4), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 99–433, title I, §110(g)(10), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 100–26, §7(g)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XIII, §1314(b)(9), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 109–163, div. A, title X, §1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 109–364, div. A, title I, §132, Oct. 17, 2006, 120 Stat. 2112; Pub. L. 111–84, div. A, title I, §139, Oct. 28, 2009, 123 Stat. 2223.)
 
 Historical and Revision Notes
 
@@ -96,15 +96,17 @@ Subsection (b) is substituted for 5:626c(a) (1st sentence). 5:626c(a) (last sent
 
 In subsection (d), the words “consists of” are substituted for the word “includes”.
 
-In subsection (d)(1), 10:20r(a) is omitted as superseded by 10:1831. The words “all persons serving in the Air Force under call or \* \* \* under any provision of law, including members of the Air National Guard of the several States, Territories, and the District of Columbia when in the service of the United States pursuant to call as provided by law” are omitted as covered by the words “the Air National Guard while in the service of the United States”. 50:1091 (last sentence) is omitted, since the components listed include their members.
+In subsection (d)(1), 10:20r(a) is omitted as superseded by 10:1831. The words “all persons serving in the Air Force under call or under any provision of law, including members of the Air National Guard of the several States, Territories, and the District of Columbia when in the service of the United States pursuant to call as provided by law” are omitted as covered by the words “the Air National Guard while in the service of the United States”. 50:1091 (last sentence) is omitted, since the components listed include their members.
 
 In subsection (d)(2), the words “or inducted” are omitted as covered by the word “conscripted”.
 
 In subsection (e), the words “Effective on July 10, 1950” are omitted as executed. The words “the limitations imposed by” are omitted as surplusage. The words “not to exceed” are omitted as surplusage, since the revised section states the authorized number and any number over that would not be authorized. The words “and chapter 31 of this title” are substituted for the reference to 10:20s to make it clear that the authority for a 70 group Air Force is subject to all provisions which prescribe the authorized personnel strength of the Air Force.
 
-In subsection (f), the word “considers” is substituted for the words “may determine is more”. The words “aggregate” and “amount” are omitted as surplusage. The words “carry out this section” are substituted for the words “fulfill the requirements of the Air Force of the United States for aircraft necessary to carry out the purposes of this chapter, section 481 of this title, and sections 235, 235a, 628, and 628a of title 5”, since the purposes to which the reference is made are stated in the revised section. The last sentence is substituted for 10:20t (proviso).
+In subsection (f), the word “considers” is substituted for the words “may determine is more”. The words “aggregate” and “amount” are omitted as surplusage. The words “carry out this section” are substituted for thewords “fulfill the requirements of the Air Force of the United States for aircraft necessary to carry out the purposes of this chapter, section 481 of this title, and sections 235, 235a, 628, and 628a of title 5”, since the purposes to which the reference is made are stated in the revised section. The last sentence is substituted for 10:20t (proviso).
 
 #### Amendments
+
+2009—Subsec. (g)(1). Pub. L. 111–84 substituted “2009” for “2008” and “316” for “299”.
 
 2006—Subsec. (a)(1). Pub. L. 109–163 substituted “Commonwealths and possessions” for “Territories, Commonwealths, and possessions”.
 
@@ -140,7 +142,7 @@ Report on Feasibility Study.—At least 90 days before any consolidation of airc
 
 Assessment by Chief of the National Guard Bureau.—Not later than 30 days after the date on which the report required by subsection (c) is submitted, the Chief of the National Guard Bureau shall submit to the Committees on Armed Services of the Senate and House of Representatives a written assessment of—
 
-&emsp;“(1) the proposed actions to consolidate aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the AirNational Guard by the Secretary of the Air Force; and
+&emsp;“(1) the proposed actions to consolidate aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard by the Secretary of the Air Force; and
 
 &emsp;“(2) the information included in the report required by subsection (c).
 

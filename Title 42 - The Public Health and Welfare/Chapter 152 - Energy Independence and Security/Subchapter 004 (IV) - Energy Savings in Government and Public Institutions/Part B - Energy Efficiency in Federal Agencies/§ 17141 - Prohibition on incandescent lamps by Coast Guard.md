@@ -6,7 +6,7 @@ Except as provided by subsection (b), on and after January 1, 2009, a general se
 
 #### (b) Exception
 
-A general service incandescent lamp may be purchased, installed, and used in a Coast Guard facility whenever the application of a general service incandescent lamp is—
+A general service incandescent lamp may be purchased, installed, and used in a Coast Guardfacility whenever the application of a general service incandescent lamp is—
 
 &emsp;(1) necessary due to purpose or design, including medical, security, and industrial applications;
 

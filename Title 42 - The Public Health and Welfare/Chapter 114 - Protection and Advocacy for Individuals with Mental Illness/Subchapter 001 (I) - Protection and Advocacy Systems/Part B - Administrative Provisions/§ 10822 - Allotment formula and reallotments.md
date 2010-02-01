@@ -36,7 +36,7 @@
 
 #### Amendments
 
-2000—Subsec. (a)(1)(B). Pub. L. 106–310, §3206(e)(1), substituted “Marshall Islands, the Federated States of Micronesia, the Republic of Palau” for “Trust Territory of the Pacific Islands”.
+2000—Subsec. (a)(1)(B). Pub. L. 106–310, §3206(e)(1), substituted “Marshall Islands, the Federated States ofMicronesia, the Republic of Palau” for “Trust Territory of the Pacific Islands”.
 
 Subsec. (a)(2). Pub. L. 106–310, §3206(d), amended par. (2) generally. Prior to amendment, par. (2) specified minimum amounts of allotments to eligible systems of each State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the Virgin Islands based on whether the total amount appropriated in a fiscal year was at least $13,000,000 or less than $13,000,000.
 

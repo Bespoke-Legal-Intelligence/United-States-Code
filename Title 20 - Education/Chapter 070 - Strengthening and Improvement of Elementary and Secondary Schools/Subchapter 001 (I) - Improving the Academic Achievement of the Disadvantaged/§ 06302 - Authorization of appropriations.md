@@ -32,7 +32,7 @@ For the purpose of carrying out part A of this subchapter, there are authorized 
 
 #### (4) Improving literacy through school libraries
 
-&emsp;For the purpose of carrying out subpart 4 of part B of this subchapter, there are authorizedto be appropriated $250,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years.
+&emsp;For the purpose of carrying out subpart 4 of part B of this subchapter, there are authorized to be appropriated $250,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years.
 
 #### (c) Education of migratory children
 

@@ -18,7 +18,7 @@
 
 #### (2) Vessels carrying goods or passengers to or from Cuba
 
-&emsp;Except as specifically authorized by the Secretary of the Treasury, a vessel carrying goods or passengers to or from Cuba or carrying goods in which Cuba or a Cuban national has any interest may not enter a United States port.
+&emsp;Except as specifically authorized by the Secretary of the Treasury, a vessel carrying goods or passengers to or from Cuba or carrying goods in which Cuba or a Cuban national hasany interest may not enter a United States port.
 
 #### (3) Inapplicability of ship stores general license
 
@@ -28,7 +28,7 @@
 
 &emsp;As used in this subsection—
 
-&emsp;&emsp;(A) the term “vessel” includes every description of water craft or other contrivance used, or capable of being used, as a means oftransportation in water, but does not include aircraft;
+&emsp;&emsp;(A) the term “vessel” includes every description of water craft or other contrivance used, or capable of being used, as a means of transportation in water, but does not include aircraft;
 
 &emsp;&emsp;(B) the term “United States” includes the territories and possessions of the United States and the customs waters of the United States (as defined in section 1401 of title 19; and
 

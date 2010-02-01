@@ -5,6 +5,7 @@
 | [1781\.](%C2%A7%2001781%20-%20Office%20of%20Family%20Policy.md) | Office of Family Policy. |
 | [1781a.](%C2%A7%2001781a%20-%20Department%20of%20Defense%20Military%20Family%20Readiness%20Council.md) | Department of Defense Military Family Readiness Council. |
 | [1781b.](%C2%A7%2001781b%20-%20Department%20of%20Defense%20policy%20and%20plans%20for%20military%20family%20readiness.md) | Department of Defense policy and plans for military family readiness. |
+| [1781c.](%C2%A7%2001781c%20-%20Office%20of%20Community%20Support%20for%20Military%20Families%20With%20Special%20Needs.md) | Office of Community Support for Military Families With Special Needs. |
 | [1782\.](%C2%A7%2001782%20-%20Surveys%20of%20military%20families.md) | Surveys of military families. |
 | [1783\.](%C2%A7%2001783%20-%20Family%20members%20serving%20on%20advisory%20committees.md) | Family members serving on advisory committees. |
 | [1784\.](%C2%A7%2001784%20-%20Employment%20opportunities%20for%20military%20spouses.md) | Employment opportunities for military spouses. |
@@ -18,6 +19,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. A, title V, §563(a)(2), Oct. 28, 2009, 123 Stat. 2307, added item 1781c.
 
 2008—Pub. L. 110–417, \[div. A\], title V, §582(b), Oct. 14, 2008, 122 Stat. 4474, added item 1784a.
 
@@ -35,6 +38,7 @@ Pub. L. 110–181, div. A, title V, §581(d), Jan. 28, 2008, 122 Stat. 122, adde
 - [&sect; 01781 - Office of Family Policy](%C2%A7%2001781%20-%20Office%20of%20Family%20Policy.md)
 - [&sect; 01781a - Department of Defense Military Family Readiness Council](%C2%A7%2001781a%20-%20Department%20of%20Defense%20Military%20Family%20Readiness%20Council.md)
 - [&sect; 01781b - Department of Defense policy and plans for military family readiness](%C2%A7%2001781b%20-%20Department%20of%20Defense%20policy%20and%20plans%20for%20military%20family%20readiness.md)
+- [&sect; 01781c - Office of Community Support for Military Families With Special Needs](%C2%A7%2001781c%20-%20Office%20of%20Community%20Support%20for%20Military%20Families%20With%20Special%20Needs.md)
 - [&sect; 01782 - Surveys of military families](%C2%A7%2001782%20-%20Surveys%20of%20military%20families.md)
 - [&sect; 01783 - Family members serving on advisory committees](%C2%A7%2001783%20-%20Family%20members%20serving%20on%20advisory%20committees.md)
 - [&sect; 01784 - Employment opportunities for military spouses](%C2%A7%2001784%20-%20Employment%20opportunities%20for%20military%20spouses.md)

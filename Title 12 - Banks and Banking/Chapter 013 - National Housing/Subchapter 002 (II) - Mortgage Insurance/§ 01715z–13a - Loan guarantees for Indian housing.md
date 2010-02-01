@@ -120,7 +120,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (2) Limitations on liquidation
 
-&emsp;In the event of a default by the borrower on a loan guaranteed under this section involving a security interest in restricted Indian land, the mortgagee or the Secretary shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe or tribes. If the mortgagee or the Secretary subsequently proceeds to liquidate the account, the mortgagee or the Secretary shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.
+&emsp;In the event of a default by the borrower on a loan guaranteed under this section involvinga security interest in restricted Indian land, the mortgagee or the Secretary shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe or tribes. If the mortgagee or the Secretary subsequently proceeds to liquidate the account, the mortgagee or the Secretary shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.
 
 #### (i) Indian Housing Loan Guarantee Fund
 
@@ -170,7 +170,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (C) Limitation on outstanding aggregate principal amount
 
-&emsp;&emsp;Subject to the limitations in subparagraphs (A) and (B), the Secretary may enter into commitments to guarantee loans underthis section in each of fiscal years 2008 through 2012 with an aggregate outstanding principal amount not exceeding such amount as may be provided in appropriation Acts for such fiscal year.
+&emsp;&emsp;Subject to the limitations in subparagraphs (A) and (B), the Secretary may enter into commitments to guarantee loans under this section in each of fiscal years 2008 through 2012 with an aggregate outstanding principal amount not exceeding such amount as may be provided in appropriation Acts for such fiscal year.
 
 #### (6) Liabilities
 
@@ -204,7 +204,7 @@ The Secretary shall, by regulation, establish housing safety and quality standar
 
 &emsp;&emsp;(B) includes a kitchen sink and a partitional bathroom with lavatory, toilet, and bath or shower; and
 
-&emsp;&emsp;(C) uses water supply, plumbing, and sewage disposal systems that conform to any applicable tribal code or, if there is no applicable tribal code, the minimum standards established by the applicable county or State;
+&emsp;&emsp;(C) uses water supply, plumbing, and sewage disposal systems that conform to anyapplicable tribal code or, if there is no applicable tribal code, the minimum standards established by the applicable county or State;
 
 &emsp;(5) contain an electrical system using wiring and equipment properly installed to safely supply electrical energy for adequate lighting and for operation of appliances that conforms to any applicable tribal code or, if there is no applicable tribal code, an appropriate county, State, or National code;
 
@@ -264,7 +264,7 @@ For purposes of this section:
 
 &emsp;(8)
 
-Tribe; indian tribe.—The term “tribe” or “Indian tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Nativevillage or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 \[25 U.S.C. 450 et seq.\].
+Tribe; indian tribe.—The term “tribe” or “Indian tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 \[25 U.S.C. 450 et seq.\].
 
 &emsp;(9) The term “trust land” means land title to which is held by the United States for the benefit of an Indian or Indian tribe or title to which is held by an Indian tribe subject to a restriction against alienation imposed by the United States.
 
@@ -278,7 +278,7 @@ The Housing Act of 1949, referred to in subsec. (b)(4)(C), is act July 15, 1949,
 
 The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsecs. (k)(1) and (<i>l</i>)(5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsecs. (k)(1) and (<i>l</i>)(5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (<i>l</i>)(8), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
@@ -320,7 +320,7 @@ Subsec. (h)(1)(A)(i). Pub. L. 104–330, §701(d)(1)(A), struck out “in a cour
 
 Subsec. (h)(1)(A)(ii). Pub. L. 104–330, §701(d)(1)(B), added cl. (ii) and struck out heading and text of former cl. (ii). Text read as follows: “Without seeking a judicial foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a claim for payment under the guarantee and the Secretary shall only pay to such holder for a loss on any single loan an amount equal to 90 percent of the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.”
 
-Subsec. (h)(2), (3). Pub. L. 104–330, §701(d)(2), (3), (e), redesignated par. (3) as (2), in first sentence substituted “restricted Indian land, the mortgagee or” for “tribal allotted or trust land,”, in second sentence substituted“mortgagee or the Secretary” for “Secretary” in two places, and struck out heading and text of former par. (2). Text read as follows: “Notwithstanding paragraph (1), upon receiving notice of default on a loan guaranteed under this section from the holder of the guarantee, the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.”
+Subsec. (h)(2), (3). Pub. L. 104–330, §701(d)(2), (3), (e), redesignated par. (3) as (2), in first sentence substituted “restricted Indian land, the mortgagee or” for “tribal allotted or trust land,”, in second sentence substituted “mortgagee or the Secretary” for “Secretary” in two places, and struck out heading and text of former par. (2). Text read as follows: “Notwithstanding paragraph (1), upon receiving notice of default on a loan guaranteed under this section from the holder of the guarantee, the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.”
 
 Subsec. (i)(5)(A). Pub. L. 104–330, §701(j)(1), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year only to the extent or in such amounts as are or have been provided in appropriations Acts for such fiscal year.”
 
@@ -338,7 +338,7 @@ Subsec. (k)(8). Pub. L. 104–330, §701(h)(3), added par. (8) and struck out fo
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–276, title V, §595(f), Oct. 21, 1998, 112 Stat. 2659, provided that: “The amendments made by this section \[enacting section 4168 of Title 25, Indians, amending this section, sections 4103, 4111 to 4113, 4131, 4135 to 4139 of Title 25, and sections 1437e and 12899h–1 of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 1437 of Title 42\] are made and shall apply beginning upon the date of the enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–276, title V, §595(f), Oct. 21, 1998, 112 Stat. 2659, provided that: “The amendments made by thissection \[enacting section 4168 of Title 25, Indians, amending this section, sections 4103, 4111 to 4113, 4131, 4135 to 4139 of Title 25, and sections 1437e and 12899h–1 of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 1437 of Title 42\] are made and shall apply beginning upon the date of the enactment of this Act \[Oct. 21, 1998\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “3702(d)”.</i>
 

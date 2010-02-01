@@ -38,7 +38,7 @@ In this section:
 
 #### (3) Institution of higher education
 
-&emsp;The term “institution of higher education” has the meaning given such term in section 1001(a) of this title <sup>1</sup>
+&emsp;The term “institution of higher education” has the meaning given such term in section 1001(a) of this title.
 
 #### (4) Native Hawaiian
 
@@ -62,7 +62,7 @@ Grant funds under this section shall be used for one or more of the following:
 
 #### (e) Application
 
-Each eligible partnership that desires a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+Each eligible partnership that desires a grant under this section shall submit an application tothe Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (f) Priority
 
@@ -80,5 +80,13 @@ Each eligible partnership that receives a grant under this section shall conduct
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-(Pub. L. 89–329, title VIII, §819, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3402.)
+(Pub. L. 89–329, title VIII, §819, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3402; amended Pub. L. 111–39, title VIII, §801(4), July 1, 2009, 123 Stat. 1955.)
+
+#### Amendments
+
+2009—Subsec. (b)(3). Pub. L. 111–39 inserted period at end.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

@@ -6,7 +6,7 @@ The Secretary shall establish, pursuant to the Mineral Leasing Act of 1920, as a
 
 #### (b) Study of oil and gas potential and impact of development and production; permits; consultations; State studies
 
-(1)(A) In such areas as the Secretary deems favorable for the discovery of oil or gas, he shall conduct a study, or studies, or collect and analyze information obtained by permittees authorized to conduct studies under this section, of theoil and gas potential of such lands and those environmental characteristics and wildlife resources which would be affected by the exploration for and development of such oil and gas.
+(1)(A) In such areas as the Secretary deems favorable for the discovery of oil or gas, he shall conduct a study, or studies, or collect and analyze information obtained by permittees authorized to conduct studies under this section, of the oil and gas potential of such lands and those environmental characteristics and wildlife resources which would be affected by the exploration for and development of such oil and gas.
 
 (B) The Secretary is authorized to issue permits for study, including geological, geophysical, and other assessment activities, if such activities can be conducted in a manner which is consistent with the purposes for which each affected area is managed under applicable law.
 

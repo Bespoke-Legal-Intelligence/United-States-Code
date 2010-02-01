@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(D) such letter mail or sound- or video-recorded communication is mailed by the member—
 
-&emsp;&emsp;&emsp;(i) at an Armed Forces post office established in an overseas area, as designatedby the President, where the Armed Forces of the United States are engaged in action against an enemy of the United States, engaged in military operations involving armed conflict with a hostile foreign force, or serving with a friendly foreign force in an armed conflict in which the United States is not a belligerent; or
+&emsp;&emsp;&emsp;(i) at an Armed Forces post office established in an overseas area, as designated by the President, where the Armed Forces of the United States are engaged in action against an enemy of the United States, engaged in military operations involving armed conflict with a hostile foreign force, or serving with a friendly foreign force in an armed conflict in which the United States is not a belligerent; or
 
 &emsp;&emsp;&emsp;(ii) while hospitalized in a facility under the jurisdiction of the Armed Forces of the United States as a result of disease or injury incurred as a result of services in an overseas area designated by the President under clause (D)(i) of this paragraph; and
 
@@ -92,7 +92,7 @@ Subsecs. (a)(2)(D), (b)(1)(A). Pub. L. 101–510 substituted  “sound-  or  
 
 1979—Subsec. (b). Pub. L. 96–70 substituted “or the Virgin Islands,” for “the Virgin Islands, or the Canal Zone,”.
 
-1972—Subsec. (b)(1). Pub. L. 92–469, §1, substituted “15” for “5” after “pounds” in cl. (B), redesignated subsec. (b)(2) as (b)(1)(C), and deleted therefrom former cls. reading “(A) in an overseas area designated by the President under subsection (a) of this section, or (B) in an isolated, hardship, or combat support area overseas, or where adequate surface transportation is not available”.
+1972—Subsec. (b)(1). Pub. L. 92–469, §1, substituted “15” for “5” after “pounds” in cl. (B), redesignated subsec. (b)(2) as (b)(1)(C), and deleted therefrom former cls. reading “(A) in an overseas area designated by the President under subsection (a) of this section, or (B) in an isolated, hardship, or combat support area overseas,or where adequate surface transportation is not available”.
 
 Subsec. (b)(2). Pub. L. 92–469, §1, added subsec. (b)(2). Former subsec. (b)(2) redesignated subsec. (b)(1)(C).
 
@@ -132,7 +132,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 Section 1. <i>Delegation of Functions</i>. The function conferred upon the President by section 3401(a) of title 39 of the United States Code, of designating an area for free mailing privileges, is delegated to the Secretary of Defense.
 
-Sec. 2. <i>Interagency Consultation</i>. In performing the function delegated by this Order, the Secretary of Defense shall consult with the Secretary of State and the United States Postal Service, and with the heads of other Executive agencies as appropriate. The Secretaryof Defense shall provide timely notice to the United States Postal Service of any designations or terminations of designations made under this Order.
+Sec. 2. <i>Interagency Consultation</i>. In performing the function delegated by this Order, the Secretary of Defense shall consult with the Secretary of State and the United States Postal Service, and with the heads of other Executive agencies as appropriate. The Secretary of Defense shall provide timely notice to the United States Postal Service of any designations or terminations of designations made under this Order.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

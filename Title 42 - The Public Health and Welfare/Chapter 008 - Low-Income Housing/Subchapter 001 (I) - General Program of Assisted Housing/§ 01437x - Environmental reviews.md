@@ -34,7 +34,7 @@ A certification under the procedures authorized by this section shall—
 
 In cases in which a unit of general local government carries out the responsibilities described in subsection (c) of this section, the Secretary may permit the State to perform those actions of the Secretary described in subsection (b) of this section and the performance of such actions by the State, where permitted by the Secretary, shall be deemed to satisfy the Secretary's responsibilities referred to in the second sentence of subsection (b) of this section.
 
-(Sept. 1, 1937, ch. 896, title I, §26, as added Pub. L. 103–233, title III, §305(b), Apr. 11, 1994, 108 Stat. 371; amended Pub. L. 104–330, title V, §501(b)(11), Oct. 26, 1996, 110 Stat. 4042.)
+(Sept. 1, 1937, ch. 896, title I, §26, as added Pub. L. 103–233, title III, §305(b), Apr. 11, 1994, 108Stat. 371; amended Pub. L. 104–330, title V, §501(b)(11), Oct. 26, 1996, 110 Stat. 4042.)
 
 #### References in Text
 

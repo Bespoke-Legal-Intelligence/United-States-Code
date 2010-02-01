@@ -1,5 +1,5 @@
 
-20 U.S.C.<br>United States Code, 2008 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+20 U.S.C.<br>United States Code, 2009 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 20—EDUCATION
 
@@ -76,7 +76,7 @@
 | [<b>63.</b>](Chapter%20063%20-%20Eisenhower%20Exchange%20Fellowship%20Program/README.md) | <b>Eisenhower Exchange Fellowship Program</b> | <b>5201</b> |
 | [<b>64.</b>](Chapter%20064%20-%20Excellence%20in%20Mathematics%2C%20Science%2C%20and%20Engineering%20Education/README.md) | <b>Excellence in Mathematics, Science, and Engineering Education \[Repealed\]</b> | <b>5301</b> |
 | [<b>65.</b>](Chapter%20065%20-%20National%20Environmental%20Education/README.md) | <b>National Environmental Education</b> | <b>5501</b> |
-| [<b>66.</b>](Chapter%20066%20-%20Morris%20K.%20Udall%20Scholarship%20and%20Excellence%20in%20National%20Environmental%20Policy%20Foundation/README.md) | <b>Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation</b> | <b>5601</b> |
+| [<b>66.</b>](Chapter%20066%20-%20Morris%20K.%20Udall%20and%20Stewart%20L.%20Udall%20Foundation/README.md) | <b>Morris K. Udall and Stewart L. Udall Foundation</b> | <b>5601</b> |
 | [<b>67.</b>](Chapter%20067%20-%20Christopher%20Columbus%20Fellowship%20Foundation/README.md) | <b>Christopher Columbus Fellowship Foundation</b> | <b>5701</b> |
 | [<b>68.</b>](Chapter%20068%20-%20National%20Education%20Reform/README.md) | <b>National Education Reform</b> | <b>5801</b> |
 | [<b>69.</b>](Chapter%20069%20-%20School-to-Work%20Opportunities/README.md) | <b>School-to-Work Opportunities \[Omitted\]</b> | <b>6101</b> |
@@ -168,7 +168,7 @@
 - [Chapter 063 - Eisenhower Exchange Fellowship Program](Chapter%20063%20-%20Eisenhower%20Exchange%20Fellowship%20Program/README.md)
 - [Chapter 064 - Excellence in Mathematics, Science, and Engineering Education](Chapter%20064%20-%20Excellence%20in%20Mathematics%2C%20Science%2C%20and%20Engineering%20Education/README.md)
 - [Chapter 065 - National Environmental Education](Chapter%20065%20-%20National%20Environmental%20Education/README.md)
-- [Chapter 066 - Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation](Chapter%20066%20-%20Morris%20K.%20Udall%20Scholarship%20and%20Excellence%20in%20National%20Environmental%20Policy%20Foundation/README.md)
+- [Chapter 066 - Morris K. Udall and Stewart L. Udall Foundation](Chapter%20066%20-%20Morris%20K.%20Udall%20and%20Stewart%20L.%20Udall%20Foundation/README.md)
 - [Chapter 067 - Christopher Columbus Fellowship Foundation](Chapter%20067%20-%20Christopher%20Columbus%20Fellowship%20Foundation/README.md)
 - [Chapter 068 - National Education Reform](Chapter%20068%20-%20National%20Education%20Reform/README.md)
 - [Chapter 069 - School-to-Work Opportunities](Chapter%20069%20-%20School-to-Work%20Opportunities/README.md)

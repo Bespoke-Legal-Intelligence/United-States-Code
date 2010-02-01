@@ -184,7 +184,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) by reason of the failure of a consumer to provide sufficient information to investigate the disputed information; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the submission by a consumer of a dispute that is substantially the same as a dispute previously submitted by or for the consumer, either directly to the person or through a consumer reporting agency under subsection (b) of this section, with respect to which the person has already performed the person's duties under this paragraph or subsection (b) of this section, as applicable.
+&emsp;&emsp;&emsp;&emsp;(II) the submission by a consumer of a dispute that is substantially the same as a dispute previously submitted by or for the consumer, either directly to the person or through a consumer reporting agency under subsection (b) of this section, with respect to which the personhas already performed the person's duties under this paragraph or subsection (b) of this section, as applicable.
 
 #### (ii) Notice of determination
 
@@ -200,7 +200,7 @@
 
 #### (G) Exclusion of credit repair organizations
 
-&emsp;&emsp;This paragraph shall not apply if the notice of the dispute is submitted by, is prepared on behalf of the consumer by, or is submitted on a form supplied to the consumer by, a credit repair organization, as defined in section 1679a(3) of this title, or anentity that would be a credit repair organization, but for section 1679a(3)(B)(i) of this title.
+&emsp;&emsp;This paragraph shall not apply if the notice of the dispute is submitted by, is prepared on behalf of the consumer by, or is submitted on a form supplied to the consumer by, a credit repair organization, as defined in section 1679a(3) of this title, or an entity that would be a credit repair organization, but for section 1679a(3)(B)(i) of this title.
 
 #### (9) Duty to provide notice of status as medical information furnisher
 
@@ -258,7 +258,7 @@ The provisions of law described in paragraphs (1) through (3) of subsection (c) 
 
 #### (2) Coordination
 
-&emsp;Each agency required to prescribe regulations under paragraph (1) shall consult and coordinate with each other such agency so that, to the extent possible, the regulations prescribed by each such entity are consistent and comparable with the regulations prescribed by each other such agency.
+&emsp;Each agency required to prescribe regulations under paragraph (1) shall consult and coordinate with each other such agency so that, to the extent possible, the regulations prescribed by each such entity are consistentand comparable with the regulations prescribed by each other such agency.
 
 #### (3) Criteria
 

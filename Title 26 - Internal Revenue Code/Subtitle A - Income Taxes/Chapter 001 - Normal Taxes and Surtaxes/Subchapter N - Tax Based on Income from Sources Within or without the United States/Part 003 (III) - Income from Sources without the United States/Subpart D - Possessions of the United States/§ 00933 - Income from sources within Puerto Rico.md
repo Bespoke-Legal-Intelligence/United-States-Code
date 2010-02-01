@@ -4,7 +4,7 @@ The following items shall not be included in gross income and shall be exempt fr
 
 #### (1) Resident of Puerto Rico for entire taxable year
 
-&emsp;In the case of an individual who is a bona fide resident of Puerto Rico during the entire taxable year, income derived from sources within Puerto Rico (except amounts received for services performed as an employee of the United States or any agency thereof); but such individual shall not be allowed as a deduction from his gross income any deductions (other than the deduction under section 151, relating to personal exemptions), or any credit, properly allocable to or chargeable against amounts excluded from gross income under this paragraph.
+&emsp;In the case of an individual who is a bona fide resident of Puerto Rico during the entire taxable year, income derived from sources within Puerto Rico (except amounts received for services performed as an employee of the United States or any agency thereof); but such individual shall not be allowed as a deduction from his gross income any deductions (other than the deduction under section 151, relatingto personal exemptions), or any credit, properly allocable to or chargeable against amounts excluded from gross income under this paragraph.
 
 #### (2) Taxable year of change of residence from Puerto Rico
 

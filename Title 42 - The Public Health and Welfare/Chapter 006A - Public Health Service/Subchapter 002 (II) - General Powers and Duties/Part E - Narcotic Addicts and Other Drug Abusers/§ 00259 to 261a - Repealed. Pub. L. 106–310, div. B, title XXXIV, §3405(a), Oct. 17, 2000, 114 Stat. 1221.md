@@ -1,6 +1,6 @@
 ### §§259 to 261a. Repealed. Pub. L. 106–310, div. B, title XXXIV, §3405(a), Oct. 17, 2000, 114 Stat. 1221
 
-Section 259, acts July 1, 1944, ch. 373, title III, §343, 58 Stat. 699; Pub. L. 91–513, title I, §2(a)(2)(A), (3), (4), Oct. 27, 1970, 84 Stat. 1240; Pub. L. 92–293, §3, May 11, 1972, 86Stat. 136; Pub. L. 98–473, title II, §232(b), Oct. 12, 1984, 98 Stat. 2031, related to convict addicts or other persons with drug abuse or drug dependence problems.
+Section 259, acts July 1, 1944, ch. 373, title III, §343, 58 Stat. 699; Pub. L. 91–513, title I, §2(a)(2)(A), (3), (4), Oct. 27, 1970, 84 Stat. 1240; Pub. L. 92–293, §3, May 11, 1972, 86 Stat. 136; Pub. L. 98–473, title II, §232(b), Oct. 12, 1984, 98 Stat. 2031, related to convict addicts or other persons with drug abuse or drug dependence problems.
 
 Section 260, acts July 1, 1944, ch. 373, title III, §344, 58 Stat. 701; June 25, 1948, ch. 654, §5, 62 Stat. 1018; July 24, 1956, ch. 676, title III, §302(b), 70 Stat. 622; Pub. L. 91–513, title I, §2(a)(2)(A), (3), (4), Oct. 27, 1970, 84 Stat. 1240, related to addicts and persons with drug abuse or drug dependence problems.
 

@@ -2,7 +2,7 @@
 
 #### (a) Backup licensing system
 
-If, by the end of the 1-year period, or the 2-year period in the case of a State whose legislature meets only biennially, beginning on July 30, 2008, or at any time thereafter, the Secretary determines that a State does not have in placeby law or regulation a system for licensing and registering loan originators that meets the requirements of sections 5104 and 5105 of this title and subsection (d) of this section, or does not participate in the Nationwide Mortgage Licensing System and Registry, the Secretary shall provide for the establishment and maintenance of a system for the licensing and registration by the Secretary of loan originators operating in such State as State-licensed loan originators.
+If, by the end of the 1-year period, or the 2-year period in the case of a State whose legislature meets only biennially, beginning on July 30, 2008, or at any time thereafter, the Secretary determines that a State does not have in place by law or regulation a system for licensing and registering loan originators that meets the requirements of sections 5104 and 5105 of this title and subsection (d) of this section, or does not participate in the Nationwide Mortgage Licensing System and Registry, the Secretary shall provide for the establishment and maintenance of a system for the licensing and registration by the Secretary of loan originators operating in such State as State-licensed loan originators.
 
 #### (b) Licensing and registration requirements
 
@@ -30,7 +30,7 @@ For purposes of this section, the law in effect in a State meets the requirement
 
 #### (e) Temporary extension of period
 
-The Secretary may extend, by not more than 24 months, the 1-year or 2-year period, as the case may be, referred to in subsection (a) for the licensing of loan originators in any State under a State licensing law that meets the requirements of sections 5104 and 5105 of this title and subsection (d) if the Secretary determines that such State is making a good faith effort to establish a State licensing law that meets such requirements, license mortgage originators under such law, and register such originators with the Nationwide Mortgage Licensing System and Registry.
+The Secretary may extend, by not more than 24 months, the 1-year or 2-year period, as the case may be, referred to in subsection (a) for thelicensing of loan originators in any State under a State licensing law that meets the requirements of sections 5104 and 5105 of this title and subsection (d) if the Secretary determines that such State is making a good faith effort to establish a State licensing law that meets such requirements, license mortgage originators under such law, and register such originators with the Nationwide Mortgage Licensing System and Registry.
 
 (Pub. L. 110–289, div. A, title V, §1508, July 30, 2008, 122 Stat. 2818.)
 

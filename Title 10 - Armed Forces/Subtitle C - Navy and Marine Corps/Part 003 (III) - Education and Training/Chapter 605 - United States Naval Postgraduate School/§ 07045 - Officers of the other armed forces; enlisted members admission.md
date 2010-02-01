@@ -30,7 +30,7 @@
 
 (d) The Secretary may not award a baccalaureate, masters, or doctorate degree to an enlisted member based upon instruction received at the Postgraduate School under subsection (a)(2)(C).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 437; Pub. L. 96–513, title V, §513(23), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 105–85, div. A, title V, §551(a), (b)(1), Nov. 18, 1997, 111 Stat. 1747; Pub. L. 105–261, div. A, title X, §1069(a)(6), Oct. 17, 1998, 112 Stat. 2136; Pub. L. 107–296, title XVII, §1704(b)(5), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §532, Nov. 24, 2003, 117 Stat. 1472; Pub. L. 109–163, div. A, title V, §526(a), (b), Jan. 6, 2006, 119 Stat. 3245, 3246; Pub. L. 109–364, div. A, title V, §543(a)–(c), Oct. 17, 2006, 120 Stat. 2213.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 437; Pub. L. 96–513, title V, §513(23), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 105–85, div. A, title V, §551(a), (b)(1), Nov. 18, 1997, 111 Stat. 1747; Pub. L. 105–261, div. A, title X, §1069(a)(6), Oct. 17, 1998, 112 Stat. 2136; Pub. L. 107–296, title XVII, §1704(b)(5), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §532, Nov. 24, 2003, 117 Stat. 1472; Pub. L.109–163, div. A, title V, §526(a), (b), Jan. 6, 2006, 119 Stat. 3245, 3246; Pub. L. 109–364, div. A, title V, §543(a)–(c), Oct. 17, 2006, 120 Stat. 2213.)
 
 Historical and Revision Notes
 

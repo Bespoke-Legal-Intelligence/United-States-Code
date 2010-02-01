@@ -2,7 +2,7 @@
 
 (a) In this section, “financial assistance” includes obligation guarantees.
 
-(b) A person in the United States may not be excluded from participating in, be denied the benefits of, or be subject to discrimination under, a project, program, or activity because of race, color, national origin, or sex when any part of the project, program, or activity is financed through financial assistance under section 332 or 333 or chapter 221 or 249 of this title, section 211 or 216 of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 721, 726), or title V of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 821 et seq.).
+(b) A person in the United States may not be excluded from participating in, be denied the benefits of, or be subject to discrimination under, a project, program, or activity because of race, color, national origin, or sex when any part of the project, program, or activity is financed through financial assistance under section 332 or 333 or chapter 221 or 249 of this title, section 211 or 216 of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 721, 726), or titleV of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 821 et seq.).
 
 (c) When the Secretary of Transportation decides that a person receiving financial assistance under a law referred to in subsection (b) of this section has not complied with that subsection, a Federal civil rights law, or an order or regulation issued under a Federal civil rights law, the Secretary shall notify the person of the decision and require the person to take necessary action to ensure compliance with that subsection.
 

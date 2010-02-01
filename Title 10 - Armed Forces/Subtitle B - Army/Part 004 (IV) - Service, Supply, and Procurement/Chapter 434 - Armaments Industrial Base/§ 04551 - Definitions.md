@@ -20,11 +20,11 @@ In this chapter:
 
 #### Arsenal Support Program Initiative
 
-Pub. L. 106–398, §1 \[\[div. A\], title III, §343\], Oct. 30, 2000, 114 Stat. 1654, 1654A–65, as amended by Pub. L.107–314, div. A, title III, §362, Dec. 2, 2002, 116 Stat. 2519; Pub. L. 108–375, div. A, title III, §342, Oct. 28, 2004, 118 Stat. 1857; Pub. L. 110–181, div. A, title III, §341, Jan. 28, 2008, 122 Stat. 69, provided that:
+Pub. L. 106–398, §1 \[\[div. A\], title III, §343\], Oct. 30, 2000, 114 Stat. 1654, 1654A–65, as amended by Pub. L. 107–314, div. A, title III, §362, Dec. 2, 2002, 116 Stat. 2519; Pub. L. 108–375, div. A, title III, §342, Oct. 28, 2004, 118 Stat. 1857; Pub. L. 110–181, div. A, title III, §341, Jan. 28, 2008, 122 Stat. 69; Pub. L. 111–84, div. A, title III, §354, Oct. 28, 2009, 123 Stat. 2264, provided that:
 
 “(a)
 
-Demonstration Program Required.—To help maintain the viability of the Army manufacturing arsenals and the unique capabilities of these arsenals to support the national security interests of the United States, the Secretary of the Army shall carry out a demonstration program under this section during fiscal years 2001 through 2010 at each manufacturing arsenal of the Department of the Army.
+Demonstration Program Required.—To help maintain the viability of the Army manufacturing arsenals and the unique capabilities of these arsenals to support the national security interests of the United States, the Secretary of the Army shall carry out a demonstration program under this section during fiscal years 2001 through 2011 at each manufacturing arsenal of the Department of the Army.
 
 “(b)
 
@@ -90,7 +90,7 @@ Loan Guarantees.—(1) Subject to paragraph (2), the Secretary of the Army may g
 
 &emsp;“(C) provide any other services to the Secretary of the Army to administer this subsection.
 
-“(4) An Administrator referred to in paragraph (3) may guarantee loans under this section to commercial firms of any size, notwithstanding any limitations on the size of applicants imposed on other loan guarantee programs that the Administrator administers. To the extent practicable, each Administrator shall use the same procedures for processing loan guarantee applications under this subsection as the Administrator uses for processing loan guarantee applications under other loan guarantee programs that the Administrator administers.
+“(4) An Administrator referred to in paragraph (3) may guarantee loans under this section to commercial firms of any size, notwithstanding any limitations on the size of applicants imposed on other loan guarantee programs that the Administrator administers. To the extent practicable, each Administrator shall use thesame procedures for processing loan guarantee applications under this subsection as the Administrator uses for processing loan guarantee applications under other loan guarantee programs that the Administrator administers.
 
 “(e)
 
@@ -106,7 +106,7 @@ Transfer of Funds.—The Secretary of the Army may transfer to an Administrator 
 
 “(g)
 
-Reporting Requirements.—(1) Not later than July 1 of each year in which a guarantee issued under subsection (d) is in effect, the Secretary of the Army shall submit to Congress a report specifying the amounts of loans guaranteed under such subsection during the preceding calendar year. No report is required after fiscal year 2010.
+Reporting Requirements.—(1) Not later than July 1 of each year in which a guarantee issued under subsection (d) is in effect, the Secretary of the Army shall submit to Congress a report specifying the amounts of loans guaranteed under such subsection during the preceding calendar year. No report is required after fiscal year 2011.
 
 “(2) Not later than July 1, 2007, the Secretary of the Army shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the demonstration program since its implementation, including the Secretary's views regarding the benefits of the program for Army manufacturing arsenals and the Department of the Army and the success of the program in achieving the purposes specified in subsection (b). The report shall contain a comprehensive review of contracting at the Army manufacturing arsenals covered by the program and such recommendations as the Secretary considers appropriate regarding changes to the program.”
 

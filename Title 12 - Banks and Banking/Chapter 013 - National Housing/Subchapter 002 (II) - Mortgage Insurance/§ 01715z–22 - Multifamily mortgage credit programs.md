@@ -18,7 +18,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 #### (B) Mortgage insurance and reinsurance
 
-&emsp;&emsp;Agreements under subparagraph (A) may provide for (i) mortgage insurance through the Federal Housing Administration of loansfor affordable multifamily housing originated by or through, or purchased by, qualified participating entities, and (ii) reinsurance, including reinsurance of pools of loans, on affordable multifamily housing. In entering into risk-sharing agreements under this subsection covering mortgages, the Secretary may give preference to mortgages that are not already in the portfolios of qualified participating entities.
+&emsp;&emsp;Agreements under subparagraph (A) may provide for (i) mortgage insurance through the Federal Housing Administration of loans for affordable multifamily housing originated by or through, or purchased by, qualified participating entities, and (ii) reinsurance, including reinsurance of pools of loans, on affordable multifamily housing. In entering into risk-sharing agreements under this subsection covering mortgages, the Secretary may give preference to mortgages that are not already in the portfolios of qualified participating entities.
 
 #### (C) Risk apportionment
 
@@ -26,7 +26,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 #### (D) Reimbursement capacity
 
-&emsp;&emsp;Agreements entered into under this subsection between the Secretary and a qualified participating entity shall provide evidence acceptable to the Secretary of the capacity of such entity to fulfill any reimbursement obligations made pursuant to this subsection. Evidence of such capacity which may be considered by the Secretary may include—
+&emsp;&emsp;Agreements entered into under this subsection between the Secretary and a qualified participating entity shall provide evidence acceptable to the Secretary of the capacity of such entity to fulfill any reimbursement obligations made pursuant to this subsection. Evidence of such capacity whichmay be considered by the Secretary may include—
 
 &emsp;&emsp;&emsp;(i) a pledge of the full faith and credit of a qualified participating entity to fulfill any obligations entered into by the entity;
 
@@ -78,7 +78,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 #### (7) Non-Federal participation
 
-&emsp;The Secretary shall carry out this subsection, to the maximum extent practicable, with the participation of well-established residential mortgage originators, financial institutions that invest in multifamily housing mortgages, multifamily housing sponsors, and such other private sector experts in multifamily housing finance as the Secretary determines to be appropriate.
+&emsp;The Secretary shall carry out this subsection, to the maximum extent practicable, with the participation of well-established residential mortgage originators, financial institutions that invest in multifamily housingmortgages, multifamily housing sponsors, and such other private sector experts in multifamily housing finance as the Secretary determines to be appropriate.
 
 #### (8) Prohibition on Ginnie Mae securitization
 
@@ -268,7 +268,7 @@ Subsec. (c)(2). Pub. L. 106–377, §1(a)(1) \[title II, §235(5)\], struck out 
 
 Subsec. (c)(2)(A). Pub. L. 106–377, §1(a)(1) \[title II, §235(5)\], struck out “pilot” before “program”.
 
-Subsec. (c)(4). Pub. L. 106–377, §1(a)(1) \[title II, §235(3)(B)\], added par. (4) and struck out heading and text of former par. (4). Text read as follows: “Using any authority provided by appropriations Acts to insure mortgages under the National Housing Act, the Secretary may enter into commitments under this subsection with respect to mortgages on not more than 12,000 units during fiscal year 1996, not more than an additional 7,500 units during fiscal year 1997 and not more than an additional 25,000 units in each of fiscal years 1999 and 2000. The demonstration authorized under this subsection shall not be expanded until the reports required under subsection (d) of this section are submitted to the Congress.”
+Subsec. (c)(4). Pub. L. 106–377, §1(a)(1) \[title II, §235(3)(B)\], added par. (4) and struck out heading and text of former par. (4). Text read as follows: “Using any authority provided by appropriations Acts to insure mortgages under the National Housing Act, the Secretary may enter into commitments under this subsection with respect to mortgages on not more than 12,000 units during fiscal year 1996, not more than anadditional 7,500 units during fiscal year 1997 and not more than an additional 25,000 units in each of fiscal years 1999 and 2000. The demonstration authorized under this subsection shall not be expanded until the reports required under subsection (d) of this section are submitted to the Congress.”
 
 Subsec (d). Pub. L. 106–377, §1(a)(1) \[title II, §235(4)\], struck out heading and text of subsec. (d) which related to independent studies and reports.
 

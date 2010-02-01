@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) for which the notice and other requirements of this section are complied with.
 
-(d) If, because of performance improvement by the employee during the notice period, the employee is not reduced in grade or removed, and the employee's performance continues to be acceptable for 1 year from the date of the advance written notice provided under subsection (b)(1)(A) of this section, any entry or other notation of the unacceptable performance for which the action was proposed under this section shall be removed from any agency record relating to the employee.
+(d) If, because of performance improvement by the employee during the notice period, the employee is not reduced in grade or removed, and the employee's performance continues to be acceptable for 1 year from the date of the advancewritten notice provided under subsection (b)(1)(A) of this section, any entry or other notation of the unacceptable performance for which the action was proposed under this section shall be removed from any agency record relating to the employee.
 
 (e) Any employee who is—
 

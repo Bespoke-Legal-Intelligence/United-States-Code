@@ -248,7 +248,7 @@ Subsec. (c)(25). Pub. L. 94–455, §1601(e), added par. (25).
 
 Subsec. (c)(6). Pub. L. 91–172, §521(f), substituted “subsections (b), (j) and (k) of section 167” for “paragraphs (2), (3) and (4) of section 167(b)” and inserted reference to adjusted basis in the hand of the distributor or transferor corporation.
 
-Subsec. (c)(10). Pub. L. 91–172, §504(c)(2), substituted “Treatment of certain mining exploration and development expenses of distributor or transferor corporation”for “Treatment of certain expenses deferred by the election of distributor or transferor corporation” in heading, limited deduction of expenses deferred under sections 615 and 616 of this title by the acquiring corporation as if it were the distributor or transferor corporation to pre-1970 exploration and development expenditures, and inserted provision that if distributor or transferor corporation, for any taxable year, was allowed the deduction in sections 615(a) or 617(a) of this title or made the election provided in section 615(b) of this title, acquiring corporation shall be deemed to have been allowed such deduction or deductions or to have made such election, as the case may be, for the purpose of applying the limitation provided in section 617 of this title.
+Subsec. (c)(10). Pub. L. 91–172, §504(c)(2), substituted “Treatment of certain mining exploration and development expenses of distributor or transferor corporation” for “Treatment of certain expenses deferred by the election of distributor or transferor corporation” in heading, limited deduction of expenses deferred under sections 615 and 616 of this title by the acquiring corporation as if it were the distributor or transferor corporation to pre-1970 exploration and development expenditures, and inserted provision that if distributor or transferor corporation, for any taxable year, was allowed the deduction in sections 615(a) or 617(a) of this title or made the election provided in section 615(b) of this title, acquiring corporation shall be deemed to have been allowed such deduction or deductions or to have made such election, as the case may be, for the purpose of applying the limitation provided in section 617 of this title.
 
 1968—Subsec. (c)(22). Pub. L. 90–240 substituted successor insurance companies for successor life insurance companies as the business enterprise covered, substituted reference to insurance companies taxable under subchapter L for reference to life insurance companies as defined in section 801(a), and substituted reference to the purposes of this section and of subchapter L for reference to the purposes of this section and part I of subchapter L.
 
@@ -278,7 +278,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to dispositions in taxable years beginning after Dec. 31, 1987, with special rules for nondealers and coordination with Tax Reform Act of 1986, see section 10202(e)(1), (3), (5) of Pub. L. 100–203, set out as a note under section 453 of this title.
+Amendment by Pub. L. 100–203 applicable to dispositions in taxable years beginning after Dec. 31, 1987,with special rules for nondealers and coordination with Tax Reform Act of 1986, see section 10202(e)(1), (3), (5) of Pub. L. 100–203, set out as a note under section 453 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -322,7 +322,7 @@ Amendment by Pub. L. 96–223 applicable to sales or uses after Sept. 30, 1980, 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable with respect to determinations (as defined in section 860(e) of thistitle) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under section 860 of this title.
+Amendment by Pub. L. 95–600 applicable with respect to determinations (as defined in section 860(e) of this title) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under section 860 of this title.
 
 #### Effective Date of 1977 Amendment
 
@@ -404,7 +404,7 @@ Treatment as amount shown on return.—The amount shown on a statement filed und
 
 &emsp;“(3)
 
-Waiver of interest in case of payment on or before december 15, 1955.—If the taxpayer, on or before December 15, 1955, files the statement referred to in subsection (a) and pays in full that portion of the amount shown thereon for which the last date prescribed for payment is before December 15, 1955, then for purposes of computing interest (other than interest on overpayments) such portion shall be treated as having been paid on the last date prescribed for payment. This paragraph shall not apply if the amount shown on the statement as the increase in the amount of the tax required to be paid for the taxable year by reason of the enactment of this Act is greater than the actual increase unless the taxpayer establishes, to the satisfaction of the Secretary of theTreasury or his delegate, that his computation of the greater amount was based upon a reasonable interpretation and application of sections 452 and 462 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[sections 452 and 462 of this title\], as those sections existed before the enactment of this Act.
+Waiver of interest in case of payment on or before december 15, 1955.—If the taxpayer, on or before December 15, 1955, files the statement referred to in subsection (a) and pays in full that portion of the amount shown thereon for which the last date prescribed for payment is before December 15, 1955, then for purposes of computing interest (other than interest on overpayments) such portion shall be treated as having been paid on the last date prescribed for payment. This paragraph shall not apply if the amount shown on the statement as the increase in the amount of the tax required to be paid for the taxable year by reason of the enactment of this Act is greater than the actual increase unless the taxpayer establishes, to the satisfaction of the Secretary of the Treasury or his delegate, that his computation of the greater amount was based upon a reasonable interpretation and application of sections 452 and 462 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[sections 452 and 462 of this title\], as those sections existed before the enactment of this Act.
 
 “(c)
 

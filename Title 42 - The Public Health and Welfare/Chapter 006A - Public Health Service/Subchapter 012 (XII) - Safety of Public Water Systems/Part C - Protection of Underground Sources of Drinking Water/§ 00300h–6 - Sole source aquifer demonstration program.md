@@ -62,7 +62,7 @@ An application submitted to the Administrator by any applicant for a demonstrati
 
 &emsp;(A) A determination of the quality of the existing ground water recharged through the special protection area and the natural recharge capabilities of the special protection area watershed.
 
-&emsp;(B) Requirements designed to maintain existing underground drinking water quality or improve underground drinking water quality if prevailing conditions fail to meet drinking water standards, pursuant to this chapter and State law.
+&emsp;(B) Requirements designed to maintain existing underground drinking water quality orimprove underground drinking water quality if prevailing conditions fail to meet drinking water standards, pursuant to this chapter and State law.
 
 &emsp;(C) Limits on Federal, State, and local government, financially assisted activities and projects which may contribute to degradation of such ground water or any loss of natural surface and subsurface infiltration of purification capability of the special protection watershed.
 
@@ -88,7 +88,7 @@ During the development of a comprehensive management plan under this section, th
 
 #### (i) Approval or disapproval
 
-Within 120 days after receipt of an application under this section, the Administrator shall approve or disapprove the application. The approval or disapproval shall be based on a determination that the critical protection area satisfies the criteria established under subsection (d) of this section and that a demonstration program for the area would provide protection for ground water quality consistent with the objectives stated in subsection (f) of this section. TheAdministrator shall provide to the Governor a written explanation of the reasons for the disapproval of any such application. Any petitioner may modify and resubmit any application which is not approved. Upon approval of an application, the Administrator may enter into a cooperative agreement with the applicant to establish a demonstration program under this section.
+Within 120 days after receipt of an application under this section, the Administrator shall approve or disapprove the application. The approval or disapproval shall be based on a determination that the critical protection area satisfies the criteria established under subsection (d) of this section and that a demonstration program for the area would provide protection for ground water quality consistent with the objectives stated in subsection (f) of this section. The Administrator shall provide to the Governor a written explanation of the reasons for the disapproval of any such application. Any petitioner may modify and resubmit any application which is not approved. Upon approval of an application, the Administrator may enter into a cooperative agreement with the applicant to establish a demonstration program under this section.
 
 #### (j) Grants and reimbursement
 
@@ -123,7 +123,7 @@ There are authorized to be appropriated to carry out this section not more than 
 
 #### References in Text
 
-The Clean Water Act, referred to in subsec. (k), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Clean Water Act, referred to in subsec. (k), is act June 30, 1948, ch. 758, as amended generally by Pub. L.92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Solid Waste Disposal Act, referred to in subsec. (k), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 

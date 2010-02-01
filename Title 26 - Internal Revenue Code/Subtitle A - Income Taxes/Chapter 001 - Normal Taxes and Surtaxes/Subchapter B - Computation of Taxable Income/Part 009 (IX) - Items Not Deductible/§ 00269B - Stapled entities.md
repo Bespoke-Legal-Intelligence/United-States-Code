@@ -194,7 +194,7 @@ In general.—Subparagraph (A) shall not apply to any improvement placed in serv
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the cost of such property; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) if such property is substituted basis property (as defined in section 7701(a)(42) of theInternal Revenue Code of 1986), the fair market value of the property at the time of acquisition.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) if such property is substituted basis property (as defined in section 7701(a)(42) of the Internal Revenue Code of 1986), the fair market value of the property at the time of acquisition.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -236,7 +236,7 @@ In general.—Except as provided in subparagraph (B), any interest in real prope
 
 &emsp;&emsp;“(B)
 
-Exception for interests in real property held on march 26, 1998, etc.—In the case of an entity which was a 10-percent subsidiary entity of an exempt REIT or stapled entity on March 26, 1998, and at all times thereafter, an interest in real property held by such subsidiary entity shall be treated as a qualified real property interest if such interest would be so treated if held or acquired directly by the exempt REIT or the stapled entity.
+Exception for interests in real property held on march 26, 1998, etc.—In the case of an entity which was a 10-percent subsidiary entity of an exempt REIT or stapled entity on March 26, 1998, and at all times thereafter, an interest in real property held by such subsidiary entity shall be treated as aqualified real property interest if such interest would be so treated if held or acquired directly by the exempt REIT or the stapled entity.
 
 &emsp;“(3)
 

@@ -23,6 +23,7 @@
 | [1216a.](%C2%A7%2001216a%20-%20Determinations%20of%20disability%20requirements%20and%20limitations%20on%20determinations.md) | Determinations of disability: requirements and limitations on determinations. |
 | [1217\.](%C2%A7%2001217%20-%20Academy%20cadets%20and%20midshipmen%20applicability%20of%20chapter.md) | Academy cadets and midshipmen: applicability of chapter. |
 | [1218\.](%C2%A7%2001218%20-%20Discharge%20or%20release%20from%20active%20duty%20claims%20for%20compensation%2C%20pension%2C%20or%20hospitalization.md) | Discharge or release from active duty: claims for compensation, pension, or hospitalization. |
+| [1218a.](%C2%A7%2001218a%20-%20Discharge%20or%20release%20from%20active%20duty%20transition%20assistance%20for%20reserve%20component%20members%20injured%20while%20on%20active%20duty.md) | Discharge or release from active duty: transition assistance for reserve component members injured while on active duty. |
 | [1219\.](%C2%A7%2001219%20-%20Statement%20of%20origin%20of%20disease%20or%20injury%20limitations.md) | Statement of origin of disease or injury: limitations. |
 | \[1220. | Repealed.\] |
 | [1221\.](%C2%A7%2001221%20-%20Effective%20date%20of%20retirement%20or%20placement%20of%20name%20on%20temporary%20disability%20retired%20list.md) | Effective date of retirement or placement of name on temporary disability retired list. |
@@ -31,6 +32,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. A, title VI, §641(b), Oct. 28, 2009, 123 Stat. 2365, added item 1218a.
 
 2008—Pub. L. 110–181, div. A, title XVI, §1642(b), Jan. 28, 2008, 122 Stat. 465, added item 1216a.
 
@@ -76,6 +79,7 @@
 - [&sect; 01216a - Determinations of disability requirements and limitations on determinations](%C2%A7%2001216a%20-%20Determinations%20of%20disability%20requirements%20and%20limitations%20on%20determinations.md)
 - [&sect; 01217 - Academy cadets and midshipmen applicability of chapter](%C2%A7%2001217%20-%20Academy%20cadets%20and%20midshipmen%20applicability%20of%20chapter.md)
 - [&sect; 01218 - Discharge or release from active duty claims for compensation, pension, or hospitalization](%C2%A7%2001218%20-%20Discharge%20or%20release%20from%20active%20duty%20claims%20for%20compensation%2C%20pension%2C%20or%20hospitalization.md)
+- [&sect; 01218a - Discharge or release from active duty transition assistance for reserve component members injured while on active duty](%C2%A7%2001218a%20-%20Discharge%20or%20release%20from%20active%20duty%20transition%20assistance%20for%20reserve%20component%20members%20injured%20while%20on%20active%20duty.md)
 - [&sect; 01219 - Statement of origin of disease or injury limitations](%C2%A7%2001219%20-%20Statement%20of%20origin%20of%20disease%20or%20injury%20limitations.md)
 - [&sect; 01220 - Repealed. Pub. L. 87&#8211;651, title I, &sect;107(d), Sept. 7, 1962, 76 Stat. 509](%C2%A7%2001220%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93651%2C%20title%20I%2C%20%C2%A7107%28d%29%2C%20Sept.%207%2C%201962%2C%2076%20Stat.%20509.md)
 - [&sect; 01221 - Effective date of retirement or placement of name on temporary disability retired list](%C2%A7%2001221%20-%20Effective%20date%20of%20retirement%20or%20placement%20of%20name%20on%20temporary%20disability%20retired%20list.md)

@@ -8,7 +8,7 @@
 
 &emsp;(3) deny, revise, or ratify any request for regular, supplemental, or deficiency appropriations prior to any submission of such request to the Office of Management and Budget by the Chair;
 
-&emsp;(4) procure for the Commission temporary and intermittent services to the same extentas is authorized by section 3109(b) of title 5, United States Code;
+&emsp;(4) procure for the Commission temporary and intermittent services to the same extent as is authorized by section 3109(b) of title 5, United States Code;
 
 &emsp;(5) utilize, with their consent, the services, equipment, personnel, information, and facilities of other Federal, State, local, and private agencies and instrumentalities with or without reimbursement therefor;
 

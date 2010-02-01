@@ -2,7 +2,7 @@
 
 #### (a) Matching fund
 
-The Secretary shall establish a Smart Grid Investment Matching Grant Program to provide reimbursement of one-fifth (20 percent) of qualifying Smart Grid investments.
+The Secretary shall establish a Smart Grid Investment Matching Grant Program to provide grants of up to one-half (50 percent) of qualifying Smart Grid investments.
 
 #### (b) Qualifying investments
 
@@ -24,17 +24,17 @@ Qualifying Smart Grid investments may include any of the following made on or af
 
 &emsp;(8) In the case of electric or hybrid-electric vehicles, the documented expenses for devices that allow the vehicle to engage in Smart Grid functions (but not the costs of electricity storage for the vehicle).
 
-&emsp;(9) The documented expenditures related to purchasing and implementing Smart Grid functions in such other cases as the Secretary shall identify. In making such grants, the Secretary shall seek to reward innovation and early adaptation, even if success is not complete, rather than deployment of proven and commercially viable technologies.
+&emsp;(9) The documented expenditures related to purchasing and implementing Smart Grid functions in such other cases as the Secretary shall identify.
 
 #### (c) Investments not included
 
 Qualifying Smart Grid investments do not include any of the following:
 
-&emsp;(1) Investments or expenditures for Smart Grid technologies, devices, or equipment that are eligible for specific tax credits or deductions under the Internal Revenue Code, as amended.
+&emsp;(1) Investments or expenditures for Smart Grid technologies, devices, or equipment that utilize specific tax credits or deductions under the Internal Revenue Code, as amended.
 
 &emsp;(2) Expenditures for electricity generation, transmission, or distribution infrastructure or equipment not directly related to enabling Smart Grid functions.
 
-&emsp;(3) After the final date for State consideration of the Smart Grid Information Standard under section 2621(d)(17) of title 16, an investment that is not in compliance with such standard.
+&emsp;(3) After the final date for State consideration of the Smart Grid Information Standard under section 2621(d)(17) <sup>1</sup> of title 16, an investment that is not in compliance with such standard.
 
 &emsp;(4) After the development and publication by the Institute of protocols and model standards for interoperability of smart grid devices and technologies, an investment that fails to incorporate any of such protocols or model standards.
 
@@ -54,7 +54,7 @@ The term “smart grid functions” means any of the following:
 
 &emsp;(1) The ability to develop, store, send and receive digital information concerning electricity use, costs, prices, time of use, nature of use, storage, or other information relevant to device, grid, or utility operations, to or from or by means of the electric utility system, through one or a combination of devices and technologies.
 
-&emsp;(2) The ability to develop, store, send and receive digital information concerning electricity use, costs, prices, time of use, nature of use, storage, or other information relevant todevice, grid, or utility operations to or from a computer or other control device.
+&emsp;(2) The ability to develop, store, send and receive digital information concerning electricity use, costs, prices, time of use, nature of use, storage, or other information relevant to device, grid, or utility operations to or from a computer or other control device.
 
 &emsp;(3) The ability to measure or monitor electricity use as a function of time of day, power quality characteristics such as voltage level, current, cycles per second, or source or type of generation and to store, synthesize or report that information by digital means.
 
@@ -70,27 +70,41 @@ The term “smart grid functions” means any of the following:
 
 &emsp;(9) Such other functions as the Secretary may identify as being necessary or useful to the operation of a Smart Grid.
 
-#### (e) Procedures
+#### (e) Procedures and rules
 
-The Secretary shall—
+(1) The Secretary shall, within 60 days after February 17, 2009, by means of a notice of intent and subsequent solicitation of grant proposals—
 
-&emsp;(1) establish and publish in the Federal Register, within 1 year after December 19, 2007, procedures by which applicants who have made qualifying Smart Grid investments can seek and obtain reimbursement of one-fifth of their documented expenditures;
+&emsp;(A) establish procedures by which applicants can obtain grants of not more than one-half of their documented costs;
 
-&emsp;(2) establish procedures to ensure that there is no duplication or multiple reimbursement for the same investment or costs, that the reimbursement goes to the party making the actual expenditures for Qualifying Smart Grid Investments, and that the grants made have significant effect in encouraging and facilitating the development of a smart grid;
+&emsp;(B) require as a condition of receiving funding under this subsection that demonstration projects utilize open protocols and standards (including Internet-based protocols and standards) if available and appropriate;
 
-&emsp;(3) maintain public records of reimbursements made, recipients, and qualifying Smart Grid investments which have received reimbursements;
+&emsp;(C) establish procedures to ensure that there is no duplication or multiple payment for the same investment or costs, that the grant goes to the party making the actual expenditures for the qualifying Smart Grid investments, and that the grants made have a significant effect in encouraging and facilitating the development of a smart grid;
 
-&emsp;(4) establish procedures to provide, in cases deemed by the Secretary to be warranted, advance payment of moneys up to the full amount of the projected eventual reimbursement, to creditworthy applicants whose ability to make Qualifying Smart Grid Investments may be hindered by lack of initial capital, in lieu of any later reimbursement for which that applicant qualifies, and subject to full return of the advance payment in the event that the Qualifying Smart Grid investment is not made; and
+&emsp;(D) establish procedures to ensure there will be public records of grants made, recipients, and qualifying Smart Grid investments which have received grants; and
 
-&emsp;(5) have and exercise the discretion to deny grants for investments that do not qualify in the reasonable judgment of the Secretary.
+&emsp;(E) establish procedures to provide advance payment of moneys up to the full amount of the grant award.
+
+(2) The Secretary shall have discretion and exercise reasonable judgment to deny grants for investments that do not qualify.
 
 #### (f) Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary such sums as are necessary for the administration of this section and the grants to be made pursuant to this section for fiscal years 2008 through 2012.
 
-(Pub. L. 110–140, title XIII, §1306, Dec. 19, 2007, 121 Stat. 1789.)
+(Pub. L. 110–140, title XIII, §1306, Dec. 19, 2007, 121 Stat. 1789; Pub. L. 111–5, div. A, title IV, §405(5)–(8), Feb. 17, 2009, 123 Stat. 144.)
 
 #### References in Text
 
 The Energy Policy and Conservation Act, referred to in subsec. (b)(1), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Part B of title III of the Act is classified generally to part A (§6291 et seq.) of subchapter III of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+
+Section 2621(d)(17) of title 16, referred to in subsec. (c)(3), was redesignated section 2621(d)(19) by Pub. L. 111–5, div. A, title IV, §408(a), Feb. 17, 2009, 123 Stat. 146.
+
+#### Amendments
+
+2009—Subsec. (a). Pub. L. 111–5, §405(5), substituted “grants of up to one-half (50 percent)” for “reimbursement of one-fifth (20 percent)”.
+
+Subsec. (b)(9). Pub. L. 111–5, §405(6), struck out last sentence which read as follows: “In making such grants, the Secretary shall seek to reward innovation and early adaptation, even if success is not complete, rather than deployment of proven and commercially viable technologies.”
+
+Subsec. (c)(1). Pub. L. 111–5, §405(7), substituted “utilize” for “are eligible for”.
+
+Subsec. (e). Pub. L. 111–5, §405(8), amended subsec. (e) generally. Prior to amendment, text related to establishment of procedures by which applicants who have made qualifying Smart Grid investments can seek and obtain reimbursement of one-fifth of documented expenditures.
 

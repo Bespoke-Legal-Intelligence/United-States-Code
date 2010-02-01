@@ -30,11 +30,13 @@ Definitions.—In this subchapter:
 
 &emsp;(2) The term “intelligence collection activities” means the collection of foreign intelligence and counterintelligence information.
 
-(Added Pub. L. 102–88, title V, §504(a)(2), Aug. 14, 1991, 105 Stat. 437; amended Pub. L. 104–93, title V, §503, Jan. 6, 1996, 109 Stat. 973; Pub. L. 105–272, title V, §501, Oct. 20, 1998, 112 Stat. 2404; Pub. L. 106–398, §1 \[\[div. A\], title X, §1077\], Oct. 30, 2000, 114 Stat. 1654, 1654A–282; Pub. L. 107–314, div. A, title X, §1053, Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–375, div. A, title IX, §921, Oct. 28, 2004, 118 Stat. 2029; Pub. L. 109–364, div. A, title IX, §931, Oct. 17, 2006, 120 Stat. 2362; Pub. L. 110–181, div. A, title IX, §931(b)(1), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(7), Oct. 14, 2008, 122 Stat. 4576.)
+(Added Pub. L. 102–88, title V, §504(a)(2), Aug. 14, 1991, 105 Stat. 437; amended Pub. L. 104–93, title V, §503, Jan. 6, 1996, 109 Stat. 973; Pub. L. 105–272, title V, §501, Oct. 20, 1998, 112 Stat. 2404; Pub. L. 106–398, §1 \[\[div. A\], title X, §1077\], Oct. 30, 2000, 114 Stat. 1654, 1654A–282; Pub. L. 107–314, div. A, title X, §1053, Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–375, div. A, title IX, §921, Oct. 28, 2004, 118 Stat. 2029; Pub. L. 109–364, div. A, title IX, §931, Oct. 17, 2006, 120 Stat. 2362; Pub. L. 110–181, div. A, title IX, §931(b)(1), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(7), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475.)
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–417, which directed amendment of par. (1) by substituting “Director of National Intelligence” for “Director of Central Intelligence”, could not be executed because of the intervening amendment by Pub. L. 110–181. See below.
+2009—Subsec. (b)(1). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(7). See 2008 Amendment note below.
+
+2008—Subsec. (b)(1). Pub. L. 110–417, §932(a)(7), which directed the amendment of subsec. (b)(1) by substituting “Director of National Intelligence” for “Director of Central Intelligence”, was repealed by Pub. L. 111–84.
 
 Pub. L. 110–181 substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
@@ -49,6 +51,10 @@ Pub. L. 110–181 substituted “Director of the Central Intelligence Agency” 
 1998—Subsec. (a). Pub. L. 105–272 substituted “2000” for “1998”.
 
 1996—Subsec. (a). Pub. L. 104–93 substituted “1998” for “1995”.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 #### Effective Date
 

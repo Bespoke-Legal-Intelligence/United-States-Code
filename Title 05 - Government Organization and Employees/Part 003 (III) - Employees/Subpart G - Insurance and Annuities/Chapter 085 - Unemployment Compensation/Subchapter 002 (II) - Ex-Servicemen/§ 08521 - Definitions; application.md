@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(IV) because of personality disorders or inaptitude but only if the service was continuous for 365 days or more;
 
-&emsp;(2) “Federal wages” means all pay and allowances, in cash and in kind, for Federalservice, computed on the basis of the pay and allowances for the pay grade of the individual at the time of his latest discharge or release from Federal service as specified in the schedule applicable at the time he files his first claim for compensation for the benefit year. The Secretary of Labor shall issue, from time to time, after consultation with the Secretary of Defense, schedules specifying the pay and allowances for each pay grade of servicemen covered by this subchapter, which reflect representative amounts for appropriate elements of the pay and allowances whether in cash or in kind; and
+&emsp;(2) “Federal wages” means all pay and allowances, in cash and in kind, for Federal service, computed on the basis of the pay and allowances for the pay grade of the individual at the time of his latest discharge or release from Federal service as specified in the schedule applicable at the time he files his first claim for compensation for the benefit year. The Secretary of Labor shall issue, from time to time, after consultation with the Secretary of Defense, schedules specifying the pay and allowances for each pay grade of servicemen covered by this subchapter, which reflect representative amounts for appropriate elements of the pay and allowances whether in cash or in kind; and
 
 &emsp;(3) “State” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the Virgin Islands.
 
@@ -42,7 +42,7 @@ Act
 
 Aug. 28, 1958, Pub. L. 85–848, §3 “Sec. 1511(a)–(c)”, 72 Stat. 1088.
 
-In subsection (a)(1), the words “armed forces” are coextensive with and substituted for “Army, Navy, Air Force, Marine Corps, or Coast Guard of the United States” in view of the definition of “armed forces” in section 2101. The words “after October 27, 1958” are substituted for “after the sixtieth day after August 28, 1958”.
+In subsection (a)(1), the words “armed forces” are coextensive with and substituted for “Army, Navy, AirForce, Marine Corps, or Coast Guard of the United States” in view of the definition of “armed forces” in section 2101. The words “after October 27, 1958” are substituted for “after the sixtieth day after August 28, 1958”.
 
 In subsection (b), the words “with respect to weeks of unemployment ending after the sixtieth day after August 28, 1958” are omitted as obsolete because the law is here stated with prospective effect.
 

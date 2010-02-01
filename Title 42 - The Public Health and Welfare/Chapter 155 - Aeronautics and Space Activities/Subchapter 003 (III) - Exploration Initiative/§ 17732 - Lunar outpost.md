@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-As NASA works toward the establishment of a lunar outpost, NASA shall make no plans that would require a lunar outpost to be occupied to maintain its viability. Any such outpost shall beoperable as a human-tended facility capable of remote or autonomous operation for extended periods.
+As NASA works toward the establishment of a lunar outpost, NASA shall make no plans that would require a lunar outpost to be occupied to maintain its viability. Any such outpost shall be operable as a human-tended facility capable of remote or autonomous operation for extended periods.
 
 #### (b) Designation
 

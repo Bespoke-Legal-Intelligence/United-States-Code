@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated annually such sums as Congress may determine necessary to support continuing agricultural research at colleges eligible to receive funds under the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including Tuskegee University (hereinafter referred to in this section as “eligible institutions”).
+&emsp;There are hereby authorized to be appropriated annually such sums as Congress may determine necessary to support continuing agricultural research at colleges eligible to receive funds under the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including Tuskegee University (hereinafter referred to in this section as “eligible institutions”).
 
 #### (2) Minimum amount
 
@@ -74,7 +74,7 @@ Beginning with the fiscal year ending September 30, 1979, the funds appropriated
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall develop protocols to be used to evaluate the success of multistate, multi-institutional, and multidisciplinary research activities and joint research and extension activities in addressing critical agricultural issues identified in the plans of work submitted under paragraph (2).
+&emsp;&emsp;The Secretary shall develop protocols to be used to evaluate the success of multistate, multi-institutional, and multidisciplinary research activities and joint research and extension activities in addressingcritical agricultural issues identified in the plans of work submitted under paragraph (2).
 
 #### (B) Consultation
 
@@ -104,7 +104,7 @@ On or before the first day of October in each year after September 29, 1977, the
 
 Nothing in this section shall be construed to impair or modify the legal relationship existing between any of the eligible institutions and the government of the States in which they are respectively located.
 
-(Pub. L. 95–113, title XIV, §1445, Sept. 29, 1977, 91 Stat. 1009; Pub. L. 95–547, Oct. 28, 1978, 92 Stat. 2063; Pub. L. 97–98, title XIV, §1432(a), Dec. 22, 1981, 95 Stat. 1311; Pub. L. 99–198, title XIV,§1417, Dec. 23, 1985, 99 Stat. 1550; Pub. L. 105–185, title I, §103(f)(3)(B), title II, §§225(b), 226(b), (c)(3), June 23, 1998, 112 Stat. 528, 541, 543; Pub. L. 105–362, title I, §101(e), Nov. 10, 1998, 112 Stat. 3281; Pub. L. 107–171, title VII, §§7203(b), 7204, May 13, 2002, 116 Stat. 438; Pub. L. 110–234, title VII, §§7122, 7404(b)(2)(A)(ii), May 22, 2008, 122 Stat. 1222, 1247; Pub. L. 110–246, §4(a), title VII, §§7122, 7404(b)(2)(A)(ii), June 18, 2008, 122 Stat. 1664, 1983, 2008.)
+(Pub. L. 95–113, title XIV, §1445, Sept. 29, 1977, 91 Stat. 1009; Pub. L. 95–547, Oct. 28, 1978, 92 Stat. 2063; Pub. L. 97–98, title XIV, §1432(a), Dec. 22, 1981, 95 Stat. 1311; Pub. L. 99–198, title XIV, §1417, Dec. 23, 1985, 99 Stat. 1550; Pub. L. 105–185, title I, §103(f)(3)(B), title II, §§225(b), 226(b), (c)(3), June 23, 1998, 112 Stat. 528, 541, 543; Pub. L. 105–362, title I, §101(e), Nov. 10, 1998, 112 Stat. 3281; Pub. L. 107–171, title VII, §§7203(b), 7204, May 13, 2002, 116 Stat. 438; Pub. L. 110–234, title VII, §§7122, 7404(b)(2)(A)(ii), May 22, 2008, 122 Stat. 1222, 1247; Pub. L. 110–246, §4(a), title VII, §§7122, 7404(b)(2)(A)(ii), June 18, 2008, 122 Stat. 1664, 1983, 2008.)
 
 #### References in Text
 
@@ -120,7 +120,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Subsec. (e). Pub. L. 110–246, §7404(b)(2)(A)(ii), struck out “under penalty indicia: <i>Provided</i>, That each publication shall bear such indicia as are prescribed by the Postmaster General and shall be mailed under such regulations as the Postmaster General may from time to time prescribe” after “United States”.
 
-2002—Subsec. (a). Pub. L. 107–171, §7203(b), inserted heading, designated existing provisions as pars. (1) to (5), inserted headings, and substituted in par. (2) “Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 25 percent of the total appropriations for the fiscal year under section 361c of this title.” for “Beginning with the fiscal year ending September 30, 1979, there shall be appropriated under this section for each fiscal year an amount not less than 15 per centum of the total appropriations for such year under section 361c of this title: <i>Provided</i>, That the amount appropriated for the fiscal year ending September 30, 1979, shall not be less than the amount made available in the fiscal year ending September 30, 1978, to such eligible institutions under the Act of August 4, 1965 (79 Stat. 431, 7 U.S.C. 450i).”
+2002—Subsec. (a). Pub. L. 107–171, §7203(b), inserted heading, designated existing provisions as pars. (1) to (5), inserted headings, and substituted in par. (2) “Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 25 percent of the total appropriations for the fiscal year under section 361c of this title.” for “Beginning with the fiscal year ending September 30, 1979, there shall be appropriated under this section for each fiscal year an amount not less than 15 per centum of the total appropriations for such year under section 361c of this title: <i>Provided</i>, That the amount appropriated for the fiscal year ending September 30, 1979, shall not be less than the amount made available in the fiscal year ending September 30, 1978,to such eligible institutions under the Act of August 4, 1965 (79 Stat. 431, 7 U.S.C. 450i).”
 
 Subsec. (a)(5). Pub. L. 107–171, §7204, added par. (5) and struck out heading and text of former par. (5). Text read as follows: “No more than 5 percent of the funds received by an institution in any fiscal year, under this section, may be carried forward to the succeeding fiscal year.”
 
@@ -156,7 +156,7 @@ Subsecs. (c), (d). Pub. L. 97–98, §1432(a)(3), substituted “research direct
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1998 Amendment
 

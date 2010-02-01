@@ -14,7 +14,7 @@ The Secretary is authorized to accept details or assignments of any personnel, a
 
 Section 1605 of this title, referred to in text, means section 1605 of title XVI of Pub. L. 110–417.
 
-This title, the first time appearing in subsec. (b), means title XVI of Pub. L. 110–417, \[div. A\], Oct. 14, 2008, 122 Stat. 4652, known as the Reconstruction and Stabilization Civilian Management Act of 2008, which enacted this section, sections 2368 and 2734 of this title, and provisions set out as notes under this section and sections 2151 and 2368 of this title. For complete classification of this title to the Code, see Short Title of 2008 Amendment note set out under section 2151 of this title and Tables.
+This title, the first time appearing in subsec. (b), means title XVI of Pub. L. 110–417, \[div. A\], Oct. 14, 2008,122 Stat. 4652, known as the Reconstruction and Stabilization Civilian Management Act of 2008, which enacted this section, sections 2368 and 2734 of this title, and provisions set out as notes under this section and sections 2151 and 2368 of this title. For complete classification of this title to the Code, see Short Title of 2008 Amendment note set out under section 2151 of this title and Tables.
 
 #### Definitions
 

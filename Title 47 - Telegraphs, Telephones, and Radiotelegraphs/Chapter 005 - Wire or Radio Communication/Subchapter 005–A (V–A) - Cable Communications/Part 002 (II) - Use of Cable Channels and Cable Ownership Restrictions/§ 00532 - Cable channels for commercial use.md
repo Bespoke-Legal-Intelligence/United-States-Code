@@ -60,7 +60,7 @@ Any person aggrieved by the failure or refusal of a cable operator to make chann
 
 #### (f) Presumption of reasonableness and good faith
 
-In any action brought under this section in any Federal district court or before the Commission, there shall be a presumption that the price, terms, and conditions for use of channel capacity designated pursuant to subsection (b) of this section are reasonable and in good faith unless shown by clear and convincing evidence to the contrary.
+In any action brought under this section in any Federal district court or before the Commission, there shall be a presumption that theprice, terms, and conditions for use of channel capacity designated pursuant to subsection (b) of this section are reasonable and in good faith unless shown by clear and convincing evidence to the contrary.
 
 #### (g) Promulgation of rules
 
@@ -76,7 +76,7 @@ Any cable service offered pursuant to this section shall not be provided, or sha
 
 (2) For purposes of this subsection, the term “qualified minority programming source” means a programming source which devotes substantially all of its programming to coverage of minority viewpoints, or to programming directed at members of minority groups, and which is over 50 percent minority-owned, as the term “minority” is defined in section 309(i)(3)(C)(ii) of this title.
 
-(3) For purposes of this subsection, the term “qualified educational programming source” means a programming source which devotes substantially all of its programming to educational or instructional programming that promotespublic understanding of mathematics, the sciences, the humanities, and the arts and has a documented annual expenditure on programming exceeding $15,000,000. The annual expenditure on programming means all annual costs incurred by the programming source to produce or acquire programs which are scheduled to be televised, and specifically excludes marketing, promotion, satellite transmission and operational costs, and general administrative costs.
+(3) For purposes of this subsection, the term “qualified educational programming source” means a programming source which devotes substantially all of its programming to educational or instructional programming that promotes public understanding of mathematics, the sciences, the humanities, and the arts and has a documented annual expenditure on programming exceeding $15,000,000. The annual expenditure on programming means all annual costs incurred by the programming source to produce or acquire programs which are scheduled to be televised, and specifically excludes marketing, promotion, satellite transmission and operational costs, and general administrative costs.
 
 (4) Nothing in this subsection shall substitute for the requirements to carry qualified noncommercial educational television stations as specified under section 535 of this title.
 

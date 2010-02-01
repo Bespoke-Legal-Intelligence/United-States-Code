@@ -2,7 +2,7 @@
 
 #### (a) Application for order; conduct of investigation generally
 
-(1) Subject to paragraph (3), the Director of the Federal Bureau of Investigation or a designee of the Director (whose rank shall be no lower than Assistant Special Agent in Charge)may make an application for an order requiring the production of any tangible things (including books, records, papers, documents, and other items) for an investigation to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution.
+(1) Subject to paragraph (3), the Director of the Federal Bureau of Investigation or a designee of the Director (whose rank shall be no lower than Assistant Special Agent in Charge) may make an application for an order requiring the production of any tangible things (including books, records, papers, documents, and other items) for an investigation to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution.
 
 (2) An investigation conducted under this section shall—
 
@@ -64,7 +64,7 @@ Each application under this section—
 
 (B) Any person who discloses to a person described in subparagraph (A), (B), or (C) of paragraph (1) that the Federal Bureau of Investigation has sought or obtained tangible things pursuant to an order under this section shall notify such person of the nondisclosure requirements of this subsection.
 
-(C) At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under subparagraph (A) or (C)of paragraph (1) shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request.
+(C) At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under subparagraph (A) or (C) of paragraph (1) shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request.
 
 #### (e) Liability for good faith disclosure; waiver
 
@@ -120,11 +120,11 @@ A person who, in good faith, produces tangible things under an order pursuant to
 
 Information acquired from tangible things received by the Federal Bureau of Investigation in response to an order under this subchapter concerning any United States person may be used and disclosed by Federal officers and employees without the consent of the United States person only in accordance with the minimization procedures adopted pursuant to subsection (g). No otherwise privileged information acquired from tangible things received by the Federal Bureau of Investigation in accordance with the provisions of this subchapter shall lose its privileged character. No information acquired from tangible things received by the Federal Bureau of Investigation in response to an order under this subchapter may be used or disclosed by Federal officers or employees except for lawful purposes.
 
-(Pub. L. 95–511, title V, §501, as added Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 287; amended Pub. L. 107–108, title III, §314(a)(6), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 109–177, title I, §§102(b)(1), 106(a)–(e), (f)(2), (g), Mar. 9, 2006, 120 Stat. 195–198; Pub. L. 109–178, §§3, 4(a), Mar. 9, 2006, 120 Stat. 278, 280.)
+(Pub. L. 95–511, title V, §501, as added Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 287; amended Pub. L. 107–108, title III, §314(a)(6), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 109–177, title I, §§102(b)(1), 106(a)–(e), (f)(2), (g), Mar. 9, 2006, 120 Stat. 195–198; Pub. L. 109–178, §§3, 4(a), Mar. 9, 2006, 120 Stat. 278, 280; Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470.)
 
 #### Amendment of Section
 
-<i>Pub. L. 109–177, title I, §102(b), Mar. 9, 2006, 120 Stat. 195, provided that, effective Dec. 31, 2009, with certain exceptions, this section is amended to read as it read on Oct. 25, 2001:</i>
+<i>Pub. L. 109–177, title I, §102(b), Mar. 9, 2006, 120 Stat. 195, as amended by Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470, provided that, effective Feb. 28, 2010, with certain exceptions, this section is amended to read as it read on Oct. 25, 2001:</i>
 
 #### §1861. Definitions
 
@@ -150,7 +150,7 @@ A prior section 1861, Pub. L. 95–511, title V, §501, as added Pub. L. 105–2
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–177, §106(a)(1), substituted “Subject to paragraph (3), the Director” for “The Director”.
+2006—Subsec. (a)(1). Pub. L. 109–177, §106(a)(1), substituted “Subject to paragraph (3), the Director” for “The Director”.
 
 Subsec. (a)(3). Pub. L. 109–177, §106(a)(2), added par. (3).
 
@@ -172,9 +172,9 @@ Pub. L. 109–177, §106(f)(2), added subsec. (f).
 
 Subsecs. (g), (h). Pub. L. 109–177, §106(g), added subsecs. (g) and (h).
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–108 inserted “to obtain foreign intelligence information not concerning a United States person or” after “an investigation”.
+2001—Subsec. (a)(1). Pub. L. 107–108 inserted “to obtain foreign intelligence information not concerning a United States person or” after “an investigation”.
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 102(b)(1) of Pub. L. 109–177 effective Dec. 31, 2009, except that former provisions to continue in effect with respect to any particular foreign intelligence investigation that began before Dec. 31, 2009, or with respect to any particular offense or potential offense that began or occurred before Dec. 31, 2009, see section 102(b) of Pub. L. 109–177, set out as a note under section 1805 of this title.
+Amendment by section 102(b)(1) of Pub. L. 109–177 effective Feb. 28, 2010, except that former provisions to continue in effect with respect to any particular foreign intelligence investigation that began before Feb. 28, 2010, or with respect to any particular offense or potential offense that began or occurred before Feb. 28, 2010, see section 102(b) of Pub. L. 109–177, set out as a note under section 1805 of this title.
 

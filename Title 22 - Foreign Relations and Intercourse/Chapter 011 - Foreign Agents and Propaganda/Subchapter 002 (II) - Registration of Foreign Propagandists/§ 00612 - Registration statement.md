@@ -18,7 +18,7 @@ No person shall act as an agent of a foreign principal unless he has filed with 
 
 &emsp;(7) The name, business, and residence addresses, and if an individual, the nationality, of any person other than a foreign principal for whom the registrant is acting, assuming or purporting to act or has agreed to act under such circumstances as require his registration hereunder; the extent to which each such person is supervised, directed, owned, controlled, financed, or subsidized, in whole or in part, by any government of a foreign country or foreign political party or by any other foreign principal; and the nature and amount of contributions, income, money, or thing of value, if any, that the registrant has received during the preceding sixty days from each such person in connection with any of the activities referred to in clause (6) of this subsection, either as compensation or for disbursement or otherwise, and the form and time of each such payment and from whom received;
 
-&emsp;(8) A detailed statement of the money and other things of value spent or disposed of by the registrant during the preceding sixty days in furtherance of or in connection with activities which require his registration hereunder and which have been undertaken by him either as an agent of a foreign principal or for himself or any other person or in conection <sup>1</sup> with any activities relating to his becoming an agent of such principal, and a detailed statement of any contributions of money or other things of value made by him during the preceding sixty days (other than contributions the making of which is prohibited under the terms of section 613 <sup>2</sup> of title 18) in connection with an election to any political office or in connection with any primary election, convention, or caucus held to select candidates for any political office;
+&emsp;(8) A detailed statement of the money and other things of value spent or disposed of by the registrant during the preceding sixty days in furtherance of or in connection with activities which require his registration hereunderand which have been undertaken by him either as an agent of a foreign principal or for himself or any other person or in conection <sup>1</sup> with any activities relating to his becoming an agent of such principal, and a detailed statement of any contributions of money or other things of value made by him during the preceding sixty days (other than contributions the making of which is prohibited under the terms of section 613 <sup>2</sup> of title 18) in connection with an election to any political office or in connection with any primary election, convention, or caucus held to select candidates for any political office;
 
 &emsp;(9) Copies of each written agreement and the terms and conditions of each oral agreement, including all modifications of such agreements, or, where no contract exists, a full statement of all the circumstances, by reason of which the registrant is performing or assuming or purporting or has agreed to perform for himself or for a foreign principal or for any person other than a foreign principal any activities which require his registration hereunder;
 
@@ -32,7 +32,7 @@ Every agent of a foreign principal who has filed a registration statement requir
 
 #### (c) Execution of statement under oath
 
-The registration statement and supplements thereto shall be executed under oath as follows:If the registrant is an individual, by him; if the registrant is a partnership, by the majority of the members thereof; if the registrant is a person other than an individual or a partnership, by a majority of the officers thereof or persons performing the functions of officers or by a majority of the board of directors thereof or persons performing the functions of directors, if any.
+The registration statement and supplements thereto shall be executed under oath as follows: If the registrant is an individual, by him; if the registrant is a partnership, by the majority of the members thereof; if the registrant is a person other than an individual or a partnership, by a majority of the officers thereof or persons performing the functions of officers or by a majority of the board of directors thereof or persons performing the functions of directors, if any.
 
 #### (d) Filing of statement not deemed full compliance nor as preclusion from prosecution
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 89–486 effective ninety days after July 4, 1966, see sect
 
 #### Effective Date of 1942 Amendment
 
-Amendment by act Apr. 29, 1942, effective on the sixtieth day after Apr. 29, 1942, except that prior to suchsixtieth day the Attorney General may make, prescribe, amend, and rescind such rules, regulations, and forms as may be necessary to carry out act Apr. 29, 1942, see section 3 of act Apr. 29, 1942, set out as a note under section 611 of this title.
+Amendment by act Apr. 29, 1942, effective on the sixtieth day after Apr. 29, 1942, except that prior to such sixtieth day the Attorney General may make, prescribe, amend, and rescind such rules, regulations, and forms as may be necessary to carry out act Apr. 29, 1942, see section 3 of act Apr. 29, 1942, set out as a note under section 611 of this title.
 
 #### Fees for Necessary Expenses of Registration Unit
 

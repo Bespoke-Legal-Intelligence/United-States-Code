@@ -24,7 +24,7 @@ Included in the activities authorized to the corporation for the accomplishment 
 
 &emsp;(4) to provide technical assistance to nonprofit corporations, limited dividend corporations, and others with respect to the planning, refinancing, construction, rehabilitation, maintenance, and management of housing for low and moderate income families and individuals;
 
-&emsp;(5) to make loans or grants including grants of interests in housing and related facilities, to nonprofit corporations, limited dividendcorporations, and others, in carrying out its activities under subsection (a) of this section; and
+&emsp;(5) to make loans or grants including grants of interests in housing and related facilities, to nonprofit corporations, limited dividend corporations, and others, in carrying out its activities under subsection (a) of this section; and
 
 &emsp;(6) to hire or accept the voluntary services of consultants, experts, advisory boards, and panels to aid the corporation in carrying out the purposes of this chapter.
 
@@ -34,7 +34,7 @@ To carry out the foregoing purposes and engaged in the foregoing activities, the
 
 #### (d) Labor standards
 
-Nothing in this chapter shall have the effect of waiving or otherwise affecting the applicability of the provisions of sections 3141–3144, 3146, and 3147 of title 40, or any other law requiring compliance with labor standards, in the case of any construction to which such provisions would otherwise apply.
+Nothing in this chapter shall have the effect of waiving or otherwise affecting the applicabilityof the provisions of sections 3141–3144, 3146, and 3147 of title 40, or any other law requiring compliance with labor standards, in the case of any construction to which such provisions would otherwise apply.
 
 #### (e) Maximum combined outstanding equity commitment
 

@@ -74,7 +74,7 @@ A company desiring to be designated as a Renewable Fuel Capital Investment compa
 
 #### (A) In general
 
-&emsp;&emsp;In order to provide operational assistance to smaller enterprises expected to be financed by the company, each conditionally approved company shall have binding commitments (for contribution in cash or in-kind)—
+&emsp;&emsp;In order to provide operational assistance to smaller enterprises expected to be financed by the company, each conditionallyapproved company shall have binding commitments (for contribution in cash or in-kind)—
 
 &emsp;&emsp;&emsp;(i) from sources other than the Administration that meet criteria established by the Administrator; and
 

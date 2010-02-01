@@ -12,7 +12,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 &emsp;(2) Subject to the provisions of subsection (c) of this section, the rules of the exchange provide that any registered broker or dealer or natural person associated with a registered broker or dealer may become a member of such exchange and any person may become associated with a member thereof.
 
-&emsp;(3) The rules of the exchange assure a fair representation of its members in the selection of its directors and administration of its affairs and provide that one or more directors shall be representative of issuers and investorsand not be associated with a member of the exchange, broker, or dealer.
+&emsp;(3) The rules of the exchange assure a fair representation of its members in the selection of its directors and administration of its affairs and provide that one or more directors shall be representative of issuers and investors and not be associated with a member of the exchange, broker, or dealer.
 
 &emsp;(4) The rules of the exchange provide for the equitable allocation of reasonable dues, fees, and other charges among its members and issuers and other persons using its facilities.
 
@@ -44,7 +44,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 &emsp;&emsp;(D) restrictions on the conversion of contingent interests or fees into non-contingent interests or fees and restrictions on the receipt of a non-contingent equity interest in exchange for fees for services which have not yet been provided.
 
-> &emsp;As used in this paragraph, the term “dissenting limited partner” means a person who, on the date on which soliciting material is mailed to investors, is a holder of a beneficial interest in a limited partnership that is the subject of a limited partnership rollup transaction, and who casts a vote against the transaction and complies with procedures established by the exchange, except that for purposes of an exchange or tender offer, such person shall file an objection in writing under the rules of the exchange during the period during which the offer is outstanding.
+> &emsp;As used in this paragraph, the term “dissenting limited partner” means a person who, on the date on which soliciting material is mailedto investors, is a holder of a beneficial interest in a limited partnership that is the subject of a limited partnership rollup transaction, and who casts a vote against the transaction and complies with procedures established by the exchange, except that for purposes of an exchange or tender offer, such person shall file an objection in writing under the rules of the exchange during the period during which the offer is outstanding.
 
 #### (c) Denial of membership in national exchanges; denial of association with member; conditions; limitation of membership
 
@@ -168,7 +168,7 @@ The Commission, by rule or order, as it deems necessary or appropriate in the pu
 
 &emsp;&emsp;An exchange that registered under paragraph (1) of this subsection shall also be exempt from submitting proposed rule changes pursuant to section 78s(b) of this title, except that—
 
-&emsp;&emsp;&emsp;(i) such exchange shall file proposed rule changes related to higher margin levels, fraud or manipulation, recordkeeping, reporting, listing standards, or decimal pricing for security futures products, sales practices for security futures products for persons who effect transactions in security futures products, or rules effectuating such exchange's obligation to enforce thesecurities laws pursuant to section 78s(b)(7) of this title;
+&emsp;&emsp;&emsp;(i) such exchange shall file proposed rule changes related to higher margin levels, fraud or manipulation, recordkeeping, reporting, listing standards, or decimal pricing for security futures products, sales practices for security futures products for persons who effect transactions in security futures products, or rules effectuating such exchange's obligation to enforce the securities laws pursuant to section 78s(b)(7) of this title;
 
 &emsp;&emsp;&emsp;(ii) such exchange shall file pursuant to sections 78s(b)(1) and 78s(b)(2) of this title proposed rule changes related to margin, except for changes resulting in higher margin levels; and
 
@@ -222,7 +222,7 @@ The Commission, by rule or order, as it deems necessary or appropriate in the pu
 
 &emsp;&emsp;(D) except as otherwise provided in a rule, regulation, or order issued pursuant to paragraph (4), require that the security future be based upon common stock and such other equity securities as the Commission and the Commodity Futures Trading Commission jointly determine appropriate;
 
-&emsp;&emsp;(E) require that the security futures product is cleared by a clearing agency that has in place provisions for linked and coordinated clearing with other clearing agencies that clear security futures products, which permits the security futures product to be purchased on one market and offset on another market that trades such product;
+&emsp;&emsp;(E) require that the security futures product is cleared by a clearing agency that has in place provisions for linked and coordinated clearing with other clearing agenciesthat clear security futures products, which permits the security futures product to be purchased on one market and offset on another market that trades such product;
 
 &emsp;&emsp;(F) require that only a broker or dealer subject to suitability rules comparable to those of a national securities association registered pursuant to section 78<i>o</i>–3(a) of this title effect transactions in the security futures product;
 
@@ -232,7 +232,7 @@ The Commission, by rule or order, as it deems necessary or appropriate in the pu
 
 &emsp;&emsp;(I) require that procedures be in place for coordinated surveillance among the market on which the security futures product is traded, any market on which any security underlying the security futures product is traded, and other markets on which any related security is traded to detect manipulation and insider trading;
 
-&emsp;&emsp;(J) require that the market on which the security futures product is traded has in place audit trails necessary or appropriateto facilitate the coordinated surveillance required in subparagraph (I);
+&emsp;&emsp;(J) require that the market on which the security futures product is traded has in place audit trails necessary or appropriate to facilitate the coordinated surveillance required in subparagraph (I);
 
 &emsp;&emsp;(K) require that the market on which the security futures product is traded has in place procedures to coordinate trading halts between such market and any market on which any security underlying the security futures product is traded and other markets on which any related security is traded; and
 
@@ -352,7 +352,7 @@ Review of filings prior to effective date.—Prior to the effective date of regu
 
 “(b)
 
-Effect on Existing Authority.—The amendments made by this title \[amending this section andsections 78n and 78<i>o</i>–3 of this title\] shall not limit the authority of the Securities and Exchange Commission, a registered securities association, or a national securities exchange under any provision of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or preclude the Commission or such association or exchange from imposing, under any other such provision, a remedy or procedure required to be imposed under such amendments.”
+Effect on Existing Authority.—The amendments made by this title \[amending this section and sections 78n and 78<i>o</i>–3 of this title\] shall not limit the authority of the Securities and Exchange Commission, a registered securities association, or a national securities exchange under any provision of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or preclude the Commission or such association or exchange from imposing, under any other such provision, a remedy or procedure required to be imposed under such amendments.”
 
 #### Effective Date of 1975 Amendment
 

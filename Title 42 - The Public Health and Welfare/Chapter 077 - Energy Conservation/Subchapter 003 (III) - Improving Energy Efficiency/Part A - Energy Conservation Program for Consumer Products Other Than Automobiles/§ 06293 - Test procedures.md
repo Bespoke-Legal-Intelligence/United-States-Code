@@ -66,7 +66,7 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (15) The test procedure for refrigerated bottled or canned beverage vending machines shall be based on American National Standards Institute/American Society of Heating, Refrigerating and Air-Conditioning Engineers Standard 32.1–2004, entitled “Methods of Testing for Rating Vending Machines for Bottled, Canned or Other Sealed Beverages”.
 
-(16)(A)(i) Test procedures for ceiling fans shall be based on the “Energy Star Testing FacilityGuidance Manual: Building a Testing Facility and Performing the Solid State Test Method for ENERGY STAR Qualified Ceiling Fans, Version 1.1” published by the Environmental Protection Agency.
+(16)(A)(i) Test procedures for ceiling fans shall be based on the “Energy Star Testing Facility Guidance Manual: Building a Testing Facility and Performing the Solid State Test Method for ENERGY STAR Qualified Ceiling Fans, Version 1.1” published by the Environmental Protection Agency.
 
 (ii) Test procedures for ceiling fan light kits shall be based on the test procedures referenced in the Energy Star specifications for Residential Light Fixtures and Compact Fluorescent Light Bulbs, as in effect on August 8, 2005.
 
@@ -122,7 +122,7 @@ Metal halide lamp ballasts.—Test procedures for metal halide lamp ballasts sha
 
 (2) To the maximum extent practicable, the testing requirements prescribed under paragraph (1) shall be based on existing test procedures used in industry.
 
-(Pub. L. 94–163, title III, §323, Dec. 22, 1975, 89 Stat. 919; Pub. L. 95–619, title IV, §§421, 425(a), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3257,3265, 3288; Pub. L. 100–12, §4, Mar. 17, 1987, 101 Stat. 105; Pub. L. 100–357, §2(c), June 28, 1988, 102 Stat. 672; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–486, title I, §123(d), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 109–58, title I, §135(b), Aug. 8, 2005, 119 Stat. 627; Pub. L. 110–140, title III, §§301(b), 302(a), 324(c), Dec. 19, 2007, 121 Stat. 1550, 1551, 1593.)
+(Pub. L. 94–163, title III, §323, Dec. 22, 1975, 89 Stat. 919; Pub. L. 95–619, title IV, §§421, 425(a), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3257, 3265, 3288; Pub. L. 100–12, §4, Mar. 17, 1987, 101 Stat. 105; Pub. L. 100–357, §2(c), June 28, 1988, 102 Stat. 672; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–486, title I, §123(d), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 109–58, title I, §135(b), Aug. 8, 2005, 119 Stat. 627; Pub. L. 110–140, title III, §§301(b), 302(a), 324(c), Dec. 19, 2007, 121 Stat. 1550, 1551, 1593.)
 
 #### Amendments
 
@@ -160,7 +160,7 @@ Subsec. (b)(5). Pub. L. 100–357 added par. (5).
 
 Subsec. (a)(3). Pub. L. 95–619, §§425(a), 691(b)(2), struck out “Except as provided in paragraph (6),” before “The Secretary”, struck out provision requiring proposed test procedures to be published not later than June 30, 1976, with certain excepted cases not required to be published before Sept. 30, 1976 and June 30, 1977, and substituted “Secretary” for “Administrator”.
 
-Subsec. (a)(4). Pub. L. 95–619, §§421(a), 691(b)(2), redesignated provisions formerly classified to subpar. (A), as par. (4) and in par. (4), as so redesignated, struck out “Except as provided in paragraph (6),” before “The Secretary shall”, substituted “Secretary” for “Administrator” in two places, inserted provision requiring the prescription of test procedures not later than Jan. 31, 1978, and struck out subpar. (B) requiring the prescription of test procedures not later than Sept. 30, 1976, with certain excepted cases required to be prescribed not later than Dec. 31, 1976 and Sept. 30 1977.
+Subsec. (a)(4). Pub. L. 95–619, §§421(a), 691(b)(2), redesignated provisions formerly classified to subpar. (A), as par. (4) and in par. (4), as so redesignated, struck out“Except as provided in paragraph (6),” before “The Secretary shall”, substituted “Secretary” for “Administrator” in two places, inserted provision requiring the prescription of test procedures not later than Jan. 31, 1978, and struck out subpar. (B) requiring the prescription of test procedures not later than Sept. 30, 1976, with certain excepted cases required to be prescribed not later than Dec. 31, 1976 and Sept. 30 1977.
 
 Subsec. (a)(5). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator” wherever appearing.
 

@@ -46,7 +46,7 @@ Section 1 of Pub. L. 94–437 provided: “That this Act \[enacting this chapter
 
 #### Separability
 
-Pub. L. 100–713, title VIII, §801, Nov. 23, 1988, 102 Stat. 4839, provided that: “If any provision of this Act, any amendment made by this Act \[see Short Title of 1988 Amendment note above\], or the application of such provision or amendment to any person or circumstances is held to be invalid, the remainder of this Act, the remaining amendments made by this Act, and the application of such provision or amendment to persons or circumstances other than those to which it is held invalid, shall not be affected thereby.”
+Pub. L. 100–713, title VIII, §801, Nov. 23, 1988, 102 Stat. 4839, provided that: “If any provision of this Act, anyamendment made by this Act \[see Short Title of 1988 Amendment note above\], or the application of such provision or amendment to any person or circumstances is held to be invalid, the remainder of this Act, the remaining amendments made by this Act, and the application of such provision or amendment to persons or circumstances other than those to which it is held invalid, shall not be affected thereby.”
 
 #### Availability of Appropriations
 

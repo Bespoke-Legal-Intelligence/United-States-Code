@@ -44,7 +44,7 @@ The purposes and policies of this chapter are—
 
 There is established the National Marine Sanctuary System, which shall consist of national marine sanctuaries designated by the Secretary in accordance with this chapter.
 
-(Pub. L. 92–532, title III, §301, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 96–332, §1, Aug. 29, 1980, 94 Stat. 1057; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2296; Pub. L. 102–587, title II, §2101, Nov. 4, 1992, 106 Stat. 5039; Pub. L. 104–283, §9(a), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §3, Nov. 13, 2000, 114 Stat. 2381.)
+(Pub. L. 92–532, title III, §301, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 96–332, §1, Aug. 29, 1980, 94 Stat. 1057; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2296; Pub. L. 102–587, title II, §2101, Nov. 4, 1992, 106 Stat. 5039; Pub. L. 104–283, §9(a),Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §3, Nov. 13, 2000, 114 Stat. 2381.)
 
 #### Amendments
 
@@ -112,7 +112,7 @@ Section 1 of Pub. L. 104–283 provided that: “This Act \[amending this sectio
 
 Section 1 of Pub. L. 102–587 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Oceans Act of 1992’.”
 
-Section 2001 of title II of Pub. L. 102–587 provided that: “This title \[enacting section 1445a of this title,amending this section and sections 1432 to 1437, 1440, 1442 to 1444, 1452 to 1456b, and 1458 to 1462 of this title, enacting provisions set out as notes under this section and sections 1433, 1442, and 1445 of this title, and amending provisions set out as a note under section 1433 of this title\] may be cited as the ‘National Marine Sanctuaries Program Amendments Act of 1992’.”
+Section 2001 of title II of Pub. L. 102–587 provided that: “This title \[enacting section 1445a of this title, amending this section and sections 1432 to 1437, 1440, 1442 to 1444, 1452 to 1456b, and 1458 to 1462 of this title, enacting provisions set out as notes under this section and sections 1433, 1442, and 1445 of this title, and amending provisions set out as a note under section 1433 of this title\] may be cited as the ‘National Marine Sanctuaries Program Amendments Act of 1992’.”
 
 #### Short Title of 1984 Amendment
 
@@ -166,7 +166,7 @@ Sec. 4. <i>National System of MPAs</i>. (a) To the extent permitted by law and s
 
 (5) practical, science-based criteria and protocols for monitoring and evaluating the effectiveness of MPAs;
 
-(6) identification of emerging threats and user conflicts affecting MPAs and appropriate, practical, and equitable management solutions, including effectiveenforcement strategies, to eliminate or reduce such threats and conflicts;
+(6) identification of emerging threats and user conflicts affecting MPAs and appropriate, practical, and equitable management solutions, including effective enforcement strategies, to eliminate or reduce such threats and conflicts;
 
 (7) assessment of the economic effects of the preferred management solutions; and
 
@@ -178,7 +178,7 @@ Sec. 4. <i>National System of MPAs</i>. (a) To the extent permitted by law and s
 
 (d) The Secretary of Commerce and the Secretary of the Interior shall establish and jointly manage a website for information on MPAs and Federal agency reports required by this order. They shall also publish and maintain a list of MPAs that meet the definition of MPA for the purposes of this order.
 
-(e) The Department of Commerce's National Oceanic and Atmospheric Administration shall establish a Marine Protected Area Center to carry out, in cooperation with the Department of the Interior, the requirements of subsection 4(a) of this order, coordinate the website established pursuant to subsection 4(d) of this order, and partner with governmental and nongovernmental entities to conduct necessary research, analysis, and exploration. The goal of the MPA Center shall be, in cooperation with the Department of the Interior, to develop a framework for a national system of MPAs, and to provide Federal, State, territorial, tribal, and local governments with the information, technologies, and strategies to support the system. This national system framework and the work of the MPA Center is intended to support, not interfere with, agencies’ independent exercise of their own existing authorities.
+(e) The Department of Commerce's National Oceanic and Atmospheric Administration shall establish a Marine Protected Area Center to carry out, in cooperation with the Department of the Interior, the requirements of subsection 4(a) of this order, coordinate the website established pursuant to subsection 4(d) of this order, and partner with governmental and nongovernmental entities to conduct necessary research, analysis, and exploration. The goal of the MPA Center shall be, in cooperation with the Department of the Interior, to develop a framework for a national system of MPAs, and to provide Federal, State, territorial, tribal, and local governments with the information, technologies, andstrategies to support the system. This national system framework and the work of the MPA Center is intended to support, not interfere with, agencies’ independent exercise of their own existing authorities.
 
 (f) To better protect beaches, coasts, and the marine environment from pollution, the Environmental Protection Agency (EPA), relying upon existing Clean Water Act \[33 U.S.C. 1251 et seq.\] authorities, shall expeditiously propose new science-based regulations, as necessary, to ensure appropriate levels of protection for the marine environment. Such regulations may include the identification of areas that warrant additional pollution protections and the enhancement of marine water quality standards. The EPA shall consult with the Federal agencies identified in subsection 4(a) of this order, States, territories, tribes, and the public in the development of such new regulations.
 

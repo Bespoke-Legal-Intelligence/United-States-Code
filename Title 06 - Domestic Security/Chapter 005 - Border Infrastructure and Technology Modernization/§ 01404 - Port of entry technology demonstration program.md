@@ -34,7 +34,7 @@ Under the demonstration program, the Commissioner shall test technologies that e
 
 #### (d) Relationship with other agencies
 
-The Secretary, acting through the Commissioner, shall permit personnel from appropriate Federal agencies to utilize a demonstration site described in subsection (c) to test technologies that enhance port of entry operations, including those related to inspections, communications, port tracking, identification of persons and cargo, sensory devices, personal detection, decision support, and the detection and identification of weapons of mass destruction.
+The Secretary, acting through the Commissioner, shall permit personnel from appropriateFederal agencies to utilize a demonstration site described in subsection (c) to test technologies that enhance port of entry operations, including those related to inspections, communications, port tracking, identification of persons and cargo, sensory devices, personal detection, decision support, and the detection and identification of weapons of mass destruction.
 
 #### (e) Report
 

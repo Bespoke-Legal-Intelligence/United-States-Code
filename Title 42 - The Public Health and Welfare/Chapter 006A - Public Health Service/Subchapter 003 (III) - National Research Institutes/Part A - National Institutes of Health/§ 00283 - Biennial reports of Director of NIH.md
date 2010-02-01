@@ -42,7 +42,7 @@ The Director of NIH shall submit to the Congress on a biennial basis a report in
 
 &emsp;&emsp;&emsp;&emsp;(V) an evaluation and comparison of outcomes and effectiveness of various training programs.
 
-&emsp;&emsp;&emsp;(v) Clinical trials, including a breakdown of participation by study populations and demographic variables and such other information as may be necessary to demonstrate compliance with section 289a–2 of this title (regarding inclusion of women and minorities in clinical research).
+&emsp;&emsp;&emsp;(v) Clinical trials, including a breakdown of participation by study populations anddemographic variables and such other information as may be necessary to demonstrate compliance with section 289a–2 of this title (regarding inclusion of women and minorities in clinical research).
 
 &emsp;&emsp;&emsp;(vi) Translational research activities with other agencies of the Public Health Service.
 
@@ -100,7 +100,7 @@ In addition to reports required by subsections (a) and (b), the Director of NIH 
 
 #### Prior Provisions
 
-A prior section 283, act July 1, 1944, ch. 373, title IV, §403, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 826; amended Pub. L. 100–607, title I, §112, Nov. 4, 1988,102 Stat. 3052, required a biennial report by the Director to the President and Congress, prior to repeal by Pub. L. 109–482, title I, §104(a)(3), Jan. 15, 2007, 120 Stat. 3689.
+A prior section 283, act July 1, 1944, ch. 373, title IV, §403, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 826; amended Pub. L. 100–607, title I, §112, Nov. 4, 1988, 102 Stat. 3052, required a biennial report by the Director to the President and Congress, prior to repeal by Pub. L. 109–482, title I, §104(a)(3), Jan. 15, 2007, 120 Stat. 3689.
 
 #### Amendments
 

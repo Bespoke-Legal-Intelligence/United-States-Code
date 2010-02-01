@@ -48,7 +48,7 @@ Mail order reporting.—(A) As used in this paragraph:
 
 &emsp;(iii) the address to which such ephedrine, pseudoephedrine, or phenylpropanolamine was sent.
 
-(D) Except as provided in subparagraph (E), the following distributions to a nonregulated person, and the following export transactions, shall not be subject to the reporting requirement in subparagraph (B):
+(D) Except as provided in subparagraph (E), the following distributions to a nonregulatedperson, and the following export transactions, shall not be subject to the reporting requirement in subparagraph (B):
 
 &emsp;(i) Distributions of sample packages of drug products when such packages contain not more than two solid dosage units or the equivalent of two dosage units in liquid form, not to exceed 10 milliliters of liquid per package, and not more than one package is distributed to an individual or residential address in any 30-day period.
 
@@ -104,7 +104,7 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 &emsp;&emsp;Each regulated seller shall ensure that, subject to subparagraph (F), sales by such seller of a scheduled listed chemical product at retail are made in accordance with the following:
 
-&emsp;&emsp;&emsp;(i) In offering the product for sale, the seller places the product such that customers do not have direct access to the product before the sale is made (in this paragraph referred to as “behind-the-counter” placement). For purposes of this paragraph, a behind-the-counter placement of a product includes circumstances in which the product is stored in a locked cabinet that is located in an area of the facility involved to which customers do have direct access.
+&emsp;&emsp;&emsp;(i) In offering the product for sale, the seller places the product such that customers do not have direct access to the product before the sale is made (in this paragraph referred to as “behind-the-counter” placement). For purposes of this paragraph, a behind-the-counter placement of a product includes circumstances in which the product is stored in a lockedcabinet that is located in an area of the facility involved to which customers do have direct access.
 
 &emsp;&emsp;&emsp;(ii) The seller delivers the product directly into the custody of the purchaser.
 
@@ -140,7 +140,7 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 &emsp;&emsp;&emsp;(vii) In the case of individuals who are responsible for delivering such products into the custody of purchasers or who deal directly with purchasers by obtaining payments for the products, the seller has submitted to the Attorney General a self-certification that all such individuals have, in accordance with criteria under subparagraph (B)(ii), undergone training provided by the seller to ensure that the individuals understand the requirements that apply under this subsection and subsection (d).
 
-&emsp;&emsp;&emsp;(viii) The seller maintains a copy of such certification and records demonstrating that individuals referred to in clause (vii) have undergone the training.
+&emsp;&emsp;&emsp;(viii) The seller maintains a copy of such certification and records demonstratingthat individuals referred to in clause (vii) have undergone the training.
 
 &emsp;&emsp;&emsp;(ix) If the seller is a mobile retail vendor:
 
@@ -262,7 +262,7 @@ Subsec. (b). Pub. L. 103–200, §10, designated existing provisions as par. (1)
 
 Subsec. (c)(2)(D). Pub. L. 103–200, §2(c)(2), substituted “chemical control laws” for “precursor chemical laws”.
 
-1988—Pub. L. 100–690 amended section generally, substituting provisions relating to regulation of listed chemicals and certain machines for provisions relatingto reporting by any person who distributes, sells, or imports any piperidine.
+1988—Pub. L. 100–690 amended section generally, substituting provisions relating to regulation of listed chemicals and certain machines for provisions relating to reporting by any person who distributes, sells, or imports any piperidine.
 
 #### Effective Date of 2006 Amendment
 

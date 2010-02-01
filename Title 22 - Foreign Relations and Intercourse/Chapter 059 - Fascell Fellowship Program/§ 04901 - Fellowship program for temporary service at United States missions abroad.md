@@ -34,7 +34,7 @@ Subsec. (d). Pub. L. 101–454, §9(b)(3), substituted “international affairs,
 
 #### Short Title of 1990 Amendment
 
-Section 9(a) of Pub. L. 101–454 provided that: “This section \[amending this section and sections 4902 and 4904 of this title, and enacting provisions set out as a note under section 4902 of this title\] may be cited as the ‘Fascell Fellowship Amendments Act of 1990’.”
+Section 9(a) of Pub. L. 101–454 provided that: “This section \[amending this section and sections 4902 and4904 of this title, and enacting provisions set out as a note under section 4902 of this title\] may be cited as the ‘Fascell Fellowship Amendments Act of 1990’.”
 
 #### Short Title
 

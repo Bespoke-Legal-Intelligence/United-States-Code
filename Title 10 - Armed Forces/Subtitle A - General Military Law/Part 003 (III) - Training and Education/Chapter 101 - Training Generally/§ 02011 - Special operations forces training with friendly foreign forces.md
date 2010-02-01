@@ -12,7 +12,7 @@ Authority To Pay Training Expenses.—Under regulations prescribed pursuant to s
 
 (b)
 
-Purpose of Training.—The primary purpose of the training for which payment may be made under subsection (a) shall be to train the special operations forces of the combatant command.
+Purpose of Training.—The primary purpose of the training for which payment may bemade under subsection (a) shall be to train the special operations forces of the combatant command.
 
 (c)
 

@@ -110,7 +110,7 @@
 
 (f) If a Member heretofore or hereafter separated from the service with title to deferred annuity from the Fund hereafter dies before having established a valid claim for annuity and is survived by a spouse to whom married at the date of separation, the surviving spouse—
 
-&emsp;(1) is entitled to an annuity equal to 55 percent of the deferred annuity of the Member commencing on the day after the Member dies and terminating on the last day of the month before the surviving spouse dies or remarries; or
+&emsp;(1) is entitled to an annuity equal to 55 percent of the deferred annuity of the Membercommencing on the day after the Member dies and terminating on the last day of the month before the surviving spouse dies or remarries; or
 
 &emsp;(2) may elect to receive the lump-sum credit instead of annuity if the spouse is the individual who would be entitled to the lump-sum credit and files application therefor with the Office before the award of the annuity.
 
@@ -422,7 +422,7 @@ Section 4 of Pub. L. 98–615, as amended by Pub. L. 99–251, title II, §201(a
 
 &emsp;“(B) with respect to periods beginning on or after such date.
 
-“(4)(A) Except as provided in subparagraph (B), the amendment made by section 2(3)(A) of this Act \[amending section 8339 of this title\] (but only to the extentthat it amends title 5, United States Code, by adding a new section 8339(j)(5)(C)) and the amendment made by section 2(3)(C) of this Act \[amending section 8339 of this title\] (which relate to the election of a survivor annuity for a spouse in the case of a post-retirement marriage or remarriage) shall apply—
+“(4)(A) Except as provided in subparagraph (B), the amendment made by section 2(3)(A) of this Act \[amending section 8339 of this title\] (but only to the extent that it amends title 5, United States Code, by adding a new section 8339(j)(5)(C)) and the amendment made by section 2(3)(C) of this Act \[amending section 8339 of this title\] (which relate to the election of a survivor annuity for a spouse in the case of a post-retirement marriage or remarriage) shall apply—
 
 &emsp;“(i) to an employee or Member who retires before, on, or after May 7, 1985; and
 
@@ -446,7 +446,7 @@ Section 4 of Pub. L. 98–615, as amended by Pub. L. 99–251, title II, §201(a
 
 “(6) The amendment made by section 2(4)(A) of this Act \[amending section 8341 of this title\] (relating to the definition of a widow or widower) and the amendment made by section 2(4)(G) of this Act (but only to the extent that it amends title 5, United States Code, by adding a new section 8341(i)) shall apply with respect to any marriage occurring on or after the date of the enactment of this Act \[Nov. 8, 1984\].
 
-“(b)(1) Notwithstanding subsection (a)(1) of this section, a former spouse of an employee or Member who retired before May 7, 1985, or who died after becoming eligible to retire and before such date, is entitled to a survivor annuity under section 8341(b) of title 5, United States Code, as amended by this Act, if—
+“(b)(1) Notwithstanding subsection (a)(1) of this section, a former spouse of an employee or Member who retired before May 7, 1985, or who died after becomingeligible to retire and before such date, is entitled to a survivor annuity under section 8341(b) of title 5, United States Code, as amended by this Act, if—
 
 &emsp;“(A) the retired employee or Member elects, in writing, within eighteen months after the date of enactment of this Act, according to procedures prescribed by the Office of Personnel Management, to have the annuity of such employee or Member reduced under section 8339(j) of title 5, United States Code, as amended by this Act, and, except as provided in paragraph (3) of this subsection, to deposit in the Civil Service Retirement and Disability Fund an amount determined by the Office, as nearly as may be administratively feasible, to reflect the amount by which such employee or Member's annuity would have been reduced had the reduction been in effect since such employee or Member's annuity commenced, plus interest computed at the annual rate of six percent for each year during which the annuity would have been reduced if the election had been in effect on and after the date the annuity commenced; or
 
@@ -496,7 +496,7 @@ Section 4 of Pub. L. 98–615, as amended by Pub. L. 99–251, title II, §201(a
 
 “(e) The Office shall determine at the end of each fiscal year—
 
-&emsp;“(1) the cost of survivor annuities provided under subsections (b) and (c) of this section, less an amount determined appropriate by the Office to reflect the value of any deposits made under subsection (b)(1)(A), (c), or (d), and
+&emsp;“(1) the cost of survivor annuities provided under subsections (b) and (c) of this section, less an amount determined appropriate by the Office to reflect thevalue of any deposits made under subsection (b)(1)(A), (c), or (d), and
 
 &emsp;“(2) the cost of administering subsections (b) and (c).
 
@@ -528,7 +528,7 @@ Amendment by Pub. L. 98–353 effective July 10, 1984, see section 122(a) of Pub
 
 #### Effective Date of 1980 Amendment
 
-Section 5(a) of Pub. L. 96–179 provided that: “The amendments made by the first section \[amending this section\] and section 2 of this Act \[amending section 8901 of this title\] shall take effect on the date of the enactment of this Act \[Jan. 2, 1980\], except that no benefits under chapter 89 of title 5, United States Code,made available by reason of such amendments shall be payable for any period before October 1, 1979.”
+Section 5(a) of Pub. L. 96–179 provided that: “The amendments made by the first section \[amending this section\] and section 2 of this Act \[amending section 8901 of this title\] shall take effect on the date of the enactment of this Act \[Jan. 2, 1980\], except that no benefits under chapter 89 of title 5, United States Code, made available by reason of such amendments shall be payable for any period before October 1, 1979.”
 
 #### Effective Date of 1978 Amendments
 

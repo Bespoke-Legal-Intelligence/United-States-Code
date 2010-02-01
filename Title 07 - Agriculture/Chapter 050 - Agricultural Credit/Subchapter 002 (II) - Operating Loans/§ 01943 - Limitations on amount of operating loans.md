@@ -4,7 +4,7 @@
 
 The Secretary shall make or insure no loan under this subchapter—
 
-&emsp;(1) that would cause the total principal indebtedness outstanding at any one time for loans made under this subchapter to any one borrower to exceed, in the case of a loan other than a loan guaranteed by the Secretary, $300,000, or, in the case of a loan guaranteed bythe Secretary, $700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the unpaid indebtedness of the borrower on loans under the sections specified in section 1925 of this title that are guaranteed by the Secretary); or
+&emsp;(1) that would cause the total principal indebtedness outstanding at any one time for loans made under this subchapter to any one borrower to exceed, in the case of a loan other than a loan guaranteed by the Secretary, $300,000, or, in the case of a loan guaranteed by the Secretary, $700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the unpaid indebtedness of the borrower on loans under the sections specified in section 1925 of this title that are guaranteed by the Secretary); or
 
 &emsp;(2) for the purchasing or leasing of land other than for cash rent, or for carrying on any land leasing or land purchasing program.
 

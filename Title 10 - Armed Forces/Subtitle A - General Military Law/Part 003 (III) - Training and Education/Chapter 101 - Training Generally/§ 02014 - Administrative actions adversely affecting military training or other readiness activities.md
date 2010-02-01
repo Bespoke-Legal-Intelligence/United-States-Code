@@ -6,7 +6,7 @@ Congressional Notification.—Whenever an official of an Executive agency takes 
 
 (b)
 
-Notification To Be Prompt.—(1) Subject to paragraph (2), the Secretary shall submit awritten notification of an administrative action or proposed administrative action required by subsection (a) as soon as possible after the Secretary becomes aware of the action or proposed action.
+Notification To Be Prompt.—(1) Subject to paragraph (2), the Secretary shall submit a written notification of an administrative action or proposed administrative action required by subsection (a) as soon as possible after the Secretary becomes aware of the action or proposed action.
 
 (2) The Secretary shall prescribe policies and procedures to ensure that the Secretary receives information on an administrative action or proposed administrative action described in subsection (a) promptly after Department of Defense personnel receive notice of such an action or proposed action.
 
@@ -16,7 +16,7 @@ Consultation Between Secretary and Head of Executive Agency.—Upon notification
 
 &emsp;(1) respond promptly to the Secretary; and
 
-&emsp;(2) consistent with the urgency of the training or readiness activity involved and the provisions of law under which the administrative action or proposed administrative action is being taken, seek to reach an agreement with the Secretary on immediate actions to attain the objective of the administrative action or proposed administrative action in a manner which eliminates or mitigates the adverse effects of the administrative action or proposed administrative action upon the training or readiness activity.
+&emsp;(2) consistent with the urgency of the training or readiness activity involved and the provisions of law under which the administrative action or proposed administrative action is being taken, seek to reach an agreement with the Secretary on immediate actions to attainthe objective of the administrative action or proposed administrative action in a manner which eliminates or mitigates the adverse effects of the administrative action or proposed administrative action upon the training or readiness activity.
 
 (d)
 

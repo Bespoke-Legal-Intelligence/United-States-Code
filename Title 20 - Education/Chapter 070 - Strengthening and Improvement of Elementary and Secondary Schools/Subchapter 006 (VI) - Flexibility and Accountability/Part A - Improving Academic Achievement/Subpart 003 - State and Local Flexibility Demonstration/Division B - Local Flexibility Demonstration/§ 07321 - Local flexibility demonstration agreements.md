@@ -60,7 +60,7 @@ Each local flexibility demonstration agreement entered into with the Secretary u
 
 #### (4) Use of funds to improve student achievement
 
-&emsp;The local flexibility demonstration agreement shall contain a 5-year plan describing how the local educational agency intends to consolidate and use the funds from programs included in the scope of the agreement for any educational purpose authorized under this chapter to advance the education priorities of the local educational agency, meet the general purposes of the included programs, improve student achievement, and narrow achievement gaps in accordance with section 6311(b) of this title.
+&emsp;The local flexibility demonstration agreement shall contain a 5-year plan describinghow the local educational agency intends to consolidate and use the funds from programs included in the scope of the agreement for any educational purpose authorized under this chapter to advance the education priorities of the local educational agency, meet the general purposes of the included programs, improve student achievement, and narrow achievement gaps in accordance with section 6311(b) of this title.
 
 #### (5) Local input
 

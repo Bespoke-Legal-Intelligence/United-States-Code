@@ -12,7 +12,7 @@ The total amount of contributions by the Secretary of the Interior under the aut
 
 #### (c) Limitation on use of contribution
 
-The amounts contributed by the Secretary of the Interior under the authority of this chapter and the equally matched amounts contributed by the Commonwealth shall not be used for operating and maintaining projects constructed pursuant to this chapter or for the purchase of culm, rock, or spoil banks;
+The amounts contributed by the Secretary of the Interior under the authority of this chapterand the equally matched amounts contributed by the Commonwealth shall not be used for operating and maintaining projects constructed pursuant to this chapter or for the purchase of culm, rock, or spoil banks;
 
 #### (d) Commonwealth responsible for installation and operation of projects
 

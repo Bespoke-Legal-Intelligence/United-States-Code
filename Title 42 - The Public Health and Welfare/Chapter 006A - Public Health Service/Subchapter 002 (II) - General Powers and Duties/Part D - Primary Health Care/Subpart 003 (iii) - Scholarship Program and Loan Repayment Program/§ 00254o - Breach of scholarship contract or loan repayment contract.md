@@ -8,7 +8,7 @@
 
 &emsp;(B) is dismissed from such educational institution for disciplinary reasons; or
 
-&emsp;(C) voluntarily terminates the training in such an educational institution for which he isprovided a scholarship under such contract, before the completion of such training,
+&emsp;(C) voluntarily terminates the training in such an educational institution for which he is provided a scholarship under such contract, before the completion of such training,
 
 > in lieu of any service obligation arising under such contract, shall be liable to the United States for the amount which has been paid to him, or on his behalf, under the contract.
 
@@ -32,7 +32,7 @@
 
 > in which “A” is the amount the United States is entitled to recover, “φ” is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States; “t” is the total number of months in the individual's period of obligated service; and “s” is the number of months of such period served by him in accordance with section 254m of this title or a written agreement under section 254n of this title.
 
-(B)(i) Any amount of damages that the United States is entitled to recover under this subsection or under subsection (c) of this section shall, within the 1-year period beginning on the date of the breach of the written contract (or such longer period beginning on such date as specified by the Secretary), be paid to the United States. Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to section 1395ccc of this title.
+(B)(i) Any amount of damages that the United States is entitled to recover under this subsection or under subsection (c) of this section shall, within the 1-year period beginning on the date of the breach of the written contract (or such longer period beginning on such date asspecified by the Secretary), be paid to the United States. Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to section 1395ccc of this title.
 
 (ii) If damages described in clause (i) are delinquent for 3 months, the Secretary shall, for the purpose of recovering such damages—
 
@@ -58,7 +58,7 @@
 
 &emsp;(A) the total of the amounts paid by the United States under section 254<i>l</i>–1(g) of this title on behalf of the individual for any period of obligated service not served;
 
-&emsp;(B) an amount equal to the product of the number of months of obligated service thatwere not completed by the individual, multiplied by $7,500; and
+&emsp;(B) an amount equal to the product of the number of months of obligated service that were not completed by the individual, multiplied by $7,500; and
 
 &emsp;(C) the interest on the amounts described in subparagraphs (A) and (B), at the maximum legal prevailing rate, as determined by the Treasurer of the United States, from the date of the breach;
 
@@ -146,7 +146,7 @@ Subsec. (a). Pub. L. 100–177, §202(e)(1), designated existing provisions as p
 
 Subsec. (b)(1). Pub. L. 100–177, §202(e)(2), designated existing provisions as subpar. (A), made technical amendments to references to sections 254m, 254n, and 254p of this title wherever appearing to reflect renumbering of corresponding sections of original act, inserted “under section 254<i>l</i> of this title” after first reference to “service obligation” as the probable intent of Congress, struck out at end “Any amount of damages which the United States is entitled to recover under this subsection shall, within the one year period beginning on the date of the breach of the written contract (or such longer period beginning on such date as specified by the Secretary for good cause shown), be paid to the United States.”, and added subpar. (B).
 
-Subsec. (b)(1)(B)(i). Pub. L. 100–203, as amended by Pub. L. 100–360, inserted at end “Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to section 1395ccc of this title.”
+Subsec. (b)(1)(B)(i). Pub. L. 100–203, as amended by Pub. L. 100–360, inserted at end “Amounts not paidwithin such period shall be subject to collection through deductions in Medicare payments pursuant to section 1395ccc of this title.”
 
 Subsec. (c). Pub. L. 100–177, §202(e)(4), added subsec. (c). Former subsec. (c) redesignated (d).
 

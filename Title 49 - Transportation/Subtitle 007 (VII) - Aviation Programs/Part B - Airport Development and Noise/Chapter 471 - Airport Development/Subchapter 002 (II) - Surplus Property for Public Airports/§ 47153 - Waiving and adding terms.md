@@ -12,7 +12,7 @@ General Authority.—(1) The Secretary of Transportation may waive, without char
 
 (b)
 
-Waivers and Inclusion of Additional Terms on Request.—On request of the Secretary of Transportation or the Secretary of a military department, a department, agency, or instrumentality of the executive branch of the United States Government or a wholly ownedGovernment corporation may waive a term required by section 47152 of this title or add another term if the appropriate Secretary decides it is necessary to protect or advance the interests of the United States in civil aviation or for national defense.
+Waivers and Inclusion of Additional Terms on Request.—On request of the Secretary of Transportation or the Secretary of a military department, a department, agency, or instrumentality of the executive branch of the United States Government or a wholly owned Government corporation may waive a term required by section 47152 of this title or add another term if the appropriate Secretary decides it is necessary to protect or advance the interests of the United States in civil aviation or for national defense.
 
 (c)
 

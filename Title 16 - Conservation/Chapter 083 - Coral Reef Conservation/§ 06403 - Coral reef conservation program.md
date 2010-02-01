@@ -12,7 +12,7 @@ The Secretary, through the Administrator and subject to the availability of fund
 
 #### (2) Waiver
 
-&emsp;The Administrator may waive all or part of the matching requirement under paragraph (1) if the Administrator determines that no reasonable means are available through which applicants can meet the matching requirement and the probable benefit of such project outweighs the public interest in such matching requirement.
+&emsp;The Administrator may waive all or part of the matching requirement under paragraph (1)if the Administrator determines that no reasonable means are available through which applicants can meet the matching requirement and the probable benefit of such project outweighs the public interest in such matching requirement.
 
 #### (c) Eligibility
 
@@ -58,7 +58,7 @@ Each proposal for a grant under this section shall include the following:
 
 &emsp;Not later than 6 months after receiving a project proposal under this section, the Administrator shall—
 
-&emsp;&emsp;(A) request and consider written comments on the proposal from each Federal agency, State government, or other government jurisdiction, including the relevant regional fishery management councils established under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), or any National MarineSanctuary, with jurisdiction or management authority over coral reef ecosystems in the area where the project is to be conducted, including the extent to which the project is consistent with locally-established priorities;
+&emsp;&emsp;(A) request and consider written comments on the proposal from each Federal agency, State government, or other government jurisdiction, including the relevant regional fishery management councils established under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), or any National Marine Sanctuary, with jurisdiction or management authority over coral reef ecosystems in the area where the project is to be conducted, including the extent to which the project is consistent with locally-established priorities;
 
 &emsp;&emsp;(B) provide for the merit-based peer review of the proposal and require standardized documentation of that peer review;
 

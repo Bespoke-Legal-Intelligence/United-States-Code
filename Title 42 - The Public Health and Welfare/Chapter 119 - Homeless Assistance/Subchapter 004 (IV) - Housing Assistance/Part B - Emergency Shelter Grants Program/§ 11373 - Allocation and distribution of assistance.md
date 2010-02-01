@@ -10,7 +10,7 @@ If, under the allocation provisions applicable under this part, any metropolitan
 
 #### (c) Distributions to nonprofit organizations
 
-Any local government receiving assistance under this part may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals. Any State receiving assistance under thispart may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals, if the local government for the locality in which the project is located certifies that it approves of the project.
+Any local government receiving assistance under this part may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals. Any State receiving assistance under this part may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals, if the local government for the locality in which the project is located certifies that it approves of the project.
 
 #### (d) Reallocation of funds
 
@@ -24,7 +24,15 @@ Any local government receiving assistance under this part may distribute all or 
 
 In addition to the other allocations required in this section, the Secretary shall (for amounts appropriated after July 22, 1987) allocate assistance under this part to the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States, in accordance with an allocation formula established by the Secretary.
 
-(Pub. L. 100–77, title IV, §413, July 22, 1987, 101 Stat. 496; Pub. L. 100–628, title IV, §421, Nov. 7, 1988, 102 Stat. 3231; Pub. L. 101–625, title VIII, §832(f)(3)–(5), Nov. 28, 1990, 104 Stat. 4361; Pub. L. 104–330, title V, §506(a)(3), Oct. 26, 1996, 110 Stat. 4044.)
+(Pub. L. 100–77, title IV, §413, July 22, 1987, 101 Stat. 496; Pub. L. 100–628, title IV, §421, Nov. 7,1988, 102 Stat. 3231; Pub. L. 101–625, title VIII, §832(f)(3)–(5), Nov. 28, 1990, 104 Stat. 4361; Pub. L. 104–330, title V, §506(a)(3), Oct. 26, 1996, 110 Stat. 4044; Pub. L. 111–22, div. B, title II, §1201(3), (5), May 20, 2009, 123 Stat. 1678, 1679.)
+
+#### Renumbering of Section and Amendment of Subsection (b)
+
+<i>Pub. L. 111–22, div. B, title II, §1201(3), (5), title V, §1503, May 20, 2009, 123 Stat. 1678, 1679, 1702, provided that, effective on, and applicable beginning on, the earlier of the expiration of the 18-month period beginning on May 20, 2009, or the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 of Pub. L. 111–22:</i>
+
+<i>(1) section 413 of Pub. L. 100–77, which is classified to this section, is renumbered as section 414 of Pub. L. 100–77; and</i>
+
+<i>(2) subsection (b) of this section is amended by substituting “amounts appropriated under section 11364 of this title and made available to carry out this part for any” for “amounts appropriated to carry out this part for any”.</i>
 
 #### Amendments
 
@@ -45,6 +53,10 @@ Subsec. (d)(3). Pub. L. 101–625, §832(f)(5), inserted “or Indian tribe” a
 1988—Subsec. (a). Pub. L. 100–628, §421(a), inserted “and private nonprofit organizations” after “local governments”.
 
 Subsec. (c). Pub. L. 100–628, §421(b), inserted at end “Any State receiving assistance under this part may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals, if the local government for the locality in which the project is located certifies that it approves of the project.”
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–22 effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as a note under section 11302 of this title.
 
 #### Effective Date of 1996 Amendment
 

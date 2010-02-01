@@ -74,7 +74,7 @@ The Attorney General already has responsibility with respect to a major portion 
 
 In the light of these facts, the accompanying reorganization plan would transfer the functions of the Community Relations Service and of its Director to the Attorney General. In so providing, the plan, of course, follows the established pattern of Federal organization by vesting all the transferred powers in the head of the department. The Attorney General will provide for the organization of the Community Relations Service as a separate unit within the Department of Justice.
 
-The functions transferred by the reorganization plan would be carried out with full regard for the provisions of section 1003 of title X of the Civil Rights Act of 1964 relating to (1) cooperation with appropriate State or local, public, or private agencies; (2) the confidentiality of information acquired with the understanding that itwould be so held; and (3) the limitation on the performance of investigative or prosecutive functions by personnel of the Service.
+The functions transferred by the reorganization plan would be carried out with full regard for the provisions of section 1003 of title X of the Civil Rights Act of 1964 relating to (1) cooperation with appropriate State or local, public, or private agencies; (2) the confidentiality of information acquired with the understanding that it would be so held; and (3) the limitation on the performance of investigative or prosecutive functions by personnel of the Service.
 
 This transfer will benefit both the Department of Justice and the Community Relations Service in the fulfillment of their existing functions.
 

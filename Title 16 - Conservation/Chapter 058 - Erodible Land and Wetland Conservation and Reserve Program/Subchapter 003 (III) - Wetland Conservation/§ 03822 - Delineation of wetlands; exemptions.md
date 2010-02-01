@@ -102,7 +102,7 @@ For purposes of applying the minimal effect exemption under subsection (f)(1) of
 
 #### (e) Nonwetlands
 
-The Secretary shall exempt from the ineligibility provisions of section 3821 of this title any action by a person upon lands in any case inwhich the Secretary determines that any one of the following does not apply with respect to such lands:
+The Secretary shall exempt from the ineligibility provisions of section 3821 of this title any action by a person upon lands in any case in which the Secretary determines that any one of the following does not apply with respect to such lands:
 
 &emsp;(1) Such lands have a predominance of hydric soils.
 
@@ -138,7 +138,7 @@ The Secretary shall exempt a person from the ineligibility provisions of section
 
 &emsp;&emsp;&emsp;(iii) prohibits making alterations to the restored, enhanced, or created wetland that lower the wetland's functions and values.
 
-&emsp;(3) The wetland was converted after December 23, 1985, but before November 28, 1990, and the wetland values, acreage, and functions are mitigated by the producer through the requirements of subparagraphs (A), (B), (C), (D), (F), and (G) of paragraph (2).
+&emsp;(3) The wetland was converted after December 23, 1985, but before November 28, 1990, and the wetland values, acreage, and functions aremitigated by the producer through the requirements of subparagraphs (A), (B), (C), (D), (F), and (G) of paragraph (2).
 
 &emsp;(4) The action was authorized by a permit issued under section 1344 of title 33 and the wetland values, acreage, and functions of the converted wetland were adequately mitigated for the purposes of this subchapter.
 
@@ -208,7 +208,7 @@ Subsec. (j). Pub. L. 104–127, §322(h), added subsec. (j) and struck out headi
 
 Subsec. (k). Pub. L. 104–127, §322(i), added subsec. (k).
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to eligibility for program benefits in connection with production of crops on certain wetlands, making program ineligibility inapplicable to pre-Dec. 23, 1985, section 3821 loans, and providing for personal exemptions from program ineligibility for actions associated with production of commodities having minimal wetland effect.
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating toeligibility for program benefits in connection with production of crops on certain wetlands, making program ineligibility inapplicable to pre-Dec. 23, 1985, section 3821 loans, and providing for personal exemptions from program ineligibility for actions associated with production of commodities having minimal wetland effect.
 
 #### Effective Date of 2008 Amendment
 

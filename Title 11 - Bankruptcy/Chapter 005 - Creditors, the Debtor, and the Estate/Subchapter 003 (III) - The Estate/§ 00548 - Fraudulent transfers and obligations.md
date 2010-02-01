@@ -88,7 +88,7 @@ The trustee of a partnership debtor may avoid any transfer of partnership proper
 
 If a transferee's only liability to the trustee is under this section, and if he takes for value and in good faith, then subsection (c) grants him a lien on the property transferred, or other similar protection.
 
-Subsection (d) specifies that for the purposes of fraudulent transfer section, a transfer is made when it is valid against a subsequent bona fide purchaser. If not made before the commencement of the case, it is considered made immediately before then. Subsection (d) also defines “value” to mean property, or the satisfaction or securing of a present or antecedent debt, but does not include an unperformed promise to furnish support to the debtor or a relative of the debtor.
+Subsection (d) specifies that for the purposes of fraudulent transfer section, a transfer is made when it is valid against a subsequent bona fide purchaser. If not made before the commencement of the case, it is considered made immediately before then. Subsection (d) also defines “value” to mean property, or the satisfaction or securing of a present or antecedent debt, butdoes not include an unperformed promise to furnish support to the debtor or a relative of the debtor.
 
 #### References in Text
 

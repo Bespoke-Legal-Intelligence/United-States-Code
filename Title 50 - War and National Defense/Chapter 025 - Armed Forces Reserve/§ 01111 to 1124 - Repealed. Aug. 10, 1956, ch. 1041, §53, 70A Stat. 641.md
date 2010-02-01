@@ -8,7 +8,7 @@ Section 1113, act July 9, 1952, ch. 608, pt. VII, §703, 66 Stat. 502, related t
 
 Section 1114, act July 9, 1952, ch. 608, pt. VII, §704, 66 Stat. 502, related to temporary extension of Federal recognition to any officer of National Guard or Air National Guard. See sections 12211 and 12212 of Title 10, Armed Forces, and section 308 of Title 32, National Guard.
 
-Section 1115, act July 9, 1952, ch. 608, pt. VII, §705, 66 Stat. 502, related to transfers from Army Reserve or Air Force Reserve to National Guard or Air NationalGuard. See sections 12107, 12211, and 12212 of Title 10, Armed Forces, and section 307 of Title 32, National Guard.
+Section 1115, act July 9, 1952, ch. 608, pt. VII, §705, 66 Stat. 502, related to transfers from Army Reserve or Air Force Reserve to National Guard or Air National Guard. See sections 12107, 12211, and 12212 of Title 10, Armed Forces, and section 307 of Title 32, National Guard.
 
 Section 1116, act July 9, 1952, ch. 608, pt. VII, §706, 66 Stat. 503, related to transfers from National Guard or Air National Guard to Army Reserve or Air Force Reserve. See sections 12105, 12213, and 12214 of Title 10, Armed Forces, and section 323 of Title 32, National Guard.
 
@@ -18,7 +18,7 @@ Section 1118, acts July 9, 1952, ch. 608, pt. VII, §708, 66 Stat. 503; Sept. 3,
 
 Section 1119, act July 9, 1952, ch. 608, pt. VII, §709, 66 Stat. 503, provided for training in State status. See sections 10107, 10113, and 12401 of Title 10.
 
-Section 1120, act July 9, 1952, ch. 608, pt. VII, §710, 66 Stat. 503, provided for relief from National Guard duty when ordered to active duty. See section 325 of Title 32, National Guard.
+Section 1120, act July 9, 1952, ch. 608, pt. VII, §710, 66 Stat. 503, provided for relief from National Guard dutywhen ordered to active duty. See section 325 of Title 32, National Guard.
 
 Section 1121, act July 9, 1952, ch. 608, pt. VII, §711, 66 Stat. 504, related to relief from liability for issued United States property. See section 704 of Title 32.
 

@@ -10,7 +10,7 @@ The Administrator shall conduct the program under this section, in part by award
 
 #### (c) Assessment
 
-The Administrator shall enter into an arrangement with the National Research Council for an assessment of the Nation's future requirements for fundamental aeronautics research and whether the Nation will have a skilled research workforce and research facilities commensurate with those requirements. The assessment shall include an identification of any projected gaps, and recommendations for what steps should be taken by the Federal Government to eliminate those gaps.
+The Administrator shall enter into an arrangement with the National Research Council for an assessment of the Nation's future requirements for fundamental aeronautics research and whether the Nation will have a skilled research workforce and research facilities commensurate with those requirements. The assessment shall include an identification of any projected gaps, and recommendations for what steps should betaken by the Federal Government to eliminate those gaps.
 
 #### (d) Report
 

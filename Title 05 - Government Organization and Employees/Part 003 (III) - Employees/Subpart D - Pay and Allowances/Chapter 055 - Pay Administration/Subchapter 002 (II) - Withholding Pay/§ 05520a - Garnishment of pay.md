@@ -58,7 +58,7 @@
 
 &emsp;(C) by the Chief Justice of the United States or his designee for the judicial branch of the Government.
 
-(2) Such regulations shall provide that an agency's administrative costs in executing a garnishment action may be added to the garnishment, and that the agency may retain costs recovered as offsetting collections.
+(2) Such regulations shall provide that an agency's administrative costs in executing agarnishment action may be added to the garnishment, and that the agency may retain costs recovered as offsetting collections.
 
 (k)(1) No later than 180 days after the date of the enactment of this Act, the Secretaries of the Executive departments concerned shall promulgate regulations to carry out the purposes of this section with regard to members of the uniformed services.
 

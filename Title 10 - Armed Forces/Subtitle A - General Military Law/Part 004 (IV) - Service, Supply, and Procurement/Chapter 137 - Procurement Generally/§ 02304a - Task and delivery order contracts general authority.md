@@ -42,7 +42,7 @@ Single and Multiple Contract Awards.—(1) The head of an agency may exercise th
 
 &emsp;(iv) because of exceptional circumstances, it is necessary in the public interest to award the contract to a single source.
 
-(B) The head of the agency shall notify Congress within 30 days after any determination under subparagraph (A)(iv).
+(B) The head of the agency shall notify the congressional defense committees within 30 days after any determination under clause (i), (ii), (iii), or (iv) of subparagraph (A).
 
 (4) The regulations implementing this subsection shall—
 
@@ -66,13 +66,15 @@ Inapplicability to Contracts for Advisory and Assistance Services.—Except as o
 
 Relationship to Other Contracting Authority.—Nothing in this section may be construed to limit or expand any authority of the head of an agency or the Administrator of General Services to enter into schedule, multiple award, or task or delivery order contracts under any other provision of law.
 
-(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3249; amended Pub. L. 108–136, div. A, title VIII, §843(b), Nov. 24, 2003, 117 Stat. 1553; Pub. L. 108–375, div. A, title VIII, §813(a), Oct. 28, 2004, 118 Stat. 2014; Pub. L. 110–181, div. A, title VIII, §843(a)(1), Jan. 28, 2008, 122 Stat. 236.)
+(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3249; amended Pub. L. 108–136, div. A, title VIII, §843(b), Nov. 24, 2003, 117 Stat. 1553; Pub. L. 108–375, div. A, title VIII, §813(a), Oct. 28, 2004, 118 Stat. 2014; Pub. L. 110–181, div. A, title VIII, §843(a)(1), Jan. 28, 2008, 122 Stat. 236; Pub. L. 111–84, div. A, title VIII, §814(a), Oct. 28, 2009, 123 Stat. 2407.)
 
 #### Codification
 
 Another section 2304a was renumbered section 2304e of this title.
 
 #### Amendments
+
+2009—Subsec. (d)(3)(B). Pub. L. 111–84 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The head of the agency shall notify Congress within 30 days after any determination under subparagraph (A)(iv).”
 
 2008—Subsec. (d)(3), (4). Pub. L. 110–181 added par. (3) and redesignated former par. (3) as (4).
 
@@ -87,6 +89,14 @@ Pub. L. 110–181, div. A, title VIII, §843(a)(3)(A), Jan. 28, 2008, 122 Stat. 
 #### Effective Date
 
 For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of Title 41, Public Contracts.
+
+#### Congressional Intelligence Committees
+
+Pub. L. 111–84, div. A, title VIII, §814(b), Oct. 28, 2009, 123 Stat. 2407, provided that: “In the case of a task or delivery order contract awarded with respect to intelligence activities of the Department of Defense, any notification provided under subparagraph (B) of section 2304a(d)(3) of title 10, United States Code, as amended by subsection (a), shall also be provided at the same time as notification is provided to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] under that subparagraph—
+
+&emsp;“(1) to the Permanent Select Committee on Intelligence of the House of Representatives insofar as such task or delivery order contract relates to tactical intelligence and intelligence-related activities of the Department; and
+
+&emsp;“(2) to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives insofar as such task or delivery order contract relates to intelligence and intelligence-related activities of the Department other than those specified in paragraph (1).”
 
 #### Provisions Not Affected by Pub. L. 103–355
 

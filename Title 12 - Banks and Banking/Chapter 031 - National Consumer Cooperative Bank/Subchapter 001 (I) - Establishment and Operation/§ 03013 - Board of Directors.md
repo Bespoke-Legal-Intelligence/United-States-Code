@@ -26,7 +26,7 @@ The Bank shall be governed by a Board of Directors (hereinafter in this chapter 
 
 > may continue to serve until their successors have been appointed and qualified.
 
-(2) Any member of the Board of Directors of the Bank who was elected by the holders of class B or class C stock before the Final Government Equity Redemption Date shall serve the remainder of the term for which such member was elected.
+(2) Any member of the Board of Directors of the Bank who was elected by the holders of classB or class C stock before the Final Government Equity Redemption Date shall serve the remainder of the term for which such member was elected.
 
 (3) Any member appointed pursuant to subsection (b)(1) of this section shall be entitled to sit on any committee of the Board, but not more than one member so appointed may sit on any one committee.
 
@@ -50,7 +50,7 @@ The Board shall annually elect from among its members a chairman and vice chairm
 
 #### (g) Conduct of meetings; rules governing
 
-The Board shall meet at least quarterly. Its meeting shall be open to members or representatives of all eligible cooperatives and other eligible organizations, as observers only, and to persons or representatives of groups who identify their interest in the Bank and who are invited to attend a meeting, subject to such rules as the Board may establish for the conduct of such meetings. Those rules shall include the manner of giving notice of meetings, the procedure for the conduct of meetings, the manner of submitting topics for the agenda, the allocation of time of presentations, and debate. The chairman, when sustained by the majority of the Board present, may adjourn the open meeting into an executive session on motion of the chairman, any Board member, or at the request of any applicant, borrower, officer, or employee when the matter under discussion involves an application, a loan, a personnel action, or other matterwhich might tend to impinge on the right of privacy of any person.
+The Board shall meet at least quarterly. Its meeting shall be open to members or representatives of all eligible cooperatives and other eligible organizations, as observers only, and to persons or representatives of groups who identify their interest in the Bank and who are invited to attend a meeting, subject to such rules as the Board may establish for the conduct of such meetings. Those rules shall include the manner of giving notice of meetings, the procedure for the conduct of meetings, the manner of submitting topics for the agenda, the allocation of time of presentations, and debate. The chairman, when sustained by the majority of the Board present, may adjourn the open meeting into an executive session on motion of the chairman, any Board member, or at the request of any applicant, borrower, officer, or employee when the matter under discussion involves an application, a loan, a personnel action, or other matter which might tend to impinge on the right of privacy of any person.
 
 #### (h) Compensation and expenses
 

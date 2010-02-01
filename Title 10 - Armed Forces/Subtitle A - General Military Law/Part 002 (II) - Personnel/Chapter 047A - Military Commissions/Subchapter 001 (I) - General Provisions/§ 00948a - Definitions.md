@@ -4,31 +4,9 @@ In this chapter:
 
 &emsp;(1)
 
-Unlawful enemy combatant.—(A) The term “unlawful enemy combatant” means—
-
-&emsp;&emsp;(i) a person who has engaged in hostilities or who has purposefully and materially supported hostilities against the United States or its co-belligerents who is not a lawful enemy combatant (including a person who is part of the Taliban, al Qaeda, or associated forces); or
-
-&emsp;&emsp;(ii) a person who, before, on, or after the date of the enactment of the Military Commissions Act of 2006, has been determined to be an unlawful enemy combatant by a Combatant Status Review Tribunal or another competent tribunal established under the authority of the President or the Secretary of Defense.
-
-&emsp;(B)
-
-Co-belligerent.—In this paragraph, the term “co-belligerent”, with respect to the United States, means any State or armed force joining and directly engaged with the United States in hostilities or directly supporting hostilities against a common enemy.
+Alien.—The term “alien” means an individual who is not a citizen of the United States.
 
 &emsp;(2)
-
-Lawful enemy combatant.—The term “lawful enemy combatant” means a person who is—
-
-&emsp;&emsp;(A) a member of the regular forces of a State party engaged in hostilities against the United States;
-
-&emsp;&emsp;(B) a member of a militia, volunteer corps, or organized resistance movement belonging to a State party engaged in such hostilities, which are under responsible command, wear a fixed distinctive sign recognizable at a distance, carry their arms openly, and abide by the law of war; or
-
-&emsp;&emsp;(C) a member of a regular armed force who professes allegiance to a government engaged in such hostilities, but not recognized by the United States.
-
-&emsp;(3)
-
-Alien.—The term “alien” means a person who is not a citizen of the United States.
-
-&emsp;(4)
 
 Classified information.—The term “classified information” means the following:
 
@@ -36,25 +14,127 @@ Classified information.—The term “classified information” means the follow
 
 &emsp;&emsp;(B) Any restricted data, as that term is defined in section 11 y. of the Atomic Energy Act of 1954 (42 U.S.C. 2014(y)).
 
+&emsp;(3)
+
+Coalition partner.—The term “coalition partner”, with respect to hostilities engaged in by the United States, means any State or armed force directly engaged along with the United States in such hostilities or providing direct operational support to the United States in connection with such hostilities.
+
+&emsp;(4)
+
+Geneva convention relative to the treatment of prisoners of war.—The term “Geneva Convention Relative to the Treatment of Prisoners of War” means the Convention Relative to the Treatment of Prisoners of War, done at Geneva August 12, 1949 (6 UST 3316).
+
 &emsp;(5)
 
 Geneva conventions.—The term “Geneva Conventions” means the international conventions signed at Geneva on August 12, 1949.
 
-(Added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2601.)
+&emsp;(6)
 
-#### References in Text
+Privileged belligerent.—The term “privileged belligerent” means an individual belonging to one of the eight categories enumerated in Article 4 of the Geneva Convention Relative to the Treatment of Prisoners of War.
 
-The date of the enactment of the Military Commissions Act of 2006, referred to in par. (1)(ii), is the date of enactment of Pub. L. 109–366, which was approved Oct. 17, 2006.
+&emsp;(7)
 
-#### Short Title
+Unprivileged enemy belligerent.—The term “unprivileged enemy belligerent” means an individual (other than a privileged belligerent) who—
 
-Pub. L. 109–366, §1(a), Oct. 17, 2006, 120 Stat. 2600, provided that: “This Act \[enacting this chapter and section 2000dd–0 of Title 42, The Public Health and Welfare, amending sections 802, 821, 828, 836, 848, 850, 881, 904, and 906 of this title, section 2441 of Title 18, Crimes and Criminal Procedure, section 2241 of Title 28, Judiciary and Judicial Procedure, and section 2000dd–1 of Title 42, enacting provisions set out as notes under this section, section 2441 of Title 18, section 2241 of Title 28, and section 2000dd–1 of Title 42, and amending provisions set out as a note under section 801 of this title\] may be cited as the ‘Military Commissions Act of 2006’.”
+&emsp;&emsp;(A) has engaged in hostilities against the United States or its coalition partners;
+
+&emsp;&emsp;(B) has purposefully and materially supported hostilities against the United States or its coalition partners; or
+
+&emsp;&emsp;(C) was a part of al Qaeda at the time of the alleged offense under this chapter.
+
+&emsp;(8)
+
+National security.—The term “national security” means the national defense and foreign relations of the United States.
+
+&emsp;(9)
+
+Hostilities.—The term “hostilities” means any conflict subject to the laws of war.
+
+(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2574.)
+
+#### Prior Provisions
+
+A prior section 948a, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2601, related to definitions, prior to the general amendment of this chapter by Pub. L. 111–84.
+
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–84, div. A, title XVIII, §1801, Oct. 28, 2009, 123 Stat. 2574, provided that: “This title \[enacting this chapter, amending sections 802 and 839 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 801 of this title\] may be cited as the ‘Military Commissions Act of 2009’.”
+
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–366, §1(a), Oct. 17, 2006, 120 Stat. 2600, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Military Commissions Act of 2006’.”
+
+#### Proceedings Under Prior Statute
+
+Pub. L. 111–84, div. A, title XVIII, §1804, Oct. 28, 2009, 123 Stat. 2612, provided that:
+
+“(a)
+
+Prior Convictions.—The amendment made by section 1802 \[generally amending this chapter\] shall have no effect on the validity of any conviction pursuant to chapter 47A of title 10, United States Code (as such chapter was in effect on the day before the date of the enactment of this Act \[Oct. 28, 2009\]).
+
+“(b)
+
+Composition of Military Commissions.—Notwithstanding the amendment made by section 1802—
+
+&emsp;“(1) any commission convened pursuant to chapter 47A of title 10, United States Code (as such chapter was in effect on the day before the date of the enactment of this Act), shall be deemed to have been convened pursuant to chapter 47A of title 10, United States Code (as amended by section 1802);
+
+&emsp;“(2) any member of the Armed Forces detailed to serve on a commission pursuant to chapter 47A of title 10, United States Code (as in effect on the day before the date of the enactment of this Act), shall be deemed to have been detailed pursuant to chapter 47A of title 10, United States Code (as so amended);
+
+&emsp;“(3) any military judge detailed to a commission pursuant to chapter 47A of title 10, United States Code (as in effect on the day before the date of the enactment of this Act), shall be deemed to have been detailed pursuant to chapter 47A of title 10, United States Code (as so amended);
+
+&emsp;“(4) any trial counsel or defense counsel detailed for a commission pursuant to chapter 47A of title 10, United States Code (as in effect on the day before the date of the enactment of this Act), shall be deemed to have been detailed pursuant to chapter 47A of title 10, United States Code (as so amended);
+
+&emsp;“(5) any court reporters detailed to or employed by a commission pursuant to chapter 47A of title 10, United States Code (as in effect on the day before the date of the enactment of this Act), shall be deemed to have been detailed or employed pursuant to chapter 47A of title 10, United States Code (as so amended); and
+
+&emsp;“(6) any appellate military judge or other duly appointed appellate judge on the Court of Military Commission Review pursuant to chapter 47A of title 10, United States Code (as in effect on the day before the date of the enactment of this Act), shall be deemed to have been detailed or appointed to the United States Court of Military Commission Review pursuant to chapter 47A of title 10, United States Code (as so amended).
+
+“(c)
+
+Charges and Specifications.—Notwithstanding the amendment made by section 1802—
+
+&emsp;“(1) any charges or specifications sworn or referred pursuant to chapter 47A of title 10, United States Code (as such chapter was in effect on the day before the date of the enactment of this Act), shall be deemed to have been sworn or referred pursuant to chapter 47A of title 10, United States Code (as amended by section 1802); and
+
+&emsp;“(2) any charges or specifications described in paragraph (1) may be amended, without prejudice, as needed to properly allege jurisdiction under chapter 47A of title 10, United States Code (as so amended), and crimes triable under such chapter.
+
+“(d)
+
+Procedures and Requirements.—
+
+&emsp;“(1)
+
+In general.—Except as provided in subsections (a) through (c) and subject to paragraph (2), any commission convened pursuant to chapter 47A of title 10, United States Code (as such chapter was in effect on the day before the date of the enactment of this Act), shall be conducted after the date of the enactment of this Act in accordance with the procedures and requirements of chapter 47A of title 10, United States Code (as amended by section 1802).
+
+&emsp;“(2)
+
+Temporary continuation of prior procedures and requirements.—Any military commission described in paragraph (1) may be conducted in accordance with any procedures and requirements of chapter 47A of title 10, United States Code (as in effect on the day before the date of the enactment of this Act), that are not inconsistent with the provisions of chapter 47A of title 10, United States Code, (as so amended), until the earlier of—
+
+&emsp;&emsp;“(A) the date of the submittal to Congress under section 1805 of the revised rules for military commissions under chapter 47A of title 10, United States Code (as so amended); or
+
+&emsp;&emsp;“(B) the date that is 90 days after the date of the enactment of this Act.”
+
+#### Submittal to Congress of Revised Rules for Military Commissions
+
+Pub. L. 111–84, div. A, title XVIII, §1805, Oct. 28, 2009, 123 Stat. 2614, provided that:
+
+“(a)
+
+Deadline for Submittal.—Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives the revised rules for military commissions prescribed by the Secretary for purposes of chapter 47A of title 10, United States Code (as amended by section 1802).
+
+“(b)
+
+Treatment of Revised Rules Under Requirement for Notice and Wait Regarding Modification of Rules.—The revised rules submitted to Congress under subsection (a) shall not be treated as a modification of the rules in effect for military commissions for purposes of section 949a(d) of title 10, United States Code (as so amended).”
+
+#### Annual Reports to Congress on Trials by Military Commission
+
+Pub. L. 111–84, div. A, title XVIII, §1806, Oct. 28, 2009, 123 Stat. 2614, provided that:
+
+“(a)
+
+Annual Reports Required.—Not later than January 31 of each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report onany trials conducted by military commissions under chapter 47A of title 10, United States Code (as amended by section 1802), during the preceding year.
+
+“(b)
+
+Form.—Each report under this section shall be submitted in unclassified form, but may include a classified annex.”
 
 #### Construction of Presidential Authority To Establish Military Commissions
 
 Pub. L. 109–366, §2, Oct. 17, 2006, 120 Stat. 2600, provided that: “The authority to establish military commissions under chapter 47A of title 10, United States Code, as added by section 3(a), may not be construed to alter or limit the authority of the President under the Constitution of the United States and laws of the United States to establish military commissions for areas declared to be under martial law or in occupied territories should circumstances so require.”
-
-#### Submittal of Procedures to Congress
-
-Pub. L. 109–366, §3(b), Oct. 17, 2006, 120 Stat. 2631, provided that: “Not later than 90 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth the procedures for military commissions prescribed under chapter 47A of title 10, United States Code (as added by subsection (a)).”
 

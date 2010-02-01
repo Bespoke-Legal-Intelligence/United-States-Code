@@ -74,7 +74,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;With respect to compliance with the agreement made under paragraph (1), a grantee under this part may, in the case of individuals subject to a charge for purposes of such paragraph—
 
-&emsp;&emsp;(A) assess the amount of the charge in the discretion of the grantee, including imposing only a nominal charge for the provision of services, subject to the provisions of such paragraph regarding public schedules and ofparagraph (2) regarding limitations on the maximum amount of charges; and
+&emsp;&emsp;(A) assess the amount of the charge in the discretion of the grantee, including imposing only a nominal charge for the provision of services, subject to the provisions of such paragraph regarding public schedules and of paragraph (2) regarding limitations on the maximum amount of charges; and
 
 &emsp;&emsp;(B) take into consideration the medical expenses of individuals in assessing the amount of the charge, subject to such provisions.
 
@@ -114,19 +114,19 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;(5) the applicant will provide for the establishment of a clinical quality management program—
 
-&emsp;&emsp;(A) to assess the extent to which medical services funded under this subchapter that are provided to patients are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infections, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines; and
+&emsp;&emsp;(A) to assess the extent to which medical services funded under this subchapter thatare provided to patients are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infections, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines; and
 
 &emsp;&emsp;(B) to ensure that improvements in the access to and quality of HIV health services are addressed.
 
-(July 1, 1944, ch. 373, title XXVI, §2664, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 611; amended Pub. L. 104–146, §3(d)(5), May 20, 1996, 110 Stat. 1358; Pub. L. 106–345, title III, §§301(b)(3), 322, Oct. 20, 2000, 114 Stat. 1345, 1346; Pub. L. 109–415, title III, §§301(b), 306(b), (c), title VII, §702(3), Dec. 19, 2006, 120 Stat. 2806, 2809, 2820.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2664, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 611; amended Pub. L. 104–146, §3(d)(5), May 20, 1996, 110 Stat. 1358; Pub. L. 106–345, title III, §§301(b)(3), 322, Oct. 20, 2000, 114 Stat. 1345, 1346; Pub. L. 109–415, title III, §§301(b), 306(b), (c), title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2806, 2809, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### Amendments
 
-2006—Subsec. (a)(1)(C), (D). Pub. L. 109–415, §306(b)(1), added subpars. (C) and (D).
+2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+Subsec. (a)(1)(C), (D). Pub. L. 109–415, §306(b)(1), added subpars. (C) and (D).
 
 Subsec. (a)(3), (4). Pub. L. 109–415, §306(b)(2), (3), added pars. (3) and (4).
 
@@ -146,11 +146,15 @@ Subsec. (g)(3). Pub. L. 106–345, §322(1)(A), substituted “10 percent” for
 
 Subsec. (g)(5). Pub. L. 106–345, §322(1)(B), (2), (3), added par. (5).
 
-Subsec. (h). Pub. L. 106–345, §301(b)(3)(C), struck out heading and text of subsec. (h). Text read as follows: “A State may not use amounts received under a grant awarded under section 300ff–41 of this title to purchaseor improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.”
+Subsec. (h). Pub. L. 106–345, §301(b)(3)(C), struck out heading and text of subsec. (h). Text read as follows: “A State may not use amounts received under a grant awarded under section 300ff–41 of this title to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.”
 
 1996—Subsec. (g)(3). Pub. L. 104–146, §3(d)(5)(B)(i), substituted “7.5 percent including planning and evaluation” for “5 percent”.
 
 Subsec. (g)(4). Pub. L. 104–146, §3(d)(5)(A), (B)(ii), (C), added par. (4).
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -6,7 +6,7 @@ Stock and Dividends.—The corporation may not issue stock or declare or pay a d
 
 (b)
 
-Political Activities.—The corporation or an officer or agent as such may not contributeto, support, or assist a political party or candidate for public office.
+Political Activities.—The corporation or an officer or agent as such may not contribute to, support, or assist a political party or candidate for public office.
 
 (c)
 

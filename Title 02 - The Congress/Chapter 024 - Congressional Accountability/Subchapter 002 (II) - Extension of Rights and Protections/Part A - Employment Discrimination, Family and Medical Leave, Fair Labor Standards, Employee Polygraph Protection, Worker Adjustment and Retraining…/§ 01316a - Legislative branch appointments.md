@@ -22,11 +22,11 @@ The rights and protections established under section 2108, sections 3309 through
 
 #### (A) In general
 
-&emsp;The Board shall, pursuant to section 304 of the Congressional Accountability Act of 1995 (2 U.S.C. 1384), issue regulations to implement this section.
+&emsp;The Board shall, pursuant to section 304 of the Congressional Accountability Act of 1995\(2 U.S.C. 1384), issue regulations to implement this section.
 
 #### (B) Agency regulations
 
-&emsp;The regulations issued under subparagraph (A) shall be the same as the most relevant substantive regulations (applicable with respect to the executive branch) promulgated to implement the statutory provisions referred to in paragraph (2) except insofar as the Boardmay determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+&emsp;The regulations issued under subparagraph (A) shall be the same as the most relevant substantive regulations (applicable with respect to the executive branch) promulgated to implement the statutory provisions referred to in paragraph (2) except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 #### (C) Coordination
 

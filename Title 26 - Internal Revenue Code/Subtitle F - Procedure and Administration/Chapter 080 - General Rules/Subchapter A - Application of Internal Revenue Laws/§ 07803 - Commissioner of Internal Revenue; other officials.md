@@ -186,7 +186,7 @@
 
 #### (ii) Consultation
 
-&emsp;&emsp;&emsp;The National Taxpayer Advocate may consult with the appropriate supervisorypersonnel of the Internal Revenue Service in carrying out the National Taxpayer Advocate's responsibilities under this subparagraph.
+&emsp;&emsp;&emsp;The National Taxpayer Advocate may consult with the appropriate supervisory personnel of the Internal Revenue Service in carrying out the National Taxpayer Advocate's responsibilities under this subparagraph.
 
 #### (3) Responsibilities of Commissioner
 

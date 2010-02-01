@@ -34,7 +34,7 @@ In this section:
 
 #### (2) Indemnification payment
 
-&emsp;The term “indemnification payment” means a payment (or any agreement to make a payment) by any Farm Credit System institution for the benefit of any person who is or was an institution-related party, to pay or reimbursethe person for any liability or legal expense with regard to any administrative proceeding or civil action instituted by the Farm Credit Administration that results in a final order under which the person—
+&emsp;The term “indemnification payment” means a payment (or any agreement to make a payment) by any Farm Credit System institution for the benefit of any person who is or was an institution-related party, to pay or reimburse the person for any liability or legal expense with regard to any administrative proceeding or civil action instituted by the Farm Credit Administration that results in a final order under which the person—
 
 &emsp;&emsp;(A) is assessed a civil money penalty; or
 
@@ -48,7 +48,7 @@ In this section:
 
 &emsp;&emsp;(B) a stockholder (other than another Farm Credit System institution), consultant, joint venture partner, or any other person determined by the Farm Credit Administration to be a participant in the conduct of the affairs of a Farm Credit System institution; and
 
-&emsp;&emsp;(C) an independent contractor (including any attorney, appraiser, or accountant) that knowingly or recklessly participates in any violation of any law or regulation, any breach of fiduciary duty, or any unsafe or unsound practice that caused or is likely to cause more than a minimal financial loss to, or a significant adverse effect on, the Farm Credit System institution.
+&emsp;&emsp;(C) an independent contractor (including any attorney, appraiser, or accountant) that knowingly or recklessly participates in any violation of any law or regulation, any breach of fiduciary duty, or any unsafe orunsound practice that caused or is likely to cause more than a minimal financial loss to, or a significant adverse effect on, the Farm Credit System institution.
 
 #### (4) Liability or legal expense
 

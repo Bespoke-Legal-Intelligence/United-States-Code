@@ -24,7 +24,7 @@
 
 #### Termination of Subsection (c)
 
-<i>Subsection (c) of this section expired Sept. 30, 2002, pursuant to section 275(b) of Pub. L. 99–177, as amended. See 1985 Amendment note and Effective and Termination Dates of 1985 Amendment note below.</i>
+<i>Subsection (c) of this section expired Sept. 30, 2002, pursuant to section 275(b) of Pub. L. 99–177, as amended. See 1985 Amendment note</i><i>and Effective and Termination Dates of 1985 Amendment note below.</i>
 
 Historical and Revision Notes
 

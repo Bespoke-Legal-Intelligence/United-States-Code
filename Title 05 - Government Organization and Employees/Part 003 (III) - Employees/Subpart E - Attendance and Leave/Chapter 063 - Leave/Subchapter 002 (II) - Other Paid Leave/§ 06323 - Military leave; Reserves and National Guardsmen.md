@@ -18,7 +18,7 @@
 
 &emsp;(B) performs full-time military service as a result of a call or order to active duty in support of a contingency operation as defined in section 101(a)(13) of title 10;
 
-> is entitled, during and because of such service, to leave without loss of, or reduction in, pay, leave to which he otherwise is entitled, credit for time or service, or performance or efficiency rating. Leave granted by this subsection shall not exceed 22 work-days in a calendar year. Upon the request of an employee, the period for which an employee is absent to perform service described in paragraph (2) may be charged to the employee's accrued annual leave or to compensatory time available to the employee instead of being charged as leave to which the employee is entitled under this subsection. The period of absence may not be charged to sick leave.
+> is entitled, during and because of such service, to leave without loss of, or reduction in, pay,leave to which he otherwise is entitled, credit for time or service, or performance or efficiency rating. Leave granted by this subsection shall not exceed 22 workdays in a calendar year. Upon the request of an employee, the period for which an employee is absent to perform service described in paragraph (2) may be charged to the employee's accrued annual leave or to compensatory time available to the employee instead of being charged as leave to which the employee is entitled under this subsection. The period of absence may not be charged to sick leave.
 
 (c) An employee as defined by section 2105 of this title or an individual employed by the government of the District of Columbia, who is a member of the National Guard of the District of Columbia, is entitled to leave without loss in pay or time for each day of a parade or encampment ordered or authorized under title 39, District of Columbia Code. This subsection covers each day of service the National Guard, or a portion thereof, is ordered to perform by the commanding general.
 
@@ -84,7 +84,7 @@ Subsec. (b)(2)(A). Pub. L. 103–337, §1677(a)(2)(B), substituted “or 12406 o
 
 1991—Subsec. (b)(2). Pub. L. 102–190 substituted “law or for the purpose of providing assistance to civil authorities in the protection or saving of life or property or the prevention of injury—” for “law—” in introductory provisions.
 
-1980—Subsec. (a). Pub. L. 96–431 designated existing provisions as par. (1), substituted “Subject to paragraph (2) of this subsection, an employee” for “An employee” and “for active duty or engaging in field or coast defense training” for “for each day, not in excessof 15 days in a calendar year, in which he is on active duty or is engaged in field or coast defense training”, inserted provision relating to accrual and accumulation of leave, and added par. (2).
+1980—Subsec. (a). Pub. L. 96–431 designated existing provisions as par. (1), substituted “Subject to paragraph (2) of this subsection, an employee” for “An employee” and “for active duty or engaging in field or coast defense training” for “for each day, not in excess of 15 days in a calendar year, in which he is on active duty or is engaged in field or coast defense training”, inserted provision relating to accrual and accumulation of leave, and added par. (2).
 
 1979—Subsec. (b)(2)(B). Pub. L. 96–70 which directed the amendment of subsec. (c)(2)(B) by striking out “the Canal Zone,” was executed to subsec. (b)(2)(B) in view of the redesignation of subsec. (c) as (b) by Pub. L. 96–54. See 1979 Amendment note below.
 

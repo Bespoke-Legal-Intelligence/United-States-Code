@@ -182,7 +182,7 @@
 
 #### (A) Limited exercise of authority
 
-&emsp;&emsp;Only the minimum number of such plans may be approved in order to meet the access requirements under section 1395w–103(a) of this title.
+&emsp;&emsp;Only the minimum number of such plans may be approved in order to meet the accessrequirements under section 1395w–103(a) of this title.
 
 #### (B) Maximizing assumption of risk
 
@@ -228,7 +228,7 @@
 
 #### (iii) Competitive procedures
 
-&emsp;&emsp;&emsp;Competitive procedures (as defined in section 403(5) of title 41) shall be used to enter into a contract under this subsection. The provisions of subsection (d) ofsection 1395kk–1 of this title shall apply to a contract under this section in the same manner as they apply to a contract under such section.
+&emsp;&emsp;&emsp;Competitive procedures (as defined in section 403(5) of title 41) shall be used to enter into a contract under this subsection. The provisions of subsection (d) of section 1395kk–1 of this title shall apply to a contract under this section in the same manner as they apply to a contract under such section.
 
 #### (iv) Timing
 
@@ -334,7 +334,7 @@ A PDP sponsor offering a prescription drug plan shall permit State Pharmaceutica
 
 #### References in Text
 
-Section 1395w–115(e)(2)(B)(iii) of this title, referred to in subsec. (b)(2)(E)(ii)(I), was in the original “section 1869D–15(e)(2)(B)(iii)”, and was translated as reading “section 1860D–15(e)(2)(B)(iii)”, meaning 1860D–15(e)(2)(B)(iii) of the Social Security Act, to reflect the probable intent of Congress, because the Social Security Act does not contain a section 1869D–15 and section 1395w–115(e)(2)(B)(iii) of this title provides for an application of a higher percentage for years 2006 and 2007.
+Section 1395w–115(e)(2)(B)(iii) of this title, referred to in subsec. (b)(2)(E)(ii)(I), was in the original “section 1869D–15(e)(2)(B)(iii)”, and was translated as reading “section 1860D–15(e)(2)(B)(iii)”, meaning 1860D–15(e)(2)(B)(iii) of the Social Security Act, to reflect the probable intent of Congress, because the Social Security Act does not contain a section 1869D–15and section 1395w–115(e)(2)(B)(iii) of this title provides for an application of a higher percentage for years 2006 and 2007.
 
 #### Study Regarding Regional Variations in Prescription Drug Spending
 

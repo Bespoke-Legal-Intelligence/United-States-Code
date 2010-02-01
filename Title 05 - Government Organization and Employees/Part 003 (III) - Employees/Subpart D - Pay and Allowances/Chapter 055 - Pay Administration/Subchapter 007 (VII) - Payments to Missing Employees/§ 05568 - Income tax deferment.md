@@ -6,7 +6,7 @@ Notwithstanding other statutes, any Federal income tax return of, or the payment
 
 &emsp;(2) the fifteenth day of the third month after the month in which an executor, administrator, or conservator of the estate of the taxpayer is appointed.
 
-> That due date is prescribed subject to the power of the Secretary of the Treasury or his delegateto extend the time for filing the return or paying the tax, as in other cases, and to assess and collect the tax as provided by sections 6851, 6861, and 6871 of title 26 in cases in which the assessment or collection is jeopardized and in cases of bankruptcy or receivership.
+> That due date is prescribed subject to the power of the Secretary of the Treasury or his delegate to extend the time for filing the return or paying the tax, as in other cases, and to assess and collect the tax as provided by sections 6851, 6861, and 6871 of title 26 in cases in which the assessment or collection is jeopardized and in cases of bankruptcy or receivership.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 494.)
 
@@ -32,7 +32,7 @@ Only that portion of the source law which is applicable to civilian officers and
 
 The words “in the case of any taxable year beginning after December 31, 1940” are omitted as unnecessary.
 
-The words “an employee” are substituted for “any civilian officer or employee of any department” to conform to the definition in section 5561(2). The words “in a missing status” are substituted for “absent from his duty station under the conditions specified in section 2 of this Act” to conform to the definition in section 5561(5) and in view of the provisions of section 5562 establishing the entitlement of an employee in a missing status to receive pay and allowances or to have them credited to his account. Reference to “title 26” is substituted for “Internal Revenue Code of 1954”.
+The words “an employee” are substituted for “any civilian officer or employee of any department” to conform to the definition in section 5561(2). The words “ina missing status” are substituted for “absent from his duty station under the conditions specified in section 2 of this Act” to conform to the definition in section 5561(5) and in view of the provisions of section 5562 establishing the entitlement of an employee in a missing status to receive pay and allowances or to have them credited to his account. Reference to “title 26” is substituted for “Internal Revenue Code of 1954”.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

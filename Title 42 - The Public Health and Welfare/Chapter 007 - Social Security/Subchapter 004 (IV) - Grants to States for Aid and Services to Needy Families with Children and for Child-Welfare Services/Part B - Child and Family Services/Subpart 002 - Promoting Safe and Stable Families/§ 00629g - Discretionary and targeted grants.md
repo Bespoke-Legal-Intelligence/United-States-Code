@@ -18,7 +18,7 @@ From the amount (if any) appropriated pursuant to subsection (a) of this section
 
 #### (3) Indian tribes or tribal consortia
 
-&emsp;The Secretary shall reserve 3 percent for allotment to Indian tribes or tribal consortia inaccordance with subsection (c)(1) of this section.
+&emsp;The Secretary shall reserve 3 percent for allotment to Indian tribes or tribal consortia in accordance with subsection (c)(1) of this section.
 
 #### (c) Allotments
 
@@ -28,7 +28,7 @@ From the amount (if any) appropriated pursuant to subsection (a) of this section
 
 #### (2) Territories
 
-&emsp;From the amount (if any) appropriated pursuant to subsection (a) of this section for any fiscal year that remains after applying subection <sup>1</sup> (b) of this section for the fiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title.
+&emsp;From the amount (if any) appropriated pursuant to subsection (a) of this section for any fiscal year that remains after applying subection <sup>1</sup> (b) of this section for the fiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to each of suchjurisdictions is determined under section 623 of this title.
 
 #### (3) Other States
 
@@ -94,7 +94,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 &emsp;&emsp;&emsp;If an Indian tribe or tribal consortium enters into a regional partnership for purposes of this subsection, the Indian tribe or tribal consortium—
 
-&emsp;&emsp;&emsp;&emsp;(I) may (but is not required to) include such State child welfare agency as apartner in the collaborative agreement; and
+&emsp;&emsp;&emsp;&emsp;(I) may (but is not required to) include such State child welfare agency as a partner in the collaborative agreement; and
 
 &emsp;&emsp;&emsp;&emsp;(II) may not enter into a collaborative agreement only with tribal child welfare agencies (or a consortium of such agencies).
 

@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 Aug. 1, 1953, ch. 305, §609, 67 Stat. 350.
 
-The words “equipment, and materials” are omitted as covered by the word “supplies”. The word “hereafter” is omitted as executed. The words “may beused” are substituted for the words “shall \* \* \* be available”. The words “if the acquisition relates to” are substituted for 31:649b (1st 8 words of last sentence). In clauses (1), (2), and (4), the word “patents” is substituted for the words “letters patent”.
+The words “equipment, and materials” are omitted as covered by the word “supplies”. The word “hereafter” is omitted as executed. The words “may be used” are substituted for the words “shall be available”. The words “if the acquisition relates to” are substituted for 31:649b (1st 8 words of last sentence). In clauses (1), (2), and (4), the word “patents” is substituted for the words “letters patent”.
 
 #### Amendments
 

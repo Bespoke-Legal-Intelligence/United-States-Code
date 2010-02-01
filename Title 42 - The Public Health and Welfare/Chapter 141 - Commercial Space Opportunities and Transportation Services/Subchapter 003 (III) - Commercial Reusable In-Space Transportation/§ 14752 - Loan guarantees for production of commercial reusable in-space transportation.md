@@ -72,7 +72,7 @@ The Secretary may not guarantee a loan for a United States commercial provider u
 
 #### (1) Authority to issue instruments
 
-&emsp;Notwithstanding any other provision of law, the Secretary may, subject to such terms and conditions as the Secretary considers appropriate, issue credit instruments to United States commercial providers of in-space transportation services or system <sup>2</sup>, with the aggregate cost (as determined under the provisions of the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.)) of such instruments not to exceed $1,500,000,000, but only to the extent that new budget authority to cover such costs is provided in subsequent appropriations Acts or authority is otherwise provided in subsequent appropriations Acts.
+&emsp;Notwithstanding any other provision of law, the Secretary may, subject to such terms and conditions as the Secretary considers appropriate, issue credit instruments to United States commercial providers of in-space transportation services or system <sup>2</sup>, with the aggregate cost (as determined under the provisions of the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.)) of such instruments not toexceed $1,500,000,000, but only to the extent that new budget authority to cover such costs is provided in subsequent appropriations Acts or authority is otherwise provided in subsequent appropriations Acts.
 
 #### (2) Credit subsidy
 

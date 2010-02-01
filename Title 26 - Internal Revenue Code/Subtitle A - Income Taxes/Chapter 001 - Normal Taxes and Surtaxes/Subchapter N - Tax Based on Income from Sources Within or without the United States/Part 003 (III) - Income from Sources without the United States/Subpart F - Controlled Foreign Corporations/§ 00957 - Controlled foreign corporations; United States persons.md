@@ -12,7 +12,7 @@ For purposes of this subpart, the term “controlled foreign corporation” mean
 
 #### (b) Special rule for insurance
 
-For purposes only of taking into account income described in section 953(a) (relating to insurance income), the term “controlled foreign corporation” includes not only a foreign corporation as defined by subsection (a) but alsoone of which more than 25 percent of the total combined voting power of all classes of stock (or more than 25 percent of the total value of stock) is owned (within the meaning of section 958(a)), or is considered as owned by applying the rules of ownership of section 958(b), by United States shareholders on any day during the taxable year of such corporation, if the gross amount of premiums or other consideration in respect of the reinsurance or the issuing of insurance or annuity contracts described in section 953(a)(1) <sup>1</sup> exceeds 75 percent of the gross amount of all premiums or other consideration in respect of all risks.
+For purposes only of taking into account income described in section 953(a) (relating to insurance income), the term “controlled foreign corporation” includes not only a foreign corporation as defined by subsection (a) but also one of which more than 25 percent of the total combined voting power of all classes of stock (or more than 25 percent of the total value of stock) is owned (within the meaning of section 958(a)), or is considered as owned by applying the rules of ownership of section 958(b), by United States shareholders on any day during the taxable year of such corporation, if the gross amount of premiums or other consideration in respect of the reinsurance or the issuing of insurance or annuity contracts described in section 953(a)(1) <sup>1</sup> exceeds 75 percent of the gross amount of all premiums or other consideration in respect of all risks.
 
 #### (c) United States person
 
@@ -22,7 +22,7 @@ For purposes of this subpart, the term “United States person” has the meanin
 
 &emsp;(2) with respect to a corporation organized under the laws of Guam, American Samoa, or the Northern Mariana Islands—
 
-&emsp;&emsp;(A) 80 percent or more of the gross income of which for the 3-year period ending at the close of the taxable year (or for such part of such period as such corporation or any predecessor has been in existence) was derived from sources within such a possession or was effectively connected with the conduct of a trade or business in such a possession, and
+&emsp;&emsp;(A) 80 percent or more of the gross income of which for the 3-year period ending at the close of the taxable year (or for such part ofsuch period as such corporation or any predecessor has been in existence) was derived from sources within such a possession or was effectively connected with the conduct of a trade or business in such a possession, and
 
 &emsp;&emsp;(B) 50 percent or more of the gross income of which for such period (or part) was derived from the active conduct of a trade or business within such a possession,
 
@@ -76,7 +76,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 “(2)
 
-Transitional rule.—In the case of any corporation treated as a controlled foreign corporation by reason of the amendments made by this section, propertyacquired before August 16, 1986, shall not be taken into account under section 956(b) of the Internal Revenue Code of 1986.
+Transitional rule.—In the case of any corporation treated as a controlled foreign corporation by reason of the amendments made by this section, property acquired before August 16, 1986, shall not be taken into account under section 956(b) of the Internal Revenue Code of 1986.
 
 “(3)
 

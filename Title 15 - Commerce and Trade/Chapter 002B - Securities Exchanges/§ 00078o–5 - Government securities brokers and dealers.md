@@ -16,11 +16,11 @@
 
 &emsp;(ii) institute proceedings to determine whether registration should be denied. Such proceedings shall include notice of the grounds for denial under consideration and opportunity for hearing and shall be concluded within 120 days of the date of the filing of the application for registration. At the conclusion of such proceedings, the Commission, by order, shall grant or deny such registration. The order granting registration shall not be effective until such government securities broker or government securities dealer has become a member of a national securities exchange registered under section 78f of this title, or a securities association registered under section 78<i>o</i>–3 of this title, unless the Commission has exempted such government securities broker or government securities dealer, by rule or order, from such membership. The Commission may extend the time for the conclusion of such proceedings for up to 90 days if it finds good cause for such extension and publishes its reasons for so finding or for such longer period as to which the applicant consents.
 
-> The Commission shall grant the registration of a government securities broker or a government securities dealer if the Commission finds that the requirements of this section are satisfied. The Commission shall deny such registration if it does not make such a finding or if it finds that if the applicant were so registered, its registration would be subject to suspension or revocation under subsection (c) of this section.
+> The Commission shall grant the registration of a government securities broker or a government securities dealer if the Commission finds that the requirements of this section are satisfied. The Commission shall deny such registration ifit does not make such a finding or if it finds that if the applicant were so registered, its registration would be subject to suspension or revocation under subsection (c) of this section.
 
 (3) Any provision of this chapter (other than section 78e of this title or paragraph (1) of this subsection) which prohibits any act, practice, or course of business if the mails or any means or instrumentality of interstate commerce is used in connection therewith shall also prohibit any such act, practice, or course of business by any government securities broker or government securities dealer registered or having filed notice under paragraph (1) of this subsection or any person acting on behalf of such government securities broker or government securities dealer, irrespective of any use of the mails or any means or instrumentality of interstate commerce in connection therewith.
 
-(4) No government securities broker or government securities dealer that is required to register under paragraph (1)(A) and that is not a member of the Securities Investor Protection Corporation shall effect any transaction in any security in contravention of such rules as the Commission shall prescribe pursuant to this subsection to assure that its customers receive complete, accurate, and timely disclosure of theinapplicability of Securities Investor Protection Corporation coverage to their accounts.
+(4) No government securities broker or government securities dealer that is required to register under paragraph (1)(A) and that is not a member of the Securities Investor Protection Corporation shall effect any transaction in any security in contravention of such rules as the Commission shall prescribe pursuant to this subsection to assure that its customers receive complete, accurate, and timely disclosure of the inapplicability of Securities Investor Protection Corporation coverage to their accounts.
 
 (5) The Secretary of the Treasury (hereinafter in this section referred to as the “Secretary”), by rule or order, upon the Secretary's own motion or upon application, may conditionally or unconditionally exempt any government securities broker or government securities dealer, or class of government securities brokers or government securities dealers, from any provision of subsection (a), (b), or (d) of this section, other than subsection (d)(3) of this section, or the rules thereunder, if the Secretary finds that such exemption is consistent with the public interest, the protection of investors, and the purposes of this chapter.
 
@@ -52,7 +52,7 @@ Special provisions with respect to associated persons subject to federal banking
 
 &emsp;&emsp;(i)
 
-Cooperation in implementation.—In developing and implementing reporting requirements pursuant to subparagraph (A) of this paragraph with respect to associated persons subject to examination by or reporting requirements of a Federal banking agency, the Secretary shall consult with and consider the views of each such Federal banking agency. If a Federal banking agency comments in writing on a proposed rule of the Secretary under this paragraph that has been published for comment, the Secretary shall respond in writing to such written comment before adopting the proposed rule. The Secretary shall, at the request of a Federal banking agency, publish such comment and response in the Federal Register at the time of publishing the adopted rule.
+Cooperation in implementation.—In developing and implementing reporting requirements pursuant to subparagraph (A) ofthis paragraph with respect to associated persons subject to examination by or reporting requirements of a Federal banking agency, the Secretary shall consult with and consider the views of each such Federal banking agency. If a Federal banking agency comments in writing on a proposed rule of the Secretary under this paragraph that has been published for comment, the Secretary shall respond in writing to such written comment before adopting the proposed rule. The Secretary shall, at the request of a Federal banking agency, publish such comment and response in the Federal Register at the time of publishing the adopted rule.
 
 &emsp;&emsp;(ii)
 
@@ -124,7 +124,7 @@ Authority to limit disclosure of information.—Notwithstanding any other provis
 
 &emsp;(C) shall consider the sufficiency and appropriateness of then existing laws and rules applicable to government securities brokers, government securities dealers, and persons associated with government securities brokers and government securities dealers; and
 
-&emsp;(D) shall consult with and consider the views of the Commission and the Board of Governors of the Federal Reserve System, except where the Secretary determines that an emergency exists requiring expeditious or summary action and publishes its reasons for such determination.
+&emsp;(D) shall consult with and consider the views of the Commission and the Board of Governors of the Federal Reserve System, except wherethe Secretary determines that an emergency exists requiring expeditious or summary action and publishes its reasons for such determination.
 
 (6) If the Commission or the Board of Governors of the Federal Reserve System comments in writing on a proposed rule of the Secretary that has been published for comment, the Secretary shall respond in writing to such written comment before approving the proposed rule.
 
@@ -146,11 +146,11 @@ Authority to limit disclosure of information.—Notwithstanding any other provis
 
 (C) For purposes of subparagraph (B) of this paragraph, any violation of any such provision shall constitute adequate basis for the issuance of any order under section 1818(b) or (c) of title 12, section 1464(d)(2) or (d)(3) <sup>2</sup> of title 12, or section 1730(e) or (f) <sup>2</sup> of title 12, and the customers of any such government securities broker or government securities dealer shall be deemed, respectively, “depositors” as that term is used in section 1818(c) of title 12, “savings account holders” as that term is used in section 1464(d)(3) <sup>2</sup> of title 12, or “insured members” as that term is used in section 1730(f) <sup>2</sup> of title 12.
 
-(D) Nothing in this paragraph shall be construed to affect in any way the powers of such appropriate regulatory agency to proceed against such government securities broker or government securities dealer under any other provision of law.
+(D) Nothing in this paragraph shall be construed to affect in any way the powers of such appropriate regulatory agency to proceedagainst such government securities broker or government securities dealer under any other provision of law.
 
 (E) Each appropriate regulatory agency (other than the Commission) shall promptly notify the Commission after it has imposed any sanction under this paragraph on a government securities broker or government securities dealer, or a person associated with a government securities broker or government securities dealer, and the Commission shall maintain, and make available to the public, a record of such sanctions and any sanctions imposed by it under this subsection.
 
-(3) It shall be unlawful for any person as to whom an order entered pursuant to paragraph (1) or (2) of this subsection suspending or barring him from being associated with a government securities broker or government securities dealer is in effect willfully to become, or to be, associated with a government securities broker or government securities dealer without the consent of the appropriate regulatory agency, and it shall be unlawful for any government securities broker or government securities dealer to permit such a person to become, or remain, a person associated with it without the consent ofthe appropriate regulatory agency, if such government securities broker or government securities dealer knew, or, in the exercise of reasonable care should have known, of such order.
+(3) It shall be unlawful for any person as to whom an order entered pursuant to paragraph (1) or (2) of this subsection suspending or barring him from being associated with a government securities broker or government securities dealer is in effect willfully to become, or to be, associated with a government securities broker or government securities dealer without the consent of the appropriate regulatory agency, and it shall be unlawful for any government securities broker or government securities dealer to permit such a person to become, or remain, a person associated with it without the consent of the appropriate regulatory agency, if such government securities broker or government securities dealer knew, or, in the exercise of reasonable care should have known, of such order.
 
 #### (d) Records of brokers and dealers subject to examination
 
@@ -180,7 +180,7 @@ Consultation.—Within 90 days after December 17, 1993, and annually thereafter,
 
 &emsp;(E)
 
-Exclusion for examination reports.—Nothing in this paragraph shall be construed so as to permit the Commission to require any government securities broker or government securities dealer to obtain, maintain, or furnish any examination report of any appropriate regulatory agency other than the Commission or any supervisory recommendations or analysis contained in any such examination report.
+Exclusion for examination reports.—Nothing in this paragraph shall be construed so as to permit the Commission to require any government securities broker or government securities dealer to obtain, maintain, or furnish any examination report of any appropriate regulatory agency other than the Commission or any supervisory recommendationsor analysis contained in any such examination report.
 
 &emsp;(F)
 
@@ -402,7 +402,7 @@ Section 112 of title I of Pub. L. 103–202 provided that:
 
 Joint Study.—The Secretary of the Treasury, the Securities and Exchange Commission, and the Board of Governors of the Federal Reserve System shall—
 
-&emsp;“(1) with respect to any rules promulgated or amended after October 1, 1991, pursuant to section 15C of the Securities Exchange Act of 1934 \[15 U.S.C. 78<i>o</i>–5\] or any amendment made by this title \[amending this section and sections 78c, 78<i>o</i>, 78<i>o</i>–3, 78s, and 78w of this title\], and any national securities association rule changes applicable principally to government securities transactions approved after October 1, 1991—
+&emsp;“(1) with respect to any rules promulgated or amended after October 1, 1991, pursuant to section 15C of the Securities Exchange Act of 1934 \[15 U.S.C. 78<i>o</i>–5\] or any amendment made by this title \[amending this section and sections 78c, 78<i>o</i>, 78<i>o</i>–3, 78s, and78w of this title\], and any national securities association rule changes applicable principally to government securities transactions approved after October 1, 1991—
 
 &emsp;&emsp;“(A) evaluate the effectiveness of such rules in carrying out the purposes of such Act \[15 U.S.C. 78a et seq.\]; and
 

@@ -120,7 +120,7 @@ Section 113(b) of Pub. L. 96–481 provided that: “The amendment made by subse
 
 #### Short Title
 
-For short title of part B of title I of Pub. L. 96–481 as the Small Business Export Expansion Act of 1980, see Short Title of 1980 Amendment note set out under section 631 of this title.
+For short title of part B of title I of Pub. L. 96–481 as the Small Business Export Expansion Act of 1980, seeShort Title of 1980 Amendment note set out under section 631 of this title.
 
 #### Congressional Declaration of Policy
 

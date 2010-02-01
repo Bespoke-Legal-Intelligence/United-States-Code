@@ -2,7 +2,7 @@
 
 Congress makes the following findings:
 
-&emsp;(1) According to the Department of State, the Government of North Korea is “a dictatorship under the absolute rule of Kim Jong Il”that continues to commit numerous, serious human rights abuses.
+&emsp;(1) According to the Department of State, the Government of North Korea is “a dictatorship under the absolute rule of Kim Jong Il” that continues to commit numerous, serious human rights abuses.
 
 &emsp;(2) The Government of North Korea attempts to control all information, artistic expression, academic works, and media activity inside North Korea and strictly curtails freedom of speech and access to foreign broadcasts.
 
@@ -24,7 +24,7 @@ Congress makes the following findings:
 
 &emsp;(11) More than 2,000,000 North Koreans are estimated to have died of starvation since the early 1990s because of the failure of the centralized agricultural and public distribution systems operated by the Government of North Korea.
 
-&emsp;(12) According to a 2002 United Nations-European Union survey, nearly one out of every ten children in North Korea suffers from acute malnutrition and four out of every ten children in North Korea are chronically malnourished.
+&emsp;(12) According to a 2002 United Nations-European Union survey, nearly one out of everyten children in North Korea suffers from acute malnutrition and four out of every ten children in North Korea are chronically malnourished.
 
 &emsp;(13) Since 1995, the United States has provided more than 2,000,000 tons of humanitarian food assistance to the people of North Korea, primarily through the World Food Program.
 
@@ -46,7 +46,7 @@ Congress makes the following findings:
 
 &emsp;(22) In January 2000, North Korean agents inside China allegedly abducted the Reverend Kim Dong-shik, a United States permanent resident and advocate for North Korean refugees, whose condition and whereabouts remain unknown.
 
-&emsp;(23) Between 1994 and 2003, South Korea has admitted approximately 3,800 North Koreanrefugees for domestic resettlement, a number that is small in comparison with the total number of North Korean escapees but far greater than the number legally admitted in any other country.
+&emsp;(23) Between 1994 and 2003, South Korea has admitted approximately 3,800 North Korean refugees for domestic resettlement, a number that is small in comparison with the total number of North Korean escapees but far greater than the number legally admitted in any other country.
 
 &emsp;(24) Although the principal responsibility for North Korean refugee resettlement naturally falls to the Government of South Korea, the United States should play a leadership role in focusing international attention on the plight of these refugees, and formulating international solutions to that profound humanitarian dilemma.
 

@@ -38,5 +38,5 @@ Pub. L. 110–234, §1(a), May 22, 2008, 122 Stat. 923, and Pub. L. 110–246, �
 
 #### Applicability of Explanatory Statement in House Report 110–627 to Pub. L. 110–246
 
-Pub. L. 110–246, §3, June 18, 2008, 122 Stat. 1664, provided that: “The Joint Explanatory Statement submitted by the Committee of Conference for the conference report to accompany H.R. 2419 of the 110th Congress (House Report 110–627) shall be deemed to be part of the legislative history of this Act \[Pub. L. 110–246, see Tables for classification\] and shall have the same effect with respect to the implementation of this Act as itwould have had with respect to the implementation of H.R. 2419 \[enacted as Pub. L. 110–234\].”
+Pub. L. 110–246, §3, June 18, 2008, 122 Stat. 1664, provided that: “The Joint Explanatory Statement submitted by the Committee of Conference for the conference report to accompany H.R. 2419 of the 110th Congress (House Report 110–627) shall be deemed to be part of the legislative history of this Act \[Pub. L. 110–246, see Tables for classification\] and shall have the same effect with respect to the implementation of this Act as it would have had with respect to the implementation of H.R. 2419 \[enacted as Pub. L. 110–234\].”
 

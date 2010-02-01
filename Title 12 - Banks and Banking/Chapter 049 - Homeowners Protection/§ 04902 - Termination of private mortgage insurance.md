@@ -12,7 +12,7 @@ A requirement for private mortgage insurance in connection with a residential mo
 
 &emsp;(4) has satisfied any requirement of the holder of the mortgage (as of the date of a request under paragraph (1)) for—
 
-&emsp;&emsp;(A) evidence (of a type established in advance and made known to the mortgagor by the servicer promptly upon receipt of a request under paragraph (1)) that the value of the property securing the mortgage has notdeclined below the original value of the property; and
+&emsp;&emsp;(A) evidence (of a type established in advance and made known to the mortgagor by the servicer promptly upon receipt of a request under paragraph (1)) that the value of the property securing the mortgage has not declined below the original value of the property; and
 
 &emsp;&emsp;(B) certification that the equity of the mortgagor in the residence securing the mortgage is unencumbered by a subordinate lien.
 

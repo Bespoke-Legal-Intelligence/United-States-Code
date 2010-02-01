@@ -92,7 +92,7 @@
 
 #### (2) Availability
 
-&emsp;Of the amount appropriated for a fiscal year under section 6801(a) of this title that is made available to carry out this section, and that remains after the Secretary reserves funds for payments under paragraph (1)—
+&emsp;Of the amount appropriated for a fiscal year under section 6801(a) of this title that is madeavailable to carry out this section, and that remains after the Secretary reserves funds for payments under paragraph (1)—
 
 &emsp;&emsp;(A) not less than one-third of the remainder shall be used to award grants to eligible entities for activities carried out within an entire school district; and
 

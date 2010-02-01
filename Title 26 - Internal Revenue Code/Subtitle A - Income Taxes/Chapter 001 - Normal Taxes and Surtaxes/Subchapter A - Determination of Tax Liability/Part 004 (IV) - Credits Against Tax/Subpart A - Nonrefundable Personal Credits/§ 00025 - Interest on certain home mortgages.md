@@ -50,7 +50,7 @@ For purposes of this section—
 
 &emsp;The term “mortgage credit certificate” means any certificate which—
 
-&emsp;&emsp;(A) is issued under a qualified mortgage credit certificate program by the State or political subdivision having the authority toissue a qualified mortgage bond to provide financing on the principal residence of the taxpayer,
+&emsp;&emsp;(A) is issued under a qualified mortgage credit certificate program by the State or political subdivision having the authority to issue a qualified mortgage bond to provide financing on the principal residence of the taxpayer,
 
 &emsp;&emsp;(B) is issued to the taxpayer in connection with the acquisition, qualified rehabilitation, or qualified home improvement of the taxpayer's principal residence,
 
@@ -162,7 +162,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) in the case of a taxable year to which section 26(a)(2) applies, the limitation imposed by section 26(a)(2) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 25D, and 1400C), and
 
-&emsp;&emsp;&emsp;(ii) in the case of a taxable year to which section 26(a)(2) does not apply, the limitation imposed by section 26(a)(1) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 24, 25B, 25D, 30D, and 1400C).
+&emsp;&emsp;&emsp;(ii) in the case of a taxable year to which section 26(a)(2) does not apply, the limitation imposed by section 26(a)(1) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 24, 25A(i), 25B, 25D, 30, 30B, 30D, and 1400C).
 
 #### (2) Indebtedness not treated as certified where certain requirements not in fact met
 
@@ -294,7 +294,7 @@ Each person who makes a loan which is a certified indebtedness amount under any 
 
 &emsp;&emsp;<b>For provisions increasing the tax imposed by this chapter to recapture a portion of the Federal subsidy from the use of mortgage credit certificates, see section 143(m).</b>
 
-(Added Pub. L. 98–369, div. A, title VI, §612(a), July 18, 1984, 98 Stat. 905; amended Pub. L. 99–514, title XIII, §1301(f), title XVIII, §§1862(a)–(d)(1), 1899A(1), Oct. 22, 1986, 100 Stat. 2655, 2883, 2884, 2958; Pub. L. 100–647, title I, §1013(a)(25), (26), title IV, §4005(a)(2), (g)(7), Nov. 10, 1988, 102 Stat. 3543, 3645, 3651; Pub. L. 101–239, title VII, §7104(b), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11408(b), Nov. 5, 1990, 104 Stat. 1388–477; Pub. L. 102–227, title I, §108(b), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13141(b), Aug. 10, 1993, 107 Stat. 436; Pub. L. 104–188, title I, §1807(c)(1), Aug. 20, 1996, 110 Stat. 1902; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6008(d)(7), July 22, 1998, 112 Stat. 812; Pub. L. 107–16, title II, §201(b)(2)(F), title VI, §618(b)(2)(B), June 7, 2001, 115 Stat. 46, 108; Pub. L. 109–58, title XIII, §1335(b)(2), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(C), (4), Dec. 21, 2005, 119 Stat. 2613, 2615; Pub. L.110–343, div. B, title II, §205(d)(1)(B), Oct. 3, 2008, 122 Stat. 3838.)
+(Added Pub. L. 98–369, div. A, title VI, §612(a), July 18, 1984, 98 Stat. 905; amended Pub. L. 99–514, title XIII, §1301(f), title XVIII, §§1862(a)–(d)(1), 1899A(1), Oct. 22, 1986, 100 Stat. 2655, 2883, 2884, 2958; Pub. L. 100–647, title I, §1013(a)(25), (26), title IV, §4005(a)(2), (g)(7), Nov. 10, 1988, 102 Stat. 3543, 3645, 3651; Pub. L. 101–239, title VII, §7104(b), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11408(b), Nov. 5, 1990, 104 Stat. 1388–477; Pub. L. 102–227, title I, §108(b), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13141(b), Aug. 10, 1993, 107 Stat. 436; Pub. L. 104–188, title I, §1807(c)(1), Aug. 20, 1996, 110 Stat. 1902; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6008(d)(7), July 22, 1998, 112 Stat. 812; Pub. L. 107–16, title II, §201(b)(2)(F), title VI, §618(b)(2)(B), June 7, 2001, 115 Stat. 46, 108; Pub. L. 109–58, title XIII, §1335(b)(2), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(C), (4), Dec. 21, 2005, 119 Stat. 2613, 2615; Pub. L. 110–343, div. B, title II, §205(d)(1)(B), Oct. 3, 2008, 122 Stat. 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(2), 1142(b)(1)(B), 1144(b)(1)(B), Feb. 17, 2009, 123 Stat. 314, 330, 332.)
 
 #### Amendment of Section
 
@@ -307,6 +307,12 @@ Each person who makes a loan which is a certified indebtedness amount under any 
 A prior section 25 was renumbered section 26 of this title.
 
 #### Amendments
+
+2009—Subsec. (e)(1)(C)(ii). Pub. L. 111–5, §1144(b)(1)(B), inserted “30B,” after “30,”.
+
+Pub. L. 111–5, §1142(b)(1)(B), inserted “30,” after “25D,”.
+
+Pub. L. 111–5, §1004(b)(2), inserted “25A(i),” after “24,”.
 
 2008—Subsec. (e)(1)(C)(ii). Pub. L. 110–343 inserted “30D,” after “25D,”.
 
@@ -406,6 +412,14 @@ Subsec. (f)(3). Pub. L. 99–514, §1301(f)(2)(O), substituted “section 146(d)
 
 Subsec. (f)(4). Pub. L. 99–514, §1899A(1), substituted “ensure” for “insure”.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by section 1004(b)(2) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1004(d) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
+
+Amendment by section 1142(b)(1)(B) of Pub. L. 111–5 applicable to vehicles acquired after Feb. 17, 2009, see section 1142(c) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
+
+Amendment by section 1144(b)(1)(B) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1144(c) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2008, see section 205(e) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 24 of this title.
@@ -450,7 +464,7 @@ Section 13141(f)(2) of Pub. L. 103–66 provided that: “The amendment made by 
 
 #### Effective Date of 1991 Amendment
 
-Section 108(c)(2) of Pub. L. 102–227 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to elections for periods after December 31, 1991.”
+Section 108(c)(2) of Pub. L. 102–227 provided that: “The amendment made by subsection (b) \[amendingthis section\] shall apply to elections for periods after December 31, 1991.”
 
 #### Effective Date of 1990 Amendment
 

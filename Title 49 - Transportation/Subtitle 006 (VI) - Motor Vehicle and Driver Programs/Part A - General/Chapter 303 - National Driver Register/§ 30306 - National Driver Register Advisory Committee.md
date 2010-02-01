@@ -52,7 +52,7 @@ Reports.—At least once a year, the Committee shall submit to the Secretary a r
 
 (i)
 
-Relationship to Other Laws.—The Committee is exempt from sections 10(e) and (f) and 14 of the Federal Advisory Committee Act (5 App. U.S.C.).
+Relationship to Other Laws.—The Committee is exempt from sections 10(e) and (f) and14 of the Federal Advisory Committee Act (5 App. U.S.C.).
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 978.)
 

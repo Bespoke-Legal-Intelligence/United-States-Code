@@ -14,7 +14,7 @@ Notwithstanding any other provisions of this chapter except as provided in subse
 
 &emsp;(B) shall not be subject to a referendum under section 2708 or 2709(b) of this title until the end of the 18-month period beginning on such effective date.
 
-(3) During the period prior to the referendum of an amendment issued pursuant to paragraph (1) and beginning on the effective date of such amendment, the Egg Board shall—
+(3) During the period prior to the referendum of an amendment issued pursuant to paragraph\(1) and beginning on the effective date of such amendment, the Egg Board shall—
 
 &emsp;(A) establish an escrow account to be used for assessment refunds; and
 

@@ -124,7 +124,7 @@
 
 #### (A) Finding
 
-&emsp;&emsp;Before the end of the 1-year period beginning on December 19, 1991, the Corporation shall make a finding whether savings bank life insurance activities of insured banks pose or may pose any significant risk to the Deposit Insurance Fund.
+&emsp;&emsp;Before the end of the 1-year period beginning on December 19, 1991, the Corporation shall make a finding whether savings banklife insurance activities of insured banks pose or may pose any significant risk to the Deposit Insurance Fund.
 
 #### (B) Actions
 
@@ -144,7 +144,7 @@
 
 #### (2) Exception for banks in certain States
 
-&emsp;Notwithstanding paragraph (1), an insured State bank may, to the extent permitted bythe Corporation, acquire and retain ownership of securities described in paragraph (1) to the extent the aggregate amount of such investment does not exceed an amount equal to 100 percent of the bank's capital if such bank—
+&emsp;Notwithstanding paragraph (1), an insured State bank may, to the extent permitted by the Corporation, acquire and retain ownership of securities described in paragraph (1) to the extent the aggregate amount of such investment does not exceed an amount equal to 100 percent of the bank's capital if such bank—
 
 &emsp;&emsp;(A) is located in a State that permitted, as of September 30, 1991, investment in common or preferred stock listed on a national securities exchange or shares of an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\]; and
 

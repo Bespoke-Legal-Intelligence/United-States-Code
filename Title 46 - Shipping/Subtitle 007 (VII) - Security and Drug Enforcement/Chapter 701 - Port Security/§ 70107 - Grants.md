@@ -10,7 +10,7 @@ Eligible Costs.—The following costs of funding the correction of Coast Guard i
 
 &emsp;(1) Salary, benefits, overtime compensation, retirement contributions, and other costs of additional Coast Guard mandated security personnel.
 
-&emsp;(2) The cost of acquisition, operation, and maintenance of security equipment or facilities to be used for security monitoring and recording, security gates and fencing, marine barriers for designated security zones, security-related lighting systems, remote surveillance, concealed video systems, security vessels, and other security-related infrastructure or equipment that contributes to the overall security of passengers, cargo, or crewmembers. Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121(j)(8) <sup>1</sup> ), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—
+&emsp;(2) The cost of acquisition, operation, and maintenance of security equipment or facilities to be used for security monitoring and recording, security gates and fencing, marine barriers for designated security zones, security-related lighting systems, remote surveillance, concealed video systems, security vessels, and other security-related infrastructure or equipment that contributes to the overall security of passengers, cargo, or crewmembers. Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121(j)(8) <sup>1</sup> ), including those facilities insupport of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—
 
 &emsp;&emsp;(A) $1,000,000 per project; or
 
@@ -144,7 +144,7 @@ Other expenditures.—The Secretary shall, as part of the report required by par
 
 &emsp;(3)
 
-Annual reports.—Annually, beginning 1 year after transmittal of the report requiredby paragraph (1) until October 1, 2009, the Secretary shall transmit an unclassified annual report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure, on progress in achieving compliance with the correction of Coast Guard identified vulnerabilities in port security and compliance with Area Maritime Transportation Security Plans and facility security plans that—
+Annual reports.—Annually, beginning 1 year after transmittal of the report required by paragraph (1) until October 1, 2009, the Secretary shall transmit an unclassified annual report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure, on progress in achieving compliance with the correction of Coast Guard identified vulnerabilities in port security and compliance with Area Maritime Transportation Security Plans and facility security plans that—
 
 &emsp;&emsp;(A) identifies any modifications necessary in funding to ensure the correction of Coast Guard identified vulnerabilities and ensure compliance with Area Maritime Transportation Security Plans and facility security plans;
 
@@ -194,7 +194,7 @@ In general.—In conjunction with ongoing efforts to improve security at United 
 
 &emsp;&emsp;&emsp;(i) testing of new detection and screening technologies;
 
-&emsp;&emsp;&emsp;(ii) projects to protect United States ports and infrastructure on or adjacent to the navigable waters of the United States, including underwater access; and
+&emsp;&emsp;&emsp;(ii) projects to protect United States ports and infrastructure on or adjacent tothe navigable waters of the United States, including underwater access; and
 
 &emsp;&emsp;&emsp;(iii) tools for responding to a transportation security incident at United States ports and infrastructure on or adjacent to the navigable waters of the United States, including underwater access.
 

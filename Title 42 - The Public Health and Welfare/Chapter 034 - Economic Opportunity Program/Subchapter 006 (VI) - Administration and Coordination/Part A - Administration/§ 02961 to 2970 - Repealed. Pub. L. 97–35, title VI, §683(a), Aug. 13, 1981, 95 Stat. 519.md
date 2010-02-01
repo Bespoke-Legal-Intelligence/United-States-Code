@@ -1,6 +1,6 @@
 ### §§2961 to 2970. Repealed. Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519
 
-Section 2961, Pub. L. 88–452, title VI, §611, Aug. 20, 1964, 78 Stat. 532; Pub. L. 89–794, title VI, §607, Nov. 8,1966, 80 Stat. 1470; Pub. L. 90–222, title I, §108(i), Dec. 23, 1967, 81 Stat. 716; Pub. L. 95–568, §17(a)(31), Nov. 2, 1978, 92 Stat. 2442, related to benefit limitations for those voluntarily poor.
+Section 2961, Pub. L. 88–452, title VI, §611, Aug. 20, 1964, 78 Stat. 532; Pub. L. 89–794, title VI, §607, Nov. 8, 1966, 80 Stat. 1470; Pub. L. 90–222, title I, §108(i), Dec. 23, 1967, 81 Stat. 716; Pub. L. 95–568, §17(a)(31), Nov. 2, 1978, 92 Stat. 2442, related to benefit limitations for those voluntarily poor.
 
 Section 2962, Pub. L. 88–452, title VI, §612, Aug. 20, 1964, 78 Stat. 533; Pub. L. 90–222, title I, §108(j), Dec. 23, 1967, 81 Stat. 716, related to joint funding.
 

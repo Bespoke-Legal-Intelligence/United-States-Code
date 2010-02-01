@@ -36,7 +36,7 @@ Definitions.—As used in this section—
 
 &emsp;&emsp;(A) a firearm or destructive device or a controlled substance in schedule I or II, other than marijuana or a controlled substance referred to in subparagraph (C) of this subsection;
 
-&emsp;&emsp;(B) marijuana or a controlled substance in schedule III, other than a controlled substance referred to in subparagraph (C) of this subsection, ammunition, a weapon (other than a firearm or destructive device), or an object that is designed or intended to beused as a weapon or to facilitate escape from a prison;
+&emsp;&emsp;(B) marijuana or a controlled substance in schedule III, other than a controlled substance referred to in subparagraph (C) of this subsection, ammunition, a weapon (other than a firearm or destructive device), or an object that is designed or intended to be used as a weapon or to facilitate escape from a prison;
 
 &emsp;&emsp;(C) a narcotic drug, methamphetamine, its salts, isomers, and salts of its isomers, lysergic acid diethylamide, or phencyclidine;
 

@@ -28,7 +28,7 @@ Section 20, formerly 19, of Pub. L. 93–533, as renumbered by Pub. L. 94–205,
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–205, Jan. 2, 1976, 89 Stat. 1157, provided: “That this Act \[enacting section 2617 of this title, amending sections 2602, 2603, 2604, 2607, 2609 and 2616 of this title and section 1631 of Title 15, Commerce and Trade, repealing sections 2605 and 2606 of this title,enacting provisions set out as a note under section 2602 of this title and amending provisions set out as a note under this section\] may be cited as the ‘Real Estate Settlement Procedures Act Amendments of 1975’.”
+Section 1 of Pub. L. 94–205, Jan. 2, 1976, 89 Stat. 1157, provided: “That this Act \[enacting section 2617 of this title, amending sections 2602, 2603, 2604, 2607, 2609 and 2616 of this title and section 1631 of Title 15, Commerce and Trade, repealing sections 2605 and 2606 of this title, enacting provisions set out as a note under section 2602 of this title and amending provisions set out as a note under this section\] may be cited as the ‘Real Estate Settlement Procedures Act Amendments of 1975’.”
 
 #### Short Title
 
@@ -52,5 +52,5 @@ Regulations.—To the extent that it is necessary to prescribe any regulation in
 
 “(c)
 
-Recommendations for Legislation.—If the Board and the Secretary find that legislative action may be necessary or appropriate in order to simplify and unify the disclosure requirements under the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2601 et seq.\] and the Truth in Lending Act \[15 U.S.C. 1601 et seq.\], the Board and the Secretary shall submit a report containing recommendations to the Congress concerning such action.”
+Recommendations for Legislation.—If the Board and the Secretary find that legislative action may be necessary or appropriate in order to simplify and unify the disclosure requirements under the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2601et seq.\] and the Truth in Lending Act \[15 U.S.C. 1601 et seq.\], the Board and the Secretary shall submit a report containing recommendations to the Congress concerning such action.”
 

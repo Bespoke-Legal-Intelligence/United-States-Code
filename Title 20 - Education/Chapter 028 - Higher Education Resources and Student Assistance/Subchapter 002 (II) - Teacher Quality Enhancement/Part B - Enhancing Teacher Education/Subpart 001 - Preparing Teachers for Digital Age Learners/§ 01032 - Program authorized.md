@@ -4,7 +4,7 @@
 
 The Secretary is authorized to award grants to, or enter into contracts or cooperative agreements with, eligible consortia to pay the Federal share of the costs of projects to—
 
-&emsp;(1) serve graduate teacher candidates who are prepared to use modern information, communication, and learning tools to—
+&emsp;(1) assist in the graduation of teacher candidates who are prepared to use modern information, communication, and learning tools to—
 
 &emsp;&emsp;(A) improve student learning, assessment, and learning management; and
 
@@ -12,7 +12,7 @@ The Secretary is authorized to award grants to, or enter into contracts or coope
 
 &emsp;(2) strengthen and develop partnerships among the stakeholders in teacher preparation to transform teacher education and ensure technology-rich teaching and learning environments throughout a teacher candidate's preservice education, including clinical experiences; and
 
-&emsp;(3) assess the effectiveness of departments, schools, and colleges of education at institutions of higher education in preparing teacher candidates for successful implementation of technology-rich teaching and learning environments, including environments consistent with the principles of universal design forlearning, that enable kindergarten through grade 12 students to develop learning skills to succeed in higher education and to enter the workforce.
+&emsp;(3) assess the effectiveness of departments, schools, and colleges of education at institutions of higher education in preparing teacher candidates for successful implementation of technology-rich teaching and learning environments, including environments consistent with the principles of universal design for learning, that enable kindergarten through grade 12 students to develop learning skills to succeed in higher education and to enter the workforce.
 
 #### (b) Amount and duration
 
@@ -42,7 +42,7 @@ In this subpart, the term “eligible consortium” means a consortium of member
 
 &emsp;(5) Not less than one entity with the capacity to contribute to the technology-related reform of teacher preparation programs, which may be a professional association, foundation, museum, library, for-profit business, public or private nonprofit organization, community-based organization, or other entity.
 
-(Pub. L. 89–329, title II, §231, as added Pub. L. 110–315, title II, §201(3), Aug. 14, 2008, 122 Stat. 3154.)
+(Pub. L. 89–329, title II, §231, as added Pub. L. 110–315, title II, §201(3), Aug. 14, 2008, 122 Stat. 3154; amended Pub. L. 111–39, title II, §201(3), July 1, 2009, 123 Stat. 1936.)
 
 #### Prior Provisions
 
@@ -55,4 +55,12 @@ A prior section 231 of Pub. L. 89–329 was classified to section 1041 of this t
 Another prior section 231 of Pub. L. 89–329 was classified to section 1041 of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 Another prior section 231 of Pub. L. 89–329 was classified to section 1041 of this title, prior to the general amendment of former part C of this subchapter by Pub. L. 94–482.
+
+#### Amendments
+
+2009—Subsec. (a)(1). Pub. L. 111–39 substituted “assist in the graduation of” for “serve graduate” in introductory provisions.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

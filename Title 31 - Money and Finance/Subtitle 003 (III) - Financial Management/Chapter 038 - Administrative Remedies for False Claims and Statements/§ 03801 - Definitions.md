@@ -110,7 +110,7 @@
 
 &emsp;&emsp;&emsp;(ii) a grant, loan, or benefit from,
 
-> &emsp;&emsp;an authority, or any State, political subdivision of a State, or other party, if the United States Government provides any portion of the money or property under such contract or for such grant, loan, or benefit, or if the Government will reimburse such State, political subdivision, or party for any portion of the money or property under such contract or for such grant, loan, or benefit,
+> &emsp;&emsp;an authority, or any State, political subdivision of a State, or other party, if the United States Government provides any portion of the money or property under such contractor for such grant, loan, or benefit, or if the Government will reimburse such State, political subdivision, or party for any portion of the money or property under such contract or for such grant, loan, or benefit,
 
 > &emsp;except that such term does not include any statement made in any return of tax imposed by the Internal Revenue Code of 1986.
 

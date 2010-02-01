@@ -36,7 +36,7 @@ The adjustments under subsection (a) shall, to the maximum extent practicable, b
 
 &emsp;&emsp;&emsp;(i) the elimination of warehouse location differentials;
 
-&emsp;&emsp;&emsp;(ii) the establishment of differentials for the various quality factors and staplelengths of cotton based on a 3-year, weighted moving average of the weighted designated spot market regions, as determined by regional production;
+&emsp;&emsp;&emsp;(ii) the establishment of differentials for the various quality factors and staple lengths of cotton based on a 3-year, weighted moving average of the weighted designated spot market regions, as determined by regional production;
 
 &emsp;&emsp;&emsp;(iii) the elimination of any artificial split in the premium or discount between upland cotton with a 32 or 33 staple length due to micronaire; and
 

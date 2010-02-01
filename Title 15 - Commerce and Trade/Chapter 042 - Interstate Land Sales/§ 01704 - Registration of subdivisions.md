@@ -6,7 +6,7 @@ A subdivision may be registered by filing with the Secretary a statement of reco
 
 #### (b) Payment of fees; use by Secretary
 
-At the time of filing a statement of record, or any amendment thereto, the developer shall payto the Secretary a fee, not in excess of $1,000, in accordance with a schedule to be fixed by the regulations of the Secretary, which fees may be used by the Secretary to cover all or part of the cost of rendering services under this chapter, and such expenses as are paid from such fees shall be considered nonadministrative.
+At the time of filing a statement of record, or any amendment thereto, the developer shall pay to the Secretary a fee, not in excess of $1,000, in accordance with a schedule to be fixed by the regulations of the Secretary, which fees may be used by the Secretary to cover all or part of the cost of rendering services under this chapter, and such expenses as are paid from such fees shall be considered nonadministrative.
 
 #### (c) Filing deemed to have taken place upon receipt of statement of record accompanied by fee
 

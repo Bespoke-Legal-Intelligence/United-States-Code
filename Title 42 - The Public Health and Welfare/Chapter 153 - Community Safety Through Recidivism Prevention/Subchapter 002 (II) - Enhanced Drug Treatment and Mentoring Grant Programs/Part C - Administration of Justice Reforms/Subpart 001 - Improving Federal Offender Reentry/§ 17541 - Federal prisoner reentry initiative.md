@@ -204,7 +204,7 @@ The Attorney General, in consultation with the Secretary of Labor, shall take su
 
 &emsp;&emsp;(B) Substance abuse treatment and aftercare related to such treatment, mental and medical health treatment and aftercare related to such treatment, vocational and educational training, life skills instruction, conflict resolution skills training, batterer intervention programs, and other programs to promote effective reentry into the community as appropriate.
 
-&emsp;&emsp;(C) Involvement of the family of such an individual, a victim advocate, and the victim of the offense committed by such an individual, if such involvement is safe for such victim (especially in a domestic violence case).
+&emsp;&emsp;(C) Involvement of the family of such an individual, a victim advocate, and the victim of the offense committed by such an individual, if such involvement is safe for suchvictim (especially in a domestic violence case).
 
 &emsp;&emsp;(D) A methodology, including outcome measures, to evaluate the program.
 

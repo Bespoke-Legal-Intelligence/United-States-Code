@@ -18,7 +18,7 @@ In the case of an income tax return of—
 
 &emsp;(1) an exempt cooperative association described in section 1381(a)(1), or
 
-&emsp;(2) an organization described in section 1381(a)(2) which is under an obligation to pay patronage dividends (as defined in section 1388(a)) in an amount equal to at least 50 percent of its net earnings from business done with or for its patrons, or which paid patronage dividends in such an amount out of the net earnings from business done with or for patrons during the most recent taxable year for which it had such net earnings,
+&emsp;(2) an organization described in section 1381(a)(2) which is under an obligation to paypatronage dividends (as defined in section 1388(a)) in an amount equal to at least 50 percent of its net earnings from business done with or for its patrons, or which paid patronage dividends in such an amount out of the net earnings from business done with or for patrons during the most recent taxable year for which it had such net earnings,
 
 > a return made on the basis of a calendar year shall be filed on or before the 15th day of September following the close of the calendar year, and a return made on the basis of a fiscal year shall be filed on or before the 15th day of the 9th month following the close of the fiscal year.
 
@@ -50,7 +50,7 @@ Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Se
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in taxable years ending aftersuch date, see section 805(a)(1) of Pub. L. 98–369, as amended, set out as a note under section 245 of this title.
+Amendment by Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in taxable years ending after such date, see section 805(a)(1) of Pub. L. 98–369, as amended, set out as a note under section 245 of this title.
 
 #### Effective Date of 1978 Amendment
 

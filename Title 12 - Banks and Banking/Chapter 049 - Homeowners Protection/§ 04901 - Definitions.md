@@ -18,7 +18,7 @@ In this chapter, the following definitions shall apply:
 
 &emsp;&emsp;(B) with respect to an adjustable rate mortgage, at the option of the mortgagor, the date on which the principal balance of the mortgage—
 
-&emsp;&emsp;&emsp;(i) based solely on the amortization schedule then in effect for that mortgage,and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 80 percent of the original value of the property securing the loan; or
+&emsp;&emsp;&emsp;(i) based solely on the amortization schedule then in effect for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 80 percent of the original value of the property securing the loan; or
 
 &emsp;&emsp;&emsp;(ii) based solely on actual payments, first reaches 80 percent of the original value of the property securing the loan.
 

@@ -1,5 +1,5 @@
 
-11 U.S.C.<br>United States Code, 2008 Edition<br>Title 11 - BANKRUPTCY<br>From the U.S. Government Publishing Office, www.gpo.gov
+11 U.S.C.<br>United States Code, 2009 Edition<br>Title 11 - BANKRUPTCY<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 11—BANKRUPTCY
 
@@ -2702,7 +2702,7 @@ Rep.
 
 Rep.
 
-Table II<br>This Table lists the sections of revised Title 11,<br>Bankruptcy, and indicates the sections of former<br>Title 11, which covered similar and related subject<br>matter.
+Table IIs<br>This Table lists the sections of revised Title 11,<br>Bankruptcy, and indicates the sections of former<br>Title 11, which covered similar and related subject<br>matter.
 
 <i>Title 11</i>
 

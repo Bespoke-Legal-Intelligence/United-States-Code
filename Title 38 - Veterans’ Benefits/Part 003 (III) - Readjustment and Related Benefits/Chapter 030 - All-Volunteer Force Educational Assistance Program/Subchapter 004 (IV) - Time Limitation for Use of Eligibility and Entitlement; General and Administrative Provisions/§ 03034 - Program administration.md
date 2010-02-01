@@ -90,7 +90,7 @@ Subsecs. (c), (d). Pub. L. 99–576, §302, added subsec. (c) and redesignated f
 
 Amendment by section 204(a) of Pub. L. 105–368 applicable with respect to courses of flight training beginning on or after Oct. 1, 1998, see section 204(c) of Pub. L. 105–368, set out as a note under section 16136 of Title 10, Armed Forces.
 
-Pub. L. 105–368, title II, §206(b), Nov. 11, 1998, 112 Stat. 3328, provided that: “The amendment made by this section \[amending this section\] shall take effect 180 daysafter the date of the enactment of this Act \[Nov. 11, 1998\].”
+Pub. L. 105–368, title II, §206(b), Nov. 11, 1998, 112 Stat. 3328, provided that: “The amendment made by this section \[amending this section\] shall take effect 180 days after the date of the enactment of this Act \[Nov. 11, 1998\].”
 
 #### Effective Date of 1994 Amendment
 

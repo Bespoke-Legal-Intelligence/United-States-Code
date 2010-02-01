@@ -18,7 +18,7 @@ To be so designated, a Head Start agency shall, at a minimum, do all the followi
 
 &emsp;&emsp;(B) to afford such parents the opportunity to participate in the development and overall conduct of the program at the local level, including transportation assistance as appropriate.
 
-&emsp;(4) Offer (directly or through referral to local entities, such as entities carrying out Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6381 et seq.), public and school libraries, and entities carrying out family support programs) to such parents—
+&emsp;(4) Offer (directly or through referral to local entities, such as entities carrying out Even Start programs under subpart 3 of part B of title I of the Elementary and SecondaryEducation Act of 1965 (20 U.S.C. 6381 et seq.), public and school libraries, and entities carrying out family support programs) to such parents—
 
 &emsp;&emsp;(A) family literacy services; and
 
@@ -98,7 +98,7 @@ Upon receiving designation as a Head Start agency, the agency shall establish an
 
 &emsp;&emsp;&emsp;(iv) Additional members shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) reflect the community to be served and include parents of children who are currently, or were formerly, enrolled in Head Start programs; and
+&emsp;&emsp;&emsp;&emsp;(I) reflect the community to be served and include parents of children who arecurrently, or were formerly, enrolled in Head Start programs; and
 
 &emsp;&emsp;&emsp;&emsp;(II) are selected for their expertise in education, business administration, or community affairs.
 
@@ -172,7 +172,7 @@ Upon receiving designation as a Head Start agency, the agency shall establish an
 
 &emsp;&emsp;&emsp;&emsp;(X) establishing, adopting, and periodically updating written standards of conduct that establish standards and formal procedures for disclosing, addressing, and resolving—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) any conflict of interest, and any appearance of a conflict of interest, by members of the governing body, officers and employees of the Head Start agency, and consultants and agents who provide services or furnish goods to the Head Start agency; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) any conflict of interest, and any appearance of a conflict of interest, bymembers of the governing body, officers and employees of the Head Start agency, and consultants and agents who provide services or furnish goods to the Head Start agency; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) complaints, including investigations, when appropriate; and
 
@@ -360,7 +360,7 @@ To be so designated, each Head Start agency shall—
 
 &emsp;(9) establish goals and measurable objectives for the provision of health, educational, nutritional, and social services provided under this subchapter and related to the program mission and to promote school readiness; and
 
-&emsp;(10) develop procedures for identifying children who are limited English proficient, and informing the parents of such children aboutthe instructional services used to help children make progress towards acquiring the knowledge and skills described in section 9836a(a)(1)(B) of this title and acquisition of the English language.
+&emsp;(10) develop procedures for identifying children who are limited English proficient, and informing the parents of such children about the instructional services used to help children make progress towards acquiring the knowledge and skills described in section 9836a(a)(1)(B) of this title and acquisition of the English language.
 
 #### (g) Funded enrollment; waiting list
 
@@ -428,7 +428,7 @@ Subsec. (d)(5). Pub. L. 105–285, §109(4)(C), redesignated par. (5) as (4).
 
 Subsec. (e). Pub. L. 105–285, §109(5), added subsec. (e).
 
-1994—Subsec. (b). Pub. L. 103–252, §109(1), amended subsec. (b) generally. Prior to amendment, subsec. (b)read as follows: “In order to be so designated, a Head Start agency must also (1) establish effective procedures by which parents and area residents concerned will be enabled to directly participate in decisions that influence the character of programs affecting their interests; (2) provide for their regular participation in the implementation of such programs; (3) provide technical and other support needed to enable parents and area residents to secure on their own behalf available assistance from public and private sources; (4) involve parents of children participating in its Head Start program in appropriate educational services (in accordance with the performance standards in effect upon section 9846(b) of this title or through referral of such parents to educational services available in the community) in order to aid their children to attain their full potential; (5) establish procedures to seek reimbursement, to the extent feasible, from other agencies for services for which any such other agency is responsible, which are provided to a Head Start participant by the Head Start agency; (6) provide (directly or through referral to educational services available in the community) parents of children participating in its Head Start program with child development and literacy skills training in order to aid their children to attain their full potential; and (7) consider providing services to assist younger siblings of children participating in its Head Start program to obtain health services from other sources.”
+1994—Subsec. (b). Pub. L. 103–252, §109(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In order to be so designated, a Head Start agency must also (1) establish effective procedures by which parents and area residents concerned will be enabled to directly participate in decisions that influence the character of programs affecting their interests; (2) provide for their regular participation in the implementation of such programs; (3) provide technical and other support needed to enable parents and area residents to secure on their own behalf available assistance from public and private sources; (4) involve parents of children participating in its Head Start program in appropriate educational services (in accordance with the performance standards in effect upon section 9846(b) of this title or through referral of such parents to educational services available in the community) in order to aid their children to attain their full potential; (5) establish procedures to seek reimbursement, to the extent feasible, from other agencies for services for which any such other agency is responsible, which are provided to a Head Start participant by the Head Start agency; (6) provide (directly or through referral to educational services available in the community) parents of children participating in its Head Start program with child development and literacy skills training in order to aid their children to attain their full potential; and (7) consider providing services to assist younger siblings of children participating in its Head Start program to obtain health services from other sources.”
 
 Subsec. (c). Pub. L. 103–252, §109(2), struck out “schools that will subsequently serve children in Head Start programs,” after “coordinate with” and inserted “, including Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2741 et seq.),” after “other programs”.
 

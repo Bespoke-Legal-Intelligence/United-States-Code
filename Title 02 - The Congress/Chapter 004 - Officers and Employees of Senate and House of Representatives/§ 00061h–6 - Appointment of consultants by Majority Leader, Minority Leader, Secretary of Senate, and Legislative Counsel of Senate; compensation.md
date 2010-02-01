@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Majority Leader and the Minority Leader, are each authorized to appoint and fix the compensation of not more than eight individual consultants, on a temporary or intermittent basis, at a daily rate of compensation not in excess of the per diem equivalent of the highest gross rate of annual compensation which may be paid to employees of a standing committee of the Senate. The President pro tempore of the Senate is authorized to appoint and fix the compensation of not more than two individual consultants, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this subsection. The President pro tempore emeritus of the Senate is authorized to appoint and fix the compensation of one individual consultant, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this subsection. The Secretary of the Senate is authorized to appoint and fix the compensation of not more than two individual consultants, on a temporary or intermittent basis, at a daily rate of compensation not in excess of the per diem equivalent of the highest gross rate of annual compensation which may be paid to employees of a standing committee of the Senate. The Legislative Counsel of the Senate (subject to the approval of the President pro tempore) is authorized to appoint and fix the compensation of not more than two consultants, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this section. The provisions of sections 8344 and 8468 of title 5 shall not apply to any individual serving in a position under this authority. Expenditures under this authority shall be paid from the contingent fund of the Senate upon vouchers approved by the President pro tempore, President pro tempore emeritus, Majority Leader, Minority Leader, Secretary of the Senate, or Legislative Counsel of the Senate, as the case may be.
+The Majority Leader and the Minority Leader, are each authorized to appoint and fix the compensation of not more than nine individual consultants, on a temporary or intermittent basis, at a daily rate of compensation not in excess of the per diem equivalent of the highest gross rate of annual compensation which may be paid to employees of a standing committee of the Senate. The President pro tempore of the Senate is authorized to appoint and fix the compensation of not more than three individual consultants, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this subsection. The President pro tempore emeritus of the Senate is authorized to appoint and fix the compensationof one individual consultant, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this subsection. The Secretary of the Senate is authorized to appoint and fix the compensation of not more than two individual consultants, on a temporary or intermittent basis, at a daily rate of compensation not in excess of the per diem equivalent of the highest gross rate of annual compensation which may be paid to employees of a standing committee of the Senate. The Legislative Counsel of the Senate (subject to the approval of the President pro tempore) is authorized to appoint and fix the compensation of not more than two consultants, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this section. The provisions of sections 8344 and 8468 of title 5 shall not apply to any individual serving in a position under this authority. Expenditures under this authority shall be paid from the contingent fund of the Senate upon vouchers approved by the President pro tempore, President pro tempore emeritus, Majority Leader, Minority Leader, Secretary of the Senate, or Legislative Counsel of the Senate, as the case may be.
 
 #### (b) Annual compensation
 
@@ -10,15 +10,17 @@ Any or all appointments under this section may be at an annual rate of compensat
 
 #### (C) <sup>1</sup> Title of position
 
-Each appointing authority under subsection (a) of this section may designate the title of theposition of any individual appointed under that subsection.
+Each appointing authority under subsection (a) of this section may designate the title of the position of any individual appointed under that subsection.
 
-(Pub. L. 95–26, title I, §101, May 4, 1977, 91 Stat. 82; Pub. L. 95–94, title I, §110(a), Aug. 5, 1977, 91 Stat. 662; Pub. L. 100–458, title I, §§4, 9, Oct. 1, 1988, 102 Stat. 2161, 2162; Pub. L. 101–302, title III, §314(a), May 25, 1990, 104 Stat. 245; Pub. L. 102–90, title I, §3, Aug. 14, 1991, 105 Stat. 450; Pub. L. 104–2, Feb. 9, 1995, 109 Stat. 45; Pub. L. 105–275, title I, §4(a), (b), Oct. 21, 1998, 112 Stat. 2433; Pub. L. 107–20, title II, §2803, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title I, §101(a), Nov. 12, 2001, 115 Stat. 563; Pub. L. 108–7, div. H, title I, §6(a), Feb. 20, 2003, 117 Stat. 350.)
+(Pub. L. 95–26, title I, §101, May 4, 1977, 91 Stat. 82; Pub. L. 95–94, title I, §110(a), Aug. 5, 1977, 91 Stat. 662; Pub. L. 100–458, title I, §§4, 9, Oct. 1, 1988, 102 Stat. 2161, 2162; Pub. L. 101–302, title III, §314(a), May 25, 1990, 104 Stat. 245; Pub. L. 102–90, title I, §3, Aug. 14, 1991, 105 Stat. 450; Pub. L. 104–2, Feb. 9, 1995, 109 Stat. 45; Pub. L. 105–275, title I, §4(a), (b), Oct. 21, 1998, 112 Stat. 2433; Pub. L. 107–20, title II, §2803, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title I, §101(a), Nov. 12, 2001, 115 Stat. 563; Pub. L. 108–7, div. H, title I, §6(a), Feb. 20, 2003, 117 Stat. 350; Pub. L. 111–8, div. G, title I, §2(a), Mar. 11, 2009, 123 Stat. 814.)
 
 #### Codification
 
 Section is from the Supplemental Appropriations Act, 1977.
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–8 substituted “nine individual consultants” for “eight individual consultants” in first sentence and “three individual consultants” for “two individual consultants” in second sentence.
 
 2003—Subsec. (a). Pub. L. 108–7, §6(a)(1), substituted “eight individual consultants” for “six individual consultants” in first sentence.
 
@@ -42,6 +44,10 @@ Subsec. (b). Pub. L. 105–275, §4(b), substituted “Any or all appointments u
 
 1977—Pub. L. 95–94 inserted two references to Secretary of Senate.
 
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–8, div. G, title I, §2(b), Mar. 11, 2009, 123 Stat. 815, provided that: “This section \[amending this section\] shall take effect on the date of enactment of this Act \[Mar. 11, 2009\] and shall apply to fiscal year 2009 and each fiscal year thereafter.”
+
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–7, div. H, title I, §6(b), Feb. 20, 2003, 117 Stat. 350, provided that: “This section \[amending this section\] shall apply to fiscal year 2003 and each fiscal year thereafter.”
@@ -64,7 +70,7 @@ Section 110(b) of Pub. L. 95–94 provided that: “The amendments made by subse
 
 #### Consultants
 
-Pub. L. 110–161, div. H, title I, §8, Dec. 26, 2007, 121 Stat. 2222, provided that: “With respect to fiscal year 2008, the first sentence of section 101(a) of the Supplemental Appropriations Act, 1977 (2 U.S.C. 61h–6(a)) shall be applied by substituting ‘nine individual consultants’ for ‘eight individual consultants’.”
+Pub. L. 110–161, div. H, title I, §8, Dec. 26, 2007, 121 Stat. 2222, provided that, with respect to fiscal year 2008, the first sentence of this section shall be applied by substituting “nine individual consultants” for “eight individual consultants”.
 
 Similar provisions were contained in the following prior appropriation acts:
 

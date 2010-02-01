@@ -90,5 +90,5 @@ Section effective on such date as the President shall determine, but not earlier
 
 #### Delegation of Functions
 
-Functions of President under this section assigned to the Director of the Office of Personnel Management by section 1 of Ex. Ord. No. 13415, Dec. 1, 2006, 71 F.R. 70641, set out as a note under section 4505a of this title.
+Functions of President under this section assigned to the Director of the Office of Personnel Management bysection 1 of Ex. Ord. No. 13415, Dec. 1, 2006, 71 F.R. 70641, set out as a note under section 4505a of this title.
 

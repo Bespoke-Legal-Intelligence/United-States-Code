@@ -14,7 +14,7 @@
 
 #### (2) Limitation
 
-&emsp;The requirement in paragraph (1) to provide services for all residents within a catchmentarea shall not apply in the case of a health center receiving a grant only under subsection (g), (h), or (i) of this section.
+&emsp;The requirement in paragraph (1) to provide services for all residents within a catchment area shall not apply in the case of a health center receiving a grant only under subsection (g), (h), or (i) of this section.
 
 #### (b) Definitions
 
@@ -120,7 +120,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) take into account comments received by the Secretary from the chief executive officer of a State and local officials in a State; and
 
-&emsp;&emsp;&emsp;(ii) include factors indicative of the health status of a population group or residents of an area, the ability of the residents of an area or of a population groupto pay for health services and their accessibility to them, and the availability of health professionals to residents of an area or to a population group.
+&emsp;&emsp;&emsp;(ii) include factors indicative of the health status of a population group or residents of an area, the ability of the residents of an area or of a population group to pay for health services and their accessibility to them, and the availability ofhealth professionals to residents of an area or to a population group.
 
 #### (C) Limitation
 
@@ -190,7 +190,7 @@ For purposes of this section:
 
 #### (B) High poverty area defined
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “high poverty area” means a catchment area which is established in a manner that is consistent with the factors in subsection\(k)(3)(J), and the poverty rate of which is greater than the national average poverty rate as determined by the Bureau of the Census.
+&emsp;&emsp;For purposes of subparagraph (A), the term “high poverty area” means a catchment area which is established in a manner that is consistent with the factors in subsection (k)(3)(J), and the poverty rate of which is greater than the national average povertyrate as determined by the Bureau of the Census.
 
 #### (d) Loan guarantee program
 
@@ -718,11 +718,11 @@ In making grants under this section, the Secretary shall give special considerat
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (d)(1)(E), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. The Credit Reform Act of 1990, referred to in subsec. (d)(4)(A), probably means the Federal Credit Reform Act of 1990. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
-The Social Security Act, referred to in subsec. (k)(3)(E)(i), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (k)(3)(E)(i), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Indian Self-Determination Act, referred to in subsec. (k)(3)(H), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in subsec. (k)(3)(H), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
-The Indian Health Care Improvement Act, referred to in subsec. (k)(3)(H), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (k)(3)(H), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, which is classified principally to chapter 18 (§1601 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
 #### Prior Provisions
 
@@ -977,6 +977,28 @@ Section 4(c) of Pub. L. 104–299 provided that: “Whenever any reference is ma
 #### Legislative Proposal for Changes Conforming to Pub. L. 104–299
 
 Section 4(e) of Pub. L. 104–299 provided that: “After consultation with the appropriate committees of theCongress, the Secretary of Health and Human Services shall prepare and submit to the Congress a legislative proposal in the form of an implementing bill containing technical and conforming amendments to reflect the changes made by this Act \[see Short Title of 1996 Amendments note set out under section 201 of this title\].”
+
+#### Medicare Demonstration To Test Medical Homes in Federally Qualified Health Centers
+
+Memorandum of President of the United States, Dec. 9, 2009, 74 F.R. 66207, provided:
+
+Memorandum for the Secretary of Health And Human Services
+
+My Administration is committed to building a high-quality, efficient health care system and improving access to health care for all Americans. Health centers are a vital part of the health care delivery system. For more than 40 years, health centers have served populations with limited access to health care, treating all patients regardless of ability to pay. These include low-income populations, the uninsured, individuals with limited English proficiency, migrant and seasonal farm workers, individuals and families experiencing homelessness, and individuals living in public housing. There are over 1,100 health centers across the country, delivering care at over 7,500 sites. These centers served more than 17 million patients in 2008 and are estimated to serve more than 20 million patients in 2010.
+
+The American Recovery and Reinvestment Act of 2009 (Recovery Act) provided $2 billion for health centers, including $500 million to expand health centers’ services to over 2 million new patients by opening new health center sites, adding new providers, and improving hours of operations. An additional $1.5 billion is supporting much-needed capital improvements, including funding to buy equipment, modernize clinic facilities, expand into new facilities, and adopt or expand the use of health information technology and electronic health records.
+
+One of the key benefits health centers provide to the communities they serve is quality primary health care services. Health centers use interdisciplinary teams to treat the “whole patient” and focus on chronic disease management to reduce the use of costlier providers of care, such as emergency rooms and hospitals.
+
+Federally qualified health centers provide an excellent environment to demonstrate the further improvements to health care that may be offered by the medical homes approach. In general, this approach emphasizes the patient's relationship with a primary care provider who coordinates the patient's care and serves as the patient's principal point of contact for care. The medical homes approach also emphasizes activities related to quality improvement, access to care, communication with patients, and care management and coordination. These activities are expected to improve the quality and efficiency of care and to help avoid preventable emergency and inpatient hospital care. Demonstration programs establishing the medical homes approach have been recommended by the Medicare Payment Advisory Commission, an independent advisory body to the Congress.
+
+Therefore, I direct you to implement a Medicare Federally Qualified Health Center Advanced Primary Care Practice demonstration, pursuant to your statutory authority to conduct experiments and demonstrations on changes in payments and services that may improve the quality and efficiency of services to beneficiaries. Health centers participating in this demonstration must have shown their ability to provide comprehensive, coordinated, integrated, and accessible health care.
+
+This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

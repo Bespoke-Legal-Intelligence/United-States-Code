@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(E) agrees to require all producers and exporters of covered articles in that country to maintain complete records of the production and the export of covered articles, including materials used in the production, for at least 2 years after the production or export (as the case may be); and
 
-&emsp;&emsp;(F) agrees to report, on a timely basis, at the request of the United States Customs Service, documentation establishing the country of origin of covered articles as used by that country in implementing an effective visa system.
+&emsp;&emsp;(F) agrees to report, on a timely basis, at the request of the United States Customs Service, documentation establishing the country of origin of covered articles as usedby that country in implementing an effective visa system.
 
 #### (2) Country of origin documentation
 
@@ -28,7 +28,7 @@
 
 #### (A) Regulations
 
-&emsp;&emsp;Any importer that claims preferential treatment under section 3721 of this titleshall comply with customs procedures similar in all material respects to the requirements of Article 502(1) of the NAFTA as implemented pursuant to United States law, in accordance with regulations promulgated by the Secretary of the Treasury.
+&emsp;&emsp;Any importer that claims preferential treatment under section 3721 of this title shall comply with customs procedures similar in all material respects to the requirements of Article 502(1) of the NAFTA as implemented pursuant to United States law, in accordance with regulations promulgated by the Secretary of the Treasury.
 
 #### (B) Determination
 
@@ -92,7 +92,7 @@ This chapter, referred to in subsec. (b)(4), was in the original “this Act”,
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Delegation of Authority
 
@@ -100,7 +100,7 @@ Authority of President under subsec. (b)(3) of this section delegated to the Com
 
 #### Proc. No. 7350. To Implement the African Growth and Opportunity Act and To Designate Eritrea as a Beneficiary Developing Country for Purposes of the Generalized System of Preferences
 
-Proc. No. 7350, Oct. 2, 2000, 65 F.R. 59321, provided in par. (4) that the United States Trade Representative isauthorized to determine whether each designated beneficiary sub-Saharan African country has satisfied the requirements of section 3722(a) of this title, relating to the establishment of procedures to protect against unlawful transshipments and section 3722(b)(1)(B) of this title relating to the implementation of procedures and requirements similar in all material respects to the relevant procedures and requirements under chapter 5 of the North American Free Trade Agreement (NAFTA), is directed to set forth the determination in a notice to be published in the Federal Register which notice shall modify the Harmonized Tariff Schedule of the United States (HTS) by listing the countries that satisfy the requirements of sections 3722(a) and 3722(b)(1)(B) of this title, and is authorized to exercise the authority provided to the President under section 2483 of this title to embody modifications and technical or conforming changes in the HTS.
+Proc. No. 7350, Oct. 2, 2000, 65 F.R. 59321, provided in par. (4) that the United States Trade Representative is authorized to determine whether each designated beneficiary sub-Saharan African country has satisfied the requirements of section 3722(a) of this title, relating to the establishment of procedures to protect against unlawful transshipments and section 3722(b)(1)(B) of this title relating to the implementation of procedures and requirements similar in all material respects to the relevant procedures and requirements under chapter 5 of the North American Free Trade Agreement (NAFTA), is directed to set forth the determination in a notice to be published in the Federal Register which notice shall modify the Harmonized Tariff Schedule of the United States (HTS) by listing the countries that satisfy the requirements of sections 3722(a) and 3722(b)(1)(B) of this title, and is authorized to exercise the authority provided to the President under section 2483 of this title to embody modifications and technical or conforming changes in the HTS.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

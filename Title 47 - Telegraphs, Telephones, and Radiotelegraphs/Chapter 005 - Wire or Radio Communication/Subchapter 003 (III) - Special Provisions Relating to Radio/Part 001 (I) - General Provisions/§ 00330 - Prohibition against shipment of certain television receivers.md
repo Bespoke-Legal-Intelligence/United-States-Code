@@ -26,7 +26,7 @@
 
 &emsp;(2) The term “United States” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States, but does not include the Canal Zone.
 
-(June 19, 1934, ch. 652, title III, §330, as added Pub. L. 87–529, §2, July 10, 1962, 76 Stat. 151; amended Pub. L. 101–431, §4, Oct. 15, 1990, 104 Stat. 961; Pub. L. 104–104, title V, §551(d), Feb. 8, 1996, 110 Stat. 141.)
+(June 19, 1934, ch. 652, title III, §330, as added Pub. L. 87–529, §2, July 10, 1962, 76 Stat. 151;amended Pub. L. 101–431, §4, Oct. 15, 1990, 104 Stat. 961; Pub. L. 104–104, title V, §551(d), Feb. 8, 1996, 110 Stat. 141.)
 
 #### References in Text
 

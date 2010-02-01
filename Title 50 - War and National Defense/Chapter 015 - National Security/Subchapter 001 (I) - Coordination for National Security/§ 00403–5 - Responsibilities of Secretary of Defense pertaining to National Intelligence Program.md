@@ -60,7 +60,7 @@ The Secretary of Defense, in carrying out the functions described in this sectio
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–458, §1074(b)(1)(B)(ii), struck out “Foreign” before “Intelligence” in section catchline.
+2004—Pub. L. 108–458, §1074(b)(1)(B)(ii), struck out “Foreign” before “Intelligence” in section catchline.
 
 Subsec. (a). Pub. L. 108–458, §1072(a)(2), substituted “Consistent with sections 403 and 403–1 of this title, the Secretary” for “The Secretary” in introductory provisions.
 
@@ -76,21 +76,21 @@ Subsec. (b). Pub. L. 108–458, §1072(a)(3), substituted “403 and 403–1” 
 
 Subsec. (b)(6)(A). Pub. L. 108–458, §1071(a)(1)(F), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-<b>2003</b>—Subsec. (b)(2). Pub. L. 108–136, §921(e)(2), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+2003—Subsec. (b)(2). Pub. L. 108–136, §921(e)(2), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 Subsec. (d). Pub. L. 108–177 struck out subsec. (d) which related to annual evaluations of performance and responsiveness of certain elements of the intelligence community.
 
 Subsec. (d)(3). Pub. L. 108–136, §921(e)(2), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-<b>2002</b>—Subsec. (d). Pub. L. 107–306 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The Director of Central Intelligence, in consultation with the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, shall submit each year to the Committee on Foreign Intelligence of the National Security Council and the appropriate congressional committees (as defined in section 404d(c) of this title) an evaluation of the performance and the responsiveness of the National Security Agency, the National Reconnaissance Office, and the National Imagery and Mapping Agency in meeting their national missions.”
+2002—Subsec. (d). Pub. L. 107–306 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The Director of Central Intelligence, in consultation with the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, shall submit each year to the Committee on Foreign Intelligence of the National Security Council and the appropriate congressional committees (as defined in section 404d(c) of this title) an evaluation of the performance and the responsiveness of the National Security Agency, the National Reconnaissance Office, and the National Imagery and Mapping Agency in meeting their national missions.”
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–293, §808(1), inserted “, in consultation with the Director of Central Intelligence,” after “Secretary of Defense” in introductory provisions.
+1996—Subsec. (a). Pub. L. 104–293, §808(1), inserted “, in consultation with the Director of Central Intelligence,” after “Secretary of Defense” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 104–201 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “through the Central Imagery Office (except as otherwise directed by the President or the National Security Council), with appropriate representation from the intelligence community, the continued operation of an effective unified organization within the Department of Defense for carrying out tasking of imagery collection, for the coordination of imagery processing and exploitation activities, and for ensuring the dissemination of imagery in a timely manner to authorized recipients;”.
 
 Subsec. (d). Pub. L. 104–293, §808(2), added subsec. (d).
 
-<b>1994</b>—Subsec. (b)(2). Pub. L. 103–359 substituted “the Central Imagery Office” for “a central imagery authority”.
+1994—Subsec. (b)(2). Pub. L. 103–359 substituted “the Central Imagery Office” for “a central imagery authority”.
 
 #### Effective Date of 2004 Amendment
 
@@ -166,7 +166,7 @@ Matters to Be Included.—The strategy under subsection (b) shall include the fo
 
 &emsp;&emsp;“(B) into service intelligence organizations.
 
-&emsp;“(8) A plan to incorporate and identify an open-source intelligence specialty into personnel systems of the Department of Defense, including military personnel systems.
+&emsp;“(8) A plan to incorporate and identify an open-source intelligence specialty into personnel systemsof the Department of Defense, including military personnel systems.
 
 &emsp;“(9) A plan for the use of intelligence personnel of the reserve components to augment and support the open-source intelligence mission.
 

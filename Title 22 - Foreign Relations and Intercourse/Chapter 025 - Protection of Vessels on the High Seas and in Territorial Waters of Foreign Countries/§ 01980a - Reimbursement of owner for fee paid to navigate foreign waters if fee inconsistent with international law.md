@@ -6,7 +6,7 @@ In any case on or after June 15, 1994, in which a vessel of the United States ex
 
 #### (b) Documentation
 
-In seeking such reimbursement, the vessel owner shall provide, together with such other information as the Secretary of State may require—
+In seeking such reimbursement, the vessel owner shall provide, together with such otherinformation as the Secretary of State may require—
 
 &emsp;(1) a copy of the receipt for payment;
 
@@ -48,7 +48,7 @@ Section 401 of Pub. L. 104–43 provided that: “The Congress finds that—
 
 &emsp;“(6) significant expense and delay was incurred by commercial fishing vessels of the United States that had to travel from the point of seizure back to one of those ports in order to pay the license fee required by Canada, and the costs of that travel and delay cannot be reimbursed under the Fishermen's Protective Act;
 
-&emsp;“(7) the Fishermen's Protective Act of 1967 should be amended to permit vessel owners to be reimbursed for fees required by a foreign government to be paidin advance in order to navigate in the waters of that foreign country if the United States considers that fee to be inconsistent with international law;
+&emsp;“(7) the Fishermen's Protective Act of 1967 should be amended to permit vessel owners to be reimbursed for fees required by a foreign government to be paid in advance in order to navigate in the waters of that foreign country if the United States considers that fee to be inconsistent with international law;
 
 &emsp;“(8) the Secretary of State should seek to recover from Canada any amounts paid by the United States to reimburse vessel owners who paid the transit license fee;
 

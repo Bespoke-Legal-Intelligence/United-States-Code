@@ -4,7 +4,7 @@
 
 #### (1) Authorization
 
-&emsp;There are authorized to be appropriated to the Commission for fiscal year 2001, and eachfiscal year thereafter, such sums as may be necessary to enable it to carry out its functions. Appropriations to the Commission are authorized to remain available until expended.
+&emsp;There are authorized to be appropriated to the Commission for fiscal year 2001, and each fiscal year thereafter, such sums as may be necessary to enable it to carry out its functions. Appropriations to the Commission are authorized to remain available until expended.
 
 #### (2) Disbursements
 

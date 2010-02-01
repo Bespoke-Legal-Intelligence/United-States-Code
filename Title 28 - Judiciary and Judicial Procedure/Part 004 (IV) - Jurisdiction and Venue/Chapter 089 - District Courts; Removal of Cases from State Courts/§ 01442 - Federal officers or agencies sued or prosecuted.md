@@ -20,7 +20,7 @@ Based on title 28, U.S.C., 1940 ed., §§76 and 77 (Mar. 3, 1911, ch. 231, §§3
 
 Section consolidates sections 76 and 77 of title 28, U.S.C., 1940 ed.
 
-The revised subsection (a)(1) is extended to apply to all officers and employees of the United States or any agency thereof. Section 76 of title 28, U.S.C., 1940 ed., was limited to revenue officers engaged in the enforcement of the criminal or revenue laws.
+The revised subsection (a)(1) is extended to apply to all officers and employees of the United States or anyagency thereof. Section 76 of title 28, U.S.C., 1940 ed., was limited to revenue officers engaged in the enforcement of the criminal or revenue laws.
 
 The procedural provisions of section 76 of title 28, U.S.C., 1940 ed., are incorporated in sections 1446 and 1447 of this title. (See reviser's notes under those sections.)
 

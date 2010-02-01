@@ -26,7 +26,7 @@ Notwithstanding the preceding provisions of this section, reimbursement may be p
 
 &emsp;(1) the memorandum entitled “Memorandum of Understanding Between the United States Department of Agriculture and Environment Canada on Cooperation in the Field of Forestry-Related Programs” dated June 25, 1982; and
 
-&emsp;(2) the arrangement entitled “Arrangement in the Form of an Exchange of Notes Between the Government of Canada and the Government of the United States of America” dated May 4, 1982.
+&emsp;(2) the arrangement entitled “Arrangement in the Form of an Exchange of Notes Betweenthe Government of Canada and the Government of the United States of America” dated May 4, 1982.
 
 #### (d) Service in line of duty
 

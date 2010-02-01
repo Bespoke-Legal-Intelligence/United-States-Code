@@ -2,7 +2,7 @@
 
 (a) An award of an arbitral tribunal resolving a dispute arising under Article 57 or Article 58 of the Convention shall create a right arising under a treaty of the United States. The pecuniary obligations imposed by such an award shall be enforced and shall be given the same full faith and credit as if the award were a final judgment of a court of general jurisdiction of one of the several States. The Federal Arbitration Act (9 U.S.C. 1, et seq.) shall not apply to enforcement of awards rendered pursuant to the Convention.
 
-(b) The district courts of the United States (including the courts enumerated in section 460 of title 28) shall have exclusive jurisdiction over actions and proceedings under subsection (a) of this section, regardless of the amount in controversy.
+(b) The district courts of the United States (including the courts enumerated in section 460of title 28) shall have exclusive jurisdiction over actions and proceedings under subsection (a) of this section, regardless of the amount in controversy.
 
 (Pub. L. 100–202, §101(e) \[title I\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–134.)
 

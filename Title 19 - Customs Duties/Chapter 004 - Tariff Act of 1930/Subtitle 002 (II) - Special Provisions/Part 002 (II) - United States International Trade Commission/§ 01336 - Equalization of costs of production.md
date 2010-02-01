@@ -2,7 +2,7 @@
 
 #### (a) Change of classification or duties
 
-In order to put into force and effect the policy of Congress by this chapter intended, the commission (1) upon request of the President, or (2) upon resolution of either or both Houses of Congress, or (3) upon its own motion, or (4) when in the judgment of the commission there is good and sufficient reason therefor, upon application of any interested party, shall investigate the differences in the costs of production of any domestic article and of any like or similar foreign article. In the course of the investigation the commission shall hold hearings and give reasonable public notice thereof, and shall afford reasonable opportunity for parties interested to be present, to produce evidence, and to be heard at such hearings. The commission shall report to the President the results of the investigation and its findings with respect to such differences in costs of production. If the commission finds it shown by the investigation that the duties expressly fixed by statute do not equalize the differences in the costs of production of the domestic article and the like or similar foreign article when produced in the principal competing country, the commission shall specify in its report such increases or decreases in rates of duty expressly fixed by statute (including any necessary change in classification) as it finds shown by the investigation to be necessary to equalize such differences. In no case shall the total increase or decrease of such rates of duty exceed 50 per centum of the rates expressly fixed by statute.
+In order to put into force and effect the policy of Congress by this chapter intended, the commission (1) upon request of the President, or (2) upon resolution of either or both Houses of Congress, or (3) upon its own motion, or (4) when in the judgment of the commission there is good and sufficient reason therefor, upon application of any interested party, shall investigate the differences in the costs of production of any domestic article and of any like or similar foreign article. In the course of the investigation the commission shall hold hearings and give reasonable public notice thereof, and shall afford reasonable opportunity for parties interested to be present, to produce evidence, and to be heard at such hearings. The commission shall report to the President the results of the investigation and its findings with respect to such differences in costs of production. If the commission finds it shown by the investigation that the duties expressly fixed by statute do not equalize the differences in the costs of production of the domestic article and the like or similar foreign article when produced in the principal competing country, the commission shall specify in its report such increases or decreases in rates of duty expressly fixed by statute (including any necessary change in classification) as it finds shown by the investigation to be necessary to equalize such differences. In no case shall the total increase or decrease of such rates of duty exceed50 per centum of the rates expressly fixed by statute.
 
 #### (b) Repealed. Pub. L. 96–39, title II, §202(a)(2)(A), July 26, 1979, 93 Stat. 202
 
@@ -16,7 +16,7 @@ Commencing thirty days after the date of any presidential proclamation of approv
 
 #### (e) Ascertainment of differences in costs of production
 
-In ascertaining under this section the differences in costs of production, the commissionshall take into consideration, in so far as it finds it practicable:
+In ascertaining under this section the differences in costs of production, the commission shall take into consideration, in so far as it finds it practicable:
 
 #### (1) In the case of a domestic article
 
@@ -54,7 +54,7 @@ The President is authorized to make all needful rules and regulations for carryi
 
 #### (k) Investigations prior to June 17, 1930
 
-All uncompleted investigations instituted prior to June 17, 1930, under the provisions of sections 154 to 159 <sup>1</sup> of this title, including investigations in which the President has not proclaimed changes in classification or increases or decreases in rates of duty, shall be dismissed without prejudice; but the information and evidence secured by the commission in any such investigation may be given due consideration in any investigation instituted under the provisions of this section.
+All uncompleted investigations instituted prior to June 17, 1930, under the provisions of sections 154 to 159 <sup>1</sup> of this title, including investigations in which the President has not proclaimed changes in classification or increases or decreases in rates of duty, shall be dismissed without prejudice; but the information and evidence secured by the commission in any such investigation may be given due consideration inany investigation instituted under the provisions of this section.
 
 (June 17, 1930, ch. 497, title III, §336, 46 Stat. 701; Aug. 2, 1956, ch. 887, §2(d), 70 Stat. 946; Pub. L. 85–686, §9(c)(1), Aug. 20, 1958, 72 Stat. 679; Pub. L. 96–39, title II, §202(a)(2), July 26, 1979, 93 Stat. 202.)
 
@@ -70,7 +70,7 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 
 1979—Subsec. (b). Pub. L. 96–39, §202(a)(2)(A), struck out subsec. (b) which related to the setting of ad valorem rates based upon the American selling price of domestic articles as would be necessary to equalize differences in the costs of production.
 
-Subsec. (c). Pub. L. 96–39, §202(a)(2)(B), substituted “changes in classification specified in any report” for“changes in classification and in basis of value specified in any report”.
+Subsec. (c). Pub. L. 96–39, §202(a)(2)(B), substituted “changes in classification specified in any report” for “changes in classification and in basis of value specified in any report”.
 
 Subsec. (d). Pub. L. 96–39, §202(a)(2)(C), substituted “changes in classification specified in the report” for “changes in classification or in basis of value specified in the report”.
 

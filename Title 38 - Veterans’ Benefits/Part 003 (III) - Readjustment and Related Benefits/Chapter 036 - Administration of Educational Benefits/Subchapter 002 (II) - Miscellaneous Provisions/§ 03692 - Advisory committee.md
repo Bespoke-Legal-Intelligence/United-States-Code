@@ -1,22 +1,20 @@
 ### §3692. Advisory committee
 
-(a) There shall be a Veterans’ Advisory Committee on Education formed by the Secretary which shall be composed of persons who are eminent in their respective fields of education, labor, and management and of representatives of institutions and establishments furnishing education to eligible veterans or persons enrolled under chapter 30, 32, or 35 of this title and chapter 1606 of title 10. The committee shall also, to the maximum extent practicable, include veterans representative of World War II, the Korean conflict era, the post-Korean conflict era, the Vietnam era, the post-Vietnam era, and the Persian Gulf War. The Assistant Secretary of Education for Postsecondary Education (or such other comparable official of the Department of Education as the Secretary of Education may designate) and the Assistant Secretary of Labor for Veterans’ Employment and Training shall be ex officio members of the advisory committee.
+(a) There shall be a Veterans’ Advisory Committee on Education formed by the Secretary which shall be composed of persons who are eminent in their respective fields of education, labor, and management and of representatives of institutions and establishments furnishing education to eligible veterans or persons enrolled under chapter 30, 32, 33, or 35 of this title and chapter 1606 of title 10. The committee shall also, to the maximum extent practicable, include veterans representative of World War II, the Korean conflict era, the post-Korean conflict era, the Vietnam era, the post-Vietnam era, and the Persian Gulf War. The Assistant Secretary of Education for Postsecondary Education (or such other comparable official of the Department of Education as the Secretary of Education may designate) and the Assistant Secretary of Labor for Veterans’ Employment and Training shall be ex officio members of the advisory committee.
 
-(b) The Secretary shall consult with and seek the advice of the committee from time to time with respect to the administration of this chapter, chapters 30, 32, and 35 of this title, and chapter 1606 of title 10. The committee may make such reports and recommendations as it considers desirable to the Secretary and the Congress.
+(b) The Secretary shall consult with and seek the advice of the committee from time to time with respect to the administration of this chapter, chapters 30, 32, 33, and 35 of this title, and chapter 1606 of title 10. The committee may make such reports and recommendations as it considers desirable to the Secretary and the Congress.
 
 (c) The committee shall remain in existence until December 31, 2009.
 
 (Added Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 23, §1788; renumbered §1792 and amended Pub. L. 92–540, title III, §316(2), (3), Oct. 24, 1972, 86 Stat. 1086, 1089; Pub. L. 96–466, title III, §346, Oct. 17, 1980, 94 Stat. 2200; Pub. L. 99–576, title III, §304, Oct. 28, 1986, 100 Stat. 3269; Pub. L. 100–689, title I, §123, Nov. 18, 1988, 102 Stat. 4174; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–25, title III, §338, Apr. 6, 1991, 105 Stat. 91; Pub. L. 102–54, §14(c)(7), June 13, 1991, 105 Stat. 285; renumbered §3692, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–210, §2(d), Dec. 20, 1993, 107 Stat. 2497; Pub. L. 103–446, title VI, §608, Nov. 2, 1994, 108 Stat. 4672; Pub. L. 108–183, title III, §307, Dec. 16, 2003, 117 Stat. 2661; Pub. L. 110–252, title V, §5003(b)(2)(A)(v), June 30, 2008, 122 Stat. 2375.)
 
-#### Amendment of Subsections (a) and (b)
-
-<i>Pub. L. 110–252, title V, §5003(b)(2)(A)(v), (d), June 30, 2008, 122 Stat. 2375, 2378, provided that, effective Aug. 1, 2009, subsections (a) and (b) of this section are amended by inserting “33,” after “32,”.</i>
-
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat.1190, which was classified to former section 1662 of this title, prior to repeal by section 4(a) of Pub. L. 89–358.
+Provisions similar to those comprising this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1190, which was classified to former section 1662 of this title, prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
+
+2008—Subsecs. (a), (b). Pub. L. 110–252 inserted “33,” after “32,”.
 
 2003—Subsec. (a). Pub. L. 108–183, §307(a), (c)(1), substituted “chapter 1606” for “chapter 106” in first sentence and inserted “, to the maximum extent practicable,” after “The committee shall also” in second sentence.
 
@@ -46,7 +44,7 @@ Pub. L. 102–25 substituted “the post-Vietnam era, and the Persian Gulf War�
 
 Subsec. (b). Pub. L. 99–576, §304(2), inserted reference to chapter 30.
 
-1980—Pub. L. 96–466 designated existing provisions as subsecs. (a) and (b), substituted reference to furnishing education to eligible veterans or persons enrolled under chapter 32, 34, or 35 of this title for reference to furnishing vocational rehabilitation under chapter 31 of this title or education to eligible persons or veterans enrolled under chapter 34 or 35 of this title, reference to the Assistant Secretary of Education for Postsecondary Education or other comparable official and the Assistant Secretary of Labor for Veterans’ Employment, for reference to the Commissioner of Education and the Administrator, Manpower Administration, Department of Labor, and reference to seeking the advice of the committee with respect to the administration of this chapter and chapters 32, 34, and 35 of this title for reference to advising the committee with respect to the administration of this chapter and chapters 31, 34, and 35 of this title, and inserted provision that the committee include veterans representative of the post-Vietnam era, and added subsec. (c).
+1980—Pub. L. 96–466 designated existing provisions as subsecs. (a) and (b), substituted reference to furnishing education to eligible veterans or persons enrolled under chapter 32, 34, or 35 of this title for reference to furnishing vocational rehabilitation under chapter 31 of this title or education to eligible persons or veterans enrolled under chapter 34 or 35 of this title, reference to the Assistant Secretary of Education for Postsecondary Education or other comparable official and the Assistant Secretary of Labor for Veterans’ Employment, forreference to the Commissioner of Education and the Administrator, Manpower Administration, Department of Labor, and reference to seeking the advice of the committee with respect to the administration of this chapter and chapters 32, 34, and 35 of this title for reference to advising the committee with respect to the administration of this chapter and chapters 31, 34, and 35 of this title, and inserted provision that the committee include veterans representative of the post-Vietnam era, and added subsec. (c).
 
 1972—Pub. L. 92–540, §316(3), inserted provisions that the Committee also include veterans representative of World War II, the Korean conflict era, the post-Korean conflict era and the Vietnam era.
 

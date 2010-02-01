@@ -6,7 +6,7 @@ Authority To Pay Bonus.—
 
 &emsp;(1)
 
-Authority.—The Secretary of Defense may authorize the appropriate Secretary topay a bonus under this section to an individual referred to in paragraph (2) who refers to a military recruiter a person who has not previously served in an armed force and, after such referral, takes an oath of enlistment that leads to appointment as a commissioned officer, or accepts an appointment as a commissioned officer, in an armed force in a health profession designated by the appropriate Secretary for purposes of this section.
+Authority.—The Secretary of Defense may authorize the appropriate Secretary to pay a bonus under this section to an individual referred to in paragraph (2) who refers to a military recruiter a person who has not previously served in an armed force and, after such referral, takes an oath of enlistment that leads to appointment as a commissioned officer, or accepts an appointment as a commissioned officer, in an armed force in a health profession designated by the appropriate Secretary for purposes of this section.
 
 &emsp;(2)
 
@@ -58,7 +58,7 @@ Payment.—A bonus payable for a referral of a person under subsection (a) shall
 
 (f)
 
-Relation to Prohibition on Bounties.—The referral bonus authorized by this section is not a bounty for purposes of section 514(a) of this title.
+Relation to Prohibition on Bounties.—The referral bonus authorized by this section isnot a bounty for purposes of section 514(a) of this title.
 
 (g)
 
@@ -78,11 +78,13 @@ Appropriate Secretary Defined.—In this section, the term “appropriate Secret
 
 (i)
 
-Duration of Authority.—A bonus may not be paid under subsection (a) with respect to any referral that occurs after December 31, 2009.
+Duration of Authority.—A bonus may not be paid under subsection (a) with respect to any referral that occurs after December 31, 2010.
 
-(Added Pub. L. 110–181, div. A, title VI, §671(b)(1), Jan. 28, 2008, 122 Stat. 182; amended Pub. L. 110–417, \[div. A\], title VI, §615(a), Oct. 14, 2008, 122 Stat. 4485.)
+(Added Pub. L. 110–181, div. A, title VI, §671(b)(1), Jan. 28, 2008, 122 Stat. 182; amended Pub. L. 110–417, \[div. A\], title VI, §615(a), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §616(1), Oct. 28, 2009, 123 Stat. 2354.)
 
 #### Amendments
+
+2009—Subsec. (i). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 
 2008—Subsec. (i). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
 

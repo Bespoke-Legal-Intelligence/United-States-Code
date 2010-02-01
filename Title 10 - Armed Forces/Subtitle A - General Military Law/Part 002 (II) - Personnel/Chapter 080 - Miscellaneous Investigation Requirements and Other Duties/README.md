@@ -11,6 +11,7 @@
 | [1565\.](%C2%A7%2001565%20-%20DNA%20identification%20information%20collection%20from%20certain%20offenders%3B%20use.md) | DNA identification information: collection from certain offenders; use. |
 | [1565a.](%C2%A7%2001565a%20-%20DNA%20samples%20maintained%20for%20identification%20of%20human%20remains%20use%20for%20law%20enforcement%20purposes.md) | DNA samples maintained for identification of human remains: use for law enforcement purposes. |
 | [1566\.](%C2%A7%2001566%20-%20Voting%20assistance%20compliance%20assessments%3B%20assistance.md) | Voting assistance: compliance assessments; assistance. |
+| [1566a.](%C2%A7%2001566a%20-%20Voting%20assistance%20voter%20assistance%20offices.md) | Voting assistance: voter assistance offices. |
 | [1567\.](%C2%A7%2001567%20-%20Duration%20of%20military%20protective%20orders.md) | Duration of military protective orders. |
 | [1567a.](%C2%A7%2001567a%20-%20Mandatory%20notification%20of%20issuance%20of%20military%20protective%20order%20to%20civilian%20law%20enforcement.md) | Mandatory notification of issuance of military protective order to civilian law enforcement. |
 
@@ -21,6 +22,8 @@
 A prior chapter 80, comprised of sections 1571 to 1577, relating to Exemplary Rehabilitation Certificates, was repealed by Pub. L. 90–83, §3(2), Sept. 11, 1967, 81 Stat. 220.
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. A, title V, §583(b)(2), Oct. 28, 2009, 123 Stat. 2330, added item 1566a.
 
 2008—Pub. L. 110–417, \[div. A\], title V, §§561(b), 562(b), Oct. 14, 2008, 122 Stat. 4470, added items 1567 and 1567a.
 
@@ -52,5 +55,6 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §542(b), title X, §1072(b)\], Oc
 - [&sect; 01565 - DNA identification information collection from certain offenders; use](%C2%A7%2001565%20-%20DNA%20identification%20information%20collection%20from%20certain%20offenders%3B%20use.md)
 - [&sect; 01565a - DNA samples maintained for identification of human remains use for law enforcement purposes](%C2%A7%2001565a%20-%20DNA%20samples%20maintained%20for%20identification%20of%20human%20remains%20use%20for%20law%20enforcement%20purposes.md)
 - [&sect; 01566 - Voting assistance compliance assessments; assistance](%C2%A7%2001566%20-%20Voting%20assistance%20compliance%20assessments%3B%20assistance.md)
+- [&sect; 01566a - Voting assistance voter assistance offices](%C2%A7%2001566a%20-%20Voting%20assistance%20voter%20assistance%20offices.md)
 - [&sect; 01567 - Duration of military protective orders](%C2%A7%2001567%20-%20Duration%20of%20military%20protective%20orders.md)
 - [&sect; 01567a - Mandatory notification of issuance of military protective order to civilian law enforcement](%C2%A7%2001567a%20-%20Mandatory%20notification%20of%20issuance%20of%20military%20protective%20order%20to%20civilian%20law%20enforcement.md)

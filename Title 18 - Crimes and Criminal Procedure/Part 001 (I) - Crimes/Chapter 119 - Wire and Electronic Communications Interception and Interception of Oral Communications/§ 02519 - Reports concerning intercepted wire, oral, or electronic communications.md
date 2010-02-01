@@ -12,7 +12,7 @@
 
 &emsp;(e) the offense specified in the order or application, or extension of an order;
 
-&emsp;(f) the identity of the applying investigative or law enforcement officer and agency making the application and the person authorizing the application; and
+&emsp;(f) the identity of the applying investigative or law enforcement officer and agency makingthe application and the person authorizing the application; and
 
 &emsp;(g) the nature of the facilities from which or the place where communications were to be intercepted.
 
@@ -54,11 +54,11 @@ Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in cas
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–511 effective Oct. 25, 1978, except as specifically provided, see section 401 of Pub. L. 95–511, set out as an Effective Date note under section 1801 of Title 50, War and National Defense.
+Amendment by Pub. L. 95–511 effective Oct. 25, 1978, except as specifically provided, see section 401 of Pub. L. 95–511, formerly set out as an Effective Date note under section 1801 of Title 50, War and National Defense.
 
 #### Report on Use of DCS 1000 (Carnivore) To Implement Orders Under Section 2518
 
-Pub. L. 107–273, div. A, title III, §305(b), Nov. 2, 2002, 116 Stat. 1782, provided that: “At the same time that the Attorney General, or Assistant Attorney General specially designated by the Attorney General, submits to the Administrative Office of the United States Courts the annual report required by section 2519(2) of title 18, United States Code, that is respectively next due after the end of each of the fiscal years 2002 and2003, the Attorney General shall also submit to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives a report, covering the same respective time period, that contains the following information with respect to those orders described in that annual report that were applied for by law enforcement agencies of the Department of Justice and whose implementation involved the use of the DCS 1000 program (or any subsequent version of such program)—
+Pub. L. 107–273, div. A, title III, §305(b), Nov. 2, 2002, 116 Stat. 1782, provided that: “At the same time that the Attorney General, or Assistant Attorney General specially designated by the Attorney General, submits to the Administrative Office of the United States Courts the annual report required by section 2519(2) of title 18, United States Code, that is respectively next due after the end of each of the fiscal years 2002 and 2003, the Attorney General shall also submit to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives a report, covering the same respective time period, that contains the following information with respect to those orders described in that annual report that were applied for by law enforcement agencies of the Department of Justice and whose implementation involved the use of the DCS 1000 program (or any subsequent version of such program)—
 
 &emsp;“(1) the kind of order or extension applied for (including whether or not the order was an order with respect to which the requirements of sections 2518(1)(b)(ii) and 2518(3)(d) of title 18, United States Code, did not apply by reason of section 2518 (11) of title 18);
 

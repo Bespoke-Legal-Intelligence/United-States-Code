@@ -30,5 +30,5 @@ Treatment of satisfied requirements.—Any requirement in a provision of law tra
 
 “(4)
 
-Classification.—The provisions of the Atomic Energy Defense Act \[Pub. L. 107–314, div. D, 50 U.S.C. 2501 et seq.\], as amended by this section, shall be classified to the United States Code as a new chapter of title 50, United States Code.”
+Classification.—The provisions of the Atomic Energy Defense Act \[Pub. L. 107–314, div. D, 50 U.S.C.2501 et seq.\], as amended by this section, shall be classified to the United States Code as a new chapter of title 50, United States Code.”
 

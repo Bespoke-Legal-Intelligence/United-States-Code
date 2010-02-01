@@ -2,7 +2,7 @@
 
 For the purposes of this subchapter—
 
-(a) The term “State” includes the Commonwealth of Puerto Rico, Guam, American Samoa,the Trust Territory of the Pacific Islands, the Virgin Islands, and the District of Columbia.
+(a) The term “State” includes the Commonwealth of Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the District of Columbia.
 
 (b)(1) The term “Federal share” with respect to any project means the proportion of the cost of such project to be paid by the Federal Government under this subchapter.
 
@@ -46,7 +46,7 @@ For the purposes of this subchapter—
 
 (i) The term “construction” includes construction of new buildings, expansion, remodeling, and alteration of existing buildings, and initial equipment of any such buildings (including medical transportation facilities) and, in any case in which it will help to provide a service not previously provided in the community, equipment of any buildings; including architects’ fees, but excluding the cost of off-site improvements and, except with respect to public health centers, the cost of the acquisition of land.
 
-(j) The term “cost” as applied to construction or modernization means the amount found by the Surgeon General to be necessary for construction and modernization respectively, under a project, except that such term, as applied to aproject for modernization of a facility for which a grant or loan is to be made from an allotment under section 291b(a)(2) of this title, does not include any amount found by the Surgeon General to be attributable to expansion of the bed capacity of such facility.
+(j) The term “cost” as applied to construction or modernization means the amount found by the Surgeon General to be necessary for construction and modernization respectively, under a project, except that such term, as applied to a project for modernization of a facility for which a grant or loan is to be made from an allotment under section 291b(a)(2) of this title, does not include any amount found by the Surgeon General to be attributable to expansion of the bed capacity of such facility.
 
 (k) The term “modernization” includes alteration, major repair (to the extent permitted by regulations), remodeling, replacement, and renovation of existing buildings (including initial equipment thereof), and replacement of obsolete, built-in (as determined in accordance with regulations) equipment of existing buildings.
 
@@ -92,7 +92,7 @@ Amendment by section 119(d) of Pub. L. 91–296 applicable with respect to allot
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–581 effective with respect to applications for grants from appropriations for fiscal years beginning after June 30, 1965, see section 3(b) of Pub. L. 88–581, set out as a note under section 291c of this title.
+Amendment by Pub. L. 88–581 effective with respect to applications for grants from appropriations for fiscal years beginning after June 30, 1965, see section 3(b) ofPub. L. 88–581, set out as a note under section 291c of this title.
 
 #### Transfer of Functions
 

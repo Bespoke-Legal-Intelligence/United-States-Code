@@ -20,7 +20,7 @@ Any information reported to or otherwise obtained by the Secretary or his repres
 
 #### (d) Notices and findings
 
-Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, or 360i of this title, or under this section, any other notice which is published in the Federal Register with respect to any other action taken under any such section and which states the reasons forsuch action, and each publication of findings required to be made in connection with rulemaking under any such section shall set forth—
+Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, or 360i of this title, or under this section, any other notice which is published in the Federal Register with respect to any other action taken under any such section and which states the reasons for such action, and each publication of findings required to be made in connection with rulemaking under any such section shall set forth—
 
 &emsp;(1) the manner in which interested persons may examine data and other information on which the notice or findings is based, and
 
@@ -118,7 +118,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(B) promptly notify the Secretary (under such circumstances and in such manner as the Secretary prescribes) of approval by a local institutional review committee of any clinical testing plan submitted to it in accordance with subparagraph (A);
 
-&emsp;(C) in the case of a device to be distributed to investigators for testing, obtain signedagreements from each of such investigators that any testing of the device involving human subjects will be under such investigator's supervision and in accordance with subparagraph (D) and submit such agreements to the Secretary; and
+&emsp;(C) in the case of a device to be distributed to investigators for testing, obtain signed agreements from each of such investigators that any testing of the device involving human subjects will be under such investigator's supervision and in accordance with subparagraph (D) and submit such agreements to the Secretary; and
 
 &emsp;(D) assure that informed consent will be obtained from each human subject (or his representative) of proposed clinical testing involving such device, except where subject to such conditions as the Secretary may prescribe, the investigator conducting or supervising the proposed clinical testing of the device determines in writing that there exists a life threatening situation involving the human subject of such testing which necessitates the use of such device and it is not feasible to obtain informed consent from the subject and there is not sufficient time to obtain such consent from his representative.
 
@@ -154,9 +154,9 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(i) with the written agreement of the sponsor or applicant; or
 
-&emsp;(ii) pursuant to a decision, made in accordance with subparagraph (C) by the director of the office in which the device involved is reviewed, that a substantial scientific issue essential to determining the safety or effectiveness of the device involved has been identified.
+&emsp;(ii) pursuant to a decision, made in accordance with subparagraph (C) by the director ofthe office in which the device involved is reviewed, that a substantial scientific issue essential to determining the safety or effectiveness of the device involved has been identified.
 
-(C) A decision under subparagraph (B)(ii) by the director shall be in writing, and may be made only after the Secretary has provided to the sponsor or applicant an opportunity for ameeting at which the director and the sponsor or applicant are present and at which the director documents the scientific issue involved.
+(C) A decision under subparagraph (B)(ii) by the director shall be in writing, and may be made only after the Secretary has provided to the sponsor or applicant an opportunity for a meeting at which the director and the sponsor or applicant are present and at which the director documents the scientific issue involved.
 
 #### (h) Release of information respecting safety and effectiveness
 
@@ -212,7 +212,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 &emsp;(E) which the Secretary in a notice published in the Federal Register before the enactment date has declared to be a new drug subject to section 355 of this title; or
 
-&emsp;(F) with respect to which on the enactment date an action is pending in a United Statescourt under section 332, 333, or 334 of this title for an alleged violation of a provision of section 331 of this title which enforces a requirement of section 355 of this title or for an alleged violation of section 355(a) of this title,
+&emsp;(F) with respect to which on the enactment date an action is pending in a United States court under section 332, 333, or 334 of this title for an alleged violation of a provision of section 331 of this title which enforces a requirement of section 355 of this title or for an alleged violation of section 355(a) of this title,
 
 > is classified in class III unless the Secretary in response to a petition submitted under paragraph (2) has classified such device in class I or II.
 
@@ -244,11 +244,11 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 &emsp;(II) the Secretary may, during the period beginning one hundred and eighty days after the enactment date and ending eighteen months after such date, restrict the use of the device to investigational use by experts qualified by scientific training and experience to investigate the safety and effectiveness of such device, and to investigational use in accordance with the requirements applicable under regulations under subsection (g) of this section to investigational use of devices granted an exemption under such subsection.
 
-> If the requirements under subsection (g) of this section are made applicable to the investigational use of such a device, they shall be made applicable in such a manner that the device shall be made reasonably available to physicians meeting appropriate qualifications prescribed by the Secretary.
+> If the requirements under subsection (g) of this section are made applicable to the investigational use of such a device, they shall be madeapplicable in such a manner that the device shall be made reasonably available to physicians meeting appropriate qualifications prescribed by the Secretary.
 
 (4) Repealed. Pub. L. 105–115, title I, §125(b)(2)(E), Nov. 21, 1997, 111 Stat. 2325.
 
-(5)(A) Before December 1, 1991, the Secretary shall by order require manufacturers of devices described in paragraph (1), which are subject to revision of classification under subparagraph\(B), to submit to the Secretary a summary of and citation to any information known or otherwise available to the manufacturers respecting the devices, including adverse safety or effectiveness information which has not been submitted under section 360i of this title. The Secretary may require a manufacturer to submit the adverse safety or effectiveness data for which a summary and citation were submitted, if such data are available to the manufacturer.
+(5)(A) Before December 1, 1991, the Secretary shall by order require manufacturers of devices described in paragraph (1), which are subject to revision of classification under subparagraph (B), to submit to the Secretary a summary of and citation to any information known or otherwise available to the manufacturers respecting the devices, including adverse safety or effectiveness information which has not been submitted under section 360i of this title. The Secretary may require a manufacturer to submit the adverse safety or effectiveness data for which a summary and citation were submitted, if such data are available to the manufacturer.
 
 (B) Except as provided in subparagraph (C), after the issuance of an order under subparagraph (A) but before December 1, 1992, the Secretary shall publish a regulation in the Federal Register for each device which is classified in class III under paragraph (1) revising the classification of the device so that the device is classified into class I or class II, unless the regulation requires the device to remain in class III. In determining whether to revise the classification of a device or to require a device to remain in class III, the Secretary shall apply the criteria set forth in section 360c(a) of this title. Before the publication of a regulation requiring a device to remain in class III or revising its classification, the Secretary shall publish a proposed regulation respecting the classification of a device under this subparagraph and provide an opportunity for the submission of comments on any such regulation. No regulation under this subparagraph requiring a device to remain in class III or revising its classification may take effect before the expiration of 90 days from the date of the publication in the Federal Register of the proposed regulation.
 
@@ -280,7 +280,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 (5) The Secretary may require a person granted an exemption under paragraph (2) to demonstrate continued compliance with the requirements of this subsection if the Secretary believes such demonstration to be necessary to protect the public health, if the Secretary has reason to believe that the requirements of paragraph (6) are no longer met, or if the Secretary has reason to believe that the criteria for the exemption are no longer met. If the person granted an exemption under paragraph (2) fails to demonstrate continued compliance with the requirements of this subsection, the Secretary may suspend or withdraw the exemption from the effectiveness requirements of sections 360d and 360e of this title for a humanitarian device only after providing notice and an opportunity for an informal hearing.
 
-(6)(A) Except as provided in subparagraph (D), the prohibition in paragraph (3) shall not apply with respect to a person granted an exemption under paragraph (2) if each of the following conditions apply:
+(6)(A) Except as provided in subparagraph (D), the prohibition in paragraph (3) shall not apply with respect to a person granted an exemptionunder paragraph (2) if each of the following conditions apply:
 
 &emsp;(i)(I) The device with respect to which the exemption is granted is intended for the treatment or diagnosis of a disease or condition that occurs in pediatric patients or in a pediatric subpopulation, and such device is labeled for use in pediatric patients or in a pediatric subpopulation in which the disease or condition occurs.
 
@@ -414,5 +414,5 @@ Section 14(c) of Pub. L. 101–629 directed Secretary of Health and Human Servic
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\]of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

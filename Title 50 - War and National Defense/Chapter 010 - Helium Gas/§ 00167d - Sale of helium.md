@@ -32,7 +32,7 @@ All moneys received by the Secretary from the sale or disposition of helium on F
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–273, §4(a), substituted “from persons who have entered into enforceable contracts to purchase an equivalent amount of crude helium from the Secretary” for “from the Secretary”.
+1996—Subsec. (a). Pub. L. 104–273, §4(a), substituted “from persons who have entered into enforceable contracts to purchase an equivalent amount of crude helium from the Secretary” for “from the Secretary”.
 
 Subsec. (b). Pub. L. 104–273, §4(b), inserted “crude” before “helium” and inserted at end “Except as may be required by reason of subsection (a) of this section, sales of crude helium under this section shall be in amounts as the Secretary determines, in consultation with the helium industry, necessary to carry out this subsection with minimum market disruption.”
 

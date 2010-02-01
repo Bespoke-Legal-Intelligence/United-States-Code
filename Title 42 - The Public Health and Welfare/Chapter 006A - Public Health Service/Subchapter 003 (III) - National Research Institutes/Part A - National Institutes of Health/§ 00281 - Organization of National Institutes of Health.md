@@ -116,7 +116,7 @@ The following agencies of the National Institutes of Health are national researc
 
 #### (A) Reports on organizational issues
 
-&emsp;&emsp;The Board shall provide advice to the appropriate officials under subsection (d) regarding the use of the authorities established in paragraphs (2), (3), and (4) of such subsection to reorganize the National Institutes of Health (referred to in this subsection as “organizational authorities”). Not less frequently than once each 7 years, the Board shall—
+&emsp;&emsp;The Board shall provide advice to the appropriate officials under subsection (d) regarding the use of the authorities established in paragraphs (2), (3), and (4) of such subsection to reorganize the National Institutes of Health (referred to in this subsection as “organizational authorities”). Notless frequently than once each 7 years, the Board shall—
 
 &emsp;&emsp;&emsp;(i) determine whether and to what extent the organizational authorities should be used; and
 
@@ -194,7 +194,7 @@ The following agencies of the National Institutes of Health are national researc
 
 &emsp;&emsp;&emsp;(i) one or more shall be directed toward the scientific community to address scientific needs and opportunities related to proposals for organizational changes under subsection (d), or as the case may be, related to a proposal that no such changes be made; and
 
-&emsp;&emsp;&emsp;(ii) one or more shall be directed toward consumer organizations to address the needs and opportunities of patients and their families with respect to proposals referred to in clause (i).
+&emsp;&emsp;&emsp;(ii) one or more shall be directed toward consumer organizations to address theneeds and opportunities of patients and their families with respect to proposals referred to in clause (i).
 
 #### (C) Availability of information from forums
 
@@ -274,13 +274,13 @@ For purposes of this subchapter:
 
 For purposes of this subchapter, a reference to the National Institutes of Health includes its agencies.
 
-(July 1, 1944, ch. 373, title IV, §401, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 822; amended Pub. L. 100–553, §2(1), Oct. 28, 1988, 102 Stat. 2769; Pub. L. 100–607, title I, §101(1), Nov. 4, 1988, 102 Stat. 3048; Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 102–321, title I, §121(a), July 10, 1992, 106 Stat. 358; Pub. L. 103–43, title XV, §§1501(1), 1511(b)(1), 1521(1), June 10, 1993, 107 Stat. 172, 179, 180; Pub. L. 103–417, §13(b), Oct. 25, 1994, 108 Stat. 4335; Pub. L. 105–277, div. A, §101(f) \[title II, §212, title VI, §601(k)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, 2681–388; Pub. L. 106–525, title I, §101(b)(1), Nov. 22, 2000, 114 Stat. 2501; Pub. L. 106–580, §3(e), Dec. 29, 2000, 114 Stat. 3091; Pub. L. 109–482, title I, §§101(a), (b), 108(a), Jan. 15, 2007, 120 Stat. 3675, 3676, 3697; Pub. L. 110–154, §1(b)(1), Dec. 21, 2007, 121 Stat. 1827.)
+(July 1, 1944, ch. 373, title IV, §401, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 822; amended Pub. L. 100–553, §2(1), Oct. 28, 1988, 102 Stat. 2769; Pub. L. 100–607, title I, §101(1), Nov. 4, 1988, 102 Stat. 3048; Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 102–321, title I, §121(a), July 10, 1992, 106 Stat. 358; Pub. L. 103–43, title XV, §§1501(1), 1511(b)(1), 1521(1), June 10, 1993, 107 Stat. 172, 179, 180; Pub. L. 103–417, §13(b), Oct. 25, 1994, 108 Stat. 4335; Pub. L. 105–277, div. A, §101(f) \[title II, §212, title VI, §601(k)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, 2681–388; Pub. L. 106–525, title I, §101(b)(1), Nov. 22, 2000, 114 Stat. 2501; Pub. L. 106–580, §3(e), Dec.29, 2000, 114 Stat. 3091; Pub. L. 109–482, title I, §§101(a), (b), 108(a), Jan. 15, 2007, 120 Stat. 3675, 3676, 3697; Pub. L. 110–154, §1(b)(1), Dec. 21, 2007, 121 Stat. 1827.)
 
 #### Amendments
 
 2007—Subsec. (b)(7). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
 
-2007—Pub. L. 109–482, §101(a), reenacted section catchline without change and amended text generally, substituting provisions consisting of subsecs. (a) to (d)(1) for former subsecs. (a) to (d) which related to: in subsec. (a), relationship to Public Health Service; in subsec. (b), list of national research institutes that were agencies; in subsec. (c), establishment of additional institutes and reorganization or abolition of institutes; and, in subsec. (d), definition of “national research institute”. See below.
+Pub. L. 109–482, §101(a), reenacted section catchline without change and amended text generally, substituting provisions consisting of subsecs. (a) to (d)(1) for former subsecs. (a) to (d) which related to: in subsec. (a), relationship to Public Health Service; in subsec. (b), list of national research institutes that were agencies; in subsec. (c), establishment of additional institutes and reorganization or abolition of institutes; and, in subsec. (d), definition of “national research institute”. See below.
 
 Subsec. (d)(2). Pub. L. 109–482, §108(a), added after subsec. (d)(1) provisions identical to text of subsec. (c) prior to amendment by Pub. L. 109–482, §101(a), redesignated such provisions as par. (2), added par. heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, added subpar. headings, in subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, in cl. (ii), substituted “Health, Education, Labor, and Pensions” for “Labor and Human Resources” and “clause (i)” for “subparagraph (A)”, and, in subpar. (B), substituted “Health, Education, Labor, and Pensions” for “Labor and Human Resources”.
 
@@ -344,5 +344,5 @@ Section 5 of Pub. L. 99–158, as amended by Pub. L. 102–531, title III, §312
 
 #### Interagency Committee on Learning Disabilities
 
-Section 9 of Pub. L. 99–158 directed Director of the National Institutes of Health, not later than 90 days after Nov. 20, 1985, to establish an Interagency Committee on Learning Disabilities to review and assess Federal research priorities, activities, and findings regarding learning disabilities (including central nervous system dysfunction in children), provided for composition of the Committee, directed Committee to report to Congress on its activities not later than 18 months after Nov. 20, 1985, and provided that the Committee terminate 90 days after submission of the report.
+Section 9 of Pub. L. 99–158 directed Director of the National Institutes of Health, not later than 90 daysafter Nov. 20, 1985, to establish an Interagency Committee on Learning Disabilities to review and assess Federal research priorities, activities, and findings regarding learning disabilities (including central nervous system dysfunction in children), provided for composition of the Committee, directed Committee to report to Congress on its activities not later than 18 months after Nov. 20, 1985, and provided that the Committee terminate 90 days after submission of the report.
 

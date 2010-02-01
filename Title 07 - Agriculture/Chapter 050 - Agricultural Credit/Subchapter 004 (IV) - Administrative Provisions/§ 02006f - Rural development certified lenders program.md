@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may establish a program under which the Secretary may guarantee aloan for any rural development program that is made by a lender certified by the Secretary.
+&emsp;The Secretary may establish a program under which the Secretary may guarantee a loan for any rural development program that is made by a lender certified by the Secretary.
 
 #### (2) Certification requirements
 

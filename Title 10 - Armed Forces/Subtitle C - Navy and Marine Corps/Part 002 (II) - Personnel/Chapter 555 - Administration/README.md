@@ -36,7 +36,7 @@
 
 1993—Pub. L. 103–160, div. A, title V, §541(b), Nov. 30, 1993, 107 Stat. 1659, struck out item 6015 “Women members: duty; qualifications; restrictions”.
 
-1980—Pub. L. 96–513, title V, §503(43), Dec. 12, 1980, 94 Stat. 2914, struck out items 6018 “Naval officers: shoreduty; limitations” and 6028 “Medical Service Corps: composition”.
+1980—Pub. L. 96–513, title V, §503(43), Dec. 12, 1980, 94 Stat. 2914, struck out items 6018 “Naval officers: shore duty; limitations” and 6028 “Medical Service Corps: composition”.
 
 1972—Pub. L. 92–310, title II, §204(c), June 6, 1972, 86 Stat. 203, struck out item 6026 “Supply Corps officers: bonds”.
 

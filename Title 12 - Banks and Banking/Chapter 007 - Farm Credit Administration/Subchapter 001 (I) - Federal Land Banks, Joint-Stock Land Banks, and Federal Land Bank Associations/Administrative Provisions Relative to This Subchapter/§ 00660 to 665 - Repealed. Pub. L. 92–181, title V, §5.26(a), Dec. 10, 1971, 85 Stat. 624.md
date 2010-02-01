@@ -1,6 +1,6 @@
 ### §§660 to 665. Repealed. Pub. L. 92–181, title V, §5.26(a), Dec. 10, 1971, 85 Stat. 624
 
-Section 660, act July 17, 1916, ch. 245, title I, §3, 39 Stat. 361; Ex. Ord. No. 6084, Mar. 27, 1933, provided for submission of statements covering salaries paid by land banks.
+Section 660, act July 17, 1916, ch. 245, title I, §3, 39 Stat. 361; Ex. Ord. No. 6084, Mar. 27, 1933, provided forsubmission of statements covering salaries paid by land banks.
 
 Section 661, act July 17, 1916, ch. 245, title I, §3, 39 Stat. 361; Ex. Ord. No. 6084, Mar. 27, 1933, required filing of an annual report to Congress by Farm Credit Administration. See section 2221 et seq. of this title.
 

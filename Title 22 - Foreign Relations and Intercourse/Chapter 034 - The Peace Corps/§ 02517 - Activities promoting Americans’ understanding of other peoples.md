@@ -1,6 +1,6 @@
 ### §2517. Activities promoting Americans’ understanding of other peoples
 
-In order to further the goal of the Peace Corps, as set forth in section 2501 of this title, relating to the promotion of a better understanding of other peoples on the part of the American people, the Director, utilizing the authorities under section 2509(a)(1) of this title and other provisions of law, shall, as appropriate, encourage, facilitate, and assist activities carried out by former volunteers in furtherance of such goal and the efforts of agencies, organizations, and other individuals to support or assist in former volunteers’ carrying out such activities.
+In order to further the goal of the Peace Corps, as set forth in section 2501 of this title, relating to the promotion of a better understanding of other peoples on the part of the American people, the Director, utilizing the authorities undersection 2509(a)(1) of this title and other provisions of law, shall, as appropriate, encourage, facilitate, and assist activities carried out by former volunteers in furtherance of such goal and the efforts of agencies, organizations, and other individuals to support or assist in former volunteers’ carrying out such activities.
 
 (Pub. L. 87–293, title I, §18, as added Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–145.)
 
@@ -64,7 +64,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(1) Paul D. Coverdell was elected to the George \[sic\] State Senate in 1970 and later became Minority Leader of the Georgia State Senate, a post he held for 15 years.
 
-&emsp;“(2) Paul D. Coverdell served with distinction as the 11th Director of the Peace Corps from 1989 to 1991,where he promoted a fellowship program that was composed of returning Peace Corps volunteers who agreed to work in underserved American communities while they pursued educational degrees.
+&emsp;“(2) Paul D. Coverdell served with distinction as the 11th Director of the Peace Corps from 1989 to 1991, where he promoted a fellowship program that was composed of returning Peace Corps volunteers who agreed to work in underserved American communities while they pursued educational degrees.
 
 &emsp;“(3) Paul D. Coverdell served in the United States Senate from the State of Georgia from 1993 until his sudden death on July 18, 2000.
 

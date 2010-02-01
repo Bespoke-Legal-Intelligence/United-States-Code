@@ -128,7 +128,7 @@ The Commission may by rule require the use and prescribe the form and content of
 
 #### (1) In general
 
-&emsp;The Commission may withdraw its accreditation or its acceptance of the accreditation of a third party conformity assessment body accredited under this section if the Commission finds, after notice and investigation, that—
+&emsp;The Commission may withdraw its accreditation or its acceptance of the accreditation ofa third party conformity assessment body accredited under this section if the Commission finds, after notice and investigation, that—
 
 &emsp;&emsp;(A) a manufacturer, private labeler, or governmental entity has exerted undue influence on such conformity assessment body or otherwise interfered with or compromised the integrity of the testing process with respect to the certification of a children's product under this section; or
 
@@ -206,7 +206,7 @@ In this section:
 
 #### (1) Identification of issuer and conformity assessment body
 
-&emsp;Every certificate required under this section shall identify the manufacturer or private labeler issuing the certificate and any third party conformity assessment body on whose testing the certificate depends. The certificate shall include, at a minimum, the date and place of manufacture, the date and place where the product was tested, each party's name, full mailing address, telephone number, and contact information for the individual responsible for maintaining records of test results.
+&emsp;Every certificate required under this section shall identify the manufacturer or private labeler issuing the certificate and any thirdparty conformity assessment body on whose testing the certificate depends. The certificate shall include, at a minimum, the date and place of manufacture, the date and place where the product was tested, each party's name, full mailing address, telephone number, and contact information for the individual responsible for maintaining records of test results.
 
 #### (2) English language
 
@@ -218,7 +218,7 @@ In this section:
 
 #### (4) Electronic filing of certificates for imported products
 
-&emsp;In consultation with the Commissioner of Customs, the Commission may, by rule, provide for the electronic filing of certificates under this section up to 24 hours before arrival of an imported product. Upon request, the manufacturer or private labeler issuing thecertificate shall furnish a copy to the Commission and to the Commissioner of Customs.
+&emsp;In consultation with the Commissioner of Customs, the Commission may, by rule, provide for the electronic filing of certificates under this section up to 24 hours before arrival of an imported product. Upon request, the manufacturer or private labeler issuing the certificate shall furnish a copy to the Commission and to the Commissioner of Customs.
 
 #### (h) Rule of construction
 

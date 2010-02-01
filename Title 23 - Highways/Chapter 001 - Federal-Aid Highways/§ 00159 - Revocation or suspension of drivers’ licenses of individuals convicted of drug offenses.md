@@ -6,7 +6,7 @@ Withholding of Apportionments for Noncompliance.—
 
 &emsp;(1)
 
-Beginning in fiscal year 1994.—For each fiscal year the Secretary shall withhold 5 percent of the amount required to be apportioned to any State under each of paragraphs (1), (3), and (5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) of section 104(b) on the first day of each fiscal year which begins after the second calendar year following the effective date of this section if the State does not meet the requirements of paragraph (3) on such date.
+Beginning in fiscal year 1994.—For each fiscal year the Secretary shall withhold 5 percent of the amount required to be apportioned to any State under each of paragraphs (1), (3), and (5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) of section 104(b) on the first day of each fiscal year which begins after the second calendar year following the effective date of this section if the State doesnot meet the requirements of paragraph (3) on such date.
 
 &emsp;(2)
 
@@ -70,7 +70,7 @@ Period of availability of subsequently apportioned funds.—Any funds apportione
 
 &emsp;(4)
 
-Effect of noncompliance.—If, at the end of the period for which funds withheld under subsection (a) from apportionment are available for apportionment to a State under paragraph (1), the State does not meet the requirements of subsection (a)(3), such funds shall lapse or, in the case of funds withheld from apportionment under section 104(b)(5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century), such funds shall lapse and be made available by the Secretary for projects in accordance with section 118(b).
+Effect of noncompliance.—If, at the end of the period for which funds withheld under subsection (a) from apportionment are available for apportionment to a State under paragraph (1), the State does not meet the requirements of subsection (a)(3), such funds shalllapse or, in the case of funds withheld from apportionment under section 104(b)(5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century), such funds shall lapse and be made available by the Secretary for projects in accordance with section 118(b).
 
 (c)
 
@@ -124,7 +124,7 @@ Subsec. (b)(4). Pub. L. 105–178, §1103(<i>l</i>)(3)(E)(ii)(IV), substituted �
 
 #### Effective Date of 1992 Amendment
 
-Section 327(b) of Pub. L. 102–388 provided that: “The amendments made by subsection (a) of this section\[amending this section\] shall take effect November 5, 1990.”
+Section 327(b) of Pub. L. 102–388 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall take effect November 5, 1990.”
 
 #### Effective Date
 

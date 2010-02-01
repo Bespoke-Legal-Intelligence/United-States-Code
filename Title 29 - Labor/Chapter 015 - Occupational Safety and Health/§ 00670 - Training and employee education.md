@@ -30,7 +30,7 @@ The Secretary, in consultation with the Secretary of Health and Human Services, 
 
 &emsp;(A) which requests and undergoes an on-site consultative visit provided under this subsection;
 
-&emsp;(B) which corrects the hazards that have been identified during the visit within the time frames established by the State and agrees to request a subsequent consultative visit if major changes in working conditions or work processes occur which introduce new hazards in the workplace; and
+&emsp;(B) which corrects the hazards that have been identified during the visit within thetime frames established by the State and agrees to request a subsequent consultative visit if major changes in working conditions or work processes occur which introduce new hazards in the workplace; and
 
 &emsp;(C) which is implementing procedures for regularly identifying and preventing hazards regulated under this chapter and maintains appropriate involvement of, and training for, management and non-management employees in achieving safe and healthful working conditions,
 

@@ -18,5 +18,5 @@ Section 615jjjj, Pub. L. 92–514, title V, §507, Oct. 20, 1972, 86 Stat. 970, 
 
 #### Virginia Smith Dam and Calamus Lake Recreation Area
 
-Pub. L. 101–359, Aug. 10, 1990, 104 Stat. 420, redesignated the Calamus Dam and Reservoir in the North Loup division of the Missouri River basin project as the Virginia Smith Dam and Calamus Lake Recreation Area, effective Jan. 3, 1991.
+Pub. L. 101–359, Aug. 10, 1990, 104 Stat. 420, redesignated the Calamus Dam and Reservoir in the NorthLoup division of the Missouri River basin project as the Virginia Smith Dam and Calamus Lake Recreation Area, effective Jan. 3, 1991.
 

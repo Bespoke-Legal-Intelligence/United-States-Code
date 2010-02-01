@@ -6,7 +6,7 @@ In General.—During war, or a national emergency declared by Presidential procl
 
 &emsp;(1) place under foreign registry a vessel owned in whole or in part by a citizen of the United States or a corporation incorporated under the laws of the United States or of a State;
 
-&emsp;(2) sell, mortgage, lease, charter, deliver, or in any other manner transfer, or agree to sell, mortgage, lease, charter, deliver, or in anyother manner transfer, to a person not a citizen of the United States—
+&emsp;(2) sell, mortgage, lease, charter, deliver, or in any other manner transfer, or agree to sell, mortgage, lease, charter, deliver, or in any other manner transfer, to a person not a citizen of the United States—
 
 &emsp;&emsp;(A) a vessel owned as described in paragraph (1), or an interest therein;
 
@@ -124,7 +124,7 @@ In subsection (a)(3), the words “instrument of indebtedness” are substituted
 
 In subsection (a)(5), the words “or the majority of the voting power” are omitted as covered by “controlling interest”.
 
-In subsection (b)(1), before subparagraph (A), the words “and only if” are added for clarity because theSecretary is required to disapprove a trustee that ceases to meet the specified conditions.
+In subsection (b)(1), before subparagraph (A), the words “and only if” are added for clarity because the Secretary is required to disapprove a trustee that ceases to meet the specified conditions.
 
 Subsections (c) and (d) are substituted for the source provisions to eliminate unnecessary words.
 

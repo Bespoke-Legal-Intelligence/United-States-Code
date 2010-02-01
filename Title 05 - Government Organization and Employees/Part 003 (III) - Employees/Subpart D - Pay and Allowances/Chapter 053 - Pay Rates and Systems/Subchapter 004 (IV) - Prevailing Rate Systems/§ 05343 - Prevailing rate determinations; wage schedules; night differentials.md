@@ -30,7 +30,7 @@
 
 &emsp;(1) that, subject to subsection (d) of this section, wages surveyed be those paid by private employers in the wage area for similar work performed by regular full-time employees, except that, for prevailing rate employees under paragraphs (B) and (C) of section 5342(a)(2) of this title, the wages surveyed shall be those paid by private employers to full-time employees in a representative number of retail, wholesale, service, and recreational establishments similar to those in which such prevailing rate employees are employed;
 
-&emsp;(2) for participation at all levels by representatives of organizations accorded recognition as the representatives of prevailing rate employees in every phase of providing an equitable system for fixing and adjusting the rates of pay for prevailing rate employees, including the planning of the surveys, the drafting of specifications, the selection of data collectors, the collection and the analysis of the data, and the submission or recommendations to the head of the lead agency for wage schedules and rates and for special wage schedules and rates where appropriate;
+&emsp;(2) for participation at all levels by representatives of organizations accorded recognition as the representatives of prevailing rate employees in every phase of providing an equitable system for fixing and adjusting the rates of pay for prevailing rate employees, including the planning of the surveys, the drafting of specifications, the selection of data collectors, the collection and the analysis of thedata, and the submission of recommendations to the head of the lead agency for wage schedules and rates and for special wage schedules and rates where appropriate;
 
 &emsp;(3) for requirements for the accomplishment of wage surveys and for the development of wage schedules and rates for prevailing rate employees, including, but not limited to—
 
@@ -90,7 +90,7 @@
 
 #### References in Text
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (c)(4), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (c)(4), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 #### Prior Provisions
 
@@ -150,25 +150,25 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Limitation on Pay Adjustments for Prevailing Rate Employees and Crews of Vessels
 
-Pub. L. 110–161, div. D, title VII, §712, Dec. 26, 2007, 121 Stat. 2021, provided that:
+Pub. L. 111–117, div. C, title VII, §710, Dec. 16, 2009, 123 Stat. 3206, provided that:
 
-“(a) Notwithstanding any other provision of law, and except as otherwise provided in this section, no part of any of the funds appropriated for fiscal year 2008, by this or any other Act, may be used to pay any prevailing rate employee described in section 5342(a)(2)(A) of title 5, United States Code—
+“(a) Notwithstanding any other provision of law, and except as otherwise provided in this section, no part of any of the funds appropriated for fiscal year 2010, by this or any other Act, may be used to pay any prevailing rate employee described in section 5342(a)(2)(A) of title 5, United States Code—
 
-&emsp;“(1) during the period from the date of expiration of the limitation imposed by the comparable section for previous fiscal years \[see similar provisions listed below\] until the normal effective date of the applicable wage survey adjustment that is to take effect in fiscal year 2008, in an amount that exceeds the rate payable for the applicable grade and step of the applicable wage schedule in accordance with such section; and
+&emsp;“(1) during the period from the date of expiration of the limitation imposed by the comparable section for previous fiscal years until the normal effective date of the applicable wage survey adjustment that is to take effect in fiscal year 2010, in an amount that exceeds the rate payable for the applicable grade and step of the applicable wage schedule in accordance with such section; and
 
-&emsp;“(2) during the period consisting of the remainder of fiscal year 2008, in an amount that exceeds, as a result of a wage survey adjustment, the rate payable under paragraph (1) by more than the sum of—
+&emsp;“(2) during the period consisting of the remainder of fiscal year 2010, in an amount that exceeds, as a result of a wage survey adjustment, the rate payable under paragraph (1) by more than the sum of—
 
-&emsp;&emsp;“(A) the percentage adjustment taking effect in fiscal year 2008 under section 5303 of title 5, United States Code, in the rates of pay under the General Schedule; and
+&emsp;&emsp;“(A) the percentage adjustment taking effect in fiscal year 2010 under section 5303 of title 5, United States Code, in the rates of pay under the General Schedule; and
 
-&emsp;&emsp;“(B) the difference between the overall average percentage of the locality-based comparability payments taking effect in fiscal year 2008 under section 5304 of such title (whether by adjustment or otherwise), and the overall average percentage of such payments which was effective in the previous fiscal year under such section.
+&emsp;&emsp;“(B) the difference between the overall average percentage of the locality-based comparability payments taking effect in fiscal year 2010 under section 5304 of such title (whether by adjustment or otherwise), and the overall average percentage of such payments which was effective in the previous fiscal year under such section.
 
 “(b) Notwithstanding any other provision of law, no prevailing rate employee described in subparagraph (B) or (C) of section 5342(a)(2) of title 5, United States Code, and no employee covered by section 5348 of such title, may be paid during the periods for which subsection (a) is in effect at a rate that exceeds the rates that would be payable under subsection (a) were subsection (a) applicable to such employee.
 
-“(c) For the purposes of this section, the rates payable to an employee who is covered by this section and who is paid from a schedule not in existence on September 30, 2007, shall be determined under regulations prescribed by the Office of Personnel Management.
+“(c) For the purposes of this section, the rates payable to an employee who is covered by this section and who is paid from a schedule not in existence on September 30, 2009, shall be determined under regulations prescribed by the Office of Personnel Management.
 
-“(d) Notwithstanding any other provision of law, rates of premium pay for employees subject to this section may not be changed from the rates in effect on September 30, 2007, except to the extent determined by the Office of Personnel Management to be consistent with the purpose of this section.
+“(d) Notwithstanding any other provision of law, rates of premium pay for employees subject to this section may not be changed from the rates in effect on September 30, 2009, except to the extent determined by the Office of Personnel Management to be consistent with the purpose of this section.
 
-“(e) This section shall apply with respect to pay for service performed after September 30, 2007.
+“(e) This section shall apply with respect to pay for service performed after September 30, 2009.
 
 “(f) For the purpose of administering any provision of law (including any rule or regulation that provides premium pay, retirement, life insurance, or any other employee benefit) that requires any deduction or contribution, or that imposes any requirement or limitation on the basis of a rate of salary or basic pay, the rate of salary or basic pay payable after the application of this section shall be treated as the rate of salary or basic pay.
 
@@ -177,6 +177,10 @@ Pub. L. 110–161, div. D, title VII, §712, Dec. 26, 2007, 121 Stat. 2021, prov
 “(h) The Office of Personnel Management may provide for exceptions to the limitations imposed by this section if the Office determines that such exceptions are necessary to ensure the recruitment or retention of qualified employees.”
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 111–8, div. D, title VII, §710, Mar. 11, 2009, 123 Stat. 682.
+
+Pub. L. 110–161, div. D, title VII, §712, Dec. 26, 2007, 121 Stat. 2021.
 
 Pub. L. 109–115, div. A, title VIII, §813, Nov. 30, 2005, 119 Stat. 2497.
 
@@ -266,7 +270,7 @@ Effective Date.—Subsection (a) applies with respect to pay periods commencing 
 
 Pub. L. 110–114, title V, §5026, Nov. 8, 2007, 121 Stat. 1203, provided that: “Employees of the Corps of Engineers who are paid wages determined under the last undesignated paragraph under the heading ‘Administrative Provisions’ of chapter V of the Supplemental Appropriations Act, 1982 (5 U.S.C. 5343 note; 96 Stat. 832) shall be allowed, through appropriate employee organization representatives, to participate in wage surveys under such paragraph to the same extent as are prevailing rate employees under subsection (c)(2) of section 5343 of title 5, United States Code. Nothing in such section 5343 shall be construed to affect which agencies are to be surveyed under such paragraph.”
 
-Pub. L. 97–257, title I, §100, Sept. 10, 1982, 96 Stat. 832, provided in part that: “Without regard to any other provision of law limiting the amounts payable to prevailing wage rate employees, United States Army Corps of Engineers employees paid from Corps of Engineers Special Power Rate Schedules shall be paid, beginning the effective date of each annual wage survey in the region after the date of enactment of this Act \[Sept. 10, 1982\], wages as determined by the Department of Defense Wage Fixing Authority to be consistent with wages of the Department of Energy and the Department of the Interior employees performing similar work in the corresponding area whose wage rates are established in accordance with section 9(b) of Public Law 92–392 or section 704 of Public Law 95–454 \[set out as notes under this section\].”
+Pub. L. 97–257, title I, §100, Sept. 10, 1982, 96 Stat. 832, provided in part that: “Without regard to any other provision of law limiting the amounts payable to prevailing wage rate employees, United States Army Corps of Engineers employees paid from Corps of Engineers Special Power Rate Schedules shall be paid, beginning the effective date of each annual wage survey in the region after the date of enactment of this Act \[Sept. 10, 1982\], wages as determined by the Department of Defense Wage Fixing Authority to be consistent with wages of the Department of Energy and the Department of the Interior employees performing similar work in the corresponding area whose wage rates are established in accordance with section 9(b) of PublicLaw 92–392 or section 704 of Public Law 95–454 \[set out as notes under this section\].”
 
 #### Negotiating Requirements for Labor Contracts, Etc., On and After October 13, 1978, and Negotiated Under Prevailing Rates and Practices Prior to August 19, 1972
 

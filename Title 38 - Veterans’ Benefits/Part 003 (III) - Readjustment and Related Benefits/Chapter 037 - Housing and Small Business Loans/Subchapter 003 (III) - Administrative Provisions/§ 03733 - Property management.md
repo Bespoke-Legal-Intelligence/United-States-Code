@@ -1,6 +1,6 @@
 ### §3733. Property management
 
-(a)(1) Of the number of purchases made during any fiscal year of real property acquired by theSecretary as the result of a default on a loan guaranteed under this chapter for a purpose described in section 3710(a) of this title, not more than 65 percent, nor less than 50 percent, of such purchases may be financed by a loan made by the Secretary. The maximum percentage stated in the preceding sentence may be increased to 80 percent for any fiscal year if the Secretary determines that such an increase is necessary in order to maintain the effective functioning of the loan guaranty program.
+(a)(1) Of the number of purchases made during any fiscal year of real property acquired by the Secretary as the result of a default on a loan guaranteed under this chapter for a purpose described in section 3710(a) of this title, not more than 65 percent, nor less than 50 percent, of such purchases may be financed by a loan made by the Secretary. The maximum percentage stated in the preceding sentence may be increased to 80 percent for any fiscal year if the Secretary determines that such an increase is necessary in order to maintain the effective functioning of the loan guaranty program.
 
 (2) After September 30, 1990, the percentage limitations described in paragraph (1) of this subsection shall have no effect.
 
@@ -20,7 +20,7 @@
 
 (6) The Secretary shall make a loan to finance the sale of real property described in paragraph (1) at an interest rate that is lower than the prevailing mortgage market interest rate in areas where, and to the extent, the Secretary determines, in light of prevailing conditions in the real estate market involved, that such lower interest rate is necessary in order to market the property competitively and is in the interest of the long-term stability and solvency of the Veterans Housing Benefit Program Fund established by section 3722(a) of this title.
 
-(7) During the period that begins on December 16, 2003 <sup>1</sup> and ends on September 30, 2013, the Secretary shall carry out the provisions of this subsection as if—
+(7) During the period that begins on December 16, 2003 and ends on September 30, 2013, the Secretary shall carry out the provisions of this subsection as if—
 
 &emsp;(A) the references in the first sentence of paragraph (1) to “65 percent” and “may be financed” were references to “85 percent” and “shall be financed”, respectively;
 
@@ -28,7 +28,7 @@
 
 &emsp;(C) the reference in paragraph (2) to “September 30, 1990,” were a reference to “September 30, 2013,”.
 
-(b) The Secretary may not make a loan to finance a purchase of property acquired by the Secretary as a result of a default on a loan guaranteed under this chapter unless the purchaser meets the credit underwriting standards established under section 3710(g)(2)(A) of this title.
+(b) The Secretary may not make a loan to finance a purchase of property acquired by theSecretary as a result of a default on a loan guaranteed under this chapter unless the purchaser meets the credit underwriting standards established under section 3710(g)(2)(A) of this title.
 
 (c)(1) The Secretary shall identify and compile information on common factors which the Secretary finds contribute to foreclosures on loans guaranteed under this chapter.
 
@@ -173,6 +173,4 @@ Section 7004(b) of title VII of Pub. L. 100–203 provided that: “In applying 
 #### Report to Congress
 
 Section 6(c) of Pub. L. 100–198 directed Administrator of Veterans’ Affairs, by Mar. 1, 1990, to transmit to Congress a report of activities carried out, through Dec. 31, 1989, under paragraphs (4) and (5) of section 1816(d) of this title \[which became pars. (4) and (5) of subsec. (a) of this section\].
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

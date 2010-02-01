@@ -16,7 +16,7 @@ The Secretary of the Treasury shall deposit into the Fund—
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary may use amounts in the Account,<sup>1</sup> without further Act of appropriation, to carry out this chapter.
+&emsp;Subject to paragraph (2), the Secretary may use amounts in the Account,<sup>1</sup> without furtherAct of appropriation, to carry out this chapter.
 
 #### (2) Administrative expenses
 

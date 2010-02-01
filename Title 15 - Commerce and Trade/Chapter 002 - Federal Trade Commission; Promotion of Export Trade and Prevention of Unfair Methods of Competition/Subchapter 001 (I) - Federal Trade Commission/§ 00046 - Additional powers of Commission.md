@@ -128,7 +128,7 @@ The Act to regulate commerce, referred to in subsecs. (a), (b), (j)(6), and the 
 
 The antitrust Acts, referred to in subsecs. (c) to (e), are defined in section 44 of this title.
 
-The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (i), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (i), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§6201 et seq.) of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
 
@@ -192,7 +192,7 @@ Section 5(b) of Pub. L. 96–252 provided that: “The amendment made in subsect
 
 Ex. Ord. No. 10544, July 12, 1954, 19 F.R. 4289, provided:
 
-By virtue of the authority vested in me by section 55(a) of the Internal Revenue Code (53 Stat. 29; 54 Stat. 1008; 55 Stat. 722) and in the interest of the internal management of the Government, it is hereby ordered that corporation income tax returns made for the year 1953 and subsequent years shall be open to inspection by the Federal Trade Commission as an aid in executing the powers conferred upon such Commission by the Federal Trade Commission Act of September 26, 1914, 38 Stat. 717, \[this subchapter\], such inspection to be in accordance and upon compliance with the rules and regulations prescribed by the Secretary of the Treasury in the Treasury decision relating to the inspection of returns by the Federal Trade Commission, approved by me this date \[T.D. 6080, 19 F.R. 4308\].
+By virtue of the authority vested in me by section 55(a) of the Internal Revenue Code (53 Stat. 29; 54 Stat. 1008; 55 Stat. 722) and in the interest of the internal management of the Government, it is hereby orderedthat corporation income tax returns made for the year 1953 and subsequent years shall be open to inspection by the Federal Trade Commission as an aid in executing the powers conferred upon such Commission by the Federal Trade Commission Act of September 26, 1914, 38 Stat. 717, \[this subchapter\], such inspection to be in accordance and upon compliance with the rules and regulations prescribed by the Secretary of the Treasury in the Treasury decision relating to the inspection of returns by the Federal Trade Commission, approved by me this date \[T.D. 6080, 19 F.R. 4308\].
 
 This Executive Order shall be effective upon its filing for publication in the Federal Register.
 

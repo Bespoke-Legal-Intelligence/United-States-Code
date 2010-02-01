@@ -10,7 +10,7 @@
 
 &emsp;(B) the usual and customary congressional newsletter or press release which may deal with such matters as the impact of laws and decisions on State and local governments and individual citizens; reports on public and official actions taken by Members of Congress; and discussions of proposed or pending legislation or governmental actions and the positions of the Members of Congress on, and arguments for or against, such matters;
 
-&emsp;(C) the usual and customary congressional questionnaire seeking public opinion on any law, pending or proposed legislation, public issue, or subject;
+&emsp;(C) the usual and customary congressional questionnaire seeking public opinion on anylaw, pending or proposed legislation, public issue, or subject;
 
 &emsp;(D) mail matter dispatched by a Member of Congress between his Washington office and any congressional district offices, or between his district offices;
 
@@ -30,7 +30,7 @@
 
 (5) It is the intent of the Congress that a Member of or Member-elect to Congress may not mail as franked mail—
 
-&emsp;(A) mail matter which constitutes or includes any article, account, sketch, narration, or other text laudatory and complimentary of any Member of, or Member-elect to, Congresson a purely personal or political basis rather than on the basis of performance of official duties as a Member or on the basis of activities as a Member-elect;
+&emsp;(A) mail matter which constitutes or includes any article, account, sketch, narration, or other text laudatory and complimentary of any Member of, or Member-elect to, Congress on a purely personal or political basis rather than on the basis of performance of official duties as a Member or on the basis of activities as a Member-elect;
 
 &emsp;(B) mail matter which constitutes or includes—
 
@@ -74,7 +74,7 @@
 
 (b)(1) The Vice President, each Member of or Member-elect to Congress, the Secretary of the Senate, the Sergeant at Arms of the Senate, each of the elected officers of the House of Representatives (other than a Member of the House), the Legislative Counsels of the House of Representatives and the Senate, the Law Revision Counsel of the House of Representatives, and the Senate Legal Counsel, may send, as franked mail, matter relating to their official business, activities, and duties, as intended by Congress to be mailable as franked mail under subsection (a)(2) and (3) of this section.
 
-(2) If a vacancy occurs in the Office of the Secretary of the Senate, the Sergeant at Arms of the Senate, an elected officer of the House of Representatives (other than a Member of the House), the Legislative Counsel of the House of Representatives or the Senate, the Law Revision Counsel of the House of Representatives, or the Senate Legal Counsel, any authorized personmay exercise the franking privilege in the officer's name during the period of the vacancy.
+(2) If a vacancy occurs in the Office of the Secretary of the Senate, the Sergeant at Arms of the Senate, an elected officer of the House of Representatives (other than a Member of the House), the Legislative Counsel of the House of Representatives or the Senate, the Law Revision Counsel of the House of Representatives, or the Senate Legal Counsel, any authorized person may exercise the franking privilege in the officer's name during the period of the vacancy.
 
 (3) The Vice President, each Member of Congress, the Secretary of the Senate, the Sergeant at Arms of the Senate, and each of the elected officers of the House (other than a Member of the House), during the 90-day period immediately following the date on which they leave office, may send, as franked mail, matter on official business relating to the closing of their respective offices. The House Commission on Congressional Mailing Standards and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations, and shall take such other action as the Commission or Committee considers necessary and proper, to carry out the provisions of this paragraph.
 

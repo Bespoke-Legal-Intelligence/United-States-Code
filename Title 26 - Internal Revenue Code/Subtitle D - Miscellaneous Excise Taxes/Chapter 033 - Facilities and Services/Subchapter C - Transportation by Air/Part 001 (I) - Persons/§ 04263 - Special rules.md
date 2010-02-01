@@ -28,7 +28,7 @@ In applying this subchapter to transportation any part of which is outside the n
 
 #### Prior Provisions
 
-A prior section 4263, acts Aug. 16, 1954, ch. 736, 68A Stat. 506, §4263, formerly §4262; renumbered §4263 and amended July 25, 1956, ch. 725, §2, 70 Stat. 644; Aug. 7, 1956, ch. 1024, §1, 70 Stat. 1077; June 29, 1957, Pub. L. 85–74, 71 Stat. 243; Sept. 2, 1958, Pub. L. 85–859, title I, §134, 72 Stat. 1292; June 28, 1962, Pub. L. 87–508, §5(b), 76 Stat. 117, provided for exemptions, subsecs. (a) to (d) relating to commutation travel, etc., certain organizations; members of the Armed Forces, and small aircraft on nonestablished lines, respectively, prior to repeal by Pub. L. 91–258, title II, §205(c)(1), May 21, 1970, 84 Stat. 242, effective on July 1, 1970, as provided in section211(a) of Pub. L. 91–258, set out as a note under section 4041 of this title.
+A prior section 4263, acts Aug. 16, 1954, ch. 736, 68A Stat. 506, §4263, formerly §4262; renumbered §4263 and amended July 25, 1956, ch. 725, §2, 70 Stat. 644; Aug. 7, 1956, ch. 1024, §1, 70 Stat. 1077; June 29, 1957, Pub. L. 85–74, 71 Stat. 243; Sept. 2, 1958, Pub. L. 85–859, title I, §134, 72 Stat. 1292; June 28, 1962, Pub. L. 87–508, §5(b), 76 Stat. 117, provided for exemptions, subsecs. (a) to (d) relating to commutation travel, etc., certain organizations; members of the Armed Forces, and small aircraft on nonestablished lines, respectively, prior to repeal by Pub. L. 91–258, title II, §205(c)(1), May 21, 1970, 84 Stat. 242, effective on July 1, 1970, as provided in section 211(a) of Pub. L. 91–258, set out as a note under section 4041 of this title.
 
 #### Amendments
 

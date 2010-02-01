@@ -36,7 +36,7 @@
 
 #### (C) Covered property
 
-&emsp;&emsp;The term “covered property” means aircraft, airports, airport facilities, vessels, harbors, ports, piers, water-front facilities, bases, forts, posts, laboratories, stations, vehicles, equipment, explosives, or other property or places.
+&emsp;&emsp;The term “covered property” means aircraft, airports, airport facilities, vessels, harbors, ports, piers, water-front facilities,bases, forts, posts, laboratories, stations, vehicles, equipment, explosives, or other property or places.
 
 #### (D) Regulation as including order
 
@@ -50,5 +50,5 @@ Any regulation or order covered by subsection (a) of this section shall be poste
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–163 amended section generally. Prior to amendment, section related to security regulations and orders and penalties for violations.
+2006—Pub. L. 109–163 amended section generally. Prior to amendment, section related to security regulations and orders and penalties for violations.
 

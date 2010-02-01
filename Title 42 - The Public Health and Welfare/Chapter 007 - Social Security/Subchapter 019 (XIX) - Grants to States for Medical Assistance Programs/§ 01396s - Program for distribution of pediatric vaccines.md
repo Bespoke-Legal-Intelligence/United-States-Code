@@ -116,7 +116,7 @@ For purposes of this section:
 
 #### (1) In general
 
-&emsp;For the purpose of meeting obligations under this section, the Secretary shall negotiate and enter into contracts with manufacturers of pediatric vaccines consistent with the requirements of this subsection and, to the maximum extent practicable, consolidate such contracting with any other contracting activities conducted by the Secretary to purchase vaccines. The Secretary may enter into suchcontracts under which the Federal Government is obligated to make outlays, the budget authority for which is not provided for in advance in appropriations Acts, for the purchase and delivery of pediatric vaccines under subsection (a)(2)(A) of this section.
+&emsp;For the purpose of meeting obligations under this section, the Secretary shall negotiate and enter into contracts with manufacturers of pediatric vaccines consistent with the requirements of this subsection and, to the maximum extent practicable, consolidate such contracting with any other contracting activities conducted by the Secretary to purchase vaccines. The Secretary may enter into such contracts under which the Federal Government is obligated to make outlays, the budget authority for which is not provided for in advance in appropriations Acts, for the purchase and delivery of pediatric vaccines under subsection (a)(2)(A) of this section.
 
 #### (2) Authority to decline contracts
 
@@ -160,7 +160,7 @@ For purposes of this section:
 
 #### (e) Use of pediatric vaccines list
 
-The Secretary shall use, for the purpose of the purchase, delivery, and administration of pediatric vaccines under this section, the list established (and periodically reviewed and as appropriate revised) by the Advisory Committee on Immunization Practices (an advisory committeeestablished by the Secretary, acting through the Director of the Centers for Disease Control and Prevention).
+The Secretary shall use, for the purpose of the purchase, delivery, and administration of pediatric vaccines under this section, the list established (and periodically reviewed and as appropriate revised) by the Advisory Committee on Immunization Practices (an advisory committee established by the Secretary, acting through the Director of the Centers for Disease Control and Prevention).
 
 #### (f) Requirement of State maintenance of immunization laws
 

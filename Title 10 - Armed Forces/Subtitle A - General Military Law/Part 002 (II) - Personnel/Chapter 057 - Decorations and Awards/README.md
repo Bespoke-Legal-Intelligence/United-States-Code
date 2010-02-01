@@ -38,7 +38,7 @@
 
 1993—Pub. L. 103–160, div. A, title XI, §1141(b), Nov. 30, 1993, 107 Stat. 1757, added item 1129.
 
-1985—Pub. L. 99–145, title V, §532(a)(2), title XII, §1225(a)(2)(B), Nov. 8, 1985, 99 Stat. 634, 730, inserted“disclosures,” and substituted “and” for “or” in item 1124, and added item 1128.
+1985—Pub. L. 99–145, title V, §532(a)(2), title XII, §1225(a)(2)(B), Nov. 8, 1985, 99 Stat. 634, 730, inserted “disclosures,” and substituted “and” for “or” in item 1124, and added item 1128.
 
 1984—Pub. L. 98–525, title V, §553(b), Oct. 19, 1984, 98 Stat. 2532, added item 1127.
 
@@ -168,7 +168,7 @@ Sec. 4. Upon award, the Vice Presidential Service Badge may be worn as a part of
 
 Sec. 5. Only one Vice Presidential Service Badge shall be awarded to an individual. It may be awarded posthumously. No award shall be made to an individual under this Order based on a period of service with respect to which, in whole or in part, the individual was awarded the Presidential Service Badge.
 
-Sec. 6. Notwithstanding the provisions of Sections 1 and 2 of this Order, any member of the Army, Navy, Air Force, Marine Corps, Coast Guard, commissioned corps of the National Oceanic and Atmospheric Administration, and commissioned corps of the Public Health Service, who has been assigned to duty in the Office of the Vice President, or who has been assigned to perform duties predominantly for the Vice President, in the implementation of Public Law 93–346, as amended, or in military units and support facilities to which section 1 of Executive Order 12793, as amended, refers,,\[sic\] is authorized, unless otherwise directed by the Director of the White House Military Office in the case of personnel in military units or support facilities to which section 1 of Executive Order 12793, as amended, refers, to wear the Vice Presidential Service Badge on his or her uniform commencing on the first day of such duty and thereafter while assigned to such duty.
+Sec. 6. Notwithstanding the provisions of Sections 1 and 2 of this Order, any member of the Army, Navy, Air Force, Marine Corps, Coast Guard, commissioned corps of the National Oceanic and Atmospheric Administration, and commissioned corps of the Public Health Service, who has been assigned to duty in the Office of the Vice President, or who has been assigned to perform duties predominantly for the Vice President, in the implementation of Public Law 93–346, as amended, or in military units and support facilities to which section 1 of Executive Order 12793, as amended, refers,,\[sic\]is authorized, unless otherwise directed by the Director of the White House Military Office in the case of personnel in military units or support facilities to which section 1 of Executive Order 12793, as amended, refers, to wear the Vice Presidential Service Badge on his or her uniform commencing on the first day of such duty and thereafter while assigned to such duty.
 
 Sec. 7. Executive Order No. 11544 of July 8, 1970, is hereby superseded; however, individuals previously awarded a Vice Presidential Service Badge under that Order are authorized to continue to wear such badge as part of their uniform.
 
@@ -224,7 +224,7 @@ Ex. Ord. No. 12830, Jan. 9, 1993, 58 F.R. 4061, as amended by Ex. Ord. No. 13286
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and as Commander in Chief of the Armed Forces, it is hereby ordered as follows:
 
-Section 1. There is hereby established a Military Outstanding Volunteer Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense or, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security. Members of the Armed Forces of the United States (including Reserve components) who perform outstanding volunteer service to the civilian community of a sustained, direct, and consequential nature are eligible for the medal.
+Section 1. There is hereby established a Military Outstanding Volunteer Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense or, with respect to the Coast Guard when it is not operating as a service in the Navy,the Secretary of Homeland Security. Members of the Armed Forces of the United States (including Reserve components) who perform outstanding volunteer service to the civilian community of a sustained, direct, and consequential nature are eligible for the medal.
 
 Sec. 2. The Military Outstanding Volunteer Service Medal and ribbons and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense. The Secretary of Defense shall prescribe regulations to govern the award and wear of the Military Outstanding Volunteer Service Medal. The regulations shall place the Military Outstanding Volunteer Service Medal in order of precedence immediately after the Humanitarian Service Medal.
 

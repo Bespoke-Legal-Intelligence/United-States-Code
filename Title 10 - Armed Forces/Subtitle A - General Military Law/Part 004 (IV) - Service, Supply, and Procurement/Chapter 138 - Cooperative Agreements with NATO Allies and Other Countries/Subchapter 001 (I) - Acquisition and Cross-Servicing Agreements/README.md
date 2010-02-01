@@ -30,12 +30,6 @@
 
 1985—Pub. L. 99–145, title XIII, §1304(a)(6), Nov. 8, 1985, 99 Stat. 742, renumbered items 2321 to 2328 as 2341 to 2348, respectively, and items 2330 and 2331 as 2349 and 2350, respectively, and struck out item 2329 “Regulations”.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “101(a)(13)”.</i>
-
 
 ---
 

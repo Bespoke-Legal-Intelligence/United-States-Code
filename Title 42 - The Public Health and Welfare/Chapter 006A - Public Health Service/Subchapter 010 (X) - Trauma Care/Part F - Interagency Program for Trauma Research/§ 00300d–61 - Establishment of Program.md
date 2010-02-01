@@ -70,7 +70,7 @@ The Director shall assure the availability of appropriate resources to carry out
 
 #### (3) Composition
 
-&emsp;The Coordinating Committee shall be composed of the Directors of each of the agencies that, under subsection (c) of this section, have responsibilities under the Program, and any other individuals who are practitioners in the trauma field as designated by the Director of the National Institutes of Health.
+&emsp;The Coordinating Committee shall be composed of the Directors of each of the agencies that, under subsection (c) of this section, have responsibilities under the Program, and any other individuals who are practitioners in thetrauma field as designated by the Director of the National Institutes of Health.
 
 #### (h) Definitions
 
@@ -100,7 +100,7 @@ Subsec. (i). Pub. L. 110–206, §5(3), inserted “, and such sums as may be n
 
 2000—Subsec. (d)(4)(A). Pub. L. 106–310, §1303(a)(1), substituted “degree of brain injury” for “degree of injury”.
 
-Subsec. (d)(4)(B). Pub. L. 106–310, §1303(a)(2), which directed amendment of subpar. (B) by substituting “acute brain injury” for “acute injury”, could not beexecuted because the phrase “acute injury” does not appear in text.
+Subsec. (d)(4)(B). Pub. L. 106–310, §1303(a)(2), which directed amendment of subpar. (B) by substituting “acute brain injury” for “acute injury”, could not be executed because the phrase “acute injury” does not appear in text.
 
 Subsec. (d)(4)(C). Pub. L. 106–310, §1303(c)(1), struck out “and” after semicolon at end.
 

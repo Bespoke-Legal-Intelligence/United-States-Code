@@ -12,7 +12,7 @@ Based on sections 641 and 642a of title 48, U.S.C., 1940 ed., Territories and In
 
 Section consolidates parts of sections 641 and 642a of title 48, U.S.C., 1940 ed.
 
-The provisions of section 641 of title 48, U.S.C., 1940 ed., with reference to regular and special terms and the times of holding same were omitted as covered by sections 138 and 141 of this title.
+The provisions of section 641 of title 48, U.S.C., 1940 ed., with reference to regular and special terms and thetimes of holding same were omitted as covered by sections 138 and 141 of this title.
 
 Provisions of section 642a of title 48, U.S.C., 1940 ed., relating to jurisdiction of civil actions and criminal offenses, were omitted as covered by the general jurisdictional provisions of this title and revised title 18 (H. R. 3190, 80th Cong.).
 

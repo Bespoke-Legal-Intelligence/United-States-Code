@@ -12,7 +12,7 @@ Notwithstanding any provision of applicable law, no action by any Federal agency
 
 #### (c) Filing
 
-Each applicant for the approval of any transportation or utility system shall file on thesame day an application with each appropriate Federal agency. The applicant shall utilize the consolidated form prescribed under subsection (b) of this section for the type of transportation or utility system concerned.
+Each applicant for the approval of any transportation or utility system shall file on the same day an application with each appropriate Federal agency. The applicant shall utilize the consolidated form prescribed under subsection (b) of this section for the type of transportation or utility system concerned.
 
 #### (d) Agency notice
 
@@ -60,5 +60,5 @@ During both the nine-month period, and the succeeding three-month period plus an
 
 The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (f), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see ShortTitle note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (f), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 

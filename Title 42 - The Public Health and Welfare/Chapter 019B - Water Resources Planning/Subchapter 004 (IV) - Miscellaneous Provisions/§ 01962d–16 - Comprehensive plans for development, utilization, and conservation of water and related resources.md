@@ -68,7 +68,7 @@ Subsecs. (d), (e). Pub. L. 110–114, §2013(8), (9), added subsec. (d) and rede
 
 1996—Subsec. (a). Pub. L. 104–303, §221(1), inserted “, watersheds, or ecosystems” after “basins”.
 
-Subsec. (b)(2) to (4). Pub. L. 104–303, §221(2), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out heading and text of former par. (2). Text read as follows: “The Secretary shall phase in the cost sharing program under this subsection by recovering—
+Subsec. (b)(2) to (4). Pub. L. 104–303, §221(2), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out heading and text of former par. (2). Textread as follows: “The Secretary shall phase in the cost sharing program under this subsection by recovering—
 
 &emsp;“(A) approximately 10 percent of the total cost of providing assistance in fiscal year 1991;
 

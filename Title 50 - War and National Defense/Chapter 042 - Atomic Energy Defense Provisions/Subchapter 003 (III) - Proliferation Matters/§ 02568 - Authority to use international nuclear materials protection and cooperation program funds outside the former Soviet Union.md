@@ -50,7 +50,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–375, §3131(a), inserted “that has not previously been authorized by Congress” after “states of the former Soviet Union”.
+2004—Subsec. (a). Pub. L. 108–375, §3131(a), inserted “that has not previously been authorized by Congress” after “states of the former Soviet Union”.
 
 Subsec. (c). Pub. L. 108–375, §3131(b), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “The amount that may be obligated in a fiscal year under the authority in subsection (a) may not exceed $50,000,000.”
 

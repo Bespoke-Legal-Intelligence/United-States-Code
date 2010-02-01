@@ -36,7 +36,7 @@ As used in this part—
 
 &emsp;The term “lead-lined tank” means a water reservoir container in a drinking water cooler which container is constructed of lead or which has an interior surface which is not lead free.
 
-(July 1, 1944, ch. 373, title XIV, §1461, as added Pub. L. 100–572, §2(a), Oct. 31, 1988, 102 Stat. 2884;amended Pub. L. 103–382, title III, §391(p), Oct. 20, 1994, 108 Stat. 4024; Pub. L. 104–182, title V, §501(f)(7), Aug. 6, 1996, 110 Stat. 1692; Pub. L. 107–110, title X, §1076(x), Jan. 8, 2002, 115 Stat. 2093.)
+(July 1, 1944, ch. 373, title XIV, §1461, as added Pub. L. 100–572, §2(a), Oct. 31, 1988, 102 Stat. 2884; amended Pub. L. 103–382, title III, §391(p), Oct. 20, 1994, 108 Stat. 4024; Pub. L. 104–182, title V, §501(f)(7), Aug. 6, 1996, 110 Stat. 1692; Pub. L. 107–110, title X, §1076(x), Jan. 8, 2002, 115 Stat. 2093.)
 
 #### References in Text
 

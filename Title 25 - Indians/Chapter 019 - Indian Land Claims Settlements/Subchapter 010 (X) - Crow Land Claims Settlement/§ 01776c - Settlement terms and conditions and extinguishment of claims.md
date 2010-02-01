@@ -76,7 +76,7 @@ With respect to the land exchanges with the State of Montana and private landown
 
 #### (1) In general
 
-&emsp;(A) The Secretary shall negotiate with the State of Montana for the purpose of exchanging public lands within the State of Montana for State trust lands within the Crow Reservation having a total value substantially equal to the value of the surface estate of the approximately 46,625 acres of State trust lands obtained by the State of Montana pursuant tothe Act of February 22, 1889 (commonly known as the “Montana Enabling Act”; 25 Stat. 676, chapter 180), and the Act entitled “An Act to provide for the allotment of lands of the Crow Tribe for the distribution of tribal funds and for other purposes” approved June 4, 1920 (commonly known as the “Crow Allotment Act”; 41 Stat. 751, chapter 224) within the Crow Indian Reservation and the disputed area.
+&emsp;(A) The Secretary shall negotiate with the State of Montana for the purpose of exchanging public lands within the State of Montana for State trust lands within the Crow Reservation having a total value substantially equal to the value of the surface estate of the approximately 46,625 acres of State trust lands obtained by the State of Montana pursuant to the Act of February 22, 1889 (commonly known as the “Montana Enabling Act”; 25 Stat. 676, chapter 180), and the Act entitled “An Act to provide for the allotment of lands of the Crow Tribe for the distribution of tribal funds and for other purposes” approved June 4, 1920 (commonly known as the “Crow Allotment Act”; 41 Stat. 751, chapter 224) within the Crow Indian Reservation and the disputed area.
 
 &emsp;(B) The exchange described in subparagraph (A) shall be in accordance with the exchange procedures set forth in section 1716 of title 43.
 
@@ -112,7 +112,7 @@ With respect to the land exchanges with the State of Montana and private landown
 
 &emsp;(E) In determining the fair market value of the lands described in subparagraph (D), the parties to an exchange made pursuant to subparagraph (D) shall give due consideration to the value of improvements on the lands.
 
-&emsp;(F) If the Secretary obtains private lands pursuant to subparagraph (D), the Secretary shall transfer title to such lands to the Crow Tribe.
+&emsp;(F) If the Secretary obtains private lands pursuant to subparagraph (D), the Secretaryshall transfer title to such lands to the Crow Tribe.
 
 &emsp;(G) Title to any private or public lands transferred to the Crow Tribe pursuant to this paragraph shall—
 

@@ -16,7 +16,7 @@
 
 #### (3) Date for payment of installments
 
-&emsp;If an election is made under paragraph (1), the first installment shall be paid on or beforethe date selected by the executor which is not more than 5 years after the date prescribed by section 6151(a) for payment of the tax, and each succeeding installment shall be paid on or before the date which is 1 year after the date prescribed by this paragraph for payment of the preceding installment.
+&emsp;If an election is made under paragraph (1), the first installment shall be paid on or before the date selected by the executor which is not more than 5 years after the date prescribed by section 6151(a) for payment of the tax, and each succeeding installment shall be paid on or before the date which is 1 year after the date prescribed by this paragraph for payment of the preceding installment.
 
 #### (b) Definitions and special rules
 
@@ -104,7 +104,7 @@
 
 #### (i) Holding company stock treated as business company stock
 
-&emsp;&emsp;&emsp;For purposes of this section, the portion of the stock of any holding company which represents direct ownership (or indirectownership through 1 or more other holding companies) by such company in a business company shall be deemed to be stock in such business company.
+&emsp;&emsp;&emsp;For purposes of this section, the portion of the stock of any holding company which represents direct ownership (or indirect ownership through 1 or more other holding companies) by such company in a business company shall be deemed to be stock in such business company.
 
 #### (ii) 5-year deferral for principal not to apply
 
@@ -502,7 +502,7 @@ In general.—At the election of the executor, if—
 
 &emsp;“(B)
 
-Effect of election.—Any executor who elects the application of this paragraph shall be treated ashaving made the election under paragraph (8) of section 6166(b) of such Code.”
+Effect of election.—Any executor who elects the application of this paragraph shall be treated as having made the election under paragraph (8) of section 6166(b) of such Code.”
 
 #### Effective Date of 1983 Amendment
 

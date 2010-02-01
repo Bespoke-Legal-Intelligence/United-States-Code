@@ -50,7 +50,7 @@ Declaration of emergency.—An elected State or local government official or ele
 
 &emsp;(3)
 
-Incident report.—Within 30 days after the end of the declared emergency period the official who issued the emergency declaration shall file with the Field Administrator a report of each safety-related incident or accident that occurred during the emergency period involving—
+Incident report.—Within 30 days after the end of the declared emergency period theofficial who issued the emergency declaration shall file with the Field Administrator a report of each safety-related incident or accident that occurred during the emergency period involving—
 
 &emsp;&emsp;(A) a utility service vehicle driver to which the declaration applied; or
 

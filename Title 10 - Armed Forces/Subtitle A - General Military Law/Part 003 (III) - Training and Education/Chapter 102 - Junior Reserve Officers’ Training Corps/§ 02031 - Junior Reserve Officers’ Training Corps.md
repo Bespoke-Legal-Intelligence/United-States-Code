@@ -138,7 +138,7 @@ Cooperation.—The Secretary of Defense, as part of the plan to establish and su
 
 “(d)
 
-Report on Plan.—Upon completion of the plan, the Secretary of Defense shall provide a report to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] containing, at a minimum, the following:
+Report on Plan.—Upon completion of the plan, the Secretary of Defense shall provide a report to thecongressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] containing, at a minimum, the following:
 
 &emsp;“(1) A description of how the Secretaries of the military departments expect to achieve the number of units of the Junior Reserve Officers’ Training Corps specified in subsection (a), including how many units will be established per year by each service.
 

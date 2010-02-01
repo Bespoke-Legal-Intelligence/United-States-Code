@@ -74,7 +74,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 &emsp;&emsp;&emsp;(i) provisions or procedures for the reporting of known and suspected instances of child abuse and neglect;
 
-&emsp;&emsp;&emsp;(ii) policies and procedures (including appropriate referrals to child protection service systems and for other appropriate services) to address the needs of infants born and identified as being affected by illegal substance abuse or withdrawal symptoms resulting from prenatal drug exposure, including a requirement that health care providers involved in the delivery or care of such infants notify the child protective services system of the occurrence of such condition in such infants, except that such notification shall not be construed to—
+&emsp;&emsp;&emsp;(ii) policies and procedures (including appropriate referrals to child protection service systems and for other appropriate services) to address the needs of infantsborn and identified as being affected by illegal substance abuse or withdrawal symptoms resulting from prenatal drug exposure, including a requirement that health care providers involved in the delivery or care of such infants notify the child protective services system of the occurrence of such condition in such infants, except that such notification shall not be construed to—
 
 &emsp;&emsp;&emsp;&emsp;(I) establish a definition under Federal law of what constitutes child abuse; or
 
@@ -186,7 +186,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), each State to which a grant is made under this section shall establish not less than 3 citizen review panels.
+&emsp;&emsp;Except as provided in subparagraph (B), each State to which a grant is made underthis section shall establish not less than 3 citizen review panels.
 
 #### (B) Exceptions
 
@@ -250,7 +250,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 #### (6) Reports
 
-&emsp;Each panel established under paragraph (1) shall prepare and make available to the State and the public, on an annual basis, a report containing a summary of the activities of the panel and recommendations to improve the child protection services system at the Stateand local levels. Not later than 6 months after the date on which a report is submitted by the panel to the State, the appropriate State agency shall submit a written response to State and local child protection systems and the citizen review panel that describes whether or how the State will incorporate the recommendations of such panel (where appropriate) to make measurable progress in improving the State and local child protective system.
+&emsp;Each panel established under paragraph (1) shall prepare and make available to the State and the public, on an annual basis, a report containing a summary of the activities of the panel and recommendations to improve the child protection services system at the State and local levels. Not later than 6 months after the date on which a report is submitted by the panel to the State, the appropriate State agency shall submit a written response to State and local child protection systems and the citizen review panel that describes whether or how the State will incorporate the recommendations of such panel (where appropriate) to make measurable progress in improving the State and local child protective system.
 
 #### (d) Annual State data reports
 
@@ -324,7 +324,7 @@ Subsec. (a)(6). Pub. L. 108–36, §114(a)(6), substituted “including—” an
 
 Pub. L. 108–36, §114(a)(4), redesignated par. (5) as (6). Former par. (6) redesignated (8).
 
-Subsec. (a)(7). Pub. L. 108–36, §114(a)(3), (7), added par. (7) and struck out former par. (7) which read as follows:“developing, strengthening, and supporting child abuse and neglect prevention, treatment, and research programs in the public and private sectors;”.
+Subsec. (a)(7). Pub. L. 108–36, §114(a)(3), (7), added par. (7) and struck out former par. (7) which read as follows: “developing, strengthening, and supporting child abuse and neglect prevention, treatment, and research programs in the public and private sectors;”.
 
 Subsec. (a)(8). Pub. L. 108–36, §114(a)(4), redesignated par. (6) as (8). Former par. (8) redesignated (9).
 
@@ -410,7 +410,7 @@ Subsecs. (e) to (g). Pub. L. 102–295, §114(b)(1), redesignated subsecs. (d) t
 
 #### Effective Date of 1992 Amendment
 
-Section 114(d) of Pub. L. 102–295, as amended by Pub. L. 103–171, §9(a), Dec. 2, 1993, 107 Stat. 1994, provided that: “The amendments described in subsections (a) and (b) \[amending this section\] are made upon the date of the enactment of this Act \[May 28, 1992\]. Such amendments take effect on October 1 of the first fiscal year for which $40,000,000 or more is made available under subsection (a)(2)(B)(ii) of section 114 of the Child Abuse Prevention and Treatment Act \[section 5106h(a)(2)(B)(ii) of this title\] (as amended by section 117 of this Act). Prior to such amendments taking effect, section 107(a) of the Child Abuse Prevention andTreatment Act \[subsec. (a) of this section\], as in effect on the day before the date of the enactment of this Act, continues to be in effect.”
+Section 114(d) of Pub. L. 102–295, as amended by Pub. L. 103–171, §9(a), Dec. 2, 1993, 107 Stat. 1994, provided that: “The amendments described in subsections (a) and (b) \[amending this section\] are made upon the date of the enactment of this Act \[May 28, 1992\]. Such amendments take effect on October 1 of the first fiscal year for which $40,000,000 or more is made available under subsection (a)(2)(B)(ii) of section 114 of the Child Abuse Prevention and Treatment Act \[section 5106h(a)(2)(B)(ii) of this title\] (as amended by section 117 of this Act). Prior to such amendments taking effect, section 107(a) of the Child Abuse Prevention and Treatment Act \[subsec. (a) of this section\], as in effect on the day before the date of the enactment of this Act, continues to be in effect.”
 
 \[Pub. L. 103–171, §9(b), Dec. 2, 1993, 107 Stat. 1994, provided that: “The amendments made by subsection (a) \[amending section 114(d) of Pub. L. 102–295, set out above\] take effect on September 30, 1993.”\]
 

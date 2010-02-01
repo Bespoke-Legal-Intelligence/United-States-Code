@@ -6,7 +6,7 @@
 
 &emsp;(2) A servicemen's monument association.
 
-&emsp;(3) A museum, historical society, or historical institution of a State or a foreign nation or a nonprofit military aviation heritage foundation or association incorporated in a State.
+&emsp;(3) A museum, historical society, or historical institution of a State or a foreign nationor a nonprofit military aviation heritage foundation or association incorporated in a State.
 
 &emsp;(4) An incorporated museum or memorial that is operated and maintained for educational purposes only and the charter of which denies it the right to operate for profit.
 
@@ -74,7 +74,7 @@ Subsec. (a)(2). Pub. L. 107–107, §1043(d)(2), substituted “servicemen's mon
 
 Subsec. (a)(4). Pub. L. 107–107, §1043(d)(3), inserted “or memorial” after “An incorporated museum”.
 
-1996—Subsec. (b)(1). Pub. L. 104–106 substituted “not needed by the armed forces for any of the following items or services if such items or services directly benefit the historical collection of the armed forces:” for “not needed by the armed forces for similar items held by any individual, organization, institution, agency, or nation or for search, salvage, transportation, and restoration services which directly benefit the historical collection of the armed forces.” and added subpars. (A) to (E).
+1996—Subsec. (b)(1). Pub. L. 104–106 substituted “not needed by the armed forces for any of the followingitems or services if such items or services directly benefit the historical collection of the armed forces:” for “not needed by the armed forces for similar items held by any individual, organization, institution, agency, or nation or for search, salvage, transportation, and restoration services which directly benefit the historical collection of the armed forces.” and added subpars. (A) to (E).
 
 1994—Subsec. (b)(1). Pub. L. 103–337 inserted “transportation,” after “salvage,”.
 

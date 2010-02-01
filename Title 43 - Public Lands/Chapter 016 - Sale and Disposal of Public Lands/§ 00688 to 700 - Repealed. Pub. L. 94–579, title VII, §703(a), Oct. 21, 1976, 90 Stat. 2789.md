@@ -1,6 +1,6 @@
 ### §§688 to 700. Repealed. Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789
 
-Section 688, R.S. §2361; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, authorized issuance of multiple certificates in cases of two or more purchasers of same section of land.
+Section 688, R.S. §2361; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, authorizedissuance of multiple certificates in cases of two or more purchasers of same section of land.
 
 Section 689, R.S. §2362, authorized refund of purchase money by the Secretary of the Interior.
 

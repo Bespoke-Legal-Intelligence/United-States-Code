@@ -8,7 +8,7 @@
 
 &emsp;(2) A family group of two or more persons covered by this section shall not be required to pay collectively more than the first $300 each fiscal year of the charges for all types of care authorized by this section and received while in an outpatient status and 25 percent of the additional charges for such care during a fiscal year.
 
-&emsp;(3) 25 percent of the charges for inpatient care, except that in no case may the charges for inpatient care for a patient exceed $535 per day during the period beginning on April 1, 2006, and ending on September 30, 2009. The Secretary of Defense may exempt a patient from paying such charges if the hospital to which the patient is admitted does not impose a legal obligation on any of its patients to pay for inpatient care.
+&emsp;(3) 25 percent of the charges for inpatient care, except that in no case may the charges for inpatient care for a patient exceed $535 per day during the period beginning on April 1, 2006, and ending on September 30, 2010. The Secretary of Defense may exempt a patient from paying such charges if the hospital to which the patient is admitted does not impose a legal obligation on any of its patients to pay for inpatient care.
 
 &emsp;(4) A member or former member of a uniformed service covered by this section by reason of section 1074(b) of this title, or an individual or family group of two or more persons covered by this section, may not be required to pay a total of more than $3,000 for health care received during any fiscal year under a plan contracted for under section 1079(a) of this title.
 
@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) while on active duty under a call or order to active duty of 30 days or less, on active duty for training, or on inactive duty training; or
 
-&emsp;&emsp;&emsp;(ii) while traveling to or from the place at which the member is to perform, or has performed, such active duty, active duty for training, or inactive duty training.
+&emsp;&emsp;&emsp;(ii) while traveling to or from the place at which the member is to perform, or hasperformed, such active duty, active duty for training, or inactive duty training.
 
 &emsp;(3) A dependent covered by clause (F), (G), or (H) of section 1072(2) of this title who is not eligible under paragraph (1).
 
@@ -50,13 +50,25 @@
 
 &emsp;(ii) The term “third party payer” has the meaning given such term in section 1095(h)(1) of this title.
 
-(4) The administering Secretaries shall develop a mechanism by which persons described in subparagraph (B) of paragraph (2) who do not satisfy the condition specified in subparagraph (A) of such paragraph are promptly notified of their ineligibility for health benefits under this section. In developing the notification mechanism, the administering Secretaries shall consult with the Administrator of the Centers for Medicare \& Medicaid Services.
+(4)(A) If a person referred to in subsection (c) and described by paragraph (2)(B) is subject to a retroactive determination by the Social Security Administration of entitlement to hospital insurance benefits described in paragraph (1), the person shall, during the period described in subparagraph (B), be deemed for purposes of health benefits under this section—
+
+&emsp;(i) not to have been covered by paragraph (1); and
+
+&emsp;(ii) not to have been subject to the requirements of section 1079(j)(1) of this title, whether through the operation of such section or subsection (g) of this section.
+
+(B) The period described in this subparagraph with respect to a person covered by subparagraph (A) is the period that—
+
+&emsp;(i) begins on the date that eligibility of the person for hospital insurance benefits referred to in paragraph (1) is effective under the retroactive determination of eligibility with respect to the person as described in subparagraph (A); and
+
+&emsp;(ii) ends on the date of the issuance of such retroactive determination of eligibility by the Social Security Administration.
+
+(5) The administering Secretaries shall develop a mechanism by which persons described in subparagraph (B) of paragraph (2) who do not satisfy the condition specified in subparagraph (A) of such paragraph are promptly notified of their ineligibility for health benefits under this section. In developing the notification mechanism, the administering Secretaries shall consult with the Administrator of the Centers for Medicare \& Medicaid Services.
 
 (e) A person covered by this section may elect to receive inpatient medical care either in (1) Government facilities, under the conditions prescribed in sections 1074 and 1076–1078 of this title, or (2) the facilities provided under a plan contracted for under this section. However, under joint regulations issued by the administering Secretaries, the right to make this election may be limited for those persons residing in an area where adequate facilities of the uniformed service are available. In addition, subsections (b) and (c) of section 1080 of this title shall apply in making the determination whether to issue a nonavailability of health care statement for a person covered by this section.
 
 (f) The provisions of section 1079(h) of this title shall apply to payments for services by an individual health-care professional (or other noninstitutional health-care provider) under a plan contracted for under subsection (a).
 
-(g) Section 1079(j) of this title shall apply to a plan contracted for under this section, except that no person eligible for health benefits underthis section may be denied benefits under this section with respect to care or treatment for any service-connected disability which is compensable under chapter 11 of title 38 solely on the basis that such person is entitled to care or treatment for such disability in facilities of the Department of Veterans Affairs.
+(g) Section 1079(j) of this title shall apply to a plan contracted for under this section, except that no person eligible for health benefits under this section may be denied benefits under this section with respect to care or treatment for any service-connected disability which is compensable under chapter 11 of title 38 solely on the basis that such person is entitled to care or treatment for such disability in facilities of the Department of Veterans Affairs.
 
 (h)(1) Subject to paragraph (2), the Secretary of Defense may, upon request, make payments under this section for a charge for services for which a claim is submitted under a plan contracted for under subsection (a) to a hospital that does not impose a legal obligation on any of its patients to pay for such services.
 
@@ -66,7 +78,7 @@
 
 (4) The Secretary of Defense may require each hospital the Secretary approves for payment under this subsection to provide evidence that it has sources of revenue to cover unbilled costs.
 
-(Added Pub. L. 89–614, §2(7), Sept. 30, 1966, 80 Stat. 865; amended Pub. L. 95–485, title VIII, §806(a)(2), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–173, §1, Dec. 29, 1979, 93 Stat. 1287; Pub. L. 96–513, title V, §§501(14), 511(36), (39), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 97–86, title IX, §906(a)(2), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–252, title X, §1004(c), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–94, title IX, §931(b), Sept. 24, 1983, 97 Stat. 649; Pub. L. 98–525, title VI, §632(a)(2), Oct. 19, 1984, 98 Stat. 2543; Pub. L. 98–557, §19(13), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–145, title VI, §652(b), Nov. 8, 1985, 99 Stat. 657; Pub. L. 99–661, div. A, title VI, §604(f)(1)(C), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 100–180, div. A, title VII, §721(b), Dec. 4, 1987, 101 Stat. 1115; Pub. L. 100–456, div. A, title VI, §646(b), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §731(c)(2), title XVI, §1621(a)(3), Nov. 29, 1989, 103 Stat. 1482, 1603; Pub. L. 101–510, div. A, title VII, §712(b), Nov. 5, 1990, 104 Stat. 1583; Pub. L. 102–190, div. A, title VII, §704(a), (b)(1), Dec. 5, 1991, 105 Stat. 1401; Pub. L. 102–484, div. A, title VII, §§703(a), 705(a), Oct. 23, 1992, 106 Stat. 2432; Pub. L. 103–35, title II, §203(b)(2), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title VII, §716(b)(2), Nov. 30, 1993, 107 Stat. 1693; Pub. L. 103–337, div. A, title VII, §711, Oct. 5, 1994, 108 Stat. 2801; Pub. L. 104–106, div. A, title VII, §732, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, §734(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–398, §1 \[\[div. A\], title VII, §§712(a)(1), 759\], Oct. 30, 2000, 114 Stat. 1654, 1654A–176, 1654A–200; Pub. L. 108–173, title IX, §900(e)(4)(A), Dec. 8, 2003, 117 Stat. 2373; Pub. L. 109–364, div. A, title VII, §704(b), Oct. 17, 2006, 120 Stat. 2280; Pub. L. 110–181, div. A, title VII, §701(b), Jan. 28, 2008, 122 Stat. 187; Pub. L. 110–417, \[div. A\], title VII, §701(b), Oct. 14, 2008, 122 Stat. 4498.)
+(Added Pub. L. 89–614, §2(7), Sept. 30, 1966, 80 Stat. 865; amended Pub. L. 95–485, title VIII,§806(a)(2), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–173, §1, Dec. 29, 1979, 93 Stat. 1287; Pub. L. 96–513, title V, §§501(14), 511(36), (39), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 97–86, title IX, §906(a)(2), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–252, title X, §1004(c), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–94, title IX, §931(b), Sept. 24, 1983, 97 Stat. 649; Pub. L. 98–525, title VI, §632(a)(2), Oct. 19, 1984, 98 Stat. 2543; Pub. L. 98–557, §19(13), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–145, title VI, §652(b), Nov. 8, 1985, 99 Stat. 657; Pub. L. 99–661, div. A, title VI, §604(f)(1)(C), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 100–180, div. A, title VII, §721(b), Dec. 4, 1987, 101 Stat. 1115; Pub. L. 100–456, div. A, title VI, §646(b), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §731(c)(2), title XVI, §1621(a)(3), Nov. 29, 1989, 103 Stat. 1482, 1603; Pub. L. 101–510, div. A, title VII, §712(b), Nov. 5, 1990, 104 Stat. 1583; Pub. L. 102–190, div. A, title VII, §704(a), (b)(1), Dec. 5, 1991, 105 Stat. 1401; Pub. L. 102–484, div. A, title VII, §§703(a), 705(a), Oct. 23, 1992, 106 Stat. 2432; Pub. L. 103–35, title II, §203(b)(2), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title VII, §716(b)(2), Nov. 30, 1993, 107 Stat. 1693; Pub. L. 103–337, div. A, title VII, §711, Oct. 5, 1994, 108 Stat. 2801; Pub. L. 104–106, div. A, title VII, §732, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, §734(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–398, §1 \[\[div. A\], title VII, §§712(a)(1), 759\], Oct. 30, 2000, 114 Stat. 1654, 1654A–176, 1654A–200; Pub. L. 108–173, title IX, §900(e)(4)(A), Dec. 8, 2003, 117 Stat. 2373; Pub. L. 109–364, div. A, title VII, §704(b), Oct. 17, 2006, 120 Stat. 2280; Pub. L. 110–181, div. A, title VII, §701(b), Jan. 28, 2008, 122 Stat. 187; Pub. L. 110–417, \[div. A\], title VII, §701(b), Oct. 14, 2008, 122 Stat. 4498; Pub. L. 111–84, div. A, title VII, §§706, 709, Oct. 28, 2009, 123 Stat. 2375, 2378.)
 
 #### References in Text
 
@@ -77,6 +89,10 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 A prior section 1086, act Aug. 10, 1956, ch. 1041, 70A Stat. 88, authorized the mailing of official post cards, ballots, voting instructions, and envelopes, free of postage, prior to repeal by Pub. L. 85–861, §36(B)(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2009—Subsec. (b)(3). Pub. L. 111–84, §709, substituted “September 30, 2010” for “September 30, 2009”.
+
+Subsec. (d)(4), (5). Pub. L. 111–84, §706, added par. (4) and redesignated former par. (4) as (5).
 
 2008—Subsec. (b)(3). Pub. L. 110–417 substituted “September 30, 2009” for “September 30, 2008”.
 
@@ -210,7 +226,7 @@ Amendment by Pub. L. 97–252 effective Feb. 1, 1983, and applicable in the case
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–86 to apply with respect to claims submitted for payment for services provided after the end of the 30-day period beginning on Dec. 1, 1981, see section 906(b) of Pub. L. 97–86, set out as a note under section 1079 of this title.
+Amendment by Pub. L. 97–86 to apply with respect to claims submitted for payment for services providedafter the end of the 30-day period beginning on Dec. 1, 1981, see section 906(b) of Pub. L. 97–86, set out as a note under section 1079 of this title.
 
 #### Effective Date of 1980 Amendment
 

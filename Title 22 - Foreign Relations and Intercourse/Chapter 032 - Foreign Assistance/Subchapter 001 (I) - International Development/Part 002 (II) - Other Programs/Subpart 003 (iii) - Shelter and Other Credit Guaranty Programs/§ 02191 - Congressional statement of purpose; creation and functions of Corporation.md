@@ -1,6 +1,6 @@
 ### §2191. Congressional statement of purpose; creation and functions of Corporation
 
-To mobilize and facilitate the participation of United States private capital and skills in the economic and social development of less developed countries and areas, and countries in transition from nonmarket to market economies, thereby complementing the development assistance objectives of the United States, there is hereby created the Overseas Private InvestmentCorporation (hereinafter called the “Corporation”), which shall be an agency of the United States under the policy guidance of the Secretary of State.
+To mobilize and facilitate the participation of United States private capital and skills in the economic and social development of less developed countries and areas, and countries in transition from nonmarket to market economies, thereby complementing the development assistance objectives of the United States, there is hereby created the Overseas Private Investment Corporation (hereinafter called the “Corporation”), which shall be an agency of the United States under the policy guidance of the Secretary of State.
 
 The Corporation, in determining whether to provide insurance, financing, or reinsurance for a project, shall especially—
 
@@ -48,7 +48,7 @@ In carrying out its purpose, the Corporation, utilizing broad criteria, shall un
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set outas a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Codification
 
@@ -98,7 +98,7 @@ Sec. 4. <i>General provisions</i>. (a) As used in this order, the words “funct
 
 (b) The Corporation shall be deemed to be the successor of the Agency for International Development and the Administrator thereof, with respect to all functions vested in the Corporation pursuant to law.
 
-(c) Except to the extent that they may be inconsistent with this order, all determinations, authorizations, regulations, rulings, certificates, orders, directives,contracts, agreements, and other actions made, issued, or entered into with respect to any function affected by this order and not revoked, superseded or otherwise made inapplicable before the date of this order, shall continue in full force and effect until amended, modified, or terminated by appropriate authority.
+(c) Except to the extent that they may be inconsistent with this order, all determinations, authorizations, regulations, rulings, certificates, orders, directives, contracts, agreements, and other actions made, issued, or entered into with respect to any function affected by this order and not revoked, superseded or otherwise made inapplicable before the date of this order, shall continue in full force and effect until amended, modified, or terminated by appropriate authority.
 
 (d) Executive Order No. 10973 of November 3, 1961, as amended \[set out as a note under this section\], is hereby superseded insofar as any provision therein is in conflict with any provision herein.
 

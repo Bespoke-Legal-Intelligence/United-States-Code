@@ -60,7 +60,7 @@ Section 13561(d)(3) of Pub. L. 103–66 provided that: “The amendments made by
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 applicable to items and services furnished after Dec. 19, 1989, see section6202(b)(5) of Pub. L. 101–239, set out as a note under section 162 of this title.
+Amendment by Pub. L. 101–239 applicable to items and services furnished after Dec. 19, 1989, see section 6202(b)(5) of Pub. L. 101–239, set out as a note under section 162 of this title.
 
 #### Effective Date
 

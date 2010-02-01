@@ -8,7 +8,7 @@
 
 #### (2) Timing
 
-&emsp;Any such hearing shall be fixed for a date not earlier than 30 days nor later than 60 daysafter service of the notice of charges under section 4581(b)(1) of this title or determination to impose a penalty under section 4585(c)(1) of this title, unless an earlier or a later date is set by the hearing officer at the request of the enterprise served.
+&emsp;Any such hearing shall be fixed for a date not earlier than 30 days nor later than 60 days after service of the notice of charges under section 4581(b)(1) of this title or determination to impose a penalty under section 4585(c)(1) of this title, unless an earlier or a later date is set by the hearing officer at the request of the enterprise served.
 
 #### (3) Procedure
 

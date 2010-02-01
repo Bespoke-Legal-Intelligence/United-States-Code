@@ -10,7 +10,7 @@ The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 
 
 The Commodity Exchange Act, referred to in text, is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
-The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in text, is Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2236, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
+The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in text, is Pub. L. 102–242,Dec. 19, 1991, 105 Stat. 2236, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 #### Amendments
 

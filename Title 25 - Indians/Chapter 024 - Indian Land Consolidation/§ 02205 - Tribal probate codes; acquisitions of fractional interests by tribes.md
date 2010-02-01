@@ -100,7 +100,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the owner of an interest in trust or restricted land devises an interest in such land to a non-Indian under section 2206(b)(2)(A)(ii)of this title, the Indian tribe that exercises jurisdiction over the parcel of land involved may acquire such interest by paying to the Secretary the fair market value of such interest, as determined by the Secretary on the date of the decedent's death.
+&emsp;&emsp;If the owner of an interest in trust or restricted land devises an interest in such land to a non-Indian under section 2206(b)(2)(A)(ii) of this title, the Indian tribe that exercises jurisdiction over the parcel of land involved may acquire such interest by paying to the Secretary the fair market value of such interest, as determined by the Secretary on the date of the decedent's death.
 
 #### (B) Transfer
 
@@ -166,7 +166,7 @@
 
 &emsp;The Secretary by regulation may provide for the use of findings of fact and conclusions of law, as rendered by a tribal justice system, as proposed findings of fact and conclusions of law in the adjudication of probate proceedings by the Department of the Interior.
 
-(Pub. L. 97–459, title II, §206, as added Pub. L. 106–462, title I, §103(3), Nov. 7, 2000, 114 Stat. 1993; amended Pub. L. 108–374, §6(a)(3), Oct. 27, 2004, 118 Stat. 1799; Pub. L. 109–157, §3, Dec. 30, 2005, 119 Stat. 2950.)
+(Pub. L. 97–459, title II, §206, as added Pub. L. 106–462, title I, §103(3), Nov. 7, 2000, 114 Stat. 1993;amended Pub. L. 108–374, §6(a)(3), Oct. 27, 2004, 118 Stat. 1799; Pub. L. 109–157, §3, Dec. 30, 2005, 119 Stat. 2950.)
 
 #### References in Text
 

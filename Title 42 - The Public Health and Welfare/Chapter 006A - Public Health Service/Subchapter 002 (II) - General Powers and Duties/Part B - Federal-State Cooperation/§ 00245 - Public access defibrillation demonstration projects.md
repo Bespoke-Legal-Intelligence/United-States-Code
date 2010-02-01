@@ -34,7 +34,7 @@ A recipient of a grant under subsection (a) of this section shall use the funds 
 
 &emsp;An application submitted under paragraph (1) may—
 
-&emsp;&emsp;(A) describe the innovative, comprehensive, community-based public accessdefibrillation demonstration project to be funded with the grant;
+&emsp;&emsp;(A) describe the innovative, comprehensive, community-based public access defibrillation demonstration project to be funded with the grant;
 
 &emsp;&emsp;(B) explain how such public access defibrillation demonstration project represents innovation in providing public access to automated external defibrillation; and
 

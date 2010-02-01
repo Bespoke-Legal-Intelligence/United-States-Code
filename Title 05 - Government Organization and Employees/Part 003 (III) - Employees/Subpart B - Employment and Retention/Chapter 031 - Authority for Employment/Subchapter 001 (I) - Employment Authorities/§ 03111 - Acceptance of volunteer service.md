@@ -26,9 +26,13 @@
 
 (d) Notwithstanding section 1342 of title 31, the head of an agency may accept voluntary service for the United States under chapter 37 of this title and regulations of the Office of Personnel Management.
 
-(Added Pub. L. 95–454, title III, §301(a), Oct. 13, 1978, 92 Stat. 1144; amended Pub. L. 97–258, §3(a)(5), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–437, Jan. 8, 1983, 96 Stat. 2285; Pub. L. 107–296, title XIII, §1314(b), Nov. 25, 2002, 116 Stat. 2296; Pub. L. 107–347, title II, §209(g)(1)(A), Dec. 17, 2002, 116 Stat. 2931.)
+(e) For purposes of this section the term “agency” shall include the Architect of the Capitol. With respect to the Architect of the Capitol, the authority granted to the Office of Personnel Management under this section shall be exercised by the Architect of the Capitol.
+
+(Added Pub. L. 95–454, title III, §301(a), Oct. 13, 1978, 92 Stat. 1144; amended Pub. L. 97–258, §3(a)(5), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–437, Jan. 8, 1983, 96 Stat. 2285; Pub. L. 107–296, title XIII, §1314(b), Nov. 25, 2002, 116 Stat. 2296; Pub. L. 107–347, title II, §209(g)(1)(A), Dec. 17, 2002, 116 Stat. 2931; Pub. L. 111–68, div. A, title I, §1303(a), Oct. 1, 2009, 123 Stat. 2034.)
 
 #### Amendments
+
+2009—Subsec. (e). Pub. L. 111–68 added subsec. (e).
 
 2002—Subsec. (c)(1). Pub. L. 107–296 substituted “section 7905 (relating to commuting by means other than single-occupancy motor vehicles), chapter 81” for “chapter 81 of this title”.
 
@@ -44,7 +48,7 @@ Subsec. (c)(2). Pub. L. 97–437, §1(2), added par. (2).
 
 Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date
 

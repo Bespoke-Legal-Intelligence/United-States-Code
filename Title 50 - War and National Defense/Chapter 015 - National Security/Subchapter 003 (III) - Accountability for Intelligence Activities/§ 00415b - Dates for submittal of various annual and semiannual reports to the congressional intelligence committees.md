@@ -22,7 +22,7 @@
 
 &emsp;(I) The annual report on activities under the David L. Boren National Security Education Act of 1991 (title VIII of Public Law 102–183; 50 U.S.C. 1901 et seq.) required by section 806(a) of that Act (50 U.S.C. 1906(a)).
 
-&emsp;(N) <sup>1</sup> The annual report on hiring and retention of minority employees in the intelligence community required by section 404i(c) of this title.
+&emsp;(N) <sup>1</sup> The annual report on hiring and retention of minority employees in the intelligencecommunity required by section 404i(c) of this title.
 
 (2) The date for the submittal to the congressional intelligence committees of the following annual reports shall be the date each year provided in subsection (c)(1)(B) of this section:
 
@@ -90,11 +90,11 @@ Section 826 of the Intelligence Authorization Act for Fiscal Year 2003, referred
 
 The Classified Information Procedures Act, referred to in subsec. (b)(2), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, as amended, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-Section 1681u(h)(2) of title 15, referred to in subsec. (b)(4), was in the original “section 624(h)(2) of the Fair Credit Reporting Act”, which was translated as reading “section 625(h)(2) of the Fair Credit Reporting Act”, to reflect the probable intent of Congress and the renumbering of section 624 as 625 by section 358(g)(1)(A) of Pub. L. 107–56.
+Section 1681u(h)(2) of title 15, referred to in subsec. (b)(4), was in the original “section 624(h)(2) of the Fair Credit Reporting Act”, which was translated as reading“section 625(h)(2) of the Fair Credit Reporting Act”, to reflect the probable intent of Congress and the renumbering of section 624 as 625 by section 358(g)(1)(A) of Pub. L. 107–56.
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(1)(A). Pub. L. 108–177, §361(<i>l</i>)(1)(A)(i), (ii), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “The annual evaluation of the performance and responsiveness of certain elements of the intelligence community required by section 403–5(d) of this title.”
+2003—Subsec. (a)(1)(A). Pub. L. 108–177, §361(<i>l</i>)(1)(A)(i), (ii), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “The annual evaluation of the performance and responsiveness of certain elements of the intelligence community required by section 403–5(d) of this title.”
 
 Subsec. (a)(1)(B). Pub. L. 108–177, §361(<i>l</i>)(1)(A)(iii), added subpar. (B). Former subpar. (B) redesignated (A).
 
@@ -108,7 +108,7 @@ Subsec. (a)(1)(G). Pub. L. 108–177, §361(<i>l</i>)(1)(A)(i), (ii), redesignat
 
 Subsec. (a)(1)(H). Pub. L. 108–177, §361(<i>l</i>)(1)(A)(ii), redesignated subpar. (K) as (H). Former subpar. (H) redesignated (G).
 
-Subsec. (a)(1)(I). Pub. L. 108–177, §361(<i>l</i>)(1)(A)(i), (ii), redesignated subpar. (M) as (I) and struck out formersubpar. (I) which read as follows: “The annual report on coordination of counterintelligence matters with the Federal Bureau of Investigation required by section 402a(c)(6) of this title.”
+Subsec. (a)(1)(I). Pub. L. 108–177, §361(<i>l</i>)(1)(A)(i), (ii), redesignated subpar. (M) as (I) and struck out former subpar. (I) which read as follows: “The annual report on coordination of counterintelligence matters with the Federal Bureau of Investigation required by section 402a(c)(6) of this title.”
 
 Subsec. (a)(1)(J). Pub. L. 108–177, §361(<i>l</i>)(1)(A)(i), struck out subpar. (J) which read as follows: “The annual report on foreign companies involved in the proliferation of weapons of mass destruction that raise funds in the United States capital markets required by section 404n–3 of this title.”
 

@@ -2,7 +2,7 @@
 
 #### (a) Solicitation and acceptance of gifts
 
-The Board is authorized to solicit and accept for the John F. Kennedy Center for the Performing Arts, as a bureau of the Smithsonian Institution, and to hold and administer gifts, bequests, or devises of money, securities, or other property of whatsoever character for the benefit of the John F. Kennedy Center for the Performing Arts. Unless otherwise restricted by the terms of the gift, bequest, or devise, the Board is authorized to sell or exchange and to invest or reinvest in such investments as it may determine from time to time the moneys, securities, or other property composing trust funds given, bequeathed, or devised to or for the benefit of the John F. Kennedy Center for the Performing Arts. The income as and when collected shall beplaced in such depositaries as the Board shall determine and shall be subject to expenditure by the Board.
+The Board is authorized to solicit and accept for the John F. Kennedy Center for the Performing Arts, as a bureau of the Smithsonian Institution, and to hold and administer gifts, bequests, or devises of money, securities, or other property of whatsoever character for the benefit of the John F. Kennedy Center for the Performing Arts. Unless otherwise restricted by the terms of the gift, bequest, or devise, the Board is authorized to sell or exchange and to invest or reinvest in such investments as it may determine from time to time the moneys, securities, or other property composing trust funds given, bequeathed, or devised to or for the benefit of the John F. Kennedy Center for the Performing Arts. The income as and when collected shall be placed in such depositaries as the Board shall determine and shall be subject to expenditure by the Board.
 
 #### (b) Appointment of officers and employees
 
@@ -72,7 +72,7 @@ The actions of the Board relating to performing arts and to payments made or dir
 
 Subject to approval of the Secretary of the Interior under section 76j(a)(2)(F) of this title, the Board shall develop plans and carry out projects to improve pedestrian and vehicular access to the John F. Kennedy Center for the Performing Arts.
 
-(Pub. L. 85–874, §5, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, §1(2), Jan. 23, 1964, 78 Stat. 4; Pub.L. 103–279, §4, July 21, 1994, 108 Stat. 1413; Pub. L. 105–95, §3(b), Nov. 19, 1997, 111 Stat. 2149.)
+(Pub. L. 85–874, §5, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, §1(2), Jan. 23, 1964, 78 Stat. 4; Pub. L. 103–279, §4, July 21, 1994, 108 Stat. 1413; Pub. L. 105–95, §3(b), Nov. 19, 1997, 111 Stat. 2149.)
 
 #### References in Text
 

@@ -22,11 +22,11 @@ The Institute, acting through the Board, may—
 
 &emsp;(7) develop, for publication or other public communication, and disseminate, the carefully selected products of the Institute;
 
-&emsp;(8) establish a clearinghouse and other means for disseminating information, including classified information that is properly safeguarded, from the field of peace learning to the public and to government personnel with appropriate security clearances;
+&emsp;(8) establish a clearinghouse and other means for disseminating information, including classified information that is properly safeguarded, from the field of peace learningto the public and to government personnel with appropriate security clearances;
 
 &emsp;(9) secure directly, upon request of the president of the Institute to the head of any Federal department or agency and in accordance with section 552 of title 5 (relating to freedom of information), information necessary to enable the Institute to carry out the purposes of this chapter if such release of the information would not unduly interfere with the proper functioning of a department or agency, including classified information if the Institute staff and members of the Board who have access to such classified information obtain appropriate security clearances from the Department of Defense and the Department of State; and
 
-&emsp;(10) establish the Spark M. Matsunaga Scholars Program, which shall include theprovision of scholarships and educational programs in international peace and conflict management and related fields for outstanding secondary school students and the provision of scholarships to outstanding undergraduate students, with program participants and recipients of such scholarships to be known as “Spark M. Matsunaga Scholars”.
+&emsp;(10) establish the Spark M. Matsunaga Scholars Program, which shall include the provision of scholarships and educational programs in international peace and conflict management and related fields for outstanding secondary school students and the provision of scholarships to outstanding undergraduate students, with program participants and recipients of such scholarships to be known as “Spark M. Matsunaga Scholars”.
 
 #### (c) Annual award of Spark M. Matsunaga Medal of Peace
 
@@ -72,7 +72,7 @@ The Institute may fix the duties of its officers, employees, and agents, and est
 
 #### (h) Grants and contracts; gifts and contributions; domestic and foreign restrictions
 
-(1) Except as provided in paragraphs (2) and (3), the Institute may obtain grants and contracts, including contracts for classified research for the Department of State, the Department of Defense, the Arms Control and Disarmament Agency, and the intelligence community, and receive gifts and contributions from government at all levels.
+(1) Except as provided in paragraphs (2) and (3), the Institute may obtain grants and contracts, including contracts for classified research for the Department of State, the Department of Defense, the Arms Control and Disarmament Agency, and the intelligence community,and receive gifts and contributions from government at all levels.
 
 (2) The Institute and the legal entity described in section 4603(c) of this title may not accept any gift, contribution or grant from a foreign government, any agency or instrumentality of such government, any international organization, or any corporation or other legal entity in which natural persons who are nationals of a foreign country own, directly or indirectly, more than 50 percent of the outstanding capital stock or other beneficial interest in such legal entity.
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) provides for child support with respect to a child of a participant under a group health plan or provides for health benefit coverage to such a child, is made pursuant to a State domestic relations law (including a community property law), and relates to benefits under such plan, or
 
-&emsp;&emsp;&emsp;(ii) is made pursuant to a law relating to medical child support described in section 1908 of the Social Security Act \[42 U.S.C. 1396g–1\] (as added by section 13822 <sup>1</sup> of theOmnibus Budget Reconciliation Act of 1993) with respect to a group health plan,
+&emsp;&emsp;&emsp;(ii) is made pursuant to a law relating to medical child support described in section 1908 of the Social Security Act \[42 U.S.C. 1396g–1\] (as added by section 13822 <sup>1</sup> of the Omnibus Budget Reconciliation Act of 1993) with respect to a group health plan,
 
 > &emsp;&emsp;if such judgment, decree, or order (I) is issued by a court of competent jurisdiction or (II) is issued through an administrative process established under State law and has the force and effect of law under applicable State law. For purposes of this subparagraph, an administrative notice which is issued pursuant to an administrative process referred to in subclause (II) of the preceding sentence and which has the effect of an order described in clause (i) or (ii) of the preceding sentence shall be treated as such an order.
 
@@ -104,7 +104,7 @@
 
 #### (8) Direct provision of benefits provided to alternate recipients
 
-&emsp;Any payment for benefits made by a group health plan pursuant to a medical child support order in reimbursement for expenses paid by an alternate recipient or an alternate recipient's custodial parent or legal guardian shall be made to the alternate recipient or the alternate recipient's custodial parent or legal guardian.
+&emsp;Any payment for benefits made by a group health plan pursuant to a medical child support order in reimbursement for expenses paid by an alternate recipient or an alternate recipient's custodial parent or legal guardianshall be made to the alternate recipient or the alternate recipient's custodial parent or legal guardian.
 
 #### (9) Payment to State official treated as satisfaction of plan's obligation to make payment to alternate recipient
 
@@ -358,7 +358,7 @@ Establishment of procedures for determining qualified status of orders.—Each c
 
 &emsp;&emsp;&emsp;“(i) shall be in writing;
 
-&emsp;&emsp;&emsp;“(ii) shall provide for the notification of each person specified in a medical child support order as eligible to receive benefits under the plan (at the address included in the medical child support order) of such procedures promptly upon receipt by the plan of the medical child support order; and
+&emsp;&emsp;&emsp;“(ii) shall provide for the notification of each person specified in a medical child support order as eligible to receive benefits under the plan (atthe address included in the medical child support order) of such procedures promptly upon receipt by the plan of the medical child support order; and
 
 &emsp;&emsp;&emsp;“(iii) shall permit an alternate recipient to designate a representative for receipt of copies of notices that are sent to the alternate recipient with respect to a medical child support order.
 

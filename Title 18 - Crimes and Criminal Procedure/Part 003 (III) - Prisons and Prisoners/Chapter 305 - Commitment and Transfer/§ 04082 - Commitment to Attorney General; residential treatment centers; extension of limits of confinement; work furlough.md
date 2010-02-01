@@ -2,7 +2,7 @@
 
 (a) The willful failure of a prisoner to remain within the extended limits of his confinement, or to return within the time prescribed to an institution or facility designated by the Attorney General, shall be deemed an escape from the custody of the Attorney General punishable as provided in chapter 35 of this title.
 
-(b)(1) The Attorney General shall, upon the request of the head of any law enforcement agency of a State or of a unit of local government in a State, make available as expeditiously as possible to such agency, with respect to prisoners who have been convicted of felony offenses against the United States and who are confined at a facility which is a residential community treatment center located in the geographical area in which such agency has jurisdiction, the following information maintained by the Bureau of Prisons (to the extent that the Bureau of Prisons maintains such information)—
+(b)(1) The Attorney General shall, upon the request of the head of any law enforcement agency of a State or of a unit of local government in a State, make available as expeditiously as possible to such agency, with respect to prisoners who have been convicted of felony offenses against the United States and who are confined at a facility which is a residential communitytreatment center located in the geographical area in which such agency has jurisdiction, the following information maintained by the Bureau of Prisons (to the extent that the Bureau of Prisons maintains such information)—
 
 &emsp;(A) the names of such prisoners;
 

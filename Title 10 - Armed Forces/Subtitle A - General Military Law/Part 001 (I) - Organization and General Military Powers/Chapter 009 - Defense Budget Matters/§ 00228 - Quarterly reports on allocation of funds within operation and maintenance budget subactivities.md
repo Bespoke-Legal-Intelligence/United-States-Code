@@ -2,7 +2,7 @@
 
 (a)
 
-Quarterly Report.—The Secretary of Defense shall submit to the congressional defense committees a quarterly report on the allocation of appropriations to O\&M budget activities and to the subactivities of those budget activities. Each such report shall be submitted not laterthan 60 days after the end of the fiscal-year quarter to which the report pertains.
+Quarterly Report.—The Secretary of Defense shall submit to the congressional defense committees a quarterly report on the allocation of appropriations to O\&M budget activities and to the subactivities of those budget activities. Each such report shall be submitted not later than 60 days after the end of the fiscal-year quarter to which the report pertains.
 
 (b)
 

@@ -182,7 +182,7 @@ The tariff laws of the United States, referred to in subsec. (d)(3), are classif
 
 1996—Subsec. (a)(1). Pub. L. 104–134, §31001(z)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘administrative offset’ means withholding money payable by the United States Government to, or held by the Government for, a person to satisfy a debt the person owes the Government.”
 
-Subsec. (a)(4). Pub. L. 104–134, §31001(c)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “ ‘executive or legislative agency’ means a department, agency, or instrumentality in the executive or legislative branch of the Government.”
+Subsec. (a)(4). Pub. L. 104–134, §31001(c)(2), amended par. (4) generally. Prior to amendment, par. (4) read asfollows: “ ‘executive or legislative agency’ means a department, agency, or instrumentality in the executive or legislative branch of the Government.”
 
 Subsec. (a)(8). Pub. L. 104–134, §31001(d)(3), added par. (8).
 

@@ -54,7 +54,7 @@ In this chapter:
 
 &emsp;&emsp;(B) any other criteria the Secretary may consider necessary to ensure an appropriate equity mix among the participants.
 
-&emsp;(14) The term “person of a foreign country” has the meaning given such term in section 3502(d) of the Primary Dealers Act of 1988 (22 U.S.C. 5342(d)).
+&emsp;(14) The term “person of a foreign country” has the meaning given such term in section3502(d) of the Primary Dealers Act of 1988 (22 U.S.C. 5342(d)).
 
 (Added Pub. L. 102–484, div. D, title XLII, §4203(a), Oct. 23, 1992, 106 Stat. 2661, §2491; amended Pub. L. 103–160, div. A, title XI, §1182(a)(9), title XIII, §1315(f), Nov. 30, 1993, 107 Stat. 1771, 1788; Pub. L. 103–337, div. A, title XI, §§1113(d), 1115(e), Oct. 5, 1994, 108 Stat. 2866, 2869; Pub. L. 104–106, div. A, title X, §1081(h), Feb. 10, 1996, 110 Stat. 455; renumbered §2500 and amended Pub. L. 105–85, div. A, title III, §371(b)(3), title X, §1073(a)(53), Nov. 18, 1997, 111 Stat. 1705, 1903.)
 
@@ -134,7 +134,7 @@ Section 4101 of Pub. L. 102–484 provided that: “Congress makes the following
 
 #### Purposes of Title XLII of Pub. L. 102–484
 
-Section 4201 of title XLII of div. D of Pub. L. 102–484 provided that: “The purposes of this title \[see Tables for classification\] are to consolidate, revise, clarify, and reenact policies and requirements, and to enact additional policies and requirements, relating to the national technology and industrial base, defense reinvestment, and defense conversion programs that further national security objectives.”
+Section 4201 of title XLII of div. D of Pub. L. 102–484 provided that: “The purposes of this title \[see Tablesfor classification\] are to consolidate, revise, clarify, and reenact policies and requirements, and to enact additional policies and requirements, relating to the national technology and industrial base, defense reinvestment, and defense conversion programs that further national security objectives.”
 
 #### Transition Provision; “Defense Critical Technology” Defined
 

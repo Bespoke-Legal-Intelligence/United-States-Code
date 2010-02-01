@@ -8,7 +8,7 @@ For purposes of this title, in the case of any payment—
 
 &emsp;(2) to which this section applies,
 
-> there shall be treated as interest that portion of the total unstated interest under such contract which, as determined in a manner consistent with the method of computing interest undersection 1272(a), is properly allocable to such payment.
+> there shall be treated as interest that portion of the total unstated interest under such contract which, as determined in a manner consistent with the method of computing interest under section 1272(a), is properly allocable to such payment.
 
 #### (b) Total unstated interest
 
@@ -94,7 +94,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-1986—Subsec. (d)(3). Pub. L. 99–514 substituted “for which an issue price is determined under section 1273(b)\(other than paragraph (4) thereof) or section 1274” for “to which section 1272 applies”.
+1986—Subsec. (d)(3). Pub. L. 99–514 substituted “for which an issue price is determined under section 1273(b) (other than paragraph (4) thereof) or section 1274” for “to which section 1272 applies”.
 
 1985—Subsec. (b). Pub. L. 99–121, §101(a)(2)(A), struck out “120 percent of” after “discount rate equal to” in closing provisions.
 
@@ -108,7 +108,7 @@ Subsecs. (g), (h). Pub. L. 99–121, §102(c)(1), (3), redesignated subsec. (h) 
 
 1984—Subsec. (a). Pub. L. 98–369 amended subsec. (a) generally, substituting “For purposes of this title, in the case of any payment (1) under any contract for the sale or exchange of any property, and (2) to which this section applies, there shall be treated as interest that portion of the total unstated interest under such contract which, as determined in a manner consistent with the method of computing interest under section 1272(a), is properly allocable to such payment” for “For purposes of this title, in the case of any contract for the sale or exchange of property there shall be treated as interest that part of a payment to which this section applies which bears the same ratio to the amount of such payment as the total unstated interest under such contract bears to the total of the payments to which this section applies which are due under such contract”.
 
-Subsec. (b). Pub. L. 98–369 amended subsec. (b) generally, substituting provisions directing that the present value of a payment be determined under the rules of section 1274(b)(2) using a discount rate equal to 120 percent of the applicable Federal rate determined under section 1274(d) for provisions which had directed that the present value of a payment be determined, as of the date of the sale or exchange, by discounting such payment at the rate, and in the manner, provided in regulations prescribed by the Secretary and that such regulations provide for discounting on the basis of 6-month brackets and provide that the present value of any interest payment due not more than 6 months after the date of the sale or exchange was to have been an amount equal to 100 percent of such payment.
+Subsec. (b). Pub. L. 98–369 amended subsec. (b) generally, substituting provisions directing that the present value of a payment be determined under the rules of section 1274(b)(2) using a discount rate equal to 120 percent of the applicable Federal rate determined undersection 1274(d) for provisions which had directed that the present value of a payment be determined, as of the date of the sale or exchange, by discounting such payment at the rate, and in the manner, provided in regulations prescribed by the Secretary and that such regulations provide for discounting on the basis of 6-month brackets and provide that the present value of any interest payment due not more than 6 months after the date of the sale or exchange was to have been an amount equal to 100 percent of such payment.
 
 Subsec. (c). Pub. L. 98–369 substituted “subsection (a) applies” for “section applies” in heading.
 
@@ -162,7 +162,7 @@ Amendment by section 1901(b)(3)(B) of Pub. L. 94–455 effective for taxable yea
 
 #### Effective Date
 
-Section applicable to payments made after Dec. 31, 1963, on account of sales or exchanges of property afterJune 30, 1963, other than a sale or exchange pursuant to written contract, including an irrevocable written option, entered into before July 1, 1963, see section 224(d) of Pub. L. 88–272, set out as an Effective Date of 1964 Amendment note under section 163 of this title.
+Section applicable to payments made after Dec. 31, 1963, on account of sales or exchanges of property after June 30, 1963, other than a sale or exchange pursuant to written contract, including an irrevocable written option, entered into before July 1, 1963, see section 224(d) of Pub. L. 88–272, set out as an Effective Date of 1964 Amendment note under section 163 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

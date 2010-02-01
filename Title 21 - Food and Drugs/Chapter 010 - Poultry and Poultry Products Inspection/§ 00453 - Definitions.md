@@ -72,7 +72,7 @@ For purposes of this chapter—
 
 (<i>l</i>) The term “official mark” means the official inspection legend or any other symbol prescribed by regulation of the Secretary to identify the status of any article or poultry under this chapter.
 
-(m) The term “official inspection legend” means any symbol prescribed by regulations ofthe Secretary showing that an article was inspected for wholesomeness in accordance with this chapter.
+(m) The term “official inspection legend” means any symbol prescribed by regulations of the Secretary showing that an article was inspected for wholesomeness in accordance with this chapter.
 
 (n) The term “official certificate” means any certificate prescribed by regulations of the Secretary for issuance by an inspector or other person performing official functions under this chapter.
 

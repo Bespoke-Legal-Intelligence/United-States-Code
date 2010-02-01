@@ -46,7 +46,7 @@ Changes were made in phraseology.
 
 #### Prior Provisions
 
-A prior section 546, act June 25, 1948, ch. 646, 62 Stat. 911, related to death of a marshal, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 566 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 546, act June 25, 1948, ch. 646, 62 Stat. 911, related to death of a marshal, prior to repeal byPub. L. 89–554, §8(a), and reenactment in section 566 of this title by section 4(c) of Pub. L. 89–554.
 
 #### Amendments
 

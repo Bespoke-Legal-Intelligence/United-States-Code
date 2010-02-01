@@ -58,7 +58,7 @@ Each voting system used in an election for Federal office shall meet the followi
 
 #### (5) Error rates
 
-&emsp;The error rate of the voting system in counting ballots (determined by taking into accountonly those errors which are attributable to the voting system and not attributable to an act of the voter) shall comply with the error rate standards established under section 3.2.1 of the voting systems standards issued by the Federal Election Commission which are in effect on October 29, 2002.
+&emsp;The error rate of the voting system in counting ballots (determined by taking into account only those errors which are attributable to the voting system and not attributable to an act of the voter) shall comply with the error rate standards established under section 3.2.1 of the voting systems standards issued by the Federal Election Commission which are in effect on October 29, 2002.
 
 #### (6) Uniform definition of what constitutes a vote
 

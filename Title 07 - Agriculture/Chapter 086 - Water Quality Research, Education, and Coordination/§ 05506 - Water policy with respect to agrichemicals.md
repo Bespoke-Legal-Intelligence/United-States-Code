@@ -16,13 +16,9 @@ The authority granted in subsection (a) of this section does not alter or effect
 
 #### (c) Participation
 
-The following agencies shall participate in the Department's water program: the Agricultural Research Service; the Agricultural Stabilization and Conservation Service; the Animal and Plant Health Inspection Service; the Cooperative State Research Service in conjunction with the system of State agricultural experiment stations; the Economic Research Service; the Extension Service, in conjunction with State and county cooperative extension services; the Forest Service; the National Agricultural Library; the National Agricultural Statistics Service; the Soil Conservation Service; and other agencies within the Department deemed appropriate by the Secretary.
+The following agencies shall participate in the Department's water program: the Agricultural Research Service; the Agricultural Stabilization and Conservation Service; the Animal and Plant Health Inspection Service; the National Institute of Food and Agriculture, in conjunction with the system of State agricultural experiment stations and State and county cooperative extension services; the Economic Research Service; the Forest Service; the National Agricultural Library; the National Agricultural Statistics Service; the Soil Conservation Service; and other agencies within the Department deemed appropriate by the Secretary.
 
 (Pub. L. 101–624, title XIV, §1499, Nov. 28, 1990, 104 Stat. 3632; Pub. L. 102–237, title II, §201(g), Dec. 13, 1991, 105 Stat. 1847; Pub. L. 104–127, title VIII, §859(b), Apr. 4, 1996, 110 Stat. 1173; Pub. L. 110–234, title VII, §7511(c)(14), May 22, 2008, 122 Stat. 1268; Pub. L. 110–246, §4(a), title VII, §7511(c)(14), June 18, 2008, 122 Stat. 1664, 2030.)
-
-#### Amendment of Subsection (c)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2030, provided that, effective Oct. 1, 2009, subsection (c) of this section is amended by substituting “the National Institute of Food and Agriculture, in conjunction with the system of State agricultural experiment stations and State and county cooperative extension services; the Economic Research Service;” for “the Cooperative State Research Service in conjunction with the system of State agricultural experiment stations; the Economic Research Service; the Extension Service, in conjunction with State and county cooperative extension services;”.</i>
 
 #### References in Text
 
@@ -37,6 +33,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section was not enacted as part of the Agriculture and Water Policy Coordination Act which comprises this chapter.
 
 #### Amendments
+
+2008—Subsec. (c). Pub. L. 110–246, §7511(c)(14), substituted “the National Institute of Food and Agriculture, in conjunction with the system of State agricultural experiment stations and State and county cooperative extension services; the Economic Research Service;” for “the Cooperative State Research Service in conjunction with the system of State agricultural experiment stations; the Economic Research Service; the Extension Service, in conjunction with State and county cooperative extension services;”.
 
 1996—Subsec. (b). Pub. L. 104–127 struck out “and section 3125c of this title” before “does not alter”.
 

@@ -50,7 +50,7 @@ Upon application by any State, the Administrator may extend the attainment date 
 
 #### (f) Waivers for certain areas
 
-The Administrator may, on a case-by-case basis, waive any requirement applicable to any Serious Area under this subpart where the Administrator determines that anthropogenic sources of PM–10 do not contribute significantly to the violation of the PM–10 standard in the area. The Administrator may also waive a specific date for attainment of the standard where the Administrator determines that nonanthropogenic sources of PM–10 contribute significantly to the violation of the PM–10 standard in the area.
+The Administrator may, on a case-by-case basis, waive any requirement applicable to anySerious Area under this subpart where the Administrator determines that anthropogenic sources of PM–10 do not contribute significantly to the violation of the PM–10 standard in the area. The Administrator may also waive a specific date for attainment of the standard where the Administrator determines that nonanthropogenic sources of PM–10 contribute significantly to the violation of the PM–10 standard in the area.
 
 (July 14, 1955, ch. 360, title I, §188, as added Pub. L. 101–549, title I, §105(a), Nov. 15, 1990, 104 Stat. 2458.)
 

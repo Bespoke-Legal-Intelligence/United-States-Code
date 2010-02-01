@@ -14,7 +14,7 @@
 
 &emsp;(E) not more than $25,000,000 may be made available for Project PEACE; and
 
-&emsp;(F) not more than $10,000,000 may be made available for the Volunteers Investing in Peace and Security (VIPS) program under chapter 89 <sup>1</sup> of title 10.
+&emsp;(F) not more than $10,000,000 may be made available for the Volunteers Investing inPeace and Security (VIPS) program under chapter 89 <sup>1</sup> of title 10.
 
 (2), (3) Omitted.
 

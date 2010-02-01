@@ -28,7 +28,7 @@ The Administrator shall ensure that the ISS will—
 
 #### (2) Plan
 
-&emsp;Not later than 60 days after December 30, 2005, and before making any change in the ISS assembly sequence in effect on December 30, 2005, the Administrator shall transmit to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan to carry out the policy described in paragraph (1).
+&emsp;Not later than 60 days after December 30, 2005, and before making any change in the ISS assembly sequence in effect on December 30,2005, the Administrator shall transmit to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan to carry out the policy described in paragraph (1).
 
 (Pub. L. 109–155, title V, §505, Dec. 30, 2005, 119 Stat. 2929.)
 

@@ -42,7 +42,7 @@
 
 (2) If an application filed pursuant to section 360b of this title or section 360ccc of this title is approved for a designated new animal drug, the Secretary may, during the 7-year exclusivity period beginning on the date of the application approval or conditional approval, approve or conditionally approve another application under section 360b of this title or section 360ccc of this title for such drug for such minor use or minor species for another applicant if—
 
-&emsp;(A) the Secretary finds, after providing the holder of such an approved application notice and opportunity for the submission of views, that in the granted exclusivity period the holder of the approved application cannot assure the availability of sufficient quantities of the drug to meet the needs for which the drug was designated; or
+&emsp;(A) the Secretary finds, after providing the holder of such an approved application noticeand opportunity for the submission of views, that in the granted exclusivity period the holder of the approved application cannot assure the availability of sufficient quantities of the drug to meet the needs for which the drug was designated; or
 
 &emsp;(B) such holder provides written consent to the Secretary for the approval or conditional approval of other applications before the expiration of such exclusivity period.
 

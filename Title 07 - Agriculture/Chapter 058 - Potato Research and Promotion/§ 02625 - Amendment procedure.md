@@ -60,5 +60,5 @@ Termination.—If such amendments to the plan are not approved, the Secretary sh
 
 Amendment to Include the 50
 
-States.—Notwithstanding any provision of the Act, the Secretary shall, upon request of a producer or a producer organization, issue an amendment to the plan to include the50 States of the United States. Such amendment shall not be subject to a referendum.”
+States.—Notwithstanding any provision of the Act, the Secretary shall, upon request of a producer or a producer organization, issue an amendment to the plan to include the 50 States of the United States. Such amendment shall not be subject to a referendum.”
 

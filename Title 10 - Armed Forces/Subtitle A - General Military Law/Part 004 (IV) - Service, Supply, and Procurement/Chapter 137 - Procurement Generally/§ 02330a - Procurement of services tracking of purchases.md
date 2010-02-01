@@ -36,7 +36,7 @@ Data To Be Collected.—The data required to be collected under subsection (a) i
 
 (c)
 
-Inventory.—(1) Not later than the end of the third quarter of each fiscal year, the Secretary of Defense shall submit to Congress an annual inventory of the activities performed during the preceding fiscal year pursuant to contracts for services for or on behalf of the Department of Defense. The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:
+Inventory.—(1) Not later than the end of the third quarter of each fiscal year, the Secretary of Defense shall submit to Congress an annual inventory of the activities performed during the preceding fiscal year pursuant to contracts for services for or on behalf of the Department of Defense. The entry for an activityon an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:
 
 &emsp;(A) The functions and missions performed by the contractor.
 
@@ -82,7 +82,7 @@ Review and Planning Requirements.—Within 90 days after the date on which an in
 
 &emsp;&emsp;(B) to an acquisition approach that would be more advantageous to the Department of Defense; and
 
-&emsp;(4) develop a plan to provide for appropriate consideration of the conversion of activities identified under paragraph (3) within a reasonable period of time.
+&emsp;(4) develop a plan, including an enforcement mechanism and approval process, to provide for appropriate consideration of the conversion of activities identified under paragraph (3) within a reasonable period of time.
 
 (f)
 
@@ -108,9 +108,11 @@ Inherently governmental functions.—The term “inherently governmental functio
 
 Personal services contract.—The term “personal services contract” means a contract under which, as a result of its terms or conditions or the manner of its administration during performance, contractor personnel are subject to the relatively continuous supervision and control of one or more Government officers or employees, except that the giving of an order for a specific article or service, with the right to reject the finished product or result, is not the type of supervision or control that makes a contract a personal services contract.
 
-(Added Pub. L. 107–107, div. A, title VIII, §801(c), Dec. 28, 2001, 115 Stat. 1176; Pub. L. 110–181, div. A, title VIII, §807(a), Jan. 28, 2008, 122 Stat. 213.)
+(Added Pub. L. 107–107, div. A, title VIII, §801(c), Dec. 28, 2001, 115 Stat. 1176; amended Pub. L. 110–181, div. A, title VIII, §807(a), Jan. 28, 2008, 122 Stat. 213; Pub. L. 111–84, div. A, title VIII, §803(b), Oct. 28, 2009, 123 Stat. 2402.)
 
 #### Amendments
+
+2009—Subsec. (e)(4). Pub. L. 111–84 inserted “, including an enforcement mechanism and approval process,” after “plan”.
 
 2008—Subsecs. (c) to (g). Pub. L. 110–181, §807(a)(1), (2), added subsecs. (c) to (f), redesignated former subsec. (d) as (g), and struck out heading and text of former subsec. (c). Former text read as follows: “To the maximum extent practicable, a single data collection system shall be used to collect data under this section and information under section 2225 of this title.”
 

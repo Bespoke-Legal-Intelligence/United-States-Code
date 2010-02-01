@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Labor shall establish a program through which the Secretary shall provide grants to, or enter into contracts with, employers to enable such employers to develop employee drug and alcohol abuse assistance programs.
+The Secretary of Labor shall establish a program through which the Secretary shall providegrants to, or enter into contracts with, employers to enable such employers to develop employee drug and alcohol abuse assistance programs.
 
 #### (b) Applications
 

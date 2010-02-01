@@ -430,7 +430,7 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 #### (2) Authority
 
-&emsp;The Corporation may enter into partnerships with the Cooperative State Research, Education, and Extension Service, the Agricultural Research Service, the National Oceanic Atmospheric Administration, and other appropriate public and private entities with demonstrated capabilities in developing and implementing risk management and marketing options for producers of specialty crops and underserved agricultural commodities.
+&emsp;The Corporation may enter into partnerships with the National Institute of Food and Agriculture, the Agricultural Research Service, the National Oceanic Atmospheric Administration, and other appropriate public and private entities with demonstrated capabilities in developing and implementing risk management and marketing options for producers of specialty crops and underserved agricultural commodities.
 
 #### (3) Objectives
 
@@ -494,10 +494,6 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 (Feb. 16, 1938, ch. 30, title V, §522, as added Pub. L. 106–224, title I, §131, June 20, 2000, 114 Stat. 379; amended Pub. L. 110–234, title VII, §7511(c)(1), title XII, §§12022–12024, 12033(c)(2)(B), May 22, 2008, 122 Stat. 1267, 1382–1388, 1405; Pub. L. 110–246, §4(a) title VII, §7511(c)(1), title XII, §§12022–12024, 12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2028, 2144–2150, 2167.)
 
-#### Amendment of Subsection (d)(2)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, provided that, effective Oct. 1, 2009, subsection (d)(2) of this section is amended by substituting “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service”.</i>
-
 #### References in Text
 
 The date of enactment of the Food, Conservation, and Energy Act of 2008 and the date of enactment of this paragraph, referred to in subsec. (c)(10)(A), (C)(iii), (12)(B)(i), (16)(B)(ii)(I), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -523,6 +519,8 @@ Subsec. (c)(10) to (16). Pub. L. 110–246, §12023(2), added pars. (10) to (16)
 Subsec. (c)(17). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter” in introductory provisions.
 
 Pub. L. 110–246, §12023(1), redesignated par. (10) as (17).
+
+Subsec. (d)(2). Pub. L. 110–246, §7511(c)(1), substituted “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service”.
 
 Subsec. (e)(1). Pub. L. 110–246, §12024(1), substituted “$7,500,000 for fiscal year 2008 and each subsequent fiscal year” for “$10,000,000 for each of fiscal years 2001 and 2002 and not more than $15,000,000 for fiscal year 2003 and each subsequent fiscal year.”
 

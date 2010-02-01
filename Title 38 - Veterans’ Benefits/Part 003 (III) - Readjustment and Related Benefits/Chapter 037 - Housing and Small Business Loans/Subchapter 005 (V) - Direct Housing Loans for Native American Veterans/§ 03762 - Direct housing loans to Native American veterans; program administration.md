@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(ii) to monitor any purchase, construction, or improvements carried out using the proceeds of the loan.
 
-&emsp;(D) That the tribal organization has established standards and procedures that apply tothe foreclosure of the interest conveyed by a Native American veteran pursuant to subparagraph (B), including—
+&emsp;(D) That the tribal organization has established standards and procedures that apply to the foreclosure of the interest conveyed by a Native American veteran pursuant to subparagraph (B), including—
 
 &emsp;&emsp;(i) procedures for foreclosing the interest; and
 

@@ -112,7 +112,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 #### (2) Revisions
 
-&emsp;The Administrator may establish a threshold amount for a toxic chemical different fromthe amount established by paragraph (1). Such revised threshold shall obtain reporting on a substantial majority of total releases of the chemical at all facilities subject to the requirements of this section. The amounts established under this paragraph may, at the Administrator's discretion, be based on classes of chemicals or categories of facilities.
+&emsp;The Administrator may establish a threshold amount for a toxic chemical different from the amount established by paragraph (1). Such revised threshold shall obtain reporting on a substantial majority of total releases of the chemical at all facilities subject to the requirements of this section. The amounts established under this paragraph may, at the Administrator's discretion, be based on classes of chemicals or categories of facilities.
 
 #### (g) Form
 
@@ -170,7 +170,7 @@ The release forms required under this section are intended to provide informatio
 
 #### (3) Determinations
 
-&emsp;The Administrator shall make the following determinations with respect to a proposed modification before making a modification under paragraph (1):
+&emsp;The Administrator shall make the following determinations with respect to a proposedmodification before making a modification under paragraph (1):
 
 &emsp;&emsp;(A) The extent to which information relating to the proposed modification provided on the toxic chemical release forms has been used by the Administrator or other agencies of the Federal Government, States, local governments, health professionals, and the public.
 
@@ -234,7 +234,7 @@ Not later than June 30, 1991, the Comptroller General, in consultation with the 
 
 &emsp;(A) The Administrator shall acquire available mass balance information from States which currently conduct (or during the 5 years after October 17, 1986 initiate) a mass balance-oriented annual quantity toxic chemical release program. If information from such States provides an inadequate representation of industry classes and categories to carry out the purposes of the study, the Administrator also may acquire mass balance information necessary for the study from a representative number of facilities in other States.
 
-&emsp;(B) Any information acquired under this section shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that the information (or a particular part thereof) to which the Administrator or any officer, employee, or representative has access under this section if made public would divulge information entitled to protection under section 1905 of title 18, such information or part shall be considered confidential in accordance with the purposes of that section, except that such information or part may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this section.
+&emsp;(B) Any information acquired under this section shall be available to the public, exceptthat upon a showing satisfactory to the Administrator by any person that the information (or a particular part thereof) to which the Administrator or any officer, employee, or representative has access under this section if made public would divulge information entitled to protection under section 1905 of title 18, such information or part shall be considered confidential in accordance with the purposes of that section, except that such information or part may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this section.
 
 &emsp;(C) The Administrator may promulgate regulations prescribing procedures for collecting mass balance information under this paragraph.
 
@@ -242,7 +242,7 @@ Not later than June 30, 1991, the Comptroller General, in consultation with the 
 
 #### (4) Mass balance definition
 
-&emsp;For purposes of this subsection, the term “mass balance” means an accumulation of the annual quantities of chemicals transported to a facility, produced at a facility, consumed ata facility, used at a facility, accumulated at a facility, released from a facility, and transported from a facility as a waste or as a commercial product or byproduct or component of a commercial product or byproduct.
+&emsp;For purposes of this subsection, the term “mass balance” means an accumulation of the annual quantities of chemicals transported to a facility, produced at a facility, consumed at a facility, used at a facility, accumulated at a facility, released from a facility, and transported from a facility as a waste or as a commercial product or byproduct or component of a commercial product or byproduct.
 
 (Pub. L. 99–499, title III, §313, Oct. 17, 1986, 100 Stat. 1741.)
 

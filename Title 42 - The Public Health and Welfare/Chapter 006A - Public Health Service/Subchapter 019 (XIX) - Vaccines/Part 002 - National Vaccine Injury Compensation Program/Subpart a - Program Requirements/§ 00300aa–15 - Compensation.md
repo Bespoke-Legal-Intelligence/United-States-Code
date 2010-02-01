@@ -82,7 +82,7 @@ Compensation awarded under the Program may not include the following:
 
 #### (g) Program not primarily liable
 
-Payment of compensation under the Program shall not be made for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such item or service (1) under any State compensation program, under an insurance policy, or under any Federal or State health benefitsprogram (other than under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\]), or (2) by an entity which provides health services on a prepaid basis.
+Payment of compensation under the Program shall not be made for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such item or service (1) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program (other than under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\]), or (2) by an entity which provides health services on a prepaid basis.
 
 #### (h) Liability of health insurance carriers, prepaid health plans, and benefit providers
 
@@ -96,7 +96,7 @@ No policy of health insurance may make payment of benefits under the policy seco
 
 #### (i) Source of compensation
 
-(1) Payment of compensation under the Program to a petitioner for a vaccine-related injury or death associated with the administration of a vaccine before October 1, 1988, shall be made by the Secretary from appropriations under subsection (j) of this section.
+(1) Payment of compensation under the Program to a petitioner for a vaccine-related injuryor death associated with the administration of a vaccine before October 1, 1988, shall be made by the Secretary from appropriations under subsection (j) of this section.
 
 (2) Payment of compensation under the Program to a petitioner for a vaccine-related injury or death associated with the administration of a vaccine on or after October 1, 1988, shall be made from the Vaccine Injury Compensation Trust Fund established under section 9510 of title 26.
 
@@ -146,13 +146,13 @@ Subsec. (j). Pub. L. 101–502, §5(d)(3), inserted before period at end of firs
 
 1989—Subsec. (b). Pub. L. 101–239, §6601(<i>l</i>)(1), substituted “may include the compensation described in paragraphs (1)(A) and (2) of subsection (a) of this section and may also include an amount, not to exceed a combined total of $30,000, for—” and cls. (1) to (3) for “may not include the compensation described in paragraph (1)(B) of subsection (a) of this section and may include attorneys’ fees and other costs included in a judgment under subsection (e) of this section, except that the total amount that may be paid as compensation under paragraphs (3) and (4) of subsection (a) of this section and included as attorneys’ fees and other costs under subsection (e) of this section may not exceed $30,000.”
 
-Subsec. (e)(1). Pub. L. 101–239, §6601(<i>l</i>)(2)(A), substituted “In awarding compensation on a petition filedunder section 300aa–11 of this title the special master or court shall also award as part of such compensation an amount to cover” for “The judgment of the United States Claims Court on a petition filed under section 300aa–11 of this title awarding compensation shall include an amount to cover”.
+Subsec. (e)(1). Pub. L. 101–239, §6601(<i>l</i>)(2)(A), substituted “In awarding compensation on a petition filed under section 300aa–11 of this title the special master or court shall also award as part of such compensation an amount to cover” for “The judgment of the United States Claims Court on a petition filed under section 300aa–11 of this title awarding compensation shall include an amount to cover”.
 
 Pub. L. 101–239, §6601(<i>l</i>)(2)(B), (C), substituted “the special master or court may award an amount of compensation to cover” for “the court may include in the judgment an amount to cover” and “the special master or court determines that the petition was brought in good faith and there was a reasonable basis for the claim for which the petition” for “the court determines that the civil action was brought in good faith and there was a reasonable basis for the claim for which the civil action”.
 
 Subsec. (e)(2). Pub. L. 101–239, §6601(<i>l</i>)(2)(D), which directed amendment of par. (2) by substituting “the special master or court may also award an amount of compensation” for “the judgment of the court on such petition may include an amount”, could not be executed because of the prior amendment by Pub. L. 101–239, §6601(c)(8)(B), see Amendment note below.
 
-Pub. L. 101–239, §6601(c)(8), substituted “and petitioned under section 300aa–11(a)(5) of this title to have such action dismissed” for “and elected under section 300aa–11(a)(4) of this title to withdraw such action” and “in awarding compensation on such petition the special master or court may include” for “the judgment of the court on such petition may include”.
+Pub. L. 101–239, §6601(c)(8), substituted “and petitioned under section 300aa–11(a)(5) of this title to havesuch action dismissed” for “and elected under section 300aa–11(a)(4) of this title to withdraw such action” and “in awarding compensation on such petition the special master or court may include” for “the judgment of the court on such petition may include”.
 
 Subsec. (e)(3). Pub. L. 101–239, §6601(<i>l</i>)(2)(E), substituted “awarded as compensation by the special master or court under paragraph (1)” for “included under paragraph (1) in a judgment on such petition”.
 

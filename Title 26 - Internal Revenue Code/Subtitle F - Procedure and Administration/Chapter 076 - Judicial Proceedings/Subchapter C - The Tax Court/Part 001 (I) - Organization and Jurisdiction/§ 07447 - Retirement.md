@@ -170,7 +170,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (e)(2), an individual who has filed an election to receive retired pay under subsection (d) may revoke such election at any time before the first day on which retired pay (or compensation under subsection (c) in lieu of retired pay) would (but for such revocation) begin to accrue with respect to such individual.
+&emsp;Notwithstanding subsection (e)(2), an individual who has filed an election to receive retired pay under subsection (d) may revokesuch election at any time before the first day on which retired pay (or compensation under subsection (c) in lieu of retired pay) would (but for such revocation) begin to accrue with respect to such individual.
 
 #### (2) Manner of revoking
 
@@ -238,7 +238,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 &emsp;&emsp;Notwithstanding subparagraph (C), if any judge retires under this section, or resigns without having met the age and service requirements set forth under subsection (b)(2), and such judge's nonforfeitable account balance is less than an amount that the Executive Director of the Federal Retirement Thrift Investment Board prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 880; Pub. L. 89–354, §1, Feb. 2, 1966, 80 Stat. 5; Pub. L. 91–172, title IX, §§954, 960(c), (d), Dec. 30, 1969, 83 Stat. 730, 734; Pub. L. 92–41, §4(a), July 1, 1971, 85 Stat. 99; Pub. L. 95–472, §1, Oct. 17, 1978, 92 Stat. 1332; Pub. L. 97–362, title I, §106(d), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 99–514, title XV, §1557(a), (b),\(d), Oct. 22, 1986, 100 Stat. 2756, 2757; Pub. L. 100–647, title I, §1015(k)(1), Nov. 10, 1988, 102 Stat. 3571; Pub. L. 109–280, title VIII, §853(a), Aug. 17, 2006, 120 Stat. 1016.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 880; Pub. L. 89–354, §1, Feb. 2, 1966, 80 Stat. 5; Pub. L. 91–172, title IX, §§954, 960(c), (d), Dec. 30, 1969, 83 Stat. 730, 734; Pub. L. 92–41, §4(a), July 1, 1971, 85 Stat. 99; Pub. L. 95–472, §1, Oct. 17, 1978, 92 Stat. 1332; Pub. L. 97–362, title I, §106(d), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 99–514, title XV, §1557(a), (b), (d), Oct. 22, 1986, 100 Stat. 2756, 2757; Pub. L. 100–647, title I, §1015(k)(1), Nov. 10, 1988, 102 Stat. 3571; Pub. L. 109–280, title VIII, §853(a), Aug. 17, 2006, 120 Stat. 1016.)
 
 #### Amendments
 
@@ -312,11 +312,11 @@ Forfeiture of retired pay.—The amendments made by this section shall not apply
 
 #### Effective Date of 1978 Amendment
 
-Section 2(a) of Pub. L. 95–472 provided that: “The amendment made by the first section of this Act\[amending this section\] shall apply with respect to revocations made after the date of the enactment of this Act \[Oct. 17, 1978\].”
+Section 2(a) of Pub. L. 95–472 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to revocations made after the date of the enactment of this Act \[Oct. 17, 1978\].”
 
 #### Effective Date of 1971 Amendment
 
-Section 4(c)(1) of Pub. L. 92–41, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the date of its enactment \[July 1, 1971\]. Provisions having the same effect as such amendment shall be treated as having been included in the Internal Revenue Code of 1939 \[section 1106(c)\] effective on and after August 7, 1953.”
+Section 4(c)(1) of Pub. L. 92–41, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the date of its enactment \[July 1, 1971\]. Provisions having the same effect as such amendment shall be treated as having been included in the Internal Revenue Codeof 1939 \[section 1106(c)\] effective on and after August 7, 1953.”
 
 #### Effective Date of 1969 Amendment
 

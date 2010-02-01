@@ -1,5 +1,7 @@
 Part F—Period of Service for Annuities
 
+<i><sup>1</sup></i><i> So in original. The words “of this section 2121(d)” probably should be “of this section or by section 2121(d)”.</i>
+
 
 ---
 

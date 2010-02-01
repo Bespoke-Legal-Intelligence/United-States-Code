@@ -36,7 +36,7 @@ This subtitle, referred to in text, means subtitle C (§§541–544) of Pub. L. 
 
 Section was formerly set out as a note under section 1707 of this title.
 
-Section was enacted as part of the Multifamily Housing Finance Improvement Act and also as part of the Housing and Community Development Act of 1992, and not as part of the National Housing Act which comprises this chapter.
+Section was enacted as part of the Multifamily Housing Finance Improvement Act and also as part of theHousing and Community Development Act of 1992, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
 

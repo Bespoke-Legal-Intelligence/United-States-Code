@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Architect of the Capitol, upon recommendation of the Chief Executive Officer, shall submit the proposed budget for the Office for a fiscal year in the proposed budget for that year for the Office of the Architect of the Capitol (as submitted by the Architect of the Capitol to the President). Theproposed budget for the Office shall be considered independently from the other components of the proposed budget for the Architect of the Capitol.
+&emsp;&emsp;The Architect of the Capitol, upon recommendation of the Chief Executive Officer, shall submit the proposed budget for the Office for a fiscal year in the proposed budget for that year for the Office of the Architect of the Capitol (as submitted by the Architect of the Capitol to the President). The proposed budget for the Office shall be considered independently from the other components of the proposed budget for the Architect of the Capitol.
 
 #### (B) Exclusion of costs of general maintenance and repair of Visitor Center
 

@@ -76,7 +76,7 @@ In the case of any estate or trust, the alternative minimum taxable income of su
 
 #### (1) In general
 
-&emsp;For purposes of this title, any qualified expenditure to which an election under this paragraph applies shall be allowed as a deduction ratably over the 10-year period (3-year period in the case of circulation expenditures described in section 173) beginning with the taxable year in which such expenditure was made (or, in the case of a qualified expenditure described in paragraph (2)(C), over the 60-monthperiod beginning with the month in which such expenditure was paid or incurred).
+&emsp;For purposes of this title, any qualified expenditure to which an election under this paragraph applies shall be allowed as a deduction ratably over the 10-year period (3-year period in the case of circulation expenditures described in section 173) beginning with the taxable year in which such expenditure was made (or, in the case of a qualified expenditure described in paragraph (2)(C), over the 60-month period beginning with the month in which such expenditure was paid or incurred).
 
 #### (2) Qualified expenditure
 
@@ -160,7 +160,7 @@ For purposes of this subtitle (other than this part), any amount shall not fail 
 
 > &emsp;If any increase determined under the preceding sentence is not a multiple of $50, such increase shall be rounded to the nearest multiple of $50.
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2336; amended Pub. L. 100–647, title I, §§1007(e), 1014(e)(5)(A), Nov. 10, 1988, 102 Stat. 3432, 3561; Pub. L. 101–239, title VII, §§7611(f)(5)(B), (6), 7612(e)(1), 7811(d)(1)(A), (j)(7), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408, 2412; Pub. L. 101–508, title XI, §§11101(d)(3), 11531(b)(2), 11702(d), 11801(c)(2)(D), Nov. 5, 1990, 104 Stat. 1388–405, 1388–490, 1388–514, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(3), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 104–188, title I, §§1601(b)(2)(D),1702(a)(1), 1703(e), 1704(m)(3), Aug. 20, 1996, 110 Stat. 1833, 1868, 1875, 1883; Pub. L. 105–34, title X, §1057(a), title XI, §1103(a), title XII, §1201(b)(1), Aug. 5, 1997, 111 Stat. 945, 966, 994; Pub. L. 105–206, title VI, §§6011(a), 6023(2), July 22, 1998, 112 Stat. 817, 824; Pub. L. 108–357, title IV, §421(a)(1), Oct. 22, 2004, 118 Stat. 1514.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2336; amended Pub. L. 100–647, title I, §§1007(e), 1014(e)(5)(A), Nov. 10, 1988, 102 Stat. 3432, 3561; Pub. L. 101–239, title VII, §§7611(f)(5)(B), (6), 7612(e)(1), 7811(d)(1)(A), (j)(7), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408, 2412; Pub. L. 101–508, title XI, §§11101(d)(3), 11531(b)(2), 11702(d), 11801(c)(2)(D), Nov. 5, 1990, 104 Stat. 1388–405, 1388–490, 1388–514, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(3), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 104–188, title I, §§1601(b)(2)(D), 1702(a)(1), 1703(e), 1704(m)(3), Aug. 20, 1996, 110 Stat. 1833, 1868, 1875, 1883; Pub. L. 105–34, title X, §1057(a), title XI, §1103(a), title XII, §1201(b)(1), Aug. 5, 1997, 111 Stat. 945, 966, 994; Pub. L. 105–206, title VI, §§6011(a), 6023(2), July 22, 1998, 112 Stat. 817, 824; Pub. L. 108–357, title IV, §421(a)(1), Oct. 22, 2004, 118 Stat. 1514.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -318,7 +318,7 @@ Section applicable to taxable years beginning after Dec. 31, 1986, with certain 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11801 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by section 11801 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990,see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Consideration of Certain Taxes Treated as Paid or Accrued Under Section 904(c) in Determination of Alternative Minimum Tax Foreign Tax Credit
 

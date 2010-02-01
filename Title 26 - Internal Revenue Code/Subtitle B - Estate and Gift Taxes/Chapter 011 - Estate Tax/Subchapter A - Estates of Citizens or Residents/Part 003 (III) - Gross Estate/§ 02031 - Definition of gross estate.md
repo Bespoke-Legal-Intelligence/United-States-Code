@@ -2,7 +2,7 @@
 
 #### (a) General
 
-The value of the gross estate of the decedent shall be determined by including to the extentprovided for in this part, the value at the time of his death of all property, real or personal, tangible or intangible, wherever situated.
+The value of the gross estate of the decedent shall be determined by including to the extent provided for in this part, the value at the time of his death of all property, real or personal, tangible or intangible, wherever situated.
 
 #### (b) Valuation of unlisted stock and securities
 
@@ -90,7 +90,7 @@ $500,000.
 
 #### (B) Termination of retained development right
 
-&emsp;&emsp;If every person in being who has an interest (whether or not in possession) in the land executes an agreement to extinguish permanently some or all of any development rights (as defined in subparagraph (D)) retained by the donor on or before the date for filing the return of the tax imposed by section 2001, then any tax imposed by section 2001 shall be reduced accordingly. Such agreement shall be filed with the return of the tax imposed by section 2001. The agreement shall be in such form as the Secretary shall prescribe.
+&emsp;&emsp;If every person in being who has an interest (whether or not in possession) in the land executes an agreement to extinguish permanently some or all of any development rights (as defined in subparagraph (D)) retained by the donor on or before the date for filing the return of the tax imposed by section 2001, then any tax imposed by section 2001 shall bereduced accordingly. Such agreement shall be filed with the return of the tax imposed by section 2001. The agreement shall be in such form as the Secretary shall prescribe.
 
 #### (C) Additional tax
 

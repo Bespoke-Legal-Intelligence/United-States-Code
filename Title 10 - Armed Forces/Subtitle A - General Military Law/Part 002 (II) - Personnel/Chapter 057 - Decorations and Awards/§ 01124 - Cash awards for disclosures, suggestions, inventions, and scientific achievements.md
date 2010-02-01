@@ -8,7 +8,7 @@
 
 (d) A cash award under this section is in addition to the pay and allowances of the recipient. The acceptance of such an award shall constitute—
 
-&emsp;(1) an agreement by the member that the use by the United States of any idea, method, or device for which the award is made may not be the basis of a claim against the United States by the member, his heirs, or assigns, or by any person whose claim is alleged to be derived through the member; and
+&emsp;(1) an agreement by the member that the use by the United States of any idea, method, ordevice for which the award is made may not be the basis of a claim against the United States by the member, his heirs, or assigns, or by any person whose claim is alleged to be derived through the member; and
 
 &emsp;(2) a warranty by the member that he has not at the time of acceptance transferred, assigned, or otherwise divested himself of legal or equitable title in any property right residing in the idea, method, or device for which the award is made.
 
@@ -72,7 +72,7 @@ Section 1. Any suggestion, invention, or scientific achievement by a member of t
 
 Sec. 2. An executive department or agency that adopts or uses the suggestion, invention, or scientific achievement of a member of the armed forces who is not under its jurisdiction may recommend to the Department of Defense or to the Department of Homeland Security, as appropriate, a cash award or honorary recognition of the member and shall justify its recommendation with appropriate documentation and explanation of how the suggestion, invention, or scientific achievement contributes to the efficiency, economy, or other improvement of the operations of the Government of the United States. Awards shall be made under regulations to be prescribed by the Secretary of Defense or the Secretary of Homeland Security, as appropriate. The regulations of the Department of Defense and Department of Homeland Security may include designations of officials to whom authority for receiving, evaluating, and making awards may be assigned.
 
-Sec. 3. No cash awards hereunder for a single suggestion, invention, or scientific achievement may exceed $25,000 regardless of the number of agencies or departments which may adopt or use the suggestion, invention, or scientific achievement.
+Sec. 3. No cash awards hereunder for a single suggestion, invention, or scientific achievement may exceed$25,000 regardless of the number of agencies or departments which may adopt or use the suggestion, invention, or scientific achievement.
 
 Sec. 4. Funds to cover the costs of cash awards to members of the armed forces shall be transferred from the account of any executive department or agency which recommends the award to the appropriate account of the Department of Homeland Security or the Department of Defense, as the case may be. When several executive departments or agencies benefit from the adoption or use of the suggestion, invention, or scientific achievement, the amount transferred from each such benefiting department or agency to the Department of Homeland Security or the Department of Defense to cover the proportionate share of the cost of the cash award shall be determined under procedures prescribed by the Office of Personnel Management in accordance with the same guidelines and standards applying to awards to civilian employees.
 

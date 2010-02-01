@@ -1,5 +1,9 @@
 Part G—Rural Homeless Housing Assistance
 
+#### Codification
+
+Pub. L. 111–22, div. B, title IV, §1401(1), title V, §§1502(c), 1503, May 20, 2009, 123 Stat. 1696, 1701, 1702, provided that, effective on, and applicable beginning on, the earlier of the expiration of the 18-month period beginning on May 20, 2009, or the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 of Pub. L. 111–22, this part is redesignated part D and the part heading is amended by substituting “Rural Housing Stability Assistance Program” for “Rural Homeless Housing Assistance”.
+
 
 ---
 

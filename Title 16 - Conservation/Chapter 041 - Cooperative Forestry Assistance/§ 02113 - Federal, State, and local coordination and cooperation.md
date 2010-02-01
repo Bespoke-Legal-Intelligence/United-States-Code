@@ -80,7 +80,7 @@
 
 &emsp;&emsp;The State Coordinating Committee shall be chaired and administered by the State forester, or equivalent State official, or the designee thereof, and shall be composed, to the extent practicable, of—
 
-&emsp;&emsp;&emsp;(i) representatives from the Forest Service, Soil Conservation Service, Agricultural Stabilization and Conservation Service, and Extension Service;
+&emsp;&emsp;&emsp;(i) representatives from the Forest Service, Soil Conservation Service, Agricultural Stabilization and Conservation Service, and National Institute of Food and Agriculture;
 
 &emsp;&emsp;&emsp;(ii) representatives, to be appointed by the State forester or equivalent State official, representative of—
 
@@ -134,10 +134,6 @@
 
 (Pub. L. 95–313, §19, as added Pub. L. 101–624, title XII, §1222, Nov. 28, 1990, 104 Stat. 3540; amended Pub. L. 110–234, title VII, §7511(c)(37), title VIII, §§8005, 8006, May 22, 2008, 122 Stat. 1271, 1284, 1285; Pub. L. 110–246, §4(a), title VII, §7511(c)(37), title VIII, §§8005, 8006, June 18, 2008, 122 Stat. 1664, 2032, 2045–2047.)
 
-#### Amendment of Subsection (b)(1)(B)(i)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2032, provided that, effective Oct. 1, 2009, subsection (b)(1)(B)(i) of this section is amended by substituting “National Institute of Food and Agriculture” for “Extension Service”.</i>
-
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -145,6 +141,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 #### Amendments
 
 2008—Subsec. (a). Pub. L. 110–246, §8005, added subsec. (a) and struck out former subsec (a) which related to: in par. (1) establishment of a Forest Resource Coordinating Committee; in par. (2) composition of the Committee; in par. (3) designation of a chairperson; and in par. (4) duties of the Committee.
+
+Subsec. (b)(1)(B)(i). Pub. L. 110–246, §7511(c)(37), substituted “National Institute of Food and Agriculture” for “Extension Service”.
 
 Subsec. (b)(1)(B)(ii)(IX). Pub. L. 110–246, §8006(1), added subcl. (IX).
 

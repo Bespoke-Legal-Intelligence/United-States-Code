@@ -28,7 +28,7 @@ It is therefore the purpose of this chapter to provide clear and unambiguous aut
 
 #### (c) Nonrestraint and nondeterrence of investment
 
-Nothing in this chapter is intended to restrain or deter foreign investment in the United States, United States investment abroad, or trade in services.
+Nothing in this chapter is intended to restrain or deter foreign investment in the UnitedStates, United States investment abroad, or trade in services.
 
 (Pub. L. 94–472, §2, Oct. 11, 1976, 90 Stat. 2059; Pub. L. 98–573, title III, §306(b)(2), Oct. 30, 1984, 98 Stat. 3009; Pub. L. 101–533, §6(A)\[(a)\], Nov. 7, 1990, 104 Stat. 2348.)
 
@@ -56,7 +56,7 @@ Section 1. All the functions vested in the President by the International Invest
 
 Sec. 2. Subject to the provisions of section 1 of this order, and in the absence of any contrary delegation or direction by the Director, the Secretary of the Treasury, with respect to portfolio investment, shall perform the functions set forth in sections 4(a)(1), (2), (5) and 4(c) of the Act \[22 U.S.C. 3103(a)(1), (2), (5) and (c)\].
 
-Sec. 3. Subject to the provisions of section 1 of this order, and in the absence of any contrary delegation or direction by the Director, the Secretary of Commerce, with respect to direct investment and trade in services,shall perform the functions set forth in sections 4(a)(1), (2), (4), (5) and 4(b) of the Act \[22 U.S.C. 3103(a)(1), (2), (4), (5) and (b)\].
+Sec. 3. Subject to the provisions of section 1 of this order, and in the absence of any contrary delegation or direction by the Director, the Secretary of Commerce, with respect to direct investment and trade in services, shall perform the functions set forth in sections 4(a)(1), (2), (4), (5) and 4(b) of the Act \[22 U.S.C. 3103(a)(1), (2), (4), (5) and (b)\].
 
 Sec. 4. Subject to the provisions of section 1 of this order, and in the absence of any contrary delegation or direction by the Director, the Secretary of Commerce shall perform the function of making periodic reports to the Committees of the Congress as set forth in Section 4(a)(3) of the Act \[22 U.S.C. 3103(a)(3)\].
 

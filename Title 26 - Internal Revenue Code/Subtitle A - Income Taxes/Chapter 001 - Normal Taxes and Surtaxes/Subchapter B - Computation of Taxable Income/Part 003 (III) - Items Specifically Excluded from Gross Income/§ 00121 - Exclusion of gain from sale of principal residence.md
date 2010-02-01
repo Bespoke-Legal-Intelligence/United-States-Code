@@ -254,7 +254,19 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 &emsp;If a taxpayer acquires property in an exchange with respect to which gain is not recognized (in whole or in part) to the taxpayer under subsection (a) or (b) of section 1031, subsection (a) shall not apply to the sale or exchange of such property by such taxpayer (or by any person whose basis in such property is determined, in whole or in part, by reference to the basis in the hands of such taxpayer) during the 5-year period beginning with the date of such acquisition.
 
-#### (12) <sup>2</sup> Peace Corps
+#### (11) Property acquired from a decedent
+
+&emsp;The exclusion under this section shall apply to property sold by—
+
+&emsp;&emsp;(A) the estate of a decedent,
+
+&emsp;&emsp;(B) any individual who acquired such property from the decedent (within the meaning of section 1022), and
+
+&emsp;&emsp;(C) a trust which, immediately before the death of the decedent, was a qualified revocable trust (as defined in section 645(b)(1)) established by the decedent,
+
+> &emsp;determined by taking into account the ownership and use by the decedent.
+
+#### (12) Peace Corps
 
 #### (A) In general
 
@@ -266,7 +278,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 #### (B) Applicable rules
 
-&emsp;&emsp;For purposes of subparagraph (A), rules similar to the rules of subparagraphs (B) and (D) <sup>3</sup> shall apply.
+&emsp;&emsp;For purposes of subparagraph (A), rules similar to the rules of subparagraphs (B) and (D) <sup>2</sup> shall apply.
 
 #### (e) Denial of exclusion for expatriates
 
@@ -278,27 +290,13 @@ This section shall not apply to any sale or exchange with respect to which the t
 
 #### (g) Residences acquired in rollovers under section 1034
 
-For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 <sup>4</sup> (as in effect on the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer's principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(6) in determining the holding period of such property) had been so owned and used.
+For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 <sup>3</sup> (as in effect on the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer's principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(6) in determining the holding period of such property) had been so owned and used.
 
 (Added Pub. L. 88–272, title II, §206(a), Feb. 26, 1964, 78 Stat. 38; amended Pub. L. 94–455, title XIV, §1404(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1733, 1834; Pub. L. 95–600, title IV, §404(a)–(c)(2), Nov. 6, 1978, 92 Stat. 2869, 2870; Pub. L. 97–34, title I, §123(a), Aug. 13, 1981, 95 Stat. 197; Pub. L. 100–647, title VI, §6011(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 105–34, title III, §312(a), Aug. 5, 1997, 111 Stat. 836; Pub. L. 105–206, title VI, §6005(e)(1), (2), July 22, 1998, 112 Stat. 805; Pub. L. 107–16, title V, §542(c), June 7, 2001, 115 Stat. 84; Pub. L. 108–121, title I, §101(a), Nov. 11, 2003, 117 Stat. 1336; Pub. L. 108–357, title VIII, §840(a), Oct. 22, 2004, 118 Stat. 1597; Pub. L. 109–135, title IV, §§402(a)(3), 403(ee), Dec. 21, 2005, 119 Stat. 2610, 2631; Pub. L. 109–432, div. A, title IV, §417(a)–(d), Dec. 20, 2006, 120 Stat. 2965, 2966; Pub. L. 110–142, §7(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–172, §11(a)(11)(A), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–245, title I, §§110(a), 113(a), (b), June 17, 2008, 122 Stat. 1633, 1635; Pub. L. 110–289, div. C, title III, §3092(a), July 30, 2008, 122 Stat. 2911.)
 
-#### Amendment of Subsection (d)
+#### Amendment of Section
 
-<i>Pub. L. 107–16, title V, §542(c), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 84, 86, 150, as amended by Pub. L. 108–121, title I, §101(a), Nov. 11, 2003, 117 Stat. 1336; Pub. L. 109–135, title IV, §403(ee)(1), Dec. 21, 2005, 119 Stat. 2631, provided that, applicable to estates of decedents dying after Dec. 31, 2009, subsection (d) of this section is temporarily amended by adding paragraph (11) at end to read as follows:</i>
-
-#### <i>(11) Property acquired from a decedent</i>
-
-&emsp;<i>The exclusion under this section shall apply to property sold by—</i>
-
-&emsp;&emsp;<i>(A) the estate of a decedent,</i>
-
-&emsp;&emsp;<i>(B) any individual who acquired such property from the decedent (within the meaning of section 1022), and</i>
-
-&emsp;&emsp;<i>(C) a trust which, immediately before the death of the decedent, was a qualified revocable trust (as defined in section 645(b)(1)) established by the decedent,</i>
-
-> &emsp;<i>determined by taking into account the ownership and use by the decedent.</i>
-
-<i>See Codification notes and Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -310,9 +308,9 @@ Section 1034 (as in effect on the day before the date of the enactment of this s
 
 #### Codification
 
-Pub. L. 109–135, title IV, §403(ee)(1), (nn), Dec. 21, 2005, 119 Stat. 2631, 2632, which directed that subsec. (d) of this section be amended by redesignating the paragraph (10) relating to property acquired from a decedent as paragraph (11), effective as if included in the provisions to which such amendment relates of the American Jobs Creation Act of 2004, Pub. L. 108–357, was executed as the probable intent of Congress by redesignating as paragraph (11) the paragraph (10) to be added to subsec. (d) of this section by Pub. L. 107–16, §542(c), (f)(1), applicable to estates of decedents dying after Dec. 31, 2009. See italicized Amendment of Subsection (d) note above and Codification note and Effective Date of 2005 Amendment note below.
+Pub. L. 109–135, title IV, §403(ee)(1), (nn), Dec. 21, 2005, 119 Stat. 2631, 2632, which directed that subsec. (d) of this section be amended by redesignating the paragraph (10) relating to property acquired from a decedent as paragraph (11), effective as if included in the provisions to which such amendment relates of the American Jobs Creation Act of 2004, Pub. L. 108–357, was executed as the probable intent of Congress by redesignating as paragraph (11) the paragraph (10) directed to be added to subsec. (d) of this section by Pub. L. 107–16, §542(c), (f)(1), applicable to estates of decedents dying after Dec. 31, 2009. See Codification note, 2001, 2003, and 2005 Amendment notes, and Effective Date of 2005 Amendment note below.
 
-Pub. L. 108–121, title I, §101(a), (b)(1), Nov. 11, 2003, 117 Stat. 1336, which directed that subsec. (d) of this section be amended by redesignating paragraph (9) as (10) and adding a new paragraph (9), effective as if included in the amendments made by section 312 of the Taxpayer Relief Act of 1997, Pub. L. 105–34, could not literally be executed insofar as it directed the redesignation because subsec. (d), as amended by Pub. L. 105–34, did not contain a paragraph (9). However, to reflect the probable intent of Congress, the amendment was executed by redesignating as paragraph (10) the paragraph (9) to be added to subsec. (d) of this section by Pub. L. 107–16, §542(c), (f)(1), applicable to estates of decedents dying after Dec. 31, 2009. See italicized Amendment of Subsection (d) note above and Effective Date of 2003 Amendment note below.
+Pub. L. 108–121, title I, §101(a), (b)(1), Nov. 11, 2003, 117 Stat. 1336, which directed that subsec. (d) of this section be amended by redesignating paragraph (9) as (10) and adding a new paragraph (9), effective as if included in the amendments made by section 312 of the Taxpayer Relief Act of 1997, Pub. L. 105–34, could not literally be executed insofar as it directed the redesignation because subsec. (d), as amended by Pub. L. 105–34, did not contain a paragraph (9). However, to reflect the probable intent of Congress, the amendment was executed by redesignating as paragraph (10) the paragraph (9) directed to be added to subsec. (d) of this section by Pub. L. 107–16, §542(c), (f)(1), applicable to estates of decedents dying after Dec. 31, 2009. See Codification note above and 2001, 2003, and 2005 Amendment notes and Effective Date of 2003 Amendment note below.
 
 #### Prior Provisions
 
@@ -324,7 +322,7 @@ A prior section 121 was renumbered section 140 of this title.
 
 Subsec. (d)(9)(C)(vi). Pub. L. 110–245, §113(b), struck out heading and text of cl. (vi). Text read as follows: “An employee of the intelligence community shall not be treated as serving on qualified extended duty unless such duty is at a duty station located outside the United States.”
 
-Subsec. (d)(9)(E). Pub. L. 110–245, §113(a), struck out heading and text of subpar. (E). Text read as follows: “Clause (iii) of subparagraph (A) shall not apply withrespect to any sale or exchange after December 31, 2010.”
+Subsec. (d)(9)(E). Pub. L. 110–245, §113(a), struck out heading and text of subpar. (E). Text read as follows: “Clause (iii) of subparagraph (A) shall not apply with respect to any sale or exchange after December 31, 2010.”
 
 Subsec. (d)(12). Pub. L. 110–245, §110(a), added par. (12).
 
@@ -350,11 +348,15 @@ Subsec. (d)(9)(C)(vi). Pub. L. 109–432, §417(c), added cl. (vi).
 
 2005—Subsec. (d)(10). Pub. L. 109–135, §403(ee)(2), amended heading and text of par. (10) relating to property acquired in like-kind exchange generally. Prior to amendment, text read as follows: “If a taxpayer acquired property in an exchange to which section 1031 applied, subsection (a) shall not apply to the sale or exchange of such property if it occurs during the 5-year period beginning with the date of the acquisition of such property.”
 
+Subsec. (d)(11). Pub. L. 109–135, §403(ee)(1), redesignated par. (10), formerly par. (9), as temporarily added by Pub. L. 107–16, as (11). See Codification notes above and 2001 and 2003 Amendment notes and Effective and Termination Dates of 2001 Amendment note below.
+
 Subsec. (g). Pub. L. 109–135, §402(a)(3), substituted “section 1223(6)” for “section 1223(7)”.
 
 2004—Subsec. (d)(10). Pub. L. 108–357 added par. (10) relating to property acquired in like-kind exchange.
 
-2003—Subsec. (d)(9). Pub. L. 108–121 added par. (9).
+2003—Subsec. (d)(9), (10). Pub. L. 108–121 added par. (9) and redesignated former par. (9), as temporarily added by Pub. L. 107–16, as (10). See Codification notes above and 2001 Amendment note and Effective and Termination Dates of 2001 Amendment note below.
+
+2001—Subsec. (d)(9). Pub. L. 107–16, §§542(c), 901, temporarily added par. (9). See Codification notes above and Effective and Termination Dates of 2001 Amendment note below.
 
 1998—Subsec. (b)(2). Pub. L. 105–206, §6005(e)(1), substituted “Special rules for joint returns” for “$500,000 limitation for certain joint returns” in heading and amended text generally. Prior to amendment, text read as follows: “Paragraph (1) shall be applied by substituting ‘$500,000’ for ‘$250,000’ if—
 
@@ -432,7 +434,7 @@ Pub. L. 108–121, title I, §101(b), Nov. 11, 2003, 117 Stat. 1336, provided th
 
 “(1)
 
-Effective date.—The amendments made by this section \[amending this section\] shall take effect as if included in the amendments made by section 312 of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34\].
+Effective date.—The amendments made by this section \[amending this section\] shall take effect as ifincluded in the amendments made by section 312 of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34\].
 
 “(2)
 
@@ -516,9 +518,7 @@ Section 404(d)(2) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct.
 
 <i><sup>1</sup></i><i> So in original. Two pars. (4) have been enacted.</i>
 
-<i><sup>2</sup></i><i> See Amendment of Subsection (d) note below.</i>
+<i><sup>2</sup></i><i> So in original.</i>
 
-<i><sup>3</sup></i><i> So in original.</i>
-
-<i><sup>4</sup></i><i> See References in Text note below.</i>
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

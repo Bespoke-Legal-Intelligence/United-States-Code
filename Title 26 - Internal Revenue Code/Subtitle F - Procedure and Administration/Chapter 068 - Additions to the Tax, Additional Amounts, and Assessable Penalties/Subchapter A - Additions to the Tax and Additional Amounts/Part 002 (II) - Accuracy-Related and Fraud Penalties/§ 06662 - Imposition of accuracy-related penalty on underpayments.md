@@ -204,7 +204,7 @@ Section 1219(a)(1), (2) of Pub. L. 109–280, which directed the amendment of se
 
 #### Prior Provisions
 
-A prior section 6662, acts Aug. 16, 1954, ch. 736, 68A Stat. 827, §6659; May 14, 1960, Pub. L. 86–470, §1, 74 Stat.132; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(51), 83 Stat. 531; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(19), 88 Stat. 931; renumbered §6660, Aug. 13, 1981, Pub. L. 97–34, title VII, §722(a)(1), 95 Stat. 341; renumbered §6662, Sept. 3, 1982, Pub. L. 97–248, title III, §323(a), 96 Stat. 613, directed that additions be treated as tax and set procedure for assessing certain additions to tax, prior to repeal by Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395, applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989. See section 6665 of this title.
+A prior section 6662, acts Aug. 16, 1954, ch. 736, 68A Stat. 827, §6659; May 14, 1960, Pub. L. 86–470, §1, 74 Stat. 132; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(51), 83 Stat. 531; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(19), 88 Stat. 931; renumbered §6660, Aug. 13, 1981, Pub. L. 97–34, title VII, §722(a)(1), 95 Stat. 341; renumbered §6662, Sept. 3, 1982, Pub. L. 97–248, title III, §323(a), 96 Stat. 613, directed that additions be treated as tax and set procedure for assessing certain additions to tax, prior to repeal by Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395, applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989. See section 6665 of this title.
 
 #### Amendments
 
@@ -288,7 +288,7 @@ Amendment by Pub. L. 109–280 applicable to returns filed after Aug. 17, 2006, 
 
 #### Effective Date of 2005 Amendment
 
-Amendment by section 403(x)(1) of Pub. L. 109–135 effective as if included in the provision of the AmericanJobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+Amendment by section 403(x)(1) of Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
 #### Effective Date of 2004 Amendment
 

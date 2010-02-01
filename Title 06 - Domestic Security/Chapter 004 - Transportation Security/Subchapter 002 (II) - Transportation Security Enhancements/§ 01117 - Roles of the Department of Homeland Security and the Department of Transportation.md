@@ -6,7 +6,7 @@ The Secretary of Homeland Security is the principal Federal official responsible
 
 #### References in Text
 
-This chapter, referred to in text, was in the original a reference to titles XII, XIII, XIV, and XV of Pub. L. 110–53, which enacted this chapter, amended section 1992 of Title 18, Crimes and Criminal Procedure, section 70105 of Title 46, Shipping, and sections 114, 5103a, 14504, 20106, 20109, 24301, 28101, 31105, and 46301 of Title 49, Transportation, enacted provisions set out as notes under section 1101 of this title and sections 114, 13908, and 14504 of Title 49, and amended provisions set out as a note under section 14504 of Title 49. For complete classification of titles XII to XV to the Code, see Tables.
+This chapter, referred to in text, was in the original a reference to titles XII, XIII, XIV, and XV of Pub. L. 110–53, which enacted this chapter, amended section 1992 of Title 18, Crimes and Criminal Procedure, section 70105 of Title 46, Shipping, and sections 114, 5103a, 14504, 20106, 20109, 24301, 28101, 31105, and 46301 of Title 49, Transportation, enacted provisions set out as notes under section 1101 of this title and sections 114, 13908, and 14504 of Title 49, and amended provisions set out as a note under section 14504 of Title 49. For completeclassification of titles XII to XV to the Code, see Tables.
 
 The Aviation and Transportation Security Act, referred to in text, is Pub. L. 107–71, Nov. 19, 2001, 115 Stat. 597. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 40101 of Title 49, Transportation, and Tables.
 

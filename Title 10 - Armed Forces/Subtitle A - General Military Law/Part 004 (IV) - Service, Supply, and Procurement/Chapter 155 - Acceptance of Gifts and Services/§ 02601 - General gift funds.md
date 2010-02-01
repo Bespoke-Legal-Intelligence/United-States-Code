@@ -36,7 +36,7 @@ Gift Funds.—Gifts and bequests of money, and the proceeds of the sale of prope
 
 (d)
 
-Use of Gifts; Prohibitions.—(1) Except as provided in paragraph (2), property and moneyaccepted under subsection (a) or (b) may be used by the Secretary concerned, and services accepted under subsection (b) may be performed, without further specific authorization in law.
+Use of Gifts; Prohibitions.—(1) Except as provided in paragraph (2), property and money accepted under subsection (a) or (b) may be used by the Secretary concerned, and services accepted under subsection (b) may be performed, without further specific authorization in law.
 
 (2) Property and money may not be accepted under subsection (a) and property, money, and services may not be accepted under subsection (b)—
 

@@ -128,7 +128,7 @@ Subsec. (e). Pub. L. 108–355, §3(b)(1)(F), struck out “, contract,” afte
 
 Subsec. (f). Pub. L. 108–355, §3(b)(1)(G), struck out “, contracts,” after “grants”.
 
-Subsec. (g). Pub. L. 108–355, §3(b)(1)(H), substituted “A public organization, private nonprofit organization, political subdivision, consortium of political subdivisions, consortium of States, or Federally recognized Indian tribe or tribal organization receiving” for “AState, political subdivision of a State, Indian tribe, tribal organization, public organization, or private nonprofit organization receiving” and struck out “, contract,” after “grant” in two places.
+Subsec. (g). Pub. L. 108–355, §3(b)(1)(H), substituted “A public organization, private nonprofit organization, political subdivision, consortium of political subdivisions, consortium of States, or Federally recognized Indian tribe or tribal organization receiving” for “A State, political subdivision of a State, Indian tribe, tribal organization, public organization, or private nonprofit organization receiving” and struck out “, contract,” after “grant” in two places.
 
 Subsec. (h). Pub. L. 108–355, §3(b)(1)(I), struck out “, contracts,” after “grants”.
 

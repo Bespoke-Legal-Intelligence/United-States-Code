@@ -18,7 +18,7 @@ Works Commemorating Events, Individuals, or Groups.—A commemorative work comme
 
 (d)
 
-Consultation with National Capital Memorial Advisory Commission.—In considering legislation authorizing commemorative works in the District of Columbia and its environs, the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate shall solicit the views of the National Capital Memorial Advisory Commission.
+Consultation with National Capital Memorial Advisory Commission.—In considering legislation authorizing commemorative works in the District of Columbia and its environs, the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate shall solicit the views of the National Capital Memorial Advisory Commission.
 
 (e)
 
@@ -32,9 +32,9 @@ Expiration of Legislative Authority.—Any legislative authority for a commemora
 
 &emsp;&emsp;(B) 75 percent of the amount estimated to be required to complete the commemorative work has been raised.
 
-> If these two conditions have been met, the Secretary or the Administrator (as appropriate)may extend the seven-year legislative authority for a period not to exceed three additional years. Upon expiration of the legislative authority, any previous site and design approvals shall also expire.
+> If these two conditions have been met, the Secretary or the Administrator (as appropriate) may extend the seven-year legislative authority for a period not to exceed three additional years. Upon expiration of the legislative authority, any previous site and design approvals shall also expire.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1228; Pub. L. 108–126, title II, §203(c), Nov. 17, 2003, 117 Stat. 1350.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1228; Pub. L. 108–126, title II, §203(c), Nov. 17, 2003, 117 Stat. 1350; Pub. L. 111–11, title VII, §7116(e)(1), Mar. 30, 2009, 123 Stat. 1203.)
 
 Historical and Revision Notes
 
@@ -76,15 +76,13 @@ In subsection (d), the words “House Administration” are substituted for “H
 
 #### Amendments
 
+2009—Subsec. (d). Pub. L. 111–11, which directed insertion of “Natural” before “Resources”, was executed bymaking the insertion before “Resources of the House”, to reflect the probable intent of Congress.
+
 2003—Subsec. (b). Pub. L. 108–126, §203(c)(1), substituted “work solely commemorating a limited military engagement” for “work commemorating a lesser conflict” and “such war or conflict” for “the event”.
 
 Subsec. (d). Pub. L. 108–126, §203(c)(2), substituted “Memorial Advisory Commission” for “Memorial Commission” in heading, and in text substituted “Resources” for “House Administration” and inserted “Advisory” before “Commission”.
 
 Subsec. (e). Pub. L. 108–126, §203(c)(3), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Legislative authority for a commemorative work expires at the end of the seven–year period beginning on the date the authority is enacted unless the Secretary of the Interior or Administrator of General Services, as appropriate, has issued a construction permit for the commemorative work during that period.”
-
-#### Change of Name
-
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2003 Amendment
 
@@ -126,7 +124,7 @@ Lincoln Memorial, “I Have a Dream Speech” Commemorative Plaque.—Pub. L. 10
 
 Mahatma Gandhi Memorial.—Pub. L. 105–284, §1, Oct. 26, 1998, 112 Stat. 2701.
 
-Martin Luther King, Jr., Memorial.—Pub. L. 104–333, div. I, title V, §508, Nov. 12, 1996, 110 Stat. 4157; Pub. L. 105–201, §1, July 16, 1998, 112 Stat. 675; Pub. L. 106–176, title I, §108, Mar. 10, 2000, 114 Stat. 26; Pub. L. 108–125, §1, Nov. 11, 2003, 117 Stat. 1347; Pub. L. 109–54, title I, §134(c), Aug. 2, 2005, 119 Stat. 527; Pub. L. 110–453, title III, §301, Dec. 2, 2008, 122 Stat. 5034.
+Martin Luther King, Jr., Memorial.—Pub. L. 104–333, div. I, title V, §508, Nov. 12, 1996, 110 Stat. 4157; Pub. L. 105–201, §1, July 16, 1998, 112 Stat. 675; Pub. L. 106–176, title I, §108, Mar. 10, 2000, 114 Stat. 26; Pub. L. 108–125, §1, Nov. 11, 2003, 117 Stat. 1347; Pub. L. 109–54, title I, §134(c), Aug. 2, 2005, 119 Stat. 527; Pub. L. 110–453, title III, §301, Dec. 2, 2008, 122 Stat. 5034; Pub. L. 111–88, div. A, title I, §129, Oct. 30, 2009, 123 Stat. 2933.
 
 National Peace Garden.—Pub. L. 100–63, June 30, 1987, 101 Stat. 379; Pub. L. 103–321, §1(a)(3), (b), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 105–202, July 16, 1998, 112 Stat. 676.
 

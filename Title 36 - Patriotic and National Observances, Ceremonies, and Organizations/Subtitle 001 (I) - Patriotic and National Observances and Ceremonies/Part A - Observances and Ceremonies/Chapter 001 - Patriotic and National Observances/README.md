@@ -55,6 +55,164 @@
 
 2001—Pub. L. 107–89, §2, Dec. 18, 2001, 115 Stat. 877, added item 144.
 
+#### Ronald Reagan Centennial Commission
+
+Pub. L. 111–25, June 2, 2009, 123 Stat. 1767, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Ronald Reagan Centennial Commission Act’.
+
+#### “SEC. 2. ESTABLISHMENT.
+
+“There is established a commission to be known as the ‘Ronald Reagan Centennial Commission’ (in this Act referred to as the ‘Commission’).
+
+#### “SEC. 3. DUTIES OF COMMISSION.
+
+“The Commission shall—
+
+&emsp;“(1) plan, develop, and carry out such activities as the Commission considers fitting and proper to honor Ronald Reagan on the occasion of the 100th anniversary of his birth;
+
+&emsp;“(2) provide advice and assistance to Federal, State, and local governmental agencies, as well as civic groups\[,\] to carry out activities to honor Ronald Reagan on the occasion of the 100th anniversary of his birth;
+
+&emsp;“(3) develop activities that may be carried out by the Federal Government to determine whether the activities are fitting and proper to honor Ronald Reagan on the occasion of the 100th anniversary of his birth; and
+
+&emsp;“(4) submit to the President and Congress reports pursuant to section 7.
+
+#### “SEC. 4. MEMBERSHIP.
+
+“(a)
+
+Number and Appointment.—The Commission shall be composed of 11 members as follows:
+
+&emsp;“(1) The Secretary of the Interior.
+
+&emsp;“(2) Four members appointed by the President after considering the recommendations of the Board of Trustees of the Ronald Reagan Foundation.
+
+&emsp;“(3) Two Members of the House of Representatives appointed by the Speaker of the House of Representatives.
+
+&emsp;“(4) One Member of the House of Representatives appointed by the minority leader of the House of Representatives.
+
+&emsp;“(5) Two Members of the Senate appointed by the majority leader of the Senate.
+
+&emsp;“(6) One Member of the Senate appointed by the minority leader of the Senate.
+
+“(b)
+
+Ex Officio Member.—The Archivist of the United States shall serve in an ex officio capacity on the Commission to provide advice and information to the Commission.
+
+“(c)
+
+Terms.—Each member shall be appointed for the life of the Commission.
+
+“(d)
+
+Deadline for Appointment.—All members of the Commission shall be appointed not later than 90 days after the date of the enactment of this Act \[June 2, 2009\].
+
+“(e)
+
+Vacancies.—A vacancy on the Commission shall—
+
+&emsp;“(1) not affect the powers of the Commission; and
+
+&emsp;“(2) be filled in the manner in which the original appointment was made.
+
+“(f)
+
+Rates of Pay.—Members shall not receive compensation for the performance of their duties on behalf of the Commission.
+
+“(g)
+
+Travel Expenses.—Each member of the Commission shall be reimbursed for travel and per diem in lieu of subsistence expenses during the performance of duties of the Commission while away from home or his or her regular place of business, in accordance with applicable provisions under subchapter I of chapter 57 of title 5, United States Code.
+
+“(h)
+
+Quorum.—A majority of the members of the Commission shall constitute a quorum to conduct business, but two or more members may hold hearings.
+
+“(i)
+
+Chairperson.—The chairperson of the Commission shall be elected by a majority vote of the members of the Commission.
+
+#### “SEC. 5. DIRECTOR AND STAFF OF COMMISSION.
+
+“(a)
+
+Director and Staff.—The Commission shall appoint an executive director and such other additional personnel as are necessary to enable the Commission to perform its duties.
+
+“(b)
+
+Applicability of Certain Civil Service Laws.—The executive director and staff of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that the rate of pay for the executive director and other staff may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+
+“(c)
+
+Detail of Federal Employees.—Upon request of the Commission, the Secretary of the Interior or the Archivist of the United States may detail, on a reimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its duties under this Act.
+
+“(d)
+
+Experts and Consultants.—The Commission may procure such temporary and intermittent servicesas are necessary to enable the Commission to perform its duties.
+
+“(e)
+
+Volunteer and Uncompensated Services.—Notwithstanding section 1342 of title 31, United States Code, the Commission may accept and use voluntary and uncompensated services as the Commission determines necessary.
+
+#### “SEC. 6. POWERS OF COMMISSION.
+
+“(a)
+
+Hearings.—The Commission may, for the purpose of carrying out this Act, hold hearings, sit and act at times and places, take testimony, and receive evidence as the Commission considers appropriate.
+
+“(b)
+
+Mails.—The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
+
+“(c)
+
+Obtaining Official Data.—The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out its duties under this Act. Upon request of the chairperson of the Commission, the head of that department or agency shall furnish that information to the Commission.
+
+“(d)
+
+Gifts, Bequests, Devises.—The Commission may solicit, accept, use, and dispose of gifts, bequests, or devises of money, services, or property, both real and personal, for the purpose of aiding or facilitating its work.
+
+“(e)
+
+Available Space.—Upon the request of the Commission, the Administrator of General Services shall make available nationwide to the Commission, at a normal rental rate for Federal agencies, such assistance and facilities as may be necessary for the Commission to carry out its duties under this Act.
+
+“(f)
+
+Contract Authority.—The Commission may enter into contracts with and compensate government and private agencies or persons to enable the Commission to discharge its duties under this Act.
+
+#### “SEC. 7. REPORTS.
+
+“(a)
+
+Annual Reports.—The Commission shall submit to the President and the Congress annual reports on the revenue and expenditures of the Commission, including a list of each gift, bequest, or devise to the Commission with a value of more than $250, together with the identity of the donor of each gift, bequest, or devise.
+
+“(b)
+
+Interim Reports.—The Commission may submit to the President and Congress interim reports as the Commission considers appropriate.
+
+“(c)
+
+Final Report.—Not later than April 30, 2011, the Commission shall submit a final report to the President and the Congress containing—
+
+&emsp;“(1) a summary of the activities of the Commission;
+
+&emsp;“(2) a final accounting of funds received and expended by the Commission; and
+
+&emsp;“(3) the findings, conclusions, and final recommendations of the Commission.
+
+#### “SEC. 8. TERMINATION.
+
+“The Commission may terminate on such date as the Commission may determine after it submits its final report pursuant to section 7(c), but not later than May 30, 2011.
+
+#### “SEC. 9. ANNUAL AUDIT.
+
+“The Inspector General of the Department of the Interior may perform an audit of the Commission, shall make the results of any audit performed available to the public, and shall transmit such results to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+
+#### “SEC. 10. PROHIBITION ON OBLIGATION OF FEDERAL FUNDS.
+
+“No Federal funds may be obligated to carry out this Act.”
+
 #### 225th Anniversary of the American Revolution Commemoration
 
 Pub. L. 108–447, div. J, title II, Dec. 8, 2004, 118 Stat. 3348, provided that:
@@ -141,7 +299,7 @@ Pub. L. 106–550, Dec. 19, 2000, 114 Stat. 2745, known as the James Madison Com
 
 #### Abraham Lincoln Bicentennial Commission
 
-Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860, provided that:
+Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, §1204, Mar. 11, 2009, 123 Stat. 826, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -227,7 +385,7 @@ Time of Appointment.—Each initial appointment of a member of the Commission sh
 
 “(d)
 
-Continuation of Membership.—If a member of the Commission was appointed to the Commission as a Member of Congress, and ceases to be a Member of Congress, that member may continue to serve on the Commission for not longer than the 30-day period beginning on the date that member ceases to be a Member of Congress.
+Continuation of Membership.—If a member of the Commission was appointed to the Commission as a Member of Congress, and ceases to be a Member of Congress, that member may continue to serve on the Commission for the life of the Commission.
 
 “(e)
 
@@ -327,7 +485,7 @@ Detailee serving as director.—Subparagraph (A) shall not apply to a detailee w
 
 &emsp;“(3)
 
-Employment benefits for additional personnel.—A person appointed to the Commission staff under section 6(b)(2) is deemed to be an employee as that term is defined by section 2105 of title 5, United States Code, for purposes of chapters 63, 83, 84, 87, 89, and 90 of that title, and is deemed to be an employee for purposes of chapter 81 of that title.
+Employment benefits for additional personnel.—A person appointed to the Commission staff under section 6(b)(2) is deemed to be an employee as that term is defined by section 2105 of title 5, United States Code, for purposes of chapters 63, 83, 84, 87, 89,and 90 of that title, and is deemed to be an employee for purposes of chapter 81 of that title.
 
 #### “SEC. 8. REPORTS.
 
@@ -363,29 +521,73 @@ Final Report.—Not later than April 30, 2010, the Commission shall submit a fin
 
 \[Pub. L. 107–117, div. B, §917(b), Jan. 10, 2002, 115 Stat. 2325, provided that: “The amendments made by this section \[amending section 209 of Pub. L. 107–68, which amended section 7 of Pub. L. 106–173, set out above\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2002 (Public Law 107–68).”\]
 
-#### Proc. No. 4934. Armed Forces Day
+#### Proc. No. 8380. Armed Forces Day
 
-Proc. No. 4934, Apr. 16, 1982, 47 F.R. 16767, provided:
+Proc. No. 8380, May 14, 2009, 74 F.R. 23603, provided:
 
-Each year we Americans set aside one day to honor the brave and dedicated men and women of the Army, Navy, Air Force, Marine Corps and Coast Guard.
+On Armed Forces Day, 1961, President Kennedy connected civic engagement and our Nation's security. He stated, “the strength of our armed forces rests not alone upon their active and reserve members, our industrial productivity, and our human resources, but also upon the understanding and support of an informed American people.” Based on this perspective, I call upon all Americans to learn more about, and express gratitude for, the heroic efforts of our men and women in uniform.
 
-They serve our nation with dignity, courage, and pride in duty stations throughout the world. The peace we enjoy today reminds us of their important role.
+Today, the United States military serves across the world to keep us safe. They are working here at home to protect America from threats foreign and domestic; they are risking their lives in the deserts of Iraq and the mountains of Afghanistan; and they are also serving bravely in many other parts of the world to ensure our security and provide humanitarian assistance. Members of the Armed Forces are forging a better future for our Nation and the world.
 
-NOW, THEREFORE, I, RONALD REAGAN, President of the United States of America and Commander in Chief of the Armed Forces of the United States, continuing the precedent of my seven immediate predecessors in this Office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
+As they carry out their missions, military families endure the sacrifice of their absence. Worrying about their safety, moving to new duty stations, and managing a home without a loved one, these families shoulder great burdens as they help sustain our men and women in uniform. I thank military families for their vital contributions.
 
-I direct the Secretary of Defense on behalf of the Army, the Navy, the Air Force, and the Marine Corps, and the Secretary of Transportation on behalf of the Coast Guard, to plan for appropriate observances each year, with the Secretary of Defense responsible for soliciting the participation and cooperation of civil authorities and private citizens.
+The Soldiers, Sailors, Airmen, Marines, and Coastguardsmen who have answered the call to service deserve recognition and gratitude. They have endured the most difficult of conditions to protect America and her highest ideals. Today, I ask all Americans to know their sacrifice and join me in humble thanks.
+
+NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the precedent of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
+
+I direct the Secretary of Defense on behalf of the Army, Navy, Air Force, Marine Corps, and the Secretary of Homeland Security on behalf of the Coast Guard, to plan for appropriate observances each year, with the Secretary of Defense responsible for soliciting the participation and cooperation of civil authorities and private citizens.
 
 I invite the Governors of the States, the Commonwealth of Puerto Rico, and other areas subject to the jurisdiction of the United States, to provide for the observance of Armed Forces Day within their jurisdiction each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States.
 
 I also invite national and local veterans, civic and other organizations to join in the observance of Armed Forces Day each year.
 
-I call upon all Americans not only to display the flag of the United States at their homes on Armed Forces Day, but also to learn about our system of defense, and about the men and women who sustain it, by attending and participating in the local observances of the day.
+Finally, I call upon all Americans to display the flag of the United States at their homes on Armed Forces Day and urge citizens to learn more about military service by attending and participating in the local observances of the day. I also encourage Americans to volunteer at organizations that provide support to our troops.
 
-Proclamation 4571 of May 15, 1978, is hereby superseded.
+Proclamation 7562 of May 16, 2002, is hereby superseded.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this 16th day of April, in the year of our Lord nineteen hundred and eighty-two and of the Independence of the United States of America the two hundred and sixth.
+IN WITNESS WHEREOF, I have hereunto set my hand this fourteenth day of May, in the year of our Lord two thousand nine, and of the Independence of the United States of America the two hundred and thirty-third.
 
-Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Prior similar proclamations were contained in the following:
+
+Proc. No. 7562, May 16, 2002, 67 F.R. 35707, superseded by Proc. No. 8380, May 14, 2009, 74 F.R. 23603.
+
+Proc. No. 6693, May 21, 1994, 59 F.R. 26923, superseded by Proc. No. 7562, May 16, 2002, 67 F.R. 35707.
+
+Proc. No. 5983, May 17, 1989, 54 F.R. 21593, superseded by Proc. No. 6693, May 21, 1994, 59 F.R. 26923.
+
+Proc. No. 4934, Apr. 16, 1982, 47 F.R. 16767, superseded by Proc. No. 5983, May 17, 1989, 54 F.R. 21593.
+
+Proc. No. 4571, May 15, 1978, 43 F.R. 21313, superseded by Proc. No. 4934, Apr. 16, 1982, 47 F.R. 16767.
+
+Proc. No. 4492, Mar. 22, 1977, 42 F.R. 15889, superseded by Proc. No. 4571, May 15, 1978, 43 F.R. 21313.
+
+Proc. No. 4357, Mar. 25, 1975, 40 F.R. 13293, superseded by Proc. No. 4492, Mar. 22, 1977, 42 F.R. 15889.
+
+Proc. No. 4276, Mar. 21, 1974, 39 F.R. 10877, superseded by Proc. No. 4357, Mar. 25, 1975, 40 F.R. 13293.
+
+Proc. No. 3655, May 7, 1965, 30 F.R. 6467, superseded by Proc. No. 4276, Mar. 21, 1974, 39 F.R. 10877.
+
+Proc. No. 3399, Mar. 22, 1961, 26 F.R. 2501, superseded by Proc. No. 3655, May 7, 1965, 30 F.R. 6467.
+
+Proc. No. 3172, Mar. 6, 1957, 22 F.R. 1427, superseded by Proc. No. 3399, Mar. 22, 1961, 26 F.R. 2501.
+
+#### Proc. No. 8455. National Farm-City Week
+
+Proc. No. 8455, Nov. 20, 2009, 74 F.R. 61261, provided:
+
+Our Nation's farm and ranch families supply many of the basic necessities of our daily life. They manage a large portion of our country's fertile land base, and they are caretakers of our valuable natural resources and diverse ecosystems. Their connections with urban and suburban communities are critical to our economy and to the nourishment of our people. During National Farm-City Week, we express gratitude for the contributions of our Nation's farmers and ranchers, and we rededicate ourselves to providing all Americans with access to healthy food, and thus, a healthy future.
+
+Pioneered by Native Americans, agriculture was our Nation's first industry. For agriculture to thrive in the 21st century, we must continue to cultivate the relationships between farmers and rural businesses and their partners and customers in cities and towns.American farmers and ranchers are proud to grow the food, feed, fuel, and fiber that enhance our national security and prosperity, and remain steadfast stewards of the land they love. We must ensure that farming is maintained as an economically, socially, and environmentally sustainable way of life for future generations.
+
+This Thanksgiving season, we celebrate farms of every size that produce fruits, vegetables, dairy, and livestock indispensable to the health of our families. We also recognize the vital ties between our urban and suburban communities and their local farmers through regional food systems, farmers markets, and community gardens. During National Farm-City Week, we celebrate the bounty of America, and we honor the commitment of those who grow, harvest, and deliver agricultural goods to feed our country and grow our economy.
+
+NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, by virtue of the authority vested in me by the Constitution and the laws of the United States, do hereby proclaim the week ending on Thanksgiving Day of each year as National Farm-City Week. I call on Americans as they gather with their families and friends to reflect on the accomplishments of all who dedicate their lives to promoting our Nation's agricultural abundance and environmental stewardship.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this twentieth day of November, in the year of our Lord two thousand nine, and of the Independence of the United States of America the two hundred and thirty-fourth.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 13072
 

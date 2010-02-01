@@ -2,7 +2,7 @@
 
 #### (a) Coordination and oversight over science and technology agreements between United States and foreign countries, etc.
 
-(1) In order to implement the policies set forth in section 2656b of this title, the Secretary of State (hereafter in this section referred to asthe “Secretary”) shall have primary responsibility for coordination and oversight with respect to all major science or science and technology agreements and activities between the United States and foreign countries, international organizations, or commissions of which the United States and one or more foreign countries are members.
+(1) In order to implement the policies set forth in section 2656b of this title, the Secretary of State (hereafter in this section referred to as the “Secretary”) shall have primary responsibility for coordination and oversight with respect to all major science or science and technology agreements and activities between the United States and foreign countries, international organizations, or commissions of which the United States and one or more foreign countries are members.
 
 (2) In coordinating and overseeing such agreements and activities, the Secretary shall consider (A) scientific merit; (B) equity of access as described in section 2656c(b) of this title; (C) possible commercial or trade linkages with the United States which may flow from the agreement or activity; (D) national security concerns; and (E) any other factors deemed appropriate.
 

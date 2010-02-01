@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A State may elect to provide medical assistance under this section with respect to PACE program services to PACE program eligible individuals who are eligible for medical assistance under the State plan and who are enrolled in a PACE program under a PACE program agreement. Such individuals need not be eligible for benefits under part A, or enrolled under part B, of subchapter XVIII of this chapter to be eligible to enroll under this section. In the case of an individual enrolled with a PACE program pursuant to such an election—
+&emsp;A State may elect to provide medical assistance under this section with respect to PACE program services to PACE program eligible individuals who are eligible for medical assistance under the State plan and who are enrolled in a PACE program under a PACE program agreement. Such individuals need not beeligible for benefits under part A, or enrolled under part B, of subchapter XVIII of this chapter to be eligible to enroll under this section. In the case of an individual enrolled with a PACE program pursuant to such an election—
 
 &emsp;&emsp;(A) the individual shall receive benefits under the plan solely through such program, and
 
@@ -116,7 +116,7 @@
 
 &emsp;&emsp;(A) a written plan of quality assurance and improvement, and procedures implementing such plan, in accordance with regulations, and
 
-&emsp;&emsp;(B) written safeguards of the rights of enrolled participants (including a patient bill of rights and procedures for grievances and appeals) in accordance with regulations andwith other requirements of this subchapter and Federal and State law designed for the protection of patients.
+&emsp;&emsp;(B) written safeguards of the rights of enrolled participants (including a patient bill of rights and procedures for grievances and appeals) in accordance with regulations and with other requirements of this subchapter and Federal and State law designed for the protection of patients.
 
 #### (3) Treatment of medicare services furnished by noncontract physicians and other entities
 
@@ -144,7 +144,7 @@
 
 #### (2) Condition
 
-&emsp;An individual is not a PACE program eligible individual (with respect to payment under this section) unless the individual's health status has been determined by the Secretary or the State administering agency, in accordance with regulations, to be comparable to the health status of individuals who have participated in the PACE demonstration waiver programs. Such determination shall be based upon information on health status and related indicators (such as medical diagnoses and measures of activities of daily living, instrumental activities of daily living, and cognitive impairment) that are part of a uniform minimum data set collected by PACE providers on potential eligible individuals.
+&emsp;An individual is not a PACE program eligible individual (with respect to payment under this section) unless the individual's health status has been determined by the Secretary or the State administering agency, in accordance with regulations, to be comparable to the health status of individuals who have participated in the PACE demonstration waiver programs. Such determination shall be based upon information on health status and related indicators (such as medical diagnoses andmeasures of activities of daily living, instrumental activities of daily living, and cognitive impairment) that are part of a uniform minimum data set collected by PACE providers on potential eligible individuals.
 
 #### (3) Annual eligibility recertifications
 
@@ -390,7 +390,7 @@
 
 #### (g) Waivers of requirements
 
-With respect to carrying out a PACE program under this section, the following requirementsof this subchapter (and regulations relating to such requirements) shall not apply:
+With respect to carrying out a PACE program under this section, the following requirements of this subchapter (and regulations relating to such requirements) shall not apply:
 
 &emsp;(1) Section 1396a(a)(1) of this title, relating to any requirement that PACE programs or PACE program services be provided in all areas of a State.
 
@@ -430,7 +430,7 @@ Nothing in this section or section 1395eee of this title shall be construed as p
 
 #### References in Text
 
-Parts A, B, and C of subchapter XVIII of this chapter, referred to in subsecs. (a)(1), (e)(7), (f)(3), and (j), are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
+Parts A, B, and C of subchapter XVIII of this chapter, referred to in subsecs. (a)(1), (e)(7), (f)(3), and (j), areclassified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(3)(A)(i), is classified generally to Title 26, Internal Revenue Code.
 

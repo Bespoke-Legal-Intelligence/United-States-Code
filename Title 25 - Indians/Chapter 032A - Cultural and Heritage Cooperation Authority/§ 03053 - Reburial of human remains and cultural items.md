@@ -6,7 +6,7 @@ In consultation with an affected Indian tribe or lineal descendant, the Secretar
 
 #### (b) Reburial
 
-With the consent of the affected Indian tribe or lineal descendent, the Secretary may recover and rebury, at Federal expense or using other available funds, human remains and cultural items described in subsection (a) at the National Forest System land identified under that subsection.
+With the consent of the affected Indian tribe or lineal descendent, the Secretary may recover and rebury, at Federal expense or using otheravailable funds, human remains and cultural items described in subsection (a) at the National Forest System land identified under that subsection.
 
 #### (c) Authorization of use
 

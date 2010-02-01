@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(B) is a result of the limited capability or capacity of the recipient,
 
-> &emsp;the Secretary may provide technical assistance for the recipient (directly or indirectly) that is designed to increase the capability and capacity of the recipient to administer assistance provided under this chapter in compliance with the requirements under this chapter, if the recipient enters into a performance agreement with the Secretary that specifies the compliance objectives that the recipient will be required to achieve by the termination date of the performance agreement.
+> &emsp;the Secretary may provide technical assistance for the recipient (directly or indirectly) that is designed to increase the capability and capacity of the recipient to administer assistance provided under this chapter in compliance with the requirements under this chapter, if the recipient enters into a performance agreement with the Secretary that specifies the compliance objectives that the recipientwill be required to achieve by the termination date of the performance agreement.
 
 #### (2) Performance agreement
 
@@ -76,7 +76,7 @@
 
 #### (2) Civil action
 
-&emsp;Upon such a referral, the Attorney General may bring a civil action in any United States district court having venue thereof for such relief as may be appropriate, including an action to recover the amount of the assistancefurnished under this chapter that was not expended in accordance with it, or for mandatory or injunctive relief.
+&emsp;Upon such a referral, the Attorney General may bring a civil action in any United States district court having venue thereof for such relief as may be appropriate, including an action to recover the amount of the assistance furnished under this chapter that was not expended in accordance with it, or for mandatory or injunctive relief.
 
 #### (d) Review
 

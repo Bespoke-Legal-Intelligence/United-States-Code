@@ -12,7 +12,7 @@ The following are the members of the Service:
 
 &emsp;(5) Foreign Service personnel, United States citizens appointed under section 3943 of this title, who provide skills and services required for effective performance by the Service.
 
-&emsp;(6) Foreign national employees, foreign nationals appointed under section 3943 of this title, who provide clerical, administrative, technical, fiscal, and other support at Foreign Service posts abroad.
+&emsp;(6) Foreign national employees, foreign nationals appointed under section 3943 of thistitle, who provide clerical, administrative, technical, fiscal, and other support at Foreign Service posts abroad.
 
 &emsp;(7) Consular agents, appointed under section 3943 of this title by the Secretary of State, who provide consular and related services as authorized by the Secretary of State at specified locations abroad where no Foreign Service posts are situated.
 

@@ -34,5 +34,5 @@ The Outer Continental Shelf Lands Act, referred to in second par., is act Aug. 7
 
 #### Review of Operation of Historic Preservation Fund and National Historic Preservation Program; Report to President and Congress
 
-Section 504 of Pub. L. 96–515 provided that: “The Secretary shall submit a report directly to the President and the Congress on or before June 1, 1986, reviewing the operation of the Historic Preservation Fund and the national historic preservation program since the enactment of this Act \[Dec. 12, 1980\] and recommending appropriate funding levels, the time period for the reauthorization for appropriations from the fund, and other appropriate legislative action to be undertaken upon the expiration of the current fund authorization.”
+Section 504 of Pub. L. 96–515 provided that: “The Secretary shall submit a report directly to the Presidentand the Congress on or before June 1, 1986, reviewing the operation of the Historic Preservation Fund and the national historic preservation program since the enactment of this Act \[Dec. 12, 1980\] and recommending appropriate funding levels, the time period for the reauthorization for appropriations from the fund, and other appropriate legislative action to be undertaken upon the expiration of the current fund authorization.”
 

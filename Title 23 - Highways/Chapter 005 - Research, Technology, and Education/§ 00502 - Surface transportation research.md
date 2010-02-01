@@ -320,7 +320,7 @@ Grants, cooperative agreements, and contracts.—Under the program, the Secretar
 
 #### References in Text
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(4), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classifiedgenerally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short title note set out under section 3701 of Title 15 and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(4), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short title note set out under section 3701 of Title 15 and Tables.
 
 #### Prior Provisions
 
@@ -782,7 +782,7 @@ Funding.—
 
 &emsp;&emsp;&emsp;“(i)
 
-Eligibility under section 5208.—The center established under this paragraph shall be eligiblefor funding under section 5208 of this Act \[set out in a note below\].
+Eligibility under section 5208.—The center established under this paragraph shall be eligible for funding under section 5208 of this Act \[set out in a note below\].
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -846,7 +846,7 @@ Notification of deficiencies.—In carrying out clause (i), if the Secretary det
 
 &emsp;&emsp;&emsp;“(iii)
 
-Disqualification.—If, after the end of the 180-day period that begins on the date of notification to the Center under clause (ii), the Secretary determines that the Center has not corrected each deficiency identified under clause (ii), the Secretary may, after notifying the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the determination, disqualify the Center from further participation under this section.
+Disqualification.—If, after the end of the 180-day period that begins on the date of notification to the Center under clause (ii), the Secretary determines that the Center has not corrected each deficiency identified under clause (ii), the Secretary may, after notifying the Committee onEnvironment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the determination, disqualify the Center from further participation under this section.
 
 &emsp;&emsp;“(D)
 
@@ -1202,7 +1202,7 @@ Commercial vehicle operations.—The term ‘commercial vehicle operations’—
 
 &emsp;“(3)
 
-Corridor.—The term ‘corridor’ means any major transportation route that includes parallel limited access highways, major arterials, or transit lines.
+Corridor.—The term ‘corridor’ means any major transportation route that includes parallellimited access highways, major arterials, or transit lines.
 
 &emsp;“(4)
 

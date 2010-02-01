@@ -60,9 +60,9 @@ A prior section 503 of act July 26, 1947, ch. 343, was renumbered section 505 an
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
+2004—Subsec. (b). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
 
-<b>2002</b>—Subsecs. (b), (c)(1) to (3). Pub. L. 107–306, §353(b)(3)(C), substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
+2002—Subsecs. (b), (c)(1) to (3). Pub. L. 107–306, §353(b)(3)(C), substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
 
 Subsec. (c)(4). Pub. L. 107–306, §353(b)(8), substituted “congressional intelligence committee” for “intelligence committee”.
 

@@ -88,7 +88,7 @@ The Secretary shall offer to enter into contracts under this section during the 
 
 #### References in Text
 
-Section 805 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2001, referred to in subsec. (d)(2), is section 805 of Pub. L. 106–387, §1(a) \[title VIII\], Oct. 28, 2000, 114 Stat. 1549, 1549A–50, which is not classified to the Code.
+Section 805 of the Agriculture, Rural Development, Food and Drug Administration, and Related AgenciesAppropriations Act, 2001, referred to in subsec. (d)(2), is section 805 of Pub. L. 106–387, §1(a) \[title VIII\], Oct. 28, 2000, 114 Stat. 1549, 1549A–50, which is not classified to the Code.
 
 #### Amendments
 

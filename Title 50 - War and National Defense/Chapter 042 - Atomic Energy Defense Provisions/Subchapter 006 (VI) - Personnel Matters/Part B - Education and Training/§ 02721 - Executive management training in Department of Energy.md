@@ -28,5 +28,5 @@ Section was formerly classified to section 7236 of Title 42, The Public Health a
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–136, §3141(i)(8)(D), made technical amendment to section catchline.
+2003—Pub. L. 108–136, §3141(i)(8)(D), made technical amendment to section catchline.
 

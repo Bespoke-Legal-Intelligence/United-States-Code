@@ -40,7 +40,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) the expansion and further development of national and local peer-support programs, so that such programs can more effectively serve women who receive a positive diagnosis for Down syndrome or other prenatal conditions or parents of infants with a postnatally diagnosed condition;
 
-&emsp;&emsp;&emsp;(iv) the establishment of a national registry, or network of local registries, of families willing to adopt newborns with Down syndrome or other prenatally or postnatally diagnosed conditions, andlinks to adoption agencies willing to place babies with Down syndrome or other prenatally or postnatally diagnosed conditions, with families willing to adopt; and
+&emsp;&emsp;&emsp;(iv) the establishment of a national registry, or network of local registries, of families willing to adopt newborns with Down syndrome or other prenatally or postnatally diagnosed conditions, and links to adoption agencies willing to place babies with Down syndrome or other prenatally or postnatally diagnosed conditions, with families willing to adopt; and
 
 &emsp;&emsp;&emsp;(v) the establishment of awareness and education programs for health care providers who provide, interpret, or inform parents of the results of prenatal tests for Down syndrome or other prenatally or postnatally diagnosed conditions, to patients, consistent with the purpose described in section 2(b)(1) <sup>1</sup> of the Prenatally and Postnatally Diagnosed Conditions Awareness Act.
 
@@ -105,4 +105,6 @@ Pub. L. 110–374, §2, Oct. 8, 2008, 122 Stat. 4051, provided that: “It is th
 &emsp;“(2) strengthen existing networks of support through the Centers for Disease Control and Prevention, the Health Resources and Services Administration, and other patient and provider outreach programs; and
 
 &emsp;“(3) ensure that patients receive up-to-date, evidence-based information about the accuracy of the test.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

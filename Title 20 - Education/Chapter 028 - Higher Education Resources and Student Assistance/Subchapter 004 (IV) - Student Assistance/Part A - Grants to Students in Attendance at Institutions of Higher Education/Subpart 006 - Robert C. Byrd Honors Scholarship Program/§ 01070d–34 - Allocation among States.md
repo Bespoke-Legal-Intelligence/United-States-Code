@@ -2,7 +2,7 @@
 
 #### (a) Allocation formula
 
-From the sums appropriated pursuant to the authority of section 1070d–41 of this title for any fiscal year, the Secretary shall allocate to each State that has an agreement under section 1070d–35 of this title an amount equal to $1,500 multiplied by the number of scholarships determined by the Secretary to be available to such State in accordance with subsection (b) of this section.
+From the sums appropriated pursuant to the authority of section 1070d–41 of this title for anyfiscal year, the Secretary shall allocate to each State that has an agreement under section 1070d–35 of this title an amount equal to $1,500 multiplied by the number of scholarships determined by the Secretary to be available to such State in accordance with subsection (b) of this section.
 
 #### (b) Number of scholarships available
 
@@ -14,7 +14,7 @@ For the purpose of this section, the population ages 5 through 17 in a State and
 
 #### (d) Consolidation by Insular Areas prohibited
 
-Notwithstanding section 1469a of title 48,<sup>1</sup> funds allocated under this part to an Insular Area described in that section shall be deemed to be direct payments to classes of individuals, and the Insular Area may not consolidate such funds with other funds received by the Insular Area from any department or agency of the United States Government.
+Notwithstanding section 1469a of title 48, funds allocated under this part to an Insular Area described in that section shall be deemed to be direct payments to classes of individuals, and the Insular Area may not consolidate such funds with other funds received by the Insular Area from any department or agency of the United States Government.
 
 #### (e) FAS eligibility
 
@@ -30,17 +30,15 @@ Notwithstanding section 1469a of title 48,<sup>1</sup> funds allocated under thi
 
 &emsp;A student from the Freely Associated States shall not be eligible to receive a scholarship under this subpart after September 30, 2004.
 
-(Pub. L. 89–329, title IV, §419D, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1344; amended Pub. L. 102–325, title IV, §406(c), July 23, 1992, 106 Stat. 509; Pub. L. 103–208, §2(b)(29), Dec. 20, 1993, 107 Stat. 2460; Pub. L.105–244, title IV, §409(a), Oct. 7, 1998, 112 Stat. 1668.)
-
-#### References in Text
-
-Section 1469a of title 48, referred to in text, was in the original “section 501 of Public Law 95–1134 (48 U.S.C. 1469a)” and was translated as reading “section 501 of Public Law 95–134” to reflect the probable intent of Congress.
+(Pub. L. 89–329, title IV, §419D, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1344; amended Pub. L. 102–325, title IV, §406(c), July 23, 1992, 106 Stat. 509; Pub. L. 103–208, §2(b)(29), Dec. 20, 1993, 107 Stat. 2460; Pub. L. 105–244, title IV, §409(a), Oct. 7, 1998, 112 Stat. 1668; Pub. L. 111–39, title IV, §401(a)(8), July 1, 2009, 123 Stat. 1939.)
 
 #### Prior Provisions
 
 A prior section 1070d–34, Pub. L. 89–329, title IV, §419D, as added Pub. L. 98–558, title VIII, §801(a), Oct. 30, 1984, 98 Stat. 2901, related to allocation among States of amounts for Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2009—Subsec. (d). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to section 1469a of title 48.
 
 1998—Subsec. (e). Pub. L. 105–244 added subsec. (e).
 
@@ -52,6 +50,10 @@ A prior section 1070d–34, Pub. L. 89–329, title IV, §419D, as added Pub. L.
 
 &emsp;“(2) $10,000, plus 5 percent of the amount to which a State is eligible under paragraph (1) of this section.”
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
@@ -59,6 +61,4 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–208 effective on and after Oct. 1, 1993, see section 5(b)(1) of Pub. L. 103–208, set out as a note under section 1051 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

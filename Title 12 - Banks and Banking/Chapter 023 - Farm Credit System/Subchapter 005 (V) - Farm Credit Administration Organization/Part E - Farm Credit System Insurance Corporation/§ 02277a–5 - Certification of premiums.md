@@ -22,7 +22,7 @@ On a date to be determined in the sole discretion of the Board of Directors of t
 
 #### (b) Contents and form of statement
 
-The certified statement required to be filed with the Corporation under subsection (a) of this section shall be in such form and set forth such supporting information as the Board of Directors shall prescribe, and shall be certified by the president of the bank or any other officer designated by its board of directors that to the best of the person's knowledge and belief the statement is true, correct, complete, and has been prepared in accordance with this part and all regulations issued thereunder.
+The certified statement required to be filed with the Corporation under subsection (a) of thissection shall be in such form and set forth such supporting information as the Board of Directors shall prescribe, and shall be certified by the president of the bank or any other officer designated by its board of directors that to the best of the person's knowledge and belief the statement is true, correct, complete, and has been prepared in accordance with this part and all regulations issued thereunder.
 
 #### (c) Premium payments
 
@@ -72,5 +72,5 @@ Amendment by Pub. L. 107–171 applicable with respect to determinations of prem
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, whichwas approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 

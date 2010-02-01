@@ -26,7 +26,7 @@ There are hereby authorized to be appropriated to the Smithsonian Institution fo
 
 1980—Subsec. (b). Pub. L. 96–268 substituted provisions authorizing appropriations of $803,000 for fiscal year 1981 and $1,000,000 for fiscal year 1982 for provisions which had authorized appropriations of $1,000,000 each year for fiscal years 1978, 1979, and 1980.
 
-1976—Subsec. (b). Pub. L. 94–336 substituted provisions authorizing the appropriation of $1,000,000 each year for fiscal years 1978, 1979, and 1980, for provisions under which there had been authorized to be appropriated whatever sums as might be necessary to carry out the purposes of the section, with a proviso that no more than $1,000,000 could be appropriated annually through fiscal year 1977, of which no less than $200,000, was to be allocated and used to carry out subsec. (a)(4) of this section.
+1976—Subsec. (b). Pub. L. 94–336 substituted provisions authorizing the appropriation of $1,000,000 eachyear for fiscal years 1978, 1979, and 1980, for provisions under which there had been authorized to be appropriated whatever sums as might be necessary to carry out the purposes of the section, with a proviso that no more than $1,000,000 could be appropriated annually through fiscal year 1977, of which no less than $200,000, was to be allocated and used to carry out subsec. (a)(4) of this section.
 
 1974—Subsec. (a)(4). Pub. L. 93–345, §1, inserted “, with emphasis on museum conservation and the development of a national institute for museum conservation” after “museum techniques”.
 

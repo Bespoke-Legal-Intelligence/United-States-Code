@@ -12,7 +12,7 @@ The Congress finds—
 
 &emsp;(5) mentally ill persons are often inadequately served by (A) programs of the Department of Health and Human Services such as medicare, medicaid, supplemental security income, and social services, and (B) programs of the Department of Housing and Urban Development, the Department of Labor, and other Federal agencies;
 
-&emsp;(6) health care systems often lack general health care personnel with adequate mental health care training and often lack mental health care personnel and consequently many individuals with some level of mental disorder do not receive appropriate mental health care;
+&emsp;(6) health care systems often lack general health care personnel with adequate mental health care training and often lack mentalhealth care personnel and consequently many individuals with some level of mental disorder do not receive appropriate mental health care;
 
 &emsp;(7) present knowledge of methods to prevent mental illness through discovery and elimination of its causes and through early detection and treatment is too limited;
 

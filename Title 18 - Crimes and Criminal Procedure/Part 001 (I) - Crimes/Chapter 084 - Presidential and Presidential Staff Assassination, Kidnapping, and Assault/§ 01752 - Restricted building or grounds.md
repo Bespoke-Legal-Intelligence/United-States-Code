@@ -2,7 +2,7 @@
 
 (a) It shall be unlawful for any person or group of persons—
 
-&emsp;(1) willfully and knowingly to enter or remain in any posted, cordoned off, or otherwise restricted area of a building or grounds where the President or other person protected by the Secret Service is or will be temporarily visiting;
+&emsp;(1) willfully and knowingly to enter or remain in any posted, cordoned off, or otherwise restricted area of a building or grounds wherethe President or other person protected by the Secret Service is or will be temporarily visiting;
 
 &emsp;(2) willfully and knowingly to enter or remain in any posted, cordoned off, or otherwise restricted area of a building or grounds so restricted in conjunction with an event designated as a special event of national significance;
 
@@ -28,7 +28,7 @@
 
 (e) As used in this section, the term “other person protected by the Secret Service” means any person whom the United States Secret Service is authorized to protect under section 3056 of this title when such person has not declined such protection.
 
-(Added Pub. L. 91–644, title V, §18, Jan. 2, 1971, 84 Stat. 1891; amended Pub. L. 97–308, §1, Oct. 14, 1982, 96 Stat. 1451; Pub. L. 98–587, §3(b), Oct. 30, 1984, 98 Stat. 3112; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub.L. 109–177, title VI, §602(a), (b)(1), Mar. 9, 2006, 120 Stat. 252.)
+(Added Pub. L. 91–644, title V, §18, Jan. 2, 1971, 84 Stat. 1891; amended Pub. L. 97–308, §1, Oct. 14, 1982, 96 Stat. 1451; Pub. L. 98–587, §3(b), Oct. 30, 1984, 98 Stat. 3112; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–177, title VI, §602(a), (b)(1), Mar. 9, 2006, 120 Stat. 252.)
 
 #### Amendments
 

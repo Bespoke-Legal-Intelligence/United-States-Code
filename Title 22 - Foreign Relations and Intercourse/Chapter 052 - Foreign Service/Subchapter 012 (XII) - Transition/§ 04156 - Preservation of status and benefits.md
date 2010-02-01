@@ -32,7 +32,7 @@ Any individual in the Foreign Service—
 
 &emsp;(2) who was not subject to section 633(a)(2) of the Foreign Service Act of 1946 immediately before February 15, 1981,
 
-> may not be retired under section 4008 of this title until 10 years after February 15, 1981, orwhen such individual first becomes eligible for an immediate annuity under subchapter VIII of this chapter, whichever occurs first.
+> may not be retired under section 4008 of this title until 10 years after February 15, 1981, or when such individual first becomes eligible for an immediate annuity under subchapter VIII of this chapter, whichever occurs first.
 
 (Pub. L. 96–465, title II, §2106, Oct. 17, 1980, 94 Stat. 2151.)
 

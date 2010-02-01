@@ -20,7 +20,7 @@ Each State educational agency receiving funds under this subpart shall provide t
 
 #### (c) Accountability
 
-The Secretary shall evaluate the effect of the activities assisted under this subpart on schooldropout prevention compared, if feasible, to a control group using control procedures. The Secretary may use funds appropriated for subpart 1 of this part to carry out this evaluation.
+The Secretary shall evaluate the effect of the activities assisted under this subpart on school dropout prevention compared, if feasible, to a control group using control procedures. The Secretary may use funds appropriated for subpart 1 of this part to carry out this evaluation.
 
 (Pub. L. 89–10, title I, §1830, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1616.)
 

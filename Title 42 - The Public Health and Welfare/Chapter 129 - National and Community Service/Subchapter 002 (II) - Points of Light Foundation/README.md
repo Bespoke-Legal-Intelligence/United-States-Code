@@ -5,7 +5,4 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 12661 - Findings and purpose](%C2%A7%2012661%20-%20Findings%20and%20purpose.md)
-- [&sect; 12662 - Authority](%C2%A7%2012662%20-%20Authority.md)
-- [&sect; 12663 - Grants to Foundation](%C2%A7%2012663%20-%20Grants%20to%20Foundation.md)
-- [&sect; 12664 - Eligibility of Foundation for grants](%C2%A7%2012664%20-%20Eligibility%20of%20Foundation%20for%20grants.md)
+- [&sect; 12661 to 12664 - Repealed. Pub. L. 111&#8211;13, title I, &sect;1831(a), Apr. 21, 2009, 123 Stat. 1578](%C2%A7%2012661%20to%2012664%20-%20Repealed.%20Pub.%20L.%20111%E2%80%9313%2C%20title%20I%2C%20%C2%A71831%28a%29%2C%20Apr.%2021%2C%202009%2C%20123%20Stat.%201578.md)

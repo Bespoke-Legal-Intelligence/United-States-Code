@@ -40,7 +40,7 @@ The entities specified in this subsection are the following:
 
 &emsp;(10) Non-Federal entities authorized under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\].
 
-(July 1, 1944, ch. 373, title III, §340D, as added Pub. L. 103–183, title I, §104, Dec. 14, 1993, 107 Stat. 2230; amended Pub. L. 106–310, div. A, title XXV, §2502(b), Oct. 17, 2000, 114 Stat. 1163; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664.)
+(July 1, 1944, ch. 373, title III, §340D, as added Pub. L. 103–183, title I, §104, Dec. 14, 1993, 107Stat. 2230; amended Pub. L. 106–310, div. A, title XXV, §2502(b), Oct. 17, 2000, 114 Stat. 1163; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664.)
 
 #### References in Text
 

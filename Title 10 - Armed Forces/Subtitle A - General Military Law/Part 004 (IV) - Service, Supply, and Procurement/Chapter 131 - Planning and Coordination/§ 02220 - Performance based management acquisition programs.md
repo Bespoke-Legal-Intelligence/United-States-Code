@@ -46,7 +46,7 @@ Responsibilities of Program Managers.—The program manager for each acquisition
 
 “(c)
 
-Report.—Not later than February 1, 1999, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report on the pilot programs. The report shall contain the following:
+Report.—Not later than February 1, 1999, the Secretary of Defense shall submit to the congressionaldefense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report on the pilot programs. The report shall contain the following:
 
 &emsp;“(1) A description of the acquisition programs designated as pilot programs under subsection (a).
 

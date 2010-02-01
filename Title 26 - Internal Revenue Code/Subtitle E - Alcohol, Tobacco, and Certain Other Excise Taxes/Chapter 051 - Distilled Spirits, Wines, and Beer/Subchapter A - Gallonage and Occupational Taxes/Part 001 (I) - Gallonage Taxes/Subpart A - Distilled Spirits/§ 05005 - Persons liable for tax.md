@@ -26,7 +26,7 @@ The distiller or importer of distilled spirits shall be liable for the taxes imp
 
 #### (d) Withdrawals free of tax
 
-All persons liable for the tax under subsection (a) or (b), or under any similar prior provisionsof internal revenue law, shall be relieved of such liability as to distilled spirits withdrawn free of tax under the provisions of section 5214(a)(1), (2), (3), (11), or (12), or under section 7510, at the time such spirits are so withdrawn from bonded premises.
+All persons liable for the tax under subsection (a) or (b), or under any similar prior provisions of internal revenue law, shall be relieved of such liability as to distilled spirits withdrawn free of tax under the provisions of section 5214(a)(1), (2), (3), (11), or (12), or under section 7510, at the time such spirits are so withdrawn from bonded premises.
 
 #### (e) Withdrawals without payment of tax
 
@@ -52,7 +52,7 @@ All persons liable for the tax under subsection (a) or (b), or under any similar
 
 &emsp;&emsp;<b>(6) For provisions relating to transfer of tax liability for wine, see section 5043(a)(1)(A).</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1318; amended Pub. L. 94–455, title XIX, §1905(a)(1), Oct. 4, 1976, 90 Stat. 1818; Pub. L. 95–176, §4(b), (d), Nov. 14, 1977, 91 Stat. 1366; Pub. L. 96–39, title VIII, §807(a)(3), July 26, 1979, 93 Stat. 280; Pub. L. 96–223, title II, §232(e)(2)(D), Apr. 2, 1980, 94 Stat. 280; Pub. L. 98–369, div. A, title IV, §455(b), July 18, 1984, 98 Stat. 823; Pub. L. 103–465, title I, §136(c)(2), Dec. 8, 1994, 108 Stat. 4841.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1318; amended Pub. L. 94–455, title XIX, §1905(a)(1), Oct. 4, 1976, 90 Stat. 1818; Pub. L. 95–176, §4(b), (d), Nov. 14, 1977, 91 Stat. 1366; Pub. L. 96–39, title VIII, §807(a)(3), July 26, 1979, 93 Stat. 280; Pub. L. 96–223, title II, §232(e)(2)(D), Apr. 2, 1980, 94 Stat. 280; Pub. L. 98–369, div. A,title IV, §455(b), July 18, 1984, 98 Stat. 823; Pub. L. 103–465, title I, §136(c)(2), Dec. 8, 1994, 108 Stat. 4841.)
 
 #### Prior Provisions
 

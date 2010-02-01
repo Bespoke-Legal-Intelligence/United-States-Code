@@ -12,7 +12,7 @@ Prompt Indemnification Required.—(1) In the event of a loss that is covered by
 
 (b)
 
-Source of Funds for Payment of Indemnity.—The Secretary of Defense may pay an indemnity described in subsection (a) from any funds available to the Department of Defense for operation and maintenance, and such sums asmay be necessary for payment of such indemnity are hereby authorized to be transferred to the Secretary of Transportation for such purpose.
+Source of Funds for Payment of Indemnity.—The Secretary of Defense may pay an indemnity described in subsection (a) from any funds available to the Department of Defense for operation and maintenance, and such sums as may be necessary for payment of such indemnity are hereby authorized to be transferred to the Secretary of Transportation for such purpose.
 
 (c)
 

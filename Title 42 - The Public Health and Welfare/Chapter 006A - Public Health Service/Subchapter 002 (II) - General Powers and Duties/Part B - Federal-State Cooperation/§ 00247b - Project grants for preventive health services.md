@@ -34,7 +34,7 @@ No grant may be made under subsection (a) of this section unless an application 
 
 &emsp;(C) the applicant will comply with the assurances provided with the application.
 
-(2) The Secretary shall review annually the activities undertaken by each recipient of a grant under subsection (a) of this section to determine if the program assisted by such grant is operating effectively to achieve its stated purposes and if the recipient is in compliance with the assurances provided the Secretary when applying for such grant.
+(2) The Secretary shall review annually the activities undertaken by each recipient of a grantunder subsection (a) of this section to determine if the program assisted by such grant is operating effectively to achieve its stated purposes and if the recipient is in compliance with the assurances provided the Secretary when applying for such grant.
 
 #### (d) Amount of grant; payment
 
@@ -192,7 +192,7 @@ Subsec. (i). Pub. L. 93–354, §4(1), substituted “communicable and other dis
 
 Subsec. (b). Pub. L. 92–449 substituted provisions of par. (1) respecting applications for grants, submission, approval, form, and content of applications; par. (2) respecting application requirements; and par. (3) incorporating former subsec. (g) provisions respecting consent of individuals for former definitions provision now incorporated in subsec. (h) of this section.
 
-Subsec. (c). Pub. L. 92–449 designated existing provisions as par. (1) and among minor punctuation changesinserted “under grants” after “Payments”; and redesignated former subsec. (d) as par. (2), inserted “of the Government” after “officer or employee”, substituted “in detailing the personnel” for “personal services”, and struck out provision that reduced amount shall, for purposes of subsec. (c), be deemed to have been paid to the agency.
+Subsec. (c). Pub. L. 92–449 designated existing provisions as par. (1) and among minor punctuation changes inserted “under grants” after “Payments”; and redesignated former subsec. (d) as par. (2), inserted “of the Government” after “officer or employee”, substituted “in detailing the personnel” for “personal services”, and struck out provision that reduced amount shall, for purposes of subsec. (c), be deemed to have been paid to the agency.
 
 Subsec. (d). Pub. L. 92–449 substituted provisions respecting authorization of appropriations and limitation on use of funds for provisions respecting grant reduction.
 
@@ -242,7 +242,7 @@ Section 102 of Pub. L. 92–449 provided that: “The amendment made by section 
 
 #### Assistance of Administrator of Veterans’ Affairs in Administration of National Swine Flu Immunization Program of 1976; Claims for Damages
 
-Pub. L. 94–420, §3, Sept. 23, 1976, 90 Stat. 1301, provided that, in order to assist Secretary of Health, Education, and Welfare in carrying out National Swine Flu Immunization Program of 1976 pursuant to 42 U.S.C. 247b(j), as added by Pub. L. 94–380, Administrator of Veterans’ Affairs, in accordance with 42 U.S.C. 2476(j), could authorize administration of vaccine, procured under such program and provided by Secretary at no cost to Veterans’ Administration, to eligible veterans (voluntarily requesting such vaccine) in connection with provision of care for a disability under chapter 17 of title 38, in any health care facility under jurisdiction of Administrator, and provided for consideration and processing ofclaims and suits for damages for personal injury or death, in connection with administration of vaccine.
+Pub. L. 94–420, §3, Sept. 23, 1976, 90 Stat. 1301, provided that, in order to assist Secretary of Health, Education, and Welfare in carrying out National Swine Flu Immunization Program of 1976 pursuant to 42 U.S.C. 247b(j), as added by Pub. L. 94–380, Administrator of Veterans’ Affairs, in accordance with 42 U.S.C. 2476(j), could authorize administration of vaccine, procured under such program and provided by Secretary at no cost to Veterans’ Administration, to eligible veterans (voluntarily requesting such vaccine) in connection with provision of care for a disability under chapter 17 of title 38, in any health care facility under jurisdiction of Administrator, and provided for consideration and processing of claims and suits for damages for personal injury or death, in connection with administration of vaccine.
 
 #### Study by Secretary of Scope and Extent of Liability Arising Out of Immunization Program; Alternative Protective Approaches; Report to Congress
 

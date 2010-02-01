@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement To Submit Plan Annually.—Concurrently with the submission of the President's annual budget request under section 1105of title 31, the Secretary of Defense shall submit to Congress each Strategic Sourcing Plan of Action for the Department of Defense (as identified in the Department of Defense Interim Guidance dated February 29, 2000, or any successor Department of Defense guidance or directive), for the following year.
+Requirement To Submit Plan Annually.—Concurrently with the submission of the President's annual budget request under section 1105 of title 31, the Secretary of Defense shall submit to Congress each Strategic Sourcing Plan of Action for the Department of Defense (as identified in the Department of Defense Interim Guidance dated February 29, 2000, or any successor Department of Defense guidance or directive), for the following year.
 
 (b)
 

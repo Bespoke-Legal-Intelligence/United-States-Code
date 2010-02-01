@@ -34,7 +34,7 @@ There are authorized to be appropriated to the Corporation, to remain available 
 
 #### References in Text
 
-The Federal Credit Reform Act of 1990, referred to in subsec. (d), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, as amended, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (d), is title V of Pub. L. 93–344, as added by Pub.L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, as amended, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 #### Codification
 
@@ -54,7 +54,7 @@ Subsec. (d). Pub. L. 108–158, §3(c), in first sentence, substituted “noncre
 
 Subsec. (f). Pub. L. 108–158, §3(d), substituted “noncredit account revolving fund” for “insurance and guaranty fund” in first sentence and for “Insurance Reserve” wherever appearing.
 
-1999—Subsec. (a)(2). Pub. L. 106–158, which directed the amendment of par. (2) by substituting “2003” for“1999” could not be executed because “1999” did not appear in text subsequent to amendment by Pub. L. 106–113. See below.
+1999—Subsec. (a)(2). Pub. L. 106–158, which directed the amendment of par. (2) by substituting “2003” for “1999” could not be executed because “1999” did not appear in text subsequent to amendment by Pub. L. 106–113. See below.
 
 Pub. L. 106–113 substituted “November 1, 2000” for “1999”.
 
@@ -151,6 +151,10 @@ Subsec. (d). Pub. L. 93–390, §2(3)(B), substituted “insurance or reinsuranc
 Subsec. (f). Pub. L. 93–390, §2(3)(C), inserted provisions authorizing appropriations to discharge liabilities under reinsurance or obligations of the Corporation purchased by the Secretary of the Treasury, provisions relating to appropriations to augment the Insurance Reserve, and provisions relating to the issuance, sale, etc., of notes, debentures, bonds, or other obligations by the Corporation for purchase by the Secretary of the Treasury.
 
 1973—Subsec. (a)(4). Pub. L. 93–189 substituted “December 31, 1974” for “June 30, 1974”.
+
+#### Extension of Period Under Subsection (a)(2)
+
+For delayed applicability of subsec. (a)(2), see section 7079(c) of Pub. L. 111–117, set out as a note under section 2194 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

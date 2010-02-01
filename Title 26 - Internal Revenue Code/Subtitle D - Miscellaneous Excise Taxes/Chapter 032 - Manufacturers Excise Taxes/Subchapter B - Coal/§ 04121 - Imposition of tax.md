@@ -148,7 +148,7 @@ In general.—Notwithstanding subsections (a)(1) and (c) of section 6416 and sec
 
 &emsp;&emsp;&emsp;“(iii) such coal producer files a claim for refund with the Secretary not later than the close of the 30-day period beginning on the date of the enactment of this Act,
 
-&nbsp;&nbsp;then the Secretary shall pay to such coal producer an amount equal to the tax paid under section 4121 of such Code on such coal exported or shipped by the coal producer or a party related to such coal producer, or caused by the coal producer or a party related to such coal producer to be exported or shipped.
+&nbsp;&nbsp;then the Secretary shall pay to such coal producer an amount equal to the tax paid under section 4121 of such Code on such coal exported or shipped bythe coal producer or a party related to such coal producer, or caused by the coal producer or a party related to such coal producer to be exported or shipped.
 
 &emsp;&emsp;“(B)
 
@@ -252,7 +252,7 @@ Exporters.—With respect to exporters, this section shall not confer standing u
 
 &emsp;“(2)
 
-Coal producers.—With respect to coal producers, this section shall not confer standing upon a coal producer to commence, or intervene in, any judicial or administrative proceeding concerning a claim for refund by an exporter of any Federal or State tax,fee, or royalty paid by the producer and alleged to have been passed on to an exporter.”
+Coal producers.—With respect to coal producers, this section shall not confer standing upon a coal producer to commence, or intervene in, any judicial or administrative proceeding concerning a claim for refund by an exporter of any Federal or State tax, fee, or royalty paid by the producer and alleged to have been passed on to an exporter.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

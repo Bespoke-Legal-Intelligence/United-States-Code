@@ -38,7 +38,7 @@ Subsecs. (b), (c). Pub. L. 104–127, §§852(b)(3)(C), 853(b)(4)(C), substitute
 
 1990—Pub. L. 101–624, §1605(b)(1)(A), amended section catchline generally.
 
-Subsec. (a). Pub. L. 101–624, §1605(b)(1)(B), in introductory provision, substituted “, the Advisory Board, and the Technology Board” for “and the Advisory Board” and inserted “and the Technology Board” before the dash, in par. (1), inserted “and the Technology Board”before “may direct”, and in par. (2), substituted “Council,” for “Council and” and inserted before period at end “, and one shall serve as the executive secretary to the Technology Board”.
+Subsec. (a). Pub. L. 101–624, §1605(b)(1)(B), in introductory provision, substituted “, the Advisory Board, and the Technology Board” for “and the Advisory Board” and inserted “and the Technology Board” before the dash, in par. (1), inserted “and the Technology Board” before “may direct”, and in par. (2), substituted “Council,” for “Council and” and inserted before period at end “, and one shall serve as the executive secretary to the Technology Board”.
 
 Subsecs. (b), (c). Pub. L. 101–624, §1605(b)(1)(C), (D), which directed the substitution of “, the Advisory Board, and the Technology Board” for “and the Advisory Board”, could not be executed because the phrase “and the Advisory Board” did not appear in text.
 

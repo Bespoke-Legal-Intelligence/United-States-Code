@@ -8,7 +8,7 @@
 
 #### (2) Certain payments disregarded
 
-&emsp;Paragraph (1) of this subsection shall be applied without regard to any payment made under section 603(a)(2), 603(a)(4), 603(a)(5), 606, or 613(f) of this title.
+&emsp;Paragraph (1) of this subsection shall be applied without regard to any payment made under section 603(a)(2), 603(a)(4), 603(a)(5), 603(c)(3), 606, or 613(f) of this title.
 
 #### (b) Entitlement to matching grant
 
@@ -38,7 +38,7 @@ As used in this section:
 
 #### (2) Ceiling amount
 
-&emsp;The term “ceiling amount” means, with respect to a territory and a fiscal year, the mandatory ceiling amount with respect to the territory, reduced for the fiscal year in accordance with subsection (e) <sup>1</sup> of this section, and reduced by the amount of any penalty imposed on the territory under any provision of law specified in subsection (a) of this section during the fiscal year.
+&emsp;The term “ceiling amount” means, with respect to a territory and a fiscal year, the mandatory ceiling amount with respect to the territory, reduced for the fiscal year in accordance with subsection (e) <sup>1</sup> of this section, andreduced by the amount of any penalty imposed on the territory under any provision of law specified in subsection (a) of this section during the fiscal year.
 
 #### (3) Family assistance grant
 
@@ -78,7 +78,7 @@ A territory to which an amount is paid under subsection (b) of this section may 
 
 Subject to subsection (g) of this section and section 1396u–5(e)(1)(B) of this title, the total amount certified by the Secretary under subchapter XIX of this chapter with respect to a fiscal year for payment to—
 
-&emsp;(1) Puerto Rico shall not exceed (A) $116,500,000 for fiscal year 1994 and (B) for each succeeding fiscal year the amount provided in this paragraph for the preceding fiscal year increased by the percentage increase in the medical care component of the consumer price index for all urban consumers (as published by the Bureau of Labor Statistics) for the twelve-month period ending in March preceding thebeginning of the fiscal year, rounded to the nearest $100,000;
+&emsp;(1) Puerto Rico shall not exceed (A) $116,500,000 for fiscal year 1994 and (B) for each succeeding fiscal year the amount provided in this paragraph for the preceding fiscal year increased by the percentage increase in the medical care component of the consumer price index for all urban consumers (as published by the Bureau of Labor Statistics) for the twelve-month period ending in March preceding the beginning of the fiscal year, rounded to the nearest $100,000;
 
 &emsp;(2) the Virgin Islands shall not exceed (A) $3,837,500 for fiscal year 1994, and (B) for each succeeding fiscal year the amount provided in this paragraph for the preceding fiscal year increased by the percentage increase referred to in paragraph (1)(B), rounded to the nearest $10,000;
 
@@ -134,7 +134,15 @@ Subject to subsection (g) of this section and section 1396u–5(e)(1)(B) of this
 
 > &emsp;Such amounts shall not be taken into account in applying paragraph (2) for fiscal year 2007 but shall be taken into account in applying such paragraph for fiscal year 2008 and subsequent fiscal years.
 
-(Aug. 14, 1935, ch. 531, title XI, §1108, as added Aug. 28, 1950, ch. 809, title III, pt. 6, §361(g), 64 Stat. 558; amended Aug. 1, 1956, ch. 836, title III, §351(c), 70 Stat. 855; Pub. L. 85–840, title V, §§507, 508, Aug. 28, 1958, 72 Stat. 1051; Pub. L. 86–778, title VI, §602, Sept. 13, 1960, 74 Stat. 992; Pub. L. 87–31, §6(a)(1), (2), (b), May 8, 1961, 75 Stat. 78; Pub. L. 87–64, title III, §303(d), June 30, 1961, 75 Stat. 143; Pub. L. 87–543, title I, §151, July 25, 1962, 76 Stat. 206; Pub. L. 89–97, title II, §208(a)(2), title IV, §408(a), July 30, 1965, 79 Stat. 355, 422; Pub. L. 90–248, title II, §248(a)(1), Jan. 2, 1968, 81 Stat. 918; Pub. L. 92–603, title II, §§271(a), (b), 272(b), Oct. 30, 1972, 86 Stat. 1451; Pub. L. 93–647, §3(i), Jan. 4, 1975, 88 Stat. 2350; Pub. L. 95–600, title VIII, §802(b), Nov. 6, 1978, 92 Stat. 2945; Pub. L. 96–272, title II, §207(c), title III, §§305(a), (b), June 17, 1980, 94 Stat. 526, 529, 530; Pub. L. 97–35, title XXI, §§2162(b)(1), 2193(c)(1), title XXIII, §2353(f), Aug. 13, 1981, 95 Stat. 806, 827, 872; Pub. L. 97–248, title I, §§136(b), 160(a), Sept. 3, 1982, 96 Stat. 375, 400; Pub. L. 98–369, div. B, title III, §2365(a), July 18, 1984, 98 Stat. 1108; Pub. L. 100–203, title IV, §4111(a), Dec. 22, 1987, 101 Stat. 1330–148; Pub. L. 100–485, title II, §202(c)(2), (3), title VI, §§601(b), (c)(2), 602(a), Oct. 13, 1988, 102 Stat. 2378, 2407, 2408; Pub. L. 103–66, title XIII, §13641(a), Aug. 10, 1993, 107 Stat. 646; Pub. L.104–193, title I, §103(b), Aug. 22, 1996, 110 Stat. 2160; Pub. L. 105–33, title IV, §4726, title V, §§5001(b), 5512, Aug. 5, 1997, 111 Stat. 519, 589, 619; Pub. L. 108–40, §3(b), June 30, 2003, 117 Stat. 836; Pub. L. 108–173, title I, §103(d)(2), Dec. 8, 2003, 117 Stat. 2159; Pub. L. 109–171, title VI, §6055, Feb. 8, 2006, 120 Stat. 96.)
+#### (4) Exclusion of certain expenditures from payment limits
+
+&emsp;With respect to fiscal years beginning with fiscal year 2009, if Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa qualify for a payment under subparagraph (A)(i), (B), or (F) of section 1396b(a)(3) of this title for a calendar quarter of such fiscal year, the payment shall not be taken into account in applying subsection (f) (as increased in accordance with paragraphs (1), (2), and (3) of this subsection) to such commonwealth or territory for such fiscal year.
+
+(Aug. 14, 1935, ch. 531, title XI, §1108, as added Aug. 28, 1950, ch. 809, title III, pt. 6, §361(g), 64 Stat. 558; amended Aug. 1, 1956, ch. 836, title III, §351(c), 70 Stat. 855; Pub. L. 85–840, title V, §§507, 508, Aug. 28, 1958, 72 Stat. 1051; Pub. L. 86–778, title VI, §602, Sept. 13, 1960, 74 Stat. 992; Pub. L. 87–31, §6(a)(1), (2), (b), May 8, 1961, 75 Stat. 78; Pub. L. 87–64, title III, §303(d), June 30, 1961, 75 Stat. 143; Pub. L. 87–543, title I, §151, July 25, 1962, 76 Stat. 206; Pub. L. 89–97, title II, §208(a)(2), title IV, §408(a), July 30, 1965, 79 Stat. 355, 422; Pub. L. 90–248, title II, §248(a)(1), Jan. 2, 1968, 81 Stat. 918; Pub. L. 92–603, title II, §§271(a), (b), 272(b), Oct. 30, 1972, 86 Stat. 1451; Pub. L. 93–647, §3(i), Jan. 4, 1975, 88 Stat. 2350; Pub. L. 95–600, title VIII, §802(b), Nov. 6, 1978, 92 Stat. 2945; Pub. L. 96–272, title II, §207(c), title III, §§305(a), (b), June 17, 1980, 94 Stat. 526, 529, 530; Pub. L. 97–35, title XXI, §§2162(b)(1), 2193(c)(1), title XXIII, §2353(f), Aug. 13, 1981, 95 Stat. 806, 827, 872; Pub. L. 97–248, title I, §§136(b), 160(a), Sept. 3, 1982, 96 Stat. 375, 400; Pub. L. 98–369, div. B, title III, §2365(a), July 18, 1984, 98 Stat. 1108; Pub. L. 100–203, title IV, §4111(a), Dec. 22, 1987, 101 Stat. 1330–148; Pub. L. 100–485, title II, §202(c)(2), (3), title VI, §§601(b), (c)(2), 602(a), Oct. 13, 1988, 102 Stat. 2378, 2407, 2408; Pub. L. 103–66, title XIII, §13641(a), Aug. 10, 1993, 107 Stat. 646; Pub. L. 104–193, title I, §103(b), Aug. 22, 1996, 110 Stat. 2160; Pub. L. 105–33, title IV, §4726, title V, §§5001(b), 5512, Aug. 5, 1997, 111 Stat. 519, 589, 619; Pub. L. 108–40, §3(b), June 30, 2003, 117 Stat. 836; Pub. L. 108–173, title I, §103(d)(2), Dec. 8, 2003, 117 Stat. 2159; Pub. L. 109–171, title VI, §6055, Feb. 8, 2006, 120 Stat. 96; Pub. L. 111–3, title I, §109, Feb. 4, 2009, 123 Stat. 25; Pub. L. 111–5, div. B, title II, §2101(c), (d)(1), Feb. 17, 2009, 123 Stat. 449.)
+
+#### Amendment of Subsection (a)(2)
+
+<i>Pub. L. 111–5, div. B, title II, §2101(d)(1), Feb. 17, 2009, 123 Stat. 449, provided that, effective Oct. 1, 2010, subsection (a)(2) of this section is amended by striking out “603(c)(3),”.</i>
 
 #### References in Text
 
@@ -145,6 +153,10 @@ Part F of subchapter IV of this chapter, referred to in subsec. (b)(1)(B)(ii), w
 Subsection (e) of this section, referred to in subsec. (c)(2), was repealed by Pub. L. 105–33, title V, §5512(c), Aug. 5, 1997, 111 Stat. 619.
 
 #### Amendments
+
+2009—Subsec. (a)(2). Pub. L. 111–5, §2101(c), inserted “603(c)(3),” after “603(a)(5),”.
+
+Subsec. (g)(4). Pub. L. 111–3 added par. (4).
 
 2006—Subsec. (g)(2). Pub. L. 109–171, §6055(1), inserted “and subject to paragraph (3)” after “subsection (f) of this section” in introductory provisions.
 
@@ -164,7 +176,7 @@ Subsec. (e). Pub. L. 105–33, §5512(c), struck out heading and text of subsec.
 
 &emsp;“(1) the total amount expended by the territory under all programs of the territory operated pursuant to the provisions of law specified in subsection (a) of this section (as such provisions were in effect for fiscal year 1995) for fiscal year 1995; exceeds
 
-&emsp;“(2) the total amount expended by the territory under all programs of the territory that are funded under the provisions of law specified in subsection (a) of this section for the fiscal year that immediately precedes the fiscal year referred to in the matter preceding paragraph (1).”
+&emsp;“(2) the total amount expended by the territory under all programs of the territory that are fundedunder the provisions of law specified in subsection (a) of this section for the fiscal year that immediately precedes the fiscal year referred to in the matter preceding paragraph (1).”
 
 Subsec. (f). Pub. L. 105–33, §4726(1), substituted “Subject to subsection (g) of this section, the” for “The” in introductory provisions.
 
@@ -252,7 +264,7 @@ Subsec. (c)(2). Pub. L. 92–603, §271(b), substituted “$1,000,000” for “
 
 Subsec. (d). Pub. L. 92–603, §272(b), inserted “, American Samoa, and the Trust Territory of the Pacific Islands” after “allot such smaller amounts to Guam”.
 
-1968—Pub. L. 90–248 amended section generally and, among other changes, raised the present $9.8 million limit for Federal financial participation in the public assistance programs of Puerto Rico to $12.5 million for fiscal 1968 with further increases in succeeding fiscal years to a maximum of $24 million for fiscal 1972 and each fiscal year thereafter, increased the dollar maximums for the Virgin Islands from $330,000 to $800,000 for fiscal 1972 and thereafter and for Guam from $450,000 to $1.1 million for fiscal 1972 and thereafter, authorized payments for family planning services and services referred to in section 602(a)(19) of this title, with respect to any fiscal year, of not more than $2 million for Puerto Rico, $65,000 for the Virgin Islands, and $90,000 for Guam, imposed a maximum on Federal payments for the medical assistance program under subchapter XIX of this chapter, with respect to any fiscal year, of $20 million for Puerto Rico, $650,000 for the Virgin Islands, and $900,000 for Guam, and provided that notwithstanding sections 702(a) and 712(a) of this title and sections 621, 703(1), and 704(1) of this title, as amended by the Social Security Amendments of 1967, and until Congress otherwise provides, the Secretary shall, in lieu of the initial allotments specified in such sections, allot smaller amounts to Guam as he deems appropriate.
+1968—Pub. L. 90–248 amended section generally and, among other changes, raised the present $9.8 million limit for Federal financial participation in the public assistance programs of Puerto Rico to $12.5 million for fiscal 1968 with further increases in succeeding fiscal years to a maximum of $24 million for fiscal 1972 and each fiscal year thereafter, increased the dollar maximums for the Virgin Islands from $330,000 to $800,000 for fiscal 1972 and thereafter and for Guam from $450,000 to $1.1 million for fiscal 1972 and thereafter, authorizedpayments for family planning services and services referred to in section 602(a)(19) of this title, with respect to any fiscal year, of not more than $2 million for Puerto Rico, $65,000 for the Virgin Islands, and $90,000 for Guam, imposed a maximum on Federal payments for the medical assistance program under subchapter XIX of this chapter, with respect to any fiscal year, of $20 million for Puerto Rico, $650,000 for the Virgin Islands, and $900,000 for Guam, and provided that notwithstanding sections 702(a) and 712(a) of this title and sections 621, 703(1), and 704(1) of this title, as amended by the Social Security Amendments of 1967, and until Congress otherwise provides, the Secretary shall, in lieu of the initial allotments specified in such sections, allot smaller amounts to Guam as he deems appropriate.
 
 1965—Pub. L. 89–97 substituted “and 722(a)” for “722(a) and 727(a)” and struck out “(or, in the case of section 727(a) of this title” after “in lieu of the initial”, and removed the litigation requiring that, with respect to any fiscal year, $625,000 of the $9,800,000 certified for payments to Puerto Rico, $18,750 of the $330,000 certified for payments to the Virgin Islands, and $25,000 of the $450,000 certified for payments to Guam, be used only for payments with respect to section 303(a)(2)(B) or 1383(a)(2)(B) of this title.
 
@@ -267,6 +279,12 @@ Pub. L. 87–31 increased the grant to Puerto Rico for fiscal year ending June 3
 1958—Pub. L. 85–840, §§507, 508, amended section. Section 507(a) substituted “$8,500,000” for “$5,312,500” and “$300,000” for “$200,000”, and limited the total amount certified for payment to Guam with respect to any fiscal year to not more than $400,000. Section 507(b) amended catchline to include Guam. Section 508 inserted provisions requiring the Secretary, in lieu of the allotments specified in sections 702(a)(2), 712(a)(2) and 722(a) of this title, to allot such smaller amounts as he may deem appropriate to Guam, notwithstanding provisions of such sections and until such time as the Congress may by appropriation or other law otherwise provide.
 
 1956—Act Aug. 1, 1956, substituted “$5,312,500” for “$4,250,000”, and “$200,000” for “$160,000”.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–5, div. B, title II, §2101(d)(1), Feb. 17, 2009, 123 Stat. 449, provided that the amendment by section 2101(d)(1) of Pub. L. 111–5 is effective Oct. 1, 2010.
+
+Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of this title.
 
 #### Effective Date of 2003 Amendment
 

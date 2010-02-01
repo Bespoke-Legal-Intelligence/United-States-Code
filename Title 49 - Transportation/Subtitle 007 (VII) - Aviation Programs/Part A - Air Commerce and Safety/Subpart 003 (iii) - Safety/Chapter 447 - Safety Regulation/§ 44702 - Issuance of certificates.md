@@ -120,7 +120,7 @@ In subsection (a), the reference to a type certificate and production certificat
 
 In subsection (b)(1), before subclause (A), the word “full” is omitted as surplus. In clause (1)(A), the word “provide” is substituted for “perform” for consistency in the revised title.
 
-In subsection (d)(1), before clause (A), the words “In exercising the powers and duties vested in him by thischapter” and “properly” are omitted as surplus. The words “or employees” are omitted because of 1:1. The word “matter” is substituted for “work, business, or function” to eliminate unnecessary words. In clause (B), the words “in accordance with standards established by him” are omitted as surplus.
+In subsection (d)(1), before clause (A), the words “In exercising the powers and duties vested in him by this chapter” and “properly” are omitted as surplus. The words “or employees” are omitted because of 1:1. The word “matter” is substituted for “work, business, or function” to eliminate unnecessary words. In clause (B), the words “in accordance with standards established by him” are omitted as surplus.
 
 In subsection (d)(2), the words “made by him” are omitted as surplus.
 

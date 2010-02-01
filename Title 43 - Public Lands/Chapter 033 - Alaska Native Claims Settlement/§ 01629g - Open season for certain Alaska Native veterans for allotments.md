@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(5) Cemetery sites.
 
-(4) A person who qualifies for an allotment on lands prohibited from conveyance by a provision of subsection (a)(3) of this section may select an alternative allotment from the following lands located within the geographic boundaries of the same Regional Corporation as the excluded allotment—
+(4) A person who qualifies for an allotment on lands prohibited from conveyance by a provision of subsection (a)(3) of this section may select an alternative allotment from the following landslocated within the geographic boundaries of the same Regional Corporation as the excluded allotment—
 
 &emsp;(A) lands withdrawn pursuant to section 1610(a)(1) of this title which were not selected, or were relinquished after selection;
 
@@ -108,7 +108,7 @@ No later than 18 months after October 21, 1998, the Secretary of the Interior sh
 
 Act of May 17, 1906, referred to in subsecs. (a)(1), (b)(1)(A), (3) and (c)(1)(B), (C), is act May 17, 1906, ch. 2469, 34 Stat. 197, as amended, which was classified to sections 270–1 to 270–3 of this title prior to its repeal by Pub. L. 92–203, §18(a), Dec. 18, 1971, 85 Stat. 710.
 
-The Alaska Statehood Act, referred to in subsec. (a)(3)(B), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, referred to in subsec. (a)(3)(B), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 Public land law, referred to in subsec. (a)(3)(I), is classified generally to this title.
 

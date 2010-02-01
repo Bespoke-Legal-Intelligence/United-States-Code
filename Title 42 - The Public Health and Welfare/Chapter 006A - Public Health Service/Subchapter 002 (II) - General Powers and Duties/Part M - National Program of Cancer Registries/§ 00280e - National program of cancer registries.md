@@ -60,7 +60,7 @@
 
 #### (1) In general
 
-&emsp;No grant shall be made by the Secretary under subsection (a) of this section unless an application has been submitted to, and approved by, the Secretary. Such application shall be in such form, submitted in such a manner, and be accompanied by such information, as the Secretary may specify. No such application may be approved unless it contains assurances that the applicant will usethe funds provided only for the purposes specified in the approved application and in accordance with the requirements of this section, that the application will establish such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement and accounting of Federal funds paid to the applicant under subsection (a) of this section, and that the applicant will comply with the peer review requirements under sections 289 and 289a of this title.
+&emsp;No grant shall be made by the Secretary under subsection (a) of this section unless an application has been submitted to, and approved by, the Secretary. Such application shall be in such form, submitted in such a manner, and be accompanied by such information, as the Secretary may specify. No such application may be approved unless it contains assurances that the applicant will use the funds provided only for the purposes specified in the approved application and in accordance with the requirements of this section, that the application will establish such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement and accounting of Federal funds paid to the applicant under subsection (a) of this section, and that the applicant will comply with the peer review requirements under sections 289 and 289a of this title.
 
 #### (2) Assurances
 
@@ -82,7 +82,7 @@
 
 &emsp;&emsp;&emsp;(iv) for the reporting of cancer case data to the statewide cancer registry in such a format, with such data elements, and in accordance with such standards of quality timeliness and completeness, as may be established by the Secretary;
 
-&emsp;&emsp;&emsp;(v) for the protection of the confidentiality of all cancer case data reported to the statewide cancer registry, including a prohibition on disclosure to any person of information reported to the statewide cancer registry that identifies, or could lead to the identification of, an individual cancer patient, except for disclosure to other State cancer registries and local and State health officers;
+&emsp;&emsp;&emsp;(v) for the protection of the confidentiality of all cancer case data reported to the statewide cancer registry, including a prohibition on disclosure to any person of information reported to the statewide cancer registry that identifies, or could lead to the identification of, an individual cancerpatient, except for disclosure to other State cancer registries and local and State health officers;
 
 &emsp;&emsp;&emsp;(vi) for a means by which confidential case data may in accordance with State law be disclosed to cancer researchers for the purposes of cancer prevention, control and research;
 
@@ -112,7 +112,7 @@
 
 In the case of a grant under subsection (a) of this section to any State specified in subsection (b) of section 280e–3 of this title, the Secretary may establish such conditions regarding the receipt of the grant as the Secretary determines are necessary to facilitate the collection of data for the study carried out under such section.
 
-(July 1, 1944, ch. 373, title III, §399B, formerly §399H, as added Pub. L. 102–515, §3, Oct. 24, 1992,106 Stat. 3372; renumbered §399B and amended Pub. L. 106–310, div. A, title V, §502(2)(A), (B), Oct. 17, 2000, 114 Stat. 1115; Pub. L. 107–260, §2(a), Oct. 29, 2002, 116 Stat. 1743.)
+(July 1, 1944, ch. 373, title III, §399B, formerly §399H, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3372; renumbered §399B and amended Pub. L. 106–310, div. A, title V, §502(2)(A), (B), Oct. 17, 2000, 114 Stat. 1115; Pub. L. 107–260, §2(a), Oct. 29, 2002, 116 Stat. 1743.)
 
 #### Amendments
 

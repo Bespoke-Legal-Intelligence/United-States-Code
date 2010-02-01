@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-After consultation with the Commissioner of Food and Drugs, the Director of the National Institutes of Health, acting through the Director of the National Institute of Allergy and Infectious Diseases, may make grants to public entities and nonprofit private entities concerned with acquired immune deficiency syndrome, and may enter into contracts with public and private such <sup>1</sup> entities, for the purpose of planning and conducting, in the community involved, clinical trials of experimental treatments for infection with the etiologic agent for such syndrome that are approved by the Commissioner of Food and Drugs for investigational use under regulations issued under section 355 of title 21.
+After consultation with the Commissioner of Food and Drugs, the Director of the National Institutes of Health, acting through the Director of the National Institute of Allergy and Infectious Diseases, may make grants to public entities and nonprofit private entities concerned with acquired immune deficiency syndrome, and may enter into contracts with public and private such <sup>1</sup> entities, for the purpose of planningand conducting, in the community involved, clinical trials of experimental treatments for infection with the etiologic agent for such syndrome that are approved by the Commissioner of Food and Drugs for investigational use under regulations issued under section 355 of title 21.
 
 #### (b) Requirement of certain projects
 
@@ -84,7 +84,7 @@ Findings.—Congress finds that—
 
 &emsp;“(2) community-based clinical trials provide an efficient and cost-effective means to develop new HIV-related treatments, benefiting all people living with HIV disease and other illnesses; and
 
-&emsp;“(3) because the community-based clinical trials model has a proven ability to conduct rapid trials that meet the very highest standards of scientific inquiry, this program should be reauthorized and significantly expanded.
+&emsp;“(3) because the community-based clinical trials model has a proven ability to conduct rapid trialsthat meet the very highest standards of scientific inquiry, this program should be reauthorized and significantly expanded.
 
 “(b)
 

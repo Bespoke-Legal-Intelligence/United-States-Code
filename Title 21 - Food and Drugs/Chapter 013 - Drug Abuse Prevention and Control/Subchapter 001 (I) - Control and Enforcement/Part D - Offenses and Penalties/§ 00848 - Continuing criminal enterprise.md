@@ -88,7 +88,7 @@ Pub. L. 100–690, §7001(a)(1), which directed redesignation of former subsec. 
 
 Subsecs. (g) to (r). Pub. L. 100–690, §7001(b), added subsecs. (g) to (r).
 
-1986—Subsec. (a). Pub. L. 99–570, §1252, substituted “to a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual,” for “to afine of not more than $100,000,” and “to a fine not to exceed the greater of twice the amount authorized in accordance with the provisions of title 18 or $4,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual,” for “to a fine of not more than $200,000,”.
+1986—Subsec. (a). Pub. L. 99–570, §1252, substituted “to a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual,” for “to a fine of not more than $100,000,” and “to a fine not to exceed the greater of twice the amount authorized in accordance with the provisions of title 18 or $4,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual,” for “to a fine of not more than $200,000,”.
 
 Subsecs. (b) to (e). Pub. L. 99–570, §1253, added subsec. (b) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively, which resulted in there not being a subsec. (c).
 

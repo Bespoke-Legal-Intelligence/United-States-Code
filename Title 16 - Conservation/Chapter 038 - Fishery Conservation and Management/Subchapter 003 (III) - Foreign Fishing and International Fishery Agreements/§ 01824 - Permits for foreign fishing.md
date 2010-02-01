@@ -52,7 +52,7 @@ After February 28, 1977, no foreign fishing vessel shall engage in fishing withi
 
 &emsp;(A) After receipt of any application transmitted under paragraph (4)(A), the Secretary shall consult with the Secretary of State and, with respect to enforcement, with the Secretary of the department in which the Coast Guard is operating. The Secretary, after taking into consideration the views and recommendations of such Secretaries, and any comments submitted by any Council under paragraph (5), may approve, subject to subparagraph (B), the application, if he determines that the fishing described in the application will meet the requirements of this chapter, or he may disapprove all or any portion of the application.
 
-&emsp;(B)(i) In the case of any application which specifies that one or more foreign fishing vessels propose to receive at sea United States harvested fish from vessels of the United States, the Secretary may approve the application unless the Secretary determines, on the basis of the views, recommendations, and comments referred to in subparagraph (A) and other pertinent information, that United States fish processors have adequate capacity, and will utilize such capacity, to process all United States harvested fish from the fishery concerned.
+&emsp;(B)(i) In the case of any application which specifies that one or more foreign fishing vessels propose to receive at sea United States harvested fish from vessels of the United States, the Secretary may approve the application unless the Secretary determines, on thebasis of the views, recommendations, and comments referred to in subparagraph (A) and other pertinent information, that United States fish processors have adequate capacity, and will utilize such capacity, to process all United States harvested fish from the fishery concerned.
 
 &emsp;(ii) The amount or tonnage of United States harvested fish which may be received at sea during any year by foreign fishing vessels under permits approved under this paragraph may not exceed that portion of the optimum yield of the fishery concerned which will not be utilized by United States fish processors.
 
@@ -96,7 +96,7 @@ After February 28, 1977, no foreign fishing vessel shall engage in fishing withi
 
 #### (11) Issuance of permits
 
-&emsp;If a foreign nation notifies the Secretary of State of its acceptance of the conditions andrestrictions established by the Secretary under paragraph (7), the Secretary of State shall promptly transmit such notification to the Secretary. Upon payment of the applicable fees established pursuant to paragraph (10), the Secretary shall thereupon issue to such foreign nation, through the Secretary of State, permits for the appropriate fishing vessels of that nation. Each permit shall contain a statement of all conditions and restrictions established under paragraph (7) which apply to the fishing vessel for which the permit is issued.
+&emsp;If a foreign nation notifies the Secretary of State of its acceptance of the conditions and restrictions established by the Secretary under paragraph (7), the Secretary of State shall promptly transmit such notification to the Secretary. Upon payment of the applicable fees established pursuant to paragraph (10), the Secretary shall thereupon issue to such foreign nation, through the Secretary of State, permits for the appropriate fishing vessels of that nation. Each permit shall contain a statement of all conditions and restrictions established under paragraph (7) which apply to the fishing vessel for which the permit is issued.
 
 #### (c) Registration permits
 
@@ -106,7 +106,7 @@ The Secretary of State, in cooperation with the Secretary, shall issue annually 
 
 #### (1) Authority to issue permits
 
-&emsp;The Secretary may issue a transshipment permit under this subsection which authorizes a vessel other than a vessel of the United States to engage in fishing consisting solely of transporting fish or fish products at sea from a point within the exclusive economic zone or, with the concurrence of a State, within the boundaries of that State, to a point outside the United States to any person who—
+&emsp;The Secretary may issue a transshipment permit under this subsection which authorizesa vessel other than a vessel of the United States to engage in fishing consisting solely of transporting fish or fish products at sea from a point within the exclusive economic zone or, with the concurrence of a State, within the boundaries of that State, to a point outside the United States to any person who—
 
 &emsp;&emsp;(A) submits an application which is approved by the Secretary under paragraph (3); and
 
@@ -152,7 +152,7 @@ The Secretary of State, in cooperation with the Secretary, shall issue annually 
 
 &emsp;&emsp;(A) in the case of American Samoa, Guam, or the Northern Mariana Islands, at the request and with the concurrence of, and in consultation with, the Governor of the Pacific Insular Area to which such agreement applies; and
 
-&emsp;&emsp;(B) in the case of a Pacific Insular Area other than American Samoa, Guam, or theNorthern Mariana Islands, at the request of the Western Pacific Council.
+&emsp;&emsp;(B) in the case of a Pacific Insular Area other than American Samoa, Guam, or the Northern Mariana Islands, at the request of the Western Pacific Council.
 
 #### (2) Agreement terms and conditions
 
@@ -238,7 +238,7 @@ Section 112(b) of the Sustainable Fisheries Act, referred to in subsec. (e)(4)(A
 
 #### Amendments
 
-2007—Subsec. (e)(4)(A)(i). Pub. L. 109–479, §404(b), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “establishment of Pacific Insular Areaobserver programs, approved by the Secretary in consultation with the Western Pacific Council, that provide observer coverage for foreign fishing under Pacific Insular Area fishery agreements that is at least equal in effectiveness to the program established by the Secretary under section 1821(h) of this title;”.
+2007—Subsec. (e)(4)(A)(i). Pub. L. 109–479, §404(b), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “establishment of Pacific Insular Area observer programs, approved by the Secretary in consultation with the Western Pacific Council, that provide observer coverage for foreign fishing under Pacific Insular Area fishery agreements that is at least equal in effectiveness to the program established by the Secretary under section 1821(h) of this title;”.
 
 Subsec. (e)(7). Pub. L. 109–479, §6(1), inserted “and any funds or contributions received in support of conservation and management objectives under a marine conservation plan” after “agreement” in introductory provisions.
 
@@ -260,7 +260,7 @@ Subsec. (b)(12). Pub. L. 101–627, §106(b), struck out par. (12) which related
 
 1986—Subsec. (a). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
-Subsec. (b)(1). Pub. L. 99–659, §102(1), inserted provision that no permit issued under this section may be valid for longer than a year, with section 558(c) of title 5 inapplicable to the renewal of any such permit.
+Subsec. (b)(1). Pub. L. 99–659, §102(1), inserted provision that no permit issued under this section may bevalid for longer than a year, with section 558(c) of title 5 inapplicable to the renewal of any such permit.
 
 Subsec. (b)(3)(G). Pub. L. 99–659, §103(b), added subpar. (G).
 
@@ -296,7 +296,7 @@ Subsec. (b)(5). Pub. L. 97–453, §3(4), substituted “After receiving a copy 
 
 Subsec. (b)(8)(D). Pub. L. 96–470, §111(b), struck out subpar. (D) which required the Secretary to promptly transmit a copy of each application to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committees on Commerce and Foreign Relations of the Senate.
 
-Subsec. (b)(10). Pub. L. 96–561, §232(b), substituted provision directing that fees imposed under this paragraph be at least in an amount sufficient to return to the United States an amount which bears to the total cost of carrying out the provisions of this chapter, including, but not limited to, fishery conservation and management, fisheries research, administration, and enforcement, but excluding costs for observers coveredby surcharges under section 1821(i)(4) of this title, during each fiscal year, the same ratio as the aggregate quantity of fish harvested by foreign fishing vessels within the fishery conservation zone during the preceding year bears to the aggregate quantity of fish harvested by both foreign and domestic fishing vessels within such zone and the territorial waters of the United States during such preceding year and that the fees collected for permits issued after 1981 be transferred to the fisheries loan fund for provision directing that fees be formulated so as to ensure that receipts resulting from payments for fees issued for 1981 are not less than an amount equal to 7 percent of the ex vessel value of the total harvest by foreign fishing vessels in the fishery conservation zone during 1979 and that the fees collected for permits issued for 1981 be transferred to the fisheries loan fund.
+Subsec. (b)(10). Pub. L. 96–561, §232(b), substituted provision directing that fees imposed under this paragraph be at least in an amount sufficient to return to the United States an amount which bears to the total cost of carrying out the provisions of this chapter, including, but not limited to, fishery conservation and management, fisheries research, administration, and enforcement, but excluding costs for observers covered by surcharges under section 1821(i)(4) of this title, during each fiscal year, the same ratio as the aggregate quantity of fish harvested by foreign fishing vessels within the fishery conservation zone during the preceding year bears to the aggregate quantity of fish harvested by both foreign and domestic fishing vessels within such zone and the territorial waters of the United States during such preceding year and that the fees collected for permits issued after 1981 be transferred to the fisheries loan fund for provision directing that fees be formulated so as to ensure that receipts resulting from payments for fees issued for 1981 are not less than an amount equal to 7 percent of the ex vessel value of the total harvest by foreign fishing vessels in the fishery conservation zone during 1979 and that the fees collected for permits issued for 1981 be transferred to the fisheries loan fund.
 
 Pub. L. 96–561, §232(a), substituted provision directing that fees be formulated so as to ensure that receipts resulting from payments for fees issued for 1981 are not less than an amount equal to 7 percent of the ex vessel value of the total harvest by foreign fishing vessels in the fishery conservation zone during 1979 and that the fees collected for permits issued for 1981 be transferred to the fisheries loan fund for provision permitting the Secretary, in determining the level of fees, to take into account the cost of carrying out the provisions of this chapter with respect to foreign fishing, including, but not limited to, the cost of fishery conservation and management, fisheries research, administration, and enforcement.
 
@@ -310,7 +310,7 @@ Subsec. (b)(7)(D) to (F). Pub. L. 95–354, §4(8), added subpars. (D) and (E) a
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
+Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulationseffective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
 
 #### Effective Date of 1980 Amendment
 

@@ -172,7 +172,7 @@ In this subchapter:
 
 &emsp;&emsp;(A) High-quality teacher mentoring.
 
-&emsp;&emsp;(B) Periodic, structured time for collaboration with teachers in the same department or field, including mentor teachers, as well as time for information-sharing among teachers, principals, administrators, other appropriate instructional staff, and participating faculty in the partner institution.
+&emsp;&emsp;(B) Periodic, structured time for collaboration with teachers in the same department or field, including mentor teachers, as well as time for information-sharing among teachers, principals, administrators, otherappropriate instructional staff, and participating faculty in the partner institution.
 
 &emsp;&emsp;(C) The application of empirically-based practice and scientifically valid research on instructional practices.
 
@@ -226,7 +226,7 @@ In this subchapter:
 
 &emsp;The term “principles of scientific research” means principles of research that—
 
-&emsp;&emsp;(A) apply rigorous, systematic, and objective methodology to obtain reliable andvalid knowledge relevant to education activities and programs;
+&emsp;&emsp;(A) apply rigorous, systematic, and objective methodology to obtain reliable and valid knowledge relevant to education activities and programs;
 
 &emsp;&emsp;(B) present findings and make claims that are appropriate to, and supported by, the methods that have been employed; and
 
@@ -294,7 +294,11 @@ In this subchapter:
 
 &emsp;&emsp;(C) acquires effective teaching skills; and
 
-&emsp;&emsp;(D) prior to completion of the program, earns a master's degree, attains full State teacher certification or licensure, and becomes highly qualified.
+&emsp;&emsp;(D) prior to completion of the program—
+
+&emsp;&emsp;&emsp;(i) attains full State certification or licensure and becomes highly qualified; and
+
+&emsp;&emsp;&emsp;(ii) acquires a master's degree not later than 18 months after beginning the program.
 
 #### (23) Teaching skills
 
@@ -322,7 +326,7 @@ In this subchapter:
 
 &emsp;&emsp;(H) use, in the case of an early childhood educator, age-appropriate and developmentally appropriate strategies and practices for children in early childhood education programs.
 
-(Pub. L. 89–329, title II, §200 as added Pub. L. 110–315, title II, §201(1), Aug. 14, 2008, 122 Stat. 3126.)
+(Pub. L. 89–329, title II, §200 as added Pub. L. 110–315, title II, §201(1), Aug. 14, 2008, 122 Stat. 3126; amended Pub. L. 111–39, title II, §201(1), July 1, 2009, 123 Stat. 1936.)
 
 #### References in Text
 
@@ -334,9 +338,17 @@ The Social Security Act, referred to in par. (11)(A)(i)(III), (B)(ii)(I)(cc), is
 
 A prior section 1021, Pub. L. 89–329, title II, §201, as added Pub. L. 105–244, title II, §201, Oct. 7, 1998, 112 Stat. 1623; amended Pub. L. 107–110, title X, §1051(2), Jan. 8, 2002, 115 Stat. 2080, related to purposes and definitions, prior to repeal by Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133.
 
-Another prior section 1021, Pub. L. 89–329, title II, §201, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1383; amended Pub. L. 99–498, title II, §201(b), (c), Oct. 17, 1986, 100 Stat. 1287; Pub. L. 100–418, title VI, §6241, Aug. 23, 1988, 102 Stat. 1520; Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 467, related to congressional statement of purpose and authorization of appropriations, prior to repeal by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(b)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
+Another prior section 1021, Pub. L. 89–329, title II, §201, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1383; amended Pub. L. 99–498, title II, §201(b), (c), Oct. 17, 1986, 100 Stat. 1287; Pub. L. 100–418, title VI, §6241, Aug. 23, 1988, 102 Stat. 1520; Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 467, related to congressional statement of purpose and authorization of appropriations, prior to repeal by Pub. L. 104–208, div. A, titleI, §101(e) \[title VII, §708(b)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
 
 Another prior section 1021, Pub. L. 89–329, title II, §201, as added Pub. L. 92–318, title I, §111(b)(1), June 23, 1972, 86 Stat. 238; amended Pub. L. 94–482, title I, §106, Oct. 12, 1976, 90 Stat. 2089; Pub. L. 96–49, §3(a), Aug. 13, 1979, 93 Stat. 351, provided for college library programs, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 Another prior section 1021, Pub. L. 89–329, title II, §201, Nov. 8, 1965, 79 Stat. 1224; Pub. L. 90–575, title II, §211, Oct. 16, 1968, 82 Stat. 1036; Pub. L. 92–318, title I, §111(a)(1), June 23, 1972, 86 Stat. 238, authorized appropriations of $50,000,000 for each fiscal year ending June 30, 1966, 1967, and 1968, and $25,000,000; $75,000,000; $90,000,000; and $18,000,000 for fiscal years ending June 30, 1969, 1970, 1971, and 1972, for library resources grants, prior to repeal by Pub. L. 92–318, title I, §111(b)(1), June 23, 1972, 86 Stat. 238.
+
+#### Amendments
+
+2009—Par. (22)(D). Pub. L. 111–39 added subpar. (D) and struck out former subpar (D) which read as follows: “prior to completion of the program, earns a master's degree, attains full State teacher certification or licensure, and becomes highly qualified.”
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

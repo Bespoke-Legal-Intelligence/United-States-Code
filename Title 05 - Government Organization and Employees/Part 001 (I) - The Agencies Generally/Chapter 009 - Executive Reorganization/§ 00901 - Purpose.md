@@ -268,7 +268,7 @@ The bracketed provisions in the first sentence of section 4 of Ex. Ord. No. 6166
 
 #### Effective Date
 
-The effective date of section 4 of Ex. Ord. No. 6166, originally fixed by section 22 of this Ex. Ord., was subsequently postponed as follows: to Dec. 31, 1933, by Ex. Ord. No. 6224 of July 27, 1933; to June 30, 1934 (insofaras not already effected prior to Dec. 31, 1933), by Ex. Ord. No. 6540 of Dec. 28, 1933; to Dec. 31, 1934 (insofar as not already effected prior to June 30, 1934), by Ex. Ord. No. 6727 of May 29, 1934; to June 30, 1935, by Ex. Ord. No. 6927 of Dec. 31, 1934; to Dec. 31, 1935 (insofar as not already effected prior to June 30, 1934), by Ex. Ord. No. 7077 of June 15, 1935; to June 30, 1936 (insofar as not already effected prior to Dec. 31, 1935), by Ex. Ord. No. 7261 of Dec. 31, 1935. Each of these orders contained a provision that the changes therein delayed might be made sooner effective by order of the Secretary of the Treasury approved by the President.
+The effective date of section 4 of Ex. Ord. No. 6166, originally fixed by section 22 of this Ex. Ord., was subsequently postponed as follows: to Dec. 31, 1933, by Ex. Ord. No. 6224 of July 27, 1933; to June 30, 1934 (insofar as not already effected prior to Dec. 31, 1933), by Ex. Ord. No. 6540 of Dec. 28, 1933; to Dec. 31, 1934 (insofar as not already effected prior to June 30, 1934), by Ex. Ord. No. 6727 of May 29, 1934; to June 30, 1935, by Ex. Ord. No. 6927 of Dec. 31, 1934; to Dec. 31, 1935 (insofar as not already effected prior to June 30, 1934), by Ex. Ord. No. 7077 of June 15, 1935; to June 30, 1936 (insofar as not already effected prior to Dec. 31, 1935), by Ex. Ord. No. 7261 of Dec. 31, 1935. Each of these orders contained a provision that the changes therein delayed might be made sooner effective by order of the Secretary of the Treasury approved by the President.
 
 #### §5.
 
@@ -338,7 +338,7 @@ The function of the Bureau of the Census of the Department of Commerce of compil
 
 Shipping Board
 
-The functions of the United States Shipping Board including those over and in respect to the United States Shipping Board Merchant Fleet Corporation are transferred to the Department of Commerce, and the United States Shipping Board is abolished.
+The functions of the United States Shipping Board including those over and in respect to the UnitedStates Shipping Board Merchant Fleet Corporation are transferred to the Department of Commerce, and the United States Shipping Board is abolished.
 
 #### §13.
 

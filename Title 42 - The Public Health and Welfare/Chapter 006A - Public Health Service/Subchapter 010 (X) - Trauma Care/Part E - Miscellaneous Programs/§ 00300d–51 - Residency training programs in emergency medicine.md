@@ -16,5 +16,5 @@ For the purpose of carrying out this section, there is authorized to be appropri
 
 #### Amendments
 
-2007—Pub. L. 110–23 amended section generally. Prior to amendment, section related to residency training programs in emergency medicine and authorized appropriations for fiscal years 1993 through 1995.
+2007—Pub. L. 110–23 amended section generally. Prior to amendment, section related to residency trainingprograms in emergency medicine and authorized appropriations for fiscal years 1993 through 1995.
 

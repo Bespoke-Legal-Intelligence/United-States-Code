@@ -1,6 +1,6 @@
 ### §3299. Child abduction and sex offenses
 
-Notwithstanding any other law, an indictment may be found or an information instituted at any time without limitation for any offense under section 1201 involving a minor victim, and for any felony under chapter 109A, 110 (except for section <sup>1</sup> 2257 and 2257A), or 117, or section 1591.
+Notwithstanding any other law, an indictment may be found or an information instituted atany time without limitation for any offense under section 1201 involving a minor victim, and for any felony under chapter 109A, 110 (except for section <sup>1</sup> 2257 and 2257A), or 117, or section 1591.
 
 (Added Pub. L. 109–248, title II, §211(1), July 27, 2006, 120 Stat. 616.)
 

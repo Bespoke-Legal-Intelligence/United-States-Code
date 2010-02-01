@@ -20,7 +20,7 @@ In order to support activities designed to improve the administration of this ch
 
 &emsp;&emsp;&emsp;(ii) contains appropriate accessible multimedia materials to reach targeted individuals and entities, for dissemination to State assistive technology programs; and
 
-&emsp;&emsp;&emsp;(iii) in coordination with State assistive technology programs, provides meaningfuland up-to-date information to targeted individuals and entities about the availability of assistive technology devices and assistive technology services.
+&emsp;&emsp;&emsp;(iii) in coordination with State assistive technology programs, provides meaningful and up-to-date information to targeted individuals and entities about the availability of assistive technology devices and assistive technology services.
 
 #### (B) Eligible entity
 
@@ -158,7 +158,7 @@ In order to support activities designed to improve the administration of this ch
 
 #### (II) Information on accommodating individuals with disabilities
 
-&emsp;&emsp;&emsp;&emsp;The site shall include access to evidence-based research and best practicesconcerning how assistive technology can be used to accommodate individuals with disabilities in the areas of education, employment, health care, community living, and telecommunications and information technology.
+&emsp;&emsp;&emsp;&emsp;The site shall include access to evidence-based research and best practices concerning how assistive technology can be used to accommodate individuals with disabilities in the areas of education, employment, health care, community living, and telecommunications and information technology.
 
 #### (III) Resources for a number of disabilities
 

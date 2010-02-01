@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Additional commodities
 
-&emsp;The term “additional commodities” means commodities made available under section 7515 of this title in addition to the commodities made available under sections 7502 and 7507 of this title.
+&emsp;The term “additional commodities” means commodities made available under section 7515of this title in addition to the commodities made available under sections 7502 and 7507 of this title.
 
 #### (2) Average monthly number of unemployed persons
 
@@ -78,5 +78,5 @@ Section 2 of Pub. L. 98–92 provided in part that the amendments made by that s
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 98–8, as amended by Pub. L. 98–92, §2(1), Sept. 2, 1983, 97 Stat. 608; Pub. L. 101–624, title XVII, §1772(a)(2), Nov. 28, 1990, 104 Stat. 3808, provided that: “This title \[enacting this chapter and amending provisions set out as a note under section 612c of this title\] may be cited as the ‘Emergency Food Assistance Act of 1983’, and is hereinafter in this title referred to as ‘this Act’.”
+Section 201 of title II of Pub. L. 98–8, as amended by Pub. L. 98–92, §2(1), Sept. 2, 1983, 97 Stat. 608; Pub. L.101–624, title XVII, §1772(a)(2), Nov. 28, 1990, 104 Stat. 3808, provided that: “This title \[enacting this chapter and amending provisions set out as a note under section 612c of this title\] may be cited as the ‘Emergency Food Assistance Act of 1983’, and is hereinafter in this title referred to as ‘this Act’.”
 

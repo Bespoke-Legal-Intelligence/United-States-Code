@@ -20,15 +20,21 @@ Termination of Payments.—The payment of special pay to a member under subsecti
 
 (d)
 
-Amount of Special Pay.—The monthly amount of special pay paid to a member under this section shall be equal to $430, less any payment received by the member for the same month under section 310(b) of this title.
+Amount of Special Pay.—The monthly amount of special pay paid to a member under this section shall be equal to $430, less any payment received by the member for the same month under section 310(b) <sup>1</sup> of this title.
 
 (e)
 
-Relationship to Other Pay and Allowances.—Special pay paid to a member under thissection is in addition to any other pay and allowances to which the member is entitled or authorized to receive.
+Relationship to Other Pay and Allowances.—Special pay paid to a member under this section is in addition to any other pay and allowances to which the member is entitled or authorized to receive.
 
 (Added Pub. L. 109–163, div. A, title VI, §642(a), Jan. 6, 2006, 119 Stat. 3305.)
+
+#### References in Text
+
+Section 310(b) of this title, referred to in subsec. (d), was redesignated section 310(c) of this title, and a newsection 310(b) was added, by Pub. L. 111–84, div. A, title VI, §618(a)(3), (4), Oct. 28, 2009, 123 Stat. 2355.
 
 #### Effective Date
 
 Pub. L. 109–163, div. A, title VI, §642(d), Jan. 6, 2006, 119 Stat. 3306, provided that: “The Secretary of a military department may provide special pay under section 328 of title 37, United States Code, as added by subsection (a), for months beginning on or after the date of the enactment of this Act \[Jan. 6, 2006\]. A member of the Armed Forces who incurred a wound, injury, or illness under the circumstances described in subsection (a) of such section before the date of the enactment of this Act may receive such pay for such wound, injury, or illness for months beginning on or after that date so long as the member continues to satisfy the eligibility criteria specified in such section.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

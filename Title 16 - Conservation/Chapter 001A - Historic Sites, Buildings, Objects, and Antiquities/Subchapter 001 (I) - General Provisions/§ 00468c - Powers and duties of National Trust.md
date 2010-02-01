@@ -8,7 +8,7 @@ To the extent necessary to enable it to carry out the functions vested in it by 
 
 (c) To adopt, alter, and use a corporate seal which shall be judicially noticed.
 
-(d) To adopt a constitution and to make such bylaws, rules, and regulations, not inconsistent with the laws of the United States or of any State, as it deems necessary for the administration of its functions under sections 468 to 468d of this title, including among other matter, bylaws, rules, and regulations governing visitation to historic properties, administration of corporate funds, and the organization and procedure of the board of trustees.
+(d) To adopt a constitution and to make such bylaws, rules, and regulations, not inconsistent with the laws of the United States or of any State, as it deems necessary for the administration of its functions under sections 468 to 468d of this title, including among other matter, bylaws, rules, and regulations governing visitationto historic properties, administration of corporate funds, and the organization and procedure of the board of trustees.
 
 (e) To accept, hold, and administer gifts and bequests of money, securities, or other personal property of whatsoever character, absolutely or on trust, for the purposes for which the National Trust is created. Unless otherwise restricted by the terms of the gift or bequest, the National Trust is authorized to sell, exchange, or otherwise dispose of and to invest or reinvest in such investments as it may determine from time to time the moneys, securities, or other property given or bequeathed to it. The principal of such corporate funds, together with the income therefrom and all other revenues received by it from any source whatsoever, shall be placed in such depositories as the National Trust shall determine and shall be subject to expenditure by the National Trust for its corporate purposes.
 
@@ -18,7 +18,7 @@ To the extent necessary to enable it to carry out the functions vested in it by 
 
 (h) To enter into contracts generally and to execute all instruments necessary or appropriate to carry out its corporate purposes, which instruments shall include such concession contracts, leases, or permits for the use of lands, buildings, or other property deemed desirable either to accommodate the public or to facilitate administration.
 
-(i) To appoint and prescribe the duties of such officers, agents, and employees as may be necessary to carry out its functions, and to fix andpay such compensation to them for their services as the National Trust may determine.
+(i) To appoint and prescribe the duties of such officers, agents, and employees as may be necessary to carry out its functions, and to fix and pay such compensation to them for their services as the National Trust may determine.
 
 (j) And generally to do any and all lawful acts necessary or appropriate to carry out the purposes for which the National Trust is created.
 

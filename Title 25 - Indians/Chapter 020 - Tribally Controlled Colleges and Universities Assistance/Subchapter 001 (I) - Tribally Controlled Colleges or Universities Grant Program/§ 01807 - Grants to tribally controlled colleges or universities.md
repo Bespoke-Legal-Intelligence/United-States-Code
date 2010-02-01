@@ -16,7 +16,7 @@ Priority in grants shall be given to institutions which are operating on October
 
 In making grants pursuant to this section, the Secretary shall, to the extent practicable, consult with national Indian organizations and with tribal governments chartering the institutions being considered.
 
-(Pub. L. 95–471, title I, §107, formerly §106, Oct. 17, 1978, 92 Stat. 1327; Pub. L. 97–375, title I, §108(c), Dec. 21, 1982, 96 Stat. 1820; renumbered §107 and amended Pub. L. 98–192, §§3(b), 4(a)(1), (b)(2), 6(b), Dec. 1, 1983, 97 Stat. 1336, 1337; Pub. L. 105–244, title IX, §901(b)(4)–(6), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 95–471, title I, §107, formerly §106, Oct. 17, 1978, 92 Stat. 1327; Pub. L. 97–375, title I, §108(c), Dec. 21, 1982, 96 Stat. 1820; renumbered§107 and amended Pub. L. 98–192, §§3(b), 4(a)(1), (b)(2), 6(b), Dec. 1, 1983, 97 Stat. 1336, 1337; Pub. L. 105–244, title IX, §901(b)(4)–(6), Oct. 7, 1998, 112 Stat. 1828.)
 
 #### Amendments
 

@@ -18,7 +18,7 @@
 
 #### (1) General rule
 
-&emsp;Subject to paragraph (2), with respect to 2 or more vehicles operated as a train by a light or rapid rail system, for purposes of section 12132of this title and section 794 of title 29, it shall be considered discrimination for a public entity to fail to have at least 1 vehicle per train that is accessible to individuals with disabilities, including individuals who use wheelchairs, as soon as practicable but in no event later than the last day of the 5-year period beginning on the effective date of this section.
+&emsp;Subject to paragraph (2), with respect to 2 or more vehicles operated as a train by a light or rapid rail system, for purposes of section 12132 of this title and section 794 of title 29, it shall be considered discrimination for a public entity to fail to have at least 1 vehicle per train that is accessible to individuals with disabilities, including individuals who use wheelchairs, as soon as practicable but in no event later than the last day of the 5-year period beginning on the effective date of this section.
 
 #### (2) Historic trains
 

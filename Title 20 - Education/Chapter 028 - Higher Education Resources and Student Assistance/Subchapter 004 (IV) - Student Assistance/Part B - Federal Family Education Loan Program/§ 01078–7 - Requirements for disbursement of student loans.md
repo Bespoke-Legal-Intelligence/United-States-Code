@@ -12,7 +12,7 @@
 
 #### (3) Special rule
 
-&emsp;An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the 3 most recent fiscal years for which data are available is less than 10 percent may disburse any loan made, insured, or guaranteed under this part in a single installment for any period of enrollment that is not more than 1 semester, 1 trimester, 1 quarter, or 4 months. Notwithstanding section 422(d) ofthe Higher Education Amendments of 1998, this paragraph shall be effective beginning on February 8, 2006.
+&emsp;An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the 3 most recent fiscal years for which data are available is less than 10 percent may disburse any loan made, insured, or guaranteed under this part in a single installment for any period of enrollment that is not more than 1 semester, 1 trimester, 1 quarter, or 4 months. Notwithstanding section 422(d) of the Higher Education Amendments of 1998, this paragraph shall be effective beginning on February 8, 2006.
 
 #### (4) Amendment to special rule
 
@@ -22,7 +22,7 @@
 
 #### (1) First year students
 
-&emsp;The first installment of the proceeds of any loan made, insured, or guaranteed under this part that is made to a student borrower who is entering the first year of a program of undergraduate education, and who has not previously obtained a loan under this part, shall not (regardless of the amount of such loan or the duration of the period of enrollment) be presented by the institution to the student for endorsement until 30 days after the borrower begins a course of study, but may be delivered to the eligible institution prior to the end of that 30-day period. An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the three most recent fiscal years for which data are available is less than 10 percent shall be exempt from the requirements of this paragraph. Notwithstanding section 422(d) of the Higher Education Amendments of 1998, the second sentence of this paragraph shall be effective beginning on February 8, 2006.
+&emsp;The first installment of the proceeds of any loan made, insured, or guaranteed under this part that is made to a student borrower who is entering the first year of a program of undergraduate education, and who has not previously obtained a loan under this part, shall not (regardless of the amount of such loan or the duration of the period of enrollment) be presented by the institution to the student for endorsement until 30 days after the borrower begins a course of study, but may be deliveredto the eligible institution prior to the end of that 30-day period. An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the three most recent fiscal years for which data are available is less than 10 percent shall be exempt from the requirements of this paragraph. Notwithstanding section 422(d) of the Higher Education Amendments of 1998, the second sentence of this paragraph shall be effective beginning on February 8, 2006.
 
 #### (2) Other students
 
@@ -36,11 +36,11 @@
 
 Disbursements under subsection (a) of this section—
 
-&emsp;(1) shall be made in accordance with a schedule provided by the institution (under section 1078(a)(2)(A)(i)(III) <sup>1</sup> of this title) that complies with the requirements of this section;
+&emsp;(1) shall be made in accordance with a schedule provided by the institution (under section 1078(a)(2)(A)(i)(II) of this title) that complies with the requirements of this section;
 
 &emsp;(2) may be made directly by the lender or, in the case of a loan under sections 1078 and 1078–1 <sup>1</sup> of this title, may be disbursed pursuant to the escrow provisions of section 1078(i) of this title; and
 
-&emsp;(3) notwithstanding subsection (a)(2) of this section, may, with the permission of the borrower, be disbursed by the lender on a weekly or monthly basis, provided that the proceeds of the loan are disbursed in substantially equal weekly or monthly installments, as the case may be, over the period of enrollment for which the loan is made.
+&emsp;(3) notwithstanding subsection (a)(2), may, with the permission of the borrower, be disbursed by the lender on a weekly or monthly basis, provided that the proceeds of the loan are disbursed by the lender in substantially equal weekly or monthly installments, as the case may be, over the period of enrollment for which the loan is made.
 
 #### (d) Withholding of second disbursement
 
@@ -68,13 +68,11 @@ An eligible lender shall not sell or transfer a promissory note for any loan mad
 
 &emsp;(2) the first disbursement of such loan has been made.
 
-(Pub. L. 89–329, title IV, §428G, as added Pub. L. 101–239, title II, §2004(a), Dec. 19, 1989, 103 Stat. 2115; amended Pub. L. 101–508, title III, §3003(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 102–325, title IV, §421, July 23, 1992, 106 Stat. 534; Pub. L. 103–66, title IV, §4109(b), Aug. 10, 1993, 107 Stat. 369; Pub. L. 103–208, §2(c)(41), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 105–244, title IV, §422(a)–(c), Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §8010, Feb. 8, 2006, 120 Stat. 164; Pub. L. 110–315, title IV, §427, Aug. 14, 2008, 122 Stat. 3235.)
+(Pub. L. 89–329, title IV, §428G, as added Pub. L. 101–239, title II, §2004(a), Dec. 19, 1989, 103 Stat. 2115; amended Pub. L. 101–508, title III, §3003(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 102–325, title IV, §421, July 23, 1992, 106 Stat. 534; Pub. L. 103–66, title IV, §4109(b), Aug. 10, 1993, 107 Stat. 369; Pub. L. 103–208, §2(c)(41), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 105–244, title IV, §422(a)–(c), Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §8010, Feb. 8, 2006, 120 Stat. 164; Pub. L. 110–315, title IV, §427, Aug. 14, 2008, 122 Stat. 3235; Pub. L. 111–39, title IV, §402(f)(4), July 1, 2009, 123 Stat. 1943.)
 
 #### References in Text
 
-Section 422(d) of the Higher Education Amendments of 1998, referred to in subsecs. (a)(3) and (b)(1), is section422(d) of Pub. L. 105–244, set out as an Effective and Termination Dates of 1998 Amendment note below.
-
-Section 1078(a)(2)(A)(i)(III) of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 105–244, title IV, §417(a)(1)(A), Oct. 7, 1998, 112 Stat. 1682. Provisions similar to those contained in section 1078(a)(2)(A)(i)(III) are now contained in section 1078(a)(2)(A)(i)(II).
+Section 422(d) of the Higher Education Amendments of 1998, referred to in subsecs. (a)(3) and (b)(1), is section 422(d) of Pub. L. 105–244, set out as an Effective and Termination Dates of 1998 Amendment note below.
 
 Section 1078–1 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
@@ -83,6 +81,10 @@ Section 1078–1 of this title, referred to in subsec. (c)(2), was repealed by P
 Text of subsec. (a)(3) and second sentence of subsec. (b)(1), which was temporarily added by Pub. L. 105–244, §422(a), (b), and then omitted, was restored pursuant to amendment by Pub. L. 109–171, §8010(1), (2). See 1998 and 2006 Amendment notes and Effective and Termination Dates of 1998 Amendment note below.
 
 #### Amendments
+
+2009—Subsec. (c)(1). Pub. L. 111–39, §402(f)(4)(A), substituted “section 1078(a)(2)(A)(i)(II)” for “section 1078(a)(2)(A)(i)(III)”.
+
+Subsec. (c)(3). Pub. L. 111–39, §402(f)(4)(B), added par. (3) and struck out former par. (3) which read as follows: “notwithstanding subsection (a)(2) of this section, may, with the permission of the borrower, be disbursed by the lender on a weekly or monthly basis, provided that the proceeds of the loan are disbursed in substantially equal weekly or monthly installments, as the case may be, over the period of enrollment for which the loan is made.”
 
 2008—Subsec. (a)(4). Pub. L. 110–315, §427(a), added par. (4).
 
@@ -117,6 +119,10 @@ Subsec. (g). Pub. L. 102–325, §421(c), added subsec. (g).
 &emsp;“(B) the institution certifies that the borrower continues to be enrolled and in attendance at the end of such 30-day period, and is maintaining satisfactory progress;
 
 > but may be disbursed to the eligible institution prior to the end of such 30-day period.”
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2006 Amendment
 

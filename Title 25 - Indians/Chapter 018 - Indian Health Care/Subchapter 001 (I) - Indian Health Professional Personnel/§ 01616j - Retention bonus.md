@@ -44,7 +44,7 @@ The Secretary may pay a retention bonus to any physician or nurse employed by an
 
 &emsp;(2) necessary for providing health care services to Indians.
 
-(Pub. L. 94–437, title I, §117, as added Pub. L. 100–713, title I, §109, Nov. 23, 1988, 102 Stat. 4799; amended Pub. L. 102–573, title I, §104(d), Oct. 29, 1992, 106 Stat. 4533.)
+(Pub. L. 94–437, title I, §117, as added Pub. L. 100–713, title I, §109, Nov. 23, 1988, 102 Stat. 4799;amended Pub. L. 102–573, title I, §104(d), Oct. 29, 1992, 106 Stat. 4533.)
 
 #### References in Text
 

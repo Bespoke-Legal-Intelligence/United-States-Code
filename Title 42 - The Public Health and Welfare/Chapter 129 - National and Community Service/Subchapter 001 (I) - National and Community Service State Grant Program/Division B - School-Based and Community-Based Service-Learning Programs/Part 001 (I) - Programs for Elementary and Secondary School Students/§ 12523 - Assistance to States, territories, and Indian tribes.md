@@ -1,0 +1,106 @@
+### §12523. Assistance to States, territories, and Indian tribes
+
+#### (a) Allotments to States, territories, and Indian tribes
+
+The Corporation, in consultation with the Secretary of Education, may make allotments to State educational agencies, territories, and Indian tribes to pay for the Federal share of—
+
+&emsp;(1) planning and building the capacity within the State, territory, or Indian tribe involved to implement service-learning programs that are based principally in elementary schools and secondary schools, including—
+
+&emsp;&emsp;(A) providing training and professional development for teachers, supervisors, personnel from community-based entities (particularly with regard to the recruitment, utilization, and management of participants), and trainers, to be conducted by qualified individuals or organizations that have experience with service-learning;
+
+&emsp;&emsp;(B) developing service-learning curricula, consistent with State or local academic content standards, to be integrated into academic programs, including curricula for an age-appropriate learning component that provides participants an opportunity to analyze and apply their service experiences;
+
+&emsp;&emsp;(C) forming local partnerships described in paragraph (2) or (4)(D) to develop school-based service-learning programs in accordance with this part;
+
+&emsp;&emsp;(D) devising appropriate methods for research on and evaluation of the educational value of service-learning and the effect of service-learning activities on communities;
+
+&emsp;&emsp;(E) establishing effective outreach and dissemination of information to ensure the broadest possible involvement of community-based entities with demonstrated effectiveness in working with school-age youth in their communities; and
+
+&emsp;&emsp;(F) establishing effective outreach and dissemination of information to ensure the broadest possible participation of schools throughout the State, throughout the territory, or serving the Indian tribe involved with particular attention to schools not making adequate yearly progress for two or more consecutive years under section 6311 of title 20;
+
+&emsp;(2) implementing, operating, or expanding school-based service-learning programs, which may include paying for the cost of the recruitment, training, supervision, placement, salaries, and benefits of service-learning coordinators, through distribution by State educational agencies, territories, and Indian tribes of Federal funds made available under this part to projects operated by local partnerships among—
+
+&emsp;&emsp;(A) local educational agencies; and
+
+&emsp;&emsp;(B) 1 or more community partners that—
+
+&emsp;&emsp;&emsp;(i) shall include a public or private nonprofit organization that—
+
+&emsp;&emsp;&emsp;&emsp;(I) has a demonstrated expertise in the provision of services to meet unmet human, education, environmental, or public safety needs;
+
+&emsp;&emsp;&emsp;&emsp;(II) will make projects available for participants, who shall be students; and
+
+&emsp;&emsp;&emsp;&emsp;(III) was in existence at least 1 year before the date on which the organization submitted an application under section 12525 of this title; and
+
+&emsp;&emsp;&emsp;(ii) may include a private for-profit business, private elementary school or secondary school, or Indian tribe (except that an Indian tribe distributing funds to a project under this paragraph is not eligible to be part of the partnership operating that project);
+
+&emsp;(3) planning of school-based service-learning programs, through distribution by State educational agencies, territories, and Indian tribes of Federal funds made available under this part to local educational agencies and Indian tribes, which planning may include paying for the cost of—
+
+&emsp;&emsp;(A) the salaries and benefits of service-learning coordinators; or
+
+&emsp;&emsp;(B) the recruitment, training and professional development, supervision, and placement of service-learning coordinators who may be participants in a program under division C or receive a national service educational award under division D, who may be participants in a project under section 5001 of this title, or who may participate in a Youthbuild program under section 2918a of title 29,
+
+> &emsp;who will identify the community partners described in paragraph (2)(B) and assist in the design and implementation of a program described in paragraph (2);
+
+&emsp;(4) implementing, operating, or expanding school-based service-learning programs to utilize adult volunteers in service-learning to improve the education of students, through distribution by State educational agencies, territories, and Indian tribes of Federal funds made available under this part to—
+
+&emsp;&emsp;(A) local educational agencies;
+
+&emsp;&emsp;(B) Indian tribes (except that an Indian tribe distributing funds under this paragraph is not eligible to be a recipient of those funds);
+
+&emsp;&emsp;(C) public or private nonprofit organizations; or
+
+&emsp;&emsp;(D) partnerships or combinations of local educational agencies, and entities described in subparagraph (B) or (C); and
+
+&emsp;(5) developing, as service-learning programs, civic engagement programs that promote a better understanding of—
+
+&emsp;&emsp;(A) the principles of the Constitution, the heroes of United States history (including military heroes), and the meaning of the Pledge of Allegiance;
+
+&emsp;&emsp;(B) how the Nation's government functions; and
+
+&emsp;&emsp;(C) the importance of service in the Nation's character.
+
+#### (b) Duties of service-learning coordinator
+
+A service-learning coordinator referred to in paragraph (2) or (3) of subsection (a) shall provide services to a local partnership described in subsection (a)(2) or entity described in subsection (a)(3), respectively, that may include—
+
+&emsp;(1) providing technical assistance and information to, and facilitating the training of, teachers and assisting in the planning, development, execution, and evaluation of service-learning in their classrooms;
+
+&emsp;(2) assisting local partnerships described in subsection (a)(2) in the planning, development, and execution of service-learning projects, including summer of service programs;
+
+&emsp;(3) assisting schools and local educational agencies in developing school policies and practices that support the integration of service-learning into the curriculum; and
+
+&emsp;(4) carrying out such other duties as the local partnership or entity, respectively, may determine to be appropriate.
+
+#### (c) Related expenses
+
+An entity that receives financial assistance under this part from a State, territory, or Indian tribe may, in carrying out the activities described in subsection (a), use such assistance to pay for the Federal share of reasonable costs related to the supervision of participants, program administration, transportation, insurance, and evaluations and for other reasonable expenses related to the activities.
+
+#### (d) Special rule
+
+A State educational agency described in section 12522(2)(A) of this title may designate a statewide entity (which may be a community-based entity) with demonstrated experience in supporting or implementing service-learning programs, to receive the State educational agency's allotment under this part, and carry out the functions of the agency under this part.
+
+#### (e) Consultation with Secretary of Education
+
+The Corporation is authorized to enter into agreements with the Secretary of Education forinitiatives (and may use funds authorized under section 12681(a)(6) of this title to enter into the agreements if the additional costs of the initiatives are warranted) that may include—
+
+&emsp;(1) identification and dissemination of research findings on service-learning and scientifically valid research based practices for service-learning; and
+
+&emsp;(2) provision of professional development opportunities that—
+
+&emsp;&emsp;(A) improve the quality of service-learning instruction and delivery for teachers both preservice and in-service, personnel from community-based entities and youth workers; and
+
+&emsp;&emsp;(B) create and sustain effective partnerships for service-learning programs between local educational agencies, community-based entities, businesses, and other stakeholders.
+
+(Pub. L. 101–610, title I, §112, as added Pub. L. 111–13, title I, §1201, Apr. 21, 2009, 123 Stat. 1468.)
+
+#### Prior Provisions
+
+A prior section 12523, Pub. L. 101–610, title I, §111B, as added Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 827, granted the Corporation authority to assist public or private nonprofit organizations, prior to the general amendment of this part by Pub. L. 111–13.
+
+Another prior section 12523, Pub. L. 101–610, title I, §113, Nov. 16, 1990, 104 Stat. 3134; Pub. L. 102–384, §4, Oct. 5, 1992, 106 Stat. 1455, related to State grant applications, prior to repeal by Pub. L. 103–82, §103(a)(2).
+
+A prior section 112 of Pub. L. 101–610 was classified to section 12524 prior to the general amendment of this part by Pub. L. 111–13.
+
+Another prior section 112 of Pub. L. 101–610 was classified to section 12522 of this title prior to repeal by Pub. L. 103–82.
+

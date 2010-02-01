@@ -6,7 +6,7 @@ Whenever it shall appear to the Commission that any registered entity or other p
 
 #### (b) Injunction or restraining order
 
-Upon a proper showing a permanent or temporary injunction or restraining order shall be granted without bond.
+Upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond.
 
 #### (c) Writs or other orders
 

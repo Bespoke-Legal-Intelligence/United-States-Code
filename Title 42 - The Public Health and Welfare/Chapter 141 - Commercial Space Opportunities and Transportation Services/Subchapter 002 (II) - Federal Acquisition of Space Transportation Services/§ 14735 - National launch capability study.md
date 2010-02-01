@@ -34,7 +34,7 @@ In this section:
 
 &emsp;&emsp;(A) prepare a report that meets the requirements of this subsection; and
 
-&emsp;&emsp;(B) submit that report to the Committee on Commerce, Science, and Transportationof the Senate and the Committee on Science of the House of Representatives.
+&emsp;&emsp;(B) submit that report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science of the House of Representatives.
 
 #### (2) Requirements for report
 

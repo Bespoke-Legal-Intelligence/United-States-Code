@@ -14,7 +14,9 @@ Covered Property and Services.—Subject to subsection (d), subsection (a) appli
 
 (c)
 
-Small Arms Production Industrial Base.—In this section, the term “small arms production industrial base” means the firms comprising the small arms production industrial base, as described in the plan entitled “Preservation of Critical Elements of the Small Arms Industrial Base”, dated January 8, 1994, that was prepared by an independent assessment panel of the Army Science Board.
+Small Arms Production Industrial Base.—(1) Subject to paragraph (2), in this section, the term “small arms production industrial base” means the firms comprising the small arms production industrial base, as described in the plan entitled “Preservation of Critical Elements of the Small Arms Industrial Base”, dated January 8, 1994, that was prepared by an independent assessment panel of the Army Science Board.
+
+(2) After March 31, 2010, the Secretary of Defense may eliminate, modify, or add to the firms included in the small arms production industrial base, as defined in paragraph (1), as he determines appropriate to best ensure the competitive development, production, and maintenance of small arms for the Department of Defense.
 
 (d)
 
@@ -34,9 +36,11 @@ Applicability.—This section applies only to procurements of covered property a
 
 Submission of Certified Cost or Pricing Data.—If a procurement under subsection (a) is a procurement of a commercial item, the Secretary may, notwithstanding section 2306a(b)(1)(B) of this title, require the submission of certified cost or pricing data under section 2306a(a) of this title.
 
-(Added Pub. L. 104–201, div. A, title VIII, §832(a), Sept. 23, 1996, 110 Stat. 2616; amended Pub. L. 105–261, div. A, title VIII, §809(a)–(d), Oct. 17, 1998, 112 Stat. 2085, 2086; Pub. L. 106–65, div. A, title VIII, §815(b), Oct. 5, 1999, 113 Stat. 712.)
+(Added Pub. L. 104–201, div. A, title VIII, §832(a), Sept. 23, 1996, 110 Stat. 2616; amended Pub. L. 105–261, div. A, title VIII, §809(a)–(d), Oct. 17, 1998, 112 Stat. 2085, 2086; Pub. L. 106–65, div. A, title VIII, §815(b), Oct. 5, 1999, 113 Stat. 712; Pub. L. 111–84, div. A, title VIII, §818(a), Oct. 28, 2009, 123 Stat. 2408.)
 
 #### Amendments
+
+2009—Subsec. (c). Pub. L. 111–84 designated existing provisions as par. (1), substituted “Subject to paragraph (2), in this section” for “In this section”, and added par. (2).
 
 1999—Subsec. (b)(1). Pub. L. 106–65, §815(b)(1), substituted “Critical repair” for “Repair”, struck out “including repair parts” after “small arms,”, and inserted “only” after “consisting”.
 

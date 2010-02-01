@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(B) providing an entitlement to participate in a chronic care improvement program under this section;
 
-&emsp;&emsp;(C) providing for any hearing or appeal rights under section 1395ff, 1395<i>oo</i> of thistitle, or otherwise, with respect to a chronic care improvement program under this section; or
+&emsp;&emsp;(C) providing for any hearing or appeal rights under section 1395ff, 1395<i>oo</i> of this title, or otherwise, with respect to a chronic care improvement program under this section; or
 
 &emsp;&emsp;(D) providing benefits under a chronic care improvement program for which a claim may be submitted to the Secretary by any provider of services or supplier (as defined in section 1395x(d) of this title).
 
@@ -218,7 +218,7 @@
 
 #### (4) Budget neutral payment condition
 
-&emsp;Under this section, the Secretary shall ensure that the aggregate sum of medicare program benefit expenditures for beneficiaries participating in chronic care improvement programs and funds paid to chronic care improvement organizations under this section, shall not exceed the medicare program benefit expenditures that the Secretary estimates would have been made for such targeted beneficiaries in the absence of such programs.
+&emsp;Under this section, the Secretary shall ensure that the aggregate sum of medicare program benefit expenditures for beneficiaries participating in chronic care improvementprograms and funds paid to chronic care improvement organizations under this section, shall not exceed the medicare program benefit expenditures that the Secretary estimates would have been made for such targeted beneficiaries in the absence of such programs.
 
 #### (g) Funding
 
@@ -288,7 +288,7 @@ Evaluations.—The Secretary shall conduct evaluations of the clinical and cost 
 
 Reports.—Not later than 2 years after the commencement of the demonstration projects, and biannually thereafter, the Secretary shall submit to Congress a report on the evaluation, and shall include in the report the following:
 
-&emsp;&emsp;“(A) An analysis of the patient outcomes and costs of furnishing care to the individuals with chronic conditions participating in the projects ascompared to such outcomes and costs to other individuals for the same health conditions.
+&emsp;&emsp;“(A) An analysis of the patient outcomes and costs of furnishing care to the individuals with chronic conditions participating in the projects as compared to such outcomes and costs to other individuals for the same health conditions.
 
 &emsp;&emsp;“(B) Evaluation of patient satisfaction under the demonstration projects.
 

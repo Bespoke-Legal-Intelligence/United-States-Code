@@ -14,7 +14,7 @@
 
 #### (B) Appointment of head of Office
 
-&emsp;&emsp;The Secretary shall appoint the Special Envoy. If the Secretary determines that such is appropriate, the Secretary may appoint the Special Envoy from among officers and employees of the Department. The Secretary may allow such officer or employee to retain the position (and the responsibilities associated with such position) held by such officer or employee prior to the appointment of such officer or employee to the position of Special Envoy under this paragraph.
+&emsp;&emsp;The Secretary shall appoint the Special Envoy. If the Secretary determines that such is appropriate, the Secretary may appoint the Special Envoy from among officers and employees of the Department. The Secretary may allow such officer or employee to retain the position (and the responsibilitiesassociated with such position) held by such officer or employee prior to the appointment of such officer or employee to the position of Special Envoy under this paragraph.
 
 #### (b) Purpose of Office
 

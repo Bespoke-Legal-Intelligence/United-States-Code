@@ -58,7 +58,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 &emsp;&emsp;&emsp;(ii) any failure to comply with the requirements of any schedule prescribed pursuant to the variance or exemption.
 
-&emsp;&emsp;(C) Notice of the concentration level of any unregulated contaminant for which theAdministrator has required public notice pursuant to paragraph (2)(E).
+&emsp;&emsp;(C) Notice of the concentration level of any unregulated contaminant for which the Administrator has required public notice pursuant to paragraph (2)(E).
 
 #### (2) Form, manner, and frequency of notice
 

@@ -10,7 +10,7 @@
 
 (B) The Secretary of the Department of Defense and the Secretary of each military department may each designate Chief Information Officers who shall report directly to such Secretary to carry out the responsibilities of the department under this subchapter. If more than one Chief Information Officer is designated, the respective duties of the Chief Information Officers shall be clearly delineated.
 
-(3) The Chief Information Officer designated under paragraph (2) shall head an office responsible for ensuring agency compliance with and prompt, efficient, and effective implementation of the information policies and information resources management responsibilities established under this subchapter, including the reduction of information collection burdens on the public. The Chief Information Officer and employees of such office shall be selected with special attention to the professional qualifications required to administer the functions described under this subchapter.
+(3) The Chief Information Officer designated under paragraph (2) shall head an office responsible for ensuring agency compliance with and prompt, efficient, and effective implementationof the information policies and information resources management responsibilities established under this subchapter, including the reduction of information collection burdens on the public. The Chief Information Officer and employees of such office shall be selected with special attention to the professional qualifications required to administer the functions described under this subchapter.
 
 (4) Each agency program official shall be responsible and accountable for information resources assigned to and supporting the programs under such official. In consultation with the Chief Information Officer designated under paragraph (2) and the agency Chief Financial Officer (or comparable official), each agency program official shall define program information needs and develop strategies, systems, and capabilities to meet those needs.
 
@@ -156,7 +156,7 @@
 
 &emsp;(6) make data available to statistical agencies and readily accessible to the public.
 
-(f) With respect to records management, each agency shall implement and enforce applicable policies and procedures, including requirements for archiving information maintained in electronic format, particularly in the planning, design and operation of information systems.
+(f) With respect to records management, each agency shall implement and enforce applicablepolicies and procedures, including requirements for archiving information maintained in electronic format, particularly in the planning, design and operation of information systems.
 
 (g) With respect to privacy and security, each agency shall—
 
@@ -174,7 +174,7 @@
 
 &emsp;(4) propose changes in legislation, regulations, and agency procedures to improve information technology practices, including changes that improve the ability of the agency to use technology to reduce burden; and
 
-&emsp;(5) assume responsibility for maximizing the value and assessing and managing the risks ofmajor information systems initiatives through a process that is—
+&emsp;(5) assume responsibility for maximizing the value and assessing and managing the risks of major information systems initiatives through a process that is—
 
 &emsp;&emsp;(A) integrated with budget, financial, and program management decisions; and
 

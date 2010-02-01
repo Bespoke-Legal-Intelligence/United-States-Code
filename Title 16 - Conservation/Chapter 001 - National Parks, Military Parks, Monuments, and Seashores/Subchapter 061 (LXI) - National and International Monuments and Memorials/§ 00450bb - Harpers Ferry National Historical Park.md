@@ -38,7 +38,7 @@ Land or an interest in land acquired under this section shall become a part of t
 
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-(June 30, 1944, ch. 328, §1, 58 Stat. 645; Pub. L. 93–466, §1(1), Oct. 24, 1974, 88 Stat. 1420; Pub. L.96–199, title I, §108(1), Mar. 5, 1980, 94 Stat. 69; Pub. L. 101–109, §1(a), Oct. 6, 1989, 103 Stat. 681; Pub. L. 103–437, §6(h)(2), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 108–307, §2, Sept. 24, 2004, 118 Stat. 1133.)
+(June 30, 1944, ch. 328, §1, 58 Stat. 645; Pub. L. 93–466, §1(1), Oct. 24, 1974, 88 Stat. 1420; Pub. L. 96–199, title I, §108(1), Mar. 5, 1980, 94 Stat. 69; Pub. L. 101–109, §1(a), Oct. 6, 1989, 103 Stat. 681; Pub. L. 103–437, §6(h)(2), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 108–307, §2, Sept. 24, 2004, 118 Stat. 1133.)
 
 #### Amendments
 

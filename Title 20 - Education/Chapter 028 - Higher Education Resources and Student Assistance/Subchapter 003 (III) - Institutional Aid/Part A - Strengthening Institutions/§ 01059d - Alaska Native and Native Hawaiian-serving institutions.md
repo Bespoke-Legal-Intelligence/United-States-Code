@@ -28,7 +28,7 @@ For the purpose of this section—
 
 #### (1) Types of activities authorized
 
-&emsp;Grants awarded under this section shall be used by Alaska Native-serving institutionsand Native Hawaiian-serving institutions to assist such institutions to plan, develop, undertake, and carry out activities to improve and expand such institutions’ capacity to serve Alaska Natives or Native Hawaiians.
+&emsp;Grants awarded under this section shall be used by Alaska Native-serving institutions and Native Hawaiian-serving institutions to assist such institutions to plan, develop, undertake, and carry out activities to improve and expand such institutions’ capacity to serve Alaska Natives or Native Hawaiians.
 
 #### (2) Examples of authorized activities
 
@@ -102,5 +102,5 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 #### Effective Date
 
-Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
+Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244,set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
 

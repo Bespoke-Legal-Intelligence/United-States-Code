@@ -32,7 +32,7 @@ Authorized Commissary Merchandise Categories.—Merchandise sold in, at, or by c
 
 Inclusion of Other Merchandise Items.—(1) The Secretary of Defense may authorize the sale in, at, or by commissary stores of merchandise not covered by a category specified in subsection (b). The Secretary shall notify Congress of all merchandise authorized for sale pursuant to this paragraph, as well as the removal of any such authorization.
 
-(2) Notwithstanding paragraph (1), the Department of Defense military resale system shallcontinue to maintain the exclusive right to operate convenience stores, shopettes, and troop stores, including such stores established to support contingency operations.
+(2) Notwithstanding paragraph (1), the Department of Defense military resale system shall continue to maintain the exclusive right to operate convenience stores, shopettes, and troop stores, including such stores established to support contingency operations.
 
 (3)(A) A military exchange shall be the vendor for the sale of tobacco products in commissary stores and may be the vendor for such merchandise as may be authorized for sale in commissary stores under paragraph (1). Except as provided in subparagraph (B), subsections (d) and (e) shall not apply to the pricing of such an item when a military exchange serves as the vendor of the item. Commissary store and exchange prices shall be comparable for such an item.
 
@@ -68,7 +68,7 @@ Special Rules for Certain Merchandise.—(1) Notwithstanding the general require
 
 Use of Surcharge for Construction, Repair, Improvement, and Maintenance.—(1)(A) The Secretary of Defense may use the proceeds from the surcharges imposed under subsection (d) only—
 
-&emsp;(i) to acquire (including acquisition by lease), construct, convert, expand, improve, repair, maintain, and equip the physical infrastructure of commissary stores and central product processing facilities of the defense commissary system; and
+&emsp;(i) to acquire (including acquisition by lease), construct, convert, expand, improve,repair, maintain, and equip the physical infrastructure of commissary stores and central product processing facilities of the defense commissary system; and
 
 &emsp;(ii) to cover environmental evaluation and construction costs related to activities described in clause (i), including costs for surveys, administration, overhead, planning, and design.
 
@@ -82,7 +82,7 @@ Use of Surcharge for Construction, Repair, Improvement, and Maintenance.—(1)(A
 
 (B) Subparagraph (A) applies with respect to initiatives, utilizing temporary and mobile equipment, intended to provide members of reserve components, retired members, and other persons eligible for commissary benefits, but without reasonable access to commissary stores, improved access to commissary merchandise.
 
-(4) The Secretary of Defense, with the approval of the Director of the Office of Management and Budget, may obligate anticipated proceeds from the surcharges under subsection (d)for any use specified in paragraph (1), (2), or (3), without regard to fiscal year limitations, if the Secretary determines that such obligation is necessary to carry out any use of such adjustments or surcharges specified in such paragraph.
+(4) The Secretary of Defense, with the approval of the Director of the Office of Management and Budget, may obligate anticipated proceeds from the surcharges under subsection (d) for any use specified in paragraph (1), (2), or (3), without regard to fiscal year limitations, if the Secretary determines that such obligation is necessary to carry out any use of such adjustments or surcharges specified in such paragraph.
 
 (5) Revenues received by the Secretary of Defense from the following sources or activities of commissary store facilities shall be available for the purposes set forth in paragraphs (1), (2), and (3):
 
@@ -134,7 +134,7 @@ Subsec. (h). Pub. L. 108–375, §651(a)(5)(F), added subsec. (h).
 
 2002—Subsec. (b)(12). Pub. L. 107–314 substituted “, except that the Secretary shall notify Congress of any addition of, or change in, a merchandise category under this paragraph.” for “, except that the Secretary shall submit to Congress, not later than March 1 of each year, a report describing—
 
-&emsp;“(A) any addition of, or change in, a merchandise category proposed to be made under this paragraph during the one-year period beginning on that date; and
+&emsp;“(A) any addition of, or change in, a merchandise category proposed to be made under this paragraphduring the one-year period beginning on that date; and
 
 &emsp;“(B) those additions and changes in merchandise categories actually made during the preceding one-year period.”
 

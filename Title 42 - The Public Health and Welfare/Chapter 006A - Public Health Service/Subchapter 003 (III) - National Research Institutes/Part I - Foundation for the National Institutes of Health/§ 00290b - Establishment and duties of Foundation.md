@@ -58,7 +58,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;&emsp;(iv) the Commissioner of Food and Drugs.
 
-&emsp;(C) The ex officio members of the Board under subparagraph (B) shall appoint to the Board individuals from among a list of candidates to be provided by the National Academy of Science. Such appointed members shall include—
+&emsp;(C) The ex officio members of the Board under subparagraph (B) shall appoint to theBoard individuals from among a list of candidates to be provided by the National Academy of Science. Such appointed members shall include—
 
 &emsp;&emsp;(i) representatives of the general biomedical field;
 
@@ -226,7 +226,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (8) National Institutes of Health Amendments of 1990
 
-&emsp;The activities conducted in support of the National Institutes of Health Amendments of1990 (Public Law 101–613), and the amendments made by such Act, shall not be nullified by the enactment of this section.<sup>2</sup>
+&emsp;The activities conducted in support of the National Institutes of Health Amendments of 1990 (Public Law 101–613), and the amendments made by such Act, shall not be nullified by the enactment of this section.<sup>2</sup>
 
 #### (9) Limitation of activities
 
@@ -278,7 +278,7 @@ No participant in the program established under this part shall exercise any adm
 
 From amounts appropriated to the National Institutes of Health, for each fiscal year, the Director of NIH shall transfer not less than $500,000 and not more than $1,250,000 to the Foundation.
 
-(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Pub. L. 101–613, §2, Nov. 16, 1990, 104 Stat. 3224; amended Pub. L. 102–170, title II, §216, Nov. 26, 1991, 105 Stat. 1128; Pub. L. 102–321, title I, §163(b)(6), July 10, 1992, 106 Stat. 376; renumbered §499 and amended Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, June 10, 1993, 107 Stat. 133, 186; Pub. L. 104–316, title I, §122(b), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–392, title IV, §418(2), Nov. 13, 1998, 112 Stat. 3591; Pub. L. 107–109, §13, Jan. 4, 2002, 115 Stat. 1417; Pub. L. 109–482, title I, §107, Jan. 15, 2007, 120 Stat. 3696; Pub. L. 110–85, title V, §502(c), Sept. 27, 2007, 121 Stat. 889.)
+(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Pub. L. 101–613, §2, Nov. 16, 1990,104 Stat. 3224; amended Pub. L. 102–170, title II, §216, Nov. 26, 1991, 105 Stat. 1128; Pub. L. 102–321, title I, §163(b)(6), July 10, 1992, 106 Stat. 376; renumbered §499 and amended Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, June 10, 1993, 107 Stat. 133, 186; Pub. L. 104–316, title I, §122(b), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–392, title IV, §418(2), Nov. 13, 1998, 112 Stat. 3591; Pub. L. 107–109, §13, Jan. 4, 2002, 115 Stat. 1417; Pub. L. 109–482, title I, §107, Jan. 15, 2007, 120 Stat. 3696; Pub. L. 110–85, title V, §502(c), Sept. 27, 2007, 121 Stat. 889.)
 
 #### References in Text
 
@@ -294,7 +294,7 @@ A prior section 499 of act July 1, 1944, was classified to section 289h of this 
 
 #### Amendments
 
-2007—Subsec. (c)(1)(C). Pub. L. 110–85 substituted “and studies for which the Secretary issues a certification inthe affirmative under section 355a(n)(1)(A) of title 21” for “and studies listed by the Secretary pursuant to section 284m(a)(1)(A) of this title and referred under section 355a(d)(4)(C) of title 21”. Amendment was executed as the probable intent of Congress, notwithstanding errors in the directory language in quoting the text in the original to be stricken out.
+2007—Subsec. (c)(1)(C). Pub. L. 110–85 substituted “and studies for which the Secretary issues a certification in the affirmative under section 355a(n)(1)(A) of title 21” for “and studies listed by the Secretary pursuant to section 284m(a)(1)(A) of this title and referred under section 355a(d)(4)(C) of title 21”. Amendment was executed as the probable intent of Congress, notwithstanding errors in the directory language in quoting the text in the original to be stricken out.
 
 Subsec. (d)(1)(D)(ii). Pub. L. 109–482, §107(1)(A)(i), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “Upon the appointment of the members of the Board under clause (i)(II), the terms of service of the ex officio members of the Board as members of the Board shall terminate.”
 
@@ -364,7 +364,7 @@ Subsec. (c). Pub. L. 103–43, §1701(3), added subsec. (c). Former subsec. (c) 
 
 Subsec. (d). Pub. L. 103–43, §1701(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (f).
 
-Subsec. (d)(1). Pub. L. 103–43, §1701(4)(A), substituted “appointed members of the Board” for “members of the Foundation” in subpar. (A), “Board” for “Council” in subpar. (B), and “appoint to the Board” for “appoint to the Council” in subpar. (C), and added subpars. (D) to (G).
+Subsec. (d)(1). Pub. L. 103–43, §1701(4)(A), substituted “appointed members of the Board” for “members of theFoundation” in subpar. (A), “Board” for “Council” in subpar. (B), and “appoint to the Board” for “appoint to the Council” in subpar. (C), and added subpars. (D) to (G).
 
 Subsec. (d)(2). Pub. L. 103–43, §1701(4)(B), designated existing provisions as subpar. (A), substituted “an individual to serve as the initial Chair” for “an appointed member of the Board to serve as the Chair”, and added subpar. (B).
 
@@ -392,7 +392,7 @@ Subsec. (i)(5), (6). Pub. L. 103–43, §1701(5)(B), (C), redesignated par. (6) 
 
 Subsec. (i)(7). Pub. L. 103–43, §1701(5)(C), (D), redesignated par. (8) as (7) and substituted “part” for “subtitle”. Former par. (7) redesignated (6).
 
-Subsec. (i)(8). Pub. L. 103–43, §1701(5)(C), (E), redesignated par. (9) as (8) and substituted “establish a processfor the selection of candidates for positions under subsection (c) of this section” for “establish a mechanism for the selection of candidates, subject to the approval of the Director of the National Institutes of Health, for the endowed scientific positions within the organizational structure of the intramural research programs of the National Institutes of Health and candidates for participation in the National Institutes of Health Scholars program”.
+Subsec. (i)(8). Pub. L. 103–43, §1701(5)(C), (E), redesignated par. (9) as (8) and substituted “establish a process for the selection of candidates for positions under subsection (c) of this section” for “establish a mechanism for the selection of candidates, subject to the approval of the Director of the National Institutes of Health, for the endowed scientific positions within the organizational structure of the intramural research programs of the National Institutes of Health and candidates for participation in the National Institutes of Health Scholars program”.
 
 Subsec. (i)(9), (10). Pub. L. 103–43, §1701(5)(C), redesignated pars. (10) and (11) as (9) and (10), respectively. Former par. (9) redesignated (8).
 

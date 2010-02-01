@@ -30,5 +30,5 @@ Section was formerly classified to section 7383f of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (c). Pub. L. 108–136, §3141(h)(8)(D), added subsec. (c).
+2003—Subsec. (c). Pub. L. 108–136, §3141(h)(8)(D), added subsec. (c).
 

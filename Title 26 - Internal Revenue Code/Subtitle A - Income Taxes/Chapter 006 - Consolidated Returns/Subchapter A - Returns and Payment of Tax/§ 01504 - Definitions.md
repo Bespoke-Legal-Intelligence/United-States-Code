@@ -154,7 +154,7 @@ Subsecs. (b)(2), (c)(1), (2)(A). Pub. L. 98–369, §211(b)(20), substituted “
 
 1980—Subsec. (a). Pub. L. 96–222 substituted “a tax credit employee stock ownership plan” for “an ESOP” and “employee” for “leveraged employee”.
 
-1978—Subsec. (a). Pub. L. 95–600 substituted “(within the meaning for section 409A(<i>l</i>)) while such securities are held under an ESOP, or qualifying employer securities (within the meaning of section 4975(e)(8)) while such securities are held under a leveraged employee stock ownership plan which meets the requirements of section 4975(e)(7)” for “within the meaning of section 301(d)(9)(A) of the Tax Reduction Act of 1975, or qualifying employer securities within the meaning of section 4975(e)(8) while such securities are held under an employee stock ownership plan which meets the requirements of section 301(d) of such Act or section 4975(e)(7), respectively”.
+1978—Subsec. (a). Pub. L. 95–600 substituted “(within the meaning for section 409A(<i>l</i>)) while such securities are held under an ESOP, or qualifying employer securities (within the meaning of section 4975(e)(8)) while such securities are held under a leveraged employeestock ownership plan which meets the requirements of section 4975(e)(7)” for “within the meaning of section 301(d)(9)(A) of the Tax Reduction Act of 1975, or qualifying employer securities within the meaning of section 4975(e)(8) while such securities are held under an employee stock ownership plan which meets the requirements of section 301(d) of such Act or section 4975(e)(7), respectively”.
 
 1976—Subsec. (a). Pub. L. 94–455, §803(b)(3), substituted “dividends, employer securities within the meaning of section 301(d)(9)(A) of the Tax Reduction Act of 1976, or qualifying employer securities within the meaning of section 4975(e)(8) while such securities are held under an employee stock ownership plan which meets the requirements of section 301(d) of such Act or section 4975(e)(7), respectively” for “dividends” after “preferred as to”.
 
@@ -232,7 +232,7 @@ Special rule not to apply to certain sell-downs after june 22, 1984.—If—
 
 “(4)
 
-Exception for certain sell-downs.—Subsection (b)(2) (and not subsection (b)(3)) will apply to a corporation if such corporation issues or sells stock after June 22, 1984, pursuant to a registration statement filed with the Securities and Exchange Commission on or before June 22, 1984, but only if the requirements of the amendment made by subsection (a) \[amending this section\] (substituting ‘more than 50 percent’ for ‘at least 80 percent’ in paragraph (2)(B) of section 1504(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) are satisfied immediately after such issuance or sale and at all times thereafter until the first day of the first taxable year beginning after December 31, 1987. For purposes of the preceding sentence, if there is a letter of intent between a corporation and a securities underwriter entered into on or before June 22, 1984, and the subsequent issuance or sale is effected pursuant to a registration statement filed with the Securities and Exchange Commission, such stock shall be treated as issued or sold pursuant to a registration statement filed with the Securities and Exchange Commission on or before June 22, 1984.
+Exception for certain sell-downs.—Subsection (b)(2) (and not subsection (b)(3)) will apply to a corporation if such corporation issues or sells stock after June 22, 1984, pursuant to a registration statement filed with the Securities and Exchange Commission on or before June 22, 1984, but only if the requirements of the amendment made by subsection (a) \[amending this section\] (substituting ‘more than 50 percent’ for ‘at least 80 percent’ in paragraph (2)(B) of section 1504(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) are satisfied immediately after such issuance or sale and at all times thereafter until the first day of the first taxable year beginning after December 31, 1987. For purposes of the preceding sentence, if there is a letter of intent between a corporation and a securities underwriter entered into on or before June 22, 1984, and the subsequent issuance or sale is effected pursuant to a registration statement filed with the Securities andExchange Commission, such stock shall be treated as issued or sold pursuant to a registration statement filed with the Securities and Exchange Commission on or before June 22, 1984.
 
 “(5)
 
@@ -308,7 +308,7 @@ Section 1507(c)(1) of Pub. L. 94–455 provided that: “The amendments made by 
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–178 applicable with respect to taxable years ending after Dec. 31, 1971, except that a corporation may not be a DISC for any taxable year beginning before Jan. 1, 1972, see section 507 of Pub. L. 92–178, set out as an Effective Date note under section 991 of this title.
+Amendment by Pub. L. 92–178 applicable with respect to taxable years ending after Dec. 31, 1971, except thata corporation may not be a DISC for any taxable year beginning before Jan. 1, 1972, see section 507 of Pub. L. 92–178, set out as an Effective Date note under section 991 of this title.
 
 #### Effective Date of 1969 Amendment
 
@@ -416,7 +416,7 @@ Judicial proceedings.—In the case of any proceeding in a Federal court or the 
 
 &emsp;“(4)
 
-Failures.—For purposes of the 1986 Code, any failure by the Secretary of the Treasury or his delegate to comply with the provisions of this subsection shall not affect the validity of the determination of the Internal Revenue Service of any adjustment of tax liability of any taxpayer described in paragraph (1).
+Failures.—For purposes of the 1986 Code, any failure by the Secretary of the Treasury or his delegate to comply with the provisions of this subsection shall not affect the validity of the determination ofthe Internal Revenue Service of any adjustment of tax liability of any taxpayer described in paragraph (1).
 
 “(d)
 

@@ -24,7 +24,7 @@ Affordable housing activities under this subchapter are activities, in accordanc
 
 #### (6) Model activities
 
-&emsp;Housing activities under model programs that are designed to carry out the purposes ofthis chapter and are specifically approved by the Secretary as appropriate for such purpose.
+&emsp;Housing activities under model programs that are designed to carry out the purposes of this chapter and are specifically approved by the Secretary as appropriate for such purpose.
 
 #### (7) Community development demonstration project
 

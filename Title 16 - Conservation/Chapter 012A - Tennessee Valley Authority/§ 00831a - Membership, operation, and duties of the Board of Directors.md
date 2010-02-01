@@ -102,7 +102,7 @@ In appointing members of the Board, the President shall—
 
 &emsp;&emsp;(H) ensure that all activities of the Corporation are carried out in compliance with applicable law;
 
-&emsp;&emsp;(I) create an audit committee, composed solely of Board members independent of the management of the Corporation, which shall—
+&emsp;&emsp;(I) create an audit committee, composed solely of Board members independent of themanagement of the Corporation, which shall—
 
 &emsp;&emsp;&emsp;(i) in consultation with the inspector general of the Corporation, recommend to the Board an external auditor;
 
@@ -216,7 +216,7 @@ Effective Date.—The amendments made by this title \[enacting this section, ame
 
 “(c)
 
-Selection of Chairman.—The Board of Directors of the Tennessee Valley Authority shall select one of the members to act as chairman of the Board not later than 30 days after the effective date specified in subsection (b).
+Selection of Chairman.—The Board of Directors of the Tennessee Valley Authority shall select one ofthe members to act as chairman of the Board not later than 30 days after the effective date specified in subsection (b).
 
 “(d)
 

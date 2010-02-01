@@ -196,7 +196,7 @@ Section 501 of title V of Pub. L. 104–132 provided that:
 
 Findings.—The Congress finds that—
 
-&emsp;“(1) nuclear materials, including byproduct materials, can be used to create radioactive dispersal devices that are capable of causing serious bodily injuryas well as substantial damage to property and to the environment;
+&emsp;“(1) nuclear materials, including byproduct materials, can be used to create radioactive dispersal devices that are capable of causing serious bodily injury as well as substantial damage to property and to the environment;
 
 &emsp;“(2) the potential use of nuclear materials, including byproduct materials, enhances the threat posed by terrorist activities and thereby has a greater effect on the security interests of the United States;
 

@@ -18,7 +18,7 @@ To the extent necessary to accomplish the purpose specified in subsection (a) of
 
 &emsp;(C) pre-approval requirements;
 
-&emsp;(2) requirements that physicians and other health care professionals be licensed in the State in which they provide such services, if they have equivalent licensing in another State and are not affirmatively excluded from practice in that State or in any State a part of which is included in the emergency area;
+&emsp;(2) requirements that physicians and other health care professionals be licensed in the State in which they provide such services, if they have equivalent licensing in another State and are not affirmatively excluded frompractice in that State or in any State a part of which is included in the emergency area;
 
 &emsp;(3) actions under section 1395dd of this title (relating to examination and treatment for emergency medical conditions and women in labor) for—
 
@@ -52,7 +52,7 @@ To the extent necessary to accomplish the purpose specified in subsection (a) of
 
 &emsp;&emsp;&emsp;(ii) the patient's right to request confidential communications.
 
-> Insofar as the Secretary exercises authority under paragraph (6) with respect to individuals enrolled in a Medicare+Choice plan, to the extent possible given the circumstances, the Secretary shall reconcile payments made on behalf of such enrollees to ensure that the enrollees do not pay more than would be required had they received services from providers within the network of the plan and may reconcile payments to the organization offering the plan to ensure that such organization pays for services for which payment is included in the capitation payment it receives under part C of subchapter XVIII of this chapter. A waiver or modification provided for under paragraph (3) or (7) shall only be in effect if such actions are taken in a manner that does not discriminate among individuals on the basis of their source of payment or of their ability to pay, and, except in the case of a waiver or modification to which the fifth sentence of thissubsection applies, shall be limited to a 72-hour period beginning upon implementation of a hospital disaster protocol. A waiver or modification under such paragraph (7) shall be withdrawn after such period and the provider shall comply with the requirements under such paragraph for any patient still under the care of the provider. If a public health emergency described in subsection (g)(1)(B) involves a pandemic infectious disease (such as pandemic influenza), the duration of a waiver or modification under paragraph (3) shall be determined in accordance with subsection (e) as such subsection applies to public health emergencies.
+> Insofar as the Secretary exercises authority under paragraph (6) with respect to individuals enrolled in a Medicare+Choice plan, to the extent possible given the circumstances, the Secretary shall reconcile payments made on behalf of such enrollees to ensure that the enrollees do not pay more than would be required had they received services from providers within the network of the plan and may reconcile payments to the organization offering the plan to ensure that such organization pays for services for which payment is included in the capitation payment it receives under part C of subchapter XVIII of this chapter. A waiver or modification provided for under paragraph (3) or (7) shall only be in effect if such actions are taken in a manner that does not discriminate among individuals on the basis of their source of payment or of their ability to pay, and, except in the case of a waiver or modification to which the fifth sentence of this subsection applies, shall be limited to a 72-hour period beginning upon implementation of a hospital disaster protocol. A waiver or modification under such paragraph (7) shall be withdrawn after such period and the provider shall comply with the requirements under such paragraph for any patient still under the care of the provider. If a public health emergency described in subsection (g)(1)(B) involves a pandemic infectious disease (such as pandemic influenza), the duration of a waiver or modification under paragraph (3) shall be determined in accordance with subsection (e) as such subsection applies to public health emergencies.
 
 #### (c) Authority for retroactive waiver
 
@@ -88,7 +88,7 @@ The Secretary shall provide a certification and advance written notice to the Co
 
 #### (2) Extension of 60-day periods
 
-&emsp;The Secretary may, by notice, provide for an extension of a 60-day period described in paragraph (1)(C) (or an additional period provided under this paragraph) for additional period or periods (not to exceed, except as subsequently provided under this paragraph, 60 days each), but any such extension shall not affect or prevent the termination of a waiver or modification under subparagraph (A) or (B) of paragraph (1).
+&emsp;The Secretary may, by notice, provide for an extension of a 60-day period described in paragraph (1)(C) (or an additional period providedunder this paragraph) for additional period or periods (not to exceed, except as subsequently provided under this paragraph, 60 days each), but any such extension shall not affect or prevent the termination of a waiver or modification under subparagraph (A) or (B) of paragraph (1).
 
 #### (f) Report to Congress
 

@@ -6,7 +6,7 @@ When used in this subchapter, unless the context otherwise requires, the followi
 
 &emsp;(1) “Assignment” includes any direct or indirect transfer or hypothecation of an investment advisory contract by the assignor or of a controlling block of the assignor's outstanding voting securities by a security holder of the assignor; but if the investment adviser is a partnership, no assignment of an investment advisory contract shall be deemed to result from the death or withdrawal of a minority of the members of the investment adviser having only a minority interest in the business of the investment adviser, or from the admission to the investment adviser of one or more members who, after such admission, shall be only a minority of the members and shall have only a minority interest in the business.
 
-&emsp;(2) “Bank” means (A) a banking institution organized under the laws of the United States or a Federal savings association, as defined in section 1462(5) of title 12, (B) a member bank of the Federal Reserve System, (C) any other banking institution, savings association, as defined in section 1462(4) of title 12, or trust company, whether incorporated or not, doing business under the laws of any State or of the United States, a substantial portion of the business of which consists of receiving deposits or exercising fiduciary powers similar to those permitted to national banks under the authority of the Comptroller of the Currency, and which is supervised and examined by State or Federal authority having supervision over banks or savings associations, and which is not operated for the purpose of evading the provisions of this subchapter, and (D) a receiver, conservator, or other liquidating agent of any institution or firm included in clauses (A), (B), or (C) of this paragraph.
+&emsp;(2) “Bank” means (A) a banking institution organized under the laws of the United States or a Federal savings association, as defined in section 1462(5) of title 12, (B) a member bank of the Federal Reserve System, (C) any other banking institution, savings association, as defined in section 1462(4) of title 12, or trust company, whether incorporated or not, doing business under the laws of any State or of the United States, a substantial portion of the business of which consists of receiving deposits or exercising fiduciary powers similar tothose permitted to national banks under the authority of the Comptroller of the Currency, and which is supervised and examined by State or Federal authority having supervision over banks or savings associations, and which is not operated for the purpose of evading the provisions of this subchapter, and (D) a receiver, conservator, or other liquidating agent of any institution or firm included in clauses (A), (B), or (C) of this paragraph.
 
 &emsp;(3) The term “broker” has the same meaning as given in section 3 of the Securities Exchange Act of 1934 \[15 U.S.C. 78c\].
 
@@ -14,7 +14,7 @@ When used in this subchapter, unless the context otherwise requires, the followi
 
 &emsp;(5) “Company” means a corporation, a partnership, an association, a joint-stock company, a trust, or any organized group of persons, whether incorporated or not; or any receiver, trustee in a case under title 11, or similar official, or any liquidating agent for any of the foregoing, in his capacity as such.
 
-&emsp;(6) “Convicted” includes a verdict, judgment, or plea of guilty, or a finding of guilt on a plea of nolo contendere, if such verdict, judgment, plea, or finding has not been reversed,set aside, or withdrawn, whether or not sentence has been imposed.
+&emsp;(6) “Convicted” includes a verdict, judgment, or plea of guilty, or a finding of guilt on a plea of nolo contendere, if such verdict, judgment, plea, or finding has not been reversed, set aside, or withdrawn, whether or not sentence has been imposed.
 
 &emsp;(7) The term “dealer” has the same meaning as given in section 3 of the Securities Exchange Act of 1934 \[15 U.S.C. 78c\], but does not include an insurance company or investment company.
 
@@ -68,7 +68,7 @@ When used in this subchapter, unless the context otherwise requires, the followi
 
 &emsp;&emsp;(B) for which all of the records relating to its investment adviser activities are separately maintained in or extractable from such unit's own facilities or the facilities of the bank, and such records are so maintained or otherwise accessible as to permit independent examination and enforcement by the Commission of this subchapter or the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] and rules and regulations promulgated under this subchapter or the Investment Company Act of 1940.
 
-&emsp;(27) The terms “security future” and “narrow-based security index” have the same meanings as provided in section 3(a)(55) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(55)\].
+&emsp;(27) The terms “security future” and “narrow-based security index” have the same meanings as provided in section 3(a)(55) of theSecurities Exchange Act of 1934 \[15 U.S.C. 78c(a)(55)\].
 
 &emsp;(28) The term “credit rating agency” has the same meaning as in section 3 of the Securities Exchange Act of 1934 \[15 U.S.C. 78c\].
 

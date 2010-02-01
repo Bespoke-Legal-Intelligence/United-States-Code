@@ -74,7 +74,7 @@ Subsec. (c). Pub. L. 99–234 added subsec. (c).
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to be promulgated not later than150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as a note under section 5701 of this title.
+Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to be promulgated not later than 150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as a note under section 5701 of this title.
 
 #### Regulations; Time for Issuance
 
@@ -86,7 +86,7 @@ For termination, effective May 15, 2000, of provisions in subsection (b)(1) of t
 
 #### Reports Regarding Foreign Travel
 
-Pub. L. 105–277, div. G, subdiv. B, title XXV, §2505, Oct. 21, 1998, 112 Stat. 2681–837, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §707\], Nov. 29, 1999, 113 Stat. 1536, 1501A–461; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
+Pub. L. 105–277, div. G, subdiv. B, title XXV, §2505, Oct. 21, 1998, 112 Stat. 2681–837, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §707\], Nov.29, 1999, 113 Stat. 1536, 1501A–461; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
 
 “(a)
 

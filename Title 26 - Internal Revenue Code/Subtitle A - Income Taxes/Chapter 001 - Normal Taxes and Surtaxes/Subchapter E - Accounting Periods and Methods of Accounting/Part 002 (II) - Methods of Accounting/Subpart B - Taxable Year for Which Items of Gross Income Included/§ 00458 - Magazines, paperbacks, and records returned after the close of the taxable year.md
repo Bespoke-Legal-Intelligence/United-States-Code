@@ -2,7 +2,7 @@
 
 #### (a) Exclusion from gross income
 
-A taxpayer who is on an accrual method of accounting may elect not to include in the gross income for the taxable year the income attributable to the qualified sale of any magazine, paperback, or record which is returned to the taxpayer before the close of the merchandise return period.
+A taxpayer who is on an accrual method of accounting may elect not to include in the grossincome for the taxable year the income attributable to the qualified sale of any magazine, paperback, or record which is returned to the taxpayer before the close of the merchandise return period.
 
 #### (b) Definitions and special rules
 
@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### (2) Scope of election
 
-&emsp;An election made under this section shall apply to all qualified sales of magazines, paperbacks, or records, as the case may be, made in connection with the trade or business withrespect to which the taxpayer has made the election.
+&emsp;An election made under this section shall apply to all qualified sales of magazines, paperbacks, or records, as the case may be, made in connection with the trade or business with respect to which the taxpayer has made the election.
 
 #### (3) Period to which election applies
 
@@ -90,7 +90,7 @@ In applying section 481(c) with respect to any election under this section which
 
 #### (1) In general
 
-&emsp;In the case of any election under this section which applies to paperbacks or records, in lieu of applying section 481, the taxpayer shall establish a suspense account for the trade or business for the taxable year for which the election is made.
+&emsp;In the case of any election under this section which applies to paperbacks or records, in lieuof applying section 481, the taxpayer shall establish a suspense account for the trade or business for the taxable year for which the election is made.
 
 #### (2) Initial opening balance
 

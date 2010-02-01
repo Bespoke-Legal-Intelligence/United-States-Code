@@ -16,7 +16,7 @@ References to specific sections were made to read: “according to law” to ach
 
 Mandatory punishment provision was rephrased in the alternative.
 
-The words “without permission of the master” were deleted to remove an inconsistency with the provisions of section 163 of title 46, U.S.C., 1940 ed., and customs regulations. Customs regulations, 1943, section 4.1c,prohibit any person “with or without consent of the master” from boarding vessel, with specific enumerated exceptions. Said section 163 prescribes a “penalty of not more than $100 or imprisonment not to exceed six months, or both” for violating regulations. The revised section increases the fine from $100 to $200 for boarding the vessel “with the consent of the master.”
+The words “without permission of the master” were deleted to remove an inconsistency with the provisions of section 163 of title 46, U.S.C., 1940 ed., and customs regulations. Customs regulations, 1943, section 4.1c, prohibit any person “with or without consent of the master” from boarding vessel, with specific enumerated exceptions. Said section 163 prescribes a “penalty of not more than $100 or imprisonment not to exceed six months, or both” for violating regulations. The revised section increases the fine from $100 to $200 for boarding the vessel “with the consent of the master.”
 
 Minor changes were made in phraseology.
 

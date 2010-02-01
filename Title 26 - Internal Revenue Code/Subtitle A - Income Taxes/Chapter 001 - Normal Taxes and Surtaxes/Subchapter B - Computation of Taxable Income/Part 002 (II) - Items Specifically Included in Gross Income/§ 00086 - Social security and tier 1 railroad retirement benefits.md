@@ -86,7 +86,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section, the amount of social security benefits received during any taxable year shall be reduced by any repayment made by the taxpayer during the taxable year of a social security benefit previously received by the taxpayer (whether or not such benefit was received during the taxable year).
+&emsp;&emsp;For purposes of this section, the amount of social security benefits received during anytaxable year shall be reduced by any repayment made by the taxpayer during the taxable year of a social security benefit previously received by the taxpayer (whether or not such benefit was received during the taxable year).
 
 #### (B) Denial of deduction
 
@@ -154,7 +154,7 @@ For purposes of—
 
 The Social Security Act, referred to in subsecs. (a)(1) and (d)(1)(A), (3), (4)(A), (5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of Title 42. Sections 207, 224, and 708 of the Act are classified to sections 407, 424a, and 909 of Title 42, respectively. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Railroad Retirement Act of 1974, referred to in subsec. (d)(3), (4), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Section 3(a)(1), (f)(3) of the Act is classified to section 231b(a)(1), (f)(3) of Title 45. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (d)(3), (4), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapterIV (§231 et seq.) of chapter 9 of Title 45, Railroads. Section 3(a)(1), (f)(3) of the Act is classified to section 231b(a)(1), (f)(3) of Title 45. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 #### Prior Provisions
 
@@ -252,7 +252,7 @@ Amendment by section 1301(j)(8) of Pub. L. 99–514 applicable to bonds issued a
 
 Amendment by section 1847(b)(2) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Amendment by section 12111(b) of Pub. L. 99–272 applicable with respect to benefit checks issued for months ending after Apr. 7, 1986, see section 12111(c) of Pub. L. 99–272, set out as a note under section 909 of Title 42, The Public Health and Welfare.
+Amendment by section 12111(b) of Pub. L. 99–272 applicable with respect to benefit checks issued for months ending after Apr. 7, 1986, see section 12111(c) ofPub. L. 99–272, set out as a note under section 909 of Title 42, The Public Health and Welfare.
 
 Section 13204(b) of Pub. L. 99–272 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any monthly benefit for which the generally applicable payment date is after December 31, 1985.”
 

@@ -80,7 +80,7 @@ Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Display in Federal Buildings of Code of Ethics for Government Service
 
-Pub. L. 96–303, July 3, 1980, 94 Stat. 855, which provided that each agency, under regulations prescribed byAdministrator of General Services Administration, display in appropriate areas of Federal buildings copies of the Code of Ethics for Government Service, authorized publication and distribution of such Code, and set forth text of the Code of Ethics for Government Service, was repealed by Pub. L. 104–179, §4(a), Aug. 6, 1996, 110 Stat. 1566.
+Pub. L. 96–303, July 3, 1980, 94 Stat. 855, which provided that each agency, under regulations prescribed by Administrator of General Services Administration, display in appropriate areas of Federal buildings copies of the Code of Ethics for Government Service, authorized publication and distribution of such Code, and set forth text of the Code of Ethics for Government Service, was repealed by Pub. L. 104–179, §4(a), Aug. 6, 1996, 110 Stat. 1566.
 
 #### Agency Acceptance of Donations for Federal Employees
 
@@ -216,7 +216,7 @@ Drug use is having serious adverse effects upon a significant proportion of the 
 
 The Federal government, as an employer, is concerned with the well-being of its employees, the successful accomplishment of agency missions, and the need to maintain employee productivity;
 
-The Federal government, as the largest employer in the Nation, can and should show the way towards achieving drug-free workplaces through a program designed to offer drug users a helping hand and, at the same time, demonstrating to drug users and potential drug users that drugs will not be tolerated in the Federal workplace;
+The Federal government, as the largest employer in the Nation, can and should show the way towardsachieving drug-free workplaces through a program designed to offer drug users a helping hand and, at the same time, demonstrating to drug users and potential drug users that drugs will not be tolerated in the Federal workplace;
 
 The profits from illegal drugs provide the single greatest source of income for organized crime, fuel violent street crime, and otherwise contribute to the breakdown of our society;
 
@@ -314,7 +314,7 @@ Sec. 6. <i>Coordination of Agency Programs</i>. (a) The Director of the Office o
 
 (b) The Attorney General shall render legal advice regarding the implementation of this Order and shall be consulted with regard to all guidelines, regulations, and policies proposed to be adopted pursuant to this Order.
 
-(c) Nothing in this Order shall be deemed to limit the authorities of the Director of Central Intelligenceunder the National Security Act of 1947, as amended \[50 U.S.C. 401 et seq.\], or the statutory authorities of the National Security Agency or the Defense Intelligence Agency. Implementation of this Order within the Intelligence Community, as defined in Executive Order No. 12333 \[50 U.S.C. 401 note\], shall be subject to the approval of the head of the affected agency.
+(c) Nothing in this Order shall be deemed to limit the authorities of the Director of Central Intelligence under the National Security Act of 1947, as amended \[50 U.S.C. 401 et seq.\], or the statutory authorities of the National Security Agency or the Defense Intelligence Agency. Implementation of this Order within the Intelligence Community, as defined in Executive Order No. 12333 \[50 U.S.C. 401 note\], shall be subject to the approval of the head of the affected agency.
 
 Sec. 7. <i>Definitions</i>. (a) This Order applies to all agencies of the Executive Branch.
 
@@ -352,7 +352,7 @@ By virtue of the authority vested in me as President by the Constitution and the
 
 #### Part I—Principles of Ethical Conduct
 
-Section 101. <i>Principles of Ethical Conduct</i>. To ensure that every citizen can have complete confidence in the integrity of the Federal Government, each Federal employee shall respect and adhere to the fundamental principles of ethical service as implemented in regulations promulgated under sections 201 and 301 of this order:
+Section 101. <i>Principles of Ethical Conduct</i>. To ensure that every citizen can have complete confidence in the integrity of the Federal Government, each Federal employee shall respect and adhere to the fundamentalprinciples of ethical service as implemented in regulations promulgated under sections 201 and 301 of this order:
 
 (a) Public service is a public trust, requiring employees to place loyalty to the Constitution, the laws, and ethical principles above private gain.
 
@@ -386,7 +386,7 @@ Sec. 102. <i>Limitations on Outside Earned Income.</i>
 
 (a) No employee who is appointed by the President to a full-time noncareer position in the executive branch (including full-time noncareer employees in the White House Office, the Office of Policy Development, and the Office of Cabinet Affairs), shall receive any earned income for any outside employment or activity performed during that Presidential appointment.
 
-(b) The prohibition set forth in subsection (a) shall not apply to any full-time noncareer employees employed pursuant to 3 U.S.C. 105 and 3 U.S.C. 107(a) at salaries below the minimum rate of basic pay then paidfor GS–9 of the General Schedule. Any outside employment must comply with relevant agency standards of conduct, including any requirements for approval of outside employment.
+(b) The prohibition set forth in subsection (a) shall not apply to any full-time noncareer employees employed pursuant to 3 U.S.C. 105 and 3 U.S.C. 107(a) at salaries below the minimum rate of basic pay then paid for GS–9 of the General Schedule. Any outside employment must comply with relevant agency standards of conduct, including any requirements for approval of outside employment.
 
 #### Part II—Office of Government Ethics Authority
 
@@ -456,7 +456,7 @@ Sec. 503. <i>Definitions</i>. For purposes of this order, the term:
 
 (e) “Special Government employee” means a special Government employee as defined in 18 U.S.C. 202(a).
 
-Sec. 504. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executivebranch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+Sec. 504. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
 #### Executive Order No. 12820
 
@@ -549,4 +549,218 @@ Sec. 4. <i>Reporting Provisions</i>. (a) Not later than 180 days from the date o
 Sec. 5. <i>Judicial Review</i>. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable by any party at law or in equity against the United States, its departments, agencies, entities, officers, employees, or agents, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13488. Granting Reciprocity on Excepted Service and Federal Contractor Employee Fitness and Reinvestigating Individuals in Positions of Public Trust
+
+Ex. Ord. No. 13488, Jan. 16, 2009, 74 F.R. 4111, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 1104(a)(1), 3301, and 7301 of title 5, United States Code, and in order to simplify and streamline the system of Federal Government personnel investigative and adjudicative processes to make them more efficient and effective, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. (a) When agencies determine the fitness of individuals to perform work as employees in the excepted service or as contractor employees, prior favorable fitness or suitability determinations should be granted reciprocal recognition, to the extent practicable.
+
+(b) It is necessary to reinvestigate individuals in positions of public trust in order to ensure that they remain suitable for continued employment.
+
+Sec. 2. <i>Definitions</i>. For the purposes of this order:
+
+(a) “Agency” means an executive agency as defined in section 105 of title 5, United States Code, but does not include the Government Accountability Office.
+
+(b) “Contractor employee” means an individual who performs work for or on behalf of any agency under acontract and who, in order to perform the work specified under the contract, will require access to space, information, information technology systems, staff, or other assets of the Federal Government. Such contracts, include, but are not limited to:
+
+&emsp;(i) personal services contracts;
+
+&emsp;(ii) contracts between any non-Federal entity and any agency; and
+
+&emsp;(iii) sub-contracts between any non-Federal entity and another non-Federal entity to perform work related to the primary contract with the agency.
+
+(c) “Excepted service” has the meaning provided in section 2103 of title 5, United States Code, but does not include those positions in any element of the intelligence community as defined in the National Security Act of 1947, as amended, to the extent they are not otherwise subject to Office of Personnel Management appointing authorities.
+
+(d) “Fitness” is the level of character and conduct determined necessary for an individual to perform work for or on behalf of a Federal agency as an employee in the excepted service (other than a position subject to suitability) or as a contractor employee.
+
+(e) “Fitness determination” means a decision by an agency that an individual has or does not have the required level of character and conduct necessary to perform work for or on behalf of a Federal agency as an employee in the excepted service (other than a position subject to suitability) or as a contractor employee. A favorable fitness determination is not a decision to appoint or contract with an individual.
+
+(f) “Position of Public Trust” has the meaning provided in 5 <i>CFR</i> Part 731.
+
+(g) “Suitability” has the meaning and coverage provided in <i>CFR</i> Part 731.
+
+Sec. 3. <i>Agency Authority to Set Fitness Criteria and Determine Equivalency</i>. The authority to establish criteria for making fitness determinations remains within the discretion of the agency head. Agency heads also have the discretion to determine whether their criteria are equivalent to suitability standards established by the Office of Personnel Management. Agency heads shall take into account Office of Personnel Management guidance when exercising this discretion.
+
+Sec. 4. <i>Reciprocal Recognition of Fitness and Suitability Determinations</i>. (a) Except as provided by subsection (b) of this section, agencies making fitness determinations shall grant reciprocal recognition to a prior favorable fitness or suitability determination when:
+
+&emsp;(i) the gaining agency uses criteria for making fitness determinations equivalent to suitability standards established by the Office of Personnel Management;
+
+&emsp;(ii) the prior favorable fitness or suitability determination was based on criteria equivalent to suitability standards established by the Office of Personnel Management; and
+
+&emsp;(iii) the individual has had no break in employment since the favorable determination was made.
+
+(b) Exceptions to Reciprocal Recognition. A gaining agency is not required to grant reciprocal recognition to a prior favorable fitness or suitability determination when:
+
+&emsp;(i) the new position requires a higher level of investigation than previously conducted for that individual;
+
+&emsp;(ii) an agency obtains new information that calls into question the individual's fitness based on character or conduct; or
+
+&emsp;(iii) the individual's investigative record shows conduct that is incompatible with the core duties of the new position.
+
+Sec. 5. <i>Reinvestigation of Individuals in Positions of Public Trust</i>. Individuals in positions of public trust shall be subject to reinvestigation under standards (including but not limited to the frequency of such reinvestigation) as determined by the Director of the Office of Personnel Management, to ensure their suitability for continued employment.
+
+Sec. 6. <i>Responsibilities</i>. (a) An agency shall report to the Office of Personnel Management the nature and results of the background investigation and fitness determination (or later changes to that determination) made on an individual, to the extent consistent with law.
+
+(b) The Director of the Office of Personnel Management is delegated authority to implement this order, including the authority to issue regulations and guidance governing suitability, or guidance related to fitness, as the Director determines appropriate.
+
+Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+&emsp;(i) authority granted by law to a department or agency, or the head thereof; or
+
+&emsp;(ii) functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order shall not suspend, impede, or otherwise affect Executive Order 10450 of April 27, 1953, as amended, or Executive Order 13467 of June 30, 2008;
+
+(d) This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its agencies, instrumentalities, or entities, its officers, employees or agents, or any other person.
+
+Sec. 8. <i>Effective Date and Applicability</i>. This order is effective upon issuance and is applicable to individuals newly appointed to excepted service positions or hired as contractor employees beginning 90 days from the effective date of this order.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13490. Ethics Commitments by Executive Branch Personnel
+
+Ex. Ord. No. 13490, Jan. 21, 2009, 74 F.R. 4673, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, and sections 3301 and 7301 of title 5, United States Code, it is hereby ordered as follows:
+
+Section 1. <i>Ethics Pledge</i>. Every appointee in every executive agency appointed on or after January 20, 2009, shall sign, and upon signing shall be contractually committed to, the following pledge upon becoming an appointee:
+
+“As a condition, and in consideration, of my employment in the United States Government in a position invested with the public trust, I commit myself to the following obligations, which I understand are binding on me and are enforceable under law:
+
+“1. <i>Lobbyist Gift Ban</i>. I will not accept gifts from registered lobbyists or lobbying organizations for the duration of my service as an appointee.
+
+“2. <i>Revolving Door Ban—All Appointees Entering Government</i>. I will not for a period of 2 years from the date of my appointment participate in any particular matter involving specific parties that is directly and substantially related to my former employer or former clients, including regulations and contracts.
+
+“3. <i>Revolving Door Ban—Lobbyists Entering Government</i>. If I was a registered lobbyist within the 2 years before the date of my appointment, in addition to abiding by the limitations of paragraph 2, I will not for a period of 2 years after the date of my appointment:
+
+(a) participate in any particular matter on which I lobbied within the 2 years before the date of my appointment;
+
+(b) participate in the specific issue area in which that particular matter falls; or
+
+(c) seek or accept employment with any executive agency that I lobbied within the 2 years before the date of my appointment.
+
+“4. <i>Revolving Door Ban—Appointees Leaving Government</i>. If, upon my departure from the Government, I am covered by the post-employment restrictions on communicating with employees of my former executive agency set forth in section 207(c) of title 18, United States Code, I agree that I will abide by those restrictions for a period of 2 years following the end of my appointment.
+
+“5. <i>Revolving Door Ban—Appointees Leaving Government to Lobby</i>. In addition to abiding by the limitations of paragraph 4, I also agree, upon leaving Government service, not to lobby any covered executive branch official or non-career Senior Executive Service appointee for the remainder of the Administration.
+
+“6. <i>Employment Qualification Commitment</i>. I agree that any hiring or other employment decisions I make will be based on the candidate's qualifications, competence, and experience.
+
+“7. <i>Assent to Enforcement</i>. I acknowledge that the Executive Order entitled ‘Ethics Commitments by Executive Branch Personnel,’ issued by the President on January 21, 2009, which I have read before signing this document, defines certain of the terms applicable to the foregoing obligations and sets forth the methods for enforcing them. I expressly accept the provisions of that Executive Order as a part of this agreement and as binding on me. I understand that the terms of this pledge are in addition to any statutory or other legal restrictions applicable to me by virtue of Federal Government service.”
+
+Sec. 2. <i>Definitions</i>. As used herein and in the pledge set forth in section 1 of this order:
+
+(a) “Executive agency” shall include each “executive agency” as defined by section 105 of title 5, United States Code, and shall include the Executive Office of the President; provided, however, that for purposes of this order “executive agency” shall include the United States Postal Service and Postal Regulatory Commission, but shall exclude the Government Accountability Office.
+
+(b) “Appointee” shall include every full-time, non-career Presidential or Vice-Presidential appointee, non-career appointee in the Senior Executive Service (or other SES-type system), and appointee to a position that has been excepted from the competitive service by reason of being of a confidential or policymaking character (Schedule C and other positions excepted under comparable criteria) in an executive agency. It does not include any person appointed as a member of the Senior Foreign Service or solely as a uniformed service commissioned officer.
+
+(c) “Gift”
+
+&emsp;(1) shall have the definition set forth in section 2635.203(b) of title 5, Code of Federal Regulations;
+
+&emsp;(2) shall include gifts that are solicited or accepted indirectly as defined at section 2635.203(f) of title 5, Code of Federal Regulations; and
+
+&emsp;(3) shall exclude those items excluded by sections 2635.204(b), (c), (e)(1) \& (3) and (j)–(l) of title 5, Code of Federal Regulations.
+
+(d) “Covered executive branch official” and “lobbyist” shall have the definitions set forth in section 1602 of title 2, United States Code.
+
+(e) “Registered lobbyist or lobbying organization” shall mean a lobbyist or an organization filing a registration pursuant to section 1603(a) of title 2, United States Code, and in the case of an organization filing such a registration, “registered lobbyist” shall include each of the lobbyists identified therein.
+
+(f) “Lobby” and “lobbied” shall mean to act or have acted as a registered lobbyist.
+
+(g) “Particular matter” shall have the same meaning as set forth in section 207 of title 18, United States Code, and section 2635.402(b)(3) of title 5, Code of Federal Regulations.
+
+(h) “Particular matter involving specific parties” shall have the same meaning as set forth in section 2641.201(h) of title 5, Code of Federal Regulations, except that it shall also include any meeting or other communication relating to the performance of one's official duties with a former employer or former client, unless the communication applies to a particular matter of general applicability and participation in the meeting or other event is open to all interested parties.
+
+(i) “Former employer” is any person for whom the appointee has within the 2 years prior to the date of his or her appointment served as an employee, officer, director, trustee, or general partner, except that “former employer” does not include any executive agency or other entity of the Federal Government, State or local government, the District of Columbia, Native American tribe, or any United States territory or possession.
+
+(j) “Former client” is any person for whom the appointee served personally as agent, attorney, or consultant within the 2 years prior to the date of his or her appointment, but excluding instances where the service provided was limited to a speech or similar appearance. It does not include clients of the appointee's former employer to whom the appointee did not personally provide services.
+
+(k) “Directly and substantially related to my former employer or former clients” shall mean matters in which the appointee's former employer or a former client is a party or represents a party.
+
+(l) “Participate” means to participate personally and substantially.
+
+(m) “Post-employment restrictions” shall include the provisions and exceptions in section 207(c) of title 18, United States Code, and the implementing regulations.
+
+(n) “Government official” means any employee of the executive branch.
+
+(o) “Administration” means all terms of office of the incumbent President serving at the time of the appointment of an appointee covered by this order.
+
+(p) “Pledge” means the ethics pledge set forth in section 1 of this order.
+
+(q) All references to provisions of law and regulations shall refer to such provisions as in effect on January 20, 2009.
+
+Sec. 3. <i>Waiver</i>. (a) The Director of the Office of Management and Budget, or his or her designee, in consultation with the Counsel to the President or his or her designee, may grant to any current or former appointee a written waiver of any restrictions contained in the pledge signed by such appointee if, and to the extent that, the Director of the Office of Management and Budget, or his or her designee, certifies in writing (i) that the literal application of the restriction is inconsistent with the purposes of the restriction, or (ii) that it is in the public interest to grant the waiver. A waiver shall take effect when the certification is signed by the Director of the Office of Management and Budget or his or her designee.
+
+(b) The public interest shall include, but not be limited to, exigent circumstances relating to national security or to the economy. <i>De minimis</i> contact with an executive agency shall be cause for a waiver of the restrictions contained in paragraph 3 of the pledge.
+
+Sec. 4. <i>Administration</i>. (a) The head of every executive agency shall, in consultation with the Director of the Office of Government Ethics, establish such rules or procedures (conforming as nearly as practicable to the agency's general ethics rules and procedures, including those relating to designated agency ethics officers) as are necessary or appropriate to ensure that every appointee in the agency signs the pledge upon assuming the appointed office or otherwise becoming an appointee; to ensure that compliance with paragraph 3 of the pledge is addressed in a written ethics agreement with each appointee to whom it applies, which agreement shall also be approved by the Counsel to the President or his or her designee prior to the appointee commencing work; to ensure that spousal employment issues and other conflicts not expressly addressed by the pledge are addressed in ethics agreements with appointees or, where no such agreements are required, through ethics counseling; and generally to ensure compliance with this order within the agency.
+
+(b) With respect to the Executive Office of the President, the duties set forth in section 4(a) shall be the responsibility of the Counsel to the President or his or her designee.
+
+(c) The Director of the Office of Government Ethics shall:
+
+&emsp;(1) ensure that the pledge and a copy of this order are made available for use by agencies in fulfilling their duties under section 4(a) above;
+
+&emsp;(2) in consultation with the Attorney General or the Counsel to the President or their designees, when appropriate, assist designated agency ethics officers in providing advice to current or former appointees regarding the application of the pledge; and
+
+&emsp;(3) in consultation with the Attorney General and the Counsel to the President or their designees, adopt such rules or procedures as are necessary or appropriate:
+
+&emsp;&emsp;(i) to carry out the foregoing responsibilities;
+
+&emsp;&emsp;(ii) to apply the lobbyist gift ban set forth in paragraph 1 of the pledge to all executive branch employees;
+
+&emsp;&emsp;(iii) to authorize limited exceptions to the lobbyist gift ban for circumstances that do not implicate the purposes of the ban;
+
+&emsp;&emsp;(iv) to make clear that no person shall have violated the lobbyist gift ban if the person properly disposes of a gift as provided by section 2635.205 of title 5, Code of Federal Regulations;
+
+&emsp;&emsp;(v) to ensure that existing rules and procedures for Government employees engaged in negotiations for future employment with private businesses that are affected by their official actions do not affect the integrity of the Government's programs and operations;
+
+&emsp;&emsp;(vi) to ensure, in consultation with the Director of the Office of Personnel Management, that the requirement set forth in paragraph 6 of the pledge is honored by every employee of the executive branch;
+
+&emsp;(4) in consultation with the Director of the Office of Management and Budget, report to the President on whether full compliance is being achieved with existing laws and regulations governing executive branch procurement lobbying disclosure and on steps the executive branch can take to expand to the fullest extent practicable disclosure of such executive branch procurement lobbying and of lobbying for presidential pardons, and to include in the report both immediate action the executive branch can take and, if necessary, recommendations for legislation; and
+
+&emsp;(5) provide an annual public report on the administration of the pledge and this order.
+
+(d) The Director of the Office of Government Ethics shall, in consultation with the Attorney General, the Counsel to the President, and the Director of the Office of Personnel Management, or their designees, report to the President on steps the executive branch can take to expand to the fullest extent practicable the revolving door ban set forth in paragraph 5 of the pledge to all executive branch employees who are involved in the procurement process such that they may not for 2 years after leaving Government service lobby any Government official regarding a Government contract that was under their official responsibility in the last 2 years of their Government service; and to include in the report both immediate action the executive branch can take and, if necessary, recommendations for legislation.
+
+(e) All pledges signed by appointees, and all waiver certifications with respect thereto, shall be filed with the head of the appointee's agency for permanent retention in the appointee's official personnel folder or equivalent folder.
+
+Sec. 5. <i>Enforcement</i>. (a) The contractual, fiduciary, and ethical commitments in the pledge provided for herein are solely enforceable by the United States pursuant to this section by any legally available means, including debarment proceedings within any affected executive agency or judicial civil proceedings for declaratory, injunctive, or monetary relief.
+
+(b) Any former appointee who is determined, after notice and hearing, by the duly designated authority within any agency, to have violated his or her pledge may be barred from lobbying any officer or employee of that agency for up to 5 years in addition to the time period covered by the pledge. The head of every executive agency shall, in consultation with the Director of the Office of Government Ethics, establish procedures to implement this subsection, which procedures shall include (but not be limited to) providing for factfinding and investigation of possible violations of this order and for referrals to the Attorney General for his or her consideration pursuant to subsection (c).
+
+(c) The Attorney General or his or her designee is authorized:
+
+&emsp;(1) upon receiving information regarding the possible breach of any commitment in a signed pledge, to request any appropriate Federal investigative authority to conduct such investigations as may be appropriate; and
+
+&emsp;(2) upon determining that there is a reasonable basis to believe that a breach of a commitment has occurred or will occur or continue, if not enjoined, to commence a civil action against the former employee in any United States District Court with jurisdiction to consider the matter.
+
+(d) In any such civil action, the Attorney General or his or her designee is authorized to request any and all relief authorized by law, including but not limited to:
+
+&emsp;(1) such temporary restraining orders and preliminary and permanent injunctions as may be appropriate to restrain future, recurring, or continuing conduct by the former employee in breach of the commitments in the pledge he or she signed; and
+
+&emsp;(2) establishment of a constructive trust for the benefit of the United States, requiring an accounting and payment to the United States Treasury of all money and other things of value received by, or payable to, the former employee arising out of any breach or attempted breach of the pledge signed by the former employee.
+
+Sec. 6. <i>General Provisions</i>. (a) No prior Executive Orders are repealed by this order. To the extent that this order is inconsistent with any provision of any prior Executive Order, this order shall control.
+
+(b) If any provision of this order or the application of such provision is held to be invalid, the remainder of this order and other dissimilar applications of such provision shall not be affected.
+
+(c) Nothing in this order shall be construed to impair or otherwise affect:
+
+&emsp;(1) authority granted by law to a department, agency, or the head thereof; or
+
+&emsp;(2) functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
+
+(d) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(e) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(f) The definitions set forth in this order are solely applicable to the terms of this order, and are not otherwise intended to impair or affect existing law.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

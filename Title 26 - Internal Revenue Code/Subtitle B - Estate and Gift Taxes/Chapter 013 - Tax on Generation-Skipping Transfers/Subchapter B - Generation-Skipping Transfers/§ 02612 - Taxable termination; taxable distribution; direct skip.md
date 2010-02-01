@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;For purposes of this chapter, the term “taxable termination” means the termination (by death, lapse of time, release of power, or otherwise) of an interest in property held in a trust unless—
+&emsp;For purposes of this chapter, the term “taxable termination” means the termination (bydeath, lapse of time, release of power, or otherwise) of an interest in property held in a trust unless—
 
 &emsp;&emsp;(A) immediately after such termination, a non-skip person has an interest in such property, or
 
@@ -16,7 +16,7 @@
 
 #### (b) Taxable distribution
 
-For purposes of this chapter, the term “taxable distribution” means any distribution froma trust to a skip person (other than a taxable termination or a direct skip).
+For purposes of this chapter, the term “taxable distribution” means any distribution from a trust to a skip person (other than a taxable termination or a direct skip).
 
 #### (c) Direct skip
 

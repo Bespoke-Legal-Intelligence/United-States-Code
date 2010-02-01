@@ -12,7 +12,7 @@ Except as provided in regulations, for purposes of this subpart, the term “app
 
 &emsp;(2) in the case of an actual or deemed sale or exchange of stock in a foreign corporation treated as a dividend under section 1248, the spot rate on the date the deemed dividend is included in income,
 
-&emsp;(3) in the case of any amounts included in income under section 951(a)(1)(A) or 1293(a), theaverage exchange rate for the taxable year of the foreign corporation, or
+&emsp;(3) in the case of any amounts included in income under section 951(a)(1)(A) or 1293(a), the average exchange rate for the taxable year of the foreign corporation, or
 
 &emsp;(4) in the case of any other qualified business unit of a taxpayer, the average exchange rate for the taxable year of such qualified business unit.
 
@@ -34,7 +34,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(6) setting forth procedures for determining the average exchange rate for any period.
 
-(Added Pub. L. 99–514, title XII, §1261(a), Oct. 22, 1986, 100 Stat. 2590; amended Pub. L. 100–647, title I, §1012(v)(5), Nov. 10, 1988, 102 Stat. 3529; Pub. L. 103–66, title XIII, §13231(c)(4)(C), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §1501(b)(9), Aug. 20, 1996, 110 Stat. 1826; Pub. L. 105–34, title XI, §1102(b)(2), (3), Aug. 5, 1997, 111 Stat. 966; Pub. L. 108–357, title IV, §413(c)(17), Oct. 22, 2004, 118 Stat. 1508.)
+(Added Pub. L. 99–514, title XII, §1261(a), Oct. 22, 1986, 100 Stat. 2590; amended Pub. L. 100–647, title I, §1012(v)(5), Nov. 10, 1988, 102 Stat. 3529; Pub. L.103–66, title XIII, §13231(c)(4)(C), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §1501(b)(9), Aug. 20, 1996, 110 Stat. 1826; Pub. L. 105–34, title XI, §1102(b)(2), (3), Aug. 5, 1997, 111 Stat. 966; Pub. L. 108–357, title IV, §413(c)(17), Oct. 22, 2004, 118 Stat. 1508.)
 
 #### References in Text
 

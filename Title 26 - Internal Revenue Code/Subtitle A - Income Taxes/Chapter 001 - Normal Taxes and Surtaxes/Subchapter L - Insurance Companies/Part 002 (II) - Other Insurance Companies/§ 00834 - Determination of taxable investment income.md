@@ -112,7 +112,7 @@ Subsec. (a). Pub. L. 99–514, §1024(c)(7), amended subsec. (a) generally. Prio
 
 &emsp;“(2) The term ‘investment loss’ means the amount by which the deductions provided in subsection (c) exceed the gross investment income.”
 
-Subsec. (d). Pub. L. 99–514, §1024(c)(8), substituted “section 831” for “section 821” in pars. (1) and (2), andinserted “except in the case of discount which is original issue discount (as defined in section 1273)” at end of last sentence in par.
+Subsec. (d). Pub. L. 99–514, §1024(c)(8), substituted “section 831” for “section 821” in pars. (1) and (2), and inserted “except in the case of discount which is original issue discount (as defined in section 1273)” at end of last sentence in par.
 
 1976—Subsec. (c)(2). Pub. L. 94–455, §1901(b)(1)(P), struck out “partially tax-exempt interest and” before “dividends received allowed by”.
 
@@ -148,7 +148,7 @@ Subsec. (e). Act Mar. 13, 1956, §3(a)(8), substituted “items described in sub
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
+Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) ofPub. L. 99–514, set out as a note under section 831 of this title.
 
 #### Effective Date of 1976 Amendment
 

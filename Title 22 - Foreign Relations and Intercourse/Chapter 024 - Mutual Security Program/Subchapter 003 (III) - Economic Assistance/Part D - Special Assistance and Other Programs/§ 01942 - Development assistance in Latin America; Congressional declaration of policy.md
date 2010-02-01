@@ -12,7 +12,7 @@
 
 &emsp;(5) there is a need for a plan of hemispheric development, open to all American Republics which cooperate in such plan, based upon a strong production effort, the expansion of foreign trade, the creation and maintenance of internal financial stability, the growth of free economic and social institutions, and the development of economic cooperation, including all possible steps to establish and maintain equitable rates of exchange and to bring about the progressive elimination of trade barriers;
 
-&emsp;(6) mindful of the advantages which the United States has enjoyed through the existence of a large domestic market with no internal trade barriers, and believing that similar advantages can accrue to all countries, it is the hope of the people of the United States that all American Republics will jointly exert sustained common efforts which will speedily achieve that economic cooperation in the Western Hemisphere which is essential for lasting peace and prosperity; and
+&emsp;(6) mindful of the advantages which the United States has enjoyed through the existence of a large domestic market with no internal trade barriers, and believing that similar advantages can accrue to all countries, it is the hope of the people of the United States that all American Republics will jointly exertsustained common efforts which will speedily achieve that economic cooperation in the Western Hemisphere which is essential for lasting peace and prosperity; and
 
 &emsp;(7) accordingly, it is declared to be the policy of the people of the United States to sustain and strengthen principles of individual liberty, free institutions, private enterprise, and genuine independence in the Western Hemisphere through cooperation with all American Republics which participate in a joint development program based upon self-help and mutual efforts.
 
@@ -46,7 +46,7 @@ Pub. L. 88–205, pt. IV, §401(a), Dec. 16, 1963, 77 Stat. 390, amended Pub. L.
 
 Pub. L. 93–189, §36, Dec. 17, 1973, 87 Stat. 734, as amended by Pub. L. 97–113, title VII, §734(a)(9), Dec. 29, 1981, 95 Stat. 1560, provided that:
 
-“(a) The President or his delegate shall seek, as soon as possible a revision of the Social Progress Trust Fund Agreement (dated June 19, 1961) between the UnitedStates and the Inter-American Development Bank. Such revision should provide for the—
+“(a) The President or his delegate shall seek, as soon as possible a revision of the Social Progress Trust Fund Agreement (dated June 19, 1961) between the United States and the Inter-American Development Bank. Such revision should provide for the—
 
 &emsp;“(1) periodic transfer of unencumbered capital resources of such trust fund, and of any future repayments or other accruals otherwise payable to such trust fund, to the Inter-American Foundation, to be administered by the Foundation for purposes of part IV of the Foreign Assistance Act of 1969 (22 U.S.C. 290f and following);
 

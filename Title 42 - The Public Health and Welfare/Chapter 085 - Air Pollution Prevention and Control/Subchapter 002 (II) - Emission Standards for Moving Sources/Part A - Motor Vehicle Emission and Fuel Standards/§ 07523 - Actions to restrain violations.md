@@ -6,7 +6,7 @@ The district courts of the United States shall have jurisdiction to restrain vio
 
 #### (b) Actions brought by or in name of United States; subpenas
 
-Actions to restrain such violations shall be brought by and in the name of the United States. In any such action, subpenas for witnesses who are required to attend a district court in any district may run into any other district.
+Actions to restrain such violations shall be brought by and in the name of the UnitedStates. In any such action, subpenas for witnesses who are required to attend a district court in any district may run into any other district.
 
 (July 14, 1955, ch. 360, title II, §204, as added Pub. L. 89–272, title I, §101(8), Oct. 20, 1965, 79 Stat. 994; amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 500; Pub. L. 91–604, §7(b), Dec. 31, 1970, 84 Stat. 1694; Pub. L. 95–95, title II, §218(b), Aug. 7, 1977, 91 Stat. 761.)
 

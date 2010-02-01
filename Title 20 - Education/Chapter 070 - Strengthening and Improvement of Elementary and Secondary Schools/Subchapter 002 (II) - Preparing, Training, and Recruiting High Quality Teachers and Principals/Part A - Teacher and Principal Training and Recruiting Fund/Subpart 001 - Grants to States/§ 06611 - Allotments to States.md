@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall make grants to States with applications approved under section 6612 ofthis title to pay for the Federal share of the cost of carrying out the activities specified in section 6613 of this title. Each grant shall consist of the allotment determined for a State under subsection (b) of this section.
+The Secretary shall make grants to States with applications approved under section 6612 of this title to pay for the Federal share of the cost of carrying out the activities specified in section 6613 of this title. Each grant shall consist of the allotment determined for a State under subsection (b) of this section.
 
 #### (b) Determination of allotments
 
@@ -14,7 +14,7 @@ The Secretary shall make grants to States with applications approved under secti
 
 &emsp;&emsp;&emsp;(i) one-half of 1 percent for allotments for the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, to be distributed among those outlying areas on the basis of their relative need, as determined by the Secretary, in accordance with the purpose of this part; and
 
-&emsp;&emsp;&emsp;(ii) one-half of 1 percent for the Secretary of the Interior for programs under this part in schools operated or funded by the Bureau of Indian Affairs.
+&emsp;&emsp;&emsp;(ii) one-half of 1 percent for the Secretary of the Interior for programs underthis part in schools operated or funded by the Bureau of Indian Affairs.
 
 #### (2) State allotments
 

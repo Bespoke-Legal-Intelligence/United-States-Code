@@ -2,7 +2,7 @@
 
 #### (a) Submission; contractual nature of approval by Administrator; agreement on eligible costs; single grant
 
-(1) Each applicant for a grant shall submit to the Administrator for his approval, plans, specifications, and estimates for each proposed project for the construction of treatment works for which a grant is applied for under section 1281(g)(1) of this title from funds allotted to the State under section 1285 of this title and which otherwise meets the requirements of this chapter. The Administrator shall act upon such plans, specifications, and estimates as soon as practicable after the same have been submitted, and his approval of any such plans, specifications, and estimates shall be deemed a contractual obligation of the United States for the payment of its proportional contribution to such project.
+(1) Each applicant for a grant shall submit to the Administrator for his approval, plans, specifications, and estimates for each proposed project for the construction of treatment works for which a grant is applied for under section 1281(g)(1) of this title from funds allotted to the State under section 1285 of this title and which otherwise meets the requirements of this chapter. The Administrator shall act upon such plans, specifications, and estimates as soon as practicable after the same have been submitted,and his approval of any such plans, specifications, and estimates shall be deemed a contractual obligation of the United States for the payment of its proportional contribution to such project.
 
 (2)
 
@@ -60,7 +60,7 @@ At the request of a grantee under this subchapter, the Administrator is authoriz
 
 &emsp;&emsp;(D) require the applicant to obtain a bond from the contractor in an amount determined necessary by the Administrator to protect the Federal interest in the project; and
 
-&emsp;&emsp;(E) contain such other terms and conditions as are necessary to assure compliance with this subchapter (except as provided in paragraph (4) of this subsection).
+&emsp;&emsp;(E) contain such other terms and conditions as are necessary to assure compliancewith this subchapter (except as provided in paragraph (4) of this subsection).
 
 #### (4) Limitation on application
 

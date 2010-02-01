@@ -54,7 +54,7 @@ The Administrator may enter into an agreement with a private, nonprofit entity t
 
 (1) Prizes under this section may consist of Federal appropriated funds and funds provided by the private sector for such cash prizes. The Administrator may accept funds from other Federal agencies for such cash prizes. The Administrator may not give any special consideration to any private sector entity in return for a donation.
 
-(2) Notwithstanding any other provision of law, funds appropriated for prize awards under this section shall remain available until expended, and may be transferred, reprogrammed, or expended for other purposes only after the expiration of 10 fiscal years after the fiscal year for which the funds were originally appropriated. No provision in this section permits obligation or payment of funds in violation of the Anti-Deficiency Act (31 U.S.C. 1341).
+(2) Notwithstanding any other provision of law, funds appropriated for prize awards underthis section shall remain available until expended, and may be transferred, reprogrammed, or expended for other purposes only after the expiration of 10 fiscal years after the fiscal year for which the funds were originally appropriated. No provision in this section permits obligation or payment of funds in violation of the Anti-Deficiency Act (31 U.S.C. 1341).
 
 (3) No prize may be announced under subsection (d) of this section until all the funds needed to pay out the announced amount of the prize have been appropriated or committed in writing by a private source. The Administrator may increase the amount of a prize after an initial announcement is made under subsection (d) of this section if—
 

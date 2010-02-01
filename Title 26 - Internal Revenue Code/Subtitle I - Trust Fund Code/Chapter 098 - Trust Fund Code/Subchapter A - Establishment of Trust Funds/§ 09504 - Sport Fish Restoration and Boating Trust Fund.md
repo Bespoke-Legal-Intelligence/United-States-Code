@@ -18,17 +18,17 @@ There is hereby established in the Treasury of the United States a trust fund to
 
 &emsp;Amounts in the Sport Fish Restoration and Boating Trust Fund shall be available, as provided by appropriation Acts, for making expenditures—
 
-&emsp;&emsp;(A) to carry out the purposes of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users),
+&emsp;&emsp;(A) to carry out the purposes of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the last amendment to the first Continuing Appropriations Resolution for Fiscal Year 2010),
 
-&emsp;&emsp;(B) to carry out the purposes of section 7404(d) of the Transportation Equity Act for the 21st Century (as in effect on the date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users), and
+&emsp;&emsp;(B) to carry out the purposes of section 7404(d) of the Transportation Equity Act for the 21st Century (as in effect on the date of the enactment of the last amendment to the first Continuing Appropriations Resolution for Fiscal Year 2010), and
 
-&emsp;&emsp;(C) to carry out the purposes of the Coastal Wetlands Planning, Protection and Restoration Act (as in effect on the date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users).
+&emsp;&emsp;(C) to carry out the purposes of the Coastal Wetlands Planning, Protection and Restoration Act (as in effect on the date of the enactment of the last amendment to the first Continuing Appropriations Resolution for Fiscal Year 2010).
 
 > &emsp;Amounts transferred to such account under section 9503(c)(5) may be used only for making expenditures described in subparagraph (C) of this paragraph.
 
 #### (c) Expenditures from Boat Safety Account
 
-Amounts remaining in the Boat Safety Account on October 1, 2005, and amounts thereafter credited to the Account under section 9602(b), shall be available, without further appropriation, for making expenditures before October 1, 2010, to carry out the purposes of section 15 ofthe Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users). For purposes of section 9602, the Boat Safety Account shall be treated as a Trust Fund established by this subchapter.
+Amounts remaining in the Boat Safety Account on October 1, 2005, and amounts thereafter credited to the Account under section 9602(b), shall be available, without further appropriation, for making expenditures before October 1,2010, to carry out the purposes of section 15 of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users). For purposes of section 9602, the Boat Safety Account shall be treated as a Trust Fund established by this subchapter.
 
 #### (d) Limitation on transfers to Trust Fund
 
@@ -48,21 +48,27 @@ Amounts remaining in the Boat Safety Account on October 1, 2005, and amounts the
 
 &emsp;&emsp;<b>For provision transferring motorboat fuels taxes to Sport Fish Restoration and Boating Trust Fund, see section 9503(c)(4).</b>
 
-(Added Pub. L. 98–369, div. A, title X, §1016(a), July 18, 1984, 98 Stat. 1019; amended Pub. L. 100–418, title I, §1214(p)(2), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 100–448, §6(a)(2), (c)(3), Sept. 28, 1988, 102 Stat. 1839, 1841; Pub. L. 101–508, title XI, §11211(i)(2), (3), Nov. 5, 1990, 104 Stat. 1388–428; Pub. L. 102–240, title VIII, §8002(d)(2)(C), (i), Dec. 18, 1991, 105 Stat. 2204, 2205; Pub. L. 105–130, §9(b), Dec. 1, 1997, 111 Stat. 2561; Pub. L. 105–178, title IX, §9005(b)–(d), (f), June 9, 1998, 112 Stat. 505; Pub. L. 105–206, title IX, §9015(b), July 22, 1998, 112 Stat. 867; Pub. L. 106–408, title I, §126, Nov. 1, 2000, 114 Stat. 1775; Pub. L. 108–88, §12(b), Sept. 30, 2003, 117 Stat. 1129; Pub. L. 108–202, §12(b), Feb. 29, 2004, 118 Stat. 491; Pub. L. 108–224, §10(b), Apr. 30, 2004, 118 Stat. 639; Pub. L. 108–263, §10(b), June 30, 2004, 118 Stat. 710; Pub. L. 108–280, §10(b), July 30, 2004, 118 Stat. 888; Pub. L. 108–310, §13(b), Sept. 30, 2004, 118 Stat. 1163; Pub. L. 109–14, §9(b), May 31, 2005, 119 Stat. 335; Pub. L. 109–20, §9(b), July 1, 2005, 119 Stat. 357; Pub. L. 109–35, §9(b), July 20, 2005, 119 Stat. 391; Pub. L. 109–37, §9(b), July 22, 2005, 119 Stat. 406; Pub. L. 109–40, §9(b), July 28, 2005, 119 Stat. 422; Pub. L. 109–42, §7(b), (d)(2), (3), July 30, 2005, 119 Stat. 437, 438; Pub. L. 109–59, title XI, §§11101(d)(2), 11115(b)(1)–(2)(D), (c), 11151(c), (e)(1), Aug. 10, 2005, 119 Stat. 1945, 1949, 1950, 1968, 1969; Pub. L. 109–74, title III, §301(a), Sept. 29, 2005, 119 Stat. 2032; Pub. L. 109–304, §16(c)(2), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603.)
+(Added Pub. L. 98–369, div. A, title X, §1016(a), July 18, 1984, 98 Stat. 1019; amended Pub. L. 100–418, title I, §1214(p)(2), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 100–448, §6(a)(2), (c)(3), Sept. 28, 1988, 102 Stat. 1839, 1841; Pub. L. 101–508, title XI, §11211(i)(2), (3), Nov. 5, 1990, 104 Stat. 1388–428; Pub. L. 102–240, title VIII, §8002(d)(2)(C), (i), Dec. 18, 1991, 105 Stat. 2204, 2205; Pub. L. 105–130, §9(b), Dec. 1, 1997, 111 Stat. 2561; Pub. L. 105–178, title IX, §9005(b)–(d), (f), June 9, 1998, 112 Stat. 505; Pub. L. 105–206, title IX, §9015(b), July 22, 1998, 112 Stat. 867; Pub. L. 106–408, title I, §126, Nov. 1, 2000, 114 Stat. 1775; Pub. L. 108–88, §12(b), Sept. 30, 2003, 117 Stat. 1129; Pub. L. 108–202, §12(b), Feb. 29, 2004, 118 Stat. 491; Pub. L. 108–224, §10(b), Apr. 30, 2004, 118 Stat. 639; Pub. L. 108–263, §10(b), June 30, 2004, 118 Stat. 710; Pub. L. 108–280, §10(b), July 30, 2004, 118 Stat. 888; Pub. L. 108–310, §13(b), Sept. 30, 2004, 118 Stat. 1163; Pub. L. 109–14, §9(b), May 31, 2005, 119 Stat. 335; Pub. L. 109–20, §9(b), July 1, 2005, 119 Stat. 357; Pub. L. 109–35, §9(b), July 20, 2005, 119 Stat. 391; Pub. L. 109–37, §9(b), July 22, 2005, 119 Stat. 406; Pub. L. 109–40, §9(b), July 28, 2005, 119 Stat. 422; Pub. L. 109–42, §7(b), (d)(2), (3), July 30, 2005, 119 Stat. 437, 438; Pub. L. 109–59, title XI, §§11101(d)(2), 11115(b)(1)–(2)(D), (c), 11151(c), (e)(1), Aug. 10, 2005, 119 Stat. 1945, 1949, 1950, 1968, 1969; Pub. L. 109–74, title III, §301(a), Sept. 29, 2005, 119 Stat. 2032; Pub. L. 109–304, §16(c)(2), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603; Pub. L. 111–68, div. B, §161(a), Oct. 1, 2009, 123 Stat. 2052; Pub. L. 111–88, div. B, §103, Oct. 30, 2009, 123 Stat. 2972.)
 
 #### References in Text
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(1)(B), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
-The date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, referred to in subsecs. (b)(2) and (c), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
-
 The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (b)(2)(A) and (c), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, as amended, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§777 et seq.) of Title 16, Conservation. Section 15 of the Act is classified to section 777n of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 777 of Title 16 and Tables.
+
+The first Continuing Appropriations Resolution for Fiscal Year 2010, referred to in subsec. (b)(2)(A) to (C), is div. B of Pub. L. 111–68, Oct. 1, 2009, 123 Stat. 2043. For complete classification of this Act to the Code, see Tables.
 
 Section 7404(d) of the Transportation Equity Act for the 21st Century, referred to in subsec. (b)(2)(B), is classified to section 777g–1(d) of Title 16, Conservation.
 
 The Coastal Wetlands Planning, Protection and Restoration Act, referred to in subsec. (b)(2)(C), is title III of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4778, which is classified generally to chapter 59A (§3951 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 3951 of Title 16 and Tables.
 
+The date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, referred to in subsec. (c), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
+
 #### Amendments
+
+2009—Subsec. (b)(2)(A) to (C). Pub. L. 111–88 inserted “the last amendment to” after “on the date of the enactment of”.
+
+Pub. L. 111–68 substituted “(as in effect on the date of the enactment of the first Continuing Appropriations Resolution for Fiscal Year 2010)” for “(as in effect on the date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users)”.
 
 2008—Subsec. (c). Pub. L. 110–181 repealed Pub. L. 109–304, §16(c)(2). See 2006 Amendment note below.
 
@@ -200,7 +206,7 @@ Subsec. (b)(2)(C). Pub. L. 105–178, §9005(f)(3), as added by Pub. L. 105–20
 
 Pub. L. 105–178, §9005(b)(3), redesignated subpar. (B) as (C).
 
-Subsec. (c). Pub. L. 105–178, §9005(f)(4), as added by Pub. L. 105–206, §9015(b), substituted “the date of theenactment of the TEA 21 Restoration Act” for “the date of enactment of the Transportation Equity Act for the 21st Century”.
+Subsec. (c). Pub. L. 105–178, §9005(f)(4), as added by Pub. L. 105–206, §9015(b), substituted “the date of the enactment of the TEA 21 Restoration Act” for “the date of enactment of the Transportation Equity Act for the 21st Century”.
 
 Pub. L. 105–178, §9005(c), substituted “2003” for “1998” and “the date of enactment of the Transportation Equity Act for the 21st Century” for “October 1, 1988”.
 

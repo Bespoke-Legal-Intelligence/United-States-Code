@@ -34,7 +34,7 @@ July 15, 1954, ch. 507, §7(a) (as applicable to armed forces), 68 Stat. 479.
 
 5:2157 (less 1st and 2d sentences, as applicable to armed forces).
 
-In subsection (a), the words “a member of an armed force” are substituted for the words “military personnel”. The words “the continental limits \* \* \* or in Alaska” are omitted as covered by the definition of “United States” in section 101(1) of this title. The words “while traveling” are substituted for the words “while in transit”.
+In subsection (a), the words “a member of an armed force” are substituted for the words “military personnel”. The words “the continental limits or in Alaska” are omitted as covered by the definition of “United States” in section 101(1) of this title. The words “while traveling” are substituted for the words “while in transit”.
 
 In subsection (b), the word “services” is substituted for the word “facilities”.
 

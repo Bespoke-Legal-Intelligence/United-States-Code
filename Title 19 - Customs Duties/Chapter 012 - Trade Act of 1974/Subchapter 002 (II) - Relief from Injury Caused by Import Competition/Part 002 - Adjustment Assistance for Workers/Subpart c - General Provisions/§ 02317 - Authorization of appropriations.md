@@ -2,15 +2,21 @@
 
 #### (a) In general
 
-There are authorized to be appropriated to the Department of Labor, for the period beginning October 1, 2001, and ending December 31, 2007, such sums as may be necessary to carry out the purposes of this part.
+There are authorized to be appropriated to the Department of Labor, for the period beginning October 1, 2001, and ending December 31, 2010, such sums as may be necessary to carry out the purposes of this part.
 
 #### (b) Period of expenditure
 
 Funds obligated for any fiscal year to carry out activities under sections 2295 through 2298 of this title may be expended by each State receiving such funds during that fiscal year and the succeeding two fiscal years.
 
-(Pub. L. 93–618, title II, §245, Jan. 3, 1975, 88 Stat. 2026; Pub. L. 97–35, title XXV, §2510, Aug. 13, 1981, 95 Stat. 888; Pub. L. 98–120, §2(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13008(a), Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–418, title I, §1426(b)(1), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(2), Aug. 10, 1993, 107 Stat. 668; Pub. L. 103–182, title V, §504, Dec. 8, 1993, 107 Stat. 2151; Pub. L. 105–277, div. J, title I, §1012(a), Oct. 21, 1998, 112 Stat. 2681–900; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319; Pub. L. 107–210, div. A, title I, §§111(a), 120, Aug. 6, 2002, 116 Stat. 936, 942; Pub. L. 109–280, title XIV, §1635(f)(3), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 110–89, §1(a), Sept. 28, 2007, 121 Stat. 982.)
+(Pub. L. 93–618, title II, §245, Jan. 3, 1975, 88 Stat. 2026; Pub. L. 97–35, title XXV, §2510, Aug. 13, 1981, 95 Stat. 888; Pub. L. 98–120, §2(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13008(a), Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–418, title I, §1426(b)(1), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(2), Aug. 10, 1993, 107 Stat. 668; Pub. L. 103–182, title V, §504, Dec. 8, 1993, 107 Stat. 2151; Pub. L. 105–277, div. J, title I, §1012(a), Oct. 21, 1998, 112 Stat. 2681–900; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319; Pub. L. 107–210, div. A, title I, §§111(a), 120, Aug. 6, 2002, 116 Stat. 936, 942; Pub. L. 109–280, title XIV, §1635(f)(3), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 110–89, §1(a), Sept. 28, 2007, 121 Stat. 982; Pub. L. 111–5, div. B, title I, §1892(a), Feb. 17, 2009, 123 Stat. 421.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–5, §§1892(a), 1893, temporarily substituted “December 31, 2010” for “December 31, 2007”. See Effective and Termination Dates of 2009 Amendment note below.
 
 2007—Subsec. (a). Pub. L. 110–89 substituted “December 31, 2007” for “September 30, 2007”.
 
@@ -39,6 +45,12 @@ Pub. L. 103–66 substituted “1993, 1994, 1995, 1996, 1997, and 1998” for �
 1983—Pub. L. 98–120 substituted “each of the fiscal years 1982 through 1985” for “each of fiscal years 1982 and 1983”.
 
 1981—Pub. L. 97–35 substituted provisions relating to authorization of appropriations for fiscal years 1982 and 1983 for provisions relating to establishment of the Adjustment Assistance Trust Fund.
+
+#### Effective and Termination Dates of 2009 Amendment
+
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
+
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, except that this section shall be applied and administered by substituting “2011” for “2007”, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Effective Date of 2007 Amendment
 
@@ -70,5 +82,5 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, with transition provisions
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

@@ -8,7 +8,7 @@
 
 #### (2) Representation of diverse points of view
 
-&emsp;To the maximum extent practicable, the membership of the Board shall represent diverse points of view relating to conservation and management of fish, wildlife, plants, and other natural resources.
+&emsp;To the maximum extent practicable, the membership of the Board shall represent diverse points of view relating to conservationand management of fish, wildlife, plants, and other natural resources.
 
 #### (3) Not Federal employees
 
@@ -68,7 +68,7 @@
 
 #### (B) Term of appointments to fill unexpired terms
 
-&emsp;&emsp;An individual appointed to fill a vacancy that occurs before the expiration of the termof a Director shall be appointed for the remainder of the term.
+&emsp;&emsp;An individual appointed to fill a vacancy that occurs before the expiration of the term of a Director shall be appointed for the remainder of the term.
 
 #### (5) Reappointment
 
@@ -142,7 +142,7 @@ Subsec. (b). Pub. L. 103–232, §103(a)(1), inserted at end “The Secretary of
 
 #### Effective Date of 1994 Amendment
 
-Section 103(a)(2) of Pub. L. 103–232 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to appointments of Directors of the Board of Directors of the National Fish and WildlifeFoundation made after the date of the enactment of this Act \[Apr. 11, 1994\].”
+Section 103(a)(2) of Pub. L. 103–232 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to appointments of Directors of the Board of Directors of the National Fish and Wildlife Foundation made after the date of the enactment of this Act \[Apr. 11, 1994\].”
 
 #### Initial Terms of Six New Directors
 

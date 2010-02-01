@@ -158,7 +158,7 @@
 
 #### (C) Functions of officers, directors, and shareholders of a regulated entity
 
-&emsp;&emsp;The Agency may, by regulation or order, provide for the exercise of any function byany stockholder, director, or officer of any regulated entity for which the Agency has been named conservator or receiver.
+&emsp;&emsp;The Agency may, by regulation or order, provide for the exercise of any function by any stockholder, director, or officer of any regulated entity for which the Agency has been named conservator or receiver.
 
 #### (D) Powers as conservator
 
@@ -198,7 +198,7 @@
 
 #### (ii) Subpoena
 
-&emsp;&emsp;&emsp;A subpoena or subpoena duces tecum may be issued under clause (i) only by, or with the written approval of, the Director, or the designee of the Director.
+&emsp;&emsp;&emsp;A subpoena or subpoena duces tecum may be issued under clause (i) only by, orwith the written approval of, the Director, or the designee of the Director.
 
 #### (iii) Rule of construction
 
@@ -238,7 +238,7 @@
 
 #### (C) Mailing required
 
-&emsp;&emsp;The receiver shall mail a notice similar to the notice published under subparagraph (B)(i) at the time of such publication to anycreditor shown on the books of the regulated entity—
+&emsp;&emsp;The receiver shall mail a notice similar to the notice published under subparagraph (B)(i) at the time of such publication to any creditor shown on the books of the regulated entity—
 
 &emsp;&emsp;&emsp;(i) at the last address of the creditor appearing in such books; or
 
@@ -328,7 +328,7 @@
 
 &emsp;&emsp;The claimant may file suit on a claim (or continue an action commenced before the appointment of the receiver) in the district or territorial court of the United States for the district within which the principal place of business of the regulated entity is located or the United States District Court for the District of Columbia (and such court shall have jurisdiction to hear such claim), before the end of the 60-day period beginning on the earlier of—
 
-&emsp;&emsp;&emsp;(i) the end of the period described in paragraph (5)(A)(i) with respect to anyclaim against a regulated entity for which the Agency is receiver; or
+&emsp;&emsp;&emsp;(i) the end of the period described in paragraph (5)(A)(i) with respect to any claim against a regulated entity for which the Agency is receiver; or
 
 &emsp;&emsp;&emsp;(ii) the date of any notice of disallowance of such claim pursuant to paragraph (5)(A)(i).
 
@@ -414,7 +414,7 @@
 
 #### (B) Agreements against the interest of the Agency
 
-&emsp;&emsp;No agreement that tends to diminish or defeat the interest of the Agency in any asset acquired by the Agency as receiver under this section shall be valid against the Agency unless such agreement is in writingand executed by an authorized officer or representative of the regulated entity.
+&emsp;&emsp;No agreement that tends to diminish or defeat the interest of the Agency in any asset acquired by the Agency as receiver under this section shall be valid against the Agency unless such agreement is in writing and executed by an authorized officer or representative of the regulated entity.
 
 #### (C) Payment of dividends on claims
 
@@ -582,7 +582,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any mortgage, pool of mortgages, or interest in a pool of mortgages held in trust,custodial, or agency capacity by a regulated entity for the benefit of any person other than the regulated entity shall not be available to satisfy the claims of creditors generally, except that nothing in this clause shall be construed to expand or otherwise affect the authority of any regulated entity.
+&emsp;&emsp;&emsp;Any mortgage, pool of mortgages, or interest in a pool of mortgages held in trust, custodial, or agency capacity by a regulated entity for the benefit of any person other than the regulated entity shall not be available to satisfy the claims of creditors generally, except that nothing in this clause shall be construed to expand or otherwise affect the authority of any regulated entity.
 
 #### (ii) Holding of mortgages
 
@@ -710,7 +710,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) may offset against any rent payment which accrues after the date of the repudiation of the lease, and any damages which accrue after such date due to the nonperformance of any obligation of the regulated entity under the lease after such date; and
 
-&emsp;&emsp;&emsp;(ii) the conservator or receiver shall not be liable to the lessee for any damages arising after such date as a result of the repudiation, other than the amount of any offset allowed under clause (i)(II).
+&emsp;&emsp;&emsp;(ii) the conservator or receiver shall not be liable to the lessee for any damagesarising after such date as a result of the repudiation, other than the amount of any offset allowed under clause (i)(II).
 
 #### (6) Contracts for the sale of real property
 
@@ -816,7 +816,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) means any option entered into on a national securities exchange relating to foreign currencies;
 
-&emsp;&emsp;&emsp;&emsp;(IV) means the guarantee by or to any securities clearing agency of any settlement of cash, securities, certificates of deposit, mortgage loans or interests therein, group or index of securities, certificates of deposit, or mortgage loans orinterests therein (including any interest therein or based on the value thereof) or option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option;
+&emsp;&emsp;&emsp;&emsp;(IV) means the guarantee by or to any securities clearing agency of any settlement of cash, securities, certificates of deposit, mortgage loans or interests therein, group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof) or option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option;
 
 &emsp;&emsp;&emsp;&emsp;(V) means any margin loan;
 
@@ -962,7 +962,7 @@
 
 #### (i) Receivership
 
-&emsp;&emsp;&emsp;A person who is a party to a qualified financial contract with a regulated entity may not exercise any right that such person has to terminate, liquidate, or net such contract under paragraph (8)(A) of this subsection or under section 4403 or4404 of this title, solely by reason of or incidental to the appointment of a receiver for the regulated entity (or the insolvency or financial condition of the regulated entity for which the receiver has been appointed)—
+&emsp;&emsp;&emsp;A person who is a party to a qualified financial contract with a regulated entity may not exercise any right that such person has to terminate, liquidate, or net such contract under paragraph (8)(A) of this subsection or under section 4403 or 4404 of this title, solely by reason of or incidental to the appointment of a receiver for the regulated entity (or the insolvency or financial condition of the regulated entity for which the receiver has been appointed)—
 
 &emsp;&emsp;&emsp;&emsp;(I) until 5:00 p.m. (Eastern Standard Time) on the business day following the date of the appointment of the receiver; or
 
@@ -994,7 +994,7 @@
 
 #### (12) Certain security interests not avoidable
 
-&emsp;No provision of this subsection shall be construed as permitting the avoidance of any legally enforceable or perfected security interest in any of the assets of any regulated entity, except where such an interest is taken in contemplation of the insolvency of the regulated entity, or with the intent to hinder, delay, or defraud the regulated entity or the creditors of such regulated entity.
+&emsp;No provision of this subsection shall be construed as permitting the avoidance of any legally enforceable or perfected security interest in any of the assets of any regulated entity, except where such an interest is taken in contemplation of the insolvency of the regulated entity, or with the intent to hinder,delay, or defraud the regulated entity or the creditors of such regulated entity.
 
 #### (13) Authority to enforce contracts
 
@@ -1072,7 +1072,7 @@ Except as provided in this section or at the request of the Director, no court m
 
 #### (h) Damages
 
-In any proceeding related to any claim against a director, officer, employee, agent, attorney, accountant, appraiser, or any other party employed by or providing services to a regulated entity, recoverable damages determined to result from the improvident or otherwise improper use or investment of any assets of the regulated entity shall include principal losses and appropriate interest.
+In any proceeding related to any claim against a director, officer, employee, agent, attorney, accountant, appraiser, or any other party employed by or providing services to a regulatedentity, recoverable damages determined to result from the improvident or otherwise improper use or investment of any assets of the regulated entity shall include principal losses and appropriate interest.
 
 #### (i) Limited-life regulated entities
 
@@ -1188,7 +1188,7 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 #### (iii) Savings clause
 
-&emsp;&emsp;&emsp;Notwithstanding any provision of law, other than clause (ii), the Agency shall not be required to sell the capital stock of anenterprise or a limited-life regulated entity established with respect to an enterprise.
+&emsp;&emsp;&emsp;Notwithstanding any provision of law, other than clause (ii), the Agency shall not be required to sell the capital stock of an enterprise or a limited-life regulated entity established with respect to an enterprise.
 
 #### (iv) Applicability
 

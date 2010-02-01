@@ -30,7 +30,7 @@ Transmission to Congress of Prospectus of Proposed Project.—To secure consider
 
 (c)
 
-Increase of Estimated Maximum Cost.—The estimated maximum cost of any project approved under this section as set forth in any prospectus may be increased by an amount equal to any percentage increase, as determined by the Administrator, in construction or alteration costs from the date the prospectus is transmitted to Congress. The increase authorized by this subsection may not exceed 10 percent of the estimated maximum cost.
+Increase of Estimated Maximum Cost.—The estimated maximum cost of any project approved under this section as set forth in any prospectus may be increased by an amount equal to any percentage increase, as determined by the Administrator, in construction or alteration costs from the date the prospectus is transmitted to Congress. The increase authorized by thissubsection may not exceed 10 percent of the estimated maximum cost.
 
 (d)
 

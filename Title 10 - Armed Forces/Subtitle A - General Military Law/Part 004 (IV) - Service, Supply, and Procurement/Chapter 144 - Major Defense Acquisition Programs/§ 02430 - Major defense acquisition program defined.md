@@ -4,19 +4,291 @@
 
 &emsp;(1) that is designated by the Secretary of Defense as a major defense acquisition program; or
 
-&emsp;(2) that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement of more than $1,800,000,000 (based on fiscal year 1990 constant dollars).
+&emsp;(2) that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement, including all planned increments or spirals, of more than $1,800,000,000 (based on fiscal year 1990 constant dollars).
 
 (b) The Secretary of Defense may adjust the amounts (and the base fiscal year) provided in subsection (a)(2) on the basis of Department of Defense escalation rates. An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
-(Added Pub. L. 100–26, §7(b)(2)(A), Apr. 21, 1987, 101 Stat. 279; amended Pub. L. 102–484, div. A, title VIII, §817(b), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(c) For purposes of subsection (a)(2), the Secretary shall consider, as applicable, the following:
+
+&emsp;(1) The estimated level of resources required to fulfill the relevant joint military requirement, as determined by the Joint Requirements Oversight Council pursuant to section 181 of this title.
+
+&emsp;(2) The cost estimate referred to in section 2366a(a)(4) of this title.
+
+&emsp;(3) The cost estimate referred to in section 2366b(a)(1)(C) of this title.
+
+&emsp;(4) The cost estimate within a baseline description as required by section 2435 of this title.
+
+(Added Pub. L. 100–26, §7(b)(2)(A), Apr. 21, 1987, 101 Stat. 279; amended Pub. L. 102–484, div. A, title VIII, §817(b), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 111–23, title II, §206(b), May 22, 2009, 123 Stat. 1728.)
 
 #### Amendments
+
+2009—Subsec. (a)(2). Pub. L. 111–23, §206(b)(1), inserted “, including all planned increments or spirals,” after “an eventual total expenditure for procurement”.
+
+Subsec. (c). Pub. L. 111–23, §206(b)(2), added subsec. (c).
 
 1999—Subsec. (b). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 1996—Subsec. (b). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
 1992—Pub. L. 102–484 designated existing provisions as subsec. (a), in par. (2) substituted “$300,000,000” for “$200,000,000”, “1990” for “1980” in two places, and “$1,800,000,000” for “$1,000,000,000”, and added subsec. (b).
+
+#### Developmental Test and Evaluation and Systems Engineering in the Military Departments and Defense Agencies
+
+Pub. L. 111–23, title I, §102(b), May 22, 2009, 123 Stat. 1714, provided that:
+
+“(1)
+
+Plans.—The service acquisition executive of each military department and each Defense Agency with responsibility for a major defense acquisition program shall develop and implement plans to ensure the military department or Defense Agency concerned has provided appropriate resources for each of the following:
+
+&emsp;“(A) Developmental testing organizations with adequate numbers of trained personnel in order to—
+
+&emsp;&emsp;“(i) ensure that developmental testing requirements are appropriately addressed in the translation of operational requirements into contract specifications, in the source selection process, and in the preparation of requests for proposals on all major defense acquisition programs;
+
+&emsp;&emsp;“(ii) participate in the planning of developmental test and evaluation activities, including the preparation and approval of a developmental test and evaluation plan within the test and evaluation master plan for each major defense acquisition program; and
+
+&emsp;&emsp;“(iii) participate in and oversee the conduct of developmental testing, the analysis of data, and the preparation of evaluations and reports based on such testing.
+
+&emsp;“(B) Development planning and systems engineering organizations with adequate numbers of trained personnel in order to—
+
+&emsp;&emsp;“(i) support key requirements, acquisition, and budget decisions made for each major defense acquisition program prior to Milestone A approval and Milestone B approval through a rigorous systems analysis and systems engineering process;
+
+&emsp;&emsp;“(ii) include a robust program for improving reliability, availability, maintainability, and sustainability as an integral part of design and development within the systems engineering master plan for each major defense acquisition program; and
+
+&emsp;&emsp;“(iii) identify systems engineering requirements, including reliability, availability, maintainability, and lifecycle management and sustainability requirements, during the Joint Capabilities Integration Development System process, and incorporate such systems engineering requirements into contract requirements for each major defense acquisition program.
+
+“(2)
+
+Reports by service acquisition executives.—Not later than 180 days after the date of the enactment of this Act \[May 22, 2009\], the service acquisition executive of each military department and each DefenseAgency with responsibility for a major defense acquisition program shall submit to the Director of Developmental Test and Evaluation and the Director of Systems Engineering a report on the extent to which—
+
+&emsp;“(A) such military department or Defense Agency has implemented, or is implementing, the plan required by paragraph (1); and
+
+&emsp;“(B) additional authorities or resources are needed to attract, develop, retain, and reward developmental test and evaluation personnel and systems engineers with appropriate levels of hands-on experience and technical expertise to meet the needs of such military department or Defense Agency.
+
+“(3)
+
+Assessment of reports by directors of developmental test and evaluation and systems engineering.—The first annual report submitted to Congress by the Director of Developmental Test and Evaluation and the Director of Systems Engineering under section 139d(c) of title 10, United States Code (as added by subsection (a)), shall include an assessment by the Directors of the reports submitted by the service acquisition executives to the Directors under paragraph (2).”
+
+#### Performance Assessments and Root Cause Analyses for Major Defense Acquisition Programs
+
+Pub. L. 111–23, title I, §103, May 22, 2009, 123 Stat. 1715, provided that:
+
+“(a)
+
+Designation of Senior Official Responsibility for Performance Assessments and Root Cause Analyses.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Defense shall designate a senior official in the Office of the Secretary of Defense as the principal official of the Department of Defense responsible for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs.
+
+&emsp;“(2)
+
+No program execution responsibility.—The Secretary shall ensure that the senior official designated under paragraph (1) is not responsible for program execution.
+
+&emsp;“(3)
+
+Staff and resources.—The Secretary shall assign to the senior official designated under paragraph (1) appropriate staff and resources necessary to carry out \[the\] official's function under this section.
+
+“(b)
+
+Responsibilities.—The senior official designated under subsection (a) shall be responsible for the following:
+
+&emsp;“(1) Carrying out performance assessments of major defense acquisition programs in accordance with the requirements of subsection (c) periodically or when requested by the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology and Logistics, the Secretary of a military department, or the head of a Defense Agency.
+
+&emsp;“(2) Conducting root cause analyses for major defense acquisition programs in accordance with the requirements of subsection (d) when required by section 2433a(a)(1) of title 10, United States Code (as added by section 206(a) of this Act), or when requested by the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology and Logistics, the Secretary of a military department, or the head of a Defense Agency.
+
+&emsp;“(3) Issuing policies, procedures, and guidance governing the conduct of performance assessments and root cause analyses by the military departments and the Defense Agencies.
+
+&emsp;“(4) Evaluating the utility of performance metrics used to measure the cost, schedule, and performance of major defense acquisition programs, and making such recommendations to the Secretary of Defense as the official considers appropriate to improve such metrics.
+
+&emsp;“(5) Advising acquisition officials on performance issues regarding a major defense acquisition program that may arise—
+
+&emsp;&emsp;“(A) prior to certification under section 2433a of title 10, United States Code (as so added);
+
+&emsp;&emsp;“(B) prior to entry into full-rate production; or
+
+&emsp;&emsp;“(C) in the course of consideration of any decision to request authorization of a multiyear procurement contract for the program.
+
+“(c)
+
+Performance Assessments.—For purposes of this section, a performance assessment with respect to a major defense acquisition program is an evaluation of the following:
+
+&emsp;“(1) The cost, schedule, and performance of the program, relative to current metrics, including performance requirements and baseline descriptions.
+
+&emsp;“(2) The extent to which the level of program cost, schedule, and performance predicted relative to such metrics is likely to result in the timely delivery of a level of capability to the warfighter that is consistent with the level of resources to be expended and provides superior value to alternative approaches that may be available to meet the same military requirement.
+
+“(d)
+
+Root Cause Analyses.—For purposes of this section and section 2433a of title 10, United States Code (as so added), a root cause analysis with respect to a major defense acquisition program is an assessment of the underlying cause or causes of shortcomings in cost, schedule, or performance of the program, including the role, if any, of—
+
+&emsp;“(1) unrealistic performance expectations;
+
+&emsp;“(2) unrealistic baseline estimates for cost or schedule;
+
+&emsp;“(3) immature technologies or excessive manufacturing or integration risk;
+
+&emsp;“(4) unanticipated design, engineering, manufacturing, or technology integration issues arising during program performance;
+
+&emsp;“(5) changes in procurement quantities;
+
+&emsp;“(6) inadequate program funding or funding instability;
+
+&emsp;“(7) poor performance by government or contractor personnel responsible for program management; or
+
+&emsp;“(8) any other matters.
+
+“(e)
+
+Support of Applicable Capabilities and Expertise.—The Secretary of Defense shall ensure that the senior official designated under subsection (a) has the support of other Department of Defense officials with relevant capabilities and expertise needed to carry out the requirements of this section.
+
+“(f)
+
+Annual Report.—Not later than March 1 each year, beginning in 2010, the official responsible for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs shall submit to the congressional defense committees a report on the activities undertaken under this section during the preceding year.”
+
+#### Acquisition Strategies To Ensure Competition Throughout the Lifecycle of Major Defense Acquisition Programs
+
+Pub. L. 111–23, title II, §202, May 22, 2009, 123 Stat. 1720, provided that:
+
+“(a)
+
+Acquisition Strategies To Ensure Competition.—The Secretary of Defense shall ensure that the acquisition strategy for each major defense acquisition program includes—
+
+&emsp;“(1) measures to ensure competition, or the option of competition, at both the prime contract level and the subcontract level (at such tier or tiers as are appropriate) of such program throughout the life-cycle of such program as a means to improve contractor performance; and
+
+&emsp;“(2) adequate documentation of the rationale for the selection of the subcontract tier or tiers under paragraph (1).
+
+“(b)
+
+Measures To Ensure Competition.—The measures to ensure competition, or the option of competition, for purposes of subsection (a)(1) may include measures to achieve the following, in appropriate cases if such measures are cost-effective:
+
+&emsp;“(1) Competitive prototyping.
+
+&emsp;“(2) Dual-sourcing.
+
+&emsp;“(3) Unbundling of contracts.
+
+&emsp;“(4) Funding of next-generation prototype systems or subsystems.
+
+&emsp;“(5) Use of modular, open architectures to enable competition for upgrades.
+
+&emsp;“(6) Use of build-to-print approaches to enable production through multiple sources.
+
+&emsp;“(7) Acquisition of complete technical data packages.
+
+&emsp;“(8) Periodic competitions for subsystem upgrades.
+
+&emsp;“(9) Licensing of additional suppliers.
+
+&emsp;“(10) Periodic system or program reviews to address long-term competitive effects of program decisions.
+
+“(c)
+
+Additional Measures To Ensure Competition at Subcontract Level.—The Secretary shall take actions to ensure fair and objective ‘make-buy’ decisions by prime contractors on major defense acquisition programs by—
+
+&emsp;“(1) requiring prime contractors to give full and fair consideration to qualified sources other than the prime contractor for the development or construction of major subsystems and components of major weapon systems;
+
+&emsp;“(2) providing for government surveillance of the process by which prime contractors consider such sources and determine whether to conduct such development or construction in-house or through a subcontract; and
+
+&emsp;“(3) providing for the assessment of the extent to which a contractor has given full and fair consideration to qualified sources other than the contractor in sourcing decisions as a part of past performance evaluations.
+
+“(d)
+
+Consideration of Competition Throughout Operation and Sustainment of Major Weapon Systems.—Whenever a decision regarding source of repair results in a plan to award a contract for performance of maintenance and sustainment of a major weapon system, the Secretary shall take actions to ensure that, to the maximum extent practicable and consistent with statutory requirements, contracts for such maintenance and sustainment are awarded on a competitive basis and give full consideration to all sources (including sources that partner or subcontract with public or private sector repair activities).
+
+“(e)
+
+Applicability.—
+
+&emsp;“(1)
+
+Strategy and measures to ensure competition.—The requirements of subsections (a) and (b) shall apply to any acquisition plan for a major defense acquisition program that is developed or revised on or after the date that is 60 days after the date of the enactment of this Act \[May 22, 2009\].
+
+&emsp;“(2)
+
+Additional actions.—The actions required by subsections (c) and (d) shall be taken within 180 days after the date of the enactment of this Act.”
+
+#### Prototyping Requirements for Major Defense Acquisition Programs
+
+Pub. L. 111–23, title II, §203, May 22, 2009, 123 Stat. 1722, provided that:
+
+“(a)
+
+Competitive Prototyping.—Not later than 90 days after the date of the enactment of this Act \[May 22, 2009\], the Secretary of Defense shall modify the guidance of the Department of Defense relating to the operation of the acquisition system with respect to competitive prototyping for major defense acquisition programs to ensure the following:
+
+&emsp;“(1) That the acquisition strategy for each major defense acquisition program provides for competitive prototypes before Milestone B approval (or Key Decision Point B approval in the case of a space program) unless the Milestone Decision Authority for such program waives the requirement pursuant to paragraph (2).
+
+&emsp;“(2) That the Milestone Decision Authority may waive the requirement in paragraph (1) only—
+
+&emsp;&emsp;“(A) on the basis that the cost of producing competitive prototypes exceeds the expected life-cycle benefits (in constant dollars) of producing such prototypes, including the benefits of improved performance and increased technological and design maturity that may be achieved through competitive prototyping; or
+
+&emsp;&emsp;“(B) on the basis that, but for such waiver, the Department would be unable to meet critical national security objectives.
+
+&emsp;“(3) That whenever a Milestone Decision Authority authorizes a waiver pursuant to paragraph (2), the Milestone Decision Authority—
+
+&emsp;&emsp;“(A) shall require that the program produce a prototype before Milestone B approval (or Key Decision Point B approval in the case of a space program) if the expected life-cycle benefits (in constant dollars) of producing such prototype exceed its cost and its production is consistent with achieving critical national security objectives; and
+
+&emsp;&emsp;“(B) shall notify the congressional defense committees in writing not later than 30 days after the waiver is authorized and include in such notification the rationale for the waiver and the plan, if any, for producing a prototype.
+
+&emsp;“(4) That prototypes may be required under paragraph (1) or (3) for the system to be acquired or, if prototyping of the system is not feasible, for critical subsystems of the system.
+
+“(b)
+
+Comptroller General Review of Certain Waivers.—
+
+&emsp;“(1)
+
+Notice to comptroller general.—Whenever a Milestone Decision Authority authorizes a waiver of the requirement for prototypes pursuant to paragraph (2) of subsection (a) on the basis of excessive cost, the Milestone Decision Authority shall submit the notification of the waiver, together with the rationale, to the Comptroller General of the United States at the same time it is submitted to the congressional defense committees.
+
+&emsp;“(2)
+
+Comptroller general review.—Not later than 60 days after receipt of a notification of a waiver under paragraph (1), the Comptroller General shall—
+
+&emsp;&emsp;“(A) review the rationale for the waiver; and
+
+&emsp;&emsp;“(B) submit to the congressional defense committees a written assessment of the rationale for the waiver.”
+
+#### Organizational Conflicts of Interest in Major Defense Acquisition Programs
+
+Pub. L. 111–23, title II, §207(a)–(c), May 22, 2009, 123 Stat. 1728, 1729, provided that:
+
+“(a)
+
+Revised Regulations Required.—Not later than 270 days after the date of the enactment of this Act \[May 22, 2009\], the Secretary of Defense shall revise the Defense Supplement to the Federal Acquisition Regulation to provide uniform guidance and tighten existing requirements for organizational conflicts of interest by contractors in major defense acquisition programs.
+
+“(b)
+
+Elements.—The revised regulations required by subsection (a) shall, at a minimum—
+
+&emsp;“(1) address organizational conflicts of interest that could arise as a result of—
+
+&emsp;&emsp;“(A) lead system integrator contracts on major defense acquisition programs and contracts that follow lead system integrator contracts on such programs, particularly contracts for production;
+
+&emsp;&emsp;“(B) the ownership of business units performing systems engineering and technical assistance functions, professional services, or management support services in relation to major defense acquisition programs by contractors who simultaneously own business units competing to perform as either the prime contractor or the supplier of a major subsystem or component for such programs;
+
+&emsp;&emsp;“(C) the award of major subsystem contracts by a prime contractor for a major defense acquisition program to business units or other affiliates of the same parent corporate entity, and particularly the award of subcontracts for software integration or the development of a proprietary software system architecture; or
+
+&emsp;&emsp;“(D) the performance by, or assistance of, contractors in technical evaluations on major defense acquisition programs;
+
+&emsp;“(2) ensure that the Department of Defense receives advice on systems architecture and systems engineering matters with respect to major defense acquisition programs from federally funded research and development centers or other sources independent of the prime contractor;
+
+&emsp;“(3) require that a contract for the performance of systems engineering and technical assistance functions for a major defense acquisition program contains a provision prohibiting the contractor or any affiliate of the contractor from participating as a prime contractor or a major subcontractor in the development or construction of a weapon system under the program; and
+
+&emsp;“(4) establish such limited exceptions to the requirement in paragraphs (2) and (3) as may be necessary to ensure that the Department of Defense has continued access to advice on systems architecture and systems engineering matters from highly-qualified contractors with domain experience and expertise, while ensuring that such advice comes from sources that are objective and unbiased.
+
+“(c)
+
+Consultation in Revision of Regulations.—
+
+&emsp;“(1)
+
+Recommendations of panel on contracting integrity.—Not later than 90 days after the date of the enactment of this Act \[May 22, 2009\], the Panel on Contracting Integrity established pursuant to section 813 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2320) \[10 U.S.C. 2304 note\] shall present recommendations to the Secretary of Defense on measures to eliminate or mitigate organizational conflicts of interest in major defense acquisition programs.
+
+&emsp;“(2)
+
+Consideration of recommendations.—In developing the revised regulations required by subsection (a), the Secretary shall consider the following:
+
+&emsp;&emsp;“(A) The recommendations presented by the Panel on Contracting Integrity pursuant to paragraph (1).
+
+&emsp;&emsp;“(B) Any findings and recommendations of the Administrator for Federal Procurement Policy and the Director of the Office of Government Ethics pursuant to section 841(b) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 122 Stat. 4539) \[41 U.S.C. 405c(b)\].”
 
 #### Configuration Steering Boards for Cost Control Under Major Defense Acquisition Programs
 
@@ -114,7 +386,7 @@ Guidance on Authorities of Program Managers After Milestone B.—
 
 &emsp;“(2)
 
-Applicability.—The Secretary of Defense shall modify the guidance described in section 853(d) of the John Warner National Defense Authorization Act for Fiscal Year 2007 \[Pub. L. 109–364; set out below\] in order to take into account the amendment made by paragraph (1) not later than 60 days after the date of the enactment of this Act \[Oct. 14, 2008\].
+Applicability.—The Secretary of Defense shall modify the guidance described in section 853(d) of the John Warner National Defense Authorization Act for Fiscal Year 2007 \[Pub. L. 109–364; set out below\] in order to take into account the amendment made byparagraph (1) not later than 60 days after the date of the enactment of this Act \[Oct. 14, 2008\].
 
 “(f)
 
@@ -150,7 +422,7 @@ Major defense acquisition program.—The term ‘major defense acquisition progr
 
 &emsp;“(2)
 
-Milestone decision authority.—The term ‘milestone decision authority’ has the meaning provided in section 2366a(f)(2) \[now 2366b(f)(2)\] of such title.
+Milestone decision authority.—The term ‘milestone decision authority’ has the meaning provided in section 2366a(f)(2) \[now 2366b(g)(2)\] of such title.
 
 &emsp;“(3)
 
@@ -186,7 +458,7 @@ Reports.—The Secretary of Defense shall submit to the Committees on Armed Serv
 
 #### Program Manager Empowerment and Accountability
 
-Pub. L. 109–364, div. A, title VIII, §853, Oct. 17, 2006, 120 Stat. 2342, as amended by Pub. L. 110–417, \[div. A\],title VIII, §814(e)(1), Oct. 14, 2008, 122 Stat. 4530, provided that:
+Pub. L. 109–364, div. A, title VIII, §853, Oct. 17, 2006, 120 Stat. 2342, as amended by Pub. L. 110–417, \[div. A\], title VIII, §814(e)(1), Oct. 14, 2008, 122 Stat. 4530, provided that:
 
 “(a)
 
@@ -278,7 +550,7 @@ Milestone Decision Authority.—(1) The authority to make a decision that a prog
 
 &emsp;“(A) the Under Secretary has determined (after consultation with the Under Secretary of Defense for Intelligence and the Deputy Director of Central Intelligence for Community Management) that the Director has implemented acquisition management policies, procedures, and practices that are sufficient to ensure that acquisitions by the National Security Agency are conducted in a manner consistent with sound, efficient acquisition practices;
 
-&emsp;“(B) the Under Secretary has consulted with the Under Secretary of Defense for Intelligence and theDeputy Director of Central Intelligence for Community Management on the delegation of such milestone decision authority to the Director; and
+&emsp;“(B) the Under Secretary has consulted with the Under Secretary of Defense for Intelligence and the Deputy Director of Central Intelligence for Community Management on the delegation of such milestone decision authority to the Director; and
 
 &emsp;“(C) the Secretary of Defense has approved the delegation of such milestone decision authority to the Director.
 
@@ -324,7 +596,7 @@ Authority.—The Secretary of Defense is authorized to conduct major defense acq
 
 “(b)
 
-Limitation on Spiral Development Programs.—A research and development program for a major defense acquisition program of a military department or Defense Agency may not be conducted as a spiral development program unless the Secretary of Defense approves the spiral development plan for that research and development program in accordance with subsection (c). The Secretary of Defense may delegate authority to approve the plan to the Under Secretary of Defense for Acquisition, Technology, and Logistics, or to the senior acquisition executive of the military department or Defense Agency concerned, but such authority may not be further delegated.
+Limitation on Spiral Development Programs.—A research and development program for a major defense acquisition program of a military department or Defense Agency may not be conducted as a spiral development program unless the Secretary of Defense approves the spiral development plan for that research and development program in accordance withsubsection (c). The Secretary of Defense may delegate authority to approve the plan to the Under Secretary of Defense for Acquisition, Technology, and Logistics, or to the senior acquisition executive of the military department or Defense Agency concerned, but such authority may not be further delegated.
 
 “(c)
 
@@ -402,7 +674,7 @@ Pub. L. 104–201, div. A, title VIII, §803, Sept. 23, 1996, 110 Stat. 2604, as
 
 “(a)
 
-Authority.—The Secretary of Defense may waive sections 2399, 2432, and 2433 of title 10, United States Code, in accordance with this section for any defense acquisition program designated by the Secretary of Defense for participation in the defense acquisition pilot program authorized by section 809 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 10 U.S.C. 2430 note).
+Authority.—The Secretary of Defense may waive sections 2399, 2432, and 2433 of title 10, United States Code, in accordance with this section for any defense acquisition program designated by the Secretary of Defense for participation in the defense acquisition pilot program authorized by section 809 of the NationalDefense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 10 U.S.C. 2430 note).
 
 “(b)
 
@@ -599,4 +871,14 @@ Limitation on Waiver Authority.—The applicability of the following requirement
 “(g)
 
 Termination of Authority.—The authority to waive or limit the applicability of any law under this section may not be exercised after September 30, 1995.”
+
+#### Definitions
+
+Pub. L. 111–23, §2, May 22, 2009, 123 Stat. 1704, provided that: “In this Act \[see Short Title of 2009 Amendment note set out under section 101 of this title\]:
+
+&emsp;“(1) The term ‘congressional defense committees’ has the meaning given that term in section 101(a)(16) of title 10, United States Code.
+
+&emsp;“(2) The term ‘major defense acquisition program’ has the meaning given that term in section 2430 of title 10, United States Code.
+
+&emsp;“(3) The term ‘major weapon system’ has the meaning given that term in section 2379(d) \[probably means section 2379(f)\] of title 10, United States Code.”
 

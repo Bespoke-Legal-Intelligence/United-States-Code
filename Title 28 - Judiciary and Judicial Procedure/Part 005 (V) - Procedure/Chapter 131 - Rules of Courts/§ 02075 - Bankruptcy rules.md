@@ -36,7 +36,7 @@ Pub. L. 98–353, title III, §320, July 10, 1984, 98 Stat. 357, provided that: 
 
 #### Applicability of Rules to Cases Under Title 11
 
-Pub. L. 95–598, title IV, §405(d), Nov. 6, 1978, 92 Stat. 2685, provided that: “The rules prescribed under section 2075 of title 28 of the United States Code and in effect on September 30, 1979, shall apply to cases under title 11, to the extent not inconsistent with the amendments made by this Act, or with this Act \[see Tables for complete classification of Pub. L. 95–598\], until such rules are repealed or superseded by rules prescribed and effective under such section, as amended by section 248 of this Act.”
+Pub. L. 95–598, title IV, §405(d), Nov. 6, 1978, 92 Stat. 2685, provided that: “The rules prescribed under section 2075 of title 28 of the United States Code and in effect on September 30, 1979, shall apply to cases under title 11, to the extent not inconsistent with the amendments made by this Act, or with this Act \[see Tables for complete classification of Pub. L. 95–598\], until such rules are repealed or superseded by rules prescribed and effective under such section, as amended by section 248 \[247\] of this Act.”
 
 #### Additional Rulemaking Power
 

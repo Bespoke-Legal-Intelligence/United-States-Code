@@ -16,6 +16,8 @@
 | [5961a.](%C2%A7%2005961a%20-%20Requirement%20for%20on-site%20managers.md) | Requirement for on-site managers. |
 | [5962\.](%C2%A7%2005962%20-%20Annual%20certifications%20on%20use%20of%20facilities%20being%20constructed%20for%20Cooperative%20Threat%20Reduction%20projects%20or%20activities.md) | Annual certifications on use of facilities being constructed for Cooperative Threat Reduction projects or activities. |
 | [5963\.](%C2%A7%2005963%20-%20Authority%20to%20use%20Cooperative%20Threat%20Reduction%20funds%20outside%20the%20former%20Soviet%20Union.md) | Authority to use Cooperative Threat Reduction funds outside the former Soviet Union. |
+| [5964\.](%C2%A7%2005964%20-%20Metrics%20for%20the%20Cooperative%20Threat%20Reduction%20Program.md) | Metrics for the Cooperative Threat Reduction Program. |
+| [5965\.](%C2%A7%2005965%20-%20Cooperative%20Threat%20Reduction%20Program%20authority%20for%20urgent%20threat%20reduction%20activities.md) | Cooperative Threat Reduction Program authority for urgent threat reduction activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -38,3 +40,5 @@
 - [&sect; 05961a - Requirement for on-site managers](%C2%A7%2005961a%20-%20Requirement%20for%20on-site%20managers.md)
 - [&sect; 05962 - Annual certifications on use of facilities being constructed for Cooperative Threat Reduction projects or activities](%C2%A7%2005962%20-%20Annual%20certifications%20on%20use%20of%20facilities%20being%20constructed%20for%20Cooperative%20Threat%20Reduction%20projects%20or%20activities.md)
 - [&sect; 05963 - Authority to use Cooperative Threat Reduction funds outside the former Soviet Union](%C2%A7%2005963%20-%20Authority%20to%20use%20Cooperative%20Threat%20Reduction%20funds%20outside%20the%20former%20Soviet%20Union.md)
+- [&sect; 05964 - Metrics for the Cooperative Threat Reduction Program](%C2%A7%2005964%20-%20Metrics%20for%20the%20Cooperative%20Threat%20Reduction%20Program.md)
+- [&sect; 05965 - Cooperative Threat Reduction Program authority for urgent threat reduction activities](%C2%A7%2005965%20-%20Cooperative%20Threat%20Reduction%20Program%20authority%20for%20urgent%20threat%20reduction%20activities.md)

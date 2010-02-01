@@ -2,7 +2,7 @@
 
 #### (a) Regulations
 
-The Administrator, after notice and opportunity for public comment, and at least threemonths before the effective dates specified in subsection (f) of this section, shall promulgate release detection, prevention, and correction regulations applicable to all owners and operators of underground storage tanks, as may be necessary to protect human health and the environment.
+The Administrator, after notice and opportunity for public comment, and at least three months before the effective dates specified in subsection (f) of this section, shall promulgate release detection, prevention, and correction regulations applicable to all owners and operators of underground storage tanks, as may be necessary to protect human health and the environment.
 
 #### (b) Distinctions in regulations
 
@@ -180,7 +180,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 &emsp;&emsp;&emsp;(ii) the Administrator enters into a cooperative agreement with the State setting out the actions to be undertaken by the State.
 
-> &emsp;&emsp;The Administrator may provide funds from the Trust Fund for the reasonable costs of the State's actions under the cooperative agreement.
+> &emsp;&emsp;The Administrator may provide funds from the Trust Fund for the reasonable costs ofthe State's actions under the cooperative agreement.
 
 #### (B) Cost share
 
@@ -206,7 +206,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (10) Definition of exposure assessment
 
-&emsp;As used in this subsection, the term “exposure assessment” means an assessment to determine the extent of exposure of, or potential for exposure of, individuals to petroleum from a release from an underground storage tank based on such factors as the nature and extentof contamination and the existence of or potential for pathways of human exposure (including ground or surface water contamination, air emissions, and food chain contamination), the size of the community within the likely pathways of exposure, and the comparison of expected human exposure levels to the short-term and long-term health effects associated with identified contaminants and any available recommended exposure or tolerance limits for such contaminants. Such assessment shall not delay corrective action to abate immediate hazards or reduce exposure.
+&emsp;As used in this subsection, the term “exposure assessment” means an assessment to determine the extent of exposure of, or potential for exposure of, individuals to petroleum from a release from an underground storage tank based on such factors as the nature and extent of contamination and the existence of or potential for pathways of human exposure (including ground or surface water contamination, air emissions, and food chain contamination), the size of the community within the likely pathways of exposure, and the comparison of expected human exposure levels to the short-term and long-term health effects associated with identified contaminants and any available recommended exposure or tolerance limits for such contaminants. Such assessment shall not delay corrective action to abate immediate hazards or reduce exposure.
 
 #### (11) Facilities without financial responsibility
 
@@ -366,7 +366,7 @@ Section 205(h) of Pub. L. 99–499 provided that:
 
 “(1)
 
-Study.—The Comptroller General shall conduct a study of the availability of pollution liability insurance, leak insurance, and contamination insurance for owners and operators of petroleum storage and distribution facilities. The study shall assess the current and projected extent to which private insurance can contribute to the financial responsibility of owners and operators of underground storage tanks and the ability of owners and operators of underground storage tanks to maintain financial responsibility through other methods. The study shall consider the experience of owners and operators of marine vessels in getting insurance for their liabilities under the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\] and the operation of the Water Quality Insurance Syndicate.
+Study.—The Comptroller General shall conduct a study of the availability of pollution liability insurance, leak insurance, and contamination insurance for owners and operators of petroleum storage and distribution facilities. The study shall assess the currentand projected extent to which private insurance can contribute to the financial responsibility of owners and operators of underground storage tanks and the ability of owners and operators of underground storage tanks to maintain financial responsibility through other methods. The study shall consider the experience of owners and operators of marine vessels in getting insurance for their liabilities under the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\] and the operation of the Water Quality Insurance Syndicate.
 
 “(2)
 

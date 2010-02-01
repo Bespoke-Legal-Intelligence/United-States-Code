@@ -24,7 +24,7 @@ Pub. L. 89–750, title III, §301, as added by Pub. L. 100–297, title II, §2
 
 #### Congressional Findings Regarding National Literacy Act of 1991
 
-Pub. L. 102–73, §2, July 25, 1991, 105 Stat. 333, stated findings of Congress regarding the National Literacy Act of 1991, prior to repeal by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079.
+Pub. L. 102–73, §2, July 25, 1991, 105 Stat. 333, stated findings of Congress regarding the National LiteracyAct of 1991, prior to repeal by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079.
 
 #### Definitions
 

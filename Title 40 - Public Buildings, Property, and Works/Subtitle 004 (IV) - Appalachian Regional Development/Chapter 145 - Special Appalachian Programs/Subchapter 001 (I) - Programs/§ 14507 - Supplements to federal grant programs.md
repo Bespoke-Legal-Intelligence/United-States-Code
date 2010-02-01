@@ -146,7 +146,7 @@ The Federal Water Pollution Control Act, referred to in subsec. (a)(1)(A)(v), (2
 
 The Public Health Service Act, referred to in subsec. (a)(1)(A)(vi), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title VI of the Act is classified generally to subchapter IV (§291 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The Housing and Community Development Act of 1974, referred to in subsec. (a)(1)(A)(viii), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of Title 42, The Public Health and Welfare. Forcomplete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (a)(1)(A)(viii), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
 
 The Communications Act of 1934, referred to in subsec. (a)(1)(A)(ix), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended. Part IV of title III of the Act is classified generally to part IV (§390 et seq.) of subchapter III of chapter 5 of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 

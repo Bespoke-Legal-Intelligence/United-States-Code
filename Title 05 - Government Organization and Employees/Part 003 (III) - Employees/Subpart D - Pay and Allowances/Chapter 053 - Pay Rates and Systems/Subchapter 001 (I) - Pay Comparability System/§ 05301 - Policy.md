@@ -78,7 +78,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–303, provided that: “This title\[enacting provisions set out as notes under sections 5304 and 5305 of this title and section 204 of Title 3, The President, and amending provisions set out as a note under section 5305 of this title\] may be cited as the ‘Law Enforcement Pay Equity Act of 2000’.”
+Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–303, provided that: “This title \[enacting provisions set out as notes under sections 5304 and 5305 of this title and section 204 of Title 3, The President, and amending provisions set out as a note under section 5305 of this title\] may be cited as the ‘Law Enforcement Pay Equity Act of 2000’.”
 
 #### Short Title of 1993 Amendment
 
@@ -96,7 +96,7 @@ Short Title.—This section, and the sections immediately following this section
 
 Rules of Construction.—(1) Except as otherwise expressly provided, any reference (actual or implicit) in FEPCA (outside of this section) to ‘this Act’ (or to any title, section, or other designated provision of ‘this Act’) shall be construed to be a reference to FEPCA (or the corresponding provision within FEPCA).
 
-“(2) Except as otherwise expressly provided, any reference (actual or implicit) in any provision of this Act outside of FEPCA to ‘this Act’ (or to any title, section, or other designated provision of ‘this Act’), and any reference made in any provision of law outside of this Act to the ‘Treasury, Postal Service and General Government Appropriations Act, 1991’ \[Pub. L. 101–509\] (or to any title, section, or other designated provision of such Act), shall be construed disregarding the provisions of FEPCA.”
+“(2) Except as otherwise expressly provided, any reference (actual or implicit) in any provision of this Act outside of FEPCA to ‘this Act’ (or to any title, section, or other designated provision of ‘this Act’), and any reference made in any provision of law outside of this Actto the ‘Treasury, Postal Service and General Government Appropriations Act, 1991’ \[Pub. L. 101–509\] (or to any title, section, or other designated provision of such Act), shall be construed disregarding the provisions of FEPCA.”
 
 Section 529 \[title III, §306\] of Pub. L. 101–509 provided that: “Notwithstanding section 1(b) \[section 529 \[§1(b)\] of Pub. L. 101–509, set out above\], a reference in any of the preceding provisions of this title \[section 529 \[title III, §§301–305\] of Pub. L. 101–509, enacting section 237 of Title 42, The Public Health and Welfare, amending section 212 of Title 42, and enacting provisions set out as notes under this section, section 5304 of this title, and section 212 of Title 42\] to ‘this Act’ \[section 529 of Pub. L. 101–509\] (other than a reference in section 301) \[section 529 \[title III, §301\] of Pub. L. 101–509, set out below\] shall not be considered to include any provision of title IV \[section 529 \[title IV, §§401–412\] of Pub. L. 101–509, enacting sections 4521 to 4523 of this title, amending sections 5541, 5542, 5547, 8335, and 8425 of this title, enacting provisions set out as notes under sections 4521, 5305, 5541, and 8335 of this title, and amending provisions set out as a note under section 5541 of this title\].”
 
@@ -176,7 +176,7 @@ Section 529 \[title III, §303\] of Pub. L. 101–509 provided that: “Nothing 
 
 #### Ex. Ord. No. 12748. Providing for Federal Pay Administration
 
-Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, as amended by Ex. Ord. No. 12883, Nov. 29, 1993, 58 F.R. 63281; Ex. Ord. No. 13106, §8, Dec. 7, 1998, 63 F.R. 68152; Ex. Ord. No. 13415, §2(a), Dec. 1, 2006, 71 F.R. 70641, provided:
+Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, as amended by Ex. Ord. No. 12883, Nov. 29, 1993, 58 F.R. 63281; Ex.Ord. No. 13106, §8, Dec. 7, 1998, 63 F.R. 68152; Ex. Ord. No. 13415, §2(a), Dec. 1, 2006, 71 F.R. 70641, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Employees Pay Comparability Act of 1990 (hereinafter “FEPCA”), as incorporated in section 529 of Public Law 101–509 \[see Short Title of 1990 Amendment note above\], and sections 3301 and 3302 of title 5, United States Code, it is hereby ordered as follows:
 

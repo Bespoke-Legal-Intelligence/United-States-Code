@@ -40,7 +40,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 #### (A) In general
 
-&emsp;&emsp;In accordance with the legal standards for preemption set forth in the decision of the Supreme Court of the United States in Barnett Bank of Marion County N.A. v. Nelson, 517 U.S. 25 (1996), no State may, by statute, regulation, order, interpretation, or other action, prevent or significantly interfere with the ability of a depository institution, or an affiliate thereof, to engage, directly or indirectly, either by itself or in conjunction with an affiliate or any other person, in any insurance sales, solicitation, or crossmarketing activity.
+&emsp;&emsp;In accordance with the legal standards for preemption set forth in the decision of the Supreme Court of the United States inBarnett Bank of Marion County N.A. v. Nelson, 517 U.S. 25 (1996), no State may, by statute, regulation, order, interpretation, or other action, prevent or significantly interfere with the ability of a depository institution, or an affiliate thereof, to engage, directly or indirectly, either by itself or in conjunction with an affiliate or any other person, in any insurance sales, solicitation, or crossmarketing activity.
 
 #### (B) Certain State laws preserved
 
@@ -48,7 +48,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;(i) Restrictions prohibiting the rejection of an insurance policy by a depository institution or an affiliate of a depository institution, solely because the policy has been issued or underwritten by any person who is not associated with such depository institution or affiliate when the insurance is required in connection with a loan or extension of credit.
 
-&emsp;&emsp;&emsp;(ii) Restrictions prohibiting a requirement for any debtor, insurer, or insurance agent or broker to pay a separate charge in connection with the handling of insurance that is required in connection with a loan or other extension of credit or the provision of another traditional banking product by a depository institution, or any affiliate of a depository institution, unless such charge would be required when thedepository institution or affiliate is the licensed insurance agent or broker providing the insurance.
+&emsp;&emsp;&emsp;(ii) Restrictions prohibiting a requirement for any debtor, insurer, or insurance agent or broker to pay a separate charge in connection with the handling of insurance that is required in connection with a loan or other extension of credit or the provision of another traditional banking product by a depository institution, or any affiliate of a depository institution, unless such charge would be required when the depository institution or affiliate is the licensed insurance agent or broker providing the insurance.
 
 &emsp;&emsp;&emsp;(iii) Restrictions prohibiting the use of any advertisement or other insurance promotional material by a depository institution or any affiliate of a depository institution that would cause a reasonable person to believe mistakenly that—
 
@@ -74,7 +74,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;&emsp;(II) from informing a customer or prospective customer that insurance is required in order to obtain a loan or credit, that loan or credit approval is contingent upon the procurement by the customer of acceptable insurance, or that insurance is available from the depository institution or an affiliate of the depository institution.
 
-&emsp;&emsp;&emsp;(ix) Restrictions requiring, when an application by a consumer for a loan or other extension of credit from a depository institution is pending, and insurance is offered or sold to the consumer or is required in connection with the loan or extension of credit by the depository institution or any affiliate thereof, that a written disclosure be provided to the consumer or prospective customer indicating that the customer's choice of an insurance provider will not affect the credit decision or credit terms in any way, except that the depository institution may impose reasonable requirements concerning the creditworthiness of the insurer and scope of coverage chosen.
+&emsp;&emsp;&emsp;(ix) Restrictions requiring, when an application by a consumer for a loan or other extension of credit from a depository institution is pending, and insurance is offered or sold to the consumer or is required inconnection with the loan or extension of credit by the depository institution or any affiliate thereof, that a written disclosure be provided to the consumer or prospective customer indicating that the customer's choice of an insurance provider will not affect the credit decision or credit terms in any way, except that the depository institution may impose reasonable requirements concerning the creditworthiness of the insurer and scope of coverage chosen.
 
 &emsp;&emsp;&emsp;(x) Restrictions requiring clear and conspicuous disclosure, in writing, where practicable, to the customer prior to the sale of any insurance policy that such policy—
 
@@ -200,7 +200,7 @@ For purposes of this section, the following definitions shall apply:
 
 The McCarran-Ferguson Act, referred to in subsecs. (a) and (d)(3)(A), is act Mar. 9, 1945, ch. 20, 59 Stat. 33, which is classified generally to chapter 20 (§1011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1011 of this title and Tables.
 
-This Act, referred to in subsecs. (c)(1), (d)(1), (4)(D)(iii), (iv), (e), and (f)(2), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
+This Act, referred to in subsecs. (c)(1), (d)(1), (4)(D)(iii), (iv), (e), and (f)(2), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-BlileyAct. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 Section 106 of the Bank Holding Company Act Amendments of 1970, referred to in subsec. (d)(2)(B)(viii)(I), is Pub. L. 91–607, title I, §106, Dec. 31, 1970, 84 Stat. 1766, as amended, which is classified generally to chapter 22 (§1971 et seq.) of Title 12, Banks and Banking.
 
@@ -226,7 +226,7 @@ Pub. L. 107–297, title I, Nov. 26, 2002, 116 Stat. 2322, as amended by Pub. L.
 
 Findings.—The Congress finds that—
 
-&emsp;“(1) the ability of businesses and individuals to obtain property and casualty insurance at reasonableand predictable prices, in order to spread the risk of both routine and catastrophic loss, is critical to economic growth, urban development, and the construction and maintenance of public and private housing, as well as to the promotion of United States exports and foreign trade in an increasingly interconnected world;
+&emsp;“(1) the ability of businesses and individuals to obtain property and casualty insurance at reasonable and predictable prices, in order to spread the risk of both routine and catastrophic loss, is critical to economic growth, urban development, and the construction and maintenance of public and private housing, as well as to the promotion of United States exports and foreign trade in an increasingly interconnected world;
 
 &emsp;“(2) property and casualty insurance firms are important financial institutions, the products of which allow mutualization of risk and the efficient use of financial resources and enhance the ability of the economy to maintain stability, while responding to a variety of economic, political, environmental, and other risks with a minimum of disruption;
 
@@ -722,7 +722,7 @@ Recoupment of adjustments.—Any mandatory recoupment amounts not collected by t
 
 &emsp;&emsp;“(E)
 
-Timing of premiums.—The Secretary may adjust the timing of terrorism loss risk-spreading premiums to provide for equivalent application of the provisions of this title to policies that are notbased on a calendar year, or to apply such provisions on a daily, monthly, or quarterly basis, as appropriate.
+Timing of premiums.—The Secretary may adjust the timing of terrorism loss risk-spreading premiums to provide for equivalent application of the provisions of this title to policies that are not based on a calendar year, or to apply such provisions on a daily, monthly, or quarterly basis, as appropriate.
 
 “(f)
 
@@ -806,7 +806,7 @@ Civil Penalties.—
 
 In general.—The Secretary may assess a civil monetary penalty in an amount not exceeding the amount under paragraph (2) against any insurer that the Secretary determines, on the record after opportunity for a hearing—
 
-&emsp;&emsp;“(A) has failed to charge, collect, or remit terrorism loss risk-spreading premiums under section 103(e) in accordance with the requirements of, or regulations issued under, this title;
+&emsp;&emsp;“(A) has failed to charge, collect, or remit terrorism loss risk-spreading premiums under section103(e) in accordance with the requirements of, or regulations issued under, this title;
 
 &emsp;&emsp;“(B) has intentionally provided to the Secretary erroneous information regarding premium or loss amounts;
 

@@ -80,7 +80,7 @@ The following Federal standards are hereby established:
 
 #### (10) Consideration of the effects of wholesale power purchases on utility cost of capital; effects of leveraged capital structures on the reliability of wholesale power sellers; and assurance of adequate fuel supplies
 
-&emsp;(A) To the extent that a State regulatory authority requires or allows electric utilities for which it has ratemaking authority to consider the purchase of long-term wholesale power supplies as a means of meeting electric demand, such authority shall perform a general evaluation of:
+&emsp;(A) To the extent that a State regulatory authority requires or allows electric utilitiesfor which it has ratemaking authority to consider the purchase of long-term wholesale power supplies as a means of meeting electric demand, such authority shall perform a general evaluation of:
 
 &emsp;&emsp;(i) the potential for increases or decreases in the costs of capital for such utilities, and any resulting increases or decreases in the retail rates paid by electric consumers, that may result from purchases of long-term wholesale power supplies in lieu of the construction of new generation facilities by such utilities;
 
@@ -124,7 +124,7 @@ The following Federal standards are hereby established:
 
 &emsp;&emsp;(iv) credits for consumers with large loads who enter into pre-established peak load reduction agreements that reduce a utility's planned capacity obligations.
 
-&emsp;(C) Each electric utility subject to subparagraph (A) shall provide each customer requesting a time-based rate with a time-based meter capable of enabling the utility and customer to offer and receive such rate, respectively.
+&emsp;(C) Each electric utility subject to subparagraph (A) shall provide each customer requesting a time-based rate with a time-based metercapable of enabling the utility and customer to offer and receive such rate, respectively.
 
 &emsp;(D) For purposes of implementing this paragraph, any reference contained in this section to November 9, 1978, shall be deemed to be a reference to August 8, 2005.
 
@@ -170,7 +170,7 @@ The following Federal standards are hereby established:
 
 &emsp;&emsp;&emsp;(vi) offering home energy audits, offering demand response programs, publicizing the financial and environmental benefits associated with making home energy efficiency improvements, and educating homeowners about all existing Federal and State incentives, including the availability of low-cost loans, that make energy efficiency improvements more affordable.
 
-#### (16) <sup>2</sup> Consideration of smart grid investments
+#### (18) Consideration of smart grid investments
 
 #### (A) In general
 
@@ -196,7 +196,7 @@ The following Federal standards are hereby established:
 
 &emsp;&emsp;Each State shall consider authorizing any electric utility or other party of the State to deploy a qualified smart grid system to recover in a timely manner the remaining book-value costs of any equipment rendered obsolete by the deployment of the qualified smart grid system, based on the remaining depreciable life of the obsolete equipment.
 
-#### (17) <sup>3</sup> Smart grid information
+#### (19) Smart grid information
 
 #### (A) Standard
 
@@ -230,7 +230,7 @@ The following Federal standards are hereby established:
 
 &emsp;&emsp;Purchasers shall be able to access their own information at any time through the Internet and on other means of communication elected by that utility for Smart Grid applications. Other interested persons shall be able to access information not specific to any purchaser through the Internet. Information specific to any purchaser shall be provided solely to that purchaser.
 
-(Pub. L. 95–617, title I, §111, Nov. 9, 1978, 92 Stat. 3121; Pub. L. 102–486, title I, §111(a), (b), title VII, §712, Oct. 24, 1992, 106 Stat. 2795, 2910; Pub. L. 109–58, title XII, §§1251(a), 1252(a), 1254(a), Aug. 8, 2005, 119 Stat. 962, 963, 970; Pub. L. 110–140, title V, §532(a), title XIII, §1307(a), Dec. 19, 2007, 121 Stat. 1665, 1791.)
+(Pub. L. 95–617, title I, §111, Nov. 9, 1978, 92 Stat. 3121; Pub. L. 102–486, title I, §111(a), (b), title VII, §712, Oct. 24, 1992, 106 Stat. 2795, 2910; Pub. L. 109–58, title XII, §§1251(a), 1252(a), 1254(a), Aug. 8, 2005, 119 Stat. 962, 963, 970; Pub. L. 110–140, title V, §532(a), title XIII, §1307(a), Dec. 19, 2007, 121 Stat. 1665, 1791; Pub. L. 111–5, div. A, title IV, §408(a), Feb. 17, 2009, 123 Stat. 146.)
 
 #### References in Text
 
@@ -240,7 +240,9 @@ Section 79z–5a of title 15, referred to in subsec. (d)(10)(A)(ii), was repeale
 
 #### Amendments
 
-2007—Subsec. (d)(16), (17). Pub. L. 110–140, §1307(a), added pars. (16) and (17) relating to consideration ofsmart grid investments and smart grid information, respectively.
+2009—Subsec. (d)(16) to (19). Pub. L. 111–5 redesignated par. (16) relating to consideration of smart grid investments as (18) and par. (17) relating to smart grid information as (19).
+
+2007—Subsec. (d)(16), (17). Pub. L. 110–140, §1307(a), added pars. (16) and (17) relating to consideration of smart grid investments and smart grid information, respectively.
 
 Pub. L. 110–140, §532(a), added pars. (16) and (17) relating to integrated resource planning and rate design modifications to promote energy efficiency investments, respectively.
 
@@ -289,8 +291,4 @@ Section 111(e) of Pub. L. 102–486 provided that: “Not later than 2 years aft
 Section 601 of Pub. L. 95–617 directed the Secretary to conduct a study concerning the effects of provisions of Federal law on rates established by State utility agencies and to submit a report to Congress on the results of such study not later than 1 year after Nov. 9, 1978.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “(18)”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “(19)”.</i>
 

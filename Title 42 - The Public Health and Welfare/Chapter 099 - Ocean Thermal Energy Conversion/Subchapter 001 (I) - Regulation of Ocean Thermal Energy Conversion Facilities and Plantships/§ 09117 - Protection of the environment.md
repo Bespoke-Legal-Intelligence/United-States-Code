@@ -18,7 +18,7 @@ The program shall be designed to determine, among other things—
 
 #### (c) Plan submittal to Congress
 
-Within 180 days after August 3, 1980, the Administrator shall prepare a plan to carry out theprogram described in subsections (a) and (b) of this section, including necessary funding levels for the next 5 fiscal years, and submit the plan to the Congress.
+Within 180 days after August 3, 1980, the Administrator shall prepare a plan to carry out the program described in subsections (a) and (b) of this section, including necessary funding levels for the next 5 fiscal years, and submit the plan to the Congress.
 
 #### (d) Reduction of program to minimum necessary level
 

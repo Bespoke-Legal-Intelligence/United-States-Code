@@ -28,7 +28,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(C) an unresolved area of noncompliance.
 
-&emsp;(3) The term “delegate agency” means a public, private nonprofit (including a community-based organization, as defined in section9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)), or for-profit organization or agency to which a grantee has delegated all or part of the responsibility of the grantee for operating a Head Start program.
+&emsp;(3) The term “delegate agency” means a public, private nonprofit (including a community-based organization, as defined in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)), or for-profit organization or agency to which a grantee has delegated all or part of the responsibility of the grantee for operating a Head Start program.
 
 &emsp;(4) The term “family literacy services” means services that are of sufficient intensity in terms of hours, and of sufficient duration, to make sustainable changes in a family, and that integrate all of the following activities:
 
@@ -168,7 +168,7 @@ For purposes of this subchapter:
 
 &emsp;(24) The term “Secretary” means the Secretary of Health and Human Services.
 
-&emsp;(25) The term “State” means a State, the Commonwealth of Puerto Rico, the District ofColumbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands. The term includes the Republic of Palau for fiscal years 2008 and 2009, and (if the legislation described in section 9835(a)(2)(B)(v) of this title has not been enacted by September 30, 2009) for fiscal years 2010 through 2012.
+&emsp;(25) The term “State” means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands. The term includes the Republic of Palau for fiscal years 2008 and 2009, and (if the legislation described in section 9835(a)(2)(B)(v) of this title has not been enacted by September 30, 2009) for fiscal years 2010 through 2012.
 
 &emsp;(26) The term “unresolved area of noncompliance” means failure to correct a noncompliance item within 120 days, or within such additional time (if any) as is authorized by the Secretary, after receiving from the Secretary notice of such noncompliance item, pursuant to section 9836a(c) of this title.
 
@@ -182,7 +182,9 @@ The Elementary and Secondary Education Act of 1965, referred to in par. (16), is
 
 #### Amendments
 
-2007—Pub. L. 110–134, §3(b), which directed redesignation of pars. (1) to (23) as (1), (3), (4), (5), (6), (7), (8), (9), (10), (12), (16), (17), (18), (19), (22), (24), (25), (2), (11), (13), (14), (15), (20), (21), (23), and (26), respectively, so that pars. (1) to (26) appear in numerical order, was executed by redesignating pars. (1) to (26) as (1), (3), (4), (5), (6), (7), (8), (9), (10), (12), (16), (17), (18), (19), (22), (24), (25), (2), (11), (13), (14), (15), (20), (21), (23), and (26), respectively, to reflect the probable intent of Congress.
+2007—Pub. L. 110–134, §3(b)(2), rearranged pars. into numerical order.
+
+Pub. L. 110–134, §3(b)(1), which directed amendment of this section by redesignating pars. (1) to (23) as (1), (3), (4), (5), (6), (7), (8), (9), (10), (12), (16), (17), (18), (19), (22), (24), (25), (2), (11), (13), (14), (15), (20), (21), (23), and (26), respectively, was executed by redesignating pars. (1) to (26) as (1), (3), (4), (5), (6), (7), (8), (9), (10), (12), (16), (17), (18), (19), (22), (24), (25), (2), (11), (13), (14), (15), (20), (21), (23), and (26), respectively, to reflect the probable intent of Congress.
 
 Par. (2). Pub. L. 110–134, §3(a)(1), inserted “(including a community-based organization, as defined in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801))” after “nonprofit”.
 

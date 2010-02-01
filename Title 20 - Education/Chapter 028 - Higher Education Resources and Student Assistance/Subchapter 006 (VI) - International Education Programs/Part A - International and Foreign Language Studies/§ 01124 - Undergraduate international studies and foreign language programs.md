@@ -8,7 +8,7 @@
 
 #### (2) Use of funds
 
-&emsp;Grants made under this section may be used for Federal share of the cost of projects and activities which are an integral part of such a program, such as—
+&emsp;Grants made under this section may be used for the Federal share of the cost of projects and activities which are an integral part of such a program, such as—
 
 &emsp;&emsp;(A) planning for the development and expansion of undergraduate programs in international studies and foreign languages;
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(C) an assurance that students at the applicant institutions, as appropriate, will have equal access to, and derive benefits from, the program assisted under this subsection;
 
-&emsp;&emsp;(D) an assurance that each institution, combination or partnership will use the Federal assistance provided under this subsection to supplement and not supplant non-Federal funds the institution expends for programs to improve undergraduate instruction in international studies and foreign languages;
+&emsp;&emsp;(D) an assurance that each applicant, consortium, or partnership will use the Federal assistance provided under this subsection to supplement and not supplant non-Federal funds the institution expends for programs to improve undergraduate instruction in international studies and foreign languages;
 
 &emsp;&emsp;(E) a description of how the applicant will provide information to students regarding federally funded scholarship programs in related areas;
 
@@ -110,13 +110,13 @@ The Secretary may also award grants to public and private nonprofit agencies and
 
 #### (1) In general
 
-&emsp;The Secretary may use not more than 20 percent of the total amount appropriated for thispart for carrying out the purposes of this section.
+&emsp;The Secretary may use not more than 20 percent of the total amount appropriated for this part for carrying out the purposes of this section.
 
 #### (2) Grantees
 
 &emsp;Of the total amount of grant funds awarded to a grantee under this section, the grantee may use not more than ten percent of such funds for the activity described in subsection (a)(2)(I).
 
-(Pub. L. 89–329, title VI, §604, as added Pub. L. 105–244, title VI, §601, Oct. 7, 1998, 112 Stat. 1778; amended Pub. L. 110–315, title VI, §§604, 610(a), Aug. 14, 2008, 122 Stat. 3336, 3338.)
+(Pub. L. 89–329, title VI, §604, as added Pub. L. 105–244, title VI, §601, Oct. 7, 1998, 112 Stat. 1778; amended Pub. L. 110–315, title VI, §§604, 610(a), Aug. 14, 2008, 122 Stat. 3336, 3338; Pub. L. 111–39, title VI, §601(a)(1), July 1, 2009, 123 Stat. 1953.)
 
 #### Prior Provisions
 
@@ -127,6 +127,10 @@ Another prior section 1124, Pub. L. 89–329, title VI, §604, Nov. 8, 1965, 79 
 A prior section 1124a, Pub. L. 89–329, title VI, §605, as added Pub. L. 99–498, title VI, §605(2), Oct. 17, 1986, 100 Stat. 1517; amended Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 725, authorized grants for intensive summer language institutes, prior to the general amendment of this part by Pub. L. 105–244.
 
 #### Amendments
+
+2009—Subsec. (a)(2). Pub. L. 111–39, §601(a)(1)(A), inserted “the” before “Federal” in introductory provisions.
+
+Subsec. (a)(7)(D). Pub. L. 111–39, §601(a)(1)(B), substituted “applicant, consortium,” for “institution, combination”.
 
 2008—Subsec. (a)(1). Pub. L. 110–315, §604(1), substituted “consortia” for “combinations” wherever appearing.
 
@@ -143,4 +147,8 @@ Subsec. (a)(6). Pub. L. 110–315, §604(4), inserted “reflect the purposes of
 Subsec. (a)(7)(E) to (G). Pub. L. 110–315, §604(5), added subpars. (E) to (G).
 
 Subsec. (c). Pub. L. 110–315, §604(6), designated existing provisions as par. (1), inserted heading, substituted “20 percent” for “10 percent”, and added par. (2).
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

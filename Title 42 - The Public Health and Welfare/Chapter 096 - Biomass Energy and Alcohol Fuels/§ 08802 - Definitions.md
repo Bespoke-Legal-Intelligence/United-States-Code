@@ -62,7 +62,7 @@ As used in this chapter—
 
 &emsp;(B) Such term includes any commitment to provide such assistance.
 
-&emsp;(12) The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;(12) The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant tothe Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 &emsp;(13) The term “motor fuel” means gasoline, kerosene, and middle distillates (including diesel fuel).
 
@@ -94,7 +94,7 @@ As used in this chapter—
 
 #### References in Text
 
-This chapter, referred to in provision preceding par. (1) and in pars. (11)(A) and (14)(B), was in the original“this title”, meaning title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 683, as amended, known as the Biomass Energy and Alcohol Fuels Act of 1980, which enacted this chapter, sections 1435 and 3129 of Title 7, Agriculture, and section 3391a of Title 15, Commerce and Trade, and amended sections 341, 342, 427, and 3154 of Title 7, section 753 of Title 15, and sections 590h and 1642 of Title 16, Conservation. For complete classification of title II to the Code, see Short Title note set out under section 8801 of this title and Tables.
+This chapter, referred to in provision preceding par. (1) and in pars. (11)(A) and (14)(B), was in the original “this title”, meaning title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 683, as amended, known as the Biomass Energy and Alcohol Fuels Act of 1980, which enacted this chapter, sections 1435 and 3129 of Title 7, Agriculture, and section 3391a of Title 15, Commerce and Trade, and amended sections 341, 342, 427, and 3154 of Title 7, section 753 of Title 15, and sections 590h and 1642 of Title 16, Conservation. For complete classification of title II to the Code, see Short Title note set out under section 8801 of this title and Tables.
 
 Subchapter III of this chapter, referred to in par. (2)(B), was in the original “subtitle C”, meaning subtitle C of title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 705, which enacted subchapter III of this chapter and sections 1435 and 3129 of Title 7, and amended sections 341, 342, 427, and 3154 of Title 7 and sections 590h and 1642 of Title 16.
 

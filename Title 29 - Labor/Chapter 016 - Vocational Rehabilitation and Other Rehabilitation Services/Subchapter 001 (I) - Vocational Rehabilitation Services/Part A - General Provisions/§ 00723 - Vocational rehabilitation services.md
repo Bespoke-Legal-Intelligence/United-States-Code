@@ -40,7 +40,7 @@ Vocational rehabilitation services provided under this subchapter are any servic
 
 &emsp;(12) occupational licenses, tools, equipment, and initial stocks and supplies;
 
-&emsp;(13) technical assistance and other consultation services to conduct market analyses, develop business plans, and otherwise provide resources, to the extent such resources are authorized to be provided through the statewide workforce investment system, to eligible individuals who are pursuing self-employment or telecommuting or establishing a small business operation as an employment outcome;
+&emsp;(13) technical assistance and other consultation services to conduct market analyses, develop business plans, and otherwise provide resources, to the extent such resources are authorized to be provided through the statewideworkforce investment system, to eligible individuals who are pursuing self-employment or telecommuting or establishing a small business operation as an employment outcome;
 
 &emsp;(14) rehabilitation technology, including telecommunications, sensory, and other technological aids and devices;
 

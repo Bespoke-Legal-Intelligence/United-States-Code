@@ -10,7 +10,7 @@ Members of the National Council who are full-time officers or employees of the U
 
 #### (c) Travel expenses
 
-While away from their homes or regular places of business in the performance of services for the National Council, members of the National Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
+While away from their homes or regular places of business in the performance of services forthe National Council, members of the National Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
 
 (Pub. L. 93–112, title IV, §402, as added Pub. L. 105–220, title IV, §407, Aug. 7, 1998, 112 Stat. 1200.)
 

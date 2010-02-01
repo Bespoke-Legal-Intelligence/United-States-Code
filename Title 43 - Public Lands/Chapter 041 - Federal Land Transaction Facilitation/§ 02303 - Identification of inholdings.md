@@ -10,7 +10,7 @@ The Secretary and the Secretary of Agriculture shall establish a procedure to—
 
 #### (b) Public notice
 
-As soon as practicable after July 25, 2000, and periodically thereafter, the Secretary and the Secretary of Agriculture shall provide public notice of the procedures referred to in subsection (a) of this section, including any information necessary for the consideration of an inholding under section 2305 of this title. Such notice shall include publication in the Federal Register and by such other means as the Secretary and the Secretary of Agriculture determine to be appropriate.
+As soon as practicable after July 25, 2000, and periodically thereafter, the Secretary and the Secretary of Agriculture shall provide public notice of the procedures referred to in subsection (a) of this section, including any information necessary for the consideration of an inholding under section 2305 of this title. Such notice shall include publication in the Federal Register andby such other means as the Secretary and the Secretary of Agriculture determine to be appropriate.
 
 #### (c) Identification
 

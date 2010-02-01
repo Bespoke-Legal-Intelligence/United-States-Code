@@ -98,7 +98,7 @@ This section may be cited as the “Workers’ Family Protection Act”.
 
 #### (iii) Final strategy
 
-&emsp;&emsp;&emsp;After the peer review and public comment is conducted under clause (ii), the Director, in consultation with the heads of other government agencies, shall propose a final strategy for investigating issues related to home contamination that shall be implemented by the National Institute for Occupational Safety and Health and other Federal agencies for the period of time necessary to enable such agencies to obtain the information identified under subparagraph (A)(iii).
+&emsp;&emsp;&emsp;After the peer review and public comment is conducted under clause (ii), the Director, in consultation with the heads of other government agencies, shall propose a final strategy for investigating issues related to home contamination that shall be implemented by the National Institute for Occupational Safety and Health and otherFederal agencies for the period of time necessary to enable such agencies to obtain the information identified under subparagraph (A)(iii).
 
 #### (C) Construction
 

@@ -2,7 +2,7 @@
 
 The Secretary is authorized to prescribe such rules and regulations as the Secretary determines necessary or appropriate to administer and manage the functions of the Secretary or the Department.
 
-(Pub. L. 96–88, title IV, §414, Oct. 17, 1979, 93 Stat. 685; Pub. L. 99–145, title XII, §1204(a)(5),Nov. 8, 1985, 99 Stat. 720; Pub. L. 103–382, title II, §271(d)(1), Oct. 20, 1994, 108 Stat. 3930.)
+(Pub. L. 96–88, title IV, §414, Oct. 17, 1979, 93 Stat. 685; Pub. L. 99–145, title XII, §1204(a)(5), Nov. 8, 1985, 99 Stat. 720; Pub. L. 103–382, title II, §271(d)(1), Oct. 20, 1994, 108 Stat. 3930.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization of activities; grants or contracts for exchanges with foreign countries
 
-Pursuant to the Mutual Educational and Cultural Exchange Act of 1961 \[22 U.S.C. 2451 et seq.\] and using the authorities contained therein, the President is authorized, when the President considers that it would strengthen international cooperative relations, to provide, by grant, contract, or otherwise, for exchanges with countries that are in transition from totalitarianism to democracy, which include, but are not limited to Poland, Hungary, Czechoslovakia, Bulgaria, and Romania—
+Pursuant to the Mutual Educational and Cultural Exchange Act of 1961 \[22 U.S.C. 2451 et seq.\] and using the authorities contained therein, the President is authorized, when the President considers that it would strengthen international cooperative relations, to provide, by grant, contract, or otherwise, for exchanges with countriesthat are in transition from totalitarianism to democracy, which include, but are not limited to Poland, Hungary, Czechoslovakia, Bulgaria, and Romania—
 
 &emsp;(1) by financing studies, research, instruction, and related activities—
 

@@ -82,7 +82,7 @@ Transfer to a DISC of Assets of Export Trade Corporation.—
 
 &emsp;“(1)
 
-In general.—If a corporation (hereinafter in this section called ‘parent’) owns all of the outstanding stock of an export trade corporation (as definedin section 971), and the export trade corporation, during a taxable year beginning before January 1, 1976, transfers property, without receiving consideration, to a DISC (as defined in section 992(a)) all of whose outstanding stock is owned by the parent, and if the amount transferred by the export trade corporation is not less than the amount of its untaxed subpart F income (as defined in paragraph (2) of this subsection) at the time of such transfer, then—
+In general.—If a corporation (hereinafter in this section called ‘parent’) owns all of the outstanding stock of an export trade corporation (as defined in section 971), and the export trade corporation, during a taxable year beginning before January 1, 1976, transfers property, without receiving consideration, to a DISC (as defined in section 992(a)) all of whose outstanding stock is owned by the parent, and if the amount transferred by the export trade corporation is not less than the amount of its untaxed subpart F income (as defined in paragraph (2) of this subsection) at the time of such transfer, then—
 
 &emsp;&emsp;“(A) notwithstanding section 367 or any other provision of chapter 1, no gain or loss to the export trade corporation, the parent, or the DISC shall be recognized by reason of such transfer;
 

@@ -1,6 +1,6 @@
 ### §8173. Content of reports on United States declarations
 
-The reports required under section 8171 of this title and section 8172 of this title shall present the reasons for each site, location, facility, and activity being declared or being removed from the declaration list and shall certify that—
+The reports required under section 8171 of this title and section 8172 of this title shall presentthe reasons for each site, location, facility, and activity being declared or being removed from the declaration list and shall certify that—
 
 &emsp;(1) each site, location, facility, and activity included in the list has been examined by each agency with national security equities with respect to such site, location, facility, or activity; and
 

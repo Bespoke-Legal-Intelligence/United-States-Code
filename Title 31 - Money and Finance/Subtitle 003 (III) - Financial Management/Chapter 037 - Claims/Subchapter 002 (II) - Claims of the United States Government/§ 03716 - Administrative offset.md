@@ -46,7 +46,7 @@
 
 > For purposes of the preceding sentence, the amount of a periodic benefit payment shall be the amount after any reduction or deduction required under the laws authorizing the program under which such payment is authorized to be made (including any reduction or deduction to recover any overpayment under such program).
 
-(B) The Secretary of the Treasury shall exempt from administrative offset under this subsection payments under means-tested programs when requested by the head of the respective agency. The Secretary may exempt other payments from administrative offset under this subsection upon the written request of the head of a payment certifying agency. A written request for exemption of other payments must provide justification for the exemption under standards prescribed by the Secretary. Such standards shall give due consideration to whether administrative offset would tend to interfere substantially with or defeat the purposes of the payment certifying agency's program. The Secretary shall report to the Congress annually on exemptions granted under this section.
+(B) The Secretary of the Treasury shall exempt from administrative offset under this subsection payments under means-tested programs when requested by the head of the respective agency. The Secretary may exempt other payments from administrative offset under this subsection upon the written request of the head of a payment certifying agency. A written request for exemption of other payments must providejustification for the exemption under standards prescribed by the Secretary. Such standards shall give due consideration to whether administrative offset would tend to interfere substantially with or defeat the purposes of the payment certifying agency's program. The Secretary shall report to the Congress annually on exemptions granted under this section.
 
 (C) The provisions of sections 205(b)(1), 809(a)(1), and 1631(c)(1) of the Social Security Act shall not apply to any administrative offset executed pursuant to this section against benefits authorized by title II, VIII, or title XVI of the Social Security Act, respectively.
 
@@ -100,7 +100,7 @@
 
 (3) In applying this section with respect to any debt owed to a State, subsection (c)(3)(A) shall not apply.
 
-(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2471; amended Pub. L. 104–134, title III, §31001(c)(1), (d)(2), (e), (f), Apr. 26, 1996, 110 Stat. 1321–359, 1321–362; Pub. L. 106–169, title II, §251(b)(10), Dec. 14, 1999, 113 Stat. 1856; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title XIV, §14219(a), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14219(a), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–275, title I, §189(b), July 15, 2008, 122 Stat. 2590.)
+(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2471; amended Pub. L. 104–134, title III, §31001(c)(1), (d)(2), (e), (f), Apr. 26, 1996, 110 Stat.1321–359, 1321–362; Pub. L. 106–169, title II, §251(b)(10), Dec. 14, 1999, 113 Stat. 1856; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title XIV, §14219(a), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14219(a), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–275, title I, §189(b), July 15, 2008, 122 Stat. 2590.)
 
 Historical and Revision Notes
 
@@ -200,7 +200,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Pub. L. 110–234, title XIV, §14219(b), May 22, 2008, 122 Stat. 1483, and Pub. L. 110–246, §4(a), title XIV, §14219(b), June 18, 2008, 122 Stat. 1664, 2245, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any debt outstanding on or after the date of the enactment of this Act \[June 18, 2008\].”
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 #### Offsets From Social Security Payments
 
@@ -212,7 +212,7 @@ Ex. Ord. No. 13019, Sept. 28, 1996, 61 F.R. 51763, provided that:
 
 The Debt Collection Improvement Act of 1996, Public Law 104–134 \[§31001\] (110 Stat. 1321–358 <i>et seq</i>.) \[see Short Title of 1996 Amendment note set out under section 3701 of this title\], was enacted into law on April 26, 1996, as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996. While the primary purpose of the Debt Collection Improvement Act is to increase the collection of nontax debts owed to the Federal Government, the Act also contains important provisions that can be used to assist families in collecting past-due child support obligations.
 
-The failure of some parents to meet their child support obligations threatens the health, education, and well-being of their children. Compounding this problem, States have experienced difficulties enforcingchild support obligations once a parent has moved to another State. With this Executive order, my Administration takes additional steps to support our children and strengthen American families by facilitating the collection of delinquent child support obligations from persons who may be entitled or eligible to receive certain Federal payments or Federal assistance.
+The failure of some parents to meet their child support obligations threatens the health, education, and well-being of their children. Compounding this problem, States have experienced difficulties enforcing child support obligations once a parent has moved to another State. With this Executive order, my Administration takes additional steps to support our children and strengthen American families by facilitating the collection of delinquent child support obligations from persons who may be entitled or eligible to receive certain Federal payments or Federal assistance.
 
 Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 

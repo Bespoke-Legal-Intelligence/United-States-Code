@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 July 10, 1952, ch. 630, §638, 66 Stat. 537.
 
-The words “an officer or agency \* \* \* may \* \* \* only” are substituted for the words “no officer or agency \* \* \* shall \* \* \* except”. The word “of”, before the words “the Department”, is substituted for the words “in or under”. The words “under regulations prescribed” are substituted for the words “in accordance with regulations issued”. The words “after the effective date of this section” and 41:162(b) are omitted as executed. The words “or equipment” are omitted as covered by the definition of “supplies” in section 101(26) of this title.
+The words “an officer or agency may only” are substituted for the words “no officer or agency shall except”. The word “of”, before the words “the Department”, is substituted for the words “in or under”. The words “under regulations prescribed” are substituted for the words “in accordance with regulations issued”. The words “after the effective date of this section” and 41:162(b) are omitted as executed. The words “or equipment” are omitted as covered by the definition of “supplies” in section 101(26) of this title.
 
 #### Amendments
 

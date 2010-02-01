@@ -162,11 +162,11 @@ The Board is authorized to issue such regulations and orders as may be necessary
 
 #### (d) Reports to the Congress; recommendations
 
-Before the expiration of two years following May 9, 1956, and each year thereafter in the Board's annual report to the Congress, the Board shall report to the Congress the results of the administration of this chapter, stating what, if any, substantial difficulties have been encountered in carrying out the purposes of this chapter, and any recommendations as to changes in the law which in the opinion of the Board would be desirable.
+Before the expiration of two years following May 9, 1956, and each year thereafter in the Board's annual report to the Congress, the Board shall report to the Congress the results ofthe administration of this chapter, stating what, if any, substantial difficulties have been encountered in carrying out the purposes of this chapter, and any recommendations as to changes in the law which in the opinion of the Board would be desirable.
 
 #### (e) Termination of activities or ownership or control of nonbank subsidiaries constituting serious risk
 
-(1) Notwithstanding any other provision of this chapter, the Board may, whenever it has reasonable cause to believe that the continuation by a bank holding company of any activity or of ownership or control of any of itsnonbank subsidiaries, other than a nonbank subsidiary of a bank, constitutes a serious risk to the financial safety, soundness, or stability of a bank holding company subsidiary bank and is inconsistent with sound banking principles or with the purposes of this chapter or with the Financial Institutions Supervisory Act of 1966, at the election of the bank holding company—
+(1) Notwithstanding any other provision of this chapter, the Board may, whenever it has reasonable cause to believe that the continuation by a bank holding company of any activity or of ownership or control of any of its nonbank subsidiaries, other than a nonbank subsidiary of a bank, constitutes a serious risk to the financial safety, soundness, or stability of a bank holding company subsidiary bank and is inconsistent with sound banking principles or with the purposes of this chapter or with the Financial Institutions Supervisory Act of 1966, at the election of the bank holding company—
 
 &emsp;(A) order the bank holding company or any such nonbank subsidiaries, after due notice and opportunity for hearing, and after considering the views of the bank's primary supervisor, which shall be the Comptroller of the Currency in the case of a national bank or the Federal Deposit Insurance Corporation and the appropriate State supervisory authority in the case of an insured nonmember bank, to terminate such activities or to terminate (within one hundred and twenty days or such longer period as the Board may direct in unusual circumstances) its ownership or control of any such subsidiary either by sale or by distribution of the shares of the subsidiary to the shareholders of the bank holding company; or
 
@@ -188,11 +188,11 @@ In the course of or in connection with an application, examination, investigatio
 
 &emsp;&emsp;(A) such funds or assets are to be provided by—
 
-&emsp;&emsp;&emsp;(i) a bank holding company that is an insurance company, a broker or dealer registered under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], or an investment adviser registered by or on behalf of either the Securities and Exchange Commission or any State; or
+&emsp;&emsp;&emsp;(i) a bank holding company that is an insurance company, a broker or dealer registered under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], an investment company registered under the Investment Company Act of 1940 \[15 U.S.C.80a–1 et seq.\], or an investment adviser registered by or on behalf of either the Securities and Exchange Commission or any State; or
 
 &emsp;&emsp;&emsp;(ii) an affiliate of the depository institution that is an insurance company or a broker or dealer registered under the Securities Exchange Act of 1934, an investment company registered under the Investment Company Act of 1940, or an investment adviser registered by or on behalf of either the Securities and Exchange Commission or any State; and
 
-&emsp;&emsp;(B) the State insurance authority for the insurance company or the Securities and Exchange Commission for the registeredbroker, dealer, investment adviser (solely with respect to investment advisory activities or activities incidental thereto), or investment company, as the case may be, determines in writing sent to the holding company and the Board that the holding company shall not provide such funds or assets because such action would have a material <sup>1</sup> adverse effect on the financial condition of the insurance company or the broker, dealer, investment company, or investment adviser, as the case may be.
+&emsp;&emsp;(B) the State insurance authority for the insurance company or the Securities and Exchange Commission for the registered broker, dealer, investment adviser (solely with respect to investment advisory activities or activities incidental thereto), or investment company, as the case may be, determines in writing sent to the holding company and the Board that the holding company shall not provide such funds or assets because such action would have a material <sup>1</sup> adverse effect on the financial condition of the insurance company or the broker, dealer, investment company, or investment adviser, as the case may be.
 
 #### (2) Notice to State insurance authority or SEC required
 
@@ -246,7 +246,7 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsection (d) of this section is listed on page 171), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsection (d) of this section is listed on page 171), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “materially”.</i>
 

@@ -34,7 +34,7 @@ Environmental Requirements.—(1) The Secretary may approve an application under
 
 &emsp;&emsp;(ii) the airport management board has voting representation from the communities in which the project is located or has advised the communities that they have the right to petition the Secretary about a proposed project; and
 
-&emsp;&emsp;(iii) with respect to an airport development project involving the location of an airport, runway, or major runway extension at a medium or large hub airport, the airport sponsor has made available to and has provided upon request to the metropolitan planning organization in the area in which the airport is located, if any, a copy of the proposed amendment to the airport layout plan to depict the project and a copy of any airport master plan in which the project is described or depicted; and
+&emsp;&emsp;(iii) with respect to an airport development project involving the location of an airport, runway, or major runway extension at a medium or large hub airport, the airport sponsor has made available to and has provided upon request to the metropolitan planning organization in the area in whichthe airport is located, if any, a copy of the proposed amendment to the airport layout plan to depict the project and a copy of any airport master plan in which the project is described or depicted; and
 
 &emsp;(B) if the application is found to have a significant adverse effect on natural resources, including fish and wildlife, natural, scenic, and recreation assets, water and air quality, or another factor affecting the environment, only after finding that no possible and prudent alternative to the project exists and that every reasonable step has been taken to minimize the adverse effect.
 

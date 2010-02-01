@@ -34,7 +34,7 @@ For purposes of this chapter—
 
 For purposes of this chapter, the term “wages” means all remuneration for employment, including the cash value of all remuneration (including benefits) paid in any medium other than cash; except that such term shall not include—
 
-&emsp;(1) that part of the remuneration which, after remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection) equal to $7,000 with respect to employment has been paid to an individual by an employer during any calendar year, is paid to such individual by such employer during such calendar year. If an employer (hereinafter referred to as successor employer) during any calendar year acquires substantially all the property used in a trade or business of another employer (hereinafter referred to as a predecessor), or used in a separate unit of a trade or business of a predecessor, and immediately after the acquisition employs in his trade or business an individual who immediately prior to the acquisition was employed in the trade or business of such predecessor, then, for the purpose of determining whether the successor employer has paid remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection) with respect to employment equal to $7,000 to such individual during such calendar year, any remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection) with respect to employment paid (or considered under this paragraph as having been paid) to such individual by such predecessor during such calendar year and prior to such acquisition shall be considered as having been paid by such successor employer;
+&emsp;(1) that part of the remuneration which, after remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection) equal to $7,000 with respect to employment has been paid to an individual by an employer during any calendar year, is paid to such individual by such employer duringsuch calendar year. If an employer (hereinafter referred to as successor employer) during any calendar year acquires substantially all the property used in a trade or business of another employer (hereinafter referred to as a predecessor), or used in a separate unit of a trade or business of a predecessor, and immediately after the acquisition employs in his trade or business an individual who immediately prior to the acquisition was employed in the trade or business of such predecessor, then, for the purpose of determining whether the successor employer has paid remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection) with respect to employment equal to $7,000 to such individual during such calendar year, any remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection) with respect to employment paid (or considered under this paragraph as having been paid) to such individual by such predecessor during such calendar year and prior to such acquisition shall be considered as having been paid by such successor employer;
 
 &emsp;(2) the amount of any payment (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) made to, or on behalf of, an employee or any of his dependents under a plan or system established by an employer which makes provision for his employees generally (or for his employees generally and their dependents) or for a class or classes of his employees (or for a class or classes of his employees and their dependents), on account of—
 
@@ -174,7 +174,7 @@ For purposes of this chapter, the term “employment” means any service perfor
 
 &emsp;(15)(A) service performed by an individual under the age of 18 in the delivery or distribution of newspapers or shopping news, not including delivery or distribution to any point for subsequent delivery or distribution;
 
-&emsp;(B) service performed by an individual in, and at the time of, the sale of newspapers ormagazines to ultimate consumers, under an arrangement under which the newspapers or magazines are to be sold by him at a fixed price, his compensation being based on the retention of the excess of such price over the amount at which the newspapers or magazines are charged to him, whether or not he is guaranteed a minimum amount of compensation for such service, or is entitled to be credited with the unsold newspapers or magazines turned back;
+&emsp;(B) service performed by an individual in, and at the time of, the sale of newspapers or magazines to ultimate consumers, under an arrangement under which the newspapers or magazines are to be sold by him at a fixed price, his compensation being based on the retention of the excess of such price over the amount at which the newspapers or magazines are charged to him, whether or not he is guaranteed a minimum amount of compensation for such service, or is entitled to be creditedwith the unsold newspapers or magazines turned back;
 
 &emsp;(16) service performed in the employ of an international organization;
 
@@ -292,7 +292,7 @@ Notwithstanding the provisions of subsection (c)(6), service performed by office
 
 &emsp;&emsp;(A) if—
 
-&emsp;&emsp;&emsp;(i) such crew leader holds a valid certificate of registration under the Migrant andSeasonal Agricultural Worker Protection Act; or
+&emsp;&emsp;&emsp;(i) such crew leader holds a valid certificate of registration under the Migrant and Seasonal Agricultural Worker Protection Act; or
 
 &emsp;&emsp;&emsp;(ii) substantially all the members of such crew operate or maintain tractors, mechanized harvesting or crop-dusting equipment, or any other mechanized equipment, which is provided by such crew leader; and
 
@@ -374,13 +374,13 @@ For the purposes of this chapter, the term “self-employment assistance program
 
 &emsp;(1) individuals who meet the requirements described in paragraph (3) are eligible to receive an allowance in lieu of regular unemployment compensation under the State law for the purpose of assisting such individuals in establishing a business and becoming self-employed;
 
-&emsp;(2) the allowance payable to individuals pursuant to paragraph (1) is payable in the same amount, at the same interval, on the sameterms, and subject to the same conditions, as regular unemployment compensation under the State law, except that—
+&emsp;(2) the allowance payable to individuals pursuant to paragraph (1) is payable in the same amount, at the same interval, on the same terms, and subject to the same conditions, as regular unemployment compensation under the State law, except that—
 
 &emsp;&emsp;(A) State requirements relating to availability for work, active search for work, and refusal to accept work are not applicable to such individuals;
 
 &emsp;&emsp;(B) State requirements relating to disqualifying income are not applicable to income earned from self-employment by such individuals; and
 
-&emsp;&emsp;(C) such individuals are considered to be unemployed for the purposes of Federal and State laws applicable to unemployment compensation,
+&emsp;&emsp;(C) such individuals are considered to be unemployed for the purposes of Federal andState laws applicable to unemployment compensation,
 
 > &emsp;as long as such individuals meet the requirements applicable under this subsection;
 
@@ -418,7 +418,7 @@ Subchapter C of chapter 9 of the Internal Revenue Code of 1939, referred to in s
 
 Sections 214(c) and 101(a)(15)(H) of the Immigration and Nationality Act, referred to in subsec. (c)(1)(B), are classified to sections 1184(c) and 1101(a)(15)(H), respectively, of Title 8, Aliens and Nationality.
 
-Sections 303(g), 903(c)(2), (d)(4), and 904(a) of the Social Security Act, referred to in subsecs. (f)(2), (4) and (t)(5), are classified to sections 503(g), 1103(c)(2), (d)(4), and 1104(a), respectively, of Title 42, The Public Health and Welfare.
+Sections 303(g), 903(c)(2), (d)(4), and 904(a) of the Social Security Act, referred to in subsecs. (f)(2), (4) and\(t)(5), are classified to sections 503(g), 1103(c)(2), (d)(4), and 1104(a), respectively, of Title 42, The Public Health and Welfare.
 
 The Migrant and Seasonal Agricultural Worker Protection Act, referred to in subsec. (<i>o</i>)(1)(A)(i), is Pub. L. 97–470, Jan. 14, 1983, 96 Stat. 2584, as amended, which is classified generally to chapter 20 (§1801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 29 and Tables.
 
@@ -514,7 +514,7 @@ Subsec. (s). Pub. L. 98–369, §1073(a), added subsec. (s).
 
 Pub. L. 98–21, §324(b)(4)(B), added sentence at end providing that, except as otherwise provided in regulations prescribed by the Secretary, any third party which makes a payment included in wages solely by reason of parenthetical text contained in subpar. (A) of par. (2) shall be treated for purposes of this chapter and chapter 22 as the employer with respect to such wages.
 
-Subsec. (b)(2). Pub. L. 98–21, §324(b)(3)(A), (4)(A), struck out “(A) retirement or”, redesignated subpars. (B) to (D) as (A) to (C), respectively, and in subpar. (A), as so redesignated, substituted “sickness or accidentdisability (but, in the case of payments made to an employee or any of his dependents, this subparagraph shall exclude from the term ‘wages’ only payments which are received under a workman's compensation law)” for “sickness or accident disability”.
+Subsec. (b)(2). Pub. L. 98–21, §324(b)(3)(A), (4)(A), struck out “(A) retirement or”, redesignated subpars. (B) to (D) as (A) to (C), respectively, and in subpar. (A), as so redesignated, substituted “sickness or accident disability (but, in the case of payments made to an employee or any of his dependents, this subparagraph shall exclude from the term ‘wages’ only payments which are received under a workman's compensation law)” for “sickness or accident disability”.
 
 Subsec. (b)(3). Pub. L. 98–21, §324(b)(3)(B), struck out par. (3) which related to any payment made to an employee (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) on account of retirement.
 
@@ -616,7 +616,7 @@ Subsec. (k). Pub. L. 91–373, §103(a), substituted as definition of “agricul
 
 Subsec. (c)(4). Pub. L. 86–778, §532(b), excluded service performed on or in connection with an aircraft that is not an American aircraft.
 
-Subsec. (c)(6). Pub. L. 86–778, §531(c), substituted “wholly or partially owned” for “wholly owned” in cl.\(A), and inserted “which specifically refers to such section (or the corresponding section of prior law) in granting such exemption” in cl. (B).
+Subsec. (c)(6). Pub. L. 86–778, §531(c), substituted “wholly or partially owned” for “wholly owned” in cl. (A), and inserted “which specifically refers to such section (or the corresponding section of prior law) in granting such exemption” in cl. (B).
 
 Subsec. (c)(8). Pub. L. 86–778, §533, substituted “service performed in the employ of a religious, charitable, educational, or other organization described in section 501(c)(3) which is exempt from income tax under section 501(a)” for “service performed in the employ of a corporation, community chest, fund, or foundation, organized and operated exclusively for religious, charitable, scientific, testing for public safety, literary, or educational purposes, or for the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private shareholder or individual, and no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation.”
 

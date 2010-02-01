@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) has been selected, under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), for service in that armed force.
 
-(b) This section does not apply to the survivors of persons who were temporary membersof the Coast Guard Reserve at the time of their death.
+(b) This section does not apply to the survivors of persons who were temporary members of the Coast Guard Reserve at the time of their death.
 
 (Added Pub. L. 85–861, §1(32)(A), Sept. 2, 1958, 72 Stat. 1452; amended Pub. L. 88–647, title III, §301(1), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 96–513, title V, §511(59), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 99–661, div. A, title VI, §604(e)(1), Nov. 14, 1986, 100 Stat. 3877.)
 

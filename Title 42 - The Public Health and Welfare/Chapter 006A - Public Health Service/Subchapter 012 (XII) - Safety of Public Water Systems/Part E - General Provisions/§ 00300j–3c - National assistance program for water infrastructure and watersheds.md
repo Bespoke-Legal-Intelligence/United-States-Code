@@ -16,7 +16,7 @@ As a condition to receiving assistance under this section, a State shall ensure 
 
 #### (1) Unconditional authorization
 
-&emsp;There are authorized to be appropriated to carry out this section $25,000,000 for each offiscal years 1997 through 2003. Such sums shall remain available until expended.
+&emsp;There are authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 1997 through 2003. Such sums shall remain available until expended.
 
 #### (2) Conditional authorization
 

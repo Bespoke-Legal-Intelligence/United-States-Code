@@ -8,7 +8,7 @@ The Secretary shall carry on studies and develop recommendations to be submitted
 
 The Secretary shall make a continuing study of the operation and administration of this subchapter (including a validation of the accreditation process of national accreditation bodies under section 1395bb(a) of this title <sup>1</sup> the operation and administration of health maintenance organizations authorized by section 226 of the Social Security Amendments of 1972 \[42 U.S.C. 1395mm\], the experiments and demonstration projects authorized by section 402 of the Social Security Amendments of 1967 \[42 U.S.C. 1395b–1\] and the experiments and demonstration projects authorized by section 222(a) of the Social Security Amendments of 1972 \[42 U.S.C. 1395b–1 note\]), and shall transmit to the Congress annually a report concerning the operation of such programs.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1875, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 332; amended Pub. L. 90–248, title IV, §402(c), Jan. 2, 1968, 81 Stat. 931; Pub. L. 92–603, title II, §§201(c)(7), 222(c), 226(d), 244(d), Oct. 30, 1972, 86 Stat. 1373, 1393, 1404, 1423; Pub. L. 98–369, div. B, title III, §2354(b)(17), July 18, 1984, 98 Stat. 1101; Pub. L. 99–509, title IX, §9316(a), Oct. 21, 1986, 100 Stat. 2006; Pub. L. 100–203, title IV, §4085(i)(20), Dec. 22, 1987, 101 Stat. 1330–133; Pub. L. 100–647, title VIII, §8413, Nov. 10, 1988, 102 Stat. 3801; Pub. L. 101–234, title III, §301(b)(5), (d)(2), Dec. 13, 1989, 103 Stat. 1985, 1986; Pub. L. 101–239, title VI, §6103(b)(3)(A), Dec. 19, 1989, 103 Stat. 2199; Pub. L. 108–173, title I, §101(e)(7), Dec. 8, 2003, 117 Stat. 2152; Pub. L. 110–275, title I, §125(b)(4), July 15, 2008, 122 Stat. 2519.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1875, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 332; amended Pub. L. 90–248, title IV, §402(c), Jan. 2, 1968, 81 Stat. 931; Pub. L. 92–603,title II, §§201(c)(7), 222(c), 226(d), 244(d), Oct. 30, 1972, 86 Stat. 1373, 1393, 1404, 1423; Pub. L. 98–369, div. B, title III, §2354(b)(17), July 18, 1984, 98 Stat. 1101; Pub. L. 99–509, title IX, §9316(a), Oct. 21, 1986, 100 Stat. 2006; Pub. L. 100–203, title IV, §4085(i)(20), Dec. 22, 1987, 101 Stat. 1330–133; Pub. L. 100–647, title VIII, §8413, Nov. 10, 1988, 102 Stat. 3801; Pub. L. 101–234, title III, §301(b)(5), (d)(2), Dec. 13, 1989, 103 Stat. 1985, 1986; Pub. L. 101–239, title VI, §6103(b)(3)(A), Dec. 19, 1989, 103 Stat. 2199; Pub. L. 108–173, title I, §101(e)(7), Dec. 8, 2003, 117 Stat. 2152; Pub. L. 110–275, title I, §125(b)(4), July 15, 2008, 122 Stat. 2519.)
 
 #### References in Text
 
@@ -44,7 +44,7 @@ Subsec. (c)(7). Pub. L. 101–234, §301(b)(5), (d)(2), amended par. (7) identic
 
 1972—Subsec. (a). Pub. L. 92–603, §201(c)(7), inserted “and the disabled” after “aged”.
 
-Subsec. (b). Pub. L. 92–603, §§222(c), 226(d)(1), 244(d), substituted “(including a validation of the accreditation process of the Joint Commission on the Accreditation of Hospitals, the operation and administration of health maintenance organizations authorized by section 226 of the Social Security Amendments of 1972, the experiments and demonstration projects authorized by section 402 of the Social Security Amendments of 1967 and the experiments and demonstration projects authorized by section 222(a) of the Social Security Amendments of 1972)” for “(including the experimentation authorized by section 402 of the Social Security Amendments of 1967)”. Pub. L. 92–603, §226(d)(2), whichdirected the substitution of “1972” for “1971”, could not be executed because “1971” did not appear.
+Subsec. (b). Pub. L. 92–603, §§222(c), 226(d)(1), 244(d), substituted “(including a validation of the accreditation process of the Joint Commission on the Accreditation of Hospitals, the operation and administration of health maintenance organizations authorized by section 226 of the Social Security Amendments of 1972, the experiments and demonstration projects authorized by section 402 of the Social Security Amendments of 1967 and the experiments and demonstration projects authorized by section 222(a) of the Social Security Amendments of 1972)” for “(including the experimentation authorized by section 402 of the Social Security Amendments of 1967)”. Pub. L. 92–603, §226(d)(2), which directed the substitution of “1972” for “1971”, could not be executed because “1971” did not appear.
 
 1968—Subsec. (b). Pub. L. 90–248 inserted “(including the experimentation authorized by section 402 of the Social Security Amendments of 1967” after “under parts A and B of this subchapter”.
 
@@ -98,7 +98,7 @@ Scope of health care performance measures.—The health care performance measure
 
 &emsp;“(4)
 
-Consultation with medpac.—In evaluating the matters described in paragraph (2)(C), the Institute shall consult with the Medicare Payment Advisory Commission established under section 1805 of the Social Security Act (42 U.S.C. 1395b–6).
+Consultation with medpac.—In evaluating the matters described in paragraph (2)(C), the Institute shall consult with the Medicare Payment AdvisoryCommission established under section 1805 of the Social Security Act (42 U.S.C. 1395b–6).
 
 “(b)
 
@@ -256,7 +256,7 @@ Pub. L. 96–265, title V, §506, June 9, 1980, 94 Stat. 475, authorized Secreta
 
 #### Report to Congress With Respect to Urban or Rural Comprehensive Mental Health Centers and Centers for Treatment of Alcoholism and Drug Abuse; Submission No Later Than June 13, 1978
 
-Pub. L. 95–210, §4, Dec. 13, 1977, 91 Stat. 1490, directed Secretary of Health, Education, and Welfare to submit to Congress, no later than six months after Dec. 13, 1977, a report on the advantages and disadvantages of extending coverage under this subchapter to urban or rural comprehensive mental health centers and to centers for treatment of alcoholism and drug abuse.
+Pub. L. 95–210, §4, Dec. 13, 1977, 91 Stat. 1490, directed Secretary of Health, Education, and Welfare to submit to Congress, no later than six months after Dec. 13, 1977, a report on the advantages and disadvantages of extending coverage under this subchapter to urban orrural comprehensive mental health centers and to centers for treatment of alcoholism and drug abuse.
 
 #### Study and Review by Comptroller General of Administrative Structure for Processing Medicare Claims; Report to Congress
 

@@ -2,7 +2,7 @@
 
 The provisions of this chapter may not be construed to limit the authority of the President under the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.) or the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.).
 
-(Pub. L. 102–242, title IV, §407A, formerly §407, Dec. 19, 1991, 105 Stat. 2375; renumbered §407A, Pub. L. 109–8, title IX, §906(d)(1), Apr. 20, 2005, 119 Stat. 169.)
+(Pub. L. 102–242, title IV, §407A, formerly §407, Dec. 19, 1991, 105 Stat. 2375; renumbered §407A,Pub. L. 109–8, title IX, §906(d)(1), Apr. 20, 2005, 119 Stat. 169.)
 
 #### References in Text
 

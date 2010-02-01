@@ -20,7 +20,7 @@ Assignment of Temporary Ratings.—(1) For the purpose of providing disability c
 
 &emsp;&emsp;&emsp;(II) healed, unhealed, or incompletely healed wounds or injuries that make material impairment of employability likely.
 
-&emsp;(B) To a veteran who, as a result of a highly stressful in-service event, has a mental disorder that is severe enough to bring about theveteran's discharge or release from active duty.
+&emsp;(B) To a veteran who, as a result of a highly stressful in-service event, has a mental disorder that is severe enough to bring about the veteran's discharge or release from active duty.
 
 &emsp;(C) To a veteran who has a service-connected disability that requires hospital treatment or observation in a Department of Veterans Affairs or approved hospital for a period in excess of 21 days.
 

@@ -70,7 +70,7 @@ Subsec. (c). Pub. L. 103–160, §825(a)(2), inserted heading.
 
 1984—Subsec. (c). Pub. L. 98–525 substituted “subsections (a) and (b) of section 3324” for “section 3324(a) and (b)”.
 
-1982—Subsec. (c). Pub. L. 97–295, §1(27), substituted “section 3324(a) and (b) of title 31” for “section 3648 ofthe Revised Statutes (31 U.S.C. 529)”, clarifying the ambiguity created by previous amendments by Pub. L. 97–214 and Pub. L. 97–258.
+1982—Subsec. (c). Pub. L. 97–295, §1(27), substituted “section 3324(a) and (b) of title 31” for “section 3648 of the Revised Statutes (31 U.S.C. 529)”, clarifying the ambiguity created by previous amendments by Pub. L. 97–214 and Pub. L. 97–258.
 
 Pub. L. 97–258, §3(b)(6), directed the substitution of “section 3324(a) and (b) of title 31” for “section 529 of title 31”, which could not be executed in view of prior substitution of language by Pub. L. 97–214.
 

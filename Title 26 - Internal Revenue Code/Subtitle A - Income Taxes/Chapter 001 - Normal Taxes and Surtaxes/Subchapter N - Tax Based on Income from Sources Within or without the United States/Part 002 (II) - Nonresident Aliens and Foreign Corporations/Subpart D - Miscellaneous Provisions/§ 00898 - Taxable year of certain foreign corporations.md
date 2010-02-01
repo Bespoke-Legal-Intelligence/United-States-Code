@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### (2) 1-month deferral allowed
 
-&emsp;A specified foreign corporation may elect, in lieu of the taxable year under paragraph (1)(A), a taxable year beginning 1 month earlier than the majority U.S. shareholder year.
+&emsp;A specified foreign corporation may elect, in lieu of the taxable year under paragraph\(1)(A), a taxable year beginning 1 month earlier than the majority U.S. shareholder year.
 
 #### (3) Majority U.S. shareholder year
 

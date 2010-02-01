@@ -10,7 +10,7 @@ Funds paid pursuant to this subchapter to any public or private agency, organiza
 
 #### (b) Prohibition against use of funds in construction
 
-Except as provided in subsection (a) of this section, no funds paid to any public or privateagency, or institution or to any individual under this subchapter (either directly or through a State agency or local agency) may be used for construction.
+Except as provided in subsection (a) of this section, no funds paid to any public or private agency, or institution or to any individual under this subchapter (either directly or through a State agency or local agency) may be used for construction.
 
 #### (c) Funds paid to residential programs
 
@@ -38,7 +38,7 @@ No funds may be paid under this subchapter to a residential program (excluding a
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal yearthat begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 5601 of this title.
 
 #### Effective Date
 

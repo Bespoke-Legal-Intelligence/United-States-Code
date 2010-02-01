@@ -20,7 +20,7 @@ The Administrator shall review the policies, processes, and procedures in the pl
 
 &emsp;&emsp;(A) National Institutes of Health intramural and extramural research program structure, peer review process, management of conflicts of interests, compensation of reviewers, and the effects of compensation on reviewer efficiency and quality;
 
-&emsp;&emsp;(B) Department of Agriculture Cooperative State Research Education and Extension Service program and structure, peer review process, management of conflicts of interest, compensation of reviewers, and the effects of compensation on reviewer efficiency and quality;
+&emsp;&emsp;(B) the program and structure of, peer review process of, management of conflicts of interest by, compensation of reviewers of, and the effects of compensation on reviewer efficiency and quality within, the National Institute of Food and Agriculture of the Department of Agriculture;
 
 &emsp;&emsp;(C) National Institutes of Health and Department of Agriculture best practices in the planning, selection, and management of applied sciences research and development; and
 
@@ -32,15 +32,13 @@ Not later than 1 year after December 30, 2005, the Administrator shall transmit 
 
 (Pub. L. 109–155, title III, §307, Dec. 30, 2005, 119 Stat. 2919; Pub. L. 110–234, title VII, §7511(c)(40), May 22, 2008, 122 Stat. 1271; Pub. L. 110–246, §4(a), title VII, §7511(c)(40), June 18, 2008, 122 Stat. 1664, 2032.)
 
-#### Amendment of Subsection (a)(4)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2032, provided that, effective Oct. 1, 2009, subsection (a)(4) of this section is amended by striking out subparagraph (B) and adding a new subparagraph (B) to read as follows:</i>
-
-&emsp;&emsp;<i>“(B) the program and structure of, peer review process of, management of conflicts of interest by, compensation of reviewers of, and the effects of compensation on reviewer efficiency and quality within, the National Institute of Food and Agriculture of the Department of Agriculture;”.</i>
-
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (a)(4)(B). Pub. L. 110–246, §7511(c)(40), added subpar. (B) and struck out former subpar. (B) which read as follows: “Department of Agriculture Cooperative State Research Education and Extension Service program and structure, peer review process, management of conflicts of interest, compensation of reviewers, and the effects of compensation on reviewer efficiency and quality;”.
 
 #### Change of Name
 

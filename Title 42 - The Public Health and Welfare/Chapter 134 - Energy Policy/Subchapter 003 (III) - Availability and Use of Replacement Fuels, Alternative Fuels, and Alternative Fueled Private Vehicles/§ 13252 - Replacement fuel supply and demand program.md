@@ -6,7 +6,7 @@ The Secretary shall establish a program to promote the development and use in li
 
 #### (b) Development plan and production goals
 
-Under the program established under subsection (a) of this section, the Secretary, beforeOctober 1, 1993, in consultation with the Administrator, the Secretary of Transportation, the Secretary of Agriculture, the Secretary of Commerce, and the heads of other appropriate agencies, shall review appropriate information and—
+Under the program established under subsection (a) of this section, the Secretary, before October 1, 1993, in consultation with the Administrator, the Secretary of Transportation, the Secretary of Agriculture, the Secretary of Commerce, and the heads of other appropriate agencies, shall review appropriate information and—
 
 &emsp;(1) estimate the domestic and nondomestic production capacity for replacement fuels and alternative fueled vehicles needed to implement this section;
 

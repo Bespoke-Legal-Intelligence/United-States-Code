@@ -10,7 +10,7 @@ The Secretary shall make payments under this section only for the production of 
 
 &emsp;(1) been demonstrated to improve the health profile of the oilseed for use in human consumption by—
 
-&emsp;&emsp;(A) reducing or eliminating the need to partially hydrogenate the oil derived fromthe oilseed for use in human consumption; or
+&emsp;&emsp;(A) reducing or eliminating the need to partially hydrogenate the oil derived from the oilseed for use in human consumption; or
 
 &emsp;&emsp;(B) adopting new technology traits; and
 

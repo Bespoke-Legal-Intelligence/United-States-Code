@@ -38,7 +38,7 @@
 
 (4)(A) If the Secretary receives information from a Council or Federal or State agency or determines from other sources that an action authorized, funded, or undertaken, or proposed to be authorized, funded, or undertaken, by any State or Federal agency would adversely affect any essential fish habitat identified under this chapter, the Secretary shall recommend to such agency measures that can be taken by such agency to conserve such habitat.
 
-(B) Within 30 days after receiving a recommendation under subparagraph (A), a Federal agency shall provide a detailed response in writing to any Council commenting under paragraph (3) and the Secretary regarding the matter. The response shall include a description of measures proposed by the agency for avoiding, mitigating, or offsetting the impact of the activity on suchhabitat. In the case of a response that is inconsistent with the recommendations of the Secretary, the Federal agency shall explain its reasons for not following the recommendations.
+(B) Within 30 days after receiving a recommendation under subparagraph (A), a Federal agency shall provide a detailed response in writing to any Council commenting under paragraph (3) and the Secretary regarding the matter. The response shall include a description of measures proposed by the agency for avoiding, mitigating, or offsetting the impact of the activity on such habitat. In the case of a response that is inconsistent with the recommendations of the Secretary, the Federal agency shall explain its reasons for not following the recommendations.
 
 #### (c) Emergency actions and interim measures
 
@@ -86,7 +86,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (g) Negotiated conservation and management measures
 
-(1)(A) In accordance with regulations promulgated by the Secretary pursuant to this paragraph, a Council may establish a fishery negotiation panel to assist in the development of specific conservation and management measures for a fishery under its authority. The Secretary may establish a fishery negotiation panel to assist in the development of specific conservationand management measures required for a fishery under section 1854(e)(5) of this title, for a fishery for which the Secretary has authority under section 1854(g) of this title, or for any other fishery with the approval of the appropriate Council.
+(1)(A) In accordance with regulations promulgated by the Secretary pursuant to this paragraph, a Council may establish a fishery negotiation panel to assist in the development of specific conservation and management measures for a fishery under its authority. The Secretary may establish a fishery negotiation panel to assist in the development of specific conservation and management measures required for a fishery under section 1854(e)(5) of this title, for a fishery for which the Secretary has authority under section 1854(g) of this title, or for any other fishery with the approval of the appropriate Council.
 
 (B) No later than 180 days after October 11, 1996, the Secretary shall promulgate regulations establishing procedures, developed in cooperation with the Administrative Conference of the United States, for the establishment and operation of fishery negotiation panels. Such procedures shall be comparable to the procedures for negotiated rulemaking established by subchapter III of chapter 5 of title 5.
 
@@ -102,7 +102,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 &emsp;(B) provide for public access to the information filed under such system, notwithstanding section 1881a(b) of this title; and
 
-&emsp;(C) provide such notice and other requirements of applicable law that the Secretary deems necessary for an effective registry system.
+&emsp;(C) provide such notice and other requirements of applicable law that the Secretarydeems necessary for an effective registry system.
 
 (2) The Secretary shall promulgate such regulations as may be necessary to carry out this subsection, after consulting with the Councils and providing an opportunity for public comment. The Secretary is authorized to contract with non-Federal entities to administer the central registry system.
 
@@ -160,7 +160,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (C) Allocations to entities
 
-&emsp;&emsp;Each entity eligible to participate in the program shall be authorized under the program to harvest annually the same percentage of each species allocated to the program under subparagraph (B) that it was authorized by the Secretary to harvest of such species annually as of March 1, 2006, except to the extent that its allocation is adjusted under subparagraph (H). Such allocation shall include all processing rights and any other rights and privileges associated with such allocations as of March 1, 2006. Voluntary transfers by and among eligible entities shall be allowed, whether before or after harvesting. Notwithstanding the first sentence of this subparagraph, seven-tenths of one percent of the total allowable catch, guideline harvest level, or other annual catch limit, within the amount allocated to the program by subclause (I) or subclause (II) of subparagraph (B)(ii), shall be allocated among the eligible entities by the panel established in subparagraph (G), or allocated by the Secretary based on the nontarget needs of eligible entities in the absence of a panel decision.
+&emsp;&emsp;Each entity eligible to participate in the program shall be authorized under the program to harvest annually the same percentage of each species allocated to the program under subparagraph (B) that it was authorized by the Secretary to harvest of such species annually as of March 1, 2006, except to the extent that its allocation is adjustedunder subparagraph (H). Such allocation shall include all processing rights and any other rights and privileges associated with such allocations as of March 1, 2006. Voluntary transfers by and among eligible entities shall be allowed, whether before or after harvesting. Notwithstanding the first sentence of this subparagraph, seven-tenths of one percent of the total allowable catch, guideline harvest level, or other annual catch limit, within the amount allocated to the program by subclause (I) or subclause (II) of subparagraph (B)(ii), shall be allocated among the eligible entities by the panel established in subparagraph (G), or allocated by the Secretary based on the nontarget needs of eligible entities in the absence of a panel decision.
 
 #### (D) Eligible villages
 
@@ -298,7 +298,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 &emsp;(ii) meet criteria developed by the Western Pacific Council, approved by the Secretary and published in the Federal Register;
 
-&emsp;(iii) consist of community residents who are descended from the aboriginal people indigenous to the area who conducted commercial or subsistence fishing using traditional fishing practices in the waters of the Western Pacific region;
+&emsp;(iii) consist of community residents who are descended from the aboriginal people indigenous to the area who conducted commercial or subsistence fishing using traditional fishingpractices in the waters of the Western Pacific region;
 
 &emsp;(iv) not have previously developed harvesting or processing capability sufficient to support substantial participation in fisheries in the Western Pacific Regional Fishery Management Area; and
 
@@ -350,7 +350,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 &emsp;If the Secretary makes a determination that such actions are not consistent with the plan, the Secretary shall, in consultation with the Council, and after notifying the affected State, develop and implement measures to cure the inconsistency pursuant to section 1856(b) of this title.
 
-(Pub. L. 94–265, title III, §305, Apr. 13, 1976, 90 Stat. 354; Pub. L. 96–561, title II, §235, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §8, Jan. 12, 1983, 96 Stat. 2490; Pub. L. 101–627, title I, §§110(b)(2), 111(a)(1), (b), Nov. 28, 1990, 104 Stat. 4451, 4452; Pub. L. 104–297, title I, §§110(a)–(d), 111(a), Oct. 11, 1996, 110 Stat. 3587–3590, 3592; Pub. L. 109–241, title IV, §416(a), July 11, 2006, 120 Stat. 540; Pub. L. 109–479, §3(d)(3), title I, §§108–110, 116(b)(1), Jan. 12, 2007, 120 Stat. 3578, 3594–3596, 3606.)
+(Pub. L. 94–265, title III, §305, Apr. 13, 1976, 90 Stat. 354; Pub. L. 96–561, title II, §235, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §8, Jan. 12, 1983, 96 Stat. 2490; Pub. L. 101–627, title I, §§110(b)(2), 111(a)(1), (b), Nov. 28, 1990, 104 Stat. 4451, 4452; Pub. L. 104–297, title I, §§110(a)–(d), 111(a), Oct. 11, 1996, 110 Stat. 3587–3590, 3592; Pub. L. 109–241,title IV, §416(a), July 11, 2006, 120 Stat. 540; Pub. L. 109–479, §3(d)(3), title I, §§108–110, 116(b)(1), Jan. 12, 2007, 120 Stat. 3578, 3594–3596, 3606.)
 
 #### References in Text
 

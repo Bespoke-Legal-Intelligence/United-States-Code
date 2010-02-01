@@ -46,5 +46,5 @@ In subsection (c), the words “hold an annual meeting” are substituted for �
 
 In subsection (d), the words “and exercise” are omitted as unnecessary.
 
-In subsection (e), the words “who shall have the qualifications and terms of employment decided” are substituted for “in keeping with qualifications and terms of employment adopted” for clarity and consistency.
+In subsection (e), the words “who shall have the qualifications and terms of employment decided” aresubstituted for “in keeping with qualifications and terms of employment adopted” for clarity and consistency.
 

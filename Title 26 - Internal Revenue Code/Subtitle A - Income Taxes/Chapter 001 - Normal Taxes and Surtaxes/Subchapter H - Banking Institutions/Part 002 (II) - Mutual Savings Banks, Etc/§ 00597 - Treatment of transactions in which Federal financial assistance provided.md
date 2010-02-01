@@ -80,7 +80,7 @@ Subsection (a)(3).—
 
 &emsp;“(A)
 
-In general.—The amendments made by subsection (a)(3) \[amending this section and repealing provisions set out below\] shall apply to any amount received or accrued by the financial institution on or after May 10, 1989, except that such amendments shall not apply to transfers on or after such date pursuant to an acquisition to which the amendment made by subsection (a)(1) \[amending section 368 of this title\] does not apply.
+In general.—The amendments made by subsection (a)(3) \[amending this section and repealing provisions set out below\] shall apply to any amount received or accrued by the financial institution on orafter May 10, 1989, except that such amendments shall not apply to transfers on or after such date pursuant to an acquisition to which the amendment made by subsection (a)(1) \[amending section 368 of this title\] does not apply.
 
 &emsp;“(B)
 

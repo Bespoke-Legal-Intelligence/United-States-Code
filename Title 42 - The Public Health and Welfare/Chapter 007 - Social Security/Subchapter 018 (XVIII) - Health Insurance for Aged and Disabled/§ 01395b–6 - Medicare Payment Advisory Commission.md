@@ -48,7 +48,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (C) Interaction of medicare payment policies with health care delivery generally
 
-&emsp;&emsp;Specifically, the Commission shall review the effect of payment policies under this subchapter on the delivery of health care services other than under this subchapter and assess the implications of changes in health care delivery in the United States and in the general market for health care services on the medicare program.
+&emsp;&emsp;Specifically, the Commission shall review the effect of payment policies under thissubchapter on the delivery of health care services other than under this subchapter and assess the implications of changes in health care delivery in the United States and in the general market for health care services on the medicare program.
 
 #### (3) Comments on certain secretarial reports
 
@@ -96,7 +96,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (D) Ethical disclosure
 
-&emsp;&emsp;The Comptroller General shall establish a system for public disclosure by members of the Commission of financial and other potential conflicts of interest relating to such members. Members of the Commission shallbe treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 (Public Law 95–521).
+&emsp;&emsp;The Comptroller General shall establish a system for public disclosure by members of the Commission of financial and other potential conflicts of interest relating to such members. Members of the Commission shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 (Public Law 95–521).
 
 #### (3) Terms
 
@@ -168,7 +168,7 @@ Subject to such review as the Comptroller General deems necessary to assure the 
 
 #### (2) Authorization
 
-&emsp;There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section. Sixty percent of such appropriation shall be payable from the Federal Hospital Insurance Trust Fund, and 40percent of such appropriation shall be payable from the Federal Supplementary Medical Insurance Trust Fund.
+&emsp;There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section. Sixty percent of such appropriation shall be payable from the Federal Hospital Insurance Trust Fund, and 40 percent of such appropriation shall be payable from the Federal Supplementary Medical Insurance Trust Fund.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1805, as added Pub. L. 105–33, title IV, §4022(a), Aug. 5, 1997, 111 Stat. 350; amended Pub. L. 105–277, div. J, title V, §5202(a), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(2)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–347; Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(1), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551; Pub. L. 108–173, title VII, §735(a)–(c)(1), (e)(1), Dec. 8, 2003, 117 Stat. 2353, 2354; Pub. L. 110–173, title III, §301, Dec. 29, 2007, 121 Stat. 2514.)
 

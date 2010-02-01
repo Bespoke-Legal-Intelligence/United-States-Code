@@ -433,6 +433,26 @@ Amendment by Pub. L. 93–294 effective June 1, 1974, see section 6 of Pub. L. 9
 
 Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note under section 201 of this title.
 
+#### Temporary Authority for Monthly Special Pay for Members of the Armed Forces Subject to Continuing Active Duty or Service Under Stop-Loss Authorities
+
+Pub. L. 111–84, div. A, title VI, §620, Oct. 28, 2009, 123 Stat. 2357, provided that:
+
+“(a)
+
+Special Pay Authorized.—The Secretary of the military department concerned may pay monthly special pay to any member of the Army, Navy, Air Force, or Marine Corps (including a member of a reserve component thereof) for any month, or portion of a month, in which the member serves on active duty in the Armed Forces, or has the member's eligibility for retirement from the Armed Forces suspended, as described in subsection (b).
+
+“(b)
+
+Eligibility Requirements.—A member of the Armed Forces referred to in subsection (a) is eligible to receive special pay under this section if the member, at any time during the period beginning on October 1, 2009, and ending on June 30, 2011, serves on active duty while the member's enlistment or period of obligated service is extended, or has the member's eligibility for retirement suspended, pursuant to section 123 or 12305 of title 10, United States Code, or any other provision of law (commonly referred to as a ‘stop-loss authority’) that authorizes the President to extend an enlistment or period of obligated service, or suspend eligibility for retirement, of a member of the Armed Forces in time of war or national emergency declared by Congress or the President.
+
+“(c)
+
+Amount.—The amount of monthly special pay payable to a member under this section for a month may not exceed $500.
+
+“(d)
+
+Construction With Other Pays.—Monthly special pay payable to a member under this section is in addition to any other amounts payable to the member by law.”
+
 #### Transitional Provisions
 
 Pub. L. 110–181, div. A, title VI, §662, Jan. 28, 2008, 122 Stat. 180, provided that:
@@ -507,7 +527,7 @@ Relationship to Other Incentives.—Incentives provided under this section are i
 
 “(e)
 
-Reports.—(1) Not later than December 1, 1998, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that identifies, for each of the Armed Forces, the critically short military occupational specialties to which incentives under this section are to apply.
+Reports.—(1) Not later than December 1, 1998, the Secretary of Defense shall submit to the congressional defense committees \[Committees on ArmedServices and Appropriations of the Senate and the House of Representatives\] a report that identifies, for each of the Armed Forces, the critically short military occupational specialties to which incentives under this section are to apply.
 
 “(2) Not later than April 15, 1999, the Secretary of Defense shall submit to the congressional defense committees a report that specifies, for each of the Armed Forces, the incentives that are to be provided under this section.”
 
@@ -521,7 +541,7 @@ Ex. Ord. No. 10152, Aug. 17, 1950, 15 F.R. 5489, as amended by Ex. Ord. No. 1061
 
 #### Executive Order No. 11157
 
-Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, as amended by Ex. Ord. No. 11242, Aug. 28, 1965, 30 F.R.11205; Ex. Ord. No. 11253, Oct. 20, 1965, 30 F.R. 13509; Ex. Ord. No. 11259, Dec. 3, 1965, 30 F.R. 15057; Ex. Ord. No. 11292, Aug. 1, 1966, 31 F.R. 10447; Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 11424, Aug. 29, 1968, 33 F.R. 12361; Ex. Ord. No. 11473, June 14, 1969, 34 F.R. 9485; Ex. Ord. No. 11511, Feb. 27, 1970, 35 F.R. 3877; Ex. Ord. No. 11591, Apr. 23, 1971, 36 F.R. 7833; Ex. Ord. No. 11716, Apr. 26, 1973, 38 F.R. 10621; Ex. Ord. No. 11728, July 12, 1973, 38 F.R. 18861; Ex. Ord. No. 11897, Jan. 13, 1976, 41 F.R. 2071; Ex. Ord. No. 11929, July 26, 1976, 41 F.R. 31159; Ex. Ord. No. 11939, Sept. 30, 1976, 41 F.R. 43705; Ex. Ord. No. 12094, Nov. 1, 1978, 43 F.R. 51379; Ex. Ord. No. 12243, Oct. 3, 1980, 45 F.R. 66439; Ex. Ord. No. 12274, Jan. 16, 1981, 46 F.R. 5855; Ex. Ord. No. 12337, Jan. 11, 1982, 47 F.R. 1367, eff. Sept. 15, 1981; Ex. Ord. No. 12380, Aug. 18, 1982, 47 F.R. 36605, eff. Jan. 1, 1981; Ex. Ord. No. 12394, Nov. 18, 1982, 47 F.R. 52405, eff. Oct. 1, 1981; Ex. Ord. No. 12420, May 11, 1983, 48 F.R. 21525, eff. Oct. 1, 1981; Ex. Ord. No. 12488, Sept. 27, 1984, 49 F.R. 38525, eff. Oct. 1, 1983; Ex. Ord. No. 12494, Dec. 6, 1984, 49 F.R. 48175; Ex. Ord. No. 12541, Dec. 30, 1985, 51 F.R. 585, eff. Jan. 1, 1986; Ex. Ord. No. 12573, Nov. 6, 1986, 51 F.R. 40954, eff. in part Oct. 1, 1985; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12762, June 4, 1991, 56 F.R. 25993; Ex. Ord. No. 12935, Oct. 28, 1994, 59 F.R. 54511, which related to regulations regarding incentive pay for hazardous duty, special pay for sea duty and duty at certain other locations, and basic allowances for subsistence and quarters, was revoked by Ex. Ord. No. 13294, §2, Mar. 28, 2003, 68 F.R. 15919, set out below.
+Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, as amended by Ex. Ord. No. 11242, Aug. 28, 1965, 30 F.R. 11205; Ex. Ord. No. 11253, Oct. 20, 1965, 30 F.R. 13509; Ex. Ord. No. 11259, Dec. 3, 1965, 30 F.R. 15057; Ex. Ord. No. 11292, Aug. 1, 1966, 31 F.R. 10447; Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 11424, Aug. 29, 1968, 33 F.R. 12361; Ex. Ord. No. 11473, June 14, 1969, 34 F.R. 9485; Ex. Ord. No. 11511, Feb. 27, 1970, 35 F.R. 3877; Ex. Ord. No. 11591, Apr. 23, 1971, 36 F.R. 7833; Ex. Ord. No. 11716, Apr. 26, 1973, 38 F.R. 10621; Ex. Ord. No. 11728, July 12, 1973, 38 F.R. 18861; Ex. Ord. No. 11897, Jan. 13, 1976, 41 F.R. 2071; Ex. Ord. No. 11929, July 26, 1976, 41 F.R. 31159; Ex. Ord. No. 11939, Sept. 30, 1976, 41 F.R. 43705; Ex. Ord. No. 12094, Nov. 1, 1978, 43 F.R. 51379; Ex. Ord. No. 12243, Oct. 3, 1980, 45 F.R. 66439; Ex. Ord. No. 12274, Jan. 16, 1981, 46 F.R. 5855; Ex. Ord. No. 12337, Jan. 11, 1982, 47 F.R. 1367, eff. Sept. 15, 1981; Ex. Ord. No. 12380, Aug. 18, 1982, 47 F.R. 36605, eff. Jan. 1, 1981; Ex. Ord. No. 12394, Nov. 18, 1982, 47 F.R. 52405, eff. Oct. 1, 1981; Ex. Ord. No. 12420, May 11, 1983, 48 F.R. 21525, eff. Oct. 1, 1981; Ex. Ord. No. 12488, Sept. 27, 1984, 49 F.R. 38525, eff. Oct. 1, 1983; Ex. Ord. No. 12494, Dec. 6, 1984, 49 F.R. 48175; Ex. Ord. No. 12541, Dec. 30, 1985, 51 F.R. 585, eff. Jan. 1, 1986; Ex. Ord. No. 12573, Nov. 6, 1986, 51 F.R. 40954, eff. in part Oct. 1, 1985; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12762, June 4, 1991, 56 F.R. 25993; Ex. Ord. No. 12935, Oct. 28, 1994, 59 F.R. 54511, which related to regulations regarding incentive pay for hazardous duty, special pay for sea duty and duty at certain other locations, and basic allowances for subsistence and quarters, was revoked by Ex. Ord. No. 13294, §2, Mar. 28, 2003, 68 F.R. 15919, set out below.
 
 #### Ex. Ord. No. 13294. Regulations Relating to Hazardous Duty Incentive Pay, Aviation Career Incentive Pay, and Submarine Duty Incentive Pay
 

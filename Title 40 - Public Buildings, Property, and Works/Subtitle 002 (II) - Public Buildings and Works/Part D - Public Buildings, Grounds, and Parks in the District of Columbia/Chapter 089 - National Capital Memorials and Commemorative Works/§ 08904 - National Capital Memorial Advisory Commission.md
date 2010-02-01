@@ -22,7 +22,7 @@ Establishment and Composition.—There is established the National Capital Memor
 
 (b)
 
-Chairman.—The Director is the Chairman of the National Capital Memorial Commission.
+Chairman.—The Director is the Chairman of the National Capital Memorial Advisory Commission.
 
 (c)
 
@@ -32,7 +32,7 @@ Advisory Role.—The National Capital Memorial Advisory Commission shall advise 
 
 Meetings.—The National Capital Memorial Advisory Commission shall meet at least twice annually.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1229; Pub. L. 108–126, title II, §203(d), Nov. 17, 2003, 117 Stat. 1351.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1229; Pub. L. 108–126, title II, §203(d), Nov. 17, 2003, 117 Stat. 1351; Pub. L. 111–11, title VII, §7116(e)(2), Mar. 30, 2009, 123 Stat. 1203.)
 
 Historical and Revision Notes
 
@@ -59,6 +59,8 @@ Pub. L. 99–652, §4, Nov. 14, 1986, 100 Stat. 3651.
 40:1004(b) (last sentence).
 
 #### Amendments
+
+2009—Subsec. (b). Pub. L. 111–11 inserted “Advisory” before “Commission”.
 
 2003—Pub. L. 108–126, §203(d)(1), inserted “Advisory” before “Commission” in section catchline.
 

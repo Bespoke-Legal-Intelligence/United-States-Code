@@ -34,7 +34,7 @@ The purposes of this subchapter are to—
 
 #### References in Text
 
-Section 11332 of title 40, referred to in par. (8)(B), was repealed by Pub. L. 107–296, title X, §1005(a)(1), Nov. 25,2002, 116 Stat. 2272, and Pub. L. 107–347, title III, §305(a), Dec. 17, 2002, 116 Stat. 2960.
+Section 11332 of title 40, referred to in par. (8)(B), was repealed by Pub. L. 107–296, title X, §1005(a)(1), Nov. 25, 2002, 116 Stat. 2272, and Pub. L. 107–347, title III, §305(a), Dec. 17, 2002, 116 Stat. 2960.
 
 #### Prior Provisions
 
@@ -360,7 +360,7 @@ Purposes.—The purposes of this section are to—
 
 “(b)
 
-Information Provided by Agencies Online.—To the extent practicable as determined by the agency in consultation with the Director, each agency (as defined under section 551 of title 5, United States Code) shall ensure that a publicly accessible Federal Government website includes all information about that agency required to be published in the Federal Register under paragraphs (1) and (2) of section 552(a) of title 5, United States Code.
+Information Provided by Agencies Online.—To the extent practicable as determined by the agency inconsultation with the Director, each agency (as defined under section 551 of title 5, United States Code) shall ensure that a publicly accessible Federal Government website includes all information about that agency required to be published in the Federal Register under paragraphs (1) and (2) of section 552(a) of title 5, United States Code.
 
 “(c)
 
@@ -806,7 +806,7 @@ In general.—In consultation with the Director of the Office of Management and 
 
 &emsp;&emsp;“(A) analyze, on an ongoing basis, the personnel needs of the Federal Government related to information technology and information resource management;
 
-&emsp;&emsp;“(B) identify where current information technology and information resource management training do not satisfy the personnel needs described in subparagraph (A);
+&emsp;&emsp;“(B) identify where current information technology and information resource managementtraining do not satisfy the personnel needs described in subparagraph (A);
 
 &emsp;&emsp;“(C) oversee the development of curricula, training methods, and training priorities that correspond to the projected personnel needs of the Federal Government related to information technology and information resource management; and
 
@@ -824,7 +824,7 @@ Information technology training programs.—The head of each Executive agency, a
 
 &emsp;“(3)
 
-Governmentwide policies and evaluation.—The Director of the Office of Personnel Management, in coordination with the Director of the Office of Management and Budget, shall issue policies to promote the development of performance standards fortraining and uniform implementation of this subsection by Executive agencies, with due regard for differences in program requirements among agencies that may be appropriate and warranted in view of the agency mission. The Director of the Office of Personnel Management shall evaluate the implementation of the provisions of this subsection by Executive agencies.
+Governmentwide policies and evaluation.—The Director of the Office of Personnel Management, in coordination with the Director of the Office of Management and Budget, shall issue policies to promote the development of performance standards for training and uniform implementation of this subsection by Executive agencies, with due regard for differences in program requirements among agencies that may be appropriate and warranted in view of the agency mission. The Director of the Office of Personnel Management shall evaluate the implementation of the provisions of this subsection by Executive agencies.
 
 &emsp;“(4)
 
@@ -1064,7 +1064,7 @@ Purposes.—The purposes of this section are to—
 
 &emsp;“(2) assist the public, including the regulated community, in electronically submitting information to agencies under Federal requirements, by reducing the burden of duplicate collection and ensuring the accuracy of submitted information; and
 
-&emsp;“(3) enable any person to integrate and obtain similar information held by 1 or more agencies under 1 or more Federal requirements without violating the privacy rights of an individual.
+&emsp;“(3) enable any person to integrate and obtain similar information held by 1 or more agencies under 1 ormore Federal requirements without violating the privacy rights of an individual.
 
 “(b)
 
@@ -1326,7 +1326,7 @@ Contents.—The report under subsection (a) shall include a study of—
 
 &emsp;&emsp;“(D) changes in the nature of personal and public Internet access that may alleviate or aggravate effective access to online Government services;
 
-&emsp;“(2) how the increase in online Government services is influencing the disparities in Internet access and how technology development or diffusion trends may offset such adverse influences; and
+&emsp;“(2) how the increase in online Government services is influencing the disparities in Internet access andhow technology development or diffusion trends may offset such adverse influences; and
 
 &emsp;“(3) related societal effects arising from the interplay of disparities in Internet access and the increase in online Government services.
 
@@ -1456,7 +1456,7 @@ Pub. L. 107–347, title V, Dec. 17, 2002, 116 Stat. 2962, provided that:
 
 “(a)
 
-In General.—The Director of the Office of Management and Budget shall coordinate and oversee theconfidentiality and disclosure policies established by this title. The Director may promulgate rules or provide other guidance to ensure consistent interpretation of this title by the affected agencies.
+In General.—The Director of the Office of Management and Budget shall coordinate and oversee the confidentiality and disclosure policies established by this title. The Director may promulgate rules or provide other guidance to ensure consistent interpretation of this title by the affected agencies.
 
 “(b)
 
@@ -1614,7 +1614,7 @@ Purposes.—The purposes of this subtitle are the following:
 
 &emsp;“(2) To reduce the paperwork burdens imposed on businesses that provide requested information to the Federal Government.
 
-&emsp;“(3) To improve the comparability and accuracy of Federal economic statistics by allowing the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics to update sample frames, develop consistent classifications of establishments and companies into industries, improve coverage, and reconcile significant differences in data produced by the three agencies.
+&emsp;“(3) To improve the comparability and accuracy of Federal economic statistics by allowing the Bureau of the Census, the Bureau of Economic Analysis, andthe Bureau of Labor Statistics to update sample frames, develop consistent classifications of establishments and companies into industries, improve coverage, and reconcile significant differences in data produced by the three agencies.
 
 &emsp;“(4) To increase understanding of the United States economy, especially for key industry and regional statistics, to develop more accurate measures of the impact of technology on productivity growth, and to enhance the reliability of the Nation's most important economic indicators, such as the National Income and Product Accounts.
 
@@ -1640,7 +1640,7 @@ Purposes.—The purposes of this subtitle are the following:
 
 &emsp;&emsp;“(A) emphasizing to their officers, employees, and agents the importance of protecting the confidentiality of information in cases where the identity of individual respondents can reasonably be inferred by either direct or indirect means;
 
-&emsp;&emsp;“(B) training their officers, employees, and agents in their legal obligations to protect the confidentiality of individually identifiable informationand in the procedures that must be followed to provide access to such information;
+&emsp;&emsp;“(B) training their officers, employees, and agents in their legal obligations to protect the confidentiality of individually identifiable information and in the procedures that must be followed to provide access to such information;
 
 &emsp;&emsp;“(C) implementing appropriate measures to assure the physical and electronic security of confidential data;
 

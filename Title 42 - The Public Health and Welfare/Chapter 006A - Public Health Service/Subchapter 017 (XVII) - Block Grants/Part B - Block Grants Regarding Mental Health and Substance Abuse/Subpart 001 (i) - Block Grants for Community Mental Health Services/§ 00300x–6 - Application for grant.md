@@ -16,7 +16,7 @@ For purposes of section 300x of this title, an application for a grant under suc
 
 &emsp;(6) the application contains recommendations in compliance with section 300x–4(a) of this title, or if no such recommendations are received by the State, the application otherwise demonstrates compliance with such section; and
 
-&emsp;(7) the application (including the plan under section 300x–1(a) of this title) is otherwise in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this subpart.
+&emsp;(7) the application (including the plan under section 300x–1(a) of this title) is otherwise insuch form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this subpart.
 
 #### (b) Waivers regarding certain territories
 

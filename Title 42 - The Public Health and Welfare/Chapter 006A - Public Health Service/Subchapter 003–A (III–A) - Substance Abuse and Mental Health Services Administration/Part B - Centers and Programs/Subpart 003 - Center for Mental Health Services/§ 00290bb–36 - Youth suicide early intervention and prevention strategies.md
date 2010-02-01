@@ -76,7 +76,7 @@ Not less than 85 percent of grant funds received under this section shall be use
 
 &emsp;In carrying out this section, the Secretary shall consult with—
 
-&emsp;&emsp;(A) State and local agencies, including agencies responsible for early intervention and prevention services under title XIX of the Social Security Act \[42 U.S.C. 1396 etseq.\], the State Children's Health Insurance Program under title XXI of the Social Security Act \[42 U.S.C. 1397aa et seq.\], and programs funded by grants under title V of the Social Security Act \[42 U.S.C. 701 et seq.\];
+&emsp;&emsp;(A) State and local agencies, including agencies responsible for early intervention and prevention services under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], the State Children's Health Insurance Program under title XXI of the Social Security Act \[42 U.S.C. 1397aa et seq.\], and programs funded by grants under title V of the Social Security Act \[42 U.S.C. 701 et seq.\];
 
 &emsp;&emsp;(B) local and national organizations that serve youth at risk for suicide and their families;
 
@@ -134,7 +134,7 @@ States and entities receiving funding under this section and section 290bb–36a
 
 #### (k) Relation to education provisions
 
-Nothing in this section or section 290bb–36a of this title shall be construed to supersede section 1232g of title 20, including the requirement of prior parental consent for the disclosure of any education records. Nothing in this section or section 290bb–36a of this title shall be construed to modify or affect parental notification requirements for programs authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] (as amended by the No Child Left Behind Act of 2001; Public Law 107–110).
+Nothing in this section or section 290bb–36a of this title shall be construed to supersede section 1232g of title 20, including the requirement of prior parental consent for the disclosure of anyeducation records. Nothing in this section or section 290bb–36a of this title shall be construed to modify or affect parental notification requirements for programs authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] (as amended by the No Child Left Behind Act of 2001; Public Law 107–110).
 
 #### (<i>l</i>) Definitions
 
@@ -156,7 +156,7 @@ In this section:
 
 #### (3) Prevention
 
-&emsp;The term “prevention” means a strategy or approach that reduces the likelihood or risk ofonset, or delays the onset, of adverse health problems that have been known to lead to suicide.
+&emsp;The term “prevention” means a strategy or approach that reduces the likelihood or risk of onset, or delays the onset, of adverse health problems that have been known to lead to suicide.
 
 #### (4) Youth
 

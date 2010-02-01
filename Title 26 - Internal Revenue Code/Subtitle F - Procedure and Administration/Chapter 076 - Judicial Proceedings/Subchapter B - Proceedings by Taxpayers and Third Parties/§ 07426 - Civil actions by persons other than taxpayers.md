@@ -130,7 +130,7 @@ Amendment by section 3106(b)(1), (2) of Pub. L. 105–206 effective July 22, 199
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
+Amendment by Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986,see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 
 #### Effective Date of 1982 Amendment
 

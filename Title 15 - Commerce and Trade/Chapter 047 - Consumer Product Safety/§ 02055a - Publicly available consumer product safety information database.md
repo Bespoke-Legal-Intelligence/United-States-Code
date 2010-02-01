@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(v) public safety entities.
 
-&emsp;&emsp;(B) Information derived by the Commission from notice under section 2064(c) of this title or any notice to the public relating to a voluntary corrective action taken by a manufacturer, in consultation with theCommission, of which action the Commission has notified the public.
+&emsp;&emsp;(B) Information derived by the Commission from notice under section 2064(c) of this title or any notice to the public relating to a voluntary corrective action taken by a manufacturer, in consultation with the Commission, of which action the Commission has notified the public.
 
 &emsp;&emsp;(C) The comments received by the Commission under subsection (c)(2)(A) to the extent requested under subsection (c)(2)(B).
 

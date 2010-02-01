@@ -44,7 +44,7 @@ International Claims Commission of the United States, including offices of its m
 
 #### Appropriations
 
-Section 9 of act Mar. 10, 1950, provided that: “There is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary to enable the Commission to carry out its functions under this Act \[enacting this chapter\].”
+Section 9 of act Mar. 10, 1950, provided that: “There is hereby authorized to be appropriated, out of anymoney in the Treasury not otherwise appropriated, such sums as may be necessary to enable the Commission to carry out its functions under this Act \[enacting this chapter\].”
 
 #### United States Holocaust Assets Commission
 
@@ -184,7 +184,7 @@ Information to be included.—The report on insurance companies prepared pursuan
 
 &emsp;&emsp;“(C)
 
-Coordination.—The Commission shall coordinate its work on insurance issues with that of the international Washington Conference on Holocaust-Era Assets, to be convened by the Department of State and the United States Holocaust Memorial Council.
+Coordination.—The Commission shall coordinate its work on insurance issues with that of theinternational Washington Conference on Holocaust-Era Assets, to be convened by the Department of State and the United States Holocaust Memorial Council.
 
 “(b)
 

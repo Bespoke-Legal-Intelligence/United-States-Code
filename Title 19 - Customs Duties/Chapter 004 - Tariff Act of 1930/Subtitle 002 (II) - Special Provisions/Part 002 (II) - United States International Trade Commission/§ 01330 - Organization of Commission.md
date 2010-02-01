@@ -48,7 +48,7 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 &emsp;(B) under section 2436 of this title, whether market disruption exists.
 
-> and the commissioners voting are equally divided with respect to such determination, then the determination, agreed upon by either group of commissioners may be considered by the President as the determination of the Commission.
+> and the commissioners voting are equally divided with respect to such determination, thenthe determination, agreed upon by either group of commissioners may be considered by the President as the determination of the Commission.
 
 (2) If under section 2252(b) or 2436 of this title there is an affirmative determination of the Commission, or a determination of the Commission which the President may consider an affirmative determination under paragraph (1), that serious injury or market disruption exists, respectively, and a majority of the commissioners voting are unable to agree on a finding or recommendation described in section 2252(e)(1) of this title or the finding described in section 2436(a)(3) of this title, as the case may be (hereafter in this subsection referred to as a “remedy finding”), then—
 
@@ -88,7 +88,7 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 The Commission shall be considered to be an independent regulatory agency for purposes of chapter 35 of title 44.
 
-(June 17, 1930, ch. 497, title III, §330, 46 Stat. 696; Aug. 7, 1953, ch. 348, title II, §201, 67 Stat. 472; Pub. L. 93–618, title I, §§172(a), (b), 175(b), Jan. 3, 1975, 88 Stat. 2009–2011; Pub. L. 94–455, title XVIII, §1801(a), (b), Oct. 4, 1976, 90 Stat. 1762; Pub. L. 95–106, §§1, 2(a), Aug. 17, 1977, 91 Stat. 867; Pub. L. 95–430, Oct. 10, 1978, 92 Stat. 1020; Pub. L. 97–456, §1(a), Jan. 12, 1983, 96 Stat. 2503; Pub. L. 98–573, title II, §248(c), title VII, §701, Oct. 30, 1984, 98 Stat. 2998, 3043; Pub. L. 99–272, title XIII, §13021, Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–203, title IX, §9502, Dec. 22, 1987, 101 Stat. 1330–380; Pub. L. 100–418, title I, §§1401(b)(4), 1611, 1612, Aug. 23, 1988, 102 Stat. 1240, 1262; Pub. L. 100–647, title IX, §9001(a)(15), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–207, §2, Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §101, Aug. 20, 1990, 104 Stat. 633; Pub. L. 102–185, §1(a)(1), (2), (c)(1), Dec. 4, 1991, 105 Stat. 1280; Pub. L. 107–210, div. A, title III, §371, Aug. 6, 2002, 116 Stat. 991; Pub. L. 108–429, title II, §2004(a)(13), Dec. 3, 2004, 118 Stat. 2590.)
+(June 17, 1930, ch. 497, title III, §330, 46 Stat. 696; Aug. 7, 1953, ch. 348, title II, §201, 67 Stat. 472; Pub. L. 93–618, title I, §§172(a), (b), 175(b), Jan. 3, 1975, 88 Stat. 2009–2011; Pub. L. 94–455, title XVIII, §1801(a), (b), Oct. 4, 1976, 90 Stat. 1762; Pub. L. 95–106, §§1, 2(a), Aug. 17, 1977, 91 Stat. 867; Pub. L. 95–430, Oct. 10, 1978, 92 Stat. 1020; Pub. L. 97–456, §1(a), Jan. 12, 1983, 96 Stat. 2503; Pub. L. 98–573, title II, §248(c), title VII, §701, Oct. 30, 1984, 98 Stat. 2998, 3043; Pub. L. 99–272, title XIII, §13021, Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–203, title IX, §9502, Dec. 22, 1987, 101 Stat. 1330–380; Pub. L. 100–418, title I, §§1401(b)(4), 1611, 1612, Aug. 23, 1988, 102 Stat. 1240, 1262; Pub. L. 100–647, title IX, §9001(a)(15), Nov. 10, 1988, 102Stat. 3808; Pub. L. 101–207, §2, Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §101, Aug. 20, 1990, 104 Stat. 633; Pub. L. 102–185, §1(a)(1), (2), (c)(1), Dec. 4, 1991, 105 Stat. 1280; Pub. L. 107–210, div. A, title III, §371, Aug. 6, 2002, 116 Stat. 991; Pub. L. 108–429, title II, §2004(a)(13), Dec. 3, 2004, 118 Stat. 2590.)
 
 #### References in Text
 
@@ -164,7 +164,7 @@ Subsec. (e)(2). Pub. L. 98–573, §701, substituted authorization of appropriat
 
 1978—Subsec. (e)(2). Pub. L. 95–430 substituted provisions authorizing $12,963,000 to be appropriated for the necessary expenses of the Commission for fiscal year 1979 for provisions authorizing $11,522,000 to be appropriated for similar expenses for fiscal year 1978.
 
-1977—Subsec. (c). Pub. L. 95–106, §2(a), inserted provisions in par. (1) for the Congressional notification of Presidential designations, substituted, in par. (2), provisions covering the expiration of terms of office after June 16, 1978, for provisions covering the expiration of terms of office on and after June 17, 1975, added par. (3), and redesignated as pars. (4) to (6) provisions formerly contained in par. (1).
+1977—Subsec. (c). Pub. L. 95–106, §2(a), inserted provisions in par. (1) for the Congressional notification of Presidential designations, substituted, in par. (2), provisions covering the expiration of terms of office after June 16, 1978, for provisions covering the expiration ofterms of office on and after June 17, 1975, added par. (3), and redesignated as pars. (4) to (6) provisions formerly contained in par. (1).
 
 Subsec. (e). Pub. L. 95–106, §1, designated existing provisions as par. (1) and added pars. (2) and (3).
 
@@ -176,7 +176,7 @@ Subsec. (d)(2) to (5). Pub. L. 94–455, §1801(b), added pars. (2) to (4) and r
 
 1975—Subsec. (a). Pub. L. 93–618, §172(a), substituted “United States International Trade Commission” for “United States Tariff Commission” and inserted provision that a person who has served as a commissioner for more than five years (excluding service as a commissioner before January 3, 1975) shall not be eligible for reappointment as a commissioner.
 
-Subsec. (b). Pub. L. 93–618, §172(a), lengthened the term of office from 6 years to 9 years for commissionersappointed after Jan. 3, 1975, and substituted Dec. 16, 1976, June 16, 1978, Dec. 16, 1979, June 16, 1981, Dec. 16, 1982, and June 16, 1984, for June 16, 1975, June 16, 1976, June 16, 1977, June 16, 1978, June 16, 1979, and June 16, 1980, respectively, as the expiration dates for the terms of office of commissioners serving on Jan. 3, 1975.
+Subsec. (b). Pub. L. 93–618, §172(a), lengthened the term of office from 6 years to 9 years for commissioners appointed after Jan. 3, 1975, and substituted Dec. 16, 1976, June 16, 1978, Dec. 16, 1979, June 16, 1981, Dec. 16, 1982, and June 16, 1984, for June 16, 1975, June 16, 1976, June 16, 1977, June 16, 1978, June 16, 1979, and June 16, 1980, respectively, as the expiration dates for the terms of office of commissioners serving on Jan. 3, 1975.
 
 Subsec. (c). Pub. L. 93–618, §172(b), designated existing provisions as par. (1), inserted “Except as provided in paragraph (2),” before “The”, and added par. (2).
 

@@ -2,7 +2,7 @@
 
 #### (1) In general
 
-No member bank may extend credit to any of its executive officers, directors, or principalshareholders, or to any related interest of such a person, except to the extent permitted under paragraphs (2), (3), (4), (5), and (6).
+No member bank may extend credit to any of its executive officers, directors, or principal shareholders, or to any related interest of such a person, except to the extent permitted under paragraphs (2), (3), (4), (5), and (6).
 
 #### (2) Preferential terms prohibited
 
@@ -34,7 +34,7 @@ A member bank may extend credit to a person described in paragraph (1) in an amo
 
 #### (4) Aggregate limit on extensions of credit to any executive officer, director, or principal shareholder
 
-A member bank may extend credit to any executive officer, director, or principal shareholder, or to any related interest of such a person, only if the extension of credit is in an amount that, when aggregated with the amount of all outstanding extensions of credit by that bank to that person and that person's related interests, would not exceed the limits on loans to a single borrower established by section 84 of this title. For purposes of this paragraph, section 84 of this title shall be deemed to apply to a State member bank as if the State member bank were a national banking association.
+A member bank may extend credit to any executive officer, director, or principal shareholder, or to any related interest of such a person, only if the extension of credit is in an amount that, when aggregated with the amountof all outstanding extensions of credit by that bank to that person and that person's related interests, would not exceed the limits on loans to a single borrower established by section 84 of this title. For purposes of this paragraph, section 84 of this title shall be deemed to apply to a State member bank as if the State member bank were a national banking association.
 
 #### (5) Aggregate limit on extensions of credit to all executive officers, directors, and principal shareholders
 
@@ -72,7 +72,7 @@ No executive officer, director, or principal shareholder shall knowingly receive
 
 #### (A) In general
 
-&emsp;For purposes of this section, any executive officer, director, or principal shareholder (as the case may be) of any company of which themember bank is a subsidiary, or of any other subsidiary of that company, shall be deemed to be an executive officer, director, or principal shareholder (as the case may be) of the member bank.
+&emsp;For purposes of this section, any executive officer, director, or principal shareholder (as the case may be) of any company of which the member bank is a subsidiary, or of any other subsidiary of that company, shall be deemed to be an executive officer, director, or principal shareholder (as the case may be) of the member bank.
 
 #### (B) Exception
 
@@ -118,7 +118,7 @@ For purposes of this section:
 
 #### (i) In general
 
-&emsp;&emsp;A member bank extends credit by making or renewing any loan, granting a line of credit, or entering into any similar transaction as a result of which a person becomes obligated (directly or indirectly, or by any means whatsoever) to pay money or its equivalent to the bank.
+&emsp;&emsp;A member bank extends credit by making or renewing any loan, granting a line ofcredit, or entering into any similar transaction as a result of which a person becomes obligated (directly or indirectly, or by any means whatsoever) to pay money or its equivalent to the bank.
 
 #### (ii) Exceptions
 
@@ -220,7 +220,7 @@ Section 306(m) of Pub. L. 102–242 provided that:
 
 “(1)
 
-In general.—The Board of Governors of the Federal Reserve System shall, not later than 120 days after the date of enactment of this Act \[Dec. 19, 1991\], promulgate final regulations to implement the amendments made by this section \[amending this section and sections 1468, 1828, and 1972 of this title\], other than the amendments made by subsections (i) and (k) \[amending sections 1468 and 1828 of this title\].
+In general.—The Board of Governors of the Federal Reserve System shall, not later than 120 days afterthe date of enactment of this Act \[Dec. 19, 1991\], promulgate final regulations to implement the amendments made by this section \[amending this section and sections 1468, 1828, and 1972 of this title\], other than the amendments made by subsections (i) and (k) \[amending sections 1468 and 1828 of this title\].
 
 “(2)
 

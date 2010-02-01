@@ -34,7 +34,7 @@ Under regulations prescribed by the Secretary, if—
 
 &emsp;(4) taking into account all facts and circumstances, it is inequitable to include such item of community income in such individual's gross income,
 
-> then, for purposes of this title, such item of community income shall be included in the gross income of the other spouse (and not in the gross income of the individual). Under procedures prescribed by the Secretary, if, taking into account all the facts and circumstances, it is inequitable to hold the individual liable for any unpaid tax or any deficiency (or any portion of either) attributable to any item for which relief is not available under the preceding sentence, the Secretary may relieve such individual of such liability.
+> then, for purposes of this title, such item of community income shall be included in thegross income of the other spouse (and not in the gross income of the individual). Under procedures prescribed by the Secretary, if, taking into account all the facts and circumstances, it is inequitable to hold the individual liable for any unpaid tax or any deficiency (or any portion of either) attributable to any item for which relief is not available under the preceding sentence, the Secretary may relieve such individual of such liability.
 
 #### (d) Definitions
 

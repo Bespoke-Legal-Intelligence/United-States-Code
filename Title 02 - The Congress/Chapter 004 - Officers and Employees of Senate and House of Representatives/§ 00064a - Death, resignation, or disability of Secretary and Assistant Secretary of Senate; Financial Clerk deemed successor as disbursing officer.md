@@ -1,6 +1,6 @@
 ### §64a. Death, resignation, or disability of Secretary and Assistant Secretary of Senate; Financial Clerk deemed successor as disbursing officer
 
-For any period during which both the Secretary and the Assistant Secretary of the Senate are unable (because of death, resignation, or disability) to discharge such Secretary's duties as disbursing officer of the Senate, the Financial Clerk of the Senate shall be deemed to be the successor of such Secretary as disbursing officer.
+For any period during which both the Secretary and the Assistant Secretary of the Senateare unable (because of death, resignation, or disability) to discharge such Secretary's duties as disbursing officer of the Senate, the Financial Clerk of the Senate shall be deemed to be the successor of such Secretary as disbursing officer.
 
 (Mar. 3, 1926, ch. 44, §1, 44 Stat. 162; Pub. L. 91–105, §2, Oct. 31, 1969, 83 Stat. 169; Pub. L. 91–382, Aug. 18, 1970, 84 Stat. 810; Pub. L. 92–310, title II, §220(g), June 6, 1972, 86 Stat. 204; Pub. L. 98–367, title I, §2(a), July 17, 1984, 98 Stat. 474.)
 

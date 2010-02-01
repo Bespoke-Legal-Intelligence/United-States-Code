@@ -42,7 +42,7 @@
 
 #### (A) Application
 
-&emsp;&emsp;An entity shall submit an application for a grant, cooperative agreement, or contract to provide benefits planning and assistance to the Commissioner at such time, in such manner, and containing such information asthe Commissioner may determine is necessary to meet the requirements of this section.
+&emsp;&emsp;An entity shall submit an application for a grant, cooperative agreement, or contract to provide benefits planning and assistance to the Commissioner at such time, in such manner, and containing such information as the Commissioner may determine is necessary to meet the requirements of this section.
 
 #### (B) Statewideness
 
@@ -52,7 +52,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Commissioner may award a grant, cooperative agreement, or contract under this section to a State or a private agency or organization (other than Social Security Administration Field Offices and the State agency administering the State medicaid program under subchapter XIX of this chapter, including any agency or entity described in clause (ii), that the Commissioner determines is qualified to provide the planning, assistance, and information described in paragraph (2)).
+&emsp;&emsp;&emsp;The Commissioner may award a grant, cooperative agreement, or contract underthis section to a State or a private agency or organization (other than Social Security Administration Field Offices and the State agency administering the State medicaid program under subchapter XIX of this chapter, including any agency or entity described in clause (ii), that the Commissioner determines is qualified to provide the planning, assistance, and information described in paragraph (2)).
 
 #### (ii) Agencies and entities described
 
@@ -118,19 +118,19 @@ In this section:
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $23,000,000 for each of the fiscal years 2000 through 2009.
+There are authorized to be appropriated to carry out this section $23,000,000 for each of the fiscal years 2000 through 2010.
 
-(Aug. 14, 1935, ch. 531, title XI, §1149, as added Pub. L. 106–170, title I, §121, Dec. 17, 1999, 113 Stat. 1887; amended Pub. L. 108–203, title IV, §§404(a)(1), 407(a), Mar. 2, 2004, 118 Stat. 525, 527.)
+(Aug. 14, 1935, ch. 531, title XI, §1149, as added Pub. L. 106–170, title I, §121, Dec. 17, 1999, 113 Stat. 1887; amended Pub. L. 108–203, title IV, §§404(a)(1), 407(a), Mar. 2, 2004, 118 Stat. 525, 527; Pub. L. 111–63, §2, Sept. 18, 2009, 123 Stat. 2001.)
 
 #### References in Text
 
 Section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, referred to in subsec. (a)(1), is section 101(f) of Pub. L. 106–170, which is set out as a note under section 1320b–19 of this title.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (a)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (a)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. Forcomplete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (a)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Subtitle B of title I of the Act is classified generally to subchapter II (§2811 et seq.) of chapter 30 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Subtitle B of title I of the Act is classified generally to subchapter II (§2811 et seq.) of chapter 30 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (b)(1)(C)(ii)(I), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title VII of the Act is classified generally to subchapter VII (§796 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (b)(1)(C)(ii)(I), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title VII of the Act is classified generally to subchapter VII (§796 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 Section 6024 of this title, referred to in subsec. (b)(1)(C)(ii)(I), was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. See section 15025 of this title.
 
@@ -141,6 +141,8 @@ Section 212 of Public Law 93–66, referred to in subsec. (c)(2)(B), is set out 
 Part A of subchapter XVIII of this chapter, referred to in subsec. (c)(2)(D), is classified to section 1395c et seq. of this title.
 
 #### Amendments
+
+2009—Subsec. (d). Pub. L. 111–63 substituted “2010” for “2009”.
 
 2004—Subsec. (c)(2). Pub. L. 108–203, §404(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘disabled beneficiary’ has the meaning given that term in section 1320b–19(k)(2) of this title.”
 

@@ -16,7 +16,7 @@ Section 287, act Feb. 8, 1895, ch. 64, §1, 28 Stat. 649, related to duty of ove
 
 Section 288, act Feb. 8, 1895, ch. 64, §1, 28 Stat. 649, related to whistle signals of steam vessels to indicate course. See section 2034 of this title.
 
-Section 289, acts Feb. 8, 1895, ch. 64, §1, 28 Stat. 649; Nov. 5, 1966, Pub. L. 89–764, §4, 80 Stat. 1313, related toright-of-way when steam vessels meet in narrow channels having current and certain rivers, etc. See section 2009 of this title.
+Section 289, acts Feb. 8, 1895, ch. 64, §1, 28 Stat. 649; Nov. 5, 1966, Pub. L. 89–764, §4, 80 Stat. 1313, related to right-of-way when steam vessels meet in narrow channels having current and certain rivers, etc. See section 2009 of this title.
 
 Section 290, act Feb. 8, 1895, ch. 64, §1, 28 Stat. 649, related to steam vessels passing in narrow channels and slackening speed when meeting in narrow channels. See section 2008 of this title.
 

@@ -28,7 +28,7 @@ The Secretary may pay from the fund any necessary expenses incurred by him in co
 
 &emsp;(ii) appraise all other fee areas, within five years after October 17, 1978, in the order in which such areas were first established by the Service.
 
-> After initial appraisal under clause (i) or (ii), each fee area shall thereafter be reappraised by the Secretary at least once during each five-year period occurring after the date of the initial appraisal. Until any fee area referred to in clause (ii) is initially appraised under this subparagraph, the fair market value of such areashall be deemed to be that adjusted cost of the area which was used to determine payments under this subsection for fiscal year 1977; and in no case may the amount of any payment to any local government under paragraph (1)(B) with respect to any fee area be less than the amount paid under paragraph (2)(A) of this subsection (as in effect on September 30, 1977) with respect to such area.
+> After initial appraisal under clause (i) or (ii), each fee area shall thereafter be reappraised by the Secretary at least once during each five-year period occurring after the date of the initial appraisal. Until any fee area referred to in clause (ii) is initially appraised under this subparagraph, the fair market value of such area shall be deemed to be that adjusted cost of the area which was used to determine payments under this subsection for fiscal year 1977; and in no case may the amount of any payment to any local government under paragraph (1)(B) with respect to any fee area be less than the amount paid under paragraph (2)(A) of this subsection (as in effect on September 30, 1977) with respect to such area.
 
 (B) The Secretary shall make the determinations required under this subsection in such manner as the Secretary considers to be equitable and in the public interest. All such determinations shall be final and conclusive.
 
@@ -74,7 +74,7 @@ The Migratory Bird Conservation Act, referred to in subsec. (e), is act Feb. 18,
 
 #### Codification
 
-The reference in subsec. (f) to “revenue producing activity referred to in subsection (a)(1), (2), and (3) of this section”, enacted as an amendment to subsec. (f) by section 1(a)(3) of Pub. L. 95–469, is a reference to the proposed amendment as set out on pg. 1 of House Report No. 95–1197 of the 95th Congress, 2d Session, May 15, 1978, and reading in part:
+The reference in subsec. (f) to “revenue producing activity referred to in subsection (a)(1), (2), and (3) of this section”, enacted as an amendment to subsec. (f) by section 1(a)(3) of Pub. L. 95–469, is a reference to theproposed amendment as set out on pg. 1 of House Report No. 95–1197 of the 95th Congress, 2d Session, May 15, 1978, and reading in part:
 
 “(a) All revenues received during each fiscal year by the Secretary in connection with the operation and management of fee areas and reserve areas from—
 
@@ -120,7 +120,7 @@ Subsec. (h). Pub. L. 95–469, §1(a)(4), added subsec. (h).
 
 #### Effective Date of 1978 Amendment; Fiscal Year of Availability of Appropriation Authorization
 
-Section 2 of Pub. L. 95–469 provided that: “The amendments made by this Act \[amending this section and sections 1603, 1605 and 1606 of former Title 31, Money and Finance\], shall apply with respect to payments made to counties under title IV of the Act of June 15, 1935 \[this section\], for the fiscal year ending September 30, 1979, and for fiscal years thereafter; except that the amendments made to such title IV \[this section\] which amend section 401(a) and (g), add paragraph (4) to section 401(c) \[subsecs. (a) and (g), and (c)(4) of this section\], and amend the title heading \[of this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 1978\]. No authorization for appropriation shall be available under this Act before the fiscal year ending September 30, 1980.”
+Section 2 of Pub. L. 95–469 provided that: “The amendments made by this Act \[amending this section and sections 1603, 1605 and 1606 of former Title 31, Money and Finance\], shall apply with respect to payments made to counties under title IV of the Act of June 15, 1935 \[this section\], for the fiscal year ending September 30, 1979, and for fiscal years thereafter; except that the amendments made to such title IV \[thissection\] which amend section 401(a) and (g), add paragraph (4) to section 401(c) \[subsecs. (a) and (g), and (c)(4) of this section\], and amend the title heading \[of this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 1978\]. No authorization for appropriation shall be available under this Act before the fiscal year ending September 30, 1980.”
 
 #### Effective Date of 1973 Amendment
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, withpower to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Reorg. Plan No. III of 1940, set out in the Appendix to Title 5, consolidated Bureau of Fisheries and Bureau of Biological Survey, with their respective functions, into one agency in Department of the Interior to be known as the Fish and Wildlife Service.
 

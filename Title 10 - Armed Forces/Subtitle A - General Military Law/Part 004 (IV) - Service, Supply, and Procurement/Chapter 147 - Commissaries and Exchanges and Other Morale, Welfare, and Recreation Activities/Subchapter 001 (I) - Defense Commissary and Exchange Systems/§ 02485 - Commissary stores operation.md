@@ -4,7 +4,7 @@
 
 Private Operation.—(1) Under such regulations as the Secretary of Defense may approve, private persons may operate selected commissary store functions, except that such functions may not include functions relating to the procurement of products to be sold in a commissary store or functions relating to the overall management of a commissary system or the management of a commissary store. Such functions shall be carried out by personnel of the Department of Defense under regulations approved by the Secretary of Defense.
 
-(2) Any change to private operation of a commissary store function that is being performed by more than 10 Department of Defense civilian employees shall not take effect until the end of the 75-day period beginning on the date on which the Secretary of Defense submits to Congress written notice of the change. Until December 31, 2008, the Defense Commissary Agency is not required to conduct any cost-comparison study under the policies and procedures of Office of Management and Budget Circular A–76 relating to the possible contracting out of commissary store functions.
+(2) Any change to private operation of a commissary store function that is being performed by more than 10 Department of Defense civilian employees shall not take effect until the end of the 75-day period beginning on the date on whichthe Secretary of Defense submits to Congress written notice of the change. Until December 31, 2008, the Defense Commissary Agency is not required to conduct any cost-comparison study under the policies and procedures of Office of Management and Budget Circular A–76 relating to the possible contracting out of commissary store functions.
 
 (b)
 
@@ -78,7 +78,7 @@ Collection of Dishonored Checks.—(1) The Secretary of Defense may impose a cha
 
 (4) Appropriated funds may be used to pay any costs incurred in the collection of checks and charges referred to in paragraph (1). An appropriation account charged a cost under the preceding sentence shall be reimbursed the amount of that cost out of funds in the commissary trust revolving fund.
 
-(5) In this subsection, the term “commissary trust revolving fund” means the trust revolvingfund maintained by the Department of Defense for surcharge collections and proceeds of sales of commissary stores.
+(5) In this subsection, the term “commissary trust revolving fund” means the trust revolving fund maintained by the Department of Defense for surcharge collections and proceeds of sales of commissary stores.
 
 (h)
 
@@ -126,7 +126,7 @@ Historical and Revision Notes
 
 Aug. 1, 1953, ch. 305, §624 (last proviso), 67 Stat. 353.
 
-This section is codified as permanent law on the basis of an opinion of the Assistant General Counsel (Fiscal Matters), Department of Defense, dated September 28, 1954. The words “and privately owned organizations” are omitted as surplusage since under 1 U.S.C. 1 “person” includes such an organization.
+This section is codified as permanent law on the basis of an opinion of the Assistant General Counsel (Fiscal Matters), Department of Defense, dated September 28, 1954. The words “and privately owned organizations”are omitted as surplusage since under 1 U.S.C. 1 “person” includes such an organization.
 
 #### Prior Provisions
 

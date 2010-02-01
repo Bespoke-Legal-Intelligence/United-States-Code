@@ -16,7 +16,7 @@ Effective Date.—Subject to subsections (b), (c), and (d) of this section, the 
 
 “(b)
 
-Final Decisions.—The amendments made by the first section of this Act \[enacting this section\] shall not affect any final decision made by a court or the Patent and Trademark Office before the date of enactment of this Act \[Nov. 15, 1990\] with respect to a patent or an application for a patent, if no appeal from such decision is pending and the time for filing an appeal has expired.
+Final Decisions.—The amendments made by the first section of this Act \[enacting this section\] shallnot affect any final decision made by a court or the Patent and Trademark Office before the date of enactment of this Act \[Nov. 15, 1990\] with respect to a patent or an application for a patent, if no appeal from such decision is pending and the time for filing an appeal has expired.
 
 “(c)
 

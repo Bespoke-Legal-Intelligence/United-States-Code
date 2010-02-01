@@ -40,5 +40,5 @@ The Secretary shall award grants in accordance with the provisions of this secti
 
 &emsp;There is authorized to be appropriated to carry out this subsection, $25,000,000 for fiscal year 2001 and such sums as may be necessary for each of fiscal years 2002 through 2003.
 
-(July 1, 1944, ch.373, title V, §520J, as added Pub. L. 106–310, div. B, title XXXII, §3213, Oct. 17, 2000, 114 Stat. 1206.)
+(July 1, 1944, ch. 373, title V, §520J, as added Pub. L. 106–310, div. B, title XXXII, §3213, Oct. 17, 2000, 114 Stat. 1206.)
 

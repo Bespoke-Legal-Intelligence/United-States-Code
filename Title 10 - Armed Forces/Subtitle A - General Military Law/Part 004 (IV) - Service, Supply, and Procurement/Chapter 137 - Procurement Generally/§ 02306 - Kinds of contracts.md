@@ -6,7 +6,7 @@
 
 \[(c) Repealed. Pub. L. 103–355, title I, §1021, Oct. 13, 1994, 108 Stat. 3257.\]
 
-(d) The fee for performing a cost-plus-a-fixed-fee contract for experimental, developmental, or research work may not be more than 15 percent of the estimated cost of the contract, not including the fee. The fee for performing a cost-plus-a-fixed-fee contract for architectural or engineering services for a public work or utility plus the cost of those services to the contractor may not be more than 6 percent of the estimated cost of that work or project, not including fees. The fee for performing any other cost-plus-a-fixed-fee contract may not be more than 10 percent of the estimated cost of the contract, notincluding the fee. Determinations under this subsection of the estimated costs of a contract or project shall be made by the head of the agency at the time the contract is made.
+(d) The fee for performing a cost-plus-a-fixed-fee contract for experimental, developmental, or research work may not be more than 15 percent of the estimated cost of the contract, not including the fee. The fee for performing a cost-plus-a-fixed-fee contract for architectural or engineering services for a public work or utility plus the cost of those services to the contractor may not be more than 6 percent of the estimated cost of that work or project, not including fees. The fee for performing any other cost-plus-a-fixed-fee contract may not be more than 10 percent of the estimated cost of the contract, not including the fee. Determinations under this subsection of the estimated costs of a contract or project shall be made by the head of the agency at the time the contract is made.
 
 (e)(1) Except as provided in paragraph (2), each cost contract and each cost-plus-a-fixed-fee contract shall provide for notice to the agency by the contractor before the making, under the prime contract, of—
 
@@ -148,7 +148,7 @@ Subsec. (g)(1). Pub. L 97–86, §909(b)(1), struck out “to be performed outsi
 
 Subsec. (h). Pub. L. 97–86, §909(b)(2), added subsec. (h).
 
-1980—Subsec. (f). Pub. L. 96–513, §511(77)(A), designated existing provisions as pars. (1) to (3) and in par. (1), as so designated, substituted “(A)” to “(D)” for “(1)” to “(4)”, respectively, “prior” for “Prior” wherever appearing, and “clause (C)” for “(3) above”.
+1980—Subsec. (f). Pub. L. 96–513, §511(77)(A), designated existing provisions as pars. (1) to (3) and in par.\(1), as so designated, substituted “(A)” to “(D)” for “(1)” to “(4)”, respectively, “prior” for “Prior” wherever appearing, and “clause (C)” for “(3) above”.
 
 Subsec. (g). Pub. L. 96–513, §511(77)(B), in par. (1) substituted “that—” for “that:”, in par. (2) substituted “(A) The” for “(A) the”, “(B) Consideration” for “(B) consideration”, and “(C) Consideration” for “(C) consideration”, and in par. (3) substituted “from—” for “from:”.
 
@@ -190,7 +190,7 @@ Pub. L. 109–364, div. A, title VIII, §818(b)–(e), Oct. 17, 2006, 120 Stat. 
 
 “(b)
 
-Modification of Regulations.—Not later than 120 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall modify the regulations of the Department of Defense regardingthe determination of contract type for development programs.
+Modification of Regulations.—Not later than 120 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall modify the regulations of the Department of Defense regarding the determination of contract type for development programs.
 
 “(c)
 

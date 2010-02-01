@@ -10,7 +10,7 @@ No provision of subsection (a) of this section shall be construed to prohibit a 
 
 #### (c) Use of name “investment counsel” as descriptive of business
 
-It shall be unlawful for any person registered under section 80b–3 of this title to represent thathe is an investment counsel or to use the name “investment counsel” as descriptive of his business unless (1) his or its principal business consists of acting as investment adviser, and (2) a substantial part of his or its business consists of rendering investment supervisory services.
+It shall be unlawful for any person registered under section 80b–3 of this title to represent that he is an investment counsel or to use the name “investment counsel” as descriptive of his business unless (1) his or its principal business consists of acting as investment adviser, and (2) a substantial part of his or its business consists of rendering investment supervisory services.
 
 #### (d) Use of indirect means to do prohibited act
 

@@ -16,7 +16,7 @@ A petitioner under a petition filed under section 300aa–11 of this title may s
 
 &emsp;(1) a special master fails to make a decision on such petition within the 240 days prescribed by section 300aa–12(d)(3)(A)(ii) of this title (excluding (i) any period of suspension under section 300aa–12(d)(3)(C) or 300aa–12(d)(3)(D) of this title, and (ii) any days the petition is before a special master as a result of a remand under section 300aa–12(e)(2)(C) of this title), or
 
-&emsp;(2) the court fails to enter a judgment under section 300aa–12 of this title on the petition within 420 days (excluding (i) any period ofsuspension under section 300aa–12(d)(3)(C) or 300aa–12(d)(3)(D) of this title, and (ii) any days the petition is before a special master as a result of a remand under section 300aa–12(e)(2)(C) of this title) after the date on which the petition was filed.
+&emsp;(2) the court fails to enter a judgment under section 300aa–12 of this title on the petition within 420 days (excluding (i) any period of suspension under section 300aa–12(d)(3)(C) or 300aa–12(d)(3)(D) of this title, and (ii) any days the petition is before a special master as a result of a remand under section 300aa–12(e)(2)(C) of this title) after the date on which the petition was filed.
 
 > Such a notice shall be filed within 30 days of the provision of the notice required by section 300aa–12(g) of this title.
 
@@ -24,7 +24,7 @@ A petitioner under a petition filed under section 300aa–11 of this title may s
 
 A civil action for damages arising from a vaccine-related injury or death for which a petition was filed under section 300aa–11 of this title shall, except as provided in section 300aa–16(c) of this title, be brought within the period prescribed by limitations of actions under State law applicable to such civil action.
 
-(July 1, 1944, ch. 373, title XXI, §2121, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3772; amended Pub. L. 100–203, title IV, §§4304(c), 4307(8), 4308(c), Dec. 22, 1987, 101 Stat. 1330–224, 1330–225; Pub. L. 100–360, title IV, §411(<i>o</i>)(3)(A), July 1, 1988, 102 Stat. 808; Pub. L. 101–239, title VI, §6601(n), Dec. 19, 1989, 103 Stat. 2291; Pub. L. 101–502, §5(f), Nov. 3, 1990, 104 Stat. 1287; Pub. L. 102–168, title II, §201(d)(3), Nov. 26, 1991, 105 Stat. 1103; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(July 1, 1944, ch. 373, title XXI, §2121, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100Stat. 3772; amended Pub. L. 100–203, title IV, §§4304(c), 4307(8), 4308(c), Dec. 22, 1987, 101 Stat. 1330–224, 1330–225; Pub. L. 100–360, title IV, §411(<i>o</i>)(3)(A), July 1, 1988, 102 Stat. 808; Pub. L. 101–239, title VI, §6601(n), Dec. 19, 1989, 103 Stat. 2291; Pub. L. 101–502, §5(f), Nov. 3, 1990, 104 Stat. 1287; Pub. L. 102–168, title II, §201(d)(3), Nov. 26, 1991, 105 Stat. 1103; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Codification
 
@@ -68,7 +68,7 @@ Amendment by section 5(f)(1) of Pub. L. 101–502 effective Nov. 14, 1986, and a
 
 #### Effective Date of 1989 Amendment
 
-For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currentlypending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, except that such suspension be excluded in determining the 420-day period prescribed in subsec. (b) of this section, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
+For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, except that such suspension be excluded in determining the 420-day period prescribed in subsec. (b) of this section, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
 
 #### Effective Date of 1988 Amendment
 

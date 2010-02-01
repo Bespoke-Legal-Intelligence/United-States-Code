@@ -48,7 +48,7 @@ Covered Budget Activity Defined.—In this section, the term “covered budget a
 
 &emsp;&emsp;(E) Maintenance of Real Property.
 
-&emsp;(3) The Ship Operations budget activity groups (known as “subactivities”) within the Operating Forces budget activity of the annual Operation and Maintenance, Navy, appropriation that are designated as follows:
+&emsp;(3) The Ship Operations budget activity groups (known as “subactivities”) within theOperating Forces budget activity of the annual Operation and Maintenance, Navy, appropriation that are designated as follows:
 
 &emsp;&emsp;(A) Mission and Other Ship Operations.
 

@@ -12,5 +12,9 @@ For purposes of sections 2321b and 2314a <sup>1</sup> of this title—
 
 Section 2314a, referred to in text, was repealed by Pub. L. 93–189, §26(4), Dec. 17, 1973, 87 Stat. 731.
 
+#### Codification
+
+Section was not enacted as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

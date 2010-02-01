@@ -44,7 +44,7 @@ Within 2 years after October 24, 1992, the Nuclear Regulatory Commission shall e
 
 #### (d) Requirement for operation
 
-The gaseous diffusion uranium enrichment facilities of the Department may not be operatedby the Corporation unless the Nuclear Regulatory Commission, in consultation with the Environmental Protection Agency, makes a determination of compliance under subsection (b) of this section or approves a plan prepared by the Department for achieving compliance required under subsection (b) of this section.
+The gaseous diffusion uranium enrichment facilities of the Department may not be operated by the Corporation unless the Nuclear Regulatory Commission, in consultation with the Environmental Protection Agency, makes a determination of compliance under subsection (b) of this section or approves a plan prepared by the Department for achieving compliance required under subsection (b) of this section.
 
 (Aug. 1, 1946, ch. 724, title II, §1701, as added Pub. L. 102–486, title XI, §1101, Oct. 24, 1992, 106 Stat. 2951; amended Pub. L. 104–134, title III, §3116(b)(3), Apr. 26, 1996, 110 Stat. 1321–349; Pub. L. 105–362, title XII, §1202, Nov. 10, 1998, 112 Stat. 3292.)
 

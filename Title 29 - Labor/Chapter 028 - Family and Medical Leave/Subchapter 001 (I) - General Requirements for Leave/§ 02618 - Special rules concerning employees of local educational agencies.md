@@ -70,7 +70,7 @@ The following rules shall apply with respect to periods of leave near the conclu
 
 #### (e) Restoration to equivalent employment position
 
-For purposes of determinations under section 2614(a)(1)(B) of this title (relating to the restoration of an eligible employee to an equivalent position), in the case of a local educational agency or a private elementary or secondary school, such determination shall be made on the basis of established school board policies and practices, private school policies and practices, and collective bargaining agreements.
+For purposes of determinations under section 2614(a)(1)(B) of this title (relating to the restoration of an eligible employee to an equivalent position), in the case of a local educational agency or a private elementary or secondary school, such determination shall be made on the basis ofestablished school board policies and practices, private school policies and practices, and collective bargaining agreements.
 
 #### (f) Reduction of amount of liability
 

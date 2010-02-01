@@ -24,7 +24,7 @@ For the purposes of this chapter—
 
 &emsp;(1) is the certified representative of employees under the provisions of the National Labor Relations Act, as amended \[29 U.S.C. 151 et seq.\], or the Railway Labor Act, as amended \[45 U.S.C. 151 et seq.\]; or
 
-&emsp;(2) although not certified, is a national or international labor organization or a local labor organization recognized or acting as the representative of employees of an employer or employers engaged in an industry affecting commerce; or
+&emsp;(2) although not certified, is a national or international labor organization or a local labor organization recognized or acting as therepresentative of employees of an employer or employers engaged in an industry affecting commerce; or
 
 &emsp;(3) has chartered a local labor organization or subsidiary body which is representing or actively seeking to represent employees of employers within the meaning of paragraph (1) or (2); or
 
@@ -46,7 +46,7 @@ For the purposes of this chapter—
 
 (q) “Officer, agent, shop steward, or other representative”, when used with respect to a labor organization, includes elected officials and key administrative personnel, whether elected or appointed (such as business agents, heads of departments or major units, and organizers who exercise substantial independent authority), but does not include salaried nonsupervisory professional staff, stenographic, and service personnel.
 
-(r) “District court of the United States” means a United States district court and aUnited States court of any place subject to the jurisdiction of the United States.
+(r) “District court of the United States” means a United States district court and a United States court of any place subject to the jurisdiction of the United States.
 
 (Pub. L. 86–257, §3, Sept. 14, 1959, 73 Stat. 520; Pub. L. 95–598, title III, §320, Nov. 6, 1978, 92 Stat. 2678.)
 

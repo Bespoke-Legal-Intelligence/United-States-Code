@@ -22,7 +22,7 @@ The Secretary shall insure that financial assistance provided under this part wi
 
 #### (c) Limitations on expenditures; exceptions; annual adjustments
 
-(1) Except as provided in paragraphs (3) and (4), the expenditure of financial assistance provided under this part for labor, weatherization materials, and related matters shall not exceed an average of $2,500 per dwelling unit weatherized in that State. Labor, weatherization materials, and related matter includes, but is not limited to—
+(1) Except as provided in paragraphs (3) and (4), the expenditure of financial assistance provided under this part for labor, weatherization materials, and related matters shall not exceed an average of $6,500 per dwelling unit weatherized in that State. Labor, weatherization materials, and related matter includes, but is not limited to—
 
 &emsp;(A) the appropriate portion of the cost of tools and equipment used to install weatherization materials for a dwelling unit;
 
@@ -34,7 +34,7 @@ The Secretary shall insure that financial assistance provided under this part wi
 
 &emsp;(E) the cost of making heating and cooling modifications, including replacement <sup>1</sup>
 
-(2) Dwelling units partially weatherized under this part or under other Federal programs during the period September 30, 1975, through September 30, 1979, may receive further financial assistance for weatherization under this part.
+(2) Dwelling units partially weatherized under this part or under other Federal programs during the period September 30, 1975, through September 30, 1994, may receive further financial assistance for weatherization under this part.
 
 (3) Beginning with fiscal year 2000, the dwelling unit averages provided in paragraphs (1) and (4) shall be adjusted annually by increasing the average amount by an amount equal to—
 
@@ -90,21 +90,25 @@ Beginning with fiscal year 1992, the Secretary may allocate funds appropriated p
 
 #### (e) Supplementary financial assistance to grant recipients
 
-(1)(A) Beginning with fiscal year 1992, the Secretary may allocate, from funds appropriated pursuant to section 6872(b) <sup>2</sup> of this title, among the States an equal amount for each State not to exceed $100,000 per State. Each State shall make available amounts received under this subsection to provide supplementary financial assistance to recipients of grants under this part that have achieved the best performance during the previous fiscal year in advancing the purposes of this part.
+(1)(A) Beginning with fiscal year 1992, the Secretary may allocate, from funds appropriated pursuant to section 6872(b) <sup>2</sup> of this title, among the States an equal amount for each State notto exceed $100,000 per State. Each State shall make available amounts received under this subsection to provide supplementary financial assistance to recipients of grants under this part that have achieved the best performance during the previous fiscal year in advancing the purposes of this part.
 
 (B) None of the funds made available under this subsection may be used by any State for administrative purposes.
 
 (2) The Secretary shall, after consulting with the State Energy Advisory Board referred to in subsection (d)(1) of this section, prescribe guidelines to be used by each State in making available supplementary financial assistance under this subsection, with a priority being given to subgrantees that, by law or through administrative or other executive action, provided non-Federal resources (including private resources) to supplement Federal financial assistance under this part during the previous fiscal year.
 
-(Pub. L. 94–385, title IV, §415, Aug. 14, 1976, 90 Stat. 1155; Pub. L. 95–619, title II, §231(c), Nov. 9, 1978, 92 Stat. 3225; Pub. L. 96–294, title V, §§571, 572, 573(a), 575, 577(2), June 30, 1980, 94 Stat. 759, 760; Pub. L. 98–558, title IV, §§403, 404, Oct. 30, 1984, 98 Stat. 2887, 2888; Pub. L. 101–440, §7(d)–(f), (i), Oct. 18, 1990, 104 Stat. 1013, 1014; Pub. L. 106–469, title VI, §601(b), Nov. 9, 2000, 114 Stat. 2040; Pub. L. 109–58, title II, §206(a), Aug. 8, 2005, 119 Stat. 654.)
+(Pub. L. 94–385, title IV, §415, Aug. 14, 1976, 90 Stat. 1155; Pub. L. 95–619, title II, §231(c), Nov. 9, 1978, 92 Stat. 3225; Pub. L. 96–294, title V, §§571, 572, 573(a), 575, 577(2), June 30, 1980, 94 Stat. 759, 760; Pub. L. 98–558, title IV, §§403, 404, Oct. 30, 1984, 98 Stat. 2887, 2888; Pub. L. 101–440, §7(d)–(f), (i), Oct. 18, 1990, 104 Stat. 1013, 1014; Pub. L. 106–469, title VI, §601(b), Nov. 9, 2000, 114 Stat. 2040; Pub. L. 109–58, title II, §206(a), Aug. 8, 2005, 119 Stat. 654; Pub. L. 111–5, div. A, title IV, §407(b), (e), Feb. 17, 2009, 123 Stat. 146.)
 
 #### References in Text
 
-The Economic Opportunity Act of 1964, referred to in subsec. (b)(2), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Title II of the Economic Opportunity Act of 1964 was classified generally to subchapter II (§2781 et seq.) of chapter 34 of this title prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in subsec. (b)(2), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Title II of the Economic Opportunity Act of 1964 was classified generally to subchapter II (§2781 et seq.) of chapter 34 of this title prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
 
 Section 6872 of this title, referred to in subsecs. (d) and (e)(1)(A), was amended by Pub. L. 105–388, §3, Nov. 13, 1998, 112 Stat. 3477, and, as so amended, no longer contains a subsec. (b).
 
 #### Amendments
+
+2009—Subsec. (c)(1). Pub. L. 111–5, §407(b), substituted “$6,500” for “$2,500” in introductory provisions.
+
+Subsec. (c)(2). Pub. L. 111–5, §407(e), substituted “September 30, 1994” for “September 30, 1979”.
 
 2005—Subsec. (c)(1). Pub. L. 109–58, §206(a)(1), substituted “in paragraphs (3) and (4)” for “in paragraph (3)” in introductory provisions.
 
@@ -142,7 +146,7 @@ Subsec. (e). Pub. L. 101–440, §7(i), added subsec. (e).
 
 1984—Subsec. (a). Pub. L. 98–558, §403(1), substituted provisions that an average of at least forty percent of the funds provided shall be spent for weatherization for former provisions which directed the Secretary to use funds to the maximum extent practicable.
 
-Subsec. (c). Pub. L. 98–558, §403(2), in amending subsec. (c) generally, substituted provisions that expenditures shall not exceed an average of $1,600 per dwelling unit for former provisions which provided for an $800 per dwelling unit limit in par. (1), struck out “(not to exceed $150)” after “the cost” in par. (1)(D), substituted provisions that dwelling units partially weatherized between certain dates could receive further financial assistance under this part for former provisions that $800 limit would not apply if the State policy advisory council requested greater amounts from the Secretary and the Secretary gave approval in par. (2), and deleted former par. (3) which provided that in areas where the Secretary, after consultation with the Secretary of Labor, determined that there was an insufficient number of volunteers and training participants and public service employment workers, assisted pursuant to the Comprehensive Employment and Training Act of 1973, available to work on weatherization projects under the supervision of qualified supervisors and foremen, the Secretary could increase the limitation of $800 to not more than $1,600 to cover the costs of paying persons who would install the weatherization materials and, to the maximum extent practicable, who would otherwise be able to participate as training participants and public service employment workers pursuant to the Comprehensive Employment and Training Act of 1973.
+Subsec. (c). Pub. L. 98–558, §403(2), in amending subsec. (c) generally, substituted provisions that expenditures shall not exceed an average of $1,600 per dwelling unit for former provisions which provided for an $800 per dwelling unit limit in par. (1), struck out “(not to exceed $150)” after “the cost” in par. (1)(D), substituted provisions that dwelling units partially weatherized between certain dates could receive further financial assistance under this part for former provisions that $800 limit would not apply if the State policy advisory council requested greater amounts from the Secretary and the Secretary gave approval in par. (2), and deleted former par. (3) which provided that in areas where the Secretary, after consultation with the Secretary of Labor, determined that there was an insufficient number of volunteers and training participants and public service employment workers, assisted pursuant to the Comprehensive Employment and Training Act of 1973, available to work on weatherization projects under the supervision of qualified supervisors and foremen, the Secretary could increase the limitation of $800 to not more than $1,600 to cover the costs of paying persons who would install the weatherization materials and, to the maximum extent practicable, who would otherwisebe able to participate as training participants and public service employment workers pursuant to the Comprehensive Employment and Training Act of 1973.
 
 Subsec. (d). Pub. L. 98–558, §404, added subsec. (d).
 

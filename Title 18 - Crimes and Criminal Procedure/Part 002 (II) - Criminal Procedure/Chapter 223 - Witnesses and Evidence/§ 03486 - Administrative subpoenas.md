@@ -32,7 +32,7 @@ Authorization.—(1)(A) In any investigation of—
 
 (5) At any time before the return date specified in the summons, the person or entity summoned may, in the United States district court for the district in which that person or entity does business or resides, petition for an order modifying or setting aside the summons, or a prohibition of disclosure ordered by a court under paragraph (6).
 
-(6)(A) A United State <sup>2</sup> district court for the district in which the summons is or will be served, upon application of the United States, may issue an ex parte order that no person or entity disclose to any other person or entity (other than to an attorney in order to obtainlegal advice) the existence of such summons for a period of up to 90 days.
+(6)(A) A United State <sup>2</sup> district court for the district in which the summons is or will be served, upon application of the United States, may issue an ex parte order that no person or entity disclose to any other person or entity (other than to an attorney in order to obtain legal advice) the existence of such summons for a period of up to 90 days.
 
 (B) Such order may be issued on a showing that the things being sought may be relevant to the investigation and there is reason to believe that such disclosure may result in—
 
@@ -68,7 +68,7 @@ Immunity From Civil Liability.—Notwithstanding any Federal, State, or local la
 
 (e)
 
-Limitation on Use.—(1) Health information about an individual that is disclosed under this section may not be used in, or disclosed to any person for use in, any administrative, civil, or criminal action or investigation directed against the individual who is the subject of the information unless the action or investigation arises out of and is directly related to receipt of health care or payment for health care or action involving a fraudulent claim related to health; or if authorized by an appropriate order of a court of competent jurisdiction, granted after application showing good cause therefor.
+Limitation on Use.—(1) Health information about an individual that is disclosed under this section may not be used in, or disclosed to any person for use in, any administrative, civil, or criminal action or investigation directedagainst the individual who is the subject of the information unless the action or investigation arises out of and is directly related to receipt of health care or payment for health care or action involving a fraudulent claim related to health; or if authorized by an appropriate order of a court of competent jurisdiction, granted after application showing good cause therefor.
 
 (2) In assessing good cause, the court shall weigh the public interest and the need for disclosure against the injury to the patient, to the physician-patient relationship, and to the treatment services.
 
@@ -88,7 +88,7 @@ A prior section 3486, acts June 25, 1948, ch. 645, 62 Stat. 833; Aug. 20, 1954, 
 
 2000—Pub. L. 106–544, §5(b)(1), struck out “in Federal health care investigations” after “subpoenas” in section catchline.
 
-Subsec. (a)(1). Pub. L. 106–544, §5(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In any investigation relating to any act or activity involving a Federal health care offense, or anyact or activity involving a Federal offense relating to the sexual exploitation or other abuse of children, the Attorney General or the Attorney General's designee may issue in writing and cause to be served a subpoena—
+Subsec. (a)(1). Pub. L. 106–544, §5(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In any investigation relating to any act or activity involving a Federal health care offense, or any act or activity involving a Federal offense relating to the sexual exploitation or other abuse of children, the Attorney General or the Attorney General's designee may issue in writing and cause to be served a subpoena—
 
 &emsp;“(A) requiring the production of any records (including any books, papers, documents, electronic media, or other objects or tangible things), which may be relevant to an authorized law enforcement inquiry, that a person or legal entity may possess or have care, custody, or control; or
 

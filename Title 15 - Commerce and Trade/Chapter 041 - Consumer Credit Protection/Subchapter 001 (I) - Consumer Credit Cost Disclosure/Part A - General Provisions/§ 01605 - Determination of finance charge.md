@@ -32,7 +32,7 @@ Charges or premiums for insurance, written in connection with any consumer credi
 
 If any of the following items is itemized and disclosed in accordance with the regulations of the Board in connection with any transaction, then the creditor need not include that item in the computation of the finance charge with respect to that transaction:
 
-&emsp;(1) Fees and charges prescribed by law which actually are or will be paid to public officials for determining the existence of or for perfecting or releasing or satisfying any security related to the credit transaction.
+&emsp;(1) Fees and charges prescribed by law which actually are or will be paid to public officialsfor determining the existence of or for perfecting or releasing or satisfying any security related to the credit transaction.
 
 &emsp;(2) The premium payable for any insurance in lieu of perfecting any security interest otherwise required by the creditor in connection with the transaction, if the premium does not exceed the fees and charges described in paragraph (1) which would otherwise be payable.
 

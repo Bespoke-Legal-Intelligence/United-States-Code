@@ -1,9 +1,5 @@
 ### SUBCHAPTER XXIV—HIV HEALTH CARE SERVICES PROGRAM
 
-#### Repeal of Subchapter
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this subchapter is repealed.</i>
-
 
 ---
 
@@ -17,3 +13,4 @@
 - [Part D - Women, Infants, Children, and Youth](Part%20D%20-%20Women%2C%20Infants%2C%20Children%2C%20and%20Youth/README.md)
 - [Part E - General Provisions](Part%20E%20-%20General%20Provisions/README.md)
 - [Part F - Demonstration and Training](Part%20F%20-%20Demonstration%20and%20Training/README.md)
+- [Part G - Notification of Possible Exposure to Infectious Diseases](Part%20G%20-%20Notification%20of%20Possible%20Exposure%20to%20Infectious%20Diseases/README.md)

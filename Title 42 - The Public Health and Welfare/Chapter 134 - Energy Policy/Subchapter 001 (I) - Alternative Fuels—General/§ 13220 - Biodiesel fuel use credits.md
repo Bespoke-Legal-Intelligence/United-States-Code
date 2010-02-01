@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall allocate one credit under this section to a fleet or covered person for each qualifying volume of the biodiesel component of fuel containing at least 20 percent biodiesel by volume purchased after the date of the enactment of this section, for use by the fleet or covered person in vehicles owned or operated by the fleet or covered person that weigh more than 8,500 pounds gross vehicle weight rating.
+&emsp;The Secretary shall allocate one credit under this section to a fleet or covered person for each qualifying volume of the biodieselcomponent of fuel containing at least 20 percent biodiesel by volume purchased after the date of the enactment of this section, for use by the fleet or covered person in vehicles owned or operated by the fleet or covered person that weigh more than 8,500 pounds gross vehicle weight rating.
 
 #### (2) Exceptions
 
@@ -64,7 +64,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) if the Secretary determines by rule that the average annual alternative fuel use in light duty vehicles by fleets and covered persons exceeds 450 gallons or gallon equivalents, the amount of such average annual alternative fuel use.
 
-(Pub. L. 102–486, title III, §312, as added Pub. L. 105–277, div. A, §101(a) \[title XII, §1201(a)\], Oct.21, 1998, 112 Stat. 2681, 2681–48; Pub. L. 105–388, §7(a), Nov. 13, 1998, 112 Stat. 3480; Pub. L. 109–58, title XV, §1515, Aug. 8, 2005, 119 Stat. 1091.)
+(Pub. L. 102–486, title III, §312, as added Pub. L. 105–277, div. A, §101(a) \[title XII, §1201(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–48; Pub. L. 105–388, §7(a), Nov. 13, 1998, 112 Stat. 3480; Pub. L. 109–58, title XV, §1515, Aug. 8, 2005, 119 Stat. 1091.)
 
 #### References in Text
 

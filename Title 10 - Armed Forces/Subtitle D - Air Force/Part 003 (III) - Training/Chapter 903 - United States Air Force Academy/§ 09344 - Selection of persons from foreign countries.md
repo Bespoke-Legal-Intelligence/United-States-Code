@@ -54,7 +54,7 @@ In subsection (c), the words “to any office or position” are omitted as surp
 
 2001—Subsec. (a)(1). Pub. L. 107–107, §533(c)(1), substituted “60” for “40”.
 
-Subsec. (b)(2). Pub. L. 107–107, §533(c)(2)(A), struck out “unless a written waiver of reimbursement isgranted by the Secretary of Defense” before period at end of first sentence.
+Subsec. (b)(2). Pub. L. 107–107, §533(c)(2)(A), struck out “unless a written waiver of reimbursement is granted by the Secretary of Defense” before period at end of first sentence.
 
 Subsec. (b)(3). Pub. L. 107–107, §533(c)(2)(B), added par. (3) and struck out former par. (3) which read as follows: “The amount of reimbursement waived under paragraph (2) may not exceed 50 percent of the per-person reimbursement amount otherwise required to be paid by a foreign country under such paragraph, except in the case of not more than 20 persons receiving instruction at the Air Force Academy under this section at any one time.”
 
@@ -78,7 +78,7 @@ Subsec. (d). Pub. L. 98–94, in amending section generally, added subsec. (d).
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title V, §533(c)(3), Dec. 28, 2001, 115 Stat. 1106, provided that: “The amendments made by paragraph (2) \[amending this section\] shall not apply with respect to any person who entered the United States Air Force Academy to receive instruction under section 9344 of title 10, United States Code, before the date of the enactment of this Act \[Dec. 28, 2001\].”
+Pub. L. 107–107, div. A, title V, §533(c)(3), Dec. 28, 2001, 115 Stat. 1106, provided that: “The amendments madeby paragraph (2) \[amending this section\] shall not apply with respect to any person who entered the United States Air Force Academy to receive instruction under section 9344 of title 10, United States Code, before the date of the enactment of this Act \[Dec. 28, 2001\].”
 
 Amendment by Pub. L. 107–107 inapplicable with respect to any academic year that began before Dec. 28, 2001, see section 533(d) of Pub. L. 107–107, set out as a note under section 4344 of this title.
 

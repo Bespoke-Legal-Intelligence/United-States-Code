@@ -22,7 +22,7 @@ For purposes of this section:
 
 #### (B) Adequately capitalized
 
-&emsp;&emsp;An insured depository institution is “adequately capitalized” if it meets the required minimum level for each relevant capital measure.
+&emsp;&emsp;An insured depository institution is “adequately capitalized” if it meets the requiredminimum level for each relevant capital measure.
 
 #### (C) Undercapitalized
 
@@ -42,7 +42,7 @@ For purposes of this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The “average” of an accounting item (such as total assets or tangible equity)during a given period means the sum of that item at the close of business on each business day during that period divided by the total number of business days in that period.
+&emsp;&emsp;&emsp;The “average” of an accounting item (such as total assets or tangible equity) during a given period means the sum of that item at the close of business on each business day during that period divided by the total number of business days in that period.
 
 #### (ii) Agency may permit weekly averaging for certain institutions
 
@@ -120,7 +120,7 @@ For purposes of this section:
 
 #### (i) Leverage limit
 
-&emsp;&emsp;&emsp;Each appropriate Federal banking agency shall, by regulation, in consultation with the Corporation, specify the ratio of tangible equity to total assets at which an insured depository institution is critically undercapitalized.
+&emsp;&emsp;&emsp;Each appropriate Federal banking agency shall, by regulation, in consultationwith the Corporation, specify the ratio of tangible equity to total assets at which an insured depository institution is critically undercapitalized.
 
 #### (ii) Other relevant capital measures
 
@@ -304,7 +304,7 @@ For purposes of this section:
 
 #### (ii) Retroactive restrictions prohibited
 
-&emsp;&emsp;&emsp;This subparagraph does not authorize the agency to restrict interest rates paid on time deposits made before (and not renewed or renegotiated after) the agency acted under this subparagraph.
+&emsp;&emsp;&emsp;This subparagraph does not authorize the agency to restrict interest rates paidon time deposits made before (and not renewed or renegotiated after) the agency acted under this subparagraph.
 
 #### (D) Restricting asset growth
 
@@ -394,7 +394,7 @@ For purposes of this section:
 
 #### (1) In general
 
-&emsp;If the appropriate Federal banking agency determines (after notice and an opportunity for hearing) that an insured depository institution is in an unsafe or unsound condition or, pursuant to section 1818(b)(8) of this title,deems the institution to be engaging in an unsafe or unsound practice, the agency may—
+&emsp;If the appropriate Federal banking agency determines (after notice and an opportunity for hearing) that an insured depository institution is in an unsafe or unsound condition or, pursuant to section 1818(b)(8) of this title, deems the institution to be engaging in an unsafe or unsound practice, the agency may—
 
 &emsp;&emsp;(A) if the institution is well capitalized, reclassify the institution as adequately capitalized;
 

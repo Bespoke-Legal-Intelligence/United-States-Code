@@ -8,7 +8,7 @@ The Secretary, acting through the Under Secretary for Science and Technology and
 
 The research and development program may include projects—
 
-&emsp;(1) to reduce the vulnerability of over-the-road buses, stations, terminals, and equipment to explosives and hazardous chemical, biological, and radioactive substances, including the development of technology to screen passengers in large numbers with minimal interference and disruption;
+&emsp;(1) to reduce the vulnerability of over-the-road buses, stations, terminals, and equipment to explosives and hazardous chemical, biological, and radioactive substances, including thedevelopment of technology to screen passengers in large numbers with minimal interference and disruption;
 
 &emsp;(2) to test new emergency response and recovery techniques and technologies, including those used at international borders;
 
@@ -52,7 +52,7 @@ The Secretary—
 
 #### (1) Consultation
 
-&emsp;In carrying out research and development projects under this section, the Secretaryshall consult with the Chief Privacy Officer of the Department and the Officer for Civil Rights and Civil Liberties of the Department as appropriate and in accordance with section 142 of this title.
+&emsp;In carrying out research and development projects under this section, the Secretary shall consult with the Chief Privacy Officer of the Department and the Officer for Civil Rights and Civil Liberties of the Department as appropriate and in accordance with section 142 of this title.
 
 #### (2) Privacy impact assessments
 

@@ -30,7 +30,7 @@ Matters To Be Covered By Counseling.—Counseling under this section shall inclu
 
 &emsp;&emsp;(B) civilian occupations that correspond to military occupational specialties; and
 
-&emsp;&emsp;(C) Government and private-sector programs for job search and job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement programs established under sections 1152 and 1153 of this title and the Troops-to-Teachers Program Act of 1999 (20 U.S.C. 9301 et seq.).<sup>1</sup>
+&emsp;&emsp;(C) Government and private-sector programs for job search and job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement programs established under sections 1152 and 1153 of this title and the Troops-to-Teachers Program under section 2302 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6672).
 
 &emsp;(5) If the member has a spouse, job placement counseling for the spouse.
 
@@ -52,7 +52,7 @@ Matters To Be Covered By Counseling.—Counseling under this section shall inclu
 
 &emsp;(14) Information concerning employment and reemployment rights and obligations under chapter 43 of title 38.
 
-&emsp;(15) Information concerning veterans preference in federal <sup>2</sup> employment and federal <sup>2</sup> procurement opportunities.
+&emsp;(15) Information concerning veterans preference in Federal employment and Federal procurement opportunities.
 
 &emsp;(16) Contact information for housing counseling assistance.
 
@@ -60,15 +60,15 @@ Matters To Be Covered By Counseling.—Counseling under this section shall inclu
 
 (c)
 
-Transmittal of Medical Information to Department of Veterans Affairs.—In the case of a member being medically separated or being retired under chapter 61 of this title, the Secretary concerned shall ensure (subject to the consent of the member) that a copy of the member's service medical record (including any results of a Physical Evaluation Board) is transmitted to the Secretary of Veterans Affairs within 60 days of the separation or retirement.
+Transmittal of Medical Information to Department of Veterans Affairs.—In the caseof a member being medically separated or being retired under chapter 61 of this title, the Secretary concerned shall ensure (subject to the consent of the member) that a copy of the member's service medical record (including any results of a Physical Evaluation Board) is transmitted to the Secretary of Veterans Affairs within 60 days of the separation or retirement.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1552; amended Pub. L. 102–190, div. A, title X, §1061(a)(5), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV,§§4401, 4441(b), 4462(b), Oct. 23, 1992, 106 Stat. 2701, 2730, 2740; Pub. L. 103–35, title II, §201(i)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1332(c), Nov. 30, 1993, 107 Stat. 1797; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–103, title III, §302(a), Dec. 27, 2001, 115 Stat. 991; Pub. L. 109–163, div. A, title V, §594, Jan. 6, 2006, 119 Stat. 3281.)
-
-#### References in Text
-
-The Troops-to-Teachers Program Act of 1999, referred to in subsec. (b)(4)(C), is title XVII of div. A of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 817, which was classified principally to chapter 74 (§9301 et seq.) of Title 20, Education, prior to repeal by Pub. L. 107–110, title X, §1011(6), Jan. 8, 2002, 115 Stat. 1986.
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1552; amended Pub. L. 102–190, div. A, title X, §1061(a)(5), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4401, 4441(b), 4462(b), Oct. 23, 1992, 106 Stat. 2701, 2730, 2740; Pub. L. 103–35, title II, §201(i)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1332(c), Nov. 30, 1993, 107 Stat. 1797; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–103, title III, §302(a), Dec. 27, 2001, 115 Stat. 991; Pub. L. 109–163, div. A, title V, §594, Jan. 6, 2006, 119 Stat. 3281; Pub. L. 111–84, div. A, title X, §1073(a)(13), Oct. 28, 2009, 123 Stat. 2473.)
 
 #### Amendments
+
+2009—Subsec. (b)(4)(C). Pub. L. 111–84, §1073(a)(13)(A), substituted “the Troops-to-Teachers Program under section 2302 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6672)” for “the Troops-to-Teachers Program Act of 1999 (20 U.S.C. 9301 et seq.)”.
+
+Subsec. (b)(15). Pub. L. 111–84, §1073(a)(13)(B), substituted “Federal” for “federal” in two places.
 
 2006—Subsec. (b)(4). Pub. L. 109–163, §594(1), substituted “Provision of information on civilian occupations and related assistance programs, including information concerning—
 
@@ -109,8 +109,4 @@ Pub. L. 103–337, div. A, title V, §543(a), Oct. 5, 1994, 108 Stat. 2769, prov
 #### Limitation on Funding To Carry Out Section 543 of Pub. L. 103–337
 
 Pub. L. 103–337, div. A, title V, §543(h), Oct. 5, 1994, 108 Stat. 2772, provided that: “Funds appropriated or otherwise made available to the Department of Defense, the Department of Education, the Department of Labor, or the Department of Veterans Affairs may not be used to carry out subsection (a) \[set out above\] or the amendments made by this section \[amending sections 1144 and 1151 to 1153 of this title and provisions set out as notes under section 1143 of this title\].”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

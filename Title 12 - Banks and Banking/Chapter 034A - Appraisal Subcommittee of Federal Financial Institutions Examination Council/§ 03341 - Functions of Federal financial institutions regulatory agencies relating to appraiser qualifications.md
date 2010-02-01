@@ -54,5 +54,5 @@ Amendment by Pub. L. 109–171 effective no later than the first day of the firs
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L.104–208, formerly set out as a note under section 1821 of this title.
 

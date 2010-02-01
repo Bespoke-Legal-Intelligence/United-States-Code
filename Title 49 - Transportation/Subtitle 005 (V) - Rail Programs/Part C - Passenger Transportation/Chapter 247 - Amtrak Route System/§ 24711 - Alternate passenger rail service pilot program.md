@@ -10,7 +10,7 @@ In General.—Within 1 year after the date of enactment of the Passenger Rail In
 
 &emsp;(3) requires that each bid describe how the bidder would operate the route, what Amtrak passenger equipment would be needed, if any, what sources of non-Federal funding the bidder would use, including any State subsidy, among other things;
 
-&emsp;(4) requires the Administration to select winning bidders by evaluating the bids against the financial and performance metrics developed under section 207 of the Passenger Rail Investment and Improvement Act of 2008 andto give preference in awarding contracts to bidders seeking to operate routes that have been identified as one of the five worst performing Amtrak routes under section 24710;
+&emsp;(4) requires the Administration to select winning bidders by evaluating the bids against the financial and performance metrics developed under section 207 of the Passenger Rail Investment and Improvement Act of 2008 and to give preference in awarding contracts to bidders seeking to operate routes that have been identified as one of the five worst performing Amtrak routes under section 24710;
 
 &emsp;(5) requires the Administration to execute a contract within a specified, limited time after the deadline established under paragraph (2) and award to the winning bidder—
 
@@ -42,7 +42,7 @@ Performance Standards; Access to Facilities; Employees.—If the Administration 
 
 &emsp;(3) the employees of any person used by a rail carrier or rail carriers (as defined in section 10102(5) of this title) in the operation of a route under this section shall be considered an employee of that carrier or carriers and subject to the applicable Federal laws and regulations governing similar crafts or classes of employees of Amtrak, including provisions under section 121 of the Amtrak Reform and Accountability Act of 1997 relating to employees that provide food and beverage service; and
 
-&emsp;(4) the winning bidder shall provide hiring preference to qualified Amtrak employees displaced by the award of the bid, consistent with the staffing plan submitted by the bidder and shall be subject to the grant conditions under section 24405 of this title.
+&emsp;(4) the winning bidder shall provide hiring preference to qualified Amtrak employees displaced by the award of the bid, consistent with the staffing plan submitted by the bidder andshall be subject to the grant conditions under section 24405 of this title.
 
 (d)
 
@@ -76,7 +76,7 @@ Provision of Financial Incentives.—For Amtrak employees who are adversely affe
 
 Conditions for Financial Incentives.—As a condition for receiving financial assistance grants under this section, Amtrak must certify that—
 
-&emsp;“(1) a reasonable attempt was made to reassign an employee adversely affected under section 24711 of title 49, United States Code, or by the elimination ofany route, to other positions within Amtrak in accordance with any contractual agreements;
+&emsp;“(1) a reasonable attempt was made to reassign an employee adversely affected under section 24711 of title 49, United States Code, or by the elimination of any route, to other positions within Amtrak in accordance with any contractual agreements;
 
 &emsp;“(2) the financial assistance results in a net reduction in the total number of employees equal to the number receiving financial incentives;
 

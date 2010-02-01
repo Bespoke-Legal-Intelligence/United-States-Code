@@ -42,7 +42,7 @@
 
 &emsp;(9) To the extent authorized under section 1482(f) of this title, any retired member of an armed force who dies while outside the United States or any individual who dies outside the United States while a dependent of such a member.
 
-(b) This section applies to each person covered by subsection (a)(1)–(7) even though he may have been temporarily absent from active duty, with or without leave, at the time of his death, unless he had been dropped from the rolls of his organization before his death.
+(b) This section applies to each person covered by subsection (a)(1)–(7) even though he may have been temporarily absent from active duty, withor without leave, at the time of his death, unless he had been dropped from the rolls of his organization before his death.
 
 (c) In this section, the term “dependent” has the meaning given such term in section 1072(2) of this title.
 
@@ -72,7 +72,7 @@ July 15, 1954, ch. 507, §§1, 2 (1st 25 words, as applicable to armed forces), 
 
 In subsection (a), 5:2151 is omitted as covered by the revised sections of this chapter. In clauses (1), (2), (5)–(7), the words “under his jurisdiction” are inserted for clarity. In clause (1) the words “regular member of an armed force, or member of an armed force without component” are substituted for the words “military personnel”, since all other members of the military services are covered by more specific rules set forth in clauses (2) and (7). In clauses (2) and (3), the words “active duty for training” are omitted as covered by the words “active duty”. The words “injury incurred, or disease contracted” are substituted for the words “injuries, illness, or disease contracted or incurred”. The words “by law”, “authorized”, “proper authority”, and “as authorized by law” are omitted as surplusage. In clause (3), the words “while entitled to” are substituted for the words “in respect of duty for which they are entitled by law to receive”. In clause (4), the words “injury incurred, or disease contracted” are substituted for the words “injury, disease or illness contracted or incurred”. The words “as authorized by law” are omitted as surplusage. In clause (6), the word “person” is substituted for the words “former enlisted members”. In clause (7), the words “active duty for a period of more than 30 days” are substituted for the words “extended active duty”.
 
-In subsection (b), the words “This section applies to each person \* \* \* even though” are substituted for the words “The benefits of this Act shall not be denied in respect of a person \* \* \* on the ground”.
+In subsection (b), the words “This section applies to each person even though” are substituted for the words “The benefits of this Act shall not be denied in respect of a person on the ground”.
 
 #### Amendments
 
@@ -118,7 +118,7 @@ Section 652(a)(3) of Pub. L. 103–337 provided that: “The amendments made by 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravatean injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
+Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) ofPub. L. 99–661, set out as a note under section 1074a of this title.
 
 #### Requirement for Deploying Military Medical Personnel To Be Trained in Preservation of Remains Under Combat or Combat-Related Conditions
 

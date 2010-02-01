@@ -16,7 +16,7 @@ Included Actions.—The appropriate actions referred to in subsection (a) shall 
 
 Coordination.—The Secretary of Defense shall, to the maximum extent practicable, pursue the attainment of the capabilities described in subsection (a) in coordination with the Administrator of the National Aeronautics and Space Administration.
 
-(Added Pub. L. 108–136, div. A, title IX, §912(a)(1), Nov. 24, 2003, 117 Stat. 1565; Pub. L. 110–181, div. A, title IX, §931(a)(12), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(11), Oct. 14, 2008, 122 Stat. 4576.)
+(Added Pub. L. 108–136, div. A, title IX, §912(a)(1), Nov. 24, 2003, 117 Stat. 1565; Pub. L. 110–181, div. A, title IX, §931(a)(12), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(11), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475.)
 
 #### Prior Provisions
 
@@ -24,5 +24,11 @@ A prior section 2273, acts Aug. 10, 1956, ch. 1041, 70A Stat. 125; Apr. 2, 1982,
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–181 and Pub. L. 110–417 amended par. (1) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”.
+2009—Subsec. (b)(1). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(11). See 2008 Amendment note below.
+
+2008—Subsec. (b)(1). Pub. L. 110–181 and Pub. L. 110–417, §932(a)(11), amended par. (1) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, §932(a)(11), was repealed by Pub. L. 111–84.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 

@@ -22,7 +22,7 @@ In General.—(1) The Secretary of Defense shall carry out four quadrennial surv
 
 Armed Forces Workplace and Equal Opportunity Surveys.—The Armed Forces Workplace and Equal Opportunity Surveys shall be conducted so as to solicit information on racial and ethnic issues, including issues relating to harassment and discrimination, and the climate in the armed forces for forming professional relationships among members of the armed forces of various racial and ethnic groups. Both such surveys shall be conducted so as to solicit information on the following:
 
-&emsp;(1) Indicators of positive and negative trends for professional and personal relationships among members of all racial and ethnic groups.
+&emsp;(1) Indicators of positive and negative trends for professional and personal relationshipsamong members of all racial and ethnic groups.
 
 &emsp;(2) The effectiveness of Department of Defense policies designed to improve relationships among all racial and ethnic groups.
 
@@ -106,7 +106,7 @@ Matters To Be Included.—The report for a fiscal year under subsection (a) shal
 
 &emsp;“(7) The extent of assignments of female members during that fiscal year in each field in which at least 80 percent of the Armed Forces personnel assigned in the field are men.
 
-&emsp;“(8) The incidence of sexual harassment complaints made during that fiscal year, stated as the number of cases in which complaints of sexual harassment were filed under procedures of military departments that are applicable to the submission of sexual harassment complaints, together with the number and percent of the complaints that were substantiated.
+&emsp;“(8) The incidence of sexual harassment complaints made during that fiscal year, stated as the number ofcases in which complaints of sexual harassment were filed under procedures of military departments that are applicable to the submission of sexual harassment complaints, together with the number and percent of the complaints that were substantiated.
 
 &emsp;“(9) Satisfaction (based on surveys) of female active-duty members, female dependents of active-duty members, and female dependents of nonactive duty members entitled to health care provided by the Department of Defense with access to, and quality of, women's health care benefits provided by the Department of Defense.
 

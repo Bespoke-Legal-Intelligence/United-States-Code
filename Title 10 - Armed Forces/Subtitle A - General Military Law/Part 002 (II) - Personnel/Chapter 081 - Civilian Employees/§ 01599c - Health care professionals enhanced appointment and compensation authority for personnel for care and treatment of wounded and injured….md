@@ -10,7 +10,7 @@ In General.—(1) The Secretary of Defense may, at the discretion of the Secreta
 
 &emsp;(ii) utilize the authorities in such sections to recruit and appoint highly qualified persons directly to positions so designated.
 
-(B) In using the authority provided by this paragraph, the Secretary shall apply the principles of preference for the hiring of veterans and other persons established in subchapter 1 <sup>1</sup> of chapter 33 of title 5.
+(B) In using the authority provided by this paragraph, the Secretary shall apply the principles of preference for the hiring of veterans and other persons established in subchapter 1<sup>1</sup> of chapter 33 of title 5.
 
 (b)
 

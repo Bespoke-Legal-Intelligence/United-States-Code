@@ -42,7 +42,7 @@
 
 #### (B) Enrollment exception
 
-&emsp;&emsp;Notwithstanding the enrollment requirement contained in subparagraph (A), an institution may use an amount equal to notmore than 10 percent of the institution's grant under this section for the development of a new qualified masters degree program.
+&emsp;&emsp;Notwithstanding the enrollment requirement contained in subparagraph (A), an institution may use an amount equal to not more than 10 percent of the institution's grant under this section for the development of a new qualified masters degree program.
 
 #### (3) Institutional choice
 
@@ -102,7 +102,7 @@ Subject to subsection (g), of the amount appropriated to carry out this section 
 
 &emsp;(1) the first $2,500,000 (or any lesser amount appropriated) shall be available only for the purposes of making minimum grants under subsection (a)(3) to eligible institutions listed in subparagraphs (A) through (E) of subsection (b)(1), except that if the amount appropriated is not sufficient to pay the minimum grant awards to all such eligible institutions, the amount of the minimum award to each such eligible institution shall be ratably reduced;
 
-&emsp;(2) after the application of paragraph (1), an amount shall be available for the purpose of making minimum grants under subsection (a)(3) to eligible institutions described in subsection (b)(1) that do not receive a grant under paragraph (1), if any, except that if the amount appropriated is not sufficient to pay the minimum grant awards to all such eligible institutions, the amount of the minimum award to each such eligible institution shall be ratably reduced; and
+&emsp;(2) after the application of paragraph (1), an amount shall be available for the purpose ofmaking minimum grants under subsection (a)(3) to eligible institutions described in subsection (b)(1) that do not receive a grant under paragraph (1), if any, except that if the amount appropriated is not sufficient to pay the minimum grant awards to all such eligible institutions, the amount of the minimum award to each such eligible institution shall be ratably reduced; and
 
 &emsp;(3) any amount in excess of $2,500,000 shall be made available to each of the eligible institutions identified in subparagraphs (A) through (E) of subsection (b)(1), pursuant to a formula developed by the Secretary that uses the following elements:
 
@@ -110,7 +110,7 @@ Subject to subsection (g), of the amount appropriated to carry out this section 
 
 &emsp;&emsp;(B) The number of students enrolled in the qualified masters degree program at the eligible institution in the previous academic year.
 
-&emsp;&emsp;(C) The average cost of attendance per student, for all full-time students enrolled inthe qualified masters degree program at such institution.
+&emsp;&emsp;(C) The average cost of attendance per student, for all full-time students enrolled in the qualified masters degree program at such institution.
 
 &emsp;&emsp;(D) The number of students in the previous year who received a degree in the qualified masters degree program at such institution.
 

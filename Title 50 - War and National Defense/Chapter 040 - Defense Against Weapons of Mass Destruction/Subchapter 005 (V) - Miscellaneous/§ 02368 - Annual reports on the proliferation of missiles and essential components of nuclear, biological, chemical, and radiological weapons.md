@@ -50,7 +50,7 @@ The countries excluded under subsection (a) of this section are Australia, Belgi
 
 #### (e) Classification of report
 
-The Secretary shall make every effort to submit all of the information required by this section in unclassified form. Whenever the Secretary submits any such information in classified form, the Secretary shall submit such classified information in an addendum and shall also submit concurrently a detailed summary, in unclassified form, of that classified information.
+The Secretary shall make every effort to submit all of the information required by this section in unclassified form. Whenever the Secretary submits any such information in classified form, the Secretary shall submit such classified information in an addendum and shall alsosubmit concurrently a detailed summary, in unclassified form, of that classified information.
 
 #### (f) Definitions
 

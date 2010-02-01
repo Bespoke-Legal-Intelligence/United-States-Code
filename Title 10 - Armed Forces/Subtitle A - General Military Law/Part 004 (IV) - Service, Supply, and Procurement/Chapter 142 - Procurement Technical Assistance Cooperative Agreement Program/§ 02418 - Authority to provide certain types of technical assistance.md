@@ -2,7 +2,7 @@
 
 (a) The procurement technical assistance furnished by eligible entities assisted by the Department of Defense under this chapter may include technical assistance relating to contracts entered into with (1) Federal departments and agencies other than the Department of Defense, and (2) State and local governments.
 
-(b) An eligible entity assisted by the Department of Defense under this chapter also may furnish information relating to assistance and other programs available pursuant to the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992.
+(b) An eligible entity assisted by the Department of Defense under this chapter also may furnish information relating to assistance andother programs available pursuant to the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992.
 
 (Added Pub. L. 102–484, div. D, title XLII, §4236(a)(1)(B), Oct. 23, 1992, 106 Stat. 2691.)
 

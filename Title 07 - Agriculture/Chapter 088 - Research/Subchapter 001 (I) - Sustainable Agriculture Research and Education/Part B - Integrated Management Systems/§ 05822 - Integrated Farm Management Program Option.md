@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Agriculture (hereafter in this section referred to as the “Secretary”) shall, by regulation, establish a voluntary program, to be known as the “Integrated Farm Management Program Option” (hereafter referred to in this section as the “program”), designed to assist producers of agricultural commodities in adopting integrated, multiyear, site-specific farm management plans by reducing farm programbarriers to resource stewardship practices and systems.
+The Secretary of Agriculture (hereafter in this section referred to as the “Secretary”) shall, by regulation, establish a voluntary program, to be known as the “Integrated Farm Management Program Option” (hereafter referred to in this section as the “program”), designed to assist producers of agricultural commodities in adopting integrated, multiyear, site-specific farm management plans by reducing farm program barriers to resource stewardship practices and systems.
 
 #### (b) Definitions
 
@@ -50,7 +50,7 @@ In accepting contracts for the program, the Secretary, to the extent practicable
 
 #### (e) Contracts
 
-The Secretary shall enter into contracts with producers to enroll acreage in the program. Such contracts shall be for a period of not less than 3 years, but may, at the producer's option, be for a longer period of time (up to 5 years) and may be renewed upon mutual agreement between the Secretary and the producer.
+The Secretary shall enter into contracts with producers to enroll acreage in the program.Such contracts shall be for a period of not less than 3 years, but may, at the producer's option, be for a longer period of time (up to 5 years) and may be renewed upon mutual agreement between the Secretary and the producer.
 
 #### (f) Requirements of plans
 
@@ -88,7 +88,7 @@ Each plan approved by the Secretary shall—
 
 #### (C) Flexibility
 
-&emsp;&emsp;In administering the program, the Secretary shall provide sufficient flexibility fora producer to adjust or modify the producer's plan consistent with this section, except that such adjustments or modifications must be approved by the Secretary.
+&emsp;&emsp;In administering the program, the Secretary shall provide sufficient flexibility for a producer to adjust or modify the producer's plan consistent with this section, except that such adjustments or modifications must be approved by the Secretary.
 
 #### (D) Minimization of adverse effect
 
@@ -142,7 +142,7 @@ Each plan approved by the Secretary shall—
 
 #### (B) Limitation on permitted haying and grazing
 
-&emsp;&emsp;Notwithstanding any other provision of this section, if the Secretary determines that implementation of this section will result in a significant adverse economic impact on hay or livestock prices in a particular geographic area, the Secretary may limit the quantity of hay that can be harvested or grazed from that area. Such limit may include restrictions on the number of times that hay may be harvested or grazed from the acres per year, the timing of such harvesting and grazing, or the number of years that such land may remain in the same hay stand, or a prohibition on the harvesting orgrazing of hay from acres on which a small grain was not originally interplanted with the hay crop and harvested for grain.
+&emsp;&emsp;Notwithstanding any other provision of this section, if the Secretary determines that implementation of this section will result in a significant adverse economic impact on hay or livestock prices in a particular geographic area, the Secretary may limit the quantity of hay that can be harvested or grazed from that area. Such limit may include restrictions on the number of times that hay may be harvested or grazed from the acres per year, the timing of such harvesting and grazing, or the number of years that such land may remain in the same hay stand, or a prohibition on the harvesting or grazing of hay from acres on which a small grain was not originally interplanted with the hay crop and harvested for grain.
 
 #### (6) Base acre adjustments
 

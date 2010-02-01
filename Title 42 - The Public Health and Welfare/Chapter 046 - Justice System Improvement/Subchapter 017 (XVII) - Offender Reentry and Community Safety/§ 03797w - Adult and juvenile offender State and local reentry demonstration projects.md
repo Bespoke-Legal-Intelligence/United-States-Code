@@ -126,7 +126,7 @@ The Attorney General shall give priority to grant applications under this sectio
 
 &emsp;As a condition of receiving financial assistance under this section, each applicant shall establish or empower a Reentry Task Force, or other relevant convening authority, to—
 
-&emsp;&emsp;(A) examine ways to pool resources and funding streams to promote lower recidivism rates for returning offenders and minimize the harmful effects of offenders’ time in prison, jail, or a juvenile facility on families and communities of offenders by collecting data and best practices in offender reentry from demonstration grantees and other agencies and organizations; and
+&emsp;&emsp;(A) examine ways to pool resources and funding streams to promote lower recidivismrates for returning offenders and minimize the harmful effects of offenders’ time in prison, jail, or a juvenile facility on families and communities of offenders by collecting data and best practices in offender reentry from demonstration grantees and other agencies and organizations; and
 
 &emsp;&emsp;(B) provide the analysis described in subsection (e)(4).
 

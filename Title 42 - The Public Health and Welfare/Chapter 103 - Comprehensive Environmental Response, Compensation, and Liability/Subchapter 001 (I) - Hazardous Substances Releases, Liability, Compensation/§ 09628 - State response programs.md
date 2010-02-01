@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) an appropriate State official shall consider and appropriately respond to a request under subclause (I).
 
-&emsp;&emsp;(D) Mechanisms for approval of a cleanup plan, and a requirement for verification by and certification or similar documentation from the State, an Indian tribe, or a licensed site professional to the person conducting a response action indicating that the response is complete.
+&emsp;&emsp;(D) Mechanisms for approval of a cleanup plan, and a requirement for verification byand certification or similar documentation from the State, an Indian tribe, or a licensed site professional to the person conducting a response action indicating that the response is complete.
 
 #### (3) Funding
 
@@ -116,7 +116,7 @@
 
 #### (iii) Immediate Federal action
 
-&emsp;&emsp;&emsp;The Administrator may take action immediately after giving notification under clause (i) without waiting for a State reply under clause (ii) if the Administrator determines that one or more exceptions under subparagraph (B) are met.
+&emsp;&emsp;&emsp;The Administrator may take action immediately after giving notification underclause (i) without waiting for a State reply under clause (ii) if the Administrator determines that one or more exceptions under subparagraph (B) are met.
 
 #### (E) Report to Congress
 

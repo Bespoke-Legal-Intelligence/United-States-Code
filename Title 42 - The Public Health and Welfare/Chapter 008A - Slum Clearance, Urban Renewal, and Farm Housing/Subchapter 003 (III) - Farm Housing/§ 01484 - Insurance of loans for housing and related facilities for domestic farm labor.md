@@ -58,7 +58,7 @@ As used in this section—
 
 #### (g) Waiver of interest rate limitations
 
-The Secretary may waive the interest rate limitation contained in subsection (a)(2) of this section and the requirement of section 1471(c)(3) of this title in any case in which the Secretary determines that qualified public or private nonprofit sponsors are not currently available and are not likely to become available within a reasonable period of time and such waiver is necessary to permit farmers to provide housing and related facilities for migrant domestic farm laborers, except that the benefits resulting from such waiver shall accrue to the tenants, and theinterest rate on a loan insured under this section and for which the Secretary permits such waiver shall be no less than one-eighth of 1 per centum above the average interest rate on notes or other obligations which are issued under section 1481 of this title and have maturities comparable to such a loan.
+The Secretary may waive the interest rate limitation contained in subsection (a)(2) of this section and the requirement of section 1471(c)(3) of this title in any case in which the Secretary determines that qualified public or private nonprofit sponsors are not currently available and are not likely to become available within a reasonable period of time and such waiver is necessary to permit farmers to provide housing and related facilities for migrant domestic farm laborers, except that the benefits resulting from such waiver shall accrue to the tenants, and the interest rate on a loan insured under this section and for which the Secretary permits such waiver shall be no less than one-eighth of 1 per centum above the average interest rate on notes or other obligations which are issued under section 1481 of this title and have maturities comparable to such a loan.
 
 #### (h) Determination of need for assistance
 
@@ -130,7 +130,7 @@ Subsec. (f)(1), (2). Pub. L. 91–609, §801(c), substituted “structures (incl
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

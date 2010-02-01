@@ -28,5 +28,5 @@ The word “award” is substituted for the word “present” to cover the dete
 
 #### Amendments
 
-1963—Pub. L. 88–77 enlarged the authority to award the Navy cross, which was limited to those cases in which persons distinguished themselves in connection with military operations against an armed enemy, to permit its award for extraordinary heroism not justifying the award of a medal of honor, while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
+1963—Pub. L. 88–77 enlarged the authority to award the Navy cross, which was limited to those cases inwhich persons distinguished themselves in connection with military operations against an armed enemy, to permit its award for extraordinary heroism not justifying the award of a medal of honor, while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 

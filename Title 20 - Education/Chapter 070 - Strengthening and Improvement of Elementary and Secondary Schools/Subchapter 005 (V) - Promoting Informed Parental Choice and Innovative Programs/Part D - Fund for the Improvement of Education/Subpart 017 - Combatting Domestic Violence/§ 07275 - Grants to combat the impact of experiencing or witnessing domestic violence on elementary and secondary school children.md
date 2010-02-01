@@ -38,7 +38,7 @@ In this section:
 
 #### (1) Authority
 
-&emsp;The Secretary is authorized to award grants to local educational agencies that work withexperts to enable the elementary schools and secondary schools served by the local educational agency—
+&emsp;The Secretary is authorized to award grants to local educational agencies that work with experts to enable the elementary schools and secondary schools served by the local educational agency—
 
 &emsp;&emsp;(A) to provide training to school administrators, faculty, and staff, with respect to issues concerning children who experience domestic violence in dating relationships or who witness domestic violence, and the impact of the violence on the children;
 

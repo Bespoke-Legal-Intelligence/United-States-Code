@@ -6,7 +6,7 @@ Not later than 1 year after January 8, 2002, the Secretary shall establish withi
 
 #### (b) Functions
 
-In consultation with the tribal governing bodies and tribal school boards, the Director of the Office, through the Division, shall conduct studies, surveys, or other activities to gather demographic information on Bureau-funded schools and project the amount necessary to provide Indian students in such schools the educational program set forth in this chapter.
+In consultation with the tribal governing bodies and tribal school boards, the Director of theOffice, through the Division, shall conduct studies, surveys, or other activities to gather demographic information on Bureau-funded schools and project the amount necessary to provide Indian students in such schools the educational program set forth in this chapter.
 
 #### (c) Annual reports
 
@@ -28,5 +28,5 @@ The Director of the Office and the Assistant Secretary for Indian Affairs shall 
 
 A prior section 2009, Pub. L. 95–561, title XI, §1129, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3998, related to Division of Budget Analysis, prior to the general amendment of this chapter by Pub. L. 107–110.
 
-Another prior section 2009, Pub. L. 95–561, title XI, §1129, Nov. 1, 1978, 92 Stat. 2321; Pub. L. 98–511, title V,§§506, 507(a), Oct. 19, 1984, 98 Stat. 2395, 2396; Pub. L. 99–89, §6, Aug. 15, 1985, 99 Stat. 382; Pub. L. 99–570, title IV, §4133(b)(4), Oct. 27, 1986, 100 Stat. 3207–134; Pub. L. 100–297, title V, §§5109, 5110, 5118, Apr. 28, 1988, 102 Stat. 375, 376, 382; Pub. L. 100–427, §§6, 9(d), Sept. 9, 1988, 102 Stat. 1605, 1607, related to uniform direct funding and support, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2009, Pub. L. 95–561, title XI, §1129, Nov. 1, 1978, 92 Stat. 2321; Pub. L. 98–511, title V, §§506, 507(a), Oct. 19, 1984, 98 Stat. 2395, 2396; Pub. L. 99–89, §6, Aug. 15, 1985, 99 Stat. 382; Pub. L. 99–570, title IV, §4133(b)(4), Oct. 27, 1986, 100 Stat. 3207–134; Pub. L. 100–297, title V, §§5109, 5110, 5118, Apr. 28, 1988, 102 Stat. 375, 376, 382; Pub. L. 100–427, §§6, 9(d), Sept. 9, 1988, 102 Stat. 1605, 1607, related to uniform direct funding and support, prior to the general amendment of this chapter by Pub. L. 103–382.
 

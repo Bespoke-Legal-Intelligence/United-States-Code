@@ -12,7 +12,7 @@
 
 (2) Except as provided in paragraphs (3) and (4) of this subsection, the following fish tender vessels are exempt from section 3301(1), (6), (7), (11), and (12) of this title:
 
-&emsp;(A) A vessel of not more than 500 gross tons as measured under section 14502 of this title or an alternate tonnage measured under section14302 of this title as prescribed by the Secretary under section 14104 of this title.
+&emsp;(A) A vessel of not more than 500 gross tons as measured under section 14502 of this title oran alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title.
 
 &emsp;(B) A vessel engaged in the Aleutian trade that is not more than 2,500 gross tons as measured under section 14302 of this title.
 

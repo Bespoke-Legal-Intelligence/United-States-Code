@@ -18,7 +18,7 @@ In any proceeding described in subsection (a) of this section, the Trade Represe
 
 &emsp;&emsp;(D) seeking written comments from the public concerning the issues raised in the dispute; and
 
-&emsp;(2) take into account any advice received from appropriate congressional committeesand relevant private sector advisory committees referred to in subsection (a) of this section, and written comments received pursuant to paragraph (1)(D), in preparing United States submissions to the panel or the Appellate Body.
+&emsp;(2) take into account any advice received from appropriate congressional committees and relevant private sector advisory committees referred to in subsection (a) of this section, and written comments received pursuant to paragraph (1)(D), in preparing United States submissions to the panel or the Appellate Body.
 
 #### (c) Access to documents
 

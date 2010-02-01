@@ -48,7 +48,7 @@ Each online pharmacy shall post in a visible and clear manner on the homepage of
 
 #### (e) Declaration of compliance
 
-On and after the date on which it makes the notification under subsection (d), each online pharmacy shall display on the homepage of its Internet site, in such form as the Attorney General shall by regulation require, a declaration that it has made such notification to the Attorney General.
+On and after the date on which it makes the notification under subsection (d), each onlinepharmacy shall display on the homepage of its Internet site, in such form as the Attorney General shall by regulation require, a declaration that it has made such notification to the Attorney General.
 
 #### (f) Reports
 

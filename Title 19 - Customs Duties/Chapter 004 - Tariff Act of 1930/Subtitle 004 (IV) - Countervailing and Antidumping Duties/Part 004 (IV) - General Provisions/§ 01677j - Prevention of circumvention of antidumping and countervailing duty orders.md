@@ -142,7 +142,7 @@
 
 &emsp;&emsp;(A) is classified under a tariff classification other than that identified in the petition or the administering authority's prior notices during the proceeding, or
 
-&emsp;&emsp;(B) permits the purchaser to perform additional functions, unless such additional functions constitute the primary use of the merchandise and the cost of the additional functions constitute more than a significantproportion of the total cost of production of the merchandise.
+&emsp;&emsp;(B) permits the purchaser to perform additional functions, unless such additional functions constitute the primary use of the merchandise and the cost of the additional functions constitute more than a significant proportion of the total cost of production of the merchandise.
 
 #### (e) Commission advice
 

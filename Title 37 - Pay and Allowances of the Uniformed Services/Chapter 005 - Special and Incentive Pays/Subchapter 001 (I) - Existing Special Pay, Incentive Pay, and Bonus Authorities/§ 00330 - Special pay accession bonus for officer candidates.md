@@ -20,7 +20,7 @@ Agreement.—A written agreement referred to in subsection (a) is a written agre
 
 (d)
 
-Payment Method.—Upon acceptance of a written agreement under subsection (a) by theSecretary concerned, the total amount of the accession bonus payable under the agreement becomes fixed. The agreement shall specify whether the accession bonus will be paid in a lump sum or installments.
+Payment Method.—Upon acceptance of a written agreement under subsection (a) by the Secretary concerned, the total amount of theaccession bonus payable under the agreement becomes fixed. The agreement shall specify whether the accession bonus will be paid in a lump sum or installments.
 
 (e)
 
@@ -28,11 +28,13 @@ Repayment.—A person who, having received all or part of the bonus under a writ
 
 (f)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2009.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2010.
 
-(Added Pub. L. 109–364, div. A, title VI, §622(a)(1), Oct. 17, 2006, 120 Stat. 2255; amended Pub. L. 110–181, div. A, title VI, §614(g), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §614(g), Oct. 14, 2008, 122 Stat. 4485.)
+(Added Pub. L. 109–364, div. A, title VI, §622(a)(1), Oct. 17, 2006, 120 Stat. 2255; amended Pub. L. 110–181, div. A, title VI, §614(g), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §614(g), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(8), Oct. 28, 2009, 123 Stat. 2354.)
 
 #### Amendments
+
+2009—Subsec. (f). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 
 2008—Subsec. (f). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
 

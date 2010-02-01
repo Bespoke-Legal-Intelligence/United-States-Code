@@ -36,7 +36,7 @@ Congress does not intend that the designation of the Kelly Butte Special Managem
 
 The U.S. mining laws and the mineral leasing laws, referred to in subsec. (b)(4), are classified generally to Title 30, Mineral Lands and Mining.
 
-The Geothermal Steam Act of 1970, referred to in subsec. (b)(4), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, as amended, which is classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
+The Geothermal Steam Act of 1970, referred to in subsec. (b)(4), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566,as amended, which is classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
 
 #### Interstate 90 Land Exchange
 
@@ -44,7 +44,7 @@ Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §346(a), (e)–(g), (i)\],
 
 “(a) This section \[enacting and amending provisions set out as notes below\] shall be referred to as the ‘Interstate 90 Land Exchange Amendment’.
 
-“(e) Section 604(b) \[section 101(e) \[title VI, §604(b)\] of Pub. L. 105–277, set out below\] is further amended by inserting the following before the colon: ‘except Township 19 North, Range 10 East, W.M., Section 4, Township 20 North, Range 10 East, W.M., Section 32, and Township 21 North, Range 14 East, W.M., W1/2W1/2 of Section 16, Township 12 North, Range 7 East, Sections 4 and 5, W.M., Township 13 North, Range 7 East, Sections 32 and 33, W.M., Township 8 North, Range 4 East, Section 17 and the S1/2 of 16, W.M., which shall be retained by theUnited States’. The Appraisal shall be adjusted by subtracting the values determined for Township 19 North, Range 10 East, W.M., Section 4, Township 20 North, Range 10 East, W.M., Section 32, Township 12 North, Range 7 East, Sections 4 and 5, W.M., Township 13 North, Range 7 East, Sections 32 and 33, W.M., Township 8 North, Range 4 East, Section 17 and the S1/2 of Section 16, W.M. during the Appraisal process in the context of the whole estate to be conveyed.
+“(e) Section 604(b) \[section 101(e) \[title VI, §604(b)\] of Pub. L. 105–277, set out below\] is further amended by inserting the following before the colon: ‘except Township 19 North, Range 10 East, W.M., Section 4, Township 20 North, Range 10 East, W.M., Section 32, and Township 21 North, Range 14 East, W.M., W1/2W1/2 of Section 16, Township 12 North, Range 7 East, Sections 4 and 5, W.M., Township 13 North, Range 7 East, Sections 32 and 33, W.M., Township 8 North, Range 4 East, Section 17 and the S1/2 of 16, W.M., which shall be retained by the United States’. The Appraisal shall be adjusted by subtracting the values determined for Township 19 North, Range 10 East, W.M., Section 4, Township 20 North, Range 10 East, W.M., Section 32, Township 12 North, Range 7 East, Sections 4 and 5, W.M., Township 13 North, Range 7 East, Sections 32 and 33, W.M., Township 8 North, Range 4 East, Section 17 and the S1/2 of Section 16, W.M. during the Appraisal process in the context of the whole estate to be conveyed.
 
 “(f) After adjustment of the Appraisal, the values of the offered and selected lands, including the offered lands held in escrow, shall be equalized as follows:
 
@@ -166,11 +166,11 @@ Conveyance of Selected Land by the United States.—Upon receipt of acceptable t
 
 “(c)
 
-Offered Land Title.—If Plum Creek conveys title acceptable to the Secretary to less than all rights and interests in the offered lands, but conveys title acceptable to the Secretary to all rights and interests that Plum Creek owns and acquires under previous agreements in the lands described in subsection (d), the offered lands, and lands on the east and west sides of Cle Elum Lake, comprising approximately 252 acres, described as Township 21 North, Range 14 East, Section 5, and Lost Lake lands comprising approximately 272 acres, described as Township 21 North, Range 11 East, W1/2 of Section 3, the Secretary shall convey to Plum Creek all rights and interest in the selected land after the values of the offered and selected land are equalized. The values of the offered and selected lands shall be equalized as provided in section 605(c)–(e) without regard to the value of lands described in subsection (d) or the Cle Elum or Lost Lake lands.
+Offered Land Title.—If Plum Creek conveys title acceptable to the Secretary to less than all rights and interests in the offered lands, but conveys title acceptable to the Secretary to all rights and interests that Plum Creek owns and acquires under previous agreements in the lands described in subsection (d), the offered lands, and lands on the east and west sides ofCle Elum Lake, comprising approximately 252 acres, described as Township 21 North, Range 14 East, Section 5, and Lost Lake lands comprising approximately 272 acres, described as Township 21 North, Range 11 East, W1/2 of Section 3, the Secretary shall convey to Plum Creek all rights and interest in the selected land after the values of the offered and selected land are equalized. The values of the offered and selected lands shall be equalized as provided in section 605(c)–(e) without regard to the value of lands described in subsection (d) or the Cle Elum or Lost Lake lands.
 
 “(d)
 
-Land Donation.—Plum Creek agrees that it will convey, in the form of a voluntary donation, title acceptable to the Secretary in and to lands and interests in lands comprising approximately 320 acres, described as Township 22 North, Range 11 East, S1/2 of Section 13, if Plum Creek conveys title to lands and interests pursuant to subsections (a) or (c). It is the intention of Congress that any portion of such donated land which the Secretary determines qualifies as wilderness be, upon the date of its acquisition by the United States, incorporated in and managed as part of the adjacentAlpine Lakes Wilderness (as designated by Public Law 94–357) in accordance with section 6(a) of the Wilderness Act (16 U.S.C. 1135).
+Land Donation.—Plum Creek agrees that it will convey, in the form of a voluntary donation, title acceptable to the Secretary in and to lands and interests in lands comprising approximately 320 acres, described as Township 22 North, Range 11 East, S1/2 of Section 13, if Plum Creek conveys title to lands and interests pursuant to subsections (a) or (c). It is the intention of Congress that any portion of such donated land which the Secretary determines qualifies as wilderness be, upon the date of its acquisition by the United States, incorporated in and managed as part of the adjacent Alpine Lakes Wilderness (as designated by Public Law 94–357) in accordance with section 6(a) of the Wilderness Act (16 U.S.C. 1135).
 
 #### “SEC. 605. EXCHANGE VALUATION, APPRAISALS AND EQUALIZATION.
 
@@ -280,7 +280,7 @@ Order of deletion.—Selected land deletions under paragraph 1 shall be made in 
 
 &emsp;&emsp;“(G) Township 18 North, Range 15 East, Section 17, Willamette Meridian.
 
-“(e) Once the values of the offered and selected lands are equalized to the maximum extent practicable under subsections (c) or (d), any cash equalization balance due the Secretary or Plum Creek shall be made through cash equalization payments under subsection 206(b) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1716(b)).
+“(e) Once the values of the offered and selected lands are equalized to the maximum extent practicable under subsections (c) or (d), any cash equalization balance due the Secretary or Plum Creek shall be made through cash equalization payments under subsection 206(b) ofthe Federal Land Policy and Management Act of 1976 (43 U.S.C. 1716(b)).
 
 “(f)
 
@@ -382,7 +382,7 @@ Access Limitation.—The Secretary shall not grant any road easements that would
 
 “(a)
 
-Finding.—The Congress finds that certain lands owned by Plum Creek in the vicinity of the offered lands (but which are not included in the land exchange under this Act, or are deleted under section 605(c)) are highly desirable for addition to the National Forest System, and that Plum Creek has indicated its willingness to sell certain such lands to the United States. It is the intention of Congress that such lands be acquired by the United States, subject to the availability of funds, by purchase at fair market value consistent with the land acquisition procedures of the Secretary, and with the consent of Plum Creek, in order to preserve their outstanding scenic and natural values for the benefit of future generations.
+Finding.—The Congress finds that certain lands owned by Plum Creek in the vicinity of the offered lands (but which are not included in the land exchange under this Act, or are deleted under section 605(c)) are highly desirable for addition to the National Forest System, and that Plum Creek has indicated its willingness to sell certain such lands to the United States. It is the intention of Congress that such lands be acquiredby the United States, subject to the availability of funds, by purchase at fair market value consistent with the land acquisition procedures of the Secretary, and with the consent of Plum Creek, in order to preserve their outstanding scenic and natural values for the benefit of future generations.
 
 “(b)
 
@@ -394,7 +394,7 @@ Other Agreements.—Nothing in this Act shall be construed to prohibit the Secre
 
 #### “SEC. 608. TIETON RIVER STUDY.
 
-“The Secretary is authorized and directed to consult with Plum Creek concerning opportunities for the United States to acquire by exchange or purchase PlumCreek lands along the Tieton River in Township 14 North, Range 15 East, Willamette Meridian.
+“The Secretary is authorized and directed to consult with Plum Creek concerning opportunities for the United States to acquire by exchange or purchase Plum Creek lands along the Tieton River in Township 14 North, Range 15 East, Willamette Meridian.
 
 #### “SEC. 609. FUTURE LAND EXCHANGE OPPORTUNITY.
 

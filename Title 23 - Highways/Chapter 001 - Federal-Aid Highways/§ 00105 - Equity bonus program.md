@@ -150,7 +150,7 @@ The date of enactment of the SAFETEA–LU, referred to in subsec. (b)(1)(B), (2)
 
 1998—Pub. L. 105–178 amended section catchline and text generally, substituting provisions relating to minimum guarantee to each State of funds apportioned under chapter for provisions relating to programs to be submitted by State highway departments for approval by Secretary for utilization of funds apportioned under chapter.
 
-Subsec. (a). Pub. L. 105–178, §1104(c)(1), as added by Pub. L. 105–206, §9002(d), inserted at end “The minimum amount allocated to a State under this section for a fiscal year shall be $1,000,000.”
+Subsec. (a). Pub. L. 105–178, §1104(c)(1), as added by Pub. L. 105–206, §9002(d), inserted at end “The minimumamount allocated to a State under this section for a fiscal year shall be $1,000,000.”
 
 Subsec. (c)(1). Pub. L. 105–178, §1104(c)(2), as added by Pub. L. 105–206, §9002(d), struck out “50 percent of” after “shall apportion” in introductory provisions.
 

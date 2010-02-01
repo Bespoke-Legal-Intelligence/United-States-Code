@@ -16,7 +16,7 @@ Notice; Claim; Complaint.—
 
 &emsp;(iv) In a case in which the property is seized by a State or local law enforcement agency and turned over to a Federal law enforcement agency for the purpose of forfeiture under Federal law, notice shall be sent not more than 90 days after the date of seizure by the State or local law enforcement agency.
 
-&emsp;(v) If the identity or interest of a party is not determined until after the seizure or turnover but is determined before a declaration of forfeiture is entered, notice shall be sent to such interested party not later than 60 days after the determination by the Government of the identity of the party or the party's interest.
+&emsp;(v) If the identity or interest of a party is not determined until after the seizure or turnover but is determined before a declaration of forfeiture is entered, notice shall be sent to such interested party not later than 60 days after the determination by the Government ofthe identity of the party or the party's interest.
 
 &emsp;(B) A supervisory official in the headquarters office of the seizing agency may extend the period for sending notice under subparagraph (A) for a period not to exceed 30 days (which period may not be further extended except by a court), if the official determines that the conditions in subparagraph (D) are present.
 
@@ -142,7 +142,7 @@ Innocent Owner Defense.—
 
 &emsp;&emsp;(iv) the claimant acquired his or her interest in the property through marriage, divorce, or legal separation, or the claimant was the spouse or legal dependent of a person whose death resulted in the transfer of the property to the claimant through inheritance or probate,
 
-> &emsp;except that the court shall limit the value of any real property interest for which innocent ownership is recognized under this subparagraph to the value necessary to maintain reasonable shelter in the community for such claimant and all dependents residing with the claimant.
+> &emsp;except that the court shall limit the value of any real property interest for which innocent ownership is recognized under this subparagraph to the value necessary to maintain reasonable shelter in the community for suchclaimant and all dependents residing with the claimant.
 
 &emsp;(4) Notwithstanding any provision of this subsection, no person may assert an ownership interest under this subsection in contraband or other property that it is illegal to possess.
 
@@ -188,7 +188,7 @@ Motion To Set Aside Forfeiture.—
 
 &emsp;(4) If, at the time a motion made under paragraph (1) is granted, the forfeited property has been disposed of by the Government in accordance with law, the Government may institute proceedings against a substitute sum of money equal to the value of the moving party's interest in the property at the time the property was disposed of.
 
-&emsp;(5) A motion filed under this subsection shall be the exclusive remedy for seeking to setaside a declaration of forfeiture under a civil forfeiture statute.
+&emsp;(5) A motion filed under this subsection shall be the exclusive remedy for seeking to set aside a declaration of forfeiture under a civil forfeiture statute.
 
 (f)
 
@@ -270,7 +270,7 @@ Civil Fine.—
 
 &emsp;(2) Any civil fine imposed under this subsection shall not preclude the court from imposing sanctions under rule 11 of the Federal Rules of Civil Procedure.
 
-&emsp;(3) In addition to the limitations of section 1915 of title 28, United States Code, in no eventshall a prisoner file a claim under a civil forfeiture statute or appeal a judgment in a civil action or proceeding based on a civil forfeiture statute if the prisoner has, on three or more prior occasions, while incarcerated or detained in any facility, brought an action or appeal in a court of the United States that was dismissed on the grounds that it is frivolous or malicious, unless the prisoner shows extraordinary and exceptional circumstances.
+&emsp;(3) In addition to the limitations of section 1915 of title 28, United States Code, in no event shall a prisoner file a claim under a civil forfeiture statute or appeal a judgment in a civil action or proceeding based on a civil forfeiture statute if the prisoner has, on three or more prior occasions, while incarcerated or detained in any facility, brought an action or appeal in a court of the United States that was dismissed on the grounds that it is frivolous or malicious, unless the prisoner shows extraordinary and exceptional circumstances.
 
 (i)
 
@@ -302,15 +302,15 @@ Restraining Orders; Protective Orders.—
 
 &emsp;&emsp;&emsp;(i) there is a substantial probability that the United States will prevail on the issue of forfeiture and that failure to enter the order will result in the property being destroyed, removed from the jurisdiction of the court, or otherwise made unavailable for forfeiture; and
 
-&emsp;&emsp;&emsp;(ii) the need to preserve the availability of the property through the entry of the requested order outweighs the hardship on any party against whom the order is to be entered.
+&emsp;&emsp;&emsp;(ii) the need to preserve the availability of the property through the entry of the requested order outweighs the hardship onany party against whom the order is to be entered.
 
 &emsp;(2) An order entered pursuant to paragraph (1)(B) shall be effective for not more than 90 days, unless extended by the court for good cause shown, or unless a complaint described in paragraph (1)(A) has been filed.
 
-&emsp;(3) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when a complaint has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought is subject to civil forfeiture and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than 10 days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
+&emsp;(3) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when a complaint has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought is subject to civil forfeiture and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than 14 days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
 
 &emsp;(4) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 
-(Added and amended Pub. L. 106–185, §§2(a), 9, Apr. 25, 2000, 114 Stat. 202, 216; Pub. L. 106–561, §3(a), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title III, §316(d), Oct. 26, 2001, 115 Stat. 310.)
+(Added and amended Pub. L. 106–185, §§2(a), 9, Apr. 25, 2000, 114 Stat. 202, 216; Pub. L. 106–561, §3(a), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title III, §316(d), Oct. 26, 2001, 115 Stat. 310; Pub. L. 111–16, §3(1), May 7, 2009, 123 Stat. 1607.)
 
 #### References in Text
 
@@ -318,19 +318,21 @@ The Supplemental Rules for Certain Admiralty and Maritime Claims, referred to in
 
 The Federal Rules of Civil Procedure, referred to in subsec. (h)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The Tariff Act of 1930, referred to in subsec. (i)(2)(A), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended, which is classified generally to chapter 4 (§1202 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
+The Tariff Act of 1930, referred to in subsec. (i)(2)(A), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§1202 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (i)(2)(B), is classified generally to Title 26, Internal Revenue Code.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (i)(2)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (i)(2)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Trading with the Enemy Act, referred to in subsec. (i)(2)(D), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading with the Enemy Act, referred to in subsec. (i)(2)(D), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-The International Emergency Economic Powers Act, referred to in (i)(2)(D), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in (i)(2)(D), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 The Federal Rules of Evidence, referred to in subsec. (j)(4), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+
+2009—Subsec. (j)(3). Pub. L. 111–16 substituted “14 days” for “10 days”.
 
 2001—Subsec. (i)(2)(D). Pub. L. 107–56 inserted “or the International Emergency Economic Powers Act (IEEPA) (50 U.S.C. 1701 et seq.)” before semicolon.
 
@@ -338,9 +340,13 @@ The Federal Rules of Evidence, referred to in subsec. (j)(4), are set out in the
 
 Subsec. (j). Pub. L. 106–185, §9, added subsec. (j).
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 111–16, set out as a note under section 109 of Title 11, Bankruptcy.
+
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–561, §3(b), Dec. 21, 2000, 114 Stat. 2791, provided that: “The amendment made by this section\[amending this section\] shall take effect as if included in the amendment made by section 2(a) of Public Law 106–185.”
+Pub. L. 106–561, §3(b), Dec. 21, 2000, 114 Stat. 2791, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendment made by section 2(a) of Public Law 106–185.”
 
 #### Effective Date
 

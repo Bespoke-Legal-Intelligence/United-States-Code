@@ -2,7 +2,7 @@
 
 (a) The Secretary of Defense may, in accordance with other applicable law, make Department of Defense personnel available for the maintenance of equipment for Federal, State, and local civilian law enforcement officials, including equipment made available under section 372 of this title.
 
-(b)(1) Subject to paragraph (2) and in accordance with other applicable law, the Secretary of Defense may, upon request from the head of a Federal law enforcement agency, make Department of Defense personnel available to operateequipment (including equipment made available under section 372 of this title) with respect to—
+(b)(1) Subject to paragraph (2) and in accordance with other applicable law, the Secretary of Defense may, upon request from the head of a Federal law enforcement agency, make Department of Defense personnel available to operate equipment (including equipment made available under section 372 of this title) with respect to—
 
 &emsp;(A) a criminal violation of a provision of law specified in paragraph (4)(A);
 
@@ -86,7 +86,7 @@ Subsec. (b)(4)(A)(v). Pub. L. 105–277, §201(6), added cl. (v).
 
 Subsec. (b)(3). Pub. L. 102–484, §1042(2), substituted “paragraph (2)(D)” for “paragraph (2)(C)”.
 
-1989—Subsec. (b)(2)(E). Pub. L. 101–189, §1210, substituted “and the Attorney General (and the Secretary of State in the case of a law enforcement operation outside of the land area of the United States)” for “, the Attorney General, and the Secretary of State, in connection with a law enforcement operation outside the land area of the United States” in introductory provisions.
+1989—Subsec. (b)(2)(E). Pub. L. 101–189, §1210, substituted “and the Attorney General (and the Secretary of State in the case of a law enforcement operation outside of the land area of the United States)” for “, theAttorney General, and the Secretary of State, in connection with a law enforcement operation outside the land area of the United States” in introductory provisions.
 
 Subsec. (b)(4)(A)(iii). Pub. L. 101–189, §1216(b), substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 of the Tariff Schedules of the United States”.
 
@@ -174,9 +174,11 @@ Relationship to Other Law.—A provision of law may not be construed as modifyin
 
 &emsp;“(2) specifically states that such provision of law modifies or supersedes the provisions of subsection (b) or (c), as the case may be.”
 
-Pub. L. 110–329, div. C, title VIII, §8047(a), Sept. 30, 2008, 122 Stat. 3631, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agencyof the United States except as specifically provided in an appropriations law.”
+Pub. L. 111–118, div. A, title VIII, §8047(a), Dec. 19, 2009, 123 Stat. 3439, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 110–329, div. C, title VIII, §8047(a), Sept. 30, 2008, 122 Stat. 3631.
 
 Pub. L. 110–116, div. A, title VIII, §8048(a), Nov. 13, 2007, 121 Stat. 1325.
 

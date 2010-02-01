@@ -76,13 +76,13 @@ For the purpose of this section—
 
 &emsp;&emsp;&emsp;(i) in which commercial applications of SBIR-funded research or research and development are funded by non-Federal sources of capital or, for products or services intended for use by the Federal Government, by follow-on non-SBIR Federal funding awards; or
 
-&emsp;&emsp;&emsp;(ii) for which awards from non-SBIR Federal funding sources are used for the continuation of research or research and development that has been competitively selected using peer review or scientific review criteria;
+&emsp;&emsp;&emsp;(ii) for which awards from non-SBIR Federal funding sources are used for the continuation of research or research anddevelopment that has been competitively selected using peer review or scientific review criteria;
 
 &emsp;(5) the term “research” or “research and development” means any activity which is (A) a systematic, intensive study directed toward greater knowledge or understanding of the subject studied; (B) a systematic study directed specifically toward applying new knowledge to meet a recognized need; or (C) a systematic application of knowledge toward the production of useful materials, devices, and systems or methods, including design, development, and improvement of prototypes and new processes to meet specific requirements;
 
 &emsp;(6) the term “Small Business Technology Transfer Program” or “STTR” means a program under which a portion of a Federal agency's extramural research or research and development effort is reserved for award to small business concerns for cooperative research and development through a uniform process having—
 
-&emsp;&emsp;(A) a first phase, to determine, to the extent possible, the scientific, technical, andcommercial merit and feasibility of ideas submitted pursuant to STTR program solicitations;
+&emsp;&emsp;(A) a first phase, to determine, to the extent possible, the scientific, technical, and commercial merit and feasibility of ideas submitted pursuant to STTR program solicitations;
 
 &emsp;&emsp;(B) a second phase, to further develop proposed ideas to meet particular program needs, in which awards shall be made based on the scientific, technical, and commercial merit and feasibility of the idea, as evidenced by the first phase and by other relevant information; and
 
@@ -134,9 +134,9 @@ Each Federal agency required by subsection (f) of this section to establish a sm
 
 &emsp;(3) unilaterally determine research topics within the agency's SBIR solicitations, giving special consideration to broad research topics and to topics that further 1 or more critical technologies, as identified by—
 
-&emsp;&emsp;(A) the National Critical Technologies Panel (or its successor) in the 1991 report required under section 6683 <sup>3</sup> of title 42, and in subsequent reports issued under that authority; or
+&emsp;&emsp;(A) the National Critical Technologies Panel (or its successor) in the 1991 report required under section 6683 <sup>2</sup> of title 42, and insubsequent reports issued under that authority; or
 
-&emsp;&emsp;(B) the Secretary of Defense, in the 1992 report issued in accordance with section 2522 <sup>3</sup> of title 10, and in subsequent reports issued under that authority;
+&emsp;&emsp;(B) the Secretary of Defense, in the 1992 report issued in accordance with section 2522 <sup>2</sup> of title 10, and in subsequent reports issued under that authority;
 
 &emsp;(4) unilaterally receive and evaluate proposals resulting from SBIR proposals;
 
@@ -144,7 +144,7 @@ Each Federal agency required by subsection (f) of this section to establish a sm
 
 &emsp;(6) administer its own SBIR funding agreements (or delegate such administration to another agency);
 
-&emsp;(7) make payments to recipients of SBIR funding agreements on the basis of progress toward or completion of the funding agreement requirements and, in all cases, make payment to recipients under such agreements in full, subject to audit, on or before the lastday of the 12-month period beginning on the date of completion of such requirements;
+&emsp;(7) make payments to recipients of SBIR funding agreements on the basis of progress toward or completion of the funding agreement requirements and, in all cases, make payment to recipients under such agreements in full, subject to audit, on or before the last day of the 12-month period beginning on the date of completion of such requirements;
 
 &emsp;(8) make an annual report on the SBIR program to the Small Business Administration and the Office of Science and Technology Policy;
 
@@ -184,7 +184,7 @@ In addition to the requirements of subsection (f) of this section, each Federal 
 
 &emsp;&emsp;(B) a simplified, standardized funding process which provides for (i) the timely receipt and review of proposals; (ii) outside peer review for at least phase two proposals, if appropriate; (iii) protection of proprietary information provided in proposals; (iv) selection of awardees; (v) retention of rights in data generated in the performance of the contract by the small business concern; (vi) transfer of title to property provided by the agency to the small business concern if such a transfer would be more cost effective than recovery of the property by the agency; (vii) cost sharing; and (viii) cost principles and payment schedules;
 
-&emsp;&emsp;(C) exemptions from the regulations under paragraph (2) <sup>4</sup> if national security or intelligence functions clearly would be jeopardized;
+&emsp;&emsp;(C) exemptions from the regulations under paragraph (2) <sup>3</sup> if national security or intelligence functions clearly would be jeopardized;
 
 &emsp;&emsp;(D) minimizing regulatory burden associated with participation in the SBIR program for the small business concern which will stimulate the cost-effective conduct of Federal research and development and the likelihood of commercialization of the results of research and development conducted under the SBIR program;
 
@@ -208,9 +208,9 @@ In addition to the requirements of subsection (f) of this section, each Federal 
 
 &emsp;&emsp;(E) a process for notifying the participating SBIR agencies and potential SBIR participants of the 1991, 1992, and the current critical technologies, as identified—
 
-&emsp;&emsp;&emsp;(i) by the National Critical Technologies Panel (or its successor), in accordance with section 6683 <sup>5</sup> of title 42; or
+&emsp;&emsp;&emsp;(i) by the National Critical Technologies Panel (or its successor), in accordance with section 6683 <sup>2</sup> of title 42; or
 
-&emsp;&emsp;&emsp;(ii) by the Secretary of Defense, in accordance with section 2522 <sup>5</sup> of title 10;
+&emsp;&emsp;&emsp;(ii) by the Secretary of Defense, in accordance with section 2522 <sup>2</sup> of title 10;
 
 &emsp;&emsp;(F) enhanced outreach efforts to increase the participation of socially and economically disadvantaged small business concerns, as defined in section 637(a)(4) of this title, and the participation of small businesses that are 51 percent owned and controlled by women in technological innovation and in SBIR programs, including the third phase of such programs, and the collection of data to document such participation;
 
@@ -332,7 +332,13 @@ In addition to the requirements of subsection (f) of this section, each Federal 
 
 #### (m) Termination
 
-The authorization to carry out the Small Business Innovation Research Program established under this section shall terminate on September 30, 2008.
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), the authorization to carry out the Small Business Innovation Research Program established under this section shall terminate on September 30, 2008.
+
+#### (2) Exception for Department of Defense
+
+&emsp;The Secretary of Defense and the Secretary of each military department is authorized to carry out the Small Business Innovation Research Program of the Department of Defense until September 30, 2010 <sup>4</sup>
 
 #### (n) Required expenditures for STTR by Federal agencies
 
@@ -340,7 +346,13 @@ The authorization to carry out the Small Business Innovation Research Program es
 
 #### (A) In general
 
-&emsp;&emsp;With respect to each fiscal year through fiscal year 2009, each Federal agency that has an extramural budget for research, or research and development, in excess of $1,000,000,000 for that fiscal year, shall expend with small business concerns not less than the percentage of that extramural budget specified in subparagraph (B), specifically in connection with STTR programs that meet the requirements of this section and any policy directives and regulations issued under this section.
+#### (i) Federal agencies generally
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), with respect to each fiscal year through fiscal year 2009, each Federal agency that has an extramural budget for research, or research and development, in excess of $1,000,000,000 for that fiscal year, shall expend with small business concerns not less than the percentage of that extramural budget specified in subparagraph (B), specifically in connection with STTR programs that meet the requirements of this section and any policy directives and regulations issued under this section.
+
+#### (ii) Department of Defense
+
+&emsp;&emsp;&emsp;The Secretary of Defense and the Secretary of each military department shall carry out clause (i) with respect to each fiscal year through fiscal year 2010.
 
 #### (B) Expenditure amounts
 
@@ -372,9 +384,9 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 &emsp;(3) unilaterally determine research topics within the agency's STTR solicitations, giving special consideration to broad research topics and to topics that further 1 or more critical technologies, as identified—
 
-&emsp;&emsp;(A) by the National Critical Technologies Panel (or its successor) in reports required under section 6683 <sup>6</sup> of title 42; or
+&emsp;&emsp;(A) by the National Critical Technologies Panel (or its successor) in reports required under section 6683 <sup>2</sup> of title 42; or
 
-&emsp;&emsp;(B) by the Secretary of Defense, in accordance with section 2522 <sup>6</sup> of title 10;
+&emsp;&emsp;(B) by the Secretary of Defense, in accordance with section 2522 <sup>2</sup> of title 10;
 
 &emsp;(4) unilaterally receive and evaluate proposals resulting from STTR solicitations;
 
@@ -474,7 +486,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 #### (1) In general
 
-&emsp;Each Federal agency required by this section to conduct an SBIR program may enter into an agreement with a vendor selected under paragraph (2) to provide small business concerns engaged in SBIR projects with technical assistance services, such as access to anetwork of scientists and engineers engaged in a wide range of technologies, or access to technical and business literature available through on-line data bases, for the purpose of assisting such concerns in—
+&emsp;Each Federal agency required by this section to conduct an SBIR program may enter into an agreement with a vendor selected under paragraph (2) to provide small business concerns engaged in SBIR projects with technical assistance services, such as access to a network of scientists and engineers engaged in a wide range of technologies, or access to technical and business literature available through on-line data bases, for the purpose of assisting such concerns in—
 
 &emsp;&emsp;(A) making better technical decisions concerning such projects;
 
@@ -626,13 +638,13 @@ The Administrator shall work with the Federal agencies required by this section 
 
 #### (6) Sunset
 
-&emsp;The pilot program under this subsection shall terminate at the end of fiscal year 2009.
+&emsp;The pilot program under this subsection shall terminate at the end of fiscal year 2010.
 
 #### (z) Encouraging innovation in energy efficiency
 
 #### (1) Federal agency energy-related priority
 
-&emsp;In carrying out its duties under this section relating to SBIR and STTR solicitations byFederal departments and agencies, the Administrator shall—
+&emsp;In carrying out its duties under this section relating to SBIR and STTR solicitations by Federal departments and agencies, the Administrator shall—
 
 &emsp;&emsp;(A) ensure that such departments and agencies give high priority to small business concerns that participate in or conduct energy efficiency or renewable energy system research and development projects; and
 
@@ -684,13 +696,13 @@ The Administrator shall work with the Federal agencies required by this section 
 
 &emsp;&emsp;&emsp;(ii) hydrogen derived from biomass or water using an energy source described in clause (i).
 
-(Pub. L. 85–536, §2\[9\], July 18, 1958, 72 Stat. 391; Pub. L. 97–219, §§3–5, July 22, 1982, 96 Stat. 217, 218, 221; Pub. L. 99–443, §§1, 2, Oct. 6, 1986, 100 Stat. 1120; Pub. L. 100–590, title I, §108, Nov. 3, 1988, 102 Stat. 2994; Pub. L. 102–484, div. D, title XLII, §4237(d), Oct. 23, 1992, 106 Stat. 2692; Pub. L. 102–564, title I, §§103, 104, title II, §202(a)–(c), title III, §§301(a), 305, Oct. 28, 1992, 106 Stat. 4250, 4254, 4256, 4257, 4261, 4262; Pub. L. 103–403, title VI, §607, Oct. 22, 1994, 108 Stat. 4204; Pub. L. 104–208, div. D, title I, §110, Sept. 30, 1996, 110 Stat. 3009–733; Pub. L. 105–135, title V, §501, Dec. 2, 1997, 111 Stat. 2620; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(5)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 106–554, §1(a)(9) \[title I, §§103–107, 109, 110, 111(c), 113, 114(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–669, 2763A–673, 2763A–679, 2763A–681; Pub. L. 107–50, §§2, 3(a), 4–7, Oct. 15, 2001, 115 Stat. 263–265; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–163, div. A, title II, §252, Jan. 6, 2006, 119 Stat. 3177; Pub. L. 110–140, title XII, §1203(e), Dec. 19, 2007, 121 Stat. 1771.)
+(Pub. L. 85–536, §2\[9\], July 18, 1958, 72 Stat. 391; Pub. L. 97–219, §§3–5, July 22, 1982, 96 Stat. 217, 218, 221; Pub. L. 99–443, §§1, 2, Oct. 6, 1986, 100 Stat. 1120; Pub. L. 100–590, title I, §108, Nov. 3, 1988, 102 Stat. 2994; Pub. L. 102–484, div. D, title XLII, §4237(d), Oct. 23, 1992, 106 Stat. 2692; Pub. L. 102–564, title I, §§103, 104, title II, §202(a)–(c), title III, §§301(a), 305, Oct. 28, 1992, 106 Stat. 4250, 4254, 4256, 4257, 4261, 4262; Pub. L. 103–403, title VI, §607, Oct. 22, 1994, 108 Stat. 4204; Pub. L. 104–208, div. D, title I, §110, Sept. 30, 1996, 110 Stat. 3009–733; Pub. L. 105–135, title V, §501, Dec. 2, 1997, 111 Stat. 2620; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(5)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 106–554, §1(a)(9) \[title I, §§103–107, 109, 110, 111(c), 113, 114(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–669, 2763A–673, 2763A–679, 2763A–681; Pub. L. 107–50, §§2, 3(a), 4–7, Oct. 15, 2001, 115 Stat. 263–265; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–163, div. A, title II, §252, Jan. 6, 2006, 119 Stat. 3177; Pub. L. 110–140, title XII, §1203(e), Dec. 19, 2007, 121 Stat. 1771; Pub. L. 111–84, div. A, title VIII, §§847(a), (b), 848, Oct. 28, 2009, 123 Stat. 2420, 2421.)
 
 #### References in Text
 
 Executive Order 13329, referred to in subsecs. (b)(8), (g)(11), and (<i>o</i>)(16), is set out as a note under this section.
 
-The Federal Trade Commission Act, referred to in subsec. (d)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (d)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 Executive Order 12333, referred to in subsec. (e)(2), is set out as a note under section 401 of Title 50, War and National Defense.
 
@@ -710,6 +722,12 @@ Section 209 of act July 30, 1953, ch. 282, title II, 67 Stat. 237, was previousl
 
 #### Amendments
 
+2009—Subsec. (m). Pub. L. 111–84, §847(a), designated existing provisions as par. (1), inserted par. (1) heading, substituted “Except as provided in paragraph (2), the authorization” for “The authorization”, and added par. (2).
+
+Subsec. (n)(1)(A). Pub. L. 111–84, §847(b), designated existing provisions as cl. (i), inserted cl. (i) heading, substituted “Except as provided in clause (ii), with respect” for “With respect”, and added cl. (ii).
+
+Subsec. (y)(6). Pub. L. 111–84, §848, substituted “2010” for “2009”.
+
 2007—Subsec. (z). Pub. L. 110–140 added subsec. (z).
 
 2006—Subsec. (b)(8). Pub. L. 109–163, §252(b)(1), added par. (8).
@@ -726,7 +744,7 @@ Subsecs. (x), (y). Pub. L. 109–163, §252(a), added subsecs. (x) and (y).
 
 2001—Subsec. (b)(4). Pub. L. 107–50, §2(b), struck out “pilot” before “programs;”.
 
-Subsec. (b)(7). Pub. L. 107–50, §6(d), substituted “, (<i>o</i>)(9), and (<i>o</i>)(15) of this section, the number of proposals received from, and the number and total amount of awards to, HUBZone small business concerns undereach of the SBIR and STTR programs,” for “and (<i>o</i>)(9) of this section,”.
+Subsec. (b)(7). Pub. L. 107–50, §6(d), substituted “, (<i>o</i>)(9), and (<i>o</i>)(15) of this section, the number of proposals received from, and the number and total amount of awards to, HUBZone small business concerns under each of the SBIR and STTR programs,” for “and (<i>o</i>)(9) of this section,”.
 
 Subsec. (e)(6). Pub. L. 107–50, §2(b), struck out “pilot” before “program” in introductory provisions.
 
@@ -866,6 +884,10 @@ Committee on Small Business of Senate changed to Committee on Small Business and
 
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–84, div. A, title VIII, §847(c), Oct. 28, 2009, 123 Stat. 2421, provided that: “The amendments made by this section \[amending this section\] shall take effect as of July 30, 2009.”
+
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
@@ -938,7 +960,7 @@ Study and Recommendations.—The head of each agency with a budget of more than 
 
 &emsp;&emsp;“(A) measures of outcomes for strategic plans submitted under section 306 of title 5, United States Code, and performance plans submitted under section 1115 of title 31, United States Code, of each Federal agency participating in the SBIR program;
 
-&emsp;&emsp;“(B) whether companies who can demonstrate project feasibility, but who have not received a first phase award, should be eligible for second phase awards, and the potential impact of such awards on the competitive selection process of the program;
+&emsp;&emsp;“(B) whether companies who can demonstrate project feasibility, but who have not received a first phase award, should be eligible for second phaseawards, and the potential impact of such awards on the competitive selection process of the program;
 
 &emsp;&emsp;“(C) whether the Federal Government should be permitted to recoup some or all of its expenses if a controlling interest in a company receiving an SBIR award is sold to a foreign company or to a company that is not a small business concern;
 
@@ -1030,7 +1052,7 @@ Section 306 of Pub. L. 102–564 provided that:
 
 “(a)
 
-Purchase of American-Made Equipment and Products.—It is the sense of the Congress that an entity that is awarded a funding agreement under the SBIR program of a Federal agency under section 9 of the Small Business Act \[15 U.S.C. 638\] should, when purchasing any equipment or a product with funds provided through the funding agreement, purchase only American-made equipment and products, to the extent possible in keeping with the overall purposes of that program.
+Purchase of American-Made Equipment and Products.—It is the sense of the Congress that an entity that is awarded a funding agreement under the SBIR program of a Federal agency under section 9 of the Small Business Act \[15 U.S.C. 638\] should, when purchasing any equipment or a product with funds provided through the funding agreement, purchase onlyAmerican-made equipment and products, to the extent possible in keeping with the overall purposes of that program.
 
 “(b)
 
@@ -1077,7 +1099,7 @@ Percentage of Required Expenditures for SBIR Contracts.—(1) The Small Business
 | 1997 | &nbsp;2.25 |
 | 1998 and thereafter | &nbsp;2.5. |
 
-“(B) If the determination of the Secretary of Defense under subparagraph (C) is a negative determination (as set forth in that paragraph), then the percentage under section 9(f)(1) of the Small Business Act (15 U.S.C. 638(f)(1)) for the Department of Defense and each military department for fiscal years after fiscal year 1996shall remain at the level applicable for fiscal year 1996 (notwithstanding the percentages specified in subparagraph (A) for fiscal years after fiscal year 1996).
+“(B) If the determination of the Secretary of Defense under subparagraph (C) is a negative determination (as set forth in that paragraph), then the percentage under section 9(f)(1) of the Small Business Act (15 U.S.C. 638(f)(1)) for the Department of Defense and each military department for fiscal years after fiscal year 1996 shall remain at the level applicable for fiscal year 1996 (notwithstanding the percentages specified in subparagraph (A) for fiscal years after fiscal year 1996).
 
 “(C) Not later than June 30, 1996, the Secretary of Defense during fiscal year 1996 shall determine whether there has been a demonstrable reduction in the quality of research performed under funding agreements awarded by the Department of Defense under the SBIR program since the beginning of fiscal year 1993 such that increasing the percentage under subparagraph (A) for fiscal years after fiscal year 1996 with respect to the department would adversely affect the performance of the department's research programs. If the determination of the Secretary is that there has been such a demonstrable reduction in the quality of research such that increasing the percentage under subparagraph (B) for fiscal years after fiscal year 1996 with respect to the department would adversely affect the performance of the department's research programs, the Secretary shall be considered for purposes of subparagraph (B) to have made a negative determination. The determination of the Secretary concerned under this paragraph shall be made after considering the assessment of the Comptroller General with respect to that department in the report transmitted under subparagraph (D).
 
@@ -1213,7 +1235,7 @@ Final Report.—The Comptroller General of the United States shall transmit to t
 
 &emsp;“(8) an analysis of the impact of agency application review periods and funding cycles on SBIR program awardees’ financial status and ability to commercialize; and
 
-&emsp;“(9) recommendations to the Congress for tracking the extent to which foreign firms, or United States firms with substantial foreign ownership interests, benefit from technology or products developed as a direct result of SBIR research or research and development.
+&emsp;“(9) recommendations to the Congress for tracking the extent to which foreign firms, or United States firms with substantial foreign ownership interests,benefit from technology or products developed as a direct result of SBIR research or research and development.
 
 “(c)
 
@@ -1243,7 +1265,7 @@ Section 6 of Pub. L. 97–219, as amended by Pub. L. 99–443, §3, Oct. 6, 1986
 
 “(b) The Comptroller General, no later than December 31, 1991, shall transmit to such committees an update of the report mandated under subsection (a). Such report, in addition, shall include an evaluation of phase three of the SBIR Program including a discussion of the aggregate commercial trends for products which are then currently in or have completed phase three of the program.
 
-“(c) Not later than July 1, 1989, the Comptroller General shall transmit to the appropriate committees ofthe House of Representatives and the Senate recommendations as to the advisability of amending the Small Business Innovation Research program to—
+“(c) Not later than July 1, 1989, the Comptroller General shall transmit to the appropriate committees of the House of Representatives and the Senate recommendations as to the advisability of amending the Small Business Innovation Research program to—
 
 &emsp;“(1) increase each agency's share of research and development expenditures devoted to it by 0.25 percent per year, until it is 3 percent of the total extramural research and development funds, and targeting a portion of the increment at products with commercialization or export potential;
 
@@ -1287,7 +1309,7 @@ Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (b) Nothing in this order shall be construed to require disclosure of information the disclosure of which is prohibited by law or by Executive Order, including Executive Order 12958 of April 17, 1995, as amended \[50 U.S.C. 435 note\].
 
-(c) This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
+(c) This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit,substantive or procedural, enforceable at law or in equity, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1295,11 +1317,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “subparagraph (B)”.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “subparagraph (B)”.</i>
-
-<i><sup>5</sup></i><i> See References in Text note below.</i>
-
-<i><sup>6</sup></i><i> See References in Text note below.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be followed by a period.</i>
 

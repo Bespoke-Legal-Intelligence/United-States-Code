@@ -14,6 +14,56 @@ Section is a composite of the acts of Aug. 15, 1876, and Feb. 14, 1902, cited in
 
 Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under section 1801 of this title.
 
+#### Recyclable Materials
+
+Pub. L. 111–8, div. G, title I, §1101, Mar. 11, 2009, 123 Stat. 822, provided that:
+
+“(a)
+
+Collection and Sale of Recyclable Materials.—
+
+&emsp;“(1)
+
+Establishment of program.—The Architect of the Capitol shall establish a program for the collection and sale of recyclable materials collected from or on the Capitol buildings and grounds, in accordance with the procedures applicable under subchapter III of chapter 5 of subtitle I of title 40, United States Code\[,\] to the sale of surplus property by an executive agency.
+
+&emsp;“(2)
+
+Exclusion of materials subject to other programs.—The program established under this section shall not apply with respect to any materials which are subject to collection and sale under—
+
+&emsp;&emsp;“(A) the third undesignated paragraph under the center heading ‘MISCELLANEOUS’ in the first section of the Act entitled ‘An Act making appropriations for sundry civil expenses of the government for the fiscal year ending June thirtieth, eighteen hundred and eighty-three, and for other purposes’, approved August 7, 1882 (2 U.S.C. 117);
+
+&emsp;&emsp;“(B) section 104(a) of the Legislative Branch Appropriations Act, 1987 (as enacted by reference in identical form by section 101(j) of Public Law 99–500 and Public Law 99–591) (2 U.S.C. 117e);
+
+&emsp;&emsp;“(C) the Senate waste recycling program referred to in section 4 of the Legislative Branch Appropriations Act, 2001 (2 U.S.C. 121f); or
+
+&emsp;&emsp;“(D) any other authorized program for the collection and sale of recyclable materials.
+
+“(b)
+
+Revolving Fund.—
+
+&emsp;“(1)
+
+In general.—There is established in the Treasury a revolving fund for the Office of the Architect of the Capitol, which shall consist of—
+
+&emsp;&emsp;“(A) proceeds from the sale of recyclable materials under the program established under this section; and
+
+&emsp;&emsp;“(B) such amounts as may be appropriated under law.
+
+&emsp;“(2)
+
+Use of fund.—Amounts in the revolving fund established under paragraph (1) shall be available without fiscal year limitation to the Architect of theCapitol, subject to the Architect providing prior notice to the Committees on Appropriations of the House of Representatives and Senate—
+
+&emsp;&emsp;“(A) to carry out the program established under this section;
+
+&emsp;&emsp;“(B) to carry out authorized programs and activities of the Architect to improve the environment; and
+
+&emsp;&emsp;“(C) to carry out authorized programs and activities of the Architect to promote energy savings.
+
+“(c)
+
+Effective Date.—This section shall apply with respect to each of the fiscal years 2009 through 2013.”
+
 #### Acquisition of Property by Architect of the Capitol
 
 Pub. L. 107–68, title I, §128, Nov. 12, 2001, 115 Stat. 579, provided that: “Notwithstanding any other provision of law and subject to the availability of appropriations, the Architect of the Capitol is authorized to secure, through multi-year rental, lease, or other appropriate agreement, the property located at 67 K Street, S.W., Washington, D.C., for use of Legislative Branch agencies, and to incur any necessary incidental expenses including maintenance, alterations, and repairs in connection therewith: <i>Provided</i>, That in connection with the property referred to under the preceding proviso, the Architect of the Capitol is authorized to expend funds appropriated to the Architect of the Capitol for the purpose of the operations and support of Legislative Branch agencies, including the United States Capitol Police, as may be required for that purpose.”

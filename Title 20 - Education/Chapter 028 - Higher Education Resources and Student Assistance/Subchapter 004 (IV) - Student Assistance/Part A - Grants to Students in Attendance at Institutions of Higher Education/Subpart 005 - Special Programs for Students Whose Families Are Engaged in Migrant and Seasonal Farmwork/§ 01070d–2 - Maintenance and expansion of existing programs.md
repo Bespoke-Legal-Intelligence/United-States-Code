@@ -152,7 +152,7 @@ The Secretary shall—
 
 For the purpose of making grants and contracts under this section, there are authorized to be appropriated $75,000,000 for fiscal year 2009 and such sums as may be necessary for the each of the five succeeding fiscal years.
 
-(Pub. L. 89–329, title IV, §418A, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1341; amended Pub. L. 100–50, §7, June 3, 1987, 101 Stat. 340; Pub. L. 102–325, title IV, §405, July 23, 1992, 106 Stat. 507; Pub. L. 103–382, title III, §391(e)(1), (2), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §408, Oct. 7, 1998, 112 Stat. 1667; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(A), (f)(12)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 110–315, title IV, §408, Aug. 14, 2008, 122 Stat. 3223.)
+(Pub. L. 89–329, title IV, §418A, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1341; amended Pub. L. 100–50, §7, June 3, 1987, 101Stat. 340; Pub. L. 102–325, title IV, §405, July 23, 1992, 106 Stat. 507; Pub. L. 103–382, title III, §391(e)(1), (2), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §408, Oct. 7, 1998, 112 Stat. 1667; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(A), (f)(12)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 110–315, title IV, §408, Aug. 14, 2008, 122 Stat. 3223.)
 
 #### References in Text
 
@@ -234,7 +234,7 @@ Subsec. (g). Pub. L. 102–325, §405(d), amended subsec. (g) generally, substit
 
 #### Effective Date of 1998 Amendments
 
-Amendment by section 101(f) \[title VIII, §405(d)(15)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(12)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(d)(15)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998,and amendment by section 101(f) \[title VIII, §405(f)(12)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 

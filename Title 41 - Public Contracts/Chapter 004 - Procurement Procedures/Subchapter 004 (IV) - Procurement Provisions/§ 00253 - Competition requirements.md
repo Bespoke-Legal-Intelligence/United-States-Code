@@ -6,7 +6,7 @@
 
 &emsp;(A) shall obtain full and open competition through the use of competitive procedures in accordance with the requirements of this subchapter and the Federal Acquisition Regulation; and
 
-&emsp;(B) shall use the competitive procedure or combination of competitive procedures that is best suited under the circumstances of the procurement.
+&emsp;(B) shall use the competitive procedure or combination of competitive procedures that isbest suited under the circumstances of the procurement.
 
 (2) In determining the competitive procedures appropriate under the circumstance, an executive agency—
 
@@ -70,7 +70,7 @@ An executive agency may use procedures other than competitive procedures only wh
 
 (1) For the purposes of applying subsection (c)(1) of this section—
 
-&emsp;(A) in the case of a contract for property or services to be awarded on the basis of acceptance of an unsolicited research proposal, the property or services shall be considered to be available from only one source if the source has submitted an unsolicited research proposal that demonstrates a unique and innovative concept the substance of which is not otherwise available to the United States and does not resemble the substance of a pending competitive procurement; and
+&emsp;(A) in the case of a contract for property or services to be awarded on the basis of acceptance of an unsolicited research proposal, theproperty or services shall be considered to be available from only one source if the source has submitted an unsolicited research proposal that demonstrates a unique and innovative concept the substance of which is not otherwise available to the United States and does not resemble the substance of a pending competitive procurement; and
 
 &emsp;(B) in the case of a follow-on contract for the continued development or production of a major system or highly specialized equipment when it is likely that award to a source other than the original source would result in (i) substantial duplication of cost to the Government which is not expected to be recovered through competition, or (ii) unacceptable delays in fulfilling the executive agency's needs, such property may be deemed to be available only from the original source and may be procured through procedures other than competitive procedures.
 
@@ -292,11 +292,11 @@ Amendment by section 961(a)(2) of Pub. L. 99–145 effective as if included in e
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under section 251 of this title.
+Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued afterMar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under section 251 of this title.
 
 #### Effective Date
 
-Section effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat.403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
+Section effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 
 #### Termination of Authority To Issue Solicitations for Purchases of Commercial Items in Excess of Simplified Acquisition Threshold
 

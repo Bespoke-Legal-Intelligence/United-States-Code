@@ -18,7 +18,7 @@ Notwithstanding paragraph (1)(C) of subsection (a) of this section, none of the 
 
 &emsp;(1) Any issuer primarily engaged, directly or through a wholly-owned subsidiary or subsidiaries, in a business or businesses other than that of investing, reinvesting, owning, holding, or trading in securities.
 
-&emsp;(2) Any issuer which the Commission, upon application by such issuer, finds and by orderdeclares to be primarily engaged in a business or businesses other than that of investing, reinvesting, owning, holding, or trading in securities either directly or (A) through majority-owned subsidiaries or (B) through controlled companies conducting similar types of businesses. The filing of an application under this paragraph in good faith by an issuer other than a registered investment company shall exempt the applicant for a period of sixty days from all provisions of this subchapter applicable to investment companies as such. For cause shown, the Commission by order may extend such period of exemption for an additional period or periods. Whenever the Commission, upon its own motion or upon application, finds that the circumstances which gave rise to the issuance of an order granting an application under this paragraph no longer exist, the Commission shall by order revoke such order.
+&emsp;(2) Any issuer which the Commission, upon application by such issuer, finds and by order declares to be primarily engaged in a business or businesses other than that of investing, reinvesting, owning, holding, or trading in securities either directly or (A) through majority-owned subsidiaries or (B) through controlled companies conducting similar types of businesses. The filing of an application under this paragraph in good faith by an issuer other than a registered investment company shall exempt the applicant for a period of sixty days from all provisions of this subchapter applicable to investment companies as such. For cause shown, the Commission by order may extend such period of exemption for an additional period or periods. Whenever the Commission, upon its own motion or upon application, finds that the circumstances which gave rise to the issuance of an order granting an application under this paragraph no longer exist, the Commission shall by order revoke such order.
 
 &emsp;(3) Any issuer all the outstanding securities of which (other than short-term paper and directors’ qualifying shares) are directly or indirectly owned by a company excepted from the definition of investment company by paragraph (1) or (2) of this subsection.
 
@@ -144,7 +144,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;(12) Any voting trust the assets of which consist exclusively of securities of a single issuer which is not an investment company.
 
-&emsp;(13) Any security holders’ protective committee or similar issuer having outstanding and issuing no securities other than certificates of deposit and short-term paper.
+&emsp;(13) Any security holders’ protective committee or similar issuer having outstandingand issuing no securities other than certificates of deposit and short-term paper.
 
 &emsp;(14) Any church plan described in section 414(e) of title 26, if, under any such plan, no part of the assets may be used for, or diverted to, purposes other than the exclusive benefit of plan participants or beneficiaries, or any company or account that is—
 
@@ -160,7 +160,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 #### References in Text
 
-The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(8), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of this title, priorto repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(8), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of this title, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -196,7 +196,7 @@ Pub. L. 100–181, §606(2), (3), substituted “; or any governmental plan” 
 
 1980—Subsec. (c)(1). Pub. L. 96–477, §102, designated existing provisions as subpar. (A), provided that beneficial ownership was to be deemed to be that of the holders of ten per cent of company's outstanding securities, other than short term paper, unless, as of the date of the most recent acquisition by such company of securities of that issuer, the value of all securities owned by such company of all issuers which were or would, but for the exception set forth in subpar. (A), be excluded from the definition of investment company solely by par. (1), did not exceed ten per cent of the value of the company's total assets, that such issuer nonetheless was deemed to be an investment company for purposes of section 80a–12(d)(1) of this title, and added subpar. (B).
 
-Subsec. (c)(11). Pub. L. 96–477, §703, excluded from consideration as an investment company for purposes of this subchapter any employee's stock bonus, pension, or profit-sharing trust which holds only assets of governmental plans described in section 77c(a)(2)(C) of this title, redesignated former cl. (B) as (C), and added cl. (B).
+Subsec. (c)(11). Pub. L. 96–477, §703, excluded from consideration as an investment company for purposesof this subchapter any employee's stock bonus, pension, or profit-sharing trust which holds only assets of governmental plans described in section 77c(a)(2)(C) of this title, redesignated former cl. (B) as (C), and added cl. (B).
 
 1976—Subsec. (c)(7). Pub. L. 94–210 designated existing provisions as cls. (A) and (B) and, as so designated, in cl. (A) provided for applicability to section 314 of title 49 and inserted exception to exception, in cl. (B) inserted provisions relating to companies regulated under section 314 of title 49 and made changes in phraseology to conform cl. to cl. (A), and struck out proviso relating to assets of controlled company.
 
@@ -216,7 +216,7 @@ Subsec. (c)(8). Pub. L. 91–547, §3(b)(2), (4), redesignated par. (10) as (8),
 
 Subsecs. (c)(9), (10). Pub. L. 91–547, §3(b)(2), redesignated pars. (11) and (12) as (9) and (10), respectively. Former pars. (9) and (10) redesignated (7) and (8).
 
-Subsec. (c)(11). Pub. L. 91–547, §3(b)(2), (5), redesignated par. (13) as (11), substituted “requirements for qualification under section 401 of title 26 \[I.R.C. 1954\]” for “conditions of section 165 of title 26, as amended\[I.R. 1939\]”, and inserted provisions for exclusion as an investment company any collective trust fund maintained by a bank consisting solely of assets of such trusts or any separate account the assets of which are derived from certain sources. Former par. (11) redesignated (9).
+Subsec. (c)(11). Pub. L. 91–547, §3(b)(2), (5), redesignated par. (13) as (11), substituted “requirements for qualification under section 401 of title 26 \[I.R.C. 1954\]” for “conditions of section 165 of title 26, as amended \[I.R. 1939\]”, and inserted provisions for exclusion as an investment company any collective trust fund maintained by a bank consisting solely of assets of such trusts or any separate account the assets of which are derived from certain sources. Former par. (11) redesignated (9).
 
 Subsecs. (c)(12) to (15). Pub. L. 91–547, §3(b)(2), redesignated pars. (14) and (15) as (12) and (13), respectively. Former pars. (12) and (13) redesignated (10) and (11).
 
@@ -286,7 +286,7 @@ Section 508(f) of Pub. L. 104–290 provided that:
 
 “(1)
 
-Registration requirements.—Any security issued by or any interest or participation in any church plan, company, or account that is excluded from thedefinition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], as added by subsection (a) of this section, and any offer, sale, or purchase thereof, shall be exempt from any law of a State that requires registration or qualification of securities.
+Registration requirements.—Any security issued by or any interest or participation in any church plan, company, or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], as added by subsection (a) of this section, and any offer, sale, or purchase thereof, shall be exempt from any law of a State that requires registration or qualification of securities.
 
 “(2)
 

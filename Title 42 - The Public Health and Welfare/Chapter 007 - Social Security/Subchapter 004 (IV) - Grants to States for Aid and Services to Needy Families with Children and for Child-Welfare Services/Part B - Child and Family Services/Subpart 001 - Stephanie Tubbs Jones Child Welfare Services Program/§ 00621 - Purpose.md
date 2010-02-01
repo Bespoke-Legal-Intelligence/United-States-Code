@@ -62,7 +62,7 @@ Pub. L. 109–288, §2, Sept. 28, 2006, 120 Stat. 1233, provided that: “The Co
 
 &emsp;“(10) According to the Office of Applied Studies of the Substance Abuse and Mental Health Services Administration, the annual number of new uses of Methamphetamine, also known as ‘meth,’ has increased 72 percent over the past decade. According to a study conducted by the National Association of Counties which surveyed 500 county law enforcement agencies in 45 states, 88 percent of the agencies surveyed reported increases in meth related arrests starting 5 years ago.
 
-&emsp;“(11) According to the 2004 National Survey on Drug Use and Health, nearly 12,000,000 Americans havetried methamphetamine. Meth making operations have been uncovered in all 50 states, but the most wide-spread abuse has been concentrated in the western, southwestern, and Midwestern United States.
+&emsp;“(11) According to the 2004 National Survey on Drug Use and Health, nearly 12,000,000 Americans have tried methamphetamine. Meth making operations have been uncovered in all 50 states, but the most wide-spread abuse has been concentrated in the western, southwestern, and Midwestern United States.
 
 &emsp;“(12) Methamphetamine abuse is on the increase, particularly among women of child-bearing age. This is having an impact on child welfare systems in many States. According to a survey administered by the National Association of Counties (‘The Impact of Meth on Children’), conducted in 300 counties in 13 states, meth is a major cause of child abuse and neglect. Forty percent of all the child welfare officials in the survey reported an increase in out-of-home placements because of meth in 2005.
 

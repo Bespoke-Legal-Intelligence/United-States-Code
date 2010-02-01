@@ -74,9 +74,9 @@ NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of Ameri
 
 (1) <i>District 1</i>. All United States waters of the St. Lawrence River between the international boundary at St. Regis and a line at the head of the river running (at approximately 127° true) between Carruthers Point Light and South Side Light extended to the New York shore.
 
-(2) <i>District 2</i>. All United States waters of Lake Erie westward of a line running (at approximately 026° true) from Sandusky Pierhead Light at Cedar Point to Southeast Shoal Light; all waters contained within thearc of a circle of one mile radius eastward of Sandusky Pierhead Light; the Detroit River; Lake St. Clair; the St. Clair River, and northern approaches thereto south of latitude 43°0530N.
+(2) <i>District 2</i>. All United States waters of Lake Erie westward of a line running (at approximately 026° true) from Sandusky Pierhead Light at Cedar Point to Southeast Shoal Light; all waters contained within thearc of a circle of one mile radius eastward of Sandusky Pierhead Light; the Detroit River; Lake St. Clair; the St. Clair River, and northern approaches thereto south of latitude 43°05′30″ N.
 
-(3) <i>District 3</i>. All United States waters of the St. Marys River, Sault Sainte Marie Locks and approaches thereto between latitude 45°59N. at the southern approach and longitude 84°33W. at the northern approach.
+(3) <i>District 3</i>. All United States waters of the St. Marys River, Sault Sainte Marie Locks and approaches thereto between latitude 45°59′ N. at the southern approach and longitude 84°33′ W. at the northern approach.
 
 IN WITNESS WHEREOF, I have hereunto set my hand and caused the Seal of the United States of America to be affixed.
 

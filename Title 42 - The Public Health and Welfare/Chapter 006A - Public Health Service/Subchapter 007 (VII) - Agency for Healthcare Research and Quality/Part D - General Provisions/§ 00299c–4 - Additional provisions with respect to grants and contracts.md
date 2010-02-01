@@ -16,7 +16,7 @@ The Director may not, with respect to any program under this subchapter authoriz
 
 #### (1) In general
 
-&emsp;Upon the request of an entity receiving a grant, cooperative agreement, or contract under this subchapter, the Secretary may,subject to paragraph (2), provide supplies, equipment, and services for the purpose of aiding the entity in carrying out the project involved and, for such purpose, may detail to the entity any officer or employee of the Department of Health and Human Services.
+&emsp;Upon the request of an entity receiving a grant, cooperative agreement, or contract under this subchapter, the Secretary may, subject to paragraph (2), provide supplies, equipment, and services for the purpose of aiding the entity in carrying out the project involved and, for such purpose, may detail to the entity any officer or employee of the Department of Health and Human Services.
 
 #### (2) Corresponding reduction in funds
 

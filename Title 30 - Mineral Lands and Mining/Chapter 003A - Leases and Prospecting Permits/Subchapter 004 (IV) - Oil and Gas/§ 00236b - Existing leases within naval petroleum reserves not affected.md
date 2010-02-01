@@ -1,6 +1,6 @@
 ### §236b. Existing leases within naval petroleum reserves not affected
 
-Nothing in this act shall be construed as affecting existing leases within the borders of the naval petroleum reserves, or agreements concerning operations thereunder or in relation thereto.
+Nothing in this act shall be construed as affecting existing leases within the borders of thenaval petroleum reserves, or agreements concerning operations thereunder or in relation thereto.
 
 (Aug. 8, 1946, ch. 916, §13, 60 Stat. 958; Aug. 10, 1956, ch. 1041, §53, 70A Stat. 675.)
 

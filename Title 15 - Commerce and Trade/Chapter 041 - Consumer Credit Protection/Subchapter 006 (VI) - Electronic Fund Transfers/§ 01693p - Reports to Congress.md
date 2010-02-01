@@ -1,10 +1,14 @@
 ### §1693p. Reports to Congress
 
-(a) Not later than twelve months after the effective date of this subchapter and at one-year intervals thereafter, the Board shall make reports to the Congress concerning the administration of its functions under this subchapter, including such recommendations as the Board deems necessary and appropriate. In addition, each report of the Board shall include its assessment of the extent to which compliance with this subchapter is being achieved, and a summary of the enforcement actions taken under section 1693<i>o</i> of this title. In such report, the Board shall particularly address the effects of this subchapter on the costs and benefits to financial institutions and consumers, on competition, on the introduction of new technology, on the operations of financial institutions, and on the adequacy of consumer protection.
+(a) Not later than twelve months after the effective date of this subchapter and at one-year intervals thereafter, the Board shall make reports to the Congress concerning the administration of its functions under this subchapter, including such recommendations as the Board deems necessary and appropriate. In addition, each report of the Board shall include its assessment of the extent to which compliance with this subchapter is being achieved, and a summary of the enforcement actions taken under section 1693<i>o</i> of this title. In such report, the Board shall particularly address the effects of this subchapter on the costs and benefits to financial institutions and consumers, on competition, on the introduction of new technology, onthe operations of financial institutions, and on the adequacy of consumer protection.
 
 (b) In the exercise of its functions under this subchapter, the Board may obtain upon request the views of any other Federal agency which, in the judgment of the Board, exercises regulatory or supervisory functions with respect to any class of persons subject to this subchapter.
 
 (Pub. L. 90–321, title IX, §918, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3740; amended Pub. L. 97–375, title II, §209(a), Dec. 21, 1982, 96 Stat. 1825.)
+
+#### Renumbering of Section
+
+<i>Pub. L. 111–24, title IV, §§401(1), 403, May 22, 2009, 123 Stat. 1751, 1754, provided that, effective 15 months after May 22, 2009, section 918 of Pub. L. 90–321, which is classified to this section, is renumbered section 919 of Pub. L. 90–321.</i>
 
 #### References in Text
 

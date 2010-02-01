@@ -26,7 +26,7 @@ Delegation of Authority.—(1) The authority of the Secretary of Defense under s
 
 (B) The Secretary of Defense shall prescribe policies and procedures for making rewards in the manner described in subparagraph (A), which shall include guidance for the accountability of funds used for making rewards in that manner. The policies and procedures shall not take effect until 30 days after the date on which the Secretary submits the policies and procedures to the congressional defense committees. Rewards may not be made in the manner described in subparagraph (A) except under policies and procedures that have taken effect.
 
-(C) Rewards may not be made in the manner described in subparagraph (A) after September 30, 2009.
+(C) Rewards may not be made in the manner described in subparagraph (A) after September 30, 2010.
 
 (D) Not later than April 1, 2008, the Secretary of Defense shall submit to the congressional defense committees a report on the implementation of this paragraph. The report shall identify each reward made in the manner described in subparagraph (A) and, for each such reward—
 
@@ -78,9 +78,11 @@ Annual Report.—(1) Not later than December 1 of each year, the Secretary of De
 
 Determinations by the Secretary.—A determination by the Secretary under this section is final and conclusive and is not subject to judicial review.
 
-(Added Pub. L. 107–314, div. A, title X, §1065(a), Dec. 2, 2002, 116 Stat. 2655; amended Pub. L. 109–163, div. A, title X, §1056(c)(2), Jan. 6, 2006, 119 Stat. 3439; Pub. L. 109–364, div. A, title XIV, §1401, Oct. 17, 2006, 120 Stat. 2433; Pub. L. 110–181, div. A, title X, §1033, Jan. 28, 2008, 122 Stat. 307.)
+(Added Pub. L. 107–314, div. A, title X, §1065(a), Dec. 2, 2002, 116 Stat. 2655; amended Pub. L. 109–163, div. A, title X, §1056(c)(2), Jan. 6, 2006, 119 Stat. 3439; Pub. L. 109–364, div. A, title XIV, §1401, Oct. 17, 2006, 120 Stat. 2433; Pub. L. 110–181, div. A, title X, §1033, Jan. 28, 2008, 122 Stat. 307; Pub. L. 111–84, div. A, title X, §1071, Oct. 28, 2009, 123 Stat. 2470.)
 
 #### Amendments
+
+2009—Subsec. (c)(3)(C). Pub. L. 111–84 substituted “2010” for “2009”.
 
 2008—Subsec. (a). Pub. L. 110–181, §1033(b)(1)(A), in introductory provisions, inserted “, or government personnel of allied forces participating in a combined operation with the armed forces,” after “United States Government personnel”.
 

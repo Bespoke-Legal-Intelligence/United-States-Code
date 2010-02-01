@@ -36,7 +36,7 @@
 
 #### (1) Matching grants
 
-&emsp;The Assistant Secretary and the Administrator, after consultation with the Secretary of Homeland Security and the Chairman of the Federal Communications Commission, andacting through the Office, shall provide grants to eligible entities for the implementation and operation of Phase II E–911 services and for migration to an IP-enabled emergency network.
+&emsp;The Assistant Secretary and the Administrator, after consultation with the Secretary of Homeland Security and the Chairman of the Federal Communications Commission, and acting through the Office, shall provide grants to eligible entities for the implementation and operation of Phase II E–911 services and for migration to an IP-enabled emergency network.
 
 #### (2) Matching requirement
 
@@ -66,7 +66,7 @@
 
 #### (1) Designated E–911 charges
 
-&emsp;For the purposes of this subsection, the term “designated E–911 charges” means any taxes, fees, or other charges imposed by a State or other taxing jurisdiction that are designated or presented as dedicated to deliver or improve E–911 services.
+&emsp;For the purposes of this subsection, the term “designated E–911 charges” means any taxes,fees, or other charges imposed by a State or other taxing jurisdiction that are designated or presented as dedicated to deliver or improve E–911 services.
 
 #### (2) Certification
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(B) identify barriers that must be overcome and funding mechanisms to address those barriers;
 
-&emsp;&emsp;(C) provide specific mechanisms for ensuring the IP-enabled emergency network isavailable in every community and is coordinated on a local, regional, and statewide basis;
+&emsp;&emsp;(C) provide specific mechanisms for ensuring the IP-enabled emergency network is available in every community and is coordinated on a local, regional, and statewide basis;
 
 &emsp;&emsp;(D) identify location technology for nomadic devices and for office buildings and multi-dwelling units;
 

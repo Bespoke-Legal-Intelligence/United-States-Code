@@ -4,7 +4,7 @@
 
 From the amounts appropriated under subsection (c), the Secretary shall award a grant to one nonprofit organization described in subsection (b) to enable the nonprofit organization—
 
-&emsp;(1) to make publicly available the year-to-year postsecondary education enrollment rate trends of secondary school students, disaggregated by secondary school, in compliance with the Family Education Rights and Privacy Act of 1974;
+&emsp;(1) to make publicly available the year-to-year postsecondary education enrollment rate trends of secondary school students, disaggregated by secondary school, in compliance with section 1232g of this title (commonlyknown as the “Family Educational Rights and Privacy Act of 1974”);
 
 &emsp;(2) to identify not less than 50 urban local educational agencies and five States with significant rural populations, each serving a significant population of low-income students, and to carry out a comprehensive assessment in the agencies and States of the factors known to contribute to improved postsecondary education enrollment rates, which factors shall include—
 
@@ -38,9 +38,13 @@ The recipient of the grant awarded under subsection (a) shall be a nonprofit org
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-(Pub. L. 89–329, title VIII, §808, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3396.)
+(Pub. L. 89–329, title VIII, §808, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3396; amended Pub. L. 111–39, title VIII, §801(3), July 1, 2009, 123 Stat. 1955.)
 
-#### References in Text
+#### Amendments
 
-The Family Education Rights and Privacy Act of 1974, referred to in subsec. (a)(1), probably means the Family Educational Rights and Privacy Act of 1974, which is section 513 of Pub. L. 93–380, title V, Aug. 21, 1974, 88 Stat. 571, which enacted section 1232g of this title and provisions set out as notes under sections 1221 and 1232g of this title. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 1221 of this title and Tables.
+2009—Subsec. (a)(1). Pub. L. 111–39 substituted “section 1232g of this title (commonly known as the ‘Family Educational Rights and Privacy Act of 1974’)” for “the Family Education Rights and Privacy Act of 1974”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

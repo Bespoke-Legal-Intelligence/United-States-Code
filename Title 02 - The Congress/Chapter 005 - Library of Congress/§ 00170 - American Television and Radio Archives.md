@@ -20,7 +20,7 @@ The Librarian of Congress (hereinafter referred to as the “Librarian”) shall
 
 Notwithstanding the provisions of section 106 of title 17, the Librarian is authorized with respect to a transmission program which consists of a regularly scheduled newscast or on-the-spot coverage of news events and, under standards and conditions that the Librarian shall prescribe by regulation—
 
-&emsp;(1) to reproduce a fixation of such a program, in the same or another tangible form, for the purposes of preservation or security or for distribution under the conditions of clause (3) of this subsection;
+&emsp;(1) to reproduce a fixation of such a program, in the same or another tangible form, for the purposes of preservation or security or for distribution under the conditions of clause (3) of this subsection; and
 
 &emsp;(2) to compile, without abridgment or any other editing, portions of such fixations according to subject matter, and to reproduce such compilations for the purpose of clause (1) of this subsection; and
 

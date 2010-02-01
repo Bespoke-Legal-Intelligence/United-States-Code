@@ -40,7 +40,7 @@ As used in this chapter—
 
 &emsp;(1) with respect to an excess defense article, the actual value of the article plus the gross cost incurred by the United States Government in repairing, rehabilitating, or modifying the article, except that for purposes of section 2392(d) of this title such actual value shall not be taken into account;
 
-&emsp;(2) with respect to a nonexcess defense article delivered from inventory to foreign countries or international organizations under thischapter, the acquisition cost to the United States Government, adjusted as appropriate for condition and market value;
+&emsp;(2) with respect to a nonexcess defense article delivered from inventory to foreign countries or international organizations under this chapter, the acquisition cost to the United States Government, adjusted as appropriate for condition and market value;
 
 &emsp;(3) with respect to a nonexcess defense article delivered from new procurement to foreign countries or international organizations under this chapter, the contract or production costs of such article;
 
@@ -100,7 +100,7 @@ Subsec. (m). Pub. L. 93–189, §22(3), amended subsec. (m) generally. Prior to 
 
 &emsp;“(3) with respect to nonexcess defense articles delivered from new procurement to countries or international organizations under this chapter, the contract or production costs of such articles.
 
-> Military assistance programs and orders shall be based upon the best estimates of stock status and prevailing prices; reimbursements to the supplying agency shall be made on the basis of the stock status and prices determined pursuant to this section. Notwithstanding the foregoing provisions of this section, the Secretary of Defense may prescribe regulations authorizing reimbursements to the supplying agency based on negotiated prices for aircraft, vessels, plant equipment, and such other major items as he may specify: <i>Provided</i>, That such articles are not excess at the time such prices are negotiated: <i>Provided further</i>, That such pricesare negotiated at the time firm orders are placed with the supplying agency.”
+> Military assistance programs and orders shall be based upon the best estimates of stock status and prevailing prices; reimbursements to the supplying agency shall be made on the basis of the stock status and prices determined pursuant to this section. Notwithstanding the foregoing provisions of this section, the Secretary of Defense may prescribe regulations authorizing reimbursements to the supplying agency based on negotiated prices for aircraft, vessels, plant equipment, and such other major items as he may specify: <i>Provided</i>, That such articles are not excess at the time such prices are negotiated: <i>Provided further</i>, That such prices are negotiated at the time firm orders are placed with the supplying agency.”
 
 1972—Subsec. (m). Pub. L. 92–226 substituted “ ‘Value’ means, other than in section 2417 of this title” for “ ‘Value’ means”.
 

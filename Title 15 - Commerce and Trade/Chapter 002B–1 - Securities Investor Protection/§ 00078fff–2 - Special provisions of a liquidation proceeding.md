@@ -16,7 +16,7 @@
 
 #### (4) Effect on claims
 
-&emsp;Except as otherwise provided in this section, and without limiting the powers and duties of the trustee to discharge obligations promptly as specified in this section, nothing in this section shall limit the right of any person, including any subrogee, to establish by formal proof or otherwise as the court may provide such claims as such person may have against the debtor, including claims for the payment of money and the delivery of specific securities, without resort to moneys advanced by SIPC to the trustee.
+&emsp;Except as otherwise provided in this section, and without limiting the powers and duties of the trustee to discharge obligations promptly as specified in this section, nothing in this section shall limit the right of any person, including any subrogee, to establish by formal proof or otherwise as the court may provide such claims as such person may have against the debtor, including claims for the paymentof money and the delivery of specific securities, without resort to moneys advanced by SIPC to the trustee.
 
 #### (b) Payments to customers
 
@@ -60,7 +60,7 @@ The trustee shall, to the extent that securities can be purchased in a fair and 
 
 #### (1) In general
 
-&emsp;Any contract of the debtor for the purchase or sale of securities in the ordinary course of its business with other brokers or dealers which is wholly executory on the filing date shall not be completed by the trustee, except to the extent permitted by SIPC rule. Upon the adoption by SIPC of rules with respect to the closeout of such a contract but prior to the adoption of rules with respect to the completion of such a contract, the other broker or dealer shall close out such contract, without unnecessary delay, in the best available market and pursuant to such SIPC rules. Until such time as SIPC adopts rules with respect to the completion or closeout of such a contract, such a contract shall be closed out in accordance with Commission Rule S6(d)–1 as in effect on May 21, 1978, or any comparable rule of the Commission subsequently adopted, to the extent not inconsistent with the provisions of this subsection.
+&emsp;Any contract of the debtor for the purchase or sale of securities in the ordinary course ofits business with other brokers or dealers which is wholly executory on the filing date shall not be completed by the trustee, except to the extent permitted by SIPC rule. Upon the adoption by SIPC of rules with respect to the closeout of such a contract but prior to the adoption of rules with respect to the completion of such a contract, the other broker or dealer shall close out such contract, without unnecessary delay, in the best available market and pursuant to such SIPC rules. Until such time as SIPC adopts rules with respect to the completion or closeout of such a contract, such a contract shall be closed out in accordance with Commission Rule S6(d)–1 as in effect on May 21, 1978, or any comparable rule of the Commission subsequently adopted, to the extent not inconsistent with the provisions of this subsection.
 
 #### (2) Net profit or loss
 
@@ -70,7 +70,7 @@ The trustee shall, to the extent that securities can be purchased in a fair and 
 
 &emsp;&emsp;(B) if such broker or dealer sustains a net loss on such contracts, he shall be entitled to file a claim against the debtor with the trustee in the amount of such net loss.
 
-> &emsp;To the extent that a net loss sustained by a broker or dealer arises from contracts pursuant to which such broker or dealer was acting for its own customer, such broker or dealer shall be entitled to receive funds advanced by SIPC to the trustee in the amount of such loss, except that such broker or dealer may not receive more than $40,000 for each separatecustomer with respect to whom it sustained a loss. With respect to a net loss which is not payable under the preceding sentence from funds advanced by SIPC, the broker or dealer shall be entitled to participate in the general estate as an unsecured creditor.
+> &emsp;To the extent that a net loss sustained by a broker or dealer arises from contracts pursuant to which such broker or dealer was acting for its own customer, such broker or dealer shall be entitled to receive funds advanced by SIPC to the trustee in the amount of such loss, except that such broker or dealer may not receive more than $40,000 for each separate customer with respect to whom it sustained a loss. With respect to a net loss which is not payable under the preceding sentence from funds advanced by SIPC, the broker or dealer shall be entitled to participate in the general estate as an unsecured creditor.
 
 #### (3) Registered clearing agencies
 

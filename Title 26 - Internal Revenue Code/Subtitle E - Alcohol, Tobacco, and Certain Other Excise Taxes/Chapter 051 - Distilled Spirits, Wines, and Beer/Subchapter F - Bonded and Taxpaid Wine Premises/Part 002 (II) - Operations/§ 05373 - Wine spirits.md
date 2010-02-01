@@ -24,7 +24,7 @@ The wine spirits authorized to be used in wine production shall be brandy or win
 
 #### (c) Distillates containing aldehydes
 
-When the Secretary deems such removal and use will not jeopardize the revenue nor unduly increase administrative supervision, distillates containing aldehydes may, under such regulations as the Secretary may prescribe, be removed without payment of tax from the bondedpremises of a distilled spirits plant to an adjacent bonded wine cellar and used therein in fermentation of wine to be used as distilling material at the distilled spirits plant from which such unfinished distilled spirits were removed.
+When the Secretary deems such removal and use will not jeopardize the revenue nor unduly increase administrative supervision, distillates containing aldehydes may, under such regulations as the Secretary may prescribe, be removed without payment of tax from the bonded premises of a distilled spirits plant to an adjacent bonded wine cellar and used therein in fermentation of wine to be used as distilling material at the distilled spirits plant from which such unfinished distilled spirits were removed.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1382; amended Pub. L. 90–619, §1, Oct. 22, 1968, 82 Stat. 1236; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
@@ -36,7 +36,7 @@ A prior section 5373, act Aug. 16, 1954, ch. 736, 68A Stat. 667, consisted of pr
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1968—Subsec. (a). Pub. 90–619 inserted special natural wine, under conditions prescribed by regulations, as one of the materials from which wine spirits may be produced and extended to special natural wines the existing prohibition on the use of natural wine whose sugars have been refermented.
+1968—Subsec. (a). Pub. L. 90–619 inserted special natural wine, under conditions prescribed by regulations, as one of the materials from which wine spirits may be produced and extended to special natural wines the existing prohibition on the use of natural wine whose sugars have been refermented.
 
 #### Effective Date of 1968 Amendment
 

@@ -68,7 +68,7 @@ Funds in the Federal Land Disposal Account shall not be used to purchase land or
 
 #### (e) Land and Water Conservation Fund Act
 
-Funds made available under this section shall be supplemental to any funds appropriatedunder the Land and Water Conservation Fund Act (16 U.S.C. 460l–4 et seq.).
+Funds made available under this section shall be supplemental to any funds appropriated under the Land and Water Conservation Fund Act (16 U.S.C. 460l–4 et seq.).
 
 #### (f) Termination
 

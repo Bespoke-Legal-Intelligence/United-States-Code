@@ -230,7 +230,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §316(c); added Aug. 5, 1974, Pub
 
 In subsection (a), before clause (1), the words “Not later than 270 days after November 16, 1990” are omitted as obsolete. The words “contracting for” are substituted for “contracting of” for clarity and consistency in the revised title.
 
-In subsection (c)(1)(A), the words “individuals employed” are substituted for “personnel employed by him . . . and for other personnel, including State, local, and private law enforcement personnel, whose services may be utilized” for clarity and consistency in the revised title and with other titles of the United States Code.
+In subsection (c)(1)(A), the words “individuals employed” are substituted for “personnel employed by him . . . and for other personnel, including State, local,and private law enforcement personnel, whose services may be utilized” for clarity and consistency in the revised title and with other titles of the United States Code.
 
 In subsection (c)(1)(B), the words “individuals eligible” are substituted for “personnel whose services are utilized to enforce any such transportation security program, including State, local, and private law enforcement personnel . . . for personnel eligible” for clarity and consistency in the revised title and with other titles of the Code.
 
@@ -280,7 +280,7 @@ Amendment by Pub. L. 106–528 effective 30 days after Nov. 22, 2000, see sectio
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland SecurityReorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Transition
 

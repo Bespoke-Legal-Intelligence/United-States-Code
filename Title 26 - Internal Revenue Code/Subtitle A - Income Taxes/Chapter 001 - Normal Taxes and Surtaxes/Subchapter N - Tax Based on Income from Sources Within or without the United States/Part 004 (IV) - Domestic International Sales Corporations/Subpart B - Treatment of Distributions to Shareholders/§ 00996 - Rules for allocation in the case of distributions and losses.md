@@ -74,7 +74,7 @@ For purposes of this part:
 
 #### (1) DISC income
 
-&emsp;The earnings and profits derived by a corporation during a taxable year in which such corporation is a DISC, before reduction for any distributions during the year, but reduced by amounts deemed distributed under section 995(b)(1), shall constitute the DISC income for such year. The earnings and profits of a DISC for a taxable year include any amounts includible in such DISC's gross income pursuant to section 951(a) for such year. Accumulated DISC income shall be reduced by deemed distributions under section 995(b)(2).
+&emsp;The earnings and profits derived by a corporation during a taxable year in which such corporation is a DISC, before reduction for any distributions during the year, but reduced by amounts deemed distributed under section 995(b)(1), shall constitute the DISC income forsuch year. The earnings and profits of a DISC for a taxable year include any amounts includible in such DISC's gross income pursuant to section 951(a) for such year. Accumulated DISC income shall be reduced by deemed distributions under section 995(b)(2).
 
 #### (2) Previously taxed income
 

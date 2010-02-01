@@ -4,7 +4,7 @@
 
 #### (1) Program
 
-&emsp;The Secretary of Agriculture shall carry out an outreach and technical assistance program to encourage and assist socially disadvantaged farmers and ranchers—
+&emsp;The Secretary of Agriculture shall carry out an outreach and technical assistance programto encourage and assist socially disadvantaged farmers and ranchers—
 
 &emsp;&emsp;(A) in owning and operating farms and ranches; and
 
@@ -60,7 +60,7 @@
 
 #### (B) Interagency funding
 
-&emsp;&emsp;In addition to funds authorized to be appropriated under subparagraph (A), any agency of the Department may participate in any grant, contract, or agreement entered into under this subsection by contributingfunds, if the agency determined that the objectives of the grant, contract, or agreement will further the authorized programs of the contributing agency.
+&emsp;&emsp;In addition to funds authorized to be appropriated under subparagraph (A), any agency of the Department may participate in any grant, contract, or agreement entered into under this subsection by contributing funds, if the agency determined that the objectives of the grant, contract, or agreement will further the authorized programs of the contributing agency.
 
 #### (C) Limitation on use of funds for administrative expenses
 
@@ -220,7 +220,7 @@ The Secretary shall ensure, to the maximum extent practicable, that the Census o
 
 The Agricultural Act of 1949, referred to in subsec. (e)(3)(A), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (e)(3)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of this title. For complete classification of this Act to theCode, see Short Title note set out under section 1921 of this title and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (e)(3)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 The Agricultural Adjustment Act of 1938, referred to in subsec. (e)(3)(C), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
@@ -246,7 +246,7 @@ Subsec. (a)(4)(A). Pub. L. 110–246, §14004(a)(3)(A), added subpar. (A) and st
 
 Subsec. (a)(4)(C). Pub. L. 110–246, §14004(a)(3)(B), added subpar. (C).
 
-Subsec. (e)(5)(A)(ii). Pub. L. 110–246, §14004(b), which directed amendment of cl. (ii) by substituting “work with, and on behalf of, socially disadvantaged farmers or ranchers during the 3-year period” for “work with socially disadvantaged farmers or ranchers during the 2-year period”, was executed by making the substitution for “work with socially disadvantaged farmers and ranchers during the 2-year period”, to reflect the probable intent of Congress.
+Subsec. (e)(5)(A)(ii). Pub. L. 110–246, §14004(b), which directed amendment of cl. (ii) by substituting “work with, and on behalf of, socially disadvantaged farmers or ranchers during the 3-year period” for “work with socially disadvantaged farmers or ranchers during the 2-year period”, was executed by making the substitution for “work with socially disadvantaged farmersand ranchers during the 2-year period”, to reflect the probable intent of Congress.
 
 Subsec. (g)(1). Pub. L. 110–246, §14001, substituted “Farm Service Agency and Natural Resources Conservation Service” for “Agricultural Stabilization and Conservation Service, Soil Conservation Service, and Farmers Home Administration offices”, inserted “where there has been a need demonstrated” after “include”, and struck out at end “The tribe shall be required to provide the necessary office space if it wishes to participate in this program.”
 

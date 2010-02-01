@@ -76,11 +76,13 @@ Multiyear Contract Defined.—For the purposes of this section, a multiyear cont
 
 (h)
 
-Military Installation Defined.—In this section, the term “military installation” has the meaning given such term in section 2801(c)(2) of this title.
+Military Installation Defined.—In this section, the term “military installation” has the meaning given such term in section 2801(c)(4) of this title.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–203; amended Pub. L. 107–314, div. A, title VIII, §§811(a), 827, Dec. 2, 2002, 116 Stat. 2608, 2617; Pub. L. 108–136, div. A, title VIII, §843(a), title X, §1043(c)(1), Nov. 24, 2003, 117 Stat. 1553, 1611; Pub. L. 108–375, div. A, title VIII, §814(b), Oct. 28, 2004, 118 Stat. 2014.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–203; amended Pub. L. 107–314, div. A, title VIII, §§811(a), 827, Dec. 2, 2002, 116 Stat. 2608, 2617; Pub. L. 108–136, div. A, title VIII, §843(a), title X, §1043(c)(1), Nov. 24, 2003, 117 Stat. 1553, 1611; Pub. L. 108–375, div. A, title VIII, §814(b), Oct. 28, 2004, 118 Stat. 2014; Pub. L. 111–84, div. A, title X, §1073(a)(22), Oct. 28, 2009, 123 Stat. 2473.)
 
 #### Amendments
+
+2009—Subsec. (h). Pub. L. 111–84 substituted “section 2801(c)(4)” for “section 2801(c)(2)”.
 
 2004—Subsec. (d)(1), (3), (4). Pub. L. 108–375, §814(b)(1), substituted “congressional defense committees” for “committees of Congress named in paragraph (5)”.
 

@@ -18,7 +18,7 @@
 
 #### (3) Regional centers
 
-&emsp;Such a statewide system shall, to the extent practicable, work with and receive support and assistance from regional educational laboratories established under part D of the Education Sciences Reform Act of 2002 \[20 U.S.C. 9561 et seq.\] and comprehensive centers established under the Educational Technical Assistance Act of 2002 \[20 U.S.C. 9601 et seq.\] and the comprehensive regional technical assistance centers and the regional educational laboratories under section 6041(h) of this title (as such section existed on the day before November 5, 2002), or other providers of technical assistance.
+&emsp;Such a statewide system shall, to the extent practicable, work with and receive supportand assistance from regional educational laboratories established under part D of the Education Sciences Reform Act of 2002 \[20 U.S.C. 9561 et seq.\] and comprehensive centers established under the Educational Technical Assistance Act of 2002 \[20 U.S.C. 9601 et seq.\] and the comprehensive regional technical assistance centers and the regional educational laboratories under section 6041(h) of this title (as such section existed on the day before November 5, 2002), or other providers of technical assistance.
 
 #### (4) Statewide system
 
@@ -146,7 +146,7 @@ Section 6041(h) of this title, referred to in subsec. (a)(3), was repealed by Pu
 
 #### Prior Provisions
 
-A prior section 6317, Pub. L. 89–10, title I, §1116, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3542; amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(b)(2)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, related to assessment and local educational agency and school improvement, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6316 of this title.
+A prior section 6317, Pub. L. 89–10, title I, §1116, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3542; amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(b)(2)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, related to assessment and local educational agency and school improvement, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6316 of this title.
 
 A prior section 1117 of Pub. L. 89–10 was classified to section 6318 of this title prior to the general amendment of this subchapter by Pub. L. 107–110.
 

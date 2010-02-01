@@ -26,7 +26,7 @@
 
 #### (b) Contents of solicitation
 
-In addition to the specifications described in subsection (a) of this section, each solicitation for sealed bids or competitive proposals (other than for a procurement for commercial itemsusing special simplified procedures or a purchase for an amount not greater than the simplified acquisition threshold) shall at a minimum include—
+In addition to the specifications described in subsection (a) of this section, each solicitation for sealed bids or competitive proposals (other than for a procurement for commercial items using special simplified procedures or a purchase for an amount not greater than the simplified acquisition threshold) shall at a minimum include—
 
 &emsp;(1) a statement of—
 
@@ -112,7 +112,7 @@ Pub. L. 108–136, div. A, title XIV, §1428, Nov. 24, 2003, 117 Stat. 1670, pro
 
 “(a)
 
-Amendment to the Federal Acquisition Regulation.—Not later than 180 days after the date of theenactment of this Act \[Nov. 24, 2003\], the Federal Acquisition Regulatory Council shall amend the Federal Acquisition Regulation issued in accordance with sections 6 and 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 405 and 421) to permit telecommuting by employees of Federal Government contractors in the performance of contracts entered into with executive agencies.
+Amendment to the Federal Acquisition Regulation.—Not later than 180 days after the date of the enactment of this Act \[Nov. 24, 2003\], the Federal Acquisition Regulatory Council shall amend the Federal Acquisition Regulation issued in accordance with sections 6 and 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 405 and 421) to permit telecommuting by employees of Federal Government contractors in the performance of contracts entered into with executive agencies.
 
 “(b)
 

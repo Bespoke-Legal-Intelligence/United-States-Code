@@ -30,7 +30,7 @@ The Director of NIH shall periodically review, and as appropriate, make revision
 
 #### (d) Dissemination of information
 
-The Director of NIH shall take such actions as may be appropriate to convey to scientists andothers who use animals in biomedical or behavioral research or experimentation information respecting the methods found to be valid and reliable under subsection (a)(2) of this section.
+The Director of NIH shall take such actions as may be appropriate to convey to scientists and others who use animals in biomedical or behavioral research or experimentation information respecting the methods found to be valid and reliable under subsection (a)(2) of this section.
 
 #### (e) Interagency Coordinating Committee on the Use of Animals in Research
 

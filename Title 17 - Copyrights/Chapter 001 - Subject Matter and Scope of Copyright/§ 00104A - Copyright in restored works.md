@@ -64,11 +64,11 @@ Existing derivative works.—(A) In the case of a derivative work that is based 
 
 > &emsp;a reliance party may continue to exploit that derivative work for the duration of the restored copyright if the reliance party pays to the owner of the restored copyright reasonable compensation for conduct which would be subject to a remedy for infringement but for the provisions of this paragraph.
 
-&emsp;(B) In the absence of an agreement between the parties, the amount of such compensation shall be determined by an action in United States district court, and shall reflect any harm to the actual or potential market for or value of the restored work from the reliance party's continued exploitation of the work, as well as compensation for the relative contributions of expression of the author of the restored work and the reliance party to the derivative work.
+&emsp;(B) In the absence of an agreement between the parties, the amount of such compensation shall be determined by an action in United States district court, and shall reflect any harm to the actual or potential market for or value of the restored work from the relianceparty's continued exploitation of the work, as well as compensation for the relative contributions of expression of the author of the restored work and the reliance party to the derivative work.
 
 &emsp;(4)
 
-Commencement of infringement for reliance parties.—For purposes of section 412, in the case of reliance parties, infringement shall be deemed to have commenced before registration when acts which would have constituted infringement had the restored workbeen subject to copyright were commenced before the date of restoration.
+Commencement of infringement for reliance parties.—For purposes of section 412, in the case of reliance parties, infringement shall be deemed to have commenced before registration when acts which would have constituted infringement had the restored work been subject to copyright were commenced before the date of restoration.
 
 (e)
 
@@ -122,7 +122,7 @@ Proclamation of Copyright Restoration.—Whenever the President finds that a par
 
 &emsp;(2) which was first published in that nation.
 
-> The President may revise, suspend, or revoke any such proclamation or impose any conditions or limitations on protection under such a proclamation.
+> The President may revise, suspend, or revoke any such proclamation or impose any conditionsor limitations on protection under such a proclamation.
 
 (h)
 

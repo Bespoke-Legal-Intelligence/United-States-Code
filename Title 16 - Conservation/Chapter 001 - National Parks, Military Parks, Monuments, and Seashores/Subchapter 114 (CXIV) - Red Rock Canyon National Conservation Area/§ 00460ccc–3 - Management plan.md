@@ -20,11 +20,11 @@
 
 Subject to section 460ccc–5 of this title, nothing in this subchapter is intended to alter the requirements of section 1782 of title 43, or section 5(a) of the National Forest and Public Lands of Nevada Enhancement Act of 1988 (102 Stat. 2751), as those requirements apply to the lands within, or adjacent to the conservation area as of November 16, 1990.
 
-(Pub. L. 101–621, §5, Nov. 16, 1990, 104 Stat. 3343; Pub. L. 103–437, §6(d)(23), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 103–450, §2(a), Nov. 2, 1994, 108 Stat. 4766.)
+(Pub. L. 101–621, §5, Nov. 16, 1990, 104 Stat. 3343; Pub. L. 103–437, §6(d)(23), Nov. 2, 1994, 108 Stat.4584; Pub. L. 103–450, §2(a), Nov. 2, 1994, 108 Stat. 4766.)
 
 #### References in Text
 
-The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(2)(C), is Pub. L. 96–95, Oct. 31,1979, 93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables.
+The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(2)(C), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables.
 
 The National Historic Preservation Act, referred to in subsec. (a)(2)(C), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see section 470 of this title and Tables.
 

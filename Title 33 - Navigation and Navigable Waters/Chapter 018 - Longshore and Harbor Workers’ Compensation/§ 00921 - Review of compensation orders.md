@@ -2,7 +2,7 @@
 
 #### (a) Effectiveness and finality of orders
 
-A compensation order shall become effective when filed in the office of the deputy commissioner as provided in section 919 of this title, and, unless proceedings for the suspension or setting aside of such order are instituted as provided in subsection (b) of this section, shall become final at the expiration of the thirtieth day thereafter.
+A compensation order shall become effective when filed in the office of the deputy commissioner as provided in section 919 of this title, and, unless proceedings for the suspension orsetting aside of such order are instituted as provided in subsection (b) of this section, shall become final at the expiration of the thirtieth day thereafter.
 
 #### (b) Benefits Review Board; establishment; members; chairman; quorum; voting; questions reviewable; record; conclusiveness of findings; stay of payments; remand
 
@@ -18,7 +18,7 @@ A compensation order shall become effective when filed in the office of the depu
 
 #### (c) Court of appeals; jurisdiction; persons entitled to review; petition; record; determination and enforcement; service of process; stay of payments
 
-Any person adversely affected or aggrieved by a final order of the Board may obtain a review of that order in the United States court of appeals for the circuit in which the injury occurred, by filing in such court within sixty days following the issuance of such Board order a written petition praying that the order be modified or set aside. A copy of such petition shall beforthwith transmitted by the clerk of the court, to the Board, and to the other parties, and thereupon the Board shall file in the court the record in the proceedings as provided in section 2112 of title 28. Upon such filing, the court shall have jurisdiction of the proceeding and shall have the power to give a decree affirming, modifying, or setting aside, in whole or in part, the order of the Board and enforcing same to the extent that such order is affirmed or modified. The orders, writs, and processes of the court in such proceedings may run, be served, and be returnable anywhere in the United States. The payment of the amounts required by an award shall not be stayed pending final decision in any such proceeding unless ordered by the court. No stay shall be issued unless irreparable injury would otherwise ensue to the employer or carrier. The order of the court allowing any stay shall contain a specific finding, based upon evidence submitted to the court and identified by reference thereto, that irreparable damage would result to the employer, and specifying the nature of the damage.
+Any person adversely affected or aggrieved by a final order of the Board may obtain a review of that order in the United States court of appeals for the circuit in which the injury occurred, by filing in such court within sixty days following the issuance of such Board order a written petition praying that the order be modified or set aside. A copy of such petition shall be forthwith transmitted by the clerk of the court, to the Board, and to the other parties, and thereupon the Board shall file in the court the record in the proceedings as provided in section 2112 of title 28. Upon such filing, the court shall have jurisdiction of the proceeding and shall have the power to give a decree affirming, modifying, or setting aside, in whole or in part, the order of the Board and enforcing same to the extent that such order is affirmed or modified. The orders, writs, and processes of the court in such proceedings may run, be served, and be returnable anywhere in the United States. The payment of the amounts required by an award shall not be stayed pending final decision in any such proceeding unless ordered by the court. No stay shall be issued unless irreparable injury would otherwise ensue to the employer or carrier. The order of the court allowing any stay shall contain a specific finding, based upon evidence submitted to the court and identified by reference thereto, that irreparable damage would result to the employer, and specifying the nature of the damage.
 
 #### (d) District court; jurisdiction; enforcement of orders; application of beneficiaries of awards or deputy commissioner; process for compliance with orders
 
@@ -28,7 +28,7 @@ If any employer or his officers or agents fails to comply with a compensation or
 
 Proceedings for suspending, setting aside, or enforcing a compensation order, whether rejecting a claim or making an award, shall not be instituted otherwise than as provided in this section and section 918 of this title.
 
-(Mar. 4, 1927, ch. 509, §21, 44 Stat. 1436; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 92–576, §15(a), (b), Oct. 27, 1972, 86 Stat. 1261, 1262; Pub. L. 95–251, §2(a)(10), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–426, §15, Sept. 28, 1984, 98 Stat. 1649.)
+(Mar. 4, 1927, ch. 509, §21, 44 Stat. 1436; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 92–576, §15(a), (b), Oct. 27, 1972,86 Stat. 1261, 1262; Pub. L. 95–251, §2(a)(10), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–426, §15, Sept. 28, 1984, 98 Stat. 1649.)
 
 #### Codification
 

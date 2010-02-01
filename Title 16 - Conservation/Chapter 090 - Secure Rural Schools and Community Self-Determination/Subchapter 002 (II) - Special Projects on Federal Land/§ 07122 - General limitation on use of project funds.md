@@ -6,7 +6,7 @@ Project funds shall be expended solely on projects that meet the requirements of
 
 #### (b) Authorized uses
 
-Project funds may be used by the Secretary concerned for the purpose of entering into andimplementing cooperative agreements with willing Federal agencies, State and local governments, private and nonprofit entities, and landowners for protection, restoration, and enhancement of fish and wildlife habitat, and other resource objectives consistent with the purposes of this chapter on Federal land and on non-Federal land where projects would benefit the resources on Federal land.
+Project funds may be used by the Secretary concerned for the purpose of entering into and implementing cooperative agreements with willing Federal agencies, State and local governments, private and nonprofit entities, and landowners for protection, restoration, and enhancement of fish and wildlife habitat, and other resource objectives consistent with the purposes of this chapter on Federal land and on non-Federal land where projects would benefit the resources on Federal land.
 
 (Pub. L. 106–393, title II, §202, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3901.)
 

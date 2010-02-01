@@ -12,7 +12,7 @@ If the amount made available from Federal sources for the administration of prog
 
 #### Prior Provisions
 
-A prior section 2413, Pub. L. 88–210, title III, §323, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3124, related to State administrative costs, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2413, Pub. L. 88–210, title III, §323, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3124,related to State administrative costs, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2413, Pub. L. 88–210, title IV, §413, as added Pub. L. 101–392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 813, authorized establishment of demonstration centers for training of dislocated workers, prior to the general amendment of this chapter by Pub. L. 105–332.
 

@@ -20,9 +20,9 @@
 
 &emsp;All records required under paragraph (1) shall be available for audit by the Comptroller General of the United States, the Inspector General of the Department of Agriculture, and the Authority (including authorized representatives of the Comptroller General, the Inspector General of the Department of Agriculture, and the Authority).
 
-#### (c) Annual audit
+(Pub. L. 87–128, title III, §382K, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–280; amended Pub. L. 111–8, div. A, title VII, §733, Mar. 11, 2009, 123 Stat. 558.)
 
-The Inspector General of the Department of Agriculture shall audit the activities, transactions, and records of the Authority on an annual basis.
+#### Amendments
 
-(Pub. L. 87–128, title III, §382K, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–280.)
+2009—Pub. L. 111–8 struck out subsec. (c). Text read as follows: “The Inspector General of the Department of Agriculture shall audit the activities, transactions, and records of the Authority on an annual basis.”
 

@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The Secretary is authorized, subject to the availability of appropriations, to make grants totribally controlled colleges or universities which receive grants under either this chapter or the Navajo Community College Act \[25 U.S.C. 640a et seq.\] for the establishment and support of tribal economic development and education institutes. Each program conducted with assistance under a grant under this subsection shall include at least the following activities:
+The Secretary is authorized, subject to the availability of appropriations, to make grants to tribally controlled colleges or universities which receive grants under either this chapter or the Navajo Community College Act \[25 U.S.C. 640a et seq.\] for the establishment and support of tribal economic development and education institutes. Each program conducted with assistance under a grant under this subsection shall include at least the following activities:
 
 &emsp;(1) Determination of the economic development needs and potential of the Indian tribes involved in the program, including agriculture and natural resources needs.
 

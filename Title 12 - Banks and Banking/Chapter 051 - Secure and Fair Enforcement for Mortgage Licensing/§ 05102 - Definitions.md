@@ -96,7 +96,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (8) Residential mortgage loan
 
-&emsp;The term “residential mortgage loan” means any loan primarily for personal, family,or household use that is secured by a mortgage, deed of trust, or other equivalent consensual security interest on a dwelling (as defined in section 1602(v) of title 15) or residential real estate upon which is constructed or intended to be constructed a dwelling (as so defined).
+&emsp;The term “residential mortgage loan” means any loan primarily for personal, family, or household use that is secured by a mortgage, deed of trust, or other equivalent consensual security interest on a dwelling (as defined in section 1602(v) of title 15) or residential real estate upon which is constructed or intended to be constructed a dwelling (as so defined).
 
 #### (9) Secretary
 

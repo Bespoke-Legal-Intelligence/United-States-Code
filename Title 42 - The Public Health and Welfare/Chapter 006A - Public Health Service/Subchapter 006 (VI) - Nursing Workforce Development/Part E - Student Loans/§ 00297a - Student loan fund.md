@@ -14,7 +14,7 @@ Each agreement entered into under this section shall—
 
 &emsp;(3) provide that the fund, except as provided in section 297h of this title, shall be used only for loans to students of the school in accordance with the agreement and for costs of collection of such loans and interest thereon;
 
-&emsp;(4) provide that loans may be made from such fund only to students pursuing a fulltime or half-time course of study at the school leading to a baccalaureate or associate degree in nursing or an equivalent degree or a diploma in nursing, or to a graduate degree in nursing;
+&emsp;(4) provide that loans may be made from such fund only to students pursuing a fulltime or half-time course of study at the school leading to a baccalaureate or associate degree in nursing or an equivalent degree or a diploma in nursing, or to a graduate degree in nursing; and
 
 &emsp;(5) contain such other provisions as are necessary to protect the financial interests of the United States.
 
@@ -48,7 +48,7 @@ Each agreement entered into under this section shall—
 
 &emsp;&emsp;(ii) in their grace period.
 
-(July 1, 1944, ch. 373, title VIII, §835, formerly §822, as added Pub. L. 88–581, §2, Sept. 4, 1964, 78 Stat. 913; amended Pub. L. 90–490, title II, §222(a), (c)(2), Aug. 16, 1968, 82 Stat. 783, 784; Pub. L. 92–158, §6(d)(3), (e), Nov. 18, 1971, 85 Stat. 478; Pub. L. 93–385, §3(b), Aug. 23, 1974, 88 Stat. 741; renumbered §835 and amended Pub. L. 94–63, title IX, §§936(a), 941(h)(1)–(3), (i)(1), (2), July 29, 1975, 89 Stat. 362, 365, 366; Pub. L. 96–76, title I, §109(a), Sept. 29, 1979, 93 Stat. 579; Pub. L. 97–35, title XXVII, §2757(a), Aug. 13, 1981, 95 Stat. 931; Pub. L. 99–92, §8(a), Aug. 16, 1985, 99 Stat. 397; Pub. L. 99–129, title II, §209(j)(2), Oct. 22, 1985, 99 Stat. 536; Pub. L. 100–607, title VII, §713(a), Nov. 4, 1988, 102 Stat. 3160.)
+(July 1, 1944, ch. 373, title VIII, §835, formerly §822, as added Pub. L. 88–581, §2, Sept. 4, 1964, 78 Stat. 913; amended Pub. L. 90–490, title II, §222(a), (c)(2), Aug. 16, 1968, 82 Stat. 783, 784; Pub. L. 92–158, §6(d)(3), (e), Nov. 18, 1971, 85 Stat. 478;Pub. L. 93–385, §3(b), Aug. 23, 1974, 88 Stat. 741; renumbered §835 and amended Pub. L. 94–63, title IX, §§936(a), 941(h)(1)–(3), (i)(1), (2), July 29, 1975, 89 Stat. 362, 365, 366; Pub. L. 96–76, title I, §109(a), Sept. 29, 1979, 93 Stat. 579; Pub. L. 97–35, title XXVII, §2757(a), Aug. 13, 1981, 95 Stat. 931; Pub. L. 99–92, §8(a), Aug. 16, 1985, 99 Stat. 397; Pub. L. 99–129, title II, §209(j)(2), Oct. 22, 1985, 99 Stat. 536; Pub. L. 100–607, title VII, §713(a), Nov. 4, 1988, 102 Stat. 3160.)
 
 #### References in Text
 

@@ -188,7 +188,7 @@ With respect to activities for which a grant under this section is authorized, t
 
 #### (h) Technical assistance
 
-The Secretary may, either directly or by grant or contract, provide any entity that receives a grant under this section with technical and other nonfinancial assistance necessary to meet the requirements of this section.
+The Secretary may, either directly or by grant or contract, provide any entity that receives agrant under this section with technical and other nonfinancial assistance necessary to meet the requirements of this section.
 
 #### (i) Evaluation of program
 

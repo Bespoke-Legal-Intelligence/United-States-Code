@@ -70,7 +70,7 @@ The Controlled Substances Act, referred to in subsec. (a)(1), is title II of Pub
 
 Subsec. (b)(3). Pub. L. 104–134, §101(c) \[title III, §330(1)(B)\], substituted “20” for “ten”.
 
-Subsec. (b)(4). Pub. L. 104–134, §101(c) \[title III, §330(1)(C), (D)\], substituted “if damage to the property of any individual results or if avoidance costs have been incurred exceeding $10,000, in the aggregate,” for “if damage exceeding $10,000 to the property of any individual results,” and “20” for “ten”.
+Subsec. (b)(4). Pub. L. 104–134, §101(c) \[title III, §330(1)(C), (D)\], substituted “if damage to the propertyof any individual results or if avoidance costs have been incurred exceeding $10,000, in the aggregate,” for “if damage exceeding $10,000 to the property of any individual results,” and “20” for “ten”.
 
 Subsec. (c). Pub. L. 104–134, §101(c) \[title III, §330(2)\], substituted “20” for “ten”.
 

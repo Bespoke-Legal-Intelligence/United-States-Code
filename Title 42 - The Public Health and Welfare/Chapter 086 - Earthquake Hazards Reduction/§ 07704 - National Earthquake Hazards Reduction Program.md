@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) a detailed management plan to implement such strategic plan; and
 
-&emsp;&emsp;&emsp;(ii) develop a coordinated interagency budget for the Program that will ensure appropriate balance among the Program activities described under subsection (a)(2) of this section, and, in accordance with the plans developed under clause (i), submit such budget to the Director of the Office ofManagement and Budget at the time designated by that office for agencies to submit annual budgets.
+&emsp;&emsp;&emsp;(ii) develop a coordinated interagency budget for the Program that will ensure appropriate balance among the Program activities described under subsection (a)(2) of this section, and, in accordance with the plans developed under clause (i), submit such budget to the Director of the Office of Management and Budget at the time designated by that office for agencies to submit annual budgets.
 
 #### (4) Annual report
 
@@ -138,7 +138,7 @@
 
 &emsp;&emsp;&emsp;(viii) shall provide preparedness, response, and mitigation recommendations to communities after an earthquake prediction has been made under paragraph (3)(D); and
 
-&emsp;&emsp;&emsp;(ix) may enter into cooperative agreements or contracts with States and local jurisdictions and other Federal agencies to establish demonstration projects on earthquake hazard mitigation, to link earthquake research and mitigation efforts with emergency management programs, or to prepare educational materials for national distribution.
+&emsp;&emsp;&emsp;(ix) may enter into cooperative agreements or contracts with States and local jurisdictions and other Federal agencies to establish demonstration projects on earthquake hazard mitigation, to link earthquake research and mitigation efforts with emergency management programs, or toprepare educational materials for national distribution.
 
 #### (B) State assistance program criteria
 
@@ -168,7 +168,7 @@
 
 &emsp;The United States Geological Survey shall conduct research and other activities necessary to characterize and identify earthquake hazards, assess earthquake risks, monitor seismic activity, and improve earthquake predictions. In carrying out this paragraph, the Director of the United States Geological Survey shall—
 
-&emsp;&emsp;(A) conduct a systematic assessment of the seismic risks in each region of the Nation prone to earthquakes, including, where appropriate, the establishment and operation of intensive monitoring projects on hazardous faults, seismic microzonationstudies in urban and other developed areas where earthquake risk is determined to be significant, and engineering seismology studies;
+&emsp;&emsp;(A) conduct a systematic assessment of the seismic risks in each region of the Nation prone to earthquakes, including, where appropriate, the establishment and operation of intensive monitoring projects on hazardous faults, seismic microzonation studies in urban and other developed areas where earthquake risk is determined to be significant, and engineering seismology studies;
 
 &emsp;&emsp;(B) work with officials of State and local governments to ensure that they are knowledgeable about the specific seismic risks in their areas;
 
@@ -194,7 +194,7 @@
 
 &emsp;&emsp;(I) work with other Program agencies to coordinate Program activities with similar earthquake hazards reduction efforts in other countries, to ensure that the Program benefits from relevant information and advances in those countries; and
 
-&emsp;&emsp;(J) maintain suitable seismic hazard maps in support of building codes for structures and lifelines, including additional maps needed for performance-based design approaches.
+&emsp;&emsp;(J) maintain suitable seismic hazard maps in support of building codes for structuresand lifelines, including additional maps needed for performance-based design approaches.
 
 #### (4) National Science Foundation
 
@@ -218,7 +218,7 @@
 
 #### (5) National Institute of Standards and Technology
 
-&emsp;In addition to the lead agency responsibilities described under paragraph (1), the National Institute of Standards and Technologyshall be responsible for carrying out research and development to improve building codes and standards and practices for structures and lifelines. In carrying out this paragraph, the Director of the National Institute of Standards and Technology shall—
+&emsp;In addition to the lead agency responsibilities described under paragraph (1), the National Institute of Standards and Technology shall be responsible for carrying out research and development to improve building codes and standards and practices for structures and lifelines. In carrying out this paragraph, the Director of the National Institute of Standards and Technology shall—
 
 &emsp;&emsp;(A) work closely with national standards and model building code organizations, in conjunction with the Agency, to promote the implementation of research results;
 
@@ -342,7 +342,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Pub. L. 107–228, div. B, title XVI, §1602, Sept. 30, 2002, 116 Stat. 1460, provided that: “The head of the Air Force Technical Applications Center shall make available to the public, immediately upon receipt or as soon after receipt as is practicable, all raw seismological data provided to the United States Government by any international monitoring organization that is directly responsible for seismological monitoring.”
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1116\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that: “The United States Government shall, to themaximum extent practicable, make available to the public in real time, or as quickly as possible, all raw seismological data provided to the United States Government by any international organization that is directly responsible for seismological monitoring.”
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1116\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that: “The United States Government shall, to the maximum extent practicable, make available to the public in real time, or as quickly as possible, all raw seismological data provided to the United States Government by any international organization that is directly responsible for seismological monitoring.”
 
 #### Authorization of Real-Time Seismic Hazard Warning System Development, and Other Activities
 
@@ -532,7 +532,7 @@ Sec. 3. Concurrent Requirements. (a) In accord with Office of Management and Bud
 
 (c) Federal agencies that are as of this date requiring seismic safety levels that are higher than those imposed by this order in their assigned new building construction programs shall continue to maintain in force such levels.
 
-(d) Nothing in this order shall apply to assistance provided for emergency work essential to save lives andprotect property and public health and safety, performed pursuant to Sections 402, 403, 502, and 503 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (Stafford Act) (42 U.S.C. 5170a, 5170b, 5192, and 5193), or for temporary housing assistance programs and individual and family grants performed pursuant to Sections 408 and 411 of the Stafford Act (42 U.S.C. 5174 and former 5178). However, this order shall apply to other provisions of the Stafford Act \[42 U.S.C. 5121 et seq.\] after a presidentially declared major disaster or emergency when assistance actions involve new construction or total replacement of a building. Grantees and subgrantees shall be encouraged to adopt the standards established in section 3(a) of this order for use when the construction does not involve Federal funding as well as when Department of Homeland Security funding applies.
+(d) Nothing in this order shall apply to assistance provided for emergency work essential to save lives and protect property and public health and safety, performed pursuant to Sections 402, 403, 502, and 503 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (Stafford Act) (42 U.S.C. 5170a, 5170b, 5192, and 5193), or for temporary housing assistance programs and individual and family grants performed pursuant to Sections 408 and 411 of the Stafford Act (42 U.S.C. 5174 and former 5178). However, this order shall apply to other provisions of the Stafford Act \[42 U.S.C. 5121 et seq.\] after a presidentially declared major disaster or emergency when assistance actions involve new construction or total replacement of a building. Grantees and subgrantees shall be encouraged to adopt the standards established in section 3(a) of this order for use when the construction does not involve Federal funding as well as when Department of Homeland Security funding applies.
 
 Sec. 4. Agency Responsibilities. (a) The Secretary of Homeland Security shall be responsible for reporting to the President on the execution of this order and providing support for the secretariat of the Interagency Committee on Seismic Safety in Construction (ICSSC). The ICSSC, using consensus procedures, shall be responsible to FEMA for the recommendation for adoption of cost-effective seismic design and construction standards and practices required by sections 1 and 2 of this order. Participation in ICSSC shall be open to all agencies with programs affected by this order.
 

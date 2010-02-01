@@ -18,7 +18,7 @@ Minor changes were made in phraseology.
 
 #### Senate Revision Amendment
 
-An additional paragraph was added to the text of this section by Senate amendment, which was taken from section 804b of Title 31, U.S.C., Money and Finance. Therefore, as finally enacted, such section 804b and the Acts from which it was derived (Act Apr. 13, 1934, ch. 112, §3, as added July 31, 1945, ch. 339, §9, 59 Stat. 516), were an additional source of this section. See Senate Report No. 1620, amendment No. 9, 80th Cong.
+An additional paragraph was added to the text of this section by Senate amendment, which was taken fromsection 804b of Title 31, U.S.C., Money and Finance. Therefore, as finally enacted, such section 804b and the Acts from which it was derived (Act Apr. 13, 1934, ch. 112, §3, as added July 31, 1945, ch. 339, §9, 59 Stat. 516), were an additional source of this section. See Senate Report No. 1620, amendment No. 9, 80th Cong.
 
 #### Amendments
 

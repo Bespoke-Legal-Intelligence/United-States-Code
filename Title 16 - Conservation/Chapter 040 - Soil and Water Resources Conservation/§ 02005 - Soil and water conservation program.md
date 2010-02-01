@@ -44,7 +44,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 1994—Subsec. (a). Pub. L. 103–354 in first sentence of introductory provisions substituted “Secretary” for “Soil Conservation Service” before “which assist”.
 
-1985—Subsec. (b). Pub. L. 99–198 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The program plan shall be completed not later than December 31, 1979, and be updated at each five-year interval thereafter during the period this chapter is in effect.”
+1985—Subsec. (b). Pub. L. 99–198 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The program plan shall be completed not laterthan December 31, 1979, and be updated at each five-year interval thereafter during the period this chapter is in effect.”
 
 #### Effective Date of 2008 Amendment
 

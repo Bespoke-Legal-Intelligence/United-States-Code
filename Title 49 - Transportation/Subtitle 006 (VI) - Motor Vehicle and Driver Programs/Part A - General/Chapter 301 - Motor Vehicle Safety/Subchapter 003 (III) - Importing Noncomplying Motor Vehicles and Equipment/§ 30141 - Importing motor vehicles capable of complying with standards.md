@@ -50,7 +50,7 @@ Registration.—(1) The Secretary of Transportation shall establish procedures f
 
 &emsp;(A) revoking or suspending a registration issued under paragraph (1) of this subsection for not complying with a requirement of this subchapter or any of sections 30112, 30115, 30117–30122, 30125(c), 30127, or 30166 of this title or regulations prescribed under this subchapter or any of those sections;
 
-&emsp;(B) automatically suspending a registration for not paying a fee under subsection (a)(3) ofthis section in a timely manner or for knowingly filing a false or misleading certification under section 30146 of this title; and
+&emsp;(B) automatically suspending a registration for not paying a fee under subsection (a)(3) of this section in a timely manner or for knowingly filing a false or misleading certification under section 30146 of this title; and
 
 &emsp;(C) reinstating suspended registrations.
 
@@ -112,7 +112,7 @@ In subsection (a)(1)(A)(iv), the words “prescribed under this chapter” are s
 
 In subsection (a)(3), before clause (A), the words “any other fees” are substituted for “such other annual fee or fees” to eliminate unnecessary words. In clause (B), the words “this subchapter” are substituted for “this section” for clarity. See H. Rept. No. 100–431, 100th Cong., 1st Sess., p. 19 (1987).
 
-In subsection (b)(1), the words “procedures for making a decision under subsection (a)(1) of this section” are substituted for “procedures for considering such petitions” and “procedures for determinations made on the Secretary's initiative” because of the restatement. The words “(whether or not confidential)” are omitted as unnecessary because of the restatement.
+In subsection (b)(1), the words “procedures for making a decision under subsection (a)(1) of this section”are substituted for “procedures for considering such petitions” and “procedures for determinations made on the Secretary's initiative” because of the restatement. The words “(whether or not confidential)” are omitted as unnecessary because of the restatement.
 
 In subsection (b)(2), the word “permits” is substituted for “shall be sufficient authority” for clarity. The word “conditions” is omitted as being included in “terms”.
 

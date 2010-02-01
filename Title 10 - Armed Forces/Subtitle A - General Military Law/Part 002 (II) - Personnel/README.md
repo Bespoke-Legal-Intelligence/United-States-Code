@@ -22,7 +22,12 @@
 | [<b>49.</b>](Chapter%20049%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md) | <b>Miscellaneous Prohibitions and Penalties</b> | <b>971</b> |
 | [<b>50.</b>](Chapter%20050%20-%20Miscellaneous%20Command%20Responsibilities/README.md) | <b>Miscellaneous Command Responsibilities</b> | <b>991</b> |
 | [<b>51.</b>](Chapter%20051%20-%20Reserve%20Components%20Standards%20and%20Procedures%20for%20Retention%20and%20Promotion/README.md) | <b>Reserve Components: Standards and Procedures for Retention and Promotion</b> | <b>1001</b> |
-| [<b>53.</b>](Chapter%20053%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>1031</b> |
+| [<b>53.</b>](Chapter%20053%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>1031 </b><b><sup>1</sup></b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>54.</b>](Chapter%20054%20-%20Commissary%20and%20Exchange%20Benefits/README.md) | <b>Commissary and Exchange Benefits</b> | <b>1061</b> |
 | [<b>55.</b>](Chapter%20055%20-%20Medical%20and%20Dental%20Care/README.md) | <b>Medical and Dental Care</b> | <b>1071</b> |
 | [<b>56.</b>](Chapter%20056%20-%20Department%20of%20Defense%20Medicare-Eligible%20Retiree%20Health%20Care%20Fund/README.md) | <b>Department of Defense Medicare-Eligible Retiree Health Care Fund</b> | <b>1111</b> |
@@ -43,12 +48,7 @@
 | [<b>77.</b>](Chapter%20077%20-%20Posthumous%20Commissions%20and%20Warrants/README.md) | <b>Posthumous Commissions and Warrants</b> | <b>1521</b> |
 | [<b>79.</b>](Chapter%20079%20-%20Correction%20of%20Military%20Records/README.md) | <b>Correction of Military Records</b> | <b>1551</b> |
 | [<b>80.</b>](Chapter%20080%20-%20Miscellaneous%20Investigation%20Requirements%20and%20Other%20Duties/README.md) | <b>Miscellaneous Investigation Requirements and Other Duties</b> | <b>1561</b> |
-| [<b>81.</b>](Chapter%20081%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>1581 </b><b><sup>1</sup></b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
+| [<b>81.</b>](Chapter%20081%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>1580</b> |
 | [<b>83.</b>](Chapter%20083%20-%20Civilian%20Defense%20Intelligence%20Employees/README.md) | <b>Civilian Defense Intelligence Employees</b> | <b>1601</b> |
 | <b>\[85.</b> | <b>Repealed.\]</b> |  |
 | [<b>87.</b>](Chapter%20087%20-%20Defense%20Acquisition%20Workforce/README.md) | <b>Defense Acquisition Workforce</b> | <b>1701</b> |
@@ -58,6 +58,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. A, title X, §1073(a)(7), Oct. 28, 2009, 123 Stat. 2472, substituted “1580” for “1581” in item for chapter 81.
 
 2006—Pub. L. 109–366, §3(a)(2), Oct. 17, 2006, 120 Stat. 2630, added item for chapter 47A.
 
@@ -91,13 +93,13 @@ Pub. L. 102–25, title VII, §701(e)(1), Apr. 6, 1991, 105 Stat. 114, added ite
 
 1985—Pub. L. 99–145, title IX, §924(a)(2), Nov. 8, 1985, 99 Stat. 698, added item for chapter 85.
 
-1983—Pub. L. 98–94, tile IX, §925(a)(2), title XII, §1268(15), Sept. 24, 1983, 97 Stat. 648, 707, added item for chapter 74, and substituted “or” for “and” in item for chapter 60.
+1983—Pub. L. 98–94, title IX, §925(a)(2), title XII, §1268(15), Sept. 24, 1983, 97 Stat. 648, 707, added item for chapter 74, and substituted “or” for “and” in item for chapter 60.
 
 1981—Pub. L. 97–89, title VII, §701(a)(2), Dec. 4, 1981, 95 Stat. 1160, added item for chapter 83.
 
 1980—Pub. L. 96–513, title V, §§501(1), 511(29), (54)(B), Dec. 12, 1980, 94 Stat. 2907, 2922, 2925, added item for chapter 32, substituted “531” for “541” as section number in item for chapter 33, substituted “34” for “35” as chapter number of chapter relating to appointments as reserve officers, added items for chapters 35 and 36, substituted “Reserve Components: Standards and Procedures for Retention and Promotion” for “Retention of Reserves” in item for chapter 51, added item for chapter 60, substituted “1251” for “1255” as section number in item for chapter 63, substituted “Retirement of Warrant Officers” for “Retirement” in item for chapter 65, substituted “1370” for “1371” as section number in item for chapter 69, and amended item for chapter 73 to read: “Annuities Based on Retired or Retainer Pay”.
 
-1972—Pub. L. 92–425, §2, Sept. 21, 1972, 86 Stat. 711, amended item for chapter 73 by inserting “; Survivor Benefit Plan” after “Pay” which could not be executed as directed in view of amendment by Pub. L. 87–381. See 1961 Amendment note below.
+1972—Pub. L. 92–425, §2, Sept. 21, 1972, 86 Stat. 711, amended item for chapter 73 by inserting “; SurvivorBenefit Plan” after “Pay” which could not be executed as directed in view of amendment by Pub. L. 87–381. See 1961 Amendment note below.
 
 1968—Pub. L. 90–377, §2, July 5, 1968, 82 Stat. 288, added item for chapter 48.
 

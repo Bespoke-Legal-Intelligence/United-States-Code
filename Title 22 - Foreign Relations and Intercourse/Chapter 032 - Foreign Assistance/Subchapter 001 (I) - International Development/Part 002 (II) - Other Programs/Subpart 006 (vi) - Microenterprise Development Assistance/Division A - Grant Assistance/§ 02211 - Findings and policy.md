@@ -18,7 +18,7 @@ Congress finds and declares the following:
 
 #### Prior Provisions
 
-A prior section 2211, Pub. L. 87–195, pt. I, §251, as added Pub. L. 87–565, pt. I, §106, Aug. 1, 1962, 76 Stat. 257; amended Pub. L. 88–205, pt. I, §106(a), Dec. 16, 1963, 77 Stat. 382; Pub. L. 89–583, pt. I, §105(a), Sept. 19, 1966, 80 Stat. 799; Pub. L. 90–137, pt. I, §106(a), Nov. 14, 1967, 81 Stat. 451, related to assistance in order to promote the economic development of countries and areas inLatin America, prior to repeal by Pub. L. 95–424, title I, §102(g)(1)(A), title VI, §605, Oct. 6, 1978, 92 Stat. 942, 961, effective Oct. 1, 1978.
+A prior section 2211, Pub. L. 87–195, pt. I, §251, as added Pub. L. 87–565, pt. I, §106, Aug. 1, 1962, 76 Stat. 257; amended Pub. L. 88–205, pt. I, §106(a), Dec. 16, 1963, 77 Stat. 382; Pub. L. 89–583, pt. I, §105(a), Sept. 19, 1966, 80 Stat. 799; Pub. L. 90–137, pt. I, §106(a), Nov. 14, 1967, 81 Stat. 451, related to assistance in order to promote the economic development of countries and areas in Latin America, prior to repeal by Pub. L. 95–424, title I, §102(g)(1)(A), title VI, §605, Oct. 6, 1978, 92 Stat. 942, 961, effective Oct. 1, 1978.
 
 #### Findings and Policy
 
@@ -54,7 +54,7 @@ Pub. L. 108–484, §7, Dec. 23, 2004, 118 Stat. 3930, provided that: “It is t
 
 &emsp;“(3) should ensure that recipients of microenterprise development assistance under such title do not expend an unreasonably large percentage of such assistance on administrative costs;
 
-&emsp;“(4) should not use recipients of microenterprise development assistance under such title to carry out critical management functions of the Agency, including functions such as strategy development or overall management of programs in a country; and
+&emsp;“(4) should not use recipients of microenterprise development assistance under such title to carry outcritical management functions of the Agency, including functions such as strategy development or overall management of programs in a country; and
 
 &emsp;“(5) should consult with the appropriate congressional committees with respect to the implementation of title VI of chapter 2 of part I of the Foreign Assistance Act of 1961 not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2004\].”
 

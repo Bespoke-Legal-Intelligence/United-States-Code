@@ -90,7 +90,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Mechanisms To Provide Funds for Defense Laboratories for Research and Development of Technologies for Military Missions
 
-Pub. L. 110–417, \[div. A\], title II, §219, Oct. 14, 2008, 122 Stat. 4389, provided that:
+Pub. L. 110–417, \[div. A\], title II, §219, Oct. 14, 2008, 122 Stat. 4389, as amended by Pub. L. 111–84, div. B, title XXVIII, §2801(c), Oct. 28, 2009, 123 Stat. 2660, provided that:
 
 “(a)
 
@@ -106,33 +106,15 @@ In general.—The Secretary of Defense, in consultation with the Secretaries of 
 
 &emsp;&emsp;“(C) To fund workforce development activities that improve the capacity of the defense laboratory to recruit and retain personnel with needed scientific and engineering expertise.
 
+&emsp;&emsp;“(D) To fund the revitalization and recapitalization of the laboratory pursuant to section 2805(d) of title 10, United States Code.
+
 &emsp;“(2)
 
 Consultation required.—The mechanisms established under paragraph (1) shall provide that funding shall be used under paragraph (1) at the discretion of the director of a defense laboratory in consultation with the science and technology executive of the military department concerned.
 
 “(b)
 
-Annual Report on Use of Authority.—
-
-&emsp;“(1)
-
-In general.—Not later than March 1 of each year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of the authority under subsection (a) during the preceding year.
-
-&emsp;“(2)
-
-Elements.—Each report under paragraph (1) shall include, with respect to the year covered by such report, the following:
-
-&emsp;&emsp;“(A) A description of the mechanisms used to provide funding under subsection (a)(1).
-
-&emsp;&emsp;“(B) A statement of the amount of funding made available to each defense laboratory for research described under such subsection.
-
-&emsp;&emsp;“(C) A description of the investments made by each defense laboratory using funds under such subsection.
-
-&emsp;&emsp;“(D) A description and assessment of any improvements in the performance of the defense laboratories as a result of investments under such subsection.
-
-&emsp;&emsp;“(E) A description and assessment of the contributions to the development of needed military capabilities provided by research using funds under such subsection.
-
-&emsp;&emsp;“(F) A description of any modification to the mechanisms under subsection (a) that would improve the efficacy of the authority under such subsection to support military missions.
+Annual Report on Use of Authority.—Not later than March 1 of each year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of the authority under subsection (a) during the preceding year.
 
 “(c)
 
@@ -182,7 +164,7 @@ Establishment of Joint Technology Office on Hypersonics.—The Secretary of Defe
 
 “(b)
 
-Program on Hypersonics.—The joint technology office established under subsection (a) shall carry out a program for the development of hypersonics for defense purposes.
+Program on Hypersonics.—The joint technology office established under subsection (a) shall carry out aprogram for the development of hypersonics for defense purposes.
 
 “(c)
 
@@ -390,7 +372,7 @@ Expedited Procurement Authority.—(1) For any procurement of property or servic
 
 &emsp;“(C) Section 2313 of title 10, United States Code (relating to the examination of contractor records).
 
-“(3) The Secretary shall institute appropriate internal controls for use of the authority under paragraph (1), including requirements for documenting the justification for each use of such authority.
+“(3) The Secretary shall institute appropriate internal controls for use of the authority under paragraph\(1), including requirements for documenting the justification for each use of such authority.
 
 “(d)
 
@@ -434,7 +416,7 @@ Authority for Personal Services Contracts.—(1) Subject to paragraph (2), the a
 
 Streamlined Personnel Authority.—(1) The Secretary may appoint highly qualified experts, including scientific and technical personnel, to carry out research and development under this section in accordance with the authorities provided in section 342 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2721), section 1101 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261 \[5 U.S.C. 3104 note\]), and section 1101 of this Act \[enacting chapter 99 of Title 5, Government Organization and Employees, and provisions set out as a note under section 9901 of Title 5\].
 
-“(2) The Secretary may use the authority under paragraph (1) only upon a determination by the Secretarythat use of such authority is necessary to accelerate the research and development under the program.
+“(2) The Secretary may use the authority under paragraph (1) only upon a determination by the Secretary that use of such authority is necessary to accelerate the research and development under the program.
 
 “(3) The Secretary shall institute appropriate internal controls for each use of the authority under paragraph (1).”
 
@@ -498,7 +480,7 @@ Intial \[sic\] Funding.—Of the funds authorized to be appropriated by section 
 
 #### Defense Nanotechnology Research and Development Program
 
-Pub. L. 107–314, div. A, title II, §246, Dec. 2, 2002, 116 Stat. 2500, as amended by Pub. L. 110–181, div. A, title II, §240, Jan. 28, 2008, 122 Stat. 48, provided that:
+Pub. L. 107–314, div. A, title II, §246, Dec. 2, 2002, 116 Stat. 2500, as amended by Pub. L. 110–181, div. A, title II, §240, Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–84, div. A, title II, §242, Oct. 28, 2009, 123 Stat. 2237, provided that:
 
 “(a)
 
@@ -540,39 +522,7 @@ Strategic Plan.—The Under Secretary shall develop and maintain a strategic pla
 
 “(e)
 
-Reports.—
-
-&emsp;“(1)
-
-In general.—Not later than March 1 of each of 2009, 2011, and 2013, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the program.
-
-&emsp;“(2)
-
-Matters included.—Each report under paragraph (1) shall include the following:
-
-&emsp;&emsp;“(A) A review of—
-
-&emsp;&emsp;&emsp;“(i) the long-term challenges and specific technical goals of the program; and
-
-&emsp;&emsp;&emsp;“(ii) the progress made toward meeting such challenges and achieving such goals.
-
-&emsp;&emsp;“(B) An assessment of current and proposed funding levels for the program, including an assessment of the adequacy of such funding levels to support program activities.
-
-&emsp;&emsp;“(C) A review of the coordination of activities under the program within the Department of Defense, with other departments and agencies of the United States, and with the National Nanotechnology Initiative.
-
-&emsp;&emsp;“(D) A review and analysis of the findings and recommendations relating to the Department of Defense of the most recent triennial external review of the National Nanotechnology Program under section 5 of the 21st Century Nanotechnology Research and Development Act (15 U.S.C. 1704), and a description of initiatives of the Department to implement such recommendations.
-
-&emsp;&emsp;“(E) An assessment of technology transition from nanotechnology research and development to enhanced warfighting capabilities, including contributions from the Department of Defense Small Business Innovative Research and Small Business Technology Transfer Research programs, and the Department of Defense Manufacturing Technology program, and an identification of acquisition programs and deployed defense systems that are incorporating nanotechnologies.
-
-&emsp;&emsp;“(F) An assessment of global nanotechnology research and development in areas of interest to the Department, including an identification of the use of nanotechnologies in any foreign defense systems.
-
-&emsp;&emsp;“(G) An assessment of the defense nanotechnology manufacturing and industrial base and its capability to meet the near and far term requirements of the Department.
-
-&emsp;&emsp;“(H) Such recommendations for additional activities under the program to meet emerging national security requirements as the Under Secretary considers appropriate.
-
-&emsp;“(3)
-
-Classification.—Each report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.”
+Reports.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the National Science and Technology Council information on the program that covers the information described in paragraphs (1) through (5) of section 2(d) of the 21st Century Nanotechnology Research and Development Act (15 U.S.C. 7501(d)) to be included in the annual report submitted by the Council under that section.”
 
 #### Report on Weapons and Capabilities To Defeat Hardened and Deeply Buried Targets
 
@@ -706,7 +656,7 @@ Pub. L. 105–261, div. A, title II, §246, Oct. 17, 1998, 112 Stat. 1955, as am
 
 Pub. L. 105–18, title I, §307, June 12, 1997, 111 Stat. 169, provided that: “For the purposes of implementing the 1997 Defense Experimental Program to Stimulate Competitive Research (DEPSCoR), the term ‘State’ means a State of the United States, the District of Columbia, Puerto Rico, Guam and the Virgin Islands of the United States, American Samoa and the Commonwealth of the Northern Mariana Islands.”
 
-Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, title II, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 105–85, div. A, title II, §243, Nov. 18, 1997, 111 Stat. 1667; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 107–314, div. A, title II, §247, Dec. 2, 2002, 116 Stat. 2502; Pub. L. 110–181, div. A, title II, §239, Jan. 28, 2008, 122 Stat. 48, provided that:
+Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, title II, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 105–85, div. A, title II, §243, Nov. 18, 1997, 111 Stat. 1667;Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 107–314, div. A, title II, §247, Dec. 2, 2002, 116 Stat. 2502; Pub. L. 110–181, div. A, title II, §239, Jan. 28, 2008, 122 Stat. 48, provided that:
 
 “(a)
 
@@ -754,11 +704,67 @@ State Defined.—In this section, the term ‘State’ means a State of the Unit
 
 #### Defense Laboratories Personnel Demonstration Projects
 
-Pub. L. 110–181, div. A, title XI, §1107, Jan. 28, 2008, 122 Stat. 357, as amended by Pub. L. 110–417, \[div. A\], title XI, §1109, Oct. 14, 2008, 122 Stat. 4618, provided that:
+Pub. L. 111–84, div. A, title XI, §1105, Oct. 28, 2009, 123 Stat. 2486, provided that:
 
 “(a)
 
-Requirement.—The Secretary of Defense shall take all necessary actions to fully implement and use the authorities provided to the Secretary under section 342(b) of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2721) \[set out below\], as amended by section 1114 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–315), to carry out personnel management demonstration projects at Department of Defense laboratories that are exempted by section 9902(c) of title 5, United States Code, from inclusion in the Department of Defense National Security Personnel System.
+Designation of Laboratories.—Each of the following is hereby designated as a Department of Defense science and technology reinvention laboratory (as described in section 342(b) of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2721) \[set out below\], as amended by section 1114 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001):
+
+&emsp;“(1) The Aviation and Missile Research Development and Engineering Center.
+
+&emsp;“(2) The Army Research Laboratory.
+
+&emsp;“(3) The Medical Research and Materiel Command.
+
+&emsp;“(4) The Engineer Research and Development Command.
+
+&emsp;“(5) The Communications-Electronics Command.
+
+&emsp;“(6) The Soldier and Biological Chemical Command.
+
+&emsp;“(7) The Naval Sea Systems Command Centers.
+
+&emsp;“(8) The Naval Research Laboratory.
+
+&emsp;“(9) The Office of Naval Research.
+
+&emsp;“(10) The Air Force Research Laboratory.
+
+&emsp;“(11) The Tank and Automotive Research Development and Engineering Center.
+
+&emsp;“(12) The Armament Research Development and Engineering Center.
+
+&emsp;“(13) The Naval Air Warfare Center, Weapons Division.
+
+&emsp;“(14) The Naval Air Warfare Center, Aircraft Division.
+
+&emsp;“(15) The Space and Naval Warfare Systems Center, Pacific.
+
+&emsp;“(16) The Space and Naval Warfare Systems Center, Atlantic.
+
+&emsp;“(17) The laboratories within the Army Research Development and Engineering Command.
+
+“(b)
+
+Conversion Procedures.—The Secretary of Defense shall implement procedures to convert the civilian personnel of each Department of Defense science and technology reinvention laboratory, as so designated by subsection (a), from the personnel system which applies as of the date of the enactment of this Act \[Oct. 28, 2009\] to the personnel system under an appropriate demonstration project (as referred to in such section 342(b)). Any conversion under this subsection—
+
+&emsp;“(1) shall not adversely affect any employee with respect to pay or any other term or condition of employment;
+
+&emsp;“(2) shall be consistent with section 4703(f) of title 5, United States Code;
+
+&emsp;“(3) shall be completed within 18 months after the date of the enactment of this Act; and
+
+&emsp;“(4) shall not apply to prevailing rate employees (as defined by section 5342(a)(2) of title 5, United States Code) or senior executives (as defined by section 3132(a)(3) of such title).
+
+“(c)
+
+Limitation.—The science and technology reinvention laboratories, as so designated by subsection (a), may not implement any personnel system, other than a personnel system under an appropriate demonstration project (as referred to in such section 342(b) \[set out below\]), without prior congressional authorization.”
+
+Pub. L. 110–181, div. A, title XI, §1107, Jan. 28, 2008, 122 Stat. 357, as amended by Pub. L. 110–417, \[div. A\], title XI, §1109, Oct. 14, 2008, 122 Stat. 4618; Pub. L. 111–84, div. A, title X, §1073(d), Oct. 28, 2009, 123 Stat. 2475, provided that:
+
+“(a)
+
+Requirement.—The Secretary of Defense shall take all necessary actions to fully implement and usethe authorities provided to the Secretary under section 342(b) of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2721) \[set out below\], as amended by section 1114 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–315), to carry out personnel management demonstration projects at Department of Defense laboratories that are exempted by \[former\] section 9902(c) of title 5, United States Code, from inclusion in the Department of Defense National Security Personnel System.
 
 “(b)
 
@@ -766,7 +772,7 @@ Process for Full Implementation.—The Secretary of Defense shall also implement
 
 “(c)
 
-Other Laboratories.—Any flexibility available to any demonstration laboratory shall be available for use at any other laboratory as enumerated in section 9902(c)(2) of title 5, United States Code.
+Other Laboratories.—Any flexibility available to any demonstration laboratory shall be available for use at any other laboratory as enumerated in \[former\] section 9902(c)(2) of title 5, United States Code.
 
 “(d)
 
@@ -778,7 +784,7 @@ Status Reports.—
 
 &emsp;“(1)
 
-In general.—Not later than 45 days after the date of the enactment of this Act \[probably means the date of enactment of Pub. L. 110–417, which was approved Oct. 14, 2008\] and not later than March 1 of each year beginning after the date on which the first report under this subsection is submitted, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report providing, with respect to the year before the year in which such report is submitted, the information described in paragraph (2).
+In general.—Not later than November 29, 2008, and not later than March 1 of each year thereafter, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report providing, with respect to the year before the year in which such report is submitted, the information described in paragraph (2).
 
 &emsp;“(2)
 
@@ -816,7 +822,7 @@ Pub. L. 103–337, div. A, title III, §342(b), Oct. 5, 1994, 108 Stat. 2721, as
 
 &emsp;“(C) the Secretary shall exercise the authorities granted to the Office of Personnel Management under such section 4703.
 
-“(4) The employees of a laboratory covered by a personnel demonstration project carried out under this section \[enacting this note\] shall be exempt from, and may not be counted for the purposes of, any constraintor limitation in a statute or regulation in terms of supervisory ratios or maximum number of employees in any specific category or categories of employment that may otherwise be applicable to the employees. The employees shall be managed by the director of the laboratory subject to the supervision of the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+“(4) The employees of a laboratory covered by a personnel demonstration project carried out under this section \[enacting this note\] shall be exempt from, and may not be counted for the purposes of, any constraint or limitation in a statute or regulation in terms of supervisory ratios or maximum number of employees in any specific category or categories of employment that may otherwise be applicable to the employees. The employees shall be managed by the director of the laboratory subject to the supervision of the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
 “(5) The limitations in section 5373 of title 5, United States Code, do not apply to the authority of the Secretary under this section to prescribe salary schedules and other related benefits.”
 
@@ -848,7 +854,7 @@ Requirement for Analysis of Research.—In the case of a project of clinical res
 
 #### University Research Initiative Support Program
 
-Section 802 of Pub. L. 103–160, as amended by Pub. L. 104–106, div. A, title II, §275, Feb. 10, 1996, 110 Stat. 241; Pub. L. 104–201, div. A, title II, §263, Sept. 23, 1996, 110 Stat. 2465, provided that:
+Section 802 of Pub. L. 103–160, as amended by Pub. L. 104–106, div. A, title II, §275, Feb. 10, 1996, 110 Stat. 241;Pub. L. 104–201, div. A, title II, §263, Sept. 23, 1996, 110 Stat. 2465, provided that:
 
 “(a)
 

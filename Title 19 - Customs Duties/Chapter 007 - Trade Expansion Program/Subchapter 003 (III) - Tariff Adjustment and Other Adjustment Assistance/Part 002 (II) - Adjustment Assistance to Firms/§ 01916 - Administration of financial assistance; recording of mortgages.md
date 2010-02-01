@@ -22,7 +22,7 @@ Any mortgage acquired as security under subsection (a) of this section shall be 
 
 #### References in Text
 
-Section 1914 of this title, referred to in subsec. (a), was repealed by Pub. L. 93–618, title VI, §602(e), Jan. 3, 1975, 88 Stat. 2072. See section 2344 of this title.
+Section 1914 of this title, referred to in subsec. (a), was repealed by Pub. L. 93–618, title VI, §602(e), Jan. 3, 1975, 88 Stat. 2072.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

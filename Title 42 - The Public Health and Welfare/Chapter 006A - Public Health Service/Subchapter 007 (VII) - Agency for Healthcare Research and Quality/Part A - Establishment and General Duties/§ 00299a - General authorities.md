@@ -26,7 +26,7 @@ In carrying out section 299(b) of this title, the Director shall conduct and sup
 
 #### (1) In general
 
-&emsp;The Director may provide training grants in the field of health services research related to activities authorized under subsection (a) of this section, to include pre- and post-doctoralfellowships and training programs, young investigator awards, and other programs and activities as appropriate. In carrying out this subsection, the Director shall make use of funds made available under section 288(d)(3) of this title as well as other appropriated funds.
+&emsp;The Director may provide training grants in the field of health services research related to activities authorized under subsection (a) of this section, to include pre- and post-doctoral fellowships and training programs, young investigator awards, and other programs and activities as appropriate. In carrying out this subsection, the Director shall make use of funds made available under section 288(d)(3) of this title as well as other appropriated funds.
 
 #### (2) Requirements
 
@@ -71,4 +71,24 @@ A prior section 902 of act July 1, 1944, was classified to section 299b of this 
 #### Reducing Administrative Health Care Costs
 
 Pub. L. 103–43, title XIX, §1909, June 10, 1993, 107 Stat. 205, as amended by Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 108–173, title IX, §900(e)(6)(F), Dec. 8, 2003, 117 Stat. 2374, provided that: “The Secretary of Health and Human Services, acting through the Agency for Healthcare Research and Quality and, to the extent possible, in consultation with the Centers for Medicare \& Medicaid Services, may fund research to develop a text-based standardized billing process, through the utilization of text-based information retrieval and natural language processing techniques applied to automatic coding and analysis of textual patient discharge summaries and other text-based electronic medical records, within a parallel general purpose (shared memory) high performance computing environment. The Secretary shall determine whether such a standardized approach to medical billing, through the utilization of the text-based hospital discharge summary as well as electronic patient records can reduce the administrative billing costs of health care delivery.”
+
+#### Demonstration Grants for the Development, Implementation, and Evaluation of Alternatives to the Current Medical Liability System
+
+Memorandum of President of the United States, Sept. 17, 2009, 74 F.R. 48133, provided:
+
+Memorandum for the Secretary of Health And Human Services
+
+As part of my Administration's ongoing effort to reform our health care system, we have reached out to members of both political parties and listened to the concerns many have raised about the need to improve patient safety and to reform our medical liability system. Between 44,000 and 98,000 patients die each year from medical errors. Many physicians continue to struggle to pay their medical malpractice premiums, which vary tremendously by specialty and by State. The cost of insurance continues to be one of the highest practice expenses for some specialties. And although malpractice premiums do not account for a large percentage of total medical costs, many physicians report that fear of lawsuits leads them to practice defensive medicine, which may contribute to higher costs.
+
+We should explore medical liability reform as one way to improve the quality of care and patient-safety practices and to reduce defensive medicine. But whatever steps we pursue, medical liability reform must be just one part of broader health insurance reform—reform that offers more security and stability to Americans who have insurance, offers insurance to Americans who lack coverage, and slows the growth of health care costs for families, businesses, and government.
+
+In recent years, there have been calls from organizations like The Joint Commission and the Institute of Medicine to begin funding demonstration projects that can test a variety of medical liability models and determine which reforms work. These groups and others have identified several important goals and core commitments of malpractice reform that should serve as a starting point for such projects. We must put patient safety first and work to reduce preventable injuries. We must foster better communication between doctors and their patients. We must ensure that patients are compensated in a fair and timely manner for medical injuries, while also reducing the incidence of frivolous lawsuits. And we must work to reduce liability premiums.
+
+In 1999, the Congress authorized the Agency for Healthcare Research and Quality, which is located within the Department of Health and Human Services, to support demonstration projects and to evaluate the effectiveness of projects regarding all aspects of health care, including medical liability. I hereby request that you announce, within 30 days of this memorandum, that the Department will make available demonstration grants to States, localities, and health systems for the development, implementation, and evaluation of alternatives to our current medical liability system, consistent with the goals and core commitments outlined above.
+
+This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

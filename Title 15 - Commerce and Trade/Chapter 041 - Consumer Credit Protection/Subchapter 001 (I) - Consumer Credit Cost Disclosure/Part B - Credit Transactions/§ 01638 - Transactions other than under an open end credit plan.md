@@ -10,7 +10,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;&emsp;(i) take the principal amount of the loan or the cash price less downpayment and trade-in;
 
-&emsp;&emsp;(ii) add any charges which are not part of the finance charge or of the principal amount of the loan and which are financed by the consumer, including the cost of any items excluded from the finance charge pursuant to section 1605 of this title; and
+&emsp;&emsp;(ii) add any charges which are not part of the finance charge or of the principal amount of the loan and which are financed by the consumer, including the cost of anyitems excluded from the finance charge pursuant to section 1605 of this title; and
 
 &emsp;&emsp;(iii) subtract any charges which are part of the finance charge but which will be paid by the consumer before or at the time of the consummation of the transaction, or have been withheld from the proceeds of the credit.
 
@@ -40,7 +40,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(10) Any dollar charge or percentage amount which may be imposed by a creditor solely on account of a late payment, other than a deferral or extension charge.
 
-&emsp;(11) A statement indicating whether or not the consumer is entitled to a rebate of any finance charge upon refinancing or prepayment in full pursuant to acceleration or otherwise,if the obligation involves a precomputed finance charge. A statement indicating whether or not a penalty will be imposed in those same circumstances if the obligation involves a finance charge computed from time to time by application of a rate to the unpaid principal balance.
+&emsp;(11) A statement indicating whether or not the consumer is entitled to a rebate of any finance charge upon refinancing or prepayment in full pursuant to acceleration or otherwise, if the obligation involves a precomputed finance charge. A statement indicating whether or not a penalty will be imposed in those same circumstances if the obligation involves a finance charge computed from time to time by application of a rate to the unpaid principal balance.
 
 &emsp;(12) A statement that the consumer should refer to the appropriate contract document for any information such document provides about nonpayment, default, the right to accelerate the maturity of the debt, and prepayment rebates and penalties.
 
@@ -58,7 +58,41 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 (1) Except as otherwise provided in this part, the disclosures required under subsection (a) of this section shall be made before the credit is extended. Except for the disclosures required by subsection (a)(1) of this section, all disclosures required under subsection (a) of this section and any disclosure provided for in subsection (b), (c), or (d) of section 1605 of this title shall be conspicuously segregated from all other terms, data, or information provided in connection with a transaction, including any computations or itemization.
 
-(2) In the case of a residential mortgage transaction, as defined in section 1602(w) of this title, which is also subject to the Real Estate Settlement Procedures Act \[12 U.S.C. 2601 et seq.\], good faith estimates of the disclosures required under subsection (a) of this section shall be made in accordance with regulations of the Board under section 1631(c) of this title before the credit is extended, or shall be delivered or placed in the mail not later than three business days after the creditor receives the consumer's written application, which ever is earlier. If the disclosure statement furnished within three days of the written application contains an annual percentage rate which is subsequently rendered inaccurate within the meaning of section 1606(c) of this title, the creditor shall furnish another statement at the time of settlement or consummation.
+(2)(A) Except as provided in subparagraph (G), in the case of any extension of credit that is secured by the dwelling of a consumer, which is also subject to the Real Estate Settlement Procedures Act \[12 U.S.C. 2601 et seq.\], good faith estimates of the disclosures required under subsection (a) of this section shall be made in accordance with regulations of the Board under section 1631(c) of this title and shall be delivered or placed in the mail not later than three business days after the creditor receives the consumer's written application, which shall be at least 7 business days before consummation of the transaction.
+
+(B) In the case of an extension of credit that is secured by the dwelling of a consumer, the disclosures provided under subparagraph (A),<sup>1</sup> shall be in addition to the other disclosures required by subsection (a), and shall—
+
+&emsp;(i) state in conspicuous type size and format, the following: “You are not required to complete this agreement merely because you have received these disclosures or signed a loan application.”; and
+
+&emsp;(ii) be provided in the form of final disclosures at the time of consummation of the transaction, in the form and manner prescribed by this section.
+
+(C) In the case of an extension of credit that is secured by the dwelling of a consumer, under which the annual rate of interest is variable, or with respect to which the regular payments may otherwise be variable, in addition to the other disclosures required by subsection (a), the disclosures provided under this subsection shall do the following:
+
+&emsp;(i) Label the payment schedule as follows: “Payment Schedule: Payments Will Vary Based on Interest Rate Changes”.
+
+&emsp;(ii) State in conspicuous type size and format examples of adjustments to the regular required payment on the extension of credit based on the change in the interest rates specified by the contract for such extension of credit. Among the examples required to be provided under this clause is an example that reflects the maximum payment amount of the regular required payments on the extension of credit, based on the maximum interest rate allowed under the contract, in accordance with the rules of the Board. Prior to issuing any rules pursuant to this clause, the Board shall conduct consumer testing to determine the appropriate format for providing the disclosures required under this subparagraph to consumers so that such disclosures can be easily understood, including the fact that the initial regular payments are for a specific time period that will end on a certain date, that payments will adjust afterwards potentially to a higher amount, and that there is no guarantee that the borrower will be able to refinance to a lower amount.
+
+(D) In any case in which the disclosure statement under subparagraph (A) contains an annual percentage rate of interest that is no longer accurate, as determined under section 1606(c) of this title, the creditor shall furnish an additional, corrected statement to the borrower, not later than 3 business days before the date of consummation of the transaction.
+
+(E) The consumer shall receive the disclosures required under this paragraph before paying any fee to the creditor or other person in connection with the consumer's application for an extension of credit that is secured by the dwelling of a consumer. If the disclosures are mailed to the consumer, the consumer is considered to have received them 3 business days after they are mailed. A creditor or other person may impose a fee for obtaining the consumer's credit report before the consumer has received the disclosures under this paragraph, provided the fee is bona fide and reasonable in amount.
+
+(F)
+
+Waiver of timeliness of disclosures.—To expedite consummation of a transaction, if the consumer determines that the extension of credit is needed to meet a bona fide personal financial emergency, the consumer may waive or modify the timing requirements for disclosures under subparagraph (A), provided that—
+
+&emsp;(i) the term “bona fide personal emergency” may be further defined in regulations issued by the Board;
+
+&emsp;(ii) the consumer provides to the creditor a dated, written statement describing the emergency and specifically waiving or modifying those timing requirements, which statement shall bear the signature of all consumers entitled to receive the disclosures required by this paragraph; and
+
+&emsp;(iii) the creditor provides to the consumers at or before the time of such waiver or modification, the final disclosures required by paragraph (1).
+
+(G)(i) In the case of an extension of credit relating to a plan described in section 101(53D) of title 11—
+
+&emsp;(I) the requirements of subparagraphs (A) through (E) shall not apply; and
+
+&emsp;(II) a good faith estimate of the disclosures required under subsection (a) shall be made in accordance with regulations of the Board under section 1631(c) of this title before such credit is extended, or shall be delivered or placed in the mail not later than 3 business days after the date on which the creditor receives the written application of the consumer for such credit, whichever is earlier.
+
+(ii) If a disclosure statement furnished within 3 business days of the written application (as provided under clause (i)(II)) contains an annual percentage rate which is subsequently rendered inaccurate, within the meaning of section 1606(c) of this title, the creditor shall furnish another disclosure statement at the time of settlement or consummation of the transaction.
 
 (3) In the case of a credit transaction described in paragraph (15) of subsection (a) of this section, disclosures required by that paragraph shall be made to the consumer at the time of application for such extension of credit.
 
@@ -76,7 +110,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 #### (1) Disclosures required in private education loan applications and solicitations
 
-&emsp;In any application for a private education loan, or a solicitation for a private educationloan without requiring an application, the private educational lender shall disclose to the borrower, clearly and conspicuously—
+&emsp;In any application for a private education loan, or a solicitation for a private education loan without requiring an application, the private educational lender shall disclose to the borrower, clearly and conspicuously—
 
 &emsp;&emsp;(A) the potential range of rates of interest applicable to the private education loan;
 
@@ -152,7 +186,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 &emsp;&emsp;&emsp;(i) the borrower shall have the right to accept the terms of the loan and consummate the transaction at any time within 30 calendar days (or such longer period as the private educational lender may provide) following the date on which the application for the private education loan is approved and the borrower receives the disclosure documents required under this subsection for the loan; and
 
-&emsp;&emsp;&emsp;(ii) except for changes based on adjustments to the index used for a loan, the rates and terms of the loan may not bechanged by the private educational lender during the period described in clause (i);
+&emsp;&emsp;&emsp;(ii) except for changes based on adjustments to the index used for a loan, the rates and terms of the loan may not be changed by the private educational lender during the period described in clause (i);
 
 &emsp;&emsp;(M) that the borrower—
 
@@ -206,7 +240,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 #### (C) Safe harbor
 
-&emsp;&emsp;Any private educational lender that elects to provide a model form developed under this subsection that accurately reflects the practices of the private educational lender shall be deemed to be in compliance with the disclosures required under this subsection.
+&emsp;&emsp;Any private educational lender that elects to provide a model form developed under this subsection that accurately reflects thepractices of the private educational lender shall be deemed to be in compliance with the disclosures required under this subsection.
 
 #### (6) Effective period of approved rate of interest and loan terms
 
@@ -244,71 +278,31 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 (Pub. L. 90–321, title I, §128, May 29, 1968, 82 Stat. 155; Pub. L. 96–221, title VI, §614(a)–(c), Mar. 31, 1980, 94 Stat. 178, 179; Pub. L. 104–208, div. A, title II, §2105, Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 109–8, title XIII, §1302(b)(1), Apr. 20, 2005, 119 Stat. 208; Pub. L. 110–289, div. B, title V, §2502(a), July 30, 2008, 122 Stat. 2855; Pub. L. 110–315, title X, §1021(a), Aug. 14, 2008, 122 Stat. 3483; Pub. L. 110–343, div. A, title I, §130(a), Oct. 3, 2008, 122 Stat. 3797.)
 
-#### Amendment of Subsection (b)(2)
-
-<i>Pub. L. 110–289, div. B, title V, §2502(a), (c), July 30, 2008, 122 Stat. 2855, 2857, provided that, effective 12 months after July 30, 2008, subsection (b)(2) of this section is amended as follows, except that subparagraph (C) of subsection (b)(2) of this section shall become effective on the earlier of either the compliance date established by the Board for such purpose, by regulation, or 30 months after July 30, 2008:</i>
-
-<i>(1) by inserting “(A)” before “In the”;</i>
-
-<i>(2) by striking “a residential mortgage transaction, as defined in section 1602(w) of this title” and inserting “any extension of credit that is secured by the dwelling of a consumer”;</i>
-
-<i>(3) by striking “before the credit is extended, or” and inserting “and”;</i>
-
-<i>(4) by inserting “, which shall be at least 7 business days before consummation of the transaction” after “written application”;</i>
-
-<i>(5) by striking “, whichever is earlier”; and</i>
-
-<i>(6) by striking “If the” and all that follows through the end of the paragraph and inserting the following:</i>
-
-<i>“(B) In the case of an extension of credit that is secured by the dwelling of a consumer, the disclosures provided under subparagraph (A), shall be in addition to the other disclosures required by subsection (a), and shall—</i>
-
-&emsp;<i>“(i) state in conspicuous type size and format, the following: ‘You are not required to complete this agreement merely because you have received these disclosures or signed a loan application.’; and</i>
-
-&emsp;<i>“(ii) be provided in the form of final disclosures at the time of consummation of the transaction, in the form and manner prescribed by this section.</i>
-
-<i>“(C) In the case of an extension of credit that is secured by the dwelling of a consumer, under which the annual rate of interest is variable, or with respect to which the regular payments may otherwise be variable, in addition to the other disclosures required by subsection (a), the disclosures provided under this subsection shall do the following:</i>
-
-&emsp;<i>“(i) Label the payment schedule as follows: ‘Payment Schedule: Payments Will Vary Based on Interest Rate Changes’.</i>
-
-&emsp;<i>“(ii) State in conspicuous type size and format examples of adjustments to the regular required payment on the extension of credit based on the change in the interest rates specified by the contract for such extension of credit. Among the examples required to be provided under this clause is an example that reflects the maximum payment amount of the regular required payments on the extension of credit, based on the maximum interest rate allowed under the contract, in accordance with the rules of the Board. Prior to issuing any rules pursuant to this clause, the Board shall conduct consumer testing to determine the appropriate format for providing the disclosures required under this subparagraph to consumers so that such disclosures can be easily understood, including the fact that the initial regular payments are for a specific time period that will end on a certain date, that payments will adjust afterwards potentially to a higher amount, and that there is no guarantee that the borrower will be able to refinance to a lower amount.</i>
-
-<i>“(D) In any case in which the disclosure statement under subparagraph (A) contains an annual percentage rate of interest that is no longer accurate, as determined under section 1606(c) of this title, the creditor shall furnish an additional, corrected statement to the borrower, not later than 3 business days before the date of consummation of the transaction.</i>
-
-<i>“(E) The consumer shall receive the disclosures required under this paragraph before paying any fee to the creditor or other person in connection with the consumer's application for an extension of credit that is secured by the dwelling of a consumer. If the disclosures are mailed to the consumer, the consumer is considered to have received them 3 business days after they are mailed. A creditor or other person may impose a fee for obtaining the consumer's credit report before the consumer has received the disclosures under this paragraph, provided the fee is bona fide and reasonable in amount.</i>
-
-<i>“(F) WAIVER OF TIMELINESS OF DISCLOSURES.—To expedite consummation of a transaction, if the consumer determines that the extension of credit is needed to meet a bona fide personal financial emergency, the consumer may waive or modify the timing requirements for disclosures under subparagraph (A), provided that—</i>
-
-&emsp;<i>“(i) the term ‘bona fide personal emergency’ may be further defined in regulations issued by the Board;</i>
-
-&emsp;<i>“(ii) the consumer provides to the creditor a dated, written statement describing the emergency and specifically waiving or modifying those timing requirements, which statement shall bear the signature of all consumers entitled to receive the disclosures required by this paragraph; and</i>
-
-&emsp;<i>“(iii) the creditor provides to the consumers at or before the time of such waiver or modification, the final disclosures required by paragraph (1).</i>
-
-<i>“(G) The requirements of subparagraphs (B), (C), (D) and (E) shall not apply to extensions of credit relating to plans described in section 101(53D) of title 11.”.</i>
-
-<i>Pub. L. 110–343, div. A, title I, §130, Oct. 3, 2008, 122 Stat. 3797, provided that, effective as if included in the amendments made by section 2502 of Pub. L. 110–289, subsection (b)(2) of this section is amended:</i>
-
-<i>(1) in subparagraph (A), by striking “In the case” and inserting “Except as provided in subparagraph (G), in the case”; and</i>
-
-<i>(2) by amending subparagraph (G) to read as follows:</i>
-
-<i>“(G)(i) In the case of an extension of credit relating to a plan described in section 101(53D) of title 11—</i>
-
-&emsp;<i>“(I) the requirements of subparagraphs (A) through (E) shall not apply; and</i>
-
-&emsp;<i>“(II) a good faith estimate of the disclosures required under subsection (a) shall be made in accordance with regulations of the Board under section 1631(c) of this title before such credit is extended, or shall be delivered or placed in the mail not later than 3 business days after the date on which the creditor receives the written application of the consumer for such credit, whichever is earlier.</i>
-
-<i>“(ii) If a disclosure statement furnished within 3 business days of the written application (as provided under clause (i)(II)) contains an annual percentage rate which is subsequently rendered inaccurate, within the meaning of section 1606(c) of this title, the creditor shall furnish another disclosure statement at the time of settlement or consummation of the transaction.”.</i>
-
 #### References in Text
 
-The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2), probably refers to the Real Estate Settlement Procedures Act of 1974, Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, as amended, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
+The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2)(A), probably refers to the Real Estate Settlement Procedures Act of 1974, Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (e)(1)(M), (N), (2)(M)(i), (N), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–315 added subsec. (e).
+2008—Subsec. (b)(2). Pub. L. 110–289, §2502(a)(1), designated existing provisions as subpar. (A).
+
+Subsec. (b)(2)(A). Pub. L. 110–343, §130(a)(1), substituted “Except as provided in subparagraph (G), in the case” for “In the case”.
+
+Pub. L. 110–289, §2502(a)(5), (6), struck out “, whichever is earlier” after “consummation of the transaction” and “If the disclosure statement furnished within three days of the written application contains an annual percentage rate which is subsequently rendered inaccurate within the meaning of section 1606(c) of this title, the creditor shall furnish another statement at the time of settlement or consummation.” at the end.
+
+Pub. L. 110–289, §2502(a)(4), which directed insertion of “, which shall be at least 7 business days before consummation of the transaction” after “written application”, was executed by making the insertion after “written application” the first place appearing.
+
+Pub. L. 110–289, §2502(a)(2), (3), substituted “any extension of credit that is secured by the dwelling of a consumer” for “a residential mortgage transaction, as defined in section 1602(w) of this title” and “and” for “before the credit is extended, or”.
+
+Subsec. (b)(2)(B) to (F). Pub. L. 110–289, §2502(a)(6), added subpars. (B) to (F).
+
+Subsec. (b)(2)(G). Pub. L. 110–343, §130(a)(2), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “The requirements of subparagraphs (B), (C), (D) and (E) shall not apply to extensions of credit relating to plans described in section 101(53D) of title 11.”
+
+Pub. L. 110–289, §2502(a)(6), added subpar. (G).
+
+Subsec. (e). Pub. L. 110–315 added subsec. (e).
 
 2005—Subsec. (a)(15). Pub. L. 109–8, §1302(b)(1)(A), added par. (15).
 
@@ -334,7 +328,7 @@ In General.—Except as provided in subsection (b) and as otherwise provided in 
 
 “(b)
 
-Effect Notwithstanding Regulations.—Paragraphs (1), (2), (3), (4), (6), (7), and (8) of section 128(e) \[15 U.S.C. 1638(e)\] and section 140(c) of the Truth in Lending Act \[15 U.S.C. 1650(c)\], as added by this title, shall become effective on the earlier of the date on which regulations issued under section 1002 \[set out as a note below\] become effective or 18 months after the date of enactment of this Act \[Aug. 14, 2008\].”
+Effect Notwithstanding Regulations.—Paragraphs (1), (2), (3), (4), (6), (7), and (8) of section 128(e) \[15 U.S.C. 1638(e)\] and section 140(c) of the Truth in Lending Act \[15 U.S.C. 1650(c)\], as added by this title, shall become effective on the earlier of the date on which regulations issued under section 1002 \[set out as a note below\] become effective \[Such regulations were issued effective Sept. 14, 2009, with compliance optional until Feb. 14, 2010. See 74 F.R. 41194.\] or 18 months after the date of enactment of this Act \[Aug. 14, 2008\].”
 
 Pub. L. 110–289, div. B, title V, §2502(c), July 30, 2008, 122 Stat. 2857, provided that:
 
@@ -360,5 +354,53 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 #### Regulations
 
-Pub. L. 110–315, title X, §1002, Aug. 14, 2008, 122 Stat. 3478, provided that: “Not later than 365 days after thedate of enactment of this Act \[Aug. 14, 2008\], the Board of Governors of the Federal Reserve System shall issue regulations in final form to implement paragraphs (1), (2), (3), (4), (6), (7), and (8) of section 128(e) \[15 U.S.C. 1638(e)\] and section 140(c) of the Truth in Lending Act \[15 U.S.C. 1650(c)\], as added by this title, which regulations shall become effective not later than 6 months after their date of issuance.”
+Pub. L. 110–315, title X, §1002, Aug. 14, 2008, 122 Stat. 3478, provided that: “Not later than 365 days after the date of enactment of this Act \[Aug. 14, 2008\], the Board of Governors of the Federal Reserve System shall issue regulations in final form to implement paragraphs (1), (2), (3), (4), (6), (7), and (8) of section 128(e) \[15 U.S.C. 1638(e)\] and section 140(c) of the Truth in Lending Act \[15 U.S.C. 1650(c)\], as added by this title, which regulations shall become effective not later than 6 months after their date of issuance.”
+
+#### Mortgages Loans; Rulemaking Procedures; Enforcement
+
+Pub. L. 111–8, div. D, title VI, §626(a), (b), Mar. 11, 2009, 123 Stat. 678, as amended by Pub. L. 111–24, title V, §511(a), May 22, 2009, 123 Stat. 1763, provided that:
+
+“(a)(1) Within 90 days after the date of enactment of this Act \[Mar. 11, 2009\], the Federal Trade Commission shall initiate a rulemaking proceeding with respect to mortgage loans in accordance with section 553 of title 5, United States Code. Such rulemaking shall relate to unfair or deceptive acts or practices regarding mortgage loans, which may include unfair or deceptive acts or practices involving loan modification and foreclosure rescue services. Any violation of a rule prescribed under this subsection shall be treated as a violation of a rule under section 18 of the Federal Trade Commission Act (15 U.S.C. 57a) regarding unfair or deceptive acts or practices.
+
+“(2) Paragraph (1) shall not be construed to authorize the Federal Trade Commission to promulgate a rule with respect to an entity that is not subject to enforcement of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) by the Commission.
+
+“(3) Before issuing a final rule pursuant to the proceeding initiated under paragraph (1), the Federal Trade Commission shall consult with the Federal Reserve Board concerning any portion of the proposed rule applicable to acts or practices to which the provisions of the Truth in Lending Act (15 U.S.C. 1601 et seq.) may apply.
+
+“(4) The Federal Trade Commission shall enforce the rules issued under paragraph (1) in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made part of this section.
+
+“(b)(1) Except as provided in paragraph (6), in any case in which the attorney general of a State has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by the engagement of any person subject to a rule prescribed under subsection (a) in a practice that violates such rule, the State, as parens patriae, may bring a civil action on behalf of the residents of the State in an appropriate district court of the United States or other court of competent jurisdiction—
+
+&emsp;“(A) to enjoin that practice;
+
+&emsp;“(B) to enforce compliance with the rule;
+
+&emsp;“(C) to obtain damages, restitution, or other compensation on behalf of residents of the State; or
+
+&emsp;“(D) to obtain penalties and relief provided by the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] and such other relief as the court considers appropriate.
+
+“(2) The State shall serve written notice to the primary Federal regulator of any civil action under paragraph (1) at least 60 days prior to initiating such civil action. The notice shall include a copy of the complaint to be filed to initiate such civil action, except that if it is not feasible for the State to provide such prior notice, the State shall provide notice immediately upon instituting such civil action.
+
+“(3) Upon receiving the notice required by paragraph (2), the primary Federal regulator may intervene in such civil action and upon intervening—
+
+&emsp;“(A) be heard on all matters arising in such civil action;
+
+&emsp;“(B) remove the action to the appropriate United States district court; and
+
+&emsp;“(C) file petitions for appeal of a decision in such civil action.
+
+“(4) Nothing in this subsection shall prevent the attorney general of a State from exercising the powers conferred on the attorney general by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence. Nothing in this section shall prohibit the attorney general of a State, or other authorized State officer, from proceeding in State or Federal court on the basis of an alleged violation of any civil or criminal statute of that State.
+
+“(5) In a civil action brought under paragraph (1)—
+
+&emsp;“(A) the venue shall be a judicial district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under section 1391 of title 28, United States Code; and
+
+&emsp;“(B) process may be served without regard to the territorial limits of the district or of the State in which the civil action is instituted.
+
+“(6) Whenever a civil action or an administrative action has been instituted by or on behalf of the primary Federal regulator for violation of any provision of law or rule described in paragraph (1), no State may, during the pendency of such action instituted by or on behalf of the primary Federal regulator, institute a civil action under that paragraph against any defendant named in the complaint in such action for violation of any law or rule as alleged in such complaint.
+
+“(7) If the attorney general of a State prevails in any civil action under paragraph (1), the State can recover reasonable costs and attorney fees from the lender or related party.”
+
+\[Pub. L. 111–24, title V, §511(b), May 22, 2009, 123 Stat. 1764, provided that: “The amendments made by subsection (a) \[amending section 626 of Pub. L. 111–8, set out above\] shall take effect on March 12, 2009.”\]
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

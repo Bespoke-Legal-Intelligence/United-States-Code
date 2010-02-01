@@ -68,7 +68,7 @@ In this subchapter (unless the context otherwise requires):
 
 #### (15) Promotion
 
-&emsp;The term “promotion” means an action, including paid advertising, technical assistance, or a trade servicing activity, to enhance theimage or desirability of canola, rapeseed, or canola or rapeseed products in domestic and foreign markets, or an activity designed to communicate to consumers, processors, wholesalers, retailers, government officials, or other persons information relating to the positive attributes of canola, rapeseed, or canola or rapeseed products or the benefits of use or distribution of canola, rapeseed, or canola or rapeseed products.
+&emsp;The term “promotion” means an action, including paid advertising, technical assistance, or a trade servicing activity, to enhance the image or desirability of canola, rapeseed, or canola or rapeseed products in domestic and foreign markets, or an activity designed to communicate to consumers, processors, wholesalers, retailers, government officials, or other persons information relating to the positive attributes of canola, rapeseed, or canola or rapeseed products or the benefits of use or distribution of canola, rapeseed, or canola or rapeseed products.
 
 #### (16) Research
 

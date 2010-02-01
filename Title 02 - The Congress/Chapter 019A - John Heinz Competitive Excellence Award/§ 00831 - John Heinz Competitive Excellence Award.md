@@ -12,7 +12,7 @@ There is hereby established the John Heinz Competitive Excellence Award, which s
 
 #### (1) In general
 
-&emsp;Two separate awards may be given under this section in each year. One such award maybe given to a qualifying individual (including employees of any State or local government, or the Federal Government), and 1 such award may be given to a qualifying organization, institution, or business.
+&emsp;Two separate awards may be given under this section in each year. One such award may be given to a qualifying individual (including employees of any State or local government, or the Federal Government), and 1 such award may be given to a qualifying organization, institution, or business.
 
 #### (2) Limitation
 

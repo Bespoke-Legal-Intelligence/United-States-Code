@@ -12,7 +12,7 @@ The Director of the Institute shall coordinate activities under subsection (a) o
 
 In carrying out subsection (a) of this section, the Director of the Institute shall conduct or support research to expand the understanding of the causes of, and to develop methods for preventing, cardiovascular diseases in women. Activities under such subsection shall include conducting and supporting the following:
 
-&emsp;(1) Research to determine the reasons underlying the prevalence of heart attack, stroke, and other cardiovascular diseases in women, including African-American women and other women who are members of racial or ethnic minority groups.
+&emsp;(1) Research to determine the reasons underlying the prevalence of heart attack, stroke,and other cardiovascular diseases in women, including African-American women and other women who are members of racial or ethnic minority groups.
 
 &emsp;(2) Basic research concerning the etiology and causes of cardiovascular diseases in women.
 

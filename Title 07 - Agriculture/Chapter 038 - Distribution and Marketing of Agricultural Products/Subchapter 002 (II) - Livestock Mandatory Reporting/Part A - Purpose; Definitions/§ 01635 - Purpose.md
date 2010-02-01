@@ -12,7 +12,7 @@ The purpose of this subchapter is to establish a program of information regardin
 
 #### Livestock Mandatory Reporting
 
-Pub. L. 106–78, title IX, Oct. 22, 1999, 113 Stat. 1188, as amended by Pub. L. 108–444, §1, Dec. 3, 2004, 118 Stat. 2635; Pub. L. 109–296, §1(b), Oct. 5, 2006, 120 Stat. 1464, provided that:
+Pub. L. 106–78, title IX, Oct. 22, 1999, 113 Stat. 1188, as amended by Pub. L. 108–444, §1, Dec. 3, 2004, 118 Stat.2635; Pub. L. 109–296, §1(b), Oct. 5, 2006, 120 Stat. 1464, provided that:
 
 #### “SEC. 901. SHORT TITLE.
 
@@ -154,7 +154,7 @@ Submission of Reports to Congress, Producers, Packers, and Others.—The reports
 
 “(a)
 
-In General.—Not later than 180 days after the date of the enactment of this Act \[Oct. 22, 1999\], the Secretary of Agriculture shall publish final regulations to implement this title and the amendments made by this title.
+In General.—Not later than 180 days after the date of the enactment of this Act \[Oct. 22, 1999\], the Secretary of Agriculture shall publish final regulationsto implement this title and the amendments made by this title.
 
 “(b)
 

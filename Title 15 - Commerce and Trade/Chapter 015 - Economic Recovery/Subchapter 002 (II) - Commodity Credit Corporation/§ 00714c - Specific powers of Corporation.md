@@ -78,7 +78,7 @@ Transportation costs.—Funds or commodities shall be made available under this 
 
 “(c)
 
-Reimbursement of Corporation.—Section 4 of the Act of July 16, 1943 (57 Stat. 566, chapter 241; 15 U.S.C. 713a \[15 U.S.C. 713a–9\]) shall not apply to services performed, losses sustained, operating costs incurred,or commodities purchased or delivered by the Commodity Credit Corporation pursuant to this section.”
+Reimbursement of Corporation.—Section 4 of the Act of July 16, 1943 (57 Stat. 566, chapter 241; 15 U.S.C. 713a \[15 U.S.C. 713a–9\]) shall not apply to services performed, losses sustained, operating costs incurred, or commodities purchased or delivered by the Commodity Credit Corporation pursuant to this section.”
 
 #### Use of Commodity Credit Corporation for Purchase of Agricultural Products Formerly Intended for Export to Soviet Union
 

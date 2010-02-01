@@ -4,9 +4,9 @@
 
 For purposes of title I of the Family and Medical Leave Act of 1993 \[29 U.S.C. 2611 et seq.\], if—
 
-&emsp;(1) a participant has provided service for the period required by section 101(2)(A)(i) (29 U.S.C. 2611(2)(A)(i)), and has met the hours of service requirement of section 101(2)(A)(ii), of such Act with respect to a project; and
+&emsp;(1) a participant has provided service for the period required by section 101(2)(A)(i) (29 U.S.C. 2611(2)(A)(i)), and has met the hours of service requirement of section 101(2)(A)(ii), of such Act with respect to a project authorized under the national service laws; and
 
-&emsp;(2) the service sponsor of the project is an employer described in section 101(4) of such Act (other than an employing agency within the meaning of subchapter V of chapter 63 of title 5),
+&emsp;(2) the service sponsor of the project is an employer described in section 101(4) of such Act (other than an employing agency withinthe meaning of subchapter V of chapter 63 of title 5),
 
 > the participant shall be considered to be an eligible employee of the service sponsor.
 
@@ -24,7 +24,7 @@ For purposes of subchapter V of chapter 63 of title 5, if—
 
 The period of any absence of a participant from a service position pursuant to title I of the Family and Medical Leave Act of 1993 \[29 U.S.C. 2611 et seq.\] or subchapter V of chapter 63 of title 5 shall not be counted toward the completion of the term of service of the participant under section 12593 of this title.
 
-(Pub. L. 101–610, title I, §171, Nov. 16, 1990, 104 Stat. 3159; Pub. L. 103–82, title I, §113(a), Sept. 21, 1993, 107 Stat. 861.)
+(Pub. L. 101–610, title I, §171, Nov. 16, 1990, 104 Stat. 3159; Pub. L. 103–82, title I, §113(a), Sept. 21, 1993, 107 Stat. 861; Pub. L. 111–13, title I, §1601, Apr. 21, 2009, 123 Stat. 1529.)
 
 #### References in Text
 
@@ -32,7 +32,13 @@ The Family and Medical Leave Act of 1993, referred to in subsecs. (a) and (c), i
 
 #### Amendments
 
+2009—Subsec. (a)(1). Pub. L. 111–13 substituted “with respect to a project authorized under the national service laws” for “with respect to a project”.
+
 1993—Pub. L. 103–82 amended section generally, substituting provisions relating to family and medical leave for provisions relating to limitation on number of grants under this subchapter.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 
 #### Effective Date of 1993 Amendment
 

@@ -1,6 +1,6 @@
 ### §8172. Employees not citizens or residents of the United States
 
-In case of disability or death, resulting from injury, as defined by section 2(2) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 902(2)), occurring to an employee of a nonappropriated fund instrumentality described by section 2105(c) of this title who is—
+In case of disability or death resulting from injury, as defined by section 2(2) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 902(2)), occurring to an employee of a nonappropriated fund instrumentality described by section 2105(c) of this title who is—
 
 &emsp;(1) not a citizen or permanent resident of the United States or a territory or possession of the United States; and
 

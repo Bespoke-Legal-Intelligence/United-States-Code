@@ -2,7 +2,7 @@
 
 The purposes of this subpart are as follows:
 
-&emsp;(1) To provide assistance to State educational agencies and local educational agencies in establishing reading programs for students in kindergarten through grade 3 that are based on scientifically based reading research, to ensure that every student can read at gradelevel or above not later than the end of grade 3.
+&emsp;(1) To provide assistance to State educational agencies and local educational agencies in establishing reading programs for students in kindergarten through grade 3 that are based on scientifically based reading research, to ensure that every student can read at grade level or above not later than the end of grade 3.
 
 &emsp;(2) To provide assistance to State educational agencies and local educational agencies in preparing teachers, including special education teachers, through professional development and other support, so the teachers can identify specific reading barriers facing their students and so the teachers have the tools to effectively help their students learn to read.
 

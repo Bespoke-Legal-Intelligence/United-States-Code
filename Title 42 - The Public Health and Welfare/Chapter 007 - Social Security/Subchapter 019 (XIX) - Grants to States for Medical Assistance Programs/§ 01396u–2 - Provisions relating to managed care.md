@@ -490,23 +490,101 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 &emsp;(2) to include a sponsorship code in the identification card issued to individuals covered under this subchapter in order that a hospital may identify a patient as being entitled to benefits under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111 Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570; Pub. L. 109–171, title VI, §6085(a), Feb. 8, 2006, 120 Stat. 121.)
+#### (h) Special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities
+
+#### (1) Enrollee option to select an Indian health care provider as primary care provider
+
+&emsp;In the case of a non-Indian Medicaid managed care entity that—
+
+&emsp;&emsp;(A) has an Indian enrolled with the entity; and
+
+&emsp;&emsp;(B) has an Indian health care provider that is participating as a primary care provider within the network of the entity,
+
+> &emsp;insofar as the Indian is otherwise eligible to receive services from such Indian health care provider and the Indian health care provider has the capacity to provide primary care services to such Indian, the contract with the entity under section 1396b(m) of this title or under section 1396d(t)(3) of this title shall require, as a condition of receiving payment under such contract, that the Indian shall be allowed to choose such Indian health care provider as the Indian's primary care provider under the entity.
+
+#### (2) Assurance of payment to Indian health care providers for provision of covered services
+
+&emsp;Each contract with a managed care entity under section 1396b(m) of this title or under section 1396d(t)(3) of this title shall require any such entity, as a condition of receiving payment under such contract, to satisfy the following requirements:
+
+#### (A) Demonstration of access to Indian health care providers and application of alternative payment arrangements
+
+&emsp;&emsp;Subject to subparagraph (C), to—
+
+&emsp;&emsp;&emsp;(i) demonstrate that the number of Indian health care providers that are participating providers with respect to such entity are sufficient to ensure timely access to covered Medicaid managed care services for those Indian enrollees who are eligible to receive services from such providers; and
+
+&emsp;&emsp;&emsp;(ii) agree to pay Indian health care providers, whether such providers are participating or nonparticipating providers with respect to the entity, for covered Medicaid managed care services provided to those Indian enrollees who are eligible to receive services from such providers at a rate equal to the rate negotiated between such entity and the provider involved or, if such a rate has not been negotiated, at a rate that is not less than the level and amount of payment which the entity would make for the services if the services were furnished by a participating provider which is not an Indian health care provider.
+
+> &emsp;&emsp;The Secretary shall establish procedures for applying the requirements of clause (i) in States where there are no or few Indian health providers.
+
+#### (B) Prompt payment
+
+&emsp;&emsp;To agree to make prompt payment (consistent with rule for prompt payment of providers under section 1396u–2(f) of this title) to Indian health care providers that are participating providers with respect to such entity or, in the case of an entity to which subparagraph (A)(ii) or (C) applies, that the entity is required to pay in accordance with that subparagraph.
+
+#### (C) Application of special payment requirements for federally-qualified health centers and for services provided by certain Indian health care providers
+
+#### (i) Federally-qualified health centers
+
+#### (I) Managed care entity payment requirement
+
+&emsp;&emsp;&emsp;&emsp;To agree to pay any Indian health care provider that is a federally-qualified health center under this subchapter but not a participating provider with respect to the entity, for the provision of covered Medicaid managed care services bysuch provider to an Indian enrollee of the entity at a rate equal to the amount of payment that the entity would pay a federally-qualified health center that is a participating provider with respect to the entity but is not an Indian health care provider for such services.
+
+#### (II) Continued application of State requirement to make supplemental payment
+
+&emsp;&emsp;&emsp;&emsp;Nothing in subclause (I) or subparagraph (A) or (B) shall be construed as waiving the application of section 1396a(bb)(5) of this title regarding the State plan requirement to make any supplemental payment due under such section to a federally-qualified health center for services furnished by such center to an enrollee of a managed care entity (regardless of whether the federally-qualified health center is or is not a participating provider with the entity).
+
+#### (ii) Payment rate for services provided by certain Indian health care providers
+
+&emsp;&emsp;&emsp;If the amount paid by a managed care entity to an Indian health care provider that is not a federally-qualified health center for services provided by the provider to an Indian enrollee with the managed care entity is less than the rate that applies to the provision of such services by the provider under the State plan, the plan shall provide for payment to the Indian health care provider, whether the provider is a participating or nonparticipating provider with respect to the entity, of the difference between such applicable rate and the amount paid by the managed care entity to the provider for such services.
+
+#### (D) Construction
+
+&emsp;&emsp;Nothing in this paragraph shall be construed as waiving the application of section 1396a(a)(30)(A) of this title (relating to application of standards to assure that payments are consistent with efficiency, economy, and quality of care).
+
+#### (3) Special rule for enrollment for Indian managed care entities
+
+&emsp;Regarding the application of a Medicaid managed care program to Indian Medicaid managed care entities, an Indian Medicaid managed care entity may restrict enrollment under such program to Indians in the same manner as Indian Health Programs may restrict the delivery of services to Indians.
+
+#### (4) Definitions
+
+&emsp;For purposes of this subsection:
+
+#### (A) Indian health care provider
+
+&emsp;&emsp;The term “Indian health care provider” means an Indian Health Program or an Urban Indian Organization.
+
+#### (B) Indian Medicaid managed care entity
+
+&emsp;&emsp;The term “Indian Medicaid managed care entity” means a managed care entity that is controlled (within the meaning of the last sentence of section 1396b(m)(1)(C) of this title) by the Indian Health Service, a Tribe, Tribal Organization, or Urban Indian Organization, or a consortium, which may be composed of 1 or more Tribes, Tribal Organizations, or Urban Indian Organizations, and which also may include the Service.
+
+#### (C) Non-Indian Medicaid managed care entity
+
+&emsp;&emsp;The term “non-Indian Medicaid managed care entity” means a managed care entity that is not an Indian Medicaid managed care entity.
+
+#### (D) Covered Medicaid managed care services
+
+&emsp;&emsp;The term “covered Medicaid managed care services” means, with respect to an individual enrolled with a managed care entity, items and services for which benefits are available with respect to the individual under the contract between the entity and the State involved.
+
+#### (E) Medicaid managed care program
+
+&emsp;&emsp;The term “Medicaid managed care program” means a program under sections 1396b(m), 1396d(t), and 1396u–2 of this title and includes a managed care program operating under a waiver under section 1396n(b) or 1315 of this title or otherwise.
+
+(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111 Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570; Pub. L. 109–171, title VI, §6085(a), Feb. 8, 2006, 120 Stat. 121; Pub. L. 111–5, div. B, title V, §5006(d)(1), Feb. 17, 2009, 123 Stat. 507.)
 
 #### References in Text
 
 Part E of subchapter IV of this chapter, referred to in subsec. (a)(2)(A)(iv), is classified to section 670 et seq. of this title.
 
-The Indian Self-Determination Act, referred to in subsec. (a)(2)(C)(ii), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in subsec. (a)(2)(C)(ii), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
-The Indian Health Care Improvement Act, referred to in subsec. (a)(2)(C)(iii), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended. Title V of the Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (a)(2)(C)(iii), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400. Title V of the Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
 Section 9517(c)(3) of the Omnibus Budget Reconciliation Act of 1985, referred to in subsec. (a)(3)(C)(i)(II), is section 9517(c)(3) of Pub. L. 99–272, which is set out as a note under section 1396b of this title.
 
 Part C of subchapter XVIII of this chapter, referred to in subsecs. (b)(2)(A)(ii) and (c)(1)(A)(iii), (2)(C), is classified to section 1395w–21 et seq. of this title.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(3)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(3)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-The Public Health Service Act, referred to in subsec. (b)(8), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subpart 2 of part A of title XXVII of the Act is classified generally to subpart 2 (§300gg–4 et seq.) of part A of subchapter XXV of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (b)(8), is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart2 of part A of title XXVII of the Act is classified generally to subpart 2 (§300gg–4 et seq.) of part A of subchapter XXV of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 Executive Order No. 12549, referred to in subsec. (d)(1)(C)(i), is set out as a note under section 6101 of Title 31, Money and Finance.
 
@@ -515,6 +593,8 @@ Executive Order No. 12549, referred to in subsec. (d)(1)(C)(i), is set out as a 
 A prior section 1932 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+2009—Subsec. (h). Pub. L. 111–5 added subsec. (h).
 
 2006—Subsec. (b)(2)(D). Pub. L. 109–171 added subpar. (D).
 
@@ -538,6 +618,10 @@ Subsec. (f). Pub. L. 105–33, §4708(c), added subsec. (f).
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–5 effective July 1, 2009, see section 5006(f) of Pub. L. 111–5, set out as a note under section 1396a of this title.
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–171, title VI, §6085(b), Feb. 8, 2006, 120 Stat. 121, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2007.”
@@ -548,7 +632,7 @@ Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(3)(A)\], Dec. 21, 2000, 114 S
 
 #### Effective Date
 
-Section effective Aug. 5, 1997, and applicable to contracts entered into or renewed on or after Oct. 1, 1997,except that, subject to provisions relating to extension of effective date for State law amendments, and to nonapplication to waivers, subsec. (c)(1) effective Jan. 1, 1999, and subsec. (e) applicable to contracts entered into or renewed on or after Apr. 1, 1998, see section 4710(a), (b)(3), (5) of Pub. L. 105–33, set out as an Effective Date of 1997 Amendment note under section 1396b of this title.
+Section effective Aug. 5, 1997, and applicable to contracts entered into or renewed on or after Oct. 1, 1997, except that, subject to provisions relating to extension of effective date for State law amendments, and to nonapplication to waivers, subsec. (c)(1) effective Jan. 1, 1999, and subsec. (e) applicable to contracts entered into or renewed on or after Apr. 1, 1998, see section 4710(a), (b)(3), (5) of Pub. L. 105–33, set out as an Effective Date of 1997 Amendment note under section 1396b of this title.
 
 #### Studies and Reports
 

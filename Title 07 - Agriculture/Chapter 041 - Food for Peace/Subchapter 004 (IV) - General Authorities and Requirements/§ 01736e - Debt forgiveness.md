@@ -12,7 +12,7 @@ The President, taking into account the financial resources of a country, may wai
 
 &emsp;&emsp;(B) a structural adjustment program of the International Bank for Reconstruction and Development or of the International Development Association is in effect with respect to that country;
 
-&emsp;&emsp;(C) a structural adjustment facility, enhanced structural adjustment facility, orsimilar supervised arrangement with the International Monetary Fund is in effect with respect to that country; or
+&emsp;&emsp;(C) a structural adjustment facility, enhanced structural adjustment facility, or similar supervised arrangement with the International Monetary Fund is in effect with respect to that country; or
 
 &emsp;&emsp;(D) even though such an agreement, program, facility, or arrangement is not in effect, the country is pursuing national economic policy reforms that would promote democratic, market-oriented, and long term economic development.
 

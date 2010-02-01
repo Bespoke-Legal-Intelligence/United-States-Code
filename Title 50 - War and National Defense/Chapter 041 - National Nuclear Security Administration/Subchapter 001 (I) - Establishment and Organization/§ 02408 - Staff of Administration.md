@@ -22,5 +22,5 @@ The staff of the Administration shall perform, in accordance with applicable law
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(4), (5). Pub. L. 109–364 added par. (4) and redesignated former par. (4) as (5).
+2006—Subsec. (b)(4), (5). Pub. L. 109–364 added par. (4) and redesignated former par. (4) as (5).
 

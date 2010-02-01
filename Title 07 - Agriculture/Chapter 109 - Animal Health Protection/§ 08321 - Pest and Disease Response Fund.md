@@ -10,7 +10,7 @@ Amounts in the Fund shall remain available until expended.
 
 #### (c) Use of Fund
 
-In implementing the Animal Health Protection Act (7 U.S.C. 8301 et seq.) and the Plant Protection Act (7 U.S.C. 7701 et seq.), the Secretary of Agriculture shall have complete discretion regarding the use of amounts in the Fund to support emergency eradication and research activities in response to economic and health threats posed by pests and diseases affecting agricultural commodities.
+In implementing the Animal Health Protection Act (7 U.S.C. 8301 et seq.) and the Plant Protection Act (7 U.S.C. 7701 et seq.), the Secretary of Agriculture shall have complete discretion regarding the use of amounts in theFund to support emergency eradication and research activities in response to economic and health threats posed by pests and diseases affecting agricultural commodities.
 
 #### (d) Authorization of appropriations
 

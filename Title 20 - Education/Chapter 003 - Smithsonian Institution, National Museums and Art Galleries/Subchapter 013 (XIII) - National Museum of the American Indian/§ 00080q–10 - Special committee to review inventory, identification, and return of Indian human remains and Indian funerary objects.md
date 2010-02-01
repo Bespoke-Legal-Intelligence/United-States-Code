@@ -22,7 +22,7 @@ The committee shall consist of 7 members, of whom—
 
 &emsp;(3) the Secretary shall designate one member as chairman.
 
-> The Secretary may not appoint to the committee any individual who is an officer or employee of the Government (including the Smithsonian Institution) or any individual who is otherwise affiliated with the Smithsonian Institution.
+> The Secretary may not appoint to the committee any individual who is an officer or employeeof the Government (including the Smithsonian Institution) or any individual who is otherwise affiliated with the Smithsonian Institution.
 
 #### (c) Access
 

@@ -6,7 +6,7 @@
 
 &emsp;In the case of an alien who is a national of a foreign state designated under subsection (b) of this section (or in the case of an alien having no nationality, is a person who last habitually resided in such designated state) and who meets the requirements of subsection (c) of this section, the Attorney General, in accordance with this section—
 
-&emsp;&emsp;(A) may grant the alien temporary protected status in the United States and shall not remove the alien from the United States during the period in which such status is in effect, and
+&emsp;&emsp;(A) may grant the alien temporary protected status in the United States and shall not remove the alien from the United Statesduring the period in which such status is in effect, and
 
 &emsp;&emsp;(B) shall authorize the alien to engage in employment in the United States and provide the alien with an “employment authorized” endorsement or other appropriate work permit.
 
@@ -26,7 +26,7 @@
 
 #### (4) Temporary treatment for eligible aliens
 
-&emsp;(A) In the case of an alien who can establish a prima facie case of eligibility for benefits under paragraph (1), but for the fact that the period of registration under subsection (c)(1)(A)(iv) of this section has not begun,until the alien has had a reasonable opportunity to register during the first 30 days of such period, the Attorney General shall provide for the benefits of paragraph (1).
+&emsp;(A) In the case of an alien who can establish a prima facie case of eligibility for benefits under paragraph (1), but for the fact that the period of registration under subsection (c)(1)(A)(iv) of this section has not begun, until the alien has had a reasonable opportunity to register during the first 30 days of such period, the Attorney General shall provide for the benefits of paragraph (1).
 
 &emsp;(B) In the case of an alien who establishes a prima facie case of eligibility for benefits under paragraph (1), until a final determination with respect to the alien's eligibility for such benefits under paragraph (1) has been made, the alien shall be provided such benefits.
 
@@ -126,7 +126,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) paragraphs (2)(A) and (2)(B) (relating to criminals) of such section,
 
-&emsp;&emsp;&emsp;&emsp;(II) paragraph (2)(C) of such section (relating to drug offenses), except for so much of such paragraph as relates to a single offense of simple possession of 30 grams or less of marijuana, or
+&emsp;&emsp;&emsp;&emsp;(II) paragraph (2)(C) of such section (relating to drug offenses), except for so much of such paragraph as relates to asingle offense of simple possession of 30 grams or less of marijuana, or
 
 &emsp;&emsp;&emsp;&emsp;(III) paragraphs (3)(A), (3)(B), (3)(C), and (3)(E) of such section (relating to national security and participation in the Nazi persecutions or those who have engaged in genocide).
 
@@ -274,7 +274,7 @@ Subsec. (c)(2)(A)(iii)(I). Pub. L. 101–649, §603(a)(24)(B), which directed th
 
 Subsec. (c)(2)(A)(iii)(II). Pub. L. 101–649, §603(a)(24)(C), substituted “(2)(C)” for “(23)” and inserted “or” at end.
 
-Subsec. (c)(2)(A)(iii)(III). Pub. L. 101–649, §603(a)(24)(D), which directed the substitution of “(3) (relating to security and related grounds)” for “(27) and (29) (relating to national security)”, and a period for “; or”, was executed by substituting “(3) (relating to security and related grounds)” for “(27) and (29) of such section (relating to national security)”, and a period for “, or”, as the probable intent of Congress.
+Subsec. (c)(2)(A)(iii)(III). Pub. L. 101–649, §603(a)(24)(D), which directed the substitution of “(3) (relating to security and related grounds)” for “(27) and (29) (relating to national security)”, and a period for “; or”, was executed by substituting “(3) (relating tosecurity and related grounds)” for “(27) and (29) of such section (relating to national security)”, and a period for “, or”, as the probable intent of Congress.
 
 Subsec. (c)(2)(A)(iii)(IV). Pub. L. 101–649, §603(a)(24)(E), struck out subcl. (IV) which referred to par. (33).
 
@@ -394,5 +394,5 @@ Show cause order at time of final registration.—At the registration occurring 
 
 &emsp;“(2)
 
-Sanction for failure to appear.—If an alien is provided an order to show cause under paragraph\(1) and fails to appear at such proceedings, except for exceptional circumstances, the alien may be deported in absentia under section 240(b)(5) of the Immigration and Nationality Act \[8 U.S.C. 1229a(b)(5)\] (inserted by section 545(a) of this Act) and certain discretionary forms of relief are no longer available to the alien pursuant to such section.”
+Sanction for failure to appear.—If an alien is provided an order to show cause under paragraph (1) and fails to appear at such proceedings, except for exceptional circumstances, the alien may be deported in absentia under section 240(b)(5) of the Immigration and Nationality Act \[8 U.S.C. 1229a(b)(5)\] (inserted by section 545(a) of this Act) and certain discretionary forms of relief are no longer available to the alien pursuant to such section.”
 

@@ -46,7 +46,7 @@ Each protection and advocacy system that receives a payment under this section s
 
 #### (2) Carryover
 
-&emsp;Any amounts allotted for payment to a protection and advocacy system under this section for a fiscal year shall remain available forpayment to or on behalf of the protection and advocacy system until the end of the succeeding fiscal year.
+&emsp;Any amounts allotted for payment to a protection and advocacy system under this section for a fiscal year shall remain available for payment to or on behalf of the protection and advocacy system until the end of the succeeding fiscal year.
 
 #### (g) Definitions
 
@@ -74,9 +74,9 @@ In this section:
 
 #### (h) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $7,000,000 for each of the fiscal years 2000 through 2009.
+There are authorized to be appropriated to carry out this section $7,000,000 for each of the fiscal years 2000 through 2010.
 
-(Aug. 14, 1935, ch. 531, title XI, §1150, as added Pub. L. 106–170, title I, §122, Dec. 17, 1999, 113 Stat. 1890; amended Pub. L. 108–203, title IV, §§404(b)(1), (2), 407(b), Mar. 2, 2004, 118 Stat. 526, 527.)
+(Aug. 14, 1935, ch. 531, title XI, §1150, as added Pub. L. 106–170, title I, §122, Dec. 17, 1999, 113 Stat. 1890; amended Pub. L. 108–203, title IV, §§404(b)(1), (2), 407(b), Mar. 2, 2004, 118 Stat. 526, 527; Pub. L. 111–63, §3, Sept. 18, 2009, 123 Stat. 2001.)
 
 #### References in Text
 
@@ -89,6 +89,8 @@ Section 212 of Public Law 93–66, referred to in subsec. (g)(2)(B), is set out 
 Part A of subchapter XVIII of this chapter, referred to in subsec. (g)(2)(D), is classified to section 1395c et seq. of this title.
 
 #### Amendments
+
+2009—Subsec. (h). Pub. L. 111–63 substituted “2010” for “2009”.
 
 2004—Subsec. (b)(2). Pub. L. 108–203, §404(b)(2), substituted “secure, maintain, or regain” for “secure or regain”.
 

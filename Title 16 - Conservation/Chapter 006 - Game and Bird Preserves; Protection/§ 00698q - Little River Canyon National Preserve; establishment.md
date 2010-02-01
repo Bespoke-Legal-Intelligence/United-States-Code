@@ -6,11 +6,17 @@ In order to protect and preserve the natural, scenic, recreational, and cultural
 
 #### (b) Area included
 
-The Preserve shall consist of the lands, waters, and interests in lands and waters generally depicted on the boundary map entitled “Little River Canyon National Preserve”, numbered NA–LRNP–80,001C, and dated March 1992.
+#### (1) In general
+
+&emsp;The Preserve shall consist of the lands, waters, and interests in lands and waters generally depicted on the boundary map entitled “Little River Canyon National Preserve”, numbered NA–LRNP–80,001C, and dated March 1992.
+
+#### (2) Boundary expansion
+
+&emsp;The boundary of the Preserve is modified to include the land depicted on the map entitled “Little River Canyon National Preserve Proposed Boundary”, numbered 152/80,004, and dated December 2007.
 
 #### (c) Map
 
-The map referred to in subsection (b) of this section shall—
+The maps referred to in subsection (b) of this section shall—
 
 &emsp;(1) be on file and available for public inspection in the offices of the National Park Service of the Department of the Interior in Washington, District of Columbia; and
 
@@ -20,7 +26,13 @@ The map referred to in subsection (b) of this section shall—
 
 Not later than 6 months after October 21, 1992, the Secretary of the Interior (referred to in sections 698q to 698t of this title as the “Secretary”) shall publish in the Federal Register a detailed description of the boundaries of the Preserve.
 
-(Pub. L. 102–427, §2, Oct. 21, 1992, 106 Stat. 2179.)
+(Pub. L. 102–427, §2, Oct. 21, 1992, 106 Stat. 2179; Pub. L. 111–11, title VII, §7103, Mar. 30, 2009, 123 Stat. 1190.)
+
+#### Amendments
+
+2009—Subsec. (b). Pub. L. 111–11, §7103(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (c). Pub. L. 111–11, §7103(2), substituted “maps” for “map” in introductory provisions.
 
 #### Short Title
 

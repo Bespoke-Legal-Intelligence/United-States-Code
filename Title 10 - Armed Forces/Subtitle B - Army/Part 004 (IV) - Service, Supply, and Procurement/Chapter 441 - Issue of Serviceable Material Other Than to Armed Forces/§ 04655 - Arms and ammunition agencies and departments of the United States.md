@@ -1,6 +1,6 @@
 ### §4655. Arms and ammunition: agencies and departments of the United States
 
-(a) Whenever required for the protection of public money and property, the Secretary of theArmy may lend arms and their accouterments, and issue ammunition, to a department or independent agency of the United States, upon request of its head. Property lent or issued under this subsection may be delivered to an officer of the department or agency designated by the head thereof, and that officer shall account for the property to the Secretary of the Army. Property lent or issued under this subsection and not properly expended shall be returned when it is no longer needed.
+(a) Whenever required for the protection of public money and property, the Secretary of the Army may lend arms and their accouterments, and issue ammunition, to a department or independent agency of the United States, upon request of its head. Property lent or issued under this subsection may be delivered to an officer of the department or agency designated by the head thereof, and that officer shall account for the property to the Secretary of the Army. Property lent or issued under this subsection and not properly expended shall be returned when it is no longer needed.
 
 (b) The department or agency to which property is lent or issued under subsection (a) shall transfer funds to the credit of the Department of the Army to cover the costs of—
 
@@ -32,7 +32,7 @@ Historical and Revision Notes
 
 Mar. 3, 1879, ch. 183 (2d par. under “Miscellaneous”); restated Apr. 14, 1937, ch. 79, 50 Stat. 63.
 
-In subsection (a), the word “lend” is substituted for the word “issue”, with respect to arms and accouterments, since the property must be returned when the necessity for its use has expired. The words “and not properly expended” are inserted for clarity. The words “United States” are substituted for the word “Government”. The word “their” is substituted for the words “suitable \* \* \* for use therewith”. The words “it is no longer needed” are substituted for the words “the necessity for their use has expired”.
+In subsection (a), the word “lend” is substituted for the word “issue”, with respect to arms and accouterments, since the property must be returned when the necessity for its use has expired. The words “and not properly expended” are inserted for clarity. The words “United States” are substituted for the word “Government”. The word “their” is substituted for the words “suitable for use therewith”. The words “it is no longer needed” are substituted for the words “the necessity for their use has expired”.
 
 In subsection (b), the words “hereafter”, “borrowed”, and “under the authority of this section” are omitted as surplusage.
 

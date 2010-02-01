@@ -92,7 +92,7 @@ Section 128 of Pub. L. 98–457 provided that:
 
 “(b)(1) Except as provided in paragraph (2), the amendments made by sections 122 and 123(b) of this Act \[amending section 5103 of this title\] shall become effective one year after the date of such enactment \[Oct. 9, 1984\].
 
-“(2) In the event that, prior to such effective date, funds have not been appropriated pursuant to section 5 of the Act (as amended by section 104 of this Act) \[section 5104 of this title\] for the purpose of grants under section 4(c)(1) of the Act (as added by section 123(a) of this Act) \[section 5103(c)(1) of this title\], any State which has not met any requirement of section 4(b)(2)(K) of the Act (as added by section 122(3) of this Act) maybe granted a waiver of such requirements for a period of not more than one year, if the Secretary finds that such State is making a good-faith effort to comply with such requirements.”
+“(2) In the event that, prior to such effective date, funds have not been appropriated pursuant to section 5 of the Act (as amended by section 104 of this Act) \[section 5104 of this title\] for the purpose of grants under section 4(c)(1) of the Act (as added by section 123(a) of this Act) \[section 5103(c)(1) of this title\], any State which has not met any requirement of section 4(b)(2)(K) of the Act (as added by section 122(3) of this Act) may be granted a waiver of such requirements for a period of not more than one year, if the Secretary finds that such State is making a good-faith effort to comply with such requirements.”
 
 #### Termination of Advisory Boards
 

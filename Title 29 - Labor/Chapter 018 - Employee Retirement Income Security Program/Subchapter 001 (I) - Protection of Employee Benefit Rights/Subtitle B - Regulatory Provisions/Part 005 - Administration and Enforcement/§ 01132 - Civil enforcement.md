@@ -68,7 +68,11 @@ A civil action may be brought—
 
 &emsp;(B) in the case of a plan in endangered status which is not in seriously endangered status, for failure by the plan to meet the applicable benchmarks under section 1085 of this title by the end of the funding improvement period with respect to the plan.
 
-(9)
+(9)(A) The Secretary may assess a civil penalty against any employer of up to $100 a day from the date of the employer's failure to meet the notice requirement of section 1181(f)(3)(B)(i)(I) of this title. For purposes of this subparagraph, each violation with respect to any single employee shall be treated as a separate violation.
+
+(B) The Secretary may assess a civil penalty against any plan administrator of up to $100 a day from the date of the plan administrator's failure to timely provide to any State the information required to be disclosed under section 1181(f)(3)(B)(ii) of this title. For purposes of this subparagraph, each violation with respect to any single participant or beneficiary shall be treated as a separate violation.
+
+(10) <sup>3</sup>
 
 Secretarial enforcement authority relating to use of genetic information.—
 
@@ -142,7 +146,7 @@ Waiver by secretary.—In the case of a failure which is due to reasonable cause
 
 Definitions.—Terms used in this paragraph which are defined in section 1191b of this title shall have the meanings provided such terms in such section.
 
-(10) The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) <sup>2</sup> of title 42.
+(10) <sup>3</sup> The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) <sup>2</sup> of title 42.
 
 #### (d) Status of employee benefit plan as entity
 
@@ -152,7 +156,7 @@ Definitions.—Terms used in this paragraph which are defined in section 1191b o
 
 #### (e) Jurisdiction
 
-(1) Except for actions under subsection (a)(1)(B) of this section, the district courts of the United States shall have exclusive jurisdiction of civil actions under this subchapter brought by the Secretary or by a participant, beneficiary, fiduciary, or any person referred to in section 1021(f)(1) of this title. State courts ofcompetent jurisdiction and district courts of the United States shall have concurrent jurisdiction of actions under paragraphs (1)(B) and (7) of subsection (a) of this section.
+(1) Except for actions under subsection (a)(1)(B) of this section, the district courts of the United States shall have exclusive jurisdiction of civil actions under this subchapter brought by the Secretary or by a participant, beneficiary, fiduciary, or any person referred to in section 1021(f)(1) of this title. State courts of competent jurisdiction and district courts of the United States shall have concurrent jurisdiction of actions under paragraphs (1)(B) and (7) of subsection (a) of this section.
 
 (2) Where an action under this subchapter is brought in a district court of the United States, it may be brought in the district where the plan is administered, where the breach took place, or where a defendant resides or may be found, and process may be served in any other district where a defendant resides or may be found.
 
@@ -226,7 +230,7 @@ Suits by an administrator, fiduciary, participant, or beneficiary of an employee
 
 In the case of a distribution to a pension plan participant or beneficiary in violation of section 1056(e) of this title by a plan fiduciary, the Secretary shall assess a penalty against such fiduciary in an amount equal to the value of the distribution. Such penalty shall not exceed $10,000 for each such distribution.
 
-(Pub. L. 93–406, title I, §502, Sept. 2, 1974, 88 Stat. 891; Pub. L. 96–364, title III, §306(b), Sept. 26, 1980, 94 Stat. 1295; Pub. L. 99–272, title X, §10002(b), Apr. 7, 1986, 100 Stat. 231; Pub. L. 100–203, title IX, §§9342(c), 9344, Dec. 22, 1987, 101 Stat. 1330–372, 1330–373; Pub. L. 101–239, title II, §2101(a), (b), title VII, §§7881(b)(5)(B), (j)(2), (3), 7891(a)(1), 7894(f)(1), Dec. 19, 1989, 103 Stat. 2123, 2438, 2442, 2445, 2450; Pub. L. 101–508, title XII, §12012(d)(2), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–66, title IV, §4301(c)(1)–(3), Aug. 10, 1993, 107 Stat. 376; Pub. L. 103–401, §§2, 3, Oct. 22, 1994, 108 Stat. 4172; Pub. L. 103–465, title VII, §761(a)(9)(B)(ii), Dec. 8, 1994, 108 Stat. 5033; Pub. L. 104–191, title I, §101(b), (e)(2), Aug. 21, 1996, 110 Stat. 1951, 1952; Pub. L. 104–204, title VI, §603(b)(3)(E), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(c)(2)(B), (d)(7), Aug. 5, 1997, 111 Stat. 1062; Pub. L. 107–204, title III, §306(b)(3), July 30, 2002, 116 Stat. 783; Pub. L. 108–218, title I, §§102(d), 103(b), 104(a)(2), Apr. 10, 2004, 118 Stat. 602, 603, 606; Pub. L. 109–280, title I, §103(b)(2), title II, §202(b), (c), title V, §§502(a)(2), (b)(2), 507(b), 508(a)(2)(C), title IX, §902(f)(2), Aug. 17, 2006, 120 Stat. 816, 884, 885, 940, 941, 949, 951, 1039; Pub. L. 110–233, title I, §101(e), May 21, 2008, 122 Stat. 886; Pub. L. 110–458, title I, §§101(c)(1)(H), 102(b)(1)(H), (I), Dec. 23, 2008, 122 Stat. 5097, 5101.)
+(Pub. L. 93–406, title I, §502, Sept. 2, 1974, 88 Stat. 891; Pub. L. 96–364, title III, §306(b), Sept. 26, 1980, 94 Stat. 1295; Pub. L. 99–272, title X, §10002(b), Apr. 7, 1986, 100 Stat. 231; Pub. L. 100–203, title IX, §§9342(c), 9344, Dec. 22, 1987, 101 Stat. 1330–372, 1330–373; Pub. L. 101–239, title II, §2101(a), (b), title VII, §§7881(b)(5)(B), (j)(2), (3), 7891(a)(1), 7894(f)(1), Dec. 19, 1989, 103 Stat. 2123, 2438, 2442, 2445, 2450; Pub. L. 101–508, title XII, §12012(d)(2), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–66, title IV, §4301(c)(1)–(3), Aug. 10, 1993, 107 Stat. 376; Pub. L. 103–401, §§2, 3, Oct. 22, 1994, 108 Stat. 4172; Pub. L. 103–465, title VII, §761(a)(9)(B)(ii), Dec. 8, 1994, 108 Stat. 5033; Pub. L. 104–191, title I, §101(b), (e)(2), Aug. 21, 1996, 110 Stat. 1951, 1952; Pub. L. 104–204, title VI, §603(b)(3)(E), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(c)(2)(B), (d)(7), Aug. 5, 1997, 111 Stat. 1062; Pub. L. 107–204, title III, §306(b)(3), July 30, 2002, 116 Stat. 783; Pub. L. 108–218, title I, §§102(d), 103(b), 104(a)(2), Apr. 10, 2004, 118 Stat. 602, 603, 606; Pub. L. 109–280, title I, §103(b)(2), title II, §202(b), (c), title V, §§502(a)(2), (b)(2), 507(b), 508(a)(2)(C), title IX, §902(f)(2), Aug. 17, 2006, 120 Stat. 816, 884, 885, 940, 941, 949, 951, 1039; Pub. L. 110–233, title I, §101(e), May 21, 2008, 122 Stat. 886; Pub. L. 110–458, title I, §§101(c)(1)(H), 102(b)(1)(H), (I), Dec. 23, 2008, 122 Stat. 5097, 5101; Pub. L. 111–3, title III, §311(b)(1)(E), Feb. 4, 2009, 123 Stat. 70.)
 
 #### Amendment of Section
 
@@ -249,6 +253,10 @@ This chapter, referred to in subsec. (k), was in the original “this Act”, me
 Another section 306(b)(3) of Pub. L. 107–204 is classified to section 7244(b)(3) of Title 15, Commerce and Trade.
 
 #### Amendments
+
+2009—Subsec. (a)(6). Pub. L. 111–3, §311(b)(1)(E)(i), which directed the substitution of “(8), or (9)” for “or (8)”, could not be executed because the words “or (8)” did not appear after the amendment by Pub. L. 110–233, §101(e)(1). See 2008 Amendment note below.
+
+Subsec. (c)(9), (10). Pub. L. 111–3, §311(b)(1)(E)(ii), added par. (9) and redesignated former par. (9) as (10) relating to Secretarial enforcement authority relating to use of genetic information.
 
 2008—Subsec. (a)(6). Pub. L. 110–233, §101(e)(1), substituted “(7), (8), or (9)” for “(7), or (8)”.
 
@@ -346,6 +354,10 @@ Subsec. (i). Pub. L. 100–203, §9344, amended second sentence generally. Prior
 
 Subsec. (g). Pub. L. 96–364, §306(b)(2), redesignated existing provisions as par. (1), inserted exception for actions under paragraph (2), and added par. (2).
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of Title 42, The Public Health and Welfare.
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
@@ -430,7 +442,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280,set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 
@@ -446,9 +458,11 @@ For provisions directing that if any amendment made by section 306(b) of Pub. L.
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions setting forth circumstances under which any amendment to a plan required to be made byan amendment made by section 4301 of Pub. L. 103–66 shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 4301(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 1021 of this title.
+For provisions setting forth circumstances under which any amendment to a plan required to be made by an amendment made by section 4301 of Pub. L. 103–66 shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 4301(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 1021 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subtitle”.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Two pars. (10) have been enacted.</i>
 

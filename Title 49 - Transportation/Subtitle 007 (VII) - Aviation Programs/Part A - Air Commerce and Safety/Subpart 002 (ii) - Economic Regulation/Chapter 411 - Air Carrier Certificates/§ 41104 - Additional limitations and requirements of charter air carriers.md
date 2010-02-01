@@ -30,7 +30,7 @@ Exception.—This subsection does not apply to any airport in the State of Alask
 
 &emsp;(4)
 
-Waivers.—The Secretary may waive the application of paragraph (1)(B) in cases in which the Secretary determines that the public interest so requires.
+Waivers.—The Secretary may waive the application of paragraph (1)(B) in cases inwhich the Secretary determines that the public interest so requires.
 
 (c)
 
@@ -132,5 +132,5 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 Amendment by Pub. L. 106–528 effective 30 days after Nov. 22, 2000, see section 9 of Pub. L. 106–528, set out as a note under section 106 of this title.
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
 

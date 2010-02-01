@@ -52,7 +52,7 @@ Powers.—In carrying out the responsibilities of the Corporation transferred un
 
 &emsp;&emsp;(C) maintain any existing Corporation insurance programs;
 
-&emsp;&emsp;(D) make and perform transactions with an agency or instrumentality of the Federal Government, a State, the District of Columbia, or any person as necessary to carry out the responsibilities of the Corporation under subchapter III and the Federal Triangle Development Act (Public Law 100–113, 101 Stat. 735);
+&emsp;&emsp;(D) make and perform transactions with an agency or instrumentality of the FederalGovernment, a State, the District of Columbia, or any person as necessary to carry out the responsibilities of the Corporation under subchapter III and the Federal Triangle Development Act (Public Law 100–113, 101 Stat. 735);
 
 &emsp;&emsp;(E) request the Council of the District of Columbia to close any alleys necessary for the completion of development in Square 457; and
 
@@ -87,6 +87,10 @@ Jurisdiction of district of columbia.—Jurisdiction of Pennsylvania Avenue and 
 National Capital Planning Commission.—The National Capital Planning Commission is responsible for ensuring that development in the Pennsylvania Avenue area is carried out in accordance with the Pennsylvania Avenue Development Corporation Plan—1974.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1194.)
+
+#### Amendment Not Shown in Text
+
+<i>Subsection (c)(1) of this section was derived from section 313(d)(1) of title III of the Department of the Interior and Related Agencies Appropriations Act, 1996 (as enacted by section 101(c) of Pub. L. 104–134), set out as a note under section 872 of the former Appendix to this title, which was amended by Pub. L. 111–11, title VII, §7116(k)(1), Mar. 30, 2009, 123 Stat. 1203. For applicability of that amendment to this section, see section 5(b)(3) of Pub. L. 107–217, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 313(d)(1) of the Department of the Interior and Related Agencies Appropriations Act, 1996, as enacted by Pub. L. 104–134, was amended by substituting “map entitled ‘Pennsylvania Avenue National Historic Site’, dated August 25, 2008, and numbered 840–82441B” for “map entitled ‘Pennsylvania Avenue National Historic Park’, dated June 1, 1995, and numbered 840–82441”.</i>
 
 Historical and Revision Notes
 
@@ -131,4 +135,8 @@ Section 5 of the Act was classified to section 874 of former Title 40 prior to r
 The Federal Triangle Development Act, referred to in subsecs. (a)(1), (b)(1)(G), and (2)(D), is Pub. L. 100–113, Aug. 21, 1987, 101 Stat. 735, as amended, which was classified to chapter 22 (§1101 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal, omission, and reenactment as subchapter III of this chapter by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
 
 The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (b)(1)(F), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
+
+#### Change of Name
+
+Pub. L. 111–11, title VII, §7116(k)(2), Mar. 30, 2009, 123 Stat. 1204, provided that: “Any reference in a law, map,regulation, document, paper, or other record of the United States to the Pennsylvania Avenue National Historic Park shall be deemed to be a reference to the ‘Pennsylvania Avenue National Historic Site’.”
 

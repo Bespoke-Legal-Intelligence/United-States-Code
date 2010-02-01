@@ -142,7 +142,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (5) Other services
 
-&emsp;Congregate services programs assisted under this section may include services for transportation, personal care, dressing, bathing, toileting, housekeeping, chore assistance, nonmedical counseling, assessment of the safety of housing units, group and socialization activities, assistance with medications (in accordance with any applicable State law), case management, personal emergency response, and other services to prevent premature and unnecessary institutionalization of eligible project residents.
+&emsp;Congregate services programs assisted under this section may include services for transportation, personal care, dressing, bathing, toileting, housekeeping, chore assistance, nonmedical counseling, assessment of the safetyof housing units, group and socialization activities, assistance with medications (in accordance with any applicable State law), case management, personal emergency response, and other services to prevent premature and unnecessary institutionalization of eligible project residents.
 
 #### (6) Determination of needs
 
@@ -316,7 +316,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 #### (2) Effect of services
 
-&emsp;Except for wages paid under paragraph (1) of this subsection, services provided to a resident of an eligible housing project under a congregate services program under this section may not be considered as income for the purpose of determining eligibility for or the amount of assistance or aid furnished under any Federal, federally assisted, or State program based on need.
+&emsp;Except for wages paid under paragraph (1) of this subsection, services provided to a residentof an eligible housing project under a congregate services program under this section may not be considered as income for the purpose of determining eligibility for or the amount of assistance or aid furnished under any Federal, federally assisted, or State program based on need.
 
 #### (3) Eligibility and priority for 1978 Act recipients
 
@@ -342,7 +342,7 @@ For purposes of this section:
 
 &emsp;(6) The term “eligible housing project” means—
 
-&emsp;&emsp;(A) public housing (as such term is defined in section 3(b) of the United States HousingAct of 1937 \[42 U.S.C. 1437a(b)\]) and lower income housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority under title II <sup>9</sup> of the United States Housing Act of 1937;
+&emsp;&emsp;(A) public housing (as such term is defined in section 3(b) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\]) and lower income housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority under title II <sup>9</sup> of the United States Housing Act of 1937;
 
 &emsp;&emsp;(B) housing assisted under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] with a contract that is attached to the structure under subsection (d)(2) of such section or with a contract entered into in connection with the new construction or moderate rehabilitation of the structure under section 8(b)(2) of the United States Housing Act,<sup>9</sup> as such section existed before October 1, 1983;
 
@@ -444,7 +444,7 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (j)(1)(A), is act J
 
 The United States Housing Act of 1937, referred to in subsec. (k)(6)(A), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title II of the Act, which was classified generally to subchapter II (§1437aa et seq.) of chapter 8 of this title, was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short title note set out under section 1437 of this title and Tables.
 
-Section 8(b)(2) of the United States Housing Act, referred to in subsec. (k)(6)(B), probably means section8(b)(2) of the United States Housing Act of 1937, which was classified to section 1437f(b)(2) of this title and was repealed by Pub. L. 98–181, title II, §209(a)(2), Nov. 30, 1983, 97 Stat. 1183.
+Section 8(b)(2) of the United States Housing Act, referred to in subsec. (k)(6)(B), probably means section 8(b)(2) of the United States Housing Act of 1937, which was classified to section 1437f(b)(2) of this title and was repealed by Pub. L. 98–181, title II, §209(a)(2), Nov. 30, 1983, 97 Stat. 1183.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (k)(9), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
@@ -486,7 +486,7 @@ Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102�
 
 #### Effective Date
 
-This section was enacted as part of Pub. L. 101–625, which was approved Nov. 28, 1990. However, this section was deemed enacted as of Nov. 5, 1990, by Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1358, set out as an Effective Date of 1990 Amendment note under section 1701q of Title 12, Banks and Banking.
+This section was enacted as part of Pub. L. 101–625, which was approved Nov. 28, 1990. However, this sectionwas deemed enacted as of Nov. 5, 1990, by Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1358, set out as an Effective Date of 1990 Amendment note under section 1701q of Title 12, Banks and Banking.
 
 #### Regulations
 

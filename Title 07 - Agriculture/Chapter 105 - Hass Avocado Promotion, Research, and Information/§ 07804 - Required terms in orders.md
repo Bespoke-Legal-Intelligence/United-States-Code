@@ -154,11 +154,11 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (D) Submission to Secretary
 
-&emsp;&emsp;The order shall provide that the Board shall submit to the Secretary for approval a proposed plan or project for Hass avocados promotion, industry information, consumer information, or related research, as described in subparagraphs (A), (B), and (C).
+&emsp;&emsp;The order shall provide that the Board shall submit to the Secretary for approval a proposed plan or project for Hass avocados promotion, industry information, consumerinformation, or related research, as described in subparagraphs (A), (B), and (C).
 
 #### (3) Approval by Secretary
 
-&emsp;A budget, plan, or project for Hass avocados promotion, industry information, consumer information, or related research may not be implemented prior to approval of the budget, plan, or project by the Secretary. Not later than 45 days after receipt of such a budget, plan, or project, the Secretary shall notify the Board whether the Secretary approves or disapproves the budget, plan, or project. If the Secretary fails to provide such notice before the end of the 45-day period, the budget, plan,or project shall be deemed to be approved and may be implemented by the Board.
+&emsp;A budget, plan, or project for Hass avocados promotion, industry information, consumer information, or related research may not be implemented prior to approval of the budget, plan, or project by the Secretary. Not later than 45 days after receipt of such a budget, plan, or project, the Secretary shall notify the Board whether the Secretary approves or disapproves the budget, plan, or project. If the Secretary fails to provide such notice before the end of the 45-day period, the budget, plan, or project shall be deemed to be approved and may be implemented by the Board.
 
 #### (e) Contracts and agreements
 
@@ -240,11 +240,11 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (ii) Producer-handlers
 
-&emsp;&emsp;&emsp;For purposes of paragraph (3), a producer-handler shall be considered the first handler of those Hass avocados that are produced by that producer-handler and packed by that producer-handler for sale at wholesale or retail.
+&emsp;&emsp;&emsp;For purposes of paragraph (3), a producer-handler shall be considered the firsthandler of those Hass avocados that are produced by that producer-handler and packed by that producer-handler for sale at wholesale or retail.
 
 #### (iii) Importers
 
-&emsp;&emsp;&emsp;The assessment on imported Hass avocados shall be paid by the importer to Customs at the time of entry into the United States and shall be remitted by Customs to the Board. Importation occurs when Hass avocados originating outside the United States are released from custody ofCustoms and introduced into the stream of commerce within the United States. Importers include persons who hold title to foreign-produced Hass avocados immediately upon release by Customs, as well as any persons who act on behalf of others, as agents, brokers, or consignees, to secure the release of Hass avocados from Customs and the introduction of the released Hass avocados into the current of commerce.
+&emsp;&emsp;&emsp;The assessment on imported Hass avocados shall be paid by the importer to Customs at the time of entry into the United States and shall be remitted by Customs to the Board. Importation occurs when Hass avocados originating outside the United States are released from custody of Customs and introduced into the stream of commerce within the United States. Importers include persons who hold title to foreign-produced Hass avocados immediately upon release by Customs, as well as any persons who act on behalf of others, as agents, brokers, or consignees, to secure the release of Hass avocados from Customs and the introduction of the released Hass avocados into the current of commerce.
 
 #### (2) Assessment rates
 
@@ -310,7 +310,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (B) Credit
 
-&emsp;&emsp;An importers association described in subparagraph (A) shall receive 85 percent of the assessments paid on Hass avocados imported by the members of such association.
+&emsp;&emsp;An importers association described in subparagraph (A) shall receive 85 percent of theassessments paid on Hass avocados imported by the members of such association.
 
 #### (C) Use of funds
 
@@ -394,11 +394,11 @@ The Board may not engage in, and shall prohibit the employees and agents of the 
 
 #### (A) Review
 
-&emsp;&emsp;The order shall provide that the staff of the Board shall periodically review lists of importers of Hass avocados to determine whether persons on the lists are subject to the order.
+&emsp;&emsp;The order shall provide that the staff of the Board shall periodically review lists ofimporters of Hass avocados to determine whether persons on the lists are subject to the order.
 
-#### (B) Customs service
+#### (B) Customs Service
 
-&emsp;&emsp;On the request of the Secretary or the Board, the Commissioner of the UnitedStates Customs Service shall provide to the Secretary or the Board lists of importers of Hass avocados.
+&emsp;&emsp;On the request of the Secretary or the Board, the Commissioner of the United States Customs Service shall provide to the Secretary or the Board lists of importers of Hass avocados.
 
 #### (n) Consultations with industry experts
 

@@ -40,7 +40,7 @@ For purposes of subsection (a), the following property shall be considered to ha
 
 &emsp;&emsp;(C) property described in any other paragraph of this subsection.
 
-&emsp;(10) Property includible in the gross estate of the decedent under section 2044 (relating to certain property for which marital deduction was previously allowed). In any such case, the last 3 sentences of paragraph (9) shall apply as if such property were described in the first sentence of paragraph (9).
+&emsp;(10) Property includible in the gross estate of the decedent under section 2044 (relating to certain property for which marital deductionwas previously allowed). In any such case, the last 3 sentences of paragraph (9) shall apply as if such property were described in the first sentence of paragraph (9).
 
 #### (c) Property representing income in respect of a decedent
 
@@ -86,7 +86,7 @@ This section shall not apply with respect to decedents dying after December 31, 
 
 #### References in Text
 
-Section 811 of the Internal Revenue Code of 1939, referred to in subsecs. (a)(2) and (b)(6), (8), was classified to section 811 of former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
+Section 811 of the Internal Revenue Code of 1939, referred to in subsecs. (a)(2) and (b)(6), (8), was classified to section 811 of former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
 Chapter 3 of the Internal Revenue Code of 1939, referred to in subsec. (b)(7), was comprised of sections 800 to 951 of former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See also section 7851(a)(2)(A) of this title for applicability of chapter 3 of former title 26. See also section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 85–320 applicable with respect to taxable years ending af
 
 #### Repeals
 
-Pub. L. 94–455, §2005(a)(1), cited as a credit to this section, and the amendment made thereby, were repealed by Pub. L. 96–223, title IV, §401(a), 94 Stat. 299, resultingin the text of this section reading as it read prior to enactment of section 2005(a)(1). See Effective Date of 1980 Amendments and Revival of Prior Law note above.
+Pub. L. 94–455, §2005(a)(1), cited as a credit to this section, and the amendment made thereby, were repealed by Pub. L. 96–223, title IV, §401(a), 94 Stat. 299, resulting in the text of this section reading as it read prior to enactment of section 2005(a)(1). See Effective Date of 1980 Amendments and Revival of Prior Law note above.
 
 #### Election of Carryover Basis Rules by Certain Estates
 

@@ -50,7 +50,7 @@ In this section, with respect to a project under Cooperative Threat Reduction pr
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2004, and not as part of the Cooperative Threat Reduction Act of 1993 which comprises this chapter.
 
-#### Specification of Cooperative Threat Reduction Programs
+#### Definition of Cooperative Threat Reduction Programs for Purposes of Pub. L. 108–136
 
 Pub. L. 108–136, div. A, title XIII, §1301(a), Nov. 24, 2003, 117 Stat. 1657, provided that: “For purposes of section 301 \[117 Stat. 1426\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note).”
 

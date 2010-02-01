@@ -2,7 +2,7 @@
 
 (a)
 
-Authority to Participate.—Subject to the availability of appropriated funds to carry out this section, the Secretary concerned, when engaged or proposing to engage in an activity described in subsection (b) that may or will result in an adverse impact to one or more species protected (or pending protection) under any applicable provision of law, or habitat for such species, may make payments to a conservation banking program or “in-lieu-fee” mitigation sponsor approved in accordance with—
+Authority to Participate.—Subject to the availability of appropriated funds, the Secretary concerned, when engaged or proposing to engage in an activity described in subsection (b) that may or will result in an adverse impact to one or more species protected (or pending protection) under any applicable provision of law, or habitat for such species, may make payments to a conservation banking program or “in-lieu-fee” mitigation sponsor approved in accordance with—
 
 &emsp;(1) the Federal Guidance for the Establishment, Use and Operation of Mitigation Banks (60 Fed. Reg. 58605; November 28, 1995);
 
@@ -26,15 +26,35 @@ Treatment of Amounts for Conservation Banking.—Payments made under subsection 
 
 (d)
 
+Source of Funds.—Amounts available from any of the following shall be available for activities under this section:
+
+&emsp;(1) Operation and maintenance.
+
+&emsp;(2) Military construction.
+
+&emsp;(3) Research, development, test, and evaluation.
+
+&emsp;(4) The Support for United States Relocation to Guam Account established under section 2824 of the Military Construction Act for Fiscal Year 2009 <sup>1</sup> (division B of Public Law 110–417; 122 Stat. 4730; 10 U.S.C. 2687 note).
+
+(e)
+
 Secretary Concerned Defined.—In this section, the term “Secretary concerned” means—
 
 &emsp;(1) the Secretary of a military department; and
 
 &emsp;(2) the Secretary of Defense with respect to a Defense Agency.
 
-(Added Pub. L. 110–417, \[div. A\], title III, §311(a), Oct. 14, 2008, 122 Stat. 4408.)
+(Added Pub. L. 110–417, \[div. A\], title III, §311(a), Oct. 14, 2008, 122 Stat. 4408; amended Pub. L. 111–84, div. A, title III, §311, Oct. 28, 2009, 123 Stat. 2247.)
+
+#### Amendments
+
+2009—Subsec. (a). Pub. L. 111–84, §311(1), struck out “to carry out this section” after “appropriated funds” in introductory provisions.
+
+Subsecs. (d), (e). Pub. L. 111–84, §311(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 #### Effective Date
 
 Pub. L. 110–417, \[div. A\], title III, §311(c), Oct. 14, 2008, 122 Stat. 4409, provided that: “Section 2694c of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2008, and only funds appropriated for fiscal years beginning after September 30, 2008, may be used to carry out such section.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Military Construction Authorization Act for Fiscal Year 2009”.</i>
 

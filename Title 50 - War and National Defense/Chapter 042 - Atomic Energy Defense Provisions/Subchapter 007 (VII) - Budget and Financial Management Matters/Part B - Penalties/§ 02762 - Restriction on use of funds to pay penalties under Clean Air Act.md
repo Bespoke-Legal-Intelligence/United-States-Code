@@ -1,6 +1,6 @@
 ### §2762. Restriction on use of funds to pay penalties under Clean Air Act
 
-None of the funds authorized to be appropriated by the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 (Public Law 96–540) or any other Act may be used to pay any penalty, fine, forfeiture, or settlement resulting from a failure to comply with the Clean Air Act (42 U.S.C. 7401 et seq.) with respect to any defense activity of the Department of Energy if (1) the Secretary finds that compliance is physically impossible within the time prescribed for compliance, or (2) the President has specifically requested appropriations for compliance and the Congress has failed to appropriate funds for such purpose.
+None of the funds authorized to be appropriated by the Department of Energy NationalSecurity and Military Applications of Nuclear Energy Authorization Act of 1981 (Public Law 96–540) or any other Act may be used to pay any penalty, fine, forfeiture, or settlement resulting from a failure to comply with the Clean Air Act (42 U.S.C. 7401 et seq.) with respect to any defense activity of the Department of Energy if (1) the Secretary finds that compliance is physically impossible within the time prescribed for compliance, or (2) the President has specifically requested appropriations for compliance and the Congress has failed to appropriate funds for such purpose.
 
 (Pub. L. 107–314, div. D, title XLVII, §4722, formerly Pub. L. 96–540, title II, §211, Dec. 17, 1980, 94 Stat. 3203; renumbered Pub. L. 107–314, div. D, title XLVII, §4722, and amended Pub. L. 108–136, div. C, title XXXI, §3141(j)(5), Nov. 24, 2003, 117 Stat. 1781.)
 
@@ -22,5 +22,5 @@ Pub. L. 96–164, title II, §211, Dec. 29, 1979, 93 Stat. 1264.
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–136, §3141(j)(5)(C), made technical amendment to section catchline and substituted “the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 (Public Law 96–540) or any other Act” for “this or any other Act” in text.
+2003—Pub. L. 108–136, §3141(j)(5)(C), made technical amendment to section catchline and substituted “the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 (Public Law 96–540) or any other Act” for “this or any other Act” in text.
 

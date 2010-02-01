@@ -4,7 +4,7 @@ All licenses issued under this subchapter shall be on the following conditions:
 
 #### (a) Modification of plans; factors considered to secure adaptability of project; recommendations for proposed terms and conditions
 
-(1) That the project adopted, including the maps, plans, and specifications, shall be such as in the judgment of the Commission will be best adapted to a comprehensive plan for improving or developing a waterway or waterways for the use or benefit of interstate or foreign commerce, for the improvement and utilization of water-power development, for the adequate protection, mitigation, and enhancement of fish and wildlife (including related spawning grounds and habitat), and for other beneficial public uses, including irrigation, flood control, water supply, and recreational and other purposes referred to in section 797(e) of this title <sup>1</sup> if necessary in order to secure such plan the Commission shall have authority to require the modification of any project and of the plans and specifications of the project works before approval.
+(1) That the project adopted, including the maps, plans, and specifications, shall be such as in the judgment of the Commission will be best adapted to a comprehensive plan for improving or developing a waterway or waterways for the use or benefit of interstate or foreign commerce, for the improvement and utilization of water-power development, for the adequate protection, mitigation, and enhancement of fish and wildlife (including related spawning grounds and habitat), and for other beneficial public uses, including irrigation, flood control, water supply, and recreational and other purposes referred to insection 797(e) of this title <sup>1</sup> if necessary in order to secure such plan the Commission shall have authority to require the modification of any project and of the plans and specifications of the project works before approval.
 
 (2) In order to ensure that the project adopted will be best adapted to the comprehensive plan described in paragraph (1), the Commission shall consider each of the following:
 
@@ -30,7 +30,7 @@ That the licensee shall maintain the project works in a condition of repair adeq
 
 #### (d) Amortization reserves
 
-That after the first twenty years of operation, out of surplus earned thereafter, if any, accumulated in excess of a specified reasonable rate of return upon the net investment of a licensee in any project or projects under license, the licensee shall establish and maintain amortization reserves, which reserves shall, in the discretion of the Commission, be held until the termination of the license or be applied from time to time in reduction of the net investment. Such specified rate of return and the proportion of such surplus earnings to be paid into and held insuch reserves shall be set forth in the license. For any new license issued under section 808 of this title, the amortization reserves under this subsection shall be maintained on and after the effective date of such new license.
+That after the first twenty years of operation, out of surplus earned thereafter, if any, accumulated in excess of a specified reasonable rate of return upon the net investment of a licensee in any project or projects under license, the licensee shall establish and maintain amortization reserves, which reserves shall, in the discretion of the Commission, be held until the termination of the license or be applied from time to time in reduction of the net investment. Such specified rate of return and the proportion of such surplus earnings to be paid into and held in such reserves shall be set forth in the license. For any new license issued under section 808 of this title, the amortization reserves under this subsection shall be maintained on and after the effective date of such new license.
 
 #### (e) Annual charges payable by licensees; maximum rates; application; review and report to Congress
 
@@ -102,7 +102,7 @@ In issuing licenses for a minor part only of a complete project, or for a comple
 
 #### References in Text
 
-The Fish and Wildlife Coordination Act, referred to in subsec. (j)(1), is act Mar. 10, 1934, ch. 55, 48 Stat. 401,as amended, which is classified generally to sections 661 to 666c of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Fish and Wildlife Coordination Act, referred to in subsec. (j)(1), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 #### Amendments
 

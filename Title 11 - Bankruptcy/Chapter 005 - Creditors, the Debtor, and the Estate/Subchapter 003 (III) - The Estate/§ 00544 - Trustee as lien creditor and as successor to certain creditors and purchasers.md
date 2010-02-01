@@ -48,5 +48,5 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Construction of 1998 Amendment
 
-Pub. L. 105–183, §6, June 19, 1998, 112 Stat. 519, provided that: “Nothing in the amendments made by this Act \[amending this section and sections 546, 548, 707, and 1325 of this title\] is intended to limit the applicability of the Religious Freedom Restoration Act of 1993 (42 U.S.C. 2002bb \[2000bb\] et seq.).”
+Pub. L. 105–183, §6, June 19, 1998, 112 Stat. 519, provided that: “Nothing in the amendments made by thisAct \[amending this section and sections 546, 548, 707, and 1325 of this title\] is intended to limit the applicability of the Religious Freedom Restoration Act of 1993 (42 U.S.C. 2002bb \[2000bb\] et seq.).”
 

@@ -16,7 +16,7 @@
 
 &emsp;Subject to subsection (b) of this section and the consultation requirement of paragraph (1)—
 
-&emsp;&emsp;(A) section 233 of the Bank Enterprise Act of 1991 \[12 U.S.C. 1834a\] shall be applicable to the Administrator, for purposes of this section, in the same manner and to the sameextent that such section is applicable to the Community Enterprise Assessment Credit Board;
+&emsp;&emsp;(A) section 233 of the Bank Enterprise Act of 1991 \[12 U.S.C. 1834a\] shall be applicable to the Administrator, for purposes of this section, in the same manner and to the same extent that such section is applicable to the Community Enterprise Assessment Credit Board;
 
 &emsp;&emsp;(B) the Administrator shall, for purposes of carrying out this section and section 233 of the Bank Enterprise Act of 1991 \[12 U.S.C. 1834a\]—
 

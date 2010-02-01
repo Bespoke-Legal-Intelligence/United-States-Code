@@ -8,7 +8,7 @@ Such suit may be instituted against the party in interest as shown by the record
 
 #### Historical and Revision Notes
 
-The first paragraph and parts of the second paragraph are based on Title 35, U.S.C., 1946 ed., §63 (R.S. 4915, amended (1) Mar. 2, 1927, ch. 273, §11, 44 Stat. 1336, (2) Mar. 2, 1929, ch. 488, §2(b), 45 Stat. 1476, (3) Aug. 5, 1939,ch. 451, §4, 53 Stat. 1212), limited to interferences and making some changes. The action is not restricted to applicants, but a patentee may also bring the action. The time for bringing the action is made the same as for appeals.
+The first paragraph and parts of the second paragraph are based on Title 35, U.S.C., 1946 ed., §63 (R.S. 4915, amended (1) Mar. 2, 1927, ch. 273, §11, 44 Stat. 1336, (2) Mar. 2, 1929, ch. 488, §2(b), 45 Stat. 1476, (3) Aug. 5, 1939, ch. 451, §4, 53 Stat. 1212), limited to interferences and making some changes. The action is not restricted to applicants, but a patentee may also bring the action. The time for bringing the action is made the same as for appeals.
 
 In the second paragraph the first sentence is new and eliminates difficulties arising from unrecorded interests.
 

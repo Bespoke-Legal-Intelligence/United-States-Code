@@ -1,6 +1,6 @@
 ### §510. Delegation of authority
 
-The Attorney General may from time to time make such provisions as he considers appropriate authorizing the performance by any otherofficer, employee, or agency of the Department of Justice of any function of the Attorney General.
+The Attorney General may from time to time make such provisions as he considers appropriate authorizing the performance by any other officer, employee, or agency of the Department of Justice of any function of the Attorney General.
 
 (Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 612.)
 

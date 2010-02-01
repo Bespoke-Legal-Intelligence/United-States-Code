@@ -18,7 +18,7 @@ A determination under this subsection is a reasonable determination by the Attor
 
 #### (c) Effect of absence of order
 
-(1) In the absence of an order applied for under subsection (a)(2) of this section approving the installation and use of a pen register or trap and trace device authorized under this section, the installation and use of the pen register or trap and trace device, as the case may be, shall terminate at the earlier of—
+(1) In the absence of an order applied for under subsection (a)(2) of this section approving the installation and use of a pen register or trap and trace device authorized under this section, the installation and use of the pen register or trapand trace device, as the case may be, shall terminate at the earlier of—
 
 &emsp;(A) when the information sought is obtained;
 
@@ -26,15 +26,15 @@ A determination under this subsection is a reasonable determination by the Attor
 
 &emsp;(C) 7 days after the time of the authorization by the Attorney General.
 
-(2) In the event that an application for an order applied for under subsection (a)(2) of this section is denied, or in any other case where the installation and use of a pen register or trap and trace device under this section is terminated and no order under section 1842 of this title is issued approving the installation and use of the pen register or trap and trace device, as the case may be, no information obtained or evidence derived from the use of the pen register or trap and trace device, as the case may be, shall be received in evidence or otherwise disclosed in anytrial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired from the use of the pen register or trap and trace device, as the case may be, shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
+(2) In the event that an application for an order applied for under subsection (a)(2) of this section is denied, or in any other case where the installation and use of a pen register or trap and trace device under this section is terminated and no order under section 1842 of this title is issued approving the installation and use of the pen register or trap and trace device, as the case may be, no information obtained or evidence derived from the use of the pen register or trap and trace device, as the case may be, shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired from the use of the pen register or trap and trace device, as the case may be, shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
 
 (Pub. L. 95–511, title IV, §403, as added Pub. L. 105–272, title VI, §601(2), Oct. 20, 1998, 112 Stat. 2407; amended Pub. L. 107–56, title II, §214(b), Oct. 26, 2001, 115 Stat. 287; Pub. L. 110–261, title I, §108, July 10, 2008, 122 Stat. 2464.)
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (a)(2), (c)(1)(C). Pub. L. 110–261 substituted “7 days” for “48 hours”.
+2008—Subsecs. (a)(2), (c)(1)(C). Pub. L. 110–261 substituted “7 days” for “48 hours”.
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–56, §214(b)(1), substituted “foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “foreign intelligence information or information concerning international terrorism” in introductory provisions.
+2001—Subsec. (a). Pub. L. 107–56, §214(b)(1), substituted “foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “foreign intelligence information or information concerning international terrorism” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 107–56, §214(b)(2), substituted “foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “foreign intelligence information or information concerning international terrorism”.
 

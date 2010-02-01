@@ -2,7 +2,7 @@
 
 (a)
 
-Procedures for Transfer.—The Administrator of General Services shall prescribe procedures necessary to transfer to the Secretary ofthe Interior, without compensation, excess real property located within the reservation of any group, band, or tribe of Indians that is recognized as eligible for services by the Bureau of Indian Affairs.
+Procedures for Transfer.—The Administrator of General Services shall prescribe procedures necessary to transfer to the Secretary of the Interior, without compensation, excess real property located within the reservation of any group, band, or tribe of Indians that is recognized as eligible for services by the Bureau of Indian Affairs.
 
 (b)
 
@@ -14,7 +14,7 @@ In general.—Except as provided in paragraph (2), the Secretary shall hold exce
 
 &emsp;(2)
 
-Special requirement for oklahoma.—The Secretary shall hold excess real property that is located in Oklahoma and transferred under this section in trust for Oklahoma Indian tribes recognized by the Secretary if the real property—
+Special requirement for oklahoma.—The Secretary shall hold excess real propertythat is located in Oklahoma and transferred under this section in trust for Oklahoma Indian tribes recognized by the Secretary if the real property—
 
 &emsp;&emsp;(A) is located within boundaries of former reservations in Oklahoma, as defined by the Secretary, and was held in trust by the Federal Government for an Indian tribe when the Government acquired it; or
 

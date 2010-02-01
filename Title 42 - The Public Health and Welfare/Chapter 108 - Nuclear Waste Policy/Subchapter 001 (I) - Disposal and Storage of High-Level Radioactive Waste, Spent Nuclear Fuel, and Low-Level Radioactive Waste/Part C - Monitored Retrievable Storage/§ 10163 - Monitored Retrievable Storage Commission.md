@@ -30,7 +30,7 @@
 
 &emsp;(F) the ability of the Secretary to fulfill contractual commitments of the Department under this chapter to accept spent nuclear fuel for disposal; and
 
-&emsp;(G) economic factors, including the impact on the costs likely to be imposed on ratepayers of the Nation's electric utilities for temporary at-reactor storage of spent nuclear fuel prior to final disposal in a repository, as well as the costs likely to be imposed on ratepayers of the Nation's electric utilities in building and operating such a facility.
+&emsp;(G) economic factors, including the impact on the costs likely to be imposed on ratepayers of the Nation's electric utilities fortemporary at-reactor storage of spent nuclear fuel prior to final disposal in a repository, as well as the costs likely to be imposed on ratepayers of the Nation's electric utilities in building and operating such a facility.
 
 (3) The report under this subsection, together with the recommendation of the MRS Commission, shall be transmitted to Congress on November 1, 1989.
 
@@ -60,7 +60,7 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 #### Amendments
 
-1988—Subsec. (a)(3). Pub. L. 100–507 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The report under this subsection, together with therecommendation of the MRS Commission, shall be transmitted to Congress on June 1, 1989.”
+1988—Subsec. (a)(3). Pub. L. 100–507 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The report under this subsection, together with the recommendation of the MRS Commission, shall be transmitted to Congress on June 1, 1989.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

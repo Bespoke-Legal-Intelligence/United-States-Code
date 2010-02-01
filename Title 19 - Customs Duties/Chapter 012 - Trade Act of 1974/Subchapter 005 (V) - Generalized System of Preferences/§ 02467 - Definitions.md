@@ -44,7 +44,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(D) work which, by its nature or the circumstances in which it is carried out, is likely to harm the health, safety, or morals of children.
 
-> &emsp;The work referred to in subparagraph (D) shall be determined by the laws, regulations, orcompetent authority of the beneficiary developing country involved.
+> &emsp;The work referred to in subparagraph (D) shall be determined by the laws, regulations, or competent authority of the beneficiary developing country involved.
 
 (Pub. L. 93–618, title V, §507, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1926; amended Pub. L. 106–200, title IV, §412(b), May 18, 2000, 114 Stat. 298; Pub. L. 107–210, div. D, title XLI, §4102(b), Aug. 6, 2002, 116 Stat. 1041.)
 

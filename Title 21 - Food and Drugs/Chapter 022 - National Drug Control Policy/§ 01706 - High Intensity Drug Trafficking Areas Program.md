@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(C) take any other action authorized under section 1703 of this title to provide increased Federal assistance to those areas; and
 
-&emsp;&emsp;(D) coordinate activities under this section (specifically administrative, recordkeeping,and funds management activities) with State, local, and tribal officials.
+&emsp;&emsp;(D) coordinate activities under this section (specifically administrative, recordkeeping, and funds management activities) with State, local, and tribal officials.
 
 #### (c) Petitions for designation
 
@@ -134,7 +134,7 @@ As part of the documentation that supports the President's annual budget request
 
 #### (1) Initial report
 
-&emsp;Not later than 90 days after December 29, 2006, the Director shall, after consulting with the Executive Boards of each designated high intensity drug trafficking area, submit a report to Congress that describes, for each designated high intensity drug trafficking area—
+&emsp;Not later than 90 days after December 29, 2006, the Director shall, after consulting withthe Executive Boards of each designated high intensity drug trafficking area, submit a report to Congress that describes, for each designated high intensity drug trafficking area—
 
 &emsp;&emsp;(A) the specific purposes for the high intensity drug trafficking area;
 
@@ -184,7 +184,7 @@ Not later than 180 days after December 29, 2006, and as part of each subsequent 
 
 &emsp;(1) evaluating existing and planned law enforcement intelligence systems supported by each high intensity drug trafficking area, or utilized by task forces receiving any funding under the Program, including the extent to which such systems ensure access and availability of law enforcement intelligence to Federal, State, local, and tribal law enforcement agencies within the high intensity drug trafficking area and outside of it;
 
-&emsp;(2) the extent to which Federal, State, local, and tribal law enforcement agencies participating in each high intensity drug trafficking area are sharing law enforcement intelligenceinformation to assess current drug trafficking threats and design appropriate enforcement strategies; and
+&emsp;(2) the extent to which Federal, State, local, and tribal law enforcement agencies participating in each high intensity drug trafficking area are sharing law enforcement intelligence information to assess current drug trafficking threats and design appropriate enforcement strategies; and
 
 &emsp;(3) the measures needed to improve effective sharing of information and law enforcement intelligence regarding drug trafficking and drug production among Federal, State, local, and tribal law enforcement participating in a high intensity drug trafficking area, and between such agencies and similar agencies outside the high intensity drug trafficking area.
 

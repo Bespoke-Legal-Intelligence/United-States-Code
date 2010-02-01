@@ -52,7 +52,7 @@ Subsec. (b). Pub. L. 107–273, §13207(b)(11), substituted “section 220506 of
 
 1999—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title III, §3003(a)(2)\], inserted “, (c), or (d)” after “section 1125(a)” in first sentence.
 
-Pub. L. 106–43 substituted “a violation under section 1125(a) of this title, or a willful violation under section 1125(c) of this title,” for “or a violation under section 1125(a) of this title,” in first sentence.
+Pub. L. 106–43 substituted “a violation under section 1125(a) of this title, or a willful violation under section1125(c) of this title,” for “or a violation under section 1125(a) of this title,” in first sentence.
 
 Subsec. (d). Pub. L. 106–113, §1000(a)(9) \[title III, §3003(b)\], added subsec. (d).
 
@@ -106,5 +106,5 @@ Discretion of Courts in Determining Terms of Imprisonment.—Nothing in this tit
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certainexceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 

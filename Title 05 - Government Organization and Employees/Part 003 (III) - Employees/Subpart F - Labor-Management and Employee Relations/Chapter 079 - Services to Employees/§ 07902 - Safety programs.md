@@ -68,7 +68,7 @@ Ex. Ord. No. 10990, Feb. 5, 1962, 27 F.R. 1065, which provided for the establish
 
 #### Executive Order No. 11612
 
-Ex. Ord. No. 11612, July 26, 1971, 36 F.R. 13891, which related to occupational safety and health programs forfederal employees, was superseded by Ex. Ord. 11807, Sept. 28, 1974, 39 F.R. 35559, formerly set out below.
+Ex. Ord. No. 11612, July 26, 1971, 36 F.R. 13891, which related to occupational safety and health programs for federal employees, was superseded by Ex. Ord. 11807, Sept. 28, 1974, 39 F.R. 35559, formerly set out below.
 
 #### Executive Order No. 11807
 
@@ -104,7 +104,7 @@ Heads of Agencies
 
 (e) Assure prompt abatement of unsafe or unhealthy working conditions. Whenever an agency cannot promptly abate such conditions, it shall develop an abatement plan setting forth a timetable for abatement and a summary of interim steps to protect employees. Employees exposed to the conditions shall be informed of the provisions of the plan. When a hazard cannot be abated without assistance of the General Services Administration or other Federal lessor agency, an agency shall act with the lessor agency to secure abatement.
 
-(f) Establish procedures to assure that no employee is subject to restraint, interference, coercion, discrimination or reprisal for filing a report of an unsafe or unhealthy working condition, or other participation in agency occupational safety and health program activities.
+(f) Establish procedures to assure that no employee is subject to restraint, interference, coercion, discrimination or reprisal for filing a report of an unsafe or unhealthy working condition, or other participation inagency occupational safety and health program activities.
 
 (g) Assure that periodic inspections of all agency workplaces are performed by personnel with equipment and competence to recognize hazards.
 
@@ -144,7 +144,7 @@ Department of Labor
 
 (b) Maintain liaison with the Office of Management and Budget in matters relating to this order and coordinate the activities of the Department with those of other agencies that have responsibilities or functions related to Federal employee safety and health, including the Office of Personnel Management, the Department of Health and Human Services, and the General Services Administration.
 
-(c) Issue, subject to the approval of the Director of the Office of Management and Budget, and in consultation with the Federal Advisory Council on Occupational Safety and Health, a set of basic program elements. The program elements shall help agency heads establish occupational safety and health committees and operate effective occupational safety and health programs, and shall provide flexibility to each agency head to implement a program consistent with its mission, size and organization. Upon request of an agency head, and after consultation with the Federal AdvisoryCouncil on Occupational Safety and Health, the Secretary may approve alternate program elements.
+(c) Issue, subject to the approval of the Director of the Office of Management and Budget, and in consultation with the Federal Advisory Council on Occupational Safety and Health, a set of basic program elements. The program elements shall help agency heads establish occupational safety and health committees and operate effective occupational safety and health programs, and shall provide flexibility to each agency head to implement a program consistent with its mission, size and organization. Upon request of an agency head, and after consultation with the Federal Advisory Council on Occupational Safety and Health, the Secretary may approve alternate program elements.
 
 (d) Prescribe recordkeeping and reporting requirements.
 
@@ -210,7 +210,7 @@ Term of the Federal Advisory Council on Occupational Safety and Health extended 
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Dec. 31, 1980, by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Dec. 31, 1982,by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Dec. 31, 1982, by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
@@ -238,5 +238,7 @@ Term of the Federal Advisory Council on Occupational Safety and Health extended 
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 

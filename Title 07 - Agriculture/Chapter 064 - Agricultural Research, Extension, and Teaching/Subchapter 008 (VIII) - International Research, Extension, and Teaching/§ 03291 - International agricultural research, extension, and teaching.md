@@ -10,7 +10,7 @@ To carry out the policy of this subchapter, the Secretary (in consultation with 
 
 &emsp;&emsp;(B) conducting with the institutions or persons joint or coordinated research, extension, and teaching activities that address problems of significance to food and agriculture in the United States; and
 
-&emsp;&emsp;(C) giving priority to those institutions with existing memoranda of understanding, agreements, or other formal ties to UnitedStates institutions, or Federal or State agencies;
+&emsp;&emsp;(C) giving priority to those institutions with existing memoranda of understanding, agreements, or other formal ties to United States institutions, or Federal or State agencies;
 
 &emsp;(2) enter into cooperative arrangements with Departments and Ministries of Agriculture in other nations to conduct research, extension, and teaching activities in support of the development of a viable and sustainable global agricultural system, including efforts to establish a global system for plant genetic resources conservation;
 
@@ -52,7 +52,7 @@ To carry out the policy of this subchapter, the Secretary (in consultation with 
 
 &emsp;&emsp;(D) encourage private sector involvement and the leveraging of private sector funds;
 
-&emsp;(10) establish a program, to be coordinated by the Cooperative State Research, Education, and Extension Service and the Foreign Agricultural Service, to place interns from United States colleges and universities at Foreign Agricultural Service field offices overseas; and
+&emsp;(10) establish a program, to be coordinated by the National Institute of Food and Agriculture and the Foreign Agricultural Service, to place interns from United States colleges and universities at Foreign Agricultural Service field offices overseas; and
 
 &emsp;(11) establish a program for the purpose of providing fellowships to United States or foreign students to study at foreign agricultural colleges and universities working under agreements provided for under paragraph (3).
 
@@ -66,7 +66,7 @@ The Secretary may provide specialized or technical services, on an advance of fu
 
 #### (d) Reports
 
-The Secretary shall provide biennial reports to the Committee on Agriculture of the House ofRepresentatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on efforts of the Federal Government—
+The Secretary shall provide biennial reports to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on efforts of the Federal Government—
 
 &emsp;(1) to coordinate international agricultural research within the Federal Government; and
 
@@ -77,10 +77,6 @@ The Secretary shall provide biennial reports to the Committee on Agriculture of 
 Notwithstanding any other provision of law, the full amount of any funds appropriated or otherwise made available to carry out cooperative projects under the arrangement entered into between the Secretary and the Government of Israel to support the Israel-United States Binational Agricultural Research and Development Fund shall be paid directly to the Fund.
 
 (Pub. L. 95–113, title XIV, §1458, Sept. 29, 1977, 91 Stat. 1015; Pub. L. 97–98, title XIV, §1436, Dec. 22, 1981, 95 Stat. 1313; Pub. L. 99–198, title XIV, §1418, Dec. 23, 1985, 99 Stat. 1550; Pub. L. 101–624, title XVI, §1613(a), (b), (d)(1), Nov. 28, 1990, 104 Stat. 3724, 3726; Pub. L. 102–237, title IV, §402(11), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §816, Apr. 4, 1996, 110 Stat. 1167; Pub. L. 105–185, title II, §227(a)–(d), June 23, 1998, 112 Stat. 543–545; Pub. L. 107–171, title VII, §7209(c), May 13, 2002, 116 Stat. 445; Pub. L. 110–234, title VII, §§7130, 7511(c)(10)(B), May 22, 2008, 122 Stat. 1227, 1268; Pub. L. 110–246, §4(a), title VII, §§7130, 7511(c)(10)(B), June 18, 2008, 122 Stat. 1664, 1988, 2029.)
-
-#### Amendment of Subsection (a)(10)
-
-<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2029, provided that, effective Oct. 1, 2009, subsection (a)(10) of this section is amended by substituting “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service”.</i>
 
 #### Codification
 
@@ -95,6 +91,8 @@ Subsec. (a)(3). Pub. L. 110–246, §7130(2), added par. (3) and struck out form
 Subsec. (a)(7)(A). Pub. L. 110–246, §7130(3), substituted “, land-grant colleges and universities, and Hispanic-serving agricultural colleges and universities” for “and land-grant colleges and universities”.
 
 Subsec. (a)(9)(A). Pub. L. 110–246, §7130(4)(A), substituted “, Hispanic-serving agricultural colleges and universities, or other colleges and universities” for “or other colleges and universities”.
+
+Subsec. (a)(10). Pub. L. 110–246, §7511(c)(10)(B), substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.
 
 Subsec. (a)(11). Pub. L. 110–246, §7130(4)(B)–(6), added par. (11).
 

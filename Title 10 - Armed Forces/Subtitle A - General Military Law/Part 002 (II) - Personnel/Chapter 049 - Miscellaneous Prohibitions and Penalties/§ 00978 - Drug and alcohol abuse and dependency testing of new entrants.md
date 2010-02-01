@@ -56,7 +56,7 @@ The word “regulations” is added for consistency. The word “persons” is o
 
 1990—Subsec. (c)(3). Pub. L. 101–510 struck out “a” before “whose enlistment”.
 
-1989—Subsec. (a)(1). Pub. L. 101–189, §513(a)(2), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in paragraph (2), the Secretary concerned shall require each member of the armed forces under the Secretary's jurisdiction, within 72 hours after the member's initial entry on active duty after enlistment or appointment, to—
+1989—Subsec. (a)(1). Pub. L. 101–189, §513(a)(2), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in paragraph (2), the Secretary concerned shall require each member of the armed forces under the Secretary's jurisdiction, within72 hours after the member's initial entry on active duty after enlistment or appointment, to—
 
 &emsp;“(A) undergo testing (by practicable, scientifically supported means) for drug and alcohol use; and
 

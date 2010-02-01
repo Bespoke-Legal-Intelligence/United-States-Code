@@ -10,7 +10,7 @@ In the case of any personnel action affecting employees or applicants for employ
 
 #### (c) Bona fide executives or high policymakers
 
-(1) Nothing in this chapter shall be construed to prohibit compulsory retirement of any employee who has attained 65 years of age and who, for the 2-year period immediately before retirement, is employed in a bona fide executive or a high policymaking position, if such employee is entitled to an immediate nonforfeitable annual retirement benefit from a pension, profit-sharing, savings, or deferred compensation plan, or any combination of such plans, of the employer of such employee, which equals, in the aggregate, at least $44,000.
+(1) Nothing in this chapter shall be construed to prohibit compulsory retirement of any employee who has attained 65 years of age and who, for the 2-year period immediately before retirement, is employed in a bona fide executive or a high policymaking position, if such employee is entitled to an immediate nonforfeitable annual retirement benefit from a pension, profit-sharing, savings, or deferred compensation plan, or any combination of such plans, of the employerof such employee, which equals, in the aggregate, at least $44,000.
 
 (2) In applying the retirement benefit test of paragraph (1) of this subsection, if any such retirement benefit is in a form other than a straight life annuity (with no ancillary benefits), or if employees contribute to any such plan or make rollover contributions, such benefit shall be adjusted in accordance with regulations prescribed by the Equal Employment Opportunity Commission, after consultation with the Secretary of the Treasury, so that the benefit is the equivalent of a straight life annuity (with no ancillary benefits) under a plan to which employees do not contribute and under which no rollover contributions are made.
 
@@ -60,5 +60,5 @@ Section 3(b) of Pub. L. 95–256 provided that:
 
 #### Transfer of Functions
 
-“Equal Employment Opportunity Commission” substituted for “Secretary”, meaning Secretary of Labor,in subsec. (c)(2) pursuant to Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Secretary of Labor to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+“Equal Employment Opportunity Commission” substituted for “Secretary”, meaning Secretary of Labor, in subsec. (c)(2) pursuant to Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Secretary of Labor to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 

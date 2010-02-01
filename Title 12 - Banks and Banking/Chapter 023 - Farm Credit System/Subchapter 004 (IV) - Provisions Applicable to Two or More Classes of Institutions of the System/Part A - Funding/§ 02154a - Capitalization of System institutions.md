@@ -24,7 +24,7 @@ As used in this section:
 
 #### (2) Stock
 
-&emsp;The term “stock” means voting and nonvoting stock (including preferred stock), equivalent contributions to a guaranty fund, participation certificates, allocated equities, and other forms and types of equities.
+&emsp;The term “stock” means voting and nonvoting stock (including preferred stock),equivalent contributions to a guaranty fund, participation certificates, allocated equities, and other forms and types of equities.
 
 #### (b) Adoption of bylaws
 
@@ -104,7 +104,7 @@ The Farm Credit Administration may issue a directive that requires compliance wi
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B) and notwithstanding any other provision of this section,if a loan designated for sale under paragraph (1)(A) is not sold into a secondary market during the 180-day period that begins on the date of the designation, the voting stock or participation certificate purchase requirement that would otherwise apply to the loan in the absence of a bylaw provision described in paragraph (1)(A) shall be effective.
+&emsp;&emsp;Subject to subparagraph (B) and notwithstanding any other provision of this section, if a loan designated for sale under paragraph (1)(A) is not sold into a secondary market during the 180-day period that begins on the date of the designation, the voting stock or participation certificate purchase requirement that would otherwise apply to the loan in the absence of a bylaw provision described in paragraph (1)(A) shall be effective.
 
 #### (B) Retirement
 

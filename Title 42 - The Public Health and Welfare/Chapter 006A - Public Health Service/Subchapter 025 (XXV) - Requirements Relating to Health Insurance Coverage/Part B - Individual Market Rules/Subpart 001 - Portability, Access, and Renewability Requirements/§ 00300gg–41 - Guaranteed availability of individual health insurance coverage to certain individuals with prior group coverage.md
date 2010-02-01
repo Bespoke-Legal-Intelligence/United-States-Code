@@ -42,7 +42,7 @@ In this part, the term “eligible individual” means an individual—
 
 #### (2) Choice of most popular policy forms
 
-&emsp;The requirement of this paragraph is met, for health insurance coverage policy forms offered by an issuer in the individual market, if the issuer offers the policy forms for individual health insurance coverage with the largest, and next to largest, premium volume of all such policy forms offered by the issuer in the State or applicable marketing or service area (as may be prescribed in regulation) by the issuer in the individual market in the period involved.
+&emsp;The requirement of this paragraph is met, for health insurance coverage policy forms offered by an issuer in the individual market, if the issuer offers the policy forms for individual health insurance coverage with the largest, and next to largest, premium volume of all such policy forms offered by the issuer in the State or applicable marketing or service area (as may be prescribed in regulation) bythe issuer in the individual market in the period involved.
 
 #### (3) Choice of 2 policy forms with representative coverage
 

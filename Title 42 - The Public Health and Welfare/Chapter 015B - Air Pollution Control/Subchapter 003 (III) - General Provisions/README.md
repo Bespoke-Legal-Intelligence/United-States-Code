@@ -14,7 +14,7 @@ Section 1857h–4, act July 14, 1955, ch. 360, title III, §306, as added Dec. 3
 
 Section 1857h–5, act July 14, 1955, ch. 360, title III, §307, as added Dec. 31, 1970, Pub. L. 91–604, §12(a), 84 Stat. 1707; amended Nov. 18, 1971, Pub. L. 92–157, title III, §302(a), 85 Stat. 464; June 22, 1974, Pub. L. 93–319, §6(c), 88 Stat. 259, which related to administrative proceedings and judicial review, was transferred to section 7607 of this title.
 
-Section 1857h–6, act July 4, 1955, ch. 360, title III, §308, as added Dec. 31, 1970, Pub. L. 91–604, §12(a), 84 Stat.1708, which related to mandatory licensing, was transferred to section 7608 of this title.
+Section 1857h–6, act July 4, 1955, ch. 360, title III, §308, as added Dec. 31, 1970, Pub. L. 91–604, §12(a), 84 Stat. 1708, which related to mandatory licensing, was transferred to section 7608 of this title.
 
 Section 1857h–7, act July 14, 1955, ch. 360, title III, §309, as added Dec. 31, 1970, Pub. L. 91–604, §12(a), 84 Stat. 1709, which related to policy review, was transferred to section 7609 of this title.
 

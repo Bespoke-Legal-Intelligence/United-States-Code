@@ -24,7 +24,7 @@ In this subchapter:
 
 &emsp;The term “community wildfire protection plan” means a plan for an at-risk community that—
 
-&emsp;&emsp;(A) is developed within the context of the collaborative agreements and the guidance established by the Wildland Fire Leadership Council and agreed to by the applicable localgovernment, local fire department, and State agency responsible for forest management, in consultation with interested parties and the Federal land management agencies managing land in the vicinity of the at-risk community;
+&emsp;&emsp;(A) is developed within the context of the collaborative agreements and the guidance established by the Wildland Fire Leadership Council and agreed to by the applicable local government, local fire department, and State agency responsible for forest management, in consultation with interested parties and the Federal land management agencies managing land in the vicinity of the at-risk community;
 
 &emsp;&emsp;(B) identifies and prioritizes areas for hazardous fuel reduction treatments and recommends the types and methods of treatment on Federal and non-Federal land that will protect 1 or more at-risk communities and essential infrastructure; and
 
@@ -124,7 +124,7 @@ In this subchapter:
 
 &emsp;The term “Secretary” means—
 
-&emsp;&emsp;(A) the Secretary of Agriculture, with respect to land of the National Forest Systemdescribed in section 6502(1)(A) of this title; and
+&emsp;&emsp;(A) the Secretary of Agriculture, with respect to land of the National Forest System described in section 6502(1)(A) of this title; and
 
 &emsp;&emsp;(B) the Secretary of the Interior, with respect to public lands described in section 6502(1)(B) of this title.
 
@@ -164,5 +164,5 @@ In this subchapter:
 
 The Department of the Interior and Related Agencies Appropriations Act, 2001, referred to in pars. (1)(A)(i) and (11), is Pub. L. 106–291, Oct. 11, 2000, 114 Stat. 922. Title IV of the act is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-The Endangered Species Act of 1973, referred to in par. (15), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in par. (15), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35\(§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 

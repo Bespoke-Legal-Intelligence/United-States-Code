@@ -38,7 +38,7 @@ A Hispanic-serving institution, in the institution's application for a grant, sh
 
 &emsp;&emsp;(A) a description of the various components of the proposed project, including the estimated time required to complete each such component;
 
-&emsp;&emsp;(B) in the case of any development project that consists of several components (as described by the institution pursuant to subparagraph (A)), a statement identifying those components which, if separately funded, would be sound investments of Federal funds and those components which would be sound investments of Federal funds only if funded under this subchapter in conjunctionwith other parts of the development project (as specified by the institution);
+&emsp;&emsp;(B) in the case of any development project that consists of several components (as described by the institution pursuant to subparagraph (A)), a statement identifying those components which, if separately funded, would be sound investments of Federal funds and those components which would be sound investments of Federal funds only if funded under this subchapter in conjunction with other parts of the development project (as specified by the institution);
 
 &emsp;&emsp;(C) an evaluation by the institution of the priority given any proposed project for which funds are sought in relation to any other projects for which funds are sought by the institution under this subchapter, and a similar evaluation regarding priorities among the components of any single proposed project (as described by the institution pursuant to subparagraph (A));
 
@@ -46,7 +46,7 @@ A Hispanic-serving institution, in the institution's application for a grant, sh
 
 &emsp;&emsp;(E) a detailed description of any activity which involves the expenditure of more than $25,000, as identified in the budget referred to in subparagraph (D);
 
-&emsp;(8) provide for making reports, in such form and containing such information, as the Secretary may require to carry out the Secretary's functions under this subchapter, including not less than one report annually setting forth the institution's progress toward achieving the objectives for which the funds were awarded and for keeping such records and affording such access to such records, as the Secretary may find necessary to assure the correctness and verification of such reports; and
+&emsp;(8) provide for making reports, in such form and containing such information, as the Secretary may require to carry out the Secretary's functions under this subchapter, including not less than one report annually setting forth the institution's progress toward achieving the objectives for which the funds were awarded and for keeping such records and affording such access to such records, as the Secretary may find necessary to assure thecorrectness and verification of such reports; and
 
 &emsp;(9) include such other information as the Secretary may prescribe.
 

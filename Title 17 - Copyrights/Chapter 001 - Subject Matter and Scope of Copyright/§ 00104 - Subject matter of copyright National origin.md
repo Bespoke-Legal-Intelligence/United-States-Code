@@ -46,13 +46,13 @@ Section 104 of the bill \[this section\], which sets forth the basic criteria un
 
 &emsp;(4) The work is covered by a Presidential proclamation extending protection to works originating in a specified country which extends protection to U.S. works “on substantially the same basis” as to its own works.
 
-The third of these conditions represents a treaty obligation of the United States. Under the Second Protocol of the Universal Copyright Convention, protection under U.S. Copyright law is expressly required for works published by the United Nations, by U.N. specialized agencies and by the Organization of American States.
+The third of these conditions represents a treaty obligation of the United States. Under the Second Protocolof the Universal Copyright Convention, protection under U.S. Copyright law is expressly required for works published by the United Nations, by U.N. specialized agencies and by the Organization of American States.
 
 #### Amendments
 
 1998—Subsec. (b). Pub. L. 105–304, §102(b)(1)(G), inserted concluding provisions.
 
-Subsec. (b)(1). Pub. L. 105–304, §102(b)(1)(A), substituted “treaty party” for “foreign nation that is aparty to a copyright treaty to which the United States is also a party”.
+Subsec. (b)(1). Pub. L. 105–304, §102(b)(1)(A), substituted “treaty party” for “foreign nation that is a party to a copyright treaty to which the United States is also a party”.
 
 Subsec. (b)(2). Pub. L. 105–304, §102(b)(1)(B), substituted “treaty party” for “party to the Universal Copyright Convention”.
 

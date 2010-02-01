@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-Until September 30, 2009 <sup>1</sup> and subject to subsection (d), the Secretary may carry out a pilot program under which the Secretary may exercise the following authorities:
+Until September 30, 2010, and subject to subsection (d), the Secretary may carry out a pilot program under which the Secretary may exercise the following authorities:
 
 #### (1) In general
 
@@ -10,7 +10,7 @@ Until September 30, 2009 <sup>1</sup> and subject to subsection (d), the Secret
 
 #### (2) Prototype projects
 
-&emsp;The Secretary may, under the authority of paragraph (1), carry out prototype projects in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160). In applying the authorities of that section 845, subsection (c) of that section shall apply with respect to prototype projects under this paragraph, and the Secretary shall perform the functions of the Secretary of Defense under subsection (d) thereof.
+&emsp;The Secretary may, under the authority of paragraph (1), carry out prototype projects in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160). In applying the authorities of that section 845, subsection (c) of that section shall apply with respect to prototypeprojects under this paragraph, and the Secretary shall perform the functions of the Secretary of Defense under subsection (d) thereof.
 
 #### (b) Report
 
@@ -32,7 +32,7 @@ The Secretary may—
 
 #### (1) In general
 
-&emsp;The authority of the Secretary under this section shall terminate September 30, 2009, unless before that date the Secretary—
+&emsp;The authority of the Secretary under this section shall terminate September 30, 2010, unless before that date the Secretary—
 
 &emsp;&emsp;(A) issues policy guidance detailing the appropriate use of that authority; and
 
@@ -46,7 +46,7 @@ The Secretary may—
 
 In this section, the term “nontraditional Government contractor” has the same meaning as the term “nontraditional defense contractor” as defined in section 845(e) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
 
-(Pub. L. 107–296, title VIII, §831, Nov. 25, 2002, 116 Stat. 2224; Pub. L. 110–161, div. E, title V, §572, Dec. 26, 2007, 121 Stat. 2093; Pub. L. 110–329, div. D, title V, §537, Sept. 30, 2008, 122 Stat. 3687.)
+(Pub. L. 107–296, title VIII, §831, Nov. 25, 2002, 116 Stat. 2224; Pub. L. 110–161, div. E, title V, §572, Dec. 26, 2007, 121 Stat. 2093; Pub. L. 110–329, div. D, title V, §537, Sept. 30, 2008, 122 Stat. 3687; Pub. L. 111–83, title V, §531, Oct. 28, 2009, 123 Stat. 2174.)
 
 #### References in Text
 
@@ -55,6 +55,10 @@ Section 845 of the National Defense Authorization Act for Fiscal Year 1994, refe
 The effective date of this chapter, referred to in subsec. (b), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–83, §531(1), substituted “September 30, 2010,” for “September 30, 2009” in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 111–83, §531(2), substituted “September 30, 2010,” for “September 30, 2009,” in introductory provisions.
 
 2008—Subsec. (a). Pub. L. 110–329, §537(1), substituted “Until September 30, 2009 and subject to subsection (d),” for “Until September 30, 2008,” in introductory provisions.
 
@@ -67,6 +71,4 @@ Subsecs. (d), (e). Pub. L. 110–329, §537(2), (3), added subsec. (d) and redes
 Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

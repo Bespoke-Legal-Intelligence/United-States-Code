@@ -2,7 +2,7 @@
 
 #### (a) Delegation of easement administration
 
-The Secretary may delegate any of the easement management, monitoring, and enforcement responsibilities of the Secretary to Federal or State agencies that have the appropriateauthority, expertise, and resources necessary to carry out such delegated responsibilities.
+The Secretary may delegate any of the easement management, monitoring, and enforcement responsibilities of the Secretary to Federal or State agencies that have the appropriate authority, expertise, and resources necessary to carry out such delegated responsibilities.
 
 #### (b) Regulations
 

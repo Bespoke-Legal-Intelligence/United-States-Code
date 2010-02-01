@@ -16,7 +16,7 @@ Each State desiring to administer its own permit program for disposal of sewage 
 
 #### (1) Regulations
 
-&emsp;The Administrator, after consultation with appropriate Federal and State agencies andother interested persons, shall develop and publish, within one year after December 27, 1977, and from time to time thereafter, regulations providing guidelines for the disposal of sludge and the utilization of sludge for various purposes. Such regulations shall—
+&emsp;The Administrator, after consultation with appropriate Federal and State agencies and other interested persons, shall develop and publish, within one year after December 27, 1977, and from time to time thereafter, regulations providing guidelines for the disposal of sludge and the utilization of sludge for various purposes. Such regulations shall—
 
 &emsp;&emsp;(A) identify uses for sludge, including disposal;
 
@@ -70,13 +70,13 @@ Each State desiring to administer its own permit program for disposal of sewage 
 
 #### (e) Manner of sludge disposal
 
-The determination of the manner of disposal or use of sludge is a local determination, except that it shall be unlawful for any person to dispose of sludge from a publicly owned treatment works or any other treatment works treating domestic sewage for any use for which regulations have been established pursuant to subsection (d) of this section, except in accordance with such regulations.
+The determination of the manner of disposal or use of sludge is a local determination, exceptthat it shall be unlawful for any person to dispose of sludge from a publicly owned treatment works or any other treatment works treating domestic sewage for any use for which regulations have been established pursuant to subsection (d) of this section, except in accordance with such regulations.
 
 #### (f) Implementation of regulations
 
 #### (1) Through section 1342 permits
 
-&emsp;Any permit issued under section 1342 of this title to a publicly owned treatment works or any other treatment works treating domestic sewage shall include requirements for the use and disposal of sludge that implement the regulations established pursuant to subsection (d)of this section, unless such requirements have been included in a permit issued under the appropriate provisions of subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\], part C of the Safe Drinking Water Act \[42 U.S.C. 300h et seq.\], the Marine Protection, Research, and Sanctuaries Act of 1972 \[16 U.S.C. 1431 et seq., 1447 et seq.; 33 U.S.C. 1401 et seq., 2801 et seq.\], or the Clean Air Act \[42 U.S.C. 7401 et seq.\], or under State permit programs approved by the Administrator, where the Administrator determines that such programs assure compliance with any applicable requirements of this section. Not later than December 15, 1986, the Administrator shall promulgate procedures for approval of State programs pursuant to this paragraph.
+&emsp;Any permit issued under section 1342 of this title to a publicly owned treatment works or any other treatment works treating domestic sewage shall include requirements for the use and disposal of sludge that implement the regulations established pursuant to subsection (d) of this section, unless such requirements have been included in a permit issued under the appropriate provisions of subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\], part C of the Safe Drinking Water Act \[42 U.S.C. 300h et seq.\], the Marine Protection, Research, and Sanctuaries Act of 1972 \[16 U.S.C. 1431 et seq., 1447 et seq.; 33 U.S.C. 1401 et seq., 2801 et seq.\], or the Clean Air Act \[42 U.S.C. 7401 et seq.\], or under State permit programs approved by the Administrator, where the Administrator determines that such programs assure compliance with any applicable requirements of this section. Not later than December 15, 1986, the Administrator shall promulgate procedures for approval of State programs pursuant to this paragraph.
 
 #### (2) Through other permits
 
@@ -116,7 +116,7 @@ Subsecs. (f), (g). Pub. L. 100–4, §406(c), added subsecs. (f) and (g).
 
 1977—Subsec. (a). Pub. L. 95–217, §68(a), substituted “under section 1342 of this title” for “under this section”.
 
-Subsec. (b). Pub. L. 95–217, §§54(d)(1), 68(b), (c), substituted “sewage sludge subject to subsection (a) of this section and section 1342 of this title” for “sewage sludge subject to this section” and struck out “, as the Administrator determines necessary to carry out the objective of this chapter” after “permit issued under section 1342 of this title”.
+Subsec. (b). Pub. L. 95–217, §§54(d)(1), 68(b), (c), substituted “sewage sludge subject to subsection (a) of this section and section 1342 of this title” for “sewagesludge subject to this section” and struck out “, as the Administrator determines necessary to carry out the objective of this chapter” after “permit issued under section 1342 of this title”.
 
 Subsec. (c). Pub. L. 95–217, §§54(d)(2), 68(d), substituted “disposal of sewage sludge subject to subsection (a) of this section within its jurisdiction may do so in accordance with section 1342 of this title” for “disposal of sewage sludge within its jurisdiction may do so if upon submission of such program the Administrator determines such program is adequate to carry out the objective of this chapter”.
 
@@ -124,7 +124,7 @@ Subsecs. (d), (e). Pub. L. 95–217, §54(d)(3), added subsecs. (d) and (e).
 
 #### Removal Credits
 
-Section 406(e) of Pub. L. 100–4 provided that: “The part of the decision of Natural Resources Defense Council, Inc. v. U.S. Environmental Protection Agency, No. 84–3530 (3d. Cir. 1986), which addresses section 405(d) ofthe Federal Water Pollution Control Act \[33 U.S.C. 1345(d)\] is stayed until August 31, 1987, with respect to—
+Section 406(e) of Pub. L. 100–4 provided that: “The part of the decision of Natural Resources Defense Council, Inc. v. U.S. Environmental Protection Agency, No. 84–3530 (3d. Cir. 1986), which addresses section 405(d) of the Federal Water Pollution Control Act \[33 U.S.C. 1345(d)\] is stayed until August 31, 1987, with respect to—
 
 &emsp;“(1) those publicly owned treatment works the owner or operator of which received authority to revise pretreatment requirements under section 307(b)(1) of such Act \[33 U.S.C. 1317(b)(1)\] before the date of the enactment of this section \[Feb. 4, 1987\], and
 

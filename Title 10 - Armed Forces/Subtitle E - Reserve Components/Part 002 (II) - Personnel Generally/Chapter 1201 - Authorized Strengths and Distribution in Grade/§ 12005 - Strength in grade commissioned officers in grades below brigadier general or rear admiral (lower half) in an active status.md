@@ -44,7 +44,7 @@
 
 (2) When the actual number of officers in an active status in any grade is less than the number authorized by paragraph (1) for that grade, the difference may be applied to increase the number authorized by that paragraph for any lower grade or grades.
 
-(d)(1) An officer of the Army or Air Force may not be reduced in grade because of a reduction in the number of commissioned officers authorized for the officer's grade under this section.
+(d)(1) An officer of the Army or Air Force may not be reduced in grade because of a reduction inthe number of commissioned officers authorized for the officer's grade under this section.
 
 (2) An officer of the Navy Reserve or the Marine Corps Reserve may not be reduced in permanent grade because of a reduction in the number authorized by this section for his grade.
 

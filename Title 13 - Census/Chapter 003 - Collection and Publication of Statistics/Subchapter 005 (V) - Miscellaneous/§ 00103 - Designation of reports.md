@@ -6,7 +6,7 @@ All reports covering any of the statistics collected under the provisions of thi
 
 #### Historical and Revision Notes
 
-Based on title 13, U.S.C., 1952 ed., §111 (Mar. 6, 1902, ch. 139, §7, 32 Stat. 52; June 7, 1906, ch. 3048, 34 Stat. 218;June 18, 1929, ch. 28, §3, 46 Stat. 21; 1939 Reorganization Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1431; 1940 Reorganization Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1232; June 25, 1947, ch. 124, 61 Stat. 163; Sept. 7, 1950, ch. 910, §4, 64 Stat. 785).
+Based on title 13, U.S.C., 1952 ed., §111 (Mar. 6, 1902, ch. 139, §7, 32 Stat. 52; June 7, 1906, ch. 3048, 34 Stat. 218; June 18, 1929, ch. 28, §3, 46 Stat. 21; 1939 Reorganization Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1431; 1940 Reorganization Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1232; June 25, 1947, ch. 124, 61 Stat. 163; Sept. 7, 1950, ch. 910, §4, 64 Stat. 785).
 
 Section was taken from that part of section 111 of title 13, U.S.C., 1952 ed., which related to designation of reports prepared under that section. For remainder of such section 111, see this subchapter, and Distribution Table.
 

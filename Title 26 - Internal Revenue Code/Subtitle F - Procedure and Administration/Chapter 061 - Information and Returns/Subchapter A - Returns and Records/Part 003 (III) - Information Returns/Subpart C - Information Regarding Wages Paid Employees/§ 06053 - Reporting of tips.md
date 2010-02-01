@@ -2,7 +2,7 @@
 
 #### (a) Reports by employees
 
-Every employee who, in the course of his employment by an employer, receives in any calendar month tips which are wages (as defined in section 3121(a) or section 3401(a)) or which are compensation (as defined in section 3231(e)) shall report all such tips in one or more written statements furnished to his employer on or before the 10th day following such month. Such statements shall be furnished by the employee under suchregulations, at such other times before such 10th day, and in such form and manner, as may be prescribed by the Secretary.
+Every employee who, in the course of his employment by an employer, receives in any calendar month tips which are wages (as defined in section 3121(a) or section 3401(a)) or which are compensation (as defined in section 3231(e)) shall report all such tips in one or more written statements furnished to his employer on or before the 10th day following such month. Such statements shall be furnished by the employee under such regulations, at such other times before such 10th day, and in such form and manner, as may be prescribed by the Secretary.
 
 #### (b) Statements furnished by employers
 
@@ -90,7 +90,7 @@ If the tax imposed by section 3101 or section 3201 (as the case may be) with res
 
 &emsp;The Secretary shall prescribe regulations for the application of this subsection to new businesses.
 
-(Added Pub. L. 89–97, title III, §313(e)(2)(A), July 30, 1965, 79 Stat. 384; amended Pub. L. 89–212,§2(d), Sept. 29, 1965, 79 Stat. 859; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §314(a), Sept. 3, 1982, 96 Stat. 603; Pub. L. 98–369, div. A, title X, §1072(a), (c)(1), July 18, 1984, 98 Stat. 1052.)
+(Added Pub. L. 89–97, title III, §313(e)(2)(A), July 30, 1965, 79 Stat. 384; amended Pub. L. 89–212, §2(d), Sept. 29, 1965, 79 Stat. 859; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §314(a), Sept. 3, 1982, 96 Stat. 603; Pub. L. 98–369, div. A, title X, §1072(a), (c)(1), July 18, 1984, 98 Stat. 1052.)
 
 #### Amendments
 

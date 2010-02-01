@@ -46,7 +46,7 @@ Performance and Registration Information Program.—
 
 &emsp;(1)
 
-Information clearinghouse.—The Secretary shall include, as part of the motor carrier information system authorized by this section, a program to establish and maintain aclearinghouse and repository of information related to State registration and licensing of commercial motor vehicles, the registrants of such vehicles, and the motor carriers operating such vehicles. The clearinghouse and repository may include information on the safety fitness of each of the motor carriers and registrants and other information the Secretary considers appropriate, including information on motor carrier, commercial motor vehicle, and driver safety performance.
+Information clearinghouse.—The Secretary shall include, as part of the motor carrier information system authorized by this section, a program to establish and maintain a clearinghouse and repository of information related to State registration and licensing of commercial motor vehicles, the registrants of such vehicles, and the motor carriers operating such vehicles. The clearinghouse and repository may include information on the safety fitness of each of the motor carriers and registrants and other information the Secretary considers appropriate, including information on motor carrier, commercial motor vehicle, and driver safety performance.
 
 &emsp;(2)
 

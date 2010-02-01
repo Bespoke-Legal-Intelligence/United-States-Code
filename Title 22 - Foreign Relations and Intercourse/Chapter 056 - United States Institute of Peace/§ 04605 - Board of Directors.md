@@ -64,7 +64,7 @@ No member of the Board may participate in any decision, action, or recommendatio
 
 Meetings of the Board shall be conducted as follows:
 
-&emsp;(1) The President shall stipulate by name the nominee who shall be the first Chairman of the Board. The first Chairman shall serve for a term of three years. Thereafter, the Board shall elect a Chairman every three years from among the directors appointed by the President under subsection (b)(4) of thissection and may elect a Vice Chairman if so provided by the Institute's bylaws.
+&emsp;(1) The President shall stipulate by name the nominee who shall be the first Chairman of the Board. The first Chairman shall serve for a term of three years. Thereafter, the Board shall elect a Chairman every three years from among the directors appointed by the President under subsection (b)(4) of this section and may elect a Vice Chairman if so provided by the Institute's bylaws.
 
 &emsp;(2) The Board shall meet at least semiannually, at any time pursuant to the call of the Chairman or as requested in writing to the Chairman by at least five members of the Board. A majority of the members of the Board shall constitute a quorum for any Board meeting.
 

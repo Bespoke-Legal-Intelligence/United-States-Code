@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-An area of land comprising approximately thirty-six thousand two hundred thirty-five acres located in Grand County, Colorado, within the Arapaho and the Roosevelt National Forests and the Colorado Big Thompson project (as generally depicted as the “Arapaho National Recreation Area” on a map entitled “Indian Peaks Wilderness Area and Arapaho National Recreation Area”, dated July 1978) is established as the Arapaho National Recreation Area.
+An area of land comprising approximately 35,235 acres located in Grand County, Colorado, within the Arapaho and the Roosevelt National Forests and the Colorado Big Thompson project (as generally depicted as the “Arapaho National Recreation Area” on a map entitled “Indian Peaks Wilderness Area and Arapaho National Recreation Area” and dated May 2007) is established as the Arapaho National Recreation Area.
 
 #### (b) Administration
 
@@ -12,7 +12,7 @@ The Secretary shall administer the Arapaho National Recreation Area, in accordan
 
 &emsp;(2) the conservation and development of the scenic, natural, historic, and pastoral values of the area;
 
-&emsp;(3) the management, utilization, and disposal of natural resources such as timber,grazing, and mineral resources so that their utilization will not substantially impair the purposes for which the recreation area is established; and
+&emsp;(3) the management, utilization, and disposal of natural resources such as timber, grazing, and mineral resources so that theirutilization will not substantially impair the purposes for which the recreation area is established; and
 
 &emsp;(4) the management of water quality in the recreation area consistent with the development of needed water supply and waste-water systems, including the control of aquatic vegetation in the streams, lakes, and reservoirs within the recreation area.
 
@@ -20,7 +20,11 @@ The Secretary shall administer the Arapaho National Recreation Area, in accordan
 
 The Secretary shall develop an overall management plan for the Arapaho National Recreation Area. This plan shall be developed in consultation with State and local political subdivisions and other interested persons.
 
-(Pub. L. 95–450, §4, Oct. 11, 1978, 92 Stat. 1095.)
+(Pub. L. 95–450, §4, Oct. 11, 1978, 92 Stat. 1095; Pub. L. 111–11, title I, §1955(b), Mar. 30, 2009, 123 Stat. 1075.)
+
+#### Amendments
+
+2009—Subsec. (a). Pub. L. 111–11 substituted “35,235 acres” for “thirty-six thousand two hundred thirty-five acres” and “and dated May 2007” for “, dated July 1978”.
 
 #### Short Title
 

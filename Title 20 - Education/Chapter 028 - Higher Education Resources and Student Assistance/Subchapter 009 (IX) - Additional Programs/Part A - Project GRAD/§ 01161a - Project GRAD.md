@@ -48,7 +48,7 @@ The Secretary shall enter into an agreement with the contractor that requires th
 
 &emsp;&emsp;(E) activities for the purpose of promoting greater public awareness of integrated education reform services to improve secondary school graduation and postsecondary attendance rates for low-income students; and
 
-&emsp;&emsp;(F) other activities directly related to improving secondary school graduation and postsecondary attendance and completion rates for low-income students; and
+&emsp;&emsp;(F) other activities directly related to improving secondary school graduation andpostsecondary attendance and completion rates for low-income students; and
 
 &emsp;(3) use contract funds available under this section to pay—
 
@@ -122,7 +122,7 @@ Of the funds made available to carry out this section, not more than five percen
 
 &emsp;&emsp;(A) be conducted using a rigorous research design for determining the effectiveness of the Project GRAD programs funded under this section; and
 
-&emsp;&emsp;(B) compare reading and mathematics achievement, secondary school graduation,and postsecondary attendance and completion rates of students who participate in a Project GRAD program funded under this section with those indicators for students of similar backgrounds who do not participate in such program.
+&emsp;&emsp;(B) compare reading and mathematics achievement, secondary school graduation, and postsecondary attendance and completion rates of students who participate in a Project GRAD program funded under this section with those indicators for students of similar backgrounds who do not participate in such program.
 
 #### (2) Evaluation by contractor and subcontractors
 

@@ -12,7 +12,7 @@ Herein, referred to in text, means act Aug. 25, 1916, known as the “National P
 
 1998—Pub. L. 105–391, §415(b)(1)(A), in fourth sentence, substituted “No natural,” for “He may also grant privileges, leases, and permits for the use of land for the accommodation of visitors in the various parks, monuments, or other reservations herein provided for, but for periods not exceeding thirty years; and no natural”.
 
-Pub. L. 105–391, §415(b)(1)(B), in fourth sentence, struck out last proviso which read as follows “: <i>And provided further</i>, That the Secretary may, in his discretion, authorize such grantees, permittees, or licensees to execute mortgages and issue bonds, shares of stock, and other evidences of interest in or indebtedness upon their rights, properties, and franchises, for the purposes of installing, enlarging, or improving plant and equipment and extending facilities for the accommodation ofthe public within such national parks and monuments”.
+Pub. L. 105–391, §415(b)(1)(B), in fourth sentence, struck out last proviso which read as follows “: <i>And provided further</i>, That the Secretary may, in his discretion, authorize such grantees, permittees, or licensees to execute mortgages and issue bonds, shares of stock, and other evidences of interest in or indebtedness upon their rights, properties, and franchises, for the purposes of installing, enlarging, or improving plant and equipment and extending facilities for the accommodation of the public within such national parks and monuments”.
 
 1958—Pub. L. 85–434 substituted “thirty years” for “twenty years”.
 

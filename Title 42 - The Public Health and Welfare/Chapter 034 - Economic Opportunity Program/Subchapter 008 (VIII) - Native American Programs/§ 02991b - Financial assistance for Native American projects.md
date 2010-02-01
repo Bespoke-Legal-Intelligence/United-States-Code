@@ -16,7 +16,7 @@ Financial assistance extended to an agency under this subchapter shall not excee
 
 #### (d) Grants to improve tribal regulation of environmental quality
 
-(1) The Commissioner shall award grants to Indian tribes for the purpose of funding 80 percent of the costs of planning, developing, andimplementing programs designed to improve the capability of the governing body of the Indian tribe to regulate environmental quality pursuant to Federal and tribal environmental laws.
+(1) The Commissioner shall award grants to Indian tribes for the purpose of funding 80 percent of the costs of planning, developing, and implementing programs designed to improve the capability of the governing body of the Indian tribe to regulate environmental quality pursuant to Federal and tribal environmental laws.
 
 (2) The purposes for which funds provided under any grant awarded under paragraph (1) may be used include, but are not limited to—
 

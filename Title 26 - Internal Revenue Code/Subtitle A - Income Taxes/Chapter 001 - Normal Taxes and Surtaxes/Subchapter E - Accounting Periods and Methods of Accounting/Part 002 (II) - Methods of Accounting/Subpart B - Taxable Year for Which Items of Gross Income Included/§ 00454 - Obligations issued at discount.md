@@ -34,5 +34,5 @@ In the case of a taxpayer who—
 
 Subsec. (b)(2). Pub. L. 94–455, §1901(c)(2), struck out “, a Territory,” after “a State”.
 
-1959—Subsec. (c)(2). Pub. L. 86–346 designated existing provisions as cl. (A), inserted “of the United States” after “an obligation” and struck out “the maturity value of” before “such series E bond” and “which matures not more than 10 years from the date of maturityof such series E bond” after “income obligation” in such cl. (A), and added cl. (B).
+1959—Subsec. (c)(2). Pub. L. 86–346 designated existing provisions as cl. (A), inserted “of the United States” after “an obligation” and struck out “the maturity value of” before “such series E bond” and “which matures not more than 10 years from the date of maturity of such series E bond” after “income obligation” in such cl. (A), and added cl. (B).
 

@@ -12,7 +12,7 @@ Approved Programs of Education.—A program of education is an approved program 
 
 Amount of Educational Assistance.—The amounts payable under this subsection for pursuit of an approved program of education are amounts as follows:
 
-&emsp;(1) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(1) or 3311(b)(2), amounts as follows:
+&emsp;(1) In the case of an individual entitled to educational assistance under this chapter by reason of paragraph (1), (2), or (9) of section 3311(b), amounts as follows:
 
 &emsp;&emsp;(A) An amount equal to the established charges for the program of education, except that the amount payable under this subparagraph may not exceed the maximum amount of established charges regularly charged in-State students for full-time pursuit of approved programs of education for undergraduates by the public institution of higher education offering approved programs of education for undergraduates in the State in which the individual is enrolled that has the highest rate of regularly-charged established charges for such programs of education among all public institutions of higher education in such State offering such programs of education.
 
@@ -66,7 +66,7 @@ In general.—Educational assistance is payable under this chapter for pursuit o
 
 Amount of assistance.—The amount of educational assistance payable under this chapter to an individual pursuing a program of education while on active duty is the lesser of—
 
-&emsp;&emsp;(A) the established charges which similarly circumstanced nonveterans enrolled inthe program of education involved would be required to pay; or
+&emsp;&emsp;(A) the established charges which similarly circumstanced nonveterans enrolled in the program of education involved would be required to pay; or
 
 &emsp;&emsp;(B) the amount of the charges of the educational institution as elected by the individual in the manner specified in section 3014(b)(1) <sup>2</sup>
 
@@ -130,7 +130,15 @@ Basis of determination.—Established charges shall be determined for purposes o
 
 &emsp;&emsp;(B) In the case of an individual enrolled in a program of education not offered on a term, quarter, or semester basis, the tuition and fees charged the individual for the entire program of education.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2363.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2363; amended Pub. L. 111–32, title X, §1002(b), June 24, 2009, 123 Stat. 1889.)
+
+#### Amendments
+
+2009—Subsec. (c)(1). Pub. L. 111–32 substituted “paragraph (1), (2), or (9) of section 3311(b)” for “section 3311(b)(1) or 3311(b)(2)”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–32 effective Aug. 1, 2009, see section 1002(d)(1) of Pub. L. 111–32, set out as a note under section 3311 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “under”.</i>
 

@@ -4,7 +4,7 @@ With respect to an international application transmitted to the International Bu
 
 &emsp;(1) within 5 years after the international registration date; or
 
-&emsp;(2) more than 5 years after the international registration date if the restriction, abandonment, or cancellation of the basic applicationor basic registration resulted from an action that began before the end of that 5-year period.
+&emsp;(2) more than 5 years after the international registration date if the restriction, abandonment, or cancellation of the basic application or basic registration resulted from an action that began before the end of that 5-year period.
 
 (July 5, 1946, ch. 540, title XII, §63, as added Pub. L. 107–273, div. C, title III, §13402, Nov. 2, 2002, 116 Stat. 1915.)
 

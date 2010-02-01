@@ -82,7 +82,7 @@ Study on Waiver of Rights Provision.—
 
 &emsp;“(1)
 
-Study.—The Register of Copyrights shall conduct a study on the extent to which rights conferred by subsection (a) of section 106A of title 17, United States Code, have been waived under subsection (e)(1) of such section.
+Study.—The Register of Copyrights shall conduct a study on the extent to which rights conferredby subsection (a) of section 106A of title 17, United States Code, have been waived under subsection (e)(1) of such section.
 
 &emsp;“(2)
 

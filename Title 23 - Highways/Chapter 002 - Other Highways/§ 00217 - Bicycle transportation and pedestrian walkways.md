@@ -182,7 +182,7 @@ In general.—In implementing section 217(g) of title 23, United States Code, th
 
 “(2)
 
-Issues to be addressed.—The guidance shall address issues such as the level and nature of the demand, volume, and speed of motor vehicle traffic, safety, terrain, cost, and sight distance.
+Issues to be addressed.—The guidance shall address issues such as the level and nature of the demand,volume, and speed of motor vehicle traffic, safety, terrain, cost, and sight distance.
 
 “(3)
 

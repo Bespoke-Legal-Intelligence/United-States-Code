@@ -36,7 +36,7 @@ The Secretary is authorized to expend funds which are appropriated under the aut
 
 (1) Any funds appropriated under the authority of this section shall not be used to offset or limit any appropriations made to the Service under section 13 of this title, or any other provision of law.
 
-(2)(A) Funds appropriated under the authority of this section may be allocated on a service unit basis. The funds allocated to each serviceunit under this subparagraph shall be used by the service unit to reduce the health status and resource deficiency of each tribe served by such service unit.
+(2)(A) Funds appropriated under the authority of this section may be allocated on a service unit basis. The funds allocated to each service unit under this subparagraph shall be used by the service unit to reduce the health status and resource deficiency of each tribe served by such service unit.
 
 (B) The apportionment of funds allocated to a service unit under subparagraph (A) among the health service responsibilities described in subsection (a)(4) of this section shall be determined by the Service in consultation with, and with the active participation of, the affected Indian tribes.
 

@@ -6,5 +6,5 @@ A reference in this subchapter to the effective date of the amendments made by, 
 
 #### References in Text
 
-The effective date of the amendments made by, or the date of the enactment of, the Fannie Lou Hamer, RosaParks, and Coretta Scott King Voting Rights Act Reauthorization and Amendments Act of 2006, referred to in text, is the date of enactment of Pub. L. 109–246, which was approved July 27, 2006.
+The effective date of the amendments made by, or the date of the enactment of, the Fannie Lou Hamer, Rosa Parks, and Coretta Scott King Voting Rights Act Reauthorization and Amendments Act of 2006, referred to in text, is the date of enactment of Pub. L. 109–246, which was approved July 27, 2006.
 

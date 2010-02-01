@@ -60,7 +60,7 @@ Pub. L. 95–31, title I, May 23, 1977, 91 Stat. 169, provided: “That this Act
 
 Sec. 101. (a) Upon the application of any State, political subdivision of a State, Indian tribe, or public or private nonprofit organization, the Secretary of Commerce is authorized to make grants and loans to applicants in drought impacted areas for projects that implement short-term actions to augment community water supplies where there are severe problems due to water shortages. Such assistance may be for the improvement, expansion, or construction of water supplies, and purchase and transportation of water, which in the opinion of the Secretary of Commerce will make a substantial contribution to the relief of an existing or threatened drought condition in a designated area.
 
-“(b) The Secretary of Commerce may designate any area in the United States as an emergency drought impact area if he or she finds that a major and continuing adverse drought condition exists and is expected to continue, and such condition is causing significant hardships on the affected areas.
+“(b) The Secretary of Commerce may designate any area in the United States as an emergency drought impact area if he or she finds that a major and continuingadverse drought condition exists and is expected to continue, and such condition is causing significant hardships on the affected areas.
 
 “(c) Eligible applicants shall be those States or political subdivisions of States with a population of ten thousand or more, Indian tribes, or public or private nonprofit organizations within areas designated pursuant to subsection (b) of this section.
 

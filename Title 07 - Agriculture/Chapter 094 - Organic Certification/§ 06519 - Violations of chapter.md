@@ -2,7 +2,7 @@
 
 #### (a) Misuse of label
 
-Any person who knowingly sells or labels a product as organic, except in accordance withthis chapter, shall be subject to a civil penalty of not more than $10,000.
+Any person who knowingly sells or labels a product as organic, except in accordance with this chapter, shall be subject to a civil penalty of not more than $10,000.
 
 #### (b) False statement
 
@@ -50,7 +50,7 @@ The Federal Meat Inspection Act, referred to in subsec. (f), is titles I to IV o
 
 The Poultry Products Inspection Act, referred to in subsec. (f), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, as amended, which is classified generally to chapter 10 (§451 et seq.) of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 451 of Title 21 and Tables.
 
-The Egg Products Inspection Act, referred to in subsec. (f), is Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, as amended, which is classified generally to chapter 15 (§1031 et seq.) of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of Title 21 and Tables.
+The Egg Products Inspection Act, referred to in subsec. (f), is Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, as amended, which is classified generally to chapter 15\(§1031 et seq.) of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of Title 21 and Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 

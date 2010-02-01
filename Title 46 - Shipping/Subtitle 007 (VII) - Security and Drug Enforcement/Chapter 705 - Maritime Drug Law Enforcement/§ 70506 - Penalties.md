@@ -2,7 +2,7 @@
 
 (a)
 
-Violations.—A person violating section 70503 of this title shall be punished as provided in section 1010 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 960). However, if the offense is a second or subsequent offense as provided in section 1012(b) of that Act (21 U.S.C. 962(b)), the person shall be punished as provided in section 1012 of that Act (21 U.S.C. 962).
+Violations.—A person violating section 70503 of this title shall be punished as provided in section 1010 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 960). However, if the offense is a second or subsequent offense as provided in section 1012(b) of that Act (21 U.S.C. 962(b)), the person shall bepunished as provided in section 1012 of that Act (21 U.S.C. 962).
 
 (b)
 

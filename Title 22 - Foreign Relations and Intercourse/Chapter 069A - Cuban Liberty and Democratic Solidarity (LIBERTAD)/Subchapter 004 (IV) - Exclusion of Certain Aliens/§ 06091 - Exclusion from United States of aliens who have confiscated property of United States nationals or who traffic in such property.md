@@ -4,7 +4,7 @@
 
 The Secretary of State shall deny a visa to, and the Attorney General shall exclude from the United States, any alien who the Secretary of State determines is a person who, after March 12, 1996—
 
-&emsp;(1) has confiscated, or has directed or overseen the confiscation of, property a claim to which is owned by a United States national, orconverts or has converted for personal gain confiscated property, a claim to which is owned by a United States national;
+&emsp;(1) has confiscated, or has directed or overseen the confiscation of, property a claim to which is owned by a United States national, or converts or has converted for personal gain confiscated property, a claim to which is owned by a United States national;
 
 &emsp;(2) traffics in confiscated property, a claim to which is owned by a United States national;
 
@@ -82,7 +82,7 @@ Subchapter III of this chapter, referred to in subsec. (c), was in the original 
 
 #### Reports on Determinations Under Title IV of the LIBERTAD Act
 
-Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2802, Oct. 21, 1998, 112 Stat. 2681–845, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–423; Pub. L. 107–228, div. A, title II, §216(b), Sept. 30, 2002, 116 Stat. 1366, provided that:
+Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2802, Oct. 21, 1998, 112 Stat. 2681–845, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(b)\], Nov.29, 1999, 113 Stat. 1536, 1501A–423; Pub. L. 107–228, div. A, title II, §216(b), Sept. 30, 2002, 116 Stat. 1366, provided that:
 
 “(a)
 

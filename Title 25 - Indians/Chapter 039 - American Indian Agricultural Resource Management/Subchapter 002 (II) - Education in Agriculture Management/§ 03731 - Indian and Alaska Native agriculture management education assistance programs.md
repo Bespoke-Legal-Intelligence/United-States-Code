@@ -24,7 +24,7 @@
 
 #### (b) Cooperative education program
 
-(1) The Secretary shall maintain, through the Bureau, a cooperative education program for the purpose, among other things, of recruiting Indian and Alaska Native students who are enrolled in secondary schools, tribally controlled community colleges, and other postsecondary or graduate schools, for employment in professional agricultural or related positions with the Bureau or other Federal agency providing Indian agricultural or related services.
+(1) The Secretary shall maintain, through the Bureau, a cooperative education program for the purpose, among other things, of recruiting Indian and Alaska Native students who are enrolled in secondary schools, tribally controlled community colleges, and other postsecondary or graduate schools, for employment in professional agricultural or related positions with theBureau or other Federal agency providing Indian agricultural or related services.
 
 (2) The cooperative educational program under paragraph (1) shall be modeled after, and shall have essentially the same features as, the program in effect on December 3, 1993, pursuant to chapter 308 of the Federal Personnel Manual of the Office of Personnel Management.
 
@@ -34,7 +34,7 @@
 
 &emsp;(B) The Secretary shall develop and maintain a cooperative program with the tribally controlled community colleges to coordinate course requirements, texts, and provide direct technical assistance so that a significant portion of the college credits in both the Haskell and Southwestern Indian Polytechnic Institute programs can be met through local program work at participating tribally controlled community colleges.
 
-&emsp;(C) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shallimplement an informational and educational program to provide practical training and assistance in creating or maintaining a successful agricultural enterprise, assessing sources of commercial credit, developing markets, and other subjects of importance in agricultural pursuits.
+&emsp;(C) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shall implement an informational and educational program to provide practical training and assistance in creating or maintaining a successful agricultural enterprise, assessing sources of commercial credit, developing markets, and other subjects of importance in agricultural pursuits.
 
 &emsp;(D) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shall implement research activities to improve the basis for determining appropriate management measures to apply to Indian agricultural management.
 
@@ -116,7 +116,7 @@ Eligible.—The term ‘eligible’ means an individual who has qualified for ap
 
 &emsp;“(4)
 
-Demonstration project.—The term ‘demonstration project’ means a project conducted by or under the supervision of an institution named in subsection (b) to determine whether specified changes inpersonnel management policies or procedures would result in improved personnel management.
+Demonstration project.—The term ‘demonstration project’ means a project conducted by or under the supervision of an institution named in subsection (b) to determine whether specified changes in personnel management policies or procedures would result in improved personnel management.
 
 “(b)
 
@@ -240,7 +240,7 @@ In general.—The Secretary shall provide for an evaluation of the results of ea
 
 &emsp;“(2)
 
-Information.—Upon request of the Secretary, an institution named in section 3(b) shall cooperate with and assist the Secretary, to the extent practicable, in any evaluation undertaken under this subsection and provide the Secretary with requested information and reports relating to the conducting of its demonstration project.
+Information.—Upon request of the Secretary, an institution named in section 3(b) shall cooperatewith and assist the Secretary, to the extent practicable, in any evaluation undertaken under this subsection and provide the Secretary with requested information and reports relating to the conducting of its demonstration project.
 
 “(g)
 
@@ -268,7 +268,7 @@ Eligible individuals.—This subparagraph applies in the case of any individual 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) is an employee of such institution; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) if benefits under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, are to be affected, has completed at least 1 year of Government service (whether withsuch institution or otherwise), but taking into account only civilian service creditable under subchapter III of chapter 83 or chapter 84 of such title.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) if benefits under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, are to be affected, has completed at least 1 year of Government service (whether with such institution or otherwise), but taking into account only civilian service creditable under subchapter III of chapter 83 or chapter 84 of such title.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -330,7 +330,7 @@ Collective-bargaining agreements.—Any collective-bargaining agreement in effec
 
 #### “SEC. 7. REGULATIONS.
 
-“The president of each institution named in section 3(b) may, in consultation with the appropriate entities (referred to in section 4(b)(1)), prescribe any regulations necessary to carry out this Act.
+“The president of each institution named in section 3(b) may, in consultation with the appropriate entities\(referred to in section 4(b)(1)), prescribe any regulations necessary to carry out this Act.
 
 #### “SEC. 8. LEGISLATION TO MAKE CHANGES PERMANENT.
 

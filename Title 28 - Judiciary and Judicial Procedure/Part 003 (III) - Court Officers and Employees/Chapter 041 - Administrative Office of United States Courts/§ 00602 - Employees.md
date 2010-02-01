@@ -116,7 +116,7 @@ Sections 1 to 4 and 6 of Pub. L. 101–474 provided that:
 
 “(a) Notwithstanding any other provision of law, any employee of the Administrative Office who has completed at least 1 year of continuous service under a nontemporary appointment under the personnel system established pursuant to section 3 acquires a competitive status for appointment to any position in the competitive service for which the employee possesses the required qualifications.
 
-“(b) A period of continuous service performed as a nontemporary employee of the Administrative Office immediately before the personnel system under section 3 takes effect shall, for purposes of subsection (a), be treated as if it had been performed under such system.
+“(b) A period of continuous service performed as a nontemporary employee of the Administrative Office immediately before the personnel system under section3 takes effect shall, for purposes of subsection (a), be treated as if it had been performed under such system.
 
 #### “SEC. 6. AUTHORIZATION.
 

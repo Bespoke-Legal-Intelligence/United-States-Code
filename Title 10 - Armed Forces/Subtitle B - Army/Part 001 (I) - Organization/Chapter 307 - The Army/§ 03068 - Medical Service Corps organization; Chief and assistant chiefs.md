@@ -52,7 +52,7 @@ Aug. 4, 1947, ch. 459, §§101 (less 2d sentence), 102(a), (b), 61 Stat. 734, 73
 
 In subsection (a), 10:156a (1st 20 words) is omitted as superseded by section 3067 of this title, which establishes the Medical Service Corps in the Army Medical Service. 10:156a (last 16 words of 1st sentence) is omitted as superseded by section 3012(e) of this title, which authorizes the Secretary of the Army to prescribe the duties of members of the Army. 10:81–1 (last sentence, less 5th through 14th words) is omitted as surplusage.
 
-In subsection (b), the words “of the Regular Army in that corps whose regular grade is above captain” are substituted for the words “commissioned in the Medical Service Corps, Regular Army, in the permanent grade of major or above”. The words “If he holds a lower regular grade” are substituted for the words “if commissioned in permanent grade below colonel”. The words “is entitled” are substituted for the words “shall \* \* \* have”. The words “ranks above” are substituted for the words “shall be superior in rank”.
+In subsection (b), the words “of the Regular Army in that corps whose regular grade is above captain” are substituted for the words “commissioned in the Medical Service Corps, Regular Army, in the permanent grade of major or above”. The words “If he holds a lower regular grade” are substituted for the words “if commissioned in permanent grade below colonel”. The words “is entitled” are substituted for the words “shall have”. The words “ranks above” are substituted for the words “shall be superior in rank”.
 
 In subsection (c), the words “is the Surgeon General's consultant” are substituted for the words “who shall be consultants to him”.
 

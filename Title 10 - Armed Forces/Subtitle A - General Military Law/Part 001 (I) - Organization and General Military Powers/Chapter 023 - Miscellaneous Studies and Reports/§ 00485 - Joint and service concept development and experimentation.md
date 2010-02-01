@@ -22,7 +22,7 @@ Matters To Be Included.—Each report under subsection (a) shall include the fol
 
 &emsp;&emsp;&emsp;(ii) assessing the effectiveness of organizational structures, operational concepts, and technologies relating to joint concept development and experimentation; and
 
-&emsp;&emsp;&emsp;(iii) assisting the Secretary of Defense and the Chairman of the Joint Chiefs of Staff in setting priorities for requirementsor acquisition programs in light of joint concept development and experimentation.
+&emsp;&emsp;&emsp;(iii) assisting the Secretary of Defense and the Chairman of the Joint Chiefs of Staff in setting priorities for requirements or acquisition programs in light of joint concept development and experimentation.
 
 &emsp;(2) A description of the conduct of joint concept development and experimentation activities, and of concept development and experimentation activities of each of the military departments, during the two-year period ending on the date of such report, including—
 

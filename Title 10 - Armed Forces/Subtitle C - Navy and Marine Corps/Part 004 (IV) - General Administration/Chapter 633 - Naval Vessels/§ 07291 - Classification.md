@@ -18,6 +18,80 @@ Historical and Revision Notes
 
 Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31 Stat. 1133.
 
+#### Advance Procurement Funding
+
+Pub. L. 111–84, div. A, title I, §124(a), Oct. 28, 2009, 123 Stat. 2214, provided that:
+
+“(a)
+
+Advance Procurement.—With respect to a naval vessel for which amounts are authorized to be appropriated or otherwise made available for fiscal year 2010 or any fiscal year thereafter for advance procurement in shipbuilding and conversion, Navy, the Secretary of the Navy may enter into a contract, in advance of a contract for construction of any vessel, for any of the following:
+
+&emsp;“(1) Components, parts, or materiel.
+
+&emsp;“(2) Production planning and other related support services that reduce the overall procurement lead time of such vessel.”
+
+#### Procurement Programs for Future Naval Surface Combatants
+
+Pub. L. 111–84, div. A, title I, §125, Oct. 28, 2009, 123 Stat. 2214, provided that:
+
+“(a)
+
+Limitation on Availability of Funds Pending Reports About Surface Combatant Shipbuilding Programs.—The Secretary of the Navy may not obligate or expend funds for the construction of, or advanced procurement of materials for, a surface combatant to be constructed after fiscal year 2011 until the Secretary has submitted to Congress each of the following:
+
+&emsp;“(1) An acquisition strategy for such surface combatants that has been approved by the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+&emsp;“(2) Certification that the Joint Requirements Oversight Council—
+
+&emsp;&emsp;“(A) has been briefed on the acquisition strategy to procure such surface combatants; and
+
+&emsp;&emsp;“(B) has concurred that such strategy is the best preferred approach to deliver required capabilities to address future threats, as reflected in the latest assessment by the defense intelligence community.
+
+&emsp;“(3) A verification by, and conclusions of, an independent review panel that, in evaluating the program or programs concerned, the Secretary of the Navy considered each of the following:
+
+&emsp;&emsp;“(A) Modeling and simulation, including war gaming conclusions regarding combat effectiveness for the selected ship platforms as compared to other reasonable alternative approaches.
+
+&emsp;&emsp;“(B) Assessments of platform operational availability.
+
+&emsp;&emsp;“(C) Life cycle costs, including vessel manning levels, to accomplish missions.
+
+&emsp;&emsp;“(D) The differences in cost and schedule arising from the need to accommodate new sensors and weapons in surface combatants to be constructed after fiscal year 2011 to counter the future threats referred to in paragraph (2), when compared with the cost and schedule arising from the need to accommodate sensors and weapons on surface combatants as contemplated by the 2009 shipbuilding plan for the vessels concerned.
+
+&emsp;“(4) The conclusions of a joint review by the Secretary of the Navy and the Director of the Missile Defense Agency setting forth additional requirements for investment in Aegis ballistic missile defense beyond the number of DDG–51 and CG–47 vessels planned to be equipped for this mission area in the budget of the President for fiscal year 2010 (as submitted to Congress pursuant to section 1105 of title 31, United States Code).
+
+“(b)
+
+Future Surface Combatant Acquisition Strategy.—Not later than the date upon which the President submits to Congress the budget for fiscal year 2012 (as so submitted), the Secretary of the Navy shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an update to the open architecture report to Congress that reflects the Navy's combat systems acquisition plans for the surface combatants to be procured in fiscal year 2012 and fiscal years thereafter.
+
+“(c)
+
+Naval Surface Fire Support.—Not later than 120 days after the enactment of this Act \[Oct. 28, 2009\], the Secretary of the Navy shall submit to the congressional defense committees an update to the March 2006 Report to Congress on Naval Surface Fire Support. The update shall identify how the Department of Defense intends to address any shortfalls between required naval surface fire support capability and the plan of the Navy to provide that capability. The update shall include addenda by the Chief of Naval Operations and Commandant of the Marine Corps, as was the case in the 2006 report.
+
+“(d)
+
+Technology Roadmap for Future Surface Combatants and Fleet Modernization.—
+
+&emsp;“(1)
+
+In general.—Not later than 120 days after the date of the enactment of this Act, the Secretary of the Navy shall develop a plan to incorporate into surface combatants constructed after 2011, and into fleet modernization programs, the technologies developed for the DDG–1000 destroyer and the DDG–51 and CG–47 Aegis ships, including technologies and systems designed to achieve significant manpower savings.
+
+&emsp;“(2)
+
+Scope of plan.—The plan required by paragraph (1) shall include sufficient detail for systems and subsystems to ensure that the plan—
+
+&emsp;&emsp;“(A) avoids redundant development for common functions;
+
+&emsp;&emsp;“(B) reflects implementation of Navy plans for achieving an open architecture for all naval surface combat systems; and
+
+&emsp;&emsp;“(C) fosters competition.
+
+“(e)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘2009 shipbuilding plan’ means the 30-year shipbuilding plan submitted to Congress pursuant to section 231, title 10, United States Code, together with the budget of the President for fiscal year 2009 (as submitted to Congress pursuant to section 1105 of title 31, United States Code).
+
+&emsp;“(2) The term ‘surface combatant’ means a cruiser, a destroyer, or any naval vessel, excluding Littoral Combat Ships, under a program currently designated as a future surface combatant program.”
+
 #### Assessments Required Prior to Start of Construction on First Ship of a Shipbuilding Program
 
 Pub. L. 110–181, div. A, title I, §124, Jan. 28, 2008, 122 Stat. 28, provided that:
@@ -68,7 +142,7 @@ First ship.—The term ‘first ship’ applies to a ship if—
 
 &emsp;“(3)
 
-Major shipbuilding program.—The term ‘major shipbuilding program’ means a program for the construction of combatant and support vessels required for the naval vessel force, as reported within the annual naval vessel construction plan required by section 231 of title 10, United States Code.
+Major shipbuilding program.—The term ‘major shipbuilding program’ means a program forthe construction of combatant and support vessels required for the naval vessel force, as reported within the annual naval vessel construction plan required by section 231 of title 10, United States Code.
 
 &emsp;“(4)
 

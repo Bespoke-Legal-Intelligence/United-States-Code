@@ -48,7 +48,7 @@ The Commodity Credit Corporation shall finance or guarantee under this section o
 
 #### (2) Third country banks
 
-&emsp;The Commodity Credit Corporation may guarantee under subsection (a) of this sectionthe repayment of credit made available to finance an export sale irrespective of whether the obligor is located in the country to which the export sale is destined.
+&emsp;The Commodity Credit Corporation may guarantee under subsection (a) of this section the repayment of credit made available to finance an export sale irrespective of whether the obligor is located in the country to which the export sale is destined.
 
 #### (h) Conditions for fish and processed fish products
 
@@ -88,7 +88,7 @@ The Secretary and the United States Trade Representative shall consult on a regu
 
 &emsp;&emsp;(E) work with industry to ensure, to the maximum extent practicable, that risk-based fees associated with the guarantees cover, but do not exceed, the operating costs and losses over the long term.
 
-(Pub. L. 95–501, title II, §202, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3673; amended Pub. L. 102–237, title III, §334, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §§708, 709(a), Oct. 24, 1992, 106 Stat. 3351; Pub. L. 104–127, title II, §§243(a), 277(c)(3), Apr. 4, 1996, 110 Stat. 965, 979; Pub. L. 107–171, title III, §3102(a)–(c), May 13, 2002, 116 Stat. 289; Pub. L. 110–246, title III, §3101(a), (c), June 18, 2008, 122 Stat. 1831, 1832.)
+(Pub. L. 95–501, title II, §202, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3673; amended Pub. L. 102–237, title III, §334, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII,§§708, 709(a), Oct. 24, 1992, 106 Stat. 3351; Pub. L. 104–127, title II, §§243(a), 277(c)(3), Apr. 4, 1996, 110 Stat. 965, 979; Pub. L. 107–171, title III, §3102(a)–(c), May 13, 2002, 116 Stat. 289; Pub. L. 110–246, title III, §3101(a), (c), June 18, 2008, 122 Stat. 1831, 1832.)
 
 #### Prior Provisions
 
@@ -168,7 +168,7 @@ Pub. L. 101–624, title XV, §1542, Nov. 28, 1990, 104 Stat. 3691, as amended b
 
 “(a)
 
-Funding.—The Commodity Credit Corporation shall make available for fiscal years 1996 through 2012 not less than $1,000,000,000 of direct credits or export credit guarantees for exports to emerging markets under section 201 or 202 of the Agricultural Trade Act of 1978 (7 U.S.C. 5621 and 5622), in addition to the amounts acquired or authorized under section 211 of the Act (7 U.S.C. 5641) for the program.
+Funding.—The Commodity Credit Corporation shall make available for fiscal years 1996 through 2012 not less than $1,000,000,000 of direct credits or export credit guarantees for exports to emerging markets under section 201 or 202 of the Agricultural Trade Actof 1978 (7 U.S.C. 5621 and 5622), in addition to the amounts acquired or authorized under section 211 of the Act (7 U.S.C. 5641) for the program.
 
 “(b)
 
@@ -226,7 +226,7 @@ In general.—
 
 &emsp;&emsp;&emsp;“(i)
 
-Establishment of program.—For each of the fiscal years 1991 through 2012, the Secretary of Agriculture (hereafter in this section referred to as the ‘Secretary’), in order to develop, maintain, or expand markets for United States agricultural exports, is directed to make available to emerging markets the expertise of the United States to make assessments of the food and rural businesssystems needs of such democracies \[markets\], make recommendations on measures necessary to enhance the effectiveness of the systems, including potential reductions in trade barriers, and identify and carry out specific opportunities and projects to enhance the effectiveness of those systems.
+Establishment of program.—For each of the fiscal years 1991 through 2012, the Secretary of Agriculture (hereafter in this section referred to as the ‘Secretary’), in order to develop, maintain, or expand markets for United States agricultural exports, is directed to make available to emerging markets the expertise of the United States to make assessments of the food and rural business systems needs of such democracies \[markets\], make recommendations on measures necessary to enhance the effectiveness of the systems, including potential reductions in trade barriers, and identify and carry out specific opportunities and projects to enhance the effectiveness of those systems.
 
 &emsp;&emsp;&emsp;“(ii)
 

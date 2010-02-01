@@ -2,7 +2,7 @@
 
 The Office of the Legislative Counsel shall aid in drafting public bills and resolutions or amendments thereto on the request of any committee of the Senate but the Committee on Rules and Administration of the Senate may determine the preference, if any, to be given to such requests of the committees. The Legislative Counsel shall, from time to time, prescribe rules and regulations for the conduct of the work of the Office for the committees, subject to the approval of such Committee on Rules and Administration.
 
-(Feb. 24, 1919, ch. 18, §1303(b), (d), 40 Stat. 1141; June 2, 1924, ch. 234, title XI, §1101, 43 Stat. 353; Aug. 2, 1946, ch. 753, title I, §§102, 121, 60 Stat. 814, 822.)
+(Feb. 24, 1919, ch. 18, title XIII, §1303(b), (d), 40 Stat. 1141; June 2, 1924, ch. 234, title XI, §1101, 43 Stat. 353; Aug. 2, 1946, ch. 753, title I, §§102, 121, 60 Stat. 814, 822.)
 
 #### Codification
 

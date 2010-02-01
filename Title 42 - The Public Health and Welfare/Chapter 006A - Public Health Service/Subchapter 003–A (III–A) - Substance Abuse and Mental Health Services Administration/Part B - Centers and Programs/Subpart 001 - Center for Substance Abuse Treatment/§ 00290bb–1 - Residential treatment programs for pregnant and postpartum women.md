@@ -66,7 +66,7 @@ In the case of an eligible woman, the services referred to in subsection (a)(3) 
 
 &emsp;&emsp;(B) in the case of the services that are appropriate, ensuring that the services are provided in a coordinated manner; and
 
-&emsp;&emsp;(C) assistance in establishing eligibility for assistance under Federal, State, and local programs providing health services, mental health services, housing services,employment services, educational services, or social services.
+&emsp;&emsp;(C) assistance in establishing eligibility for assistance under Federal, State, and local programs providing health services, mental health services, housing services, employment services, educational services, or social services.
 
 #### (e) Minimum qualifications for receipt of award
 
@@ -184,7 +184,7 @@ For purposes of this section:
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary to fiscal years 2001 through 2003.
 
-(July 1, 1944, ch. 373, title V, §508, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat. 336; amended Pub. L. 106–310, div. B, title XXXIII, §3301(a), Oct. 17, 2000, 114 Stat. 1207.)
+(July 1, 1944, ch. 373, title V, §508, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat.336; amended Pub. L. 106–310, div. B, title XXXIII, §3301(a), Oct. 17, 2000, 114 Stat. 1207.)
 
 #### References in Text
 

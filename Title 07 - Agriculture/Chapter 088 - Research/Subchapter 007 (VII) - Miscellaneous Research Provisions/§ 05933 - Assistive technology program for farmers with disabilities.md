@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Agriculture, in consultation with other appropriate Federal agencies, shall make demonstration grants to supportcooperative programs between State Cooperative Extension Service agencies and private nonprofit disability organizations to provide on-the-farm agricultural education and assistance directed at accommodating disability in farm operations for individuals with disabilities who are engaged in farming and farm-related occupations and their families.
+&emsp;The Secretary of Agriculture, in consultation with other appropriate Federal agencies, shall make demonstration grants to support cooperative programs between State Cooperative Extension Service agencies and private nonprofit disability organizations to provide on-the-farm agricultural education and assistance directed at accommodating disability in farm operations for individuals with disabilities who are engaged in farming and farm-related occupations and their families.
 
 #### (2) Eligible services
 
@@ -50,7 +50,7 @@ The Secretary of Agriculture shall award a competitive grant to a national priva
 
 &emsp;Not more than 15 percent of the amounts made available under paragraph (1) for a fiscal year shall be used to carry out subsection (b) of this section.
 
-(Pub. L. 101–624, title XVI, §1680, Nov. 28, 1990, 104 Stat. 3781; Pub. L. 104–127, title VIII, §841, Apr. 4, 1996, 110 Stat. 1170; Pub. L. 105–185, title II, §246, June 23, 1998, 112 Stat. 556; Pub. L. 107–171, title VII, §§7122, 7208(c), May 13, 2002, 116 Stat. 434, 444; Pub. L. 110–234, title VII, §7210, May 22, 2008, 122 Stat. 1241; Pub. L. 110–246, §4(a), title VII, §7210, June 18, 2008, 122 Stat. 1664, 2003.)
+(Pub. L. 101–624, title XVI, §1680, Nov. 28, 1990, 104 Stat. 3781; Pub. L. 104–127, title VIII, §841, Apr. 4, 1996, 110 Stat. 1170; Pub. L. 105–185, title II, §246, June 23, 1998, 112 Stat. 556; Pub. L. 107–171, title VII, §§7122, 7208(c), May 13, 2002, 116 Stat. 434, 444; Pub. L. 110–234, title VII, §7210,May 22, 2008, 122 Stat. 1241; Pub. L. 110–246, §4(a), title VII, §7210, June 18, 2008, 122 Stat. 1664, 2003.)
 
 #### Codification
 

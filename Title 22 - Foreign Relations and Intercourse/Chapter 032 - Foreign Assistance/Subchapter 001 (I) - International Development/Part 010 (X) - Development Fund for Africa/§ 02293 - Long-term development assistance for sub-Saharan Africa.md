@@ -12,7 +12,7 @@ The Congress finds that—
 
 #### (b) Authority to furnish assistance
 
-The President is authorized to furnish project and program assistance, on such terms and conditions as he may determine in accordance withthe policies contained in this section, for long-term development in sub-Saharan Africa.
+The President is authorized to furnish project and program assistance, on such terms and conditions as he may determine in accordance with the policies contained in this section, for long-term development in sub-Saharan Africa.
 
 #### (c) Purpose of assistance
 
@@ -86,7 +86,7 @@ The critical sectoral priorities for long-term development, as described in subs
 
 #### (A) Agricultural production
 
-&emsp;&emsp;Increasing agricultural production in ways which protect and restore the natural resource base, especially food production,through agricultural policy changes, agricultural research (including participatory research directly involving small farmers) and extension, development and promotion of agriculture marketing activities, credit facilities, and appropriate production packages, and the construction and improvement of needed production-related infrastructure such as farm-to-market roads, small-scale irrigation, and rural electrification. Within this process, emphasis shall be given to promoting increased equity in rural income distribution, recognizing the role of small farmers.
+&emsp;&emsp;Increasing agricultural production in ways which protect and restore the natural resource base, especially food production, through agricultural policy changes, agricultural research (including participatory research directly involving small farmers) and extension, development and promotion of agriculture marketing activities, credit facilities, and appropriate production packages, and the construction and improvement of needed production-related infrastructure such as farm-to-market roads, small-scale irrigation, and rural electrification. Within this process, emphasis shall be given to promoting increased equity in rural income distribution, recognizing the role of small farmers.
 
 #### (B) Natural resource base
 
@@ -102,7 +102,7 @@ The critical sectoral priorities for long-term development, as described in subs
 
 #### (2) Health
 
-&emsp;Improving health conditions, with special emphasis on meeting the health needs of mothers and children (including displaced children) through the establishment of primary health care systems that give priority to preventive health and that will be ultimately self-sustaining. In addition, providing training and training facilities, in sub-Saharan Africa, for doctors and other health care providers, notwithstanding any provision of law that restricts assistance to foreign countries.
+&emsp;Improving health conditions, with special emphasis on meeting the health needs ofmothers and children (including displaced children) through the establishment of primary health care systems that give priority to preventive health and that will be ultimately self-sustaining. In addition, providing training and training facilities, in sub-Saharan Africa, for doctors and other health care providers, notwithstanding any provision of law that restricts assistance to foreign countries.
 
 #### (3) Voluntary family planning services
 
@@ -318,7 +318,7 @@ Other activities.—In addition to carrying out paragraph (1), the Administrator
 
 “(a)
 
-Purpose.—The purpose of this section is to encourage the Overseas Private Investment Corporation to work with United States businesses and other United States entities to invest in rural sub-Saharan Africa,particularly in ways that will develop the capacities of small-scale farmers and small rural entrepreneurs, including women, in sub-Saharan Africa.
+Purpose.—The purpose of this section is to encourage the Overseas Private Investment Corporation to work with United States businesses and other United States entities to invest in rural sub-Saharan Africa, particularly in ways that will develop the capacities of small-scale farmers and small rural entrepreneurs, including women, in sub-Saharan Africa.
 
 “(b)
 

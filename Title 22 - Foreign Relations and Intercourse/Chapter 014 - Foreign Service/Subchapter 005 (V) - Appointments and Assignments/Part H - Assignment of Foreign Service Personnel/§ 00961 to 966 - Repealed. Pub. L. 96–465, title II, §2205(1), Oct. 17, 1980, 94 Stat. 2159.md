@@ -1,6 +1,6 @@
 ### §§961 to 966. Repealed. Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159
 
-Section 961, acts Aug. 13, 1946, ch. 957, title V, §571, 60 Stat. 1011; May 26, 1949, ch. 143, §5, 63 Stat. 111; Apr. 5, 1955, ch. 23, §6, 69 Stat. 25; June 30, 1958, Pub. L. 85–477, ch. V, §502(h), 72 Stat. 273; Sept. 8, 1960, Pub. L. 86–723, §14, 74 Stat. 833; Dec. 16, 1963, Pub. L. 88–205, pt. IV,§404(a), 77 Stat. 391; Aug. 17, 1977, Pub. L. 95–105, title IV, §408, 91 Stat. 854, set forth provisions relating to assignments of officers or employees to any government agency or international organization.
+Section 961, acts Aug. 13, 1946, ch. 957, title V, §571, 60 Stat. 1011; May 26, 1949, ch. 143, §5, 63 Stat. 111; Apr. 5, 1955, ch. 23, §6, 69 Stat. 25; June 30, 1958, Pub. L. 85–477, ch. V, §502(h), 72 Stat. 273; Sept. 8, 1960, Pub. L. 86–723, §14, 74 Stat. 833; Dec. 16, 1963, Pub. L. 88–205, pt. IV, §404(a), 77 Stat. 391; Aug. 17, 1977, Pub. L. 95–105, title IV, §408, 91 Stat. 854, set forth provisions relating to assignments of officers or employees to any government agency or international organization.
 
 Section 962, act Aug. 13, 1946, ch. 957, title V, §572, 60 Stat. 1012, related to compulsory service in the United States.
 

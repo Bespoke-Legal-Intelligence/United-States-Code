@@ -178,6 +178,8 @@ Amendment by Pub. L. 92–603 effective in like manner as if such amendment had 
 
 #### Social Security Contribution and Benefit Base
 
+2010—By notice of the Commissioner of Social Security, Oct. 20, 2009, 74 F.R. 55614, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2010 will remain $106,800.
+
 2009—By notice of the Commissioner of Social Security, Oct. 24, 2008, 73 F.R. 64651, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2009 is $106,800.
 
 2008—By notice of the Commissioner of Social Security, Oct. 19, 2007, 72 F.R. 60703, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2008 is $102,000.

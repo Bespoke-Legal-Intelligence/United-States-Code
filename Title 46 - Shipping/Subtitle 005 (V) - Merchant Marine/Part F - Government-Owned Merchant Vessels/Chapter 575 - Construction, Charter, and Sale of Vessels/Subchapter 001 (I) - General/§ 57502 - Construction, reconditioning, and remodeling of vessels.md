@@ -10,7 +10,7 @@ Place of Work.—Construction, reconditioning, and remodeling of vessels under s
 
 (c)
 
-Applicability of Construction-Differential Subsidy Provisions.—Contracts for the construction, reconstruction, or reconditioning of a vessel by a private shipbuilder under this chapter are subject to the provisions of title V of the Merchant Marine Act, 1936, applicable to a contract with a private shipbuilder for the construction of a vessel under title V of that Act.
+Applicability of Construction-Differential Subsidy Provisions.—Contracts for theconstruction, reconstruction, or reconditioning of a vessel by a private shipbuilder under this chapter are subject to the provisions of title V of the Merchant Marine Act, 1936, applicable to a contract with a private shipbuilder for the construction of a vessel under title V of that Act.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1664.)
 
@@ -40,5 +40,5 @@ In subsection (b), the words “for such new construction or reconstruction, in 
 
 #### References in Text
 
-The Merchant Marine Act, 1936, referred to in subsec. (c), is act June 29, 1936, ch. 858, 49 Stat. 1985. Title V of the Act enacted provisions set out as notes under section 53101 of this title. For complete classification ofthis Act to the Code, see Short Title of 1936 Amendment note set out under section 101 of this title and Tables.
+The Merchant Marine Act, 1936, referred to in subsec. (c), is act June 29, 1936, ch. 858, 49 Stat. 1985. Title V of the Act enacted provisions set out as notes under section 53101 of this title. For complete classification of this Act to the Code, see Short Title of 1936 Amendment note set out under section 101 of this title and Tables.
 

@@ -10,7 +10,7 @@
 
 &emsp;(4) reports from heads of agencies under section 1213(g)(1).
 
-(b) The Special Counsel shall take steps to ensure that any list or report made available to the public under this section does not contain any information the disclosure of which is prohibited by law or by Executive order requiring that information be kept secret in the interest of national defense or the conduct of foreign affairs.
+(b) The Special Counsel shall take steps to ensure that any list or report made available to the public under this section does not contain any information the disclosure of which is prohibited by law or by Executive order requiring that information be kept secret in the interestof national defense or the conduct of foreign affairs.
 
 (Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 29.)
 

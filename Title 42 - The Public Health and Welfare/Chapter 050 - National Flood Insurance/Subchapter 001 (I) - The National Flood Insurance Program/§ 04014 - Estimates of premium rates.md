@@ -32,7 +32,7 @@ The Director shall give priority to conducting studies and investigations and ma
 
 #### (d) Parishes of Louisiana; premium rates
 
-Notwithstanding any other provision of law, any structure existing on December 31, 1973, andlocated within Avoyelles, Evangeline, Rapides, or Saint Landry Parish in the State of Louisiana, which the Secretary determines is subject to additional flood hazards as a result of the construction or operation of the Atchafalaya Basin Levee System, shall be eligible for flood insurance under this chapter (if and to the extent it is eligible for such insurance under the other provisions of this chapter) at premium rates that shall not exceed those which would be applicable if such additional hazards did not exist.
+Notwithstanding any other provision of law, any structure existing on December 31, 1973, and located within Avoyelles, Evangeline, Rapides, or Saint Landry Parish in the State of Louisiana, which the Secretary determines is subject to additional flood hazards as a result of the construction or operation of the Atchafalaya Basin Levee System, shall be eligible for flood insurance under this chapter (if and to the extent it is eligible for such insurance under the other provisions of this chapter) at premium rates that shall not exceed those which would be applicable if such additional hazards did not exist.
 
 #### (e) Eligibility of community making adequate progress on construction of flood protection system for rates not exceeding those applicable to completed flood protection system; determination of adequate progress
 
@@ -84,7 +84,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 #### Fees
 
-Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 517, provided in part: “That beginning in fiscal year 2003 and thereafter, fees authorized in 42 U.S.C. 4014(a)(1)(B)(iii) shall be collected only if provided in advance in appropriations acts.”
+Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 517, provided in part: “That beginning in fiscal year2003 and thereafter, fees authorized in 42 U.S.C. 4014(a)(1)(B)(iii) shall be collected only if provided in advance in appropriations acts.”
 
 #### Study of Economic Effects of Charging Actuarially Based Premium Rates for Pre-FIRM Structures
 

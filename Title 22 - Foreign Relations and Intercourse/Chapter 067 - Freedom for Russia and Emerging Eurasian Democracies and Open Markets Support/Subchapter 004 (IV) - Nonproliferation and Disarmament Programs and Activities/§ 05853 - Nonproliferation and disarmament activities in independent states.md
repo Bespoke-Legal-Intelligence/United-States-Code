@@ -48,7 +48,7 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 #### Delegation of Authority
 
-Authority of President under this section delegated to Secretary of Defense by section 2 of Memorandum of President of the United States, Dec. 30, 1992, 58 F.R. 3193, set out as a note under section 5852 of this title.
+Authority of President under this section delegated to Secretary of Defense by section 2 of Memorandum ofPresident of the United States, Dec. 30, 1992, 58 F.R. 3193, set out as a note under section 5852 of this title.
 
 #### Transfer of Funding for Science and Technology Centers in the Former Soviet Union
 
@@ -68,7 +68,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1139\], Nov. 29, 1
 
 “(a)
 
-In General.—Support for science and technology centers in the independent states of the former SovietUnion, as authorized by section 503(a)(5) of the FREEDOM Support Act (22 U.S.C. 5853(a)(5)) and section 1412(b) \[22 U.S.C. 5902(b)\] of the Former Soviet Union Demilitarization Act of 1992 (title XIV of Public Law 102–484, 22 U.S.C. 5901 et seq.), is authorized for activities described in subsection (b) to support the redirection of former Soviet weapons scientists, especially those with expertise in weapons of mass destruction (nuclear, radiological, chemical, biological), missile and other delivery systems, and other advanced technologies with military applications.
+In General.—Support for science and technology centers in the independent states of the former Soviet Union, as authorized by section 503(a)(5) of the FREEDOM Support Act (22 U.S.C. 5853(a)(5)) and section 1412(b) \[22 U.S.C. 5902(b)\] of the Former Soviet Union Demilitarization Act of 1992 (title XIV of Public Law 102–484, 22 U.S.C. 5901 et seq.), is authorized for activities described in subsection (b) to support the redirection of former Soviet weapons scientists, especially those with expertise in weapons of mass destruction (nuclear, radiological, chemical, biological), missile and other delivery systems, and other advanced technologies with military applications.
 
 “(b)
 

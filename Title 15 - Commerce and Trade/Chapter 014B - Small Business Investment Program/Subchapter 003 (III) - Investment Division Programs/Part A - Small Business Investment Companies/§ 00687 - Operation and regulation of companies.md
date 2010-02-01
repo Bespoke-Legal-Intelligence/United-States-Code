@@ -2,7 +2,7 @@
 
 #### (a) Cooperation with banks and other financial institutions
 
-Wherever practicable the operations of a small business investment company, including the generation of business, may be undertaken in cooperation with banks or other investors or lenders, incorporated or unincorporated, and any servicing or initial investigation required for loans or acquisitions of securities by the company under the provisions of this chapter may be handled through such banks or other investors or lenders on a fee basis. Any small business investment company may receive fees for services rendered to such banks and other investors and lenders.
+Wherever practicable the operations of a small business investment company, including the generation of business, may be undertaken in cooperation with banks or other investors or lenders, incorporated or unincorporated, andany servicing or initial investigation required for loans or acquisitions of securities by the company under the provisions of this chapter may be handled through such banks or other investors or lenders on a fee basis. Any small business investment company may receive fees for services rendered to such banks and other investors and lenders.
 
 #### (b) Use of advisory services; depository or fiscal agents; investment of funds
 
@@ -60,7 +60,7 @@ In the performance of, and with respect to the functions, powers, and duties ves
 
 &emsp;(A) the number of small business investment companies the Administration licensed, the number of licensees that have been placed in liquidation, and the number of licensees that have surrendered their licenses in the previous year, identifying the amount of government leverage each has received and the type of leverage instruments each has used;
 
-&emsp;(B) the amount of government leverage that each licensee received in the previous year andthe types of leverage instruments each licensee used;
+&emsp;(B) the amount of government leverage that each licensee received in the previous year and the types of leverage instruments each licensee used;
 
 &emsp;(C) for each type of financing instrument, the sizes, geographic locations, and other characteristics of the small business investment companies using them, including the extent to which the investment companies have used the leverage from each instrument to make small business loans, equity investments, or both; and
 
@@ -172,7 +172,7 @@ Section 529 of Pub. L. 96–221 provided that the amendment made by that section
 
 #### Effective Date of 1979 Amendments
 
-Section 207 of Pub. L. 96–161, which provided that amendment by Pub. L. 96–161 was applicable to loansmade in any State during the period beginning on Dec. 28, 1979, and ending on the earliest of (1) in the case of a State statute, July 1, 1980; (2) the date, after Dec. 28, 1979, on which such State adopts a law stating in substance that such State does not want the amendment of this section made by Pub. L. 96–161 to apply with respect to loans made in such State; or (3) the date on which such State certifies that the voters of such State, after Dec. 28, 1979, have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment to the constitution of such State which prohibits the charging of interest at the rates provided in the amendment of this section by Pub. L. 96–161, was repealed by Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168.
+Section 207 of Pub. L. 96–161, which provided that amendment by Pub. L. 96–161 was applicable to loans made in any State during the period beginning on Dec. 28, 1979, and ending on the earliest of (1) in the case of a State statute, July 1, 1980; (2) the date, after Dec. 28, 1979, on which such State adopts a law stating in substance that such State does not want the amendment of this section made by Pub. L. 96–161 to apply with respect to loans made in such State; or (3) the date on which such State certifies that the voters of such State, after Dec. 28, 1979, have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment to the constitution of such State which prohibits the charging of interest at the rates provided in the amendment of this section by Pub. L. 96–161, was repealed by Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168.
 
 Section 107 of Pub. L. 96–104, which provided that amendment by Pub. L. 96–104 was applicable to loans made by any State during the period beginning on Nov. 5, 1979, and ending on the earlier of July 1, 1981, or the date after Nov. 5, 1979, on which such State adopts a law stating in substance that such State does not want the amendment of this section to apply with respect to loans made in such State, or the date on which such State certifies that the voters of such State have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment of the constitution of such State, which prohibits the charging of interest at the rates provided in the amendment of this section, was repealed by Pub. L. 96–161, title II, §212, Dec. 28, 1979, 93 Stat. 1239.
 

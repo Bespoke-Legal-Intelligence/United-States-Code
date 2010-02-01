@@ -68,7 +68,7 @@
 
 &emsp;A school which is not a Bureau-funded school under title XI of the Education Amendments of 1978 \[25 U.S.C. 2000 et seq.\] meets the requirements of this subsection if—
 
-&emsp;&emsp;(A) the Indian tribe or tribal organization that operates, or desires to operate, theschool submits to the Secretary an application requesting a determination by the Secretary as to whether the school is eligible for assistance under this chapter; and
+&emsp;&emsp;(A) the Indian tribe or tribal organization that operates, or desires to operate, the school submits to the Secretary an application requesting a determination by the Secretary as to whether the school is eligible for assistance under this chapter; and
 
 &emsp;&emsp;(B) the Secretary makes a determination that a school is eligible for assistance under this chapter.
 
@@ -134,7 +134,7 @@ Except as provided by subsection (c)(2)(E) of this section, a grant provided und
 
 #### (1) In general
 
-&emsp;Whenever the Secretary refuses to approve a grant under this chapter, to transfer operation of a Bureau school under subsection (b) of this section, or determines that a school is not eligible for assistance under this chapter, the Secretary shall—
+&emsp;Whenever the Secretary refuses to approve a grant under this chapter, to transfer operationof a Bureau school under subsection (b) of this section, or determines that a school is not eligible for assistance under this chapter, the Secretary shall—
 
 &emsp;&emsp;(A) state the objections in writing to the tribe or tribal organization within the allotted time;
 

@@ -2,7 +2,7 @@
 
 #### (a) State and local governmental exemption
 
-Under regulations prescribed by the Secretary, no tax shall be imposed by section 4481 on the use of any highway motor vehicle by any State or any political subdivision of a State.
+Under regulations prescribed by the Secretary, no tax shall be imposed by section 4481 on theuse of any highway motor vehicle by any State or any political subdivision of a State.
 
 #### (b) Exemption for United States
 

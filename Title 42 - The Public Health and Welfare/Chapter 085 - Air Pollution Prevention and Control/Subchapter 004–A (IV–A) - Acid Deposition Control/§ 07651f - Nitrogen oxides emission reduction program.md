@@ -12,7 +12,7 @@ On the date that a coal-fired utility unit becomes an affected unit pursuant to 
 
 &emsp;(B) for dry bottom wall-fired boilers (other than units applying cell burner technology), 0.50 lb/mmBtu.
 
-> After January 1, 1995, it shall be unlawful for any unit that is an affected unit on that date and is of the type listed in this paragraph to emit nitrogen oxides in excess of the emission rates set by the Administrator pursuant to this paragraph.
+> After January 1, 1995, it shall be unlawful for any unit that is an affected unit on that dateand is of the type listed in this paragraph to emit nitrogen oxides in excess of the emission rates set by the Administrator pursuant to this paragraph.
 
 (2) Not later than January 1, 1997, the Administrator shall, by regulation, establish allowable emission limitations on a lb/mmBtu, annual average basis, for nitrogen oxides for the following types of utility boilers:
 
@@ -58,7 +58,7 @@ The permitting authority shall, upon request of an owner or operator of a unit s
 
 In lieu of complying with the applicable emission limitations under subsection (b)(1), (2), or (d) of this section, the owner or operator of two or more units subject to one or more of the applicable emission limitations set pursuant to these sections,<sup>4</sup> may petition the permitting authority for alternative contemporaneous annual emission limitations for such units that ensure that (1) the actual annual emission rate in pounds of nitrogen oxides per million Btu averaged over the units in question is a rate that is less than or equal to (2) the Btu-weighted average annual emission rate for the same units if they had been operated, during the same period of time, in compliance with limitations set in accordance with the applicable emission rates set pursuant to subsections (b)(1) and (2) of this section.
 
-If the permitting authority determines, in accordance with regulations issued by the Administrator not later than eighteen months after November 15, 1990; <sup>5</sup> that the conditions in the paragraph above can be met, the permitting authority shall issue operating permits for such units, in accordance with section 7651g of this title and part B <sup>3</sup> of title III, that allow alternative contemporaneous annual emission limitations. Such emission limitations shall only remain in effect while both units continue operation under the conditions specified in their respective operating permits.
+If the permitting authority determines, in accordance with regulations issued by the Administrator not later than eighteen months afterNovember 15, 1990; <sup>5</sup> that the conditions in the paragraph above can be met, the permitting authority shall issue operating permits for such units, in accordance with section 7651g of this title and part B <sup>3</sup> of title III, that allow alternative contemporaneous annual emission limitations. Such emission limitations shall only remain in effect while both units continue operation under the conditions specified in their respective operating permits.
 
 (July 14, 1955, ch. 360, title IV, §407, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2613.)
 

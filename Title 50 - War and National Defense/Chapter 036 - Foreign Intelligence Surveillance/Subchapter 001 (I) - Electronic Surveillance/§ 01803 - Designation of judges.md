@@ -2,7 +2,7 @@
 
 #### (a) Court to hear applications and grant orders; record of denial; transmittal to court of review
 
-(1) The Chief Justice of the United States shall publicly designate 11 district court judges from at least seven of the United States judicial circuits of whom no fewer than 3 shall reside within 20 miles of the District of Columbia who shall constitute a court which shall have jurisdiction to hear applications for and grant orders approving electronic surveillance anywhere within the United States under the procedures set forth in this chapter, except that no judge designated under this subsection (except when sitting en banc under paragraph (2)) shall hear the same application for electronic surveillance under this chapter which has been denied previouslyby another judge designated under this subsection. If any judge so designated denies an application for an order authorizing electronic surveillance under this chapter, such judge shall provide immediately for the record a written statement of each reason of his decision and, on motion of the United States, the record shall be transmitted, under seal, to the court of review established in subsection (b) of this section.
+(1) The Chief Justice of the United States shall publicly designate 11 district court judges from at least seven of the United States judicial circuits of whom no fewer than 3 shall reside within 20 miles of the District of Columbia who shall constitute a court which shall have jurisdiction to hear applications for and grant orders approving electronic surveillance anywhere within the United States under the procedures set forth in this chapter, except that no judge designated under this subsection (except when sitting en banc under paragraph (2)) shall hear the same application for electronic surveillance under this chapter which has been denied previously by another judge designated under this subsection. If any judge so designated denies an application for an order authorizing electronic surveillance under this chapter, such judge shall provide immediately for the record a written statement of each reason of his decision and, on motion of the United States, the record shall be transmitted, under seal, to the court of review established in subsection (b) of this section.
 
 (2)(A) The court established under this subsection may, on its own initiative, or upon the request of the Government in any proceeding or a party under section 1861(f) of this title or paragraph (4) or (5) of section 1881a(h) of this title, hold a hearing or rehearing, en banc, when ordered by a majority of the judges that constitute such court upon a determination that—
 
@@ -72,7 +72,7 @@ This chapter, referred to in subsecs. (a), (b), (c), (f), (g)(1), and (i), was i
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–261, §109(a)–(b)(2)(A), designated existing provisions as par. (1), inserted “at least” before “seven of the United States judicial circuits” and “(except when sitting en banc under paragraph (2))” before “shall hear”, and added par. (2).
+2008—Subsec. (a). Pub. L. 110–261, §109(a)–(b)(2)(A), designated existing provisions as par. (1), inserted “at least” before “seven of the United States judicial circuits” and “(except when sitting en banc under paragraph (2))” before “shall hear”, and added par. (2).
 
 Subsec. (e)(1), (2). Pub. L. 110–261, §403(a)(1)(B)(ii), which directed substitution of “1861(f)(1) or 1881a(h)(4)” for “1805b(h) or 1861(f)(1)”, was executed by making the substitution for “1861(f)(1)” to reflect the probable intent of Congress and termination of the temporary amendment by Pub. L. 110–55, §5(a). See 2007 Amendment note and Effective and Termination Dates of 2007 Amendment note below.
 
@@ -80,13 +80,13 @@ Subsecs. (f), (g). Pub. L. 110–261, §109(c), added subsec. (f) and redesignat
 
 Subsec. (i). Pub. L. 110–261, §109(d), added subsec. (i).
 
-<b>2007</b>—Subsec. (e). Pub. L. 110–55, §§5(a), 6(c), temporarily substituted “1805b(h) or 1861(f)(1)” for “1861(f)(1)” in pars. (1) and (2). See Effective and Termination Dates of 2007 Amendment note below.
+2007—Subsec. (e). Pub. L. 110–55, §§5(a), 6(c), temporarily substituted “1805b(h) or 1861(f)(1)” for “1861(f)(1)” in pars. (1) and (2). See Effective and Termination Dates of 2007 Amendment note below.
 
-<b>2006</b>—Subsecs. (e), (f). Pub. L. 109–177 added subsecs. (e) and (f).
+2006—Subsecs. (e), (f). Pub. L. 109–177 added subsecs. (e) and (f).
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+2004—Subsec. (c). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–56 substituted “11 district court judges” for “seven district court judges” and inserted “of whom no fewer than 3 shall reside within 20 miles of the District of Columbia” after “judicial circuits”.
+2001—Subsec. (a). Pub. L. 107–56 substituted “11 district court judges” for “seven district court judges” and inserted “of whom no fewer than 3 shall reside within 20 miles of the District of Columbia” after “judicial circuits”.
 
 #### Effective Date of 2008 Amendment
 

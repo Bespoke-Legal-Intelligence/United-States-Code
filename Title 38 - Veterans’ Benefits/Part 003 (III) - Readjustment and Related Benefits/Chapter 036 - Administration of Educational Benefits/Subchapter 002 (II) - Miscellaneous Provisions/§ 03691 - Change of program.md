@@ -10,7 +10,7 @@
 
 (c) The Secretary may also approve additional changes in program if the Secretary finds such changes are necessitated by circumstances beyond the control of the eligible veteran or eligible person.
 
-(d)(1) For the purposes of this section, the term “change of program of education” shall not be deemed to include a change by a veteranor eligible person from the pursuit of one program to the pursuit of another program if—
+(d)(1) For the purposes of this section, the term “change of program of education” shall not be deemed to include a change by a veteran or eligible person from the pursuit of one program to the pursuit of another program if—
 
 &emsp;(A) the veteran or eligible person has successfully completed the former program;
 
@@ -28,7 +28,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in former section 1672, as added by Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 15; and former section 1722, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1196, prior to repeal by sections 401(6) and 402(2) of Pub. L. 92–540, respectively.
+Provisions similar to those comprising this section were contained in former section 1672, as added by Pub.L. 89–358, §2, Mar. 3, 1966, 80 Stat. 15; and former section 1722, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1196, prior to repeal by sections 401(6) and 402(2) of Pub. L. 92–540, respectively.
 
 #### Amendments
 

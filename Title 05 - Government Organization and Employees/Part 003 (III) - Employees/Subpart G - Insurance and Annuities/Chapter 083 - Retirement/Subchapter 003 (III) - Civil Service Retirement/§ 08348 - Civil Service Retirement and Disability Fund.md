@@ -14,9 +14,9 @@
 
 (b) The Secretary of the Treasury may accept and credit to the Fund money received in the form of a donation, gift, legacy, or bequest, or otherwise contributed for the benefit of civil-service employees generally.
 
-(c) The Secretary shall immediately invest, in interest-bearing securities of the United States such currently available portions of the Fund as are not immediately required for payments from the Fund. The income derived from these investments constitutes a part of the Fund.
+(c) The Secretary shall immediately invest in interest-bearing securities of the United States such currently available portions of the Fund as are not immediately required for payments from the Fund. The income derived from these investments constitutes a part of the Fund.
 
-(d) The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are extended to authorize the issuance at par of public-debt obligations for purchase by the Fund. The obligations issued for purchase by the Fund shall have maturities fixed with due regard for the needs of the Fund and bear interest at a rate equal to the average market yield computed as of the end of the calendar month next preceding the date of the issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of 4 years from the end of that calendar month. If the average market yield is not a multiple of 1/8 of 1 percent, the rate of interest on the obligations shall be the multiple of 1/8 of 1 percent nearest the average market yield.
+(d) The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are extended to authorize the issuance at par of public-debt obligations for purchase by the Fund. The obligations issued for purchase by the Fund shall have maturities fixed with due regard for the needs of the Fund and bear interest at a rate equal to the average market yield computed as of the end of the calendar month next preceding the date of the issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the publicdebt which are not due or callable until after the expiration of 4 years from the end of that calendar month. If the average market yield is not a multiple of 1/8 of 1 percent, the rate of interest on the obligations shall be the multiple of 1/8 of 1 percent nearest the average market yield.
 
 (e) The Secretary may purchase other interest-bearing obligations of the United States, or obligations guaranteed as to both principal and interest by the United States, on original issue or at the market price only if he determines that the purchases are in the public interest.
 
@@ -30,7 +30,7 @@
 
 > is deemed to authorize appropriations to the Fund to finance the unfunded liability created by that statute, in 30 equal annual installments with interest computed at the rate used in the then most recent valuation of the Civil Service Retirement System and with the first payment thereof due as of the end of the fiscal year in which each new or liberalized benefit, extension of coverage, or increase in pay is effective.
 
-(g) At the end of each fiscal year, the Office shall notify the Secretary of the Treasury of the amount equivalent to (1) interest on the unfunded liability computed for that year at the interest rate used in the then most recent valuation of the System, and (2) that portion of disbursement for annuities for that year which the Office estimates is attributable to credit allowed for military service, less an amount determined by the Office to be appropriate to reflect the value of the deposits made to the credit of the Fund under section 8334(j) of this title. Before closing the accounts for each fiscal year, the Secretary shall credit to the Fund, as a Government contribution, out of any money in the Treasury of the United States not otherwise appropriated, the following percentages of such amounts; 10 percent for 1971; 20 percent for 1972; 30 percent for 1973; 40 percent for 1974; 50 percent for 1975; 60 percent for 1976; 70 percent for 1977; 80 percent for 1978; 90 percent for 1979; and 100 percent for 1980 and for each fiscal year thereafter.
+(g) At the end of each fiscal year, the Office shall notify the Secretary of the Treasury of the amount equivalent to (1) interest on the unfunded liability computed for that year at the interest rate used in the then most recent valuation of the System, and (2) that portion of disbursement for annuities for that year which the Office estimates is attributable to credit allowed for military service, less an amount determined by the Office to be appropriate to reflect the value of the deposits made to the credit of the Fund under section 8334(j) of this title. Before closing the accounts for each fiscal year, the Secretary shall credit to the Fund, as a Government contribution, out of any money in the Treasury of the United States not otherwise appropriated, the following percentages of such amounts: 10 percent for 1971; 20 percent for 1972; 30 percent for 1973; 40 percent for 1974; 50 percent for 1975; 60 percent for 1976; 70 percent for 1977; 80 percent for 1978; 90 percent for 1979; and 100 percent for 1980 and for each fiscal year thereafter.
 
 (h)(1) In this subsection, the term “Postal surplus or supplemental liability” means the estimated difference, as determined by the Office, between—
 
@@ -170,7 +170,7 @@ Subsec. (m). Pub. L. 108–18, §2(d)(1)(A), struck out subsec. (m) which read a
 
 “(2) The estimated increase in the unfunded liability referred to in paragraph (1) of this subsection shall be determined by the Office after consultation with the Postal Service. The Postal Service shall pay the amount so determined to the Office in 15 equal annual installments with interest computed at the rate used in the most recent valuation of the Civil Service Retirement System, and with the first payment thereof due at the end of the fiscal year in which the cost-of-living adjustment with respect to which the payment relates becomes effective.
 
-“(3) In determining any amount for which the Postal Service is liable under this subsection, the amount ofthe liability shall be prorated to reflect only that portion of total service (used in computing the benefits involved) which is attributable to civilian service performed after June 30, 1971, as estimated by the Office.”
+“(3) In determining any amount for which the Postal Service is liable under this subsection, the amount of the liability shall be prorated to reflect only that portion of total service (used in computing the benefits involved) which is attributable to civilian service performed after June 30, 1971, as estimated by the Office.”
 
 1998—Subsec. (g). Pub. L. 105–362 struck out at end “The Office shall report to the President and to the Congress the sums credited to the Fund under this subsection.”
 
@@ -260,7 +260,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–349 effective July 1, 1971, except that the Postal Service shall not be required to make (1) the payments due June 30, 1972, June 30, 1973, and June 30, 1974, attributable to pay increases granted by the Postal Service prior to July 1, 1973, until suchtime as funds are appropriated to the Postal Service for that purpose, and (2) the transfer to the Civil Service Retirement and Disability Fund required by title II of the Treasury, Postal Service, and General Government Appropriation Act, 1974, Public Law 93–143, see section 3 of Pub. L. 93–349, set out as a note under section 1005 of Title 39, Postal Service.
+Amendment by Pub. L. 93–349 effective July 1, 1971, except that the Postal Service shall not be required to make (1) the payments due June 30, 1972, June 30, 1973, and June 30, 1974, attributable to pay increases granted by the Postal Service prior to July 1, 1973, until such time as funds are appropriated to the Postal Service for that purpose, and (2) the transfer to the Civil Service Retirement and Disability Fund required by title II of the Treasury, Postal Service, and General Government Appropriation Act, 1974, Public Law 93–143, see section 3 of Pub. L. 93–349, set out as a note under section 1005 of Title 39, Postal Service.
 
 #### Effective Date of 1969 Amendment
 
@@ -326,7 +326,7 @@ Section 4002(b)(3) of Pub. L. 101–239, which provided that first payment made 
 
 #### Status of Original Subsec. (g) Provisions During Period From Oct. 20, 1969 to June 30, 1970
 
-Section 103(b)(2) of Pub. L. 91–93 provided that: “Paragraph (1) of this subsection \[set out as EffectiveDate of 1969 Amendment note above\], shall not be held or considered to continue in effect after the enactment of this Act \[Oct. 20, 1969\], the provisions of section 8348(g) of title 5, United States Code, as in effect immediately prior to such enactment.”
+Section 103(b)(2) of Pub. L. 91–93 provided that: “Paragraph (1) of this subsection \[set out as Effective Date of 1969 Amendment note above\], shall not be held or considered to continue in effect after the enactment of this Act \[Oct. 20, 1969\], the provisions of section 8348(g) of title 5, United States Code, as in effect immediately prior to such enactment.”
 
 #### Inapplicability to Benefits Under Pub. L. 89–737 of Prohibition Against Payment of Increased Annuity Benefit Without Compensating Appropriation
 

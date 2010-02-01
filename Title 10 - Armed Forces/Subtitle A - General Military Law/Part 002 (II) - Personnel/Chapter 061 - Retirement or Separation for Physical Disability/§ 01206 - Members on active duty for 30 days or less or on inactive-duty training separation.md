@@ -30,7 +30,7 @@ Upon a determination by the Secretary concerned that a member of the armed force
 
 > However, if the member is eligible for transfer to the inactive status list under section 1209 of this title, and so elects, he shall be transferred to that list instead of being separated.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 94; Pub. L. 99–661, div. A, title VI, §604(d)(1), (3), Nov. 14,1986, 100 Stat. 3876; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 102–484, div. A, title V, §516(a), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 105–85, div. A, title V, §513(c)(2), (d)(2), Nov. 18, 1997, 111 Stat. 1731; Pub. L. 106–65, div. A, title V, §578(i)(4), title VI, §653(c), Oct. 5, 1999, 113 Stat. 629, 667; Pub. L. 107–107, div. A, title V, §513(b), title X, §1048(c)(6), Dec. 28, 2001, 115 Stat. 1093, 1226.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 94; Pub. L. 99–661, div. A, title VI, §604(d)(1), (3), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 102–484, div. A, title V, §516(a), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 105–85, div. A, title V, §513(c)(2), (d)(2), Nov. 18, 1997, 111 Stat. 1731; Pub. L. 106–65, div. A, title V, §578(i)(4), title VI, §653(c), Oct. 5, 1999, 113 Stat. 629, 667; Pub. L. 107–107, div. A, title V, §513(b), title X, §1048(c)(6), Dec. 28, 2001, 115 Stat. 1093, 1226.)
 
 Historical and Revision Notes
 

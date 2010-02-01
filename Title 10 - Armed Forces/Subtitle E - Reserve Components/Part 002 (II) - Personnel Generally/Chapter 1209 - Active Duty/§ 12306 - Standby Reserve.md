@@ -32,7 +32,7 @@ Act
 
 July 9, 1952, ch. 608, §206 (less 1st 28 words of (a)), 66 Stat. 483.
 
-In subsection (b), the words “to serve” are substituted for the words “for the purpose of serving”. The words “there are not enough \* \* \* that are” are substituted for the words “adequate numbers of \* \* \* are not”. The words “(other than for training)” are inserted, since the words “active duty” were defined in the source statute cited above to exclude “active duty for training”.
+In subsection (b), the words “to serve” are substituted for the words “for the purpose of serving”. The words “there are not enough that are” are substituted for the words “adequate numbers of are not”. The words “(other than for training)” are inserted, since the words “active duty” were defined in the source statute cited above to exclude “active duty for training”.
 
 #### 1962 Act
 

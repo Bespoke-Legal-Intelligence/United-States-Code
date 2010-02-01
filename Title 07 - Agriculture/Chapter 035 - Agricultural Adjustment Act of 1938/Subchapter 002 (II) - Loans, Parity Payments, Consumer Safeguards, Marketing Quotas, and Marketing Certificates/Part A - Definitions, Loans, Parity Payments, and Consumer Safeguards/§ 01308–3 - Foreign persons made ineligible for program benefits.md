@@ -4,7 +4,7 @@ Notwithstanding any other provision of law:
 
 #### (a) In general
 
-Any person who is not a citizen of the United States or an alien lawfully admitted into the United States for permanent residence under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) shall be ineligible to receive any type of loans or payments made available under title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\], the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\], the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3830 et seq.), or under any contract entered into under title XII \[16 U.S.C. 3801 et seq.\], with respect to any commodity produced, or land set aside from production, on a farm that is owned or operated by such person, unless such person is an individual who is providing land, capital, and a substantial amount of personal labor in the production of crops on such farm.
+Any person who is not a citizen of the United States or an alien lawfully admitted into the United States for permanent residence under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) shall be ineligible to receive any type of loans or payments made available under title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\], the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\], the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.),<sup>1</sup> or under any contract entered into under title XII \[16 U.S.C. 3801 et seq.\], with respect to any commodity produced, or land set aside from production, on a farm that is owned or operated by such person, unless such person is an individual who is providing land, capital, and a substantial amount of personal labor in the production of crops on such farm.
 
 #### (b) Corporations or other entities
 
@@ -24,7 +24,7 @@ The Food, Conservation, and Energy Act of 2008, referred to in subsec. (a), is P
 
 The Agricultural Market Transition Act, referred to in subsec. (a), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§7201 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 7201 of this title and Tables.
 
-The Commodity Credit Corporation Charter Act, referred to in subsec. (a), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification ofthis Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
+The Commodity Credit Corporation Charter Act, referred to in subsec. (a), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally tosubchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
 The Food Security Act of 1985, referred to in subsec. (a), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act, popularly known as the “Sodbuster Law”, is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. Subtitle D of title XII of the Act is classified generally to subchapter IV (§3830 et seq.) of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
@@ -57,4 +57,6 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 #### Effective Date
 
 Section 1306 of Pub. L. 100–203 provided that this section is effective beginning with 1989 crops.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

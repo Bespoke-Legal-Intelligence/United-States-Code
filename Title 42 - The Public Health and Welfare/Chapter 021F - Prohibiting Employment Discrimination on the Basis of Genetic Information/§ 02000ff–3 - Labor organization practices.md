@@ -12,7 +12,7 @@ It shall be an unlawful employment practice for a labor organization—
 
 #### (b) Acquisition of genetic information
 
-It shall be an unlawful employment practice for a labor organization to request, require, or purchase genetic information with respect to a member or a family member of the member except—
+It shall be an unlawful employment practice for a labor organization to request, require, orpurchase genetic information with respect to a member or a family member of the member except—
 
 &emsp;(1) where a labor organization inadvertently requests or requires family medical history of the member or family member of the member;
 

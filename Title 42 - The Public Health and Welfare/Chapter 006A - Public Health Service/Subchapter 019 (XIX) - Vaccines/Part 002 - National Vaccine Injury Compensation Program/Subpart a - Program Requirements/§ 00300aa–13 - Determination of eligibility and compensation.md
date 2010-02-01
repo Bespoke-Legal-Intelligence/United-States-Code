@@ -62,5 +62,5 @@ Amendment by Pub. L. 101–502 effective Sept. 30, 1990, see section 5(h) of Pub
 
 #### Effective Date of 1989 Amendment
 
-For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
+For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currentlypending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Study
 
-The Attorney General, in consultation with the Secretary of Education, shall provide for a national baseline study to examine the scope of the problem of campus sexual assaults and the effectiveness of institutional and legal policies in addressing such crimes and protecting victims. The Attorney General may utilize the Bureau of Justice Statistics, the National Institute of Justice, and the Office for Victims of Crime in carrying out this section.
+The Attorney General, in consultation with the Secretary of Education, shall provide for a national baseline study to examine the scope ofthe problem of campus sexual assaults and the effectiveness of institutional and legal policies in addressing such crimes and protecting victims. The Attorney General may utilize the Bureau of Justice Statistics, the National Institute of Justice, and the Office for Victims of Crime in carrying out this section.
 
 #### (b) Report
 
@@ -34,7 +34,7 @@ Based on the study required by subsection (a) of this section and data collected
 
 &emsp;(6) in conjunction with the report produced by the Department of Education in coordination with institutions of education under the Student Right-To-Know and Campus Security Act (20 U.S.C. 1001 note; Public Law 101–542) and amendments made by that Act, an assessment of the policies and practices of educational institutions that are of greatest effectiveness in addressing campus sexual assaults and protecting victims, including policies and practices relating to the particular issues described in paragraph (5); and
 
-&emsp;(7) any recommendations the Attorney General may have for reforms to address campus sexual assaults and protect victims more effectively, and any other matters that the Attorney General deems relevant to the subjectof the study and report required by this section.
+&emsp;(7) any recommendations the Attorney General may have for reforms to address campus sexual assaults and protect victims more effectively, and any other matters that the Attorney General deems relevant to the subject of the study and report required by this section.
 
 #### (c) Submission of report
 

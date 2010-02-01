@@ -36,7 +36,7 @@ July 9, 1952, ch. 608, §257 (less (e)), 66 Stat. 497.
 
 In subsection (a), the word “are” is substituted for the words “is established”, to make clear the continuing authority of the organization established by the source statute. Clauses (3), (4), and (5) are substituted for 50:1008(a)(iii) for clarity. In clauses (6), (7), (8), and (9), the word “designated” is substituted for the word “appointed”, in 50:1008(iv), (v), (vi), and (vii), to make it clear that the positions described are not constitutional offices.
 
-In subsection (b), the words “Regular Coast Guard or Coast Guard Reserve” are substituted for the words “Regular or Reserve \* \* \* Coast Guard”.
+In subsection (b), the words “Regular Coast Guard or Coast Guard Reserve” are substituted for the words “Regular or Reserve Coast Guard”.
 
 #### Amendments
 

@@ -22,7 +22,7 @@ Intentional Violations.—If it has been determined by a court or Federal agency
 
 &emsp;(2) represented that any product used in projects to which this section applies, sold in or shipped to the United States that was not produced in the United States, was produced in the United States;
 
-> that person shall be ineligible to receive any contract or subcontract made with funds authorized under the Intermodal Surface Transportation Efficiency Act of 1991 pursuant to the debarment, suspension, and ineligibility procedures in subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations.
+> that person shall be ineligible to receive any contract or subcontract made with funds authorized under the Intermodal Surface Transportation Efficiency Act of 1991 pursuant to thedebarment, suspension, and ineligibility procedures in subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations.
 
 (f)
 
@@ -38,9 +38,9 @@ Limitation on Applicability of Waivers to Products Produced in Certain Foreign C
 
 #### References in Text
 
-The Surface Transportation Assistance Act of 1982, referred to in subsecs. (a) and (d), is Pub. L. 97–424, Jan. 6, 1983, 96 Stat. 2097, as amended. For complete classification of this Act to the Code, see Short Title of 1983 Amendments note set out under section 101 of this title and Tables.
+The Surface Transportation Assistance Act of 1982, referred to in subsecs. (a) and (d), is Pub. L. 97–424, Jan. 6, 1983, 96 Stat. 2097. For complete classification of this Act to the Code, see Short Title of 1983 Amendments note set out under section 101 of this title and Tables.
 
-The Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (e), is Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of Title 49, Transportation, and Tables.
+The Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (e), is Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of Title 49, Transportation, and Tables.
 
 #### Codification
 
@@ -58,9 +58,17 @@ Subsec. (b)(3), (4). Pub. L. 109–59, §1903(c)(2), redesignated par. (4) as (3
 
 Subsec. (d). Pub. L. 109–59, §1903(c)(3), substituted “the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or this title that” for “this Act, the Surface Transportation Assistance Act of 1978 or title 23, United States Code, which”.
 
-Subsec. (e) to (g). Pub. L. 109–59, §1903(c)(4), (5), which directed amendment of this section by striking subsec. (e) and redesignating subsecs. (f) and (g) as (e) and (f), respectively, was executed by making the redesignations and by striking out two subsecs. (e), to reflect the probable intent of Congress. The first subsec. (e) based on subsec. (e) of section 165 of Pub. L. 97–424, as originally enacted, repealed section 401 of the Surface Transportation Assistance Act of 1978, Pub. L. 95–599.The second subsec. (e) based on subsec. (e) of section 165 of Pub. L. 97–424, as added by Pub. L. 102–240, §1048(b), related to report on purchases from foreign entities waived under subsec. (b) in fiscal years 1992 and 1993.
+Subsec. (e) to (g). Pub. L. 109–59, §1903(c)(4), (5), which directed amendment of this section by striking subsec. (e) and redesignating subsecs. (f) and (g) as (e) and (f), respectively, was executed by making the redesignations and by striking out two subsecs. (e), to reflect the probable intent of Congress. The first subsec. (e) based on subsec. (e) of section 165 of Pub. L. 97–424, as originally enacted, repealed section 401 of the Surface Transportation Assistance Act of 1978, Pub. L. 95–599. The second subsec. (e) based on subsec. (e) of section 165 of Pub. L. 97–424, as added by Pub. L. 102–240, §1048(b), related to report on purchases from foreign entities waived under subsec. (b) in fiscal years 1992 and 1993.
 
 #### Buy America Waiver Notification and Annual Reports
+
+Pub. L. 111–117, div. A, title I, §123, Dec. 16, 2009, 123 Stat. 3048, provided that: “Not less than 15 days prior to waiving, under his statutory authority, any Buy America requirement for Federal-aid highway projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: <i>Provided</i>, That the Secretary shall provide an annual report to the Appropriations Committees of the Congress on any waivers granted under the Buy America requirements.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 111–8, div. I, title I, §126, Mar. 11, 2009, 123 Stat. 928.
+
+Pub. L. 110–161, div. K, title I, §130, Dec. 26, 2007, 121 Stat. 2389.
 
 Pub. L. 110–244, title I, §117, June 6, 2008, 122 Stat. 1607, provided that:
 
@@ -83,6 +91,4 @@ Limitation on statutory construction.—Nothing in paragraph (1) shall be constr
 “(b)
 
 Annual Reports.—Not later than February 1 of each year beginning after the date of enactment of this Act \[June 6, 2008\], the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the projects for which the Secretary made findings under section 313(b) of title 23, United States Code, during the preceding calendar year and the justifications for such findings.”
-
-Pub. L. 110–161, div. K, title I, §130, Dec. 26, 2007, 121 Stat. 2389, provided that: “Not less than 15 days prior to waiving, under her statutory authority, any Buy America requirement for Federal-aid highway projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: <i>Provided</i>, That the Secretary shall provide an annual report to the Appropriations Committees of the Congress on any waivers granted under the Buy America requirements.”
 

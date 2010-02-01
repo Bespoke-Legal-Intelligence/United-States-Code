@@ -8,7 +8,7 @@
 
 (c)(1) Except as provided in paragraph (2) of this subsection, information obtained in the course of performing pretrial services functions in relation to a particular accused shall be used only for the purposes of a bail determination and shall otherwise be confidential. Each pretrial services report shall be made available to the attorney for the accused and the attorney for the Government.
 
-(2) The Director shall issue regulations establishing the policy for release of information made confidential by paragraph (1) of this subsection. Such regulations shall provide exceptions to the confidentiality requirements under paragraph (1) of this subsection to allow access to such information—
+(2) The Director shall issue regulations establishing the policy for release of information made confidential by paragraph (1) of this subsection. Such regulations shall provide exceptions to the confidentiality requirements underparagraph (1) of this subsection to allow access to such information—
 
 &emsp;(A) by qualified persons for purposes of research related to the administration of criminal justice;
 

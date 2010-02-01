@@ -116,11 +116,13 @@ Amount of Stipend.—The amount of a stipend under an agreement under subsection
 
 &emsp;(2) one-half of that rate, if the participant has agreed to serve in the Individual Ready Reserve.
 
-(Added Pub. L. 100–180, div. A, title VII, §711(a)(3), Dec. 4, 1987, 101 Stat. 1108, §2128; renumbered §16201 and amended Pub. L. 103–337, div. A, title XVI, §1663(c)(2), (5), Oct. 5, 1994, 108 Stat. 3007, 3008; Pub. L. 104–106, div. A, title VII, §736, Feb. 10, 1996, 110 Stat. 383; Pub. L. 107–107, div. A, title V, §539, Dec. 28, 2001, 115 Stat. 1108; Pub. L. 109–163, div. A, title V, §515(b)(1)(WW), Jan. 6, 2006, 119 Stat. 3234; Pub. L. 110–417, \[div. A\], title VI, §616(c), Oct. 14, 2008, 122 Stat. 4486.)
+(Added Pub. L. 100–180, div. A, title VII, §711(a)(3), Dec. 4, 1987, 101 Stat. 1108, §2128; renumbered §16201 and amended Pub. L. 103–337, div. A, title XVI, §1663(c)(2), (5), Oct. 5, 1994, 108 Stat. 3007, 3008; Pub. L. 104–106, div. A, title VII, §736, Feb. 10, 1996, 110 Stat. 383; Pub. L. 107–107, div. A, title V, §539, Dec. 28, 2001, 115 Stat. 1108; Pub. L. 109–163, div. A, title V, §515(b)(1)(WW), Jan. 6, 2006, 119 Stat. 3234; Pub. L. 110–417, \[div. A\], title VI, §616(c), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title X, §1073(c)(3), Oct. 28, 2009, 123 Stat. 2474.)
 
 #### Amendments
 
-2008—Subsec. (e)(2)(A). Pub. L. 110–417, which directed amendment of section 16201(e)(2)(A), without specifying the Code title to be amended, by substituting “monthly stipend in an amount not to exceed the stipend rate in effect under section 2121(d) of this title” for “stipend of $100 per month”, was executed to this section, to reflect the probable intent of Congress.
+2009—Subsec. (e)(2)(A). Pub. L. 111–84 made technical amendment to directory language of Pub. L. 110–417, §616(c). See 2008 Amendment note below.
+
+2008—Subsec. (e)(2)(A). Pub. L. 110–417, §616(c), as amended by Pub. L. 111–84, substituted “monthly stipend in an amount not to exceed the stipend rate in effect under section 2121(d) of this title” for “stipend of $100 per month”.
 
 2006—Subsec. (d)(1)(B)(ii). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
@@ -159,6 +161,10 @@ Subsec. (b)(2)(B). Pub. L. 104–106, §736(3), inserted “or dental officer”
 Subsecs. (a), (b)(1), (c)(1), (d)(1). Pub. L. 103–337, §1663(c)(5), substituted “chapter” for “subchapter”.
 
 Subsec. (f). Pub. L. 103–337, §1663(c)(2), struck out subsec. (f) which defined “Individual Ready Reserve”.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(3) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 #### Effective Date of 1994 Amendment
 

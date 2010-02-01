@@ -2,7 +2,7 @@
 
 #### (a) Suspension or termination by Secretary
 
-The Secretary shall, whenever the Secretary finds that the order or any provision of the order obstructs or does not tend to effectuate the declared policy of this chapter, terminate or suspend the operation of the order or provision.
+The Secretary shall, whenever the Secretary finds that the order or any provision of the orderobstructs or does not tend to effectuate the declared policy of this chapter, terminate or suspend the operation of the order or provision.
 
 #### (b) Other referenda
 

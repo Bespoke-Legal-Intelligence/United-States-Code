@@ -4,7 +4,7 @@ The purposes of the corporation are—
 
 &emsp;(1) to perpetuate the memory of the Grand Army of the Republic and of the men who saved the Union in 1861 to 1865;
 
-&emsp;(2) to assist in every practicable way in preserving, and making available for research,documents and records pertaining to the Grand Army of the Republic and its members;
+&emsp;(2) to assist in every practicable way in preserving, and making available for research, documents and records pertaining to the Grand Army of the Republic and its members;
 
 &emsp;(3) to cooperate in honoring all those who have served our country patriotically in any war;
 

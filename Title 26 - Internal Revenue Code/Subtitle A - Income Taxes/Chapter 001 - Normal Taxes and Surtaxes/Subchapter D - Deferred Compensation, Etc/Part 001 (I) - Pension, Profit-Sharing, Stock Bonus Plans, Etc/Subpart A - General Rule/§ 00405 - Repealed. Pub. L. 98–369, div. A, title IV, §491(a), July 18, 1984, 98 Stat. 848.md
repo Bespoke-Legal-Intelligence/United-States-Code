@@ -20,7 +20,7 @@ In general.—If—
 
 &emsp;“(iii) such transfer is made on or before the 60th day after the individual received the proceeds of such redemption,
 
-> then gross income shall not include the proceeds to the extent so transferred and the transfer shall be treated as a rollover contribution described in section 408(d)(3).”
+> then gross income shall not include the proceeds to the extent so transferred and the transfer shall be treatedas a rollover contribution described in section 408(d)(3).”
 
 #### Bonds Under Qualified Bond Purchase Plans Redeemable at any Time After July 18, 1984
 

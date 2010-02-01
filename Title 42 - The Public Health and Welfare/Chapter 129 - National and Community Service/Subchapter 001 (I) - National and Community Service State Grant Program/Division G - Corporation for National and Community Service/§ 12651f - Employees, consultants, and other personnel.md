@@ -40,7 +40,7 @@ Except as provided in subsection (b) of this section, section 12651e(d) of this 
 
 #### (1) Designation of representative
 
-&emsp;The Corporation shall designate 1 employee of the Corporation for each State or group of States to serve as the representative of the Corporation in the State or States and to assist the Corporation in carrying out the activities described in the national service laws in the State or States.
+&emsp;The Corporation shall designate 1 employee of the Corporation for each State or group ofStates to serve as the representative of the Corporation in the State or States and to assist the Corporation in carrying out the activities described in the national service laws in the State or States.
 
 #### (2) Duties
 
@@ -48,13 +48,13 @@ Except as provided in subsection (b) of this section, section 12651e(d) of this 
 
 &emsp;&emsp;(A) the Corporation and the State Commission that is established in the State or States;
 
-&emsp;&emsp;(B) the Corporation and any subdivision of a State, Indian tribe, public or private nonprofit organization, or institution of higher education, in the State or States, that is awarded a grant under section 12571 of this title directly from the Corporation; and
+&emsp;&emsp;(B) the Corporation and any subdivision of a State, territory, Indian tribe, public or private nonprofit organization, or institution of higher education, in the State or States, that is awarded a grant under section 12571 of this title directly from the Corporation; and
 
 &emsp;&emsp;(C) after the effective date of section 203(c)(2) of the National and Community Service Trust Act of 1993, the State Commission and the Corporation employee responsible for programs under the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\] in the State, if the employee is not the representative described in paragraph (1) for the State.
 
-#### (3) Member of State Commission
+#### (3) Nonvoting member of State Commission
 
-&emsp;The representative designated under this subsection for a State or group of States shall also serve as a member of the State Commission established in the State or States, as described in section 12638(c)(3) of this title.
+&emsp;The representative designated under this subsection for a State or group of States shall also serve as a nonvoting member of the State Commission established in the State or States, as described in section 12638(c)(3) of this title.
 
 #### (4) Compensation
 
@@ -96,7 +96,11 @@ The head of any Federal department or agency may detail on a reimbursable basis,
 
 &emsp;&emsp;If a member of the staff appointed under subparagraph (A) was appointed without regard to the provisions described in clauses (i) and (ii) of subparagraph (A), the rate of compensation for such member may not exceed the maximum rate of basic pay payable for GS–13 of the General Schedule under section 5332 of title 5.
 
-(Pub. L. 101–610, title I, §195, as added and amended Pub. L. 103–82, title II, §§202(a), 203(a)(1)(B), Sept. 21, 1993, 107 Stat. 883, 891.)
+#### (g) Personal services contracts
+
+The Corporation may enter into personal services contracts to carry out research, evaluation, and public awareness related to the national service laws.
+
+(Pub. L. 101–610, title I, §195, as added and amended Pub. L. 103–82, title II, §§202(a), 203(a)(1)(B), Sept. 21, 1993, 107 Stat. 883, 891; Pub. L. 111–13, title I, §1706, Apr. 21, 2009, 123 Stat. 1547.)
 
 #### References in Text
 
@@ -106,7 +110,7 @@ The provisions of title 5 governing appointments in the competitive service, ref
 
 Section 203(c)(2) of the National and Community Service Trust Act of 1993, referred to in subsec. (c)(2)(C), is section 203(c)(2) of Pub. L. 103–82, which is set out as a note under section 12651 of this title. For the effective date of section 203(c)(2) of this Act, see section 203(d) of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 12651 of this title.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(2)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified generally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(2)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified generally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 #### Prior Provisions
 
@@ -114,7 +118,17 @@ A prior section 195 of Pub. L. 101–610 was renumbered section 151 by Pub. L. 1
 
 #### Amendments
 
+2009—Subsec. (c)(2)(B). Pub. L. 111–13, §1706(1)(A), inserted “territory,” after “subdivision of a State,”.
+
+Subsec. (c)(3). Pub. L. 111–13, §1706(1)(B), substituted “Nonvoting member” for “Member” in heading and inserted “nonvoting” before “member” in text.
+
+Subsec. (g). Pub. L. 111–13, §1706(2), added subsec. (g).
+
 1993—Subsecs. (c)(1), (e). Pub. L. 103–82, §203(a)(1)(B), which directed amendment of section 195(c) and (e) of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter”, was executed to subsecs. (c)(1) and (e) of this section, which is section 195 of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 
 #### Effective Date of 1993 Amendment
 

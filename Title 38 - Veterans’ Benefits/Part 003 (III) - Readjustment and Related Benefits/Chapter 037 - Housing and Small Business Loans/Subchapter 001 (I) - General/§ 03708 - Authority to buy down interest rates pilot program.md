@@ -6,7 +6,7 @@
 
 &emsp;(1) the individual is a veteran, as defined in section 3701(b)(4) of this title;
 
-&emsp;(2) the individual submits an application for a loan guaranteed under this chapter within one year of an assignment of the individual to duty at a military installation in the United States designated by the Secretary of Defense as a housing shortage area;
+&emsp;(2) the individual submits an application for a loan guaranteed under this chapter within one year of an assignment of the individual toduty at a military installation in the United States designated by the Secretary of Defense as a housing shortage area;
 
 &emsp;(3) at the time the loan referred to in subsection (a) is made, the individual is an enlisted member, warrant officer, or an officer (other than a warrant officer) at a pay grade of O–3 or below;
 

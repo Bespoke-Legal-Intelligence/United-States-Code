@@ -10,7 +10,7 @@ If the Secretary has reason to believe that, because of a national emergency or 
 
 #### (c) Increase of farm quota on increase of national quota
 
-In case any national marketing quota or acreage allotment for any commodity is increased under this section, each farm marketing quota for the commodity shall be increased in the same ratio.
+In case any national marketing quota or acreage allotment for any commodity is increased under this section, each farm marketing quota or acreage allotment for the commodity shall be increased in the same ratio.
 
 (Feb. 16, 1938, ch. 30, title III, §371, 52 Stat. 64; Apr. 3, 1941, ch. 39, §5, 55 Stat. 92; Aug. 28, 1954, ch. 1041, title III, §312, 68 Stat. 904; Pub. L. 87–703, title III, §321, Sept. 27, 1962, 76 Stat. 626; Pub. L. 107–171, title I, §1309(h)(2), May 13, 2002, 116 Stat. 182; Pub. L. 108–357, title VI, §611(i), Oct. 22, 2004, 118 Stat. 1522.)
 

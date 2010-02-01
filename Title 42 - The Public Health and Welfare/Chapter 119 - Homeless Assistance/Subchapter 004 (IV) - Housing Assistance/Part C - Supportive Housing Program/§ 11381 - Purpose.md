@@ -4,6 +4,22 @@ The purpose of the program under this part is to promote the development of supp
 
 (Pub. L. 100–77, title IV, §421, as added Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4013.)
 
+#### Repeal of Section and Enactment of New Section
+
+<i>Pub. L. 111–22, div. B, title III, §1301(2), title V, §1503, May 20, 2009, 123 Stat. 1680, 1702, provided that, effective on, and applicable beginning on, the earlier of the expiration of the 18-month period beginning on May 20, 2009, or the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 of Pub. L. 111–22, this section is repealed and a new section 11381 is enacted to read as follows:</i>
+
+#### §11381. Purposes
+
+<i>The purposes of this part are—</i>
+
+&emsp;<i>(1) to promote community-wide commitment to the goal of ending homelessness;</i>
+
+&emsp;<i>(2) to provide funding for efforts by nonprofit providers and State and local governments to quickly rehouse homeless individuals and families while minimizing the trauma and dislocation caused to individuals, families, and communities by homelessness;</i>
+
+&emsp;<i>(3) to promote access to, and effective utilization of, mainstream programs described in section 11313(a)(7) of this title and programs funded with State or local resources; and</i>
+
+&emsp;<i>(4) to optimize self-sufficiency among individuals and families experiencing homelessness.</i>
+
 #### Prior Provisions
 
 A prior section 11381, Pub. L. 100–77, title IV, §421, July 22, 1987, 101 Stat. 498, related to establishment of a supportive housing demonstration program, prior to repeal by Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4013.

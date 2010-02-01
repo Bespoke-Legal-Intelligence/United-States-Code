@@ -60,7 +60,7 @@ If an action is brought under subsection (a) or (b) with respect to a partnershi
 
 &emsp;&emsp;(B) the period within which any tax attributable to such partnership items may be assessed against that partner expired.
 
-> &emsp;Notwithstanding subparagraph (B), any person treated under subsection (c) as a party to an action shall be permitted to participate in such action (or file a readjustment petition under subsection (b) or paragraph (2) of this subsection) solely for the purpose of asserting that the period of limitations for assessing any tax attributable to partnership items has expired with respect to such person, and the court having jurisdiction of such action shall have jurisdiction to consider such assertion.
+> &emsp;Notwithstanding subparagraph (B), any person treated under subsection (c) as a party to anaction shall be permitted to participate in such action (or file a readjustment petition under subsection (b) or paragraph (2) of this subsection) solely for the purpose of asserting that the period of limitations for assessing any tax attributable to partnership items has expired with respect to such person, and the court having jurisdiction of such action shall have jurisdiction to consider such assertion.
 
 #### (2) To file petition
 

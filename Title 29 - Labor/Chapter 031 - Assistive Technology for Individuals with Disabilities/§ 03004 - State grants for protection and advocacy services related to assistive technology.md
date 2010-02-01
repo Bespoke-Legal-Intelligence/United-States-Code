@@ -8,7 +8,7 @@
 
 #### (2) General authorities
 
-&emsp;In providing such assistance, protection and advocacy systems shall have the same general authorities as the systems are afforded under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.), as determined by the Secretary.
+&emsp;In providing such assistance, protection and advocacy systems shall have the same generalauthorities as the systems are afforded under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.), as determined by the Secretary.
 
 #### (b) Grants
 
@@ -50,7 +50,7 @@ Notwithstanding any other provision of law, the Secretary shall pay directly to 
 
 #### (2) Distribution of funds
 
-&emsp;A lead agency to which a grant amount is paid under paragraph (1) shall determine themanner in which funds made available through the grant will be allocated among the entities that were providing protection and advocacy services in that State on the date described in such paragraph, and shall distribute funds to such entities. In distributing such funds, the lead agency shall not establish any additional eligibility or procedural requirements for an entity in the State that supports protection and advocacy services through a protection and advocacy system. Such an entity shall comply with the same requirements (including reporting and enforcement requirements) as any other entity that receives funding under this section.
+&emsp;A lead agency to which a grant amount is paid under paragraph (1) shall determine the manner in which funds made available through the grant will be allocated among the entities that were providing protection and advocacy services in that State on the date described in such paragraph, and shall distribute funds to such entities. In distributing such funds, the lead agency shall not establish any additional eligibility or procedural requirements for an entity in the State that supports protection and advocacy services through a protection and advocacy system. Such an entity shall comply with the same requirements (including reporting and enforcement requirements) as any other entity that receives funding under this section.
 
 #### (3) Application of provisions
 

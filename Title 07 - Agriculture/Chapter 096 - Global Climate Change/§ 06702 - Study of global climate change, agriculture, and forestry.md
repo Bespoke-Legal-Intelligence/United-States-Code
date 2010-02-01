@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) identify whether climate change tolerance can be bred into these crops, the amount of time necessary for any such breeding, and the effects on the income of farmers;
 
-&emsp;&emsp;(B) evaluate existing genetic resource and breeding programs for crops for their abilityto develop new varieties that can tolerate potential climate changes; and
+&emsp;&emsp;(B) evaluate existing genetic resource and breeding programs for crops for their ability to develop new varieties that can tolerate potential climate changes; and
 
 &emsp;&emsp;(C) assess the potential for the development of crop varieties that are tolerant to climate changes and other environmental stresses, such as drought, pests, and salinity.
 

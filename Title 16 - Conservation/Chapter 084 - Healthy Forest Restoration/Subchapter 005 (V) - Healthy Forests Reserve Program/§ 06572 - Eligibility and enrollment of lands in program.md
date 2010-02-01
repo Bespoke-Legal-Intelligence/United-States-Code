@@ -8,7 +8,7 @@ The Secretary of Agriculture, in coordination with the Secretary of the Interior
 
 To be eligible for enrollment in the healthy forests reserve program, land shall be—
 
-&emsp;(1) private land the enrollment of which will restore, enhance, or otherwise measurably increase the likelihood of recovery of a specieslisted as endangered or threatened under section 1533 of this title; and
+&emsp;(1) private land the enrollment of which will restore, enhance, or otherwise measurably increase the likelihood of recovery of a species listed as endangered or threatened under section 1533 of this title; and
 
 &emsp;(2) private land the enrollment of which will restore, enhance, or otherwise measurably improve the well-being of species that—
 

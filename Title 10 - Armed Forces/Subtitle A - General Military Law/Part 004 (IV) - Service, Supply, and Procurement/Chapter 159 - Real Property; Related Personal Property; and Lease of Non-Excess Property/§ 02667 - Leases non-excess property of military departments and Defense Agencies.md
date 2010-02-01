@@ -30,7 +30,7 @@ Conditions on Leases.—A lease under subsection (a)—
 
 (c)
 
-Types of In-Kind Consideration.—(1) In addition to any in-kind consideration acceptedunder subsection (b)(5), in-kind consideration accepted with respect to a lease under this section may include the following:
+Types of In-Kind Consideration.—(1) In addition to any in-kind consideration accepted under subsection (b)(5), in-kind consideration accepted with respect to a lease under this section may include the following:
 
 &emsp;(A) Maintenance, protection, alteration, repair, improvement, or restoration (including environmental restoration) of property or facilities under the control of the Secretary concerned.
 
@@ -136,7 +136,7 @@ Deposit and Use of Proceeds.—(1)(A) The Secretary concerned shall deposit in a
 
 (4) Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law before January 1, 2005, shall be deposited into the account established under section 2906(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
-(5) Money rentals received by the United States from a lease under subsection (f) at a military installation approved for closure or realignment under a base closure law on or after January 1, 2005, shall be deposited into the account established under section 2906A(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
+(5) Money rentals received by the United States from a lease under subsection (f) at amilitary installation approved for closure or realignment under a base closure law on or after January 1, 2005, shall be deposited into the account established under section 2906A(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
 (f)
 
@@ -210,7 +210,7 @@ Definitions.—In this section:
 
 Exclusion of Certain Lands.—This section does not apply to oil, mineral, or phosphate lands.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 94–107, title VI, §607(7), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–412, title V, §501(b), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 96–513, title V, §511(92), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–295, §1(34), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §803, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 101–510, div. B, title XXVIII, §2806, Nov. 5, 1990, 104 Stat. 1787; Pub. L. 102–190, div. B, title XXVIII, §2862, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 102–484, div. B, title XXVIII, §2851, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–160, div. B, title XXIX, §2906, Nov. 30, 1993, 107 Stat. 1920; Pub. L. 104–106, div. A, title XV, §1502(a)(1), div. B, title XXVIII, §§2831(a), 2832, 2833, Feb. 10, 1996, 110 Stat. 502, 558, 559; Pub. L. 105–85, div. A, title III, §361(b)(2), title X, §1061(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1701, 1891; Pub. L. 105–261, div. B, title XXVIII, §2821, Oct. 17, 1998, 112 Stat. 2208; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416 to 1654A–418; Pub. L. 107–107, div. A, title X, §1013, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 107–217, §3(b)(12), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, §1041(a)(18), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title X, §1043(b)(15), (c)(3), Nov. 24, 2003, 117 Stat. 1611, 1612; Pub. L. 108–178, §4(b)(4), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–364, div. A, title VI, §662, div. B, title XXVIII, §2831, Oct. 17, 2006, 120 Stat. 2263, 2480; Pub. L. 110–181, div. A, title X, §1063(c)(13), div. B, title XXVIII, §2823, Jan. 28, 2008, 122 Stat. 323, 544; Pub. L. 110–417, div. B, title XXVIII, §§2812(a)–(d), (f)(1), 2831, Oct. 14, 2008, 122 Stat. 4725, 4726, 4728, 4732.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 94–107, title VI, §607(7), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–412, title V, §501(b), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 96–513, title V, §511(92), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–295, §1(34), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §803, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 101–510, div. B, title XXVIII, §2806, Nov. 5, 1990, 104 Stat. 1787; Pub. L. 102–190, div. B, title XXVIII, §2862, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 102–484, div. B, title XXVIII, §2851, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–160, div. B, title XXIX, §2906, Nov. 30, 1993, 107 Stat. 1920; Pub. L. 104–106, div. A, title XV, §1502(a)(1), div. B, title XXVIII, §§2831(a), 2832, 2833, Feb. 10, 1996, 110 Stat. 502, 558, 559; Pub. L. 105–85, div. A, title III, §361(b)(2), title X, §1061(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1701, 1891; Pub. L. 105–261, div. B, title XXVIII, §2821, Oct. 17, 1998, 112 Stat. 2208; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416 to 1654A–418; Pub. L. 107–107, div. A, title X, §1013, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 107–217, §3(b)(12), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, §1041(a)(18), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title X, §1043(b)(15), (c)(3), Nov. 24, 2003, 117 Stat. 1611, 1612; Pub. L. 108–178, §4(b)(4), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–364, div. A, title VI, §662, div. B, title XXVIII, §2831, Oct. 17, 2006, 120 Stat. 2263, 2480; Pub. L. 110–181, div. A, title X, §1063(c)(13), div. B, title XXVIII, §2823, Jan. 28, 2008, 122 Stat. 323, 544; Pub. L. 110–417, div. B, title XXVIII, §§2812(a)–(d), (f)(1), 2831, Oct. 14, 2008, 122 Stat. 4725, 4726, 4728, 4732; Pub. L. 111–84, div. A, title X, §1073(a)(26), Oct. 28, 2009, 123 Stat. 2474.)
 
 Historical and Revision Notes
 
@@ -276,7 +276,7 @@ Aug. 5, 1947, ch. 493, §§1, 6, 61 Stat. 774, 775; Sept. 28, 1951, ch. 434. §6
 
 34:522e.
 
-In subsection (a), the words “considers \* \* \* United States” are substituted for the words “shall deem \* \* \* Government”. The words “and conditions” are omitted as surplusage. The words “he considers” are substituted for the words “in his judgment”.
+In subsection (a), the words “considers United States” are substituted for the words “shall deem Government”. The words “and conditions” are omitted as surplusage. The words “he considers” are substituted for the words “in his judgment”.
 
 In subsection (a)(3), the words “excess property, as defined by section 472 of title 40” are substituted for the words “surplus to the needs of the Department within the meaning of the Surplus Property Act of 1944 \[Act of October 3, 1944 (58 Stat. 765)\]”, in 5:626s–3, 10:1270, and 34:522a, since the words “excess property” are so defined by the Federal Property and Administrative Services Act of 1949.
 
@@ -300,7 +300,9 @@ The National Environmental Policy Act of 1969, referred to in subsec. (g)(4)(A),
 
 #### Amendments
 
-2008—Pub. L. 110–417, §2812(f)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Leases: non-excess property of military departments”.
+2009—Subsec. (g)(1). Pub. L. 111–84 substituted “law, the Secretary concerned may” for “law, the Secretary of the military department concerned may”.
+
+2008—Pub. L. 110–417, §2812(f)(1), amended section catchline generally. Prior to amendment, catchlineread as follows: “Leases: non-excess property of military departments”.
 
 Subsec. (a). Pub. L. 110–417, §2812(a)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “Whenever the Secretary of a military department considers it advantageous to the United States, he may lease to such lessee and upon such terms as he considers will promote the national defense or be in the public interest, real or personal property that is—
 
@@ -340,11 +342,11 @@ Pub. L. 110–181, §2823(d)(2), redesignated par. (4) as (3).
 
 Subsec. (e)(4) to (6). Pub. L. 110–181, §2823(d)(2), redesignated pars. (5) and (6) as (4) and (5), respectively.
 
-Subsec. (g)(1). Pub. L. 110–417, §2812(d)(3), which directed amendment of par. (1) by substituting “Secretary concerned” for “Secretary of a military department”, was executed by making the substitution for “Secretary of the military department concerned” to reflect the probable intent of Congress.
+Subsec. (g)(1). Pub. L. 110–417, §2812(d)(3), which directed amendment of par. (1) by substituting “Secretary concerned” for “Secretary of a military department”, could not be executed because the phrase “Secretary of a military department” did not appear in text.
 
 Subsec. (h)(1). Pub. L. 110–181, §2823(c)(1), substituted “exceeds one year, or the fair market value of the lease” for “exceeds one year, and the fair market value of the lease”.
 
-Subsec. (h)(2) to (4). Pub. L. 110–181, §2823(c)(2), (3), added pars. (2) and (3), redesignated former par. (3) as\(4), and struck out former par. (2) which read as follows: “Not later than 45 days before entering into a lease described in paragraph (1), the Secretary concerned shall submit to Congress written notice describing the terms of the proposed lease and the competitive procedures used to select the lessee.”
+Subsec. (h)(2) to (4). Pub. L. 110–181, §2823(c)(2), (3), added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which read as follows: “Not later than 45 days before entering into a lease described in paragraph (1), the Secretary concerned shall submit to Congress written notice describing the terms of the proposed lease and the competitive procedures used to select the lessee.”
 
 Subsec. (h)(5). Pub. L. 110–417, §2831, added par. (5).
 
@@ -386,7 +388,7 @@ Subsec. (b)(5). Pub. L. 107–217, §3(b)(12)(B), substituted “section 1302 of
 
 Subsec. (d)(3). Pub. L. 107–314 struck out par. (3) which read as follows: “Not later than March 15 each year, the Secretary of Defense shall submit to the congressional defense committees a report which shall include—
 
-&emsp;“(A) an accounting of the receipt and use of all money rentals that were deposited and expended under this subsection during the fiscal year preceding the fiscal year in which the report is made; and
+&emsp;“(A) an accounting of the receipt and use of all money rentals that were deposited and expendedunder this subsection during the fiscal year preceding the fiscal year in which the report is made; and
 
 &emsp;“(B) a detailed explanation of each lease entered into, and of each amendment made to existing leases, during such preceding fiscal year.”
 
@@ -470,7 +472,7 @@ Subsec. (b)(5). Pub. L. 102–190, §2862(a)(2), (4), redesignated par. (4) as (
 
 Subsec. (d)(3). Pub. L. 102–190, §2862(b), redesignated subpar. (B) as par. (3), substituted “As part of the request for authorizations of appropriations submitted to the Committees on Armed Services of the Senate and House of Representatives for each fiscal year” for “As part of the request for authorizations of appropriations to such Committees for each fiscal year after fiscal year 1992”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “As part of the request for authorizations of appropriations for fiscal year 1992 to the Committees on Armed Services of the Senate and of the House of Representatives, the Secretary of Defense shall include an explanation of each lease from which money rentals will be received and deposited under this subsection during fiscal year 1991, together with an estimate of the amount to be received from each such lease and an explanation of the anticipated expenditures of such receipts.”
 
-1990—Subsec. (d). Pub. L. 101–510 added pars. (1) to (3), redesignated former par. (2) as (4), and struck out former par. (1) which read as follows: “Except as provided in paragraph (2), money rentals received by the United States directly from a lease under this section shall be covered into the Treasury as miscellaneous receipts. Payments for utilities or services furnished to the lessee under such a lease by the department concerned may be covered into the Treasury to the credit of the appropriation from which the cost of furnishing them was paid.”
+1990—Subsec. (d). Pub. L. 101–510 added pars. (1) to (3), redesignated former par. (2) as (4), and struck out former par. (1) which read as follows: “Except as provided in paragraph (2), money rentals received by theUnited States directly from a lease under this section shall be covered into the Treasury as miscellaneous receipts. Payments for utilities or services furnished to the lessee under such a lease by the department concerned may be covered into the Treasury to the credit of the appropriation from which the cost of furnishing them was paid.”
 
 1982—Subsec. (b)(4). Pub. L. 97–295 substituted “of” for “entitled ‘An Act making appropriations for the Legislative Branch of the Government for the fiscal year ending June 30, 1933, and for other purposes’, approved” after “section 321 of the Act”.
 

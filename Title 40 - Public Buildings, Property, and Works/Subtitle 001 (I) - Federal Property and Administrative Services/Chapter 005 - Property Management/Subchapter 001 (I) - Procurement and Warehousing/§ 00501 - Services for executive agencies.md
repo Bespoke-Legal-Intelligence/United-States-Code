@@ -8,7 +8,7 @@ Authority of Administrator of General Services.—
 
 In general.—The Administrator of General Services shall take action under this subchapter for an executive agency—
 
-&emsp;&emsp;(A) to the extent that the Administrator of General Services determines that the action is advantageous to the Federal Government in terms of economy, efficiency, or service; and
+&emsp;&emsp;(A) to the extent that the Administrator of General Services determines that the action is advantageous to the Federal Governmentin terms of economy, efficiency, or service; and
 
 &emsp;&emsp;(B) with due regard to the program activities of the agency.
 

@@ -8,7 +8,7 @@ The Organ Procurement and Transplantation Network may collect funds to offset ex
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), all funds received by the Organ Procurement and Transplantation Network under subsection (a) shall be promptly paid by the Organ Procurement and Transplantation Network to the Secretary of Health and Human Services for purposes of purchasing medals under this part for distribution and paying the administrative costs of the Secretary of Health and Human Services and the Secretary of the Treasury in carrying out this part.
+&emsp;Except as provided in paragraph (2), all funds received by the Organ Procurement and Transplantation Network under subsection (a) shall be promptly paid by the Organ Procurement and Transplantation Network to the Secretary of Health and Human Services for purposes of purchasing medals under this part for distribution and paying the administrativecosts of the Secretary of Health and Human Services and the Secretary of the Treasury in carrying out this part.
 
 #### (2) Limitation
 

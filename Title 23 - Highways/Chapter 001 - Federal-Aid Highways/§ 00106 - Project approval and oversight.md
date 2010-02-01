@@ -46,7 +46,7 @@ Non-nhs projects.—For projects under this title that are not on the National H
 
 &emsp;(3)
 
-Agreement.—The Secretary and the State shall enter into an agreement relatingto the extent to which the State assumes the responsibilities of the Secretary under this subsection.
+Agreement.—The Secretary and the State shall enter into an agreement relating to the extent to which the State assumes the responsibilities of the Secretary under this subsection.
 
 &emsp;(4)
 

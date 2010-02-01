@@ -12,7 +12,7 @@ Long-lines communication facilities.—The term “long-lines communication faci
 
 &emsp;(3)
 
-Transfer.—The term “transfer” means the conveyance by the Government of any element of ownership, including any estate or interest in property, and franchise rights, bysale, exchange, lease, easement, or permit, for cash, credit, or other property with or without warranty.
+Transfer.—The term “transfer” means the conveyance by the Government of any element of ownership, including any estate or interest in property, and franchise rights, by sale, exchange, lease, easement, or permit, for cash, credit, or other property with or without warranty.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1286.)
 

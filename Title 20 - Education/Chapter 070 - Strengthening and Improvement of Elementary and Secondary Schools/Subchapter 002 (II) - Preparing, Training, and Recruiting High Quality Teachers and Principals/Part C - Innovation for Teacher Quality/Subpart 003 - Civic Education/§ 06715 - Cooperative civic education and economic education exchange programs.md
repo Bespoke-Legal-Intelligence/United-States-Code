@@ -18,7 +18,7 @@ The purpose of the cooperative education exchange programs carried out under thi
 
 &emsp;(5) to provide support for—
 
-&emsp;&emsp;(A) independent research and evaluation to determine the effects of educational programs on students’ development of theknowledge, skills, and traits of character essential for the preservation and improvement of constitutional democracy; and
+&emsp;&emsp;(A) independent research and evaluation to determine the effects of educational programs on students’ development of the knowledge, skills, and traits of character essential for the preservation and improvement of constitutional democracy; and
 
 &emsp;&emsp;(B) effective participation in, and the preservation and improvement of, an efficient market economy.
 
@@ -28,7 +28,7 @@ In carrying out the cooperative education exchange programs assisted under this 
 
 &emsp;(1) provide to the participants from eligible countries—
 
-&emsp;&emsp;(A) seminars on the basic principles of United States constitutional democracy and economic system, including seminars on the major governmental and economic institutions and systems in the United States, and visits to such institutions;
+&emsp;&emsp;(A) seminars on the basic principles of United States constitutional democracy and economic system, including seminars on themajor governmental and economic institutions and systems in the United States, and visits to such institutions;
 
 &emsp;&emsp;(B) visits to school systems, institutions of higher education, and nonprofit organizations conducting exemplary programs in civics and government education, and economic education, in the United States;
 

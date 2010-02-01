@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) under section 8(a)(3)(B) of such Act (42 U.S.C. 1973gg–6(a)(3)(B)), the State shall coordinate the computerized list with State agency records on felony status; and
 
-&emsp;&emsp;&emsp;&emsp;(II) by reason of the death of the registrant under section 8(a)(4)(A) of such Act (42 U.S.C. 1973gg–6(a)(4)(A)), theState shall coordinate the computerized list with State agency records on death.
+&emsp;&emsp;&emsp;&emsp;(II) by reason of the death of the registrant under section 8(a)(4)(A) of such Act (42 U.S.C. 1973gg–6(a)(4)(A)), the State shall coordinate the computerized list with State agency records on death.
 
 &emsp;&emsp;&emsp;(iii) Notwithstanding the preceding provisions of this subparagraph, if a State is described in section 4(b) of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–2(b)), that State shall remove the names of ineligible voters from the computerized list in accordance with State law.
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;(B)(i) the individual has not previously voted in an election for Federal office in the State; or
 
-&emsp;&emsp;(ii) the individual has not previously voted in such an election in the jurisdiction andthe jurisdiction is located in a State that does not have a computerized list that complies with the requirements of subsection (a) of this section.
+&emsp;&emsp;(ii) the individual has not previously voted in such an election in the jurisdiction and the jurisdiction is located in a State that does not have a computerized list that complies with the requirements of subsection (a) of this section.
 
 #### (2) Requirements
 

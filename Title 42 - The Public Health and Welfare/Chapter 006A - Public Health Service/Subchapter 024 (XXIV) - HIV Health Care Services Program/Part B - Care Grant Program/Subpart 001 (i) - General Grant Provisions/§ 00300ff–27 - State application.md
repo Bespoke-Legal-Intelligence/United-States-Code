@@ -50,7 +50,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(A) establishes priorities for the allocation of funds within the State based on—
 
-&emsp;&emsp;&emsp;(i) size and demographics of the population of individuals with HIV/AIDS (as determined under paragraph (2)) and the needs of such population (as determined under paragraph (3));
+&emsp;&emsp;&emsp;(i) size and demographics of the population of individuals with HIV/AIDS (as determined under paragraph (2)) and theneeds of such population (as determined under paragraph (3));
 
 &emsp;&emsp;&emsp;(ii) availability of other governmental and non-governmental resources, including the State medicaid plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] and the State Children's Health Insurance Program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\] to cover health care costs of eligible individuals and families with HIV/AIDS;
 
@@ -64,13 +64,13 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(D) describes the services and activities to be provided and an explanation of the manner in which the elements of the program to be implemented by the State with such assistance will maximize the quality of health and support services available to individuals with HIV/AIDS throughout the State;
 
-&emsp;&emsp;(E) provides a description of the manner in which services funded with assistance provided under section 300ff–21 of this title willbe coordinated with other available related services for individuals with HIV/AIDS;
+&emsp;&emsp;(E) provides a description of the manner in which services funded with assistance provided under section 300ff–21 of this title will be coordinated with other available related services for individuals with HIV/AIDS;
 
 &emsp;&emsp;(F) provides a description of how the allocation and utilization of resources are consistent with the statewide coordinated statement of need (including traditionally underserved populations and subpopulations) developed in partnership with other grantees in the State that receive funding under this subchapter; and
 
 &emsp;&emsp;(G) includes key outcomes to be measured by all entities in the State receiving assistance under this subchapter; and <sup>2</sup>
 
-&emsp;(6) an assurance that the public health agency administering the grant for the State will periodically convene a meeting of individuals with HIV/AIDS, members of a Federally recognized Indian tribe as represented in the State, representatives of grantees under each part under this subchapter, providers, and public agency representatives for the purpose of developing a statewide coordinated statement of need; and
+&emsp;(6) an assurance that the public health agency administering the grant for the State will periodically convene a meeting of individuals with HIV/AIDS, members of a Federally recognized Indian tribe as represented in the State, representatives of grantees under each part under this subchapter, providers, and public agency representatives for the purpose of developing a statewide coordinated statement of need;
 
 &emsp;(7) an assurance by the State that—
 
@@ -102,7 +102,19 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;&emsp;(ii) by an entity that provides health services on a prepaid basis (except for a program administered by or providing the services of the Indian Health Service); and
 
-&emsp;&emsp;(G) entities within areas in which activities under the grant are carried out will maintain appropriate relationships with entities in the area served that constitute key points of access to the health care system for individuals with HIV/AIDS (including emergency rooms, substance abuse treatment programs, detoxification centers, adult and juvenile detention facilities, sexually transmitted disease clinics, HIV counseling and testing sites, mental health programs, and homeless shelters), and other entities under section <sup>3</sup> 300ff–22(c) and 300ff–52(a) of this title, for the purpose of facilitating early intervention for individuals newly diagnosed with HIV/AIDS and individuals knowledgeable of their HIV status but not in care.
+&emsp;&emsp;(G) entities within areas in which activities under the grant are carried out will maintain appropriate relationships with entities in the area served that constitute key points of access to the health care system for individuals with HIV/AIDS (including emergency rooms, substance abuse treatment programs, detoxification centers, adult and juvenile detention facilities, sexually transmitted disease clinics, HIV counseling and testing sites, mental health programs, and homeless shelters), and other entities under section <sup>3</sup> 300ff–22(c) and 300ff–52(a) of this title, for the purpose of facilitating early intervention for individuals newly diagnosed with HIV/AIDS and individuals knowledgeable of their HIV status but not in care; and
+
+&emsp;(8) a comprehensive plan—
+
+&emsp;&emsp;(A) containing an identification of individuals with HIV/AIDS as described in clauses (i) through (iii) of section 300ff–13(b)(2)(A) of this title and the strategy required under section 300ff–12(b)(4)(D)(iv) of this title;
+
+&emsp;&emsp;(B) describing the estimated number of individuals within the State with HIV/AIDS who do not know their status;
+
+&emsp;&emsp;(C) describing activities undertaken by the State to find the individuals described in subparagraph (A) and to make such individuals aware of their status;
+
+&emsp;&emsp;(D) describing the manner in which the State will provide undiagnosed individuals who are made aware of their status with access to medical treatment for their HIV/AIDS; and
+
+&emsp;&emsp;(E) describing efforts to remove legal barriers, including State laws and regulations, to routine testing.
 
 #### (c) Requirements regarding imposition of charges for services
 
@@ -192,21 +204,23 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;With respect to a State that does not make available the entire amount of the non-Federal contribution referred to in paragraph (1), the State shall continue to be eligible to receive Federal funds under a grant under section 300ff–21 of this title, except that the Secretary in providing Federal funds under the grant shall provide such funds (in accordance with the ratios prescribed in paragraph (1)) only with respect to the amount of funds contributed by such State.
 
-(July 1, 1944, ch. 373, title XXVI, §2617, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 590; amended Pub. L. 102–531, title III, §312(d)(29), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(c)(4), 12(c)(3), May 20, 1996, 110 Stat. 1355, 1373; Pub. L. 106–345, title II, §205, Oct. 20, 2000, 114 Stat. 1332; Pub. L. 109–415, title II, §204(a), (c), (d), title VII, §702(3), Dec. 19, 2006, 120 Stat. 2796, 2797, 2820.)
-
-#### Repeal of Section
-
-<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+(July 1, 1944, ch. 373, title XXVI, §2617, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 590; amended Pub. L. 102–531, title III, §312(d)(29), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(c)(4), 12(c)(3), May 20, 1996, 110 Stat. 1355, 1373; Pub. L. 106–345, title II, §205, Oct. 20, 2000, 114 Stat. 1332; Pub. L. 109–415, title II, §204(a), (c), (d), title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2796, 2797, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 9, Oct. 30, 2009, 123 Stat. 2885, 2895.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(5)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(5)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 Subsection (b)(2) of this section, referred to in subsec. (d)(1), was redesignated subsec. (b)(4) by Pub. L. 106–345, title II, §205(a)(1), Oct. 20, 2000, 114 Stat. 1332, and then subsec. (b)(5) by Pub. L. 109–415, title II, §204(c)(2), Dec. 19, 2006, 120 Stat. 2796.
 
 #### Amendments
 
-2006—Pub. L. 109–415, §204(a), substituted “section 300ff–21 of this title” for “this part” wherever appearing in subsecs. (a), (b), (c)(2), and (d).
+2009—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+
+Subsec. (b)(8). Pub. L. 111–87, §9, added par. (8).
+
+2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept, 30, 2009.
+
+Pub. L. 109–415, §204(a), substituted “section 300ff–21 of this title” for “this part” wherever appearing in subsecs. (a), (b), (c)(2), and (d).
 
 Subsec. (b). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing.
 
@@ -259,6 +273,10 @@ Subsec. (b)(4). Pub. L. 104–146, §3(c)(4)(B), redesignated par. (3) as (4).
 Subsec. (b)(4)(B)(iv). Pub. L. 104–146, §12(c)(3), which directed amendment of par. (3)(B)(iv) by inserting “section” before “300ff–25”, was executed by making the amendment in par. (4)(B)(iv) to reflect the probable intent of Congress and the redesignation of par. (3) as (4) by Pub. L. 104–146, §3(c)(4)(B). See above.
 
 1992—Subsec. (d)(3)(A). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+
+#### Effective Date of 2009 Amendment; Revival of Section
+
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by section 9 of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 1996 Amendment
 

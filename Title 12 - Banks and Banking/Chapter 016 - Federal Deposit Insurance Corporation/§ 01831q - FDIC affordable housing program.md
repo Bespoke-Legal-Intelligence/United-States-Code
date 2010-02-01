@@ -56,7 +56,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 &emsp;&emsp;(A) qualifying households (including qualifying households with members who are veterans); or
 
-&emsp;&emsp;(B) public agencies or nonprofit organizations that agree to (i) make the property available for occupancy by and maintain it as affordable for low-income families (including low-income families with members who are veterans) for the remaining useful life of such property, or (ii) make the property available for purchase by any such family who, except as provided in paragraph (4), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months.
+&emsp;&emsp;(B) public agencies or nonprofit organizations that agree to (i) make the property available for occupancy by and maintain it as affordable for low-income families (including low-income families with members who are veterans) for the remaining useful life of such property, or (ii) make the property available for purchase by any such family who, except as provided in paragraph (4),agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months.
 
 > &emsp;The restrictions described in clause (i) of subparagraph (B) shall be contained in the deed or other recorded instrument. If, upon the expiration of such 180-day period, no qualifying household, public agency, or nonprofit organization has made a bona fide offer to purchase the property, the Corporation may offer to sell the property to any purchaser. The Corporation shall actively market eligible single family properties for sale to low-income families and to low-income families with members who are veterans.
 
@@ -156,7 +156,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (1) In general
 
-&emsp;With respect to properties under paragraph (2), rents charged to tenants for units made available for occupancy by very low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 50 percent of the median income for the area, as determined by the Secretary, with adjustment for family size. Rents charged to tenants for units made available for occupancy by low-income families other than very low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 65 percent of the median income for the area, as determined by the Secretary, with adjustment for family size.
+&emsp;With respect to properties under paragraph (2), rents charged to tenants for units madeavailable for occupancy by very low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 50 percent of the median income for the area, as determined by the Secretary, with adjustment for family size. Rents charged to tenants for units made available for occupancy by low-income families other than very low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 65 percent of the median income for the area, as determined by the Secretary, with adjustment for family size.
 
 #### (2) Applicability
 
@@ -190,7 +190,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (2) Assistance by HUD
 
-&emsp;The Secretary shall take such action as may be necessary to expedite the processing of applications for assistance under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11361 et seq.\], and the National Housing Act \[12 U.S.C. 1701 et seq.\], to enable any organization or individual to purchase eligible residential property.
+&emsp;The Secretary shall take such action as may be necessary to expedite the processing of applications for assistance under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11360 et seq.\], and the National Housing Act \[12 U.S.C. 1701 et seq.\], to enable any organization or individual to purchase eligible residential property.
 
 #### (3) Assistance by FMHA
 
@@ -462,7 +462,7 @@ For purposes of this section:
 
 #### (9) Net realizable market value
 
-&emsp;The term “net realizable market value” means a price below the market value thattakes into account (A) any reductions in holding costs resulting from the expedited sale of a property, including foregone real estate taxes, insurance, maintenance costs, security costs, and loss of use of funds, and (B) the avoidance, if applicable, of fees paid to real estate brokers, auctioneers, or other individuals or organizations involved in the sale of property owned by the Corporation.
+&emsp;The term “net realizable market value” means a price below the market value that takes into account (A) any reductions in holding costs resulting from the expedited sale of a property, including foregone real estate taxes, insurance, maintenance costs, security costs, and loss of use of funds, and (B) the avoidance, if applicable, of fees paid to real estate brokers, auctioneers, or other individuals or organizations involved in the sale of property owned by the Corporation.
 
 #### (10) Nonprofit organization
 
@@ -544,7 +544,7 @@ For purposes of this section:
 
 &emsp;&emsp;The term “ineligible residential property” includes ineligible single family properties, ineligible multifamily housing properties, and ineligible condominium properties.
 
-(Sept. 21, 1950, ch. 967, §2\[40\], as added Pub. L. 102–242, title II, §241(a), Dec. 19, 1991, 105 Stat. 2317; amended Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592, 1593; Pub. L. 102–550, title V, §503(c)(4), Oct. 28, 1992, 106 Stat. 3780; Pub. L. 103–204, §§13, 14(a)(2), (d)(2), (e)(2), (f)(2), Dec. 17,1993, 107 Stat. 2391, 2393, 2396, 2398; Pub. L. 103–325, title VI, §602(a)(65), (66), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
+(Sept. 21, 1950, ch. 967, §2\[40\], as added Pub. L. 102–242, title II, §241(a), Dec. 19, 1991, 105 Stat. 2317; amended Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592, 1593; Pub. L. 102–550, title V, §503(c)(4), Oct. 28, 1992, 106 Stat. 3780; Pub. L. 103–204, §§13, 14(a)(2), (d)(2), (e)(2), (f)(2), Dec. 17, 1993, 107 Stat. 2391, 2393, 2396, 2398; Pub. L. 103–325, title VI, §602(a)(65), (66), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 
 #### References in Text
 
@@ -552,7 +552,7 @@ Section 1204(c)(3) of the Financial Institutions Reform, Recovery, and Enforceme
 
 The United States Housing Act of 1937, referred to in subsec. (g)(2), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (g)(2), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title IV of the Act is classified principally to subchapter IV (§11361 et seq.) of chapter 119 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (g)(2), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title IV of the Act is classified generally to subchapter IV (§11360 et seq.) of chapter 119 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 The National Housing Act, referred to in subsec. (g)(2), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
@@ -590,7 +590,7 @@ Subsec. (q). Pub. L. 103–204, §14(a)(2), added subsec. (q).
 
 1992—Subsec. (p)(4)(B). Pub. L. 102–550 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “that has an appraised value that does not exceed the applicable dollar amount specified in the first sentence of section 203(b)(2) of the National Housing Act, as such dollar amount is increased on an area-by-area basis under such section for areas with high prevailing housing sales prices, except that for purposes of this paragraph no such increase may exceed 150 percent of the dollar amount specified in section 203(b)(2).”
 
-Pub. L. 102–389 added subpar. (B) and struck out former subpar. (B) which read as follows: “that has an appraised value that does not exceed the applicable dollar amount set forth in the first sentence of section 203(b)(2) of the National Housing Act (which may, in the discretion of the Corporation, take into consideration any increase of such amount for high-cost areas).”
+Pub. L. 102–389 added subpar. (B) and struck out former subpar. (B) which read as follows: “that has anappraised value that does not exceed the applicable dollar amount set forth in the first sentence of section 203(b)(2) of the National Housing Act (which may, in the discretion of the Corporation, take into consideration any increase of such amount for high-cost areas).”
 
 Subsec. (p)(5)(B). Pub. L. 102–389 added subpar. (B) and struck out former subpar. (B) which read as follows: “that has an appraised value that does not exceed the applicable dollar amount set forth in section 221(d)(3)(ii) of the National Housing Act for elevator-type structures (which may, in the discretion of the Corporation, take into consideration any increase of such amount for high-cost areas).”
 

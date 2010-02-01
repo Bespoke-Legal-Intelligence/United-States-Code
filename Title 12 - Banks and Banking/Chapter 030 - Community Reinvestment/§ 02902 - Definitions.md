@@ -24,7 +24,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(D) the relocation of the home office or a branch office of a regulated financial institution;
 
-&emsp;&emsp;(E) the merger or consolidation with, or the acquisition of the assets, or the assumption of the liabilities of a regulated financial institution requiring approval under section 1828(c) of this title or under regulations issued under the authority of title IV <sup>2</sup> of theNational Housing Act \[12 U.S.C. 1724 et seq.\]; or
+&emsp;&emsp;(E) the merger or consolidation with, or the acquisition of the assets, or the assumption of the liabilities of a regulated financial institution requiring approval under section 1828(c) of this title or under regulations issued under the authority of title IV <sup>2</sup> of the National Housing Act \[12 U.S.C. 1724 et seq.\]; or
 
 &emsp;&emsp;(F) the acquisition of shares in, or the assets of, a regulated financial institution requiring approval under section 1842 of this title or section 408(e) <sup>2</sup> of the National Housing Act \[12 U.S.C. 1730a(e)\].
 

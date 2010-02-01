@@ -2,7 +2,7 @@
 
 #### (a) Available assistance
 
-The Secretary may utilize any personnel, facilities, bureaus, agencies, boards, administrations, offices, or other instrumentalities of theDepartment of Commerce which he may require to carry out the purposes of this chapter.
+The Secretary may utilize any personnel, facilities, bureaus, agencies, boards, administrations, offices, or other instrumentalities of the Department of Commerce which he may require to carry out the purposes of this chapter.
 
 #### (b) Cooperation of other agencies
 

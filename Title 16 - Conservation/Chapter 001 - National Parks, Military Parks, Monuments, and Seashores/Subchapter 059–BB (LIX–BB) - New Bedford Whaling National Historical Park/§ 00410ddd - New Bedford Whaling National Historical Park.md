@@ -6,7 +6,7 @@
 
 &emsp;The Congress finds that—
 
-&emsp;&emsp;(A) the New Bedford National Historic Landmark District and associated historic sites as described in subsection (c)(2) of this section, including the Schooner Ernestina, are National Historic Landmarks and are listed on the National Register of HistoricPlaces as historic sites associated with the history of whaling in the United States;
+&emsp;&emsp;(A) the New Bedford National Historic Landmark District and associated historic sites as described in subsection (c)(2) of this section, including the Schooner Ernestina, are National Historic Landmarks and are listed on the National Register of Historic Places as historic sites associated with the history of whaling in the United States;
 
 &emsp;&emsp;(B) the city of New Bedford was the 19th century capital of the world's whaling industry and retains significant architectural features, archival materials, and museum collections illustrative of this period;
 
@@ -50,7 +50,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(iii) The land along the eastern boundary of the New Bedford National Historic Landmark District over the east side of MacArthur Drive from the Route 6 overpass on the north to an extension of School Street on the south.
 
-&emsp;&emsp;(iv) The land north of Elm Street in New Bedford, bounded by Acushnet Avenue on the west, Route 6 (ramps) on the north, MacArthur Drive on the east, and Elm Street on the south.
+&emsp;&emsp;(iv) The land north of Elm Street in New Bedford, bounded by Acushnet Avenue onthe west, Route 6 (ramps) on the north, MacArthur Drive on the east, and Elm Street on the south.
 
 &emsp;(B) In addition to the sites, areas, and relics referred to in subparagraph (A), the Secretary may assist in the interpretation and preservation of each of the following:
 
@@ -82,7 +82,7 @@ To ensure that the contribution of Alaska Natives to the history of whaling in t
 
 &emsp;(A) The Secretary may consult and enter into cooperative agreements with interested entities and individuals to provide for the preservation, development, interpretation, and use of the park.
 
-&emsp;(B) Any payment made by the Secretary pursuant to a cooperative agreement under this paragraph shall be subject to an agreement that conversion, use, or disposal of the project so assisted for purposes contrary to the purposes of this section, as determined by the Secretary, shall result in a right of the United States to reimbursement of all funds made available to such project or the proportion ofthe increased value of the project attributable to such funds as determined at the time of such conversion, use, or disposal, whichever is greater.
+&emsp;(B) Any payment made by the Secretary pursuant to a cooperative agreement under this paragraph shall be subject to an agreement that conversion, use, or disposal of the project so assisted for purposes contrary to the purposes of this section, as determined by the Secretary, shall result in a right of the United States to reimbursement of all funds made available to such project or the proportion of the increased value of the project attributable to such funds as determined at the time of such conversion, use, or disposal, whichever is greater.
 
 #### (3) Non-Federal matching requirements
 

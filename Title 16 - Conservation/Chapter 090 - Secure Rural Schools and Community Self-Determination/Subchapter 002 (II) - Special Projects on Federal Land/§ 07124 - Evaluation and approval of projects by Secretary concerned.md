@@ -10,7 +10,7 @@ The Secretary concerned may make a decision to approve a project submitted by a 
 
 &emsp;(3) The project has been approved by the resource advisory committee in accordance with section 7125 of this title, including the procedures issued under subsection (e) of that section.
 
-&emsp;(4) A project description has been submitted by the resource advisory committee to theSecretary concerned in accordance with section 7123 of this title.
+&emsp;(4) A project description has been submitted by the resource advisory committee to the Secretary concerned in accordance with section 7123 of this title.
 
 &emsp;(5) The project will improve the maintenance of existing infrastructure, implement stewardship objectives that enhance forest ecosystems, and restore and improve land health and water quality.
 
@@ -112,7 +112,7 @@ Once the Secretary concerned accepts a project for review under section 7123 of 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary concerned may use funds from any appropriated account availableto the Secretary for the Federal land to assist in the administration of projects conducted under the pilot program.
+&emsp;&emsp;&emsp;The Secretary concerned may use funds from any appropriated account available to the Secretary for the Federal land to assist in the administration of projects conducted under the pilot program.
 
 #### (ii) Maximum amount of assistance
 

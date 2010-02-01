@@ -84,7 +84,7 @@ Purpose.—It is the purpose of this section \[amending this section\] to author
 
 &emsp;“(2) to begin to meet the urgent need for neighborhood housing services and mutual housing associations in neighborhoods across the Nation as the effort to preserve affordable housing for low- and moderate-income American families increases;
 
-&emsp;“(3) to increase and provide ongoing technical and capacity development assistance to neighborhood housing services and related public-private partnership-based nonprofit institutions involved in the revitalization of neighborhoods for the benefit of current residents, rehabilitation, preservation of existinghousing stock, and production of additional housing opportunities for low- and moderate-income families;
+&emsp;“(3) to increase and provide ongoing technical and capacity development assistance to neighborhood housing services and related public-private partnership-based nonprofit institutions involved in the revitalization of neighborhoods for the benefit of current residents, rehabilitation, preservation of existing housing stock, and production of additional housing opportunities for low- and moderate-income families;
 
 &emsp;“(4) to expand the loan purchase capacity of the national neighborhood housing services secondary market, operated by Neighborhood Housing Services of America, for loans made by neighborhood housing services to residents who are unable to meet conventional lending standards, and other loans for community development purposes;
 

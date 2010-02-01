@@ -2,7 +2,7 @@
 
 #### (a) Program authorized
 
-The Secretary, acting through the Administrator of the Substance Abuse and Mental Health Services Administration, and in consultation with the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the Bureau of Justice Assistance and the Director of the National Institutes of Health—
+The Secretary, acting through the Administrator of the Substance Abuse and MentalHealth Services Administration, and in consultation with the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the Bureau of Justice Assistance and the Director of the National Institutes of Health—
 
 &emsp;(1) shall award grants or contracts to public or nonprofit private entities to establish not more than four research, training, and technical assistance centers to carry out the activities described in subsection (c) of this section; and
 

@@ -2,7 +2,7 @@
 
 The professors, instructors, and students of the several land-grant, agricultural, and mechanical colleges of the United States shall be admitted to the marine biological station on the Gulf of Mexico on the coast of Florida, to pursue such investigation in fish culture and biology as may be practicable, without cost to the Government, under such rules and regulations as may be from time to time prescribed by the Secretary of Interior.
 
-(Mar. 1, 1911, ch. 189, §2, 36 Stat. 964; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; Aug. 1, 1914, ch. 223, §1, 38 Stat. 665; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231.)
+(Mar. 1, 1911, ch. 189, §2, 36 Stat. 964; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; Aug. 1, 1914, ch. 223, §1,38 Stat. 665; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231.)
 
 #### Codification
 

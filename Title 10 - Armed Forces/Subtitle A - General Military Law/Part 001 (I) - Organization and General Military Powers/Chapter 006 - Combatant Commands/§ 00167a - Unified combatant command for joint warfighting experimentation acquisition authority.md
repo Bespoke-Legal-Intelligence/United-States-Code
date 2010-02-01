@@ -6,7 +6,7 @@ Limited Acquisition Authority for Commander of Certain Unified Combatant Command
 
 (b)
 
-Command Described.—The commander to whom authority is delegated under subsection (a) is the commander of the unified combatant command that has the mission for joint warfighting experimentation, as assigned by the Secretary of Defense.
+Command Described.—The commander to whom authority is delegated under subsection (a) is the commander of the unified combatantcommand that has the mission for joint warfighting experimentation, as assigned by the Secretary of Defense.
 
 (c)
 

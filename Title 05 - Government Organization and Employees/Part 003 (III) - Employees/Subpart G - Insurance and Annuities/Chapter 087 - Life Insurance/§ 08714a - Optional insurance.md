@@ -90,7 +90,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353, §206, as amended generally by Pub. L. 99–336, §7(1), applicable to any justice or judge who retires under 28 U.S.C. 371(a) or (b) or 372(a) on or after January 1, 1982, see section 207 of Pub. L. 98–353, as amended generally by Pub. L. 99–336, §7(2), set out as a note under section 8706 of this title.
+Amendment by Pub. L. 98–353, §206, as amended generally by Pub. L. 99–336, §7(1), applicable to any justiceor judge who retires under 28 U.S.C. 371(a) or (b) or 372(a) on or after January 1, 1982, see section 207 of Pub. L. 98–353, as amended generally by Pub. L. 99–336, §7(2), set out as a note under section 8706 of this title.
 
 #### Effective Date of 1980 Amendment
 

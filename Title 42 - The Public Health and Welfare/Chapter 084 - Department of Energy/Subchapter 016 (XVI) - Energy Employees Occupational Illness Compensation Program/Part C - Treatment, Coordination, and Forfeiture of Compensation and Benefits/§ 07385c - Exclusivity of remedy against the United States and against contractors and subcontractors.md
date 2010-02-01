@@ -22,7 +22,7 @@ The liability of the United States or an instrumentality of the United States un
 
 &emsp;&emsp;(B) the covered employee's legal representative, spouse, dependents, survivors, and next of kin; and
 
-&emsp;&emsp;(C) any other person, including any third party as to whom the covered employee, or the covered employee's legal representative, spouse, dependents, survivors, or next of kin, has a cause of action relating to the cancer (including a specified cancer), chronic silicosis, covered beryllium illness, or death, otherwise entitled to recover damages fromthe United States, the instrumentality, the contractor, the subcontractor, or the employee, agent, or assign of one of them,
+&emsp;&emsp;(C) any other person, including any third party as to whom the covered employee, or the covered employee's legal representative, spouse, dependents, survivors, or next of kin, has a cause of action relating to the cancer (including a specified cancer), chronic silicosis, covered beryllium illness, or death, otherwise entitled to recover damages from the United States, the instrumentality, the contractor, the subcontractor, or the employee, agent, or assign of one of them,
 
 > because of the cancer (including a specified cancer), chronic silicosis, covered beryllium illness, or death in any proceeding or action including a direct judicial proceeding, a civil action, a proceeding in admiralty, or a proceeding under a tort liability statute or the common law.
 

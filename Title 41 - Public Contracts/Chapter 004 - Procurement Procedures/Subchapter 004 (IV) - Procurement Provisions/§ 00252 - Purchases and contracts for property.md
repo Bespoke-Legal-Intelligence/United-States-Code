@@ -14,7 +14,7 @@ It is the declared policy of the Congress that a fair proportion of the total pu
 
 #### (c) Authorization of erection, repair, or furnishing of public buildings or improvements; contracts for construction or repair of buildings, roads, sidewalks, sewers, mains, etc.; Federal Highway Lands Program
 
-(1) This subchapter does not (A) authorize the erection, repair, or furnishing of any publicbuilding or public improvement, but such authorization shall be required in the same manner as heretofore, or (B) permit any contract for the construction or repair of buildings, roads, sidewalks, sewers, mains, or similar items using procedures other than sealed-bid procedures under section 253(a)(2)(A) of this title, if the conditions set forth in section 253(a)(2)(A) of this title apply or the contract is to be performed outside the United States.
+(1) This subchapter does not (A) authorize the erection, repair, or furnishing of any public building or public improvement, but such authorization shall be required in the same manner as heretofore, or (B) permit any contract for the construction or repair of buildings, roads, sidewalks, sewers, mains, or similar items using procedures other than sealed-bid procedures under section 253(a)(2)(A) of this title, if the conditions set forth in section 253(a)(2)(A) of this title apply or the contract is to be performed outside the United States.
 
 (2) Section 253(a)(2)(A) of this title does not require the use of sealed-bid procedures in cases in which section 204(e) of title 23 applies.
 
@@ -68,7 +68,7 @@ Section effective July 1, 1949, see section 605, formerly section 505, of act Ju
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Emergency Relief for Small Business Concerns With Government Contracts
 

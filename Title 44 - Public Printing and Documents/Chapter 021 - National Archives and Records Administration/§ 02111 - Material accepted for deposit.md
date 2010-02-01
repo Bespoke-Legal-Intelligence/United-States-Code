@@ -70,7 +70,7 @@ Sec. 102. (a) None of the tape recordings or other materials referred to in sect
 
 “
 
-Sec. 103. The Archivist shall issue at the earliest possible date such regulations as may be necessary to assure the protection of the tape recordings and other materials referred to in section 101 from loss or destruction, and to prevent access to such recordings and materials by unauthorized persons. The Archivist may transfer such recordings and materials to a Presidential archival depository in accordance with section 2112 of title 44, United States Code.
+Sec. 103. The Archivist shall issue at the earliest possible date such regulations as may be necessary to assure the protection of the tape recordings and other materials referred to in section 101 from loss or destruction, and to prevent access to such recordings and materials by unauthorized persons. The Archivist maytransfer such recordings and materials to a Presidential archival depository in accordance with section 2112 of title 44, United States Code.
 
 #### “regulations relating to public access
 
@@ -118,5 +118,5 @@ Sec. 106. There is authorized to be appropriated such sums as may be necessary t
 
 #### Classified National Security Information
 
-For provisions authorizing Archivist to review, downgrade, and declassify information of former Presidents under control of Archivist pursuant to this section or provisions set out as a note under this section, see Ex. Ord. No. 12958, §3.6(b)(4), Apr. 17, 1995, 60 F.R. 19835, set out as a note under section 435 of Title 50, War and National Defense.
+For provisions authorizing Archivist to review, downgrade, and declassify information of former Presidents under control of Archivist pursuant to this section or provisions set out as a note under this section, see Ex. Ord. No. 13526, §3.5(b), Dec. 29, 2009, 75 F.R. 718, set out as a note under section 435 of Title 50, War and National Defense.
 

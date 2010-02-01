@@ -1,6 +1,6 @@
 ### §1350. Criminal penalty
 
-An officer or employee of the United States Government or of the District of Columbia government knowingly and willfully violating section 1341(a) or 1342 of this title shall be fined not more than $5,000, imprisoned for not more than 2 years, or both.
+An officer or employee of the United States Government or of the District of Columbia government knowingly and willfully violating section 1341(a) or 1342 of this title shall be fined notmore than $5,000, imprisoned for not more than 2 years, or both.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 926.)
 

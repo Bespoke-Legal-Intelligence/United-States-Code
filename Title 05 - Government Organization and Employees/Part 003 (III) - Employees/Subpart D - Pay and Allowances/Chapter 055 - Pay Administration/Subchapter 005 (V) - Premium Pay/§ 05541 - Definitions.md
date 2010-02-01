@@ -128,7 +128,7 @@ In paragraph (2)(iv), the provisions of former section 902(a)(5) and (b)(6) are 
 
 In paragraph (2)(v), the words “student-employee as defined by section 5351 of this title” are coextensive with and substituted for the enumeration of the employees in former section 902(a)(6).
 
-In paragraph (2)(iv), (vi), (vii), (viii), (ix), (xi), and (xii), the reference to former section 947 is omitted asthat section was repealed by the Act of Sept. 12, 1950, ch. 946, §301(85), 64 Stat. 843.
+In paragraph (2)(iv), (vi), (vii), (viii), (ix), (xi), and (xii), the reference to former section 947 is omitted as that section was repealed by the Act of Sept. 12, 1950, ch. 946, §301(85), 64 Stat. 843.
 
 In paragraph (2)(xii), the reference to former section 946 is omitted as unnecessary since that section is not carried into this subchapter. The words “Panama Canal Company” are substituted for “Panama Railroad Company” on authority of the Act of Sept. 2, 1950, ch. 1049, §2(a)(2), 64 Stat. 1038.
 
@@ -152,7 +152,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1980—Par. (2)(xiv). Pub. L. 96–465 struck out “within the meaning of section 401 of the Foreign Service Act of 1946” after “officer”.
 
-Par. (2)(xv). Pub. L. 96–465 substituted “a member of the Senior Foreign Service” for “a ‘Foreign Service information officer’ as provided for by the first section of the Act entitled ‘An Act to promote the foreign policy of the United States by strengthening and improving the Foreign Service personnel system of the International Communication Agency through establishment of a Foreign Service Information Officer Corps’, approved August 20, 1968”.
+Par. (2)(xv). Pub. L. 96–465 substituted “a member of the Senior Foreign Service” for “a ‘Foreign Service information officer’ as provided for by the first section of the Act entitled ‘An Act to promote the foreign policyof the United States by strengthening and improving the Foreign Service personnel system of the International Communication Agency through establishment of a Foreign Service Information Officer Corps’, approved August 20, 1968”.
 
 1979—Par. (2)(xii). Pub. L. 96–70 substituted “Commission” for “Company”.
 
@@ -220,7 +220,7 @@ Pub. L. 103–329, title VI, §633(a), Sept. 30, 1994, 108 Stat. 2425, provided 
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpendedbalances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau \[now National Weather Service\], Coast and Geodetic Survey \[now National Ocean Survey\], Environmental Data Service, National Environmental Satellite Center, and ESSA Research Laboratories.
+Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau \[now National Weather Service\], Coast and Geodetic Survey \[now National Ocean Survey\], Environmental Data Service, National Environmental Satellite Center, and ESSA Research Laboratories.
 
 #### Availability of Premium Pay for Attorneys Employed in Department of Justice
 

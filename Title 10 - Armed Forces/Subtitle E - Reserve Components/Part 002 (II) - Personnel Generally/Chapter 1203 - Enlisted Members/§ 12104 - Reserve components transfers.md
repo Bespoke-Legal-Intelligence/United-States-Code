@@ -34,7 +34,7 @@ July 9, 1952, ch. 608, §209 (as applicable to enlistments), 66 Stat. 484.
 
 50:929(b) (as applicable to enlistments).
 
-In subsection (a), the words “is entitled \* \* \* to be enlisted in any armed force that he chooses” are substituted for the words “shall \* \* \* be permitted to enlist \* \* \* in such Armed Force of the United States as he may elect”. The second sentence is substituted for 50:929(a) (words within parentheses). The words “of an Armed Force of the United States” are omitted as surplusage.
+In subsection (a), the words “is entitled to be enlisted in any armed force that he chooses” are substituted for the words “shall be permitted to enlist in such Armed Force of the United States as he may elect”. The second sentence is substituted for 50:929(a) (words within parentheses). The words “of an Armed Force of the United States” are omitted as surplusage.
 
 In subsection (b), the word “rest” is substituted for the words “remaining period”. The words “be required to” are omitted as surplusage.
 

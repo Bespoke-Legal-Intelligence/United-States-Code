@@ -22,7 +22,7 @@ Except as provided in subsection (b) of this section, nothing in this chapter ma
 
 &emsp;Paragraph (1) shall not be construed to apply to—
 
-&emsp;&emsp;(A) a State referendum concerning the approval of modifications to a State soybean promotion program that does not involve termination of the qualified State soybean board or State soybean assessment; and
+&emsp;&emsp;(A) a State referendum concerning the approval of modifications to a State soybeanpromotion program that does not involve termination of the qualified State soybean board or State soybean assessment; and
 
 &emsp;&emsp;(B) any State referendum regarding a State soybean promotion program that is originated by soybean producers.
 

@@ -48,7 +48,7 @@ Amendment by Pub. L. 97–448 effective as if included in the provisions of the 
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–248, title III, §340(c), Sept. 3, 1982, 96 Stat. 634, provided that: “The amendment made by this section \[amending this section and section 6035 of this title\] shall apply to taxable years of foreign corporations beginning after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title III, §340(c), Sept. 3, 1982, 96 Stat. 634, provided that: “The amendment made by this section \[amending this section and section 6035 of thistitle\] shall apply to taxable years of foreign corporations beginning after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
 Amendment by section 405(b), (c)(2) of Pub. L. 97–248 applicable with respect to acquisitions or dispositions of, or substantial changes in, interests in foreign partnerships occurring after Sept. 3, 1982, see section 407(b) of Pub. L. 97–248, set out as an Effective Date note under section 6046A of this title.
 

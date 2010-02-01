@@ -2,7 +2,7 @@
 
 In this part, the term “early childhood education program” means—
 
-&emsp;(1) a Head Start program or an Early Head Start program carried out under the HeadStart Act (42 U.S.C. 9831 et seq.), including a migrant or seasonal Head Start program or an Indian Head Start program;
+&emsp;(1) a Head Start program or an Early Head Start program carried out under the Head Start Act (42 U.S.C. 9831 et seq.), including a migrant or seasonal Head Start program or an Indian Head Start program;
 
 &emsp;(2) a State licensed or regulated child care program; or
 
@@ -12,7 +12,7 @@ In this part, the term “early childhood education program” means—
 
 #### References in Text
 
-The Head Start Act, referred to in par. (1), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Head Start Act, referred to in par. (1), is subchapter B (§635 et seq.) of chapter 8 of subtitle A oftitle VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 The Individuals with Disabilities Education Act, referred to in par. (3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 

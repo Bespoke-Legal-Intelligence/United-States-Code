@@ -2,15 +2,39 @@
 
 #### (a) Issuance
 
-A person shall not engage in business as a manufacturer or importer of tobacco products or as an export warehouse proprietor without a permit to engage in such business. Such permit, conditioned upon compliance with this chapter and regulations issued thereunder, shall be issued in such form and in such manner as the Secretary shall by regulation prescribe, to every person properly qualified under sections 5711 and 5712. A new permit may be required at such other time as the Secretary shall by regulation prescribe.
+A person shall not engage in business as a manufacturer or importer of tobacco products or processed tobacco or as an export warehouse proprietor without a permit to engage in such business. Such permit, conditioned upon compliance with this chapter and regulations issued thereunder, shall be issued in such form and in such manner as the Secretary shall by regulation prescribe, to every person properly qualified under sections 5711 and 5712. A new permit may be required at such other time as the Secretary shall by regulation prescribe.
 
-#### (b) Revocation
+#### (b) Suspension or revocation
 
-If the Secretary has reason to believe that any person holding a permit has not in good faith complied with this chapter, or with any other provision of this title involving intent to defraud, or has violated the conditions of such permit, or has failed to disclose any material information required or made any material false statement in the application for such permit, or has failed to maintain his premises in such manner as to protect the revenue, the Secretary shall issue an order, stating the facts charged, citing such person to show cause why his permit should not be suspended or revoked. If, after hearing, the Secretary finds that such person has not in good faith complied with this chapter or with any other provision of this title involving intent to defraud, has violated the conditions of such permit, has failed to disclose any material information required or made any material false statement in the application therefor, or has failed to maintain his premises in such manner as to protect the revenue, such permit shall be suspended for such period as the Secretary deems proper or shall be revoked.
+#### (1) Show cause hearing
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 712; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1421; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–33, title IX, §9302(h)(2)(A), Aug. 5, 1997, 111 Stat. 674.)
+&emsp;If the Secretary has reason to believe that any person holding a permit—
+
+&emsp;&emsp;(A) has not in good faith complied with this chapter, or with any other provision of this title involving intent to defraud,
+
+&emsp;&emsp;(B) has violated the conditions of such permit,
+
+&emsp;&emsp;(C) has failed to disclose any material information required or made any material false statement in the application for such permit,
+
+&emsp;&emsp;(D) has failed to maintain his premises in such manner as to protect the revenue,
+
+&emsp;&emsp;(E) is, by reason of previous or current legal proceedings involving a felony violation of any other provision of Federal criminal law relating to tobacco products, processed tobacco, cigarette paper, or cigarette tubes, not likely to maintain operations in compliance with this chapter, or
+
+&emsp;&emsp;(F) has been convicted of a felony violation of any provision of Federal or State criminal law relating to tobacco products, processed tobacco, cigarette paper, or cigarette tubes,
+
+> &emsp;the Secretary shall issue an order, stating the facts charged, citing such person to show cause why his permit should not be suspended or revoked.
+
+#### (2) Action following hearing
+
+&emsp;If, after hearing, the Secretary finds that such person has not shown cause why his permit should not be suspended or revoked, such permit shall be suspended for such period as the Secretary deems proper or shall be revoked.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 712; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1421; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–33, title IX, §9302(h)(2)(A), Aug. 5, 1997, 111 Stat. 674; Pub. L. 111–3, title VII, §702(a)(1)(B), (b)(2), Feb. 4, 2009, 123 Stat. 108, 109.)
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–3, §702(a)(1)(B), inserted “or processed tobacco” after “tobacco products”.
+
+Subsec. (b). Pub. L. 111–3, §702(b)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “If the Secretary has reason to believe that any person holding a permit has not in good faith complied with this chapter, or with any other provision of this title involving intent to defraud, or has violated the conditions of such permit, or has failed to disclose any material information required or made any material false statement in the application for such permit, or has failed to maintain his premises in such manner as to protect the revenue, the Secretary shall issue an order, stating the facts charged, citing such person to show cause why his permit should not be suspended or revoked. If, after hearing, the Secretary finds that such person has not in good faith complied with this chapter or with any other provision of this title involving intent to defraud, has violated the conditions of such permit, has failed to disclose any material information required or made any material false statement in the application therefor, or has failed to maintain his premises in such manner as to protect the revenue, such permit shall be suspended for such period as the Secretary deems proper or shall be revoked.”
 
 1997—Subsec. (a). Pub. L. 105–33 inserted “or importer” after “manufacturer”.
 
@@ -19,6 +43,10 @@ If the Secretary has reason to believe that any person holding a permit has not 
 1958—Subsec. (a). Pub. L. 85–859 substituted “manufacturer of tobacco products” for “manufacturer of articles”, included export warehouse proprietors, and struck out provisions which related to dealers in tobacco materials.
 
 Subsecs. (b), (c). Pub. L. 85–859 redesignated subsec. (c) as (b) and struck out former subsec. (b) that required permits to be posted.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by section 702(a)(1)(B) of Pub. L. 111–3 effective Apr. 1, 2009, see section 702(a)(6) of Pub. L. 111–3, set out as a note under section 5702 of this title.
 
 #### Effective Date of 1997 Amendment
 

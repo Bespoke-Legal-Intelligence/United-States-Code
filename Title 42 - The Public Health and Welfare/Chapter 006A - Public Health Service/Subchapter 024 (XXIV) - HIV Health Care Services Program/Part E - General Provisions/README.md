@@ -20,4 +20,5 @@ A prior section 300ff–80, act July 1, 1944, ch. 373, title XXVI, §2680, as ad
 - [&sect; 00300ff&#8211;85 - Privacy protections](%C2%A7%2000300ff%E2%80%9385%20-%20Privacy%20protections.md)
 - [&sect; 00300ff&#8211;86 - GAO report](%C2%A7%2000300ff%E2%80%9386%20-%20GAO%20report.md)
 - [&sect; 00300ff&#8211;87 - Severity of need index](%C2%A7%2000300ff%E2%80%9387%20-%20Severity%20of%20need%20index.md)
+- [&sect; 00300ff&#8211;87a - National HIV-AIDS testing goal](%C2%A7%2000300ff%E2%80%9387a%20-%20National%20HIV-AIDS%20testing%20goal.md)
 - [&sect; 00300ff&#8211;88 - Definitions](%C2%A7%2000300ff%E2%80%9388%20-%20Definitions.md)

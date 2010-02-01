@@ -16,10 +16,13 @@
 | :--- | ---: |
 | H. | Nonrefundable credit to holders of clean renewable energy bonds. |
 | I. | Qualified tax credit bonds. |
+| J. | Build America bonds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–5, div. B, title I, §1531(c)(6), Feb. 17, 2009, 123 Stat. 360, added item for subpart J.
 
 2008—Pub. L. 110–234, title XV, §15316(c)(5), May 22, 2008, 122 Stat. 1511, and Pub. L. 110–246, title XV, §15316(c)(5), June 18, 2008, 122 Stat. 2273, made identical amendments, adding items for subparts H and I and striking out item for former subpart H “Nonrefundable credit to holders of certain bonds”. The amendment by Pub. L. 110–234 was repealed by Pub. L. 110–246, §4(a), June 18, 2008, 122 Stat. 1664.
 
@@ -29,7 +32,7 @@
 
 1990—Pub. L. 101–508, title XI, §11813(b)(26), Nov. 5, 1990, 104 Stat. 1388–555, substituted “Rules for computing investment credit” for “Rules for computing credit for investment in certain depreciable property” in item for subpart E.
 
-1984—Pub. L. 98–369, div. A, title IV, §§471(a), 474(n)(3), July 18, 1984, 98 Stat. 825, 834, substituted “Nonrefundable personal credits” for “Credits allowable” in item for subpart A, “Foreign tax credit, etc” for “Rules for computing credit for investment in certain depreciable property” in item for subpart B, “Refundable credits” for “Rules for computing credit for expense of work incentive programs” in item for subpart C, and “Business-related credits” for “Rules for computing credit for employment of certain new employees” in item for subpart D, and added items for subparts E and F.
+1984—Pub. L. 98–369, div. A, title IV, §§471(a), 474(n)(3), July 18, 1984, 98 Stat. 825, 834, substituted “Nonrefundable personal credits” for “Credits allowable” in item for subpart A, “Foreign tax credit, etc” for “Rules for computing credit for investment in certain depreciable property” in item for subpart B, “Refundable credits”for “Rules for computing credit for expense of work incentive programs” in item for subpart C, and “Business-related credits” for “Rules for computing credit for employment of certain new employees” in item for subpart D, and added items for subparts E and F.
 
 1977—Pub. L. 95–30, title II, §202(d)(1)(B), May 23, 1977, 91 Stat. 147, added subpart D.
 
@@ -49,3 +52,4 @@
 - [Subpart G - Credit Against Regular Tax for Prior Year Minimum Tax Liability](Subpart%20G%20-%20Credit%20Against%20Regular%20Tax%20for%20Prior%20Year%20Minimum%20Tax%20Liability/README.md)
 - [Subpart H - Nonrefundable Credit to Holders of Clean Renewable Energy Bonds](Subpart%20H%20-%20Nonrefundable%20Credit%20to%20Holders%20of%20Clean%20Renewable%20Energy%20Bonds/README.md)
 - [Subpart I - Qualified Tax Credit Bonds](Subpart%20I%20-%20Qualified%20Tax%20Credit%20Bonds/README.md)
+- [Subpart J - Build America Bonds](Subpart%20J%20-%20Build%20America%20Bonds/README.md)

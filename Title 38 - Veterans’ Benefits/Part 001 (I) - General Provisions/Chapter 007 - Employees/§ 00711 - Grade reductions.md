@@ -14,7 +14,7 @@
 
 (d) Not later than the 45th day after the Secretary submits a report under subsection (a), the Comptroller General shall, upon request of either of such Committees, submit to such committees a report on the Secretary's compliance with such subsection. The Comptroller General shall include in the report the Comptroller General's opinion as to the accuracy of the Secretary's determination (and of the data supporting such determination) made under such subsection.
 
-(e) In the case of Department employees not described in subsection (c), the Secretary may not in any fiscal year implement a systematic reduction for the purpose of reducing the average salary cost for such Department employees that will result in a reduction in the number ofsuch Department employees at any specific grade level at a rate greater than the rate of the reductions systematically being made in the numbers of employees at such grade level in all other agencies and departments of the Federal Government combined.
+(e) In the case of Department employees not described in subsection (c), the Secretary may not in any fiscal year implement a systematic reduction for the purpose of reducing the average salary cost for such Department employees that will result in a reduction in the number of such Department employees at any specific grade level at a rate greater than the rate of the reductions systematically being made in the numbers of employees at such grade level in all other agencies and departments of the Federal Government combined.
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 396; amended Pub. L. 103–446, title XII, §1201(e)(5), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 104–316, title I, §119, Oct. 19, 1996, 110 Stat. 3836.)
 

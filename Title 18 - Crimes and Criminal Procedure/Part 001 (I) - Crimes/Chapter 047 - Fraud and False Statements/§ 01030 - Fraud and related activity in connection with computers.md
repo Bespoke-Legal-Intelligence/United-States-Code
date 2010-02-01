@@ -82,7 +82,7 @@
 
 &emsp;(B) except as provided in subparagraphs (E) and (F), a fine under this title, imprisonment for not more than 10 years, or both, in the case of—
 
-&emsp;&emsp;(i) an offense under subsection (a)(5)(A), which does not occur after a conviction for another offense under this section, if the offense caused (or, in the case of an attempted offense, would, if completed, have caused) aharm provided in subclauses (I) through (VI) of subparagraph (A)(i); or
+&emsp;&emsp;(i) an offense under subsection (a)(5)(A), which does not occur after a conviction for another offense under this section, if the offense caused (or, in the case of an attempted offense, would, if completed, have caused) a harm provided in subclauses (I) through (VI) of subparagraph (A)(i); or
 
 &emsp;&emsp;(ii) an attempt to commit an offense punishable under this subparagraph;
 
@@ -110,7 +110,7 @@
 
 (d)(1) The United States Secret Service shall, in addition to any other agency having such authority, have the authority to investigate offenses under this section.
 
-(2) The Federal Bureau of Investigation shall have primary authority to investigate offenses under subsection (a)(1) for any cases involving espionage, foreign counterintelligence, information protected against unauthorized disclosure for reasons of national defense or foreign relations, or Restricted Data (as that term is defined in section 11y of the Atomic Energy Act of 1954 (42 U.S.C. 2014(y)), except for offenses affecting the duties of the United States Secret Service pursuant to section 3056(a) of this title.
+(2) The Federal Bureau of Investigation shall have primary authority to investigate offensesunder subsection (a)(1) for any cases involving espionage, foreign counterintelligence, information protected against unauthorized disclosure for reasons of national defense or foreign relations, or Restricted Data (as that term is defined in section 11y of the Atomic Energy Act of 1954 (42 U.S.C. 2014(y)), except for offenses affecting the duties of the United States Secret Service pursuant to section 3056(a) of this title.
 
 (3) Such authority shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General.
 
@@ -166,7 +166,7 @@
 
 (g) Any person who suffers damage or loss by reason of a violation of this section may maintain a civil action against the violator to obtain compensatory damages and injunctive relief or other equitable relief. A civil action for a violation of this section may be brought only if the conduct involves 1 of the factors set forth in subclauses <sup>5</sup> (I), (II), (III), (IV), or (V) of subsection (c)(4)(A)(i). Damages for a violation involving only conduct described in subsection (c)(4)(A)(i)(I) are limited to economic damages. No action may be brought under this subsection unless such action is begun within 2 years of the date of the act complained of or the date of the discovery of the damage. No action may be brought under this subsection for the negligent design or manufacture of computer hardware, computer software, or firmware.
 
-(h) The Attorney General and the Secretary of the Treasury shall report to the Congress annually, during the first 3 years following the date of the enactment of this subsection, concerning investigations and prosecutions under subsection (a)(5).
+(h) The Attorney General and the Secretary of the Treasury shall report to the Congress annually, during the first 3 years following the dateof the enactment of this subsection, concerning investigations and prosecutions under subsection (a)(5).
 
 (i)(1) The court, in imposing sentence on any person convicted of a violation of this section, or convicted of conspiracy to violate this section, shall order, in addition to any other sentence imposed and irrespective of any provision of State law, that such person forfeit to the United States—
 
@@ -234,7 +234,7 @@ Subsec. (e)(2)(B). Pub. L. 110–326, §207, inserted “or affecting” after �
 
 Subsec. (g). Pub. L. 110–326, §204(a)(3)(B), in the third sentence, substituted “subsection (c)(4)(A)(i)(I)” for “subsection (a)(5)(B)(i)”.
 
-Pub. L. 110–326, §204(a)(3)(A), which directed substitution of “in subclauses (I), (II), (III), (IV), or (V) of subsection (c)(4)(A)(i)” for “in clauses (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” in the second sentence, was executed by making the substitution for “in clause (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” to reflect the probable intent of Congress.
+Pub. L. 110–326, §204(a)(3)(A), which directed substitution of “in subclauses (I), (II), (III), (IV), or (V) of subsection (c)(4)(A)(i)” for “in clauses (i), (ii), (iii), (iv),or (v) of subsection (a)(5)(B)” in the second sentence, was executed by making the substitution for “in clause (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” to reflect the probable intent of Congress.
 
 Subsecs. (i), (j). Pub. L. 110–326, §208, added subsecs. (i) and (j).
 
@@ -318,7 +318,7 @@ Pub. L. 104–294, §201(2)(B)(ii), redesignated subpar. (B) as (C).
 
 Subsec. (c)(3)(A). Pub. L. 104–294, §201(2)(C)(i), substituted “(a)(4), (a)(5)(A), (a)(5)(B), or (a)(7)” for “(a)(4) or (a)(5)(A)” and “under this section” for “under such subsection”.
 
-Subsec. (c)(3)(B). Pub. L. 104–294, §201(2)(C)(ii), substituted “(a)(4), (a)(5)(A), (a)(5)(B), (a)(5)(C), or (a)(7)” for “(a)(4) or (a)(5)” and “under this section” for “under such subsection”.
+Subsec. (c)(3)(B). Pub. L. 104–294, §201(2)(C)(ii), substituted “(a)(4), (a)(5)(A), (a)(5)(B), (a)(5)(C), or (a)(7)”for “(a)(4) or (a)(5)” and “under this section” for “under such subsection”.
 
 Subsec. (c)(4). Pub. L. 104–294, §201(2)(D), struck out par. (4) which read as follows: “a fine under this title or imprisonment for not more than 1 year, or both, in the case of an offense under subsection (a)(5)(B).”
 

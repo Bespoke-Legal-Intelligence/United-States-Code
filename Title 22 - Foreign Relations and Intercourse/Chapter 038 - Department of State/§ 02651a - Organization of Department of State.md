@@ -22,7 +22,7 @@
 
 #### (2) Under Secretary for Arms Control and International Security
 
-&emsp;There shall be in the Department of State, among the Under Secretaries authorized by paragraph (1), an Under Secretary for Arms Control and International Security, who shall assist the Secretary and the Deputy Secretary in matters related to international security policy, arms control, and nonproliferation. Subject to the direction of the President, the Under Secretary may attend and participate in meetings of the National Security Council in his role as Senior Advisor to the President and the Secretary of State on Arms Control and Nonproliferation Matters.
+&emsp;There shall be in the Department of State, among the Under Secretaries authorized by paragraph (1), an Under Secretary for Arms Control and International Security, who shall assist the Secretary and the Deputy Secretary in matters related to international security policy, arms control, and nonproliferation. Subject to the direction of the President, theUnder Secretary may attend and participate in meetings of the National Security Council in his role as Senior Advisor to the President and the Secretary of State on Arms Control and Nonproliferation Matters.
 
 #### (3) Under Secretary for Public Diplomacy
 
@@ -52,7 +52,7 @@
 
 &emsp;(A) There shall be in the Department of State an Assistant Secretary of State for Democracy, Human Rights, and Labor who shall be responsible to the Secretary of State for matters pertaining to human rights and humanitarian affairs (including matters relating to prisoners of war and members of the United States Armed Forces missing in action) in the conduct of foreign policy and such other related duties as the Secretary may from time to time designate. The Secretary of State shall carry out the Secretary's responsibility under section 2304 of this title through the Assistant Secretary.
 
-&emsp;(B) The Assistant Secretary of State for Democracy, Human Rights, and Labor shallmaintain continuous observation and review all matters pertaining to human rights and humanitarian affairs (including matters relating to prisoners of war and members of the United States Armed Forces missing in action) in the conduct of foreign policy including the following:
+&emsp;(B) The Assistant Secretary of State for Democracy, Human Rights, and Labor shall maintain continuous observation and review all matters pertaining to human rights and humanitarian affairs (including matters relating to prisoners of war and members of the United States Armed Forces missing in action) in the conduct of foreign policy including the following:
 
 &emsp;&emsp;(i) Gathering detailed information regarding humanitarian affairs and the observance of and respect for internationally recognized human rights in each country to which requirements of sections 2151n and 2304 of this title are relevant.
 
@@ -188,7 +188,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 &emsp;The officer of the Department of State with primary responsibility for assisting the Secretary with respect to international narcotics and law enforcement, or that officer's principal deputy, shall have substantial professional qualifications in the fields of (A) management, and (B) law enforcement or international narcotics policy.
 
-(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377; Pub. L. 108–25, title I, §102(a), May 27, 2003, 117 Stat. 721; Pub. L. 108–458, title VII, §7109(b)(1), Dec. 17, 2004, 118 Stat. 3793; Pub. L. 110–293, title I, §102, July 30, 2008, 122 Stat. 2933.)
+(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824,2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377; Pub. L. 108–25, title I, §102(a), May 27, 2003, 117 Stat. 721; Pub. L. 108–458, title VII, §7109(b)(1), Dec. 17, 2004, 118 Stat. 3793; Pub. L. 110–293, title I, §102, July 30, 2008, 122 Stat. 2933.)
 
 #### References in Text
 
@@ -214,7 +214,7 @@ Subsec. (f)(2)(B)(ii)(IV), (V). Pub. L. 110–293, §102(2)(A), (B), added subcl
 
 Subsec. (f)(2)(B)(ii)(VII), (VIII). Pub. L. 110–293, §102(2)(D), added subcls. (VII) and (VIII). Former subcls. (VII) and (VIII) redesignated (IX) and (XII), respectively.
 
-Subsec. (f)(2)(B)(ii)(IX). Pub. L. 110–293, §102(2)(E), inserted “Vietnam,” after “Uganda,” and “, and other countries in which the United States is implementing HIV/AIDS programs as part of its foreign assistance program” after “May 27, 2003” and inserted at end “In designating additional countries under this subparagraph, the President shall give priority to those countries in which there is a high prevalence of HIV or risk of significantly increasing incidence of HIV within the general population and inadequate financial means within the country.”,
+Subsec. (f)(2)(B)(ii)(IX). Pub. L. 110–293, §102(2)(E), inserted “Vietnam,” after “Uganda,” and “, and other countries in which the United States is implementing HIV/AIDS programs as part of its foreign assistance program” after “May 27, 2003” and inserted at end “In designating additional countries under this subparagraph, the President shall give priority to those countries in which there is a high prevalence of HIV or risk of significantly increasing incidence of HIV within the general population and inadequate financial means within the country.”
 
 Pub. L. 110–293, §102(2)(C), redesignated subcl. (VII) as (IX).
 
@@ -293,6 +293,10 @@ Coordinator.—There shall be established within the Department of State in the 
 “(c)
 
 Responsibilities.—That \[sic\] the Coordinator shall have primary responsibility for the oversight and coordination of all resources and international activities of the United States Government that provide assistance in developing countries for basic education. The individual serving as the Coordinator may not hold any other position in the Federal Government during the individual's time of service as Coordinator.”
+
+\[Pub. L. 111–117, div. F, title VII, §7064(a)(2), Dec. 16, 2009, 123 Stat. 3383, provided that: “There shall continue to be a Coordinator of United States Government Actions to Provide Basic Education Assistance in developing countries as established in section 664 of division J of Public Law 110–161 \[set out above\].”\]
+
+\[Pub. L. 111–8, div. H, title VII, §7064(a)(2), Mar. 11, 2009, 123 Stat. 899, provided that: “There shall continue to be a Coordinator of United States government actions to provide basic education assistance in developing countries as established in section 664 of division J of Public Law 110–161 \[set out above\].”\]
 
 #### Advisor for Activities Relating to Indigenous Peoples Internationally
 
@@ -432,7 +436,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §303\], Nov. 29, 1
 
 “(a)
 
-Designation.—The Secretary of State shall designate a senior-level official of the Department of State as the Science and Technology Adviser to the Secretary of State (in this section referred to as the ‘Adviser’). The Adviser shall have substantial experiencein the area of science and technology. The Adviser shall report to the Secretary of State through the appropriate Under Secretary of State.
+Designation.—The Secretary of State shall designate a senior-level official of the Department of State as the Science and Technology Adviser to the Secretary of State (in this section referred to as the ‘Adviser’). The Adviser shall have substantial experience in the area of science and technology. The Adviser shall report to the Secretary of State through the appropriate Under Secretary of State.
 
 “(b)
 

@@ -2,7 +2,7 @@
 
 #### (a) Permanent easements
 
-In the case of land enrolled in the healthy forests reserve program using a permanent easement (or an easement described in section6572(f)(1)(C)(ii) <sup>1</sup> of this title), the Secretary of Agriculture shall pay the owner of the land an amount equal to not less than 75 percent, nor more than 100 percent, of (as determined by the Secretary)—
+In the case of land enrolled in the healthy forests reserve program using a permanent easement (or an easement described in section 6572(f)(1)(C)(ii) <sup>1</sup> of this title), the Secretary of Agriculture shall pay the owner of the land an amount equal to not less than 75 percent, nor more than 100 percent, of (as determined by the Secretary)—
 
 &emsp;(1) the fair market value of the enrolled land during the period the land is subject to the easement, less the fair market value of the land encumbered by the easement; and
 
@@ -40,7 +40,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “6572(e)(1)(C)(ii)”.</i>
 

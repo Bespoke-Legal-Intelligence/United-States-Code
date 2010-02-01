@@ -20,7 +20,7 @@ To be eligible to participate in the scholarship and fellowship program, an indi
 
 #### (c) Agreement
 
-An agreement between the Secretary and a participant in the scholarship and fellowshipprogram established under this section shall be in writing, shall be signed by the participant, and shall include the following provisions:
+An agreement between the Secretary and a participant in the scholarship and fellowship program established under this section shall be in writing, shall be signed by the participant, and shall include the following provisions:
 
 &emsp;(1) The Secretary's agreement to provide the participant with educational assistance for a specified number of school years (not exceeding 5) during which the participant is pursuing a program of education in a qualifying field of study. The assistance may include payment of tuition, fees, books, laboratory expenses, and a stipend.
 
@@ -82,7 +82,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 1998—Subsec. (b)(1). Pub. L. 105–244 substituted “section 101 of the Higher Education Act of 1965” for “section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a))”.
 
-1994—Subsec. (a). Pub. L. 103–337 inserted at end “The scholarship and fellowship program shall be known as the ‘Marilyn Lloyd Scholarship and Fellowship Program’.”
+1994—Subsec. (a). Pub. L. 103–337 inserted at end “The scholarship and fellowship program shall be known asthe ‘Marilyn Lloyd Scholarship and Fellowship Program’.”
 
 #### Effective Date of 1998 Amendment
 

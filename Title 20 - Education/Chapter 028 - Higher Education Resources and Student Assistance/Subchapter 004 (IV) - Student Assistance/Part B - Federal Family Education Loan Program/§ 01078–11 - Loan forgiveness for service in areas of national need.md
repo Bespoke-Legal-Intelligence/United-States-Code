@@ -48,7 +48,7 @@ For purposes of this section, an individual is employed in an area of national n
 
 &emsp;&emsp;&emsp;(i) in an elementary school or secondary school as a teacher of a critical foreign language;
 
-&emsp;&emsp;&emsp;(ii) in an agency of the United States Government in a position that regularly requires the use of such critical foreign language; or
+&emsp;&emsp;&emsp;(ii) in an agency of the United States Government in a position that regularlyrequires the use of such critical foreign language; or
 
 &emsp;&emsp;&emsp;(iii) in an institution of higher education as a faculty member or instructor teaching a critical foreign language.
 
@@ -172,7 +172,7 @@ For purposes of this section, an individual is employed in an area of national n
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), for each school, academic, or calendar year of full-time employment in an area of national need describedin subsection (b) that a borrower completes on or after August 14, 2008, the Secretary shall forgive not more than $2,000 of the student loan obligation of the borrower that is outstanding after the completion of each such school, academic, or calendar year of employment, respectively.
+&emsp;Subject to paragraph (2), for each school, academic, or calendar year of full-time employment in an area of national need described in subsection (b) that a borrower completes on or after August 14, 2008, the Secretary shall forgive not more than $2,000 of the student loan obligation of the borrower that is outstanding after the completion of each such school, academic, or calendar year of employment, respectively.
 
 #### (2) Maximum amount
 
@@ -304,13 +304,13 @@ In this section:
 
 &emsp;&emsp;(A) has received, at a minimum, a graduate degree in speech-language pathology or communication sciences and disorders from an institution of higher education accredited by an agency or association recognized by the Secretary pursuant to section 1099b(a) of this title; and
 
-&emsp;&emsp;(B) provides speech-language pathology services under section 1395x(<i>ll</i>)(1) of title 42, or meets or exceeds the qualifications for a qualified speech-language pathologist under subsection (<i>ll</i>)(3) of such section.
+&emsp;&emsp;(B) provides speech-language pathology services under section 1395x(<i>ll</i>)(1) of title 42, or meets or exceeds the qualifications for a qualified speech-language pathologist under subsection (<i>ll</i>)(4) of such section.
 
 #### (h) Authorization of appropriations
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years to provide loan forgiveness in accordance with this section.
 
-(Pub. L. 89–329, title IV, §428K, as added Pub. L. 105–244, title IV, §425, Oct. 7, 1998, 112 Stat. 1699; amended Pub. L. 110–315, title IV, §430, Aug. 14, 2008, 122 Stat. 3236.)
+(Pub. L. 89–329, title IV, §428K, as added Pub. L. 105–244, title IV, §425, Oct. 7, 1998, 112 Stat. 1699; amended Pub. L. 110–315, title IV, §430, Aug. 14, 2008, 122 Stat. 3236; Pub. L. 111–39, title IV, §402(f)(7), July 1, 2009, 123 Stat. 1944.)
 
 #### References in Text
 
@@ -318,7 +318,13 @@ The Head Start Act, referred to in subsec. (g)(3)(C)(ii), (4)(B), is subchapter 
 
 #### Amendments
 
+2009—Subsec. (g)(9)(B). Pub. L. 111–39 substituted “under subsection (<i>ll</i>)(4) of such section” for “under subsection (<i>ll</i>)(3) of such section”.
+
 2008—Pub. L. 110–315 amended section generally. Prior to amendment, section related to loan forgiveness for child care providers.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date
 

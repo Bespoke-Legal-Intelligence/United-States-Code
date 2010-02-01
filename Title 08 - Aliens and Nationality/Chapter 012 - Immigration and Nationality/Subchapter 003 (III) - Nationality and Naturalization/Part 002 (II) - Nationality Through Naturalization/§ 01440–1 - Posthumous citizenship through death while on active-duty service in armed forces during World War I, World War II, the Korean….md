@@ -38,7 +38,7 @@ A person referred to in subsection (a) of this section is a person who, while an
 
 > &emsp;&emsp;whichever date is later;
 
-&emsp;&emsp;(B) the request is accompanied by a duly authenticated certificate from the executivedepartment under which the person served which states that the person satisfied the requirements of paragraphs (1) and (2) of subsection (b) of this section; and
+&emsp;&emsp;(B) the request is accompanied by a duly authenticated certificate from the executive department under which the person served which states that the person satisfied the requirements of paragraphs (1) and (2) of subsection (b) of this section; and
 
 &emsp;&emsp;(C) the Director finds that the person satisfied the requirement of subsection (b)(3) of this section.
 
@@ -58,7 +58,7 @@ November 24, 2003, referred to in subsec. (c)(2)(A)(i), was in the original “t
 
 Subsec. (c). Pub. L. 108–136, §1704(1), added heading and text of subsec. (c) and struck out former subsec. (c) which related to procedures for approval by the Attorney General of a request for the granting of posthumous citizenship.
 
-Subsec. (d). Pub. L. 108–136, §1704(2), added heading and text of subsec. (d) and struck out former subsec. (d) which read as follows: “If the Attorney General approves such a request to grant a person posthumous citizenship, the Attorney General shall send to the individual who filed the request a suitable document which states that the United States considers the person to have been a citizen of the United States at the time of the person's death.”
+Subsec. (d). Pub. L. 108–136, §1704(2), added heading and text of subsec. (d) and struck out former subsec. (d) which read as follows: “If the Attorney General approves such a request to grant a person posthumouscitizenship, the Attorney General shall send to the individual who filed the request a suitable document which states that the United States considers the person to have been a citizen of the United States at the time of the person's death.”
 
 Subsec. (e). Pub. L. 108–136, §1703(g)(1), struck out heading and text of subsec. (e). Text read as follows: “Nothing in this section or section 1430(d) of this title shall be construed as providing for any benefits under this chapter for any spouse, son, daughter, or other relative of a person granted posthumous citizenship under this section.”
 

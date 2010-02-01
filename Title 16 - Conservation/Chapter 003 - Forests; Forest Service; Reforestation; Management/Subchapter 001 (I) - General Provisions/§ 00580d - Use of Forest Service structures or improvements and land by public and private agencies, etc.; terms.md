@@ -1,6 +1,6 @@
 ### §580d. Use of Forest Service structures or improvements and land by public and private agencies, etc.; terms
 
-The Secretary of Agriculture, under such regulations as he may prescribe and at rates and for periods not exceeding thirty years as determined by him, is authorized to permit the use by public and private agencies, corporations, firms, associations, or individuals, of structures or improvements under the administrative control of the Forest Service and land used in connectiontherewith: <i>Provided</i>, That as all or a part of the consideration for permits issued under this section, the Secretary may require the permittees at their expense to renovate, recondition, improve, and maintain the structures and land to a satisfactory standard.
+The Secretary of Agriculture, under such regulations as he may prescribe and at rates and for periods not exceeding thirty years as determined by him, is authorized to permit the use by public and private agencies, corporations, firms, associations, or individuals, of structures or improvements under the administrative control of the Forest Service and land used in connection therewith: <i>Provided</i>, That as all or a part of the consideration for permits issued under this section, the Secretary may require the permittees at their expense to renovate, recondition, improve, and maintain the structures and land to a satisfactory standard.
 
 (Apr. 24, 1950, ch. 97, §7, 64 Stat. 84; Pub. L. 105–277, div. A, §101(e) \[title III, §346\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298.)
 
@@ -10,7 +10,7 @@ The Secretary of Agriculture, under such regulations as he may prescribe and at 
 
 #### Forest Service Facility Realignment and Enhancement
 
-Pub. L. 109–54, title V, Aug. 2, 2005, 119 Stat. 559, provided that:
+Pub. L. 109–54, title V, Aug. 2, 2005, 119 Stat. 559, as amended by Pub. L. 111–8, div. E, title IV, §422, Mar. 11, 2009, 123 Stat. 748, provided that:
 
 #### “SEC. 501. SHORT TITLE.
 
@@ -130,7 +130,7 @@ Notice of use of authority.—At least once a year, the Secretary shall submit t
 
 “(f)
 
-Duration of Authority.—The authority of the Secretary to initiate the conveyance of an administrative site under this title expires on September 30, 2008.
+Duration of Authority.—The authority of the Secretary to initiate the conveyance of an administrative site under this title expires on September 30, 2011.
 
 “(g)
 
@@ -156,7 +156,7 @@ Separate treatment of facility or improvement.—A facility or improvement on an
 
 &emsp;“(3)
 
-Reservation of interests.—In conveying an administrative site under this title, the Secretary may reserve such right, title, and interest in and to the administrative site as the Secretary determines to be necessary.
+Terms, conditions, and reservations.—The conveyance of an administrative site under this title shall be subject to such terms, conditions, and reservations as the Secretary determines to be necessary to protect the public interest\[.\]
 
 “(b)
 
@@ -200,7 +200,7 @@ Relation to Other Laws.—
 
 &emsp;“(1)
 
-Federal property disposal.—Subchapter I of chapter 5 of title 40, United States Code, shall not apply to the conveyance of an administrative site under this title.
+Federal property disposal.—Chapter 5 of subtitle I of title 40, United States Code, shall not apply to the conveyance of an administrative site under this title.
 
 &emsp;“(2)
 
@@ -220,7 +220,7 @@ Environmental review.—The National Environmental Policy Act of 1969 (42 U.S.C.
 
 &emsp;&emsp;“(A) analyze the most reasonably foreseeable use of the administrative site, as determined through a market analysis;
 
-&emsp;&emsp;“(B) determine whether or not to reserve any right, title, or interest in the administrative site under subsection (a)(3); and
+&emsp;&emsp;“(B) determine whether to include terms, conditions, and reservations under subsection (a)(3); and
 
 &emsp;&emsp;“(C) evaluate the alternative of not conveying the administrative site, consistent with the National Environmental Policy Act of 1969.
 

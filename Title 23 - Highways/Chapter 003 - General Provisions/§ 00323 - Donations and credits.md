@@ -70,7 +70,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pu
 
 2005—Subsec. (c). Pub. L. 109–59, §1902(1), inserted “, or a local government from offering to donate funds, materials, or services performed by local government employees,” before “in connection with a project”.
 
-Subsec. (e). Pub. L. 109–59, §1902(2), struck out heading and text of subsec. (e). Text read as follows: “A contribution by a unit of local government of real property, funds, or material in connection with a project eligible for assistance under this title shall be creditedagainst the State share of the project at the fair market value of the real property, funds, or material.”
+Subsec. (e). Pub. L. 109–59, §1902(2), struck out heading and text of subsec. (e). Text read as follows: “A contribution by a unit of local government of real property, funds, or material in connection with a project eligible for assistance under this title shall be credited against the State share of the project at the fair market value of the real property, funds, or material.”
 
 1998—Pub. L. 105–178, §1301(d)(1), substituted “Donations and credits” for “Donations” in section catchline.
 

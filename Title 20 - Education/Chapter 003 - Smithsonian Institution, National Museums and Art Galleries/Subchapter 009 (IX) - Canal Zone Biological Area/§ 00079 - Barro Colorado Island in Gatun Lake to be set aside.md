@@ -14,5 +14,5 @@ Section was formerly classified to section 1381 of Title 48, Territories and Ins
 
 #### Termination of War and Emergencies
 
-Joint Res. July 25, 1947, ch. 327, §3, 61 Stat. 451, provided that in the interpretation of this section, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
+Joint Res. July 25, 1947, ch. 327, §3, 61 Stat. 451, provided that in the interpretation of this section, thedate July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
 

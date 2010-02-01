@@ -12,7 +12,7 @@
 
 (d) The results of a test under this section are inadmissible against the person tested in any Federal or State civil or criminal case or proceeding.
 
-(e) Not later than 1 year after the date of the enactment of this section, the Attorney General shall issue rules to implement this section. Such rules shall require that the results of any test are communicated only to the person tested, and, if the results of the test indicate the presence of the virus, to correctional facility personnel consistent with guidelines issued by the Bureau of Prisons. Such rules shall also provide for procedures designed to protect the privacy of a person requesting that the test be performed and the privacy of the person tested.
+(e) Not later than 1 year after the date of the enactment of this section, the Attorney Generalshall issue rules to implement this section. Such rules shall require that the results of any test are communicated only to the person tested, and, if the results of the test indicate the presence of the virus, to correctional facility personnel consistent with guidelines issued by the Bureau of Prisons. Such rules shall also provide for procedures designed to protect the privacy of a person requesting that the test be performed and the privacy of the person tested.
 
 (Added Pub. L. 105–370, §2(a), Nov. 12, 1998, 112 Stat. 3374.)
 

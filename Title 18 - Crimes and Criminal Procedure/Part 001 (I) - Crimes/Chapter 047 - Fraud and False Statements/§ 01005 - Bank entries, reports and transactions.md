@@ -4,7 +4,7 @@ Whoever, being an officer, director, agent or employee of any Federal Reserve ba
 
 Whoever, without such authority, makes, draws, issues, puts forth, or assigns any certificate of deposit, draft, order, bill of exchange, acceptance, note, debenture, bond, or other obligation, or mortgage, judgment or decree; or
 
-Whoever makes any false entry in any book, report, or statement of such bank, company, branch, agency, or organization with intent toinjure or defraud such bank, company, branch, agency, or organization, or any other company, body politic or corporate, or any individual person, or to deceive any officer of such bank, company, branch, agency, or organization, or the Comptroller of the Currency, or the Federal Deposit Insurance Corporation, or any agent or examiner appointed to examine the affairs of such bank, company, branch, agency, or organization, or the Board of Governors of the Federal Reserve System; or
+Whoever makes any false entry in any book, report, or statement of such bank, company, branch, agency, or organization with intent to injure or defraud such bank, company, branch, agency, or organization, or any other company, body politic or corporate, or any individual person, or to deceive any officer of such bank, company, branch, agency, or organization, or the Comptroller of the Currency, or the Federal Deposit Insurance Corporation, or any agent or examiner appointed to examine the affairs of such bank, company, branch, agency, or organization, or the Board of Governors of the Federal Reserve System; or
 
 Whoever with intent to defraud the United States or any agency thereof, or any financial institution referred to in this section, participates or shares in or receives (directly or indirectly) any money, profit, property, or benefits through any transaction, loan, commission, contract, or any other act of any such financial institution—
 
@@ -18,7 +18,7 @@ As used in this section, the term “national bank” is synonymous with “nati
 
 Based on sections 592, 597 of title 12, U.S.C., 1940 ed., Banks and Banking (R.S. §5209; Dec. 23, 1913, ch. 6, §22(i) as added June 19, 1934, ch. 653, §3, 48 Stat. 1107; Sept. 26, 1918, ch. 177, §7, 40 Stat. 972; Aug. 23, 1935, ch. 614, §316, 49 Stat. 712).
 
-(See reviser's note under section 656 of this title for comprehensive statement of reasons for separating section 592 of title 12, U.S.C., 1940 ed., Banks and Banking, into three revised sections, and section 597 thereof into two revised sections, with the consequent extensive changes in phraseology, style, and arrangement.)
+(See reviser's note under section 656 of this title for comprehensive statement of reasons for separating section 592 of title 12, U.S.C., 1940 ed., Banks and Banking, into three revised sections, and section 597 thereof intotwo revised sections, with the consequent extensive changes in phraseology, style, and arrangement.)
 
 In this section, national bank receivers and Federal reserve agents were not included in the initial enumeration of persons at whom the act is directed, since the provisions of this section, unlike section 656 of this title, are not directed at such receivers and agents.
 

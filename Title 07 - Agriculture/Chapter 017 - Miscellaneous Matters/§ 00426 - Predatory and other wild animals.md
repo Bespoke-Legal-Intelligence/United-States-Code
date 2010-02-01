@@ -16,3 +16,97 @@ Functions of Secretary of Agriculture administered through Bureau of Biological 
 
 Pub. L. 99–190, §101(a) \[H.R. 3037, title I, §101\], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, §106, Dec. 22, 1987, 101 Stat. 1329–433, provided in part: “That effective upon the date of enactment of this Act \[Dec. 19, 1985\] and notwithstanding any other provision of law, the authorities of the Secretary of Agriculture under the Act of March 2, 1931 (46 Stat. 1468; 7 U.S.C. 426–426b), (transferred to the Secretary of the Interior pursuant to section 4(f) of 1939 Reorganization Plan No. II) and all personnel, property, records, unexpended balances of appropriations, allocations and other funds of the Fish and Wildlife Service, United States Department of the Interior used, held, available or to be made available in connection with the administration of such Act, are hereby transferred from the Secretary of the Interior to the Secretary of Agriculture, and this appropriation shall be available to carry out such authorities.”
 
+#### Wolf Livestock Loss Demonstration Project
+
+Pub. L. 111–11, title VI, subtitle C, Mar. 30, 2009, 123 Stat. 1170, provided that:
+
+#### “SEC. 6201. DEFINITIONS.
+
+“In this subtitle:
+
+&emsp;“(1)
+
+Indian tribe.—The term ‘Indian tribe’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+
+&emsp;“(2)
+
+Livestock.—The term ‘livestock’ means cattle, swine, horses, mules, sheep, goats, livestock guard animals, and other domestic animals, as determined by the Secretary.
+
+&emsp;“(3)
+
+Program.—The term ‘program’ means the demonstration program established under section 6202(a).
+
+&emsp;“(4)
+
+Secretaries.—The term ‘Secretaries’ means the Secretary of the Interior and the Secretary of Agriculture, acting jointly.
+
+#### “SEC. 6202. WOLF COMPENSATION AND PREVENTION PROGRAM.
+
+“(a)
+
+In General.—The Secretaries shall establish a 5-year demonstration program to provide grants to States and Indian tribes—
+
+&emsp;“(1) to assist livestock producers in undertaking proactive, non-lethal activities to reduce the risk of livestock loss due to predation by wolves; and
+
+&emsp;“(2) to compensate livestock producers for livestock losses due to such predation.
+
+“(b)
+
+Criteria and Requirements.—The Secretaries shall—
+
+&emsp;“(1) establish criteria and requirements to implement the program; and
+
+&emsp;“(2) when promulgating regulations to implement the program under paragraph (1), consult with States that have implemented State programs that provide assistance to—
+
+&emsp;&emsp;“(A) livestock producers to undertake proactive activities to reduce the risk of livestock loss due to predation by wolves; or
+
+&emsp;&emsp;“(B) provide compensation to livestock producers for livestock losses due to such predation.
+
+“(c)
+
+Eligibility.—To be eligible to receive a grant under subsection (a), a State or Indian tribe shall—
+
+&emsp;“(1) designate an appropriate agency of the State or Indian tribe to administer the 1 or more programs funded by the grant;
+
+&emsp;“(2) establish 1 or more accounts to receive grant funds;
+
+&emsp;“(3) maintain files of all claims received under programs funded by the grant, including supporting documentation;
+
+&emsp;“(4) submit to the Secretary—
+
+&emsp;&emsp;“(A) annual reports that include—
+
+&emsp;&emsp;&emsp;“(i) a summary of claims and expenditures under the program during the year; and
+
+&emsp;&emsp;&emsp;“(ii) a description of any action taken on the claims; and
+
+&emsp;&emsp;“(B) such other reports as the Secretary may require to assist the Secretary in determining the effectiveness of activities provided assistance under this section; and
+
+&emsp;“(5) promulgate rules for reimbursing livestock producers under the program.
+
+“(d)
+
+Allocation of Funding.—The Secretaries shall allocate funding made available to carry out this subtitle—
+
+&emsp;“(1) equally between the uses identified in paragraphs (1) and (2) of subsection (a); and
+
+&emsp;“(2) among States and Indian tribes based on—
+
+&emsp;&emsp;“(A) the level of livestock predation in the State or on the land owned by, or held in trust for the benefit of, the Indian tribe;
+
+&emsp;&emsp;“(B) whether the State or Indian tribe is located in a geographical area that is at high risk for livestock predation; or
+
+&emsp;&emsp;“(C) any other factors that the Secretaries determine are appropriate.
+
+“(e)
+
+Eligible Land.—Activities and losses described in subsection (a) may occur on Federal, State, or private land, or land owned by, or held in trust for the benefit of, an Indian tribe.
+
+“(f)
+
+Federal Cost Share.—The Federal share of the cost of any activity provided assistance made available under this subtitle shall not exceed 50 percent of the total cost of the activity.
+
+#### “SEC. 6203. AUTHORIZATION OF APPROPRIATIONS.
+
+“There is authorized to be appropriated to carry out this subtitle $1,000,000 for fiscal year 2009 and each fiscal year thereafter.”
+

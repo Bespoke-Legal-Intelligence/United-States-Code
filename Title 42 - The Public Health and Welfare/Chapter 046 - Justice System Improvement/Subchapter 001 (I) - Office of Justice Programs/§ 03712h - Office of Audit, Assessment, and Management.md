@@ -12,7 +12,7 @@
 
 #### (3) Exclusivity
 
-&emsp;The Office shall be the exclusive element of the Department of Justice, other than the Inspector General, performing functions and activities for the purpose specified in paragraph\(2). There are hereby transferred to the Office all functions and activities, other than functions and activities of the Inspector General, for such purpose performed immediately before January 5, 2006, by any other element of the Department.
+&emsp;The Office shall be the exclusive element of the Department of Justice, other than the Inspector General, performing functions and activities for the purpose specified in paragraph (2). There are hereby transferred to the Office all functions and activities, other than functions and activities of the Inspector General, for such purpose performed immediately before January 5, 2006, by any other element of the Department.
 
 #### (b) Covered programs
 

@@ -10,7 +10,7 @@ Expiration.—All terms of protection provided in this section shall run to the 
 
 (c)
 
-Termination of Rights.—Upon expiration or termination of protection in a particular design under this chapter, all rights under this chapter in the design shall terminate, regardlessof the number of different articles in which the design may have been used during the term of its protection.
+Termination of Rights.—Upon expiration or termination of protection in a particular design under this chapter, all rights under this chapter in the design shall terminate, regardless of the number of different articles in which the design may have been used during the term of its protection.
 
 (Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2907.)
 

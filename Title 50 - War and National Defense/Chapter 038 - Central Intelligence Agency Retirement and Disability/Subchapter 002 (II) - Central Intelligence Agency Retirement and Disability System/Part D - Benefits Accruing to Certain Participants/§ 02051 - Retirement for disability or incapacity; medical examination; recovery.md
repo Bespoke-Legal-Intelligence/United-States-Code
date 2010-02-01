@@ -94,7 +94,7 @@
 
 #### (3) Greater benefit
 
-&emsp;Paragraphs (1) and (2) do not bar the right of a claimant to the greater benefit conferred byeither this subchapter or subchapter I of chapter 81 of title 5.
+&emsp;Paragraphs (1) and (2) do not bar the right of a claimant to the greater benefit conferred by either this subchapter or subchapter I of chapter 81 of title 5.
 
 #### (f) Offset from survivor annuity for workers’ compensation payment
 
@@ -126,7 +126,7 @@ A prior section 231 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1046;
 
 #### Amendments
 
-<b>1993</b>—Subsec. (d)(2). Pub. L. 103–178 substituted “2071(a) of this title” for “2071(b) of this title”.
+1993—Subsec. (d)(2). Pub. L. 103–178 substituted “2071(a) of this title” for “2071(b) of this title”.
 
 #### Effective Date of 1993 Amendment
 

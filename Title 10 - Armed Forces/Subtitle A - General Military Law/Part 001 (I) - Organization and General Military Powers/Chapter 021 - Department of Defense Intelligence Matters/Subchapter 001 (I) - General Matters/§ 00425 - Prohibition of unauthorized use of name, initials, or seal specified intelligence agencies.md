@@ -16,9 +16,9 @@ Prohibition.—Except with the written permission of both the Secretary of Defen
 
 (b)
 
-Authority To Enjoin Violations.—Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constituteconduct prohibited by subsection (a), the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other actions as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought.
+Authority To Enjoin Violations.—Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (a), the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other actions as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought.
 
-(Added and amended Pub. L. 105–107, title V, §503(a), (b), Nov. 20, 1997, 111 Stat. 2262; Pub. L. 108–136, div. A, title IX, §921(d)(6), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 110–181, div. A, title IX, §931(a)(6), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(6), Oct. 14, 2008, 122 Stat. 4576.)
+(Added and amended Pub. L. 105–107, title V, §503(a), (b), Nov. 20, 1997, 111 Stat. 2262; Pub. L. 108–136, div. A, title IX, §921(d)(6), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 110–181, div. A, title IX, §931(a)(6), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(6), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475.)
 
 #### Codification
 
@@ -30,7 +30,9 @@ A prior section 425, added Pub. L. 103–178, title V, §503(a)(1), Dec. 3, 1993
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181 and Pub. L. 110–417 amended subsec. (a) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
+2009—Subsec. (a). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(6). See 2008 Amendment note below.
+
+2008—Subsec. (a). Pub. L. 110–181 and Pub. L. 110–417, §932(a)(6), amended subsec. (a) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions. Pub. L. 110–417, §932(a)(6), was repealed by Pub. L. 111–84.
 
 2003—Subsec. (a)(5). Pub. L. 108–136 added par. (5).
 
@@ -39,4 +41,8 @@ A prior section 425, added Pub. L. 103–178, title V, §503(a)(1), Dec. 3, 1993
 #### Change of Name
 
 Reference to National Imagery and Mapping Agency considered to be reference to National Geospatial-Intelligence Agency, see section 921(a) of Pub. L. 108–136, set out as a note under section 441 of this title.
+
+#### Effective Date of 2009 Amendment
+
+Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 

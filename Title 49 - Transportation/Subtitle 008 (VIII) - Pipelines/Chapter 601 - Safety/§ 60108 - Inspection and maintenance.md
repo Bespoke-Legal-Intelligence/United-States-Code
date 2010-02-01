@@ -38,7 +38,7 @@ Inspection and Testing.—(1) The Secretary shall inspect and require appropriat
 
 &emsp;(I) other factors the Secretary decides are relevant to the safety of pipeline facilities.
 
-(2) To the extent and in amounts provided in advance in an appropriation law, the Secretary shall decide on the frequency of inspection under paragraph (1) of this subsection. The Secretary may reduce the frequency of an inspection of a master meter system.
+(2) To the extent and in amounts provided in advance in an appropriation law, the Secretaryshall decide on the frequency of inspection under paragraph (1) of this subsection. The Secretary may reduce the frequency of an inspection of a master meter system.
 
 (3) Testing under this subsection shall use the most appropriate technology practicable.
 
@@ -322,7 +322,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Pipeline Bridge Risk Study
 
-Pub. L. 107–355, §25, Dec. 17, 2002, 116 Stat. 3011, required the Secretary of Transportation to conduct astudy to determine whether cable-suspension pipeline bridges pose structural or other risks warranting particularized attention in connection with pipeline operators risk assessment programs and whether particularized inspection standards need to be developed by the Department of Transportation to recognize the peculiar risks posed by such bridges and to transmit a report detailing the results of the completed study within 2 years after Dec. 17, 2002.
+Pub. L. 107–355, §25, Dec. 17, 2002, 116 Stat. 3011, required the Secretary of Transportation to conduct a study to determine whether cable-suspension pipeline bridges pose structural or other risks warranting particularized attention in connection with pipeline operators risk assessment programs and whether particularized inspection standards need to be developed by the Department of Transportation to recognize the peculiar risks posed by such bridges and to transmit a report detailing the results of the completed study within 2 years after Dec. 17, 2002.
 
 #### Study of Underwater Abandoned Pipeline Facilities
 

@@ -32,7 +32,7 @@
 
 &emsp;(3) transmit to the Executive agencies involved, to the Office of Personnel Management, and to the Congress the determinations made under paragraph (2) of this subsection.
 
-(e) Not later than January 31 of each year, the Office shall prepare and transmit to each House of the Congress a report on the activities of the Office and of Executive agencies under subsection (c) of this section, including the affirmative action plans submitted under section 717 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–16), the personnel data file maintained by the Office of Personnel Management, and any other data necessary to evaluate the effectiveness of the program for each category of civil service employment and for each minority group designation, for the preceding fiscal year, together with recommendations for administrative or legislative action the Office considers appropriate.
+(e) Not later than January 31 of each year, the Office shall prepare and transmit to each House of the Congress a report on the activities of the Office and of Executive agencies under subsection (c) of this section, including the affirmative action plans submitted under section 717 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–16), the personnel data file maintained by the Officeof Personnel Management, and any other data necessary to evaluate the effectiveness of the program for each category of civil service employment and for each minority group designation, for the preceding fiscal year, together with recommendations for administrative or legislative action the Office considers appropriate.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523, §7151; renumbered §7201 and amended Pub. L. 95–454, title III, §310, title VII, §703(a)(1), Oct. 13, 1978, 92 Stat. 1152, 1216.)
 

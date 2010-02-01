@@ -68,7 +68,7 @@ On the request of the owner or operator of a source or site included in the Regi
 
 &emsp;&emsp;The Administrator shall—
 
-&emsp;&emsp;&emsp;(i) calculate the total quantities of potentially recoverable waste energy fromsources at the sites, nationally and by State; and
+&emsp;&emsp;&emsp;(i) calculate the total quantities of potentially recoverable waste energy from sources at the sites, nationally and by State; and
 
 &emsp;&emsp;&emsp;(ii) make public—
 
@@ -164,7 +164,7 @@ There are authorized to be appropriated to—
 
 #### Prior Provisions
 
-A prior section 6342, Pub. L. 94–163, title III, §372, Dec. 22, 1975, 89 Stat. 936; Pub. L. 95–91, title III, §301(a), titleVII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288, related to establishment and maintenance of an energy efficiency program, prior to repeal by Pub. L. 99–509, title III, §3101(b), Oct. 21, 1986, 100 Stat. 1888.
+A prior section 6342, Pub. L. 94–163, title III, §372, Dec. 22, 1975, 89 Stat. 936; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288, related to establishment and maintenance of an energy efficiency program, prior to repeal by Pub. L. 99–509, title III, §3101(b), Oct. 21, 1986, 100 Stat. 1888.
 
 #### Effective Date
 

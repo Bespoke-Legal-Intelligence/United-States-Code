@@ -32,5 +32,5 @@ Sections 511 to 523 of this title are popularly known as the “Hobbs Bridge Act
 
 #### Transfer of Functions
 
-Section 6(g)(3) of Pub. L. 89–670 transferred functions, powers, and duties of Secretary of the Army \[formerlyWar\] and other officers and offices of Department of the Army \[formerly War\] relating to obstructive bridges under this subchapter to Secretary of Transportation. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(3) of Pub. L. 89–670, and repealed section 6(g)(3).
+Section 6(g)(3) of Pub. L. 89–670 transferred functions, powers, and duties of Secretary of the Army \[formerly War\] and other officers and offices of Department of the Army \[formerly War\] relating to obstructive bridges under this subchapter to Secretary of Transportation. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(3) of Pub. L. 89–670, and repealed section 6(g)(3).
 

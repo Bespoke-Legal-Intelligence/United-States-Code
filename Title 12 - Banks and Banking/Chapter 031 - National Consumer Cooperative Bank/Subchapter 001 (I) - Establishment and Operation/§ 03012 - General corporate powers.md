@@ -6,7 +6,7 @@ The Bank shall have the power to make and service loans, commitments for credit,
 
 &emsp;(2) adopt, alter, and use a corporate seal, which shall be judicially noted;
 
-&emsp;(3) elect by its Board of Directors a president, one or more vice presidents, a secretary, a treasurer, and provide for such other officers, employees, and agents as may be necessary, and define their duties in accordance with regulations and standards adopted by the Board, and require surety bonds or make otherprovisions against losses occasioned by acts of employees;
+&emsp;(3) elect by its Board of Directors a president, one or more vice presidents, a secretary, a treasurer, and provide for such other officers, employees, and agents as may be necessary, and define their duties in accordance with regulations and standards adopted by the Board, and require surety bonds or make other provisions against losses occasioned by acts of employees;
 
 &emsp;(4) prescribe by its Board of Directors its bylaws not inconsistent with law, which shall establish the terms of office and the procedure for election of elective members; provide in a manner not inconsistent with this chapter for the classes of its stock and the manner in which its stock shall be issued, transferred, and retired; and prescribe the manner in which its officers, employees, and agents are elected or selected, its property acquired, held and transferred, its loans, commitments, other financial assistance, guarantees and appraisals may be made, its general business conducted, and the privilege granted it by law exercised and enjoyed;
 
@@ -22,7 +22,7 @@ The Bank shall have the power to make and service loans, commitments for credit,
 
 &emsp;(10) utilize and act through any Federal, State, or local public agency or instrumentality, or private agency or organization, with the consent of the agency or organization concerned, and contract with such agency, instrumentality, or organization for furnishing or receiving technical services and benefits of research, services, funds or facilities; and make advance, progress, or other payments with respect to such contracts without regard to section 3324(a) and (b) of title 31;
 
-&emsp;(11) within the limitations of section 3017 of this title, borrow money and issue notes, bonds and debentures or other obligations individually or in concert with other financial institutions, agencies or instrumentalities, of such character and such terms and conditions and at rates of interest as may be determined;
+&emsp;(11) within the limitations of section 3017 of this title, borrow money and issue notes,bonds and debentures or other obligations individually or in concert with other financial institutions, agencies or instrumentalities, of such character and such terms and conditions and at rates of interest as may be determined;
 
 &emsp;(12) issue certificates of indebtedness to its stockholders or members and pay interest on funds left with the Bank, and accept grants or interest free temporary use of funds made available to it;
 
@@ -60,5 +60,5 @@ Section 394(d)(2) of Pub. L. 97–35 provided that: “The amendment made by par
 
 #### “Final Government Equity Redemption Date” Defined
 
-Section 396(a) of subtitle C of title III of Pub. L. 97–35 provided that: “For purposes of this subtitle \[see Short Title of 1981 Amendment note set out under section 3001of this title\], the term ‘Final Government Equity Redemption Date’ shall have the same meaning given such term in section 101(5) of the National Consumer Cooperative Bank Act (12 U.S.C. 3011(5)).”
+Section 396(a) of subtitle C of title III of Pub. L. 97–35 provided that: “For purposes of this subtitle \[see Short Title of 1981 Amendment note set out under section 3001 of this title\], the term ‘Final Government Equity Redemption Date’ shall have the same meaning given such term in section 101(5) of the National Consumer Cooperative Bank Act (12 U.S.C. 3011(5)).”
 

@@ -32,7 +32,7 @@ Schedule for Phased-In Compliance.—The Secretary shall establish by regulation
 
 Annual Report.—Beginning with calendar year 1992—
 
-&emsp;(1) each air carrier shall submit to the Secretary an annual report on the progress the carrier is making toward complying with the requirements of this section and regulations prescribed under this section; and
+&emsp;(1) each air carrier shall submit to the Secretary an annual report on the progress thecarrier is making toward complying with the requirements of this section and regulations prescribed under this section; and
 
 &emsp;(2) the Secretary shall submit to Congress an annual report on the progress being made toward that compliance.
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Regulations
 
-Pub. L. 106–181, title VII, §721(c)(2), Apr. 5, 2000, 114 Stat. 165, provided that: “Regulations contained intitle 14, Code of Federal Regulations, that implement section 47528 of title 49, United States Code, and related provisions shall be deemed to incorporate the amendment made by paragraph (1) \[amending this section\] on the date of the enactment of this Act \[Apr. 5, 2000\].”
+Pub. L. 106–181, title VII, §721(c)(2), Apr. 5, 2000, 114 Stat. 165, provided that: “Regulations contained in title 14, Code of Federal Regulations, that implement section 47528 of title 49, United States Code, and related provisions shall be deemed to incorporate the amendment made by paragraph (1) \[amending this section\] on the date of the enactment of this Act \[Apr. 5, 2000\].”
 
 #### Construction of 2000 Amendment
 

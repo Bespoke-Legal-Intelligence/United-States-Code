@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) except a licensed importer or licensed manufacturer, to engage in the business of importing or manufacturing ammunition, or in the course of such business, to ship, transport, or receive any ammunition in interstate or foreign commerce;
 
-&emsp;(2) for any importer, manufacturer, dealer, or collector licensed under the provisions of this chapter to ship or transport in interstate or foreign commerce any firearm to any person other than a licensed importer, licensedmanufacturer, licensed dealer, or licensed collector, except that—
+&emsp;(2) for any importer, manufacturer, dealer, or collector licensed under the provisions of this chapter to ship or transport in interstate or foreign commerce any firearm to any person other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector, except that—
 
 &emsp;&emsp;(A) this paragraph and subsection (b)(3) shall not be held to preclude a licensed importer, licensed manufacturer, licensed dealer, or licensed collector from returning a firearm or replacement firearm of the same kind and type to a person from whom it was received; and this paragraph shall not be held to preclude an individual from mailing a firearm owned in compliance with Federal, State, and local law to a licensed importer, licensed manufacturer, licensed dealer, or licensed collector;
 
@@ -20,7 +20,7 @@
 
 &emsp;(4) for any person, other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector, to transport in interstate or foreign commerce any destructive device, machinegun (as defined in section 5845 of the Internal Revenue Code of 1986), short-barreled shotgun, or short-barreled rifle, except as specifically authorized by the Attorney General consistent with public safety and necessity;
 
-&emsp;(5) for any person (other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector) to transfer, sell, trade, give, transport, or deliver any firearm to any person (other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector) who the transferor knows or has reasonable cause to believe does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the transferor resides; except that this paragraph shall not apply to (A) the transfer, transportation, or delivery of a firearm made to carry out a bequest of a firearm to, or an acquisition by intestate succession of a firearm by, a person who is permitted to acquire or possess a firearm under the laws of the State of his residence, and (B) the loan or rental of a firearm to any person for temporary use for lawful sporting purposes;
+&emsp;(5) for any person (other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector) to transfer, sell, trade, give, transport, or deliver any firearm to any person (other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector) who the transferor knows or has reasonable cause to believe does not residein (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the transferor resides; except that this paragraph shall not apply to (A) the transfer, transportation, or delivery of a firearm made to carry out a bequest of a firearm to, or an acquisition by intestate succession of a firearm by, a person who is permitted to acquire or possess a firearm under the laws of the State of his residence, and (B) the loan or rental of a firearm to any person for temporary use for lawful sporting purposes;
 
 &emsp;(6) for any person in connection with the acquisition or attempted acquisition of any firearm or ammunition from a licensed importer, licensed manufacturer, licensed dealer, or licensed collector, knowingly to make any false or fictitious oral or written statement or to furnish or exhibit any false, fictitious, or misrepresented identification, intended or likely to deceive such importer, manufacturer, dealer, or collector with respect to any fact material to the lawfulness of the sale or other disposition of such firearm or ammunition under the provisions of this chapter;
 
@@ -60,7 +60,7 @@
 
 &emsp;(1) the transferee submits to the transferor a sworn statement in the following form:
 
-&emsp;&emsp;“Subject to penalties provided by law, I swear that, in the case of any firearm other than a shotgun or a rifle, I am twenty-one years or more of age, or that, in the case of a shotgun or a rifle, I am eighteen years or more of age; that I am not prohibited by the provisions of chapter 44 of title 18, United States Code, from receiving a firearm in interstate or foreign commerce; and that my receipt of this firearm will not be in violation of any statute of the State and published ordinance applicable to the locality in which I reside. Further, the true title, name, and address of the principal law enforcement officer of the locality to which the firearm will be delivered are \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+&emsp;&emsp;“Subject to penalties provided by law, I swear that, in the case of any firearm other than a shotgun or a rifle, I am twenty-one years or more of age, or that, in the case of a shotgun or a rifle, I am eighteen years or more of age; that I am not prohibited by the provisions of chapter 44 of title 18, United States Code, from receiving a firearm in interstate or foreign commerce; and that myreceipt of this firearm will not be in violation of any statute of the State and published ordinance applicable to the locality in which I reside. Further, the true title, name, and address of the principal law enforcement officer of the locality to which the firearm will be delivered are \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 > &emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -154,7 +154,7 @@
 
 (i) It shall be unlawful for any person to transport or ship in interstate or foreign commerce, any stolen firearm or stolen ammunition, knowing or having reasonable cause to believe that the firearm or ammunition was stolen.
 
-(j) It shall be unlawful for any person to receive, possess, conceal, store, barter, sell, or dispose of any stolen firearm or stolen ammunition, or pledge or accept as security for a loan any stolen firearm or stolen ammunition, whichis moving as, which is a part of, which constitutes, or which has been shipped or transported in, interstate or foreign commerce, either before or after it was stolen, knowing or having reasonable cause to believe that the firearm or ammunition was stolen.
+(j) It shall be unlawful for any person to receive, possess, conceal, store, barter, sell, or dispose of any stolen firearm or stolen ammunition, or pledge or accept as security for a loan any stolen firearm or stolen ammunition, which is moving as, which is a part of, which constitutes, or which has been shipped or transported in, interstate or foreign commerce, either before or after it was stolen, knowing or having reasonable cause to believe that the firearm or ammunition was stolen.
 
 (k) It shall be unlawful for any person knowingly to transport, ship, or receive, in interstate or foreign commerce, any firearm which has had the importer's or manufacturer's serial number removed, obliterated, or altered or to possess or receive any firearm which has had the importer's or manufacturer's serial number removed, obliterated, or altered and has, at any time, been shipped or transported in interstate or foreign commerce.
 
@@ -276,7 +276,7 @@
 
 &emsp;&emsp;&emsp;(II) verified the identity of the transferee by examining the identification document presented;
 
-&emsp;&emsp;&emsp;(III) within 1 day after the transferee furnishes the statement, provided notice ofthe contents of the statement to the chief law enforcement officer of the place of residence of the transferee; and
+&emsp;&emsp;&emsp;(III) within 1 day after the transferee furnishes the statement, provided notice of the contents of the statement to the chief law enforcement officer of the place of residence of the transferee; and
 
 &emsp;&emsp;&emsp;(IV) within 1 day after the transferee furnishes the statement, transmitted a copy of the statement to the chief law enforcement officer of the place of residence of the transferee; and
 
@@ -342,7 +342,7 @@
 
 &emsp;(B) the chief law enforcement officer of the place of residence of the transferee.
 
-(5) Any transferor who receives information, not otherwise available to the public, in a reportunder this subsection shall not disclose such information except to the transferee, to law enforcement authorities, or pursuant to the direction of a court of law.
+(5) Any transferor who receives information, not otherwise available to the public, in a report under this subsection shall not disclose such information except to the transferee, to law enforcement authorities, or pursuant to the direction of a court of law.
 
 (6)(A) Any transferor who sells, delivers, or otherwise transfers a handgun to a transferee shall retain the copy of the statement of the transferee with respect to the handgun transaction, and shall retain evidence that the transferor has complied with subclauses (III) and (IV) of paragraph (1)(A)(i) with respect to the statement.
 
@@ -404,7 +404,7 @@
 
 &emsp;&emsp;(iii) there is an absence of telecommunications facilities in the geographical area in which the business premises are located.
 
-(4) If the national instant criminal background check system notifies the licensee that the information available to the system does not demonstrate that the receipt of a firearm by such other person would violate subsection (g) or (n) or State law, and the licensee transfers a firearm to such other person, the licensee shall include in the record of the transfer the uniqueidentification number provided by the system with respect to the transfer.
+(4) If the national instant criminal background check system notifies the licensee that the information available to the system does not demonstrate that the receipt of a firearm by such other person would violate subsection (g) or (n) or State law, and the licensee transfers a firearm to such other person, the licensee shall include in the record of the transfer the unique identification number provided by the system with respect to the transfer.
 
 (5) If the licensee knowingly transfers a firearm to such other person and knowingly fails to comply with paragraph (1) of this subsection with respect to the transfer and, at the time such other person most recently proposed the transfer, the national instant criminal background check system was operating and information was available to the system demonstrating that receipt of a firearm by such other person would violate subsection (g) or (n) of this section or State law, the Attorney General may, after notice and opportunity for a hearing, suspend for not more than 6 months or revoke any license issued to the licensee under section 923, and may impose on the licensee a civil fine of not more than $5,000.
 
@@ -566,7 +566,7 @@ Defined term.—As used in this paragraph, the term “qualified civil liability
 
 #### <b>\[APPENDIX A Repealed. Pub. L. 103–322, title XI, §110105(2), Sept. 13, 1994, 108 Stat. 2000\]</b>
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 228; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1216; Pub. L. 97–377,title I, §165(a), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, §102, May 19, 1986, 100 Stat. 451; Pub. L. 99–408, §2, Aug. 28, 1986, 100 Stat. 920; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, §2(a), (f)(2)(A), Nov. 10, 1988, 102 Stat. 3816, 3818; Pub. L. 100–690, title VII, §7060(c), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XVII, §1702(b)(1), title XXII, §§2201, 2202, 2204(b), title XXXV, §3524, Nov. 29, 1990, 104 Stat. 4844, 4856, 4857, 4924; Pub. L. 103–159, title I, §102(a)(1), (b), title III, §302(a)–(c), Nov. 30, 1993, 107 Stat. 1536, 1539, 1545; Pub. L. 103–322, title XI, §§110102(a), 110103(a), 110105(2), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§320904, 320927, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 1996, 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§657, 658(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369, 3009–372; Pub. L. 104–294, title VI, §603(b), (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, 110 Stat. 3503, 3504; Pub. L. 105–277, div. A, §101(b) \[title I, §121\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–71; Pub. L. 107–273, div. B, title IV, §4003(a)(1), Nov. 2, 2002, 116 Stat. 1811; Pub. L. 107–296, title XI, §1112(f)(4), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–92, §§5(c)(1), 6(a), Oct. 26, 2005, 119 Stat. 2099, 2101.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 228; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1216; Pub. L. 97–377, title I, §165(a), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, §102, May 19, 1986, 100 Stat. 451; Pub. L. 99–408, §2, Aug. 28, 1986, 100 Stat. 920; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, §2(a), (f)(2)(A), Nov. 10, 1988, 102 Stat. 3816, 3818; Pub. L. 100–690, title VII, §7060(c), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XVII, §1702(b)(1), title XXII, §§2201, 2202, 2204(b), title XXXV, §3524, Nov. 29, 1990, 104 Stat. 4844, 4856, 4857, 4924; Pub. L. 103–159, title I, §102(a)(1), (b), title III, §302(a)–(c), Nov. 30, 1993, 107 Stat. 1536, 1539, 1545; Pub. L. 103–322, title XI, §§110102(a), 110103(a), 110105(2), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§320904, 320927, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 1996, 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§657, 658(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369, 3009–372; Pub. L. 104–294, title VI, §603(b), (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, 110 Stat. 3503, 3504; Pub. L. 105–277, div. A, §101(b) \[title I, §121\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–71; Pub. L. 107–273, div. B, title IV, §4003(a)(1), Nov. 2, 2002, 116 Stat. 1811; Pub. L. 107–296, title XI, §1112(f)(4), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–92, §§5(c)(1), 6(a), Oct. 26, 2005, 119 Stat. 2099, 2101.)
 
 #### Amendment of Section
 
@@ -720,7 +720,7 @@ Subsec. (g). Pub. L. 99–308, §102(6)(D), in concluding provision substituted 
 
 Subsec. (g)(1). Pub. L. 99–308, §102(6)(A), struck out “is under indictment for, or who” after “who”.
 
-Subsec. (g)(3). Pub. L. 99–308, §102(6)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “who is an unlawful user of or addicted to marihuana or any depressant or stimulant drug (as definedin section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4731(a) of the Internal Revenue Code of 1954); or”.
+Subsec. (g)(3). Pub. L. 99–308, §102(6)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “who is an unlawful user of or addicted to marihuana or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4731(a) of the Internal Revenue Code of 1954); or”.
 
 Subsec. (g)(5) to (7). Pub. L. 99–308, §102(6)(C), added pars. (5) to (7).
 
@@ -1076,7 +1076,7 @@ Record defined.—For purposes of subparagraph (A), a record is the following:
 
 &emsp;&emsp;&emsp;“(iv) A record that identifies a person who has been adjudicated as a mental defective or committed to a mental institution, consistent with section 922(g)(4) of title 18, United States Code, and whose record is not protected from disclosure to the Attorney General under any provision of State or Federal law.
 
-&emsp;&emsp;&emsp;“(v) A record that is electronically available and that identifies a person who, as of the date of such estimate, is subject to a court order described in section 922(g)(8) of title 18, United States Code.
+&emsp;&emsp;&emsp;“(v) A record that is electronically available and that identifies a person who, as of the date ofsuch estimate, is subject to a court order described in section 922(g)(8) of title 18, United States Code.
 
 &emsp;&emsp;&emsp;“(vi) A record that is electronically available and that identifies a person convicted in any court of a misdemeanor crime of domestic violence, as defined in section 921(a)(33) of title 18, United States Code.
 
@@ -1124,7 +1124,7 @@ Application to persons convicted of misdemeanor crimes of domestic violence.—T
 
 &emsp;“(3)
 
-Application to persons who have been adjudicated as a mental defective or committed to amental institution.—The State shall make available to the Attorney General, for use by the National Instant Criminal Background Check System, the name and other relevant identifying information of persons adjudicated as a mental defective or those committed to mental institutions to assist the Attorney General in enforcing section 922(g)(4) of title 18, United States Code.
+Application to persons who have been adjudicated as a mental defective or committed to a mental institution.—The State shall make available to the Attorney General, for use by the National Instant Criminal Background Check System, the name and other relevant identifying information of persons adjudicated as a mental defective or those committed to mental institutions to assist the Attorney General in enforcing section 922(g)(4) of title 18, United States Code.
 
 “(d)
 
@@ -1164,7 +1164,7 @@ Use of Grant Amounts.—Grants awarded to States or Indian tribes under this sec
 
 &emsp;“(6) collect and analyze data needed to demonstrate levels of State compliance with this Act; and
 
-&emsp;“(7) maintain the relief from disabilities program in accordance with section 105, but not less than 3 percent, and no more than 10 percent of each grant shall be used for this purpose.
+&emsp;“(7) maintain the relief from disabilities program in accordance with section 105, but not less than 3percent, and no more than 10 percent of each grant shall be used for this purpose.
 
 “(c)
 
@@ -1264,7 +1264,7 @@ Regulations.—The Attorney General, at his or her discretion, shall promulgate 
 
 “(a)
 
-Evaluation Required.—The Director of the Bureau of Justice Statistics (referred to in this section as the ‘Director’) shall study and evaluate the operations of the National Instant Criminal Background Check System. Such study and evaluation shall include compilations and analyses of the operations and record systems of the agencies and organizations necessary to support such System.
+Evaluation Required.—The Director of the Bureau of Justice Statistics (referred to in this section asthe ‘Director’) shall study and evaluate the operations of the National Instant Criminal Background Check System. Such study and evaluation shall include compilations and analyses of the operations and record systems of the agencies and organizations necessary to support such System.
 
 “(b)
 
@@ -1312,7 +1312,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 “(a)
 
-In General.—The Comptroller General of the United States shall conduct an audit of the expenditureof all funds appropriated for criminal records improvement pursuant to section 106(b) of the Brady Handgun Violence Prevention Act (Public Law 103–159) \[set out below\] to determine if the funds were expended for the purposes authorized by the Act and how those funds were expended for those purposes or were otherwise expended.
+In General.—The Comptroller General of the United States shall conduct an audit of the expenditure of all funds appropriated for criminal records improvement pursuant to section 106(b) of the Brady Handgun Violence Prevention Act (Public Law 103–159) \[set out below\] to determine if the funds were expended for the purposes authorized by the Act and how those funds were expended for those purposes or were otherwise expended.
 
 “(b)
 
@@ -1454,7 +1454,7 @@ Identification of Felons Ineligible To Purchase Handguns.—The Attorney General
 
 “(b)
 
-Report to Congress.—Not later than 1 year after the date of the enactment of this Act \[Nov. 18, 1988\], the Attorney General shall report to the Congress a description of the system referred to in subsection (a) and a plan (including a cost analysis of the proposed system) for implementation of the system. Such report may include, if appropriate, recommendations for modifications of the system and legislation necessary in order to fully implement such system.
+Report to Congress.—Not later than 1 year after the date of the enactment of this Act \[Nov. 18, 1988\], the Attorney General shall report to the Congressa description of the system referred to in subsection (a) and a plan (including a cost analysis of the proposed system) for implementation of the system. Such report may include, if appropriate, recommendations for modifications of the system and legislation necessary in order to fully implement such system.
 
 “(c)
 

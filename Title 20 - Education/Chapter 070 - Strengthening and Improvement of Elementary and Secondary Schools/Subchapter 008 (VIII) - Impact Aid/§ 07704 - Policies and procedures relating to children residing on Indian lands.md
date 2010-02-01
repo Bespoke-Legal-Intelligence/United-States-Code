@@ -74,7 +74,7 @@ The Secretary shall—
 
 #### (9) Rejection of determination
 
-&emsp;If the local educational agency rejects the determination of the Secretary and a tribe exercises the option under section 1101(d) of theEducation Amendments of 1978, to have education services provided either directly by the Bureau of Indian Affairs or by contract with the Bureau of Indian Affairs, any Indian students affiliated with that tribe who wish to remain in attendance at the local educational agency against whom the complaint which led to the tribal action under such subsection (d) of this section was lodged may be counted with respect to that local educational agency for the purpose of receiving funds under section 7703 of this title. In such event, funds under such section shall not be withheld pursuant to paragraph (8) and no further complaints with respect to such students may be filed under paragraph (1).
+&emsp;If the local educational agency rejects the determination of the Secretary and a tribe exercises the option under section 1101(d) of the Education Amendments of 1978, to have education services provided either directly by the Bureau of Indian Affairs or by contract with the Bureau of Indian Affairs, any Indian students affiliated with that tribe who wish to remain in attendance at the local educational agency against whom the complaint which led to the tribal action under such subsection (d) of this section was lodged may be counted with respect to that local educational agency for the purpose of receiving funds under section 7703 of this title. In such event, funds under such section shall not be withheld pursuant to paragraph (8) and no further complaints with respect to such students may be filed under paragraph (1).
 
 #### (f) Construction
 

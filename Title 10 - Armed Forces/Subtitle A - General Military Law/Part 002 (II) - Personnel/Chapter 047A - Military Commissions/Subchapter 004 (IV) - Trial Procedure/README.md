@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [949a.](%C2%A7%2000949a%20-%20Rules.md) | Rules. |
-| [949b.](%C2%A7%2000949b%20-%20Unlawfully%20influencing%20action%20of%20military%20commission.md) | Unlawfully influencing action of military commission. |
+| [949b.](%C2%A7%2000949b%20-%20Unlawfully%20influencing%20action%20of%20military%20commission%20and%20United%20States%20Court%20of%20Military%20Commission%20Review.md) | Unlawfully influencing action of military commission and United States Court of Military Commission Review. |
 | [949c.](%C2%A7%2000949c%20-%20Duties%20of%20trial%20counsel%20and%20defense%20counsel.md) | Duties of trial counsel and defense counsel. |
 | [949d.](%C2%A7%2000949d%20-%20Sessions.md) | Sessions. |
 | [949e.](%C2%A7%2000949e%20-%20Continuances.md) | Continuances. |
@@ -26,7 +26,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 00949a - Rules](%C2%A7%2000949a%20-%20Rules.md)
-- [&sect; 00949b - Unlawfully influencing action of military commission](%C2%A7%2000949b%20-%20Unlawfully%20influencing%20action%20of%20military%20commission.md)
+- [&sect; 00949b - Unlawfully influencing action of military commission and United States Court of Military Commission Review](%C2%A7%2000949b%20-%20Unlawfully%20influencing%20action%20of%20military%20commission%20and%20United%20States%20Court%20of%20Military%20Commission%20Review.md)
 - [&sect; 00949c - Duties of trial counsel and defense counsel](%C2%A7%2000949c%20-%20Duties%20of%20trial%20counsel%20and%20defense%20counsel.md)
 - [&sect; 00949d - Sessions](%C2%A7%2000949d%20-%20Sessions.md)
 - [&sect; 00949e - Continuances](%C2%A7%2000949e%20-%20Continuances.md)

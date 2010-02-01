@@ -6,7 +6,7 @@ Additional Board.—If information that may result in a change of status of a pe
 
 (b)
 
-Date of Appointment.—The Secretary concerned shall appoint a board under this section to conduct an inquiry into the whereabouts and status of a missing person on or about one year after the date of the transmission of a report concerning the person under section 1502(a)(2) of this title.
+Date of Appointment.—The Secretary concerned shall appoint a board under this section to conduct an inquiry into the whereaboutsand status of a missing person on or about one year after the date of the transmission of a report concerning the person under section 1502(a)(2) of this title.
 
 (c)
 
@@ -74,7 +74,7 @@ Attendance of Family Members and Certain Other Interested Persons at Proceedings
 
 &emsp;(A) in the case of an individual who is the primary next of kin or the previously designated person, may attend the proceedings of the board with private counsel;
 
-&emsp;(B) shall have access to the personnel file of the missing person, to unclassified reports, if any, of the board appointed under section 1503 of this title to conduct the inquiry into the whereabouts and status of the person, and to any other unclassified information or documents relating to the whereabouts and status of the person;
+&emsp;(B) shall have access to the personnel file of the missing person, to unclassified reports, ifany, of the board appointed under section 1503 of this title to conduct the inquiry into the whereabouts and status of the person, and to any other unclassified information or documents relating to the whereabouts and status of the person;
 
 &emsp;(C) shall be afforded the opportunity to present information at the proceedings of the board that such individual considers to be relevant to those proceedings; and
 
@@ -138,7 +138,7 @@ Report to Family Members and Other Interested Persons.—Not later than 60 days 
 
 (m)
 
-Treatment of Determination.—Any determination of the status of a missing person under subsection (k) shall supersede the determination of the status of the person under section 1503 of this title and shall be treated as the determination of the status of the person by all departments and agencies of the United States.
+Treatment of Determination.—Any determination of the status of a missing personunder subsection (k) shall supersede the determination of the status of the person under section 1503 of this title and shall be treated as the determination of the status of the person by all departments and agencies of the United States.
 
 (Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 341; amended Pub. L. 104–201, div. A, title V, §578(a)(3), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(3), (d)(1), title X, §1073(a)(30), Nov. 18, 1997, 111 Stat. 1767, 1769, 1902.)
 
@@ -156,7 +156,7 @@ Subsec. (i)(1). Pub. L. 105–85, §1073(a)(30), substituted “this section” 
 
 &emsp;“(A) In the case of a board that will inquire into the whereabouts and status of one or more members of the armed forces (and no civilians described in subparagraph (B)), the board shall be composed of officers having the grade of major or lieutenant commander or above.
 
-&emsp;“(B) In the case of a board that will inquire into the whereabouts and status of one or more civilian employees of the Department of Defense or contractorsof the Department of Defense (and no members of the armed forces), the board shall be composed of—
+&emsp;“(B) In the case of a board that will inquire into the whereabouts and status of one or more civilian employees of the Department of Defense or contractors of the Department of Defense (and no members of the armed forces), the board shall be composed of—
 
 &emsp;&emsp;“(i) not less than three employees of the Department of Defense whose rate of annual pay is equal to or greater than the rate of annual pay payable for grade GS–13 of the General Schedule under section 5332 of title 5; and
 

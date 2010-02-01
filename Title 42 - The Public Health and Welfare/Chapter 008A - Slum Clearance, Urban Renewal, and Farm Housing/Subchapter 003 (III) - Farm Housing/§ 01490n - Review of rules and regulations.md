@@ -14,7 +14,7 @@ The provisions of this section shall not apply to a rule or regulation which the
 
 #### (d) Regulatory authority
 
-The Secretary shall include with each rule or regulation required to be transmitted to the Committees under this section a detailed summary of all changes required by the Office of Management and Budget that prohibit, modify, postpone, or disapprove such rule or regulation in whole or part.
+The Secretary shall include with each rule or regulation required to be transmitted to theCommittees under this section a detailed summary of all changes required by the Office of Management and Budget that prohibit, modify, postpone, or disapprove such rule or regulation in whole or part.
 
 (July 15, 1949, ch. 338, title V, §534, as added Pub. L. 98–181, title V, §523, Nov. 30, 1983, 97 Stat. 1254; amended Pub. L. 100–242, title V, §563(b), Feb. 5, 1988, 101 Stat. 1944.)
 

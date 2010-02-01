@@ -26,7 +26,7 @@ Market Research Determination Not Subject to Review.—A determination by a cont
 
 (e)
 
-Performance as a Subcontractor.—(1) A contractor or potential contractor of the Department of Defense may not be required to use Federal Prison Industries as a subcontractor or supplier of products or provider of services for the performance of a Department of Defense contract by any means, including means such as—
+Performance as a Subcontractor.—(1) A contractor or potential contractor of the Department of Defense may not be required to use Federal Prison Industries as a subcontractor orsupplier of products or provider of services for the performance of a Department of Defense contract by any means, including means such as—
 
 &emsp;(A) a contract solicitation provision requiring a contractor to offer to make use of products or services of Federal Prison Industries in the performance of the contract;
 
@@ -104,7 +104,7 @@ Pub. L. 107–107, div. A, title VIII, §811(b), Dec. 28, 2001, 115 Stat. 1181, 
 
 Pub. L. 107–314, div. A, title VIII, §819(b), Dec. 2, 2002, 116 Stat. 2613, provided that:
 
-“(1) Proposed revisions to the Department of Defense Supplement to the Federal Acquisition Regulation toimplement this section shall be published not later than 90 days after the date of the enactment of this Act \[Dec. 2, 2002\], and not less than 60 days shall be provided for public comment on the proposed revisions.
+“(1) Proposed revisions to the Department of Defense Supplement to the Federal Acquisition Regulation to implement this section shall be published not later than 90 days after the date of the enactment of this Act \[Dec. 2, 2002\], and not less than 60 days shall be provided for public comment on the proposed revisions.
 
 “(2) Final regulations shall be published not later than 180 days after the date of the enactment of this Act and shall be effective on the date that is 30 days after the date of the publication.”
 

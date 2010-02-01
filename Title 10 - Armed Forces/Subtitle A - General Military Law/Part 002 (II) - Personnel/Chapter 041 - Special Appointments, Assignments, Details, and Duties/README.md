@@ -12,12 +12,14 @@
 | \[718. | Repealed.\] |
 | [719\.](%C2%A7%2000719%20-%20Department%20of%20Commerce%20assignment%20or%20detail%20of%20members%20of%20the%20armed%20forces%20to%20National%20Oceanic%20and%20Atmospheric%20Administration.md) | Department of Commerce: assignment or detail of members of the armed forces to National Oceanic and Atmospheric Administration. |
 | [720\.](%C2%A7%2000720%20-%20Chief%20of%20Staff%20to%20President%20appointment.md) | Chief of Staff to President: appointment. |
-| [721\.](%C2%A7%2000721%20-%20General%20and%20flag%20officers%20limitation%20on%20appointments%2C%20assignments%2C%20details%2C%20and%20duties%20outside%20an%20officer%27s%20own%20service.md) | General and flag officers: limitation on appointments, assignments, details, and duties outside an officer's own service. |
+| \[721. | Repealed.\] |
 | [722\.](%C2%A7%2000722%20-%20Attending%20Physician%20to%20the%20Congress%20grade.md) | Attending Physician to the Congress: grade. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–84, div. A, title V, §502(i)(2), Oct. 28, 2009, 123 Stat. 2277, struck out item 721 “General and flag officers: limitation on appointments, assignments, details, and duties outside an officer's own service”.
 
 2006—Pub. L. 109–364, div. A, title V, §507(a)(1)(B), Oct. 17, 2006, 120 Stat. 2180, added item 722.
 
@@ -99,5 +101,5 @@ Covered Legislative Detail or Fellowship Defined.—In this section, the term �
 - [&sect; 00718 - Repealed. Pub. L. 99&#8211;433, title I, &sect;110(a)(1), Oct. 1, 1986, 100 Stat. 1001](%C2%A7%2000718%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93433%2C%20title%20I%2C%20%C2%A7110%28a%29%281%29%2C%20Oct.%201%2C%201986%2C%20100%20Stat.%201001.md)
 - [&sect; 00719 - Department of Commerce assignment or detail of members of the armed forces to National Oceanic and Atmospheric Administration](%C2%A7%2000719%20-%20Department%20of%20Commerce%20assignment%20or%20detail%20of%20members%20of%20the%20armed%20forces%20to%20National%20Oceanic%20and%20Atmospheric%20Administration.md)
 - [&sect; 00720 - Chief of Staff to President appointment](%C2%A7%2000720%20-%20Chief%20of%20Staff%20to%20President%20appointment.md)
-- [&sect; 00721 - General and flag officers limitation on appointments, assignments, details, and duties outside an officer's own service](%C2%A7%2000721%20-%20General%20and%20flag%20officers%20limitation%20on%20appointments%2C%20assignments%2C%20details%2C%20and%20duties%20outside%20an%20officer%27s%20own%20service.md)
+- [&sect; 00721 - Repealed. Pub. L. 111&#8211;84, div. A, title V, &sect;502(i)(1), Oct. 28, 2009, 123 Stat. 2276](%C2%A7%2000721%20-%20Repealed.%20Pub.%20L.%20111%E2%80%9384%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7502%28i%29%281%29%2C%20Oct.%2028%2C%202009%2C%20123%20Stat.%202276.md)
 - [&sect; 00722 - Attending Physician to the Congress grade](%C2%A7%2000722%20-%20Attending%20Physician%20to%20the%20Congress%20grade.md)

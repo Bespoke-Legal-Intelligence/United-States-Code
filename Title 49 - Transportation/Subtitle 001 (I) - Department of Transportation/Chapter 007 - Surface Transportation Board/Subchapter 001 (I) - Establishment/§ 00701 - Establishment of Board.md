@@ -26,7 +26,7 @@ Chairman.—(1) There shall be at the head of the Board a Chairman, who shall be
 
 (2) Subject to the general policies, decisions, findings, and determinations of the Board, the Chairman shall be responsible for administering the Board. The Chairman may delegate the powers granted under this paragraph to an officer, employee, or office of the Board. The Chairman shall—
 
-&emsp;(A) appoint and supervise, other than regular and full-time employees in the immediateoffices of another member, the officers and employees of the Board, including attorneys to provide legal aid and service to the Board and its members, and to represent the Board in any case in court;
+&emsp;(A) appoint and supervise, other than regular and full-time employees in the immediate offices of another member, the officers and employees of the Board, including attorneys to provide legal aid and service to the Board and its members, and to represent the Board in any case in court;
 
 &emsp;(B) appoint the heads of offices with the approval of the Board;
 
@@ -96,7 +96,7 @@ Section 101 of Pub. L. 104–88 provided that: “The Interstate Commerce Commis
 
 #### Organization of Functions of Surface Transportation Board
 
-Section 202 of title II of Pub. L. 104–88 provided that: “The Chairman of the Surface Transportation Board (in this Act \[see Tables for classification\] referred to as the ‘Board’) may allocate or reallocate any function of the Board, consistent with this title \[see Tables forclassification\] and subchapter I of chapter 7 \[49 U.S.C. 701 et seq.\], as amended by section 201 of this title, among the members or employees of the Board, and may establish, consolidate, alter, or discontinue in the Board any organizational entities that were entities of the Interstate Commerce Commission, as the Chairman considers necessary or appropriate.”
+Section 202 of title II of Pub. L. 104–88 provided that: “The Chairman of the Surface Transportation Board (in this Act \[see Tables for classification\] referred to as the ‘Board’) may allocate or reallocate any function of the Board, consistent with this title \[see Tables for classification\] and subchapter I of chapter 7 \[49 U.S.C. 701 et seq.\], as amended by section 201 of this title, among the members or employees of the Board, and may establish, consolidate, alter, or discontinue in the Board any organizational entities that were entities of the Interstate Commerce Commission, as the Chairman considers necessary or appropriate.”
 
 #### Transfer of Assets and Personnel
 

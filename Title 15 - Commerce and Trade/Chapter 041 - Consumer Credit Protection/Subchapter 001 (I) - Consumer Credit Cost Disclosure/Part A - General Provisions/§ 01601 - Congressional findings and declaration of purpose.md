@@ -6,7 +6,7 @@ The Congress finds that economic stabilization would be enhanced and the competi
 
 #### (b) Terms of personal property leases
 
-The Congress also finds that there has been a recent trend toward leasing automobiles andother durable goods for consumer use as an alternative to installment credit sales and that these leases have been offered without adequate cost disclosures. It is the purpose of this subchapter to assure a meaningful disclosure of the terms of leases of personal property for personal, family, or household purposes so as to enable the lessee to compare more readily the various lease terms available to him, limit balloon payments in consumer leasing, enable comparison of lease terms with credit terms where appropriate, and to assure meaningful and accurate disclosures of lease terms in advertisements.
+The Congress also finds that there has been a recent trend toward leasing automobiles and other durable goods for consumer use as an alternative to installment credit sales and that these leases have been offered without adequate cost disclosures. It is the purpose of this subchapter to assure a meaningful disclosure of the terms of leases of personal property for personal, family, or household purposes so as to enable the lessee to compare more readily the various lease terms available to him, limit balloon payments in consumer leasing, enable comparison of lease terms with credit terms where appropriate, and to assure meaningful and accurate disclosures of lease terms in advertisements.
 
 (Pub. L. 90–321, title I, §102, May 29, 1968, 82 Stat. 146; Pub. L. 93–495, title III, §302, Oct. 28, 1974, 88 Stat. 1511; Pub. L. 94–240, §2, Mar. 23, 1976, 90 Stat. 257.)
 
@@ -28,9 +28,15 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 
 Section 504(a) of Pub. L. 90–321 provided that this part is effective May 29, 1968.
 
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–93, §1, Nov. 6, 2009, 123 Stat. 2998, provided that: “This Act \[amending section 1666b of this title\] may be cited as the ‘Credit CARD Technical Corrections Act of 2009’.”
+
+Pub. L. 111–24, §1(a), May 22, 2009, 123 Stat. 1734, provided that: “This Act \[enacting sections 1616, 1651, 1665c to 1665e, 1666i–1, 1666i–2, and 1693<i>l</i>–1 of this title and section 1a–7b of Title 16, Conservation, amending sections 1602, 1632, 1637, 1640, 1650, 1666b, 1666c, 1666j, 1681b, 1681j, and 1693m to 1693r of this title, enacting provisions set out as notes under sections 1602, 1637, 1638, 1666b, 1681j, and 1693<i>l</i>–1 of this title and section 5311 of Title 31, Money and Finance, and amending provisions set out as notes under sections 1638 and 1693 of this title\] may be cited as the ‘Credit Card Accountability Responsibility and Disclosure Act of 2009’ or the ‘Credit CARD Act of 2009’.”
+
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–315, title X, §1001, Aug. 14, 2008, 122 Stat. 3478, provided that: “This title \[enacting section 1650 of this title and sections 1019d and 9709 of Title 20, Education, amending sections 1602, 1603, 1638, and 1640 of this title, section 2903 of Title 12, Banks and Banking, and section 1092 of Title 20, and enacting provisions set out as notes under sections 1638 and 1640 of this title, section 2903 of Title 12, and section 9709 of Title 20\] may be cited as the ‘Private Student Loan Transparency and Improvement Act of 2008’.”
+Pub. L. 110–315, title X, §1001, Aug. 14, 2008, 122 Stat. 3478, provided that: “This title \[enacting section 1650 ofthis title and sections 1019d and 9709 of Title 20, Education, amending sections 1602, 1603, 1638, and 1640 of this title, section 2903 of Title 12, Banks and Banking, and section 1092 of Title 20, and enacting provisions set out as notes under sections 1638 and 1640 of this title, section 2903 of Title 12, and section 9709 of Title 20\] may be cited as the ‘Private Student Loan Transparency and Improvement Act of 2008’.”
 
 Pub. L. 110–289, div. B, title V, §2501, July 30, 2008, 122 Stat. 2855, provided that: “This title \[amending sections 1638 and 1640 of this title and sections 24 and 338a of Title 12, Banks and Banking, and enacting provisions set out as a note under section 1638 of this title\] may be cited as the ‘Mortgage Disclosure Improvement Act of 2008’.”
 
@@ -74,7 +80,7 @@ Pub. L. 100–583, §1, Nov. 3, 1988, 102 Stat. 2960, provided that: “This Act
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–25, §1, July 27, 1981, 95 Stat. 144, provided: “That this Act \[amending sections 1602 and 1666f of thistitle, section 29 of Title 12, Banks and Banking, and sections 205 and 212 of Title 42, The Public Health and Welfare; enacting provisions set out as notes under this section and sections 1602 and 1666f of this title; and amending provisions set out as notes under sections 1602 and 1666f of this title\] may be cited as the ‘Cash Discount Act’.”
+Pub. L. 97–25, §1, July 27, 1981, 95 Stat. 144, provided: “That this Act \[amending sections 1602 and 1666f of this title, section 29 of Title 12, Banks and Banking, and sections 205 and 212 of Title 42, The Public Health and Welfare; enacting provisions set out as notes under this section and sections 1602 and 1666f of this title; and amending provisions set out as notes under sections 1602 and 1666f of this title\] may be cited as the ‘Cash Discount Act’.”
 
 #### Short Title of 1980 Amendment
 
@@ -158,7 +164,7 @@ Content of report.—The report described in paragraph (2) shall address the fol
 
 Pub. L. 103–325, title I, §157, Sept. 23, 1994, 108 Stat. 2197, provided that: “During the period beginning 180 days after the date of enactment of this Act \[Sept. 23, 1994\] and ending 2 years after that date of enactment, the Board of Governors of the Federal Reserve System shall conduct a study and submit to the Congress a report, including recommendations for any appropriate legislation, regarding—
 
-&emsp;“(1) whether a consumer engaging in an open end credit transaction (as defined in section 103 of theTruth in Lending Act \[15 U.S.C. 1602\]) secured by the consumer's principal dwelling is provided adequate protections under Federal law, including section 127A of the Truth in Lending Act \[15 U.S.C. 1637a\]; and
+&emsp;“(1) whether a consumer engaging in an open end credit transaction (as defined in section 103 of the Truth in Lending Act \[15 U.S.C. 1602\]) secured by the consumer's principal dwelling is provided adequate protections under Federal law, including section 127A of the Truth in Lending Act \[15 U.S.C. 1637a\]; and
 
 &emsp;“(2) whether a more appropriate interest rate index exists for purposes of subparagraph (A) of section 103(aa)(1) of the Truth in Lending Act (as added by section 152(a) of this Act \[15 U.S.C. 1602(aa)(1)(A)\]) than the yield on Treasury securities referred to in that subparagraph.”
 
@@ -180,11 +186,11 @@ Pub. L. 97–25, title II, §202, July 27, 1981, 95 Stat. 145, directed Board of
 
 #### Inference of Legislative Intent in Section Captions and Catchlines
 
-Section 502 of Pub. L. 90–321 provided that: “Captions and catchlines are intended solely as aids to convenient reference, and no inference as to the legislative intent with respect to any provision enacted by this Act \[enacting this chapter, section 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under this section, sections 1631 and 1671 of this title, and section 891 of Title 18\] may be drawn from them.”
+Section 502 of Pub. L. 90–321 provided that: “Captions and catchlines are intended solely as aids to convenient reference, and no inference as to the legislative intent with respect to any provision enacted by this Act \[enacting this chapter, section 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set outas notes under this section, sections 1631 and 1671 of this title, and section 891 of Title 18\] may be drawn from them.”
 
 #### Grammatical Usages
 
-Section 503 of Pub. L. 90–321 provided that: “In this Act \[enacting this chapter, sections 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under sections 1601, 1631 and 1671 of this title, and section 891 of Title 18\]:
+Pub. L. 90–321, title V, §503, May 30, 1968, 82 Stat. 167, provided that: “In this Act \[enacting this chapter, sections 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under this section, sections 1631 and 1671 of this title, and section 891 of Title 18\]:
 
 &emsp;“(1) The word ‘may’ is used to indicate that an action either is authorized or is permitted.
 

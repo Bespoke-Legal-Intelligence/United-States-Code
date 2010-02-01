@@ -94,7 +94,7 @@ Pub. L. 110–234, title VII, §7206(b), May 22, 2008, 122 Stat. 1239, and Pub. 
 
 #### Report on Producers and Handlers of Organic Agricultural Products
 
-Pub. L. 107–171, title VII, §7409, May 13, 2002, 116 Stat. 461, provided that: “Not later than 1 year after funds are made available to carry out this section, the Secretary \[of Agriculture\] shall submit to Congress a report that—
+Pub. L. 107–171, title VII, §7409, May 13, 2002, 116 Stat. 461, provided that: “Not later than 1 year after fundsare made available to carry out this section, the Secretary \[of Agriculture\] shall submit to Congress a report that—
 
 &emsp;“(1) describes—
 

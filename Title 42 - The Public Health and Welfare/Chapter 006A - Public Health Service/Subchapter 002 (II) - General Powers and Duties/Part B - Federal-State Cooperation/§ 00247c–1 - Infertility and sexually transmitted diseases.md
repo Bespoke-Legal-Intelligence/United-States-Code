@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention,may make grants to States, political subdivisions of States, and other public or nonprofit private entities for the purpose of carrying out the activities described in subsection (c) of this section regarding any treatable sexually transmitted disease that can cause infertility in women if treatment is not received for the disease.
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States, political subdivisions of States, and other public or nonprofit private entities for the purpose of carrying out the activities described in subsection (c) of this section regarding any treatable sexually transmitted disease that can cause infertility in women if treatment is not received for the disease.
 
 #### (b) Authority regarding individual diseases
 
@@ -156,7 +156,7 @@ For the purpose of carrying out this section, other than subsections (<i>o</i>) 
 
 &emsp;For the purpose of carrying out paragraph (1), there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1993 through 1998.
 
-(July 1, 1944, ch. 373, title III, §318A, as added Pub. L. 102–531, title III, §304, Oct. 27, 1992, 106 Stat. 3490; amended Pub. L. 103–43, title XX, §2008(i)(1)(B)(ii), June 10, 1993, 107 Stat. 212; Pub. L. 103–183, title IV, §402, Dec. 14, 1993, 107 Stat. 2236; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 108–163, §2(m)(1), Dec. 6, 2003, 117 Stat. 2023.)
+(July 1, 1944, ch. 373, title III, §318A, as added Pub. L. 102–531, title III, §304, Oct. 27, 1992, 106Stat. 3490; amended Pub. L. 103–43, title XX, §2008(i)(1)(B)(ii), June 10, 1993, 107 Stat. 212; Pub. L. 103–183, title IV, §402, Dec. 14, 1993, 107 Stat. 2236; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 108–163, §2(m)(1), Dec. 6, 2003, 117 Stat. 2023.)
 
 #### References in Text
 

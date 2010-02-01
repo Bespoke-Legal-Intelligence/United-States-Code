@@ -1,6 +1,6 @@
 ### §1714. Surcharges related to consular services
 
-Beginning in fiscal year 2005 and thereafter, the Secretary of State is authorized to chargesurcharges related to consular services in support of enhanced border security that are in addition to the passport and immigrant visa fees in effect on January 1, 2004: <i>Provided</i>, That funds collected pursuant to this authority shall be credited to this account, and shall be available until expended for the purposes of such account: <i>Provided further</i>, That such surcharges shall be $12 on passport fees, and $45 on immigrant visa fees.
+Beginning in fiscal year 2005 and thereafter, the Secretary of State is authorized to charge surcharges related to consular services in support of enhanced border security that are in addition to the passport and immigrant visa fees in effect on January 1, 2004: <i>Provided</i>, That funds collected pursuant to this authority shall be credited to this account, and shall be available until expended for the purposes of such account: <i>Provided further</i>, That such surcharges shall be $12 on passport fees, and $45 on immigrant visa fees.
 
 (Pub. L. 108–447, div. B, title IV, Dec. 8, 2004, 118 Stat. 2896.)
 
@@ -14,7 +14,7 @@ Pub. L. 109–472, §6, Jan. 11, 2007, 120 Stat. 3555, provided that:
 
 “(a)
 
-In General.—Beginning in fiscal year 2007 and thereafter, the Secretary of State is authorized to amend administratively the amounts of the surcharges related to consular services in support of enhanced border security (provided for in the last paragraph under the heading ‘diplomatic and consular programs’ under title IV of division B of the Consolidated Appropriations Act, 2005 (Public Law 108–447) \[this section\]) that are in addition to the passport and immigrant visa fees in effect on January 1, 2004.
+In General.—Beginning in fiscal year 2007 and thereafter, the Secretary of State is authorized to amend administratively the amounts of the surcharges related to consular services in support of enhanced border security (provided for in the last paragraph underthe heading ‘diplomatic and consular programs’ under title IV of division B of the Consolidated Appropriations Act, 2005 (Public Law 108–447) \[this section\]) that are in addition to the passport and immigrant visa fees in effect on January 1, 2004.
 
 “(b)
 

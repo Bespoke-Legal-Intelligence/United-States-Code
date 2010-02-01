@@ -82,6 +82,10 @@ For purposes of this part:
 
 (Pub. L. 100–77, title IV, §432, as added Pub. L. 102–550, title XIV, §1404, Oct. 28, 1992, 106 Stat. 4022.)
 
+#### Repeal of Section
+
+<i>Pub. L. 111–22, div. B, title V, §§1501, 1503, May 20, 2009, 123 Stat. 1701, 1702, provided that, effective on, and applicable beginning on, the earlier of the expiration of the 18-month period beginning on May 20, 2009, or the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 of Pub. L. 111–22, this section is repealed.</i>
+
 #### Prior Provisions
 
 A prior section 11392, Pub. L. 100–77, title IV, §432, July 22, 1987, 101 Stat. 505; Pub. L. 100–628, title IV, §§461–463(a), Nov. 7, 1988, 102 Stat. 3236, 3237; Pub. L. 101–625, title VIII, §834(b)–(d), Nov. 28, 1990, 104 Stat. 4365, 4366, provided for supplemental assistance for facilities to assist the homeless, prior to repeal by Pub. L. 102–550, §1403(a).

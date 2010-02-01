@@ -36,7 +36,7 @@ Rule if beneficiary eligible for social security offset computation.—If the be
 
 &emsp;(2)
 
-Reserve-component annuity.—In the case of a reserve-component annuity provided to a beneficiary under section 1450(a) of this title (other than under section 1450(a)(4)), the monthly annuity payable to the beneficiary shall be determined as follows:
+Reserve-component annuity.—In the case of a reserve-component annuity providedto a beneficiary under section 1450(a) of this title (other than under section 1450(a)(4)), the monthly annuity payable to the beneficiary shall be determined as follows:
 
 &emsp;&emsp;(A)
 
@@ -114,7 +114,7 @@ Beneficiary 62 years of age or older.—
 
 &emsp;&emsp;&emsp;(i)
 
-General rule.—If the person receiving the annuity (other than a dependent child) is 62 years of age or older when the member or former member dies, the monthly annuity shall be the amount equal to the applicable percent of the retired pay to which the member or former member would have been entitled as determined under subparagraph (A). The percent applicable for a month under the preceding sentence is the percent specifiedunder subsection (a)(1)(B)(i) as being applicable for that month.
+General rule.—If the person receiving the annuity (other than a dependent child) is 62 years of age or older when the member or former member dies, the monthly annuity shall be the amount equal to the applicable percent of the retired pay to which the member or former member would have been entitled as determined under subparagraph (A). The percent applicable for a month under the preceding sentence is the percent specified under subsection (a)(1)(B)(i) as being applicable for that month.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -122,7 +122,7 @@ Rule if beneficiary eligible for social security offset computation.—If the be
 
 &emsp;(2)
 
-DIC offset.—An annuity computed under paragraph (1) that is paid to a surviving spouse shall be reduced by the amount of dependency and indemnity compensation to which the surviving spouse is entitled under section 1311(a) of title 38. Any such reduction shall be effective on the date of the commencement of the period of payment of such compensation under title 38.
+DIC offset.—An annuity computed under paragraph (1) that is paid to a surviving spouse shall be reduced by the amount of dependency and indemnity compensation to which the surviving spouse is entitled under section 1311(a)of title 38. Any such reduction shall be effective on the date of the commencement of the period of payment of such compensation under title 38.
 
 &emsp;(3)
 
@@ -216,7 +216,7 @@ Treatment of certain periods for which social security refunds are made.—In th
 
 &emsp;&emsp;&emsp;(i) which was performed after December 1, 1980; and
 
-&emsp;&emsp;&emsp;(ii) which involved periods of service of less than 30 continuous days for which the person concerned is entitled to receive a refund under section 6413(c) of the Internal Revenue Code of 1986 of the social security tax which the person had paid.
+&emsp;&emsp;&emsp;(ii) which involved periods of service of less than 30 continuous days for which theperson concerned is entitled to receive a refund under section 6413(c) of the Internal Revenue Code of 1986 of the social security tax which the person had paid.
 
 (f)
 
@@ -284,11 +284,11 @@ Disregarding of retired pay reductions for retirement of certain members before 
 
 Recomputation of Annuity for Certain Beneficiaries.—In the case of an annuity under the Plan which is computed on the basis of the retired pay of a person who would have been entitled to have that retired pay recomputed under section 1410 of this title upon attaining 62 years of age, but who dies before attaining that age, the annuity shall be recomputed, effective on the first day of the first month beginning after the date on which the member or former member would have attained 62 years of age, so as to be the amount equal to the amount of the annuity that would be in effect on that date if increases under subsection (h)(1) in the base amount applicable to that annuity to the time of the death of the member or former member, and increases in such annuity under subsection (g)(1), had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section).
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 709; amended Pub. L. 94–496, §1(4), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §204, Sept. 30, 1978, 92 Stat. 846; Pub. L. 96–402, §3, Oct. 9, 1980, 94 Stat. 1705; Pub. L. 97–22, §11(a)(4), July 10, 1981, 95 Stat. 137; Pub. L. 98–94, title IX, §922(a)(14)(B), Sept. 24, 1983, 97 Stat. 642; Pub. L. 98–525, title VI, §641(a), Oct. 19, 1984, 98 Stat. 2545; Pub. L. 99–145, title VII, §711(a), (b), Nov. 8, 1985, 99 Stat. 666, 670; Pub. L. 99–348, title III, §301(a)(2), (b), (c), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title VI, §642(b), title XIII, §1343(a)(8)(D), Nov. 14, 1986, 100 Stat. 3886, 3992; Pub. L. 100–26, §7(h)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–224, §3(a), (c), Dec. 30, 1987, 101Stat. 1537; Pub. L. 100–456, div. A, title VI, §652(a), Sept. 29, 1988, 102 Stat. 1991; Pub. L. 101–189, div. A, title XIV, §§1403(a), 1407(a)(5)–(8), (b)(1), Nov. 29, 1989, 103 Stat. 1579, 1588, 1589; Pub. L. 103–337, div. A, title X, §1070(e)(4), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2566; Pub. L. 105–85, div. A, title X, §1073(a)(28), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 106–65, div. A, title VI, §643(a)(1), Oct. 5, 1999, 113 Stat. 663; Pub. L. 107–107, div. A, title VI, §642(b), (c)(2), Dec. 28, 2001, 115 Stat. 1152; Pub. L. 107–314, div. A, title X, §1062(a)(6), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–375, div. A, title VI, §644(a), Oct. 28, 2004, 118 Stat. 1960.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 709; amended Pub. L. 94–496, §1(4), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §204, Sept. 30, 1978, 92 Stat. 846; Pub. L. 96–402, §3, Oct. 9, 1980, 94 Stat. 1705; Pub. L. 97–22, §11(a)(4), July 10, 1981, 95 Stat. 137; Pub. L. 98–94, title IX, §922(a)(14)(B), Sept. 24, 1983, 97 Stat. 642; Pub. L. 98–525, title VI, §641(a), Oct. 19, 1984, 98 Stat. 2545; Pub. L. 99–145, title VII, §711(a), (b), Nov. 8, 1985, 99 Stat. 666, 670; Pub. L. 99–348, title III, §301(a)(2), (b), (c), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title VI, §642(b), title XIII, §1343(a)(8)(D), Nov. 14, 1986, 100 Stat. 3886, 3992; Pub. L. 100–26, §7(h)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–224, §3(a), (c), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 100–456, div. A, title VI, §652(a), Sept. 29, 1988, 102 Stat. 1991; Pub. L. 101–189, div. A, title XIV, §§1403(a), 1407(a)(5)–(8), (b)(1), Nov. 29, 1989, 103 Stat. 1579, 1588, 1589; Pub. L. 103–337, div. A, title X, §1070(e)(4), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2566; Pub. L. 105–85, div. A, title X, §1073(a)(28), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 106–65, div. A, title VI, §643(a)(1), Oct. 5, 1999, 113 Stat. 663; Pub. L. 107–107, div. A, title VI, §642(b), (c)(2), Dec. 28, 2001, 115 Stat. 1152; Pub. L. 107–314, div. A, title X, §1062(a)(6), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–375, div. A, title VI, §644(a), Oct. 28, 2004, 118 Stat. 1960.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (e)(3)(A), (4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (e)(3)(A), (4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620,as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 6413(c) of the Internal Revenue Code of 1986, referred to in subsec. (e)(4)(B)(ii), is classified to section 6413(c) of Title 26, Internal Revenue Code.
 
@@ -370,7 +370,7 @@ Subsec. (g)(1). Pub. L. 99–348, §301(b), struck out “by the same total perc
 
 Subsecs. (h), (i). Pub. L. 99–348, §301(a)(2), (c), added subsecs. (h) and (i).
 
-1985—Pub. L. 99–145, §711(a), amended section generally, eliminating the social security offset to the Planand establishing a two-tier system under which the beneficiary would receive 55 percent of retired pay before age 62 and 35 percent thereafter in recognition of the entitlement to social security based on military service, and providing benefits to certain beneficiaries under either the old social security offset system or the new two-tier system, whichever is higher.
+1985—Pub. L. 99–145, §711(a), amended section generally, eliminating the social security offset to the Plan and establishing a two-tier system under which the beneficiary would receive 55 percent of retired pay before age 62 and 35 percent thereafter in recognition of the entitlement to social security based on military service, and providing benefits to certain beneficiaries under either the old social security offset system or the new two-tier system, whichever is higher.
 
 Subsec. (a)(3). Pub. L. 99–145, §711(b), repealed Pub. L. 98–525, §641(a), effective Sept. 1, 1985. See 1984 Amendment note below.
 

@@ -42,5 +42,5 @@ In subsection (c), 10:11 (1st proviso of last sentence) is omitted as executed. 
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–649 effective on Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 87–649 effective on Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an EffectiveDate note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
 

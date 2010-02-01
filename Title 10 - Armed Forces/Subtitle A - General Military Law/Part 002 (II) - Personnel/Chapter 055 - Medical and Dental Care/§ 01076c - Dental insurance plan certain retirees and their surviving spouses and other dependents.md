@@ -108,7 +108,7 @@ Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title VII, §726(b)\], substit
 
 Subsecs. (i), (j). Pub. L. 106–398, §1 \[\[div. A\], title VII, §726(a)\], added subsec. (i) and redesignated former subsec. (i) as (j).
 
-1999—Subsec. (d). Pub. L. 106–65 amended heading and text of subsec. (d) generally. Text read as follows: “Thedental insurance plan established under subsection (a) shall provide benefits for basic dental care and treatment, including diagnostic services, preventative services, basic restorative services (including endodontics), surgical services, and emergency services.”
+1999—Subsec. (d). Pub. L. 106–65 amended heading and text of subsec. (d) generally. Text read as follows: “The dental insurance plan established under subsection (a) shall provide benefits for basic dental care and treatment, including diagnostic services, preventative services, basic restorative services (including endodontics), surgical services, and emergency services.”
 
 1998—Subsec. (b)(4), (5). Pub. L. 105–261, §702(a), added par. (4) and redesignated former par. (4) as (5).
 

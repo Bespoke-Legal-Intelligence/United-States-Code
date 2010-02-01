@@ -86,7 +86,7 @@
 
 #### (1) In general
 
-&emsp;Any designation of an area as an enterprise zone shall remain in effect during the periodbeginning on the date of the designation and ending on the earliest of—
+&emsp;Any designation of an area as an enterprise zone shall remain in effect during the period beginning on the date of the designation and ending on the earliest of—
 
 &emsp;&emsp;(A) December 31 of the 24th calendar year following the calendar year in which such date occurs;
 

@@ -30,7 +30,7 @@ The Administrator shall submit to Congress each year, at or about the time that 
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–398 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+2000—Pub. L. 106–398 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
 #### First Report on Assessment of Prior Plans; GAO Report
 

@@ -14,7 +14,7 @@
 
 &emsp;(1) designate a class or classes of unsecured claims, as provided in section 1122 of this title, but may not discriminate unfairly against any class so designated; however, such plan may treat claims for a consumer debt of the debtor if an individual is liable on such consumer debt with the debtor differently than other unsecured claims;
 
-&emsp;(2) modify the rights of holders of secured claims, other than a claim secured only by a security interest in real property that is the debtor's principal residence, or of holders of unsecured claims, or leave unaffected the rights of holders of any class of claims;
+&emsp;(2) modify the rights of holders of secured claims, other than a claim secured only by a security interest in real property that is the debtor's principal residence, or of holders ofunsecured claims, or leave unaffected the rights of holders of any class of claims;
 
 &emsp;(3) provide for the curing or waiving of any default;
 

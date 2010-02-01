@@ -10,7 +10,7 @@ The Secretary is authorized, in carrying out this chapter, to accept, purchase, 
 
 #### (c) Authority to enter into certain agreements and to make certain expenditures
 
-The Secretary may make such grants, enter into such contracts or agreements, establish such procedures, and make such payments, in installments and in advance or by way of reimbursement, or otherwise allocate or expend such funds under this chapter, as may be necessary to carry out this chapter, including making expenditures for construction, repairs, and capital improvements, and including making necessary adjustments in payments on account of over-payments or underpayments.
+The Secretary may make such grants, enter into such contracts or agreements, establishsuch procedures, and make such payments, in installments and in advance or by way of reimbursement, or otherwise allocate or expend such funds under this chapter, as may be necessary to carry out this chapter, including making expenditures for construction, repairs, and capital improvements, and including making necessary adjustments in payments on account of over-payments or underpayments.
 
 #### (d) Annual report
 
@@ -46,7 +46,7 @@ Notwithstanding any other provision of this chapter, the Secretary shall have no
 
 #### (2) Availability
 
-&emsp;Funds obligated for any program year for a program or activity carried out under thischapter may be expended by each State receiving such funds during that program year and the 2 succeeding program years. Funds obligated for any program year for a program or activity carried out under section 2916 or 2917 of this title shall remain available until expended. Funds received by local areas from States under this chapter during a program year may be expended during that program year and the succeeding program year. No amount of the funds described in this paragraph shall be deobligated on account of a rate of expenditure that is consistent with a State plan, an operating plan described in section 2891 of this title, or a plan, grant agreement, contract, application, or other agreement described in subchapter IV of this chapter, as appropriate.
+&emsp;Funds obligated for any program year for a program or activity carried out under this chapter may be expended by each State receiving such funds during that program year and the 2 succeeding program years. Funds obligated for any program year for a program or activity carried out under section 2916 or 2917 of this title shall remain available until expended. Funds received by local areas from States under this chapter during a program year may be expended during that program year and the succeeding program year. No amount of the funds described in this paragraph shall be deobligated on account of a rate of expenditure that is consistent with a State plan, an operating plan described in section 2891 of this title, or a plan, grant agreement, contract, application, or other agreement described in subchapter IV of this chapter, as appropriate.
 
 #### (h) Enforcement of Military Selective Service Act
 
@@ -70,7 +70,7 @@ The Secretary shall ensure that each individual participating in any program or 
 
 #### (A) General authority
 
-&emsp;&emsp;Notwithstanding any other provision of law, the Secretary may waive for a State, or a local area in a State, pursuant to a request submitted by the Governor of the State (in consultation with appropriate local elected officials) that meets the requirements of subparagraph (B)—
+&emsp;&emsp;Notwithstanding any other provision of law, the Secretary may waive for a State, or a local area in a State, pursuant to a requestsubmitted by the Governor of the State (in consultation with appropriate local elected officials) that meets the requirements of subparagraph (B)—
 
 &emsp;&emsp;&emsp;(i) any of the statutory or regulatory requirements of subchapter II of this chapter or this subchapter (except for requirements relating to wage and labor standards, including nondisplacement protections, worker rights, participation and protection of workers and participants, grievance procedures and judicial review, nondiscrimination, allocation of funds to local areas, eligibility of providers or participants, the establishment and functions of local areas and local boards, and procedures for review and approval of plans); and
 
@@ -98,7 +98,7 @@ The Secretary shall ensure that each individual participating in any program or 
 
 &emsp;&emsp;&emsp;(ii) the State has executed a memorandum of understanding with the Secretary requiring such State to meet, or ensure that the local area meets, agreed-upon outcomes and to implement other appropriate measures to ensure accountability.
 
-(Pub. L. 105–220, title I, §189, Aug. 7, 1998, 112 Stat. 1051; Pub. L. 105–277, div. A, §101(f) \[titleVIII, §401(13)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 109–281, §2(c), Sept. 22, 2006, 120 Stat. 1181.)
+(Pub. L. 105–220, title I, §189, Aug. 7, 1998, 112 Stat. 1051; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(13)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 109–281, §2(c), Sept. 22, 2006, 120 Stat. 1181.)
 
 #### References in Text
 

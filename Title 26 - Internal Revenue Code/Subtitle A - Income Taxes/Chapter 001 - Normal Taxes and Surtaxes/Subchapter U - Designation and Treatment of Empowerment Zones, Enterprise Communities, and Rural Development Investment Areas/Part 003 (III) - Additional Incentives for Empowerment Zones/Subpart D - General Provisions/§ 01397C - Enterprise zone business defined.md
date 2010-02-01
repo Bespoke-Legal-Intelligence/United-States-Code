@@ -80,7 +80,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any trade or business consisting of the operation of any facility described in section 144(c)(6)(B), and
 
-&emsp;&emsp;(B) any trade or business the principal activity of which is farming (within the meaning of subparagraphs <sup>1</sup> (A) or (B) of section2032A(e)(5)), but only if, as of the close of the taxable year, the sum of—
+&emsp;&emsp;(B) any trade or business the principal activity of which is farming (within the meaning of subparagraphs <sup>1</sup> (A) or (B) of section 2032A(e)(5)), but only if, as of the close of the taxable year, the sum of—
 
 &emsp;&emsp;&emsp;(i) the aggregate unadjusted bases (or, if greater, the fair market value) of the assets owned by the taxpayer which are used in such a trade or business, and
 
@@ -162,7 +162,7 @@ In general.—The amendments made by this section \[amending this section\] shal
 
 “(2)
 
-Special rule for enterprise zone facility bonds.—For purposes of section 1394(b) of the Internal Revenue Code of 1986, the amendments made by this section shall apply to obligations issued after the date of the enactment of this Act.”
+Special rule for enterprise zone facility bonds.—For purposes of section 1394(b) of the InternalRevenue Code of 1986, the amendments made by this section shall apply to obligations issued after the date of the enactment of this Act.”
 
 #### Effective Date of 1996 Amendment
 

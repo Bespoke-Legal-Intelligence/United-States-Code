@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(ii) the rate of employer contributions for the plan year preceding the plan year in which the amendment becomes effective.
 
-(2) The plan sponsors shall include in any notice required to be sent to plan participants and beneficiaries under paragraph (1) information as to the rights and remedies of plan participants and beneficiaries as well as how to contact the Department of Labor for further information and assistance where appropriate.
+(2) The plan sponsors shall include in any notice required to be sent to plan participants andbeneficiaries under paragraph (1) information as to the rights and remedies of plan participants and beneficiaries as well as how to contact the Department of Labor for further information and assistance where appropriate.
 
 #### (c) Recoupment by plan of excess benefit payment
 

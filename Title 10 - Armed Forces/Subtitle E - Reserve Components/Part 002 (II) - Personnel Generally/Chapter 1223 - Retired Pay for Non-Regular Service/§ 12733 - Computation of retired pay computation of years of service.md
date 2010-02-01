@@ -1,6 +1,6 @@
 ### §12733. Computation of retired pay: computation of years of service
 
-For the purpose of computing the retired pay of a person under this chapter, the person's years of service and any fraction of such a yearare computed by dividing 360 into the sum of the following:
+For the purpose of computing the retired pay of a person under this chapter, the person's years of service and any fraction of such a year are computed by dividing 360 into the sum of the following:
 
 &emsp;(1) The person's days of active service.
 
@@ -52,7 +52,7 @@ June 29, 1948, ch. 708, §§303 (less 1st 91 words, and less 1st proviso), 306 (
 
 34:440m(d) (as applicable to determination of retired pay).
 
-The revised section consolidates provisions of 10:1036b and 1036e, and 34:440j and 440m, relating to the years of service that may be counted in determining retired pay for persons entitled to that pay under this chapter.
+The revised section consolidates provisions of 10:1036b and 1036e, and 34:440j and 440m, relating to the years ofservice that may be counted in determining retired pay for persons entitled to that pay under this chapter.
 
 Clause (1) is substituted for 10:1036b(i). In clause (3), the words “and proportionately for each fraction of a year” are inserted to make clear that parts of years must be counted. 10:1036e(d) and 34:440m(d) are omitted as covered by sections 101(22) and 101(24) of this title.
 

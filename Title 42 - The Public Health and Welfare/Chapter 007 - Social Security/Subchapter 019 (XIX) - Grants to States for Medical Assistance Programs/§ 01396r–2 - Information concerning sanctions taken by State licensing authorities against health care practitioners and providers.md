@@ -28,7 +28,7 @@ The information described in subsection (a)(1) of this section shall be provided
 
 &emsp;(2) to licensing authorities described in subsection (a)(1) of this section,
 
-&emsp;(3) to State agencies administering or supervising the administration of State health care programs (as defined in section 1320a–7(h) of this title),
+&emsp;(3) to State agencies administering or supervising the administration of State health careprograms (as defined in section 1320a–7(h) of this title),
 
 &emsp;(4) to utilization and quality control peer review organizations described in part B of subchapter XI of this chapter and to appropriate entities with contracts under section 1320c–3(a)(4)(C) of this title with respect to eligible organizations reviewed under the contracts,
 

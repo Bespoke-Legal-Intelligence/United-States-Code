@@ -22,7 +22,7 @@ Whenever it appears to the Attorney General that a drug not considered to be a p
 
 (2) As used in this subsection:
 
-&emsp;(A) The term “valid prescription” means a prescription that is issued for a legitimatemedical purpose in the usual course of professional practice by—
+&emsp;(A) The term “valid prescription” means a prescription that is issued for a legitimate medical purpose in the usual course of professional practice by—
 
 &emsp;&emsp;(i) a practitioner who has conducted at least 1 in-person medical evaluation of the patient; or
 

@@ -72,7 +72,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Nothing in paragraph (1) shall be construed to preclude a group health plan, or a health insurance issuer offering health insurance coverage in connection with a group health plan, from obtaining and using the results of a genetic test in making a determination regarding payment (as such term is defined for the purposes of applying the regulations promulgated by the Secretary under part C of title XI of the Social Security Act \[42 U.S.C. 1320d et seq.\] and section 264 of the Health Insurance Portability and Accountability Act of 1996, as may be revised from time to time) consistent with subsection (a).
+&emsp;&emsp;Nothing in paragraph (1) shall be construed to preclude a group health plan, or a health insurance issuer offering health insurance coverage in connection with a group health plan, from obtaining and using the results of a genetic test in making a determination regarding payment (as such term is defined for the purposes of applying the regulations promulgated by the Secretary under part C of title XI of the Social Security Act \[42 U.S.C. 1320d et seq.\] and section 264 of the Health Insurance Portability and Accountability Act of 1996, as may be revisedfrom time to time) consistent with subsection (a).
 
 #### (B) Limitation
 
@@ -84,7 +84,7 @@
 
 &emsp;&emsp;(A) The request is made pursuant to research that complies with part 46 of title 45, Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
 
-&emsp;&emsp;(B) The plan or issuer clearly indicates to each participant or beneficiary, or in the case of a minor child, to the legal guardianof such beneficiary, to whom the request is made that—
+&emsp;&emsp;(B) The plan or issuer clearly indicates to each participant or beneficiary, or in the case of a minor child, to the legal guardian of such beneficiary, to whom the request is made that—
 
 &emsp;&emsp;&emsp;(i) compliance with the request is voluntary; and
 
@@ -150,7 +150,7 @@ Subsec. (f). Pub. L. 110–233, §102(a)(3), added subsec. (f).
 
 Pub. L. 110–233, title I, §102(d)(2), May 21, 2008, 122 Stat. 895, provided that: “The amendments made by this section \[enacting section 300gg–53 of this title and amending this section and sections 300gg–21, 300gg–22, 300gg–61, and 300gg–91 of this title\] shall apply—
 
-&emsp;“(A) with respect to group health plans, and health insurance coverage offered in connection with group health plans, for plan years beginning after the date that is 1 year after the date of enactment of this Act \[May 21, 2008\]; and
+&emsp;“(A) with respect to group health plans, and health insurance coverage offered in connection with grouphealth plans, for plan years beginning after the date that is 1 year after the date of enactment of this Act \[May 21, 2008\]; and
 
 &emsp;“(B) with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market after the date that is 1 year after the date of enactment of this Act.”
 
@@ -164,7 +164,7 @@ Pub. L. 110–233, title I, §102(d)(1), May 21, 2008, 122 Stat. 895, provided t
 
 #### Assuring Coordination
 
-Pub. L. 110–233, title I, §106, May 21, 2008, 122 Stat. 905, provided that: “Except as provided in section 105(b)(1) \[set out as a note under section 1320d–9 of this title\],the Secretary of Health and Human Services, the Secretary of Labor, and the Secretary of the Treasury shall ensure, through the execution of an interagency memorandum of understanding among such Secretaries, that—
+Pub. L. 110–233, title I, §106, May 21, 2008, 122 Stat. 905, provided that: “Except as provided in section 105(b)(1) \[set out as a note under section 1320d–9 of this title\], the Secretary of Health and Human Services, the Secretary of Labor, and the Secretary of the Treasury shall ensure, through the execution of an interagency memorandum of understanding among such Secretaries, that—
 
 &emsp;“(1) regulations, rulings, and interpretations issued by such Secretaries relating to the same matter over which two or more such Secretaries have responsibility under this title \[enacting sections 300gg–53 and 1320d–9 of this title and section 9834 of Title 26, Internal Revenue Code, amending this section, sections 300gg–21, 300gg–22, 300gg–61, 300gg–91, and 1395ss of this title, sections 9802 and 9832 of Title 26, and sections 1132, 1182, and 1191b of Title 29, Labor, and enacting provisions set out as notes under this section, sections 1320d–9 and 1395ss of this title, section 9802 of Title 26, and section 1132 of Title 29\] (and the amendments made by this title) are administered so as to have the same effect at all times; and
 

@@ -22,7 +22,7 @@ An election may not be made by a reciprocal under subsection (a) unless the atto
 
 #### (d) Credit
 
-Any reciprocal electing to be subject to the limitation provided in subsection (b) shall becredited with so much of the tax paid by the attorney-in-fact as is attributable, under regulations prescribed by the Secretary, to the income received by the attorney-in-fact from the reciprocal in such taxable year.
+Any reciprocal electing to be subject to the limitation provided in subsection (b) shall be credited with so much of the tax paid by the attorney-in-fact as is attributable, under regulations prescribed by the Secretary, to the income received by the attorney-in-fact from the reciprocal in such taxable year.
 
 #### (e) Benefits of graduated rates denied
 

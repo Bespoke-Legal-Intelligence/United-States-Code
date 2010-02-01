@@ -10,7 +10,7 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;(1) training law enforcement officers, judges, other court personnel, and prosecutors to more effectively identify and respond to violent crimes against women, including the crimes of sexual assault, domestic violence, and dating violence;
 
-&emsp;(2) developing, training, or expanding units of law enforcement officers, judges, other court personnel, and prosecutors specifically targeting violent crimes against women, including the crimes of sexual assault and domestic violence;
+&emsp;(2) developing, training, or expanding units of law enforcement officers, judges, othercourt personnel, and prosecutors specifically targeting violent crimes against women, including the crimes of sexual assault and domestic violence;
 
 &emsp;(3) developing and implementing more effective police, court, and prosecution policies, protocols, orders, and services specifically devoted to preventing, identifying, and responding to violent crimes against women, including the crimes of sexual assault and domestic violence;
 
@@ -50,7 +50,7 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;&emsp;(C) the development of such protocols in collaboration with State, tribal, territorial and local victim service providers and domestic violence coalitions.
 
-> &emsp;Any law enforcement, State, tribal, territorial, or local government agency receiving funding under the Crystal Judson Domestic Violence Protocol Program under paragraph (14) shall on an annual basis, receive additional training on the topic of incidents of domestic violence committed by law enforcement personnel from domestic violence and sexual assault nonprofit organizations and, after a period of 2 years, provide a report of the adopted protocol to the Department of Justice, including a summary of progress in implementing such protocol.
+> &emsp;Any law enforcement, State, tribal, territorial, or local government agency receiving funding under the Crystal Judson Domestic Violence Protocol Program under paragraph (14) shall on an annual basis, receive additional training on the topic of incidents of domestic violence committed by law enforcement personnel from domestic violence and sexual assault nonprofit organizations and, after a period of 2 years, provide a report of the adopted protocol to the Department ofJustice, including a summary of progress in implementing such protocol.
 
 #### (c) State coalition grants
 

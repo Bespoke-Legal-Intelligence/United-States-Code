@@ -48,7 +48,7 @@ If, after any hearing conducted pursuant to subsection (d) of this section, the 
 
 &emsp;(4) such applicant cannot otherwise obtain a patent license from the owner of the patent on terms which the Commission deems to be reasonable for the intended use of the patent to be made by such applicant,
 
-> the Commission shall license the applicant to use the invention or discovery covered by the patent for the purposes stated in such application on terms deemed equitable by the Commission and generally not less fair than those granted by the patentee or by the Commission to similar licensees for comparable use.
+> the Commission shall license the applicant to use the invention or discovery covered by thepatent for the purposes stated in such application on terms deemed equitable by the Commission and generally not less fair than those granted by the patentee or by the Commission to similar licensees for comparable use.
 
 #### (f) Limitations on issuance of patent
 

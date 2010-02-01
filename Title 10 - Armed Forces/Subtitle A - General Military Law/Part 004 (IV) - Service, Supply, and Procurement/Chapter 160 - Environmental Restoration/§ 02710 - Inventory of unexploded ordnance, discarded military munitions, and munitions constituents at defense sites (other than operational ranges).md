@@ -8,7 +8,7 @@ Inventory Required.—(1) The Secretary of Defense shall develop and maintain an
 
 &emsp;(A) A unique identifier for the defense site.
 
-&emsp;(B) An appropriate record showing the location, boundaries, and extent of the defense site, including identification of the State and political subdivisions of the State in which the defense site is located and any Tribal lands encompassed by the defense site.
+&emsp;(B) An appropriate record showing the location, boundaries, and extent of the defense site, including identification of the State and political subdivisions of the State, including the county, where applicable, in which the defense site is located and any Tribal lands encompassed by the defense site.
 
 &emsp;(C) Known persons and entities, other than a military department, with any current ownership interest or control of lands encompassed by the defense site.
 
@@ -74,9 +74,11 @@ Definitions.—In this section:
 
 &emsp;(7) The term “United States”, in a geographic sense, means the States, territories, and possessions and associated navigable waters, contiguous zones, and ocean waters of which the natural resources are under the exclusive management authority of the United States.
 
-(Added Pub. L. 107–107, div. A, title III, §311(a)(1), Dec. 28, 2001, 115 Stat. 1048; amended Pub. L. 108–136, div. A, title X, §1042(b), Nov. 24, 2003, 117 Stat. 1610.)
+(Added Pub. L. 107–107, div. A, title III, §311(a)(1), Dec. 28, 2001, 115 Stat. 1048; amended Pub. L. 108–136, div. A, title X, §1042(b), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 111–84, div. A, title III, §318(a), Oct. 28, 2009, 123 Stat. 2250.)
 
 #### Amendments
+
+2009—Subsec. (a)(2)(B). Pub. L. 111–84 inserted “, including the county, where applicable,” after “political subdivisions of the State”.
 
 2003—Subsec. (e). Pub. L. 108–136 redesignated pars. (4), (6), (7), (8), and (10) as (3) to (7), respectively, and struck out former pars. (3), (5), and (9) which defined terms “military munitions”, “operational range”, and “unexploded ordnance”, respectively.
 
@@ -86,11 +88,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Expedited Use of Appropriate Technology Related to Unexploded Ordnance Detection
 
-Pub. L. 110–417, \[div. A\], title III, §314, Oct. 14, 2008, 122 Stat. 4410, provided that:
+Pub. L. 110–417, \[div. A\], title III, §314, Oct. 14, 2008, 122 Stat. 4410, as amended by Pub. L. 111–84, div. A, title X, §1073(c)(1), Oct. 28, 2009, 123 Stat. 2474, provided that:
 
 “(a)
 
-Expedited Use of Appropriate Technologies.—The Secretary shall expedite the use of appropriate unexploded ordnance detection instrument technology developed through research funded by the Department of Defense or developed by entities other than the Department of Defense.
+Expedited Use of Appropriate Technologies.—The Secretary of Defense shall expedite the use of appropriate unexploded ordnance detection instrument technology developed through research funded by the Department of Defense or developed by entities other than the Department of Defense.
 
 “(b)
 
@@ -111,6 +113,8 @@ Report.—Not later than October 1, 2009, the Secretary shall submit to the Comm
 “(c)
 
 Unexploded Ordnance Defined.—In this section, the term ‘unexploded ordnance’ has the meaning given such term in section 101(e)(5) of title 10, United States Code.”
+
+\[Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(1) to section 314 of Pub. L. 110–417, set out above, is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 therein as enacted.\]
 
 #### Response Plan for Remediation of Unexploded Ordnance, Discarded Military Munitions, and Munitions Constituents
 
@@ -134,7 +138,7 @@ Response Plan Required.—
 
 &emsp;“(1)
 
-In general.—Not later than March 1, 2007, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a comprehensive plan for addressing the remediation of unexploded ordnance, discarded military munitions, and munitions constituents at current and former defense sites (other than operational ranges).
+In general.—Not later than March 1, 2007, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a comprehensive plan for addressing the remediation of unexploded ordnance,discarded military munitions, and munitions constituents at current and former defense sites (other than operational ranges).
 
 &emsp;“(2)
 

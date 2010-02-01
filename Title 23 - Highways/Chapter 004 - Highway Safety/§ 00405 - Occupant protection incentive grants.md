@@ -48,7 +48,7 @@ Minimum fine or penalty points.—The State imposes a minimum fine or provides f
 
 &emsp;(4)
 
-Special traffic enforcement program.—The State has implemented a statewide special traffic enforcement program for occupant protection that emphasizes publicity for the program.
+Special traffic enforcement program.—The State has implemented a statewide special traffic enforcement program foroccupant protection that emphasizes publicity for the program.
 
 &emsp;(5)
 
@@ -234,7 +234,7 @@ Federal share.—The Federal share of the cost of a program carried out using fu
 
 “(5)
 
-Report.—Each State that receives a grant under this subsection shall transmit to the Secretary a reportfor the period covered by the grant that, at a minimum, describes the program activities carried out with the funds made available under the grant.
+Report.—Each State that receives a grant under this subsection shall transmit to the Secretary a report for the period covered by the grant that, at a minimum, describes the program activities carried out with the funds made available under the grant.
 
 “(6)
 

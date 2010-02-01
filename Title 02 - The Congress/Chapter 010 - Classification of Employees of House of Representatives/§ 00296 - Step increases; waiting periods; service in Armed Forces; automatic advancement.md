@@ -1,6 +1,6 @@
 ### §296. Step increases; waiting periods; service in Armed Forces; automatic advancement
 
-(a) Each employee in a compensation level of the House Employees Schedule (HS), who has not attained the highest schedule rate of compensation for the compensation level (HS level) in which his position is placed, shall be advanced successively to the next higher step of such HS level, as follows:
+(a) Each employee in a compensation level of the House Employees Schedule (HS), who has not attained the highest scheduled rate of compensation for the compensation level (HS level) in which his position is placed, shall be advanced successively to the next higher step of such HS level, as follows:
 
 &emsp;(1) to steps 2, 3, and 4, respectively—at the beginning of the first pay period following the completion, without break in service of more than thirty months, of one year of satisfactory service in the next lower step;
 

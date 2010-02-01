@@ -170,7 +170,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 #### (B) Income requirements for residences in high housing cost area
 
-&emsp;&emsp;The percentage determined under this subparagraph for a residence located in a high housing cost area is the percentage (not greater than 140 percent) equal to the product of—
+&emsp;&emsp;The percentage determined under this subparagraph for a residence located in a highhousing cost area is the percentage (not greater than 140 percent) equal to the product of—
 
 &emsp;&emsp;&emsp;(I) 115 percent, and
 
@@ -310,7 +310,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 &emsp;&emsp;Subparagraph (A) shall be satisfied with respect to any issue if the issuer elects before issuing the bonds to pay over to the United States—
 
-&emsp;&emsp;&emsp;(i) not less frequently than once each 5 years after the date of issue, an amountequal to 90 percent of the aggregate amount which would be required to be paid or credited to mortgagors under subparagraph (A) (and not theretofore paid to the United States), and
+&emsp;&emsp;&emsp;(i) not less frequently than once each 5 years after the date of issue, an amount equal to 90 percent of the aggregate amount which would be required to be paid or credited to mortgagors under subparagraph (A) (and not theretofore paid to the United States), and
 
 &emsp;&emsp;&emsp;(ii) not later than 60 days after the redemption of the last bond, 100 percent of such aggregate amount not theretofore paid to the United States.
 
@@ -462,7 +462,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the value of services performed by the mortgagor or members of his family in completing the residence, and
 
-&emsp;&emsp;&emsp;(iii) the cost of land (other than land described in subsection (i)(1)(C)(i)) which has been owned by the mortgagor for at least 2 years before the date on which construction of the residence begins.
+&emsp;&emsp;&emsp;(iii) the cost of land (other than land described in subsection (i)(1)(C)(i)) which has been owned by the mortgagor for at least2 years before the date on which construction of the residence begins.
 
 #### (C) Special rule for qualified rehabilitation loans
 
@@ -554,7 +554,7 @@ For purposes of this section—
 
 #### (C) Limited equity cooperative housing
 
-&emsp;&emsp;For purposes of this paragraph, the term “limited equity cooperative housing” means any dwelling unit which a person is entitled to occupy by reason of his ownership of stock in a qualified cooperative housing corporation.
+&emsp;&emsp;For purposes of this paragraph, the term “limited equity cooperative housing” meansany dwelling unit which a person is entitled to occupy by reason of his ownership of stock in a qualified cooperative housing corporation.
 
 #### (D) Qualified cooperative housing corporation
 
@@ -588,7 +588,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a residence which is located in a high housing cost area (as defined in section 143(f)(5)), the interest of a governmental unit in such residence by reason offinancing provided under any qualified program shall not be taken into account under this section (other than subsection (m)), and the acquisition cost of the residence which is taken into account under subsection (e) shall be such cost reduced by the amount of such financing.
+&emsp;&emsp;In the case of a residence which is located in a high housing cost area (as defined in section 143(f)(5)), the interest of a governmental unit in such residence by reason of financing provided under any qualified program shall not be taken into account under this section (other than subsection (m)), and the acquisition cost of the residence which is taken into account under subsection (e) shall be such cost reduced by the amount of such financing.
 
 #### (B) Qualified program
 
@@ -624,7 +624,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) subsection (d) (relating to 3-year requirement) shall not apply, and
 
-&emsp;&emsp;&emsp;(iii) subsection (e) (relating to purchase price requirement) shall be applied by using the market value of the residence at the time of refinancing in lieu of the acquisition cost.
+&emsp;&emsp;&emsp;(iii) subsection (e) (relating to purchase price requirement) shall be applied byusing the market value of the residence at the time of refinancing in lieu of the acquisition cost.
 
 #### (C) Qualified subprime loan
 
@@ -672,7 +672,7 @@ For purposes of this section—
 
 #### (ii) Denial of double benefit
 
-&emsp;&emsp;&emsp;If a taxpayer elects the application of this paragraph, paragraph (11) shall notapply with respect to the purchase or financing of any residence by such taxpayer.
+&emsp;&emsp;&emsp;If a taxpayer elects the application of this paragraph, paragraph (11) shall not apply with respect to the purchase or financing of any residence by such taxpayer.
 
 #### (<i>l</i>) Additional requirements for qualified veterans’ mortgage bonds
 
@@ -871,7 +871,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 #### (ii) Retirements of indebtedness
 
-&emsp;&emsp;&emsp;If the federally-subsidized indebtedness is completely repaid during any year of the 4-year period beginning on the testing date, the holding period percentage for succeeding years shall be determined by reducing ratably to zero over the succeeding 5 years the holding period percentage which would have been determined under this subparagraph had the taxpayer disposed of his interest in the residence on the date of the repayment.
+&emsp;&emsp;&emsp;If the federally-subsidized indebtedness is completely repaid during any year of the 4-year period beginning on the testing date, the holding period percentage for succeeding years shall be determined by reducing ratably to zero over the succeeding 5 years the holding period percentagewhich would have been determined under this subparagraph had the taxpayer disposed of his interest in the residence on the date of the repayment.
 
 #### (D) Testing date
 

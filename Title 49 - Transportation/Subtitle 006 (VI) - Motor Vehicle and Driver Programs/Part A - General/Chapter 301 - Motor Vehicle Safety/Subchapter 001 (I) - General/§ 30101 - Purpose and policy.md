@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 Sept. 9, 1966, Pub. L. 89–563, §1, 80 Stat. 718.
 
-The words “Congress hereby declares that”, “to persons”, and “Congress determines that” are omitted as surplus. The words “motor vehicle” before “equipment” are added for consistency. The words “and to expand the national driver register” are omitted because section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), the only section in this law related to the national driver register, was superseded by the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1740).
+The words “Congress hereby declares that”, “to persons”, and “Congress determines that” are omitted as surplus. The words “motor vehicle” before “equipment” are added for consistency. The words “and to expand the national driver register” are omitted becausesection 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), the only section in this law related to the national driver register, was superseded by the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1740).
 
 #### Short Title of 2007 Amendment
 
@@ -120,7 +120,7 @@ Definitions.—As used in this part—
 
 &emsp;“(2) the term ‘multipurpose passenger vehicle’ means a motor vehicle with motive power (except a trailer), designed to carry 10 persons or fewer, which is constructed either on a truck chassis or with special features for occasional off-road operation;
 
-&emsp;“(3) the term ‘passenger car’ means a motor vehicle with motive power (except a multipurpose passenger vehicle, motorcycle, or trailer), designed for carrying 10 persons or fewer;
+&emsp;“(3) the term ‘passenger car’ means a motor vehicle with motive power (except a multipurpose passengervehicle, motorcycle, or trailer), designed for carrying 10 persons or fewer;
 
 &emsp;“(4) the term ‘truck’ means a motor vehicle with motive power, except a trailer, designed primarily for the transportation of property or special purpose equipment; and
 
@@ -198,7 +198,7 @@ Standard.—The Secretary may, as part of any action taken under section 2503, a
 
 #### “SEC. 2509. HEAD INJURY IMPACT STUDY.
 
-“The Secretary, in the case of any head injury protection matters not subject to section 2503(5) for which the Secretary is on the date of enactment of this Act \[Dec. 18, 1991\] examining the need for rulemaking and is conducting research, shall provide a report to Congress by the end of fiscal year 1993 identifying those matters and their status. The report shall include a statement of any actions planned toward initiating such rulemaking no later than fiscal year 1994 or 1995 through use of either an advance notice of proposed rulemaking or a notice of proposed rulemaking and completing such rulemaking as soon as possible thereafter.”
+“The Secretary, in the case of any head injury protection matters not subject to section 2503(5) for which the Secretary is on the date of enactment of this Act \[Dec. 18, 1991\] examining the need for rulemaking and is conducting research, shall provide a report to Congress by the end of fiscal year 1993 identifying those matters and their status. The report shall include a statement of any actions planned toward initiating such rulemaking no later than fiscal year 1994 or 1995 through use of either an advance notice of proposedrulemaking or a notice of proposed rulemaking and completing such rulemaking as soon as possible thereafter.”
 
 #### Fuel System Integrity Standard
 

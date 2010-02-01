@@ -20,11 +20,21 @@ The park shall consist of the following sites, as generally depicted on a map en
 
 &emsp;(6) The Paul Laurence Dunbar State Memorial, Dayton, Ohio.
 
-(Pub. L. 102–419, title I, §101, Oct. 16, 1992, 106 Stat. 2141; Pub. L. 106–356, §2(a), Oct. 24, 2000, 114 Stat. 1391.)
+#### (c) Additional sites
+
+In addition to the sites described in subsection (b), the park shall consist of the following sites, as generally depicted on a map titled “Dayton Aviation Heritage National Historical Park”, numbered 362/80,013 and dated May 2008:
+
+&emsp;(1) Hawthorn Hill, Oakwood, Ohio.
+
+&emsp;(2) The Wright Company factory and associated land and buildings, Dayton, Ohio.
+
+(Pub. L. 102–419, title I, §101, Oct. 16, 1992, 106 Stat. 2141; Pub. L. 106–356, §2(a), Oct. 24, 2000, 114 Stat. 1391; Pub. L. 111–11, title VII, §7117(a), Mar. 30, 2009, 123 Stat. 1204.)
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–356 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The park shall consist of the following sites, as generally depicted on a map entitled ‘Proposed Dayton Aviation Heritage National Historical Park’, numbered NHP–DAH 80,000, and dated February 1992:
+2009—Subsec. (c). Pub. L. 111–11 added subsec. (c).
+
+2000—Subsec. (b). Pub. L. 106–356 amended heading and text of subsec. (b) generally. Prior to amendment,text read as follows: “The park shall consist of the following sites, as generally depicted on a map entitled ‘Proposed Dayton Aviation Heritage National Historical Park’, numbered NHP–DAH 80,000, and dated February 1992:
 
 &emsp;“(1) A core parcel in Dayton, Ohio, which shall consist of the Wright Cycle Company Building, Hoover Block, and lands between.
 

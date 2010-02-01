@@ -30,7 +30,7 @@ Whoever in a transaction affecting interstate or foreign commerce furnishes mone
 
 #### Amendments
 
-1974—Pub. L. 93–495 generally reorganized provisions by designating former unlettered paragraph cls. (a) to\(f), and as so designated, expanded prohibitions relating to fraudulent use of credit cards, decreased amount required for fraudulent use from a retail value aggregating $5,000, or more, to enumerated amounts for particular activities, and increased the punishment from a sentence of not more than five years to a sentence of not more than ten years.
+1974—Pub. L. 93–495 generally reorganized provisions by designating former unlettered paragraph cls. (a) to (f), and as so designated, expanded prohibitions relating to fraudulent use of credit cards, decreased amount required for fraudulent use from a retail value aggregating $5,000, or more, to enumerated amounts for particular activities, and increased the punishment from a sentence of not more than five years to a sentence of not more than ten years.
 
 #### Effective Date of 1974 Amendment
 

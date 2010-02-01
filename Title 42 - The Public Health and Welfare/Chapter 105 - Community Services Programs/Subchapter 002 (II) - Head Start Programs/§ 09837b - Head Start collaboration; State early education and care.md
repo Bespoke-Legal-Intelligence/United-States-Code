@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(v) enable the Head Start agencies to better conduct outreach to eligible families;
 
-&emsp;(C) promote partnerships between Head Start agencies, State and local governments, and the private sector to help ensure that children from low-income families, who are in Head Start programs or are preschool age, are receiving comprehensive services to prepare the children for elementary school;
+&emsp;(C) promote partnerships between Head Start agencies, State and local governments,and the private sector to help ensure that children from low-income families, who are in Head Start programs or are preschool age, are receiving comprehensive services to prepare the children for elementary school;
 
 &emsp;(D) consult with the chief State school officer, local educational agencies, and providers of early childhood education and development, at both the State and local levels;
 

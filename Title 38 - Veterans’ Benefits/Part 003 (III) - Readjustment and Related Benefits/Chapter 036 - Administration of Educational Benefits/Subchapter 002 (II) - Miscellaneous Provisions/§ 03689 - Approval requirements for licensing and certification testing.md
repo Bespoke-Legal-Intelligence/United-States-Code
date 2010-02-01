@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) No payment may be made for a licensing or certification test described in section 3452(b) or 3501(a)(5) of this title unless the Secretary determines that the requirements of this section have been met with respect to such test and the organization or entity offering the test. The requirements of approval for tests and organizations or entities offering tests shall be in accordance with the provisions of this chapter and chapters 30, 32, 34, and 35 of this title and with regulations prescribed by the Secretary to carry out this section.
+In General.—(1) No payment may be made for a licensing or certification test described in section 3452(b) or 3501(a)(5) of this title unless the Secretary determines that the requirements of this section have been met with respect to such test and the organization or entity offering the test. The requirements of approval for tests and organizations or entities offering tests shall be in accordance with the provisions of this chapter and chapters 30, 32, 33, 34, and 35 of this title and with regulations prescribed by the Secretary to carry out this section.
 
 (2) To the extent that the Secretary determines practicable, State approving agencies may, in lieu of the Secretary, approve licensing and certification tests, and organizations and entities offering such tests, under this section.
 
@@ -18,13 +18,13 @@ Requirements for Tests.—(1) Subject to paragraph (2), a licensing or certifica
 
 (c)
 
-Requirements for Organizations or Entities Offering Tests.—(1) Each organization or entity that is not an entity of the United States, a State, or political subdivision of a State, that offers a licensing or certification test for which payment may be made under chapter 30, 32, 34, or 35 of this title and that meets the following requirements, shall be approved by the Secretary to offer such test:
+Requirements for Organizations or Entities Offering Tests.—(1) Each organization or entity that is not an entity of the United States, a State, or political subdivision of a State, that offers a licensing or certification test for which payment may be made under chapter 30, 32, 33, 34, or 35 of this title and that meets the following requirements, shall be approved by the Secretary to offer such test:
 
 &emsp;(A) The organization or entity certifies to the Secretary that the licensing or certification test offered by the organization or entity is generally accepted, in accordance with relevant government, business, or industry standards, employment policies, or hiring practices, as attesting to a level of knowledge or skill required to qualify to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession.
 
 &emsp;(B) The organization or entity is licensed, chartered, or incorporated in a State and has offered such test, or a test to certify or license in a similar or related occupation, for a minimum of two years before the date on which the organization or entity first submits to the Secretary an application for approval under this section.
 
-&emsp;(C) The organization or entity employs, or consults with, individuals with expertise orsubstantial experience with respect to all areas of knowledge or skill that are measured by the test and that are required for the license or certificate issued.
+&emsp;(C) The organization or entity employs, or consults with, individuals with expertise or substantial experience with respect to all areas of knowledge or skill that are measured by the test and that are required for the license or certificate issued.
 
 &emsp;(D) The organization or entity has no direct financial interest in—
 
@@ -38,7 +38,7 @@ Requirements for Organizations or Entities Offering Tests.—(1) Each organizati
 
 &emsp;(ii) The organization or entity has in place a process to review complaints submitted against the organization or entity with respect to the test or the process for obtaining a license or certificate required for vocations or professions.
 
-&emsp;(G) The organization or entity furnishes to the Secretary such information with respect to the test as the Secretary requires to determine whether payment may be made for the test under chapter 30, 32, 34, or 35 of this title, including personal identifying information, fee payment, and test results. Such information shall be furnished in the form prescribed by the Secretary.
+&emsp;(G) The organization or entity furnishes to the Secretary such information with respect to the test as the Secretary requires to determine whether payment may be made for the test under chapter 30, 32, 33, 34, or 35 of this title, including personal identifying information, fee payment, and test results. Such information shall be furnished in the form prescribed by the Secretary.
 
 &emsp;(H) The organization or entity furnishes to the Secretary the following information:
 
@@ -58,13 +58,13 @@ Requirements for Organizations or Entities Offering Tests.—(1) Each organizati
 
 (d)
 
-Administration.—Except as otherwise specifically provided in this section or chapter 30, 32, 34, or 35 of this title, in implementing this section and making payment under any such chapter for a licensing or certification test, the test is deemed to be a “course” and the organization or entity that offers such test is deemed to be an “institution” or “educational institution”, respectively, as those terms are applied under and for purposes of sections 3671, 3673, 3674, 3678, 3679, 3681, 3682, 3683, 3685, 3690, and 3696 of this title.
+Administration.—Except as otherwise specifically provided in this section or chapter 30, 32, 33, 34, or 35 of this title, in implementing this section and making payment under any such chapter for a licensing or certification test, the test is deemed to be a “course” and the organization or entity that offers such test is deemed to be an “institution” or “educational institution”, respectively, as those terms are applied under and for purposes of sections 3671, 3673, 3674, 3678, 3679, 3681, 3682, 3683, 3685, 3690, and 3696 of this title.
 
 (e)
 
 Professional Certification and Licensure Advisory Committee.—(1) There is established within the Department a committee to be known as the Professional Certification and Licensure Advisory Committee (hereinafter in this section referred to as the “Committee”).
 
-(2) The Committee shall advise the Secretary with respect to the requirements of organizations or entities offering licensing and certification tests to individuals for which payment for such tests may be made under chapter 30, 32, 34, or 35 of this title, and such other related issues as the Committee determines to be appropriate.
+(2) The Committee shall advise the Secretary with respect to the requirements of organizations or entities offering licensing and certification tests to individuals for which payment for such tests may be made under chapter 30, 32, 33, 34, or 35 of this title, and such other related issues as the Committee determines to be appropriate.
 
 (3)(A) The Secretary shall appoint seven individuals with expertise in matters relating to licensing and certification tests to serve as members of the Committee.
 
@@ -80,15 +80,13 @@ Professional Certification and Licensure Advisory Committee.—(1) There is esta
 
 (Added Pub. L. 106–419, title I, §122(c)(1), Nov. 1, 2000, 114 Stat. 1835; amended Pub. L. 107–330, title III, §308(d), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 110–252, title V, §5003(b)(2)(A)(iii), June 30, 2008, 122 Stat. 2375.)
 
-#### Amendment of Section
-
-<i>Pub. L. 110–252, title V, §5003(b)(2)(A)(iii), (d), June 30, 2008, 122 Stat. 2375, 2378, provided that, effective Aug. 1, 2009, subsections (a)(1), (c)(1), (c)(1)(G), (d), and (e)(2) of this section are amended by inserting “33,” after “32,”.</i>
-
 #### Prior Provisions
 
 A prior section 3689, added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972, 86 Stat. 1087, §1789; amended Pub. L. 94–502, title V, §509(b), Oct. 15, 1976, 90 Stat. 2401; Pub. L. 95–202, title III, §305(a)(1), Nov. 23, 1977, 91 Stat. 1442; Pub. L. 96–466, title VI, §601(g), Oct. 17, 1980, 94 Stat. 2208; Pub. L. 101–237, title IV, §§418, 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2087, 2092; renumbered §3689, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406, related to approval of enrollment in courses in operation for less than two years, prior to repeal by Pub. L. 104–275, title I, §103(a)(1)(A), Oct. 9, 1996, 110 Stat. 3326.
 
 #### Amendments
+
+2008—Subsecs. (a)(1), (c)(1), (d), (e)(2). Pub. L. 110–252 inserted “33,” after “32,” wherever appearing.
 
 2002—Subsec. (c)(1)(B). Pub. L. 107–330 substituted “such test, or a test to certify or license in a similar or related occupation,” for “the test”.
 

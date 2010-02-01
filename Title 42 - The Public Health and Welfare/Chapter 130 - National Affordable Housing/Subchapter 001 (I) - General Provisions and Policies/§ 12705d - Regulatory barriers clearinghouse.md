@@ -30,7 +30,7 @@ The clearinghouse under this section shall be established within the Office of P
 
 #### (d) Timing
 
-The clearinghouse under this section (as amended by section 103 of the Housing Affordability Barrier Removal Act of 2000) shall be established and commence carrying out the functions of the clearinghouse under this section not later than 1 year after December 27, 2000. The Secretary of Housing and Urban Development may comply with the requirements under this section by reestablishing the clearinghouse thatwas originally established to comply with this section and updating and improving such clearinghouse to the extent necessary to comply with the requirements of this section as in effect pursuant to the enactment of such Act.
+The clearinghouse under this section (as amended by section 103 of the Housing Affordability Barrier Removal Act of 2000) shall be established and commence carrying out the functions of the clearinghouse under this section not later than 1 year after December 27, 2000. The Secretary of Housing and Urban Development may comply with the requirements under this section by reestablishing the clearinghouse that was originally established to comply with this section and updating and improving such clearinghouse to the extent necessary to comply with the requirements of this section as in effect pursuant to the enactment of such Act.
 
 (Pub. L. 102–550, title XII, §1205, Oct. 28, 1992, 106 Stat. 3940; Pub. L. 106–569, title I, §103, Dec. 27, 2000, 114 Stat. 2947.)
 

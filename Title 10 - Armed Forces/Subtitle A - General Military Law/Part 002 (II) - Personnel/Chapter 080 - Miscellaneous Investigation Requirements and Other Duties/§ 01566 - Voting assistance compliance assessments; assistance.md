@@ -54,7 +54,7 @@ Notice of Deadlines and Requirements.—The Secretary of each military departmen
 
 (i)
 
-Registration and Voting Information for Members and Dependents.—(1) The Secretary of each military department, using a variety of means including both print and electronic media, shall, to the maximum extent practicable, ensure that members of the armed forces and their dependents who are qualified to vote have ready access to information regarding voter registration requirements and deadlines (including voter registration), absentee ballot application requirements and deadlines, and the availability of voting assistance officers to assist members and dependents to understand and comply with these requirements.
+Registration and Voting Information for Members and Dependents.—(1) The Secretary of each military department, using a variety ofmeans including both print and electronic media, shall, to the maximum extent practicable, ensure that members of the armed forces and their dependents who are qualified to vote have ready access to information regarding voter registration requirements and deadlines (including voter registration), absentee ballot application requirements and deadlines, and the availability of voting assistance officers to assist members and dependents to understand and comply with these requirements.
 
 (2) The Secretary of each military department shall make the national voter registration form prepared for purposes of the Uniformed and Overseas Citizens Absentee Voting Act by the Federal Election Commission available so that each person who enlists shall receive such form at the time of the enlistment, or as soon thereafter as practicable.
 
@@ -64,7 +64,7 @@ Registration and Voting Information for Members and Dependents.—(1) The Secret
 
 #### References in Text
 
-The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsecs. (b)(1), (e), and (i)(2), isPub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, as amended, which is classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 1971 of Title 42 and Tables.
+The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsecs. (b)(1), (e), and (i)(2), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, as amended, which is classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 1971 of Title 42 and Tables.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and Availability of Fund.—There is hereby established in the Treasury of the United States a special fund to be known as the “Judiciary Information Technology Fund” (hereafter in this section referred to as the “Fund”). Moneys in the Fund shall be available to the Director without fiscal year limitation for the procurement (by lease, purchase, exchange, transfer, or otherwise) of information technology resources for program activities included in the courts of appeals, district courts, and other judicial services account of the judicial branch of the United States. The Fund shall also be available for expenses, including personal services, support personnel in the courts and in the Administrative Office of theUnited States Courts, and other costs, for the effective management, coordination, operation, and use of information technology resources purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their information technology needs in accordance with subsections (b) and (c)(2).
+Establishment and Availability of Fund.—There is hereby established in the Treasury of the United States a special fund to be known as the “Judiciary Information Technology Fund” (hereafter in this section referred to as the “Fund”). Moneys in the Fund shall be available to the Director without fiscal year limitation for the procurement (by lease, purchase, exchange, transfer, or otherwise) of information technology resources for program activities included in the courts of appeals, district courts, and other judicial services account of the judicial branch of the United States. The Fund shall also be available for expenses, including personal services, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of information technology resources purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their information technology needs in accordance with subsections (b) and (c)(2).
 
 (b)
 
@@ -36,7 +36,7 @@ Advances and reimbursements.—Whenever the Director procures information techno
 
 (d)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Fund for any fiscal year such sums as are required to supplement amounts deposited under subsection (c) in order to conduct activities under subsection (a).
+Authorization of Appropriations.—There are authorized to be appropriated to the Fund for any fiscal year such sums as are required to supplement amounts deposited under subsection\(c) in order to conduct activities under subsection (a).
 
 (e)
 
@@ -174,7 +174,7 @@ Pub. L. 104–106, §5602(a)(3), (4), redesignated subsec. (m) as (<i>l</i>) and
 
 “(<i>l</i>)
 
-Definition.—For purposes of this section, the term ‘automatic data processing equipment’ has themeaning given that term in section 111(a)(2)(A) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759(a)(2)(A)).”
+Definition.—For purposes of this section, the term ‘automatic data processing equipment’ has the meaning given that term in section 111(a)(2)(A) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759(a)(2)(A)).”
 
 Subsec. (m). Pub. L. 104–106, §5602(a)(3), redesignated subsec. (m) as (<i>l</i>).
 
@@ -192,7 +192,7 @@ Subsec. (h). Pub. L. 103–420, §2(6), amended subsec. (h) generally. Prior to 
 
 Annual Report.—The Director shall submit to the Congress an annual report on the operation of the Fund, including on the inventory, use, and acquisition of automatic data processing equipment from the Fund and the consistency of such acquisition with the plan prepared under subsection (b). The report shall set forth the amounts deposited into the Fund under subsection (c).”
 
-Subsec. (i). Pub. L. 103–420, §2(7), substituted “may transfer amounts up to $1,000,000 from the Fund into the account to which the funds were originally appropriated. Any amounts transferred from the Fund in excess of $1,000,000 in any fiscal year may only be transferred by following reprogramming procedures in compliance with section 606 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1989 (Public Law 100–459; 102 Stat. 2227)” for “and upon notification to the Committees on Appropriations of the House of Representatives and the Senate, may use amounts deposited into the Fund under subparagraph (c)(1)(B) for purposes other than those established in subsection (a) only by following reprogramming procedures in compliance with provisions set forth in section 606 of Public Law 100–459.”
+Subsec. (i). Pub. L. 103–420, §2(7), substituted “may transfer amounts up to $1,000,000 from the Fund into the account to which the funds were originally appropriated. Any amounts transferred from the Fund in excess of $1,000,000 in any fiscal year may only be transferred by following reprogramming procedures in compliance with section 606 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1989 (Public Law 100–459; 102 Stat. 2227)” for “and upon notification to the Committees on Appropriations of the House of Representatives and the Senate, may use amounts deposited into the Fund under subparagraph (c)(1)(B) for purposes other than those established in subsection (a) only by following reprogramming procedures in compliancewith provisions set forth in section 606 of Public Law 100–459.”
 
 Subsec. (j). Pub. L. 103–420, §2(8), substituted “not specified in statute by Congress” for “not specified by Congress” in second sentence.
 
@@ -209,10 +209,6 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (g) of this section is listed on page 143), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
-
-#### Expiration of Authorities
-
-Authorities granted in section 407 of Pub. L. 109–115 to expire on Sept. 30, 2010, see section 407(c) of Pub. L. 109–115, set out as a note under section 604 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

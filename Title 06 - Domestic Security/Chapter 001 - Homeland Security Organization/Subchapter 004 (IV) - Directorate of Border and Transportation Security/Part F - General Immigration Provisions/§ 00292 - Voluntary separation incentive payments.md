@@ -88,7 +88,7 @@ The Attorney General and the Secretary may, to the extent necessary to help carr
 
 #### (e) Effect of subsequent employment with the Government
 
-An individual who receives a voluntary separation incentive payment under this section and who, within 5 years after the date of the separation on which the payment is based, accepts any compensated employment with the Government or works for any agency of the Government through a personal services contract, shall be required to pay, prior to the individual's first day of employment, the entire amount of the incentive payment. Such payment shall be made to the covered entity from which the individual separated or, if made on or after the transfer date, to the Deputy Secretary or the Under Secretary for Border and Transportation Security (for transfer to the appropriate component of the Department of Homeland Security, if necessary).
+An individual who receives a voluntary separation incentive payment under this section andwho, within 5 years after the date of the separation on which the payment is based, accepts any compensated employment with the Government or works for any agency of the Government through a personal services contract, shall be required to pay, prior to the individual's first day of employment, the entire amount of the incentive payment. Such payment shall be made to the covered entity from which the individual separated or, if made on or after the transfer date, to the Deputy Secretary or the Under Secretary for Border and Transportation Security (for transfer to the appropriate component of the Department of Homeland Security, if necessary).
 
 #### (f) Effect on employment levels
 
@@ -112,5 +112,5 @@ Bureau of Border Security, referred to in subsec. (a)(2)(B), changed to Bureau o
 
 Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, bySenate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

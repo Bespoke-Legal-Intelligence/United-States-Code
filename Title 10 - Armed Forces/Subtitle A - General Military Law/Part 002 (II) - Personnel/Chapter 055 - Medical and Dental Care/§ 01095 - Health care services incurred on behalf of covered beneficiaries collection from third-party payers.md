@@ -1,6 +1,6 @@
 ### §1095. Health care services incurred on behalf of covered beneficiaries: collection from third-party payers
 
-(a)(1) In the case of a person who is a covered beneficiary, the United States shall have the right to collect from a third-party payer reasonable charges for health care services incurred by the United States on behalf of such person through a facility of the uniformed services to the extent that the person would be eligible to receive reimbursement or indemnification from the third-party payer if the person were to incur such charges on the person's own behalf. If the insurance, medical service, or health plan of that payer includes a requirement for a deductible or copayment by the beneficiary of the plan, then the amount that the United States may collect from the third-party payer is a reasonable charge for the care provided less the appropriate deductible or copayment amount.
+(a)(1) In the case of a person who is a covered beneficiary, the United States shall have the right to collect from a third-party payer reasonable charges for health care services incurred by the United States on behalf of such person through a facility of the uniformed services to the extent that the person would be eligible to receive reimbursement or indemnification from the third-party payer if the person were to incursuch charges on the person's own behalf. If the insurance, medical service, or health plan of that payer includes a requirement for a deductible or copayment by the beneficiary of the plan, then the amount that the United States may collect from the third-party payer is a reasonable charge for the care provided less the appropriate deductible or copayment amount.
 
 (2) A covered beneficiary may not be required to pay an additional amount to the United States for health care services by reason of this section.
 
@@ -46,7 +46,7 @@
 
 (2) In cases in which a tort liability is created upon some third person, collection from a third-party payer that is an automobile liability insurance carrier shall be governed by the provisions of Public Law 87–693 (42 U.S.C. 2651 et seq.).
 
-(j) The Secretary of Defense may enter into an agreement with any health maintenance organization, competitive medical plan, health care prepayment plan, or other similar plan (pursuant to regulations issued by the Secretary) providing for collection under this section from such organization or plan for services providedto a covered beneficiary who is an enrollee in such organization or plan.
+(j) The Secretary of Defense may enter into an agreement with any health maintenance organization, competitive medical plan, health care prepayment plan, or other similar plan (pursuant to regulations issued by the Secretary) providing for collection under this section from such organization or plan for services provided to a covered beneficiary who is an enrollee in such organization or plan.
 
 (k)(1) To improve the administration of this section and sections 1079(j)(1) and 1086(d) of this title, the Secretary of Defense, in consultation with the other administering Secretaries, may prescribe regulations providing for the collection of information regarding insurance, medical service, or health plans of third-party payers held by covered beneficiaries.
 
@@ -54,7 +54,7 @@
 
 (3) The Secretary may disclose relevant employment information collected under this subsection to fiscal intermediaries or other designated contractors.
 
-(4) The Secretary may provide for contacting employers of covered beneficiaries to obtain group health plan information comparable to the information authorized to be obtained under section 1862(b)(5)(C) of the Social Security Act (42 U.S.C. 1395y(b)(5)(C)). Notwithstanding clause (iii) of such section, clause (ii) of such section regarding the imposition of civil money penalties shall apply to the collection of information under this paragraph.
+(4) The Secretary may provide for contacting employers of covered beneficiaries to obtain group health plan information comparable to the information authorized to be obtained undersection 1862(b)(5)(C) of the Social Security Act (42 U.S.C. 1395y(b)(5)(C)). Notwithstanding clause (iii) of such section, clause (ii) of such section regarding the imposition of civil money penalties shall apply to the collection of information under this paragraph.
 
 (5) Information obtained under this subsection may not be disclosed for any purpose other than to carry out the purpose of this section and sections 1079(j)(1) and 1086(d) of this title.
 

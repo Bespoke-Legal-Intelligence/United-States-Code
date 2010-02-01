@@ -58,7 +58,7 @@ Inspector General Investigation of Underlying Allegations.—Upon receiving an a
 
 Reports on Investigations.—(1) After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E), the Inspector General conducting the investigation shall submit a report on the results of the investigation to the Secretary of Defense (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and shall transmit a copy of the report on the results of the investigation to the member of the armed forces who made the allegation investigated. The report shall be transmitted to the Secretary, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E).
 
-(2) In the copy of the report transmitted to the member, the Inspector General shall ensure the maximum disclosure of information possible, with the exception of information that is not required to be disclosed under section 552 of title 5. However, the copy need not include summaries of interviews conducted, nor any document acquired, during the course of the investigation. Such items shall be transmitted to the member, if the member requests the items, with the copy of the report or after the transmittal to the member of the copy of the report, regardless of whether the request for those items is made before or after the copy of the report is transmitted to the member.
+(2) In the copy of the report transmitted to the member, the Inspector General shall ensure the maximum disclosure of information possible, with the exception of information that is not required to be disclosed under section 552 of title 5. However, the copy need not include summaries of interviews conducted, nor any document acquired, during the course of the investigation. Such items shall be transmitted to the member, if the member requests the items, with the copy of the report or after the transmittal to the member of the copy of the report, regardless of whether the request for those items ismade before or after the copy of the report is transmitted to the member.
 
 (3) If, in the course of an investigation of an allegation under this section, the Inspector General determines that it is not possible to submit the report required by paragraph (1) within 180 days after the date of receipt of the allegation being investigated, the Inspector General shall provide to the Secretary of Defense (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and to the member making the allegation a notice—
 
@@ -84,7 +84,7 @@ Correction of Records When Prohibited Action Taken.—(1) A board for the correc
 
 &emsp;(A) may be provided with representation by a judge advocate if—
 
-&emsp;&emsp;(i) the Inspector General, in the report under subsection (e)(1), finds that there is probable cause to believe that a personnel action prohibited by subsection (b) has beentaken (or threatened) against the member with respect to a communication described in subsection (c)(2);
+&emsp;&emsp;(i) the Inspector General, in the report under subsection (e)(1), finds that there is probable cause to believe that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in subsection (c)(2);
 
 &emsp;&emsp;(ii) the Judge Advocate General concerned determines that the case is unusually complex or otherwise requires judge advocate assistance to ensure proper presentation of the legal issues in the case; and
 
@@ -122,7 +122,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term “unlawful discrimination” means discrimination on the basis of race, color, religion, sex, or national origin.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 98–525, title XIV, §1405(19)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title VIII, §846(a)(1), Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–225, title II, §202, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 103–337, div. A, title V, §531(a)–(g)(1), Oct. 5, 1994, 108 Stat. 2756–2758; Pub. L. 105–261, div. A, title IX, §933, Oct. 17, 1998, 112 Stat. 2107; Pub. L. 106–398, §1 \[\[div. A\], title IX, §903\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §591(a), Oct. 28, 2004, 118 Stat. 1933; Pub. L. 110–181, div. A, title X, §1063(a)(8), Jan. 28, 2008, 122 Stat. 322.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 98–525, title XIV, §1405(19)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title VIII, §846(a)(1), Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–225, title II, §202, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 103–337, div. A, title V, §531(a)–(g)(1), Oct. 5, 1994, 108 Stat. 2756–2758; Pub. L. 105–261, div. A,title IX, §933, Oct. 17, 1998, 112 Stat. 2107; Pub. L. 106–398, §1 \[\[div. A\], title IX, §903\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §591(a), Oct. 28, 2004, 118 Stat. 1933; Pub. L. 110–181, div. A, title X, §1063(a)(8), Jan. 28, 2008, 122 Stat. 322.)
 
 Historical and Revision Notes
 
@@ -218,7 +218,7 @@ Subsec. (d). Pub. L. 103–337, §531(c)(2), added subsec. (d). Former subsec. (
 
 Subsec. (e). Pub. L. 103–337, §531(d)(1), redesignated subsec. (c)(5) as subsec. (e) and inserted subsec. heading and par. (1) designation before “Not later than 30 days”. Former subsec. (e) redesignated (g).
 
-Subsec. (e)(1). Pub. L. 103–337, §531(d)(2), substituted “subsection (c) or (d)” for “this subsection” and “the member of the armed forces who made the allegation investigated” for “the member of the armed forces concerned” and struck out at end “In the copy of the report submitted to the member, the Inspector Generalmay exclude any information that would not otherwise be available to the member under section 552 of title 5.”
+Subsec. (e)(1). Pub. L. 103–337, §531(d)(2), substituted “subsection (c) or (d)” for “this subsection” and “the member of the armed forces who made the allegation investigated” for “the member of the armed forces concerned” and struck out at end “In the copy of the report submitted to the member, the Inspector General may exclude any information that would not otherwise be available to the member under section 552 of title 5.”
 
 Subsec. (e)(2). Pub. L. 103–337, §531(d)(3), added par. (2).
 

@@ -272,7 +272,7 @@ Annual Reports.—The Comptroller General shall include in each report submitted
 
 &emsp;&emsp;&emsp;“(ii) whether a disproportionate number or percentage of preference eligibles were in fact released pursuant to reductions in force under such amendment; and
 
-&emsp;&emsp;&emsp;“(iii) to the extent that either of the foregoing is answered in the affirmative, the reasons for the disproportionate impact involved (particularly, whether such amendment caused or contributed to the disproportionate impact involved); and
+&emsp;&emsp;&emsp;“(iii) to the extent that either of the foregoing is answered in the affirmative, the reasons for thedisproportionate impact involved (particularly, whether such amendment caused or contributed to the disproportionate impact involved); and
 
 &emsp;“(2) recommendations for any legislation which the Comptroller General considers appropriate with respect to any of those sections.
 

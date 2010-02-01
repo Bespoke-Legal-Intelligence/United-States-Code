@@ -94,7 +94,7 @@
 
 &emsp;&emsp;(ii) give actual notice of the proposed regulation (including the complete text of the regulation) to the State agency in each State in which the species is believed to occur, and to each county, or equivalent jurisdiction in which the species is believed to occur, and invite the comment of such agency, and each such jurisdiction, thereon;
 
-&emsp;(B) insofar as practical, and in cooperation with the Secretary of State, give notice of the proposed regulation to each foreign nation in which the species is believed to occur or whose citizens harvest the species on the high seas, and invite the comment of such nation thereon;
+&emsp;(B) insofar as practical, and in cooperation with the Secretary of State, give notice of the proposed regulation to each foreign nation inwhich the species is believed to occur or whose citizens harvest the species on the high seas, and invite the comment of such nation thereon;
 
 &emsp;(C) give notice of the proposed regulation to such professional scientific organizations as he deems appropriate;
 
@@ -190,7 +190,7 @@ The Secretary may, by regulation of commerce or taking, and to the extent he dee
 
 (2) The Secretary, in developing and implementing recovery plans, may procure the services of appropriate public and private agencies and institutions, and other qualified persons. Recovery teams appointed pursuant to this subsection shall not be subject to the Federal Advisory Committee Act.
 
-(3) The Secretary shall report every two years to the Committee on Environment and PublicWorks of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives on the status of efforts to develop and implement recovery plans for all species listed pursuant to this section and on the status of all species for which such plans have been developed.
+(3) The Secretary shall report every two years to the Committee on Environment and Public Works of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives on the status of efforts to develop and implement recovery plans for all species listed pursuant to this section and on the status of all species for which such plans have been developed.
 
 (4) The Secretary shall, prior to final approval of a new or revised recovery plan, provide public notice and an opportunity for public review and comment on such plan. The Secretary shall consider all information presented during the public comment period prior to approval of the plan.
 
@@ -200,7 +200,7 @@ The Secretary may, by regulation of commerce or taking, and to the extent he dee
 
 (1) The Secretary shall implement a system in cooperation with the States to monitor effectively for not less than five years the status of all species which have recovered to the point at which the measures provided pursuant to this chapter are no longer necessary and which, in accordance with the provisions of this section, have been removed from either of the lists published under subsection (c) of this section.
 
-(2) The Secretary shall make prompt use of the authority under paragraph 7 <sup>2</sup> of subsection (b) of this section to prevent a significant risk to the well being of any such recovered species.
+(2) The Secretary shall make prompt use of the authority under paragraph 7 <sup>2</sup> of subsection\(b) of this section to prevent a significant risk to the well being of any such recovered species.
 
 #### (h) Agency guidelines; publication in Federal Register; scope; proposals and amendments: notice and opportunity for comments
 
@@ -308,7 +308,7 @@ Section 2(b) of Pub. L. 97–304 provided that:
 
 “(1) Any petition filed under section 4(c)(2) of the Endangered Species Act of 1973 \[subsec. (c)(2) of this section\] (as in effect on the day before the date of the enactment of this Act \[Oct. 13, 1982\]) and any regulation proposed under section 4(f) of such Act of 1973 \[subsec. (f) of this section\] (as in effect on such day) that is pending on such date of enactment \[Oct. 13, 1982\] shall be treated as having been filed or proposed on such date of enactment under section 4(b) of such Act of 1973 \[subsec. (b) of this section\] (as amended by subsection (a)); and the procedural requirements specified in such section 4(b) \[subsec. (b) of this section\] (as so amended) regarding such petition or proposed regulation shall be deemed to be complied with to the extent that like requirements under such section 4 \[this section\] (as in effect before the date of the enactment of this Act) were complied with before such date of enactment.
 
-“(2) Any regulation proposed after, or pending on, the date of the enactment of this Act \[Oct. 13, 1982\] to designate critical habitat for a species that was determined before such date of enactment to be endangered or threatened shall be subject to the procedures set forth in section 4 of such Act of 1973 \[this section\] (asamended by subsection (a)) for regulations proposing revisions to critical habitat instead of those for regulations proposing the designation of critical habitat.
+“(2) Any regulation proposed after, or pending on, the date of the enactment of this Act \[Oct. 13, 1982\] to designate critical habitat for a species that was determined before such date of enactment to be endangered or threatened shall be subject to the procedures set forth in section 4 of such Act of 1973 \[this section\] (as amended by subsection (a)) for regulations proposing revisions to critical habitat instead of those for regulations proposing the designation of critical habitat.
 
 “(3) Any list of endangered species or threatened species (as in effect under section 4(c) of such Act of 1973 \[subsec. (c) of this section\] on the day before the date of the enactment of this Act \[Oct. 13, 1982\]) shall remain in effect unless and until determinations regarding species and designations and revisions of critical habitats that require changes to such list are made in accordance with subsection (b)(5) of such Act of 1973 \[subsec. (b)(5) of this section\] (as added by subsection (a)).
 

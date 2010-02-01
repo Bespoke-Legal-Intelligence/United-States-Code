@@ -12,7 +12,7 @@
 
 #### (3) Publication of selection criteria
 
-&emsp;Not less than 30 days before any deadline by which applications or requests for assistanceunder any program or discretionary fund administered by the Secretary must be submitted, the Secretary shall publish in the Federal Register the criteria by which selection for the assistance will be made. Such criteria shall include any objective measures of housing need, project merit, or efficient use of resources that the Secretary determines are appropriate and consistent with the statute under which the assistance is made available.
+&emsp;Not less than 30 days before any deadline by which applications or requests for assistance under any program or discretionary fund administered by the Secretary must be submitted, the Secretary shall publish in the Federal Register the criteria by which selection for the assistance will be made. Such criteria shall include any objective measures of housing need, project merit, or efficient use of resources that the Secretary determines are appropriate and consistent with the statute under which the assistance is made available.
 
 #### (4) Documentation of decisions
 
@@ -76,7 +76,7 @@ During the period when an application is pending or assistance is being provided
 
 #### (2) Civil penalties
 
-&emsp;Whoever violates any section <sup>2</sup> of this section shall be subject to the imposition of a civil penalty in a civil action brought by the United States in an appropriate district courtof the United States. A civil penalty under this paragraph may not exceed—
+&emsp;Whoever violates any section <sup>2</sup> of this section shall be subject to the imposition of a civil penalty in a civil action brought by the United States in an appropriate district court of the United States. A civil penalty under this paragraph may not exceed—
 
 &emsp;&emsp;(A) $100,000 in the case of an individual; or
 

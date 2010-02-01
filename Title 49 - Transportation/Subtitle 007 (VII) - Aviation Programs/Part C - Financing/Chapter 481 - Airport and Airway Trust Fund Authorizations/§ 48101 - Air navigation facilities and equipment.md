@@ -10,9 +10,11 @@ General Authorization of Appropriations.—Not more than a total of the followin
 
 &emsp;(3) $3,053,000,000 for fiscal year 2006;
 
-&emsp;(4) $3,110,000,000 for fiscal year 2007; and
+&emsp;(4) $3,110,000,000 for fiscal year 2007;
 
-&emsp;(5) $1,360,188,750 for the 6-month period beginning on October 1, 2008.
+&emsp;(5) $2,742,095,000 for fiscal year 2009; and
+
+&emsp;(6) $1,466,888,500 for the 6-month period beginning on October 1, 2009.
 
 (b)
 
@@ -28,7 +30,7 @@ Operational Benefits of Wake Vortex Advisory System.—Of amounts appropriated u
 
 (e)
 
-Ground-Based Precision Navigational Aids.—Of amounts appropriated under subsection (a), such sums as may be necessary for each of fiscal years 2004 to 2007 may be used to establish a program for the installation of a precision approach aid designed to improve aircraft accessibility at mountainous airports with limited land if the approach aid is able to provide curved and segmented approach guidance for noise abatement purposes and other such approach aids and is certified or approved by the Administrator.
+Ground-Based Precision Navigational Aids.—Of amounts appropriated under subsection (a), such sums as may be necessary for each of fiscal years 2004 to 2007 may be used to establish a program for the installation of a precision approach aid designed to improve aircraft accessibility at mountainous airports with limited land if the approach aid is able to providecurved and segmented approach guidance for noise abatement purposes and other such approach aids and is certified or approved by the Administrator.
 
 (f)
 
@@ -40,13 +42,13 @@ Life-Cycle Cost Estimates.—The Administrator of the Federal Aviation Administr
 
 (h)
 
-Standby Power Efficiency Program.—Of amounts appropriated under subsection (a), such sums as may be necessary for each of fiscalyears 2004 through 2007 may be used by the Secretary of Transportation, in cooperation with the Secretary of Energy and, where applicable, the Secretary of Defense, to establish a program to improve the efficiency, cost effectiveness, and environmental performance of standby power systems at Federal Aviation Administration sites, including the implementation of fuel cell technology.
+Standby Power Efficiency Program.—Of amounts appropriated under subsection (a), such sums as may be necessary for each of fiscal years 2004 through 2007 may be used by the Secretary of Transportation, in cooperation with the Secretary of Energy and, where applicable, the Secretary of Defense, to establish a program to improve the efficiency, cost effectiveness, and environmental performance of standby power systems at Federal Aviation Administration sites, including the implementation of fuel cell technology.
 
 (i)
 
 Pilot Program To Provide Incentives for Development of New Technologies.—Of amounts appropriated under subsection (a), $500,000 for fiscal year 2004 may be used for the conduct of a pilot program to provide operating incentives to users of the airspace for the deployment of new technologies, including technologies to facilitate expedited flight routing and sequencing of takeoffs and landings.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title I, §102(a), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §102(a), (b)(1), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 106–6, §3, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §102, Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §102, Dec. 12, 2003, 117 Stat. 2494; Pub. L. 110–330, §7, Sept. 30, 2008, 122 Stat. 3719.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title I, §102(a), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §102(a), (b)(1), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 106–6, §3, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §102, Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §102, Dec. 12, 2003, 117 Stat. 2494; Pub. L. 110–330, §7, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §7, Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §7, Oct. 1, 2009, 123 Stat. 2056; Pub. L. 111–116, §7, Dec. 16, 2009, 123 Stat. 3033.)
 
 Historical and Revision Notes
 
@@ -87,6 +89,12 @@ Sept. 3, 1982, Pub. L. 97–248, §506(a)(2), 96 Stat. 677; Dec. 30, 1987, Pub. 
 In subsection (a), the words “to the Secretary of Transportation” are added for clarity and consistency in this chapter. The words “for fiscal years beginning after September 30, 1990” and “$2,500,000,000 for fiscal year 1991” are omitted as obsolete.
 
 #### Amendments
+
+2009—Subsec. (a)(5). Pub. L. 111–12 substituted “$2,742,095,000 for fiscal year 2009” for “$1,360,188,750 for the 6-month period beginning on October 1, 2008”.
+
+Subsec. (a)(6). Pub. L. 111–116 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$733,444,250 for the 3-month period beginning on October 1, 2009.”
+
+Pub. L. 111–69 added par. (6).
 
 2008—Subsec. (a)(5). Pub. L. 110–330 added par. (5).
 
@@ -180,5 +188,5 @@ Sunset Provision.—This section shall cease to be effective beginning on the da
 
 #### Funding for Aviation Programs
 
-Pub. L. 106–181, title I, §106(a)–(c), Apr. 5, 2000, 114 Stat. 72, 73, which related to budget resources madeavailable from the Airport and Airway Trust Fund through fiscal year 2003, was repealed by Pub. L. 108–176, title I, §104(c), Dec. 12, 2003, 117 Stat. 2497.
+Pub. L. 106–181, title I, §106(a)–(c), Apr. 5, 2000, 114 Stat. 72, 73, which related to budget resources made available from the Airport and Airway Trust Fund through fiscal year 2003, was repealed by Pub. L. 108–176, title I, §104(c), Dec. 12, 2003, 117 Stat. 2497.
 

@@ -8,7 +8,7 @@ It is a defense to a prosecution under section 421 of this title that before the
 
 (1) Subject to paragraph (2), no person other than a person committing an offense under section 421 of this title shall be subject to prosecution under such section by virtue of section 2 or 4 of title 18 or shall be subject to prosecution for conspiracy to commit an offense under such section.
 
-(2) Paragraph (1) shall not apply (A) in the case of a person who acted in the course of a pattern of activities intended to identify and expose covert agents and with reason to believe that such activities would impair or impede the foreign intelligence activities of the United States, or (B) in the case of a person who has authorized access to classified information.
+(2) Paragraph (1) shall not apply (A) in the case of a person who acted in the course of a pattern of activities intended to identify and expose covert agents and with reason to believe thatsuch activities would impair or impede the foreign intelligence activities of the United States, or (B) in the case of a person who has authorized access to classified information.
 
 #### (c) Disclosure to select Congressional committees on intelligence
 
@@ -22,5 +22,5 @@ It shall not be an offense under section 421 of this title for an individual to 
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–306 substituted “either congressional intelligence committee” for “the Select Committee on Intelligence of the Senate or to the Permanent Select Committee on Intelligence of the House of Representatives”.
+2002—Subsec. (c). Pub. L. 107–306 substituted “either congressional intelligence committee” for “the Select Committee on Intelligence of the Senate or to the Permanent Select Committee on Intelligence of the House of Representatives”.
 

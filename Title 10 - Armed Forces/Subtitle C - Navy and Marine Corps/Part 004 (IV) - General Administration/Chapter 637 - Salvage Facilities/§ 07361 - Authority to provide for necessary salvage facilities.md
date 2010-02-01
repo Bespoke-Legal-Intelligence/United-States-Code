@@ -10,7 +10,7 @@ Coordination With Secretary of Homeland Security.—The Secretary shall submit t
 
 (c)
 
-Limitation.—The Secretary of the Navy may enter into a term contract under subsection (a) only if the Secretary determines that available commercial salvage facilities are inadequate to meet the requirements of national defense.
+Limitation.—The Secretary of the Navy may enter into a term contract under subsection\(a) only if the Secretary determines that available commercial salvage facilities are inadequate to meet the requirements of national defense.
 
 (d)
 

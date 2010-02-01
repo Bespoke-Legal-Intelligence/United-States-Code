@@ -26,7 +26,7 @@ An eligible entity that receives a grant under this division may use grant funds
 
 &emsp;(3) Providing supportive services to eligible students.
 
-&emsp;(4) Supporting the development or implementation of rigorous academic curricula,which may include college preparatory, Advanced Placement, or International Baccalaureate programs, and providing participating students access to rigorous core academic courses that reflect challenging State academic standards.
+&emsp;(4) Supporting the development or implementation of rigorous academic curricula, which may include college preparatory, Advanced Placement, or International Baccalaureate programs, and providing participating students access to rigorous core academic courses that reflect challenging State academic standards.
 
 &emsp;(5) Supporting dual or concurrent enrollment programs between the secondary school and institution of higher education partners of an eligible entity described in section 1070a–21(c)(2) of this title, and other activities that support participating students in—
 
@@ -112,7 +112,7 @@ In addition to the required activities described in subsection (a) and the permi
 
 &emsp;(7) Working to align State academic standards and curricula with the expectations of postsecondary institutions and employers.
 
-&emsp;(8) Developing alternatives to traditional secondary school that give students a head start on attaining a recognized postsecondary credential (including an industry-recognizedcertificate, an apprenticeship, or an associate's or a bachelor's degree), including school designs that give students early exposure to college-level courses and experiences and allow students to earn transferable college credits or an associate's degree at the same time as a secondary school diploma.
+&emsp;(8) Developing alternatives to traditional secondary school that give students a head start on attaining a recognized postsecondary credential (including an industry-recognized certificate, an apprenticeship, or an associate's or a bachelor's degree), including school designs that give students early exposure to college-level courses and experiences and allow students to earn transferable college credits or an associate's degree at the same time as a secondary school diploma.
 
 &emsp;(9) Creating community college programs for drop-outs that are personalized drop-out recovery programs that allow drop-outs to complete a regular secondary school diploma and begin college-level work.
 

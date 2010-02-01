@@ -32,7 +32,7 @@ Each manufacturer shall use labels reflecting the range data required to be disc
 
 #### (d) Information requirements
 
-(1) For purposes of carrying out this part, the Secretary may require, under this part or other provision of law administered by the Secretary, each manufacturer of a covered product to submit information or reports to the Secretary with respect to energy efficiency, energy use, or, in the case of showerheads, faucets, water closets, and urinals, water use of such covered product and the economic impact of any proposed energy conservation standard, as the Secretary determines may be necessary to establish and revise test procedures, labeling rules, and energy conservation standards for such product and to insure compliance with the requirements of this part. In making any determination under this paragraph, the Secretary shall consider existing public sources of information, including nationally recognized certification programs of trade associations.
+(1) For purposes of carrying out this part, the Secretary may require, under this part or other provision of law administered by the Secretary, each manufacturer of a covered product to submit information or reports to the Secretary with respect to energy efficiency, energy use, or, in the case of showerheads, faucets, water closets, and urinals, water use of such covered product and the economic impact of any proposedenergy conservation standard, as the Secretary determines may be necessary to establish and revise test procedures, labeling rules, and energy conservation standards for such product and to insure compliance with the requirements of this part. In making any determination under this paragraph, the Secretary shall consider existing public sources of information, including nationally recognized certification programs of trade associations.
 
 (2) The Secretary shall exercise authority under this section in a manner designed to minimize unnecessary burdens on manufacturers of covered products.
 
@@ -60,7 +60,7 @@ Subsec. (d). Pub. L. 100–12, §6, inserted “Information requirements” as h
 
 Subsec. (b)(2). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration.
 
-Subsec. (b)(3). Pub. L. 95–619, §425(d)(3), authorized Secretary to request submission of covered products for purposes of ascertaining whether a particular product complies with standards under section 6295 of this titleand also authorized Secretary to designate testing laboratories for the submitted products.
+Subsec. (b)(3). Pub. L. 95–619, §425(d)(3), authorized Secretary to request submission of covered products for purposes of ascertaining whether a particular product complies with standards under section 6295 of this title and also authorized Secretary to designate testing laboratories for the submitted products.
 
 Subsec. (b)(5). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”.
 

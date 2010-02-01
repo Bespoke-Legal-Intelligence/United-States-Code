@@ -212,7 +212,7 @@ Section 66 \[42 U.S.C. 2096\] (“Acquisition”).
 
 Section 68 \[42 U.S.C. 2098\] (“Public and Acquired Lands”).
 
-Section 81 \[42 U.S.C. 2111\] (“Domestic Distribution”), and Section 82 \[42 U.S.C. 2112\] (“Foreign Distribution ofByproduct Material”); provided, that the authority to distribute shall apply only to ERDA and the authority to license shall apply only to NSLC.
+Section 81 \[42 U.S.C. 2111\] (“Domestic Distribution”), and Section 82 \[42 U.S.C. 2112\] (“Foreign Distribution of Byproduct Material”); provided, that the authority to distribute shall apply only to ERDA and the authority to license shall apply only to NSLC.
 
 Section 92 \[42 U.S.C. 2122\] (“Prohibition”).
 
@@ -278,7 +278,7 @@ Section 189 \[42 U.S.C. 2239\] (“Hearings and Judicial Review”).
 
 Chapter 17 \[(sections 201–207) 42 U.S.C. 2251–2257\] (“Joint Committee on Atomic Energy”).
 
-Chapter 18 \[(sections 221–234) 42 U.S.C. 2271–2282\] (“Enforcement”); except for Section 234 \[42 U.S.C. 2282\] (“Civil Monetary Penalties for Violation of Licensing Requirements”) which is applicable only to NSLC.
+Chapter 18 \[(sections 221–234) 42 U.S.C. 2271–2282\] (“Enforcement”); except for Section 234 \[42 U.S.C. 2282\]\(“Civil Monetary Penalties for Violation of Licensing Requirements”) which is applicable only to NSLC.
 
 Section 241 \[42 U.S.C. 2015\] (“Transfer of Property”).
 

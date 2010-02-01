@@ -10,7 +10,7 @@ The Chief Executive Officer shall report directly to the Architect of the Capito
 
 #### (c) Removal
 
-Upon removal of the Chief Executive Officer, the Architect of the Capitol shall immediately provide notice of the removal to the Committee on Rules and Administration of the Senate, the Committee on House Administration of the House of Representatives, and the Committees on Appropriations of the House of Representatives and Senate. The notice shall include the reasons for the removal.
+Upon removal of the Chief Executive Officer, the Architect of the Capitol shall immediatelyprovide notice of the removal to the Committee on Rules and Administration of the Senate, the Committee on House Administration of the House of Representatives, and the Committees on Appropriations of the House of Representatives and Senate. The notice shall include the reasons for the removal.
 
 #### (d) Compensation
 

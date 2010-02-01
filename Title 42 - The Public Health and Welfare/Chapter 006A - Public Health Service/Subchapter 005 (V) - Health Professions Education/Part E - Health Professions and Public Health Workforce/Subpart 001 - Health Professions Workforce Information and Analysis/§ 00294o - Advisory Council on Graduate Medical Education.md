@@ -74,7 +74,7 @@ Each member of the Council who is not otherwise employed by the United States Go
 
 #### (2) Coordination of activities
 
-&emsp;The Council shall coordinate its activities with the activities of the Secretary under section 295k of this title. The Secretary shall, in cooperation with the Council and pursuant to the recommendations of the Council, take such steps as are practicable to eliminate deficiencies in the data base established under section 295k of this title and shall make available in its reports such comprehensive data sets as are developed pursuant to this section.
+&emsp;The Council shall coordinate its activities with the activities of the Secretary under section 295k of this title. The Secretary shall, in cooperation with the Council and pursuant to the recommendations of the Council, take such steps as are practicable to eliminate deficiencies in the data base established undersection 295k of this title and shall make available in its reports such comprehensive data sets as are developed pursuant to this section.
 
 #### (i) Requirement regarding reports
 
@@ -138,9 +138,13 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Funding for Council on Graduate Medical Education
 
-Pub. L. 110–161, div. G, title II, §217, Dec. 26, 2007, 121 Stat. 2187, provided that: “Notwithstanding any other provisions of law, funds made available in this Act \[div. G of Pub. L. 110–161, see Tables for classification\] may be used to continue operating the Council on Graduate Medical Education established by section 301 of Public Law 102–408 \[now section 762 of act July 1, 1944, which is classified to this section\].”
+Pub. L. 111–117, div. D, title II, §216, Dec. 16, 2009, 123 Stat. 3259, provided that: “Notwithstanding any other provisions of law, funds made available in this Act \[div. D of Pub. L. 111–117, see Tables for classification\] may be used to continue operating the Council on Graduate Medical Education established by section 301 of Public Law 102–408 \[now section 762 of act July 1, 1944, which is classified to this section\].”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 111–8, div. F, title II, §216, Mar. 11, 2009, 123 Stat. 782.
+
+Pub. L. 110–161, div. G, title II, §217, Dec. 26, 2007, 121 Stat. 2187.
 
 Pub. L. 109–149, title II, §219, Dec. 30, 2005, 119 Stat. 2861.
 

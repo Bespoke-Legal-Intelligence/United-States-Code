@@ -1,6 +1,6 @@
 ### §2532. Federal standards-related activities
 
-No Federal agency may engage in any standards-related activity that creates unnecessary obstacles to the foreign commerce of the United States, including, but not limited to, standards-related activities that violate any of the following requirements:
+No Federal agency may engage in any standards-related activity that creates unnecessary obstacles to the foreign commerce of the UnitedStates, including, but not limited to, standards-related activities that violate any of the following requirements:
 
 #### (1) Nondiscriminatory treatment
 

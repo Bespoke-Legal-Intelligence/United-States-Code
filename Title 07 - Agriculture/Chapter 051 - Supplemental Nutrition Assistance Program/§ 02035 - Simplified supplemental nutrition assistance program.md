@@ -46,7 +46,7 @@ If a State elects to carry out a Program, within the State or a political subdiv
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall determine whether a Program being carried out by a State agency is increasing Federal costs under this chapter.
+&emsp;&emsp;The Secretary shall determine whether a Program being carried out by a State agencyis increasing Federal costs under this chapter.
 
 #### (B) No excluded households
 

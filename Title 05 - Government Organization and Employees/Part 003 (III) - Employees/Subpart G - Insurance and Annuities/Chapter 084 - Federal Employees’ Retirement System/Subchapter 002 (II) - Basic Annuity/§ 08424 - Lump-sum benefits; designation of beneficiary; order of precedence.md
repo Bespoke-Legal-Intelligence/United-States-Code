@@ -12,7 +12,7 @@
 
 &emsp;(4) will not become eligible to receive an annuity within 31 days after filing the application;
 
-> is entitled to be paid the lump-sum credit. Except as provided in section 8420a, payment of the lump-sum credit to an employee or Member voids all annuity rights under this subchapter, and subchapters IV and V of this chapter, based on the service on which the lump-sum credit is based.
+> is entitled to be paid the lump-sum credit. Except as provided in section 8420a, payment of the lump-sum credit to an employee or Member voids all annuity rights under this subchapter, and subchapters IV and V of this chapter, based on the service on which the lump-sum credit is based, until the employee or Member is reemployed in the service subject to this chapter.
 
 (b)(1)(A) Payment of the lump-sum credit under subsection (a) may be made only if the spouse, if any, and any former spouse of the employee or Member are notified of the employee or Member's application.
 
@@ -62,11 +62,13 @@
 
 &emsp;First, to the duly appointed executor or administrator of the estate of the survivor.
 
-&emsp;Second, if there is no executor or administrator, payment may be made, after 30 days from the date of death of the survivor, to suchnext of kin of the survivor as the Office determines to be entitled under the laws of the domicile of the survivor at the date of death.
+&emsp;Second, if there is no executor or administrator, payment may be made, after 30 days from the date of death of the survivor, to such next of kin of the survivor as the Office determines to be entitled under the laws of the domicile of the survivor at the date of death.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 539; amended Pub. L. 106–361, §3(b), Oct. 27, 2000, 114 Stat. 1402.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 539; amended Pub. L. 106–361, §3(b), Oct. 27, 2000, 114 Stat. 1402; Pub. L. 111–84, div. A, title XIX, §1904(b)(4), Oct. 28, 2009, 123 Stat. 2617.)
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–84 substituted “based, until the employee or Member is reemployed in the service subject to this chapter.” for “based.” in concluding provisions.
 
 2000—Subsec. (b)(1). Pub. L. 106–361 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Payment of the lump-sum credit under subsection (a)—
 

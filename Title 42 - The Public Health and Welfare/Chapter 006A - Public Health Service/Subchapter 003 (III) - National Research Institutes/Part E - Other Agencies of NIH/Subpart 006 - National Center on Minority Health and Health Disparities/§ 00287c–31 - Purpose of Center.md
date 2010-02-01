@@ -86,7 +86,7 @@ The Director of the Center shall act as the primary Federal official with respon
 
 #### (g) Participation in clinical research
 
-The Director of the Center shall work with the Director of NIH and the directors of the agencies of the National Institutes of Health to carry outthe provisions of section 289a–2 of this title that relate to minority groups.
+The Director of the Center shall work with the Director of NIH and the directors of the agencies of the National Institutes of Health to carry out the provisions of section 289a–2 of this title that relate to minority groups.
 
 #### (h) Research endowments
 
@@ -120,7 +120,7 @@ In carrying out subsection (a) of this section, the Director of the Center—
 
 #### (2) Membership
 
-&emsp;With respect to the membership of the advisory council under paragraph (1), a majority of the members shall be individuals with demonstrated expertise regarding minority health disparity and other health disparity issues; representatives of communities impacted by minority and other health disparities shall be included; and a diversity of health professionals shall be represented. The membership shall in addition include a representative of the Office of Behavioral and Social Sciences Research under section 283c of this title.
+&emsp;With respect to the membership of the advisory council under paragraph (1), a majority ofthe members shall be individuals with demonstrated expertise regarding minority health disparity and other health disparity issues; representatives of communities impacted by minority and other health disparities shall be included; and a diversity of health professionals shall be represented. The membership shall in addition include a representative of the Office of Behavioral and Social Sciences Research under section 283c of this title.
 
 (July 1, 1944, ch. 373, title IV, §485E, as added Pub. L. 106–525, title I, §101(a), Nov. 22, 2000, 114 Stat. 2497; amended Pub. L. 109–482, title I, §§103(b)(44), 104(b)(1)(N), Jan. 15, 2007, 120 Stat. 3688, 3693.)
 

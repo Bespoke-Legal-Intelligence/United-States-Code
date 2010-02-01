@@ -78,7 +78,7 @@ In general.—The term “reformable interest” means any interest for which a 
 
 &emsp;&emsp;(ii)
 
-Beneficiary's interest must be fixed.—The term “reformable interest” does not include any interest unless, before the remainder vests in possession, all payments to persons other than an organization described in subsection (a) are expressed either in specified dollar amounts or a fixed percentage of the fair market value of the property. For purposes of determining whether all such payments are expressed as a fixed percentage of the fair market value of the property, section 664(d)(3) shall be taken into account.
+Beneficiary's interest must be fixed.—The term “reformable interest” does not include any interest unless, before theremainder vests in possession, all payments to persons other than an organization described in subsection (a) are expressed either in specified dollar amounts or a fixed percentage of the fair market value of the property. For purposes of determining whether all such payments are expressed as a fixed percentage of the fair market value of the property, section 664(d)(3) shall be taken into account.
 
 &emsp;&emsp;(iii)
 
@@ -152,7 +152,7 @@ Qualified organization defined.—For purposes of this paragraph, the term “qu
 
 (5)
 
-Contributions to donor advised funds.—A deduction otherwise allowed under subsection (a) for any contribution to a donor advised fund (as defined in section 4966(d)(2)) shall only be allowed if—
+Contributions to donor advised funds.—A deduction otherwise allowed under subsection\(a) for any contribution to a donor advised fund (as defined in section 4966(d)(2)) shall only be allowed if—
 
 &emsp;(A) the sponsoring organization (as defined in section 4966(d)(1)) with respect to such donor advised fund is not—
 
@@ -290,7 +290,7 @@ Subsec. (e). Pub. L. 91–172, §201(d)(1), substituted substantive provisions f
 
 #### Change of Name
 
-International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L.97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of Title 22, Foreign Relations and Intercourse. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22.
+International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of Title 22, Foreign Relations and Intercourse. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22.
 
 #### Effective Date of 2007 Amendment
 

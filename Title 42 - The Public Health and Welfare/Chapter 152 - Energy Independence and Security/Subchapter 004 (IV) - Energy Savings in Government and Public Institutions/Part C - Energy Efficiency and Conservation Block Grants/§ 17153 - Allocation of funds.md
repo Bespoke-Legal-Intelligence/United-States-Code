@@ -4,17 +4,19 @@
 
 Of amounts made available to provide grants under this part for each fiscal year, the Secretary shall allocate—
 
-&emsp;(1) 68 percent to eligible units of local government in accordance with subsection (b);
+&emsp;(1) 34 percent to eligible units of local government—alternative 1, in accordance with subsection (b);
 
-&emsp;(2) 28 percent to States in accordance with subsection (c);
+&emsp;(2) 34 percent to eligible units of local government—alternative 2, in accordance with subsection (b);
 
-&emsp;(3) 2 percent to Indian tribes in accordance with subsection (d); and
+&emsp;(3) 28 percent to States in accordance with subsection (c);
 
-&emsp;(4) 2 percent for competitive grants under section 17156 of this title.
+&emsp;(4) 2 percent to Indian tribes in accordance with subsection (d); and
+
+&emsp;(5) 2 percent for competitive grants under section 17156 of this title.
 
 #### (b) Eligible units of local government
 
-Of amounts available for distribution to eligible units of local government under subsection (a)(1), the Secretary shall provide grants to eligible units of local government under this section based on a formula established by the Secretary according to—
+Of amounts available for distribution to eligible units of local government under subsection (a)(1) or (2), the Secretary shall provide grants to eligible units of local government under this section based on a formula established by the Secretary according to—
 
 &emsp;(1) the populations served by the eligible units of local government, according to the latest available decennial census; and
 
@@ -44,5 +46,13 @@ Not later than 90 days before the beginning of each fiscal year for which grants
 
 The Secretary shall establish a State and local advisory committee to advise the Secretary regarding administration, implementation, and evaluation of the program.
 
-(Pub. L. 110–140, title V, §543, Dec. 19, 2007, 121 Stat. 1668.)
+(Pub. L. 110–140, title V, §543, Dec. 19, 2007, 121 Stat. 1668; Pub. L. 111–5, div. A, title IV, §404(a), (b), Feb. 17, 2009, 123 Stat. 143.)
+
+#### Amendments
+
+2009—Subsec. (a)(1). Pub. L. 111–5, §404(a)(2), added par. (1) and struck out former par. (1) which read as follows: “68 percent to eligible units of local government in accordance with subsection (b);”.
+
+Subsec. (a)(2) to (5). Pub. L. 111–5, §404(a), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+
+Subsec. (b). Pub. L. 111–5, §404(b), substituted “subsection (a)(1) or (2)” for “subsection (a)(1)” in introductory provisions.
 

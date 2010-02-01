@@ -2,7 +2,7 @@
 
 #### (a) Regulations to be issued by Director
 
-(1) The Director shall issue such regulations as are necessary and appropriate to implement Annex II and Annex V to the Protocol and the provisions of this chapter which implement those annexes, including section 2403(b)(2), (3), (4), and (5) of this title. The Director shall designate as native species—
+(1) The Director shall issue such regulations as are necessary and appropriate to implement Annex II and Annex V to the Protocol and the provisions of this chapter which implementthose annexes, including section 2403(b)(2), (3), (4), and (5) of this title. The Director shall designate as native species—
 
 &emsp;(A) each species of the class Aves;
 
@@ -34,7 +34,7 @@ The Act to Prevent Pollution from Ships, referred to in subsec. (b), is Pub. L. 
 
 #### Amendments
 
-1996—Pub. L. 104–227 reenacted section catchline without change and amended text generally. Prior to amendment, text consisted of subsec. (a) “In General” which related to requirement that Director prescribe regulations to implement this chapter and subsec. (b)“Specific Regulations” which related to required content of regulations.
+1996—Pub. L. 104–227 reenacted section catchline without change and amended text generally. Prior to amendment, text consisted of subsec. (a) “In General” which related to requirement that Director prescribe regulations to implement this chapter and subsec. (b) “Specific Regulations” which related to required content of regulations.
 
 #### Transfer of Functions
 

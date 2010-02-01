@@ -6,7 +6,7 @@ In order to preserve and protect for the education, inspiration, and enjoyment o
 
 #### (b) Additional land
 
-In addition to the lands described in subsection (a), the park shall consist of the additional lands within the boundary as generally depicted on the map entitled “Citizens Boundary Proposal for Congaree Swamp National Monument”, numbered 178–80,009A, dated July 1988, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The map may be revised as provided in subsection (a).
+In addition to the lands described in subsection (a), the park shall consist of the additional lands within the boundary as generally depicted on the map entitled “Citizens Boundary Proposal for Congaree Swamp National Monument”, numbered 178–80,009A, dated July 1988, which shall be on file and available for public inspection in the offices of the National ParkService, Department of the Interior. The map may be revised as provided in subsection (a).
 
 #### (c) Acquisition of additional land
 
@@ -72,7 +72,7 @@ Subsecs. (c), (d). Pub. L. 108–108, §148(2), added subsecs. (c) and (d).
 
 “Congaree National Park”, “park”, and “Park” substituted in text for “Congaree Swamp National Monument”, “monument”, and “Monument”, respectively, pursuant to Pub. L. 108–108, §135, which is set out below and which redesignated the Congaree Swamp National Monument as the Congaree National Park.
 
-Pub. L. 108–108, title I, §135, Nov. 10, 2003, 117 Stat. 1270, provided that: “Upon enactment of this Act, theCongaree Swamp National Monument shall be designated the Congaree National Park.”
+Pub. L. 108–108, title I, §135, Nov. 10, 2003, 117 Stat. 1270, provided that: “Upon enactment of this Act, the Congaree Swamp National Monument shall be designated the Congaree National Park.”
 
 Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
 

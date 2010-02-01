@@ -6,7 +6,7 @@ There are authorized to be appropriated to carry out this subpart such sums as m
 
 #### (b) Priority
 
-For the first fiscal year for which funds are made available under this section, the Secretaryshall give priority to allocating funding for the purposes of section 1140<i>l</i> of this title.
+For the first fiscal year for which funds are made available under this section, the Secretary shall give priority to allocating funding for the purposes of section 1140<i>l</i> of this title.
 
 (Pub. L. 89–329, title VII, §775, as added Pub. L. 110–315, title VII, §709(2), Aug. 14, 2008, 122 Stat. 3373.)
 

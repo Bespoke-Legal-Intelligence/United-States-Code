@@ -104,7 +104,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 &emsp;&emsp;&emsp;(ii) information on the quality of the early childhood educator professional development program currently conducted (as of the date of the submission of the application) by the institution of higher education or another provider in the partnership;
 
-&emsp;&emsp;&emsp;(iii) the results of a needs assessment that the entities in the partnership haveundertaken to determine the most critical professional development needs of the early childhood educators to be served by the partnership and in the broader community, and a description of how the proposed project will address those needs;
+&emsp;&emsp;&emsp;(iii) the results of a needs assessment that the entities in the partnership have undertaken to determine the most critical professional development needs of the early childhood educators to be served by the partnership and in the broader community, and a description of how the proposed project will address those needs;
 
 &emsp;&emsp;&emsp;(iv) a description of how the proposed project will be carried out, including a description of—
 
@@ -116,7 +116,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 &emsp;&emsp;&emsp;&emsp;(IV) how the project will be coordinated with and build on, and will not supplant or duplicate, early childhood education professional development activities in the high-need community;
 
-&emsp;&emsp;&emsp;&emsp;(V) how the project will train early childhood educators to provide developmentally appropriate school-readiness services that are based on the best available research on early childhood pedagogy and child development and learning domains;
+&emsp;&emsp;&emsp;&emsp;(V) how the project will train early childhood educators to provide developmentally appropriate school-readinessservices that are based on the best available research on early childhood pedagogy and child development and learning domains;
 
 &emsp;&emsp;&emsp;&emsp;(VI) how the project will train early childhood educators to meet the diverse educational needs of children in the community, including children who have limited English proficiency, children with disabilities, or children with other special needs; and
 
@@ -174,7 +174,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 #### (A) Achievement indicators
 
-&emsp;&emsp;On the date on which the Secretary first issues a notice soliciting applications forgrants under this subsection, the Secretary shall announce achievement indicators for this subsection, which shall be designed—
+&emsp;&emsp;On the date on which the Secretary first issues a notice soliciting applications for grants under this subsection, the Secretary shall announce achievement indicators for this subsection, which shall be designed—
 
 &emsp;&emsp;&emsp;(i) to measure the quality and accessibility of the professional development provided;
 
@@ -190,7 +190,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 #### (ii) Termination
 
-&emsp;&emsp;&emsp;The Secretary may terminate a grant under this subsection at any time if the Secretary determines that the partnership receiving the grant is not making satisfactory progress toward attaining the achievement indicators.
+&emsp;&emsp;&emsp;The Secretary may terminate a grant under this subsection at any time if theSecretary determines that the partnership receiving the grant is not making satisfactory progress toward attaining the achievement indicators.
 
 #### (7) Cost-sharing
 

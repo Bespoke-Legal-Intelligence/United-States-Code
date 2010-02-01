@@ -8,7 +8,7 @@ In order to be eligible for payment under this subpart, a State must have a plan
 
 Each plan for child welfare services under this subpart shall—
 
-&emsp;(1) provide that (A) the individual or agency that administers or supervises the administration of the State's services program under subchapter XX of this chapter will administer or supervise the administration of the plan (except as otherwise provided in section 103(d) of the Adoption Assistance and Child Welfare Act of 1980), and (B) to the extent that child welfare services are furnished by the staff of the State agency or local agency administering the plan, a single organizational unit in such State or local agency, as the case may be, will be responsible for furnishing such child welfare services;
+&emsp;(1) provide that (A) the individual or agency that administers or supervises the administration of the State's services program under subchapter XX of this chapter will administer or supervise the administration of the plan (except as otherwise provided in section 103(d) of the Adoption Assistance and Child Welfare Actof 1980), and (B) to the extent that child welfare services are furnished by the staff of the State agency or local agency administering the plan, a single organizational unit in such State or local agency, as the case may be, will be responsible for furnishing such child welfare services;
 
 &emsp;(2) provide for coordination between the services provided for children under the plan and the services and assistance provided under subchapter XX of this chapter, under the State program funded under part A of this subchapter, under the State plan approved under subpart 2 of this part, under the State plan approved under the State plan approved <sup>1</sup> under part E of this subchapter, and under other State programs having a relationship to the program under this subpart, with a view to provision of welfare and related services which will best promote the welfare of such children and their families;
 
@@ -56,7 +56,7 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;(14) not later than October 1, 2007, include assurances that not more than 10 percent of the expenditures of the State with respect to activities funded from amounts provided under this subpart will be for administrative costs;
 
-&emsp;(15)(A) provides <sup>2</sup> that the State will develop, in coordination and collaboration with the State agency referred to in paragraph (1) and the State agency responsible for administering the State plan approved under subchapter XIX, and in consultation with pediatricians, other experts in health care, and experts in and recipients of child welfare services, a plan for the ongoing oversight and coordination of health care services for any child in a foster care placement, which shall ensure a coordinated strategy to identify and respond to the health care needs of children in foster care placements, including mental health and dental health needs, and shall include an outline of—
+&emsp;(15)(A) provides <sup>2</sup> that the State will develop, in coordination and collaboration with the State agency referred to in paragraph (1) and the State agency responsible for administering the State plan approved under subchapter XIX, and in consultation with pediatricians, other experts in health care, and experts in and recipients of child welfare services, a plan for the ongoing oversight and coordination ofhealth care services for any child in a foster care placement, which shall ensure a coordinated strategy to identify and respond to the health care needs of children in foster care placements, including mental health and dental health needs, and shall include an outline of—
 
 &emsp;&emsp;(i) a schedule for initial and follow-up health screenings that meet reasonable standards of medical practice;
 
@@ -98,7 +98,7 @@ In this subpart:
 
 &emsp;For definitions of other terms used in this part, see section 675 of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §422, as added and amended Pub. L. 90–248, title II, §240(c), (d), Jan. 2, 1968, 81 Stat. 912, 915; Pub. L. 93–647, §3(a)(6), (7), (h), Jan. 4, 1975, 88 Stat. 2348, 2349; Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 517; Pub. L. 101–239, title X, §10403(b)(1), Dec. 19, 1989,103 Stat. 2488; Pub. L. 103–66, title XIII, §13711(b)(1), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–382, title V, §554, Oct. 20, 1994, 108 Stat. 4057; Pub. L. 103–432, title II, §§202(a), 204(a), Oct. 31, 1994, 108 Stat. 4453, 4456; Pub. L. 104–193, title I, §108(b), Aug. 22, 1996, 110 Stat. 2165; Pub. L. 105–33, title V, §5592(a)(1)(A), (2), Aug. 5, 1997, 111 Stat. 644; Pub. L. 105–89, title I, §102(1), title II, §202(a), Nov. 19, 1997, 111 Stat. 2117, 2125; Pub. L. 105–200, title IV, §410(b), July 16, 1998, 112 Stat. 673; Pub. L. 106–279, title II, §205, Oct. 6, 2000, 114 Stat. 837; Pub. L. 109–171, title VII, §7401(b), Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–239, §13, July 3, 2006, 120 Stat. 514; Pub. L. 109–288, §§6(c), 7(a), Sept. 28, 2006, 120 Stat. 1244, 1248; Pub. L. 110–351, title II, §205, Oct. 7, 2008, 122 Stat. 3961.)
+(Aug. 14, 1935, ch. 531, title IV, §422, as added and amended Pub. L. 90–248, title II, §240(c), (d), Jan. 2, 1968, 81 Stat. 912, 915; Pub. L. 93–647, §3(a)(6), (7), (h), Jan. 4, 1975, 88 Stat. 2348, 2349; Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 517; Pub. L. 101–239, title X, §10403(b)(1), Dec. 19, 1989, 103 Stat. 2488; Pub. L. 103–66, title XIII, §13711(b)(1), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–382, title V, §554, Oct. 20, 1994, 108 Stat. 4057; Pub. L. 103–432, title II, §§202(a), 204(a), Oct. 31, 1994, 108 Stat. 4453, 4456; Pub. L. 104–193, title I, §108(b), Aug. 22, 1996, 110 Stat. 2165; Pub. L. 105–33, title V, §5592(a)(1)(A), (2), Aug. 5, 1997, 111 Stat. 644; Pub. L. 105–89, title I, §102(1), title II, §202(a), Nov. 19, 1997, 111 Stat. 2117, 2125; Pub. L. 105–200, title IV, §410(b), July 16, 1998, 112 Stat. 673; Pub. L. 106–279, title II, §205, Oct. 6, 2000, 114 Stat. 837; Pub. L. 109–171, title VII, §7401(b), Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–239, §13, July 3, 2006, 120 Stat. 514; Pub. L. 109–288, §§6(c), 7(a), Sept. 28, 2006, 120 Stat. 1244, 1248; Pub. L. 110–351, title II, §205, Oct. 7, 2008, 122 Stat. 3961.)
 
 #### References in Text
 
@@ -186,7 +186,7 @@ Pub. L. 105–33, §5592(a)(1)(A)(iii), redesignated par. (9), relating to provi
 
 Pub. L. 105–33, §5592(a)(1)(A)(i), amended par. (9) relating to diligent recruitment of potential foster and adoptive families by substituting a semicolon for period at end.
 
-Subsec. (b)(10). Pub. L. 105–33, §5592(a)(1)(A)(iii), redesignated par. (9), relating to providing assurancesthat the State has met certain requirements to protect foster children, as (10). Former par. (10) redesignated (11).
+Subsec. (b)(10). Pub. L. 105–33, §5592(a)(1)(A)(iii), redesignated par. (9), relating to providing assurances that the State has met certain requirements to protect foster children, as (10). Former par. (10) redesignated (11).
 
 Subsec. (b)(10)(B). Pub. L. 105–89, §102(1), in cl. (iii)(I) inserted “safe and” after “where” and in cl. (iv) inserted “safely” after “remain”.
 
@@ -280,7 +280,7 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 Section 202(e) of Pub. L. 103–432 provided that: “The amendments and repeal made by this section \[amending this section and sections 623 to 625 and 672 of this title and repealing section 627 of this title\] shall be effective with respect to fiscal years beginning on or after April 1, 1996.”
 
-Section 204(b) of Pub. L. 103–432 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to fiscal years beginning on or after October 1, 1995.”
+Section 204(b) of Pub. L. 103–432 provided that: “The amendments made by subsection (a) \[amending thissection\] shall be effective with respect to fiscal years beginning on or after October 1, 1995.”
 
 #### Effective Date of 1993 Amendment
 
@@ -334,7 +334,7 @@ Section 103(c) of Pub. L. 96–272 provided that in the case of Guam, Puerto Ric
 
 #### Administration of State Plan for Child Welfare Services by Non-Designated Agency
 
-Section 103(d) of Pub. L. 96–272 provided that: “Notwithstanding section 422(b)(1) of the Social SecurityAct (as amended by subsection (a) of this section) \[subsec. (b)(1) of this section\] if on December 1, 1974, the agency of a State administering its plan for child welfare services under part B of title IV of that Act \[this part\] was not the agency designated pursuant to section 402(a)(3) of that Act \[section 602(a)(3) of this title\], such section 422(b)(1) shall not apply with respect to such agency, but only so long as such agency is not the agency designated under section 2003(d)(1)(C) of that Act \[section 1397b(d)(1)(C) of this title\]; and if on December 1, 1974, the local agency administering the plan of a State under part B of title IV of that Act in a subdivision of the State was not the local agency in such subdivision administering the plan of such State under part A of that title \[part A of this subchapter\], such section 422(b)(1) shall not apply with respect to such local agency, but only so long as such local agency is not the local agency administering the program of the State for the provision of services under title XX of that Act \[subchapter XX of this chapter\].”
+Section 103(d) of Pub. L. 96–272 provided that: “Notwithstanding section 422(b)(1) of the Social Security Act (as amended by subsection (a) of this section) \[subsec. (b)(1) of this section\] if on December 1, 1974, the agency of a State administering its plan for child welfare services under part B of title IV of that Act \[this part\] was not the agency designated pursuant to section 402(a)(3) of that Act \[section 602(a)(3) of this title\], such section 422(b)(1) shall not apply with respect to such agency, but only so long as such agency is not the agency designated under section 2003(d)(1)(C) of that Act \[section 1397b(d)(1)(C) of this title\]; and if on December 1, 1974, the local agency administering the plan of a State under part B of title IV of that Act in a subdivision of the State was not the local agency in such subdivision administering the plan of such State under part A of that title \[part A of this subchapter\], such section 422(b)(1) shall not apply with respect to such local agency, but only so long as such local agency is not the local agency administering the program of the State for the provision of services under title XX of that Act \[subchapter XX of this chapter\].”
 
 #### Overpayments or Underpayments
 

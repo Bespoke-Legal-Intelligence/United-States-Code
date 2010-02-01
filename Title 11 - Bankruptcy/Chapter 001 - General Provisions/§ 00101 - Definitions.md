@@ -1332,6 +1332,10 @@ Section 552, formerly §553, of title III (§§301–553) of Pub. L. 98–353, a
 
 “(c) The amendments made by subtitle J \[enacting section 1113 of this title\], shall become effective as provided in section 541(c) \[set out as an Effective Date note under section 1113 of this title\].”
 
+#### Short Title of 2009 Amendment
+
+Pub. L. 111–16, §1, May 7, 2009, 123 Stat. 1607, provided that: “This Act \[amending sections 109, 322, 332, 342, 521, 704, 749, and 764 of this title, sections 983, 1514, 1963, 2252A, 2339B, 3060, 3432, 3509, and 3771 of Title 18, Crimes and Criminal Procedure, section 7 of the Classified Information Procedures Act set out in the Appendix to Title 18, section 853 of Title 21, Food and Drugs, and sections 636, 1453, and 2107 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under section 109 of this title\] may be cited as the ‘Statutory Time-Periods Technical Amendments Act of 2009’.”
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–438, §1, Oct. 20, 2008, 122 Stat. 5000, provided that: “This Act \[amending section 707 of this title and enacting provisions set out as a note under section 707 of this title\] may be cited as the ‘National Guard and Reservists Debt Relief Act of 2008’.”

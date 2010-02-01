@@ -200,7 +200,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 (3) Except as otherwise directed by the President or with the specific written agreement of the head of the department or agency in question, a Federal agency or official shall not be considered to have met any obligation to provide any information, report, assessment, or other material (including unevaluated intelligence information) to that department or agency solely by virtue of having provided that information, report, assessment, or other material to the Director of National Intelligence or the National Counterterrorism Center.
 
-(4) Not later than February 1 of each year, the Director of National Intelligence shall submit tothe President and to the Congress an annual report that identifies any statute, regulation, policy, or practice that the Director believes impedes the ability of the Director to fully and effectively implement paragraph (1).
+(4) Not later than February 1 of each year, the Director of National Intelligence shall submit to the President and to the Congress an annual report that identifies any statute, regulation, policy, or practice that the Director believes impedes the ability of the Director to fully and effectively implement paragraph (1).
 
 #### (h) Analysis
 
@@ -274,7 +274,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 &emsp;(i) The establishment of special occupational categories involving service, over the course of a career, in more than one element of the intelligence community.
 
-&emsp;(ii) The provision of rewards for service in positions undertaking analysis and planningof operations involving two or more elements of the intelligence community.
+&emsp;(ii) The provision of rewards for service in positions undertaking analysis and planning of operations involving two or more elements of the intelligence community.
 
 &emsp;(iii) The establishment of requirements for education, training, service, and evaluation for service involving more than one element of the intelligence community.
 
@@ -302,7 +302,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 (3)(A) Any determination or decision to be made under an authority referred to in paragraph (1) by the head of an agency may be made with respect to individual purchases and contracts or with respect to classes of purchases or contracts, and shall be final.
 
-(B) Except as provided in subparagraph (C), the Director of National Intelligence or the Principal Deputy Director of National Intelligence may, in such official's discretion, delegate to any officer or other official of the Office of the Director of National Intelligence any authority to make a determination or decision as the head of the agency under an authority referred to in paragraph (1).
+(B) Except as provided in subparagraph (C), the Director of National Intelligence or the Principal Deputy Director of National Intelligence may, in such official's discretion, delegate to any officer or other official of the Office of the Director of National Intelligence any authority to make a determination or decision asthe head of the agency under an authority referred to in paragraph (1).
 
 (C) The limitations and conditions set forth in section 3(d) of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403c(d)) shall apply to the exercise by the Director of National Intelligence of an authority referred to in paragraph (1).
 
@@ -314,7 +314,7 @@ In carrying out the duties and responsibilities under this section, the Director
 
 #### (p) Responsibility of Director of National Intelligence regarding National Intelligence Program budget concerning the Department of Defense
 
-Subject to the direction of the President, the Director of National Intelligence shall, after consultation with the Secretary of Defense, ensure that the National Intelligence Program budgets for the elements of the intelligence community that are within the Department of Defense are adequate to satisfy the national intelligence needs of the Department of Defense, including the needs of the Chairman of the Joint Chiefs of Staff and the commanders of the unified and specified commands, and wherever suchelements are performing Government-wide functions, the needs of other Federal departments and agencies.
+Subject to the direction of the President, the Director of National Intelligence shall, after consultation with the Secretary of Defense, ensure that the National Intelligence Program budgets for the elements of the intelligence community that are within the Department of Defense are adequate to satisfy the national intelligence needs of the Department of Defense, including the needs of the Chairman of the Joint Chiefs of Staff and the commanders of the unified and specified commands, and wherever such elements are performing Government-wide functions, the needs of other Federal departments and agencies.
 
 #### (q) Acquisitions of major systems
 
@@ -364,7 +364,7 @@ The Central Intelligence Agency Act of 1949, referred to in subsecs. (m) and (n)
 
 #### Prior Provisions
 
-A prior section 403–1, act July 26, 1947, ch. 343, title I, §102A, as added Pub. L. 104–293, title VIII, §805(b), Oct. 11, 1996, 110 Stat. 3479, provided there is a Central Intelligence Agency and described its function prior to repeal by Pub. L. 108–458, title I, §§1011(a), 1097(a), Dec. 17, 2004, 118 Stat. 3643, 3698, effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided. See section 403–4 of this title.
+A prior section 403–1, act July 26, 1947, ch. 343, title I, §102A, as added Pub. L. 104–293, title VIII, §805(b), Oct.11, 1996, 110 Stat. 3479, provided there is a Central Intelligence Agency and described its function prior to repeal by Pub. L. 108–458, title I, §§1011(a), 1097(a), Dec. 17, 2004, 118 Stat. 3643, 3698, effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided. See section 403–4 of this title.
 
 Another prior section 403–1, act July 26, 1947, ch. 343, title I, §102a, as added Dec. 9, 1983, Pub. L. 98–215, title IV, §403, 97 Stat. 1477, related to appointment of Director of the Intelligence Community Staff prior to repeal by Pub. L. 102–496, title VII, §705(a)(1), Oct. 24, 1992, 106 Stat. 3190.
 
@@ -384,7 +384,7 @@ Development of Procedures.—The Director of National Intelligence, in consultat
 
 &emsp;“(1) Methods by which the Director of the Central Intelligence Agency and the Secretary of Defense can improve communication and coordination in the planning, execution, and sustainment of operations, including, as a minimum—
 
-&emsp;&emsp;“(A) information exchange between senior officials of the Central Intelligence Agency and seniorofficers and officials of the Department of Defense when planning for such an operation commences by either organization; and
+&emsp;&emsp;“(A) information exchange between senior officials of the Central Intelligence Agency and senior officers and officials of the Department of Defense when planning for such an operation commences by either organization; and
 
 &emsp;&emsp;“(B) exchange of information between the Secretary and the Director of the Central Intelligence Agency to ensure that senior operational officials in both the Department of Defense and the Central Intelligence Agency have knowledge of the existence of the ongoing operations of the other.
 
@@ -562,7 +562,7 @@ Congressional Intelligence Committees Defined.—In this section, the term ‘co
 
 Pub. L. 104–293, §807(c), Oct. 11, 1996, 110 Stat. 3480, provided that: “Not later than January 1, 1997, the Director of Central Intelligence and the Secretary of Defense shall prescribe guidelines to ensure prompt reporting to the Director and the Secretary on a periodic basis of budget execution data for all national, defense-wide, and tactical intelligence activities.”
 
-\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.\]
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in theDirector's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.\]
 
 #### Database Program Tracking
 

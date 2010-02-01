@@ -24,7 +24,7 @@ In this section, the term “community college” means an institution of higher
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish a program to be known as the “New Era Rural TechnologyProgram”, to make grants available for technology development, applied research, and training to aid in the development of an agriculture-based renewable energy workforce.
+&emsp;&emsp;The Secretary shall establish a program to be known as the “New Era Rural Technology Program”, to make grants available for technology development, applied research, and training to aid in the development of an agriculture-based renewable energy workforce.
 
 #### (B) Support
 
@@ -70,7 +70,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Prior Provisions
 
-A prior section 3319e, Pub. L. 95–113, title XIV, §1473E, as added Pub. L. 101–220, §5, Dec. 12, 1989, 103 Stat. 1878, related to research into new commercial products from natural plant materials, prior to repeal by Pub. L. 102–237, title IV, §402(14), Dec. 13, 1991, 105 Stat. 1863.
+A prior section 3319e, Pub. L. 95–113, title XIV, §1473E, as added Pub. L. 101–220, §5, Dec. 12, 1989, 103 Stat. 1878,related to research into new commercial products from natural plant materials, prior to repeal by Pub. L. 102–237, title IV, §402(14), Dec. 13, 1991, 105 Stat. 1863.
 
 #### Effective Date
 

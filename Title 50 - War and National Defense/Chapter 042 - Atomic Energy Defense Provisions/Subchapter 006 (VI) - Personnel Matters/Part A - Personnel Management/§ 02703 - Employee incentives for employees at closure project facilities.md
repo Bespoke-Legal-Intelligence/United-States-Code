@@ -46,7 +46,7 @@ An eligible employee of the Department of Energy provided an incentive under thi
 
 #### (g) Report
 
-The Secretary shall include in each report on a closure project under section 2601(h) of thistitle a report on the incentives, if any, provided under this section with respect to the project for the period covered by such report.
+The Secretary shall include in each report on a closure project under section 2601(h) of this title a report on the incentives, if any, provided under this section with respect to the project for the period covered by such report.
 
 #### (h) Omitted
 
@@ -80,7 +80,7 @@ Section was formerly set out as a note under section 7274n of Title 42, The Publ
 
 #### Amendments
 
-<b>2003</b>—Subsec. (c). Pub. L. 108–136, §3141(i)(4)(D)(i), substituted “section 2601 of this title” for “section 3143 of the National Defense Authorization Act for Fiscal Year 1997 (42 U.S.C. 7274n)”.
+2003—Subsec. (c). Pub. L. 108–136, §3141(i)(4)(D)(i), substituted “section 2601 of this title” for “section 3143 of the National Defense Authorization Act for Fiscal Year 1997 (42 U.S.C. 7274n)”.
 
 Subsec. (g). Pub. L. 108–136, §3141(i)(4)(D)(ii), substituted “section 2601(h) of this title” for “section 3143(h) of the National Defense Authorization Act for Fiscal Year 1997”.
 

@@ -2,7 +2,7 @@
 
 (a)(1) A person may not discharge or in any manner discriminate against a seaman because—
 
-&emsp;(A) the seaman in good faith has reported or is about to report to the Coast Guard or other appropriate Federal agency or department that the seaman believes that a violation of a maritime safety law or regulation prescribed under that law or regulation has occurred; or
+&emsp;(A) the seaman in good faith has reported or is about to report to the Coast Guard or other appropriate Federal agency or departmentthat the seaman believes that a violation of a maritime safety law or regulation prescribed under that law or regulation has occurred; or
 
 &emsp;(B) the seaman has refused to perform duties ordered by the seaman's employer because the seaman has a reasonable apprehension or expectation that performing such duties would result in serious injury to the seaman, other seamen, or the public.
 

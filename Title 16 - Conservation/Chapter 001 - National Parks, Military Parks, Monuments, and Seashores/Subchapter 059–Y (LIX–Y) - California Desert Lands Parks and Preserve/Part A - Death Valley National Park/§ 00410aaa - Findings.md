@@ -40,7 +40,7 @@ Pub. L. 106–423, Nov. 1, 2000, 114 Stat. 1875, provided that:
 
 &emsp;“(3) The Tribe achieved Federal recognition in 1983 but does not have a land base within the Tribe's ancestral homeland.
 
-&emsp;“(4) Since the Tribe commenced use and occupancy of the Furnace Creek area, the Tribe's membership has grown. Tribal members have a desire and need forhousing, government and administrative facilities, cultural facilities, and sustainable economic development to provide decent, safe, and healthy conditions for themselves and their families.
+&emsp;“(4) Since the Tribe commenced use and occupancy of the Furnace Creek area, the Tribe's membership has grown. Tribal members have a desire and need for housing, government and administrative facilities, cultural facilities, and sustainable economic development to provide decent, safe, and healthy conditions for themselves and their families.
 
 &emsp;“(5) The interests of both the Tribe and the National Park Service would be enhanced by recognizing their coexistence on the same land and by establishing partnerships for compatible land uses and for the interpretation of the Tribe's history and culture for visitors to the Park.
 
@@ -106,7 +106,7 @@ Park Lands and Bureau of Land Management Lands Described.—
 
 In general.—The following lands and water shall be held in trust for the Tribe pursuant to subsection (a):
 
-&emsp;&emsp;“(A) Furnace Creek, Death Valley National Park, California, an area of 313.99 acres for community development, residential development, historic restoration, and visitor-related economic development, depicted as Tract 37 on the map of Township 27 North, Range 1 East, of the San Bernardino Meridian, California, numbered Map \#1 and dated December 2, 1999, together with 92 acre feet per annum of surface and ground water for the purposes associated with the transfer of such lands. This area shall include a 25-acre, nondevelopment zone at the north end of the area and an Adobe Restoration zone containing several historic adobe homes, which shall be managed by the Tribe as a tribal historic district.
+&emsp;&emsp;“(A) Furnace Creek, Death Valley National Park, California, an area of 313.99 acres for communitydevelopment, residential development, historic restoration, and visitor-related economic development, depicted as Tract 37 on the map of Township 27 North, Range 1 East, of the San Bernardino Meridian, California, numbered Map \#1 and dated December 2, 1999, together with 92 acre feet per annum of surface and ground water for the purposes associated with the transfer of such lands. This area shall include a 25-acre, nondevelopment zone at the north end of the area and an Adobe Restoration zone containing several historic adobe homes, which shall be managed by the Tribe as a tribal historic district.
 
 &emsp;&emsp;“(B) Death Valley Junction, California, an area of approximately 1,000 acres, as generally depicted on the map entitled ‘Death Valley Junction, California’, numbered Map \#2 and dated April 12, 2000, together with 15.1 acre feet per annum of ground water for the purposes associated with the transfer of such lands.
 

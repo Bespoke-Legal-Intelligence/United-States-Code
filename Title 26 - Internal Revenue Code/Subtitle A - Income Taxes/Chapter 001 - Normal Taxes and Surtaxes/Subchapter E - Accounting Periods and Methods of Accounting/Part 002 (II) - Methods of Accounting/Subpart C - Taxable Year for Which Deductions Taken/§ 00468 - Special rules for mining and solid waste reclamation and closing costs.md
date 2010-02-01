@@ -18,7 +18,7 @@
 
 #### (B) Increase for interest
 
-&emsp;&emsp;A reserve shall be increased each taxable year by an amount equal to the amount ofinterest which would have been earned during such taxable year on the opening balance of such reserve for such taxable year if such interest were computed—
+&emsp;&emsp;A reserve shall be increased each taxable year by an amount equal to the amount of interest which would have been earned during such taxable year on the opening balance of such reserve for such taxable year if such interest were computed—
 
 &emsp;&emsp;&emsp;(i) at the Federal short-term rate or rates (determined under section 1274) in effect, and
 

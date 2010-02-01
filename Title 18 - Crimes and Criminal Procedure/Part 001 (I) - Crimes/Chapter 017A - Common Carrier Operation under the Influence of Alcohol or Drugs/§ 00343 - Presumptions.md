@@ -4,7 +4,7 @@ For purposes of this chapter—
 
 &emsp;(1) an individual with a blood alcohol content of .10 percent or more shall be presumed to be under the influence of alcohol; and
 
-&emsp;(2) an individual shall be presumed to be under the influence of drugs if the quantity ofthe drug in the system of the individual would be sufficient to impair the perception, mental processes, or motor functions of the average individual.
+&emsp;(2) an individual shall be presumed to be under the influence of drugs if the quantity of the drug in the system of the individual would be sufficient to impair the perception, mental processes, or motor functions of the average individual.
 
 (Added Pub. L. 99–570, title I, §1971(a), Oct. 27, 1986, 100 Stat. 3207–59; amended Pub. L. 100–690, title VI, §6473(c), Nov. 18, 1988, 102 Stat. 4379.)
 

@@ -12,7 +12,7 @@ Except as provided in section 8715 of this title, for each of the 2008 through 2
 
 &emsp;&emsp;(A) The higher of the following:
 
-&emsp;&emsp;&emsp;(i) The national average market price received by producers during the 12-monthmarketing year for the covered commodity, as determined by the Secretary.
+&emsp;&emsp;&emsp;(i) The national average market price received by producers during the 12-month marketing year for the covered commodity, as determined by the Secretary.
 
 &emsp;&emsp;&emsp;(ii) The national average loan rate for a marketing assistance loan for the covered commodity in effect for the applicable period under subchapter II.
 
@@ -148,7 +148,7 @@ If counter-cyclical payments are required to be paid under this section for any 
 
 #### (A) In general
 
-&emsp;&emsp;If, before the end of the 12-month marketing year for a covered commodity, the Secretary estimates that counter-cyclical payments will be required for the crop of the covered commodity, the Secretary shall give producers on a farm the option to receivepartial payments of the counter-cyclical payment projected to be made for that crop of the covered commodity.
+&emsp;&emsp;If, before the end of the 12-month marketing year for a covered commodity, the Secretary estimates that counter-cyclical payments will be required for the crop of the covered commodity, the Secretary shall give producers on a farm the option to receive partial payments of the counter-cyclical payment projected to be made for that crop of the covered commodity.
 
 #### (B) Election
 
@@ -172,7 +172,7 @@ If counter-cyclical payments are required to be paid under this section for any 
 
 #### (A) First partial payment
 
-&emsp;&emsp;For each of the 2008 through 2010 crops of a covered commodity, the first partial payment under paragraph (3) to the producers on a farm may not exceed 40 percent of the projected counter-cyclical payment for the covered commodity for the crop year, as determined by the Secretary.
+&emsp;&emsp;For each of the 2008 through 2010 crops of a covered commodity, the first partial payment under paragraph (3) to the producerson a farm may not exceed 40 percent of the projected counter-cyclical payment for the covered commodity for the crop year, as determined by the Secretary.
 
 #### (B) Final payment
 

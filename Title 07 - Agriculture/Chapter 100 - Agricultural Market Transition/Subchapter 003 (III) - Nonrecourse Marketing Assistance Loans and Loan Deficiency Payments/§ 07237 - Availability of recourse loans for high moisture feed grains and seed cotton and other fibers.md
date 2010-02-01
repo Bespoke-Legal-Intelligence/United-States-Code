@@ -34,7 +34,7 @@
 
 #### (1) Upland cotton
 
-&emsp;For each of the 1996 through 2002 crops of upland cotton, the Secretary shall make available recourse seed cotton loans, as determined by the Secretary, to producers on a farm containing eligible cropland covered by a production flexibility contract.
+&emsp;For each of the 1996 through 2002 crops of upland cotton, the Secretary shall make available recourse seed cotton loans, as determinedby the Secretary, to producers on a farm containing eligible cropland covered by a production flexibility contract.
 
 #### (2) Extra long staple cotton
 
@@ -52,7 +52,7 @@
 
 #### (3) Term of loan
 
-&emsp;A loan under paragraph (1) shall have a term of 1 year beginning on the first day of the firstmonth after the month in which the loan is made.
+&emsp;A loan under paragraph (1) shall have a term of 1 year beginning on the first day of the first month after the month in which the loan is made.
 
 #### (4) Waiver of interest
 

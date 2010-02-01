@@ -72,7 +72,7 @@ Subsec. (e). Pub. L. 105–383, §408(a), added subsec. (e).
 
 1992—Subsec. (c)(1). Pub. L. 102–587 substituted “$1,000 for a first violation and not more than $5,000 for a subsequent violation” for “$1,000”.
 
-1990—Subsec. (b). Pub. L. 101–380, §4302(a)(1), substituted “commits a class A misdemeanor” for “shallbe fined not more than $5,000, imprisoned for not more than one year, or both”.
+1990—Subsec. (b). Pub. L. 101–380, §4302(a)(1), substituted “commits a class A misdemeanor” for “shall be fined not more than $5,000, imprisoned for not more than one year, or both”.
 
 Subsec. (c). Pub. L. 101–380, §§4105(b)(2), 4302(a)(2)(A), substituted “under the influence of alcohol, or a dangerous drug in violation of a law of the United States” for “intoxicated” and struck out “, shall be” after “by the Secretary by regulation”.
 

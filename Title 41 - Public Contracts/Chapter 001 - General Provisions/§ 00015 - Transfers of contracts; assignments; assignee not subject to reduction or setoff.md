@@ -62,7 +62,7 @@ R.S. §3737 derived from act July 17, 1862, ch. 200, §14, 12 Stat. 596.
 
 Subsec. (a), designated first par. as subsec. (a) and substituted “is concerned” for “are concerned”.
 
-Subsec. (b), designated second par. as subsec. (b) and inserted subpar. and cl. designations; substituted in introductory provisions “provisions of subsection (a) of this section” for “provisions of the preceding paragraph” and “lending agency, provided:” for “lending agency: <i>Provided</i>,”; in par. designations, “That,” for “That” and periods for semicolons at end; and struck out former par. 1 which read as follows: “That in the case of any contract entered into prior to October 9, 1940, no claim shall be assigned without the consent of the head of the department or agency concerned;”.
+Subsec. (b), designated second par. as subsec. (b) and inserted subpar. and cl. designations; substituted in introductory provisions “provisions of subsection (a) of this section” for “provisions of the preceding paragraph” and “lending agency, provided:” for “lending agency: <i>Provided</i>,”; in par. designations, “That,” for “That” and periods for semicolons at end; and struck out former par. 1 which read as follows: “That in the case of any contract entered into prior to October 9,1940, no claim shall be assigned without the consent of the head of the department or agency concerned;”.
 
 Subsec. (c), designated third par. as subsec. (c) and substituted “this section” for “this section,”.
 

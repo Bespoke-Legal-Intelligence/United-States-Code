@@ -6,7 +6,7 @@ The Secretary shall establish foreign language proficiency requirements for memb
 
 #### (b) Training
 
-The Secretary of State shall arrange for appropriate language training of members of theService by the institution or otherwise in order to assist in meeting the requirements established under subsection (a) of this section.
+The Secretary of State shall arrange for appropriate language training of members of the Service by the institution or otherwise in order to assist in meeting the requirements established under subsection (a) of this section.
 
 #### (c) Report
 
@@ -16,7 +16,7 @@ Not later than January 31 of each year, the Director General of the Foreign Serv
 
 &emsp;(2) were filled by individuals having the required foreign language competence.
 
-(Pub. L. 96–465, title I, §702, Oct. 17, 1980, 94 Stat. 2099; Pub. L. 103–236, title I, §126(3), Apr. 30, 1994, 108 Stat. 394; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §208(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 107–228, div. A, title III, §327, Sept. 30, 2002, 116 Stat. 1387.)
+(Pub. L. 96–465, title I, §702, Oct. 17, 1980, 94 Stat. 2099; Pub. L. 103–236, title I, §126(3), Apr. 30, 1994, 108 Stat. 394; Pub. L. 106–113, div. B, §1000(a)(7)\[div. A, title II, §208(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 107–228, div. A, title III, §327, Sept. 30, 2002, 116 Stat. 1387.)
 
 #### Amendments
 

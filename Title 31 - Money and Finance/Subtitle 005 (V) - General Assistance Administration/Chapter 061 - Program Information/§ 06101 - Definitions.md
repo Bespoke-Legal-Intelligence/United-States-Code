@@ -556,11 +556,11 @@ Contents.—The evaluation under subsection (a) shall—
 
 #### Uniform Suspension, Debarment or Exclusion From Procurement or Nonprocurement Activity
 
-Pub. L. 103–355, title II, §2455, Oct. 13, 1994, 108 Stat. 3327, provided that:
+Pub. L. 103–355, title II, §2455, Oct. 13, 1994, 108 Stat. 3327, as amended by Pub. L. 111–84, div. A, title VIII, §815, Oct. 28, 2009, 123 Stat. 2408, provided that:
 
 “(a)
 
-Requirement for Regulations.—Regulations shall be issued providing that provisions for the debarment, suspension, or other exclusion of a participant in a procurement activity under the Federal Acquisition Regulation, or in a nonprocurement activity under regulations issued pursuant to Executive Order No. 12549 \[set out below\], shall have government-wide effect. No agency shall allow a party to participate in any procurement or nonprocurement activity if any agencyhas debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in a procurement or nonprocurement activity.
+Requirement for Regulations.—Regulations shall be issued providing that provisions for the debarment, suspension, or other exclusion of a participant in a procurement activity under the Federal Acquisition Regulation, or in a nonprocurement activity under regulations issued pursuant to Executive Order No. 12549 \[set out below\], shall have government-wide effect. No agency shall allow a party to participate in any procurement or nonprocurement activity if any agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in a procurement or nonprocurement activity.
 
 “(b)
 
@@ -570,7 +570,7 @@ Authority To Grant Exception.—The regulations issued pursuant to subsection (a
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘procurement activities’ means all acquisition programs and activities of the Federal Government, as defined in the Federal Acquisition Regulation.
+&emsp;“(1) The term ‘procurement activities’ means all acquisition programs and activities of the Federal Government, as defined in the Federal Acquisition Regulation. Such term includes subcontracts at any tier, other than subcontracts for commercially available off-the-shelf items (as defined in section 35(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c))), except that in the case of a contract for commercial items, such term includes only first-tier subcontracts.
 
 &emsp;“(2) The term ‘nonprocurement activities’ means all programs and activities involving Federal financial and nonfinancial assistance and benefits, as covered by Executive Order No. 12549 and the Office of Management and Budget guidelines implementing that order.
 

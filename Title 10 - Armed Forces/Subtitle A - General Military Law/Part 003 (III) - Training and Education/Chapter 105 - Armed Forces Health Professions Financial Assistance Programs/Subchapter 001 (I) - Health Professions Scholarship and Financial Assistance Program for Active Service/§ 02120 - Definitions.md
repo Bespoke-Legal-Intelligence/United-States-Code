@@ -52,7 +52,7 @@ Institution.—An accredited school of nursing is eligible to participate in the
 
 &emsp;&emsp;“(A) is a school of nursing that is accredited to award, at a minimum, a bachelor of science in nursing and provides educational programs leading to such degree;
 
-&emsp;&emsp;“(B) has a resident Reserve Officers’ Training Corps unit at the institution of higher educationthat fulfils the requirements of sections 2101 and 2102 of title 10, United States Code;
+&emsp;&emsp;“(B) has a resident Reserve Officers’ Training Corps unit at the institution of higher education that fulfils the requirements of sections 2101 and 2102 of title 10, United States Code;
 
 &emsp;&emsp;“(C) does not prevent Reserve Officers’ Training Corps access or military recruiting on campus, as defined in section 983 of title 10, United States Code;
 

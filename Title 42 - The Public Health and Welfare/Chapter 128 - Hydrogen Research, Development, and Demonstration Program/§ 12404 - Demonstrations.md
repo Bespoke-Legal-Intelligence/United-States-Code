@@ -6,7 +6,7 @@ The Secretary shall conduct demonstrations of critical technologies, preferably 
 
 #### (b) Small-scale demonstrations
 
-Concurrently with activities conducted pursuant to section 12403 of this title, the Secretaryshall conduct small-scale demonstrations of hydrogen technology at self-contained sites.
+Concurrently with activities conducted pursuant to section 12403 of this title, the Secretary shall conduct small-scale demonstrations of hydrogen technology at self-contained sites.
 
 #### (c) Non-Federal funding
 

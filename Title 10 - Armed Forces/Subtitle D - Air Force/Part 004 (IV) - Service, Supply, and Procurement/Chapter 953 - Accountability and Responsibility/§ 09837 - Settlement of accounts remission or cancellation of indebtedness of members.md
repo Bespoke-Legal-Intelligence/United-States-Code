@@ -76,7 +76,7 @@ In subsection (b), the last sentence is substituted for 10:875a (1st and 2d prov
 
 In subsection (c), the words “Subject to subsection (b)” are substituted for the words “in the proportions hereinbefore indicated”.
 
-In subsection (d), the words “If he considers it in the best interests of the United States” are substituted for the words “when in his opinion the interests of the Government are best served by such action”. The words “before, or at the time of” are substituted for the words “either on \* \* \* or prior thereto”.
+In subsection (d), the words “If he considers it in the best interests of the United States” are substituted for the words “when in his opinion the interests of the Government are best served by such action”. The words “before, or at the time of” are substituted for the words “either on or prior thereto”.
 
 In subsection (e), the words “member” and “his” are substituted for the words “officer or soldier”. The words “or implement” are omitted as surplusage.
 

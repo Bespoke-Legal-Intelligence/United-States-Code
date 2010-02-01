@@ -16,7 +16,7 @@ Funds consolidated under this section shall be considered as funds allotted unde
 
 #### Prior Provisions
 
-A prior section 2372, Pub. L. 88–210, title II, §203, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3118,related to State allotment and application, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2372, Pub. L. 88–210, title II, §203, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3118, related to State allotment and application, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2372, Pub. L. 88–210, title III, §322, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2460; amended Pub. L. 100–418, title VI, §6131(a)(2), Aug. 23, 1988, 102 Stat. 1509; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142, authorized Secretary to make grants and specified uses of funds for program, prior to repeal by Pub. L. 101–392, title III, §305, title VII, §702(a), Sept. 25, 1990, 104 Stat. 786, 843, effective July 1, 1991.
 

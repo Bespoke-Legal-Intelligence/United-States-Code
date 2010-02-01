@@ -24,7 +24,7 @@ A person who receives a loan under subsection (b) or (c) of section 636 of this 
 
 #### (e) Approval or disapproval
 
-The Administrator shall ensure that each applicant for a loan under the program receives adecision approving or disapproving of the application within 36 hours after the Administration receives the application.
+The Administrator shall ensure that each applicant for a loan under the program receives a decision approving or disapproving of the application within 36 hours after the Administration receives the application.
 
 (Pub. L. 85–536, §2\[42\], as added Pub. L. 110–234, title XII, §12084, May 22, 2008, 122 Stat. 1420, and Pub. L. 110–246, §4(a), title XII, §12084, June 18, 2008, 122 Stat. 1664, 2182.)
 

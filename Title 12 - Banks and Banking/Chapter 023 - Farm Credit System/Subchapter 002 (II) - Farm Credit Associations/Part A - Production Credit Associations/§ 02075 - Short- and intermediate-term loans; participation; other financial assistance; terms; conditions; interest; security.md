@@ -44,13 +44,13 @@ Each production credit association, under standards prescribed by the board of d
 
 #### (4) Prior approval
 
-&emsp;Such standards may require prior approval of the bank on certain classes of loans, and may authorize a continuing commitment to a borrower of a line of credit.
+&emsp;Such standards may require prior approval of the bank on certain classes of loans, andmay authorize a continuing commitment to a borrower of a line of credit.
 
 #### (d) Special district rule
 
 #### (1) Provision of credit and technical assistance outside service territory
 
-&emsp;Notwithstanding any territorial limitation in the charter of a production credit association located in a district in which there are only two such associations, the Farm Credit Administration Board, on request of such association, may permit such association to provide credit and technical assistance to any borrower who is denied credit by the other production credit association in the district ifthe Board determines that such other production credit association in the district is unduly restrictive in the application of credit standards.
+&emsp;Notwithstanding any territorial limitation in the charter of a production credit association located in a district in which there are only two such associations, the Farm Credit Administration Board, on request of such association, may permit such association to provide credit and technical assistance to any borrower who is denied credit by the other production credit association in the district if the Board determines that such other production credit association in the district is unduly restrictive in the application of credit standards.
 
 #### (2) Timing of determination
 

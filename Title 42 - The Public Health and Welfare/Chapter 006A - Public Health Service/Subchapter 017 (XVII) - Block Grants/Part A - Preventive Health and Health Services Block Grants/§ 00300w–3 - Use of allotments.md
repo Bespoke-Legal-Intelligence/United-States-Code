@@ -18,7 +18,7 @@
 
 &emsp;(G) Monitoring and evaluation of activities carried out under any of subparagraphs (A) through (F).
 
-(2) Except as provided in subsection (b) of this section, amounts paid to a State under section300w–2 of this title from its allotment under section 300w–1(b) of this title may only be used for providing services to rape victims and for rape prevention.
+(2) Except as provided in subsection (b) of this section, amounts paid to a State under section 300w–2 of this title from its allotment under section 300w–1(b) of this title may only be used for providing services to rape victims and for rape prevention.
 
 (3) The Secretary may provide technical assistance to States in planning and operating activities to be carried out under this part.
 
@@ -50,7 +50,7 @@ Of the amount paid to any State under section 300w–2 of this title, not more t
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title V of the Social Security Act is classified generally to subchapter V (§701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title V of the Social Security Act is classified generally tosubchapter V (§701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 

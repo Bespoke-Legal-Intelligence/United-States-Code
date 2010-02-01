@@ -78,7 +78,7 @@ The order shall provide for the establishment and appointment by the Secretary, 
 
 #### (d) Term of office
 
-A member of the Delegate Body shall serve for a term of 1 year, except that the term of a member of the Delegate Body shall continue untilthe successor of such member, if any, is appointed in accordance with subsection (b)(1) of this section.
+A member of the Delegate Body shall serve for a term of 1 year, except that the term of a member of the Delegate Body shall continue until the successor of such member, if any, is appointed in accordance with subsection (b)(1) of this section.
 
 #### (e) Chairman
 
@@ -110,7 +110,7 @@ A member of the Delegate Body shall serve without compensation, but may be reimb
 
 The Delegate Body shall—
 
-&emsp;(1) recommend the rate of assessment prescribed by the initial order and any increase in such rate pursuant to section 4809(5) <sup>1</sup> of this title, and
+&emsp;(1) recommend the rate of assessment prescribed by the initial order and any increase in such rate pursuant to section 4809(5) <sup>1</sup> of this title; and
 
 &emsp;(2) determine the percentage of the aggregate amount of assessments collected in a State that each State association shall receive under section 4809(c)(1) of this title.
 

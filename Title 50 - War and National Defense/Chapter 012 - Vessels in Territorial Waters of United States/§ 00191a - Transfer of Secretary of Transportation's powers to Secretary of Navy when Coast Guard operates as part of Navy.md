@@ -6,7 +6,7 @@ When the Coast Guard operates as a part of the Navy pursuant to section 3 of tit
 
 #### Amendments
 
-<b>1962</b>—Pub. L. 87–845 substituted “section 3 of title 14” for “section 1 of title 14”.
+1962—Pub. L. 87–845 substituted “section 3 of title 14” for “section 1 of title 14”.
 
 #### Effective Date of 1962 Amendment
 

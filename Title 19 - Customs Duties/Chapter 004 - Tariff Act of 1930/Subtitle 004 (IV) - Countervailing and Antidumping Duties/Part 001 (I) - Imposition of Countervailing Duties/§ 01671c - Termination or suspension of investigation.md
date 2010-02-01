@@ -52,7 +52,7 @@ The administering authority may suspend an investigation if the government of th
 
 #### (1) General rule
 
-&emsp;If the administering authority determines that extraordinary circumstances are present in a case, it may suspend an investigation upon the acceptance of an agreement from a government described in subsection (b) of this section, or from exporters described in subsection (b) of this section, if the agreement will eliminate completely the injurious effect of exports to the United States of the subject merchandise.
+&emsp;If the administering authority determines that extraordinary circumstances are present in a case, it may suspend an investigation upon the acceptance of an agreement from a government described in subsection (b) of this section, or from exporters described in subsection (b) of this section, if the agreement will eliminate completely the injurious effectof exports to the United States of the subject merchandise.
 
 #### (2) Certain additional requirements
 
@@ -150,7 +150,7 @@ Before an investigation may be suspended under subsection (b) or (c) of this sec
 
 &emsp;&emsp;(A) if the final determination by the administering authority or the Commission under section 1671d of this title is negative, the agreement shall have no force or effect and the investigation shall be terminated, or
 
-&emsp;&emsp;(B) if the final determinations by the administering authority and the Commissionunder such section are affirmative, the agreement shall remain in force, but the administering authority shall not issue a countervailing duty order in the case so long as—
+&emsp;&emsp;(B) if the final determinations by the administering authority and the Commission under such section are affirmative, the agreement shall remain in force, but the administering authority shall not issue a countervailing duty order in the case so long as—
 
 &emsp;&emsp;&emsp;(i) the agreement remains in force,
 
@@ -286,7 +286,7 @@ Subsec. (<i>l</i>). Pub. L. 103–465, §218(a)(1), added subsec. (<i>l</i>).
 
 Subsec. (i)(1)(D). Pub. L. 99–514, §1886(a)(4)(B), substituted “intentional” for “international”.
 
-1984—Subsec. (a). Pub. L. 98–573, §604(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “An investigation under this part may be terminated by either the administering authority orthe Commission after notice to all parties to the investigation, upon withdrawal of the petition by the petitioner. The Commission may not terminate an investigation under the preceding sentence before a preliminary determination is made by the administering authority under section 1671b(b) of this title.”
+1984—Subsec. (a). Pub. L. 98–573, §604(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “An investigation under this part may be terminated by either the administering authority or the Commission after notice to all parties to the investigation, upon withdrawal of the petition by the petitioner. The Commission may not terminate an investigation under the preceding sentence before a preliminary determination is made by the administering authority under section 1671b(b) of this title.”
 
 Subsec. (d)(1). Pub. L. 98–573, §604(a)(2)(A), inserted provision, following subpar. (B), that in applying subpar. (A) with respect to any quantitative restriction agreement under subsec. (c) of this section, the administering authority shall take into account, in addition to such other factors as are considered necessary or appropriate, the factors set forth in subsec. (a)(2)(B)(i), (ii), and (iii) of this section as they apply to the proposed suspension and agreement, after consulting with the appropriate consuming industries, producers, and workers referred to in subsec. (a)(2)(C)(i) and (ii) of this section.
 

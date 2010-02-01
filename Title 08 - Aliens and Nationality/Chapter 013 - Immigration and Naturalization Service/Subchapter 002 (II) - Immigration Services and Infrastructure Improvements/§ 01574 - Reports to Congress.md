@@ -86,7 +86,7 @@
 
 #### (3) Absence of appropriated funds
 
-&emsp;In the event that no funds are appropriated subject to section 1573(b) of this title in the fiscal year in which this Act is enacted, the Attorney General shall submit a report to Congress not later than 90 days after the end of such fiscal year, and each fiscal year thereafter, containing the elements described in paragraph (2).
+&emsp;In the event that no funds are appropriated subject to section 1573(b) of this title in the fiscal year in which this Act is enacted, theAttorney General shall submit a report to Congress not later than 90 days after the end of such fiscal year, and each fiscal year thereafter, containing the elements described in paragraph (2).
 
 (Pub. L. 106–313, title II, §205, Oct. 17, 2000, 114 Stat. 1263.)
 

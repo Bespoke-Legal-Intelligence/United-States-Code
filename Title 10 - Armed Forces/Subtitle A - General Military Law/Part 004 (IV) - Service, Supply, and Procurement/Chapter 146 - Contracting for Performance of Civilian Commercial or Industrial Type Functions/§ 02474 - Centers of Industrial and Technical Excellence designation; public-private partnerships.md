@@ -94,7 +94,7 @@ Subsec. (a)(2). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(a)(2)\], i
 
 Subsec. (a)(3). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(a)(3)\], substituted “operations at Centers of Industrial and Technical Excellence” for “depot-level operations”, “by the Centers” for “by depot-level activities”, and “of the Centers” for “of such activities”.
 
-Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(b)\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall enable Centers of Industrial and Technical Excellence to enter into public-private cooperative arrangements for the performance of depot-level maintenance and repair at such Centers and shall encourage the use of such arrangements to maximize the utilization of the capacity at such Centers. A public-private cooperative arrangement under this subsection shall be known as a ‘public-private partnership’.”
+Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(b)\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall enable Centers of Industrialand Technical Excellence to enter into public-private cooperative arrangements for the performance of depot-level maintenance and repair at such Centers and shall encourage the use of such arrangements to maximize the utilization of the capacity at such Centers. A public-private cooperative arrangement under this subsection shall be known as a ‘public-private partnership’.”
 
 Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(c)(3)\], added subsec. (c). Former subsec. (c) redesignated (d).
 

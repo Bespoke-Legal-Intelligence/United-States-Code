@@ -22,7 +22,7 @@ A prior section 6 of Pub. L. 88–74 was classified to section 390f of this titl
 
 Another prior section 6 of Pub. L. 88–74 was classified to section 390e of this title prior to repeal by Pub. L. 99–198.
 
-A prior section 390e, Pub. L. 88–74, §6, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977, 91 Stat. 995, related to continuing availability of unused allotments to eligible institutions for a period offive fiscal years following the fiscal year of initial availability thereof, prior to repeal by Pub. L. 99–198, title XIV, §1411(f), Dec. 23, 1985, 99 Stat. 1548.
+A prior section 390e, Pub. L. 88–74, §6, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977, 91 Stat. 995, related to continuing availability of unused allotments to eligible institutions for a period of five fiscal years following the fiscal year of initial availability thereof, prior to repeal by Pub. L. 99–198, title XIV, §1411(f), Dec. 23, 1985, 99 Stat. 1548.
 
 A prior section 390f, Pub. L. 88–74, §6, formerly §7, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977, 91 Stat. 995; renumbered §6 and amended Pub. L. 99–198, title XIV, §1411(g), (k), Dec. 23, 1985, 99 Stat. 1548, related to fund support basis for multiple-purpose equipment and physical facilities, prior to the general amendment of this subchapter by Pub. L. 104–127.
 

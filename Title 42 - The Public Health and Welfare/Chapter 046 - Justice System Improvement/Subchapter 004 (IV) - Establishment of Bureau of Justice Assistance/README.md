@@ -10,7 +10,7 @@ Section 3742, Pub. L. 90–351, title I, §402, as added Pub. L. 98–473, title
 
 Section 3743, Pub. L. 90–351, title I, §403, as added Pub. L. 98–473, title II, §606, Oct. 12, 1984, 98 Stat. 2081, described grant program.
 
-Section 3744, Pub. L. 90–351, title I, §404, as added Pub. L. 98–473, title II, §606, Oct. 12, 1984, 98 Stat. 2082, authorized Bureau to make financial assistance under this subchapter available to States.
+Section 3744, Pub. L. 90–351, title I, §404, as added Pub. L. 98–473, title II, §606, Oct. 12, 1984, 98 Stat. 2082,authorized Bureau to make financial assistance under this subchapter available to States.
 
 Section 3745, Pub. L. 90–351, title I, §405, as added Pub. L. 98–473, title II, §606, Oct. 12, 1984, 98 Stat. 2082, related to applications for assistance and contents of applications.
 

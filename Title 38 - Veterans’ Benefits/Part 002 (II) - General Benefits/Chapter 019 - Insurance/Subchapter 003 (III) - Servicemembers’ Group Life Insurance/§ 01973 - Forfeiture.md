@@ -14,5 +14,5 @@ Any person guilty of mutiny, treason, spying, or desertion, or who, because of c
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–389, title IV, §403(e)(4), Oct. 10, 2008, 122 Stat. 4175, provided that: “The amendment made by subsection (d) \[amending this section\] shall apply with respect to any act of mutiny, treason, spying, or desertion committed on or after the date of the enactment of this Act \[Oct. 10, 2008\] for which a person is found guilty, or with respect to refusal because of conscientious objections to perform service in, or to wear the uniform of, the Armed Forces on or after the date of the enactment of this Act.”
+Pub. L. 110–389, title IV, §403(e)(4), Oct. 10, 2008, 122 Stat. 4175, provided that: “The amendment made by subsection (d) \[amending this section\] shall apply withrespect to any act of mutiny, treason, spying, or desertion committed on or after the date of the enactment of this Act \[Oct. 10, 2008\] for which a person is found guilty, or with respect to refusal because of conscientious objections to perform service in, or to wear the uniform of, the Armed Forces on or after the date of the enactment of this Act.”
 

@@ -16,7 +16,7 @@ The sole authority to naturalize persons as citizens of the United States is con
 
 #### (B) Exclusive authority
 
-&emsp;&emsp;An eligible court described in paragraph (5) that wishes to have exclusive authority to administer the oath of allegiance under section 1448(a) of this title to persons residing within the jurisdiction of the court during the period described in paragraph (3)(A)(i) shall notify the Attorney General of such wish and, subject to this subsection, shall have such exclusive authority with respect to such persons during such period.
+&emsp;&emsp;An eligible court described in paragraph (5) that wishes to have exclusive authorityto administer the oath of allegiance under section 1448(a) of this title to persons residing within the jurisdiction of the court during the period described in paragraph (3)(A)(i) shall notify the Attorney General of such wish and, subject to this subsection, shall have such exclusive authority with respect to such persons during such period.
 
 #### (2) Information
 
@@ -150,7 +150,7 @@ Continuing Duties.—The amendments to section 339 of the Immigration and Nation
 
 General Savings Provisions.—(1) Nothing contained in this title \[amending this section, sections 1101, 1423, 1424, 1426 to 1430, 1433, 1435 to 1440, 1441 to 1451, and 1455 of this title, and section 1429 of Title 18, Crimes and Criminal Procedure, repealing section 1459 of this title, and enacting provisions set out as a note under section 1440 of this title\], unless otherwise specifically provided, shall be construed to affect the validity of any declaration of intention, petition for naturalization, certificate of naturalization, certification of citizenship, or other document or proceeding which is valid as of the effective date; or to affect any prosecution, suit, action, or proceedings, civil or criminal, brought, or any status, condition, right in process of acquisition, act, thing, liability, obligation, or matter, civil or criminal, done or existing, as of the effective date.
 
-“(2) As to all such prosecutions, suits, actions, proceedings, statutes, conditions, rights, acts, things, liabilities, obligations, or matters, the provisions of lawrepealed by this title are, unless otherwise specifically provided, hereby continued in force and effect.
+“(2) As to all such prosecutions, suits, actions, proceedings, statutes, conditions, rights, acts, things, liabilities, obligations, or matters, the provisions of law repealed by this title are, unless otherwise specifically provided, hereby continued in force and effect.
 
 “(e)
 

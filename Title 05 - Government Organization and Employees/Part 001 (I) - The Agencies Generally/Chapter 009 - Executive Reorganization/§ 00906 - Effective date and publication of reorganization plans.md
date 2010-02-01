@@ -64,5 +64,5 @@ Section 1. The Congress hereby ratifies and affirms as law each reorganization p
 
 “
 
-Sec. 2. Any actions taken prior to the date of enactment of this Act \[Oct. 19, 1984\] pursuant to a reorganization plan that is ratified and affirmed by section 1 shall be considered to have been taken pursuant to a reorganization expressly approved by Act of Congress.”
+Sec. 2. Any actions taken prior to the date of enactment of this Act \[Oct. 19, 1984\] pursuant to a reorganization plan that is ratified and affirmed by section 1shall be considered to have been taken pursuant to a reorganization expressly approved by Act of Congress.”
 

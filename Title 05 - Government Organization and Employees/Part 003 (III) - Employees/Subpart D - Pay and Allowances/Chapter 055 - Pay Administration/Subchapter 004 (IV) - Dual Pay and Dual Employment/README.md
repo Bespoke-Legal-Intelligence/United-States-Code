@@ -13,3 +13,4 @@
 - [&sect; 05535 - Extra pay for details prohibited](%C2%A7%2005535%20-%20Extra%20pay%20for%20details%20prohibited.md)
 - [&sect; 05536 - Extra pay for extra services prohibited](%C2%A7%2005536%20-%20Extra%20pay%20for%20extra%20services%20prohibited.md)
 - [&sect; 05537 - Fees for jury and witness service](%C2%A7%2005537%20-%20Fees%20for%20jury%20and%20witness%20service.md)
+- [&sect; 05538 - Nonreduction in pay while serving in the uniformed services or National Guard](%C2%A7%2005538%20-%20Nonreduction%20in%20pay%20while%20serving%20in%20the%20uniformed%20services%20or%20National%20Guard.md)

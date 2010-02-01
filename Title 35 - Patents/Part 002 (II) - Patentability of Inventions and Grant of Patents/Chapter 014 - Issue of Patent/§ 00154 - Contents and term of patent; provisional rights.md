@@ -10,7 +10,7 @@ Contents.—Every patent shall contain a short title of the invention and a gran
 
 &emsp;(2)
 
-Term.—Subject to the payment of fees under this title, such grant shall be for a termbeginning on the date on which the patent issues and ending 20 years from the date on which the application for the patent was filed in the United States or, if the application contains a specific reference to an earlier filed application or applications under section 120, 121, or 365(c) of this title, from the date on which the earliest such application was filed.
+Term.—Subject to the payment of fees under this title, such grant shall be for a term beginning on the date on which the patent issues and ending 20 years from the date on which the application for the patent was filed in the United States or, if the application contains a specific reference to an earlier filed application or applications under section 120, 121, or 365(c) of this title, from the date on which the earliest such application was filed.
 
 &emsp;(3)
 
@@ -134,7 +134,7 @@ Remedies.—The remedies of sections 283, 284, and 285 of this title shall not a
 
 &emsp;(3)
 
-Remuneration.—The acts referred to in paragraph (2) may be continued only upon the payment of an equitable remuneration to the patentee that is determined in an action brought under chapter 28 and chapter 29 (other than those provisions excluded by paragraph (2)) of this title.<sup>1</sup>
+Remuneration.—The acts referred to in paragraph (2) may be continued only upon thepayment of an equitable remuneration to the patentee that is determined in an action brought under chapter 28 and chapter 29 (other than those provisions excluded by paragraph (2)) of this title.<sup>1</sup>
 
 (d)
 
@@ -254,7 +254,7 @@ Amendment by Pub. L. 89–83 effective three months after July 24, 1965, see sec
 
 #### Regulations
 
-Section 532(a)(2) of Pub. L. 103–465 authorized the Commissioner of Patents and Trademarks to prescribe regulations for further limited reexamination of applications pending 2 years or longer and for examinationof more than 1 independent and distinct invention in applications pending 3 years or longer, as of the effective date of section 154(a)(2) of this title, and to establish appropriate related fees.
+Section 532(a)(2) of Pub. L. 103–465 authorized the Commissioner of Patents and Trademarks to prescribe regulations for further limited reexamination of applications pending 2 years or longer and for examination of more than 1 independent and distinct invention in applications pending 3 years or longer, as of the effective date of section 154(a)(2) of this title, and to establish appropriate related fees.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection.”</i>
 

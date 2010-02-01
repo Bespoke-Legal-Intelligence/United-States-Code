@@ -9,13 +9,10 @@
 | [435\.](%C2%A7%2000435%20-%20Limitations.md) | Limitations. |
 | [436\.](%C2%A7%2000436%20-%20Regulations.md) | Regulations. |
 | [437\.](%C2%A7%2000437%20-%20Congressional%20oversight.md) | Congressional oversight. |
-| [438\.](%C2%A7%2000438%20-%20Defense%20industrial%20security.md) | Defense industrial security. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
-
-2008—Pub. L. 110–417, \[div. A\], title VIII, §845(a)(2), Oct. 14, 2008, 122 Stat. 4542, which directed that item 438 be added at end of analysis for subchapter I of this chapter, was executed by adding item 438 at end of analysis for this subchapter, to reflect the probable intent of Congress.
 
 1992—Pub. L. 102–484, div. A, title X, §1052(1), Oct. 23, 1992, 106 Stat. 2499, inserted “Sec.” above item “431”.
 
@@ -33,4 +30,3 @@
 - [&sect; 00435 - Limitations](%C2%A7%2000435%20-%20Limitations.md)
 - [&sect; 00436 - Regulations](%C2%A7%2000436%20-%20Regulations.md)
 - [&sect; 00437 - Congressional oversight](%C2%A7%2000437%20-%20Congressional%20oversight.md)
-- [&sect; 00438 - Defense industrial security](%C2%A7%2000438%20-%20Defense%20industrial%20security.md)

@@ -112,7 +112,7 @@ Term of the President's Economic Policy Advisory Board extended until Sept. 30, 
 
 #### Ex. Ord. No. 12835. Establishment of National Economic Council
 
-Ex. Ord. No. 12835, Jan. 25, 1993, 58 F.R. 6189, as amended by Ex. Ord. No. 13286, §27, Feb. 28, 2003, 68 F.R. 10625, provided:
+Ex. Ord. No. 12835, Jan. 25, 1993, 58 F.R. 6189, as amended by Ex. Ord. No. 13286, §27, Feb. 28, 2003, 68 F.R. 10625; Ex. Ord. No. 13499, Feb. 5, 2009, 74 F.R. 6979, provided:
 
 By the authority vested in me as President of the United States by the Constitution and the laws of the United States of America, including sections 105, 107, and 301 of title 3, United States Code, it is hereby ordered as follows:
 
@@ -142,23 +142,35 @@ Sec. 2. <i>Membership</i>. The Council shall comprise the:
 
 &emsp;(k) Secretary of Homeland Security;
 
-&emsp;(<i>l</i>) Administrator of the Environmental Protection Agency;
+&emsp;(<i>l</i>) Secretary of Health and Human Services;
 
-&emsp;(m) Chair of the Council of Economic Advisers;
+&emsp;(m) Secretary of Education;
 
-&emsp;(n) Director of the Office of Management and Budget;
+&emsp;(n) Senior Advisor and Assistant to the President for Intergovernmental Affairs and Public Liaison;
 
-&emsp;(<i>o</i>) United States Trade Representative;
+&emsp;(<i>o</i>) Assistant to the President for Energy and Climate Change;
 
-&emsp;(p) Assistant to the President for Economic Policy;
+&emsp;(p) Assistant to the President and Chief Technology Officer;
 
-&emsp;(q) Assistant to the President for Domestic Policy;
+&emsp;(q) Administrator of the Small Business Administration\[;\]
 
-&emsp;(r) National Security Adviser;
+&emsp;(r) Administrator of the Environmental Protection Agency;
 
-&emsp;(s) Assistant to the President for Science and Technology Policy; and
+&emsp;(s) Chair of the Council of Economic Advisers;
 
-&emsp;(t) Such other officials of executive departments and agencies as the President may, from time to time, designate.
+&emsp;(t) Director of the Office of Management and Budget;
+
+&emsp;(u) United States Trade Representative;
+
+&emsp;(v) Assistant to the President for Economic Policy;
+
+&emsp;(w) Assistant to the President for Domestic Policy;
+
+&emsp;(x) National Security Adviser;
+
+&emsp;(y) Assistant to the President for Science and Technology Policy; and
+
+&emsp;(z) Such other officials of executive departments and agencies as the President may, from time to time, designate.
 
 Sec. 3. <i>Meetings of the Council</i>. The President, or upon his direction, the Assistant to the President for Economic Policy (“the Assistant”), may convene meetings of the Council. The President shall preside over the meetings of the Council, provided that in his absence the Vice President, and in his absence the Assistant, will preside.
 

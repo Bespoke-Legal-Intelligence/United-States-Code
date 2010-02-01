@@ -4,7 +4,7 @@ The Director, under the supervision of the Judicial Conference of the United Sta
 
 Such estimates shall be approved, before presentation to the Office of Management and Budget, by the Judicial Conference of the United States, except that the estimate with respect to the Court of International Trade shall be approved by such court and the estimate with respect to the United States Court of Appeals for the Federal Circuit shall be approved by such court.
 
-(June 25, 1948, ch. 646, 62 Stat. 915; July 9, 1956, ch. 517, §1(e), 70 Stat. 497; Aug. 3, 1956, ch. 944, §4, 70 Stat. 1026; Pub. L. 87–253, §3, Sept. 19, 1961, 75Stat. 521; Pub. L. 96–417, title V, §501(14), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, §119(a), Apr. 2, 1982, 96 Stat. 33; Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, 1085.)
+(June 25, 1948, ch. 646, 62 Stat. 915; July 9, 1956, ch. 517, §1(e), 70 Stat. 497; Aug. 3, 1956, ch. 944, §4, 70 Stat. 1026; Pub. L. 87–253, §3, Sept. 19, 1961, 75 Stat. 521; Pub. L. 96–417, title V, §501(14), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, §119(a), Apr. 2, 1982, 96 Stat. 33; Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, 1085.)
 
 #### Historical and Revision Notes
 
@@ -40,5 +40,5 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
+Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending onor commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
 

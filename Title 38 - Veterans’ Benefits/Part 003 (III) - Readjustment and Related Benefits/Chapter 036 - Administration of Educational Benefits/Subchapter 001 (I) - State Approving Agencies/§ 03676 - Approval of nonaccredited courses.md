@@ -2,7 +2,7 @@
 
 (a) No course of education which has not been approved by a State approving agency pursuant to section 3675 of this title, which is offered by a public or private, profit or nonprofit, educational institution shall be approved for the purposes of this chapter unless the educational institution offering such course submits to the appropriate State approving agency a written application for approval of such course in accordance with the provisions of this chapter.
 
-(b) Such application shall be accompanied by not less than two copies of the current catalogor bulletin which is certified as true and correct in content and policy by an authorized owner or official and includes the following:
+(b) Such application shall be accompanied by not less than two copies of the current catalog or bulletin which is certified as true and correct in content and policy by an authorized owner or official and includes the following:
 
 &emsp;(1) Identifying data, such as volume number and date of publication;
 
@@ -76,7 +76,7 @@
 
 (e) Notwithstanding any other provision of this title, a course of education shall not be approved under this section if it is to be pursued in whole or in part by independent study.
 
-(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 159, §1776; amended Pub. L. 89–358, §3(a)(9), Mar. 3, 1966, 80 Stat. 21; Pub. L. 97–66, title VI, §606, Oct. 17, 1981, 95 Stat. 1037; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3676 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(1), Oct. 29, 1992, 106 Stat. 4331; Pub. L. 109–461, title III, §303, Dec. 22, 2006, 120 Stat. 3428; Pub. L. 110–389, title III, §322, Oct. 10, 2008, 122 Stat. 4168.)
+(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 159, §1776; amended Pub. L. 89–358, §3(a)(9), Mar. 3, 1966, 80 Stat. 21; Pub. L. 97–66, title VI, §606, Oct. 17, 1981, 95 Stat. 1037; Pub. L. 101–237, titleIV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3676 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(1), Oct. 29, 1992, 106 Stat. 4331; Pub. L. 109–461, title III, §303, Dec. 22, 2006, 120 Stat. 3428; Pub. L. 110–389, title III, §322, Oct. 10, 2008, 122 Stat. 4168.)
 
 #### Amendments
 

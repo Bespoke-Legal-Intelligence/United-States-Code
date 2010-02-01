@@ -4,7 +4,7 @@
 
 The Secretary, in cooperation with non-Federal project entities and consistent with this subchapter, may carry out a rural water supply program in Reclamation States to—
 
-&emsp;(1) investigate and identify opportunities to ensure safe and adequate rural water supplyprojects for domestic, municipal, and industrial use in small communities and rural areas of the Reclamation States;
+&emsp;(1) investigate and identify opportunities to ensure safe and adequate rural water supply projects for domestic, municipal, and industrial use in small communities and rural areas of the Reclamation States;
 
 &emsp;(2) plan the design and construction, through the conduct of appraisal investigations and feasibility studies, of rural water supply projects in Reclamation States; and
 

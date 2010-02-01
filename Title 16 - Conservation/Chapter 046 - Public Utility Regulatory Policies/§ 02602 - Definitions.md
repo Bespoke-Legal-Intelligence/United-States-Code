@@ -26,7 +26,7 @@ As used in this Act, except as otherwise specifically provided—
 
 &emsp;(9) The term “nonregulated electric utility” means any electric utility other than a State regulated electric utility.
 
-&emsp;(10) The term “rate” means (A) any price, rate, charge, or classification made, demanded, observed, or received with respect to sale of electric energy by an electric utility to an electric consumer, (B) any rule, regulation, or practice respecting any such rate, charge, or classification, and (C) any contract pertaining to the sale of electric energy to an electric consumer.
+&emsp;(10) The term “rate” means (A) any price, rate, charge, or classification made, demanded, observed, or received with respect tosale of electric energy by an electric utility to an electric consumer, (B) any rule, regulation, or practice respecting any such rate, charge, or classification, and (C) any contract pertaining to the sale of electric energy to an electric consumer.
 
 &emsp;(11) The term “ratemaking authority” means authority to fix, modify, approve, or disapprove rates.
 

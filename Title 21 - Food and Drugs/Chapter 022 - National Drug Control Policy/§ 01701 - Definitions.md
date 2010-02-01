@@ -48,7 +48,7 @@ In this chapter:
 
 #### (7) National Drug Control Program agency
 
-&emsp;The term “National Drug Control Program agency” means any agency that is responsible for implementing any aspect of the National Drug Control Strategy, including any agency that receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drug control activity solely under the National Intelligence Program, the Joint Military Intelligence Program or Tactical Intelligence and Related Activities, or (for purposes of section 1703(d) of this title) an agency that is described in section 530C(a) of title 28, unless such agency has been designated—
+&emsp;The term “National Drug Control Program agency” means any agency that is responsible for implementing any aspect of the National Drug Control Strategy, including any agencythat receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drug control activity solely under the National Intelligence Program, the Joint Military Intelligence Program or Tactical Intelligence and Related Activities, or (for purposes of section 1703(d) of this title) an agency that is described in section 530C(a) of title 28, unless such agency has been designated—
 
 &emsp;&emsp;(A) by the President; or
 
@@ -98,7 +98,7 @@ In this chapter:
 
 #### (13) Law enforcement
 
-&emsp;The term “law enforcement” or “drug law enforcement” means all efforts by a Federal, State, local, or tribal government agency to enforce the drug laws of the United States or any State, including investigation, arrest,prosecution, and incarceration or other punishments or penalties.
+&emsp;The term “law enforcement” or “drug law enforcement” means all efforts by a Federal, State, local, or tribal government agency to enforce the drug laws of the United States or any State, including investigation, arrest, prosecution, and incarceration or other punishments or penalties.
 
 (Pub. L. 105–277, div. C, title VII, §702, Oct. 21, 1998, 112 Stat. 2681–670; Pub. L. 109–469, title I, §101, Dec. 29, 2006, 120 Stat. 3503.)
 

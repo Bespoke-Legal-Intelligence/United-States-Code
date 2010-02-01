@@ -70,7 +70,7 @@
 
 #### (3) Consultation with Congress on trade policy priorities
 
-&emsp;The Trade Representative shall keep the committees described in paragraph (1) currently informed with respect to trade policypriorities for the purposes of expanding market opportunities. After the submission of the report required by paragraph (1), the Trade Representative shall also consult periodically with, and take into account the views of, the committees described in that paragraph regarding means to address the foreign trade barriers identified in the report, including the possible initiation of investigations under section 2412 of this title or other trade actions.
+&emsp;The Trade Representative shall keep the committees described in paragraph (1) currently informed with respect to trade policy priorities for the purposes of expanding market opportunities. After the submission of the report required by paragraph (1), the Trade Representative shall also consult periodically with, and take into account the views of, the committees described in that paragraph regarding means to address the foreign trade barriers identified in the report, including the possible initiation of investigations under section 2412 of this title or other trade actions.
 
 #### (c) Assistance of other agencies
 

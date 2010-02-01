@@ -26,7 +26,7 @@ For the purpose of encouraging and facilitating the development and implementati
 
 (2) Any plan prepared under such process shall include, but not be limited to—
 
-&emsp;(A) the identification of treatment works necessary to meet the anticipated municipal and industrial waste treatment needs of the area over a twenty-year period, annually updated (including an analysis of alternative waste treatment systems), including any requirements for the acquisition of land for treatment purposes; the necessary waste water collection and urban storm water runoff systems; and a program to provide the necessary financial arrangements for the development of such treatment works, and an identification of open space and recreation opportunities that can be expected to result from improved water quality, including consideration of potential use of lands associated with treatment works and increased access to water-based recreation;
+&emsp;(A) the identification of treatment works necessary to meet the anticipated municipaland industrial waste treatment needs of the area over a twenty-year period, annually updated (including an analysis of alternative waste treatment systems), including any requirements for the acquisition of land for treatment purposes; the necessary waste water collection and urban storm water runoff systems; and a program to provide the necessary financial arrangements for the development of such treatment works, and an identification of open space and recreation opportunities that can be expected to result from improved water quality, including consideration of potential use of lands associated with treatment works and increased access to water-based recreation;
 
 &emsp;(B) the establishment of construction priorities for such treatment works and time schedules for the initiation and completion of all treatment works;
 
@@ -34,7 +34,7 @@ For the purpose of encouraging and facilitating the development and implementati
 
 &emsp;&emsp;(i) implement the waste treatment management requirements of section 1281(c) of this title,
 
-&emsp;&emsp;(ii) regulate the location, modification, and construction of any facilities withinsuch area which may result in any discharge in such area, and
+&emsp;&emsp;(ii) regulate the location, modification, and construction of any facilities within such area which may result in any discharge in such area, and
 
 &emsp;&emsp;(iii) assure that any industrial or commercial wastes discharged into any treatment works in such area meet applicable pretreatment requirements;
 
@@ -74,7 +74,7 @@ For the purpose of encouraging and facilitating the development and implementati
 
 &emsp;(v) A process to assure continued coordination with Federal and Federal-State water-related planning and reviewing processes, including the National Wetlands Inventory.
 
-(C) If the Governor of a State obtains approval from the Administrator of a statewide regulatory program which meets the requirements of subparagraph (B) of this paragraph and if such State is administering a permit program under section 1344 of this title, no person shall be required to obtain an individual permit pursuant to such section, or to comply with a general permit issued pursuant to such section, with respect to any appropriate activity within such State for which a best management practice has been approved by the Administrator under the program approved by the Administrator pursuant to this paragraph.
+(C) If the Governor of a State obtains approval from the Administrator of a statewide regulatory program which meets the requirements of subparagraph (B) of this paragraph and if such State is administering a permit program undersection 1344 of this title, no person shall be required to obtain an individual permit pursuant to such section, or to comply with a general permit issued pursuant to such section, with respect to any appropriate activity within such State for which a best management practice has been approved by the Administrator under the program approved by the Administrator pursuant to this paragraph.
 
 (D)(i) Whenever the Administrator determines after public hearing that a State is not administering a program approved under this section in accordance with the requirements of this section, the Administrator shall so notify the State, and if appropriate corrective action is not taken within a reasonable time, not to exceed ninety days, the Administrator shall withdraw approval of such program. The Administrator shall not withdraw approval of any such program unless he shall first have notified the State, and made public, in writing, the reasons for such withdrawal.
 
@@ -128,7 +128,7 @@ The Administrator is authorized, upon request of the Governor or the designated 
 
 (1) The Secretary of the Army, acting through the Chief of Engineers, in cooperation with the Administrator is authorized and directed, upon request of the Governor or the designated planning organization, to consult with, and provide technical assistance to, any agency designed <sup>1</sup> under subsection (a) of this section in developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section.
 
-(2) There is authorized to be appropriated to the Secretary of the Army, to carry out this subsection, not to exceed $50,000,000 per fiscalyear for the fiscal years ending June 30, 1973, and June 30, 1974.
+(2) There is authorized to be appropriated to the Secretary of the Army, to carry out this subsection, not to exceed $50,000,000 per fiscal year for the fiscal years ending June 30, 1973, and June 30, 1974.
 
 #### (i) State best management practices program
 

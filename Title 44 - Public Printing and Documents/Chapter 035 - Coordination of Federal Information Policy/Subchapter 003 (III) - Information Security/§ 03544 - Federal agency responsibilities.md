@@ -10,7 +10,7 @@ In General.—The head of each agency shall—
 
 &emsp;&emsp;&emsp;(i) information collected or maintained by or on behalf of the agency; and
 
-&emsp;&emsp;&emsp;(ii) information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency;
+&emsp;&emsp;&emsp;(ii) information systems used or operated by an agency or by a contractor of anagency or other organization on behalf of an agency;
 
 &emsp;&emsp;(B) complying with the requirements of this subchapter and related policies, procedures, standards, and guidelines, including—
 
@@ -86,7 +86,7 @@ Agency Program.—Each agency shall develop, document, and implement an agencywi
 
 &emsp;&emsp;(B) their responsibilities in complying with agency policies and procedures designed to reduce these risks;
 
-&emsp;(5) periodic testing and evaluation of the effectiveness of information security policies, procedures, and practices, to be performed with a frequency depending on risk, but no less than annually, of which such testing—
+&emsp;(5) periodic testing and evaluation of the effectiveness of information security policies, procedures, and practices, to be performedwith a frequency depending on risk, but no less than annually, of which such testing—
 
 &emsp;&emsp;(A) shall include testing of management, operational, and technical controls of every information system identified in the inventory required under section 3505(c); and
 

@@ -1,6 +1,6 @@
 ### §1114. Payment of insurance benefits to retired employees
 
-(a) For purposes of this section, the term “retiree benefits” means payments to any entity or person for the purpose of providing or reimbursing payments for retired employees and their spouses and dependents, for medical, surgical, or hospital care benefits, or benefits in the event of sickness, accident, disability, or death under any plan, fund, or program (through the purchase of insurance or otherwise) maintained or established in whole or in part by the debtor prior to filing a petition commencing a case under this title.
+(a) For purposes of this section, the term “retiree benefits” means payments to any entity or person for the purpose of providing or reimbursing payments for retired employees and their spouses and dependents, for medical, surgical, or hospital care benefits, or benefits in the event of sickness, accident, disability, or death underany plan, fund, or program (through the purchase of insurance or otherwise) maintained or established in whole or in part by the debtor prior to filing a petition commencing a case under this title.
 
 (b)(1) For purposes of this section, the term “authorized representative” means the authorized representative designated pursuant to subsection (c) for persons receiving any retiree benefits covered by a collective bargaining agreement or subsection (d) in the case of persons receiving retiree benefits not covered by such an agreement.
 

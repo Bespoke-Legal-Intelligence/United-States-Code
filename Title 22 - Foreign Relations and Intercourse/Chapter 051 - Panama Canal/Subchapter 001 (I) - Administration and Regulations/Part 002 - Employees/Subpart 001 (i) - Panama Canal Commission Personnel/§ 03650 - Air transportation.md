@@ -16,7 +16,7 @@ Pub. L. 105–85, §3524(a)(1), struck out subsec. (a) which read as follows: �
 
 Subsec. (b). Pub. L. 105–85, §3524(b)(1)(B), redesignated subsec. (d)(2) as subsec. (b) and substituted “An official” for “Notwithstanding paragraph (1), an official” and “who is a citizen of the Republic of Panama” for “referred to in paragraph (1)”.
 
-Pub. L. 105–85, §3524(a)(1), struck out subsec. (b) which read as follows: “For an employee to whom section 3646 of this title applies, the Commission may pay travel and transportation expenses associated with vacation leave for the employee and the immediate family of the employee notwithstanding requirements regarding periods of service established by subchapter II of chapter 57 of title 5 or the regulations promulgated thereunder.”
+Pub. L. 105–85, §3524(a)(1), struck out subsec. (b) which read as follows: “For an employee to whom section 3646 of this title applies, the Commission may pay travel and transportation expenses associated with vacation leave for the employee and the immediate family of the employee notwithstanding requirements regarding periods of service established by subchapter IIof chapter 57 of title 5 or the regulations promulgated thereunder.”
 
 Subsec. (c). Pub. L. 105–85, §3524(a)(1), struck out subsec. (c) which read as follows: “For an employee to whom section 3646 of this title does not apply, the Commission may pay travel and transportation expenses associated with vacation leave for the employee and the immediate family of the employee notwithstanding requirements regarding a written agreement concerning the duration of a continuing service obligation established by subchapter II of chapter 57 of title 5 or the regulations promulgated thereunder.”
 

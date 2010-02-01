@@ -142,7 +142,7 @@ Not later than one year after December 17, 2004, the President shall, with the a
 
 &emsp;&emsp;(B) the authority of the Secretary of Homeland Security and the Attorney General, and the role of the Department of Homeland Security and the Attorney General, in coordinating with State, local, and tribal officials and the private sector.
 
-&emsp;(11) The recommendations of the program manager, in consultation with the Information Sharing Council, for a future management structure for the ISE, including whether the position of program manager should continue to remain in existence.
+&emsp;(11) The recommendations of the program manager, in consultation with the Information Sharing Council, for a future management structure for the ISE, including whetherthe position of program manager should continue to remain in existence.
 
 #### (f) Program manager
 
@@ -178,7 +178,7 @@ Not later than one year after December 17, 2004, the President shall, with the a
 
 &emsp;&emsp;&emsp;(iv) address and facilitate information sharing between and among departments and agencies of the intelligence community, the Department of Defense, the homeland security community and the law enforcement community;
 
-&emsp;&emsp;&emsp;(v) address and facilitate information sharing between Federal departments andagencies and State, tribal, and local governments;
+&emsp;&emsp;&emsp;(v) address and facilitate information sharing between Federal departments and agencies and State, tribal, and local governments;
 
 &emsp;&emsp;&emsp;(vi) address and facilitate, as appropriate, information sharing between Federal departments and agencies and the private sector;
 
@@ -212,7 +212,7 @@ Not later than one year after December 17, 2004, the President shall, with the a
 
 &emsp;&emsp;(H) identify appropriate personnel for assignment to the program manager to support staffing needs identified by the program manager; and
 
-&emsp;&emsp;(I) recommend whether or not, and by which means, the ISE should be expanded so as to allow future expansion encompassing other relevant categories of information.
+&emsp;&emsp;(I) recommend whether or not, and by which means, the ISE should be expanded soas to allow future expansion encompassing other relevant categories of information.
 
 #### (3) Consultation
 
@@ -282,7 +282,7 @@ The head of each department or agency that possesses or uses intelligence or ter
 
 &emsp;&emsp;(B) continuing to use Federal agency standards in effect on August 3, 2007, for the collection, sharing, and access to information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, relating to citizens and lawful permanent residents;
 
-&emsp;&emsp;(C) replacing the standards described in subparagraph (B) with a standard that would allow mission-based or threat-based permission to access or share information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, for a particular purpose that the Federal Government, through an appropriate process established in consultation with the Privacy and Civil Liberties Oversight Board established under section 2000ee of title 42, has determined to be lawfully permissible for a particular agency, component, or employee (commonly known as an “authorized use” standard); and
+&emsp;&emsp;(C) replacing the standards described in subparagraph (B) with a standard that wouldallow mission-based or threat-based permission to access or share information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, for a particular purpose that the Federal Government, through an appropriate process established in consultation with the Privacy and Civil Liberties Oversight Board established under section 2000ee of title 42, has determined to be lawfully permissible for a particular agency, component, or employee (commonly known as an “authorized use” standard); and
 
 &emsp;&emsp;(D) the use of anonymized data by Federal departments, agencies, or components collecting, possessing, disseminating, or handling information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, in any cases in which—
 
@@ -352,7 +352,7 @@ Subsec. (b)(2)(J) to (O). Pub. L. 110–53, §504(2), added subpars. (J) to (O).
 
 Subsec. (f)(1). Pub. L. 110–53, §504(3)(A), substituted “until removed from service or replaced” for “during the two-year period beginning on the date of designation under this paragraph unless sooner removed from service and replaced” and “The program manager, in consultation with the head of any affected department or agency, shall have and exercise governmentwide authority over the sharing of information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, by all Federal departments, agencies, and components, irrespective of the Federal department, agency, or component in which the program manager may be administratively located, except as otherwise expressly provided by law” for “The program manager shall have and exercise governmentwide authority”.
 
-Subsec. (f)(2)(A)(ii) to (v). Pub. L. 110–53, §504(3)(B), added cls. (ii) to (iv), redesignated former cl. (iii) as (v), and struck out former cl. (ii) which read as follows: “assist in the development of policies, procedures, guidelines, rules, and standards as appropriate to foster the development and proper operation of the ISE; and”.
+Subsec. (f)(2)(A)(ii) to (v). Pub. L. 110–53, §504(3)(B), added cls. (ii) to (iv), redesignated former cl. (iii) as (v),and struck out former cl. (ii) which read as follows: “assist in the development of policies, procedures, guidelines, rules, and standards as appropriate to foster the development and proper operation of the ISE; and”.
 
 Subsec. (g)(1). Pub. L. 110–53, §504(4)(A), substituted “until removed from service or replaced” for “during the two-year period beginning on the date of the initial designation of the program manager by the President under subsection (f)(1) of this section, unless sooner removed from service and replaced”.
 
@@ -404,7 +404,7 @@ Sec. 4. <i>Requirements for Collection of Terrorism Information Inside the Unite
 
 Sec. 5. <i>Establishment and Functions of Information Sharing Council</i>. (a) Consistent with section 1016(g) of the Intelligence Reform and Terrorism Prevention Act of 2004, there is hereby established an Information Sharing Council (Council), chaired by the Program Manager to whom section 1016 of such Act refers, and composed exclusively of designees of: the Secretaries of State, the Treasury, Defense, Commerce, Energy, and Homeland Security; the Attorney General; the Director of National Intelligence; the Director of the Central Intelligence Agency; the Director of the Office of Management and Budget; the Director of the Federal Bureau of Investigation; the Director of the National Counterterrorism Center; and such other heads of departments or agencies as the Director of National Intelligence may designate.
 
-(b) The mission of the Council is to (i) provide advice and information concerning the establishment of an interoperable terrorism information sharing environment to facilitate automated sharing of terrorism information among appropriate agencies to implement the policy set forth in section 1 of this order; and (ii) perform the duties set forth in section 1016(g) of the Intelligence Reform and Terrorism Prevention Act of 2004.
+(b) The mission of the Council is to (i) provide advice and information concerning the establishment of an interoperable terrorism information sharing environment to facilitate automated sharing of terrorism information among appropriate agencies to implement the policy set forth in section 1 of this order; and (ii)perform the duties set forth in section 1016(g) of the Intelligence Reform and Terrorism Prevention Act of 2004.
 
 (c) To assist in expeditious and effective implementation by agencies of the policy set forth in section 1 of this order, the plan for establishment of a proposed interoperable terrorism information sharing environment reported under section 5(c) of Executive Order 13356 \[formerly set out above\] shall be used, as appropriate, in carrying out section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004.
 
@@ -472,7 +472,7 @@ Heads of departments and agencies shall, to the extent permitted by law, furnish
 
 The Director shall perform such functions in a manner consistent with the President's constitutional authority to withhold information the disclosure of which could impair foreign relations, national security, the deliberative processes of the Executive, and the performance of the Executive's constitutional duties.
 
-Any reference in this memorandum to the provision of IRTPA shall be deemed to include references to any hereafter-enacted provision of law that is the same or substantially the same as such provision.
+Any reference in this memorandum to the provision of IRTPA shall be deemed to include references to anyhereafter-enacted provision of law that is the same or substantially the same as such provision.
 
 The Director is authorized and directed to publish this memorandum in the Federal Register.
 

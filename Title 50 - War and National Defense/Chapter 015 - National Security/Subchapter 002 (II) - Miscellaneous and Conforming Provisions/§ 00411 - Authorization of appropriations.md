@@ -14,5 +14,5 @@ Section was formerly classified to section 171m of Title 5 prior to the general 
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–178 substituted “provisions and purposes of this Act (other than the provisions and purposes of sections 102, 103, 104, 105 and titles V, VI, and VII)” for “provisions and purposes of this Act”.
+1993—Pub. L. 103–178 substituted “provisions and purposes of this Act (other than the provisions and purposes of sections 102, 103, 104, 105 and titles V, VI, and VII)” for “provisions and purposes of this Act”.
 

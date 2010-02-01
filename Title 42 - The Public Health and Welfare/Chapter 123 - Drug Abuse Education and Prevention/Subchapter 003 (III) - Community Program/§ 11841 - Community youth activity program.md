@@ -68,7 +68,7 @@ In making grants under this section, the Secretary shall give priority to—
 
 &emsp;(5) projects that provide outreach to individuals of all ages who are at high risk of involvement with drug abuse;
 
-&emsp;(6) projects targeted to communities with the most serious drug abuse problems to enable such communities to develop programs that coordinate Federal, State, and local efforts to develop comprehensive, long-term,community-wide prevention and education strategies;
+&emsp;(6) projects targeted to communities with the most serious drug abuse problems to enable such communities to develop programs that coordinate Federal, State, and local efforts to develop comprehensive, long-term, community-wide prevention and education strategies;
 
 &emsp;(7) projects that seek to involve youth who are members of gangs or who may join a gang, in—
 

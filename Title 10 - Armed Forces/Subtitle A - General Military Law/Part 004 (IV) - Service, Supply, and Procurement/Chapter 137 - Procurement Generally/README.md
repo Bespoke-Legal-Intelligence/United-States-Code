@@ -51,10 +51,13 @@
 | [2331\.](%C2%A7%2002331%20-%20Procurement%20of%20services%20contracts%20for%20professional%20and%20technical%20services.md) | Procurement of services: contracts for professional and technical services. |
 | [2332\.](%C2%A7%2002332%20-%20Share-in-savings%20contracts.md) | Share-in-savings contracts. |
 | [2333\.](%C2%A7%2002333%20-%20Joint%20policies%20on%20requirements%20definition%2C%20contingency%20program%20management%2C%20and%20contingency%20contracting.md) | Joint policies on requirements definition, contingency program management, and contingency contracting. |
+| [2334\.](%C2%A7%2002334%20-%20Independent%20cost%20estimation%20and%20cost%20analysis.md) | Independent cost estimation and cost analysis. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2009—Pub. L. 111–23, title I, §101(b)(2), May 22, 2009, 123 Stat. 1709, added item 2334.
 
 2008—Pub. L. 110–181, div. A, title X, §1063(a)(10), Jan. 28, 2008, 122 Stat. 322, added item 2333 and struck out former item 2333 “Joint policies on requirements definition, contingency contracting, and program management”.
 
@@ -166,3 +169,4 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 - [&sect; 02331 - Procurement of services contracts for professional and technical services](%C2%A7%2002331%20-%20Procurement%20of%20services%20contracts%20for%20professional%20and%20technical%20services.md)
 - [&sect; 02332 - Share-in-savings contracts](%C2%A7%2002332%20-%20Share-in-savings%20contracts.md)
 - [&sect; 02333 - Joint policies on requirements definition, contingency program management, and contingency contracting](%C2%A7%2002333%20-%20Joint%20policies%20on%20requirements%20definition%2C%20contingency%20program%20management%2C%20and%20contingency%20contracting.md)
+- [&sect; 02334 - Independent cost estimation and cost analysis](%C2%A7%2002334%20-%20Independent%20cost%20estimation%20and%20cost%20analysis.md)

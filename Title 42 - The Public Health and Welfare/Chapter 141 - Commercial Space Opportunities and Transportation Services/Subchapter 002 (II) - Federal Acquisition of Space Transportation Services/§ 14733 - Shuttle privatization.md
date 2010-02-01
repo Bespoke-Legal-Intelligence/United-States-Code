@@ -16,7 +16,7 @@ The Administrator shall conduct a study of the feasibility of implementing the r
 
 &emsp;(4) whether commercial payloads should be allowed to be launched on the Space Shuttle and whether any classes of payloads should be made ineligible for launch consideration;
 
-&emsp;(5) whether National Aeronautics and Space Administration and other Federal Governmentpayloads should have priority over non-Federal payloads in the Space Shuttle launch assignments, and what policies should be developed to prioritize among payloads generally;
+&emsp;(5) whether National Aeronautics and Space Administration and other Federal Government payloads should have priority over non-Federal payloads in the Space Shuttle launch assignments, and what policies should be developed to prioritize among payloads generally;
 
 &emsp;(6) whether the public interest requires that certain Space Shuttle functions continue to be performed by the Federal Government; and
 

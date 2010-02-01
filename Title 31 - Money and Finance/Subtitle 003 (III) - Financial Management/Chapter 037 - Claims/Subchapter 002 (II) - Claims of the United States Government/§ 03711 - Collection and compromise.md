@@ -130,7 +130,7 @@
 
 &emsp;(E) reasonable costs incurred by the Secretary of the Treasury, including services and utilities provided by the Secretary, and administration of the Account.
 
-(8) Not later than January 1 of each year, there shall be deposited into the Treasury asmiscellaneous receipts an amount equal to the amount of unobligated balances remaining in the Account at the close of business on September 30 of the preceding year, minus any part of such balance that the executive department or agency operating the debt collection center determines is necessary to cover or defray the costs under this subsection for the fiscal year in which the deposit is made.
+(8) Not later than January 1 of each year, there shall be deposited into the Treasury as miscellaneous receipts an amount equal to the amount of unobligated balances remaining in the Account at the close of business on September 30 of the preceding year, minus any part of such balance that the executive department or agency operating the debt collection center determines is necessary to cover or defray the costs under this subsection for the fiscal year in which the deposit is made.
 
 (9) Before discharging any delinquent debt owed to any executive, judicial, or legislative agency, the head of such agency shall take all appropriate steps to collect such debt, including (as applicable)—
 
@@ -178,7 +178,7 @@
 
 &emsp;(i) The cumulative balance of current debts outstanding, the estimated net present value of such debts, the annual administrative expenses of those debts (including the portion of salaries and expenses that are directly related thereto), and the estimated net proceeds that would be received by the Government if such debts were sold.
 
-&emsp;(ii) The cumulative balance of delinquent debts, debts outstanding, the estimated net present value of such debts, the annual administrative expenses of those debts (including the portion of salaries and expenses that are directly related thereto), and the estimated net proceeds that would be received by the Government if such debts were sold.
+&emsp;(ii) The cumulative balance of delinquent debts, debts outstanding, the estimated netpresent value of such debts, the annual administrative expenses of those debts (including the portion of salaries and expenses that are directly related thereto), and the estimated net proceeds that would be received by the Government if such debts were sold.
 
 &emsp;(iii) The cumulative balance of guaranteed loans outstanding, the estimated net present value of such guarantees, the annual administrative expenses of such guarantees (including the portion of salaries and expenses that are directly related to such guaranteed loans), and the estimated net proceeds that would be received by the Government if such loan guarantees were sold.
 
@@ -188,7 +188,7 @@
 
 (5) This subsection is not intended to limit existing statutory authority of agencies to sell loans, debts, or other assets.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 971; Pub. L. 97–452, §1(15), Jan. 12, 1983, 96 Stat. 2470; Pub.L. 98–216, §1(5), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–552, §8(b), Nov. 15, 1990, 104 Stat. 2746; Pub. L. 102–365, §4(a)(4), Sept. 3, 1992, 106 Stat. 973; Pub. L. 103–272, §5(i)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 104–106, div. A, title X, §1089, Feb. 10, 1996, 110 Stat. 459; Pub. L. 104–134, title III, §31001(c)(1), (g)(1)(C), (k), (m)(1), (p), Apr. 26, 1996, 110 Stat. 1321–359, 1321–363, 1321–365, 1321–366, 1321–371; Pub. L. 104–201, div. A, title X, §1010, Sept. 23, 1996, 110 Stat. 2635; Pub. L. 104–316, title I, §115(g)(1), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 109–241, title IX, §902(b)(4), July 11, 2006, 120 Stat. 566; Pub. L. 110–389, title VIII, §801(a), Oct. 10, 2008, 122 Stat. 4185.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 971; Pub. L. 97–452, §1(15), Jan. 12, 1983, 96 Stat. 2470; Pub. L. 98–216, §1(5), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–552, §8(b), Nov. 15, 1990, 104 Stat. 2746; Pub. L. 102–365, §4(a)(4), Sept. 3, 1992, 106 Stat. 973; Pub. L. 103–272, §5(i)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 104–106, div. A, title X, §1089, Feb. 10, 1996, 110 Stat. 459; Pub. L. 104–134, title III, §31001(c)(1), (g)(1)(C), (k), (m)(1), (p), Apr. 26, 1996, 110 Stat. 1321–359, 1321–363, 1321–365, 1321–366, 1321–371; Pub. L. 104–201, div. A, title X, §1010, Sept. 23, 1996, 110 Stat. 2635; Pub. L. 104–316, title I, §115(g)(1), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 109–241, title IX, §902(b)(4), July 11, 2006, 120 Stat. 566; Pub. L. 110–389, title VIII, §801(a), Oct. 10, 2008, 122 Stat. 4185.)
 
 Historical and Revision Notes<br>1982
 

@@ -148,11 +148,11 @@ From the amounts appropriated under subsection (i), the Secretary is authorized 
 
 &emsp;An eligible institution that receives a grant under this subsection may use the grant funds to provide services and program innovations for students participating in the program, including the following:
 
-&emsp;&emsp;(A) College and career success courses provided at no charge to participating students. These courses may cover college success topics, including how to take notes, how tostudy, how to take tests, and how to budget time, and may also include a substantial career exploration component. Institutions may use such courses to help students develop a college and career success plan, so that by the end of the first semester the students have a clear sense of their career goals and what classes to take to achieve such goals.
+&emsp;&emsp;(A) College and career success courses provided at no charge to participating students. These courses may cover college success topics, including how to take notes, how to study, how to take tests, and how to budget time, and may also include a substantial career exploration component. Institutions may use such courses to help students develop a college and career success plan, so that by the end of the first semester the students have a clear sense of their career goals and what classes to take to achieve such goals.
 
 &emsp;&emsp;(B) Work-study jobs with private employers in the students’ fields of study.
 
-&emsp;&emsp;(C) Learning communities that ensure that students participating in the program are clustered together for at least two courses beginning in the first semester after enrolling and have other opportunities to create and maintain bonds that allow them to provide academic and social support to each other.
+&emsp;&emsp;(C) Learning communities that ensure that students participating in the program are clustered together for at least two courses beginning in the first semester after enrolling and have other opportunities to create and maintain bonds that allow themto provide academic and social support to each other.
 
 &emsp;&emsp;(D) Curricular redesign, which may include such innovations as blended or accelerated remediation classes that help student success grant recipients to attain college-level reading, writing, or math skills (or a combination thereof) more rapidly than traditional remediation formats allow, and intensive skills refresher classes, offered prior to each semester, to help students who have tested into remedial coursework to reach entry level assessment scores for the postsecondary programs they wish to enter.
 
@@ -162,7 +162,7 @@ From the amounts appropriated under subsection (i), the Secretary is authorized 
 
 #### (5) Required non-Federal share
 
-&emsp;Each institution participating in the program under this subsection shall provide a non-Federal share of 25 percent of the amount of grant <sup>1</sup> to carry out the activities of the program. The non-Federal share under this subsection may be provided in cash or in kind.
+&emsp;Each institution participating in the program under this subsection shall provide a non-Federal share of 25 percent of the amount of the grant to carry out the activities of the program. The non-Federal share under this subsection may be provided in cash or in kind.
 
 #### (e) Period of grant
 
@@ -176,7 +176,7 @@ The Secretary may award a grant under subsection (c) or (d) of this section for 
 
 #### (2) Evaluations
 
-&emsp;The evaluations required under paragraph (3) shall be conducted by entities that are capable of designing and carrying out independent evaluations that identify the impact of the activities carried out by eligible institutions under this subpart <sup>2</sup> on improving persistence and success of student participants under this subpart.<sup>2</sup>
+&emsp;The evaluations required under paragraph (3) shall be conducted by entities that are capable of designing and carrying out independent evaluations that identify the impact of the activities carried out by eligible institutions under this section on improving persistence and success of student participants under this section.
 
 #### (3) Conduct of evaluations
 
@@ -210,11 +210,23 @@ The Secretary shall—
 
 #### (h) Supplement not supplant
 
-Funds made available under this section shall be use <sup>3</sup> to supplement and not supplant other Federal, State, and local funds available to the institution to carrying out the activities described in subsections (c) and (d).
+Funds made available under this section shall be used to supplement and not supplant other Federal, State, and local funds available to the institution to carrying out the activities described in subsections (c) and (d).
 
 #### (i) Authorization of appropriations
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years. The Secretary may use not more than two percent of the amounts appropriated to provide the technical assistance and conduct the evaluations required under subsection (f).
 
-(Pub. L. 89–329, title VIII, §820, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3404.)
+(Pub. L. 89–329, title VIII, §820, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3404; amended Pub. L. 111–39, title VIII, §801(5), July 1, 2009, 123 Stat. 1955.)
+
+#### Amendments
+
+2009—Subsec. (d)(5). Pub. L. 111–39, §801(5)(A), inserted “the” before “grant”.
+
+Subsec. (f)(2). Pub. L. 111–39, §801(5)(B), substituted “section” for “subpart” in two places.
+
+Subsec. (h). Pub. L. 111–39, §801(5)(C), substituted “used” for “use”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

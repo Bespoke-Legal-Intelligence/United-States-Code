@@ -12,7 +12,7 @@
 
 (b) Except as provided in section 3718(b) <sup>1</sup> of this title, an official or agent of the Government receiving money for the Government from any source shall deposit the money in the Treasury as soon as practicable without deduction for any charge or claim.
 
-(c)(1) A person having custody or possession of public money, including a disbursing official having public money not for current expenditure, shall deposit the money without delay in the Treasury or with a depositary designated by the Secretary of the Treasury under law. Except as provided in paragraph (2), money required to be deposited pursuant to this subsection shall be deposited not later than the third day after the custodian receives the money. The Secretary or a depositary receiving a deposit shall issue duplicate receipts for the money deposited. The original receipt is for the Secretary and the duplicate is for the custodian.
+(c)(1) A person having custody or possession of public money, including a disbursing official having public money not for current expenditure, shall deposit the money without delay in the Treasury or with a depositary designated by the Secretary of the Treasury under law. Except as provided in paragraph (2), money required to be deposited pursuant to this subsection shall bedeposited not later than the third day after the custodian receives the money. The Secretary or a depositary receiving a deposit shall issue duplicate receipts for the money deposited. The original receipt is for the Secretary and the duplicate is for the custodian.
 
 (2) The Secretary of the Treasury may by regulation prescribe that a person having custody or possession of money required by this subsection to be deposited shall deposit such money during a period of time that is greater or lesser than the period of time specified by the second sentence of paragraph (1).
 
@@ -86,7 +86,7 @@ Subsection (d) is substituted for 31:490 for clarity and consistency.
 
 In subsection (e), the words “official or agent having custody or possession of public money” are substituted for “persons charged by law with the safekeeping, transfer, and disbursements of the public moneys” for consistency and to eliminate unnecessary words. The words “other than those connected with the United States Postal Service” are omitted as superseded by title 39.
 
-In subsection (f), the word “expressly” is omitted as surplus. The words “official or agent having custody orpossession” are substituted for 31:545(words before 21st comma) for consistency and to eliminate unnecessary words. The words “additional . . . fireproof of chests or vaults or other necessary expenses of” are omitted as surplus. The words “employ or pay officers and employees of the Government” are substituted for “clerical services or payment of employees of any nature or grade” for consistency in the revised title and with other titles of the United States Code.
+In subsection (f), the word “expressly” is omitted as surplus. The words “official or agent having custody or possession” are substituted for 31:545(words before 21st comma) for consistency and to eliminate unnecessary words. The words “additional . . . fireproof of chests or vaults or other necessary expenses of” are omitted as surplus. The words “employ or pay officers and employees of the Government” are substituted for “clerical services or payment of employees of any nature or grade” for consistency in the revised title and with other titles of the United States Code.
 
 1983
 

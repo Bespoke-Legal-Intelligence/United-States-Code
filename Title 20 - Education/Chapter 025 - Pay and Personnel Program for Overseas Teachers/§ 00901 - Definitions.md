@@ -4,7 +4,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(1) “teaching position” means those duties and responsibilities which—
 
-&emsp;&emsp;(A) are performed on a school-year basis principally in a school operated by the Department of Defense in an overseas area fordependents of members of the Armed Forces and dependents of civilian employees of the Department of Defense, or are performed by an individual who carried out certain teaching activities identified in regulations prescribed by the Secretary of Defense; and
+&emsp;&emsp;(A) are performed on a school-year basis principally in a school operated by the Department of Defense in an overseas area for dependents of members of the Armed Forces and dependents of civilian employees of the Department of Defense, or are performed by an individual who carried out certain teaching activities identified in regulations prescribed by the Secretary of Defense; and
 
 &emsp;&emsp;(B) involve—
 

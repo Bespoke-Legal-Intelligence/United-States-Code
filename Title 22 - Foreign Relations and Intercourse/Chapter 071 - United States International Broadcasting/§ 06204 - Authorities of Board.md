@@ -62,7 +62,7 @@ The Secretary of State and the Board, in carrying out their functions, shall res
 
 #### References in Text
 
-The Radio Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (c), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, as amended, which is classified generally to subchapter V–A (§1465 et seq.) of chapter 18 of thistitle. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
+The Radio Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (c), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, as amended, which is classified generally to subchapter V–A (§1465 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
 
 The Television Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (b)(1), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
 
@@ -111,6 +111,86 @@ Pub. L. 105–277, §1323(f)(1), redesignated subsec. (d) as (e). See Codificati
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+
+#### Expansion of Farsi Language Programming
+
+Pub. L. 111–84, div. A, title XII, §1262, Oct. 28, 2009, 123 Stat. 2553, provided that:
+
+“(a)
+
+International Broadcasting Operations Fund.—In addition to amounts otherwise authorized for the Broadcasting Board of Governors’ International Broadcasting Operations Fund, there is authorized to be appropriated $15,000,000 to expand Farsi language programming and to provide for the dissemination of accurate and independent information to the Iranian people through radio, television, Internet, cellular telephone, short message service, and other communications.
+
+“(b)
+
+Broadcasting Capital Improvements Fund.—In addition to amounts otherwise authorized for the Broadcasting Board of Governors’ Broadcasting Capital Improvements Fund, there is authorized to be appropriated $15,000,000 to expand transmissions of Farsi language programs to Iran.
+
+“(c)
+
+Use of Amounts.—In pursuit of the objectives described in subsections (a) and (b), amounts in the International Broadcasting Operations Fund and the Capital Improvements Fund may be used to—
+
+&emsp;“(1) develop additional transmission capability for Radio Farda and the Persian News Network to counter ongoing efforts to jam transmissions, including through additional shortwave and medium wave transmissions, satellite, and Internet mechanisms;
+
+&emsp;“(2) develop additional proxy server capability and anti-censorship software to counter efforts to block Radio Farda and Persian News Network Web sites;
+
+&emsp;“(3) develop technologies to counter efforts to block SMS text message exchange over cellular phone networks;
+
+&emsp;“(4) expand program coverage and analysis by Radio Farda and the Persian News Network, including the development of broadcast platforms and programs, on the television, radio and Internet, for enhanced interactivity with and among the people of Iran;
+
+&emsp;“(5) hire, on a permanent or short-term basis, additional staff for Radio Farda and the Persian News Network; and
+
+&emsp;“(6) develop additional Internet-based, Farsi-language television programming, including a Farsi-language, Internet-based news channel.”
+
+#### Iranian Electronic Education, Exchange, and Media Fund
+
+Pub. L. 111–84, div. A, title XII, §1263, Oct. 28, 2009, 123 Stat. 2553, provided that:
+
+“(a)
+
+Establishment.—There is established in the Treasury of the United States the Iranian Electronic Education, Exchange, and Media Fund (referred to in this section as the ‘Fund’), consisting of amounts appropriated to the Fund pursuant to subsection (f).
+
+“(b)
+
+Administration.—The Fund shall be administered by the Secretary of State.
+
+“(c)
+
+Objective.—The objective of the Fund shall be to support the development of technologies, including Internet Web sites, that will aid the ability of the Iranian people to—
+
+&emsp;“(1) gain access to and share information;
+
+&emsp;“(2) exercise freedom of speech, freedom of expression, and freedom of assembly through the Internet and other electronic media;
+
+&emsp;“(3) engage in Internet-based education programs and other exchanges between Americans and Iranians; and
+
+&emsp;“(4) counter efforts—
+
+&emsp;&emsp;“(A) to block, censor, and monitor the Internet; and
+
+&emsp;&emsp;“(B) to disrupt or monitor cellular phone networks or SMS text exchanges.
+
+“(d)
+
+Use of Amounts.—In pursuit of the objective described in subsection (c), amounts in the Fund may be used for grants to United States or foreign universities, nonprofit organizations, or companies for targeted projects that advance the purpose of the Fund, including projects that—
+
+&emsp;“(1) develop Farsi-language versions of existing social-networking Web sites;
+
+&emsp;“(2) develop technologies, including Internet-based applications, to counter efforts—
+
+&emsp;&emsp;“(A) to block, censor, and monitor the Internet; and
+
+&emsp;&emsp;“(B) to disrupt or monitor cellular phone networks or SMS text message exchanges;
+
+&emsp;“(3) develop Internet-based, distance learning programs for Iranian students at United States universities; and
+
+&emsp;“(4) promote Internet-based, people-to-people educational, professional, religious, or cultural exchanges and dialogues between United States citizens and Iranians.
+
+“(e)
+
+Transfers.—Amounts in the Fund may be transferred to the United States Agency for International Development, the Broadcasting Board of Governors, or any other agency of the Federal Government to the extent that such amounts are used to carry out activities that will further the objective described in subsection (c).
+
+“(f)
+
+Authorization of Appropriations.—There is authorized to be appropriated $20,000,000 to the Fund.”
 
 #### Buying Power Maintenance Account
 

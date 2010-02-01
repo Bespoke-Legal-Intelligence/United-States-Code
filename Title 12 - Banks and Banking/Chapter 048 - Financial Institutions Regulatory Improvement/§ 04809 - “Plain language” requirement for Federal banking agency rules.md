@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each Federal banking agency shall use plain language in all proposed and final rulemakings published by the agency in the Federal Register after January 1, 2000.
+Each Federal banking agency shall use plain language in all proposed and final rulemakingspublished by the agency in the Federal Register after January 1, 2000.
 
 #### (b) Report
 

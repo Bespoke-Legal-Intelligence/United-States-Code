@@ -94,7 +94,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (D) Rule of construction
 
-&emsp;&emsp;Nothing in this paragraph shall be construed to affect the discretion of a Statecourt in determining whether actions filed in such court should be joined, consolidated, or otherwise allowed to proceed as a single action.
+&emsp;&emsp;Nothing in this paragraph shall be construed to affect the discretion of a State court in determining whether actions filed in such court should be joined, consolidated, or otherwise allowed to proceed as a single action.
 
 #### (3) Covered security
 

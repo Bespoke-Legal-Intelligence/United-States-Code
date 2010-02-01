@@ -26,23 +26,17 @@ Service Agreement for Recipients of Financial Assistance.—(1) To receive finan
 
 &emsp;(B) in the case of a person not an employee of the Department of Defense, the person shall enter into a written agreement to accept and continue employment in the Department of Defense for the period of obligated service determined under paragraph (2).
 
-(2) For the purposes of this subsection, the period of obligated service for a recipient of financial assistance under this section shall be the period determined by the Secretary of Defense as being appropriate to obtain adequate service in exchange for such financial assistance. Except as provided in subsection (d), the period of service required of a recipient may not be less than the total period of pursuit of a degree that is covered by such financial assistance. The period of obligated service is in addition to any other period for which the recipient is obligated to serve in the civil service of the United States.
+(2) For the purposes of this subsection, the period of obligated service for a recipient of financial assistance under this section shall be the period determined by the Secretary of Defense as being appropriate to obtain adequate service in exchange for such financial assistance. The period of service required of a recipient may not be less than the total period of pursuit of a degree that is covered by such financial assistance. The period of obligated service is in addition to any other period for which the recipient is obligated to serve in the civil service of the United States.
 
 (3) An agreement entered into under this subsection by a person pursuing an academic degree shall include any terms and conditions that the Secretary of Defense determines necessary to protect the interests of the United States or otherwise appropriate for carrying out this section.
 
 (d)
 
-Employment of Program Participants.—(1) The Secretary of Defense may—
+Employment of Program Participants.—The Secretary of Defense—
 
-&emsp;(A) appoint or retain a person participating in the program under this section in a position on an interim basis during the period of such person's pursuit of a degree under the program and for a period not to exceed 2 years after completion of the degree, but only if, in the case of the period after completion of the degree—
+&emsp;(1) may, without regard to any provision of title 5 governing appointment of employees to competitive service positions within the Department of Defense, appoint to a position in the Department of Defense in the excepted service an individual who has successfully completed an academic program for which a scholarship or fellowship under this section was awarded and who, under the terms of the agreement for such scholarship or fellowship, at the time of such appointment, owes a service commitment to the Department; and
 
-&emsp;&emsp;(i) there is no readily available appropriate permanent position for such person; and
-
-&emsp;&emsp;(ii) there is an active and ongoing effort to identify and assign such person to an appropriate permanent position as soon as practicable; and
-
-&emsp;(B) if there is no appropriate permanent position available after the end of the periods described in subparagraph (A), separate such person from employment with the Department without regard to any other provision of law, in which event the service agreement of such person under subsection (c) shall terminate.
-
-(2) The period of service of a person covered by paragraph (1) in a position on an interim basis under that paragraph shall, after completion of the degree, be treated as a period of service for purposes of satisfying the obligated service requirements of the person under the service agreement of the person under subsection (c).
+&emsp;(2) may, upon satisfactory completion of 2 years of substantially continuous service by an incumbent who was appointed to an excepted service position under the authority of paragraph (1), convert the appointment of such individual, without competition, to a career or career conditional appointment.
 
 (e)
 
@@ -68,17 +62,13 @@ Refund for Period of Unserved Obligated Service.—(1)(A) A participant in the p
 
 (f)
 
-Relationship to Other Programs.—The program under this section is in addition to the authorities provided in chapter 111 of this title. The Secretary of Defense shall coordinate the provision of financial assistance under the authority of this section with the provision of financial assistance under the authorities provided in such chapter in order to maximize the benefits derived by the Department of Defense from the exercise of all such authorities.
+Relationship to Other Programs.—The Secretary of Defense shall coordinate the provision of financial assistance under the authority of this section with the provision of financial assistance under the other authorities provided in this chapter in order to maximize the benefits derived by the Department of Defense from the exercise of all such authorities.
 
 (g)
 
-Recommendation on Program.—Not later than February 1, 2007, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives, the Committee on Governmental Affairs of the Senate, and the Committee on Government Reform of the House of Representatives a plan for expanding and improving the national defense science and engineering workforce educational assistance program carried out under this section as appropriate to improve recruitment and retention to meet the requirements of the Department of Defense for its science and engineering workforce on a short-term basis and on a long-term basis.
-
-(h)
-
 Institution of Higher Education Defined.—In this section, the term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
 
-(Added Pub. L. 109–163, div. A, title XI, §1104(d)(1), Jan. 6, 2006, 119 Stat. 3449; amended Pub. L. 110–417, \[div. A\], title X, §1061(a)(5), Oct. 14, 2008, 122 Stat. 4612.)
+(Added Pub. L. 109–163, div. A, title XI, §1104(d)(1), Jan. 6, 2006, 119 Stat. 3449; amended Pub. L. 110–417, \[div. A\], title X, §1061(a)(5), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–84, div. A, title XI, §1102(a)–(d)(1), Oct. 28, 2009, 123 Stat. 2484, 2485.)
 
 #### Codification
 
@@ -86,13 +76,17 @@ Section, as added by Pub. L. 109–163, consists of text of Pub. L. 108–375, d
 
 #### Amendments
 
+2009—Subsec. (c)(2). Pub. L. 111–84, §1102(b), substituted “The” for “Except as provided in subsection (d), the” in second sentence.
+
+Subsec. (d). Pub. L. 111–84, §1102(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) provided that, under certain circumstances, the Secretary of Defense could appoint or retain a SMART program participant as an interim employee and separate such participant from employment if no appropriate permanent position was available at the end of the interim period and that the period of interim service would count towards the participant's obligated service requirements.
+
+Subsec. (f). Pub. L. 111–84, §1102(c), struck out “The program under this section is in addition to the authorities provided in chapter 111 of this title.” before “The Secretary” and substituted “the other authorities provided in this chapter” for “the authorities provided in such chapter”.
+
+Subsecs. (g), (h). Pub. L. 111–84, §1102(d)(1), redesignated subsec. (h) as (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “Not later than February 1, 2007, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives, the Committee on Governmental Affairs of the Senate, and the Committee on Government Reform of the House of Representatives a plan for expanding and improving the national defense science and engineering workforce educational assistance program carried out under this section as appropriate to improve recruitment and retention to meet the requirements of the Department of Defense for its science and engineering workforce on a short-term basis and on a long-term basis.”
+
 2008—Subsec. (e)(4). Pub. L. 110–417, §1061(a)(5)(A), substituted “title 11” for “title 11, United States Code,”.
 
 Subsec. (f). Pub. L. 110–417, §1061(a)(5)(B), substituted “this title” for “title 10, United States Code”.
-
-#### Change of Name
-
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effect on Current Participants in SMART Pilot Program
 

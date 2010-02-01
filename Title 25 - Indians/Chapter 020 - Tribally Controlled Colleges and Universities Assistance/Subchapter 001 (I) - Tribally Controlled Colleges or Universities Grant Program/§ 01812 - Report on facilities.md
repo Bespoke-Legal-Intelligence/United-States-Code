@@ -32,7 +32,7 @@ For the purposes of this section, the term “reconstruction” has the meaning 
 
 #### References in Text
 
-The Navajo Community College Act, referred to in subsec. (c)(1), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 640a of this title and Tables.
+The Navajo Community College Act, referred to in subsec. (c)(1), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq.of this title. For complete classification of this Act to the Code, see Short Title note set out under section 640a of this title and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
@@ -56,7 +56,7 @@ Subsec. (c)(2)(B). Pub. L. 105–244, §901(b)(6), substituted “colleges or un
 
 Subsec. (b). Pub. L. 99–428, §6(a)(1), substituted “Secretary” for “Administrator of General Services”.
 
-1983—Pub. L. 98–192 amended section generally, substituting provision requiring a study on the condition of currently existing facilities, submission of a report on the study, contents of the report, establishment of a renovation program, and defining term “reconstruction” for provision which required the Secretary of theInterior, not later than ninety days after Oct. 17, 1978, to prepare and submit a report to the Congress containing a survey of existing and planned physical facilities of tribally controlled community colleges.
+1983—Pub. L. 98–192 amended section generally, substituting provision requiring a study on the condition of currently existing facilities, submission of a report on the study, contents of the report, establishment of a renovation program, and defining term “reconstruction” for provision which required the Secretary of the Interior, not later than ninety days after Oct. 17, 1978, to prepare and submit a report to the Congress containing a survey of existing and planned physical facilities of tribally controlled community colleges.
 
 #### Effective Date of 1998 Amendment
 

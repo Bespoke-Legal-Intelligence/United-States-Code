@@ -2,7 +2,7 @@
 
 (a)
 
-Right to Review.—A party aggrieved by a determination of the corporation under section220527 or 220528 of this title may obtain review by any regional office of the American Arbitration Association.
+Right to Review.—A party aggrieved by a determination of the corporation under section 220527 or 220528 of this title may obtain review by any regional office of the American Arbitration Association.
 
 (b)
 

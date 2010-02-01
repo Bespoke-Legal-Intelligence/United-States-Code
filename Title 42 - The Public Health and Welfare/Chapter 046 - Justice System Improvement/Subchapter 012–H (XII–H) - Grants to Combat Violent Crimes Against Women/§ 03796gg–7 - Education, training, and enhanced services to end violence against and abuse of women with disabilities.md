@@ -62,7 +62,7 @@ There are authorized to be appropriated $10,000,000 for each of the fiscal years
 
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(5)(A), is Pub. L. 101–336, July 26, 1990,104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(5)(A), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 Section 796f–5 of title 29, referred to in subsec. (c)(2), was in the original “section 410 of the Rehabilitation Act of 1973 (29 U.S.C. 796f–5)” and was translated as meaning section 726 of the Rehabilitation Act of 1973, to reflect the probable intent of Congress.
 
@@ -72,7 +72,7 @@ Section was enacted as part of the Violence Against Women Act of 2000 and also a
 
 #### Amendments
 
-2006—Pub. L. 109–162 substituted “Education, training, and enhanced services to end violence against and abuse of women with disabilities” for “Education and training to end violence against and abuse of women with disabilities” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d) relating to award of grants to provide education and technical assistance for the purpose of providing training, consultation, and information on domestic violence, stalking, and sexual assault against women who are individuals with disabilities and authorized appropriations for fiscal years 2001 through 2005.
+2006—Pub. L. 109–162 substituted “Education, training, and enhanced services to end violence against andabuse of women with disabilities” for “Education and training to end violence against and abuse of women with disabilities” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d) relating to award of grants to provide education and technical assistance for the purpose of providing training, consultation, and information on domestic violence, stalking, and sexual assault against women who are individuals with disabilities and authorized appropriations for fiscal years 2001 through 2005.
 
 #### Effective Date of 2006 Amendment
 

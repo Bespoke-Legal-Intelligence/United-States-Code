@@ -32,7 +32,7 @@ No person may be held liable for any violation of subsection (a) or (b) of this 
 
 #### (3) Certain public record information
 
-&emsp;Except as otherwise provided in section 1681k of this title, a consumer reporting agency shall not furnish an investigative consumer report that includes information that is a matter of public record and that relates to an arrest, indictment, conviction, civil judicial action, tax lien, or outstanding judgment, unless the agency has verified the accuracy of the information during the 30-day period ending on the date on which the report is furnished.
+&emsp;Except as otherwise provided in section 1681k of this title, a consumer reporting agency shall not furnish an investigative consumer report that includes information that is a matter of public record and that relates to an arrest, indictment, conviction, civil judicialaction, tax lien, or outstanding judgment, unless the agency has verified the accuracy of the information during the 30-day period ending on the date on which the report is furnished.
 
 #### (4) Certain adverse information
 

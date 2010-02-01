@@ -2,7 +2,7 @@
 
 #### (a) Gross income
 
-Except as provided in subsection (b), the gross income of any organization to which this part applies shall be determined without any adjustment (as a reduction in gross receipts, an increase in cost of goods sold, or otherwise) by reason of any allocation or distribution to a patron out of the net earnings of such organization or by reason of any amount paid to a patron as a per-unit retain allocation (as defined in section 1388(f)).
+Except as provided in subsection (b), the gross income of any organization to which this partapplies shall be determined without any adjustment (as a reduction in gross receipts, an increase in cost of goods sold, or otherwise) by reason of any allocation or distribution to a patron out of the net earnings of such organization or by reason of any amount paid to a patron as a per-unit retain allocation (as defined in section 1388(f)).
 
 #### (b) Patronage dividends and per-unit retain allocations
 
@@ -12,7 +12,7 @@ In determining the taxable income of an organization to which this part applies,
 
 &emsp;(2) in money or other property (except written notices of allocation) in redemption of a nonqualified written notice of allocation which was paid as a patronage dividend during the payment period for the taxable year during which the patronage occurred;
 
-&emsp;(3) as per-unit retain allocations (as defined in section 1388(f)), to the extent paid in money, qualified per-unit retain certificates (as defined in section 1388(h)), or other property (except nonqualified per-unit retain certificates,as defined in section 1388(i)) with respect to marketing occurring during such taxable year; or
+&emsp;(3) as per-unit retain allocations (as defined in section 1388(f)), to the extent paid in money, qualified per-unit retain certificates (as defined in section 1388(h)), or other property (except nonqualified per-unit retain certificates, as defined in section 1388(i)) with respect to marketing occurring during such taxable year; or
 
 &emsp;(4) in money or other property (except per-unit retain certificates) in redemption of a nonqualified per-unit retain certificate which was paid as a per-unit retain allocation during the payment period for the taxable year during which the marketing occurred.
 
@@ -58,7 +58,7 @@ If any portion of the earnings from business done with or for patrons is includi
 
 &emsp;&emsp;&emsp;(i) the United States or such agency shall provide a loan to the organization with the products comprising the pool serving as collateral for such loan,
 
-&emsp;&emsp;&emsp;(ii) the organization shall use an amount equal to the proceeds of such loan to make price support advances to eligible producers (as determined by the United States or such agency), to defray costs of handling, processing, and storing such products, or to pay all or part of any administrative costs associated with the price support program,
+&emsp;&emsp;&emsp;(ii) the organization shall use an amount equal to the proceeds of such loan to makeprice support advances to eligible producers (as determined by the United States or such agency), to defray costs of handling, processing, and storing such products, or to pay all or part of any administrative costs associated with the price support program,
 
 &emsp;&emsp;&emsp;(iii) an amount equal to the net proceeds (as determined under such agreement) from the sale or exchange of the products in the pool shall be used to repay such loan until such loan is repaid in full (or all the products in the pool are disposed of), and
 

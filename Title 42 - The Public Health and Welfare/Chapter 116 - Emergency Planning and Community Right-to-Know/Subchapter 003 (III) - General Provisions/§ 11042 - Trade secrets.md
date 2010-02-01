@@ -4,7 +4,7 @@
 
 #### (1) General authority
 
-&emsp;(A) With regard to a hazardous chemical, an extremely hazardous substance, or a toxic chemical, any person required under section 11003(d)(2), 11003(d)(3), 11021, 11022, or 11023 of this title to submit information to any other person may withhold from such submittal the specific chemical identity (including the chemical name and other specific identification), as defined in regulations prescribed by the Administrator under subsection (c) of this section, if the person complies with paragraph (2).
+&emsp;(A) With regard to a hazardous chemical, an extremely hazardous substance, or a toxicchemical, any person required under section 11003(d)(2), 11003(d)(3), 11021, 11022, or 11023 of this title to submit information to any other person may withhold from such submittal the specific chemical identity (including the chemical name and other specific identification), as defined in regulations prescribed by the Administrator under subsection (c) of this section, if the person complies with paragraph (2).
 
 &emsp;(B) Any person withholding the specific chemical identity shall, in the place on the submittal where the chemical identity would normally be included, include the generic class or category of the hazardous chemical, extremely hazardous substance, or toxic chemical (as the case may be).
 
@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(i) claims that such information is a trade secret, on the basis of the factors enumerated in subsection (b) of this section,
 
-&emsp;&emsp;(ii) includes in the submittal referred to in paragraph (1) an explanation of the reasonswhy such information is claimed to be a trade secret, based on the factors enumerated in subsection (b) of this section, including a specific description of why such factors apply, and
+&emsp;&emsp;(ii) includes in the submittal referred to in paragraph (1) an explanation of the reasons why such information is claimed to be a trade secret, based on the factors enumerated in subsection (b) of this section, including a specific description of why such factors apply, and
 
 &emsp;&emsp;(iii) submits to the Administrator a copy of such submittal, and the information withheld from such submittal.
 

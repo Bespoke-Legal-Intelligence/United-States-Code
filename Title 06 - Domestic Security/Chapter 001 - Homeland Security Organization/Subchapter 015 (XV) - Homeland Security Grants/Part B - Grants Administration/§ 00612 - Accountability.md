@@ -14,7 +14,7 @@
 
 #### (C) Improper payments
 
-&emsp;&emsp;Consistent with the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note),for each of the grant programs under sections 604 and 605 of this title and section 762 of this title, the Administrator shall specify policies and procedures for—
+&emsp;&emsp;Consistent with the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note), for each of the grant programs under sections 604 and 605 of this title and section 762 of this title, the Administrator shall specify policies and procedures for—
 
 &emsp;&emsp;&emsp;(i) identifying activities funded under any such grant program that are susceptible to significant improper payments; and
 

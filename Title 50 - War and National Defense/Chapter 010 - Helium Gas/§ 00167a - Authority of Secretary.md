@@ -42,5 +42,5 @@ A prior section 3 of act Mar. 3, 1925, related to disposal of helium by sale, us
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–273 amended section generally. Prior to amendment, section enumerated various aspects of Secretary's authority, including provisions in subsec. (a) relating to conserving, producing, buying, and selling helium, in subsec. (b) relating to helium on public domain, and in subsec. (c) relating to contract price for helium.
+1996—Pub. L. 104–273 amended section generally. Prior to amendment, section enumerated various aspects of Secretary's authority, including provisions in subsec. (a) relating to conserving, producing, buying, and selling helium, in subsec. (b) relating to helium on public domain, and in subsec. (c) relating to contract price for helium.
 

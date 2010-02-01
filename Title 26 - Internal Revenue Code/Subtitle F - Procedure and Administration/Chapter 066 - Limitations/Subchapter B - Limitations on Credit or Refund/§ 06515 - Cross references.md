@@ -38,7 +38,7 @@ Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable with respect to determinations (as defined in section 860(e) of this title) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under section 860 of this title.
+Amendment by Pub. L. 95–600 applicable with respect to determinations (as defined in section 860(e) of thistitle) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under section 860 of this title.
 
 #### Effective Date of 1976 Amendment
 

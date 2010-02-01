@@ -6,7 +6,7 @@ Offenses.—
 
 &emsp;(1)
 
-In general.—Whoever, during and in relation to any felony violation enumerated in subsection (c), knowingly transfers, possesses, or uses, without lawful authority, a means ofidentification of another person shall, in addition to the punishment provided for such felony, be sentenced to a term of imprisonment of 2 years.
+In general.—Whoever, during and in relation to any felony violation enumerated in subsection (c), knowingly transfers, possesses, or uses, without lawful authority, a means of identification of another person shall, in addition to the punishment provided for such felony, be sentenced to a term of imprisonment of 2 years.
 
 &emsp;(2)
 

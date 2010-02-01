@@ -148,7 +148,7 @@ Pub. L. 106–501, §1, Nov. 13, 2000, 114 Stat. 2226, provided that: “This Ac
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–171, §1, Dec. 2, 1993, 107 Stat. 1988, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Older Americans Act Technical Amendments of 1993’.”
+Pub. L. 103–171, §1, Dec. 2, 1993, 107 Stat. 1988, provided that: “This Act \[see Tables for classification\] may becited as the ‘Older Americans Act Technical Amendments of 1993’.”
 
 #### Short Title of 1992 Amendment
 
@@ -204,7 +204,7 @@ Section 902 of Pub. L. 102–375 provided that: “Except as otherwise specifica
 
 #### Study of Effectiveness of State Long-Term Care Ombudsman Programs
 
-Section 211 of Pub. L. 102–375, as amended by Pub. L. 103–171, §4(a)(2), Dec. 2, 1993, 107 Stat. 1991, provided that not later than Jan. 1, 1995, the Assistant Secretary for Aging, in consultation with State agencies, State Long-Term Care Ombudsmen, the National Ombudsman Resource Center, and professional ombudsmen associations, directly, or by grant or contract, was to conduct a study and submit a report to Congress analyzing separately with respect to each State effectiveness of State long-term care ombudsman programs.
+Section 211 of Pub. L. 102–375, as amended by Pub. L. 103–171, §4(a)(2), Dec. 2, 1993, 107 Stat. 1991, providedthat not later than Jan. 1, 1995, the Assistant Secretary for Aging, in consultation with State agencies, State Long-Term Care Ombudsmen, the National Ombudsman Resource Center, and professional ombudsmen associations, directly, or by grant or contract, was to conduct a study and submit a report to Congress analyzing separately with respect to each State effectiveness of State long-term care ombudsman programs.
 
 #### Study on Board and Care Facility Quality
 
@@ -706,7 +706,7 @@ Authorization.—
 
 In general.—There are authorized to be appropriated to carry out this section \[title\]—
 
-&emsp;&emsp;“(A) such sums as may be necessary for the first fiscal year in which the Policy Committee plansthe Conference and for the following fiscal year; and
+&emsp;&emsp;“(A) such sums as may be necessary for the first fiscal year in which the Policy Committee plans the Conference and for the following fiscal year; and
 
 &emsp;&emsp;“(B) such sums as may be necessary for the fiscal year in which the Conference is held.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this section, every cooperative to which part I of subchapter T of chapter 1 applies, which makes payments of amounts described in subsection (b) aggregating $10 or more to any person during any calendar year, shall make a return according to the forms of regulations prescribed by the Secretary, setting forth the aggregate amount of such payments and the name and address of the person to whom paid.
+&emsp;Except as otherwise provided in this section, every cooperative to which part I of subchapter T of chapter 1 applies, which makes payments of amounts described in subsection\(b) aggregating $10 or more to any person during any calendar year, shall make a return according to the forms of regulations prescribed by the Secretary, setting forth the aggregate amount of such payments and the name and address of the person to whom paid.
 
 #### (2) Returns required by the Secretary
 
@@ -36,7 +36,7 @@
 
 #### (c) Exemption for certain consumer cooperatives
 
-A cooperative which the Secretary determines is primarily engaged in selling at retail goods or services of a type that are generally for personal, living, or family use shall, upon application to the Secretary, be granted exemption from the reporting requirements imposed bysubsection (a). Application for exemption under this subsection shall be made in accordance with regulations prescribed by the Secretary.
+A cooperative which the Secretary determines is primarily engaged in selling at retail goods or services of a type that are generally for personal, living, or family use shall, upon application to the Secretary, be granted exemption from the reporting requirements imposed by subsection (a). Application for exemption under this subsection shall be made in accordance with regulations prescribed by the Secretary.
 
 #### (d) Determination of amount paid
 

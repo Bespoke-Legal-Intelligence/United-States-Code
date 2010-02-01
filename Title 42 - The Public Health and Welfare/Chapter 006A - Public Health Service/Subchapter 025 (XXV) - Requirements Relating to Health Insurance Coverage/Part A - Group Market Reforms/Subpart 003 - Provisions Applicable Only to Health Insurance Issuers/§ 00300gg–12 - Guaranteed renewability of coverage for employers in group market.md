@@ -10,7 +10,7 @@ A health insurance issuer may nonrenew or discontinue health insurance coverage 
 
 #### (1) Nonpayment of premiums
 
-&emsp;The plan sponsor has failed to pay premiums or contributions in accordance with the termsof the health insurance coverage or the issuer has not received timely premium payments.
+&emsp;The plan sponsor has failed to pay premiums or contributions in accordance with the terms of the health insurance coverage or the issuer has not received timely premium payments.
 
 #### (2) Fraud
 
@@ -60,7 +60,7 @@ A health insurance issuer may nonrenew or discontinue health insurance coverage 
 
 #### (d) Exception for uniform modification of coverage
 
-At the time of coverage renewal, a health insurance issuer may modify the health insurance coverage for a product offered to a group health plan—
+At the time of coverage renewal, a health insurance issuer may modify the health insurancecoverage for a product offered to a group health plan—
 
 &emsp;(1) in the large group market; or
 

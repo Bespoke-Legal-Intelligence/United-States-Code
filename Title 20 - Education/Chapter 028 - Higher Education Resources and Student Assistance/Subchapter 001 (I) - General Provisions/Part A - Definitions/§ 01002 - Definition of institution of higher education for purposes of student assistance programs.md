@@ -92,7 +92,7 @@
 
 #### (D) Special rule
 
-&emsp;&emsp;If, pursuant to this paragraph, an institution loses eligibility to participate in the programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, then a student enrolled at such institution may, notwithstanding such loss of eligibility, continue to be eligible to receive a loan under part B <sup>1</sup> while attending such institution for the academic year succeeding the academic year in which such loss of eligibility occurred.
+&emsp;&emsp;If, pursuant to this paragraph, an institution loses eligibility to participate in the programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, then a student enrolled at such institution may, notwithstanding such loss of eligibility, continue to be eligible to receive a loan under part B of subchapter IV while attending such institution for the academic year succeeding the academic year in which such loss of eligibility occurred.
 
 #### (3) Limitations based on course of study or enrollment
 
@@ -158,11 +158,11 @@
 
 &emsp;The term “postsecondary vocational institution” also includes an educational institution in any State that, in lieu of the requirement in paragraph (1) of section 1001(a) of this title, admits as regular students persons who are beyond the age of compulsory school attendance in the State in which the institution is located.
 
-(Pub. L. 89–329, title I, §102, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1586; amended Pub. L. 108–98, §1(a), Oct. 10, 2003, 117 Stat. 1174; Pub. L. 109–171, title VIII, §8002, Feb. 8, 2006, 120 Stat. 155; Pub. L. 109–270, §2(c)(1), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–315, title I, §102(a)–(d)(1), Aug. 14, 2008, 122 Stat. 3083–3085.)
+(Pub. L. 89–329, title I, §102, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1586; amended Pub. L. 108–98, §1(a), Oct. 10, 2003, 117 Stat. 1174; Pub. L. 109–171, title VIII, §8002, Feb. 8, 2006, 120 Stat. 155; Pub. L. 109–270, §2(c)(1), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–315, title I, §102(a)–(d)(1), Aug. 14, 2008, 122 Stat. 3083–3085; Pub. L. 111–39, title I, §101(b)(1), July 1, 2009, 123 Stat. 1935.)
 
 #### Amendment of Subsection (a)(2)(A)
 
-<i>Pub. L. 110–315, title I, §102(a)(1), (e), Aug. 14, 2008, 122 Stat. 3083, 3086, provided that, effective July 1, 2010, subsection (a)(2) of this section is amended as follows:</i>
+<i>Pub. L. 110–315, title I, §102(a)(1), (e), Aug. 14, 2008, 122 Stat. 3083, 3086, provided that, ef</i><i>fective July 1, 2010, subsection (a)(2) of this section is amended as follows:</i>
 
 <i>(1) in subparagraph (A)—</i>
 
@@ -244,11 +244,13 @@ A prior section 1002, Pub. L. 89–329, title I, §102, as added Pub. L. 102–3
 
 Another prior section 1002, Pub. L. 89–329, title I, §102, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1278, defined terms “continuing education”, “adult learner”, “eligible institution”, and “qualified entity”, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
-Another prior section 1002, Pub. L. 89–329, title I, §102, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1374, provided for establishment of Commission on National Development in Postsecondary Education, prior to the general amendment of this subchapter by Pub. L. 99–498.
+Another prior section 1002, Pub. L. 89–329, title I, §102, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94Stat. 1374, provided for establishment of Commission on National Development in Postsecondary Education, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 Another prior section 1002, Pub. L. 89–329, title I, §102, Nov. 8, 1965, 79 Stat. 1219; Pub. L. 94–482, title I, §101(b)(1), (g)(2), Oct. 12, 1976, 90 Stat. 2083, 2086, defined the terms “community service program”, “continuing education program”, and “resource materials sharing programs”, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 #### Amendments
+
+2009—Subsec. (a)(2)(D). Pub. L. 111–39 substituted “under part B of subchapter IV” for “under part B”.
 
 2008–Subsec. (a)(2)(B)(iii). Pub. L. 110–315, §102(a)(2), added cl. (iii).
 
@@ -262,9 +264,13 @@ Subsec. (a)(3)(B). Pub. L. 109–171, §8002(2), inserted “(excluding courses 
 
 2003—Subsec. (a)(2)(A). Pub. L. 108–98 amended subpar. (A) generally. Prior to amendment, subpar. (A) required the Secretary to establish criteria for approval of institutions outside the United States for purposes of par. (1)(C), including certain requirements for graduate medical or veterinary schools.
 
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–315, title I, §102(e), Aug. 14, 2008, 122 Stat. 3086, provided that: “The amendments made by subsections (a)(1), (b), and (d) \[amending this section\] shall take effect on July 1, 2010.”
+Pub. L. 110–315, title I, §102(e), Aug. 14, 2008, 122 Stat. 3086, as amended by Pub. L. 111–39, title I, §101(a)(2), July 1, 2009, 123 Stat. 1935, provided that: “The amendments made by subsections (a)(1), (b), and (d) \[amending this section\] shall take effect on July 1, 2010, except that, with respect to foreign nursing schools that were eligible to participate in part B of title IV \[20 U.S.C. 1071 et seq.\] as of the day before the date of enactment of this Act \[Aug. 14, 2008\], the amendments made by subsection (a)(1)(D) \[amending this section\] shall take effect on July 1, 2012.”
 
 #### Effective Date of 2006 Amendment
 
@@ -277,6 +283,4 @@ Pub. L. 108–98, §1(b), Oct. 10, 2003, 117 Stat. 1175, provided that: “This 
 #### Construction
 
 Pub. L. 110–315, title I, §102(d)(2), Aug. 14, 2008, 122 Stat. 3086, provided that: “Nothing in the amendment made by paragraph (1)(A)(i) to section 102(b)(1)(A) of the Higher Education Act of 1965 (20 U.S.C. 1002(b)(1)(A)) shall be construed to negate or supercede any State laws governing proprietary institutions of higher education.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be “part B of subchapter IV of this chapter”.</i>
 

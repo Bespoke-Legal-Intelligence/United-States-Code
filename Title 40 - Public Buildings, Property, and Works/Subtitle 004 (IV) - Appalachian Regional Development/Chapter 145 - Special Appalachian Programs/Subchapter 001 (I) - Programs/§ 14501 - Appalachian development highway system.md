@@ -126,5 +126,5 @@ In subsection (e), the text of 40 App.:201(g) is omitted as obsolete.
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–199, which directed substitution of “three thousand and ninety” for “three thousand and twenty-five” in third sentence, was executed by substituting “three thousand and ninety” for “3,025” in second sentence of subsec. (a) to reflect the probable intent of Congress.
+2004—Subsec. (a). Pub. L. 108–199, which directed substitution of “three thousand and ninety” for “threethousand and twenty-five” in third sentence, was executed by substituting “three thousand and ninety” for “3,025” in second sentence of subsec. (a) to reflect the probable intent of Congress.
 

@@ -38,7 +38,7 @@ Section applicable only to fiscal years beginning after Sept. 30, 2003, except a
 
 Pub. L. 108–176, title IV, §410(a), Dec. 12, 2003, 117 Stat. 2548, provided that: “The purposes of this section \[enacting this section\] are—
 
-&emsp;“(1) to enable essential air service communities to increase boardings and the level of passenger usage of airport facilities at an eligible place by providing technical, financial, and other marketing assistance to such communities and to States;
+&emsp;“(1) to enable essential air service communities to increase boardings and the level of passenger usage ofairport facilities at an eligible place by providing technical, financial, and other marketing assistance to such communities and to States;
 
 &emsp;“(2) to reduce subsidy costs under subchapter II of this chapter \[probably means chapter 417 of title 49, United States Code\] as a consequence of such increased usage; and
 

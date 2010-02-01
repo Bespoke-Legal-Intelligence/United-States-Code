@@ -22,7 +22,7 @@ Requirements.—(1) Except as provided in this subsection, all requirements of t
 
 &emsp;(E) regulations establishing criteria for accepting or rejecting an application for a license or permit under this chapter within 60 days after receipt of such application.
 
-(3) The Secretary may waive a requirement, including the requirement to obtain a license, for an individual applicant if the Secretary decides that the waiver is in the public interest and will not jeopardize the public health and safety, safety of property, and national security and foreign policy interests of the United States. The Secretary may not grant a waiver under this paragraph that would permit the launch or reentry of a launch vehicle or a reentry vehicle without a license or permit if a human being will be on board.
+(3) The Secretary may waive a requirement, including the requirement to obtain a license, for an individual applicant if the Secretary decides that the waiver is in the public interest and will not jeopardize the public health and safety, safety of property, and national security and foreign policy interests of the UnitedStates. The Secretary may not grant a waiver under this paragraph that would permit the launch or reentry of a launch vehicle or a reentry vehicle without a license or permit if a human being will be on board.
 
 (4) The holder of a license or a permit under this chapter may launch or reenter crew only if—
 

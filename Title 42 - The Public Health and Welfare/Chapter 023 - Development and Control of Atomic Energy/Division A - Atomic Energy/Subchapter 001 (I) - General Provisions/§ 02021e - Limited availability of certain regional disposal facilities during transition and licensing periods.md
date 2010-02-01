@@ -20,7 +20,7 @@
 
 #### (4) Cessation of operation of low-level radioactive waste disposal facility
 
-&emsp;No provision of this section shall be construed to obligate any State referred to in paragraphs (1) through (3) of subsection (b) of this section to accept low-level radioactivewaste from any source in the event that the regional disposal facility located in such State ceases operations.
+&emsp;No provision of this section shall be construed to obligate any State referred to in paragraphs (1) through (3) of subsection (b) of this section to accept low-level radioactive waste from any source in the event that the regional disposal facility located in such State ceases operations.
 
 #### (b) Limitations
 
@@ -78,7 +78,7 @@ The availability of disposal capacity for low-level radioactive waste from any s
 
 #### (1) Surcharges
 
-&emsp;The disposal of any low-level radioactive waste under this section (other than low-level radioactive waste generated in a sited compact region) may be charged a surcharge bythe State in which the applicable regional disposal facility is located, in addition to the fees and surcharges generally applicable for disposal of low-level radioactive waste in the regional disposal facility involved. Except as provided in subsection (e)(2) of this section, such surcharges shall not exceed—
+&emsp;The disposal of any low-level radioactive waste under this section (other than low-level radioactive waste generated in a sited compact region) may be charged a surcharge by the State in which the applicable regional disposal facility is located, in addition to the fees and surcharges generally applicable for disposal of low-level radioactive waste in the regional disposal facility involved. Except as provided in subsection (e)(2) of this section, such surcharges shall not exceed—
 
 &emsp;&emsp;(A) in 1986 and 1987, $10 per cubic foot of low-level radioactive waste;
 
@@ -90,7 +90,7 @@ The availability of disposal capacity for low-level radioactive waste from any s
 
 #### (A) Escrow account
 
-&emsp;&emsp;Twenty-five per centum of all surcharge fees received by a State pursuant to paragraph (1) during the seven-year period referred to in subsection (a) of this section shall be transferred on a monthly basis to an escrow account held by the Secretary. The Secretary shall deposit all funds received in a special escrow account. The funds so deposited shall not be the property of the United States. The Secretary shall act as trustee for such funds and shall invest them in interest-bearing United States Government Securities with the highest available yield. Such funds shall be held by the Secretary until—
+&emsp;&emsp;Twenty-five per centum of all surcharge fees received by a State pursuant to paragraph (1) during the seven-year period referred to in subsection (a) of this section shall be transferred on a monthly basis to an escrow account held by the Secretary. The Secretary shall deposit all funds received ina special escrow account. The funds so deposited shall not be the property of the United States. The Secretary shall act as trustee for such funds and shall invest them in interest-bearing United States Government Securities with the highest available yield. Such funds shall be held by the Secretary until—
 
 &emsp;&emsp;&emsp;(i) paid or repaid in accordance with subparagraph (B) or (C); or
 
@@ -120,7 +120,7 @@ January 1, 1990.—The twenty-five per centum of any amount collected by a State
 
 &emsp;&emsp;&emsp;(ii) if such State elects not to take title to, take possession of, and assume liability for such waste, pursuant to clause (i), twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning January 1, 1990 and ending December 31, 1992 shall be repaid, with interest, to each generator from whom such surcharge was collected. Repayments made pursuant to this clause shall be made on a monthly basis, with the first such repayment beginning on February 1, 1993, in an amount equal to one thirty-sixth of the total amount required to be repaid pursuant to this clause, and shall continue until the State (or, where applicable, compact region) in which such low-level radioactive waste is generated is able to provide for the disposal of all such waste generated within such State or compact region or until January 1, 1996, whichever is earlier.
 
-> &emsp;&emsp;If a State in which low-level radioactive waste is generated elects to take title to, take possession of, and assume liability for such waste pursuant to clause (i), such State shall be paid such amounts as are designated in subparagraph (B)(iv). If a State (or, where applicable, a compact region) in which low-level radioactive waste is generated provides for the disposal of such waste at any time after January 1, 1993 and prior to January 1, 1996, such State (or, where applicable, compact region) shall be paid in accordance with subparagraph (D) a lump sum amount equal to twenty-five per centum of any amount collected by a State under paragraph (1): <i>Provided, however</i>, That such payment shall be adjusted to reflect the remaining number of months between January 1, 1993 and January 1, 1996 for which such State (or, where applicable, compact region) provides for the disposal of such waste. If a State (or, where applicable, a compact region) in which low-level radioactive waste is generated is unable to provide for the disposal of all such waste generated within such State or compact region by January 1, 1996, each State in which such waste is generated, upon the request of the generator or owner of the waste, shall take title to the waste, be obligated to take possession of the waste, and shall be liable for all damages directly or indirectly incurred by such generator or owner as a consequence of the failure of the State to take possession of the waste as soon after January 1, 1996, as the generator or owner notifies the State that the waste is available for shipment.
+> &emsp;&emsp;If a State in which low-level radioactive waste is generated elects to take title to, take possession of, and assume liability for such waste pursuant to clause (i), such State shall be paid such amounts as are designated in subparagraph (B)(iv). If a State (or, where applicable, a compact region) in which low-level radioactive waste is generated provides for the disposal of such waste at any time after January 1, 1993 and prior to January 1, 1996, such State (or, where applicable, compact region) shall be paid in accordance with subparagraph (D) a lump sum amount equal to twenty-five per centum of any amount collected by a State under paragraph (1): <i>Provided, however</i>, That such payment shall be adjusted to reflect the remaining number of months between January 1, 1993 and January 1, 1996 for which such State (or, where applicable, compact region) provides for the disposal of such waste. If a State (or, where applicable, a compact region) in which low-level radioactive waste is generated is unable to provide for the disposal of all such waste generated within such State or compact region by January 1, 1996, each State in which such waste is generated, upon the request of the generator or owner of the waste, shall take title to the waste, be obligated to take possession of the waste, and shall be liable for all damages directly or indirectly incurred by such generator or owner as aconsequence of the failure of the State to take possession of the waste as soon after January 1, 1996, as the generator or owner notifies the State that the waste is available for shipment.
 
 #### (D) Recipients of payments
 
@@ -176,13 +176,13 @@ January 1, 1990.—The twenty-five per centum of any amount collected by a State
 
 &emsp;&emsp;&emsp;(ii) each non-member State shall develop a siting plan providing detailed procedures and a schedule for establishing a facility location and preparing a facility license application for a low-level radioactive waste disposal facility and shall delegate authority to implement such plan; and
 
-&emsp;&emsp;&emsp;(iii) The siting plan required pursuant to this paragraph shall include a description of the optimum way to attain operation of the low-level radioactive waste disposal facility involved, within the time period specified in sections 2021b to 2021j of this title. Such plan shall include a description of the objectives and a sequence of deadlines for all entities required to take action to implement such plan, including, tothe extent practicable, an identification of the activities in which a delay in the start, or completion, of such activities will cause a delay in beginning facility operation. Such plan shall also identify, to the extent practicable, the process for (1) screening for broad siting areas; (2) identifying and evaluating specific candidate sites; and (3) characterizing the preferred site(s), completing all necessary environmental assessments, and preparing a license application for submission to the Nuclear Regulatory Commission or an Agreement State.
+&emsp;&emsp;&emsp;(iii) The siting plan required pursuant to this paragraph shall include a description of the optimum way to attain operation of the low-level radioactive waste disposal facility involved, within the time period specified in sections 2021b to 2021j of this title. Such plan shall include a description of the objectives and a sequence of deadlines for all entities required to take action to implement such plan, including, to the extent practicable, an identification of the activities in which a delay in the start, or completion, of such activities will cause a delay in beginning facility operation. Such plan shall also identify, to the extent practicable, the process for (1) screening for broad siting areas; (2) identifying and evaluating specific candidate sites; and (3) characterizing the preferred site(s), completing all necessary environmental assessments, and preparing a license application for submission to the Nuclear Regulatory Commission or an Agreement State.
 
 &emsp;&emsp;(C) By January 1, 1990
 
 &emsp;&emsp;&emsp;(i) a complete application (as determined by the Nuclear Regulatory Commission or the appropriate agency of an agreement State) shall be filed for a license to operate a low-level radioactive waste disposal facility within each non-sited compact region or within each non-member State; or
 
-&emsp;&emsp;&emsp;(ii) the Governor (or, for any State without a Governor, the chief executive officer) of any State that is not a member of a compact region in compliance with clause (i), or has not complied with such clause by its own actions, shall provide a written certification to the Nuclear Regulatory Commission, that such State will be capable of providing for, and will provide for, the storage, disposal, or management of any low-level radioactive waste generated within such State and requiring disposal after December 31, 1992, and include a description of the actions that will be taken to ensure that such capacity exists.
+&emsp;&emsp;&emsp;(ii) the Governor (or, for any State without a Governor, the chief executive officer)of any State that is not a member of a compact region in compliance with clause (i), or has not complied with such clause by its own actions, shall provide a written certification to the Nuclear Regulatory Commission, that such State will be capable of providing for, and will provide for, the storage, disposal, or management of any low-level radioactive waste generated within such State and requiring disposal after December 31, 1992, and include a description of the actions that will be taken to ensure that such capacity exists.
 
 &emsp;&emsp;(D) By January 1, 1992, a complete application (as determined by the Nuclear Regulatory Commission or the appropriate agency of an agreement State) shall be filed for a license to operate a low-level radioactive waste disposal facility within each non-sited compact region or within each non-member State.
 
@@ -226,7 +226,7 @@ January 1, 1990.—The twenty-five per centum of any amount collected by a State
 
 #### (4) Restoration of suspended access; penalties for failure to comply
 
-&emsp;Any access to a regional disposal facility that is suspended under paragraph (2) shall be restored after the non-sited compact region or non-member State involved complies with such requirement. Any payment of surcharge penalties pursuant to paragraph (2) for failureto comply with the requirements of this subsection shall be terminated after the non-sited compact region or non-member State involved complies with such requirements.
+&emsp;Any access to a regional disposal facility that is suspended under paragraph (2) shall be restored after the non-sited compact region or non-member State involved complies with such requirement. Any payment of surcharge penalties pursuant to paragraph (2) for failure to comply with the requirements of this subsection shall be terminated after the non-sited compact region or non-member State involved complies with such requirements.
 
 #### (f) Monitoring of compliance and denial of access to non-Federal facilities for noncompliance; information requirements of certain States; proprietary information
 
@@ -240,7 +240,7 @@ January 1, 1990.—The twenty-five per centum of any amount collected by a State
 
 &emsp;&emsp;&emsp;(i) is in excess of the limitations or allocations established in this section; or
 
-&emsp;&emsp;&emsp;(ii) is not required to be accepted due to the failure of a compact region or State to comply with the requirements of subsection (e)(1) of this section.
+&emsp;&emsp;&emsp;(ii) is not required to be accepted due to the failure of a compact region or State tocomply with the requirements of subsection (e)(1) of this section.
 
 #### (2) Availability of information during interim access period
 

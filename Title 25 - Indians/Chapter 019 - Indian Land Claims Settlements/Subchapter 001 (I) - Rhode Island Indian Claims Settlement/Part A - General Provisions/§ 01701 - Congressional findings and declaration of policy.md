@@ -36,7 +36,7 @@ For short title of Pub. L. 103–444, which enacted subchapter X of this chapter
 
 For short title of Pub. L. 106–425, which enacted subchapter XI of this chapter, as the “Santo Domingo Pueblo Claims Settlement Act of 2000”, see section 1 of Pub. L. 106–425, set out as a note under section 1777 of this title.
 
-For short title of title VI of Pub. L. 106–568, which enacted subchapter XII of this chapter, as the “Torres-Martinez Desert Cahuilla Indians Claims SettlementAct”, see section 601 of Pub. L. 106–568, set out as a note under section 1778 of this title.
+For short title of title VI of Pub. L. 106–568, which enacted subchapter XII of this chapter, as the “Torres-Martinez Desert Cahuilla Indians Claims Settlement Act”, see section 601 of Pub. L. 106–568, set out as a note under section 1778 of this title.
 
 For short title of title VI of Pub. L. 107–331, which enacted subchapter XIII of this chapter, as the “Cherokee, Choctaw, and Chickasaw Nations Claims Settlement Act”, see section 601 of Pub. L. 107–331, set out as a note under section 1779 of this title.
 

@@ -24,7 +24,7 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (2) Identifying critical coastal areas
 
-&emsp;The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph\(1)(A) and (B), within which any new land uses or substantial expansion of existing land uses shall be subject to management measures in addition to those provided for in subsection (g) of this section.
+&emsp;The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph (1)(A) and (B), within which any new land uses or substantial expansion of existing land uses shall be subject to management measures in addition to those provided for in subsection (g) of this section.
 
 #### (3) Management measures
 
@@ -40,7 +40,7 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (6) Administrative coordination
 
-&emsp;The establishment of mechanisms to improve coordination among State agencies and between State and local officials responsible for land use programs and permitting, water quality permitting and enforcement, habitat protection, and public health and safety, through the use of joint project review, memoranda of agreement, or other mechanisms.
+&emsp;The establishment of mechanisms to improve coordination among State agencies and between State and local officials responsiblefor land use programs and permitting, water quality permitting and enforcement, habitat protection, and public health and safety, through the use of joint project review, memoranda of agreement, or other mechanisms.
 
 #### (7) State coastal zone boundary modification
 
@@ -174,7 +174,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (1) Administrator
 
-&emsp;There is authorized to be appropriated to the Administrator for use for carrying out thissection not more than $1,000,000 for each of fiscal years 1992, 1993, and 1994.
+&emsp;There is authorized to be appropriated to the Administrator for use for carrying out this section not more than $1,000,000 for each of fiscal years 1992, 1993, and 1994.
 
 #### (2) Secretary
 

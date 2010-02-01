@@ -2,7 +2,7 @@
 
 (a)
 
-Review Required.—The Secretary of Defense shall every four years, during a year following a year evenly divisible by four, conduct a comprehensive examination (to be known as a “quadrennial defense review”) of the national defense strategy, force structure, force modernization plans, infrastructure, budget plan, and other elements of the defense program and policies of the United States with a view toward determining and expressing the defense strategy of the United States and establishing a defense program for the next 20 years. Each such quadrennial defense review shall be conducted in consultation with the Chairman of the Joint Chiefs of Staff.
+Review Required.—The Secretary of Defense shall every four years, during a year following a year evenly divisible by four, conduct a comprehensive examination (to be known as a “quadrennial defense review”) of the national defense strategy, force structure, force modernization plans, infrastructure, budget plan, and other elements of the defense program and policies of the United States with a view towarddetermining and expressing the defense strategy of the United States and establishing a defense program for the next 20 years. Each such quadrennial defense review shall be conducted in consultation with the Chairman of the Joint Chiefs of Staff.
 
 (b)
 
@@ -70,7 +70,7 @@ Submission of QDR to Congressional Committees.—The Secretary shall submit a re
 
 (e)
 
-CJCS Review.—(1) Upon the completion of each review under subsection (a), the Chairman of the Joint Chiefs of Staff shall prepare and submit to the Secretary of Defense the Chairman's assessment of the review, including the Chairman's assessment of risk and a description of the capabilities needed to address such risk.
+CJCS Review.—(1) Upon the completion of each review under subsection (a), the Chairmanof the Joint Chiefs of Staff shall prepare and submit to the Secretary of Defense the Chairman's assessment of the review, including the Chairman's assessment of risk and a description of the capabilities needed to address such risk.
 
 (2) The Chairman's assessment shall be submitted to the Secretary in time for the inclusion of the assessment in the report. The Secretary shall include the Chairman's assessment, together with the Secretary's comments, in the report in its entirety.
 
@@ -82,7 +82,7 @@ Independent Panel Assessment.—(1) Not later than six months before the date on
 
 (g)
 
-Consideration of Effect of Climate Change on Department Facilities, Capabilities, and Missions.—(1) The first national security strategy and national defense strategy prepared after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 shall include guidance for military planners—
+Consideration of Effect of Climate Change on Department Facilities, Capabilities, and Missions.—(1) The first national security strategy and national defense strategy prepared after January 28, 2008, shall include guidance for military planners—
 
 &emsp;(A) to assess the risks of projected climate change to current and future missions of the armed forces;
 
@@ -90,7 +90,7 @@ Consideration of Effect of Climate Change on Department Facilities, Capabilities
 
 &emsp;(C) to develop the capabilities needed to reduce future impacts.
 
-(2) The first quadrennial defense review prepared after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 shall also examine the capabilities of the armed forces to respond to the consequences of climate change, in particular, preparedness for natural disasters from extreme weather events and other missions the armed forces may be asked to support inside the United States and overseas.
+(2) The first quadrennial defense review prepared after January 28, 2008, shall also examine the capabilities of the armed forces to respond to the consequences of climate change, in particular, preparedness for natural disasters from extreme weather events and other missions the armed forces may be asked to support inside the United States and overseas.
 
 (3) For planning purposes to comply with the requirements of this subsection, the Secretary of Defense shall use—
 
@@ -102,11 +102,21 @@ Consideration of Effect of Climate Change on Department Facilities, Capabilities
 
 (4) In this subsection, the term “national security strategy” means the annual national security strategy report of the President under section 108 of the National Security Act of 1947 (50 U.S.C. 404a).
 
-(Added Pub. L. 106–65, div. A, title IX, §901(a)(1), Oct. 5, 1999, 113 Stat. 715; amended Pub. L. 107–107, div. A, title IX, §921(a), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title IX, §§922, 923, Dec. 2, 2002, 116 Stat. 2623; Pub. L. 109–364, div. A, title X, §1031(c)–(f), Oct. 17, 2006, 120 Stat. 2385, 2386; Pub. L. 110–181, div. A, title IX, §§941(b), 951(a), Jan. 28, 2008, 122 Stat. 287, 290.)
+(h)
 
-#### References in Text
+Relationship to Budget.—Nothing in this section shall be construed to affect section 1105(a) of title 31.
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (g)(1), (2), is the date of enactment of Pub. L. 110–181, which was approved Jan. 28, 2008.
+(i)
+
+Interagency Overseas Basing Report.—(1) Not later than 90 days after submitting a report on a quadrennial defense review under subsection (d), the Secretary of Defense shall submit to the congressional defense committees a report detailing how the results of the assessment conducted as part of such review will impact—
+
+&emsp;(A) the status of overseas base closure and realignment actions undertaken as part of a global defense posture realignment strategy; and
+
+&emsp;(B) the status of development and execution of comprehensive master plans for overseas military main operating bases, forward operating sites, and cooperative security locations of the global defense posture of the United States.
+
+(2) A report under paragraph (1) shall include any recommendations for additional closures or realignments of military installations outside of the United States and any comments resulting from an interagency review of these plans that includes the Department of State and other relevant Federal departments and agencies.
+
+(Added Pub. L. 106–65, div. A, title IX, §901(a)(1), Oct. 5, 1999, 113 Stat. 715; amended Pub. L. 107–107, div. A, title IX, §921(a), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title IX, §§922, 923, Dec. 2, 2002, 116 Stat. 2623; Pub. L. 109–364, div. A, title X, §1031(c)–(f), Oct. 17, 2006, 120 Stat. 2385, 2386; Pub. L. 110–181, div. A, title IX, §§941(b), 951(a), Jan. 28, 2008, 122 Stat. 287, 290; Pub. L. 111–84, div. A, title X, §§1002, 1073(a)(2), div. B, title XXVIII, §2822(b), Oct. 28, 2009, 123 Stat. 2439, 2472, 2666.)
 
 #### Prior Provisions
 
@@ -114,7 +124,13 @@ A prior section 118, added Pub. L. 97–295, §1(2)(A), Oct. 12, 1982, 96 Stat. 
 
 #### Amendments
 
-2008—Subsec. (e)(2), (3). Pub. L. 110–181, §941(b), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The Chairman shall include as part of that assessment the Chairman's assessment of the assignment of functions (or roles and missions) to the armed forces, together with any recommendations for changes in assignment that the Chairman considers necessary to achieve maximum efficiency of the armed forces. In preparing the assessment under this paragraph, the Chairman shall consider (among other matters) the following:
+2009—Subsec. (g)(1), (2). Pub. L. 111–84, §1073(a)(2), substituted “January 28, 2008,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008”.
+
+Subsec. (h). Pub. L. 111–84, §1002, added subsec. (h).
+
+Subsec. (i). Pub. L. 111–84, §2822(b), added subsec. (i).
+
+2008—Subsec. (e)(2), (3). Pub. L. 110–181, §941(b), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The Chairman shall include as part of that assessment the Chairman's assessment of the assignment of functions (or roles and missions) to the armed forces, together with any recommendations for changes in assignment that the Chairman considers necessary to achieve maximum efficiency of the armedforces. In preparing the assessment under this paragraph, the Chairman shall consider (among other matters) the following:
 
 &emsp;“(A) Unnecessary duplication of effort among the armed forces.
 

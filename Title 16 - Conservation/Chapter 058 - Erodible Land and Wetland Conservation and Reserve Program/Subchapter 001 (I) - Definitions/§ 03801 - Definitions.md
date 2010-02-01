@@ -72,7 +72,7 @@ Field.—The term “field” means a part of a farm that is separated from the 
 
 &emsp;(11)(A) The term “highly erodible land” means land—
 
-&emsp;&emsp;(i) that is classified by the Soil Conservation Service as class IV, VI, VII, or VIII land under the land capability classification system in effect on December 23, 1985; or
+&emsp;&emsp;(i) that is classified by the Soil Conservation Service as class IV, VI, VII, or VIII landunder the land capability classification system in effect on December 23, 1985; or
 
 &emsp;&emsp;(ii) that has, or that if used to produce an agricultural commodity, would have an excessive average annual rate of erosion in relation to the soil loss tolerance level, as established by the Secretary, and as determined by the Secretary through application of factors from the universal soil loss equation and the wind erosion equation, including factors for climate, soil erodibility, and field slope.
 
@@ -158,7 +158,7 @@ Technical assistance.—The term “technical assistance” means technical expe
 
 &emsp;(2) lists of such soils and such vegetation.
 
-(Pub. L. 99–198, title XII, §1201, Dec. 23, 1985, 99 Stat. 1504; Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 714; Pub. L. 101–624, title XIV, §1421(a), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 104–127, title III, §301(a)–(c), Apr. 4, 1996, 110 Stat. 980, 981; Pub. L. 110–234, title II, §2001, May 22, 2008, 122 Stat. 1025; Pub. L. 110–246, §4(a), title II, §2001, June 18, 2008, 122 Stat. 1664, 1753.)
+(Pub. L. 99–198, title XII, §1201, Dec. 23, 1985, 99 Stat. 1504; Pub. L. 99–349, title I, July 2, 1986, 100Stat. 714; Pub. L. 101–624, title XIV, §1421(a), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 104–127, title III, §301(a)–(c), Apr. 4, 1996, 110 Stat. 980, 981; Pub. L. 110–234, title II, §2001, May 22, 2008, 122 Stat. 1025; Pub. L. 110–246, §4(a), title II, §2001, June 18, 2008, 122 Stat. 1664, 1753.)
 
 #### References in Text
 
@@ -196,7 +196,7 @@ Subsec. (a)(10) to (18). Pub. L. 104–127, §301(a)(1), redesignated pars. (8) 
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Short Title of 2006 Amendment
 
@@ -246,7 +246,7 @@ Applicable Authority.—The promulgation of regulations under subsection (a) and
 
 Congressional Review of Agency Rulemaking.—In carrying out this section, the Secretary shall use the authority provided under section 808(2) of title 5, United States Code.”
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 Pub. L. 107–171, title II, §2702, May 13, 2002, 116 Stat. 279, provided that:
 

@@ -18,7 +18,7 @@ If property is received in a distribution in complete liquidation, and if gain o
 
 &emsp;For purposes of this subsection, the term “corporate distributee” means only the corporation which meets the stock ownership requirements specified in section 332(b).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 104; Pub. L. 89–809, title II, §202(a), (b), Nov. 13, 1966, 80 Stat. 1576; Pub. L. 94–455, title XIX, §§1901(a)(45), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1772, 1834; Pub. L. 97–248, title II, §§222(e)(1)(C), 224(b), Sept. 3, 1982, 96 Stat. 480, 488; Pub. L. 99–514, title VI, §631(e)(4), Oct. 22, 1986, 100 Stat. 2273; Pub. L. 100–647, title I, §1006(e)(6), Nov. 10, 1988, 102 Stat. 3401; Pub. L. 105–277, div. J, title III, §3001(b)(2), Oct. 21, 1998, 112 Stat. 2681–904; Pub. L. 108–357, title VIII, §836(b), Oct. 22, 2004, 118 Stat. 1595; Pub. L. 109–135, title IV, §403(dd)(1), Dec. 21, 2005, 119 Stat. 2630.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 104; Pub. L. 89–809, title II, §202(a), (b), Nov. 13, 1966, 80 Stat. 1576; Pub. L. 94–455, title XIX, §§1901(a)(45), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1772, 1834; Pub. L. 97–248, title II, §§222(e)(1)(C), 224(b), Sept. 3,1982, 96 Stat. 480, 488; Pub. L. 99–514, title VI, §631(e)(4), Oct. 22, 1986, 100 Stat. 2273; Pub. L. 100–647, title I, §1006(e)(6), Nov. 10, 1988, 102 Stat. 3401; Pub. L. 105–277, div. J, title III, §3001(b)(2), Oct. 21, 1998, 112 Stat. 2681–904; Pub. L. 108–357, title VIII, §836(b), Oct. 22, 2004, 118 Stat. 1595; Pub. L. 109–135, title IV, §403(dd)(1), Dec. 21, 2005, 119 Stat. 2630.)
 
 #### Amendments
 

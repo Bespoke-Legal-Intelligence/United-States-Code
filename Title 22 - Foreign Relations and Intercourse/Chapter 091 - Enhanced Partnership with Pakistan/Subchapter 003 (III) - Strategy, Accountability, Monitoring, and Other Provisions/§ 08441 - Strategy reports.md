@@ -1,0 +1,88 @@
+### §8441. Strategy reports
+
+#### (a) Pakistan assistance strategy report
+
+Not later than 45 days after October 15, 2009, the Secretary of State shall submit to the appropriate congressional committees a report describing United States policy and strategy with respect to assistance to Pakistan under this chapter. The report shall include the following:
+
+&emsp;(1) A description of the principal objectives of United States assistance to Pakistan to be provided under subchapter I of this chapter.
+
+&emsp;(2) A general description of the specific programs, projects, and activities designed to achieve the purposes of section 8411 of this title and the respective funding levels for such programs, projects, and activities for fiscal years 2010 through 2014.
+
+&emsp;(3) A plan for program monitoring, operations research, and impact evaluation research for assistance authorized under subchapter I of this chapter.
+
+&emsp;(4) A description of the role to be played by Pakistani national, regional, and local officials and members of Pakistani civil society and local private sector, civic, religious, and tribal leaders in helping to identify and implement programs and projects for which assistance is to be provided under this chapter, and of consultations with such representatives in developing the strategy.
+
+&emsp;(5) A description of the steps taken, or to be taken, to ensure assistance provided under this chapter is not awarded to individuals or entities affiliated with terrorist organizations.
+
+&emsp;(6) A projection of the levels of assistance to be provided to Pakistan under this chapter, broken down into the following categories as described in the annual “Report on the Criteria and Methodology for Determining the Eligibility of Candidate Countries for Millennium Challenge Account Assistance”:
+
+&emsp;&emsp;(A) Civil liberties.
+
+&emsp;&emsp;(B) Political rights.
+
+&emsp;&emsp;(C) Voice and accountability.
+
+&emsp;&emsp;(D) Government effectiveness.
+
+&emsp;&emsp;(E) Rule of law.
+
+&emsp;&emsp;(F) Control of corruption.
+
+&emsp;&emsp;(G) Immunization rates.
+
+&emsp;&emsp;(H) Public expenditure on health.
+
+&emsp;&emsp;(I) Girls’ primary education completion rate.
+
+&emsp;&emsp;(J) Public expenditure on primary education.
+
+&emsp;&emsp;(K) Natural resource management.
+
+&emsp;&emsp;(L) Business start-up.
+
+&emsp;&emsp;(M) Land rights and access.
+
+&emsp;&emsp;(N) Trade policy.
+
+&emsp;&emsp;(O) Regulatory quality.
+
+&emsp;&emsp;(P) Inflation control.
+
+&emsp;&emsp;(Q) Fiscal policy.
+
+&emsp;(7) An analysis for the suitable replacement for existing Pakistani helicopters, including recommendations for sustainment and training.
+
+#### (b) Comprehensive regional strategy report
+
+#### (1) Sense of Congress
+
+&emsp;It is the sense of Congress that the achievement of United States national security goals to eliminate terrorist threats and close safe havens in Pakistan requires the development of a comprehensive plan that utilizes all elements of national power, including in coordination and cooperation with other concerned governments, and that it is critical to Pakistan's long-term prosperity and security to strengthen regional relationships among India, Pakistan, and Afghanistan.
+
+#### (2) Comprehensive regional security strategy
+
+&emsp;The President shall develop a comprehensive interagency regional security strategy to eliminate terrorist threats and close safe havens in Pakistan, including by working with the Government of Pakistan and other relevant governments and organizations in the region and elsewhere, as appropriate, to best implement effective counterinsurgency and counterterrorism efforts in and near the border areas of Pakistan and Afghanistan, including the FATA, the NWFP, parts of Balochistan, and parts of Punjab.
+
+#### (3) Report
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 180 days after October 15, 2009, the President shall submit to the appropriate congressional committees a report on the comprehensive regional security strategy required under paragraph (2).
+
+#### (B) Contents
+
+&emsp;&emsp;The report shall include a copy of the comprehensive regional security strategy, including specifications of goals, and proposed timelines and budgets for implementation of the strategy.
+
+#### (C) Appropriate congressional committees defined
+
+&emsp;&emsp;In this paragraph, the term “appropriate congressional committees” means—
+
+&emsp;&emsp;&emsp;(i) the Committee on Appropriations, the Committee on Armed Services, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives; and
+
+&emsp;&emsp;&emsp;(ii) the Committee on Appropriations, the Committee on Armed Services, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate.
+
+#### (c) Security-related assistance plan
+
+Not later than 180 days after October 15, 2009, the Secretary of State shall submit to the appropriate congressional committees a plan for the proposed use of amounts authorized for security-related assistance for each of the fiscal years 2010 through 2014. Such plan shall include an assessment of how the use of such amounts complements or otherwise is related to amounts described in section 8424 of this title.
+
+(Pub. L. 111–73, title III, §301, Oct. 15, 2009, 123 Stat. 2075.)
+

@@ -58,7 +58,7 @@ The Commission shall enter into an agreement under subsection (b) of this sectio
 
 #### (f) Exemptions
 
-The Commission is authorized and directed, by regulation or order, to grant such exemptions from the licensing requirements contained in subchapters V, VI, and VII of this division, and from its regulations applicable to licensees as the Commission finds necessary or appropriateto carry out any agreement entered into pursuant to subsection (b) of this section.
+The Commission is authorized and directed, by regulation or order, to grant such exemptions from the licensing requirements contained in subchapters V, VI, and VII of this division, and from its regulations applicable to licensees as the Commission finds necessary or appropriate to carry out any agreement entered into pursuant to subsection (b) of this section.
 
 #### (g) Compatible radiation standards
 
@@ -98,7 +98,7 @@ No agreement entered into under subsection (b) of this section, and no exemption
 
 #### (n) “State” and “agreement” defined
 
-As used in this section, the term “State” means any State, Territory, or possession of theUnited States, the Canal Zone, Puerto Rico, and the District of Columbia. As used in this section, the term “agreement” includes any amendment to any agreement.
+As used in this section, the term “State” means any State, Territory, or possession of the United States, the Canal Zone, Puerto Rico, and the District of Columbia. As used in this section, the term “agreement” includes any amendment to any agreement.
 
 #### (<i>o</i>) State compliance requirements: compliance with section 2113(b) of this title and health and environmental protection standards; procedures for licenses, rulemaking, and license impact analysis; amendment of agreements for transfer of State collected funds; proceedings duplication restriction; alternative requirements
 
@@ -106,7 +106,7 @@ In the licensing and regulation of byproduct material, as defined in section 201
 
 &emsp;(1) compliance with the requirements of subsection (b) of section 2113 of this title (respecting ownership of byproduct material and land), and
 
-&emsp;(2) compliance with standards which shall be adopted by the State for the protection of the public health, safety, and the environment from hazards associated with such material which are equivalent, to the extent practicable, or more stringent than, standards adopted and enforced by the Commission for the same purpose, including requirements and standards promulgated by the Commission and the Administrator of the Environmental Protection Agency pursuant to sections 2113, 2114, and 2022 of this title, and
+&emsp;(2) compliance with standards which shall be adopted by the State for the protection of the public health, safety, and the environmentfrom hazards associated with such material which are equivalent, to the extent practicable, or more stringent than, standards adopted and enforced by the Commission for the same purpose, including requirements and standards promulgated by the Commission and the Administrator of the Environmental Protection Agency pursuant to sections 2113, 2114, and 2022 of this title, and
 
 &emsp;(3) procedures which—
 

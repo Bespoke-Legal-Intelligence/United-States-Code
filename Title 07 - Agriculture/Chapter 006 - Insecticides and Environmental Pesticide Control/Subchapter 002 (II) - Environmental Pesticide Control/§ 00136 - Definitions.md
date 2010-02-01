@@ -54,7 +54,7 @@ The term “animal” means all vertebrate and invertebrate species, including b
 
 #### (f) Defoliant
 
-The term “defoliant” means any substance of mixture of substances intended for causing the leaves or foliage to drop from a plant, with or without causing abscission.
+The term “defoliant” means any substance or mixture of substances intended for causing the leaves or foliage to drop from a plant, with or without causing abscission.
 
 #### (g) Desiccant
 
@@ -94,7 +94,7 @@ The term “ingredient statement” means a statement which contains—
 
 #### (<i>o</i>) Insect
 
-The term “insect” means any of the numerous small invertebrate animals generally having the body more or less obviously segmented, for the most part belonging to the class insecta, comprising six-legged, usually winged forms, as for example, beetles, bugs, bees, flies, and to other allied classes of anthropods whose members are wingless and usually have more than six legs, as for example, spiders, mites, ticks, centipedes, and wood lice.
+The term “insect” means any of the numerous small invertebrate animals generally having the body more or less obviously segmented, for the most part belonging to the class insecta, comprising six-legged, usually winged forms, as for example, beetles, bugs, bees, flies, and to other allied classes of arthropods whose members are wingless and usually have more than six legs, as for example, spiders, mites, ticks, centipedes, and wood lice.
 
 #### (p) Label and labeling
 
@@ -132,9 +132,9 @@ The term “insect” means any of the numerous small invertebrate animals gener
 
 &emsp;(2) A pesticide is misbranded if—
 
-&emsp;&emsp;(A) the label does not bear an ingredient statement on that part of the immediate container (and on the outside container or wrapper of the retail package, if there be one, through which the ingredient statement on the immediate container cannot be clearly read) which is presented or displayed under customary conditions or purchase, except that a pesticide is not misbranded under this subparagraph if—
+&emsp;&emsp;(A) the label does not bear an ingredient statement on that part of the immediate container (and on the outside container or wrapper of the retail package, if there be one, through which the ingredient statement on the immediate container cannot be clearly read) which is presented or displayed under customary conditions of purchase, except that a pesticide is not misbranded under this subparagraph if—
 
-&emsp;&emsp;&emsp;(i) The size or form of the immediate container, or the outside container or wrapper of the retail package, makes it impracticable to place the ingredient statement on the part which is presented or displayed under customary conditions of purchase; and
+&emsp;&emsp;&emsp;(i) the size or form of the immediate container, or the outside container or wrapper of the retail package, makes it impracticable to place the ingredient statement on the part which is presented or displayed under customary conditions of purchase; and
 
 &emsp;&emsp;&emsp;(ii) the ingredient statement appears prominently on another part of the immediate container, or outside container or wrapper, permitted by the Administrator;
 

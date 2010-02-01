@@ -56,7 +56,7 @@ Sec. 2. The Secretary of Defense shall provide disaster assistance only: (a) at 
 
 (b) with the concurrence of the Secretary of State; or
 
-(c) in emergency situations in order to save human lives, where there is not sufficient time to seek the prior initial concurrence of the Secretary of State, in which case the Secretary of Defense shall advise, and seek the concurrence of, the Secretary of State as soon as practicable thereafter.
+(c) in emergency situations in order to save human lives, where there is not sufficient time to seek theprior initial concurrence of the Secretary of State, in which case the Secretary of Defense shall advise, and seek the concurrence of, the Secretary of State as soon as practicable thereafter.
 
 For the purpose of section 2(b) of this order, only the Secretary of State, or the Deputy Secretary of State, or persons acting in those capacities, shall have the authority to withhold concurrence. Concurrence of the Secretary of State is not required for the execution of military operations undertaken pursuant to, and consistent with, assistance provided in accordance with parts (b) and (c) of this section, or with respect to matters relating to the internal financial processes of the Department of Defense.
 

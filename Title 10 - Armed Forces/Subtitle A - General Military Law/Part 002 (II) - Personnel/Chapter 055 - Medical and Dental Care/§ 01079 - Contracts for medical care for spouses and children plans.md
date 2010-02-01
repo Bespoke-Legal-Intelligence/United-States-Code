@@ -116,7 +116,7 @@
 
 &emsp;(A) the Government's share of the total cost of providing such benefits in any year shall not exceed $36,000, prorated as determined by the Secretary of Defense, except for costs that a member is exempt from paying under paragraph (3); and
 
-&emsp;(B) the member shall pay (in addition to any amount payable under paragraph (1)) the amount, if any, by which the amount of such total cost for the year.<sup>1</sup> exceeds the Government's maximum share under subparagraph (A).
+&emsp;(B) the member shall pay (in addition to any amount payable under paragraph (1)) the amount, if any, by which the amount of such total cost for the year exceeds the Government's maximum share under subparagraph (A).
 
 (3) A member of the uniformed services who incurs expenses under paragraph (2) for a month for more than one dependent shall not be required to pay for the month under subparagraph (B) of that paragraph an amount greater than the amount the member would otherwise be required to pay under that subparagraph for the month if the member were incurring expenses under that subparagraph for only one dependent.
 
@@ -138,7 +138,7 @@
 
 &emsp;&emsp;(ii) The date on which such dependent attains 23 years of age.
 
-(3) For the purposes of paragraph (2)(C), a dependent shall be treated as being enrolled in a full-time course of study in an institution of higher education during any reasonable period of transition between the dependent's completion of a full-time course of study in a secondary school and the commencement of an enrollment in a full-time course of study in an institution of higher education, as determined by the administering Secretary.
+(3) For the purposes of paragraph (2)(C), a dependent shall be treated as being enrolled in a full-time course of study in an institution of higher education during any reasonable periodof transition between the dependent's completion of a full-time course of study in a secondary school and the commencement of an enrollment in a full-time course of study in an institution of higher education, as determined by the administering Secretary.
 
 (4) The terms and conditions under which health benefits are provided under this chapter to a dependent of a deceased member under paragraph (2) shall be the same as those that would apply to the dependent under this chapter if the member were living and serving on active duty for a period of more than 30 days.
 
@@ -172,7 +172,7 @@
 
 &emsp;(C) provided pursuant to a waiver authorized by the Secretary of Defense because of medical or psychological circumstances of the patient that are confirmed by a health professional who is not a Federal employee after a review, pursuant to rules prescribed by the Secretary, which takes into account the appropriate level of care for the patient, the intensity of services required by the patient, and the availability of that care.
 
-(2) Notwithstanding subsection (b) or section 1086(b) of this title, the Secretary of Defense (after consulting with the other administering Secretaries) may prescribe separate payment requirements (including deductibles, copayments, and catastrophic limits) for the provision of mental health services to persons covered by this section or section 1086 of this title. The payment requirements may vary for different categories of covered beneficiaries, by type of mental health service provided, and based on the location of the covered beneficiaries.
+(2) Notwithstanding subsection (b) or section 1086(b) of this title, the Secretary of Defense (after consulting with the other administeringSecretaries) may prescribe separate payment requirements (including deductibles, copayments, and catastrophic limits) for the provision of mental health services to persons covered by this section or section 1086 of this title. The payment requirements may vary for different categories of covered beneficiaries, by type of mental health service provided, and based on the location of the covered beneficiaries.
 
 (3)(A) Except as provided in subparagraph (B), the Secretary of Defense shall require preadmission authorization before inpatient mental health services may be provided to persons covered by this section or section 1086 of this title. In the case of the provision of emergency inpatient mental health services, approval for the continuation of such services shall be required within 72 hours after admission.
 
@@ -190,7 +190,7 @@
 
 (3) A contract for a plan covered by this section shall include a clause that prohibits each provider of services under the plan from billing any person covered by the plan for any balance of charges for services in excess of the amount paid for those services under the joint regulations referred to in paragraph (2), except for any unpaid amounts of deductibles or copayments that are payable directly to the provider by the person.
 
-(4) In this subsection, the term “provider of services” means a hospital, skilled nursing facility, comprehensive outpatient rehabilitation facility, home health agency, hospice program (as defined in section 1861(dd)(2) of the Social Security Act (42 U.S.C. 1395x(dd)(2))), or other institutional facility providing services for whichpayment may be made under a plan covered by this section.
+(4) In this subsection, the term “provider of services” means a hospital, skilled nursing facility, comprehensive outpatient rehabilitation facility, home health agency, hospice program (as defined in section 1861(dd)(2) of the Social Security Act (42 U.S.C. 1395x(dd)(2))), or other institutional facility providing services for which payment may be made under a plan covered by this section.
 
 (k) A plan covered by this section may include provision of liver transplants (including the cost of acquisition and transportation of the donated liver) in accordance with this subsection. Such a liver transplant may be provided if—
 
@@ -214,7 +214,7 @@
 
 (n) The Secretary of Defense may enter into contracts (or amend existing contracts) with fiscal intermediaries under which the intermediaries agree to organize and operate, directly or through subcontractors, managed health care networks for the provision of health care under this chapter. The managed health care networks shall include cost containment methods, such as utilization review and contracting for care on a discounted basis.
 
-(<i>o</i>)(1) Health care services provided pursuant to this section or section 1086 of this title (or pursuant to any other contract or project under the Civilian Health and Medical Program of the Uniformed Services) may not include services determined under the CHAMPUS Peer Review Organization program to be not medically or psychologically necessary.
+(<i>o</i>)(1) Health care services provided pursuant to this section or section 1086 of this title (or pursuant to any other contract or project underthe Civilian Health and Medical Program of the Uniformed Services) may not include services determined under the CHAMPUS Peer Review Organization program to be not medically or psychologically necessary.
 
 (2) The Secretary of Defense, after consulting with the other administering Secretaries, may adopt or adapt for use under the CHAMPUS Peer Review Organization program, as the Secretary considers appropriate, any of the quality and utilization review requirements and procedures that are used by the Peer Review Organization program under part B of title XI of the Social Security Act (42 U.S.C. 1320c et seq.).
 
@@ -234,9 +234,9 @@
 
 (5) The Secretary of Defense shall consult with the other administering Secretaries in the administration of this subsection.
 
-(q) Subject to subsection (a), a physician or other health care practitioner who is eligible to receive reimbursement for services provided under medicare (as defined in section 1086(d)(3)(C) of this title) shall be considered approved to provide medical care authorized under this section and section 1086 of this title unlessthe administering Secretaries have information indicating medicare, TRICARE, or other Federal health care program integrity violations by the physician or other health care practitioner.
+(q) Subject to subsection (a), a physician or other health care practitioner who is eligible to receive reimbursement for services provided under medicare (as defined in section 1086(d)(3)(C) of this title) shall be considered approved to provide medical care authorized under this section and section 1086 of this title unless the administering Secretaries have information indicating medicare, TRICARE, or other Federal health care program integrity violations by the physician or other health care practitioner.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1448; amended Pub. L. 89–614, §2(6), Sept. 30, 1966, 80 Stat. 863; Pub. L. 92–58, §1, July 29, 1971, 85 Stat. 157; Pub. L. 95–485, title VIII, §806(a)(1), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–342, title VIII, §810(a), (b), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 96–513, title V, §§501(13), 511(36), (38), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 96–552, Dec. 19, 1980, 94 Stat. 3254; Pub. L. 97–22, §11(a)(2), July 10, 1981, 95 Stat. 137; Pub. L. 97–86, title IX, §906(a)(1), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 98–94, title IX, §931(a), title XII, §1268(4), Sept. 24, 1983, 97 Stat. 648, 705; Pub. L. 98–525, title VI, §632(a)(1), title XIV, §§1401(e)(4), 1405(23), Oct. 19, 1984, 98 Stat. 2543, 2617, 2623; Pub. L. 98–557, §19(7), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VI, §652(d), title VII, §703, Nov. 14, 1986, 100 Stat. 3889, 3900; Pub. L. 100–180, div. A, title VII, §§721(a), 726(a), Dec. 4, 1987, 101 Stat. 1115, 1117; Pub. L. 100–456, div. A, title VI, §646(a), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §730(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 101–510, div. A, title VII, §§701(a), 702(a), 703(a), (b), 712(a), title XIV, §1484(g)(1), Nov. 5, 1990, 104 Stat. 1580, 1581, 1583, 1717; Pub. L. 102–25, title III, §316(b), Apr. 6, 1991, 105 Stat. 87; Pub. L. 102–190, div. A, title VII, §§702(b), 711, 712(a), 713, Dec. 5, 1991, 105 Stat. 1400, 1402, 1403; Pub. L. 102–484, div. A, title VII, §704, title X, §§1052(13), 1053(3), Oct. 23, 1992, 106 Stat. 2432, 2499, 2501; Pub. L. 103–35, title II, §202(a)(5), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VII, §§711, 716(c), Nov. 30, 1993, 107 Stat. 1688, 1693; Pub. L. 103–337, div. A, title VII, §§702(a), 707(a), Oct. 5, 1994, 108 Stat. 2797, 2800; Pub. L. 104–106, div. A, title VII, §§701, 731(a)–(d), Feb. 10, 1996, 110 Stat. 370, 380, 381; Pub. L. 104–201, div. A, title VII, §§701(b)(2), 711, 731, 732, 735(c), Sept. 23, 1996, 110 Stat. 2587, 2590, 2597, 2599; Pub. L. 105–85, div. A, title VII, §735, Nov. 18, 1997, 111 Stat. 1813; Pub. L. 106–398, §1 \[\[div. A\], title VII, §§701(c)(1), 704(b), 722(b)(1), 757(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–172, 1654A–175, 1654A–185, 1654A–198; Pub. L. 107–107, div. A, title VII, §§701(b), (g)(2), 703(b), 707(a), (b), title X, §1048(c)(5), Dec. 28, 2001, 115 Stat. 1158, 1161–1163, 1226; Pub. L. 107–314, div. A, title VII, §§701(a), §702, §705(a), Dec. 2, 2002, 116 Stat. 2583, 2584; Pub. L. 108–375, div. A, title VII, §705, Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §§714, 715(a), Jan. 6, 2006, 119 Stat. 3344; Pub. L. 109–364, div. A, title VII, §§701, 702, 703(b), Oct. 17, 2006, 120 Stat. 2279; Pub. L. 110–417, \[div. A\], title VII, §732, Oct. 14, 2008, 122 Stat. 4511.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1448; amended Pub. L. 89–614, §2(6), Sept. 30, 1966, 80 Stat. 863; Pub. L. 92–58, §1, July 29, 1971, 85 Stat. 157; Pub. L. 95–485, title VIII, §806(a)(1), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–342, title VIII, §810(a), (b), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 96–513, title V, §§501(13), 511(36), (38), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 96–552, Dec. 19, 1980, 94 Stat. 3254; Pub. L. 97–22, §11(a)(2), July 10, 1981, 95 Stat. 137; Pub. L. 97–86, title IX, §906(a)(1), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 98–94, title IX, §931(a), title XII, §1268(4), Sept. 24, 1983, 97 Stat. 648, 705; Pub. L. 98–525, title VI, §632(a)(1), title XIV, §§1401(e)(4), 1405(23), Oct. 19, 1984, 98 Stat. 2543, 2617, 2623; Pub. L. 98–557, §19(7), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VI, §652(d), title VII, §703, Nov. 14, 1986, 100 Stat. 3889, 3900; Pub. L. 100–180, div. A, title VII, §§721(a), 726(a), Dec. 4, 1987, 101 Stat. 1115, 1117; Pub. L. 100–456, div. A, title VI, §646(a), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §730(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 101–510, div. A, title VII, §§701(a), 702(a), 703(a), (b), 712(a), title XIV, §1484(g)(1), Nov. 5, 1990, 104 Stat. 1580, 1581, 1583, 1717; Pub. L. 102–25, title III, §316(b), Apr. 6, 1991, 105 Stat. 87; Pub. L. 102–190, div. A, title VII, §§702(b), 711, 712(a), 713, Dec. 5, 1991, 105 Stat. 1400, 1402, 1403; Pub. L. 102–484, div. A, title VII, §704, title X, §§1052(13), 1053(3), Oct. 23, 1992, 106 Stat. 2432, 2499, 2501; Pub. L. 103–35, title II, §202(a)(5), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VII, §§711, 716(c), Nov. 30, 1993, 107 Stat. 1688, 1693; Pub. L. 103–337, div. A, title VII, §§702(a), 707(a), Oct. 5, 1994, 108 Stat. 2797, 2800; Pub. L. 104–106, div. A, title VII, §§701, 731(a)–(d), Feb. 10, 1996, 110 Stat. 370, 380, 381; Pub. L. 104–201, div. A, title VII, §§701(b)(2), 711, 731, 732, 735(c), Sept. 23, 1996, 110 Stat. 2587, 2590, 2597, 2599; Pub. L. 105–85, div. A, title VII, §735, Nov. 18, 1997, 111 Stat. 1813; Pub. L. 106–398, §1 \[\[div. A\], title VII, §§701(c)(1), 704(b), 722(b)(1), 757(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–172, 1654A–175, 1654A–185, 1654A–198; Pub. L. 107–107, div. A, title VII, §§701(b), (g)(2), 703(b), 707(a), (b), title X, §1048(c)(5), Dec. 28, 2001, 115 Stat. 1158, 1161–1163, 1226; Pub. L. 107–314, div. A, title VII, §§701(a), §702, §705(a), Dec. 2, 2002, 116 Stat. 2583, 2584; Pub. L. 108–375, div. A, title VII, §705, Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §§714, 715(a), Jan. 6, 2006, 119 Stat. 3344; Pub. L. 109–364, div. A, title VII, §§701, 702, 703(b), Oct. 17, 2006, 120 Stat. 2279; Pub. L. 110–417, \[div. A\], title VII, §732, Oct. 14, 2008, 122 Stat. 4511; Pub. L. 111–84, div. A, title X, §1073(a)(12), Oct. 28, 2009, 123 Stat. 2473.)
 
 Historical and Revision Notes
 
@@ -264,7 +264,7 @@ Historical and Revision Notes
 
 June 7, 1956, ch. 374, §§102(a)(2) (as applicable to §201(a)), 201(a), (b), 204, 70 Stat. 250, 252, 253.
 
-In subsection (a), the words “appointed, enlisted, inducted or called, ordered or conscripted in a uniformed service”, in 37:402(a)(2) are omitted as surplusage, since it does not matter how a member became a member. The words “active duty for a period of more than 30 days” are substituted for the words “active duty or active duty for training pursuant to a call or order that does not specify a period of thirty days or less”, in 37:402(a)(2), to reflect section 101(22) and (23) of this title. The words “, under the authority of this section,” are substituted for the words “pursuant to the provisions of this title” to make clear that the section provides independent procurement authority. The words “all”, “by the hospital”, and “a period of”, in 37:411(a), are omitted as surplusage.
+In subsection (a), the words “appointed, enlisted, inducted or called, ordered or conscripted in a uniformed service”, in 37:402(a)(2) are omitted as surplusage, sinceit does not matter how a member became a member. The words “active duty for a period of more than 30 days” are substituted for the words “active duty or active duty for training pursuant to a call or order that does not specify a period of thirty days or less”, in 37:402(a)(2), to reflect section 101(22) and (23) of this title. The words “, under the authority of this section,” are substituted for the words “pursuant to the provisions of this title” to make clear that the section provides independent procurement authority. The words “all”, “by the hospital”, and “a period of”, in 37:411(a), are omitted as surplusage.
 
 In subsection (a)(1), the word “rooms”, in 37:411(a), is substituted for the word “accommodations”.
 
@@ -306,9 +306,11 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8077\], Oct. 12, 1984, 98 S
 
 Pub. L. 98–212, title VII, §785, Dec. 8, 1983, 97 Stat. 1453.
 
-A prior section 1079, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to establishment of right to vote, priorto repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1079, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to establishment of right to vote, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2009—Subsec. (f)(2)(B). Pub. L. 111–84 struck out period after “year”.
 
 2008—Subsec. (f)(2). Pub. L. 110–417 substituted “year shall not exceed $36,000, prorated as determined by the Secretary of Defense,” for “month shall not exceed $2,500,” in subpar. (A) and “year.” for “month” in subpar. (B).
 
@@ -388,7 +390,7 @@ Subsec. (a)(2). Pub. L. 104–201, §731(b)(2), (3), capitalized first letter of
 
 Pub. L. 104–201, §701(b)(2), inserted “the schedule and method of colon and prostate cancer screenings,” after “pap smears and mammograms,” in introductory provisions and “or colon and prostate cancer screenings” after “pap smears and mammograms” in subpar. (B).
 
-Pub. L. 104–106, §701, added par. (2) and struck out former par. (2) which read as follows: “routine physicalexaminations and immunizations of dependents over two years of age may only be provided when required in the case of dependents who are traveling outside the United States as a result of a member's duty assignment and such travel is being performed under orders issued by a uniformed service, except that pap smears and mammograms may be provided on a diagnostic or preventive basis;”.
+Pub. L. 104–106, §701, added par. (2) and struck out former par. (2) which read as follows: “routine physical examinations and immunizations of dependents over two years of age may only be provided when required in the case of dependents who are traveling outside the United States as a result of a member's duty assignment and such travel is being performed under orders issued by a uniformed service, except that pap smears and mammograms may be provided on a diagnostic or preventive basis;”.
 
 Subsec. (a)(3) to (12). Pub. L. 104–201, §731(b)(2), (3), capitalized first letter of first word and substituted a period for the semicolon at end.
 
@@ -614,7 +616,7 @@ Section 701(b) of Pub. L. 101–510 provided that: “The amendment made by subs
 
 Section 702(b) of Pub. L. 101–510 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to the services of certified marriage and family therapists provided under section 1079 or 1086 of title 10, United States Code, on or after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
-Section 703(d) of Pub. L. 101–510, as amended by Pub. L. 102–25, title III, §316(a)(1), Apr. 6, 1991, 105 Stat. 87, provided that: “This section and the amendments made by this section \[amending this section\] shall take effect on October 1, 1991, and shall apply with respect to mental health services provided under section 1079 or 1086 of title 10, United States Code, on or after that date.”
+Section 703(d) of Pub. L. 101–510, as amended by Pub. L. 102–25, title III, §316(a)(1), Apr. 6, 1991, 105 Stat. 87, provided that: “This section and the amendments madeby this section \[amending this section\] shall take effect on October 1, 1991, and shall apply with respect to mental health services provided under section 1079 or 1086 of title 10, United States Code, on or after that date.”
 
 Section 712(c) of Pub. L. 101–510 provided that: “The amendments made by this section \[amending this section and section 1086 of this title\] shall apply with respect to health care provided under sections 1079 and 1086 of title 10, United States Code, on or after April 1, 1991.”
 
@@ -782,7 +784,7 @@ Submission of Plan.—Not later than March 31, 2004, the Secretary shall submit 
 
 #### Report on Actions To Establish Special Reimbursement Rates
 
-Pub. L. 106–398, §1 \[\[div. A\], title VII, §757(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–199, directed the Secretaryof Defense, not later than Mar. 31, 2001, to submit to the Committees on Armed Services of the Senate and the House of Representatives and the General Accounting Office a report on actions taken to carry out sections 1079(h)(5) and 1097b of this title.
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §757(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–199, directed the Secretary of Defense, not later than Mar. 31, 2001, to submit to the Committees on Armed Services of the Senate and the House of Representatives and the General Accounting Office a report on actions taken to carry out sections 1079(h)(5) and 1097b of this title.
 
 #### Programs Relating to Sale of Pharmaceuticals
 
@@ -802,7 +804,5 @@ Pub. L. 102–25, title III, §312, Apr. 6, 1991, 105 Stat. 85, provided that th
 
 #### Transitional Health Care for Members, or Dependents of Members, Upon Release of Member From Active Duty in Connection With Operation Desert Storm
 
-For provision authorizing transitional health care, including health benefits contracted for under subsec. (a) of this section, for members, or dependents of members, upon release of member from active duty in connection with Operation Desert Storm, see section 313 of Pub. L. 102–25, set out as a note under section 1076 of this title.
-
-<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
+For provision authorizing transitional health care, including health benefits contracted for under subsec.\(a) of this section, for members, or dependents of members, upon release of member from active duty in connection with Operation Desert Storm, see section 313 of Pub. L. 102–25, set out as a note under section 1076 of this title.
 

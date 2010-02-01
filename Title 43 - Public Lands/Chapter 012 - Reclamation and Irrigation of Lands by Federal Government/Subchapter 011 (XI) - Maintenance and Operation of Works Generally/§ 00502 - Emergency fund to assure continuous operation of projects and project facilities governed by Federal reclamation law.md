@@ -36,7 +36,7 @@ Pub. L. 100–387, title IV, subtitle B, Aug. 11, 1988, 102 Stat. 957, provided 
 
 &emsp;“(1)(A) perform studies to identify opportunities to augment, make use of, or conserve water supplies available to Federal reclamation projects and Indian water resource developments, which studies shall be completed no later than March 1, 1990; and
 
-&emsp;“(B) consistent with existing contractual arrangements and State law, and without further authorization, undertake construction, management, and conservation activities that will mitigate or can be expected to have an effect in mitigating losses anddamages resulting from drought conditions in 1987, 1988, or 1989, which construction shall be completed by December 31, 1989; and
+&emsp;“(B) consistent with existing contractual arrangements and State law, and without further authorization, undertake construction, management, and conservation activities that will mitigate or can be expected to have an effect in mitigating losses and damages resulting from drought conditions in 1987, 1988, or 1989, which construction shall be completed by December 31, 1989; and
 
 &emsp;“(2) assist willing buyers in their purchase of available water supplies from willing sellers and redistribute such water based upon priorities to be determined by the Secretary consistent with State law, with the objective of minimizing losses and damages resulting from drought conditions in 1987, 1988, and 1989.
 
@@ -128,7 +128,7 @@ Termination.—The programs and authorities established under this part shall te
 
 #### Use of Western Area Power Administration Continuing Fund To Pay for Purchase Power and Wheeling Expenses To Meet Contractual Obligations During Periods of Below-Average Hydropower Generation
 
-Pub. L. 101–101, title III, Sept. 29, 1989, 103 Stat. 661, provided: “That, the continuing fund established inPublic Law 98–50 \[July 14, 1983, 97 Stat. 247, 257\] shall also be available on an ongoing basis for paying for purchase power and wheeling expenses when the Administrator determines that such expenditures are necessary to meet contractual obligations for the sale and delivery of power during periods of below-normal hydropower generation. Payments from the continuing fund shall be limited to the amount required to replace the generation deficiency, and only for the project where the deficiency occurred. Replenishment of the continuing fund shall occur within twelve months of the month in which the funds were first expended.”
+Pub. L. 101–101, title III, Sept. 29, 1989, 103 Stat. 661, provided: “That, the continuing fund established in Public Law 98–50 \[July 14, 1983, 97 Stat. 247, 257\] shall also be available on an ongoing basis for paying for purchase power and wheeling expenses when the Administrator determines that such expenditures are necessary to meet contractual obligations for the sale and delivery of power during periods of below-normal hydropower generation. Payments from the continuing fund shall be limited to the amount required to replace the generation deficiency, and only for the project where the deficiency occurred. Replenishment of the continuing fund shall occur within twelve months of the month in which the funds were first expended.”
 
 #### Emergency Fund
 

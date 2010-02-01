@@ -86,5 +86,5 @@ Section 911(b) of Pub. L. 103–337 provided that: “The authority provided by 
 
 #### Board of Advisors for Marine Corps University
 
-Pub. L. 103–337,div. A, title IX, §912, Oct. 5, 1994, 108 Stat. 2828, which authorized the Secretary of the Navyto establish a board of advisors for the Marine Corps University and to ensure that the board met all requirements of the appropriate regional accrediting association, was repealed and restated in subsec. (d) of this section by Pub. L. 107–107, div. A, title V, §532(c), Dec. 28, 2001, 115 Stat. 1105.
+Pub. L. 103–337,div. A, title IX, §912, Oct. 5, 1994, 108 Stat. 2828, which authorized the Secretary of the Navy to establish a board of advisors for the Marine Corps University and to ensure that the board met all requirements of the appropriate regional accrediting association, was repealed and restated in subsec. (d) of this section by Pub. L. 107–107, div. A, title V, §532(c), Dec. 28, 2001, 115 Stat. 1105.
 

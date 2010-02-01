@@ -48,7 +48,7 @@ not <sup>2</sup> to exceed 3 percent of all funding made available for a fiscal
 
 #### References in Text
 
-Section 3712a(b) of this title, referred to in subsecs. (a)(2) and (e), probably should be a reference to section3712h(b) of this title because section 3712a(b) relates to Director assistance and section 3712h(b) specifically sets out covered programs.
+Section 3712a(b) of this title, referred to in subsecs. (a)(2) and (e), probably should be a reference to section 3712h(b) of this title because section 3712a(b) relates to Director assistance and section 3712h(b) specifically sets out covered programs.
 
 January 5, 2006, referred to in subsec. (a)(3), was in the original “the date of the enactment of this Act” and was translated as meaning the date of enactment of Pub. L. 109–162, which enacted this section, to reflect the probable intent of Congress.
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(i) that occurs before the date of commencement of the case and is an event of default therewith is cured before the expiration of such 60-day period;
 
-&emsp;&emsp;(ii) that occurs or becomes an event of default after the date of commencement of thecase and before the expiration of such 60-day period is cured before the later of—
+&emsp;&emsp;(ii) that occurs or becomes an event of default after the date of commencement of the case and before the expiration of such 60-day period is cured before the later of—
 
 &emsp;&emsp;&emsp;(I) the date that is 30 days after the date of the default or event of the default; or
 
@@ -28,7 +28,7 @@
 
 (c)(1) In any case under this chapter, the trustee shall immediately surrender and return to a secured party, lessor, or conditional vendor, described in subsection (a)(1), equipment described in subsection (a)(2), if at any time after the date of commencement of the case under this chapter such secured party, lessor, or conditional vendor is entitled pursuant to subsection (a)(1) to take possession of such equipment and makes a written demand for such possession of the trustee.
 
-(2) At such time as the trustee is required under paragraph (1) to surrender and return equipment described in subsection (a)(2), any lease of such equipment, and any security agreement or conditional sale contract relating to such equipment, if such security agreement or conditional sale contract is an executory contract, shall be deemed rejected.
+(2) At such time as the trustee is required under paragraph (1) to surrender and returnequipment described in subsection (a)(2), any lease of such equipment, and any security agreement or conditional sale contract relating to such equipment, if such security agreement or conditional sale contract is an executory contract, shall be deemed rejected.
 
 (d) With respect to equipment first placed in service on or prior to October 22, 1994, for purposes of this section—
 

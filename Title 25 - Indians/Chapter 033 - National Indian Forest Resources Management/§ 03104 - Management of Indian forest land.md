@@ -22,7 +22,7 @@ Indian forest land management activities undertaken by the Secretary shall be de
 
 &emsp;(3) the regulation of Indian forest lands in a manner that will ensure the use of good method and order in harvesting so as to make possible, on a sustained yield basis, continuous productivity and a perpetual forest business;
 
-&emsp;(4) the development of Indian forest lands and associated value-added industries by Indians and Indian tribes to promote self-sustaining communities, so that Indians may receive from their Indian forest land not only stumpage value, but also the benefit of all the labor and profit that such Indian forest land is capable of yielding;
+&emsp;(4) the development of Indian forest lands and associated value-added industries by Indians and Indian tribes to promote self-sustaining communities, so that Indians may receivefrom their Indian forest land not only stumpage value, but also the benefit of all the labor and profit that such Indian forest land is capable of yielding;
 
 &emsp;(5) the retention of Indian forest land in its natural state when an Indian tribe determines that the recreational, cultural, aesthetic, or traditional values of the Indian forest land represents the highest and best use of the land;
 

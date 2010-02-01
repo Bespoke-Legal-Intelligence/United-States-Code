@@ -54,7 +54,7 @@ Judicial Review and Venue.—A person adversely affected by an order issued afte
 
 (e)
 
-Civil Actions to Enforce.—If a person fails to comply with an order issued under subsection (b) of this section, the Secretary of Labor shall bring a civil action to enforce the order in the district court of the United States for the judicial district in which the violation occurred.
+Civil Actions to Enforce.—If a person fails to comply with an order issued under subsection (b) of this section, the Secretary ofLabor shall bring a civil action to enforce the order in the district court of the United States for the judicial district in which the violation occurred.
 
 (f)
 
@@ -152,7 +152,7 @@ In subsection (d), the text of 49 App.:2305(e) (last sentence) is omitted as unn
 
 #### Employee Protections
 
-Pub. L. 105–178, title IV, §4023, June 9, 1998, 112 Stat. 415, provided that: “Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\], in conjunction with the Secretary of Labor, shall report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the effectiveness of existing statutory employee protections provided for under section 31105 of title 49, United States Code. The report shall include recommendations to address any statutory changes necessary to strengthen the enforcement of such employee protection provisions.”
+Pub. L. 105–178, title IV, §4023, June 9, 1998, 112 Stat. 415, provided that: “Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\], in conjunction with theSecretary of Labor, shall report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the effectiveness of existing statutory employee protections provided for under section 31105 of title 49, United States Code. The report shall include recommendations to address any statutory changes necessary to strengthen the enforcement of such employee protection provisions.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection (b)(1),”.</i>
 

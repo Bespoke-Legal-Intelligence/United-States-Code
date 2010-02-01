@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;With respect to tax advice, the same common law protections of confidentiality which apply to a communication between a taxpayer and an attorney shall also apply to a communication between a taxpayer and any federally authorized tax practitioner to the extent the communication would be considered a privileged communication if it were between a taxpayer and an attorney.
+&emsp;With respect to tax advice, the same common law protections of confidentiality which apply to a communication between a taxpayer and an attorney shall also apply to a communication between a taxpayer and any federallyauthorized tax practitioner to the extent the communication would be considered a privileged communication if it were between a taxpayer and an attorney.
 
 #### (2) Limitations
 

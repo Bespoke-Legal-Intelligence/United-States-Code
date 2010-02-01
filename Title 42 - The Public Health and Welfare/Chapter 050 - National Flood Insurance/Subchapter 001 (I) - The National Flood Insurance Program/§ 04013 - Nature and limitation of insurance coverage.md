@@ -42,7 +42,7 @@ In addition to any other terms and conditions under subsection (a) of this secti
 
 &emsp;(3) in the case of any residential property for which the risk premium rate is determined in accordance with the provisions of section 4014(a)(1) of this title, additional flood insurance in excess of the limits specified in clause (ii) of subparagraph (A) of paragraph (1) shall be made available to every insured upon renewal and every applicant for insurance so as to enable any such insured or applicant to receive coverage up to a total amount (including such limits specified in paragraph (1)(A)(ii)) of $100,000;
 
-&emsp;(4) in the case of any nonresidential property, including churches, for which the risk premium rate is determined in accordancewith the provisions of section 4014(a)(1) of this title, additional flood insurance in excess of the limits specified in subparagraphs (B) and (C) of paragraph (1) shall be made available to every insured upon renewal and every applicant for insurance, in respect to any single structure, up to a total amount (including such limit specified in subparagraph (B) or (C) of paragraph (1), as applicable) of $500,000 for each structure and $500,000 for any contents related to each structure; and
+&emsp;(4) in the case of any nonresidential property, including churches, for which the risk premium rate is determined in accordance with the provisions of section 4014(a)(1) of this title, additional flood insurance in excess of the limits specified in subparagraphs (B) and (C) of paragraph (1) shall be made available to every insured upon renewal and every applicant for insurance, in respect to any single structure, up to a total amount (including such limit specified in subparagraph (B) or (C) of paragraph (1), as applicable) of $500,000 for each structure and $500,000 for any contents related to each structure; and
 
 &emsp;(5) any flood insurance coverage which may be made available in excess of the limits specified in subparagraph (A), (B), or (C) of paragraph (1), shall be based only on chargeable premium rates under section 4015 of this title, which are not less than the estimated premium rates under section 4014(a)(1) of this title, and the amount of such excess coverage shall not in any case exceed an amount equal to the applicable limit so specified (or allocated) under paragraph (1)(C), (2), (3), or (4), as applicable.
 
@@ -50,7 +50,7 @@ In addition to any other terms and conditions under subsection (a) of this secti
 
 #### (1) Waiting period
 
-&emsp;Except as provided in paragraph (2), coverage under a new contract for flood insurance coverage under this chapter entered into after September 23, 1994, and any modification to coverage under an existing flood insurance contract made after September 23, 1994, shall become effective upon the expiration of the 30-day period beginning on the date that all obligations for such coverage (including completion of the application and payment of any initial premiums owed) are satisfactorily completed.
+&emsp;Except as provided in paragraph (2), coverage under a new contract for flood insurance coverage under this chapter entered into after September 23, 1994, and any modification to coverage under an existing flood insurance contract made after September 23, 1994, shallbecome effective upon the expiration of the 30-day period beginning on the date that all obligations for such coverage (including completion of the application and payment of any initial premiums owed) are satisfactorily completed.
 
 #### (2) Exception
 

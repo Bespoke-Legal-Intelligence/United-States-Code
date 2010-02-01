@@ -14,7 +14,7 @@ Act Sept. 18, 1922, ch. 321, accepted the provisions of the Act of the Legislatu
 
 Provision of section 1 of act Apr. 20, 1904, reciting the acceptance of the provisions of the Act of the Arkansas Legislature ceding to the United States exclusive jurisdiction over the territory described in section 1 aforesaid was omitted for purposes of codification.
 
-The line of the reservation was changed, and the tract of land thereby excluded was ceded to the city ofHot Springs, to be used for street purposes only, by act May 23, 1906, ch. 2552, 34 Stat. 198.
+The line of the reservation was changed, and the tract of land thereby excluded was ceded to the city of Hot Springs, to be used for street purposes only, by act May 23, 1906, ch. 2552, 34 Stat. 198.
 
 Certain lots situated on the Hot Springs Reservation were granted to the school district of Hot Springs by act Apr. 30, 1908, ch. 154, §1, 35 Stat. 98.
 

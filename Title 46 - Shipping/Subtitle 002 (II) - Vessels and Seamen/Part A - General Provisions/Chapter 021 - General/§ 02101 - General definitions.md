@@ -254,7 +254,7 @@ In this subtitle—
 
 &emsp;&emsp;(C) transfers oil or hazardous material in a port or place subject to the jurisdiction of the United States.
 
-&emsp;(40) “towing vessel” means a commercial vessel engaged in or intending to engage in the service of pulling, pushing, or hauling along side, or any combination of pulling, pushing, or hauling along side.
+&emsp;(40) “towing vessel” means a commercial vessel engaged in or intending to engage in theservice of pulling, pushing, or hauling along side, or any combination of pulling, pushing, or hauling along side.
 
 &emsp;\[(41) Repealed. Pub. L. 109–304, §15(2)(A), Oct. 6, 2006, 120 Stat. 1702.\]
 
@@ -413,7 +413,7 @@ Section 2101(36) defines “State” as a State, territory or possession of the 
 
 Section 2101(37) defines a “steam vessel” as a vessel propelled by steam. However, steam vessels of not more than 40 feet that are used exclusively for pleasure are not included.
 
-Section 2101(38) defines “tanker” as a self-propelled tank vessel that has been constructed or primarily adapted to carry oil or hazardous material in bulk in the cargo spaces. This vessel is a subclass of tank vessel, which is defined in section 2101(39). This subclass definition is necessary because certain statutory minimum requirements that are consistent with internationally accepted standards are solely applicable to these vessels.
+Section 2101(38) defines “tanker” as a self-propelled tank vessel that has been constructed or primarily adapted to carry oil or hazardous material in bulk in the cargo spaces. This vessel is a subclass of tank vessel, which is defined in section 2101(39). This subclassdefinition is necessary because certain statutory minimum requirements that are consistent with internationally accepted standards are solely applicable to these vessels.
 
 Section 2101(39) defines a “tank vessel” as a vessel carrying oil or hazardous materials in bulk or residue including a tanker as defined in section 2101(38).
 
@@ -507,7 +507,7 @@ Par. (21). Pub. L. 103–206, §502, amended par. (21) generally, substituting s
 
 Par. (21a). Pub. L. 103–206, §506, added par. (21a).
 
-Par. (22). Pub. L. 103–206, §503, amended par. (22) generally. Prior to amendment, par. (22) read as follows:“ ‘passenger vessel’ means a vessel of at least 100 gross tons carrying at least one passenger for hire.”
+Par. (22). Pub. L. 103–206, §503, amended par. (22) generally. Prior to amendment, par. (22) read as follows: “ ‘passenger vessel’ means a vessel of at least 100 gross tons carrying at least one passenger for hire.”
 
 Par. (30)(B). Pub. L. 103–206, §509, substituted “more than 6” for “at least 6”.
 

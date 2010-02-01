@@ -10,7 +10,7 @@ Each eligible partnership desiring a grant under this section shall submit an ap
 
 &emsp;(1) a needs assessment of the partners in the eligible partnership with respect to the preparation, ongoing training, professional development, and retention of general education and special education teachers, principals, and, as applicable, early childhood educators;
 
-&emsp;(2) a description of the extent to which the program to be carried out with grant funds, asdescribed in subsection (c), will prepare prospective and new teachers with strong teaching skills;
+&emsp;(2) a description of the extent to which the program to be carried out with grant funds, as described in subsection (c), will prepare prospective and new teachers with strong teaching skills;
 
 &emsp;(3) a description of how such program will prepare prospective and new teachers to understand and use research and data to modify and improve classroom instruction;
 
@@ -42,7 +42,7 @@ Each eligible partnership desiring a grant under this section shall submit an ap
 
 &emsp;&emsp;&emsp;(i) State early learning standards for early childhood education programs, as appropriate, and with the relevant domains of early childhood development; and
 
-&emsp;&emsp;&emsp;(ii) student academic achievement standards and academic content standards under section 1111(b)(2) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311(b)(2)\], established by the State in which the partnership is located;
+&emsp;&emsp;&emsp;(ii) student academic achievement standards and academic content standards under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311(b)(1)\], established by the State in which the partnership is located;
 
 &emsp;&emsp;(F) how the partnership will prepare general education teachers to teach students with disabilities, including training related to participation as a member of individualized education program teams, as defined in section 614(d)(1)(B) of the Individuals with Disabilities Education Act \[20 U.S.C. 1414(d)(1)(B)\];
 
@@ -74,13 +74,13 @@ Each eligible partnership desiring a grant under this section shall submit an ap
 
 An eligible partnership that receives a grant under this section—
 
-&emsp;(1) shall use grant funds to carry out a program for the pre-baccalaureate preparation of teachers under subsection (d), a teaching residency program under subsection (e), or a combination of such programs; and
+&emsp;(1) shall use grant funds to carry out a program for the preparation of teachers under subsection (d), a teaching residency program under subsection (e), or a combination of such programs; and
 
 &emsp;(2) may use grant funds to carry out a leadership development program under subsection (f).
 
-#### (d) Partnership grants for pre-baccalaureate preparation of teachers
+#### (d) Partnership grants for the preparation of teachers
 
-An eligible partnership that receives a grant to carry out an effective program for the pre-baccalaureate preparation of teachers shall carry out a program that includes all of the following:
+An eligible partnership that receives a grant to carry out a program for the preparation of teachers shall carry out an effective pre-baccalaureate teacher preparation program or a 5th year initial licensing program that includes all of the following:
 
 #### (1) Reforms
 
@@ -218,11 +218,11 @@ An eligible partnership that receives a grant to carry out an effective program 
 
 &emsp;&emsp;&emsp;(i) The integration of pedagogy, classroom practice, and teacher mentoring.
 
-&emsp;&emsp;&emsp;(ii) Engagement of teaching residents in rigorous graduate-level course work to earn a master's degree while undertaking a guided teaching apprenticeship.
+&emsp;&emsp;&emsp;(ii) Engagement of teaching residents in rigorous graduate-level course work leading to a master's degree while undertaking a guided teaching apprenticeship.
 
 &emsp;&emsp;&emsp;(iii) Experience and learning opportunities alongside a trained and experienced mentor teacher—
 
-&emsp;&emsp;&emsp;&emsp;(I) whose teaching shall complement the residency program so that classroom clinical practice is tightly aligned with coursework;
+&emsp;&emsp;&emsp;&emsp;(I) whose teaching shall complement the residency program so that classroomclinical practice is tightly aligned with coursework;
 
 &emsp;&emsp;&emsp;&emsp;(II) who shall have extra responsibilities as a teacher leader of the teaching residency program, as a mentor for residents, and as a teacher coach during the induction program for new teachers, and for establishing, within the program, a learning community in which all individuals are expected to continually improve their capacity to advance student learning; and
 
@@ -274,7 +274,7 @@ An eligible partnership that receives a grant to carry out an effective program 
 
 #### (i) Stipends or salaries
 
-&emsp;&emsp;&emsp;A teaching residency program under this subsection shall provide a one-year livingstipend or salary to teaching residents during the one-year teaching residency program.
+&emsp;&emsp;&emsp;A teaching residency program under this subsection shall provide a one-year living stipend or salary to teaching residents during the teaching residency program.
 
 #### (ii) Applications for stipends or salaries
 
@@ -284,9 +284,9 @@ An eligible partnership that receives a grant to carry out an effective program 
 
 &emsp;&emsp;&emsp;Each application submitted under clause (ii) shall contain or be accompanied by an agreement that the applicant will—
 
-&emsp;&emsp;&emsp;&emsp;(I) serve as a full-time teacher for a total of not less than three academic years immediately after successfully completing the one-year teaching residency program;
+&emsp;&emsp;&emsp;&emsp;(I) serve as a full-time teacher for a total of not less than three academic years immediately after successfully completing the teaching residency program;
 
-&emsp;&emsp;&emsp;&emsp;(II) fulfill the requirement under subclause (I) by teaching in a high-need school served by the high-need local educational agency in the eligible partnership and teach a subject or area that is designated as high need by the partnership;
+&emsp;&emsp;&emsp;&emsp;(II) fulfill the requirement under subclause (I) by teaching in a high-need school served by the high-need local educational agency in the eligible partnership and teach a subject or area that isdesignated as high need by the partnership;
 
 &emsp;&emsp;&emsp;&emsp;(III) provide to the eligible partnership a certificate, from the chief administrative officer of the local educational agency in which the resident is employed, of the employment required in subclauses (I) and (II) at the beginning of, and upon completion of, each year or partial year of service;
 
@@ -400,7 +400,7 @@ The Secretary shall—
 
 #### (3) Written consent
 
-&emsp;The Secretary may approve changes in grant activities of a grant under this section only if the eligible partnership submits to the Secretary a written consent of such changes signed by all members of the eligible partnership.
+&emsp;The Secretary may approve changes in grant activities of a grant under this section only if the eligible partnership submits to the Secretary a written consent to such changes signed by all members of the eligible partnership.
 
 #### (j) Construction
 
@@ -410,11 +410,11 @@ Nothing in this section shall be construed to prohibit an eligible partnership f
 
 Funds made available under this section shall be used to supplement, and not supplant, other Federal, State, and local funds that would otherwise be expended to carry out activities under this section.
 
-(Pub. L. 89–329, title II, §202, as added Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133.)
+(Pub. L. 89–329, title II, §202, as added Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133; amended Pub. L. 111–39, title II, §201(2), July 1, 2009, 123 Stat. 1936.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(4)(A), is Pub. L. 89–10,Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(4)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (b)(4)(A), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
@@ -425,6 +425,22 @@ Prior section 202 of Pub. L. 89–329 was classified to section 1022 of this tit
 A prior section 202 of Pub. L. 89–329 was classified to section 1022 of this title, prior to repeal by Pub. L. 104–208.
 
 Another prior section 202 of Pub. L. 89–329 was classified to section 1022 of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
+
+#### Amendments
+
+2009—Subsec. (b)(6)(E)(ii). Pub. L. 111–39, §201(2)(A), substituted “section 1111(b)(1)” for “section 1111(b)(2)”.
+
+Subsec. (c)(1). Pub. L. 111–39, §201(2)(B), struck out “pre-baccalaureate” before “preparation”.
+
+Subsec. (d). Pub. L. 111–39, §201(2)(C), substituted “the preparation” for “pre-baccalaureate preparation” inheading, added introductory provisions, and struck out former introductory provisions which read as follows: “An eligible partnership that receives a grant to carry out an effective program for the pre-baccalaureate preparation of teachers shall carry out a program that includes all of the following:”.
+
+Subsec. (e)(2). Pub. L. 111–39, §201(2)(D), in subpar. (A)(ii), substituted “leading to” for “to earn” and, in subpar. (C), struck out “one-year” before “teaching residency program” in cls. (i) and (iii)(I).
+
+Subsec. (i)(3). Pub. L. 111–39, §201(2)(E), substituted “consent to” for “consent of”.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a hyphen.</i>
 

@@ -34,7 +34,7 @@ Subsec. (b). Pub. L. 95–476, §203(b)(3), substituted “the death of such vet
 
 1966—Subsec. (a). Pub. L. 89–360 extended authorized burial allowance to include peacetime veterans who die of a service connected disability but who have neither applied for disability compensation for disability nor been discharged for disability.
 
-1964—Subsec. (b). Pub. L. 88–359 provided that no claim shall be allowed when allowance would revert to the funds of a public or private organization, or would discharge such an organization's obligation without payment, and struck out requirement that amounts paid by burial associations toward burial and funeral expenses be deducted prior to payment of allowance.
+1964—Subsec. (b). Pub. L. 88–359 provided that no claim shall be allowed when allowance would revert to the funds of a public or private organization, or would discharge such an organization's obligation withoutpayment, and struck out requirement that amounts paid by burial associations toward burial and funeral expenses be deducted prior to payment of allowance.
 
 #### Effective Date of 1982 Amendment
 

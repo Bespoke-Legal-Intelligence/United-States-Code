@@ -92,7 +92,7 @@ The Administrator shall permit the recipient of a grant under section 604 or 605
 
 #### (c) Multiple-purpose funds
 
-Nothing in this part shall be construed to prohibit State, local, or tribal governments fromusing grant funds under sections 604 and 605 of this title in a manner that enhances preparedness for disasters unrelated to acts of terrorism, if such use assists such governments in achieving target capabilities related to preventing, preparing for, protecting against, or responding to acts of terrorism.
+Nothing in this part shall be construed to prohibit State, local, or tribal governments from using grant funds under sections 604 and 605 of this title in a manner that enhances preparedness for disasters unrelated to acts of terrorism, if such use assists such governments in achieving target capabilities related to preventing, preparing for, protecting against, or responding to acts of terrorism.
 
 #### (d) Reimbursement of costs
 
@@ -120,7 +120,7 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (d)(1), is act June
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–412, §2(1)(A), substituted “The Administrator shall permit the recipient of a grant under section 604 or 605 of this title to use grant funds” for “Grants awarded under section 604 or 605 of this title may be used” in introductory provisions.
+2008—Subsec. (a). Pub. L. 110–412, §2(1)(A), substituted “The Administrator shall permit the recipient of agrant under section 604 or 605 of this title to use grant funds” for “Grants awarded under section 604 or 605 of this title may be used” in introductory provisions.
 
 Subsec. (a)(10). Pub. L. 110–412, §2(1)(B), inserted “, regardless of whether such analysts are current or new full-time employees or contract employees” after “analysts”.
 

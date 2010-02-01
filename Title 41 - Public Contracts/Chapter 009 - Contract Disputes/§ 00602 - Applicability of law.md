@@ -18,7 +18,7 @@ With respect to contracts of the Tennessee Valley Authority, the provisions of t
 
 #### (c) Foreign government or international organization contracts
 
-This chapter does not apply to a contract with a foreign government, or agency thereof, or international organization, or subsidiary body thereof, if the head of the agency determines that the application of the chapter to the contract would not be in the public interest.
+This chapter does not apply to a contract with a foreign government, or agency thereof, orinternational organization, or subsidiary body thereof, if the head of the agency determines that the application of the chapter to the contract would not be in the public interest.
 
 (Pub. L. 95–563, §3, Nov. 1, 1978, 92 Stat. 2383.)
 

@@ -42,7 +42,7 @@ Subsection (a) of this section shall not apply to—
 
 #### (d) Efficient operations
 
-Subsection (a) of this section shall not apply to the sale of a commodity the disposition of which is desirable in the interest of the effective and efficient conduct of the operations of the Corporation because of the small quantity of the commodity involved, or because of the age, location, or questionable continued storability of the commodity.
+Subsection (a) of this section shall not apply to the sale of a commodity the disposition ofwhich is desirable in the interest of the effective and efficient conduct of the operations of the Corporation because of the small quantity of the commodity involved, or because of the age, location, or questionable continued storability of the commodity.
 
 (Pub. L. 104–127, title I, §165, Apr. 4, 1996, 110 Stat. 936.)
 

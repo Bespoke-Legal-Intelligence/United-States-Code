@@ -2,7 +2,7 @@
 
 (a)
 
-Cooperative Arrangements Authorized.—A working-capital funded Army industrial facility may enter into a contract or other cooperative arrangement with a non-Army entity to carry out with the non-Army entity a military or commercial project described in subsection (b), subject to the conditions prescribed in subsection (c). This authority may be used toenter into not more than eight contracts or cooperative agreements.
+Cooperative Arrangements Authorized.—A working-capital funded Army industrial facility may enter into a contract or other cooperative arrangement with a non-Army entity to carry out with the non-Army entity a military or commercial project described in subsection (b), subject to the conditions prescribed in subsection (c). This authority may be used to enter into not more than eight contracts or cooperative agreements in addition to the contracts and cooperative agreements in place as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181).
 
 (b)
 
@@ -72,7 +72,7 @@ Approval Authority.—The authority of an Army industrial facility to enter into
 
 (g)
 
-Commercial Sales.—Except in the case of work performed for the Department of Defense, for a contract of the Department of Defense, for foreign military sales, or for authorized foreign direct commercial sales (defense articles or defense services sold to a foreign government or international organization under export controls), a sale of articles or services may be made under this section only if the approval authority described in subsection (f) determines that the articles or services are not available from a commercial source located in the United States in the required quantity or quality, or within the time required.
+Commercial Sales.—Except in the case of work performed for the Department of Defense, for a contract of the Department of Defense, for foreign military sales, or for authorized foreign direct commercial sales (defense articles or defense services sold to a foreign government or international organization under export controls), a sale of articles or services may be made under this section only if the approval authority described in subsection (f) determines that the articles or services are not available from acommercial source located in the United States in the required quantity or quality, or within the time required.
 
 (h)
 
@@ -82,7 +82,7 @@ Exclusion From Depot-Level Maintenance and Repair Percentage Limitation.—Amoun
 
 Relationship to Other Laws.—Nothing in this section shall be construed to affect the application of—
 
-&emsp;(1) foreign military sales and the export controls provided for in sections 30 and 38 of the Arms Export Control Act (22 U.S.C. 2770 and2778) to activities of a cooperative arrangement entered into under subsection (a); and
+&emsp;(1) foreign military sales and the export controls provided for in sections 30 and 38 of the Arms Export Control Act (22 U.S.C. 2770 and 2778) to activities of a cooperative arrangement entered into under subsection (a); and
 
 &emsp;(2) section 2667 of this title to leases of non-excess property in the administration of such an arrangement.
 
@@ -116,9 +116,15 @@ Definitions.—In this section:
 
 Expiration of Authority.—The authority to enter into a cooperative arrangement under subsection (a) expires September 30, 2014.
 
-(Added Pub. L. 108–375, div. A, title III, §353(a), Oct. 28, 2004, 118 Stat. 1859; amended Pub. L. 109–163, div. A, title III, §321, Jan. 6, 2006, 119 Stat. 3191; Pub. L. 109–364, div. A, title X, §1071(a)(29), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 110–181, div. A, title III, §328(a), Jan. 28, 2008, 122 Stat. 66.)
+(Added Pub. L. 108–375, div. A, title III, §353(a), Oct. 28, 2004, 118 Stat. 1859; amended Pub. L. 109–163, div. A, title III, §321, Jan. 6, 2006, 119 Stat. 3191; Pub. L. 109–364, div. A, title X, §1071(a)(29), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 110–181, div. A, title III, §328(a), Jan. 28, 2008, 122 Stat. 66; Pub. L. 111–84, div. A, title III, §324(a), Oct. 28, 2009, 123 Stat. 2253.)
+
+#### References in Text
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (a), is the date of enactment of Pub. L. 110–181, which was approved Jan. 28, 2008.
 
 #### Amendments
+
+2009—Subsec. (a). Pub. L. 111–84 inserted “in addition to the contracts and cooperative agreements in place as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181)” after “not more than eight contracts or cooperative agreements”.
 
 2008—Subsec. (a). Pub. L. 110–181, §328(a)(1), inserted at end “This authority may be used to enter into not more than eight contracts or cooperative agreements.”
 
@@ -144,7 +150,7 @@ Subsec. (k). Pub. L. 109–163, §321(b)(2), redesignated subsec. (j) as (k).
 
 #### Reports
 
-Pub. L. 110–181, div. A, title III, §328(b), Jan. 28, 2008, 122 Stat. 66, provided that:
+Pub. L. 110–181, div. A, title III, §328(b), Jan. 28, 2008, 122 Stat. 66, as amended by Pub. L. 111–84, div. A, title III, §324(b), Oct. 28, 2009, 123 Stat. 2253, provided that:
 
 “(1)
 
@@ -152,5 +158,13 @@ Annual report on use of authority.—The Secretary of the Army shall submit to C
 
 “(2)
 
-Analysis of use of authority.—Not later than September 30, 2012, the Secretary of the Army shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report assessing the advisability of making such authority permanent and eliminating the limitation on the number of contracts or cooperative arrangements that may be entered into pursuant to such authority.”
+Analysis of use of authority.—Not later than September 30, 2012, the Secretary of the Army shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report—
+
+&emsp;“(A) assessing the advisability of making such authority permanent and eliminating the limitation on the number of contracts or cooperative arrangements that may be entered into pursuant to such authority;
+
+&emsp;“(B) assessing the benefit to the Federal Government of using such authority;
+
+&emsp;“(C) assessing the impact of the use of such authority on the availability of facilities needed by the Army and on the private sector; and
+
+&emsp;“(D) describing the steps taken to comply with the requirements under section 4544(g) of title 10, United States Code.”
 

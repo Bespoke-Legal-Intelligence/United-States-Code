@@ -10,7 +10,7 @@ Biennial Report Required.—
 
 &emsp;(1)
 
-In general.—Not later than 180 days after the date of the enactment of this section, and every even-numbered year thereafter, the Secretary of Defense shall submit to the congressional defense committees a report on the management of the space cadre.
+In general.—Not later than July 28 of every even-numbered year, the Secretary of Defense shall submit to the congressional defense committees a report on the management of the space cadre.
 
 &emsp;(2)
 
@@ -52,9 +52,9 @@ Matters included.—The report required by paragraph (1) shall include—
 
 Assessments.—The report required by paragraph (1) shall also include the Secretary's assessment of the state of the Department's space cadre, the Secretary's assessment of the space cadres of the military departments, and a description of efforts to ensure the Department has a space cadre sufficient to meet current and future national security space needs.
 
-(Added Pub. L. 110–181, div. A, title IX, §912(a), Jan. 28, 2008, 122 Stat. 280.)
+(Added Pub. L. 110–181, div. A, title IX, §912(a), Jan. 28, 2008, 122 Stat. 280; amended Pub. L. 111–84, div. A, title X, §1073(a)(6), Oct. 28, 2009, 123 Stat. 2472.)
 
-#### References in Text
+#### Amendments
 
-The date of the enactment of this section, referred to in subsec. (b)(1), is the date of enactment of Pub. L. 110–181, which was approved Jan. 28, 2008.
+2009—Subsec. (b)(1). Pub. L. 111–84, which directed substitution of “July 28 of every even-numbered year” for “180 days after date of the enactment of this section, and every even-numbered year thereafter”, was executed by making the substitution for “180 days after the date of the enactment of this section, and every even-numbered year thereafter” to reflect the probable intent of Congress.
 

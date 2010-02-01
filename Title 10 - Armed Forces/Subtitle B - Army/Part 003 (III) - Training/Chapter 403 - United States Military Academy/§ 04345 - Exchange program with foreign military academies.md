@@ -12,7 +12,7 @@ Limitations on Number and Duration of Exchanges.—An exchange agreement under t
 
 Costs and Expenses.—(1) A student from a military academy of a foreign country is not entitled to the pay, allowances, and emoluments of a cadet by reason of attendance at the Academy under the exchange program, and the Department of Defense may not incur any cost of international travel required for transportation of such a student to and from the sponsoring foreign country.
 
-(2) The Secretary may provide a student from a foreign country under the exchange program, during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreign country provides comparable support and services to the exchanged cadet in that foreign country.
+(2) The Secretary may provide a student from a foreign country under the exchange program, during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreigncountry provides comparable support and services to the exchanged cadet in that foreign country.
 
 (3) The Academy shall bear all costs of the exchange program from funds appropriated for the Academy and such additional funds as may be available to the Academy from a source other than appropriated funds to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.
 
@@ -26,7 +26,7 @@ Application of Other Laws.—Subsections (c) and (d) of section 4344 of this tit
 
 Regulations.—The Secretary shall prescribe regulations to implement this section. Such regulations may include qualification criteria and methods of selection for students of foreign military academies to participate in the exchange program.
 
-(Added Pub. L. 105–85, div. A, title V, §542(a)(1), Nov. 18, 1997, 111 Stat. 1740; amended Pub. L. 106–65, div. A, title V, §535(a), Oct. 5, 1999, 113Stat. 605; Pub. L. 109–364, div. A, title V, §531(a), Oct. 17, 2006, 120 Stat. 2198.)
+(Added Pub. L. 105–85, div. A, title V, §542(a)(1), Nov. 18, 1997, 111 Stat. 1740; amended Pub. L. 106–65, div. A, title V, §535(a), Oct. 5, 1999, 113 Stat. 605; Pub. L. 109–364, div. A, title V, §531(a), Oct. 17, 2006, 120 Stat. 2198.)
 
 #### Prior Provisions
 

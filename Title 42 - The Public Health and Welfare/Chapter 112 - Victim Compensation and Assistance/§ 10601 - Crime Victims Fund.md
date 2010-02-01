@@ -142,7 +142,7 @@ Subsec. (d)(5). Pub. L. 107–56, §621(d), amended par. (5) generally. Prior to
 
 “(5)(A) If the sums available in the Fund are sufficient to fully provide grants to the States pursuant to section 10602(a)(1) of this title, the Director may retain any portion of the Fund that was deposited during a fiscal year that was in excess of 110 percent of the total amount deposited in the Fund during the preceding fiscal year as an emergency reserve. Such reserve shall not exceed $100,000,000.
 
-“(B) The emergency reserve referred to in subparagraph (A) may be used for supplemental grants under section 10603b of this title, to provide compensation to victims of international terrorism under the program under section 10603c of this title, and to supplement the funds available to provide grants to States for compensation and assistance in accordance with sections 10602 and 10603 of this title in years in which supplemental grants are needed.”
+“(B) The emergency reserve referred to in subparagraph (A) may be used for supplemental grants under section 10603b of this title, to provide compensation to victims of international terrorism under the programunder section 10603c of this title, and to supplement the funds available to provide grants to States for compensation and assistance in accordance with sections 10602 and 10603 of this title in years in which supplemental grants are needed.”
 
 2000—Subsec. (c). Pub. L. 106–386, §2003(d), which directed insertion of “Notwithstanding subsection (d)(5) of this section, all sums deposited in the Fund in any fiscal year that are not made available for obligation by Congress in the subsequent fiscal year shall remain in the Fund for obligation in future fiscal years, without fiscal year limitation.” at the end of section 1402(c) of the Victims of Crime Act 1984, was executed by making the insertion at the end of subsec. (c) of this section, which is section 1402 of the Victims of Crime Act of 1984, to reflect the probable intent of Congress.
 
@@ -308,9 +308,13 @@ Pub. L. 107–56, title VI, §621(e), Oct. 26, 2001, 115 Stat. 371, provided tha
 
 #### Limitation on Amounts Available for Obligation
 
-Pub. L. 110–161, div. B, title V, §513, Dec. 26, 2007, 121 Stat. 1926, provided that: “Notwithstanding any other provision of law, amounts deposited or available in the Fund established under 42 U.S.C. 10601 in any fiscal year in excess of $590,000,000 shall not be available for obligation until the following fiscal year.”
+Pub. L. 111–117, div. B, title V, §512, Dec. 16, 2009, 123 Stat. 3151, provided that: “Notwithstanding any other provision of law, amounts deposited or available in the Fund established under 42 U.S.C. 10601 in any fiscal year in excess of $705,000,000 shall not be available for obligation until the following fiscal year.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 111–8, div. B, title V, §512, Mar. 11, 2009, 123 Stat. 596.
+
+Pub. L. 110–161, div. B, title V, §513, Dec. 26, 2007, 121 Stat. 1926.
 
 Pub. L. 109–108, title VI, §612, Nov. 22, 2005, 119 Stat. 2336.
 
@@ -332,7 +336,7 @@ Pub. L. 106–177, title I, §104(b), Mar. 10, 2000, 114 Stat. 36, provided that
 
 #### Transfer of Certain Unobligated Funds
 
-Section 109(b) of Pub. L. 105–119 provided that: “Any unobligated sums hitherto available to the judicial branch pursuant to the paragraph repealed by subsection (a) \[former 42 U.S.C. 10601(d)(1)\] shall be deemed to be deposits into the Crime Victims Fund as of the effective date hereof \[Nov. 26, 1997\] and may be used by the Director of the Office for Victims of Crime to improve services for the benefit of crime victims, including the processing and tracking of criminal monetarypenalties and related litigation activities, in the Federal criminal justice system.”
+Section 109(b) of Pub. L. 105–119 provided that: “Any unobligated sums hitherto available to the judicial branch pursuant to the paragraph repealed by subsection (a) \[former 42 U.S.C. 10601(d)(1)\] shall be deemed to be deposits into the Crime Victims Fund as of the effective date hereof \[Nov. 26, 1997\] and may be used by the Director of the Office for Victims of Crime to improve services for the benefit of crime victims, including the processing and tracking of criminal monetary penalties and related litigation activities, in the Federal criminal justice system.”
 
 #### Retroactive Transfer to Fund
 

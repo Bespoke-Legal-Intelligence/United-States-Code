@@ -70,23 +70,5 @@ Section effective Oct. 5, 1999, see section 3299 of Pub. L. 106–65, set out as
 
 #### Transfer of Functions
 
-Pub. L. 109–364, div. C, title XXXI, §3117(a), Oct. 17, 2006, 120 Stat. 2507, provided that:
-
-“(a)
-
-Transfer of Functions.—
-
-&emsp;“(1)
-
-In general.—The functions, personnel, funds, assets, and other resources of the Office of Defense Nuclear Counterintelligence of the National Nuclear Security Administration are transferred to the Secretary of Energy, to be administered (except to any extent otherwise directed by the Secretary) by the Director of the Office of Counterintelligence of the Department of Energy.
-
-&emsp;“(2)
-
-Sunset.—Effective September 30, 2010—
-
-&emsp;&emsp;“(A) the functions, personnel, funds, assets, and other resources transferred by paragraph (1) are transferred to the Administrator for Nuclear Security;
-
-&emsp;&emsp;“(B) \[Amended section 2410 of Title 50, War and National Defense.\]
-
-&emsp;&emsp;“(C) \[Amended section 2423 of Title 50.\]”
+Pub. L. 109–364, div. C, title XXXI, §3117(a), Oct. 17, 2006, 120 Stat. 2507, as amended by Pub. L. 111–84, div. C, title XXXI, §3121, Oct. 28, 2009, 123 Stat. 2710, provided that: “The functions, personnel, funds, assets, and other resources of the Office of Defense Nuclear Counterintelligence of the National Nuclear Security Administration are transferred to the Secretary of Energy, to be administered (except to any extent otherwise directed by the Secretary) by the Director of the Office of Counterintelligence of the Department of Energy.”
 

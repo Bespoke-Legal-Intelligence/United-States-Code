@@ -24,7 +24,7 @@
 
 (3) A written request for guidance as described in paragraph (2) sent by certified mail (return receipt requested) shall be conclusive proof of receipt by the Department.
 
-(4) If the Secretary responds to a written request for guidance described in paragraph (2)(B) more than 90 days after its receipt, the State or local educational agency that submitted the request shall comply with the guidance received at the earliest practicable time.
+(4) If the Secretary responds to a written request for guidance described in paragraph (2)(B)more than 90 days after its receipt, the State or local educational agency that submitted the request shall comply with the guidance received at the earliest practicable time.
 
 (5) In order to demonstrate the existence of the mitigating circumstances described in paragraph (2)(B), the State or local educational agency shall demonstrate that—
 

@@ -30,7 +30,7 @@
 
 (g) The Office shall prescribe regulations to provide that the amount of any monthly annuity payable under this section accruing for any month and which is computed with regard to service that includes any service referred to in section 8332(b)(6) performed by an individual prior to January 1, 1969, shall be reduced by the portion of any benefits under any State retirement system to which such individual is entitled (or on proper application would be entitled) for such month which is attributable to such service performed by such individual before such date.
 
-(h) An individual entitled to an annuity from the Fund may make allotments or assignments of amounts from his annuity for such purposesas the Office of Personnel Management in its sole discretion considers appropriate.
+(h) An individual entitled to an annuity from the Fund may make allotments or assignments of amounts from his annuity for such purposes as the Office of Personnel Management in its sole discretion considers appropriate.
 
 (i)(1) No payment shall be made from the Fund unless an application for benefits based on the service of an employee or Member is received in the Office of Personnel Management before the one hundred and fifteenth anniversary of his birth.
 
@@ -50,7 +50,7 @@
 
 &emsp;(A) the term “court” means any court of any State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court;
 
-&emsp;(B) the term “judgment rendered for physically, sexually, or emotionally abusing a child” means any legal claim perfected through a final enforceable judgment, which claim is based in whole or in part upon the physical, sexual, or emotional abuse of a child, whether or not that abuse is accompanied by other actionable wrongdoing, such as sexual exploitation or gross negligence; and
+&emsp;(B) the term “judgment rendered for physically, sexually, or emotionally abusing a child” means any legal claim perfected through a final enforceable judgment, which claim is based in whole or in part upon the physical, sexual, or emotional abuse of a child,whether or not that abuse is accompanied by other actionable wrongdoing, such as sexual exploitation or gross negligence; and
 
 &emsp;(C) the term “child” means an individual under 18 years of age.
 
@@ -114,7 +114,7 @@ Subsec. (j)(3). Pub. L. 98–615, §2(6)(B), inserted reference to the Commonwea
 
 1982—Subsec. (a). Pub. L. 97–253, §304(b), substituted “rounded to the next lowest” for “fixed at the nearest”.
 
-Subsec. (b). Pub. L. 97–253, §305(a), substituted provisions that an annuity of an employee or Member commences on the first day of the month after separation from service or pay ceases and the service and age requirements for title to annuity are met, that any other annuity payable from the Fund commences on the first day of the month after the occurrence of the event on which the payment thereof is based, and that the annuity of an employee involuntarily separated from service or of an employee or Member retiring due to a disability shall commence on the day after separation from the service or the day after pay ceases and the service and age or disability requirements for title to annuity are met for provisions that the annuity of an employee or Member would commence on the day after he was separated from the service, or on the day after his pay ceased and he met the service and the age or disability requirements for title to annuity and that an annuity payable from the Fund allowed after September 5, 1960, would commence on the day after the occurrence of the event on which payment thereof was based.
+Subsec. (b). Pub. L. 97–253, §305(a), substituted provisions that an annuity of an employee or Member commences on the first day of the month after separation from service or pay ceases and the service and age requirements for title to annuity are met, that any other annuity payable from the Fund commences on the first day of the month after the occurrence of the event on which the payment thereof is based, and that the annuity of an employee involuntarily separated from service or of an employee or Member retiring due to a disability shall commence on the day after separation from the service or the day after pay ceases and the service and age or disability requirements for title to annuity are met for provisions that the annuity of an employee or Member would commence on the day after he was separated from the service, or on the day after his payceased and he met the service and the age or disability requirements for title to annuity and that an annuity payable from the Fund allowed after September 5, 1960, would commence on the day after the occurrence of the event on which payment thereof was based.
 
 1981—Subsec. (k). Pub. L. 97–35 added subsec. (k).
 

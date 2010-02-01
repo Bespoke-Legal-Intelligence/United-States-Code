@@ -22,7 +22,10 @@
 | [262k.](%C2%A7%2000262k%20-%20Financial%20assistance%20to%20international%20financial%20institutions%3B%20considerations%20and%20criteria.md) | Financial assistance to international financial institutions; considerations and criteria. |
 | 262k–1. | Transparency of budgets. |
 | 262k–2. | Female genital mutilation. |
-| 262<i>l.</i> | Omitted. |
+| 262<i>l.</i> | Environmental reform measures and remedial measures; Committee on Health and the Environment. |
+| 262<i>l</i>–1. | Sustainable economic growth and management of natural resources; environmental impact of loans; pest management; addition of trained professionals; “early warning system”. |
+| 262<i>l</i>–2. | Sustainable use of natural resources; use of agricultural and industrial chemicals. |
+| 262<i>l</i>–3. | Environmental and energy initiatives; benchmarks; Global Warming Initiative; appropriations. |
 | [262m.](%C2%A7%2000262m%20-%20Congressional%20findings%20and%20policies%20for%20multilateral%20development%20banks%20respecting%20environment%2C%20public%20health%2C%20natural%20resources%2C%20and%E2%80%A6.md) | Congressional findings and policies for multilateral development banks respecting environment, public health, natural resources, and indigenous peoples. |
 | 262m–1. | Environmental performance of banks; mechanisms for improvement. |
 | 262m–2. | Environmental impact of assistance proposals. |
@@ -31,6 +34,7 @@
 | 262m–5. | Environmental impact statements; factors considered; promotion of activities by United States Executive Directors. |
 | 262m–6. | Repealed. |
 | 262m–7. | Assessment of environmental impact of proposed multilateral development bank actions. |
+| 262m–8. | Climate change mitigation and greenhouse gas accounting. |
 | [262n.](%C2%A7%2000262n%20-%20Congressional%20findings%20and%20policies%20respecting%20agricultural%20and%20commodity%20production.md) | Congressional findings and policies respecting agricultural and commodity production. |
 | 262n–1. | Increase in income and employment in developing countries; enhancement of purchasing power; diversification away from single crop or product economies. |
 | 262n–2. | Financing projects for production of export commodities, products, or minerals in surplus in world markets discouraged; instructions by Secretary of the Treasury to United States Executive Directors. |
@@ -67,6 +71,9 @@
 | 262p–6. | Improvement of the Heavily Indebted Poor Countries Initiative. |
 | 262p–7. | Reform of the Enhanced Structural Adjustment Facility. |
 | 262p–8. | Modification of the Enhanced HIPC Initiative. |
+| 262p–9. | Reform of the “Doing Business” Report of the World Bank. |
+| 262p–10. | Enhancing the transparency and effectiveness of the Inspection Panel process of the World Bank. |
+| 262p–11. | Opposition to loans or funds for countries that support terrorism. |
 | [262q.](%C2%A7%2000262q%20-%20Transferred.md) | Transferred. |
 | [262r.](%C2%A7%2000262r%20-%20Annual%20report%20by%20Chairman%20of%20National%20Advisory%20Council%20on%20International%20Monetary%20and%20Financial%20Policies.md) | Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies. |
 | 262r–1. | Transmission to the Congress of operating summaries of the multilateral development banks. |
@@ -429,6 +436,8 @@
 | [284s.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284s%20-%20Ninth%20replenishment.md) | Ninth replenishment. |
 | [284t.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284t%20-%20Thirteenth%20replenishment.md) | Thirteenth replenishment. |
 | [284u.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284u%20-%20Fourteenth%20replenishment.md) | Fourteenth replenishment. |
+| [284v.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284v%20-%20Fifteenth%20replenishment.md) | Fifteenth replenishment. |
+| [284w.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284w%20-%20Multilateral%20debt%20relief.md) | Multilateral debt relief. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -492,14 +501,14 @@
 | 286e–1i. | Increase in United States quota; consultations with Congress. |
 | 286e–1j. | Additional increase in capital stock of Bank; subscription to additional shares; authorization of appropriations. |
 | 286e–1k. | Capital stock increase. |
-| 286e–1<i>l.</i> | Quota increase. |
-| 286e–1m. | Quota increase. |
+| 286e–1<i>l.</i> | Quota increase to 8,608,500,000 Special Drawing Rights. |
+| 286e–1m. | Quota increase to 10,622,500,000 Special Drawing Rights. |
 | 286e–2. | Loans to Fund. |
 | 286e–3. | Transfers to stabilization fund of purchase of currencies or gold from International Monetary Fund; administration; utilization of fund resources for repayments. |
 | 286e–4. | Loans to International Finance Corporation; amendment to Articles of Agreement. |
 | 286e–5. | Amendments to Articles of Agreement. |
 | 286e–5a. | Additional amendments to Articles of Agreement. |
-| 286e–5b. | Acceptance of amendments to Articles of Agreement of the Fund. |
+| 286e–5b. | Acceptance of amendments to Articles of Agreement of the Fund approved on June 28, 1990. |
 | 286e–6. | Vote against establishment of Council. |
 | 286e–7. | Supplementary Financing Facility. |
 | 286e–8. | Treatment of creditors in debt rescheduling. |
@@ -546,6 +555,10 @@
 | [286mm.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286mm%20-%20Measures%20to%20reduce%20military%20spending%20by%20developing%20nations.md) | Measures to reduce military spending by developing nations. |
 | [286nn.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286nn%20-%20Approval%20of%20contributions%20for%20debt%20reductions%20for%20the%20poorest%20countries.md) | Approval of contributions for debt reductions for the poorest countries. |
 | 286<i>oo.</i> | Principles for International Monetary Fund lending. |
+| [286pp.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286pp%20-%20Acceptance%20of%20amendments%20to%20Articles%20of%20Agreement%20of%20Fund%20approved%20on%20April%2028%20and%20May%205%2C%202008.md) | Acceptance of amendments to Articles of Agreement of Fund approved on April 28 and May 5, 2008. |
+| [286qq.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286qq%20-%20Quota%20increase%20to%204%2C973%2C100%2C000%20Special%20Drawing%20Rights.md) | Quota increase to 4,973,100,000 Special Drawing Rights. |
+| [286rr.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286rr%20-%20Approval%20to%20sell%20a%20limited%20amount%20of%20the%20Fund%27s%20gold.md) | Approval to sell a limited amount of the Fund's gold. |
+| [286ss.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286ss%20-%20Acceptance%20of%20amendment%20to%20Articles%20of%20Agreement%20of%20Fund%20approved%20on%20October%2022%2C%201997.md) | Acceptance of amendment to Articles of Agreement of Fund approved on October 22, 1997. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -670,6 +683,8 @@
 | 290g–15. | Sixth replenishment. |
 | 290g–16. | Ninth replenishment. |
 | 290g–17. | Tenth replenishment. |
+| 290g–18. | Eleventh replenishment. |
+| 290g–19. | Multilateral Debt Relief Initiative. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -820,7 +835,10 @@
 - [&sect; 00262k - Financial assistance to international financial institutions; considerations and criteria](%C2%A7%2000262k%20-%20Financial%20assistance%20to%20international%20financial%20institutions%3B%20considerations%20and%20criteria.md)
 - [&sect; 00262k&#8211;1 - Transparency of budgets](%C2%A7%2000262k%E2%80%931%20-%20Transparency%20of%20budgets.md)
 - [&sect; 00262k&#8211;2 - Female genital mutilation](%C2%A7%2000262k%E2%80%932%20-%20Female%20genital%20mutilation.md)
-- [&sect; 00262l - Omitted](%C2%A7%2000262l%20-%20Omitted.md)
+- [&sect; 00262l - Environmental reform measures and remedial measures; Committee on Health and the Environment](%C2%A7%2000262l%20-%20Environmental%20reform%20measures%20and%20remedial%20measures%3B%20Committee%20on%20Health%20and%20the%20Environment.md)
+- [&sect; 00262l&#8211;1 - Sustainable economic growth and management of natural resources; environmental impact of loans; pest management; addition of trained&#8230;](%C2%A7%2000262l%E2%80%931%20-%20Sustainable%20economic%20growth%20and%20management%20of%20natural%20resources%3B%20environmental%20impact%20of%20loans%3B%20pest%20management%3B%20addition%20of%20trained%E2%80%A6.md)
+- [&sect; 00262l&#8211;2 - Sustainable use of natural resources; use of agricultural and industrial chemicals](%C2%A7%2000262l%E2%80%932%20-%20Sustainable%20use%20of%20natural%20resources%3B%20use%20of%20agricultural%20and%20industrial%20chemicals.md)
+- [&sect; 00262l&#8211;3 - Environmental and energy initiatives; benchmarks; Global Warming Initiative; appropriations](%C2%A7%2000262l%E2%80%933%20-%20Environmental%20and%20energy%20initiatives%3B%20benchmarks%3B%20Global%20Warming%20Initiative%3B%20appropriations.md)
 - [&sect; 00262m - Congressional findings and policies for multilateral development banks respecting environment, public health, natural resources, and&#8230;](%C2%A7%2000262m%20-%20Congressional%20findings%20and%20policies%20for%20multilateral%20development%20banks%20respecting%20environment%2C%20public%20health%2C%20natural%20resources%2C%20and%E2%80%A6.md)
 - [&sect; 00262m&#8211;1 - Environmental performance of banks; mechanisms for improvement](%C2%A7%2000262m%E2%80%931%20-%20Environmental%20performance%20of%20banks%3B%20mechanisms%20for%20improvement.md)
 - [&sect; 00262m&#8211;2 - Environmental impact of assistance proposals](%C2%A7%2000262m%E2%80%932%20-%20Environmental%20impact%20of%20assistance%20proposals.md)
@@ -829,6 +847,7 @@
 - [&sect; 00262m&#8211;5 - Environmental impact statements; factors considered; promotion of activities by United States Executive Directors](%C2%A7%2000262m%E2%80%935%20-%20Environmental%20impact%20statements%3B%20factors%20considered%3B%20promotion%20of%20activities%20by%20United%20States%20Executive%20Directors.md)
 - [&sect; 00262m&#8211;6 - Repealed. Pub. L. 101&#8211;240, title V, &sect;541(d)(4), Dec. 19, 1989, 103 Stat. 2518](%C2%A7%2000262m%E2%80%936%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93240%2C%20title%20V%2C%20%C2%A7541%28d%29%284%29%2C%20Dec.%2019%2C%201989%2C%20103%20Stat.%202518.md)
 - [&sect; 00262m&#8211;7 - Assessment of environmental impact of proposed multilateral development bank actions](%C2%A7%2000262m%E2%80%937%20-%20Assessment%20of%20environmental%20impact%20of%20proposed%20multilateral%20development%20bank%20actions.md)
+- [&sect; 00262m&#8211;8 - Climate change mitigation and greenhouse gas accounting](%C2%A7%2000262m%E2%80%938%20-%20Climate%20change%20mitigation%20and%20greenhouse%20gas%20accounting.md)
 - [&sect; 00262n - Congressional findings and policies respecting agricultural and commodity production](%C2%A7%2000262n%20-%20Congressional%20findings%20and%20policies%20respecting%20agricultural%20and%20commodity%20production.md)
 - [&sect; 00262n&#8211;1 - Increase in income and employment in developing countries; enhancement of purchasing power; diversification away from single crop or&#8230;](%C2%A7%2000262n%E2%80%931%20-%20Increase%20in%20income%20and%20employment%20in%20developing%20countries%3B%20enhancement%20of%20purchasing%20power%3B%20diversification%20away%20from%20single%20crop%20or%E2%80%A6.md)
 - [&sect; 00262n&#8211;2 - Financing projects for production of export commodities, products, or minerals in surplus in world markets discouraged; instructions&#8230;](%C2%A7%2000262n%E2%80%932%20-%20Financing%20projects%20for%20production%20of%20export%20commodities%2C%20products%2C%20or%20minerals%20in%20surplus%20in%20world%20markets%20discouraged%3B%20instructions%E2%80%A6.md)
@@ -865,6 +884,9 @@
 - [&sect; 00262p&#8211;6 - Improvement of the Heavily Indebted Poor Countries Initiative](%C2%A7%2000262p%E2%80%936%20-%20Improvement%20of%20the%20Heavily%20Indebted%20Poor%20Countries%20Initiative.md)
 - [&sect; 00262p&#8211;7 - Reform of the Enhanced Structural Adjustment Facility](%C2%A7%2000262p%E2%80%937%20-%20Reform%20of%20the%20Enhanced%20Structural%20Adjustment%20Facility.md)
 - [&sect; 00262p&#8211;8 - Modification of the Enhanced HIPC Initiative](%C2%A7%2000262p%E2%80%938%20-%20Modification%20of%20the%20Enhanced%20HIPC%20Initiative.md)
+- [&sect; 00262p&#8211;9 - Reform of the &#8220;Doing Business&#8221; Report of the World Bank](%C2%A7%2000262p%E2%80%939%20-%20Reform%20of%20the%20%E2%80%9CDoing%20Business%E2%80%9D%20Report%20of%20the%20World%20Bank.md)
+- [&sect; 00262p&#8211;10 - Enhancing the transparency and effectiveness of the Inspection Panel process of the World Bank](%C2%A7%2000262p%E2%80%9310%20-%20Enhancing%20the%20transparency%20and%20effectiveness%20of%20the%20Inspection%20Panel%20process%20of%20the%20World%20Bank.md)
+- [&sect; 00262p&#8211;11 - Opposition to loans or funds for countries that support terrorism](%C2%A7%2000262p%E2%80%9311%20-%20Opposition%20to%20loans%20or%20funds%20for%20countries%20that%20support%20terrorism.md)
 - [&sect; 00262q - Transferred](%C2%A7%2000262q%20-%20Transferred.md)
 - [&sect; 00262r - Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies](%C2%A7%2000262r%20-%20Annual%20report%20by%20Chairman%20of%20National%20Advisory%20Council%20on%20International%20Monetary%20and%20Financial%20Policies.md)
 - [&sect; 00262r&#8211;1 - Transmission to the Congress of operating summaries of the multilateral development banks](%C2%A7%2000262r%E2%80%931%20-%20Transmission%20to%20the%20Congress%20of%20operating%20summaries%20of%20the%20multilateral%20development%20banks.md)
